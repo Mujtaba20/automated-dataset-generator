@@ -224,3 +224,8 @@ It's OK.	Es ist in Ordnung.	ठीक है।
 It's me!	Das bin ich!	यह मैं हूँ!
 It's me.	Es bin ich.	यह मैं हूँ।
 Join us.	Komm zu uns.	हमारे साथ जुड़िए।
+I'm mad.	Ich bin wütend.	मैं गुस्सा हूँ।
+I'm new.	Ich bin neu.	मैं नया हूँ।
+I'm old.	Ich bin alt.	मैं पुराना हूँ।
+I'm sad.	Ich bin traurig.	मुझे उदासी है।
+I'm shy.	Ich bin schüchtern.	मैं शर्मीला हूँ।
