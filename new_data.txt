@@ -219,3 +219,8 @@ I'm new.	Ich bin neu.	मैं नया हूँ।
 I'm old.	Ich bin alt.	मैं पुराना हूँ।
 I'm sad.	Ich bin traurig.	मुझे दुखी है।
 I'm shy.	Ich bin schüchtern.	मैं झिझकता हूँ।
+I'm wet.	Ich bin nass.	मैं गीला हूँ।
+It's OK.	Es ist in Ordnung.	ठीक है।
+It's me!	Das bin ich!	यह मैं हूँ!
+It's me.	Es bin ich.	यह मैं हूँ।
+Join us.	Komm zu uns.	हमारे साथ जुड़िए।
