@@ -229,3 +229,4 @@ engSentence2	Halte es.	यह रोको।
 engSentence3	Haltet es.	इसे संभालो।
 engSentence4	Behalten es.	यहाँ रखो।
 engSentence5	Bewahren es.	इसे सुरक्षित रखें।
+engSentence	{'Kill it.': 'Töte es.', 'Kiss me.': 'Küss mich.', 'Lie low.': 'Ruhe aus.'}	{'Kill it.': 'इसे मारो।', 'Kiss me.': 'मुझे चुम्मा दो।', 'Lie low.': 'आराम करो।'}
