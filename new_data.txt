@@ -214,20 +214,8 @@ I'm bad.	Ich bin schlecht.	मैं बुरा हूँ।
 I'm fat.	Ich bin dick.	मैं मोटा हूँ।
 I'm overweight.	Ich bin übergewichtig.	मैं अति मोटा हूँ।
 I'm hit!	Ich wurde getroffen!	मुझे लगा!
-I'm mad.	Ich bin wütend.	मैं गुस्सा हूँ।
+I'm mad.	Ich bin verrückt.	मुझे गुस्सा आ रहा है।
 I'm new.	Ich bin neu.	मैं नया हूँ।
 I'm old.	Ich bin alt.	मैं पुराना हूँ।
-I'm sad.	Ich bin traurig.	मैं उदास हूँ।
+I'm sad.	Ich bin traurig.	मुझे दुखी होना है।
 I'm shy.	Ich bin schüchtern.	मैं शर्मीला हूँ।
-I'm wet.	Ich bin nass.	मैं गीला हूं।
-It's OK.	Es ist in Ordnung.	यह ठीक है।
-It's me!	Ich bin es!	यह मैं हूँ!
-It's me.	Es bin ich.	यह मैं हूँ।
-Join us.	Komm zu uns.	हमारे साथ शामिल हों।
-engSentence1	Behalte es.	रखो इसे।
-engSentence2	Halte es.	यह रोको।
-engSentence3	Haltet es.	इसे संभालो।
-engSentence4	Behalten es.	यहाँ रखो।
-engSentence5	Bewahren es.	इसे सुरक्षित रखें।
-engSentence	{'Kill it.': 'Töte es.', 'Kiss me.': 'Küss mich.', 'Lie low.': 'Ruhe aus.'}	{'Kill it.': 'इसे मारो।', 'Kiss me.': 'मुझे चुम्मा दो।', 'Lie low.': 'आराम करो।'}
-engSentence	{'Lock it.': 'Schließ es.', 'Lock it.': 'Verschließe es.', 'Lock it.': 'Versperren Sie es.', 'Open it.': 'Öffnen Sie es.', 'Open it.': 'Machen Sie es auf.'}	{'Lock it.': 'लॉक करें।', 'Lock it.': 'बंद करें।', 'Lock it.': 'ताला लगा दो।', 'Open it.': 'खोलो।', 'Open it.': 'खोल दो।'}
