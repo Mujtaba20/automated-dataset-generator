@@ -230,3 +230,4 @@ engSentence3	Haltet es.	इसे संभालो।
 engSentence4	Behalten es.	यहाँ रखो।
 engSentence5	Bewahren es.	इसे सुरक्षित रखें।
 engSentence	{'Kill it.': 'Töte es.', 'Kiss me.': 'Küss mich.', 'Lie low.': 'Ruhe aus.'}	{'Kill it.': 'इसे मारो।', 'Kiss me.': 'मुझे चुम्मा दो।', 'Lie low.': 'आराम करो।'}
+engSentence	{'Lock it.': 'Schließ es.', 'Lock it.': 'Verschließe es.', 'Lock it.': 'Versperren Sie es.', 'Open it.': 'Öffnen Sie es.', 'Open it.': 'Machen Sie es auf.'}	{'Lock it.': 'लॉक करें।', 'Lock it.': 'बंद करें।', 'Lock it.': 'ताला लगा दो।', 'Open it.': 'खोलो।', 'Open it.': 'खोल दो।'}
