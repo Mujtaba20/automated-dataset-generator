@@ -13636,3 +13636,10 @@ That made me cry.	Das hat mich zum Weinen gebracht.	वहने मुझे �
 That makes sense.	Das macht Sinn.	यह समझ में आता है।
 That may be true.	Das könnte wahr sein.	यह सच हो सकता है।
 That person died.	Diese Person ist gestorben.	उस व्यक्ति की मौत हो गई।
+That should help.	Das sollte helfen.	यह मदद करना चाहिए।
+That should work.	Das sollte funktionieren.	वह काम करना चाहिए।
+That smells good.	Das riecht gut.	यह अच्छा लगता है।
+That smells nice.	Das riecht angenehm.	वह अच्छा लगता है।
+That sounds fair.	Das klingt fair.	यह उचित लगता है।
+That was awesome.	Das war großartig.	वह बहुत शानदार था।
+That was awkward.	Das war unangenehm.	वह अजीब था।
