@@ -15711,3 +15711,8 @@ Do it for my sake.	Tu es meinetwegen.	मेरे लिए करो।
 Do they have that?	Haben sie das?	क्या उनके पास वो है?
 Do they like wine?	Mögen sie Wein?	क्या उन्हें शराब पसंद है?
 Do they work here?	Arbeiten sie hier?	क्या वे यहाँ काम करते हैं?
+Do you agree, Tom?	Stimmst du zu, Tom?	क्या आप सहमत हैं, टॉम?
+Do you bake bread?	Backst du Brot?	क्या आप रोटी पकाते हैं?
+Do you believe me?	Glaubst du mir?	क्या आप मुझे विश्वास करते हैं?
+Do you drink beer?	Trinkst du Bier?	क्या आप बीयर पीते हैं?
+Do you drink wine?	Trinkst du Wein?	क्या आप वाइन पीते हैं?
