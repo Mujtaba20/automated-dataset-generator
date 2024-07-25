@@ -17475,3 +17475,8 @@ Keep Tom guessing.	Halte Tom im Ungewissen.	टॉम को दुविधा 
 Keep this in mind.	Behalte das im Kopf.	इसे ध्यान में रखो।
 Keep to the right.	Halte dich rechts.	दाहिने दीवार के पास रहो।
 Kids like to play.	Kinder spielen gerne.	बच्चे खेलने का शौक रखते हैं।
+Kids will be kids.	Kinder sind eben Kinder.	बच्चे तो बच्चे ही होंगे।
+Lead bends easily.	Blei biegt sich leicht.	लीड आसानी से मोड़ जाता है।
+Leave immediately.	Verlassen Sie sofort.	तुरंत छोड़ दीजिए।
+Let go of my hair.	Lass meine Haare los.	मेरे बाल छोड़ो।
+Let me handle Tom.	Lassen Sie mich Tom handhaben.	मुझे टॉम का सामना करने दे।
