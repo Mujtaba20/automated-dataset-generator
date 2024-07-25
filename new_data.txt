@@ -6274,3 +6274,12 @@ I want a puppy.	Ich möchte einen Welpen.	मुझे एक पप्पी �
 I want a raise.	Ich möchte eine Gehaltserhöhung.	मुझे वेतन में वृद्धि चाहिए।
 I want justice.	Ich möchte Gerechtigkeit.	मैं इंसाफ चाहता/चाहती हूँ।
 I want popcorn.	Ich möchte Popcorn.	मुझे पॉपकॉर्न चाहिए।
+I want revenge.	Ich will Rache.	मुझे बदला चाहिए।
+I want the fan.	Ich möchte den Ventilator.	मुझे पंखा चाहिए।
+I want to come.	Ich möchte kommen.	मैं आना चाहता/चाहती हूँ।
+I want to help.	Ich möchte helfen.	मैं मदद करना चाहता/चाहती हूँ।
+I want to know.	Ich möchte wissen.	मुझे जानना है।
+I want to live.	Ich möchte leben.	मैं जीना चाहता/चाहती हूँ।
+I want to play.	Ich möchte spielen.	मुझे खेलना है।
+I want to quit.	Ich möchte aufhören.	मैं निकलना चाहता/चाहती हूँ।
+I want to sing.	Ich möchte singen.	मैं गाना चाहता/चाहती हूँ।
