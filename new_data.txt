@@ -11341,3 +11341,8 @@ You got the job.	Sie haben die Stelle erhalten.	तुम्हें नौक�
 You have cancer.	Sie haben Krebs.	तुम्हें कैंसर है।
 You insulted me.	Sie haben mich beleidigt.	तुमने मुझे नीचा दिखाया।
 You knew I knew.	Sie wussten, dass ich es wusste.	तुम्हें पता था कि मैं जानता था।
+You know better.	Du kennst dich besser aus.	तुम्हें बेहतर पता है।
+You know enough.	Du kennst genug.	तुम्हें पर्याप्त जानकारी है।
+You know people.	Du kennst Leute.	तुम्हें लोग जानते हैं।
+You let me down.	Du hast mich hängen lassen.	तुमने मेरा भरोसा तोड़ा।
+You lied to Tom.	Du hast Tom belogen.	तुमने टॉम को झूठ बोला।
