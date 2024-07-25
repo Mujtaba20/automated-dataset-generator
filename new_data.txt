@@ -13677,3 +13677,12 @@ That's mine, too.	Das gehört auch mir.	यह भी मेरा है।
 That's my affair.	Das ist meine Angelegenheit.	यह मेरी संबंध है।
 That's my answer.	Das ist meine Antwort.	यह मेरा जवाब है।
 That's my mother.	Das ist meine Mutter.	यह मेरी माँ है।
+That's my pencil.	Das ist mein Bleistift.	यह मेरी पेंसिल है।
+That's my sister.	Das ist meine Schwester.	वह मेरी बहन है।
+That's my theory.	Das ist meine Theorie.	यह मेरी सिद्धांत है।
+That's no secret.	Das ist kein Geheimnis.	यह कोई रहस्य नहीं है।
+That's not funny.	Das ist nicht lustig.	यह मजाक नहीं है।
+That's not yours.	Das gehört nicht dir.	वह तुम्हारा नहीं है।
+That's our fault.	Das ist unser Fehler.	यह हमारी गलती है।
+That's our house.	Das ist unser Haus.	यह हमारा घर है।
+That's my book.	Das ist mein Buch.	यह मेरी किताब है।
