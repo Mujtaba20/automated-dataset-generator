@@ -5352,3 +5352,13 @@ We're reading. (2nd)	Wir sind am Lesen.	हम पढ़ रहे हैं।
 We're reading. (3rd)	Wir lesen gerade.	हम पढ़ रहे हैं।
 We're shocked.	Wir sind schockiert.	हम आश्चर्यचकित हैं।
 We're sinking.	Wir versinken.	हम डूब रहे हैं।
+We're so busy.	Wir sind so beschäftigt.	हम इतने व्यस्त हैं।
+We're special.	Wir sind besonders.	हम विशेष हैं।
+We're stalled.	Wir stecken fest.	हम ठप्प हो रहे हैं।
+We're staying.	Wir bleiben.	हम रुके हुए हैं।
+We're trapped!	Wir sind gefangen!	हम फंसे हुए हैं!
+We're unhappy.	Wir sind unglücklich.	हम अखुश हैं।
+We're unlucky.	Wir haben Pech.	हमें बदला हुआ है।
+We're unusual.	Wir sind ungewöhnlich.	हम असाधारण हैं।
+We're useless.	Wir sind nutzlos.	हम बेकार हैं।
+We're wealthy.	Wir sind wohlhabend.	हम धनवान हैं।
