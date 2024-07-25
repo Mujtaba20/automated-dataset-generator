@@ -8330,3 +8330,11 @@ Does this count?	Zählt das?	क्या यह गिनने में आ�
 Don't apologize.	Entschuldigen Sie sich nicht.	माफ़ी मत मांगो।
 Don't be a baby.	Sei kein Baby.	बच्चा मत बनो।
 Don't be a fool.	Sei nicht dumm.	मूर्ख मत बनो।
+Don't be a snob.	Sei kein Snob.	अहंकारी मत बनो।
+Don't be afraid.	Hab keine Angst.	डरो मत।
+Don't be scared.	Hab keine Angst.	डरो मत।
+Don't be so shy.	Sei nicht so schüchtern.	इतने शर्मिले मत बनो।
+Don't be stingy.	Sei nicht geizig.	कंजूस मत बनो।
+Don't be stupid.	Sei nicht dumm.	बेवकूफ मत बनो।
+Don't blame Tom.	Mach Tom keine Vorwürfe.	टॉम पर आरोप न डालो।
+Don't bother me.	Belästige mich nicht.	मुझे परेशान मत करो।
