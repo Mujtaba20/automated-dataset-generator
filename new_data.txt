@@ -1317,3 +1317,12 @@ Tom waited.	Tom wartete.	टॉम प्रतीक्षा कर रहा 
 Tom walked.	Tom spazierte.	टॉम सैर करने चला गया।
 Tom winked.	Tom zwinkerte.	टॉम मुस्कुराया।
 Tom worked.	Tom beschäftigte sich.	टॉम निरंतर काम किया।
+Tom yawned.	Tom gähnte.	टॉम यावन करता था।
+Tom yelled.	Tom rief.	टॉम बोला।
+Tom'll cry.	Tom wird weinen.	टॉम रोएगा।
+Tom'll die.	Tom wird sterben.	टॉम मरेगा।
+Tom'll pay.	Tom wird bezahlen.	टॉम चुकता करेगा।
+Tom's busy.	Tom ist beschäftigt.	टॉम व्यस्त है।
+Tom's deaf.	Tom ist taub.	टॉम बहरा है।
+Tom's died.	Tom ist gestorben.	टॉम मर चुका है।
+Tom's fast.	Tom ist schnell.	टॉम तेज है।
