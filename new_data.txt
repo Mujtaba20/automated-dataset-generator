@@ -13227,3 +13227,12 @@ It's regrettable.	Es ist bedauerlich.	यह माफ़ करने योग
 It's snowing now.	Es schneit jetzt.	अब बर्फ गिर रही है।
 It's still alive.	Es lebt noch.	यह अभी भी जीवित है।
 It's supper time.	Es ist Abendessenzeit.	यह रात का खाना समय आ गया है।
+It's that simple.	Es ist ganz einfach.	यह बहुत सरल है।
+It's their fault.	Es ist ihr Fehler.	यह उनकी गलती है।
+It's their right.	Es ist ihr Recht.	यह उनका अधिकार है।
+It's transparent.	Es ist transparent.	यह पारदर्शी है।
+It's unnecessary.	Es ist unnötig.	यह अनावश्यक है।
+It's very bitter.	Es ist sehr bitter.	यह बहुत कड़वा है।
+It's very boring.	Es ist sehr langweilig.	यह बहुत उबाऊ है।
+It's very sticky.	Es ist sehr klebrig.	यह बहुत चिपचिपा है।
+It's very sticky. (different meaning)	Es ist sehr knifflig.	यह बहुत जटिल है।
