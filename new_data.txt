@@ -17380,3 +17380,13 @@ It's all I've got.	Es ist alles, was ich habe.	यही मेरे पास 
 It's all nonsense.	Es ist alles Unsinn.	यह सब बकवास है।
 It's all over now.	Es ist jetzt alles vorbei.	अब यह सब खत्म हो गया है।
 It's all the rage.	Es ist total angesagt.	यह सभी के बीच बहुत प्रसिद्ध है।
+It's almost ready.	Es ist fast fertig.	यह लगभग तैयार है।
+It's already dark.	Es ist bereits dunkel.	यह पहले से ही अंधेरा हो गया है।
+It's already late.	Es ist schon spät.	यह पहले से ही देर हो गई है।
+It's already late. (different meaning)	Es ist bereits spät.	यह पहले से ही देर हो गई है। (विभिन्न अर्थ)
+It's an emergency.	Es ist ein Notfall.	यह एक आपातकालीन स्थिति है।
+It's an old piano.	Es ist ein altes Klavier.	यह एक पुराना पियानो है।
+It's an ugly flag.	Es ist eine hässliche Flagge.	यह एक बदसूरत झंडा है।
+It's breathtaking.	Es ist atemberaubend.	यह दिल दहलाने वाला है।
+It's cloudy today.	Heute ist es bewölkt.	आज बादलगर्द है।
+It's cloudy today. (different meaning)	Es ist heute bewölkt.	आज में बादल ज्यादा है। (विभिन्न अर्थ)

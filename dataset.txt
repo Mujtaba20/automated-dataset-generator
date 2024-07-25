@@ -1,14 +1,4 @@
 
-It's almost ready.	Es ist fast fertig.	यह लगभग हो गया है।
-It's already dark.	Es ist schon dunkel.	यह पहले से ही अंधेरा है।
-It's already late.	Es ist spät.	उसे देर हो गई है.
-It's already late.	Es ist schon spät.	पहले से ही देर हो चुकी है।
-It's an emergency.	Dies ist ein Notfall.	यह एक आपातकालीन स्थिति है।
-It's an old piano.	Es ist ein altes Klavier.	यह एक पुराना पियानो है।
-It's an ugly flag.	Das ist eine hässliche Flagge.	यह एक बदसूरत झंडा है।
-It's breathtaking.	Es ist atemberaubend.	यह लुभावनी है।
-It's cloudy today.	Es ist heute bewölkt.	आज बादल भरा मौसम है।
-It's cloudy today.	Es ist heute wolkig.	यह आज बादल है।
 It's cold in here.	Es ist kalt hier drin.	इसमें ठंडा है।
 It's confidential.	Es ist vertraulich.	यह गोपनीय है।
 It's dark in here.	Es ist dunkel hier drin.	इसमें अंधेरा है।
