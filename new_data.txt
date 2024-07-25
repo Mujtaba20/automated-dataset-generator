@@ -3325,3 +3325,9 @@ Tom got an A.	Tom hat eine Eins bekommen.	टॉम ने एक ए प्र�
 Tom got away.	Tom ist weggekommen.	टॉम भाग गया।
 Tom got home.	Tom ist nach Hause gekommen.	टॉम घर पहुंच गया।
 Tom got hurt.	Tom hat sich verletzt.	टॉम को चोट आई।
+Tom got lost.	Tom ist verloren gegangen.	टॉम खो गया।
+Tom got paid.	Tom wurde bezahlt.	टॉम को भुगतान मिला।
+Tom got shot.	Tom wurde angeschossen.	टॉम को गोली मारी गई।
+Tom got sick.	Tom wurde krank.	टॉम बीमार हो गया।
+Tom grimaced.	Tom verzog das Gesicht vor Schmerz.	टॉम ने दर्द भरे मान से मुँह बिचकाया।
+Tom grumbled.	Tom murmelte vor sich hin.	टॉम कोरे तरह बोला।
