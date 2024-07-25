@@ -1,14 +1,4 @@
 
-Are your feet cold?	Hast du kalte Füße?	क्या आपके पास ठंडे पैर हैं?
-Are your shoes new?	Sind deine Schuhe neu?	क्या आपके जूते नए हैं?
-Aren't you anxious?	Bist du nicht besorgt?	क्या आप चिंतित नहीं हैं
-Aren't you curious?	Bist du denn gar nicht neugierig?	क्या आप बिल्कुल भी उत्सुक नहीं हैं?
-Aren't you curious?	Seid ihr denn gar nicht neugierig?	क्या आप उत्सुक नहीं हैं?
-Aren't you curious?	Sind Sie denn gar nicht neugierig?	क्या आप उत्सुक नहीं हैं?
-Aren't you doctors?	Seid ihr nicht Ärzte?	क्या आप डॉक्टर नहीं हैं?
-Aren't you excited?	Bist du nicht aufgeregt?	क्या आप उत्साहित नहीं हैं?
-Aren't you in town?	Bist du nicht in der Stadt?	क्या आप शहर में नहीं हैं?
-Aren't you nervous?	Sind Sie nicht nervös?	क्या आप नर्वस नहीं हैं?
 Aren't you sisters?	Seid ihr nicht Schwestern?	क्या आप बहन नहीं हैं?
 Ask Tom to do that.	Bitten Sie Tom, das zu tun.	टॉम से ऐसा करने के लिए कहें।
 Ask her for advice.	Frag sie um Rat.	उनसे सलाह मांगें।

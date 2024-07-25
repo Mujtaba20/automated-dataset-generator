@@ -20291,3 +20291,11 @@ Are you sure of it?	Bist du dir sicher?	क्या आप इसे निश�
 Are you there, Tom?	Bist du da, Tom?	तुम वहाँ हो, टॉम?
 Are you using that?	Benutzt du das?	क्या तुम उसका इस्तेमाल कर रहे हो?
 Are you vegetarian?	Bist du Vegetarierin?	क्या तुम शाकाहारी हो?
+Are your feet cold?	Sind deine Füße kalt?	क्या तुम्हारे पैर ठंडे हैं?
+Are your shoes new?	Sind deine Schuhe neu?	क्या तुम्हारे जूते नए हैं?
+Aren't you anxious?	Bist du nicht ängstlich?	क्या तुम उत्सुक नहीं हो?
+Aren't you curious?	Bist du nicht neugierig?	क्या तुम उत्सुक नहीं हो?
+Aren't you doctors?	Seid ihr nicht Ärzte?	क्या तुम डॉक्टर नहीं हो?
+Aren't you excited?	Bist du nicht aufgeregt?	क्या तुम उत्सुक नहीं हो?
+Aren't you in town?	Bist du nicht in der Stadt?	क्या तुम शहर में नहीं हो?
+Aren't you nervous?	Bist du nicht nervös?	क्या तुम घबराये हुए नहीं हो?
