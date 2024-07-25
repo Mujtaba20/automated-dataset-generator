@@ -5242,3 +5242,9 @@ Was Tom there?	War Tom da?	क्या टॉम वहाँ था?
 Was it a joke?	War es ein Witz?	क्या यह मजाक था?
 Was Tom fired?(2)	Wurde Tom entlassen?	क्या टॉम सजा दी गई?
 Was it a joke?(2)	War es ein Witz?	क्या यह कोई चुटकुला था?
+Was that a no?	War das ein Nein?	क्या वह एक नहीं था?
+Watch closely.	Beobachte genau.	ध्यान से देखो।
+Watch my back.	Achte auf meinen Rücken.	मेरी पीठ की तरफ ध्यान दें।
+Wax the floor.	Wachsen Sie den Boden.	फर्श को वैक्स करें।
+We admire you.	Wir bewundern dich.	हम आपकी सराहना करते हैं।
+We admire you. (different)	Wir verehren dich.	हम आपका सम्मान करते हैं।
