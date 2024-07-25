@@ -14802,3 +14802,12 @@ Tom was very shy.	Tom war sehr schüchtern.	टॉम बहुत झेंप�
 Tom wasn't alive.	Tom war nicht lebendig.	टॉम जीवित नहीं था।
 Tom wasn't alone.	Tom war nicht allein.	टॉम अकेला नहीं था।
 Tom wasn't angry.	Tom war nicht wütend.	टॉम गुस्सा नहीं था।
+Tom wasn't armed.	Tom war nicht bewaffnet.	टॉम आयसर्वगुणित नहीं था।
+Tom wasn't bossy.	Tom war nicht herrisch.	टॉम अभिनंदित नहीं था।
+Tom wasn't clear.	Tom war nicht klar.	टॉम स्थिर नहीं था।
+Tom wasn't crazy.	Tom war nicht verrückt.	टॉम पागल नहीं था।
+Tom wasn't cruel.	Tom war nicht grausam.	टॉम शीतल नहीं था।
+Tom wasn't drunk.	Tom war nicht betrunken.	टॉम शराबपानी नहीं था।
+Tom wasn't fired.	Tom wurde nicht gefeuert.	टॉम की नौकरी नहीं गई थी।
+Tom wasn't funny.	Tom war nicht lustig.	टॉम मजेदार नहीं था।
+Tom wasn't lying.	Tom hat nicht gelogen.	टॉम झूठ नहीं था।
