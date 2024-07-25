@@ -12275,3 +12275,11 @@ I could be wrong.	Ich könnte mich irren.	मैं गलत हो सकत�
 I could help Tom.	Ich könnte Tom helfen.	मैं टॉम की मदद कर सकता था।
 I could kiss you.	Ich würde dich vielleicht küssen.	मैं शायद तुम्हें चुमू।
 I could see that.	Ich könnte das sehen.	मैं वह देख सकता था।
+I couldn't sleep.	Ich konnte nicht schlafen.	मैं सो नहीं सका।
+I couldn't speak.	Ich konnte nicht sprechen.	मैं बोल नहीं सका।
+I couldn't stand.	Ich konnte nicht stehen.	मैं खड़ा नहीं हो सका।
+I cried with Tom.	Ich habe mit Tom geweint.	मैंने टॉम के साथ रोया।
+I deliver pizzas.	Ich bringe Pizzen.	मैं पिज्जा पहुंचाता हूँ।
+I did it for him.	Ich habe es für ihn getan.	मैंने उसके लिए किया।
+I did it for you.	Ich habe es für euch getan.	मैंने तुम्हारे लिए किया।
+I did it quickly.	Ich habe es schnell gemacht.	मैंने इसे जल्दी किया।
