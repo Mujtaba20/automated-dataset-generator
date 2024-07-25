@@ -9113,3 +9113,12 @@ I wasn't asleep.	Ich war nicht eingeschlafen.	मैं सोया नही�
 I wasn't honest.	Ich war nicht ehrlich.	मैं ईमानदार नहीं था।
 I wasn't hungry.	Ich war nicht hungrig.	मुझे भूख नहीं थी।
 I wasn't lonely.	Ich war nicht allein.	मैं अकेला नहीं था।
+I went by train.	Ich bin mit dem Zug gefahren.	मैंने ट्रेन से यात्रा की।
+I will continue.	Ich werde fortfahren.	मैं जारी रखूंगा।
+I will go at 10.	Ich werde um 10 Uhr gehen.	मैं 10 बजे जाऊंगा।
+I will go at 10. (Different meaning)	Ich werde um 10 Uhr gehen.	मैं 10 बजे चले जाऊंगा।
+I will help you.	Ich werde dir helfen.	मैं तुम्हें मदद करूंगा।
+I will help you. (Different meaning)	Ich werde Ihnen helfen.	मैं तुझे सहायता दूंगा।
+I will join you.	Ich werde mich dir anschließen.	मैं आपके साथ जुड़ूंगा।
+I will kill you.	Ich werde dich töten.	मैं तुम्हें मार दूँगा।
+I will kill you. (Different meaning)	Ich werde dich umbringen.	मैं तुम्हें हत्या कर दूंगा।
