@@ -5335,3 +5335,10 @@ We're enemies.	Wir sind Feinde.	हम दुश्मन हैं।
 We're engaged.	Wir sind verlobt.	हमने एंगेजमेंट की है।
 We're fasting.	Wir fasten.	हम उपवास कर रहे हैं।
 We're fasting. (different meaning)	Wir sind schnell.	हम झलस रहे हैं।
+We're friends.	Wir sind Freunde.	हम दोस्त हैं।
+We're humming.	Wir summen.	हम गुनगुना रहे हैं।
+We're in love.	Wir sind verliebt.	हम प्यार में हैं।
+We're in town.	Wir sind in der Stadt.	हम शहर में हैं।
+We're kidding.	Wir machen nur Spaß.	हम मजाक कर रहे हैं।
+We're lawyers.	Wir sind Anwälte.	हम वकील हैं।
+We're leaving.	Wir gehen.	हम निकल रहे हैं।
