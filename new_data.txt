@@ -14312,3 +14312,12 @@ Tom is surviving.	Tom überlebt.	टॉम जीवित रह रहे ह�
 Tom is suspended.	Tom ist suspendiert.	टॉम निलंबित है।
 Tom is talkative.	Tom ist gesprächig.	टॉम बातूनी है।
 Tom is terrified.	Tom ist entsetzt.	टॉम डर गया है।
+Tom is the chief.	Tom ist der Chef.	टॉम मुख्य है।
+Tom is there now.	Tom ist jetzt da.	टॉम वहाँ है।
+Tom is thirtyish.	Tom ist etwa dreißig Jahre alt.	टॉम तीस कुछ साल का है।
+Tom is too nosey.	Tom ist zu neugierig.	टॉम बहुत जिज्ञासु है।
+Tom is too picky.	Tom ist zu wählerisch.	टॉम बहुत चुन चुनकर काम लेता है।
+Tom is trembling.	Tom zittert.	टॉम काँप रहा है।
+Tom is uncertain.	Tom ist unsicher.	टॉम अनिश्चित है।
+Tom is undecided.	Tom ist unentschlossen.	टॉम अनिर्णयी है।
+Tom is unethical.	Tom ist unethisch.	टॉम अनैतिक है।
