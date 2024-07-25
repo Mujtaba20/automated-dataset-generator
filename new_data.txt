@@ -5536,3 +5536,7 @@ Are you coming?	Kommst du?	क्या तुम आ रहे हो?
 Are you famous?	Bist du berühmt?	क्या तुम मशहूर हो?
 Are you hiding?	Versteckst du dich?	क्या तुम छुप रहे हो?
 Are you hiring?	Stellst du ein?	क्या आप नौकरी कर रहे हैं?
+Are you honest?	Bist du ehrlich?	क्या आप ईमानदार हैं?
+Are you hungry?	Bist du hungrig?	क्या आप पेटुक?
+Are you joking?	Macht es dir Spaß?	क्या तुम मजाक कर रहे हो?
+Are you lonely?	Bist du allein?	क्या तुम अकेले में हो?
