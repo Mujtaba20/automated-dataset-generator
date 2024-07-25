@@ -5540,3 +5540,10 @@ Are you honest?	Bist du ehrlich?	क्या आप ईमानदार ह�
 Are you hungry?	Bist du hungrig?	क्या आप पेटुक?
 Are you joking?	Macht es dir Spaß?	क्या तुम मजाक कर रहे हो?
 Are you lonely?	Bist du allein?	क्या तुम अकेले में हो?
+Are you polite?	Bist du höflich?	क्या तुम शिष्ट हो?
+Are you scared?	Bist du ängstlich?	क्या तुम डर रहे हो?
+Are you single?	Bist du alleinstehend?	क्या तुम एकल हो?
+Are you stupid?	Bist du dumm?	क्या तुम मूर्ख हो?
+Are you two OK?	Seid ihr zwei in Ordnung?	क्या आप दोनों ठीक हैं?
+Aren't you Tom?	Bist du nicht Tom?	क्या तुम टॉम नहीं हो?
+Aren't you hot?	Ist dir nicht heiß?	क्या तुम्हें गरम नहीं लग रहा है?
