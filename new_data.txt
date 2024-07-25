@@ -1394,3 +1394,11 @@ Who talked?	Wer sprach?	कौन बोला?
 Who was it?	Wer war es?	यह कौन था?
 Who yelled?	Wer hat gebrüllt?	कौन चिल्लाया?
 Who's here?	Wer ist hier?	कौन यहाँ है?
+Who's next?	Wer ist als nächstes dran?	कौन अगला है?
+Who's sick?	Wer ist krank?	कौन बीमार है?
+Who's that?	Wer ist das?	यह कौन है?
+Why bother?	Warum die Mühe?	क्यों परेशान करना?
+Wood burns.	Holz brennt.	लकड़ी जलती है।
+You called?	Du hast angerufen?	तुमने बुलाया?
+You decide.	Du entscheidest.	तुम निर्णय करो।
+You may go.	Du kannst gehen.	तुम जा सकते हो।
