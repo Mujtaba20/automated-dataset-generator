@@ -18465,3 +18465,12 @@ Tom felt terrible.	Tom fühlte sich schrecklich.	टॉम को बेहद �
 Tom felt terrific.	Tom fühlte sich fantastisch.	टॉम को बेहद शानदार महसूस हुआ।
 Tom finally spoke.	Tom sprach schließlich.	टॉम आखिरकार बोला।
 Tom finished last.	Tom beendete als Letzter.	टॉम अंत में समाप्त हो गया।
+Tom fixed the bug.	Tom hat den Fehler behoben.	टॉम ने बग ठीक किया।
+Tom followed Mary.	Tom folgte Maria.	टॉम ने मेरी की पीछा की।
+Tom found my bike.	Tom fand mein Fahrrad.	टॉम ने मेरी बाइक पाई।
+Tom found nothing.	Tom fand nichts.	टॉम कुछ नहीं पाया।
+Tom frightened me.	Tom hat mich erschreckt.	टॉम ने मुझे डराया।
+Tom gained weight.	Tom hat Gewicht zugenommen.	टॉम ने वजन बढ़ा लिया।
+Tom gave a speech.	Tom hielt eine Rede.	टॉम ने भाषण दिया।
+Tom gave it a try.	Tom hat es versucht.	टॉम ने इसे कोशिश की।
+Tom gave it a shot.	Tom versuchte es.	टॉम ने इसे एक शॉट दिया।

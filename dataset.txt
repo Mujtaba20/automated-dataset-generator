@@ -1,14 +1,4 @@
 
-Tom fixed the bug.	Tom hat den Fehler behoben.	टॉम ने त्रुटि तय की।
-Tom followed Mary.	Tom folgte Maria.	टॉम ने मारिया का पीछा किया।
-Tom found my bike.	Tom hat mein Fahrrad gefunden.	टॉम ने मेरी बाइक पाई।
-Tom found nothing.	Tom fand nichts.	टॉम को कुछ नहीं मिला।
-Tom frightened me.	Tom hat mich erschreckt.	टॉम ने मुझे डरा दिया।
-Tom gained weight.	Tom hat zugenommen.	टॉम में वृद्धि हुई है।
-Tom gained weight.	Tom nahm an Gewicht zu.	टॉम वजन में वृद्धि हुई।
-Tom gave a speech.	Tom hielt eine Rede.	टॉम ने एक भाषण दिया।
-Tom gave it a try.	Tom hat es einmal versucht.	टॉम ने एक बार इसे आजमाया।
-Tom gave it a try.	Tom versuchte es einmal.	टॉम ने एक बार कोशिश की।
 Tom gave it to me.	Tom hat es mir gegeben.	टॉम ने मुझे दिया।
 Tom gave it to us.	Tom hat es uns gegeben.	टॉम ने हमें दिया।
 Tom gave me a hug.	Tom drückte mich.	टॉम ने मुझे दबाया।
