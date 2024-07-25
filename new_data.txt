@@ -12972,3 +12972,13 @@ I'm very popular.	Ich bin sehr beliebt.	मैं बहुत प्रसि�
 I'm very relaxed.	Ich bin sehr entspannt.	मैं बहुत आराम से हूँ।
 I'm very shocked.	Ich bin sehr geschockt.	मैं बहुत चौंका हूँ।
 I'm very thirsty.	Ich bin sehr durstig.	मैं बहुत प्यासा हूँ।
+I'm very unhappy.	Ich bin sehr unglücklich.	मैं बहुत दुखी हूँ।
+I'm very unlucky.	Ich habe sehr viel Pech.	मैं बहुत अभागी हूँ।
+I'm very wealthy.	Ich bin sehr wohlhabend.	मैं बहुत धनवान हूँ।
+I'm watching Tom.	Ich beobachte Tom.	मैं टॉम को देख रहा हूँ।
+I'm watching you.	Ich beobachte dich.	मैं तुम्हें देख रहा हूँ।
+I'm with Tom now.	Ich bin jetzt mit Tom.	मैं अभी टॉम के साथ हूँ।
+I'm with the FBI.	Ich bin beim FBI.	मैं एफ़.बी.आई. के साथ हूँ।
+I'm working hard.	Ich arbeite hart.	मैं मेहनत कर रहा हूँ।
+I'm your brother.	Ich bin dein Bruder.	मैं तुम्हारा भाई हूँ।
+I'm your partner.	Ich bin dein Partner.	मैं तुम्हारा साथी हूँ।
