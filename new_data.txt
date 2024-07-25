@@ -15696,3 +15696,9 @@ Did you pick this?	Hast du das ausgewählt?	क्या तुमने यह 
 Did you read that?	Hast du das gelesen?	क्या तुमने वह पढ़ा?
 Did you read them?	Hast du sie gelesen?	क्या तुमने उन्हें पढ़ा?
 Did you shoot Tom?	Hast du auf Tom geschossen?	क्या आपने टॉम पर गोली चलाई?
+Did you wash that?	Hast du das gewaschen?	क्या आपने यह धोया है?
+Didn't I say that?	Habe ich das nicht gesagt?	क्या मैंने वह नहीं कहा था?
+Didn't I warn you?	Habe ich dich nicht gewarnt?	क्या मैंने तुम्हें नहीं चेतावनी दी थी?
+Didn't you go out?	Bist du nicht hinausgegangen?	क्या तुमने बाहर जाने का नहीं किया था?
+Didn't you see me?	Haben Sie mich nicht gesehen?	क्या आपने मुझे नहीं देखा?
+Disable the alarm.	Deaktivieren Sie den Alarm.	हैंगर को बंद करें।
