@@ -16068,3 +16068,12 @@ He must have left.	Er muss gegangen sein.	उसको जाना चाहि
 He needs a ladder.	Er braucht eine Leiter.	उसे एक सीढ़ी की जरुरत है।
 He never asked me.	Er hat mich nie gefragt.	उसने मुझसे कभी नहीं पूछा।
 He obviously lied.	Er hat offensichtlich gelogen.	वह स्पष्ट रूप से झूठ बोला।
+He ordered a beer.	Er bestellte ein Bier.	उसने एक बीयर ऑर्डर किया।
+He owns this land.	Er besitzt dieses Land.	उसके पास यह ज़मीन है।
+He pushed past me.	Er drängte an mir vorbei.	उसने मुझसे साफ सुदर कर चला गया।
+He raised his arm.	Er hob seinen Arm.	उसने उसका हाथ उठाया।
+He raised his hat.	Er lüftete seinen Hut.	उसने अपनी टोपी उठाई।
+He ran five miles.	Er lief fünf Meilen.	उसने पाँच मील दौड़ ली।
+He refused to pay.	Er weigerte sich zu zahlen.	उसने भुगतान करने से इंकार किया।
+He ruined my life.	Er ruinierte mein Leben.	उसने मेरा जीवन बर्बाद कर दिया।
+He runs very fast.	Er rennt sehr schnell.	वह बहुत तेज़ी से दौड़ता है।
