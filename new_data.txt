@@ -12334,3 +12334,13 @@ I drink to relax.	Ich trinke, um mich zu entspannen.	मैं छूट जा�
 I eat everything.	Ich esse alles.	मैं सब कुछ खाता हूँ।
 I enjoy swimming.	Ich genieße das Schwimmen.	मुझे तैरना अच्छा लगता है।
 I expect to come.	Ich erwarte zu kommen.	मैं आने की उम्मीद करता हूँ।
+I failed my exam.	Ich habe meine Prüfung nicht bestanden.	मैंने अपनी परीक्षा में असफल हो गया।
+I feel bad today.	Heute fühle ich mich schlecht.	आज मुझे बुरा लग रहा है।
+I feel fantastic.	Ich fühle mich fantastisch.	मुझे शानदार महसूस हो रहा है।
+I feel flattered.	Ich fühle mich geschmeichelt.	मुझे प्रशंसा मिलने का अहसास हो रहा है।
+I feel great now.	Ich fühle mich jetzt großartig.	अब मैं बहुत अच्छा महसूस कर रहा हूँ।
+I feel lethargic.	Ich fühle mich energielos.	मुझे काफी सुस्ती महसूस हो रही है।
+I feel powerless.	Ich fühle mich machtlos.	मैं बेबास महसूस कर रहा हूँ।
+I feel protected.	Ich fühle mich geschützt.	मुझे सुरक्षित महसूस हो रहा है।
+I feel refreshed.	Ich fühle mich erfrischt.	मुझे ताजगी मिल रही है।
+I feel safe here.	Hier fühle ich mich sicher.	यहाँ मुझे सुरक्षित महसूस होता है।
