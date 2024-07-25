@@ -16668,3 +16668,12 @@ I lost everything.	Ich habe alles verloren.	मैंने सब कुछ ख
 I lost my glasses.	Ich habe meine Brille verloren.	मेरी चश्मा खो गई।
 I love being here.	Ich liebe es hier zu sein.	मुझे यहाँ होना पसंद है।
 I love doing that.	Ich liebe es, das zu tun.	मुझे वह करने में खुशी मिलती है।
+I love doing this.	Ich liebe das tun.	मैं यह करने का स्नेह करता हूं।
+I love hamburgers.	Ich liebe Hamburger.	मुझे हैम्बर्गर्स पसंद हैं।
+I love music, too.	Ich liebe auch Musik.	मुझे संगीत पसंद है, यह भी।
+I love my country.	Ich liebe mein Land.	मैं अपने देश से प्यार करता हूँ।
+I love my friends.	Ich liebe meine Freunde.	मुझे मेरे दोस्तों से प्यार है।
+I love my new job.	Ich liebe meinen neuen Job.	मुझे मेरी नयी नौकरी पसंद है।
+I love my parents.	Ich liebe meine Eltern.	मैं अपने माता-पिता से प्यार करता हूँ।
+I love my sisters.	Ich liebe meine Schwestern.	मुझे मेरी बहनों से प्यार है।
+I love spicy food.	Ich liebe scharfes Essen.	मुझे तीखा खाना पसंद है।
