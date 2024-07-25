@@ -1,15 +1,4 @@
 
-Tom is a good boy.	Tom ist ein guter Junge.	टॉम एक अच्छा लड़का है।
-Tom is a good guy.	Tom ist ein guter Mensch.	टॉम एक अच्छा इंसान है।
-Tom is a good kid.	Tom ist ein braves Kind.	टॉम एक अच्छा बच्चा है।
-Tom is a good kid.	Tom ist ein artiges Kind.	टॉम एक अच्छा बच्चा है।
-Tom is a good man.	Tom ist ein guter Mann.	टॉम एक अच्छा आदमी है।
-Tom is a good man.	Tom ist ein braver Mann.	टॉम एक अच्छा आदमी है।
-Tom is a graduate.	Tom ist graduiert.	टॉम ने स्नातक किया है।
-Tom is a jeweller.	Tom ist Juwelier.	टॉम एक जौहरी है।
-Tom is a kind boy.	Tom ist ein höflicher Junge.	टॉम एक विनम्र लड़का है।
-Tom is a linguist.	Tom ist Sprachwissenschaftler.	टॉम एक भाषाविद है।
-Tom is a linguist.	Tom ist Linguist.	टॉम भाषाविद है।
 Tom is a mechanic.	Tom ist Mechaniker.	टॉम एक मैकेनिक है।
 Tom is a minister.	Tom ist Pfarrer.	टॉम एक पादरी है।
 Tom is a murderer.	Tom ist ein Mörder.	टॉम एक हत्यारा है।

@@ -18581,3 +18581,11 @@ Tom is a dad, too.	Tom ist auch ein Vater.	टॉम एक पिता भी 
 Tom is a diabetic.	Tom ist Diabetiker.	टॉम मधुमेही है।
 Tom is a diplomat.	Tom ist ein Diplomat.	टॉम एक कूटनीतिज्ञ है।
 Tom is a gardener.	Tom ist ein Gärtner.	टॉम एक माली है।
+Tom is a good boy.	Tom ist ein guter Junge.	टॉम एक अच्छे लड़के है।
+Tom is a good guy.	Tom ist ein guter Kerl.	टॉम एक अच्छे आदमी है।
+Tom is a good kid.	Tom ist ein braver Junge.	टॉम एक अच्छे बच्चा है।
+Tom is a good man.	Tom ist ein guter Mann.	टॉम एक अच्छे आदमी है।
+Tom is a graduate.	Tom ist ein Absolvent.	टॉम एक स्नातक है।
+Tom is a jeweller.	Tom ist ein Juwelier.	टॉम एक जवेलर है।
+Tom is a kind boy.	Tom ist ein freundlicher Junge.	टॉम एक दयालु लड़के है।
+Tom is a linguist.	Tom ist ein Sprachwissenschaftler.	टॉम एक भाषा विज्ञानी है।
