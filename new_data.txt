@@ -8846,3 +8846,11 @@ I know them all.	Ich kenne sie alle.	मुझे सभी को पता ह
 I know too much.	Ich weiß zu viel.	मुझे बहुत कुछ पता है।
 I know who I am.	Ich weiß, wer ich bin.	मुझे पता है मैं कौन हूँ।
 I know you know.	Ich weiß, dass du weißt.	मुझे पता है तुम्हें पता है।
+I know your son.	Ich weiß über deinen Sohn Bescheid.	मुझे तुम्हारे बेटे का पता है।
+I learned a lot.	Ich habe viel gelernt.	मैंने बहुत कुछ सीखा।
+I left the room.	Ich habe den Raum verlassen.	मैंने कमरा छोड़ दिया।
+I let Tom leave.	Ich ließ Tom gehen.	मैंने टॉम को जाने दिया।
+I like Tom, too.	Ich mag auch Tom.	मुझे भी टॉम पसंद है।
+I like baseball.	Ich mag Baseball.	मुझे बेसबॉल पसंद है।
+I like broccoli.	Ich mag Brokkoli.	मुझे ब्रोकली पसंद है।
+I like cartoons.	Ich liebe Cartoons.	मुझे कार्टून पसंद हैं।
