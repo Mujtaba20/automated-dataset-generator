@@ -9619,3 +9619,13 @@ Let's get a cab.	Lass uns ein Taxi nehmen.	चलो एक कैब लेत�
 Let's get drunk.	Lass uns betrunken werden.	चलो नशे में ढल जाएं।
 Let's get a ride.	Lass uns eine Fahrt bekommen.	चलो सफ़र करें।
 Let's grab a bite.	Lass uns einen Happen essen.	चलो कुछ खाते हैं।
+Let's go by bus.	Lass uns mit dem Bus fahren.	चलो बस से चलें।
+Let's go by car.	Lass uns mit dem Auto fahren.	हम कार से जाएं।
+Let's hide here.	Lass uns uns hier verstecken.	चलो यहाँ छुपें।
+Let's improvise.	Lass uns improvisieren.	आओ शीघ्र गारबद्ध नाटक करें।
+Let's live here.	Lass uns hier leben.	हम यहाँ जीते हैं।
+Let's negotiate.	Lass uns verhandeln.	आओ समझौता करें।
+Let's play ball.	Lass uns Ball spielen.	चलो गेंद खेलें।
+Let's play ball. - different meaning	Lasst uns Ernst machen.	वहाँ कठिनाई है।
+Let's rest here.	Lass uns hier ausruhen.	चलो यहाँ आराम करें।
+Let's stay here.	Lass uns hier bleiben.	हम यहाँ रुकें।
