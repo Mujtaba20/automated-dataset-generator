@@ -18325,3 +18325,12 @@ Tom became afraid.	Tom wurde ängstlich.	टॉम डर गया।
 Tom became famous.	Tom wurde berühmt.	टॉम मशहूर हुआ।
 Tom became sleepy.	Tom wurde schläfrig.	टॉम नींद में चला गया।
 Tom became uneasy.	Tom wurde unruhig.	टॉम बेचैन हो गया।
+Tom began gasping.	Tom begann zu keuchen.	टॉम अंधाने लगा।
+Tom began praying.	Tom begann zu beten.	टॉम पूजा करने लगा।
+Tom began running.	Tom begann zu rennen.	टॉम दौड़ने लगा।
+Tom began singing.	Tom begann zu singen.	टॉम गाने लगा।
+Tom began talking.	Tom begann zu sprechen.	टॉम बोलने लगा।
+Tom began to move.	Tom begann sich zu bewegen.	टॉम चलने लगा।
+Tom began to sing.	Tom begann zu singen.	टॉम गानेलगा।
+Tom began to talk.	Tom begann zu sprechen.	टॉम बात करने लगा।
+Tom began working.	Tom begann zu arbeiten.	टॉम काम करने लगा।
