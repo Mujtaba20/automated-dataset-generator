@@ -1,14 +1,4 @@
 
-Tom will obey you.	Tom wird dir gehorchen.	टॉम आपकी बात मान लेंगे।
-Tom will obey you.	Tom wird Ihnen gehorchen.	टॉम उनकी आज्ञा मानेंगे।
-Tom will obey you.	Tom wird euch gehorchen.	टॉम आपकी बात मान लेंगे।
-Tom will remember.	Tom wird sich erinnern.	टॉम को याद होगा।
-Tom will stop you.	Tom wird dich aufhalten.	टॉम आपको रोक देगा।
-Tom will tell you.	Tom wird es dir erzählen.	टॉम आपको बताएगा।
-Tom woke up naked.	Tom wachte nackt auf.	टॉम नग्न हो गया।
-Tom won't approve.	Tom wird nicht zustimmen.	टॉम सहमत नहीं होगा।
-Tom won't be back.	Tom kommt nicht wieder.	टॉम वापस नहीं आता है।
-Tom won't beat me.	Tom wird mich nicht schlagen.	टॉम मुझे नहीं हराएगा।
 Tom won't confess.	Tom wird nicht gestehen.	टॉम कबूल नहीं करेगा।
 Tom won't go away.	Tom geht nicht.	टॉम काम नहीं करता है।
 Tom won't help us.	Tom wird uns nicht helfen.	टॉम हमारी मदद नहीं करेगा।

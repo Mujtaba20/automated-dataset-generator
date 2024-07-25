@@ -19401,3 +19401,11 @@ Tom will die soon.	Tom wird bald sterben.	टॉम जल्द ही मर�
 Tom will find out.	Tom wird herausfinden.	टॉम पता लगा लेगा।
 Tom will find you.	Tom wird dich finden.	टॉम तुम्हें ढूंढ़ लेगा।
 Tom will go alone.	Tom wird alleine fahren.	टॉम अकेले निकल जाएगा।
+Tom will obey you.	Tom wird Ihnen gehorchen.	टॉम आपका निर्देश मानेगा।
+Tom will remember.	Tom wird sich erinnern.	टॉम याद रखेगा।
+Tom will stop you.	Tom wird dich aufhalten.	टॉम तुम्हें रोकेगा।
+Tom will tell you.	Tom wird es dir sagen.	टॉम तुम्हें बताएगा।
+Tom woke up naked.	Tom wachte nackt auf.	टॉम नंगे होकर उठा।
+Tom won't approve.	Tom wird nicht zustimmen.	टॉम स्वीकृति नहीं देगा।
+Tom won't be back.	Tom wird nicht zurückkommen.	टॉम वापस नहीं आएगा।
+Tom won't beat me.	Tom wird mich nicht schlagen.	टॉम मुझे नहीं मारेगा।
