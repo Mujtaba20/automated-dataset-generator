@@ -1979,3 +1979,13 @@ Say nothing.	Sag nichts.	कुछ मत कहो।
 Send Tom in.	Schicke Tom herein.	टॉम को अंदर भेजो।
 Shall we go?	Sollen wir gehen?	क्या हम जा सकते हैं?
 Say goodbye.1	Sag auf Wiedersehen.	अलविदा बोलो।
+engSentence1	Sie biss ihn.	उसने उसे काट लिया।
+engSentence2	Sie biss ihn.	उसने उसे चबवाया।
+engSentence3	Sie errötete.	उसने शरमाया।
+engSentence4	Sie errötete.	उसने लालिया।
+engSentence5	Sie errötete.	उसने झिलमिलाया।
+engSentence6	Sie fiel in Ohnmacht.	उसने बेहोश हो गया।
+engSentence7	Sie schlug ihn.	उसने उसे मारा।
+engSentence8	Sie ist schroff.	वह अकड़ी है।
+engSentence9	Sie ist freundlich.	वह दयालु है।
+engSentence10	Sie ist freundlich.	वह उदार है।
