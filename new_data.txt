@@ -18093,3 +18093,12 @@ These are animals.	Dies sind Tiere.	ये जानवर हैं।
 These are for Tom.	Diese sind für Tom.	ये टॉम के लिए हैं।
 These are for you.	Diese sind für dich.	ये तुम्हारे लिए हैं।
 These are my boys.	Das sind meine Jungs.	ये मेरे लड़के हैं।
+These aren't fish.	Das sind keine Fische.	ये मछली नहीं हैं।
+These aren't real.	Das ist nicht echt.	ये असली नहीं हैं।
+They all knew Tom.	Sie alle kannten Tom.	वे सभी ने टॉम को जाना।
+They all knew Tom. (different meaning)	Sie alle wussten Tom.	उनको सभी ने टॉम को जाना था।
+They all say that.	Sie alle sagen das.	वे सभी यह कहते हैं।
+They all screamed.	Sie alle schrien.	वे सभी चिल्लाए।
+They already knew.	Sie wussten es bereits.	उन्हें पहले से पता था।
+They already know.	Sie wissen es bereits.	उन्हें पहले से पता है।
+They are all dead.	Sie sind alle tot.	वे सभी मर चुके हैं।

@@ -1,14 +1,4 @@
 
-These aren't fish.	Diese sind keine Fische.	ये मछली नहीं हैं।
-These aren't real.	Die hier sind nicht echt.	वे वास्तविक नही है।
-They all knew Tom.	Alle kannten sie Tom.	वे सभी टॉम जानते थे।
-They all knew Tom.	Alle kannten Tom.	सभी जानते थे टॉम।
-They all knew Tom.	Sie kannten alle Tom.	वे सभी टॉम को जानते थे।
-They all say that.	Das sagen sie alle.	हर कोई यह कह रहा है।
-They all screamed.	Sie alle schrien.	वे सभी चिल्लाए।
-They already knew.	Sie wussten schon Bescheid.	आप पहले से ही जानते थे।
-They already know.	Sie wissen es schon.	आपको पहले से ही पता है।
-They are all dead.	Sie sind alle tot.	वे सभी मर चुके हैं।
 They are at lunch.	Sie essen gerade zu Mittag.	आप दोपहर को खा रहे हैं।
 They are in class.	Sie sind im Unterricht.	वे कक्षा में हैं।
 They are our cars.	Das sind unsere Autos.	ये हमारी कारें हैं।
