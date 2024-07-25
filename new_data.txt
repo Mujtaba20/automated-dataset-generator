@@ -7445,3 +7445,13 @@ Tom isn't sick.	Tom ist nicht krank.	टॉम बीमार नहीं ह�
 Tom isn't sure.	Tom ist sich nicht sicher.	टॉम पक्का नहीं है।
 Tom isn't tall.	Tom ist nicht groß.	टॉम लंबा नहीं है।
 Tom isn't thin.	Tom ist nicht dünn.	टॉम पतला नहीं है।
+Tom isn't tidy.	Tom ist nicht ordentlich.	टॉम साफ़-सुथरा नहीं है।
+Tom isn't ugly.	Tom ist nicht hässlich.	टॉम बुरा नहीं है।
+Tom isn't weak.	Tom ist nicht schwach.	टॉम कमज़ोर नहीं है।
+Tom isn't well.	Tom ist nicht gesund.	टॉम अच्छा नहीं है।
+Tom isn't wise.	Tom ist nicht weise.	टॉम बुद्धिमान नहीं है।
+Tom kept going.	Tom ging weiter.	टॉम जारी रखा।
+Tom kept quiet.	Tom blieb ruhig.	टॉम चुप रहा।
+Tom kept still.	Tom blieb still.	टॉम शांत रहा।
+Tom kept watch.	Tom hielt Ausschau.	टॉम नजर रखा।
+Tom knelt down.	Tom kniete nieder.	टॉम घुटनेटाक हुआ।
