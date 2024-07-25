@@ -9943,3 +9943,4 @@ That's possible.	Das ist durchaus möglich.	वह संभावना है�
 That's so sweet.	Das ist so lieb.	यह इतना प्यारा है।
 That's terrible.	Das ist entsetzlich.	यह भयावह है।
 That's the snag.	Das ist der Knackpunkt.	वह आधार है।
+engSentence		
