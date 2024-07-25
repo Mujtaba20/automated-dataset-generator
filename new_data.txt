@@ -8089,3 +8089,11 @@ You're patient.	Du bist geduldig.	तुम धीरज रखते हो।
 You're selfish.	Du bist egoistisch.	तुम अभिमानी हो।
 You're so lazy.	Du bist so faul.	तुम इतने सुस्त हो।
 You're so lazy.1	Du bist so faul.	तुम इतने सुस्त हो।
+You're so nice.	Du bist so nett.	तुम बहुत अच्छे हो।
+You're the man.	Du bist der Mann.	तुम मर्द हो।
+You're too big.	Du bist zu groß.	तुम बहुत बड़े हो।
+You're unlucky.	Du hast Pech.	तुम बदकिस्मत हो।
+You're unlucky. (different meaning)	Du bist vom Pech verfolgt.	तुम बदकिस्मत के पीछे हो।
+You're unusual.	Du bist ungewöhnlich.	तुम असाधारण हो।
+You're unusual. (different meaning)	Du bist außergewöhnlich.	तुम अनोखे हो।
+You're useless.	Du bist nutzlos.	तुम बेकार हो।
