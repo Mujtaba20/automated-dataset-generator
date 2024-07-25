@@ -4711,3 +4711,9 @@ Now I'm angry.	Jetzt bin ich wütend.	अब मैं नाराज हूँ
 Now I'm ready.	Jetzt bin ich bereit.	अब मैं तैयार हूँ।
 Now it's over.	Jetzt ist es vorbei.	अब समाप्त हो गया है।
 Now you do it.	Jetzt machst du es.	अब तुम करो।
+OK, I'm ready.	OK, ich bin bereit.	ठीक है, मैं तैयार हूँ।
+OK, listen up.	OK, hör zu.	ठीक है, ध्यान से सुनो।
+Oh, I'm sorry.	Oh, es tut mir leid.	ओह, मुझे माफ़ कर दो।
+Only Tom left.	Nur Tom ist übrig geblieben.	सिर्फ टॉम बचा है।
+Open the door.	Öffne die Tür.	दरवाजा खोलो।
+Open the gate.	Öffne das Tor.	दरवाज़ा खोलो।
