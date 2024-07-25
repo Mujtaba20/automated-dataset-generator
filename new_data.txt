@@ -7544,3 +7544,13 @@ Tom pinched me.	Tom hat mich gezwickt.	टॉम ने मुझे कस क�
 Tom punched me.	Tom hat mich geschlagen.	टॉम ने मुझे मुक्का मारा।
 Tom ran inside.	Tom rannte hinein.	टॉम अंदर भाग गया।
 Tom read a lot.	Tom hat viel gelesen.	टॉमने बहुत पढ़ा।
+Tom remembered.	Tom erinnerte sich.	टॉम ने याद किया।
+Tom rescued me.	Tom rettete mich.	टॉम ने मुझे बचाया।
+Tom rewrote it.	Tom schrieb es neu.	टॉम ने इसे फिर से लिखा।
+Tom rose to go.	Tom stand auf, um zu gehen.	टॉम उठ गया जाने के लिए।
+Tom rushed off.	Tom eilte davon.	टॉम जल्दी से चला गया।
+Tom said hello.	Tom sagte hallo.	टॉम ने कहा नमस्ते।
+Tom sat calmly.	Tom saß ruhig.	टॉम शांत बैठा था।
+Tom sat nearby.	Tom saß in der Nähe.	टॉम पास बैठा था।
+Tom saw a wolf.	Tom sah einen Wolf.	टॉम ने एक भेड़िया देखा।
+Tom saw a cat.	Tom sah eine Katze.	टॉम ने एक बिल्ली देखी।
