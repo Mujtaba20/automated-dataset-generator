@@ -9335,3 +9335,12 @@ I'm replaceable.	Ich bin ersetzbar.	मुझे बदला जा सकत�
 I'm resting now.	Ich ruhe mich jetzt aus.	मैं अभी आराम कर रहा हूँ।
 I'm seldom late.	Ich komme selten zu spät.	मैं कम ही देर से आता हूँ।
 I'm seldom late. (Different Meaning)	Ich bin selten spät dran.	मैं बहुत कम देर से आता हूँ।
+I'm so confused.	Ich bin so verwirrt.	मुझे इतना उलझन में है।
+I'm spontaneous.	Ich bin spontan.	मैं आकस्मिक हूं।
+I'm still alive.	Ich lebe noch.	मैं अभी भी जिवित हूं।
+I'm still angry.	Ich bin immer noch wütend.	मैं अब भी गुस्सा हूं।
+I'm still young.	Ich bin immer noch jung.	मैं अभी भी जवान हूं।
+I'm such a fool.	Ich bin so ein Narr.	मैं इतना मूर्ख हूं।
+I'm texting Tom.	Ich schreibe Tom eine Nachricht.	मैं टॉम को टेक्स्ट कर रहा हूं।
+I'm the bad one.	Ich bin der Schlechte.	मैं बुरा हूं।
+I'm the copilot.	Ich bin der Copilot.	मैं को-पायलट हूं।
