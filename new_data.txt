@@ -1166,3 +1166,11 @@ Let me die.	Lass mich sterben.	मुझे मरने दो।
 Let me out!	Lass mich raus!	मुझे बाहर निकालो!
 Let me pay.	Lass mich zahlen.	मुझे चुकाने दो।
 Let me see.	Lass mich sehen.	मुझे देखने दो।
+Let me try.	Lasst mich probieren.	मुझे कोशिश करने दो।
+Let us out.	Lass uns gehen.	हमें निकालने दो।
+Let's pray.	Lasst uns beten.	चलो प्रार्थना करें।
+Let's talk.	Lass uns reden.	चलो बात करें।
+Let's vote.	Lass uns abstimmen.	चलो वोट दें।
+Let's wait.	Lass uns warten.	चलो इंतजार करें।
+Let's walk.	Lass uns spazieren gehen.	चलो टहलने चलें।
+Let's work.	Lass uns arbeiten.	काम करें।
