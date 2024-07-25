@@ -12963,3 +12963,12 @@ I'm such a klutz.	Ich bin so ein Tollpatsch.	मैं एक हथकड़ी
 I'm the boss now.	Ich bin jetzt der Boss.	अब मैं मालिक हूँ।
 I'm unprejudiced.	Ich bin unvoreingenommen.	मैं पक्षपातरहित हूँ।
 I'm used to that.	Ich bin daran gewöhnt.	मैं उसे आदत समझता हूँ।
+I'm very curious.	Ich bin sehr neugierig.	मैं बहुत जिज्ञासु हूँ।
+I'm very excited.	Ich bin sehr aufgeregt.	मैं बहुत उत्साहित हूँ।
+I'm very nervous.	Ich bin sehr nervös.	मैं बहुत घबराया हूँ।
+I'm very patient.	Ich bin sehr geduldig.	मैं बहुत सब्री से हूँ।
+I'm very pleased.	Ich bin sehr zufrieden.	मैं बहुत खुश हूँ।
+I'm very popular.	Ich bin sehr beliebt.	मैं बहुत प्रसिद्ध हूँ।
+I'm very relaxed.	Ich bin sehr entspannt.	मैं बहुत आराम से हूँ।
+I'm very shocked.	Ich bin sehr geschockt.	मैं बहुत चौंका हूँ।
+I'm very thirsty.	Ich bin sehr durstig.	मैं बहुत प्यासा हूँ।
