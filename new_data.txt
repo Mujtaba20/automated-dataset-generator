@@ -9227,3 +9227,10 @@ I'm a masochist.	Ich bin ein Masochist.	मैं एक मासोकिस�
 I'm a night owl.	Ich bin eine Nachteule.	मैं एक रात का उल्लू हूँ।
 I'm a night owl. (different meaning)	Ich bin eine Eule der Nacht.	मैं एक रात का उल्लू हूँ।
 I'm a night owl. (different meaning 2)	Ich bin ein Nachtmensch.	मैं एक रात का उल्लू हूँ।
+I'm a paramedic.	Ich bin Rettungssanitäter.	मैं एक पैरामेडिक हूं।
+I'm a policeman.	Ich bin Polizist.	मैं एक पुलिसवाला हूं।
+I'm a professor.	Ich bin Dozent.	मैं एक प्रोफ़ेसर हूं।
+I'm a therapist.	Ich bin Therapeutin.	मैं एक चिकित्सक हूँ।
+I'm able to run.	Ich bin in der Lage zu rennen.	मैं दौड़ने की क्षमता रखता हूँ।
+I'm able to ski.	Ich kann Ski fahren.	मैं स्की करने के लिए सक्षम हूँ।
+I'm about ready.	Ich bin fast bereit.	मैं लगभग तैरारी हूँ।
