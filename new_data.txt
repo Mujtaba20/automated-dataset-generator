@@ -446,3 +446,10 @@ Am I late?	Bin ich spät?	क्या मैं देर से हूँ?
 Answer me.	Antworte mir.	मुझे जवाब दो।
 Be seated.	Seien Sie bitte sitzen.	बैठो।
 Birds fly.	Vögel fliegen.	पंछी उड़ते हैं।
+Bless you.	Gesundheit!	आपको आशीर्वाद मिले।
+Call home!	Ruf zu Hause an!	अपने घर पर कॉल करो!
+Calm down!	Beruhige dich!	शांत हो जाओ!
+Calm down.	Entspann dich.	शांति बनाओ।
+Can I eat?	Kann ich essen?	क्या मैं खा सकता हूं?
+Can we go?	Können wir gehen?	हम चल सकते हैं क्या?
+Catch Tom.	Fang Tom.	टॉम को पकड़ो।
