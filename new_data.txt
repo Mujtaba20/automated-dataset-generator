@@ -5445,3 +5445,8 @@ You can do it.	Sie können es tun.	तुम कर सकते हो।
 You can't win.	Du kannst nicht gewinnen.	तुम जीत नहीं सकते।
 You don't say.	Du sagst es nicht.	तुम नहीं कहते।
 You have mail.	Du hast Post.	तुम्हारे पास मेल है।
+You have time.	Du hast Zeit.	आपके पास समय है।
+You hypocrite!	Du Heuchler!	तुम मुंडित!
+You keep them.	Du behältst sie.	तुम उन्हें रखो।
+You know that.	Du weißt das.	तुम्हें पता है।
+You know this.	Du kennst das.	तुम्हें यह पता है।
