@@ -15625,3 +15625,11 @@ Clean that window.	Putzen Sie dieses Fenster.	उस खिड़की को �
 Clean the windows.	Putzen Sie die Fenster.	खिड़कियां साफ करो।
 Clean up the room.	Räume das Zimmer auf.	कमरे को साफ करो।
 Clean up the room. - 2	Räume das Zimmer auf.	कमरे को साफ करो।
+Close that window.	Schließe das Fenster.	उस खिड़की को बंद करो।
+Cocaine is a drug.	Kokain ist eine Droge.	कोकीन एक ड्रग है।
+Come a bit closer.	Komm mal näher.	थोड़ा और करीब आओ।
+Come and see this.	Komm und sieh das.	आकर इसे देखो।
+Come and sit down.	Komm und setz dich hin.	आओ और बैठो।
+Come here quickly.	Komm schnell hierher.	जल्दी यहाँ आओ।
+Come home at once.	Komm sofort nach Hause.	तुरंत घर आओ।
+Come home with me.	Komm mit mir nach Hause.	मेरे साथ घर आओ।
