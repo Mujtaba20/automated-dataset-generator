@@ -18432,3 +18432,13 @@ Tom does love you.	Tom liebt dich.	टॉम तुम्हे प्यार 
 Tom doesn't agree.	Tom stimmt nicht zu.	टॉम सहमत नहीं है।
 Tom doesn't drink.	Tom trinkt nicht.	टॉम पीने की आदत नहीं है।
 Tom doesn't drive.	Tom fährt nicht.	टॉम गाड़ी नहीं चलाता।
+Tom doesn't shave.	Tom rasiert sich nicht.	टॉम नहीं शेव करता।
+Tom doesn't smoke.	Tom raucht nicht.	टॉम सिगरेट नहीं पीता।
+Tom doesn't snore.	Tom schnarcht nicht.	टॉम सुनघना नहीं करता।
+Tom donated blood.	Tom hat Blut gespendet.	टॉम ने रक्तदान किया।
+Tom drank heavily.	Tom hat schwer getrunken.	टॉम ने भari matra mein peeliya.
+Tom drew an apple.	Tom hat einen Apfel gezeichnet.	टॉम ने एक सेब बनाया।
+Tom drives a Ford.	Tom fährt einen Ford.	टॉम फोर्ड चलाता है।
+Tom drives an SUV.	Tom fährt ein SUV.	टॉम एक SUV चलाता है।
+Tom drives safely.	Tom fährt sicher.	टॉम सुरक्षित तरीके से चलाता है।
+Tom drives slowly.	Tom fährt langsam.	टॉम धीमे गति से चलाता है।
