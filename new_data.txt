@@ -1152,3 +1152,11 @@ It's yours. (different translation)	Es gehört dir.	यह आपका है�
 Jesus wept.	Jesus weinte.	यीशु रोए।
 Just do it.	Mach es einfach.	बस करो इसे।
 Just relax.	Entspann dich einfach.	बस आराम करो।
+Keep going.	Mach weiter.	जारी रखें।
+Keep it up!	Mach weiter so!	ऐसे ही जारी रखें।
+Keep it up.	Mach weiter.	ऐसे ही जारी रखें।
+Keep quiet!	Sei still!	चुप रहो!
+Keep quiet.	Halte dich ruhig.	चुप रहो।
+Keep still.	Bleib ruhig.	शांत रहो।
+Leave town.	Verlasse die Stadt.	शहर छोड़ दो।
+Let Tom go.	Lass Tom gehen.	टॉम को छोड़ दो।
