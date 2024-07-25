@@ -9693,3 +9693,11 @@ My jeans shrank.	Meine Jeans sind geschrumpft.	मेरी जीन्स श�
 My shoes squeak.	Meine Schuhe quietschen.	मेरे जूते चींचीलाते हैं।
 My suit is gray.	Mein Anzug ist grau.	मेरा सूट ग्रे है।
 My suit is grey.	Mein Anzug ist grau.	मेरा सूट स्लेटी उदाहरण है।
+My throat hurts.	Mein Hals tut weh.	मेरे गले में दर्द है।
+My work is done.	Meine Arbeit ist erledigt.	मेरा काम हो गया है।
+Nature is cruel.	Die Natur ist grausam.	प्रकृति क्रूर है।
+Never lose hope.	Verliere niemals die Hoffnung.	कभी उम्मीद न खो।
+Never say never.	Sag niemals nie.	कभी कभी मत कहो।
+Never tell lies.	Erzähle niemals Lügen.	कभी झूठ न बोलो।
+Never trust Tom.	Vertraue niemals Tom.	तोम पर भरोसा मत करो।
+Nice seeing you!	Schön, dich zu sehen!	तुम्हें देखकर अच्छा लगा!
