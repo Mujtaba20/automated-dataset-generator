@@ -5183,3 +5183,12 @@ Tom will lose.	Tom wird verlieren.	टॉम हार जाएगा।
 Tom will obey.	Tom wird gehorchen.	टॉम आज्ञा मानेगा।
 Tom will sing.	Tom wird singen.	टॉम गाएगा।
 Tom will stay.	Tom wird bleiben.	टॉम रुकेगा।
+Tom will swim.	Tom wird schwimmen.	टॉम तैरेगा।
+Tom will talk.	Tom wird reden.	टॉम बोलेगा।
+Tom will wait.	Tom wird warten.	टॉम रुकेगा।
+Tom will walk.	Tom wird spazieren.	टॉम चलेगा।
+Tom will work.	Tom wird arbeiten.	टॉम काम करेगा।
+Tom won again.	Tom hat wieder gewonnen.	टॉम फिर जीत गया।
+Tom won't die.	Tom wird nicht sterben.	टॉम मरेगा नहीं।
+Tom won't win.	Tom wird nicht gewinnen.	टॉम जीतेगा नहीं।
+Tom would cry.	Tom würde weinen.	टॉम रोया करता।
