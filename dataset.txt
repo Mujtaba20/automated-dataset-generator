@@ -1,14 +1,4 @@
 
-That's a good buy.	Das ist ein guter Kauf.	यह एक अच्छी खरीद है।
-That's a good one.	Der ist gut.	वह अच्छा है।
-That's a low blow.	Das ist ein Schlag unter die Gürtellinie.	यह बेल्ट लाइन के नीचे एक झटका है।
-That's a nice car.	Das ist ein schönes Auto.	यह एक अच्छी कार है।
-That's a safe bet.	Darauf kannst du wetten.	आप इस पर शर्त लगा सकते हैं।
-That's acceptable.	Das ist akzeptabel.	यह स्वीकार्य है।
-That's acceptable.	Das ist annehmbar.	यह स्वीकार्य है।
-That's all I have.	Das ist alles, was ich habe.	मेरे पास यही है।
-That's all I know.	Das ist alles, was ich weiß.	वह सब कुछ है जो मुझे पता है।
-That's all I need.	Das ist alles, was ich brauche.	मुझे यही सब चाहिए।
 That's always fun.	Das macht immer Spaß.	यह हमेशा मजेदार है।
 That's been tried.	Das hat man versucht.	आपने कोशिश की।
 That's how I know.	So weiß ich es.	मुझे पता है।

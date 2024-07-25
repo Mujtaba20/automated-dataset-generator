@@ -17946,3 +17946,12 @@ That's a bad loss.	Das ist ein schwerer Verlust.	वह एक बड़ा न�
 That's a bad sign.	Das ist ein schlechtes Zeichen.	यह एक बुरा संकेत है।
 That's a big step.	Das ist ein großer Schritt.	यह एक बड़ा कदम है।
 That's a fir tree.	Das ist eine Tanne.	यह एक देवदार का पेड़ है।
+That's a good buy.	Das ist ein guter Kauf.	यह एक अच्छी खरीद है।
+That's a good one.	Das ist eine gute Wahl.	वह अच्छी चीज़ है।
+That's a low blow.	Das ist ein Schlag unter die Gürtellinie.	यह एक कम चोट है।
+That's a nice car.	Das ist ein schönes Auto.	यह एक अच्छी गाड़ी है।
+That's a safe bet.	Das ist eine sichere Wette.	यह एक सुरक्षित दांव है।
+That's acceptable.	Das ist akzeptabel.	यह स्वीकार्य है।
+That's all I have.	Das ist alles, was ich habe.	यह मेरा सब कुछ है।
+That's all I know.	Das ist alles, was ich weiß.	यह मेरे पास सब कुछ है।
+That's all I need.	Das ist alles, was ich brauche.	वह सब मुझे चाहिए।
