@@ -10808,3 +10808,13 @@ Tom wants to go.	Tom möchte gehen.	टॉम जाना चाहता ह�
 Tom warned Mary.	Tom warnte Maria.	टॉम ने मेरी को चेतावनी दी।
 Tom was abusive.	Tom war beleidigend.	टॉम क्रूर था।
 Tom was adamant.	Tom war unerbittlich.	टॉम अटल था।
+Tom was adopted.	Tom wurde adoptiert.	टॉम को गोद लिया गया था।
+Tom was alarmed.	Tom war alarmiert.	टॉम चौंका दिया गया था।
+Tom was alerted.	Tom wurde alarmiert.	टॉम को सूचना दी गई थी।
+Tom was amazing.	Tom war erstaunlich.	टॉम ने आश्चर्यजनक बात की।
+Tom was amusing.	Tom war amüsant.	टॉम मनोरंजक था।
+Tom was annoyed.	Tom war genervt.	टॉम को खीज आई थी।
+Tom was anxious.	Tom war ängstlich.	टॉम चिंतित था।
+Tom was ashamed.	Tom war beschämt.	टॉम शर्मिंदा था।
+Tom was at home.	Tom war zu Hause.	टॉम घर पर था।
+Tom was awesome.	Tom war großartig.	टॉम बहुत अद्भुत था।
