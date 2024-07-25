@@ -15877,3 +15877,11 @@ Get back in there.	Geh wieder rein.	वापस अंदर जाओ।
 Get me some water.	Hol mir etwas Wasser.	मुझे पानी लाओ।
 Get on your knees.	Knie dich hin.	अपने घुटनों पे बैठो।
 Get out of my bed.	Geh aus meinem Bett raus.	मेरे बिस्तर से बाहर निकल जाओ।
+Get out of my car.	Steigen Sie aus meinem Auto aus.	मेरी कार से बाहर निकल जाओ।
+Get out of my way.	Geh mir aus dem Weg.	मेरे रास्ते से हटो।
+Get over here now.	Komm jetzt hierher.	अभी यहाँ आ जाओ।
+Get ready for bed.	Mach dich bettfertig.	बिस्तर के लिए तैयार हो जाओ।
+Get ready quickly.	Schnell fertig machen.	जल्दी से तैयार हो जाओ।
+Get some blankets.	Hol einige Decken.	कुछ कंबल लेआओ।
+Get some rest now.	Erhol dich jetzt.	अब थोड़ी आराम करो।
+Give Tom a tissue.	Gib Tom ein Taschentuch.	टॉम को एक टिश्यू दो।
