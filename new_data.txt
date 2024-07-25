@@ -13643,3 +13643,12 @@ That smells nice.	Das riecht angenehm.	वह अच्छा लगता ह�
 That sounds fair.	Das klingt fair.	यह उचित लगता है।
 That was awesome.	Das war großartig.	वह बहुत शानदार था।
 That was awkward.	Das war unangenehm.	वह अजीब था।
+That was nothing.	Das war nichts.	वह कुछ नहीं था।
+That was serious.	Das war ernst.	वह गंभीर था।
+That wasn't real.	Das war nicht echt.	वह असली नहीं था।
+That way, please.	Auf diese Weise, bitte.	उस तरीके से, कृपया।
+That will not do.	Das wird nicht funktionieren.	वह काम नहीं करेगा।
+That'll be great.	Das wird großartig sein.	वह बहुत अच्छा होगा।
+That's Tom's car.	Das ist Toms Auto.	वह टॉम की कार है।
+That's Tom's job.	Das ist Toms Arbeit.	वह टॉम का काम है।
+That's a problem.	Das ist ein Problem.	वह एक समस्या है।
