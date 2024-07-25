@@ -15308,3 +15308,10 @@ Why would he lie?	Warum würde er lügen?	वह क्यों झूठ ब�
 Why's Tom crying?	Warum weint Tom?	टॉम क्यों रो रहा है?
 Will you do that?	Wirst du das tun?	क्या तुम वह करोगे?
 Will you go, too?	Wirst du auch gehen?	क्या आप भी जाएंगे?
+Will you help us?	Hilfst du uns?	क्या तुम हमें आवश्यकता है?
+Will you join us?	Wirst du uns beitreten?	क्या तुम हमारे साथ जुड़ोगे?
+Will you take it?	Wirst du es nehmen?	क्या तुम यह लेंगे?
+Winter is coming.	Es wird Winter.	मौसम बदल रहा है।
+Wool dyes nicely.	Wolle färbt schön.	ऊन अच्छे से रंगिन होती है।
+Write with a pen.	Schreibe mit einem Stift.	कलम से लिखो।
+Yolks are yellow.	Dotter sind gelb.	अंडे किलकिले हैं।
