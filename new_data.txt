@@ -1174,3 +1174,9 @@ Let's vote.	Lass uns abstimmen.	चलो वोट दें।
 Let's wait.	Lass uns warten.	चलो इंतजार करें।
 Let's walk.	Lass uns spazieren gehen.	चलो टहलने चलें।
 Let's work.	Lass uns arbeiten.	काम करें।
+Look again.	Schau nochmal.	फिरसे देखें।
+Look ahead.	Schau nach vorne.	आगे देखो।
+Look at it.	Schau es an.	इसे देखो।
+Look at me.	Schau mich an.	मुझे देखो।
+Look at us.	Schau uns an.	हमें देखो।
+Look it up.	Such es nach.	यह देखो।
