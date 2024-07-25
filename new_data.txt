@@ -16475,3 +16475,13 @@ I had to kill Tom.	Ich musste Tom töten.	मुझे टॉम को मा�
 I had to stop Tom.	Ich musste Tom aufhalten.	मुझे टॉम को रोकना पड़ा।
 I hardly knew Tom.	Ich kannte Tom kaum.	मुझे टॉम को मुश्किल से पता था।
 I hate Tom's guts.	Ich finde Tom widerlich.	मुझे टॉम अच्छा नहीं लगता।
+I hate everything.	Ich hasse alles.	मुझे सबकुछ नफरत है।
+I hate exercising.	Ich hasse Sport machen.	मुझे व्यायाम करना अच्छा नहीं लगता।
+I hate interviews.	Ich hasse Vorstellungsgespräche.	मुझे साक्षात्कारों से नफरत है।
+I hate interviews. (Duplicate - Different meaning)	Ich kann Interviews nicht ausstehen.	मैं साक्षात्कारों की नकारात्मक दृष्टि नहीं रखता।
+I hate my brother.	Ich hasse meinen Bruder.	मुझे अपने भाई से नफरत है।
+I hate my parents.	Ich hasse meine Eltern.	मुझे अपने माता-पिता से नफरत है।
+I hate rainy days.	Ich hasse regnerische Tage.	मुझे बरसात के दिनों से नफरत है।
+I hate rainy days. (Duplicate - Different meaning)	Ich mag keine Regentage.	मुझे बरसाती दिनों पसंद नहीं है।
+I hate that color.	Ich hasse diese Farbe.	मुझे उस रंग से नफरत है।
+I hate that movie.	Ich hasse diesen Film.	मुझे उस फिल्म से नफरत है।
