@@ -9046,3 +9046,12 @@ I think it's OK.	Ich denke, es ist in Ordnung.	मुझे लगता है 
 I think so, too.	Ich denke auch so.	मुझे भी यह लगता है।
 I told Tom that.	Ich habe Tom das gesagt.	मैंने टॉम को बताया।
 I took a shower.	Ich habe geduscht.	मैंने नहाया।
+I took her home.	Ich habe sie nach Hause gebracht.	मैंने उसे घर ले जाया।
+I took the book.	Ich habe das Buch genommen.	मैंने किताब ली।
+I tried to help.	Ich habe versucht zu helfen.	मैंने मदद करने की कोशिश की।
+I trust you all.	Ich vertraue euch allen.	मैं तुम पर भरोसा करता हूँ।
+I understand it.	Ich verstehe es.	मुझे यह समझ में आ गया है।
+I voted for Tom.	Ich habe für Tom gestimmt.	मैंने टॉम के लिए वोट दिया।
+I voted for you.	Ich habe für dich gestimmt.	मैंने तुम्हारे लिए वोट दिया।
+I wake up early.	Ich wache früh auf.	मैं जल्दी उठता हूँ।
+I walked my dog.	Ich bin mit meinem Hund spazieren gegangen.	मैंने अपने कुत्ते के साथ सैर की।
