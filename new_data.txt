@@ -10617,3 +10617,13 @@ Tom looks awake.	Tom sieht wach aus.	टॉम जाग रहा है।
 Tom looks awful.	Tom sieht furchtbar aus.	टॉम भयानक लग रहा है।
 Tom looks bored.	Tom sieht gelangweilt aus.	टॉम उबाऊ लग रहा है।
 Tom looks crazy.	Tom sieht verrückt aus.	टॉम पागल लग रहा है।
+Tom looks cross.	Tom sieht verärgert aus.	टॉम क्रॉस लग रहा है।
+Tom looks dazed.	Tom sieht benommen aus.	टॉम चकरा गया लग रहा है।
+Tom looks drunk.	Tom sieht betrunken aus.	टॉम नशे में लग रहा है।
+Tom looks great.	Tom sieht großartig aus.	टॉम बहुत अच्छा दिख रहा है।
+Tom looks happy.	Tom sieht glücklich aus.	टॉम खुश लग रहा है।
+Tom looks older.	Tom sieht älter aus.	टॉम बड़ा लग रहा है।
+Tom looks perky.	Tom sieht munter aus.	टॉम जिज्ञासु लग रहा है।
+Tom looks ready.	Tom sieht bereit aus.	टॉम तैयार लग रहा है।
+Tom looks sober.	Tom sieht nüchtern aus.	टॉम शांत लग रहा है।
+Tom looks stern.	Tom sieht ernst aus.	टॉम कठोर लग रहा है।
