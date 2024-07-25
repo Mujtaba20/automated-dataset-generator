@@ -10087,3 +10087,11 @@ This dog is big.	Dieser Hund ist groß.	यह कुत्ता बड़ा �
 This is a dream.	Das ist ein Traum.	यह एक सपना है।
 This is a hotel.	Das ist ein Hotel.	यह एक होटल है।
 This is a knife.	Das ist ein Messer.	यह एक चाकू है।
+This is a peach.	Das ist ein Pfirsich.	यह एक आड़ू है।
+This is for Tom.	Das ist für Tom.	यह टॉम के लिए है।
+This is for you.	Dies ist für Sie.	यह तुम्हारे लिए है।
+This is his car.	Das ist sein Auto.	यह उसकी कार है।
+This is immoral.	Das ist unmoralisch.	यह अनैतिक है।
+This is my bike.	Das ist mein Fahrrad.	यह मेरी साइकिल है।
+This is my book.	Das ist mein Buch.	यह मेरी किताब है।
+This is my desk.	Das ist mein Schreibtisch.	यह मेरा डेस्क है।
