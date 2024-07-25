@@ -16250,3 +16250,10 @@ I am disappointed.	Ich bin enttäuscht.	मैं निराश हूँ।
 I am eating fruit.	Ich esse Obst.	मैं फल खा रहा हूँ।
 I am from Ecuador.	Ich komme aus Ecuador.	मैं एक्वाडोर से हूँ।
 I am in the house.	Ich bin im Haus.	मैं घर में हूँ।
+I am in your debt.	Ich bin bei dir in der Schuld.	मैं आपका कर्ज़दार हूँ।
+I am not a doctor.	Ich bin kein Arzt.	मैं डॉक्टर नहीं हूँ।
+I am not busy now.	Ich bin jetzt nicht beschäftigt.	अभी मैं व्यस्त नहीं हूँ।
+I am not like you.	Ich bin nicht wie du.	मैं तुम्हारे जैसा नहीं हूँ।
+I am on the right.	Ich bin auf der rechten Seite.	मैं सही हूँ।
+I am the same age.	Ich bin im gleichen Alter.	मैं उसी उम्र का हूँ।
+I am very curious.	Ich bin sehr neugierig.	मैं बहुत जिज्ञासु हूँ।
