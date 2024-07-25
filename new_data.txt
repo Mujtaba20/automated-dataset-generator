@@ -5640,3 +5640,8 @@ Do it your way.	Mach es auf deine Weise.	अपने तरीके से क
 Do it yourself.	Mach es selbst.	खुद करें।
 Do that for me.	Tu das für mich.	मेरे लिए वह करो।
 Do that for me. different meaning	Mach das für mich.	मेरे लिए वह करो। अलग मतलब
+Do tigers purr?	Purren Tiger?	बाघ पर्र करते हैं?
+Do we have one?	Haben wir einen?	हमें एक है?
+Do we know you?	Kennen wir dich?	क्या हम तुम्हें जानते हैं?
+Do you deny it?	Leugnest du es?	क्या आप इसे इनकार करते हैं?
+Do you do yoga?	Machst du Yoga?	क्या आप योग करते हैं?
