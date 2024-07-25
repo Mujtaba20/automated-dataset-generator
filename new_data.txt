@@ -642,3 +642,13 @@ It's dark.	Es ist dunkel.	यह अंधेरा है।
 It's easy.	Es ist einfach.	यह आसान है।
 It's fair.	Es ist fair.	यह न्यायसंगत है।
 It's a dog.	Es ist ein Hund.	यह एक कुत्ता है।
+It's free.	Es ist kostenlos.	यह मुफ्त है।
+It's hard.	Es ist schwer.	यह कठिन है।
+It's here.	Es ist hier.	यहाँ है।
+It's late.	Es ist spät.	यह देर हो चुकी है।
+It's mine.	Es gehört mir.	यह मेरा है।
+It's my turn.	Es ist an der Reihe.	यह मेरी बारी है।
+It's my mistake.	Es ist mein Fehler.	यह मेरी गलती है।
+It's okay.	Es ist in Ordnung.	यह ठीक है।
+It's open.	Es ist offen.	यह खुला है।
+It's ours.	Es gehört uns.	यह हमारा है।
