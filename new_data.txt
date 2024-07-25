@@ -9065,3 +9065,12 @@ I want an apple.	Ich möchte einen Apfel.	मुझे एक सेब चा�
 I want my mommy.	Ich möchte meine Mama.	मुझे मेरी माँ चाहिए।
 I want my money.	Ich möchte mein Geld.	मुझे मेरे पैसे चाहिएं।
 I want one, too.	Ich möchte auch eins.	मैं भी एक चाहता हूँ।
+I want that bag.	Ich will diese Tasche.	मुझे वह बैग चाहिए।
+I want that car.	Ich möchte dieses Auto.	मुझे वह कार चाहिए।
+I want that job.	Ich möchte diesen Job.	मुझे वह नौकरी चाहिए।
+I want that one.	Ich will jenes.	मुझे वह एक चाहिए।
+I want the best.	Ich will das Beste.	मुझे सबसे अच्छा चाहिए।
+I want the same.	Ich will dasselbe.	मुझे वही चाहिए।
+I want them all.	Ich möchte sie alle.	मुझे सभी चाहिए।
+I want this bag.	Ich will diese Tasche.	मुझे यह बैग चाहिए।
+I want this one.	Ich will dieses hier.	मुझे यह एक चाहिए।
