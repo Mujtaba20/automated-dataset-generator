@@ -11703,3 +11703,10 @@ Do what you want.	Tu, was du willst.	जो तुम चाहो, वह क�
 Do you cry often?	Weinst du oft?	क्या तुम अक्सर रोते हो?
 Do you deny that?	Bestreitest du das?	क्या आप इनकार करते हैं?
 Do you eat a lot?	Isst du viel?	क्या तुम बहुत खाते हो?
+Do you eat pasta?	Isst du Pasta?	क्या तुम पास्ता खाते हो?
+Do you even care?	Kümmerst du dich überhaupt?	क्या तुमको परवाह है?
+Do you ever rest?	Rast du überhaupt mal?	क्या तुम कभी आराम करते हो?
+Do you feel sick?	Fühlst du dich krank?	क्या तुम्हें बीमारी महसूस हो रही है?
+Do you have a TV?	Hast du einen Fernseher?	क्या आपके पास एक टीवी है?
+Do you have beer?	Hast du Bier?	क्या आपके पास बीयर है?
+Do you have kids?	Hast du Kinder?	क्या आपके बच्चे हैं?
