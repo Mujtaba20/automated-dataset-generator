@@ -2186,3 +2186,13 @@ Tom'll call.	Tom wird anrufen.	टॉम कॉल करेगा।
 Tom'll come.	Tom wird kommen.	टॉम आएगा।
 Tom'll help.	Tom wird helfen.	टॉम मदद करेगा।
 Tom'll know.	Tom wird wissen.	टॉम जानेगा।
+Tom'll lose.	Tom wird verlieren.	टॉम हार जाएगा।
+Tom'll quit.	Tom wird aufhören.	टॉम छोड़ देगा।
+Tom'll quit.1	Tom wird kündigen.	टॉम निकलेगा।
+Tom'll stay.	Tom wird bleiben.	टॉम रहेगा।
+Tom'll talk.	Tom wird sprechen.	टॉम बात करेगा।
+Tom'll wait.	Tom wird warten.	टॉम इंतजार करेगा।
+Tom's alert.	Tom ist wachsam.	टॉम चौकन्ना है।
+Tom's alive.	Tom ist am Leben.	टॉम जीवित है।
+Tom's alive.1	Tom lebt.	टॉम तैर रहा है।
+Tom's alone.	Tom ist allein.	टॉम अकेला है।
