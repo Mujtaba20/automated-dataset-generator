@@ -13620,3 +13620,11 @@ Tell that to Tom.	Sag das Tom.	उसे यह तॉम को बताओ।
 Thank Tom for me.	Dank Tom für mich.	मेरी ओर से टॉम का धन्यवाद।
 That bag is mine.	Die Tasche gehört mir.	वह बैग मेरा है।
 That book is old.	Das Buch ist alt.	वह किताब पुरानी है।
+That book's mine.	Das Buch gehört mir.	वह किताब मेरी है।
+That can't be it.	Das kann es nicht sein.	वह ऐसा नहीं हो सकता।
+That car is hers.	Das Auto gehört ihr.	वह गाड़ी उसकी है।
+That car is mine.	Das Auto gehört mir.	वह गाड़ी मेरी है।
+That did me good.	Das hat mir gut getan.	उसने मुझे अच्छा किया।
+That didn't work.	Das hat nicht funktioniert.	वह काम नहीं किया।
+That explains it.	Das erklärt es.	वह यह समझाता है।
+That helps a lot.	Das hilft sehr.	वह बहुत मदद करता है।
