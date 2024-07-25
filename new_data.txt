@@ -4101,3 +4101,13 @@ I have a book.	Ich habe ein Buch.	मेरे पास एक किताब 
 I have a cold.	Ich bin erkältet.	मुझे जुकाम है।
 I have a date.	Ich habe ein Date.	मेरे पास एक खास मुलाकात है।
 I have a home.	Ich habe ein Zuhause.	मेरे पास एक घर है।
+I have a ring.	Ich habe einen Ring.	मेरे पास एक अंगूठी है।
+I have a twin.	Ich habe einen Zwilling.	मेरे पास एक जुड़वां भाई है।
+I have a visa.	Ich habe ein Visum.	मेरे पास वीज़ा है।
+I have a wife.	Ich habe eine Frau.	मेरी एक पत्नी है।
+I have an egg.	Ich habe ein Ei.	मेरे पास एक अंडा है।
+I have cancer.	Ich habe Krebs.	मुझे कैंसर है।
+I have doubts.	Ich habe Zweifel.	मेरे संदेह हैं।
+I have failed.	Ich bin gescheitert.	मैं असफल हो गया हूँ।
+I have had it.	Ich habe es gehabt.	मेरे पास यह था।
+I have orders.	Ich habe Befehle.	मेरे पास आदेश हैं।
