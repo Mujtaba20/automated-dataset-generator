@@ -1,17 +1,4 @@
 
-Did we wake you up?	Haben wir dich geweckt?	क्या हमने आपको जगाया?
-Did we wake you up?	Haben wir Sie geweckt?	क्या हमने उन्हें जगाया?
-Did we wake you up?	Haben wir euch geweckt?	क्या हमने आपको जगाया?
-Did you arrest Tom?	Haben Sie Tom festgenommen?	क्या आपने टॉम को गिरफ्तार किया?
-Did you bring them?	Hast du sie mitgebracht?	क्या आप उसे अपने साथ लाते थे?
-Did you bring them?	Haben Sie sie mitgebracht?	क्या आप उन्हें अपने साथ लाते थे?
-Did you bring them?	Habt ihr sie mitgebracht?	क्या आप उन्हें अपने साथ लाते थे?
-Did you check this?	Hast du das überprüft?	क्या आपने इसकी जाँच की?
-Did you check this?	Haben Sie das überprüft?	क्या आपने इसकी जाँच की?
-Did you check this?	Habt ihr das überprüft?	क्या आपने इसकी जाँच की?
-Did you check this?	Hast du das nachgeprüft?	क्या आपने इसकी जाँच की?
-Did you check this?	Habt ihr das nachgeprüft?	क्या आपने इसकी जाँच की?
-Did you check this?	Haben Sie das nachgeprüft?	क्या आपने इसकी जाँच की?
 Did you enjoy that?	Hat dir das gefallen?	क्या आपको मज़ा आया?
 Did you enjoy that?	Hattest du Freude daran?	क्या आपको यह अच्छा लगा?
 Did you enjoy that?	Hat dir das Freude gemacht?	क्या आपको मज़ा आया?

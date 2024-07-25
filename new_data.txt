@@ -20375,3 +20375,7 @@ Did anyone miss me?	Hat mich jemand vermisst?	क्या किसी ने �
 Did everyone agree?	Hat sich jeder einverstanden erklärt?	क्या सभी सहमत थे?
 Did she sleep well?	Hat sie gut geschlafen?	क्या उसने अच्छी तरह से सोया?
 Did they live here?	Haben sie hier gelebt?	क्या उन्होंने यहाँ रहा?
+Did we wake you up?	Haben wir dich geweckt?	क्या हमने आपको उठाया है?
+Did you arrest Tom?	Hast du Tom verhaftet?	क्या तुमने टॉम को गिरफ्तार किया है?
+Did you bring them?	Hast du sie gebracht?	क्या तुमने उनको ले आया है?
+Did you check this?	Hast du das überprüft?	क्या तुमने इसे देखा है?
