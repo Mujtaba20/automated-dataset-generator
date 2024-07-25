@@ -20156,3 +20156,12 @@ You're aggressive.	Du bist aggressiv.	तुम हमेशा गुस्स�
 You're attractive.	Du bist attraktiv.	तुम आकर्षक हो।
 You're back again.	Du bist wieder zurück.	तुम फिर से वापस आ गए हो।
 You're back early.	Du bist früh zurück.	तुम जल्दी वापस आ गए हो।
+You're being mean.	Du bist gemein.	तुम निर्दयी हो।
+You're both crazy.	Ihr seid beide verrückt.	तुम दोनों पागल हो।
+You're both crazy. (Different meaning)	Ihr seid beide verrückt.	तुम दोनों पागल हो।
+You're courageous.	Du bist mutig.	तुम बहादुर हो।
+You're courageous. (Different meaning)	Du bist kühn.	तुम साहसी हो।
+You're disgusting!	Du bist ekelhaft!	तुम घिनौना हो!
+You're disgusting.	Du bist widerlich.	तुम बहुत निरादर।
+You're disgusting. (Different meaning)	Du bist abstoßend.	तुम घिनौना हो।
+You're doing fine.	Du machst das gut.	तुम अच्छा कर रहे हो।

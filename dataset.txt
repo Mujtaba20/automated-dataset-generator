@@ -1,14 +1,4 @@
 
-You're being mean.	Du bist gemein.	आप मतलबी हैं।
-You're both crazy.	Ihr habt beide einen an der Klatsche.	आप दोनों ताली पर एक हैं।
-You're both crazy.	Ihr seid beide verrückt.	तुम दोनों पागल हो।
-You're courageous.	Du bist mutig.	आप बहादुर हैं।
-You're courageous.	Sie sind mutig.	आप बहादुर हैं।
-You're courageous.	Ihr seid mutig.	आप बहादुर हैं।
-You're disgusting!	Du bist ekelhaft!	आप घटिया हो!
-You're disgusting.	Du bist widerwärtig.	आप घृणित हैं।
-You're disgusting.	Du bist ekelerregend.	आप घृणित हैं।
-You're doing fine.	Du machst das gut.	आपका काम बढ़िया चल रहा है।
 You're famous now.	Sie sind jetzt berühmt.	अब आप प्रसिद्ध हैं।
 You're famous now.	Du bist jetzt berühmt.	अब आप प्रसिद्ध हैं।
 You're free to go.	Sie dürfen gehen.	आप जा सकते हैं।
