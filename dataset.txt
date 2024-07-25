@@ -1,14 +1,4 @@
 
-She put on a coat.	Sie zog sich einen Mantel an.	उसने एक कोट पर रखा।
-She put on a coat.	Sie zog einen Mantel an.	उसने एक कोट पर रखा।
-She seems excited.	Sie scheint aufgeregt zu sein.	वह उत्साहित लगती है।
-She sells flowers.	Sie verkauft Blumen.	यह फूल बेचता है।
-She sings soprano.	Sie singt Sopran.	वह सोप्रानो गाती है।
-She smiled at him.	Sie lächelte ihn an.	वह उस पर मुस्कुराई।
-She speaks Polish.	Sie spricht Polnisch.	वह पोलिश बोलती है।
-She speaks loudly.	Sie spricht laut.	वह जोर से बोलती है।
-She spoke rapidly.	Sie sprach schnell.	उसने जल्दी से बात की।
-She talks quickly.	Sie spricht schnell.	वह जल्दी से बोलती है।
 She threw him out.	Sie hat ihn rausgeschmissen.	उसने उसे बाहर फेंक दिया।
 She threw him out.	Sie schmiss ihn raus.	उसने उसे बाहर फेंक दिया।
 She took her book.	Sie nahm ihr Buch.	उसने अपनी किताब ली।

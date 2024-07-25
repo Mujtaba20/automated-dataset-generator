@@ -17766,3 +17766,12 @@ She may be French.	Sie könnte französisch sein.	वह फ्रांसी�
 She must be angry.	Sie muss wütend sein.	उसे गुस्सा होना चाहिए।
 She must go there.	Sie muss dorthin gehen.	वहाँ जाना चाहिए।
 She never told me.	Sie hat es mir nie gesagt.	उसने मुझे कभी नहीं बताया।
+She put on a coat.	Sie zog einen Mantel an.	उसने एक कोट पहना।
+She seems excited.	Sie scheint aufgeregt zu sein.	उसे उत्साहित लग रहा है।
+She sells flowers.	Sie verkauft Blumen.	उसने फूल बेचे।
+She sings soprano.	Sie singt Sopran.	वह सोप्रान गाती है।
+She smiled at him.	Sie lächelte ihn an.	उसने उस पर मुस्कान बिखेरी।
+She speaks Polish.	Sie spricht Polnisch.	वह पोलिश बोलती है।
+She speaks loudly.	Sie spricht laut.	वह जोर-शोर से बोलती है।
+She spoke rapidly.	Sie sprach schnell.	उसने तेजी से बात की।
+She talks quickly.	Sie spricht schnell.	वह तेजी से बात करती है।
