@@ -17988,3 +17988,12 @@ That's what works.	Das ist was funktioniert.	वही काम करता �
 That's why I came.	Das ist der Grund, warum ich gekommen bin.	इसी कारण मैं आया था।
 The belt is brown.	Der Gürtel ist braun.	बेल्ट भूरी है।
 The black dog ran.	Der schwarze Hund rannte.	काला कुत्ता भागा।
+The book is small.	Das Buch ist klein.	किताब छोटी है।
+The book is white.	Das Buch ist weiß.	किताब सफ़ेद है।
+The boy came back.	Der Junge kam zurück.	लड़का वापस आया।
+The boy was tired.	Der Junge war müde.	लड़का थक गया था।
+The boys are fine.	Die Jungen sind in Ordnung.	लड़के ठीक हैं।
+The break is over.	Die Pause ist beendet.	ब्रेक समाप्त हो गया है।
+The bus is coming.	Der Bus kommt.	बस आ रही है।
+The cars sped off.	Die Autos fuhren weg.	गाड़ियां चली गईं।
+The cat is eating.	Die Katze frisst.	बिल्ली खा रही है।

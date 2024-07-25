@@ -1,14 +1,4 @@
 
-The book is small.	Das Buch ist klein.	पुस्तक छोटी है।
-The book is white.	Das Buch ist weiß.	पुस्तक सफेद है।
-The boy came back.	Der Junge kam zurück.	लड़का वापस आया।
-The boy was tired.	Der Junge war müde.	लड़का थक गया था।
-The boys are fine.	Den Jungs geht’s gut.	लड़के ठीक हैं।
-The break is over.	Die Pause ist zu Ende.	ब्रेक खत्म हो गया है।
-The break is over.	Die Pause ist vorbei.	ब्रेक खत्म हो गया है।
-The bus is coming.	Der Bus kommt gleich.	बस तुरंत आती है।
-The cars sped off.	Die Autos düsten davon.	कारें धूल से दूर होती हैं।
-The cat is eating.	Die Katze frisst.	बिल्ली खाती है।
 The cat scared me.	Die Katze hat mich erschreckt.	बिल्ली ने मुझे भयभीत कर दिया।
 The cats are safe.	Die Katzen sind in Sicherheit.	बिल्लियाँ सुरक्षित हैं।
 The check bounced.	Der Scheck ist geplatzt.	चेक फट गया है।
