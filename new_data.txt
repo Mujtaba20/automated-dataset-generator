@@ -7229,3 +7229,13 @@ Tom has asthma.	Tom hat Asthma.	टॉम को दमा है।
 Tom has braces.	Tom trägt Zahnspangen.	टॉम की दांतों पर ब्रेस लगा है।
 Tom has cancer.	Tom hat Krebs.	टॉम कैंसर से पीड़ित है।
 Tom has failed.	Tom hat versagt.	टॉम नाकाम हो गया है।
+Tom has got it.	Tom hat es bekommen.	टॉमे ने उसे पा लिया।
+Tom has had it.	Tom hatte genug.	टॉमे ने उसे रखा।
+Tom has issues.	Tom hat Probleme.	टॉमे के पास समस्याएँ हैं।
+Tom has it now.	Tom hat es jetzt.	टॉम अब उसके पास है।
+Tom has my car.	Tom hat mein Auto.	टॉमे के पास मेरी कार है।
+Tom has scurvy.	Tom hat Skorbut.	टॉमे को बेरी-बेरी है।
+Tom has talent.	Tom hat Talent.	टॉम में प्रतिभा है।
+Tom hated Mary.	Tom hasste Mary.	टॉमे ने मेरी से नफ़रत की।
+Tom hates Mary.	Tom hasst Mary.	टॉम मेरी से नफ़रत करता है।
+Tom hates cats.	Tom hasst Katzen.	टॉम बिल्लियों से नफ़रत करता है।
