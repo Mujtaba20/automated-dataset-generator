@@ -4246,3 +4246,13 @@ I smell a rat.	Ich rieche einen Rattenschwanz.	मुझे चूहे की 
 I sold a book.	Ich habe ein Buch verkauft.	मैंने एक किताब बेची।
 I support Tom.	Ich unterstütze Tom.	मैं टॉम का समर्थन करता हूँ।
 I support him.	Ich unterstütze ihn.	मैं उसका समर्थन करता हूँ।
+I think I can.	Ich denke, ich kann.	मुझे लगता है मैं कर सकता हूँ।
+I told a joke.	Ich erzählte einen Witz.	मैंने मजाक किया।
+I told you so.	Ich habe es dir gesagt.	मैंने तुम्हें बताया था।
+I informed you thus.	Ich habe dich so informiert.	मैंने तुम्हें ऐसे सूचित किया।
+I reiterated the statement.	Ich wiederholte die Aussage.	मैंने बयान दोहराया।
+I took a walk.	Ich machte einen Spaziergang.	मैंने सैर की।
+I trusted Tom.	Ich vertraute Tom.	मैंने टॉम पर भरोसा किया।
+I use Twitter.	Ich benutze Twitter.	मैं ट्विटर का उपयोग करता हूँ।
+I went to see Tom.	Ich ging, um Tom zu sehen.	मैंने टॉम से मिलने के लिए गया।
+I offered help willingly.	Ich bot bereitwillig Hilfe an.	मैंने स्वेच्छापूर्वक मदद की पेशकश की।
