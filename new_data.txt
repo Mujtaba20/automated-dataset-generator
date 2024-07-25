@@ -5283,3 +5283,12 @@ We need paper.	Wir brauchen Papier.	हमें कागज की आवश�
 We need to go.	Wir müssen gehen.	हमें जाना है।
 We need tools.	Wir brauchen Werkzeuge.	हमें उपकरणों की आवश्यकता है।
 We need water.	Wir brauchen Wasser.	हमें पानी की आवश्यकता है।
+We never lose.	Wir verlieren nie.	हम कभी नहीं हारते।
+We never sing.	Wir singen nie.	हम कभी नहीं गाते।
+We never swim.	Wir schwimmen nie.	हम कभी नहीं तैरते।
+We never talk.	Wir sprechen nie.	हम कभी नहीं बात करते।
+We tried that.	Wir haben das versucht.	हमने वह कोशिश की।
+We want a car.	Wir wollen ein Auto.	हमें एक कार चाहिए।
+We want candy.	Wir wollen Süßigkeiten.	हमें मिठाई चाहिए।
+We want peace.	Wir wollen Frieden.	हमें शांति चाहिए।
+We want to go.	Wir wollen gehen.	हम जाना चाहते हैं।
