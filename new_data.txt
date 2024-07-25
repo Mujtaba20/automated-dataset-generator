@@ -3251,3 +3251,12 @@ They'll grow.	Sie werden wachsen.	वे बढ़ेंगे।
 They'll know.	Sie werden wissen.	वे जानेंगे।
 They're back.	Sie sind zurück.	वे वापस हैं।
 They're blue.	Sie sind blau.	वे नीले हैं।
+They're boys.	Sie sind Jungen.	वे लड़के हैं।
+They're cold.	Ihnen ist kalt.	उनको ठंड लगी है।
+They're cold. [Different Meaning]	Sie sind nicht warmherzig.	उनको ठंड़ लगी है।
+They're fake.	Sie sind falsch.	वे नकली हैं।
+They're fast.	Sie sind schnell.	वे जल्दी हैं।
+They're fine.	Es geht ihnen gut.	उन्हें ठीक है।
+They're free.	Sie sind frei.	वे निःशुल्क हैं।
+They're gone.	Sie sind weg.	वे गए हुए हैं।
+They're gone. [Different Meaning]	Sie sind erledigt.	वे चले गए।
