@@ -1753,3 +1753,12 @@ I'll buy it.	Ich werde es kaufen.	मैं इसे खरीदूँगा�
 I'll cancel.	Ich werde stornieren.	मैं रद्द कर दूँगा।
 I'll cancel. - Different meaning	Ich werde absagen.	मैं निरस्त कर दूँगा।
 I'll decide.	Ich werde entscheiden.	मैं फैसला करूँगा।
+I'll fix it.	Ich werde es reparieren.	मैं इसे ठीक कर दूंगा।
+I'll follow.	Ich werde folgen.	मैं अनुसरण करूँगा।
+I'll get by.	Ich werde zurechtkommen.	मैं निकल आऊंगा।
+I'll get in.	Ich werde reinkommen.	में अंदर आ जाऊंगा।
+I'll get it.	Ich werde es bekommen.	मैं इसे पाऊंगा।
+I'll get up.	Ich werde aufstehen.	मैं उठ जाऊंगा।
+I'll go now.	Ich gehe jetzt.	मैं अभी जा रहा हूं।
+I'll go see.	Ich werde gehen und sehen.	मैं जाऊंगा और देखूंगा।
+I'll manage.	Ich werde das regeln.	मैं संभाल लूंगा।
