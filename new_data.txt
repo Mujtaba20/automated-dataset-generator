@@ -20217,3 +20217,10 @@ You're very lucky.	Du bist sehr glücklich.	तुम्हारे साथ �
 You're very sharp.	Du bist sehr scharf.	तुम बहुत तेज हो।
 You're very smart.	Du bist sehr klug.	तुम बहुत स्मार्ट हो।
 You're very sweet.	Du bist sehr süß.	तुम बहुत प्यारी हो।
+You're very timid.	Du bist sehr schüchtern.	तुम बहुत शर्मीले हो।
+You're very upset.	Du bist sehr aufgebracht.	तुम बहुत उदास हो।
+You're very young.	Du bist sehr jung.	तुम बहुत छोटे हो।
+You've got cancer.	Du hast Krebs.	तुम्हें कैंसर हो गया है।
+Your book is here.	Dein Buch ist hier.	तुम्हारी किताब यहाँ है।
+Your face is pale.	Dein Gesicht ist blass.	तुम्हारा चेहरा पीला है।
+Your house is big.	Dein Haus ist groß.	तुम्हारा घर बड़ा है।
