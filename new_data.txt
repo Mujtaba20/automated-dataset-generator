@@ -19272,3 +19272,13 @@ Tom was assaulted.	Tom wurde angegriffen.	टॉम पर हमला हु�
 Tom was assertive.	Tom war bestimmend.	टॉम दृढ़ था।
 Tom was astounded.	Tom war verblüfft.	टॉम हैरान था।
 Tom was at school.	Tom war in der Schule.	टॉम स्कूल में था।
+Tom was attentive.	Tom war aufmerksam.	टॉम ध्यान देने वाला था।
+Tom was available.	Tom war verfügbar.	टॉम उपलब्ध था।
+Tom was beaten up.	Tom wurde geschlagen.	टॉम पीटा गया था।
+Tom was behind me.	Tom war hinter mir.	मेरे पीछे टॉम था।
+Tom was born rich.	Tom wurde reich geboren.	टॉम अमीर पैदा हुआ था।
+Tom was breathing.	Tom atmete.	टॉम सांस ले रहा था।
+Tom was brilliant.	Tom war brillant.	टॉम उत्कृष्ट था।
+Tom was carjacked.	Tom wurde autoentführt.	टॉम कार उधार लेने वाले ने उद्धार कर लिया।
+Tom was chuckling.	Tom kicherte.	टॉम किचचिचाया।
+Tom was competent.	Tom war kompetent.	टॉम पेशेवर था।
