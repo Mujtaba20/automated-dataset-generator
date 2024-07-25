@@ -378,3 +378,9 @@ Let's go!	Auf geht's!	आओ जाएं!
 Look out!	Pass auf!	ध्यान दें!
 Marry me.	Heirate mich.	मुझसे शादी करो।
 May I go?	Darf ich gehen?	क्या मैं जा सकता हूँ?
+Said who?	Hat gesagt wer?	किसने कहा था?
+Save Tom.	Bewahren Tom auf.	टॉम को बचाओ।
+She came.	Sie kam.	वह आई।
+She lied.	Sie log.	उसने झूठ बोला।
+She runs.	Sie läuft.	वह दौड़ती है।
+Sit down!	Setz dich!	बैठो!
