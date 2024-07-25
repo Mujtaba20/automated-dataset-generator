@@ -2523,3 +2523,13 @@ Give it back.	Gib es zurück.	यह वापस दो।
 Give me half.	Gib mir die Hälfte.	मुझे आधा दो।
 Give me that.	Gib mir das.	मुझे वह दो।
 Give me time.	Gib mir Zeit.	मुझे समय दो।
+Go around it.	Geh darum herum.	इसके चारों ओर जाओ।
+Go away, Tom.	Geh weg, Tom.	चला जा, टॉम।
+Go there now.	Geh jetzt dorthin.	अब वहाँ जाओ।
+Go to school.	Geh zur Schule.	स्कूल जाओ।
+Good evening.	Guten Abend.	शुभ संध्या।
+Good for you.	Gut für dich.	तुम्हारे लिए अच्छा है।
+Good for you. (alternate meaning)	Glückwunsch.	तुम्हारे लिए बधाई हो।
+Good for you. (another alternate meaning)	Gut gemacht.	तुमने अच्छा काम किया।
+Goodbye, Tom.	Auf Wiedersehen, Tom.	खुदा हाफ़िज़, टॉम।
+Grab my hand.	Nimm meine Hand.	मेरी हाथ पकड़ो।
