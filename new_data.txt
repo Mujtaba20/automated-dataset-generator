@@ -705,3 +705,10 @@ She cried.	Sie weinte.	उसने रो दिया।
 She tried.	Sie versuchte.	उसने कोशिश की।
 She walks.	Sie geht.	वह चलती है।
 She's hot.	Sie ist heiß.	वह गर्म है।
+Sign here.	Hier unterschreiben.	यहाँ हस्ताक्षर करें।
+Sign this.	Dies unterschreiben.	इसे हस्ताक्षर करें।
+Sit by me.	Setz dich zu mir.	मेरे पास बैठो।
+Sit still.	Bleib ruhig sitzen.	शांत रहो।
+Sit there.	Sitz da.	वहाँ बैठो।
+Sit tight.	Sitz fest.	मजबूती से बैठो।
+Start now.	Jetzt anfangen.	अब शुरू करो।
