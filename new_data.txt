@@ -1416,3 +1416,11 @@ Are we lost?	Haben wir uns verlaufen?	क्या हम खो गए है�
 Are we safe?	Sind wir in Sicherheit?	क्या हम सुरक्षित हैं?
 Are you Tom?	Bist du Tom?	क्या तुम टॉम हो?
 Are you Tom?_1	Bist du Tom?	क्या तुम टॉम हो?
+Are you fat?	Bist du dick?	क्या आप मोटे हैं?
+Are you fit?	Bist du fit?	क्या आप फिट हैं?
+Are you hot?	Ist dir heiß?	क्या आप गर्म हैं?
+Are you mad?	Bist du verrückt?	क्या तुम पागल हो?
+Are you mad? (2)	Bist du sauer?	क्या तुम नाराज हो?
+Are you mad? (3)	Bist du wütend?	क्या तुम गुस्सा कर रहे हो?
+Are you new?	Bist du neu?	क्या तुम नए हो?
+Are you shy?	Bist du schüchtern?	क्या तुम शर्मीले हो?
