@@ -1,15 +1,4 @@
 
-Tom was impulsive.	Tom war impulsiv.	टॉम आवेगी था।
-Tom was in a coma.	Tom lag im Koma.	टॉम एक कोमा में था।
-Tom was in misery.	Tom war in Not.	टॉम की जरूरत थी।
-Tom was incorrect.	Tom war falsch.	टॉम गलत था।
-Tom was incorrect.	Tom hatte Unrecht.	टॉम गलत था।
-Tom was indignant.	Tom war empört.	टॉम नाराज था।
-Tom was insincere.	Tom war unaufrichtig.	टॉम विनीत था।
-Tom was intrigued.	Tom war fasziniert.	टॉम मोहित हो गया।
-Tom was irritated.	Tom war verärgert.	टॉम परेशान था।
-Tom was just here.	Tom war gerade hier.	टॉम यहाँ था।
-Tom was just here.	Tom war eben hier.	टॉम यहाँ था।
 Tom was listening.	Tom hörte zu.	टॉम ने सुना।
 Tom was mentioned.	Tom wurde erwähnt.	टॉम का उल्लेख किया गया था।
 Tom was miserable.	Tom war elend.	टॉम दुखी था।

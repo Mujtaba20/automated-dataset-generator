@@ -19310,3 +19310,13 @@ Tom was horrified.	Tom war entsetzt.	टॉम चौंका दिया ग�
 Tom was impartial.	Tom war unparteiisch.	टॉम निष्पक्ष था।
 Tom was impatient.	Tom war ungeduldig.	टॉम अधीर था।
 Tom was impressed.	Tom war beeindruckt.	टॉम प्रभावित था।
+Tom was impulsive.	Tom war impulsiv.	टॉम आवेगी था।
+Tom was in a coma.	Tom lag im Koma.	टॉम कोमा में था।
+Tom was in misery.	Tom war im Elend.	टॉम दु:खी था।
+Tom was incorrect.	Tom lag falsch.	टॉम गलत था।
+Tom was incorrect. Different meaning	Tom war unrichtig.	टॉम गलत था।
+Tom was indignant.	Tom war empört.	टॉम अफसोस था।
+Tom was insincere.	Tom war unaufrichtig.	टॉम अस्पष्ट था।
+Tom was intrigued.	Tom war fasziniert.	टॉम प्रेरित था।
+Tom was irritated.	Tom war gereizt.	टॉम चिढ़ा हुआ था।
+Tom was just here.	Tom war gerade hier.	टॉम अभी यहाँ था।
