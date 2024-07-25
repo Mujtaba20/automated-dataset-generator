@@ -8666,3 +8666,9 @@ I burped loudly.	Ich habe laut gerülpst.	मैंने जोर से ड�
 I called Tom up.	Ich habe Tom angerufen.	मैंने टॉम को बुलाया।
 I called him up.	Ich habe ihn angerufen.	मैंने उसे बुलाया।
 I called my dog.	Ich habe meinen Hund gerufen.	मैंने अपने कुत्ते को बुलाया।
+I came by train.	Ich kam mit dem Zug.	मैं ट्रेन से आया।
+I came with Tom.	Ich kam mit Tom.	मैं टॉम के साथ आया।
+I can afford it.	Ich kann es mir leisten.	मैं यह फिलहाल कर सकता हूँ।
+I can do it now.	Ich kann es jetzt machen.	मैं अब यह कर सकता हूँ।
+I can drive you.	Ich kann dich fahren.	मैं तुम्हें ड्राइव कर सकती हूँ।
+I can handle it.	Ich kann damit umgehen.	मैं इसे संभाल सकता हूं।
