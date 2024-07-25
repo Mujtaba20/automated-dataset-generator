@@ -9485,3 +9485,9 @@ It was painless.	Es war schmerzlos.	यह दर्दरहित था।
 It was terrific.	Es war fantastisch.	यह शानदार था।
 It was too easy.	Es war zu einfach.	यह बहुत आसान था।
 It was too late.	Es war zu spät.	यह बहुत देर हो गई थी।
+It was very big.	Es war sehr groß.	यह बहुत बड़ा था।
+It was worth it.	Es hat sich gelohnt.	यह वास्तव में परिणामदायक था।
+It wasn't funny.	Es war nicht lustig.	यह मजाकिया नहीं था।
+It won't matter.	Es wird keine Rolle spielen.	यह मायने नहीं रखेगा।
+It would be fun.	Es wäre Spaß.	यह मजेदार होगा।
+It'll end badly.	Es wird schlecht enden.	यह बुरी तरह समाप्त होगा।
