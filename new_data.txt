@@ -10426,3 +10426,13 @@ Tom is hopeless.	Tom ist hoffnungslos.	टॉम निराश है।
 Tom is horrible.	Tom ist schrecklich.	टॉम भयानक है।
 Tom is humorous.	Tom ist humorvoll.	टॉम मजाकिया है।
 Tom is immature.	Tom ist unreif.	टॉम बच्चा है।
+Tom is immobile.	Tom ist unbeweglich.	टॉम अकंड्त है।
+Tom is impolite.	Tom ist unhöflich.	टॉम अशिष्ट है।
+Tom is in shock.	Tom ist geschockt.	टॉम आघातित है।
+Tom is in there.	Tom ist dort drin.	टॉम वहाँ है।
+Tom is innocent.	Tom ist unschuldig.	टॉम निर्दोष है।
+Tom is insecure.	Tom ist unsicher.	टॉम असुरक्षित है।
+Tom is insolent.	Tom ist respektlos.	टॉम ढीला है।
+Tom is inspired.	Tom ist inspiriert.	टॉम प्रेरित है।
+Tom is involved.	Tom ist beteiligt.	टॉम शामिल है।
+Tom is kneeling.	Tom kniet.	टॉम घुटनों पर बैठा है।
