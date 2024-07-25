@@ -19499,3 +19499,10 @@ We can't find Tom.	Wir können Tom nicht finden.	हम टॉम को नह�
 We can't go there.	Wir können nicht dorthin gehen.	हम वहाँ नहीं जा सकते।
 We can't help Tom.	Wir können Tom nicht helfen.	हम टॉम की मदद नहीं कर सकते।
 We can't help you.	Wir können Ihnen nicht helfen.	हम आपकी मदद नहीं कर सकते।
+We can't kill Tom.	Wir können Tom nicht töten.	हम टॉम को नहीं मार सकते।
+We can't stop now.	Wir können jetzt nicht aufhören.	हम अब रोक नहीं सकते।
+We can't talk now.	Wir können jetzt nicht reden.	हम अब बात नहीं कर सकते।
+We can't tell Tom.	Wir können es Tom nicht sagen.	हम टॉम को नहीं बता सकते।
+We can't use that.	Wir können das nicht benutzen.	हम वह इस्तेमाल नहीं कर सकते।
+We can't use this.	Wir können dies nicht verwenden.	हम इसे उपयोग नहीं कर सकते।
+We close at 7 p.m.	Wir schließen um 19 Uhr.	हम सात बजे बंद करते हैं।

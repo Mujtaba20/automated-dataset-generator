@@ -1,14 +1,4 @@
 
-We can't kill Tom.	Wir können Tom nicht umbringen.	हम टॉम को नहीं मार सकते।
-We can't kill Tom.	Wir können Tom nicht töten.	हम टॉम को नहीं मार सकते।
-We can't stop now.	Wir können jetzt nicht aufhören.	हम अब रुक नहीं सकते।
-We can't stop now.	Wir können jetzt nicht anhalten.	हम अब रुक नहीं सकते।
-We can't talk now.	Wir können uns jetzt nicht unterhalten.	हम अब बात नहीं कर सकते।
-We can't tell Tom.	Wir dürfen Tom nichts sagen.	हम टॉम नहीं कह सकते।
-We can't tell Tom.	Wir können Tom das nicht sagen.	हम टॉम नहीं कह सकते।
-We can't use that.	Das können wir nicht benutzen.	हम इसका उपयोग नहीं कर सकते।
-We can't use this.	Das können wir nicht gebrauchen.	हम इसका उपयोग नहीं कर सकते।
-We close at 7 p.m.	Wir schließen um sieben Uhr abends.	हम शाम को सात बजे बंद करते हैं।
 We cried together.	Wir haben zusammen geweint.	हम एक साथ रोए।
 We cultivate rice.	Wir bauen Reis an.	हम चावल उगा रहे हैं।
 We demand justice.	Wir fordern Gerechtigkeit.	हम न्याय की मांग करते हैं।
