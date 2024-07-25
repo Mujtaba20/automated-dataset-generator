@@ -8729,3 +8729,13 @@ I don't see why.	Ich verstehe nicht warum.	मैं नहीं समझत�
 I don't see you.	Ich sehe dich nicht.	मैं तुम्हें नहीं देखता।
 I don't want it.	Ich will es nicht.	मुझे यह नहीं चाहिए।
 I downloaded it.	Ich habe es heruntergeladen.	मैंने इसे डाउनलोड किया।
+I enjoy reading.	Ich genieße es zu lesen.	मैं पढ़ने का आनंद लेता हूँ।
+I escaped death.	Ich entkam dem Tod.	मैं मौत से बच गया।
+I escaped death. (Different meaning)	Ich entging dem Tod.	मैंने मौत से बचने का स्थान पा लिया।
+I expect to win.	Ich erwarte zu gewinnen.	मैं जीतने की उम्मीद करता हूँ।
+I feel feverish.	Ich fühle mich fiebrig.	मुझे बुखार महसूस हो रहा है।
+I feel helpless.	Ich fühle mich hilflos.	मैं बेबस महसूस कर रहा हूँ।
+I feel homesick.	Ich fühle mich heimwehkrank.	मुझे घर से दूरी की याद आ रही है।
+I feel horrible.	Ich fühle mich schrecklich.	मैं भयानक महसूस कर रहा हूँ।
+I feel relieved.	Ich fühle mich erleichtert.	मैं परेशानी रहित महसूस कर रहा हूँ।
+I feel terrible.	Ich fühle mich furchtbar.	मैं भयानक महसूस कर रहा हूँ।
