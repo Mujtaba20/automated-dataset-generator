@@ -15640,3 +15640,13 @@ Come on, hurry up.	Komm schon, beeil dich.	चलो जल्दी करो�
 Come on, let's go.	Los, lass uns gehen.	आओ, चलो।
 Come on, touch it.	Komm schon, berühre es.	चलो, छुओ।
 Come on, trust me.	Vertrau mir doch.	मुझ पर भरोसा करो।
+Come out and play.	Komm raus und spiel.	बाहर आओ और खेलो।
+Come out of there.	Komm dort raus.	वहां से बाहर आओ।
+Come play with us.	Komm mit uns spielen.	हमारे साथ खेलो।
+Come see me again.	Komm mich wieder sehen.	मुझसे फिर से मिलने आओ।
+Come sing with me.	Komm mit mir singen.	मेरे साथ गाओ।
+Come swim with me.	Komm mit mir schwimmen.	मेरे साथ तैरो।
+Come with me, Tom.	Komm mit mir, Tom.	मेरे साथ आओ, टॉम।
+Compare the facts.	Vergleiche die Fakten.	तथ्यों की तुलना करो।
+Copy this, please.	Kopiere das, bitte.	कृपया यह कॉपी करें।
+Copy this, please.1	Kopiere dies, bitte.	इसे कृपया कॉपी करें।
