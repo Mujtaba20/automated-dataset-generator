@@ -9005,3 +9005,13 @@ engSentence7	Ich sagte, es geht mir gut.	मैंने कहा मैं ठ
 engSentence8	Ich sagte zurückgehen!	मैंने कहा पीछे हटो!
 engSentence9	Ich sagte geh runter!	मैंने कहा नीचे जाओ!
 engSentence10	Ich sagte setz dich.	मैंने कहा बैठो।
+I said too much.	Ich habe zu viel gesagt.	मैंने बहुत कुछ कह दिया।
+I saw Tom again.	Ich habe Tom wieder gesehen.	मैंने फिर से टॉम को देखा।
+I saw Tom do it.	Ich habe Tom dabei gesehen.	मैंने टॉम को ऐसा करते हुए देखा।
+I saw Tom leave.	Ich habe Tom gehen sehen.	मैंने टॉम को जाते हुए देखा।
+I saw Tom naked.	Ich habe Tom nackt gesehen.	मैंने टॉम को नंगा देखा।
+I saw Tom on TV.	Ich habe Tom im Fernsehen gesehen.	मैंने टॉम को टीवी पर देखा।
+I saw Tom there.	Ich habe Tom dort gesehen.	मैंने वहाँ टॉम को देखा।
+I saw her again.	Ich habe sie wieder gesehen.	मैंने उसे फिर से देख लिया।
+I saw him again.	Ich habe ihn wieder gesehen.	मैंने उसे फिर से देखा।
+I saw him first.	Ich habe ihn zuerst gesehen.	मैंने पहले उसे देखा।
