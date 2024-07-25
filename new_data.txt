@@ -4291,3 +4291,12 @@ I was tempted.	Ich war versucht.	मुझे इच्छा हुई।
 I was thirsty.	Ich war durstig.	मुझे प्यास लगी थी।
 I was too shy.	Ich war zu schüchtern.	मैं बहुत शर्मीला था।
 I was worried.	Ich war besorgt.	मैं चिंतित था।
+I wasn't busy.	Ich war nicht beschäftigt.	मैं व्यस्त नहीं था।
+I wasn't home.	Ich war nicht zu Hause.	मैं घर पर नहीं था।
+I wasn't sure.	Ich war mir nicht sicher.	मुझे यकीन नहीं था।
+I wasn't told.	Mir wurde nichts gesagt.	मुझे नहीं बताया गया था।
+I watched Tom.	Ich habe Tom beobachtet.	मैंने टॉम को देखा।
+I watched you.	Ich habe dich angesehen.	मैंने तुम्हें नज़रअंदाज किया।
+I went aboard.	Ich bin an Bord gegangen.	मैं जहाज़ पर चला गया।
+I went hiking.	Ich bin wandern gegangen.	मैं ट्रैकिंग पर गया।
+I went inside.	Ich bin hineingegangen.	मैं अंदर गया।
