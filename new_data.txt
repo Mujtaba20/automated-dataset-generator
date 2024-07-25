@@ -6894,3 +6894,7 @@ She's divorced.	Sie ist geschieden.	वह तलाकशुदा है।
 She's innocent.	Sie ist unschuldig.	वह मासूम है।
 She's not here.	Sie ist nicht hier.	वह यहाँ नहीं है।
 She's pregnant.	Sie ist schwanger.	वह गर्भवती है।
+She's too loud.	Sie ist zu laut.	वह बहुत शोर करती है।
+Show it to Tom.	Zeig es Tom.	इसे टॉम को दिखाओ।
+Show it to her.	Zeig es ihr.	इसे उसे दिखाओ।
+Show it to him.	Zeig es ihm.	उसे देखाओ।
