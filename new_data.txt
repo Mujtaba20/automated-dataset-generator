@@ -20599,3 +20599,13 @@ Everyone's reading.	Jeder liest.	सभी पढ़ रहें हैं।
 Everyone's shocked.	Alle sind schockiert.	सभी हैरान हैं।
 Everyone's thirsty.	Alle haben Durst.	सभी प्यासे हैं।
 Everyone's waiting.	Alle warten.	सभी इंतजार कर रहे हैं।
+Everything changed.	Alles hat sich geändert.	सब कुछ बदल गया।
+Everything changes.	Alles ändert sich.	सब कुछ परिवर्तित होता है।
+Everything is fine.	Alles ist in Ordnung.	सब कुछ ठीक है।
+Everything is okay.	Alles ist okay.	सब कुछ ठीक है।
+Everything is gone.	Alles ist weg.	सब कुछ गया।
+Everything is over.	Alles ist vorbei.	सब कुछ खत्म हो गया है।
+Everything matters.	Alles zählt.	सब कुछ मायने रखता है।
+Everything's ready.	Alles ist bereit.	सब कुछ तैयार है।
+Excuse me a minute.	Entschuldigung, eine Minute.	माफ़ कीजिए, एक मिनट।
+Excuse me a second.	Entschuldigen Sie mich eine Sekunde.	माफ़ कीजिए, एक सेकंड।
