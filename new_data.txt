@@ -12351,3 +12351,12 @@ I feel very good.	Ich bin sehr glücklich.	मैं बहुत खुश ह�
 I feel very sick.	Ich fühle mich sehr krank.	मुझे बहुत बीमार लग रहा है।
 I feel your pain.	Ich fühle deinen Schmerz.	मुझे तुम्हारा दर्द महसूस हो रहा है।
 I felt powerless.	Ich fühlte mich machtlos.	मुझे अशक्त महसूस हुआ।
+I found her kind.	Ich fand sie nett.	मैंने उसे दयालु पाया।
+I found it funny.	Ich fand es lustig.	मुझे यह हंसी आई।
+I found it later.	Ich fand es später.	मैंने बाद में यह पाया।
+I found it there.	Ich fand es dort.	मैंने वहां यह पाया।
+I found somebody.	Ich fand jemanden.	मैंने किसी को पाया।
+I found the keys.	Ich fand die Schlüssel.	मैंने चाबियाँ पाई।
+I found your cap.	Ich fand deine Mütze.	मैंने तुम्हारी टोपी पायी।
+I gave Tom a hug.	Ich gab Tom eine Umarmung.	मैंने टॉम को एक गले लगाया।
+I gave Tom a tip.	Ich gab Tom ein Trinkgeld.	मैंने टॉम को एक सुझाव दिया।
