@@ -3754,3 +3754,9 @@ Beat the eggs.	Die Eier aufschlagen.	अंडे मारो।
 Break it down.	Es herunterbrechen.	उसे कुचल दो।
 Bring it here.	Es hierhinbringen.	यहाँ ले आना।
 Bring the key.	Den Schlüssel bringen.	कुंजी लाओ।
+Cain was evil.	Kain war böse.	कैन बुरा था।
+Call me later.	Rufen Sie mich später an.	मुझे बाद में कॉल करें।
+Call security!	Rufen Sie die Sicherheit!	सुरक्षा को बुलाओ!
+Call security.	Rufen Sie die Sicherheit.	सुरक्षा को बुलाओ।
+Can I ask why?	Kann ich fragen, warum?	क्या मैं पूछ सकता हूँ क्यों?
+Can I hug you?	Kann ich dich umarmen?	क्या मैं तुम्हे गले लगा सकता हूँ?
