@@ -15392,3 +15392,12 @@ You need a hobby.	Du brauchst ein Hobby.	तुम्हें एक शौक 
 You need friends.	Du brauchst Freunde.	तुम्हें दोस्त चाहिए।
 You need therapy.	Du brauchst Therapie.	तुम्हें चिकित्सा चाहिए।
 You need to rest.	Sie müssen sich ausruhen.	तुम्हें विश्राम करना चाहिए।
+You need to stop.	Du musst aufhören.	तुम्हें रोकना चाहिए।
+You owe me money.	Du schuldest mir Geld.	तुम्हे मुझसे पैसे देने हैं।
+You read my mind. 	Du liest meinen Gedanken.	तुम मेरे ख्याल पढ़ रहे हो।
+You really stink.	Du stinkst wirklich.	तुम वास्तव में बदबू फैलाते हो।
+You saved us all.	Du hast uns alle gerettet.	तुमने हम सबको बचाया।
+You seem content.	Du scheinst zufrieden zu sein.	तुम संतुष्ट लग रहे हो।
+You seemed bored.	Du schienst gelangweilt zu sein.	तुमे उबाऊ लग रहा था।
+You should do it.	Du solltest es machen.	तुम्हें यह करना चाहिए।
+You should leave.	Du solltest gehen.	तुम्हें जाना चाहिए।
