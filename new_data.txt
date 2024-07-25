@@ -670,3 +670,9 @@ Keep them.	Sie behalten.	उन्हें रखें।
 Keep this.	Behalte das.	इसे रखें।
 Keep warm.	Warm halten.	वार्म रखें।
 Kill them.	Bring sie um.	उन्हें यहां छोड़ दो।
+Leave Tom.	Lass Tom in Ruhe.	टॉम को जाने दो।
+Leave now.	Verlassen Sie jetzt.	अभी छोड़ो।
+Let it be.	Lass es geschehen.	यह होने दो।
+Let me be.	Lass mich sein.	मुझे होने दो।
+Let me go!	Lass mich laufen!	मुझे भागने दो!
+Let me in.	Lass mich rein.	मुझे अंदर आने दो।
