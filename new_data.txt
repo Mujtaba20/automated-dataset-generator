@@ -4831,3 +4831,11 @@ That was loud.	Das war laut.	वह जोर से बोला।
 That was mean.	Das war gemein.	वह निर्मम था।
 That was ours.	Das gehörte uns.	वह हमारा था।
 That'd be fun.	Das könnte lustig sein.	यह मजाक का बात होगा।
+That'll do it.	Das wird es tun.	वह कर देंगे।
+That's Saturn.	Das ist Saturn.	यह शनि है।
+That's a book.	Das ist ein Buch.	यह एक किताब है।
+That's a copy.	Das ist eine Kopie.	यह एक प्रति है।
+That's a doll.	Das ist eine Puppe.	यह एक गुड़िया है।
+That's a fact.	Das ist eine Tatsache.	यह एक तथ्य है।
+That's a fake.	Das ist eine Fälschung.	यह एक नकली है।
+That's a fish.	Das ist ein Fisch.	यह एक मछली है।
