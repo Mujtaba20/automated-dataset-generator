@@ -13841,3 +13841,13 @@ They're laughing.	Sie lachen.	वे हंस रहे हैं।
 They're my books.	Das sind meine Bücher.	वे मेरी किताबें हैं।
 They're not good.	Das ist nicht gut.	वो अच्छे नहीं हैं।
 They're not here.	Sie sind nicht hier.	वे यहाँ नहीं हैं।
+They're not mine.	Sie sind nicht meine.	वे मेरे नहीं हैं।
+They're students.	Sie sind Studenten.	वे छात्र हैं।
+They're traitors.	Sie sind Verräter.	वे गद्दार हैं।
+They're watching.	Sie beobachten.	वे देख रहे हैं।
+They're keeping an eye on you.	Sie haben ein Auge auf dich.	वे आप पर नजर रख रहे हैं।
+They've seen Tom.	Sie haben Tom gesehen.	उन्होंने टॉम को देखा है।
+Things got worse.	Es wurde schlimmer.	चीजें और बिगड़ गई।
+Things look good.	Die Dinge sehen gut aus.	बातें अच्छी दिख रही हैं।
+Think about that.	Denk darüber nach.	उसके बारे में सोचो।
+Think about this.	Denk darüber nach.	इसके बारे में सोचो।
