@@ -20443,3 +20443,7 @@ Do you play soccer?	Spielst du Fußball?	क्या आप फुटबॉल 
 Do you play tennis?	Spielst du Tennis?	क्या आप टेनिस खेलते हैं?
 Do you remember it?	Erinnerst du dich daran?	क्या आप इसे याद करते हैं?
 Do you remember me?	Erinnerst du dich an mich?	क्या आप मुझे याद करते हैं?
+Do you remember us?	Erinnerst du dich an uns?	क्या तुम हमें याद करते हो?
+Do you see anybody?	Siehst du jemanden?	क्या तुम किसी को देख रहे हो?
+Do you sell stamps?	Verkaufen Sie Briefmarken?	क्या आप टिकट बेचते हैं?
+Do you smoke a lot?	Rauchst du viel?	क्या तुम ज्यादा सिगरेट पीते हो?

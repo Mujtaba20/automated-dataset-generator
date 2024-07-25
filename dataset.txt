@@ -1,14 +1,4 @@
 
-Do you remember us?	Erinnerst du dich an uns?	क्या आपको हम याद हैं?
-Do you see anybody?	Siehst du jemanden?	क्या आप किसी को देखते हैं?
-Do you see anybody?	Seht ihr jemanden?	क्या आप किसी को देखते हैं?
-Do you see anybody?	Sehen Sie jemanden?	क्या आप किसी को देखते हैं?
-Do you sell stamps?	Verkaufst du Briefmarken?	क्या आप स्टैंप बेचते हैं?
-Do you sell stamps?	Verkauft ihr Briefmarken?	क्या आपके टिकट बेचते हैं?
-Do you sell stamps?	Verkaufen Sie Briefmarken?	क्या आप स्टैंप बेचते हैं?
-Do you smoke a lot?	Rauchst du viel?	क्या आप बहुत धूम्रपान कर रहे हैं?
-Do you smoke a lot?	Raucht ihr viel?	क्या आप बहुत धूम्रपान करते हैं?
-Do you smoke a lot?	Rauchen Sie viel?	क्या आप बहुत धूम्रपान करते हैं?
 Do you want a bite?	Willst du mal beißen?	क्या आप काटना चाहते हैं?
 Do you want a bite?	Willst du einen Happen?	क्या आप एक काट चाहते हैं?
 Do you want a lift?	Wollen Sie mitfahren?	क्या आप सवारी करना चाहते हैं?
