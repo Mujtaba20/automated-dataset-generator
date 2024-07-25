@@ -7743,3 +7743,9 @@ Tom's the boss.	Tom ist der Boss.	टॉम मालिक है।
 Tom's unstable.	Tom ist instabil.	टॉम अस्थिर है।
 Tom's upstairs.	Tom ist oben.	टॉम ऊपर है।
 Tom's very sad.	Tom ist sehr traurig.	टॉम बहुत उदास है।
+Tom's watching.	Tom schaut zu.	टॉम नजर रख रहा है।
+Tom, answer me!	Tom, antworte mir!	टॉम, मुझे जवाब दो!
+Tom, don't die.	Tom, stirb nicht.	टॉम, मत मरो।
+Trust your gut.	Haben Sie Vertrauen in Ihren Bauch.	अपनी आंतरिक आत्मा पर विश्वास करें।
+Try once again.	Probier es noch einmal.	एक बार फिर से कोशिश करें।
+Try this candy.	Probier diese Bonbons.	इस मिठाई को आजमाओ।
