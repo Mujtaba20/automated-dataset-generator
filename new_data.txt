@@ -7013,3 +7013,13 @@ They are alone.	Sie sind allein.	वे अकेले हैं।
 They are happy.	Sie sind glücklich.	वे खुश हैं।
 They are right.	Sie sind richtig.	वे सही हैं।
 They bought it.	Sie kauften es.	वे इसे खरीद लिया।
+They came back.	Sie kamen zurück.	वे वापस आए।
+They can do it.	Sie können es tun.	वे यह कर सकते हैं।
+They found Tom.	Sie fanden Tom.	उन्होंने टॉम को ढूंढा।
+They hated Tom.	Sie hassten Tom.	उन्हें टॉम से नफरत थी।
+They hated Tom. 2	Sie verabscheuten Tom.	उन्हें टॉम से घृणा थी।
+They have come.	Sie sind gekommen.	वे आ गए हैं।
+They have wine.	Sie haben Wein.	उनके पास शराब है।
+They heard Tom.	Sie hören Tom.	उन्होंने टॉम की आवाज सुनी।
+They helped me.	Sie haben mir geholfen.	उन्होंने मुझे मदद की।
+They hired Tom.	Sie haben Tom eingestellt.	उन्होंने टॉम को रखा।
