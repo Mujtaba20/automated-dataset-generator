@@ -8029,3 +8029,9 @@ You look great.	Du siehst großartig aus.	तुम शानदार लग �
 You look happy.	Du siehst glücklich aus.	तुम खुश लग रहे हो।
 You look older.	Du siehst älter aus.	तुम बड़े लग रहे हो।
 You look sharp.	Du siehst scharf aus.	तुम तेज़ लग रहे हो।
+You look tired.	Du siehst müde aus.	तुम थक गए लगते हो।
+You look upset.	Du siehst verärgert aus.	तुम परेशान लग रहे हो।
+You may go now.	Sie können jetzt gehen.	आप अब जा सकते हैं।
+You must do it.	Du musst es tun.	तुम्हें इसे करना होगा।
+You must leave.	Du musst weggehen.	तुम्हें चले जाना चाहिए।
+You need a car.	Sie brauchen ein Auto.	आपको एक कार की आवश्यकता है।
