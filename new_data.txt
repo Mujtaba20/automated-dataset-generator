@@ -9604,3 +9604,10 @@ Lemons are sour.	Zitronen sind sauer.	नींबू खट्टे होत�
 Let Tom do that.	Lassen Sie Tom das machen.	तोम से वह करने दो।
 Let Tom do this.	Lassen Sie Tom das tun.	तोम से यह करने दो।
 Let Tom go home.	Lassen Sie Tom nach Hause gehen.	टॉम को घर जाने दो।
+Let me call Tom.	Lass mich Tom anrufen.	मुझे टॉम को कॉल करने दीजिए।
+Let me carry it.	Lass mich es tragen.	मुझे यह उठाने दो।
+Let me continue.	Lass mich fortfahren.	मुझे जारी रखने दो।
+Let me go alone.	Lass mich alleine gehen.	मुझे अकेले जाने दो।
+Let me go first.	Lass mich zuerst gehen.	मुझे पहले जाने दो।
+Let me help you.	Lass mich dir helfen.	मुझे तुम्हें मदद करने दो।
+Let me see that.	Lass mich das sehen.	मुझे वह देखने दो।
