@@ -9771,3 +9771,10 @@ Push the button.	Drücken Sie die Taste.	बटन दबाएं।
 Put on your hat.	Setz deinen Hut auf.	अपनी टोपी पहनो।
 Put your hat on.	Zieh deinen Hut an.	अपनी टोपी पहनो।
 Puzzles are fun.	Puzzle macht Spaß.	पहेलियां मजेदार हैं।
+Raise your hand.	Erheben Sie Ihre Hand.	अपना हाथ ऊपर उठाएं।
+Read this first.	Lest das zuerst.	इसे सबसे पहले पढ़ो।
+Rejection hurts.	Eine Zurückweisung tut weh.	नाक में दम कर देती है।
+Remove your hat.	Nimm deinen Hut ab.	अपनी टोपी उतारो।
+Repeat after me.	Wiederholen Sie nach mir.	मेरे बाद दोहराओ।
+Rules are rules.	Regeln sind Regeln.	नियम नियम होते हैं।
+Save me a donut.	Spar mir einen Donut.	मुझे एक डोनट बचाओ।
