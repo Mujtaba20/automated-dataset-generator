@@ -10997,3 +10997,13 @@ Wait over there.	Warte dort drüben.	वहां पर रुको।
 Walking is nice.	Spazieren gehen ist schön.	चलना अच्छा है।
 Walls have ears.	Die Wände haben Ohren.	दीवारों के भी कान होते हैं।
 Walls have ears. (Different meaning)	Wände haben Ohren.	दीवारों के पास कान होते हैं। (अलग अर्थ)
+Was Tom annoyed?	War Tom genervt?	क्या टॉम को चिढ़ने वाला था?
+Was Tom annoyed?_2	War Tom verärgert?	क्या टॉम नाराज था?
+Was Tom rescued?	Ist Tom gerettet worden?	क्या टॉम को बचाया गया था?
+Was it you, Tom?	Warst du es, Tom?	क्या यह तुम थे, टॉम?
+Was that a joke?	War das ein Witz?	क्या वह मजाक था?
+Wash your hands.	Wasche deine Hände.	अपने हाथ धोएं।
+Watch carefully.	Beobachte sorgfältig.	ध्यान से देखो।
+Watch carefully._2	Schau genau hin.	ध्यानपूर्वक देखो।
+Watch carefully._3	Achte gut darauf.	ध्यान से रखें।
+Watch your step.	Pass auf deine Schritte auf.	अपने कदम देखो।
