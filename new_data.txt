@@ -18752,3 +18752,13 @@ Tom is remorseful.	Tom bereut es.	टॉम पछताया हुआ है�
 Tom is respectful.	Tom ist respektvoll.	टॉम सम्मानवान है।
 Tom is ridiculous.	Tom ist lächerlich.	टॉम बेतुका है।
 Tom is still here.	Tom ist immer noch hier.	टॉम अभी भी यहाँ है।
+Tom is struggling.	Tom kämpft.	टॉम संघर्ष कर रहा है।
+Tom is stuttering.	Tom stottert.	टॉम हकला रहा है।
+Tom is successful.	Tom ist erfolgreich.	टॉम सफल है।
+Tom is suspicious.	Tom ist misstrauisch.	टॉम संदेहास्पद है।
+Tom is terrifying.	Tom ist furchterregend.	टॉम भयानक है।
+Tom is testing me.	Tom testet mich.	टॉम मुझे परीक्षण कर रहा है।
+Tom is the expert.	Tom ist der Experte.	टॉम विशेषज्ञ है।
+Tom is the father.	Tom ist der Vater.	टॉम पिता है।
+Tom is the killer.	Tom ist der Mörder.	टॉम हत्यारा है।
+Tom is the leader.	Tom ist der Anführer.	टॉम नेता है।

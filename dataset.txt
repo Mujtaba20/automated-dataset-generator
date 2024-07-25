@@ -1,16 +1,4 @@
 
-Tom is struggling.	Tom kämpft.	टॉम लड़ता है।
-Tom is stuttering.	Tom stottert.	टॉम स्टुटर्स।
-Tom is successful.	Tom ist erfolgreich.	टॉम सफल है।
-Tom is suspicious.	Tom ist misstrauisch.	टॉम संदिग्ध है।
-Tom is terrifying.	Tom ist erschreckend.	टॉम भयानक है।
-Tom is testing me.	Tom stellt mich auf die Probe.	टॉम मुझे रिहर्सल पर डालता है।
-Tom is the expert.	Tom ist vom Fach.	टॉम विषय से है।
-Tom is the father.	Tom ist der Vater.	टॉम पिता हैं।
-Tom is the killer.	Tom ist der Mörder.	टॉम कातिल है।
-Tom is the leader.	Tom ist der Leiter.	टॉम सीढ़ी है।
-Tom is the leader.	Tom ist der Führer.	टॉम गाइड है।
-Tom is the leader.	Tom ist der Anführer.	टॉम नेता हैं।
 Tom is the oldest.	Tom ist der Älteste.	टॉम सबसे पुराना है।
 Tom is the victim.	Tom ist das Opfer.	टॉम पीड़ित है।
 Tom is the winner.	Tom ist der Gewinner.	टॉम विजेता है।
