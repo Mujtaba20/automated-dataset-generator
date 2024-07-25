@@ -16825,3 +16825,13 @@ I signed the form.	Ich habe das Formular unterschrieben.	मैंने फॉ�
 I stand corrected.	Ich stehe korrigiert.	मैं सुधारा जाऊं।
 I started working.	Ich habe angefangen zu arbeiten.	मैंने काम शुरू किया।
 I started writing.	Ich begann zu schreiben.	मैंने लिखना शुरू किया।
+I still have them.	Ich habe sie immer noch.	मुझे उनका अभी भी है।
+I still have time.	Ich habe immer noch Zeit.	मेरे पास अभी भी समय है।
+I still live here.	Ich lebe immer noch hier.	मैं यहाँ अभी भी रहता हूं।
+I still love Mary.	Ich liebe Maria immer noch.	मैं मेरी से अभी भी प्यार करता हूं।
+I still need time.	Ich brauche immer noch Zeit.	मुझे अभी भी समय की जरुरत है।
+I stood up slowly.	Ich bin langsam aufgestanden.	मैं धीरे से उठा।
+I stopped smoking.	Ich habe mit dem Rauchen aufgehört.	मैंने सिगरेट पीना बंद कर दिया।
+I sure do hope so.	Ich hoffe wirklich so.	मैं वास्तव में ऐसा ही आशा करता हूं।
+I swallowed a bug.	Ich habe einen Käfer geschluckt.	मैंने एक कीड़ा निगल लिया।
+I teach geography.	Ich unterrichte Geografie.	मैं भूगोल पढ़ाता हूं।
