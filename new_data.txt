@@ -15190,3 +15190,10 @@ What's it to you?	Was geht es dich an?	तुम्हें इससे क्
 What's on TV now?	Was läuft gerade im Fernsehen?	अभी टीवी पर क्या चल रहा है?
 What's she doing?	Was macht sie?	वह क्या कर रही है?
 What's that bird?	Was ist das für ein Vogel?	वह पंछी क्या है?
+What's the catch?	Was ist der Haken?	क्या पकड़ है?
+What's the hurry?	Was ist die Eile?	जल्दी क्यों है?
+What's the point?	Was ist der Sinn?	बिना आपके स्थान के?
+What's the score?	Was ist der Punktestand?	स्कोर क्या है?
+What's this room?	Was ist dies für ein Raum?	यह कमरा किसका है?
+What's your beef?	Was ist dein Problem?	तुम्हारी बीफ क्या है?
+What's your name?	Wie heißt du?	तुम्हारा नाम क्या है?
