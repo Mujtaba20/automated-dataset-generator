@@ -7960,3 +7960,10 @@ Who knows that?	Wer weiß das?	यह कौन जानता है?
 Who lives here?	Wer wohnt hier?	यहाँ कौन रहता है?
 Who made these?	Wer hat diese gemacht?	ये किसने बनाया है?
 Who removed it?	Wer hat es weggenommen?	किसने इसे हटाया है?
+Who sells this?	Wer verkauft das?	यह कौन बेचता है?
+Who warned you?	Wer hat dich gewarnt?	तुम्हें किसने चेतावनी दी?
+Who will do it?	Wer wird es tun?	यह कौन करेगा?
+Who wrote that?	Wer hat das geschrieben?	उसने कौन लिखा?
+Who wrote this?	Wer hat das geschrieben?	यह कौन लिखा?
+Who'd buy this?	Wer würde das kaufen?	यह कौन खरीदेगा?
+Who'd hurt Tom?	Wer würde Tom verletzen?	तम को कौन चोट पहुंचा सकता है?
