@@ -1814,3 +1814,13 @@ I'm shocked.	Ich bin schockiert.	मुझे चौंका लगा।
 I'm sincere.	Ich bin aufrichtig.	मैं ईमानदार हूँ।
 I'm so cold.	Mir ist so kalt.	मुझे इतनी सर्दी हो रही है।
 I'm so full.	Ich bin so satt.	मैं इतना भरा हुआ हूँ।
+I'm starved.	Ich bin ausgehungert.	मैं भूखा हूँ।
+I'm staying.	Ich bleibe.	मैं रुका हूँ।
+I'm staying. (2)	Ich übernachte.	मैं ठहर रहा हूँ।
+I'm stuffed!	Ich bin satt!	मैं भर गया हूँ!
+I'm stunned.	Ich bin fassungslos.	मैं हैरान हूँ।
+I'm talking.	Ich spreche.	मैं बात कर रहा हूँ।
+I'm the law.	Ich bin das Gesetz.	मैं कानून हूँ।
+I'm the law. (2)	Ich halte mich an das Gesetz.	मैं कानून का पालन करता हूँ।
+I'm thirsty.	Ich habe Durst.	मुझे प्यास लगी है।
+I'm thirsty. (2)	Ich verlange Wasser.	मुझे पानी चाहिए।
