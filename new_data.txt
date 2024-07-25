@@ -548,3 +548,8 @@ I love it.	Ich liebe es.	मुझे यह पसंद है।
 I made it.	Ich machte es.	मैंने यह बनाया।
 I may win.	Ich kann gewinnen.	मैं जीत सकता हूँ।
 I mean it!	Ich meine es ernst!	मैं इसे मतलब समझो!
+I mean it.	Ich meine es.	मैं इसका मतलब लेता हूँ।
+I met Tom.	Ich traf Tom.	मैंने टॉम को मिलना था।
+I met him.	Ich traf ihn.	मैंने उससे मिला।
+I miss it.	Es fehlt mir.	मुझे यह याद आती है।
+I promise.	Ich verspreche.	मैं वादा करता हूँ।
