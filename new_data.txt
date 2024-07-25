@@ -18635,3 +18635,12 @@ Tom is despondent.	Tom ist niedergeschlagen.	टॉम उदास है।
 Tom is determined.	Tom ist entschlossen.	टॉम ठाने हुए है।
 Tom is devastated.	Tom ist verwüstet.	टॉम पराजित हो गया है।
 Tom is diplomatic.	Tom ist diplomatisch.	टॉम कूटनीतिक है।
+Tom is disgusting.	Tom ist ekelhaft.	टॉम घिनौना है।
+Tom is displeased.	Tom ist unzufrieden.	टॉम प्रसन्न नहीं है।
+Tom is distracted.	Tom ist abgelenkt.	टॉम ध्यान भटक रहा है।
+Tom is distraught.	Tom ist verstört.	टॉम व्यथित है।
+Tom is distressed.	Tom ist bekümmert.	टॉम परेशान है।
+Tom is doing fine.	Tom macht es gut.	टॉम ठीक कर रहा है।
+Tom is doing that.	Tom macht das.	टॉम वह कर रहा है।
+Tom is doing well.	Tom macht es gut.	टॉम अच्छा कर रहा है।
+Tom is down there.	Tom ist dort unten.	टॉम वहाँ नीचे है।

@@ -1,14 +1,4 @@
 
-Tom is disgusting.	Tom ist widerlich.	टॉम घृणित है।
-Tom is displeased.	Tom ist unzufrieden.	टॉम असंतुष्ट है।
-Tom is distracted.	Tom ist abgelenkt.	टॉम विचलित है।
-Tom is distraught.	Tom ist verzweifelt.	टॉम हताश है।
-Tom is distraught.	Tom ist verstört.	टॉम परेशान है।
-Tom is distressed.	Tom ist erschüttert.	टॉम हिल गया है।
-Tom is doing fine.	Tom geht es gut.	टॉम ठीक है।
-Tom is doing that.	Tom macht das.	टॉम ऐसा करता है।
-Tom is doing well.	Tom macht es gut.	टॉम यह अच्छी तरह से करता है।
-Tom is down there.	Tom ist da unten.	टॉम वहाँ नीचे है।
 Tom is downstairs.	Tom ist unten.	टॉम नीचे है।
 Tom is easy-going.	Tom ist unbekümmert.	टॉम लापरवाह है।
 Tom is easy-going.	Tom ist locker.	टॉम ढीला है।
