@@ -11973,3 +11973,12 @@ He is in college.	Er ist im College.	वह कॉलेज में है।
 He is in trouble.	Er hat Probleme.	वह परेशान है।
 He is just a kid.	Er ist nur ein Kind.	वह सिर्फ एक बच्चा है।
 He is my brother.	Er ist mein Bruder.	वह मेरा भाई है।
+He is my teacher.	Er ist mein Lehrer.	वह मेरा शिक्षक है।
+He is never lazy.	Er ist nie faul.	वह कभी सुस्त नहीं होता।
+He is nice to me.	Er ist nett zu mir.	वह मुझसे अच्छा है।
+He is not stupid.	Er ist nicht dumm.	वह मूर्ख नहीं है।
+He is overweight.	Er ist übergewichtig.	वह मोटा है।
+He is past forty.	Er ist über vierzig.	वह चालीस के पार है।
+He is photogenic.	Er ist fotogen.	उसकी फोटो अच्छी आती है।
+He is still here.	Er ist immer noch hier.	वह अभी भी यहाँ है।
+He is unsociable.	Er ist nicht gesellig.	वह सामाजिक नहीं होता।
