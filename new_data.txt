@@ -16155,3 +16155,11 @@ Her name was Mary.	Ihr Name war Mary.	उसका नाम मेरी था
 Her skin was warm.	Ihre Haut war warm.	उसकी त्वचा गर्म थी।
 Her story is true.	Ihre Geschichte ist wahr.	उसकी कहानी सच है।
 Here are the keys.	Hier sind die Schlüssel.	यहाँ चाबियाँ हैं।
+Here is your bill.	Hier ist Ihre Rechnung.	यहाँ आपका बिल है।
+Here is your book.	Hier ist dein Buch.	यहाँ आपकी किताब है।
+Here we are again.	Hier sind wir wieder.	हम फिर से यहाँ हैं।
+Here you are, Tom.	Hier bist du, Tom.	यहाँ तुम हो, टॉम।
+Here's my address.	Hier ist meine Adresse.	यहाँ मेरा पता है।
+Here's my receipt.	Hier ist mein Kassenzettel.	यहाँ मेरा रसीद है।
+Here's some water.	Hier ist etwas Wasser.	यहाँ कुछ पानी है।
+Here's the change.	Hier ist das Wechselgeld.	यहाँ परिवर्तन है।
