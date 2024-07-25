@@ -7006,3 +7006,10 @@ There's a snag.	Es gibt einen Haken.	कोई रुकावट है।
 These are good.	Diese sind gut.	ये अच्छे हैं।
 These are mine.	Diese gehören mir.	ये मेरे हैं।
 These are ours.	Diese gehören uns.	ये हमारे हैं।
+These are real.	Das ist echt.	ये असली हैं।
+They adore Tom.	Sie verehren Tom.	वे टॉम की पूजा करते हैं।
+They applauded.	Sie beklatschten.	उन्होंने प्रशंसा की।
+They are alone.	Sie sind allein.	वे अकेले हैं।
+They are happy.	Sie sind glücklich.	वे खुश हैं।
+They are right.	Sie sind richtig.	वे सही हैं।
+They bought it.	Sie kauften es.	वे इसे खरीद लिया।
