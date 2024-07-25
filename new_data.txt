@@ -720,3 +720,9 @@ Stay cool.	Cool bleiben.	ठंडा रहो।
 Stay cool. (different meaning)	Entspann dich.	ठंडा रहना।
 Stay cool. (different meaning 2)	Gelassen bleiben.	शांत रहना।
 Stay down!	Bleib unten!	नीचे रहो!
+Stay down.	Bleib unten.	नीचे रहो।
+Stay home.	Bleib zu Hause.	घर पर रहो।
+Stay thin.	Bleib dünn.	पतला रहो।
+Step back.	Mach einen Schritt zurück.	पीछे हटो।
+Stop here.	Halt hier.	यहाँ रुको।
+Stop that!	Hör auf damit!	उसे रोको!
