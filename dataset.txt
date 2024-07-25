@@ -1,15 +1,4 @@
 
-Tom looks trapped.	Tom scheint in der Falle zu sitzen.	टॉम जाल में लग रहा है।
-Tom looks unhappy.	Tom sieht unglücklich aus.	टॉम दुखी दिखता है।
-Tom looks worried.	Tom sieht besorgt aus.	टॉम चिंतित दिखता है।
-Tom looks wounded.	Tom sieht verwundet aus.	टॉम घायल दिखता है।
-Tom lost a finger.	Tom hat einen Finger verloren.	टॉम ने एक उंगली खो दी।
-Tom lost patience.	Tom hat die Geduld verloren.	टॉम ने धैर्य खो दिया है।
-Tom loved animals.	Tom liebte Tiere.	टॉम जानवरों से प्यार करता था।
-Tom loved bananas.	Tom liebte Bananen.	टॉम ने केले को प्यार किया।
-Tom loved fishing.	Tom angelte für sein Leben gern.	टॉम अपने जीवन के लिए जाना पसंद करते हैं।
-Tom loved running.	Tom liebte es zu laufen.	टॉम को चलना बहुत पसंद था।
-Tom loved running.	Tom liebte das Laufen.	टॉम को दौड़ना बहुत पसंद था।
 Tom loved us both.	Tom liebte uns beide.	टॉम हम दोनों से प्यार करता था।
 Tom loves animals.	Tom liebt Tiere.	टॉम जानवरों से प्यार करता है।
 Tom loves bananas.	Tom liebt Bananen.	टॉम को केले बहुत पसंद हैं।

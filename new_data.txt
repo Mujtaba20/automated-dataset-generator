@@ -18975,3 +18975,13 @@ Tom looks shocked. - Different Meaning	Tom wirkt überrascht.	टॉम है�
 Tom looks stunned.	Tom sieht benommen aus.	टॉम हैरान है।
 Tom looks stunned. - Different Meaning	Tom wirkt fassungslos.	टॉम पराजित है।
 Tom looks thinner.	Tom wirkt dünner.	टॉम पतला दिखता है।
+Tom looks trapped.	Tom sieht gefangen aus.	टॉम बंद दिखता है।
+Tom looks unhappy.	Tom sieht unglücklich aus.	टॉम अखंडित लग रहा है।
+Tom looks worried.	Tom sieht besorgt aus.	टॉम चिंतित लग रहा है।
+Tom looks wounded.	Tom sieht verwundet aus.	टॉम घायल लग रहा है।
+Tom lost a finger.	Tom hat einen Finger verloren.	टॉम एक उंगली खो चुका है।
+Tom lost patience.	Tom hat die Geduld verloren.	टॉम ने सब्र खो दिया।
+Tom loved animals.	Tom liebte Tiere.	टॉम ने जानवरों से प्रेम किया।
+Tom loved bananas.	Tom liebte Bananen.	टॉम ने केले से प्यार किया।
+Tom loved fishing.	Tom liebte das Angeln.	टॉम को मछली पकड़ना पसंद था।
+Tom loved running.	Tom liebte das Laufen.	टॉम को दौड़ना पसंद था।
