@@ -16136,3 +16136,12 @@ He's deep in debt.	Er steckt tief in Schulden.	वह ऋण में डूब
 He's from Georgia.	Er stammt aus Georgia.	वह जॉर्जिया से आया है।
 He's in hot water.	Er ist in Schwierigkeiten.	वह गरम पानी में है।
 He's in the joint.	Er ist im Knast.	वह जेल में है।
+He's just arrived.	Er ist gerade angekommen.	वह अभी आया है।
+He's looking good.	Er sieht gut aus.	वह अच्छा दिख रहा है।
+He's not a member.	Er ist kein Mitglied.	वह सदस्य नहीं है।
+He's not an idiot.	Er ist kein Idiot.	वह मूर्ख नहीं है।
+He's now studying.	Er studiert jetzt.	वह अब पढ़ रहा है।
+He's raking it in.	Er häuft es an.	वह इसे इकट्ठा कर रहा है।
+He's really quick.	Er ist wirklich schnell.	वह वास्तव में तेज है।
+He's sound asleep.	Er schläft tief und fest.	वह गहरी नींद में है।
+He's studying now.	Er studiert jetzt.	वह अब पढ़ रहा है।
