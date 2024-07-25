@@ -11990,3 +11990,11 @@ He isn't perfect.	Er ist nicht perfekt.	वह पूर्ण नहीं ह�
 He just got home.	Er ist gerade nach Hause gekommen.	वह अभी घर आया है।
 He keeps a diary.	Er führt ein Tagebuch.	वह एक डायरी रखता है।
 He kept his word.	Er hat sein Wort gehalten.	उसने अपना वादा निभाया।
+He knows me well.	Er kennt mich gut.	उसे मुझे अच्छे से पहचानता है।
+He laughed at me.	Er hat über mich gelacht.	उसने मुझपर हंसी की।
+He left after me.	Er ist nach mir gegangen.	उसने मेरे बाद छोड़ दिया।
+He left his wife.	Er hat seine Frau verlassen.	उसने अपनी पत्नी को छोड़ दिया।
+He left the room.	Er ist aus dem Zimmer gegangen.	उसने कमरे को छोड़ दिया।
+He lied about it.	Er hat darüber gelogen.	उसने इसके बारे में झूठ बोला।
+He likes animals.	Er mag Tiere.	उसे जानवर पसंद है।
+He likes fishing.	Er mag das Angeln.	उसे मछली पकड़ना पसंद है।
