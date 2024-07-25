@@ -13299,3 +13299,12 @@ Listen carefully. (Different meaning)	Hör aufmerksam zu.	ध्यान से
 Listen to me, OK?	Hör mir zu, okay?	मेरी बात सुनो, ठीक है?
 Look at it again.	Schau es dir noch einmal an.	इसे फिर से देखो।
 Look at that dog.	Schau dir den Hund an.	उस कुत्ते को देखो।
+Look at that man.	Schauen Sie sich diesen Mann an.	उस आदमी की ओर देखो।
+Look at that one.	Schau dir das an.	उसे देखो।
+Look at the moon.	Schau den Mond an.	चाँद को देखो।
+Look at this one.	Schau dir das hier an.	इसे देखो।
+Look out for Tom.	Achte auf Tom.	टॉम के लिए देखो।
+Look what I made.	Schau, was ich gemacht habe.	देखो, मैंने क्या बनाया है।
+Look who's there.	Schau mal, wer da ist.	देखो कौन है वहाँ।
+Love is immortal.	Liebe ist unsterblich.	प्यार अमर है।
+Lower your voice.	Senke deine Stimme.	तुम्हारी आवाज़ कम करो।
