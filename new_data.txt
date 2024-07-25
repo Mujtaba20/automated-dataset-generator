@@ -17191,3 +17191,10 @@ I've got evidence.	Ich habe Beweise.	मेरे पास सबूत है�
 I've got the keys.	Ich habe die Schlüssel.	मेरे पास चाबियाँ हैं।
 I've heard of you.	Ich habe über dich gehört.	मैंने तुम्हारे बारे में सुना है।
 I've just arrived.	Ich bin gerade angekommen.	मैं अभी आया हूँ।
+I've left my wife.	Ich habe meine Frau verlassen.	मैंने अपनी पत्नी को छोड़ दिया है।
+I've offended you.	Ich habe dich beleidigt.	मैंने तुम्हें ठेस पहुंचाई है।
+I’ve paid already.	Ich habe bereits bezahlt.	मैंने पहले ही भुगतान किया है।
+I've seen the dog.	Ich habe den Hund gesehen.	मैंने कुत्ते को देखा है।
+Identify yourself.	Machen Sie Ihre Identität bekannt.	अपनी पहचान बताएं.
+Is Tom Mary's son?	Ist Tom Marias Sohn?	क्या टॉम मेरी का बेटा है?
+Is Tom a Canadian?	Ist Tom Kanadier?	क्या टॉम कनेडियन है?
