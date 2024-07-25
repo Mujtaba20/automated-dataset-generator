@@ -17398,3 +17398,9 @@ It's fine with me.	Es ist in Ordnung für mich.	मेरे लिए ठीक
 It's getting cold.	Es wird kälter.	सर्दी बढ़ रही है।
 It's getting late.	Es wird spät.	देर हो रही है।
 It's going nicely!	Es läuft gut!	यह अच्छे से चल रहा है!
+It's hot out here.	Es ist heiß hier draußen.	यहाँ गर्मी है।
+It's human nature.	Es ist menschliche Natur.	यह मानव प्रकृति है।
+It's just a dream.	Es ist nur ein Traum.	यह बस एक सपना है।
+It's just a rumor.	Es ist nur ein Gerücht.	यह बस एक अफवाह है।
+It's just amazing.	Es ist einfach unglaublich.	यह बस अद्भुत है।
+It's my brother's.	Es ist von meinem Bruder.	यह मेरे भाई का है।
