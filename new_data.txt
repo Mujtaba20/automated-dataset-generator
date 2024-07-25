@@ -20526,3 +20526,10 @@ Don't look so hurt.	Mach kein verletztes Gesicht.	इतने चोट लग�
 Don't make a noise.	Mach keinen Lärm.	शोर मत मचाओ।
 Don't make a scene.	Mach keine Szene.	कोई दृश्य न बनाओ।
 Don't make a sound.	Mach keinen Laut.	ध्वनि न करो।
+Don't make me stay.	Lass mich nicht bleiben.	मुझे न रहने दो।
+Don't make me wait.	Mach mich nicht warten.	मुझे इंतजार न करवाओ।
+Don't mess them up.	Verwirr sie nicht.	उन्हें गड़बड़ मत करो।
+Don't mess with me.	Leg dich nicht mit mir an.	मेरे साथ मत छेड़ो।
+Don't mess with us.	Legt euch nicht mit uns an.	हमारे साथ मत छेड़ो।
+Don't miss the bus.	Verpasse nicht den Bus.	बस मत छोड़ो।
+Don't move, please.	Beweg dich nicht, bitte.	हिलो मत, कृपया।

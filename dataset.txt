@@ -1,14 +1,4 @@
 
-Don't make me stay.	Zwing mich nicht zu bleiben!	मेरे पास मत जाओ!
-Don't make me stay.	Zwingt mich nicht zu bleiben!	मुझे रहने के लिए मजबूर मत करो!
-Don't make me stay.	Zwingen Sie mich nicht zu bleiben!	मुझे रहने के लिए मजबूर मत करो!
-Don't make me wait.	Lass mich nicht warten!	मुझे इंतजार मत करो!
-Don't mess them up.	Bringe sie nicht durcheinander!	तुम गड़बड़ मत करो!
-Don't mess them up.	Versaue sie nicht!	उन्हें गड़बड़ मत करो!
-Don't mess with me.	Leg dich nicht mit mir an!	मेरे साथ गड़बड़ मत करें!
-Don't mess with us.	Leg dich nicht mit uns an!	हमें परेशान न करें!
-Don't miss the bus.	Verpass nicht den Bus.	बस को याद मत करो।
-Don't move, please.	Bitte nicht bewegen.	कृपया स्थानांतरित न करें।
 Don't patronize me.	Seien Sie mal nicht so gönnerhaft zu mir.	मेरे साथ इतना व्यवहार मत करो।
 Don't patronize me.	Seid mal nicht so gönnerhaft zu mir.	इतना संरक्षण मत करो।
 Don't patronize me.	Sei mal nicht so gönnerhaft zu mir.	मेरे लिए इतना संरक्षण मत करो।
