@@ -15843,3 +15843,10 @@ Everybody said so.	Alle haben so gesagt.	सबने ऐसा कहा।
 Everybody's happy.	Alle sind glücklich.	सभी खुश हैं।
 Everybody's tired.	Alle sind müde.	सभी थक गए हैं।
 Everyone did that.	Jeder hat das gemacht.	हर कोई वह कर चुका है।
+Everyone hates me.	Alle hassen mich.	सभी मुझसे नफरत करते हैं।
+Everyone hates us.	Jeder hasst uns.	सभी हमें नफरत करते हैं।
+Everyone is drunk.	Alle sind betrunken.	सभी नशे में हैं।
+Everyone is happy.	Alle sind glücklich.	सभी खुश हैं।
+Everyone is ready.	Jeder ist bereit.	सभी तैयार हैं।
+Everyone is tired.	Alle sind müde.	सभी थक गए हैं।
+Everyone knew Tom.	Jeder kannte Tom.	सभी तोम को जानते थे।
