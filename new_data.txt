@@ -5923,3 +5923,9 @@ How tall is he?	Wie groß ist er?	वह कितना लंबा है?
 How time flies!	Wie die Zeit vergeht!	समय कैसे उड़ता है!
 How was Boston?	Wie war Boston?	बोस्टन कैसा था?
 How wide is it?	Wie breit ist es?	यह कितना चौड़ा है?
+How's the wife?	Wie geht es der Frau?	पत्नी कैसी है?
+How's your dad?	Wie geht es deinem Vater?	तेरे पिताजी कैसे हैं?
+Hurry up, guys.	Beeil dich, Leute.	जल्दी करो, लोग।
+I accept gifts.	Ich akzeptiere Geschenke.	मैं उपहार स्वीकार करता हूं।
+I almost cried.	Ich habe fast geweint.	मैं लगभग रो पड़ा।
+I already know.	Ich weiß schon.	मुझे पहले ही पता है।
