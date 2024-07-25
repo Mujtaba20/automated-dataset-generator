@@ -5081,3 +5081,12 @@ Tom knows her.	Tom kennt sie.	टॉम उसे जानता है।
 Tom knows him.	Tom kennt ihn.	टॉम उसे जानता है।
 Tom knows now.	Tom weiß jetzt.	टॉम अब पता करता है।
 Tom knows why.	Tom weiß warum.	टॉम को पता है कि क्यों।
+Tom knows you.	Tom kennt dich.	टॉम आपको जानता है।
+Tom left town.	Tom verließ die Stadt.	टॉम ने शहर छोड़ दिया।
+Tom let us go.	Tom ließ uns gehen.	टॉम ने हमें जाने दिया।
+Tom liked you.	Tom mochte dich.	टॉम ने तुम्हें पसंद किया।
+Tom liked you. (Different meaning)	Tom mochte dich gern haben.	टॉम को तुमसे पसंद थी।
+Tom likes her.	Tom mag sie.	टॉम को वह पसंद है।
+Tom likes him.	Tom mag ihn.	टॉम किसे पसंद करता है।
+Tom likes tea.	Tom mag Tee.	टॉम को चाय पसंद है।
+Tom likes you.	Tom mag dich.	टॉम को तुमसे पसंद है।
