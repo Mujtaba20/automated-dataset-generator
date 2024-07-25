@@ -8715,3 +8715,12 @@ I didn't scream.	Ich habe nicht geschrien.	मैंने चिल्लाय
 I didn't see it.	Ich habe es nicht gesehen.	मैंने उसे नहीं देखा।
 I disobeyed Tom.	Ich habe Tom nicht gehorcht.	मैंने टॉम को अनुशासित नहीं किया।
 I do that a lot.	Ich mache das oft.	मैं यह बहुत करता हूँ।
+I do understand.	Ich verstehe.	मैं समझता हूँ।
+I don't do much.	Ich mache nicht viel.	मैं ज्यादा नहीं करता।
+I don't do that.	Das mache ich nicht.	मैं वह नहीं करता।
+I don't get you.	Ich verstehe dich nicht.	मुझे तुम्हें समझ नहीं आता।
+I don't have it.	Ich habe es nicht.	मेरे पास यह नहीं है।
+I don't like it.	Ich mag es nicht.	मुझे यह पसंद नहीं है।
+I don't need it.	Ich brauche es nicht.	मुझे इसकी आवश्यकता नहीं है।
+I don't see Tom.	Ich sehe Tom nicht.	मैं टॉम को नहीं देखता।
+I don't see him.	Ich sehe ihn nicht.	मैं उसे नहीं देखता।
