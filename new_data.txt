@@ -515,3 +515,11 @@ I am well.	Es geht mir gut.	मैं ठीक हूँ।
 I approve.	Ich stimme zu.	मैं स्वीकृति देता हूँ।
 I can fly.	Ich kann fliegen.	मैं उड़ सकता हूँ।
 I can run.	Ich kann rennen.	मैं दौड़ सकता हूँ।
+I can ski.	Ich kann Ski fahren.	मैं स्की कर सकता हूँ।
+I can win.	Ich kann gewinnen.	मैं जीत सकता हूँ।
+I changed.	Ich habe mich verändert.	मैंने बदल दिया।
+I cheated.	Ich habe geschummelt.	मैंने धोखा दिया।
+I clapped.	Ich habe geklatscht.	मैंने ताली बजाई।
+I coughed.	Ich habe mich geräuspert.	मैंने गला साफ़ किया।
+I escaped.	Ich bin entwichen.	मैं फरार हो गया।
+I fainted.	Ich bin in Ohnmacht gefallen.	मैं बेहोश हो गया।
