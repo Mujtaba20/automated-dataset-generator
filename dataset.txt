@@ -1,14 +1,4 @@
 
-Tom borrowed mine.	Tom hat sich meinen geliehen.	टॉम ने मेरा उधार लिया।
-Tom borrowed mine.	Tom hat sich meinen ausgeborgt.	टॉम ने मेरा उधार लिया है।
-Tom bought a book.	Tom kaufte ein Buch.	टॉम ने एक किताब खरीदी।
-Tom broke his arm.	Tom hat sich den Arm gebrochen.	टॉम ने अपना हाथ तोड़ दिया।
-Tom broke his arm.	Tom brach sich den Arm.	टॉम ने अपना हाथ तोड़ दिया।
-Tom broke his leg.	Tom brach sich das Bein.	टॉम ने अपना पैर तोड़ दिया।
-Tom broke his leg.	Tom hat sich das Bein gebrochen.	टॉम ने अपना पैर तोड़ दिया।
-Tom broke my nose.	Tom hat mir die Nase gebrochen.	टॉम ने मेरी नाक तोड़ दी।
-Tom broke the cup.	Tom zerbrach die Tasse.	टॉम ने कप तोड़ दिया।
-Tom broke the law.	Tom verstieß gegen das Gesetz.	टॉम ने कानून का उल्लंघन किया।
 Tom bugs everyone.	Tom nervt jeden.	टॉम सभी को नाराज करता है।
 Tom burped loudly.	Tom rülpste laut.	टॉम ने जोर से बेल्ट किया।
 Tom called me fat.	Tom hat mich fett genannt.	टॉम ने मुझे वसा कहा।

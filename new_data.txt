@@ -18342,3 +18342,10 @@ Tom betrayed Mary.	Tom hat Maria verraten.	टॉम ने मेरी को 
 Tom bikes to work.	Tom fährt mit dem Fahrrad zur Arbeit.	टॉम अपनी माँ से घर पर चलता है।
 Tom blinked again.	Tom zwinkerte erneut.	टॉम फिर से ज़पकाया।
 Tom blushed again.	Tom errötete erneut.	टॉम पुनः लाल हो गया।
+Tom borrowed mine.	Tom hat meins ausgeliehen.	टॉम ने मेरा उधार लिया।
+Tom bought a book.	Tom hat ein Buch gekauft.	टॉम ने एक किताब खरीदी।
+Tom broke his arm.	Tom hat sich den Arm gebrochen.	टॉमने अपनी बांह तोड़ दी।
+Tom broke his leg.	Tom hat sich das Bein gebrochen.	टॉमने अपनी टांग तोड़ दी।
+Tom broke my nose.	Tom hat mir meine Nase gebrochen.	टॉमने मेरी नाक तोड़ दी।
+Tom broke the cup.	Tom hat die Tasse zerbrochen.	टॉमने कप तोड़ दी।
+Tom broke the law.	Tom hat das Gesetz gebrochen.	टॉमने कानून का उल्लंघन किया।
