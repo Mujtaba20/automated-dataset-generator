@@ -6404,3 +6404,11 @@ I'm doing well.	Mir geht es gut.	मैं अच्छा कर रहा ह�
 I'm doing okay.	Es geht mir gut.	मैं ठीक हूँ।
 I'm downstairs.	Ich bin unten.	मैं नीचे हूँ।
 I'm eating now.	Ich esse jetzt.	मैं अब खा रहा हूँ।
+I'm famous now.	Ich bin jetzt berühmt.	मैं अब मशहूर हूँ।
+I'm farsighted.	Ich bin weitsichtig.	मैं दूरदर्शी हूँ।
+I'm fascinated.	Ich bin fasziniert.	मुझे आकर्षित किया गया है।
+I'm free today.	Heute bin ich ungebunden.	आज मैं नि:शुल्क हूँ।
+I'm getting by.	Es geht mir gut.	मैं चल रहा हूँ।
+I'm going back.	Ich gehe zurück.	मैं वापस जा रहा हूँ।
+I'm going bald.	Ich werde glatzköpfig.	मेरे सिर पर गंजा हो रहा है।
+I'm going home.	Ich fahre nach Hause.	मैं घर जा रहा हूँ।
