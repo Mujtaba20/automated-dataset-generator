@@ -593,3 +593,13 @@ I'm awake.	Ich bin wach.	मैं जाग रहा हूँ।
 I'm blind.	Ich bin blind.	मैं अंधा हूँ।
 I'm bored.	Mir ist langweilig.	मैं उबाऊ हूँ।
 I'm broke.	Ich bin kaputt.	मैं टूट गया हूँ।
+I'm crazy.	Ich bin verrückt.	मैं पागल हूँ।
+I'm cured.	Ich bin geheilt.	मैं ठीक हूँ।
+I'm drunk.	Ich bin betrunken.	मैं नशे में हूँ।
+I'm drunk. (2nd meaning)	Ich trinke.	मैं पीने में लगा हूँ।
+I'm dying.	Ich sterbe.	मैं मर रहा हूँ।
+I'm early.	Ich bin früh dran.	मैं जल्दी हूँ।
+I'm first.	Ich bin der Erste.	मैं पहला हूं।
+I'm first. (2nd meaning)	Ich bin zuerst dran.	मैं पहले हूं।
+I'm fussy.	Ich bin wählerisch.	मैं चिजों में विशेषता देता हूँ।
+I'm going.	Ich gehe.	मैं जा रहा हूँ।
