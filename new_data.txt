@@ -19516,3 +19516,10 @@ We do what we can.	Wir tun, was wir können.	हम जो कर सकते �
 We don't have tea.	Wir haben keinen Tee.	हमारे पास चाय नहीं है।
 We don't know Tom.	Wir kennen Tom nicht.	हमें टॉम को नहीं जानते।
 We don't know her.	Wir kennen sie nicht.	हम उसे नहीं जानते।
+We don't know him.	Wir kennen ihn nicht.	हम उसे नहीं जानते।
+We don't know why.	Wir wissen nicht warum.	हमें नहीं पता क्यों।
+We don't like Tom.	Wir mögen Tom nicht.	हमें टॉम पसंद नहीं है।
+We don't like you.	Wir mögen dich nicht.	हमें तुम्हारा पसंद नहीं है।
+We don't need him.	Wir brauchen ihn nicht.	हमें उसकी जरुरत नहीं है।
+We don't need you.	Wir brauchen dich nicht.	हमें तुम्हें नहीं चाहिए।
+We finally did it.	Wir haben es endlich getan.	हम ने वह अंत में किया।

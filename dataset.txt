@@ -1,14 +1,4 @@
 
-We don't know him.	Wir kennen ihn nicht.	हम उसे नहीं जानते।
-We don't know why.	Wir wissen nicht, warum.	हम नहीं जानते, क्यों।
-We don't like Tom.	Wir mögen Tom nicht.	हमें टॉम पसंद नहीं है।
-We don't like you.	Wir mögen dich nicht.	हम आपको पसंद नहीं करते।
-We don't need him.	Wir brauchen ihn nicht.	हमें उसकी जरूरत नहीं है।
-We don't need you.	Wir brauchen dich nicht.	हमें आपकी जरूरत नहीं है।
-We don't need you.	Wir brauchen Sie nicht.	हमें उनकी जरूरत नहीं है।
-We don't need you.	Wir brauchen euch nicht.	हमें आपकी जरूरत नहीं है।
-We finally did it.	Wir haben es endlich getan.	हमने आखिरकार किया।
-We finally did it.	Wir haben es endlich geschafft.	अंत में हमने इसे बनाया है।
 We follow the law.	Wir halten uns an das Gesetz.	हम कानून से चिपके रहते हैं।
 We go there often.	Wir gehen oft dorthin.	हम अक्सर वहां जाते हैं।
 We got dead drunk.	Wir wurden sturzbetrunken.	हम नशे में थे।
