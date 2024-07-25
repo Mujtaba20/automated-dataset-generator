@@ -9665,3 +9665,13 @@ May I go to bed?	Darf ich ins Bett gehen?	क्या मैं सोने �
 May I interrupt?	Darf ich unterbrechen?	क्या मैं बात चीत में व्यवधान कर सकता हूँ?
 May I leave now?	Darf ich jetzt gehen?	क्या मैं अब चला जाऊँ?
 May I quote you?	Darf ich dich zitieren?	क्या मैं तुम्हें उद्धरण देने को कह सकता हूँ?
+May I stay here?	Kann ich hier bleiben?	क्या मैं यहाँ रुक सकता हूँ?
+May I try it on?	Darf ich es anprobieren?	क्या मैं इसे चुभा सकता हूँ?
+May I try it on? - 2	Kann ich es ausprobieren?	क्या मैं इसे परख सकता हूँ?
+Maybe it's true.	Vielleicht ist es wahr.	शायद यह सच है।
+Meet me outside.	Treffen Sie mich draußen.	बाहर मिलो।
+Men should work.	Männer sollten arbeiten.	पुरुषों को काम करना चाहिए।
+Merry Christmas!	Frohe Weihnachten!	मेरी क्रिसमस!
+Merry Christmas! - 2	Fröhliche Weihnachten!	शुभ क्रिसमस!
+Might I come in?	Kann ich reinkommen?	क्या मैं अंदर आ सकता हूँ?
+Mistakes happen.	Fehler passieren.	गलतियाँ हो जाती हैं।
