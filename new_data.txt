@@ -1996,3 +1996,7 @@ She's happy.	Sie ist glücklich.	वह खुश है।
 Show him in.	Führen Sie ihn herein.	उसे दरवाजा दिखाओ।
 Sit with me.	Setz dich zu mir.	मेरे साथ बैठो।
 Stand aside.	Treten Sie zur Seite.	पीछे हटो।
+Stand still.	Stehen bleiben.	विराम लो।
+Start again.	Von vorne beginnen.	फिर से शुरू करो।
+Step inside.	Treten Sie ein.	अंदर कदम रखें।
+Stick to it!	Dran bleiben!	इसे टिकाए रखो!
