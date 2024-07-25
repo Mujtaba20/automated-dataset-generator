@@ -13877,3 +13877,9 @@ This is my rifle.	Das ist mein Gewehr.	यह मेरा राइफल ह�
 This is nonsense.	Das ist Unsinn.	यह बकवास है।
 This is not fair.	Das ist nicht fair.	यह न्याय नहीं है।
 This is not good.	Das ist nicht gut.	यह अच्छा नहीं है।
+This is not okay.	Das ist nicht in Ordnung.	यह ठीक नहीं है।
+This is not safe.	Das ist nicht sicher.	यह सुरक्षित नहीं है।
+This is not true.	Das ist nicht wahr.	यह सच नहीं है।
+This is old news.	Das sind alte Neuigkeiten.	ये पुरानी खबरें हैं।
+This is our home.	Das ist unser Zuhause.	यह हमारा घर है।
+This is pathetic.	Das ist armselig.	यह दयनीय है।
