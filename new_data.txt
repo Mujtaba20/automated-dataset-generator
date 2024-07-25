@@ -3988,3 +3988,11 @@ How late am I?	Wie spät bin ich dran?	मैं कितने देर स�
 How old is he?	Wie alt ist er?	वह कितने साल का है?
 How thrilling!	Wie aufregend!	कितना रोमांचक!
 How was lunch?	Wie war das Mittagessen?	भोजन कैसा था?
+How wonderful!	Wie wunderbar!	कितना अद्भुत!
+Hurry up, Tom.	Beeil dich, Tom.	जल्दी करो, टॉम।
+I admired Tom.	Ich bewunderte Tom.	मैंने टॉम की प्रशंसा की।
+I almost died.	Ich wäre fast gestorben.	मैं लगभग मर गया था।
+I always walk.	Ich gehe immer zu Fuß.	मैं हमेशा चलता हूँ।
+I am American.	Ich bin Amerikaner.	मैं अमेरिकी हूँ।
+I am Japanese.	Ich bin Japaner.	मैं जापानी हूँ।
+I am a Muslim.	Ich bin Muslim.	मैं एक मुस्लिम हूँ।
