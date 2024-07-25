@@ -19879,3 +19879,13 @@ Which car is ours?	Welches Auto gehört uns?	कौनसी गाड़ी ह
 Which is your bag?	Welche Tasche gehört dir?	तुम्हारी बैग कौनसी है?
 Which is your bag? - Different Meaning	Welche ist deine Tasche?	तुम्हारी बैग कौनसी है?
 Which one is mine?	Welches ist meins?	मेरा कौनसा है?
+Which tooth hurts?	Welcher Zahn tut weh?	किस दांत में दर्द है?
+Who are these for?	Für wen sind diese?	ये किसके लिए हैं?
+Who are these men?	Wer sind diese Männer?	ये कौन हैं?
+Who are those for?	Für wen sind die?	वो किसके लिए हैं?
+Who are you again?	Wer bist du wieder?	फिर से तुम कौन हो?
+Who ate the bread?	Wer hat das Brot gegessen?	कौन ने रोटी खाई?
+Who broke the cup?	Wer hat die Tasse zerbrochen?	कौनने कप तोड़ दिया?
+Who can you trust?	Wem kannst du vertrauen?	तुम किस पर भरोसा कर सकते हो?
+Who cut the bread?	Wer hat das Brot geschnitten?	रोटी कौन काटा?
+Who cut your hair?	Wer hat dir die Haare geschnitten?	तुम्हारे बाल किसने काटे?
