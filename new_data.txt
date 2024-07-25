@@ -16597,3 +16597,12 @@ I know how to fly.	Ich weiß, wie man fliegt.	मुझे उड़ना कै�
 I know how to ski.	Ich weiß, wie man Ski fährt.	मुझे स्की करना आता है।
 I know it was you.	Ich weiß, dass du es warst.	मुझे पता है कि तुम थे।
 I know it's a lie.	Ich weiß, dass es eine Lüge ist.	मुझे पता है कि यह झूठ है।
+I know that sound.	Ich kenne diesen Klang.	मुझे उसे ध्वनि पता है।
+I know that voice.	Ich kenne diese Stimme.	मुझे उस आवाज़ का पता है।
+I know we can win.	Ich weiß, dass wir gewinnen können.	मुझे पता है कि हम जीत सकते हैं।
+I know what I did.	Ich weiß, was ich getan habe.	मुझे पता है मैंने क्या किया।
+I know what I saw.	Ich weiß, was ich gesehen habe.	मुझे पता है मैंने क्या देखा।
+I know what it is.	Ich weiß, was es ist.	मुझे पता है यह क्या है।
+I know what to do.	Ich weiß, was zu tun ist.	मुझे पता है क्या करना है।
+I know where I am.	Ich weiß, wo ich bin.	मुझे पता है मैं कहाँ हूँ।
+I know who Tom is.	Ich weiß, wer Tom ist.	मुझे पता है टॉम कौन है।
