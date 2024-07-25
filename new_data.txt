@@ -10042,3 +10042,12 @@ They went crazy.	Sie wurden verrückt.	वे पागल हो गए।
 They went crazy.1	Sie wurden wütend.	उनके पागल हो गए।
 They went there.	Sie gingen dorthin.	वे वहाँ गए।
 They were dirty.	Sie waren schmutzig.	वे गंदे थे।
+They were dying.	Sie waren am Sterben.	वे मर रहे थे।
+They were lucky.	Sie hatten Glück.	उनकी किस्मत अच्छी थी।
+They were ready.	Sie waren bereit.	उनको तैयारी थी।
+They were right.	Sie hatten Recht.	उन्हें सही था।
+They won't care.	Sie werden sich nicht kümmern.	उन्हें परवाह नहीं होगी।
+They won't know.	Sie werden es nicht wissen.	उन्हें नहीं पता होगा।
+They'll be fine.	Es wird ihnen gut gehen.	उन्हें ठीक होगा।
+They'll find me.	Sie werden mich finden.	वे मुझे ढूंढेंगे।
+They'll find us.	Sie werden uns finden.	वे हमें ढूंढेंगे।
