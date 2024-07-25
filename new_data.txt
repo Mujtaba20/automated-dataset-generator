@@ -9377,3 +9377,12 @@ Is Tom Canadian?	Ist Tom Kanadier?	क्या टॉम कनाडियन 
 Is Tom a genius?	Ist Tom ein Genie?	क्या टॉम जीनियस है?
 Is Tom autistic?	Ist Tom autistisch?	क्या टॉम ऑटिस्टिक है?
 Is Tom babbling?	Redet Tom wirres Zeug?	क्या टॉम बक बक कर रहा है?
+Is Tom back yet?	Ist Tom schon zurück?	क्या टॉम अभी वापस आया है?
+Is Tom bluffing?	Blufft Tom?	क्या टॉम झूठ बोल रहा है?
+Is Tom dead yet?	Ist Tom schon tot?	क्या टॉम अब मर चुका है?
+Is Tom doing OK?	Geht es Tom gut?	क्या टॉम ठीक है?
+Is Tom dreaming?	Träumt Tom?	क्या टॉम सपना देख रहा है?
+Is Tom fighting?	Kämpft Tom?	क्या टॉम लड़ाई कर रहा है?
+Is Tom handsome?	Ist Tom gutaussehend?	क्या टॉम हैंडसम है?
+Is Tom here now?	Ist Tom jetzt hier?	क्या टॉम अभी यहाँ है?
+Is Tom in there?	Ist Tom da drinnen?	क्या टॉम अंदर है?
