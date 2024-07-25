@@ -11842,3 +11842,9 @@ Fill up the tank.	Fülle den Tank auf.	टैंक भरें।
 Finish your work.	Beende deine Arbeit.	तुम्हारा काम करो।
 Follow behind me.	Folge mir.	मेरे पीछे आओ।
 Follow my advice.	Folge meinem Rat.	मेरे सुझाव का पालन करें।
+Follow the rules.	Befolgen Sie die Regeln.	विधियों का पालन करें।
+Food costs money.	Essen kostet Geld.	भोजन के लिए पैसे लगते हैं।
+For what purpose?	Zu welchem Zweck?	किस उद्देश्य से?
+Forget about Tom.	Vergiss Tom.	टॉम की यादें मिटा दो।
+Forget about her.	Vergiss sie.	उसके बारे में भूल जाओ।
+Gas is cheap now.	Benzin ist jetzt billig.	अब गैस सस्ती है।
