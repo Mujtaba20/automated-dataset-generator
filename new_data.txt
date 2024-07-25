@@ -2214,3 +2214,12 @@ Tom's right.	Tom hat recht.	टॉम सही है।
 Tom's smart.	Tom ist schlau.	टॉम चालाक है।
 Tom's sorry.	Tom tut mir leid.	मुझे टॉम से क्षमा चाहिए।
 Tom's tipsy.	Tom ist angetrunken.	टॉम थोड़ा नशेड़ी है।
+Tom's tough.	Toms hart.	टॉम कठोर है।
+Tom's upset.	Toms verärgert.	टॉम उदास है।
+Tom's weird.	Toms eigenartig.	टॉम अजीब है।
+Tom's wrong.	Tom hat Unrecht.	टॉम गलत है।
+Tom's young.	Tom ist jung.	टॉम जवान है।
+Tom, get up!	Tom, steh auf!	टॉम, उठो!
+Trust in me.	Vertraue mir.	मुझ पर भरोसा करो।
+Try that on.	Versuch das mal.	वह परीक्षण करो।
+Try this on.	Probieren Sie das aus.	यह परीक्षण करो।
