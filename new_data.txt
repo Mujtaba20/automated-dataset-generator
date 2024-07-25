@@ -15901,3 +15901,10 @@ Give me your book.	Gib mir dein Buch.	मुझे अपनी किताब 
 Give me your hand.	Gib mir deine Hand.	मुझे अपना हाथ दो।
 Give me your bag.	Geben Sie mir Ihre Tasche.	मुझे अपना थैला दो।
 Give me your phone.	Gib mir dein Handy.	मुझे अपना फ़ोन दो।
+Give me your keys.	Gib mir deine Schlüssel.	मुझे अपनी चाबियाँ दो।
+Give those to Tom.	Gib diejenigen Tom.	उन तक पहुंचा दो।
+Go ahead and talk.	Gehe weiter und rede.	आगे बढ़ो और बात करो।
+Go get some water.	Hol dir etwas Wasser.	कुछ पानी लेकर आओ।
+Go somewhere else.	Geh woanders hin.	कहीं और जाओ।
+Go straight ahead.	Gehe direkt weiter.	सीधे आगे जाओ।
+Go there yourself.	Geh selbst dorthin.	वहाँ खुद जाओ।
