@@ -1424,3 +1424,9 @@ Are you mad? (2)	Bist du sauer?	क्या तुम नाराज हो?
 Are you mad? (3)	Bist du wütend?	क्या तुम गुस्सा कर रहे हो?
 Are you new?	Bist du neu?	क्या तुम नए हो?
 Are you shy?	Bist du schüchtern?	क्या तुम शर्मीले हो?
+Ask anybody.	Frag jemanden.	किसी से पूछो।
+Ask for Tom.	Frag nach Tom.	टॉम के लिए पूछो।
+Be creative.	Sei kreativ.	रचनात्मक बनो।
+Be discreet.	Sei diskret.	सावधान रहो।
+Be generous.	Sei großzügig.	उदार बनो।
+Be merciful.	Sei barmherzig.	दयालु बनो।
