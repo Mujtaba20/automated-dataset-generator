@@ -14509,3 +14509,12 @@ Tom loved skiing.	Tom liebte das Skifahren.	टॉम को स्की कर
 Tom loved sports.	Tom liebte Sport.	टॉम को खेल पसंद थे।
 Tom loves coffee.	Tom liebt Kaffee.	टॉम को कॉफ़ी पसंद है।
 Tom loves hockey.	Tom liebt Hockey.	टॉम को हॉकी पसंद है।
+Tom loves horses.	Tom liebt Pferde.	टॉम घोड़ों से प्यार करता है।
+Tom loves skiing.	Tom liebt Skifahren.	टॉम को स्की करने से प्यार है।
+Tom loves soccer.	Tom liebt Fußball.	टॉम को फुटबॉल पसंद है।
+Tom loves sports.	Tom liebt Sport.	टॉम को खेल पसंद है।
+Tom loves to run.	Tom liebt es zu laufen.	टॉम को दौड़ने की आदत है।
+Tom loves trains.	Tom liebt Züge.	टॉम ट्रेनों से प्यार करता है।
+Tom loves tulips.	Tom liebt Tulpen.	टॉम ट्यूलिप्स से प्यार करता है।
+Tom made Mary go.	Tom ließ Maria gehen.	टॉम ने मेरी को जाने दिया।
+Tom made cookies.	Tom machte Kekse.	टॉम ने कुकीज बनाई।
