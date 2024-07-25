@@ -2580,3 +2580,10 @@ He succeeded.	Er war erfolgreich.	उसका कामयाबी से प�
 He wants one.	Er will eins.	उसे एक चाहिए।
 He was alone.	Er war allein.	वह अकेला था।
 He was alone. 	Er war einsam.	वह अकेला था।
+He was brave.	Er war mutig.	वह बहादुर था।
+He was great.	Er war großartig.	वह महान था।
+He was lucky.	Er hatte Glück.	उसे भाग्यशाली था।
+He was naive.	Er war naiv.	वह भोला था।
+He was naive. (different meaning)	Er war einfältig.	उसकी कोई अपार्टमेंट नहीं थी।
+He was wrong.	Er lag falsch.	वह गलत था।
+He was wrong. (different meaning)	Er war schlecht.	उसका पक्ष था।
