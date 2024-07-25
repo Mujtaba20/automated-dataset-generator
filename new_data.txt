@@ -2144,3 +2144,12 @@ Tom is weak.	Tom ist schwach.	टॉम कमजोर है।
 Tom is wise.	Tom ist weise.	टॉम बुद्धिमान है।
 Tom kneeled.	Tom kniete.	टॉम घुटनेटेकता था।
 Tom knew it.	Tom wusste es.	टॉम को पता था।
+Tom laughed.	Tom lachte.	टॉम हंसा।
+Tom listens.	Tom hört zu.	टॉम सुनता है।
+Tom made it.	Tom hat es geschafft.	टॉम ने यह किया।
+Tom may die.	Tom könnte sterben.	टॉम मर सकता है।
+Tom may win.	Tom könnte gewinnen.	टॉम जीत सकता है।
+Tom noticed.	Tom bemerkte.	टॉम ने ध्यान दिया।
+Tom paid me.	Tom zahlte mir.	टॉम ने मुझे भुगतान किया।
+Tom painted.	Tom malte.	टॉम ने रंग भरा।
+Tom prepaid.	Tom zahlte im Voraus.	टॉम प्रीपेड किया।
