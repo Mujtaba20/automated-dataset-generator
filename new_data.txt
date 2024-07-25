@@ -3673,3 +3673,7 @@ You stay put.	Du bleibst hier.	तुम यहीं रुको।
 You survived.	Sie haben überlebt.	आप जीवित रहे।
 You'll do it.	Du wirst es tun.	तुम यह करोगे।
 You're a spy.	Du bist ein Spion.	तुम एक जासूस हो।
+You're cruel.	Du bist grausam.	तुम निर्दयी हो।
+You're dirty.	Du bist schmutzig.	तुम गंदे हो।
+You're drunk.	Du bist betrunken.	तुम नशे में हो।
+You're drunk. (Different meaning)	Du hast einen sitzen.	तुम पेटू हो।
