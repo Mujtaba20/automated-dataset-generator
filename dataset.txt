@@ -1,14 +1,4 @@
 
-Tom isn't scrawny.	Tom ist nicht mager.	टॉम दुबला नहीं है।
-Tom isn't selfish.	Tom ist nicht egoistisch.	टॉम स्वार्थी नहीं है।
-Tom isn't serious.	Tom ist nicht ernsthaft.	टॉम गंभीर नहीं है।
-Tom isn't so tall.	Tom ist nicht so groß.	टॉम इतना बड़ा नहीं है।
-Tom isn't talking.	Tom redet nicht.	टॉम बात नहीं करता।
-Tom isn't thirsty.	Tom hat keinen Durst.	टॉम की कोई प्यास नहीं है।
-Tom isn't too old.	Tom ist nicht zu alt.	टॉम बहुत बूढ़ा नहीं है।
-Tom isn't trained.	Tom ist nicht trainiert.	टॉम प्रशिक्षित नहीं है।
-Tom isn't unhappy.	Tom ist nicht unglücklich.	टॉम दुखी नहीं है।
-Tom isn't up here.	Tom ist nicht hier oben.	टॉम यहाँ नहीं है।
 Tom isn't violent.	Tom ist nicht gewalttätig.	टॉम हिंसक नहीं है।
 Tom isn't wealthy.	Tom ist nicht wohlhabend.	टॉम अमीर नहीं है।
 Tom isn't winning.	Tom gewinnt nicht.	टॉम नहीं जीतता।

@@ -18845,3 +18845,13 @@ Tom isn't pleased.	Tom ist nicht erfreut.	टॉम खुश नहीं ह�
 Tom isn't present.	Tom ist nicht anwesend.	टॉम मोजूद नहीं है।
 Tom isn't retired.	Tom ist nicht in Rente.	टॉम सेवानिवृत्त नहीं है।
 Tom isn't running.	Tom rennt nicht.	टॉम दौड़ नहीं रहा है।
+Tom isn't scrawny.	Tom ist nicht dürr.	टॉम कंकाल नहीं है।
+Tom isn't selfish.	Tom ist nicht egoistisch.	टॉम स्वार्थी नहीं है।
+Tom isn't serious.	Tom ist nicht ernst.	टॉम गंभीर नहीं है।
+Tom isn't so tall.	Tom ist nicht so groß.	टॉम इतना लंबा नहीं है।
+Tom isn't talking.	Tom spricht nicht.	टॉम बात नहीं कर रहा है।
+Tom isn't thirsty.	Tom ist nicht durstig.	टॉम प्यासा नहीं है।
+Tom isn't too old.	Tom ist nicht zu alt.	टॉम बहुत बूढ़ा नहीं है।
+Tom isn't trained.	Tom ist nicht trainiert.	टॉम प्रशिक्षित नहीं है।
+Tom isn't unhappy.	Tom ist nicht unglücklich.	टॉम अद्भुत नहीं है।
+Tom isn't up here.	Tom ist nicht hier oben.	टॉम यहाँ पर नहीं है।
