@@ -14258,3 +14258,13 @@ Tom is my lawyer.	Tom ist mein Anwalt.	टॉम मेरे वकील ह�
 Tom is my nephew.	Tom ist mein Neffe.	टॉम मेरा भांजा है।
 Tom is necessary.	Tom ist notwendig.	टॉम जरूरी है।
 Tom is negligent.	Tom ist nachlässig.	टॉम लापरवाह है।
+Tom is no expert.	Tom ist kein Experte.	टॉम एक विशेषज्ञ नहीं है।
+Tom is not happy.	Tom ist nicht glücklich.	टॉम खुश नहीं है।
+Tom is objective.	Tom ist objektiv.	टॉम वस्तुसूचक है।
+Tom is oblivious.	Tom ist ahnungslos.	टॉम अनजान है।
+Tom is obnoxious.	Tom ist unangenehm.	टॉम अश्लील है।
+Tom is observant.	Tom ist aufmerksam.	टॉम सचेत है।
+Tom is observing.	Tom beobachtet.	टॉम ध्यान से देख रहा है।
+Tom is obsessive.	Tom ist zwanghaft.	टॉम कार्यशील है।
+Tom is obstinate.	Tom ist stur.	टॉम जिद्दी है।
+Tom is offensive.	Tom ist beleidigend.	टॉम अपमानकारी है।
