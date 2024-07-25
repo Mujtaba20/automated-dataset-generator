@@ -1213,3 +1213,8 @@ Sing along.	Singe mit.	साथ गाओ।
 Smell this.	Riech das.	इसे सुन्दर सूगना।
 Start here.	Beginnen Sie hier.	यहाँ शुरू करें।
 Start over.	Von vorne anfangen.	फिर से शुरू करो।
+Stay sharp.	Sei scharf.	तेज़ रहो।
+Step aside.	Mach Platz.	रास्ता दो।
+Step on it!	Gib Gas!	जल्दी करो!
+Stop lying.	Hör auf zu lügen.	झूठ बोलना बंद करो।
+Stop there.	Halt hier an.	वहीं रुको।
