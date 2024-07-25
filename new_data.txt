@@ -315,3 +315,11 @@ I get it.	Ich verstehe es.	मुझे समझ में आ गया।
 I got it.	Ich habe es bekommen.	मैंने समझ लिया।
 I helped.	Ich habe geholfen.	मैंने सहायता की।
 I jumped.	Ich sprang.	मैं कूद पड़ा।
+I moaned.	Ich jammerte.	मुझे मार दिया।
+I nodded.	Ich nickte.	मैंने सिर हिलाया।
+I paused.	Ich unterbrach.	मैंने विराम लिया।
+I prayed.	Ich betete.	मैंने पूजा की।
+I refuse.	Ich lehne ab.	मैं इंकार करता हूँ।
+I resign.	Ich trete zurück.	मैं इस्तीफा दे रहा हूँ।
+I rested.	Ich ruhte mich aus.	मैं विश्राम कर रहा था।
+I shaved.	Ich rasierte mich.	मैंने शेव किया।
