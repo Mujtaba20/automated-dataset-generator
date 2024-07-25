@@ -12233,3 +12233,12 @@ I broke that one.	Ich habe das zerbrochen.	मैंने वह तोड़ �
 I brought a book.	Ich habe ein Buch gebracht.	मैंने एक पुस्तक लाई।
 I came to say hi.	Ich kam, um Hallo zu sagen.	मैंने नमस्ते कहने के लिए आया।
 I came yesterday.	Ich kam gestern an.	मैंने कल आया था।
+I can bake bread.	Ich kann Brot backen.	मैं रोटी पका सकता हूँ।
+I can be trusted.	Man kann mir vertrauen.	मुझ पर भरोसा किया जा सकता है।
+I can carry that.	Ich kann das tragen.	मैं वह उठा सकता हूँ।
+I can dance well.	Ich kann gut tanzen.	मैं अच्छा डांस कर सकता हूँ।
+I can explain it.	Ich kann es erklären.	मैं इसे समझा सकता हूँ।
+I can name names.	Ich kann Namen nennen.	मैं नाम ले सकता हूँ।
+I can't complain.	Ich kann nicht klagen.	मैं शिकायत नहीं कर सकता।
+I can't die here.	Ich kann hier nicht sterben.	मैं यहाँ मर नहीं सकता।
+I can't eat meat.	Ich kann kein Fleisch essen.	मैं मांस नहीं खा सकता।
