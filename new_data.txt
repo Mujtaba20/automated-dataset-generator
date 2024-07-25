@@ -4839,3 +4839,11 @@ That's a doll.	Das ist eine Puppe.	यह एक गुड़िया है।
 That's a fact.	Das ist eine Tatsache.	यह एक तथ्य है।
 That's a fake.	Das ist eine Fälschung.	यह एक नकली है।
 That's a fish.	Das ist ein Fisch.	यह एक मछली है।
+That's a joke.	Das ist ein Witz.	यह एक शुग देग है।
+That's a myth.	Das ist ein Mythos.	यह एक पौराणिक कथा है।
+That's a plan.	Das ist ein Plan.	यह एक योजना है।
+That's a risk.	Das ist ein Risiko.	यह एक जोखिम है।
+That's a sign.	Das ist ein Zeichen.	यह एक संकेत है।
+That's a tree.	Das ist ein Baum.	यह एक पेड़ है।
+That's better.	Das ist besser.	यह बेहतर है।
+That's broken.	Das ist kaputt.	यह टूटा हुआ है।
