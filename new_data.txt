@@ -4818,3 +4818,9 @@ Suit yourself.	Tun, was du willst.	जैसा तुम्हें ठीक 
 Sweep my room.	Fegen Sie mein Zimmer.	मेरा कमरा साफ़ करो।
 Take Tom home.	Nimm Tom nach Hause.	टॉम को घर ले जाओ।
 Take a number.	Nehmen Sie eine Nummer.	एक नंबर लें।
+Take a shower.	Eine Dusche nehmen.	नहाना।
+Take him away.	Bring ihn weg.	उसे दूर ले जाओ।
+Take me there.	Bring mich dort hin.	मुझे वहाँ ले जाओ।
+Take my horse.	Nimm mein Pferd.	मेरा घोड़ा ले जाओ।
+Take only one.	Nur eine nehmen.	केवल एक चुराना।
+Tastes differ.	Geschmäcker sind verschieden.	रुचियाँ अलग होती हैं।
