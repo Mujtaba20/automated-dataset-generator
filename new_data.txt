@@ -3083,3 +3083,11 @@ Mary is tall.	Maria ist groß.	मेरी लंबी है।
 Math is hard.	Mathe ist schwer.	गणित कठिन है।
 May I cut in?	Darf ich dazwischen gehen?	क्या मैं काट सकता हूँ?
 May I go now?	Darf ich jetzt gehen?	क्या मैं अब जा सकता हूँ?
+May I try it?	Darf ich es versuchen?	क्या मैं इसे ट्राई कर सकता हूँ?
+Meat, please.	Fleisch, bitte.	मांस, कृपया।
+Men are pigs.	Männer sind Schweine.	आदमी सूअर होते हैं।
+Men cry, too.	Auch Männer weinen.	मर्द भी रोते हैं।
+Move quietly.	Beweg dich leise.	धीरे से हिलो।
+My arm hurts.	Mein Arm tut weh.	मेरा हाथ दर्द कर रहा है।
+My ears hurt.	Meine Ohren tun weh.	मेरे कान दर्द कर रहे हैं।
+My eyes hurt.	Meine Augen tun weh.	मेरी आंखें दर्द कर रही हैं।
