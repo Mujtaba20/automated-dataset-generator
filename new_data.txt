@@ -4694,3 +4694,12 @@ My neck hurts.	Mein Hals tut weh.	मेरी गर्दन में दर�
 My neck hurts. (different meaning)	Meine Nackenmuskulatur ist verspannt.	मेरी गले में दर्द है।
 My pen is new.	Mein Stift ist neu.	मेरी कलम नयी है।
 Night came on.	Die Nacht brach herein.	रात आ गई।
+No one saw me.	Niemand hat mich gesehen.	किसी ने मुझे नहीं देखा।
+No one saw us.	Niemand hat uns gesehen.	किसी ने हमें नहीं देखा।
+No one's here.	Niemand ist hier.	कोई यहाँ नहीं है।
+No one's home.	Niemand ist zu Hause.	कोई घर पर नहीं है।
+No, thank you.	Nein, danke.	नहीं, धन्यवाद।
+Nobody called.	Niemand hat angerufen.	किसी ने कॉल नहीं किया।
+Nobody called. (Different meaning)	Niemand hat gerufen.	कोई नहीं बोला।
+Nobody saw me.	Niemand hat mich gesehen.	किसी ने मुझे नहीं देखा।
+Nobody saw me. (Different meaning)	Niemand hat mich erblickt.	कोई ने मुझे नहीं देखा।
