@@ -16999,3 +16999,11 @@ I'll give it back.	Ich werde es zurückgeben.	मैं इसे वापस �
 I'll give you $30.	Ich werde dir $30 geben.	मैं तुम्हें $30 दूंगा।
 I'll go if you go.	Ich werde gehen, wenn du gehst.	मैं चलूंगा, अगर तुम चलो।
 I'll go on Sunday.	Ich werde am Sonntag gehen.	मैं रविवार को जाऊंगा।
+I'll go on my own.	Ich werde auf eigene Faust gehen.	मैं अपने द्वारा जाऊंगा।
+I'll go to school.	Ich werde zur Schule gehen.	मैं स्कूल जाएगा।
+I'll let Tom know.	Ich werde Tom Bescheid geben.	मैं टॉम को बता दूंगा।
+I'll let you know.	Ich werde dich informieren.	मैं तुम्हें जानकारी दूंगा।
+I'll make it work.	Ich werde es hinbekommen.	मैं इसे काम करवा दूंगा।
+I'll miss you all.	Ich werde euch alle vermissen.	मुझे तुम सब की याद आएगी।
+I'll never forget.	Ich werde nie vergessen.	मैं कभी नहीं भूलूंगा।
+I'll pay the bill.	Ich werde die Rechnung bezahlen.	मैं बिल चुकता करूंगा।
