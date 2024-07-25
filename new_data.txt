@@ -6070,3 +6070,11 @@ I have to work.	Ich muss arbeiten.	मुझे काम करना है।
 I hope so, too.	Ich hoffe auch so.	मैं भी उम्मीद करता हूँ।
 I hope you die.	Ich hoffe, du stirbst.	मैं चाहता हूं तुम मर जाओ।
 I hope you win.	Ich hoffe, du gewinnst.	मैं उम्मीद करता हूँ कि तुम जीतो।
+I hurried home.	Ich habe mich beeilt nach Hause.	मैंने जल्दी से घर को दौड़ दिया।
+I hurt my foot.	Ich habe mir den Fuß verletzt.	मैंने अपने पैर को चोट पहुंचाया।
+I just arrived.	Ich bin gerade angekommen.	मैं अभी तक पहुंचा हूँ।
+I just gave up.	Ich habe gerade aufgegeben.	मैंने अभी तक हार मान ली है।
+I just guessed.	Ich habe nur geraten.	मैंने सिर्फ अनुमान लगाया।
+I just met Tom.	Ich habe Tom gerade kennengelernt.	मैंने अभी तक टॉम से मुलाकात की है।
+I just met him.	Ich habe ihn gerade getroffen.	मैंने उससे अभी हाल ही में मिला।
+I just saw Tom.	Ich habe Tom gerade gesehen.	मैंने अभी तक टॉम को देखा है।
