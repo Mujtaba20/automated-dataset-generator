@@ -14007,3 +14007,12 @@ Tom didn't speak.	Tom hat nicht gesprochen.	टॉम ने बात नही
 Tom didn't stand.	Tom ist nicht aufgestanden.	टॉम खड़ा नहीं था।
 Tom died at 2:30.	Tom starb um 2:30 Uhr.	टॉम 2:30 बजे मर गया।
 Tom died from TB.	Tom starb an Tuberkulose.	टॉम टीबी से मर गया।
+Tom died in 2009.	Tom starb 2009.	टॉम 2009 में मर गया।
+Tom died in 2013.	Tom starb 2013.	टॉम 2013 में मर गया।
+Tom died in jail.	Tom starb im Gefängnis.	टॉम जेल में मर गया।
+Tom disobeyed me.	Tom hat mich nicht beachtet.	टॉम ने मेरा नाम नहीं लिया।
+Tom does his job.	Tom macht seine Arbeit.	टॉम अपना काम करता है।
+Tom doesn't care.	Tom kümmert sich nicht.	टॉम को परवाह नहीं है।
+Tom doesn't know.	Tom weiß es nicht.	टॉम को पता नहीं है।
+Tom doesn't mind.	Tom hat nichts dagegen.	टॉम को कोई बात नहीं है।
+Tom doesn't play.	Tom spielt nicht.	टॉम नहीं खेलता।
