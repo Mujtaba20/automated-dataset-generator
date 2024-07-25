@@ -1,14 +1,4 @@
 
-Go and wake Tom up.	Wecke Tom!	वेक टॉम!
-Go and wake Tom up.	Geh hin und wecke Tom!	जाओ और जगाओ टॉम!
-Go ask your father.	Geh und frag deinen Vater.	जाओ और अपने पिता से पूछो।
-Go ask your father.	Geh deinen Vater fragen.	अपने पिता से पूछें।
-Go back to bed now.	Geh jetzt wieder ins Bett!	अब बिस्तर पर वापस जाओ!
-Go back to the lab.	Geh zurück zum Labor.	प्रयोगशाला में वापस जाएं।
-Go get your helmet.	Hol deinen Helm!	अपना हेलमेट प्राप्त करें!
-Go to the hospital.	Geh zum Krankenhaus.	अस्पताल जाएं।
-Go up these stairs.	Geh diese Treppe hoch.	सीढ़ियों से ऊपर जाओ।
-Go up these stairs.	Geh diese Stufen hinauf.	इन चरणों पर जाएं।
 Go wash your hands.	Geh dir die Hände waschen.	अपने हाथ धोएं।
 Guess how old I am.	Rate, wie alt ich bin.	अंदाज़ा लगाओ मेरी उम्र क्या है।
 Hand me that broom.	Gib mir diesen Besen.	मुझे यह झाड़ू दे दो।

@@ -20659,3 +20659,10 @@ Go ahead, shoot me.	Geh voran, schieß auf mich.	आगे बढ़ो, मु�
 Go and have a look.	Geh und schau nach.	जाओ और देखो।
 Go and talk to Tom.	Geh und rede mit Tom.	जाओ और टॉम से बात करो।
 Give me that book.	Gib mir das Buch.	मुझे वह किताब दो।
+Go and wake Tom up.	Geh und wecke Tom auf.	जाओ और टॉम को जगाओ।
+Go ask your father.	Geh und frage deinen Vater.	अपने पिताजी से पूछो।
+Go back to bed now.	Geh jetzt zurück ins Bett.	अब बिस्तर पर वापस जाओ।
+Go back to the lab.	Geh zurück ins Labor.	लैब में वापस जाओ।
+Go get your helmet.	Hol dir deinen Helm.	अपना हेलमेट लेकर जाओ।
+Go to the hospital.	Geh ins Krankenhaus.	हॉस्पिटल जाओ।
+Go up these stairs.	Gehe diese Treppe hinauf.	इन सीढ़ियों पर चढ़ जाओ।
