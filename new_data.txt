@@ -1278,3 +1278,12 @@ Tom helped.	Tom half zu.	टॉम ने सहायता की।
 Tom hit me.	Tom hat mich geschlagen.	टॉम ने मुझे मारा।
 Tom is bad.	Tom ist schlecht.	टॉम बुरा है।
 Tom is big.	Tom ist groß.	टॉम बड़ा है।
+Tom is fat.	Tom ist dick.	टॉम मोटा है।
+Tom is fun.	Tom hat Spaß.	टॉम मजेदार है।
+Tom is ill.	Tom ist krank.	टॉम बीमार है।
+Tom is mad.	Tom ist verrückt.	टॉम पागल है।
+Tom is new.	Tom ist neu.	टॉम नया है।
+Tom is odd.	Tom ist komisch.	टॉम अजीब है।
+Tom is old.	Tom ist alt.	टॉम बूढ़ा है।
+Tom is out.	Tom ist draußen.	टॉम बाहर है।
+Tom is sad.	Tom ist traurig.	टॉम उदास है।
