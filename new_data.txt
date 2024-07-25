@@ -11416,3 +11416,10 @@ You're like Tom.	Du bist wie Tom.	तुम टॉम जैसे हो।
 You're mine now.	Du gehörst jetzt mir.	तुम मेरे हो।
 You're my child.	Du bist mein Kind.	तुम मेरा बच्चा हो।
 You're my enemy.	Du bist mein Feind.	तुम मेरा दुश्मन हो।
+You're my woman.	Du bist meine Frau.	तुम मेरी महिला हो।
+You're new here.	Du bist neu hier.	तुम यहाँ नए हो।
+You're not dead.	Du bist nicht tot.	तुम मरे नहीं हो।
+You're not here.	Du bist nicht hier.	तुम यहाँ नहीं हो।
+You're not poor.	Du bist nicht arm.	तुम गरीब नहीं हो।
+You're not rich.	Du bist nicht reich.	तुम धनवान नहीं हो।
+You're pathetic.	Du bist erbärmlich.	तुम विकलांग हो।
