@@ -12947,3 +12947,11 @@ I'm quite strong.	Ich bin ziemlich stark.	मैं काफी मजबूत
 I'm really angry.	Ich bin wirklich wütend.	मैं सचमुच गुस्से में हूँ।
 I'm really broke.	Ich bin wirklich pleite.	मैं सचमुच दिनदहाड़े हूँ।
 I'm really drunk.	Ich bin wirklich betrunken.	मैं सचमुच नशे में हूँ।
+I'm really sorry.	Es tut mir wirklich leid.	मुझे सच्ची खेद है।
+I'm really tired.	Ich bin wirklich müde.	मैं सचमुच थक गया हूँ।
+I'm really upset.	Ich bin wirklich aufgebracht.	मैं सही वाकई उदास हूँ।
+I'm retired, too.	Ich bin auch pensioniert.	मैं भी सेवानिवृत्त हूं।
+I'm right-handed.	Ich bin rechtshändig.	मैं दाएं हाथ का हूं।
+I'm sick of fish.	Ich habe genug von Fisch.	मुझे मछली से थक गया है।
+I'm sick of this.	Ich habe genug davon.	मुझे इससे थक गया है।
+I'm still hungry.	Ich bin immer noch hungrig.	मुझे अभी भी भूख लगी है।
