@@ -2916,3 +2916,13 @@ I'm studying.	Ich studiere.	मैं पढ़ाई कर रहा हूँ
 I'm the best.	Ich bin der Beste.	मैं सबसे अच्छा हूँ।
 I'm the last.	Ich bin der Letzte.	मैं अंतिम हूँ।
 I'm thirteen.	Ich bin dreizehn.	मैं तेरह साल का हूँ।
+I'm thorough.	Ich bin gründlich.	मैं संपूर्ण हूं।
+I'm ticklish.	Ich bin kitzelig.	मुझे खुजली होती है।
+I'm to blame.	Ich bin schuld.	मेरी गलती है।
+I'm too busy.	Ich bin zu beschäftigt.	मैं बहुत व्यस्त हूं।
+I'm upstairs.	Ich bin oben.	मैं ऊपर हूं।
+I'm very fat.	Ich bin sehr dick.	मैं बहुत मोटा हूं।
+I'm very hot.	Mir ist sehr heiß.	मुझे बहुत गर्मी लग रही है।
+I'm very sad.	Ich bin sehr traurig.	मैं बहुत उदास हूं।
+I'm very shy.	Ich bin sehr schüchtern.	मैं बहुत शर्मीला हूं।
+I'm watching.	Ich beobachte.	मैं देख रहा हूं।
