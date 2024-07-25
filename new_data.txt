@@ -4119,3 +4119,13 @@ I have to win.	Ich muss gewinnen.	मुझे जीतना है।
 I hear voices.	Ich höre Stimmen.	मैं आवाज़ सुनता हूँ।
 I hope we win.	Ich hoffe, wir gewinnen.	मुझे आशा है कि हम जीतें।
 I just did it.	Ich habe es gerade getan.	मैंने बस इसे किया।
+I just got up.	Ich bin gerade aufgestanden.	मैंने अभी उठ गया।
+I just smiled.	Ich habe gerade gelächelt.	मैंने बस मुस्कुराया।
+I kid you not.	Ich mache keine Witze.	मैं मजाक नहीं कर रहा हूँ।
+I know Boston.	Ich kenne Boston.	मुझे बोस्टन पता है।
+I know French.	Ich kenne Französisch.	मुझे फ्रेंच आता है।
+I know my job.	Ich kenne meinen Job.	मुझे मेरा काम पता है।
+I know people.	Ich kenne Leute.	मैं लोगों को जानता हूँ।
+I know things.	Ich kenne Dinge.	मुझे चीजों का पता है।
+I led the way.	Ich habe den Weg geführt.	मैंने रास्ता दिखाया।
+I let it fall.	Ich ließ es fallen.	मैंने इसे गिरने दिया।
