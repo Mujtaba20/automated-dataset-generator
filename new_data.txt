@@ -3398,3 +3398,11 @@ Tom is tipsy.	Tom ist angetrunken.	टॉम थोड़ा नशे में
 Tom is upset.	Tom ist verärgert.	टॉम उदास है।
 Tom is despondent.	Tom ist verzweifelt.	टॉम निराश है।
 Tom is vague.	Tom ist vage.	टॉम अस्पष्ट है।
+Tom is vegan.	Tom ist vegan.	टॉम शाकाहारी है।
+Tom is white.	Tom ist weiß.	टॉम सफेद है।
+Tom is witty.	Tom ist geistreich.	टॉम दक्ष है।
+Tom is wrong.	Tom hat Unrecht.	टॉम चूके पर है।
+Tom is young.	Tom ist jung.	टॉम युवा है।
+Tom isn't OK.	Tom ist nicht in Ordnung.	टॉम ठीक नहीं है।
+Tom isn't in.	Tom ist nicht dabei.	टॉम अंदर नहीं है।
+Tom just ate.	Tom hat gerade gegessen.	टॉम अभी अभी खाया है।
