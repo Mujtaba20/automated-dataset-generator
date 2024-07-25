@@ -773,3 +773,13 @@ Try it on.	Probier es aus.	इसे आजमाएं।
 Unlock it.	Öffne es.	यह खोलें।
 Watch Tom.	Schau Tom an.	टॉम को ध्यान से देखो।
 We agreed.	Wir haben zugestimmt.	हम सहमत हैं।
+We can go.	Wir können gehen.	हम जा सकते हैं।
+We did it!	Wir haben es geschafft!	हमने यह किया!
+We did it.	Wir haben es gemacht.	हमने यह किया।
+We failed.	Wir sind gescheitert.	हमने असफलता प्राप्त की।
+We failed. (2)	Wir sind gescheitert.	हम विफल रहे।
+We forgot.	Wir haben vergessen.	हम भूल गए।
+We prayed.	Wir haben gebetet.	हमने प्रार्थना की।
+We prayed. (2)	Wir haben gebetet.	हमने भगवान से प्रार्थना की।
+We saw it.	Wir haben es gesehen.	हमने उसे देखा।
+We saw it. (2)	Wir haben es gesehen.	हमने वह देखा।
