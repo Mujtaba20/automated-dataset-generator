@@ -1197,3 +1197,6 @@ Oh, really?	Oh, wirklich?	अच्छा, सच में?
 Once again.	Noch einmal.	एक बार फिर।
 Pick it up.	Hebe es auf.	इसे उठाओ।
 Please eat.	Bitte essen.	कृपया खाओ।
+Pull me up.	Zieh mich hoch.	मुझे उठाओ।
+Quiet down.	Beruhigen Sie sich.	चुप हो जाओ।
+Replace it.	Ersetze es.	इसे बदलें।
