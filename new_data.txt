@@ -16870,3 +16870,13 @@ I took this photo.	Ich habe dieses Foto gemacht.	मैंने यह फो�
 I totalled my car.	Ich habe mein Auto zerstört.	मैंने अपनी कार को पूरी तरह से बर्बाद कर दिया।
 I tried it before.	Ich habe es schon einmal versucht.	मैंने पहले इसे कोशिश की थी।
 I tried to escape.	Ich habe versucht zu entkommen.	मैं भागने की कोशिश की।
+I tried to scream.	Ich versuchte zu schreien.	मैंने चिल्लाने की कोशिश की।
+I truly loved her.	Ich liebte sie wirklich.	मैंने उसे सच्चा प्यार किया।
+I truly loved her. (different meaning)	Ich habe sie wirklich geliebt.	मैंने उसे वास्तव में पसंद किया था।
+I understand that.	Ich verstehe das.	मैं उसको समझता हूँ।
+I understand this.	Das verstehe ich.	मैं यह समझता हूँ।
+I understood that.	Das habe ich verstanden.	मैंने वह समझ लिया।
+I used to be lazy.	Früher war ich faul.	मैं पहले सुस्त था।
+I usually do that.	Normalerweise mache ich das.	आमतौर पर मैं ऐसा करता हूँ।
+I usually eat out.	Ich esse normalerweise auswärts.	आमतौर पर मैं बाहर खाता हूँ।
+I want Tom to win.	Ich möchte, dass Tom gewinnt.	मुझे चाहिए कि टॉम जीते।
