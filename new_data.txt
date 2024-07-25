@@ -6633,3 +6633,9 @@ It's no secret.	Es ist offenkundig.	यह कोई राज नहीं ह�
 It's not a dog.	Es ist keine Hündin.	यह कुत्ता नहीं है।
 It's not blood.	Es ist kein Blut.	यह खून नहीं है।
 It's not clean.	Es ist nicht sauber.	यह साफ नहीं है।
+It's not funny.	Es ist nicht lustig.	यह मजाक करने लायक नहीं है।
+It's not there.	Es ist nicht da.	वहाँ नहीं है।
+It's not yours.	Es ist nicht deins.	यह तुम्हारा नहीं है।
+It's on page 3.	Es ist auf Seite 3.	यह पृष्ठ 3 पर है।
+It's our fault.	Es ist unser Fehler.	यह हमारी ग़लती है।
+It's pointless.	Es hat keinen Sinn.	यह व्यर्थ है।
