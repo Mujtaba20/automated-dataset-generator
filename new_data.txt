@@ -8064,3 +8064,7 @@ You're a child.	Du bist ein Kind.	तुम एक बच्चा हो।
 You're a loser.	Du bist ein Verlierer.	तुम हारने वाले हो।
 You're a woman.	Du bist eine Frau.	तुम एक महिला हो।
 You're amazing.	Du bist erstaunlich.	तुम अद्भुत हो।
+You're chicken.	Du bist ein Huhn.	तुम मुर्गा हो।
+You're correct.	Du hast Recht.	तुम सही हो।
+You're humming.	Du summt.	तुम हम्मिंग कर रहे हैं।
+You're humming. (different meaning)	Du bist summend.	तुम हर्गिज नहीं कर सकते।
