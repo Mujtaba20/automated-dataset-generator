@@ -14624,3 +14624,12 @@ Tom seems hungry.	Tom scheint hungrig zu sein.	टॉम भूखा लग र
 Tom seems lonely.	Tom scheint einsam zu sein.	टॉम अकेला लग रहा है।
 Tom seems stupid.	Tom scheint dumm zu sein.	टॉम मूर्ख लग रहा है।
 Tom seems unsure.	Tom scheint unsicher zu sein.	टॉम अनिश्चित लग रहा है।
+Tom sells coffee.	Tom verkauft Kaffee.	टॉम कॉफी बेचता है।
+Tom sells radios.	Tom verkauft Radios.	टॉम रेडियो बेचता है।
+Tom sent me that.	Tom hat mir das geschickt.	टॉम ने मुझे वह भेजा।
+Tom settled back.	Tom ließ sich zurück.	टॉम वापस बैठ गया।
+Tom settled down.	Tom hat sich beruhigt.	टॉम न्यारा हो गया।
+Tom shops online.	Tom kauft online ein.	टॉम ऑनलाइन शॉपिंग करता है।
+Tom shot at Mary.	Tom schoss auf Mary.	टॉम ने मैरी पर गोली चलाई।
+Tom shot himself.	Tom hat sich selbst erschossen.	टॉम ने खुद को गोली मार ली।
+Tom should be up.	Tom sollte auf sein.	टॉम ऊपर होना चाहिए।
