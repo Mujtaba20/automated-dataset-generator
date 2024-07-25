@@ -13175,3 +13175,12 @@ It's comfortable.	Es ist angenehm.	यह सुखद है।
 It's complicated.	Es ist kompliziert.	यह जटिल है।
 It's conceivable.	Es ist vorstellbar.	यह संभावनीय है।
 It's dark inside.	Es ist dunkel drinnen.	अंदर काली है।
+It's far-fetched.	Es ist übertrieben.	यह दूर तक पहुंचता है।
+It's foggy today.	Es ist neblig heute.	आज कोहरा है।
+It's frozen hard.	Es ist knallhart gefroren.	यह जमकर फ्रोज़न है।
+It's getting hot.	Es wird heiß.	गर्मी बढ़ रही है।
+It's going great.	Es läuft super.	यह बढ़िया चल रहा है।
+It's good for us.	Es ist gut für uns.	यह हमारे लिए अच्छा है।
+It's gotten dark.	Es ist dunkel geworden.	यह अंधेरा हो गया है।
+It's hard to say.	Es ist schwer zu sagen.	कहना मुश्किल है।
+It's hit or miss.	Es ist Glückssache.	यह या तो चूक या कामयाबी है।
