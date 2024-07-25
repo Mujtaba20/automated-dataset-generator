@@ -1,15 +1,4 @@
 
-Do you have a bike?	Hast du ein Fahrrad?	क्या आपके पास एक बाइक है?
-Do you have a bike?	Haben Sie ein Fahrrad?	क्या आपके पास एक बाइक है?
-Do you have a blog?	Hast du einen Blog?	क्या आपका कोई ब्लॉग है?
-Do you have a blog?	Habt ihr einen Blog?	क्या आपका कोई ब्लॉग है?
-Do you have a blog?	Haben Sie einen Blog?	क्या आपका कोई ब्लॉग है?
-Do you have a book?	Haben Sie ein Buch?	क्या तुम्हारे पास किताब है?
-Do you have a book?	Hast du ein Buch?	क्या तुम्हारे पास किताब है?
-Do you have a book?	Habt ihr ein Buch?	क्या तुम्हारे पास किताब है?
-Do you have a comb?	Hast du einen Kamm?	क्या आपके पास एक कंघी है
-Do you have a copy?	Hast du eine Kopie?	क्या आपके पास एक प्रति है?
-Do you have a copy?	Haben Sie eine Kopie?	क्या आपके पास एक प्रति है?
 Do you have a plan?	Hast du einen Plan?	क्या आपकी एक योजना है?
 Do you have a plan?	Habt ihr einen Plan?	क्या आपकी एक योजना है?
 Do you have a plan?	Haben Sie einen Plan?	क्या आपकी एक योजना है?

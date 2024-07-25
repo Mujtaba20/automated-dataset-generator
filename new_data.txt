@@ -20411,3 +20411,8 @@ Do you believe Tom?	Glaubst du Tom?	क्या तुम टॉम पर व�
 Do you believe him?	Glaubst du ihm?	क्या तुम उस पर विश्वास करते हो?
 Do you feel better?	Fühlst du dich besser?	क्या तुम्हे अब अच्छा लग रहा है?
 Do you feel guilty?	Fühlst du dich schuldig?	क्या तुम्हें अपराधी महसूस हो रहा है?
+Do you have a bike?	Haben Sie ein Fahrrad?	क्या आपके पास एक साइकिल है?
+Do you have a blog?	Haben Sie einen Blog?	क्या आपके पास एक ब्लॉग है?
+Do you have a book?	Haben Sie ein Buch?	क्या आपके पास एक किताब है?
+Do you have a comb?	Hast du einen Kamm?	क्या आपके पास एक कंघी है?
+Do you have a copy?	Hast du eine Kopie?	क्या आपके पास एक कॉपी है?
