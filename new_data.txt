@@ -9708,3 +9708,12 @@ No one flinched.	Niemand zuckte zusammen.	किसी ने भीड़ न�
 No one has come.	Niemand ist gekommen.	कोई नहीं आया है।
 No one is there.	Niemand ist da.	कोई नहीं है।
 No one knew why.	Niemand wusste warum.	किसी को नहीं पता कैसे।
+No one knows it.	Niemand kennt es.	कोई नहीं जानता।
+No one likes it.	Niemand mag es.	किसी को पसंद नहीं है।
+No one likes me.	Niemand mag mich.	किसी को मुझसे प्यार नहीं है।
+No one loves me.	Niemand liebt mich.	कोई मुझसे प्यार नहीं करता।
+No one saw that.	Niemand hat das gesehen.	किसी ने उसे नहीं देखा।
+No one was hurt.	Niemand wurde verletzt.	किसी को चोट नहीं लगी।
+No one was late.	Niemand war spät.	किसी को देरी नहीं हुई।
+No taxi stopped.	Kein Taxi hielt an.	कोई टैक्सी रुकी नहीं।
+Nobody answered.	Niemand hat geantwortet.	कोई नहीं जवाब दिया।
