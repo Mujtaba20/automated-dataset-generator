@@ -11932,3 +11932,13 @@ He comes at noon.	Er kommt um die Mittagszeit.	वह दोपहर में 
 He deserves more.	Er verdient mehr.	उसे अधिक मिलना चाहिए।
 He died recently.	Er ist kürzlich gestorben.	उसने हाल ही में मर गया।
 He died suddenly.	Er ist plötzlich gestorben.	उसकी मौत अचानक हो गई।
+He does his duty.	Er erfüllt seine Pflicht.	वह अपनी दायित्व करता है।
+He does not know.	Er weiß nicht.	उसे मालूम नहीं है।
+He doesn't sleep.	Er schläft nicht.	वह सोता नहीं है।
+He doesn't smoke.	Er raucht nicht.	वह धूम्रपान नहीं करता।
+He fascinated me.	Er faszinierte mich.	उसने मुझे दीवाना बना दिया।
+He fed the horse.	Er fütterte das Pferd.	उसने घोड़े को खिलाया।
+He fell backward.	Er fiel rückwärts.	वह पीछे की ओर गिर गया।
+He fixed the net.	Er reparierte das Netz.	उसने जाल ठीक किया।
+He flew to Paris.	Er flog nach Paris.	वह पेरिस को उड़ान भरी।
+He found my bike.	Er fand mein Fahrrad.	उसने मेरी साइकिल ढूंढी।
