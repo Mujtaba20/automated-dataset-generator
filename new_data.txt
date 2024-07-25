@@ -20632,3 +20632,11 @@ Get out of my life!	Verschwinde aus meinem Leben!	मेरे जीवन स�
 Get out of my room.	Geh aus meinem Zimmer raus.	मेरे कमरे से बाहर निकल जा।
 Get out of my life.	Verlass mein Leben.	मेरे जीवन से बाहर जाओ।
 Get out of the car.	Steig aus dem Auto aus.	गाड़ी से बाहर निकलो।
+Get some sleep now.	Jetzt etwas schlafen.	अब थोड़ी नींद लेना।
+Get us out of here.	Bring uns hier raus.	हमें यहाँ से निकालो।
+Get your coat, Tom.	Hol deinen Mantel, Tom.	अपनी कोट लो, टॉम।
+Give Tom my thanks.	Sag Tom meinen Dank.	टॉम को मेरा धन्यवाद दो।
+Give Tom the money.	Gib Tom das Geld.	टॉम को पैसे दो।
+Give it back to me.	Gib es mir zurück.	मुझे वापस करो।
+Give it to me, Tom.	Gib es mir, Tom.	मुझे दो, टॉम।
+Give me an example.	Gib mir ein Beispiel.	मुझे एक उदाहरण दो।
