@@ -633,3 +633,12 @@ It snowed.	Es schneite.	यह बर्फ जमी।
 It stinks.	Es stinkt.	यह बदबूदार है।
 It worked.	Es arbeitete.	यह काम किया।
 It's 3:30.	Es ist 3:30 Uhr.	3:30 बजे हैं।
+It's 8:30.	Es ist 8:30.	यह 8:30 है।
+It's 9:15.	Es ist 9:15.	यह 9:15 है।
+It's a TV.	Es ist ein Fernseher.	यह एक टीवी है।
+It's cold.	Es ist kalt.	ठंड है।
+It's cool.	Es ist cool.	यह ठंडा है।
+It's dark.	Es ist dunkel.	यह अंधेरा है।
+It's easy.	Es ist einfach.	यह आसान है।
+It's fair.	Es ist fair.	यह न्यायसंगत है।
+It's a dog.	Es ist ein Hund.	यह एक कुत्ता है।
