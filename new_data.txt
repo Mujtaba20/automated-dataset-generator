@@ -13972,3 +13972,11 @@ Tom can't answer.	Tom kann nicht antworten.	टॉम जवाब नहीं 
 Tom can't decide.	Tom kann nicht entscheiden.	टॉम नहीं फैसला कर सकता।
 Tom can't refuse.	Tom kann nicht ablehnen.	टॉम मना नहीं कर सकता।
 Tom can't retire.	Tom kann nicht in Rente gehen.	टॉम सेवानिवृत्ति नहीं कर सकता।
+Tom can't see us.	Tom kann uns nicht sehen.	टॉम हमें नहीं देख सकता।
+Tom cannot drive.	Tom kann nicht Auto fahren.	टॉम गाड़ी नहीं चला सकता।
+Tom changed jobs.	Tom hat den Job gewechselt.	टॉम ने नौकरी बदल ली।
+Tom changed that.	Tom hat das verändert.	टॉम ने वह बदल दिया।
+Tom chose wisely.	Tom wählte klug aus.	टॉम ने समझदारी से चुना।
+Tom clearly lied.	Tom hat klar gelogen.	टॉम ने स्पष्ट झूठ बोला।
+Tom climbed down.	Tom ist heruntergeklettert.	टॉम नीचे चढ़ गया।
+Tom concentrated.	Tom konzentrierte sich.	टॉम ध्यान दिया।
