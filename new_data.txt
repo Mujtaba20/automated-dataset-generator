@@ -3996,3 +3996,12 @@ I always walk.	Ich gehe immer zu Fuß.	मैं हमेशा चलता �
 I am American.	Ich bin Amerikaner.	मैं अमेरिकी हूँ।
 I am Japanese.	Ich bin Japaner.	मैं जापानी हूँ।
 I am a Muslim.	Ich bin Muslim.	मैं एक मुस्लिम हूँ।
+I am all ears.	Ich bin ganz Ohr.	मैं पूरी तरह सुनने को तैयार हूं।
+I am busy now.	Ich bin jetzt beschäftigt.	मैं अब व्यस्त हूं।
+I am coughing.	Ich huste.	मुझे खांसी आ रही है।
+I am diabetic.	Ich habe Diabetes.	मुझे मधुमेह है।
+I am divorced.	Ich bin geschieden.	मैं तलाकशुदा हूं।
+I am in Paris.	Ich bin in Paris.	मैं पेरिस में हूं।
+I am not sure.	Ich bin nicht sicher.	मैं अब तक पक्का नहीं हूं।
+I am outraged.	Ich bin empört.	मैं बहुत नाराज हूं।
+I am sneezing.	Ich niese.	मैं छींक रहा हूं।
