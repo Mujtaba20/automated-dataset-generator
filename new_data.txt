@@ -16583,3 +16583,13 @@ I knew it was Tom.	Ich wusste, dass es Tom war.	मुझे पता था �
 I knew who did it.	Ich wusste, wer es getan hat.	मुझे पता था कि यह किसने किया।
 I knew who he was.	Ich wusste, wer er war.	मैंने जाना कि वह कौन था।
 I knew you'd come.	Ich wusste, dass du kommen würdest.	मुझे पता था कि तुम आओगे।
+I knocked Tom out.	Ich habe Tom ausgeschaltet.	मैंने टॉम को पीट दिया।
+I know I did that.	Ich weiß, dass ich das getan habe.	मुझे पता है कि मैंने वह किया था।
+I know I love you.	Ich weiß, dass ich dich liebe.	मुझे पता है कि मैं तुमसे प्यार करता हूँ।
+I know Tom is mad.	Ich weiß, dass Tom wütend ist.	मुझे पता है कि टॉम गुस्सा है।
+I know Tom is odd.	Ich weiß, dass Tom seltsam ist.	मुझे पता है कि टॉम अजीब है।
+I know Tom is old.	Ich weiß, dass Tom alt ist.	मुझे पता है कि टॉम बड़ा है।
+I know a shortcut.	Ich kenne einen Abkürzung.	मुझे एक शॉर्टकट पता है।
+I know about that.	Ich weiß darüber Bescheid.	मुझे उसके बारे में पता है।
+I know he is busy.	Ich weiß, dass er beschäftigt ist.	मुझे पता है कि वह व्यस्त है।
+I know his family.	Ich kenne seine Familie.	मुझे उसका परिवार पता है।
