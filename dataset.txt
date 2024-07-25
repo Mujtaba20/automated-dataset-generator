@@ -1,15 +1,4 @@
 
-Would that be Tom?	Wäre das Tom?	क्या वह टॉम होगा?
-Wow! That's cheap!	Oh! Das ist billig!	ओह!यह सस्ता है!
-Wow, that's great.	Toll! Das ist großartig!	महान!यह बहुत अच्छा है!
-Yes, I kissed him.	Ja, ich habe ihn geküsst.	हाँ, मैं उसे चूमा।
-Yes, that's right.	Ja, das stimmt.	हाँ यह सही है।
-Yes, you're right.	Ja, du hast recht.	सच कहा आपने।
-Yes, you're right.	Ja, ihr habt recht.	सच कहा आपने।
-Yes, you're right.	Ja, Sie haben recht.	सच कहा आपने।
-Yesterday was hot.	Gestern war es warm.	कल गर्म था।
-Yesterday was hot.	Es war heiß gestern.	कल गर्म था।
-Yesterday was hot.	Gestern war es heiß.	कल गर्म था।
 You and I are men.	Du und ich sind Männer.	आप और मैं पुरुष हैं।
 You are a bit fat.	Du bist ein bisschen dick.	आप थोड़े मोटे हैं।
 You are a student.	Sie sind ein Schüler.	आप एक छात्र हैं।

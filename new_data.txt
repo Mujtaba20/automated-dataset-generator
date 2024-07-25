@@ -19964,3 +19964,10 @@ Won't you tell me?	Werden Sie mir das nicht sagen?	क्या आप मुझ
 Wood burns easily.	Holz verbrennt leicht.	लकड़ी आसानी से जलती है।
 Wood is flammable.	Holz ist brennbar.	लकड़ी प्रज्वलनशील है।
 Woods burn easily.	Wälder brennen leicht.	जंगल आसानी से जलते हैं।
+Would that be Tom?	Wäre das Tom?	क्या वह टॉम होगा?
+Wow! That's cheap!	Wow! Das ist günstig!	वाह! यह सस्ता है!
+Wow, that's great.	Wow, das ist großartig.	वाह, यह बहुत बढ़िया है।
+Yes, I kissed him.	Ja, ich habe ihn geküsst.	हां, मैंने उसे चूमा।
+Yes, that's right.	Ja, das ist richtig.	हां, यह सही है।
+Yes, you're right.	Ja, du hast recht.	हां, तुम सही हो।
+Yesterday was hot.	Gestern war warm.	गतिकाल गर्म था।
