@@ -6024,3 +6024,13 @@ I hate Tom now.	Ich hasse Tom jetzt.	मुझे अब टॉम से नफ
 I hate dancing.	Ich hasse Tanzen.	मुझे नृत्य से नफरत है।
 I hate driving.	Ich hasse Fahren.	मुझे ड्राइविंग से नफरत है।
 I hate her now.	Ich hasse sie jetzt.	मुझे अब उससे नफरत है।
+I hate insects.	Ich hasse Insekten.	मुझे कीटभक्षी पसंद नहीं है।
+I hate ironing.	Ich hasse Bügeln.	मुझे अस्तरण पसंद नहीं है।
+I hate karaoke.	Ich hasse Karaoke.	मुझे कराओके पसंद नहीं है।
+I hate lawyers.	Ich hasse Anwälte.	मुझे वकील पसंद नहीं हैं।
+I hate lawyers. (Different meaning)	Ich hasse Rechtsanwälte.	मुझे कानूनी सलाहकार पसंद नहीं हैं।
+I hate my life.	Ich hasse mein Leben.	मैं अपने जीवन से नफरत करता हूँ।
+I hate parties.	Ich hasse Partys.	मुझे पार्टियां पसंद नहीं हैं।
+I hate riddles.	Ich hasse Rätsel.	मुझे पहेलियां पसंद नहीं हैं।
+I hate spiders.	Ich hasse Spinnen.	मुझे मकड़ी पसंद नहीं है।
+I hate spinach.	Ich hasse Spinat.	मुझे पालक पसंद नहीं है।
