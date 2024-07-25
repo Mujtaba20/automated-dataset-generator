@@ -16705,3 +16705,9 @@ I met Tom in jail.	Ich traf Tom im Gefängnis.	मैंने तोम से 
 I met Tom tonight.	Ich habe Tom heute Abend getroffen.	मैंने टॉम से आज रात मिला।
 I met your friend.	Ich habe deinen Freund getroffen.	मैंने तुम्हारे दोस्त से मिला।
 I miss it already.	Es fehlt mir schon.	मुझे यह पहले ही याद आ रहा है।
+I miss my friends.	Ich vermisse meine Freunde.	मुझे मेरे दोस्तों की याद आती है।
+I miss my old job.	Ich vermisse meinen alten Job.	मुझे मेरे पुराने नौकरी की याद आती है।
+I miss my parents.	Ich vermisse meine Eltern.	मुझे मेरे माता-पिता की याद आती है।
+I miss that place.	Ich vermisse diesen Ort.	मुझे उस जगह की याद आती है।
+I miss this place.	Ich vermisse diesen Ort.	मुझे इस जगह की याद आती है।
+I miss your jokes.	Ich vermisse deine Späße.	मुझे तुम्हारे मजेदार विचार पसंद हैं।
