@@ -1,14 +1,4 @@
 
-The money is gone.	Das Geld ist weg.	पैसा चला गया है।
-The news upset me.	Die Nachricht erschütterte mich.	संदेश ने मुझे हिला दिया।
-The news upset me.	Ich war von der Nachricht bestürzt.	मैं संदेश से निराश था।
-The night is dark.	Nachts ist es dunkel.	रात में अंधेरा है।
-The noise stopped.	Der Lärm hörte auf.	शोर बंद हो गया।
-The noise stopped.	Der Lärm stoppte.	शोर बंद हो गया।
-The pain has gone.	Der Schmerz ist weg.	दर्द चला गया है।
-The park is empty.	Der Park ist leer.	पार्क खाली है।
-The pay is meager.	Die Bezahlung ist mager.	भुगतान दुबला है।
-The pizza is cold.	Die Pizza ist kalt.	पिज्जा ठंडा है।
 The plane crashed.	Das Flugzeug ist abgestürzt.	विमान दुर्घटनाग्रस्त हो गया है।
 The price is good.	Der Preis ist gut.	कीमत अच्छी है।
 The river is wide.	Der Fluss ist breit.	नदी चौड़ी है।

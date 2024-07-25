@@ -18038,3 +18038,11 @@ The man was dying.	Der Mann starb.	आदमी मर रहा था।
 The market is big.	Der Markt ist groß.	बाजार बड़ा है।
 The meat is tough.	Das Fleisch ist zäh.	मांस मजबूत है।
 The meeting ended.	Das Treffen endete.	बैठक समाप्त हो गई।
+The money is gone.	Das Geld ist weg.	पैसे गए हैं।
+The news upset me.	Die Neuigkeiten haben mich aufgeregt.	समाचार ने मुझे उत्तेजित किया।
+The night is dark.	Die Nacht ist dunkel.	रात अंधेरी है।
+The noise stopped.	Der Krach hörte auf.	ध्वनि बंद हो गई।
+The pain has gone.	Der Schmerz ist gegangen.	दर्द चला गया है।
+The park is empty.	Der Park ist leer.	पार्क खाली है।
+The pay is meager.	Das Gehalt ist mager.	वेतन कम है।
+The pizza is cold.	Die Pizza ist kalt.	पिज़्ज़ा ठंडी है।
