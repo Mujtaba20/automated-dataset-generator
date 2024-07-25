@@ -19290,3 +19290,13 @@ Tom was courteous.	Tom war höflich.	टॉम शिष्ट था।
 Tom was dangerous.	Tom war gefährlich.	टॉम खतरनाक था।
 Tom was delighted.	Tom war begeistert.	टॉम प्रसन्न था।
 Tom was delirious.	Tom war wahnsinnig.	टॉम उत्तेजित था।
+Tom was demanding.	Tom war fordernd.	टॉम मांग कर रहा था।
+Tom was depressed.	Tom war deprimiert.	टॉम उदास था।
+Tom was desperate.	Tom war verzweifelt.	टॉम निराश था।
+Tom was different.	Tom war anders.	टॉम अलग था।
+Tom was disgusted.	Tom war angewidert.	टॉम घृणित था।
+Tom was dismissed.	Tom wurde entlassen.	टॉम को निकाल दिया गया था।
+Tom was easygoing.	Tom war locker.	टॉम आरामपसंद था।
+Tom was efficient.	Tom war effizient.	टॉम कुशल था।
+Tom was emotional.	Tom war emotional.	टॉम भावनात्मक था।
+Tom was exhausted.	Tom war erschöpft.	टॉम थका हुआ था।
