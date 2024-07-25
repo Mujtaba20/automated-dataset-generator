@@ -18772,3 +18772,10 @@ Tom is thoughtful.	Tom ist nachdenklich.	टॉम समझदार है।
 Tom is tidying up.	Tom räumt auf.	टॉम साफ़-सफाई कर रहा है।
 Tom is unaffected.	Tom ist unberührt.	टॉम प्रभावित नहीं है।
 Tom is unbearable.	Tom ist unerträglich.	टॉम सहनीय नहीं है।
+Tom is unbeatable.	Tom ist unschlagbar.	टॉम अपराजेय है।
+Tom is undefeated.	Tom ist ungeschlagen.	टॉम हराना नहीं है।
+Tom is undeterred.	Tom lässt sich nicht abschrecken.	टॉम न डरते हैं।
+Tom is undressing.	Tom zieht sich aus.	टॉम कपड़े उतार रहा है।
+Tom is unemployed.	Tom ist arbeitslos.	टॉम बेरोज़गार है।
+Tom is unfaithful.	Tom ist untreu.	टॉम विश्वासघाती है।
+Tom is unfriendly.	Tom ist unfreundlich.	टॉम अमित्र्वपूर्ण है।

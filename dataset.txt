@@ -1,14 +1,4 @@
 
-Tom is unbeatable.	Tom ist unschlagbar.	टॉम अपराजेय है।
-Tom is undefeated.	Tom ist ungeschlagen.	टॉम नाबाद है।
-Tom is undeterred.	Tom ist unbeirrt.	टॉम अप्रकाशित है।
-Tom is undressing.	Tom zieht sich aus.	टॉम ने उड़ान भरी।
-Tom is undressing.	Tom kleidet sich aus.	टॉम कपड़े पहनते हैं।
-Tom is undressing.	Tom entkleidet sich.	टॉम अनड्रेस्स।
-Tom is undressing.	Tom zieht sich gerade aus.	टॉम सीधे दूर है।
-Tom is unemployed.	Tom ist arbeitslos.	टॉम बेरोजगार है।
-Tom is unfaithful.	Tom ist untreu.	टॉम बेवफा है।
-Tom is unfriendly.	Tom ist unfreundlich.	टॉम असभ्य है।
 Tom is unmerciful.	Tom ist unbarmherzig.	टॉम अथक है।
 Tom is unpleasant.	Tom ist unangenehm.	टॉम असहज है।
 Tom is unprepared.	Tom ist unvorbereitet.	टॉम अप्रस्तुत है।
