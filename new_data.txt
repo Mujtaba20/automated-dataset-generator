@@ -10265,3 +10265,13 @@ Tom freaked out.	Tom hat Panik bekommen.	टॉम परेशान हो ग
 Tom gave a sigh.	Tom seufzte.	टॉम ने आह भरी।
 Tom gave orders.	Tom hat Befehle gegeben.	टॉम ने आदेश दिए।
 Tom got annoyed.	Tom wurde genervt.	टॉम को चिढ़ गया।
+Tom got changed.	Tom hat sich verändert.	टॉम बदल गया।
+Tom got cheated.	Tom wurde betrogen.	टॉम को धोखा दिया गया।
+Tom got dressed.	Tom hat sich angezogen.	टॉम ने पहना लिया।
+Tom got engaged.	Tom hat sich verlobt.	टॉम की सगाई हो गई।
+Tom got excited.	Tom wurde aufgeregt.	टॉम उत्तेजित हुआ।
+Tom got injured.	Tom wurde verletzt.	टॉम को चोट आई।
+Tom got jealous.	Tom wurde eifersüchtig.	टॉम को जलन हुई।
+Tom got married.	Tom hat geheiratet.	टॉम ने शादी की।
+Tom got nervous.	Tom wurde nervös.	टॉम घबराया।
+Tom got nothing.	Tom hat nichts bekommen.	टॉम कुछ नहीं मिला।
