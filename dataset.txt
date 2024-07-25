@@ -1,14 +1,4 @@
 
-The sun is rising.	Die Sonne geht auf.	सूर्य उदय होता है।
-The switch is off.	Der Schalter ist ausgeschaltet.	स्विच बंद हो गया है।
-The tactic worked.	Die Taktik ging auf.	रणनीति खुल गई।
-The tactic worked.	Die Taktik funktionierte.	रणनीति ने काम किया।
-The test was easy.	Die Prüfung war leicht.	परीक्षण आसान था।
-The test was easy.	Der Test war einfach.	परीक्षण सरल था।
-The time has come.	Die Zeit ist gekommen.	समय आ गया है।
-The train is here.	Der Zug ist da.	ट्रेन है।
-The trunk is open.	Der Kofferraum ist auf.	ट्रंक ऊपर है।
-The verdict is in.	Das Urteil liegt vor.	निर्णय उपलब्ध है।
 The war continued.	Der Krieg ging weiter.	युद्ध जारी रहा।
 The war continued.	Der Krieg setzte sich fort.	युद्ध जारी रहा।
 The water is cold.	Das Wasser ist kalt.	पानी ठंडा है।

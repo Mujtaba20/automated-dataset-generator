@@ -18064,3 +18064,13 @@ The street is icy.	Die Straße ist vereist.	सड़क बर्फीली �
 The street is lit.	Die Straße ist beleuchtet.	सड़क रोशनी से भरी हुई है।
 The sun is a star.	Die Sonne ist ein Stern.	सूरज एक तारा है।
 The sun is bright.	Die Sonne scheint hell.	सूरज उज्ज्वल है।
+The sun is rising.	Die Sonne geht auf.	सूर्य उग रहा है।
+The switch is off.	Der Schalter ist aus.	स्विच बंद है।
+The tactic worked.	Die Taktik hat funktioniert.	कार्यकारी दोगी रवैया।
+The tactic worked. (Different meaning)	Die Strategie hat geklappt.	स्ट्रैटेजी कार्यकारी रही।
+The test was easy.	Der Test war einfach.	परीक्षा आसान थी।
+The test was easy. (Different meaning)	Die Prüfung war kein Problem.	टेस्ट कोई मुश्किल नहीं था।
+The time has come.	Die Zeit ist gekommen.	समय आ गया है।
+The train is here.	Der Zug ist da.	ट्रेन आ गई है।
+The trunk is open.	Der Kofferraum ist offen.	दिब्बा खुला हुआ है।
+The verdict is in.	Das Urteil steht fest.	निर्णय हो गया है।
