@@ -11797,3 +11797,8 @@ Don't you see me?	Siehst du mich nicht?	क्या तुम मुझे न�
 Draw a line here.	Zeichne eine Linie hier.	यहाँ एक रेखा खींचो।
 Dreams come true.	Träume werden wahr.	सपने सच होते हैं।
 Drink some water.	Trink etwas Wasser.	कुछ पानी पीजिए।
+Drink this juice.	Trinkt diesen Saft.	इस सेब का जूस पी लो।
+Drinks are on me.	Die Getränke gehen auf mich.	मैं पूरे पेटठ से परेशान हूँ।
+Drive cautiously.	Fahren Sie vorsichtig.	सावधानी से चलाएं।
+Eat more protein.	Iss mehr Protein.	ज़्यादा प्रोटीन खाओ।
+Eat your veggies.	Iss dein Gemüse.	तुम अपनी सब्जियां खाओ।
