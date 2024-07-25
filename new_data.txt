@@ -3595,3 +3595,11 @@ We're doomed.	Wir sind verloren.	हम निष्क्रिय हैं।
 We're heroes.	Wir sind Helden.	हम नायक हैं।
 We're hiding.	Wir verstecken uns.	हम छिपे हुए हैं।
 We're hiding. (Different meaning)	Wir sind inkognito.	हम मास्केड हैं।
+We're joking.	Wir machen Witze.	हम मजाक कर रहे हैं।
+We're losing.	Wir verlieren.	हम हार रहे हैं।
+We're moving.	Wir bewegen uns.	हम चल रहे हैं।
+We're paying.	Wir zahlen.	हम भुगतान कर रहे हैं।
+We're trying.	Wir versuchen.	हम कोशिश कर रहे हैं।
+Welcome back.	Willkommen zurück.	वापस स्वागत है।
+Welcome home.	Willkommen zu Hause.	घर में स्वागत है।
+Were you bit?	Wurdest du gebissen?	क्या आपको काट लिया गया था?
