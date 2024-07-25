@@ -11346,3 +11346,8 @@ You know enough.	Du kennst genug.	तुम्हें पर्याप्त
 You know people.	Du kennst Leute.	तुम्हें लोग जानते हैं।
 You let me down.	Du hast mich hängen lassen.	तुमने मेरा भरोसा तोड़ा।
 You lied to Tom.	Du hast Tom belogen.	तुमने टॉम को झूठ बोला।
+You look better.	Du siehst besser aus.	तुम्हें बेहतर दिखता है।
+You look lonely.	Du siehst verlassen aus.	तुम अकेले लग रहे हो।
+You look stupid.	Du siehst dumm aus.	तुम मुर्ख लगते हो।
+You may go home.	Du kannst nach Hause gehen.	तुम घर जा सकते हो।
+You may have it.	Du darfst es erhalten.	तुम इसे पा सकते हो।
