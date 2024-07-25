@@ -9701,3 +9701,10 @@ Never say never.	Sag niemals nie.	कभी कभी मत कहो।
 Never tell lies.	Erzähle niemals Lügen.	कभी झूठ न बोलो।
 Never trust Tom.	Vertraue niemals Tom.	तोम पर भरोसा मत करो।
 Nice seeing you!	Schön, dich zu sehen!	तुम्हें देखकर अच्छा लगा!
+Nice to see you.	Freut mich, dich zu sehen.	तुम्हें देखकर खुशी हुई।
+No one answered.	Niemand antwortete.	किसी ने जवाब नहीं दिया।
+No one can tell.	Keiner kann es sagen.	कोई नहीं बता सकता।
+No one flinched.	Niemand zuckte zusammen.	किसी ने भीड़ नहीं खींची।
+No one has come.	Niemand ist gekommen.	कोई नहीं आया है।
+No one is there.	Niemand ist da.	कोई नहीं है।
+No one knew why.	Niemand wusste warum.	किसी को नहीं पता कैसे।
