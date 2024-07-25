@@ -18825,3 +18825,13 @@ Tom isn't foolish.	Tom ist nicht dumm.	टॉम मूर्ख नहीं �
 Tom isn't healthy.	Tom ist nicht gesund.	टॉम स्वस्थ नहीं है।
 Tom isn't helpful.	Tom ist nicht hilfreich.	टॉम मददगार नहीं है।
 Tom isn't helping.	Tom hilft nicht.	टॉम मदद नहीं कर रहा है।
+Tom isn't himself.	Tom ist nicht er selbst.	टॉम अपने आप नहीं है।
+Tom isn't hopeful.	Tom ist nicht hoffnungsvoll.	टॉम निराशा में नहीं है।
+Tom isn't in pain.	Tom hat keine Schmerzen.	टॉम दर्द में नहीं है।
+Tom isn't invited.	Tom ist nicht eingeladen.	टॉम को नहीं आमंत्रित किया गया है।
+Tom isn't jealous.	Tom ist nicht eifersüchtig.	टॉम जलन में नहीं है।
+Tom isn't kidding.	Tom macht keinen Witz.	टॉम मज़ाक नहीं कर रहा है।
+Tom isn't leaving.	Tom geht nicht weg.	टॉम नहीं जा रहा है।
+Tom isn't like me.	Tom ist nicht wie ich.	टॉम मुझ तरह नहीं है।
+Tom isn't like us.	Tom ist nicht wie wir.	टॉम हमारे तरह नहीं है।
+Tom isn't looking.	Tom schaut nicht.	टॉम देख नहीं रहा है।

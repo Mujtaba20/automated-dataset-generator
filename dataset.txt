@@ -1,14 +1,4 @@
 
-Tom isn't himself.	Tom ist nicht er selbst.	टॉम खुद नहीं है।
-Tom isn't hopeful.	Tom ist nicht hoffnungsvoll.	टॉम उम्मीद नहीं है।
-Tom isn't in pain.	Tom hat keine Schmerzen.	टॉम को कोई दर्द नहीं है।
-Tom isn't invited.	Tom ist nicht eingeladen.	टॉम को आमंत्रित नहीं किया गया है।
-Tom isn't jealous.	Tom ist nicht eifersüchtig.	टॉम को ईर्ष्या नहीं है।
-Tom isn't kidding.	Tom macht keine Witze.	टॉम मजाक नहीं करता।
-Tom isn't leaving.	Tom geht nicht.	टॉम काम नहीं करता है।
-Tom isn't like me.	Tom ist anders als ich.	टॉम मुझसे अलग है।
-Tom isn't like us.	Tom ist nicht wie wir.	टॉम हमारे जैसा नहीं है।
-Tom isn't looking.	Tom schaut nicht.	टॉम नहीं दिखता है।
 Tom isn't married.	Tom ist nicht verheiratet.	टॉम शादीशुदा नहीं है।
 Tom isn't missing.	Tom fehlt nicht.	टॉम गायब नहीं है।
 Tom isn't my name.	Ich heiße nicht Tom.	मुझे टॉम नहीं कहा जाता है।
