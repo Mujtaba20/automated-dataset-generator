@@ -1916,3 +1916,4 @@ It's urgent.	Es ist dringend.	यह अत्यावश्यक है।
 It's urgent. - 2	Es ist akut.	यह तत्कालीन है।
 It's urgent. - 3	Es ist eilig.	यह अत्यधिक महत्वपूर्ण है।
 Jump across.	Spring drüber.	ओछल जाओ।
+engSentence	{'Just say no.': 'Sag einfach nein.', 'Just try it.': 'Probiere es einfach.', 'Keep moving.': 'Beweg dich weiter.', 'Keep trying.': 'Versuch weiter.'}	{'Just say no.': 'सिर्फ ना कहो।', 'Just try it.': 'बस इसे कोशिश करो।', 'Keep moving.': 'आगे बढ़ते रहो।', 'Keep trying.': 'प्रयास करते रहो।'}
