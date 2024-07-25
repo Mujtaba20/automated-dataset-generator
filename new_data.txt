@@ -12516,3 +12516,10 @@ I like your idea.	Ich mag deine Idee.	मुझे तुम्हारी व�
 I like your legs.	Ich mag deine Beine.	मुझे तुम्हारी टांगें पसंद हैं।
 I like your room.	Ich mag dein Zimmer.	मुझे तुम्हारा कमरा पसंद है।
 I liked it a lot.	Ich mochte es sehr.	मुझे यह बहुत पसंद था।
+I liked the idea.	Mir gefiel die Idee.	मुझे विचार पसंद था।
+I live in Boston.	Ich lebe in Boston.	मैं बॉस्टन में रहता हूँ।
+I live near here.	Ich wohne in der Nähe von hier.	मैं यहाँ के पास रहता हूँ।
+I live on a boat.	Ich lebe auf einem Boot.	मैं नाव पर रहता हूँ।
+I live on a farm.	Ich lebe auf einem Bauernhof.	मैं एक खेत में रहता हूँ।
+I look after Tom.	Ich kümmere mich um Tom.	मैं टॉम की देखभाल करता हूँ।
+I look up to you.	Ich schaue zu dir auf.	मैं आपकी ओर देखता हूँ।
