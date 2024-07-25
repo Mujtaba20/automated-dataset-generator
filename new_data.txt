@@ -1223,3 +1223,13 @@ Take a bus.	Nimm den Bus.	एक बस पकड़ो।
 Take a nap.	Mach ein Nickerchen.	एक झपकी लें।
 Take cover!	Deckung nehmen!	रक्षा लें!
 Take shelter!	Suche Schutz!	आश्रय लें!
+Take these.	Nimm diese.	इनको लो।
+Take these.1	Nehmen Sie diese.	इन्हें लें।
+Take these.2	Diese hier nehmen.	ये लेलो।
+Talk to me!	Sprich mit mir!	मुझसे बात करो!
+Talk to me!.1	Unterhaltet euch mit mir!	मेरे साथ बात करो!
+Talk to me.	Rede mit mir.	मेरे साथ बात करो।
+Talk to me..1	Erzähl mir was.	मुझसे कुछ बात करो।
+Taste this.	Probier das.	इसका स्वाद चखो।
+Taste this.1	Schmeck mal das hier.	इसे चखो।
+That a boy!	Ein braver Junge!	वह एक लड़का है!
