@@ -6453,3 +6453,12 @@ I'm on holiday.	Ich bin im Urlaub.	मैं छुट्टी पर हूं
 I'm one of you.	Ich bin einer von euch.	मैं तुममें से एक हूं।
 I'm only human.	Ich bin nur ein Mensch.	मैं सिर्फ एक इंसान हूं।
 I'm optimistic.	Ich bin optimistisch.	मैं आशावादी हूं।
+I'm overweight.	Ich bin übergewichtig.	मैं मोटा हूँ।
+I'm overworked.	Ich bin überarbeitet.	मैं बहुत मेहनती हूँ।
+I'm quite busy.	Ich bin ziemlich beschäftigt.	मैं काफी व्यस्त हूँ।
+I'm quite lazy.	Ich bin ziemlich faul.	मैं काफी सुस्त हूँ।
+I'm quite well.	Mir geht es ziemlich gut.	मैं काफी अच्छा महसूस कर रहा हूँ।
+I'm rather shy.	Ich bin ziemlich schüchtern.	मैं काफी शर्मीला हूँ।
+I'm reading it.	Ich lese es.	मैं इसे पढ़ रहा हूँ।
+I'm really mad.	Ich bin wirklich sauer.	मैं सच्ची में गुस्सा हूँ।
+I'm really old.	Ich bin wirklich alt.	मैं सच्ची में बुढ़ापा देख रहा हूँ।
