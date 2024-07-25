@@ -3695,3 +3695,10 @@ You're silly.	Du bist albern.	तुम मूर्ख हो।
 You're right. (Different meaning)	Sie haben Recht.	आप सही हैं।
 You're sharp. (Different meaning)	Du bist klug.	तुम तेज हो।
 You're silly. (Different meaning)	Du machst Unsinn.	तुम मूर्ख हो।
+You're small.	Du bist klein.	तुम छोटे हो।
+You're sweet.	Du bist nett.	तुम मीठे हो।
+You're tired.	Du bist müde.	तुम थके हुए हो।
+You're tough.	Du bist hart.	तुम कठोर हो।
+You're upset.	Du bist verärgert.	तुम उदास हो।
+You're tough. (second meaning)	Du bist robust.	तुम मजबूत हो।
+You're upset. (different meaning)	Du bist sauer.	तुम गुस्से में हो।
