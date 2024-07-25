@@ -5382,3 +5382,11 @@ What can I do? (Different meaning)	Was kann ich machen?	मैं क्या �
 What do I get?	Was bekomme ich?	मुझे क्या मिलेगा?
 What do I owe?	Was schulde ich?	मुझे क्या चुकाना है?
 What happened?	Was ist passiert?	क्या हुआ?
+What is a UFO?	Was ist ein UFO?	यूएफ़ो क्या है?
+What is truth?	Was ist die Wahrheit?	सच्चाई क्या है?
+What nonsense!	Was für ein Unsinn!	कितनी अनाप-शनाप!
+What was left?	Was ist übrig geblieben?	क्या बचा है?
+What was that?	Was war das?	वह क्या था?
+What's inside?	Was ist drinnen?	अंदर क्या है?
+What's it for?	Wofür ist es?	इसके फायदे क्या हैं?
+When do we go?	Wann gehen wir?	हम कब जाएँगे?
