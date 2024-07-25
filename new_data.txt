@@ -10276,3 +10276,13 @@ Tom got married.	Tom hat geheiratet.	टॉम ने शादी की।
 Tom got nervous.	Tom wurde nervös.	टॉम घबराया।
 Tom got nothing.	Tom hat nichts bekommen.	टॉम कुछ नहीं मिला।
 engSentence	{'Tom got panicky.': 'Tom wurde panisch.', 'Tom got retired.': 'Tom ging in Rente.', 'Tom got the job.': 'Tom bekam den Job.', 'Tom got unlucky.': 'Tom hatte Pech.', 'Tom got wounded.': 'Tom wurde verwundet.', 'Tom had a knife.': 'Tom hatte ein Messer.', 'Tom had company.': 'Tom hatte Gesellschaft.', 'Tom had no food.': 'Tom hatte kein Essen.', 'Tom had nothing.': 'Tom hatte nichts.'}	{'Tom got panicky.': 'टॉम को घबराहट हुई।', 'Tom got retired.': 'टॉम सेवानिवृत्त हो गया।', 'Tom got the job.': 'टॉम को काम मिल गया।', 'Tom got unlucky.': 'टॉम के साथ बदकिस्मती हुई।', 'Tom got wounded.': 'टॉम घायल हुआ।', 'Tom had a knife.': 'टॉम के पास एक चाकू था।', 'Tom had company.': 'टॉम के पास कंपनी थी।', 'Tom had no food.': 'टॉम के पास कोई भोजन नहीं था।', 'Tom had nothing.': 'टॉम के पास कुछ नहीं था।'}
+Tom had to wait.	Tom musste warten.	टॉम को इंतेज़ार करना पड़ा।
+Tom has a beard.	Tom hat einen Bart.	टॉम के पास दाढ़ी है।
+Tom has a cough.	Tom hat einen Husten.	टॉम को खांसी है।
+Tom has a horse.	Tom hat ein Pferd.	टॉम के पास घोड़ा है।
+Tom has a hunch.	Tom hat eine Ahnung.	टॉम का एक अंदाज़ है।
+Tom has a piano.	Tom hat ein Klavier.	टॉम के पास एक पियानो है।
+Tom has a point.	Tom hat einen Punkt.	टॉम का एक बिंदु है।
+Tom has a radio.	Tom hat ein Radio.	टॉम के पास एक रेडियो है।
+Tom has arrived.	Tom ist angekommen.	टॉम पहुँच चुका है।
+Tom has changed.	Tom hat sich verändert.	टॉम बदल गया है।
