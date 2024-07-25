@@ -19264,3 +19264,11 @@ Tom was a bad kid.	Tom war ein böses Kind.	टॉम एक बुरा बच
 Tom was a plumber.	Tom war ein Klempner.	टॉम एक प्लम्बर था।
 Tom was a teacher.	Tom war ein Lehrer.	टॉम एक अध्यापक था।
 Tom was acquitted.	Tom wurde freigesprochen.	टॉम को दोषमुक्त किया गया।
+Tom was all wrong.	Tom lag vollkommen falsch.	टॉम पूरी तरह से गलत था।
+Tom was ambitious.	Tom war ehrgeizig.	टॉम में उत्साही था।
+Tom was an artist.	Tom war ein Künstler.	टॉम एक कलाकार था।
+Tom was an orphan.	Tom war ein Waise.	टॉम एक अनाथ था।
+Tom was assaulted.	Tom wurde angegriffen.	टॉम पर हमला हुआ था।
+Tom was assertive.	Tom war bestimmend.	टॉम दृढ़ था।
+Tom was astounded.	Tom war verblüfft.	टॉम हैरान था।
+Tom was at school.	Tom war in der Schule.	टॉम स्कूल में था।
