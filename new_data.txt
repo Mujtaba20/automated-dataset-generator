@@ -9533,3 +9533,11 @@ It's like magic.	Es ist wie Magie.	यह जादू की तरह है�
 It's lunch time.	Es ist Mittagszeit.	यह जंचने का समय है।
 It's misleading.	Es ist irreführend.	इसमें निरादेशक है।
 It's my day off.	Es ist mein freier Tag.	यह मेरा अवकाश है।
+It's my problem.	Es ist mein Problem.	यह मेरी समस्या है।
+It's news to me.	Das ist mir neu.	यह मेरे लिए खबर है।
+It's no problem.	Es ist kein Problem.	यह कोई समस्या नहीं है।
+It's not Monday.	Es ist nicht Montag.	यह सोमवार नहीं है।
+It's not a bomb.	Es ist keine Bombe.	यह बम नहीं है।
+It's not a fish.	Es ist kein Fisch.	यह मछली नहीं है।
+It's not a game.	Es ist kein Spiel.	यह खेल नहीं है।
+It's not a gift.	Es ist kein Geschenk.	यह उपहार नहीं है।
