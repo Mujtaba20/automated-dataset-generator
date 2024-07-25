@@ -17596,3 +17596,12 @@ My room is a mess.	Mein Zimmer ist ein Durcheinander.	मेरा कमरा 
 My shirt is dirty.	Mein Hemd ist schmutzig.	मेरी कमीज़ गंदी है।
 My shoulder hurts.	Meine Schulter schmerzt.	मेरी कंधे में दर्द है।
 My shoulders hurt.	Meine Schultern schmerzen.	मेरे कंधे दर्द कर रहे हैं।
+My son left today.	Mein Sohn ist heute gegangen.	मेरा बेटा आज चला गया।
+My uncle is angry.	Mein Onkel ist wütend.	मेरे चाचा गुस्सा है।
+No one can escape.	Niemand kann entkommen.	कोई नहीं बच सकता।
+No one can resist.	Niemand kann widerstehen.	कोई प्रतिरोध नहीं कर सकता।
+No one complained.	Niemand hat sich beschwert.	किसी ने शिकायत नहीं की।
+No one else spoke.	Niemand sonst sprach.	कोई और नहीं बोला।
+No one ever asked.	Niemand hat jemals gefragt.	किसी ने कभी पूछा नहीं।
+No one has failed.	Niemand ist gescheitert.	किसी ने असफल नहीं हुआ।
+No one is perfect.	Niemand ist perfekt.	कोई भी पूर्ण नहीं है।
