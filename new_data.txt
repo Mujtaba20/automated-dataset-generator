@@ -8189,3 +8189,12 @@ Bring that here.	Bring das hier.	वह यहाँ लेकर आओ।
 Brush your hair.	Kämm dir die Haare.	अपने बाल साफ करो।
 Call me, please.	Ruf mich an, bitte.	कृपया मुझे कॉल करें।
 Call my husband.	Rufen Sie meinen Mann an.	मेरे पति को कॉल करें।
+Call the doctor.	Ruf den Arzt an.	डॉक्टर को बुलाओ।
+Call the police!	Ruf die Polizei an!	पुलिस को बुलाओ!
+Can I afford it?	Kann ich es mir leisten?	क्या मुझे इसकी चाह रखने की है?
+Can I bring Tom?	Kann ich Tom mitbringen?	क्या मैं टॉम को ले आ सकता हूँ?
+Can I come over?	Kann ich vorbeikommen?	क्या मैं आ सकता हूँ?
+Can I get a bag?	Kann ich eine Tasche bekommen?	क्या मुझे एक बैग मिल सकता है?
+Can I get a dog?	Kann ich einen Hund bekommen?	क्या मुझे एक कुत्ता मिल सकता है?
+Can I keep this?	Kann ich das behalten?	क्या मैं इसे रख सकता हूँ?
+Can I leave now?	Kann ich jetzt gehen?	क्या मैं अब जा सकता हूँ?
