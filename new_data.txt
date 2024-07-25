@@ -14774,3 +14774,12 @@ Tom was promoted.	Tom wurde befördert.	टॉम को पदोन्नत�
 Tom was punctual.	Tom war pünktlich.	टॉम समय पर था।
 Tom was punished.	Tom wurde bestraft.	टॉम को सज़ा सुनाई गई।
 Tom was rejected.	Tom wurde abgelehnt.	टॉम को अस्वीकार किया गया।
+Tom was released.	Tom wurde freigelassen.	टॉम रिलीज़ किया गया था।
+Tom was ruthless.	Tom war rücksichtslos.	टॉम बेदर्द था।
+Tom was saddened.	Tom war betrübt.	टॉम उदास था।
+Tom was selected.	Tom wurde ausgewählt.	टॉम का चयन हुआ था।
+Tom was sensible.	Tom war vernünftig.	टॉम समझदार था।
+Tom was shouting.	Tom schrie.	टॉम चिल्ला रहा था।
+Tom was sleeping.	Tom schlief.	टॉम सो रहा था।
+Tom was so sweet.	Tom war so süß.	टॉम इतना मिठा था।
+Tom was standing.	Tom stand.	टॉम खड़ा था।
