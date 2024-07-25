@@ -15353,3 +15353,8 @@ You have made it.	Du hast es geschafft.	तुमने यह कर लिय�
 You have my word.	Du hast mein Wort.	तुम्हारे पास मेरा वचन है।
 You have no idea.	Sie haben keine Ahnung.	आपको कोई अंतानुभूति नहीं है।
 You have to come.	Du musst kommen.	तुम्हें आना होगा।
+You have to help.	Du musst helfen.	तुम्हें मदद करनी है।
+You have to help. (different meaning)	Du musst unterstützen.	तुम्हें सहायता करनी है।
+You have to move.	Du musst dich bewegen.	तुम्हे हिलना पड़ेगा।
+You have to move. (different meaning)	Du musst umziehen.	तुम्हे बदलना होगा।
+You have to rest.	Du musst dich ausruhen.	तुम्हें आराम करना है।
