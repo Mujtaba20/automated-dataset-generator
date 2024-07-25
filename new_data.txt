@@ -3104,3 +3104,12 @@ Nobody slept.	Niemand schlief.	किसी ने नहीं सोया।
 Now I get it.	Jetzt habe ich es verstanden.	अब मुझे समझ में आ गया।
 Now fix that.	Jetzt behebe das.	अब उसे ठीक करो।
 OK. Go ahead.	OK. Geh weiter.	ठीक है। आगे जाओ।
+Oh, be quiet.	Oh, sei ruhig.	ओह, शांत रहो।
+Our eyes met.	Unsere Blicke trafen sich.	हमारी नजरें मिली।
+Pick that up.	Nimm das hoch.	वह उठा लो।
+Pick that up. (Different meaning)	Wähle das aus.	वह उठा लो।
+Pick that up. (Different meaning 2)	Das aufheben.	उसे उठा लो।
+Play it cool.	Bleib cool.	ठंडा रहो।
+Play it cool. (Different meaning)	Spiele es cool.	मजे करो।
+Please do it.	Bitte mach es.	कृपया यह करें।
+Please hurry!	Bitte beeil dich!	कृपया जल्दी करें!
