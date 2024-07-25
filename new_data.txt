@@ -7239,3 +7239,11 @@ Tom has talent.	Tom hat Talent.	टॉम में प्रतिभा है
 Tom hated Mary.	Tom hasste Mary.	टॉमे ने मेरी से नफ़रत की।
 Tom hates Mary.	Tom hasst Mary.	टॉम मेरी से नफ़रत करता है।
 Tom hates cats.	Tom hasst Katzen.	टॉम बिल्लियों से नफ़रत करता है।
+Tom hates rats.	Tom hasst Ratten.	टॉम चूहों से नफरत करता है।
+Tom heard that.	Tom hat das gehört.	टॉम ने सुना।
+Tom helped out.	Tom half aus.	टॉम मदद की।
+Tom helps Mary.	Tom hilft Mary.	टॉम मेरी की मदद करता है।
+Tom hired Mary.	Tom hat Mary eingestellt.	टॉम ने मेरी को किराये पर लिया।
+Tom hit a deer.	Tom hat einen Hirsch getroffen.	टॉम ने एक हिरण को मारा।
+Tom ignored me.	Tom hat mich ignoriert.	टॉम ने मुझे नजरअंदाज किया।
+Tom improvised.	Tom improvisierte.	टॉम ने आविष्कार किया।
