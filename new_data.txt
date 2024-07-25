@@ -16635,3 +16635,11 @@ I like sauerkraut.	Ich mag Sauerkraut.	मुझे स्वरक्रौट 
 I like sauerkraut. (different meaning)	Ich liebe Sauerkraut.	मुझे स्वरक्रौट पसंद है।
 I like short hair.	Ich mag kurze Haare.	मुझे छोटे बाल पसंद हैं।
 I like snow a lot.	Ich mag Schnee sehr gerne.	मुझे बर्फ बहुत पसंद है।
+I like spicy food.	Ich mag scharfes Essen.	मुझे तीखा खाना पसंद है।
+I like that skirt.	Ich mag diesen Rock.	मुझे वह स्कर्ट पसंद है।
+I like that store.	Ich mag diesen Laden.	मुझे वह दुकान पसंद है।
+I like the colors.	Ich mag die Farben.	मुझे रंग पसंद हैं।
+I like these hats.	Ich mag diese Hüte.	मुझे ये टोपी पसंद हैं।
+I like this beach.	Ich mag diesen Strand.	मुझे यह समुद्र तट पसंद है।
+I like this color.	Ich mag diese Farbe.	मुझे यह रंग पसंद है।
+I like this model.	Ich mag dieses Modell.	मुझे यह मॉडल पसंद है।
