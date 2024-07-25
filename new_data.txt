@@ -2120,3 +2120,13 @@ Tom is here.	Tom ist hier.	टॉम यहाँ है।
 Tom is home.	Tom ist zu Hause.	टॉम घर पर है।
 Tom is hurt.	Tom ist verletzt.	टॉम चोट लगी है।
 Tom is kind.	Tom ist freundlich.	टॉम उदार है।
+Tom is last.	Tom ist letzter.	टॉम अंतिम है।
+Tom is late.	Tom kommt zu spät.	टॉम देर से आया।
+Tom is lazy.	Tom ist faul.	टॉम आलसी है।
+Tom is lost.	Tom hat sich verirrt.	टॉम खो गया है।
+Tom is loud.	Tom ist laut.	टॉम जोर से बोलता है।
+Tom is mean.	Tom ist gemein.	टॉम नीच।
+Tom is nice.	Tom ist nett.	टॉम अच्छा है।
+Tom is nuts.	Tom ist verrückt.	टॉम पागल है।
+Tom is poor.	Tom ist arm.	टॉम गरीब है।
+Tom is rich.	Tom ist reich.	टॉम धनी है।
