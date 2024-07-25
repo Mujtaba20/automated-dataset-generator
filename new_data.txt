@@ -4545,3 +4545,10 @@ It's a relief.	Es ist eine Erleichterung.	यह एक राहत है।
 It's a secret.	Es ist ein Geheimnis.	यह एक रहस्य है।
 It's accurate.	Es ist genau.	यह सटीक है।
 It's all mine.	Es ist alles meins.	यह सब मेरा है।
+It's all over.	Es ist alles vorbei.	सब खत्म हो गया है।
+It's an honor.	Es ist eine Ehre.	यह एक सम्मान है।
+It's an order.	Es ist ein Befehl.	यह एक आदेश है।
+It's annoying.	Es ist ärgerlich.	यह परेशान कर रहा है।
+It's been fun.	Es hat Spaß gemacht.	यह मजेदार रहा है।
+It's business.	Es ist ein Geschäft.	यह व्यापार है।
+It's close by.	Es ist in der Nähe.	यह पास है।
