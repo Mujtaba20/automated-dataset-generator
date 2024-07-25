@@ -1363,3 +1363,9 @@ We can win.	Wir können siegen.	हम विजय पा सकते है�
 We had fun.	Wir hatten Spaß.	हमें मज़ा आया।
 We laughed.	Wir haben gelacht.	हम हंसी।
 We like it.	Wir mögen es.	हमें यह पसंद है।
+We lost it.	Wir haben es verloren.	हमने उसे खो दिया।
+We love it.	Wir lieben es.	हम इसे पसंद करते हैं।
+We made it.	Wir haben es geschafft.	हमने यह बनाया।
+We saw Tom.	Wir sahen Tom.	हमने टॉम को देखा।
+We saw you.	Wir haben dich gesehen.	हमने तुम्हें देखा।
+We want it.	Wir wollen es.	हमें यह चाहिए।
