@@ -19926,3 +19926,9 @@ Why am I so tired?	Warum bin ich so müde?	मैं इतना थका क�
 Why are they here?	Warum sind sie hier?	वे यहाँ क्यों हैं?
 Why are we hiding?	Warum verstecken wir uns?	हम क्यों छुपे हुए हैं?
 Why are we moving?	Warum bewegen wir uns?	हम क्यों चल रहे हैं?
+Why are you alive?	Warum bist du am Leben?	तुम जीवित क्यों हो?
+Why are you alone?	Warum bist du allein?	तुम अकेले क्यों हो?
+Why are you angry?	Warum bist du wütend?	तुम गुस्से में क्यों हो?
+Why are you broke?	Warum bist du pleite?	तुम दिनदहाड़े क्यों हो?
+Why are you going?	Warum gehst du?	तुम कहाँ जा रहे हो?
+Why are you lying?	Warum lügst du?	तुम क्यों झूठ बोल रहे हो?
