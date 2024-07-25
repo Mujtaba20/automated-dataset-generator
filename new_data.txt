@@ -15727,3 +15727,10 @@ Do you have a pen?	Habt ihr einen Stift?	क्या आपके पास ए
 Do you have a pet?	Habt ihr ein Haustier?	क्या आपके पास कोई पालतू जानवर है?
 Do you have a son?	Hast du einen Sohn?	क्या आपके पास एक बेटा है?
 Do you have money?	Habt ihr Geld?	क्या आपके पास कुछ पैसे हैं?
+Do you have paper?	Hast du Papier?	क्या आपके पास कागज है?
+Do you have to go?	Müssen Sie gehen?	क्या जाना है?
+Do you know Latin?	Kennen sie Latein?	क्या तुम्हें लैटिन आता है?
+Do you know where?	Weißt du wo?	क्या जानते हो कहाँ है?
+Do you like candy?	Magst du Süßigkeiten?	क्या आपको मिठाई पसंद है?
+Do you like grits?	Magst du Griess?	क्या आपको दाल पसंद है?
+Do you like honey?	Magst du Honig?	क्या आपको शहद पसंद है?
