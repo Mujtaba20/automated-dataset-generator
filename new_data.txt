@@ -6523,3 +6523,11 @@ Is it a secret?	Ist es ein Geheimnis?	क्या यह एक रहस्य
 Is it a weapon?	Ist es eine Waffe?	क्या यह एक हथियार है?
 Is it far away?	Ist es weit weg?	क्या यह दूर है?
 Is it for here?	Ist es für hier?	क्या यह यहाँ के लिए है?
+Is it in there?	Ist es drin?	क्या वहाँ है?
+Is it possible?	Ist es möglich?	क्या यह संभव है?
+Is it that bad?	Ist es so schlimm?	क्या यह इतना बुरा है?
+Is it too late?	Ist es zu spät?	क्या यह बहुत देर हो गई है?
+Is it worth it?	Ist es das wert?	क्या यह लायक है?
+Is she at home?	Ist sie zu Hause?	क्या वह घर पर है?
+Is she married?	Ist sie verheiratet?	क्या वह शादीशुदा है?
+Is that OK now?	Ist das jetzt in Ordnung?	क्या अब सब ठीक है?
