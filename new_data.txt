@@ -12077,3 +12077,12 @@ He's a nonsmoker.	Er ist Nichtraucher.	वह तंबाकू नहीं �
 He's a smart boy.	Er ist ein kluger Junge.	वह एक बुद्धिमान लड़का है।
 He's about to go.	Er steht kurz davor zu gehen.	वह जाने वाला है।
 He's all excited.	Er ist ganz aufgeregt.	वह पूरी तरह से उत्साहित है।
+He's at her side.	Er ist an ihrer Seite.	वह उसकी साइड पर है।
+He's getting old.	Er wird alt.	वह बूढ़ा हो रहा है।
+He's going blind.	Er wird blind.	वह अंधा हो रहा है।
+He's gone senile.	Er ist senil geworden.	वह सनील हो गया है।
+He's got the flu.	Er hat die Grippe.	उसे फ्लू हुआ है।
+He's in my class.	Er ist in meiner Klasse.	वह मेरी कक्षा में है।
+He's in the well.	Er ist im Brunnen.	वह कुएं में है।
+He's intelligent.	Er ist intelligent.	वह बुद्धिमान है।
+He's just a liar.	Er ist nur ein Lügner.	वह सिर्फ झूठा है।
