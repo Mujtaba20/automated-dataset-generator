@@ -14042,3 +14042,13 @@ Tom felt foolish.	Tom fühlte sich albern.	टॉम को मूर्ख म�
 Tom felt nervous.	Tom fühlte sich nervös.	टॉम को घबराहट महसूस हो रही थी।
 Tom felt nothing.	Tom fühlte nichts.	टॉम कुछ नहीं महसूस कर रहा था।
 Tom felt trapped.	Tom fühlte sich gefangen.	टॉम फंसा हुआ महसूस कर रहा था।
+Tom felt wronged.	Tom fühlte sich ungerecht behandelt.	टॉम को अन्याय महसूस हुआ।
+Tom finally left.	Tom ist endlich gegangen.	टॉम अंत में चला गया।
+Tom forgave Mary.	Tom verzieh Mary.	टॉम ने मेरी को माफ़ कर दिया।
+Tom forgives you.	Tom vergibt dir.	टॉम तुम्हें माफ़ कर देता है।
+Tom forgives you. (Different translation)	Tom vergibt Ihnen.	टॉम तुम्हें क्षमा करता है।
+Tom fried an egg.	Tom briet ein Ei.	टॉम ने एक अंडा तला।
+Tom frightens me.	Tom erschreckt mich.	मुझे डराता है।
+Tom gave me $300.	Tom gab mir $300.	टॉम ने मुझे $300 दिया।
+Tom gave me that.	Tom gab mir das.	टॉम ने मुझे वह दिया।
+Tom gave me this.	Tom gab mir das hier.	टॉम ने मुझे यह दिया।
