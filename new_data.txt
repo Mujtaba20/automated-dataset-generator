@@ -9599,3 +9599,8 @@ Leave Tom alone.	Lass Tom allein.	टॉम को अकेले छोड़ 
 Leave a message.	Hinterlassen Sie eine Nachricht.	एक संदेश छोड़ें।
 Leave him alone.	Lass ihn in Ruhe.	उसे अकेले छोड़ दो।
 Leave our house.	Verlasse unser Haus.	हमारे घर को छोड़ दो।
+Leave the TV on.	Lassen Sie den Fernseher an.	उसे टीवी चालू छोड़ दो।
+Lemons are sour.	Zitronen sind sauer.	नींबू खट्टे होते हैं।
+Let Tom do that.	Lassen Sie Tom das machen.	तोम से वह करने दो।
+Let Tom do this.	Lassen Sie Tom das tun.	तोम से यह करने दो।
+Let Tom go home.	Lassen Sie Tom nach Hause gehen.	टॉम को घर जाने दो।
