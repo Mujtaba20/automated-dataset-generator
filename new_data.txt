@@ -1257,3 +1257,10 @@ Tom agreed.	Tom stimmte zu.	टॉम सहमत था।
 Tom agrees.	Tom stimmt zu.	टॉम सहमत है।
 Tom ate it.	Tom hat es gegessen.	टॉम ने इसे खाया।
 Tom bit me.	Tom hat mich gebissen.	टॉम ने मुझे काटा।
+Tom braked.	Tom bremste.	टॉम ने ब्रेक मारी।
+Tom burped.	Tom stieß auf.	टॉम ने डकारा।
+Tom called.	Tom rief an.	टॉम ने बुलाया।
+Tom cheats.	Tom mogelt.	टॉम धोखा देता है।
+Tom cursed.	Tom fluchte.	टॉम ने शाप दिया।
+Tom danced.	Tom tanzte.	टॉम नाचा।
+Tom dances.	Tom tanzt.	टॉम नृत्य करता है।
