@@ -5874,3 +5874,10 @@ He's in danger.	Er ist in Gefahr.	वह खतरे में है।
 He's in prison.	Er ist im Gefängnis.	वह जेल में है।
 He's just evil.	Er ist einfach böse.	वह सिर्फ बुरा है।
 He's an entrepreneur.	Er ist ein Unternehmer.	वह एक उद्यमी है।
+He's my father.	Er ist mein Vater.	वह मेरे पिता है।
+He's no doctor.	Er ist kein Arzt.	वह डॉक्टर नहीं है।
+He's not ready.	Er ist nicht bereit.	वह तैयार नहीं है।
+He's too drunk.	Er ist zu betrunken.	वह बहुत नशे में है।
+He's uninsured.	Er ist nicht versichert.	उसकी कोई बीमा नहीं है।
+He's very fast.	Er ist sehr schnell.	वह बहुत तेज़ है।
+Hello everyone!	Hallo alle!	हर किसी को नमस्कार!
