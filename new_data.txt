@@ -4847,3 +4847,11 @@ That's a sign.	Das ist ein Zeichen.	यह एक संकेत है।
 That's a tree.	Das ist ein Baum.	यह एक पेड़ है।
 That's better.	Das ist besser.	यह बेहतर है।
 That's broken.	Das ist kaputt.	यह टूटा हुआ है।
+That's doable.	Das ist machbar.	यह किया जा सकता है।
+That's enough.	Das reicht.	बस करो।
+That's enough. (different meaning)	Es ist genug.	इससे ज्यादा है।
+That's my boy.	Das ist mein Junge.	यह मेरा लड़का है।
+That's my car.	Das ist mein Auto.	यह मेरी गाड़ी है।
+That's my cat.	Das ist meine Katze.	यह मेरी बिल्ली है।
+That's my dad.	Das ist mein Vater.	यह मेरे पिता हैं।
+That's my dog.	Das ist mein Hund.	यह मेरा कुत्ता है।
