@@ -1369,3 +1369,12 @@ We made it.	Wir haben es geschafft.	हमने यह बनाया।
 We saw Tom.	Wir sahen Tom.	हमने टॉम को देखा।
 We saw you.	Wir haben dich gesehen.	हमने तुम्हें देखा।
 We want it.	Wir wollen es.	हमें यह चाहिए।
+We'll cook.	Wir werden kochen.	हम पकाएंगे।
+We'll help.	Wir werden helfen.	हम मदद करेंगे।
+We'll obey.	Wir werden gehorchen.	हम आज्ञा मानेंगे।
+We'll sing.	Wir werden singen.	हम गाएंगे।
+We'll wait.	Wir werden warten.	हम इंतजार करेंगे।
+We'll walk.	Wir werden gehen.	हम चलेंगे।
+We'll work.	Wir werden arbeiten.	हम काम करेंगे।
+We're back.	Wir sind zurück.	हम वापस आ गए हैं।
+We're back. - Return as in coming back	Wir kehren zurück.	हम वापस लौटते हैं।
