@@ -17833,3 +17833,11 @@ Something changed.	Etwas hat sich geändert.	कुछ बदल गया।
 Spiders spin webs.	Spinnen weben Netze.	मकड़ी जाल बुनती हैं।
 Spiders spin webs. 2	Spinnen spinnen Netze.	मकड़ी जाल बुनती हैं।
 Stay away from us.	Bleib weg von uns.	हमसे दूर रहो।
+Stay here with me.	Bleib hier bei mir.	मेरे साथ यहाँ रहो।
+Stay here with us.	Bleib hier bei uns.	हमारे साथ यहाँ रहो।
+Stay in your cars.	Bleibt in euren Autos.	अपनी कारों में रहो।
+Stay in your room.	Bleib in deinem Zimmer.	अपने कमरे में रहो।
+Stay with Tom now.	Bleib jetzt bei Tom.	अब तोम के साथ रहो।
+Stay with me here.	Bleib bei mir hier.	मेरे साथ यहाँ रहो।
+Stay with me, Tom.	Bleib bei mir, Tom.	तोम, मेरे साथ रहो।
+Stay with us, Tom.	Bleib bei uns, Tom.	हमारे साथ रहो, टॉम।

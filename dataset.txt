@@ -1,14 +1,4 @@
 
-Stay here with me.	Bleib mit mir hier.	यहां मेरे साथ रुको।
-Stay here with me.	Bleib hier bei mir!	यहां मेरे साथ रुको!
-Stay here with me.	Bleibt hier bei mir!	मेरे साथ यहाँ रहो!
-Stay here with us.	Bleib mit uns hier.	हमारे साथ यहां रहें।
-Stay in your cars.	Bleibt in euren Autos!	अपनी कारों में रहो!
-Stay in your room.	Bleib auf deinem Zimmer!	अपने कमरे में रहो!
-Stay with Tom now.	Bleib jetzt bei Tom!	अब टॉम के साथ रहो!
-Stay with me here.	Bleib mit mir hier.	यहां मेरे साथ रुको।
-Stay with me, Tom.	Bleib bei mir, Tom!	मेरे साथ रहो, टॉम!
-Stay with us, Tom.	Bleib bei uns, Tom.	हमारे साथ रहो, टॉम।
 Stealing is wrong.	Es ist falsch zu stehlen.	चोरी करना गलत है।
 Stealing is wrong.	Stehlen ist unrecht.	चोरी करना गलत है।
 Stop badgering me.	Hör auf, mich zu quälen!	मुझे यातना देना बंद करो!
