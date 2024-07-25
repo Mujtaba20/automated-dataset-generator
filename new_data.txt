@@ -2354,3 +2354,11 @@ You made it.	Du hast es geschafft.	तुमने यह बनाया।
 You must go.	Sie müssen gehen.	तुम्हें जाना होगा।
 You need it.	Sie brauchen es.	तुम्हारे पास यह चाहिए।
 You need me.	Sie brauchen mich.	तुम्हें मुझसे मिलना चाहिए।
+You need us.	Du brauchst uns.	तुम्हें हमारी जरुरत है।
+You said it!	Du hast es gesagt!	तुमने यह कहा!
+You woke me.	Du hast mich geweckt.	तुमने मुझे जगाया।
+You're back.	Du bist zurück.	तुम वापस आ गए हो।
+You're cute.	Du bist niedlich.	तुम खुबसूरत हो।
+You need us.1	Du brauchst uns.	तुम्हें हमारी जरुरत है।
+You said it!1	Du hast es gesagt!	तुमने यह कहा!
+You're back.1	Du kehrst zurück.	तुम वापस आ गए हो।
