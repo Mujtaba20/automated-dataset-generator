@@ -17841,3 +17841,9 @@ Stay with Tom now.	Bleib jetzt bei Tom.	अब तोम के साथ रह
 Stay with me here.	Bleib bei mir hier.	मेरे साथ यहाँ रहो।
 Stay with me, Tom.	Bleib bei mir, Tom.	तोम, मेरे साथ रहो।
 Stay with us, Tom.	Bleib bei uns, Tom.	हमारे साथ रहो, टॉम।
+Stealing is wrong.	Stehlen ist falsch.	चोरी गलत है।
+Stop badgering me.	Hör auf, mich zu belästigen.	मुझे परेशान करना बंद करो।
+Stop being stupid.	Hör auf dumm zu sein.	बेवकूफी बंद करो।
+Stop bothering me!	Hör auf mich zu belästigen!	मुझे परेशान मत करो!
+Stop exaggerating.	Hör auf zu übertreiben.	बढ़ावा बंद करो।
+Stop following me.	Hör auf, mir zu folgen.	मेरा पीछा करना बंद करो।
