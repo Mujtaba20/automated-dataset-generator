@@ -2553,3 +2553,12 @@ He dozed off.	Er ist eingeschlafen.	उसने नींद में पड�
 He dumped me.	Er hat mich abgeladen.	उसने मुझे खेला।
 He got angry.	Er wurde wütend.	वह गुस्से में आ गया।
 He had a dog.	Er hatte einen Hund.	उसके पास एक कुत्ता था।
+He has a car.	Er hat ein Auto.	उसके पास एक कार है।
+He has a dog.	Er hat einen Hund.	उसके पास एक कुत्ता है।
+He has money.	Er hat Geld.	उसके पास पैसा है।
+He hates her.	Er hasst sie.	उसे उससे नफरत है।
+He helps her.	Er hilft ihr.	वह उसकी मदद करता है।
+He is a poet.	Er ist ein Dichter.	वह कवि है।
+He is asleep.	Er schläft.	वह सो रहा है।
+He is chubby.	Er ist mollig.	वह मोटा है।
+He is cranky.	Er ist launisch.	वह तंग आ गया है।
