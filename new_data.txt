@@ -20285,3 +20285,9 @@ Are you ready, Tom?	Bist du bereit, Tom?	क्या तुम तैयार 
 Are you really Tom?	Bist du wirklich Tom?	क्या आप वास्तव में टॉम हैं?
 Are you scared now?	Hast du jetzt Angst?	क्या आप अब डर रहे हैं?
 Are you sick of me?	Hast du genug von mir?	क्या तुम मुझसे ऊंघ गए हो?
+Are you still busy?	Bist du noch immer beschäftigt?	क्या तुम अभी भी व्यस्त हो?
+Are you still here?	Sind Sie noch hier?	क्या तुम अभी भी यहाँ हो?
+Are you sure of it?	Bist du dir sicher?	क्या आप इसे निश्चित हैं?
+Are you there, Tom?	Bist du da, Tom?	तुम वहाँ हो, टॉम?
+Are you using that?	Benutzt du das?	क्या तुम उसका इस्तेमाल कर रहे हो?
+Are you vegetarian?	Bist du Vegetarierin?	क्या तुम शाकाहारी हो?
