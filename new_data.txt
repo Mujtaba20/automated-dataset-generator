@@ -12215,3 +12215,13 @@ I am truly sorry.	Es tut mir wirklich leid.	मैं सचमुच खेद 
 I am very hungry.	Ich bin sehr hungrig.	मुझे बहुत भूख लगी है।
 I am your father.	Ich bin dein Vater.	मैं तुम्हारे पिता हूँ।
 I ate the cheese.	Ich habe den Käse gegessen.	मैंने पनीर खा लिया।
+I began the book.	Ich begann das Buch.	मैंने किताब शुरू की।
+I began to sweat.	Ich begann zu schwitzen.	मैं पसीना छोड़ने लगा।
+I believe in God.	Ich glaube an Gott.	मैं भगवान में विश्वास करता हूँ।
+I believe in Tom.	Ich glaube an Tom.	मैं टॉम पर विश्वास करता हूँ।
+I believe in him.	Ich glaube an ihn.	मैं उसपर विश्वास करता हूँ।
+I believe in you.	Ich glaube an dich.	मैं तुम पर विश्वास करता हूँ।
+I bet Tom forgot.	Ich wette Tom hat vergessen.	मैं टॉम भूल गया है की तुमने पर ठीक स्टाव।
+I bet it was Tom.	Ich wette es war Tom.	मैं बहुत अच्छी बात है टॉम पर जो उपेक्षा है।
+I bike to school.	Ich fahre mit dem Fahrrad zur Schule.	मैं स्कूल जाने के लिए साइकिल चलाता हूँ।
+I bought a house.	Ich habe ein Haus gekauft.	मैंने एक घर खरीदा।
