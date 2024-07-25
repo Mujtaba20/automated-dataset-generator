@@ -15672,3 +15672,11 @@ Did Tom look busy?	Sah Tom beschäftigt aus?	क्या टॉम व्यस
 Did Tom mean that?	Meinte Tom das?	क्या टॉमने इसका मतलब यह था?
 Did Tom need help?	Brauchte Tom Hilfe?	क्या टॉम को मदद की जरुरत थी?
 Did Tom oversleep?	Hat Tom verschlafen?	क्या टॉमको ज्यादा सोना हो गया था?
+Did Tom say where?	Hat Tom gesagt wo?	क्या टॉमने बताया कहाँ?
+Did Tom seem busy?	Schien Tom beschäftigt?	क्या टॉम व्यस्त लग रहा था?
+Did Tom stay long?	Ist Tom lange geblieben?	क्या टॉमने लंबे समय तक ठहरा?
+Did Tom surrender?	Hat Tom aufgegeben?	क्या टॉमने आत्मसमर्पण किया?
+Did Tom win again?	Hat Tom wieder gewonnen?	क्या टॉमने फिर से जीत हासिल की?
+Did he fail again?	Ist er wieder gescheitert?	क्या वह फिर से विफल हुआ?
+Did they fire you?	Haben sie dich gefeuert?	क्या उन्होंने तुम्हें नौकरी से निकाल दिया है?
+Did you buy juice?	Hast du Saft gekauft?	क्या तुमने रस खरीदा है?
