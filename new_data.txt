@@ -1555,3 +1555,12 @@ He's loaded.	Er ist beladen.	वह भारी है।
 He's my age.	Er ist in meinem Alter.	वह मेरी उम्र का है।
 He's my dad.	Er ist mein Vater.	वह मेरे पिताजी हैं।
 He's not in.	Er ist nicht erreichbar.	वह उपलब्ध नहीं है।
+He's strong.	Er ist stark.	वह मजबूत है।
+He's wasted.	Er ist verschwendet.	वह बर्बाद है।
+He's wasted. (Different meaning)	Er ist verschwendet.	उसने व्यय किया है।
+Hello again.	Hallo wieder.	फिर से नमस्ते।
+Here I come.	Hier komme ich.	यहाँ आता हूँ।
+Here she is!	Da ist sie!	यहाँ वह है!
+Here we are!	Hier sind wir!	यहाँ हम हैं!
+Here we are.	Hier sind wir.	यहाँ हम हैं।
+Here, catch!	Hier, fang!	यहाँ, पकड़ लो!
