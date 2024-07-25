@@ -6246,3 +6246,12 @@ I saw the news.	Ich habe die Nachrichten gesehen.	मैंने खबरे�
 I saw them all.	Ich habe sie alle gesehen.	मैंने सभी को देखा।
 I see the book.	Ich sehe das Buch.	मैं किताब देखता हूँ।
 I sell flowers.	Ich verkaufe Blumen.	मैं फूल बेचता हूँ।
+I serve no one.	Ich diene niemandem.	मैं किसी की सेवा नहीं करता।
+I smell coffee.	Ich rieche Kaffee.	मैं कॉफी महसूस करता हूँ।
+I sneeze a lot.	Ich niese viel.	मैं बहुत ज्यादा छींकता हूँ।
+I speak French.	Ich spreche Französisch.	मैं फ्रेंच बोलता हूँ।
+I study French.	Ich studiere Französisch.	मैं फ्रेंच पढ़ता हूँ।
+I study Korean.	Ich studiere Koreanisch.	मैं कोरियाई पढ़ता हूँ।
+I study abroad.	Ich studiere im Ausland.	मैं विदेश में पढ़ाई करता हूँ।
+I sure am cold.	Mir ist echt kalt.	मुझे सचमुच ठंड लग रही है।
+I take it back.	Ich nehme es zurück.	मैं इसे वापस लेता हूँ।
