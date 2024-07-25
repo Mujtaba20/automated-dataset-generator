@@ -14594,3 +14594,13 @@ Tom says he's OK.	Tom sagt, dass es ihm gut geht.	टॉम कहता है 
 Tom says it's OK.	Tom sagt, dass es in Ordnung ist.	टॉम कहता है कि सब ठीक है।
 Tom scolded Mary.	Tom hat Mary geschimpft.	टॉम ने मेरी को डाँटा।
 Tom scored twice.	Tom hat zweimal getroffen.	टॉम ने दो बार गोल किया।
+Tom seemed angry.	Tom schien wütend zu sein.	टॉम क्रोधित लग रहा था।
+Tom seemed bored.	Tom schien gelangweilt zu sein.	टॉम उबाया हुआ लग रहा था।
+Tom seemed bossy.	Tom schien herrisch zu sein.	टॉम दबंग लग रहा था।
+Tom seemed bossy. - Different Meaning	Tom schien dominant zu sein.	टॉम पहलूदार लग रहा था।
+Tom seemed dazed.	Tom schien benommen zu sein.	टॉम अँधेरे में लग रहा था।
+Tom seemed drunk.	Tom schien betrunken zu sein.	टॉम मतवाला लग रहा था।
+Tom seemed happy.	Tom schien glücklich zu sein.	टॉम खुश लग रहा था।
+Tom seemed lucky.	Tom schien glücklich zu sein.	टॉम भाग्यशाली लग रहा था।
+Tom seemed moody.	Tom schien launisch zu sein.	टॉम उदास लग रहा था।
+Tom seemed naive.	Tom schien naiv zu sein.	टॉम भोला लग रहा था।
