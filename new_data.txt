@@ -5645,3 +5645,9 @@ Do we have one?	Haben wir einen?	हमें एक है?
 Do we know you?	Kennen wir dich?	क्या हम तुम्हें जानते हैं?
 Do you deny it?	Leugnest du es?	क्या आप इसे इनकार करते हैं?
 Do you do yoga?	Machst du Yoga?	क्या आप योग करते हैं?
+Do you hate me?	Hasst du mich?	क्या आप मुझसे नफरत करते हैं?
+Do you have it?	Besitzen Sie es?	क्या आपके पास है?
+Do you hear me?	Hörst du mich?	क्या तुम मुझे सुनते हो?
+Do you know it?	Weißt du es?	क्या तुम्हें पता है?
+Do you know me?	Kennst du mich?	क्या तुम मुझे जानते हो?
+Do you know us?	Kennen Sie uns?	क्या आप हमें जानते हैं?
