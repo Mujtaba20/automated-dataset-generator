@@ -3603,3 +3603,10 @@ We're trying.	Wir versuchen.	हम कोशिश कर रहे हैं�
 Welcome back.	Willkommen zurück.	वापस स्वागत है।
 Welcome home.	Willkommen zu Hause.	घर में स्वागत है।
 Were you bit?	Wurdest du gebissen?	क्या आपको काट लिया गया था?
+What a loser!	Was für ein Verlierer!	हारने वाला क्या!
+What a night!	Was für eine Nacht!	क्या रात है!
+What a shame!	Was für eine Schande!	क्या शर्म है!
+What a woman!	Was für eine Frau!	कौन सी महिला!
+What is love?	Was ist Liebe?	प्यार क्या है?
+What is that?	Was ist das?	वह क्या है?
+What is this?	Was ist das?	यह क्या है?
