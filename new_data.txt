@@ -6840,3 +6840,9 @@ Save me a seat.	Sichere mir einen Platz.	मेरे लिए एक सीट
 Say that again.	Sage das noch einmal.	वह फिर से कहें।
 School is over.	Die Schule ist vorbei.	स्कूल खत्म हो गया है।
 Science is fun.	Wissenschaft macht Spaß.	विज्ञान मजेदार है।
+Seals eat fish.	Seehunde essen Fisch.	सील्स मछली कहा खाते हैं।
+Send Tom to me.	Schicke Tom zu mir.	मुझे टॉम भेजो।
+Shall we begin?	Wollen wir beginnen?	हम आरंभ करें?
+Shall we dance?	Sollen wir tanzen?	क्या हम नृत्य करें?
+Shall we order?	Sollen wir bestellen?	क्या हम ऑर्डर करें?
+Shall we start?	Sollen wir starten?	क्या हम शुरू करें?
