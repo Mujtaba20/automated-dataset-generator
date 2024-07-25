@@ -9137,3 +9137,13 @@ I work at a bar.	Ich arbeite in einer Bar.	मैं बार में का�
 I work here now.	Ich arbeite jetzt hier.	मैं अब यहाँ काम करता हूं।
 I work too much.	Ich arbeite zu viel.	मैं बहुत ज्यादा काम करता हूं।
 I wrote it down.	Ich habe es niedergeschrieben.	मैंने इसे नीचे लिख दिया।
+I'd do it again.	Ich würde es wieder tun.	मैं फिर से यह करूंगा।
+I'd like a beer.	Ich hätte gerne ein Bier.	मुझे एक बियर पसंद है।
+I'd like a book.	Ich hätte gerne ein Buch.	मुझे एक किताब चाहिए।
+I'd like a fork.	Ich hätte gerne eine Gabel.	मुझे एक काँटा चाहिए।
+I'd like a soda.	Ich hätte gerne eine Limonade.	मुझे एक सोडा चाहिए।
+I'd like to pay.	Ich möchte bezahlen.	मैं भुगतान करना चाहूँगा।
+I'd like to try.	Ich würde es gerne versuchen.	मैं कोशिश करना चाहूँगा।
+I'd never do it.	Ich würde es nie tun.	मैं कभी नहीं करूँगा।
+I'd rather stay.	Ich würde lieber bleiben.	मैं ठहरना पसंद करूँगा।
+I'll allow this.	Ich werde dies erlauben.	मैं इसे अनुमति दूंगा।
