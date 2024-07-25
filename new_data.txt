@@ -15850,3 +15850,9 @@ Everyone is happy.	Alle sind glücklich.	सभी खुश हैं।
 Everyone is ready.	Jeder ist bereit.	सभी तैयार हैं।
 Everyone is tired.	Alle sind müde.	सभी थक गए हैं।
 Everyone knew Tom.	Jeder kannte Tom.	सभी तोम को जानते थे।
+Everyone knows me.	Jeder kennt mich.	सभी मुझे जानते हैं।
+Everyone knows us.	Alle kennen uns.	सभी हमें जानते हैं।
+Everyone likes me.	Alle mögen mich.	सभी मुझसे पसंद करते हैं।
+Everyone must die.	Jeder muss sterben.	सभी को मरना है।
+Everyone sat down.	Alle setzten sich.	सभी बैठ गए।
+Everyone screamed.	Alle schrien.	सभी चिल्लाए।
