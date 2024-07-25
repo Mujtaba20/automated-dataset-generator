@@ -8504,3 +8504,12 @@ He is very tall.	Er ist sehr groß.	वह बहुत लम्बा है�
 He is well paid.	Er wird gut bezahlt.	उसे अच्छा वेतन मिलता है।
 He just arrived.	Er ist gerade angekommen.	वह अभी आया है।
 He kept singing.	Er sang weiter.	उसने गाना जारी रखा।
+He kept talking.	Er sprach weiter.	उसने बात करना जारी रखा।
+He likes soccer.	Er mag Fußball.	उसे फुटबॉल पसंद है।
+He likes sweets.	Er mag Süßigkeiten.	उसे मिठाई पसंद है।
+He likes tigers.	Er mag Tiger.	उसे बाघ पसंद हैं।
+He likes to run.	Er läuft gerne.	उसे दौड़ना पसंद है।
+He looked about.	Er schaute umher.	उसने चक्कर मारा।
+He looked young.	Er sah jung aus.	उसने जवान दिखा।
+He looks strong.	Er sieht stark aus.	वह मजबूत दिखता है।
+He lost his job.	Er verlor seinen Job.	उसने अपनी नौकरी खो दी।
