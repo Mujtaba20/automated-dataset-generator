@@ -10154,3 +10154,13 @@ Tom ate quickly.	Tom hat schnell gegessen.	टॉम ने जल्दी स�
 Tom ate quietly.	Tom hat leise gegessen.	टॉम ने शांति से खाया।
 Tom attacked me.	Tom griff mich an.	टॉम ने मुझपर हमला किया।
 Tom backed away.	Tom ist zurückgewichen.	टॉम पीछे हट गया।
+Tom baked a pie.	Tom backte einen Kuchen.	टॉम ने एक पाई पकाई।
+Tom baked bread.	Tom backte Brot.	टॉम ने रोटी पकाई।
+Tom became calm.	Tom wurde ruhig.	टॉम शांत हो गया।
+Tom became mute.	Tom wurde stumm.	टॉम गूंगा हो गया।
+Tom became rich.	Tom wurde reich.	टॉम धनवान हो गया।
+Tom became weak.	Tom wurde schwach.	टॉम कमजोर हो गया।
+Tom believed it.	Tom glaubte es.	टॉम इसे माना।
+Tom believed me.	Tom glaubte mir.	टॉम मुझ पर विश्वास किया।
+Tom believes it.	Tom glaubt es.	टॉम इसे मानता है।
+Tom believes me.	Tom glaubt mir.	टॉम मुझपर विश्वास करता है।
