@@ -6648,3 +6648,13 @@ It's so boring.	Es ist so langweilig.	यह इतना उबाऊ है।
 It's so simple.	Es ist so einfach.	यह इतना सरल है।
 It's so unfair.	Es ist so unfair.	यह इतना अन्यायपूर्ण है।
 It's so unfair. - different meaning	Es ist so ungerecht.	यह इतना न्यायसंगत नहीं है।
+It's the truth.	Es ist die Wahrheit.	यह सच है।
+It's their job.	Es ist ihre Aufgabe.	यह उनका काम है।
+It's there now.	Es ist jetzt da.	यह अब वहाँ है।
+It's this book.	Es ist dieses Buch.	यह किताब है।
+It's too large.	Es ist zu groß.	यह बहुत बड़ा है।
+It's too quiet.	Es ist zu leise.	यह बहुत शांत है।
+It's too risky.	Es ist zu riskant.	यह बहुत जोखिमपूर्ण है।
+It's too short.	Es ist zu kurz.	यह बहुत छोटा है।
+It's too small.	Es ist zu klein.	यह बहुत छोटा है।
+It's too tight.	Es ist zu eng.	यह बहुत टाइट है।
