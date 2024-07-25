@@ -16353,3 +16353,11 @@ I deserved better.	Ich habe Besseres verdient.	मुझे बेहतर ह�
 I did Tom a favor.	Ich habe Tom einen Gefallen getan.	मैंने टॉम के लिए एक उपकार किया।
 I did it for them.	Ich habe es für sie getan.	मैंने उनके लिए किया था।
 I didn't break it.	Ich habe es nicht zerbrochen.	मैं इसे तोड़ा नहीं।
+I didn't call 911.	Ich habe nicht 911 angerufen.	मैंने 911 नहीं बुलाया।
+I didn't eat rice.	Ich habe keinen Reis gegessen.	मैंने चावल नहीं खाया।
+I didn't even ask.	Ich habe nicht einmal gefragt.	मैंने तक नहीं पूछा।
+I didn't get much.	Ich bekam nicht viel.	मुझे बहुत कुछ नहीं मिला।
+I didn't graduate.	Ich habe nicht abgeschlossen.	मैंने स्नातक नहीं किया।
+I didn't hear Tom.	Ich habe Tom nicht gehört.	मैंने टॉम को नहीं सुना।
+I didn't hear you.	Ich habe dich nicht gehört.	मैंने तुम्हें नहीं सुना।
+I didn't help Tom.	Ich habe Tom nicht geholfen.	मैंने टॉम की मदद नहीं की।
