@@ -11017,3 +11017,13 @@ We are a family.	Wir sind eine Familie.	हम एक परिवार है�
 We are brothers.	Wir sind Brüder.	हम भाई हैं।
 We are his sons.	Wir sind seine Söhne.	हम उसके बेटे हैं।
 We are students.	Wir sind Schüler.	हम छात्र हैं।
+We are with you.	Wir sind bei dir.	हम तुम्हारे साथ हैं।
+We aren't alone.	Wir sind nicht allein.	हम अकेले नहीं हैं।
+We aren't going.	Wir gehen nicht.	हम नहीं जा रहे हैं।
+We arrested Tom.	Wir haben Tom verhaftet.	हमने टॉम को गिरफ्तार किया।
+We arrested Tom. (Different Meaning)	Wir haben Tom festgenommen.	हमने टॉम को गिरफ्तार किया।
+We ate together.	Wir haben zusammen gegessen.	हमने साथ खाया।
+We believed you.	Wir haben dir geglaubt.	हम तुम्हें माना।
+We both saw you.	Wir haben dich beide gesehen.	हमने दोनों तुम्हें देखा।
+We call him Tom.	Wir nennen ihn Tom.	हम उसे टॉम कहते हैं।
+We came to play.	Wir sind zum Spielen gekommen.	हम खेलने आए थे।
