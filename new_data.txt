@@ -10015,3 +10015,12 @@ They believe it.	Sie glauben es.	वे इस पर विश्वास क�
 They can manage.	Sie können es schaffen.	वे प्रबंध कर सकते हैं।
 They caught Tom.	Sie haben Tom erwischt.	उन्होंने टॉम को पकड़ा।
 They deserve it.	Sie verdienen es.	उन्हें ये प्राप्त है।
+They didn't run.	Sie sind nicht gelaufen.	उन्होंने नहीं चला।
+They don't care.	Es ist ihnen egal.	उन्हें परवाह नहीं है।
+They don't help.	Sie helfen nicht.	वे मदद नहीं करते।
+They drove away.	Sie fuhren weg.	उन्होंने दूर गाड़ी चलाई।
+They found this.	Sie fanden das.	उन्होंने यह पाया।
+They grew angry.	Sie wurden wütend.	वे गुस्सा हो गए।
+They had a boat.	Sie hatten ein Boot.	उनके पास एक नाव थी।
+They helped Tom.	Sie halfen Tom.	उन्होंने टॉम की मदद की।
+They hugged Tom.	Sie umarmten Tom.	वे टॉम को गले लगा लिया।
