@@ -13704,3 +13704,11 @@ The baby's awake.	Das Baby ist wach.	बच्चा जागा है।
 The battery died.	Die Batterie ist leer.	बैटरी मर गई।
 The bill, please.	Die Rechnung, bitte.	कृपया बिल।
 The bird is dead.	Der Vogel ist tot.	पंछी मर गया है।
+The boat is full.	Das Boot ist voll.	नाव भरी हुई है।
+The book is here.	Das Buch ist hier.	किताब यहाँ है।
+The book is mine.	Das Buch gehört mir.	किताब मेरी है।
+The book's white.	Das Buch ist weiß.	किताब सफेद है।
+The box is empty.	Die Schachtel ist leer.	बक्सा खाली है।
+The box is heavy.	Die Schachtel ist schwer.	बक्सा भारी है।
+The boy ran away.	Der Junge ist weggelaufen.	लड़का भाग गया।
+The car is ready.	Das Auto ist bereit.	कार तैयार है।
