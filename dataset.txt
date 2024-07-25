@@ -1,14 +1,4 @@
 
-Tom has come home.	Tom ist nach Hause gekommen.	टॉम घर आया।
-Tom has confessed.	Tom hat gebeichtet.	टॉम ने कबूल किया।
-Tom has confessed.	Tom hat gestanden.	टॉम ने कबूल किया।
-Tom has dark hair.	Tom hat schwarze Haare.	टॉम के काले बाल हैं।
-Tom has dark hair.	Tom hat dunkles Haar.	टॉम के काले बाल हैं।
-Tom has dark skin.	Tom hat eine dunkle Hautfarbe.	टॉम में गहरे रंग की त्वचा का रंग होता है।
-Tom has done that.	Tom hat das getan.	टॉम ने ऐसा किया।
-Tom has done that.	Tom hat das gemacht.	टॉम ने ऐसा किया।
-Tom has done this.	Tom hat das getan.	टॉम ने ऐसा किया।
-Tom has flat feet.	Tom hat Plattfüße.	टॉम के फ्लैट पैर हैं।
 Tom has gone AWOL.	Tom fehlt unentschuldigt.	टॉम में अस्पष्ट कमी है।
 Tom has gone home.	Tom ist nach Hause gegangen.	टॉम घर गया।
 Tom has got to go.	Tom muss gehen.	टॉम को जाना है।

@@ -18520,3 +18520,10 @@ Tom has been hurt.	Tom wurde verletzt.	टॉम को चोट आई है�
 Tom has been shot.	Tom wurde angeschossen.	टॉम को गोली मार दी गई है।
 Tom has big hands.	Tom hat große Hände.	टॉम के हाथ बड़े हैं।
 Tom has blue eyes.	Tom hat blaue Augen.	टॉम की आँखें नीली हैं।
+Tom has come home.	Tom ist nach Hause gekommen.	टॉम घर आ गया है।
+Tom has confessed.	Tom hat gebeichtet.	टॉम ने स्वीकार किया है।
+Tom has dark hair.	Tom hat dunkle Haare.	टॉम के बाल काले हैं।
+Tom has dark skin.	Tom hat dunkle Haut.	टॉम की त्वचा गहरी है।
+Tom has done that.	Tom hat das getan.	टॉम ने वह किया है।
+Tom has done this.	Tom hat das gemacht.	टॉमने यह किया है।
+Tom has flat feet.	Tom hat flache Füße.	टॉम के सीधे पैर हैं।
