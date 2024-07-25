@@ -330,3 +330,10 @@ I waited.	Ich habe gewartet.	मैंने इंतजार किया।
 I winked.	Ich zwinkerte.	मैंने आँख मारी।
 I yawned.	Ich gähnte.	मैंने ऊँघ भरी।
 I'll pay.	Ich werde bezahlen.	मैं चुकाऊंगा।
+I'll try.	Ich werde es versuchen.	मैं कोशिश करूँगा।
+I'm a DJ.	Ich bin ein DJ.	मैं एक डीजे हूँ।
+I'm back.	Ich bin zurück.	मैं वापस हूँ।
+I'm bald.	Ich bin kahl.	मैं गंजा हूँ।
+I'm busy.	Ich bin beschäftigt.	मैं व्यस्त हूँ।
+I'm cool.	Ich bin cool.	मैं ठंडा हूँ।
+I'm deaf.	Ich bin taub.	मैं बहरा हूँ।
