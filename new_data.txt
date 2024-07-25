@@ -5038,3 +5038,9 @@ Tom is filthy.	Tom ist schmutzig.	टॉम गंदा है।
 Tom is frugal.	Tom ist sparsam.	टॉम किफायती है।
 Tom is heroic.	Tom ist heldenhaft.	टॉम वीर चरित्र है।
 Tom is hiding.	Tom versteckt sich.	टॉम छिपा हुआ है।
+Tom is honest.	Tom ist ehrlich.	टॉम ईमानदार है।
+Tom is joking.	Tom macht Witze.	टॉम मजाक कर रहा है।
+Tom is lonely.	Tom ist einsam.	टॉम अकेला है।
+Tom is losing.	Tom verliert.	टॉम हार रहा है।
+Tom is loving.	Tom liebt.	टॉम प्यार कर रहा है।
+Tom is my boy.	Tom ist mein Junge.	टॉम मेरा बच्चा है।
