@@ -14346,3 +14346,12 @@ Tom is very slow.	Tom ist sehr langsam.	टॉम बहुत धीरे ह�
 Tom is very tall.	Tom ist sehr groß.	टॉम बहुत लंबा है।
 Tom is very thin.	Tom ist sehr dünn.	टॉम बहुत पतला है।
 Tom is very wise.	Tom ist sehr weise.	टॉम बहुत बुद्धिमान है।
+Tom is waking up.	Tom wird munter.	टॉम जाग रहा है।
+Tom is weakening.	Tom wird schwächer.	टॉम कमजोर हो रहा है।
+Tom is well paid.	Tom wird gut bezahlt.	टॉम को अच्छा भुगतान मिल रहा है।
+Tom is whistling.	Tom pfeift.	टॉम सीटी बजा रहा है।
+Tom is with Mary.	Tom ist mit Mary.	टॉम मैरी के साथ है।
+Tom is wonderful.	Tom ist wunderbar.	टॉम बहुत शानदार है।
+Tom isn't Jewish.	Tom ist nicht jüdisch.	टॉम यहूदी नहीं है।
+Tom isn't a chef.	Tom ist kein Koch.	टॉम एक शेफ नहीं है।
+Tom isn't a fool.	Tom ist kein Narr.	टॉम एक मूर्ख नहीं है।
