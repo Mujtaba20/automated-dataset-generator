@@ -16283,3 +16283,10 @@ I brought cookies.	Ich habe Kekse gebracht.	मैंने कुकीज़ �
 I brought flowers.	Ich habe Blumen mitgebracht.	मैंने फूल लाए।
 I brushed my hair.	Ich habe mir die Haare gebürstet.	मैंने अपने बाल साफ किए।
 I burned the cake.	Ich habe den Kuchen verbrannt.	मैंने केक जला दिया।
+I called for help.	Ich rief um Hilfe an.	मैंने मदद के लिए बुलाया।
+I called security.	Ich rief Sicherheit an.	मैंने सुरक्षा को बुलाया।
+I came here alone.	Ich kam alleine hierher.	मैं यहाँ अकेला आया।
+I came to see you.	Ich kam, um dich zu sehen.	मैं तुम्हें देखने आया।
+I can accept that.	Ich kann das akzeptieren.	मैं वह स्वीकार कर सकता हूँ।
+I can barely walk.	Ich kann kaum gehen.	मैं मुश्किल से चल सकता हूँ।
+I can comfort her.	Ich kann sie trösten.	मैं उसे सांत्वना दे सकता हूँ।
