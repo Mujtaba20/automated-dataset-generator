@@ -12183,3 +12183,12 @@ I agree with him.	Ich stimme ihm zu.	मैं उसके साथ सहम�
 I agree with you.	Ich stimme dir zu.	मैं तुम्हारे साथ सहमत हूँ।
 I almost drowned.	Ich wäre fast ertrunken.	मैं लगभग डूब गया था।
 I almost fainted.	Ich wäre fast in Ohnmacht gefallen.	मैं लगभग बेहोश हो गया था।
+I almost gave up.	Ich habe fast aufgegeben.	मैंने लगभग हार मान ली थी।
+I almost hit Tom.	Ich hätte Tom fast getroffen.	मैंने लगभग टॉम को मार दिया।
+I also like cake.	Ich mag auch Kuchen.	मुझे केक भी पसंद है।
+I always do that.	Ich mache das immer.	मैं हमेशा ऐसा ही करता हूँ।
+I always do this.	Das mache ich immer.	मैं हमेशा यह करता हूँ।
+I always eat out.	Ich esse immer außerhalb.	मैं हमेशा बाहर खाता हूँ।
+I always said no.	Ich habe immer nein gesagt.	मैंने हमेशा ना कहा।
+I am a bit crazy.	Ich bin ein bisschen verrückt.	मैं थोड़ा पागल हूँ।
+I am a bit drunk.	Ich bin ein bisschen betrunken.	मैं थोड़ा पिया हुआ हूँ।
