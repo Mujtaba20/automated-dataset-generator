@@ -18865,3 +18865,13 @@ Tom isn't worried.	Tom ist nicht besorgt.	टॉम चिंतित नही
 Tom just got home.	Tom ist gerade nach Hause gekommen.	टॉम अभी घर पहुंचा है।
 Tom just listened.	Tom hat gerade zugehört.	टॉम ने सुना है।
 Tom just proposed.	Tom hat gerade einen Antrag gemacht.	टॉम ने अभी सिफारिश की है।
+Tom just shrugged.	Tom zuckte einfach mit den Schultern.	टॉम बस मुंह फेर दिया।
+Tom just took off.	Tom ist einfach abgehauen.	टॉम ने बस उड़ान भर लिया।
+Tom keeps a diary.	Tom führt ein Tagebuch.	टॉम एक डायरी रखता है।
+Tom keeps secrets.	Tom bewahrt Geheimnisse.	टॉम रहस्य रखता है।
+Tom kept cleaning.	Tom hat weiter geputzt.	टॉम ने साफ़ सफाई की रखी।
+Tom kept climbing.	Tom kletterte weiter.	टॉम ने चढ़ाई करते रहे।
+Tom kept coughing.	Tom hustete immer wieder.	टॉम ने किसी ना किसी बीमारी से थप्पड़ खा ली।
+Tom kept crawling.	Tom krabbelte weiter.	टॉम नीचे रहते रहे।
+Tom kept fighting.	Tom kämpfte weiter.	टॉम लड़ाई करते रहे।
+Tom kept his cool.	Tom bewahrte die Ruhe.	टॉम शांत बने रहे।
