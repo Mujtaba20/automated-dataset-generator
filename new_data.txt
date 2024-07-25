@@ -10500,3 +10500,12 @@ Tom is terrible.	Tom ist schrecklich.	टॉम भयानक है।
 Tom is terrific.	Tom ist fantastisch.	टॉम शानदार है।
 Tom is thinking.	Tom denkt nach.	टॉम सोच रहा है।
 Tom is thirteen.	Tom ist dreizehn.	टॉम तेरह साल का है।
+Tom is thorough.	Tom ist gründlich.	टॉम संपूर्ण है।
+Tom is thrilled.	Tom ist begeistert.	टॉम उत्साहित है।
+Tom is ticklish.	Tom kitzelt.	टॉम असहज है।
+Tom is tireless.	Tom ist unermüdlich.	टॉम अथक है।
+Tom is tolerant.	Tom ist tolerant.	टॉम प्रभावशील है।
+Tom is too busy.	Tom ist zu beschäftigt.	टॉम बहुत व्यस्त है।
+Tom is too loud.	Tom ist zu laut.	टॉम ज्यादा शोर मचाता है।
+Tom is training.	Tom wird trainiert.	टॉम प्रशिक्षण दे रहा है।
+Tom is troubled.	Tom ist beunruhigt.	टॉम परेशान है।
