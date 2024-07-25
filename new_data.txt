@@ -19750,3 +19750,11 @@ What is your name?	Wie ist Ihr Name?	आपका नाम क्या है?
 What is your name? (different meaning)	Wie heißen Sie?	आप क्या कर रहे हैं?
 What should I buy?	Was soll ich kaufen?	मैं क्या खरीदूँ?
 What should I say?	Was soll ich sagen?	मैं क्या कहूँ?
+What stop is this?	An welcher Haltestelle ist das?	यह कौन सी स्थानक है?
+What was I saying?	Was habe ich gesagt?	मैं क्या कह रहा था?
+What was Tom like?	Wie war Tom?	टॉम कैसा था?
+What was he up to?	Was hat er vor?	वह क्या कर रहा था?
+What will Tom say?	Was wird Tom sagen?	टॉम क्या कहेगा?
+What will they do?	Was werden sie tun?	वे क्या करेंगे?
+What would happen?	Was würde passieren?	क्या होगा?
+What year is this?	Welches Jahr ist es?	यह किस साल की है?
