@@ -9574,3 +9574,8 @@ It's very windy.	Es ist sehr windig.	यह बहुत हवादार ह�
 It's warm today.	Es ist heute warm.	आज गर्मी है।
 It's your fault.	Es ist deine Schuld.	यह तुम्हारी ग़लती है।
 It's your money.	Es ist dein Geld.	यह तुम्हारे पैसे हैं।
+Jesus loves you.	Jesus liebt dich.	यीशु तुम्हें प्यार करता है।
+Just be careful.	Sei einfach vorsichtig.	सिर्फ सावधान रहें।
+Just follow Tom.	Folgen Sie einfach Tom.	बस टॉम का पालन करो।
+Just ignore Tom.	Einfach Tom ignorieren.	बस टॉम को नज़रअंदाज करें।
+Just let Tom go.	Lass Tom einfach gehen.	बस टॉम को जाने दो।
