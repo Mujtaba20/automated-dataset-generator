@@ -6807,3 +6807,13 @@ Open the doors.	Öffne die Türen.	दरवाजे खोलो।
 Open this door.	Öffnen Sie diese Tür.	इस दरवाजे को खोलो।
 Open your eyes.	Öffne deine Augen.	अपनी आंखें खोलो।
 Open your eyes.1	Mach deine Augen auf.	तुम्हारी आंखें खोलो।
+Open your hand.	Öffne deine Hand.	अपना हाथ खोलो।
+Pack your gear.	Packe deine Ausrüstung ein.	अपना सामान पैक करो।
+People like me.	Die Leute mögen mich.	लोगों को मुझसे प्यार है।
+Pigs can't fly.	Schweine können nicht fliegen.	सूअर उड़ नहीं सकते।
+Play us a tune.	Spiele uns eine Melodie vor.	हमें एक ट्यून बजाओ।
+Please bill me.	Bitte rechnen Sie mich ab.	कृपया मुझे बिल दिखाएं।
+Please come in.	Bitte kommen Sie herein.	कृपया अंदर आइए।
+Please do that.	Bitte tun Sie das.	वह करें।
+Please do this.	Bitte tun Sie dies.	यह करें।
+Please get Tom.	Bitte hol Tom.	कृपया टॉम को ले आओ।
