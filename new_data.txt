@@ -20000,3 +20000,13 @@ You can afford it.	Du kannst es dir leisten.	तुमसे संभव है
 You can afford it. 2	Du kannst es bezahlen.	तुम इसको खरीद सकते हो।
 You can afford it. 3	Sie können es sich leisten.	आप इसका सामना कर सकते हैं।
 You can answer it.	Du kannst es beantworten.	तुम इसका जवाब दे सकते हो।
+You can cook here.	Du kannst hier kochen.	आप यहाँ पका सकते हैं।
+You can do better.	Du kannst es besser machen.	आप और अच्छा कर सकते हैं।
+You can have this.	Du kannst das haben.	आप यह ले सकते हैं।
+You can have this. - Different Translation	Sie können dies haben.	आप इसे ले सकते हैं।
+You can park here.	Du kannst hier parken.	आप यहाँ पार्क कर सकते हैं।
+You can talk here.	Du kannst hier sprechen.	आप यहाँ बात कर सकते हैं।
+You can trust him.	Du kannst ihm vertrauen.	आप उस पर भरोसा कर सकते हैं।
+You can wait here.	Du kannst hier warten.	आप यहाँ इंतजार कर सकते हैं।
+You can wait here. - Different Translation	Sie können hier warten.	आप यहाँ ठहर सकते हैं।
+You can't beat me.	Du kannst mich nicht schlagen.	आप मुझसे हार नहीं सकते।

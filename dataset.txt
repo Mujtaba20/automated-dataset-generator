@@ -1,16 +1,4 @@
 
-You can cook here.	Hier kann man kochen.	आप यहां खाना बना सकते हैं।
-You can do better.	Das kannst du besser.	आप ऐसा बेहतर कर सकते हैं।
-You can have this.	Du kannst das hier haben.	आप यहां हो सकते हैं।
-You can have this.	Sie können das hier haben.	आप यहाँ हो सकते हैं।
-You can park here.	Du kannst hier parken.	आप यहाँ पर पार्क कर सकते है।
-You can talk here.	Du kannst hier sprechen.	आप यहां बोल सकते हैं।
-You can trust him.	Du kannst ihm vertrauen.	आप उस पर भरोसा कर सकते हैं।
-You can wait here.	Du kannst hier warten.	आप यहां इंतजार कर सकते हैं।
-You can wait here.	Sie können hier warten.	आप यहां इंतजार कर सकते हैं।
-You can't beat me.	Du kannst mich nicht schlagen.	आप मुझे हरा नहीं सकते।
-You can't beat me.	Ihr könnt mich nicht schlagen.	आप मुझे हरा नहीं सकते।
-You can't beat me.	Sie können mich nicht schlagen.	आप मुझे हरा नहीं सकते।
 You can't deny it.	Das können Sie nicht verneinen.	आप इससे इनकार नहीं कर सकते।
 You can't deny it.	Du kannst es nicht leugnen.	आप इसे अस्वीकार नहीं कर सकते।
 You can't deny it.	Ihr könnt es nicht leugnen.	आप इसे अस्वीकार नहीं कर सकते।
