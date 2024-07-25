@@ -17757,3 +17757,12 @@ She looked around.	Sie schaute sich um.	उसने आस-पास देख�
 She looked lonely.	Sie wirkte einsam.	उसने अकेली दिखाई दी।
 She looks unhappy.	Sie sieht unglücklich aus.	उसे अखण्डित लगती है।
 She loves singing.	Sie liebt es zu singen.	उसे गाने से प्यार है।
+She loves to fish.	Sie liebt es zu angeln.	उसे मछली पकड़ना पसंद है।
+She made him rich.	Sie machte ihn reich.	उसने उसे धनवान बनाया।
+She made me hurry.	Sie brachte mich in Eile.	उसने मुझे जल्दी करने के लिए कहा।
+She made me smile.	Sie brachte mich zum Lächeln.	उसने मुझे मुस्कान पसंद करने के लिए कहा।
+She married young.	Sie heiratete jung.	उसने जल्दी से शादी की।
+She may be French.	Sie könnte französisch sein.	वह फ्रांसीसी हो सकती है।
+She must be angry.	Sie muss wütend sein.	उसे गुस्सा होना चाहिए।
+She must go there.	Sie muss dorthin gehen.	वहाँ जाना चाहिए।
+She never told me.	Sie hat es mir nie gesagt.	उसने मुझे कभी नहीं बताया।
