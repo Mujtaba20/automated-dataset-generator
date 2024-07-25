@@ -10771,3 +10771,12 @@ Tom sympathized.	Tom zeigte Mitgefühl.	टॉम सहानभूति द�
 Tom talks a lot.	Tom redet viel.	टॉम बहुत बोलता है।
 Tom talks funny.	Tom redet lustig.	टॉम मजाकिया बातें करता है।
 Tom talks tough.	Tom redet hart.	टॉम खड़ी सुनता है।
+Tom teased Mary.	Tom neckte Mary.	टॉम ने मेरी को चिढ़ाया।
+Tom texted Mary.	Tom schrieb Mary eine Nachricht.	टॉम ने मेरी को मैसेज किया।
+Tom told a joke.	Tom erzählte einen Witz.	टॉम ने मजाक सुनाया।
+Tom told us why.	Tom erzählte uns warum.	टॉम ने हमें क्यों बताया।
+Tom took a bath.	Tom nahm ein Bad.	टॉम ने स्नान किया।
+Tom took a walk.	Tom machte einen Spaziergang.	टॉम ने एक सैर की।
+Tom took my car.	Tom nahm mein Auto.	टॉम ने मेरी कार ली।
+Tom took photos.	Tom machte Fotos.	टॉम ने फोटो खींची।
+Tom trains dogs.	Tom trainiert Hunde.	टॉम कुत्तों की प्रशिक्षण देता है।
