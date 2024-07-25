@@ -14329,3 +14329,10 @@ Tom is unrelated.	Tom ist nicht verwandt.	टॉम संबंधित नह
 Tom is unsettled.	Tom ist unruhig.	टॉम बेचैन है।
 Tom is using you.	Tom benutzt dich.	टॉम तुम्हें इस्तेमाल कर रहा है।
 Tom is very busy.	Tom ist sehr beschäftigt.	टॉम बहुत व्यस्त है।
+Tom is very calm.	Tom ist sehr ruhig.	टॉम बहुत शांत है।
+Tom is very cute.	Tom ist sehr niedlich.	टॉम बहुत प्यारा है।
+Tom is very fast.	Tom ist sehr schnell.	टॉम बहुत तेज़ है।
+Tom is very good.	Tom ist sehr gut.	टॉम बहुत अच्छा है।
+Tom is very kind.	Tom ist sehr nett.	टॉम बहुत मेहरबान है।
+Tom is very neat.	Tom ist sehr ordentlich.	टॉम बहुत साफ़ सुथरा हुआ है।
+Tom is very open.	Tom ist sehr offen.	टॉम बहुत खुला है।
