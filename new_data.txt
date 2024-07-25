@@ -7789,3 +7789,11 @@ We go tomorrow.	Morgen gehen wir.	हम कल जा रहे हैं।
 We go way back.	Wir gehen schon lange zurück.	हम बहुत पुराने से हैं।
 We got dressed.	Wir haben uns angezogen.	हमने कपड़े पहन लिए।
 We got married.	Wir haben geheiratet.	हम शादी की।
+We had a blast.	Wir hatten eine tolle Zeit.	हमें मज़ा आया।
+We had a fight.	Wir hatten einen Streit.	हमें भिड़ंत हुई।
+We had to come.	Wir mussten kommen.	हमें आना पड़ा।
+We had to stop.	Wir mussten anhalten.	हमें रुकना पड़ा।
+We had to walk.	Wir mussten zu Fuß gehen.	हमें चलना पड़ा।
+We have a farm.	Wir haben einen Bauernhof.	हमारे पास एक खेत है।
+We have a plan.	Wir haben einen Plan.	हमारे पास एक योजना है।
+We have guests.	Wir haben Gäste.	हमारे मेहमान हैं।
