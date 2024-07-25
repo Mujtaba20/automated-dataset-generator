@@ -11096,3 +11096,10 @@ We'll camp here.	Wir werden hier campen.	हम यहाँ शिविर ल
 We'll catch Tom.	Wir werden Tom fangen.	हम टॉम को पकड़ेंगे।
 We'll catch you.	Wir werden dich fangen.	हम तुम्हें पकड़ेंगे।
 We'll chance it.	Wir werden es riskieren.	हम यह अवसर लेंगे।
+We'll cooperate.	Wir werden zusammenarbeiten.	हम सहयोग करेंगे।
+We'll find them.	Wir werden sie finden.	हम उन्हें ढूंढ़ लेंगे।
+We'll get there.	Wir werden es schaffen.	हम वहाँ पहुंच जाएंगे।
+We'll know soon.	Wir werden bald wissen.	हम जल्द ही जान जाएंगे।
+We'll see to it.	Wir werden dafür sorgen.	हम उस पर ध्यान देंगे।
+We'll stay here.	Wir werden hier bleiben.	हम यहाँ रुकेंगे।
+We'll take this.	Wir werden das übernehmen.	हम यह लेंगे।
