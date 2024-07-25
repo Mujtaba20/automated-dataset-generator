@@ -3300,3 +3300,13 @@ Tom broke in. - Different meaning	Tom brach herein.	टॉम ने अंद�
 Tom broke it.	Tom hat es kaputtgemacht.	टॉम ने यह तोड़ दिया।
 Tom broke it. - Different meaning	Tom hat es zerbrochen.	टॉम ने इसे तोड़ दिया।
 Tom built it.	Tom hat es gebaut.	टॉम ने यह बनाया।
+Tom can come.	Tom kann kommen.	टॉम आ सकता है।
+Tom can cook.	Tom kann kochen.	टॉम पका सकता है।
+Tom can help.	Tom kann helfen.	टॉम मदद कर सकता है।
+Tom can read.	Tom kann lesen.	टॉम पढ़ सकता है।
+Tom can swim.	Tom kann schwimmen.	टॉम तैर सकता है।
+Tom can talk.	Tom kann reden.	टॉम बोल सकता है।
+Tom can walk.	Tom kann laufen.	टॉम चल सकता है।
+Tom canceled.	Tom storniert.	टॉम कैंसिल कर दिया।
+Tom canceled. (Different Meaning)	Tom abgesagt.	टॉम रद्द कर दिया।
+Tom chuckled.	Tom kicherte.	टॉम हँस दिया।
