@@ -13039,3 +13039,10 @@ Is that possible?	Ist das möglich?	क्या यह संभव है?
 Is that possible? (different meaning)	Ist das denkbar?	क्या यह संभावित है?
 Is that suitable?	Ist das passend?	क्या वह उपयुक्त है?
 Is that the plan?	Ist das der Plan?	क्या यह योजना है?
+Is that too late?	Ist das zu spät?	क्या यह बहुत देर हो चुका है?
+Is that you, Tom?	Bist du das, Tom?	क्या यह तुम हो, टॉम?
+Is that your car?	Ist das dein Auto?	क्या यह तुम्हारी कार है?
+Is that your cat?	Ist das deine Katze?	क्या यह तुम्हारी बिल्ली है?
+Is that your dog?	Ist das dein Hund?	क्या यह तुम्हारा कुत्ता है?
+Is that your mom?	Ist das deine Mutter?	क्या यह तुम्हारी माँ है?
+Is that your son?	Ist das dein Sohn?	क्या यह तुम्हारा बेटा है?
