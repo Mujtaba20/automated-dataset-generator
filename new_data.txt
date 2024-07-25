@@ -18616,3 +18616,13 @@ Tom is an old man.	Tom ist ein alter Mann.	टॉम एक बूढ़ा आ�
 Tom is analytical.	Tom ist analytisch.	टॉम विश्लेषणात्मक है।
 Tom is articulate.	Tom ist redegewandt.	टॉम व्यक्तिगत है।
 Tom is asleep now.	Tom schläft jetzt.	टॉम अब सो रहा है।
+engSentence1	Tom ist erstaunt.	टॉम आश्चर्यचकित है।
+engSentence2	Tom ist wieder da.	टॉम फिर से वापस आ गया है।
+engSentence3	Tom ist früh zurück.	टॉम जल्दी वापस आ गया है।
+engSentence4	Tom ist schlimm verletzt.	टॉम बुरी तरah से चोट आयी है।
+engSentence5	Tom ist hinter dir.	टॉम आपके पीछे है।
+engSentence6	Tom ist hinter dir.	टॉम आपके पीछे है।
+engSentence7	Tom ist hinter dir.	टॉम आपके पीछे है।
+engSentence8	Tom ist glaubwürdig.	टॉम विश्वसनीय है।
+engSentence9	Tom ist eingebildet.	टॉम अहंकारी है।
+engSentence10	Tom ist farbenblind.	टॉम रंग को नहीं पहचान सकता।

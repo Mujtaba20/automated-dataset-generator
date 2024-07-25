@@ -1,14 +1,4 @@
 
-Tom is astonished.	Tom ist erstaunt.	टॉम चकित है।
-Tom is back again.	Tom ist wieder da.	टॉम वापस आ गया है।
-Tom is back early.	Tom ist früh wieder da.	टॉम जल्दी वापस आ गया है।
-Tom is badly hurt.	Tom ist schwer verletzt.	टॉम गंभीर रूप से घायल है।
-Tom is behind you.	Tom ist hinter dir.	टॉम आपके पीछे है।
-Tom is behind you.	Tom ist hinter euch.	टॉम आपके पीछे है।
-Tom is behind you.	Tom ist hinter Ihnen.	टॉम उनके पीछे है।
-Tom is believable.	Tom ist glaubwürdig.	टॉम विश्वसनीय है।
-Tom is big-headed.	Tom ist großkopfig.	टॉम महान है।
-Tom is colorblind.	Tom ist farbenblind.	टॉम रंग अंधा है।
 Tom is courageous.	Tom ist mutig.	टॉम बहादुर है।
 Tom is cross-eyed.	Tom schielt.	टॉम स्कोर।
 Tom is crying now.	Tom ist jetzt am Weinen.	टॉम अब रो रहा है।
