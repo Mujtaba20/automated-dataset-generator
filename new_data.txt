@@ -6908,3 +6908,10 @@ Sorry I'm late.	Entschuldigung, dass ich zu spät bin.	माफ़ कीजि
 Start counting.	Fang an zu zählen.	गिनना शुरू करो।
 Start counting. (different translation)	Beginne zu zählen.	गिनती शुरू करो।
 Stay out of it.	Bleib da raus.	इसमें न पड़ो।
+Stop gossiping.	Hör auf zu tuscheln.	बकना बंद करो।
+Stop grumbling.	Hör auf zu murren.	शिकायत करना छोड़ दो।
+Stop resisting!	Hör auf zu widerstehen!	विरोध करना बंद करो!
+Stop sniffling.	Hör auf zu schniefen.	सांस लेना बंद करो।
+Stop whistling.	Hör auf zu pfeifen.	सीटी बजाना बंद करो।
+Sugar is sweet.	Zucker ist süß.	चीनी मिठी होती है।
+Summer is over.	Sommer ist vorbei.	सर्दी आ गई है।
