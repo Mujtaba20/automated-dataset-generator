@@ -16835,3 +16835,12 @@ I stopped smoking.	Ich habe mit dem Rauchen aufgehört.	मैंने सि�
 I sure do hope so.	Ich hoffe wirklich so.	मैं वास्तव में ऐसा ही आशा करता हूं।
 I swallowed a bug.	Ich habe einen Käfer geschluckt.	मैंने एक कीड़ा निगल लिया।
 I teach geography.	Ich unterrichte Geografie.	मैं भूगोल पढ़ाता हूं।
+I think I can win.	Ich denke, ich kann gewinnen.	मुझे लगता है कि मैं जीत सकता हूँ।
+I think I like it.	Ich denke, ich mag es.	मुझे लगता है कि मुझे यह पसंद है।
+I think I'll lose.	Ich denke, ich werde verlieren.	मुझे लगता है कि मैं हार जाऊंगा।
+I think I'm crazy.	Ich denke, ich bin verrückt.	मुझे लगता है कि मैं पागल हूँ।
+I think I'm drunk.	Ich denke, ich bin betrunken.	मुझे लगता है कि मैं नशे में हूँ।
+I think I'm ready.	Ich denke, ich bin bereit.	मुझे लगता है कि मैं तैयार हूँ।
+I think I'm ready. (different meaning)	Ich denke, ich bin fertig.	मुझे लगता है कि मैं पूरा हूँ।
+I think I'm right.	Ich denke, ich habe recht.	मुझे लगता है कि मैं सही हूँ।
+I think I'm smart.	Ich denke, ich bin klug.	मुझे लगता है कि मैं समझदार हूँ।
