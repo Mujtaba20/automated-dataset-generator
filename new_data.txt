@@ -13184,3 +13184,11 @@ It's good for us.	Es ist gut für uns.	यह हमारे लिए अच�
 It's gotten dark.	Es ist dunkel geworden.	यह अंधेरा हो गया है।
 It's hard to say.	Es ist schwer zu sagen.	कहना मुश्किल है।
 It's hit or miss.	Es ist Glückssache.	यह या तो चूक या कामयाबी है।
+It's hot in here.	Es ist heiß hier.	यहाँ गरमी है।
+It's in the well.	Es ist im Brunnen.	यह कुएं में है।
+It's interesting.	Es ist interessant.	यह दिलचस्प है।
+It's just a cold.	Es ist nur eine Erkältung.	बस ठंडा है।
+It's just a game.	Es ist nur ein Spiel.	बस एक खेल है।
+It's just coffee.	Es ist nur Kaffee.	बस कॉफी है।
+It's laundry day.	Es ist Waschtag.	यह कपड़े धोने का दिन है।
+It's like a drug.	Es ist wie eine Droge.	यह एक ड्रग की तरह है।
