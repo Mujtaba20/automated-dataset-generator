@@ -4464,3 +4464,12 @@ Is Tom around?	Ist Tom hier?	क्या टॉम यहाँ है?
 Is Tom asleep?	Schläft Tom?	क्या टॉम सो रहा है?
 Is Tom coming?	Kommt Tom?	क्या टॉम आ रहा है?
 Is Tom famous?	Ist Tom berühmt?	क्या टॉम मशहूर है?
+Is Tom guilty?	Ist Tom schuldig?	क्या टॉम दोषी है?
+Is Tom hungry?	Ist Tom hungrig?	क्या टॉम भूखा है?
+Is Tom lonely?	Ist Tom einsam?	क्या टॉम अकेला है?
+Is Tom nearby?	Ist Tom in der Nähe?	क्या टॉम निकट है?
+Is Tom stupid?	Ist Tom dumm?	क्या टॉम मूर्ख है?
+Is he at home?	Ist er zu Hause?	क्या वह घर पर है?
+Is he correct?	Ist er korrekt?	क्या वह सही है?
+Is he looking?	Schaut er?	क्या वह देख रहा है?
+Is it a llama?	Ist es ein Lama?	क्या यह गुआल है?
