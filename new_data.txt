@@ -4855,3 +4855,12 @@ That's my car.	Das ist mein Auto.	यह मेरी गाड़ी है।
 That's my cat.	Das ist meine Katze.	यह मेरी बिल्ली है।
 That's my dad.	Das ist mein Vater.	यह मेरे पिता हैं।
 That's my dog.	Das ist mein Hund.	यह मेरा कुत्ता है।
+That's my job.	Das ist mein Job.	यह मेरा काम है।
+That's not OK.	Das ist nicht in Ordnung.	यह ठीक नहीं है।
+That's simple.	Das ist einfach.	यह सरल है।
+That's so sad.	Das ist so traurig.	यह इतना दुखद है।
+That's stupid.	Das ist dumm.	यह बेवकूफ है।
+That's unfair.	Das ist unfair.	यह अन्यायपूर्ण है।
+The bell rang.	Die Glocke läutete.	घंटी बजी।
+The cup broke.	Die Tasse brach.	कप टूट गया।
+The girls won.	Die Mädchen haben gewonnen.	लड़कियां जीत गईं।
