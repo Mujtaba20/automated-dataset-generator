@@ -1,15 +1,4 @@
 
-Tom probably died.	Tom ist wahrscheinlich gestorben.	टॉम शायद मर गए।
-Tom put on a coat.	Tom zog einen Mantel an.	टॉम ने एक कोट पर रखा।
-Tom ran for mayor.	Tom kandidierte als Bürgermeister.	टॉम मेयर के रूप में भाग गया।
-Tom ran for mayor.	Tom kandidierte für das Bürgermeisteramt.	टॉम मेयर के कार्यालय के लिए भाग गया।
-Tom ran for mayor.	Tom trat als Kandidat bei der Wahl zum Bürgermeister an.	टॉम ने मेयर के रूप में चुनाव में एक उम्मीदवार के रूप में प्रतिस्पर्धा की।
-Tom ran into debt.	Tom machte Schulden.	टॉम टूट गया।
-Tom ran past Mary.	Tom rannte an Mary vorbei.	टॉम मैरी से गुजरता था।
-Tom ran to school.	Tom rannte in die Schule.	टॉम स्कूल में भाग गया।
-Tom rang the bell.	Tom läutete die Glocke.	टॉम ने घंटी को हेराल्ड किया।
-Tom rarely laughs.	Tom lacht selten.	टॉम शायद ही कभी हंसता है।
-Tom rarely laughs.	Tom lacht kaum.	टॉम मुश्किल से हंसता है।
 Tom rarely smiled.	Tom lächelte nur selten.	टॉम शायद ही कभी मुस्कुराया।
 Tom rarely smiles.	Tom lächelt selten.	टॉम शायद ही कभी मुस्कुराता है।
 Tom rarely snores.	Tom schnarcht nur selten.	टॉम शायद ही कभी स्नोरस।

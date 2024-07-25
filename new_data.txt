@@ -19073,3 +19073,12 @@ Tom planted trees.	Tom hat Bäume gepflanzt.	टॉम ने पेड़ ल�
 Tom played tennis.	Tom spielte Tennis.	टॉम ने टेनिस खेला।
 Tom plays cricket.	Tom spielt Cricket.	टॉम क्रिकेट खेलता है।
 Tom poisoned Mary.	Tom hat Mary vergiftet.	टॉम ने मेरी को जहर दिया।
+Tom probably died.	Tom ist wahrscheinlich gestorben.	टॉम शायद मर गया।
+Tom put on a coat.	Tom zog einen Mantel an.	टॉम ने कोट पहना।
+Tom ran for mayor.	Tom kandidierte für den Bürgermeister.	टॉम ने मेयर के लिए दौड़ लगाई।
+Tom ran for mayor. (different meaning)	Tom rannte zum Bürgermeister.	टॉम ने मेयर के पीछे दौड़ लगाई।
+Tom ran into debt.	Tom geriet in Schulden.	टॉम कर्ज में पड़ गया।
+Tom ran past Mary.	Tom rannte an Mary vorbei.	टॉम ने मेरी के पास दौड़ा।
+Tom ran to school.	Tom rannte zur Schule.	टॉम ने स्कूल की ओर दौड़ा।
+Tom rang the bell.	Tom läutete die Glocke.	टॉम ने घंटी बजाई।
+Tom rarely laughs.	Tom lacht selten.	टॉम बहुत कम हँसता है।
