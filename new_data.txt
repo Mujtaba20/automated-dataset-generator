@@ -10482,3 +10482,11 @@ Tom is sneezing.	Tom niest.	टॉम छींक रहा है।
 Tom is so happy.	Tom ist so glücklich.	टॉम बहुत खुश है।
 Tom is sociable.	Tom ist gesellig.	टॉम मिलनसार है।
 Tom is speaking.	Tom spricht.	टॉम बोल रहा है।
+Tom is spirited.	Tom ist lebhaft.	टॉम उत्साही है।
+Tom is stalling.	Tom zögert.	टॉम झटका दे रहा है।
+Tom is standing.	Tom steht.	टॉम खड़ा है।
+Tom is starving.	Tom verhungert.	टॉम भूख से मर रहा है।
+Tom is stranded.	Tom ist gestrandet.	टॉम अविचलित है।
+Tom is stubborn.	Tom ist hartnäckig.	टॉम दृढ़ता पूर्वक काम करता है।
+Tom is studious.	Tom ist fleißig.	टॉम पठनशील है।
+Tom is studying.	Tom studiert.	टॉम पढ़ाई कर रहा है।
