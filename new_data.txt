@@ -667,3 +667,6 @@ Keep cool.	Cool bleiben.	ठंडा रहें।
 Keep down.	Unten bleiben.	नीचे रहें।
 Keep that.	Das behalten.	वह रखें।
 Keep them.	Sie behalten.	उन्हें रखें।
+Keep this.	Behalte das.	इसे रखें।
+Keep warm.	Warm halten.	वार्म रखें।
+Kill them.	Bring sie um.	उन्हें यहां छोड़ दो।
