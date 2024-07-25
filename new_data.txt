@@ -19717,3 +19717,11 @@ What do I do next?	Was mache ich als nächstes?	मैं अगला क्य
 What do I owe Tom?	Was schulde ich Tom?	मैं टॉम को क्या देता हूँ?
 What do I owe you?	Was schulde ich dir?	मैं तुम्हें क्या देता हूँ?
 What do they know?	Was wissen sie?	उन्हें क्या पता है?
+What do they sell?	Was verkaufen sie?	वे क्या बेचते हैं?
+What do we do now?	Was machen wir jetzt?	अब हम क्या करें?
+What do you think?	Was denkst du?	तुम्हारा क्या ख्याल है?
+What do you think? (Alternative)	Was meinst du?	तुम्हारा क्या राय है?
+What do you weigh?	Wie viel wiegst du?	तुम कितने किलो वजन हो?
+What does Tom say?	Was sagt Tom?	टॉम क्या कहते हैं?
+What does it mean?	Was bedeutet das?	यह क्या मतलब है?
+What does that do?	Was macht das?	वह क्या करता है?

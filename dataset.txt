@@ -1,14 +1,4 @@
 
-What do they sell?	Was verkaufen sie?	आप क्या बेचते हैं?
-What do we do now?	Was machen wir jetzt?	अब क्या करें?
-What do you think?	Was meinst du?	आप क्या सोचते हैं?
-What do you think?	Was denkst du?	आप क्या सोचते हैं?
-What do you weigh?	Was wiegst du?	आप क्या वजन करते हैं?
-What do you weigh?	Was wiegen Sie?	आप क्या वजन करते हैं?
-What do you weigh?	Was wiegt ihr?	आप क्या वजन करते हैं?
-What does Tom say?	Was sagt Tom?	टॉम क्या कहता है?
-What does it mean?	Was bedeutet das?	इसका क्या मतलब है?
-What does that do?	Was macht das?	यह क्या बनाता है?
 What does this do?	Was macht das?	यह क्या बनाता है?
 What flavor is it?	Was ist das für ein Geschmack?	वह किस तरह का स्वाद है?
 What flavor is it?	Welcher Geschmack ist das?	वह क्या स्वाद है?
