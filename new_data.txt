@@ -6514,3 +6514,12 @@ Is Tom serious?	Ist Tom ernst?	क्या टॉम गंभीर है?
 Is Tom singing?	Singt Tom?	क्या टॉम गा रहा है?
 Is Tom smiling?	Lächelt Tom?	क्या टॉम मुस्कान दिखा रहा है?
 Is Tom with us?	Ist Tom bei uns?	क्या टॉम हमारे साथ है?
+Is Tom working?	Arbeitet Tom?	क्या टॉम काम कर रहा है?
+Is he American?	Ist er Amerikaner?	क्या वह अमेरिकन है?
+Is he Japanese?	Ist er Japaner?	क्या वह जापानी है?
+Is he a doctor?	Ist er Arzt?	क्या वह डॉक्टर है?
+Is he sleeping?	Schläft er?	क्या वह सो रहा है?
+Is it a secret?	Ist es ein Geheimnis?	क्या यह एक रहस्य है?
+Is it a weapon?	Ist es eine Waffe?	क्या यह एक हथियार है?
+Is it far away?	Ist es weit weg?	क्या यह दूर है?
+Is it for here?	Ist es für hier?	क्या यह यहाँ के लिए है?
