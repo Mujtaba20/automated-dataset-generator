@@ -3339,3 +3339,13 @@ Tom has left.	Tom hat verlassen.	टॉम चला गया है।
 Tom has time.	Tom hat Zeit.	टॉम के पास समय है।
 Tom has wine.	Tom hat Wein.	टॉम के पास शराब है।
 Tom hated it.	Tom hasste es.	टॉम नफरत करता था।
+Tom hates it.	Tom hasst es.	टॉम यह नफरत करता है।
+Tom helps us.	Tom hilft uns.	टॉम हमें मदद करता है।
+Tom insisted.	Tom beharrte darauf.	टॉम ज़ोर दिया।
+Tom insisted. (different meaning)	Tom bestand darauf.	टॉम इधर से हटने नहीं दे रहा था।
+Tom is a kid.	Tom ist ein Kind.	टॉम बच्चा है।
+Tom is a man.	Tom ist ein Mann.	टॉम एक आदमी है।
+Tom is a spy.	Tom ist ein Spion.	टॉम एक खुफिया एजेंट है।
+Tom is a vet.	Tom ist ein Tierarzt.	टॉम एक पशु चिकित्सक है।
+Tom is alive.	Tom lebt.	टॉम जिंदा है।
+Tom is angry.	Tom ist wütend.	टॉम गुस्से में है।
