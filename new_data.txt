@@ -932,3 +932,12 @@ He's lying.	Er lügt.	वह झूठ बोल रहा है।
 He's smart.	Er ist intelligent.	वह होशियार है।
 Head north.	Fahre Richtung Norden.	उत्तर की ओर निकलो।
 Hello, Tom.	Hallo, Tom.	नमस्ते, टॉम।
+Here he is!	Da ist er!	यहाँ वह है!
+Here it is.	Hier ist es.	यहाँ यह है।
+Here we go.	Los geht's.	चलो चलें।
+Here we go. - Different meaning	Hier gehen wir.	यहाँ हम जाते हैं।
+Here's Tom.	Hier ist Tom.	यहाँ टॉम है।
+Hold still.	Halte still.	फिरे रहें।
+Hold still. - Different meaning	Halte es fest.	स्थिर बनो।
+Hold tight.	Halte fest.	मजबूती से पकड़ो।
+How absurd!	Wie absurd!	कितना बेतुका!
