@@ -10921,3 +10921,11 @@ Tom wasn't sure.	Tom war sich nicht sicher.	टॉम पक्का नही�
 Tom wears a wig.	Tom trägt eine Perücke.	टॉम एक पेरियुक पहनता है।
 Tom welcomed us.	Tom hat uns begrüßt.	टॉम ने हमें स्वागत किया।
 Tom went abroad.	Tom ist ins Ausland gegangen.	टॉम विदेश गया।
+Tom went hiking.	Tom ging wandern.	टॉम चढ़ाई पर गए।
+Tom went skiing.	Tom ist Ski gefahren.	टॉम ने स्की की।
+Tom went to bed.	Tom ist schlafen gegangen.	टॉम सोने चला गया।
+Tom will attend.	Tom wird teilnehmen.	टॉम शामिल होंगे।
+Tom will change.	Tom wird sich ändern.	टॉम बदलेगा।
+Tom will decide.	Tom wird entscheiden.	टॉम निर्णय करेगा।
+Tom will escape.	Tom wird fliehen.	टॉम बचने की कोशिश करेगा।
+Tom will follow.	Tom wird folgen.	टॉम अनुसरण करेगा।
