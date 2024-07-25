@@ -1233,3 +1233,11 @@ Talk to me..1	Erzähl mir was.	मुझसे कुछ बात करो।
 Taste this.	Probier das.	इसका स्वाद चखो।
 Taste this.1	Schmeck mal das hier.	इसे चखो।
 That a boy!	Ein braver Junge!	वह एक लड़का है!
+That hurts.	Das tut weh.	वह दुखता है।
+That'll do.	Das reicht.	वह चलेगा।
+That's Tom.	Das ist Tom.	वह टॉम है।
+That's all.	Das ist alles.	बस, यही है।
+That's his.	Das gehört ihm.	वह उसका है।
+That's new.	Das ist neu.	यह नया है।
+That's sad.	Das ist traurig.	यह दुखद है।
+They agree.	Sie sind einverstanden.	वे सम्मत हैं।
