@@ -1076,3 +1076,10 @@ I'm chubby.	Ich bin mollig.	मैं मतलबी हूँ।
 I'm chubby. 2	Ich bin kugelrund.	मैं मोटी हूँ।
 I'm coming.	Ich komme.	मैं आ रहा हूँ।
 I'm coming. 2	Ich bin im Anmarsch.	मैं आपके पास आ रहा हूँ।
+I'm eating.	Ich esse.	मैं खा रहा हूँ.
+I'm famous.	Ich bin berühmt.	मैं मशहूर हूँ.
+I'm for it.	Ich bin dafür.	मैं उसके लिए हूँ।
+I'm greedy.	Ich bin gierig.	मैं लालची हूँ।
+I'm hiding.	Ich verstecke mich.	मैं छिपा हूँ।
+I'm humble.	Ich bin demütig.	मैं विनम्र हूँ।
+I'm hungry!	Ich habe Hunger!	मुझे भूख लगी है!
