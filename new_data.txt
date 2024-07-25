@@ -1644,3 +1644,10 @@ I knew that.	Das wusste ich.	मैं यह जानता था।
 I know that.	Das weiß ich.	मुझे पता है।
 I know them.	Ich kenne sie.	मैं उन्हें जानता हूँ।
 I know this.	Das weiß ich.	मुझे यह पता है।
+I like both.	Ich mag beide.	मुझे दोनों पसंद हैं।
+I like cake.	Ich mag Kuchen.	मुझे केक पसंद है।
+I like cats.	Ich mag Katzen.	मुझे बिल्लियाँ पसंद हैं।
+I like dogs.	Ich mag Hunde.	मुझे कुत्ते पसंद हैं।
+I like fish.	Ich mag Fische.	मुझे मछलियाँ पसंद हैं।
+I like jazz.	Ich mag den Jazz.	मुझे जाज़ पसंद है।
+I like math.	Ich mag Mathe.	मुझे गणित पसंद है।
