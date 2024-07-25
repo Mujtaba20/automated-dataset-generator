@@ -18715,3 +18715,12 @@ Tom is not a liar.	Tom ist kein Lügner.	टॉम झूठा नहीं ह
 Tom is not coming.	Tom kommt nicht.	टॉम नहीं आ रहा है।
 Tom is not famous.	Tom ist nicht berühmt.	टॉम प्रसिद्ध नहीं है।
 Tom is not my son.	Tom ist nicht mein Sohn.	टॉम मेरा बेटा नहीं है।
+Tom is now crying.	Tom weint jetzt.	टॉम अब रो रहा है।
+Tom is old school.	Tom ist altmodisch.	टॉम पुराने स्कूल का है।
+Tom is on the run.	Tom ist auf der Flucht.	टॉम भाग रहा है।
+Tom is optimistic.	Tom ist optimistisch.	टॉम आशावादी है।
+Tom is our client.	Tom ist unser Kunde.	टॉम हमारा ग्राहक है।
+Tom is our friend.	Tom ist unser Freund.	टॉम हमारा दोस्त है।
+Tom is our oldest.	Tom ist unser Ältester.	टॉम हमारा सबसे बड़ा है।
+Tom is outrageous.	Tom ist unverschämt.	टॉम बेहुदा है।
+Tom is overweight.	Tom ist übergewichtig.	टॉम मोटा है।

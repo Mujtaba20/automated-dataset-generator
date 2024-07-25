@@ -1,14 +1,4 @@
 
-Tom is now crying.	Tom ist jetzt am Weinen.	टॉम अब रो रहा है।
-Tom is old school.	Tom ist von der alten Schule.	टॉम पुराने स्कूल से है।
-Tom is on the run.	Tom ist auf der Flucht.	टॉम रन पर है।
-Tom is optimistic.	Tom ist optimistisch.	टॉम आशावादी है।
-Tom is our client.	Tom ist unser Kunde.	टॉम हमारे ग्राहक हैं।
-Tom is our friend.	Tom ist unser Freund.	टॉम हमारा दोस्त है।
-Tom is our oldest.	Tom ist unser Ältester.	टॉम हमारा सबसे पुराना है।
-Tom is outrageous.	Tom ist unverschämt.	टॉम अपमानजनक है।
-Tom is outrageous.	Tom ist empörend.	टॉम अपमानजनक है।
-Tom is overweight.	Tom ist übergewichtig.	टॉम अधिक वजन वाला है।
 Tom is overworked.	Tom ist überarbeitet.	टॉम को संशोधित किया गया है।
 Tom is packing up.	Tom packt.	टॉम पैक।
 Tom is packing up.	Tom packt zusammen.	टॉम एक साथ पैक करता है।
