@@ -6157,3 +6157,13 @@ I love puzzles.	Ich liebe Rätsel.	मुझे पहेलियों से 
 I love reading.	Ich liebe es zu lesen.	मुझे पढ़ने का शौक है।
 I love sunsets.	Ich liebe Sonnenuntergänge.	मुझे सूर्यास्त से प्यार है।
 I love the sea.	Ich liebe das Meer.	मुझे समुंदर से प्यार है।
+I love to cook.	Ich liebe es zu kochen.	मुझे पकाने का बहुत शौक है।
+I love to read.	Ich liebe es zu lesen.	मुझे पढ़ने का बहुत शौक है।
+I love to swim.	Ich liebe es zu schwimmen.	मुझे तैरने का बहुत शौक है।
+I love winning.	Ich liebe es zu gewinnen.	मुझे जीतने का बहुत शौक है।
+I love you all.	Ich liebe euch alle.	मैं तुम सभी से प्यार करता हूँ।
+I loved Boston.	Ich habe Boston geliebt.	मैंने बोस्टन को पसंद किया था।
+I loved school.	Ich habe die Schule geliebt.	मैंने स्कूल को पसंद किया था।
+I made Tom mad.	Ich machte Tom wütend.	मैंने टॉम को गुस्सा दिलाया।
+I made cookies.	Ich habe Kekse gemacht.	मैंने कुकीज़ बनाई।
+I made her cry.	Ich habe sie zum Weinen gebracht.	मैंने उसे रोते हुए देखा।
