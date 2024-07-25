@@ -13505,3 +13505,9 @@ She didn't reply.	Sie reagierte nicht.	उसने कोई प्रतिक
 She died from TB.	Sie starb an Tuberkulose.	उसने टीबी से मौत कर ली।
 She died in 1960.	Sie starb 1960.	उसने 1960 में मौत के घाट उतार लिए।
 She disliked him.	Sie mochte ihn nicht.	उसे उससे नापसंद था।
+She divorced him.	Sie hat sich von ihm scheiden lassen.	उसने उससे तलाक लिया।
+She drives a BMW.	Sie fährt einen BMW.	उसके पास एक BMW कार है।
+She has dry hair.	Sie hat trockenes Haar.	उसके बाल सूखे हैं।
+She has gone out.	Sie ist ausgegangen.	उसने बाहर चला गया है।
+She idolized him.	Sie verehrte ihn.	उसने उसकी पूजा की।
+She insulted him.	Sie hat ihn beleidigt.	उसने उसे अपमानित किया।
