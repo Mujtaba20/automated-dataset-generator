@@ -6008,3 +6008,13 @@ I go to church.	Ich gehe in die Kirche.	मैं चर्च जाता ह�
 I go to school.	Ich gehe zur Schule.	मैं स्कूल जाता हूँ।
 I got divorced.	Ich wurde geschieden.	मैंने तलाक की यह
 I got you this.	Ich habe dir das besorgt.	मैंने तुम्हें यह दिया है।
+I guarantee it.	Ich garantiere es.	मैं इस एग्रीमेंट की गारंटी लेता हूँ।
+I had a stroke.	Ich hatte einen Schlaganfall.	मेरे पर आपे पड़ने थे।
+I had fun here.	Ich hatte hier Spaß.	मुझे यहाँ मज़ा आया।
+I had jeans on.	Ich hatte Jeans an.	मेरी जीन्स पहनी थी।
+I had jeans on. - Different meaning	Ich hatte Jeans an.	मैंने कपड़ों के विरुद्ध बहुत ठंडे पहने थे।
+I had no money.	Ich hatte kein Geld.	मेरे पास कोई पैसे नहीं थे।
+I had some fun.	Ich hatte etwas Spaß.	मुझे कुछ मज़ा आया।
+I had to agree.	Ich musste zustimmen.	मुझे सहमत होना पड़ा।
+I had to leave.	Ich musste gehen.	मुझे जाना पड़ा।
+I had to leave. - Different meaning	Ich musste abreisen.	मुझे यहाँ छोड़ना पड़ गया।
