@@ -17076,3 +17076,13 @@ I'm feeling dizzy.	Mir ist schwindlig.	मुझे चक्कर आ रह�
 I'm feeling tired.	Ich fühle mich müde.	मैं थका हुआ महसूस कर रहा हूँ।
 I'm first in line.	Ich stehe an erster Stelle.	मैं पहले स्थान पर हूँ।
 I'm flabbergasted.	Ich bin verblüfft.	मैं हैरान हूँ।
+I'm following Tom.	Ich folge Tom.	मैं टॉम का पालन कर रहा हूँ।
+I'm from the city.	Ich komme aus der Stadt.	मैं शहर से हूँ।
+I'm getting tired.	Ich werde müde.	मैं थक रहा हूँ।
+I'm getting to it.	Ich komme darauf.	मैं उस पर पहुंच रहा हूँ।
+I'm getting worse.	Es wird schlimmer.	मैं बिगड़ रहा हूँ।
+I'm glad Tom left.	Ich bin froh, dass Tom gegangen ist.	मुझे खुशी है कि टॉम चला गया।
+I'm glad we agree.	Ich bin froh, dass wir übereinstimmen.	मुझे खुशी है कि हम सहमत हैं।
+I'm going fishing.	Ich gehe angeln.	मैं मछली पकड़ने जा रहा हूँ।
+I'm going out now.	Ich gehe jetzt raus.	मैं अब बाहर जा रहा हूँ।
+I'm going outside.	Ich gehe nach draußen.	मैं बाहर जा रहा हूँ।
