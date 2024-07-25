@@ -2926,3 +2926,10 @@ I'm very hot.	Mir ist sehr heiß.	मुझे बहुत गर्मी ल�
 I'm very sad.	Ich bin sehr traurig.	मैं बहुत उदास हूं।
 I'm very shy.	Ich bin sehr schüchtern.	मैं बहुत शर्मीला हूं।
 I'm watching.	Ich beobachte.	मैं देख रहा हूं।
+I'm with Tom.	Ich bin mit Tom.	मैं टॉम के साथ हूं।
+I'm with him.	Ich bin mit ihm.	मैं उसके साथ हूं।
+I'm worn out.	Ich bin erschöpft.	मैं थक गया हूँ।
+I'm your age.	Ich bin in deinem Alter.	मैं तुम्हारी उम्र का हूँ।
+I've changed.	Ich habe mich verändert.	मैंने बदल दिया है।
+I've checked.	Ich habe überprüft.	मैंने जाँच की है।
+I've lost it.	Ich habe es verloren.	मैंने यह खो दिया है।
