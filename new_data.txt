@@ -7853,3 +7853,11 @@ We'll miss you.	Wir werden dich vermissen.	हम तुम्हें या�
 We'll paint it.	Wir werden es malen.	हम इसे रंगीन करेंगे।
 We'll show Tom.	Wir werden Tom zeigen.	हम टॉम को दिखाएंगे।
 We'll stop Tom.	Wir werden Tom stoppen.	हम टॉम को रोकेंगे।
+We'll stop you.	Wir werden dich aufhalten.	हम तुम्हें रोकेंगे।
+We'll stop you. (different meaning)	Wir werden dich stoppen.	हम तुम्हें रोकेंगे।
+We'll tell Tom.	Wir werden es Tom sagen.	हम टॉम को बताएँगे।
+We're a family.	Wir sind eine Familie.	हम एक परिवार हैं।
+We're all done.	Wir sind fertig.	हम सब कुछ कर चुके हैं।
+We're all here.	Wir sind alle hier.	हम सभी यहाँ हैं।
+We're brothers.	Wir sind Brüder.	हम भाई हैं।
+We're confused.	Wir sind verwirrt.	हम उलझे हुए हैं।
