@@ -17153,3 +17153,11 @@ I'm over eighteen.	Ich bin über achtzehn.	मैं अठारह से अ�
 I'm quite wealthy.	Ich bin ziemlich wohlhabend.	मैं काफी धनवान हूँ।
 I'm really hungry.	Ich bin wirklich hungrig.	मुझे सचमुच भूख लगी है।
 I'm really lonely.	Ich bin wirklich einsam.	मैं सचमुच अकेला हूँ।
+I'm right outside.	Ich bin direkt draußen.	मैं सीधे बाहर हूँ।
+I'm sick of lying.	Ich habe es satt zu lügen.	मुझे झूठ बोलने से इंकार है।
+I'm so overworked.	Ich bin so überarbeitet.	मैं इतनी कामचोर हूँ।
+I'm sore all over.	Ich bin überall wund.	मुझे सारे जगह दर्द है।
+I'm sorry for you.	Es tut mir leid für dich.	मुझे तुम्हारे लिए दुःख है।
+I'm sort of happy.	Ich bin irgendwie glücklich.	मैं थोड़ा खुश हूँ।
+I'm still thirsty.	Ich bin immer noch durstig.	मुझे अभी भी प्यास है।
+I'm taking a bath.	Ich dusche.	मैं स्नान कर रहा हूँ।
