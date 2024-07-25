@@ -1,15 +1,4 @@
 
-Tom looks ashamed.	Tom sieht beschämt aus.	टॉम शर्मिंदा लग रहा है।
-Tom looks awesome.	Tom sieht großartig aus.	टॉम बहुत अच्छा लग रहा है।
-Tom looks awkward.	Tom sieht ungeschickt aus.	टॉम अजीब लग रहा है।
-Tom looks baffled.	Tom sieht verwirrt aus.	टॉम उलझन में दिखता है।
-Tom looks bashful.	Tom sieht schüchtern aus.	टॉम शर्मीली लगती है।
-Tom looks crushed.	Tom sieht niedergeschmettert aus.	टॉम नीचे दिखता है।
-Tom looks curious.	Tom sieht neugierig aus.	टॉम उत्सुक दिखता है।
-Tom looks curious.	Tom schaut neugierig.	टॉम उत्सुक दिखता है।
-Tom looks dubious.	Tom sieht zweifelhaft aus.	टॉम संदिग्ध लग रहा है।
-Tom looks excited.	Tom sieht begeistert aus.	टॉम उत्साही दिखता है।
-Tom looks excited.	Tom sieht aufgeregt aus.	टॉम उत्साहित दिखता है।
 Tom looks foreign.	Tom sieht fremd aus.	टॉम अजीब लग रहा है।
 Tom looks furious.	Tom sieht wütend aus.	टॉम गुस्से में दिखता है।
 Tom looks furious.	Tom schaut wütend.	टॉम गुस्से में दिखता है।
