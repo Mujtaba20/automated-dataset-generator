@@ -6087,3 +6087,10 @@ I know the boy.	Ich kenne den Jungen.	मैं लड़के को जान
 I know the way.	Ich kenne den Weg.	मैं रास्ता जानता हूँ।
 I know who won.	Ich weiß, wer gewonnen hat.	मुझे पता है कौन जीता।
 I learn French.	Ich lerne Französisch.	मैं फ्रेंच सीख रहा हूँ।
+I left my wife.	Ich habe meine Frau verlassen.	मैंने अपनी पत्नी को छोड़ दिया।
+I let Tom live.	Ich lasse Tom leben.	मैंने टॉम को जीने दिया।
+I let you down.	Ich habe dich im Stich gelassen.	मैंने तुम्हें निराश किया।
+I like English.	Ich mag Englisch.	मुझे अंग्रेजी पसंद है।
+I like castles.	Ich mag Burgen.	मुझे किलें पसंद हैं।
+I like cookies.	Ich mag Kekse.	मुझे कुकीज़ पसंद हैं।
+I like drawing.	Ich mag Zeichnen.	मुझे ड्राइंग पसंद है।
