@@ -15478,3 +15478,9 @@ Your mom is cool.	Deine Mutter ist cool.	तुम्हारी माँ ठ�
 Your mom is here.	Deine Mutter ist hier.	तुम्हारी ममिता यहाँ है।
 Your plan failed.	Dein Plan ist fehlgeschlagen.	तुम्हारी योजना विफल हो गई।
 Yours was better.	Deiner war besser.	तुम्हारे वेल्स कमाल थे।
+A dog bit her leg.	Ein Hund biss ihr Bein.	एक कुत्ता उसकी टांग काट दिया।
+A dog was running.	Ein Hund lief.	एक कुत्ता भाग रहा था।
+A fork is missing.	Eine Gabel fehlt.	एक कांटा गया है।
+A heavy rain fell.	Es regnete schwer.	भारी बारिश हुई।
+A leaf is falling.	Ein Blatt fällt.	पत्ता गिर रहा है।
+A screw's missing.	Eine Schraube fehlt.	एक स्क्रू गुम है।
