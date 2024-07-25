@@ -8439,3 +8439,11 @@ Go wait outside.	Geh nach draußen und warte.	बाहर जाओ और इ�
 Good night, Tom.	Gute Nacht, Tom.	शुभ रात्रि, टॉम।
 Great, isn't it?	Toll, oder?	बढ़िया है, ना?
 Green suits you.	Grün passt zu dir.	हरा तुम्हें अच्छा लगता है।
+Guys are stupid.	Jungs sind dumm.	लड़के मूर्ख हैं।
+Hand me a towel.	Gib mir ein Handtuch.	मुझे एक तौलिया दो।
+Has Tom arrived?	Ist Tom angekommen?	क्या टॉम पहुंच गया है?
+Has he come yet?	Ist er schon gekommen?	क्या वह अभी तक आ गया है?
+Have a doughnut.	Haben Sie einen Donut.	एक डोनट लेलो।
+Have a good day.	Einen schönen Tag noch.	एक अच्छा दिन बिताओ।
+Have a nice day!	Einen schönen Tag noch!	एक अच्छा दिन हो!
+Have a nice day.	Einen schönen Tag noch.	एक अच्छा दिन बिताओ।
