@@ -12440,3 +12440,9 @@ I have your file. (Different meaning)	Ich habe deine Datei erhalten.	मैं�
 I have your file. (Different meaning 2)	Ich besitze deine Datei.	मेरे पास तुम्हारी फ़ाइल है।
 I hear something.	Ich höre etwas.	मुझे कुछ सुनाई दे रहा है।
 I hear the phone.	Ich höre das Telefon.	मैं फ़ोन सुन रहा हूँ।
+I heard a scream.	Ich hörte einen Schrei.	मैंने एक चीख सुनी।
+I heard about it.	Ich habe davon gehört.	मैंने इसके बारे में सुना।
+I hit a home run.	Ich habe einen Home Run geschlagen.	मैंने घर में रन मारा।
+I hit on an idea.	Mir kam eine Idee.	मुझे एक विचार आया।
+I hope I'm wrong.	Ich hoffe, ich liege falsch.	मुझे आशा है कि मैं गलत हूँ।
+I hope Tom comes.	Ich hoffe, Tom kommt.	मुझे आशा है कि टॉम आए।
