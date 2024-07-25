@@ -1,15 +1,4 @@
 
-You can't deny it.	Das können Sie nicht verneinen.	आप इससे इनकार नहीं कर सकते।
-You can't deny it.	Du kannst es nicht leugnen.	आप इसे अस्वीकार नहीं कर सकते।
-You can't deny it.	Ihr könnt es nicht leugnen.	आप इसे अस्वीकार नहीं कर सकते।
-You can't deny it.	Sie können es nicht leugnen.	आप इसे अस्वीकार नहीं कर सकते।
-You can't do that.	Das kannst du nicht machen.	आप ऐसा नहीं कर सकते।
-You can't do this.	Das kannst du nicht machen!	आप ऐसा नहीं कर सकते!
-You can't fire me.	Sie können mich nicht entlassen.	आप मुझे छोड़ नहीं सकते।
-You can't fire me.	Sie können mir nicht kündigen.	आप मुझे नहीं छोड़ सकते।
-You can't fire me.	Sie können mich nicht feuern.	आप मुझे आग नहीं दे सकते।
-You can't fire us.	Du kannst uns nicht entlassen.	आप हमें जारी नहीं कर सकते।
-You can't fire us.	Sie können uns nicht entlassen.	आप हमें जारी नहीं कर सकते।
 You can't help me.	Du kannst mir nicht helfen.	आप मेरी मदद करने में सक्षम नहीं हैं।
 You can't help me.	Sie können mir nicht helfen.	आप मेरी मदद नहीं कर सकते।
 You can't hurt me.	Du kannst mich nicht verletzen.	आप मुझे चोट नहीं पहुंचा सकते।

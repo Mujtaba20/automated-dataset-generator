@@ -20010,3 +20010,10 @@ You can trust him.	Du kannst ihm vertrauen.	आप उस पर भरोसा
 You can wait here.	Du kannst hier warten.	आप यहाँ इंतजार कर सकते हैं।
 You can wait here. - Different Translation	Sie können hier warten.	आप यहाँ ठहर सकते हैं।
 You can't beat me.	Du kannst mich nicht schlagen.	आप मुझसे हार नहीं सकते।
+You can't deny it.	Du kannst es nicht leugnen.	तुम इसे इनकार नहीं कर सकते।
+You can't do that.	Das kannst du nicht tun.	तुम ऐसा नहीं कर सकते।
+You can't do this.	Das kannst du nicht machen.	तुम यह नहीं कर सकते।
+You can't fire me.	Du kannst mich nicht feuern.	तुम मुझे नहीं निकाल सकते।
+You can't fire us.	Du kannst uns nicht feuern.	तुम हमें नहीं निकाल सकते।
+You can't deny it. (Different meaning)	Das kannst du nicht ablehnen.	तुम इसे नहीं मना सकते।
+You can't fire me. (Different meaning)	Du kannst mir nicht kündigen.	तुम मुझे नहीं निकाल सकते।
