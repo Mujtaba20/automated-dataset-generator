@@ -16980,3 +16980,12 @@ I'll be back late.	Ich werde spät zurück sein.	मैं देर से व�
 I'll be back soon.	Ich werde bald zurück sein.	मैं जल्दी वापस आऊँगा।
 I'll be fine here.	Mir geht es hier gut.	मैं यहाँ ठीक हूँ।
 I'll be in Boston.	Ich werde in Boston sein.	मैं बोस्टन में होंगा।
+I'll be in my car.	Ich werde in meinem Auto sein.	मैं अपनी कार में रहूँगा।
+I'll come at 2:30.	Ich werde um 2:30 Uhr kommen.	मैं 2:30 बजे आऊंगा।
+I'll cook for you.	Ich werde für dich kochen.	मैं तुम्हारे लिए पकाऊंगा।
+I'll cook tonight.	Ich werde heute Nacht kochen.	मैं आज रात पकाऊंगा।
+I'll do all I can.	Ich werde alles tun, was ich kann.	मैं जितना हो सके उस सब किया।
+I'll do it myself.	Ich werde es selbst tun.	मैं खुद करूँगा।
+I'll drive myself.	Ich werde selbst fahren.	मैं खुद चलाऊंगा।
+I'll feed the dog.	Ich werde den Hund füttern.	मैं कुत्ते को खिलाऊंगा।
+I'll find someone.	Ich werde jemanden finden.	मैं किसी को ढूंढूँगा।
