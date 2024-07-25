@@ -12633,3 +12633,12 @@ I read your book.	Ich habe dein Buch gelesen.	मैंने तुम्हा
 I really am busy.	Ich bin wirklich beschäftigt.	मैं वास्तव में व्यस्त हूँ।
 I really hope so.	Ich hoffe wirklich so.	मैं सचमुच उम्मीद करता हूँ।
 I really like it.	Es gefällt mir wirklich gut.	मुझे यह वास्तव में अच्छा लगता है।
+I really mean it.	Ich meine es wirklich.	मैं वास्तव में इसका मतलब हूँ।
+I really miss it.	Es fehlt mir wirklich.	मुझे यह वास्तव में याद आता है।
+I really need it.	Ich brauche es wirklich.	मुझे इसकी वास्तव में जरूरत है।
+I recognized Tom.	Ich erkannte Tom.	मैंने टॉम को पहचाना।
+I refused to pay.	Ich weigerte mich zu zahlen.	मैंने भुगतान करने से इनकार किया।
+I regret nothing.	Ich bereue nichts.	मुझे किसी भी चीज़ का खेद नहीं है।
+I require advice.	Ich benötige Ratschläge.	मुझे सलाह चाहिए।
+I rubbed my feet.	Ich rieb mir die Füße.	मैंने अपने पैरों को मला।
+I said I saw Tom.	Ich sagte, ich habe Tom gesehen.	मैंने कहा कि मैंने टॉम को देखा।
