@@ -20517,3 +20517,12 @@ Don't go there now.	Geh jetzt nicht dorthin.	वहाँ अब मत जा�
 Don't go to Boston.	Geh nicht nach Boston.	बॉस्टन जाने का सोचते मत रहो।
 Don't interrupt me.	Unterbrich mich nicht.	मुझे बीच में बोलने मत दो।
 Don't kid yourself.	Mache dir nichts vor.	खुद को भ्रमित मत करो।
+Don't laugh at Tom.	Lache nicht über Tom.	टॉम पर हंसना मत।
+Don't laugh at him.	Lache nicht über ihn.	उस पर हंसना मत।
+Don't let him down.	Lass ihn nicht im Stich.	उसे निराश मत करो।
+Don't let them win.	Lass sie nicht gewinnen.	उन्हें जीतने मत दो।
+Don't look so grim.	Sieh nicht so düster aus.	इतने उदास मत देखो।
+Don't look so hurt.	Mach kein verletztes Gesicht.	इतने चोट लगे हुए मत दिखो।
+Don't make a noise.	Mach keinen Lärm.	शोर मत मचाओ।
+Don't make a scene.	Mach keine Szene.	कोई दृश्य न बनाओ।
+Don't make a sound.	Mach keinen Laut.	ध्वनि न करो।

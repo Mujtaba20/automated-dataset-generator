@@ -1,17 +1,4 @@
 
-Don't laugh at Tom.	Lach Tom nicht aus.	लाच टॉम नहीं।
-Don't laugh at him.	Lach ihn nicht aus!	हंसी मत!
-Don't let him down.	Enttäusche ihn nicht!	उसे निराश मत करो!
-Don't let him down.	Lass ihn nicht im Stich.	उसे निराश मत करो।
-Don't let them win.	Lass sie nicht gewinnen.	उन्हें जीतने न दें।
-Don't look so grim.	Schau nicht so finster drein!	इतना अंधेरा मत देखो!
-Don't look so hurt.	Schau nicht so gekränkt drein!	इतना नाराज नहीं देखो!
-Don't make a noise.	Lärme nicht.	शोर नहीं।
-Don't make a scene.	Mach keine Szene!	दृश्य मत करो!
-Don't make a sound.	Gib keinen Laut von dir!	आप से कोई आवाज नहीं दो!
-Don't make a sound.	Tu keinen Mucks!	एक mucks मत करो!
-Don't make a sound.	Geben Sie keinen Laut von sich!	ध्वनि मत करो!
-Don't make a sound.	Tun Sie keinen Mucks!	एक mucks मत करो!
 Don't make me stay.	Zwing mich nicht zu bleiben!	मेरे पास मत जाओ!
 Don't make me stay.	Zwingt mich nicht zu bleiben!	मुझे रहने के लिए मजबूर मत करो!
 Don't make me stay.	Zwingen Sie mich nicht zu bleiben!	मुझे रहने के लिए मजबूर मत करो!
