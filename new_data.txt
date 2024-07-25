@@ -283,3 +283,8 @@ Fix this.	Repariere das.	इसे ठीक करो।
 Get away!	Geh weg!	दूर जाओ!
 Get down!	Komm runter!	नीचे आ जाओ!
 Get down.	Setz dich hin.	नीचे बैठो।
+engSentence1	Verpiss dich!	खो जा!
+engSentence2	Entfernen Sie sich!	गायब हो जाओ!
+engSentence3	Geh weg!	चला जा!
+engSentence4	Verschwinde!	ग़ायब हो जाओ!
+engSentence5	Hau ab!	दूर हो जाओ!
