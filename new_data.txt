@@ -15409,3 +15409,9 @@ You were correct.	Du hattest recht.	तुम सही थे।
 You were jealous.	Du warst eifersüchtig.	तुम जलने लगे थे।
 You were my hero.	Du warst mein Held.	तुम मेरे हीरो थे।
 You were perfect.	Du warst vollkommen.	तुम बिल्कुल सही थे।
+You were tricked.	Du wurdest getäuscht.	आप धोखा खा गए थे।
+You will all die.	Ihr werdet alle sterben.	तुम सभी मरोगे।
+You wouldn't lie.	Du würdest nicht lügen.	तुम झूठ नहीं बोलते।
+You wouldn't lie. (different meaning)	Du würdest nicht lügen.	तुम झूठ नहीं बोलोगे।
+You'll know soon.	Du wirst bald wissen.	तुम जल्दी ही जान जाओगे।
+You'll like this.	Das wird dir gefallen.	तुम्हें यह पसंद आएगा।
