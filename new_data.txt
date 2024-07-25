@@ -12202,3 +12202,8 @@ I am eating rice.	Ich esse Reis.	मैं चावल खा रहा हू�
 I am from Brazil.	Ich komme aus Brasilien.	मैं ब्राज़ील से हूँ।
 I am from Norway.	Ich komme aus Norwegen.	मैं नॉर्वे से हूँ।
 I am frying fish.	Ich brate Fisch.	मैं मछली तल रहा हूँ।
+I am in Rome now.	Ich bin jetzt in Rom.	मैं अब रोम में हूँ।
+I am not a witch.	Ich bin keine Hexe.	मैं एक चुड़ैल नहीं हूँ।
+I am not kidding.	Ich meine es ernst.	मैं मजाक नहीं कर रहा हूँ।
+I am now on duty.	Ich bin jetzt dienstbereit.	अब मेरी ड्यूटी है।
+I am on duty now.	Ich habe jetzt Dienst.	मैं अब ड्यूटी पर हूँ।
