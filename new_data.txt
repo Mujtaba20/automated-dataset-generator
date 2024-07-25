@@ -6931,3 +6931,13 @@ Tell the truth.	Sag die Wahrheit.	सच बोलो।
 Tell us a joke.	Erzähl uns einen Witz.	हमें एक चुटकुला सुनाओ।
 That is a boat.	Das ist ein Boot.	वह एक नाव है।
 That is my dog.	Das ist mein Hund.	यह मेरा कुत्ता है।
+engSentence1	Das ist nicht Tom.	यह टॉम नहीं है।
+engSentence2	Das erforderte Mut.	वह साहस दिखाने वाला काम था।
+engSentence3	Das war eine Lüge.	वह झूठ था।
+engSentence4	Das war knapp.	वह बहुत करीब था।
+engSentence5	Das war großartig.	वह बहुत अच्छा था।
+engSentence6	Das war ideal.	वह आदर्श था।
+engSentence7	Das war magisch.	वह जादुई था।
+engSentence8	Das ging schnell.	वह बहुत तेज़ी से हुआ।
+engSentence9	Das war flott.	वह तेज़ था।
+engSentence10	Das ging fix.	वह जल्दी हुआ।
