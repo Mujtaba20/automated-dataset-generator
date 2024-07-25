@@ -15266,3 +15266,10 @@ Who did you kill?	Wen hast du getötet?	तुमने किसे मार�
 Who did you kiss?	Wen hast du geküsst?	तुमने किसे चुमा?
 Who did you meet?	Mit wem hast du dich getroffen?	तुमने किसे मिला?
 Who else uses it?	Wer benutzt es noch?	यह कौन और इसका उपयोग करता है?
+Who found my bag?	Wer hat meine Tasche gefunden?	मेरी बैग किसने ढूंढ़ी?
+Who is this girl?	Wer ist dieses Mädchen?	यह लड़की कौन है?
+Who is this lady?	Wer ist diese Dame?	यह महिला कौन है?
+Who notified Tom?	Wer hat Tom benachrichtigt?	तोम को कौन सूचित किया?
+Who ordered that?	Wer hat das bestellt?	उसने यह किसने मांगा?
+Who ordered this?	Wer hat das bestellt?	यह किसने मांगा?
+Who removed them?	Wer hat sie entfernt?	उन्होंने उन्हें हटाया?
