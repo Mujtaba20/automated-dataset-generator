@@ -229,3 +229,7 @@ I'm new.	Ich bin neu.	मैं नया हूँ।
 I'm old.	Ich bin alt.	मैं पुराना हूँ।
 I'm sad.	Ich bin traurig.	मुझे उदासी है।
 I'm shy.	Ich bin schüchtern.	मैं शर्मीला हूँ।
+Kill it.	Töte es.	उसे मारो।
+Kiss me.	Küss mich.	मुझे चुम्मा दो।
+Lie low.	Halte dich bedeckt.	कम उछलो।
+Lie low. (different meaning)	Verheimliche etwas.	छुपाओ।
