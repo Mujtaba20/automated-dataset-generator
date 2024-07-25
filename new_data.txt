@@ -9368,3 +9368,12 @@ I've got a book.	Ich habe ein Buch.	मेरे पास एक किता�
 I've got a list.	Ich habe eine Liste.	मेरे पास सूची है।
 I've got a plan.	Ich habe einen Plan.	मेरे पास एक योजना है।
 I've had enough.	Ich bin satt.	मुझे पेट भर गया है।
+I've heard that.	Ich habe das gehört.	मैंने सुना है।
+I've missed Tom.	Ich habe Tom vermisst.	मैंने टॉम को याद किया।
+I've missed you.	Ich habe dich vermisst.	मैंने तुम्हें याद किया।
+I've seen a lot.	Ich habe viel gesehen.	मैंने बहुत कुछ देखा है।
+I've tried that.	Ich habe das versucht.	मैंने यह कोशिश की थी।
+Is Tom Canadian?	Ist Tom Kanadier?	क्या टॉम कनाडियन है?
+Is Tom a genius?	Ist Tom ein Genie?	क्या टॉम जीनियस है?
+Is Tom autistic?	Ist Tom autistisch?	क्या टॉम ऑटिस्टिक है?
+Is Tom babbling?	Redet Tom wirres Zeug?	क्या टॉम बक बक कर रहा है?
