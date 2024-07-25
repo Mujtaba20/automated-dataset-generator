@@ -10235,3 +10235,13 @@ Tom ducked down.	Tom duckte sich.	टॉम ने नीचे झुका द
 Tom eats slowly.	Tom isst langsam.	टॉम धीरे से खाता है।
 Tom enjoys that.	Tom genießt das.	टॉम का उससे आनंद है।
 Tom exaggerated.	Tom hat übertrieben.	टॉम ने बड़ा बनाया।
+Tom exaggerates.	Tom übertreibt.	टॉम बढ़ावा करता है।
+Tom expected it.	Tom erwartete es.	टॉम उम्मीद कर रहा था।
+Tom fed his dog.	Tom fütterte seinen Hund.	टॉम ने अपने कुत्ते को खिलाया।
+Tom fed his dog. - Duplicate with different meaning	Tom versorgte seinen Hund.	टॉम ने अपने कुत्ते को भरपूर खाने का प्याला दिया।
+Tom fed the dog.	Tom fütterte den Hund.	टॉम ने कुत्ते को खिलाया।
+Tom fell asleep.	Tom schlief ein.	टॉम सो गया।
+Tom fell silent.	Tom schwieg.	टॉम चुप हो गया।
+Tom felt better.	Tom fühlte sich besser.	टॉम को बेहतर महसूस हुआ।
+Tom felt guilty.	Tom fühlte sich schuldig.	टॉम को अपराधी महसूस हुआ।
+Tom felt hungry.	Tom fühlte sich hungrig.	टॉम भूखा महसूस कर रहा था।
