@@ -3648,3 +3648,10 @@ Will this do?	Wird das reichen?	क्या यह काफी होगा?
 Wish me luck.	Wünsch mir Glück.	मुझे शुभकामनाएं दो।
 Years passed.	Jahre vergingen.	साल बीते।
 You amuse me.	Sie unterhalten mich.	आप मेरा मनोरंजन करते हैं।
+You annoy me.	Du ärgerst mich.	तुम मुझे परेशान करते हो।
+You are good.	Du bist gut.	तुम अच्छे हो।
+You are late.	Du bist spät.	तुम देर से आए हो।
+You are rich.	Du bist reich.	तुम धनवान हो।
+You can come.	Du kannst kommen.	तुम आ सकते हो।
+You can help.	Du kannst helfen.	तुम मदद कर सकते हो।
+You can rest.	Du kannst dich ausruhen.	तुम आराम कर सकते हो।
