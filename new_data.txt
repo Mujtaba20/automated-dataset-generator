@@ -12137,3 +12137,11 @@ Hold on a minute.	Warten Sie eine Minute.	एक मिनट रुकिए।
 Hold on a moment.	Warten Sie einen Moment.	एक पल रुकिए।
 Hold on a second.	Warten Sie eine Sekunde.	एक सेकंड रुकिए।
 Hold your horses.	Beruhigen Sie sich.	अपनी घोड़ी संभालो।
+Hold your tongue!	Halten Sie Ihre Zunge!	अपनी जीभ संभालो!
+How about Friday?	Was ist mit Freitag?	शुक्रवार कैसा रहेगा?
+How about Monday?	Wie wäre es mit Montag?	सोमवार कैसा होगा?
+How about a beer?	Wie wäre es mit einem Bier?	एक बीयर कैसी रहेगी?
+How about a song?	Wie wäre es mit einem Lied?	एक गाना कैसा होगा?
+How about a walk?	Wie wäre es mit einem Spaziergang?	एक टहलने कैसा रहेगा?
+How are the eggs?	Wie sind die Eier?	अंडे कैसे हैं?
+How are the kids?	Wie geht es den Kindern?	बच्चों का हाल कैसा है?
