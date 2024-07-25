@@ -14811,3 +14811,12 @@ Tom wasn't drunk.	Tom war nicht betrunken.	टॉम शराबपानी �
 Tom wasn't fired.	Tom wurde nicht gefeuert.	टॉम की नौकरी नहीं गई थी।
 Tom wasn't funny.	Tom war nicht lustig.	टॉम मजेदार नहीं था।
 Tom wasn't lying.	Tom hat nicht gelogen.	टॉम झूठ नहीं था।
+Tom wasn't naked.	Tom war nicht nackt.	टॉम नंगा नहीं था।
+Tom wasn't quiet.	Tom war nicht ruhig.	टॉम शांत नहीं था।
+Tom wasn't ready.	Tom war nicht bereit.	टॉम तैयार नहीं था।
+Tom wasn't right.	Tom hatte nicht recht.	टॉम सही नहीं था।
+Tom wasn't there.	Tom war nicht da.	टॉम वहाँ नहीं था।
+Tom wasn't tired.	Tom war nicht müde.	टॉम थका नहीं था।
+Tom wasn't upset.	Tom war nicht verärgert.	टॉम परेशान नहीं था।
+Tom wasn't vague.	Tom war nicht vage.	टॉम अस्पष्ट नहीं था।
+Tom wasn't wrong.	Tom lag nicht falsch.	टॉम गलत नहीं था।
