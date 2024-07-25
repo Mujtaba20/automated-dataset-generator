@@ -1,14 +1,4 @@
 
-Tom might be sick.	Tom wäre vielleicht krank.	टॉम बीमार हो सकता है।
-Tom might testify.	Tom sagt möglicherweise aus.	टॉम कह सकते हैं।
-Tom might've died.	Tom könnte gestorben sein.	टॉम की मृत्यु हो सकती थी।
-Tom misses Boston.	Tom vermisst Boston.	टॉम मिसेस बोस्टन।
-Tom misunderstood.	Tom hat es missverstanden.	टॉम ने इसे गलत समझा।
-Tom misunderstood.	Tom missverstand es.	टॉम ने इसे गलत समझा।
-Tom moved quickly.	Tom bewegte sich schnell.	टॉम जल्दी से चला गया।
-Tom moves quickly.	Tom agiert schnell.	टॉम जल्दी से काम करता है।
-Tom moves quickly.	Tom bewegt sich schnell.	टॉम जल्दी से चलता है।
-Tom must be tired.	Tom muss müde sein.	टॉम को थक जाना है।
 Tom must be wrong.	Tom muss sich irren.	टॉम को गलत होना है।
 Tom must love you.	Tom muss dich lieben.	टॉम को आपसे प्यार करना है।
 Tom must've cried.	Tom hat sicher geweint.	टॉम रोया।

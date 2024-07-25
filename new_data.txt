@@ -19023,3 +19023,13 @@ Tom may know Mary.	Tom könnte Maria kennen.	टॉम को मेरी प�
 Tom may need help.	Tom braucht vielleicht Hilfe.	टॉम को मदद की आवश्यकता हो सकती है।
 Tom meant no harm.	Tom meinte keinen Schaden.	टॉम का कोई नुकसान नहीं था।
 Tom might be late.	Tom könnte zu spät kommen.	टॉम देर से आ सकता है।
+Tom might be sick.	Tom könnte krank sein.	टॉम बीमार हो सकता है।
+Tom might testify.	Tom könnte aussagen.	टॉम गवाही दे सकता है।
+Tom might've died.	Tom könnte gestorben sein.	टॉम मर सकता है।
+Tom misses Boston.	Tom vermisst Boston.	टॉम को बोस्टन की याद आती है।
+Tom misunderstood.	Tom hat missverstanden.	टॉम को गलतफहमी हुई।
+Tom misunderstood. - Different Meaning	Tom wurde missverstanden.	टॉम को गलत समझा गया।
+Tom moved quickly.	Tom bewegte sich schnell.	टॉम जल्दी से चला गया।
+Tom moves quickly.	Tom bewegt sich schnell.	टॉम तेज़ी से चलता है।
+Tom moves quickly. - Different Meaning	Tom handelt schnell.	टॉम जल्दी से कार्रवाई करता है।
+Tom must be tired.	Tom muss müde sein.	टॉम थका हुआ होना चाहिए।
