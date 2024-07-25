@@ -374,3 +374,7 @@ Keep out.	Betreten verboten.	अंदर न जाएं।
 Kill Tom.	Tom töten.	तोम को मारो।
 Kiss Tom.	Schmatze Tom.	टॉम को चुम्मा दो।
 Leave us.	Verlass uns allein.	हमें अकेले छोड़ दो।
+Let's go!	Auf geht's!	आओ जाएं!
+Look out!	Pass auf!	ध्यान दें!
+Marry me.	Heirate mich.	मुझसे शादी करो।
+May I go?	Darf ich gehen?	क्या मैं जा सकता हूँ?
