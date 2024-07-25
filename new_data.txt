@@ -1833,3 +1833,13 @@ I'm unlucky.	Ich habe kein Glück.	मैं अभागी हूँ।
 I'm unusual.	Ich bin ungewöhnlich.	मैं असामान्य हूँ।
 I'm up here.	Ich bin hier oben.	मैं यहाँ ऊपर हूँ।
 I'm useless.	Ich bin nutzlos.	मैं अनावश्यक हूँ।
+I'm wealthy.	Ich bin reich.	मैं धनवान हूँ।
+I'm winning.	Ich gewinne.	मैं जीत रहा हूँ।
+I'm winning. (different meaning)	Ich bin erfolgreich.	मैं जीत रहा हूँ।
+I'm wounded.	Ich bin verletzt.	मैं घायल हूँ।
+I've failed.	Ich habe versagt.	मैं निराश हो गया हूँ।
+I've got it.	Ich habe es bekommen.	मुझे मिल गया है।
+I've had it.	Ich hatte es.	मैंने यह पहले ही कर लिया था।
+Ignore that.	Ignoriere das.	उसे नजरअंदाज करो।
+Ignore them.	Ignoriere sie.	उन्हें नजरअंदाज करो।
+Ignore them. (different meaning)	Ignoriere sie.	उनको छोड़ दो।
