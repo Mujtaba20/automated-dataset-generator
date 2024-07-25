@@ -4184,3 +4184,12 @@ I made Tom go.	Ich schickte Tom weg.	मैंने टॉम को जान�
 I made a fist.	Ich habe eine Faust gemacht.	मैंने एक मुठ्ठी बनाई।
 I made a list.	Ich habe eine Liste erstellt.	मैंने एक सूची बनाई।
 I made coffee.	Ich habe Kaffee gemacht.	मैंने कॉफी बनाई।
+I made dinner.	Ich habe Abendessen gemacht.	मैंने रात का खाना बनाया।
+I made him go.	Ich habe ihn gehen lassen.	मैंने उसे जाने दिया।
+I made him go. 	Ich zwang ihn zu gehen.	मैंने उसे जाने के लिए मजबूर किया।
+I made supper.	Ich habe das Abendessen gemacht.	मैंने रात का भोजन बनाया।
+I made supper. 	Ich habe das Abendessen zubereitet.	मैंने रात का भोजन तैयार किया।
+I married Tom.	Ich heiratete Tom.	मैंने टॉम से शादी की।
+I may do that.	Ich könnte das tun.	मैं वह कर सकता हूं।
+I may do that. 	Vielleicht werde ich das tun.	मैं शायद वह करूँ।
+I miss Boston.	Ich vermisse Boston.	मुझे बोस्टन की याद आती है।
