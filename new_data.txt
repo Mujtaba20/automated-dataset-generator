@@ -10593,3 +10593,10 @@ Tom likes games.	Tom mag Spiele.	टॉम को खेल पसंद है�
 Tom likes girls.	Tom mag Mädchen.	टॉम को लड़कियाँ पसंद हैं।
 Tom likes money.	Tom mag Geld.	टॉम को पैसा पसंद है।
 Tom likes music.	Tom mag Musik.	टॉम को संगीत पसंद है।
+Tom likes pizza.	Tom mag Pizza.	टॉम को पिज्जा पसंद है।
+Tom likes salsa.	Tom mag Salsa.	टॉम को सालसा पसंद है।
+Tom lit a match.	Tom zündete ein Streichholz an.	टॉम ने एक मैच जलाया।
+Tom lived alone.	Tom lebte allein.	टॉम अकेले रहता था।
+Tom lived there.	Tom lebte dort.	टॉम वहां रहता था।
+Tom lives alone.	Tom lebt allein.	टॉम अकेले रहता है।
+Tom looked away.	Tom schaute weg.	टॉम दूर की ओर देख रहा था।
