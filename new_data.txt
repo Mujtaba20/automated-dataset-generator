@@ -14061,3 +14061,13 @@ Tom got a suntan.	Tom bekam eine Sonnenbräune.	टॉम को सनटैन
 Tom got a tattoo.	Tom bekam ein Tattoo.	टॉम को टैटू मिला।
 engSentence	{'Tom got a ticket.': 'Tom ka ticket mil gaya.', 'Tom got agitated.': 'Tom wurde aufgeregt.', 'Tom got confused.': 'Tom wurde verwirrt.', 'Tom got into bed.': 'Tom ist ins Bett gegangen.', 'Tom got no reply.': 'Tom hat keine Antwort erhalten.', 'Tom got on board.': 'Tom ist an Bord gegangen.', 'Tom got promoted.': 'Tom wurde befördert.', 'Tom got the part.': 'Tom hat die Rolle bekommen.', 'Tom got up early.': 'Tom ist früh aufgestanden.'}	{'Tom got a ticket.': 'टॉम को टिकट मिल गया।', 'Tom got agitated.': 'टॉम को परेशान किया गया।', 'Tom got confused.': 'टॉम को ग़लतफ़हमी हुई।', 'Tom got into bed.': 'टॉम बिस्तर पर गया।', 'Tom got no reply.': 'टॉम को कोई जवाब नहीं मिला।', 'Tom got on board.': 'टॉम बोर्ड पर चढ़ गया।', 'Tom got promoted.': 'टॉम को पदोत्तरित किया गया।', 'Tom got the part.': 'टॉम को किरदार मिला।', 'Tom got up early.': 'टॉम जल्दी उठ गया।'}
 engSentence	{'Tom got very fat.': 'Tom wurde sehr dick.', 'Tom got very hot.': 'Tom wurde sehr heiß.', 'Tom got very mad.': 'Tom wurde sehr wütend.', 'Tom grew a beard.': 'Tom bekam einen Bart.', 'Tom grew anxious.': 'Tom wurde unruhig.', 'Tom grew up here.': 'Tom ist hier aufgewachsen.', 'Tom had a stroke.': 'Tom hatte einen Schlaganfall.', 'Tom had a vision.': 'Tom hatte eine Vision.', 'Tom had a weapon.': 'Tom hatte eine Waffe.'}	{'Tom got very fat.': 'टॉम बहुत मोटा हो गया।', 'Tom got very hot.': 'टॉम बहुत गर्म हो गया।', 'Tom got very mad.': 'टॉम बहुत गुस्से में था।', 'Tom grew a beard.': 'टॉम के दाढ़ी आने लगी।', 'Tom grew anxious.': 'टॉम चिंतित हो गया।', 'Tom grew up here.': 'टॉम यहाँ बड़ा है।', 'Tom had a stroke.': 'टॉम को आघात आया।', 'Tom had a vision.': 'टॉम को एक दृष्टि दी गई थी।', 'Tom had a weapon.': 'टॉम के पास एक हथियार था।'}
+Tom had ambition.	Tom hatte ehrgeiz.	टॉम की महत्वाकांक्षा थी।
+Tom had jeans on.	Tom trug Jeans.	टॉम के पास जींस थी।
+Tom had no alibi.	Tom hatte kein Alibi.	टॉम के पास कोई अलाइबी नहीं थी।
+Tom had no money.	Tom hatte kein Geld.	टॉम के पास पैसे नहीं थे।
+Tom had to do it.	Tom musste es tun.	टॉम को यह करना था।
+Tom has a big TV.	Tom hat einen großen Fernseher.	टॉम के पास एक बड़ा टीवी है।
+Tom has a butler.	Tom hat einen Butler.	टॉम के पास एक बटलर है।
+Tom has a guitar.	Tom hat eine Gitarre.	टॉम के पास एक गिटार है।
+Tom has a lawyer.	Tom hat einen Anwalt.	टॉम के पास एक वकील है।
+Tom has a secret.	Tom hat ein Geheimnis.	टॉम के पास एक राज है।
