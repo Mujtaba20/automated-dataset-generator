@@ -7426,3 +7426,12 @@ Tom is yelling.	Tom ruft.	टॉम चिल्ला रहा है।
 Tom isn't busy.	Tom ist nicht beschäftigt.	टॉम व्यस्त नहीं है।
 Tom isn't done.	Tom ist noch nicht fertig.	टॉम पूरा नहीं हो चुका है।
 Tom isn't dumb.	Tom ist nicht dumm.	टॉम मूर्ख नहीं है।
+Tom isn't fair.	Tom ist nicht gerecht.	टॉम न्यायसंगत नहीं है।
+Tom isn't here.	Tom ist nicht hier.	टॉम यहाँ नहीं है।
+Tom isn't home.	Tom ist nicht zu Hause.	टॉम घर पर नहीं है।
+Tom isn't hurt.	Tom ist nicht verletzt.	टॉम कोई चोट नहीं लगी है।
+Tom isn't lazy.	Tom ist nicht faul.	टॉम सुस्त नहीं है।
+Tom isn't lost.	Tom ist nicht verloren.	टॉम हार नहीं गया है।
+Tom isn't mean.	Tom ist nicht gemein.	टॉम बुरा नहीं है।
+Tom isn't neat.	Tom ist nicht ordentlich.	टॉम साफ-सुथरा नहीं है।
+Tom isn't nice.	Tom ist nicht nett.	टॉम अच्छा नहीं है।
