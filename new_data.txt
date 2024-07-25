@@ -17579,3 +17579,13 @@ My hands are cold.	Meine Hände sind kalt.	मेरे हाथ ठंडे �
 My hands are full.	Meine Hände sind voll.	मेरे हाथ भरे हुए हैं।
 My hands are tied.	Meine Hände sind gebunden.	मेरे हाथ बांधे गए हैं।
 My hobby is music.	Mein Hobby ist Musik.	मेरा शौक संगीत है।
+My horse is black.	Mein Pferd ist schwarz.	मेरी घोड़ी काली है।
+My horse is white.	Mein Pferd ist weiß.	मेरी घोड़ी सफेद है।
+My horse ran away.	Mein Pferd ist weggelaufen.	मेरी घोड़ी भाग गई।
+My house is small.	Mein Haus ist klein.	मेरा घर छोटा है।
+My knife is sharp.	Mein Messer ist scharf.	मेरी चाकू तेज़ है।
+My laptop crashed.	Mein Laptop ist abgestürzt.	मेरा लैपटॉप क्रैश हो गया।
+My laptop crashed.1	Mein Laptop ist abgestürzt.	मेरा लैपटॉप गिर गया।
+My life is boring.	Mein Leben ist langweilig.	मेरा जीवन उबाऊ है।
+My mind was blank.	Mein Verstand war leer.	मेरा मन खाली था।
+My mind was blank.1	Mein Geist war leer.	मेरा दिमाग खाली था।
