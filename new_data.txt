@@ -11965,3 +11965,11 @@ He heard a shout.	Er hörte einen Schrei.	उसने चिल्लाहट 
 He is a kind boy.	Er ist ein freundlicher Junge.	वह एक दयालु लड़का है।
 He is a tall boy.	Er ist ein großer Junge.	वह एक ऊँचा लड़का है।
 He is aggressive.	Er ist aggressiv.	वह प्रवर्तनी है।
+He is an Italian.	Er ist Italiener.	वह इटालियन है।
+He is doing well.	Es geht ihm gut.	वह अच्छा कर रहा है।
+He is her friend.	Er ist ihr Freund.	वह उसका दोस्त है।
+He is his friend.	Er ist sein Freund.	वह उसका दोस्त है।
+He is in college.	Er ist im College.	वह कॉलेज में है।
+He is in trouble.	Er hat Probleme.	वह परेशान है।
+He is just a kid.	Er ist nur ein Kind.	वह सिर्फ एक बच्चा है।
+He is my brother.	Er ist mein Bruder.	वह मेरा भाई है।
