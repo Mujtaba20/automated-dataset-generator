@@ -8531,3 +8531,13 @@ He saw the girl.	Er sah das Mädchen.	उसने लड़की को दे
 He seems honest.	Er scheint ehrlich zu sein.	उसका ईमानदार लगता है।
 He seems hungry.	Er scheint hungrig zu sein.	उसे भूख लगी हुई है।
 He sells whisky.	Er verkauft Whisky.	उससे व्हिस्की बेचती है।
+He shouts a lot.	Er schreit viel.	वह बहुत चिल्लाता है।
+He sounds angry.	Er klingt wütend.	वह गुस्से में लगता है।
+He stared at me.	Er starrte mich an.	उसने मुझे घूरा।
+He studied hard.	Er hat hart gelernt.	उसने कड़ी मेहनत की।
+He walks slowly.	Er geht langsam.	वह धीमे कदम से चलता है।
+He was cheating.	Er hat betrogen.	उसने धोखा दिया था।
+He was innocent.	Er war unschuldig.	वह बेगुनाह था।
+He was outraged.	Er war empört.	उसे बेहद नाराज़ था।
+He was speaking.	Er sprach.	वह बोल रहा था।
+He was standing.	Er stand.	वह खड़ा था।
