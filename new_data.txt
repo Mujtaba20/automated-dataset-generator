@@ -6321,3 +6321,13 @@ I won't forget.	Ich werde nicht vergessen.	मैं भूल नहीं ज�
 I won't return.	Ich werde nicht zurückkehren.	मैं वापस नहीं आऊंगा।
 I work at home.	Ich arbeite von zu Hause aus.	मैं घर पर काम करता हूँ।
 I worked at it.	Ich habe daran gearbeitet.	मैंने इस पर काम किया था।
+I wrote to Tom.	Ich schrieb an Tom.	मैंने टॉम को लिखा।
+I'd be careful.	Ich wäre vorsichtig.	मैं सावधान रहूँगा।
+I'd like to go.	Ich möchte gehen.	मुझे जाना पसंद है।
+I'd love to go.	Ich würde gerne gehen.	मुझे जाने का बहुत मन है।
+I'll bring Tom.	Ich werde Tom mitbringen.	मैं टॉम को लेआऊंगा।
+I'll carry you.	Ich werde dich tragen.	मैं तुम्हें उठाऊंगा।
+I'll change it.	Ich werde es ändern.	मैं इसे बदल दूँगा।
+I'll come back.	Ich komme zurück.	मैं वापस आऊंगा।
+I'll come down.	Ich werde herunterkommen.	मैं नीचे आऊंगा।
+I'll come home.	Ich werde nach Hause kommen.	मैं घर आऊंगा।
