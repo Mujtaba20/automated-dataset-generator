@@ -4498,3 +4498,10 @@ Is there more?	Gibt es mehr?	क्या और है?
 Is this Tom's?	Ist das Toms?	क्या यह टॉम्स का है?
 Is this blood?	Ist das Blut?	क्या यह रक्त है?
 Is this legal?	Ist das legal?	क्या यह कानूनी है?
+Is this yours?	Ist das Ihrer?	क्या यह आपका है?
+Isn't it cool?	Ist es nicht cool?	क्या यह शानदार नहीं है?
+Isn't it flat?	Ist es nicht flach?	क्या यह सीधा नहीं है?
+Isn't it true?	Ist es nicht wahr?	क्या यह सच नहीं है?
+It came apart.	Es kam auseinander.	यह अलग आ गया।
+It did happen.	Es ist passiert.	यह हुआ था।
+It gets worse.	Es wird schlimmer.	यह और भी खराब हो जाता है।
