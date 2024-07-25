@@ -11693,3 +11693,13 @@ Do it once again.	Mach es noch einmal.	एक बार फिरसे कर�
 Do it right away.	Mach es sofort.	तुरंत करो।
 Do kids like you?	Mögen Kinder dich?	बच्चों को तुम पसंद हो?
 Do they like you?	Mögen sie dich?	क्या वे तुम्हें पसंद करते हैं?
+Do we have to go?	Müssen wir gehen?	क्या हमें जाना चाहिए?
+Do what Tom says.	Tu, was Tom sagt.	वह करें जो टॉम कहता है।
+Do what you like.	Mach, was du willst.	जो तुम्हें पसंद हो, वह करो।
+Do what you like. - 2	Tu, was du magst.	वह करें जो आपको पसंद है।
+Do what you like. - 3	Mach, was dir gefällt.	जो आपको चाहिए, वह करो।
+Do what you like. - 4	Tu, was dir gefällt.	जो आपको चाहिए, वह करो।
+Do what you want.	Tu, was du willst.	जो तुम चाहो, वह करो।
+Do you cry often?	Weinst du oft?	क्या तुम अक्सर रोते हो?
+Do you deny that?	Bestreitest du das?	क्या आप इनकार करते हैं?
+Do you eat a lot?	Isst du viel?	क्या तुम बहुत खाते हो?
