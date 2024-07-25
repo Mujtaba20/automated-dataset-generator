@@ -1117,3 +1117,12 @@ Is it good?	Ist es gut?	क्या यह अच्छा है?
 Is it love?	Ist es Liebe?	क्या यह प्यार है?
 Is it over?	Ist es vorbei?	क्या यह समाप्त हो गया है?
 Is it time?	Ist es Zeit?	क्या यह समय है?
+Is that it?	Ist das alles?	क्या वह है?
+Is this OK?	Ist das in Ordnung?	क्या यह ठीक है?
+Is this it?	Ist das es?	क्या यही है?
+It happens.	Es passiert.	यह होता है।
+It is 7:45.	Es ist 7:45 Uhr.	सात बजे पंध्रह मिनट है।
+It matters.	Es ist wichtig.	यह मायने रखता है।
+It was big.	Es war groß.	यह बड़ा था।
+It'll work.	Es wird funktionieren.	यह काम करेगा।
+It's Tom's.	Es ist Toms.	यह टॉम का है।
