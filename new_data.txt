@@ -13356,3 +13356,12 @@ My job is boring.	Mein Job ist langweilig.	मेरा काम उबाऊ �
 My legs are sore.	Meine Beine sind wund.	मेरी टांगें टेढ़ी मेढ़ी हैं।
 My mother is out.	Meine Mutter ist weg.	मेरी माँ बाहर गई है।
 My mouth was dry.	Mein Mund war trocken.	मेरा मुँह सूखा था।
+My nose is itchy.	Meine Nase kratzt.	मेरी नाक खुजली कर रही है।
+My pencil is red.	Mein Bleistift ist rot.	मेरा पेन्सिल लाल है।
+My place is here.	Mein Platz ist hier.	मेरी जगह यहाँ है।
+My pulse is fast.	Mein Puls ist schnell.	मेरी नब्ज तेज है।
+My pulse is slow.	Mein Puls ist langsam.	मेरी नब्ज धीमी है।
+My pulse is weak.	Mein Puls ist schwach.	मेरी नब्ज कमजोर है।
+My shoes got wet.	Meine Schuhe sind nass geworden.	मेरे जूते गीले हो गए।
+My socks are wet.	Meine Socken sind nass.	मेरे मोजे गीले हैं।
+My stomach hurts.	Mein Magen tut weh.	मेरा पेट दर्द कर रहा है।
