@@ -13610,3 +13610,13 @@ Take Tom's place.	Nimm Toms Platz ein.	टॉम की जगह लो।
 Take a good look.	Schau genau hin.	अच्छे से देखो।
 Take a look, Tom.	Schau mal, Tom.	देखो, टॉम।
 Take precautions.	Vorsichtsmaßnahmen treffen.	सावधानी बरतें।
+Take us with you.	Nimm uns mit.	हमें ले जाओ।
+Talk to somebody.	Sprich mit jemandem.	किसी से बात करो।
+Tell Dad to come.	Sag Papa, er soll kommen.	कहो पापा को आने के लिए।
+Tell him to wait.	Sag ihm, er soll warten.	उसे कहो कि वह रुके।
+Tell me about it!	Erzähl mir davon!	मुझे इसके बारे में बताओ!
+Tell me the news.	Erzähl mir die Neuigkeiten.	मुझे खबरें बताओ।
+Tell that to Tom.	Sag das Tom.	उसे यह तॉम को बताओ।
+Thank Tom for me.	Dank Tom für mich.	मेरी ओर से टॉम का धन्यवाद।
+That bag is mine.	Die Tasche gehört mir.	वह बैग मेरा है।
+That book is old.	Das Buch ist alt.	वह किताब पुरानी है।
