@@ -3709,3 +3709,12 @@ You're young.	Du bist jung.	तुम जवान हो।
 You've grown.	Du bist gewachsen.	तुम बढ़ गए हो।
 You've grown. - Different meaning	Du hast sich verbessert.	तुमने विकसित किया है।
 You've tried.	Du hast es versucht.	तुमने कोशिश की है।
+A car hit Tom.	Ein Auto traf Tom.	एक कार ने टॉम को मारा।
+A car went by.	Ein Auto fuhr vorbei.	एक कार गुजर गई।
+Add some salt.	Füge etwas Salz hinzu.	थोड़ा सा नमक डालें।
+Air the futon.	Lüften Sie das Futon.	फुटन को हवादार करें।
+Air the futon. (different meaning)	Schütteln Sie das Futon auf.	फुटन को हिलाएं।
+Am I approved?	Bin ich genehmigt?	क्या मुझे मंजूरी मिली है?
+Am I dreaming?	Träume ich?	क्या मैं सपने देख रहा हूँ?
+Am I mistaken?	Habe ich mich geirrt?	क्या मैं गलती कर रहा हूँ?
+Am I safe now?	Bin ich jetzt sicher?	क्या अब मैं सुरक्षित हूँ?
