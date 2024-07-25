@@ -617,3 +617,12 @@ I'm stuck.	Ich stecke fest.	मैं फंसा हूँ।
 I'm tired.	Ich bin müde.	मैं थक गया हूँ।
 I'm tough.	Ich bin zäh.	मैं मजबूत हूँ।
 I'm upset.	Ich bin verärgert.	मुझे उदासी आ रही है।
+I'm yours.	Du gehörst mir.	मैं तुम्हारा हूँ।
+I've lost.	Ich habe verloren.	मैं हार गया हूँ।
+Ignore it.	Lass es sein.	इसे छोड़ दो।
+Is Tom OK?	Geht es Tom gut?	क्या टॉम ठीक है?
+Is Tom in?	Ist Tom da?	क्या टॉम अंदर है?
+Is he Tom?	Ist er Tom?	क्या वह टॉम है?
+Is it bad?	Ist es schlimm?	क्या यह बुरा है?
+Is it far?	Ist es weit?	क्या यह दूर है?
+Is it hot?	Ist es heiß?	क्या यह गर्म है?
