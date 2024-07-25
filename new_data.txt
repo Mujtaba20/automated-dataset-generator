@@ -11130,3 +11130,13 @@ We're fishermen.	Wir sind Fischer.	हम मछुआरे हैं।
 We're from here.	Wir sind von hier.	हम यहाँ से हैं।
 We're gardeners.	Wir sind Gärtner.	हम बाग़बान हैं।
 We're giving up.	Wir geben auf.	हम हार मान रहे हैं।
+We're going now.	Wir gehen jetzt.	हम अब जा रहे हैं।
+We're going out.	Wir gehen aus.	हम बाहर जा रहे हैं।
+We're here, too.	Wir sind auch hier.	हम यहाँ भी हैं।
+We're impatient.	Wir sind ungeduldig.	हम अधीर हैं।
+We're impressed.	Wir sind beeindruckt.	हम प्रभावित हैं।
+We're in Boston.	Wir sind in Boston.	हम बोस्टन में हैं।
+We're in danger.	Wir sind in Gefahr.	हमें खतरा है।
+We're intrigued.	Wir sind fasziniert.	हम आकर्षित हैं।
+We're listening.	Wir hören zu.	हम सुन रहे हैं।
+We're neighbors.	Wir sind Nachbarn.	हम पड़ोसी हैं।
