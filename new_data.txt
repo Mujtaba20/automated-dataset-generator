@@ -17870,3 +17870,8 @@ Take the next bus.	Nimm den nächsten Bus.	अगली बस पकड़ो�
 Tell Tom I called.	Sag Tom, ich habe angerufen.	तोम से कहो, मैंने कॉल किया।
 Tell Tom about it.	Informiere Tom darüber.	तोम को इसके बारे में सूचित करो।
 Tell Tom to hurry.	Sag Tom, er soll sich beeilen.	तोम को जल्दी करने के लिए कहो।
+Tell Tom to relax.	Sagen Sie Tom, er soll sich entspannen.	टॉम से कहें कि वह आराम करे।
+Tell Tom yourself.	Sag es Tom selbst.	खुद टॉम से कहो।
+Tell me about Tom.	Berichte mir über Tom.	मुझे टॉम के बारे में बताएं।
+Tell me the story.	Erzähl mir die Geschichte.	मुझे कहानी सुनाओ।
+Tell me the truth.	Sagen Sie mir die Wahrheit.	मुझे सच बताएं।

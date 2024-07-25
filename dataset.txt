@@ -1,14 +1,4 @@
 
-Tell Tom to relax.	Sag Tom, er soll entspannen.	टॉम कहो, उसे आराम करना चाहिए।
-Tell Tom to relax.	Sag Tom, er soll sich erholen.	टॉम कहो, उसे ठीक होना चाहिए।
-Tell Tom yourself.	Sag’s Tom doch selbst!	इसे स्वयं कहो!
-Tell me about Tom.	Erzähl mir von Tom.	मुझे टॉम के बारे में बताओ।
-Tell me about Tom.	Erzählen Sie mir von Tom!	मुझे टॉम के बारे में बताओ!
-Tell me the story.	Erzähl mir die Geschichte.	मुझे कहानी बताओ।
-Tell me the truth.	Sagt mir die Wahrheit.	मुझे सच बताओ।
-Tell me the truth.	Sagen Sie mir die Wahrheit.	मुझे सच बताओ।
-Tell me the truth.	Sag mir die Wahrheit.	मुझे सच बताओ।
-Tell me the truth.	Sag mir die Wahrheit!	मुझे सच बताओ!
 Tell me your name.	Nenne mir deinen Namen.	मेरे नाम का नाम।
 Tell me your plan.	Sag mir, was dein Plan ist.	मुझे बताओ कि आपकी योजना क्या है।
 Tell me your plan.	Sagen Sie mir, was Ihr Plan ist.	मुझे बताओ कि आपकी योजना क्या है।
