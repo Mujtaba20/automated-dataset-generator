@@ -3585,3 +3585,13 @@ We'll go out.	Wir werden rausgehen.	हम बाहर जाएँगे।
 We'll scream.	Wir werden schreien.	हम चिल्लाएँगे।
 We'll starve.	Wir werden verhungern.	हम भूख से मर जाएँगे।
 We're afraid.	Wir haben Angst.	हमे डर लग रहा है।
+We're at war.	Wir sind im Krieg.	हम युद्ध में हैं।
+We're biased.	Wir sind voreingenommen.	हम दृष्टिकोणवान हैं।
+We're closed.	Wir sind geschlossen.	हम बंद हैं।
+We're coming.	Wir kommen.	हम आ रहे हैं।
+We're crying.	Wir weinen.	हम रो रहे हैं।
+We're dating.	Wir datieren.	हम डेटिंग कर रहे हैं।
+We're doomed.	Wir sind verloren.	हम निष्क्रिय हैं।
+We're heroes.	Wir sind Helden.	हम नायक हैं।
+We're hiding.	Wir verstecken uns.	हम छिपे हुए हैं।
+We're hiding. (Different meaning)	Wir sind inkognito.	हम मास्केड हैं।
