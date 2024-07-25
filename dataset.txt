@@ -1,14 +1,4 @@
 
-Tom won't confess.	Tom wird nicht gestehen.	टॉम कबूल नहीं करेगा।
-Tom won't go away.	Tom geht nicht.	टॉम काम नहीं करता है।
-Tom won't help us.	Tom wird uns nicht helfen.	टॉम हमारी मदद नहीं करेगा।
-Tom won't keep it.	Tom will es nicht behalten.	टॉम इसे रखना नहीं चाहता।
-Tom won't make it.	Tom wird es nicht schaffen.	टॉम इसे नहीं बनाएगा।
-Tom won't respond.	Tom wird nicht antworten.	टॉम जवाब नहीं देगा।
-Tom won't respond.	Tom wird nicht reagieren.	टॉम प्रतिक्रिया नहीं करेगा।
-Tom won't succeed.	Tom wird nicht erfolgreich sein.	टॉम सफल नहीं होगा।
-Tom won't succeed.	Tom wird keinen Erfolg haben.	टॉम सफल नहीं होगा।
-Tom won't succeed.	Tom wird nicht nachfolgen.	टॉम फॉलो नहीं करेंगे।
 Tom won't survive.	Tom wird nicht überleben.	टॉम जीवित नहीं रहेगा।
 Tom wore a fedora.	Tom trug einen Filzhut.	टॉम ने एक महसूस की गई टोपी पहनी हुई थी।
 Tom wore a tuxedo.	Tom trug einen Smoking.	टॉम ने एक टक्सीडो पहना था।

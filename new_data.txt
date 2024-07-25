@@ -19409,3 +19409,12 @@ Tom woke up naked.	Tom wachte nackt auf.	टॉम नंगे होकर उ
 Tom won't approve.	Tom wird nicht zustimmen.	टॉम स्वीकृति नहीं देगा।
 Tom won't be back.	Tom wird nicht zurückkommen.	टॉम वापस नहीं आएगा।
 Tom won't beat me.	Tom wird mich nicht schlagen.	टॉम मुझे नहीं मारेगा।
+Tom won't confess.	Tom wird nicht gestehen.	टॉम नहीं स्वीकारेगा।
+Tom won't go away.	Tom wird nicht weggehen.	टॉम नहीं जाएगा।
+Tom won't help us.	Tom wird uns nicht helfen.	टॉम हमें मदद नहीं करेगा।
+Tom won't keep it.	Tom wird es nicht behalten.	टॉम इसे नहीं रखेगा।
+Tom won't make it.	Tom wird es nicht schaffen.	टॉम यह नहीं करेगा।
+Tom won't respond.	Tom wird nicht reagieren.	टॉम प्रतिक्रिया नहीं देगा।
+Tom won't succeed.	Tom wird nicht erfolgreich sein.	टॉम सफल नहीं होगा।
+Tom won't succeed. (alternative meaning)	Tom wird es nicht schaffen.	टॉम यह नहीं करेगा।
+Tom won't succeed. (second alternative meaning)	Tom hat keinen Erfolg.	टॉम को सफलता नहीं मिलेगी।
