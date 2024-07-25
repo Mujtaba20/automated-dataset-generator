@@ -19239,3 +19239,11 @@ Tom waited nearby.	Tom wartete in der Nähe.	टॉम नजदीक इंत
 Tom walked inside.	Tom ging hinein.	टॉम अंदर चला गया।
 Tom walked inside. Duplicate Translation	Tom lief hinein.	टॉम ने अंदर चलना शुरू किया।
 Tom walks quickly.	Tom läuft schnell.	टॉम तेजी से चलता है।
+Tom walks the dog.	Tom führt den Hund spazieren.	टॉम कुत्ते को लेकर चलता है।
+Tom wanted change.	Tom wollte Veränderung.	टॉम को बदलाव चाहिए था।
+Tom wanted to die.	Tom wollte sterben.	टॉम को मरना चाहिए था।
+Tom wants answers.	Tom will Antworten.	टॉम जवाब चाहता है।
+Tom wants dessert.	Tom möchte Nachtisch.	टॉम को मिठाई चाहिए।
+Tom wants popcorn.	Tom möchte Popcorn.	टॉम को पॉपकॉर्न चाहिए।
+Tom wants respect.	Tom möchte Respekt.	टॉम को सम्मान चाहिए।
+Tom wants results.	Tom will Ergebnisse.	टॉम नतीजे चाहता है।

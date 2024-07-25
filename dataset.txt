@@ -1,14 +1,4 @@
 
-Tom walks the dog.	Tom geht mit dem Hund Gassi.	टॉम कुत्ते के साथ जाता है।
-Tom wanted change.	Tom war nach Veränderung zumute.	टॉम को बदलाव की तरह लगा।
-Tom wanted to die.	Tom wollte sterben.	टॉम मरना चाहता था।
-Tom wants answers.	Tom will Lösungen.	टॉम समाधान चाहता है।
-Tom wants dessert.	Tom möchte Nachtisch.	टॉम मिठाई चाहता है।
-Tom wants popcorn.	Tom möchte Popcorn.	टॉम पॉपकॉर्न चाहता है।
-Tom wants popcorn.	Tom will Popcorn haben.	टॉम पॉपकॉर्न चाहते हैं।
-Tom wants respect.	Tom verlangt Respekt.	टॉम सम्मान की मांग करता है।
-Tom wants respect.	Tom sucht nach Respekt.	टॉम सम्मान की तलाश में है।
-Tom wants results.	Tom will Ergebnisse.	टॉम परिणाम चाहता है।
 Tom wants revenge.	Tom will Rache.	टॉम बदला लेना चाहता है।
 Tom wants revenge.	Tom sinnt auf Rache.	टॉम बदला लेने पर सोचता है।
 Tom wants to come.	Tom möchte kommen.	टॉम आना चाहता है।
