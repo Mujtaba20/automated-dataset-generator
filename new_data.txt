@@ -15221,3 +15221,12 @@ Where is the bus?	Wo ist der Bus?	बस कहाँ है?
 Where is the cat?	Wo ist die Katze?	बिल्ली कहाँ है?
 Where is the dog?	Wo ist der Hund?	कुत्ता कहाँ है?
 Where's Tom been?	Wo war Tom?	टॉम कहाँ गया था?
+Where's Tom from?	Woher kommt Tom?	टॉम कहाँ से है?
+Where's Tom gone?	Wo ist Tom hingegangen?	टॉम कहाँ गया है?
+Where's a mirror?	Wo ist ein Spiegel?	एक आईना कहाँ है?
+Where's my brush?	Wo ist meine Bürste?	मेरा ब्रश कहाँ है?
+Where's my daddy?	Wo ist mein Papa?	मेरे पापा कहाँ हैं?
+Where's my diary?	Wo ist mein Tagebuch?	मेरी डायरी कहाँ है?
+Where's my horse?	Wo ist mein Pferd?	मेरा घोड़ा कहाँ है?
+Where's my lunch?	Wo ist mein Mittagessen?	मेरा लंच कहाँ है?
+Where's my mommy?	Wo ist meine Mama?	मेरी मम्मी कहाँ हैं?
