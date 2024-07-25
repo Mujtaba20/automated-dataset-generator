@@ -13491,3 +13491,9 @@ School is boring.	Schule ist langweilig.	स्कूल बोरिंग ह�
 School's not fun.	Schule macht keinen Spaß.	स्कूल मजेदार नहीं है।
 See you in class.	Wir sehen uns im Unterricht.	कक्षा में मिलेंगे।
 See you tomorrow.	Bis morgen.	कल मिलेंगे।
+Send me the bill.	Schicken Sie mir die Rechnung.	मुझे बिल भेजो।
+Shall I help you?	Soll ich dir helfen?	क्या मैं तुम्हारी मदद कर सकता हूँ।
+She attacked him.	Sie hat ihn angegriffen.	उसने उस पर हमला किया।
+She became happy.	Sie wurde glücklich.	उसने खुश हो गया।
+She began crying.	Sie fing an zu weinen.	वह रोने लगी।
+She betrayed you.	Sie hat dich hintergangen.	उसने तुम्हें धोखा दिया।
