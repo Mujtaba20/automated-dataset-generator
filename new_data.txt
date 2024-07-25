@@ -7914,3 +7914,11 @@ What do I have?	Was habe ich?	मेरे पास क्या है?
 What do I know?	Was weiß ich?	मुझे क्या पता है?
 What do I need?	Was brauche ich?	मुझे क्या चाहिए?
 What do we owe?	Was schulden wir?	हमे किसके प्रति ऋण है?
+What do you do?	Was machst du?	तुम क्या करते हो?
+What is it for?	Wofür ist das?	यह किसे लिए है?
+What is it now?	Was ist es jetzt?	यह अब क्या है?
+What was there?	Was war dort?	वहां क्या था?
+What'll Tom do?	Was wird Tom tun?	टॉम क्या करेगा?
+What'll change?	Was wird sich ändern?	क्या बदलेगा?
+What'll happen?	Was wird passieren?	क्या होने वाला है?
+What'll you do?	Was wirst du tun?	तुम क्या करोगे?
