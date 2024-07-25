@@ -17214,3 +17214,11 @@ Is anyone looking?	Sucht jemand?	क्या कोई देख रहा ह�
 Is he kind to you?	Ist er nett zu dir?	क्या वह आपके प्रति दयालु है?
 Is it a good play?	Ist es ein gutes Stück?	क्या यह एक अच्छा नाटक है?
 Is it complicated?	Ist es kompliziert?	क्या यह जटिल है?
+Is it far to town?	Ist es weit bis zur Stadt?	क्या यह शहर के ल‍िए दूर है?
+Is it hot outside?	Ist es draußen heiß?	क्या बाहर गर्मी है?
+Is it my turn now?	Bin ich jetzt dran?	क्या अब मेरी बारी है?
+Is it raining now?	Regnet es jetzt?	क्या यहाँ अभी बारिश हो रही है?
+Is it really true?	Ist es wirklich wahr?	क्या यह सच है?
+Is it snowing now?	Schneit es jetzt?	क्या यहाँ अभी बर्फ गिर रही है?
+Is it still there?	Ist es immer noch da?	क्या वह अभी भी वहाँ है?
+Is it that urgent?	Ist es so dringend?	क्या यह इतना जल्दी काम करना है?
