@@ -273,3 +273,7 @@ Call Tom.	Rufe Tom an.	टॉम को बुलाओ।
 Can I go?	Kann ich gehen?	क्या मैं जा सकता हूँ?
 Catch me.	Hol mich ein.	मुझे पकड़ लो।
 Cheer up!	Kopf hoch!	जी उठाओ!
+Cool off!	Abkühlen!	शांत हो जाओ!
+Cuff him.	Verhaften ihn.	उसको हाथकड़ी पहना लो।
+Don't go.	Nicht weggehen.	मत जाओ।
+Drive on.	Weiterfahren.	आगे चलो।
