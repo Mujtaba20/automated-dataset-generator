@@ -9428,3 +9428,11 @@ Is that my book?	Ist das mein Buch?	क्या यह मेरी कित�
 Is that unusual?	Ist das ungewöhnlich?	क्या यह असाधारण है?
 Is there a cafe?	Gibt es ein Café?	क्या वहां कोई कैफे है?
 Is this a dream?	Ist das ein Traum?	क्या यह एक सपना है?
+Is this a river?	Ist das ein Fluss?	क्या यह नदी है?
+Is this car new?	Ist dieses Auto neu?	क्या यह गाड़ी नई है?
+Is this correct?	Ist das richtig?	क्या यह सही है?
+Is this ethical?	Ist das ethisch?	क्या यह नैतिक है?
+Is this my book?	Ist das mein Buch?	क्या यह मेरी किताब है?
+Is this my life?	Ist das mein Leben?	क्या यह मेरा जीवन है?
+Is this too big?	Ist das zu groß?	क्या यह बहुत बड़ा है?
+Is today Friday?	Ist heute Freitag?	क्या आज शुक्रवार है?
