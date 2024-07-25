@@ -11035,3 +11035,13 @@ We can't escape.	Wir können nicht entkommen.	हम भाग नहीं स�
 We can't see it.	Wir können es nicht sehen.	हम इसे नहीं देख सकते।
 We captured Tom.	Wir haben Tom erobert.	हमने टॉम को जीत लिया।
 We closed early.	Wir haben früh geschlossen.	हमने जल्दी से बंद कर दिया।
+We count on you.	Wir zählen auf dich.	हम आप पर निर्भर करते हैं।
+We declared war.	Wir haben Krieg erklärt.	हमने युद्ध का घोषणा किया।
+We didn't smile.	Wir haben nicht gelächelt.	हमने मुस्कान नहीं की।
+We didn't worry.	Wir haben uns keine Sorgen gemacht.	हम चिंता नहीं किए।
+We eat raw fish.	Wir essen rohen Fisch.	हम कच्चा मछली खाते हैं।
+We followed Tom.	Wir folgten Tom.	हमने टॉम का पीछा किया।
+We had no money.	Wir hatten kein Geld.	हमारे पास कोई पैसे नहीं थे।
+We have a guest.	Wir haben einen Gast.	हमारे पास एक मेहमान है।
+We have arrived.	Wir sind angekommen.	हम पहुंच चुके हैं।
+We have bananas.	Wir haben Bananen.	हमारे पास केले हैं।
