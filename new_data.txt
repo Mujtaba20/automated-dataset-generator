@@ -7282,3 +7282,12 @@ Tom is cooking.
 Tom is correct.		
 Tom is curious.		
 Tom is cynical.		
+Tom is dancing.	Tom tanzt.	टॉम नृत्य कर रहा है।
+Tom is devious.	Tom ist hinterhältig.	टॉम चालाक है।
+Tom is devoted.	Tom ist hingebungsvoll.	टॉम समर्पित है।
+Tom is dieting.	Tom macht Diät.	टॉम डाइटिंग कर रहा है।
+Tom is dressed.	Tom ist angezogen.	टॉम पहना हुआ है।
+Tom is driving.	Tom fährt.	टॉम ड्राइविंग कर रहा है।
+Tom is dubious.	Tom ist zweifelhaft.	टॉम संदिग्ध है।
+Tom is dusting.	Tom staubt ab.	टॉम पोंछा लगा रहा है।
+Tom is elusive.	Tom ist schwer fassbar.	टॉम लफ्जी है।
