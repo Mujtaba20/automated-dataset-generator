@@ -15062,3 +15062,11 @@ We're astonished.	Wir sind erstaunt.	हम हैरान हैं।
 We're back early.	Wir sind früh zurück.	हम जल्दी वापस आ गए हैं।
 We're both crazy.	Wir sind beide verrückt.	हम दोनों पागल हैं।
 We're classmates.	Wir sind Klassenkameraden.	हम क्लासमेट्स हैं।
+We're doing fine.	Wir machen gut.	हम ठीक कर रहे हैं।
+We're dozing off.	Wir dösen ein.	हम सुविचार कर रहे हैं।
+We're frightened.	Wir sind erschrocken.	हम डर रहे हैं।
+We're getting it.	Wir verstehen es.	हम इसे समझ रहे हैं।
+We're going down.	Wir gehen nach unten.	हम नीचे जा रहे हैं।
+We're going east.	Wir gehen nach Osten.	हम पूर्व जा रहे हैं।
+We're going home.	Wir gehen nach Hause.	हम घर जा रहे हैं।
+We're going west.	Wir gehen nach Westen.	हम पश्चिम जा रहे हैं।
