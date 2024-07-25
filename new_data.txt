@@ -13784,3 +13784,10 @@ They aren't dead.	Sie sind nicht tot.	वे मरे नहीं हैं।
 They aren't here.	Sie sind nicht hier.	वे यहाँ नहीं हैं।
 They aren't mine.	Sie gehören nicht mir.	वे मेरे नहीं हैं।
 They aren't rich.	Sie sind nicht reich.	वे धनवान नहीं हैं।
+They arrested me.	Sie haben mich verhaftet.	उन्होंने मुझे गिरफ्तार किया।
+They believe you.	Sie meinen dich.	वे आप पर यकीन करते हैं।
+They call me Tom.	Sie nennen mich Tom.	वे मुझे टॉम कहते हैं।
+They deserved it.	Sie haben es verdient.	उन्हें यह लायक था।
+They did nothing.	Sie haben nichts getan.	उन्होंने कुछ नहीं किया।
+They disappeared.	Sie sind verschwunden.	वे गायब हो गए।
+They dug a grave.	Sie gruben ein Grab.	उन्होंने एक कब्र खोदी।
