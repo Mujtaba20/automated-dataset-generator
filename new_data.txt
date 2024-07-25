@@ -6674,3 +6674,11 @@ It's your home.	Es ist dein Zuhause.	यह तुम्हारा घर ह�
 It's your home. (Different meaning)	Das liegt in deinem Ermessen.	यह तुम्हारी उपलब्धि है।
 It's your move.	Jetzt bist du dran.	यह तुम्हारी चाल है।
 It's your turn.	Du bist dran.	यह तुम्हारी बारी है।
+Just apologize.	Entschuldige dich einfach.	बस माफ़ी मांगो।
+Just apologize. (Different meaning)	Nur entschuldigen.	बस माफ़ी मांगो। (अलग अर्थ)
+Just ignore it.	Ignoriere es einfach.	बस इसे नज़रअंदाज़ करो।
+Just let me go.	Lass mich einfach gehen.	मुझे बस जाने दो।
+Just sign here.	Unterschreib hier einfach.	यहां बस हस्ताक्षर करें।
+Keep Tom quiet.	Halte Tom ruhig.	टॉम को शांत रखो।
+Keep Tom there.	Halte Tom dort.	वहां टॉम को रखो।
+Keep it on you.	Behalte es bei dir.	यह अपने पास रखो।
