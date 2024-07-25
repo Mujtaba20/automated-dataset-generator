@@ -11045,3 +11045,11 @@ We had no money.	Wir hatten kein Geld.	हमारे पास कोई प�
 We have a guest.	Wir haben einen Gast.	हमारे पास एक मेहमान है।
 We have arrived.	Wir sind angekommen.	हम पहुंच चुके हैं।
 We have bananas.	Wir haben Bananen.	हमारे पास केले हैं।
+We have changed.	Wir haben uns geändert.	हमने परिवर्तन किया है।
+We have no time.	Wir haben keine Zeit.	हमारे पास कोई समय नहीं है।
+We have nothing.	Wir haben nichts.	हमारे पास कुछ नहीं है।
+We have to stop.	Wir müssen anhalten.	हमें रुकना होगा।
+We have to talk.	Wir müssen reden.	हमें बात करनी होगी।
+We have to wait.	Wir müssen warten.	हमें इंतजार करना होगा।
+We lack nothing.	Es fehlt uns an nichts.	हमारे पास कुछ भी नहीं है।
+We left at 2:30.	Wir haben um 2:30 Uhr verlassen.	हमने 2:30 बजे छोड़ दिया।
