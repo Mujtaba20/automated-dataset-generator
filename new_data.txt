@@ -493,3 +493,11 @@ He is old.	Er ist alt.	वह बूढ़ा है।
 He shaved.	Er hat sich rasiert.	उसने दाढ़ी काटी।
 He smiled.	Er lächelte.	उसने मुस्कान की।
 He's a DJ.	Er ist ein DJ.	वह एक डीजे है।
+He's fast.	Er ist schnell.	वह तेज़ है।
+He's good.	Er ist gut.	वह अच्छा है।
+He's lazy.	Er ist faul.	वह आलसी है।
+He's rich.	Er ist reich.	वह धनवान है।
+He's sexy.	Er ist sexy.	वह सेक्सी है।
+Head east.	Gehe Richtung Osten.	पूर्व की ओर जाओ।
+Here I am.	Hier bin ich.	मैं यहाँ हूँ।
+Here's $5.	Hier sind $5.	यह रुपये 5 हैं।
