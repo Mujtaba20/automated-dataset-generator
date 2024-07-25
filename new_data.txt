@@ -3060,3 +3060,8 @@ Let go of me!	Lass mich los!	मुझे छोड़ो!
 Let me do it.	Lass mich es tun.	मुझे यह करने दो।
 Let me dream.	Lass mich träumen.	मुझे सपना देखने दो।
 Let me sleep.	Lass mich schlafen.	मुझे सोने दो।
+Let me leave!	Lass mich gehen!	मुझे जाने दो!
+Let me think.	Lass mich nachdenken.	मुझे सोचने दो।
+Let's go now.	Lass uns jetzt gehen.	चलो अब।
+Let's see it.	Lass es uns sehen.	देखते हैं।
+Let's try it.	Lass es uns versuchen.	इसे प्रयास करें।
