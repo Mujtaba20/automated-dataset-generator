@@ -16308,3 +16308,11 @@ I can't blame you.	Ich kann dich nicht beschuldigen.	मैं तुम्ह�
 I can't buy a car.	Ich kann kein Auto kaufen.	मैं एक कार नहीं खरीद सकता।
 I can't deny that.	Ich kann das nicht leugnen.	मैं उसे नकार नहीं सकता।
 I can't do it now.	Ich kann es jetzt nicht machen.	मैं अब इसे नहीं कर सकता।
+I can't leave Tom.	Ich kann Tom nicht verlassen.	मैं टॉम को छोड़ नहीं सकता।
+I can't leave now.	Ich kann jetzt nicht verlassen.	मैं अब नहीं छोड़ सकता।
+I can't look away.	Ich kann nicht wegschauen.	मैं आंखें नहीं हटा सकता।
+I can't marry Tom.	Ich kann Tom nicht heiraten.	मैं टॉम से शादी नहीं कर सकता।
+I can't move this.	Ich kann das nicht bewegen.	मैं यह नहीं हिला सकता।
+I can't place him.	Ich kann ihn nicht platzieren.	मैं उसे रखने का नहीं कर सकता।
+I can't reach Tom.	Ich kann Tom nicht erreichen.	मैं टॉम तक पहुंच नहीं सकता।
+I can't read this.	Ich kann das hier nicht lesen.	मैं यह नहीं पढ़ सकता।
