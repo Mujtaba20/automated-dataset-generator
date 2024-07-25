@@ -1,14 +1,4 @@
 
-They're both fine.	Den beiden geht's gut.	दोनों ठीक हैं।
-They're both good.	Sie sind beide gut.	वे दोनों अच्छे हैं।
-They're cannibals.	Das sind Kannibalen.	ये नरभक्षी हैं।
-They're different.	Sie sind anders.	वे अलग हैं।
-They're expensive.	Sie sind teuer.	वो महंगे हैं।
-They're identical.	Sie sind identisch.	वे समान हैं।
-They're impressed.	Sie sind beeindruckt.	वे प्रभावित हैं।
-They're in Boston.	Sie sind in Boston.	आप बोस्टन में हैं।
-They're in danger.	Sie sind in Gefahr.	आप खतरे में हैं।
-They're listening.	Sie hören zu.	वे सुनते हैं।
 They're murderers.	Das sind Mörder.	ये हत्यारे हैं।
 They're not happy.	Sie sind nicht glücklich.	वे प्रसन्न नहीं हैं।
 They're not there.	Sie sind nicht dort.	आप वहां नहीं हैं।

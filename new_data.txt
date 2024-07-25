@@ -18182,3 +18182,13 @@ They're Canadians.	Sie sind Kanadier.	वे कनाडियन हैं।
 They're after you.	Sie sind hinter dir her.	वे तुम्हारे पीछे हैं।
 They're beautiful.	Sie sind wunderschön.	वे सुंदर हैं।
 They're both dead.	Sie sind beide tot.	वे दोनों मरे हुए हैं।
+They're both fine.	Sie sind beide in Ordnung.	वे दोनों ठीक हैं।
+They're both good.	Sie sind beide gut.	वे दोनों अच्छे हैं।
+They're cannibals.	Sie sind Kannibalen.	वे मांसाहारी हैं।
+They're different.	Sie sind unterschiedlich.	वे भिन्न हैं।
+They're expensive.	Sie sind teuer.	वे महंगे हैं।
+They're identical.	Sie sind identisch.	वे एकसमान हैं।
+They're impressed.	Sie sind beeindruckt.	उन्हें प्रभावित किया गया है।
+They're in Boston.	Sie sind in Boston.	वे बोस्टन में हैं।
+They're in danger.	Sie sind in Gefahr.	वे खतरे में हैं।
+They're listening.	Sie hören zu.	वे सुन रहे हैं।
