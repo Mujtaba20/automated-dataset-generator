@@ -19580,3 +19580,12 @@ We ran out of gas.	Uns ist das Benzin ausgegangen.	हमारे पास ई
 We really did try.	Wir haben es wirklich versucht.	हमने सचमुच कोशिश की।
 We ran out of gas. - Different meaning	Uns fehlt es an Energie.	हमारी ऊर्जा खत्म हो गई है।
 We really did try. - Different meaning	Wir haben es wirklich probiert.	हमने सचमुच कोशिश की।
+We recognized Tom.	Wir haben Tom erkannt.	हमने टॉम को पहचान लिया।
+We rented a canoe.	Wir haben ein Kanu gemietet.	हमने एक कैनू लिया।
+We saw everything.	Wir haben alles gesehen.	हमने सब कुछ देखा।
+We saw them leave.	Wir sahen sie gehen.	हमने उन्हें चलते देखा।
+We seek happiness.	Wir streben nach Glück.	हम खुशी की तलाश करते हैं।
+We should be fine.	Wir sollten in Ordnung sein.	हमें ठीक होना चाहिए।
+We tried our best.	Wir haben unser Bestes versucht.	हमने अपनी सबसे अच्छी कोशिश की।
+We understand why.	Wir verstehen warum.	हम समझते हैं क्यों।
+We waited for Tom.	Wir haben auf Tom gewartet.	हमने टॉम का इंतजार किया।
