@@ -4616,3 +4616,5 @@ engSentence2	Gerade überprüfen.	बस इसे जांच लो।
 engSentence3	Einfach überprüfen.	बस यह जांच लो।
 engSentence4	Nur prüfen Sie es.	बस इसे जांचें।
 engSentence5	Nur überprüfen.	केवल यह जांचें।
+Just find Tom.	Finde einfach Tom.	तोम को बस ढूंढ़ो।
+Just get lost.	Verpiss dich einfach.	बस खो जाओ।
