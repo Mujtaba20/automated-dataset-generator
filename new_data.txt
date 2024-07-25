@@ -15315,3 +15315,9 @@ Winter is coming.	Es wird Winter.	मौसम बदल रहा है।
 Wool dyes nicely.	Wolle färbt schön.	ऊन अच्छे से रंगिन होती है।
 Write with a pen.	Schreibe mit einem Stift.	कलम से लिखो।
 Yolks are yellow.	Dotter sind gelb.	अंडे किलकिले हैं।
+You already paid.	Du hast bereits bezahlt.	तुमने पहले ही भुगतान किया है।
+You are a genius.	Ihr seid Genies.	तुम जीनियस हो।
+You are blushing.	Du errötest.	तुम लाल हो रहे हो।
+You are children.	Du bist ein Kind.	तुम बच्चे हो।
+You are dreaming.	Du träumst.	तुम सपने देख रहे हो।
+You are gorgeous.	Ihr seid hinreißend.	तुम शानदार हो।
