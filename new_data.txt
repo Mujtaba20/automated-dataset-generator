@@ -12614,3 +12614,4 @@ I need the truth.	Ich brauche die Wahrheit.	मुझे सच चाहिए�
 I need to go now.	Ich muss jetzt gehen.	मुझे अभी जाना है।
 I need your help.	Ich brauche deine Hilfe.	मुझे तुम्हारी मदद चाहिए।
 I need your help. (different meaning)	Ich benötige Ihre Unterstützung.	मुझे तुम्हारे सहायता की आवश्यकता है।
+engSentence		
