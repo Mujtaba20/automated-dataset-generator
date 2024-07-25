@@ -8575,3 +8575,12 @@ Helium is a gas.	Helium ist ein Gas.	हीलियम एक गैस है�
 Help me, please.	Hilf mir bitte.	कृपया मुझे मदद करें।
 Her book is red.	Ihr Buch ist rot.	उसकी किताब लाल है।
 Her face lit up.	Ihr Gesicht leuchtete auf.	उसका चेहरा चमक उठा।
+Her father died.	Ihr Vater ist verstorben.	उसके पिताजी की मौत हो गई।
+Here is the car.	Hier ist das Auto.	यहाँ कार है।
+Here is the map.	Hier ist die Karte.	यहाँ नक्शा है।
+Here's my album.	Hier ist mein Album.	यह मेरा एल्बम है।
+Here's the bill.	Hier ist die Rechnung.	यहाँ बिल है।
+Here's the milk.	Hier ist die Milch.	यहाँ दूध है।
+Here's the plan.	Hier ist der Plan.	यहाँ योजना है।
+Here's your dog.	Hier ist dein Hund.	तुम्हारा कुत्ता यहाँ है।
+Here's your key.	Hier ist dein Schlüssel.	तुम्हारी चाबी यहाँ है।
