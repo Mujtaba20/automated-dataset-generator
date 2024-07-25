@@ -11949,3 +11949,12 @@ He gets up early.	Er steht früh auf.	वह जल्दी उठता है
 He got a new job.	Er hat einen neuen Job bekommen.	उसने नौकरी पाई।
 He had few teeth.	Er hatte wenige Zähne.	उसके कुछ दाँत थे।
 He had gray hair.	Er hatte graue Haare.	उसके बाल सफेद थे।
+He had no hat on.	Er hatte keinen Hut auf.	उसके पास कोई टोपी नहीं थी।
+He has a Picasso.	Er hat ein Picasso.	उसके पास एक पिकासो है।
+He has a bicycle.	Er hat ein Fahrrad.	उसके पास एक साइकिल है।
+He has big hands.	Er hat große Hände.	उसके पास बड़े हाथ हैं।
+He has long hair.	Er hat langes Haar.	उसके पास लम्बे बाल हैं।
+He has lost face.	Er hat sein Gesicht verloren.	उसका चेहरा खो गया है।
+He has no choice.	Er hat keine Wahl.	उसके पास कोई विकल्प नहीं है।
+He hates carrots.	Er hasst Karotten.	उसे गाजर से नफरत है।
+He hates himself.	Er hasst sich selbst.	उसे खुद से नफरत है।
