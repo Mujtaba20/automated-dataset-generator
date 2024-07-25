@@ -16458,3 +16458,12 @@ I got Tom to help.	Ich habe Tom geholfen.	मैंने टॉम को म�
 I got a bad grade.	Ich habe eine schlechte Note bekommen.	मुझे एक खराब ग्रेड मिला।
 I got a flat tire.	Ich habe einen Platten Reifen.	मेरे पंक्चर हो गए।
 I got it for free.	Ich habe es umsonst bekommen.	मुझे यह मुफ्त में मिला।
+I got my hair cut.	Ich habe mir die Haare schneiden lassen.	मैंने अपने बाल कटवाए।
+I got off lightly.	Ich kam glimpflich davon.	मैं हल्के से बच गया।
+I got soaking wet.	Ich wurde klatschnass.	मैं भिगो कर रह गया।
+I got to know him.	Ich habe ihn kennengelernt.	मैंने उसे जाना।
+I got up at seven.	Ich bin um sieben aufgestanden.	मैं सात बजे उठ गया।
+I guess it's true.	Ich nehme an, es ist wahr.	मुझे लगता है कि यह सच है।
+I had a good idea.	Ich hatte eine gute Idee.	मेरे पास एक अच्छी विचार थी।
+I had a good time.	Ich hatte eine schöne Zeit.	मैंने अच्छा समय बिताया।
+I had a nightmare.	Ich hatte einen Albtraum.	मुझे एक डरावना सपना आया।
