@@ -4969,3 +4969,12 @@ Tom disagreed.	Tom war anderer Meinung.	टॉम असहमत था।
 Tom disagreed. 2	Tom widersprach.	टॉम विरोध किया।
 Tom disagreed. 3	Tom war anderer Ansicht.	टॉम असहमत था।
 Tom does that.	Tom macht das.	टॉम ऐसा करता है।
+Tom dozed off.	Tom schlief ein.	टॉम सो गया।
+Tom dumped me.	Tom hat mich abserviert.	टॉमने मुझे छोड़ दिया।
+Tom exercised.	Tom machte Übungen.	टॉम व्यायाम किया।
+Tom exercises.	Tom macht Übungen.	टॉम व्यायाम करता है।
+Tom felt cold.	Tom fror.	टॉमे को ठंड लगी।
+Tom felt fine.	Tom fühlte sich gut.	टॉम को ठीक लगा।
+Tom felt safe.	Tom fühlte sich sicher.	टॉम को महसूस हुआ कि वह सुरक्षित है।
+Tom felt sick.	Tom fühlte sich krank.	टॉमे को बीमार लगा।
+Tom felt weak.	Tom fühlte sich schwach.	टॉम को कमजोर महसूस हुआ।
