@@ -1,14 +1,4 @@
 
-That is your book.	Das ist dein Buch.	यह आपकी किताब है।
-That is your book.	Das ist Ihr Buch.	वह उसकी किताब है।
-That is your book.	Das ist euer Buch.	यह आपकी किताब है।
-That isn't French.	Das ist nicht Französisch.	यह फ्रेंच नहीं है।
-That isn't enough.	Das reicht nicht.	वह काफी नहीं है।
-That isn't enough.	Das ist nicht genug.	वह काफी नहीं है।
-That makes me cry.	Das bringt mich zum Weinen.	यह मुझे आँसू में लाता है।
-That makes me sad.	Das macht mich traurig.	इससे मुझे दुःख होता है।
-That movie stinks!	Dieser Film stinkt!	यह फिल्म बदबू आ रही है!
-That really hurts.	Das tut echt weh.	यह वास्तव में दर्द होता है।
 That seat is free.	Der Platz ist frei.	जगह स्वतंत्र है।
 That should do it.	Das dürfte genügen.	यह पर्याप्त होना चाहिए।
 That should do it.	Das sollte reichen.	यह पर्याप्त होना चाहिए।

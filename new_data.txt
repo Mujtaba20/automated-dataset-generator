@@ -17902,3 +17902,10 @@ That is essential.	Das ist wichtig.	यह ज़रूरी है।
 That is her house.	Das ist ihr eigenes Haus.	वह उस छोटे से घर में बसती है।
 That is his house.	Das ist sein Haus.	वह उसका घर है।
 That is my school.	Das ist meine Schule.	वह मेरी स्कूल है।
+That is your book.	Das ist dein Buch.	यह तुम्हारी किताब है।
+That isn't French.	Das ist nicht französisch.	यह फ्रेंच नहीं है।
+That isn't enough.	Das ist nicht genug.	यह काफी नहीं है।
+That makes me cry.	Das lässt mich weinen.	वह मुझे रोने पर मजबूर करता है।
+That makes me sad.	Das macht mich traurig.	उससे मुझे उदासी हो रही है।
+That movie stinks!	Dieser Film stinkt!	वह फिल्म बहुत गंदी है!
+That really hurts.	Das tut wirklich weh.	वह सचमुच दर्द देता है।
