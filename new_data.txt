@@ -15547,3 +15547,12 @@ Are you my doctor?	Bist du mein Arzt?	क्या तुम मेरे डॉ
 Are you my father?	Bist du mein Vater?	क्या तुम मेरे पिताजी हो?
 Are you our enemy?	Seid ihr unser Feind?	क्या तुम हमारे शत्रु हो?
 Are you out there?	Bist du draußen?	क्या तुम बाहर हो?
+Are you ready now?	Bist du jetzt bereit?	क्या तुम अब तैयार हो?
+Are you really OK?	Geht es dir wirklich gut?	क्या आप वास्तव में ठीक हो?
+Are you saying no?	Sagst du nein?	क्या तुम नहीं कह रहे हो?
+Are you still mad?	Bist du immer noch sauer?	क्या तुम अभी भी गुस्से में हो?
+Are you sure, Tom?	Bist du sicher, Tom?	क्या तुम्हें पक्का यकीन है, टॉम?
+Are you surprised?	Bist du überrascht?	क्या आप हैरान हैं?
+Are you the mayor?	Bist du der Bürgermeister?	क्या आप मेयर हैं?
+Are you tired now?	Bist du jetzt müde?	क्या तुम अब थक गए हो?
+Are you two happy?	Seid ihr glücklich?	क्या तुम दोनों खुश हो?
