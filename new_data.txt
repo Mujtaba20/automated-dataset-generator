@@ -4623,3 +4623,8 @@ Keep Tom busy.	Halte Tom beschäftigt.	टॉम को व्यस्त र�
 Keep climbing.	Weiterklettern.	चढ़ते रहो।
 Keep in touch!	Bleib in Kontakt!	संपर्क में रहें!
 Keep it quiet.	Halte es ruhig.	इसे शांत रखो।
+Keep it short.	Halte es kurz.	इसे छोटा रखें।
+Keep paddling.	Fortfahren zu paddeln.	पैडलिंग करते रहो।
+Let Tom do it.	Lass Tom es ausführen.	उसको टॉम करने दो।
+Let Tom drive.	Lass Tom fahren.	टॉम को चलाने दो।
+Let Tom sleep.	Lass Tom ruhen.	टॉम की नींद काटने दो।
