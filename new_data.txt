@@ -17634,3 +17634,13 @@ Nobody was around.	Niemand war in der Nähe.	किसी के आस-पा�
 Nobody went there.	Niemand ging dorthin.	कोई भी वहाँ नहीं गया।
 Nobody's here yet.	Niemand ist hier noch.	कोई अभी तक यहाँ नहीं है।
 Nobody's laughing.	Niemand lacht.	कोई हंस नहीं रहा।
+Nobody's seen Tom.	Niemand hat Tom gesehen.	किसी ने टॉम को नहीं देखा।
+Nothing had moved.	Nichts hatte sich bewegt.	कुछ भी नहीं हिला था।
+Nothing scares me.	Nichts erschreckt mich.	मुझे कुछ डराता नहीं।
+Nothing'll happen.	Es wird nichts passieren.	कुछ नहीं होगा।
+Nothing's missing.	Es fehlt nichts.	कुछ नहीं खो गया है।
+Nothing's working.	Nichts funktioniert.	कुछ काम नहीं कर रहा है।
+Now I feel guilty.	Jetzt fühle ich mich schuldig.	अब मुझे अपराधी महसूस हो रहा है।
+Now I realize why.	Jetzt merke ich warum.	अब मुझे पता चला क्यों।
+Now I'm intrigued.	Jetzt bin ich fasziniert.	अब मेरे में कौतूहल है।
+Now it's up to me.	Jetzt liegt es an mir.	अब यह मेरे हाथ में है।
