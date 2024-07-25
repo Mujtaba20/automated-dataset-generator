@@ -18359,3 +18359,12 @@ Tom came too late.	Tom kam zu spät.	टॉम बहुत देर से आ
 Tom came upstairs.	Tom kam die Treppe hinauf.	टॉम ऊपर आया।
 Tom can come, too.	Tom kann auch kommen.	टॉम भी आ सकता है।
 Tom can drive now.	Tom kann jetzt fahren.	टॉम अब गाड़ी चला सकता है।
+Tom can handle it.	Tom kann damit umgehen.	टॉम इसे संभाल सकता है।
+Tom can read well.	Tom kann gut lesen.	टॉम अच्छा पढ़ सकता है।
+Tom can stay here.	Tom kann hier bleiben.	टॉम यहाँ रुक सकता है।
+Tom can swim fast.	Tom kann schnell schwimmen.	टॉम तेज़ी से तैर सकता है।
+Tom can't be sick.	Tom kann nicht krank sein.	टॉम बीमार नहीं हो सकता।
+Tom can't beat me.	Tom kann mich nicht schlagen.	टॉम मुझे नहीं हरा सकता।
+Tom can't do that.	Tom kann das nicht tun.	टॉम वह नहीं कर सकता।
+Tom can't do this.	Tom kann das nicht tun.	टॉम यह नहीं कर सकता।
+Tom can't help it.	Tom kann nicht anders.	टॉम इससे बच नहीं सकता।

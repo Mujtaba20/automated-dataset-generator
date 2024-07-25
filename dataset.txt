@@ -1,16 +1,4 @@
 
-Tom can handle it.	Tom kann damit umgehen.	टॉम इसे संभाल सकते हैं।
-Tom can handle it.	Tom kann es bewältigen.	टॉम इसे प्रबंधित कर सकते हैं।
-Tom can read well.	Tom kann gut lesen.	टॉम अच्छी तरह से पढ़ सकते हैं।
-Tom can stay here.	Tom kann hierbleiben.	टॉम यहां रह सकते हैं।
-Tom can swim fast.	Tom kann schnell schwimmen.	टॉम जल्दी से तैर सकते हैं।
-Tom can't be sick.	Tom kann nicht krank sein.	टॉम बीमार नहीं हो सकता।
-Tom can't beat me.	Tom kann mich nicht schlagen.	टॉम मुझे हरा नहीं सकता।
-Tom can't do that.	Tom kann das nicht.	टॉम नहीं कर सकता।
-Tom can't do this.	Tom schafft das nicht.	टॉम ऐसा नहीं करता है।
-Tom can't help it.	Tom kann nicht anders.	टॉम इसकी मदद नहीं कर सकता।
-Tom can't help it.	Tom kann nichts dafür.	टॉम इसकी मदद नहीं कर सकता।
-Tom can't help it.	Tom kann doch nichts dafür.	टॉम इसकी मदद नहीं कर सकता।
 Tom can't help me.	Tom kann mir nicht helfen.	टॉम मेरी मदद नहीं कर सकता।
 Tom can't hurt me.	Tom kann mich nicht verletzen.	टॉम मुझे चोट नहीं पहुंचा सकता।
 Tom can't hurt me.	Tom kann mir nicht wehtun.	टॉम मुझे चोट नहीं पहुंचा सकता।
