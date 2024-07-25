@@ -11230,3 +11230,12 @@ What've you got?	Was hast du?	तुम्हारे पास क्या �
 When can we eat?	Wann können wir essen?	हम कब खा सकते हैं?
 When did you go?	Wann bist du gegangen?	तुम कब गए थे?
 When do you run?	Wann läufst du?	तुम कब दौड़ते हो?
+When will we go?	Wann werden wir gehen?	हमें कब जाना है?
+Where did he go?	Wo ist er hingegangen?	वह कहाँ गया था?
+Where is Boston?	Wo ist Boston?	बोस्टन कहाँ है?
+Where is an ATM?	Wo ist ein Geldautomat?	एटीएम कहाँ है?
+Where is it now?	Wo ist es jetzt?	अब वह कहाँ है?
+Where is my car?	Wo ist mein Auto?	मेरी कार कहाँ है?
+Where is my dad?	Wo ist mein Vater?	मेरे पिताजी कहाँ हैं?
+Where is my dog?	Wo ist mein Hund?	मेरे कुत्ते कहाँ हैं?
+Where were they?	Wo waren sie?	वे कहाँ थे?
