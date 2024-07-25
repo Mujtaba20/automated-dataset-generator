@@ -3718,3 +3718,12 @@ Am I approved?	Bin ich genehmigt?	क्या मुझे मंजूरी �
 Am I dreaming?	Träume ich?	क्या मैं सपने देख रहा हूँ?
 Am I mistaken?	Habe ich mich geirrt?	क्या मैं गलती कर रहा हूँ?
 Am I safe now?	Bin ich jetzt sicher?	क्या अब मैं सुरक्षित हूँ?
+Am I slipping?	Rutsche ich ab?	क्या मैं फिसल रहा हूँ?
+Any new jokes?	Irgendwelche neuen Witze?	कोई नयी मजाक है?
+Any questions?	Irgendwelche Fragen?	कोई सवाल?
+Anything else?	Irgendetwas anderes?	कुछ और?
+Are they busy?	Sind sie beschäftigt?	क्या वे व्यस्त हैं?
+Are they cops?	Sind sie Polizisten?	क्या वे पुलिस हैं?
+Are they dead?	Sind sie tot?	क्या वे मरे हुए हैं?
+Are they gone?	Sind sie weg?	क्या वे चले गए हैं?
+Are they here?	Sind sie hier?	क्या वे यहाँ हैं?
