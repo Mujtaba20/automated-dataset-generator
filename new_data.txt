@@ -626,3 +626,10 @@ Is he Tom?	Ist er Tom?	क्या वह टॉम है?
 Is it bad?	Ist es schlimm?	क्या यह बुरा है?
 Is it far?	Ist es weit?	क्या यह दूर है?
 Is it hot?	Ist es heiß?	क्या यह गर्म है?
+Is it new?	Ist es neu?	क्या यह नया है?
+It burned.	Es verbrannte.	यह जल गया।
+It poured.	Es goss.	यह बहा दिया।
+It snowed.	Es schneite.	यह बर्फ जमी।
+It stinks.	Es stinkt.	यह बदबूदार है।
+It worked.	Es arbeitete.	यह काम किया।
+It's 3:30.	Es ist 3:30 Uhr.	3:30 बजे हैं।
