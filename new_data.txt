@@ -8378,3 +8378,13 @@ Draw me a sheep.	Zeichne mir ein Schaf.	मुझे एक भेड़ बन�
 Drink more beer.	Trink mehr Bier.	और पीएँ बीयर।
 Drink more beer. - 2	Trink mehr Bier.	और पीएँ बीयर।
 Drink something.	Trink etwas.	कुछ पियो।
+Drink your milk.	Trink deine Milch.	अपना दूध पिएं।
+Drink your milk. 	Trinke deine Milch.	तुम्हारा दूध पियो।
+Drive carefully.	Fahr vorsichtig.	सावधानी से चलाएं।
+Drive carefully. 	Vorsichtig fahren.	सावधानी से ड्राइव करें।
+Drive carefully.  	Fahr sorgfältig.	ध्यान से ड्राइव करें।
+Empty your bags.	Leere deine Taschen.	अपने बैग खाली करें।
+Empty your bags. 	Leer deine Taschen.	अपने बैग खाली कीजिए।
+Enjoy your food.	Genießen Sie Ihr Essen.	अपने भोजन का आनंद लें।
+Enjoy your food. 	Genieße dein Essen.	अपने भोजन का आनंद लो।
+Enjoy your food.  	Genieß dein Essen.	अपने भोजन का मजा लें।
