@@ -851,3 +851,8 @@ Check that.	Überprüfen Sie das.	उसे जांचें।
 Check this.	Überprüfen Sie das.	यह देखें।
 Choose one.	Wählen Sie eine.	एक चुनो।
 Come again.	Komm nochmal.	फिर से आना।
+Come alone.	Komm allein.	अकेले आओ।
+Come along.	Komm mit.	साथ आओ।
+Come early.	Komm früh.	जल्दी आ जाओ।
+Come on in!	Komm herein!	अंदर आओ!
+Come on in.	Komm rein.	अंदर आओ।
