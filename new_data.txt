@@ -1473,3 +1473,11 @@ Did Tom cry?	Hat Tom geweint?	क्या टॉम रोया?
 Did Tom die?	Ist Tom gestorben?	क्या टॉम मर गया?
 Did Tom eat?	Hat Tom gegessen?	क्या टॉम ने खाना खाया?
 Did Tom run?	Ist Tom gerannt?	क्या टॉम दौड़ा?
+Did Tom try?	Hat Tom versucht?	क्या टॉमने कोशिश की?
+Did it help?	Hat es geholfen?	क्या यह मदद की?
+Did it work?	Hat es funktioniert?	क्या यह काम किया?
+Do as I say.	Tu, was ich sage.	जैसा मैं कहता हूँ वैसा करो।
+Do it again!	Mach es noch einmal!	फिर से करो!
+Do it again.	Mach es wieder.	इसे फिर से करो।
+Do you bowl?	Spielst du Bowling?	क्या आप बोलिंग खेलते हैं?
+Do you fish?	Angeln Sie gern?	क्या आप मछली पकड़ना पसंद करते हैं?
