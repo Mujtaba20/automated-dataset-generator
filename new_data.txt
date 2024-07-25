@@ -19320,3 +19320,13 @@ Tom was insincere.	Tom war unaufrichtig.	टॉम अस्पष्ट था�
 Tom was intrigued.	Tom war fasziniert.	टॉम प्रेरित था।
 Tom was irritated.	Tom war gereizt.	टॉम चिढ़ा हुआ था।
 Tom was just here.	Tom war gerade hier.	टॉम अभी यहाँ था।
+Tom was listening.	Tom hörte zu.	टॉम सुन रहा था।
+Tom was mentioned.	Tom wurde erwähnt.	टॉम का उल्लेख किया गया था।
+Tom was miserable.	Tom war elend.	टॉम दुखी था।
+Tom was miserable. - Different meaning	Tom war unglücklich.	टॉम दुखी था। - विभिन्न अर्थ
+Tom was mortified.	Tom war beschämt.	टॉम शर्मिंदा था।
+Tom was motivated.	Tom war motiviert.	टॉम प्रेरित था।
+Tom was my friend.	Tom war mein Freund.	टॉम मेरा दोस्त था।
+Tom was mystified.	Tom war verwirrt.	टॉम हैरान था।
+Tom was negligent.	Tom war nachlässig.	टॉम लापरवाह था।
+Tom was objective.	Tom war objektiv.	टॉम वस्तुनिष्ठ था।
