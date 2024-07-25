@@ -8338,3 +8338,10 @@ Don't be stingy.	Sei nicht geizig.	कंजूस मत बनो।
 Don't be stupid.	Sei nicht dumm.	बेवकूफ मत बनो।
 Don't blame Tom.	Mach Tom keine Vorwürfe.	टॉम पर आरोप न डालो।
 Don't bother me.	Belästige mich nicht.	मुझे परेशान मत करो।
+Don't cheat him.	Betrüge ihn nicht.	उसे धोखा मत दो।
+Don't follow me.	Folge mir nicht.	मेरी पीछा करो मत।
+Don't forget it.	Vergiss es nicht.	इसे भूल मत.
+Don't freak out.	Keine Panik.	घबराओ मत।
+Don't get angry.	Werde nicht wütend.	गुस्सा मत हो.
+Don't get drunk.	Werde nicht betrunken.	नशे में मत आओ।
+Don't harm them.	Schade ihnen nicht.	उन्हें कोई चोट ना पहुंचाओ।
