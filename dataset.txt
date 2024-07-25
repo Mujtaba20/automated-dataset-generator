@@ -1,14 +1,4 @@
 
-Whose son are you?	Wessen Sohn bist du?	आप किसके बेटे हैं?
-Whose son are you?	Wessen Sohn sind Sie?	आप किसके बेटे हैं?
-Whose tea is this?	Wessen Tee ist das?	वह किसकी चाय है?
-Why am I so tired?	Warum bin ich so müde?	मैं इतना थक क्यों गया?
-Why are they here?	Warum sind sie hier?	तुम यहां क्यों हो?
-Why are they here?	Wieso sind sie hier?	तुम यहां क्यों हो?
-Why are they here?	Weshalb sind sie hier?	तुम यहां क्यों हो?
-Why are we hiding?	Warum verstecken wir uns?	हम क्यों छिपाते हैं?
-Why are we moving?	Warum ziehen wir um?	हम क्यों चलते हैं?
-Why are we moving?	Warum bewegen wir uns?	हम क्यों चलते हैं?
 Why are you alive?	Warum bist du am Leben?	तुम क्यों हो
 Why are you alone?	Warum seid ihr allein?	तुम अकेले क्यों हो?
 Why are you alone?	Warum bist du allein?	तुम अकेले क्यों हो?

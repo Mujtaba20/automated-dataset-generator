@@ -19920,3 +19920,9 @@ Whose idea was it?	Wessen Idee war das?	यह किसकी विचार �
 Whose is this bag?	Wessen ist diese Tasche?	यह किसका बैग है?
 Whose pen is that?	Wessen Stift ist das?	यह किसकी कलम है?
 Whose pen is this?	Wessen Stift ist das?	यह किसकी कलम है?
+Whose son are you?	Wessen Sohn bist du?	तुम किसके बेटे हो?
+Whose tea is this?	Wessen Tee ist das?	यह चाय किसकी है?
+Why am I so tired?	Warum bin ich so müde?	मैं इतना थका क्यों हूँ?
+Why are they here?	Warum sind sie hier?	वे यहाँ क्यों हैं?
+Why are we hiding?	Warum verstecken wir uns?	हम क्यों छुपे हुए हैं?
+Why are we moving?	Warum bewegen wir uns?	हम क्यों चल रहे हैं?
