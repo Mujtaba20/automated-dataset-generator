@@ -13282,3 +13282,10 @@ Let's go dancing.	Lass uns tanzen gehen.	चलो नाचने चलें�
 Let's go see Tom.	Lass uns Tom sehen gehen.	चलो हम टॉम से मिलने चलें।
 Let's have a try.	Lasst uns es versuchen.	चलो एक कोशिश करते हैं।
 Let's have lunch.	Lass uns zu Mittag essen.	चलो हम लंच करें।
+Let's have sushi.	Lass uns Sushi essen.	चलो सुशी खाते हैं।
+Let's keep quiet.	Lass uns leise sein.	चुपचाप रहें।
+Let's play cards.	Lass uns Karten spielen.	चलो कार्ड खेलें।
+Let's play house.	Lass uns Häuschen spielen.	चलो  घर-घर खेलते हैं।
+Let's play poker.	Lass uns Poker spielen.	चलो पोकर खेलते हैं।
+Let's skip lunch.	Lass uns das Mittagessen auslassen.	चलो दोपहर का भोजन छोड़ दें।
+Let's start here.	Lass uns hier anfangen.	यहाँ से शुरू करते हैं।
