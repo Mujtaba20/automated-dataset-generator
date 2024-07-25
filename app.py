@@ -70,7 +70,7 @@ def commit_and_push_changes(repo_path, files_to_commit, commit_message):
 
 def main(old_dataset, new_dataset, repo_path):
     while os.path.getsize(old_dataset) > 0:
-        translate(old_dataset, new_dataset, 5)
+        translate(old_dataset, new_dataset, 10)
         commit_and_push_changes(repo_path, [old_dataset, new_dataset], "Update datasets")
         time.sleep(5)
 
@@ -83,5 +83,5 @@ def main(old_dataset, new_dataset, repo_path):
 # Example usage
 old_dataset = "dataset.txt"
 new_dataset = "new_data.txt"
-repo_path = "D:/tech life fusion/Darshan dataset repo/my repo/automated-dataset-generator"  # Local path of your cloned repository
+repo_path = "/home/ubuntu/automated-dataset-generator"  # Local path of your cloned repository
 main(old_dataset, new_dataset, repo_path)

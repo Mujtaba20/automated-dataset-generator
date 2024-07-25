@@ -566,3 +566,13 @@ I stopped.	Ich habe aufgehört.	मैंने रोक लिया।
 I took it.	Ich habe es genommen.	मैंने यह लिया।
 I want it.	Ich will es.	मुझे यह चाहिए।
 I was new.	Ich war neu.	मैं नया था।
+I was shy.	Ich war schüchtern.	मैं शर्मीला था।
+I will go.	Ich werde gehen.	मैं जाऊंगा।
+I will go. (Different meaning)	Ich werde fahren.	मैं चला जाऊंगा।
+I woke up.	Ich bin aufgewacht.	मैं उठ गया।
+I'd do it.	Ich würde es tun.	मैं यह करता।
+I'd leave.	Ich würde gehen.	मैं चला जाऊँगा।
+I'll call.	Ich werde anrufen.	मैं कॉल करूँगा।
+I'll come.	Ich werde kommen.	मैं आऊंगा।
+I'll cook.	Ich werde kochen.	मैं पकाऊंगा।
+I'll help.	Ich werde helfen.	मैं मदद करूंगा।
