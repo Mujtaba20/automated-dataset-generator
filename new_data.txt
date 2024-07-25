@@ -3462,3 +3462,12 @@ Tom was dead.	Tom war tot.	टॉम मर गया था।
 Tom was fast.	Tom war schnell.	टॉम तेज था।
 Tom was gone.	Tom war verschwunden.	टॉम चला गया था।
 Tom was here.	Tom war hier.	टॉम यहाँ था।
+Tom was home.	Tom war zu Hause.	टॉम घर पर था।
+Tom was hurt.	Tom wurde verletzt.	टॉम को चोट लगी थी।
+Tom was last.	Tom war letzter.	टॉम आखिरी था।
+Tom was late.	Tom war spät dran.	टॉम देर से आया था।
+Tom was mean.	Tom war gemein.	टॉम निंदनीय था।
+Tom was nosy.	Tom war neugierig.	टॉम जिज्ञासु था।
+Tom was poor.	Tom war arm.	टॉम गरीब था।
+Tom was rich.	Tom war reich.	टॉम धनवान था।
+Tom was shot.	Tom wurde angeschossen.	टॉम को गोली मार दी गई थी।
