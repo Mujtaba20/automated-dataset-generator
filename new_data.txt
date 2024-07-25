@@ -9032,3 +9032,12 @@ I should go now.	Ich sollte jetzt gehen.	मुझे अब जाना चा
 I slept all day.	Ich habe den ganzen Tag geschlafen.	मैंने पूरे दिन सोता रहा।
 I smelled bacon.	Ich roch Speck.	मैंने बेकन की खुशबू महसूस की।
 I speak English.	Ich spreche Englisch.	मैं अंग्रेजी बोलता हूँ।
+I speak Swedish.	Ich spreche Schwedisch.	मैं स्वीडिश बोलता हूं।
+I still do that.	Ich mache das noch immer.	मैं अभी भी वह करता हूँ।
+I stole for Tom.	Ich habe für Tom gestohlen.	मैंने टॉम के लिए चोरी की।
+I study English.	Ich studiere Englisch.	मैं अंग्रेज़ी पढ़ता हूं।
+I supported him.	Ich habe ihn unterstützt.	मैंने उसका समर्थन किया।
+I surprised Tom.	Ich habe Tom überrascht.	मैंने टॉम को चौंका दिया।
+I take vitamins.	Ich nehme Vitamine.	मैं विटामिन लेता हूं।
+I talked to her.	Ich habe mit ihr gesprochen.	मैंने उससे बात की।
+I teach English.	Ich unterrichte Englisch.	मैं अंग्रेज़ी पढ़ाता हूं।
