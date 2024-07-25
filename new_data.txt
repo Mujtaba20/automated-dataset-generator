@@ -7291,3 +7291,12 @@ Tom is driving.	Tom fährt.	टॉम ड्राइविंग कर रह�
 Tom is dubious.	Tom ist zweifelhaft.	टॉम संदिग्ध है।
 Tom is dusting.	Tom staubt ab.	टॉम पोंछा लगा रहा है।
 Tom is elusive.	Tom ist schwer fassbar.	टॉम लफ्जी है।
+Tom is engaged.	Tom ist verlobt.	टॉम संबंधित है।
+Tom is enraged.	Tom ist wütend.	टॉम गुस्से में है।
+Tom is excused.	Tom wird entschuldigt.	टॉम क्षमा की मांग कर रहा है।
+Tom is falling.	Tom fällt.	टॉम गिर रहा है।
+Tom is fasting.	Tom fastet weiterhin.	टॉम अब भी उपवास कर रहा है।
+Tom is finicky.	Tom ist pingelig.	टॉम टीड़ी पीड़क है।
+Tom is focused.	Tom ist konzentriert.	टॉम केंद्रित है।
+Tom is foolish.	Tom ist töricht.	टॉम मूर्ख है।
+Tom is frantic.	Tom ist verzweifelt.	टॉम व्याकुल है।
