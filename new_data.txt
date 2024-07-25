@@ -8488,3 +8488,11 @@ He hit the mark.	Er traf ins Schwarze.	उसने लक्ष्य को �
 He intrigues me.	Er fasziniert mich.	वह मुझे उत्तेजित करता है।
 He is Ethiopian.	Er ist Äthiopier.	वह इथियोपियाई है।
 He is a bad boy.	Er ist ein böser Junge.	वह एक बुरा लड़का है।
+He is a dreamer.	Er ist ein Träumer.	वह एक सपनेवाला है।
+He is a painter.	Er ist ein Maler.	वह एक चित्रकार है।
+He is a psychic.	Er ist ein Medium.	वह एक मानसिक विद्वान है।
+He is a sly fox.	Er ist ein listiger Fuchs.	वह एक धोखेबाज लोमड़ी है।
+He is a student.	Er ist ein Schüler.	वह एक छात्र है।
+He is a teacher.	Er ist ein Lehrer.	वह एक शिक्षक है।
+He is my father.	Er ist mein Vater.	वह मेरे पिता है।
+He is not there.	Er ist nicht da.	वह वहां नहीं है।
