@@ -7561,3 +7561,13 @@ Tom seemed shy.	Tom schien schüchtern zu sein.	टॉम शर्मीले 
 Tom seems busy.	Tom wirkt beschäftigt.	टॉम व्यस्त लग रहे हैं।
 Tom seems calm.	Tom scheint ruhig zu sein.	टॉम शांत लग रहे हैं।
 engSentence	{'Tom seems fair.': 'Tom scheint gerecht zu sein.', 'Tom seems fine.': 'Tom scheint in Ordnung zu sein.', 'Tom seems kind.': 'Tom scheint freundlich zu sein.', 'Tom seems lost.': 'Tom scheint verloren zu sein.', 'Tom seems mean.': 'Tom scheint gemein zu sein.', 'Tom seems nice.': 'Tom scheint nett zu sein.', 'Tom seems sick.': 'Tom scheint krank zu sein.', 'Tom seems wise.': 'Tom scheint weise zu sein.', 'Tom sells cars.': 'Tom verkauft Autos.', 'Tom set a trap.': 'Tom legte eine Falle.'}	{'Tom seems fair.': 'टॉम न्यायमूल्य लगता है।', 'Tom seems fine.': 'टॉम ठीक लगता है।', 'Tom seems kind.': 'टॉम मेहरबान लगता है।', 'Tom seems lost.': 'टॉम खो गया लगता है।', 'Tom seems mean.': 'टॉम करुणाहीन लगता है।', 'Tom seems nice.': 'टॉम अच्छे लगते हैं।', 'Tom seems sick.': 'टॉम बीमार लगते हैं।', 'Tom seems wise.': 'टॉम बुद्धिमान लगते हैं।', 'Tom sells cars.': 'टॉम कारें बेचता है।', 'Tom set a trap.': 'टॉम ने जाल बिछाया।'}
+Tom shot at me.	Tom hat auf mich geschossen.	टॉमने मुझपर गोली चलाई।
+Tom shot twice.	Tom hat zweimal geschossen.	टॉमने दो बार गोली चलाई।
+Tom should eat.	Tom sollte essen.	टॉम को खाना चाहिए।
+Tom should run.	Tom sollte rennen.	टॉम को भागना चाहिए।
+Tom should win.	Tom sollte gewinnen.	टॉमको जीतना चाहिए।
+Tom sings well.	Tom singt gut.	टॉम अच्छा गाता है।
+Tom slapped me.	Tom hat mich geschlagen.	टॉमने मुझे थप्पड़ मारा।
+Tom slept late.	Tom hat spät geschlafen.	टॉमने देर सोया।
+Tom smelled it.	Tom hat daran gerochen.	टॉमने इसकी खुशबू महसूस की।
+Tom smells bad.	Tom riecht schlecht.	टॉम गंदा बदबू करता है।
