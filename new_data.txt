@@ -15680,3 +15680,8 @@ Did Tom win again?	Hat Tom wieder gewonnen?	क्या टॉमने फि�
 Did he fail again?	Ist er wieder gescheitert?	क्या वह फिर से विफल हुआ?
 Did they fire you?	Haben sie dich gefeuert?	क्या उन्होंने तुम्हें नौकरी से निकाल दिया है?
 Did you buy juice?	Hast du Saft gekauft?	क्या तुमने रस खरीदा है?
+Did you draw this?	Hast du das gezeichnet?	क्या आपने यह बनाया है?
+Did you hear that?	Hast du das gehört?	क्या तुमने वह सुना?
+Did you know that?	Wusstest du das?	क्या आपको यह पता था?
+Did you know this?	Hast du das gewusst?	क्या तुम्हें यह पता था?
+Did you hear this?	Hast du das gehört?	क्या तुमने यह सुना?
