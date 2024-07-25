@@ -2457,3 +2457,9 @@ Come outside.	Komm nach draußen.	बाहर आओ।
 Come quickly!	Komm schnell!	जल्दी आओ!
 Come quickly.	Komm schnell.	तुरंत आओ।
 Come up here.	Komm hierher.	यहाँ आओ।
+Come with me.	Komm mit mir.	मेरे साथ आओ।
+Come with us.	Komm mit uns.	हमारे साथ आओ।
+Count to ten.	Zähle bis zehn.	दस तक गिनो।
+Cut that out!	Schneide das aus!	वह काट दो!
+Describe Tom.	Beschreibe Tom.	टॉम का वर्णन करें।
+Did Tom come?	Ist Tom gekommen?	क्या टॉम आया था?
