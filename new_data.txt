@@ -9796,3 +9796,9 @@ She adores cats.	Sie verehrt Katzen.	उसे बिल्लियों स�
 She deserved it.	Sie hat es verdient.	उसे यह योग्य था।
 She disappeared.	Sie ist verschwunden.	वह ग़ायब हो गई।
 She fell asleep.	Sie ist eingeschlafen.	वह सो गई।
+She forgave him.	Sie vergab ihm.	उसने उसे क्षमा की।
+She got up late.	Sie wurde spät wach.	उसने देर से उठने का समय दिया।
+She is Japanese.	Sie ist Japanerin.	वह जापानी है।
+She is a beauty.	Sie ist eine Schönheit.	वह एक सुंदरता है।
+She is a genius.	Sie ist ein Genie.	वह एक महान है।
+She is a runner.	Sie ist eine Sportlerin.	वह एक उभारक है।
