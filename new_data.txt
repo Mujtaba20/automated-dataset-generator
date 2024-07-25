@@ -20147,3 +20147,7 @@ You'll pay for it.	Du wirst dafür bezahlen.	आपको इसके लिए
 You're a bad liar.	Du bist ein ungeschickter Schwindler.	तुम एक बुरा झूठा हो।
 You're a bookworm.	Du bist eine Leseratte.	तुम एक किताबी कीड़ा हो।
 You're a good boy.	Du bist ein braver Junge.	तुम एक अच्छे लड़के हो।
+You're a good man.	Du bist ein guter Mann.	तुम एक अच्छे आदमी हो।
+You're a good mom.	Du bist eine gute Mutter.	तुम एक अच्छे माँ हो।
+You're a murderer.	Du bist ein Mörder.	तुम एक पापी हो।
+You're a prisoner.	Du bist ein Gefangener.	तुम एक सज़ाया हुआ हो।

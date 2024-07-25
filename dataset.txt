@@ -1,14 +1,4 @@
 
-You're a good man.	Du bist ein guter Mann.	आप एक भले आदमी हैं।
-You're a good mom.	Du bist eine gute Mutter.	आप एक अच्छी माँ हैं।
-You're a murderer.	Du bist ein Mörder.	आप एक हत्यारे हैं।
-You're a murderer.	Du bist eine Mörderin.	आप एक हत्यारे हैं।
-You're a murderer.	Sie sind ein Mörder.	आप एक हत्यारे हैं।
-You're a murderer.	Sie sind eine Mörderin.	आप एक हत्यारे हैं।
-You're a prisoner.	Du bist ein Gefangener.	आप एक कैदी हैं।
-You're a prisoner.	Sie sind ein Gefangener.	आप एक कैदी हैं।
-You're a prisoner.	Du bist eine Gefangene.	आप एक कैदी हैं।
-You're a prisoner.	Sie sind eine Gefangene.	वे एक कैदी हैं।
 You're a rich man.	Du bist ein reicher Mann.	आप एक अमीर आदमी हैं।
 You're aggressive.	Du bist aggressiv.	आप आक्रामक हैं।
 You're aggressive.	Sie sind aggressiv.	वे आक्रामक हैं।
