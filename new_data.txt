@@ -8245,3 +8245,11 @@ Close your eyes.	Schließe deine Augen.	अपनी आंखें बंद �
 Come again soon.	Kommen Sie bald wieder.	जल्दी आइए फिर से।
 Come and get it.	Komm und hol es.	आ और इसे ले जा।
 Come and get me.	Komm und hol mich.	आ और मुझे ले ज.
+Come home early.	Komm früh nach Hause.	जल्दी घर आजाओ।
+Come if you can.	Komm, wenn du kannst.	जैसे कर सकते हैं, वैसे आजाओ।
+Come in already.	Komm schon rein.	अब अंदर आ जाओ।
+Come on in here.	Komm hier rein.	यहाँ आकर आओ।
+Come on in, Tom.	Komm schon rein, Tom.	तोम, अंदर आ जाओ।
+Come on up here.	Komm hier herauf.	यहाँ आकर आओ।
+Come on up, Tom.	Komm rauf, Tom.	तोम, ऊपर चलो।
+Come on, get up.	Los, steh auf.	चलो, उठो।
