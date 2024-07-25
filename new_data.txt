@@ -15650,3 +15650,6 @@ Come with me, Tom.	Komm mit mir, Tom.	मेरे साथ आओ, टॉम�
 Compare the facts.	Vergleiche die Fakten.	तथ्यों की तुलना करो।
 Copy this, please.	Kopiere das, bitte.	कृपया यह कॉपी करें।
 Copy this, please.1	Kopiere dies, bitte.	इसे कृपया कॉपी करें।
+Could you do that?	Könnten Sie das durchführen?	क्या आप वह कर सकते हैं?
+Could you help me?	Könnten Sie mir zur Hand gehen?	क्या आप मेरी मदद कर सकते हैं?
+Could you help us?	Könnten Sie uns beistehen?	क्या आप हमें मदद कर सकते हैं?
