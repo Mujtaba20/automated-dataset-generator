@@ -20299,3 +20299,13 @@ Aren't you doctors?	Seid ihr nicht Ärzte?	क्या तुम डॉक्�
 Aren't you excited?	Bist du nicht aufgeregt?	क्या तुम उत्सुक नहीं हो?
 Aren't you in town?	Bist du nicht in der Stadt?	क्या तुम शहर में नहीं हो?
 Aren't you nervous?	Bist du nicht nervös?	क्या तुम घबराये हुए नहीं हो?
+Aren't you sisters?	Seid ihr nicht Schwestern?	क्या तुम बहनों हो?
+Ask Tom to do that.	Fragen Sie Tom, das zu tun.	टॉम से यह करने के लिए कहें।
+Ask her for advice.	Frage sie um Rat.	उससे सलाह लें।
+Bananas are yellow.	Bananen sind gelb.	केले पीले होते हैं।
+Baseball is boring.	Baseball ist langweilig.	बेसबॉल उबाऊ है।
+Be kind to the old.	Sei nett zu den Alten.	बूढों के प्रति दयालु रहो।
+Beer contains hops.	Bier enthält Hopfen.	बीयर में हॉप्स होता है।
+Better him than me.	Besser er als ich.	मुझसे उससे अच्छा।
+Birds are chirping.	Vögel zwitschern.	पंछी चीचक रहे हैं।
+Books fascinate me.	Bücher faszinieren mich.	मुझे पुस्तकें आकर्षित करती हैं।
