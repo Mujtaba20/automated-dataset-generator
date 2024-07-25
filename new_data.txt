@@ -821,3 +821,13 @@ Am I hired?	Bin ich eingestellt?	क्या मुझे नौकरी म�
 Am I right?	Habe ich recht?	क्या मैं सही हूँ?
 Am I weird?	Bin ich seltsam?	क्या मैं अजीब हूँ?
 Am I wrong?	Liege ich falsch?	क्या मैं गलत हूँ?
+Answer Tom.	Antworten Tom.	जवाब दें टॉम।
+Answer Tom. Second Meaning	Tom beantworten.	टॉम को जवाब दो।
+Answer Tom. Third Meaning	Tom antworten.	टॉम का जवाब दें।
+Are you 18?	Bist du 18?	क्या आप 18 हैं?
+Are you OK?	Geht es dir gut?	क्या तुम ठीक हो?
+Are you OK? Second Meaning	Geht es Ihnen gut?	क्या आप ठीक हैं?
+Are you OK? Third Meaning	Gehst es dir gut?	क्या तुम ठीक जा रहे हो?
+Are you in?	Bist du dabei?	क्या तुम में हो?
+Are you up?	Bist du wach?	क्या तुम उप हो?
+Ask anyone.	Frag jemanden.	किसी से पूछो।
