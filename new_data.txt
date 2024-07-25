@@ -2497,3 +2497,9 @@ Does it work?	Funktioniert es?	क्या यह काम करता है
 Does it work? (different meaning)	Ist es wirksam?	क्या यह प्रभावी है?
 Don't ask me.	Frag mich nicht.	मुझसे मत पूछो।
 Don't be sad.	Sei nicht traurig.	उदास ना हो।
+Don't be shy.	Sei nicht schüchtern.	शरमाओ मत।
+Don't bug me.	Belästige mich nicht.	मुझे परेशान मत करो।
+Don't eat it.	Iss es nicht.	उसे ना खाओ।
+Don't forget.	Vergiss es nicht.	न भूलें।
+Don't get up.	Stehen Sie nicht auf.	खड़े न हो।
+Don't go yet.	Geh nicht weg.	अभी न जाओ।
