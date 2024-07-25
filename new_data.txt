@@ -676,3 +676,10 @@ Let it be.	Lass es geschehen.	यह होने दो।
 Let me be.	Lass mich sein.	मुझे होने दो।
 Let me go!	Lass mich laufen!	मुझे भागने दो!
 Let me in.	Lass mich rein.	मुझे अंदर आने दो।
+Let us go.	Lass uns gehen.	हमें चलने दो।
+Let's eat.	Lass uns essen.	चलो खाते हैं।
+Let's see.	Lass uns sehen.	देखते हैं।
+Let's try!	Probieren wir es!	आओ कोशिश करें!
+Lie still.	Bleib ruhig liegen.	शांत रहो।
+Listen up.	Hör zu.	ध्यान से सुनो।
+Look away.	Schau weg.	देखने की दूरी बनाओ।
