@@ -5450,3 +5450,12 @@ You hypocrite!	Du Heuchler!	तुम मुंडित!
 You keep them.	Du behältst sie.	तुम उन्हें रखो।
 You know that.	Du weißt das.	तुम्हें पता है।
 You know this.	Du kennst das.	तुम्हें यह पता है।
+You look busy.	Du siehst beschäftigt aus.	तुम व्यस्त लग रहे हो।
+You look busy.1	Sie sehen beschäftigt aus.	आप व्यस्त लग रहे हैं।
+You look fine.	Du siehst gut aus.	तुम ठीक लग रहे हो।
+You look good.	Du siehst gut aus.	तुम अच्छे लगते हो।
+You look good.1	Sie sehen gut aus.	आप अच्छे लग रहे हैं।
+You look pale.	Du siehst blass aus.	तुम पीले लगते हो।
+You look sick.	Du siehst krank aus.	तुम बीमार लग रहे हो।
+You look sick.1	Sie sehen krank aus.	आप बीमार लग रहे हैं।
+You may enter.	Du darfst eintreten.	तुम अंदर आ सकते हो।
