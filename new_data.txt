@@ -16766,3 +16766,13 @@ I paid in advance.	Ich habe im Voraus bezahlt.	मैंने पहले ह�
 I play chess, too.	Ich spiele auch Schach.	मैं भी शतरंज खेलता हूँ।
 I play the guitar.	Ich spiele Gitarre.	मैं गिटार बजाता हूँ।
 I play the violin.	Ich spiele Violine.	मैं वायलिन बजाता हूँ।
+I played football.	Ich habe Fußball gespielt.	मैंने फुटबॉल खेला।
+I played with Tom.	Ich habe mit Tom gespielt.	मैंने टॉम के साथ खेला।
+I prefer red wine.	Ich bevorzuge Rotwein.	मुझे लाल वाइन पसंद है।
+I pulled a muscle.	Ich habe mir einen Muskel gezerrt.	मैंने एक मांसपेशी खींच ली।
+I punished my son.	Ich habe meinen Sohn bestraft.	मैंने अपने बेटे को सजा दी।
+I put on my shirt.	Ich habe mein Hemd angezogen.	मैंने अपनी कमीज पहन ली।
+I put on my shoes.	Ich habe meine Schuhe angezogen.	मैंने अपने जूते पहन लिए।
+I ran a red light.	Ich bin bei Rot über die Ampel gelaufen.	मैंने लाल रोशनी के पार कूद दिया।
+I ran for my life.	Ich bin um mein Leben gerannt.	मैंने अपने जीवन के लिए दौड़ा।
+I ran out of fuel.	Mir ist der Treibstoff ausgegangen.	मेरी ईंधन की समाप्ति हो गई।
