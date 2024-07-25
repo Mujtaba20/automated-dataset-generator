@@ -12531,3 +12531,11 @@ I lost the watch.	Ich habe die Armbanduhr verloren.	मैंने घड़ी
 I love Australia.	Ich liebe Australien.	मुझे ऑस्ट्रेलिया पसंद है।
 I love Christmas.	Ich liebe Weihnachten.	मुझे क्रिसमस पसंद है।
 I love Halloween.	Ich liebe Halloween.	मुझे हैलोवीन की पसंद है।
+I love Tom's car.	Ich liebe Toms Auto.	मैं टॉम की गाड़ी से प्यार करता हूँ।
+I love adventure.	Ich liebe Abenteuer.	मुझे जोखिम पसंद है।
+I love astronomy.	Ich liebe Astronomie.	मैं खगोल शास्त्र से प्यार करता हूँ।
+I love dinosaurs.	Ich liebe Dinosaurier.	मुझे डायनासोर पसंद है।
+I love gardening.	Ich liebe Gärtnern.	मुझे गार्डनिंग पसंद है।
+I love ice cream.	Ich liebe Eiscreme.	मुझे आइसक्रीम पसंद है।
+I love my family.	Ich liebe meine Familie.	मैं अपने परिवार से प्यार करता हूँ।
+I love my father.	Ich liebe meinen Vater.	मैं अपने पिताजी से प्यार करता हूँ।
