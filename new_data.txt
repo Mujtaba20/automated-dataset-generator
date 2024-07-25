@@ -16405,3 +16405,11 @@ I don't like rice.	Ich mag keinen Reis.	मुझे चावल पसंद �
 I don't like sand.	Ich mag keinen Sand.	मुझे रेत पसंद नहीं है।
 I don't like that.	Ich mag das nicht.	मुझे वह अच्छा नहीं लगता।
 I don't like this.	Ich mag das hier nicht.	मुझे यह पसंद नहीं है।
+I don't live here.	Ich lebe hier nicht.	मैं यहाँ नहीं रहता।
+I don't need that.	Das brauche ich nicht.	मुझे वह चाहिए नहीं।
+I don't need them.	Ich brauche sie nicht.	मुझे उन्हें चाहिए नहीं।
+I don't need this.	Das brauche ich nicht.	मुझे यह चाहिए नहीं।
+I don't play golf.	Ich spiele kein Golf.	मैं गोल्फ नहीं खेलता।
+I don't play pool.	Ich spiele kein Pool.	मैं पूल नहीं खेलता।
+I don't regret it.	Das bereue ich nicht.	मुझे इस पर पछतावा नहीं है।
+I don't trust you.	Ich vertraue dir nicht.	मैं तुम्हें भरोसा नहीं करता।
