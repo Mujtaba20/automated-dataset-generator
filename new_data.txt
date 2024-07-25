@@ -15816,3 +15816,11 @@ engSentence7	Wiederhole das nicht.	वह दोहराने का कोई
 engSentence8	Lauf nicht so schnell.	इतनी तेज़ी से मत भागो।
 engSentence9	Lauf nicht so schnell.	इतनी जल्दी में मत भागो।
 engSentence10	Beeil dich nicht so.	इतनी तेज़ी से मत भागो।
+Don't stop trying.	Hör nicht auf zu versuchen.	कोशिश करना न बंध करें।
+Don't tell a soul.	Erzähl es niemandem.	किसी को मत बताओ।
+Don't tell anyone.	Sag es niemandem.	किसी को मत बताना।
+Don't tell my mom.	Sag es nicht meiner Mama.	मेरी माँ को मत बताओ।
+Don't think of it.	Denk nicht daran.	इसके बारे में मत सोचो।
+Don't threaten me.	Bedroh mich nicht.	मुझे धमकी मत दो।
+Don't touch these.	Rühre sie nicht an.	इनको मत छूना।
+Don't try so hard.	Versuche nicht so sehr.	इतनी कोशिश मत करो।
