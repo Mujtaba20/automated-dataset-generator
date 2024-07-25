@@ -1335,3 +1335,10 @@ Tom's hurt.	Tom tut weh.	टॉम को चोट लगी है।
 Tom's left.	Tom ist gegangen.	टॉम चला गया है।
 Tom's mean.	Tom ist gemein.	टॉम अर्थ है।
 Tom's safe.	Tom ist sicher.	टॉम सुरक्षित है।
+Tom's sick.	Tom ist krank.	टॉम बीमार है।
+Tom's ugly.	Tom ist hässlich.	टॉम बदसूरत है।
+Tom's weak.	Tom ist schwach.	टॉम कमजोर है।
+Tom's well.	Tom ist wohlauf.	टॉम ठीक है।
+Tough luck!	Pech gehabt!	बुरा भाग्य!
+Try harder.	Versuch es härter.	ज्यादा कोशिश करो।
+Try harder. - different meaning	Streng dich mehr an.	और मेहनत करो।
