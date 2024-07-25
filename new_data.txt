@@ -15448,3 +15448,6 @@ You're safe here.	Du bist hier sicher.	यहाँ तुम सुरक्ष
 You're screaming.	Du schreist.	तुम चिल्ला रहे हो।
 You're shivering.	Du zitterst.	तुम कांप रहे हो।
 You're shivering. alternative	Du frierst.	तुम ठंड लग रहे हो।
+You're so skinny.	Ihr seid so dünn.	तुम इतने दुबले हो।
+You're talkative.	Ihr sprecht viel.	तुम हर बात पर बातचीत करते हो।
+You're the enemy.	Du bist der Feind.	तुम दुश्मन हो।
