@@ -19375,3 +19375,12 @@ Tom wasn't joking.	Tom hat nicht gescherzt.	टॉम मजाक नहीं 
 Tom wasn't killed.	Tom wurde nicht getötet.	टॉम को नहीं मारा गया था।
 Tom wasn't moving.	Tom hat sich nicht bewegt.	टॉम चल नहीं रहा था।
 Tom wasn't normal.	Tom war nicht normal.	टॉम सामान्य नहीं था।
+Tom wasn't polite.	Tom war nicht höflich.	टॉम शिष्ट नहीं था।
+Tom wasn't scared.	Tom hatte keine Angst.	टॉम डरा नहीं था।
+Tom wasn't sleepy.	Tom war nicht müde.	टॉम सुस्त नहीं था।
+Tom wasn't stupid.	Tom war nicht dumm.	टॉम मूर्ख नहीं था।
+Tom wasn't unfair.	Tom war nicht ungerecht.	टॉम अन्यायी नहीं था।
+Tom waved at Mary.	Tom winkte Mary zu.	टॉम ने मैरी को हाथ उठाकर सलाम किया।
+Tom waved goodbye.	Tom winkte zum Abschied.	टॉम ने अलविदा कहा।
+Tom wears glasses.	Tom trägt eine Brille.	टॉम चश्मे पहनता है।
+Tom went clubbing.	Tom ging in die Disco.	टॉम क्लब में गया।
