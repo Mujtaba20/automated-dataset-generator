@@ -12095,3 +12095,11 @@ He's over thirty.	Er ist über dreißig.	वह तीस के पार ह�
 He's ready to go.	Er ist bereit zu gehen.	वह जाने के लिए तैयार है।
 He's stark naked.	Er ist splitternackt.	वह पूरी नंगा है।
 He's still alive.	Er ist immer noch am Leben.	वह अभी तक जीवित है।
+He's still young.	Er ist immer noch jung.	वह अभी भी जवान है।
+He's such a jerk.	Er ist so ein Trottel.	वह एक बेवकूफ है।
+He's unconscious.	Er ist ohnmächtig.	उसे अहोश हुआ है।
+He's very lonely.	Er ist sehr einsam.	वह बहुत अकेला है।
+He's very stingy.	Er ist sehr geizig.	वह बहुत कंजूस है।
+He's very strong.	Er ist sehr stark.	वह बहुत मजबूत है।
+He's watching me.	Er sieht mich an.	वह मुझे देख रहा है।
+He's your father.	Er ist dein Vater.	वह तेरा पिता है।
