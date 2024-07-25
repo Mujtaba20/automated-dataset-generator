@@ -17970,3 +17970,11 @@ That's no problem.	Das ist kein Problem.	यह कोई समस्या न
 That's not enough.	Das reicht nicht.	यह पर्याप्त नहीं है।
 That's not my car.	Das ist nicht mein Auto.	यह मेरी कार नहीं है।
 engSentence	Das ist nicht normal.	यह सामान्य नहीं है।
+That's ridiculous.	Das ist lächerlich.	यह ऊटपटांग है।
+That's sufficient.	Das reicht aus.	यह पर्याप्त है।
+That's super easy.	Das ist super einfach.	यह बहुत ही आसान है।
+That's terrifying.	Das ist beängstigend.	यह भयानक है।
+That's the spirit.	Das ist der Geist.	यह अभिमान है।
+That's very cruel.	Das ist sehr grausam.	यह बहुत क्रूर है।
+That's very funny.	Das ist sehr lustig.	यह बहुत ही मजेदार है।
+That's very handy.	Das ist sehr praktisch.	यह बहुत ही उपयोगी है।
