@@ -1,14 +1,4 @@
 
-Don't fail me, Tom.	Lass mich nicht im Stich, Tom!	मुझे निराश मत करो, टॉम!
-Don't feed the dog.	Gib dem Hund nichts zu fressen.	कुत्ते को खाने के लिए कुछ नहीं दें।
-Don't get involved.	Misch dich nicht ein.	बाधा मत डालो।
-Don't get involved.	Lass dich darauf nicht ein.	शामिल मत करो।
-Don't get involved.	Lassen Sie sich darauf nicht ein.	इसे जाने न दें।
-Don't get involved.	Lasst euch darauf nicht ein.	शामिल मत हो।
-Don't get me wrong.	Versteh mich nicht falsch!	मुझे गलत नहीं समझें!
-Don't get paranoid.	Werde nicht paranoid!	पागल मत बनो!
-Don't give me that!	Komm mir nicht mit sowas!	उस के साथ मेरे पास मत आओ!
-Don't give me that!	Gib mir das nicht!	मुझे वह मत दो!
 Don't give me that.	Gib es mir nicht.	मुझे यह मत दो।
 Don't give me that.	Geben Sie es mir nicht.	मुझे मत दो।
 Don't give up hope.	Gib die Hoffnung nicht auf.	आशा मत छोड़ो।
