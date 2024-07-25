@@ -1132,3 +1132,13 @@ It's alive.	Es lebt.	यह जीवित है।
 It's bogus.	Es ist gefälscht.	यह बेमानी है।
 It's bulky.	Es ist sperrig.	यह भारी है।
 It's clean.	Es ist sauber.	यह साफ है।
+It's clear.	Es ist klar.	यह स्पष्ट है।
+It's close.	Es ist nah.	यह नजदीक है।
+It's early.	Es ist früh.	यह जल्दी है।
+It's great.	Es ist großartig.	यह शानदार है।
+It's green.	Es ist grün.	यह हरा है।
+It's my CD.	Es ist meine CD.	यह मेरा सीडी है।
+It's night.	Es ist Nacht.	यह रात है।
+It's on me.	Es ist an mir.	यह मेरे ऊपर है।
+It's ready.	Es ist bereit.	यह तैयार है।
+It's ready. (Different meaning)	Es ist fertig.	यह तैयार है। (विभिन्न अर्थ)
