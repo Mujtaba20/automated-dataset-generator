@@ -8160,3 +8160,11 @@ Are you over 18?	Bist du über 18?	क्या आप 18 से अधिक �
 Are you retired?	Sind Sie im Ruhestand?	क्या आप सेवानिवृत्त हैं?
 Are you serious?	Nimmst du das ernst?	क्या आप गंभीर हैं?
 Are you sisters?	Seid ihr Schwestern?	क्या आप बहन हैं?
+Are you smiling?	Lächelst du?	क्या आप मुस्कुरा रहे हैं?
+Are you thirsty?	Bist du durstig?	क्या आप प्यासे हैं?
+Are you unhappy?	Bist du unglücklich?	क्या आप अद्भुत हैं?
+Are you with me?	Bist du bei mir?	क्या तुम मेरे साथ हो?
+Are you with us?	Bist du bei uns?	क्या तुम हमारे साथ हो?
+Are you working?	Arbeitest du?	क्या तुम काम कर रहे हो?
+Aren't you busy?	Bist du nicht beschäftigt?	क्या आप व्यस्त नहीं हैं?
+Don't you have any work?	Hast du keine Arbeit?	क्या आपके पास कोई काम नहीं है?
