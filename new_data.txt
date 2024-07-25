@@ -17086,3 +17086,13 @@ I'm glad we agree.	Ich bin froh, dass wir übereinstimmen.	मुझे खु�
 I'm going fishing.	Ich gehe angeln.	मैं मछली पकड़ने जा रहा हूँ।
 I'm going out now.	Ich gehe jetzt raus.	मैं अब बाहर जा रहा हूँ।
 I'm going outside.	Ich gehe nach draußen.	मैं बाहर जा रहा हूँ।
+I'm going running.	Ich gehe laufen.	मैं जा रहा हूँ दौड़ने।
+I'm going to come.	Ich werde kommen.	मैं आने वाला हूँ।
+I'm going to jump.	Ich werde springen.	मैं कूदने जा रहा हूँ।
+I'm going to jump. (Different meaning)	Ich werde gleich springen.	मैं जल्द ही कूदेगा।
+I'm half Japanese.	Ich bin halb Japaner.	मैं हाफ जापानी हूँ।
+I'm half Japanese. (Different meaning)	Ich bin halb japanisch.	मैं आधा जापानी हूँ।
+I'm happy for Tom.	Ich freue mich für Tom.	मैं टॉम के लिए खुश हूँ।
+I'm happy for you.	Ich freue mich für dich.	मैं तुम्हारे लिए खुश हूँ।
+I'm happy tonight.	Ich bin heute Abend glücklich.	मैं आज रात खुश हूँ।
+I'm happy with it.	Ich bin damit zufrieden.	मुझे ये पसंद है।
