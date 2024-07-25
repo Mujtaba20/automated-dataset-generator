@@ -11674,3 +11674,7 @@ Did you meet him?	Hast du ihn getroffen?	क्या आपने उससे 
 Did you phone me?	Hast du mich angerufen?	क्या आपने मुझे फोन किया?
 Did you see that?	Hast du das gesehen?	क्या आपने वह देखा?
 Did you sleep OK?	Hast du gut geschlafen?	क्या आपने ठीक से सोया?
+Did you steal it?	Hast du es gestohlen?	क्या आपने इसे चोरी किया?
+Did you stop Tom?	Hast du Tom gestoppt?	क्या आपने टॉम को रोका?
+Did you tell Tom?	Hast du Tom erzählt?	क्या तुमने टॉम को बताया?
+Did you throw up?	Hast du erbrochen?	क्या आपने उल्टी की है?
