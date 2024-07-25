@@ -6541,3 +6541,13 @@ Is that enough?	Ist das genug?	क्या यह पर्याप्त ह�
 Is that for me?	Ist das für mich?	क्या यह मेरे लिए है?
 Is that my hat?	Ist das mein Hut?	क्या यह मेरी टोपी है?
 Is that my mug?	Ist das meine Tasse?	क्या यह मेरी मग है?
+Is that normal?	Ist das normal?	क्या यह सामान्य है?
+Is that so bad?	Ist das so schlimm?	क्या वह इतना बुरा है?
+Is there a fee?	Gibt es eine Gebühr?	क्या कोई शुल्क है?
+Is this a bird?	Ist das ein Vogel?	क्या यह एक पक्षी है?
+Is this enough?	Ist das genug?	क्या यह पर्याप्त है?
+Is this for me?	Ist das für mich?	क्या यह मेरे लिए है?
+Is this normal?	Ist das normal?	क्या यह सामान्य है?
+Isn't Tom cool?	Ist Tom nicht cool?	क्या टॉम मस्त नहीं है?
+Isn't Tom cute?	Ist Tom nicht niedlich?	क्या टॉम प्यारा नहीं है?
+Isn't it black?	Ist es nicht schwarz?	क्या यह काला नहीं है?
