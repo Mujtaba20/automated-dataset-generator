@@ -10939,3 +10939,11 @@ Tom will suffer.	Tom wird leiden.	टॉम पीड़ित होगा।
 Tom will try it.	Tom wird es versuchen.	टॉम यह कोशिश करेगा।
 Tom will use it.	Tom wird es benutzen.	टॉम इसका इस्तेमाल करेगा।
 Tom winked back.	Tom zwinkerte zurück.	टॉम वापस मुस्काया।
+Tom won a medal.	Tom hat eine Medaille gewonnen.	टॉम ने एक पदक जीता।
+Tom won the bet.	Tom hat die Wette gewonnen.	टॉम ने बाजी जीती।
+Tom won't argue.	Tom wird nicht streiten.	टॉम झगड़ा नहीं करेगा।
+Tom won't budge.	Tom wird nicht nachgeben.	टॉम झुकने का भी इंकार करेगा।
+Tom won't do it.	Tom wird es nicht tun.	टॉम यह नहीं करेगा।
+Tom won't leave.	Tom wird nicht gehen.	टॉम नहीं जाएगा।
+Tom wore gloves.	Tom trug Handschuhe.	टॉम ने दस्ताने पहने थे।
+Tom worked hard.	Tom hat hart gearbeitet.	टॉम ने मेहनत की।
