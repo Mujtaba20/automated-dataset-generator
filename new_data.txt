@@ -2473,3 +2473,10 @@ Did Tom stay?	Ist Tom geblieben?	क्या टॉम रुका?
 Did Tom swim?	Ist Tom geschwommen?	क्या टॉम तैरा?
 Did Tom vote?	Hat Tom gewählt?	क्या टॉम ने वोट दिया?
 Did you call?	Hast du angerufen?	क्या तुमने कॉल किया?
+Did you help?	Hast du geholfen?	क्या तुमने सहायता की?
+Did you sign?	Haben Sie unterschrieben?	क्या आपने हस्ताक्षर किए?
+Did you sing?	Hast du gesungen?	क्या तुमने गाया?
+Did you vote?	Hast du gewählt?	क्या आपने चुनाव में भाग लिया?
+Do I look OK?	Sehe ich in Ordnung aus?	क्या मैं सही लग रहा हूँ?
+Do it Monday.	Mach es am Montag.	इसे सोमवार को करो।
+Do it anyway.	Mach es sowieso.	फिर भी करो।
