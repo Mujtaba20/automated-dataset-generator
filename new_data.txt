@@ -8402,3 +8402,8 @@ Everyone's busy.	Jeder ist beschäftigt.	सभी व्यस्त हैं�
 Everyone's dead.	Alle sind tot.	सभी मर चुके हैं।
 Everyone's sick.	Jeder ist krank.	सभी बीमार हैं।
 Everything's OK.	Alles ist in Ordnung.	सब ठीक है।
+Fetch me my hat.	Holen Sie mir meinen Hut.	मेरी टोपी लाओ।
+Follow that car.	Verfolgen Sie dieses Auto.	उस गाड़ी का पालन करें।
+Forget about it.	Vergessen Sie es.	इस बारे में मत सोचो।
+Frogs eat flies.	Frösche fressen Fliegen.	मेंढक मक्खियाँ खाते हैं।
+Get Tom in here.	Bring Tom hierher.	टॉम को अंदर लाओ।
