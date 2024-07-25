@@ -4703,3 +4703,11 @@ Nobody called.	Niemand hat angerufen.	किसी ने कॉल नहीं
 Nobody called. (Different meaning)	Niemand hat gerufen.	कोई नहीं बोला।
 Nobody saw me.	Niemand hat mich gesehen.	किसी ने मुझे नहीं देखा।
 Nobody saw me. (Different meaning)	Niemand hat mich erblickt.	कोई ने मुझे नहीं देखा।
+Nobody smiled.	Niemand lächelte.	कोई भी मुस्कुराया नहीं।
+Nobody's busy.	Niemand ist beschäftigt.	कोई भी व्यस्त नहीं है।
+Nobody's home.	Niemand ist zu Hause.	घर कोई नहीं है।
+Nothing moved.	Nichts bewegte sich.	कुछ नहीं हुआ।
+Now I'm angry.	Jetzt bin ich wütend.	अब मैं नाराज हूँ।
+Now I'm ready.	Jetzt bin ich bereit.	अब मैं तैयार हूँ।
+Now it's over.	Jetzt ist es vorbei.	अब समाप्त हो गया है।
+Now you do it.	Jetzt machst du es.	अब तुम करो।
