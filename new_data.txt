@@ -20142,3 +20142,8 @@ You'll be jealous.	Du wirst eifersüchtig sein.	तुम जलन महसू
 You'll be with me.	Du wirst bei mir sein.	तुम मेरे साथ होगे।
 You'll find a job.	Du wirst einen Job finden.	तुम्हें नौकरी मिलेगी।
 You'll have to go.	Du musst gehen.	तुम्हें जाना होगा।
+You'll need money.	Man wird Geld brauchen.	आपको रुपये की आवश्यकता होगी।
+You'll pay for it.	Du wirst dafür bezahlen.	आपको इसके लिए भुगतान करना होगा।
+You're a bad liar.	Du bist ein ungeschickter Schwindler.	तुम एक बुरा झूठा हो।
+You're a bookworm.	Du bist eine Leseratte.	तुम एक किताबी कीड़ा हो।
+You're a good boy.	Du bist ein braver Junge.	तुम एक अच्छे लड़के हो।

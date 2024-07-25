@@ -1,14 +1,4 @@
 
-You'll need money.	Du wirst Geld brauchen.	आपको पैसे की आवश्यकता होगी।
-You'll need money.	Sie werden Geld brauchen.	आपको पैसे की आवश्यकता होगी।
-You'll need money.	Ihr werdet Geld brauchen.	आपको पैसे की आवश्यकता होगी।
-You'll pay for it.	Du wirst dafür bezahlen.	आप इसके लिए भुगतान करेंगे।
-You're a bad liar.	Du bist ein schlechter Lügner.	आप एक बुरे झूठे हैं।
-You're a bad liar.	Du bist eine schlechte Lügnerin.	आप एक बुरे झूठे हैं।
-You're a bad liar.	Sie sind ein schlechter Lügner.	वे एक बुरे झूठे हैं।
-You're a bad liar.	Sie sind eine schlechte Lügnerin.	आप एक बुरे झूठे हैं।
-You're a bookworm.	Du bist ein Bücherwurm.	आप एक किताबी कीड़ा हैं।
-You're a good boy.	Du bist ein guter Junge.	तुम एक अच्छे लड़के हो।
 You're a good man.	Du bist ein guter Mann.	आप एक भले आदमी हैं।
 You're a good mom.	Du bist eine gute Mutter.	आप एक अच्छी माँ हैं।
 You're a murderer.	Du bist ein Mörder.	आप एक हत्यारे हैं।
