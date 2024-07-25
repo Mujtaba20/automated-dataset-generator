@@ -20093,3 +20093,8 @@ You might like it.	Du könntest es mögen.	तुम शायद इसे प�
 You missed a spot.	Du hast einen Fleck verpasst.	तुमने एक जगह छोड़ दी।
 You must be alert.	Du musst wachsam sein.	तुमे सतर्क रहना चाहिए।
 You must be crazy.	Du musst verrückt sein.	तुमे पागल होना चाहिए।
+You must be tired.	Du musst müde sein.	तुमें थक जाना चाहिए।
+You must help Tom.	Du musst Tom helfen.	तुम्हें टॉम की मदद करनी चाहिए।
+You must help her.	Du musst ihr helfen.	तुम्हें उसकी मदद करनी चाहिए।
+You must hurry up.	Du musst dich beeilen.	तुम्हें जल्दी करनी चाहिए।
+You must not kill.	Du darfst nicht töten.	तुम्हें मारना नहीं चाहिए।

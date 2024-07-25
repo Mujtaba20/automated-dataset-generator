@@ -1,14 +1,4 @@
 
-You must be tired.	Du musst müde sein.	आपको थक जाना है।
-You must be tired.	Sie müssen müde sein.	आपको थक जाना है।
-You must be tired.	Ihr müsst müde sein.	आपको थक जाना है।
-You must help Tom.	Du musst Tom helfen.	आपको टॉम की मदद करनी है।
-You must help Tom.	Sie müssen Tom helfen.	आपको टॉम की मदद करनी है।
-You must help her.	Du musst ihr helfen.	आपको उसकी मदद करनी होगी।
-You must hurry up.	Du musst schnell machen.	आपको जल्दी करना होगा।
-You must hurry up.	Du musst dich sputen.	आपको जल्दी करना होगा।
-You must hurry up.	Sie müssen sich beeilen.	आपको जल्दी करना होगा।
-You must not kill.	Du darfst nicht töten.	आप नहीं मार सकते।
 You must stop him.	Du musst ihn aufhalten.	आपको उसे रोकना होगा।
 You need a lawyer.	Du brauchst einen Anwalt.	आपको एक वकील की जरूरत है।
 You need a lawyer.	Ihr braucht einen Anwalt.	आपको एक वकील की जरूरत है।
