@@ -1,14 +1,4 @@
 
-Get away from here.	Hau ab!	भाड़ में जाओ!
-Get away from here.	Verschwinde von hier!	यहाँ से चले जाओ!
-Get away from here.	Verschwindet von hier.	यहाँ से गायब हो गया।
-Get away from here.	Macht euch vom Acker.	मैदान से उतर जाओ।
-Get away from here.	Verdufte!	वर्माड!
-Get away from here.	Mach dich fort!	किला!
-Get in the car now.	Steig jetzt ins Auto!	अब कार में जाओ!
-Get it out of here.	Bring es hier raus.	इसे यहाँ लाओ।
-Get it out of here.	Bring es weg!	इसे दूर ले आओ!
-Get me out of here.	Hol mich hier raus.	मुझे यहाँ से बाहर निकालो।
 Get me up at eight.	Weck mich um acht.	मुझे आठ जगाओ।
 Get off of my roof.	Runter von meinem Dach!	मेरी छत से नीचे!
 Get off your horse.	Runter von Ihrem Pferd!	अपने घोड़े से नीचे!

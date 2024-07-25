@@ -20619,3 +20619,9 @@ Follow your desire.	Folge deinem Wunsch.	अपनी इच्छा का प
 Follow your dreams.	Folge deinen Träumen.	अपने सपनों का पालन करें।
 For here, or to go?	Hier verzehren oder mitnehmen?	यहाँ खाना है या बाहर ले जायेंगे?
 Freedom isn't free.	Freiheit ist nicht umsonst.	स्वतंत्रता मुफ्त नहीं है।
+Get away from here.	Gehen Sie weg von hier.	यहाँ से दूर जाओ।
+Get in the car now.	Steigen Sie sofort ins Auto.	अब कार में चलो।
+Get it out of here.	Holen Sie es hier raus.	इसे यहाँ से निकालो।
+Get me out of here.	Holen Sie mich hier raus.	मुझे यहाँ से निकालो।
+Get away from here. I need some space.	Geh weg von hier. Ich brauche etwas Platz.	यहाँ से दूर जाओ। मुझे कुछ जगह चाहिए।
+Get away from here. The situation is dangerous.	Gehen Sie weg von hier. Die Situation ist gefährlich.	यहाँ से दूर जाओ। स्थिति खतरनाक है।
