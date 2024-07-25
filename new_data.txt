@@ -14120,3 +14120,12 @@ Tom ignored Mary.	Tom hat Mary ignoriert.	टॉम ने मेरी को �
 Tom impressed me.	Tom hat mich beeindruckt.	टॉम ने मुझ पर प्रभाव डाला।
 Tom intrigues me.	Tom fasziniert mich.	टॉम मेरा ध्यान खींचता है।
 Tom invited Mary.	Tom hat Mary eingeladen.	टॉम ने मेरी को निमंत्रण दिया।
+Tom is Mary's ex.	Tom ist Marys Ex.	टॉम मेरी का पूर्व
+Tom is a bad boy.	Tom ist ein böser Junge.	टॉम एक बुरा लड़का है।
+Tom is a big boy.	Tom ist ein großer Junge.	टॉम एक बड़ा लड़का है।
+Tom is a big man.	Tom ist ein großer Mann.	टॉम एक बड़ा आदमी है।
+Tom is a charmer.	Tom ist ein Charmeur.	टॉम एक आकर्षक व्यक्ति है।
+Tom is a con man.	Tom ist ein Betrüger.	टॉम एक धोखेबाज़ व्यक्ति है।
+Tom is a dreamer.	Tom ist ein Träumer.	टॉम एक सपनेवाला है।
+Tom is a drummer.	Tom ist ein Schlagzeuger.	टॉम एक ड्रमर है।
+Tom is a fascist.	Tom ist ein Faschist.	टॉम एक फैशिस्ट है।
