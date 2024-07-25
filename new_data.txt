@@ -6412,3 +6412,12 @@ I'm getting by.	Es geht mir gut.	मैं चल रहा हूँ।
 I'm going back.	Ich gehe zurück.	मैं वापस जा रहा हूँ।
 I'm going bald.	Ich werde glatzköpfig.	मेरे सिर पर गंजा हो रहा है।
 I'm going home.	Ich fahre nach Hause.	मैं घर जा रहा हूँ।
+I'm going, too.	Ich gehe auch.	मैं भी जा रहा हूँ।
+I'm happy here.	Ich bin hier glücklich.	मैं यहाँ खुश हूँ।
+I'm happy, too.	Ich bin auch glücklich.	मैं भी खुश हूँ।
+I'm having fun.	Ich amüsiere mich.	मैं मज़े कर रहा हूँ।
+I'm here again.	Ich bin wieder da.	मैं फिर से यहाँ हूँ।
+I'm home early.	Ich bin früh zu Hause.	मैं जल्दी घर आया।
+I'm human, too.	Ich bin auch ein Mensch.	मैं भी इंसान हूँ।
+I'm hungry now.	Ich bin jetzt hungrig.	मुझे अभी भूख लगी है।
+I'm illiterate.	Ich bin analphabet.	मैं अक्षरहीन हूँ।
