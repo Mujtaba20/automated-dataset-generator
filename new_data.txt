@@ -11625,3 +11625,10 @@ Come with me, OK?	Kommst du mit mir, ja?	मेरे साथ आओ, ठी�
 Come with us now.	Komm jetzt mit uns.	अब हमारे साथ चलो।
 Concentrate, Tom.	Konzentriere dich, Tom.	ध्यान दो, टॉम।
 Consider it done.	Betrachte es als erledigt.	इसे किया मानो।
+Continue digging.	Weiter graben.	जारी खोदना।
+Continue working.	Weiter arbeiten.	काम जारी रखें।
+Control yourself!	Kontrolliere dich!	अपने आप को नियंत्रित करो!
+Could I help you?	Könnte ich Ihnen helfen?	क्या मैं आपकी मदद कर सकता हूँ?
+Continue digging.1	Fahren Sie mit dem Graben fort.	खोदना जारी रखें।
+Control yourself.1	Beherrsche dich.	अपने आप को नियंत्रित करो।
+Could I help you?.1	Könnte ich Ihnen behilflich sein?	क्या मैं आपकी सहायता कर सकता हूँ?
