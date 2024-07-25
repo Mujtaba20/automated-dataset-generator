@@ -19202,3 +19202,11 @@ Tom stayed silent.	Tom schwieg.	टॉम चुप रहा।
 Tom stayed strong.	Tom blieb stark.	टॉम मजबूत रहा।
 Tom stays with us.	Tom bleibt bei uns.	टॉम हमारे साथ रहता है।
 Tom stepped aside.	Tom trat beiseite.	टॉम एक कदम हट गया।
+Tom stood Mary up.	Tom ließ Mary aufstehen.	टॉम मेरी के साथ खड़े रहे।
+Tom stood in line.	Tom stand in der Schlange.	टॉम लाइन में खड़ा था।
+Tom stood quickly.	Tom stand schnell auf.	टॉम जल्दी खड़ा हो गया।
+Tom stood quietly.	Tom stand ruhig.	टॉम शांत खड़ा था।
+Tom stood stiffly.	Tom stand steif.	टॉम अकड़ कर खड़ा था।
+Tom stopped short.	Tom blieb stehen.	टॉम चुपके से बंद हो गया।
+Tom talks quickly.	Tom spricht schnell.	टॉम जल्दी बोलता है।
+Tom taught French.	Tom unterrichtete Französisch.	टॉम ने फ्रेंच सिखाया।

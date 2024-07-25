@@ -1,14 +1,4 @@
 
-Tom stood Mary up.	Tom hat Maria versetzt.	टॉम ने मारिया को स्थानांतरित कर दिया।
-Tom stood Mary up.	Tom hat Maria sitzenlassen.	टॉम ने मारिया को छोड़ दिया।
-Tom stood in line.	Tom stand an.	टॉम खड़ा था।
-Tom stood quickly.	Tom stand schnell auf.	टॉम जल्दी से उठ गया।
-Tom stood quietly.	Tom stand still.	टॉम अभी भी खड़ा था।
-Tom stood quietly.	Tom stand leise da.	टॉम चुपचाप खड़ा था।
-Tom stood stiffly.	Tom stand steif da.	टॉम कठोर खड़ा था।
-Tom stopped short.	Tom machte kurz davor halt.	टॉम रुक गया।
-Tom talks quickly.	Tom redet schnell.	टॉम जल्दी से बात करता है।
-Tom taught French.	Tom hat Französisch unterrichtet.	टॉम ने फ्रेंच सिखाया।
 Tom threatened me.	Tom drohte mir.	टॉम ने मुझे धमकी दी।
 Tom threatened us.	Tom hat uns bedroht.	टॉम ने हमें धमकी दी।
 Tom threw it away.	Tom hat es weggeworfen.	टॉम ने इसे फेंक दिया।
