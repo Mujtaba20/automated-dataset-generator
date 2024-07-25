@@ -14633,3 +14633,13 @@ Tom shops online.	Tom kauft online ein.	टॉम ऑनलाइन शॉप�
 Tom shot at Mary.	Tom schoss auf Mary.	टॉम ने मैरी पर गोली चलाई।
 Tom shot himself.	Tom hat sich selbst erschossen.	टॉम ने खुद को गोली मार ली।
 Tom should be up.	Tom sollte auf sein.	टॉम ऊपर होना चाहिए।
+Tom should relax.	Tom sollte sich entspannen.	टॉम को आराम करना चाहिए।
+Tom shouts a lot.	Tom ruft viel.	टॉम बहुत चिल्लाता है।
+Tom shuffled off.	Tom schob sich weg.	टॉम छलाँग लगाकर चला गया।
+Tom shuffled out.	Tom schob sich heraus.	टॉम बाहर छलाँग लगाया।
+Tom sighed again.	Tom seufzte wieder.	टॉम फिर से साँस बहरी।
+Tom slapped Mary.	Tom schlug Mary.	टॉम ने मैरी को थप्पड़ मारा।
+Tom sleeps a lot.	Tom schläft viel.	टॉम बहुत सोता है।
+Tom smells awful.	Tom riecht furchtbar.	टॉम की बहुत ही खराब गंध है।
+Tom smells weird.	Tom riecht seltsam.	टॉम की अजीब गंध है।
+Tom smiled again.	Tom lächelte erneut.	टॉम फिर से मुस्कुराया।
