@@ -2411,3 +2411,8 @@ Are you free?	Bist du frei?	क्या आप मुक्त हैं?
 Are you here?	Bist du hier?	क्या तुम यहाँ हो?
 Are you home?	Bist du zu Hause?	क्या तुम घर पर हो?
 Are you hurt?	Bist du verletzt?	क्या आप चोट लगी है?
+Are you lost?	Sind Sie verloren?	क्या तुम गुम हो गए हो?
+Are you okay?	Geht es dir gut?	क्या तुम ठीक हो?
+Are you rich?	Bist du reich?	क्या आप अमीर हैं?
+Are you sick?	Bist du krank?	क्या तुम बीमार हो?
+Are you sure?	Bist du sicher?	क्या तुम पक्का हो?
