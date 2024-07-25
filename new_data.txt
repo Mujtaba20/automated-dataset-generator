@@ -20049,3 +20049,8 @@ You have no heart.	Du hast kein Herz.	तुम्हें दिल नही�
 You have no proof.	Du hast keinen Beweis.	तुम्हें कोई सबूत नहीं है।
 You have no taste.	Du hast keinen Geschmack.	तुम्हें स्वाद नहीं है।
 You have one hour.	Du hast eine Stunde.	तुम्हारे पास एक घंटा है।
+You have problems.	Du hast Probleme.	तुम्हारी समस्याएं हैं।
+You have to do it.	Du musst es tun.	तुम्हें यह करना होगा।
+You have to fight.	Du musst kämpfen.	तुम्हें लड़ना होगा।
+You have to hurry.	Du musst dich beeilen.	तुम्हें जल्दी करना होगा।
+You have to start.	Du musst anfangen.	तुम्हें शुरुआत करनी होगी।

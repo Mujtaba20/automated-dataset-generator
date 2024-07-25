@@ -1,16 +1,4 @@
 
-You have problems.	Du hast Probleme.	आपको समस्याएं हैं।
-You have problems.	Ihr habt Probleme.	आपको समस्याएं हैं।
-You have problems.	Sie haben Probleme.	आपको समस्याएं हैं।
-You have to do it.	Du musst das tun.	आपको ऐसा करना होगा।
-You have to fight.	Du musst kämpfen!	आपको लड़ना है!
-You have to fight.	Sie müssen kämpfen!	आपको लड़ना है!
-You have to fight.	Ihr müsst kämpfen!	आपको लड़ना है!
-You have to hurry.	Du musst dich beeilen.	आपको जल्दी करना होगा।
-You have to hurry.	Sie müssen sich beeilen.	आपको जल्दी करना होगा।
-You have to start.	Du musst anfangen!	आपको शुरू करना होगा!
-You have to start.	Sie müssen anfangen!	आपको शुरू करना होगा!
-You have to start.	Ihr müsst anfangen!	आपको शुरू करना होगा!
 You have visitors.	Du hast Besucher.	आपके पास आगंतुक है।
 You have visitors.	Ihr habt Besucher.	आपके पास आगंतुक हैं।
 You know everyone.	Du kennst jeden.	आप सभी को जानते हैं।
