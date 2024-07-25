@@ -15415,3 +15415,10 @@ You wouldn't lie.	Du würdest nicht lügen.	तुम झूठ नहीं ब
 You wouldn't lie. (different meaning)	Du würdest nicht lügen.	तुम झूठ नहीं बोलोगे।
 You'll know soon.	Du wirst bald wissen.	तुम जल्दी ही जान जाओगे।
 You'll like this.	Das wird dir gefallen.	तुम्हें यह पसंद आएगा।
+You'll love this.	Du wirst das lieben.	तुम इसे पसंद करोगे।
+You'll need more.	Du wirst mehr brauchen.	तुम्हे और चाहिए होगा।
+You're a big boy.	Du bist ein großer Junge.	तुम एक बड़े लड़के हो।
+You're a man now.	Du bist jetzt ein Mann.	तुम अब एक आदमी हो।
+You're a problem.	Du bist ein Problem.	तुम समस्या हो।
+You're after Tom.	Du jagst Tom nach.	तुम टॉम के पीछे हो।
+You're ambitious.	Du bist ehrgeizig.	तुमे उम्मीदें हैं।
