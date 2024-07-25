@@ -13601,3 +13601,12 @@ Stop scaring Tom.	Hör auf, Tom zu erschrecken.	टॉम को डराना
 Stop showing off!	Hör auf anzugeben!	दिखावट करना बंद करो!
 Stop teasing Tom.	Hör auf, Tom zu necken.	टॉम को चिढ़ाना बंद करो।
 Summer has ended.	Der Sommer ist zu Ende.	गर्मी समाप्त हो गई है।
+Summer is coming.	Der Sommer kommt.	गर्मी आ रही है।
+Superman can fly.	Superman kann fliegen.	सुपरमैन उड़ सकता है।
+Swallow the pill.	Die Pille schlucken.	गोली पीलो।
+Swimming is easy.	Schwimmen ist einfach.	तैरना आसान है।
+Take Tom outside.	Bring Tom nach draußen.	टॉम को बाहर ले जाओ।
+Take Tom's place.	Nimm Toms Platz ein.	टॉम की जगह लो।
+Take a good look.	Schau genau hin.	अच्छे से देखो।
+Take a look, Tom.	Schau mal, Tom.	देखो, टॉम।
+Take precautions.	Vorsichtsmaßnahmen treffen.	सावधानी बरतें।
