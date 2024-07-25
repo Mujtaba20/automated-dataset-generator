@@ -5373,3 +5373,12 @@ Were you shot?	Wurdest du angeschossen?	क्या तुम गोली ल�
 Were you sick?	Waren Sie krank?	क्या तुम बीमार थे?
 What a hassle!	Was für eine Plage!	कितनी परेशानी है!
 What a relief!	Was für eine Erleichterung!	कितनी राहत है!
+What about me?	Was ist mit mir?	मेरे बारे में क्या है?
+What about us?	Was ist mit uns?	हमारे बारे में क्या है?
+What an idiot!	Was für ein Idiot!	कितना मूर्ख!
+What are they?	Was sind sie?	वे क्या हैं?
+What can I do?	Was kann ich tun?	मैं क्या कर सकता हूँ?
+What can I do? (Different meaning)	Was kann ich machen?	मैं क्या कर सकता हूँ?
+What do I get?	Was bekomme ich?	मुझे क्या मिलेगा?
+What do I owe?	Was schulde ich?	मुझे क्या चुकाना है?
+What happened?	Was ist passiert?	क्या हुआ?
