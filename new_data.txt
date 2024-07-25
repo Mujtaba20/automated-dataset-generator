@@ -13210,3 +13210,11 @@ It's on the sofa.	Es ist auf dem Sofa.	सोफे पर है।
 It's one of mine.	Es ist eines meiner.	यह मेरे में से एक है।
 It's only Monday.	Es ist erst Montag.	यह सिर्फ सोमवार है।
 It's pitch black.	Es ist stockdunkel.	यह बिल्कुल काला है।
+It's pretty cold.	Es ist ziemlich kalt.	यह बहुत ठंडा है।
+It's pretty cool.	Es ist ziemlich cool.	यह बहुत शानदार है।
+It's pretty late.	Es ist ziemlich spät.	यह बहुत देर हो गई है।
+It's pretty ugly.	Es ist ziemlich hässlich.	यह काफी बुरा है।
+It's quite large.	Es ist ziemlich groß.	यह काफी बड़ा है।
+It's rainy today.	Heute regnet es.	आज बारिश हो रही है।
+It's rather cold.	Es ist ziemlich kalt.	यह काफी ठंडा है।
+It's really cold.	Es ist wirklich kalt.	यह वास्तव में ठंडा है।
