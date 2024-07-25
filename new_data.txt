@@ -12583,3 +12583,10 @@ I must warn them.	Ich muss sie warnen.	मुझे उन्हें चेत
 I nearly starved.	Ich bin fast verhungert.	मैं बसने के कगार पर था।
 I need a crowbar.	Ich brauche einen Brecheisen.	मुझे एक क्रोबार चाहिए।
 I need a holiday.	Ich brauche einen Urlaub.	मुझे एक छुट्टी की आवश्यकता है।
+I need a job now.	Ich brauche jetzt einen Job.	मुझे अब नौकरी की आवश्यकता है।
+I need a new car.	Ich brauche ein neues Auto.	मुझे एक नई कार की जरूरत है।
+I need a partner.	Ich brauche einen Partner.	मुझे एक साथी की आवश्यकता है।
+I need a plumber.	Ich brauche einen Klempner.	मुझे नल्कार की आवश्यकता है।
+I need a red pen.	Ich brauche einen roten Stift.	मुझे एक लाल पेन की जरूरत है।
+I need a spatula.	Ich brauche einen Pfannenwender.	मुझे एक स्पैचुला की आवश्यकता है।
+I need envelopes.	Ich brauche Umschläge.	मुझे लिफ़ाफ़े चाहिए।
