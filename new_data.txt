@@ -865,3 +865,9 @@ Did Tom go?	Ist Tom gegangen?	क्या टॉम गया था?
 Dig faster.	Grabe schneller.	तेजी से खोदो।
 Come quick! 2	Kommen Sie schnell!	जल्दी आइए!
 Did Tom go? 2	Hat Tom das getan?	क्या टॉम चला गया?
+Do come in.	Komm rein.	आओ अंदर आओ।
+Do men cry?	Weinen Männer?	क्या पुरुष रोते हैं?
+Don't brag.	Nicht angeben.	गर्व मत करो।
+Don't come.	Nicht kommen.	न आओ।
+Don't jump!	Nicht springen!	उछलो मत!
+Don't look.	Nicht schauen.	न देखो।
