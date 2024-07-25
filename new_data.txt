@@ -4074,3 +4074,12 @@ I felt hungry.	Ich fühlte mich hungrig.	मुझे भूख लगी थी
 I felt lonely.	Ich fühlte mich allein.	मैं अकेला महसूस कर रहा था।
 I forgave Tom.	Ich habe Tom vergeben.	मैंने टॉम को माफ कर दिया।
 I found these.	Ich habe diese gefunden.	मैंने ये पाए।
+I freaked out.	Ich erschrak.	मैं डर गया।
+I get nervous.	Ich werde nervös.	मुझे घबराहट होती है।
+I got cheated.	Ich wurde betrogen.	मुझे धोखा दिया गया।
+I got it free.	Ich habe es umsonst bekommen.	मुझे यह मुफ्त मिला।
+I got married.	Ich habe geheiratet.	मैं शादी की।
+I got nervous.	Ich wurde nervös.	मुझे भय हुआ।
+I got the flu.	Ich hatte die Grippe.	मुझे फ्लू हुआ।
+I had no clue.	Ich hatte keine Ahnung.	मेरे पास कोई सुझाव नहीं था।
+I had to hide.	Ich musste mich verstecken.	मुझे छिपना पड़ा।
