@@ -9827,3 +9827,13 @@ She tempted him.	Sie versuchte ihn.	उसने उसे परीक्षण
 She tied him up.	Sie fesselte ihn.	उसने उसे बांध दिया।
 She trusted you.	Sie vertraute dir.	वह तुम पर भरोसा करती थी।
 She was my boss.	Sie war mein Chef.	वह मेरी बॉस थी।
+engSentence1	Sie war perfekt.	वह पूर्ण थी।
+engSentence2	Sie war perfekt.	उसने अंदर जाया।
+engSentence3	Sie ging hinein.	उसने तैयारी करेगी।
+engSentence4	Sie ging hinein.	उसने उसे जगाया।
+engSentence5	Sie wird es versuchen.	उसने उसे जगाया।
+engSentence6	Sie weckte ihn auf.	वह उसे सक्रिय रखा।
+engSentence7	Sie weckte ihn auf.	उसने दुनिया को जागरूक किया।
+engSentence8	Sie weckte ihn auf.	उसने उसे पार्श्वगामिनी बनाने के लिए कठिन परिश्रम किया।
+engSentence9	Sie arbeitete hart.	उसने भारतीय संदर्भ में आत्मकथा लिखी।
+engSentence10	Sie ist kaukasisch.	वह कॉकेशनी थी।
