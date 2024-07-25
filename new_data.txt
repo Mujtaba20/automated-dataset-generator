@@ -6790,3 +6790,10 @@ Nobody listens.	Niemand hört zu.	कोई नहीं सुनता।
 Nobody saw Tom.	Niemand hat Tom gesehen.	कोई ने टॉम को नहीं देखा।
 Nobody told me.	Niemand hat mir gesagt.	किसी ने मुझे नहीं बताया।
 Nobody told me. (different meaning)	Niemand hat es mir erklärt.	किसी ने मुझे यह बताया।
+Nobody'll know.	Niemand wird es wissen.	कोई नहीं जानेगा।
+Nobody's happy.	Niemand ist glücklich.	कोई खुश नहीं है।
+Nobody's there.	Niemand ist da.	कोई नहीं है।
+Now I feel bad.	Jetzt fühle ich mich schlecht.	अब मुझे बुरा लग रहा है।
+Now I know why.	Jetzt weiß ich warum.	अब मुझे पता है कि क्यों।
+Now I remember.	Jetzt erinnere ich mich.	अब मुझे याद है।
+Now do you see?	Jetzt siehst du?	अब देखो?
