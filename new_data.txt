@@ -14303,3 +14303,12 @@ Tom is shirtless.	Tom trägt kein Oberteil.	टॉम शर्टलेस ह�
 Tom is shivering.	Tom zittert.	टॉम कांप रहा है।
 Tom is skeptical.	Tom ist skeptisch.	टॉम संदेहवादी है।
 Tom is sketching.	Tom skizziert.	टॉम स्केच बना रहा है।
+Tom is so strong.	Tom ist so stark.	टॉम इतना मजबूत है।
+Tom is so stupid.	Tom ist so dumm.	टॉम इतना मूर्ख है।
+Tom is squatting.	Tom hockt.	टॉम करवट लेते हैं।
+Tom is suffering.	Tom leidet.	टॉम कष्ट पा रहा है।
+Tom is surprised.	Tom ist überrascht.	टॉम हैरान है।
+Tom is surviving.	Tom überlebt.	टॉम जीवित रह रहे हैं।
+Tom is suspended.	Tom ist suspendiert.	टॉम निलंबित है।
+Tom is talkative.	Tom ist gesprächig.	टॉम बातूनी है।
+Tom is terrified.	Tom ist entsetzt.	टॉम डर गया है।
