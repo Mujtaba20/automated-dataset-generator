@@ -14724,3 +14724,13 @@ Tom was charming.	Tom war charmant.	टॉम आकर्षक था।
 Tom was cheating.	Tom betrog.	टॉम धोखा दे रहा था।
 Tom was cheerful.	Tom war fröhlich.	टॉम खुश था।
 Tom was cheering.	Tom jubelte.	टॉम उत्साहित था।
+Tom was confused.	Tom war verwirrt.	टॉम भ्रमित था।
+Tom was creative.	Tom war kreativ.	टॉम नवाचारी था।
+Tom was cremated.	Tom wurde eingeäschert.	टॉम समाधिमें रख दिया गया।
+Tom was cremated. (different meaning)	Tom war verbrannt.	टॉम जलाया गया था।
+Tom was defeated.	Tom wurde besiegt.	टॉम हार गया था।
+Tom was deported.	Tom wurde abgeschoben.	टॉम को निर्वासित किया गया था।
+Tom was detained.	Tom wurde festgehalten.	टॉम को रोक लिया गया था।
+Tom was discreet.	Tom war diskret.	टॉम गुप्त था।
+Tom was disloyal.	Tom war illoyal.	टॉम अविश्वासी था।
+Tom was divorced.	Tom wurde geschieden.	टॉम का तलाक हो गया था।
