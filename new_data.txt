@@ -17509,3 +17509,10 @@ Let's leave early.	Lass uns frühzeitig gehen.	चलो जल्दी चल�
 Let's not ruin it.	Lass es uns nicht ruinieren.	इसे बिगाड़ने नहीं देते।
 Let's peek inside.	Lass uns reinlinsen.	अंदर की ओर झांकते हैं।
 engSentence	{"Let's play soccer.": 'Lass uns Fußball spielen.', "Let's see some ID.": 'Lass uns einen Ausweis sehen.', "Let's shake hands.": 'Lass uns die Hände schütteln.', "Let's shake on it.": 'Lass uns darauf anstoßen.', "Let's sing a song.": 'Lass uns ein Lied singen.', "Let's sit outside.": 'Lass uns draußen sitzen.', "Let's take a look.": 'Lass uns einen Blick darauf werfen.', "Let's take a rest.": 'Lass uns uns ausruhen.', "Let's take a taxi.": 'Lass uns ein Taxi nehmen.'}	{"Let's play soccer.": 'चलो फुटबॉल खेलें।', "Let's see some ID.": 'चलो कुछ पहचान पत्र देखें।', "Let's shake hands.": 'हाथ मिला कर आत्मियता जताते हैं।', "Let's shake on it.": 'इस पर हाथ मिलाएं।', "Let's sing a song.": 'एक गाना गाते हैं।', "Let's sit outside.": 'बाहर बैठें।', "Let's take a look.": 'झलक लें।', "Let's take a rest.": 'एक आराम करें।', "Let's take a taxi.": 'टैक्सी लेते हैं।'}
+Let's take a trip.	Lass uns eine Tour machen.	चलो एक यात्रा पर चलें।
+Life is beautiful.	Das Leben ist schön.	जीवन सुंदर है।
+Life is difficult.	Das Leben ist schwierig.	जीवन कठिन है।
+Life is enjoyable.	Das Leben ist angenehm.	जीवन आनंददायक है।
+Life is too short.	Das Leben ist zu kurz.	जिंदगी बहुत छोटी है।
+Life is very hard.	Das Leben ist sehr schwer.	जीवन बहुत कठिन है।
+Light the candles.	Entzünde die Kerzen.	दीपक जलाओ।
