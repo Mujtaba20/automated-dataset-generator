@@ -14220,3 +14220,13 @@ Tom is hotheaded.	Tom ist hitzköpfig.	टॉम उन्मादी है।
 Tom is illogical.	Tom ist unlogisch.	टॉम तर्कहीन है।
 Tom is impartial.	Tom ist unparteiisch.	टॉम निष्पक्ष है।
 Tom is impassive.	Tom ist teilnahmslos.	टॉम उदासीन है।
+Tom is impatient.	Tom ist ungeduldig.	टॉम अधीर है।
+Tom is important.	Tom ist wichtig.	टॉम महत्वपूर्ण है।
+Tom is impressed.	Tom ist beeindruckt.	टॉम प्रभावित है।
+Tom is improving.	Tom verbessert sich.	टॉम सुधर रहा है।
+Tom is improving. (different meaning)	Tom wird besser.	टॉम सुधर रहा है।
+Tom is impulsive.	Tom ist impulsiv.	टॉम अकस्मात है।
+Tom is in Boston.	Tom ist in Boston.	टॉम बॉस्टन में है।
+Tom is in a gang.	Tom ist in einer Gang.	टॉम गैंग में है।
+Tom is in denial.	Tom leugnet.	टॉम इनकार कर रहा है।
+Tom is in prison.	Tom ist im Gefängnis.	टॉम कारागार में है।
