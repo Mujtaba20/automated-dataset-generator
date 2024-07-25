@@ -11886,3 +11886,13 @@ Go back to sleep.	Geh zurück und schlafe.	सोने के लिए वा�
 Go on and say it.	Mach weiter und sag es.	आगे बढ़ो और कहो।
 Go over it again.	Gehe noch einmal darüber.	इस पर फिर से जाओ।
 Go play with Tom.	Geh und spiele mit Tom.	टॉम के साथ खेलने जाओ।
+Go there with me.	Geh dorthin mit mir.	मेरे साथ वहाँ जाओ।
+Go up the stairs.	Geh die Treppe hinauf.	सीढि़याँ चढ़ो।
+Go when you want.	Geh, wann du willst.	जब चाहो जाओ।
+God loves us all.	Gott liebt uns alle.	भगवान हम सभी से प्यार करते हैं।
+Grab an umbrella.	Nimm einen Regenschirm.	एक छाता पकड़ो।
+Hand me my towel.	Gib mir mein Handtuch.	मेरा तौलिया दो।
+Hand me that bag.	Gib mir diese Tasche.	उस थैले को मुझे दो।
+Hang on a second.	Warte mal kurz.	एक सेकंड रुको।
+Has Tom come yet?	Ist Tom schon gekommen?	क्या टॉम आ गया है?
+Has Tom left yet?	Ist Tom schon gegangen?	क्या टॉम चला गया है?
