@@ -1,15 +1,4 @@
 
-Get me up at eight.	Weck mich um acht.	मुझे आठ जगाओ।
-Get off of my roof.	Runter von meinem Dach!	मेरी छत से नीचे!
-Get off your horse.	Runter von Ihrem Pferd!	अपने घोड़े से नीचे!
-Get out of my life!	Verschwinde aus meinem Leben!	मेरे जीवन से चले जाओ!
-Get out of my life!	Verschwindet aus meinem Leben!	मेरे जीवन से गायब!
-Get out of my life.	Verschwinde aus meinem Leben!	मेरे जीवन से चले जाओ!
-Get out of my room.	Raus aus meinem Zimmer!	मेरे कमरे से निकल जाओ!
-Get out of my room.	Verlasse mein Zimmer!	मेरा कमरा छोड़ दो!
-Get out of my room.	Verlassen Sie mein Zimmer!	मेरा कमरा छोड़ दो!
-Get out of the car.	Steigen Sie aus dem Wagen aus!	कार से बाहर निकलो!
-Get out of the car.	Steige aus dem Wagen aus!	कार से बाहर निकलो!
 Get some sleep now.	Schlaf jetzt ein bisschen.	अब थोड़ा सो जाओ।
 Get some sleep now.	Schlaf jetzt etwas.	अब कुछ सो जाओ।
 Get us out of here.	Bring uns hier raus.	हमें यहाँ से बाहर ले आओ।

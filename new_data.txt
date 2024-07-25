@@ -20625,3 +20625,10 @@ Get it out of here.	Holen Sie es hier raus.	इसे यहाँ से नि
 Get me out of here.	Holen Sie mich hier raus.	मुझे यहाँ से निकालो।
 Get away from here. I need some space.	Geh weg von hier. Ich brauche etwas Platz.	यहाँ से दूर जाओ। मुझे कुछ जगह चाहिए।
 Get away from here. The situation is dangerous.	Gehen Sie weg von hier. Die Situation ist gefährlich.	यहाँ से दूर जाओ। स्थिति खतरनाक है।
+Get me up at eight.	Wecken Sie mich um acht.	मुझे आठ बजे तक उठा दें।
+Get off of my roof.	Komm von meinem Dach runter.	मेरे छत से नीचे आ जा।
+Get off your horse.	Steig von deinem Pferd ab.	अपने घोड़े से उतरो।
+Get out of my life!	Verschwinde aus meinem Leben!	मेरे जीवन से चला जा!
+Get out of my room.	Geh aus meinem Zimmer raus.	मेरे कमरे से बाहर निकल जा।
+Get out of my life.	Verlass mein Leben.	मेरे जीवन से बाहर जाओ।
+Get out of the car.	Steig aus dem Auto aus.	गाड़ी से बाहर निकलो।
