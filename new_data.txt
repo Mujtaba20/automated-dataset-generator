@@ -16593,3 +16593,7 @@ I know a shortcut.	Ich kenne einen Abkürzung.	मुझे एक शॉर्�
 I know about that.	Ich weiß darüber Bescheid.	मुझे उसके बारे में पता है।
 I know he is busy.	Ich weiß, dass er beschäftigt ist.	मुझे पता है कि वह व्यस्त है।
 I know his family.	Ich kenne seine Familie.	मुझे उसका परिवार पता है।
+I know how to fly.	Ich weiß, wie man fliegt.	मुझे उड़ना कैसे आता है।
+I know how to ski.	Ich weiß, wie man Ski fährt.	मुझे स्की करना आता है।
+I know it was you.	Ich weiß, dass du es warst.	मुझे पता है कि तुम थे।
+I know it's a lie.	Ich weiß, dass es eine Lüge ist.	मुझे पता है कि यह झूठ है।
