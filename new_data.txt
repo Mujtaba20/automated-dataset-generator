@@ -652,3 +652,12 @@ It's my mistake.	Es ist mein Fehler.	यह मेरी गलती है।
 It's okay.	Es ist in Ordnung.	यह ठीक है।
 It's open.	Es ist offen.	यह खुला है।
 It's ours.	Es gehört uns.	यह हमारा है।
+It's over.	Es ist vorbei.	यह खत्म हो गया है।
+It's sand.	Es ist Sand.	यह रेत है।
+It's true.	Es ist wahr.	यह सच है।
+It's work.	Es ist Arbeit.	यह काम है।
+It's work. (Alternate meaning)	Es funktioniert.	यह काम करता है।
+Jump down.	Spring runter.	नीचे कूदो।
+Just swim.	Einfach schwimmen.	बस तैरो।
+Keep away.	Halte Abstand.	दूर रहो।
+Keep away. (Alternate meaning)	Vermeide es.	दूर रहो।
