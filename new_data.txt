@@ -14163,3 +14163,13 @@ Tom is assertive.	Tom ist durchsetzungsfähig.	टॉम सुनिश्च�
 Tom is attentive.	Tom ist aufmerksam.	टॉम ध्यानवान है।
 Tom is available.	Tom ist verfügbar.	टॉम उपलब्ध है।
 Tom is awake now.	Tom ist jetzt wach.	टॉम अब जागा हुआ है।
+Tom is beardless.	Tom ist bartlos.	टॉम दाढ़ीहीन है।
+Tom is bilingual.	Tom ist zweisprachig.	टॉम दोभाषी है।
+Tom is breathing.	Tom atmet.	टॉम सांस ले रहा है।
+Tom is brilliant.	Tom ist brillant.	टॉम उत्कृष्ट है।
+Tom is coming in.	Tom kommt herein.	टॉम अंदर आ रहा है।
+Tom is coming to.	Tom kommt an.	टॉम आ रहा है।
+Tom is committed.	Tom ist verpflichtet.	टॉम प्रतिबद्ध है।
+Tom is committed. (different meaning)	Tom ist engagiert.	टॉम प्रतिबद्ध है।
+Tom is competent.	Tom ist kompetent.	टॉम पारदर्शी है।
+Tom is conceited.	Tom ist eingebildet.	टॉम अभिमानी है।
