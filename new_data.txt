@@ -14453,3 +14453,13 @@ Tom likes it hot.	Tom mag es heiß.	टॉम को गर्म पसंद �
 Tom likes nature.	Tom mag die Natur.	टॉम को प्रकृति पसंद है।
 Tom likes olives.	Tom mag Oliven.	टॉम को जैतून पसंद हैं।
 Tom likes ponies.	Tom mag Ponys.	टॉम को पोनी पसंद हैं।
+Tom likes reggae.	Tom mag Reggae.	टॉम को रेग्गी पसंद है।
+Tom likes soccer.	Tom mag Fußball.	टॉम को सॉकर पसंद है।
+Tom likes sports.	Tom mag Sport.	टॉम को खेल पसंद है।
+Tom likes to box.	Tom mag boxen.	टॉम को बॉक्सिंग पसंद है।
+Tom likes to run.	Tom mag laufen.	टॉम को दौड़ना पसंद है।
+Tom lit a candle.	Tom zündete eine Kerze an.	टॉम ने एक मोमबत्ती जलाई।
+Tom lit the fire.	Tom entzündete das Feuer.	टॉम ने आग लगाई।
+Tom lives abroad.	Tom lebt im Ausland.	टॉम विदेश में रहता है।
+Tom lives nearby.	Tom lebt in der Nähe.	टॉम नज़दीक रहता है।
+Tom looked about.	Tom schaute sich um.	टॉम आसपास देख रहा था।
