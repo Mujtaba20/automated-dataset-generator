@@ -2309,3 +2309,10 @@ What a mess!	Was für ein Durcheinander!	कितना गंदा है!
 What a pity!	Was für ein Jammer!	कितनी खेद!
 What a team!	Was für ein Team!	कितनी टीम!
 What an ego!	Was für ein Ego!	जितना अहंकार!
+What is new?	Was ist neu?	नया क्या है?
+What's good?	Was ist gut?	अच्छा क्या है?
+What's next?	Was kommt als Nächstes?	अगला क्या है?
+What's that?	Was ist das?	यह क्या है?
+What's this?	Was ist das?	यह क्या है?
+Where is he?	Wo ist er?	वह कहाँ है?
+Where is it?	Wo ist es?	वह कहाँ है?
