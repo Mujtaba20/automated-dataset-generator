@@ -7254,3 +7254,12 @@ Tom is a blond.	Tom ist blond.	टॉम एक गोरा है।
 Tom is a drunk.	Tom ist betrunken.	टॉम नशे में है।
 Tom is a dwarf.	Tom ist ein Zwerg.	टॉम एक बौना है।
 Tom is a guard.	Tom ist ein Wächter.	टॉम एक गार्ड है।
+Tom is a lefty.	Tom ist Linkshänder.	टॉम एक बाएं हाथ का है।
+Tom is a loser.	Tom ist ein Verlierer.	टॉम हाराने वाला है।
+Tom is a miner.	Tom ist Bergarbeiter.	टॉम एक खान-मजदूर है।
+Tom is a minor.	Tom ist minderjährig.	टॉम एक छोटे सी उम्र का है।
+Tom is a moron.	Tom ist ein Idiot.	टॉम अविवेकी है।
+Tom is a pilot.	Tom ist Pilot.	टॉम एक पायलट है।
+Tom is a rabbi.	Tom ist Rabbi.	टॉम एक रब्बी है।
+Tom is a saint.	Tom ist ein Heiliger.	टॉम संत है।
+Tom is a thief.	Tom ist ein Dieb.	टॉम एक चोर है।
