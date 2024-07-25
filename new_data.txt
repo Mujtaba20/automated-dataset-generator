@@ -11486,3 +11486,11 @@ Are they friends? - 1st meaning	Sind sie Freunde?	क्या वे दोस�
 Are they friends? - 2nd meaning	Sind sie Bekanntschaft?	क्या वे दोस्त हैं?
 Are they in love?	Sind sie verliebt?	क्या वे प्यार में हैं?
 Are they sisters?	Sind sie Schwestern?	क्या वे बहन हैं?
+Are those for me?	Sind die für mich?	क्या वो मेरे लिए हैं?
+Are we all happy?	Sind wir alle glücklich?	क्या हम सभी खुश हैं?
+Are we all ready?	Sind wir alle bereit?	क्या हम सभी तैयार हैं?
+Are we going far?	Gehen wir weit?	क्या हम दूर जा रहे हैं?
+Are we in danger?	Sind wir in Gefahr?	क्या हम खतरे में हैं?
+Are we safe here?	Sind wir hier sicher?	क्या हम यहाँ सुरक्षित हैं?
+Are you Canadian?	Bist du Kanadier?	क्या आप कनाडियन हैं?
+Are you Catholic?	Bist du katholisch?	क्या आप कैथोलिक हैं?
