@@ -10314,3 +10314,12 @@ Tom hurried off.	Tom beeilte sich.	टॉम जल्दी चला गया
 Tom inspired me.	Tom inspirierte mich.	टॉम ने मुझे प्रेरित किया।
 Tom insulted me.	Tom hat mich beleidigt.	टॉम ने मुझे अपमानित किया।
 Tom is Canadian.	Tom ist Kanadier.	टॉम कनेडियन है।
+Tom is a Muslim.	Tom ist ein Muslim.	टॉम एक मुस्लिम है।
+Tom is a barber.	Tom ist Friseur.	टॉम नाई है।
+Tom is a bigwig.	Tom ist ein wichtiger Mann.	टॉम एक बड़ा आदमी है।
+Tom is a busker.	Tom ist ein Straßenmusikant.	टॉम एक भिखारी है।
+Tom is a coward.	Tom ist ein Feigling.	टॉम डरपोक है।
+Tom is a father.	Tom ist ein Vater.	टॉम एक पिता है।
+Tom is a friend.	Tom ist ein Freund.	टॉम एक दोस्त है।
+Tom is a genius.	Tom ist ein Genie.	टॉम एक उत्कृष्ट बुद्धिमान है।
+Tom is a hermit.	Tom ist ein Eremit.	टॉम एक संन्यासी है।
