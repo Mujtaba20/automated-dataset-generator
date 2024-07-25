@@ -6371,3 +6371,10 @@ I'm a beginner.	Ich bin Anfänger.	मैं एक शुरुआती हू
 I'm a bit late.	Ich bin ein bisschen spät.	मैं थोड़ा देर से हूँ।
 I'm a botanist.	Ich bin Botaniker.	मैं वनस्पति चिकित्सक हूँ।
 I'm a busy guy.	Ich bin ein geschäftiger Typ.	मैं एक व्यस्त आदमी हूँ।
+I'm a diabetic.	Ich bin Diabetiker.	मैं मधुमेह संबंधी
+I'm a free man.	Ich bin ein freier Mann.	मैं एक स्वतंत्र आदमी हूँ।
+I'm a good boy.	Ich bin ein braver Junge.	मैं एक अच्छे लड़के हूँ।
+I'm a musician.	Ich bin Musiker.	मैं संगीतकार हूं।
+I'm a nice guy.	Ich bin ein netter Kerl.	मैं एक अच्छे इंसान हूँ।
+I'm a pacifist.	Ich bin Pazifist.	मैं शांतिवादी हूँ।
+I'm a prisoner.	Ich bin ein Gefangener.	मैं एक कैदी हूँ।
