@@ -5664,3 +5664,10 @@ Does that help?	Hilft das?	क्या यह मदद करता है?
 Does that hurt?	Macht das weh?	क्या यह दर्द हो रहा है?
 Does this hurt?	Macht das weh?	क्या यह बुरा है?
 Dogs are smart.	Hunde sind intelligent.	कुत्ते दिमागी हैं।
+Don't be angry.	Sei nicht wütend.	गुस्सा मत हो.
+Don't be crazy.	Sei nicht verrückt.	पागल मत हो.
+Don't be crazy[2].	Mach keinen Quatsch.	पागलों की तरह मत बनो.
+Don't be silly.	Sei nicht albern.	मूर्ख मत हो.
+Don't be sorry.	Entschuldige dich nicht.	माफ़ी मत माँगो.
+Don't be upset[2].	Reg dich nicht auf.	उदास मत हो.
+Don't blame me.	Gib mir nicht die Schuld.	मुझे दोष मत दो.
