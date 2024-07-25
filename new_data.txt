@@ -10255,3 +10255,13 @@ Tom followed me.	Tom folgte mir.	टॉम ने मुझे फॉलो क�
 Tom followed us.	Tom folgte uns.	टॉम ने हमें फॉलो किया।
 Tom fooled Mary.	Tom hat Mary reingelegt.	टॉम ने मेरी को धोखा दिया।
 Tom fooled Mary. (different meaning)	Tom hat Mary ausgetrickst.	टॉम ने मेरी को चकमा दिया।
+Tom forgave you.	Tom hat dir vergeben.	टॉम ने तुम्हें माफ़ कर दिया।
+Tom fought back.	Tom hat zurückgekämpft.	टॉम ने पलटा दिया।
+Tom fought hard.	Tom hat hart gekämpft.	टॉम ने मुश्किल से लड़ा।
+Tom fought well.	Tom hat gut gekämpft.	टॉम ने अच्छे से लड़ा।
+Tom found a job.	Tom hat einen Job gefunden.	टॉम ने नौकरी पाई।
+Tom found a job. (different meaning)	Tom hat eine Arbeit gefunden.	टॉम ने काम पा लिया।
+Tom freaked out.	Tom hat Panik bekommen.	टॉम परेशान हो गया।
+Tom gave a sigh.	Tom seufzte.	टॉम ने आह भरी।
+Tom gave orders.	Tom hat Befehle gegeben.	टॉम ने आदेश दिए।
+Tom got annoyed.	Tom wurde genervt.	टॉम को चिढ़ गया।
