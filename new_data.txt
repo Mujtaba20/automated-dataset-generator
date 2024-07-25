@@ -11529,3 +11529,9 @@ Are you prepared?	Bist du vorbereitet?	क्या तुम तैयार �
 Are you reliable?	Bist du zuverlässig?	क्या तुम विश्वसनीय हो?
 Are you sleeping?	Schläfst du?	क्या तुम सो रहे हो?
 Are you still up?	Bist du immer noch wach?	क्या तुम अब भी जाग रहे हो?
+Are you students?	Seid ihr Studenten?	क्या तुम छात्र हो?
+Are you studying?	Studierst du?	क्या तुम पढ़ाई कर रहे हो?
+Are you the boss?	Bist du der Chef?	क्या तुम मालिक हो?
+Are you up there?	Bist du oben?	क्या तुम वहाँ हो?
+Are you with Tom?	Bist du mit Tom?	क्या तुम टॉम के साथ हो?
+Aren't you happy?	Bist du nicht glücklich?	क्या तुम खुश नहीं हो?
