@@ -12888,3 +12888,10 @@ I'm here to help.	Ich bin hier, um zu helfen.	मैं यहाँ मदद �
 I'm homeschooled.	Ich werde zu Hause unterrichtet.	मैं घर पर पढ़ाया जाता हूँ।
 I'm housesitting.	Ich hüte ein Haus.	मैं घर की देखभाल कर रहा हूँ।
 I'm in Australia.	Ich bin in Australien.	मैं ऑस्ट्रेलिया में हूँ।
+I'm in here, Tom.	Ich bin hier, Tom.	मैं यहाँ हूँ, टॉम।
+I'm in the attic.	Ich bin im Dachgeschoss.	मैं छतरिये में हूँ।
+I'm in the house.	Ich bin im Haus.	मैं घर में हूँ।
+I'm in the lobby.	Ich befinde mich in der Lobby.	मैं लॉबी में हूँ।
+I'm in your debt.	Ich stehe in Ihrer Schuld.	मैं आपका ऋणी हूँ।
+I'm inviting you.	Ich bitte dich herein.	मैं तुम्हें आमंत्रित कर रहा हूँ।
+I'm just curious.	Ich bin nur neugierig.	मैं सिर्फकेवल उत्सुक हूँ।
