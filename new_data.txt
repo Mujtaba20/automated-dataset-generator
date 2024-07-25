@@ -16731,3 +16731,11 @@ I need some sleep.	Ich brauche etwas Schlaf.	मुझे थोड़ी नी
 I need some sugar.	Ich brauche etwas Zucker.	मुझे कुछ चीनी चाहिए।
 I need some water.	Ich brauche etwas Wasser.	मुझे कुछ पानी चाहिए।
 I need the ladder.	Ich brauche die Leiter.	मुझे सीढ़ी चाहिए।
+I need this money.	Ich brauche dieses Geld.	मुझे यह पैसे चाहिए।
+I need to be sure.	Ich muss sicher sein.	मुझे सुनिश्चित होना चाहिए।
+I need to buy one.	Ich muss eins kaufen.	मुझे एक खरीदना है।
+I need to eat now.	Ich muss jetzt essen.	मुझे अब खाना चाहिए।
+I need to go home.	Ich muss nach Hause gehen.	मुझे घर जाना है।
+I need toothpaste.	Ich brauche Zahnpasta.	मुझे टूथपेस्ट चाहिए।
+I never asked Tom.	Ich habe Tom nie gefragt.	मैंने कभी टॉम से नहीं पूछा।
+I never buy sugar.	Ich kaufe nie Zucker.	मैं कभी चीनी नहीं खरीदता।
