@@ -3526,3 +3526,10 @@ Was Tom busy?	War Tom beschäftigt?	क्या टॉम व्यस्त �
 Was Tom here?	War Tom hier?	क्या टॉम यहाँ था?
 Was it funny?	War es lustig?	क्या यह मजेदार था?
 Was it scary?	War es gruselig?	क्या यह डरावना था?
+Was she seen?	Wurde sie gesehen?	क्या उसे देखा गया था?
+Was that Tom?	War das Tom?	क्या वह तोम था?
+Wash the car.	Das Auto waschen.	कार को साफ करो।
+Watch me now.	Schau mir jetzt zu.	अब मुझे देखो।
+We all stood.	Wir standen alle.	हम सब वहीं खड़े थे।
+We apologize.	Wir entschuldigen uns.	हम माफी मांगते हैं।
+We applauded.	Wir applaudierten.	हमने तालियां बजाईं।
