@@ -13741,3 +13741,11 @@ The line is busy.	Die Leitung ist besetzt.	लाइन बिजी है।
 The man is naked.	Der Mann ist nackt.	आदमी नंगा है।
 The man is right.	Der Mann hat Recht.	व्यक्ति सही है।
 The man ran away.	Der Mann ist davongelaufen.	आदमी फरार हो गया।
+The man stood up.	Der Mann stand auf.	आदमी उठा था।
+The mic is yours.	Das Mikrofon gehört dir.	माइक तुम्हारा है।
+The milkman died.	Der Milchmann ist gestorben.	दूधवाला मर गया।
+The moon has set.	Der Mond ist untergegangen.	चाँद डूब गया है।
+The party's over.	Die Feier ist beendet.	तुमने खुदाई की।
+The pizza's here!	Die Pizza ist da!	पिज्जा यहाँ है!
+The road was icy.	Die Straße war vereist.	सड़क बर्फ से भरी थी।
+The sea is rough.	Das Meer ist rau.	समुंदर उग्र है।
