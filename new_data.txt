@@ -7646,3 +7646,10 @@ Tom was inside.	Tom war drinnen.	टॉम अंदर था।
 Tom was joking.	Tom machte Witze.	टॉम मजाक कर रहा था।
 Tom was killed.	Tom wurde getötet.	टॉम को मार दिया गया।
 Tom was lonely.	Tom war einsam.	टॉम अकेला था।
+Tom was mugged.	Tom wurde überfallen.	टॉम को धांसे देकर लुट लिया गया।
+Tom was polite.	Tom war höflich.	टॉम शिष्ट था।
+Tom was robbed.	Tom wurde beraubt.	टॉम को लुट लिया गया।
+Tom was ruined.	Tom wurde ruiniert.	टॉम का बरबाद हो गया था।
+Tom was scared.	Tom hatte Angst.	टॉम डर गया था।
+Tom was second.	Tom war zweiter.	टॉम दूसरा था।
+Tom was sewing.	Tom nähte.	टॉम सिलाई कर रहा था।
