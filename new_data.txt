@@ -730,3 +730,9 @@ Stop them.	Halten Sie sie an.	उन्हें रोको।
 Take care!	Pass auf!	ध्यान रखना!
 Take mine.	Nehmen Sie meins.	मेरा लो।
 Take mine. (Different meaning)	Nimm meins.	मेरा ले जाओ।
+Take over.	Übernehmen.	ताकतवर बनें।
+Take this.	Nimm das.	ये लो।
+Thank you.	Danke.	धन्यवाद।
+That hurt.	Das hat wehgetan.	उसने दर्द दिया।
+That's OK.	Das ist in Ordnung.	वह सही है।
+That's it.	Das ist es.	बस इतना ही है।
