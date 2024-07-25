@@ -14146,3 +14146,10 @@ Tom is a scumbag.	Tom ist ein Mistkerl.	टॉम एक बेहूदा ह�
 Tom is a shy boy.	Tom ist ein schüchterner Junge.	टॉम एक शर्मीला लड़का है।
 Tom is a student.	Tom ist ein Schüler.	टॉम छात्र है।
 Tom is a traitor.	Tom ist ein Verräter.	टॉम एक गद्दार है।
+Tom is a trucker.	Tom ist ein Trucker.	टॉम एक ट्रक ड्राइवर है।
+Tom is a veteran.	Tom ist ein Veteran.	टॉम एक पुराना सैनिक है।
+Tom is a widower.	Tom ist ein Witwer.	टॉम एक विधुर है।
+Tom is a yes-man.	Tom ist ein Jasager.	टॉम एक हाँ-करनेवाला आदमी है।
+Tom is a yodeler.	Tom ist ein Jodler.	टॉम एक योडलर है।
+Tom is adaptable.	Tom ist anpassungsfähig.	टॉम अनुकूली है।
+Tom is all alone.	Tom ist ganz allein.	टॉम पूरी तरह अकेला है।
