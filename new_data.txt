@@ -17928,3 +17928,13 @@ That was the plan.	Das war der Plan.	वह योजना थी।
 That wasn't funny.	Das war nicht lustig.	वह मजाकिय नहीं था।
 That won't change.	Das wird sich nicht ändern.	यह बदलेगा नहीं।
 That won't happen.	Das wird nicht passieren.	यह नहीं होगा।
+engSentence1	Das wäre spaßig.	वह मजेदार होगा।
+engSentence2	Das wäre perfekt.	वह पूर्ा सही होगा।
+engSentence3	Das wäre ideal.	वह मौजूदा होगा।
+engSentence4	Das wird schlimm enden.	वह खराब खतम होगा।
+engSentence5	Das wird nie funktionieren.	वह कभी नहीं चलेगा।
+engSentence6	Das ist in Ordnung für mich.	मुझे यह ठीक है।
+engSentence7	Das ist Toms Boot.	वह टॉम की नाव है।
+engSentence8	Das ist Toms Buch.	यह टॉम की किताब है।
+engSentence9	Das ist Toms Datei.	वह टॉम का फ़ाइल है।
+engSentence10	Das ist Toms Mädchen.	यह टॉम की लड़की है।
