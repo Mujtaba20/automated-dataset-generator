@@ -1,14 +1,4 @@
 
-Did you tell on me?	Hast du mich angeschwärzt?	क्या तुमने मुझे शपथ दिलाई?
-Didn't you miss me?	Hast du mich nicht vermisst?	क्या तुमने मुझे याद नहीं किया?
-Didn't you see Tom?	Hast du Tom nicht gesehen?	क्या आपने टॉम नहीं देखा?
-Do I have a choice?	Habe ich eine andere Wahl?	क्या मेरे पास एक अलग विकल्प है?
-Do I have a choice?	Habe ich eine Wahl?	क्या मेरे पास कोई विकल्प है?
-Do I have to study?	Muss ich lernen?	क्या मुझे सीखना है?
-Do I look like Tom?	Sehe ich wie Tom aus?	क्या मैं टॉम की तरह दिखता हूं?
-Do I need a lawyer?	Brauche ich einen Anwalt?	क्या मुझे वकील की आवश्यकता है?
-Do I need a lawyer?	Brauche ich eine Rechtsanwältin?	क्या मुझे वकील की आवश्यकता है?
-Do I need stitches?	Muss ich genäht werden?	क्या मुझे सिलना है?
 Do I owe you money?	Schulde ich dir Geld?	क्या मैं आपको पैसे देना चाहता हूं?
 Do I owe you money?	Bin ich dir Geld schuldig?	क्या मैं आपको पैसे देना चाहता हूं?
 Do I owe you money?	Schulde ich Ihnen Geld?	क्या मैं आपको पैसे देना चाहता हूं?

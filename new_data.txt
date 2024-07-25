@@ -20393,3 +20393,11 @@ Did you sleep well?	Hast du gut geschlafen?	क्या आपने अच्�
 Did you sleep well? (different meaning)	Hast du gut geschlafen?	क्या आपने शांति से सोया?
 Did you take notes?	Hast du Notizen gemacht?	क्या आपने नोट्स लिए?
 Did you take notes? (different meaning)	Hast du Notizen gemacht?	क्या आपने ध्यान दिया?
+Did you tell on me?	Hast du mich verraten?	क्या तुमने मुझसे कहा?
+Didn't you miss me?	Hast du mich vermisst?	क्या तुमने मुझे याद किया?
+Didn't you see Tom?	Hast du Tom nicht gesehen?	क्या तुमने टॉम को नहीं देखा?
+Do I have a choice?	Habe ich eine Wahl?	क्या मेरे पास कोई विकल्प है?
+Do I have to study?	Muss ich lernen?	क्या मुझे पढ़ाई करनी चाहिए?
+Do I look like Tom?	Sehe ich aus wie Tom?	क्या मैं टॉम जैसा दिखता हूँ?
+Do I need a lawyer?	Brauche ich einen Anwalt?	क्या मुझे वकील की जरुरत है?
+Do I need stitches?	Brauche ich Stiche?	क्या मुझे स्टिचिंग की जरुरत है?
