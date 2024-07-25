@@ -17007,3 +17007,10 @@ I'll make it work.	Ich werde es hinbekommen.	मैं इसे काम क�
 I'll miss you all.	Ich werde euch alle vermissen.	मुझे तुम सब की याद आएगी।
 I'll never forget.	Ich werde nie vergessen.	मैं कभी नहीं भूलूंगा।
 I'll pay the bill.	Ich werde die Rechnung bezahlen.	मैं बिल चुकता करूंगा।
+I'll say it again.	Ich werde es noch einmal sagen.	मैं फिर से कहूंगा।
+I'll set you free.	Ich werde dich frei lassen.	मैं तुम्हें आज़ाद कर दूंगा।
+I'll show you how.	Ich zeige dir, wie.	मैं तुम्हें दिखाऊंगा कि कैसे।
+I'll surprise Tom.	Ich werde Tom überraschen.	मैं टॉम को हैरान करूंगा।
+I'll take the bus.	Ich werde den Bus nehmen.	मैं बस लेऊंगा।
+I'll tell someone.	Ich werde es jemandem sagen.	मैं किसी को बताऊंगा।
+I'll wait for you.	Ich werde auf dich warten.	मैं तुम्हारा इंतजार करूंगा।
