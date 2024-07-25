@@ -9646,3 +9646,13 @@ Life's not fair.	Das Leben ist nicht gerecht.	जीवन न्यायसं
 Listen a minute.	Hör eine Minute zu.	एक मिनट सुनो।
 Look around you.	Schau dich um.	तुमारे चारों ओर देखो।
 Look at the cat.	Schau die Katze an.	बिल्ली को देखो।
+Look at the sky.	Schau dir den Himmel an.	आसमान की ओर देखो।
+Look behind you.	Schau hinter dich.	तुम पीछे देखो।
+Look what I did.	Schau, was ich gemacht habe.	देखो मैंने क्या किया।
+Lunch is served.	Das Mittagessen ist serviert.	लंच तैयार है।
+Make a decision.	Triff eine Entscheidung.	एक निर्णय लो।
+Make it smaller.	Mach es kleiner.	इसे छोटा करो।
+Make it smaller. (Different Meaning)	Mach es kleiner.	इसे छोटा बनाओ।
+Many admire him.	Viele bewundern ihn.	बहुत से उसे पसंद करते हैं।
+Mary helped Tom.	Mary half Tom.	मेरी ने टॉम की मदद की।
+Mary is a widow.	Maria ist eine Witwe.	मेरी एक विधवा है।
