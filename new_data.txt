@@ -15806,3 +15806,13 @@ Don't look for me.	Such mich nicht.	मुझे ना ढूंढो।
 Don't look for us.	Sucht uns nicht.	हमें ना ढूंढें।
 Don't look so sad.	Sieh nicht so traurig aus.	इतना उदास मत देखो।
 Don't make me cry.	Lass mich nicht weinen.	मुझे रोने मत दो।
+engSentence1	Mach mich nicht wütend.	मुझे गुस्सा मत दिलाओ।
+engSentence2	Erwähne Tom nicht.	टॉम का जिक्र मत करो।
+engSentence3	Verlasse dich nicht auf ihn.	उस पर भरोसा मत करो।
+engSentence4	Wiederhole das nicht.	वह दोहराएँ नहीं।
+engSentence5	Wiederhole das nicht.	उसे दोहराना मत।
+engSentence6	Wiederhole das nicht.	उसे बार-बार न बोलें।
+engSentence7	Wiederhole das nicht.	वह दोहराने का कोई आधिकार नहीं है।
+engSentence8	Lauf nicht so schnell.	इतनी तेज़ी से मत भागो।
+engSentence9	Lauf nicht so schnell.	इतनी जल्दी में मत भागो।
+engSentence10	Beeil dich nicht so.	इतनी तेज़ी से मत भागो।
