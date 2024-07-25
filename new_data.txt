@@ -14191,3 +14191,12 @@ Tom is difficult.	Tom ist schwierig.	टॉम कठिन है।
 Tom is disgusted.	Tom ist angewidert.	टॉम के मुँह से गंदगी आ रही है।
 Tom is dishonest.	Tom ist unehrlich.	टॉम बेईमान है।
 Tom is disturbed.	Tom ist beunruhigt.	टॉम परेशान है।
+Tom is easygoing.	Tom ist gelassen.	टॉम आराम से है।
+Tom is eccentric.	Tom ist exzentrisch.	टॉम विद्रोही है।
+Tom is effective.	Tom ist effektiv.	टॉम प्रभावी है।
+Tom is efficient.	Tom ist effizient.	टॉम कुशल है।
+Tom is elsewhere.	Tom ist anderswo.	टॉम कहीं और है।
+Tom is emotional.	Tom ist emotional.	टॉम भावनात्मक है।
+Tom is energetic.	Tom ist energiegeladen.	टॉम ऊर्जावान है।
+Tom is excellent.	Tom ist hervorragend.	टॉम अद्वितीय है।
+Tom is exhausted.	Tom ist erschöpft.	टॉम थक गया है।
