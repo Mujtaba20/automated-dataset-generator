@@ -20070,3 +20070,10 @@ You look familiar.	Du kommst mir bekannt vor.	तुम मुझे परि�
 You look gorgeous.	Du siehst umwerfend aus.	तुम बहुत ही सुंदर लग रहे हो।
 You look gorgeous. (different meaning)	Sie sehen wunderschön aus.	आप बहुत ही खूबसूरत लग रहे हैं।
 You look handsome.	Du siehst gut aus.	तुम हसीन लग रहे हो।
+You look horrible.	Du siehst schrecklich aus.	तुम भयानक दिखते हो।
+You look like Tom.	Du siehst aus wie Tom.	तुम टॉम जैसे दिखते हो।
+You look relieved.	Du siehst erleichtert aus.	तुम्हें राहत मिली है।
+You look smashing.	Du siehst umwerfend aus.	तुम शानदार लग रहे हो।
+You look stunning.	Du siehst atemberaubend aus.	तुम चौंकाने वाले दिखते हो।
+You look terrible.	Du siehst furchtbar aus.	तुम भयानक लग रहे हो।
+You looked scared.	Du hast erschrocken ausgesehen.	तुम डरे हुए लग रहे थे।

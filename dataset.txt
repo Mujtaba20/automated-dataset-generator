@@ -1,14 +1,4 @@
 
-You look horrible.	Du siehst schrecklich aus.	तुम भयानक लगते हो।
-You look like Tom.	Du siehst aus wie Tom.	आप टॉम की तरह दिखते हैं।
-You look relieved.	Du siehst erleichtert aus.	आपको राहत मिली।
-You look relieved.	Sie sehen erleichtert aus.	वे राहत महसूस करते हैं।
-You look smashing.	Du siehst umwerfend aus.	तुम बहुत ही खूबसूरत लग रही हो।
-You look smashing.	Sie sehen umwerfend aus.	तुम बेहद सुंदर दिख रहे हो।
-You look stunning.	Du siehst atemberaubend aus.	आप लुभावनी लग रहे हैं।
-You look terrible.	Ihr seht schlimm aus.	तुम बुरे लग रहे हो।
-You look terrible.	Sie sehen wirklich schlecht aus.	वे वास्तव में बुरे दिखते हैं।
-You looked scared.	Du sahst verängstigt aus.	आप डर गए।
 You lost the game.	Du hast das Spiel verloren.	तुम खेल में हार गये।
 You made an error.	Du hast einen Fehler gemacht.	आपने एक गलती कर दी।
 You made me do it.	Du hast mich dazu gebracht, es zu tun.	आपने मुझे यह किया।
