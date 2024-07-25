@@ -18247,3 +18247,10 @@ This is good news. (different meaning)	Das ist eine gute Nachricht.	यह ए�
 This is her house.	Das ist ihr Haus.	यह उसका घर है।
 This is his house.	Das ist sein Haus.	यह उसका घर है।
 This is incorrect.	Das ist falsch.	यह गलत है।
+This is justified.	Dies ist gerechtfertigt.	यह सात्त्विक है।
+This is ludicrous.	Dies ist lächerlich.	यह बेतुका है।
+This is my advice.	Das ist mein Rat.	यह मेरी सलाह है।
+This is my cousin.	Das ist mein Cousin.	यह मेरा चचेरा भाई है।
+This is my family.	Das ist meine Familie.	यह मेरा परिवार है।
+This is my father.	Das ist mein Vater.	यह मेरे पिता हैं।
+This is my friend.	Das ist mein Freund.	यह मेरा दोस्त है।

@@ -1,14 +1,4 @@
 
-This is justified.	Das ist berechtigt.	यह उचित है।
-This is justified.	Das ist gerechtfertigt.	यह उचित है।
-This is ludicrous.	Das ist lachhaft.	यह हंसी है।
-This is ludicrous.	Das ist lächerlich.	यह हास्यास्पद है।
-This is my advice.	Das ist mein Rat.	यह मेरी सलाह है।
-This is my cousin.	Das ist mein Cousin.	यह मेरा चचेरा भाई है।
-This is my family.	Das ist meine Familie.	यह मेरा परिवार है।
-This is my father.	Das ist mein Vater.	ये मेरे पिता है।
-This is my father.	Das hier ist mein Vater.	ये मेरे पिता है।
-This is my friend.	Das ist mein Freund.	यह मेरा मित्र है।
 This is my mother.	Das ist meine Mutter.	आ माता म्हांरी है।
 This is my office.	Das ist mein Büro.	यह मेरा कार्यालय है।
 This is my pencil.	Das ist mein Bleistift.	यह मेरी पेंसिल है।
