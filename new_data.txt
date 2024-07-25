@@ -16643,3 +16643,11 @@ I like these hats.	Ich mag diese Hüte.	मुझे ये टोपी पस�
 I like this beach.	Ich mag diesen Strand.	मुझे यह समुद्र तट पसंद है।
 I like this color.	Ich mag diese Farbe.	मुझे यह रंग पसंद है।
 I like this model.	Ich mag dieses Modell.	मुझे यह मॉडल पसंद है।
+I like this movie.	Ich mag diesen Film.	मुझे यह फिल्म पसंद है।
+I like this music.	Ich mag diese Musik.	मुझे यह संगीत पसंद है।
+I like this store.	Ich mag dieses Geschäft.	मुझे यह दुकान पसंद है।
+I like this watch.	Ich mag diese Uhr.	मुझे यह घड़ी पसंद है।
+I like to be here.	Ich bin gerne hier.	मुझे यहाँ होना पसंद है।
+I like to do that.	Ich mache das gerne.	मुझे वह करना पसंद है।
+I like what I see.	Mir gefällt, was ich sehe.	मुझे वह पसंद है जो मैं देख रहा हूँ।
+I like your beard.	Mir gefällt dein Bart.	मुझे तुम्हारी दाढ़ी पसंद है।
