@@ -2087,3 +2087,12 @@ Tom exhaled.	Tom atmete aus.	टॉम साँस छोड़ दी।
 Tom fainted.	Tom wurde ohnmächtig.	टॉम बेहोश हो गया।
 Tom frowned.	Tom runzelte die Stirn.	टॉम अँधेरा हो गया।
 Tom gave in.	Tom gab nach.	टॉम मान लिया।
+Tom gave up.	Tom gab auf.	टॉम ने हार मान ली।
+Tom gets it.	Tom versteht es.	टॉम को समझ आई।
+Tom giggled.	Tom kicherte.	टॉम हंसी।
+Tom gloated.	Tom prahlte.	टॉम दिखावा कर रहा था।
+Tom got mad.	Tom wurde wütend.	टॉम गुस्सा हो गया।
+Tom grinned.	Tom lächelte.	टॉम मुस्कुराया।
+Tom groaned.	Tom ächzte.	टॉम कराहा।
+Tom had fun.	Tom hatte Spaß.	टॉम का मजा आया।
+Tom has OCD.	Tom hat Zwangsstörungen.	टॉम के पास ओसीडी है।
