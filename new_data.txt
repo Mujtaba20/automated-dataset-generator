@@ -12284,3 +12284,12 @@ I did it for him.	Ich habe es für ihn getan.	मैंने उसके ल�
 I did it for you.	Ich habe es für euch getan.	मैंने तुम्हारे लिए किया।
 I did it quickly.	Ich habe es schnell gemacht.	मैंने इसे जल्दी किया।
 engSentence		
+I didn't pay Tom.	Ich habe Tom nicht bezahlt.	मैंने टॉम को नहीं भुगतान किया।
+I didn't see Tom.	Ich habe Tom nicht gesehen.	मैंने टॉम को नहीं देखा।
+I didn't see her.	Ich habe sie nicht gesehen.	मैंने उसको नहीं देखा।
+I didn't see him.	Ich habe ihn nicht gesehen.	मैंने उसे नहीं देखा।
+I didn't see you.	Ich habe dich nicht gesehen.	मैंने तुम्हें नहीं देखा।
+I do what I want.	Ich mache, was ich will.	मैं वह करता हूँ जो मुझे चाहिए।
+I don't allow it.	Ich erlaube es nicht.	मैं इसकी अनुमति नहीं देता।
+I don't buy that.	Das kaufe ich nicht.	मैं इसे खरीदना नहीं चाहता।
+I don't disagree.	Ich stimme nicht zu.	मैं असहमत हूँ।
