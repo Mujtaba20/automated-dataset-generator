@@ -12730,3 +12730,12 @@ I was in the car.	Ich war im Auto.	मैं गाड़ी में था।
 I was just angry.	Ich war einfach wütend.	मैं बस गुस्से में था।
 I was on the bus.	Ich war im Bus.	मैं बस में था।
 I was overweight.	Ich war übergewichtig.	मैं मोटा था।
+I was speechless.	Ich war sprachlos.	मैं गूंगा रह गया।
+I was very dizzy.	Mir war sehr schwindelig.	मुझे बहुत चक्कर आ रहे थे।
+I was very happy.	Ich war sehr glücklich.	मैं बहुत खुश था।
+I was very tired.	Ich war sehr müde.	मैं बहुत थक गया था।
+I was victorious.	Ich war siegreich.	मैं विजयी था।
+I was wide awake.	Ich war hellwach.	मैं बिल्कुल जागरूक था।
+I washed my feet.	Ich habe mir die Füße gewaschen.	मैंने अपने पैर धो लिए।
+I wasn't careful.	Ich war nicht vorsichtig.	मैं सावधान नहीं था।
+I wasn't invited.	Ich wurde nicht eingeladen.	मुझे नहीं बुलाया गया था।
