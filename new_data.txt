@@ -15248,3 +15248,9 @@ Where's the rest?	Wo ist der Rest?	बाकी कहाँ है?
 Where's your bag?	Wo ist deine Tasche?	तुम्हारा बैग कहाँ है?
 Where's your car?	Wo ist dein Auto?	तुम्हारी कार कहाँ है?
 Where's your cat?	Wo ist deine Katze?	तुम्हारी बिल्ली कहाँ है?
+Where's your dog?	Wo ist dein Hund?	तुम्हारा कुत्ता कहाँ है?
+Where's your hat?	Wo ist dein Hut?	तुम्हारी टोपी कहाँ है?
+Where's your key?	Wo ist dein Schlüssel?	तुम्हारी कुंजी कहाँ है?
+Where's your mom?	Wo ist deine Mutter?	तुम्हारी माँ कहाँ है?
+Where's your son?	Wo ist dein Sohn?	तुम्हारा बेटा कहाँ है?
+Which is cheaper?	Welches ist billiger?	कौन सा सस्ता है?
