@@ -17031,3 +17031,12 @@ I'm a hairdresser.	Ich bin Friseur.	मैं एक नाई हूँ।
 I'm a human being.	Ich bin ein Mensch.	मैं एक मनुष्य हूँ।
 I'm a little busy.	Ich bin ein wenig beschäftigt.	मैं थोड़ा व्यस्त हूँ।
 I'm a little cold.	Mir ist etwas kalt.	मुझे थोड़ा सर्दी लग रही है।
+I'm a little hurt.	Ich bin ein wenig verletzt.	मुझे थोड़ा दुखा है।
+I'm a little late.	Ich bin ein wenig spät.	मैं थोड़ा देर से हूं।
+I'm a married man.	Ich bin ein verheirateter Mann.	मैं एक शादीशुदा आदमी हूं।
+I'm a member here.	Ich bin Mitglied hier.	मैं यहाँ का सदस्य हूं।
+I'm a normal girl.	Ich bin ein normales Mädchen.	मैं एक सामान्य लड़की हूँ।
+I'm a patient man.	Ich bin ein geduldiger Mann.	मैं एक संयमी आदमी हूं।
+I'm a salesperson.	Ich bin Verkäufer.	मैं एक बिक्री करने वाला हूं।
+I'm a slow reader.	Ich bin ein langsamer Leser.	मैं एक धीरे पढ़ने वाला हूं।
+I'm a soldier now.	Ich bin jetzt ein Soldat.	मैं अब एक सैनिक हूं।
