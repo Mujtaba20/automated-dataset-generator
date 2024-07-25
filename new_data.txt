@@ -10286,3 +10286,12 @@ Tom has a point.	Tom hat einen Punkt.	टॉम का एक बिंदु �
 Tom has a radio.	Tom hat ein Radio.	टॉम के पास एक रेडियो है।
 Tom has arrived.	Tom ist angekommen.	टॉम पहुँच चुका है।
 Tom has changed.	Tom hat sich verändert.	टॉम बदल गया है।
+Tom has company.	Tom hat Gesellschaft.	टॉम के पास कंपनी है।
+Tom has dimples.	Tom hat Grübchen.	टॉम के गुदड़ी हैं।
+Tom has escaped.	Tom ist entkommen.	टॉम भाग गया है।
+Tom has fainted.	Tom ist in Ohnmacht gefallen.	टॉम बेहोश हो गया।
+Tom has friends.	Tom hat Freunde.	टॉम के दोस्त हैं।
+Tom has hiccups.	Tom hat Schluckauf.	टॉम को हिचकी आ रही है।
+Tom has it made.	Tom hat es geschafft.	टॉम ने ये कमी कर दी है।
+Tom has left us.	Tom hat uns verlassen.	टॉम ने हमें छोड़ दिया है।
+Tom has my book.	Tom hat mein Buch.	टॉम के पास मेरी किताब है।
