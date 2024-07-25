@@ -11578,3 +11578,10 @@ Can rabbits swim?	Können Kaninchen schwimmen?	क्या खरगोश त�
 Can they hear us?	Können sie uns hören?	क्या वे हमें सुन सकते हैं?
 Can this be true?	Kann das wahr sein?	क्या यह सच हो सकता है?
 Can we afford it?	Können wir es uns leisten?	क्या हम इसका सामना कर सकते हैं?
+Can we come, too?	Können wir auch kommen?	हम भी आ सकते हैं क्या?
+Can we leave now?	Können wir jetzt gehen?	क्या हम अब चल सकते हैं?
+Can we swim here?	Können wir hier schwimmen?	क्या हम यहाँ तैर सकते हैं?
+Can we tag along?	Können wir uns anschließen?	हमे साथ जा सकते हैं क्या?
+Can we talk here?	Können wir hier reden?	क्या हम यहाँ बात कर सकते हैं?
+Can we trust you?	Können wir dir vertrauen?	क्या हम तुम पर भरोसा कर सकते हैं?
+Can you call him?	Kannst du ihn anrufen?	क्या तुम उसे कॉल कर सकते हो?
