@@ -20572,3 +20572,10 @@ Everybody does that.	Jeder tut das.	सभी वह करते हैं।
 Everybody hates me.	Jeder hasst mich.	हर कोई मुझसे नफरत करता है।
 Everybody is alive.	Alle sind am Leben.	हर कोई जीवित है।
 Everybody knows me.	Jeder kennt mich.	सभी मुझे जानते हैं।
+Everybody knows us.	Jeder kennt uns.	सभी हमें जानते हैं।
+Everybody likes me.	Jeder mag mich.	सभी को मुझसे प्यार है।
+Everybody loves it.	Jeder liebt es.	सभी इसे प्यार करते हैं।
+Everybody panicked.	Alle gerieten in Panik.	सब शोर मचाई।
+Everybody sat down.	Alle setzten sich hin.	सभी बैठ गए।
+Everybody's crying.	Jeder weint.	सब रो रहे होंगे।
+Everyone has voted.	Alle haben gewählt.	सभी ने मतदान किया है।
