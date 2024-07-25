@@ -1,14 +1,4 @@
 
-When do we arrive?	Wann kommen wir an?	हम कब पहुंचते हैं?
-When do you close?	Wann schließen Sie?	आप कब बंद करते हैं?
-When do you study?	Wann lernst du?	आप अध्ययन काब करते हैं?
-When do you study?	Wann lernt ihr?	आप कब सीखते हैं?
-When do you study?	Wann lernen Sie?	आप कब सीखते हैं?
-When does he come?	Wann kommt er?	वह कब आता है?
-When is Halloween?	Wann ist Halloween?	हेलोवीन कब है?
-When is breakfast?	Wann gibt es Frühstück?	नाश्ता कब पेश किया जाता है?
-When was it built?	Wann wurde es gebaut?	यह कब बना था?
-When was it built?	Wann wurde es erbaut?	यह कब बना था?
 When was she born?	Wann wurde sie geboren?	उसका जन्म कब हुआ था?
 When will he come?	Wann kommt er?	वह कब आता है?
 When will we meet?	Wann werden wir uns treffen?	हम कब मिलेंगे?

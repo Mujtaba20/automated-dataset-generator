@@ -19804,3 +19804,10 @@ When did Tom sing?	Wann hat Tom gesungen?	टॉम ने कब गाया �
 When did it occur?	Wann ist es passiert?	यह कब हुआ?
 When did you know?	Wann hast du es erfahren?	तुम्हें कब पता चला?
 When did you sing?	Wann hast du gesungen?	तुमने कब गाया?
+When do we arrive?	Wann kommen wir an?	हम कब पहुंचेंगे?
+When do you close?	Wann schließt du?	तुम कब बंद करते हो?
+When do you study?	Wann lernst du?	तुम कब पढ़ाई करते हो?
+When is Halloween?	Wann ist Halloween?	हैलोवीन कब है?
+When is breakfast?	Wann ist Frühstück?	नाश्ता कब होता है?
+When was it built?	Wann wurde es gebaut?	यह कब बनाया गया था?
+When does he come?	Wann kommt er?	वह कब आता है?
