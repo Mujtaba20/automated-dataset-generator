@@ -2333,3 +2333,11 @@ Who's dying?	Wer stirbt?	कौन मर रहा है?
 Who's first?	Wer ist der Erste?	कौन पहले है?
 Who's going?	Wer geht?	कौन जा रहा है?
 Who's right?	Wer hat recht?	कौन सही है?
+Who's there?	Wer ist da?	कौन है?
+Who's tired?	Wer ist müde?	कौन थका है?
+Why is that?	Warum ist das?	वह क्यों है?
+Why is this?	Warum ist das so?	यह क्यों है?
+Will he die?	Wird er sterben?	क्या वह मरेगा?
+Wood floats.	Holz schwimmt.	लकड़ी तैरती है।
+Work slowly.	Langsam arbeiten.	धीरे काम करो।
+Write to me.	Schreib mir.	मुझे लिखो।
