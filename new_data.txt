@@ -15690,3 +15690,9 @@ Did you live here?	Hast du hier gelebt?	क्या तुम यहाँ र�
 Did you live here? (different meaning)	Wohnten Sie hier?	क्या आप यहाँ रहे थे?
 Did you mean this?	Meintest du das?	क्या तुम इसका मतलब था?
 Did you mean this? (different meaning)	Haben Sie das gemeint?	क्या आपने यह माना?
+Did you phone Tom?	Hast du Tom angerufen?	क्या तुमने टॉम को फ़ोन किया?
+Did you phone him?	Hast du ihn angerufen?	क्या तुमने उसे फ़ोन किया?
+Did you pick this?	Hast du das ausgewählt?	क्या तुमने यह चुना?
+Did you read that?	Hast du das gelesen?	क्या तुमने वह पढ़ा?
+Did you read them?	Hast du sie gelesen?	क्या तुमने उन्हें पढ़ा?
+Did you shoot Tom?	Hast du auf Tom geschossen?	क्या आपने टॉम पर गोली चलाई?
