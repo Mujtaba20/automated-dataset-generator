@@ -2631,3 +2631,13 @@ I called Tom.	Ich habe Tom angerufen.	मैंने टॉम को बुल
 I called Tom. (different meaning)	Ich habe Tom genannt.	मैंने टॉम को नाम दिया।
 I called him.	Ich habe ihn angerufen.	मैंने उसे बुलाया।
 I can manage.	Ich kann es schaffen.	मैं संभाल सकता हूँ।
+I can see it.	Ich kann es sehen.	मैं इसे देख सकता हूँ।
+I can try it.	Ich kann es versuchen.	मैं इसे कोशिश कर सकता हूँ।
+I can't draw.	Ich kann nicht zeichnen.	मैं ड्रा नहीं कर सकता।
+I can't help.	Ich kann nicht helfen.	मैं मदद नहीं कर सकता।
+I can't move.	Ich kann mich nicht bewegen.	मैं हिल नहीं सकता।
+I can't read.	Ich kann nicht lesen.	मैं पढ़ नहीं सकता।
+I can't sing.	Ich kann nicht singen.	मैं गा नहीं सकता।
+I can't stay.	Ich kann nicht bleiben.	मैं ठहर नहीं सकता।
+I can't swim.	Ich kann nicht schwimmen.	मैं तैर नहीं सकता।
+I can't talk.	Ich kann nicht sprechen.	मैं बात नहीं कर सकता।
