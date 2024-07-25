@@ -5725,3 +5725,11 @@ Get out of bed. 2	Komm aus dem Bett.	बिस्तर में से बा�
 Get rid of her.	Werde sie los.	उससे छुटकारा पाओ।
 Get rid of her. 2	Entferne sie.	उसे हटा दो।
 Get to it, Tom.	Mach schon, Tom.	इस पर जा, टॉम।
+Give him a hug.	Umarme ihn.	उसे गले लगा दो।
+Give it a kick.	Gib ihm einen Tritt.	उसे एक धक्का दो।
+Give it a rest.	Lass es ruhen.	इसे आराम दो।
+Give it a shot.	Versuch es.	इसे कोशिश करो।
+Give it to Tom.	Gib es Tom.	इसे टॉम को दो।
+Give it to her.	Gib es ihr.	इसे उसे दो।
+Give it to him.	Gib es ihm.	उसे दे दो।
+Give me a beer.	Gib mir ein Bier.	मुझे एक बियर दो।
