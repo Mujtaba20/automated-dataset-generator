@@ -20387,3 +20387,9 @@ Did you invite him?	Hast du ihn gebeten?	क्या तुमने उसे 
 Did you lie to Tom?	Hast du Tom betrogen?	क्या तुमने टॉम को धोखा दिया?
 Did you murder Tom?	Hast du Tom umgebracht?	क्या तुमने टॉम की हत्या की?
 Did you notify Tom?	Hast du Tom benachrichtigt?	क्या तुमने टॉम को सूचित किया?
+Did you poison Tom?	Hast du Tom vergiftet?	क्या आपने टॉम को ज़हर दिया?
+Did you poison Tom? (different meaning)	Hast du Tom vergiftet?	क्या आपने टॉम को जहर दिया?
+Did you sleep well?	Hast du gut geschlafen?	क्या आपने अच्छी तरह सोया?
+Did you sleep well? (different meaning)	Hast du gut geschlafen?	क्या आपने शांति से सोया?
+Did you take notes?	Hast du Notizen gemacht?	क्या आपने नोट्स लिए?
+Did you take notes? (different meaning)	Hast du Notizen gemacht?	क्या आपने ध्यान दिया?

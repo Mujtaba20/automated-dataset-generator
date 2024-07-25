@@ -1,16 +1,4 @@
 
-Did you poison Tom?	Hast du Tom vergiftet?	क्या आपने टॉम को जहर दिया?
-Did you poison Tom?	Habt ihr Tom vergiftet?	क्या आपने टॉम को जहर दिया?
-Did you poison Tom?	Haben Sie Tom vergiftet?	क्या आपने टॉम को जहर दिया?
-Did you sleep well?	Hast du gut geschlafen?	क्या आपको अच्छी नींद आई?
-Did you sleep well?	Habt ihr gut geschlafen?	क्या आपको अच्छी नींद आई?
-Did you sleep well?	Haben Sie gut geschlafen?	क्या आपको अच्छी नींद आई?
-Did you take notes?	Hast du Notizen gemacht?	क्या आपने नोट लिए?
-Did you take notes?	Hast du dir Notizen gemacht?	क्या आपने नोट लिए?
-Did you take notes?	Haben Sie Notizen gemacht?	क्या आपने नोट लिए?
-Did you take notes?	Haben Sie sich Notizen gemacht?	क्या आपने नोट लिए?
-Did you take notes?	Habt ihr Notizen gemacht?	क्या आपने नोट लिए?
-Did you take notes?	Habt ihr euch Notizen gemacht?	क्या आपने नोट लिए?
 Did you tell on me?	Hast du mich angeschwärzt?	क्या तुमने मुझे शपथ दिलाई?
 Didn't you miss me?	Hast du mich nicht vermisst?	क्या तुमने मुझे याद नहीं किया?
 Didn't you see Tom?	Hast du Tom nicht gesehen?	क्या आपने टॉम नहीं देखा?
