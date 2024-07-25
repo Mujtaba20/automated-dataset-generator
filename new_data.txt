@@ -15762,3 +15762,9 @@ Does Tom disagree?	Ist Tom anderer Meinung?	क्या टॉम असहम�
 Does Tom eat fish?	Isst Tom Fisch?	क्या टॉम मछली खाता है?
 Does Tom enjoy it?	Genießt Tom es?	क्या टॉम का मजा आ रहा है?
 Does Tom have one?	Hat Tom eins?	क्या टॉम के पास एक है?
+Does Tom know why?	Weiß Tom warum?	क्या टॉम को पता है क्यों?
+Does Tom like you?	Mag Tom dich?	क्या टॉम को तुम पसंद हो?
+Does he come here?	Kommt er hierher?	क्या वह यहाँ आता है?
+Does he live here?	Lebt er hier?	क्या वह यहाँ रहता है?
+Does it hurt here?	Tut es hier weh?	क्या यहाँ दर्द हो रहा है?
+Does it snow here?	Schneit es hier?	क्या यहाँ बर्फ गिरती है?
