@@ -1,14 +1,4 @@
 
-Do you like movies?	Magst du Filme?	क्या तुम्हें फ़िल्में पसंद हैं?
-Do you like olives?	Magst du Oliven?	क्या तुम्हारे पास जैतून हैं?
-Do you like robots?	Magst du Roboter?	क्या आपको रोबोट पसंद है?
-Do you like robots?	Mögen Sie Roboter?	क्या आपको रोबोट पसंद हैं?
-Do you like robots?	Mögt ihr Roboter?	क्या आपको रोबोट पसंद हैं?
-Do you like salmon?	Magst du Lachs?	क्या आपको सामन पसंद है?
-Do you like salmon?	Mögen Sie Lachs?	क्या आपको सामन पसंद है?
-Do you like school?	Gehst du gerne zur Schule?	क्या आपको विद्यालय जाना पसंद है?
-Do you like school?	Magst du die Schule?	क्या आपको स्कूल पसंद है?
-Do you like soccer?	Magst du Fußball?	क्या आपको फुटबॉल पसंद है?
 Do you like sports?	Magst du Sport?	क्या आपको खेल पसंद है?
 Do you like tennis?	Magst du gerne Tennis?	क्या आपको टेनिस पसंद है?
 Do you like tennis?	Mögen Sie Tennis?	क्या आपको टेनिस पसंद है?
