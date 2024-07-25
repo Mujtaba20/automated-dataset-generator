@@ -8747,3 +8747,12 @@ I felt betrayed.	Ich fühlte mich verraten.	मुझे धोखा दिय�
 I felt isolated.	Ich fühlte mich isoliert.	मुझे अलग है जानू।
 I felt left out.	Ich fühlte mich ausgeschlossen.	मुझे बाहर छोड़ दिया गया था।
 I felt relieved.	Ich fühlte mich erleichtert.	मुझे राहत मिली।
+I found my book.	Ich habe mein Buch gefunden.	मैंने अपनी किताब पाई।
+I gave Tom $300.	Ich gab Tom 300 Dollar.	मैंने टॉम को 300 डॉलर दिए।
+I gave Tom that.	Ich gab Tom das.	मैंने टॉम को वह दिया।
+I get the point.	Ich verstehe den Punkt.	मुझे बात समझ में आ गई।
+I get up at six.	Ich stehe um sechs Uhr auf.	मैं छः बजे उठता हूँ।
+I go every year.	Ich gehe jedes Jahr.	मैं हर साल जाता हूँ।
+I got no answer.	Ich habe keine Antwort bekommen.	मुझे कोई जवाब नहीं मिला।
+I got remarried.	Ich habe wieder geheiratet.	मैंने फिर से शादी की।
+I got up at six.	Ich bin um sechs Uhr aufgestanden.	मैं छः बजे उठ गया।
