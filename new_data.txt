@@ -540,3 +540,11 @@ I hope so.	Das hoffe ich.	यही उम्मीद है।
 I hung up.	Ich habe aufgelegt.	मैंने फोन काट दिया।
 I hurried.	Ich habe mich beeilt.	मैं जल्दी था।
 I knew it.	Ich wusste es.	मुझे पता था।
+I laughed.	Ich lachte.	मैं हँसी।
+I like it.	Ich mag es.	मुझे यह पसंद है।
+I lost it.	Ich habe es verloren.	मैंने इसे खो दिया।
+I love it!	Ich liebe es!	मुझे यह पसंद है!
+I love it.	Ich liebe es.	मुझे यह पसंद है।
+I made it.	Ich machte es.	मैंने यह बनाया।
+I may win.	Ich kann gewinnen.	मैं जीत सकता हूँ।
+I mean it!	Ich meine es ernst!	मैं इसे मतलब समझो!
