@@ -19621,3 +19621,12 @@ We're all related.	Wir sind alle verwandt.	हम सभी संबंधि�
 We're all waiting.	Wir warten alle.	हम सब इंतज़ार कर रहे हैं।
 We're all winners.	Wir sind alle Gewinner.	हम सभी विजेता हैं।
 We're all worried.	Wir sind alle besorgt.	हम सब परेशान हैं।
+We're almost done.	Wir sind fast fertig.	हम लगभग समाप्त हो गए हैं।
+We're almost home.	Wir sind fast zu Hause.	हम लगभग घर पहुँच गए हैं।
+We're already old.	Wir sind bereits alt.	हम पहले से ही बूढ़े हो चुके हैं।
+We're always busy.	Wir sind immer beschäftigt.	हम हमेशा व्यस्त रहते हैं।
+We're both adults.	Wir sind beide Erwachsene.	हम दोनों वयस्क हैं।
+We're both insane.	Wir sind beide verrückt.	हम दोनों पागल हैं।
+We're celebrating.	Wir feiern.	हम जश्न मना रहे हैं।
+We're cooking now.	Wir kochen jetzt.	हम अब पका रहे हैं।
+We're cooperating.	Wir arbeiten zusammen.	हम सहयोग कर रहे हैं।
