@@ -8351,3 +8351,11 @@ Don't interrupt.	Unterbrechen Sie nicht.	बात मत घुसने दो
 Don't lie to me.	Lüge mich nicht an.	मुझसे झूठ मत बोलो।
 Don't lie to us.	Lüge uns nicht an.	हमसे झूठ मत बोलो।
 Don't look back.	Schau nicht zurück.	पीछे मत देखो।
+Don't look down.	Schau nicht hinunter.	नीचे ना देखें।
+Don't lose hope.	Verliere nicht die Hoffnung.	उम्मीद न खोएं।
+Don't misbehave.	Benehmen Sie sich nicht schlecht.	बदतमीज़ी न करें।
+Don't misbehave. (Different meaning)	Mach keinen Unfug.	बेहूदगी न करें।
+Don't overdo it.	Übertreib es nicht.	इसे ज्यादा मत करो।
+Don't park here.	Hier nicht parken.	यहां नहीं पार्क करें।
+Don't play dead.	Tu nicht so, als wärst du tot.	मरा हुआ मत बनो।
+Don't play dumb!	Stell dich nicht dumm!	बेवकूफ बनना बंद करो!
