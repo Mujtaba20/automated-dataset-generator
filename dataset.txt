@@ -1,14 +1,4 @@
 
-Tom likes carrots.	Tom mag Karotten.	टॉम को गाजर पसंद है।
-Tom likes country.	Tom mag Country.	टॉम मैग देश।
-Tom likes farming.	Tom mag die Landwirtschaft.	टॉम को कृषि पसंद है।
-Tom likes fishing.	Tom angelt gern.	टॉम को मछली पकड़ना पसंद है।
-Tom likes fishing.	Tom fischt gern.	टॉम को मछली पसंद है।
-Tom likes his job.	Tom gefällt seine Arbeit.	टॉम को अपना काम पसंद है।
-Tom likes hunting.	Tom geht gerne jagen.	टॉम को शिकार करना पसंद है।
-Tom likes it here.	Tom mag es hier.	टॉम इसे यहाँ पसंद करता है।
-Tom likes lobster.	Tom mag Hummer.	टॉम को लॉबस्टर पसंद है।
-Tom likes oranges.	Tom mag Orangen.	टॉम को संतरे पसंद हैं।
 Tom likes popcorn.	Tom mag Popcorn.	टॉम को पॉपकॉर्न पसंद है।
 Tom likes puzzles.	Tom mag Puzzles.	टॉम को पहेलियाँ पसंद हैं।
 Tom likes running.	Tom läuft gerne.	टॉम को दौड़ना पसंद है।

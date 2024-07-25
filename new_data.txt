@@ -18902,3 +18902,13 @@ Tom liked it, too.	Tom mochte es auch.	टॉम को यह भी पसं�
 Tom likes animals.	Tom mag Tiere.	टॉम को जानवर पसंद है।
 Tom likes blondes.	Tom mag Blondinen.	टॉम को ब्लॉन्ड पसंद है।
 Tom likes camping.	Tom mag Camping.	टॉम को कैम्पिंग पसंद है।
+Tom likes carrots.	Tom mag Karotten.	टॉम को गाजर पसंद है।
+Tom likes country.	Tom mag Land.	टॉम को देश पसंद है।
+Tom likes farming.	Tom mag Landwirtschaft.	टॉम को कृषि पसंद है।
+Tom likes fishing.	Tom mag Angeln.	टॉम को मछली पकड़ना पसंद है।
+Tom likes fishing. (second meaning)	Tom mag Fischen.	टॉम को फिशिंग पसंद है।
+Tom likes his job.	Tom mag seinen Job.	टॉम को उसका काम पसंद है।
+Tom likes hunting.	Tom mag die Jagd.	टॉम को शिकार करना पसंद है।
+Tom likes it here.	Tom mag es hier.	टॉम को यहाँ पसंद है।
+Tom likes lobster.	Tom mag Hummer.	टॉम को लॉबस्टर पसंद है।
+Tom likes oranges.	Tom mag Orangen.	टॉम को संतरे पसंद हैं।
