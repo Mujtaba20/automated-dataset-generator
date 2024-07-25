@@ -2763,3 +2763,13 @@ I suppose so.	Ich nehme an.	मुझे लगता है।
 I swim a lot.	Ich schwimme viel.	मैं बहुत सारा तैरता हूँ।
 I sympathize.	Ich fühle mit.	मुझे सहानुभूति है।
 I sympathize. (different meaning)	Ich habe Verständnis.	मैं समझता हूँ।
+I talk a lot.	Ich spreche viel.	मैं बहुत बोलता हूँ।
+I teased Tom.	Ich habe Tom geneckt.	मैंने टॉम को चिढ़ाया।
+I thought so.	Das dachte ich auch.	मुझे ऐसा ही लगा।
+I thought so. (different meaning)	Ich habe das so gedacht.	मैं ऐसा सोचता था।
+I tried hard.	Ich habe es schwer versucht.	मैंने कठिन प्रयास किया।
+I tried hard. (different meaning)	Ich habe hart probiert.	मैंने कठिनता से प्रयास किया।
+I tried hard. (different meaning 2)	Ich habe es wirklich versucht.	मैंने सचमुच प्रयास किया।
+I understand.	Ich verstehe.	मुझे समझ में आया।
+I want a dog.	Ich möchte einen Hund.	मुझे एक कुत्ता चाहिए।
+I want a hat.	Ich will einen Hut.	मुझे टोपी चाहिए।
