@@ -8523,3 +8523,11 @@ He may be there.	Er könnte dort sein.	शायद वहां हो सक�
 He may not come.	Er wird vielleicht nicht kommen.	शायद वह ना आए।
 He mentioned it.	Er hat es erwähnt.	उसने इसे उल्लेख किया।
 He must be dead.	Er muss tot sein.	उसे मरना ही होगा।
+He nodded to me.	Er nickte mir zu.	उसने मुझे इशारा किया।
+He quit smoking.	Er hörte auf zu rauchen.	उसने धूम्रपान छोड़ दिया।
+He said nothing.	Er sagte nichts.	उसने कुछ नहीं कहा।
+He saved us all.	Er hat uns alle gerettet.	उसने हम सबको बचा लिया।
+He saw the girl.	Er sah das Mädchen.	उसने लड़की को देखा।
+He seems honest.	Er scheint ehrlich zu sein.	उसका ईमानदार लगता है।
+He seems hungry.	Er scheint hungrig zu sein.	उसे भूख लगी हुई है।
+He sells whisky.	Er verkauft Whisky.	उससे व्हिस्की बेचती है।
