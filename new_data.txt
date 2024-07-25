@@ -14472,3 +14472,13 @@ Tom looked awful.	Tom sah furchtbar aus.	टॉम बदसूरत लग र
 Tom looked dirty.	Tom sah schmutzig aus.	टॉम गंदा दिख रहा था।
 Tom looked drunk.	Tom sah betrunken aus.	टॉम नशे में दिखाई दिया।
 Tom looked great.	Tom sah großartig aus.	टॉम बहुत बढ़िया लग रहा था।
+Tom looked happy.	Tom sah glücklich aus.	टॉम खुश लग रहा था।
+Tom looked ready.	Tom sah bereit aus.	टॉम तैयार लग रहा था।
+Tom looked sharp.	Tom sah scharf aus.	टॉम तेज लग रहा था।
+Tom looked tense.	Tom sah angespannt aus.	टॉम तनावग्रस्त लग रहा था।
+Tom looked tired.	Tom sah müde aus.	टॉम थका हुआ लग रहा था।
+Tom looked upset.	Tom sah verärgert aus.	टॉम उदास लग रहा था।
+Tom looked young.	Tom sah jung aus.	टॉम जवान लग रहा था।
+Tom looks amused.	Tom sieht amüsiert aus.	टॉम मनोरंजित लग रहा है।
+Tom looks asleep.	Tom sieht schlafend aus.	टॉम सो रहा है।
+Tom looks bummed.	Tom sieht niedergeschlagen aus.	टॉम उदास लग रहा है।
