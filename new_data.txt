@@ -1180,3 +1180,13 @@ Look at it.	Schau es an.	इसे देखो।
 Look at me.	Schau mich an.	मुझे देखो।
 Look at us.	Schau uns an.	हमें देखो।
 Look it up.	Such es nach.	यह देखो।
+engSentence1	Schau dort.	वहाँ देखो।
+engSentence2	Liebe tut weh.	प्रेम दुखी होता है।
+engSentence3	Liebe dauert.	प्यार चलता है।
+engSentence4	Mama weinte.	माँ रोई।
+engSentence5	Macht nichts!	कोई बात नहीं।
+engSentence6	Kein Kommentar.	कोई टिप्पणी नहीं।
+engSentence7	Kein Witz?	मजाक है?
+engSentence8	Kein Scherz?	मजाक कर रहे हो?
+engSentence9	Nicht im Ernst?	सच में?
+engSentence10	Fein!	सुन्दर!
