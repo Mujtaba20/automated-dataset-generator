@@ -18687,3 +18687,13 @@ Tom is infuriated.	Tom ist wütend.	टॉम क्रोधित है।
 Tom is innovative.	Tom ist innovativ.	टॉम नवाचारी है।
 Tom is insightful.	Tom ist einfühlsam.	टॉम को अंतःसाक्षी है।
 Tom is interested.	Tom ist interessiert.	टॉम रुचि रखता है।
+Tom is intolerant.	Tom ist intolerant.	टॉम असहिष्णु है।
+Tom is just a kid.	Tom ist nur ein Kind.	टॉम सिर्फ एक बच्चा है।
+Tom is making jam.	Tom macht Marmelade.	टॉम जाम बना रहा है।
+Tom is meditating.	Tom meditiert.	टॉम ध्यान कर रहा है।
+Tom is meditating. Diff meaning 1	Tom ist in Meditation.	टॉम ध्यान में है।
+Tom is mesmerized.	Tom ist fasziniert.	टॉम प्रभावित है।
+Tom is methodical.	Tom ist methodisch.	टॉम व्यवस्थित है।
+Tom is meticulous.	Tom ist gewissenhaft.	टॉम सूक्ष्मतापूर्ण है।
+Tom is meticulous. Diff meaning 1	Tom ist akribisch.	टॉम सरल है।
+Tom is motionless.	Tom ist regungslos.	टॉम अचल है।

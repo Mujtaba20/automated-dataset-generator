@@ -1,14 +1,4 @@
 
-Tom is intolerant.	Tom ist intolerant.	टॉम असहिष्णु है।
-Tom is just a kid.	Tom ist nur ein Kind.	टॉम सिर्फ एक बच्चा है।
-Tom is making jam.	Tom macht gerade Marmelade.	टॉम वर्तमान में जाम बना रहा है।
-Tom is meditating.	Tom meditiert gerade.	टॉम वर्तमान में ध्यान कर रहा है।
-Tom is meditating.	Tom meditiert.	टॉम ने ध्यान किया।
-Tom is mesmerized.	Tom ist fasziniert.	टॉम मोहित है।
-Tom is methodical.	Tom ist methodisch.	टॉम कार्यप्रणाली है।
-Tom is meticulous.	Tom ist sorgfältig.	टॉम सावधान है।
-Tom is meticulous.	Tom ist akribisch.	टॉम सावधानीपूर्वक है।
-Tom is motionless.	Tom ist bewegungslos.	टॉम गतिहीन है।
 Tom is my brother.	Tomás ist mein Bruder.	टोमस मेरा भाई है।
 Tom is my brother.	Tom ist mein Bruder.	टॉम मेरा भाई है।
 Tom is my dentist.	Tom ist mein Zahnarzt.	टॉम मेरे दंत चिकित्सक हैं।
