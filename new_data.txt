@@ -6378,3 +6378,13 @@ I'm a musician.	Ich bin Musiker.	मैं संगीतकार हूं।
 I'm a nice guy.	Ich bin ein netter Kerl.	मैं एक अच्छे इंसान हूँ।
 I'm a pacifist.	Ich bin Pazifist.	मैं शांतिवादी हूँ।
 I'm a prisoner.	Ich bin ein Gefangener.	मैं एक कैदी हूँ।
+I'm a rich man.	Ich bin ein reicher Mann.	मैं एक अमीर आदमी हूँ।
+I'm a salesman.	Ich bin ein Verkäufer.	मैं एक विक्रेता हूँ।
+I'm a salesman. 1	Ich bin ein Handelsvertreter.	मैं एक सेल्समैन हूँ।
+I'm a salesman. 2	Ich bin ein Vertriebsmitarbeiter.	मैं एक विक्रेता हूँ।
+I'm a stuntman.	Ich bin ein Stuntman.	मैं एक स्टंटमैन हूँ।
+I'm a teenager.	Ich bin ein Teenager.	मैं एक किशोर हूँ।
+I'm a weakling.	Ich bin ein Schwächling.	मैं एक कमजोर हूँ।
+I'm afraid not.	Das glaube ich nicht.	मुझे डर है नहीं।
+I'm afraid not. 1	Ich fürchte nicht.	मैं डरने का नहीं हूँ।
+I'm against it.	Ich bin dagegen.	मैं इसके खिलाफ हूँ।
