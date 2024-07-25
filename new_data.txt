@@ -501,3 +501,9 @@ He's sexy.	Er ist sexy.	वह सेक्सी है।
 Head east.	Gehe Richtung Osten.	पूर्व की ओर जाओ।
 Here I am.	Hier bin ich.	मैं यहाँ हूँ।
 Here's $5.	Hier sind $5.	यह रुपये 5 हैं।
+Hold fire.	Halten Sie das Feuer.	आग पकड़ो।
+Hold this.	Halte das.	इसे बोलो।
+How awful!	Wie schrecklich!	कितना भयानक!
+How is it?	Wie ist es?	यह कैसा है?
+How weird!	Wie seltsam!	कितना अजीब!
+Humor Tom.	Mach Tom Spaß.	टॉम का मजाक उड़ाओ।
