@@ -4678,3 +4678,11 @@ Mine is black. (Different meaning)	Meine ist schwarz.	मेरी काली 
 Mom's at work.	Mama ist auf der Arbeit.	माँ काम पर हैं।
 Motion denied.	Antrag abgelehnt.	आवेदन अस्वीकृत।
 My back hurts.	Mein Rücken schmerzt.	मेरी पीठ दर्द कर रही है।
+My car is red.	Mein Auto ist rot.	मेरी कार लाल है।
+My cat is wet.	Meine Katze ist nass.	मेरी बिल्ली गीली है।
+My dog ate it.	Mein Hund hat es gegessen.	मेरा कुत्ता उसे खा गया।
+My dog is big.	Mein Hund ist groß.	मेरा कुत्ता बड़ा है।
+My feet stink.	Meine Füße stinken.	मेरे पैर सुँघते हैं।
+My foot hurts.	Mein Fuß tut weh.	मेरे पैर में दर्द है।
+My hair's wet.	Meine Haare sind nass.	मेरे बाल गीले हैं।
+My head aches.	Mir tut der Kopf weh.	मुझे सिरदर्द है।
