@@ -5498,3 +5498,7 @@ You're not me.	Du bist nicht ich.	तुम मैं नहीं हो।
 You're paying.	Du zahlst.	तुम भुगत रहे हो।
 You're paying. (Different Meaning)	Du zahlst.	तुम चुका रहे हो।
 You're paying. (Different Meaning 2)	Du zahlst.	तुम देने के लिए हो।
+You're polite.	Sie sind höflich.	तुम विनम्र हो।
+You're pretty.	Du bist hübsch.	तुम सुंदर हो।
+You're skinny.	Du bist dünn.	तुम सुखड़ हो।
+You're strong.	Du bist kräftig.	तुम शक्तिशाली हो।
