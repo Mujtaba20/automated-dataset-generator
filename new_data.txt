@@ -5746,3 +5746,10 @@ Go for it, Tom.	Versuch es, Tom.	इसे करो, टॉम।
 Go have a beer.	Geh ein Bier trinken.	एक बीयर पिएं।
 Go look for it.	Such danach.	इसे खोजो।
 Go take a walk.	Geh spazieren.	एक टहलने जाओ।
+Go to the park.	Geh zum Park.	पार्क जाओ।
+Go wake Tom up.	Geh und wecke Tom auf.	टॉम को जगा दो।
+Golf is boring.	Golf ist langweilig.	गोल्फ बोरिंग है।
+Good afternoon.	Guten Nachmittag.	शुभ अपराह्न।
+Good work, Tom.	Gute Arbeit, Tom.	अच्छा काम, टॉम।
+Guess who I am.	Stell dir vor wer ich bin.	मुझे पहचानो मैं कौन हूँ।
+Hand it to Tom.	Reich es Tom.	टॉम को दे दो।
