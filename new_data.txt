@@ -2973,3 +2973,11 @@ Is this true?	Ist das wahr?	क्या यह सच है?
 Is this wine?	Ist das Wein?	क्या यह वाइन है?
 It has begun.	Es hat begonnen.	यह शुरू हो गया है।
 It has begun. (alternative)	Es ist losgegangen.	यह आरंभ हो गया है।
+It is a book.	Es ist ein Buch.	यह एक किताब है।
+It isn't Tom.	Es ist nicht Tom.	यह टॉम नहीं है।
+It isn't bad.	Es ist nicht schlimm.	यह बुरा नहीं है।
+It isn't new.	Es ist nicht neu.	यह नया नहीं है।
+It may break.	Es könnte kaputt gehen.	यह टूट सकता है।
+It scared me.	Es hat mich erschreckt.	यह मुझे डरा दिया।
+It scares me.	Es macht mich Angst.	यह मुझे डरा देता है।
+It took time.	Es hat Zeit gekostet.	इसमें समय लगा।
