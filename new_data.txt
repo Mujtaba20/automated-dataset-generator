@@ -8557,3 +8557,11 @@ He's a real man.	Er ist ein echter Mann.	वह एक असली मर्द
 He's a southpaw.	Er ist Linkshänder.	वह एक कूल्हे वाला है।
 He's antisocial.	Er ist ungesellig.	वह सामाजिक नहीं है।
 He's dead-tired.	Er ist hundemüde.	वह मरी हुई थका हुआ है।
+He's going bald.	Er wird kahl.	वह गंजा हो जा रहा है।
+He's helping me.	Er hilft mir.	वह मेरी मदद कर रहा है।
+He's her friend.	Er ist ihr Freund.	वह उसका दोस्त है।
+He's in trouble.	Er hat Probleme.	उसकी मुश्किलें हैं।
+He's my brother.	Er ist mein Bruder.	वह मेरा भाई है।
+He's not a hero.	Er ist kein Held.	वह एक हीरो नहीं है।
+He's not a liar.	Er ist kein Lügner.	वह झूठा नहीं है।
+He's not stupid.	Er ist nicht dumm.	वह मूर्ख नहीं है।
