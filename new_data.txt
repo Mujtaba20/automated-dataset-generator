@@ -6665,3 +6665,12 @@ It's very good.	Es ist sehr gut.	यह बहुत अच्छा है।
 It's very loud.	Es ist sehr laut.	यह बहुत शोर है।
 It's very nice.	Es ist sehr schön.	यह बहुत अच्छा है।
 It's what I do.	Es ist das, was ich tue.	यह है जो मैं करता हूँ।
+It's wonderful.	Es ist wunderbar.	यह अद्वितीय है।
+It's your book.	Das ist dein Buch.	यह तुम्हारी किताब है।
+It's your duty.	Es ist deine Pflicht.	यह तुम्हारा कर्तव्य है।
+It's your duty. (Different meaning)	Das ist deine Aufgabe.	यह तुम्हारी जिम्मेदारी है।
+It's your duty. (Different meaning 2)	Es liegt an dir.	यह तुम पर निर्भर करता है।
+It's your home.	Es ist dein Zuhause.	यह तुम्हारा घर है।
+It's your home. (Different meaning)	Das liegt in deinem Ermessen.	यह तुम्हारी उपलब्धि है।
+It's your move.	Jetzt bist du dran.	यह तुम्हारी चाल है।
+It's your turn.	Du bist dran.	यह तुम्हारी बारी है।
