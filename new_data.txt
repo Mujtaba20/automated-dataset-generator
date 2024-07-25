@@ -14024,3 +14024,12 @@ Tom drank a beer.	Tom trank ein Bier.	टॉम ने एक बीयर प�
 Tom dressed well.	Tom hat sich gut angezogen.	टॉम ने अच्छे ढंग से पहना।
 Tom dresses well.	Tom kleidet sich gut.	टॉम अच्छे कपड़े पहनता है।
 Tom drinks water.	Tom trinkt Wasser.	टॉम पानी पीता है।
+Tom drives a BMW.	Tom fährt einen BMW.	टॉम बीएमडब्ल्यू चलाता है।
+Tom dropped this.	Tom hat das fallen lassen.	टॉम ने यह गिरा दिया।
+Tom drove faster.	Tom fuhr schneller.	टॉम ने तेज चलाया।
+Tom earned money.	Tom hat Geld verdient.	टॉम ने पैसे कमाए।
+Tom enjoyed that.	Tom hat das genossen.	टॉम ने उसे आनंद लिया।
+Tom explained it.	Tom hat es erklärt.	टॉम ने यह समझाया।
+Tom failed twice.	Tom ist zweimal gescheitert.	टॉम ने दो बार विफल हो गया।
+Tom fed the pigs.	Tom hat den Schweinen gefüttert.	टॉम ने सुअरों को चराया।
+Tom fell in love.	Tom hat sich verliebt.	टॉम प्यार में गिर गया।
