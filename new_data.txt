@@ -2321,3 +2321,8 @@ Who are you?	Wer bist du?	तुम कौन हो?
 Who cheated?	Wer hat betrogen?	किसने धोखा दिया?
 Who cheered?	Wer hat gejubelt?	किसने जश्न मनाया?
 Who escaped?	Wer ist entkommen?	किसने भाग गया?
+Who hit Tom?	Wer hat Tom geschlagen?	किसने टॉम को मारा?
+Who hit you?	Wer hat dich geschlagen?	तुम्हें किसने मारा?
+Who is next?	Wer ist als Nächster dran?	कौन अगला है?
+Who is that?	Wer ist das?	वह कौन है?
+Who saw you?	Wer hat dich gesehen?	तुम्हें किसने देखा?
