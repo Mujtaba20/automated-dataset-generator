@@ -15505,3 +15505,10 @@ Are these candles?	Sind das Kerzen?	क्या ये मोमबत्ति
 Are they American?	Sind sie Amerikaner?	क्या वे अमेरिकन हैं?
 Are they Canadian?	Sind sie Kanadier?	क्या वे कनाडियन हैं?
 Are they Japanese?	Sind sie Japaner?	क्या वे जापानी हैं?
+Are they brothers?	Sind sie Brüder?	क्या वे भाई हैं?
+Are they students?	Sind sie Schüler?	क्या वे छात्र हैं?
+Are those bedbugs?	Sind das Wanzen?	क्या वे खाचर हैं?
+Are vampires real?	Gibt es wirklich Vampire?	क्या राक्षस होते हैं?
+Are we going home?	Gehen wir nach Hause?	क्या हम घर जा रहे हैं?
+Are we good to go?	Sind wir bereit zu gehen?	क्या हमें जाने के लिए है?
+Are you a student?	Bist du Schülerin?	क्या तुम छात्रा हो?
