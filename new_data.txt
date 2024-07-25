@@ -1974,3 +1974,8 @@ Release Tom.	Tom freisetzen.	टॉम को रिहा करें।
 Release him.	Lassen Sie ihn frei.	उसे छोड़ें।
 Remember it.	Erinnere dich daran.	इसे याद रखें।
 Return fire.	Gegenfeuer erwidern.	आग का जवाब दें।
+Say goodbye.	Verabschiede dich.	विदा लेना।
+Say nothing.	Sag nichts.	कुछ मत कहो।
+Send Tom in.	Schicke Tom herein.	टॉम को अंदर भेजो।
+Shall we go?	Sollen wir gehen?	क्या हम जा सकते हैं?
+Say goodbye.1	Sag auf Wiedersehen.	अलविदा बोलो।
