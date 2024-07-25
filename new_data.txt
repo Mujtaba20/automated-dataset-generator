@@ -11053,3 +11053,11 @@ We have to talk.	Wir müssen reden.	हमें बात करनी हो�
 We have to wait.	Wir müssen warten.	हमें इंतजार करना होगा।
 We lack nothing.	Es fehlt uns an nichts.	हमारे पास कुछ भी नहीं है।
 We left at 2:30.	Wir haben um 2:30 Uhr verlassen.	हमने 2:30 बजे छोड़ दिया।
+We love it here.	Wir lieben es hier.	हम यहाँ पसंद करते हैं।
+We love picnics.	Wir lieben Picknicks.	हम पिकनिक्स पसंद करते हैं।
+We love you all.	Wir lieben euch alle.	हम तुम सभी को पसंद करते हैं।
+We made him cry.	Wir brachten ihn zum Weinen.	हमने उसे रोते हुए देखा।
+We made waffles.	Wir haben Waffeln gemacht.	हमने वाफल्स बनाए।
+We met a writer.	Wir trafen einen Schriftsteller.	हमने एक लेखक से मिली।
+We must act now.	Wir müssen jetzt handeln.	हमें अब काम करना होगा।
+We must find it.	Wir müssen es finden.	हमें यह निकालना होगा।
