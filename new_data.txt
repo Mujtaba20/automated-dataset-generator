@@ -1548,3 +1548,10 @@ He stood up.	Er stand auf.	उठ कर खड़ा हो गया।
 He was busy.	Er war beschäftigt.	वह व्यस्त था।
 He's a jerk.	Er ist ein Idiot.	वह एक मूर्ख है।
 He's a liar.	Er ist ein Lügner.	वह झूठा है।
+He's asleep.	Er schläft.	वह सो रहा है।
+He's coming.	Er kommt.	वह आ रहा है।
+He's faking.	Er täuscht.	वह बनावटी है।
+He's loaded.	Er ist beladen.	वह भारी है।
+He's my age.	Er ist in meinem Alter.	वह मेरी उम्र का है।
+He's my dad.	Er ist mein Vater.	वह मेरे पिताजी हैं।
+He's not in.	Er ist nicht erreichbar.	वह उपलब्ध नहीं है।
