@@ -15856,3 +15856,10 @@ Everyone likes me.	Alle mögen mich.	सभी मुझसे पसंद क�
 Everyone must die.	Jeder muss sterben.	सभी को मरना है।
 Everyone sat down.	Alle setzten sich.	सभी बैठ गए।
 Everyone screamed.	Alle schrien.	सभी चिल्लाए।
+Everyone survived.	Alle haben überlebt.	सभी बच गए।
+Everyone will die.	Alle werden sterben.	सभी मरेंगे।
+Everyone's asleep.	Alle schlafen.	सभी सो रहें हैं।
+Everything is bad.	Alles ist schlecht.	सब कुछ बुरा है।
+Everything is new.	Alles ist neu.	सब कुछ नया है।
+Everything's fine.	Alles ist in Ordnung.	सब कुछ ठीक है।
+Everything's free.	Alles ist kostenlos.	सब कुछ मुफ्त है।
