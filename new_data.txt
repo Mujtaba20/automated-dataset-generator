@@ -8425,3 +8425,10 @@ Give that to me.	Gib mir das.	मुझे वह दे दो।
 Give them money.	Gib ihnen Geld.	उन्हें पैसे दो।
 Give them to me.	Gib sie mir.	मुझे उन्हें दो।
 Give us a break.	Gib uns eine Pause.	हमें रुक्सत करो।
+Go and find Tom.	Geh und finde Tom.	जाओ और टॉम को ढूंढो।
+Go and have fun.	Geh und hab Spaß.	जाओ और मज़ा करो।
+Go and help Tom.	Geh und hilf Tom.	जाओ और टॉम की मदद करो।
+Go back outside.	Geh nach draußen zurück.	बाहर वापस जाओ।
+Go get your car.	Geh und hol dein Auto.	अपनी कार लेकर आओ।
+Go home quickly.	Geh schnell nach Hause.	जल्दी घर जाओ।
+Go out and play.	Geh raus und spiel.	बाहर जाओ और खेलो।
