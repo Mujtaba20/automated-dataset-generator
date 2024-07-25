@@ -19460,3 +19460,11 @@ Try on that shirt.	Probier dieses Hemd an.	उस शर्ट को ट्र�
 Try to look ahead.	Versuche vorauszublicken.	आगे देखने की कोशिश करो।
 Try to stay awake.	Versuche wach zu bleiben.	जागते रहो का प्रयास करें।
 Turn back, please.	Kehr um, bitte.	कृपया पीछे मुड़ जाएं।
+Turn on the radio.	Schalten Sie das Radio ein.	रेडियो चालू करो।
+Turn to channel 1.	Wechseln Sie zum Kanal 1.	चैनल 1 पर जाएं।
+Turn to the right.	Nach rechts drehen.	दाएं मुड़ो।
+Turtles hibernate.	Schildkröten halten Winterschlaf.	कछुए शीतकालीन नींद में होते हैं।
+Two beers, please.	Zwei Biere, bitte.	कृपया दो बियर दें।
+Use acrylic paint.	Verwenden Sie Acrylfarbe.	ऐक्रिलिक पेंट का इस्तेमाल करें।
+Use it or lose it.	Nutze es oder verliere es.	उसका उपयोग करो या खो दो।
+Use the small one.	Benutzen Sie das Kleine.	छोटे वाला इस्तेमाल करो।

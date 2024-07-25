@@ -1,14 +1,4 @@
 
-Turn on the radio.	Mach das Radio an.	रेडियो बनाओ।
-Turn to channel 1.	Wechsle auf Kanal eins.	चैनल वन में बदलें।
-Turn to the right.	Biege rechts ab!	दांए मुड़िए!
-Turtles hibernate.	Schildkröten halten Winterschlaf.	कछुए हाइबरनेशन रखते हैं।
-Two beers, please.	Zwei Bier, bitte!	कृपया दो बीयर!
-Use acrylic paint.	Benutzen Sie Acrylfarbe.	ऐक्रेलिक पेंट का उपयोग करें।
-Use it or lose it.	Nutze es, oder du verlierst es.	इसका उपयोग करें या आप इसे खो दें।
-Use it or lose it.	Was du nicht nutzt, verlierst du.	आप जो उपयोग नहीं करते हैं उसे खो देते हैं।
-Use it or lose it.	Wer rastet, der rostet!	जो कोई भी आराम करता है वह जंग खा रहा है!
-Use the small one.	Benutze den kleinen.	छोटे का उपयोग करें।
 Venus is a planet.	Die Venus ist ein Planet.	शुक्र एक ग्रह है।
 Wait, don't shoot!	Warte, schieß nicht!	रुको, गोली मत करो!
 Wait, don't shoot!	Wartet, schießt nicht!	रुको, गोली मत करो!
