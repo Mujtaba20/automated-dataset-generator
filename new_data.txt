@@ -8220,3 +8220,7 @@ Can you do this?	Kannst du das hier machen?	क्या आप इसे कर
 Can you find it?	Können Sie es finden?	क्या आप इसे ढूंढ सकते हैं?
 Can you hear it?	Können Sie das hören?	क्या आप यह सुन सकते हैं?
 Can you hear me?	Können Sie mich hören?	क्या आप मुझे सुन सकते हैं?
+Can you hear us?	Können Sie uns hören?	क्या आप हमें सुन सकते हैं?
+Can you help me?	Kannst du mir helfen?	क्या तुम मेरी मदद कर सकते हो?
+Can you help us?	Könnt ihr uns unterstützen?	क्या आप हमें मदद कर सकते हैं?
+Can you open it?	Kannst du es aufmachen?	क्या आप इसे खोल सकते हैं?
