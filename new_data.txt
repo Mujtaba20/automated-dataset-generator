@@ -7164,3 +7164,13 @@ Tom didn't run.	Tom ist nicht gerannt.	टॉम नहीं दौड़ा।
 Tom didn't win.	Tom hat nicht gewonnen.	टॉम नहीं जीता।
 Tom died alone.	Tom starb allein.	टॉम अकेला मर गया।
 Tom died at 65.	Tom starb mit 65.	टॉम 65 साल की आयु में मर गया।
+Tom died happy.	Tom starb glücklich.	टॉम खुश मर गया।
+Tom died there.	Tom starb dort.	टॉम वहाँ मर गया।
+Tom died young.	Tom starb jung.	टॉम जवान मर गया।
+Tom ditched me.	Tom ließ mich im Stich.	टॉम ने मुझे धोखा दिया।
+Tom drank beer.	Tom trank Bier.	टॉम ने बियर पी।
+Tom drank milk.	Tom trank Milch.	टॉम ने दूध पिया।
+Tom drinks milk.	Tom trinkt Milch.	टॉम दूध पीता है।
+Tom draws well.	Tom zeichnet gut.	टॉम अच्छा ड्रा करता है।
+Tom drove away.	Tom fuhr weg.	टॉम चला गया।
+Tom drove fast.	Tom fuhr schnell.	टॉम तेज़ी से चलाया।
