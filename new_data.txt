@@ -7571,3 +7571,11 @@ Tom slapped me.	Tom hat mich geschlagen.	टॉमने मुझे थप्�
 Tom slept late.	Tom hat spät geschlafen.	टॉमने देर सोया।
 Tom smelled it.	Tom hat daran gerochen.	टॉमने इसकी खुशबू महसूस की।
 Tom smells bad.	Tom riecht schlecht.	टॉम गंदा बदबू करता है।
+Tom sounds mad.	Tom klingt wütend.	टॉम गुस्सा दिखा रहा है।
+Tom sounds sad.	Tom klingt traurig.	टॉम उदास लग रहा है।
+Tom stabbed me.	Tom hat mich erstochen.	टॉम ने मुझे छुरा घोंपा।
+Tom started it.	Tom hat damit begonnen.	टॉम ने इसे आरंभ किया।
+Tom stayed put.	Tom blieb ruhig.	टॉम ठिकाने पर रहा।
+Tom stood back.	Tom stand zurück.	टॉम पिछटाया।
+Tom stopped by.	Tom hielt an.	टॉम वहाँ रुका।
+Tom stopped it.	Tom hat es gestoppt.	टॉम ने यह बंद किया।
