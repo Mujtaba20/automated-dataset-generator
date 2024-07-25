@@ -3433,3 +3433,8 @@ Tom objected.2	Tom hatte Einwände.	टॉम असम्मति दर्ज
 Tom panicked.	Tom geriet in Panik.	टॉम घबराया।
 Tom panicked.1	Tom war in Panik.	टॉम आतंकित हुआ।
 Tom panicked.2	Tom bekam Panik.	टॉम को भय हुआ।
+Tom promised.	Tom versprach.	टॉम ने वचन दिया।
+Tom ran away.	Tom rannte weg.	टॉम भागा।
+Tom ran home.	Tom lief nach Hause.	टॉम घर भाग गया।
+Tom relented.	Tom überwand.	टॉम मान गया।
+Tom resigned.	Tom trat zurück.	टॉम ने इस्तीफा दिया।
