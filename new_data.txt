@@ -2989,3 +2989,13 @@ It was empty.	Es war leer.	यह खाली था।
 It was night.	Es war Nacht.	यह रात थी।
 It was white.	Es war weiß.	यह सफेद था।
 It was white. (Different meaning)	Es war hell.	यह गोरा था।
+It will work.	Es wird funktionieren.	यह काम करेगा।
+It works now.	Es funktioniert jetzt.	यह अब काम कर रहा है।
+It'll be hot.	Es wird heiß sein.	यह गर्म होगा।
+It'll happen.	Es wird passieren.	यह होगा।
+It's a curse.	Es ist ein Fluch.	यह एक शाप है।
+It's a fruit.	Es ist eine Frucht.	यह एक फल है।
+It's a glove.	Es ist ein Handschuh.	यह एक दस्ताना है।
+It's a plant.	Es ist eine Pflanze.	यह एक पौधा है।
+It's a steal.	Es ist ein Diebstahl.	यह एक चोरी है।
+It's at home.	Es ist zu Hause.	यह घर पर है।
