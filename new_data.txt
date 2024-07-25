@@ -12844,3 +12844,11 @@ I'm all for that.	Ich bin ganz dafür.	मैं पूरी तरह से �
 I'm almost blind.	Ich bin fast blind.	मैं लगभग अंधा हूँ।
 I'm already busy.	Ich bin bereits beschäftigt.	मैं पहले से ही व्यस्त हूँ।
 I'm already rich.	Ich bin bereits reich.	मैं पहले से ही धनवान हूँ।
+I'm always moody.	Ich bin immer launisch.	मैं हमेशा उदास रहती हूँ.
+I'm always right.	Ich habe immer recht.	मैं हमेशा सही होता हूँ.
+I'm always tired.	Ich bin immer müde.	मैं हमेशा थका हुआ रहता हूँ.
+I'm ambidextrous.	Ich bin beidhändig begabt.	मैं दोनों हाथों से महारत रखता/रखती हूँ.
+I'm an ex-marine.	Ich bin ein ehemaliger Marine.	मैं एक पूर्व मरीन हूँ.
+I'm an old woman.	Ich bin eine alte Frau.	मैं एक बुढ़ी औरत हूँ.
+I'm avoiding Tom.	Ich meide Tom.	मैं टॉम से बच रहा हूँ.
+I'm awfully lazy.	Ich bin furchtbar faul.	मैं भयानक सुस्त हूँ.
