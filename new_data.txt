@@ -6078,3 +6078,12 @@ I just guessed.	Ich habe nur geraten.	मैंने सिर्फ अनु�
 I just met Tom.	Ich habe Tom gerade kennengelernt.	मैंने अभी तक टॉम से मुलाकात की है।
 I just met him.	Ich habe ihn gerade getroffen.	मैंने उससे अभी हाल ही में मिला।
 I just saw Tom.	Ich habe Tom gerade gesehen.	मैंने अभी तक टॉम को देखा है।
+I keep a diary.	Ich führe ein Tagebuch.	मैं एक डायरी रखता हूँ।
+I kept my word.	Ich habe mein Versprechen gehalten.	मैंने अपना अभिवादन किया।
+I kept running.	Ich bin weitergelaufen.	मैंने दौड़ना जारी रखा।
+I kept the dog.	Ich habe den Hund behalten.	मैंने कुत्ते को रखा।
+I know it well.	Ich kenne es gut.	मैं इसे अच्छे से जानता हूँ।
+I know the boy.	Ich kenne den Jungen.	मैं लड़के को जानता हूँ।
+I know the way.	Ich kenne den Weg.	मैं रास्ता जानता हूँ।
+I know who won.	Ich weiß, wer gewonnen hat.	मुझे पता है कौन जीता।
+I learn French.	Ich lerne Französisch.	मैं फ्रेंच सीख रहा हूँ।
