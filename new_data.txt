@@ -5111,3 +5111,11 @@ Tom recovered.	Tom hat sich erholt.	टॉम ठीक हो गया।
 Tom remembers.	Tom erinnert sich.	टॉम याद करता है।
 Tom runs fast.	Tom läuft schnell.	टॉम जल्दी भागता है।
 Tom rushed in.	Tom drängte hinein.	टॉम जल्दी में घुस गया।
+Tom said that.	Tom sagte das auch.	टॉम ने ऐसा कहा।
+Tom sat alone.	Tom saß alleine.	टॉम अकेले बैठा था।
+Tom scares me.	Tom erschreckt mich.	टॉम मुझे डराता है।
+Tom set me up.	Tom hat mich reingeritten.	टॉम ने मुझे फंसा दिया।
+Tom shot Mary.	Tom hat auf Mary geschossen.	टॉम ने मैरी पर गोली चलाई।
+Tom staggered.	Tom taumelte.	टॉम डगमगाया।
+Tom succeeded.	Tom hatte Erfolg.	टॉम सफल रहा।
+Tom taught me.	Tom hat mich unterrichtet.	टॉम ने मुझे सिखाया।
