@@ -15937,3 +15937,9 @@ He asked for help.	Er bat um Hilfe.	उसने मदद के लिए प�
 He became furious.	Er wurde wütend.	उसने बहुत गुस्सा किया।
 He began to sweat.	Er begann zu schwitzen.	उसने पसीना छोड़ना शुरू किया।
 He blackmailed me.	Er erpresste mich.	उसने मुझसे ब्लैकमेल किया।
+He blocked my way.	Er blockierte meinen Weg.	उसने मेरा रास्ता रोक दिया।
+He bought a Honda.	Er kaufte einen Honda.	उसने एक होंडा खरीदा।
+He bowed his head.	Er senkte den Kopf.	उसने सिर झुकाया।
+He broke his word.	Er hat sein Versprechen gebrochen.	उसने अपना वादा तोड़ दिया।
+He broke my heart.	Er brach mir das Herz.	उसने मेरा दिल तोड़ दिया।
+He came about two.	Er kam etwa zwei.	वह लगभग दो आया।
