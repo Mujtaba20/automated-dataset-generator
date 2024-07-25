@@ -19346,3 +19346,13 @@ Tom was shivering.	Tom zitterte.	टॉम कांप रहा था।
 Tom was skeptical.	Tom war skeptisch.	टॉम संदेहपूर्ण था।
 Tom was strangled.	Tom war erdrosselt.	टॉम को गला घोटा या दबाया गया था।
 Tom was surprised.	Tom war überrascht.	टॉम हैरान था।
+Tom was suspended.	Tom wurde suspendiert.	टॉम को निलंबित कर दिया गया था।
+Tom was talkative.	Tom war redselig.	टॉम बातूनी था।
+Tom was the first.	Tom war der Erste.	टॉम पहला था।
+Tom was trembling.	Tom zitterte.	टॉम कांप रहा था।
+Tom was unmarried.	Tom war unverheiratet.	टॉम अविवाहित था।
+Tom was very busy.	Tom war sehr beschäftigt.	टॉम बहुत व्यस्त था।
+Tom was very good.	Tom war sehr gut.	टॉम बहुत अच्छा था।
+Tom was very late.	Tom war sehr spät.	टॉम बहुत देर से था।
+Tom was very mean.	Tom war sehr gemein.	टॉम बहुत कठोर था।
+Tom was very poor.	Tom war sehr arm.	टॉम बहुत गरीब था।
