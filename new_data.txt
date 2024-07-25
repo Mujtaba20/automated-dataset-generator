@@ -2844,3 +2844,13 @@ I'm bluffing.	Ich bluffe.	मैं धोखा दे रहा हूँ।
 I'm busy now.	Ich bin jetzt beschäftigt.	मैं अभी व्यस्त हूँ।
 I'm creative.	Ich bin kreativ.	मैं रचनात्मक हूँ।
 I'm diabetic.	Ich bin Diabetiker.	मैं मधुमेह संबंधी हूँ।
+I'm divorced.	Ich bin geschieden.	मैं तलाकशुदा हूँ।
+I'm doing OK.	Mir geht es gut.	मैं ठीक हूं।
+I'm drowning.	Ich ertrinke.	मैं डूब रहा हूँ।
+I'm drowning. 2	Ich bin im Begriff zu ertrinken.	मैं डूबने के रास्ते में हूँ।
+I'm dyslexic.	Ich bin Legastheniker.	मुझे डिस्लेक्सिया है।
+I'm dyslexic. 2	Ich leide an Legasthenie.	मैं डिस्लेक्सिया से पीड़ित हूं।
+I'm eighteen.	Ich bin achtzehn.	मैं अठारह साल का हूँ।
+I'm eighteen. 2	Ich bin volljährig.	मैं बालिग हूं।
+I'm escaping.	Ich entkomme.	मैं भाग रहा हूँ।
+I'm expected.	Ich werde erwartet.	मेरी उम्मीद है।
