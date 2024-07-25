@@ -13078,3 +13078,9 @@ Isn't that sweet?	Ist das nicht süß?	क्या वह मिठा नह�
 Isn't this great?	Ist das nicht großartig?	क्या यह शानदार नहीं है?
 It almost worked.	Es hat fast funktioniert.	यह लगभग काम कर गया।
 It began to rain.	Es begann zu regnen.	बारिश होने लगी।
+It began to snow.	Es begann zu schneien.	यह बर्फ गिरने लगी।
+It belongs to us.	Es gehört uns.	यह हमारा है।
+It can't be done.	Es kann nicht gemacht werden.	यह किया नहीं जा सकता।
+It can't be true.	Es kann nicht wahr sein.	यह सच नहीं हो सकता।
+It costs 2 euros.	Es kostet 2 Euro.	यह 2 यूरो का मूल्य है।
+It could be true.	Es könnte wahr sein.	यह सच हो सकता है।
