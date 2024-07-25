@@ -20685,3 +20685,8 @@ Have fun in Boston.	Viel Spaß in Boston haben.	बॉस्टन में म
 Have fun with that.	Viel Spaß damit haben.	उसके साथ मज़ा करो।
 Have fun, you guys.	Viel Spaß, Leute.	मज़ा करो, तुम लोग।
 Have lunch with me.	Mittagessen mit mir haben.	मेरे साथ लंच करो।
+Have we met before?	Haben wir uns schon einmal getroffen?	क्या हमने पहले मिले थे?
+Have you eaten yet?	Hast du schon gegessen?	क्या तुमने अभी तक खाना खाया है?
+Have you ever lost?	Hast du jemals verloren?	क्या तुमने कभी हारी है?
+Have you fired Tom?	Hast du Tom gefeuert?	क्या तुमने टॉम को नौकरी से निकाल दिया है?
+Have you gone nuts?	Bist du verrückt geworden?	क्या तुम पागल हो गए हो?

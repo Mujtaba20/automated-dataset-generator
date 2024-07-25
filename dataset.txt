@@ -1,15 +1,4 @@
 
-Have we met before?	Haben wir uns schon mal getroffen?	क्या हम कभी मिले हैं?
-Have you eaten yet?	Hast du schon gegessen?	क्या तुमने पहले ही खा लिया है?
-Have you eaten yet?	Habt ihr schon gegessen?	क्या आपने पहले से खाया है?
-Have you eaten yet?	Haben Sie schon gegessen?	क्या तुमने पहले ही खा लिया है?
-Have you ever lost?	Hast du jemals einen Verlust erlitten?	क्या आपको कभी कोई नुकसान हुआ है?
-Have you ever lost?	Hast du schon einmal verloren?	क्या आप कभी हार गए हैं?
-Have you ever lost?	Haben Sie schon einmal verloren?	क्या आप कभी हार गए हैं?
-Have you ever lost?	Habt ihr schon einmal verloren?	क्या आप कभी हार गए हैं?
-Have you fired Tom?	Hast du Tom gefeuert?	क्या आपने टॉम को निकाल दिया?
-Have you gone nuts?	Sag mal, bist du noch zu retten?	कहते हैं, क्या आप अभी भी बचाने के लिए हैं?
-Have you gone nuts?	Sind Sie wahnsinnig geworden?	क्या आप पागल हो गए?
 Have you had lunch?	Hast du schon zu Mittag gegessen?	क्या आपने पहले ही दोपहर का भोजन किया है?
 Have you had lunch?	Haben Sie schon zu Mittag gegessen?	क्या आपने पहले ही दोपहर का भोजन किया है?
 Have you had lunch?	Habt ihr schon zu Mittag gegessen?	क्या आपने पहले ही दोपहर का भोजन किया है?
