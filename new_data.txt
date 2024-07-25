@@ -15332,3 +15332,9 @@ You blew it, Tom.	Du hast es vermasselt, Tom.	तुमने इसे फु�
 You can all help.	Ihr könnt alle helfen.	तुम सब मदद कर सकते हो।
 You can look now.	Du kannst jetzt schauen.	तुम अब देख सकते हो।
 You can stop now.	Du kannst jetzt aufhören.	तुम अब रुक सकते हो।
+You can trust me.	Du kannst mir vertrauen.	तुम मुझ पर भरोसा कर सकते हो।
+You can't escape.	Du kannst nicht entkommen.	तुम बच नहीं सकते।
+You can't go now.	Du kannst jetzt nicht gehen.	तुम अभी नहीं जा सकते।
+You can't go yet.	Du kannst noch nicht gehen.	तुम अभी भी नहीं जा सकते।
+You can't say no.	Du kannst nicht nein sagen.	तुम नहीं कह सकते 'ना'।
+You convinced me.	Du hast mich überzeugt.	तुमने मुझे विश्वास दिलाया।
