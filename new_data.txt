@@ -7948,3 +7948,9 @@ Who caught Tom?	Wer hat Tom gefangen?	तोम को कौन पकड़ा
 Who complained?	Wer hat sich beschwert?	किसने शिकायत की?
 Who did he see?	Wen hat er gesehen?	उसने किसे देखा?
 Who else knows?	Wer weiß noch?	और कौन जानता है?
+Who found them?	Wer hat sie gefunden?	कौन उन्हें ढूंढा?
+Who found this?	Wer hat das gefunden?	कौन इसे ढूंढ निकला?
+Who goes there?	Wer geht da?	कौन वहां जाता है?
+Who has it now?	Wer hat es jetzt?	अब किसके पास है?
+Who helped Tom?	Wer hat Tom geholfen?	किसने टॉम की मदद की?
+Who intervened?	Wer ist eingeschritten?	किसने हस्तक्षेप किया?
