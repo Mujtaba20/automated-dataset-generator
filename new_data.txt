@@ -5959,3 +5959,11 @@ I bought a hat.	Ich habe einen Hut gekauft.	मैंने एक टोपी 
 I broke my arm.	Ich habe mir den Arm gebrochen.	मैंने अपनी बांह तोड़ दी।
 I broke my leg.	Ich habe mir das Bein gebrochen.	मैंने अपनी टांग तोड़ दी।
 I came for Tom.	Ich bin gekommen, um Tom zu sehen.	मैं टॉम को देखने आया था।
+I came for you.	Ich bin für dich gekommen.	मैं तुम्हारे लिए आया था।
+I can beat Tom.	Ich kann Tom schlagen.	मैं टॉम को हरा सकता हूँ।
+I can fix that.	Ich kann das reparieren.	मैं वह ठीक कर सकता हूँ।
+I can fix this.	Ich kann das reparieren.	मैं यह ठीक कर सकता हूँ।
+I can hear you.	Ich kann dich hören.	मैं तुम्हें सुन सकता हूँ।
+I can prove it.	Ich kann es beweisen.	मैं इसे साबित कर सकता हूँ।
+I can't get in.	Ich kann nicht rein.	मैं अंदर नहीं जा सकता।
+I can't get up.	Ich kann nicht aufstehen.	मैं उठ नहीं सकता।
