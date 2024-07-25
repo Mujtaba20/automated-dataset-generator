@@ -16815,3 +16815,13 @@ I saw the sunrise.	Ich sah den Sonnenaufgang.	मैंने सूर्यो
 I saw this coming.	Ich habe das kommen sehen.	मुझे यह आते देखा।
 I saw you looking.	Ich habe dich beim Schauen gesehen.	मैंने तुम्हें देखते हुए देखा।
 I saw your father.	Ich sehe deinen Vater.	मैंने तुम्हारे पिताजी को देखा।
+I seem to be lost.	Ich scheine verloren zu sein.	मुझे खो जाने का लगता है।
+I sent her a doll.	Ich schickte ihr eine Puppe.	मैंने उसे एक गुड़िया भेजी।
+I should tell Tom.	Ich sollte Tom sagen.	मुझे टॉम को बताना चाहिए।
+I should think so.	Ich sollte so denken.	मुझे ऐसा लगना चाहिए।
+I shouldn't drink.	Ich sollte nicht trinken.	मुझे पीना नहीं चाहिए।
+I shouldn't worry.	Ich sollte mir keine Sorgen machen.	मुझे चिंता नहीं करनी चाहिए।
+I signed the form.	Ich habe das Formular unterschrieben.	मैंने फॉर्म पर हस्ताक्षर किए।
+I stand corrected.	Ich stehe korrigiert.	मैं सुधारा जाऊं।
+I started working.	Ich habe angefangen zu arbeiten.	मैंने काम शुरू किया।
+I started writing.	Ich begann zu schreiben.	मैंने लिखना शुरू किया।
