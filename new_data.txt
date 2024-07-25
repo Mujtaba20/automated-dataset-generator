@@ -8407,3 +8407,9 @@ Follow that car.	Verfolgen Sie dieses Auto.	उस गाड़ी का पा
 Forget about it.	Vergessen Sie es.	इस बारे में मत सोचो।
 Frogs eat flies.	Frösche fressen Fliegen.	मेंढक मक्खियाँ खाते हैं।
 Get Tom in here.	Bring Tom hierher.	टॉम को अंदर लाओ।
+Get my tool box.	Hol meine Werkzeugkiste.	मेरा उपकरण बॉक्स लेआओ।
+Get off my lawn.	Geh von meinem Rasen.	मेरे गार्डन को छोड़ो।
+Get out of here.	Verschwinde hier.	यहाँ से निकलो।
+Get word to Tom.	Gib Tom Bescheid.	टॉम को संदेश दो।
+Get your mother.	Hol deine Mutter.	अपनी माँ को लाओ।
+Get your things.	Hol deine Sachen.	अपनी वस्तुएं लेलो।
