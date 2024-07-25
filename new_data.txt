@@ -1488,3 +1488,13 @@ Don't go in.	Nicht eintreten.	अंदर मत जाओ।
 Don't laugh.	Nicht lachen.	मत हंसो।
 Don't leave!	Nicht gehen!	मत जाओ!
 Don't panic!	Nicht in Panik geraten!	घबराओ मत!
+Don't panic.	Keine Panik.	घबराओ मत।
+Don't shoot!	Nicht schießen!	गोली मत चलाओ!
+Don't shoot.	Nicht schießen.	गोली मत मारो।
+Don't smile.	Nicht lächeln.	मुस्कान मत करो।
+Don't smile. 2	Nicht lachen.	हंसना मना है।
+Don't stare.	Nicht starren.	ताकत मत करो।
+Don't stare. 2	Nicht glotzen.	टांगना मना है।
+Don't stare. 3	Nicht anstarren.	घूरने मत देखो।
+Don't worry.	Keine Sorge.	चिंता मत करो।
+Don't worry. 2	Mach dir keine Sorgen.	फिकर मत करो।
