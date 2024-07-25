@@ -7129,3 +7129,13 @@ Tom backed off.	Tom zog sich zurück.	टॉम पीछे हट गया।
 Tom barely ate.	Tom aß kaum.	टॉम ने मात्र खाया।
 Tom beat me up.	Tom hat mich geschlagen.	टॉम ने मुझसे पीटा।
 Tom biked home.	Tom ist mit dem Fahrrad nach Hause gefahren.	टॉम घर चला गया।
+Tom brews beer.	Tom braut Bier.	टॉम बियर उबालता है।
+Tom broke down.	Tom brach zusammen.	टॉम गिर गया।
+Tom broke that.	Tom brach das.	टॉम उसे तोड़ दिया।
+Tom called 911.	Tom rief 911 an.	टॉम ने 911 को बुलाया।
+Tom called you.	Tom hat dich angerufen.	टॉम ने तुम्हें बुलाया।
+Tom came alone.	Tom kam alleine.	टॉम अकेला आया।
+Tom came close.	Tom kam näher.	टॉम करीब आया।
+Tom came early.	Tom kam früh.	टॉम जल्दी आ गया।
+Tom came first.	Tom kam als Erster.	टॉम सबसे पहले आया।
+Tom can answer.	Tom kann antworten.	टॉम जवाब दे सकता है।
