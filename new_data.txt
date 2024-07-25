@@ -17694,3 +17694,10 @@ Put on your shoes.	Zieh deine Schuhe an.	अपने जूते पहनो�
 Put out that fire.	Löschen Sie das Feuer.	उस आग को बुझा दो।
 Put out the light.	Mach das Licht aus.	रोशनी बंद करो।
 Put that fire out.	Löschen Sie das Feuer.	उस आग को बुझा दो।
+Put this shawl on.	Zieh diesen Schal an.	इस शॉल पर डालो।
+Put your gun down.	Leg deine Waffe weg.	अपनी बंदूक नीचे रखो।
+Put your hands up!	Hebe die Hände hoch!	हाथ ऊपर उठाओ!
+Quit bothering me.	Hör auf, mich zu stören.	मुझे परेशान करना छोड़ दो।
+Quit wasting time.	Hör auf, Zeit zu verschwenden.	समय बर्बाद करना छोड़ दो।
+Read it once more.	Lies es noch einmal.	इसे एक बार और पढ़ें।
+Read this tonight.	Lies das heute Abend.	आज रात इसे पढ़ो।

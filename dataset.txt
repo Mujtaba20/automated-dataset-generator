@@ -1,14 +1,4 @@
 
-Put this shawl on.	Lege diesen Schal um!	यह दुपट्टा बनाएं!
-Put your gun down.	Legen Sie die Waffe nieder!	हथियार नीचे रखो!
-Put your gun down.	Lege die Waffe nieder!	हथियार नीचे रखो!
-Put your hands up!	Hände hoch!	हाथ ऊपर!
-Quit bothering me.	Hör auf, mich zu belästigen!	मुझे परेशान करना बंद करो!
-Quit bothering me.	Hören Sie auf, mich zu belästigen!	मुझे परेशान करना बंद करो!
-Quit wasting time.	Mach Schluss mit Zeitverschwendung!	समय की बर्बादी ले लो!
-Quit wasting time.	Vergeude keine Zeit!	कोई समय बर्बाद नहीं हुआ!
-Read it once more.	Lies es noch einmal.	इसे फिर से पढ़ो।
-Read this tonight.	Lies das heute Nacht.	आज रात पढ़ें।
 Roses smell sweet.	Rosen duften süß.	गुलाब मीठा गंध।
 Rugs absorb sound.	Teppiche absorbieren Schall.	कालीन ध्वनि को अवशोषित करते हैं।
 Say it in English.	Sag es auf Englisch.	इसे अंग्रेजी में कहे।
