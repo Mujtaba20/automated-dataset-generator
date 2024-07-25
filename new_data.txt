@@ -10226,3 +10226,12 @@ Tom didn't wait.	Tom hat nicht gewartet.	टॉम ने इंतजार न
 Tom died Monday.	Tom starb am Montag.	टॉम की मौत सोमवार को हुई।
 Tom died a hero.	Tom starb als Held.	टॉम ने एक नायक के रूप में मरा।
 Tom died in bed.	Tom starb im Bett.	टॉम ने बिस्तर में मरा।
+Tom disappeared.	Tom ist verschwunden.	टॉम गायब हो गया।
+Tom disgusts me.	Tom ekelt mich.	मुझे टॉम से घृणा है।
+Tom dislikes me.	Tom mag mich nicht.	टॉम को मुझसे नफरत है।
+Tom doesn't lie.	Tom lügt nicht.	टॉम झूठ नहीं बोलता।
+Tom drinks beer.	Tom trinkt Bier.	टॉम बीयर पीता है।
+Tom ducked down.	Tom duckte sich.	टॉम ने नीचे झुका दिया।
+Tom eats slowly.	Tom isst langsam.	टॉम धीरे से खाता है।
+Tom enjoys that.	Tom genießt das.	टॉम का उससे आनंद है।
+Tom exaggerated.	Tom hat übertrieben.	टॉम ने बड़ा बनाया।
