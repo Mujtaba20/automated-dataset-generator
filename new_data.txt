@@ -8242,3 +8242,6 @@ Clear the table.	Räumen Sie den Tisch ab.	मेज साफ करो।
 Close that door.	Schließen Sie die Tür.	उस दरवाजे को बंद करो।
 Close your book.	Machen Sie Ihr Buch zu.	अपनी किताब बंद करो।
 Close your eyes.	Schließe deine Augen.	अपनी आंखें बंद करो।
+Come again soon.	Kommen Sie bald wieder.	जल्दी आइए फिर से।
+Come and get it.	Komm und hol es.	आ और इसे ले जा।
+Come and get me.	Komm und hol mich.	आ और मुझे ले ज.
