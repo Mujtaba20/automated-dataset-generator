@@ -14716,3 +14716,11 @@ Tom was babbling.	Tom redete wirres Zeug.	टॉम गपशप कर रह�
 Tom was barefoot.	Tom war barfuß.	टॉम नंगे पैर था।
 Tom was bleeding.	Tom blutete.	टॉम खून बहा रहा था।
 Tom was bluffing.	Tom blufte.	टॉम ढोंग कर रहा था।
+Tom was bragging.	Tom prahlte.	टॉम डिंग कर रहा था।
+Tom was captured.	Tom wurde gefangen genommen.	टॉम को गिरफ्तार कर लिया गया था।
+Tom was careless.	Tom war unachtsam.	टॉम बेपरवाह था।
+Tom was cautious.	Tom war vorsichtig.	टॉम सतर्क था।
+Tom was charming.	Tom war charmant.	टॉम आकर्षक था।
+Tom was cheating.	Tom betrog.	टॉम धोखा दे रहा था।
+Tom was cheerful.	Tom war fröhlich.	टॉम खुश था।
+Tom was cheering.	Tom jubelte.	टॉम उत्साहित था।
