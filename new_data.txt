@@ -8952,3 +8952,12 @@ I need caffeine.	Ich brauche Koffein.	मुझे कैफीन की आव
 I need help now.	Ich brauche jetzt Hilfe.	मुझे अभी मदद की आवश्यकता है।
 I need his help.	Ich brauche seine Hilfe.	मुझे उसकी मदद चाहिए।
 I need it today.	Ich brauche es heute.	मुझे आज यह चाहिए।
+I need my boots.	Ich brauche meine Stiefel.	मुझे मेरी बूट्स की जरुरत है।
+I need somebody.	Ich brauche jemanden.	मुझे किसी की आवश्यकता है।
+I need the keys.	Ich brauche die Schlüssel.	मुझे कुंजीयाँ चाहिए।
+I need this job.	Ich brauche diesen Job.	मुझे यह नौकरी चाहिए।
+I need to focus.	Ich muss mich konzentrieren.	मुझे ध्यान केंद्रित करने की आवश्यकता है।
+I need to relax.	Ich muss mich entspannen.	मुझे आराम करने की आवश्यकता है।
+I need to shave.	Ich muss mich rasieren.	मुझे चरण करने की आवश्यकता है।
+I never do that.	Das mache ich nie.	मैं कभी ऐसा नहीं करता।
+I never give up.	Ich gebe niemals auf.	मैं कभी हार नहीं मानता।
