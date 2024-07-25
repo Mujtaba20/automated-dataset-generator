@@ -18482,3 +18482,12 @@ Tom gave me a pen.	Tom hat mir einen Stift gegeben.	टॉम ने मुझ�
 Tom gets up early.	Tom steht früh auf.	टॉम जल्दी उठता है।
 Tom giggled again.	Tom kicherte wieder.	टॉम फिर से हँस पड़ा।
 Tom gladly agreed.	Tom stimmte gerne zu.	टॉम खुशी-खुशी सहमत हुआ।
+Tom got a haircut.	Tom hat sich die Haare schneiden lassen.	टॉम ने बाल कटवाए।
+Tom got a new job.	Tom hat einen neuen Job bekommen.	टॉम को नौकरी मिली।
+Tom got depressed.	Tom wurde deprimiert.	टॉम उदास हो गया।
+Tom got evaluated.	Tom wurde bewertet.	टॉम की मूल्यांकन की गई।
+Tom got here late.	Tom ist hier zu spät angekommen.	टॉम यहाँ देर से पहुँचा।
+Tom got impatient.	Tom wurde ungeduldig.	टॉम अधीर हो गया।
+Tom got mad at me.	Tom wurde wütend auf mich.	टॉम मुझसे नाराज हो गया।
+Tom got sunburned.	Tom hat einen Sonnenbrand bekommen.	टॉम को सूर्य ताप हुआ।
+Tom got suspended.	Tom wurde suspendiert.	टॉम का निलंबित कर दिया गया।

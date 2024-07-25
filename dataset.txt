@@ -1,14 +1,4 @@
 
-Tom got a haircut.	Tom hat sich die Haare schneiden lassen.	टॉम ने अपने बाल काट लिए हैं।
-Tom got a new job.	Tom hat eine neue Stelle.	टॉम के पास एक नया काम है।
-Tom got depressed.	Tom wurde deprimiert.	टॉम उदास था।
-Tom got evaluated.	Tom wurde bewertet.	टॉम को रेट किया गया था।
-Tom got here late.	Tom kam hierher zu spät an.	टॉम बहुत देर से यहां पहुंचे।
-Tom got impatient.	Tom wurde ungeduldig.	टॉम अधीर हो गया।
-Tom got mad at me.	Tom wurde sauer auf mich.	टॉम मुझसे नाराज हो गया।
-Tom got sunburned.	Tom bekam einen Sonnenbrand.	टॉम को एक सनबर्न मिला।
-Tom got sunburned.	Tom hat Sonnenbrand bekommen.	टॉम को सनबर्न मिला।
-Tom got suspended.	Tom wurde suspendiert.	टॉम को निलंबित कर दिया गया था।
 Tom got the prize.	Tom bekam den Preis.	टॉम को कीमत मिली।
 Tom got very busy.	Tom bekam sehr viel zu tun.	टॉम को बहुत कुछ मिला।
 Tom got very sick.	Tom wurde sehr krank.	टॉम बहुत बीमार हो गया।
