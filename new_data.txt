@@ -1388,3 +1388,9 @@ We're at home.	Wir sind zu Hause.	हम घर पर हैं।
 We're late.	Wir sind spät.	हम देर से आ रहे हैं।
 engSentence	{"We're lazy.": 'Wir sind faul.', "We're rich.": 'Wir sind reich.', "We're safe.": 'Wir sind sicher.', "We're sick.": 'Wir sind krank.', "We're weak.": 'Wir sind schwach.', 'What gives?': 'Was ist los?', 'What gives? different translation': 'Was ist los?', 'What is it?': 'Was ist es?', 'What is it? different translation': 'Was ist es?', "What's new?": "Was gibt's Neues?"}	{"We're lazy.": 'हम आलसी हैं।', "We're rich.": 'हम धनवान हैं।', "We're safe.": 'हम सुरक्षित हैं।', "We're sick.": 'हम बीमार हैं।', "We're weak.": 'हम कमजोर हैं।', 'What gives?': 'क्या हो रहा है?', 'What gives? different translation': 'क्या हो रहा है?', 'What is it?': 'यह क्या है?', 'What is it? different translation': 'यह क्या है?', "What's new?": 'क्या नया है?'}
 engSentence	{'Where am I?': 'Wo bin ich?', 'Who are we?': 'Wer sind wir?', 'Who did it?': 'Wer hat das gemacht?', 'Who has it?': 'Wer hat es?', 'Who is she?': 'Wer ist sie?', 'Who phoned?': 'Wer hat angerufen?'}	{'Where am I?': 'मैं कहाँ हूँ?', 'Who are we?': 'हम कौन हैं?', 'Who did it?': 'किसने यह किया?', 'Who has it?': 'किसके पास है?', 'Who is she?': 'वह कौन है?', 'Who phoned?': 'किसने फोन किया?'}
+Who saw me?	Wer sah mich?	कौन मुझे देखा?
+Who stayed?	Wer blieb?	कौन रहा?
+Who talked?	Wer sprach?	कौन बोला?
+Who was it?	Wer war es?	यह कौन था?
+Who yelled?	Wer hat gebrüllt?	कौन चिल्लाया?
+Who's here?	Wer ist hier?	कौन यहाँ है?
