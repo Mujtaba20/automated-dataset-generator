@@ -10490,3 +10490,13 @@ Tom is stranded.	Tom ist gestrandet.	टॉम अविचलित है।
 Tom is stubborn.	Tom ist hartnäckig.	टॉम दृढ़ता पूर्वक काम करता है।
 Tom is studious.	Tom ist fleißig.	टॉम पठनशील है।
 Tom is studying.	Tom studiert.	टॉम पढ़ाई कर रहा है।
+Tom is suicidal.	Tom ist suizidal.	टॉम आत्महत्यावादी है।
+Tom is sweating.	Tom schwitzt.	टॉम पसीना रहा है।
+Tom is swimming.	Tom schwimmt.	टॉम तैर रहा है।
+Tom is tactless.	Tom ist taktlos.	टॉम अकुशल है।
+Tom is talented.	Tom ist talentiert.	टॉम प्रतिभाशाली है।
+Tom is terminal.	Tom ist terminal.	टॉम सीमांत है।
+Tom is terrible.	Tom ist schrecklich.	टॉम भयानक है।
+Tom is terrific.	Tom ist fantastisch.	टॉम शानदार है।
+Tom is thinking.	Tom denkt nach.	टॉम सोच रहा है।
+Tom is thirteen.	Tom ist dreizehn.	टॉम तेरह साल का है।
