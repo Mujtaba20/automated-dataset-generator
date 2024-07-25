@@ -1,14 +1,4 @@
 
-Do you have a plan?	Hast du einen Plan?	क्या आपकी एक योजना है?
-Do you have a plan?	Habt ihr einen Plan?	क्या आपकी एक योजना है?
-Do you have a plan?	Haben Sie einen Plan?	क्या आपकी एक योजना है?
-Do you have a wife?	Hast du eine Ehefrau?	क्या तुम्हारे पास एक पत्नी है?
-Do you have a wife?	Hast du einen Ehepartner?	क्या आपके पास जीवनसाथी है?
-Do you have a wife?	Hast du eine Frau?	क्या तुम्हारे पास एक पत्नी है?
-Do you have any ID?	Haben Sie irgendeinen Ausweis?	क्या आपके पास कोई आईडी है?
-Do you have apples?	Hast du Äpfel?	क्या आपके पास सेब हैं?
-Do you have apples?	Habt ihr Äpfel?	क्या आपके पास सेब हैं?
-Do you have apples?	Haben Sie Äpfel?	क्या आपके पास सेब हैं?
 Do you know French?	Sprichst du Französisch?	क्या आप फ़्रेंच बोलते हैं?
 Do you like Boston?	Gefällt es dir in Boston?	क्या आप इसे बोस्टन में पसंद करते हैं?
 Do you like Boston?	Gefällt es Ihnen in Boston?	क्या आप इसे बोस्टन में पसंद करते हैं?

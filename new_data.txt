@@ -20416,3 +20416,7 @@ Do you have a blog?	Haben Sie einen Blog?	क्या आपके पास �
 Do you have a book?	Haben Sie ein Buch?	क्या आपके पास एक किताब है?
 Do you have a comb?	Hast du einen Kamm?	क्या आपके पास एक कंघी है?
 Do you have a copy?	Hast du eine Kopie?	क्या आपके पास एक कॉपी है?
+Do you have a plan?	Hast du einen Plan?	क्या आपके पास कोई योजना है?
+Do you have a wife?	Haben Sie eine Frau?	क्या आपके पास पत्नी है?
+Do you have any ID?	Hast du einen Ausweis?	क्या आपके पास कोई पहचान पत्र है?
+Do you have apples?	Haben Sie Äpfel?	क्या आपके पास सेब हैं?
