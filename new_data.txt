@@ -19589,3 +19589,9 @@ We should be fine.	Wir sollten in Ordnung sein.	हमें ठीक होन
 We tried our best.	Wir haben unser Bestes versucht.	हमने अपनी सबसे अच्छी कोशिश की।
 We understand why.	Wir verstehen warum.	हम समझते हैं क्यों।
 We waited for Tom.	Wir haben auf Tom gewartet.	हमने टॉम का इंतजार किया।
+We want our money.	Wir wollen unser Geld.	हमें हमारा पैसा चाहिए।
+We want to see it.	Wir wollen es sehen.	हम इसे देखना चाहते हैं।
+We wanted dessert.	Wir wollten Nachtisch.	हमें मिठाई चाहिए थी।
+We went to Boston.	Wir sind nach Boston gegangen.	हम बॉस्टन गए।
+We were all tired.	Wir waren alle müde.	हम सभी थक गए थे।
+We were all wrong.	Wir lagen alle falsch.	हम सभी गलत थे।

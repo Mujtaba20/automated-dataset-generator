@@ -1,14 +1,4 @@
 
-We want our money.	Wir wollen unser Geld.	हम अपना पैसा चाहते हैं।
-We want to see it.	Wir wollen es sehen.	हम इसे देखना चाहते हैं।
-We want to see it.	Wir wollen ihn sehen.	हम उसे देखना चाहते हैं।
-We wanted dessert.	Wir wollten Nachtisch.	हम मिठाई चाहते थे।
-We went to Boston.	Wir gingen nach Boston.	हम बोस्टन गए।
-We went to Boston.	Wir sind nach Boston gegangen.	हम बोस्टन गए।
-We went to Boston.	Wir fuhren nach Boston.	हम बोस्टन चले गए।
-We went to Boston.	Wir sind nach Boston gefahren.	हम बोस्टन गए।
-We were all tired.	Wir waren alle müde.	हम सब थक गए थे।
-We were all wrong.	Wir lagen alle falsch.	हम सब गलत थे।
 We were gardening.	Wir haben im Garten gearbeitet.	हमने बगीचे में काम किया।
 We were in Boston.	Wir waren in Boston.	हम बोस्टन में थे।
 We were incorrect.	Wir hatten unrecht.	हम गलत थे।
