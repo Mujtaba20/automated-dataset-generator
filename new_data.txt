@@ -13406,3 +13406,10 @@ Nobody likes Tom.	Niemand mag Tom.	कोई टॉम को पसंद न�
 Nobody likes her.	Niemand mag sie.	कोई उसे पसंद नहीं करता।
 Nobody likes war.	Niemand mag Krieg.	कोई जंग पसंद नहीं करता।
 Nobody loves war.	Niemand liebt Krieg.	किसी को जंग से प्यार नहीं है।
+Nobody must know.	Niemand darf es wissen.	कोई नहीं जान सकता।
+Nobody remembers.	Niemand erinnert sich.	कोई नहीं याद करता।
+Nobody said that.	Niemand hat das gesagt.	किसी ने ऐसा नहीं कहा।
+Nobody taught me.	Niemand hat mich unterrichtet.	किसी ने मुझे सिखाया नहीं।
+Nobody wants Tom.	Niemand will Tom.	किसी को टॉम चाहिए।
+Nobody warned me.	Niemand hat mich gewarnt.	किसी ने मुझे चेतावनी नहीं दी।
+Nobody warned us.	Niemand hat uns gewarnt.	किसी ने हमें चेतावनी नहीं दी।
