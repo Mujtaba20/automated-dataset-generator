@@ -12128,3 +12128,12 @@ Hey, wait for me.	Hey, warte auf mich.	अरे, मेरा इंतजा�
 Hey, wait for me. (Different meaning)	Hey, warte mal.	हे, मेरे इंतजार में रहो।
 Hey, what's that?	Hey, was ist das?	हे, वह क्या है?
 Hey, what's that? (Different meaning)	Hey, was war das?	हे, वह क्या था?
+Hey, what's this?	Hey, was ist das?	अरे, यह क्या है?
+Hey, where's Tom?	Hey, wo ist Tom?	अरे, टॉम कहां है?
+His eyes widened.	Seine Augen weiteten sich.	उसकी आंखें फैल गईं।
+His name was Tom.	Sein Name war Tom.	Uska naam Tom tha.
+His wife was mad.	Seine Frau war verrückt.	उसकी पत्नी पागल थी।
+Hold on a minute.	Warten Sie eine Minute.	एक मिनट रुकिए।
+Hold on a moment.	Warten Sie einen Moment.	एक पल रुकिए।
+Hold on a second.	Warten Sie eine Sekunde.	एक सेकंड रुकिए।
+Hold your horses.	Beruhigen Sie sich.	अपनी घोड़ी संभालो।
