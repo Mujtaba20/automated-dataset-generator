@@ -8432,3 +8432,10 @@ Go back outside.	Geh nach draußen zurück.	बाहर वापस जाओ�
 Go get your car.	Geh und hol dein Auto.	अपनी कार लेकर आओ।
 Go home quickly.	Geh schnell nach Hause.	जल्दी घर जाओ।
 Go out and play.	Geh raus und spiel.	बाहर जाओ और खेलो।
+Go to sleep now.	Geh jetzt schlafen.	अब सो जाओ।
+Go to work, Tom.	Geh zur Arbeit, Tom.	तोम, काम पर जाओ।
+Go to your room.	Geh in dein Zimmer.	अपने कमरे में जाओ।
+Go wait outside.	Geh nach draußen und warte.	बाहर जाओ और इंतजार करो।
+Good night, Tom.	Gute Nacht, Tom.	शुभ रात्रि, टॉम।
+Great, isn't it?	Toll, oder?	बढ़िया है, ना?
+Green suits you.	Grün passt zu dir.	हरा तुम्हें अच्छा लगता है।
