@@ -17673,3 +17673,11 @@ Please don't jump.	Bitte spring nicht.	कृपया कूद मतें।
 Please forgive me.	Bitte vergib mir.	कृपया मुझे माफ करें।
 Please inform Tom.	Bitte informiere Tom.	कृपया टॉम को सूचित करें।
 Please keep quiet.	Bitte sei ruhig.	कृपया शांत रहें।
+Please let me pay.	Bitte lassen Sie mich bezahlen.	कृपया मुझे भुगतान करने दें।
+Please look at me.	Bitte schau mich an.	कृपया मुझे देखें।
+Please look at me. (repeated with different translation)	Bitte schau mich an.	कृपया मेरी दिशा में देखें।
+Please reconsider.	Bitte überdenken Sie.	कृपया पुनर्विचार करें।
+Please replace it.	Bitte ersetzen Sie es.	कृपया इसे बदल दें।
+Please step aside.	Bitte treten Sie beiseite.	कृपया रास्ता फ्री करें।
+Please step aside. (repeated with different translation)	Bitte treten Sie beiseite.	कृपया पीछे हटें।
+Please stop lying.	Bitte hör auf zu lügen.	कृपया झूठ बोलना बंद करो।

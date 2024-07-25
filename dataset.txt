@@ -1,15 +1,4 @@
 
-Please let me pay.	Lass mich bitte zahlen!	कृपया मुझे भुगतान करें!
-Please look at me.	Bitte schau mich an.	कृपया मुझे देखें।
-Please look at me.	Bitte schaut mich an.	कृपया मुझे देखें।
-Please look at me.	Bitte schauen Sie mich an.	कृपया मेरी ओर एक नज़र डालें।
-Please reconsider.	Überleg es dir noch mal!	इसके बारे में फिर से सोचें!
-Please replace it.	Bitte tauschen Sie es aus.	कृपया इसका आदान -प्रदान करें।
-Please step aside.	Bitte gehen Sie beiseite.	कृपया एक तरफ जाएं।
-Please step aside.	Bitte geht beiseite.	कृपया एक तरफ जाएं।
-Please step aside.	Bitte geh beiseite.	कृपया एक तरफ जाएं।
-Please stop lying.	Bitte hör mit dem Lügen auf.	कृपया झूठ बोलना बंद करें।
-Please stop lying.	Bitte unterlassen Sie es zu lügen!	कृपया झूठ बोलने में विफल!
 Please wrap it up.	Bitte einpacken.	कृपया पैक करें।
 Please wrap it up.	Packen Sie es bitte ein.	कृपया इसे शामिल करें।
 Please wrap it up.	Packe es bitte ein.	कृपया इसे पैक करें।
