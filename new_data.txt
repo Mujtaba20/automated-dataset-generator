@@ -16346,3 +16346,10 @@ I couldn't get it.	Ich konnte es nicht bekommen.	मुझे यह नही�
 I couldn't refuse.	Ich konnte nicht ablehnen.	मैं मना नहीं कर सका।
 I couldn't say no.	Ich konnte nicht nein sagen.	मैं नहीं कह सका।
 I cried all night.	Ich weinte die ganze Nacht.	मैंने पूरी रात रोते रहा।
+I danced with Tom.	Ich habe mit Tom getanzt.	मैंने टॉम के साथ नाचा।
+I deleted the app.	Ich habe die App gelöscht.	मैंने एप्लिकेशन को हटा दिया।
+I demand a refund.	Ich fordere eine Erstattung.	मैं याचिका करता हूँ वापसी की।
+I deserved better.	Ich habe Besseres verdient.	मुझे बेहतर होना चाहिए था।
+I did Tom a favor.	Ich habe Tom einen Gefallen getan.	मैंने टॉम के लिए एक उपकार किया।
+I did it for them.	Ich habe es für sie getan.	मैंने उनके लिए किया था।
+I didn't break it.	Ich habe es nicht zerbrochen.	मैं इसे तोड़ा नहीं।
