@@ -9749,3 +9749,9 @@ Parties bore me.	Partys langweilen mich.	पार्टियाँ मुझ�
 Pass me the pen.	Gib mir den Stift.	पेन मुझे दो।
 Peel the orange.	Schäle die Orange.	संतरे को छीलो।
 People like Tom.	Die Leute mögen Tom.	लोग टॉम को पसंद करते हैं।
+Place your bets.	Platzieren Sie Ihre Wetten.	अपना दांव रखें।
+Please be quiet!	Bitte sei leise!	कृपया शांत रहें!
+Please be quiet.	Sei bitte ruhig.	कृपया शांत रहें।
+Please call Tom.	Bitte rufen Sie Tom an.	कृपया टॉम को बुलाएं।
+Please call him.	Bitte rufen Sie ihn an.	कृपया उसे बुलाएं।
+Please continue.	Bitte fahren Sie fort.	कृपया जारी रखें।
