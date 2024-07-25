@@ -15102,3 +15102,13 @@ We're successful.	Wir sind erfolgreich.	हम सफल हैं।
 We're surrounded.	Wir sind umgeben.	हम घेरे हुए हैं।
 We're taking off.	Wir starten durch.	हम उड़ान भर रहे हैं।
 We're the owners.	Wir sind die Besitzer.	हम मालिक हैं।
+We're undressing.	Wir ziehen uns aus.	हम अदम्य हैं।
+We're unemployed.	Wir sind arbeitslos.	हम बेरोजगार हैं।
+We're untalented.	Wir sind untalentiert.	हम अकुशल हैं।
+We're very lucky.	Wir haben sehr viel Glück.	हम बहुत भाग्यशाली हैं।
+We're very sorry.	Es tut uns sehr leid.	हम बहुत खेदवान हैं।
+We've done worse.	Wir haben Schlimmeres getan.	हमने बुरा किया है।
+We've got enough.	Wir haben genug.	हमारे पास पर्याप्त है।
+We've located it.	Wir haben es gefunden.	हमने इसे ढूंढ निकाला है।
+We've missed you.	Wir haben dich vermisst.	हमें तुम्हारी याद आई।
+We've seen worse.	Wir haben Schlimmeres gesehen.	हमने बुरी स्थिति देखी है।
