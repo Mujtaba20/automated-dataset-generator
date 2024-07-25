@@ -1,14 +1,4 @@
 
-She has many dogs.	Sie hat viele Hunde.	उसके कई कुत्ते हैं।
-She has nice legs.	Sie hat hübsche Beine.	उसके बहुत पैर हैं।
-She hates carrots.	Sie hasst Karotten.	वह गाजर से नफरत करती है।
-She hates running.	Sie hasst es, zu rennen.	वह दौड़ने से नफरत करती है।
-She heard him cry.	Sie hat ihn weinen gehört.	उसने उसे रोते हुए सुना।
-She heard him cry.	Sie hörte ihn weinen.	उसने उसे रोते हुए सुना।
-She heard him cry.	Sie hat ihn weinen hören.	उसने उसे रोते हुए सुना।
-She is aggressive.	Sie ist aggressiv.	यह आक्रामक है।
-She is attractive.	Sie ist attraktiv.	यह आकर्षक है।
-She is dear to me.	Sie ist mir lieb und teuer.	वह मेरे लिए अच्छी और महंगी है।
 She is getting on.	Sie macht weiter.	वह जारी है।
 She is her friend.	Sie ist ihre Freundin.	वह उसकी दोस्त है।
 She is his friend.	Sie ist seine Freundin.	वह उसकी प्रेमिका है।

@@ -17732,3 +17732,11 @@ She has a bicycle.	Sie hat ein Fahrrad.	उसके पास एक साइ�
 She has a picture.	Sie hat ein Bild.	उसके पास एक तस्वीर है।
 She has blue eyes.	Sie hat blaue Augen.	उसके पास नीली आंखें हैं।
 She has long hair.	Sie hat lange Haare.	उसके पास लंबे बाल हैं।
+She has many dogs.	Sie hat viele Hunde.	उसके पास कई कुत्ते हैं।
+She has nice legs.	Sie hat schöne Beine.	उसकी पसंदीदा टांगें हैं।
+She hates carrots.	Sie hasst Karotten.	उसको गाजर से नफरत है।
+She hates running.	Sie hasst Laufen.	उसे दौड़ने से नफरत है।
+She heard him cry.	Sie hörte ihn weinen.	उसने उसे विलाप करते हुए सुना।
+She is aggressive.	Sie ist aggressiv.	वह हमलावर मनोवृत्ति वाली है।
+She is attractive.	Sie ist attraktiv.	वह आकर्षक है।
+She is dear to me.	Sie ist mir lieb.	वह मेरे लिए प्यारी है।
