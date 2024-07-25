@@ -11113,3 +11113,12 @@ We're all going.	Wir gehen alle.	हम सभी जा रहे हैं।
 We're all going. - meaning: We're all leaving for the party.	Wir gehen jetzt los.	हम सभी पार्टी के लिए निकल रहे हैं।
 We're all happy.	Wir sind alle glücklich.	हम सभी खुश हैं।
 We're all happy. - meaning: We're all satisfied with the outcome.	Wir sind mit dem Ergebnis zufrieden.	हम सभी परिणाम से संतुष्ट हैं।
+We're all right.	Wir haben alle recht.	हम सभी ठीक हैं।
+We're all sorry.	Es tut uns leid.	हम सभी खेदगीत हैं।
+We're available.	Wir sind verfügbar.	हम उपलब्ध हैं।
+We're back home.	Wir sind zu Hause.	हम वापस घर पहुंचे हैं।
+We're both fine.	Wir sind beide in Ordnung.	हम दोनों ठीक हैं।
+We're busy, Tom.	Wir sind beschäftigt, Tom.	हम व्यस्त हैं, टॉम।
+We're coming in.	Wir kommen herein.	हम अंदर आ रहे हैं।
+We're confident.	Wir sind zuversichtlich.	हम आत्मविश्वासी हैं।
+We're desperate.	Wir sind verzweifelt.	हम निराश हैं।
