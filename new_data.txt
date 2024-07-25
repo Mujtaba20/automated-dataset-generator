@@ -3388,3 +3388,13 @@ Tom is clever.	Tom ist schlau.	टॉम चतुर है।
 Tom is short.	Tom ist klein.	टॉम छोटा है।
 Tom is silly.	Tom ist albern.	टॉम मूर्ख है।
 Tom is small.	Tom ist klein.	टॉम छोटा है।
+Tom is smart.	Tom ist klug.	टॉम बुद्धिमान है।
+Tom is sorry.	Tom tut mir leid.	टॉम दुखी है।
+Tom is stoic.	Tom ist stoisch.	टॉम स्ततू बना हुआ है।
+Tom is sweet.	Tom ist süß.	टॉम प्यारा है।
+Tom is there.	Tom ist da.	टॉम वहां है।
+Tom is present.	Tom ist anwesend.	टॉम उपस्थित है।
+Tom is tipsy.	Tom ist angetrunken.	टॉम थोड़ा नशे में है।
+Tom is upset.	Tom ist verärgert.	टॉम उदास है।
+Tom is despondent.	Tom ist verzweifelt.	टॉम निराश है।
+Tom is vague.	Tom ist vage.	टॉम अस्पष्ट है।
