@@ -6437,3 +6437,12 @@ I'm not a fool.	Ich bin nicht dumm.	मैं बेवकूफ नहीं �
 I'm not a hero.	Ich bin kein Held.	मैं कोई नायक नहीं हूँ।
 I'm not a poet.	Ich bin keine Dichterin.	मैं कोई कवयित्री नहीं हूँ।
 I'm not asleep.	Ich schlafe nicht.	मैं सोया नहीं हूँ।
+I'm not biased.	Ich bin nicht voreingenommen.	मैं पक्षपाती नहीं हूँ।
+I'm not coming.	Ich komme nicht.	मैं नहीं आ रहा हूँ।
+I'm not crying.	Ich weine nicht.	मैं नहीं रो रहा हूँ।
+I'm not family.	Ich bin nicht Familie.	मैं परिवार नहीं हूँ।
+I'm not famous.	Ich bin nicht berühmt.	मैं मशहूर नहीं हूँ।
+I'm not guilty.	Ich bin nicht schuldig.	मैं दोषी नहीं हूँ।
+I'm not hiding.	Ich verstecke mich nicht.	मैं छिपा नहीं हूँ।
+I'm not hungry.	Ich bin nicht hungrig.	मुझे भूख नहीं है।
+I'm not joking.	Ich mache keinen Spaß.	मैं मजाक नहीं कर रहा हूँ।
