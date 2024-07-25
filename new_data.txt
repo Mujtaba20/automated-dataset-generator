@@ -14537,3 +14537,13 @@ Tom must be sick.	Tom muss krank sein.	टॉम बीमार होना �
 Tom must've died.	Tom muss gestorben sein.	टॉम की मौत हो गई होगी।
 Tom must've left.	Tom muss gegangen sein.	टॉम चला गया होगा।
 Tom needed money.	Tom brauchte Geld.	टॉम को पैसे की जरुरत थी।
+Tom needed space.	Tom brauchte Platz.	टॉम को जगह चाहिए थी।
+Tom needed water.	Tom brauchte Wasser.	टॉम को पानी चाहिए था।
+Tom needs a bath.	Tom braucht ein Bad.	टॉम को स्नान की आवश्यकता है।
+Tom needs a coat.	Tom braucht einen Mantel.	टॉम को एक कोट की आवश्यकता है।
+Tom needs a taxi.	Tom braucht ein Taxi.	टॉम को एक टैक्सी की आवश्यकता है।
+Tom never called.	Tom hat nie angerufen.	टॉम कभी नहीं कहा।
+Tom never cheats.	Tom betrügt nie.	टॉम कभी धोखा नहीं देता।
+Tom never curses.	Tom flucht nie.	टॉम कभी कुर्सी नहीं देता।
+Tom never forgot.	Tom hat nie vergessen.	टॉम कभी नहीं भूला।
+Tom never laughs.	Tom lacht nie.	टॉम कभी हँसता नहीं है।
