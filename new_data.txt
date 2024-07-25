@@ -12293,3 +12293,12 @@ I do what I want.	Ich mache, was ich will.	मैं वह करता हू�
 I don't allow it.	Ich erlaube es nicht.	मैं इसकी अनुमति नहीं देता।
 I don't buy that.	Das kaufe ich nicht.	मैं इसे खरीदना नहीं चाहता।
 I don't disagree.	Ich stimme nicht zu.	मैं असहमत हूँ।
+I don't eat fish.	Ich esse keinen Fisch.	मैं मछली नहीं खाता।
+I don't eat meat.	Ich esse kein Fleisch.	मैं मांस नहीं खाता।
+I don't eat much.	Ich esse nicht viel.	मैं ज्यादा नहीं खाता।
+I don't eat rice.	Ich esse keinen Reis.	मैं चावल नहीं खाता।
+I don't envy her.	Ich beneide sie nicht.	मैं उसकी ईर्ष्या नहीं करता।
+I don't envy him.	Ich beneide ihn nicht.	मैं उसकी ईर्ष्या नहीं करता।
+I don't envy you.	Ich beneide dich nicht.	मैं तुम्हारी ईर्ष्या नहीं करता।
+I don't envy you. (different meaning)	Ich bin nicht neidisch auf dich.	मैं तुम पर ईर्ष्या नहीं करता।
+I don't get this.	Ich verstehe das nicht.	मुझे यह समझ में नहीं आता।
