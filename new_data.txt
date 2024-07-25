@@ -9876,3 +9876,8 @@ Stop whimpering.	Hör auf zu wimmern.	रोना बंद करो।
 Summer has come.	Der Sommer ist gekommen.	गर्मी आ गई है।
 Sweep the floor.	Fegen Sie den Boden.	फर्श साफ करो।
 Take Tom inside.	Nimm Tom mit rein.	टॉम को अंदर ले जाओ।
+Take an aspirin.	Nimm eine Aspirin.	एक एस्पिरीन लो।
+Take everything.	Nimm alles.	सब कुछ लो।
+Take no chances.	Kein Risiko eingehen.	कोई चांस न लेना।
+Take your pills.	Nimm deine Pillen.	अपनी गोलियाँ लो।
+Talk to me, Tom.	Sprich mit mir, Tom.	मेरे साथ बात करो, टॉम।
