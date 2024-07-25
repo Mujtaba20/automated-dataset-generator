@@ -983,3 +983,10 @@ I envy him.	Ich beneide ihn.	मैं उसे ईर्ष्या करत
 I feel bad.	Ich fühle mich schlecht.	मुझे बुरा लग रहा है।
 I feel old.	Ich fühle mich alt.	मुझे बूढ़ा महसूस हो रहा है।
 I fixed it.	Ich habe es behoben.	मैंने इसे सुधार दिया।
+I found it.	Ich habe es entdeckt.	मैंने यह खोजा।
+I got an A.	Ich habe ein A bekommen.	मैंने एक A प्राप्त किया।
+I got cold.	Mir ist kalt geworden.	मुझे ठंड लग गई।
+I had help.	Ich hatte Hilfe.	मेरी मदद हुई थी।
+I hate Tom.	Ich hasse Tom.	मुझे टॉम से नफरत है।
+I have one.	Ich habe eins.	मेरे पास एक है।
+I have won.	Ich habe gewonnen.	मैंने जीत ली है।
