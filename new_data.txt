@@ -8623,3 +8623,11 @@ How silly of me!	Wie dumm von mir!	मैं कितना मुर्ख ह
 How small is it?	Wie klein ist es?	यह कितना छोटा है?
 How unfortunate!	Wie unglücklich!	यह दुर्भाग्यपूर्ण है!
 How will it end?	Wie wird es enden?	यह कैसे समाप्त होगा?
+How'd you do it?	Wie hast du das gemacht?	तुमने इसे कैसे किया?
+How're we doing?	Wie machen wir das?	हम कैसे कर रहे हैं?
+How's Tom today?	Wie geht es Tom heute?	आज टॉम कैसा है?
+How's it coming?	Wie kommt es?	यह कैसे आ रहा है?
+How's the apple?	Wie ist der Apfel?	सेब कैसा है?
+How's the water?	Wie ist das Wasser?	पानी कैसा है?
+How's your cold?	Wie geht es dir bei deiner Erkältung?	तुम्हारे जुकाम कैसा है?
+How's your knee?	Wie geht es deinem Knie?	तुम्हारी गुटनी कैसी है?
