@@ -7663,3 +7663,4 @@ Tom was square.	Tom war eckig.	टॉम वर्ग का था।
 Tom was stoned.	Tom war bekifft.	टॉम नशे में था।
 Tom was strong.	Tom war stark.	टॉम मजबूत था।
 Tom was stupid.	Tom war dumm.	टॉम बेवकूफ था।
+engSentence		
