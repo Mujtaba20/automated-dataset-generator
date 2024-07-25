@@ -5692,3 +5692,8 @@ Don't stop him.	Halten Sie ihn nicht auf.	उसे रोकना मत।
 Don't tell Tom.	Erzähl Tom nicht.	टॉम को मत बताओ।
 Don't tempt me.	Versuch mich nicht.	मुझे प्रलोभन मत दो।
 Don't touch it.	Berühre es nicht.	उसे छूने मत जाना।
+Don't touch me!	Berühr mich nicht!	मुझे छू मत!
+Don't touch me.	Fass mich nicht an.	मुझे मत छूना।
+Don't watch TV.	Schau kein Fernsehen.	टीवी मत देखो।
+Don't you know?	Weißt du nicht?	तुम्हें पता नहीं है?
+Eat everything.	Iss alles.	सब कुछ खा लो।
