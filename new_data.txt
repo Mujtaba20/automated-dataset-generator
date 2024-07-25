@@ -8117,3 +8117,13 @@ About what time?	Um welche Zeit?	किस समय के बारे मे�
 All are present.	Alle sind anwesend.	सभी मौजूद हैं।
 All were silent.	Alle waren still.	सभी चुप थे।
 Am I alone here?	Bin ich allein hier?	क्या मैं यहाँ अकेला हूँ?
+Am I boring you?	Langweile ich dich?	क्या मैं बोर कर रहा हूँ?
+Am I boring you?_1	Langweile ich dich?	क्या मैं उबाऊ हूँ?
+Am I boring you?_2	Langweile ich dich?	क्या मैं बोर कर रहा हूँ?
+Am I in the way?	Stehe ich im Weg?	क्या मैं रास्ते में हूँ?
+Am I understood?	Verstehst du mich?	क्या मैं समझा जा रहा हूँ?
+Any suggestions?	Irgendwelche Vorschläge?	कोई सुझाव?
+Anybody will do.	Jeder wird es tun.	कोई भी चलेगा।
+Are drinks free?	Sind Getränke frei?	क्या पेय मुफ्त हैं?
+Are ghosts real?	Gibt es Geister?	क्या भूत होते हैं?
+Are my ears red?	Sind meine Ohren rot?	क्या मेरे कान लाल हैं?
