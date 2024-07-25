@@ -845,3 +845,9 @@ Can I come? - Different Meaning	Darf ich kommen?	क्या मैं आ स�
 Can I help?	Kann ich helfen?	क्या मैं मदद कर सकता हूँ?
 Can I help? - Different Meaning	Kann ich behilflich sein?	क्या मैं सहायता कर सकता हूँ?
 Can I sing?	Kann ich singen?	क्या मैं गा सकता हूँ?
+Can I stay?	Kann ich bleiben?	क्या मैं रुक सकता हूँ?
+Carry this.	Trage das.	इसे उठाओ।
+Check that.	Überprüfen Sie das.	उसे जांचें।
+Check this.	Überprüfen Sie das.	यह देखें।
+Choose one.	Wählen Sie eine.	एक चुनो।
+Come again.	Komm nochmal.	फिर से आना।
