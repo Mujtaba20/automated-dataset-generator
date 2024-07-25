@@ -20537,3 +20537,11 @@ Don't patronize me.	Gehen Sie nicht auf mich herab.	मुझपर न छो�
 Don't play with me.	Spiel nicht mit mir.	मेरे साथ नहीं खेलना।
 Don't pressure Tom.	Dränge Tom nicht.	टॉम पर दबाव न डालो।
 Don't say anything.	Sprich nichts aus.	कुछ मत कहो।
+Don't say his name.	Sag nicht seinen Namen.	उसका नाम मत लो।
+Don't say it again.	Sag es nicht nochmal.	फिरसे मत कहो।
+Don't say too much.	Sag nicht zu viel.	बहुत मत बोलो।
+Don't say too much. (Different meaning)	Sag es nicht allzu oft.	बहुत बार मत कहना।
+Don't smoke in bed.	Rauche nicht im Bett.	बिस्तर में धूम्रपान न करें।
+Don't stop playing.	Hör nicht auf zu spielen.	खेलना मत रोको।
+Don't talk rubbish.	Rede keinen Unsinn.	बकवास मत करो।
+Don't talk rubbish. (Different meaning)	Sprich keinen Müll.	बकवास मत बोलो।
