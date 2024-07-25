@@ -16034,3 +16034,11 @@ He is sure to win.	Er wird sicher gewinnen.	वह जीतने के लि
 He is trustworthy.	Er ist vertrauenswürdig.	वह भरोसेमंद है।
 He is unrealistic.	Er ist unrealistisch.	वह अवास्तविक है।
 He is very honest.	Er ist sehr ehrlich.	वह बहुत ईमानदार है।
+He is watching TV.	Er schaut fern.	वह टीवी देख रहा है।
+He isn't a smoker.	Er ist kein Raucher.	वह धूम्रपानी नहीं है।
+He isn't here now.	Er ist jetzt nicht hier.	वह अभी यहाँ नहीं है।
+He isn't here yet.	Er ist noch nicht hier.	वह अभी यहाँ नहीं है।
+He just texted me.	Er hat mir gerade eine SMS geschrieben.	उसने मुझे अब-अभी संदेश भेजा है।
+He keeps his word.	Er hält sein Versprechen.	वह अपने वचनों का पालन करता है।
+He keeps two cats.	Er hält zwei Katzen.	उसके पास दो बिल्‍ली हैं।
+He kept on crying.	Er weinte weiter.	वह रोना नहीं बंद किया।
