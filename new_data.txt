@@ -14855,3 +14855,10 @@ Tom will sue you.	Tom wird dich verklagen.	टॉम तुम पर कान�
 Tom will survive.	Tom wird überleben.	टॉम जीवित रहेगा।
 Tom will take it.	Tom wird es nehmen.	टॉम यह लेगा।
 Tom will tell us.	Tom wird uns sagen.	टॉम हमें बताएगा।
+Tom winked at me.	Tom zwinkerte mir zu.	टॉम ने मुझे इशारा किया।
+Tom won a trophy.	Tom hat einen Pokal gewonnen.	टॉम ने एक ट्रॉफी जीती।
+Tom won the race.	Tom hat das Rennen gewonnen.	टॉम ने दौड़ जीती।
+Tom won't answer.	Tom wird nicht antworten.	टॉम जवाब नहीं देगा।
+Tom won't change.	Tom wird sich nicht ändern.	टॉम नहीं बदलेगा।
+Tom won't listen.	Tom wird nicht zuhören.	टॉम सुनेगा नहीं।
+Tom won't notice.	Tom wird nicht bemerken.	टॉम को ध्यान नहीं नहीं पड़ेगा।
