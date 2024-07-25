@@ -13816,3 +13816,12 @@ They were closed.	Sie waren geschlossen.	वे बंद थे।
 They were hungry.	Sie hatten Hunger.	उन्हें भूख लगी थी।
 They were skiing.	Sie waren beim Skifahren.	वे स्की कर रहे थे।
 They will return.	Sie kehren zurück.	वे वापस आयेंगे।
+They work for me.	Sie arbeiten für mich.	वे मेरे लिए काम करते हैं।
+They'd like that.	Das würden sie mögen.	उसे पसंद आएगा।
+They'll find Tom.	Sie werden Tom finden.	वे टॉम को ढूंढेंगे।
+They'll find her.	Sie werden sie finden.	उन्हें ढूंढ लेंगे।
+They'll find him.	Sie werden ihn finden.	वे उसे ढूंढेंगे।
+They'll find you.	Sie werden dich finden.	वे तुम्हें ढूंढेंगे।
+They'll remember.	Sie werden sich erinnern.	वे याद रखेंगे।
+They'll want Tom.	Sie werden Tom wollen.	वे टॉम को चाहेंगे।
+They'd like that. (different meaning)	Das würden sie gerne machen.	उसे पसंद होगा।
