@@ -15143,3 +15143,11 @@ What a nightmare!	Was für ein Albtraum!	कितना डरावना स�
 What a nightmare!_1	Was für ein Horror!	यह कौन सा डरावना सपना है!
 What a smart guy!	Was für ein schlauer Kerl!	कितना स्मार्ट आदमी है!
 What caused that?	Was hat das verursacht?	इसका कारण क्या है?
+What caused this?	Was hat dies verursacht?	यह किसने प्रेरित किया?
+What causes this?	Was verursacht dies?	यह क्या कारण है?
+What could I say?	Was könnte ich sagen?	मैं क्या कह सकता हूँ?
+What did Tom eat?	Was hat Tom gegessen?	टॉम ने क्या खाया था?
+What did Tom get?	Was hat Tom bekommen?	टॉम को क्या मिला?
+What did it cost?	Was hat es gekostet?	इसकी कितनी कीमत थी?
+What did she say?	Was hat sie gesagt?	उसने क्या कहा?
+What did they do?	Was haben sie gemacht?	उन्होंने क्या किया?
