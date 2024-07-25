@@ -3624,3 +3624,9 @@ Who is there?	Wer ist da?	कौन है वहाँ?
 Who listened?	Wer hat zugehört?	किसने सुना?
 Who panicked?	Wer geriet in Panik?	किसने घबराया?
 Who saw what?	Wer hat was gesehen?	किसने क्या देखा?
+Who sent you?	Wer hat dir geschickt?	तुम्हें किसने भेजा?
+Who survived?	Wer hat überstanden?	कौन बच गया?
+Who told Tom?	Wer hat Tom erzählt?	किसने टॉम को बताया?
+Who vanished?	Wer ist verschwunden?	कौन गायब हो गया?
+Who wants it?	Wer will es?	किसे चाहिए?
+Who was here?	Wer war hier?	कौन यहाँ था?
