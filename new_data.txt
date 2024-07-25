@@ -8308,3 +8308,11 @@ Do you know her?	Kennst du sie?	क्या तुम्हें उसे प
 Do you eat meat?1	Essen Sie Fleisch?	क्या आप मांस खाते हैं?
 Do you have one?1	Haben Sie eins?	क्या आपके पास एक है?
 Do you know her?1	Kennen Sie sie?	क्या आप उसे जानते हैं?
+Do you know him?	Kennst du ihn?	क्या तुम उसे जानते हो?
+Do you know how?	Weißt du wie?	क्या तुम जानते हो कैसे?
+Do you know why?	Weißt du warum?	क्या तुम जानते हो क्यों?
+Do you like rap?	Magst du Rap?	क्या तुम्हें रैप पसंद है?
+Do you like tea?	Magst du Tee?	क्या तुम्हें चाय पसंद है?
+Do you love her?	Liebst du sie?	क्या तुम्हें उससे प्यार है?
+Do you remember?	Erinnerst du dich?	क्या तुम्हें याद है?
+Do you see that?	Siehst du das?	क्या तुम वह देख रहे हो?
