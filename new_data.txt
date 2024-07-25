@@ -14691,3 +14691,11 @@ Tom trusted them.	Tom hat ihnen vertraut.	टॉम ने उन पर भर�
 Tom turned right.	Tom bog rechts ab.	टॉम दाहिना मुड़ लिया।
 Tom turned white.	Tom wurde weiß.	टॉम सफेद हो गया।
 Tom usually wins.	Tom gewinnt normalerweise.	टॉम अक्सर जीतता है।
+Tom visited Mary.	Tom besuchte Maria.	टॉम ने मेरी को देखा।
+Tom voted for it.	Tom hat dafür gestimmt.	टॉम ने इसके लिए मत दिया।
+Tom waited there.	Tom wartete dort.	टॉम वहाँ रुका था।
+Tom walked ahead.	Tom ging voraus.	टॉम आगे चला गया।
+Tom walked alone.	Tom ging allein.	टॉम अकेला चला।
+Tom walks slowly.	Tom geht langsam.	टॉम धीरे चलता है।
+Tom wandered off.	Tom wanderte ab.	टॉम भटक गया।
+Tom wanted money.	Tom wollte Geld.	टॉम को पैसे चाहिए थे।
