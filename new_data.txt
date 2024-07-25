@@ -6311,3 +6311,13 @@ I wasn't lying.	Ich habe nicht gelogen.	मैं झूठ नहीं बो�
 I wasn't ready.	Ich war nicht bereit.	मैं तैयार नहीं था।
 I wasn't there.	Ich war nicht dort.	मैं वहाँ नहीं था।
 I wear glasses.	Ich trage eine Brille.	मैं चश्मा पहनता हूँ।
+I went fishing.	Ich bin angeln gegangen.	मैं मछली पकड़ने गया था।
+I will prosper.	Ich werde gedeihen.	मैं सफल होऊंगा।
+I will sue you.	Ich werde dich verklagen.	मैं तुम्हें दावा दूंगा।
+I will sue you. 	Ich werde Sie verklagen.	मैं तुम्हें दावा देने के लिए जाऊंगा।
+I will survive.	Ich werde überleben.	मैं जीवित रहूंगा।
+I will take it.	Ich werde es nehmen.	मैं इसे लूंगा।
+I won't forget.	Ich werde nicht vergessen.	मैं भूल नहीं जाऊंगा।
+I won't return.	Ich werde nicht zurückkehren.	मैं वापस नहीं आऊंगा।
+I work at home.	Ich arbeite von zu Hause aus.	मैं घर पर काम करता हूँ।
+I worked at it.	Ich habe daran gearbeitet.	मैंने इस पर काम किया था।
