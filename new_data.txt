@@ -13511,3 +13511,12 @@ She has dry hair.	Sie hat trockenes Haar.	उसके बाल सूखे �
 She has gone out.	Sie ist ausgegangen.	उसने बाहर चला गया है।
 She idolized him.	Sie verehrte ihn.	उसने उसकी पूजा की।
 She insulted him.	Sie hat ihn beleidigt.	उसने उसे अपमानित किया।
+She is Ethiopian.	Sie ist Äthiopierin.	वह इथियोपियाई है।
+She is a student.	Sie ist Studentin.	वह एक छात्रा है।
+She is a teacher.	Sie ist Lehrerin.	वह एक शिक्षिका है।
+She is an expert.	Sie ist eine Expertin.	वह विशेषज्ञ है।
+She is beautiful.	Sie ist schön.	वह ख़ूबसूरत है।
+She is easygoing.	Sie ist locker.	वह आसानी से मिलनेवाली है।
+She is mad at me.	Sie ist sauer auf mich.	वह मुझसे नाराज़ है।
+She is not young.	Sie ist nicht jung.	वह जवान नहीं है।
+She is obstinate.	Sie ist stur.	वह जिद्दी है।
