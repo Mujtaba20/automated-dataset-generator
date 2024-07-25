@@ -20110,3 +20110,10 @@ You owe me a beer.	Du schuldest mir ein Bier.	तुम्हें मुझस
 You owe me a kiss.	Du schuldest mir einen Kuss.	तुम्हें मुझसे एक चुंबन चाहिए।
 You read too much.	Du liest zu viel.	तुम बहुत ज्यादा पढ़ते हो।
 You saved my hide.	Du hast mein Leben gerettet.	तुमने मेरी जान बचाई।
+You saved my life.	Du hast mein Leben gerettet.	तुमने मेरी जिंदगी बचा ली।
+You seem confused.	Du scheinst verwirrt zu sein.	तुमको उलझन महसूस हो रही है।
+You seem stressed.	Du scheinst gestresst zu sein.	तुमको तनाव महसूस हो रहा है।
+You should go now.	Du solltest jetzt gehen.	तुम्हें अब जाना चाहिए।
+You should resign.	Du solltest zurücktreten.	तुम्हें इस्तीफा देना चाहिए।
+You should go now. (Different Meaning)	Du solltest jetzt losgehen.	तुम्हें अब चले जाना चाहिए।
+You should resign. (Different Meaning)	Du solltest abdanken.	तुम्हें अपना पद छोड़ना चाहिए।

@@ -1,16 +1,4 @@
 
-You saved my life.	Sie haben mir das Leben gerettet.	आप मेरी जान बचाई।
-You seem confused.	Sie machen einen verwirrten Eindruck.	वे एक भ्रमित छाप बनाते हैं।
-You seem stressed.	Du scheinst unter Stress zu stehen.	आप तनाव में हैं।
-You seem stressed.	Sie scheinen unter Stress zu stehen.	वे तनाव में लग रहे हैं।
-You should go now.	Du solltest nun gehen.	अब आपको जाना चाहिए।
-You should go now.	Du solltest jetzt gehen.	अब आपको जाना चाहिए।
-You should resign.	Du solltest zurücktreten!	आपको नीचे कदम रखना चाहिए!
-You should resign.	Du solltest abdanken!	आपको एक नज़र रखना चाहिए!
-You should resign.	Sie sollten zurücktreten!	आपको नीचे कदम रखना चाहिए!
-You should resign.	Ihr solltet zurücktreten!	आपको नीचे कदम रखना चाहिए!
-You should resign.	Ihr solltet abdanken!	आपको ले जाना चाहिए!
-You should resign.	Sie sollten abdanken!	आपको एक नज़र रखना चाहिए!
 You should try it.	Du solltest es ausprobieren.	आपको इसे आज़माना चाहिए।
 You smell so nice.	Du riechst so gut.	आपकी खुशबू बहुत अच्छी है.
 You sound nervous.	Ihr klingt nervös.	आप घबराए हुए हैं।
