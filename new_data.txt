@@ -12086,3 +12086,12 @@ He's in my class.	Er ist in meiner Klasse.	वह मेरी कक्षा �
 He's in the well.	Er ist im Brunnen.	वह कुएं में है।
 He's intelligent.	Er ist intelligent.	वह बुद्धिमान है।
 He's just a liar.	Er ist nur ein Lügner.	वह सिर्फ झूठा है।
+He's kind of shy.	Er ist ein bisschen schüchtern.	वह थोड़ा शर्मीला है।
+He's new in town.	Er ist neu in der Stadt.	वह शहर में नया है।
+He's not my type.	Er ist nicht mein Typ.	वह मेरे प्रकार का नहीं है।
+He's not perfect.	Er ist nicht fehlerlos.	वह अदृश्य नहीं है।
+He's open-minded.	Er ist offen.	वह खुले दिमाग वाला है।
+He's over thirty.	Er ist über dreißig.	वह तीस के पार है।
+He's ready to go.	Er ist bereit zu gehen.	वह जाने के लिए तैयार है।
+He's stark naked.	Er ist splitternackt.	वह पूरी नंगा है।
+He's still alive.	Er ist immer noch am Leben.	वह अभी तक जीवित है।
