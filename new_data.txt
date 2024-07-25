@@ -6781,3 +6781,12 @@ No one cheated.	Niemand hat betrogen.	किसी ने धोखा नही
 No one is home.	Niemand ist zu Hause.	कोई घर पर नहीं है।
 No one knew it.	Niemand wusste es.	किसी को यह पता नहीं था।
 No one laughed.	Niemand hat gelacht.	किसी ने हंसना नहीं था।
+No one saw Tom.	Niemand hat Tom gesehen.	किसी ने भी टॉम को नहीं देखा।
+No one shouted.	Niemand hat geschrien.	किसी ने आवाज नहीं उठाई।
+No one told me.	Niemand hat mir gesagt.	किसी ने मुझे नहीं बताया।
+No one told me. (different meaning)	Niemand hat es mir erklärt.	किसी ने मुझे यह बताया।
+Nobody laughed.	Niemand hat gelacht.	कोई भी हंसा नहीं।
+Nobody listens.	Niemand hört zu.	कोई नहीं सुनता।
+Nobody saw Tom.	Niemand hat Tom gesehen.	कोई ने टॉम को नहीं देखा।
+Nobody told me.	Niemand hat mir gesagt.	किसी ने मुझे नहीं बताया।
+Nobody told me. (different meaning)	Niemand hat es mir erklärt.	किसी ने मुझे यह बताया।
