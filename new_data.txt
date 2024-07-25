@@ -3378,3 +3378,13 @@ Tom is obese.	Tom ist fettleibig.	टॉम ज्यादा भारी ह�
 Tom is older.	Tom ist älter.	टॉम पुराने हैं।
 Tom is picky.	Tom ist wählerisch.	टॉम काम है।
 Tom is pushy.	Tom ist aufdringlich.	टॉम पुराने हैं।
+Tom is quiet.	Tom ist ruhig.	टॉम शांत है।
+Tom is ready.	Tom ist bereit.	टॉम तैयार है।
+Tom is right.	Tom hat recht.	टॉम सही है।
+Tom is correct.	Tom ist korrekt.	टॉम सही है।
+Tom is scary.	Tom ist unheimlich.	टॉम डरावना है।
+Tom is sharp.	Tom ist scharf.	टॉम तेज़ है।
+Tom is clever.	Tom ist schlau.	टॉम चतुर है।
+Tom is short.	Tom ist klein.	टॉम छोटा है।
+Tom is silly.	Tom ist albern.	टॉम मूर्ख है।
+Tom is small.	Tom ist klein.	टॉम छोटा है।
