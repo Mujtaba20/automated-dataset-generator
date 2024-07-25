@@ -2447,3 +2447,6 @@ Can you walk?	Kannst du gehen?	क्या आप चल सकते हैं
 Come and see.	Komm und sieh.	आओ और देखो।
 Come at once.	Komm sofort.	तुरंत आओ।
 Come back in.	Komm zurück rein.	अंदर वापस आओ।
+Come forward.	Komm nach vorne.	आगे आओ।
+Come help me.	Komm mir helfen.	मेरी मदद करो।
+Come in, Tom.	Komm herein, Tom.	अंदर आओ, टॉम।
