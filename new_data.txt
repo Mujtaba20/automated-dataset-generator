@@ -3243,3 +3243,11 @@ They saw Tom.	Sie sahen Tom.	उन्होंने टॉम को देख
 They saw Tom. (Different meaning)	Sie stellten Tom fest.	उन्होंने टॉम को पहचाना।
 They saw you.	Sie sahen dich.	उन्होंने तुम्हें देखा।
 They stopped.	Sie hörten auf.	उन्होंने रुक गए।
+They sweated.	Sie schwitzten.	उन्होंने पसीना बहाया।
+They want me.	Sie wollen mich.	उन्हें मुझे चाहिए।
+They'll come.	Sie werden kommen.	वे आएंगे।
+They'll fail.	Sie werden scheitern.	वे विफल होंगे।
+They'll grow.	Sie werden wachsen.	वे बढ़ेंगे।
+They'll know.	Sie werden wissen.	वे जानेंगे।
+They're back.	Sie sind zurück.	वे वापस हैं।
+They're blue.	Sie sind blau.	वे नीले हैं।
