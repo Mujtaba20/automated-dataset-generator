@@ -6111,3 +6111,12 @@ I like reading.	Ich mag Lesen.	मुझे पढ़ना पसंद है�
 I like running.	Ich mag Laufen.	मुझे दौड़ना पसंद है।
 I like running. (Different meaning)	Ich mag Laufen.	मुझे दोड़ना पसंद है।
 I like sashimi.	Ich mag Sashimi.	मुझे साशिमी पसंद है।
+I like seafood.	Ich mag Meeresfrüchte.	मुझे समुद्री भोजन पसंद है।
+I like singing.	Ich liebe es zu singen.	मैं गाने का आनंद लेता हूँ।
+I like spinach.	Ich mag Spinat.	मुझे पालक पसंद है।
+I like stories.	Ich mag Geschichten.	मुझे कहानियाँ पसंद हैं।
+I like talking.	Ich mag es zu reden.	मुझे बात करना पसंद है।
+I like the dog.	Ich mag den Hund.	मुझे कुत्ता पसंद है।
+I like the sun.	Ich mag die Sonne.	मुझे सूर्य पसंद है।
+I like to cook.	Ich koche gerne.	मुझे खाना पकाना पसंद है।
+I like to fish.	Ich gehe gerne angeln.	मुझे मछलियाँ पकड़ना पसंद है।
