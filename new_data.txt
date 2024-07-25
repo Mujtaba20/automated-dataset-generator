@@ -6486,3 +6486,12 @@ I'm very sorry.	Es tut mir sehr leid.	मुझे बहुत खेद है
 I'm very tired.	Ich bin sehr müde.	मैं बहुत थका हुआ हूँ।
 I'm very upset.	Ich bin sehr verärgert.	मैं बहुत नाराज़ हूँ।
 I'm wide awake.	Ich bin hellwach.	मैं पूरी तरह से जागरूक हूँ।
+I've been seen.	Ich wurde gesehen.	मुझे देखा गया है।
+I've been shot.	Ich wurde angeschossen.	मुझपर गोली चला दी गई है।
+I've found Tom.	Ich habe Tom gefunden.	मैंने टॉम को खोज लिया है।
+I've got a job.	Ich habe einen Job.	मेरे पास नौकरी है।
+I've got money.	Ich habe Geld.	मेरे पास पैसे हैं।
+I've got plans.	Ich habe Pläne.	मेरे पास योजनाएं हैं।
+I've got proof.	Ich habe Beweise.	मेरे पास सबूत हैं।
+I've lost hope.	Ich habe die Hoffnung verloren.	मैंने उम्मीद खो दी है।
+I've made stew.	Ich habe Eintopf zubereitet.	मैंने स्टू बनाया है।
