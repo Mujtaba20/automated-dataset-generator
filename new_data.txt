@@ -4022,3 +4022,10 @@ I can do that.	Ich kann das tun.	मैं वह कर सकता हूँ�
 I can do this.	Ich kann das tun.	मैं यह कर सकता हूँ।
 I can feel it.	Ich kann es fühlen.	मैं इसे महसूस कर सकता हूँ।
 I can see Tom.	Ich kann Tom sehen.	मुझे टॉम दिखाई दे रहा है।
+I can't do it.	Ich kann das nicht machen.	मैं इसे नहीं कर सकता।
+I can't drive.	Ich kann nicht fahren.	मैं गाड़ी नहीं चला सकता।
+I can't go on.	Ich kann nicht weitermachen.	मैं और नहीं जा सकता।
+I can't leave.	Ich kann nicht gehen.	मैं नहीं रह सकता।
+I can't sleep.	Ich kann nicht schlafen.	मैं सो नहीं सकता।
+I can't smoke.	Ich kann nicht rauchen.	मैं धूम्रपान नहीं कर सकता।
+I can't stand.	Ich kann nicht stehen.	मैं खड़ा नहीं हो सकता।
