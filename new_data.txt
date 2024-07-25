@@ -6302,3 +6302,12 @@ I was so happy.	Ich war so glücklich.	मैं इतना खुश था�
 I was sweating.	Ich schwitzte.	मैं पसी था।
 I was too fast.	Ich war zu schnell.	मैं बहुत तेज था।
 I was tortured.	Ich wurde gefoltert.	मुझे पीड़ा दी गई थी।
+I was upstairs.	Ich war oben.	मैं ऊपर था।
+I wasn't alone.	Ich war nicht alleine.	मैं अकेला नहीं था।
+I wasn't drunk.	Ich war nicht betrunken.	मैं नशे में नहीं था।
+I wasn't happy.	Ich war nicht glücklich.	मैं खुश नहीं था।
+I wasn't hired.	Ich wurde nicht eingestellt.	मुझे नौकरी नहीं मिली थी।
+I wasn't lying.	Ich habe nicht gelogen.	मैं झूठ नहीं बोल रहा था।
+I wasn't ready.	Ich war nicht bereit.	मैं तैयार नहीं था।
+I wasn't there.	Ich war nicht dort.	मैं वहाँ नहीं था।
+I wear glasses.	Ich trage eine Brille.	मैं चश्मा पहनता हूँ।
