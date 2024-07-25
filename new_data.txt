@@ -16860,3 +16860,13 @@ I told Tom a joke.	Ich habe Tom einen Witz erzählt.	मैंने टॉम �
 I told Tom myself.	Ich habe es Tom selbst gesagt.	मैंने खुद टॉम को बताया।
 I took Highway 58.	Ich nahm die Autobahn 58.	मैंने हाईवे 58 लिया।
 I took Monday off.	Ich habe mir Montag freigenommen.	मैंने सोमवार को छुट्टी ली।
+I took a week off.	Ich habe eine Woche frei genommen.	मैंने एक सप्ताह की छुट्टी ली।
+I took my hat off.	Ich habe meinen Hut abgenommen.	मैंने अपनी टोपी उतारी।
+I took my hat off. (different meaning)	Ich habe meinen Hut verloren.	मैंने अपनी टोपी गँवा दी।
+I took my revenge.	Ich habe meine Rache genommen.	मैंने बदला लिया।
+I took off my hat.	Ich habe meinen Hut abgelegt.	मैंने अपनी टोपी उतारी।
+I took off my hat. (different meaning)	Ich bin meinen Hut losgeworden.	मैंने अपनी टोपी छोड़ दी।
+I took this photo.	Ich habe dieses Foto gemacht.	मैंने यह फोटो खींची।
+I totalled my car.	Ich habe mein Auto zerstört.	मैंने अपनी कार को पूरी तरह से बर्बाद कर दिया।
+I tried it before.	Ich habe es schon einmal versucht.	मैंने पहले इसे कोशिश की थी।
+I tried to escape.	Ich habe versucht zu entkommen.	मैं भागने की कोशिश की।
