@@ -7114,3 +7114,9 @@ Those are good.	Die sind gut.	वे अच्छे हैं।
 Those are mine.	Die sind mein.	वो मेरे हैं।
 Throw it there.	Wirf es dort.	उसे वहाँ फेंको।
 Throw it to me.	Wirf es zu mir.	मुझे फेंको।
+Throw the ball.	Wirf den Ball.	गेंद फेंको।
+Throw the dice.	Würfel werfen.	पासा फेंको।
+Time to get up.	Es ist Zeit aufzustehen.	उठने का समय है।
+Time will tell.	Die Zeit wird es zeigen.	समय बताएगा।
+Tom adores you.	Tom verehrt dich.	टॉम आपको पसंद करता है।
+Tom almost won.	Tom hat fast gewonnen.	टॉम ने लगभग जीत ली थी।
