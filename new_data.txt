@@ -5547,3 +5547,12 @@ Are you stupid?	Bist du dumm?	क्या तुम मूर्ख हो?
 Are you two OK?	Seid ihr zwei in Ordnung?	क्या आप दोनों ठीक हैं?
 Aren't you Tom?	Bist du nicht Tom?	क्या तुम टॉम नहीं हो?
 Aren't you hot?	Ist dir nicht heiß?	क्या तुम्हें गरम नहीं लग रहा है?
+Autumn is here.	Der Herbst ist da.	शरद यहाँ है।
+Be a good girl.	Sei ein braves Mädchen.	अच्छी लड़की बनो।
+Be nice to her.	Sei nett zu ihr.	उसके साथ अच्छा व्यवहार करें।
+Be nice to her. - 2	Sei nett zu ihr.	उसके साथ अच्छा व्यवहार करें।
+Birds lay eggs.	Vögel legen Eier.	पक्षियों कों अंडे दालतीं है।
+Birds scare me.	Vögel erschrecken mich.	पक्षियों से डर लगता है मुझे।
+Blow your nose.	Schnäuz die Nase.	नाक मूछियें फेंको।
+Boats can sink.	Boote können sinken.	नाव डूब सकती है।
+Boil the water.	Koch das Wasser.	पानी उबालो।
