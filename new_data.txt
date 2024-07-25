@@ -10051,3 +10051,13 @@ They won't know.	Sie werden es nicht wissen.	उन्हें नहीं प
 They'll be fine.	Es wird ihnen gut gehen.	उन्हें ठीक होगा।
 They'll find me.	Sie werden mich finden.	वे मुझे ढूंढेंगे।
 They'll find us.	Sie werden uns finden.	वे हमें ढूंढेंगे।
+They'll help us.	Sie werden uns helfen.	वे हमें मदद करेंगे।
+They'll kill me.	Sie werden mich töten.	वे मुझे मार डालेंगे।
+They'll like it.	Sie werden es mögen.	उन्हें यह पसंद आएगा।
+They'll survive.	Sie werden überleben.	वे जीवित रहेंगे।
+They're Russian.	Sie sind russisch.	वे रूसी हैं।
+They're amazing.	Sie sind erstaunlich.	वे अद्भुत हैं।
+They're animals.	Sie sind Tiere.	वे जानवर हैं।
+They're arguing.	Sie streiten.	वे बहस कर रहे हैं।
+They're at home.	Sie sind zu Hause.	वे घर पर हैं।
+They're awesome.	Sie sind fantastisch.	वे बहुत शानदार हैं।
