@@ -8282,3 +8282,8 @@ Did you hit Tom?	Hast du Tom getroffen?	क्या आपने टॉम क�
 Did you like it?	Hat es dir gefallen?	क्या आपको यह पसंद आया?
 Did you love me?	Hast du mich geliebt?	क्या तुमने मुझसे प्रेम किया?
 Did you make it?	Hast du es gemacht?	क्या आपने यह बनाया है?
+Did you mean it?	Hast du es ernst gemeint?	क्या तुमने इसका मतलब रखा था?
+Did you miss me?	Hast du mich vermisst?	क्या तुमने मुझे याद किया?
+Did you read it?	Hast du es gelesen?	क्या तुमने यह पढ़ा है?
+Did you miss me? (2)	Hast du mich vermisst?	क्या तुम्हें मेरी याद आई?
+Did you read it? (2)	Hast du es durchgelesen?	क्या तुमने इसे पूरा पढ़ा है?
