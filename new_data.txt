@@ -11389,3 +11389,8 @@ You're a sexist.	Du bist sexistisch.	तुम सेक्सिस्ट ह�
 You're after me.	Du bist hinter mir her.	तुम मेरे पीछे हो।
 You're an angel.	Du bist ein Engel.	तुम एक फरिश्ता हो।
 You're an idiot.	Du bist ein Idiot.	तुम एक मूर्ख हो।
+You're annoying.	Du bist ärgerlich.	तुम जांच कराएं।
+You're arrogant.	Du bist überheblich.	तुम अकड़ रहे हो।
+You're athletic.	Du bist sportlich.	तुम खिलाड़ी हो।
+You're annoying. (different meaning)	Du bist lästig.	तुम बोझ हो।
+You're arrogant. (different meaning)	Du bist eingebildet.	तुम अभिमानी हो।
