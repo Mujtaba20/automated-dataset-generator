@@ -8781,3 +8781,13 @@ I have a minute.	Ich habe eine Minute.	मेरे पास एक मिन�
 I have a sister.	Ich habe eine Schwester.	मेरे पास एक बहन है।
 I have a theory.	Ich habe eine Theorie.	मेरे पास एक सिद्धांत है।
 I have a ticket.	Ich habe ein Ticket.	मेरे पास एक टिकट है।
+I have big feet.	Ich habe grosse Füße.	मेरे पेड़ बड़े हैं।
+I have brothers.	Ich habe Brüder.	मेरे पास भाई हैं।
+I have children.	Ich habe Kinder.	मेरे पास बच्चे हैं।
+I have diabetes.	Ich habe Diabetes.	मुझे मधुमेह है।
+I have dry skin.	Ich habe trockene Haut.	मेरी त्वचा सूखी है।
+I have finished.	Ich bin fertig.	मैंने समाप्त कर दिया है।
+I have freckles.	Ich habe Sommersprossen.	मुझे दाने हैं।
+I have homework.	Ich habe Hausaufgaben.	मेरे पास होमवर्क है।
+I have no fever.	Ich habe kein Fieber.	मुझे बुखार नहीं है।
+I have no horse.	Ich habe kein Pferd.	मेरे पास घोड़ा नहीं है।
