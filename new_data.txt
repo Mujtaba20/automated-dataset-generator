@@ -15435,3 +15435,9 @@ You're impatient.	Du bist hastig.	तुम अधीर हो
 You're in my way.	Du stehst mir im Weg.	तुम मेरे रास्ते में हो
 You're lying now.	Du lügst jetzt.	तुम अब झूठ बोल रहे हो
 You're motivated.	Du bist motiviert.	तुम प्रेरित हो
+You're my friend.	Du bist mein Freund.	तुम मेरे दोस्त हो।
+You're negligent.	Du bist nachlässig.	तुम लापरवाह हो।
+You're next, Tom.	Du bist als Nächster dran, Tom.	तुम अगले हो, टॉम।
+You're not alone.	Du bist nicht allein.	तुम अकेले नहीं हो।
+You're not going.	Du gehst nicht.	तुम नहीं जा रहे हो।
+You're obnoxious.	Du bist unausstehlich.	तुम बेहूदा हो।
