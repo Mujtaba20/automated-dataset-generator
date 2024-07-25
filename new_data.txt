@@ -5763,3 +5763,13 @@ Has it arrived?_1	Ist er angekommen?	क्या वह पहुँच गय�
 Has it arrived?_2	Ist sie angekommen?	क्या वह पहुँच गई है?
 Have Tom do it.	Lass Tom es machen.	टॉम से कराएं।
 Have some more.	Nimm noch etwas.	और कुछ लो।
+Have they gone?	Sind sie gegangen?	क्या वे गए हैं?
+Have you eaten?	Hast du gegessen?	क्या तुमने खाया है?
+He accelerated.	Er beschleunigte.	उसने गति बढ़ाई।
+He accelerated. (different meaning)	Er wurde schneller.	उसने तेज़ी से चलना शुरू किया।
+He also saw it.	Er sah es auch.	उसने भी इसे देखा।
+He asked me to.	Er bat mich darum.	उसने मुझसे कहा।
+He became rich.	Er wurde reich.	वह अमीर बन गया।
+He bit his lip.	Er biss sich auf die Lippe.	उसने अपने होंठ काट लिए।
+He came by bus.	Er kam mit dem Bus.	वह बस से आया था।
+He came by bus. (different meaning)	Er kam im Bus.	उसने बस में आना शुरू किया।
