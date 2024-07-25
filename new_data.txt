@@ -15254,3 +15254,10 @@ Where's your key?	Wo ist dein Schlüssel?	तुम्हारी कुंज�
 Where's your mom?	Wo ist deine Mutter?	तुम्हारी माँ कहाँ है?
 Where's your son?	Wo ist dein Sohn?	तुम्हारा बेटा कहाँ है?
 Which is cheaper?	Welches ist billiger?	कौन सा सस्ता है?
+Which is our car?	Welches ist unser Auto?	हमारी कार कौनसी है?
+Who allowed that?	Wer hat das erlaubt?	कौन ने यह अनुमति दी?
+Who allowed this?	Wer hat das erlaubt?	यह किसने अनुमति दी?
+Who are you with?	Mit wem bist du?	तुम किसके साथ हो?
+Who arrested Tom?	Wer hat Tom verhaftet?	तोम को कौन गिरफ्तार करा?
+Who brought this?	Wer hat das gebracht?	यह किसने लाया?
+Who did Tom kiss?	Wen hat Tom geküsst?	तोमने किसे चूमा?
