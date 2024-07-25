@@ -9476,3 +9476,12 @@ It took all day.	Es dauerte den ganzen Tag.	पूरे दिन लिया�
 It was a secret.	Es war ein Geheimnis.	यह एक रहस्य था।
 It was ages ago.	Das liegt schon lange zurück.	यह बहुत पुराना है।
 It was enticing.	Es war verlockend.	यह मनमोहक था।
+It was freezing!	Es war eiskalt!	यह बहुत ठंडा था!
+It was from Tom.	Es war von Tom.	यह टॉम से था।
+It was handmade.	Es war handgemacht.	यह हाथ से बना था।
+It was my dream.	Es war mein Traum.	यह मेरा सपना था।
+It was my fault.	Es war mein Fehler.	यह मेरी गलती थी।
+It was painless.	Es war schmerzlos.	यह दर्दरहित था।
+It was terrific.	Es war fantastisch.	यह शानदार था।
+It was too easy.	Es war zu einfach.	यह बहुत आसान था।
+It was too late.	Es war zu spät.	यह बहुत देर हो गई थी।
