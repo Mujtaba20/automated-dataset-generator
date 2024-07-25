@@ -12249,3 +12249,10 @@ I can't hate you.	Ich kann dich nicht hassen.	मैं तुम्हें �
 I can't hear Tom.	Ich kann Tom nicht hören.	मैं टॉम को नहीं सुन सकता।
 I can't hear you.	Ich kann dich nicht hören.	मैं तुम्हें नहीं सुन सकता।
 I can't help you.	Ich kann dir nicht helfen.	मैं तुम्हारी मदद नहीं कर सकता।
+I can't pray now.	Ich kann jetzt nicht beten.	मैं अब प्रार्थना नहीं कर सकता।
+I can't prove it.	Ich kann es nicht beweisen.	मैं इसे साबित नहीं कर सकता।
+I can't quit now.	Ich kann jetzt nicht aufhören.	मैं अब नहीं छोड़ सकता।
+I can't reach it.	Ich kann es nicht erreichen.	मैं इसे पहुंच नहीं सकता।
+I can't read yet.	Ich kann noch nicht lesen.	मैं अभी तक पढ़ नहीं सकता।
+I can't remember.	Ich kann mich nicht erinnern.	मुझे याद नहीं आ रहा है।
+I can't save you.	Ich kann dich nicht retten.	मैं तुम्हें बचा नहीं सकता।
