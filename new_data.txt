@@ -5993,3 +5993,11 @@ I eat tomatoes.	Ich esse Tomaten.	मैं टमाटर खाता हू�
 I enjoyed that.	Das hat mir gefallen.	मुझे वह पसंद आया।
 I fear nothing.	Ich fürchte nichts.	मुझे कुछ नहीं डरता।
 I fear nothing.2	Ich habe keine Angst.	मुझे कुछ नहीं डरता।
+I feel cheated.	Ich fühle mich betrogen.	मुझे धोखा देने का अहसास हो रहा है।
+I feel seasick.	Mir ist übel.	मुझे समुद्र की बीमारी हो रही है।
+I feel so cold.	Mir ist so kalt.	मुझे इतनी सर्दी लग रही है।
+I feel so lost.	Ich fühle mich so verloren.	मुझे इतना खो दिया है।
+I fell in love.	Ich habe mich verliebt.	मैं प्यार में गिर गया।
+I followed him.	Ich habe ihm gefolgt.	मैंने उसका पीछा किया।
+I followed you.	Ich bin dir gefolgt.	मैंने तुम्हारा पीछा किया।
+I gave my word.	Ich habe mein Wort gegeben.	मैंने अपना वादा दिया।
