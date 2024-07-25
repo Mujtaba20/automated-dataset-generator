@@ -16273,3 +16273,13 @@ I believed in Tom.	Ich glaubte an Tom.	मैंने टॉम में व�
 I bolted the door.	Ich schloss die Türriegel.	मैंने दरवाजे को बोल्ट कर दिया।
 I bought a VW bus.	Ich erwarb einen VW-Bus.	मैंने एक VW बस खरीदी।
 I bought a cactus.	Ich kaufte einen Kaktus.	मैंने एक कैक्टस खरीद लिया।
+I bought a hybrid.	Ich habe einen Hybrid gekauft.	मैंने एक हाइब्रिड खरीदा।
+I bought the book.	Ich habe das Buch gekauft.	मैंने किताब खरीदी।
+I braked suddenly.	Ich habe plötzlich gebremst.	मैंने अचानक ब्रेक लगाया।
+I broke his heart.	Ich habe sein Herz gebrochen.	मैंने उसका दिल तोड़ दिया।
+I broke my finger.	Ich habe meinen Finger gebrochen.	मैंने अपनी उंगली तोड़ दी।
+I brought a pizza.	Ich habe eine Pizza mitgebracht.	मैंने एक पिज्जा लाया।
+I brought cookies.	Ich habe Kekse gebracht.	मैंने कुकीज़ लायी।
+I brought flowers.	Ich habe Blumen mitgebracht.	मैंने फूल लाए।
+I brushed my hair.	Ich habe mir die Haare gebürstet.	मैंने अपने बाल साफ किए।
+I burned the cake.	Ich habe den Kuchen verbrannt.	मैंने केक जला दिया।
