@@ -6364,3 +6364,10 @@ I'll try again. [Different Meaning]	Ich werde es wieder probieren.	मैं फ
 I'll walk home.	Ich werde nach Hause laufen.	मैं घर चलकर जाऊँगा।
 I'll watch Tom.	Ich werde Tom beobachten.	मैं टॉम को देखूँगा।
 I'll work hard.	Ich werde hart arbeiten.	मैं मेहनत करूँगा।
+I'm OK with it.	Es ist in Ordnung für mich.	मैं इसके साथ ठीक हूँ।
+I'm Tom's aunt.	Ich bin Toms Tante.	मैं टॉम की चाची हूँ।
+I'm a Canadian.	Ich bin Kanadier.	मैं कनाडियन हूँ।
+I'm a beginner.	Ich bin Anfänger.	मैं एक शुरुआती हूँ।
+I'm a bit late.	Ich bin ein bisschen spät.	मैं थोड़ा देर से हूँ।
+I'm a botanist.	Ich bin Botaniker.	मैं वनस्पति चिकित्सक हूँ।
+I'm a busy guy.	Ich bin ein geschäftiger Typ.	मैं एक व्यस्त आदमी हूँ।
