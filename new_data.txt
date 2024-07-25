@@ -394,3 +394,8 @@ Taste it.	Schmecke es.	इसका स्वाद चखो।
 Tell Tom.	Informiere Tom.	टॉम को सूचित करें।
 Terrific!	Hervorragend!	ज़बरदस्त!
 They won.	Sie haben gewonnen.	उन्होंने जीत ली।
+Tom came.	Tom erschien.	टॉम आ गया।
+Tom died.	Tom verstarb.	टॉम की यातना हो गई।
+Tom fell.	Tom stürzte.	टॉम चौक गया।
+Tom knew.	Tom erkannte.	टॉम जानता था।
+Tom left.	Tom ging.	टॉम चला गया।
