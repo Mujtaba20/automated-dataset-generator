@@ -2110,3 +2110,13 @@ Tom is done.	Tom ist fertig.	टॉम काम समाप्त हुआ �
 Tom is down.	Tom ist niedergeschlagen.	टॉम नीचे है।
 Tom is evil.	Tom ist böse.	टॉम दुष्ट है।
 Tom is fair.	Tom ist fair.	टॉम न्यायसंगत है।
+Tom is fast.	Tom ist schnell.	टॉम तेज़ है।
+Tom is fine.	Tom geht es gut.	टॉम ठीक है।
+Tom is full.	Tom ist satt.	टॉम पूरा है।
+Tom is glad.	Tom ist froh.	टॉम खुश है।
+Tom is gone.	Tom ist gegangen.	टॉम चला गया।
+Tom is good.	Tom ist gut.	टॉम अच्छा है।
+Tom is here.	Tom ist hier.	टॉम यहाँ है।
+Tom is home.	Tom ist zu Hause.	टॉम घर पर है।
+Tom is hurt.	Tom ist verletzt.	टॉम चोट लगी है।
+Tom is kind.	Tom ist freundlich.	टॉम उदार है।
