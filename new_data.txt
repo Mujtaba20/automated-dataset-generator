@@ -11069,3 +11069,12 @@ We never forget.	Wir vergessen nie.	हम कभी नहीं भूलत�
 We pay Tom well.	Wir bezahlen Tom gut.	हम टॉम को अच्छा भुगतान करते हैं।
 We respect them.	Wir respektieren sie.	हम उन्हें सम्मान देते हैं।
 We sang for her.	Wir haben für sie gesungen.	हमने उसके लिए गाया।
+We should study.	Wir sollten studieren.	हमें पढ़ाई करनी चाहिए।
+We speak French.	Wir sprechen Französisch.	हम फ्रेंच बोलते हैं।
+We study French.	Wir studieren Französisch.	हम फ्रेंच पढ़ते हैं।
+We took showers.	Wir haben geduscht.	हमने शावर लिया।
+We try our best.	Wir geben unser Bestes.	हम अपनी सबसे अच्छी कोशिश करते हैं।
+We walked a lot.	Wir sind viel gelaufen.	हमने बहुत सारा चला।
+We want it back.	Wir wollen es zurück.	हम वापस चाहते हैं।
+We want justice.	Wir wollen Gerechtigkeit.	हमें न्याय चाहिए।
+We want to help.	Wir wollen helfen.	हम मदद करना चाहते हैं।
