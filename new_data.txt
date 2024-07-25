@@ -1795,3 +1795,13 @@ I'm leaving.	Ich verlasse.	मैं छोड़ रहा हूँ।
 I'm married.	Ich bin verheiratet.	मैं शादीशुदा हूँ।
 I'm nervous.	Ich bin nervös.	मुझे घबराहट हो रही है।
 I'm no liar.	Ich lüge nicht.	मैं झूठ नहीं बोल रहा हूँ।
+I'm not Tom.	Ich bin nicht Tom.	मैं टॉम नहीं हूँ।
+I'm not fat.	Ich bin nicht dick.	मैं मोटा नहीं हूँ।
+I'm not old.	Ich bin nicht alt.	मैं बूढ़ा नहीं हूँ।
+I'm not shy.	Ich bin nicht schüchtern.	मैं झिझकनेवाला नहीं हूँ।
+I'm not you.	Ich bin nicht du.	मैं तुम नहीं हूँ।
+I'm outside.	Ich bin draußen.	मैं बाहर हूँ।
+I'm over it.	Ich bin darüber hinweg.	मैं इसके पार हूँ।
+I'm patient.	Ich bin geduldig.	मैं सहनशील हूँ।
+I'm popular.	Ich bin beliebt.	मुझे पसंद किया जाता है।
+I'm relaxed.	Ich bin entspannt.	मैं आराम से हूँ।
