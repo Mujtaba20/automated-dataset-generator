@@ -1,14 +1,4 @@
 
-Most people agree.	Die meisten Leute stimmen zu.	ज्यादातर लोग सहमत हैं।
-My bag is missing.	Meine Tasche ist weg.	मेरा बैग चला गया है।
-My bag was stolen.	Meine Tasche wurde gestohlen.	मेरा बैग चोरी हो गया था.
-My bag was stolen.	Mir wurde die Tasche gestohlen.	बैग मुझे चोरी हो गया था।
-My brother is out.	Mein Bruder ist nicht zu Hause.	मेरा भाई घर पर नहीं है।
-My cat loves milk.	Meine Katze mag Milch.	मेरी बिल्ली को दूध पसंद है।
-My cat loves toys.	Meine Katze liebt Spielzeug.	मेरी बिल्ली को खिलौने बहुत पसंद हैं।
-My dad's not here.	Mein Vater ist nicht hier.	मेरे पिता यहाँ नहीं हैं।
-My dogs are white.	Meine Hunde sind weiß.	मेरे कुत्ते सफेद हैं।
-My eyes are tired.	Meine Augen sind müde.	मेरी आँखें थक गई हैं।
 My father is busy.	Mein Vater ist beschäftigt.	मेरे पिता व्यस्त हैं।
 My father is here.	Mein Vater ist hier.	मेरे पिता यहाँ हैं।
 My father is home.	Mein Vater ist zu Hause.	मेरे पिता घर पर हैं।

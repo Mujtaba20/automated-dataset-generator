@@ -17559,3 +17559,13 @@ Meat is expensive.	Fleisch ist teuer.	मांस महंगा है।
 Might makes right.	Macht macht Recht.	शक्ति सही बनाती है।
 Mind your manners.	Achte auf deine Manieren.	अपने शिष्टाचार पर ध्यान दो।
 Monday's not good.	Montag ist nicht gut.	सोमवार अच्छा नहीं है।
+Most people agree.	Die meisten Menschen sind einverstanden.	अधिकांश लोग सहमत हैं।
+My bag is missing.	Meine Tasche fehlt.	मेरा बैग गायब है।
+My bag was stolen.	Meine Tasche wurde gestohlen.	मेरा बैग चोरी हो गया था।
+My bag was stolen. 	Mein Beutel wurde gestohlen.	मेरा थैला चोरी हो गया था।
+My brother is out.	Mein Bruder ist draußen.	मेरा भाई बाहर है।
+My cat loves milk.	Meine Katze liebt Milch.	मेरी बिल्ली को दूध पसंद है।
+My cat loves toys.	Meine Katze liebt Spielzeug.	मेरी बिल्ली को खिलौने पसंद हैं।
+My dad's not here.	Mein Vater ist nicht hier.	मेरे पिता यहाँ नहीं हैं।
+My dogs are white.	Meine Hunde sind weiß.	मेरे कुत्ते सफेद हैं।
+My eyes are tired.	Meine Augen sind müde.	मेरी आँखें थकी हुई हैं।
