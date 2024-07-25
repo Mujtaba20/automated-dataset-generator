@@ -12574,3 +12574,12 @@ I long for her deeply.	Ich sehne mich stark nach ihr.	मैं उसकी ब
 I miss my family.	Ich vermisse meine Familie.	मुझे मेरे परिवार की याद आती है।
 I miss you a lot.	Ich vermisse dich sehr.	मुझे तुम्हारी बहुत याद आती है।
 I miss you badly.	Ich vermisse dich furchtbar.	मुझे तुम्हारी बुरी तरह से याद आती है।
+I missed the bus.	Ich habe den Bus verpasst.	मुझे बस छूट गई।
+I must apologize.	Ich muss mich entschuldigen.	मुझे माफ़ी मांगनी चाहिए।
+I must do it now.	Ich muss es jetzt tun.	मुझे अब यह करना जरुरी है।
+I must find work.	Ich muss Arbeit finden.	मुझे काम ढूंढना होगा।
+I must leave now.	Ich muss jetzt gehen.	मुझे अब जाना है।
+I must warn them.	Ich muss sie warnen.	मुझे उन्हें चेतावनी देनी है।
+I nearly starved.	Ich bin fast verhungert.	मैं बसने के कगार पर था।
+I need a crowbar.	Ich brauche einen Brecheisen.	मुझे एक क्रोबार चाहिए।
+I need a holiday.	Ich brauche einen Urlaub.	मुझे एक छुट्टी की आवश्यकता है।
