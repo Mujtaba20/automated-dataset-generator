@@ -5951,3 +5951,11 @@ I believed Tom.	Ich glaubte Tom.	मैंने टॉम पर विश्�
 I believed you.	Ich vertraute auf dich.	मैंने तुम पर भरोसा किया।
 I bet it works.	Ich setze darauf, dass es funktioniert.	मैं उस पर बहुमिलेय हूं कि यह काम करेगा।
 I betrayed you.	Ich habe dich hintergangen.	मैंने तुम्हें धोखा दिया।
+I bike to work.	Ich radle zur Arbeit.	मैं काम के लिए साइकिल चलाता हूँ।
+I blame myself.	Ich gebe mir die Schuld.	मैं अपने आप को दोषी मानता हूँ।
+I borrow money.	Ich leihe Geld.	मैं पैसे उधार लेता हूँ।
+I bought a car.	Ich kaufte ein Auto.	मैंने एक कार खरीदी।
+I bought a hat.	Ich habe einen Hut gekauft.	मैंने एक टोपी खरीदी।
+I broke my arm.	Ich habe mir den Arm gebrochen.	मैंने अपनी बांह तोड़ दी।
+I broke my leg.	Ich habe mir das Bein gebrochen.	मैंने अपनी टांग तोड़ दी।
+I came for Tom.	Ich bin gekommen, um Tom zu sehen.	मैं टॉम को देखने आया था।
