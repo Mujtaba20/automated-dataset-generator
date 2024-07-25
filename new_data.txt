@@ -12159,3 +12159,13 @@ How do they know?	Wie wissen sie?	वे कैसे जानते हैं?
 How do they look?	Wie sehen sie aus?	वे कैसे लगते हैं?
 How do you do it?	Wie machst du das?	तुम इसे कैसे करते हो?
 How do you plead?	Wie plädieren Sie?	आप कैसे प्रतिज्ञा देते हैं?
+How does it look?	Wie sieht es aus?	यह कैसा दिखता है?
+How good are you?	Wie gut bist du?	तुम कितने अच्छे हो?
+How is Tom today?	Wie geht es Tom heute?	टॉम आज कैसा है?
+How is your cold?	Wie geht es dir erkältungsmäßig?	तुम्हारी ठंडी कैसी है?
+How long is this?	Wie lange ist das?	यह कितना लम्बा है?
+How lucky we are!	Wie glücklich wir sind!	हम कितने भाग्यशाली हैं!
+How stupid he is!	Wie dumm er ist!	ये कितना मूर्ख है!
+How stupid of me!	Wie dumm von mir!	मेरा कितना मूर्खपन!
+How tall are you?	Wie groß bist du?	तुम कितने लम्बे हो?
+How tall you are!	Wie groß du bist!	तुम कितने उच्च हो!
