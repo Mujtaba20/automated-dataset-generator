@@ -12283,3 +12283,4 @@ I deliver pizzas.	Ich bringe Pizzen.	मैं पिज्जा पहुं�
 I did it for him.	Ich habe es für ihn getan.	मैंने उसके लिए किया।
 I did it for you.	Ich habe es für euch getan.	मैंने तुम्हारे लिए किया।
 I did it quickly.	Ich habe es schnell gemacht.	मैंने इसे जल्दी किया।
+engSentence		
