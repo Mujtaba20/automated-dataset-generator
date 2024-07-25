@@ -18787,3 +18787,13 @@ Tom is unsociable.	Tom ist ungesellig.	टॉम अपसंगज है।
 Tom is untalented.	Tom ist untalentiert.	टॉम अकुशल है।
 Tom is very angry.	Tom ist sehr wütend.	टॉम बहुत गुस्से में है।
 Tom is very bored.	Tom ist sehr gelangweilt.	टॉम बहुत उबाऊ है।
+Tom is very bossy.	Tom ist sehr herrisch.	टॉम बहुत अध्यक्ष है।
+Tom is very brave.	Tom ist sehr mutig.	टॉम बहुत बहादुर है।
+Tom is very frank.	Tom ist sehr offen.	टॉम बहुत स्थूल है।
+Tom is very fussy.	Tom ist sehr pingelig.	टॉम बहुत चिड़चिड़ा है।
+Tom is very happy.	Tom ist sehr glücklich.	टॉम बहुत खुश है।
+Tom is very messy.	Tom ist sehr unordentlich.	टॉम बहुत अव्यवस्थित है।
+Tom is very moody.	Tom ist sehr launisch.	टॉम बहुत मूडी है।
+Tom is very naive.	Tom ist sehr naiv.	टॉम बहुत भोला है।
+Tom is very needy.	Tom ist sehr bedürftig.	टॉम बहुत आवश्यक है।
+Tom is very obese.	Tom ist sehr fettleibig.	टॉम बहुत मोटा है।

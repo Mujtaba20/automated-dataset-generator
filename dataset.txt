@@ -1,14 +1,4 @@
 
-Tom is very bossy.	Tom ist sehr rechthaberisch.	टॉम बहुत वैध है।
-Tom is very brave.	Tom ist sehr tapfer.	टॉम बहुत बहादुर है।
-Tom is very frank.	Tom ist sehr offenherzig.	टॉम बहुत खुला है।
-Tom is very fussy.	Tom ist sehr pingelig.	टॉम बहुत पिकी है।
-Tom is very happy.	Tom ist sehr glücklich.	टॉम बहुत खुश है।
-Tom is very messy.	Tom ist sehr unordentlich.	टॉम बहुत गन्दा है।
-Tom is very moody.	Tom ist sehr launisch.	टॉम बहुत मूडी है।
-Tom is very naive.	Tom ist sehr naiv.	टॉम बहुत भोला है।
-Tom is very needy.	Tom ist sehr bedürftig.	टॉम बहुत जरूरतमंद हैं।
-Tom is very obese.	Tom ist sehr übergewichtig.	टॉम बहुत अधिक वजन वाला है।
 Tom is very pious.	Tom ist sehr fromm.	टॉम बहुत पवित्र है।
 Tom is very quiet.	Tom ist sehr still.	टॉम बहुत शांत है।
 Tom is very short.	Tom ist sehr klein.	टॉम बहुत छोटा है।
