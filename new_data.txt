@@ -5228,3 +5228,7 @@ Try and do it.	Probier es aus.	यह करने की कोशिश कर
 Use your feet.	Benutze deine Füße.	अपने पैरों का उपयोग करें।
 Use your fist.	Benutze deine Faust.	अपने मुठ्ठी का उपयोग करें।
 Wait a minute.	Warte mal.	एक मिनट रुको।
+Wait a moment.	Warten Sie einen Moment.	ठहरें।
+Wait a second.	Warte bitte einen Moment.	कृपया एक सेकंड इंतज़ार करें।
+Wait till six.	Warten Sie bis sechs.	छह तक प्रतीक्षा करें।
+Walk this way.	Gehen Sie so.	इस तरह चलिए।
