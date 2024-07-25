@@ -13372,3 +13372,10 @@ My wallet's gone.	Mein Geldbeutel ist verschwunden.	मेरा बटुआ �
 My wife beats me.	Meine Frau schlägt mich.	मेरी पत्नी मुझे मारती है।
 Neither was true.	Keines war wahr.	न तो सच था।
 Never tell a lie.	Sprich niemals eine Lüge.	कभी झूठ मत बोलना।
+Nice to meet you.	Schön, dich kennenzulernen.	आपसे मिलकर खुशी हुई।
+No one asked you.	Niemand hat dich gefragt.	किसी ने आपसे पूछा नहीं।
+No one helped me.	Niemand hat mir geholfen.	किसी ने मेरी मदद नहीं की।
+No one is coming.	Niemand kommt.	कोई नहीं आ रहा है।
+No one knew that.	Niemand wusste das.	किसी को उसका पता नहीं था।
+No one knows why.	Niemand weiß warum.	किसी को नहीं पता क्यों।
+No one knows yet.	Niemand weiß es noch.	किसी को अब भी पता नहीं है।
