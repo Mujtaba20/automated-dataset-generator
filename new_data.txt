@@ -15768,3 +15768,9 @@ Does he come here?	Kommt er hierher?	क्या वह यहाँ आता 
 Does he live here?	Lebt er hier?	क्या वह यहाँ रहता है?
 Does it hurt here?	Tut es hier weh?	क्या यहाँ दर्द हो रहा है?
 Does it snow here?	Schneit es hier?	क्या यहाँ बर्फ गिरती है?
+Does she know you?	Kennt sie dich?	क्या उसे तुम्हें पहचानती है?
+Does truth matter?	Spielt die Wahrheit eine Rolle?	क्या सच महत्वपूर्ण है?
+Dogs are faithful.	Hunde sind treu.	कुत्ते वफादार होते हैं।
+Don't answer that.	Antworte nicht darauf.	उसका जवाब मत दो।
+Don't ask me that.	Frag mich das nicht.	मुझसे यह ना पूछो।
+Don't be a coward.	Sei kein Feigling.	कायर ना बनो।
