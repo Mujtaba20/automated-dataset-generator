@@ -7473,3 +7473,11 @@ Tom likes fish.	Tom mag Fisch.	टॉम को मछली पसंद है
 Tom likes jazz.	Tom mag Jazz.	टॉम को जाज पसंद है।
 Tom likes nuts.	Tom mag Nüsse.	टॉम को खजूर पसंद हैं।
 Tom likes rock.	Tom mag Rockmusik.	टॉम को रॉक पसंद है।
+Tom likes snow.	Tom mag Schnee.	टॉम को बर्फ पसंद है।
+Tom likes that.	Tom mag das.	टॉम को वह पसंद है।
+Tom likes them.	Tom mag sie.	टॉम को वे पसंद हैं।
+Tom likes this.	Tom mag das hier.	टॉम को यह पसंद है।
+Tom likes tuna.	Tom mag Thunfisch.	टॉम को ट्यूना पसंद है।
+Tom likes wine.	Tom mag Wein.	टॉम को शराब पसंद है।
+Tom lives here.	Tom lebt hier.	टॉम यहाँ रहता है।
+Tom looked mad.	Tom sah wütend aus.	टॉम गुस्से में लग रहा था।
