@@ -18762,3 +18762,13 @@ Tom is the expert.	Tom ist der Experte.	टॉम विशेषज्ञ ह�
 Tom is the father.	Tom ist der Vater.	टॉम पिता है।
 Tom is the killer.	Tom ist der Mörder.	टॉम हत्यारा है।
 Tom is the leader.	Tom ist der Anführer.	टॉम नेता है।
+Tom is the oldest.	Tom ist der älteste.	टॉम सबसे बड़ा है।
+Tom is the victim.	Tom ist das Opfer.	टॉम पीड़ित है।
+Tom is the winner.	Tom ist der Gewinner.	टॉम विजेता है।
+Tom is there, too.	Tom ist auch dort.	टॉम भी वहाँ है।
+Tom is thirty now.	Tom ist jetzt dreißig.	अब टॉम तीस का है।
+Tom is thirty-one.	Tom ist einunddreißig.	टॉम इकतालीस है।
+Tom is thoughtful.	Tom ist nachdenklich.	टॉम समझदार है।
+Tom is tidying up.	Tom räumt auf.	टॉम साफ़-सफाई कर रहा है।
+Tom is unaffected.	Tom ist unberührt.	टॉम प्रभावित नहीं है।
+Tom is unbearable.	Tom ist unerträglich.	टॉम सहनीय नहीं है।

@@ -1,14 +1,4 @@
 
-Tom is the oldest.	Tom ist der Älteste.	टॉम सबसे पुराना है।
-Tom is the victim.	Tom ist das Opfer.	टॉम पीड़ित है।
-Tom is the winner.	Tom ist der Gewinner.	टॉम विजेता है।
-Tom is there, too.	Tom ist auch da.	टॉम भी वहाँ है।
-Tom is thirty now.	Tom ist jetzt dreißig.	टॉम अब तीस साल का है।
-Tom is thirty-one.	Tom ist einunddreißig.	टॉम तीस का है।
-Tom is thoughtful.	Tom ist nachdenklich.	टॉम विचारशील है।
-Tom is tidying up.	Tom ist gerade dabei, aufzuräumen.	टॉम वर्तमान में सफाई कर रहा है।
-Tom is unaffected.	Tom ist nicht betroffen.	टॉम प्रभावित नहीं है।
-Tom is unbearable.	Tom ist unerträglich.	टॉम असहनीय है।
 Tom is unbeatable.	Tom ist unschlagbar.	टॉम अपराजेय है।
 Tom is undefeated.	Tom ist ungeschlagen.	टॉम नाबाद है।
 Tom is undeterred.	Tom ist unbeirrt.	टॉम अप्रकाशित है।
