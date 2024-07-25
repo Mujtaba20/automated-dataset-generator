@@ -3978,3 +3978,13 @@ Hold the rope..	Halte das Seil bitte.	रस्सी को बस पकड़
 How about you?	Was ist mit dir?	तुम्हारे बारे में क्या है?
 How about you?.	Wie wäre es mit dir?	तुम्हारे साथ कैसा रहेगा?
 How bad is it?	Wie schlimm ist es?	यह कितना बुरा है?
+How beautiful!	Wie schön!	कितनी खूबसूरत!
+How can it be?	Wie kann das sein?	यह कैसे हो सकता है?
+How did it go?	Wie ist es gelaufen?	यह कैसे हुआ?
+How do I look?	Wie sehe ich aus?	मैं कैसा लग रहा हूँ?
+How do you do?	Wie geht es Ihnen?	तुम्हारा क्या हाल है?
+How hot is it?	Wie heiß ist es?	यह कितना गरम है?
+How late am I?	Wie spät bin ich dran?	मैं कितने देर से हूँ?
+How old is he?	Wie alt ist er?	वह कितने साल का है?
+How thrilling!	Wie aufregend!	कितना रोमांचक!
+How was lunch?	Wie war das Mittagessen?	भोजन कैसा था?
