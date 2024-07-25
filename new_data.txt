@@ -8961,3 +8961,13 @@ I need to relax.	Ich muss mich entspannen.	मुझे आराम करन�
 I need to shave.	Ich muss mich rasieren.	मुझे चरण करने की आवश्यकता है।
 I never do that.	Das mache ich nie.	मैं कभी ऐसा नहीं करता।
 I never give up.	Ich gebe niemals auf.	मैं कभी हार नहीं मानता।
+I never hit Tom.	Ich habe Tom nie geschlagen.	मैंने कभी भी टॉम को मारा नहीं।
+I never laughed.	Ich habe nie gelacht.	मैंने कभी हँसा नहीं।
+I never met Tom.	Ich habe Tom nie getroffen.	मैंने कभी टॉम से मिला नहीं।
+I never met Tom. (different meaning)	Ich habe nie Tom persönlich kennengelernt.	मैंने कभी टॉम से नहीं मिला।
+I never noticed.	Ich habe nie darauf geachtet.	मैंने कभी ध्यान नहीं दिया।
+I never said no.	Ich habe nie Nein gesagt.	मैंने कभी नहीं कहा।
+I never saw Tom.	Ich habe Tom nie gesehen.	मैंने कभी टॉम को नहीं देखा।
+I never was shy.	Ich war nie schüchtern.	मैं कभी भी शर्मीला नहीं था।
+I often see him.	Ich sehe ihn oft.	मैं उसे अक्सर देखता हूँ।
+I only need Tom.	Ich brauche nur Tom.	मुझे सिर्फ टॉम की जरुरत है।
