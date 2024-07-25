@@ -15589,3 +15589,13 @@ Can I do it again?	Kann ich es noch einmal machen?	क्या मैं इस
 Can I go home now?	Kann ich jetzt nach Hause gehen?	क्या मैं अब घर जा सकता हूँ?
 Can I go with you?	Kann ich mit dir gehen?	क्या मैं तुम्हारे साथ जा सकता हूँ?
 Can I have a bite?	Kann ich einen Bissen haben?	क्या मैं एक चबा सकता हूँ?
+Can I rely on you?	Kann ich mich auf dich verlassen?	क्या मैं आप पर भरोसा कर सकता हूँ?
+Can I talk to you?	Kann ich mit dir reden?	क्या मैं आपसे बात कर सकता हूँ?
+Can I talk to you? (different meaning)	Kann ich mit dir sprechen?	क्या मैं आपसे चित्त वाचन कर सकता हूँ?
+Can I try this on?	Kann ich das ausprobieren?	क्या मैं इसे आजमा सकता हूँ?
+Can Tom come, too?	Kann auch Tom kommen?	क्या टॉम भी आ सकता है?
+Can all birds fly?	Können alle Vögel fliegen?	क्या सभी पंछी उड़ सकते हैं?
+Can she come, too?	Kann sie auch kommen?	क्या वह भी आ सकती है?
+Can this be eaten?	Kann dies gegessen werden?	क्या यह खाया जा सकता है?
+Can we fish there?	Können wir dort angeln?	क्या हम वहां मछली पकड़ सकते हैं?
+Can we fish there? (different meaning)	Können wir dort fischt sein?	क्या हम वहां मछलियाँ पानी में डाल सकते हैं?
