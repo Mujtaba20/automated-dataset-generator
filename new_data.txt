@@ -2782,3 +2782,11 @@ I want these.	Ich will diese.	मुझे ये चाहिए।
 I want to go.	Ich möchte gehen.	मैं जाना चाहता हूँ।
 I was a fool.	Ich war ein Narr.	मैं पागल था।
 I was hungry.	Ich hatte Hunger.	मुझे भूख लगी थी।
+I was scared.	Ich hatte Angst.	मैं डरा हुआ था।
+I was shaken.	Ich war erschüttert.	मैं हिला दिया गया था।
+I was sleepy.	Ich war schläfrig.	मैं ऊंघ रहा था।
+I was stoned.	Ich war bekifft.	मैं पत्थर मारा गया था।
+I went there.	Ich ging dorthin.	मैं वहां गया।
+I will fight.	Ich werde kämpfen.	मैं लड़ूंगा।
+I will learn.	Ich werde lernen.	मैं सीखूंगा।
+I will learn. - Different Meaning	Ich werde begreifen.	मैं सीखने लगूँगा।
