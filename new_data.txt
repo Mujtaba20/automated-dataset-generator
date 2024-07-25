@@ -11802,3 +11802,13 @@ Drinks are on me.	Die Getränke gehen auf mich.	मैं पूरे पेट
 Drive cautiously.	Fahren Sie vorsichtig.	सावधानी से चलाएं।
 Eat more protein.	Iss mehr Protein.	ज़्यादा प्रोटीन खाओ।
 Eat your veggies.	Iss dein Gemüse.	तुम अपनी सब्जियां खाओ।
+Enjoy yourselves.	Genießen Sie sich.	आनंद लें।
+Enough is enough.	Genug ist genug.	काफी है।
+Even Tom grinned.	Auch Tom grinste.	चाहे तोम मुँह मीठा करता है।
+Even Tom laughed.	Sogar Tom lachte.	तोम हंस पड़ा।
+Everybody agrees.	Jeder stimmt zu.	हर कोई सहमत है।
+Everybody danced.	Jeder tanzte.	सबने नाचा।
+Everybody danced. (Different meaning)	Alle haben getanzt.	हर कोई नृत्य किया।
+Everybody jumped.	Alle sind gesprungen.	सबने कूदा।
+Everybody jumped. (Different meaning)	Jeder sprang.	सबने उछला।
+Everybody laughs.	Jeder lacht.	हर कोई हँसता है।
