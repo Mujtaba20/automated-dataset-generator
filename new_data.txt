@@ -1342,3 +1342,9 @@ Tom's well.	Tom ist wohlauf.	टॉम ठीक है।
 Tough luck!	Pech gehabt!	बुरा भाग्य!
 Try harder.	Versuch es härter.	ज्यादा कोशिश करो।
 Try harder. - different meaning	Streng dich mehr an.	और मेहनत करो।
+Try it now.	Versuch es jetzt.	अब इसे आजमाएं।
+Turn it on.	Schalten Sie es ein.	इसे चालू करो।
+Turn it on.1	Dreh es auf.	इसे चालू करो।
+Turn it on.2	Mach es an.	इसे चालू करो।
+Turn it on.3	Schaltet es an.	इसे चालू करो।
+Turn it up.	Drehe es auf.	इसे ऊँचा करो।
