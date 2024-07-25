@@ -17807,3 +17807,10 @@ She's unconscious. (Different meaning)	Sie ist unbewusst.	वह अज्ञा
 Show me the money.	Zeig mir das Geld.	मुझे पैसे दिखाओ।
 Show me the money. (Different meaning)	Zeig mir das Geld.	मुझे पैसा दिखाओ।
 Show me the photo.	Zeig mir das Foto.	मुझे फोटो दिखाओ।
+Sign here, please.	Bitte unterschreiben Sie hier.	कृपया यहाँ हस्ताक्षर करें।
+Sign the contract.	Den Vertrag unterschreiben.	समझौते पर हस्ताक्षर करें।
+Silence is golden.	Schweigen ist Gold.	चुप्पी सोना है।
+Silk is expensive.	Seide ist teuer.	रेशम महंगा है।
+Sloths eat leaves.	Faultiere fressen Blätter.	आलसी पत्ते खाते हैं।
+Smell this flower.	Riech an dieser Blume.	इस फूल की खुशबू को महसूस करें।
+So where were you?	Wo warst du also?	तो तुम कहां थे?
