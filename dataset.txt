@@ -1,15 +1,4 @@
 
-Don't patronize me.	Seien Sie mal nicht so gönnerhaft zu mir.	मेरे साथ इतना व्यवहार मत करो।
-Don't patronize me.	Seid mal nicht so gönnerhaft zu mir.	इतना संरक्षण मत करो।
-Don't patronize me.	Sei mal nicht so gönnerhaft zu mir.	मेरे लिए इतना संरक्षण मत करो।
-Don't patronize me.	Spare dir dein leutseliges Verhalten.	अपने आप को अपने किफायती व्यवहार को बचाएं।
-Don't play with me.	Spiel nicht mit mir.	मेरे साथ मत खेलो।
-Don't pressure Tom.	Setz Tom nicht unter Druck.	टॉम को दबाव में न डालें।
-Don't say anything.	Sag nichts!	कुछ नहीं कहना!
-Don't say anything.	Sprich kein Wort!	एक शब्द मत कहो!
-Don't say anything.	Sprechen Sie kein Wort!	एक शब्द मत बोलो!
-Don't say anything.	Sagen Sie nichts!	कुछ मत कहो!
-Don't say anything.	Sag nichts.	कुछ नहीं कहना।
 Don't say his name.	Sag nicht seinen Namen.	उसका नाम मत कहो।
 Don't say it again.	Sag es nicht noch einmal.	इसे फिर से मत कहो।
 Don't say too much.	Sag nicht zu viel!	बहुत ज्यादा मत कहो!

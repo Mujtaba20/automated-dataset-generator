@@ -20533,3 +20533,7 @@ Don't mess with me.	Leg dich nicht mit mir an.	मेरे साथ मत छ
 Don't mess with us.	Legt euch nicht mit uns an.	हमारे साथ मत छेड़ो।
 Don't miss the bus.	Verpasse nicht den Bus.	बस मत छोड़ो।
 Don't move, please.	Beweg dich nicht, bitte.	हिलो मत, कृपया।
+Don't patronize me.	Gehen Sie nicht auf mich herab.	मुझपर न छोटा मत जाओ।
+Don't play with me.	Spiel nicht mit mir.	मेरे साथ नहीं खेलना।
+Don't pressure Tom.	Dränge Tom nicht.	टॉम पर दबाव न डालो।
+Don't say anything.	Sprich nichts aus.	कुछ मत कहो।
