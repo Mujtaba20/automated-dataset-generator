@@ -14239,3 +14239,12 @@ Tom is irritated.	Tom ist gereizt.	टॉम को चिड़ाना हुआ
 Tom is lecherous.	Tom ist lüstern.	टॉम विषयवान है।
 Tom is legendary.	Tom ist legendär.	टॉम का एक पुराना तथ्य है।
 Tom is like Mary.	Tom ist wie Maria.	टॉम मेरी जैसा है।
+Tom is like that.	Tom ist so.	टॉम ऐसा ही है।
+Tom is listening.	Tom hört zu.	टॉम सुन रहा है।
+Tom is mad at me.	Tom ist wütend auf mich.	टॉम मुझसे नाराज है।
+Tom is mad at us.	Tom ist wütend auf uns.	टॉम हमसे बहुत नाराज है।
+Tom is merciless.	Tom ist erbarmungslos.	टॉम निर्मर्द है।
+Tom is merciless. - Different Meaning	Tom ist gnadenlos.	टॉम क्रूर है।
+Tom is miserable.	Tom ist elend.	टॉम दु:खी है।
+Tom is mortified.	Tom ist beschämt.	टॉम शर्मिंदा है।
+Tom is motivated.	Tom ist motiviert.	टॉम प्रेरित है।
