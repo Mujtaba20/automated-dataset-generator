@@ -16801,3 +16801,10 @@ I rushed upstairs.	Ich eilte die Treppe hinauf.	मैंने ऊपर जल
 I said I'd get it.	Ich sagte, ich würde es bekommen.	मैंने कहा कि मैं यह पाऊँगा।
 I said I'll do it.	Ich habe gesagt, ich werde es tun.	मैंने कहा कि मैं यह करूँगा।
 I said good night.	Ich sagte gute Nacht.	मैंने शुभ रात्रि कहा।
+I sat by his side.	Ich saß an seiner Seite.	मैंने उसके पास बैठा।
+I sat next to Tom.	Ich saß neben Tom.	मैंने टॉम के पास बैठा।
+I sat next to him.	Ich saß neben ihm.	मैंने उसके पास बैठा।
+I saw Tom do that.	Ich sah Tom das tun.	मैंने टॉम को ऐसा करते हुए देखा।
+I saw Tom take it.	Ich sah, wie Tom es nahm.	मैंने देखा कि टॉमने यह लिया।
+I saw Tom tonight.	Ich sah Tom heute Abend.	मैंने टॉम को आज रात देखा।
+I saw an airplane.	Ich sah ein Flugzeug.	मैंने एक हवाई जहाज देखा।
