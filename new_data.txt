@@ -17619,3 +17619,11 @@ No problem at all!	Kein Problem überhaupt!	कोई समस्या नह�
 No, I didn't help.	Nein, ich habe nicht geholfen.	नहीं, मैंने मदद नहीं की।
 Nobody called Tom.	Niemand hat Tom angerufen.	किसी ने टॉम को नहीं बुलाया।
 Nobody complained.	Niemand hat sich beschwert.	किसी ने शिकायत नहीं की।
+Nobody hugged Tom.	Niemand hat Tom umarmt.	किसी ने भी टॉम को गले नहीं लगाया।
+Nobody is perfect.	Niemand ist makellos.	कोई भी अद्वितीय नहीं है।
+Nobody kissed Tom.	Niemand hat Tom geküsst.	किसी ने भी टॉम को चुम्मा नहीं दिया।
+Nobody knows this.	Niemand weiß das.	किसी को भी इसका पता नहीं है।
+Nobody likes rats.	Niemand mag Ratten.	किसी को भी चूहे पसंद नहीं हैं।
+Nobody likes them.	Niemand mag sie.	किसी को भी वे पसंद नहीं हैं।
+Nobody noticed me.	Niemand hat mich bemerkt.	किसी ने भी मुझे ध्यान नहीं दिया।
+Nobody trusts Tom.	Niemand vertraut Tom.	किसी ने भी टॉम पर भरोसा नहीं किया।

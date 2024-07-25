@@ -1,14 +1,4 @@
 
-Nobody hugged Tom.	Niemand umarmte Tom.	किसी ने टॉम को गले नहीं लगाया।
-Nobody is perfect.	Niemand ist perfekt.	कोई भी पूर्ण नहीं है।
-Nobody is perfect.	Niemand ist vollkommen.	कोई भी पूर्ण नहीं है।
-Nobody kissed Tom.	Niemand küsste Tom.	किसी ने भी चुंबन नहीं।
-Nobody kissed Tom.	Niemand hat Tom geküsst.	किसी ने भी चुंबन नहीं।
-Nobody knows this.	Niemand weiß das.	किसी को नहीं मालूम।
-Nobody likes rats.	Niemand mag Ratten.	किसी को भी चूहे पसंद नहीं हैं।
-Nobody likes them.	Niemand mag sie.	कोई भी इसे पसंद नहीं करता है।
-Nobody noticed me.	Niemand bemerkte mich.	किसी ने मुझे ध्यान नहीं दिया।
-Nobody trusts Tom.	Keiner traut Tom.	कोई भी टॉम पर भरोसा नहीं करता है।
 Nobody visits Tom.	Niemand besucht Tom.	कोई भी टॉम नहीं जाता है।
 Nobody volunteers.	Niemand meldet sich freiwillig.	कोई भी स्वेच्छा से रिपोर्ट नहीं करता है।
 Nobody wants that.	Das will niemand.	कोई भी ऐसा नहीं चाहता।
