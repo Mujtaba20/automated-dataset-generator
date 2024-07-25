@@ -11239,3 +11239,9 @@ Where is my car?	Wo ist mein Auto?	मेरी कार कहाँ है?
 Where is my dad?	Wo ist mein Vater?	मेरे पिताजी कहाँ हैं?
 Where is my dog?	Wo ist mein Hund?	मेरे कुत्ते कहाँ हैं?
 Where were they?	Wo waren sie?	वे कहाँ थे?
+Where's Tom now?	Wo steckt Tom jetzt?	अब तक टॉम कहां है?
+Where's it from?	Woher stammt es?	यह कहाँ से आया है?
+Where's my beer?	Wo ist mein Bier?	मेरा बियर कहाँ है?
+Where's my bike?	Wo ist mein Fahrrad?	मेरी साइकिल कहाँ है?
+Where's my coat?	Wo ist mein Mantel?	मेरी कोट कहाँ है?
+Where's my comb?	Wo ist mein Kamm?	मेरी कंघी कहाँ है?
