@@ -18993,3 +18993,13 @@ Tom loves cooking.	Tom liebt kochen.	टॉम को खाना पकान�
 Tom loves fishing.	Tom liebt angeln.	टॉम को मछली पकड़ना पसंद है।
 Tom loves flowers.	Tom liebt Blumen.	टॉम को फूल पसंद हैं।
 Tom loves his job.	Tom liebt seinen Job.	टॉम को उसका काम पसंद है।
+Tom loves his son.	Tom liebt seinen Sohn.	टॉम अपने बेटे से प्यार करता है।
+Tom loves puzzles.	Tom liebt Rätsel.	टॉम पहेलियों से प्यार करता है।
+Tom loves reading.	Tom liebt es zu lesen.	टॉम किताबें पढ़ने से प्यार करता है।
+Tom loves risotto.	Tom liebt Risotto.	टॉम रिसोटो से प्यार करता है।
+Tom loves rituals.	Tom liebt Rituale.	टॉम कार्यक्रमों से प्यार करता है।
+Tom loves secrets.	Tom liebt Geheimnisse.	टॉम राज से प्यार करता है।
+Tom loves singing.	Tom liebt es zu singen.	टॉम गाने से प्यार करता है।
+Tom loves sunsets.	Tom liebt Sonnenuntergänge.	टॉम सूर्यास्त से प्यार करता है।
+Tom loves to cook.	Tom liebt es zu kochen.	टॉम पकाने से प्यार करता है।
+Tom loves to fish.	Tom liebt es zu angeln.	टॉम मछलियाँ पकड़ने का शौकीन है।

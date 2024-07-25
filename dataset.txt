@@ -1,14 +1,4 @@
 
-Tom loves his son.	Tom liebt seinen Sohn.	टॉम अपने बेटे से प्यार करता है।
-Tom loves puzzles.	Tom liebt Rätsel.	टॉम को पहेलियाँ बहुत पसंद हैं।
-Tom loves reading.	Tom liebt es zu lesen.	टॉम को पढ़ना बहुत पसंद है।
-Tom loves risotto.	Tom isst sehr gern Risotto.	टॉम को रिसोट्टो खाना पसंद है।
-Tom loves rituals.	Tom liebt Rituale.	टॉम को अनुष्ठान बहुत पसंद है।
-Tom loves secrets.	Tom liebt Geheimnisse.	टॉम को रहस्य बहुत पसंद है।
-Tom loves singing.	Tom singt sehr gerne.	टॉम गाना पसंद करते हैं।
-Tom loves sunsets.	Tom liebt Sonnenuntergänge.	टॉम को सूर्यास्त पसंद हैं।
-Tom loves to cook.	Tom liebt es zu kochen.	टॉम को खाना बनाना बहुत पसंद है।
-Tom loves to fish.	Tom mag es, angeln zu gehen.	टॉम को मछली पकड़ने जाना पसंद है।
 Tom loves to read.	Tom liebt es zu lesen.	टॉम को पढ़ना बहुत पसंद है।
 Tom loves to sing.	Tom singt sehr gerne.	टॉम गाना पसंद करते हैं।
 Tom loves you all.	Tom liebt euch alle.	टॉम आप सभी को प्यार करता है।
