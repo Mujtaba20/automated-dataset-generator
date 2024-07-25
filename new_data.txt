@@ -3134,3 +3134,9 @@ She is eight.	Sie ist acht.	वह आठ है।
 She is happy.	Sie ist glücklich.	वह खुश है।
 She is lucky.	Sie hat Glück.	वह भाग्यशाली है।
 She is quiet.	Sie ist ruhig.	वह शांत है।
+She is upset.	Sie ist frustriert.	उसका मन उदास है।
+She is wrong.	Sie liegt falsch.	उससे गलती हुई है।
+She is young.	Sie ist jung.	वह युवा है।
+She knows me.	Sie kennt mich.	वह मुझे जानती है।
+She loves us.	Sie liebt uns.	वह हमसे प्यार करती है।
+She needs it.	Sie braucht es.	उसे यह चाहिए।
