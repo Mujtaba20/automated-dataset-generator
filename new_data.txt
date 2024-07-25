@@ -20473,3 +20473,12 @@ Does Tom live here?	Wohnt Tom hier?	क्या टॉम यहाँ रह�
 Does Tom sing well?	Singt Tom gut?	क्या टॉम अच्छा गाता है?
 Does Tom want that?	Will Tom das?	क्या टॉम वह चाहता है?
 Does Tom want this?	Will Tom dies?	क्या टॉम यह चाहता है?
+Does Tom work here?	Arbeitet Tom hier?	क्या टॉम यहाँ काम करता है?
+Does he have money?	Hat er Geld?	क्या उसके पास पैसे हैं?
+Does it hurt a lot?	Tut es sehr weh?	क्या यह बहुत दर्द हो रहा है?
+Does it taste good?	Schmeckt es gut?	क्या यह स्वादिष्ट है?
+Does it taste good? (alt)	Schmeckt es lecker?	क्या यह मिठा है?
+Does she live here?	Lebt sie hier?	क्या वह यहाँ रहती है?
+Does that mean yes?	Bedeutet das ja?	क्या इसका मतलब हां है?
+Does your dog bite?	Beißen dich deine Hund?	क्या तुम्हारा कुत्ता काटता है?
+Does your mom know?	Weiß deine Mutter Bescheid?	क्या तुम्हारी माँ जानती है?

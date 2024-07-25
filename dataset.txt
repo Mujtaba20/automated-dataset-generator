@@ -1,14 +1,4 @@
 
-Does Tom work here?	Arbeitet Tom hier?	क्या टॉम यहाँ काम करता है?
-Does he have money?	Hat er Geld?	क्या उसके पास पैसा है?
-Does it hurt a lot?	Tut es sehr weh?	क्या इससे बहुत दुख होता है?
-Does it taste good?	Schmeckt es gut?	क्या इसका स्वाद अच्छा है?
-Does it taste good?	Schmeckt sie gut?	क्या इसका स्वाद अच्छा है?
-Does it taste good?	Schmeckt er gut?	क्या इसका स्वाद अच्छा है?
-Does she live here?	Wohnt sie hier?	क्या वह यहाँ रहती है?
-Does that mean yes?	Ist das ein Ja?	क्या यह एक हाँ है?
-Does your dog bite?	Beißt dein Hund?	क्या आपका कुत्ता काटता है?
-Does your mom know?	Weiß deine Mutter das?	क्या आपकी माँ को पता है?
 Doing that is easy.	Das zu tun, ist leicht.	ऐसा करना आसान है।
 Don't I look great?	Schaue ich nicht großartig aus?	क्या मैं बहुत अच्छा नहीं दिखता?
 Don't ask me again.	Frag mich nicht noch einmal.	फिर मुझे मत पूछो।
