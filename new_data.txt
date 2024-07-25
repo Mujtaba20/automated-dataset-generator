@@ -15702,3 +15702,12 @@ Didn't I warn you?	Habe ich dich nicht gewarnt?	क्या मैंने त
 Didn't you go out?	Bist du nicht hinausgegangen?	क्या तुमने बाहर जाने का नहीं किया था?
 Didn't you see me?	Haben Sie mich nicht gesehen?	क्या आपने मुझे नहीं देखा?
 Disable the alarm.	Deaktivieren Sie den Alarm.	हैंगर को बंद करें।
+Do I look nervous?	Sehe ich nervös aus?	क्या मैं घबराया हुआ लगता हूँ?
+Do I need surgery?	Brauche ich eine Operation?	क्या मुझे सर्जरी की आवश्यकता है?
+Do ants have ears?	Haben Ameisen Ohren?	क्या मकड़ी के कान होते हैं?
+Do as you're told.	Tu, was man dir sagt.	जैसा कहा जाता है, वैसे करो।
+Do it by yourself.	Tu es selbst.	खुद ही करो।
+Do it for my sake.	Tu es meinetwegen.	मेरे लिए करो।
+Do they have that?	Haben sie das?	क्या उनके पास वो है?
+Do they like wine?	Mögen sie Wein?	क्या उन्हें शराब पसंद है?
+Do they work here?	Arbeiten sie hier?	क्या वे यहाँ काम करते हैं?
