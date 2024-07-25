@@ -507,3 +507,11 @@ How awful!	Wie schrecklich!	कितना भयानक!
 How is it?	Wie ist es?	यह कैसा है?
 How weird!	Wie seltsam!	कितना अजीब!
 Humor Tom.	Mach Tom Spaß.	टॉम का मजाक उड़ाओ।
+I am lost.	Ich habe mich verlaufen.	मैं खो गया हूँ।
+I am okay.	Mir geht's gut.	मैं ठीक हूँ।
+I am sure.	Ich bin sicher.	मुझे विश्वास है।
+I am tall.	Ich bin groß.	मैं लम्बा हूँ।
+I am well.	Es geht mir gut.	मैं ठीक हूँ।
+I approve.	Ich stimme zu.	मैं स्वीकृति देता हूँ।
+I can fly.	Ich kann fliegen.	मैं उड़ सकता हूँ।
+I can run.	Ich kann rennen.	मैं दौड़ सकता हूँ।
