@@ -1,14 +1,4 @@
 
-Tom vomited blood.	Tom spuckte Blut.	टॉम थूक खून।
-Tom vomited twice.	Tom erbrach zweimal.	टॉम ने दो बार उल्टी की।
-Tom vomited twice.	Tom hat zweimal erbrochen.	टॉम ने दो बार उल्टी की।
-Tom vowed revenge.	Tom schwor Rache.	टॉम ने बदला लिया।
-Tom waited calmly.	Tom wartete ruhig.	टॉम शांति से इंतजार कर रहा था।
-Tom waited inside.	Tom wartete drinnen.	टॉम अंदर इंतजार कर रहा था।
-Tom waited nearby.	Tom wartete in der Nähe.	टॉम पास में इंतजार कर रहा था।
-Tom walked inside.	Tom ging hinein.	टॉम अंदर गया।
-Tom walked inside.	Tom ist hineingegangen.	टॉम इसमें चला गया।
-Tom walks quickly.	Tom geht schnell.	टॉम जल्दी से चला जाता है।
 Tom walks the dog.	Tom geht mit dem Hund Gassi.	टॉम कुत्ते के साथ जाता है।
 Tom wanted change.	Tom war nach Veränderung zumute.	टॉम को बदलाव की तरह लगा।
 Tom wanted to die.	Tom wollte sterben.	टॉम मरना चाहता था।

@@ -19229,3 +19229,13 @@ Tom used to drink.	Tom trank früher.	टॉम पहले पीता था
 Tom used to smoke.	Tom rauchte früher.	टॉम पहले सिगरेट पीता था।
 Tom videotaped it.	Tom hat es auf Video aufgenommen.	टॉम ने इसे वीडियो में रिकॉर्ड किया।
 Tom videotaped it. (Different meaning)	Tom filmte es.	टॉम ने इसे फिल्माया।
+Tom vomited blood.	Tom erbrach Blut.	टॉम ने खून उल्टी की।
+Tom vomited twice.	Tom erbrach zweimal.	टॉम ने दो बार उल्टी की।
+Tom vomited twice. Duplicate Translation	Tom erbrach zweimal.	टॉम ने दो बार उलटी कर दी।
+Tom vowed revenge.	Tom schwor Rache.	टॉम ने प्रतिशोध का संकल्प किया।
+Tom waited calmly.	Tom wartete ruhig.	टॉम शांत रहकर प्रतीक्षा कर रहा था।
+Tom waited inside.	Tom wartete drinnen.	टॉम अंदर इंतजार कर रहा था।
+Tom waited nearby.	Tom wartete in der Nähe.	टॉम नजदीक इंतजार कर रहा था।
+Tom walked inside.	Tom ging hinein.	टॉम अंदर चला गया।
+Tom walked inside. Duplicate Translation	Tom lief hinein.	टॉम ने अंदर चलना शुरू किया।
+Tom walks quickly.	Tom läuft schnell.	टॉम तेजी से चलता है।
