@@ -16467,3 +16467,11 @@ I guess it's true.	Ich nehme an, es ist wahr.	मुझे लगता है �
 I had a good idea.	Ich hatte eine gute Idee.	मेरे पास एक अच्छी विचार थी।
 I had a good time.	Ich hatte eine schöne Zeit.	मैंने अच्छा समय बिताया।
 I had a nightmare.	Ich hatte einen Albtraum.	मुझे एक डरावना सपना आया।
+I had an accident.	Ich hatte einen Unfall.	मुझे एक दुर्घटना हो गई थी।
+I had fun dancing.	Ich hatte Spaß beim Tanzen.	मुझे नृत्य करते समय मजा आया।
+I had fun with it.	Ich hatte Spaß damit.	मुझे इसके साथ मजा आया।
+I had lost my pen.	Ich hatte meinen Stift verloren.	मेरी कलम खो गई थी।
+I had to kill Tom.	Ich musste Tom töten.	मुझे टॉम को मारना पड़ा।
+I had to stop Tom.	Ich musste Tom aufhalten.	मुझे टॉम को रोकना पड़ा।
+I hardly knew Tom.	Ich kannte Tom kaum.	मुझे टॉम को मुश्किल से पता था।
+I hate Tom's guts.	Ich finde Tom widerlich.	मुझे टॉम अच्छा नहीं लगता।
