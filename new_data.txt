@@ -4094,3 +4094,10 @@ I hate having coffee.	Ich hasse es, Kaffee zu haben.	मुझे कॉफ़�
 I hate coffee breaks.	Ich hasse Kaffeepausen.	मुझे कॉफ़ी की छुट्टीयाँ से नफरत हैं।
 I hate losing.	Ich hasse es zu verlieren.	मुझे हार के बारे में नफरत है।
 I hate my job.	Ich hasse meinen Job.	मुझे मेरा काम पसंद नहीं है।
+I hate myself.	Ich hasse mich.	मैं खुद से नफरत करता हूँ।
+I hate winter.	Ich hasse den Winter.	मुझे सर्दी से नफरत है।
+I have a boat.	Ich habe ein Boot.	मेरे पास एक नाव है।
+I have a book.	Ich habe ein Buch.	मेरे पास एक किताब है।
+I have a cold.	Ich bin erkältet.	मुझे जुकाम है।
+I have a date.	Ich habe ein Date.	मेरे पास एक खास मुलाकात है।
+I have a home.	Ich habe ein Zuhause.	मेरे पास एक घर है।
