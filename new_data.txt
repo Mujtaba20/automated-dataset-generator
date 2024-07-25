@@ -15892,3 +15892,12 @@ Give me an orange.	Gib mir eine Orange.	मुझे एक संतरा द�
 Give me five days.	Gib mir fünf Tage.	मुझे पांच दिन दे।
 Give me some milk.	Gib mir etwas Milch.	मुझे कुछ दूध दो।
 Give me that book.	Gib mir das Buch.	मुझे वह किताब दो।
+Give me the knife.	Gib mir das Messer.	मुझे चाकू दो।
+Give me the money.	Gib mir das Geld.	मुझे पैसे दो।
+Give me the spoon.	Gib mir den Löffel.	मुझे चमच दो।
+Give me the sword.	Gib mir das Schwert.	मुझे तलवार दो।
+Give me the watch.	Gib mir die Uhr.	मुझे घड़ी दो।
+Give me your book.	Gib mir dein Buch.	मुझे अपनी किताब दो।
+Give me your hand.	Gib mir deine Hand.	मुझे अपना हाथ दो।
+Give me your bag.	Geben Sie mir Ihre Tasche.	मुझे अपना थैला दो।
+Give me your phone.	Gib mir dein Handy.	मुझे अपना फ़ोन दो।
