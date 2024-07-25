@@ -16240,3 +16240,13 @@ I already ordered.	Ich habe schon bestellt.	मैंने पहले ही 
 I already said no.	Ich habe bereits Nein gesagt.	मैंने पहले ही नहीं कहा।
 I also like candy.	Ich mag auch Bonbons.	मुझे भी मिठाई पसंद है।
 I am 19 years old.	Ich bin 19 Jahre alt.	मैं 19 साल का हूं।
+I am a bad person.	Ich bin eine böse Person.	मैं एक बुरा इंसान हूँ।
+I am a translator.	Ich bin ein Übersetzer.	मैं एक अनुवादक हूँ।
+I am a translator.1	Ich bin ein Dolmetscher.	मैं एक अनुवादक हूँ।
+I am all mixed up.	Ich bin völlig durcheinander.	मैं पूरी तरह से गलती में हूँ।
+I am all mixed up.1	Ich bin alles durcheinander.	मैं सबकुछ एक साथ हूँ।
+I am baking bread.	Ich backe Brot.	मैं रोटी पका रहा हूँ।
+I am disappointed.	Ich bin enttäuscht.	मैं निराश हूँ।
+I am eating fruit.	Ich esse Obst.	मैं फल खा रहा हूँ।
+I am from Ecuador.	Ich komme aus Ecuador.	मैं एक्वाडोर से हूँ।
+I am in the house.	Ich bin im Haus.	मैं घर में हूँ।
