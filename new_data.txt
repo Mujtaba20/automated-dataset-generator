@@ -12878,3 +12878,13 @@ I'm going inside.	Ich gehe rein.	मैं अंदर जा रहा हू�
 I'm going to bed.	Ich gehe schlafen.	मैं सोने जा रहा हूँ।
 I'm going to run.	Ich werde laufen.	मैं दौड़ने जा रहा हूँ।
 I'm going to try.	Ich werde es versuchen.	मैं कोशिश करूंगा।
+I'm good at that.	Ich bin darin gut.	मैं उसमें अच्छा हूँ।
+I'm good at this.	Ich bin darin gut.	मैं इसमें अच्छा हूँ।
+I'm grown up now.	Ich bin jetzt erwachsen.	मैं अब बड़ा हो गया हूँ।
+I'm heading home.	Ich gehe nach Hause.	मैं घर की ओर जा रहा हूँ।
+I'm here for Tom.	Ich bin hier für Tom.	मैं यहाँ टॉम के लिए हूँ।
+I'm here for you.	Ich bin hier für dich.	मैं तुम्हारे लिए यहाँ हूँ।
+I'm here to help.	Ich bin hier, um zu helfen.	मैं यहाँ मदद करने के लिए हूँ।
+I'm homeschooled.	Ich werde zu Hause unterrichtet.	मैं घर पर पढ़ाया जाता हूँ।
+I'm housesitting.	Ich hüte ein Haus.	मैं घर की देखभाल कर रहा हूँ।
+I'm in Australia.	Ich bin in Australien.	मैं ऑस्ट्रेलिया में हूँ।
