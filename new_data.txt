@@ -15112,3 +15112,10 @@ We've got enough.	Wir haben genug.	हमारे पास पर्याप�
 We've located it.	Wir haben es gefunden.	हमने इसे ढूंढ निकाला है।
 We've missed you.	Wir haben dich vermisst.	हमें तुम्हारी याद आई।
 We've seen worse.	Wir haben Schlimmeres gesehen.	हमने बुरी स्थिति देखी है।
+We've stopped it.	Wir haben es gestoppt.	हमने यह रोक दिया है।
+We've tried that.	Wir haben das versucht.	हमने वह कोशिश की थी।
+Weak people lose.	Schwache Menschen verlieren.	कमजोर लोग हारते हैं।
+Were you at work?	Warst du bei der Arbeit?	क्या तुम काम पर थे?
+Were you excited?	Warst du aufgeregt?	क्या तुम उत्साहित थे?
+Were you invited?	Wurdest du eingeladen?	क्या तुम्हें आमंत्रित किया गया था?
+Were you invited? (Different meaning)	Wurdest du gebeten?	क्या तुम्हें निमंत्रण दिया गया था? (विभिन्न अर्थ)
