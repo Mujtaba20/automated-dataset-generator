@@ -3310,3 +3310,10 @@ Tom can walk.	Tom kann laufen.	टॉम चल सकता है।
 Tom canceled.	Tom storniert.	टॉम कैंसिल कर दिया।
 Tom canceled. (Different Meaning)	Tom abgesagt.	टॉम रद्द कर दिया।
 Tom chuckled.	Tom kicherte.	टॉम हँस दिया।
+Tom did that.	Tom hat das gemacht.	टॉम ने वह किया।
+Tom did this.	Tom hat dies gemacht.	टॉम ने यह किया।
+Tom did well.	Tom hat gut gemacht.	टॉम ने अच्छा किया।
+Tom enlisted.	Tom hat sich verpflichtet.	टॉम ने सेना में भर्ती की।
+Tom felt bad.	Tom fühlte sich schlecht.	टॉम को बुरा लगा।
+Tom felt sad.	Tom fühlte sich traurig.	टॉम दुखी महसूस कर रहा था।
+Tom finished.	Tom hat beendet.	टॉम ने समाप्त किया।
