@@ -390,3 +390,7 @@ Stand up!	Steh auf!	खड़े हो जाओ!
 Stand up.	Erhebe dich.	उठो।
 Stop Tom.	Stoppe Tom.	तोम को रोको।
 Take Tom.	Nimm Tom.	तॉम को ले जाओ।
+Taste it.	Schmecke es.	इसका स्वाद चखो।
+Tell Tom.	Informiere Tom.	टॉम को सूचित करें।
+Terrific!	Hervorragend!	ज़बरदस्त!
+They won.	Sie haben gewonnen.	उन्होंने जीत ली।
