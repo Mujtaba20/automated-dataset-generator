@@ -7221,3 +7221,11 @@ Tom has a Ford.	Tom hat einen Ford.	टॉम के पास एक फ़ो�
 Tom has a Ph.D.	Tom hat einen Doktortitel.	टॉम के पास एक डॉक्टरेट है।
 Tom has a blog.	Tom hat einen Blog.	टॉम के पास एक ब्लॉग है।
 Tom has a boat.	Tom hat ein Boot.	टॉम के पास एक नाव है।
+Tom has a cold.	Tom hat eine Erkältung.	टॉम ठंडा है।
+Tom has a limp.	Tom humpelt.	टॉम कुद रहा है।
+Tom has a plan.	Tom hat einen Plan.	टॉम का कोई योजना है।
+Tom has a wife.	Tom hat eine Frau.	टॉम की पत्नी है।
+Tom has asthma.	Tom hat Asthma.	टॉम को दमा है।
+Tom has braces.	Tom trägt Zahnspangen.	टॉम की दांतों पर ब्रेस लगा है।
+Tom has cancer.	Tom hat Krebs.	टॉम कैंसर से पीड़ित है।
+Tom has failed.	Tom hat versagt.	टॉम नाकाम हो गया है।
