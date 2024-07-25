@@ -4175,3 +4175,12 @@ I love my cat.	Ich liebe meine Katze.	मैं अपनी बिल्ली 
 I love my dad.	Ich liebe meinen Vater.	मुझे मेरे पिताजी से प्यार है।
 I adore my dog.	Ich verehre meinen Hund.	मैं अपने कुत्ते की पूजा करता हूँ।
 I cherish my son.	Ich schätze meinen Sohn.	मैं अपने बेटे की कीमत करता हूँ।
+I love nature.	Ich liebe die Natur.	मुझे प्रकृति पसंद है।
+I love pandas.	Ich liebe Pandas.	मुझे पांडा पसंद है।
+I love plants.	Ich liebe Pflanzen.	मुझे पौधे पसंद हैं।
+I love sports.	Ich liebe Sport.	मुझे खेल पसंद हैं।
+I love to eat.	Ich esse gerne.	मुझे खाना खाना पसंद है।
+I made Tom go.	Ich schickte Tom weg.	मैंने टॉम को जाने के लिए कहा।
+I made a fist.	Ich habe eine Faust gemacht.	मैंने एक मुठ्ठी बनाई।
+I made a list.	Ich habe eine Liste erstellt.	मैंने एक सूची बनाई।
+I made coffee.	Ich habe Kaffee gemacht.	मैंने कॉफी बनाई।
