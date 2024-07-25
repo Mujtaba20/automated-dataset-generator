@@ -9157,3 +9157,12 @@ engSentence7	Ich werde pünktlich sein.	मैं समय पर होंग�
 engSentence8	Ich werde anwesend sein.	मैं मौजूद होऊंगा।
 engSentence9	Ich werde präsent sein.	मैं उपस्थित होऊंगा।
 engSentence10	Ich werde einen Ford kaufen.	मैं एक फोर्ड खरीदूंगा।
+I'll call again.	Ich rufe noch einmal an.	मैं फिर से कॉल करूँगा।
+I'll check that.	Ich werde das überprüfen.	मैं उसे जांचूंगा।
+I'll come alone.	Ich komme alleine.	मैं अकेला आऊंगा।
+I'll come by 10.	Ich werde bis 10 kommen.	मैं दस बजे तक आऊंगा।
+I'll come early.	Ich komme früh.	मैं जल्दी आऊंगा।
+I'll defend Tom.	Ich werde Tom verteidigen.	मैं टॉम की रक्षा करूंगा।
+I'll do it, too.	Ich werde es auch machen.	मैं भी यह करूंगा।
+I'll do my best.	Ich werde mein Bestes geben.	मैं अपनी सबसे अच्छी कोशिश करूँगा।
+I'll enjoy this.	Das werde ich genießen.	मैं इसे आनंद लेऊँगा।
