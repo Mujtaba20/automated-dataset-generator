@@ -323,3 +323,10 @@ I refuse.	Ich lehne ab.	मैं इंकार करता हूँ।
 I resign.	Ich trete zurück.	मैं इस्तीफा दे रहा हूँ।
 I rested.	Ich ruhte mich aus.	मैं विश्राम कर रहा था।
 I shaved.	Ich rasierte mich.	मैंने शेव किया।
+I smiled.	Ich lächelte.	मैं मुस्कुराया।
+I stayed.	Ich blieb.	मैं रुका रहा।
+I use it.	Ich benutze es.	मैं इसका उपयोग करता हूँ।
+I waited.	Ich habe gewartet.	मैंने इंतजार किया।
+I winked.	Ich zwinkerte.	मैंने आँख मारी।
+I yawned.	Ich gähnte.	मैंने ऊँघ भरी।
+I'll pay.	Ich werde bezahlen.	मैं चुकाऊंगा।
