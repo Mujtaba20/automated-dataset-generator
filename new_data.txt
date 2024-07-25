@@ -917,3 +917,10 @@ He hanged the painting.	Er hängte das Gemälde auf.	उसने चित्�
 He is a DJ.	Er ist ein DJ.	वह एक डीजे है।
 He works as a DJ.	Er arbeitet als DJ.	वह एक डीजे के रूप में काम करता है।
 He is busy.	Er ist beschäftigt.	वह व्यस्त है।
+He is here!	Er ist hier!	वह यहाँ है!
+He is kind.	Er ist nett.	वह भले दिल वाला है।
+He is mean.	Er ist fies.	वह ख़राब है।
+He is poor.	Er ist arm.	वह गरीब है।
+He is sick.	Er ist krank.	वह बीमार है।
+He is tall.	Er ist groß.	वह लंबा है।
+He laughed.	Er lachte.	उसने हंसी।
