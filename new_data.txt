@@ -2362,3 +2362,11 @@ You're cute.	Du bist niedlich.	तुम खुबसूरत हो।
 You need us.1	Du brauchst uns.	तुम्हें हमारी जरुरत है।
 You said it!1	Du hast es gesagt!	तुमने यह कहा!
 You're back.1	Du kehrst zurück.	तुम वापस आ गए हो।
+You're fair.	Du bist gerecht.	तुम निष्पक्ष हो।
+You're fine.	Du bist in Ordnung.	तुम ठीक हो।
+You're good.	Du bist gut.	तुम अच्छे हो।
+You're here.	Du bist hier.	तुम यहाँ हो।
+You're kind.	Du bist nett.	तुम दयालु हो।
+You're late.	Du bist spät.	तुम देर से हो।
+You're lost.	Du hast dich verirrt.	तुम खो गए हो।
+You're mean.	Du bist gemein.	तुम बुरे हो।
