@@ -14604,3 +14604,13 @@ Tom seemed happy.	Tom schien glücklich zu sein.	टॉम खुश लग र�
 Tom seemed lucky.	Tom schien glücklich zu sein.	टॉम भाग्यशाली लग रहा था।
 Tom seemed moody.	Tom schien launisch zu sein.	टॉम उदास लग रहा था।
 Tom seemed naive.	Tom schien naiv zu sein.	टॉम भोला लग रहा था।
+Tom seemed ready.	Tom schien bereit zu sein.	टॉम तैयार लग रहा था।
+Tom seemed smart.	Tom schien klug zu sein.	टॉम बुद्धिमान लग रहा था।
+Tom seemed smart. (different meaning)	Tom schien schlau zu sein.	टॉम चालाक लग रहा था।
+Tom seemed tense.	Tom schien angespannt zu sein.	टॉम तनावग्रस्त लग रहा था।
+Tom seemed tired.	Tom schien müde zu sein.	टॉम थका हुआ लग रहा था।
+Tom seemed tough.	Tom schien hart zu sein.	टॉम मजबूत लग रहा था।
+Tom seemed tough. (different meaning)	Tom schien robust zu sein.	टॉम मजबूत लग रहा था।
+Tom seemed upset.	Tom schien verärgert zu sein.	टॉम उदास लग रहा था।
+Tom seems OK now.	Tom scheint jetzt okay zu sein.	टॉम अब ठीक लग रहा है।
+Tom seems afraid.	Tom scheint ängstlich zu sein.	टॉम डर रहा है।
