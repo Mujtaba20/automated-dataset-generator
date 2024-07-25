@@ -18589,3 +18589,12 @@ Tom is a graduate.	Tom ist ein Absolvent.	टॉम एक स्नातक �
 Tom is a jeweller.	Tom ist ein Juwelier.	टॉम एक जवेलर है।
 Tom is a kind boy.	Tom ist ein freundlicher Junge.	टॉम एक दयालु लड़के है।
 Tom is a linguist.	Tom ist ein Sprachwissenschaftler.	टॉम एक भाषा विज्ञानी है।
+Tom is a mechanic.	Tom ist ein Mechaniker.	टॉम एक मीकानिक है।
+Tom is a minister.	Tom ist ein Minister.	टॉम मंत्री है।
+Tom is a murderer.	Tom ist ein Mörder.	टॉम एक हत्यारा है।
+Tom is a musician.	Tom ist ein Musiker.	टॉम एक संगीतकार है।
+Tom is a neighbor.	Tom ist ein Nachbar.	टॉम पड़ोसी है।
+Tom is a newcomer.	Tom ist ein Neuling.	टॉम एक नए आने वाले हैं।
+Tom is a nice guy.	Tom ist ein netter Kerl.	टॉम अच्छे इंसान हैं।
+Tom is a nice man.	Tom ist ein netter Mann.	टॉम अच्छे आदमी हैं।
+Tom is a prisoner.	Tom ist ein Gefangener.	टॉम कैदी है।

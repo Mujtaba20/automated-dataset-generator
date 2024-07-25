@@ -1,16 +1,4 @@
 
-Tom is a mechanic.	Tom ist Mechaniker.	टॉम एक मैकेनिक है।
-Tom is a minister.	Tom ist Pfarrer.	टॉम एक पादरी है।
-Tom is a murderer.	Tom ist ein Mörder.	टॉम एक हत्यारा है।
-Tom is a musician.	Tom ist Musiker.	टॉम एक संगीतकार है।
-Tom is a neighbor.	Tom ist ein Nachbar.	टॉम एक पड़ोसी है।
-Tom is a newcomer.	Tom ist neu dabei.	टॉम नया है।
-Tom is a newcomer.	Tom ist neu.	टॉम नया है।
-Tom is a nice guy.	Tom ist ein netter Kerl.	टॉम एक अच्छा लड़का है।
-Tom is a nice man.	Tom ist ein netter Mann.	टॉम एक अच्छा आदमी है।
-Tom is a prisoner.	Tom ist ein Sträfling.	टॉम एक दोषी है।
-Tom is a prisoner.	Tom ist ein Gefangener.	टॉम एक कैदी है।
-Tom is a prisoner.	Tom ist ein Strafgefangener.	टॉम एक कैदी है।
 Tom is a pushover.	Tom ist ein halbes Hemd.	टॉम आधा शर्ट है।
 Tom is a real man.	Tom ist ein echter Kerl.	टॉम एक असली आदमी है।
 Tom is a reporter.	Tom ist Reporter.	टॉम एक रिपोर्टर है।
