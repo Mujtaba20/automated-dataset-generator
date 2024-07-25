@@ -3226,3 +3226,10 @@ They are big.	Sie sind groß.	वे बड़े हैं।
 They came in.	Sie kamen herein.	वे अंदर आए।
 They cheered.	Sie jubelten.	उन्होंने चीयर किया।
 They escaped.	Sie entkamen.	वे बच गए।
+They gave up.	Sie gaben auf.	उन्होंने छोड़ दिया।
+They hate us.	Sie hassen uns.	उन्हें हमसे नफरत है।
+They knew me.	Sie kannten mich.	उन्हें मुझे पहचाना।
+They know me.	Sie kennen mich.	उन्हें मुझे पता है।
+They laughed.	Sie lachten.	उन्होंने मजाक किया।
+They love it.	Sie lieben es.	उन्हें यह पसंद है।
+They love me.	Sie lieben mich.	उन्हें मुझसे प्यार है।
