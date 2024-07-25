@@ -11255,3 +11255,13 @@ Where's our car?	Wo ist unser Auto?	हमारी कार कहाँ ह�
 Where's the car?	Wo ist das Auto?	गाड़ी कहाँ है?
 Where's the cat?	Wo ist die Katze?	बिल्ली कहाँ है?
 Where's the dog?	Wo ist der Hund?	कुत्ता कहाँ है?
+Where's the ice?	Wo ist das Eis?	बर्फ कहाँ है?
+Where's the map?	Wo ist die Karte?	नक्शा कहाँ है?
+Where's the oar?	Wo ist der Ruder?	ओर कहाँ है?
+Where's the pen?	Wo ist der Stift?	कलम कहाँ है?
+Where's the zoo?	Wo ist der Zoo?	चिड़ियाघर कहाँ है?
+Which are Tom's?	Welche gehören Tom?	कौन टॉम के हैं?
+Which is better?	Was ist besser?	कौन सा बेहतर है?
+Which key is it?	Welcher Schlüssel ist es?	यह कौनसा कुंजी है?
+Who are you all?	Wer seid ihr alle?	तुम सभी कौन हो?
+Who bought that?	Wer hat das gekauft?	वह कौन खरीदा?
