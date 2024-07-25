@@ -4618,3 +4618,8 @@ engSentence4	Nur prüfen Sie es.	बस इसे जांचें।
 engSentence5	Nur überprüfen.	केवल यह जांचें।
 Just find Tom.	Finde einfach Tom.	तोम को बस ढूंढ़ो।
 Just get lost.	Verpiss dich einfach.	बस खो जाओ।
+Just pick one.	Wähle einfach eins.	बस एक चुनो।
+Keep Tom busy.	Halte Tom beschäftigt.	टॉम को व्यस्त रखो।
+Keep climbing.	Weiterklettern.	चढ़ते रहो।
+Keep in touch!	Bleib in Kontakt!	संपर्क में रहें!
+Keep it quiet.	Halte es ruhig.	इसे शांत रखो।
