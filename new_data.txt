@@ -235,3 +235,8 @@ Lie low.	Halte dich bedeckt.	कम उछलो।
 Lie low. (different meaning)	Verheimliche etwas.	छुपाओ।
 Lock it.	Verriegel es.	इसे तालमे बंद करें।
 Open it.	Aufmachen.	यह खोलें।
+Open up.	Aufmachen.	खोलो।
+Perfect!	Perfekt!	शानदार!
+Pull it.	Zieh es.	इसे खींचो।
+Push it.	Schieb es.	इसे धकेलो।
+See you!	Bis bald!	फिर मिलेंगे!
