@@ -5257,3 +5257,11 @@ We can manage.	Wir können es schaffen.	हम संभाल सकते ह�
 We can try it.	Wir können es versuchen.	हम इसे कोशिश कर सकते हैं।
 We can't lose.	Wir können nicht verlieren.	हम हार नहीं सकते।
 We can't wait.	Wir können nicht warten.	हम इंतजार नहीं कर सकते।
+We caught Tom.	Wir fingen Tom.	हमने टॉम को पकड़ लिया।
+We didn't try.	Wir haben es nicht versucht.	हमने कोशिश नहीं की।
+We do love it.	Wir lieben es.	हम इसे प्यार करते हैं।
+We don't know.	Wir wissen nicht.	हमें नहीं पता।
+We found them.	Wir haben sie gefunden.	हमने उन्हें ढूँढ़ लिया।
+We got robbed.	Wir wurden überfallen.	हमें लूट लिया।
+We had a plan.	Wir hatten einen Plan.	हमारे पास एक योजना थी।
+We had doubts.	Wir hatten Zweifel.	हमें संदेह थे।
