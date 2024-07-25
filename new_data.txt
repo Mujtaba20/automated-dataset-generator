@@ -16316,3 +16316,9 @@ I can't move this.	Ich kann das nicht bewegen.	मैं यह नहीं ह
 I can't place him.	Ich kann ihn nicht platzieren.	मैं उसे रखने का नहीं कर सकता।
 I can't reach Tom.	Ich kann Tom nicht erreichen.	मैं टॉम तक पहुंच नहीं सकता।
 I can't read this.	Ich kann das hier nicht lesen.	मैं यह नहीं पढ़ सकता।
+I can't risk that.	Ich kann das nicht riskieren.	मैं उस पर जोखिम नहीं ले सकता।
+I can't sleep now.	Ich kann jetzt nicht schlafen.	मैं अब नहीं सो सकता।
+I can't stand Tom.	Ich kann Tom nicht ausstehen.	मुझे टॉम नहीं पसंद।
+I can't stand him.	Ich kann ihn nicht leiden.	मैं उसे सहन नहीं कर सकता।
+I can't swim well.	Ich kann nicht gut schwimmen.	मैं अच्छे से तैर नहीं सकता।
+I can't trust Tom.	Ich kann Tom nicht vertrauen.	मैं टॉम पर भरोसा नहीं कर सकता।
