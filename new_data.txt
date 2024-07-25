@@ -4943,3 +4943,11 @@ Time is money.	Zeit ist Geld.	समय पैसा है।
 Tom adores me.	Tom liebt mich.	टॉम मुझे पिराया करता है।
 Tom and I ran.	Tom und ich sind gerannt.	टॉम और मैं भागे।
 Tom applauded.	Tom applaudierte.	टॉम ताली बजाता था।
+Tom asked why.	Tom fragte warum.	टॉम ने पूछा क्यों।
+Tom ate alone.	Tom aß alleine.	टॉम ने अकेले खाया।
+Tom avoids me.	Tom meidet mich.	टॉम मुझसे बचता है।
+Tom blames us.	Tom gibt uns die Schuld.	टॉम हमें दोष देता है।
+Tom called me.	Tom rief mich an.	टॉम ने मुझे फोन किया।
+Tom called us.	Tom rief uns an.	टॉम ने हमें बुलाया।
+Tom came here.	Tom kam hierher.	टॉम यहाँ आया।
+Tom came home.	Tom kam nach Hause.	टॉम घर आया।
