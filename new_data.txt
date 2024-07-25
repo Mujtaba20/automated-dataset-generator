@@ -354,3 +354,12 @@ I'm rich.	Ich bin reich.	मैं धनवान हूँ।
 I'm safe.	Ich bin sicher.	मैं सुरक्षित हूँ।
 I'm sick.	Ich bin krank.	मैं बीमार हूँ।
 I'm sure.	Ich bin sicher.	मुझे यकीन है।
+I'm tall.	Ich bin groß.	मैं लंबा हूँ।
+I'm thin.	Ich bin dünn.	मैं पतला हूँ।
+I'm tidy.	Ich bin ordentlich.	मैं साफ़ हूँ।
+I'm ugly.	Ich bin hässlich.	मैं बदसूरत हूँ।
+I'm weak.	Ich bin schwach.	मैं कमजोर हूँ।
+I'm well.	Mir geht es gut.	मैं ठीक हूँ।
+It helps.	Es hilft.	यह मदद करता है।
+It hurts.	Es tut weh.	यह दर्द करता है।
+It works.	Es funktioniert.	यह काम करता है।
