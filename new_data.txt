@@ -13365,3 +13365,10 @@ My pulse is weak.	Mein Puls ist schwach.	मेरी नब्ज कमजो�
 My shoes got wet.	Meine Schuhe sind nass geworden.	मेरे जूते गीले हो गए।
 My socks are wet.	Meine Socken sind nass.	मेरे मोजे गीले हैं।
 My stomach hurts.	Mein Magen tut weh.	मेरा पेट दर्द कर रहा है।
+My tie is orange.	Meine Krawatte ist orange.	मेरा टाई नारंजी है।
+My toy is broken.	Mein Spielzeug ist beschädigt.	मेरा खिलौना टूटा हुआ है।
+My uncle is rich.	Mein Onkel ist reich.	मेरे चाचा अमीर हैं।
+My wallet's gone.	Mein Geldbeutel ist verschwunden.	मेरा बटुआ गुम हो गया है।
+My wife beats me.	Meine Frau schlägt mich.	मेरी पत्नी मुझे मारती है।
+Neither was true.	Keines war wahr.	न तो सच था।
+Never tell a lie.	Sprich niemals eine Lüge.	कभी झूठ मत बोलना।
