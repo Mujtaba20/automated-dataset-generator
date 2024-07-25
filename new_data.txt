@@ -16231,3 +16231,12 @@ How's your French?	Wie steht es um dein Französisch?	तुम्हारा �
 How's your family?	Wie geht es deiner Familie?	तुम्हारे परिवार कैसे हैं?
 How's your father?	Wie geht es deinem Vater?	तुम्हारे पिताजी कैसे हैं?
 How's your mother?	Wie geht es deiner Mutter?	तुम्हारी माँ कैसी हैं?
+How's your sister?	Wie geht es deiner Schwester?	तुम्हारी बहन कैसी है?
+I accept the risk.	Ich akzeptiere das Risiko.	मैं जोखिम स्वीकार करता हूँ।
+I agreed with Tom.	Ich stimme Tom zu.	मैंने टॉम से सहमति जताई।
+I agreed with her.	Ich war einverstanden mit ihr.	मैं उसके साथ सहमत था।
+I agreed with her. (different meaning)	Ich habe mit ihr zugestimmt.	मैंने उसके साथ सहमति की।
+I already ordered.	Ich habe schon bestellt.	मैंने पहले ही आर्डर किया था।
+I already said no.	Ich habe bereits Nein gesagt.	मैंने पहले ही नहीं कहा।
+I also like candy.	Ich mag auch Bonbons.	मुझे भी मिठाई पसंद है।
+I am 19 years old.	Ich bin 19 Jahre alt.	मैं 19 साल का हूं।
