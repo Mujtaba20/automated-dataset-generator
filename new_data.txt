@@ -8854,3 +8854,13 @@ I like Tom, too.	Ich mag auch Tom.	मुझे भी टॉम पसंद �
 I like baseball.	Ich mag Baseball.	मुझे बेसबॉल पसंद है।
 I like broccoli.	Ich mag Brokkoli.	मुझे ब्रोकली पसंद है।
 I like cartoons.	Ich liebe Cartoons.	मुझे कार्टून पसंद हैं।
+I like eggplant.	Ich mag Auberginen.	मुझे बैंगन पसंद है।
+I like football.	Ich mag Fußball.	मुझे फुटबॉल पसंद है।
+I like my house.	Ich mag mein Haus.	मुझे मेरा घर पसंद है।
+I like potatoes.	Ich mag Kartoffeln.	मुझे आलू पसंद है।
+I like raw fish.	Ich mag rohes Fisch.	मुझे कच्ची मछली पसंद है।
+I like red wine.	Ich mag Rotwein.	मुझे लाल शराब पसंद है।
+I like sleeping.	Ich mag schlafen.	मुझे सोना पसंद है।
+I like that dog.	Ich mag diesen Hund.	मुझे वह कुत्ता पसंद है।
+I like that one.	Ich mag dies.	मुझे यह पसंद है।
+I like that tie.	Ich mag diese Krawatte.	मुझे यह टाई पसंद है।
