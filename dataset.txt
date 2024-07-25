@@ -1,15 +1,4 @@
 
-What's Tom making?	Was stellt Tom her?	टॉम क्या बनाता है?
-What's Tom making?	Was bastelt Tom?	टॉम टिंकरिंग क्या है?
-What's Tom saying?	Was sagt Tom?	टॉम क्या कहता है?
-What's down there?	Was ist da unten?	वहाँ क्या है?
-What's eating her?	Was hat sie denn?	उसके पास क्या है?
-What's for dinner?	Was gibt’s zu essen?	रात के खाने के लिए क्या है?
-What's for dinner?	Was gibt’s zum Abendessen?	रात के खाने के लिए क्या है?
-What's for supper?	Was gibt’s zum Abendbrot?	रात के खाने के लिए क्या है?
-What's for supper?	Was gibt’s zum Abendessen?	रात के खाने के लिए क्या है?
-What's in the bag?	Was ist in dem Sack?	बोरी में क्या है?
-What's in the bag?	Was ist in der Tasche?	बैग में क्या है?
 What's in the box?	Was ist in der Kiste?	बॉक्स में क्या है?
 What's in the box?	Was ist in der Schachtel?	बॉक्स में क्या है?
 What's it made of?	Woraus ist es gemacht?	यह किस चीज़ से बना है?

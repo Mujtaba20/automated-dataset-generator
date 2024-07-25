@@ -19766,3 +19766,10 @@ What're the facts?	Was sind die Fakten?	अब तथ्य क्या है�
 What're you after?	Worauf bist du aus?	तुम क्या खोज रहे हो?
 What's Tom asking?	Was fragt Tom?	टॉम क्या पूछ रहा है?
 What's Tom eating?	Was isst Tom?	टॉम क्या खा रहा है?
+What's Tom making?	Was produziert Tom?	टॉम क्या बना रहा है?
+What's Tom saying?	Was sagt Tom?	टॉम क्या कह रहा है?
+What's down there?	Was ist da unten?	वहा क्या है?
+What's eating her?	Was isst sie?	उसे क्या खा रहा है?
+What's for dinner?	Was steht zum Abendessen bereit?	रात के खाने में क्या है?
+What's for supper?	Was steht zu Abendessen bereit?	रात के खाने में क्या है?
+What's in the bag?	Was ist in der Tasche?	बैग में क्या है?
