@@ -1458,3 +1458,11 @@ Can you try? (Different meaning)	Kannst du es ausprobieren?	क्या तु�
 Come aboard.	Komm an Bord.	जहाज पर आ जाओ।
 Come aboard. (Different meaning)	Komm mit an Bord.	बोर्ड करने के लिए आ जाओ।
 Come closer.	Komm näher.	और पास आओ।
+Come get it.	Komm und hol es.	आओ और इसे पाओ।
+Come get me.	Komm und hol mich.	मेरे पास आओ।
+Come get me. (different meaning)	Komm und nimm mich.	मुझे पकड़ो।
+Come inside.	Komm rein.	अंदर आओ।
+Come see me.	Komm mich besuchen.	मेरे पास आओ।
+Comfort Tom.	Tröste Tom.	टॉम को ढांस दो।
+Comfort Tom. (different meaning)	Mach es Tom bequem.	टॉम को आराम दे।
+Contact Tom.	Kontaktiere Tom.	टॉम से संपर्क करें।
