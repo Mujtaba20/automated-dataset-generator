@@ -2933,3 +2933,13 @@ I'm your age.	Ich bin in deinem Alter.	मैं तुम्हारी उम
 I've changed.	Ich habe mich verändert.	मैंने बदल दिया है।
 I've checked.	Ich habe überprüft.	मैंने जाँच की है।
 I've lost it.	Ich habe es verloren.	मैंने यह खो दिया है।
+Ice is solid.	Eis ist fest.	बर्फ ठोस है।
+Iron is hard.	Eisen ist hart.	लोहा कठोर है।
+Is Monday OK?	Ist der Montag in Ordnung?	क्या सोमवार ठीक है?
+Is Tom alive?	Ist Tom am Leben?	क्या टॉम जिंदा है?
+Is Tom alone?	Ist Tom allein?	क्या टॉम अकेला है?
+Is Tom awake?	Ist Tom wach?	क्या टॉम जाग रहा है?
+Is Tom blind?	Ist Tom blind?	क्या टॉम अंधा है?
+Is Tom crazy?	Ist Tom verrückt?	क्या टॉम पागल है?
+Is Tom drunk?	Ist Tom betrunken?	क्या टॉम नशे में है?
+Is Tom dying?	Stirbt Tom?	क्या टॉम मर रहा है?
