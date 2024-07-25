@@ -576,3 +576,13 @@ I'll call.	Ich werde anrufen.	मैं कॉल करूँगा।
 I'll come.	Ich werde kommen.	मैं आऊंगा।
 I'll cook.	Ich werde kochen.	मैं पकाऊंगा।
 I'll help.	Ich werde helfen.	मैं मदद करूंगा।
+I'll live.	Ich werde leben.	मैं रहूँगा।
+I'll obey.	Ich werde gehorchen.	मैं मानूँगा।
+I'll quit.	Ich werde aufhören.	मैं छोड़ दूंगा।
+I'll resign.	Ich werde kündigen.	मैं अस्तीफा दे दूंगा।
+I'll sing.	Ich werde singen.	मैं गाऊँगा।
+I'll stay.	Ich werde bleiben.	मैं रहूँगा।
+I'll stop.	Ich werde stoppen.	मैं रुकूँगा।
+I'll converse.	Ich werde sprechen.	मैं चर्चा करूँगा।
+I'll wait.	Ich werde warten.	मैं इंतजार करूँगा।
+I'll walk.	Ich werde gehen.	मैं चलूँगा।
