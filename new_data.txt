@@ -5881,3 +5881,13 @@ He's too drunk.	Er ist zu betrunken.	वह बहुत नशे में ह
 He's uninsured.	Er ist nicht versichert.	उसकी कोई बीमा नहीं है।
 He's very fast.	Er ist sehr schnell.	वह बहुत तेज़ है।
 Hello everyone!	Hallo alle!	हर किसी को नमस्कार!
+Hello, I'm Tom.	Hallo, ich bin Tom.	नमस्ते, मैं टॉम हूँ।
+Help Tom study.	Hilf Tom beim Lernen.	टॉम को पढ़ाई में मदद करो।
+Help Tom study. (different meaning)	Unterstütze Tom beim Lernen.	टॉम की पढ़ाई में मदद करो।
+Here comes Tom.	Hier kommt Tom.	यहाँ आ रहा है टॉम।
+Here comes Tom. (different meaning)	Da kommt Tom.	टॉम आ रहा है।
+Here is my key.	Hier ist mein Schlüssel.	यहाँ मेरी चाबी है।
+Here they come.	Hier kommen sie.	वे यहाँ आ रहे हैं।
+Here's my card.	Hier ist meine Karte.	यहाँ मेरी कार्ड है।
+Here's the bus.	Hier ist der Bus.	यहाँ बस है।
+Here's the car.	Hier ist das Auto.	यहाँ गाड़ी है।
