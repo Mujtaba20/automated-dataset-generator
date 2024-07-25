@@ -14862,3 +14862,12 @@ Tom won't answer.	Tom wird nicht antworten.	टॉम जवाब नहीं 
 Tom won't change.	Tom wird sich nicht ändern.	टॉम नहीं बदलेगा।
 Tom won't listen.	Tom wird nicht zuhören.	टॉम सुनेगा नहीं।
 Tom won't notice.	Tom wird nicht bemerken.	टॉम को ध्यान नहीं नहीं पड़ेगा।
+Tom won't object.	Tom wird nicht widersprechen.	टॉम आपत्ति नहीं करेगा।
+Tom won't resign.	Tom wird nicht zurücktreten.	टॉम इस्तीफा नहीं देगा।
+Tom won't retire.	Tom wird nicht in den Ruhestand gehen.	टॉम सेवानिवृत्त नहीं होगा।
+Tom won't starve.	Tom wird nicht hungern.	टॉम भूखा नहीं मरेगा।
+Tom wore glasses.	Tom trug eine Brille.	टॉम चश्मा पहन रहा था।
+Tom worked there.	Tom war dort beschäftigt.	टॉम वहाँ में काम कर रहा था।
+Tom works for me.	Tom arbeitet für mich.	टॉम मेरे लिए काम करता है।
+Tom works for us.	Tom arbeitet für uns.	टॉम हमारे लिए काम करता है।
+Tom works nearby.	Tom arbeitet in der Nähe.	टॉम निकट ही काम करता है।
