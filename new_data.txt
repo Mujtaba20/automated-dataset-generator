@@ -3533,3 +3533,13 @@ Watch me now.	Schau mir jetzt zu.	अब मुझे देखो।
 We all stood.	Wir standen alle.	हम सब वहीं खड़े थे।
 We apologize.	Wir entschuldigen uns.	हम माफी मांगते हैं।
 We applauded.	Wir applaudierten.	हमने तालियां बजाईं।
+We are Arabs.	Wir sind Araber.	हम अरब हैं।
+We are happy.	Wir sind glücklich.	हम खुश हैं।
+We can begin.	Wir können anfangen.	हम शुरू कर सकते हैं।
+We can start.	Wir können starten.	हम शुरू कर सकते हैं।
+We can check.	Wir können überprüfen.	हम जाँच कर सकते हैं।
+We can do it.	Wir können es machen.	हम कर सकते हैं।
+We can't win.	Wir können nicht gewinnen.	हम जीत नहीं सकते।
+We don't lie.	Wir lügen nicht.	हम झूठ नहीं बोलते।
+We eat early.	Wir essen früh.	हम जल्दी खाते हैं।
+We found Tom.	Wir fanden Tom.	हमने टॉम को ढूँढा।
