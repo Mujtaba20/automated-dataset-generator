@@ -15124,3 +15124,12 @@ Were you nervous?	Waren Sie nervös?	क्या आप उत्तेजि�
 Were you serious?	Warst du ernst?	क्या तुम गंभीर थे?
 Were you shot at?	Wurdest du angeschossen?	क्या तुम गोली मार खाई थी?
 Were you unlucky?	Hast du Pech gehabt?	क्या तुमने बदकिस्मती पाई?
+Were you worried?	Hast du dir Sorgen gemacht?	क्या आप चिंतित थे?
+What a bad movie!	Was für ein schlechter Film!	कितनी खराब मूवी है!
+What a big truck!	Was für ein großer Lastwagen!	कितना बड़ा ट्रक है!
+What a big truck! (different meaning)	Was für ein großer LKW!	बड़ा ट्रक क्यों है?
+What a cute baby!	Was für ein süßes Baby!	कितना प्यारा बच्चा है!
+What a cute girl!	Was für ein süßes Mädchen!	बेहद प्यारी लड़की है!
+What a fine view!	Was für eine wunderbare Aussicht!	क्या शानदार दृश्य है!
+What a fine view! (different meaning)	Was für eine schöne Aussicht!	कितना शानदार नज़ार है!
+What a funny man!	Was für ein lustiger Mann!	कितने मजेदार आदमी हैं!
