@@ -11169,3 +11169,13 @@ We've seen them.	Wir haben sie gesehen.	हमने उन्हें दे�
 We've upset Tom.	Wir haben Tom verärgert.	हमने टॉम को उदास किया।
 Were they lying?	Haben sie gelogen?	क्या वे झूठ बोल रहे थे?
 Were you crying?	Hast du geweint?	क्या तुम रो रहे थे?
+engSentence1	Hast du Angst gehabt?	क्या तुम्हें डर लगा?
+engSentence2	Waren Sie erschrocken?	क्या आप डर गए थे?
+engSentence3	Was für ein riesiger Hund!	कितना बड़ा कुत्ता है!
+engSentence4	Was für eine schöne Krawatte!	कितना खूबसूरत टाई है!
+engSentence5	Was für ein unhöflicher Mann!	कितना अकड़ा मनुष्य है!
+engSentence6	Was für eine Überraschung!	कितना अच्छा संकेत है!
+engSentence7	Was mache ich?	मैं क्या कर रहा हूँ?
+engSentence8	Was soll ich tun?	मेरे क्या करना चाहिए?
+engSentence9	Was kommt als nächstes?	आगे क्या आने वाला है?
+engSentence10	Was kommt als nächstes?	उसके बाद क्या आता है?
