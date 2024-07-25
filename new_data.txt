@@ -3158,3 +3158,12 @@ Talk in French.	Sprechen Sie Französisch.	फ्रेंच में बा�
 Speak louder.	Sprich lauter.	ज्यादा अवाज़ करो।
 Speak slower.	Sprich langsamer.	धीरे बोलो।
 Speak softly.	Sprich leise.	मिठी आवाज में बोलो।
+Stay a while.	Verweile eine Weile.	कुछ समय रहो।
+Stay at home.	Bleiben Sie zu Hause.	घर पर रहो।
+Stay focused.	Bleiben Sie konzentriert.	ध्यान लगाए रहो।
+Stay focused. (different meaning)	Bleiben Sie fokussiert.	एकाग्र रहो।
+Stay with me.	Bleib bei mir.	मेरे साथ रहो।
+Stay with us.	Bleibt bei uns.	हमारे साथ रहो।
+Step forward.	Schritt nach vorn.	आगे बढ़ें।
+Step forward. (different meaning)	Vorwärts treten.	आगे बढ़ें।
+Stop filming.	Hören Sie mit dem Filmen auf.	फिल्मिंग बंद करो।
