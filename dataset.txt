@@ -1,14 +1,4 @@
 
-You're too little.	Du bist noch zu klein.	आप अभी भी बहुत छोटे हैं।
-You're too skinny.	Du bist zu mager.	तुम बहुत दुबले हो।
-You're too skinny.	Sie sind zu mager.	वे बहुत दुबले हैं।
-You're too skinny.	Ihr seid zu mager.	तुम बहुत दुबले हो।
-You're unreliable.	Du bist unzuverlässig.	आप अविश्वसनीय हैं।
-You're unreliable.	Ihr seid unzuverlässig.	आप अविश्वसनीय हैं।
-You're unreliable.	Sie sind unzuverlässig.	वे अविश्वसनीय हैं।
-You're untalented.	Du bist unbegabt.	आप अनियंत्रित हैं।
-You're untalented.	Ihr seid untalentiert.	आप अनियंत्रित हैं।
-You're untalented.	Sie haben kein Talent.	आपके पास कोई प्रतिभा नहीं है।
 You're very alert.	Du bist ganz hellwach.	आप बहुत व्यापक जाग रहे हैं।
 You're very brave.	Sie sind sehr mutig.	वे बहुत बहादुर हैं।
 You're very brave.	Du bist sehr mutig.	आप बहुत बहादुर हैं।

@@ -20206,3 +20206,7 @@ You're the specialist.	Du bist der Spezialist.	तुम विशेषज्�
 You're the professional.	Du bist der Profi.	तुम पेशेवर हो।
 You're the master.	Du bist der Meister.	तुम शिष्य हो।
 You're the authority.	Du bist die Autorität.	तुम प्राधिकार हो।
+You're too little.	Du bist zu klein.	तुम बहुत छोटे हो।
+You're too skinny.	Du bist zu dünn.	तुम बहुत पतले हो।
+You're unreliable.	Du bist unzuverlässig.	तुम अविश्वसनीय हो।
+You're untalented.	Du bist untalentiert.	तुम अर्थकोषिकी हो।
