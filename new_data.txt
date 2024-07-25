@@ -16606,3 +16606,13 @@ I know what it is.	Ich weiß, was es ist.	मुझे पता है यह �
 I know what to do.	Ich weiß, was zu tun ist.	मुझे पता है क्या करना है।
 I know where I am.	Ich weiß, wo ich bin.	मुझे पता है मैं कहाँ हूँ।
 I know who Tom is.	Ich weiß, wer Tom ist.	मुझे पता है टॉम कौन है।
+I know who it was.	Ich weiß, wer es war.	मुझे पता है कि यह कौन था।
+I know who she is.	Ich weiß, wer sie ist.	मुझे पता है कि वह कौन है।
+I know who to ask.	Ich weiß, wen ich fragen soll.	मुझे पता है कि किससे पूछना है।
+I know you're Tom.	Ich weiß, du bist Tom.	मुझे पता है तुम टॉम हो।
+I know your names.	Ich kenne eure Namen.	मुझे तुम्हारे नाम पता है।
+I lack confidence.	Mir fehlt Selbstvertrauen.	मुझे आत्मविश्वास कम है।
+I left right away.	Ich bin sofort gegangen.	मैं तुरंत चला गया।
+I like Tom better.	Ich mag Tom lieber.	मुझे टॉम पसंद है।
+I like adventures.	Ich mag Abenteuer.	मुझे साहसिक कार्य पसंद हैं।
+I like being here.	Ich mag es hier zu sein.	मुझे यहाँ होना पसंद है।
