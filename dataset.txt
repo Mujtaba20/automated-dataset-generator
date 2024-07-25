@@ -1,15 +1,4 @@
 
-No one's in sight.	Niemand ist in Sichtweite.	कोई भी दृष्टि में नहीं है।
-No one's in sight.	Keiner ist in Sicht.	कोई भी दृष्टि में नहीं है।
-No one's in there.	Da ist niemand.	वहां कोई नहीं है।
-No one's seen Tom.	Niemand hat Tom gesehen.	किसी ने टॉम को नहीं देखा।
-No one's watching.	Es sieht niemand zu.	कोई भी इसे देखता है।
-No problem at all!	Kein Problem!	कोई बात नहीं!
-No, I didn't help.	Nein, ich habe nicht geholfen.	नहीं, मैंने मदद नहीं की।
-Nobody called Tom.	Niemand hat Tom gerufen.	किसी ने टॉम को नहीं बुलाया।
-Nobody called Tom.	Niemand hat Tom angerufen.	किसी ने टॉम को नहीं बुलाया।
-Nobody complained.	Niemand beschwerte sich.	किसी ने शिकायत नहीं की।
-Nobody complained.	Niemand hat sich beschwert.	किसी ने शिकायत नहीं की।
 Nobody hugged Tom.	Niemand umarmte Tom.	किसी ने टॉम को गले नहीं लगाया।
 Nobody is perfect.	Niemand ist perfekt.	कोई भी पूर्ण नहीं है।
 Nobody is perfect.	Niemand ist vollkommen.	कोई भी पूर्ण नहीं है।

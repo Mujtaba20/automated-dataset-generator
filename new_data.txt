@@ -17611,3 +17611,11 @@ No one trusts Tom.	Niemand vertraut Tom.	कोई टॉम पर भरोस
 No one wants that.	Das will niemand.	उसका कोई इच्छा नहीं है।
 No one's gambling.	Niemand spielt.	किसी की जुएबाज़ी नहीं है।
 No one's here yet.	Niemand ist hier bisher.	अब तक कोई यहाँ नहीं है।
+No one's in sight.	Niemand ist in Sicht.	किसी को दिखाई नहीं दे रहा है।
+No one's in there.	Niemand ist drin.	किसी को वहाँ नहीं है।
+No one's seen Tom.	Niemand hat Tom gesehen.	किसी ने टॉम को नहीं देखा।
+No one's watching.	Niemand schaut zu.	किसी के नजर रखने विघटनः
+No problem at all!	Kein Problem überhaupt!	कोई समस्या नहीं!
+No, I didn't help.	Nein, ich habe nicht geholfen.	नहीं, मैंने मदद नहीं की।
+Nobody called Tom.	Niemand hat Tom angerufen.	किसी ने टॉम को नहीं बुलाया।
+Nobody complained.	Niemand hat sich beschwert.	किसी ने शिकायत नहीं की।
