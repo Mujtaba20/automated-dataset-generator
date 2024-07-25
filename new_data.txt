@@ -19082,3 +19082,13 @@ Tom ran past Mary.	Tom rannte an Mary vorbei.	टॉम ने मेरी क�
 Tom ran to school.	Tom rannte zur Schule.	टॉम ने स्कूल की ओर दौड़ा।
 Tom rang the bell.	Tom läutete die Glocke.	टॉम ने घंटी बजाई।
 Tom rarely laughs.	Tom lacht selten.	टॉम बहुत कम हँसता है।
+Tom rarely smiled.	Tom lächelte selten.	टॉम बहुत कम मुस्कुराया।
+Tom rarely smiles.	Tom lächelt selten.	टॉम शायद ही मुस्कराता है।
+Tom rarely snores.	Tom schnarcht selten.	टॉम बहुत कम सांस लेता है।
+Tom rarely snores. 1	Tom schnarcht kaum.	टॉम शायद ही सांस लेता है।
+Tom ratted me out.	Tom hat mich verpfiffen.	टॉम ने मुझे जानबूझकर फैलाया।
+Tom ratted me out. 1	Tom hat mich veraten.	टॉम ने मेरे बारे में बता दिया।
+Tom ratted me out. 2	Tom hat mich verraten.	टॉम ने मुझे गद्दारी कर दी।
+Tom ratted me out. 3	Tom hat mich angeschwärzt.	टॉम ने मुझे बता दिया।
+Tom ratted us out.	Tom hat uns verpfiffen.	टॉम ने हमें धोखा दिया।
+Tom reacted badly.	Tom reagierte schlecht.	टॉम गलत तरीके से प्रतिक्रिया दिया।
