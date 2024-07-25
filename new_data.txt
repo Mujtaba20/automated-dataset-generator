@@ -10061,3 +10061,11 @@ They're animals.	Sie sind Tiere.	वे जानवर हैं।
 They're arguing.	Sie streiten.	वे बहस कर रहे हैं।
 They're at home.	Sie sind zu Hause.	वे घर पर हैं।
 They're awesome.	Sie sind fantastisch.	वे बहुत शानदार हैं।
+They're correct.	Sie sind richtig.	वे सही हैं।
+They're cousins.	Sie sind Verwandte.	वे भाई-बहन हैं।
+They're dancing.	Sie tanzen.	वे नृत्य कर रहे हैं।
+They're enemies.	Sie sind Feinde.	वे दुश्मन हैं।
+They're engaged.	Sie sind verlobt.	वे सगाई के बंधन में बंधे हैं।
+They're friends.	Sie sind Freunde.	वे दोस्त हैं।
+They're in here.	Sie sind hier drin.	वे यहाँ हैं।
+They're in love.	Sie sind verliebt.	वे प्यार में हैं।
