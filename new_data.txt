@@ -12539,3 +12539,12 @@ I love gardening.	Ich liebe Gärtnern.	मुझे गार्डनिंग 
 I love ice cream.	Ich liebe Eiscreme.	मुझे आइसक्रीम पसंद है।
 I love my family.	Ich liebe meine Familie.	मैं अपने परिवार से प्यार करता हूँ।
 I love my father.	Ich liebe meinen Vater.	मैं अपने पिताजी से प्यार करता हूँ।
+I love my mother.	Ich liebe meine Mutter.	मैं अपनी माँ से प्यार करता हूँ।
+I love my plants.	Ich liebe meine Pflanzen.	मुझे मेरे पौधों से प्यार है।
+I love old books.	Ich liebe alte Bücher.	मुझे पुरानी किताबें पसंद हैं।
+I love soul food.	Ich liebe Seelenessen.	मुझे आत्मिक खाना पसंद है।
+I love that book.	Ich liebe dieses Buch.	मुझे वह किताब पसंद है।
+I love the ocean.	Ich liebe das Meer.	मुझे समुद्र पसंद है।
+I love the woods.	Ich liebe den Wald.	मुझे जंगल पसंद है।
+I love them both.	Ich liebe sie beide.	मैं दोनों से प्यार करता हूँ।
+I love this game.	Ich liebe dieses Spiel.	मुझे यह खेल पसंद है।
