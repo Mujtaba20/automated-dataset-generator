@@ -13218,3 +13218,12 @@ It's quite large.	Es ist ziemlich groß.	यह काफी बड़ा है
 It's rainy today.	Heute regnet es.	आज बारिश हो रही है।
 It's rather cold.	Es ist ziemlich kalt.	यह काफी ठंडा है।
 It's really cold.	Es ist wirklich kalt.	यह वास्तव में ठंडा है।
+It's really cool.	Es ist wirklich cool.	यह वास्तव में शानदार है।
+It's really easy.	Es ist wirklich einfach.	यह सच में आसान है।
+It's really good.	Es ist wirklich gut.	यह वास्तव में अच्छा है।
+It's really hard.	Es ist wirklich schwierig.	यह सच में कठिन है।
+It's really nice.	Es ist wirklich nett.	यह सच में अच्छा है।
+It's regrettable.	Es ist bedauerlich.	यह माफ़ करने योग्य है।
+It's snowing now.	Es schneit jetzt.	अब बर्फ गिर रही है।
+It's still alive.	Es lebt noch.	यह अभी भी जीवित है।
+It's supper time.	Es ist Abendessenzeit.	यह रात का खाना समय आ गया है।
