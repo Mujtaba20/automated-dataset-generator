@@ -17550,3 +17550,12 @@ May I take a rest? 	Kann ich eine Pause machen?	क्या मैं ठहर
 May I talk to you?	Darf ich mit dir reden?	क्या मैं आपसे बात कर सकता हूँ?
 May I try that on?	Kann ich das anprobieren?	क्या मैं यह पहनकर देख सकता हूँ?
 May I try this on?	Darf ich das probieren?	क्या मैं यह देख सकता हूँ?
+Maybe I should go.	Vielleicht sollte ich gehen.	शायद मुझे जाना चाहिए।
+Maybe I was wrong.	Vielleicht habe ich mich geirrt.	शायद मैं गलत था।
+Maybe Tom is dead.	Vielleicht ist Tom tot.	शायद टॉम मर गया है।
+Maybe Tom is sick.	Vielleicht ist Tom krank.	शायद टॉम बीमार है।
+Maybe it's a trap.	Vielleicht ist es eine Falle.	शायद यह एक प्लान हो।
+Meat is expensive.	Fleisch ist teuer.	मांस महंगा है।
+Might makes right.	Macht macht Recht.	शक्ति सही बनाती है।
+Mind your manners.	Achte auf deine Manieren.	अपने शिष्टाचार पर ध्यान दो।
+Monday's not good.	Montag ist nicht gut.	सोमवार अच्छा नहीं है।

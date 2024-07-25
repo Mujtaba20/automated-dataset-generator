@@ -1,14 +1,4 @@
 
-Maybe I should go.	Vielleicht sollte ich gehen.	शायद मुझे जाना चाहिए।
-Maybe I was wrong.	Vielleicht habe ich mich geirrt.	संभवत: मुझसे गलती हुई।
-Maybe I was wrong.	Vielleicht hatte ich unrecht.	संभवत: मुझसे गलती हुई।
-Maybe Tom is dead.	Vielleicht ist Tom tot.	शायद टॉम मर चुका है।
-Maybe Tom is sick.	Vielleicht ist Tom krank.	शायद टॉम बीमार है।
-Maybe it's a trap.	Vielleicht ist es eine Falle.	शायद यह एक जाल है।
-Meat is expensive.	Fleisch ist teuer.	मांस महंगा है।
-Might makes right.	Macht geht vor Recht.	न्याय से पहले शक्ति।
-Mind your manners.	Benimm dich.	अपने आप से व्यवहार करें।
-Monday's not good.	Montag ist nicht so gut.	सोमवार इतना अच्छा नहीं है।
 Most people agree.	Die meisten Leute stimmen zu.	ज्यादातर लोग सहमत हैं।
 My bag is missing.	Meine Tasche ist weg.	मेरा बैग चला गया है।
 My bag was stolen.	Meine Tasche wurde gestohlen.	मेरा बैग चोरी हो गया था.
