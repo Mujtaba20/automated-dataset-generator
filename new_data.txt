@@ -17103,3 +17103,10 @@ I'm in a bad mood.	Ich bin schlecht gelaunt.	मेरा मन खराब �
 I'm in prison now.	Ich bin jetzt im Gefängnis.	मैं अब कैद में हूँ।
 I'm irreplaceable.	Ich bin unersetzlich.	मैं अनुप्लव्य हूँ।
 I'm just a farmer.	Ich bin nur ein Bauer.	मैं सिर्फ एक किसान हूँ।
+I'm just guessing.	Ich rate nur.	मैं सिर्फ अनुमान लगा रहा हूँ।
+I'm kind of happy.	Ich bin irgendwie froh.	मैं ठीक हूँ।
+I'm leaving today.	Ich verlasse heute.	मैं आज रवाना हो रहा है।
+I'm losing weight.	Ich verliere Gewicht.	मैं वजन कम कर रहा हूँ।
+I'm making coffee.	Ich mache Kaffee.	मैं कॉफ़ी बना रहा हूँ।
+I'm not a fanatic.	Ich bin kein Fanatiker.	मैं एक प्रेमी नहीं हूँ।
+I'm not a gambler.	Ich bin kein Zocker.	मैं जुआरू नहीं हूँ।
