@@ -4653,3 +4653,12 @@ Life's unfair.	Das Leben ist unfair.	जिंदगी अन्यायपू
 Listen to Tom.	Höre Tom zu.	टॉम को सुनो।
 Lock the door!	Schließ die Tür ab!	दरवाज़े को ताल दो!
 Lock the door.	Schließe die Tür ab.	दरवाज़े को ताल दो।
+Lock the safe.	Verschließe den Safe.	सुरक्षित रखो या सुरक्षित कीजिए।
+Look at these.	Schau dir diese an.	इन्हें देखो।
+Look at those.	Schau dorthin.	उन्हें देखो।
+Look in there.	Schau dort hinein.	वहाँ देखो।
+Look up there.	Schau nach oben.	उपर देखो।
+Love is blind.	Liebe macht blind.	प्यार अंधा है।
+Love is crazy.	Liebe ist verrückt.	प्यार पागलपन है।
+Make me happy.	Mach mich glücklich.	मुझे खुश बनाओ।
+Make the beds.	Mach die Betten.	बिस्तर बनाओ।
