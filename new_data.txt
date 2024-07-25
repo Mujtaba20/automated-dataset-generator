@@ -11550,3 +11550,13 @@ Be frank with me!	Sei offen mit mir!	मेरे साथ खुल के ब
 Be more flexible.	Sei flexibler.	और विविधतापूर्ण बनो।
 Bears like honey.	Bären mögen Honig.	भालू शहद पसंद करते हैं।
 Birds have wings.	Vögel haben Flügel.	पक्षी पंख रखते हैं।
+Bite your tongue.	Halte deine Zunge im Zaum.	अपनी जिब्बड़ चबाओ।
+Boston is boring.	Boston ist langweilig.	बॉस्टन उबाऊ है।
+Brace yourselves.	Macht euch bereit.	अपने आप को ताक़त देना।
+Breathe normally.	Atme normal.	सामान्य रूप से सांस लें।
+Breathe normally. (2nd)	Normal atmen.	सामान्य रूप से श्वास लो।
+Breathe normally. (3rd)	Normal atme.	सामान्य रूप से सास लो।
+Bring Tom inside.	Bring Tom rein.	टॉम को अंदर लाओ।
+Brush your teeth.	Putz dir die Zähne.	अपने दांत साफ करो।
+Brush your teeth. (2nd)	Bürste dir die Zähne.	अपने दांत पोंछो।
+Brush your teeth. (3rd)	Putze dir die Zähne.	अपने दांत साफ़ करो।
