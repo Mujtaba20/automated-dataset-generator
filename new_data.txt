@@ -20017,3 +20017,11 @@ You can't fire me.	Du kannst mich nicht feuern.	तुम मुझे नही
 You can't fire us.	Du kannst uns nicht feuern.	तुम हमें नहीं निकाल सकते।
 You can't deny it. (Different meaning)	Das kannst du nicht ablehnen.	तुम इसे नहीं मना सकते।
 You can't fire me. (Different meaning)	Du kannst mir nicht kündigen.	तुम मुझे नहीं निकाल सकते।
+You can't help me.	Du kannst mir nicht helfen.	तुम मुझे मदद नहीं कर सकते।
+You can't hurt me.	Du kannst mir nicht schaden.	तुम मुझे चोट नहीं पहुंचा सकते।
+You can't just go.	Du kannst nicht einfach gehen.	तुम बस जा नहीं सकते।
+You can't kill me.	Du kannst mich nicht töten.	तुम मुझे नहीं मार सकते।
+You can't miss it.	Du kannst es nicht verpassen.	तुम इसे नहीं छोड़ सकते।
+You can't sell it.	Du kannst es nicht verkaufen.	तुम इसे नहीं बेच सकते।
+You can't just go. 2	Du kannst nicht einfach gehen.	तुम बस जा नहीं सकते।
+You can't miss it. 2	Du kannst es nicht übersehen.	तुम इसे नहीं छोड़ सकते।

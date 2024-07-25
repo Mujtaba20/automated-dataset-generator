@@ -1,14 +1,4 @@
 
-You can't help me.	Du kannst mir nicht helfen.	आप मेरी मदद करने में सक्षम नहीं हैं।
-You can't help me.	Sie können mir nicht helfen.	आप मेरी मदद नहीं कर सकते।
-You can't hurt me.	Du kannst mich nicht verletzen.	आप मुझे चोट नहीं पहुंचा सकते।
-You can't just go.	Du kannst nicht einfach gehen.	आप बस नहीं जा सकते।
-You can't just go.	Sie können nicht einfach gehen.	आप बस नहीं जा सकते।
-You can't kill me.	Du kannst mich nicht töten.	तुम मुझे नहीं मार सकते।
-You can't miss it.	Du kannst es nicht verfehlen.	आप इसे नहीं छोड़ सकते हैं.
-You can't miss it.	Ihr könnt es nicht verfehlen.	आप इसे याद नहीं कर सकते।
-You can't miss it.	Sie können es nicht verfehlen.	आप इसे नहीं छोड़ सकते हैं.
-You can't sell it.	Du kannst das nicht verkaufen.	आप इसे नहीं बेच सकते।
 You can't stop me.	Du kannst mich nicht aufhalten.	तुम मुझे नहीं रोक सकते।
 You could ask Tom.	Du könntest Tom fragen.	आप टॉम से पूछ सकते हैं।
 You could ask Tom.	Ihr könntet Tom fragen.	आप टॉम से पूछ सकते हैं।
