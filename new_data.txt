@@ -16018,3 +16018,11 @@ He is beyond hope.	Er ist jenseits der Hoffnung.	वह आशा के बा�
 He is daydreaming.	Er träumt vor sich hin.	वह दिन की ख्याली पुलाव बुन रहा है।
 He is from France.	Er kommt aus Frankreich.	वह फ्रांस से है।
 He is getting old.	Er wird alt.	वह बुढ़ा हो रहा है।
+He is incompetent.	Er ist unfähig.	वह अक्षम है।
+He is influential.	Er ist einflussreich.	वह प्रभावशाली है।
+He is intelligent.	Er ist klug.	वह चतुर है।
+He is introverted.	Er ist introvertiert.	वह अंतर्मुखी है।
+He is just my age.	Er ist genau in meinem Alter.	वह बस मेरी उम्र का है।
+He is not so tall.	Er ist nicht so groß.	वह इतना लंबा नहीं है।
+He is on the team.	Er ist im Team.	वह टीम में है।
+He is pigeon-toed.	Er hat Hallux valgus.	उसके पैरों में अंगूठा बाजू का है।
