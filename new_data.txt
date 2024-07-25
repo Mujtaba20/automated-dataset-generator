@@ -19427,3 +19427,12 @@ Tom would approve.	Tom würde zustimmen.	टॉम स्वीकृति द�
 Tom would do that.	Tom würde das tun.	टॉम वह करेगा।
 Tom wouldn't care.	Tom würde sich nicht kümmern.	टॉम को परवाह नहीं है।
 Tom wouldn't come.	Tom würde nicht kommen.	टॉम नहीं आएगा।
+Tom wouldn't know.	Tom wüsste nicht.	टॉम को नहीं पता होगा।
+Tom wouldn't mind.	Tom würde nichts dagegen haben.	टॉम को चिंता नहीं होगी।
+Tom wouldn't move.	Tom würde nicht umziehen.	टॉम नहीं चलेगा।
+Tom writes lyrics.	Tom schreibt Liedtexte.	टॉम गानों के बोल लिखता है।
+Tom writes slowly.	Tom schreibt langsam.	टॉम धीरे से लिखता है।
+Tom wrote stories.	Tom schrieb Geschichten.	टॉम ने कहानियां लिखी।
+Tom wrote to Mary.	Tom schrieb an Maria.	टॉम ने मेरी को लिखा।
+Tom'll reconsider.	Tom wird noch einmal überlegen.	टॉम फिर से विचार करेगा।
+Tom'll understand.	Tom wird verstehen.	टॉम समझेगा।
