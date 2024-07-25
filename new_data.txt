@@ -6639,3 +6639,12 @@ It's not yours.	Es ist nicht deins.	यह तुम्हारा नहीं
 It's on page 3.	Es ist auf Seite 3.	यह पृष्ठ 3 पर है।
 It's our fault.	Es ist unser Fehler.	यह हमारी ग़लती है।
 It's pointless.	Es hat keinen Sinn.	यह व्यर्थ है।
+It's ready now.	Es ist jetzt fertig.	यह अब तैयार है।
+It's redundant.	Es ist überflüssig.	यह अत्यधिक है।
+It's rush hour.	Es ist Stoßzeit.	यह भागदौड़ का समय है।
+It's rush hour. - different meaning	Es ist Eile angesagt.	यह जल्दी की बात है।
+It's safe here.	Es ist sicher hier.	यहाँ सुरक्षित है।
+It's so boring.	Es ist so langweilig.	यह इतना उबाऊ है।
+It's so simple.	Es ist so einfach.	यह इतना सरल है।
+It's so unfair.	Es ist so unfair.	यह इतना अन्यायपूर्ण है।
+It's so unfair. - different meaning	Es ist so ungerecht.	यह इतना न्यायसंगत नहीं है।
