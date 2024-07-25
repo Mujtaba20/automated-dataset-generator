@@ -12739,3 +12739,13 @@ I was wide awake.	Ich war hellwach.	मैं बिल्कुल जागर
 I washed my feet.	Ich habe mir die Füße gewaschen.	मैंने अपने पैर धो लिए।
 I wasn't careful.	Ich war nicht vorsichtig.	मैं सावधान नहीं था।
 I wasn't invited.	Ich wurde nicht eingeladen.	मुझे नहीं बुलाया गया था।
+I wasn't jealous.	Ich war nicht eifersüchtig.	मुझे जेलेस नहीं था।
+I wasn't kidding.	Ich habe nicht gescherzt.	मैं मजाक नहीं कर रहा था।
+I wasn't nervous.	Ich war nicht nervös.	मैं घबराया नहीं था।
+I wasn't pleased.	Ich war nicht zufrieden.	मैं खुश नहीं था।
+I wasn't serious.	Ich war nicht ernst.	मैं गंभीर नहीं था।
+I wasn't thirsty.	Ich war nicht durstig.	मैं प्यासा नहीं था।
+I wasn't worried.	Ich habe mir keine Sorgen gemacht.	मैं चिंतित नहीं था।
+I wasn't yelling.	Ich habe nicht geschrien.	मैं चिल्ला नहीं रहा था।
+I will buy a car.	Ich werde ein Auto kaufen.	मैं एक कार खरीदूँगा।
+I will see to it.	Ich werde dafür sorgen.	मैं इस पर ध्यान दूँगा।
