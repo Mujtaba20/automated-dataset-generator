@@ -16557,3 +16557,12 @@ I have to take it.	Ich muss es mitnehmen.	मुझे इसे लेना �
 I have two nieces.	Ich habe zwei Nichten.	मेरे पास दो भांजियां हैं।
 I have work to do.	Ich habe Arbeit zu erledigen.	मुझे काम करना है।
 I have your diary.	Ich habe dein Tagebuch.	मेरे पास तुम्हारी डायरी है।
+I haven't changed.	Ich habe mich nicht verändert.	मैंने कोई परिवर्तन नहीं किया है।
+I haven't met him.	Ich habe ihn nicht getroffen.	मैंने उससे मिला नहीं है।
+I heard something.	Ich habe etwas gehört.	मैंने कुछ सुना।
+I heard the shots.	Ich habe die Schüsse gehört.	मैंने गोलियां चलती हुई सुनी।
+I hope Tom agrees.	Ich hoffe, Tom stimmt zu.	मुझे आशा है कि टॉम सहमत हो।
+I hope she's safe.	Ich hoffe, sie ist sicher.	मुझे आशा है कि वह सुरक्षित है।
+I hope that helps.	Ich hoffe, das hilft.	मुझे आशा है कि यह मदद करेगा।
+I hope they're OK.	Ich hoffe, dass es ihnen gut geht.	मुझे आशा है कि वे ठीक हैं।
+I hope this helps.	Ich hoffe, das hilft.	मुझे आशा है कि यह मदद करेगा।
