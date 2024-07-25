@@ -12256,3 +12256,8 @@ I can't reach it.	Ich kann es nicht erreichen.	मैं इसे पहुं�
 I can't read yet.	Ich kann noch nicht lesen.	मैं अभी तक पढ़ नहीं सकता।
 I can't remember.	Ich kann mich nicht erinnern.	मुझे याद नहीं आ रहा है।
 I can't save you.	Ich kann dich nicht retten.	मैं तुम्हें बचा नहीं सकता।
+I can't say that.	Das kann ich nicht sagen.	मैं यह कह नहीं सकता।
+I can't see well.	Ich sehe nicht gut.	मैं अच्छे से नहीं देख सकता।
+I can't show you.	Ich kann es dir nicht zeigen.	मैं तुम्हें नहीं दिखा सकता।
+I can't stand it.	Ich kann es nicht ertragen.	मैं इसे सह नहीं सकता।
+I can't stop Tom.	Ich kann Tom nicht stoppen.	मैं टॉम को रोक नहीं सकता।
