@@ -6148,3 +6148,12 @@ I love it here.	Ich liebe es hier.	मुझे यहाँ पसंद है
 I love lasagna.	Ich liebe Lasagne.	मुझे लसानिया पसंद है।
 I love lizards.	Ich liebe Eidechsen.	मुझे छिपकली पसंद हैं।
 I love my city.	Ich liebe meine Stadt.	मुझे मेरा शहर पसंद है।
+I love my home.	Ich liebe mein Zuhause.	मैं अपने घर से प्यार करता हूँ।
+I love my iPod.	Ich liebe meinen iPod.	मुझे अपने iPod से प्यार है।
+I love my life.	Ich liebe mein Leben.	मैं अपने जीवन से प्यार करता हूँ।
+I love my wife.	Ich liebe meine Frau.	मैं अपनी पत्नी से प्यार करता हूँ।
+I love parties.	Ich liebe Partys.	मुझे पार्टियों से प्यार है।
+I love puzzles.	Ich liebe Rätsel.	मुझे पहेलियों से प्यार है।
+I love reading.	Ich liebe es zu lesen.	मुझे पढ़ने का शौक है।
+I love sunsets.	Ich liebe Sonnenuntergänge.	मुझे सूर्यास्त से प्यार है।
+I love the sea.	Ich liebe das Meer.	मुझे समुंदर से प्यार है।
