@@ -16338,3 +16338,11 @@ I changed clothes.	Ich habe Kleidung gewechselt.	मैंने कपड़े
 I changed my mind.	Ich habe meine Meinung geändert.	मैंने अपना मन बदल दिया।
 I checked outside.	Ich habe draußen überprüft.	मैंने बाहर देखा।
 I closed the gate.	Ich habe das Tor geschlossen.	मैंने दरवाजा बंद किया।
+I come from Japan.	Ich komme aus Japan.	मैं जापान से आया हूँ।
+I come here often.	Ich komme hier oft hin.	मैं यहाँ अक्सर आता हूँ।
+I could've helped.	Ich hätte helfen können.	मैं मदद कर सकता था।
+I couldn't answer.	Ich konnte nicht antworten.	मैं जवाब नहीं दे सका।
+I couldn't get it.	Ich konnte es nicht bekommen.	मुझे यह नहीं मिला।
+I couldn't refuse.	Ich konnte nicht ablehnen.	मैं मना नहीं कर सका।
+I couldn't say no.	Ich konnte nicht nein sagen.	मैं नहीं कह सका।
+I cried all night.	Ich weinte die ganze Nacht.	मैंने पूरी रात रोते रहा।
