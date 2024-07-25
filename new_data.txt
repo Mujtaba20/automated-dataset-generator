@@ -6340,3 +6340,10 @@ I'll get these.	Ich werde diese bekommen.	मैं यहाँ लेआऊं
 I'll get to it.	Ich werde dazu kommen.	मैं इस पर पहुँचूँगा।
 I'll go by bus.	Ich werde mit dem Bus fahren.	मैं बस से चला जाऊँगा।
 I'll go by car.	Ich werde mit dem Auto fahren.	मैं गाड़ी से जाऊँगा।
+I'll go get it.	Ich werde es holen.	मैं इसे लेने जा रहा हूँ।
+I'll go see it.	Ich werde es sehen.	मैं इसे देखने जाऊंगा।
+I'll go to Tom.	Ich gehe zu Tom.	मैं टॉम के पास जाऊंगा।
+I'll handle it.	Das werde ich erledigen.	मैं इसे संभाल लूँगा।
+I'll miss that.	Das werde ich vermissen.	मुझे यह याद आ जाएगा।
+I'll move soon.	Ich werde bald umziehen.	मैं जल्द ही रुकूंगा।
+I'll pay later.	Ich werde später bezahlen.	मैं बाद में पैसे दूंगा।
