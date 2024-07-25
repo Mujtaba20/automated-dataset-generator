@@ -8447,3 +8447,10 @@ Have a doughnut.	Haben Sie einen Donut.	एक डोनट लेलो।
 Have a good day.	Einen schönen Tag noch.	एक अच्छा दिन बिताओ।
 Have a nice day!	Einen schönen Tag noch!	एक अच्छा दिन हो!
 Have a nice day.	Einen schönen Tag noch.	एक अच्छा दिन बिताओ।
+Have pity on me.	Hab Mitleid mit mir.	मुझ पर दया करो।
+Have some pizza.	Haben Sie etwas Pizza.	कुछ पिज्जा रखो।
+He acts quickly.	Er agiert zügig.	उसने तेजी से काम किया।
+He arrived late.	Er kam zu spät an.	वह देर से पहुंचा।
+He began to cry.	Er fing an zu weinen.	उसने रोना शुरू किया।
+He began to run.	Er begann zu laufen.	वह दौड़ने लगा।
+He betrayed you.	Er hat dich betrogen.	उसने तुम्हें धोखा दिया।
