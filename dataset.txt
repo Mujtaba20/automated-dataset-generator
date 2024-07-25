@@ -1,14 +1,4 @@
 
-Take no prisoners.	Macht keine Gefangenen!	कैदी मत करो!
-Take off your cap.	Nimm deine Mütze ab.	अपनी टोपी उतारें।
-Take off your hat.	Nimm deinen Hut ab!	अपनी टोपी उतारें!
-Take one of these.	Nimm eins hiervon!	उनमें से एक को ले लो!
-Take one of these.	Nimm einen hiervon!	उनमें से एक को ले लो!
-Take one of these.	Nimm eine hiervon!	उनमें से एक को ले लो!
-Take some aspirin.	Nimm Aspirin.	एस्पिरिन लो।
-Take some aspirin.	Nehmt Aspirin.	एस्पिरिन लो।
-Take some aspirin.	Nehmen Sie Aspirin.	एस्पिरिन लो।
-Take the medicine.	Nimm die Medizin.	दवा लें।
 Take the next bus.	Fahre mit dem nächsten Bus.	अगली बस ड्राइव करें।
 Take the next bus.	Fahren Sie mit dem nächsten Bus.	अगली बस ड्राइव करें।
 Take the next bus.	Fahrt mit dem nächsten Bus.	अगली बस ड्राइव करें।

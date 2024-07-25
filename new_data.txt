@@ -17860,3 +17860,9 @@ Take Tom's weapon.	Nimm Toms Waffe.	टॉम का हथियार लो�
 Take a break, Tom.	Mach eine Pause, Tom.	टॉम, रुको।
 Take a wild guess.	Rate wild.	एक जंगली अनुमान लगाओ।
 Take care of this.	Kümmere dich darum.	इसकी देखभाल करो।
+Take no prisoners.	Keine Gefangenen machen.	किसी को भी गिरफ्तार मत करो।
+Take off your cap.	Nimm deine Kappe ab.	अपनी टोपी उतारो।
+Take off your hat.	Nimm deinen Hut ab.	अपनी टोपी उतारो।
+Take one of these.	Nimm eines davon.	इनमें से एक लो।
+Take some aspirin.	Nehmt etwas Aspirin.	कुछ एस्पिरिन लें।
+Take the medicine.	Nimm die Medizin.	दवाई लो।
