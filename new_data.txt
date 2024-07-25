@@ -12145,3 +12145,9 @@ How about a song?	Wie wäre es mit einem Lied?	एक गाना कैसा 
 How about a walk?	Wie wäre es mit einem Spaziergang?	एक टहलने कैसा रहेगा?
 How are the eggs?	Wie sind die Eier?	अंडे कैसे हैं?
 How are the kids?	Wie geht es den Kindern?	बच्चों का हाल कैसा है?
+How are we doing?	Wie machen wir das?	हम कैसे कर रहे हैं?
+How are you, Tom?	Wie bist du, Tom?	तोम, तुम कैसे हो?
+How can you tell?	Wie kannst du das sagen?	तुम ऐसे कैसे कह सकते हो?
+How come you ask?	Warum fragst du?	तुम कैसे पूछ सकते हो?
+How cool is that?	Wie cool ist das?	वह कितना कूल है?
+How did he do it?	Wie hat er das gemacht?	उसने यह कैसे किया?
