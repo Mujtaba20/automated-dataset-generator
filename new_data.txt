@@ -15871,3 +15871,9 @@ Forget about that.	Vergiss das.	उसके बारे में भूल �
 Forget about this.	Vergiss das hier.	इसका भूल जाओ।
 Frogs eat insects.	Frösche fressen Insekten.	मेंढक मच्छर खाते हैं।
 Fry an egg for me.	Brate ein Ei für mich.	मेरे लिए एक अंडा तलो।
+Get Tom down here.	Bring Tom hier runter.	यहाँ टॉम को नीचे ले आओ।
+Get Tom some food.	Besorg Tom etwas zu essen.	टॉम के लिए कुछ खाने की चीज़ें लाओ।
+Get back in there.	Geh wieder rein.	वापस अंदर जाओ।
+Get me some water.	Hol mir etwas Wasser.	मुझे पानी लाओ।
+Get on your knees.	Knie dich hin.	अपने घुटनों पे बैठो।
+Get out of my bed.	Geh aus meinem Bett raus.	मेरे बिस्तर से बाहर निकल जाओ।
