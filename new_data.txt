@@ -18121,3 +18121,12 @@ They betrayed Tom.	Sie haben Tom betrogen.	उन्होंने टॉम �
 They betrayed Tom. (different meaning)	Sie haben Tom verraten.	उन्होंने टॉम का साथ छोड़ दिया।
 They betrayed you.	Sie haben dich betrogen.	उन्होंने तुम्हारा धोखा दिया।
 They both blushed.	Sie erröteten beide.	उन दोनों की शर्मिंदगी दिखी।
+They both laughed.	Sie lachten beide.	उन दोनों ने हंसी.
+They call him Tom.	Sie nennen ihn Tom.	वे उसे टॉम बुलाते हैं।
+They can't get in.	Sie können nicht reinkommen.	वे अंदर नहीं जा सकते।
+They can't see me.	Sie können mich nicht sehen.	वे मुझे नहीं देख सकते।
+They captured Tom.	Sie haben Tom gefangen genommen.	उन्होंने टॉम को गिरफ्तार किया।
+They deported Tom.	Sie deportierten Tom.	उन्होंने टॉम को निर्वासित किया।
+They did it again.	Sie haben es wieder getan.	उन्होंने फिर से किया।
+They don't get it.	Sie verstehen es nicht.	उन्हें समझ में नहीं आता।
+They don't get it. (Different meaning)	Sie bekommen es nicht.	उन्हें मिलता नहीं है।

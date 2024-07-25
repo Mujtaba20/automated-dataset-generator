@@ -1,14 +1,4 @@
 
-They both laughed.	Sie lachten beide.	वे दोनों हँसे।
-They call him Tom.	Man nennt ihn Tom.	उन्हें टॉम कहा जाता है।
-They can't get in.	Sie können nicht hinein.	आप अंदर नहीं जा सकते।
-They can't get in.	Sie können nicht herein.	आप अंदर नहीं जा सकते।
-They can't see me.	Sie können mich nicht sehen.	आप मुझे नहीं देख सकते।
-They captured Tom.	Sie haben Tom gefangen.	आपने टॉम को पकड़ा।
-They deported Tom.	Sie schoben Tom ab.	उन्होंने टॉम को धक्का दिया।
-They did it again.	Sie haben es wieder getan.	आपने फिर से कर दिखाया।
-They don't get it.	Sie verstehen es nicht.	आप इसे नहीं समझते।
-They don't get it.	Die verstehen das nicht.	वे यह नहीं समझते हैं।
 They don't listen.	Sie hören nicht zu.	आप नहीं सुनते।
 They don't listen.	Die hören nicht zu.	वे नहीं सुनते।
 They drank coffee.	Sie tranken Kaffee.	आपने कॉफी पिया।
