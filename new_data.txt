@@ -9183,3 +9183,12 @@ I'll handle Tom.	Ich werde Tom handhaben.	मैं टॉम का साम�
 I'll inform Tom.	Ich werde Tom informieren.	मैं टॉम को सूचित करूंगा।
 I'll keep watch.	Ich werde Wache halten.	मैं नजर रखूंगा।
 I'll look it up.	Ich werde nachschauen.	मैं इसे देखूंगा।
+I'll mention it.	Ich werde es erwähnen.	मैं इसे उल्लेख करूँगा।
+I'll never quit.	Ich werde niemals aufhören.	मैं कभी नहीं छोड़ूँगा।
+I'll never stop.	Ich werde niemals stoppen.	मैं कभी नहीं रुकूँगा।
+I'll never tell.	Ich werde niemals erzählen.	मैं कभी नहीं बताऊँगा।
+I'll notify Tom.	Ich werde Tom benachrichtigen.	मैं टॉम को सूचित करूँगा।
+I'll order food.	Ich werde Essen bestellen.	मैं भोजन आदेश दूँगा।
+I'll pay for it.	Ich werde dafür bezahlen.	मैं इसके लिए भुगतान करूँगा।
+I'll play along.	Ich werde mitspielen.	मैं साथ खेलूँगा।
+I'll play along. (Different meaning)	Ich werde mitspielen.	मैं साथ खेलूँगा।
