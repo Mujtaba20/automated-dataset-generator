@@ -1,14 +1,4 @@
 
-Do you like sports?	Magst du Sport?	क्या आपको खेल पसंद है?
-Do you like tennis?	Magst du gerne Tennis?	क्या आपको टेनिस पसंद है?
-Do you like tennis?	Mögen Sie Tennis?	क्या आपको टेनिस पसंद है?
-Do you live nearby?	Wohnen Sie in der Nähe?	क्या आप आस पास रहते हो?
-Do you miss Boston?	Vermisst du Boston?	क्या आपको बोस्टन की याद आती है?
-Do you miss Boston?	Vermisst ihr Boston?	क्या आपको बोस्टन की याद आती है?
-Do you miss Boston?	Vermissen Sie Boston?	क्या आपको बोस्टन की याद आती है?
-Do you need a lift?	Brauchst du eine Mitfahrgelegenheit?	क्या आपको सवारी चाहिए?
-Do you need a lift?	Braucht ihr eine Mitfahrgelegenheit?	क्या आपको सवारी चाहिए?
-Do you need a lift?	Brauchen Sie eine Mitfahrgelegenheit?	क्या आपको सवारी चाहिए?
 Do you need a ride?	Kann ich dich fahren?	क्या मैं तुम्हें चला सकता हूँ
 Do you need it now?	Brauchen Sie es jetzt?	क्या आपको अब इसकी आवश्यकता है?
 Do you play soccer?	Spielst du Fußball?	क्या आप सॉकर खेलते हैं?

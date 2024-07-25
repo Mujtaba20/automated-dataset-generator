@@ -20432,3 +20432,8 @@ Do you like robots?	Magst du Automaten?	क्या आपको स्वच�
 Do you like salmon?	Magst du Forelle?	क्या आपको सैल्मन पसंद हैं?
 Do you like school?	Magst du Bildung?	क्या आपको इस्ताह पसंद हैं?
 Do you like soccer?	Magst du Fußball?	क्या आपको फुटबॉल पसंद हैं?
+Do you like sports?	Magst du Sport?	क्या आपको खेल पसंद है?
+Do you like tennis?	Magst du Tennis?	क्या आपको टेनिस पसंद है?
+Do you live nearby?	Wohnst du in der Nähe?	क्या आप निकट में रहते हैं?
+Do you miss Boston?	Vermisst du Boston?	क्या आपको बोस्टन की याद आती है?
+Do you need a lift?	Brauchst du eine Mitfahrgelegenheit?	क्या आपको लिफ़्ट की ज़रूरत है?
