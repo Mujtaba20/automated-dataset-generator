@@ -7862,3 +7862,12 @@ We're all here.	Wir sind alle hier.	हम सभी यहाँ हैं।
 We're brothers.	Wir sind Brüder.	हम भाई हैं।
 We're confused.	Wir sind verwirrt.	हम उलझे हुए हैं।
 engSentence	{"We're creative.": 'Wir sind kreativ.', "We're decisive.": 'Wir sind entscheidend.', "We're divorced.": 'Wir sind geschieden.', "We're doing OK.": 'Wir machen es gut.', "We're escaping.": 'Wir entkommen.', "We're famished.": 'Wir sind ausgehungert.', "We're famished. (Different Meaning)": 'Wir sind verhungert.', "We're fighting.": 'Wir kämpfen.', "We're fine now.": 'Uns geht es jetzt gut.'}	{"We're creative.": 'हम सृजनात्मक हैं।', "We're decisive.": 'हम निर्णयक हैं।', "We're divorced.": 'हम तलाकशुदा हैं।', "We're doing OK.": 'हम ठीक कर रहे हैं।', "We're escaping.": 'हम भाग रहे हैं।', "We're famished.": 'हम भूखे हैं।', "We're famished. (Different Meaning)": 'हम भूख से दुखी हैं।', "We're fighting.": 'हम लड़ाई कर रहे हैं।', "We're fine now.": 'अब हम ठीक हैं।'}
+We're flexible.	Wir sind flexibel.	हम लचीले हैं।
+We're free now.	Wir sind jetzt frei.	अब हम मुक्त हैं।
+We're geniuses.	Wir sind Genies.	हम महान हैं।
+We're grateful.	Wir sind dankbar.	हम आभारी हैं।
+We're helpless.	Wir sind hilflos.	हम बेबस हैं।
+We're horrible.	Wir sind furchtbar.	हम डरावना हैं।
+We're innocent.	Wir sind unschuldig.	हम निर्दोष हैं।
+We're managing.	Wir kommen zurecht.	हम परिचालन कर रहे हैं।
+We're not busy.	Wir sind nicht beschäftigt.	हम व्यस्त नहीं हैं।
