@@ -4228,3 +4228,11 @@ I said I'd go.	Ich habe gesagt, dass ich gehen werde.	मैंने कहा 
 I said get up!	Ich sagte, steh auf!	मैंने कहा उठो!
 I said thanks.	Ich habe Danke gesagt.	मैंने धन्यवाद कहा।
 I saw Tom die.	Ich sah Tom sterben.	मैंने टॉम को मरते हुए देखा।
+I saw a mouse!	Ich sah eine Maus!	मैंने एक चूहा देखा!
+I saw a plane.	Ich sah ein Flugzeug.	मैंने विमान दिखा।
+I saw it, too.	Ich habe es auch gesehen.	मैंने भी यह देखा।
+I saw nothing.	Ich habe nichts gesehen.	मैंने खोखला देखा।
+I saw someone.	Ich sah jemanden.	मैंने किसी को देखा।
+I saw the dog.	Ich sah den Hund.	मैंने कुत्ते को देखा।
+I say it's OK.	Ich sage, es ist in Ordnung.	मैं कहता हूँ कि ठीक है।
+I see a crown.	Ich sehe eine Krone.	मैं एक मुकुट देखता हूँ।
