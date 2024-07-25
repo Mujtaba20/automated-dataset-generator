@@ -10929,3 +10929,13 @@ Tom will change.	Tom wird sich ändern.	टॉम बदलेगा।
 Tom will decide.	Tom wird entscheiden.	टॉम निर्णय करेगा।
 Tom will escape.	Tom wird fliehen.	टॉम बचने की कोशिश करेगा।
 Tom will follow.	Tom wird folgen.	टॉम अनुसरण करेगा।
+Tom will listen.	Tom wird zuhören.	टॉम सुनेगा।
+Tom will manage.	Tom wird es schaffen.	टॉम प्रबंधित करेगा।
+Tom will remain.	Tom wird bleiben.	टॉम रहेगा।
+Tom will scream.	Tom wird schreien.	टॉम चिल्लाएगा।
+Tom will see us.	Tom wird uns sehen.	टॉम हमें देखेगा।
+Tom will starve.	Tom wird hungern.	टॉम भूखा रहेगा।
+Tom will suffer.	Tom wird leiden.	टॉम पीड़ित होगा।
+Tom will try it.	Tom wird es versuchen.	टॉम यह कोशिश करेगा।
+Tom will use it.	Tom wird es benutzen.	टॉम इसका इस्तेमाल करेगा।
+Tom winked back.	Tom zwinkerte zurück.	टॉम वापस मुस्काया।
