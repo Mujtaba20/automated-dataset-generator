@@ -14321,3 +14321,11 @@ Tom is trembling.	Tom zittert.	टॉम काँप रहा है।
 Tom is uncertain.	Tom ist unsicher.	टॉम अनिश्चित है।
 Tom is undecided.	Tom ist unentschlossen.	टॉम अनिर्णयी है।
 Tom is unethical.	Tom ist unethisch.	टॉम अनैतिक है।
+Tom is uninsured.	Tom ist nicht versichert.	टॉम का बीमा नहीं है।
+Tom is unmarried.	Tom ist ledig.	टॉम अविवाहित है।
+Tom is unpacking.	Tom packt aus.	टॉम खोल रहा है।
+Tom is unpopular.	Tom ist unbeliebt.	टॉम अप्रिय है।
+Tom is unrelated.	Tom ist nicht verwandt.	टॉम संबंधित नहीं है।
+Tom is unsettled.	Tom ist unruhig.	टॉम बेचैन है।
+Tom is using you.	Tom benutzt dich.	टॉम तुम्हें इस्तेमाल कर रहा है।
+Tom is very busy.	Tom ist sehr beschäftigt.	टॉम बहुत व्यस्त है।
