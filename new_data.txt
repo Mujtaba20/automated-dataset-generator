@@ -13091,3 +13091,10 @@ It interested me.	Es interessierte mich.	यह मुझे दिलचस्�
 It is impossible.	Es ist unmöglich.	यह असंभव है।
 It is not my day.	Es ist nicht mein Tag.	यह मेरा दिन नहीं है।
 It is pitch dark.	Es ist stockdunkel.	यह पूरी तरह अंधेरा है।
+It is time to go.	Es ist Zeit zu gehen.	इस समय जाने का समय है।
+It is what it is.	Es ist wie es ist.	ऐसा ही है।
+It isn't a dream.	Es ist kein Traum.	यह सपना नहीं है।
+It isn't obvious.	Es ist nicht offensichtlich.	यह स्पष्ट नहीं है।
+It isn't working.	Es funktioniert nicht.	यह काम नहीं कर रहा है।
+It just happened.	Es ist gerade passiert.	बस यह हुआ।
+It looks so real.	Es sieht so echt aus.	यह इतना असली लगता है।
