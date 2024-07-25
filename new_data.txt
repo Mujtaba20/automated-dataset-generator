@@ -14993,3 +14993,11 @@ We left together.	Wir gingen zusammen.	हम साथ चले गए।
 We like children.	Wir mögen Kinder.	हम बच्चों को पसंद करते हैं।
 We live in peace.	Wir leben in Frieden.	हम शांति में रहते हैं।
 We live together.	Wir leben zusammen.	हम साथ रहते हैं।
+We lost the game.	Wir haben das Spiel verloren.	हमने खेल हार दिया।
+We made mistakes.	Wir haben Fehler gemacht.	हमने गलतियाँ की।
+We mean business.	Wir meinen es ernst.	हम काम करने का इरादा रखते हैं।
+We meant no harm.	Wir wollten niemandem schaden.	हम किसी को नुकसान नहीं पहुंचाना चाहते थे।
+We met in Boston.	Wir trafen uns in Boston.	हम बोस्टन में मिले।
+We met last week.	Wir trafen uns letzte Woche.	हम पिछले हफ्ते मिले।
+We met on Sunday.	Wir trafen uns am Sonntag.	हम रविवार को मिले।
+We misjudged Tom.	Wir haben Tom falsch eingeschätzt.	हमने टॉम का गलत मूल्यांकन किया।
