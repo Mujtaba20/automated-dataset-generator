@@ -19530,3 +19530,12 @@ We got into a car.	Wir stiegen in ein Auto ein.	हम एक गाड़ी �
 We got up at dawn.	Wir standen bei Morgendämmerung auf.	हम भोर के समय उठे।
 We had no secrets.	Wir hatten keine Geheimnisse.	हमारे पास कोई राज नहीं थे।
 We have a big dog.	Wir haben einen großen Hund.	हमारे पास एक बड़ा कुत्ता है।
+We have a meeting.	Wir haben eine Besprechung.	हमें एक मीटिंग है।
+We have a problem.	Wir haben ein Problem.	हमें समस्या है।
+We have a visitor.	Wir haben einen Besucher.	हमें एक अतिथि है।
+We have an answer.	Wir haben eine Antwort.	हमें एक जवाब है।
+We have no choice.	Wir haben keine Wahl.	हमारे पास कोई विकल्प नहीं है।
+We have suppliers.	Wir haben Lieferanten.	हमें आपूर्तिकर्ता हैं।
+We have to go now.	Wir müssen jetzt gehen.	अब हमें जाना होगा।
+We hope for peace.	Wir hoffen auf Frieden.	हम शांति की आशा करते हैं।
+We know about Tom.	Wir wissen über Tom Bescheid.	हम टॉम के बारे में जानते हैं।

@@ -1,15 +1,4 @@
 
-We have a meeting.	Wir haben ein Meeting.	हमारी एक बैठक है।
-We have a problem.	Wir haben ein Problem.	हमारा एक समस्या है।
-We have a visitor.	Wir haben Besuch.	हमारे पास आगंतुक हैं।
-We have an answer.	Wir haben eine Antwort.	हमारे पास एक जवाब है।
-We have no choice.	Wir haben keine Wahl.	हमारे पास कोई विकल्प नहीं है।
-We have no choice.	Es bleibt uns nichts anderes übrig.	हमारे पास कोई और विकल्प नहीं है।
-We have suppliers.	Wir haben Zulieferer.	हमारे पास आपूर्तिकर्ता हैं।
-We have to go now.	Wir müssen jetzt gehen.	हमें अब जाना होगा।
-We hope for peace.	Wir hoffen auf Frieden.	हम शांति की उम्मीद करते हैं।
-We know about Tom.	Wir wissen von Tom.	हम टॉम से जानते हैं।
-We know about Tom.	Über Tom wissen wir Bescheid.	हम टॉम के बारे में जानते हैं।
 We know this song.	Wir kennen dieses Lied.	हम इस गीत को जानते हैं।
 We know who he is.	Wir wissen, wer er ist.	हम जानते हैं कि वह कौन है।
 We learned French.	Wir lernten Französisch.	हमने फ्रेंच सीखा।
