@@ -17339,3 +17339,11 @@ engSentence7	Es war praktisch.	यह उपयुक्त था।
 engSentence8	Es war bequem.	यह सुविधाजनक था।
 engSentence9	Es war deprimierend.	यह निराशाजनक था।
 engSentence10	Es drückte auf die Stimmung.	यह मनोबल गिराने वाला था।
+It was impressive.	Es war beeindruckend.	यह भव्य था।
+It was inevitable.	Es war unvermeidlich.	यह अनिवार्य था।
+It was my mistake.	Es war mein Fehler.	यह मेरी ग़लती थी।
+It was pure chaos.	Es war reines Chaos.	यह पूरी भयंकरता थी।
+It was very quiet.	Es war sehr ruhig.	यह बहुत शान्त था।
+It was very small.	Es war sehr klein.	यह बहुत छोटा था।
+It was very windy.	Es war sehr windig.	यह बहुत हवाई था।
+It wasn't a dream.	Es war kein Traum.	यह कोई सपना नहीं था।
