@@ -15321,3 +15321,8 @@ You are blushing.	Du errötest.	तुम लाल हो रहे हो।
 You are children.	Du bist ein Kind.	तुम बच्चे हो।
 You are dreaming.	Du träumst.	तुम सपने देख रहे हो।
 You are gorgeous.	Ihr seid hinreißend.	तुम शानदार हो।
+You are hopeless.	Du bist aussichtslos.	तुम निराश हो।
+You are the best.	Du bist spitze.	तुम सबसे अच्छे हो।
+You are to blame.	Du bist schuld.	तुम दोषी हो।
+You are too late.	Du bist zu spät.	तुम बहुत देर से हो।
+You aren't alone.	Du bist nicht einsam.	तुम अकेले नहीं हो।
