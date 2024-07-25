@@ -5855,3 +5855,13 @@ He went skiing.	Er ging Ski fahren.	उसने स्की करने क�
 He went to bed.	Er legte sich schlafen.	उसने सोने की कोशिश की।
 He will not go.	Er wird nicht gehen.	वह नहीं जाएगा।
 He worked hard.	Er arbeitete schwer.	उसने मेहनत की।
+He's a big boy.	Er ist ein großer Junge.	वह एक बड़े लड़का है।
+He's a bit shy.	Er ist ein bisschen schüchtern.	वह थोड़ा शर्मीला है।
+He's a butcher.	Er ist ein Metzger.	वह एक कसाई है।
+He's a fanatic.	Er ist ein Fanatiker.	वह एक उत्साही है।
+He's a gambler.	Er ist ein Spieler.	वह जुआर है।
+He's a man now.	Er ist jetzt ein Mann.	वह अब एक आदमी है।
+He's a samurai.	Er ist ein Samurai.	वह एक सामुराई है।
+He's a slacker.	Er ist ein Faulenzer.	वह एक आलसी है।
+He's a yes-man.	Er ist ein Jasager.	वह हाँ जनक है।
+He's all right.	Es geht ihm gut.	उसे सब ठीक है।
