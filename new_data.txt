@@ -15928,3 +15928,12 @@ Have you finished?	Hast du fertig?	क्या आप पूरा कर च�
 Have you gone mad?	Bist du verrückt geworden?	क्या तुम पागल हो गए हो?
 Have you seen her?	Hast du sie gesehen?	क्या तुमने उसे देखा है?
 Have you showered?	Hast du geduscht?	क्या आपने नहाया है?
+Have your own way.	Gehe deinen eigenen Weg.	अपना रास्ता चुनो।
+Hay is for horses.	Heu ist für Pferde.	घास घोड़ों को है।
+He agreed with me.	Er stimmte mir zu.	उसने मेरे साथ सहमत हुआ।
+He appeared young.	Er erschien jung.	उसकी उम्र लग रही थी।
+He arrived safely.	Er kam sicher an.	उसने सुरक्षित रूप से पहुंचा।
+He asked for help.	Er bat um Hilfe.	उसने मदद के लिए पूछा।
+He became furious.	Er wurde wütend.	उसने बहुत गुस्सा किया।
+He began to sweat.	Er begann zu schwitzen.	उसने पसीना छोड़ना शुरू किया।
+He blackmailed me.	Er erpresste mich.	उसने मुझसे ब्लैकमेल किया।
