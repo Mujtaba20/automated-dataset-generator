@@ -16749,3 +16749,13 @@ I never said that.	Das habe ich nie gesagt.	मैंने कभी ऐसा 
 I often buy bread.	Ich kaufe oft Brot.	मैं अक्सर रोटी खरीदता हूँ।
 I often drink tea.	Ich trinke oft Tee.	मैं अक्सर चाय पीता हूँ।
 I often go abroad.	Ich gehe oft ins Ausland.	मैं अक्सर विदेश जाता हूँ।
+I often wear blue.	Ich trage oft blau.	मैं अक्सर नीला पहनता हूँ।
+I opened the door.	Ich habe die Tür geöffnet.	मैने दरवाजा खोला।
+I ought to go now.	Ich sollte jetzt gehen.	मुझे अब जाना चाहिए।
+I overslept again.	Ich habe wieder verschlafen.	मैं फिर से ज्यादा सो गया।
+I owe him 100 yen.	Ich schulde ihm 100 Yen.	मैं उसे 100 येन देता हूँ।
+I owe him my life.	Ich schulde ihm mein Leben.	मैं उसे अपना जीवन देता हूं।
+I owe him nothing.	Ich schulde ihm nichts.	मैं उसे कुछ नहीं देता।
+I owe you a lunch.	Ich schulde dir ein Mittagessen.	मैं तुम्हें एक लंच देता हूं।
+I owe you a favor.	Ich schulde dir einen Gefallen.	मैं तुम्हें एक योग्यता देता हूं।
+I owe you an apology.	Ich schulde dir eine Entschuldigung.	मैं तुम्हें माफी मांगता हूं।
