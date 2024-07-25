@@ -16529,3 +16529,13 @@ I have no comment.	Ich habe keinen Kommentar.	मेरे पास कोई �
 I have no friends.	Ich habe keine Freunde.	मेरे पास कोई दोस्त नहीं है।
 I have no privacy.	Ich habe keine Privatsphäre.	मेरे पास कोई निजता नहीं है।
 I have not found a way to translate this sentence differently.	Ich habe keinen Weg gefunden, diesen Satz anders zu übersetzen.	मैंने इस वाक्य को अलग तरह से अनुवाद करने का कोई तरीका नहीं पाया है।
+I have no problem.	Ich habe kein Problem.	मेरे पास कोई समस्या नहीं है।
+I have no regrets.	Ich habe keine Bedauern.	मुझे कोई पछतावा नहीं है।
+I have no sisters.	Ich habe keine Schwestern.	मेरी कोई बहनें नहीं हैं।
+I have seen a UFO.	Ich habe ein UFO gesehen.	मैंने एक यूएफओ देखा है।
+I have short hair.	Ich habe kurze Haare.	मेरे बाल छोटे हैं।
+I have short hair. (Different Meaning)	Ich habe kurze Haare.	मेरे बाल छोटे हैं।
+I have small ears.	Ich habe kleine Ohren.	मेरे कान छोटे हैं।
+I have some books.	Ich habe einige Bücher.	मेरे पास कुछ किताबें हैं।
+I have some gifts.	Ich habe einige Geschenke.	मेरे पास कुछ उपहार हैं।
+I have some money.	Ich habe etwas Geld.	मेरे पास कुछ पैसे हैं।
