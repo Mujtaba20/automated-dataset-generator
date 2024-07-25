@@ -20225,3 +20225,13 @@ Your book is here.	Dein Buch ist hier.	तुम्हारी किताब 
 Your face is pale.	Dein Gesicht ist blass.	तुम्हारा चेहरा पीला है।
 Your house is big.	Dein Haus ist groß.	तुम्हारा घर बड़ा है।
 engSentence	Deine Lippen sind rot.	तुम्हारे होंठ लाल हैं।
+A horse kicked Tom.	Ein Pferd trat Tom.	एक घोड़ा ने टॉम को लात मारी।
+A lot has happened.	Es ist viel passiert.	बहुत कुछ हो गया है।
+A revolt broke out.	Ein Aufstand brach aus.	एक विद्रोह तूफान बन गया।
+A storm is brewing.	Ein Sturm braut sich zusammen.	एक तूफान उभर रहा है।
+A storm is brewing. (Different meaning)	Es braut sich Unheil zusammen.	एक तूफान आ रहा है।
+Admission was free.	Der Eintritt war frei.	प्रवेश मुफ्त था।
+All men are mortal.	Alle Menschen sind sterblich.	सभी आदमी मानवीय हैं।
+All of us like her.	Wir alle mögen sie.	हम सभी उसे पसंद करते हैं।
+All sugar is sweet.	Alle Zucker ist süß.	सभी चीनी मीठी है।
+All were satisfied.	Alle waren zufrieden.	सभी संतुष्ट थे।
