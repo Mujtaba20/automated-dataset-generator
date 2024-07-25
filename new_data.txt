@@ -10846,3 +10846,13 @@ Tom was hurting.	Tom tat weh.	टॉम को चोट आ गयी थी।
 Tom was in love.	Tom war verliebt.	टॉम प्यार में था।
 Tom was in pain.	Tom hatte Schmerzen.	टॉम को दर्द था।
 Tom was injured.	Tom wurde verletzt.	टॉम चोट खा गया था।
+Tom was invited.	Tom wurde eingeladen.	टॉम को आमंत्रित किया गया था।
+Tom was jealous.	Tom war eifersüchtig.	टॉम को जलन हो रही थी।
+Tom was kidding.	Tom hat Witze gemacht.	टॉम मजाक कर रहा था।
+Tom was leaving.	Tom ging weg.	टॉम जा रहा था।
+Tom was lenient.	Tom war nachsichtig.	टॉम उदार था।
+Tom was married.	Tom war verheiratet.	टॉम शादीशुदा था।
+Tom was moaning.	Tom stöhnte.	टॉम मुंह बंद करके दर्द व्यक्त कर रहा था।
+Tom was my boss.	Tom war mein Chef.	टॉम मेरे बॉस थे।
+Tom was naughty.	Tom war ungezogen.	टॉम शरारती था।
+Tom was nervous.	Tom war nervös.	टॉम घबराया हुआ था।
