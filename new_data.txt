@@ -20262,3 +20262,12 @@ Are you down there?	Bist du dort unten?	क्या तुम वहाँ न�
 Are you feeling OK?	Fühlst du dich okay?	क्या तुम ठीक महसूस कर रहे हो?
 Are you going home?	Gehst du nach Hause?	क्या तुम घर जा रहे हो?
 Are you going, too?	Gehst du auch?	क्या तुम भी जा रहे हो?
+Are you good at it?	Bist du gut darin?	क्या आप इसमें अच्छे हैं?
+Are you guys armed?	Seid ihr bewaffnet?	क्या आप लोग आर्म्ड हैं?
+Are you guys crazy?	Seid ihr verrückt?	क्या आप लोग पागल हैं?
+Are you guys happy?	Seid ihr glücklich?	क्या आप लोग खुश हैं?
+Are you guys tired?	Seid ihr müde?	क्या आप लोग थक गए हैं?
+Are you happy here?	Bist du hier glücklich?	क्या आप यहाँ खुश हैं?
+Are you happy, Tom?	Bist du glücklich, Tom?	क्या तुम खुश हो, टॉम?
+Are you having fun?	Hast du Spaß?	क्या आप मज़ा कर रहे हैं?
+Are you here alone?	Bist du hier allein?	क्या आप यहाँ अकेले हैं?

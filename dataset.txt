@@ -1,15 +1,4 @@
 
-Are you good at it?	Bist du gut darin?	क्या आप इसमें अच्छे हैं?
-Are you guys armed?	Seid ihr gewaffnet?	क्या आप लहराते हैं?
-Are you guys armed?	Seid ihr bewaffnet?	क्या आप सशस्त्र हैं?
-Are you guys crazy?	Spinnt ihr?	क्या आप स्पिन करते हैं?
-Are you guys happy?	Seid ihr glücklich?	क्या तुम खुश हो?
-Are you guys tired?	Seid ihr müde?	क्या आप थके हैं?
-Are you happy here?	Bist du glücklich hier?	क्या आप यहाँ खुश हैं
-Are you happy, Tom?	Bist du glücklich, Tom?	क्या आप खुश हैं, टॉम?
-Are you having fun?	Amüsierst du dich gut?	क्या आप अच्छा समय बिता रहे हैं?
-Are you here alone?	Bist du allein hier?	क्या आप यहाँ अकेले हैं?
-Are you here alone?	Sind Sie allein hier?	क्या आप यहाँ अकेले हैं?
 Are you hungry now?	Hast du jetzt Hunger?	क्या अब आप भूखे हैं?
 Are you hungry yet?	Hast du schon Hunger?	क्या आप पहले से ही भूखे हैं?
 Are you in a hurry?	Hast du es eilig?	क्या आप जल्दी में हैं?
