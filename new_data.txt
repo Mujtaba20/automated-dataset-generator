@@ -17569,3 +17569,13 @@ My cat loves toys.	Meine Katze liebt Spielzeug.	मेरी बिल्ली 
 My dad's not here.	Mein Vater ist nicht hier.	मेरे पिता यहाँ नहीं हैं।
 My dogs are white.	Meine Hunde sind weiß.	मेरे कुत्ते सफेद हैं।
 My eyes are tired.	Meine Augen sind müde.	मेरी आँखें थकी हुई हैं।
+My father is busy.	Mein Vater ist beschäftigt.	मेरे पिताजी व्यस्त हैं।
+My father is here.	Mein Vater ist hier.	मेरे पिताजी यहाँ हैं।
+My father is home.	Mein Vater ist zu Hause.	मेरे पिताजी घर पर हैं।
+My father is rich.	Mein Vater ist reich.	मेरे पिताजी अमीर हैं।
+My father is tall.	Mein Vater ist groß.	मेरे पिताजीलम्बे हैं।
+My feet are dirty.	Meine Füße sind schmutzig.	मेरे पैर गंदे हैं।
+My hands are cold.	Meine Hände sind kalt.	मेरे हाथ ठंडे हैं।
+My hands are full.	Meine Hände sind voll.	मेरे हाथ भरे हुए हैं।
+My hands are tied.	Meine Hände sind gebunden.	मेरे हाथ बांधे गए हैं।
+My hobby is music.	Mein Hobby ist Musik.	मेरा शौक संगीत है।

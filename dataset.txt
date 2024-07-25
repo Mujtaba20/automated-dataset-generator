@@ -1,14 +1,4 @@
 
-My father is busy.	Mein Vater ist beschäftigt.	मेरे पिता व्यस्त हैं।
-My father is here.	Mein Vater ist hier.	मेरे पिता यहाँ हैं।
-My father is home.	Mein Vater ist zu Hause.	मेरे पिता घर पर हैं।
-My father is rich.	Mein Vater ist reich.	मेरे पिता अमीर हैं।
-My father is tall.	Mein Vater ist groß.	मेरे पिता बड़े हैं।
-My feet are dirty.	Ich habe schmutzige Füße.	मेरे पास गंदे पैर हैं।
-My hands are cold.	Meine Hände sind kalt.	मेरे हाथ ठंडे हैं।
-My hands are full.	Meine Hände sind voll.	मेरे हाथ भरे हुए हैं।
-My hands are tied.	Mir sind die Hände gebunden.	मेरे हाथ मेरे लिए बाध्य हैं।
-My hobby is music.	Mein Hobby ist Musik.	मेरा शौक संगीत है।
 My horse is black.	Mein Pferd ist schwarz.	मेरा घोड़ा काला है।
 My horse is white.	Mein Pferd ist weiß.	मेरा घोड़ा सफेद है।
 My horse ran away.	Mein Pferd ist entlaufen.	मेरा घोड़ा बाहर चला गया है।
