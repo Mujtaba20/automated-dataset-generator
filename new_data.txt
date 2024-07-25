@@ -15914,3 +15914,10 @@ Good morning, Tom.	Guten Morgen, Tom.	शुभ प्रभात, टॉम।
 Goodnight, ladies.	Gute Nacht, Damen.	शुभ रात्रि, महिलाएँ।
 Halloween was fun.	Halloween hat Spaß gemacht.	हैलोवीन मजेदार था।
 Hamsters are cute.	Hamster sind niedlich.	हैम्स्टर्स प्यारे होते हैं।
+Hang up the phone.	Auflegen des Telefons.	फोन कट दो।
+Happy anniversary!	Alles Gute zum Jahrestag!	खुशी की सालगिरह!
+Has Tom done that?	Hat Tom das erledigt?	क्या टॉम ने यह कम किया है?
+Has Tom eaten yet?	Hat Tom schon gegessen?	क्या टॉम ने अभी तक खाया है?
+Has Tom gone home?	Ist Tom nach Hause gegangen?	क्या टॉम घर चला गया है?
+Has Tom gone, too?	Ist Tom auch verschwunden?	क्या टॉम भी गया है?
+Has the bell rung?	Hat die Glocke geläutet?	क्या घंटी बजी है?
