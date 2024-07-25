@@ -7435,3 +7435,13 @@ Tom isn't lost.	Tom ist nicht verloren.	टॉम हार नहीं गय�
 Tom isn't mean.	Tom ist nicht gemein.	टॉम बुरा नहीं है।
 Tom isn't neat.	Tom ist nicht ordentlich.	टॉम साफ-सुथरा नहीं है।
 Tom isn't nice.	Tom ist nicht nett.	टॉम अच्छा नहीं है।
+Tom isn't nuts.	Tom ist nicht verrückt.	टॉम पागल नहीं है।
+Tom isn't poor.	Tom ist nicht arm.	टॉम गरीब नहीं है।
+Tom isn't rich.	Tom ist nicht reich.	टॉम अमीर नहीं है।
+Tom isn't rude.	Tom ist nicht unhöflich.	टॉम अकड़ नहीं है।
+Tom isn't safe.	Tom ist nicht sicher.	टॉम सुरक्षित नहीं है।
+Tom isn't sane.	Tom ist nicht gesund.	टॉम सान नहीं है।
+Tom isn't sick.	Tom ist nicht krank.	टॉम बीमार नहीं है।
+Tom isn't sure.	Tom ist sich nicht sicher.	टॉम पक्का नहीं है।
+Tom isn't tall.	Tom ist nicht groß.	टॉम लंबा नहीं है।
+Tom isn't thin.	Tom ist nicht dünn.	टॉम पतला नहीं है।
