@@ -8345,3 +8345,9 @@ Don't freak out.	Keine Panik.	घबराओ मत।
 Don't get angry.	Werde nicht wütend.	गुस्सा मत हो.
 Don't get drunk.	Werde nicht betrunken.	नशे में मत आओ।
 Don't harm them.	Schade ihnen nicht.	उन्हें कोई चोट ना पहुंचाओ।
+Don't insult me.	Beleidige mich nicht.	मुझे ना आक्रोशित करें।
+Don't interfere.	Sich nicht einmischen.	हस्तक्षेप न करें।
+Don't interrupt.	Unterbrechen Sie nicht.	बात मत घुसने दो।
+Don't lie to me.	Lüge mich nicht an.	मुझसे झूठ मत बोलो।
+Don't lie to us.	Lüge uns nicht an.	हमसे झूठ मत बोलो।
+Don't look back.	Schau nicht zurück.	पीछे मत देखो।
