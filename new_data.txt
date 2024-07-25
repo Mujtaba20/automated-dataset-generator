@@ -4057,3 +4057,11 @@ I don't drink.	Ich trinke nicht.	मैं नहीं पीता।
 I don't snore.	Ich schnarche nicht.	मुझसे गुँजना नहीं होता।
 I don't study.	Ich studiere nicht.	मैं पढ़ाई नहीं करता।
 I dream a lot.	Ich träume viel.	मैं बहुत सारे सपने देखता हूँ।
+I dye my hair.	Ich töne meine Haare.	मैं अपने बालों को रंगता हूँ।
+I enjoy chess.	Ich spiele gerne Schach.	मुझे शतरंज का आनंद है।
+I enjoy music.	Ich genieße Musik.	मुझे संगीत का आनंद है।
+I exaggerated.	Ich habe übertrieben.	मैंने अत्यधिक कह दिया।
+I fed the dog.	Ich habe den Hund gefüttert.	मैंने कुत्ते को खिलाया।
+I feel guilty.	Ich fühle mich schuldig.	मुझे अपराधी महसूस हो रहा है।
+I feel it now.	Ich spüre es jetzt.	मुझे अब महसूस हो रहा है।
+I feel my age.	Ich fühle mich so alt.	मैं इतना बूढ़ा महसूस करता हूँ।
