@@ -2375,3 +2375,7 @@ You're next.	Du kommst als Nächstes dran.	तुम्हारी बार �
 You're nuts!	Du bist bekloppt!	तुम पागल हो!
 You're sick!	Du bist krank!	तुम बीमार हो!
 You're thin.	Du bist mager.	तुम पतले हो।
+You're tidy.	Ihr seid ordentlich.	तुम्हारे पास ख़ास है।
+You're ugly.	Du bist hässlich.	तुम बुरे दिखते हो।
+You're vain.	Ihr seid eitel.	तुम रूको।
+You're weak.	Ihr seid schwach.	तुम कमजोर हो।
