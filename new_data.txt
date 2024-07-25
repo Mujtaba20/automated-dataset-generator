@@ -20248,3 +20248,11 @@ Are meals included?	Sind Mahlzeiten enthalten?	भोजन समायोज�
 Are they satisfied?	Sind sie zufrieden?	क्या वे संतुष्ट हैं?
 Are we leaving now?	Gehen wir jetzt?	क्या हम अब निकल रहे हैं?
 Are you a Buddhist?	Bist du ein Buddhist?	क्या तुम बौद्ध हो?
+Are you a bachelor?	Bist du ein Junggeselle?	क्या आप एक बैचलर हैं?
+Are you a believer?	Bist du ein Gläubiger?	क्या आप एक विश्वासी हैं?
+Are you a criminal?	Bist du ein Verbrecher?	क्या आप एक अपराधी हैं?
+Are you a musician?	Bist du ein Musiker?	क्या आप एक संगीतकार हैं?
+Are you about done?	Bist du fertig?	क्या आप बस अभी ही खत्म कर दिया है?
+Are you an atheist?	Bist du ein Atheist?	क्या आप एक नास्तिक हैं?
+Are you blaming me?	Beschuldigst du mich?	क्या आप मुझे दोष दे रहे हैं?
+Are you bored here?	Bist du hier gelangweilt?	क्या आप यहाँ उबाऊ हो?

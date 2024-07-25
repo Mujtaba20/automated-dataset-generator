@@ -1,14 +1,4 @@
 
-Are you a bachelor?	Bist du Junggeselle?	क्या आप स्नातक हैं
-Are you a believer?	Bist du gläubig?	क्या आप धर्म में विश्वास रखते हैं?
-Are you a criminal?	Bist du ein Krimineller?	क्या आप अपराधी हैं?
-Are you a musician?	Bist du Musiker?	क्या आप एक संगीतकार हैं
-Are you a musician?	Sind Sie Musiker?	क्या आप एक संगीतकार हैं?
-Are you about done?	Bist du denn langsam soweit?	क्या आप धीरे -धीरे अब तक हैं?
-Are you an atheist?	Sind Sie Atheist?	क्या आप नास्तिक हैं?
-Are you an atheist?	Bist du Atheist?	क्या आप नास्तिक हैं?
-Are you blaming me?	Gibst du mir die Schuld?	क्या आप मुझे दोषी मानते हैं?
-Are you bored here?	Langweilst du dich hier?	क्या आप यहाँ ऊब गए हैं?
 Are you both crazy?	Seid ihr beide verrückt?	क्या तुम दोनों पागल हो?
 Are you both crazy?	Sind Sie beide verrückt?	क्या तुम दोनों पागल हो?
 Are you courageous?	Bist du mutig?	क्या आप बहादूर हो?
