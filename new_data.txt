@@ -11600,3 +11600,13 @@ Change your diet.	Ändere deine Ernährung.	अपने आहार को ब
 Check your order.	Überprüfen Sie Ihre Bestellung.	अपना ऑर्डर चेक करें।
 Cherries are red.	Kirschen sind rot.	चेरी लाल होती हैं।
 Choose carefully.	Wähle mit Bedacht.	सावधानी से चुनें।
+Classes are over.	Der Unterricht ist vorbei.	कक्षाएँ समाप्त हो गई हैं।
+Clean the mirror.	Putzen Sie den Spiegel.	आईना साफ करो।
+Clean the window.	Putzen Sie das Fenster.	खिड़की साफ करो।
+Clean your hands.	Waschen Sie Ihre Hände.	अपने हाथ धोएं।
+Close the window.	Das Fenster schließen.	खिड़की बंद करो।
+Close your books.	Schließen Sie Ihre Bücher.	अपनी किताबें बंद करो।
+Come and help me.	Kommen Sie und helfen Sie mir.	आओ और मेरी मदद करो।
+Come and help us.	Komm und hilf uns.	आओ और हमारी मदद करो।
+Come and join us.	Komm und schließ dich uns an.	आओ और हमारे साथ शामिल हो जाओ।
+Come eat with us.	Kommen Sie und essen Sie mit uns.	हमारे साथ खाने आइए।
