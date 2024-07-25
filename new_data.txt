@@ -18652,3 +18652,13 @@ Tom is fairly old.	Tom ist ziemlich alt.	टॉम काफी पुरान�
 Tom is fascinated.	Tom ist fasziniert.	टॉम आकर्षित है।
 Tom is former FBI.	Tom ist ehemaliges FBI.	टॉम पूर्व एफबीआई है।
 Tom is frightened.	Tom hat Angst.	टॉम डरा हुआ है।
+Tom is frustrated.	Tom ist frustriert.	टॉम को निराशा है।
+Tom is going bald.	Tom wird kahl.	टॉम गंजा हो रहा है।
+Tom is going home.	Tom geht nach Hause.	टॉम घर जा रहा है।
+Tom is going, too.	Tom geht auch.	टॉम भी जा रहा है।
+Tom is good at it.	Tom ist gut darin.	टॉम इसमें अच्छा है।
+Tom is good to me.	Tom ist nett zu mir.	टॉम मेरे लिए अच्छा है।
+Tom is gregarious.	Tom ist gesellig.	टॉम मेलजोली करनेवाला है।
+Tom is handcuffed.	Tom ist in Handschellen.	टॉम को हथकडी लगाई गई है।
+Tom is happy here.	Tom ist glücklich hier.	टॉम यहाँ खुश है।
+Tom is headstrong.	Tom ist stur.	टॉम जिद्दी है।

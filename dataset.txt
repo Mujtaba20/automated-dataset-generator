@@ -1,14 +1,4 @@
 
-Tom is frustrated.	Tom ist frustriert.	टॉम निराश है।
-Tom is going bald.	Tom bekommt eine Glatze.	टॉम को एक गंजा सिर मिलता है।
-Tom is going home.	Tom geht nach Hause.	टॉम घर जाता है।
-Tom is going, too.	Tom geht auch.	टॉम भी काम करता है।
-Tom is good at it.	Tom ist gut darin.	टॉम इसमें अच्छा है।
-Tom is good to me.	Tom ist gut zu mir.	टॉम मेरे लिए अच्छा है।
-Tom is gregarious.	Tom ist gesellig.	टॉम मिलनसार है।
-Tom is handcuffed.	Tom ist in Handschellen gelegt.	टॉम को हथकड़ी में रखा गया है।
-Tom is happy here.	Tom ist glücklich hier.	टॉम यहाँ खुश है।
-Tom is headstrong.	Tom ist eigensinnig.	टॉम जिद्दी है।
 Tom is helping me.	Tom hilft mir.	टॉम मेरी मदद करता है।
 Tom is here again.	Tom ist wieder da.	टॉम वापस आ गया है।
 Tom is holding it.	Tom hält es.	टॉम इसे धारण करता है।
