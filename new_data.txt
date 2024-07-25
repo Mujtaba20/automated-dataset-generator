@@ -13308,3 +13308,10 @@ Look what I made.	Schau, was ich gemacht habe.	देखो, मैंने क
 Look who's there.	Schau mal, wer da ist.	देखो कौन है वहाँ।
 Love is immortal.	Liebe ist unsterblich.	प्यार अमर है।
 Lower your voice.	Senke deine Stimme.	तुम्हारी आवाज़ कम करो।
+Mail this letter.	Schicken Sie diesen Brief.	इस पत्र को मेल करें।
+Make way, please.	Mach bitte Platz.	कृपया रास्ता दीजिए।
+Make your choice.	Treffe deine Wahl.	अपना चयन करें।
+Many people died.	Viele Menschen starben.	कई लोगों की मौत हो गई।
+Many people hunt.	Viele Menschen jagen.	कई लोग शिकार करते हैं।
+Many people left.	Viele Leute sind gegangen.	कई लोग चले गए।
+Mars is a planet.	Mars ist ein Planet.	मंगल ग्रह है।
