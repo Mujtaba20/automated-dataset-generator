@@ -1,14 +1,4 @@
 
-May I go with Tom?	Darf ich mit Tom gehen?	क्या मैं टॉम के साथ जा सकता हूं?
-May I go with you?	Kann ich mit dir gehen?	मैं आप के साथ जा सकता हुँ?
-May I go with you?	Darf ich mit dir gehen?	क्या मैं आ के साथ जा सकता हूं?
-May I put it here?	Darf ich es hierhin stellen?	क्या मैं इसे यहाँ रख सकता हूँ?
-May I put it here?	Darf ich es hierhin legen?	क्या मैं इसे यहाँ रख सकता हूँ?
-May I take a rest?	Darf ich mich ausruhen?	क्या मैं आराम कर सकता हूं?
-May I take a rest?	Darf ich eine Pause machen?	क्या मैं ब्रेक ले सकता हूं?
-May I talk to you?	Kann ich mit dir sprechen?	क्या मैं आपसे बात कर सकता हूँ?
-May I try that on?	Darf ich das mal anprobieren?	क्या मैं उस पर कोशिश कर सकता हूं?
-May I try this on?	Darf ich das hier anprobieren?	क्या मैं इस पर कोशिश कर सकता हूं?
 Maybe I should go.	Vielleicht sollte ich gehen.	शायद मुझे जाना चाहिए।
 Maybe I was wrong.	Vielleicht habe ich mich geirrt.	संभवत: मुझसे गलती हुई।
 Maybe I was wrong.	Vielleicht hatte ich unrecht.	संभवत: मुझसे गलती हुई।

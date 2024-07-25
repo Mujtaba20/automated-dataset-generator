@@ -17540,3 +17540,13 @@ Mary is vivacious.	Maria ist lebensfroh.	मेरी उत्साही ह�
 May God bless you.	Möge Gott dich segnen.	भगवान आपको आशीर्वाद दें।
 May I come aboard?	Darf ich an Bord kommen?	क्या मैं बोर्ड में आ सकता हूँ?
 May I go home now?	Darf ich jetzt nach Hause gehen?	क्या मैं अभी घर जा सकता हूँ?
+May I go with Tom?	Darf ich mit Tom gehen?	क्या मैं टॉम के साथ जा सकता हूँ?
+May I go with you?	Darf ich mit dir gehen?	क्या मैं तुम्हारे साथ जा सकता हूं?
+May I go with you? 	Darf ich mit Ihnen gehen?	क्या मैं आपके साथ जा सकता हूँ?
+May I put it here?	Kann ich es hier hinlegen?	क्या मैं इसे यहाँ रख सकता हूँ?
+May I put it here? 	Darf ich es hier hinstellen?	क्या मैं इसे यहाँ रख सकता हूँ?
+May I take a rest?	Darf ich mich ausruhen?	क्या मैं आराम कर सकता हूँ?
+May I take a rest? 	Kann ich eine Pause machen?	क्या मैं ठहर सकता हूँ?
+May I talk to you?	Darf ich mit dir reden?	क्या मैं आपसे बात कर सकता हूँ?
+May I try that on?	Kann ich das anprobieren?	क्या मैं यह पहनकर देख सकता हूँ?
+May I try this on?	Darf ich das probieren?	क्या मैं यह देख सकता हूँ?
