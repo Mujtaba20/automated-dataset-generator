@@ -4802,3 +4802,8 @@ Stay positive.	Bleiben Sie positiv.	सकारात्मक रहो।
 Stay together.	Bleibt zusammen.	साथ रहें।
 Stay with Tom.	Bleib bei Tom.	टॉम के साथ रहो।
 Stir the soup.	Rühre die Suppe um.	सूप को उलटने दो।
+Stop bragging.	Hör auf zu prahlen.	ब्रैगिंग बंद करो।
+Stop clapping.	Hör auf zu applaudieren.	दाद बजाना बंद करो।
+Stop dreaming.	Hör auf zu träumen.	सपना देखना बंद करो।
+Stop fighting!	Hören auf zu kämpfen!	लड़ाई करना बंद करो!
+Stop fighting.	Hör auf zu kämpfen.	लड़ना बंद करो।
