@@ -726,3 +726,7 @@ Stay thin.	Bleib dünn.	पतला रहो।
 Step back.	Mach einen Schritt zurück.	पीछे हटो।
 Stop here.	Halt hier.	यहाँ रुको।
 Stop that!	Hör auf damit!	उसे रोको!
+Stop them.	Halten Sie sie an.	उन्हें रोको।
+Take care!	Pass auf!	ध्यान रखना!
+Take mine.	Nehmen Sie meins.	मेरा लो।
+Take mine. (Different meaning)	Nimm meins.	मेरा ले जाओ।
