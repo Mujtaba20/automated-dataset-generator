@@ -13759,3 +13759,12 @@ The switch is on.	Der Schalter ist an.	स्विच चालू है।
 The tank is full.	Der Tank ist voll.	टांक पूरा है।
 The towel is dry.	Das Handtuch ist trocken.	दस्तेला सूखा हुआ है।
 The towel is wet.	Das Handtuch ist nass.	दस्तेला गीला है।
+The twins smiled.	Die Zwillinge lächelten.	जुड़वां मुस्कुराए।
+The water is hot.	Das Wasser ist heiß.	पानी गर्म है।
+The week is over.	Die Woche ist vorbei.	सप्ताह समाप्त हो गया है।
+The whistle blew.	Der Pfiff ertönte.	सीटी बजी।
+The woman is fat.	Die Frau ist dick.	औरत मोटी है।
+The wound healed.	Die Wunde heilte.	जख्म भर गया।
+There is no hope.	Es gibt keine Hoffnung.	कोई आशा नहीं है।
+There's no doubt.	Es besteht kein Zweifel.	कोई संदेह नहीं है।
+There's no hurry.	Es besteht keine Eile.	जल्दी की कोई जरुरत नहीं है।
