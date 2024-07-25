@@ -2166,3 +2166,10 @@ Tom shot me.	Tom hat mich erschossen.	टॉम ने मुझपर गोल
 Tom shouted.	Tom schrie.	टॉम चिल्लाया।
 Tom slipped.	Tom ist ausgerutscht.	टॉम स्लिप हो गया।
 Tom sneezed.	Tom hat geniest.	टॉम चिह्मा आया।
+Tom stopped.	Tom gestoppt.	टॉम बंद हो गया।
+Tom sweated.	Tom hat geschwitzt.	टॉम पसीना छोड़ दिया।
+Tom teaches.	Tom unterrichtet.	टॉम पढ़ाता है।
+Tom told me.	Tom hat mir gesagt.	टॉम ने मुझे बताया।
+Tom told us.	Tom hat uns erzählt.	टॉम ने हमें बताया।
+Tom took it.	Tom hat es genommen.	टॉम ने इसे लिया।
+Tom tripped.	Tom fiel hin.	टॉम ट्रिप हो गया।
