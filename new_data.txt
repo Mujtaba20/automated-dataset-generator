@@ -7886,3 +7886,12 @@ We're starving.	Wir verhungern.	हम भूखे हैं।
 We're students.	Wir sind Schüler.	हम छात्र हैं।
 We're the best.	Wir sind die Besten.	हम सबसे बेहतर हैं।
 We're too busy.	Wir sind zu beschäftigt.	हम बहुत व्यस्त हैं।
+We're too late.	Wir sind zu spät.	हम बहुत देर से आए हैं।
+We're with you.	Wir sind bei dir.	हम तुम्हारे साथ हैं।
+We've found it.	Wir haben es gefunden.	हमने इसे ढूंढ निकाला है।
+We've found it. (alternative meaning)	Wir haben es entdeckt.	हमने इसे खोज खोजकर निकाला है।
+We've got time.	Wir haben Zeit.	हमारे पास समय है।
+We've seen her.	Wir haben sie gesehen.	हमने उसे देखा है।
+We've seen him.	Wir haben ihn gesehen.	हमने उसे देखा है।
+Welcome aboard.	Willkommen an Bord.	बोर्ड पे आपका स्वागत है।
+Well done, Tom.	Gut gemacht, Tom.	बहुत अच्छा किया, टॉम।
