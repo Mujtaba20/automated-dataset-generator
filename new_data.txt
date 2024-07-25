@@ -18598,3 +18598,11 @@ Tom is a newcomer.	Tom ist ein Neuling.	टॉम एक नए आने वा
 Tom is a nice guy.	Tom ist ein netter Kerl.	टॉम अच्छे इंसान हैं।
 Tom is a nice man.	Tom ist ein netter Mann.	टॉम अच्छे आदमी हैं।
 Tom is a prisoner.	Tom ist ein Gefangener.	टॉम कैदी है।
+Tom is a pushover.	Tom ist ein Weichei.	टॉम एक कमजोर आदमी है।
+Tom is a real man.	Tom ist ein echter Mann.	टॉम एक वास्तविक आदमी है।
+Tom is a reporter.	Tom ist ein Reporter.	टॉम एक पत्रकार है।
+Tom is a salesman.	Tom ist ein Verkäufer.	टॉम एक विक्रेता है।
+Tom is a stranger.	Tom ist ein Fremder.	टॉम एक अजनबी है।
+Tom is a tall man.	Tom ist ein großer Mann.	टॉम एक लंबा आदमी है।
+Tom is a teenager.	Tom ist ein Teenager.	टॉम एक किशोर है।
+Tom is a telepath.	Tom ist telepathisch.	टॉम मानसिक शक्तियों से संपर्क कर सकता है।

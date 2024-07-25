@@ -1,14 +1,4 @@
 
-Tom is a pushover.	Tom ist ein halbes Hemd.	टॉम आधा शर्ट है।
-Tom is a real man.	Tom ist ein echter Kerl.	टॉम एक असली आदमी है।
-Tom is a reporter.	Tom ist Reporter.	टॉम एक रिपोर्टर है।
-Tom is a salesman.	Tom ist Verkäufer.	टॉम एक विक्रेता है।
-Tom is a stranger.	Tom ist ein Fremder.	टॉम एक अजनबी है।
-Tom is a tall man.	Tom ist groß.	टॉम बड़ा है।
-Tom is a tall man.	Tom ist ein großgewachsener Mann.	टॉम एक लंबा आदमी है।
-Tom is a tall man.	Tom ist ein hochgewachsener Mann.	टॉम एक लंबा आदमी है।
-Tom is a teenager.	Tom ist ein Teenager.	टॉम एक किशोरी है।
-Tom is a telepath.	Tom ist Telepath.	टॉम टेलीपैथ है।
 Tom is a virtuoso.	Tom ist ein Virtuose.	टॉम एक सदाध्य है।
 Tom is a war hero.	Tom ist ein Kriegsheld.	टॉम एक युद्ध नायक है।
 Tom is a weakling.	Tom ist ein Schwächling.	टॉम एक कमजोर है।
