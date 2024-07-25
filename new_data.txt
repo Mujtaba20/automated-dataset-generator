@@ -15774,3 +15774,9 @@ Dogs are faithful.	Hunde sind treu.	कुत्ते वफादार हो
 Don't answer that.	Antworte nicht darauf.	उसका जवाब मत दो।
 Don't ask me that.	Frag mich das nicht.	मुझसे यह ना पूछो।
 Don't be a coward.	Sei kein Feigling.	कायर ना बनो।
+Don't be an idiot.	Sei nicht dumm.	बेवकूफ मत बनो।
+Don't be deceived.	Sei nicht getäuscht.	चक्कर में मत पड़ो।
+Don't be insolent.	Sei nicht frech.	अभिमानी मत बनो।
+Don't be insulted.	Seid nicht beleidigt.	शांत रहो।
+Don't be like Tom.	Sei nicht wie Tom.	टॉम के तरह मत बनो।
+Don't be so angry.	Sei nicht so sauer.	इतना नाराज मत हो।
