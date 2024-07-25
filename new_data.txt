@@ -9129,3 +9129,11 @@ I will watch it	Ich werde es beobachten.	मैं इसे देखूँग�
 I wish you luck	Ich wünsche dir Glück.	मुझे आशा है कि तुम्हारे साथ भाग्य हो।
 I wish you'd go	Ich wünschte, du würdest gehen.	मैं चाहता हूँ कि तुम चले जाओ।
 I woke up early	Ich bin früh aufgewacht.	मैं जल्दी उठ गया।
+I won't be late.	Ich werde nicht zu spät sein.	मैं देर से नहीं आऊंगा।
+I won't be long.	Ich werde nicht lange dauern.	मैं लंबा नहीं रहूंगा।
+I won't deny it.	Ich werde es nicht leugnen.	मैं इसे नहीं इनकार करूंगा।
+I won't give in.	Ich werde nicht nachgeben.	मैं हार नहीं मानूंगा।
+I work at a bar.	Ich arbeite in einer Bar.	मैं बार में काम करता हूं।
+I work here now.	Ich arbeite jetzt hier.	मैं अब यहाँ काम करता हूं।
+I work too much.	Ich arbeite zu viel.	मैं बहुत ज्यादा काम करता हूं।
+I wrote it down.	Ich habe es niedergeschrieben.	मैंने इसे नीचे लिख दिया।
