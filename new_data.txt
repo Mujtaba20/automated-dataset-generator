@@ -15346,3 +15346,10 @@ You do good work.	Du machst gute Arbeit.	तुम अच्छा काम क
 You do look good.	Du siehst gut aus.	तुम अच्छे लगते हो।
 You don't listen.	Du hörst nicht zu.	तुम सुनते नहीं हो।
 You eat too much.	Du isst zu viel.	तुम बहुत ज्यादा खा रहे हो।
+You got the part.	Du hast die Rolle erhalten.	तुम्हें भाग मिला।
+You have a watch.	Du hast eine Uhr.	तुम्हारे पास एक घड़ी है।
+You have an hour.	Du hast eine Stunde.	तुम्हारे पास एक घंटा है।
+You have made it.	Du hast es geschafft.	तुमने यह कर लिया है।
+You have my word.	Du hast mein Wort.	तुम्हारे पास मेरा वचन है।
+You have no idea.	Sie haben keine Ahnung.	आपको कोई अंतानुभूति नहीं है।
+You have to come.	Du musst kommen.	तुम्हें आना होगा।
