@@ -9468,3 +9468,11 @@ It must be here.	Es muss hier sein.	यहाँ होना चाहिए।
 It must be true.	Es muss wahr sein.	इसे सच होना चाहिए।
 It really works.	Es funktioniert wirklich.	यह वास्तव में काम करता है।
 It snowed a bit.	Es hat ein wenig geschneit.	थोड़ा सा बर्फ गिरा था।
+It snowed a lot.	Es hat viel geschneit.	बहुत बर्फ गिरी।
+It sounded easy.	Es klang einfach.	यह आसान लग रहा था।
+It sounds great!	Es klingt großartig!	यह बहुत अच्छा लग रहा है!
+It tasted sweet.	Es schmeckte süß.	यह मीठा था।
+It took all day.	Es dauerte den ganzen Tag.	पूरे दिन लिया।
+It was a secret.	Es war ein Geheimnis.	यह एक रहस्य था।
+It was ages ago.	Das liegt schon lange zurück.	यह बहुत पुराना है।
+It was enticing.	Es war verlockend.	यह मनमोहक था।
