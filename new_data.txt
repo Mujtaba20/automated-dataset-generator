@@ -9717,3 +9717,12 @@ No one was hurt.	Niemand wurde verletzt.	किसी को चोट नही
 No one was late.	Niemand war spät.	किसी को देरी नहीं हुई।
 No taxi stopped.	Kein Taxi hielt an.	कोई टैक्सी रुकी नहीं।
 Nobody answered.	Niemand hat geantwortet.	कोई नहीं जवाब दिया।
+Nobody got hurt.	Niemand wurde verletzt.	किसी को चोट नहीं आयी।
+Nobody likes me.	Niemand mag mich.	किसी को मुझसे नफरत नहीं है।
+Nobody loves me.	Niemand liebt mich.	किसी को मेरी मोहब्बत नहीं है।
+Nobody needs me.	Niemand braucht mich.	किसी को मुझसे जरुरत नहीं है।
+Nobody stood up.	Niemand ist aufgestanden.	किसी ने उठकर नहीं बैठा।
+Nobody wants it.	Niemand will es.	किसी को यह चाहिए नहीं है।
+Nobody was home.	Niemand war zu Hause.	किसी के घर में कोई नहीं था।
+Nobody's hungry.	Niemand hat Hunger.	किसी को भूख नहीं है।
+Nothing changes.	Nichts ändert sich.	कुछ नहीं बदलता।
