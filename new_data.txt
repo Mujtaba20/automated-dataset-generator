@@ -281,3 +281,5 @@ Find Tom.	Finde Tom.	टॉम को ढूंढो।
 Find Tom. (alternative meaning)	Suche nach Tom.	तोम को खोजो।
 Fix this.	Repariere das.	इसे ठीक करो।
 Get away!	Geh weg!	दूर जाओ!
+Get down!	Komm runter!	नीचे आ जाओ!
+Get down.	Setz dich hin.	नीचे बैठो।
