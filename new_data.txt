@@ -1945,3 +1945,10 @@ May I smoke?	Darf ich rauchen?	क्या मैं धूम्रपान �
 Memorize it.	Sich das einprägen.	इसे पुनः दोहराएँ।
 Money talks.	Geld regiert die Welt.	पैसा कुछ भी करवा सकता है।
 Nice timing.	Gutes Timing.	अच्छे समय में।
+No means no.	Nein heißt nein.	ना का मतलब है नहीं।
+No one came.	Niemand kam.	कोई नहीं आया।
+No one left.	Niemand hat verlassen.	किसी ने नहीं छोड़ा।
+Nobody came.	Niemand ist gekommen.	कोई नहीं आया।
+Nobody died.	Niemand ist gestorben.	किसी की मौत नहीं हुई।
+Nobody knew.	Niemand wusste.	किसी को पता नहीं था।
+Nobody lied.	Niemand hat gelogen.	किसी ने झूठ नहीं बोला।
