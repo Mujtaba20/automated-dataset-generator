@@ -9858,3 +9858,13 @@ So far, so good.	Bisher so gut.	अब तक अच्छा है।
 Somebody called.	Jemand rief an.	किसी ने बुलाया।
 Someone coughed.	Jemand hat gehustet.	किसी ने खांसी की।
 Sorry, I forgot.	Entschuldigung, ich habe vergessen.	माफ़ कीजिए, मैं भूल गया।
+English Sentence 1		
+English Sentence 2		
+English Sentence 3		
+English Sentence 4		
+English Sentence 5		
+English Sentence 6		
+English Sentence 7		
+English Sentence 8		
+English Sentence 9		
+English Sentence 10		
