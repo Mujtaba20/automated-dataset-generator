@@ -5519,3 +5519,12 @@ Add more water. (2)	Weiteres Wasser hinzufügen.	और पानी डाल�
 After you, Tom.	Nach dir, Tom.	तुम्हारे बाद, टॉम।
 Ain't she cute?	Ist sie nicht niedlich?	क्या वह प्यारी नहीं है?
 All babies cry.	Alle Babys weinen.	सभी शिशु रोते हैं।
+Allow me to go.	Erlauben Sie mir zu gehen.	मुझे जाने दें।
+Am I a suspect?	Bin ich verdächtig?	क्या मैं संदिग्ध हूँ?
+Am I qualified?	Bin ich qualifiziert?	क्या मेरा पात्रता है?
+Am I safe here?	Bin ich hier sicher?	क्या मैं यहाँ सुरक्षित हूँ?
+Am I too early?	Bin ich zu früh?	क्या मैं बहुत जल्दी हूँ?
+Apples are red.	Äpfel sind rot.	सेब लाल हैं।
+Are there kids?	Gibt es Kinder?	क्या वहाँ बच्चे हैं?
+Are these ours?	Sind diese unsere?	क्या ये हमारे हैं?
+Are they alive?	Sind sie am Leben?	क्या वे जीवित हैं?
