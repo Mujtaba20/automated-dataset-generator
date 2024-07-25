@@ -3913,3 +3913,7 @@ He is foolish.	Er ist töricht.	वह मूर्ख है।
 He is my boss.	Er ist mein Vorgesetzter.	वह मेरा बॉस है।
 He is my type!	Er ist mein Typ!	वह मेरे टाइप का है!
 He is no fool.	Er ist kein Narr.	वह कोई मूर्ख नहीं है।
+He is reading.	Er liest.	वह पढ़ रहा है।
+He is running.	Er rennt.	वह दौड़ रहा है।
+He is skating.	Er fährt Schlittschuh.	वह पैंटर चला रहा है।
+He kissed her.	Er küsste sie.	उसने उसको चुमा।
