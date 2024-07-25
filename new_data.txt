@@ -8294,3 +8294,10 @@ Dig a deep hole.	Grab ein tiefes Loch.	एक गहरा गड्ढा ख�
 Dinner is ready.	Das Abendessen ist fertig.	रात का खाना तैयार है।
 Do I have to go?	Muss ich gehen?	क्या मुझे जाना होगा?
 Do I look tired?	Sehe ich müde aus?	क्या मैं थका हुआ दिखता हूँ?
+Do I need a tie?	Brauche ich eine Krawatte?	क्या मुझे टाई चाहिए?
+Do it right now.	Mach es jetzt.	अभी करो।
+Do we have time?	Haben wir Zeit?	क्या हमारे पास समय है?
+Do what he says.	Tu, was er sagt.	जो वह कहता है, वह करो।
+Do you disagree?	Stimmst du nicht zu?	क्या तुम सहमत नहीं हो?
+Do you eat eggs?	Isst du Eier?	क्या तुम अंडे खाते हो?
+Do you eat fish?	Isst du Fisch?	क्या तुम मछली खाते हो?
