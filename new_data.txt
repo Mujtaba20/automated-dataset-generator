@@ -7350,3 +7350,13 @@ Tom is perfect.	Tom ist perfekt.	टॉम पूरा है।
 Tom is playing.	Tom spielt.	टॉम खेल रहा है।
 Tom is pleased.	Tom ist erfreut.	टॉम खुश है।
 Tom is pompous.	Tom ist eingebildet.	टॉम ढीला है।
+Tom is popular.	Tom ist beliebt.	टॉम लोकप्रिय है।
+Tom is praying.	Tom betet.	टॉम प्रार्थना कर रहा है।
+Tom is precise.	Tom ist präzise.	टॉम सटीक है।
+Tom is present.	Tom ist anwesend.	टॉम वर्तमान में है।
+Tom is psychic.	Tom ist psychisch.	टॉम मानसिक बलवान है।
+Tom is puzzled.	Tom ist verwirrt.	टॉम उलझा हुआ है।
+Tom is quicker.	Tom ist schneller.	टॉम अधिक तेज़ है।
+Tom is radical.	Tom ist radikal.	टॉम राडिकल है।
+Tom is reading.	Tom liest.	टॉम पढ़ रहा है।
+Tom is relaxed.	Tom ist entspannt.	टॉम आराम से है।
