@@ -7416,3 +7416,13 @@ Tom is willing.	Tom ist bereit.	टॉम इच्छुक है।
 Tom is winning.	Tom gewinnt.	टॉम जीत रहा है।
 Tom is with me.	Tom ist bei mir.	टॉम मेरे साथ है।
 Tom is with us.	Tom ist bei uns.	टॉम हमारे साथ है।
+Tom is working.	Tom arbeitet.	टॉम काम कर रहा है।
+Tom is worried.	Tom ist besorgt.	टॉम चिंतित है।
+Tom is worried. (different meaning)	Tom macht sich Sorgen.	टॉम परेशान है।
+Tom is wounded.	Tom ist verwundet.	टॉम घायल है।
+Tom is wounded. (different meaning)	Tom ist verletzt.	टॉम चोट खाया हुआ है।
+Tom is yawning.	Tom gähnt.	टॉम मुंह फ़ेलाए हुए हैं।
+Tom is yelling.	Tom ruft.	टॉम चिल्ला रहा है।
+Tom isn't busy.	Tom ist nicht beschäftigt.	टॉम व्यस्त नहीं है।
+Tom isn't done.	Tom ist noch nicht fertig.	टॉम पूरा नहीं हो चुका है।
+Tom isn't dumb.	Tom ist nicht dumm.	टॉम मूर्ख नहीं है।
