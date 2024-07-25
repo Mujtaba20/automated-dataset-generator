@@ -4889,3 +4889,13 @@ They'll be OK.	Es wird ihnen gut gehen.	उन्हें ठीक हो ज�
 They'll do it.	Sie werden es tun.	वे यह करेंगे।
 They're Asian.	Sie sind asiatisch.	वे एशियाई हैं।
 They're Tom's.	Sie gehören zu Tom.	ये टॉम के हैं।
+They're alone.	Sie sind allein.	वे अकेले हैं।
+They're angry.	Sie sind wütend.	वे गुस्से में हैं।
+They're angry. - Different meaning	Sie sind zornig.	वे नाराज़ हैं।
+They're armed.	Sie sind bewaffnet.	उनके पास हथियार हैं।
+They're awake.	Sie sind wach.	वे जागरूक हैं।
+They're broke.	Sie sind pleite.	उनके पास पैसे नहीं हैं।
+They're brown.	Sie sind braun.	वे भूरे हैं।
+They're crazy.	Sie sind verrückt.	वे पागल हैं।
+They're drunk.	Sie sind betrunken.	वे नशे में हैं।
+They're drunk. - Different meaning	Sie sind besoffen.	वे मादक पदार्थ लेकर हैं।
