@@ -13275,3 +13275,10 @@ Let's be friends.	Lass uns Freunde sein.	हम दोस्त बनें।
 Let's cross here.	Lass uns hier überqueren.	चलो यहाँ से पार करें।
 Let's do our job.	Lass uns unsere Arbeit machen.	चलो हमारा काम करें।
 Let's fly a kite.	Lass uns einen Drachen steigen lassen.	चलो हम पतंग उड़ाएं।
+Let's follow Tom.	Folgen wir Tom.	चलो हम टॉम का पीछा करें।
+Let's get inside.	Lass uns reinsgehen.	चलो अंदर चलें।
+Let's get moving.	Lass uns in Bewegung kommen.	चलो, चलना शुरू करें।
+Let's go dancing.	Lass uns tanzen gehen.	चलो नाचने चलें।
+Let's go see Tom.	Lass uns Tom sehen gehen.	चलो हम टॉम से मिलने चलें।
+Let's have a try.	Lasst uns es versuchen.	चलो एक कोशिश करते हैं।
+Let's have lunch.	Lass uns zu Mittag essen.	चलो हम लंच करें।
