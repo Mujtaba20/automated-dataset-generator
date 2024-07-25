@@ -17715,3 +17715,11 @@ She became famous.	Sie wurde berühmt.	उसने प्रसिद्ध ह
 She began to sing.	Sie hat angefangen zu singen.	उसने गाना गाना आरंभ किया।
 She can jump high.	Sie kann hoch springen.	वह ऊपर कूद सकती है।
 She can't do that.	Sie kann das nicht machen.	वह वह कर सकती नहीं है।
+She can't stop me.	Sie kann mich nicht aufhalten.	वह मुझे रोक नहीं सकती।
+She caught my eye.	Sie hat meine Aufmerksamkeit erregt.	उसने मेरी नजरें पकड़ी।
+She cooks for him.	Sie kocht für ihn.	वह उसके लिए खाना बनाती है।
+She cursed loudly.	Sie fluchte laut.	उसने जोर से शाप दिया।
+She decided to go.	Sie entschied sich zu gehen.	उसने जाने का निर्णय किया।
+She didn't answer.	Sie antwortete nicht.	उसने जवाब नहीं दिया।
+She didn't go far.	Sie ging nicht weit.	वह दूर नहीं गई।
+She died of shock.	Sie starb vor Schock.	उसने गोलीबारी से मर गई।
