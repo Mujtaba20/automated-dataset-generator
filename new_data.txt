@@ -1311,3 +1311,9 @@ Tom smoked.	Tom rauchte.	टॉम धूम्रपान किया।
 Tom smoked. (different meaning)	Tom wurde eingeraucht.	टॉम को धुआं में बांध दिया।
 Tom smokes.	Tom raucht.	टॉम धूम्रपान करता है।
 Tom snores.	Tom schnarcht.	टॉम खर्राटे लेता है।
+Tom stayed.	Tom verweilte.	टॉम ठहरा।
+Tom talked.	Tom unterhielt sich.	टॉम चर्चा की।
+Tom waited.	Tom wartete.	टॉम प्रतीक्षा कर रहा था।
+Tom walked.	Tom spazierte.	टॉम सैर करने चला गया।
+Tom winked.	Tom zwinkerte.	टॉम मुस्कुराया।
+Tom worked.	Tom beschäftigte sich.	टॉम निरंतर काम किया।
