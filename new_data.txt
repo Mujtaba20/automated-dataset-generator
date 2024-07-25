@@ -14975,3 +14975,12 @@ We have to start.	Wir müssen anfangen.	हमें शुरू करना �
 We have to study.	Wir müssen studieren.	हमें पढ़ाई करनी है।
 We have two ears.	Wir haben zwei Ohren.	हमारे पास दो कान हैं।
 We have two kids.	Wir haben zwei Kinder.	हमारे पास दो बच्चे हैं।
+We have two sons.	Wir haben zwei Söhne.	हमारे पास दो बेटे हैं।
+We haven't eaten.	Wir haben nicht gegessen.	हमने खाना नहीं खाया है।
+We heard a noise.	Wir haben ein Geräusch gehört.	हमने एक ध्वनि सुनी।
+We heard gunfire.	Wir haben Schüsse gehört.	हमने गोलियों की आवाज सुनी।
+We help the poor.	Wir helfen den Armen.	हम गरीबों की मदद करते हैं।
+We just finished.	Wir sind gerade fertig geworden.	हमने अभी अभी समाप्त किया है।
+We just got back.	Wir sind gerade zurückgekommen.	हमने अभी अभी वापस आया है।
+We just got here.	Wir sind gerade hier angekommen.	हमने अभी अभी यहाँ आया है।
+We just moved in.	Wir sind gerade eingezogen.	हमने अभी अभी इसमें खिचड़ी पकाई है।
