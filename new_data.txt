@@ -6852,3 +6852,10 @@ She came alone.	Sie kam alleine.	वह अकेले आई।
 She can't swim.	Sie kann nicht schwimmen.	वह तैर नहीं सकती।
 She choked him.	Sie würgte ihn.	उसने उसे गला दबा दिया।
 She cooks well.	Sie kocht gut.	वह अच्छे से पकाती है।
+She ditched me.	Sie hat mich im Stich gelassen.	उसने मेरा साथ छोड़ दिया।
+She dumped him.	Sie hat ihn verlassen.	उसने उसे फेंक दिया।
+She fooled him.	Sie hat ihn reingelegt.	उसने उसे धोखा दिया।
+She gave money.	Sie gab Geld.	उसने पैसे दिए।
+She got caught.	Sie wurde erwischt.	उसे पकड़ा गया।
+She has a bike.	Sie hat ein Fahrrad.	उसके पास एक बाइक है।
+She has a book.	Sie hat ein Buch.	उसके पास एक किताब है।
