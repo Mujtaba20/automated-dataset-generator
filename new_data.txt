@@ -10164,3 +10164,9 @@ Tom believed it.	Tom glaubte es.	टॉम इसे माना।
 Tom believed me.	Tom glaubte mir.	टॉम मुझ पर विश्वास किया।
 Tom believes it.	Tom glaubt es.	टॉम इसे मानता है।
 Tom believes me.	Tom glaubt mir.	टॉम मुझपर विश्वास करता है।
+Tom betrayed me.	Tom hat mich verraten.	टॉम ने मुझे धोखा दिया।
+Tom betrayed us.	Tom hat uns verraten.	टॉम ने हमें धोखा दिया।
+Tom bit his lip.	Tom biss sich auf die Lippe.	टॉम ने अपने होंठ काटे।
+Tom blacked out.	Tom ist in Ohnmacht gefallen.	टॉम को बिल्कुल अंधेरें हो गए।
+Tom blamed Mary.	Tom machte Mary verantwortlich.	टॉम ने मेरी को दोषी ठहराया।
+Tom called Mary.	Tom rief Mary an.	टॉम ने मैरी को फोन किया।
