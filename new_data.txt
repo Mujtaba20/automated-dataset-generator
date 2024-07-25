@@ -1126,3 +1126,9 @@ It matters.	Es ist wichtig.	यह मायने रखता है।
 It was big.	Es war groß.	यह बड़ा था।
 It'll work.	Es wird funktionieren.	यह काम करेगा।
 It's Tom's.	Es ist Toms.	यह टॉम का है।
+It's a bet.	Es ist eine Wette.	यह एक दांव है।
+It's a fad.	Es ist eine Modeerscheinung.	यह एक प्रचलित चीज़ है।
+It's alive.	Es lebt.	यह जीवित है।
+It's bogus.	Es ist gefälscht.	यह बेमानी है।
+It's bulky.	Es ist sperrig.	यह भारी है।
+It's clean.	Es ist sauber.	यह साफ है।
