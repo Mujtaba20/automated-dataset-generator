@@ -19911,3 +19911,12 @@ Who's responsible?	Wer ist verantwortlich?	कौन जिम्मेदार
 Who's that maniac?	Wer ist dieser Verrückte?	वह पागल कौन है?
 Who's the new guy?	Wer ist der Neue?	नया व्यक्ति कौन है?
 Who's your lawyer?	Wer ist dein Anwalt?	तुम्हारा वकील कौन है?
+Whose bed is that?	Wessen Bett ist das?	वह किसकी बिस्तर है?
+Whose car is that?	Wessen Auto ist das?	यह किसकी गाड़ी है?
+Whose car is this?	Wessen Auto ist dies?	यह किसकी गाड़ी है?
+Whose car is this? - Different Meaning	Wessen Auto ist das?	इसकी किसकी गाड़ी है?
+Whose clock is it?	Wessen Uhr ist es?	यह किसकी घड़ी है?
+Whose idea was it?	Wessen Idee war das?	यह किसकी विचार था?
+Whose is this bag?	Wessen ist diese Tasche?	यह किसका बैग है?
+Whose pen is that?	Wessen Stift ist das?	यह किसकी कलम है?
+Whose pen is this?	Wessen Stift ist das?	यह किसकी कलम है?

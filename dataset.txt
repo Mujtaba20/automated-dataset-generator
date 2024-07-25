@@ -1,14 +1,4 @@
 
-Whose bed is that?	Wessen Bett ist das?	वह किसका बिस्तर है?
-Whose car is that?	Wessen Auto ist das?	वह किसकी कार है?
-Whose car is that?	Wem gehört dieses Auto?	इस कार का मालिक कौन है?
-Whose car is this?	Wessen Auto ist das?	वह किसकी कार है?
-Whose car is this?	Wessen Wagen ist das hier?	यहाँ किसकी कार है?
-Whose clock is it?	Wem gehört die Uhr?	घड़ी का मालिक कौन है?
-Whose idea was it?	Wessen Idee war das?	वह किसका विचार था?
-Whose is this bag?	Wem gehört diese Tasche?	इस बैग का मालिक कौन है?
-Whose pen is that?	Wessen Stift ist das?	ये कलम किसका है?
-Whose pen is this?	Wessen Stift ist das?	ये कलम किसका है?
 Whose son are you?	Wessen Sohn bist du?	आप किसके बेटे हैं?
 Whose son are you?	Wessen Sohn sind Sie?	आप किसके बेटे हैं?
 Whose tea is this?	Wessen Tee ist das?	वह किसकी चाय है?
