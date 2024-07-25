@@ -13323,3 +13323,12 @@ Mary is my niece.	Maria ist meine Nichte.	मेरी एक भतीजी �
 Mary is pregnant.	Maria ist schwanger.	मेरी गर्भवती है।
 Mary slapped Tom.	Maria schlug Tom.	मेरी ने टॉम को थप्पड़ मारा।
 Mary, I love you.	Maria, ich liebe dich.	मेरी, मैं तुमसे प्यार करता हूँ।
+May I call later?	Kann ich später anrufen?	क्या मैं बाद में कॉल कर सकता हूँ?
+May I come again?	Kann ich noch einmal kommen?	क्या मैं फिर से आ सकता हूँ?
+May I open a can?	Kann ich eine Dose öffnen?	क्या मैं एक कैन खोल सकता हूँ?
+May I touch this?	Darf ich das berühren?	क्या मैं इसे छू सकता हूँ?
+May we swim here?	Dürfen wir hier schwimmen?	क्या हम यहाँ तैर सकते हैं?
+Maybe I can help.	Vielleicht kann ich helfen.	शायद मैं मदद कर सकता हूँ।
+Maybe he was ill.	Vielleicht war er krank.	शायद वह बीमार था।
+Maybe it was Tom.	Vielleicht war es Tom.	शायद यह टॉम था।
+Maybe it was you.	Vielleicht warst du es.	शायद यह तुम थे।
