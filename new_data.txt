@@ -1772,3 +1772,11 @@ I'm a loner.	Ich bin ein Einzelgänger.	मैं एक अकेला हू�
 I'm a medic.	Ich bin ein Sanitäter.	मैं चिकित्सक हूँ।
 I'm a nurse.	Ich bin eine Krankenschwester.	मैं एक नर्स हूँ।
 I'm a nurse. #2	Ich bin eine Pflegerin.	मैं एक नर्स हूँ।
+I'm a vegan.	Ich bin Veganer.	मैं एक शाकाहारी हूँ।
+I'm at home.	Ich bin zu Hause.	मैं घर पे हूँ।
+I'm careful.	Ich bin vorsichtig.	मैं सावधान हूँ।
+I'm certain.	Ich bin sicher.	मैं निश्चित हूँ।
+I'm chicken.	Ich bin Huhn.	मैं मुर्गा हूँ।
+I'm curious.	Ich bin neugierig.	मैं जिज्ञासु हूँ।
+I'm dancing.	Ich tanze.	मैं नाच रहा हूँ।
+I'm dieting.	Ich mache Diät.	मैं डाइट कर रहा हूँ।
