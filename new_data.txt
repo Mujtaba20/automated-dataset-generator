@@ -19063,3 +19063,13 @@ Tom opened a book.	Tom öffnete ein Buch.	टॉम ने एक किता�
 Tom ordered lunch.	Tom bestellte das Mittagessen.	टॉम ने लंच की आदेश दी।
 Tom ordered pizza.	Tom bestellte Pizza.	टॉम ने पिज़्ज़ा की आदेश दी।
 Tom ought to know.	Tom sollte es wissen.	टॉम को जानना चाहिए।
+Tom outsmarted me.	Tom hat mich ausgetrickst.	टॉम ने मुझे हराया।
+Tom owes me money.	Tom schuldet mir Geld.	टॉम मुझसे पैसे उधार लिए हैं।
+Tom paid the bill.	Tom hat die Rechnung bezahlt.	टॉम ने बिल चुकाया।
+Tom paid the rent.	Tom hat die Miete bezahlt.	टॉम ने किराया दिया।
+Tom peeked inside.	Tom spähte hinein.	टॉम ने अंदर झांकने की कोशिश की।
+Tom peered inside.	Tom starrte hinein.	टॉम ने अंदर जाने की कोशिश की।
+Tom planted trees.	Tom hat Bäume gepflanzt.	टॉम ने पेड़ लगाए।
+Tom played tennis.	Tom spielte Tennis.	टॉम ने टेनिस खेला।
+Tom plays cricket.	Tom spielt Cricket.	टॉम क्रिकेट खेलता है।
+Tom poisoned Mary.	Tom hat Mary vergiftet.	टॉम ने मेरी को जहर दिया।

@@ -1,14 +1,4 @@
 
-Tom outsmarted me.	Tom hat mich überlistet.	टॉम ने मुझे पछाड़ दिया।
-Tom owes me money.	Tom schuldet mir Geld.	टॉम ने मुझे पैसे दिए।
-Tom paid the bill.	Tom bezahlte die Rechnung.	टॉम ने चालान का भुगतान किया।
-Tom paid the rent.	Tom bezahlte die Miete.	टॉम ने किराए का भुगतान किया।
-Tom peeked inside.	Tom guckte hinein.	टॉम ने अंदर देखा।
-Tom peered inside.	Tom spähte hinein.	टॉम में शामिल थे।
-Tom planted trees.	Tom hat Bäume gepflanzt.	टॉम ने पेड़ लगाए।
-Tom played tennis.	Tom spielte Tennis.	टॉम ने टेनिस खेला।
-Tom plays cricket.	Tom spielt Kricket.	टॉम क्रिकेट खेलता है।
-Tom poisoned Mary.	Tom vergiftete Maria.	टॉम ने मारिया को जहर दिया।
 Tom probably died.	Tom ist wahrscheinlich gestorben.	टॉम शायद मर गए।
 Tom put on a coat.	Tom zog einen Mantel an.	टॉम ने एक कोट पर रखा।
 Tom ran for mayor.	Tom kandidierte als Bürgermeister.	टॉम मेयर के रूप में भाग गया।
