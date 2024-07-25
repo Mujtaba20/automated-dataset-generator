@@ -19681,3 +19681,11 @@ Welcome to Boston.	Willkommen in Boston.	बॉस्टन में स्व�
 Were they serious?	Waren sie ernst?	क्या वे गंभीर थे?
 Were you drinking?	Hast du getrunken?	क्या आप पी रहे थे?
 Were you promoted?	Wurdest du befördert?	क्या आपको पदोन्नति मिली थी?
+Were you speeding?	Haben Sie zu schnell gefahren?	क्या आप जल्दी चला रहे थे?
+Were you watching?	Hast du zugeschaut?	क्या आप देख रहे थे?
+Weren't you tired?	Waren Sie nicht müde?	क्या आप थक गए नहीं थे?
+What a clever dog!	Was für ein schlauer Hund!	कितना होशियार कुत्ता है!
+What a fool I was!	Was für ein Narr ich war!	मैं कितना मूर्ख था!
+What a fool he is!	Was für ein Narr er ist!	वह कितना मूर्ख है!
+What a great idea!	Was für eine geniale Idee!	कितना बढ़िया विचार है!
+What a lovely day!	Was für ein toller Tag!	कितना सुंदर दिन है!

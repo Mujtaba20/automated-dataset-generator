@@ -1,14 +1,4 @@
 
-Were you speeding?	Bist du zu schnell gefahren?	क्या आपने बहुत जल्दी ड्राइव किया?
-Were you watching?	Hast du zugesehen?	क्या तुम देखते हो?
-Weren't you tired?	Warst du nicht müde?	क्या तुम थक नहीं रहे थे
-What a clever dog!	Was für ein kluger Hund!	क्या एक चतुर कुत्ता!
-What a fool I was!	Was war ich nur für ein Narr!	मैं किस तरह का मूर्ख था!
-What a fool he is!	Was für ein Depp er ist!	वह क्या मूर्ख है!
-What a great idea!	Was für eine großartige Idee!	उत्तम विचार!
-What a great idea!	Was für ein großartiger Einfall!	उत्तम विचार!
-What a lovely day!	Was für ein angenehmer Tag!	क्या सुखद दिन है!
-What a lovely day!	Was für ein herrlicher Tag!	क्या अद्भुत दिन है!
 What a nice house!	Was für ein schönes Haus!	क्या अच्छा घर है!
 What animal is it?	Was ist das für ein Tier?	उस तरह का जानवर क्या है?
 What are they for?	Wofür sind die?	ये किसलिए हैं?
