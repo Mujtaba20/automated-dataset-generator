@@ -9586,3 +9586,7 @@ Keep Tom inside.	Halte Tom drinnen.	टॉम को अंदर रखो।
 Keep me updated.	Halte mich auf dem Laufenden.	मुझे अपडेट करते रहो।
 Keep on smiling.	Behalte dein Lächeln bei.	हँसते रहो।
 Keep on working.	Mach weiter so.	काम करते रहो।
+Keep practicing.	Halte das Üben aufrecht.	नियमित अभ्यास करते रहें।
+Keep the change!	Halte den Wechsel!	चेंज रखो!
+Keep the change.	Behalten Sie das Kleingeld.	छोटा सुधार रखें।
+Keep the secret.	Bewahre das Geheimnis.	गुप्त रखें।
