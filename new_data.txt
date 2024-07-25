@@ -7518,3 +7518,13 @@ Tom might come.	Tom könnte kommen.	टॉम आ सकता है।
 Tom might know.	Tom könnte wissen.	टॉम को मालूम हो सकता है।
 Tom might talk.	Tom könnte reden.	टॉम बात कर सकता है।
 Tom might wait.	Tom könnte warten.	टॉम इंतेज़ार कर सकता है।
+Tom misled you.	Tom hat dich getäuscht.	टॉम ने तुम्हें गुमराह किया।
+Tom missed you.	Tom hat dich vermisst.	टॉम की तुम्हे याद आयी।
+Tom moved away.	Tom ist weggezogen.	टॉम दूर चला गया।
+Tom needed you.	Tom brauchte dich.	टॉम को तुम्हारी जरुरत थी।
+Tom needs Mary.	Tom braucht Maria.	टॉम को मेरी की जरुरत है।
+Tom needs help.	Tom braucht Hilfe.	टॉम को मदद की जरुरत है।
+Tom needs hope.	Tom braucht Hoffnung.	टॉम को आशा की जरुरत है।
+Tom needs more.	Tom braucht mehr.	टॉम को और चाहिए।
+Tom needs rest.	Tom braucht Ruhe.	टॉम को आराम की जरुरत है।
+Tom needs that.	Tom braucht das.	टॉम को वह जरुरत है।
