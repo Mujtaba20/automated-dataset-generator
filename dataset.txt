@@ -1,14 +1,4 @@
 
-Tom felt homesick.	Tom hatte Heimweh.	टॉम होमसिक था।
-Tom felt nauseous.	Tom war übel.	टॉम बुरा था।
-Tom felt prepared.	Tom fühlte sich gut vorbereitet.	टॉम ने अच्छी तरह से तैयार महसूस किया।
-Tom felt repulsed.	Tom fühlte sich zurückgestoßen.	टॉम ने वापस महसूस किया।
-Tom felt repulsed.	Tom fühlte sich abgestoßen.	टॉम ने महसूस किया।
-Tom felt terrible.	Tom fühlte sich schrecklich.	टॉम भयानक लगा।
-Tom felt terrific.	Tom fühlte sich großartig.	टॉम बहुत अच्छा लगा।
-Tom finally spoke.	Tom sprach endlich.	टॉम ने आखिरकार बात की।
-Tom finally spoke.	Tom hat endlich geredet.	टॉम ने आखिरकार बात की।
-Tom finished last.	Tom wurde letzter.	टॉम आखिरी बन गया।
 Tom fixed the bug.	Tom hat den Fehler behoben.	टॉम ने त्रुटि तय की।
 Tom followed Mary.	Tom folgte Maria.	टॉम ने मारिया का पीछा किया।
 Tom found my bike.	Tom hat mein Fahrrad gefunden.	टॉम ने मेरी बाइक पाई।

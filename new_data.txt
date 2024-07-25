@@ -18457,3 +18457,11 @@ Tom felt betrayed.	Tom fühlte sich betrogen.	टॉम को धोखा म�
 Tom felt confused.	Tom fühlte sich verwirrt.	टॉम को भ्रांतिपूर्ण महसूस हुआ।
 Tom felt excluded.	Tom fühlte sich ausgeschlossen.	टॉम को अलग किया गया।
 Tom felt helpless.	Tom fühlte sich hilflos.	टॉम बेसहारा महसूस कर रहा था।
+Tom felt homesick.	Tom fühlte Heimweh.	टॉम को घर की याद आई।
+Tom felt nauseous.	Tom fühlte sich übel.	टॉम को बीमार सा लग रहा था।
+Tom felt prepared.	Tom fühlte sich vorbereitet.	टॉम तैयार महसूस कर रहा था।
+Tom felt repulsed.	Tom fühlte sich abgestoßen.	टॉम को जुझारू महसूस हुआ।
+Tom felt terrible.	Tom fühlte sich schrecklich.	टॉम को बेहद बुरा महसूस हुआ।
+Tom felt terrific.	Tom fühlte sich fantastisch.	टॉम को बेहद शानदार महसूस हुआ।
+Tom finally spoke.	Tom sprach schließlich.	टॉम आखिरकार बोला।
+Tom finished last.	Tom beendete als Letzter.	टॉम अंत में समाप्त हो गया।
