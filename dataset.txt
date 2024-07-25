@@ -1,14 +1,4 @@
 
-Tom heard a shout.	Tom hörte einen Schrei.	टॉम ने एक चीख सुनी।
-Tom heard nothing.	Tom hörte nichts.	टॉम ने कुछ नहीं सुना।
-Tom heard yelling.	Tom hörte schreien.	टॉम ने चीखें सुनीं।
-Tom hummed a song.	Tom summte ein Lied.	टॉम ने एक गीत को अभिव्यक्त किया।
-Tom hurt his knee.	Tom hat sich am Knie verletzt.	टॉम ने अपने घुटने को घायल कर दिया।
-Tom imitated Mary.	Tom ahmte Maria nach.	टॉम अहमते मारिया।
-Tom insulted Mary.	Tom beleidigte Mary.	टॉम ने मैरी का अपमान किया।
-Tom insulted Mary.	Tom hat Mary beleidigt.	टॉम ने मैरी का अपमान किया।
-Tom is Mary's son.	Tom ist der Sohn Marias.	टॉम मैरी का बेटा है।
-Tom is a Canadian.	Tom ist Kanadier.	टॉम कनाडाई है।
 Tom is a bachelor.	Tom ist Junggeselle.	टॉम एक स्नातक है।
 Tom is a bad cook.	Tom ist ein schlechter Koch.	टॉम एक बुरा रसोइया है।
 Tom is a bad cook.	Tom kann nicht kochen.	टॉम खाना नहीं बना सकता।

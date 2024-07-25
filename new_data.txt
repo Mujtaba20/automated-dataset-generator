@@ -18563,3 +18563,12 @@ Tom hates running.	Tom hasst das Laufen.	टॉम को दौड़ने स
 Tom hates secrets.	Tom hasst Geheimnisse.	टॉम को राज से नफरत है।
 Tom hates spiders.	Tom hasst Spinnen.	टॉम को मकड़ियों से नफरत है।
 Tom heard a noise.	Tom hörte ein Geräusch.	टॉम ने एक ध्वनि सुनी।
+Tom heard a shout.	Tom hörte einen Schrei.	टॉम ने एक चीख सुनी।
+Tom heard nothing.	Tom hörte nichts.	टॉम ने कुछ नहीं सुना।
+Tom heard yelling.	Tom hörte Geschrei.	टॉम ने चिल्लाहट सुनी।
+Tom hummed a song.	Tom summte ein Lied.	टॉम ने गाना गुनगुनाया।
+Tom hurt his knee.	Tom verletzte sein Knie.	टॉम ने अपनी घुटनी को चोट लगाई।
+Tom imitated Mary.	Tom ahmte Mary nach.	टॉम ने मेरी की अनुकरण किया।
+Tom insulted Mary.	Tom hat Mary beleidigt.	टॉम ने मेरी का अपमान किया।
+Tom is Mary's son.	Tom ist Marys Sohn.	टॉम मेरी का बेटा है।
+Tom is a Canadian.	Tom ist Kanadier.	टॉम कनाडियन है।
