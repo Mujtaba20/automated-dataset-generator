@@ -974,3 +974,12 @@ I chew gum.	Ich kaue Kaugummi.	मैं गम चबाता हूँ।
 I disagree.	Ich bin anderer Meinung.	मैं असहमत हूँ।
 I disagree. - Different meaning	Ich widerspreche.	मैं मुतफ़िक नहीं हूँ।
 I drank it.	Ich habe es getrunken.	मैंने इसे पी लिया।
+I eat here.	Ich esse hier.	मैं यहाँ खाता हूँ।
+I eat meat.	Ich esse Fleisch.	मैं मांस खाता हूँ।
+I eat rice.	Ich esse Reis.	मैं चावल खाता हूँ।
+I envy Tom.	Ich beneide Tom.	मैं टॉम की ईर्ष्या करता हूँ।
+I envy her.	Ich beneide sie.	मैं उसे ईर्ष्या करता हूँ।
+I envy him.	Ich beneide ihn.	मैं उसे ईर्ष्या करता हूँ।
+I feel bad.	Ich fühle mich schlecht.	मुझे बुरा लग रहा है।
+I feel old.	Ich fühle mich alt.	मुझे बूढ़ा महसूस हो रहा है।
+I fixed it.	Ich habe es behoben.	मैंने इसे सुधार दिया।
