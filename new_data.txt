@@ -3471,3 +3471,13 @@ Tom was nosy.	Tom war neugierig.	टॉम जिज्ञासु था।
 Tom was poor.	Tom war arm.	टॉम गरीब था।
 Tom was rich.	Tom war reich.	टॉम धनवान था।
 Tom was shot.	Tom wurde angeschossen.	टॉम को गोली मार दी गई थी।
+Tom was sick.	Tom war krank.	टॉम बीमार था।
+Tom was slow.	Tom war langsam.	टॉम धीमा था।
+Tom went out.	Tom ging raus.	टॉम बाहर गया।
+Tom whistled.	Tom pfiff.	टॉम सीटी बजाई।
+Tom will cry.	Tom wird weinen.	टॉम रोएगा।
+Tom will die.	Tom wird sterben.	टॉम मरेगा।
+Tom will pay.	Tom wird zahlen.	टॉम भुगतान करेगा।
+Tom will try.	Tom wird versuchen.	टॉम कोशिश करेगा।
+Tom will win.	Tom wird gewinnen.	टॉम जीतेगा।
+Tom'll speak.	Tom wird sprechen.	टॉम बात करेगा।
