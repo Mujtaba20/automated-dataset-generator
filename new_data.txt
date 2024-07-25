@@ -18883,3 +18883,13 @@ Tom knew too much.	Tom wusste zu viel.	टॉम बहुत कुछ जा�
 Tom knocked again.	Tom klopfte erneut an.	टॉम फिर से खटखटाया।
 Tom knows me well.	Tom kennt mich gut.	टॉम मुझे अच्छे से जानता है।
 Tom knows my wife.	Tom kennt meine Frau.	टॉम मेरी पत्नी को जानता है।
+Tom knows no fear.	Tom kennt keine Angst.	टॉम किसी भी डर को नहीं जानता।
+Tom knows nothing.	Tom weiß nichts.	टॉम कुछ भी नहीं जानता।
+Tom knows the way.	Tom kennt den Weg.	टॉम रास्ता जानता है।
+Tom knows us well.	Tom kennt uns gut.	टॉम हमें अच्छे से जानता है।
+Tom lacks courage.	Tom fehlt Mut.	टॉम में हिम्मत की कमी है।
+Tom lacks empathy.	Tom fehlt Empathie.	टॉम में सहानुभूति की कमी है।
+Tom laughed again.	Tom lachte wieder.	टॉम फिर से हंसा।
+Tom laughed aloud.	Tom lachte laut.	टॉम जोर से हंसा।
+Tom laughed at me.	Tom lachte über mich.	टॉम मेरे मजाक उड़ाया।
+Tom left after me.	Tom ging nach mir.	टॉम मेरे बाद चला गया।

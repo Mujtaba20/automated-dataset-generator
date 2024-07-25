@@ -1,14 +1,4 @@
 
-Tom knows no fear.	Tom kennt keine Angst.	टॉम को कोई डर नहीं पता।
-Tom knows nothing.	Tom weiß nichts.	टॉम कुछ नहीं जानता।
-Tom knows the way.	Tom kennt den Weg.	टॉम को रास्ता पता है।
-Tom knows us well.	Tom kennt uns gut.	टॉम हमें अच्छी तरह से जानता है।
-Tom lacks courage.	Tom fehlt es an Mut.	टॉम में साहस का अभाव है।
-Tom lacks empathy.	Tom fehlt es an Einfühlungsvermögen.	टॉम में सहानुभूति की कमी है।
-Tom laughed again.	Tom lachte wieder.	टॉम फिर से हँसे।
-Tom laughed aloud.	Tom lachte laut.	टॉम जोर से हँसे।
-Tom laughed at me.	Tom lachte mich aus.	टॉम मुझ पर हँसे।
-Tom left after me.	Tom ist nach mir gegangen.	टॉम मेरे पास गया।
 Tom left his wife.	Tom hat seine Frau verlassen.	टॉम ने अपनी पत्नी को छोड़ दिया।
 Tom left the room.	Tom verließ das Zimmer.	टॉम कमरे से बाहर निकला।
 Tom lent it to me.	Tom hat es mir geliehen.	टॉम ने इसे उधार लिया।
