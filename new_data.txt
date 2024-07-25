@@ -4927,3 +4927,11 @@ This is a DVD.	Das ist eine DVD.	यह एक डीवीडी है।
 This is a dog.	Das ist ein Hund.	यह एक कुत्ता है।
 This is a map.	Das ist eine Karte.	यह एक नक्शा है।
 This is a pen.	Das ist ein Stift.	यह एक पेन है।
+This is a pun.	Das ist ein Wortspiel.	यह एक पंक्तिवाद है।
+This is crazy.	Das ist verrückt.	यह बेवकूफी है।
+This is funny.	Das ist witzig.	यह मजेदार है।
+This is great.	Das ist großartig.	यह शानदार है।
+This is my CD.	Das ist meine CD.	यह मेरी सीडी है।
+This is weird.	Das ist seltsam.	यह अजीब है।
+This is wrong.	Das ist falsch.	यह गलत है।
+This is yours.	Das gehört dir.	यह तुम्हारा है।
