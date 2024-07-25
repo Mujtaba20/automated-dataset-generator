@@ -10179,3 +10179,13 @@ Tom came inside.	Tom kam herein.	टॉम अंदर आया।
 Tom can explain.	Tom kann erklären.	टॉम समझा सकता है।
 Tom can help me.	Tom kann mir helfen.	टॉम मुझे मदद कर सकता है।
 Tom can help us.	Tom kann uns helfen.	टॉम हमें मदद कर सकता है।
+Tom can't count.	Tom kann nicht zählen.	टॉम गिन नहीं सकता।
+Tom can't dance.	Tom kann nicht tanzen.	टॉम नाच नहीं सकता।
+Tom can't do it.	Tom kann es nicht tun.	टॉम यह नहीं कर सकता।
+Tom can't drive.	Tom kann nicht fahren.	टॉम गाड़ी नहीं चला सकता।
+Tom can't leave.	Tom kann nicht gehen.	टॉम नहीं जा सकता।
+Tom can't paint.	Tom kann nicht malen.	टॉम रंग नहीं लगा सकता।
+Tom can't sleep.	Tom kann nicht schlafen.	टॉम सो नहीं सकता।
+Tom caused this.	Tom hat das verursacht.	इसकी जिम्मेदारी टॉम की है।
+Tom chased Mary.	Tom jagte Mary.	टॉम ने मेरी की पीछा की।
+Tom checked out.	Tom hat ausgecheckt.	टॉम ने चेक किया।
