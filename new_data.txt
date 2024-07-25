@@ -7807,3 +7807,12 @@ We laugh a lot.	Wir lachen viel.	हम बहुत हंसते हैं�
 We love coffee.	Wir lieben Kaffee.	हम कॉफी पसंद करते हैं।
 We made him go.	Wir ließen ihn gehen.	हमने उसे जाने दिया।
 We met earlier.	Wir trafen uns früher.	हम पहले मिले थे।
+We must attack.	Wir müssen angreifen.	हमें हमला करना चाहिए।
+We need a hero.	Wir brauchen einen Helden.	हमें एक नायक की आवश्यकता है।
+We need a plan.	Wir brauchen einen Plan.	हमें एक योजना की आवश्यकता है।
+We need it now.	Wir brauchen es jetzt.	हमें अब चाहिए।
+We need to eat.	Wir müssen essen.	हमें खाने की आवश्यकता है।
+We need to win.	Wir müssen gewinnen.	हमें जीतने की आवश्यकता है।
+We needed help.	Wir brauchten Hilfe.	हमें मदद की आवश्यकता थी।
+We only kissed.	Wir haben uns nur geküsst.	हमने सिर्फ चुम्मा लिया।
+We owe you one.	Wir sind dir etwas schuldig.	हम आपके ऋणी हैं।
