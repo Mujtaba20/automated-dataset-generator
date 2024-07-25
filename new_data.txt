@@ -1538,3 +1538,13 @@ He is happy.	Er ist glücklich.	वह खुश है।
 He is hated.	Er wird gehasst.	उसे नफरत की जाती है।
 He is lying.	Er lügt.	वह झूठ बोल रहा है।
 He is young.	Er ist jung.	वह जवान है।
+He loves us.	Er liebt uns.	वह हमें पसंद करता है।
+He needs it.	Er braucht es.	उसे इसकी आवश्यकता है।
+He relented.	Er gab nach.	उसने मना लिया।
+He relented. 	Er lenkte ein.	उसने स्वीकार कर लिया।
+He resigned.	Er trat zurück.	उसने इस्तीफ़ा दे दिया।
+He squinted.	Er kniff die Augen zusammen.	उसने आंखें दिखाई कम की।
+He stood up.	Er stand auf.	उठ कर खड़ा हो गया।
+He was busy.	Er war beschäftigt.	वह व्यस्त था।
+He's a jerk.	Er ist ein Idiot.	वह एक मूर्ख है।
+He's a liar.	Er ist ein Lügner.	वह झूठा है।
