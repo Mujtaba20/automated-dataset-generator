@@ -11749,3 +11749,12 @@ Does Tom have it?	Hat Tom das?	क्या टॉम के पास है?
 Does Tom like it?	Mag Tom das?	क्या टॉम को यह पसंद है?
 Does Tom like me?	Mag Tom mich?	क्या टॉम को मुझसे पसंद है?
 Does Tom need me?	Braucht Tom mich?	क्या टॉम को मुझे जरुरत है?
+Does it look bad?	Sieht es schlecht aus?	क्या यह बुरा लग रहा है?
+Does it work now?	Funktioniert es jetzt?	क्या यह अब काम करता है?
+Dogs are barking.	Hunde bellen.	कुत्ते भौंक रहे हैं।
+Don't I know you?	Kennt mich nicht?	मुझे नहीं पहचानते?
+Don't ask me why.	Frag mich nicht warum.	मुझसे क्यों पूछो।
+Don't be alarmed.	Nicht alarmiert sein.	चिंतित न हो।
+Don't be foolish.	Sei nicht dumm.	मूर्ख न बनो।
+Don't be nervous.	Sei nicht nervös.	घबराओ मत।
+Don't be so lazy.	Sei nicht so faul.	इतने आलसी मत रहो।
