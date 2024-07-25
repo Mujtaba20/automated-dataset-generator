@@ -17428,3 +17428,11 @@ It's now or never.	Jetzt oder nie.	अब या कभी नहीं।
 It's on the house.	Es geht aufs Haus.	घर पर है।
 It's one of those.	Es ist einer von denen.	यह उनमें से एक है।
 It's only a dream.	Es ist nur ein Traum.	यह सिर्फ़ एक सपना है।
+It's our pleasure.	Es ist uns ein Vergnügen.	हमारे लिए यह एक आनंद है।
+It's part of life.	Es ist Teil des Lebens.	यह जीवन का हिस्सा है।
+It's probably Tom.	Es ist wahrscheinlich Tom.	शायद यह टॉम हो।
+It's quite simple.	Es ist ziemlich einfach.	यह बहुत ही सरल है।
+It's raining here.	Es regnet hier.	यहाँ बारिश हो रही है।
+It's really early.	Es ist wirklich früh.	यह सचमुच जल्दी है।
+It's really great.	Es ist wirklich toll.	यह सचमुच शानदार है।
+It's really windy.	Es ist wirklich windig.	यह सचमुच हवाई है।
