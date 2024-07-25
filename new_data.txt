@@ -20040,3 +20040,12 @@ You did your part.(3)	Du hast deinen Anteil erfüllt.	तुमने अपन�
 You don't know me.	Du kennst mich nicht.	तुम मुझे नहीं जानते।
 You don't know us.	Du kennst uns nicht.	तुम हमें नहीं जानते।
 You gave it to me.	Du hast es mir gegeben.	तुमने मुझे दिया।
+You gave it to us.	Du hast es uns gegeben.	तुमने यह हमें दिया।
+You gave up on me.	Du hast an mir aufgegeben.	तुमने मुझ पर हार मान ली।
+You got shot, Tom.	Du wurdest angeschossen, Tom.	तुम्हें गोली लगी, टॉम।
+You guys are nuts.	Ihr seid verrückt.	तुम लोग पागल हो।
+You have no fever.	Du hast kein Fieber.	तुम्हें बुखार नहीं है।
+You have no heart.	Du hast kein Herz.	तुम्हें दिल नहीं है।
+You have no proof.	Du hast keinen Beweis.	तुम्हें कोई सबूत नहीं है।
+You have no taste.	Du hast keinen Geschmack.	तुम्हें स्वाद नहीं है।
+You have one hour.	Du hast eine Stunde.	तुम्हारे पास एक घंटा है।

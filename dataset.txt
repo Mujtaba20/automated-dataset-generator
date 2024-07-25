@@ -1,17 +1,4 @@
 
-You gave it to us.	Du hast es uns gegeben.	आपने इसे हमें दिया।
-You gave up on me.	Du hast mich aufgegeben.	तुमने मुझे छोड़ दिया।
-You got shot, Tom.	Du wurdest angeschossen, Tom.	आपको गोली मार दी गई, टॉम।
-You guys are nuts.	Ihr seid doch bekloppt.	तुम पागल हो।
-You have no fever.	Du hast kein Fieber.	आपको कोई बुखार नहीं है।
-You have no heart.	Du hast kein Herz.	आपका कोई दिल नहीं है।
-You have no heart.	Sie haben kein Herz.	आपका कोई दिल नहीं है।
-You have no proof.	Du hast keinen Beweis.	आपके पास कोई सबूत नहीं है।
-You have no taste.	Du hast keinen Geschmack.	आपको कोई स्वाद नहीं है।
-You have one hour.	Du hast eine Stunde Zeit.	आपके पास एक घंटा है।
-You have one hour.	Sie haben eine Stunde Zeit.	आपके पास एक घंटा है।
-You have one hour.	Ihr habt eine Stunde Zeit.	आपके पास एक घंटा है।
-You have one hour.	Du hast eine Stunde.	आपके पास एक घंटा है।
 You have problems.	Du hast Probleme.	आपको समस्याएं हैं।
 You have problems.	Ihr habt Probleme.	आपको समस्याएं हैं।
 You have problems.	Sie haben Probleme.	आपको समस्याएं हैं।
