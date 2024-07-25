@@ -17049,3 +17049,12 @@ I'm all alone now.	Ich bin jetzt ganz allein.	अब मैं पूरी त�
 I'm already bored.	Ich bin schon gelangweilt.	मुझे पहले ही बोर हो गया है।
 I'm already on it.	Ich bin schon dabei.	मैं इस पर पहले ही कर चुका हूँ।
 I'm already ready.	Ich bin bereits bereit.	मैं पहले ही तैयार हूँ।
+I'm already tired.	Ich bin schon müde.	मैं पहले से ही थक गया हूँ।
+I'm always hungry.	Ich bin immer hungrig.	मैं हमेशा भूखा हूँ।
+I'm an astrologer.	Ich bin ein Astrologe.	मैं एक ज्योतिषी हूँ।
+I'm an astronomer.	Ich bin ein Astronom.	मैं एक खगोलविद्यालय हूँ।
+I'm an old friend.	Ich bin ein alter Freund.	मैं एक पुराना दोस्त हूँ।
+I'm an only child.	Ich bin ein Einzelkind.	मैं एक एकमात्र भाई/बहन हूँ।
+I'm as old as Tom.	Ich bin so alt wie Tom.	मैं टॉम की तरह पुराना हूँ।
+I'm as old as you.	Ich bin so alt wie du.	मैं तुम्हारे जैसा हूँ।
+I'm at home today.	Ich bin heute zu Hause.	आज मैं घर पर हूँ।
