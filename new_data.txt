@@ -2799,3 +2799,9 @@ I wrote that.	Ich habe das geschrieben.	मैंने वह लिखा थ�
 I'll ask Tom.	Ich werde Tom fragen.	मैं टॉम से पूछूंगा।
 I'll ask him.	Ich werde ihn fragen.	मैं उससे पूछूंगा।
 I'll be back.	Ich werde zurück sein.	मैं वापस आऊंगा।
+I'll be fine.	Es wird mir gut gehen.	मैं ठीक हो जाऊँगा।
+I'll be free.	Ich werde frei sein.	मैं मुक्त हो जाऊँगा।
+I'll be good.	Es wird mir gut gehen.	मैं अच्छा हो जाऊँगा।
+I'll be here.	Ich werde hier sein.	मैं यहाँ होऊँगा।
+I'll be late.	Ich werde spät dran sein.	मैं देर से पहुंचूँगा।
+I'll be nice.	Es wird mir gut gehen.	मैं अच्छा रहूँगा।
