@@ -10963,3 +10963,13 @@ Tom's brilliant.	Toms strahlend.	टॉम उज्ज्वल है।
 Tom's concerned.	Toms besorgt.	टॉम चिंतित है।
 Tom's confessed.	Tom hat gestanden.	टॉम ने स्वीकार किया।
 Tom's conscious.	Toms bewusst.	टॉम सचेत है।
+Tom's convinced.	Tom ist überzeugt.	टॉम प्रभावित है।
+Tom's hilarious.	Tom ist urkomisch.	टॉम मजाकिया है।
+Tom's impressed.	Tom ist beeindruckt.	टॉम प्रभावित है।
+Tom's in charge.	Tom ist verantwortlich.	टॉम प्रभावित है।
+Tom's listening.	Tom hört zu.	टॉम सुन रहा है।
+Tom's my cousin.	Tom ist mein Cousin.	टॉम मेरा चचेरा भाई है।
+Tom's my friend.	Tom ist mein Freund.	टॉम मेरा दोस्त है।
+Tom's my nephew.	Tom ist mein Neffe.	टॉम मेरी भातीजी के बेटे हैं।
+Tom's repulsive.	Tom ist abstoßend.	टॉम तिव्र है।
+Tom's screaming.	Tom schreit.	टॉम चीख रहा है।
