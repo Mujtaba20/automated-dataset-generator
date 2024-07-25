@@ -15747,3 +15747,10 @@ Do you need to go?	Musst du gehen?	क्या तुम्हें जान�
 Do you play chess?	Spielst du Schach?	क्या तुम शतरंज खेलते हो?
 Do you read a lot?	Liest du viel?	क्या आप बहुत पढ़ते हैं?
 Do you see a rose?	Siehst du eine Rose?	क्या तुम एक गुलाब देख रहे हो?
+Do you sell fruit?	Verkaufen Sie Obst?	क्या आप फल बेचते हैं?
+Do you smell that?	Riechen Sie das?	क्या आप यह गंध समझ गए?
+Do you wanna talk?	Möchtest du reden?	क्या आप बात करना चाहते हैं?
+Do you want a car?	Möchtest du ein Auto?	क्या आपको एक कार चाहिए?
+Do you want a sip?	Möchtest du einen Schluck?	क्या आपको एक चुम्बक चाहिए?
+Do you want cream?	Möchtest du Sahne?	क्या आपको क्रीम चाहिए?
+Do you want money?	Möchtest du Geld?	क्या आपको पैसे चाहिए?
