@@ -4480,3 +4480,11 @@ Is it popular?	Ist es beliebt?	क्या यह लोकप्रिय ह�
 Is it serious?	Ist es ernst?	क्या यह गंभीर है?
 Is it snowing?	Schneit es?	क्या बर्फ गिर रही है?
 Is it strange?	Ist es seltsam?	क्या यह अजीब है?
+Is it too big?	Ist es zu groß?	क्या यह बहुत बड़ा है?
+Is it working?	Funktioniert es?	क्या यह काम कर रहा है?
+Is that Tom's?	Ist das von Tom?	क्या यह टॉम का है?
+Is that a bat?	Ist das eine Fledermaus?	क्या वह एक बल्ला है?
+Is that a cat?	Ist das eine Katze?	क्या वह एक बिल्ली है?
+Is that a lot?	Ist das viel?	क्या वह बहुत है?
+Is that a wig?	Ist das eine Perücke?	क्या वह एक विग है?
+Is that a yes?	Ist das ein Ja?	क्या यह एक हां है?
