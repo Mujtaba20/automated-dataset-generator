@@ -3640,3 +3640,11 @@ Who's absent? (different meaning)	Wer ist abwesend?	किसे अनुपस
 Who's coming?	Wer kommt?	कौन आ रहा है?
 Who's joking?	Wer macht Witze?	कौन मजाक कर रहा है?
 Who's joking? (different meaning)	Wer scherzt?	कौन मजाक कर रहा है?
+Who's paying?	Wer zahlt?	कौन भुगतान कर रहा है?
+Why quit now?	Warum jetzt aufgeben?	अब क्यों छोड़ें?
+Why thank me?	Warum mir danken?	मुझे क्यों धन्यवाद देना?
+Will Tom die?	Wird Tom sterben?	क्या टॉम मर जाएगा?
+Will this do?	Wird das reichen?	क्या यह काफी होगा?
+Wish me luck.	Wünsch mir Glück.	मुझे शुभकामनाएं दो।
+Years passed.	Jahre vergingen.	साल बीते।
+You amuse me.	Sie unterhalten mich.	आप मेरा मनोरंजन करते हैं।
