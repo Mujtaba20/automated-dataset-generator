@@ -10398,3 +10398,13 @@ Tom is famished.	Tom ist ausgehungert.	टॉम भूखा है।
 Tom is far away.	Tom ist weit weg.	टॉम दूर है।
 Tom is fearless.	Tom ist furchtlos.	टॉम डरावना है।
 Tom is fighting.	Tom kämpft.	टॉम लड़ रहा है।
+Tom is fine now.	Tom geht es jetzt gut.	टॉम अब ठीक है।
+Tom is finished.	Tom ist fertig.	टॉम समाप्त है।
+Tom is flexible.	Tom ist flexibel.	टॉम लचीला है।
+Tom is forceful.	Tom ist energisch.	टॉम जुर्रतमंद है।
+Tom is forgiven.	Tom ist vergeben.	टॉम क्षमा की गई है।
+Tom is forgiving.	Tom vergibt.	टॉम क्षमाशील है।
+Tom is freezing.	Tom friert.	टॉम ठंड में है।
+Tom is friendly.	Tom ist freundlich.	टॉम दोस्ताना है।
+Tom is generous.	Tom ist großzügig.	टॉम उदार है।
+Tom is giggling.	Tom kichert.	टॉम मुस्काने लगा है।
