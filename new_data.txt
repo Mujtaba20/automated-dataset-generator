@@ -14913,3 +14913,8 @@ Turn right there.	Biegen Sie dort rechts ab.	वहाँ दाएं मुड
 Turn up the heat.	Drehe die Hitze hoch.	गरमी बढ़ाओ।
 Turtles lay eggs.	Schildkröten legen Eier.	कछुए अंडे अंडे देते हैं।
 Wait for us, Tom.	Warte auf uns, Tom.	हमारा इंतजार करो, टॉम।
+Wait here for me.	Warten Sie hier auf mich.	मुझे यहाँ पर इंतजार करो।
+Walk ahead of me.	Geh vor mir.	मुझसे आगे चलो।
+Walk more slowly.	Gehe langsamer.	धीरे चलो।
+Was Tom handsome?	War Tom hübsch?	क्या टॉम हैंडसम था?
+Was Tom involved?	War Tom beteiligt?	क्या टॉम को शामिल किया गया था?
