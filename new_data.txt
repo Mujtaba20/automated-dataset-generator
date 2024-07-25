@@ -18382,3 +18382,11 @@ Tom chose to wait.	Tom entschied sich zu warten.	टॉम इंतजार �
 Tom claims he won.	Tom behauptet, er hat gewonnen.	टॉम दावा करता है कि उसने जीत ली।
 Tom considered it.	Tom hat es berücksichtigt.	टॉम ने यह ध्यान में रखा।
 Tom cooked dinner.	Tom hat das Abendessen vorbereitet.	टॉम ने दिन का खाना बनाया।
+Tom coughed again.	Tom hustete erneut.	टॉम फिर से खांसा।
+Tom could be dead.	Tom könnte tot sein.	टॉम मरा हो सकता है।
+Tom could do that.	Tom könnte das tun.	टॉम यह कर सकता है।
+Tom could do this.	Tom könnte das machen.	टॉम यह कर सकता है।
+Tom could've died.	Tom könnte gestorben sein.	टॉम मर चुका हो सकता है।
+Tom could've gone.	Tom hätte gehen können.	टॉम चला जा सकता था।
+Tom couldn't help.	Tom konnte nicht helfen.	टॉम मदद नहीं कर सका।
+Tom couldn't move.	Tom konnte sich nicht bewegen.	टॉम हिल नहीं सका।
