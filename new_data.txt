@@ -9846,3 +9846,8 @@ She's no singer.	Sie ist keine Sängerin.	वह गायक नहीं ह�
 She's on a diet.	Sie ist auf Diät.	वह डाइट पर है।
 She's seventeen.	Sie ist siebzehn.	वह सत्रह साल की है।
 She's very wise.	Sie ist sehr weise.	वह बहुत होशियार है।
+Should we worry?	Sollten wir uns Sorgen machen?	क्या हमें चिंता करनी चाहिए?
+Show them to me.	Zeig sie mir.	मुझे उन्हें दिखाओ।
+Show us the way.	Zeig uns den Weg.	हमें रास्ता दिखाओ।
+Show your cards.	Zeig deine Karten.	अपने कार्ड दिखाओ।
+Shut up and eat.	Sei still und iss.	चुपचाप और खाओ।
