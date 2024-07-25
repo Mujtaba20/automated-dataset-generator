@@ -480,3 +480,8 @@ Forget it!	Vergiss es!	इसे भूल जाओ!
 Forget it.	Vergiss es.	यह भूल जाओ।
 Forget me.	Vergiss mich.	मुझे भूल जाओ।
 Get ready.	Mach dich bereit.	तैयार रहो।
+Go for it.	Geh weiter.	इसके लिए जाओ।
+Go get it.	Holer es.	उसे लेने जाओ।
+Go inside.	Geh rein.	अंदर जाओ।
+Go to bed.	Geh ins Bett.	सोने जाओ।
+Goodnight.	Gute Nacht.	शुभ रात्रि।
