@@ -5849,3 +5849,9 @@ He was invited.	Er wurde eingeladen.	उसे निमंत्रित क�
 He was my boss.	Er war mein Chef.	वह मेरे बॉस थे।
 He was perfect.	Er war vollkommen.	वह उत्तम था।
 He was stunned.	Er war fassungslos.	उसे चौंका दिया गया था।
+He was thirsty.	Er war durstig.	उसे बहुत प्यास लगी थी।
+He went abroad.	Er ging ins Ausland.	उसने विदेश जाने का निश्चय किया।
+He went skiing.	Er ging Ski fahren.	उसने स्की करने का निश्चय किया।
+He went to bed.	Er legte sich schlafen.	उसने सोने की कोशिश की।
+He will not go.	Er wird nicht gehen.	वह नहीं जाएगा।
+He worked hard.	Er arbeitete schwer.	उसने मेहनत की।
