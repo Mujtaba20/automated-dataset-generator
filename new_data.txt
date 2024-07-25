@@ -3512,3 +3512,9 @@ Try the cake.	Probieren Sie den Kuchen.	केक का प्रयास क�
 Try these on.	Probieren Sie diese an.	इन्हें पहनो।
 Try to guess.	Versuchen Sie zu raten.	अनुमान लगाने की कोशिश करें।
 Try to sleep.	Versuch zu schlafen.	सोने की कोशिश करो।
+Try to smile.	Versuch zu lächeln.	मुस्कुराने की कोशिश करें।
+Unbelievable!	Unglaublich!	हैरान कर देने वाला!
+Use them all.	Benutze sie alle.	उन्हें सभी उपयोग करें।
+Vote for Tom.	Stimme für Tom.	टॉम के लिए वोट दें।
+Wait and see.	Abwarten und sehen.	रुको और देखो।
+Wait for Tom.	Warte auf Tom.	टॉम के लिए प्रतीक्षा करें।
