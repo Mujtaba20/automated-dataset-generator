@@ -4717,3 +4717,11 @@ Oh, I'm sorry.	Oh, es tut mir leid.	ओह, मुझे माफ़ कर द
 Only Tom left.	Nur Tom ist übrig geblieben.	सिर्फ टॉम बचा है।
 Open the door.	Öffne die Tür.	दरवाजा खोलो।
 Open the gate.	Öffne das Tor.	दरवाज़ा खोलो।
+Open the safe.	Öffnen Sie den Safe.	सुरक्षित खोलिए।
+Our team lost.	Unser Team hat verloren.	हमारी टीम हार गई।
+Owls are cute.	Eulen sind niedlich.	उल्लू मीठे होते हैं।
+Pass it to me.	Gib es mir.	मुझे दे दो।
+People change.	Menschen ändern sich.	लोग बदल जाते हैं।
+Pick any card.	Nimm irgendeine Karte.	किसी भी कार्ड चुनो।
+Play it again.	Spiele es noch einmal.	इसे फिर से खेलो।
+Please go now.	Bitte geh jetzt.	कृपया अब चले जाएं।
