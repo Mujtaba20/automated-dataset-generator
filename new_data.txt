@@ -14463,3 +14463,12 @@ Tom lit the fire.	Tom entzündete das Feuer.	टॉम ने आग लगा�
 Tom lives abroad.	Tom lebt im Ausland.	टॉम विदेश में रहता है।
 Tom lives nearby.	Tom lebt in der Nähe.	टॉम नज़दीक रहता है।
 Tom looked about.	Tom schaute sich um.	टॉम आसपास देख रहा था।
+Tom looked again.	Tom schaute wieder hin.	टॉम फिर से देखा।
+Tom looked ahead.	Tom schaute nach vorne.	टॉम आगे देख रहा था।
+Tom looked angry.	Tom sah wütend aus.	टॉम गुस्से में देखा।
+Tom looked at me.	Tom sah mich an.	टॉम ने मुझे देखा।
+Tom looked awake.	Tom sah wach aus.	टॉम जागरूक दिख रहा था।
+Tom looked awful.	Tom sah furchtbar aus.	टॉम बदसूरत लग रहा था।
+Tom looked dirty.	Tom sah schmutzig aus.	टॉम गंदा दिख रहा था।
+Tom looked drunk.	Tom sah betrunken aus.	टॉम नशे में दिखाई दिया।
+Tom looked great.	Tom sah großartig aus.	टॉम बहुत बढ़िया लग रहा था।
