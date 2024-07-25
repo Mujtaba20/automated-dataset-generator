@@ -5905,3 +5905,11 @@ How can I help?	Wie kann ich helfen?	मैं कैसे मदद कर स
 How cold is it?	Wie kalt ist es?	ये कितनी ठंडी है?
 How deep is it?	Wie tief ist es?	ये कितनी गहरी है?
 How did it end?	Wie ist es zu Ende gegangen?	ये कैसे खत्म हुआ?
+How did you do?	Wie hast du es gemacht?	तुमने कैसे किया?
+How disgusting!	Wie ekelhaft!	कितनी घिनौनी!
+How do I do it?	Wie mache ich das?	मैं यह कैसे करूँ?
+How do we look?	Wie sehen wir aus?	हम कैसे लग रहे हैं?
+How exhausting!	Wie anstrengend!	कितना थकाऊ!
+How high is it?	Wie hoch ist es?	यह कितनी ऊँची है?
+How is Tom now?	Wie geht es jetzt Tom?	अब टॉम कैसा है?
+How is it made?	Wie wird es gemacht?	यह कैसे बनाया जाता है?
