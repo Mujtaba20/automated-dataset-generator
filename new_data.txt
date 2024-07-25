@@ -9788,3 +9788,11 @@ See you at 2:30.	Wir sehen uns um 2:30 Uhr.	2:30 बजे मिलेंगे
 See you at home.	Wir sehen uns zu Hause.	अपने घर पर मिलेंगे।
 See you tonight.	Wir sehen uns heute Abend.	आज रात देखेंगे।
 See you tonight. 1	Bis heute Abend.	आज रात मिलते हैं।
+Send it by mail.	Es per Post schicken.	इसे मेल द्वारा भेजें।
+Shall we go now?	Sollen wir jetzt gehen?	क्या हम अब जाएँ?
+Sharks eat fish.	Haie fressen Fische.	शार्क फिश खाते हैं।
+She admired him.	Sie bewunderte ihn.	उसने उसे सराहा।
+She adores cats.	Sie verehrt Katzen.	उसे बिल्लियों से बहुत प्यार है।
+She deserved it.	Sie hat es verdient.	उसे यह योग्य था।
+She disappeared.	Sie ist verschwunden.	वह ग़ायब हो गई।
+She fell asleep.	Sie ist eingeschlafen.	वह सो गई।
