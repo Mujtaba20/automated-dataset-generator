@@ -6264,3 +6264,13 @@ I travel a lot.	Ich reise viel.	मैं बहुत सारी यात्
 I travel light.	Ich reise leicht.	मैं हल्के से घूमता हूँ।
 I trusted them.	Ich habe ihnen vertraut.	मैंने उनपर भरोसा किया।
 I turned right.	Ich bog rechts ab.	मैंने दाहिनी ओर मुड़ लिया।
+I usually walk.	Ich gehe normalerweise zu Fuß.	मैं आम तौर पे चलता हूँ।
+I walked alone.	Ich bin alleine gegangen.	मैं अकेला चला गया।
+I want a chair.	Ich möchte einen Stuhl.	मुझे एक कुर्सी चाहिए।
+I want a drink.	Ich möchte etwas trinken.	मुझे कुछ पीने का मन है।
+I want a glass.	Ich möchte ein Glas.	मुझे एक गिलास चाहिए।
+I want a horse.	Ich möchte ein Pferd.	मुझे घोड़ा चाहिए।
+I want a puppy.	Ich möchte einen Welpen.	मुझे एक पप्पी चाहिए।
+I want a raise.	Ich möchte eine Gehaltserhöhung.	मुझे वेतन में वृद्धि चाहिए।
+I want justice.	Ich möchte Gerechtigkeit.	मैं इंसाफ चाहता/चाहती हूँ।
+I want popcorn.	Ich möchte Popcorn.	मुझे पॉपकॉर्न चाहिए।
