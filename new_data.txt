@@ -11351,3 +11351,9 @@ You look lonely.	Du siehst verlassen aus.	तुम अकेले लग र�
 You look stupid.	Du siehst dumm aus.	तुम मुर्ख लगते हो।
 You may go home.	Du kannst nach Hause gehen.	तुम घर जा सकते हो।
 You may have it.	Du darfst es erhalten.	तुम इसे पा सकते हो।
+You must be Tom.	Du musst Tom sein.	तुम्हें टॉम होना चाहिए।
+You must choose.	Du musst wählen.	तुम्हें चुनना होगा।
+You must go now.	Du musst jetzt gehen.	तुम्हें अभी जाना चाहिए।
+You need a plan.	Du brauchst einen Plan.	तुम्हें एक योजना की जरुरत है।
+You promised me.	Du hast mir versprochen.	तुमने मुझे वादा किया।
+You should come.	Du solltest kommen.	तुम्हें आना चाहिए।
