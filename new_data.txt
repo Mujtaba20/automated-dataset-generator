@@ -13696,3 +13696,11 @@ That's very cool.	Das ist sehr cool.	यह बहुत ठंडा है।
 That's very good.	Das ist sehr gut.	यह बहुत अच्छा है।
 That's what I do.	Das ist das, was ich tue.	यही मैं करता हूं।
 That's wonderful.	Das ist wunderbar.	यह अद्भुत है।
+That's your seat.	Das ist Ihr Sitzplatz.	यह तुम्हारी सीट है।
+The TV is broken.	Der Fernseher ist kaputt.	टीवी टूट गया है।
+The answer is 42.	Die Antwort ist 42.	जवाब 42 है।
+The answer is no.	Die Antwort ist nein.	जवाब नहीं है।
+The baby's awake.	Das Baby ist wach.	बच्चा जागा है।
+The battery died.	Die Batterie ist leer.	बैटरी मर गई।
+The bill, please.	Die Rechnung, bitte.	कृपया बिल।
+The bird is dead.	Der Vogel ist tot.	पंछी मर गया है।
