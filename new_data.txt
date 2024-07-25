@@ -5157,3 +5157,11 @@ Tom was smart.	Tom war klug.	टॉम दानादार था।
 Tom was sober.	Tom war nüchtern.	टॉम शराब से दूर था।
 Tom was sweet.	Tom war süß.	टॉम मीठा था।
 Tom was there.	Tom war da.	टॉम वहाँ था।
+Tom was tipsy.	Tom war angetrunken.	टॉम थोड़ा नशे में था।
+Tom was tired.	Tom war müde.	टॉम थका हुआ था।
+Tom was tough.	Tom war hart.	टॉम मुश्किल था।
+Tom was upset.	Tom war verärgert.	टॉम परेशान था।
+Tom was weary.	Tom war erschöpft.	टॉम थका हुआ था।
+Tom was wrong.	Tom lag falsch.	टॉम गलत था।
+Tom was young.	Tom war jung.	टॉम जवान था।
+Tom wasn't OK.	Tom war nicht in Ordnung.	टॉम ठीक नहीं था।
