@@ -10546,3 +10546,13 @@ Tom isn't naked.	Tom ist nicht nackt.	टॉम नग्न नहीं है
 Tom isn't nasty.	Tom ist nicht gemein.	टॉम बदतमीज नहीं है।
 Tom isn't petty.	Tom ist nicht kleinlich.	टॉम नापसंदीदा नहीं है।
 Tom isn't picky.	Tom ist nicht wählerisch.	टॉम कोई चीज़ चुनते समय परेशान नहीं है।
+Tom isn't quiet.	Tom ist nicht leise.	टॉम शांत नहीं है।
+Tom isn't ready.	Tom ist nicht bereit.	टॉम तैयार नहीं है।
+Tom isn't right.	Tom hat nicht Recht.	टॉम सही नहीं है।
+Tom isn't smart.	Tom ist nicht klug.	टॉम बुद्धिमान नहीं है।
+Tom isn't there.	Tom ist nicht da.	टॉम वहां नहीं है।
+Tom isn't timid.	Tom ist nicht ängstlich.	टॉम डरपोक नहीं है।
+Tom isn't tired.	Tom ist nicht müde.	टॉम थका नहीं है।
+Tom isn't tough.	Tom ist nicht hart.	टॉम कठोर नहीं है।
+Tom isn't upset.	Tom ist nicht verärgert.	टॉम उत्तेजित नहीं है।
+Tom isn't vegan.	Tom ist nicht vegan.	टॉम व्यागन नहीं है।
