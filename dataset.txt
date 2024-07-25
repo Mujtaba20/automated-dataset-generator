@@ -1,15 +1,4 @@
 
-Tom seemed amused.	Tom schien amüsiert zu sein.	टॉम खुश लग रहा था।
-Tom seemed better.	Tom schien es besser zu gehen.	टॉम जाने के लिए बेहतर लग रहा था।
-Tom seemed biased.	Tom schien voreingenommen zu sein.	टॉम पक्षपाती लग रहा था।
-Tom seemed bright.	Tom schien aufgeweckt zu sein.	टॉम जागने लग रहा था।
-Tom seemed clever.	Tom schien schlau zu sein.	टॉम स्मार्ट लग रहा था।
-Tom seemed honest.	Tom schien ehrlich zu sein.	टॉम ईमानदार लग रहा था।
-Tom seemed hungry.	Tom schien hungrig zu sein.	टॉम को भूख लग रही थी।
-Tom seemed lonely.	Tom schien einsam zu sein.	टॉम अकेला लग रहा था।
-Tom seemed scared.	Tom schien Angst zu haben.	टॉम को डर लग रहा था।
-Tom seemed sleepy.	Tom wirkte schläfrig.	टॉम नींद में लग रहा था।
-Tom seemed sleepy.	Tom schien schläfrig zu sein.	टॉम को नींद आ रही थी।
 Tom seemed stupid.	Tom schien dumm zu sein.	टॉम बेवकूफ लग रहा था।
 Tom seemed unsure.	Tom schien unsicher.	टॉम असुरक्षित लग रहा था।
 Tom seemed unsure.	Tom schien unsicher zu sein.	टॉम असुरक्षित लग रहा था।

@@ -19120,3 +19120,13 @@ Tom scares easily.	Tom erschreckt leicht.	टॉम आसानी से ड�
 Tom scored a goal.	Tom hat ein Tor geschossen.	टॉमने एक गोल किया।
 Tom screams a lot.	Tom schreit viel.	टॉम बहुत चिल्लाता है।
 Tom seemed afraid.	Tom schien ängstlich.	लगता है कि टॉम डरा हुआ था।
+Tom seemed amused.	Tom schien amüsiert.	टॉम को मज़ा आया।
+Tom seemed better.	Tom schien besser.	टॉम बेहतर लग रहा था।
+Tom seemed biased.	Tom schien voreingenommen.	टॉम का पक्षपात था।
+Tom seemed bright.	Tom schien hell.	टॉम उज्ज्वल लग रहा था।
+Tom seemed clever.	Tom schien schlau.	टॉम चतुर लग रहा था।
+Tom seemed honest.	Tom schien ehrlich.	टॉम ईमानदार था।
+Tom seemed hungry.	Tom schien hungrig.	टॉम भूखा लग रहा था।
+Tom seemed lonely.	Tom schien einsam.	टॉम अकेला लग रहा था।
+Tom seemed scared.	Tom schien erschrocken.	टॉम डरा हुआ लग रहा था।
+Tom seemed sleepy.	Tom schien müde.	टॉम सोने वाला था।
