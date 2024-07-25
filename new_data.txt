@@ -5780,3 +5780,10 @@ He cannot swim.	Er kann nicht schwimmen.	वह तैरना नहीं ज
 He confused us.	Er hat uns verwirrt.	उसने हमें उलझाया।
 He could do it.	Er könnte es tun.	वह यह कर सकता था।
 He deserved it.	Er hat es verdient.	उसे यह योग्य है।
+He disappeared.	Er ist verschwunden.	उसने गायब हो गया।
+He dislikes me.	Er mag mich nicht.	उसे मुझसे नफरत है।
+He doesn't lie.	Er lügt nicht.	वह झूठ नहीं बोलता।
+He doesn't run.	Er läuft nicht.	वह नहीं चलता है।
+He drives fast.	Er fährt schnell.	वह तेज चलाता है।
+He flew a kite.	Er ließ einen Drachen steigen.	उसने एक पतंग उड़ाई।
+He got the job.	Er bekam den Job.	उसने काम पा लिया।
