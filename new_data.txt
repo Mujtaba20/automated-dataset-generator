@@ -4686,3 +4686,11 @@ My feet stink.	Meine Füße stinken.	मेरे पैर सुँघते �
 My foot hurts.	Mein Fuß tut weh.	मेरे पैर में दर्द है।
 My hair's wet.	Meine Haare sind nass.	मेरे बाल गीले हैं।
 My head aches.	Mir tut der Kopf weh.	मुझे सिरदर्द है।
+My knee hurts.	Mein Knie tut weh.	मेरी घुटने में दर्द है।
+My lungs hurt.	Meine Lunge tut weh.	मेरी फेफड़ों में दर्द है।
+My lungs hurt. (different meaning)	Meine Atemwege schmerzen.	मेरे पसीने में दर्द होता है।
+My name's Tom.	Mein Name ist Tom.	मेरा नाम टॉम है।
+My neck hurts.	Mein Hals tut weh.	मेरी गर्दन में दर्द है।
+My neck hurts. (different meaning)	Meine Nackenmuskulatur ist verspannt.	मेरी गले में दर्द है।
+My pen is new.	Mein Stift ist neu.	मेरी कलम नयी है।
+Night came on.	Die Nacht brach herein.	रात आ गई।
