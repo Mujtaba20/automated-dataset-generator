@@ -7041,3 +7041,13 @@ They ruined it. - Different meaning	Sie haben es zerstört.	उन्हों�
 They said that.	Sie sagten das.	उन्होंने यह कहा।
 They seem busy.	Sie scheinen beschäftigt zu sein.	वे व्यस्त लगते हैं।
 They smell bad.	Sie riechen schlecht.	उनकी बदबू आती है।
+They struggled.	Sie kämpften.	उन्होंने संघर्ष किया।
+They succeeded.	Sie hatten Erfolg.	उन्होंने सफलता प्राप्त की।
+They trust Tom.	Sie vertrauen Tom.	उन्हें टॉम पर भरोसा है।
+They want more.	Sie wollen mehr.	उन्हें और चाहिए।
+They want this.	Sie wollen das.	उन्हें यह चाहिए।
+They went away.	Sie gingen weg.	वे चले गए।
+They were busy.	Sie waren beschäftigt.	उन्हें व्यस्त थे।
+They were dead.	Sie waren tot.	वे मर चुके थे।
+They were fine.	Es ging ihnen gut.	उनको ठीक था।
+They were gone.	Sie waren weg.	वे चले गए थे।
