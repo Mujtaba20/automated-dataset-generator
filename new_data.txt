@@ -4281,3 +4281,13 @@ I was correct.	Ich hatte recht.	मैं सही था।
 I was furious.	Ich war wütend.	मैं गुस्से में था।
 I was invited.	Ich wurde eingeladen.	मुझे आमंत्रित किया गया था।
 I was jealous.	Ich war eifersüchtig.	मैं जलनी थी।
+I was married.	Ich war verheiratet.	मैं विवाहित था।
+I was nervous.	Ich war nervös.	मैं बेचैन था।
+I was reading.	Ich las.	मैं पढ़ रहा था।
+I was reading. (Different meaning)	Ich las gerade.	मैं पढ़ रहा था। (वर्तमान काल)
+I was serious.	Ich war ernst.	मैं गंभीर था।
+I was so cold.	Mir war so kalt.	मुझे इतनी ठंड लग रही थी।
+I was tempted.	Ich war versucht.	मुझे इच्छा हुई।
+I was thirsty.	Ich war durstig.	मुझे प्यास लगी थी।
+I was too shy.	Ich war zu schüchtern.	मैं बहुत शर्मीला था।
+I was worried.	Ich war besorgt.	मैं चिंतित था।
