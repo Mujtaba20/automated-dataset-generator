@@ -1507,3 +1507,9 @@ Get dressed.	Zieh dich an.	तैयार हो जाओ।
 Get in here!	Komm herein!	यहाँ आ जाओ!
 Get serious.	Nimm es ernst.	गंभीर हो जाओ।
 Get started.	Anfangen.	प्रारम्भ करें।
+Get to work.	An die Arbeit gehen.	काम पर जाओ।
+Go find Tom.	Geh Tom finden.	जाओ टॉम ढूंढ़ो।
+Go find out.	Such es heraus.	निकालो।
+Go for help.	Geh um Hilfe.	मदद के लिए जाओ।
+Go home now.	Geh jetzt nach Hause.	अब घर जाओ।
+Go on board.	Geh an Bord.	बोर्ड पर जाओ।
