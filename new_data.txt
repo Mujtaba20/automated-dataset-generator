@@ -10856,3 +10856,13 @@ Tom was moaning.	Tom stöhnte.	टॉम मुंह बंद करके द
 Tom was my boss.	Tom war mein Chef.	टॉम मेरे बॉस थे।
 Tom was naughty.	Tom war ungezogen.	टॉम शरारती था।
 Tom was nervous.	Tom war nervös.	टॉम घबराया हुआ था।
+Tom was outside.	Tom war draußen.	टॉम बाहर था।
+Tom was panting.	Tom keuchte.	टॉम सांस फूल रहा था।
+Tom was patient.	Tom war geduldig.	टॉम धीरे था।
+Tom was perfect.	Tom war perfekt.	टॉम पूरी तरह सही था।
+Tom was pleased.	Tom war erfreut.	टॉम खुश था।
+Tom was popular.	Tom war beliebt.	टॉम प्रसिद्ध था।
+Tom was praying.	Tom betete.	टॉम प्रार्थना कर रहा था।
+Tom was present.	Tom war anwesend.	टॉम मौजूद था।
+Tom was puzzled.	Tom war verwirrt.	टॉम हैरान था।
+Tom was relaxed.	Tom war entspannt.	टॉम थोड़ा आराम से था।
