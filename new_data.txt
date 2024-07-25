@@ -19092,3 +19092,12 @@ Tom ratted me out. 2	Tom hat mich verraten.	टॉम ने मुझे गद
 Tom ratted me out. 3	Tom hat mich angeschwärzt.	टॉम ने मुझे बता दिया।
 Tom ratted us out.	Tom hat uns verpfiffen.	टॉम ने हमें धोखा दिया।
 Tom reacted badly.	Tom reagierte schlecht.	टॉम गलत तरीके से प्रतिक्रिया दिया।
+Tom received help.	Tom hat Hilfe erhalten.	टॉम को मदद मिली।
+Tom recognized it.	Tom hat es erkannt.	टॉम ने यह चीज पहचानी।
+Tom recognized me.	Tom hat mich erkannt.	टॉम ने मुझे पहचाना।
+Tom released Mary.	Tom hat Mary freigelassen.	टॉम ने मेरी को रिहा किया।
+Tom remained calm.	Tom blieb ruhig.	टॉम शांत रहा।
+Tom remained cool.	Tom blieb cool.	टॉम शांत रहा।
+Tom remembers you.	Tom erinnert sich an dich.	टॉम तुम्हें याद करता है।
+Tom rented a room.	Tom hat ein Zimmer gemietet.	टॉम ने कमरे का किराया दिया।
+Tom respects Mary.	Tom respektiert Mary.	टॉम मेरी का सम्मान करता है।

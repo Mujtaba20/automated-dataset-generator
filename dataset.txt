@@ -1,14 +1,4 @@
 
-Tom received help.	Tom bekam Hilfe.	टॉम को मदद मिली।
-Tom recognized it.	Tom hat es erkannt.	टॉम ने इसे पहचाना।
-Tom recognized me.	Tom erkannte mich wieder.	टॉम ने मुझे फिर से पहचाना।
-Tom released Mary.	Tom ließ Maria frei.	टॉम ने मारिया फ्रीई को छोड़ दिया।
-Tom remained calm.	Tom blieb ruhig.	टॉम शांत रहे।
-Tom remained cool.	Tom blieb cool.	टॉम शांत रहे।
-Tom remembers you.	Tom erinnert sich an dich.	टॉम आपको याद करता है।
-Tom rented a room.	Tom mietete ein Zimmer.	टॉम ने एक कमरा किराए पर लिया।
-Tom rented a room.	Tom mietete sich ein Zimmer.	टॉम ने एक कमरा किराए पर लिया।
-Tom respects Mary.	Tom respektiert Maria.	टॉम मारिया का सम्मान करता है।
 Tom retired at 65.	Tom ging mit 65 in den Ruhestand.	टॉम 65 पर सेवानिवृत्त हुए।
 Tom retired at 65.	Tom ging mit fünfundsechzig in den Ruhestand.	टॉम साठ पर सेवानिवृत्त हुए।
 Tom returned fire.	Tom erwiderte das Feuer.	टॉम ने आग का जवाब दिया।
