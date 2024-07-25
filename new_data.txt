@@ -1780,3 +1780,10 @@ I'm chicken.	Ich bin Huhn.	मैं मुर्गा हूँ।
 I'm curious.	Ich bin neugierig.	मैं जिज्ञासु हूँ।
 I'm dancing.	Ich tanze.	मैं नाच रहा हूँ।
 I'm dieting.	Ich mache Diät.	मैं डाइट कर रहा हूँ।
+I'm fasting.	Ich faste.	मैं उपवास कर रहा हूँ।
+I'm finicky.	Ich bin pingelig.	मैं परिश्रमी जान से काम लेता हूँ।
+I'm healthy.	Ich bin gesund.	मैं स्वस्थ हूँ।
+I'm humming.	Ich summe.	मैं गुनगुना रहा हूँ।
+I'm in debt.	Ich bin verschuldet.	मेरा कर्ज़ है।
+I'm in here.	Ich bin hier drin.	मैं यहाँ हूँ।
+I'm in jail.	Ich bin im Gefängnis.	मैं जेल में हूँ।
