@@ -13833,3 +13833,11 @@ They're all dead.	Sie sind alle tot.	वे सभी मरे हुए है
 They're all good.	Sie sind alle gut.	वे सभी अच्छे हैं।
 They're brothers.	Sie sind Brüder.	वे भाइयों हैं।
 They're children.	Sie sind Kinder.	वे बच्चे हैं।
+They're doing OK.	Sie machen es gut.	वे ठीक कर रहे हैं।
+They're drenched.	Sie sind klatschnass.	उन्होंने भीगा हुआ है।
+They're fighting.	Sie kämpfen.	वे लड़ रहे हैं।
+They're harmless.	Sie sind harmlos.	वे हानि नहीं करते।
+They're laughing.	Sie lachen.	वे हंस रहे हैं।
+They're my books.	Das sind meine Bücher.	वे मेरी किताबें हैं।
+They're not good.	Das ist nicht gut.	वो अच्छे नहीं हैं।
+They're not here.	Sie sind nicht hier.	वे यहाँ नहीं हैं।
