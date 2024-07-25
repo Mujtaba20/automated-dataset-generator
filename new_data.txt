@@ -5651,3 +5651,10 @@ Do you hear me?	Hörst du mich?	क्या तुम मुझे सुनत
 Do you know it?	Weißt du es?	क्या तुम्हें पता है?
 Do you know me?	Kennst du mich?	क्या तुम मुझे जानते हो?
 Do you know us?	Kennen Sie uns?	क्या आप हमें जानते हैं?
+Do you like it?	Magst du es?	क्या आपको यह पसंद है?
+Do you like me?	Magst du mich?	क्या आप मुझे पसंद करते हैं?
+Do you love me?	Liebst du mich?	क्या आप मुझसे प्यार करते हैं?
+Do you mean us?	Meinst du uns?	क्या तुम हमें मानते हो?
+Do you miss it?	Vermisst du es?	क्या तुम्हें इसकी याद आती है?
+Do you miss me?	Vermisst du mich?	क्या तुम्हें मेरी याद आती है?
+Do you need me?	Brauchst du mich?	क्या तुम्हें मुझे जरुरत है?
