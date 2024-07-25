@@ -3290,3 +3290,13 @@ This is ugly.	Das ist hässlich.	यह बुरा है।
 This is ugly. (2nd meaning)	Das ist hässlich.	यह बुरी लग रही है।
 This'll help.	Das wird helfen.	यह मदद करेगा।
 This'll work.	Das wird funktionieren.	यह काम करेगा।
+Tom answered.	Tom antwortete.	टॉम ने जवाब दिया।
+Tom approved.	Tom genehmigte.	टॉम ने मंजूरी दी।
+Tom approves.	Tom stimmt zu.	टॉम स्वीकृत करता है।
+Tom approves. - Different meaning	Tom billigt.	टॉम स्वीकार करता है।
+Tom bit Mary.	Tom biss Mary.	टॉम ने मैरी को काटा।
+Tom broke in.	Tom brach ein.	टॉम अंदर घुस गया।
+Tom broke in. - Different meaning	Tom brach herein.	टॉम ने अंदर तोड़ दिया।
+Tom broke it.	Tom hat es kaputtgemacht.	टॉम ने यह तोड़ दिया।
+Tom broke it. - Different meaning	Tom hat es zerbrochen.	टॉम ने इसे तोड़ दिया।
+Tom built it.	Tom hat es gebaut.	टॉम ने यह बनाया।
