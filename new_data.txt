@@ -20640,3 +20640,10 @@ Give Tom the money.	Gib Tom das Geld.	टॉम को पैसे दो।
 Give it back to me.	Gib es mir zurück.	मुझे वापस करो।
 Give it to me, Tom.	Gib es mir, Tom.	मुझे दो, टॉम।
 Give me an example.	Gib mir ein Beispiel.	मुझे एक उदाहरण दो।
+Give me half of it.	Gib mir die Hälfte davon.	मुझे उसका आधा दो.
+Give me my glasses.	Gib mir meine Brille.	मेरी चश्मे मुझे दो।
+Give me some money.	Gib mir etwas Geld.	मुझे कुछ पैसे दो।
+Give me that money.	Gib mir das Geld.	उस पैसे को मुझे दो।
+Give me that thing.	Gib mir das Ding.	उस चीज को मुझे दो।
+Give me the number.	Gib mir die Nummer.	मुझे नंबर दो।
+Give me your knife.	Gib mir dein Messer.	अपनी चाकू मुझे दो।

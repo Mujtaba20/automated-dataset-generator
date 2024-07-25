@@ -1,14 +1,4 @@
 
-Give me half of it.	Gib mir die Hälfte davon.	मुझे इसका आधा हिस्सा दे दो।
-Give me half of it.	Geben Sie mir die Hälfte davon.	मुझे इसका आधा हिस्सा दे दो।
-Give me my glasses.	Gib mir meine Brille.	मुझे अपना चश्मा दो।
-Give me some money.	Gib mir etwas Geld.	मुझे कुछ पैसे दीजिये।
-Give me that money.	Gib mir das Geld.	मुझे पैसे दो।
-Give me that thing.	Gib mir das Ding.	मुझे वह बात दो।
-Give me the number.	Gib mir die Nummer.	मुझे नंबर दें।
-Give me your knife.	Gib mir dein Messer.	मुझे अपना चाकू दे दो।
-Give me your knife.	Geben Sie mir Ihr Messer.	मुझे अपना चाकू दे दो।
-Give me your knife.	Gebt mir euer Messer.	मुझे अपना चाकू दे दो।
 Give me your money!	Gib mir dein Geld!	मुझे अपने पैसे दे दो!
 Give me your money.	Gib mir dein Geld.	मुझे अपने पैसे दे दो।
 Give me your phone.	Gib mir dein Telefon!	मुझे अपना फ़ोन दे!
