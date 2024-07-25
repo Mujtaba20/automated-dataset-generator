@@ -18157,3 +18157,11 @@ They sang in tune.	Sie sangen im Einklang.	वे सुर में गा र
 They spoke French.	Sie sprachen Französisch.	उन्होंने फ्रेंच बोला।
 They tortured Tom.	Sie quälten Tom.	उन्होंने टॉम को पीड़ित किया।
 They want it back.	Sie mögen es zurück.	वे इसे वापस चाहते हैं।
+They want to come.	Sie wollen kommen.	वे आना चाहते हैं।
+They want to help.	Sie wollen helfen.	वे मदद करना चाहते हैं।
+They wanted proof.	Sie wollten einen Beweis.	उन्हें सबूत चाहिए था।
+They went fishing.	Sie gingen angeln.	वे मछली पकड़ने गए थे।
+They went outside.	Sie gingen nach draußen.	वे बाहर गए।
+They went surfing.	Sie gingen surfen.	वे सर्फिंग करने गए थे।
+They were engaged.	Sie waren verlobt.	वे संबंधित थे।
+They were friends.	Sie waren Freund.	वे दोस्त थे।

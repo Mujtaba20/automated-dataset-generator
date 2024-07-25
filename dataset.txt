@@ -1,14 +1,4 @@
 
-They want to come.	Sie wollen kommen.	आप आना चाहते हैं।
-They want to help.	Sie wollen helfen.	आप मदद करना चाहते हैं।
-They wanted proof.	Er wollte Beweise sehen.	वह सबूत देखना चाहता था।
-They went fishing.	Sie gingen fischen.	वे मछली पकड़ने गए।
-They went fishing.	Sie gingen angeln.	वे मछली पकड़ने गए।
-They went outside.	Sie gingen nach draußen.	वे बाहर गए।
-They went surfing.	Sie gingen wellenreiten.	वे लहर की सवारी करने गए।
-They went surfing.	Sie gingen surfen.	वे सर्फिंग गए।
-They were engaged.	Sie waren verlobt.	आप लगे हुए थे।
-They were friends.	Sie waren Freunde.	आप दोस्त थे।
 They were panting.	Sie keuchten.	वे चमकते हैं।
 They were perfect.	Sie waren perfekt.	वे परफेक्ट थे।
 They were shocked.	Sie waren schockiert.	वे हैरान थे।
