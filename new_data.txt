@@ -16906,3 +16906,12 @@ I want to see you.	Ich möchte dich sehen.	मैं तुम्हे दे�
 I want you to win.	Ich möchte, dass du gewinnst.	मैं चाहता हूँ कि तुम जीतो.
 I want your money.	Ich möchte dein Geld.	मुझे आपके पैसे चाहिए.
 I wanted a jacket.	Ich wollte eine Jacke.	मुझे एक जैकेट चाहिए थी।
+I wanted sympathy.	Ich suchte nach Mitgefühl.	मुझे सहानुभूति की चाह थी।
+I wanted the best.	Ich wollte das Beste.	मुझे सबसे अच्छा चाहिए था।
+I wanted to dance.	Ich wollte tanzen.	मुझे नृत्य करना था।
+I was a boy scout.	Ich war ein Pfadfinder.	मैं एक बॉय स्काउट था।
+I was a shy child.	Ich war ein schüchternes Kind.	मैं एक शर्मीला बच्चा था।
+I was an outsider.	Ich war ein Außenseiter.	मैं एक विदेशी था।
+I was brainwashed.	Ich wurde manipuliert.	मैंने मस्तिष्क धोखाधड़ी कर ली थी।
+I was deeply hurt.	Ich war tief verletzt.	मैं गहरी चोट खा चुका था।
+I was discouraged.	Ich war entmutigt.	मैंने हार मान ली थी।
