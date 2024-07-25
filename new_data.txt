@@ -964,3 +964,13 @@ I can come.	Ich kann kommen.	मैं आ सकता हूँ।
 I can cook.	Ich kann kochen.	मैं पका सकता हूं।
 I can jump.	Ich kann springen.	मैं कूद सकता हूँ।
 I can sing.	Ich kann singen.	मैं गा सकता हूं।
+I can stay.	Ich kann bleiben.	मैं रुक सकता हूँ।
+I can swim.	Ich kann schwimmen.	मैं तैर सकता हूँ।
+I can wait.	Ich kann warten.	मैं इंतजार कर सकता हूँ।
+I can't go.	Ich kann nicht gehen.	मैं नहीं जा सकता।
+I canceled.	Ich habe abgesagt.	मैंने रद्द कर दिया।
+I canceled. - Different meaning	Ich bin abgesprungen.	मैंने वापस ले लिया।
+I chew gum.	Ich kaue Kaugummi.	मैं गम चबाता हूँ।
+I disagree.	Ich bin anderer Meinung.	मैं असहमत हूँ।
+I disagree. - Different meaning	Ich widerspreche.	मैं मुतफ़िक नहीं हूँ।
+I drank it.	Ich habe es getrunken.	मैंने इसे पी लिया।
