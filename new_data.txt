@@ -5967,3 +5967,11 @@ I can hear you.	Ich kann dich hören.	मैं तुम्हें सुन 
 I can prove it.	Ich kann es beweisen.	मैं इसे साबित कर सकता हूँ।
 I can't get in.	Ich kann nicht rein.	मैं अंदर नहीं जा सकता।
 I can't get up.	Ich kann nicht aufstehen.	मैं उठ नहीं सकता।
+I can't see it.	Ich kann es nicht sehen.	मैं इसे नहीं देख सकता।
+I can't use it.	Ich kann es nicht benutzen.	मैं इसका उपयोग नहीं कर सकता।
+I changed that.	Ich habe das geändert.	मैंने वह बदल दिया।
+I cook for Tom.	Ich koche für Tom.	मैं टॉम के लिए खाना पकाता हूँ।
+I count on Tom.	Ich zähle auf Tom.	मैं टॉम पर निर्भर करता हूँ।
+I deserve more.	Ich verdiene mehr.	मुझे और अधिक मिलना चाहिए।
+I despised Tom.	Ich verabscheute Tom.	मैंने टॉम की नफ़रत की।
+I did warn you.	Ich habe dich gewarnt.	मैंने तुम्हें चेताया था।
