@@ -14681,3 +14681,13 @@ Tom tagged along.	Tom kam mit.	टॉम बंधने के साथ आय
 Tom teaches yoga.	Tom lehrt Yoga.	टॉम योग पढ़ाता है।
 Tom tickled Mary.	Tom kitzelte Mary.	टॉम ने मैरी को गुदगुदाया।
 Tom tires easily.	Tom ermüdet leicht.	टॉम आसानी से थक जाता है।
+Tom told me that.	Tom hat mir das gesagt.	टॉम ने मुझे यह कहा।
+Tom took a break.	Tom hat eine Pause gemacht.	टॉम ने रुकावट ली।
+Tom took the job.	Tom hat den Job übernommen.	टॉम ने काम लिया।
+Tom tormented me.	Tom hat mich gequält.	टॉम ने मुझे परेशान किया।
+Tom tries harder.	Tom versucht härter.	टॉम ज्यादा कोशिश करता है।
+Tom tries harder. - Different meaning	Tom probiert es härter.	टॉम ज्यादा मेहनत करता है।
+Tom trusted them.	Tom hat ihnen vertraut.	टॉम ने उन पर भरोसा किया।
+Tom turned right.	Tom bog rechts ab.	टॉम दाहिना मुड़ लिया।
+Tom turned white.	Tom wurde weiß.	टॉम सफेद हो गया।
+Tom usually wins.	Tom gewinnt normalerweise.	टॉम अक्सर जीतता है।
