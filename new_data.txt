@@ -14927,3 +14927,13 @@ Watch yourselves!	Passt auf euch auf!	खुद को देखो!
 Watch yourselves.	Beobachten Sie sich.	अपना ध्यान रखें।
 Water the plants.	Gießt die Pflanzen.	पौधों को पानी दे।
 We agree as well.	Wir stimmen auch zu.	हम भी सहमत हैं।
+We agree on that.	Wir stimmen dem zu.	हम उस पर सहमत हैं।
+We agree on this.	Wir sind uns darüber einig.	हम इस पर सहमत हैं।
+We all know that.	Wir alle wissen das.	हम सभी जानते हैं।
+We all know this.	Wir alle kennen das.	हम सभी इसे जानते हैं।
+We all need love.	Wir alle brauchen Liebe.	हमें सभी को प्यार की आवश्यकता है।
+We all trust you.	Wir alle vertrauen dir.	हम सभी तुम पर भरोसा करते हैं।
+We all trust you. 2	Wir alle haben Vertrauen in dich.	हम सभी तुम पर विश्वास करते हैं।
+We all trust you. 3	Wir alle setzen Vertrauen in dich.	हम सभी तुम पर भरोसा करते हैं।
+We aren't idiots.	Wir sind keine Idioten.	हम पागल नहीं हैं।
+We arrived first.	Wir sind zuerst angekommen.	हम पहले पहुंच गए।
