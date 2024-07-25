@@ -14399,3 +14399,11 @@ Tom isn't up yet.	Tom ist noch nicht aufgestanden.	टॉम अब तक उ�
 Tom just arrived.	Tom ist gerade angekommen.	टॉम अभी तक पहुंचा है।
 Tom just groaned.	Tom hat gerade gestöhnt.	टॉम अभी कराहा किया।
 Tom just laughed.	Tom hat gerade gelacht.	टॉम अभी हंसा।
+Tom just sneezed.	Tom hat gerade geniest.	टॉमने अभी चिहुँक ली।
+Tom just started.	Tom hat gerade angefangen.	टॉमने अभी शुरुआत की।
+Tom just told me.	Tom hat es mir gerade gesagt.	टॉमने मुझे अभी बताया।
+Tom just watched.	Tom hat gerade zugeschaut.	टॉमने अभी देखा।
+Tom just watches.	Tom schaut gerade.	टॉम अभी देख रहा है।
+Tom just woke up.	Tom ist gerade aufgewacht.	टॉम अभी जागा।
+Tom kept digging.	Tom grub weiterhin.	टॉमने जरा से पुरे पहलुवाला जारी रखा।
+Tom kept driving.	Tom fuhr weiter.	टॉमने चलाना जारी रखा।
