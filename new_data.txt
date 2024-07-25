@@ -8687,3 +8687,11 @@ I can't go back.	Ich kann nicht zurückgehen.	मैं वापस नही�
 I can't go home.	Ich kann nicht nach Hause gehen.	मैं घर नहीं जा सकता।
 I can't hear it.	Ich kann es nicht hören.	मैं इसे नहीं सुन सकता।
 I can't help it.	Ich kann nicht anders.	मैं कुछ नहीं कर सकता।
+I can't make it.	Ich kann es nicht machen.	मैं इसे नहीं बना सकता।
+I can't risk it.	Ich kann es nicht riskieren.	मैं इसे जोखिम में नहीं डाल सकता।
+I can't see Tom.	Ich kann Tom nicht erkennen.	मैं टॉम को पहचान नहीं सकता।
+I can't see you.	Ich kann dich nicht sehen.	मैं तुम्हें नहीं देख सकता।
+I can't undo it.	Ich kann es nicht rückgängig machen.	मैं इसे पूर्ववत कैंसल नहीं कर सकता।
+I caught a cold.	Ich habe eine Erkältung bekommen.	मुझे ठंडी लग गई।
+I caught a fish!	Ich habe einen Fisch gefangen!	मैंने एक मछली पकड़ि!
+I chose to stay.	Ich habe mich entschieden zu bleiben.	मैंने रहने का विकल्प चुना।
