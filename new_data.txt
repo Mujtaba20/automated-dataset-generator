@@ -1402,3 +1402,9 @@ Wood burns.	Holz brennt.	लकड़ी जलती है।
 You called?	Du hast angerufen?	तुमने बुलाया?
 You decide.	Du entscheidest.	तुम निर्णय करो।
 You may go.	Du kannst gehen.	तुम जा सकते हो।
+You missed.	Sie haben verfehlt.	तुमने गलती की।
+You owe me.	Du schuldest mir.	तुम्हें मुझसे कर्ज है।
+You're big.	Du bist groß.	तुम बड़े हो।
+You're old.	Sie sind alt.	तुम पुराने हो।
+You've won!	Du hast gewonnen!	तुमने विजय प्राप्त की है!
+All is well.	Alles ist gut.	सब ठीक है।
