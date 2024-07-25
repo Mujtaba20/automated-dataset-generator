@@ -712,3 +712,11 @@ Sit still.	Bleib ruhig sitzen.	शांत रहो।
 Sit there.	Sitz da.	वहाँ बैठो।
 Sit tight.	Sitz fest.	मजबूती से बैठो।
 Start now.	Jetzt anfangen.	अब शुरू करो।
+Stay away.	Halte dich fern.	दूर रहो।
+Stay back.	Bleib zurück.	पीछे रहो।
+Stay calm.	Bleib ruhig.	शांत रहो।
+Stay calm. (different meaning)	Kühl bleiben.	ठंडा रहो।
+Stay cool.	Cool bleiben.	ठंडा रहो।
+Stay cool. (different meaning)	Entspann dich.	ठंडा रहना।
+Stay cool. (different meaning 2)	Gelassen bleiben.	शांत रहना।
+Stay down!	Bleib unten!	नीचे रहो!
