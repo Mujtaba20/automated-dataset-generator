@@ -1727,3 +1727,10 @@ I was happy.	Ich war glücklich.	मैं खुश था।
 I was hired.	Ich wurde eingestellt.	मुझे नौकरी मिल गई थी।
 I was lucky.	Ich hatte Glück.	मैं भाग्यशाली था।
 I was lying.	Ich lag.	मैं झुट बोल रहा था।
+I was moved.	Ich wurde bewegt.	मैं हिला दिया गया था।
+I was naive.	Ich war naiv.	मैं अनुभव रहित था।
+I was ready.	Ich war bereit.	मैं तैयार था।
+I was there.	Ich war da.	मैं वहाँ था।
+I was tired.	Ich war müde.	मैं थका हुआ था।
+I was upset.	Ich war verärgert.	मैं उदास था।
+I was wrong.	Ich habe mich geirrt.	मैं गलत था।
