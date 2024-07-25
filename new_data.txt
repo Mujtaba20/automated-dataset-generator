@@ -7628,3 +7628,11 @@ Tom was caught.	Tom wurde erwischt.	टॉम पकड़ा गया था�
 Tom was clever.	Tom war geschickt.	टॉम होशियार था।
 Tom was crafty.	Tom war listig.	टॉम चालाक था।
 Tom was cranky.	Tom war mürrisch.	टॉम क्रैंकी था।
+Tom was crying.	Tom weinte laut.	टॉम रो रहा था।
+Tom was eating.	Tom aß.	टॉम खा रहा था।
+Tom was famous.	Tom war berühmt.	टॉम मशहूर था।
+Tom was framed.	Tom wurde hereingelegt.	टॉम को फ्रेम किया गया था।
+Tom was fuming.	Tom war wütend.	टॉम भड़क रहा था।
+Tom was gentle.	Tom war sanft.	टॉम नर्म था।
+Tom was greedy.	Tom war gierig.	टॉम लालची था।
+Tom was grumpy.	Tom war mürrisch.	टॉम उदास था।
