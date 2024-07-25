@@ -2943,3 +2943,13 @@ Is Tom blind?	Ist Tom blind?	क्या टॉम अंधा है?
 Is Tom crazy?	Ist Tom verrückt?	क्या टॉम पागल है?
 Is Tom drunk?	Ist Tom betrunken?	क्या टॉम नशे में है?
 Is Tom dying?	Stirbt Tom?	क्या टॉम मर रहा है?
+Is Tom happy?	Ist Tom glücklich?	क्या टॉम खुश है?
+Is Tom lucid?	Ist Tom klar?	क्या टॉम सुस्त है?
+Is Tom lying?	Lügt Tom?	क्या टॉम झूठ बोल रहा है?
+Is Tom ready?	Ist Tom bereit?	क्या टॉम तैयार है?
+Is Tom right?	Hat Tom recht?	क्या टॉम सही है?
+Is Tom there?	Ist Tom da?	क्या टॉम वहाँ है?
+Is it a deer?	Ist es ein Hirsch?	क्या यह हिरन है?
+Is it a wolf?	Ist es ein Wolf?	क्या यह एक भेड़िया है?
+Is it broken?	Ist es kaputt?	क्या यह टूटा हुआ है?
+Is it cancer?	Ist es Krebs?	क्या यह कैंसर है?
