@@ -1529,3 +1529,12 @@ He chuckled.	Er kicherte.	उसने खिलखिलाया।
 He found it.	Er hat es gefunden.	उसने यह मिला।
 He got away.	Er ist entkommen.	उसने बच निकला।
 He has come!	Er ist gekommen!	वह आ गया है!
+He has guts.	Er hat Mut.	उसमें हिम्मत है।
+He has wine.	Er hat Wein.	उसके पास शराब है।
+He helps us.	Er hilft uns.	वह हमें मदद करता है।
+He is alone.	Er ist allein.	वह अकेला है।
+He is eight.	Er ist acht.	वह आठ है।
+He is happy.	Er ist glücklich.	वह खुश है।
+He is hated.	Er wird gehasst.	उसे नफरत की जाती है।
+He is lying.	Er lügt.	वह झूठ बोल रहा है।
+He is young.	Er ist jung.	वह जवान है।
