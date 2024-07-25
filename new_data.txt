@@ -2280,3 +2280,13 @@ We'll share.	Wir werden teilen.	हम बाँटेंगे।
 We'll shoot.	Wir werden schießen.	हम गोली चलाएंगे।
 We'll stand.	Wir werden stehen.	हम खड़े रहेंगे।
 We'll start.	Wir werden anfangen.	हम शुरू करेंगे।
+We're alone.	Wir sind allein.	हम अकेले हैं।
+We're armed.	Wir sind bewaffnet.	हम हथियारबंद हैं।
+We're awake.	Wir sind wach.	हम जागरूक हैं।
+We're bored.	Uns ist langweilig.	हमें बोर है।
+We're broke.	Wir sind pleite.	हम गरीब हैं।
+We're clean.	Wir sind sauber.	हम साफ हैं।
+We're close.	Wir sind in der Nähe.	हम पास हैं।
+We're crazy.	Wir sind verrückt.	हम पागल हैं।
+We're dizzy.	Uns ist schwindlig.	हम चकरा रहे हैं।
+We're dying.	Wir sterben.	हम मर रहे हैं।
