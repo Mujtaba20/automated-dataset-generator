@@ -736,3 +736,10 @@ Thank you.	Danke.	धन्यवाद।
 That hurt.	Das hat wehgetan.	उसने दर्द दिया।
 That's OK.	Das ist in Ordnung.	वह सही है।
 That's it.	Das ist es.	बस इतना ही है।
+That's me.	Das bin ich.	वह मैं हूँ।
+Then what?	Und dann?	फिर क्या?
+They fell.	Sie fielen.	वे गिर गए।
+They lied.	Sie haben gelogen.	उन्होंने झूठ बोला।
+They lost.	Sie haben verloren.	उन्होंने हार गए।
+They swam.	Sie schwammen.	वे तैरे।
+Time's up.	Die Zeit ist um.	समय समाप्त हो गया है।
