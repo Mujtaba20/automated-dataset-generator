@@ -8001,3 +8001,13 @@ Wipe your nose.	Putz dir die Nase.	अपनी नाक पोंछो।
 Women hate Tom.	Frauen hassen Tom.	महिलाएँ टॉम से नफरत करती हैं।
 Women like Tom.	Frauen mögen Tom.	महिलाएँ टॉम को पसंद करती हैं।
 Women loved it.	Frauen liebten es.	महिलाएँ इसे पसंद करती थीं।
+Won't you sing?	Wirst du nicht singen?	क्या तुम नहीं गा रहे हो?
+Yes, I know it.	Ja, ich weiß es.	हां, मुझे पता है।
+Yes, of course.	Ja, natürlich.	हां, बिल्कुल।
+Yes, we can go.	Ja, wir können gehen.	हां, हम जा सकते हैं।
+You are morons.	Ihr seid Trottel.	तुम मूर्ख हो।
+You are morons. - Different Meaning	Ihr seid Idioten.	तुम बेवकूफ हो।
+You are stupid.	Du bist dumm.	तुम बेवकूफ हो।
+You aren't Tom.	Du bist nicht Tom.	तुम टॉम नहीं हो।
+You aren't fat.	Du bist nicht fett.	तुम मोटे नहीं हो।
+You aren't fat. - Different Meaning	Du bist schlank.	तुम मोटे नहीं हो।
