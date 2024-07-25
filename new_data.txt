@@ -4256,3 +4256,12 @@ I trusted Tom.	Ich vertraute Tom.	मैंने टॉम पर भरोस�
 I use Twitter.	Ich benutze Twitter.	मैं ट्विटर का उपयोग करता हूँ।
 I went to see Tom.	Ich ging, um Tom zu sehen.	मैंने टॉम से मिलने के लिए गया।
 I offered help willingly.	Ich bot bereitwillig Hilfe an.	मैंने स्वेच्छापूर्वक मदद की पेशकश की।
+I want a beer.	Ich möchte ein Bier.	मुझे एक बियर चाहिए।
+I want a book.	Ich möchte ein Buch.	मुझे एक किताब चाहिए।
+I want a pony.	Ich möchte ein Pony.	मुझे एक पोनी चाहिए।
+I want a pool.	Ich möchte einen Pool.	मुझे एक पूल चाहिए।
+I want it all.	Ich möchte alles.	मुझे सब कुछ चाहिए।
+I want it now.	Ich möchte es jetzt haben.	मुझे अभी चाहिए।
+I want my mom.	Ich will meine Mutter.	मुझे मेरी माँ चाहिए।
+I want to cry.	Ich möchte weinen.	मैं रोना चाहता/ चाहती हूँ।
+I want to die.	Ich möchte sterben.	मैं मरना चाहता/ चाहती हूँ।
