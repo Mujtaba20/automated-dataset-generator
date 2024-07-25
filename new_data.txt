@@ -12749,3 +12749,11 @@ I wasn't worried.	Ich habe mir keine Sorgen gemacht.	मैं चिंति�
 I wasn't yelling.	Ich habe nicht geschrien.	मैं चिल्ला नहीं रहा था।
 I will buy a car.	Ich werde ein Auto kaufen.	मैं एक कार खरीदूँगा।
 I will see to it.	Ich werde dafür sorgen.	मैं इस पर ध्यान दूँगा।
+I will shoot him.	Ich werde ihn erschießen.	मैं उसे गोली मार दूंगा।
+I will translate.	Ich werde übersetzen.	मैं अनुवाद करूंगा।
+I wish I'd known.	Ich wünschte, ich hätte gewusst.	मैं चाहता था कि मुझे पता होता।
+I won't be quiet.	Ich werde nicht ruhig sein.	मैं चुप नहीं रहूंगा।
+I won't be ready.	Ich werde nicht bereit sein.	मैं तैयार नहीं होऊँगा।
+I won't buy that.	Das werde ich nicht kaufen.	मैं वह नहीं खरीदूंगा।
+I won't help you.	Ich werde dir nicht helfen.	मैं आपकी मदद नहीं करूंगा।
+I won't hurt you.	Ich werde dich nicht verletzen.	मैं तुम्हें नहीं चोट पहुँचाऊँगा।
