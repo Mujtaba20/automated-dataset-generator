@@ -7031,3 +7031,13 @@ They look busy.	Sie sehen beschäftigt aus.	वे व्यस्त लग र
 They look cool.	Sie sehen cool aus.	वे शांत लग रहे हैं।
 They look good.	Sie sehen gut aus.	वे अच्छे लग रहे हैं।
 They love that.	Sie lieben das.	उन्हें वह पसंद है।
+They loved Tom.	Sie liebten Tom.	उन्होंने टॉम से प्यार किया।
+They loved you.	Sie liebten dich.	उन्होंने तुमसे प्यार किया।
+They loved you. - Different meaning	Sie haben dich geliebt.	उन्होंने तुम्हें पसंद किया।
+They need help.	Sie brauchen Hilfe.	उन्हें मदद की ज़रूरत है।
+They quarreled.	Sie stritten sich.	उन्होंने झगड़ा किया।
+They ruined it.	Sie haben es ruiniert.	उन्होंने यह बर्बाद कर दिया।
+They ruined it. - Different meaning	Sie haben es zerstört.	उन्होंने इसे नष्ट कर दिया।
+They said that.	Sie sagten das.	उन्होंने यह कहा।
+They seem busy.	Sie scheinen beschäftigt zu sein.	वे व्यस्त लगते हैं।
+They smell bad.	Sie riechen schlecht.	उनकी बदबू आती है।
