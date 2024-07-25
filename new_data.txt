@@ -5044,3 +5044,11 @@ Tom is lonely.	Tom ist einsam.	टॉम अकेला है।
 Tom is losing.	Tom verliert.	टॉम हार रहा है।
 Tom is loving.	Tom liebt.	टॉम प्यार कर रहा है।
 Tom is my boy.	Tom ist mein Junge.	टॉम मेरा बच्चा है।
+Tom is my dad.	Tom ist mein Vater.	टॉम मेरे पिता है।
+Tom is my kid.	Tom ist mein Kind.	टॉम मेरा बच्चा है।
+Tom is nearby.	Tom ist in der Nähe.	टॉम पास है।
+Tom is normal.	Tom ist normal.	टॉम सामान्य है।
+Tom is not in.	Tom ist nicht da.	टॉम अंदर नहीं है।
+Tom is now up.	Tom ist jetzt oben.	टॉम अब ऊपर है।
+Tom is paying.	Tom zahlt.	टॉम चुका रहा है।
+Tom is rested.	Tom hat sich ausgeruht.	टॉम आराम कर रहा है।
