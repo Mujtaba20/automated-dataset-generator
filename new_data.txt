@@ -13470,3 +13470,10 @@ Pump up the tire.	Luft aufpumpen.	टायर फुलाओ।
 Pump up the tire. (different meaning)	Reifen aufpumpen.	टायर उठाओ।
 Put on your coat.	Zieh deinen Mantel an.	अपनी कोट पहनो।
 Put the box down.	Stellen Sie die Box ab.	बक्सा नीचे रखें।
+Put the gun down.	Leg die Pistole ab.	बंदूक नीचे रखो।
+Quit complaining.	Hör auf zu klagen.	शिकायत करना बंद करो।
+Quit touching me.	Hör auf mich anzufassen.	मुझे छूने से बाज आओ।
+Rabbits can swim.	Kaninchen können schwimmen.	खरगोश तैर सकते हैं।
+Rain is unlikely.	Regen ist unwahrscheinlich.	बारिश संभावना से कम है।
+Raise your hands.	Strecken Sie Ihre Hände hoch.	अपने हाथ ऊपर करो।
+Read that for me.	Lies das für mich.	मेरे लिए इसे पढ़ो।
