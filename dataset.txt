@@ -1,14 +1,4 @@
 
-We were gardening.	Wir haben im Garten gearbeitet.	हमने बगीचे में काम किया।
-We were in Boston.	Wir waren in Boston.	हम बोस्टन में थे।
-We were incorrect.	Wir hatten unrecht.	हम गलत थे।
-We were neighbors.	Wir waren Nachbarn.	हम पड़ोसी थे।
-We were prisoners.	Wir waren Gefangene.	हम कैदी थे।
-We were very busy.	Wir waren sehr beschäftigt.	हम बहुत व्यस्त थे।
-We weren't scared.	Wir hatten keine Angst.	हम डरते नहीं थे।
-We won the battle.	Wir haben die Schlacht gewonnen.	हमने लड़ाई जीत ली।
-We'd like to help.	Wir würden gerne helfen.	हम मदद करना चाहेंगे।
-We'll be too late.	Wir werden uns verspäten.	हमें देरी होगी।
 We'll consult Tom.	Wir werden Tom fragen.	हम टॉम से पूछेंगे।
 We'll consult Tom.	Wir werden Tom befragen.	हम टॉम से पूछेंगे।
 We'll consult Tom.	Wir werden Tom konsultieren.	हम टॉम से परामर्श करेंगे।

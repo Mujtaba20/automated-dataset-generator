@@ -19595,3 +19595,13 @@ We wanted dessert.	Wir wollten Nachtisch.	हमें मिठाई चाह
 We went to Boston.	Wir sind nach Boston gegangen.	हम बॉस्टन गए।
 We were all tired.	Wir waren alle müde.	हम सभी थक गए थे।
 We were all wrong.	Wir lagen alle falsch.	हम सभी गलत थे।
+We were gardening.	Wir waren am Gärtnern.	हम बागवानी कर रहे थे।
+We were in Boston.	Wir waren in Boston.	हम बॉस्टन में थे।
+We were incorrect.	Wir lagen falsch.	हम गलत थे।
+We were neighbors.	Wir waren Nachbarn.	हम पड़ोसी थे।
+We were prisoners.	Wir waren Gefangene.	हम कैदी थे।
+We were very busy.	Wir waren sehr beschäftigt.	हम बहुत व्यस्त थे।
+We weren't scared.	Wir hatten keine Angst.	हम डरे नहीं थे।
+We won the battle.	Wir haben die Schlacht gewonnen.	हमने युद्ध जीता।
+We'd like to help.	Wir möchten helfen.	हम मदद करना चाहेंगे।
+We'll be too late.	Wir werden zu spät sein.	हम बहुत देर से पहुंचेंगे।
