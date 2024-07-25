@@ -5413,3 +5413,12 @@ Who responded?	Wer hat geantwortet?	किसने प्रतिक्रि�
 Who said that?	Wer hat das gesagt?	किसने यह कहा?
 Who says that?	Wer sagt das?	कौन कहता है?
 Who sent this?	Wer hat das geschickt?	किसने यह भेजा?
+Who succeeded?	Wer hat Erfolg gehabt?	किसने सफलता प्राप्त की?
+Who wants tea?	Wer möchte Tee?	कौन चाय चाहता है?
+Who was right?	Wer hatte Recht?	किसकी सही थी?
+Who's dieting?	Wer macht Diät?	कौन डाइटिंग कर रहा है?
+Who's fasting?	Wer fastet?	कौन उपवास कर रहा है?
+Who's humming?	Wer summt?	कौन गुनगुना रहा है?
+Who's missing?	Wer fehlt?	कौन गायब है?
+Who's staying?	Wer bleibt?	कौन रुका है?
+Who's talking?	Wer spricht?	कौन बात कर रहा है?
