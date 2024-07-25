@@ -15863,3 +15863,11 @@ Everything is bad.	Alles ist schlecht.	सब कुछ बुरा है।
 Everything is new.	Alles ist neu.	सब कुछ नया है।
 Everything's fine.	Alles ist in Ordnung.	सब कुछ ठीक है।
 Everything's free.	Alles ist kostenlos.	सब कुछ मुफ्त है।
+Everything's gone.	Alles ist weg.	सब कुछ चला गया है।
+Feel free to stay.	Fühlen Sie sich frei zu bleiben.	रहने के लिए मुक्त महसूस करें।
+Fire up the grill.	Feuer den Grill an.	ग्रिल को जलाओ।
+Fish is expensive.	Fisch ist teuer.	मछली महंगी है।
+Forget about that.	Vergiss das.	उसके बारे में भूल जाओ।
+Forget about this.	Vergiss das hier.	इसका भूल जाओ।
+Frogs eat insects.	Frösche fressen Insekten.	मेंढक मच्छर खाते हैं।
+Fry an egg for me.	Brate ein Ei für mich.	मेरे लिए एक अंडा तलो।
