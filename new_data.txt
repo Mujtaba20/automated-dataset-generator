@@ -277,3 +277,6 @@ Cool off!	Abkühlen!	शांत हो जाओ!
 Cuff him.	Verhaften ihn.	उसको हाथकड़ी पहना लो।
 Don't go.	Nicht weggehen.	मत जाओ।
 Drive on.	Weiterfahren.	आगे चलो।
+Find Tom.	Finde Tom.	टॉम को ढूंढो।
+Find Tom. (alternative meaning)	Suche nach Tom.	तोम को खोजो।
+Fix this.	Repariere das.	इसे ठीक करो।
