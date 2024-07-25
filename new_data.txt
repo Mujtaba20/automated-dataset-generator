@@ -10467,3 +10467,12 @@ Tom is relieved.	Tom ist erleichtert.	टॉम को आराम मिला
 Tom is reserved.	Tom ist zurückhaltend.	टॉम अंतर्द्वन्द्वी है।
 Tom is resolute.	Tom ist entschlossen.	टॉम दृढ़ निश्चय वाला है।
 Tom is restless.	Tom ist ruhelos.	टॉम बेचैन है।
+Tom is retiring.	Tom geht in den Ruhestand.	टॉम सेवानिवृत्त हो रहा है।
+Tom is rich now.	Tom ist jetzt reich.	टॉम अब धनवान है।
+Tom is romantic.	Tom ist romantisch.	टॉम रोमांटिक है।
+Tom is ruthless.	Tom ist rücksichtslos.	टॉम क्रूर है।
+Tom is safe now.	Tom ist jetzt sicher.	टॉम अब सुरक्षित है।
+Tom is sensible.	Tom ist vernünftig.	टॉम समझदार है।
+Tom is shopping.	Tom geht einkaufen.	टॉम खरीदारी कर रहा है।
+Tom is sick now.	Tom ist jetzt krank.	टॉम अब बीमार है।
+Tom is sickened.	Tom ist angewidert.	टॉम को उबकाई आ रही है।
