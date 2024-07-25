@@ -700,3 +700,8 @@ Repeat it.	Wiederholen Sie es.	इसे बार-बार दोहराए�
 Say hello.	Sag Hallo.	नमस्कार कहो।
 See below.	Siehe unten.	नीचे देखें।
 Seize him!	Greif ihn dir!	उसे पकड़ें!
+Seriously?	Ernsthaft?	वास्तव में?
+She cried.	Sie weinte.	उसने रो दिया।
+She tried.	Sie versuchte.	उसने कोशिश की।
+She walks.	Sie geht.	वह चलती है।
+She's hot.	Sie ist heiß.	वह गर्म है।
