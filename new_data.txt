@@ -8420,3 +8420,8 @@ Give it up, Tom.	Gib es auf, Tom.	इसे छोड़ दो, टॉम।
 Give me a drink.	Gib mir etwas zu trinken.	मुझे पेय दो।
 Give me my beer.	Gib mir mein Bier.	मेरी बीयर दो।
 Give me the gun.	Gib mir die Waffe.	मुझे गन दो।
+Give me the key.	Gib mir den Schlüssel.	मुझे चाभी दो।
+Give that to me.	Gib mir das.	मुझे वह दे दो।
+Give them money.	Gib ihnen Geld.	उन्हें पैसे दो।
+Give them to me.	Gib sie mir.	मुझे उन्हें दो।
+Give us a break.	Gib uns eine Pause.	हमें रुक्सत करो।
