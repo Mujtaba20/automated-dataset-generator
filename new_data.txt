@@ -417,3 +417,8 @@ Trust me. - Different Meaning	Glaub mir.	मेरे विश्वास म�
 Trust me. - Different Meaning2	Vertraut mir.	मुझे विश्वास करो।
 Try hard.	Versuchs schwer.	मेहनत करो।
 Try some.	Probier etwas.	कुछ कोशिश करो।
+Try this.	Versuch das.	इसको आजमाओ।
+Use this.	Benutze das.	इसका इस्तेमाल करो।
+Warn Tom.	Hüte dich vor Tom.	टॉम को चेताना।
+Watch me.	Schau mir zu.	मुझे निगाहें न खिंचो।
+Watch us.	Lasst uns zusehen.	हमें देखने दो।
