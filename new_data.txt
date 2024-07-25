@@ -13349,3 +13349,10 @@ My father smokes.	Mein Vater raucht.	मेरे पिताजी धूम�
 My feet are numb.	Meine Füße sind taub.	मेरे पैर सुन्न हैं।
 My glass is full.	Mein Glas ist voll.	मेरा गिलास भरा हुआ है।
 My goldfish died.	Mein Goldfisch ist gestorben.	मेरा सोने का मछली मर गया।
+My hair is curly.	Mein Haar ist lockig.	मेरे बाल कुड़राते हैं।
+My house is tiny.	Mein Haus ist winzig.	मेरा घर छोटा है।
+My inbox is full.	Mein Posteingang ist voll.	मेरा इनबॉक्स भरा हुआ है।
+My job is boring.	Mein Job ist langweilig.	मेरा काम उबाऊ है।
+My legs are sore.	Meine Beine sind wund.	मेरी टांगें टेढ़ी मेढ़ी हैं।
+My mother is out.	Meine Mutter ist weg.	मेरी माँ बाहर गई है।
+My mouth was dry.	Mein Mund war trocken.	मेरा मुँह सूखा था।
