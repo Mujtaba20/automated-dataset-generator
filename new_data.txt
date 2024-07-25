@@ -8224,3 +8224,12 @@ Can you hear us?	Können Sie uns hören?	क्या आप हमें सु
 Can you help me?	Kannst du mir helfen?	क्या तुम मेरी मदद कर सकते हो?
 Can you help us?	Könnt ihr uns unterstützen?	क्या आप हमें मदद कर सकते हैं?
 Can you open it?	Kannst du es aufmachen?	क्या आप इसे खोल सकते हैं?
+Can you read it?	Kannst du es lesen?	क्या आप इसे पढ़ सकते हैं?
+Can you see Tom?	Können Sie Tom sehen?	क्या आप टॉम को देख सकते हैं?
+Can you see Tom? (different meaning)	Kannst du Tom sehen?	क्या आप टॉम को देख सकते हैं?
+Can you show me?	Kannst du es mir zeigen?	क्या आप मुझे दिखा सकते हैं?
+Can you show me? (different meaning)	Können Sie mir etwas zeigen?	क्या आप मुझे कुछ दिखा सकते हैं?
+Can you skip me?	Können Sie mich überspringen?	क्या आप मुझे छोड़ सकते हैं?
+Can you stop it?	Kannst du es stoppen?	क्या तुम इसे रोक सकते हो?
+Can you whistle?	Können Sie pfeifen?	क्या आप सीटी बजा सकते हैं?
+Can you whistle? (different meaning)	Kannst du pfeifen?	क्या तुम सीटी बजा सकते हो?
