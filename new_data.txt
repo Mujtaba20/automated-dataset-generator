@@ -4065,3 +4065,12 @@ I fed the dog.	Ich habe den Hund gefüttert.	मैंने कुत्ते 
 I feel guilty.	Ich fühle mich schuldig.	मुझे अपराधी महसूस हो रहा है।
 I feel it now.	Ich spüre es jetzt.	मुझे अब महसूस हो रहा है।
 I feel my age.	Ich fühle mich so alt.	मैं इतना बूढ़ा महसूस करता हूँ।
+I feel queasy.	Mir ist übel.	मुझे बीमार सा लग रहा है।
+I feel strong.	Ich fühle mich stark.	मैं मजबूत महसूस कर रहा हूँ।
+I feel stupid.	Ich fühle mich dumm.	मुझे बेवकूफ महसूस हो रहा है।
+I fell asleep.	Ich bin eingeschlafen.	मैं सो गया था।
+I felt guilty.	Ich fühlte mich schuldig.	मुझे अपराधी महसूस हुआ।
+I felt hungry.	Ich fühlte mich hungrig.	मुझे भूख लगी थी।
+I felt lonely.	Ich fühlte mich allein.	मैं अकेला महसूस कर रहा था।
+I forgave Tom.	Ich habe Tom vergeben.	मैंने टॉम को माफ कर दिया।
+I found these.	Ich habe diese gefunden.	मैंने ये पाए।
