@@ -11293,3 +11293,9 @@ Who's your aunt?	Wer ist deine Tante?	तुम्हारी चाची क�
 Whose are these?	Wem gehören diese?	ये किसके हैं?
 Why are we here?	Warum sind wir hier?	हम यहाँ क्यों हैं?
 Why are we poor?	Wieso sind wir arm?	हम गरीब क्यों हो रहें हैं?
+Why are you mad?	Warum bist du wütend?	तुम गुस्से क्यों हो?
+Why are you sad?	Warum bist du traurig?	तुम उदास क्यों हो?
+Why are you sad? Why did Tom lie?	Warum lügt Tom?	टॉम क्यों झूठ बोलता है?
+Why did Tom win?	Warum hat Tom gewonnen?	टॉम ने क्यों जीता?
+Why did you ask?	Warum hast du gefragt?	तुमने क्यों पूछा?
+Why did you cry?	Warum hast du geweint?	तुमने क्यों रोया?
