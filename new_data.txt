@@ -15577,3 +15577,8 @@ Boston is my home.	Boston ist mein Zuhause.	बोस्टन मेरा घ�
 Boys will be boys.	Jungs werden Jungs sein.	लड़के लड़के होंगे।
 Breathe in deeply.	Tief einatmen.	गहरी साँस लेना।
 Bring me my shoes.	Bring mir meine Schuhe.	मेरे जूते लाओ।
+Bugs fascinate me.	Käfer faszinieren mich.	कीड़े मुझे मोहित करते हैं।
+Call an ambulance.	Rufen Sie einen Krankenwagen an.	किसी अम्बुलेंस को बुलाओ।
+Call her tomorrow.	Ruf sie morgen an.	कल उससे बात करो।
+Call the hospital.	Rufen Sie das Krankenhaus an.	अस्पताल को फ़ोन करें।
+Call your brother.	Ruf deinen Bruder an.	अपने भाई को कॉल करें।
