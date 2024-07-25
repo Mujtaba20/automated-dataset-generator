@@ -12475,3 +12475,11 @@ I know the truth.	Ich kenne die Wahrheit.	मुझे सच्चाई पत
 I know this joke.	Ich kenne diesen Witz.	मुझे यह मजाक पता है।
 I know what's up.	Ich weiß, was los ist.	मुझे पता है क्या हो रहा है।
 I know who he is.	Ich weiß, wer er ist.	मुझे पता है वह कौन है।
+I know your name.	Ich weiß deinen Namen.	मेरे पास आपका नाम है।
+I know your type.	Ich kenne deine Art.	मैं आपके प्रकार को जानता हूं।
+I led the attack.	Ich führte den Angriff.	मैंने हमला चालू किया।
+I left a message.	Ich habe eine Nachricht hinterlassen.	मैंने एक संदेश छोड़ दिया।
+I left the house.	Ich habe das Haus verlassen.	मैंने घर छोड़ दिया।
+I let in the cat.	Ich habe die Katze reingelassen.	मैंने बिल्ली को अंदर आने दिया।
+I let the cat in.	Ich habe die Katze reingelassen.	मैंने बिल्ली को अंदर आने दिया।
+I like Australia.	Ich mag Australien.	मुझे ऑस्ट्रेलिया पसंद है।
