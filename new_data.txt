@@ -17740,3 +17740,12 @@ She heard him cry.	Sie hörte ihn weinen.	उसने उसे विलाप
 She is aggressive.	Sie ist aggressiv.	वह हमलावर मनोवृत्ति वाली है।
 She is attractive.	Sie ist attraktiv.	वह आकर्षक है।
 She is dear to me.	Sie ist mir lieb.	वह मेरे लिए प्यारी है।
+She is getting on.	Sie ist am Weiterkommen.	वह आगे बढ़ रही है।
+She is her friend.	Sie ist ihre Freundin.	वह अपनी दोस्त है।
+She is his friend.	Sie ist seine Freundin.	वह उसकी दोस्त है।
+She is not up yet.	Sie ist noch nicht auf.	वह अभी तक ऊपर नहीं है।
+She is thirty-one.	Sie ist einunddreißig.	वह इकत्तीस साल की है।
+She is unsociable.	Sie ist ungesellig.	वह असामाजिक है।
+She isn't married.	Sie ist nicht verheiratet.	वह शादीशुदा नहीं है।
+She isn't running.	Sie läuft nicht.	वह नहीं दौड़ रही है।
+She keeps secrets.	Sie bewahrt Geheimnisse.	वह राज रखती है।
