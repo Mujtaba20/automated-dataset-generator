@@ -6531,3 +6531,13 @@ Is it worth it?	Ist es das wert?	क्या यह लायक है?
 Is she at home?	Ist sie zu Hause?	क्या वह घर पर है?
 Is she married?	Ist sie verheiratet?	क्या वह शादीशुदा है?
 Is that OK now?	Ist das jetzt in Ordnung?	क्या अब सब ठीक है?
+Is that a bear?	Ist das ein Bär?	क्या वह एक भालू है?
+Is that a bird?	Ist das ein Vogel?	क्या वह एक पक्षी है?
+Is that a hint?	Ist das ein Hinweis?	क्या वह एक संकेत है?
+Is that a mole?	Ist das ein Maulwurf?	क्या वह एक गेद़ी है?
+Is that a wolf?	Ist das ein Wolf?	क्या वह एक भेड़िया है?
+Is that coffee?	Ist das Kaffee?	क्या यह कॉफ़ी है?
+Is that enough?	Ist das genug?	क्या यह पर्याप्त है?
+Is that for me?	Ist das für mich?	क्या यह मेरे लिए है?
+Is that my hat?	Ist das mein Hut?	क्या यह मेरी टोपी है?
+Is that my mug?	Ist das meine Tasse?	क्या यह मेरी मग है?
