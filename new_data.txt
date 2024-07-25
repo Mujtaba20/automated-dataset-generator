@@ -8198,3 +8198,11 @@ Can I get a bag?	Kann ich eine Tasche bekommen?	क्या मुझे एक
 Can I get a dog?	Kann ich einen Hund bekommen?	क्या मुझे एक कुत्ता मिल सकता है?
 Can I keep this?	Kann ich das behalten?	क्या मैं इसे रख सकता हूँ?
 Can I leave now?	Kann ich jetzt gehen?	क्या मैं अब जा सकता हूँ?
+Can I order one?	Kann ich eins bestellen?	क्या मैं एक ऑर्डर कर सकता हूँ?
+Can I pay later?	Kann ich später bezahlen?	मैं बाद में पैसे दे सकता हूँ?
+Can I sit there?	Kann ich dort sitzen?	क्या मैं वहाँ बैठ सकता हूँ?
+Can I tag along?	Kann ich mitkommen?	क्या मैं साथ चल सकता हूँ?
+Can I trust Tom?	Kann ich Tom vertrauen?	क्या मैं टॉम पर भरोसा कर सकता हूँ?
+Can I work here?	Kann ich hier arbeiten?	क्या मैं यहाँ काम कर सकता हूँ?
+Can Tom do that?	Kann Tom das machen?	क्या टॉम वह कर सकता है?
+Can Tom help us?	Kann Tom uns helfen?	क्या टॉम हमें मदद कर सकता है?
