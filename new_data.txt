@@ -14096,3 +14096,12 @@ Tom has problems.	Tom hat Probleme.	टॉम के पास समस्य�
 Tom has resigned.	Tom hat gekündigt.	टॉम ने इस्तीफा दिया है।
 Tom has returned.	Tom ist zurückgekehrt.	टॉम वापस आ गया है।
 Tom has the keys.	Tom hat die Schlüssel.	टॉम के पास चाबियाँ हैं।
+Tom has to do it.	Tom muss es tun.	टॉम को यह करना है।
+Tom has two DUIs.	Tom hat zwei Fahruntüchtigkeiten.	टॉम के पास दो डीयूआई हैं।
+Tom has two cars.	Tom hat zwei Autos.	टॉम के पास दो कार हैं।
+Tom has two cats.	Tom hat zwei Katzen.	टॉम के पास दो बिल्लियां हैं।
+Tom hated Boston.	Tom hasste Boston.	टॉम नफरत करता था बोस्टन से।
+Tom hated school.	Tom hasste die Schule.	टॉम नफरत करता था स्कूल से।
+Tom hates olives.	Tom hasst Oliven.	टॉम को जैतून से नफरत है।
+Tom hates onions.	Tom hasst Zwiebeln.	टॉम को प्याज से नफरत है।
+Tom hates sports.	Tom hasst Sport.	टॉम को खेलों से नफरत है।
