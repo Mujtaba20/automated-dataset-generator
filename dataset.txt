@@ -1,14 +1,4 @@
 
-Who would do that?	Wer würde das tun?	वह कौन करेगा?
-Who would do this?	Wer würde das tun?	वह कौन करेगा?
-Who's at the door?	Wer ist an der Tür?	दरवाजे पर कौन है?
-Who's responsible?	Wer ist verantwortlich?	कौन जिम्मेदार है?
-Who's responsible?	Wer trägt die Verantwortung?	कौन जिम्मेदार है?
-Who's that maniac?	Wer ist dieser Irre?	यह पागल कौन है?
-Who's the new guy?	Wer ist der Neue?	नया कौन है?
-Who's your lawyer?	Wer ist Ihr Anwalt?	आपका वकील कौन है?
-Who's your lawyer?	Wer ist dein Anwalt?	आपका वकील कौन है?
-Who's your lawyer?	Wer ist euer Anwalt?	आपका वकील कौन है?
 Whose bed is that?	Wessen Bett ist das?	वह किसका बिस्तर है?
 Whose car is that?	Wessen Auto ist das?	वह किसकी कार है?
 Whose car is that?	Wem gehört dieses Auto?	इस कार का मालिक कौन है?

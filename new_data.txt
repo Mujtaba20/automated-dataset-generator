@@ -19904,3 +19904,10 @@ Who says Tom knew?	Wer sagt, dass Tom wusste?	कौन कहता है क�
 Who sent you that?	Wer hat dir das geschickt?	तुम्हें उसे किसने भेजा?
 Who speaks French?	Wer spricht Französisch?	कौन फ्रेंच बोलता है?
 engSentence	{'Who swam with Tom?': 'Wer ist mit Tom geschwommen?', 'Who told Tom that?': 'Wer hat das Tom gesagt?', 'Who told you that?': 'Wer hat dir das gesagt?', 'Who voted for him?': 'Wer hat für ihn gestimmt?', 'Who wants cookies?': 'Wer will Kekse?', 'Who wants popcorn?': 'Wer möchte Popcorn?', 'Who wants to know?': 'Wer möchte wissen?', 'Who was Mona Lisa?': 'Wer war Mona Lisa?'}	{'Who swam with Tom?': 'तोम के साथ कौन तैरा?', 'Who told Tom that?': 'उसने तोम को ये कौन बताया?', 'Who told you that?': 'तुम्हें ये किसने कहा?', 'Who voted for him?': 'उसके लिए किसने वोट दिया?', 'Who wants cookies?': 'कौन कुकीज़ चाहता है?', 'Who wants popcorn?': 'किसे पॉपकॉर्न चाहिए?', 'Who wants to know?': 'कौन जानना चाहता है?', 'Who was Mona Lisa?': 'मोना लिसा कौन थी?'}
+Who would do that?	Wer würde das tun?	कौन ऐसा करेगा?
+Who would do this?	Wer würde das machen?	कौन यह करेगा?
+Who's at the door?	Wer ist an der Tür?	दरवाज़े पर कौन है?
+Who's responsible?	Wer ist verantwortlich?	कौन जिम्मेदार है?
+Who's that maniac?	Wer ist dieser Verrückte?	वह पागल कौन है?
+Who's the new guy?	Wer ist der Neue?	नया व्यक्ति कौन है?
+Who's your lawyer?	Wer ist dein Anwalt?	तुम्हारा वकील कौन है?
