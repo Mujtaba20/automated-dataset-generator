@@ -11299,3 +11299,12 @@ Why are you sad? Why did Tom lie?	Warum lügt Tom?	टॉम क्यों झ
 Why did Tom win?	Warum hat Tom gewonnen?	टॉम ने क्यों जीता?
 Why did you ask?	Warum hast du gefragt?	तुमने क्यों पूछा?
 Why did you cry?	Warum hast du geweint?	तुमने क्यों रोया?
+Why did you lie?	Warum hast du gelogen?	तुमने क्यों झूठ बोला?
+Why do we dream?	Warum träumen wir?	हम क्यों सपने देखते हैं?
+Why do you work?	Warum arbeitest du?	तुम क्यों काम करते हो?
+Why do you work? (alternate meaning)	Warum betreibst du das?	तुम क्यों यह काम करते हो?
+Why is Tom back?	Warum ist Tom zurück?	टॉम वापस क्यों आया है?
+Why is Tom here?	Warum ist Tom hier?	टॉम यहाँ क्यों है?
+Why is Tom home?	Warum ist Tom zu Hause?	टॉम घर पर क्यों है?
+Why is it there?	Warum ist es dort?	यहाँ क्यों है?
+Why is it there? (alternate meaning)	Warum steht es dort?	वहाँ क्यों है?
