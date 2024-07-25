@@ -8461,3 +8461,12 @@ He can run fast.	Er kann schnell laufen.	वह तेज चल सकता �
 He can't be ill.	Er kann nicht krank sein.	वह बीमार नहीं हो सकता।
 He did his duty.	Er erfüllte seine Pflicht.	उसने अपना कर्तव्य निभाया।
 He did not come.	Er kam nicht.	वह नहीं आया।
+He drank a beer.	Er trank ein Bier.	उसने एक बीयर पिया।
+He drinks a lot.	Er trinkt viel.	वह बहुत सारा पीता है।
+He felt at home.	Er fühlte sich zu Hause.	उसे घर में महसूस हुआ।
+He gave up hope.	Er gab die Hoffnung auf.	उसने आशा छोड़ दी।
+He gets up at 7.	Er steht um 7 Uhr auf.	वह सात बजे उठता है।
+He got into bed.	Er stieg ins Bett.	उसने बिस्तर में आ गया।
+He got the ball.	Er bekam den Ball.	उसने गेंद पकड़ी।
+He got very mad.	Er wurde sehr wütend.	उसने बहुत गुस्सा किया।
+He had a stroke.	Er hatte einen Schlaganfall.	उसे लकवा हो गया।
