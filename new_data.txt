@@ -6331,3 +6331,12 @@ I'll change it.	Ich werde es ändern.	मैं इसे बदल दूँग
 I'll come back.	Ich komme zurück.	मैं वापस आऊंगा।
 I'll come down.	Ich werde herunterkommen.	मैं नीचे आऊंगा।
 I'll come home.	Ich werde nach Hause kommen.	मैं घर आऊंगा।
+I'll come over.	Ich komme vorbei.	मैं आ रहा हूँ।
+I'll come, too.	Ich komme auch.	मैं भी आऊँगा।
+I'll do it now.	Ich werde es jetzt machen.	मैं अब यह करूँगा।
+I'll get a cab.	Ich werde ein Taxi nehmen.	मैं एक कैब लंदनेवाला हूँ।
+I'll get ready.	Ich werde mich fertig machen.	मैं तैयार हो जाऊँगा।
+I'll get these.	Ich werde diese bekommen.	मैं यहाँ लेआऊंगा।
+I'll get to it.	Ich werde dazu kommen.	मैं इस पर पहुँचूँगा।
+I'll go by bus.	Ich werde mit dem Bus fahren.	मैं बस से चला जाऊँगा।
+I'll go by car.	Ich werde mit dem Auto fahren.	मैं गाड़ी से जाऊँगा।
