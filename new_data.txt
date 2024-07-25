@@ -13809,3 +13809,10 @@ They spotted Tom.	Sie entdeckten Tom.	उन्होंने टॉम को 
 They stood there.	Sie standen dort.	वे वहां खड़े थे।
 They thanked God.	Sie dankten Gott.	उन्होंने भगवान का धन्यवाद किया।
 They trusted Tom.	Sie vertrauten Tom.	उन्होंने टॉम पर भरोसा किया।
+They trusted you.	Sie vertrauten dir.	उन्होंने तुम्हें विश्वास किया।
+They were afraid.	Sie hatten Angst.	उन्हें डर था।
+They were asleep.	Sie schliefen.	वे सो रहे थे।
+They were closed.	Sie waren geschlossen.	वे बंद थे।
+They were hungry.	Sie hatten Hunger.	उन्हें भूख लगी थी।
+They were skiing.	Sie waren beim Skifahren.	वे स्की कर रहे थे।
+They will return.	Sie kehren zurück.	वे वापस आयेंगे।
