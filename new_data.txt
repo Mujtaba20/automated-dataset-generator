@@ -12711,3 +12711,12 @@ I want to resign.	Ich möchte zurücktreten.	मैं इस्तीफा द
 I want to see it.	Ich möchte es sehen.	मैं इसे देखना चाहता हूं।
 I want us to win.	Ich möchte, dass wir gewinnen.	मैं चाहता हूं कि हम जीतें।
 I want vengeance.	Ich möchte Rache.	मुझे प्रतिशोध चाहिए।
+I want your love.	Ich möchte deine Liebe.	मुझे तुम्हारा प्यार चाहिए।
+I wanted to quit.	Ich wollte aufhören.	मुझे छोड़ना था।
+I was a bit late.	Ich war ein bisschen spät dran.	मैं थोड़ा देर से था।
+I was a rich man.	Ich war ein reicher Mann.	मैं एक धनी आदमी था।
+I was astonished.	Ich war erstaunt.	मुझे चौंका दिया।
+I was born there.	Ich wurde dort geboren.	मैं वहाँ पैदा हुआ था।
+I was devastated.	Ich war am Boden zerstört.	मेरा पूरा मनोबल टूट गया था।
+I was distracted.	Ich war abgelenkt.	मैं ध्यान भटक गया था।
+I was frustrated.	Ich war frustriert.	मैं परेशान था।
