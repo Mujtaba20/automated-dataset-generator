@@ -10627,3 +10627,13 @@ Tom looks perky.	Tom sieht munter aus.	टॉम जिज्ञासु लग
 Tom looks ready.	Tom sieht bereit aus.	टॉम तैयार लग रहा है।
 Tom looks sober.	Tom sieht nüchtern aus.	टॉम शांत लग रहा है।
 Tom looks stern.	Tom sieht ernst aus.	टॉम कठोर लग रहा है।
+Tom looks stuck.	Tom sieht festgefahren aus.	टॉम बंद लग रहा है।
+Tom looks tense.	Tom sieht angespannt aus.	टॉम तनावग्रस्त दिखता है।
+Tom looks tired.	Tom wirkt müde.	टॉम थका हुआ लग रहा है।
+Tom looks upset.	Tom sieht verärgert aus.	टॉम उदास लग रहा है।
+Tom looks weary.	Tom wirkt müde.	टॉम उबाऊ लग रहा है।
+Tom looks young.	Tom wirkt jung.	टॉम जवान लग रहा है।
+Tom lost a book.	Tom hat ein Buch verloren.	टॉम ने एक किताब खो दी।
+Tom lost weight.	Tom hat Gewicht verloren.	टॉम का वजन कम हो गया है।
+Tom loves books.	Tom liebt Bücher.	टॉम को किताबों से प्यार है।
+Tom loves chili.	Tom liebt Chili.	टॉम को मिर्ची से प्यार है।
