@@ -9287,3 +9287,13 @@ I'm never wrong.	Ich liege nie falsch.	मैं कभी गलत नही�
 I'm new at this.	Ich bin neu darin.	मैं इसमें नया हूं।
 I'm new in town.	Ich bin neu in der Stadt.	मैं नगरी में नया हूं।
 I'm not a child.	Ich bin kein Kind.	मैं एक बच्चा नहीं हूं।
+I'm not a crook.	Ich bin kein Betrüger.	मैं चोर नहीं हूँ।
+I'm not a robot.	Ich bin kein Roboter.	मैं रोबोट नहीं हूँ।
+I'm not a saint.	Ich bin kein Heiliger.	मैं संत नहीं हूँ।
+I'm not a saint. (different meaning)	Ich bin keine Heilige.	मैं कोई साध्वी नहीं हूँ।
+I'm not a thief.	Ich bin kein Dieb.	मैं चोर नहीं हूँ।
+I'm not a thief. (different meaning)	Ich bin keine Diebin.	मैं कोई चोरी नहीं करता।
+I'm not a woman.	Ich bin kein Frau.	मैं महिला नहीं हूँ।
+I'm not arguing.	Ich streite nicht.	मैं बहस नहीं कर रहा हूँ।
+I'm not ashamed.	Ich schäme mich nicht.	मुझे शर्मिंदा नहीं होना चाहिए।
+I'm not certain.	Ich bin mir nicht sicher.	मैं निश्चित नहीं हूँ।
