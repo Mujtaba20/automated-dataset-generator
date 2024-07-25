@@ -12024,3 +12024,12 @@ He painted a dog.	Er hat einen Hund gemalt.	उसने एक कुत्त�
 He played tennis.	Er hat Tennis gespielt.	उसने टेनिस खेला।
 He put up a flag.	Er hat eine Fahne gehisst.	उसने झंडा फहराया।
 He ran into debt.	Er geriet in Schulden.	वह कर्ज़ में फंस गया।
+He ratted us out.	Er verriet uns.	उसने हमें धोखा दिया।
+He sang and sang.	Er sang und sang.	उसने गाते गाते गाया।
+He saved my life.	Er hat mein Leben gerettet.	उसने मेरी जान बचाई।
+He saw her video.	Er sah ihr Video.	उसने उसका वीडियो देखा।
+He screams a lot.	Er schreit viel.	वह बहुत चिल्लाता है।
+He seems healthy.	Er scheint gesund zu sein.	वह स्वस्थ लगता है।
+He shall have it.	Er soll es haben.	उसे यह मिलना चाहिए।
+He shook my hand.	Er schüttelte mir die Hand.	उसने मेरा हाथ मिलाया।
+He shut the door.	Er hat die Tür geschlossen.	उसने दरवाजा बंद कर दिया।
