@@ -7146,3 +7146,11 @@ Tom can't move.	Tom kann sich nicht bewegen.	टॉम हिल नहीं �
 Tom can't read.	Tom kann nicht lesen.	टॉम पढ़ नहीं सकता।
 Tom can't sing.	Tom kann nicht singen.	टॉम गा नहीं सकता।
 Tom can't stop.	Tom kann nicht aufhören.	टॉम रुक नहीं सकता।
+Tom can't swim.	Tom kann nicht schwimmen.	टॉम तैर नहीं सकता।
+Tom can't talk.	Tom kann nicht reden.	टॉम बोल नहीं सकता।
+Tom can't walk.	Tom kann nicht laufen.	टॉम चल नहीं सकता।
+Tom can't work.	Tom kann nicht arbeiten.	टॉम काम नहीं कर सकता।
+Tom cheated me.	Tom hat mich betrogen.	टॉम ने मुझे धोखा दिया।
+Tom chose well.	Tom hat gut gewählt.	टॉम ने अच्छा चुना।
+Tom complained.	Tom hat sich beschwert.	टॉम ने किसी की शिकायत की।
+Tom cooks well.	Tom kocht gut.	टॉम अच्छा खाना पकाता है।
