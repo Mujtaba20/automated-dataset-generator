@@ -2734,3 +2734,12 @@ I need a car.	Ich brauche ein Auto.	मुझे एक गाड़ी की �
 I need a hug.	Ich brauche eine Umarmung.	मुझे एक गले लगाने की आवश्यकता है।
 I need a job.	Ich brauche einen Job.	मुझे नौकरी की आवश्यकता है।
 I need a map.	Ich brauche eine Landkarte.	मुझे एक मानचित्र की जरूरत है।
+I need a nap.	Ich brauche ein Nickerchen.	मुझे एक नींद की आवश्यकता है।
+I need money.	Ich brauche Geld.	मुझे पैसे चाहिए।
+I need paint.	Ich brauche Farbe.	मुझे रंग चाहिए।
+I need proof.	Ich brauche Beweis.	मुझे प्रमाण चाहिए।
+I need sleep.	Ich brauche Schlaf.	मुझे नींद की आवश्यकता है।
+I need water.	Ich brauche Wasser.	मुझे पानी चाहिए।
+I never sing.	Ich singe nie.	मैं कभी नहीं गाता।
+I never swim.	Ich schwimme nie.	मैं कभी तैरता नहीं हूँ।
+I obeyed Tom.	Ich gehorchte Tom.	मैंने टॉम का आज्ञानुसार किया।
