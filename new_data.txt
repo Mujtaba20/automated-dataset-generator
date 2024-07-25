@@ -14984,3 +14984,12 @@ We just finished.	Wir sind gerade fertig geworden.	हमने अभी अभ
 We just got back.	Wir sind gerade zurückgekommen.	हमने अभी अभी वापस आया है।
 We just got here.	Wir sind gerade hier angekommen.	हमने अभी अभी यहाँ आया है।
 We just moved in.	Wir sind gerade eingezogen.	हमने अभी अभी इसमें खिचड़ी पकाई है।
+We keep in touch.	Wir bleiben in Kontakt.	हम संपर्क में रहते हैं।
+We kept in touch.	Wir blieben in Verbindung.	हम संपर्क में रहे।
+We kept our word.	Wir hielten unser Wort.	हमने अपना वादा निभाया।
+We know all that.	Wir wissen all das.	हम सब जानते हैं।
+We know it's you.	Wir wissen, dass du es bist.	हमें पता है कि तुम हो।
+We left together.	Wir gingen zusammen.	हम साथ चले गए।
+We like children.	Wir mögen Kinder.	हम बच्चों को पसंद करते हैं।
+We live in peace.	Wir leben in Frieden.	हम शांति में रहते हैं।
+We live together.	Wir leben zusammen.	हम साथ रहते हैं।
