@@ -941,3 +941,10 @@ Hold still.	Halte still.	फिरे रहें।
 Hold still. - Different meaning	Halte es fest.	स्थिर बनो।
 Hold tight.	Halte fest.	मजबूती से पकड़ो।
 How absurd!	Wie absurd!	कितना बेतुका!
+How boring!	Wie langweilig!	कितना उबाऊ!
+How clever!	Wie schlau!	कितना चतुर!
+How lovely!	Wie schön!	कितना प्यारा!
+How tragic!	Wie tragisch!	कितनी दुर्भाग्यपूर्ण!
+How was it?	Wie war es?	यह कैसा था?
+How's work?	Wie geht die Arbeit?	काम कैसा चल रहा है?
+Hurry home.	Beeil dich nach Hause.	शीघ्र घर आओ.
