@@ -12103,3 +12103,13 @@ He's very stingy.	Er ist sehr geizig.	वह बहुत कंजूस है
 He's very strong.	Er ist sehr stark.	वह बहुत मजबूत है।
 He's watching me.	Er sieht mich an.	वह मुझे देख रहा है।
 He's your father.	Er ist dein Vater.	वह तेरा पिता है।
+He's your friend.	Er ist dein Freund.	वह तुम्हारा दोस्त है।
+Heaven knows why.	Der Himmel weiß warum.	स्वर्ग क्यों जानता है।
+Help me find Tom.	Helfen Sie mir, Tom zu finden.	मेरी मदद करें, टॉम को ढूंढ़ने में।
+Help me fix this.	Helfen Sie mir, das zu reparieren.	मुझे इसे ठीक करने में मदद करें।
+Help me fix this. (Alternative Meaning)	Helfen Sie mir, das zu beheben.	इसे सुधारने में मेरी सहायता करें।
+Her bike is blue.	Ihr Fahrrad ist blau.	उसकी साइकिल नीली है।
+Her hair is long.	Ihr Haar ist lang.	उसके बाल लंबे हैं।
+Her name is Mary.	Ihr Name ist Mary.	उसका नाम मेरी है।
+Here is the bill.	Hier ist die Rechnung.	यहाँ बिल है।
+Here is your bag.	Hier ist Ihre Tasche.	यह आपका बैग है।
