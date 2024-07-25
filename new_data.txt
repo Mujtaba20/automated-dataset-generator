@@ -7713,3 +7713,13 @@ Tom's cheerful.	Tom ist fröhlich.	टॉम खुशमिजाज है।
 Tom's confused.	Tom ist verwirrt.	टॉम उलझन में है।
 Tom's diabetic.	Tom ist diabetisch.	टॉम मधुमेही है।
 Tom's divorced.	Tom ist geschieden.	टॉम तलाकशुदा है।
+Tom's doing OK.	Tom macht es gut.	टॉम ठीक कर रहा है।
+Tom's fearless.	Tom ist furchtlos.	टॉम निडर है।
+Tom's finished.	Tom hat aufgehört.	टॉम समाप्त हो गया है।
+Tom's finished. (different meaning)	Tom ist fertig.	टॉम समाप्त हुआ है।
+Tom's grieving.	Tom trauert.	टॉम विलाप कर रहा है।
+Tom's grinning.	Tom grinst.	टॉम मुस्कान कर रहा है।
+Tom's harmless.	Tom ist harmlos.	टॉम अहानिक है।
+Tom's homeless.	Tom ist obdachlos.	टॉम बेघर है।
+Tom's hungover.	Tom hat einen Kater.	टॉम की परेशानी है।
+Tom's in there.	Tom ist drin.	टॉम वहाँ है।
