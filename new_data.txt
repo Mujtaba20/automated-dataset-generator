@@ -13954,3 +13954,12 @@ Tom bought a hat.	Tom hat einen Hut gekauft.	टॉम ने एक टोप�
 Tom bought a rug.	Tom hat einen Teppich gekauft.	टॉम ने एक गद्दी खरीदी।
 Tom bought bread.	Tom hat Brot gekauft.	टॉम ने रोटी खरीदी।
 Tom bought rolls.	Tom hat Brötchen gekauft.	टॉम ने रोल्स खरीदे।
+Tom brought that.	Tom brachte das.	टॉम उसे लाया।
+Tom brought this.	Tom brachte dies.	टॉम इसे लाया।
+Tom called again.	Tom rief wieder an.	टॉम फिर से बुलाया।
+Tom came at 2:30.	Tom kam um 2:30 Uhr.	टॉम 2:30 बजे आया।
+Tom came at dawn.	Tom kam bei Morgendämmerung.	टॉम भोर में आया।
+Tom came forward.	Tom trat nach vorne.	टॉम आगे आया।
+Tom came outside.	Tom kam nach draußen.	टॉम बाहर आया।
+Tom came running.	Tom kam rennend.	टॉम दौड़ते हुए आया।
+Tom came to help.	Tom kam, um zu helfen.	टॉम मदद करने आया।
