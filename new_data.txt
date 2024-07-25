@@ -3776,3 +3776,13 @@ Clean that up.	Putz das weg.	वह साफ़ करो।
 Come and look.	Komm und schau.	आकर देखो।
 Come out here.	Komm hier raus.	बाहर आ जाओ।
 Come right in.	Kommen Sie herein.	सीधे अंदर आ जाओ।
+Come sit down.	Komm setzen Sie sich hin.	आइए बैठिए।
+Come this way.	Kommen Sie hier entlang.	इस तरफ आइए।
+Come tomorrow.	Komm morgen.	कल आना।
+Come tomorrow. (Different meaning)	Morgen kommen.	कल आना।
+Come tomorrow. (Different meaning 2)	Kommende Morgen kommen.	कल आना।
+Cook the rice.	Koche den Reis.	चावल पकाओ।
+Dance with me.	Tanzen Sie mit mir.	मेरे साथ नृत्य करें।
+Did I ask you?	Habe ich dich gefragt?	क्या मैंने तुमसे पूछा था?
+Did I ask you? (Different meaning)	Habe ich Sie gefragt?	क्या मैंने आपसे पूछा था?
+Did I ask you? (Different meaning 2)	Habe ich dich gefragt?	क्या मैंने तुमसे पूछा था?
