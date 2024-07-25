@@ -14417,3 +14417,12 @@ Tom kept sighing.	Tom seufzte weiterhin.	टॉम साँस फूंकत�
 Tom kept singing.	Tom sang weiter.	टॉम गाता रहा।
 Tom kept smiling.	Tom lächelte weiterhin.	टॉम मुस्कान बरकरार रखता।
 Tom kept staring.	Tom starrte weiter.	टॉम देखने में लगा रहा।
+Tom kept talking.	Tom redete weiter.	टॉम बात करते रहे।
+Tom kept texting.	Tom schrieb weiter SMS.	टॉम टेक्स्ट करते रहे।
+Tom kept walking.	Tom ging weiter.	टॉम चलते रहे।
+Tom kept winning.	Tom gewann weiter.	टॉम जीतते रहे।
+Tom kept working.	Tom arbeitete weiter.	टॉम काम करते रहे।
+Tom kept writing.	Tom schrieb weiter.	टॉम लिखते रहे।
+Tom kept yelling.	Tom schrie weiter.	टॉम चिल्लाते रहे।
+Tom killed a man.	Tom tötete einen Mann.	टॉम एक आदमी को मार दिया।
+Tom knew nothing.	Tom kannte nichts.	टॉम कुछ नहीं समझा।
