@@ -13946,3 +13946,11 @@ Tom behaved well.	Tom hat sich gut benommen.	टॉम अच्छा व्य
 Tom believes him.	Tom glaubt ihm.	टॉम उसे मान लेता है।
 Tom believes you.	Tom glaubt dir.	टॉम तुम्हें मानता है।
 Tom belongs here.	Tom gehört hierher.	टॉम यहाँ का है।
+Tom bent forward.	Tom beugte sich vor.	टॉम आगे झुका।
+Tom betrayed you.	Tom hat dich verraten.	टॉम ने तुम्हें धोखा दिया।
+Tom bought a car.	Tom hat ein Auto gekauft.	टॉम ने एक कार खरीदी।
+Tom bought a dog.	Tom hat einen Hund gekauft.	टॉम ने एक कुत्ता खरीदा।
+Tom bought a hat.	Tom hat einen Hut gekauft.	टॉम ने एक टोपी खरीदी।
+Tom bought a rug.	Tom hat einen Teppich gekauft.	टॉम ने एक गद्दी खरीदी।
+Tom bought bread.	Tom hat Brot gekauft.	टॉम ने रोटी खरीदी।
+Tom bought rolls.	Tom hat Brötchen gekauft.	टॉम ने रोल्स खरीदे।
