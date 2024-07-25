@@ -17117,3 +17117,11 @@ I'm not a soldier.	Ich bin kein Soldat.	मैं एक सिपाही न�
 I'm not a stalker.	Ich bin kein Stalker.	मैं एक स्टाल्‍कर नहीं हूँ।
 I'm not a student.	Ich bin kein Schüler.	मैं एक छात्र नहीं हूँ।
 I'm not a teacher.	Ich bin kein Lehrer.	मैं एक शिक्षक नहीं हूँ।
+I'm not a tourist.	Ich bin kein Tourist.	मैं पर्यटक नहीं हूँ।
+I'm not a traitor.	Ich bin kein Verräter.	मैं गद्दार नहीं हूँ।
+I'm not an artist.	Ich bin kein Künstler.	मैं कलाकार नहीं हूँ।
+I'm not an expert.	Ich bin kein Experte.	मैं एक विशेषज्ञ नहीं हूँ।
+I'm not convinced.	Ich bin nicht überzeugt.	मुझे यकीन नहीं है।
+I'm not forgetful.	Ich bin nicht vergesslich.	मैं भूलकरी हूँ नहीं।
+I'm not giving up.	Ich gebe nicht auf.	मैं हार नहीं मान रहा।
+I'm not going out.	Ich gehe nicht raus.	मैं बाहर नहीं जा रहा।
