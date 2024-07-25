@@ -2597,3 +2597,9 @@ He's a ninja.	Er ist ein Ninja.	वह एक निंजा है।
 He's dieting.	Er macht eine Diät.	वह डाइट पर है।
 He's in pain.	Er hat Schmerzen.	वह दर्द में है।
 He's my hero.	Er ist mein Held.	वह मेरा नायक है।
+He's too old.	Er ist zu alt.	वह बहुत बूढ़ा है।
+Hello, girls.	Hallo, Mädchen.	नमस्ते, लड़कियां।
+Help Tom out.	Helfen Sie Tom.	टॉम को सहायता दें।
+Here you are.	Hier bist du.	तुम यहाँ हो।
+Hey, wait up!	Hey, bleib stehen!	अरे, रुको!
+Hey, wait up.	Hey, warte mal.	अरे, ठहरो।
