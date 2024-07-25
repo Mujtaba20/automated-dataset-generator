@@ -5362,3 +5362,9 @@ We're unlucky.	Wir haben Pech.	हमें बदला हुआ है।
 We're unusual.	Wir sind ungewöhnlich.	हम असाधारण हैं।
 We're useless.	Wir sind nutzlos.	हम बेकार हैं।
 We're wealthy.	Wir sind wohlhabend.	हम धनवान हैं।
+We're winners.	Wir sind Gewinner.	हम विजेता हैं।
+We're winning.	Wir gewinnen.	हम जीत रहे हैं।
+We're working.	Wir arbeiten.	हम काम कर रहे हैं।
+We're worried.	Wir sind besorgt.	हम चिंतित हैं।
+We've arrived.	Wir sind angekommen.	हम पहुंच गए हैं।
+We've made it.	Wir haben es geschafft.	हमने यह कर लिया है।
