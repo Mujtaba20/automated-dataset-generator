@@ -6101,3 +6101,13 @@ I like ketchup.	Ich mag Ketchup.	मुझे केचप पसंद है�
 I like lettuce.	Ich mag den Salat.	मुझे सलाद पसंद है।
 I like mahjong.	Ich mag Mahjong.	मुझे माहजोंग खेलना पसंद है।
 I like my bike.	Ich mag mein Fahrrad.	मुझे मेरी बाइक पसंद है।
+I like my life.	Ich mag mein Leben.	मुझे मेरे जीवन पसंद है।
+I like my name.	Ich mag meinen Namen.	मुझे मेरा नाम पसंद है।
+I like noodles.	Ich mag Nudeln.	मुझे नूडल्स पसंद हैं।
+I like oranges.	Ich mag Orangen.	मुझे संतरे पसंद हैं।
+I like oranges. (Different meaning)	Ich mag Orangen.	मुझे अरंगे पसंद हैं।
+I like oysters.	Ich mag Austern.	मुझे ओयस्टर्स पसंद हैं।
+I like reading.	Ich mag Lesen.	मुझे पढ़ना पसंद है।
+I like running.	Ich mag Laufen.	मुझे दौड़ना पसंद है।
+I like running. (Different meaning)	Ich mag Laufen.	मुझे दोड़ना पसंद है।
+I like sashimi.	Ich mag Sashimi.	मुझे साशिमी पसंद है।
