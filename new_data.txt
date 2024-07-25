@@ -15599,3 +15599,13 @@ Can she come, too?	Kann sie auch kommen?	क्या वह भी आ सक�
 Can this be eaten?	Kann dies gegessen werden?	क्या यह खाया जा सकता है?
 Can we fish there?	Können wir dort angeln?	क्या हम वहां मछली पकड़ सकते हैं?
 Can we fish there? (different meaning)	Können wir dort fischt sein?	क्या हम वहां मछलियाँ पानी में डाल सकते हैं?
+Can we reschedule?	Können wir den Termin verschieben?	क्या हम दुबारा समय तय कर सकते हैं?
+Can we smoke here?	Können wir hier rauchen?	क्या हम यहाँ सिगरेट पी सकते हैं?
+Can we talk alone?	Können wir allein reden?	क्या हम अकेले में बात कर सकते हैं?
+Can we trust them?	Können wir ihnen vertrauen?	क्या हम उन पर भरोसा कर सकते हैं?
+Can you cook well?	Kannst du gut kochen?	क्या तुम अच्छे से पका सकते हो?
+Can you decode it?	Kannst du es entschlüsseln?	क्या तुम इसे डीकोड कर सकते हो?
+Can you eat these?	Kannst du das essen?	क्या तुम ये खा सकते हो?
+Can you handle it?	Kannst du damit umgehen?	क्या तुम इसे संभाल सकते हो?
+Can you jump rope?	Kannst du Seil springen?	क्या तुम रस्सी कूद सकते हो?
+Can you read that?	Kannst du das lesen?	क्या तुम वह पढ़ सकते हो?
