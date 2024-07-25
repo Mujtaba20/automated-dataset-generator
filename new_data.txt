@@ -1435,3 +1435,9 @@ Be punctual.	Sei pünktlich.	समय पर रहें।
 Be ruthless.	Sei unbarmherzig.	क्रूर रहें।
 Be sensible.	Sei vernünftig.	समझदार रहो।
 Be specific.	Sei genau.	विशेष रहें।
+Be tolerant.	Sei tolerant.	सहिष्णु रहें।
+Be vigilant.	Sei wachsam.	सतर्क रहें।
+Be watchful.	Sei aufmerksam.	सावधान रहें।
+Be yourself.	Sei du selbst.	खुद को बनाए रखें।
+Beer's good.	Bier ist gut.	बियर अच्छी है।
+Boys do cry.	Jungen weinen.	लड़के रोते हैं।
