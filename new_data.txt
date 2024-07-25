@@ -5232,3 +5232,13 @@ Wait a moment.	Warten Sie einen Moment.	ठहरें।
 Wait a second.	Warte bitte einen Moment.	कृपया एक सेकंड इंतज़ार करें।
 Wait till six.	Warten Sie bis sechs.	छह तक प्रतीक्षा करें।
 Walk this way.	Gehen Sie so.	इस तरह चलिए।
+Was I snoring?	Habe ich geschnarcht?	क्या मैं रो रहा था?
+Was Tom angry?	War Tom wütend?	क्या टॉम गुस्सा हो गया था?
+Was Tom fired?	Wurde Tom entlassen?	क्या टॉम को नौकरी से निकाल दिया गया था?
+Was Tom funny?	War Tom lustig?	क्या टॉम मजेदार था?
+Was Tom happy?	War Tom glücklich?	क्या टॉम खुश था?
+Was Tom right?	Hatte Tom Recht?	क्या टॉम सही था?
+Was Tom there?	War Tom da?	क्या टॉम वहाँ था?
+Was it a joke?	War es ein Witz?	क्या यह मजाक था?
+Was Tom fired?(2)	Wurde Tom entlassen?	क्या टॉम सजा दी गई?
+Was it a joke?(2)	War es ein Witz?	क्या यह कोई चुटकुला था?
