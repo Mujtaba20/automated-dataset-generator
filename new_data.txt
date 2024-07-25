@@ -8658,3 +8658,11 @@ I ingested the apple.	Ich nahm den Apfel zu mir.	मैंने सेब स�
 I beg to differ.	Ich muss widersprechen.	मैं असहमत हूँ।
 I disagree with that.	Da bin ich anderer Meinung.	मुझसे असहमति है।
 I differ in opinion.	Ich habe eine andere Meinung.	मेरे विचार में अंतर है।
+I bet that hurt.	Das muss wehgetan haben.	यहाँ दर्द होता है।
+I bit my tongue.	Ich habe mir auf die Zunge gebissen.	मैंने अपनी जीभ काट ली।
+I booked a seat.	Ich habe einen Sitzplatz gebucht.	मैंने एक सीट बुक की।
+I bought a book.	Ich habe ein Buch gekauft.	मैंने एक किताब खरीदी।
+I burped loudly.	Ich habe laut gerülpst.	मैंने जोर से डकार मारी।
+I called Tom up.	Ich habe Tom angerufen.	मैंने टॉम को बुलाया।
+I called him up.	Ich habe ihn angerufen.	मैंने उसे बुलाया।
+I called my dog.	Ich habe meinen Hund gerufen.	मैंने अपने कुत्ते को बुलाया।
