@@ -5318,3 +5318,10 @@ We'll stop it.	Wir werden es stoppen.	हम इसे रोकेंगे।
 We'll succeed.	Wir werden erfolgreich sein.	हम सफल होंगे।
 We'll survive.	Wir werden überleben.	हम जीते रहेंगे।
 We'll survive. (different meaning)	Wir werden bestehen.	हम जीतेंगे।
+We'll take it.	Wir werden es akzeptieren.	हम यह लेंगे।
+We're ashamed.	Wir schämen uns.	हम शर्मिंदा हैं।
+We're at home.	Wir sind zu Hause.	हम घर पर हैं।
+We're baffled.	Wir sind verwirrt.	हम हैरान हैं।
+We're careful.	Wir sind vorsichtig.	हम सावधान हैं।
+We're certain.	Wir sind sicher.	हम निश्चित हैं।
+We're correct.	Wir haben recht.	हम सही हैं।
