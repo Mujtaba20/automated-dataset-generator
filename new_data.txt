@@ -12433,3 +12433,10 @@ I have to cancel.	Ich muss absagen.	मुझे रद्द करना ह�
 I have to change.	Ich muss mich ändern.	मुझे बदलना है।
 I have to go now.	Ich muss jetzt gehen.	मुझे अब जाना है।
 I have to go out.	Ich muss rausgehen.	मुझे बाहर जाना है।
+I have to say no.	Ich muss nein sagen.	मुझे ना कहना होगा।
+I have turned 20.	Ich bin 20 geworden.	मैंने 20 का पार कर लिया है।
+I have your file.	Ich habe deine Datei.	मेरे पास तुम्हारी फ़ाइल है।
+I have your file. (Different meaning)	Ich habe deine Datei erhalten.	मैंने तुम्हारी फ़ाइल प्राप्त की है।
+I have your file. (Different meaning 2)	Ich besitze deine Datei.	मेरे पास तुम्हारी फ़ाइल है।
+I hear something.	Ich höre etwas.	मुझे कुछ सुनाई दे रहा है।
+I hear the phone.	Ich höre das Telefon.	मैं फ़ोन सुन रहा हूँ।
