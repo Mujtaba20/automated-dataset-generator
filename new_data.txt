@@ -15084,3 +15084,12 @@ We're meditating.	Wir sind in Meditation.	हम सत्य की खोज �
 We're nonsmokers.	Wir sind Nichtraucher.	हम सिगरेट नहीं पीते।
 We're not afraid.	Wir haben keine Angst.	हम डरते नहीं हैं।
 We're not coming.	Wir kommen nicht.	हम नहीं आ रहे हैं।
+We're not dating.	Wir daten nicht.	हम डेटिंग नहीं कर रहे हैं।
+We're not family.	Wir sind keine Familie.	हम परिवार नहीं हैं।
+We're not hungry.	Wir haben keinen Hunger.	हमे भूख नहीं है।
+We're not idiots.	Wir sind keine Idioten.	हम बेवकूफ नहीं हैं।
+We're not needed.	Wir werden nicht benötigt.	हमें जरूरी नहीं है।
+We're not stupid.	Wir sind nicht dumm.	हम मूर्ख नहीं हैं।
+We're on our own.	Wir sind auf uns allein gestellt.	हम अपने आप पर हैं।
+We're on our way.	Wir sind unterwegs.	हम अपने रास्ते पर हैं।
+We're out of tea.	Unsere Teesorte ist ausgegangen.	हमारे पास चाय नहीं है।
