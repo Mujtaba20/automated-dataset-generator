@@ -8648,3 +8648,13 @@ I am from Tokyo.	Ich komme aus Tokio.	मैं टोक्यो से हू
 I am in a hurry.	Ich habe es eilig.	मुझे जल्दी है।
 I am in trouble.	Ich bin in Schwierigkeiten.	मैं मुश्किल में हूँ।
 I am undressing.	Ich mache mich fertig.	मैं तैयारी कर रहा हूँ।
+I am very tired.	Ich bin sehr müde.	मैं बहुत थका हुआ हूँ।
+I appreciate it.	Ich schätze es.	मैं इसकी क़ीमत करता हूँ।
+I asked Tom why.	Ich fragte Tom warum.	मैंने टॉम से पूछा क्यों।
+I ate an orange.	Ich aß eine Orange.	मैंने एक संतरा खाया।
+I consumed an orange.	Ich genoss eine Orange.	मैंने एक संतरा उपभोग किया।
+I devoured the apple.	Ich verschlang den Apfel.	मैंने सेब को खा गया।
+I ingested the apple.	Ich nahm den Apfel zu mir.	मैंने सेब समाहित किया।
+I beg to differ.	Ich muss widersprechen.	मैं असहमत हूँ।
+I disagree with that.	Da bin ich anderer Meinung.	मुझसे असहमति है।
+I differ in opinion.	Ich habe eine andere Meinung.	मेरे विचार में अंतर है।
