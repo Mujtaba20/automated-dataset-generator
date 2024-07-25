@@ -17969,3 +17969,4 @@ That's news to me.	Das ist mir neu.	यह मेरे लिए समाच�
 That's no problem.	Das ist kein Problem.	यह कोई समस्या नहीं है।
 That's not enough.	Das reicht nicht.	यह पर्याप्त नहीं है।
 That's not my car.	Das ist nicht mein Auto.	यह मेरी कार नहीं है।
+engSentence	Das ist nicht normal.	यह सामान्य नहीं है।
