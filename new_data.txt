@@ -683,3 +683,12 @@ Let's try!	Probieren wir es!	आओ कोशिश करें!
 Lie still.	Bleib ruhig liegen.	शांत रहो।
 Listen up.	Hör zu.	ध्यान से सुनो।
 Look away.	Schau weg.	देखने की दूरी बनाओ।
+Look back!	Schau zurück!	पीछे देखो!
+Look back.	Schau zurück.	मुड़ के देखो।
+Look down.	Schau nach unten.	नीचे देखो।
+Look here.	Schau hier.	यहाँ देखो।
+Loosen it.	Locker es.	इसे ढीला करो।
+Loosen up.	Entspann dich.	ढीला हो जा।
+Move over.	Rück mal.	हट जाओ।
+Nice shot!	Guter Schuss!	अच्छी गोली!
+Of course!	Natürlich!	बिल्कुल!
