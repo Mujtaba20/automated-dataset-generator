@@ -11790,3 +11790,10 @@ Don't smoke here.	Rauche hier nicht.	यहाँ धूम्रपान न �
 Don't talk to me!	Sprich nicht mit mir!	मेरे साथ बात मत करो!
 Don't talk to me.	Rede nicht mit mir.	मेरे साथ बात न करो।
 Don't tell on me.	Verpetz mich nicht.	मेरे बारे में किसी को मत बताओ।
+Don't touch that.	Fass das nicht an.	उसे छू मत.
+Don't touch this!	Fass das nicht an!	इसे छू मत!
+Don't you get it?	Verstehst du es nicht?	क्या तुम्हें समझ में नहीं आता?
+Don't you see me?	Siehst du mich nicht?	क्या तुम मुझे नहीं देख रहे हो?
+Draw a line here.	Zeichne eine Linie hier.	यहाँ एक रेखा खींचो।
+Dreams come true.	Träume werden wahr.	सपने सच होते हैं।
+Drink some water.	Trink etwas Wasser.	कुछ पानी पीजिए।
