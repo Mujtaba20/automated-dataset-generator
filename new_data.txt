@@ -15422,3 +15422,10 @@ You're a man now.	Du bist jetzt ein Mann.	तुम अब एक आदमी �
 You're a problem.	Du bist ein Problem.	तुम समस्या हो।
 You're after Tom.	Du jagst Tom nach.	तुम टॉम के पीछे हो।
 You're ambitious.	Du bist ehrgeizig.	तुमे उम्मीदें हैं।
+You're an animal.	Du bist ein Tier.	तुम एक जानवर हो।
+You're an artist.	Du bist ein Künstler.	तुम एक शिल्पकार हो।
+You're attentive.	Du bist aufmerksam.	तुम सावधान हो।
+You're beautiful.	Du bist schön.	तुम खूबसूरत हो।
+You're conceited.	Du bist eingebildet.	तुम अहंकारी हो।
+You're dangerous.	Du bist gefährlich.	तुम खतरनाक हो।
+You're exhausted.	Du bist erschöpft.	तुम थके हुए हो।
