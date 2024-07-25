@@ -13446,3 +13446,8 @@ People need love.	Die Menschen brauchen Liebe.	लोगों को प्य�
 People will talk.	Die Leute werden reden.	लोग बोलेंगे।
 Perhaps Tom left.	Vielleicht hat Tom verlassen.	शायद टॉम चला गया।
 Perhaps it's Tom.	Vielleicht ist es Tom.	शायद यह टॉम है।
+Please answer me.	Bitte antworte mir.	मुझे जवाब दे।
+Please be gentle.	Bitte sei sanft.	कृपया कोमल रहें।
+Please be honest.	Bitte sei ehrlich.	कृपया सच्चे रहें।
+Please be polite.	Bitte sei höflich.	कृपया शिष्ट रहें।
+Please come here.	Bitte komm hierher.	कृपया यहाँ आओ।
