@@ -8695,3 +8695,13 @@ I can't undo it.	Ich kann es nicht rückgängig machen.	मैं इसे प�
 I caught a cold.	Ich habe eine Erkältung bekommen.	मुझे ठंडी लग गई।
 I caught a fish!	Ich habe einen Fisch gefangen!	मैंने एक मछली पकड़ि!
 I chose to stay.	Ich habe mich entschieden zu bleiben.	मैंने रहने का विकल्प चुना।
+I chose to wait.	Ich habe mich entschieden, zu warten.	मैंने इंतजार करने का चुनाव किया।
+I consulted Tom.	Ich habe Tom konsultiert.	मैंने टॉम से परामर्श किया।
+I contacted Tom.	Ich habe Tom kontaktiert.	मैंने टॉम से संपर्क किया।
+I cooked dinner.	Ich habe das Abendessen gekocht.	मैंने रात का खाना पकाया।
+I could've died.	Ich hätte sterben können.	मैं मर सकता था।
+I couldn't move.	Ich konnte nicht bewegen.	मैं हिल नहीं सका।
+I couldn't stop.	Ich konnte nicht aufhören.	मैं रुक नहीं सका।
+I couldn't talk.	Ich konnte nicht sprechen.	मैं बात नहीं कर सका।
+I couldn't wait.	Ich konnte nicht warten.	मैं इंतजार नहीं कर सका।
+I couldn't wait. (With different meaning)	Ich konnte es nicht erwarten.	मैं इसका इंतजार नहीं कर सका।
