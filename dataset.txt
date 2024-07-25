@@ -1,14 +1,4 @@
 
-Tom is downstairs.	Tom ist unten.	टॉम नीचे है।
-Tom is easy-going.	Tom ist unbekümmert.	टॉम लापरवाह है।
-Tom is easy-going.	Tom ist locker.	टॉम ढीला है।
-Tom is exercising.	Tom trainiert.	टॉम प्रशिक्षित।
-Tom is expendable.	Tom ist entbehrlich.	टॉम अनावश्यक है।
-Tom is fairly old.	Tom ist ziemlich alt.	टॉम बहुत पुराना है।
-Tom is fascinated.	Tom ist fasziniert.	टॉम मोहित है।
-Tom is former FBI.	Tom war beim FBI.	टॉम एफबीआई में था।
-Tom is frightened.	Tom hat Angst.	टॉम डरता है।
-Tom is frightened.	Tom ist verängstigt.	टॉम डरा हुआ है।
 Tom is frustrated.	Tom ist frustriert.	टॉम निराश है।
 Tom is going bald.	Tom bekommt eine Glatze.	टॉम को एक गंजा सिर मिलता है।
 Tom is going home.	Tom geht nach Hause.	टॉम घर जाता है।

@@ -18644,3 +18644,11 @@ Tom is doing fine.	Tom macht es gut.	टॉम ठीक कर रहा है
 Tom is doing that.	Tom macht das.	टॉम वह कर रहा है।
 Tom is doing well.	Tom macht es gut.	टॉम अच्छा कर रहा है।
 Tom is down there.	Tom ist dort unten.	टॉम वहाँ नीचे है।
+Tom is downstairs.	Tom ist unten.	टॉम नीचे है।
+Tom is easy-going.	Tom ist entspannt.	टॉम आराम करने वाला है।
+Tom is exercising.	Tom übt.	टॉम व्यायाम कर रहा है।
+Tom is expendable.	Tom ist verzichtbar.	टॉम व्ययी है।
+Tom is fairly old.	Tom ist ziemlich alt.	टॉम काफी पुराना है।
+Tom is fascinated.	Tom ist fasziniert.	टॉम आकर्षित है।
+Tom is former FBI.	Tom ist ehemaliges FBI.	टॉम पूर्व एफबीआई है।
+Tom is frightened.	Tom hat Angst.	टॉम डरा हुआ है।
