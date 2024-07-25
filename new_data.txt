@@ -3543,3 +3543,10 @@ We can't win.	Wir können nicht gewinnen.	हम जीत नहीं सक�
 We don't lie.	Wir lügen nicht.	हम झूठ नहीं बोलते।
 We eat early.	Wir essen früh.	हम जल्दी खाते हैं।
 We found Tom.	Wir fanden Tom.	हमने टॉम को ढूँढा।
+We found one.	Wir haben einen entdeckt.	हमने एक मिले.
+We get on OK.	Wir kommen klar.	हम ठीक हैं।
+We got lucky.	Wir hatten Glück.	हमें भाग्य मिला।
+We got ready.	Wir haben uns fertig gemacht.	हम तैयार हो गए।
+We had a cat.	Wir hatten eine Katze.	हमारे पास एक बिल्ली थी।
+We had lunch.	Wir haben zu Mittag gegessen.	हमने दोपहर का खाना खाया।
+We have time.	Wir haben Zeit.	हमारे पास समय है।
