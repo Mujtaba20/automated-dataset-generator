@@ -20351,3 +20351,10 @@ Come into the room.	Komm ins Zimmer.	कमरे में चले आओ।
 Come on, it's easy.	Komm schon, es ist einfach.	आओ, यह आसान है।
 Come on, try again.	Los, versuch es nochmal.	आओ, फिरसे कोशिश करो।
 Consider it a gift.	Betrachte es als Geschenk.	इसे उपहार समझो।
+Control yourselves.	Beherrsche dich.	अपना कंट्रोल रखो।
+Could I have a sip?	Könnte ich einen Schluck haben?	क्या मुझे एक स्वाद लेने दे सकते हैं?
+Could this be love?	Könnte das Zuneigung sein?	क्या यह प्यार हो सकता है?
+Could we order now?	Könnten wir jetzt bestellen?	क्या हम अब आदेश दे सकते हैं?
+Court is adjourned.	Das Gericht ist vertagt.	अदालत बंद हो गई है।
+Crime does not pay.	Verbrechen lohnt sich nicht.	अपराध का परिणाम अच्छा नहीं है।
+Deal with it later.	Kümmere dich später darum.	बाद में इसे संभालें।
