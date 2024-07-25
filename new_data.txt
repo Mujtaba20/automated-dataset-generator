@@ -10836,3 +10836,13 @@ Tom was elected.	Tom wurde gewählt.	टॉम को चुना गया थ
 Tom was enraged.	Tom war wütend.	टॉम उन्मत्त था।
 Tom was evasive.	Tom war ausweichend.	टॉम टाल-मटोल कर रहा था।
 Tom was excited.	Tom war aufgeregt.	टॉम उत्साहित था।
+Tom was focused.	Tom war konzentriert.	टॉम केंद्रित था।
+Tom was foolish.	Tom war töricht.	टॉम मूर्ख था।
+Tom was frantic.	Tom war hektisch.	टॉम उत्तेजित था।
+Tom was furious.	Tom war wütend.	टॉम गुस्से में था।
+Tom was healthy.	Tom war gesund.	टॉम स्वस्थ था।
+Tom was helpful.	Tom war hilfreich.	टॉम मददगार था।
+Tom was hurting.	Tom tat weh.	टॉम को चोट आ गयी थी।
+Tom was in love.	Tom war verliebt.	टॉम प्यार में था।
+Tom was in pain.	Tom hatte Schmerzen.	टॉम को दर्द था।
+Tom was injured.	Tom wurde verletzt.	टॉम चोट खा गया था।
