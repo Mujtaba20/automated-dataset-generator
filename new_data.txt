@@ -2242,3 +2242,13 @@ We are sick.	Wir sind krank.	हम बीमार हैं।
 We ate eggs.	Wir haben Eier gegessen.	हमने अंडे खाए।
 We broke up.	Wir haben uns getrennt.	हमने ब्रेकअप कर लिया।
 We can meet.	Wir können uns treffen.	हम मिल सकते हैं।
+We can talk.	Wir können reden.	हम बात कर सकते हैं।
+We can wait.	Wir können warten.	हम इंतजार कर सकते हैं।
+We can't go.	Wir können nicht gehen.	हम नहीं जा सकते।
+We found it.	Wir haben es gefunden.	हमने यह पाया।
+We found it. (Different meaning)	Wir haben es entdeckt.	हमने यह मिल गया।
+We found it. (Another different meaning)	Wir haben es herausgefunden.	हमने यह निकाला।
+We help Tom.	Wir helfen Tom.	हम टॉम की मदद करते हैं।
+We know Tom.	Wir kennen Tom.	हम टॉम को जानते हैं।
+We know him.	Wir kennen ihn.	हम उसे जानते हैं।
+We know why.	Wir wissen warum.	हम जानते हैं क्यों।
