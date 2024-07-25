@@ -1762,3 +1762,13 @@ I'll get up.	Ich werde aufstehen.	मैं उठ जाऊंगा।
 I'll go now.	Ich gehe jetzt.	मैं अभी जा रहा हूं।
 I'll go see.	Ich werde gehen und sehen.	मैं जाऊंगा और देखूंगा।
 I'll manage.	Ich werde das regeln.	मैं संभाल लूंगा।
+I'll scream.	Ich werde schreien.	मैं चिल्लाऊंगा।
+I'll use it.	Ich werde es benutzen.	मैं इसे उपयोग करूंगा।
+I'm 17, too.	Ich bin auch 17.	मैं भी 17 हूँ।
+I'm a baker.	Ich bin ein Bäcker.	मैं एक बेकर हूँ।
+I'm a child.	Ich bin ein Kind.	मैं एक बच्चा हूँ।
+I'm a klutz.	Ich bin ein Tollpatsch.	मैं एक अकड़ मैकड़ हूँ।
+I'm a loner.	Ich bin ein Einzelgänger.	मैं एक अकेला हूँ।
+I'm a medic.	Ich bin ein Sanitäter.	मैं चिकित्सक हूँ।
+I'm a nurse.	Ich bin eine Krankenschwester.	मैं एक नर्स हूँ।
+I'm a nurse. #2	Ich bin eine Pflegerin.	मैं एक नर्स हूँ।
