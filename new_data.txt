@@ -14663,3 +14663,12 @@ Tom started that.	Tom hat das angefangen.	टॉम ने उसे शुर�
 Tom stayed awake.	Tom blieb wach.	टॉम जागा रहा।
 Tom stayed close.	Tom blieb in der Nähe.	टॉम पास रहा।
 Tom stayed quiet.	Tom blieb ruhig.	टॉम शांत रहा।
+Tom stayed there.	Tom blieb dort.	टॉम वहाँ रुका था।
+Tom steals stuff.	Tom stiehlt Sachen.	टॉम चीजें चुराता है।
+Tom stepped away.	Tom trat zurück.	टॉम दूर चला गया।
+Tom stepped back.	Tom trat zurück.	टॉम पीछे हटा।
+Tom stood frozen.	Tom stand eingefroren.	टॉम फ्रोज़न पड़े रहे।
+Tom stood nearby.	Tom stand in der Nähe.	टॉम पास में खड़ा था।
+Tom stopped here.	Tom hielt hier an.	टॉम यहाँ रुक गया।
+Tom stuck around.	Tom blieb stecken.	टॉम चक्कर में फस गया।
+Tom studied hard.	Tom hat hart studiert.	टॉम ने मेहनत से पढ़ाई की।
