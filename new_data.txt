@@ -3750,3 +3750,7 @@ Be a good boy.	Sei ein braver Junge.	एक अच्छे लड़के ब�
 Be reasonable.	Sei vernünftig.	तर्कसंगत रहो।
 Be very quiet.	Sei ganz ruhig.	बहुत शांत रहो।
 Beat it, kids!	Verzieht euch, Kinder!	चले जाओ, बच्चों!
+Beat the eggs.	Die Eier aufschlagen.	अंडे मारो।
+Break it down.	Es herunterbrechen.	उसे कुचल दो।
+Bring it here.	Es hierhinbringen.	यहाँ ले आना।
+Bring the key.	Den Schlüssel bringen.	कुंजी लाओ।
