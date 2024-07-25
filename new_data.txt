@@ -12446,3 +12446,13 @@ I hit a home run.	Ich habe einen Home Run geschlagen.	मैंने घर म
 I hit on an idea.	Mir kam eine Idee.	मुझे एक विचार आया।
 I hope I'm wrong.	Ich hoffe, ich liege falsch.	मुझे आशा है कि मैं गलत हूँ।
 I hope Tom comes.	Ich hoffe, Tom kommt.	मुझे आशा है कि टॉम आए।
+I hope Tom knows.	Ich hoffe, Tom weiß.	मुझे आशा है कि टॉम को पता है।
+I hope it's true.	Ich hoffe, es ist wahr.	मुझे आशा है कि यह सच है।
+I just love that.	Ich liebe das einfach.	मैं बस उसे पसंद करता हूँ।
+I just work here.	Ich arbeite hier nur.	मैं यहाँ काम करता हूँ।
+I keep a journal.	Ich führe ein Tagebuch.	मैं एक जर्नल रखता हूँ।
+I kept the money.	Ich habe das Geld behalten.	मैंने पैसे रखे थे।
+I knew the risks.	Ich kannte die Risiken.	मुझे खतरों का ज्ञान था।
+I know I'm right.	Ich weiß, dass ich recht habe.	मुझे पता है कि मैं सही हूँ।
+I know Tom is in.	Ich weiß, dass Tom dabei ist.	मुझे पता है कि टॉम में है।
+I know Tom knows.	Ich weiß, dass Tom weiß.	मुझे पता है कि टॉम को पता है।
