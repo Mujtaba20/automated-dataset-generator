@@ -7379,3 +7379,13 @@ Tom is smarter.	Tom ist klüger.	टॉम बुद्धिमान है।
 Tom is smashed.	Tom ist zerschlagen.	टॉम पीटा गया है।
 Tom is smiling.	Tom lächelt.	टॉम मुस्कान कर रहा है।
 Tom is smoking.	Tom raucht.	टॉम सिगरेट पी रहा है।
+Tom is snoring.	Tom schnarcht.	टॉम सुर से रह रहा है।
+Tom is so nice.	Tom ist so nett.	टॉम इतना प्यारा है।
+Tom is so rude.	Tom ist so unhöflich.	टॉम इतना गुस्सा है।
+Tom is sobbing.	Tom schluchzt.	टॉम रो रहा है।
+Tom is special.	Tom ist besonders.	टॉम विशेष है।
+Tom is spoiled.	Tom ist verwöhnt.	टॉम को बिगाड़ दिया गया है।
+Tom is starved.	Tom ist ausgehungert.	टॉम भूखा है।
+Tom is staying.	Tom bleibt.	टॉम ठहर रहा है।
+Tom is strange.	Tom ist seltsam.	टॉम अजीब है।
+Tom is stuffed.	Tom ist vollgestopft.	टॉम भरा हुआ है।
