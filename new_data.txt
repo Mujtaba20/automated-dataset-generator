@@ -3803,3 +3803,11 @@ Do I look fat?	Sehe ich fett aus?	क्या मैं मोटा लग र
 Do cats dream?	Träumen Katzen?	क्या बिल्लियाँ सपने देखती हैं?
 Do fish sleep?	Schlafen Fische?	क्या मछलियाँ सोती हैं?
 Do it at once.	Mach es sofort.	उसे तुरंत करें।
+Do it for Tom.	Tu es für Tom.	टॉम के लिए ऐसा करें।
+Do it quickly.	Mach es schnell.	जल्दी करो।
+Do it with me.	Tu es mit mir.	मेरे साथ करो।
+Do me a favor.	Tu mir einen Gefallen.	मेरे लिए एक महान कार्य करें।
+Do what I say.	Tu, was ich sage.	जो मैं कहता हूँ, वह करो।
+Do you follow?	Folgst du?	क्या आप मेरा मार्ग अनुसरण कर रहे हैं?
+Do it quickly. 2	Mach es flott.	जल्दी करो।
+Do what I say. 2	Tu, was ich verlange.	जो मैं कहता हूँ, उसे पूरा करो।
