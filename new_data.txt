@@ -9103,3 +9103,13 @@ I was on a bike.	Ich war auf einem Fahrrad.	मैं एक साइकिल 
 I was sent home.	Ich wurde nach Hause geschickt.	मुझे घर भेज दिया गया था।
 I was skeptical.	Ich war skeptisch.	मुझे संदेह था।
 I was surprised.	Ich war überrascht.	मुझे आश्चर्य हुआ।
+I was too drunk.	Ich war zu betrunken.	मैं बहुत नशे में था।
+I was too small.	Ich war zu klein.	मैं बहुत छोटा था।
+I was very busy.	Ich war sehr beschäftigt.	मैं बहुत व्यस्त था।
+I was very cold.	Mir war sehr kalt.	मुझे बहुत ठंड लग रही थी।
+I was very poor.	Ich war sehr arm.	मैं बहुत गरीब था।
+I wasn't afraid.	Ich hatte keine Angst.	मैं डरा नहीं था।
+I wasn't asleep.	Ich war nicht eingeschlafen.	मैं सोया नहीं था।
+I wasn't honest.	Ich war nicht ehrlich.	मैं ईमानदार नहीं था।
+I wasn't hungry.	Ich war nicht hungrig.	मुझे भूख नहीं थी।
+I wasn't lonely.	Ich war nicht allein.	मैं अकेला नहीं था।
