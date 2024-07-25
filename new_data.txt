@@ -7664,3 +7664,13 @@ Tom was stoned.	Tom war bekifft.	टॉम नशे में था।
 Tom was strong.	Tom war stark.	टॉम मजबूत था।
 Tom was stupid.	Tom war dumm.	टॉम बेवकूफ था।
 engSentence		
+Tom wasn't shy.	Tom war nicht schüchtern.	टॉम शर्मीला नहीं था।
+Tom wasn't wet.	Tom war nicht nass.	टॉम गीला नहीं था।
+Tom went alone.	Tom ging alleine.	टॉम अकेला गया।
+Tom went blind.	Tom wurde blind.	टॉम अंधा हो गया।
+Tom went crazy.	Tom wurde verrückt.	टॉम पागल हो गया।
+Tom went first.	Tom ging zuerst.	टॉम सबसे पहले गया।
+Tom will agree.	Tom wird zustimmen.	टॉम सहमत होगा।
+Tom will check.	Tom wird nachsehen.	टॉम जांच करेगा।
+Tom will dance.	Tom wird tanzen.	टॉम नृत्य करेगा।
+Tom will do it.	Tom wird es tun.	टॉम यह करेगा।
