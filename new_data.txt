@@ -16112,3 +16112,13 @@ He was imprisoned.	Er wurde eingesperrt.	उसे जेल में बंद
 He was very happy.	Er war sehr glücklich.	वह खुश था।
 He was very tired.	Er war sehr müde.	वह बहुत थका हुआ था।
 He was wide awake.	Er war hellwach.	वह बिल्कुल जागरूक था।
+He went back home.	Er ging nach Hause.	वह घर वापस गया।
+He went ballistic.	Er wurde aggressiv.	उसने क्रोधित किया।
+He went ballistic. - Different Meaning	Er flippte aus.	उसने पागल होके किया।
+He will be missed.	Er wird vermisst werden.	उसे याद किया जाएगा।
+He will be missed. - Different Meaning	Er wird verpasst werden.	उसकी खोज में याद किया जाएगा।
+He will come back.	Er wird zurückkommen.	वह वापस आएगा।
+He will come soon.	Er wird bald kommen.	वह जल्दी आएगा।
+He wore old shoes.	Er trug alte Schuhe.	उसने पुराने जूते पहने थे।
+He wore old shoes. - Different Meaning	Er hatte alte Schuhe an.	उसने पुराने जूते पहने हुए थे।
+He wore red pants.	Er trug rote Hosen.	उसने लाल पैंट पहनी थी।
