@@ -17589,3 +17589,10 @@ My laptop crashed.1	Mein Laptop ist abgestürzt.	मेरा लैपटॉप
 My life is boring.	Mein Leben ist langweilig.	मेरा जीवन उबाऊ है।
 My mind was blank.	Mein Verstand war leer.	मेरा मन खाली था।
 My mind was blank.1	Mein Geist war leer.	मेरा दिमाग खाली था।
+My mom is worried.	Meine Mutter macht sich Sorgen.	मेरी माँ चिंतित है।
+My name isn't Tom.	Mein Name ist nicht Tom.	मेरा नाम टॉम नहीं है।
+My phone vibrated.	Mein Telefon hat vibriert.	मेरा फ़ोन वायब्रेट हुआ।
+My room is a mess.	Mein Zimmer ist ein Durcheinander.	मेरा कमरा गदबद है।
+My shirt is dirty.	Mein Hemd ist schmutzig.	मेरी कमीज़ गंदी है।
+My shoulder hurts.	Meine Schulter schmerzt.	मेरी कंधे में दर्द है।
+My shoulders hurt.	Meine Schultern schmerzen.	मेरे कंधे दर्द कर रहे हैं।
