@@ -18229,3 +18229,11 @@ This gold is mine.	Dieses Gold gehört mir.	यह सोना मेरा ह
 This is Tom's car.	Hier ist das Auto von Tom.	यह टॉम की कार है।
 This is Tom's cat.	Das ist Toms Katze.	यह टॉम की बिल्ली है।
 This is Tom's dog.	Das ist Toms Hund.	यह टॉम का कुत्ता है।
+This is a coconut.	Das ist eine Kokosnuss.	यह एक नारियल है।
+This is a mistake.	Das ist ein Fehler.	यह एक गलती है।
+This is a picture.	Das ist ein Bild.	यह एक चित्र है।
+This is all on me.	Das liegt alles an mir.	ये सब मेरे ऊपर है।
+This is all wrong.	Das ist alles falsch.	यह सब गलत है।
+This is an adverb.	Das ist ein Adverb.	यह एक क्रिया विशेषण है।
+This is confusing.	Das ist verwirrend.	यह भ्रांति में डालने वाला है।
+This is delicious.	Das ist köstlich.	यह स्वादिष्ट है।

@@ -1,14 +1,4 @@
 
-This is a coconut.	Das ist eine Kokosnuss.	यह एक नारियल है।
-This is a mistake.	Das ist ein Fehler.	यह एक गलती है।
-This is a picture.	Dies ist ein Bild.	यह एक चित्र है।
-This is a picture.	Das hier ist ein Bild.	यह एक चित्र है।
-This is all on me.	Ich übernehme die Rechnung.	मैं बिल लेता हूं।
-This is all on me.	Das geht alles auf mich.	सब कुछ मेरे पास जाता है।
-This is all wrong.	Das ist alles falsch.	यह सब गलत है।
-This is an adverb.	Das hier ist ein Adverb.	यह एक क्रिया विशेषण है।
-This is confusing.	Das verwirrt nur.	वह सिर्फ भ्रमित करता है।
-This is delicious.	Das ist köstlich.	वह महंगा है।
 This is different.	Das ist anders.	वह अलग बात है।
 This is difficult.	Das ist schwierig.	यह मुश्किल है।
 This is difficult.	Das ist schwer.	यह कठिन है।
