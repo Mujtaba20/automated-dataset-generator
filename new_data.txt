@@ -6283,3 +6283,12 @@ I want to live.	Ich möchte leben.	मैं जीना चाहता/चा
 I want to play.	Ich möchte spielen.	मुझे खेलना है।
 I want to quit.	Ich möchte aufhören.	मैं निकलना चाहता/चाहती हूँ।
 I want to sing.	Ich möchte singen.	मैं गाना चाहता/चाहती हूँ।
+I want to stay.	Ich möchte bleiben.	मैं रुकना चाहता हूँ।
+I want to stop.	Ich möchte aufhören.	मैं रोकना चाहता हूँ।
+I want to work.	Ich möchte arbeiten.	मैं काम करना चाहता हूँ।
+I was all ears.	Ich war ganz Ohr.	मैं पूरा कान था।
+I was captured.	Ich wurde gefangen genommen.	मैं गिरफ्तार हो गया था।
+I was confused.	Ich war verwirrt.	मुझे भ्रमित किया गया था।
+I was coughing.	Ich habe gehustet.	मैं खांसने लगा था।
+I was dreaming.	Ich träumte.	मैं सपना देख रहा था।
+I was homesick.	Ich war heimwehkrank.	मुझे घर की याद आ रही थी।
