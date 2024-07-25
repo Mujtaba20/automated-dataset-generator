@@ -5165,3 +5165,12 @@ Tom was weary.	Tom war erschöpft.	टॉम थका हुआ था।
 Tom was wrong.	Tom lag falsch.	टॉम गलत था।
 Tom was young.	Tom war jung.	टॉम जवान था।
 Tom wasn't OK.	Tom war nicht in Ordnung.	टॉम ठीक नहीं था।
+Tom wasn't in.	Tom war nicht da.	टॉम में था नहीं।
+Tom went away.	Tom ging weg.	टॉम चला गया।
+Tom went home.	Tom ging nach Hause.	टॉम घर चला गया।
+Tom went mute.	Tom verstummte.	टॉम चुप हो गया।
+Tom went nuts.	Tom wurde verrückt.	टॉम पागल हो गया।
+Tom went pale.	Tom wurde bleich.	टॉम पीला हो गया।
+Tom went west.	Tom ging nach Westen.	टॉम पश्चिम चला गया।
+Tom whispered.	Tom flüsterte.	टॉम बोला।
+Tom will call.	Tom wird anrufen.	टॉम कॉल करेगा।
