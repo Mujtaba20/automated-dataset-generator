@@ -5292,3 +5292,12 @@ We want a car.	Wir wollen ein Auto.	हमें एक कार चाहि�
 We want candy.	Wir wollen Süßigkeiten.	हमें मिठाई चाहिए।
 We want peace.	Wir wollen Frieden.	हमें शांति चाहिए।
 We want to go.	Wir wollen gehen.	हम जाना चाहते हैं।
+We were bored.	Wir waren gelangweilt.	हम उबाऊ थे।
+We were drunk.	Wir waren betrunken.	हम नशे में थे।
+We were happy.	Wir waren glücklich.	हम खुश थे।
+We were lucky.	Wir hatten Glück.	हमें भाग्य था।
+We were right.	Wir hatten recht.	हम सही थे।
+We were wrong.	Wir lagen falsch.	हम गलत थे।
+We will fight.	Wir werden kämpfen.	हम लड़ाई लडेंगे।
+We won't lose.	Wir werden nicht verlieren.	हम हार नहीं मानेंगे।
+We wonder why.	Wir fragen uns warum.	हम सोच रहे हैं कि क्यों।
