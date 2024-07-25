@@ -1,14 +1,4 @@
 
-They just stopped.	Sie haben einfach angehalten.	आप बस रुक गए।
-They just stopped.	Sie haben einfach aufgehört.	आप बस रुक गए।
-They kidnapped me.	Sie haben mich gekidnappt.	तुमने मेरा अपहरण कर लिया।
-They knew nothing.	Sie wussten nichts.	उन्हें कुछ भी पता नहीं था।
-They knew nothing.	Sie wussten von nichts.	आपको कुछ नहीं पता था।
-They look healthy.	Sie sehen gesund aus.	आप स्वस्थ दिखते हैं।
-They look like us.	Sie sehen aus wie wir.	आप हमारी तरह दिखते हैं।
-They missed a lot.	Sie haben viel verpasst.	आप बहुत चूक गए।
-They murdered Tom.	Sie haben Tom ermordet.	आपने टॉम की हत्या कर दी।
-They must be dead.	Sie müssen tot sein.	आपको मर जाना है।
 They pay Tom well.	Sie bezahlen Tom gut.	आप टॉम को अच्छी तरह से भुगतान करते हैं।
 They ran after us.	Sie rannten uns hinterher.	वे हमारे पीछे भाग गए।
 They ran past Tom.	Sie rannten an Tom vorbei.	वे टॉम के पीछे भाग गए।

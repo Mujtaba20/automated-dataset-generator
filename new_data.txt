@@ -18140,3 +18140,11 @@ engSentence7	Sie folgten dir.	वे तुम्हारे पीछे ग�
 engSentence8	Sie sind dir gefolgt.	वे तुम्हें फ़ालोअर किया।
 engSentence9	Sie haben dich verfolgt.	उन्होंने तुम्हें पीछा किया।
 engSentence10	Sie jagten Füchse.	उन्होंने लोमड़ियों की शिकार की।
+They just stopped.	Sie hörten einfach auf.	उन्होंने बस रुक गए।
+They kidnapped me.	Sie entführten mich.	Unhone mujhe utha liya.
+They knew nothing.	Sie wussten nichts.	Unhe kuch pata hi nahi tha.
+They look healthy.	Sie sehen gesund aus.	Unhe swasth dikh rahe hain.
+They look like us.	Sie sehen aus wie wir.	Unhe hamare jaise lagte hain.
+They missed a lot.	Sie haben viel verpasst.	Unhe bahut kuch chhoot gaya.
+They murdered Tom.	Sie haben Tom ermordet.	Unhone Tom ko qatal kiya.
+They must be dead.	Sie müssen tot sein.	Unka toh marna hi padega.
