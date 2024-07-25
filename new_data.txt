@@ -11381,3 +11381,11 @@ You'll miss Tom.	Du wirst Tom vermissen.	तुम्हें टॉम की 
 You'll thank me.	Du wirst mir danken.	तुम मुझे धन्यवाद दोगे।
 You're a beauty.	Du bist eine Schönheit.	तुम एक सुंदरता हो।
 You're a coward!	Du bist ein Feigling!	तुम डरपोक हो!
+You're a coward.	Du bist feige.	तुम बहादुर नहीं हो।
+You're a genius.	Du bist ein Genie.	तुम एक महानबुद्धि हो।
+You're a nobody.	Du bist ein Niemand.	तुम कोई नहीं हो।
+You're a racist.	Du bist ein Rassist.	तुम एक नस्लवादी हो।
+You're a sexist.	Du bist sexistisch.	तुम सेक्सिस्ट हो।
+You're after me.	Du bist hinter mir her.	तुम मेरे पीछे हो।
+You're an angel.	Du bist ein Engel.	तुम एक फरिश्ता हो।
+You're an idiot.	Du bist ein Idiot.	तुम एक मूर्ख हो।
