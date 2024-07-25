@@ -19655,3 +19655,10 @@ We're out of milk.	Uns geht die Milch aus.	हमारे पास दूध �
 We're out of soap.	Uns geht die Seife aus.	हमारे पास साबुन खत्म हो गया है।
 We're out of time.	Uns fehlt die Zeit.	हमारे पास समय नहीं है।
 We're out of wine.	Uns geht der Wein aus.	हमारे पास शराब खत्म हो गई है।
+We're persevering.	Wir halten durch.	हम दृढ़ स्थायी हैं।
+We're poor people.	Wir sind arme Leute.	हम गरीब लोग हैं।
+We're quite drunk.	Wir sind ziemlich betrunken.	हम काफी नशे में हैं।
+We're quite tired.	Wir sind ziemlich müde.	हम काफी थके हुए हैं।
+We're ready to go.	Wir sind bereit zu gehen.	हम जाने के लिए तैयार हैं।
+We're really busy.	Wir sind wirklich beschäftigt.	हम वास्तव में व्यस्त हैं।
+We're really good.	Wir sind wirklich gut.	हम वास्तव में अच्छे हैं।
