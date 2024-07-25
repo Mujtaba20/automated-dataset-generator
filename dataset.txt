@@ -1,14 +1,4 @@
 
-Tom changed color.	Toms Gesichtsfarbe änderte sich.	टॉम के चेहरे का रंग बदल गया।
-Tom chickened out.	Tom hat einen Rückzieher gemacht.	टॉम ने समर्थन किया है।
-Tom chickened out.	Tom hat gekniffen.	टॉम ने चुटकी ली है।
-Tom chickened out.	Tom hat es mit der Angst zu tun bekommen.	टॉम को डर मिला।
-Tom chose to wait.	Tom entschied sich zu warten.	टॉम ने इंतजार करने का फैसला किया।
-Tom claims he won.	Tom behauptet, er habe gewonnen.	टॉम का दावा है कि वह जीत गया।
-Tom considered it.	Tom hat es in Betracht gezogen.	टॉम ने माना।
-Tom considered it.	Tom dachte darüber nach.	टॉम ने इसके बारे में सोचा।
-Tom cooked dinner.	Tom kochte das Mittagessen.	टॉम ने दोपहर का भोजन किया।
-Tom cooked dinner.	Tom kochte das Abendessen.	टॉम ने रात का खाना पकाया।
 Tom coughed again.	Tom hustete wieder.	टॉम फिर से खाँस गया।
 Tom coughed again.	Tom hat wieder gehustet.	टॉम फिर से खांसी हो गई है।
 Tom could be dead.	Tom könnte tot sein.	टॉम मर सकता है।

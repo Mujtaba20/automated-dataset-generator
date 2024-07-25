@@ -18376,3 +18376,9 @@ Tom can't stop me.	Tom kann mich nicht aufhalten.	टॉम मुझे नह�
 Tom can't whistle.	Tom kann nicht pfeifen.	टॉम सीटी नहीं बजा सकता। 
 Tom caught a cold.	Tom hat sich erkältet.	टॉम को जुकाम हो गया।
 Tom caught a fish.	Tom hat einen Fisch gefangen.	टॉम ने मछली पकड़ी।
+Tom changed color.	Tom hat die Farbe geändert.	टॉम ने रंग बदल दिया।
+Tom chickened out.	Tom hat sich gedrückt.	टॉम सिसकी।
+Tom chose to wait.	Tom entschied sich zu warten.	टॉम इंतजार करने का चुनाव किया।
+Tom claims he won.	Tom behauptet, er hat gewonnen.	टॉम दावा करता है कि उसने जीत ली।
+Tom considered it.	Tom hat es berücksichtigt.	टॉम ने यह ध्यान में रखा।
+Tom cooked dinner.	Tom hat das Abendessen vorbereitet.	टॉम ने दिन का खाना बनाया।
