@@ -6050,3 +6050,13 @@ I have a table.	Ich habe einen Tisch.	मेरे पास एक मेज़
 I have a truck.	Ich habe einen Lastwagen.	मेरे पास एक ट्रक है।
 I have a truck. (Different meaning)	Ich besitze einen LKW.	मेरे पास एक गाड़ी है।
 I have amnesia.	Ich habe Amnesie.	मुझे स्मरणशक्ति की कमी है।
+I have an idea.	Ich habe eine Idee.	मेरे पास एक विचार है।
+I have friends.	Ich habe Freunde.	मेरे दोस्त हैं।
+I have no clue.	Ich habe keine Ahnung.	मेरे पास कोई संकेत नहीं है।
+I have no home.	Ich habe kein Zuhause.	मेरे पास कोई घर नहीं है।
+I have no idea.	Ich habe keine Ahnung.	मुझे कोई विचार नहीं है।
+I have no kids.	Ich habe keine Kinder.	मेरे बच्चे नहीं हैं।
+I have no wife.	Ich habe keine Frau.	मेरी कोई पत्नी नहीं है।
+I have one kid.	Ich habe ein Kind.	मेरा एक बच्चा है।
+I have sisters.	Ich habe Schwestern.	मेरी बहनें हैं।
+I have the key.	Ich habe den Schlüssel.	मेरे पास चाबी है।
