@@ -14846,3 +14846,12 @@ Tom will improve.	Tom wird sich verbessern.	टॉम सुधरेगा।
 Tom will kill me.	Tom wird mich töten.	टॉम मुझे मार डालेगा।
 Tom will like it.	Tom wird es mögen.	टॉम को यह पसंद आएगा।
 Tom will miss me.	Tom wird mich vermissen.	टॉम मुझे याद करेगा।
+Tom will recover.	Tom wird sich erholen.	टॉम ठीक हो जाएगा।
+Tom will respond.	Tom wird antworten.	टॉम का प्रति दिया जाएगा।
+Tom will save us.	Tom wird uns retten.	टॉम हमें बचाएगा।
+Tom will say yes.	Tom wird zustimmen.	टॉम मान लेगा।
+Tom will succeed.	Tom wird erfolgreich sein.	टॉम सफल होगा।
+Tom will sue you.	Tom wird dich verklagen.	टॉम तुम पर कानूनी कार्रवाई करेगा।
+Tom will survive.	Tom wird überleben.	टॉम जीवित रहेगा।
+Tom will take it.	Tom wird es nehmen.	टॉम यह लेगा।
+Tom will tell us.	Tom wird uns sagen.	टॉम हमें बताएगा।
