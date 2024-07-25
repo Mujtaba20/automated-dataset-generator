@@ -1670,3 +1670,10 @@ I love life.	Ich liebe das Leben.	मैं जीवन से प्यार 
 I love math.	Ich liebe Mathe.	मुझे गणित पसंद है।
 I love math. 2	Ich mag Mathe.	मैंने गणित को पसंद किया।
 I love math. 3	Ich bin verrückt nach Mathe.	मुझे गणित का जुनून है।
+I love rice.	Ich liebe Reis.	मुझे चावल पसंद है।
+I love rock.	Ich liebe Gestein.	मुझे चट्टान पसंद है।
+I love snow.	Ich liebe Schnee.	मुझे बर्फ पसंद है।
+I love them.	Ich liebe sie.	मैं उन्हें पसंद करता हूँ।
+I loved her.	Ich liebte sie.	मैंने उसे प्यार किया था।
+I loved you.	Ich habe dich geliebt.	मैंने तुम्हें प्यार किया था।
+I made rice.	Ich habe Reis gemacht.	मैंने चावल बनाया।
