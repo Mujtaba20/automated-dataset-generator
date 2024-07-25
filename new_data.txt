@@ -10359,3 +10359,12 @@ Tom is bluffing.	Tom blufft.	टॉम धोखा दे रहा है।
 Tom is blushing.	Tom wird rot.	टॉम शर्मा रहा है।
 Tom is busy now.	Tom ist jetzt beschäftigt.	टॉम अब व्यस्त है।
 Tom is calm now.	Tom ist jetzt ruhig.	टॉम अब शांत है।
+Tom is careless.	Tom ist unvorsichtig.	टॉम बेपरवाह है।
+Tom is charming.	Tom ist charmant.	टॉम प्रियवान है।
+Tom is cheating.	Tom täuscht.	टॉम धोखा दे रहा है।
+Tom is cheerful.	Tom ist fröhlich.	टॉम खुशमिजाज है।
+Tom is childish.	Tom ist kindisch.	टॉम बालकाऊ है।
+Tom is clueless.	Tom hat keine Ahnung.	टॉम निराशा में है।
+Tom is confused.	Tom ist verwirrt.	टॉम भ्रमित है।
+Tom is coughing.	Tom hustet.	टॉम खांसी कर रहा है।
+Tom is creative.	Tom ist kreativ.	टॉम रचनात्मक है।
