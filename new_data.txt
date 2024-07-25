@@ -10418,3 +10418,11 @@ Tom is hammered.	Tom ist betrunken.	टॉम उत्तेजित है।
 Tom is handsome.	Tom ist gutaussehend.	टॉम सुंदर है।
 Tom is harmless.	Tom ist harmlos.	टॉम अहानिक है।
 Tom is helpless.	Tom ist hilflos.	टॉम बेबस है।
+Tom is hesitant.	Tom ist zögerlich.	टॉम अंदर देख रहा है।
+Tom is home now.	Tom ist jetzt zu Hause.	टॉम अब घर है।
+Tom is homeless.	Tom ist obdachlos.	टॉम बेघर है।
+Tom is homesick.	Tom fühlt sich heimatlos.	टॉम अकेला महसूस कर रहा है।
+Tom is hopeless.	Tom ist hoffnungslos.	टॉम निराश है।
+Tom is horrible.	Tom ist schrecklich.	टॉम भयानक है।
+Tom is humorous.	Tom ist humorvoll.	टॉम मजाकिया है।
+Tom is immature.	Tom ist unreif.	टॉम बच्चा है।
