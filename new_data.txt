@@ -15541,3 +15541,9 @@ Are you in a band?	Bist du in einer Band?	क्या तुम एक बै�
 Are you in a rush?	Hast du es eilig?	क्या तुम जल्दी में हो?
 Are you in danger?	Bist du in Gefahr?	क्या तुम खतरे में हो?
 Are you inventive?	Bist du erfinderisch?	क्या तुम आविष्कारशील हो?
+Are you listening?	Hörst du zu?	क्या तुम सुन रहे हो?
+Are you mad at me?	Bist du wütend auf mich?	क्या तुम मुझसे गुस्सा हो?
+Are you my doctor?	Bist du mein Arzt?	क्या तुम मेरे डॉक्टर हो?
+Are you my father?	Bist du mein Vater?	क्या तुम मेरे पिताजी हो?
+Are you our enemy?	Seid ihr unser Feind?	क्या तुम हमारे शत्रु हो?
+Are you out there?	Bist du draußen?	क्या तुम बाहर हो?
