@@ -10637,3 +10637,13 @@ Tom lost a book.	Tom hat ein Buch verloren.	टॉम ने एक किता
 Tom lost weight.	Tom hat Gewicht verloren.	टॉम का वजन कम हो गया है।
 Tom loves books.	Tom liebt Bücher.	टॉम को किताबों से प्यार है।
 Tom loves chili.	Tom liebt Chili.	टॉम को मिर्ची से प्यार है।
+Tom loves money.	Tom liebt Geld.	टॉम पैसा पसंद करता है।
+Tom loves music.	Tom liebt Musik.	टॉम संगीत से प्यार करता है।
+Tom loves pasta.	Tom liebt Pasta.	टॉम पास्ता पसंद करता है।
+Tom loves pizza.	Tom liebt Pizza.	टॉम पिज़्ज़ा से प्यार करता है।
+Tom made coffee.	Tom hat Kaffee gemacht.	टॉम ने कॉफी बनाई।
+Tom made dinner.	Tom hat Abendessen gemacht.	टॉम ने रात का खाना बनाया।
+Tom made me cry.	Tom hat mich zum Weinen gebracht.	टॉम ने मुझे रोने पर मजबूर किया।
+Tom may be here.	Tom ist vielleicht hier.	टॉम शायद यहाँ हो सकता है।
+Tom may be home.	Tom ist vielleicht zu Hause.	टॉम शायद घर पर हो सकता है।
+Tom may be weak.	Tom ist vielleicht schwach.	टॉम शायद कमजोर हो सकता है।
