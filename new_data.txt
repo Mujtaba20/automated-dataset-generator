@@ -4520,3 +4520,12 @@ It looks good.	Es sieht gut aus.	यह अच्छा दिखता है�
 It might rain.	Es könnte regnen.	शायद बारिश हो सकती है।
 It seems easy.	Es scheint einfach zu sein.	यह आसान लगता है।
 It sickens me.	Es macht mich krank.	मुझे यह घृणा आती है।
+It smells bad.	Es stinkt.	यह गंदा ध्वनि सुनना।
+It takes time.	Es braucht Zeit.	यह समय लेता है।
+It was a gift.	Es war ein Geschenk.	यह एक उपहार था।
+It was a joke.	Es war ein Witz.	यह मजाक था।
+It was a trap.	Es war eine Falle.	यह एक फंदा था।
+It was chilly.	Es war kalt.	यह सर्दी लग रही थी।
+It was ironic.	Es war ironisch.	यह व्यांग्यपूर्ण था।
+It was simple.	Es war einfach.	यह सरल था।
+It was stupid.	Es war dumm.	यह बेवकूफ था।
