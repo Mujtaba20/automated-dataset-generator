@@ -8035,3 +8035,8 @@ You may go now.	Sie können jetzt gehen.	आप अब जा सकते ह�
 You must do it.	Du musst es tun.	तुम्हें इसे करना होगा।
 You must leave.	Du musst weggehen.	तुम्हें चले जाना चाहिए।
 You need a car.	Sie brauchen ein Auto.	आपको एक कार की आवश्यकता है।
+You need a key.	Du musst einen Schlüssel haben.	तुम्हें एक कुंजी की आवश्यकता है।
+You need to go.	Du musst losgehen.	तुम्हें जाना है।
+You never know.	Man weiß nie.	कभी पता नहीं चलता।
+You scared Tom.	Du hast Tom erschreckt.	तुमने टॉम को डराया।
+You seem upset.	Sie scheinen verärgert zu sein.	तुम परेशान दिखते हो।
