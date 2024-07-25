@@ -6575,3 +6575,12 @@ It was a mouse.	Es war eine Maus.	यह एक चूहा था।
 It was for Tom.	Es war für Tom.	यह टॉम के लिए था।
 It was my idea.	Es war meine Idee.	यह मेरी सोच थी।
 It was my plan.	Es war mein Plan.	यह मेरी योजना थी।
+It was my turn.	Es war an der Reihe.	यह मेरी बारी थी।
+It was nothing.	Es war nichts.	इसमें कुछ नहीं था।
+It was on sale.	Es war im Angebot.	यह बिक्री पर था।
+It was on sale. (different meaning)	Es war reduziert.	यह छूट पर था।
+It was perfect.	Es war perfekt.	यह बिल्कुल सही था।
+It was snowing.	Es schneite.	बर्फ गिर रही थी।
+It was snowing. (different meaning)	Es war kalt.	यह ठंडा था।
+It was so dark.	Es war so dunkel.	यह इतना अंधेरा था।
+It wasn't easy.	Es war nicht einfach.	यह आसान नहीं था।
