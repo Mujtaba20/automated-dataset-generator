@@ -19219,3 +19219,13 @@ Tom took a stroll.	Tom machte einen Spaziergang.	टॉम ने सैर क�
 Tom took his seat.	Tom nahm seinen Platz ein.	टॉम ने अपनी सीट ली।
 Tom took his time.	Tom ließ sich Zeit.	टॉम ने अपना समय लिया।
 Tom took my money.	Tom hat mein Geld genommen.	टॉम ने मेरा पैसा लिया।
+Tom took the bait.	Tom ging auf den Köder ein.	टॉम ने जाल में फंसा लिया।
+Tom travels a lot.	Tom reist viel.	टॉम बहुत सारे स्थानों पर जाता है।
+Tom tried to help.	Tom versuchte zu helfen.	टॉम ने मदद करने की कोशिश की।
+Tom tried to swim.	Tom versuchte zu schwimmen.	टॉम ने तैरने की कोशिश की।
+Tom turned around.	Tom drehte sich um.	टॉम घूमकर देखा।
+Tom turned around. (Different meaning)	Tom kehrte um.	टॉम उलटी दिशा में चला गया।
+Tom used to drink.	Tom trank früher.	टॉम पहले पीता था।
+Tom used to smoke.	Tom rauchte früher.	टॉम पहले सिगरेट पीता था।
+Tom videotaped it.	Tom hat es auf Video aufgenommen.	टॉम ने इसे वीडियो में रिकॉर्ड किया।
+Tom videotaped it. (Different meaning)	Tom filmte es.	टॉम ने इसे फिल्माया।

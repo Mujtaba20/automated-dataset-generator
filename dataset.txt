@@ -1,14 +1,4 @@
 
-Tom took the bait.	Tom hat angebissen.	टॉम ने काट लिया है।
-Tom travels a lot.	Tom reist viel.	टॉम बहुत यात्रा करता है।
-Tom tried to help.	Tom hat versucht zu helfen.	टॉम ने मदद करने की कोशिश की।
-Tom tried to swim.	Tom versuchte zu schwimmen.	टॉम ने तैरने की कोशिश की।
-Tom turned around.	Tom hat sich umgedreht.	टॉम बदल गया है।
-Tom turned around.	Tom drehte sich um.	टॉम बदल गया।
-Tom used to drink.	Tom hat früher getrunken.	टॉम पहले पिया।
-Tom used to smoke.	Tom hat früher geraucht.	टॉम ने पहले धूम्रपान किया।
-Tom videotaped it.	Tom hat es auf Videoband aufgenommen.	टॉम ने इसे वीडियो टेप पर रिकॉर्ड किया।
-Tom videotaped it.	Tom hat es auf Video aufgezeichnet.	टॉम ने इसे वीडियो पर रिकॉर्ड किया।
 Tom vomited blood.	Tom spuckte Blut.	टॉम थूक खून।
 Tom vomited twice.	Tom erbrach zweimal.	टॉम ने दो बार उल्टी की।
 Tom vomited twice.	Tom hat zweimal erbrochen.	टॉम ने दो बार उल्टी की।
