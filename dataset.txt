@@ -1,14 +1,4 @@
 
-Tom will catch us.	Tom wird uns fangen.	टॉम हमें पकड़ लेगा।
-Tom will complain.	Tom wird sich beschweren.	टॉम शिकायत करेंगे।
-Tom will continue.	Tom wird weitermachen.	टॉम जारी रहेगा।
-Tom will die soon.	Tom wird bald sterben.	टॉम जल्द ही मर जाएगा।
-Tom will find out.	Tom wird es herausbekommen.	टॉम इसे बाहर निकाल देगा।
-Tom will find you.	Tom wird dich finden.	टॉम आपको मिल जाएगा।
-Tom will find you.	Tom wird euch finden.	टॉम आपको मिल जाएगा।
-Tom will find you.	Tom wird Sie finden.	टॉम उन्हें ढूंढ लेंगे।
-Tom will go alone.	Tom geht allein hin.	टॉम अकेले जाता है।
-Tom will go alone.	Tom geht allein.	टॉम अकेले जाता है।
 Tom will obey you.	Tom wird dir gehorchen.	टॉम आपकी बात मान लेंगे।
 Tom will obey you.	Tom wird Ihnen gehorchen.	टॉम उनकी आज्ञा मानेंगे।
 Tom will obey you.	Tom wird euch gehorchen.	टॉम आपकी बात मान लेंगे।

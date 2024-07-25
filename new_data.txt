@@ -19394,3 +19394,10 @@ Tom will be ready.	Tom wird bereit sein.	टॉम तैयार होगा�
 Tom will be there.	Tom wird da sein.	टॉम वहाँ होगा।
 Tom will be tired.	Tom wird müde sein.	टॉम थका हुआ होगा।
 Tom will beat you.	Tom wird dich schlagen.	टॉम तुम्हें पीटेगा।
+Tom will catch us.	Tom wird uns fangen.	टॉम हमें पकड़ लेगा।
+Tom will complain.	Tom wird sich beschweren.	टॉम शिकायत करेगा।
+Tom will continue.	Tom wird fortfahren.	टॉम आगे बढ़ेगा।
+Tom will die soon.	Tom wird bald sterben.	टॉम जल्द ही मरेगा।
+Tom will find out.	Tom wird herausfinden.	टॉम पता लगा लेगा।
+Tom will find you.	Tom wird dich finden.	टॉम तुम्हें ढूंढ़ लेगा।
+Tom will go alone.	Tom wird alleine fahren.	टॉम अकेले निकल जाएगा।
