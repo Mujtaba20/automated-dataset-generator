@@ -1,14 +1,4 @@
 
-It's the only way.	Das ist die einzige Möglichkeit.	यह एकमात्र संभावना है।
-It's their choice.	Sie haben die Wahl.	तुम्हे जो पसंद है।
-It's three pounds.	Das macht drei Pfund.	यह तीन पाउंड बनाता है।
-It's three pounds.	Das wiegt anderthalb Kilo.	इसका वजन डेढ़ किलो है।
-It's time for bed.	Es ist Schlafenszeit.	यह सोने का समय है।
-It's time for bed.	Es ist Zeit fürs Bett.	यह बिस्तर का समय है।
-It's time for bed.	Es ist Zeit zu schlafen.	सोने का वक्त हो गया।
-It's time for bed.	Zeit, ins Bett zu gehen!	बिस्तर पर जाने का व़क्त!
-It's time to quit.	Es ist Zeit aufzuhören.	यह रुकने का समय है।
-It's to the point.	Es ist genau richtig.	यह बिल्कुल सही है।
 It's too far away.	Es ist zu weit weg.	यह बहुत दूर भी है।
 It's too far away.	Es ist zu weit entfernt.	यह बहुत दूर है।
 It's too late now.	Es ist jetzt zu spät.	अब बहुत देर हो चुकी है।

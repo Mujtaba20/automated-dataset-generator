@@ -17445,3 +17445,9 @@ It's still Monday.	Es ist immer noch Montag.	अभी भी सोमवार
 It's still closed.	Es ist immer noch geschlossen.	अभी भी बंद है।
 It's still frozen.	Es ist immer noch gefroren.	अभी भी जमा हुआ है।
 It's still rising.	Es steigt immer noch.	अभी भी बढ़ता जा रहा है।
+It's the only way.	Es ist der einzige Weg.	यही एकमात्र रास्ता है।
+It's their choice.	Es ist ihre Wahl.	यह उनकी पसंद है।
+It's three pounds.	Es macht drei Pfund.	यह तीन पाउंड का है।
+It's time for bed.	Es ist Zeit fürs Bett.	सोने का समय है।
+It's time to quit.	Es ist Zeit aufzuhören.	बंद करने का समय है।
+It's to the point.	Es ist auf den Punkt gebracht.	इस बिंदु पर है।
