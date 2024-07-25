@@ -8023,3 +8023,9 @@ You guys stink.	Ihr stinkt.	तुम बहुत बदबू देते ह
 You have to go.	Du musst los.	तुम्हें चले जाना चाहिए।
 You killed Tom.	Du hast Tom getötet.	तुमने टॉम को मार दिया।
 You learn fast.	Du lernst schnell.	तुम तेजी से सीखते हो।
+You lied to me.	Du hast mich angelogen.	तुमने मुझसे झूठ बोला।
+You lied to us.	Du hast uns angelogen.	तुमने हमें झूठ बोला।
+You look great.	Du siehst großartig aus.	तुम शानदार लग रहे हो।
+You look happy.	Du siehst glücklich aus.	तुम खुश लग रहे हो।
+You look older.	Du siehst älter aus.	तुम बड़े लग रहे हो।
+You look sharp.	Du siehst scharf aus.	तुम तेज़ लग रहे हो।
