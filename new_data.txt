@@ -12904,3 +12904,12 @@ I'm killing time.	Ich vertreibe mir die Zeit.	मैं समय का ना�
 I'm nearly blind.	Ich bin fast blind.	मैं लगभग अंधा हूँ।
 I'm nearly ready.	Ich bin fast bereit.	मैं लगभग तैयार हूँ।
 I'm nervous, too.	Ich bin auch nervös.	मैं भी घबराया हुआ हूँ।
+I'm not Canadian.	Ich bin kein Kanadier.	मैं कनाडियन नहीं हूँ।
+I'm not a coward.	Ich bin kein Feigling.	मैं कायर नहीं हूँ।
+I'm not a doctor.	Ich bin kein Arzt.	मैं डॉक्टर नहीं हूँ।
+I'm not a farmer.	Ich bin kein Bauer.	मैं किसान नहीं हूँ।
+I'm not a lawyer.	Ich bin kein Anwalt.	मैं वकील नहीं हूँ।
+I'm not a member.	Ich bin kein Mitglied.	मैं सदस्य नहीं हूँ।
+I'm not a prince.	Ich bin kein Prinz.	मैं राजकुमार नहीं हूँ।
+I'm not an angel.	Ich bin kein Engel.	मैं एक फरिश्ता नहीं हूँ।
+I'm not an idiot.	Ich bin nicht dumm.	मैं मूर्ख नहीं हूँ।
