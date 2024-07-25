@@ -15490,3 +15490,8 @@ Admission is free.	Der Eintritt ist frei.	प्रवेश मुफ्त ह
 Alcohol is a drug.	Alkohol ist eine Droge.	शराब एक दवा है।
 All I want is you.	Alles, was ich will, bist du.	मेरी चाहत तुम हो।
 All men are equal.	Alle Menschen sind gleich.	सभी लोग बराबर हैं।
+Am I a bad person?	Bin ich eine schlechte Person?	क्या मैं एक बुरा इंसान हूँ?
+Am I annoying you?	Mache ich dich wahnsinnig?	क्या मैं तुम्हें परेशान कर रहा हूँ?
+Am I making sense?	Kommst du mit mir klar?	क्या मेरी बात समझ रहे हो?
+Am I the only one?	Bin ich der Einzige?	क्या मैं एकल हूँ?
+Am I under arrest?	Bin ich verhaftet?	क्या मैं गिरफ्तार हूँ?
