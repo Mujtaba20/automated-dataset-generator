@@ -2773,3 +2773,12 @@ I tried hard. (different meaning 2)	Ich habe es wirklich versucht.	मैंन�
 I understand.	Ich verstehe.	मुझे समझ में आया।
 I want a dog.	Ich möchte einen Hund.	मुझे एक कुत्ता चाहिए।
 I want a hat.	Ich will einen Hut.	मुझे टोपी चाहिए।
+I want a job.	Ich will einen Job.	मुझे नौकरी चाहिए।
+I want a lot.	Ich will viel.	मुझे बहुत कुछ चाहिए।
+I want facts.	Ich will Fakten.	मुझे तथ्य चाहिए।
+I want money.	Ich will Geld.	मुझे पैसे चाहिए।
+I want proof.	Ich möchte einen Beweis.	मुझे प्रमाण चाहिए।
+I want these.	Ich will diese.	मुझे ये चाहिए।
+I want to go.	Ich möchte gehen.	मैं जाना चाहता हूँ।
+I was a fool.	Ich war ein Narr.	मैं पागल था।
+I was hungry.	Ich hatte Hunger.	मुझे भूख लगी थी।
