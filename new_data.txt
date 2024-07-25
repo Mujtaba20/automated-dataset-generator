@@ -3558,3 +3558,14 @@ We know this.	Wir kennen das.	हम यह जानते हैं।
 We liked Tom.	Wir mochten Tom.	हमें टॉम पसंद था।
 We live here.	Wir leben hier.	हम यहाँ रहते हैं।
 We looked up.	Wir schauten auf.	हमने ऊपर देखा।
+We love this.	Wir lieben das.	हम इसे पसंद करते हैं।
+We must obey.	Wir müssen gehorchen.	हमें आज्ञा का पालन करना चाहिए।
+We must talk.	Wir müssen reden.	हमें बात करनी चाहिए।
+We should speak.	Wir sollten sprechen.	हमें बोलना चाहिए।
+We need help.	Wir brauchen Hilfe.	हमें मदद की आवश्यकता है।
+We require assistance.	Wir benötigen Unterstützung.	हमें सहायता की आवश्यकता है।
+We need rain.	Wir brauchen Regen.	हमें बारिश की जरूरत है।
+We need them.	Wir brauchen sie.	हमें उनकी जरूरत है।
+We require them.	Wir benötigen sie.	हमें उनकी आवश्यकता है।
+We need this.	Wir brauchen das.	हमें इसकी आवश्यकता है।
+We overslept.	Wir haben verschlafen.	हमने अधिक नींद ली।
