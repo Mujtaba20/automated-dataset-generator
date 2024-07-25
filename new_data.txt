@@ -16145,3 +16145,13 @@ He's raking it in.	Er häuft es an.	वह इसे इकट्ठा कर �
 He's really quick.	Er ist wirklich schnell.	वह वास्तव में तेज है।
 He's sound asleep.	Er schläft tief und fest.	वह गहरी नींद में है।
 He's studying now.	Er studiert jetzt.	वह अब पढ़ रहा है।
+He's swimming now.	Er schwimmt jetzt.	वह अभी तैर रहा है।
+He's too trusting.	Er ist zu vertrauensvoll.	वह बहुत भरोसेमन्द है।
+He's very curious.	Er ist sehr neugierig.	वह बहुत जिज्ञासु है।
+Her eyes are blue.	Ihre Augen sind blau.	उसकी आंखें नीली हैं।
+Her legs are long.	Ihre Beine sind lang.	उसकी टांगें लंबी हैं।
+Her nails are red.	Ihre Nägel sind rot.	उसके नाखून लाल हैं।
+Her name was Mary.	Ihr Name war Mary.	उसका नाम मेरी था।
+Her skin was warm.	Ihre Haut war warm.	उसकी त्वचा गर्म थी।
+Her story is true.	Ihre Geschichte ist wahr.	उसकी कहानी सच है।
+Here are the keys.	Hier sind die Schlüssel.	यहाँ चाबियाँ हैं।
