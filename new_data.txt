@@ -4411,3 +4411,11 @@ I'm just lazy.	Ich bin einfach faul.	मैं सिर्फ आलसी ह�
 I'm listening.	Ich höre zu.	मैं सुन रहा हूं।
 I'm miserable.	Ich bin elend.	मेरी हालत बेहाल है।
 I'm motivated.	Ich bin motiviert.	मुझे प्रेरित किया गया है।
+I'm no expert.	Ich bin kein Fachmann.	मैं कोई पेशेवर नहीं हूँ।
+I'm not a spy.	Ich bin kein Spion.	मैं जासूस नहीं हूँ।
+I'm not alone.	Ich bin nicht alleine.	मैं अकेला नहीं हूँ।
+I'm not angry!	Ich bin nicht böse!	मैं गुस्से में नहीं हूँ!
+I'm not armed.	Ich bin nicht bewaffnet.	मैं हथियारबंद नहीं हूँ।
+I'm not blind.	Ich bin nicht blind.	मैं अंधा नहीं हूँ।
+I'm not brave.	Ich bin nicht mutig.	मैं बहादुर नहीं हूँ।
+I'm not crazy.	Ich bin nicht verrückt.	मैं पागल नहीं हूँ।
