@@ -16696,3 +16696,12 @@ I loved that book.	Ich liebte dieses Buch.	मुझे वह किताब �
 I loved that show.	Ich mochte diese Show gerne.	मुझे वो शो पसंद था।
 I made a decision.	Ich habe eine Entscheidung getroffen.	मैंने एक निर्णय लिया।
 I made fun of him.	Ich habe mich über ihn lustig gemacht.	मैंने उसका मज़ाक उड़ाया।
+I made this chair.	Ich habe diesen Stuhl gemacht.	मैंने यह कुर्सी बनाई।
+I made you coffee.	Ich habe dir Kaffee gemacht.	मैंने तुम्हें कॉफ़ी बनाई।
+I may not do that.	Das darf ich vielleicht nicht tun.	मैं यह नहीं कर सकता।
+I may not make it.	Ich schaffe es vielleicht nicht.	मैं इसे नहीं कर सकता।
+I mean what I say.	Ich meine, was ich sage.	मैं जो कहता हूँ वही मतलब करता हूँ।
+I met Tom in jail.	Ich traf Tom im Gefängnis.	मैंने तोम से जेल में मिला।
+I met Tom tonight.	Ich habe Tom heute Abend getroffen.	मैंने टॉम से आज रात मिला।
+I met your friend.	Ich habe deinen Freund getroffen.	मैंने तुम्हारे दोस्त से मिला।
+I miss it already.	Es fehlt mir schon.	मुझे यह पहले ही याद आ रहा है।
