@@ -17250,3 +17250,11 @@ Is the water cold?	Ist das Wasser kalt?	क्या पानी ठंडा �
 Is there a curfew?	Gibt es eine Ausgangssperre?	क्या आपातकालीन प्रबंधन है?
 Is there a reward?	Gibt es eine Belohnung?	क्या कोई पुरस्कार है?
 Is there any news?	Gibt es irgendwelche Neuigkeiten?	कोई खबर है?
+Is this Tom's bag?	Ist das Toms Tasche?	क्या यह टॉम का बैग है?
+Is this Tom's car?	Ist das Toms Auto?	क्या यह टॉम की कार है?
+Is this Tom's cup?	Ist das Toms Tasse?	क्या यह टॉम का कप है?
+Is this a new car?	Ist das ein neues Auto?	क्या यह एक नई कार है?
+Is this a problem?	Ist das ein Problem?	क्या यह समस्या है?
+Is this about Tom?	Geht es um Tom?	क्या यह टॉम के बारे में है?
+Is this all yours?	Ist das alles dir?	क्या यह सब तुम्हारा है?
+Is this bag Tom's?	Ist diese Tasche Toms?	क्या यह बैग टॉम की है?
