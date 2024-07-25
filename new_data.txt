@@ -16940,3 +16940,12 @@ I was very scared.	Ich hatte sehr Angst.	मैं बहुत डरा हु
 I washed my hands.	Ich habe meine Hände gewaschen.	मैंने अपने हाथ धोये।
 I wasn't dreaming.	Ich habe nicht geträumt.	मैं सपना नहीं देख रहा था।
 I wasn't flirting.	Ich habe nicht geflirtet.	मैं इश्क़ नहीं कर रहा था।
+I wasn't sleeping.	Ich habe nicht geschlafen.	मैं सो नहीं रहा था।
+I went home early.	Ich bin früh nach Hause gegangen.	मैं जल्दी घर गया।
+I went on reading.	Ich las weiter.	मैं पढ़ना जारी रखा।
+I went to see Tom.	Ich ging zu Tom.	मैं टॉम से मिलने गया।
+I went to the zoo.	Ich ging in den Zoo.	मैं चिड़ियाघर गया।
+I will do my best.	Ich werde mein Bestes tun.	मैं अपनी सबसे बेहतर प्रयास करूंगा।
+I will go on foot.	Ich werde zu Fuß gehen.	मैं पैदल चला जाऊँगा।
+I will inform Tom.	Ich werde Tom informieren.	मैं टॉम को सूचित करूंगा।
+I will never tell!	Ich werde niemals erzählen!	मैं कभी नहीं बताऊंगा!
