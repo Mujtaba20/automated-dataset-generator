@@ -13315,3 +13315,11 @@ Many people died.	Viele Menschen starben.	कई लोगों की मौ�
 Many people hunt.	Viele Menschen jagen.	कई लोग शिकार करते हैं।
 Many people left.	Viele Leute sind gegangen.	कई लोग चले गए।
 Mars is a planet.	Mars ist ein Planet.	मंगल ग्रह है।
+Mary is a mother.	Maria ist eine Mutter.	मेरी एक माँ है।
+Mary is a tomboy.	Maria ist ein Wildfang.	मेरी एक टॉमबॉय है।
+Mary is charming.	Maria ist reizend.	मेरी एक आकर्षक है।
+Mary is graceful.	Maria ist anmutig.	मेरी एक सुलभता है।
+Mary is my niece.	Maria ist meine Nichte.	मेरी एक भतीजी है।
+Mary is pregnant.	Maria ist schwanger.	मेरी गर्भवती है।
+Mary slapped Tom.	Maria schlug Tom.	मेरी ने टॉम को थप्पड़ मारा।
+Mary, I love you.	Maria, ich liebe dich.	मेरी, मैं तुमसे प्यार करता हूँ।
