@@ -14643,3 +14643,13 @@ Tom sleeps a lot.	Tom schläft viel.	टॉम बहुत सोता है�
 Tom smells awful.	Tom riecht furchtbar.	टॉम की बहुत ही खराब गंध है।
 Tom smells weird.	Tom riecht seltsam.	टॉम की अजीब गंध है।
 Tom smiled again.	Tom lächelte erneut.	टॉम फिर से मुस्कुराया।
+Tom smiled at me.	Tom lächelte mich an.	टॉम मुझे मुस्कुराए।
+Tom smiled shyly.	Tom lächelte schüchtern.	टॉम शर्माते हुए मुस्कुराए।
+Tom sounded busy.	Tom wirkte beschäftigt.	टॉम व्यस्त लग रहा था।
+Tom sounds angry.	Tom klingt wütend.	टॉम गुस्से में लग रहा है।
+Tom sounds tired.	Tom klingt müde.	टॉम थका हुआ लग रहा है।
+Tom sounds upset.	Tom klingt verärgert.	टॉम उदास लग रहा है।
+Tom sounds upset. - Different Meaning	Tom klingt aufgebracht.	टॉम परेशान लग रहा है।
+Tom spoke French.	Tom sprach Französisch.	टॉम ने फ्रांसीसी बोली।
+Tom spoke calmly.	Tom sprach ruhig.	टॉम शांति से बोले।
+Tom spoke gently.	Tom sprach sanft.	टॉम ने आदब से बोला।
