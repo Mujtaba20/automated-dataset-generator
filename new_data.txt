@@ -14918,3 +14918,12 @@ Walk ahead of me.	Geh vor mir.	मुझसे आगे चलो।
 Walk more slowly.	Gehe langsamer.	धीरे चलो।
 Was Tom handsome?	War Tom hübsch?	क्या टॉम हैंडसम था?
 Was Tom involved?	War Tom beteiligt?	क्या टॉम को शामिल किया गया था?
+What Tom murdered?	Wurde Tom ermordet?	क्या टॉम को मार दिया गया था?
+Was Tom on drugs?	War Tom unter Drogen?	क्या टॉम ड्रग्स पर था?
+Was Tom punished?	Wurde Tom bestraft?	क्या टॉम को सजा दी गई थी?
+Was Tom sleeping?	War Tom am Schlafen?	क्या टॉम सो रहा था?
+Watch this video.	Schau dir dieses Video an.	इस वीडियो को देखो।
+Watch yourselves!	Passt auf euch auf!	खुद को देखो!
+Watch yourselves.	Beobachten Sie sich.	अपना ध्यान रखें।
+Water the plants.	Gießt die Pflanzen.	पौधों को पानी दे।
+We agree as well.	Wir stimmen auch zu.	हम भी सहमत हैं।
