@@ -2484,3 +2484,7 @@ Do it for me.	Mach es für mich.	मेरे लिए यह करो।
 Do something.	Mache etwas.	कुछ करो।
 Do they know?	Wissen sie?	क्या उन्हें पता है?
 Do you agree?	Stimmst du zu?	क्या आप सहमत हैं?
+Do you drink?	Trinkst du?	क्या आप पीते हैं?
+Do you smoke?	Rauchst du?	क्या आप सिगरेट पीते हैं?
+Do you teach?	Unterrichtest du?	क्या आप पढ़ाते हैं?
+Do your best!	Gib dein Bestes!	अपनी सर्वश्रेष्ठ कोशिश करो!
