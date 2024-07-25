@@ -7078,3 +7078,12 @@ This is a book.	Das ist ein Buch.	यह किताब है।
 This is a desk.	Das ist ein Schreibtisch.	यह एक डेस्क है।
 This is a fact.	Das ist eine Tatsache.	यह एक तथ्य है।
 This is a fake.	Das ist eine Fälschung.	यह झूठ है।
+This is a joke.	Das ist ein Witz.	यह मजाक है।
+This is a lion.	Das ist ein Löwe.	यह एक शेर है।
+This is a rule.	Das ist eine Regel.	यह एक नियम है।
+This is a sign.	Das ist ein Zeichen.	यह एक संकेत है।
+This is a test.	Das ist ein Test.	यह एक परीक्षण है।
+This is a trap.	Das ist eine Falle.	यह एक फंदा है।
+This is better.	Das ist besser.	यह बेहतर है।
+This is boring.	Das ist langweilig.	यह बोरिंग है।
+This is broken.	Das ist kaputt.	यह टूटा हुआ है।
