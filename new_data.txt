@@ -14052,3 +14052,10 @@ Tom frightens me.	Tom erschreckt mich.	मुझे डराता है।
 Tom gave me $300.	Tom gab mir $300.	टॉम ने मुझे $300 दिया।
 Tom gave me that.	Tom gab mir das.	टॉम ने मुझे वह दिया।
 Tom gave me this.	Tom gab mir das hier.	टॉम ने मुझे यह दिया।
+Tom gave up hope.	Tom gab die Hoffnung auf.	टॉम ने उम्मीद छोड़ दी।
+Tom gave us that.	Tom gab uns das.	टॉम ने हमें वह दिया।
+Tom glanced away.	Tom blickte weg.	टॉम ने देखा।
+Tom glanced back.	Tom blickte zurück.	टॉम ने पीछे देखा।
+Tom glanced down.	Tom blickte nach unten.	टॉम ने नीचे देखा।
+Tom got a suntan.	Tom bekam eine Sonnenbräune.	टॉम को सनटैन मिल गया।
+Tom got a tattoo.	Tom bekam ein Tattoo.	टॉम को टैटू मिला।
