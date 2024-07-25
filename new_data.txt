@@ -806,3 +806,10 @@ Who'll go?	Wer wird fahren?	कौन जाएगा?
 Who's she?	Wer ist sie?	वह कौन है?
 Wonderful!	Großartig!	शानदार!
 Write Tom.	Schreiben Sie Tom.	टॉम को लिखो।
+You drive.	Sie fahren.	तुम ड्राइव करो।
+You idiot!	Du Idiot!	तुम बेवकूफ हो।
+You start.	Du fängst an.	तुम शुरू करो।
+You stink.	Sie stinken.	तुम बुरी खुशबू देते हो।
+You tried.	Du hast es versucht.	तुमने प्रयास किया।
+You're OK.	Du bist in Ordnung.	तुम ठीक हो।
+Aim higher.	Ziele höher.	उच्च लक्ष्य रखो।
