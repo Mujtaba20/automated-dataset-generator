@@ -1005,3 +1005,9 @@ I like art.	Ich mag Kunst.	मुझे कला पसंद है।
 I like him.	Ich mag ihn.	मुझे उसे पसंद है।
 I like tea.	Ich mag Tee.	मुझे चाय पसंद है।
 I like you.	Ich mag dich.	मुझे तुम्हारी पसंद है।
+I listened.	Ich habe zugehoert.	मैंने ध्यान से सुना।
+I love Tom.	Ich liebe Tom.	मुझे टॉम से प्यार है।
+I love him.	Ich liebe ihn.	मैं उसे पसंद करता हूँ।
+I love tea.	Ich liebe Tee.	मुझे चाय पसंद है।
+I love you.	Du bist mein Liebling.	मैं तुम्हें चाहता हूँ।
+I loved it.	Ich habe es geliebt.	मैंने इसे पसंद किया।
