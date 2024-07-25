@@ -422,3 +422,13 @@ Use this.	Benutze das.	इसका इस्तेमाल करो।
 Warn Tom.	Hüte dich vor Tom.	टॉम को चेताना।
 Watch me.	Schau mir zu.	मुझे निगाहें न खिंचो।
 Watch us.	Lasst uns zusehen.	हमें देखने दो।
+We agree.	Wir stimmen zu.	हम सहमत हैं।
+We agree. (different meaning)	Wir sind einverstanden.	हम राजी हैं।
+We tried.	Wir haben es versucht.	हमने कोशिश की।
+We tried. (different meaning)	Wir probierten.	हमने प्रयास किया।
+We'll go.	Wir werden gehen.	हम चलेंगे।
+We're OK.	Es geht uns gut.	हम ठीक हैं।
+What for?	Wofür?	किस लिए?
+What fun!	Wie lustig!	कितना मजा!
+Who am I?	Wer bin ich?	मैं कौन हूँ?
+Who came?	Wer kam?	कौन आया?
