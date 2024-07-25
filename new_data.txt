@@ -7930,3 +7930,12 @@ What's the use?	Was ist der Nutzen?	उपयोग क्या है?
 What's up, Tom?	Was ist los, Tom?	क्या हाल है, टॉम?
 Where am I now?	Wo bin ich jetzt?	मैं अभी कहाँ हूँ?
 Where is Paris?	Wo ist Paris?	पेरिस कहाँ है?
+Where were you?	Wo warst du?	तुम कहाँ थे?
+Where's Boston?	Wo ist Boston?	बॉस्टन कहाँ है?
+Where's an ATM?	Wo ist ein Geldautomat?	कहाँ है ए.टी.एम.?
+Where's my bag?	Wo ist meine Tasche?	मेरा बैग कहाँ है?
+Where's my car?	Wo ist mein Auto?	मेरी कार कहाँ है?
+Where's my cup?	Wo ist meine Tasse?	मेरा कप कहाँ है?
+Where's my hat?	Wo ist mein Hut?	मेरी टोपी कहाँ है?
+Where's my mom?	Wo ist meine Mutter?	मेरी माँ कहाँ है?
+Where's my son?	Wo ist mein Sohn?	मेरा बेटा कहाँ है?
