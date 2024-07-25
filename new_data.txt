@@ -15378,3 +15378,13 @@ You may be right.	Du könntest recht haben.	शायद तुम सही ह
 You may go there.	Du kannst dorthin gehen.	तुम वहाँ जा सकते हो।
 You may know Tom.	Vielleicht kennst du Tom.	तुम शायद टॉम को जानते हो।
 You may quote me.	Du kannst mich zitieren.	तुम मुझे उदाहरण देने की अनुमति है।
+You may swim now.	Du darfst jetzt schwimmen.	तुम अब तैर सकते हो।
+You missed a lot.	Du hast viel verpasst.	तुमने बहुत कुछ छोड़ दिया।
+You must do that.	Du musst das tun.	तुम्हें वह करना चाहिए।
+You must go home.	Du musst nach Hause gehen.	तुम्हें घर जाना चाहिए।
+You must help us.	Du musst uns helfen.	तुम्हें हमें मदद करनी चाहिए।
+You must tell me.	Du musst es mir sagen.	तुम्हें मुझे बताना होगा।
+You must tell us.	Du musst es uns sagen.	तुम्हें हमें बताना होगा।
+You missed a lot. (different meaning)	Du hast viel verpasst.	तुमने बहुत कुछ महसूस किया।
+You must help us. (different meaning)	Du sollst uns helfen.	तुम्हें हमें सहायता करनी चाहिए।
+You must tell us. (different meaning)	Du musst es uns mitteilen.	तुम्हें हमें बताना होगा।
