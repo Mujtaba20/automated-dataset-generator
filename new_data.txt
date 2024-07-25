@@ -15020,3 +15020,11 @@ We only have tea.	Wir haben nur Tee.	हमारे पास सिर्फ �
 We only want you.	Wir wollen nur dich.	हमें सिर्फ तुमाहरा चाहिए।
 We play baseball.	Wir spielen Baseball.	हम बेसबॉल खेलते हैं।
 We rarely go out.	Wir gehen selten aus.	हम बहुत कम बाहर जाते हैं।
+We sang for them.	Wir sangen für sie.	हमने उनके लिए गाया।
+We saw Tom do it.	Wir sahen Tom es tun.	हमने टॉम को यह करते हुए देखा।
+We saw her dance.	Wir sahen sie tanzen.	हमने उसे नृत्य करते हुए देखा।
+We saw it happen.	Wir sahen es geschehen.	हमने इसे होते हुए देखा।
+We saw something.	Wir sahen etwas.	हमने कुछ देखा।
+We share a dream.	Wir teilen einen Traum.	हम एक सपना साझा करते हैं।
+We spoke briefly.	Wir sprachen kurz.	हमने संक्षेप में बातचीत की।
+We took Tom home.	Wir brachten Tom nach Hause.	हमने टॉम को घर ले जाया।
