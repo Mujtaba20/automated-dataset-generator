@@ -2431,3 +2431,10 @@ Bring backup.	Holen Sie Verstärkung.	सहारा ला दो।
 Bring him in.	Führen Sie ihn herein.	Usse andar lao.
 Call Tom now.	Rufen Sie jetzt Tom an.	अब टॉम को बुलाओ।
 Call me back.	Rufen Sie mich zurück.	मुझे वापस कॉल करें।
+Call the FBI.	Rufen Sie das FBI an.	FBI को कॉल करें।
+Can I go now?	Kann ich jetzt gehen?	क्या मैं अब चल सकता हूँ?
+Can I try it?	Kann ich es ausprobieren?	क्या मैं इसे आजमा सकता हूँ?
+Can Tom cook?	Kann Tom kochen?	क्या टॉम पकाने में सक्षम है?
+Can Tom walk?	Kann Tom laufen?	क्या टॉम चल सकता है?
+Can you come?	Kannst du kommen?	क्या आप आ सकते हैं?
+Can you cook?	Kannst du kochen?	क्या तुम पका सकते हो?
