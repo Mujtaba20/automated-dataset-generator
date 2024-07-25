@@ -19549,3 +19549,10 @@ We live on a farm.	Wir leben auf einem Bauernhof.	हम एक खेत पर
 We long for peace.	Wir sehnen uns nach Frieden.	हम शांति की तलाश में हैं।
 We look up to him.	Wir schauen zu ihm auf.	हम उसे सराहना करते हैं।
 We admire him.	Wir bewundern ihn.	हम उसे प्रशंसा करते हैं।
+We looked for her.	Wir haben nach ihr gesucht.	हमने उसकी खोज की।
+We love our parks.	Wir lieben unsere Parks.	हमें हमारे पार्क पसंद है।
+We may never know.	Wir werden es vielleicht nie erfahren.	हम कभी नहीं जान सकते।
+We met at a party.	Wir haben uns auf einer Party kennengelernt.	हमने पार्टी में मिला।
+We met last night.	Wir trafen uns gestern Abend.	हमने कल रात मिला।
+We met that night.	Wir haben uns an diesem Abend getroffen.	हमने उस रात मिला।
+We miss you a lot.	Wir vermissen dich wirklich.	हमें तुम्हारी बहुत याद आती है।
