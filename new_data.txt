@@ -13069,3 +13069,12 @@ Is your mom here?	Ist deine Mutter hier?	क्या तुम्हारी �
 Is your mom home?	Ist deine Mutter zuhause?	क्या तुम्हारी माँ घर पर हैं?
 Is your name Tom?	Ist dein Name Tom?	क्या तुम्हारा नाम टॉम है?
 Isn't Tom afraid?	Hat Tom keine Angst?	क्या टॉम डरा है?
+Isn't Tom hungry?	Ist Tom nicht hungrig?	क्या टॉम भूखा है?
+Isn't it obvious?	Ist es nicht offensichtlich?	क्या यह स्पष्ट नहीं है?
+Isn't it perfect?	Ist es nicht perfekt?	क्या यह पूरा नहीं है?
+Isn't that great?	Ist das nicht großartig?	क्या वह महान नहीं है?
+Isn't that right?	Ist das nicht richtig?	क्या यह सही नहीं है?
+Isn't that sweet?	Ist das nicht süß?	क्या वह मिठा नहीं है?
+Isn't this great?	Ist das nicht großartig?	क्या यह शानदार नहीं है?
+It almost worked.	Es hat fast funktioniert.	यह लगभग काम कर गया।
+It began to rain.	Es begann zu regnen.	बारिश होने लगी।
