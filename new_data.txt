@@ -13246,3 +13246,13 @@ Just call me Tom.	Nenn mich einfach Tom.	मुझे बस टॉम फ़ो
 Just do as I say.	Tu einfach, was ich sage.	मेरी बातें मानो।
 Just do your job.	Mach einfach deine Arbeit.	अपना काम बस करो।
 Just follow them.	Folge ihnen einfach.	उन्हें तुम बस फ़ॉलो करो।
+engSentence1	Fang einfach an zu arbeiten.	बस काम पर जाओ।
+engSentence2	Fang einfach an zu arbeiten.	बस काम पर जाओ।
+engSentence3	Beweg dich einfach weiter.	बस आगे बढ़ते रहो।
+engSentence4	Beweg dich einfach weiter.	बस आगे बढ़ते रहो।
+engSentence5	Schau nur zu Tom.	बस टॉम को देखो।
+engSentence6	Bewahre einen kühlen Kopf.	ठंडा दिमाग बनाए रखें।
+engSentence7	Halte mich informiert.	मुझे सूचित रखें।
+engSentence8	Halte den Hund draußen.	कुत्ता बाहर रखें।
+engSentence9	Halte den Hund draußen.	कुत्ता बाहर रखें।
+engSentence10	Halte den Hund draußen.	कुत्ता बाहर रखें।
