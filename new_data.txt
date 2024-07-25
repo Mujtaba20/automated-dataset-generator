@@ -15556,3 +15556,9 @@ Are you surprised?	Bist du überrascht?	क्या आप हैरान ह�
 Are you the mayor?	Bist du der Bürgermeister?	क्या आप मेयर हैं?
 Are you tired now?	Bist du jetzt müde?	क्या तुम अब थक गए हो?
 Are you two happy?	Seid ihr glücklich?	क्या तुम दोनों खुश हो?
+Are your lips dry?	Sind deine Lippen trocken?	क्या आपके होंठ सूखे हैं?
+Aren't we friends?	Sind wir nicht Freunde?	क्या हम दोस्त नहीं हैं?
+Aren't you afraid?	Hast du keine Angst?	क्या तुम्हें डर नहीं लगता?
+Aren't you coming?	Kommst du nicht?	क्या तुम नहीं आ रहे हो?
+Aren't you hungry?	Bist du nicht hungrig?	क्या तुम्हें भूख नहीं लगी?
+Aren't you scared?	Hast du keine Angst?	क्या तुम्हें डर नहीं लगता?
