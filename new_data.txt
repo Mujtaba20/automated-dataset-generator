@@ -17880,3 +17880,9 @@ Tell me your plan.	Sag mir deinen Plan.	मुझे अपनी योजन�
 Tell us something.	Erzähl uns etwas.	हमें कुछ बताओ।
 Tell us the truth.	Sag uns die Wahrheit.	हमें सच बताओ।
 Tell your friends.	Erzähle es deinen Freunden.	अपने दोस्तों को बताओ।
+Termites eat wood.	Termiten fressen Holz.	दीमक लकड़ी खा जाती है।
+Thank you so much.	Vielen Dank.	बहुत-बहुत धन्यवाद।
+Thanks a lot, Tom.	Vielen Dank, Tom.	बहुत-बहुत धन्यवाद, टॉम।
+Thanks for asking.	Vielen Dank für die Nachfrage.	पूछने के लिए धन्यवाद।
+Thanks for coming.	Vielen Dank fürs Kommen.	आने के लिए धन्यवाद।
+Thanks in advance.	Vielen Dank im Voraus.	पहले से ही धन्यवाद।
