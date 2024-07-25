@@ -11896,3 +11896,11 @@ Hand me that bag.	Gib mir diese Tasche.	उस थैले को मुझे 
 Hang on a second.	Warte mal kurz.	एक सेकंड रुको।
 Has Tom come yet?	Ist Tom schon gekommen?	क्या टॉम आ गया है?
 Has Tom left yet?	Ist Tom schon gegangen?	क्या टॉम चला गया है?
+Has Tom returned?	Ist Tom zurückgekehrt?	क्या टॉम वापस आ गया है?
+Has anybody come?	Ist jemand gekommen?	क्या कोई आया है?
+Have Tom do that.	Lass Tom das tun.	टॉम से ऐसा करवाएं।
+Have a good time.	Viel Spaß!	मज़ा करो।
+Have a good trip.	Gute Reise!	शुभ यात्रा।
+Have a great day.	Einen schönen Tag noch!	एक महान दिन हो।
+Have a nice swim.	Schwimmen Sie schön.	अच्छे से स्नान करें।
+Have a nice time.	Schöne Zeit!	अच्छा समय बिताएं।
