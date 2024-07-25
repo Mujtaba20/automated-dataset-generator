@@ -2063,3 +2063,12 @@ They're old.	Sie sind alt.	वे पुराने हैं।
 Think again.	Denken Sie noch einmal nach.	फिर से सोचो।
 This is Tom.	Das ist Tom.	यह टॉम है।
 This is big.	Das ist groß.	यह बड़ा है।
+This is his.	Das ist seins.	यह उसका है।
+This is ice.	Das ist Eis.	यह बर्फ है।
+This is new.	Das ist neu.	यह नया है।
+This stinks.	Das stinkt.	यह बदबूदार है।
+Tom ate out.	Tom aß draußen.	टॉम बाहर खाना खा रहा था।
+Tom beat me.	Tom schlug mich.	टॉम ने मुझे पीटा।
+Tom belched.	Tom rülpste.	टॉम ने डकार मारी।
+Tom blinked.	Tom blinzelt.	टॉम ने आंख मारी।
+Tom blushed.	Tom errötete.	टॉम लाल हो गया।
