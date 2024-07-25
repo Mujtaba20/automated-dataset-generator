@@ -2424,3 +2424,10 @@ Ask Mary out. (different meaning)	Lade Mary ein.	मेरी को बुल�
 Be attentive.	Sei aufmerksam.	सावधान रहो।
 Be objective.	Sei objektiv.	वस्तुनिष्ठ रहो।
 Be objective. (different meaning)	Sei sachlich.	विषयस्पष्ट रहो।
+Be realistic!	Sei realistisch!	याथार्थवादी रहो!
+Beef, please.	Rindfleisch, bitte.	मांस, कृपया।
+Boil one egg.	Ein Ei in Wasser kochen.	एक अंडा उबालें।
+Bring backup.	Holen Sie Verstärkung.	सहारा ला दो।
+Bring him in.	Führen Sie ihn herein.	Usse andar lao.
+Call Tom now.	Rufen Sie jetzt Tom an.	अब टॉम को बुलाओ।
+Call me back.	Rufen Sie mich zurück.	मुझे वापस कॉल करें।
