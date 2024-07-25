@@ -13268,3 +13268,10 @@ Let go of my arm!	Lass meinen Arm los!	मेरे हाथ छोड़ द�
 Let go of my arm.	Lass meine Hand los.	मेरे हाथ छोड़ो।
 Let me do my job.	Lass mich meine Arbeit machen.	मुझे मेरा काम करने दो।
 Let me handle it.	Lass es mich regeln.	मुझे इसे संभालने दो।
+Let me repair it.	Lass mich es reparieren.	मुझे यह मरम्मत करने दो।
+Let me try again.	Lass mich es nochmal versuchen.	मुझे यह फिर से करने दो।
+Let them come in.	Lass sie herein.	उन्हें अंदर आने दो।
+Let's be friends.	Lass uns Freunde sein.	हम दोस्त बनें।
+Let's cross here.	Lass uns hier überqueren.	चलो यहाँ से पार करें।
+Let's do our job.	Lass uns unsere Arbeit machen.	चलो हमारा काम करें।
+Let's fly a kite.	Lass uns einen Drachen steigen lassen.	चलो हम पतंग उड़ाएं।
