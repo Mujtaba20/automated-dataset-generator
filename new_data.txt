@@ -1430,3 +1430,8 @@ Be creative.	Sei kreativ.	रचनात्मक बनो।
 Be discreet.	Sei diskret.	सावधान रहो।
 Be generous.	Sei großzügig.	उदार बनो।
 Be merciful.	Sei barmherzig.	दयालु बनो।
+Be prepared.	Bereit sein.	तैयार रहें।
+Be punctual.	Sei pünktlich.	समय पर रहें।
+Be ruthless.	Sei unbarmherzig.	क्रूर रहें।
+Be sensible.	Sei vernünftig.	समझदार रहो।
+Be specific.	Sei genau.	विशेष रहें।
