@@ -15288,3 +15288,9 @@ Whose turn is it?	Wessen Zug ist es?	ये किसकी बारी है?
 Why are you here?	Warum bist du hier?	तुम यहाँ क्यों हो?
 Why are you home?	Warum bist du zu Hause?	तुम घर पर क्यों हो?
 Why did you call?	Warum hast du angerufen?	तुमने क्यों कॉल किया?
+Why did you stop?	Warum hast du aufgehört?	तुमने क्यों रुक गए?
+Why do we sneeze?	Warum niesen wir?	हम छींक क्योंते हैं?
+Why do you study?	Warum lernst du?	तुम क्यों पढ़ाई करते हो?
+Why do you think?	Warum denkst du?	तुम क्यों सोचते हो?
+Why does it work?	Warum funktioniert es?	यह क्यों काम करता है?
+Why don't we sit?	Warum setzen wir uns nicht?	हम बैठ क्यों नहीं जाते?
