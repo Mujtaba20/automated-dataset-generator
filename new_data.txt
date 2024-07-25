@@ -16949,3 +16949,11 @@ I will do my best.	Ich werde mein Bestes tun.	मैं अपनी सबस�
 I will go on foot.	Ich werde zu Fuß gehen.	मैं पैदल चला जाऊँगा।
 I will inform Tom.	Ich werde Tom informieren.	मैं टॉम को सूचित करूंगा।
 I will never tell!	Ich werde niemals erzählen!	मैं कभी नहीं बताऊंगा!
+I will notify Tom.	Ich werde Tom benachrichtigen.	मैं टॉम को सूचित करूंगा।
+I wish I had more.	Ich wünschte, ich hätte mehr.	मैं चाहता की मेरे पास और होता।
+I wish I was dead.	Ich wünschte, ich wäre tot.	मैं चाहता की मैं मरा हुआ होता।
+I woke up thirsty.	Ich wachte durstig auf.	मैं प्यासा होकर उठा।
+I won the lottery.	Ich habe im Lotto gewonnen.	मैंने लाटरी जीती।
+I won't deny that.	Das werde ich nicht leugnen.	मैं इसका इनकार नहीं करूंगा।
+I won't forget it.	Ich werde es nicht vergessen.	मैं यह नहीं भूलूंगा।
+I won't sign this.	Ich werde das nicht unterschreiben.	मैं इसे साइन नहीं करूंगा।
