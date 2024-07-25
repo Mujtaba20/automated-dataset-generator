@@ -6626,3 +6626,10 @@ It's forbidden.	Es ist verboten.	यह निषिद्ध है।
 It's grotesque.	Es ist grotesk.	यह भीषण है।
 It's hot today.	Heute ist es heiß.	आज यह गरम है।
 It's warm outside.	Es ist warm draußen.	बाहर गर्मी है।
+It's important.	Es ist bedeutend.	यह महत्वपूर्ण है।
+It's incorrect.	Es ist falsch.	यह गलत है।
+It's marvelous.	Es ist wunderbar.	यह अद्भुत है।
+It's no secret.	Es ist offenkundig.	यह कोई राज नहीं है।
+It's not a dog.	Es ist keine Hündin.	यह कुत्ता नहीं है।
+It's not blood.	Es ist kein Blut.	यह खून नहीं है।
+It's not clean.	Es ist nicht sauber.	यह साफ नहीं है।
