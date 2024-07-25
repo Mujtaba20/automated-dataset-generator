@@ -4012,3 +4012,13 @@ I believe Tom.	Ich glaube Tom.	मैं टॉम पर विश्वास 
 I believe you.	Ich glaube dir.	मैं तुम्हें मानता हूँ।
 I belong here.	Ich gehöre hierher.	मैं यहाँ का हिस्सा हूँ।
 I blacked out.	Ich schaltete ab.	मैं बे होश हो गया।
+I bought them.	Ich habe sie gekauft.	मैंने उन्हें खरीदा।
+I burned them.	Ich habe sie verbrannt.	मैंने उन्हें जलाया।
+I came by bus.	Ich kam mit dem Bus.	मैं बस से आया।
+I came by car.	Ich kam mit dem Auto.	मैं गाड़ी से आया।
+I can be good.	Ich kann gut sein.	मैं अच्छा हो सकता हूँ।
+I can do more.	Ich kann mehr tun.	मैं और कर सकता हूँ।
+I can do that.	Ich kann das tun.	मैं वह कर सकता हूँ।
+I can do this.	Ich kann das tun.	मैं यह कर सकता हूँ।
+I can feel it.	Ich kann es fühlen.	मैं इसे महसूस कर सकता हूँ।
+I can see Tom.	Ich kann Tom sehen.	मुझे टॉम दिखाई दे रहा है।
