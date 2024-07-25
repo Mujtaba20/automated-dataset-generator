@@ -1,14 +1,4 @@
 
-You could've died.	Du hättest sterben können.	आप मर सकते थे।
-You did your best.	Du hast dein Bestes gegeben.	अपनी ओर से तुमने सर्वोत्तम प्रयास किया।
-You did your best.	Sie haben Ihr Bestes gegeben.	अपनी ओर से तुमने सर्वोत्तम प्रयास किया।
-You did your best.	Ihr habt euer Bestes gegeben.	आपने अपना सर्वश्रेष्ठ दिया।
-You did your part.	Du hast deinen Teil getan.	आपने अपना हिस्सा किया।
-You did your part.	Sie haben Ihren Teil getan.	आपने अपना हिस्सा किया।
-You did your part.	Ihr habt euren Teil getan.	आपने अपना हिस्सा किया।
-You don't know me.	Du kennst mich nicht.	तुम मुझे नहीं जानते।
-You don't know us.	Du kennst uns nicht.	आप हमें नहीं जानते।
-You gave it to me.	Du hast es mir gegeben.	आपने मुझे दिया।
 You gave it to us.	Du hast es uns gegeben.	आपने इसे हमें दिया।
 You gave up on me.	Du hast mich aufgegeben.	तुमने मुझे छोड़ दिया।
 You got shot, Tom.	Du wurdest angeschossen, Tom.	आपको गोली मार दी गई, टॉम।

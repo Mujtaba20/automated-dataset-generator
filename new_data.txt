@@ -20030,3 +20030,13 @@ You could ask Tom.	Du könntest Tom fragen.	तुम टॉम से पूछ
 You could do that.	Das könntest du machen.	तुम वह कर सकते थे।
 You could do this.	Das könntest du tun.	तुम यह कर सकते थे।
 You could help me.	Du könntest mir helfen.	तुम मेरी मदद कर सकते थे।
+You could've died.	Du hättest sterben können.	तुम मर सकते थे।
+You did your best.	Du hast dein Bestes gegeben.	तुमने अपनी सबसे अच्छी कोशिश की।
+You did your best.(2)	Du hast alles gegeben.	तुमने सब कुछ किया।
+You did your best.(3)	Du hast dein Möglichstes getan.	तुमने अपने सर्वोत्तम किया।
+You did your part.	Du hast deinen Teil getan.	तुमने अपना हिस्सा किया।
+You did your part.(2)	Du hast deinen Beitrag geleistet.	तुमने अपना योगदान दिया।
+You did your part.(3)	Du hast deinen Anteil erfüllt.	तुमने अपना भाग निभाया।
+You don't know me.	Du kennst mich nicht.	तुम मुझे नहीं जानते।
+You don't know us.	Du kennst uns nicht.	तुम हमें नहीं जानते।
+You gave it to me.	Du hast es mir gegeben.	तुमने मुझे दिया।
