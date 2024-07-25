@@ -17134,3 +17134,12 @@ I'm not religious.	Ich bin nicht religiös.	मैं धार्मिक न�
 I'm not satisfied.	Ich bin nicht zufrieden.	मैं संतुष्ट नहीं हूँ।
 I'm not the enemy.	Ich bin nicht der Feind.	मैं दुश्मन नहीं हूँ।
 I'm not the owner.	Ich bin nicht der Besitzer.	मैं मालिक नहीं हूँ।
+I'm not tired yet.	Ich bin noch nicht müde.	मैं अभी तक थका नहीं हूं।
+I'm not too happy.	Ich bin nicht zu glücklich.	मैं बहुत खुश नहीं हूं।
+I'm not too tired.	Ich bin nicht zu müde.	मैं बहुत थका नहीं हूं।
+I'm not very busy.	Ich bin nicht sehr beschäftigt.	मैं बहुत व्यस्त नहीं हूं।
+I'm not your maid.	Ich bin nicht deine Magd.	मैं तुम्हारी नौकरानी नहीं हूं।
+I'm now in prison.	Ich bin jetzt im Gefängnis.	मैं अब जेल में हूं।
+I'm now your boss.	Ich bin jetzt dein Chef.	मैं अब तुम्हारा बॉस हूं।
+I'm old-fashioned.	Ich bin altmodisch.	मैं पुराने दौर का हूं।
+I'm on cloud nine.	Ich bin überglücklich.	मैं बहुत खुश हूं।
