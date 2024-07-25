@@ -9218,3 +9218,12 @@ I'm a communist.	Ich bin ein Kommunist.	मैं एक सम्यवाद�
 I'm a detective.	Ich bin ein Detektiv.	मैं एक जासूस हूँ।
 I'm a good cook.	Ich bin ein guter Koch.	मैं एक अच्छा रसोइया हूँ।
 I'm a good shot.	Ich bin ein guter Schütze.	मैं एक अच्छा गोली बाज़ हूँ।
+I'm a happy man.	Ich bin ein glücklicher Mann.	मैं खुश आदमी हूँ।
+I'm a housewife.	Ich bin eine Hausfrau.	मैं एक गृहिणी हूं।
+I'm a lifeguard.	Ich bin ein Rettungsschwimmer.	मैं एक लाइफगार्ड हूँ।
+I'm a lifeguard. (different meaning)	Ich bin ein Bademeister.	मैं एक जीवन रक्षक हूँ।
+I'm a lifeguard. (different meaning 2)	Ich bin ein Strandschwimmer.	मैं एक लाइफगार्ड हूँ।
+I'm a masochist.	Ich bin ein Masochist.	मैं एक मासोकिस्ट हूँ।
+I'm a night owl.	Ich bin eine Nachteule.	मैं एक रात का उल्लू हूँ।
+I'm a night owl. (different meaning)	Ich bin eine Eule der Nacht.	मैं एक रात का उल्लू हूँ।
+I'm a night owl. (different meaning 2)	Ich bin ein Nachtmensch.	मैं एक रात का उल्लू हूँ।
