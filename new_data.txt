@@ -3445,3 +3445,13 @@ Tom saw them.	Tom sah sie.	टॉम ने उन्हें देखा।
 Tom screamed.	Tom schrie.	टॉम चिल्लाया।
 Tom shivered.	Tom zitterte.	टॉम काँप रहा था।
 Tom showered.	Tom regnete.	टॉम ने झूला।
+Tom shrugged.	Tom zuckte mit den Schultern.	टॉम ने कंधे उचाले।
+Tom squinted.	Tom runzelte die Stirn.	टॉम ने आंखें जुकाई।
+Tom squinted. - different meaning	Tom kneift die Augen zusammen.	टॉम ने आंखें चिढ़ाई।
+Tom stood up.	Tom stand auf.	टॉम खड़ा हो गया।
+Tom stutters.	Tom stottert.	टॉम लिस्प करता है।
+Tom survived.	Tom hat überlebt.	टॉम बच गया।
+Tom survived. - different meaning	Tom hat durchgehalten.	टॉम ने सामने किया।
+Tom told her.	Tom sagte ihr.	टॉम ने उससे कहा।
+Tom told him.	Tom sagte ihm.	टॉम ने उसे बताया।
+Tom took off.	Tom zog ab.	टॉम उड़ गया।
