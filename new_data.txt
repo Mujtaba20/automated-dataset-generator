@@ -1287,3 +1287,10 @@ Tom is odd.	Tom ist komisch.	टॉम अजीब है।
 Tom is old.	Tom ist alt.	टॉम बूढ़ा है।
 Tom is out.	Tom ist draußen.	टॉम बाहर है।
 Tom is sad.	Tom ist traurig.	टॉम उदास है।
+Tom is shy.	Tom ist schüchtern.	टॉम शर्मीला है।
+Tom is wet.	Tom ist nass.	टॉम गीला है।
+Tom jumped.	Tom ist gesprungen.	टॉम उछला।
+Tom looked.	Tom schaute.	टॉम देखा।
+Tom moaned.	Tom jammerte.	टॉम दु:ख जताना।
+Tom nodded.	Tom nickte.	टॉम सिर हिलाया।
+Tom obeyed.	Tom befolgte.	टॉम निर्देशों का पालन किया।
