@@ -20482,3 +20482,13 @@ Does she live here?	Lebt sie hier?	क्या वह यहाँ रहती
 Does that mean yes?	Bedeutet das ja?	क्या इसका मतलब हां है?
 Does your dog bite?	Beißen dich deine Hund?	क्या तुम्हारा कुत्ता काटता है?
 Does your mom know?	Weiß deine Mutter Bescheid?	क्या तुम्हारी माँ जानती है?
+Doing that is easy.	Das ist leicht zu tun.	वह करना आसान है।
+Don't I look great?	Sehe ich nicht großartig aus?	क्या मैं बढ़िया नहीं दिखता?
+Don't ask me again.	Frag mich nicht noch einmal.	मुझसे दोबारा मत पूछो।
+Don't be a bad boy.	Sei kein böser Junge.	बुरा लड़का मत बनो।
+Don't be a chicken.	Sei kein Feigling.	मुर्गा मत बनो।
+Don't be like that.	Sei nicht so.	ऐसा मत करो।
+Don't be mad at me.	Sei nicht böse auf mich.	मुझसे नाराज न हो।
+Don't be so greedy.	Sei nicht so gierig.	इतना लालच मत करो।
+Don't be so modest.	Sei nicht so bescheiden.	इतने संकोची न बनो।
+Don't be so modest. II	Sei nicht so zurückhaltend.	इतनी विनम्रता मत दिखाओ।
