@@ -4992,3 +4992,12 @@ Tom had to go.	Tom musste gehen.	टॉम को जाना था।
 Tom has a car.	Tom hat ein Auto.	टॉम के पास एक कार है।
 Tom has a cat.	Tom besitzt eine Katze.	टॉम के पास एक बिल्ली है।
 Tom has a dog.	Tom hat einen Hund.	टॉम के पास एक कुत्ता है।
+Tom has a gun.	Tom hat eine Pistole.	टॉम के पास एक बंदूक है।
+Tom has a job.	Tom hat einen Job.	टॉम के पास नौकरी है।
+Tom has a map.	Tom hat eine Karte.	टॉम के पास एक नक्शा है।
+Tom has a son.	Tom hat einen Sohn.	टॉम के पास एक बेटा है।
+Tom has grown.	Tom ist gewachsen.	टॉम बड़ा हो गया है।
+Tom has money.	Tom hat Geld.	टॉम के पैसे हैं।
+Tom has plans.	Tom hat Pläne.	टॉम के पास योजनाएं हैं।
+Tom has to go.	Tom muss gehen.	टॉम को जाना है।
+Tom helped me.	Tom hat mir geholfen.	टॉम ने मेरी मदद की।
