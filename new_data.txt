@@ -8631,3 +8631,11 @@ How's the apple?	Wie ist der Apfel?	सेब कैसा है?
 How's the water?	Wie ist das Wasser?	पानी कैसा है?
 How's your cold?	Wie geht es dir bei deiner Erkältung?	तुम्हारे जुकाम कैसा है?
 How's your knee?	Wie geht es deinem Knie?	तुम्हारी गुटनी कैसी है?
+How's your wife?	Wie geht es deiner Frau?	तुम्हारी पत्नी कैसी है?
+Hurry up, girls.	Beeil dich, Mädchen.	जल्दी करो, बच्चों।
+Hypnotism works.	Hypnose funktioniert.	हिप्नोटिज़्म काम करता है।
+I abhor spiders.	Ich verabscheue Spinnen.	मुझे मकड़ियों से घृणा है।
+I ache all over.	Ich habe überall Schmerzen.	मुझे सारे जगह दर्द हो रहा है।
+I almost did it.	Ich habe es fast geschafft.	मैंने यह लगभग कर दिया था।
+I almost forgot.	Ich habe fast vergessen.	मुझे लगभग भूल गया था।
+I am a Japanese.	Ich bin aus Japan.	मैं जापान से हूं।
