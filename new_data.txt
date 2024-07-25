@@ -3097,3 +3097,10 @@ My jaw hurts.	Mein Kiefer tut weh.	मेरे मुँह में दर्
 No objection.	Kein Einwand.	कोई आपत्ति नहीं।
 No one cared.	Niemand hat sich gekümmert.	किसी ने ध्यान नहीं दिया।
 No one cares.	Niemand kümmert sich.	किसी को परवाह नहीं है।
+No one knows.	Niemand kennt.	कोई नहीं जानता।
+Nobody asked.	Niemand hat gefragt.	किसी ने आवेदन किया।
+Nobody knows.	Niemand weiß.	किसी को पता नहीं।
+Nobody slept.	Niemand schlief.	किसी ने नहीं सोया।
+Now I get it.	Jetzt habe ich es verstanden.	अब मुझे समझ में आ गया।
+Now fix that.	Jetzt behebe das.	अब उसे ठीक करो।
+OK. Go ahead.	OK. Geh weiter.	ठीक है। आगे जाओ।
