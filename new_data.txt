@@ -6898,3 +6898,13 @@ She's too loud.	Sie ist zu laut.	वह बहुत शोर करती ह�
 Show it to Tom.	Zeig es Tom.	इसे टॉम को दिखाओ।
 Show it to her.	Zeig es ihr.	इसे उसे दिखाओ।
 Show it to him.	Zeig es ihm.	उसे देखाओ।
+Shut your eyes.	Schließe deine Augen.	अपनी आँखें बंद करो।
+Sing us a song.	Sing uns ein Lied.	हमें एक गाना गाओ।
+Smoking stinks.	Rauchen stinkt.	सिगरेट पीने से बदबू आती है।
+Snap out of it!	Komm wieder zu Bewusstsein!	इसके बाहर जाओ!
+Someone called.	Jemand hat angerufen.	किसी ने कॉल किया।
+Someone called. (different translation)	Jemand rief an.	किसी ने फोन किया।
+Sorry I'm late.	Entschuldigung, dass ich zu spät bin.	माफ़ कीजिए, मैं देर से पहुँचा।
+Start counting.	Fang an zu zählen.	गिनना शुरू करो।
+Start counting. (different translation)	Beginne zu zählen.	गिनती शुरू करो।
+Stay out of it.	Bleib da raus.	इसमें न पड़ो।
