@@ -20492,3 +20492,13 @@ Don't be mad at me.	Sei nicht böse auf mich.	मुझसे नाराज �
 Don't be so greedy.	Sei nicht so gierig.	इतना लालच मत करो।
 Don't be so modest.	Sei nicht so bescheiden.	इतने संकोची न बनो।
 Don't be so modest. II	Sei nicht so zurückhaltend.	इतनी विनम्रता मत दिखाओ।
+Don't call her now.	Rufen Sie sie jetzt nicht an.	इस समय उसे न फोन करें।
+Don't catch a cold.	Erkälte dich nicht.	सर्दी न लगाओ।
+Don't come in here.	Kommen Sie hier nicht rein.	यहाँ मत आना।
+Don't come near me.	Komm mir nicht zu nahe.	मेरे पास मत आना।
+Don't depend on it.	Verlassen Sie sich nicht darauf.	इस पर न भरोसा करो।
+Don't do it for me.	Mach es nicht für mich.	मेरे लिए मत करो।
+Don't eat too much.	Iss nicht zu viel.	ज्यादा मत खाओ।
+Don't eat too much. (Different Meaning)	Essen Sie nicht zu viel.	अधिक न खाएं।
+Don't eat too much. (Different Meaning 2)	Übertreib es nicht beim Essen.	ज्यादा मत खाओ।
+Don't embarrass me.	Bring mich nicht in Verlegenheit.	मुझे शर्मिंदा मत करो।
