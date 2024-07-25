@@ -16092,3 +16092,9 @@ He talks too fast.	Er spricht zu schnell.	वह बहुत तेज़ र�
 He talks too much.	Er redet zu viel.	वह बहुत बोलता है।
 He teaches Arabic.	Er unterrichtet Arabisch.	उसने अरबी पढ़ाई।
 He threw the ball.	Er warf den Ball.	उसने गेंद फेंकी।
+He told the truth.	Er sagte die Wahrheit.	उसने सच बताया।
+He took a day off.	Er machte sich einen freien Tag.	उसने एक दिन को खुला रखा।
+He took a picture.	Er hat ein Foto gemacht.	उसने एक तस्वीर ली।
+He travels around.	Er reist umher.	वह चक्कर लगाता है।
+He turned the key.	Er hat den Schlüssel gedreht.	उसने कुंजी को घुमाया।
+He turned traitor.	Er hat sich verraten.	उसने गद्दारी की।
