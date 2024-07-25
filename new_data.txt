@@ -13799,3 +13799,13 @@ They know I know.	Sie wissen, dass ich es weiß.	उन्हें पता �
 They like apples.	Sie mögen Äpfel.	उन्हें सेब पसंद हैं।
 They live nearby.	Sie wohnen in der Nähe.	वे निकट में रहते हैं।
 They love coffee.	Sie lieben Kaffee.	उन्हें कॉफ़ी पसंद है।
+They made her go.	Sie ließen sie gehen.	उन्होंने उसे जाने दिया।
+They needed help.	Sie brauchten Hilfe.	उन्हें मदद की जरुरत थी।
+They respect him.	Sie respektieren ihn.	वे उसका सम्मान करते हैं।
+They respect him. (Different meaning)	Sie achten ihn.	वे उसका सम्मान करते हैं।
+They saw nothing.	Sie sahen nichts.	उन्होंने कुछ नहीं देखा।
+They spoke to me.	Sie sprachen mit mir.	उन्होंने मुझसे बात की।
+They spotted Tom.	Sie entdeckten Tom.	उन्होंने टॉम को देखा।
+They stood there.	Sie standen dort.	वे वहां खड़े थे।
+They thanked God.	Sie dankten Gott.	उन्होंने भगवान का धन्यवाद किया।
+They trusted Tom.	Sie vertrauten Tom.	उन्होंने टॉम पर भरोसा किया।
