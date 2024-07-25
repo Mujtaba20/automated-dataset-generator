@@ -15780,3 +15780,7 @@ Don't be insolent.	Sei nicht frech.	अभिमानी मत बनो।
 Don't be insulted.	Seid nicht beleidigt.	शांत रहो।
 Don't be like Tom.	Sei nicht wie Tom.	टॉम के तरह मत बनो।
 Don't be so angry.	Sei nicht so sauer.	इतना नाराज मत हो।
+Don't be too long.	Sei nicht zu lange.	इतना लंबा मत होना।
+Don't be too sure.	Sei nicht zu sicher.	इतना पक्का ना हो.
+Don't believe Tom.	Glaube nicht Tom.	टॉम पर भरोसा मत करो।
+Don't count on it.	Verlass dich nicht darauf.	उस पर निर्भर न करें।
