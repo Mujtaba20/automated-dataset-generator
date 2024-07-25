@@ -7120,3 +7120,12 @@ Time to get up.	Es ist Zeit aufzustehen.	उठने का समय है।
 Time will tell.	Die Zeit wird es zeigen.	समय बताएगा।
 Tom adores you.	Tom verehrt dich.	टॉम आपको पसंद करता है।
 Tom almost won.	Tom hat fast gewonnen.	टॉम ने लगभग जीत ली थी।
+Tom and I quit.	Tom und ich haben aufgehört.	टॉम और मैं ने छोड़ दिया।
+Tom apologized.	Tom hat sich entschuldigt.	टॉम ने माफी मांगी।
+Tom appears OK.	Tom scheint in Ordnung zu sein.	टॉम ठीक लग रहा है।
+Tom approached.	Tom näherte sich.	टॉम के पास आया।
+Tom ate dinner.	Tom aß zu Abend.	टॉम ने रात का खाना खाया।
+Tom backed off.	Tom zog sich zurück.	टॉम पीछे हट गया।
+Tom barely ate.	Tom aß kaum.	टॉम ने मात्र खाया।
+Tom beat me up.	Tom hat mich geschlagen.	टॉम ने मुझसे पीटा।
+Tom biked home.	Tom ist mit dem Fahrrad nach Hause gefahren.	टॉम घर चला गया।
