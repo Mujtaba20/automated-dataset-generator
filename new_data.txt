@@ -18083,3 +18083,13 @@ The worst is over.	Das Schlimmste ist vorbei.	सबसे बुरा बी�
 There are no gods.	Es gibt keine Götter.	वहाँ कोई भगवान नहीं हैं।
 There is no doubt.	Es besteht kein Zweifel.	कोई संदेह नहीं है।
 There is no hurry.	Es besteht keine Eile.	जल्दी की कोई जरुरत नहीं है।
+There is no limit.	Es gibt keine Grenze.	कोई सीमा नहीं है।
+There is one less.	Es gibt einen weniger.	एक कम है।
+There is your bag.	Das ist deine Tasche.	तुम्हारा बैग है।
+There's Tom's car.	Das ist Toms Auto.	वहाँ टॉम की कार है।
+There's no choice.	Es gibt keine Wahl.	कोई विकल्प नहीं है।
+There's no coffee.	Es gibt keinen Kaffee.	कोई कॉफी नहीं है।
+These are animals.	Dies sind Tiere.	ये जानवर हैं।
+These are for Tom.	Diese sind für Tom.	ये टॉम के लिए हैं।
+These are for you.	Diese sind für dich.	ये तुम्हारे लिए हैं।
+These are my boys.	Das sind meine Jungs.	ये मेरे लड़के हैं।
