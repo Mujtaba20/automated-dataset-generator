@@ -12242,3 +12242,10 @@ I can name names.	Ich kann Namen nennen.	मैं नाम ले सकता
 I can't complain.	Ich kann nicht klagen.	मैं शिकायत नहीं कर सकता।
 I can't die here.	Ich kann hier nicht sterben.	मैं यहाँ मर नहीं सकता।
 I can't eat meat.	Ich kann kein Fleisch essen.	मैं मांस नहीं खा सकता।
+I can't eat that.	Ich kann das nicht essen.	मैं उसे नहीं खा सकता।
+I can't find Tom.	Ich kann Tom nicht finden.	मैं टॉम को नहीं ढूंढ सकता।
+I can't go alone.	Ich kann nicht alleine gehen.	मैं अकेला नहीं जा सकता।
+I can't hate you.	Ich kann dich nicht hassen.	मैं तुम्हें नहीं सकता।
+I can't hear Tom.	Ich kann Tom nicht hören.	मैं टॉम को नहीं सुन सकता।
+I can't hear you.	Ich kann dich nicht hören.	मैं तुम्हें नहीं सुन सकता।
+I can't help you.	Ich kann dir nicht helfen.	मैं तुम्हारी मदद नहीं कर सकता।
