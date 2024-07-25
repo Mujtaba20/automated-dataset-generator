@@ -19863,3 +19863,12 @@ Where's my refund?	Wo ist meine Rückerstattung?	मेरा रिफ़ंड
 Where's my sister?	Wo ist meine Schwester?	मेरी बहन कहाँ है?
 Where's my ticket?	Wo ist mein Ticket?	मेरा टिकट कहाँ है?
 Where's my wallet?	Wo ist meine Brieftasche?	मेरा वॉलेट कहाँ है?
+Where's our money?	Wo ist unser Geld?	हमारा पैसा कहां है?
+Where's the beach?	Wo ist der Strand?	समुद्रतट कहाँ है?
+Where's the honey?	Wo ist der Honig?	शहद कहाँ है?
+Where's the judge?	Wo ist der Richter?	न्यायाधीश कहाँ है?
+Where's the knife?	Wo ist das Messer?	चाकू कहाँ है?
+Where's the money?	Wo ist das Geld?	पैसे कहां हैं?
+Where's the vodka?	Wo ist der Wodka?	वोडका कहाँ है?
+Where's this from?	Woher ist das?	यह कहां से है?
+Where's your boss?	Wo ist dein Chef?	तुम्हारा बॉस कहाँ है?

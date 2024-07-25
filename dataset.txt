@@ -1,16 +1,4 @@
 
-Where's our money?	Wo ist unser Geld?	हमारा पैसा कहाँ है?
-Where's the beach?	Wo ist der Strand?	समुद्र तट कहाँ है?
-Where's the honey?	Wo ist der Honig?	शहद कहाँ है?
-Where's the judge?	Wo ist der Richter?	न्यायाधीश कहाँ है?
-Where's the judge?	Wo ist die Richterin?	न्यायाधीश कहाँ है?
-Where's the knife?	Wo ist das Messer?	चाकू कहाँ है?
-Where's the money?	Wo ist das Geld?	धन कहां है?
-Where's the vodka?	Wo ist der Wodka?	वोदका कहाँ है?
-Where's this from?	Woher kommt das?	कहाँ से आता है?
-Where's your boss?	Wo ist dein Chef?	आपका बॉस कहाँ है?
-Where's your boss?	Wo ist euer Chef?	आपका बॉस कहाँ है?
-Where's your boss?	Wo ist Ihr Chef?	आपका बॉस कहाँ है?
 Where's your home?	Wo ist dein Zuhause?	आपका घर कहां है?
 Where've you been?	Wo wart ihr?	कहाँ थे?
 Where've you been?	Wo bist du gewesen?	आप कहां थे?
