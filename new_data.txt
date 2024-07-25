@@ -4038,3 +4038,12 @@ I cried today.	Ich habe heute geweint.	मैंने आज रोया।
 I deserved it.	Ich habe es verdient.	मुझे यह मिलना चाहिए था।
 I despise Tom.	Ich verabscheue Tom.	मैं टॉम की नफरत करता हूँ।
 I did nothing.	Ich habe nichts getan.	मैंने कुछ नहीं किया।
+I didn't call.	Ich habe nicht angerufen.	मैंने कॉल नहीं किया।
+I didn't look.	Ich habe nicht geschaut.	मैंने नहीं देखा।
+I didn't sing.	Ich habe nicht gesungen.	मैंने नहीं गाया।
+I didn't swim.	Ich bin nicht geschwommen.	मैंने नहीं तैरा।
+I didn't wait.	Ich habe nicht gewartet.	मैंने नहीं रुका।
+I dislike Tom.	Ich mag Tom nicht.	मुझे टॉम से नफरत है।
+I disliked it.	Ich mochte es nicht.	मुझे यह पसंद नहीं था।
+I do like Tom.	Ich mag Tom.	मुझे टॉम पसंद है।
+I do like you.	Ich mag dich.	मुझे तुम्हे पसंद है।
