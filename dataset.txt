@@ -1,16 +1,4 @@
 
-Did you enjoy that?	Hat dir das gefallen?	क्या आपको मज़ा आया?
-Did you enjoy that?	Hattest du Freude daran?	क्या आपको यह अच्छा लगा?
-Did you enjoy that?	Hat dir das Freude gemacht?	क्या आपको मज़ा आया?
-Did you enjoy that?	Hatten Sie Freude daran?	क्या आपको यह अच्छा लगा?
-Did you enjoy that?	Hat Ihnen das Freude gemacht?	क्या आपको मज़ा आया?
-Did you enjoy that?	Hattet ihr Freude daran?	क्या आपको यह अच्छा लगा?
-Did you enjoy that?	Hat euch das Freude gemacht?	क्या इससे आपको खुशी हुई?
-Did you find a job?	Hast du Arbeit gefunden?	क्या आपको काम मिला?
-Did you get a beer?	Hast du schon ein Bier bekommen?	क्या आपको पहले से ही बीयर मिल गई है?
-Did you invite Tom?	Hast du Tom eingeladen?	क्या आपने टॉम को आमंत्रित किया?
-Did you invite Tom?	Habt ihr Tom eingeladen?	क्या आपने टॉम को आमंत्रित किया है?
-Did you invite Tom?	Haben Sie Tom eingeladen?	क्या आपने टॉम को आमंत्रित किया है?
 Did you invite him?	Hast du ihn eingeladen?	क्या आपने उसे आमंत्रित किया?
 Did you invite him?	Habt ihr ihn eingeladen?	क्या आपने उसे आमंत्रित किया?
 Did you invite him?	Haben Sie ihn eingeladen?	क्या आपने उसे आमंत्रित किया?

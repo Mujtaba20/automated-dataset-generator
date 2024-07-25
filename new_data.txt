@@ -20379,3 +20379,7 @@ Did we wake you up?	Haben wir dich geweckt?	क्या हमने आपक�
 Did you arrest Tom?	Hast du Tom verhaftet?	क्या तुमने टॉम को गिरफ्तार किया है?
 Did you bring them?	Hast du sie gebracht?	क्या तुमने उनको ले आया है?
 Did you check this?	Hast du das überprüft?	क्या तुमने इसे देखा है?
+Did you enjoy that?	Hast du das genossen?	क्या तुमने इसे मज़ा लिया?
+Did you find a job?	Hast du einen Job gefunden?	क्या तुमने नौकरी पाई है?
+Did you get a beer?	Hast du ein Bier bekommen?	क्या तुमने बीयर पी है?
+Did you invite Tom?	Hast du Tom eingeladen?	क्या तुमने टॉम को आमंत्रित किया था?
