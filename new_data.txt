@@ -12367,3 +12367,13 @@ I get up at 6:30.	Ich stehe um 6:30 Uhr auf.	मैं 6:30 बजे उठत�
 I get up at 7:00.	Ich stehe um 7:00 Uhr auf.	मैं 7:00 बजे उठता हूँ।
 I get your drift.	Ich verstehe, was du meinst.	मैं आपकी दिशा को समझ गया।
 I go to the park.	Ich gehe in den Park.	मैं पार्क जाता हूँ।
+I got Tom a taxi.	Ich habe Tom ein Taxi besorgt.	मैंने टॉम के लिए एक टैक्सी प्राप्त की।
+I got her a doll.	Ich habe ihr eine Puppe besorgt.	मैंने उसे एक गुड़िया मिली।
+I got ripped off.	Ich wurde übers Ohr gehauen.	मुझसे धोखा हो गया।
+I got up at 6:30.	Ich bin um 6:30 Uhr aufgestanden.	मैं छ: बजे उठ गया।
+I guess we could.	Ich denke, wir könnten.	मुझे लगता है हम कर सकते हैं।
+I had a bad cold.	Ich hatte eine schlimme Erkältung.	मुझे बहुत जुकाम था।
+I had a flu shot.	Ich habe eine Grippeimpfung bekommen.	मुझे फ्लू की टीका लगाई गई थी।
+I had a headache.	Ich hatte Kopfschmerzen.	मुझे सिरदर्द था।
+I had my reasons.	Ich hatte meine Gründe.	मेरे पास अपने कारण थे।
+I had three dogs.	Ich hatte drei Hunde.	मेरे पास तीन कुत्ते थे।
