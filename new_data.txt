@@ -2072,3 +2072,9 @@ Tom beat me.	Tom schlug mich.	टॉम ने मुझे पीटा।
 Tom belched.	Tom rülpste.	टॉम ने डकार मारी।
 Tom blinked.	Tom blinzelt.	टॉम ने आंख मारी।
 Tom blushed.	Tom errötete.	टॉम लाल हो गया।
+Tom came by.	Tom kam vorbei.	टॉम आ गया।
+Tom came in.	Tom kam rein.	टॉम अंदर आया।
+Tom can win.	Tom kann gewinnen.	टॉम जीत सकता है।
+Tom changed.	Tom änderte sich.	टॉम ने किया परिवर्तन।
+Tom cheated.	Tom täuschte.	टॉम ने धोखा किया।
+Tom cheered.	Tom jubelte.	टॉम ने जयभारी किया।
