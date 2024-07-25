@@ -7273,3 +7273,12 @@ Tom is ashamed.	Tom ist beschämt.	टॉम शर्मिंदा है।
 Tom is at home.	Tom ist zu Hause.	टॉम घर पर है।
 Tom is average.	Tom ist durchschnittlich.	टॉम सामान्य है।
 Tom is awesome.	Tom ist fantastisch.	टॉम बेहतरीन है।
+Tom is awkward.		
+Tom is baffled.		
+Tom is callous.		
+Tom is certain.		
+Tom is complex.		
+Tom is cooking.		
+Tom is correct.		
+Tom is curious.		
+Tom is cynical.		
