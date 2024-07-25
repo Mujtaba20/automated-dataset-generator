@@ -12068,3 +12068,12 @@ He writes Arabic.	Er schreibt Arabisch.	वह अरबी लिखता ह�
 He's a Frenchman.	Er ist Franzose.	वह फ्रांसीसी है।
 He's a bit drunk.	Er ist ein wenig betrunken.	वह थोड़ा सा नशे में है।
 He's a bit tipsy.	Er ist ein wenig angeheitert.	वह थोड़ा सा बेहोश है।
+He's a gentleman.	Er ist ein Gentleman.	वह एक जेन्टलमैन है।
+He's a good liar.	Er ist ein guter Lügner.	वह एक अच्छा झूठा है।
+He's a grown man.	Er ist ein erwachsener Mann.	वह एक बड़ा आदमी है।
+He's a historian.	Er ist ein Historiker.	वह एक इतिहासविद है।
+He's a lifeguard.	Er ist ein Bademeister.	वह जीवनरक्षक है।
+He's a nonsmoker.	Er ist Nichtraucher.	वह तंबाकू नहीं पीता है।
+He's a smart boy.	Er ist ein kluger Junge.	वह एक बुद्धिमान लड़का है।
+He's about to go.	Er steht kurz davor zu gehen.	वह जाने वाला है।
+He's all excited.	Er ist ganz aufgeregt.	वह पूरी तरह से उत्साहित है।
