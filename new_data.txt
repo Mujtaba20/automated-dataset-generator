@@ -10519,3 +10519,11 @@ Tom is up there.	Tom ist da oben.	टॉम वहाँ ऊपर है।
 Tom is upstairs.	Tom ist oben.	टॉम उपर है।
 Tom is very ill.	Tom ist sehr krank.	टॉम बहुत बीमार है।
 Tom is very old.	Tom ist sehr alt.	टॉम बहुत पुराना है।
+Tom is very shy.	Tom ist sehr schüchtern.	टॉम बहुत शर्मीला है।
+Tom is wasteful.	Tom ist verschwenderisch.	टॉम बर्बाद करनेवाला है।
+Tom is watching.	Tom beobachtet.	टॉम देख रहा है।
+Tom is wavering.	Tom zögert.	टॉम हिचकिचा रहा है।
+Tom is wheezing.	Tom keucht.	टॉम सांस लेने में परेशान हो रहा है।
+Tom is with her.	Tom ist mit ihr.	टॉम उसके साथ है।
+Tom is with him.	Tom ist mit ihm.	टॉम उसके साथ है। (male)
+Tom isn't alive.	Tom ist nicht lebendig.	टॉम जिन्दा नहीं है।
