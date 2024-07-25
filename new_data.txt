@@ -4419,3 +4419,12 @@ I'm not armed.	Ich bin nicht bewaffnet.	मैं हथियारबंद �
 I'm not blind.	Ich bin nicht blind.	मैं अंधा नहीं हूँ।
 I'm not brave.	Ich bin nicht mutig.	मैं बहादुर नहीं हूँ।
 I'm not crazy.	Ich bin nicht verrückt.	मैं पागल नहीं हूँ।
+I'm not dying.	Ich sterbe nicht.	मैं मर नहीं रहा हूँ।
+I'm not going.	Ich gehe nicht.	मैं नहीं जा रहा हूँ।
+I'm not happy.	Ich bin nicht glücklich.	मुझे खुशी नहीं है।
+I'm not naive.	Ich bin nicht naiv.	मैं भोला नहीं हूँ।
+I'm not obese.	Ich bin nicht fettleibig.	मैं मोटा नहीं हूँ।
+I'm not ready.	Ich bin nicht fertig.	मैं तैयार नहीं हूँ।
+I'm not tired.	Ich bin nicht müde.	मैं थका नहीं हूँ।
+I'm not upset.	Ich bin nicht verärgert.	मैं उदास नहीं हूँ।
+I'm off today.	Ich habe heute frei.	आज मैं बंद हूँ।
