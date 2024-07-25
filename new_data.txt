@@ -12397,3 +12397,13 @@ I have a big dog.	Ich habe einen großen Hund.	मेरे पास एक ब
 I have a brother.	Ich habe einen Bruder.	मेरे पास एक भाई है।
 I have a dog now.	Ich habe jetzt einen Hund.	अब मेरे पास एक कुत्ता है।
 I have a grenade.	Ich habe eine Granate.	मेरे पास एक ग्रेनेड है।
+I have a hacksaw.	Ich habe eine Bügelsäge.	मेरे पास एक हेक्सॉ है।
+I have a message.	Ich habe eine Nachricht.	मेरे पास एक संदेश है।
+I have a new car.	Ich habe ein neues Auto.	मेरे पास एक नई कार है।
+I have a problem.	Ich habe ein Problem.	मेरे पास एक समस्या है।
+I have a challenge.	Ich habe eine Herausforderung.	मेरे पास एक चुनौती है।
+I have a receipt.	Ich habe eine Quittung.	मेरे पास एक रसीद है।
+I have a request.	Ich habe eine Bitte.	मेरे पास एक अनुरोध है।
+I have a wish.	Ich habe einen Wunsch.	मेरे पास एक इच्छा है।
+I have a scooter.	Ich habe einen Roller.	मेरे पास एक स्कूटर है।
+I have a toaster.	Ich habe einen Toaster.	मेरे पास एक टोस्टर है।
