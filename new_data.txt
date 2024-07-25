@@ -2000,3 +2000,13 @@ Stand still.	Stehen bleiben.	विराम लो।
 Start again.	Von vorne beginnen.	फिर से शुरू करो।
 Step inside.	Treten Sie ein.	अंदर कदम रखें।
 Stick to it!	Dran bleiben!	इसे टिकाए रखो!
+Stop crying.	Hör auf zu weinen.	रोना बंद करो।
+Stop moving!	Hör auf zu bewegen!	हिलना बंद करो!
+Stop trying.	Hör auf zu versuchen.	प्रयास करना बंद करो।
+Stop trying. (Different meaning)	Hör auf es zu versuchen.	इसे कोशिश करना बंद करो।
+Stop trying. (Different meaning 2)	Hör auf es zu probieren.	यह कोशिश करना बंद करो।
+Stop! Thief!	Halt! Dieb!	रुको! चोर!
+Surprise me.	Überrasche mich.	मुझे हैरान करो।
+Surprise me. (Different meaning)	Mach mich überraschen.	मेरा चकित करो।
+Surprise me. (Different meaning 2)	Lass mich überrascht sein.	मुझे अचंभित करो।
+Take a bath.	Nimm ein Bad.	स्नान करो।
