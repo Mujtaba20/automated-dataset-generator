@@ -6824,3 +6824,12 @@ Please open it.	Bitte öffnen Sie es.	इसे खोलो।
 Please proceed.	Bitte weitermachen.	कृपया आगे बढ़ें।
 Please say yes.	Bitte sag Ja.	कृपया हाँ कहें।
 Please shut up.	Bitte halt den Mund.	कृपया बंद करो।
+Please stop it.	Bitte hör auf damit.	कृपया इसे रोको।
+Please stop it.1	Bitte halten Sie an.	कृपया यह बंद करें।
+Please stop it.2	Bitte lass es sein.	कृपया यह बंद करें।
+Please try one.	Bitte versuche es einmal.	कृपया एक बार कोशिश करें।
+Please try one.1	Bitte probiere eins.	कृपया एक कोशिश करो।
+Prepare to die.	Bereite dich auf den Tod vor.	मौत के लिए तैयार हो जाओ।
+Prices went up.	Die Preise sind gestiegen.	मूल्य बढ़ गए हैं।
+Prove it to me.	Beweise es mir.	मुझे यह साबित करो।
+Pull over here.	Hier anhalten.	यहाँ रोको।
