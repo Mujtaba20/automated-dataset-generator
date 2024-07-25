@@ -3349,3 +3349,12 @@ Tom is a spy.	Tom ist ein Spion.	टॉम एक खुफिया एजे�
 Tom is a vet.	Tom ist ein Tierarzt.	टॉम एक पशु चिकित्सक है।
 Tom is alive.	Tom lebt.	टॉम जिंदा है।
 Tom is angry.	Tom ist wütend.	टॉम गुस्से में है।
+Tom is awake.	Tom ist wach.	टॉम जाग रहा है।
+Tom is blind.	Tom ist blind.	टॉम अंधा है।
+Tom is bored.	Tom ist gelangweilt.	टॉम उबाऊ है।
+Tom is broke.	Tom ist pleite.	टॉम दरिद्र है।
+Tom is cruel.	Tom ist grausam.	टॉम निर्दयी है।
+Tom is dizzy.	Tom ist schwindelig.	टॉम चक्कर आ रहा है।
+Tom is drunk.	Tom ist betrunken.	टॉम नशे में है।
+Tom is dying.	Tom stirbt.	टॉम मर रहा है।
+Tom is dying. (Another meaning)	Tom ist am Sterben.	टॉम मरने वाला है।
