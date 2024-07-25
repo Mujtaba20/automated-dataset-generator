@@ -1,16 +1,4 @@
 
-You should try it.	Du solltest es ausprobieren.	आपको इसे आज़माना चाहिए।
-You smell so nice.	Du riechst so gut.	आपकी खुशबू बहुत अच्छी है.
-You sound nervous.	Ihr klingt nervös.	आप घबराए हुए हैं।
-You stole my idea.	Du hast mir meine Idee gestohlen.	आपने मेरे लिए मेरा विचार चुरा लिया।
-You take this one.	Du nimmst das hier.	आप इसे यहां ले जाएं।
-You were charming.	Du warst hinreißend.	आप आराध्य थे।
-You were handsome.	Du warst gutaussehend.	आप सुंदर थे।
-You were so sweet.	Du warst einfach reizend.	तुम सिर्फ प्यारे थे।
-You weren't there.	Sie waren nicht dort.	वे वहाँ नहीं थे।
-You weren't there.	Ihr wart nicht dort.	आप वहां नहीं थे।
-You weren't there.	Du warst nicht dort.	तुम वहाँ नहीं थे।
-You weren't there.	Du warst nicht da.	तुम वहाँ नहीं थे।
 You weren't wrong.	Du hast dich nicht geirrt.	आप गलत नहीं हुए।
 You weren't wrong.	Sie haben sich nicht geirrt.	आप गलत नहीं हुए।
 You weren't wrong.	Ihr habt euch nicht geirrt.	आप गलत नहीं हुए।

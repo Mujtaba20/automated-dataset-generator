@@ -20117,3 +20117,13 @@ You should go now.	Du solltest jetzt gehen.	तुम्हें अब जा�
 You should resign.	Du solltest zurücktreten.	तुम्हें इस्तीफा देना चाहिए।
 You should go now. (Different Meaning)	Du solltest jetzt losgehen.	तुम्हें अब चले जाना चाहिए।
 You should resign. (Different Meaning)	Du solltest abdanken.	तुम्हें अपना पद छोड़ना चाहिए।
+Your should try it.	Du solltest es versuchen.	तुम्हें इसे ट्राई करना चाहिए।
+You smell so nice.	Du riechst so gut.	तुम्हारी महक बहुत अच्छी है।
+You sound nervous.	Du hörst dich nervös an.	तुम घबराए हुए लग रहे हो।
+You stole my idea.	Du hast meine Idee gestohlen.	तुमने मेरी विचारों को चुराया।
+You take this one.	Nimm du dieses.	तू यह ले लो।
+You were charming.	Du warst charmant.	तुम आकर्षक थे।
+You were handsome.	Du warst hübsch.	तुम हसीन थे।
+You were so sweet.	Du warst so süß.	तुम बहुत मीठे थे।
+You weren't there.	Du warst nicht da.	तुम वहाँ नहीं थे।
+You weren't at home.	Du warst nicht zu Hause.	तुम घर पर नहीं थे।
