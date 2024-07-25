@@ -2130,3 +2130,12 @@ Tom is nice.	Tom ist nett.	टॉम अच्छा है।
 Tom is nuts.	Tom ist verrückt.	टॉम पागल है।
 Tom is poor.	Tom ist arm.	टॉम गरीब है।
 Tom is rich.	Tom ist reich.	टॉम धनी है।
+Tom is rude.	Tom ist unhöflich.	टॉम कठोर है।
+Tom is safe.	Tom ist sicher.	टॉम सुरक्षित है।
+Tom is sick.	Tom ist krank.	टॉम बीमार है।
+Tom is slim.	Tom ist schlank.	टॉम पतला है।
+Tom is slow.	Tom ist langsam.	टॉम धीमा है।
+Tom is sure.	Tom ist sicher.	टॉम पक्का है।
+Tom is tall.	Tom ist groß.	टॉम लंबा है।
+Tom is thin.	Tom ist dünn.	टॉम पतला है।
+Tom is tidy.	Tom ist ordentlich.	टॉम साफ-सुथरा है।
