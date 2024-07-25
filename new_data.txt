@@ -1241,3 +1241,10 @@ That's his.	Das gehört ihm.	वह उसका है।
 That's new.	Das ist neu.	यह नया है।
 That's sad.	Das ist traurig.	यह दुखद है।
 They agree.	Sie sind einverstanden.	वे सम्मत हैं।
+They cheat.	Sie betrügen.	वे धोखा देते हैं।
+They slept.	Sie schliefen.	उन्होंने सोया।
+They stood.	Sie standen.	वे खड़े थे।
+They tried.	Sie versuchten.	उन्होंने कोशिश की।
+They voted.	Sie stimmten ab.	वे मतदान किया।
+They're in.	Sie sind drin.	वे अंदर हैं।
+Think hard.	Denk scharf nach.	मुश्किल से सोचो।
