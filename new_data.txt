@@ -16932,3 +16932,11 @@ I was on the list.	Ich stand auf der Liste.	मैं सूची पर था
 I was only joking.	Ich habe nur Spaß gemacht.	मैं बस मजाक कर रहा था।
 I was out all day.	Ich war den ganzen Tag draußen.	मैं पूरे दिन बाहर था।
 I was overwhelmed.	Ich war überwältigt.	मैं उत्साहित था।
+I was really busy.	Ich war wirklich beschäftigt.	मैं सच में काफी व्यस्त था।
+I was really cold.	Mir war wirklich kalt.	मुझे सच में बहुत ठंड लग रही थी।
+I was tired today.	Ich war heute müde.	मैं आज थक गया था।
+I was very hungry.	Ich war sehr hungrig.	मैं बहुत भूखा था।
+I was very scared.	Ich hatte sehr Angst.	मैं बहुत डरा हुआ था।
+I washed my hands.	Ich habe meine Hände gewaschen.	मैंने अपने हाथ धोये।
+I wasn't dreaming.	Ich habe nicht geträumt.	मैं सपना नहीं देख रहा था।
+I wasn't flirting.	Ich habe nicht geflirtet.	मैं इश्क़ नहीं कर रहा था।
