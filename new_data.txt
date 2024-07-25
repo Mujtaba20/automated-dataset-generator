@@ -5806,3 +5806,11 @@ He is bankrupt.	Er ist bankrott.	वह दिवालिया है।
 He is delicate.	Er ist zart.	वह नाज़ुक है।
 He is homeless.	Er ist obdachlos.	वह बेघर है।
 He is in Tokyo.	Er ist in Tokyo.	वह टोक्यो में है।
+He is my enemy.	Er ist mein Feind.	वह मेरा दुश्मन है।
+He is my uncle.	Er ist mein Onkel.	वह मेरा चाचा है।
+He is outgoing.	Er ist kontaktfreudig.	वह बहुत उत्तेजित है।
+He is powerful.	Er ist mächtig.	वह शक्तिशाली है।
+He isn't young.	Er ist nicht jung.	वह जवान नहीं है।
+He keeps a cat.	Er hält eine Katze.	वह एक बिल्ली रखता है।
+He lay face up.	Er lag mit dem Gesicht nach oben.	वह चेहरा ऊपर करके पड़ा था।
+He learns fast.	Er lernt schnell.	वह जल्दी सीख लेता है।
