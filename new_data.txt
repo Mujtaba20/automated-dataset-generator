@@ -12207,3 +12207,11 @@ I am not a witch.	Ich bin keine Hexe.	मैं एक चुड़ैल नह
 I am not kidding.	Ich meine es ernst.	मैं मजाक नहीं कर रहा हूँ।
 I am now on duty.	Ich bin jetzt dienstbereit.	अब मेरी ड्यूटी है।
 I am on duty now.	Ich habe jetzt Dienst.	मैं अब ड्यूटी पर हूँ।
+I am only joking.	Ich mache nur Spaß.	मैं सिर्फ मजाक कर रहा हूँ।
+I am out of work.	Ich bin arbeitslos.	मेरे पास काम नहीं है।
+I am pretty sure.	Ich bin ziemlich sicher.	मुझे खास आस्था है।
+I am still alone.	Ich bin immer noch allein.	मैं अभी भी अकेला हूँ।
+I am truly sorry.	Es tut mir wirklich leid.	मैं सचमुच खेद हूँ।
+I am very hungry.	Ich bin sehr hungrig.	मुझे बहुत भूख लगी है।
+I am your father.	Ich bin dein Vater.	मैं तुम्हारे पिता हूँ।
+I ate the cheese.	Ich habe den Käse gegessen.	मैंने पनीर खा लिया।
