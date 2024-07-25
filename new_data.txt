@@ -8287,3 +8287,10 @@ Did you miss me?	Hast du mich vermisst?	क्या तुमने मुझ�
 Did you read it?	Hast du es gelesen?	क्या तुमने यह पढ़ा है?
 Did you miss me? (2)	Hast du mich vermisst?	क्या तुम्हें मेरी याद आई?
 Did you read it? (2)	Hast du es durchgelesen?	क्या तुमने इसे पूरा पढ़ा है?
+Did you say yes?	Hast du Ja gesagt?	क्या तुमने हाँ कहा?
+Did you sue Tom?	Hast du Tom verklagt?	क्या तुमने टॉम पर केस किया?
+Didn't Tom sing?	Hat Tom nicht gesungen?	क्या टॉमने गाया नहीं?
+Dig a deep hole.	Grab ein tiefes Loch.	एक गहरा गड्ढा खोदो।
+Dinner is ready.	Das Abendessen ist fertig.	रात का खाना तैयार है।
+Do I have to go?	Muss ich gehen?	क्या मुझे जाना होगा?
+Do I look tired?	Sehe ich müde aus?	क्या मैं थका हुआ दिखता हूँ?
