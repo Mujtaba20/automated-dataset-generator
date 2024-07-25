@@ -20447,3 +20447,10 @@ Do you remember us?	Erinnerst du dich an uns?	क्या तुम हमे�
 Do you see anybody?	Siehst du jemanden?	क्या तुम किसी को देख रहे हो?
 Do you sell stamps?	Verkaufen Sie Briefmarken?	क्या आप टिकट बेचते हैं?
 Do you smoke a lot?	Rauchst du viel?	क्या तुम ज्यादा सिगरेट पीते हो?
+Do you want a bite?	Willst du einen Happen haben?	क्या आप एक टुकड़ा चाहते हैं?
+Do you want a lift?	Willst du mitfahren?	क्या तुम पर्यटन करना चाहते हो?
+Do you want a pony?	Möchtest du ein Pony?	क्या तुम एक घोड़े को चाहते हो?
+Do you want a ride?	Willst du eine Fahrt?	क्या तुम एक सवारी चाहते हो?
+Do you want it now?	Willst du es jetzt?	क्या तुम अब चाहते हो?
+Do you want to eat?	Möchtest du essen?	क्या आप खाना खाना चाहते हैं?
+Do you want to see?	Möchtest du sehen?	क्या आप देखना चाहते हैं?

@@ -1,14 +1,4 @@
 
-Do you want a bite?	Willst du mal beißen?	क्या आप काटना चाहते हैं?
-Do you want a bite?	Willst du einen Happen?	क्या आप एक काट चाहते हैं?
-Do you want a lift?	Wollen Sie mitfahren?	क्या आप सवारी करना चाहते हैं?
-Do you want a pony?	Willst du ein Pony?	क्या आप एक टट्टू चाहते हैं
-Do you want a ride?	Soll ich dich mitnehmen?	क्या मुझे आपको अपने साथ ले जाना चाहिए?
-Do you want a ride?	Soll ich Sie mitnehmen?	क्या मुझे इसे अपने साथ ले जाना चाहिए?
-Do you want a ride?	Soll ich euch mitnehmen?	क्या मुझे आपको अपने साथ ले जाना चाहिए?
-Do you want it now?	Willst du es jetzt?	क्या आप इसे अब चाहते हैं?
-Do you want to eat?	Möchtest du was essen?	क्या आप कुछ खाना चाहेंगे?
-Do you want to see?	Möchtest du das sehen?	क्या आप इसे देखना चाहते हैं?
 Do you want to sit?	Magst du dich hinsetzen?	क्या आपको बैठना पसंद है
 Do you want to try?	Willst du’s mal versuchen?	क्या आप इसे करने की कोशिश करना चाहते हैं?
 Do your gums bleed?	Haben Sie Zahnfleischbluten?	क्या आपको मसूड़ों से खून बह रहा है?
