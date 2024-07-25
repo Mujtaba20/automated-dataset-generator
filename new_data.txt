@@ -8739,3 +8739,11 @@ I feel homesick.	Ich fühle mich heimwehkrank.	मुझे घर से दू
 I feel horrible.	Ich fühle mich schrecklich.	मैं भयानक महसूस कर रहा हूँ।
 I feel relieved.	Ich fühle mich erleichtert.	मैं परेशानी रहित महसूस कर रहा हूँ।
 I feel terrible.	Ich fühle mich furchtbar.	मैं भयानक महसूस कर रहा हूँ।
+I feel terrific.	Ich fühle mich fantastisch.	मुझे बढ़िया लग रहा है।
+I feel the same.	Ich fühle dasselbe.	मुझे वही लग रहा है।
+I feel very ill.	Ich fühle mich sehr krank.	मुझे बहुत बीमार लग रहा है।
+I feel very old.	Ich fühle mich sehr alt.	मुझे बहुत बूढ़ा लग रहा है।
+I felt betrayed.	Ich fühlte mich verraten.	मुझे धोखा दिया गया था।
+I felt isolated.	Ich fühlte mich isoliert.	मुझे अलग है जानू।
+I felt left out.	Ich fühlte mich ausgeschlossen.	मुझे बाहर छोड़ दिया गया था।
+I felt relieved.	Ich fühlte mich erleichtert.	मुझे राहत मिली।
