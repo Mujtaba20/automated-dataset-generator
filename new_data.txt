@@ -7609,3 +7609,13 @@ Tom wanted out.	Tom wollte raus.	टॉम बाहर निकलना च�
 Tom wants Mary.	Tom will Maria.	टॉम को मेरी चाहिए।
 Tom wants more.	Tom möchte mehr.	टॉम और चाहता है।
 Tom wants that.	Tom will das.	टॉम वह चाहता है।
+Tom wants this.	Tom will das.	टॉम इसे चाहता है।
+Tom warned him.	Tom warnte ihn.	टॉम ने उसे चेतावनी दी।
+Tom warned you.	Tom hat dich gewarnt.	टॉम ने तुम्हें चेताया।
+Tom was a hero.	Tom war ein Held.	टॉम एक नायक था।
+Tom was a jerk.	Tom war ein Idiot.	टॉम बेवकूफ था।
+Tom was abroad.	Tom war im Ausland.	टॉम विदेश में था।
+Tom was absent.	Tom war abwesend.	टॉम अनुपस्थित था।
+Tom was amazed.	Tom war erstaunt.	टॉम हैरान था।
+Tom was amused.	Tom war amüsiert.	टॉम मजे में था।
+Tom was asleep.	Tom schlief.	टॉम सो रहा था।
