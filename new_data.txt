@@ -15162,3 +15162,12 @@ What do you want?	Was möchtest du?	तुम्हें क्या चाह
 What does Tom do?	Was macht Tom?	टॉम क्या करता है?
 What does he say?	Was sagt er?	वह क्या कहता है?
 What does it say?	Was sagt es?	यह क्या कहता है?
+What does she do?	Was macht sie?	वह क्या करती है?
+What happens now?	Was passiert jetzt?	अब क्या होता है?
+What if I refuse?	Was ist, wenn ich ablehne?	अगर मैं मना करूं तो क्या?
+What if I say no?	Was ist, wenn ich nein sage?	अगर मैं ना कहूं तो क्या?
+What if it leaks?	Was ist, wenn es undicht ist?	अगर यह रिहाई हो जाए?
+What is all this?	Was ist das alles?	यह सब क्या है?
+What is going on?	Was ist los?	क्या हो रहा है?
+What is he after?	Was will er?	वह किसे चाह रहा है?
+What is he doing?	Was macht er?	वह क्या कर रहा है?
