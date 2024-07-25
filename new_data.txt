@@ -16974,3 +16974,9 @@ I'd like to stand.	Ich würde gerne stehen.	मुझे खड़े रहन�
 I'd love to do it.	Ich würde es gerne tun.	मैं इसे करने में प्यार करूँगा।
 I'd prefer not to.	Ich würde lieber nicht.	मैं नहीं करना चाहूँगा।
 I'd rather not go.	Ich würde lieber nicht gehen.	मैं नहीं जाना चाहूँगा।
+I'd say go for it.	Ich würde sagen, mach es.	मैं कहूंगा कि आगे बढ़ें।
+I'll ask Mary out.	Ich werde Mary fragen.	मैं मेरी से पूछूंगा।
+I'll be back late.	Ich werde spät zurück sein.	मैं देर से वापस आऊंगी।
+I'll be back soon.	Ich werde bald zurück sein.	मैं जल्दी वापस आऊँगा।
+I'll be fine here.	Mir geht es hier gut.	मैं यहाँ ठीक हूँ।
+I'll be in Boston.	Ich werde in Boston sein.	मैं बोस्टन में होंगा।
