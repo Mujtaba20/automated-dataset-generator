@@ -586,3 +586,10 @@ I'll stop.	Ich werde stoppen.	मैं रुकूँगा।
 I'll converse.	Ich werde sprechen.	मैं चर्चा करूँगा।
 I'll wait.	Ich werde warten.	मैं इंतजार करूँगा।
 I'll walk.	Ich werde gehen.	मैं चलूँगा।
+I'm a man.	Ich bin ein Mann.	मैं एक मनुष्य हूँ।
+I'm a spy.	Ich bin ein Spion.	मैं एक चरवाहा हूँ।
+I'm angry.	Ich bin wütend.	मैं गुस्सा हूँ।
+I'm awake.	Ich bin wach.	मैं जाग रहा हूँ।
+I'm blind.	Ich bin blind.	मैं अंधा हूँ।
+I'm bored.	Mir ist langweilig.	मैं उबाऊ हूँ।
+I'm broke.	Ich bin kaputt.	मैं टूट गया हूँ।
