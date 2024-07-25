@@ -10476,3 +10476,9 @@ Tom is sensible.	Tom ist vernünftig.	टॉम समझदार है।
 Tom is shopping.	Tom geht einkaufen.	टॉम खरीदारी कर रहा है।
 Tom is sick now.	Tom ist jetzt krank.	टॉम अब बीमार है।
 Tom is sickened.	Tom ist angewidert.	टॉम को उबकाई आ रही है।
+Tom is skittish.	Tom ist zaghaft.	टॉम घबराया हुआ है।
+Tom is sleeping.	Tom schläft.	टॉम सो रहा है।
+Tom is sneezing.	Tom niest.	टॉम छींक रहा है।
+Tom is so happy.	Tom ist so glücklich.	टॉम बहुत खुश है।
+Tom is sociable.	Tom ist gesellig.	टॉम मिलनसार है।
+Tom is speaking.	Tom spricht.	टॉम बोल रहा है।
