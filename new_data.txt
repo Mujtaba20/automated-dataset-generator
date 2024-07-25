@@ -15338,3 +15338,11 @@ You can't go now.	Du kannst jetzt nicht gehen.	तुम अभी नहीं 
 You can't go yet.	Du kannst noch nicht gehen.	तुम अभी भी नहीं जा सकते।
 You can't say no.	Du kannst nicht nein sagen.	तुम नहीं कह सकते 'ना'।
 You convinced me.	Du hast mich überzeugt.	तुमने मुझे विश्वास दिलाया।
+You deserve more.	Du verdienst mehr.	आपको और अधिक मिलना चाहिए।
+You deserve that.	Du verdienst das.	आपको वह मिलना चाहिए।
+You deserve this.	Du verdienst das hier.	आपको यह मिलना चाहिए।
+You did it again.	Du hast es wieder gemacht.	तुमने फिरसे कर दिया।
+You do good work.	Du machst gute Arbeit.	तुम अच्छा काम करते हो।
+You do look good.	Du siehst gut aus.	तुम अच्छे लगते हो।
+You don't listen.	Du hörst nicht zu.	तुम सुनते नहीं हो।
+You eat too much.	Du isst zu viel.	तुम बहुत ज्यादा खा रहे हो।
