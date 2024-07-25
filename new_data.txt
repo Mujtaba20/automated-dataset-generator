@@ -17723,3 +17723,12 @@ She decided to go.	Sie entschied sich zu gehen.	उसने जाने का
 She didn't answer.	Sie antwortete nicht.	उसने जवाब नहीं दिया।
 She didn't go far.	Sie ging nicht weit.	वह दूर नहीं गई।
 She died of shock.	Sie starb vor Schock.	उसने गोलीबारी से मर गई।
+She drives me mad.	Sie macht mich verrückt.	वह मुझे पागल करती है।
+She fascinated me.	Sie faszinierte mich.	उसने मेरी भविष्यवाणी की।
+She gained weight.	Sie hat zugenommen.	उसने वजन बढ़ा लिया।
+She gave it to me.	Sie hat es mir gegeben.	उसने यह मुझे दिया।
+She gets up early.	Sie steht früh auf.	वह जल्दी उठती है।
+She has a bicycle.	Sie hat ein Fahrrad.	उसके पास एक साइकिल है।
+She has a picture.	Sie hat ein Bild.	उसके पास एक तस्वीर है।
+She has blue eyes.	Sie hat blaue Augen.	उसके पास नीली आंखें हैं।
+She has long hair.	Sie hat lange Haare.	उसके पास लंबे बाल हैं।
