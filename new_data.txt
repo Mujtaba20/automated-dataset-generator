@@ -3885,3 +3885,13 @@ Guess who won.	Rate mal, wer gewonnen hat.	अनुमान लगाओ क�
 Hang in there!	Halte durch!	वहां लटकते रहो!
 Hang in there.	Bleib dran.	वहाँ रहो।
 Hang on a sec.	Warten Sie mal.	एक सेकंड रुको।
+Hang on to it.	Halten Sie daran fest.	इस पर टिके रहें।
+Have him come.	Lass ihn kommen.	उसे आने दो।
+Have some ham.	Haben Sie etwas Schinken.	कुछ हैम लो।
+Have some tea.	Trinken Sie etwas Tee.	कुछ चाय पिएं।
+He advises us.	Er berät uns.	वह हमें सलाह देता है।
+He came first.	Er kam zuerst.	उसने पहले आकर्षित किया।
+He can't read.	Er kann nicht lesen.	वह पढ़ नहीं सकता।
+He can't sing.	Er kann nicht singen.	वह गा नहीं सकता।
+He can't swim.	Er kann nicht schwimmen.	वह तैर नहीं सकता।
+He drank beer.	Er trank Bier.	उसने बीयर पी ली।
