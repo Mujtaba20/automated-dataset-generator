@@ -13628,3 +13628,11 @@ That did me good.	Das hat mir gut getan.	उसने मुझे अच्छ�
 That didn't work.	Das hat nicht funktioniert.	वह काम नहीं किया।
 That explains it.	Das erklärt es.	वह यह समझाता है।
 That helps a lot.	Das hilft sehr.	वह बहुत मदद करता है।
+That is a pencil.	Das ist ein Bleistift.	यह एक पेंसिल है।
+That is enormous.	Das ist enorm.	वह बड़ा है।
+That is my house.	Das ist mein Haus.	यह मेरा घर है।
+That is not true.	Das ist nicht wahr.	यह सच नहीं है।
+That made me cry.	Das hat mich zum Weinen gebracht.	वहने मुझे रोने पर मजबूर किया।
+That makes sense.	Das macht Sinn.	यह समझ में आता है।
+That may be true.	Das könnte wahr sein.	यह सच हो सकता है।
+That person died.	Diese Person ist gestorben.	उस व्यक्ति की मौत हो गई।
