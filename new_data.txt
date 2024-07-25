@@ -19713,3 +19713,7 @@ What did you pick?	Was hast du ausgewählt?	तुने क्या चुन�
 What did you take?	Was hast du ergriffen?	तुने क्या पकड़ लिया?
 What did you want?	Was hast du gewollt?	तुम्हें क्या चाहिए था?
 What did you wear?	Was hast du getragen?	तुने क्या पहना?
+What do I do next?	Was mache ich als nächstes?	मैं अगला क्या करूँ?
+What do I owe Tom?	Was schulde ich Tom?	मैं टॉम को क्या देता हूँ?
+What do I owe you?	Was schulde ich dir?	मैं तुम्हें क्या देता हूँ?
+What do they know?	Was wissen sie?	उन्हें क्या पता है?

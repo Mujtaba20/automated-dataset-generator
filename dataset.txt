@@ -1,15 +1,4 @@
 
-What do I do next?	Was mache ich als nächstes?	अब मुझे आगे क्या करना है?
-What do I owe Tom?	Was schulde ich Tom?	मैं टॉम का क्या बकाया है?
-What do I owe Tom?	Was bin ich Tom schuldig?	मैं टॉम का क्या दोषी हूं?
-What do I owe you?	Was schulde ich dir?	मैं आपको क्या देनदार हूं?
-What do I owe you?	Was bin ich dir schuldig?	मैं आपके लिए क्या दोषी हूं?
-What do I owe you?	Was schulde ich Ihnen?	मैं आपको क्या देनदार हूं?
-What do I owe you?	Was bin ich Ihnen schuldig?	मैं आपके लिए क्या दोषी हूं?
-What do I owe you?	Was schulde ich euch?	मैं आपको क्या देनदार हूं
-What do I owe you?	Was bin ich euch schuldig?	मैं आपके लिए क्या दोषी हूं?
-What do they know?	Was wissen sie?	आप क्या जानते हैं?
-What do they know?	Was ist ihnen bekannt?	आप क्या जानते हैं?
 What do they sell?	Was verkaufen sie?	आप क्या बेचते हैं?
 What do we do now?	Was machen wir jetzt?	अब क्या करें?
 What do you think?	Was meinst du?	आप क्या सोचते हैं?
