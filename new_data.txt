@@ -9656,3 +9656,12 @@ Make it smaller. (Different Meaning)	Mach es kleiner.	इसे छोटा ब
 Many admire him.	Viele bewundern ihn.	बहुत से उसे पसंद करते हैं।
 Mary helped Tom.	Mary half Tom.	मेरी ने टॉम की मदद की।
 Mary is a widow.	Maria ist eine Witwe.	मेरी एक विधवा है।
+Mary is my aunt.	Mary ist meine Tante.	मेरी चाची मेरी है।
+Mary is my wife.	Mary ist meine Frau.	मेरी बीवी मेरी है।
+Mary sings alto.	Mary singt Alt.	मेरी अल्टो गाती है।
+Mary's my niece.	Mary ist meine Nichte.	मेरी मामी की लड़की है।
+May I come, too?	Kann ich auch kommen?	क्या मैं भी आ सकता हूँ?
+May I go to bed?	Darf ich ins Bett gehen?	क्या मैं सोने जा सकता हूँ?
+May I interrupt?	Darf ich unterbrechen?	क्या मैं बात चीत में व्यवधान कर सकता हूँ?
+May I leave now?	Darf ich jetzt gehen?	क्या मैं अब चला जाऊँ?
+May I quote you?	Darf ich dich zitieren?	क्या मैं तुम्हें उद्धरण देने को कह सकता हूँ?
