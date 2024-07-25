@@ -9997,3 +9997,12 @@ There's no hope.	Es gibt keine Hoffnung.	कोई आशा नहीं है
 There's no rush.	Es besteht kein Grund zur Eile.	कोई जल्दी नहीं है।
 There's no salt.	Es gibt kein Salz.	नमक नहीं है।
 There's no soap.	Es gibt keine Seife.	साबुन नहीं है।
+There's the rub.	Da ist der Haken.	वहाँ रगड़ है।
+These are Tom's.	Das gehört Tom.	ये टॉम के हैं।
+These are fakes.	Das sind Fälschungen.	ये नकली हैं।
+These are fresh.	Diese sind frisch.	ये ताज़ा हैं।
+These are gifts.	Das sind Geschenke.	ये उपहार हैं।
+These are great.	Das sind großartig.	ये शानदार हैं।
+These are yours.	Das gehört dir.	ये तुम्हारे हैं।
+These look nice.	Das sieht gut aus.	ये अच्छे दिखते हैं।
+They all talked.	Alle haben geredet.	उन सभी ने बातचीत की।
