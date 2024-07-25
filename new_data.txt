@@ -1066,3 +1066,13 @@ I'm a girl.	Ich bin ein Mädchen.	मैं एक लड़की हूँ।
 I'm a hero.	Ich bin ein Held.	मैं एक नायक हूँ।
 I'm a monk.	Ich bin ein Mönch.	मैं एक साधु हूँ।
 I'm afraid.	Ich habe Angst.	मैं डर रहा हूँ।
+I'm amused.	Ich bin amüsiert.	मुझे मज़ा आ रहा है।
+I'm anemic.	Ich bin anämisch.	मुझे रक्ताल्पता है।
+I'm baking.	Ich backe gerade.	में पका रहा हूँ।
+I'm better.	Mir geht es besser.	मुझे बेहतर महसूस हो रहा है।
+I'm biased.	Ich bin voreingenommen.	मैं पक्षपाती हूँ।
+I'm buying.	Ich kaufe gerade ein.	मैं खरीदारी कर रहा हूँ।
+I'm chubby.	Ich bin mollig.	मैं मतलबी हूँ।
+I'm chubby. 2	Ich bin kugelrund.	मैं मोटी हूँ।
+I'm coming.	Ich komme.	मैं आ रहा हूँ।
+I'm coming. 2	Ich bin im Anmarsch.	मैं आपके पास आ रहा हूँ।
