@@ -1408,3 +1408,11 @@ You're big.	Du bist groß.	तुम बड़े हो।
 You're old.	Sie sind alt.	तुम पुराने हो।
 You've won!	Du hast gewonnen!	तुमने विजय प्राप्त की है!
 All is well.	Alles ist gut.	सब ठीक है।
+Am I stupid?	Bin ich dumm?	क्या मैं मूर्ख हूँ?
+Anyone home?	Ist jemand zu Hause?	कोई घर पर है?
+Anyone hurt?	Ist jemand verletzt?	कोई चोट लगी है?
+Are we done?	Sind wir fertig?	क्या हमने समाप्त कर दिया है?
+Are we lost?	Haben wir uns verlaufen?	क्या हम खो गए हैं?
+Are we safe?	Sind wir in Sicherheit?	क्या हम सुरक्षित हैं?
+Are you Tom?	Bist du Tom?	क्या तुम टॉम हो?
+Are you Tom?_1	Bist du Tom?	क्या तुम टॉम हो?
