@@ -19671,3 +19671,13 @@ We've all done it.	Wir haben es alle gemacht.	हम सभी ने यह क
 We've already met.	Wir haben uns bereits getroffen.	हम पहले ही मिल चुके हैं।
 We've been robbed.	Wir wurden ausgeraubt.	हमें लूट लिया गया है।
 We've been warned.	Wir wurden gewarnt.	हमें चेतावनी दी गई है।
+We've got to talk.	Wir müssen reden.	हमें बात करनी है।
+We've lost 3 to 0.	Wir haben 3 zu 0 verloren.	हमने 3 से 0 हार ली है।
+We've seen enough.	Wir haben genug gesehen.	हमने पर्याप्त देख लिया है।
+Wear warm clothes.	Trage warme Kleidung.	गर्म कपड़े पहनो।
+Welcome back, Tom.	Willkommen zurück, Tom.	वापसी पर स्वागत, टॉम।
+Welcome home, Tom.	Willkommen zu Hause, Tom.	घर आकर स्वागत, टॉम।
+Welcome to Boston.	Willkommen in Boston.	बॉस्टन में स्वागत है।
+Were they serious?	Waren sie ernst?	क्या वे गंभीर थे?
+Were you drinking?	Hast du getrunken?	क्या आप पी रहे थे?
+Were you promoted?	Wurdest du befördert?	क्या आपको पदोन्नति मिली थी?
