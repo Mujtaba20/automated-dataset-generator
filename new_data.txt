@@ -10956,3 +10956,10 @@ Tom writes well.	Tom schreibt gut.	टॉम अच्छा लिखता ह
 Tom'll be ready.	Tom wird bereit sein.	टॉम तैयार हो जाएगा।
 Tom'll find out.	Tom wird herausfinden.	टॉम बाहर निकल जाएगा।
 Tom'll remember.	Tom wird sich erinnern.	टॉम याद रखेगा।
+Tom's a charmer.	Toms ein Charmeur.	टॉम एक चार्मर है।
+Tom's an expert.	Toms ein Experte.	टॉम एक विशेषज्ञ है।
+Tom's boat sank.	Toms Schiff sank.	टॉम की नाव डूब गई।
+Tom's brilliant.	Toms strahlend.	टॉम उज्ज्वल है।
+Tom's concerned.	Toms besorgt.	टॉम चिंतित है।
+Tom's confessed.	Tom hat gestanden.	टॉम ने स्वीकार किया।
+Tom's conscious.	Toms bewusst.	टॉम सचेत है।
