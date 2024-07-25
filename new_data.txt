@@ -15784,3 +15784,10 @@ Don't be too long.	Sei nicht zu lange.	इतना लंबा मत हो�
 Don't be too sure.	Sei nicht zu sicher.	इतना पक्का ना हो.
 Don't believe Tom.	Glaube nicht Tom.	टॉम पर भरोसा मत करो।
 Don't count on it.	Verlass dich nicht darauf.	उस पर निर्भर न करें।
+Don't deceive Tom.	Täusche Tom nicht.	टॉम को गुमराह मत करो।
+Don't deceive him.	Betrüge ihn nicht.	उसे धोखा मत दो।
+Don't disturb Tom.	Störe Tom nicht.	टॉम को परेशान मत करो।
+Don't do anything.	Tue nichts.	कुछ न करो।
+Don't do it again.	Mach es nicht wieder.	यह फिर से मत करो।
+Don't do that, OK?	Tu das nicht, okay?	वह मत करो, ठीक है?
+Don't forget that.	Vergiss das nicht.	उसे मत भूलो।
