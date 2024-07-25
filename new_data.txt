@@ -12604,3 +12604,13 @@ I need a fresh pair of footwear.	Ich brauche ein frisches Paar Schuhe.	मुझ
 I need some cash.	Ich brauche etwas Bargeld.	मुझे कुछ नकदी की आवश्यकता है।
 I require money.	Ich benötige Geld.	मुझे पैसे चाहिए।
 I need monetary assistance.	Ich benötige finanzielle Unterstützung.	मुझे धन सहायता की आवश्यकता है।
+I need some milk.	Ich brauche etwas Milch.	मुझे कुछ दूध चाहिए।
+I need some soap.	Ich brauche etwas Seife.	मुझे कुछ साबुन चाहिए।
+I need some time.	Ich brauche etwas Zeit.	मुझे कुछ समय चाहिए।
+I need that tape.	Ich brauche dieses Band.	मुझे वह टेप चाहिए।
+I need the money.	Ich brauche das Geld.	मुझे पैसे चाहिए।
+I need the money. (different meaning)	Ich brauche das Geld dringend.	मुझे वह पैसा चाहिए।
+I need the truth.	Ich brauche die Wahrheit.	मुझे सच चाहिए।
+I need to go now.	Ich muss jetzt gehen.	मुझे अभी जाना है।
+I need your help.	Ich brauche deine Hilfe.	मुझे तुम्हारी मदद चाहिए।
+I need your help. (different meaning)	Ich benötige Ihre Unterstützung.	मुझे तुम्हारे सहायता की आवश्यकता है।
