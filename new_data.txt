@@ -9821,3 +9821,9 @@ She seems happy.	Sie scheint glücklich zu sein.	वह खुश लगती �
 She slapped him.	Sie hat ihn geschlagen.	उसने उसे चप्पल मारी।
 She slapped him. - Different meaning	Sie hat ihn geschlagen.	उसने उसे तमाचा मारा।
 She sounded mad.	Sie klang wütend.	उसे पागल लग रही थी।
+She stabbed him.	Sie erstach ihn.	उसने उसे चाकू मारा।
+She talks a lot.	Sie redet viel.	वह बहुत बात करती है।
+She tempted him.	Sie versuchte ihn.	उसने उसे परीक्षण किया।
+She tied him up.	Sie fesselte ihn.	उसने उसे बांध दिया।
+She trusted you.	Sie vertraute dir.	वह तुम पर भरोसा करती थी।
+She was my boss.	Sie war mein Chef.	वह मेरी बॉस थी।
