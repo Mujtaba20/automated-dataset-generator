@@ -15662,3 +15662,13 @@ Cut off the power.	Schalte die Stromversorgung ab.	बिजली को का
 Defend yourselves.	Verteidigt euch.	अपना बचाव करो।
 Did I fall asleep?	Bin ich eingeschlafen?	क्या मैं सो गया था?
 Did I wake Tom up?	Habe ich Tom aufgeweckt?	क्या मैंने टॉम को जगाया था?
+Did Tom come back?	Ist Tom zurückgekommen?	क्या टॉम वापस आया?
+Did Tom come here?	Ist Tom hierher gekommen?	क्या टॉम यहाँ आया?
+Did Tom come home?	Ist Tom nach Hause gekommen?	क्या टॉम घर आया?
+Did Tom kiss Mary?	Hat Tom Maria geküsst?	क्या टॉमने मेरी को चुम्मा दिया?
+Did Tom know that?	Wusste Tom das?	क्या टॉम को यह पता था?
+Did Tom know this?	Wusste Tom das hier?	क्या टॉम यह जानता था?
+Did Tom look busy?	Sah Tom beschäftigt aus?	क्या टॉम व्यस्त लग रहा था?
+Did Tom mean that?	Meinte Tom das?	क्या टॉमने इसका मतलब यह था?
+Did Tom need help?	Brauchte Tom Hilfe?	क्या टॉम को मदद की जरुरत थी?
+Did Tom oversleep?	Hat Tom verschlafen?	क्या टॉमको ज्यादा सोना हो गया था?
