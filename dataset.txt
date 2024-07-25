@@ -1,14 +1,4 @@
 
-Tom is a bachelor.	Tom ist Junggeselle.	टॉम एक स्नातक है।
-Tom is a bad cook.	Tom ist ein schlechter Koch.	टॉम एक बुरा रसोइया है।
-Tom is a bad cook.	Tom kann nicht kochen.	टॉम खाना नहीं बना सकता।
-Tom is a bad liar.	Tom ist ein schlechter Lügner.	टॉम एक बुरा झूठा है।
-Tom is a beginner.	Tom ist Anfänger.	टॉम एक शुरुआत है।
-Tom is a bookworm.	Tom ist ein Bücherwurm.	टॉम एक किताबी कीड़ा है।
-Tom is a dad, too.	Tom ist auch Vater.	टॉम भी एक पिता है।
-Tom is a diabetic.	Tom ist Diabetiker.	टॉम डायबिटिक है।
-Tom is a diplomat.	Tom ist Diplomat.	टॉम एक राजनयिक है।
-Tom is a gardener.	Tom ist Gärtner.	टॉम एक माली है।
 Tom is a good boy.	Tom ist ein guter Junge.	टॉम एक अच्छा लड़का है।
 Tom is a good guy.	Tom ist ein guter Mensch.	टॉम एक अच्छा इंसान है।
 Tom is a good kid.	Tom ist ein braves Kind.	टॉम एक अच्छा बच्चा है।

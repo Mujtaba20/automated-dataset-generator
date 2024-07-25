@@ -18572,3 +18572,12 @@ Tom imitated Mary.	Tom ahmte Mary nach.	टॉम ने मेरी की अ
 Tom insulted Mary.	Tom hat Mary beleidigt.	टॉम ने मेरी का अपमान किया।
 Tom is Mary's son.	Tom ist Marys Sohn.	टॉम मेरी का बेटा है।
 Tom is a Canadian.	Tom ist Kanadier.	टॉम कनाडियन है।
+Tom is a bachelor.	Tom ist ein Junggeselle.	टॉम एक एकल है।
+Tom is a bad cook.	Tom ist ein schlechter Koch.	टॉम एक खराब पकाने वाला है।
+Tom is a bad liar.	Tom ist ein schlechter Lügner.	टॉम एक बुरा झूठा है।
+Tom is a beginner.	Tom ist ein Anfänger.	टॉम एक शुरुआती है।
+Tom is a bookworm.	Tom ist eine Leseratte.	टॉम एक किताबी कीड़ा है।
+Tom is a dad, too.	Tom ist auch ein Vater.	टॉम एक पिता भी है।
+Tom is a diabetic.	Tom ist Diabetiker.	टॉम मधुमेही है।
+Tom is a diplomat.	Tom ist ein Diplomat.	टॉम एक कूटनीतिज्ञ है।
+Tom is a gardener.	Tom ist ein Gärtner.	टॉम एक माली है।
