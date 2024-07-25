@@ -12007,3 +12007,10 @@ He looks healthy.	Er sieht gesund aus.	वह स्वस्थ दिखता
 He looks his age.	Er sieht seinem Alter entsprechend aus.	वह अपने उम्र के हिसाब से दिखता है।
 He loves animals.	Er liebt Tiere.	वह जानवरों से प्यार करता है।
 He loves fishing.	Er liebt das Angeln.	उसे मछली पकड़ना पसंद है।
+He loves singing.	Er liebt es zu singen.	उसे गाने का समय पसंद है।
+He loves to fish.	Er liebt es zu fischen.	उसे मछली पकड़ना पसंद है।
+He made for home.	Er machte sich auf den Heimweg.	उसने घर की दिशा में राह निकाली।
+He made me do it.	Er zwang mich dazu.	उसने मुझे यह करने को कहा।
+He made me smile.	Er brachte mich zum Lächeln.	उसने मुझे मुस्कान पर ला दिया।
+He made no reply.	Er antwortete nicht.	उसने कोई जवाब नहीं दिया।
+He meant no harm.	Er meinte es nicht böse.	उसने कोई नुकसान करने की उत्कृष्टता नहीं की थी।
