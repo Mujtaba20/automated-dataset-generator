@@ -11710,3 +11710,8 @@ Do you feel sick?	Fühlst du dich krank?	क्या तुम्हें ब�
 Do you have a TV?	Hast du einen Fernseher?	क्या आपके पास एक टीवी है?
 Do you have beer?	Hast du Bier?	क्या आपके पास बीयर है?
 Do you have kids?	Hast du Kinder?	क्या आपके बच्चे हैं?
+Do you have rice?	Hast du Reis?	क्या आपके पास चावल है?
+Do you have them?	Hast du sie?	क्या आपके पास उनके पास है?
+Do you have time?	Hast du Zeit?	क्या आपके पास समय है?
+Do you hear that?	Hörst du das?	क्या तुम यह सुनते हो?
+Do you know that?	Weißt du das?	क्या तुम्हें यह पता है?
