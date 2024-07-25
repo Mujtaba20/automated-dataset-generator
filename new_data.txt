@@ -11330,3 +11330,10 @@ You aren't rich.	Du bist nicht reich.	तुम धनवान नहीं ह
 You betrayed me.	Du hast mich verraten.	तुमने मुझे धोखा दिया।
 You better hide.	Du solltest dich besser verstecken.	तुम्हें बेहतर छुपना चाहिए।
 You can have it.	Du darfst es haben.	तुम्हें इसे ले सकते हो।
+You can help me.	Ihr könnt mir helfen.	तुम मुझे मदद कर सकते हो।
+You can keep it.	Du kannst es behalten.	तुम इसे रख सकते हो।
+You can make it.	Du kannst es schaffen.	तुम यह कर सकते हो।
+You cannot lose.	Du kannst nicht verlieren.	तुम हार नहीं सकते।
+You deserved it.	Du hast es verdient.	तुम इसकी काबिलियत रखते हो।
+You fell asleep.	Du bist eingeschlafen.	तुम सो गए।
+You got cheated.	Du wurdest betrogen.	तुम धोखा खा गए।
