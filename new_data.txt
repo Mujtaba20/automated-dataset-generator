@@ -10349,3 +10349,13 @@ Tom is a writer.	Tom ist ein Schriftsteller.	टॉम एक लेखक ह�
 Tom is adorable.	Tom ist liebenswert.	टॉम प्यारा है।
 Tom is after me.	Tom ist hinter mir her.	टॉम मेरी पीछा कर रहा है।
 engSentence	{'Tom is agitated.': 'Tom ist aufgebracht.', 'Tom is agnostic.': 'Tom ist agnostisch.', 'Tom is all ears.': 'Tom hat gespitzte Ohren.', 'Tom is an actor.': 'Tom ist ein Schauspieler.', 'Tom is an adult.': 'Tom ist erwachsen.', 'Tom is an angel.': 'Tom ist ein Engel.', 'Tom is annoying.': 'Tom ist nervig.', 'Tom is anorexic.': 'Tom ist magersüchtig.', 'Tom is arrogant.': 'Tom ist arrogant.', 'Tom is artistic.': 'Tom ist künstlerisch.'}	{'Tom is agitated.': 'टॉम चिढ़ा हुआ है।', 'Tom is agnostic.': 'टॉम अज्ञातवादी है।', 'Tom is all ears.': 'टॉम कान खोल कर सुन रहा है।', 'Tom is an actor.': 'टॉम एक अभिनेता है।', 'Tom is an adult.': 'टॉम एक वयस्क है।', 'Tom is an angel.': 'टॉम एक फरिश्ता है।', 'Tom is annoying.': 'टॉम चिढ़ने वाला है।', 'Tom is anorexic.': 'टॉम का अनियमित भोजन में असहायता है।', 'Tom is arrogant.': 'टॉम घमंडी है।', 'Tom is artistic.': 'टॉम कलात्मक है।'}
+Tom is athletic.	Tom ist sportlich.	टॉम शारीरिक है।
+Tom is autistic.	Tom ist autistisch.	टॉम ऑटिस्टिक है।
+Tom is back now.	Tom ist jetzt zurück.	टॉम अब वापस आया है।
+Tom is barbaric.	Tom ist barbarisch.	टॉम वीर नहीं है।
+Tom is barefoot.	Tom ist barfuß.	टॉम आजू है।
+Tom is bleeding.	Tom blutet.	टॉम खून बह रहा है।
+Tom is bluffing.	Tom blufft.	टॉम धोखा दे रहा है।
+Tom is blushing.	Tom wird rot.	टॉम शर्मा रहा है।
+Tom is busy now.	Tom ist jetzt beschäftigt.	टॉम अब व्यस्त है।
+Tom is calm now.	Tom ist jetzt ruhig.	टॉम अब शांत है।
