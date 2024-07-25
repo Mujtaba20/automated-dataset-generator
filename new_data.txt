@@ -13851,3 +13851,13 @@ Things got worse.	Es wurde schlimmer.	चीजें और बिगड़ ग
 Things look good.	Die Dinge sehen gut aus.	बातें अच्छी दिख रही हैं।
 Think about that.	Denk darüber nach.	उसके बारे में सोचो।
 Think about this.	Denk darüber nach.	इसके बारे में सोचो।
+This bag is mine.	Diese Tasche ist meine.	यह बस मेरी है।
+This bed is cold.	Dieses Bett ist kalt.	यह बिस्तर सर्द है।
+This book is new.	Dieses Buch ist neu.	यह किताब नई है।
+This boy is lazy.	Dieser Junge ist faul.	यह लड़का सुस्त है।
+This car is fast.	Dieses Auto ist schnell.	यह गाड़ी तेज है।
+This car is good.	Dieses Auto ist gut.	यह गाड़ी अच्छी है।
+This car is mine.	Dieses Auto gehört mir.	यह गाड़ी मेरी है।
+This didn't work.	Das hat nicht funktioniert.	यह काम नहीं किया।
+This has to stop.	Das muss aufhören.	यह बंद करना होगा।
+This hat is mine.	Dieser Hut gehört mir.	यह टोपी मेरी है।
