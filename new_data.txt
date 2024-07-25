@@ -7263,3 +7263,13 @@ Tom is a pilot.	Tom ist Pilot.	टॉम एक पायलट है।
 Tom is a rabbi.	Tom ist Rabbi.	टॉम एक रब्बी है।
 Tom is a saint.	Tom ist ein Heiliger.	टॉम संत है।
 Tom is a thief.	Tom ist ein Dieb.	टॉम एक चोर है।
+Tom is a vegan.	Tom ist Veganer.	टॉम एक शाकाहारी है।
+Tom is adopted.	Tom ist adoptiert.	टॉम गोद लिया गया है।
+Tom is amazing.	Tom ist erstaunlich.	टॉम अद्भुत है।
+Tom is amusing.	Tom ist amüsant.	टॉम मनोरंजक है।
+Tom is annoyed.	Tom ist verärgert.	टॉम को चिढ़ रहा है।
+Tom is anxious.	Tom ist ängstlich.	टॉम चिंतित है।
+Tom is ashamed.	Tom ist beschämt.	टॉम शर्मिंदा है।
+Tom is at home.	Tom ist zu Hause.	टॉम घर पर है।
+Tom is average.	Tom ist durchschnittlich.	टॉम सामान्य है।
+Tom is awesome.	Tom ist fantastisch.	टॉम बेहतरीन है।
