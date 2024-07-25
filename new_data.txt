@@ -4210,3 +4210,12 @@ I need coffee.	Ich brauche Kaffee.	मुझे कॉफी चाहिए।
 I need my key.	Ich brauche meinen Schlüssel.	मुझे मेरी कुंजी चाहिए।
 I need stamps.	Ich brauche Briefmarken.	मुझे टिकट चाहिए।
 I need to eat.	Ich muss essen.	मुझे खाना चाहिए।
+I needed help.	Ich brauchte Hilfe.	मुझे मदद की आवश्यकता थी।
+I never drink.	Ich trinke nie.	मैं कभी नहीं पीता।
+I own a horse.	Ich besitze ein Pferd.	मेरे पास एक घोड़ा है।
+I play tennis.	Ich spiele Tennis.	मैं टेनिस खेलता/खेलती हूँ।
+I play violin.	Ich spiele Violine.	मैं वायलिन बजाता/बजाती हूँ।
+I put it back.	Ich lege es zurück.	मैंने इसे वापस रख दिया।
+I quite agree.	Ich stimme vollkommen zu.	मैं पूरी तरह से सहमत हूँ।
+I ran outside.	Ich rannte nach draußen.	मैं बाहर भागा।
+I read a book.	Ich lese ein Buch.	मैं किताब पढ़ता/पढ़ती हूँ।
