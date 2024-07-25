@@ -2699,3 +2699,12 @@ I hugged Tom.	Ich habe Tom umarmt.	मैंने टॉम को गले �
 I hugged Tom. - Different Meaning	Ich drückte Tom.	मैंने टॉम को गले लगाया।
 I hugged her.	Ich umarmte sie.	मैंने उसे गले लगाया।
 I hugged her. - Different Meaning	Ich habe sie gedrückt.	मैंने उसे गले लगाया।
+I improvised.	Ich improvisierte.	मैंने आविष्कार किया।
+I keep a dog.	Ich halte einen Hund.	मैं एक कुत्ता रखता हूं।
+I kissed Tom.	Ich habe Tom geküsst.	मैंने टॉम को चुम्मा दिया।
+I let him go.	Ich ließ ihn gehen.	मैंने उसे जाने दिया।
+I like books.	Ich mag Bücher.	मुझे किताबें पसंद हैं।
+I like bread.	Ich mag Brot.	मुझे रोटी पसंद है।
+I like candy.	Ich mag Süßigkeiten.	मुझे मिष्टान्न पसंद है।
+I like girls.	Ich mag Mädchen.	मुझे लड़कियां पसंद हैं।
+I like music.	Ich mag Musik.	मुझे संगीत पसंद है।
