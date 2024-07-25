@@ -17709,3 +17709,9 @@ See you at school.	Wir sehen uns in der Schule.	विद्यालय मे�
 See you in Boston.	Wir sehen uns in Boston.	बोस्टन में मिलेंगे।
 See you later, OK?	Bis später, OK?	बाद में मिलेंगे, ठीक है?
 See you next week!	Bis nächste Woche!	अगले सप्ताह मिलेंगे!
+See you next week.	Bis nächste Woche.	तुम्हें अगले हफ्ते देखेंगे।
+Set it down there.	Legen Sie es dort hin.	वहाँ नीचे रख दो।
+She became famous.	Sie wurde berühmt.	उसने प्रसिद्ध हो गई।
+She began to sing.	Sie hat angefangen zu singen.	उसने गाना गाना आरंभ किया।
+She can jump high.	Sie kann hoch springen.	वह ऊपर कूद सकती है।
+She can't do that.	Sie kann das nicht machen.	वह वह कर सकती नहीं है।
