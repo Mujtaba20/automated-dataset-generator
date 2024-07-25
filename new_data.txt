@@ -12938,3 +12938,12 @@ I'm not very old.	Ich bin nicht sehr alt.	मैं बहुत बुढ़ा
 I'm not watching.	Ich schaue nicht zu.	मैं नहीं देख रहा हूँ।
 I'm not your son.	Ich bin nicht dein Sohn.	मैं तुम्हारा बेटा नहीं हूँ।
 I'm off tomorrow.	Ich habe morgen frei.	मैं कल छुट्टी पर हूँ।
+I'm on the phone.	Ich bin am Telefon.	मैं फ़ोन पर हूँ।
+I'm out of money.	Ich bin pleite.	मेरे पास पैसे नहीं हैं।
+I'm overreacting.	Ich übertreibe.	मैं अत्यधिक प्रतिक्रिया दिखा रहा हूँ।
+I'm proud of you.	Ich bin stolz auf dich.	मैं तुम पर गर्वित हूँ।
+I'm quite hungry.	Ich bin ziemlich hungrig.	मैं काफी भूखा हूँ।
+I'm quite strong.	Ich bin ziemlich stark.	मैं काफी मजबूत हूँ।
+I'm really angry.	Ich bin wirklich wütend.	मैं सचमुच गुस्से में हूँ।
+I'm really broke.	Ich bin wirklich pleite.	मैं सचमुच दिनदहाड़े हूँ।
+I'm really drunk.	Ich bin wirklich betrunken.	मैं सचमुच नशे में हूँ।
