@@ -2045,3 +2045,13 @@ There it is.	Es ist da.	इसमें है।
 There's Tom.	Da ist Tom.	तोम है।
 They burned.	Sie brannten nieder.	उन्होंने जला दिया।
 They called.	Sie nannten.	उन्होंने बुलाया।
+They danced.	Sie tanzten.	उन्होंने नृत्य किया।
+They did it.	Sie haben es getan.	उन्होंने यह किया।
+They hugged.	Sie umarmten sich.	उन्होंने गले लगा लिया।
+They hugged. - Different Meaning	Sie umarmten jemand anderen.	वे किसी और को गले लगा लिया।
+They kissed.	Sie küssten sich.	उन्होंने चुंबन दिया।
+They may go.	Sie könnten gehen.	वे जा सकते हैं।
+They may go. - Different Meaning	Sie dürfen gehen.	वे जा सकते हैं।
+They saw me.	Sie sahen mich.	उन्होंने मुझे देखा।
+They saw me. - Different Meaning	Sie sahen mich an.	उन्होंने मेरा दर्शन किया।
+They smiled.	Sie lächelten.	उन्होंने मुस्कान में लिया।
