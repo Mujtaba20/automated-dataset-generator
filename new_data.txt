@@ -4813,3 +4813,8 @@ Stop shooting.	Hör auf zu schießen.	गोली चलाना बंद क
 Stop shouting.	Hör auf zu schreien.	चिल्लाना बंद करो।
 Stop swearing.	Hör auf zu fluchen.	गाली देना बंद करो।
 Stop that car.	Stop das Auto.	उस गाड़ी को रोको।
+Straighten up.	Aufrichten.	सीधा हो जाएं।
+Suit yourself.	Tun, was du willst.	जैसा तुम्हें ठीक लगे।
+Sweep my room.	Fegen Sie mein Zimmer.	मेरा कमरा साफ़ करो।
+Take Tom home.	Nimm Tom nach Hause.	टॉम को घर ले जाओ।
+Take a number.	Nehmen Sie eine Nummer.	एक नंबर लें।
