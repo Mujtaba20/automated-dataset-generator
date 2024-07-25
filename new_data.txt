@@ -4984,3 +4984,11 @@ Tom got drunk.	Tom wurde betrunken.	टॉम नशे में था।
 Tom got fired.	Tom wurde gefeuert.	टॉम को नौकरी से निकाल दिया गया।
 Tom got stuck.	Tom steckte fest.	टॉम फंस गया।
 Tom graduated.	Tom absolvierte seinen Abschluss.	टॉम ने अपना स्नातक किया।
+Tom had a cat.	Tom hatte eine Katze.	टॉम के पास एक बिल्ली थी।
+Tom had a dog.	Tom hatte einen Hund.	टॉम के पास एक कुत्ता था।
+Tom had a gun.	Tom hatte eine Pistole.	टॉम के पास एक बंदूक थी।
+Tom had a son.	Tom hatte einen Sohn.	टॉम के पास एक बेटा था।
+Tom had to go.	Tom musste gehen.	टॉम को जाना था।
+Tom has a car.	Tom hat ein Auto.	टॉम के पास एक कार है।
+Tom has a cat.	Tom besitzt eine Katze.	टॉम के पास एक बिल्ली है।
+Tom has a dog.	Tom hat einen Hund.	टॉम के पास एक कुत्ता है।
