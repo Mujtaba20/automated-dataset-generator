@@ -16786,3 +16786,9 @@ I really doubt it.	Ich bezweifle es wirklich.	मुझे यकीन नह�
 I really hate Tom.	Ich hasse Tom wirklich.	मुझे टॉम से वास्तव में नफरत है।
 I really like Tom.	Ich mag Tom wirklich gerne.	मुझे टॉम खूब पसंद है।
 I really like him.	Ich mag ihn wirklich gerne.	मुझे उसे खूब पसंद है।
+I really like you.	Ich mag dich wirklich.	मुझे तुम्हारी पसंद है।
+I really love Tom.	Ich liebe Tom wirklich.	मैं वास्तव में टॉम से प्यार करता हूँ।
+I really love you.	Ich liebe dich wirklich.	मुझे तुम्हारा वास्तव में पसंद है।
+I really miss Tom.	Ich vermisse Tom wirklich.	मैं वास्तव में टॉम को याद करता हूँ।
+I really miss you.	Ich vermisse dich wirklich.	मैं वास्तव में तुम्हें याद कर रहा हूँ।
+I really think so.	Ich denke das wirklich.	मैं वास्तव में ऐसा ही सोचता हूँ।
