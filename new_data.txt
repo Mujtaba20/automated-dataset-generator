@@ -9963,3 +9963,10 @@ The dog growled.	Der Hund knurrte.	कुत्ता ग़र्राया�
 The dog is dead.	Der Hund ist tot.	कुत्ता मुर्दा है।
 The dog is ours.	Der Hund gehört uns.	कुत्ता हमारा है।
 The door opened.	Die Tür öffnete sich.	दरवाज़ा खुल गया।
+The engine died.	Der Motor starb.	इंजन बंद हो गया।
+The fire is out.	Das Feuer ist gelöscht.	अग्नि बुझ गई है।
+The food's here.	Das Essen ist hier.	खाना आ गया है।
+The gate opened.	Das Tor wurde geöffnet.	गेट खुल गया।
+The house stank.	Das Haus roch unangenehm.	घर बदबू चिढ़ रही थी।
+The lake is big.	Der See ist groß.	झील बडी है।
+The leaves fell.	Die Blätter fielen.	पत्तियाँ गिर गईं।
