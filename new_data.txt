@@ -3689,3 +3689,9 @@ You're moody.	Du hast Stimmungsschwankungen.	तुम मूडी हो।
 You're naive.	Du bist naiv.	तुम भोले-भाले हो।
 You're obese.	Du bist fettleibig.	तुम मोटे हो।
 You're quiet.	Du bist ruhig.	तुम चुप बैठे हो।
+You're right.	Du hast recht.	तुम सही हो।
+You're sharp.	Du bist scharf.	तुम तेज हो।
+You're silly.	Du bist albern.	तुम मूर्ख हो।
+You're right. (Different meaning)	Sie haben Recht.	आप सही हैं।
+You're sharp. (Different meaning)	Du bist klug.	तुम तेज हो।
+You're silly. (Different meaning)	Du machst Unsinn.	तुम मूर्ख हो।
