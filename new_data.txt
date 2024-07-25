@@ -20064,3 +20064,9 @@ You like everyone.	Du magst alle.	तुम सभी को पसंद कर
 You look European.	Du siehst europäisch aus.	तुम यूरोपीय लगते हो।
 You look Japanese.	Du siehst japanisch aus.	तुम जापानी लगते हो।
 You look confused.	Du siehst verwirrt aus.	तुम भ्रमित लगते हो।
+You look fabulous.	Du siehst fabelhaft aus.	तुम बहुत शानदार लग रहे हो।
+You look fabulous. (different meaning)	Du siehst hinreißend aus.	तुम बहुत ही सुंदर लग रहे हो।
+You look familiar.	Du kommst mir bekannt vor.	तुम मुझे परिचित लग रहे हो।
+You look gorgeous.	Du siehst umwerfend aus.	तुम बहुत ही सुंदर लग रहे हो।
+You look gorgeous. (different meaning)	Sie sehen wunderschön aus.	आप बहुत ही खूबसूरत लग रहे हैं।
+You look handsome.	Du siehst gut aus.	तुम हसीन लग रहे हो।

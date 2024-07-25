@@ -1,14 +1,4 @@
 
-You look fabulous.	Du siehst toll aus.	आप बहुत अच्छे लग रहे हो।
-You look fabulous.	Ihr seht toll aus.	आप बहुत अच्छे लग रहे हो।
-You look fabulous.	Sie sehen toll aus.	आप बहुत अच्छे लग रहे हो।
-You look fabulous.	Du siehst fabelhaft aus!	तुम बहुत ही अच्छे दिख रहे हो!
-You look fabulous.	Du siehst phantastisch aus!	तुम शानदार दिखते हो!
-You look familiar.	Du kommst mir bekannt vor.	तुम मुझे परिचित लगते हो।
-You look familiar.	Sie kommen mir bekannt vor.	वे मुझे परिचित लगते हैं।
-You look gorgeous.	Du siehst umwerfend aus.	तुम बहुत ही खूबसूरत लग रही हो।
-You look gorgeous.	Sie sehen umwerfend aus.	तुम बेहद सुंदर दिख रहे हो।
-You look handsome.	Du siehst gut aus.	आप अच्छे लग रहे हो।
 You look horrible.	Du siehst schrecklich aus.	तुम भयानक लगते हो।
 You look like Tom.	Du siehst aus wie Tom.	आप टॉम की तरह दिखते हैं।
 You look relieved.	Du siehst erleichtert aus.	आपको राहत मिली।
