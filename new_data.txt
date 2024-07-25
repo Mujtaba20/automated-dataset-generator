@@ -3847,3 +3847,10 @@ Drop your gun!	Lassen Sie Ihre Waffe fallen!	अपनी बंदूक गि
 Dry your eyes.	Trocknen Sie Ihre Augen.	तुम पानी न बहाओ।
 Eat and drink.	Essen und trinken.	भोजन करें और पानी पिएं।
 Eat healthily.	Iss gesund.	स्वस्थ भोजन करें।
+Eat something.	Iss etwas.	कुछ खाओ।
+Eat your food.	Iss dein Essen.	अपना भोजन करो।
+Eat your peas.	Iss deine Erbsen.	अपने मटर खाओ।
+Even Tom lied.	Sogar Tom hat gelogen.	तोम ने भी झूठ बोला।
+Everyone sang.	Jeder sang.	सबने गाया।
+Everyone wins.	Jeder gewinnt.	हर कोई जीतता है।
+Exhale slowly.	Langsam ausatmen.	धीरे सांस छोड़ें।
