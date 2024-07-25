@@ -5103,3 +5103,11 @@ Tom may leave.	Tom könnte gehen.	तोम जा सकता है।
 Tom might cry.	Tom könnte weinen.	तोम रो सकता है।
 Tom needs you.	Tom braucht dich.	तोम्हें तुम्हारे जरुरत है।
 Tom opened up.	Tom hat sich geöffnet.	टॉम खुल गया।
+Tom overslept.	Tom hat verschlafen.	टॉम ज्यादा सो गया।
+Tom protested.	Tom protestierte.	टॉम विरोध किया।
+Tom pushed me.	Tom hat mich geschoben.	टॉम ने मुझसे धक्का मारा।
+Tom raised me.	Tom hat mich erhoben.	टॉम ने मुझे उठाया।
+Tom recovered.	Tom hat sich erholt.	टॉम ठीक हो गया।
+Tom remembers.	Tom erinnert sich.	टॉम याद करता है।
+Tom runs fast.	Tom läuft schnell.	टॉम जल्दी भागता है।
+Tom rushed in.	Tom drängte hinein.	टॉम जल्दी में घुस गया।
