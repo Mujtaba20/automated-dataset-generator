@@ -2663,3 +2663,9 @@ I drank milk.	Ich trank Milch.	मैंने दूध पिया।
 I drink beer.	Ich trinke Bier.	मैं बीयर पीता हूँ।
 I drink milk.	Ich trinke Milch.	मैं दूध पीता हूँ।
 I drink wine.	Ich trinke Wein.	मैं शराब पीता हूँ।
+I dumped Tom.	Ich habe Tom verlassen.	मैंने टॉम को छोड़ दिया।
+I eat cheese.	Ich esse Käse.	मैं पनीर खाता हूँ।
+I enjoy life.	Ich mag das Leben.	मुझे जीवन अच्छा लगता है।
+I feel alive.	Ich fühle mich lebendig.	मैं जिंदा महसूस कर रहा हूँ।
+I feel dizzy.	Mir wird schwindlig.	मुझे चककर आ रहा है।
+I feel great.	Ich bin voller Energie.	मैं बहुत उत्साहित महसूस कर रहा हूँ।
