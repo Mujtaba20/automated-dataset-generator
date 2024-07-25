@@ -1,14 +1,4 @@
 
-Tom looks puzzled.	Tom sieht verdutzt aus.	टॉम हैरान दिखता है।
-Tom looks rattled.	Tom sieht verunsichert aus.	टॉम अनसुलझा दिखता है।
-Tom looks relaxed.	Tom sieht entspannt aus.	टॉम आराम से लग रहा है।
-Tom looks serious.	Tom sieht ernst aus.	टॉम गंभीर लग रहा है।
-Tom looks serious.	Tom schaut ernst.	टॉम गंभीरता से दिखता है।
-Tom looks shocked.	Tom sieht geschockt aus.	टॉम हैरान दिखता है।
-Tom looks shocked.	Tom schaut schockiert.	टॉम हैरान दिखता है।
-Tom looks stunned.	Tom sieht erstaunt aus.	टॉम चकित दिखता है।
-Tom looks stunned.	Tom schaut verblüfft.	टॉम चकित दिखता है।
-Tom looks thinner.	Tom sieht dünner aus.	टॉम पतले दिखता है।
 Tom looks trapped.	Tom scheint in der Falle zu sitzen.	टॉम जाल में लग रहा है।
 Tom looks unhappy.	Tom sieht unglücklich aus.	टॉम दुखी दिखता है।
 Tom looks worried.	Tom sieht besorgt aus.	टॉम चिंतित दिखता है।

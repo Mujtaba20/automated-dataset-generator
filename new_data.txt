@@ -18965,3 +18965,13 @@ Tom looks hopeful.	Tom sieht hoffnungsvoll aus.	टॉम आशावादी 
 Tom looks jittery.	Tom wirkt unruhig.	टॉम चिंतित लग रहा है।
 Tom looks nervous.	Tom sieht nervös aus.	टॉम घबराया हुआ लग रहा है।
 Tom looks pleased.	Tom sieht erfreut aus.	टॉम प्रसन्न लग रहा है।
+Tom looks puzzled.	Tom sieht verwirrt aus.	टॉम विचलित दिखता है।
+Tom looks rattled.	Tom sieht nervös aus.	टॉम चिंतित लग रहा है।
+Tom looks relaxed.	Tom wirkt entspannt.	टॉम ढीला है।
+Tom looks serious.	Tom sieht ernst aus.	टॉम गंभीर लग रहा है।
+Tom looks serious. - Different Meaning	Tom wirkt bedeutsam.	टॉम सरियस लग रहा है।
+Tom looks shocked.	Tom sieht schockiert aus.	टॉम आश्चर्यचकित है।
+Tom looks shocked. - Different Meaning	Tom wirkt überrascht.	टॉम हैरान है।
+Tom looks stunned.	Tom sieht benommen aus.	टॉम हैरान है।
+Tom looks stunned. - Different Meaning	Tom wirkt fassungslos.	टॉम पराजित है।
+Tom looks thinner.	Tom wirkt dünner.	टॉम पतला दिखता है।
