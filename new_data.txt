@@ -19773,3 +19773,11 @@ What's eating her?	Was isst sie?	उसे क्या खा रहा है?
 What's for dinner?	Was steht zum Abendessen bereit?	रात के खाने में क्या है?
 What's for supper?	Was steht zu Abendessen bereit?	रात के खाने में क्या है?
 What's in the bag?	Was ist in der Tasche?	बैग में क्या है?
+What's in the box?	Was verbirgt sich in der Kiste?	बक्से में क्या छुपा है?
+What's it made of?	Was ist es gemacht?	यह कैसे बना है?
+What's that about?	Worum geht es?	वह किस बारे में है?
+What's that again?	Was war das nochmal?	यह फिर से क्या है?
+What's that smell?	Was ist dieser Geruch?	यह बदबू क्या है?
+What's that sound?	Was ist dieser Klang?	वह कौनसी ध्वनि है?
+What's that stain?	Was ist dieser Fleck?	यह कैल क्या है?
+What's that thing?	Was ist das für ein Ding?	यह कौनसी चीज़ है?

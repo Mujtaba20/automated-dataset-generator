@@ -1,14 +1,4 @@
 
-What's in the box?	Was ist in der Kiste?	बॉक्स में क्या है?
-What's in the box?	Was ist in der Schachtel?	बॉक्स में क्या है?
-What's it made of?	Woraus ist es gemacht?	यह किस चीज़ से बना है?
-What's it made of?	Aus was ist es gemacht?	यह किस चीज़ से बना है?
-What's that about?	Um was geht es?	यह किस बारे में है?
-What's that again?	Was ist das nochmal?	वह फिर से क्या है?
-What's that smell?	Was ist das für ein Geruch?	वह किस तरह की गंध है?
-What's that sound?	Was ist das für ein Geräusch?	वह क्या ध्वनि है?
-What's that stain?	Was ist das für ein Fleck?	वह किस तरह का स्थान है?
-What's that thing?	Was ist das für ein Ding?	किस तरह की बात है?
 What's the matter?	Was ist los?	क्या चल रहा है?
 What's the secret?	Was ist das Geheimnis?	क्या राज हे?
 What's their plan?	Was ist ihr Plan?	आपकी योजना क्या है?
