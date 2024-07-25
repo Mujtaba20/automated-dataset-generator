@@ -3358,3 +3358,13 @@ Tom is dizzy.	Tom ist schwindelig.	टॉम चक्कर आ रहा ह�
 Tom is drunk.	Tom ist betrunken.	टॉम नशे में है।
 Tom is dying.	Tom stirbt.	टॉम मर रहा है।
 Tom is dying. (Another meaning)	Tom ist am Sterben.	टॉम मरने वाला है।
+Tom is early.	Tom ist früh.	टॉम जल्दी है।
+Tom is frail.	Tom ist schwach.	टॉम कमजोर है।
+Tom is frank.	Tom ist offen.	टॉम स्पष्ट है।
+Tom is going.	Tom geht.	टॉम जा रहा है।
+Tom is great.	Tom ist großartig.	टॉम महान है।
+Tom is happy.	Tom ist glücklich.	टॉम खुश है।
+Tom is content.	Tom ist zufrieden.	टॉम संतुष्ट है।
+Tom is heavy.	Tom ist schwer.	टॉम भारी है।
+Tom is loyal.	Tom ist loyal.	टॉम वफादार है।
+Tom is lying.	Tom lügt.	टॉम झूठ बोल रहा है।
