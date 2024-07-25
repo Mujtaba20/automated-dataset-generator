@@ -8157,3 +8157,6 @@ Are you looking?	Schau mal nach?	क्या तुम देख रहे ह�
 Are you married?	Seid ihr verheiratet?	क्या आप विवाहित हैं?
 Are you nervous?	Bist du nervös?	क्या तुम घबराए हुए हो?
 Are you over 18?	Bist du über 18?	क्या आप 18 से अधिक हो?
+Are you retired?	Sind Sie im Ruhestand?	क्या आप सेवानिवृत्त हैं?
+Are you serious?	Nimmst du das ernst?	क्या आप गंभीर हैं?
+Are you sisters?	Seid ihr Schwestern?	क्या आप बहन हैं?
