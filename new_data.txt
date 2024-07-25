@@ -7183,3 +7183,13 @@ Tom feels hurt.	Tom fühlt sich verletzt.	टॉम को चोट लगी �
 Tom felt alone.	Tom fühlte sich allein.	टॉम अकेला महसूस कर रहा था।
 Tom felt dizzy.	Tom fühlte sich schwindelig.	टॉम को चक्कर आ रहे थे।
 Tom felt great.	Tom fühlte sich großartig.	टॉम को बहुत अच्छा लग रहा था।
+Tom felt happy.	Tom fühlte sich glücklich.	टॉम को खुशी महसूस हुई।
+Tom felt hated.	Tom fühlte sich gehasst.	टॉम की नफरत महसूस हुई।
+Tom felt loved.	Tom fühlte sich geliebt.	टॉम को प्यार महसूस हुआ।
+Tom felt lucky.	Tom fühlte sich glücklich.	टॉम को भाग्यशाली महसूस हुआ।
+Tom felt tired.	Tom fühlte sich müde.	टॉम को थका हुआ महसूस हुा।
+Tom felt woozy.	Tom fühlte sich benommen.	टॉम को उलझन महसूस हुई।
+Tom fired once.	Tom feuerte einmal.	टॉम ने एक बार अग्निशामक चलाया।
+Tom forgave me.	Tom hat mir vergeben.	टॉम ने मुझे माफ़ कर दिया।
+Tom found Mary.	Tom fand Maria.	टॉम ने मेरी को ढूँढा।
+Tom found that.	Tom fand das.	टॉम ने वह पा लिया।
