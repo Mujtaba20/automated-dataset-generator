@@ -11061,3 +11061,11 @@ We made waffles.	Wir haben Waffeln gemacht.	हमने वाफल्स ब�
 We met a writer.	Wir trafen einen Schriftsteller.	हमने एक लेखक से मिली।
 We must act now.	Wir müssen jetzt handeln.	हमें अब काम करना होगा।
 We must find it.	Wir müssen es finden.	हमें यह निकालना होगा।
+We need a break.	Wir brauchen eine Pause.	हमें एक ब्रेक की आवश्यकता है।
+We need experts.	Wir brauchen Experten.	हमें विशेषज्ञों की आवश्यकता है।
+We need to know.	Wir müssen wissen.	हमें जानने की आवश्यकता है।
+We need to talk.	Wir müssen reden.	हमें चर्चा करने की आवश्यकता है।
+We never forget.	Wir vergessen nie.	हम कभी नहीं भूलते।
+We pay Tom well.	Wir bezahlen Tom gut.	हम टॉम को अच्छा भुगतान करते हैं।
+We respect them.	Wir respektieren sie.	हम उन्हें सम्मान देते हैं।
+We sang for her.	Wir haben für sie gesungen.	हमने उसके लिए गाया।
