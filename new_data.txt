@@ -2232,3 +2232,13 @@ Wait for us.	Warte auf uns.	हमारा इंतजार करो।
 Wake Tom up.	Wecke Tom auf.	टॉम को जगा दो।
 Walk slowly.	Geh langsam.	धीरे चलो।
 War is hell.	Krieg ist die Hölle.	युद्ध नरक है।
+Was I wrong?	Habe ich unrecht gehabt?	क्या मैं गलत था?
+Was it cold?	War es kalt?	क्या यह ठंडा था?
+Was it good?	War es gut?	क्या यह अच्छा था?
+We all know.	Wir alle wissen.	हम सभी जानते हैं।
+We all work.	Wir alle arbeiten.	हम सभी काम करते हैं।
+We are here.	Wir sind hier.	हम यहाँ हैं।
+We are sick.	Wir sind krank.	हम बीमार हैं।
+We ate eggs.	Wir haben Eier gegessen.	हमने अंडे खाए।
+We broke up.	Wir haben uns getrennt.	हमने ब्रेकअप कर लिया।
+We can meet.	Wir können uns treffen.	हम मिल सकते हैं।
