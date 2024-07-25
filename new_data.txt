@@ -17524,3 +17524,11 @@ Look at the girls.	Blick auf die Mädchen.	लड़कियों को द�
 Look at the price.	Schau dir den Preis an.	मूल्य पर नजर डालें।
 Look at the stars.	Schau dir die Sterne an.	तारों की ओर देखो।
 Look into my eyes.	Schau mir in die Augen.	मेरी आंखों में देखो।
+Look out for bees.	Achte auf Bienen.	मधुमक्खों के लिए देखो।
+Look what I found.	Schau, was ich gefunden habe.	देखो, मैंने क्या पाया।
+Make a prediction.	Eine Vorhersage machen.	एक अनुमान लगाएं।
+Make something up.	Etwas erfinden.	कुछ बनाएँ।
+Mary has big eyes.	Mary hat große Augen.	मेरी की बड़ी आँखें हैं।
+Mary is a midwife.	Mary ist eine Hebamme.	मेरी एक डाइनिटी है।
+Mary is beautiful.	Mary ist schön.	मेरी खूबसूरत है।
+Mary is expecting.	Mary erwartet ein Kind.	मेरी गर्भवती है।

@@ -1,14 +1,4 @@
 
-Look out for bees.	Achte auf Bienen.	मधुमक्खियों पर ध्यान दें।
-Look what I found.	Guck mal, was ich gefunden habe!	देखो मुझे क्या मिला!
-Make a prediction.	Mach eine Vorhersage!	एक भविष्यवाणी करो!
-Make a prediction.	Machen Sie eine Vorhersage!	एक भविष्यवाणी करो!
-Make a prediction.	Macht eine Vorhersage!	एक भविष्यवाणी करता है!
-Make something up.	Denk dir was aus.	किसी बारे में सोचें।
-Mary has big eyes.	Mary hat große Augen.	मैरी की बड़ी आँखें हैं।
-Mary is a midwife.	Maria ist Hebamme.	मारिया एक दाई है।
-Mary is beautiful.	Maria ist schön.	मारिया सुंदर है।
-Mary is expecting.	Maria erwartet ein Kind.	मारिया को एक बच्चे की उम्मीद है।
 Mary is my mother.	Maria ist meine Mutter.	मारिया मेरी माँ है।
 Mary is my sister.	Mary ist meine Schwester.	मैरी मेरी बहन है।
 Mary is so pretty.	Maria ist ja so hübsch!	मारिया बहुत सुंदर है!
