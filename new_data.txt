@@ -4438,3 +4438,12 @@ I'm safe here.	Hier bin ich sicher.	यहाँ मेरी सुरक्ष
 I'm satisfied.	Ich bin zufrieden.	मैं संतुष्ट हूँ।
 I'm saying no.	Ich sage nein.	मैं नहीं कह रहा हूँ।
 I'm skeptical.	Ich bin skeptisch.	मैं संदेही हूँ।
+I'm surprised.	Ich bin überrascht.	मैं हैरान हूँ।
+I'm too drunk.	Ich bin zu betrunken.	मैं ज्यादा नशे में हूँ।
+I'm too tired.	Ich bin zu müde.	मैं बहुत थका हुआ हूँ।
+I'm too young.	Ich bin zu jung.	मैं बहुत छोटा हूँ।
+I'm uninsured.	Ich bin nicht versichert.	मुझे ईमानदारी प्राप्त नहीं है।
+I'm very busy.	Ich bin sehr beschäftigt.	मैं बहुत व्यस्त हूँ।
+I'm very cold.	Mir ist sehr kalt.	मुझे बहुत ठंडी लग रही है।
+I'm very lazy.	Ich bin sehr faul.	मैं बहुत सुस्त हूँ।
+I'm very poor.	Ich bin sehr arm.	मैं बहुत गरीब हूँ।
