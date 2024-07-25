@@ -5625,3 +5625,13 @@ Did you forget?	Hast du vergessen?	क्या तुम भूल गए?
 Did you say 30?	Hast du 30 gesagt?	क्या तुमने 30 कहा?
 Did you say 20?	Hast du 20 gesagt?	क्या तुमने 20 कहा?
 Did you buy 10?	Hast du 10 gekauft?	क्या तुमने 10 खरीदा?
+Did you see it?	Hast du es gesehen?	क्या आपने यह देखा है?
+Did you see it? (different meaning)	Habt ihr es gesehen?	क्या आपने उसे देखा है?
+Did you see it? (different meaning 2)	Sahst du das?	क्या तुमने उसे देखा?
+Dinner's ready!	Das Abendessen ist fertig!	खाना तैयार है!
+Dinner's ready.	Das Abendessen ist bereit.	खाना तैयार है।
+Do as you like.	Mach, was du willst.	जैसा आप चाहें।
+Do as you want.	Tu, was du willst.	जैसा तुम चाहते हो।
+Do as you want. (different meaning)	Mache, wie du willst.	आप जैसे चाहें वैसा करें।
+Do it now, Tom.	Mach es jetzt, Tom.	अब करो, टॉम।
+Do it this way.	Mach es auf diese Weise.	इस तरह से करो।
