@@ -2790,3 +2790,12 @@ I went there.	Ich ging dorthin.	मैं वहां गया।
 I will fight.	Ich werde kämpfen.	मैं लड़ूंगा।
 I will learn.	Ich werde lernen.	मैं सीखूंगा।
 I will learn. - Different Meaning	Ich werde begreifen.	मैं सीखने लगूँगा।
+I won't come.	Ich werde nicht kommen.	मैं नहीं आऊंगा।
+I won't fail.	Ich werde nicht scheitern.	मैं नाकाम नहीं होऊंगा।
+I won't lose!	Ich werde nicht verlieren!	मैं हार नहीं मानूंगा!
+I wonder why.	Ich frage mich warum.	मुझे हैरानी है कि क्यों।
+I work a lot.	Ich arbeite viel.	मैं बहुत काम करता हूँ।
+I wrote that.	Ich habe das geschrieben.	मैंने वह लिखा था।
+I'll ask Tom.	Ich werde Tom fragen.	मैं टॉम से पूछूंगा।
+I'll ask him.	Ich werde ihn fragen.	मैं उससे पूछूंगा।
+I'll be back.	Ich werde zurück sein.	मैं वापस आऊंगा।
