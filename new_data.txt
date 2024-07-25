@@ -432,3 +432,10 @@ What for?	Wofür?	किस लिए?
 What fun!	Wie lustig!	कितना मजा!
 Who am I?	Wer bin ich?	मैं कौन हूँ?
 Who came?	Wer kam?	कौन आया?
+Who died?	Wer ist gestorben?	कौन मर गया?
+Who fell?	Wer fiel hin?	कौन गिर गया?
+Who lost?	Wer hat verloren?	किसने हार गया?
+Who quit?	Wer ist ausgestiegen?	कौन निकल गया?
+Who swam?	Wer hat geschwommen?	कौन तैरा था?
+Who's he?	Wer ist er?	वह कौन है?
+Write me.	Schreib mir.	मुझे लिखो।
