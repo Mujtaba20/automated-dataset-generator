@@ -2227,3 +2227,8 @@ Turn around.	Umdrehen.	उलटो।
 Turn it off.	Schalt es ab.	इसे बंद करो।
 Turn on CNN.	Schalte CNN ein.	सीएनएन चालू करो।
 Use caution.	Benutze Vorsicht.	चेतावनी का उपयोग करें।
+Vote for me!	Wähle mich!	मेरे लिए वोट करें!
+Wait for us.	Warte auf uns.	हमारा इंतजार करो।
+Wake Tom up.	Wecke Tom auf.	टॉम को जगा दो।
+Walk slowly.	Geh langsam.	धीरे चलो।
+War is hell.	Krieg ist die Hölle.	युद्ध नरक है।
