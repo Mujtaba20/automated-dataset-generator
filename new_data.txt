@@ -10742,3 +10742,13 @@ Tom should come.	Tom sollte kommen.	टॉम आना चाहिए।
 Tom should know.	Tom sollte wissen.	टॉम को पता होना चाहिए।
 Tom should wait.	Tom sollte warten.	टॉम को इंतजार करना चाहिए।
 Tom sings tenor.	Tom singt Tenor.	टॉम टेनर गाता है।
+Tom sipped wine.	Tom nippte an Wein.	टॉम ने वाइन पी ली।
+Tom slowed down.	Tom verlangsamte sich.	टॉम धीमा कर दिया।
+Tom smelled gas.	Tom roch Gas.	टॉम ने गैस महसूस की।
+Tom smiled back.	Tom lächelte zurück.	टॉम मुस्कान दिखाई।
+Tom snores, too.	Tom schnarcht auch.	टॉम भी खर्राटे लेता है।
+Tom sold us out.	Tom hat uns verkauft.	टॉम ने हमें बेच दिया।
+Tom sounded mad.	Tom klang verrückt.	टॉम पागल लग रहा था।
+Tom sounds nice.	Tom klingt nett.	टॉम अच्छा लगता है।
+Tom sounds nuts.	Tom klingt verrückt.	टॉम पागल लग रहा है।
+Tom speaks fast.	Tom spricht schnell.	टॉम तेज़ी से बोलता है।
