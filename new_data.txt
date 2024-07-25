@@ -8891,3 +8891,11 @@ I like your car. (different translation of repeated sentence)	Ich mag dein Fahrz
 I like your cat.	Ich mag deine Katze.	मुझे आपकी बिल्ली पसंद है।
 I like your hat.	Ich mag deinen Hut.	मुझे आपकी टोपी पसंद है।
 I listen to Tom.	Ich höre Tom zu.	मैं टॉम की बात सुनता हूँ।
+I live here now.	Ich bin jetzt hier zu Hause.	मैं यहाँ इस समय रहता हूँ।
+I live in Japan.	Ich lebe in Japan.	मैं जापान में रहता हूँ।
+I live with Tom.	Ich wohne mit Tom.	मैं टॉम के साथ रहता हूँ।
+I look like Tom.	Ich sehe aus wie Tom.	मैं टॉम जैसा दिखता हूँ।
+I looked at Tom.	Ich habe Tom angesehen.	मैंने टॉम को देखा।
+I lost interest.	Ich habe das Interesse verloren.	मुझे रुचि खो गई।
+I lost that bet.	Ich habe diese Wette verloren.	मैंने उस दांव पर हार गया।
+I love broccoli.	Ich liebe Brokkoli.	मुझे ब्रोकोली पसंद है।
