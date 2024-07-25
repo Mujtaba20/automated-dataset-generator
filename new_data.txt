@@ -1513,3 +1513,9 @@ Go find out.	Such es heraus.	निकालो।
 Go for help.	Geh um Hilfe.	मदद के लिए जाओ।
 Go home now.	Geh jetzt nach Hause.	अब घर जाओ।
 Go on board.	Geh an Bord.	बोर्ड पर जाओ।
+Go that way.	Geh auf diese Weise.	उस तरफ जाओ।
+Go to sleep.	Gehe schlafen.	सो जाओ।
+Go with Tom.	Geh mit Tom.	Tom के साथ जाओ।
+Guess again.	Rate noch einmal.	फिर से अनुमान लगाओ।
+Go to sleep. - 2	Schlaf ein.	सो जा।
+Guess again. - 2	Versuch es erneut zu raten.	फिर से सोचो।
