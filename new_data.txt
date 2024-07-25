@@ -15364,3 +15364,10 @@ You lead the way.	Du gehst voran.	तुम सही रास्ते पर 
 You look amazing.	Du siehst fantastisch aus.	तुम शानदार लग रहे हैं।
 You look content.	Du siehst zufrieden aus.	तुम संतुष्ट लग रहे हैं।
 You look healthy.	Du siehst gesund aus.	तुम स्वस्थ लग रहे हैं।
+You look nervous.	Du siehst nervös aus.	तुम घबराए हुए लग रहे हो।
+You look pensive.	Du siehst nachdenklich aus.	तुम विचारशील लग रहे हो।
+You look perfect.	Du siehst perfekt aus.	तुम पूर्ण लग रहे हो।
+You look relaxed.	Du siehst entspannt aus.	तुम आराम से लग रहे हो।
+You look so pale.	Du siehst so blass aus.	तुम इतने हल्के लग रहे हो।
+You look worried.	Du siehst besorgt aus.	तुम चिंतित लग रहे हो।
+You look younger.	Du wirkst jünger.	तुम जवान लग रहे हो।
