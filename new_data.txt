@@ -8454,3 +8454,10 @@ He arrived late.	Er kam zu spät an.	वह देर से पहुंचा�
 He began to cry.	Er fing an zu weinen.	उसने रोना शुरू किया।
 He began to run.	Er begann zu laufen.	वह दौड़ने लगा।
 He betrayed you.	Er hat dich betrogen.	उसने तुम्हें धोखा दिया।
+He bought a car.	Er hat ein Auto gekauft.	उसने एक गाड़ी खरीदी।
+He bought a hat.	Er kaufte einen Hut.	उसने एक टोपी खरीदी।
+He came at dawn.	Er kam bei Morgengrauen.	उसने भोर में आया।
+He can run fast.	Er kann schnell laufen.	वह तेज चल सकता है।
+He can't be ill.	Er kann nicht krank sein.	वह बीमार नहीं हो सकता।
+He did his duty.	Er erfüllte seine Pflicht.	उसने अपना कर्तव्य निभाया।
+He did not come.	Er kam nicht.	वह नहीं आया।
