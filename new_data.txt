@@ -11196,3 +11196,12 @@ What is it, Tom?	Was ist es, Tom?	यह क्या है, टॉम?
 What is missing?	Was fehlt?	क्या अभाव है?
 What killed Tom?	Was hat Tom getötet?	टॉम को क्या मार डाला?
 What time is it?	Wie spät ist es?	अभी कितने बजे हैं?
+What was inside?	Was war drinnen?	अंदर क्या था?
+What was stolen?	Was wurde gestohlen?	क्या चोरी हुआ था?
+What went wrong?	Was ist schief gelaufen?	क्या गलत हो गया?
+What year is it?	Welches Jahr ist es?	यह कौनसा साल है?
+What year is it? (Different meaning)	In welchem Jahr leben wir?	वर्ष कृपया मुझे बताएं?
+What'll Tom say?	Was wird Tom sagen?	टॉम क्या कहेगा?
+What'll Tom win?	Was wird Tom gewinnen?	टॉम क्या जीतेगा?
+What'll you eat?	Was wirst du essen?	तुम क्या खाओगे?
+What's Tom done?	Was hat Tom gemacht?	टॉम ने क्या किया है?
