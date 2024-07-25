@@ -10983,3 +10983,8 @@ Tom, I'm hungry.	Tom, ich habe Hunger.	टॉम, मुझे भूख लग�
 Tom, be careful!	Tom, sei vorsichtig!	टॉम, सावधान रहो!
 Trust is earned.	Vertrauen wird verdient.	विश्वास कमाया जाता है।
 Try and stop me.	Versuch es und halte mich auf.	कोशिश करो और मुझे रोको।
+Try not to fall.	Versuchen Sie nicht zu stürzen.	गिरने का प्रयास मत करो।
+Try not to yawn.	Versuchen Sie nicht zu gähnen.	जाप मत करो।
+Try to catch me.	Versuchen Sie mich zu erwischen.	मुझे पकड़ने का प्रयास करो।
+Try to remember.	Versuchen Sie sich zu erinnern.	याद करने की कोशिश करो।
+Turn off the TV.	Schalten Sie den Fernseher aus.	टीवी बंद करो।
