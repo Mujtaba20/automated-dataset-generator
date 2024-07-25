@@ -14871,3 +14871,4 @@ Tom worked there.	Tom war dort beschäftigt.	टॉम वहाँ में �
 Tom works for me.	Tom arbeitet für mich.	टॉम मेरे लिए काम करता है।
 Tom works for us.	Tom arbeitet für uns.	टॉम हमारे लिए काम करता है।
 Tom works nearby.	Tom arbeitet in der Nähe.	टॉम निकट ही काम करता है।
+engSentence		
