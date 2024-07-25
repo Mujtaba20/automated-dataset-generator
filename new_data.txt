@@ -8705,3 +8705,13 @@ I couldn't stop.	Ich konnte nicht aufhören.	मैं रुक नहीं �
 I couldn't talk.	Ich konnte nicht sprechen.	मैं बात नहीं कर सका।
 I couldn't wait.	Ich konnte nicht warten.	मैं इंतजार नहीं कर सका।
 I couldn't wait. (With different meaning)	Ich konnte es nicht erwarten.	मैं इसका इंतजार नहीं कर सका।
+I couldn't walk.	Ich konnte nicht laufen.	मैं चल नहीं सका।
+I cry every day.	Ich weine jeden Tag.	मैं हर दिन रोता हूं।
+I cycle to work.	Ich fahre mit dem Fahrrad zur Arbeit.	मैं काम पर साइकिल पर जाता हूँ।
+I did it anyway.	Ich habe es trotzdem gemacht.	मैंने फिर भी किया।
+I did it anyway. (different meaning)	Ich habe es sowieso gemacht.	मैंने फिर भी किया।
+I didn't listen.	Ich habe nicht zugehört.	मैंने सुना नहीं।
+I didn't scream.	Ich habe nicht geschrien.	मैंने चिल्लाया नहीं।
+I didn't see it.	Ich habe es nicht gesehen.	मैंने उसे नहीं देखा।
+I disobeyed Tom.	Ich habe Tom nicht gehorcht.	मैंने टॉम को अनुशासित नहीं किया।
+I do that a lot.	Ich mache das oft.	मैं यह बहुत करता हूँ।
