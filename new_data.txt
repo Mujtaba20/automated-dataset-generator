@@ -1294,3 +1294,10 @@ Tom looked.	Tom schaute.	टॉम देखा।
 Tom moaned.	Tom jammerte.	टॉम दु:ख जताना।
 Tom nodded.	Tom nickte.	टॉम सिर हिलाया।
 Tom obeyed.	Tom befolgte.	टॉम निर्देशों का पालन किया।
+Tom paints.	Tom malt.	टॉम रंग भरता है।
+Tom paused.	Tom pausierte.	टॉम विराम लिया।
+Tom phoned.	Tom telefoniert.	टॉम ने कॉल किया।
+Tom prayed.	Tom betete an.	टॉम पूजा की।
+Tom rested.	Tom ruhte sich aus.	टॉम आराम किया।
+Tom sat up.	Tom saß auf.	टॉम बैठा रहा।
+Tom saw it.	Tom erkannte es.	टॉम ने इसे पहचाना।
