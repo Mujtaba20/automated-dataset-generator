@@ -20277,3 +20277,11 @@ Are you in a hurry?	Bist du in Eile?	क्या आप जल्दी कर 
 Are you in on this?	Bist du dabei?	क्या आप इसमें शामिल हैं?
 Are you in trouble?	Haben Sie ein Problem?	क्या आप किसी समस्या में हैं?
 Are you interested?	Interessierst du dich?	क्या आप इच्छुक हैं?
+Are you optimistic?	Bist du optimistisch?	क्या आप आशावादी हैं?
+Are you overweight?	Bist du übergewichtig?	क्या आप overweight हैं?
+Are you possessive?	Bist du besitzergreifend?	क्या आप संपत्तिशील हैं?
+Are you prejudiced?	Bist du voreingenommen?	क्या आप पूर्वाग्रह हैं?
+Are you ready, Tom?	Bist du bereit, Tom?	क्या तुम तैयार हो, टॉम?
+Are you really Tom?	Bist du wirklich Tom?	क्या आप वास्तव में टॉम हैं?
+Are you scared now?	Hast du jetzt Angst?	क्या आप अब डर रहे हैं?
+Are you sick of me?	Hast du genug von mir?	क्या तुम मुझसे ऊंघ गए हो?
