@@ -13869,3 +13869,11 @@ This is an order.	Das ist ein Befehl.	यह एक आदेश है।
 This is critical.	Das ist entscheidend.	यह महत्वपूर्ण है।
 This is exciting.	Das ist aufregend.	यह रोमांचक है।
 This is from Tom.	Das ist von Tom.	यह टॉम से है।
+This is hopeless.	Das ist hoffnungslos.	यह निराशा है।
+This is my coach.	Das ist mein Trainer.	यह मेरा कोच है।
+This is my horse.	Das ist mein Pferd.	यह मेरा घोड़ा है।
+This is my house.	Das ist mein Haus.	यह मेरा घर है।
+This is my rifle.	Das ist mein Gewehr.	यह मेरा राइफल है।
+This is nonsense.	Das ist Unsinn.	यह बकवास है।
+This is not fair.	Das ist nicht fair.	यह न्याय नहीं है।
+This is not good.	Das ist nicht gut.	यह अच्छा नहीं है।
