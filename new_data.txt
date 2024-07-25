@@ -7023,3 +7023,11 @@ They have wine.	Sie haben Wein.	उनके पास शराब है।
 They heard Tom.	Sie hören Tom.	उन्होंने टॉम की आवाज सुनी।
 They helped me.	Sie haben mir geholfen.	उन्होंने मुझे मदद की।
 They hired Tom.	Sie haben Tom eingestellt.	उन्होंने टॉम को रखा।
+They just left.	Sie sind gerade gegangen.	वे बस चले गए।
+They know that.	Sie wissen das.	उन्हें पता है।
+They let me go.	Sie haben mich gehen lassen.	उन्होंने मुझे जाने दिया।
+They liked Tom.	Sie mochten Tom.	उन्हें टॉम पसंद था।
+They look busy.	Sie sehen beschäftigt aus.	वे व्यस्त लग रहे हैं।
+They look cool.	Sie sehen cool aus.	वे शांत लग रहे हैं।
+They look good.	Sie sehen gut aus.	वे अच्छे लग रहे हैं।
+They love that.	Sie lieben das.	उन्हें वह पसंद है।
