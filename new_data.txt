@@ -9436,3 +9436,13 @@ Is this my book?	Ist das mein Buch?	क्या यह मेरी कित�
 Is this my life?	Ist das mein Leben?	क्या यह मेरा जीवन है?
 Is this too big?	Ist das zu groß?	क्या यह बहुत बड़ा है?
 Is today Friday?	Ist heute Freitag?	क्या आज शुक्रवार है?
+Is today Monday?	Ist heute Montag?	क्या आज सोमवार है?
+Is today payday?	Ist heute Zahltag?	क्या आज पे डे है?
+Is your car new?	Ist dein Auto neu?	क्या आपकी कार नयी है?
+Isn't Tom funny?	Ist Tom nicht lustig?	क्या टॉम मजेदार नहीं है?
+Isn't Tom great?	Ist Tom nicht großartig?	क्या टॉम महान नहीं है?
+Isn't Tom sweet?	Ist Tom nicht süß?	क्या टॉम मीठा नहीं है?
+Isn't that mine?	Ist das nicht meins?	क्या वह मेरा नहीं है?
+Isn't that ours?	Ist das nicht unser?	क्या वह हमारा नहीं है?
+It blew my mind.	Es hat mich umgehauen.	यह मेरे दिमाग को हिला दिया।
+It can't be Tom.	Es kann nicht Tom sein.	यह टॉम नहीं हो सकता।
