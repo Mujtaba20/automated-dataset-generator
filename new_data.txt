@@ -5342,3 +5342,13 @@ We're in town.	Wir sind in der Stadt.	हम शहर में हैं।
 We're kidding.	Wir machen nur Spaß.	हम मजाक कर रहे हैं।
 We're lawyers.	Wir sind Anwälte.	हम वकील हैं।
 We're leaving.	Wir gehen.	हम निकल रहे हैं।
+We're married.	Wir sind verheiratet.	हम शादीशुदा हैं।
+We're nervous.	Wir sind nervös.	हम घबराए हुए हैं।
+We're parents.	Wir sind Eltern.	हम माता-पिता हैं।
+We're patient.	Wir sind geduldig.	हम धीरज रखते हैं।
+We're popular.	Wir sind beliebt.	हम लोकप्रिय हैं।
+We're reading.	Wir lesen.	हम पढ़ रहे हैं।
+We're reading. (2nd)	Wir sind am Lesen.	हम पढ़ रहे हैं।
+We're reading. (3rd)	Wir lesen gerade.	हम पढ़ रहे हैं।
+We're shocked.	Wir sind schockiert.	हम आश्चर्यचकित हैं।
+We're sinking.	Wir versinken.	हम डूब रहे हैं।
