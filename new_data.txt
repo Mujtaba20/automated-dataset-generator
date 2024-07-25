@@ -14699,3 +14699,11 @@ Tom walked alone.	Tom ging allein.	टॉम अकेला चला।
 Tom walks slowly.	Tom geht langsam.	टॉम धीरे चलता है।
 Tom wandered off.	Tom wanderte ab.	टॉम भटक गया।
 Tom wanted money.	Tom wollte Geld.	टॉम को पैसे चाहिए थे।
+Tom wanted proof.	Tom wollte einen Beweis.	टॉम को सबूत चाहिए था।
+Tom wants advice.	Tom möchte Rat.	टॉम को सलाह चाहिए।
+Tom wants change.	Tom möchte Veränderung.	टॉम को परिवर्तन चाहिए।
+Tom wants to eat.	Tom möchte essen.	टॉम खाना चाहता है।
+Tom wants to run.	Tom möchte rennen.	टॉम दौड़ना चाहता है।
+Tom was a farmer.	Tom war ein Bauer.	टॉम किसान था।
+Tom was a friend.	Tom war ein Freund.	टॉम एक दोस्त था।
+Tom was a lawyer.	Tom war ein Anwalt.	टॉम वकील था।
