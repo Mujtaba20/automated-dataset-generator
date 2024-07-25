@@ -1,14 +1,4 @@
 
-Tom ate one apple.	Tom aß einen Apfel.	टॉम ने एक सेब खाया।
-Tom ate something.	Tom hat etwas gegessen.	टॉम ने कुछ खाया।
-Tom ate the apple.	Tom aß den Apfel.	टॉम ने सेब खाया।
-Tom attacked Mary.	Tom griff Maria an.	टॉम ने मारिया पर हमला किया।
-Tom baked muffins.	Tom hat Muffins gebacken.	टॉम बेक्ड मफिन।
-Tom became afraid.	Tom wurde ängstlich.	टॉम चिंतित हो गया।
-Tom became afraid.	Tom bekam Angst.	टॉम डर गया।
-Tom became famous.	Tom wurde berühmt.	टॉम प्रसिद्ध हो गया।
-Tom became sleepy.	Tom wurde müde.	टॉम थक गया।
-Tom became uneasy.	Tom wurde unruhig.	टॉम बेचैन हो गया।
 Tom began gasping.	Tom begann zu keuchen.	टॉम शुरू होने लगा।
 Tom began praying.	Tom begann zu beten.	टॉम प्रार्थना करने लगा।
 Tom began running.	Tom fing an zu rennen.	टॉम दौड़ना शुरू कर दिया।

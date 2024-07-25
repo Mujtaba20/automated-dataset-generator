@@ -18316,3 +18316,12 @@ Tom arrives today.	Tom kommt heute an.	टॉम आज आ रहा है।
 Tom ate all of it.	Tom aß alles davon.	टॉम ने सब खा लिया।
 Tom ate breakfast.	Tom frühstückte.	टॉम ने नाश्ता किया।
 Tom ate my cookie.	Tom aß meinen Keks.	टॉम ने मेरी कुकी खा ली।
+Tom ate one apple.	Tom aß einen Apfel.	टॉम ने एक सेब खाया।
+Tom ate something.	Tom hat etwas gegessen.	टॉम ने कुछ खाया।
+Tom ate the apple.	Tom aß den Apfel.	टॉम ने सेब खाया।
+Tom attacked Mary.	Tom griff Maria an.	टॉम ने मैरी पर हमला किया।
+Tom baked muffins.	Tom backte Muffins.	टॉम ने मफिन्स बेक किए।
+Tom became afraid.	Tom wurde ängstlich.	टॉम डर गया।
+Tom became famous.	Tom wurde berühmt.	टॉम मशहूर हुआ।
+Tom became sleepy.	Tom wurde schläfrig.	टॉम नींद में चला गया।
+Tom became uneasy.	Tom wurde unruhig.	टॉम बेचैन हो गया।
