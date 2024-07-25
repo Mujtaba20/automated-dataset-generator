@@ -2370,3 +2370,8 @@ You're kind.	Du bist nett.	तुम दयालु हो।
 You're late.	Du bist spät.	तुम देर से हो।
 You're lost.	Du hast dich verirrt.	तुम खो गए हो।
 You're mean.	Du bist gemein.	तुम बुरे हो।
+You're mine.	Du gehörst mir.	तुम मेरे हो।
+You're next.	Du kommst als Nächstes dran.	तुम्हारी बार है।
+You're nuts!	Du bist bekloppt!	तुम पागल हो!
+You're sick!	Du bist krank!	तुम बीमार हो!
+You're thin.	Du bist mager.	तुम पतले हो।
