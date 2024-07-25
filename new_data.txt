@@ -5833,3 +5833,11 @@ He sang a sweet song.	Er sang ein süßes Lied.	उसने एक मिठे
 He scolded her.	Er hat sie gescholten.	उसने उसे डांटा।
 He seems angry.	Er scheint wütend zu sein.	वह गुस्से में लग रहा है।
 He seems happy.	Er scheint glücklich zu sein.	वह खुश लग रहा है।
+He seems tired.	Er scheint müde zu sein.	वह थका हुआ लगता है।
+He sells fruit.	Er verkauft Obst.	वह फल बेचता है।
+He sold us out.	Er hat uns verkauft.	उसने हमें बेच दिया।
+He talks a lot.	Er redet viel.	वह बहुत बोलता है।
+He trusted you.	Er hat dir vertraut.	उसने तुम पर भरोसा किया।
+He walked away.	Er ging weg.	उसने चले गए।
+He walked home.	Er ging nach Hause.	उसने घर चला गया।
+He wants to go.	Er will gehen.	वह जाना चाहता है।
