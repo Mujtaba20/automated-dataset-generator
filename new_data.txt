@@ -16361,3 +16361,9 @@ I didn't graduate.	Ich habe nicht abgeschlossen.	मैंने स्नात
 I didn't hear Tom.	Ich habe Tom nicht gehört.	मैंने टॉम को नहीं सुना।
 I didn't hear you.	Ich habe dich nicht gehört.	मैंने तुम्हें नहीं सुना।
 I didn't help Tom.	Ich habe Tom nicht geholfen.	मैंने टॉम की मदद नहीं की।
+I didn't know Tom.	Ich kannte Tom nicht.	मुझे टॉम को नहीं पहचाना था।
+I didn't need Tom.	Ich brauchte Tom nicht.	मुझे टॉम की आवश्यकता नहीं थी।
+I didn't order it.	Ich habe es nicht bestellt.	मैंने इसे नहीं ऑर्डर किया था।
+I didn't say that.	Das habe ich nicht gesagt.	मैंने यह नहीं कहा था।
+I didn't see that.	Ich habe das nicht gesehen.	मैंने वह नहीं देखा था।
+I didn't stop Tom.	Ich habe Tom nicht aufgehalten.	मैंने टॉम को नहीं रोका था।
