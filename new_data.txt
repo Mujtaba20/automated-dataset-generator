@@ -17287,3 +17287,9 @@ It cannot be true.	Es kann nicht wahr sein.	यह ठीक नहीं हो
 It could be fatal.	Es könnte fatal sein.	यह कातिल हो सकता है।
 It could be worse.	Es könnte schlimmer sein.	यह और भरपूर हो सकता है।
 It depends on you.	Es hängt von dir ab.	यह तुम पर निर्भर करता है।
+It doesn't matter.	Es spielt keine Rolle.	यह मायने नहीं रखता।
+It fell to pieces.	Es fiel auseinander.	यह टूट गया।
+It fits perfectly.	Es passt perfekt.	यह सही जगह पर बैठता है।
+It goes both ways.	Es geht in beide Richtungen.	यह दोनों तरफ से जाता है।
+It had to be done.	Es musste gemacht werden.	यह करना जरूरी था।
+It happened again.	Es ist wieder passiert.	फिर से हो गया।
