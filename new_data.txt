@@ -16026,3 +16026,11 @@ He is just my age.	Er ist genau in meinem Alter.	वह बस मेरी उ�
 He is not so tall.	Er ist nicht so groß.	वह इतना लंबा नहीं है।
 He is on the team.	Er ist im Team.	वह टीम में है।
 He is pigeon-toed.	Er hat Hallux valgus.	उसके पैरों में अंगूठा बाजू का है।
+He is quite right.	Er hat völlig recht.	वह काफी सही है।
+He is still alive.	Er lebt immer noch.	वह अभी भी ज़िंदा है।
+He is still angry.	Er ist immer noch wütend.	वह अभी भी गुस्सा है।
+He is still young.	Er ist immer noch jung.	वह अभी भी जवान है।
+He is sure to win.	Er wird sicher gewinnen.	वह जीतने के लिए निश्चित है।
+He is trustworthy.	Er ist vertrauenswürdig.	वह भरोसेमंद है।
+He is unrealistic.	Er ist unrealistisch.	वह अवास्तविक है।
+He is very honest.	Er ist sehr ehrlich.	वह बहुत ईमानदार है।
