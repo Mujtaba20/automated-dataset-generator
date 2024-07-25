@@ -12923,3 +12923,12 @@ I'm not finished.	Ich bin nicht fertig.	मैं समाप्त नही�
 I'm not gullible.	Ich bin nicht leichtgläubig.	मैं भोला नहीं हूँ।
 I'm not her type.	Ich bin nicht ihr Typ.	मैं उसके प्रकार का नहीं हूँ।
 I'm not laughing.	Ich lache nicht.	मैं हँस रहा नहीं।
+I'm not like Tom.	Ich bin nicht wie Tom.	मैं टॉम जैसा नहीं हूँ।
+I'm not like you.	Ich bin nicht wie du.	मैं तुम जैसा नहीं हूँ।
+I'm not outgoing.	Ich bin nicht kontaktfreudig.	मैं आउटगोइंग नहीं हूँ।
+I'm not sleeping.	Ich schlafe nicht.	मैं सो रहा नहीं हूँ।
+I'm not so lucky.	Ich bin nicht so glücklich.	मैं इतने भाग्यशाली नहीं हूँ।
+I'm not stopping.	Ich halte nicht an.	मैं रुकने वाला नहीं हूँ।
+I'm not suicidal.	Ich bin nicht selbstmordgefährdet.	मैं आत्महत्या के इरादे से नहीं हूँ।
+I'm not sure why.	Ich bin mir nicht sicher, warum.	मुझे नहीं पता क्यों।
+I'm not sure yet.	Ich bin mir noch nicht sicher.	मैं अब तक सुनिश्चित नहीं हूँ।
