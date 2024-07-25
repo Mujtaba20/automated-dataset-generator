@@ -6817,3 +6817,10 @@ Please come in.	Bitte kommen Sie herein.	कृपया अंदर आइए�
 Please do that.	Bitte tun Sie das.	वह करें।
 Please do this.	Bitte tun Sie dies.	यह करें।
 Please get Tom.	Bitte hol Tom.	कृपया टॉम को ले आओ।
+Please go away.	Bitte geh weg.	कृपया चले जाइए।
+Please help me.	Bitte helfen Sie mir.	मुझे मदद कीजिए।
+Please move on.	Bitte mach weiter.	आगे बढ़ें।
+Please open it.	Bitte öffnen Sie es.	इसे खोलो।
+Please proceed.	Bitte weitermachen.	कृपया आगे बढ़ें।
+Please say yes.	Bitte sag Ja.	कृपया हाँ कहें।
+Please shut up.	Bitte halt den Mund.	कृपया बंद करो।
