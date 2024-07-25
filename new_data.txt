@@ -14614,3 +14614,13 @@ Tom seemed tough. (different meaning)	Tom schien robust zu sein.	टॉम म�
 Tom seemed upset.	Tom schien verärgert zu sein.	टॉम उदास लग रहा था।
 Tom seems OK now.	Tom scheint jetzt okay zu sein.	टॉम अब ठीक लग रहा है।
 Tom seems afraid.	Tom scheint ängstlich zu sein.	टॉम डर रहा है।
+Tom seems amused.	Tom scheint amüsiert zu sein.	टॉम मजाक कर रहा है।
+Tom seems biased.	Tom scheint voreingenommen zu sein.	टॉम पक्षपाती लग रहा है।
+Tom seems bright.	Tom scheint klug zu sein.	टॉम उज्ज्वल लग रहा है।
+Tom seems clever.	Tom scheint schlau zu sein.	टॉम चालाक लग रहा है।
+Tom seems clever. (different meaning)	Tom scheint klug zu sein.	टॉम चतुर लग रहा है।
+Tom seems honest.	Tom scheint ehrlich zu sein.	टॉम ईमानदार लग रहा है।
+Tom seems hungry.	Tom scheint hungrig zu sein.	टॉम भूखा लग रहा है।
+Tom seems lonely.	Tom scheint einsam zu sein.	टॉम अकेला लग रहा है।
+Tom seems stupid.	Tom scheint dumm zu sein.	टॉम मूर्ख लग रहा है।
+Tom seems unsure.	Tom scheint unsicher zu sein.	टॉम अनिश्चित लग रहा है।
