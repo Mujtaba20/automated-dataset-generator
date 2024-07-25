@@ -2180,3 +2180,9 @@ Tom was old.	Tom war alt.	टॉम बूढ़ा था।
 Tom was out.	Tom war draußen.	टॉम बाहर था।
 Tom was sad.	Tom war betrübt.	टॉम दुखी था।
 Tom was shy.	Tom war schüchtern.	टॉम शर्मीला था।
+Tom watched.	Tom hat beobachtet.	टॉम ने देखा।
+Tom will go.	Tom wird fahren.	टॉम जाएगा।
+Tom'll call.	Tom wird anrufen.	टॉम कॉल करेगा।
+Tom'll come.	Tom wird kommen.	टॉम आएगा।
+Tom'll help.	Tom wird helfen.	टॉम मदद करेगा।
+Tom'll know.	Tom wird wissen.	टॉम जानेगा।
