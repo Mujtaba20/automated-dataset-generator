@@ -1326,3 +1326,12 @@ Tom's busy.	Tom ist beschäftigt.	टॉम व्यस्त है।
 Tom's deaf.	Tom ist taub.	टॉम बहरा है।
 Tom's died.	Tom ist gestorben.	टॉम मर चुका है।
 Tom's fast.	Tom ist schnell.	टॉम तेज है।
+Tom's free.	Tom ist kostenlos.	टॉम मुक्त है।
+Tom's glad.	Tom ist froh.	टॉम खुश है।
+Tom's gone.	Tom ist weg.	टॉम चला गया है।
+Tom's here.	Tom ist hier.	टॉम यहाँ है।
+Tom's home.	Tom ist zu Hause.	टॉम घर पहुंच गया।
+Tom's hurt.	Tom tut weh.	टॉम को चोट लगी है।
+Tom's left.	Tom ist gegangen.	टॉम चला गया है।
+Tom's mean.	Tom ist gemein.	टॉम अर्थ है।
+Tom's safe.	Tom ist sicher.	टॉम सुरक्षित है।
