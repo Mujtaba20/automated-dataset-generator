@@ -3189,3 +3189,11 @@ Take control.	Kontrolle übernehmen.	नियंत्रण लें।
 Take it away.	Nimm es weg.	इसे दूर ले जाओ।
 Take it back.	Bring es zurück.	इसे वापस लें।
 Take it down.	Nimm es runter.	इसे नीचे ले आओ।
+Take it easy!	Nimm es leicht!	इसे आराम से लें!
+Take it easy.	Nimm es leicht.	यह आसानी से लें.
+Take it home.	Nimm es nach Hause.	इसे घर ले जाओ।
+Take me home.	Bring mich nach Hause.	मुझे घर ले चलो।
+Take my coat.	Nimm meinen Mantel.	मेरी कोट लो।
+Take us home.	Bring uns nach Hause.	हमें घर ले चलो।
+Tell Tom why.	Sag Tom warum.	टॉम को बता क्यों।
+Tell me more.	Erzähl mir mehr.	मुझे और बताओ।
