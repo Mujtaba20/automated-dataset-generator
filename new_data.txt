@@ -13021,3 +13021,12 @@ Is Tom still mad?	Ist Tom immer noch sauer?	क्या टॉम अब भी
 Is Tom that good?	Ist Tom so gut?	क्या टॉम इतना अच्छा है?
 Is Tom with Mary?	Ist Tom mit Mary?	क्या टॉम मेरी के साथ है?
 Is Tom your name?	Ist Tom dein Name?	क्या टॉम तुम्हारा नाम है?
+Is he still here?	Ist er immer noch hier?	क्या वह अब भी यहाँ है?
+Is it contagious?	Ist es ansteckend?	क्या यह संक्रामक है?
+Is it really bad?	Ist es wirklich schlimm?	क्या यह सचमुच खराब है?
+Is it really you?	Bist du es wirklich?	क्या यह सचमुच तुम हो?
+Is it warm there?	Ist es dort warm?	क्या वहाँ गरमी है?
+Is she all right?	Geht es ihr gut?	क्या वह ठीक है?
+Is someone there?	Ist jemand da?	क्या कोई है?
+Is that a coyote?	Ist das ein Kojote?	क्या वह एक कोयोट है?
+Is that a pencil?	Ist das ein Bleistift?	क्या वह एक पेंसिल है?
