@@ -2290,3 +2290,13 @@ We're close.	Wir sind in der Nähe.	हम पास हैं।
 We're crazy.	Wir sind verrückt.	हम पागल हैं।
 We're dizzy.	Uns ist schwindlig.	हम चकरा रहे हैं।
 We're dying.	Wir sterben.	हम मर रहे हैं।
+We're early.	Wir sind früh.	हम जल्दी हैं।
+We're going.	Wir gehen.	हम जा रहे हैं।
+We're happy.	Wir sind glücklich.	हम खुश हैं।
+We're human.	Wir sind menschlich.	हम मानव हैं।
+We're ready.	Wir sind bereit.	हम तैयार हैं।
+We're right.	Wir haben recht.	हम सही हैं।
+We're saved.	Wir sind gerettet.	हम बच गए हैं।
+We're sorry.	Es tut uns leid.	हमें माफ कर दो।
+We're stuck.	Wir stecken fest.	हम फंसे हुए हैं।
+We're tired.	Wir sind müde.	हम थक गए हैं।
