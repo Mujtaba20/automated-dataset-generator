@@ -11462,3 +11462,12 @@ A cab is waiting.	Ein Taxi wartet.	एक कैब इंतजार कर �
 A car drove past.	Ein Auto fuhr vorbei.	एक कार गुजर गई।
 A cop was killed.	Ein Polizist wurde getötet.	एक पुलिसकर्मी को मार दिया गया था।
 A deal is a deal.	Ein Deal ist ein Deal.	एक समझौता एक समझौता है।
+A dog is barking.	Ein Hund bellt.	एक कुत्ता भोंक रहा है।
+A fox came along.	Ein Fuchs kam vorbei.	एक लोमड़ी आ गई।
+A fuse has blown.	Eine Sicherung ist durchgebrannt.	एक फ्यूज फट गया है।
+A girl phoned me.	Ein Mädchen hat mich angerufen.	एक लड़की ने मुझे फोन किया।
+A lion is strong.	Ein Löwe ist stark.	एक शेर मजबूत है।
+Accidents happen.	Unfälle passieren.	दुर्घटनाएं होती हैं।
+Air is invisible.	Luft ist unsichtbar.	हवा अदृश्य है।
+All hope is gone.	Alle Hoffnung ist verloren.	सभी आशा चली गई है।
+All men must die.	Alle Männer müssen sterben.	सभी पुरुषों को मरना होगा।
