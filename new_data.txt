@@ -7174,3 +7174,12 @@ Tom drinks milk.	Tom trinkt Milch.	टॉम दूध पीता है।
 Tom draws well.	Tom zeichnet gut.	टॉम अच्छा ड्रा करता है।
 Tom drove away.	Tom fuhr weg.	टॉम चला गया।
 Tom drove fast.	Tom fuhr schnell.	टॉम तेज़ी से चलाया।
+Tom drove home.	Tom fuhr nach Hause.	टॉम घर चला गया।
+Tom dug a hole.	Tom grub ein Loch.	टॉम एक गड्ढा खोदा।
+Tom easily won.	Tom gewann mühelos.	टॉम आसानी से जीत गया।
+Tom eats a lot.	Tom isst viel.	टॉम बहुत खाता है।
+Tom enjoyed it.	Tom hat es genossen.	टॉम का मजा आया।
+Tom feels hurt.	Tom fühlt sich verletzt.	टॉम को चोट लगी है।
+Tom felt alone.	Tom fühlte sich allein.	टॉम अकेला महसूस कर रहा था।
+Tom felt dizzy.	Tom fühlte sich schwindelig.	टॉम को चक्कर आ रहे थे।
+Tom felt great.	Tom fühlte sich großartig.	टॉम को बहुत अच्छा लग रहा था।
