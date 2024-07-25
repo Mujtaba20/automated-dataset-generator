@@ -18424,3 +18424,11 @@ Tom didn't see me.	Tom hat mich nicht gesehen.	टॉम ने मुझे न
 Tom didn't suffer.	Tom hat nicht gelitten.	टॉम कोई पीड़ा नहीं हुई।
 Tom died a beggar.	Tom starb als Bettler.	टॉम एक भिखारी के रूप में मर गया।
 Tom died a pauper.	Tom starb als armer Mann.	टॉम एक दरिद्र महिला के रूप में मर गया।
+Tom died recently.	Tom ist kürzlich gestorben.	टॉम हाल ही में मर गया।
+Tom died suddenly.	Tom ist plötzlich gestorben.	टॉम अचानक मर गया।
+Tom divorced Mary.	Tom hat Mary geschieden.	टॉम ने मेरी से तलाक लिया।
+Tom does like you.	Tom mag dich.	टॉम तुम्हे पसंद करता है।
+Tom does love you.	Tom liebt dich.	टॉम तुम्हे प्यार करता है।
+Tom doesn't agree.	Tom stimmt nicht zu.	टॉम सहमत नहीं है।
+Tom doesn't drink.	Tom trinkt nicht.	टॉम पीने की आदत नहीं है।
+Tom doesn't drive.	Tom fährt nicht.	टॉम गाड़ी नहीं चलाता।
