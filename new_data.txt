@@ -5248,3 +5248,12 @@ Watch my back.	Achte auf meinen Rücken.	मेरी पीठ की तरफ
 Wax the floor.	Wachsen Sie den Boden.	फर्श को वैक्स करें।
 We admire you.	Wir bewundern dich.	हम आपकी सराहना करते हैं।
 We admire you. (different)	Wir verehren dich.	हम आपका सम्मान करते हैं।
+We all change.	Wir alle ändern uns.	हम सभी परिवर्तित हो जाते हैं।
+We are at war.	Wir sind im Krieg.	हम युद्ध में हैं।
+We are doomed.	Wir sind verloren.	हम निष्फल हैं।
+We are hungry.	Wir haben Hunger.	हम भूखे हैं।
+We can go now.	Wir können jetzt gehen.	हम अब जा सकते हैं।
+We can manage.	Wir können es schaffen.	हम संभाल सकते हैं।
+We can try it.	Wir können es versuchen.	हम इसे कोशिश कर सकते हैं।
+We can't lose.	Wir können nicht verlieren.	हम हार नहीं सकते।
+We can't wait.	Wir können nicht warten.	हम इंतजार नहीं कर सकते।
