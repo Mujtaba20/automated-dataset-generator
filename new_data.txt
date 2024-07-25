@@ -5308,3 +5308,13 @@ We'll be fine.	Wir werden in Ordnung sein.	हम ठीक रहेंगे�
 We'll be here.	Wir werden hier sein.	हम यहाँ होंगे।
 We'll be late.	Wir werden spät sein.	हम देर से आएंगे।
 We'll do that.	Wir werden das tun.	हम उसे करेंगे।
+We'll get one.	Wir werden eins bekommen.	हम एक प्राप्त करेंगे।
+We'll go home.	Wir werden nach Hause gehen.	हम घर जाएँगे।
+We'll hide it.	Wir werden es verstecken.	हम इसे छुपाएँगे।
+We'll make it.	Wir werden es schaffen.	हम इसे बना देंगे।
+We'll move in.	Wir werden umziehen.	हम आगे बढ़ेंगे।
+We'll see you.	Wir werden dich sehen.	हम तुम्हें देखेंगे।
+We'll stop it.	Wir werden es stoppen.	हम इसे रोकेंगे।
+We'll succeed.	Wir werden erfolgreich sein.	हम सफल होंगे।
+We'll survive.	Wir werden überleben.	हम जीते रहेंगे।
+We'll survive. (different meaning)	Wir werden bestehen.	हम जीतेंगे।
