@@ -3518,3 +3518,11 @@ Use them all.	Benutze sie alle.	उन्हें सभी उपयोग क
 Vote for Tom.	Stimme für Tom.	टॉम के लिए वोट दें।
 Wait and see.	Abwarten und sehen.	रुको और देखो।
 Wait for Tom.	Warte auf Tom.	टॉम के लिए प्रतीक्षा करें।
+Wait in here.	Warten Sie hier drinnen.	यहाँ इंतजार करें।
+Wait outside.	Warten Sie draußen.	बाहर इंतजार करें।
+Wake them up.	Wecken Sie sie auf.	उन्हें जगा दो।
+Wake up, Tom.	Wach auf, Tom.	उठो, टॉम।
+Was Tom busy?	War Tom beschäftigt?	क्या टॉम व्यस्त था?
+Was Tom here?	War Tom hier?	क्या टॉम यहाँ था?
+Was it funny?	War es lustig?	क्या यह मजेदार था?
+Was it scary?	War es gruselig?	क्या यह डरावना था?
