@@ -4392,3 +4392,12 @@ I'm different.	Ich bin anders.	मैं अलग हूँ।
 I'm down here.	Ich bin hier unten.	मैं नीचे हूँ।
 I'm easygoing.	Ich bin locker.	मैं आसानी से मिलने वाला हूँ।
 I'm exhausted.	Ich bin erschöpft.	मैं थक चुका हूँ।
+I'm expecting.	Ich rechne damit.	मैं इंतज़ार कर रहा हूँ।
+I'm flattered.	Ich fühle mich geschmeichelt.	मैं हर्षित हूँ।
+I'm going mad.	Ich werde verrückt.	मैं पागल हो रहा हूँ।
+I'm going now.	Ich gehe jetzt.	मैं अब जा रहा हूँ।
+I'm here, too.	Ich bin auch hier.	मैं भी यहाँ हूँ।
+I'm home, Tom.	Ich bin zu Hause, Tom.	मैं घर पर हूँ, टॉम।
+I'm impatient.	Ich bin ungeduldig.	मैं बेसब्र हूँ।
+I'm important.	Ich bin wichtig.	मैं महत्वपूर्ण हूँ।
+I'm impressed.	Ich bin beeindruckt.	मुझे प्रभावित किया।
