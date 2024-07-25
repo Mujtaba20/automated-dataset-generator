@@ -12033,3 +12033,12 @@ He seems healthy.	Er scheint gesund zu sein.	वह स्वस्थ लगत
 He shall have it.	Er soll es haben.	उसे यह मिलना चाहिए।
 He shook my hand.	Er schüttelte mir die Hand.	उसने मेरा हाथ मिलाया।
 He shut the door.	Er hat die Tür geschlossen.	उसने दरवाजा बंद कर दिया।
+He slept all day.	Er schlief den ganzen Tag.	उसने पूरे दिन सोया।
+He slept an hour.	Er schlief eine Stunde.	उसने एक घंटे तक सोया।
+He slept soundly.	Er schlief fest.	उसने गहरी नींद सोई।
+He speaks Arabic.	Er spricht Arabisch.	वह अरबी बोलता है।
+He speaks French.	Er spricht Französisch.	वह फ्रेंच बोलता है।
+He threw his toy.	Er warf sein Spielzeug.	उसने अपना खिलौना फेंका।
+He told everyone.	Er hat es allen gesagt.	उसने सबको बताया।
+He told us a lie.	Er hat uns eine Lüge erzählt.	उसने हमें झूठ पक्ष बताया।
+He took his book.	Er nahm sein Buch.	उसने अपनी किताब ली।
