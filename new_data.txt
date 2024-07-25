@@ -4165,3 +4165,13 @@ I love Boston.	Ich liebe Boston.	मैं बोस्टन से प्य�
 I love French.	Ich liebe Französisch.	मुझे फ्रेंच पसंद है।
 I love Monday!	Ich liebe Montag!	मुझे सोमवार पसंद है!
 I love autumn.	Ich liebe den Herbst.	मुझे शरद ऋतु पसंद है।
+I love camels.	Ich liebe Kamele.	मुझे उंट पसंद है।
+I love coffee.	Ich liebe Kaffee.	मुझे कॉफ़ी पसंद है।
+I love garlic.	Ich liebe Knoblauch.	मुझे लहसुन पसंद है।
+I love horses.	Ich liebe Pferde.	मुझे घोड़े पसंद है।
+I love movies.	Ich liebe Filme.	मुझे फिल्में पसंद हैं।
+I love watching movies.	Ich liebe es, Filme zu schauen.	मुझे फिल्में देखना पसंद है।
+I love my cat.	Ich liebe meine Katze.	मैं अपनी बिल्ली से प्यार करता हूँ।
+I love my dad.	Ich liebe meinen Vater.	मुझे मेरे पिताजी से प्यार है।
+I adore my dog.	Ich verehre meinen Hund.	मैं अपने कुत्ते की पूजा करता हूँ।
+I cherish my son.	Ich schätze meinen Sohn.	मैं अपने बेटे की कीमत करता हूँ।
