@@ -15046,3 +15046,10 @@ We work together.	Wir arbeiten zusammen.	हम साथ मिलकर का
 We wrote to them.	Wir haben ihnen geschrieben.	हमने उन्हें लिखा।
 We'd better stop.	Wir sollten lieber aufhören.	हमें बेहतर है रुक जाएं।
 We'll be OK, Tom.	Es wird uns, Tom, gut gehen.	हम ठीक रहेंगे, टॉम।
+We'll follow Tom.	Wir werden Tom befolgen.	हम टॉम के पीछे चलेंगे।
+We'll go get Tom.	Wir werden Tom holen.	हम टॉम को लेकर जाएंगे।
+We'll go on foot.	Wir werden zu Fuß gehen.	हम पैदल चलेंगे।
+We'll go see Tom.	Wir werden Tom sehnen.	हम टॉम को देखेंगे।
+We'll meet again.	Wir werden wieder treffen.	हम फिर मिलेंगे।
+We'll never know.	Wir werden nie wissen.	हम कभी नहीं जानेंगे।
+We'll notify Tom.	Wir werden Tom benachrichtigen.	हम टॉम को सूचित करेंगे।
