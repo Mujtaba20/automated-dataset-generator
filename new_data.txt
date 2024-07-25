@@ -15464,3 +15464,10 @@ You're very open.	Du bist sehr offen.	तुम बहुत खुले वि
 You're very rude.	Du bist sehr unhöflich.	तुम बहुत अकड़ हो।
 You're very ugly.	Du bist sehr hässlich.	तुम बहुत बुरे दिखते हैं।
 You're very wise.	Du bist sehr weise.	तुम बहुत समझदार हैं।
+You're worthless.	Du bist wertlos.	तुम नि:शुल्क हो।
+You've earned it.	Du hast es verdient.	तुमने यह हासिल किया है।
+You've got to go.	Du musst gehen.	तुम्हें जाना होगा।
+You've grown fat.	Du bist dick geworden.	तुम मोटे हो गए हो।
+You've upset Tom.	Du hast Tom verärgert.	तुमने टॉम को उदास कर दिया है।
+Your car is fast.	Dein Auto ist schnell.	तुम्हारी कार तेज है।
+Your dog is here.	Dein Hund ist hier.	तुम्हारा कुत्ता यहाँ है।
