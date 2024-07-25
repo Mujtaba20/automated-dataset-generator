@@ -15157,3 +15157,8 @@ What do you hate?	Was hasst du?	तुम किसे नफरत करते
 What do you have?	Was hast du?	तुम्हारे पास क्या है?
 What do you like?	Was magst du?	तुम्हें क्या पसंद है?
 What do you mean?	Was meinst du?	तुम क्या मतलब है?
+What do you need?	Was brauchst du?	तुम्हें क्या चाहिए?
+What do you want?	Was möchtest du?	तुम्हें क्या चाहिए?
+What does Tom do?	Was macht Tom?	टॉम क्या करता है?
+What does he say?	Was sagt er?	वह क्या कहता है?
+What does it say?	Was sagt es?	यह क्या कहता है?
