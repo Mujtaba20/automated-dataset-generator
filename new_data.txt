@@ -14901,3 +14901,8 @@ Tom, is that you?	Tom, bist du das?	टॉम, यह तू है?
 Tom, stop it, OK?	Tom, hör auf, okay?	टॉम, यह नकाम रहेगा, ठीक है?
 Torture is wrong.	Folter ist falsch.	पीड़ा गलत है।
 Toss me the ball.	Wirf mir den Ball zu.	मुझे गेंद फेंको।
+Try and catch me!	Versuch und fange mich!	मुझे पकड़ने की कोशिश करो!
+Try it once more.	Versuch es noch einmal.	एक बार फिर से कोशिश करो।
+Try not to panic.	Versuche nicht in Panik zu geraten.	घबराने की कोशिश मत करो।
+Try not to worry.	Versuche nicht zu besorgt zu sein.	चिंता मत करो।
+Try to go slower.	Versuch langsamer zu gehen.	धीरे चलने की कोशिश करो।
