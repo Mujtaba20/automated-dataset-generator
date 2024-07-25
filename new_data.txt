@@ -9122,3 +9122,10 @@ I will help you. (Different meaning)	Ich werde Ihnen helfen.	मैं तुझ
 I will join you.	Ich werde mich dir anschließen.	मैं आपके साथ जुड़ूंगा।
 I will kill you.	Ich werde dich töten.	मैं तुम्हें मार दूँगा।
 I will kill you. (Different meaning)	Ich werde dich umbringen.	मैं तुम्हें हत्या कर दूंगा।
+I will miss you	Ich werde dich vermissen.	मुझे तुम्हारी याद आएगी।
+I will stop you	Ich werde dich aufhalten.	मैं तुम्हें रोकूंगा।
+I will warn him	Ich werde ihn warnen.	मुझे उसे चेता होना।
+I will watch it	Ich werde es beobachten.	मैं इसे देखूँगा।
+I wish you luck	Ich wünsche dir Glück.	मुझे आशा है कि तुम्हारे साथ भाग्य हो।
+I wish you'd go	Ich wünschte, du würdest gehen.	मैं चाहता हूँ कि तुम चले जाओ।
+I woke up early	Ich bin früh aufgewacht.	मैं जल्दी उठ गया।
