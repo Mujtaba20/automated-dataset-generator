@@ -3009,3 +3009,13 @@ engSentence7	Es ist für Tom.	यह टॉम के लिए है।
 engSentence8	Es ist für dich.	यह तुम्हारे लिए है।
 engSentence9	Es hagelt.	बर्फ़बारी हो रही है।
 engSentence10	Es ist ein Gerücht.	यह परस्पर बातें हैं।
+It's immoral.	Es ist unmoralisch.	यह अमोरल है।
+It's morning.	Es ist Morgen.	यह सुबह है।
+It's my book.	Es ist mein Buch.	यह मेरी किताब है।
+It's my life.	Es ist mein Leben.	यह मेरा जीवन है।
+It's no good.	Es ist nichts Gutes.	यह अच्छा नहीं है।
+It's no joke.	Es ist kein Witz.	यह मज़ाक नहीं है।
+It's not Tom.	Es ist nicht Tom.	यह टॉम नहीं है।
+It's not new.	Es ist nicht neu.	यह नया नहीं है।
+It's only me.	Es bin nur ich.	यह केवल मैं हूँ।
+It's our car.	Es ist unser Auto.	यह हमारी गाड़ी है।
