@@ -1,14 +1,4 @@
 
-This book is hers.	Dieses Buch ist das ihrige.	यह पुस्तक आपकी है।
-This book is hers.	Dieses Buch gehört ihr.	यह पुस्तक उसकी है।
-This book is hers.	Dieses Buch ist ihrs.	यह पुस्तक आपकी है।
-This book is hers.	Dieses Buch ist ihres.	यह पुस्तक उसकी है।
-This book is hers.	Dieses Buch ist das ihre.	यह पुस्तक आपकी है।
-This book is mine.	Das Buch gehört mir.	पुस्तक मेरी है।
-This book is mine.	Dieses Buch ist meins.	यह पुस्तक मेरी है।
-This book was new.	Das Buch war neu.	पुस्तक नई थी।
-This book will do.	Dieses Buch wird's tun.	यह पुस्तक यह करेगी।
-This box is heavy.	Diese Kiste ist schwer.	यह बॉक्स मुश्किल है।
 This bucket leaks.	Dieser Eimer leckt.	यह बाल्टी चाटता है।
 This bucket leaks.	Dieser Eimer ist undicht.	यह बाल्टी लीक हो रही है।
 This came for you.	Das ist für dich gekommen.	वह आपके लिए आया था।

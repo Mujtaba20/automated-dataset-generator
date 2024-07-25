@@ -18209,3 +18209,8 @@ This CD costs $10.	Diese CD kostet 10 $.	यह सीडी 10 डॉलर क
 This ain't normal.	Das ist nicht normal.	यह सामान्य नहीं है।
 This apple is bad.	Dieser Apfel ist schlecht.	यह सेब खराब है।
 This bird can fly.	Dieser Vogel kann fliegen.	यह पक्षी उड़ सकता है।
+This book is hers.	Dieses Buch gehört ihr.	यह किताब उसकी है।
+This book is mine.	Dieses Buch gehört mir.	यह किताब मेरी है।
+This book was new.	Dieses Buch war neu.	यह किताब नई थी।
+This book will do.	Dieses Buch wird genügen.	यह किताब काम आएगी।
+This box is heavy.	Diese Schachtel ist schwer.	यह डिब्बा भारी है।
