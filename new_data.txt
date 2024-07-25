@@ -3176,3 +3176,9 @@ Stop singing.	Hör auf zu singen.	गाना बंद करो।
 Stop smiling.	Hör auf zu lächeln.	मुस्कान बंद करो।
 Stop smoking.	Hör auf zu rauchen.	स्मोकिंग बंद करो।
 Stop smoking. - different meaning	Hör auf zu paffen.	धूम्रपान बंद करो।
+Stop staring.	Hör auf zu starren.	देखना बंद करो।
+Stop talking.	Hör auf zu reden.	बात करना बंद करो।
+Stop whining.	Hör auf zu jammern.	रोना बंद करो।
+Stop yelling!	Hör auf zu schreien!	चिल्लाना बंद करो!
+Stop, please.	Halt, bitte.	रुको, कृपया।
+Sweet dreams!	Süße Träume!	मीठे सपने!
