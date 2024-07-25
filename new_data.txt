@@ -3026,3 +3026,13 @@ It's snowing.	Es schneit.	बर्फ गिर रही है।
 It's strange.	Es ist seltsam.	यह अजीब है।
 It's too big.	Es ist zu groß.	यह बहुत बड़ा है।
 It's too hot.	Es ist zu heiß.	यह बहुत गरम है।
+It's too low.	Es ist zu niedrig.	यह बहुत कम है।
+It's unusual.	Es ist ungewöhnlich.	यह असामान्य है।
+It's useless.	Es ist nutzlos.	यह बेकार है।
+It's working.	Es funktioniert.	यह काम कर रहा है।
+Jump over it.	Spring darüber.	उसके ऊपर कूदो।
+Just get out.	Komm einfach raus.	बस बाहर निकल जाओ।
+Just go away.	Geh einfach weg.	बस चले जाओ।
+Keep driving.	Weiterfahren.	गाड़ी चलाते रहो।
+Keep focused.	Bleib konzentriert.	ध्यान रखें।
+Keep it warm.	Halte es warm.	इसे गर्म रखो।
