@@ -11916,3 +11916,10 @@ He baked muffins.	Er hat Muffins gebacken.	उसने मफिन्स ब�
 He became famous.	Er wurde berühmt.	उसने लोकप्रियता प्राप्त की।
 He began running.	Er begann zu rennen.	उसने दौड़ना शुरू किया।
 He began singing.	Er begann zu singen.	उसने गाना गाना शुरू किया।
+He began to sing.	Er fing an zu singen.	उसने गाना गाना शुरू किया।
+He behaved badly.	Er verhielt sich schlecht.	उसने बुरी तरह से चाल चली।
+He broke his arm.	Er brach sich den Arm.	उसने अपनी हथेली तोड़ ली।
+He broke the law.	Er brach das Gesetz.	उसने कानून तोड़ा।
+He can read well.	Er kann gut lesen.	वह अच्छी तरह से पढ़ सकता है।
+He can swim fast.	Er kann schnell schwimmen.	वह तेजी से तैर सकता है।
+He can swim well.	Er kann gut schwimmen.	वह अच्छी तरह से तैर सकता है।
