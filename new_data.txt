@@ -7051,3 +7051,10 @@ They were busy.	Sie waren beschäftigt.	उन्हें व्यस्त �
 They were dead.	Sie waren tot.	वे मर चुके थे।
 They were fine.	Es ging ihnen gut.	उनको ठीक था।
 They were gone.	Sie waren weg.	वे चले गए थे।
+They were sick.	Sie waren krank.	उन्हें बीमार था।
+They were weak.	Sie waren schwach.	उनकी कमजोरी थी।
+They will come.	Sie werden kommen.	वे आएँगे।
+They will help.	Sie werden helfen.	वे मदद करेंगे।
+They work hard.	Sie arbeiten hart.	वे मेहनत करते हैं।
+They're broken.	Sie sind kaputt.	वे टूटे हुए हैं।
+They're coming.	Sie kommen.	वे आ रहे हैं।
