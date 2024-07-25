@@ -13920,3 +13920,10 @@ This time we won.	Dieses Mal haben wir gewonnen.	इस बार हम जी�
 This was missing.	Das hat gefehlt.	यह गायब था।
 This was my idea.	Das war meine Idee.	यह मेरी सोच थी।
 This will be fun.	Das wird Spaß machen.	यह मजेदार होगा।
+This will happen.	Dies wird geschehen.	ऐसा होगा।
+This'll be great.	Das wird großartig sein.	यह शानदार होगा।
+Those are my CDs.	Diese sind meine CDs.	वो मेरी सीडी है।
+Tom abandoned me.	Tom hat mich verlassen.	टॉम ने मुझे छोड़ दिया।
+Tom admired Mary.	Tom verehrte Mary.	टॉम ने मेरी की प्रशंसा की।
+Tom admires Mary.	Tom bewundert Mary.	टॉम मेरी की तारीफ करता है।
+Tom almost cried.	Tom weinte fast.	टॉम लगभग रो देता।
