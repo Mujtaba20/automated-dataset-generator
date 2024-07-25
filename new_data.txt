@@ -7464,3 +7464,12 @@ Tom knows this.	Tom kennt das.	टॉम को यह पता है।
 Tom left early.	Tom ging früh.	टॉम जल्दी चला गया।
 Tom let me win.	Tom ließ mich gewinnen.	टॉम ने मुझे जीतने दिया।
 Tom lied to me.	Tom hat gelogen.	टॉम ने मेरे साथ झूठ बोला।
+Tom lied to us.	Tom hat uns angelogen.	टॉम ने हमें झूठ बोला।
+Tom liked Mary.	Tom mochte Mary.	टॉम को मेरी पसंद थी।
+Tom liked that.	Tom mochte das.	टॉम को वह अच्छा लगा।
+Tom likes Mary.	Tom mag Mary.	टॉम को मेरी पसंद है।
+Tom likes cats.	Tom mag Katzen.	टॉम को बिल्लियाँ पसंद हैं।
+Tom likes fish.	Tom mag Fisch.	टॉम को मछली पसंद है।
+Tom likes jazz.	Tom mag Jazz.	टॉम को जाज पसंद है।
+Tom likes nuts.	Tom mag Nüsse.	टॉम को खजूर पसंद हैं।
+Tom likes rock.	Tom mag Rockmusik.	टॉम को रॉक पसंद है।
