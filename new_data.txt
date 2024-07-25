@@ -20271,3 +20271,9 @@ Are you happy here?	Bist du hier glücklich?	क्या आप यहाँ �
 Are you happy, Tom?	Bist du glücklich, Tom?	क्या तुम खुश हो, टॉम?
 Are you having fun?	Hast du Spaß?	क्या आप मज़ा कर रहे हैं?
 Are you here alone?	Bist du hier allein?	क्या आप यहाँ अकेले हैं?
+Are you hungry now?	Bist du jetzt hungrig?	क्या आप अभी भूखे हैं?
+Are you hungry yet?	Bist du schon hungrig?	क्या आप अभी भूखे हैं?
+Are you in a hurry?	Bist du in Eile?	क्या आप जल्दी कर रहे हैं?
+Are you in on this?	Bist du dabei?	क्या आप इसमें शामिल हैं?
+Are you in trouble?	Haben Sie ein Problem?	क्या आप किसी समस्या में हैं?
+Are you interested?	Interessierst du dich?	क्या आप इच्छुक हैं?

@@ -1,16 +1,4 @@
 
-Are you hungry now?	Hast du jetzt Hunger?	क्या अब आप भूखे हैं?
-Are you hungry yet?	Hast du schon Hunger?	क्या आप पहले से ही भूखे हैं?
-Are you in a hurry?	Hast du es eilig?	क्या आप जल्दी में हैं?
-Are you in a hurry?	Habt ihr es eilig?	क्या आपके पास जल्दी में है?
-Are you in a hurry?	Haben Sie es eilig?	क्या आप जल्दी में हैं?
-Are you in a hurry?	Sind Sie in Eile?	क्या आप जल्दी में हैं?
-Are you in on this?	Bist du dabei?	क्या आप अंदर हैं?
-Are you in trouble?	Bist du in Schwierigkeiten?	क्या आप मुसीबत में हैं?
-Are you in trouble?	Befinden Sie sich in Schwierigkeiten?	क्या आप मुसीबत में हैं?
-Are you interested?	Bist du interessiert?	क्या आपकी रुचि है?
-Are you interested?	Sind Sie interessiert?	क्या आपकी रुचि है?
-Are you interested?	Seid ihr interessiert?	क्या आपकी रुचि है?
 Are you optimistic?	Bist du optimistisch?	क्या आप आशावादी हैं?
 Are you overweight?	Bist du übergewichtig?	क्या आप अधिक वजन वाले हैं?
 Are you possessive?	Bist du besitzergreifend?	क्या आप कब्जे वाले हैं?
