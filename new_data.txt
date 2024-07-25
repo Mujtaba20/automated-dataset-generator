@@ -3819,3 +3819,9 @@ Do you see me? (2)	Erkennst du mich?	क्या तुम मुझे पह�
 Does Tom sing?	Singt Tom?	क्या टॉम गाता है?
 Does this fit?	Passt das?	क्या यह फिट है?
 Does this fit? (2)	Ist das passend?	क्या यह सही है?
+Dogs can swim.	Hunde können schwimmen.	कुत्ते तैर सकते हैं।
+Don't be late.	Sei nicht zu spät.	देर ना करें।
+Don't be long.	Sei nicht lange.	लंबा मत बनो।
+Don't be rude.	Sei nicht unhöflich.	अकड़ मत दिखाओ।
+Don't come in.	Komm nicht herein.	अंदर मत आओ।
+Don't get fat.	Werde nicht dick.	मोटा मत हो।
