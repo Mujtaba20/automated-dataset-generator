@@ -11820,3 +11820,10 @@ Everybody's here.	Alle sind hier.	सभी यहाँ हैं।
 Everybody's safe.	Alle sind sicher.	सभी सुरक्षित हैं।
 Everyone changes.	Jeder verändert sich.	हर कोई बदलता है।
 Everyone does it.	Jeder tut es.	हर कोई यह करता है।
+Everyone escaped.	Alle sind entkommen.	सभी बच गए।
+Everyone giggled.	Alle kicherten.	सभी हँस पड़े।
+Everyone gossips.	Alle tratschen.	सभी गपशप करते हैं।
+Everyone had fun.	Alle hatten Spaß.	सभी का मज़ा आया।
+Everyone noticed.	Jedem fiel auf.	सब ने देखा।
+Everyone's going.	Alle sind unterwegs.	सभी कहीं जा रहे हैं।
+Everyone's lying.	Alle lügen.	सभी झूठ बोल रहे हैं।
