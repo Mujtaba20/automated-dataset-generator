@@ -7939,3 +7939,12 @@ Where's my cup?	Wo ist meine Tasse?	मेरा कप कहाँ है?
 Where's my hat?	Wo ist mein Hut?	मेरी टोपी कहाँ है?
 Where's my mom?	Wo ist meine Mutter?	मेरी माँ कहाँ है?
 Where's my son?	Wo ist mein Sohn?	मेरा बेटा कहाँ है?
+Where's my tip?	Wo ist mein Trinkgeld?	मेरा टिप कहाँ है?
+Which side won?	Welche Seite hat gewonnen?	कौनसी ओर जीत गई?
+Who broke this?	Wer hat das gebrochen?	इसे किसने तोड़ दिया?
+Who built this?	Wer hat das gebaut?	यह किसने बनाया?
+Who called you?	Wer hat dich angerufen?	तुम्हें किसने बुलाया?
+Who caught Tom?	Wer hat Tom gefangen?	तोम को कौन पकड़ा?
+Who complained?	Wer hat sich beschwert?	किसने शिकायत की?
+Who did he see?	Wen hat er gesehen?	उसने किसे देखा?
+Who else knows?	Wer weiß noch?	और कौन जानता है?
