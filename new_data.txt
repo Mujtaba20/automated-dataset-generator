@@ -6446,3 +6446,10 @@ I'm not guilty.	Ich bin nicht schuldig.	मैं दोषी नहीं ह�
 I'm not hiding.	Ich verstecke mich nicht.	मैं छिपा नहीं हूँ।
 I'm not hungry.	Ich bin nicht hungrig.	मुझे भूख नहीं है।
 I'm not joking.	Ich mache keinen Spaß.	मैं मजाक नहीं कर रहा हूँ।
+I'm not sleepy.	Ich bin nicht müde.	मुझे नींद नहीं आ रही।
+I'm not stupid.	Ich bin nicht dumm.	मैं मूर्ख नहीं हूं।
+I'm often here.	Ich bin oft hier.	मैं यहाँ अक्सर होता हूँ।
+I'm on holiday.	Ich bin im Urlaub.	मैं छुट्टी पर हूं।
+I'm one of you.	Ich bin einer von euch.	मैं तुममें से एक हूं।
+I'm only human.	Ich bin nur ein Mensch.	मैं सिर्फ एक इंसान हूं।
+I'm optimistic.	Ich bin optimistisch.	मैं आशावादी हूं।
