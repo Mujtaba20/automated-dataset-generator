@@ -8496,3 +8496,11 @@ He is a student.	Er ist ein Schüler.	वह एक छात्र है।
 He is a teacher.	Er ist ein Lehrer.	वह एक शिक्षक है।
 He is my father.	Er ist mein Vater.	वह मेरे पिता है।
 He is not there.	Er ist nicht da.	वह वहां नहीं है।
+He is not young.	Er ist nicht jung.	वह जवान नहीं है।
+He is unmarried.	Er ist unverheiratet.	वह अविवाहित है।
+He is very fast.	Er ist sehr schnell.	वह बहुत तेज़ है।
+He is very kind.	Er ist sehr nett.	वह बहुत दयालु है।
+He is very tall.	Er ist sehr groß.	वह बहुत लम्बा है।
+He is well paid.	Er wird gut bezahlt.	उसे अच्छा वेतन मिलता है।
+He just arrived.	Er ist gerade angekommen.	वह अभी आया है।
+He kept singing.	Er sang weiter.	उसने गाना जारी रखा।
