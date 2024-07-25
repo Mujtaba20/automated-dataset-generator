@@ -6701,3 +6701,12 @@ Leave us alone. (Different meaning 2)	Lass uns alle in Ruhe.	हमें सभ
 Lend us a hand.	Leih uns eine Hand.	हमें मदद करो।
 Lend us a hand. (Different meaning)	Hilf uns.	हमें एक हाथ दो।
 Let Tom answer.	Lass Tom antworten.	टॉम को जवाब देने दो।
+Let Tom decide.	Lass Tom entscheiden.	टॉम को निर्णय करने दो।
+Let Tom finish.	Lass Tom fertig werden.	टॉम को समाप्त करने दो।
+Let it go, Tom.	Lass es los, Tom.	इसे जाने दो, टॉम।
+Let me do that.	Lass mich das tun.	मुझे यह करने दे।
+Let me do this.	Lass mich das machen.	मुझे यह करने दे।
+Let me explain.	Lass mich erklären.	मुझे समझाने दो।
+Let me hear it.	Lass mich das hören.	मुझे इसे सुनने दो।
+Let the boy go.	Lass den Jungen gehen.	छोड़ो बच्चे को।
+Let us go home.	Lass uns nach Hause gehen.	हमें घर जाने दो।
