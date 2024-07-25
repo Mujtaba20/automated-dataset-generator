@@ -16413,3 +16413,10 @@ I don't play golf.	Ich spiele kein Golf.	मैं गोल्फ नहीं 
 I don't play pool.	Ich spiele kein Pool.	मैं पूल नहीं खेलता।
 I don't regret it.	Das bereue ich nicht.	मुझे इस पर पछतावा नहीं है।
 I don't trust you.	Ich vertraue dir nicht.	मैं तुम्हें भरोसा नहीं करता।
+I don't want kids.	Ich will keine Kinder.	मुझे बच्चे नहीं चाहिए।
+I don't want meat.	Ich will kein Fleisch.	मुझे मांस नहीं चाहिए।
+I don't want that.	Das möchte ich nicht.	मुझे वह नहीं चाहिए।
+I don't want them.	Ich möchte sie nicht.	मुझे उन्हें नहीं चाहिए।
+I don't want this.	Das möchte ich nicht.	मुझे यह नहीं चाहिए।
+I don't work here.	Ich arbeite hier nicht.	मैं यहाँ काम नहीं करता।
+I drank some wine.	Ich habe etwas Wein getrunken.	मैंने कुछ शराब पी ली।
