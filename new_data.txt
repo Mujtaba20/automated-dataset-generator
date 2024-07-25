@@ -13659,3 +13659,12 @@ That's all I saw.	Das ist alles was ich sah.	वह सब कुछ मैं�
 That's all wrong.	Das ist alles falsch.	वह सब गलत है।
 That's avoidable.	Das ist vermeidbar.	यह टालने योग्य है।
 That's beyond me.	Das ist jenseits von mir.	वह मेरे पर से परे है।
+That's confusing.	Das ist verwirrend.	यह भ्रांतिपूर्ण है।
+That's dangerous.	Das ist gefährlich.	यह खतरनाक है।
+That's fantastic.	Das ist fantastisch.	यह अद्भुत है।
+That's fortunate.	Das ist glücklich.	यह भाग्यशाली है।
+That's good news.	Das ist eine gute Nachricht.	यह गुड न्यूज़ है।
+That's good, too.	Das ist auch gut.	यह भी अच्छा है।
+That's hilarious.	Das ist urkomisch.	यह अजीब है।
+That's his house.	Das ist sein Haus.	वह उसका घर है।
+That's how it is.	So ist es.	यही वास्तव है।
