@@ -7330,3 +7330,13 @@ Tom is miserly.	Tom ist geizig.	टॉम कंजूस है।
 Tom is missing.	Tom fehlt.	टॉम गायब है।
 Tom is my baby.	Tom ist mein Baby.	टॉम मेरा बच्चा है।
 Tom is my boss.	Tom ist mein Chef.	टॉम मेरे बॉस है।
+Tom is my idol.	Tom ist mein Idol.	टॉम मेरा प्रतिमा है।
+Tom is my name.	Tom ist mein Name.	टॉम मेरा नाम है।
+Tom is naughty.	Tom ist frech.	टॉम शरारती है।
+Tom is nervous.	Tom ist nervös.	टॉम घबराया हुआ है।
+Tom is neutral.	Tom ist neutral.	टॉम निष्पक्ष है।
+Tom is no fool.	Tom ist kein Dummkopf.	टॉम कोई मूर्ख नहीं है।
+Tom is no hero.	Tom ist kein Held.	टॉम कोई हीरो नहीं है।
+Tom is no liar.	Tom ist kein Lügner.	टॉम कोई झूठा नहीं है।
+Tom is nodding.	Tom nickt.	टॉम सिर हिला रहा है।
+Tom is obscene.	Tom ist obszön.	टॉम अश्लील है।
