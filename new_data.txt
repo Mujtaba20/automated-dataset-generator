@@ -11715,3 +11715,9 @@ Do you have them?	Hast du sie?	क्या आपके पास उनके 
 Do you have time?	Hast du Zeit?	क्या आपके पास समय है?
 Do you hear that?	Hörst du das?	क्या तुम यह सुनते हो?
 Do you know that?	Weißt du das?	क्या तुम्हें यह पता है?
+Do you know them?	Kennen Sie sie?	क्या आप उन्हें जानते हैं?
+Do you know this?	Kennen Sie das?	क्या आप यह जानते हैं?
+Do you like beer?	Magst du Bier?	क्या आपको बीयर पसंद है?
+Do you like bugs?	Magst du Insekten?	क्या आपको कीड़े पसंद हैं?
+Do you like cats?	Magst du Katzen?	क्या आपको बिल्लियाँ पसंद हैं?
+Do you like dogs?	Magst du Hunde?	क्या आपको कुत्ते पसंद हैं?
