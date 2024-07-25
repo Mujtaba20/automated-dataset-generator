@@ -1,16 +1,4 @@
 
-You may be needed.	Kann sein, dass du gebraucht wirst.	हो सकता है कि आपकी जरूरत हो।
-You may enter now.	Du kannst jetzt reinkommen.	अब आप आ सकते हैं।
-You may enter now.	Du darfst nun hereinkommen.	अब आप अंदर आ सकते हैं।
-You may enter now.	Ihr könnt jetzt hereinkommen.	अब आप आ सकते हैं।
-You may enter now.	Ihr könnt jetzt hineingehen.	अब आप जा सकते हैं।
-You may enter now.	Sie dürfen jetzt hereinkommen.	अब आप आ सकते हैं।
-You may enter now.	Sie dürfen jetzt hineingehen.	अब आप जा सकते हैं।
-You may enter now.	Du darfst jetzt reinkommen.	अब आप आ सकते हैं।
-You may leave now.	Du darfst jetzt gehen.	आप अब जा सकते हैं।
-You may park here.	Du darfst hier parken.	आप यहाँ पर पार्क कर सकते है।
-You may park here.	Ihr dürft hier parken.	आप यहाँ पर पार्क कर सकते है।
-You may park here.	Sie dürfen hier parken.	आप यहाँ पर पार्क कर सकते है।
 You may take this.	Du kannst das nehmen.	आप इसे ले सकते हैं।
 You may take this.	Du darfst das nehmen.	आप इसे ले सकते हैं।
 You might like it.	Das könnte dir gefallen.	आप उसे पसंद कर सकते हैं।

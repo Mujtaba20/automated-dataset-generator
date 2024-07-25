@@ -20083,3 +20083,8 @@ You made me do it.	Du hast mich dazu gebracht, es zu tun.	तुमने मु
 You make me happy.	Du machst mich glücklich.	तुम मुझे खुश करते हो।
 You make me laugh.	Du bringst mich zum Lachen.	तुम मुझे हंसने पर मजबूर करते हो।
 You make me smile.	Du bringst mich zum Lächeln.	तुम मुझे मुस्काने पर मजबूर करते हैं।
+You may be needed.	Du könntest gebraucht werden.	आपकी जरुरत पड़ सकती है।
+You may enter now.	Du kannst jetzt eintreten.	आप अब प्रवेश कर सकते हैं।
+You may enter now. (different meaning)	Sie dürfen jetzt eintreten.	आप अब प्रवेश कर सकते हैं।
+You may leave now.	Du kannst jetzt gehen.	आप अब चले जा सकते हैं।
+You may park here.	Du kannst hier parken.	आप यहाँ पार्क कर सकते हैं।
