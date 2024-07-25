@@ -7300,3 +7300,13 @@ Tom is finicky.	Tom ist pingelig.	टॉम टीड़ी पीड़क ह�
 Tom is focused.	Tom ist konzentriert.	टॉम केंद्रित है।
 Tom is foolish.	Tom ist töricht.	टॉम मूर्ख है।
 Tom is frantic.	Tom ist verzweifelt.	टॉम व्याकुल है।
+Tom is freaked.	Tom ist verstört.	टॉम घबराया हुआ है।
+Tom is furious.	Tom ist wütend.	टॉम को गुस्सा आया है।
+Tom is gasping.	Tom keucht.	टॉम सांस फूल रहा है।
+Tom is grouchy.	Tom ist mürrisch.	टॉम की दुर्बसना है।
+Tom is healthy.	Tom ist gesund.	टॉम स्वस्थ है।
+Tom is helpful.	Tom ist hilfreich.	टॉम सहायक है।
+Tom is helping.	Tom hilft.	टॉम मदद कर रहा है।
+Tom is hideous.	Tom ist abscheulich.	टॉम भयंकर है।
+Tom is history.	Tom ist Geschichte.	टॉम इतिहास है।
+Tom is humming.	Tom summt.	टॉम गूंजना है।
