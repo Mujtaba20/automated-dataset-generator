@@ -3842,3 +3842,8 @@ Don't push me! 	Dräng mich nicht!	मुझे धक्का मत दो!
 Don't respond.	Antworte nicht.	जवाब न दो।
 Don't rush me.	Mach mich nicht fertig.	मुझे जल्दी मत करो।
 Draw a circle.	Zeichne einen Kreis.	एक वृत्त बनाओ।
+Drink it down.	Trink es herunter.	इसे पी लो।
+Drop your gun!	Lassen Sie Ihre Waffe fallen!	अपनी बंदूक गिरा दो!
+Dry your eyes.	Trocknen Sie Ihre Augen.	तुम पानी न बहाओ।
+Eat and drink.	Essen und trinken.	भोजन करें और पानी पिएं।
+Eat healthily.	Iss gesund.	स्वस्थ भोजन करें।
