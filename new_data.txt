@@ -18733,3 +18733,12 @@ Tom is personable.	Tom ist sympathisch.	टॉम व्यक्तिगत �
 Tom is perspiring.	Tom schwitzt.	टॉम पसीना बह रहा है।
 Tom is persuasive.	Tom ist überzeugend.	टॉम समर्थनशील है।
 Tom is photogenic.	Tom ist fotogen.	टॉम फोटोजेनिक है।
+Tom is pig-headed.	Tom ist stur.	टॉम ड़फ निकाला।
+Tom is possessive.	Tom ist besitzergreifend.	टॉम स्वामित्वशील है।
+Tom is prejudiced.	Tom ist voreingenommen.	टॉम पूर्वाग्रही है।
+Tom is productive.	Tom ist produktiv.	टॉम उत्पादक है।
+Tom is quite lazy.	Tom ist ziemlich faul.	टॉम बहुत सुस्त है।
+Tom is quite poor.	Tom ist ziemlich arm.	टॉम काफी गरीब है।
+Tom is quite tall.	Tom ist ziemlich groß.	टॉम काफी लंबा है।
+Tom is quite thin.	Tom ist ziemlich dünn.	टॉम काफी पतला है।
+Tom is reading it.	Tom liest es.	टॉम इसे पढ़ रहा है।

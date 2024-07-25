@@ -1,14 +1,4 @@
 
-Tom is pig-headed.	Tom ist dickköpfig.	टॉम जिद्दी है।
-Tom is possessive.	Tom ist besitzergreifend.	टॉम के पास है।
-Tom is prejudiced.	Tom hat Vorurteile.	टॉम के पूर्वाग्रह हैं।
-Tom is prejudiced.	Tom ist voreingenommen.	टॉम पक्षपाती हो गया है।
-Tom is productive.	Tom ist produktiv.	टॉम उत्पादक है।
-Tom is quite lazy.	Tom ist ziemlich faul.	टॉम बहुत आलसी है।
-Tom is quite poor.	Tom ist ganz arm.	टॉम बहुत गरीब है।
-Tom is quite tall.	Tom ist ziemlich groß.	टॉम बहुत बड़ा है।
-Tom is quite thin.	Tom ist ziemlich dünn.	टॉम बहुत पतला है।
-Tom is reading it.	Tom liest es.	टॉम इसे पढ़ता है।
 Tom is really big.	Tom ist wirklich groß.	टॉम वास्तव में बड़ा है।
 Tom is reasonable.	Tom ist vernünftig.	टॉम उचित है।
 Tom is recovering.	Tom erholt sich.	टॉम ठीक हो जाता है।
