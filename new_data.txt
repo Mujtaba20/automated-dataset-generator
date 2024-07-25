@@ -11593,3 +11593,10 @@ Can you find out? - different meaning	Kannst du es herausfinden?	क्या �
 Can you prove it?	Kannst du es beweisen?	क्या आप इसे साबित कर सकते हैं?
 Can you run fast?	Kannst du schnell laufen?	क्या तुम तेज दौड़ सकते हो?
 Can you see that?	Kannst du das sehen?	क्या आप वह देख सकते हैं?
+Can you see them?	Könnt ihr sie sehen?	क्या तुम उन्हें देख सकते हो?
+Can you spell it?	Kannst du es buchstabieren?	क्या आप इसे वर्णमाला में लिख सकते हैं?
+Can you stand up?	Könnt ihr aufstehen?	क्या आप खड़े हो सकते हैं?
+Change your diet.	Ändere deine Ernährung.	अपने आहार को बदलो।
+Check your order.	Überprüfen Sie Ihre Bestellung.	अपना ऑर्डर चेक करें।
+Cherries are red.	Kirschen sind rot.	चेरी लाल होती हैं।
+Choose carefully.	Wähle mit Bedacht.	सावधानी से चुनें।
