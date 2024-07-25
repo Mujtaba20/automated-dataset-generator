@@ -13552,3 +13552,13 @@ She talked a lot.	Sie hat viel geredet.	उसने बहुत कुछ ब�
 She took my hand.	Sie nahm meine Hand.	उसने मेरा हाथ पकड़ लिया।
 She was homesick.	Sie war heimwehkrank.	उसे घर की याद आ रही थी।
 She was promoted.	Sie wurde befördert.	उसकी पदोन्नति हो गई थी।
+She was swimming.	Sie schwamm.	वह तैर रही थी।
+She wore glasses.	Sie trug eine Brille.	उसने चश्मा पहना था।
+She worships him.	Sie verehrt ihn.	वह उसे पूजने लगी।
+She worships him. (different meaning)	Sie betet ihn an.	उसने उसे पूजा।
+She's a bad liar.	Sie ist eine schlechte Lügnerin.	वह एक बुरी झूठी है।
+She's a knockout.	Sie ist eine Granate.	वह एक दमका है।
+She's helping me.	Sie hilft mir.	वह मेरी मदद कर रही है।
+She's nice to me.	Sie ist nett zu mir.	वह मेरे साथ अच्छी है।
+She's not a liar.	Sie ist keine Lügnerin.	वह झूठी नहीं है।
+She's very upset.	Sie ist sehr aufgebracht.	वह बहुत उदास है।
