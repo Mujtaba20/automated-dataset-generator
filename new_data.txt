@@ -11103,3 +11103,13 @@ We'll know soon.	Wir werden bald wissen.	हम जल्द ही जान �
 We'll see to it.	Wir werden dafür sorgen.	हम उस पर ध्यान देंगे।
 We'll stay here.	Wir werden hier bleiben.	हम यहाँ रुकेंगे।
 We'll take this.	Wir werden das übernehmen.	हम यह लेंगे।
+We'll wait here.	Wir werden hier warten.	हम यहाँ इंतजार करेंगे।
+We'll watch Tom.	Wir werden Tom beobachten.	हम टॉम को देखेंगे।
+We'll watch you.	Wir werden dich beobachten.	हम तुम्हें देखेंगे।
+We'll watch you. - meaning: We'll keep an eye on you.	Wir werden auf dich aufpassen.	हम तुम्हारी निगरानी करेंगे।
+We're Canadians.	Wir sind Kanadier.	हम कनाडियन हैं।
+We're all alone.	Wir sind ganz allein.	हम सभी अकेले हैं।
+We're all going.	Wir gehen alle.	हम सभी जा रहे हैं।
+We're all going. - meaning: We're all leaving for the party.	Wir gehen jetzt los.	हम सभी पार्टी के लिए निकल रहे हैं।
+We're all happy.	Wir sind alle glücklich.	हम सभी खुश हैं।
+We're all happy. - meaning: We're all satisfied with the outcome.	Wir sind mit dem Ergebnis zufrieden.	हम सभी परिणाम से संतुष्ट हैं।
