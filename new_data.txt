@@ -19612,3 +19612,12 @@ We'll go with you.	Wir werden mit dir gehen.	हम तुम्हारे स
 We'll look for it.	Wir werden danach suchen.	हम उसकी तलाश में जाएंगे।
 We'll protect you.	Wir werden dich schützen.	हम तुम्हें सुरक्षित रखेंगे।
 We'll see to that.	Wir werden dafür sorgen.	हम उस बारे में देखेंगे।
+We'll take a look.	Wir werden uns das ansehen.	हम एक नजर डालेंगे।
+We'll take my car.	Wir werden mein Auto nehmen.	हम मेरी कार लेंगे।
+We're adventurous.	Wir sind abenteuerlustig.	हमारा स्वाभाव जिजानू है।
+We're against war.	Wir sind gegen Krieg.	हम युद्ध के खिलाफ हैं।
+We're all at risk.	Wir alle sind in Gefahr.	हम सभी जोखिम में हैं।
+We're all related.	Wir sind alle verwandt.	हम सभी संबंधित हैं।
+We're all waiting.	Wir warten alle.	हम सब इंतज़ार कर रहे हैं।
+We're all winners.	Wir sind alle Gewinner.	हम सभी विजेता हैं।
+We're all worried.	Wir sind alle besorgt.	हम सब परेशान हैं।
