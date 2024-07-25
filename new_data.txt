@@ -15976,3 +15976,11 @@ He got me a watch.	Er kaufte mir eine Uhr.	उसने मुझे घड़�
 He got tired soon.	Er wurde bald müde.	उसे जल्द ही थकान हुई।
 He got very drunk.	Er wurde sehr betrunken.	उसने बहुत नशे में शराब पी।
 He got well again.	Er wurde wieder gesund.	उसे फिर से ठीक हो गया।
+He grabbed my arm.	Er packte meinen Arm.	उसने मेरा हाथ पकड़ लिया।
+He had a headache.	Er hatte Kopfschmerzen.	उसे सिरदर्द था।
+He had a new idea.	Er hatte eine neue Idee.	उसके पास एक नया विचार था।
+He had no coat on.	Er hatte keinen Mantel an.	उसके पास कोट नहीं था।
+He had three sons.	Er hatte drei Söhne.	उसके तीन पुत्र थे।
+He hanged himself.	Er erhängte sich.	उसने खुद को फांसी लगा ली।
+He has a cold now.	Er hat jetzt eine Erkältung.	उसे अभी ठंड लग रही है।
+He has a few pens.	Er hat ein paar Stifte.	उसके पास कुछ कलमें हैं।
