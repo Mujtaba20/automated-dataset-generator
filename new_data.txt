@@ -16539,3 +16539,13 @@ I have small ears.	Ich habe kleine Ohren.	मेरे कान छोटे �
 I have some books.	Ich habe einige Bücher.	मेरे पास कुछ किताबें हैं।
 I have some gifts.	Ich habe einige Geschenke.	मेरे पास कुछ उपहार हैं।
 I have some money.	Ich habe etwas Geld.	मेरे पास कुछ पैसे हैं।
+I have sunglasses.	Ich habe eine Sonnenbrille.	मेरे पास धूप का चश्मा है।
+I have three cats.	Ich habe drei Katzen.	मेरे पास तीन बिल्लियां हैं।
+I have three dogs.	Ich habe drei Hunde.	मेरे पास तीन कुत्ते हैं।
+I have three sons.	Ich habe drei Söhne.	मेरे तीन पुत्र हैं।
+I have to be here.	Ich muss hier sein.	मुझे यहाँ होना है।
+I have to do that.	Ich muss das machen.	मुझे वह करना है।
+I have to eat now.	Ich muss jetzt essen.	मुझे अब खाना है।
+I have to find it.	Ich muss es finden.	मुझे इसे ढूंढना है।
+I have to get Tom.	Ich muss Tom holen.	मुझे टॉम को पाना है।
+I have to go back.	Ich muss zurückgehen.	मुझे वापस जाना है।
