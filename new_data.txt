@@ -4872,3 +4872,10 @@ They all knew.
 They are busy.		
 They canceled.		
 They found it.		
+They found us.	Sie haben uns gefunden.	उन्होंने हमें पा लिया।
+They know Tom.	Sie kennen Tom.	उन्हें टॉम का पता है।
+They know you.	Sie kennen dich.	उन्हें तुम्हारा पता है।
+They love Tom.	Sie lieben Tom.	उन्हें टॉम से प्यार है।
+They loved it.	Sie haben es geliebt.	उन्होंने इसे प्यार किया।
+They may come.	Sie könnten kommen.	वे आ सकते हैं।
+They need him.	Sie brauchen ihn.	उन्हें उसकी जरूरत है।
