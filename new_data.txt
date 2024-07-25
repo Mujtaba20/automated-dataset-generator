@@ -16216,3 +16216,11 @@ How lucky you are!	Wie glücklich du bist!	तुम कितने भाग�
 How many are left?	Wie viele sind übrig?	बचे हुए कितने हैं?
 How much are they?	Wie viel kosten sie?	वे कितने हैं?
 How much do I owe?	Wie viel schulde ich?	मुझे कितना उधार चुकाना होगा?
+How old do I look?	Wie alt sehe ich aus?	मैं किस प्रकार का दिखता हूँ?
+How rich are they?	Wie reich sind sie?	उनकी सम्पत्ति कितनी है?
+How should I know?	Woher soll ich das wissen?	मैं कैसे जानूँ?
+How was the beach?	Wie war der Strand?	समुद्रतट कैसा था?
+How was the dance?	Wie war der Tanz?	नाच कैसा था?
+How was the movie?	Wie war der Film?	फिल्म कैसी थी?
+How was your stay?	Wie war Ihr Aufenthalt?	आपका रहना कैसा था?
+How was your trip?	Wie war Ihre Reise?	आपकी यात्रा कैसी थी?
