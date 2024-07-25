@@ -3489,3 +3489,13 @@ Tom's coming.	Tom kommt.	टॉम आ रहा है।
 Tom's crying.	Tom weint.	टॉम रो रहा है।
 Tom's famous.	Tom ist berühmt.	टॉम मशहूर है।
 Tom's filthy.	Tom ist schmutzig.	टॉम गंदा है।
+Tom's greedy.	Tom ist habgierig.	टॉम लालची है।
+Tom's guilty.	Tom ist schuldig.	टॉम दोषी है।
+Tom's insane.	Tom ist wahnsinnig.	टॉम पागल है।
+Tom's joking.	Tom macht Witze.	टॉम मजाक कर रहा है।
+Tom's lonely.	Tom ist einsam.	टॉम अकेला है।
+Tom's not in.	Tom ist nicht da.	टॉम मौजूद नहीं है।
+Tom's scared.	Tom hat Angst.	टॉम डरा हुआ है।
+Tom's silent.	Tom ist still.	टॉम चुप है।
+Tom's so old.	Tom ist so alt.	टॉम इतना पुराना है।
+Tom's strict.	Tom ist streng.	टॉम कठोर है।
