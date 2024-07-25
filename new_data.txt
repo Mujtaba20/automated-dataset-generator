@@ -14173,3 +14173,12 @@ Tom is committed.	Tom ist verpflichtet.	टॉम प्रतिबद्ध �
 Tom is committed. (different meaning)	Tom ist engagiert.	टॉम प्रतिबद्ध है।
 Tom is competent.	Tom ist kompetent.	टॉम पारदर्शी है।
 Tom is conceited.	Tom ist eingebildet.	टॉम अभिमानी है।
+Tom is concerned.	Tom ist besorgt.	टॉम चिंतित है।
+Tom is confident.	Tom ist zuversichtlich.	टॉम आत्मविश्वासी है।
+Tom is conscious.	Tom ist bewusst.	टॉम सचेत है।
+Tom is contented.	Tom ist zufrieden.	टॉम संतुष्ट है।
+Tom is courteous.	Tom ist höflich.	टॉम शिष्टाचारी है।
+Tom is deceitful.	Tom ist betrügerisch.	टॉम धोखेबाज़ है।
+Tom is dedicated.	Tom ist engagiert.	टॉम समर्पित है।
+Tom is defensive.	Tom ist defensiv.	टॉम संरक्षात्मक है।
+Tom is delighted.	Tom ist erfreut.	टॉम प्रसन्न है।
