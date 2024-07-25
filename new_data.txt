@@ -310,3 +310,8 @@ I cursed.	Ich fluchte.	मैंने शाप दिया।
 I cursed. Meaning 2	Ich verfluchte.	मैंने कोसा।
 I did it.	Ich habe es gemacht.	मैंने यह किया।
 I did it. Meaning 2	Ich tat es.	मैंने ऐसा किया।
+I get by.	Ich komme durch.	मैं निकल आता हूँ।
+I get it.	Ich verstehe es.	मुझे समझ में आ गया।
+I got it.	Ich habe es bekommen.	मैंने समझ लिया।
+I helped.	Ich habe geholfen.	मैंने सहायता की।
+I jumped.	Ich sprang.	मैं कूद पड़ा।
