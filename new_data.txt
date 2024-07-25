@@ -7733,3 +7733,13 @@ Tom's not weak.	Tom ist nicht schwach.	टॉम कमजोर नहीं �
 Tom's out cold.	Tom ist bewusstlos.	टॉम स्वच्छंद है।
 Tom's resigned.	Tom hat gekündigt.	टॉम त्यागपत्र दिया।
 Tom's returned.	Tom ist zurückgekehrt.	टॉम वापस आ गया है।
+Tom's sleeping.	Tom schläft.	टॉम सो रहा है।
+Tom's stalling.	Tom zögert.	टॉम खंडहरी में फसा हुआ है।
+Tom's stranded.	Tom ist gestrandet.	टॉम फंसा हुआ है।
+Tom's studying.	Tom studiert.	टॉम पढ़ाई कर रहा है।
+Tom's swimming.	Tom schwimmt.	टॉम तैर रहा है।
+Tom's terrific.	Tom ist fantastisch.	टॉम उम्दा है।
+Tom's the boss.	Tom ist der Boss.	टॉम मालिक है।
+Tom's unstable.	Tom ist instabil.	टॉम अस्थिर है।
+Tom's upstairs.	Tom ist oben.	टॉम ऊपर है।
+Tom's very sad.	Tom ist sehr traurig.	टॉम बहुत उदास है।
