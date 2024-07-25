@@ -11510,3 +11510,12 @@ Are you brothers?	Seid ihr Brüder?	क्या आप भाई हैं?
 Are you busy now?	Bist du jetzt beschäftigt?	क्या आप अभी व्यस्त हैं?
 Are you busy now? (Repeated)	Seid ihr nun beschäftigt?	क्या आप अब काम में हैं?
 Are you busy now? (Repeated 2)	Bist du jetzt viel beschäftigt?	क्या तुम अब अधिक व्यस्त हैं?
+Are you doing OK?	Geht es dir gut?	क्या तुम ठीक हो?
+Are you done now?	Bist du jetzt fertig?	क्या तुम अब कर चुके हो?
+Are you drinking?	Trinkst du?	क्या तुम पी रहे हो?
+Are you flexible?	Bist du flexibel?	क्या तुम लचीले हो?
+Are you free now?	Bist du jetzt frei?	क्या तुम अब फ्री हो?
+Are you friendly?	Bist du freundlich?	क्या तुम दोस्ताना हो?
+Are you generous?	Bist du großzügig?	क्या तुम उदार हो?
+Are you going in?	Gehst du rein?	क्या तुम अंदर जा रहे हो?
+Are you homesick?	Bist du heimwehkrank?	क्या तुम घर की याद से रो रहे हो?
