@@ -15240,3 +15240,11 @@ Where's the ball?	Wo ist der Ball?	गेंद कहां है?
 Where's the bank?	Wo ist die Bank?	बैंक कहां है?
 Where's the boss?	Wo ist der Chef?	बॉस कहां है?
 Where's the cook?	Wo ist der Koch?	रसोइया कहां है?
+Where's the exit?	Wo ist der Ausgang?	बाहर कहाँ है?
+Where's the food?	Wo ist das Essen?	खाना कहाँ है?
+Where's the girl?	Wo ist das Mädchen?	लड़की कहाँ है?
+Where's the park?	Wo ist der Park?	पार्क कहाँ है?
+Where's the rest?	Wo ist der Rest?	बाकी कहाँ है?
+Where's your bag?	Wo ist deine Tasche?	तुम्हारा बैग कहाँ है?
+Where's your car?	Wo ist dein Auto?	तुम्हारी कार कहाँ है?
+Where's your cat?	Wo ist deine Katze?	तुम्हारी बिल्ली कहाँ है?
