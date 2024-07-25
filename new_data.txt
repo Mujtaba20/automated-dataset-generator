@@ -2818,3 +2818,13 @@ I'll pay you.	Ich werde dir bezahlen.	मैं तुम्हें पैस�
 I'll read it.	Ich werde es lesen.	मैं इसे पढ़ूंगा।
 I'll see Tom.	Ich werde Tom sehen.	मैं टॉम से मिलूँगा।
 I'll sue you.	Ich werde dich verklagen.	मैं तुम पर मुकदमा चलाने वाला हूँ।
+I'll take it.	Ich nehme es.	मैं इसे लेता हूं।
+I'm 99% sure.	Ich bin zu 99% sicher.	मुझे 99% यकीन है।
+I'm Canadian.	Ich bin Kanadier.	मैं कनेडियन हूँ।
+I'm a Pisces.	Ich bin ein Fisch.	मैं मीन राशि का हूं।
+I'm a client.	Ich bin Kunde.	मैं एक ग्राहक हूँ।
+I'm a coward.	Ich bin ein Feigling.	मैं डरपोक हूँ।
+I'm a coward. (different meaning)	Ich bin ein Schwächling.	मैं कायर हूँ।
+I'm a doctor.	Ich bin Arzt.	मैं डॉक्टर हूँ।
+I'm a father.	Ich bin Vater.	मैं पिता हूँ।
+I'm a friend.	Ich bin Freund.	मैं दोस्त हूँ।
