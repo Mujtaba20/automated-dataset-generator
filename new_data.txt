@@ -18192,3 +18192,12 @@ They're impressed.	Sie sind beeindruckt.	उन्हें प्रभाव�
 They're in Boston.	Sie sind in Boston.	वे बोस्टन में हैं।
 They're in danger.	Sie sind in Gefahr.	वे खतरे में हैं।
 They're listening.	Sie hören zu.	वे सुन रहे हैं।
+They're murderers.	Sie sind Mörder.	वे हत्यारे हैं।
+They're not happy.	Sie sind nicht glücklich.	वे खुश नहीं हैं।
+They're not there.	Sie sind nicht dort.	वे वहाँ नहीं हैं।
+They're now alone.	Sie sind jetzt allein.	वे अब अकेले हैं।
+They're surprised.	Sie sind überrascht.	वे हैरान हैं।
+They're using you.	Sie benutzen dich.	वे तुम्हारा इस्तेमाल कर रहे हैं।
+They're very busy.	Sie sind sehr beschäftigt.	वे बहुत व्यस्त हैं।
+They're very good.	Sie sind sehr gut.	वे बहुत अच्छे हैं।
+They're wonderful.	Sie sind herrlich.	वे चमत्कारी हैं।

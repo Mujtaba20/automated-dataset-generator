@@ -1,14 +1,4 @@
 
-They're murderers.	Das sind Mörder.	ये हत्यारे हैं।
-They're not happy.	Sie sind nicht glücklich.	वे प्रसन्न नहीं हैं।
-They're not there.	Sie sind nicht dort.	आप वहां नहीं हैं।
-They're now alone.	Sie sind jetzt allein.	अब आपके साथ कोई नहीं है।
-They're surprised.	Sie sind überrascht.	तुम आश्चर्यचकित हो।
-They're using you.	Sie benutzen dich.	वे आपका उपयोग करते हैं।
-They're very busy.	Sie sind sehr beschäftigt.	वे बहुत व्यस्त हैं।
-They're very good.	Sie sind sehr brav.	बड़े अच्छे हैं।
-They're wonderful.	Sie sind wunderbar.	आप शानदार हैं।
-They're wonderful.	Sie sind wundervoll.	आप शानदार हैं।
 They've fired him.	Er ist entlassen worden.	उसे रिहा कर दिया गया है।
 They've never met.	Sie haben sich nie getroffen.	आप कभी नहीं मिले।
 They've never met.	Sie sind sich nie begegnet.	आप कभी नहीं मिले।
