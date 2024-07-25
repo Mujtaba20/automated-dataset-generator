@@ -5368,3 +5368,8 @@ We're working.	Wir arbeiten.	हम काम कर रहे हैं।
 We're worried.	Wir sind besorgt.	हम चिंतित हैं।
 We've arrived.	Wir sind angekommen.	हम पहुंच गए हैं।
 We've made it.	Wir haben es geschafft.	हमने यह कर लिया है।
+Were you busy?	Waren Sie beschäftigt?	क्या तुम व्यस्त थे?
+Were you shot?	Wurdest du angeschossen?	क्या तुम गोली लगी थी?
+Were you sick?	Waren Sie krank?	क्या तुम बीमार थे?
+What a hassle!	Was für eine Plage!	कितनी परेशानी है!
+What a relief!	Was für eine Erleichterung!	कितनी राहत है!
