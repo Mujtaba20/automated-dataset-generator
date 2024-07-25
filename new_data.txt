@@ -8932,3 +8932,13 @@ I misunderstood.	Ich habe falsch verstanden.	मैंने गलतफहम�
 I moved my legs.	Ich habe meine Beine bewegt.	मैंने अपनी टांगें हिलाई।
 I must be blind.	Ich muss blind sein.	मुझे अंधा होना चाहिए।
 I must be there.	Ich muss dort sein.	मुझे वहाँ होना चाहिए।
+I must find Tom.	Ich muss Tom finden.	मुझे टॉम ढूंढना होगा।
+I must find out.	Ich muss herausfinden.	मुझे पता करना होगा।
+I must go alone.	Ich muss alleine gehen.	मुझे अकेले जाना होगा।
+I must go there.	Ich muss dorthin gehen.	मुझे वहाँ जाना होगा।
+I must help her.	Ich muss ihr helfen.	मुझे उसकी मदद करनी चाहिए।
+I must help him.	Ich muss ihm helfen.	मुझे उसकी मदद करनी चाहिए।
+I must obey Tom.	Ich muss Tom gehorchen.	मुझे टॉम का आज्ञानुसार काम करना होगा।
+I must warn Tom.	Ich muss Tom warnen.	मुझे टॉम को चेतावनी देनी होगी।
+I must warn him.	Ich muss ihn warnen.	मुझे उसे चेतावनी देनी होगी।
+I need Internet.	Ich brauche Internet.	मुझे इंटरनेट की आवश्यकता है।
