@@ -12492,3 +12492,8 @@ I like elephants.	Ich mag Elefanten.	मुझे हाथी पसंद ह�
 I like fresh air.	Ich mag frische Luft.	मुझे ताज़ा हवा पसंद है।
 I like her novel.	Ich mag ihren Roman.	मुझे उसका उपन्यास पसंद है।
 I like languages.	Ich mag Sprachen.	मुझे भाषाएं पसंद हैं।
+I like my school.	Ich mag meine Schule.	मुझे मेरा स्कूल पसंद है।
+I like pop music.	Ich mag Popmusik.	मुझे पॉप संगीत पसंद है।
+I like red roses.	Ich mag rote Rosen.	मुझे लाल गुलाब पसंद है।
+I like surprises.	Ich mag Überraschungen.	मुझे अचानकी पसंद है।
+I like that flag.	Ich mag diese Flagge.	मुझे वह झंडा पसंद है।
