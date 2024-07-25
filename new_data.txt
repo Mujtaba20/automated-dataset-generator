@@ -15261,3 +15261,8 @@ Who are you with?	Mit wem bist du?	तुम किसके साथ हो?
 Who arrested Tom?	Wer hat Tom verhaftet?	तोम को कौन गिरफ्तार करा?
 Who brought this?	Wer hat das gebracht?	यह किसने लाया?
 Who did Tom kiss?	Wen hat Tom geküsst?	तोमने किसे चूमा?
+Who did you call?	Wen hast du angerufen?	तुमने किसे फोन किया?
+Who did you kill?	Wen hast du getötet?	तुमने किसे मारा?
+Who did you kiss?	Wen hast du geküsst?	तुमने किसे चुमा?
+Who did you meet?	Mit wem hast du dich getroffen?	तुमने किसे मिला?
+Who else uses it?	Wer benutzt es noch?	यह कौन और इसका उपयोग करता है?
