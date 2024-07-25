@@ -20647,3 +20647,11 @@ Give me that money.	Gib mir das Geld.	उस पैसे को मुझे �
 Give me that thing.	Gib mir das Ding.	उस चीज को मुझे दो।
 Give me the number.	Gib mir die Nummer.	मुझे नंबर दो।
 Give me your knife.	Gib mir dein Messer.	अपनी चाकू मुझे दो।
+Give me your money!	Gib mir dein Geld!	मुझे अपने पैसे दो!
+Give me your money.	Geben Sie mir Ihr Geld.	मुझे अपने पैसे दो।
+Give me your phone.	Geben Sie mir Ihr Handy.	मुझे अपने टेलीफ़ोन दो।
+Give me your shirt.	Geben Sie mir Ihr Hemd.	मुझे अपनी शर्ट दो।
+Give me your sword.	Gib mir dein Schwert.	मुझे अपनी तलवार दो।
+Give me your watch.	Geben Sie mir Ihre Uhr.	मुझे अपनी घड़ी दो।
+Give us some space.	Geben Sie uns etwas Platz.	हमें कुछ जगह दीजिए।
+Go ahead and laugh.	Lachen Sie ruhig weiter.	आगे बढ़ें और हंसें।
