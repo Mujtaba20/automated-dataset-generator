@@ -1056,3 +1056,13 @@ I won't go.	Ich werde nicht gehen.	मैं नहीं जाऊंगा।
 I'll be OK.	Mir wird es gut gehen.	मैं ठीक रहूंगा।
 I'll do it.	Ich werde es tun.	मैं यह करूंगा।
 I'll go in.	Ich werde reingehen.	मैं अंदर जाऊंगा।
+I'll hurry.	Ich werde mich beeilen.	मैं जल्दी करूँगा।
+I'll shoot.	Ich werde schießen.	मैं फायर करूँगा।
+I'll stand.	Ich werde stehen.	मैं खड़ा होऊँगा।
+I'll start.	Ich werde anfangen.	मैं शुरू करूँगा।
+I'm OK now.	Mir geht es jetzt gut.	अब मैं ठीक हूँ।
+I'm a cook.	Ich bin ein Koch.	मैं एक रसोइया हूँ।
+I'm a girl.	Ich bin ein Mädchen.	मैं एक लड़की हूँ।
+I'm a hero.	Ich bin ein Held.	मैं एक नायक हूँ।
+I'm a monk.	Ich bin ein Mönch.	मैं एक साधु हूँ।
+I'm afraid.	Ich habe Angst.	मैं डर रहा हूँ।
