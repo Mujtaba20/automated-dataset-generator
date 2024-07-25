@@ -881,3 +881,11 @@ Don't talk!	Nicht reden!	बात मत करो!
 Don't talk! (different meaning)	Nicht sprechen!	खामोश!
 Don't wait.	Nicht warten.	रुको मत।
 Don't wait. (different meaning)	Nicht abwarten.	रुकने का कोई मतलब नहीं है।
+Don't yell.	Nicht schreien.	चिल्लाना मत।
+Don't yell. (Different meaning)	Nicht laut werden.	शोर मत करो।
+Drink this.	Trink das.	यह पीओ।
+Duty calls.	Pflicht ruft.	कर्तव्य बुलाता है।
+Eat slowly.	Langsam essen.	धीरे से खाओ।
+Examine it.	Untersuche es.	इसे जांचो।
+Fill it up.	Fülle es auf.	इसे भर दो।
+Find a job.	Finde einen Job.	नौकरी ढूंढो।
