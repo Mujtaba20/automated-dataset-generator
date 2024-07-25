@@ -13001,3 +13001,13 @@ Is Tom a suspect?	Ist Tom ein Verdächtiger?	क्या टॉम संदे
 Is Tom a teacher?	Ist Tom ein Lehrer?	क्या टॉम एक शिक्षक है?
 Is Tom all right?	Geht es Tom gut?	क्या टॉम ठीक है?
 Is Tom alone now?	Ist Tom jetzt allein?	क्या टॉम अब अकेला है?
+Is Tom an artist?	Ist Tom ein Künstler?	क्या टॉम कलाकार है?
+Is Tom at school?	Ist Tom in der Schule?	क्या टॉम स्कूल में है?
+Is Tom available?	Ist Tom verfügbar?	क्या टॉम उपलब्ध है?
+Is Tom awake yet?	Ist Tom schon wach?	क्या टॉम अब तक जाग रहा है?
+Is Tom breathing?	Atmet Tom?	क्या टॉम साँस ले रहा है?
+Is Tom confident?	Ist Tom selbstbewusst?	क्या टॉम आत्मविश्वासी है?
+Is Tom conscious?	Ist Tom bei Bewusstsein?	क्या टॉम सचेत है?
+Is Tom dangerous?	Ist Tom gefährlich?	क्या टॉम खतरनाक है?
+Is Tom delirious?	Ist Tom wirr?	क्या टॉम बावला है?
+Is Tom here, too?	Ist Tom auch hier?	क्या टॉम यहाँ भी है?
