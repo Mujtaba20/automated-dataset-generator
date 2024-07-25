@@ -5192,3 +5192,11 @@ Tom won again.	Tom hat wieder gewonnen.	टॉम फिर जीत गया�
 Tom won't die.	Tom wird nicht sterben.	टॉम मरेगा नहीं।
 Tom won't win.	Tom wird nicht gewinnen.	टॉम जीतेगा नहीं।
 Tom would cry.	Tom würde weinen.	टॉम रोया करता।
+Tom zoomed in.	Tom vergrößert.	टॉम ज़ूम इन किया।
+Tom'll change.	Tom wird sich ändern.	टॉम बदलेगा।
+Tom'll manage.	Tom wird es schaffen.	टॉम संभालेगा।
+Tom's adopted.	Tom ist adoptiert.	टॉम को गोद लिया गया है।
+Tom's amazing.	Tom ist erstaunlich.	टॉम बहुत शानदार है।
+Tom's annoyed.	Tom ist genervt.	टॉम को चिढ़ हो रहा है।
+Tom's anxious.	Tom ist ängstlich.	टॉम उत्सुक है।
+Tom's choking.	Tom hat sich verschluckt.	टॉम को फंसा हुआ है।
