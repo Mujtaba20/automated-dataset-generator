@@ -246,3 +246,6 @@ Tell me.	Erzähl mir.	मुझे बताओ।
 Tom ate.	Tom aß.	टॉम ने खाया।
 Tom hid.	Tom versteckte sich.	टॉम ने छुपाया।
 Tom ran.	Tom lief.	टॉम दौड़ा।
+Tom won.	Tom hat gewonnen.	टॉम जीत गया।
+Wait up.	Warte kurz.	रुको थोड़ी देर।
+Wake up!	Wach auf!	जागो!
