@@ -20358,3 +20358,11 @@ Could we order now?	Könnten wir jetzt bestellen?	क्या हम अब आ
 Court is adjourned.	Das Gericht ist vertagt.	अदालत बंद हो गई है।
 Crime does not pay.	Verbrechen lohnt sich nicht.	अपराध का परिणाम अच्छा नहीं है।
 Deal with it later.	Kümmere dich später darum.	बाद में इसे संभालें।
+Did I mention that?	Habe ich das erwähnt?	क्या मैंने उसे जिक्र किया था?
+Did I say too much?	Habe ich zu viel gesagt?	क्या मैंने बहुत कह दिया?
+Did Tom believe it?	Hat Tom das geglaubt?	क्या टॉम ने इसे मान लिया?
+Did Tom bribe Mary?	Hat Tom Maria bestochen?	क्या टॉम ने मेरी को रिश्वत दी?
+Did Tom cause this?	Hat Tom das verursacht?	क्या टॉमने यह कारण बताया है?
+Did Tom eat dinner?	Hat Tom zu Abend gegessen?	क्या टॉमने रात का खाना खाया है?
+Did Tom have a gun?	Hat Tom eine Waffe gehabt?	क्या टॉमके पास बंदूक थी?
+Did Tom just leave?	Ist Tom gerade gegangen?	क्या टॉम अभी चला गया है?

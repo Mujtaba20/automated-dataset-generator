@@ -1,14 +1,4 @@
 
-Did I mention that?	Habe ich das erwähnt?	क्या मैंने इसका उल्लेख किया है?
-Did I say too much?	Habe ich zu viel gesagt?	क्या मैंने बहुत ज्यादा कहा?
-Did Tom believe it?	Hat Tom das geglaubt?	क्या टॉम ने ऐसा माना?
-Did Tom bribe Mary?	Hat Tom Maria bestochen?	क्या टॉम मैरी ने रिश्वत दी है?
-Did Tom cause this?	Hat Tom das verursacht?	क्या टॉम ने इसका कारण बनाया?
-Did Tom cause this?	Ist Tom hierfür verantwortlich?	क्या टॉम इसके लिए जिम्मेदार है?
-Did Tom eat dinner?	Hat Tom Abendbrot gegessen?	क्या टॉम ने रात का खाना खाया?
-Did Tom eat dinner?	Hat Tom etwas zu Abend gegessen?	क्या टॉम ने रात के खाने में कुछ खाया?
-Did Tom have a gun?	War Tom bewaffnet?	क्या टॉम सशस्त्र था?
-Did Tom just leave?	Ist Tom gerade gegangen?	क्या टॉम अभी बचा है?
 Did Tom mention me?	Hat Tom mich erwähnt?	क्या टॉम ने मेरा उल्लेख किया?
 Did Tom say thanks?	Hat Tom sich bedankt?	क्या टॉम ने आपको धन्यवाद दिया?
 Did Tom seem upset?	Schien Tom bestürzt zu sein?	लग रहा था?
