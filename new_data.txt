@@ -8756,3 +8756,12 @@ I go every year.	Ich gehe jedes Jahr.	मैं हर साल जाता �
 I got no answer.	Ich habe keine Antwort bekommen.	मुझे कोई जवाब नहीं मिला।
 I got remarried.	Ich habe wieder geheiratet.	मैंने फिर से शादी की।
 I got up at six.	Ich bin um sechs Uhr aufgestanden.	मैं छः बजे उठ गया।
+I got very sick.	Ich wurde sehr krank.	मैं बहुत बीमार हो गया।
+I guessed right.	Ich habe richtig geraten.	मैंने सही अनुमान लगाया।
+I hate children.	Ich hasse Kinder.	मुझे बच्चे नापसंद हैं।
+I hate everyone.	Ich hasse jeden.	मुझे सभी से नापसंद है।
+I hate funerals.	Ich hasse Beerdigungen.	मुझे अंतिम संस्कार से नापसंद है।
+I hate homework.	Ich hasse Hausaufgaben.	मुझे होमवर्क से नापसंद है।
+I hate politics.	Ich hasse Politik.	मुझे राजनीति से नापसंद है।
+I hate raccoons.	Ich hasse Waschbären.	मुझे रैकून से नापसंद है।
+I hate reptiles.	Ich verabscheue Reptilien.	मैं सरीसृप से घृणा करता हूं।
