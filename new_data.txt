@@ -9192,3 +9192,12 @@ I'll order food.	Ich werde Essen bestellen.	मैं भोजन आदेश 
 I'll pay for it.	Ich werde dafür bezahlen.	मैं इसके लिए भुगतान करूँगा।
 I'll play along.	Ich werde mitspielen.	मैं साथ खेलूँगा।
 I'll play along. (Different meaning)	Ich werde mitspielen.	मैं साथ खेलूँगा।
+I'll rent a car.	Ich werde ein Auto mieten.	मैं एक कार किराए पर लेऊंगा।
+I'll sleep here.	Ich werde hier schlafen.	मैं यहाँ सोऊंगा।
+I'll take those.	Ich nehme die.	मैं वे लेलूंगा।
+I'll try harder.	Ich werde härter versuchen.	मैं मेहनत करूंगा।
+I'll work alone.	Ich werde alleine arbeiten.	मैं अकेले काम करूँगा।
+I'm Tom Jackson.	Ich bin Tom Jackson.	मैं टॉम जैक्सन हूँ।
+I'm Tom's guest.	Ich bin Toms Gast.	मैं टॉम का मेहमान हूँ।
+I'm Tom's niece.	Ich bin Toms Nichte.	मैं टॉम की भांजी हूँ।
+I'm Tom's rival.	Ich bin Toms Rivale.	मैं टॉम का प्रतिद्वंद्वी हूँ।
