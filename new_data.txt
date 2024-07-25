@@ -11871,3 +11871,8 @@ Give me my drink.	Gib mir mein Getränk.	मुझे मेरी पेय प
 Give me my money.	Gib mir mein Geld.	मुझे मेरे पैसे दो।
 Give me my sword.	Gib mir mein Schwert.	मुझे मेरी तलवार दो।
 Give me that one.	Gib mir das.	वह एक देना।
+Give me the ball.	Gib mir den Ball.	मुझे गेंद दो।
+Give me the book.	Gib mir das Buch.	मुझे किताब दो।
+Give me the keys.	Gib mir die Schlüssel.	मुझे चाबियाँ दो।
+Give me the soap.	Gib mir die Seife.	मुझे साबुन दो।
+Give that to Tom.	Gib das Tom.	उसे टॉम को दो।
