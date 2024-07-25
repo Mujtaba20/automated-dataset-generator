@@ -19177,3 +19177,11 @@ Tom skipped class.	Tom hat den Unterricht versäumt.	टॉम ने कक्�
 Tom skipped lunch.	Tom hat das Mittagessen ausgelassen.	टॉम ने दोपहर का भोजन छोड़ दिया।
 Tom slept all day.	Tom hat den ganzen Tag geschlafen.	टॉम ने पूरे दिन सोते रहा।
 Tom slept an hour.	Tom hat eine Stunde geschlafen.	टॉम ने एक घंटे के लिए सोया।
+Tom slept outside.	Tom hat draußen geschlafen.	टॉम बाहर सोया था।
+Tom slept soundly.	Tom schlief fest.	टॉम गहरी नींद सोया।
+Tom smelled funny.	Tom roch komisch.	टॉम कुछ अजीब सूगराहट महसूस किया।
+Tom smelled smoke.	Tom roch den Rauch.	टॉम धुआं महसूस किया।
+Tom sneezed again.	Tom nieste wieder.	टॉम फिर सीने किया।
+Tom snores loudly.	Tom schnarcht laut.	टॉम जोर से सांस लेता है।
+Tom sold it to me.	Tom hat es mir verkauft.	टॉम ने यह मुझे बेचा।
+Tom sounded angry.	Tom klang wütend.	टॉम गुस्से में लगा।

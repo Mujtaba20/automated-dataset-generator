@@ -1,15 +1,4 @@
 
-Tom slept outside.	Tom schlief draußen.	टॉम बाहर सो गया।
-Tom slept outside.	Tom schlief im Freien.	टॉम बाहर सो गया।
-Tom slept soundly.	Tom schlief fest.	टॉम सो गया।
-Tom smelled funny.	Tom roch komisch.	टॉम ने अजीब गंध की।
-Tom smelled smoke.	Tom hat Rauch gerochen.	टॉम ने धुएं को सूंघा।
-Tom smelled smoke.	Tom roch Rauch.	टॉम स्मोक स्मोक।
-Tom sneezed again.	Tom nieste wieder.	टॉम नीस्ट फिर से।
-Tom snores loudly.	Tom schnarcht laut.	टॉम ने जोर से स्नोर्स।
-Tom sold it to me.	Tom hat mir das verkauft.	टॉम ने मुझे बेच दिया।
-Tom sounded angry.	Tom klang verärgert.	टॉम नाराज लग रहा था।
-Tom sounded angry.	Tom hat verärgert geklungen.	टॉम नाराज हो गया है।
 Tom sounded happy.	Tom klang glücklich.	टॉम खुश लग रहा था।
 Tom sounded happy.	Tom hat glücklich geklungen.	टॉम खुशी से लग रहा था।
 Tom sounded tired.	Tom klang müde.	टॉम थक गया।
