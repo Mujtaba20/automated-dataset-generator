@@ -337,3 +337,10 @@ I'm bald.	Ich bin kahl.	मैं गंजा हूँ।
 I'm busy.	Ich bin beschäftigt.	मैं व्यस्त हूँ।
 I'm cool.	Ich bin cool.	मैं ठंडा हूँ।
 I'm deaf.	Ich bin taub.	मैं बहरा हूँ।
+I'm fair.	Ich bin gerecht.	मैं ईमानदार हूँ।
+I'm fine.	Es geht mir gut.	मैं स्वागत करता हूँ।
+I'm free.	Ich bin frei.	मैं मुक्त हूँ।
+I'm full.	Ich bin satt.	मैं पूरा हूँ।
+I'm game.	Ich bin bereit.	मैं खेलने के लिए तैयार हूँ।
+I'm good.	Mir geht's gut.	मैं अच्छा हूँ।
+I'm here.	Ich bin hier.	मैं यहाँ हूँ।
