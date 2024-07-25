@@ -9278,3 +9278,12 @@ I'm in the park.	Ich bin im Park.	मैं पार्क में हूँ�
 I'm just asking.	Ich frage nur.	मैं बस पूछ रहा हूँ।
 I'm leaving now.	Ich gehe jetzt.	मैं अब चला रहा हूँ।
 I'm left-handed.	Ich bin Linkshänder.	मैं बांया हाथी हूँ।
+I'm married now.	Ich bin jetzt verheiratet.	मैं अब शादीशुदा हूं।
+I'm my own boss.	Ich bin mein eigener Chef.	मैं अपने खुद का बॉस हूं।
+I'm nearsighted.	Ich bin kurzsichtig.	मुझे नजदीक देखने की समस्या है।
+I'm nervous now.	Ich bin jetzt nervös.	मैं अब घबराया हुआ हूं।
+I'm never there.	Ich bin nie da.	मैं कभी वहाँ नहीं हूं।
+I'm never wrong.	Ich liege nie falsch.	मैं कभी गलत नहीं होता।
+I'm new at this.	Ich bin neu darin.	मैं इसमें नया हूं।
+I'm new in town.	Ich bin neu in der Stadt.	मैं नगरी में नया हूं।
+I'm not a child.	Ich bin kein Kind.	मैं एक बच्चा नहीं हूं।
