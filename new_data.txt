@@ -15028,3 +15028,12 @@ We saw something.	Wir sahen etwas.	हमने कुछ देखा।
 We share a dream.	Wir teilen einen Traum.	हम एक सपना साझा करते हैं।
 We spoke briefly.	Wir sprachen kurz.	हमने संक्षेप में बातचीत की।
 We took Tom home.	Wir brachten Tom nach Hause.	हमने टॉम को घर ले जाया।
+We want a lawyer.	Wir wollen einen Anwalt.	हमें एक वकील चाहिए।
+We want to leave.	Wir wollen gehen.	हम जाना चाहते हैं।
+We want you here.	Wir wollen dich hier haben.	हम चाहते हैं कि आप यहाँ हों।
+We were clueless.	Wir waren ratlos.	हम बेराहम थे।
+We were mistaken.	Wir haben uns geirrt.	हम गलत थे।
+We were so close.	Wir waren so nah.	हम इतने करीब थे।
+We were so proud.	Wir waren so stolz.	हम इतने गर्वित थे।
+We were stranded.	Wir waren gestrandet.	हम फंसे रह गए थे।
+We were studying.	Wir haben studiert.	हम पढ़ाई कर रहे थे।
