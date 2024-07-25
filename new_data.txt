@@ -1853,3 +1853,9 @@ Is Tom tall?	Ist Tom groß?	क्या टॉम लम्बा है?
 Is Tom well?	Ist Tom gut?	क्या टॉम ठीक है?
 Is he right?	Hat er recht?	क्या वह सही है?
 Is it Tom's?	Ist es Toms?	क्या यह टॉम का है?
+Is it foggy?	Ist es neblig?	क्या यह धुंधला है?
+Is it legal?	Ist es erlaubt?	क्या यह वैध है?
+Is it tasty?	Schmeckt es?	क्या यह स्वादिष्ट है?
+Is it there?	Ist es da?	क्या वहाँ है?
+Is it to go?	Ist es zum Mitnehmen?	क्या यह लेजाने के लिए है?
+Is it white?	Ist es weiß?	क्या यह सफेद है?
