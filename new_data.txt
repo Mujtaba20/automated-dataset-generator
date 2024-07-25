@@ -7653,3 +7653,13 @@ Tom was ruined.	Tom wurde ruiniert.	टॉम का बरबाद हो ग�
 Tom was scared.	Tom hatte Angst.	टॉम डर गया था।
 Tom was second.	Tom war zweiter.	टॉम दूसरा था।
 Tom was sewing.	Tom nähte.	टॉम सिलाई कर रहा था।
+Tom was shaken.	Tom wurde erschüttert.	टॉम थरथराया था।
+Tom was silent.	Tom schwieg.	टॉम चुप था।
+Tom was skiing.	Tom war Ski fahren.	टॉम स्की कर रहा था।
+Tom was skinny.	Tom war dünn.	टॉम पतला था।
+Tom was sleepy.	Tom war schläfrig.	टॉम नींद में था।
+Tom was sneaky.	Tom war hinterlistig.	टॉम चालाक था।
+Tom was square.	Tom war eckig.	टॉम वर्ग का था।
+Tom was stoned.	Tom war bekifft.	टॉम नशे में था।
+Tom was strong.	Tom war stark.	टॉम मजबूत था।
+Tom was stupid.	Tom war dumm.	टॉम बेवकूफ था।
