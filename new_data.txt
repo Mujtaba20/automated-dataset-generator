@@ -16367,3 +16367,10 @@ I didn't order it.	Ich habe es nicht bestellt.	मैंने इसे नह�
 I didn't say that.	Das habe ich nicht gesagt.	मैंने यह नहीं कहा था।
 I didn't see that.	Ich habe das nicht gesehen.	मैंने वह नहीं देखा था।
 I didn't stop Tom.	Ich habe Tom nicht aufgehalten.	मैंने टॉम को नहीं रोका था।
+I didn't tell Tom.	Ich sagte es Tom nicht.	मैंने टॉम को नहीं बताया।
+I didn't touch it.	Ich habe es nicht angerührt.	मैंने इसे छूआ नहीं।
+I do all the work.	Ich mache die ganze Arbeit.	मैं सभी काम करता हूँ।
+I do my own taxes.	Ich mache meine eigenen Steuern.	मैं अपना टैक्स खुद करता हूँ।
+I do not feel sad.	Ich fühle mich nicht traurig.	मुझे उदास नहीं महसूस होता।
+I do realize that.	Ich erkenne das.	मैं इसे समझता हूँ।
+I do that for Tom.	Ich mache das für Tom.	मैं टॉम के लिए ऐसा करता हूँ।
