@@ -6690,3 +6690,7 @@ Kissing is fun.	Küssen macht Spaß.	चुंबन मजेदार है�
 Large or small?	Groß oder klein?	बड़ा या छोटा?
 Leave it alone.	Lass es in Ruhe.	इसे अकेले छोड़ दो।
 Leave it there.	Lass es dort.	वही छोड़ दो।
+Leave it to me.	Überlassen Sie es mir.	मुझ पर छोड़ दो।
+Leave it to us.	Überlassen Sie es uns.	हम पर छोड़ दो।
+Leave me alone!	Lass mich in Ruhe!	मुझे अकेले छोड़ दो!
+Leave me alone.	Lass mich in Ruhe.	मुझे अकेला छोड़ दो।
