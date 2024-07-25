@@ -8127,3 +8127,13 @@ Anybody will do.	Jeder wird es tun.	कोई भी चलेगा।
 Are drinks free?	Sind Getränke frei?	क्या पेय मुफ्त हैं?
 Are ghosts real?	Gibt es Geister?	क्या भूत होते हैं?
 Are my ears red?	Sind meine Ohren rot?	क्या मेरे कान लाल हैं?
+Are these Tom's?	Gehören diese Tom?	क्या ये टॉम के हैं?
+Are these yours?	Gehören diese dir?	क्या ये तुम्हारे हैं?
+Are those yours?	Gehören die dir?	क्या वे तुम्हारे हैं?
+Are we all here?	Sind wir alle hier?	क्या हम सब यहाँ हैं?
+Are we done yet?	Sind wir schon fertig?	क्या हमने अभी तक किया है?
+Are we prepared?	Sind wir vorbereitet?	क्या हम तैयार हैं?
+Are we safe now?	Sind wir jetzt sicher?	क्या हम अब सुरक्षित हैं?
+Are you OK, Tom?	Geht es dir gut, Tom?	क्या आप ठीक हैं, टॉम?
+Are you a ghost?	Bist du ein Geist?	क्या तुम एक भूत हो?
+Are you anxious?	Bist du ängstlich?	क्या आप चिंतित हैं?
