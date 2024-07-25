@@ -17436,3 +17436,12 @@ It's raining here.	Es regnet hier.	यहाँ बारिश हो रही
 It's really early.	Es ist wirklich früh.	यह सचमुच जल्दी है।
 It's really great.	Es ist wirklich toll.	यह सचमुच शानदार है।
 It's really windy.	Es ist wirklich windig.	यह सचमुच हवाई है।
+It's snowed a bit.	Es hat ein wenig geschneit.	थोड़ा सा बर्फ गिर गया है।
+It's snowing here.	Es schneit hier.	यहाँ बर्फ गिर रही है।
+It's so nice here.	Es ist hier so schön.	यहाँ बहुत अच्छा है।
+It's spring again.	Es ist wieder Frühling.	यह फिर से बसंत है।
+It's starting now.	Es beginnt jetzt.	अब शुरू हो रहा है।
+It's still Monday.	Es ist immer noch Montag.	अभी भी सोमवार है।
+It's still closed.	Es ist immer noch geschlossen.	अभी भी बंद है।
+It's still frozen.	Es ist immer noch gefroren.	अभी भी जमा हुआ है।
+It's still rising.	Es steigt immer noch.	अभी भी बढ़ता जा रहा है।
