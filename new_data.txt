@@ -9325,3 +9325,13 @@ I'm persevering.	Ich bin standhaft.	मैं पुरुषार्थी ह
 I'm pretty sure.	Ich bin ziemlich sicher.	मुझे पूरा विश्वास है।
 I'm quite happy.	Ich bin ziemlich glücklich.	मैं बहुत खुश हूँ।
 I'm quite happy. - Different Meaning	Ich bin ziemlich froh.	मैं बहुत ज्यादा खुश हूँ।
+I'm rather busy.	Ich bin ziemlich beschäftigt.	मैं काफी व्यस्त हूँ।
+I'm reading now.	Ich lese jetzt.	मैं अभी पढ़ रहा हूँ।
+I'm ready to go.	Ich bin bereit zu gehen.	मैं जाने के लिए तैयार हूँ।
+I'm really cold.	Mir ist wirklich kalt.	मुझे सचमुच ठंड लग रही है।
+I'm really fast.	Ich bin wirklich schnell.	मैं सचमुच तेज हूँ।
+I'm really rich.	Ich bin wirklich reich.	मैं सचमुच अमीर हूँ।
+I'm replaceable.	Ich bin ersetzbar.	मुझे बदला जा सकता है।
+I'm resting now.	Ich ruhe mich jetzt aus.	मैं अभी आराम कर रहा हूँ।
+I'm seldom late.	Ich komme selten zu spät.	मैं कम ही देर से आता हूँ।
+I'm seldom late. (Different Meaning)	Ich bin selten spät dran.	मैं बहुत कम देर से आता हूँ।
