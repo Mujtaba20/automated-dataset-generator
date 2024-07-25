@@ -13147,3 +13147,13 @@ It's a bad habit.	Es ist eine schlechte Angewohnheit.	यह एक बुरी
 It's a big world.	Es ist eine große Welt.	यह एक बड़ी दुनिया है।
 It's a done deal.	Es ist ein abgeschlossenes Geschäft.	यह एक की पूरी हो गई है।
 It's a dream job.	Es ist ein Traumjob.	यह एक सपना जॉब है।
+It's a full moon.	Es ist Vollmond.	यह पूर्णिमा है।
+It's a good book.	Es ist ein gutes Buch.	यह एक अच्छी किताब है।
+It's a good deal.	Es ist ein guter Deal.	यह एक अच्छा सौदा है।
+It's a good plan.	Es ist ein guter Plan.	यह एक अच्छा योजना है।
+It's a good rule.	Es ist eine gute Regel.	यह एक अच्छा नियम है।
+It's a great day.	Es ist ein toller Tag.	यह एक बढ़िया दिन है।
+It's a mad world.	Es ist eine verrückte Welt.	यह एक पागल दुनिया है।
+It's a rainy day.	Es ist ein regnerischer Tag.	यह एक बरसाती दिन है।
+It's a sunflower.	Es ist eine Sonnenblume.	यह सूरजमुखी है।
+It's a sunny day.	Es ist ein sonniger Tag.	यह एक धूपवाला दिन है।
