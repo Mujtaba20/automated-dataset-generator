@@ -2480,3 +2480,7 @@ Did you vote?	Hast du gewählt?	क्या आपने चुनाव मे
 Do I look OK?	Sehe ich in Ordnung aus?	क्या मैं सही लग रहा हूँ?
 Do it Monday.	Mach es am Montag.	इसे सोमवार को करो।
 Do it anyway.	Mach es sowieso.	फिर भी करो।
+Do it for me.	Mach es für mich.	मेरे लिए यह करो।
+Do something.	Mache etwas.	कुछ करो।
+Do they know?	Wissen sie?	क्या उन्हें पता है?
+Do you agree?	Stimmst du zu?	क्या आप सहमत हैं?
