@@ -11661,3 +11661,11 @@ Did you call Tom?	Hast du Tom angerufen?	क्या आपने टॉम क
 Did you enjoy it?	Hast du es genossen?	क्या आपने इसे मजा किया?
 Did you ever try?	Hast du es jemals versucht?	क्या आपने कभी कोशिश की है?
 Did you help Tom?	Hast du Tom geholfen?	क्या आपने टॉम की मदद की थी?
+Did you hire Tom?	Haben Sie Tom eingestellt?	क्या आपने टॉम को भर्ती किया?
+Did you kiss Tom?	Hast du Tom geküsst?	क्या आपने टॉम को चुम्मा दिया?
+Did you kiss Tom?_1	Hat Sie Tom geküsst?	क्या आपको टॉम ने चुम्मा दिया?
+Did you know him?	Kannten Sie ihn?	क्या आप उसे जानते थे?
+Did you know him?_1	Hattest du ihn erkannt?	क्या तुम उसे पहचानते थे?
+Did you like Tom?	Haben Sie Tom gemocht?	क्या आपको टॉम पसंद था?
+Did you love Tom?	Liebtest du Tom?	क्या तुम टॉम से प्यार करते थे?
+Did you love Tom?_1	Haben Sie Tom geliebt?	क्या आपने टॉम से प्यार किया था?
