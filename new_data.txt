@@ -8107,3 +8107,13 @@ You've done it!	Du hast es vollbracht!	तुमने यह कर लिय�
 You've hurt me.	Sie haben mich verletzt.	तुमने मुझे दुःख पहुँचाया है।
 Your time's up.	Deine Zeit ist abgelaufen.	तुम्हारा समय समाप्त हो गया है।
 Yours is worse.	Dein ist schlimmer.	तुम्हारा बुरा है।
+3 times 5 is 15.	3 mal 5 ist 15.	3 गुना 5 है 15।
+A boat capsized.	Ein Boot ist gekentert.	नाव पलट गई।
+A fish can swim.	Ein Fisch kann schwimmen.	एक मछली तैर सकती है।
+A horse bit Tom.	Ein Pferd biss Tom.	एक घोड़ा टॉम को काटा।
+A man must work.	Ein Mann muss arbeiten.	एक आदमी को काम करना चाहिए।
+A man must work. - Part 2	Ein Mann soll arbeiten.	एक आदमी को काम करना आवश्यक है।
+About what time?	Um welche Zeit?	किस समय के बारे में?
+All are present.	Alle sind anwesend.	सभी मौजूद हैं।
+All were silent.	Alle waren still.	सभी चुप थे।
+Am I alone here?	Bin ich allein hier?	क्या मैं यहाँ अकेला हूँ?
