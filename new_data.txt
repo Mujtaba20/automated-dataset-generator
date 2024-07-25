@@ -15179,3 +15179,4 @@ What is this for?	Wofür ist das?	यह किसके लिए है?
 What month is it?	Welcher Monat ist es?	यह कौनसा महीना है?
 What shall we do?	Was sollen wir tun?	हमें क्या करना चाहिए?
 What should I do?	Was soll ich tun?	मैं क्या करूँ?
+engSentence		
