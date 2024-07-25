@@ -1264,3 +1264,9 @@ Tom cheats.	Tom mogelt.	टॉम धोखा देता है।
 Tom cursed.	Tom fluchte.	टॉम ने शाप दिया।
 Tom danced.	Tom tanzte.	टॉम नाचा।
 Tom dances.	Tom tanzt.	टॉम नृत्य करता है।
+Tom did it.	Tom hat es getan.	टॉम ने यह किया।
+Tom drinks.	Tom trinkt.	टॉम पीता है।
+Tom drives.	Tom lenkt.	टॉम गाड़ी चलाता है।
+Tom failed.	Tom hat versagt.	टॉम नाकाम हुआ।
+Tom forgot.	Tom vergaß.	टॉम भूल गया।
+Tom fought.	Tom kämpfte.	टॉम लड़ा।
