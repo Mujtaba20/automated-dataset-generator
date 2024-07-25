@@ -12344,3 +12344,10 @@ I feel powerless.	Ich fühle mich machtlos.	मैं बेबास महस�
 I feel protected.	Ich fühle mich geschützt.	मुझे सुरक्षित महसूस हो रहा है।
 I feel refreshed.	Ich fühle mich erfrischt.	मुझे ताजगी मिल रही है।
 I feel safe here.	Hier fühle ich mich sicher.	यहाँ मुझे सुरक्षित महसूस होता है।
+I feel so lonely.	Ich fühle mich so einsam.	मुझे इतना अकेलापन महसूस हो रहा है।
+I feel something.	Ich spüre etwas.	मुझे कुछ महसूस हो रहा है।
+I feel very cold.	Mir ist sehr kalt.	मुझे बहुत ठंड लग रही है।
+I feel very good.	Ich bin sehr glücklich.	मैं बहुत खुश हूँ।
+I feel very sick.	Ich fühle mich sehr krank.	मुझे बहुत बीमार लग रहा है।
+I feel your pain.	Ich fühle deinen Schmerz.	मुझे तुम्हारा दर्द महसूस हो रहा है।
+I felt powerless.	Ich fühlte mich machtlos.	मुझे अशक्त महसूस हुआ।
