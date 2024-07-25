@@ -11140,3 +11140,12 @@ We're in danger.	Wir sind in Gefahr.	हमें खतरा है।
 We're intrigued.	Wir sind fasziniert.	हम आकर्षित हैं।
 We're listening.	Wir hören zu.	हम सुन रहे हैं।
 We're neighbors.	Wir sind Nachbarn.	हम पड़ोसी हैं।
+We're newlyweds.	Wir sind frisch verheiratet.	हम नवविवाहित हैं।
+We're not alone.	Wir sind nicht allein.	हम अकेले नहीं हैं।
+We're not crazy.	Wir sind nicht verrückt.	हम पागल नहीं हैं।
+We're not going.	Wir gehen nicht.	हम नहीं जा रहे हैं।
+We're not happy.	Wir sind nicht glücklich.	हम खुश नहीं हैं।
+We're now alone.	Jetzt sind wir allein.	अब हम अकेले हैं।
+We're objective.	Wir sind objektiv.	हम वस्तुनिष्ठ हैं।
+We're optimists.	Wir sind Optimisten.	हम आशावादी हैं।
+We're plastered.	Wir sind verputzt.	हम प्लेस्टर किये गए हैं।
