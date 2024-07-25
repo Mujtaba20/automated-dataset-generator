@@ -9446,3 +9446,10 @@ Isn't that mine?	Ist das nicht meins?	क्या वह मेरा नही
 Isn't that ours?	Ist das nicht unser?	क्या वह हमारा नहीं है?
 It blew my mind.	Es hat mich umgehauen.	यह मेरे दिमाग को हिला दिया।
 It can't be Tom.	Es kann nicht Tom sein.	यह टॉम नहीं हो सकता।
+It could be Tom.	Vielleicht ist es Tom.	यह टॉम हो सकता है।
+It didn't break.	Es hat nicht gebrochen.	यह टूटा नहीं।
+It doesn't hurt.	Es schmerzt nicht.	यह दर्द नहीं होता।
+It doesn't work.	Es funktioniert nicht.	यह काम नहीं करता।
+It has happened.	Es ist passiert.	यह हो गया है।
+It has to be me.	Es muss ich sein.	यह मुझे ही होना चाहिए।
+It is necessary.	Es ist notwendig.	यह आवश्यक है।
