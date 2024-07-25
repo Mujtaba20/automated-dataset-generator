@@ -12992,3 +12992,12 @@ I've got secrets.	Ich habe Geheimnisse.	मेरे पास राज है�
 I've got to know.	Ich muss es wissen.	मुझे जानना है।
 I've heard worse.	Ich habe Schlimmeres gehört.	मैंने और बुरा सुना है।
 I've lied to Tom.	Ich habe Tom angelogen.	मैंने टॉम को झूठ बोला है।
+I've located Tom.	Ich habe Tom ausfindig gemacht.	मैंने टॉम का पता लगाया है।
+I've lost my bag.	Ich habe meine Tasche verloren.	मेरा बैग खो गया है।
+I've never tried.	Ich habe es noch nie versucht.	मैंने कभी नहीं कोशिश की है।
+I've seen enough.	Ich habe genug gesehen.	मैंने पर्याप्त देख लिया है।
+I've seen things.	Ich habe Dinge gesehen.	मैंने चीज़ें देखी हैं।
+Is Tom a suspect?	Ist Tom ein Verdächtiger?	क्या टॉम संदेहयोग्य है?
+Is Tom a teacher?	Ist Tom ein Lehrer?	क्या टॉम एक शिक्षक है?
+Is Tom all right?	Geht es Tom gut?	क्या टॉम ठीक है?
+Is Tom alone now?	Ist Tom jetzt allein?	क्या टॉम अब अकेला है?
