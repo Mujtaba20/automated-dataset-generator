@@ -12829,3 +12829,10 @@ I'm a doctor now.	Ich bin jetzt Arzt.	मैं अब डॉक्टर हू
 I'm a hockey fan.	Ich bin ein Eishockey-Fan.	मैं हॉकी प्रेमी हूं।
 I'm a journalist.	Ich bin Journalist.	मैं पत्रकार हूं।
 I'm a late riser.	Ich bin ein Langschläfer.	मैं देर से उठने वाला हूं।
+I'm a little shy.	Ich bin ein bisschen schüchtern.	मैं थोड़ा शर्मीला हूँ।
+I'm a lot better.	Mir geht es viel besser.	मुझे काफी बेहतर महसूस हो रहा है।
+I'm a politician.	Ich bin Politiker.	मैं राजनेता हूँ।
+I'm a shopkeeper.	Ich bin ein Ladenbesitzer.	मैं एक दुकानदार हूँ।
+I'm a shutterbug.	Ich bin ein Hobbyfotograf.	मैं एक फोटोग्राफी प्रेमी हूँ।
+I'm a single mom.	Ich bin eine alleinerziehende Mutter.	मैं एक एकल माँ हूँ।
+I'm a tour guide.	Ich bin Reiseführer.	मैं एक यात्रा मार्गदर्शक हूँ।
