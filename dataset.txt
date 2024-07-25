@@ -1,14 +1,4 @@
 
-Why did I do that?	Warum habe ich das getan?	मैंने ऐसा क्यों किया?
-Why did I do this?	Warum habe ich das getan?	मैंने ऐसा क्यों किया?
-Why did I get a C?	Warum habe ich eine Drei bekommen?	मुझे तीन क्यों मिले?
-Why did I get a C?	Warum habe ich ein „befriedigend“ bekommen?	"मुझे ""संतोषजनक"" क्यों मिला?"
-Why did I get a D?	Warum habe ich eine Vier bekommen?	मुझे चार क्यों मिले?
-Why did I get a D?	Warum habe ich ein „ausreichend“ bekommen?	"मुझे ""पर्याप्त"" क्यों मिला?"
-Why did Tom do it?	Warum hat Tom das getan?	टॉम ने ऐसा क्यों किया?
-Why did you leave?	Warum bist du gegangen?	तुम क्यों चले गए?
-Why did you leave?	Warum seid ihr gegangen?	तुम क्यों चले गए?
-Why did you leave?	Warum sind Sie gegangen?	तुम क्यों चले गए?
 Why do people die?	Warum sterben die Menschen?	लोग क्यों मरते हैं?
 Why do people lie?	Warum lügen Menschen?	लोग क्यों झूठ बोल रहे हैं?
 Why do they do it?	Warum machen sie das?	आप ऐसा क्यों कर रहे हों?

@@ -19932,3 +19932,9 @@ Why are you angry?	Warum bist du wütend?	तुम गुस्से में
 Why are you broke?	Warum bist du pleite?	तुम दिनदहाड़े क्यों हो?
 Why are you going?	Warum gehst du?	तुम कहाँ जा रहे हो?
 Why are you lying?	Warum lügst du?	तुम क्यों झूठ बोल रहे हो?
+Why did I do that?	Warum habe ich das getan?	मैंने ऐसा क्यों किया?
+Why did I do this?	Warum habe ich das gemacht?	मैंने यह क्यों किया?
+Why did I get a C?	Warum habe ich ein C bekommen?	मुझे C क्यों मिला?
+Why did I get a D?	Warum habe ich ein D bekommen?	मुझे D क्यों मिला?
+Why did Tom do it?	Warum hat Tom das gemacht?	टॉम ने ऐसा क्यों किया?
+Why did you leave?	Warum bist du gegangen?	तुम क्यों चले गए?
