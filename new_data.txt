@@ -17183,3 +17183,11 @@ I've been tricked.	Ich wurde hereingelegt.	मेरे साथ धोखा �
 I've been working.	Ich habe gearbeitet.	मैं काम कर रहा हूँ।
 I've bought a car.	Ich habe ein Auto gekauft.	मैंने एक कार ख़रीदी है।
 I've called twice.	Ich habe zweimal angerufen.	मैंने दो बार कॉल की है।
+I've come for Tom.	Ich bin gekommen, um nach Tom zu sehen.	मैं टॉम के लिए आया हूँ।
+I've done nothing.	Ich habe nichts gemacht.	मैंने कुछ नहीं किया है।
+I've eaten enough.	Ich habe genug gegessen.	मैंने पर्याप्त खाया है।
+I've got a secret.	Ich habe ein Geheimnis.	मेरे पास एक रहस्य है।
+I've got evidence.	Ich habe Beweise.	मेरे पास सबूत है।
+I've got the keys.	Ich habe die Schlüssel.	मेरे पास चाबियाँ हैं।
+I've heard of you.	Ich habe über dich gehört.	मैंने तुम्हारे बारे में सुना है।
+I've just arrived.	Ich bin gerade angekommen.	मैं अभी आया हूँ।
