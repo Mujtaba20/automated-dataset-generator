@@ -3610,3 +3610,10 @@ What a woman!	Was für eine Frau!	कौन सी महिला!
 What is love?	Was ist Liebe?	प्यार क्या है?
 What is that?	Was ist das?	वह क्या है?
 What is this?	Was ist das?	यह क्या है?
+What's on TV?	Was läuft im Fernsehen?	टीवी पर क्या है?
+What's wrong?	Was ist los?	क्या गलत है?
+Where are we?	Wo sind wir?	हम कहाँ हैं?
+Where is Tom?	Wo ist Tom?	टॉम कहाँ है?
+Who are they?	Wer sind sie?	वे कौन हैं?
+Who built it?	Wer hat es gebaut?	इसे कौन निर्माण किया?
+Who canceled?	Wer hat abgesagt?	किसने रद्द किया?
