@@ -12523,3 +12523,11 @@ I live on a boat.	Ich lebe auf einem Boot.	मैं नाव पर रहत�
 I live on a farm.	Ich lebe auf einem Bauernhof.	मैं एक खेत में रहता हूँ।
 I look after Tom.	Ich kümmere mich um Tom.	मैं टॉम की देखभाल करता हूँ।
 I look up to you.	Ich schaue zu dir auf.	मैं आपकी ओर देखता हूँ।
+I looked for Tom.	Ich suchte nach Tom.	मैंने टॉम की तलाश की।
+I lost 30 pounds.	Ich habe 30 Pfund verloren.	मैंने 30 पाउंड खो दिए।
+I lost my camera.	Ich habe meine Kamera verloren.	मुझसे मेरी कैमरा खो गई।
+I lost my wallet.	Ich habe mein Portemonnaie verloren.	मैंने अपना बटुआ खो दिया।
+I lost the watch.	Ich habe die Armbanduhr verloren.	मैंने घड़ी खो दी।
+I love Australia.	Ich liebe Australien.	मुझे ऑस्ट्रेलिया पसंद है।
+I love Christmas.	Ich liebe Weihnachten.	मुझे क्रिसमस पसंद है।
+I love Halloween.	Ich liebe Halloween.	मुझे हैलोवीन की पसंद है।
