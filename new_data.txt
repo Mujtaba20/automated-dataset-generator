@@ -18054,3 +18054,13 @@ The room is empty.	Das Zimmer ist leer.	कमरा खाली है।
 The room was cold.	Das Zimmer war kalt.	कमरा सर्द था।
 The room was dark.	Das Zimmer war dunkel.	कमरा अंधेरा था।
 The room was warm.	Das Zimmer war warm.	कमरा गर्म था।
+The sand was warm.	Der Sand war warm.	रेत गर्म थी।
+The ship set sail.	Das Schiff stach in See.	जहाज लेहराया।
+The snow is great.	Der Schnee ist großartig.	बर्फ बहुत अच्छी है।
+The soldiers died.	Die Soldaten sind gestorben.	सैनिक मर गए।
+The soup is thick.	Die Suppe ist dick.	सूप गाढ़ा है।
+The store is open.	Das Geschäft ist offen.	दुकान खुली है।
+The street is icy.	Die Straße ist vereist.	सड़क बर्फीली है।
+The street is lit.	Die Straße ist beleuchtet.	सड़क रोशनी से भरी हुई है।
+The sun is a star.	Die Sonne ist ein Stern.	सूरज एक तारा है।
+The sun is bright.	Die Sonne scheint hell.	सूरज उज्ज्वल है।

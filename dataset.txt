@@ -1,14 +1,4 @@
 
-The sand was warm.	Der Sand war warm.	रेत गर्म थी।
-The ship set sail.	Das Schiff legte ab.	जहाज ने उड़ान भरी।
-The snow is great.	Der Schnee ist phantastisch.	बर्फ शानदार है।
-The soldiers died.	Die Soldaten starben.	सैनिकों की मृत्यु हो गई।
-The soup is thick.	Die Suppe ist dick.	सूप मोटा है।
-The store is open.	Das Geschäft ist offen.	व्यवसाय खुला है।
-The street is icy.	Es gibt Glatteis auf der Straße.	सड़क पर काली बर्फ है।
-The street is lit.	Die Straße ist beleuchtet.	सड़क रोशन है।
-The sun is a star.	Die Sonne ist ein Stern.	सूरज एक तारा है।
-The sun is bright.	Die Sonne strahlt.	सूरज चमक रहा है।
 The sun is rising.	Die Sonne geht auf.	सूर्य उदय होता है।
 The switch is off.	Der Schalter ist ausgeschaltet.	स्विच बंद हो गया है।
 The tactic worked.	Die Taktik ging auf.	रणनीति खुल गई।
