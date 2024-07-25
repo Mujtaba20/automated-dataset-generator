@@ -12779,3 +12779,13 @@ I'll be watching.	Ich werde beobachten.	मैं देख रहा होऊ�
 I'll be with Tom.	Ich werde bei Tom sein.	मैं टॉम के साथ होऊंगा।
 I'll be with you.	Ich werde bei dir sein.	मैं तुम्हारे साथ होऊंगा।
 I'll come by car.	Ich werde mit dem Auto kommen.	मैं कार से आूंगा।
+I'll do anything.	Ich werde alles tun.	मैं हर कुछ कर दूंगा।
+I'll do it again.	Ich werde es wieder tun.	मैं इसे फिर से करूंगा।
+I'll do it later.	Ich werde es später tun.	मैं यह बाद में करूंगा।
+I'll forgive Tom.	Ich werde Tom vergeben.	मैं टॉम क्षमा करूंगा।
+I'll forgive Tom. (Different meaning)	Ich werde Tom verzeihen.	मैं टॉम को माफ कर दूंगा।
+I'll go get that.	Ich werde das holen gehen.	मैं वह लेने जाऊँगा।
+I'll go in first.	Ich gehe zuerst rein.	मैं पहले अंदर जा रहा हूँ।
+I'll go in first. (Different meaning)	Ich werde zuerst hineingehen.	मैं पहले ही अंदर जाऊँगा।
+I'll go in first. (Different meaning 2)	Ich gehe als Erster rein.	मैं पहले ही अंदर जा रहा हूँ।
+I'll go on ahead.	Ich werde vorausgehen.	मैं आगे जाऊँगा।
