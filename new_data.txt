@@ -2173,3 +2173,10 @@ Tom told me.	Tom hat mir gesagt.	टॉम ने मुझे बताया�
 Tom told us.	Tom hat uns erzählt.	टॉम ने हमें बताया।
 Tom took it.	Tom hat es genommen.	टॉम ने इसे लिया।
 Tom tripped.	Tom fiel hin.	टॉम ट्रिप हो गया।
+Tom vomited.	Tom hat erbrochen.	टॉम उल्टी किया।
+Tom was hot.	Tom war heiß.	टॉम को जलन हो रही थी।
+Tom was mad.	Tom war verrückt.	टॉम नाराज़ था।
+Tom was old.	Tom war alt.	टॉम बूढ़ा था।
+Tom was out.	Tom war draußen.	टॉम बाहर था।
+Tom was sad.	Tom war betrübt.	टॉम दुखी था।
+Tom was shy.	Tom war schüchtern.	टॉम शर्मीला था।
