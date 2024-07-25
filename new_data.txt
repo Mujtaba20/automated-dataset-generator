@@ -6867,3 +6867,11 @@ She is talking.	Sie spricht.	वह बात कर रही है।
 She is walking.	Sie geht.	वह चल रही है।
 She isn't poor.	Sie ist nicht arm.	वह गरीब नहीं है।
 She kept quiet.	Sie schwieg.	उसने चुपचाप रहा।
+She kicked him.	Sie hat ihn getreten.	उसने उसे धक्का मारा।
+She kissed him.	Sie hat ihn geküsst.	उसने उसे चुम्बकारी की।
+She liked that.	Das hat ihr gefallen.	उसे वह अच्छा लगा।
+She likes wine.	Sie mag Wein.	उसे वाइन पसंद है।
+She looked sad.	Sie wirkte traurig.	उसने उदास दिखाई।
+She loves cake.	Sie liebt Kuchen.	उसे केक पसंद है।
+She loves cats.	Sie liebt Katzen.	उसे बिल्लियां पसंद हैं।
+She might come.	Sie könnte kommen.	वह आ सकती है।
