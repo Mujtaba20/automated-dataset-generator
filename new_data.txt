@@ -13104,3 +13104,11 @@ It matters to me.	Es ist mir wichtig.	यह मेरे लिए मायन
 It matters to us.	Es ist uns wichtig.	यह हमारे लिए महत्वपूर्ण है।
 It needs washing.	Es muss gewaschen werden.	इसे धोने की आवश्यकता है।
 It needs washing. (Different meaning)	Es benötigt eine Reinigung.	इसको साफ करने की आवश्यकता है।
+It never existed.	Es hat nie existiert.	यह कभी नहीं था।
+It seemed normal.	Es schien normal.	यह सामान्य लगा।
+It seems strange.	Es scheint seltsam.	यह अजीब लगता है।
+It should be fun.	Es sollte Spaß machen.	यह मज़ेदार होना चाहिए।
+It sounds simple.	Es klingt einfach.	यह सरल लगता है।
+It still happens.	Es passiert immer noch.	यह अभी भी होता है।
+It takes courage.	Es braucht Mut.	साहस चाहिए।
+It took too long.	Es dauerte zu lange.	यह बहुत अधिक समय लिया।
