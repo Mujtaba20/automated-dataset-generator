@@ -15562,3 +15562,9 @@ Aren't you afraid?	Hast du keine Angst?	क्या तुम्हें ड�
 Aren't you coming?	Kommst du nicht?	क्या तुम नहीं आ रहे हो?
 Aren't you hungry?	Bist du nicht hungrig?	क्या तुम्हें भूख नहीं लगी?
 Aren't you scared?	Hast du keine Angst?	क्या तुम्हें डर नहीं लगता?
+Ask the policeman.	Fragen Sie den Polizisten.	पुलिसवाले से पूछो।
+Ask your question.	Stellen Sie Ihre Frage.	अपना सवाल पूछें।
+Avoid bad company.	Meide schlechte Gesellschaft.	बुरी कंपनी से बचें।
+Be kind to others.	Sei nett zu anderen.	दूसरों के प्रति दयालु बनो।
+Be nice to others.	Sei nett zu anderen.	दूसरों के साथ अच्छा व्यवहार करो।
+Be quick about it.	Mach es schnell.	इसके बारे में जल्दी करो।
