@@ -1,14 +1,4 @@
 
-Who did Tom marry?	Wen hat Tom geheiratet?	टॉम से किसने शादी की?
-Who gave you that?	Wer hat dir das gegeben?	आपको किसने दिया?
-Who gave you that?	Wer hat euch das gegeben?	आपको किसने दिया?
-Who gave you that?	Wer hat Ihnen das gegeben?	उन्हें किसने दिया?
-Who gave you this?	Wer hat dir das gegeben?	आपको किसने दिया?
-Who gave you this?	Wer hat euch das gegeben?	आपको किसने दिया?
-Who gave you this?	Wer hat Ihnen das gegeben?	उन्हें किसने दिया?
-Who invented that?	Wer hat das erfunden?	किसने आविष्कार किया?
-Who is that woman?	Wer ist diese Frau?	यह महिला कौन है?
-Who is the father?	Wer ist der Vater?	पिता कौन है?
 Who is this woman?	Wer ist diese Frau?	यह महिला कौन है?
 Who likes insects?	Wer mag Insekten?	कीटों को कौन पसंद करता है?
 Who made this box?	Wer hat diese Kiste hergestellt?	यह बॉक्स किसने बनाया?

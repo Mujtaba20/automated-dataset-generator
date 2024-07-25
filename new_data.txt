@@ -19889,3 +19889,9 @@ Who broke the cup?	Wer hat die Tasse zerbrochen?	कौनने कप तो�
 Who can you trust?	Wem kannst du vertrauen?	तुम किस पर भरोसा कर सकते हो?
 Who cut the bread?	Wer hat das Brot geschnitten?	रोटी कौन काटा?
 Who cut your hair?	Wer hat dir die Haare geschnitten?	तुम्हारे बाल किसने काटे?
+Who did Tom marry?	Wen hat Tom geheiratet?	टॉम ने किससे शादी की?
+Who gave you that?	Wer hat dir das gegeben?	तुम्हें आज किसने दिया?
+Who gave you this?	Wer hat dir das gegeben?	तुम्हें यह किसने दिया?
+Who invented that?	Wer hat das erfunden?	उसे कौन बनाया?
+Who is that woman?	Wer ist diese Frau?	वह औरत कौन है?
+Who is the father?	Wer ist der Vater?	बाप कौन है?
