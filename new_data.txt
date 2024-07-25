@@ -3260,3 +3260,13 @@ They're fine.	Es geht ihnen gut.	उन्हें ठीक है।
 They're free.	Sie sind frei.	वे निःशुल्क हैं।
 They're gone.	Sie sind weg.	वे गए हुए हैं।
 They're gone. [Different Meaning]	Sie sind erledigt.	वे चले गए।
+They're good.	Sie sind gut.	वे अच्छे हैं।
+They're home.	Sie sind zu Hause.	वे घर पर हैं।
+They're kids.	Sie sind Kinder.	वे बच्चे हैं।
+They're lost.	Sie sind verloren.	वे खो गए हैं।
+They're mine.	Sie gehören mir.	वे मेरे हैं।
+They're rich.	Sie sind reich.	वे धनवान हैं।
+They're ugly.	Sie sind hässlich.	वे बदसूरत हैं।
+They've gone.	Sie sind gegangen.	वे चले गए हैं।
+Things break.	Dinge brechen.	चीजें टूटती हैं।
+This is easy.	Das ist einfach.	यह आसान है।
