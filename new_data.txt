@@ -4864,3 +4864,11 @@ That's unfair.	Das ist unfair.	यह अन्यायपूर्ण है�
 The bell rang.	Die Glocke läutete.	घंटी बजी।
 The cup broke.	Die Tasse brach.	कप टूट गया।
 The girls won.	Die Mädchen haben gewonnen.	लड़कियां जीत गईं।
+There is hope.		
+There is more.		
+There you are.		
+These are new.		
+They all knew.		
+They are busy.		
+They canceled.		
+They found it.		
