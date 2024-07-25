@@ -1,14 +1,4 @@
 
-Tom seems nervous.	Tom scheint nervös zu sein.	टॉम नर्वस लगता है।
-Tom seems pleased.	Tom scheint zufrieden zu sein.	टॉम संतुष्ट लगता है।
-Tom seems puzzled.	Tom scheint verdutzt zu sein.	टॉम हैरान हो रहा है।
-Tom seems relaxed.	Tom scheint entspannt zu sein.	टॉम को आराम लगता है।
-Tom seems serious.	Es scheint Tom ernst zu sein.	टॉम गंभीर लगता है।
-Tom seems shocked.	Tom scheint schockiert.	टॉम हैरान लगता है।
-Tom seems sincere.	Tom scheint aufrichtig zu sein.	टॉम ईमानदार लगता है।
-Tom seems stunned.	Tom scheint verblüfft zu sein.	टॉम चकित हो रहा है।
-Tom seems touched.	Tom scheint gerührt zu sein.	टॉम को छुआ लग रहा है।
-Tom seems unhappy.	Tom scheint unglücklich zu sein.	टॉम दुखी लगता है।
 Tom seems unlucky.	Tom sieht unglücklich aus.	टॉम दुखी दिखता है।
 Tom seems unusual.	Tom scheint ungewöhnlich zu sein.	टॉम असामान्य लगता है।
 Tom seems unusual.	Tom scheint anders als sonst zu sein.	टॉम सामान्य से अलग लगता है।

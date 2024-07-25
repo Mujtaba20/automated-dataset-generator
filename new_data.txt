@@ -19140,3 +19140,13 @@ Tom seems anxious. (different meaning 2)	Tom wirkt nervös.	टॉम घबर�
 Tom seems excited.	Tom scheint aufgeregt zu sein.	टॉम उत्साहित लग रहा है।
 Tom seems excited. (different meaning)	Tom wirkt begeistert.	टॉम उत्सुक लग रहा है।
 Tom seems jealous.	Tom scheint eifersüchtig zu sein.	टॉम जलन लग रहा है।
+Tom seems nervous.	Tom scheint nervös zu sein.	टॉम चिंतित लग रहा है।
+Tom seems pleased.	Tom scheint erfreut zu sein.	टॉम खुश लग रहा है।
+Tom seems puzzled.	Tom scheint verwirrt zu sein.	टॉम हैरान लग रहा है।
+Tom seems relaxed.	Tom wirkt entspannt.	टॉम आराम से लग रहा है।
+Tom seems serious.	Tom wirkt ernst.	टॉम गंभीर लग रहा है।
+Tom seems shocked.	Tom scheint schockiert zu sein.	टॉम हैरान है।
+Tom seems sincere.	Tom wirkt aufrichtig.	टॉम ईमानदार लग रहा है।
+Tom seems stunned.	Tom scheint benommen zu sein.	टॉम चौंका हुआ लग रहा है।
+Tom seems touched.	Tom scheint berührt zu sein.	टॉम स्पर्शित लग रहा है।
+Tom seems unhappy.	Tom scheint unglücklich zu sein.	टॉम अखबार लग रहा है।
