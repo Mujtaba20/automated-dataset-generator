@@ -16266,3 +16266,10 @@ I ate a hamburger.	Ich habe einen Hamburger gegessen.	मैंने एक ह
 I ate some cheese.	Ich aß etwas Käse.	मैंने कुछ पनीर खाया।
 I barely knew Tom.	Ich kannte Tom kaum.	मुझे टॉम से मुख्य रूप से पता था।
 I barely know Tom.	Ich kenne Tom kaum.	मैं टॉम को मुख्य रूप से नहीं जानता।
+I barely know you.	Ich kenne dich kaum.	मुझे तुम्हें ठीक से पहचानना ममूल है।
+I bathe every day.	Ich dusche jeden Tag.	मैं रोज स्नान करता हूँ।
+I became very ill.	Ich wurde sehr krank.	मैं बहुत बीमार हो गया।
+I believed in Tom.	Ich glaubte an Tom.	मैंने टॉम में विश्वास किया।
+I bolted the door.	Ich schloss die Türriegel.	मैंने दरवाजे को बोल्ट कर दिया।
+I bought a VW bus.	Ich erwarb einen VW-Bus.	मैंने एक VW बस खरीदी।
+I bought a cactus.	Ich kaufte einen Kaktus.	मैंने एक कैक्टस खरीद लिया।
