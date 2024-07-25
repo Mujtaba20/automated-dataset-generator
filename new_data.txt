@@ -8137,3 +8137,10 @@ Are we safe now?	Sind wir jetzt sicher?	क्या हम अब सुरक�
 Are you OK, Tom?	Geht es dir gut, Tom?	क्या आप ठीक हैं, टॉम?
 Are you a ghost?	Bist du ein Geist?	क्या तुम एक भूत हो?
 Are you anxious?	Bist du ängstlich?	क्या आप चिंतित हैं?
+Are you at home?	Bist du zu Hause?	क्या तुम घर पर हो?
+Are you certain?	Bist du sicher?	क्या तुम निश्चित हो?
+Are you content?	Bist du zufrieden?	क्या तुम संतुष्ट हो?
+Are you correct?	Hast du recht?	क्या आप सही हो?
+Are you curious?	Bist du neugierig?	क्या तुम उत्सुक हो?
+Are you doctors?	Seid ihr Ärzte?	क्या तुम डॉक्टर हो?
+Are you envious?	Bist du neidisch?	क्या तुम ईर्ष्याशील हो?
