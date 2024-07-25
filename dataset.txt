@@ -1,15 +1,4 @@
 
-Tell me your name.	Nenne mir deinen Namen.	मेरे नाम का नाम।
-Tell me your plan.	Sag mir, was dein Plan ist.	मुझे बताओ कि आपकी योजना क्या है।
-Tell me your plan.	Sagen Sie mir, was Ihr Plan ist.	मुझे बताओ कि आपकी योजना क्या है।
-Tell us something.	Erzähl uns was.	हमें कुछ बताओ।
-Tell us something.	Erzählen Sie uns was.	हमें कुछ बताओ।
-Tell us the truth.	Sag uns die Wahrheit!	हमें सच बताओ!
-Tell us the truth.	Sagt uns die Wahrheit!	हमें सच बताओ!
-Tell us the truth.	Sagen Sie uns die Wahrheit!	हमें सच बताओ!
-Tell your friends.	Gib deinen Freunden Bescheid.	अपने दोस्तों को बताएं।
-Tell your friends.	Geben Sie Ihren Freunden Bescheid.	अपने दोस्तों को बताएं।
-Tell your friends.	Gebt euren Freunden Bescheid.	अपने दोस्तों को बताएं।
 Termites eat wood.	Termiten essen Holz.	टर्मिटन लकड़ी खाएं।
 Thank you so much.	Ich danke dir von Herzen.	मैं तहेदिल से आपका शुक्रिया अदा करता हूं।
 Thanks a lot, Tom.	Vielen Dank, Tom.	धन्यवाद, टॉम।

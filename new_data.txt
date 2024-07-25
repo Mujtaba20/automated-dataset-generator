@@ -17875,3 +17875,8 @@ Tell Tom yourself.	Sag es Tom selbst.	खुद टॉम से कहो।
 Tell me about Tom.	Berichte mir über Tom.	मुझे टॉम के बारे में बताएं।
 Tell me the story.	Erzähl mir die Geschichte.	मुझे कहानी सुनाओ।
 Tell me the truth.	Sagen Sie mir die Wahrheit.	मुझे सच बताएं।
+Tell me your name.	Sag mir deinen Namen.	मुझे अपना नाम बताओ।
+Tell me your plan.	Sag mir deinen Plan.	मुझे अपनी योजना बताओ।
+Tell us something.	Erzähl uns etwas.	हमें कुछ बताओ।
+Tell us the truth.	Sag uns die Wahrheit.	हमें सच बताओ।
+Tell your friends.	Erzähle es deinen Freunden.	अपने दोस्तों को बताओ।
