@@ -16686,3 +16686,13 @@ I love this album.	Ich liebe dieses Album.	मुझे यह एल्बम �
 I love this chair.	Ich liebe diesen Stuhl.	मुझे यह कुर्सी पसंद है।
 I love this photo.	Ich liebe dieses Foto.	मुझे यह फोटो पसंद है।
 I love this store.	Ich liebe diesen Laden.	मुझे यह स्टोर पसंद है।
+I love this video.	Ich liebe dieses Video.	मुझे यह वीडियो पसंद है।
+I love to bargain.	Ich liebe es zu handeln.	मुझे सौदा करना पसंद है।
+I love you anyway.	Ich liebe dich sowieso.	मुझे तुम्हारी वैसे भी पसंद है।
+I love you people.	Ich liebe euch Leute.	मुझे तुम लोगों से प्यार है।
+I love your voice.	Ich liebe deine Stimme.	मुझे तुम्हारी आवाज़ पसंद है।
+I love your voice. 	Ich mag deine Stimme gern.	मुझे तुम्हारी आवाज पसंद है।
+I loved that book.	Ich liebte dieses Buch.	मुझे वह किताब पसंद थी।
+I loved that show.	Ich mochte diese Show gerne.	मुझे वो शो पसंद था।
+I made a decision.	Ich habe eine Entscheidung getroffen.	मैंने एक निर्णय लिया।
+I made fun of him.	Ich habe mich über ihn lustig gemacht.	मैंने उसका मज़ाक उड़ाया।
