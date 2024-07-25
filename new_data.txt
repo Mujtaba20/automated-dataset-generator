@@ -2438,3 +2438,7 @@ Can Tom cook?	Kann Tom kochen?	क्या टॉम पकाने में 
 Can Tom walk?	Kann Tom laufen?	क्या टॉम चल सकता है?
 Can you come?	Kannst du kommen?	क्या आप आ सकते हैं?
 Can you cook?	Kannst du kochen?	क्या तुम पका सकते हो?
+Can you help?	Kannst du helfen?	क्या आप सहायता दे सकते हैं?
+Can you move?	Kannst du dich bewegen?	क्या आप चल सकते हैं?
+Can you read?	Kannst du lesen?	क्या आप पढ़ने का शौक रखते हैं?
+Can you swim?	Kannst du schwimmen?	क्या आप स्विमिंग कर सकते हैं?
