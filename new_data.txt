@@ -17058,3 +17058,12 @@ I'm an only child.	Ich bin ein Einzelkind.	मैं एक एकमात्�
 I'm as old as Tom.	Ich bin so alt wie Tom.	मैं टॉम की तरह पुराना हूँ।
 I'm as old as you.	Ich bin so alt wie du.	मैं तुम्हारे जैसा हूँ।
 I'm at home today.	Ich bin heute zu Hause.	आज मैं घर पर हूँ।
+I'm at school now.	Ich bin jetzt in der Schule.	मैं अभी स्कूल में हूँ।
+I'm bad at sports.	Ich bin schlecht in Sport.	मुझसे खेल में अच्छी प्रदर्शन नहीं होती।
+I'm bad at tennis.	Ich bin schlecht im Tennis.	मुझसे टेनिस में अच्छी प्रदर्शन नहीं होती।
+I'm being patient.	Ich bin geduldig.	मैं सब्र कर रहा हूँ।
+I'm being watched.	Ich werde beobachtet.	मुझपर नजर रखी जा रही है।
+I'm coming to you.	Ich komme zu dir.	मैं तुम्हारे पास आ रहा हूँ।
+I'm concentrating.	Ich konzentriere mich.	मैं ध्यान दे रहा हूँ।
+I'm conscientious.	Ich bin gewissenhaft.	मैं जिम्मेदारीपूर्वक काम कर रहा हूँ।
+I'm doing my best.	Ich gebe mein Bestes.	मैं अपनी सर्वोत्तम कोशिश कर रहा हूँ।
