@@ -6884,3 +6884,13 @@ She smells bad.	Sie riecht schlecht.	वह बुरी खुशबू दे�
 She teased him.	Sie ärgerte ihn.	उसने उसके साथ मजाक किया।
 She trusts him.	Sie vertraut ihm.	वह उसपर भरोसा करती है।
 She types well.	Sie tippt gut.	वह अच्छी तरह से टाइप करती है।
+She was crying.	Sie weinte.	उसने रो दिया था।
+She went blind.	Sie wurde blind.	उसने अंधा हो गया।
+She went blind. (Different meaning)	Sie ging blind.	उसने अंधा हो गया। (अलग अर्थ)
+She works hard.	Sie arbeitet hart.	वह कठिन परिश्रम करती है।
+She's a hottie.	Sie ist eine heiße Frau.	वह एक डंडी महिला है।
+She's an angel.	Sie ist ein Engel.	वह एक फरिश्ता है।
+She's divorced.	Sie ist geschieden.	वह तलाकशुदा है।
+She's innocent.	Sie ist unschuldig.	वह मासूम है।
+She's not here.	Sie ist nicht hier.	वह यहाँ नहीं है।
+She's pregnant.	Sie ist schwanger.	वह गर्भवती है।
