@@ -11400,3 +11400,11 @@ You're blushing.	Du errötest.	तुम शरमा रहे हो।
 You're charming.	Du bist charmant.	तुम आकर्षक हो।
 You're cheating.	Sie betrügen.	तुम धोखा दे रहे हो।
 You're confused.	Du bist verwirrt.	तुम भ्रमित हो।
+You're creative.	Du bist kreativ.	आप रचनात्मक हैं।
+You're decisive.	Du bist entscheidungsfreudig.	आप निर्णायक हैं।
+You're dreaming.	Du träumst.	आप सपने देख रहे हैं।
+You're escaping.	Du entkommst.	आप भाग रहे हैं।
+You're fearless.	Du bist furchtlos.	आप निडर हैं।
+You're escaping. (Different meaning)	Du fliehst.	आप भाग रहे हैं। (भिन्न अर्थ)
+You're creative. (Different meaning)	Du bist einfallsreich.	आप आविष्कारी हैं। (भिन्न अर्थ)
+You're decisive. (Different meaning)	Du bist bestimmt.	आप निश्चित हैं। (भिन्न अर्थ)
