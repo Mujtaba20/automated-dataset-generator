@@ -10600,3 +10600,11 @@ Tom lived alone.	Tom lebte allein.	टॉम अकेले रहता था
 Tom lived there.	Tom lebte dort.	टॉम वहां रहता था।
 Tom lives alone.	Tom lebt allein.	टॉम अकेले रहता है।
 Tom looked away.	Tom schaute weg.	टॉम दूर की ओर देख रहा था।
+Tom looked back.	Tom schaute zurück.	टॉम पीछे देख रहा था।
+Tom looked busy.	Tom wirkte beschäftigt.	टॉम व्यस्त लग रहा था।
+Tom looked calm.	Tom wirkte ruhig.	टॉम शांत लग रहा था।
+Tom looked cold.	Tom schien kalt zu sein.	टॉम को ठंड लग रही थी।
+Tom looked down.	Tom schaute nach unten.	टॉम नीचे देख रहा था।
+Tom looked fine.	Tom sah gut aus.	टॉम ठीक लग रहा था।
+Tom looked good.	Tom machte einen guten Eindruck.	टॉम अच्छा दिख रहा था।
+Tom looked hurt.	Tom wirkte verletzt.	टॉम चोट लगा हुआ लग रहा था।
