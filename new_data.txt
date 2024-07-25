@@ -4374,3 +4374,12 @@ I'm alone now.	Ich bin jetzt allein.	मैं अब अकेला हूँ�
 I'm an addict.	Ich bin süchtig.	मैं एक आदि हूँ।
 I'm an artist.	Ich bin Künstler.	मैं कलाकार हूँ।
 I'm an orphan.	Ich bin ein Waisenkind.	मैं एक अनाथ हूँ।
+I'm angry now.	Ich bin jetzt wütend.	मैं अब गुस्सा हूँ।
+I'm at school.	Ich bin in der Schule.	मैं स्कूल में हूँ।
+I'm attentive.	Ich bin aufmerksam.	मैं चौकन्न हूँ।
+I'm awake now.	Ich bin jetzt wach.	मैं अब जाग रहा हूँ।
+I'm back home.	Ich bin wieder zu Hause.	मैं घर वापस आ गया।
+I'm beautiful.	Ich bin schön.	मैं सुंदर हूँ।
+I'm busy here.	Ich bin hier beschäftigt.	मैं यहाँ व्यस्त हूँ।
+I'm busy, too.	Ich bin auch beschäftigt.	मैं भी व्यस्त हूँ।
+I'm coming in.	Ich komme rein.	मैं अंदर आ रहा हूँ।
