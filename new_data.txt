@@ -10170,3 +10170,12 @@ Tom bit his lip.	Tom biss sich auf die Lippe.	टॉम ने अपने ह�
 Tom blacked out.	Tom ist in Ohnmacht gefallen.	टॉम को बिल्कुल अंधेरें हो गए।
 Tom blamed Mary.	Tom machte Mary verantwortlich.	टॉम ने मेरी को दोषी ठहराया।
 Tom called Mary.	Tom rief Mary an.	टॉम ने मैरी को फोन किया।
+Tom called back.	Tom rief zurück.	टॉम वापस कॉल किया।
+Tom called home.	Tom rief zu Hause an.	टॉम घर पर कॉल किया।
+Tom came by bus.	Tom kam mit dem Bus.	टॉम बस से आया।
+Tom came by car.	Tom kam mit dem Auto.	टॉम कार से आया।
+Tom came closer.	Tom kam näher.	टॉम और करीब आया।
+Tom came inside.	Tom kam herein.	टॉम अंदर आया।
+Tom can explain.	Tom kann erklären.	टॉम समझा सकता है।
+Tom can help me.	Tom kann mir helfen.	टॉम मुझे मदद कर सकता है।
+Tom can help us.	Tom kann uns helfen.	टॉम हमें मदद कर सकता है।
