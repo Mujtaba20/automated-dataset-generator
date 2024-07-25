@@ -7455,3 +7455,12 @@ Tom kept quiet.	Tom blieb ruhig.	टॉम चुप रहा।
 Tom kept still.	Tom blieb still.	टॉम शांत रहा।
 Tom kept watch.	Tom hielt Ausschau.	टॉम नजर रखा।
 Tom knelt down.	Tom kniete nieder.	टॉम घुटनेटाक हुआ।
+Tom knew a lot.	Tom kannte viel.	टॉम को बहुत कुछ मालूम था।
+Tom knows best.	Tom weiß am besten.	टॉम को सबसे अच्छा पता है।
+Tom knows guns.	Tom kennt Waffen.	टॉम को बंदूकें पता है।
+Tom knows more.	Tom weiß mehr.	टॉम को और भी ज्यादा पता है।
+Tom knows that.	Tom weiß das.	टॉम को वह पता है।
+Tom knows this.	Tom kennt das.	टॉम को यह पता है।
+Tom left early.	Tom ging früh.	टॉम जल्दी चला गया।
+Tom let me win.	Tom ließ mich gewinnen.	टॉम ने मुझे जीतने दिया।
+Tom lied to me.	Tom hat gelogen.	टॉम ने मेरे साथ झूठ बोला।
