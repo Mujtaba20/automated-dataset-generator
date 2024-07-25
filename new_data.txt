@@ -750,3 +750,13 @@ Tom dived.	Tom tauchte.	टॉम डुबकी लगाई।
 Tom dozed.	Tom döste.	टॉम सुप्त हो गया।
 Tom drove.	Tom fuhr.	टॉम ड्राइव करता था।
 Tom froze.	Tom erstarrte.	टॉम जम गया।
+Tom is OK.	Tom ist in Ordnung.	टॉम ठीक है।
+Tom is in.	Tom ist drinnen.	टॉम अंदर है।
+Tom is up.	Tom ist wach.	टॉम ऊपर है।
+Tom knelt.	Tom kniete.	टॉम गिरा।
+Tom knits.	Tom strickt.	टॉम बुना।
+Tom knows.	Tom weiß.	टॉम जानता है।
+Tom moved.	Tom bewegte sich.	टॉम चला गया।
+Tom rocks.	Tom rockt.	टॉम पत्थर फेंकता है।
+Tom slept.	Tom hat geschlafen.	टॉम सो गया।
+Tom spoke.	Tom sprach.	टॉम बोला।
