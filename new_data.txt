@@ -3270,3 +3270,13 @@ They're ugly.	Sie sind hässlich.	वे बदसूरत हैं।
 They've gone.	Sie sind gegangen.	वे चले गए हैं।
 Things break.	Dinge brechen.	चीजें टूटती हैं।
 This is easy.	Das ist einfach.	यह आसान है।
+This is fine.	Das ist in Ordnung.	यह ठीक है।
+This is fish.	Das ist Fisch.	यह मछली है।
+This is food.	Das ist Essen.	यह खाना है।
+This is nourishment.	Das ist Nahrung.	यह पोषण है।
+This is sustenance.	Das ist Nahrung.	यह पोषण है।
+This is gold.	Das ist Gold.	यह सोना है।
+This is hers.	Das gehört ihr.	यह उसकी है।
+This is her possession.	Das ist ihr Besitz.	यह उसकी संपत्ति है।
+This is her property.	Das ist ihr Eigentum.	यह उसकी संपत्ति है।
+This is just.	Das ist gerecht.	यह न्याय है।
