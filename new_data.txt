@@ -12982,3 +12982,13 @@ I'm with the FBI.	Ich bin beim FBI.	मैं एफ़.बी.आई. के �
 I'm working hard.	Ich arbeite hart.	मैं मेहनत कर रहा हूँ।
 I'm your brother.	Ich bin dein Bruder.	मैं तुम्हारा भाई हूँ।
 I'm your partner.	Ich bin dein Partner.	मैं तुम्हारा साथी हूँ।
+I'm your servant.	Ich bin dein Diener.	मैं आपका सेवक हूँ।
+I've been better.	Mir ging es besser.	मैंने बेहतर महसूस किया है।
+I've found a job.	Ich habe einen Job gefunden.	मैंने नौकरी पाई है।
+I've got a knife.	Ich habe ein Messer.	मेरे पास एक चाकू है।
+I've got an idea.	Ich habe eine Idee.	मेरे पास एक विचार है।
+I've got nothing.	Ich habe nichts.	मेरे पास कुछ नहीं है।
+I've got secrets.	Ich habe Geheimnisse.	मेरे पास राज हैं।
+I've got to know.	Ich muss es wissen.	मुझे जानना है।
+I've heard worse.	Ich habe Schlimmeres gehört.	मैंने और बुरा सुना है।
+I've lied to Tom.	Ich habe Tom angelogen.	मैंने टॉम को झूठ बोला है।
