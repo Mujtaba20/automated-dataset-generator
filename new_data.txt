@@ -1466,3 +1466,10 @@ Come see me.	Komm mich besuchen.	मेरे पास आओ।
 Comfort Tom.	Tröste Tom.	टॉम को ढांस दो।
 Comfort Tom. (different meaning)	Mach es Tom bequem.	टॉम को आराम दे।
 Contact Tom.	Kontaktiere Tom.	टॉम से संपर्क करें।
+Cook for me.	Koch für mich.	मेरे लिए खाना बनाना।
+Count me in.	Zähl mich ein.	मुझे शामिल करो।
+Count on it.	Verlass dich darauf.	इस पर निर्भर करें।
+Did Tom cry?	Hat Tom geweint?	क्या टॉम रोया?
+Did Tom die?	Ist Tom gestorben?	क्या टॉम मर गया?
+Did Tom eat?	Hat Tom gegessen?	क्या टॉम ने खाना खाया?
+Did Tom run?	Ist Tom gerannt?	क्या टॉम दौड़ा?
