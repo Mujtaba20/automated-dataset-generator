@@ -8278,3 +8278,7 @@ Did you call me?	Hast du mich angerufen?	क्या तुमने मुझ�
 Did you do that?	Hast du das gemacht?	क्या तुमने वह किया?
 Did you drop it?	Hast du es fallen lassen?	क्या तुमने इसे गिरा दिया?
 Did you get wet?	Bist du nass geworden?	क्या तुम गीले हो गए?
+Did you hit Tom?	Hast du Tom getroffen?	क्या आपने टॉम को मारा?
+Did you like it?	Hat es dir gefallen?	क्या आपको यह पसंद आया?
+Did you love me?	Hast du mich geliebt?	क्या तुमने मुझसे प्रेम किया?
+Did you make it?	Hast du es gemacht?	क्या आपने यह बनाया है?
