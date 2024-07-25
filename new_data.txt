@@ -13056,3 +13056,9 @@ Is this 223-1374?	Ist dies 223-1374?	क्या यह 223-1374 है?
 Is this a flower?	Ist das eine Blume?	क्या यह एक फूल है?
 Is this a riddle?	Ist das ein Rätsel?	क्या यह एक पहेली है?
 Is this about me?	Geht es um mich?	क्या यह मेरे बारे में है?
+Is this for sale?	Ist das zum Verkauf?	क्या यह बिक रहा है?
+Is this possible?	Ist das möglich?	क्या यह संभव है?
+Is this suitable?	Ist das geeignet?	क्या यह उपयुक्त है?
+Is this your DVD?	Ist das deine DVD?	क्या यह तुम्हारा डीवीडी है?
+Is this your car?	Ist das dein Auto?	क्या यह तुम्हारी कार है?
+Is this your cat?	Ist das deine Katze?	क्या यह तुम्हारी बिल्ली है?
