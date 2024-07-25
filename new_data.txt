@@ -6875,3 +6875,12 @@ She looked sad.	Sie wirkte traurig.	उसने उदास दिखाई।
 She loves cake.	Sie liebt Kuchen.	उसे केक पसंद है।
 She loves cats.	Sie liebt Katzen.	उसे बिल्लियां पसंद हैं।
 She might come.	Sie könnte kommen.	वह आ सकती है।
+She misses him.	Sie vermisst ihn.	उसे उसकी याद आती है।
+She plays Bach.	Sie spielt Bach.	वह बाक बजाती है।
+She seems rich.	Sie scheint reich zu sein.	वह धनवान लगती है।
+She shot a gun.	Sie schoss mit einer Waffe.	उसने एक बंदूक चलाई।
+She sings well.	Sie singt gut.	वह अच्छा गाती है।
+She smells bad.	Sie riecht schlecht.	वह बुरी खुशबू देती है।
+She teased him.	Sie ärgerte ihn.	उसने उसके साथ मजाक किया।
+She trusts him.	Sie vertraut ihm.	वह उसपर भरोसा करती है।
+She types well.	Sie tippt gut.	वह अच्छी तरह से टाइप करती है।
