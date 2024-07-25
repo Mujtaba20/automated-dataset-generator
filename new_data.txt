@@ -11213,3 +11213,11 @@ What's going on?	Was ist los?	क्या हो रहा है?
 What's happened?	Was ist passiert?	क्या हुआ?
 What's her name?	Wie heißt sie?	उसका नाम क्या है?
 What's his name?	Wie heißt er?	उसका नाम क्या है?
+What's in there?	Was ist drin?	वहाँ क्या है?
+What's it about?	Worum geht es?	यह किसके बारे में है?
+What's it worth?	Was ist es wert?	यह कितना महत्वपूर्ण है?
+What's my prize?	Was ist mein Preis?	मेरा पुरस्कार क्या है?
+What's so funny?	Was ist so lustig?	ये क्या मजाक है?
+What's that for?	Wofür ist das?	वह किसलिए है?
+What's the time?	Wie spät ist es?	समय क्या है?
+What's this for?	Wofür ist das?	यह किसके लिए है?
