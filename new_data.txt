@@ -9557,3 +9557,13 @@ It's really bad.	Es ist wirklich schlimm.	यह सच में बुरा �
 It's really fun.	Es macht wirklich Spaß.	यह सच में मजेदार है।
 It's really sad.	Es ist wirklich traurig.	यह सच में दुखद है।
 It's ridiculous.	Es ist lächerlich.	यह भद्दा है।
+It's still dark.	Es ist immer noch dunkel.	यह अभी भी अंधेरा है।
+It's still mine.	Es gehört immer noch mir.	यह मेरा ही है।
+It's sufficient.	Es ist ausreichend.	यह पर्याप्त है।
+It's terrifying.	Es ist beängstigend.	यह भयानक है।
+It's time to go.	Es ist Zeit zu gehen.	चलने का समय है।
+It's time to leave.	Es ist Zeit zu verlassen.	जाने का समय है।
+It's very cheap.	Es ist sehr günstig.	यह बहुत सस्ता है।
+It's quite inexpensive.	Es ist ziemlich preiswert.	यह काफी सस्ता है।
+It's extremely affordable.	Es ist extrem erschwinglich.	यह बहुत ही किफायती है।
+It's very clean.	Es ist sehr sauber.	यह बहुत साफ है।
