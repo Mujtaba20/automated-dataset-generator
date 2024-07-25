@@ -1,14 +1,4 @@
 
-Tom looks foreign.	Tom sieht fremd aus.	टॉम अजीब लग रहा है।
-Tom looks furious.	Tom sieht wütend aus.	टॉम गुस्से में दिखता है।
-Tom looks furious.	Tom schaut wütend.	टॉम गुस्से में दिखता है।
-Tom looks haggard.	Tom sieht ausgezehrt aus.	टॉम बाहर दिखता है।
-Tom looks healthy.	Tom sieht gesund aus.	टॉम स्वस्थ दिखता है।
-Tom looks hopeful.	Tom sieht hoffnungsvoll aus.	टॉम आशान्वित लग रहा है।
-Tom looks jittery.	Tom sieht nervös aus.	टॉम नर्वस दिखता है।
-Tom looks jittery.	Tom sieht zappelig aus.	टॉम फिदेटी दिखता है।
-Tom looks nervous.	Tom sieht nervös aus.	टॉम नर्वस दिखता है।
-Tom looks pleased.	Tom sieht zufrieden aus.	टॉम संतुष्ट दिखता है।
 Tom looks puzzled.	Tom sieht verdutzt aus.	टॉम हैरान दिखता है।
 Tom looks rattled.	Tom sieht verunsichert aus.	टॉम अनसुलझा दिखता है।
 Tom looks relaxed.	Tom sieht entspannt aus.	टॉम आराम से लग रहा है।

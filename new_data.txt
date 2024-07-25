@@ -18957,3 +18957,11 @@ Tom looks bashful.	Tom sieht schüchtern aus.	टॉम झेंपू लग �
 Tom looks crushed.	Tom sieht niedergeschlagen aus.	टॉम पीस गया लग रहा है।
 Tom looks curious.	Tom sieht neugierig aus.	टॉम उत्सुक लग रहा है।
 Tom looks dubious.	Tom wirkt skeptisch.	टॉम संदेहपूर्ण लग रहा है।
+Tom looks foreign.	Tom sieht ausländisch aus.	टॉम विदेशी लग रहा है।
+Tom looks furious.	Tom sieht rasend aus.	टॉम अत्यंत गुस्से में लग रहा है।
+Tom looks haggard.	Tom sieht verbraucht aus.	टॉम थका हुआ लग रहा है।
+Tom looks healthy.	Tom sieht gesund aus.	टॉम स्वस्थ लग रहा है।
+Tom looks hopeful.	Tom sieht hoffnungsvoll aus.	टॉम आशावादी लग रहा है।
+Tom looks jittery.	Tom wirkt unruhig.	टॉम चिंतित लग रहा है।
+Tom looks nervous.	Tom sieht nervös aus.	टॉम घबराया हुआ लग रहा है।
+Tom looks pleased.	Tom sieht erfreut aus.	टॉम प्रसन्न लग रहा है।
