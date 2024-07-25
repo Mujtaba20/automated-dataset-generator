@@ -9093,3 +9093,13 @@ I was at school.	Ich war in der Schule.	मैं स्कूल में थ�
 I was born here.	Ich wurde hier geboren.	मैं यहाँ पैदा हुआ था।
 I was courteous.	Ich war höflich.	मैं विनम्र था।
 I was dismissed.	Ich wurde entlassen.	मुझे निकाल दिया गया था।
+I was entranced.	Ich war verzaubert.	मैं मोहित था।
+I was horrified.	Ich war entsetzt.	मुझे भयंकर डर लगा।
+I was impressed.	Ich war beeindruckt.	मुझ पर प्रभावित था।
+I was misquoted.	Ich wurde falsch zitiert.	मुझे ग़लत उलटवाया गया था।
+I was mortified.	Ich war gedemütigt.	मुझे शर्मिंदा किया गया था।
+I was not drunk.	Ich war nicht betrunken.	मैं नशे में नहीं था।
+I was on a bike.	Ich war auf einem Fahrrad.	मैं एक साइकिल पर था।
+I was sent home.	Ich wurde nach Hause geschickt.	मुझे घर भेज दिया गया था।
+I was skeptical.	Ich war skeptisch.	मुझे संदेह था।
+I was surprised.	Ich war überrascht.	मुझे आश्चर्य हुआ।
