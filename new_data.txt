@@ -4428,3 +4428,13 @@ I'm not ready.	Ich bin nicht fertig.	मैं तैयार नहीं ह�
 I'm not tired.	Ich bin nicht müde.	मैं थका नहीं हूँ।
 I'm not upset.	Ich bin nicht verärgert.	मैं उदास नहीं हूँ।
 I'm off today.	Ich habe heute frei.	आज मैं बंद हूँ।
+I'm on a diet.	Ich mache eine Diät.	मैं डाइट पर हूँ।
+I'm on my own.	Ich bin alleine.	मैं अकेला हूँ।
+I'm on my way.	Ich bin unterwegs.	मैं रास्ते में हूँ।
+I'm on my way. (Different meaning)	Ich komme schon.	मैं आ रहा हूँ।
+I'm over here.	Ich bin hier drüben.	मैं यहाँ हूँ।
+I'm ready now.	Ich bin jetzt bereit.	मैं अब तैयार हूँ।
+I'm safe here.	Hier bin ich sicher.	यहाँ मेरी सुरक्षा है।
+I'm satisfied.	Ich bin zufrieden.	मैं संतुष्ट हूँ।
+I'm saying no.	Ich sage nein.	मैं नहीं कह रहा हूँ।
+I'm skeptical.	Ich bin skeptisch.	मैं संदेही हूँ।
