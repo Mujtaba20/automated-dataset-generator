@@ -14937,3 +14937,11 @@ We all trust you. 2	Wir alle haben Vertrauen in dich.	हम सभी तुम
 We all trust you. 3	Wir alle setzen Vertrauen in dich.	हम सभी तुम पर भरोसा करते हैं।
 We aren't idiots.	Wir sind keine Idioten.	हम पागल नहीं हैं।
 We arrived first.	Wir sind zuerst angekommen.	हम पहले पहुंच गए।
+We ate the pizza.	Wir haben die Pizza gegessen.	हमने पिज़्ज़ा खाया।
+We began to kiss.	Wir fingen an zu küssen.	हम चुम्बन देने लगे।
+We can't do that.	Das können wir nicht tun.	हम उसे नहीं कर सकते।
+We can't give up.	Wir können nicht aufgeben.	हम हार नहीं मान सकते।
+We can't go back.	Wir können nicht zurückgehen.	हम वापस नहीं जा सकते।
+We can't risk it.	Wir können es nicht riskieren.	हम इसे जोखिम में नहीं डाल सकते।
+We close at 6:30.	Wir schließen um 6:30 Uhr.	हम 6:30 बजे बंद करते हैं।
+We could both go.	Wir könnten beide gehen.	हम दोनों जा सकते हैं।
