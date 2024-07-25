@@ -11088,3 +11088,11 @@ We were invited.	Wir wurden eingeladen.	हमें आमंत्रित �
 We were shocked.	Wir waren schockiert.	हम चौंक गए थे।
 We were worried.	Wir waren besorgt.	हमें चिंतिती थी।
 We will succeed.	Wir werden Erfolg haben.	हम सफल होंगे।
+We will survive.	Wir werden überleben.	हम जीवित रहेंगे।
+We won't forget.	Wir werden nicht vergessen.	हम भूल नहीं जाएंगे।
+We'll be hungry.	Wir werden hungrig sein.	हम भूखे रहेंगे।
+We'll bring Tom.	Wir werden Tom bringen.	हम टॉम को लेकर चलेंगे।
+We'll camp here.	Wir werden hier campen.	हम यहाँ शिविर लगाएंगे।
+We'll catch Tom.	Wir werden Tom fangen.	हम टॉम को पकड़ेंगे।
+We'll catch you.	Wir werden dich fangen.	हम तुम्हें पकड़ेंगे।
+We'll chance it.	Wir werden es riskieren.	हम यह अवसर लेंगे।
