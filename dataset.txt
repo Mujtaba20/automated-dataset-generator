@@ -1,14 +1,4 @@
 
-No one knows that.	Niemand weiß das.	किसी को नहीं मालूम।
-No one lives here.	Hier wohnt keiner.	यहां कोई नहीं रहता है।
-No one lives here.	Hier wohnt niemand.	यहां कोई नहीं रहता है।
-No one lives here.	Hier lebt niemand.	यहां कोई नहीं रहता है।
-No one trusts Tom.	Keiner traut Tom.	कोई भी टॉम पर भरोसा नहीं करता है।
-No one wants that.	Keiner will das.	कोई भी ऐसा नहीं चाहता।
-No one wants that.	Das will niemand.	कोई भी ऐसा नहीं चाहता।
-No one's gambling.	Niemand wettet.	कोई भी मौसम नहीं।
-No one's here yet.	Es ist noch niemand da.	अभी तक कोई नहीं है।
-No one's here yet.	Es ist noch keiner da.	अभी तक कोई नहीं है।
 No one's in sight.	Niemand ist in Sichtweite.	कोई भी दृष्टि में नहीं है।
 No one's in sight.	Keiner ist in Sicht.	कोई भी दृष्टि में नहीं है।
 No one's in there.	Da ist niemand.	वहां कोई नहीं है।

@@ -17605,3 +17605,9 @@ No one else spoke.	Niemand sonst sprach.	कोई और नहीं बोल
 No one ever asked.	Niemand hat jemals gefragt.	किसी ने कभी पूछा नहीं।
 No one has failed.	Niemand ist gescheitert.	किसी ने असफल नहीं हुआ।
 No one is perfect.	Niemand ist perfekt.	कोई भी पूर्ण नहीं है।
+No one knows that.	Niemand weiß das.	किसी को नहीं पता है।
+No one lives here.	Hier lebt niemand.	यहाँ कोई नहीं रहता।
+No one trusts Tom.	Niemand vertraut Tom.	कोई टॉम पर भरोसा नहीं करता।
+No one wants that.	Das will niemand.	उसका कोई इच्छा नहीं है।
+No one's gambling.	Niemand spielt.	किसी की जुएबाज़ी नहीं है।
+No one's here yet.	Niemand ist hier bisher.	अब तक कोई यहाँ नहीं है।
