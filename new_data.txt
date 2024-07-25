@@ -9920,3 +9920,13 @@ That's cheating.	Das ist Betrug.	यह धोखा है।
 That's childish.	Das ist kindisch.	यह बच्चों जैसा है।
 That's doubtful.	Das ist fraglich.	यह संदेहास्पद है।
 That's for sure.	Das ist sicher.	यह पक्का है।
+That's my dress.	Das ist mein Kleid.	यह मेरी ड्रेस है।
+That's my fault.	Das ist mein Fehler.	यह मेरी गलती है।
+That's my house.	Das ist mein Haus.	यह मेरा घर है।
+That's my lunch.	Das ist mein Mittagessen.	यह मेरा लंच है।
+That's my stuff.	Das ist mein Zeug.	यह मेरी चीज़ है।
+That's nonsense.	Das ist Unsinn.	यह बकवास है।
+That's nonsense. (different meaning)	Das ist Blödsinn.	यह बेमानी है।
+That's not easy.	Das ist nicht einfach.	यह आसान नहीं है।
+That's not fair.	Das ist nicht fair.	यह न्याय से नहीं है।
+That's not fair. (different meaning)	Das ist nicht gerecht.	यह न्यायसंगत नहीं है।
