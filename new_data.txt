@@ -13379,3 +13379,13 @@ No one is coming.	Niemand kommt.	कोई नहीं आ रहा है।
 No one knew that.	Niemand wusste das.	किसी को उसका पता नहीं था।
 No one knows why.	Niemand weiß warum.	किसी को नहीं पता क्यों।
 No one knows yet.	Niemand weiß es noch.	किसी को अब भी पता नहीं है।
+No one likes Tom.	Niemand mag Tom.	किसी को भी टॉम नहीं पसंद है।
+No one likes war.	Niemand mag Krieg.	किसी को भी युद्ध पसंद नहीं है।
+No one likes you.	Niemand mag dich.	किसी को भी तुम्हें पसंद नहीं है।
+No one loves war.	Niemand liebt Krieg.	किसी को भी युद्ध से प्यार नहीं है।
+No one loves you.	Niemand liebt dich.	किसी को भी तुमसे प्यार नहीं है।
+No one responded.	Niemand hat geantwortet.	किसी ने भी प्रतिक्रिया नहीं दी।
+No one says that.	Niemand sagt das.	किसी कहता नहीं।
+No one warned me.	Niemand hat mich gewarnt.	किसी ने मुझे चेतावनी नहीं दी।
+No one was alive.	Niemand war lebendig.	किसी भी जीवित नहीं था।
+No one was stung.	Niemand wurde gestochen.	किसी को काटा नहीं गया था।
