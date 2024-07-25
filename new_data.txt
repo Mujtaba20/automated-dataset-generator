@@ -12913,3 +12913,13 @@ I'm not a member.	Ich bin kein Mitglied.	मैं सदस्य नहीं 
 I'm not a prince.	Ich bin kein Prinz.	मैं राजकुमार नहीं हूँ।
 I'm not an angel.	Ich bin kein Engel.	मैं एक फरिश्ता नहीं हूँ।
 I'm not an idiot.	Ich bin nicht dumm.	मैं मूर्ख नहीं हूँ।
+I'm not bluffing.	Ich bluffe nicht.	मैं झूठ नहीं बोल रहा।
+I'm not blushing!	Ich werde nicht rot!	मैं शर्माता नहीं हूँ!
+I'm not busy now.	Ich bin jetzt nicht beschäftigt.	मैं अब व्यस्त नहीं हूँ।
+I'm not creative.	Ich bin nicht kreativ.	मैं रचनात्मक नहीं हूँ।
+I'm not dead yet.	Ich bin noch nicht tot.	मैं अब तक मरा नहीं हूँ।
+I'm not drinking.	Ich trinke nicht.	मैं पी नहीं रहा हूँ।
+I'm not finished.	Ich bin nicht fertig.	मैं समाप्त नहीं हुआ।
+I'm not gullible.	Ich bin nicht leichtgläubig.	मैं भोला नहीं हूँ।
+I'm not her type.	Ich bin nicht ihr Typ.	मैं उसके प्रकार का नहीं हूँ।
+I'm not laughing.	Ich lache nicht.	मैं हँस रहा नहीं।
