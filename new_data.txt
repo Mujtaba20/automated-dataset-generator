@@ -16616,3 +16616,12 @@ I left right away.	Ich bin sofort gegangen.	मैं तुरंत चला 
 I like Tom better.	Ich mag Tom lieber.	मुझे टॉम पसंद है।
 I like adventures.	Ich mag Abenteuer.	मुझे साहसिक कार्य पसंद हैं।
 I like being here.	Ich mag es hier zu sein.	मुझे यहाँ होना पसंद है।
+I like challenges.	Ich mag Herausforderungen.	मुझे चुनौतियाँ पसंद हैं।
+I like coffee hot.	Ich mag heißen Kaffee.	मुझे गरम कॉफ़ी पसंद है।
+I like dogs a lot.	Ich mag Hunde sehr.	मुझे कुत्ते बहुत पसंद हैं।
+I like doing that.	Ich mag das machen.	मुझे वह करना पसंद है।
+I like doing this.	Ich mache das gerne.	मुझे यह करना पसंद है।
+I like folk songs.	Ich mag Volkslieder.	मुझे लोक गाने पसंद हैं।
+I like grapefruit.	Ich mag Grapefruit.	मुझे ग्रेपफ्रूट पसंद है।
+I like green peas.	Ich mag grüne Erbsen.	मुझे हरी मटर पसंद हैं।
+I like jazz music.	Ich mag Jazz-Musik.	मुझे जाज संगीत पसंद है।
