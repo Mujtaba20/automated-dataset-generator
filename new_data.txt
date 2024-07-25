@@ -13535,3 +13535,10 @@ She made him cry.	Sie ließ ihn weinen.	उसने उसे रुलाय�
 She may not come.	Vielleicht kommt sie nicht.	शायद उसे नहीं आना है।
 She must be sick.	Sie muss krank sein.	उसे बीमारी हो सकती है।
 She needs a coat.	Sie braucht einen Mantel.	उसे कोट चाहिए।
+She quit smoking.	Sie hörte mit dem Rauchen auf.	उसने सिगरेट पीना छोड़ दिया।
+She quit smoking. She rejected him.	Sie lehnte ihn ab.	उसने उसे अस्वीकार किया।
+She rode a camel.	Sie ritt auf einem Kamel.	उसने उँट पर सवारी की।
+She rode a camel. She said goodbye.	Sie sagte tschüss.	उसने अलविदा कहा।
+She smiled at me.	Sie lächelte mich an.	उसने मुझे मुस्कान दी।
+She smiled sadly.	Sie lächelte traurig.	उसने दुखी होकर मुस्काया।
+She smokes a lot.	Sie raucht viel.	वह बहुत सीगरेट पीती है।
