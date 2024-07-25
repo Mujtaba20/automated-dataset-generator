@@ -2805,3 +2805,9 @@ I'll be good.	Es wird mir gut gehen.	मैं अच्छा हो जाऊ�
 I'll be here.	Ich werde hier sein.	मैं यहाँ होऊँगा।
 I'll be late.	Ich werde spät dran sein.	मैं देर से पहुंचूँगा।
 I'll be nice.	Es wird mir gut gehen.	मैं अच्छा रहूँगा।
+I'll come by.	Ich werde vorbeikommen.	मैं आऊँगा।
+I'll do that.	Ich werde das machen.	मैं ऐसा करूँगा।
+I'll do this.	Ich werde das tun.	मैं यह करूँगा।
+I'll explain.	Ich werde erklären.	मैं समझाऊँगा।
+I'll get Tom.	Ich werde Tom holen.	मैं टॉम को ला आऊँगा।
+I'll get one.	Ich werde eines bekommen.	मैं एक पा सकता हूँ।
