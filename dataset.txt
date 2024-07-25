@@ -1,14 +1,4 @@
 
-That's Tom's home.	Das ist Toms Zuhause.	यह घर पर टॉम्स है।
-That's Tom's room.	Das ist Toms Zimmer.	यह टॉम का कमरा है।
-That's Tom's seat.	Das ist Toms Platz.	यह टॉम का स्थान है।
-That's Tom's wife.	Das ist Toms Frau.	यह टॉम की पत्नी है।
-That's Tom's wife.	Das ist die Frau von Tom.	यह टॉम की महिला है।
-That's a bad loss.	Das ist ein schwerer Verlust.	यह एक गंभीर नुकसान है।
-That's a bad sign.	Das ist ein schlechtes Zeichen.	यह एक बुरा संकेत है।
-That's a big step.	Das ist ein großer Schritt.	यह एक बड़ा कदम है।
-That's a fir tree.	Das ist eine Tanne.	यह एक देवदार है।
-That's a fir tree.	Das ist ein Tannenbaum.	यह एक देवदार का पेड़ है।
 That's a good buy.	Das ist ein guter Kauf.	यह एक अच्छी खरीद है।
 That's a good one.	Der ist gut.	वह अच्छा है।
 That's a low blow.	Das ist ein Schlag unter die Gürtellinie.	यह बेल्ट लाइन के नीचे एक झटका है।

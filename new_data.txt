@@ -17938,3 +17938,11 @@ engSentence7	Das ist Toms Boot.	वह टॉम की नाव है।
 engSentence8	Das ist Toms Buch.	यह टॉम की किताब है।
 engSentence9	Das ist Toms Datei.	वह टॉम का फ़ाइल है।
 engSentence10	Das ist Toms Mädchen.	यह टॉम की लड़की है।
+That's Tom's home.	Das ist Toms Zuhause.	यह टॉम का घर है।
+That's Tom's room.	Das ist Toms Zimmer.	वह टॉम का कमरा है।
+That's Tom's seat.	Das ist Toms Sitzplatz.	यह टॉम की सीट है।
+That's Tom's wife.	Das ist Toms Ehefrau.	वह टॉम की पत्नी है।
+That's a bad loss.	Das ist ein schwerer Verlust.	वह एक बड़ा नुकसान है।
+That's a bad sign.	Das ist ein schlechtes Zeichen.	यह एक बुरा संकेत है।
+That's a big step.	Das ist ein großer Schritt.	यह एक बड़ा कदम है।
+That's a fir tree.	Das ist eine Tanne.	यह एक देवदार का पेड़ है।
