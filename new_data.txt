@@ -16179,3 +16179,13 @@ Hey, you're early.	Hey, du bist früh dran.	हे, तुम पहले ह�
 Hi Tom, what's up?	Hallo Tom, wie geht's?	नमस्ते टॉम, क्या हाल है?
 Hi, my name's Tom.	Hallo, ich heiße Tom.	नमस्ते, मेरा नाम टॉम है।
 His car is a Ford.	Sein Auto ist ein Ford.	उसकी कार एक फोर्ड है।
+His eyes are blue.	Seine Augen sind blau.	उसकी आंखें नीली हैं।
+His room's a mess.	Sein Zimmer ist ein Durcheinander.	उसके कमरे में हलचल है।
+His story is true.	Seine Geschichte ist wahr.	उसकी कहानी सच्ची है।
+Hold it like this.	Halten Sie es so.	इस तरह से पकड़ें।
+Hold the handrail.	Halten Sie das Geländer fest.	हैंडरेल को पकड़ो।
+Honey, I love you.	Schatz, ich liebe dich.	मिठाई, मैं तुमसे प्यार करता हूँ।
+How about a snack?	Wie wäre es mit einem Snack?	स्नैकर्स कैसे रहेंगे?
+How about tonight?	Wie wäre es heute Nacht?	आज रात कैसा रहेगा?
+How are you doing?	Wie geht es Ihnen?	तुम कैसे हो?
+How are you going?	Wie geht es dir?	तुम कहाँ जा रहे हो?
