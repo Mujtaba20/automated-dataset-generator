@@ -7816,3 +7816,13 @@ We need to win.	Wir müssen gewinnen.	हमें जीतने की आव
 We needed help.	Wir brauchten Hilfe.	हमें मदद की आवश्यकता थी।
 We only kissed.	Wir haben uns nur geküsst.	हमने सिर्फ चुम्मा लिया।
 We owe you one.	Wir sind dir etwas schuldig.	हम आपके ऋणी हैं।
+We paid for it.	Wir haben dafür bezahlt.	हमने इसके लिए भुगतान किया।
+We respect Tom.	Wir respektieren Tom.	हम टॉम का सम्मान करते हैं।
+We respektieren sie.	Wir respektieren sie.	हम उसका सम्मान करते हैं।
+We respektieren ihn.	Wir respektieren ihn.	हम उसका सम्मान करते हैं।
+We seldom sing.	Wir singen selten.	हम बहुत कम गाते हैं।
+We shook hands.	Wir haben uns die Hände geschüttelt.	हमने हाथ मिलाये।
+We study music.	Wir studieren Musik.	हम संगीत पढ़ते हैं।
+We surrendered.	Wir haben uns ergeben.	हमने आत्मसमर्पण किया।
+We tricked Tom.	Wir haben Tom reingelegt.	हमने टॉम को धोखा दिया।
+We trusted Tom.	Wir haben Tom vertraut.	हमने टॉम पर भरोसा किया।
