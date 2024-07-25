@@ -6710,3 +6710,13 @@ Let me explain.	Lass mich erklären.	मुझे समझाने दो।
 Let me hear it.	Lass mich das hören.	मुझे इसे सुनने दो।
 Let the boy go.	Lass den Jungen gehen.	छोड़ो बच्चे को।
 Let us go home.	Lass uns nach Hause gehen.	हमें घर जाने दो।
+Let's be brave.	Lasst uns mutig sein.	हमें साहसी बनने दे।
+Let's call Tom.	Lass uns Tom anrufen.	हमने टॉम को बुलाया।
+Let's continue.	Lassen Sie uns fortsetzen.	चलते रहें।
+Let's enjoy it.	Lassen Sie uns es genießen.	हम इसका आनंद लें।
+Let's find Tom.	Lass uns Tom finden.	हमें टॉम को ढूंढना है।
+Let's find out.	Lasst uns es herausfinden.	जानने की कोशिश करें।
+Let's fire Tom.	Lassen Sie uns Tom feuern.	हमें टॉम को निकाल दो।
+Let's go on in.	Lasst uns weitermachen.	चलते रहिए।
+Let's help Tom.	Lasst uns Tom helfen.	हमें टॉम की मदद करनी चाहिए।
+Let's hurry up.	Lasst uns uns beeilen.	जल्दी करें।
