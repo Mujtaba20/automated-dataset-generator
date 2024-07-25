@@ -957,3 +957,10 @@ I am happy. (different meaning)	Ich freue mich.	मुझे खुशी है
 I am human.	Ich bin ein Mensch.	मैं मनुष्य हूँ।
 I am ready.	Ich bin bereit.	मैं तैयार हूँ।
 I am ready. (different meaning)	Ich bin fertig.	मैं आरंभ किया हूँ।
+I am right.	Ich bin richtig.	मैं ठीक हूँ।
+I broke it.	Ich habe es gebrochen.	मैंने इसे तोड़ दिया।
+I built it.	Ich habe es aufgebaut.	मैंने इसे बनाया।
+I can come.	Ich kann kommen.	मैं आ सकता हूँ।
+I can cook.	Ich kann kochen.	मैं पका सकता हूं।
+I can jump.	Ich kann springen.	मैं कूद सकता हूँ।
+I can sing.	Ich kann singen.	मैं गा सकता हूं।
