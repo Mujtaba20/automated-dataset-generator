@@ -6772,3 +6772,12 @@ My heart hurts.	Mein Herz schmerzt.	मेरे दिल में दर्�
 My jaw is sore.	Mein Kiefer tut weh.	मेरी जबड़ में दर्द है।
 My joints ache.	Meine Gelenke schmerzen.	मेरी जोड़ों में दर्द है।
 My name is Tom.	Mein Name ist Tom.	मेरा नाम टॉम है।
+My tire's flat.	Mein Reifen ist platt.	मेरा टायर सीधा है।
+My tooth hurts.	Mein Zahn tut weh.	मेरा दांत दर्द कर रहा है।
+My wife is mad.	Meine Frau ist verrückt.	मेरी पत्नी गुस्से में है।
+My wrist hurts.	Mein Handgelenk tut weh.	मेरी कलाई दर्द कर रही है।
+Never mind Tom.	Kümmere dich nicht um Tom.	जिम्मेदारी न लेना Tom का।
+No one cheated.	Niemand hat betrogen.	किसी ने धोखा नहीं दिया।
+No one is home.	Niemand ist zu Hause.	कोई घर पर नहीं है।
+No one knew it.	Niemand wusste es.	किसी को यह पता नहीं था।
+No one laughed.	Niemand hat gelacht.	किसी ने हंसना नहीं था।
