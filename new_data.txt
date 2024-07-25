@@ -1301,3 +1301,13 @@ Tom prayed.	Tom betete an.	टॉम पूजा की।
 Tom rested.	Tom ruhte sich aus.	टॉम आराम किया।
 Tom sat up.	Tom saß auf.	टॉम बैठा रहा।
 Tom saw it.	Tom erkannte es.	टॉम ने इसे पहचाना।
+Tom saw me.	Tom hat mich gesehen.	टॉम ने मुझे देखा।
+Tom saw us.	Tom hat uns gesehen.	टॉम ने हमें देखा।
+Tom shaved.	Tom hat sich rasiert.	टॉम ने दाढ़ी मुंछ बनवाई।
+Tom shaved. (different meaning)	Tom rasierte sich.	टॉम ने बाल कटवा लिए।
+Tom sighed.	Tom seufzte.	टॉम अधीर था।
+Tom smiled.	Tom lächelte.	टॉम मुस्कान दिखाई।
+Tom smoked.	Tom rauchte.	टॉम धूम्रपान किया।
+Tom smoked. (different meaning)	Tom wurde eingeraucht.	टॉम को धुआं में बांध दिया।
+Tom smokes.	Tom raucht.	टॉम धूम्रपान करता है।
+Tom snores.	Tom schnarcht.	टॉम खर्राटे लेता है।
