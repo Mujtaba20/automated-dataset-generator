@@ -14434,3 +14434,12 @@ Tom knows horses.	Tom kennt Pferde.	टॉम घोड़े जानता �
 Tom knows people.	Tom kennt Leute.	टॉम लोगों को जानता है।
 Tom knows things.	Tom kennt Dinge.	टॉम चीज़ें जानता है।
 Tom laughed, too.	Tom lachte auch.	टॉम भी हंसा।
+Tom left at 2:30.	Tom hat um 2:30 Uhr verlassen.	टॉम ने 2:30 बजे छोड़ दिया।
+Tom left earlier.	Tom hat früher verlassen.	टॉम ने पहले ही छोड़ दिया।
+Tom left quickly.	Tom hat schnell verlassen.	टॉम ने जल्दी से छोड़ दिया।
+Tom left quietly.	Tom ist leise gegangen.	टॉम ने शांती से छोड़ दिया।
+Tom lied to Mary.	Tom hat Mary angelogen.	टॉम ने मेरी से झूठ बोला।
+Tom lied to Mary. (Different meaning)	Tom log Mary an.	टॉम ने मेरी के साथ झूठ बोला।
+Tom liked horses.	Tom mochte Pferde.	टॉम को घोड़े पसंद थे।
+Tom liked horses. (Different meaning)	Tom gefielen Pferde.	टॉम को घोड़ों का मन करता था।
+Tom likes Boston.	Tom mag Boston.	टॉम को बोस्टन पसंद है।
