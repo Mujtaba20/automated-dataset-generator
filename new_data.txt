@@ -5773,3 +5773,10 @@ He became rich.	Er wurde reich.	वह अमीर बन गया।
 He bit his lip.	Er biss sich auf die Lippe.	उसने अपने होंठ काट लिए।
 He came by bus.	Er kam mit dem Bus.	वह बस से आया था।
 He came by bus. (different meaning)	Er kam im Bus.	उसने बस में आना शुरू किया।
+He can't count.	Er kann nicht zählen.	उसे गिनना नहीं आता है।
+He can't do it.	Er kann es nicht machen.	वह यह नहीं कर सकता।
+He can't drive.	Er kann nicht fahren.	वह गाड़ी नहीं चला सकता।
+He cannot swim.	Er kann nicht schwimmen.	वह तैरना नहीं जानता।
+He confused us.	Er hat uns verwirrt.	उसने हमें उलझाया।
+He could do it.	Er könnte es tun.	वह यह कर सकता था।
+He deserved it.	Er hat es verdient.	उसे यह योग्य है।
