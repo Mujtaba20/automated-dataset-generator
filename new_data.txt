@@ -4749,3 +4749,8 @@ engSentence7	Schicken Sie es mir.	मुझे इसे भेज दो।
 engSentence8	Schicken Sie es mir.	मुझे इसे भेज दो।
 engSentence9	Sie meidet mich.	वह मुझसे बचती है।
 engSentence10	Sie beugte sich nach unten.	वह नीचे झुकी।
+She came last.	Sie kam zuletzt an.	वह आखिरी आई।
+She can skate.	Sie kann skaten.	वह स्केट कर सकती है।
+She can't ski.	Sie kann nicht Ski fahren.	वह स्की नहीं कर सकती।
+She could die.	Sie könnte sterben.	वह मर सकती थी।
+She dumped me.	Sie hat Schluss gemacht.	उसने मुझसे ताल्लुक़ तोड़ दिया।
