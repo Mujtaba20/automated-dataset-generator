@@ -13989,3 +13989,13 @@ Tom created this.	Tom hat das erstellt.	टॉम ने यह बनाया�
 Tom created this. (different meaning)	Tom hat dies geschaffen.	टॉम ने यह बनाया।
 Tom cut Mary off.	Tom hat Mary abgeschnitten.	टॉम ने मेरी को काट दिया।
 Tom decorated it.	Tom hat es dekoriert.	टॉम ने इसे सजाया।
+Tom did his duty.	Tom hat seine Pflicht getan.	टॉम ने अपना कर्तव्य किया।
+Tom didn't agree.	Tom war nicht einverstanden.	टॉम सहमत नहीं था।
+Tom didn't agree. (Different Meaning)	Tom hat nicht zugestimmt.	टॉम सहमत नहीं था। (अलग अर्थ)
+Tom didn't argue.	Tom hat nicht argumentiert.	टॉम बहस नहीं किया।
+Tom didn't budge.	Tom hat nicht nachgegeben.	टॉम ने हिचकिचाया नहीं।
+Tom didn't do it.	Tom hat es nicht getan.	टॉम ने यह नहीं किया।
+Tom didn't drive.	Tom ist nicht gefahren.	टॉम ने ड्राइव नहीं की।
+Tom didn't drown.	Tom ist nicht ertrunken.	टॉम नहाना नहीं गया।
+Tom didn't laugh.	Tom hat nicht gelacht.	टॉम हंस नहीं हा।
+Tom didn't leave.	Tom ist nicht gegangen.	टॉम नहीं चला गया।
