@@ -6060,3 +6060,13 @@ I have no wife.	Ich habe keine Frau.	मेरी कोई पत्नी न�
 I have one kid.	Ich habe ein Kind.	मेरा एक बच्चा है।
 I have sisters.	Ich habe Schwestern.	मेरी बहनें हैं।
 I have the key.	Ich habe den Schlüssel.	मेरे पास चाबी है।
+I have to help.	Ich muss helfen.	मुझे मदद करनी है।
+I have to hide.	Ich muss mich verstecken.	मुझे छुपना है।
+I have to know.	Ich muss wissen.	मुझे पता होना चाहिए।
+I have to rest.	Ich muss mich ausruhen.	मुझे आराम करना है।
+I have to stop.	Ich muss aufhören.	मुझे रोकना है।
+I have to wait.	Ich muss warten.	मुझे इंतजार करना है।
+I have to work.	Ich muss arbeiten.	मुझे काम करना है।
+I hope so, too.	Ich hoffe auch so.	मैं भी उम्मीद करता हूँ।
+I hope you die.	Ich hoffe, du stirbst.	मैं चाहता हूं तुम मर जाओ।
+I hope you win.	Ich hoffe, du gewinnst.	मैं उम्मीद करता हूँ कि तुम जीतो।
