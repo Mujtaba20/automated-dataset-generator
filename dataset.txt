@@ -1,14 +1,4 @@
 
-You are my father.	Du bist mein Vater.	आप मेरे पिता हैं।
-You are my friend.	Du bist mein Freund.	आप मेरे दोस्त हैं।
-You are my friend.	Du bist meine Freundin.	तुम मेरी प्रेमिका हो।
-You are my mother.	Du bist meine Mutter.	आप मेरा माँ हो।
-You are one of us.	Du bist einer von uns.	आप हम में से एक हैं।
-You are one of us.	Du bist eine von uns.	आप हम में से एक हैं।
-You are safe here.	Hier bist du sicher.	यहाँ आपको यकीन है।
-You are so stupid.	Sie sind ein solcher Idiot!	आप इस तरह के एक बेवकूफ हैं!
-You are very rich.	Du bist sehr reich.	तुम बहुत पेसे वाले हो।
-You aren't needed.	Du wirst nicht gebraucht.	आपको जरूरत नहीं है।
 You aren't thirty.	Du bist keine 30.	आप 30 नहीं हैं।
 You bet I'm angry.	Klar bin ich wütend.	बेशक मैं गुस्से में हूँ।
 You bet I'm angry.	Und ob ich mich ärgere!	और अगर मैं नाराज हो जाता हूं!

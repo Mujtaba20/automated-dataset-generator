@@ -19980,3 +19980,13 @@ You are beautiful.	Du bist schön.	तुम खूबसूरत हो।
 You are fantastic.	Du bist fantastisch.	तुम अद्भुत हो।
 You are important.	Du bist wichtig.	तुम महत्वपूर्ण हो।
 You are in my way.	Du stehst mir im Weg.	तुम मेरे रास्ते में हो।
+You are my father.	Du bist mein Vater.	तुम मेरे पिता हो।
+You are my friend.	Du bist mein Freund.	तुम मेरे दोस्त हो।
+You are my friend. - 2	Du bist ein Freund von mir.	तुम मेरे एक दोस्त हो।
+You are my mother.	Du bist meine Mutter.	तुम मेरी माँ हो।
+You are one of us.	Du gehörst zu uns.	तुम हमारे बीच में से एक हो।
+You are one of us. - 2	Du bist einer von uns.	तुम हमारे में से एक हो।
+You are safe here.	Du bist hier sicher.	यहाँ तुम्हारी सुरक्षा है।
+You are so stupid.	Du bist so dumm.	तुम इतने मूर्ख हो।
+You are very rich.	Du bist sehr reich.	तुम बहुत धनवान हो।
+You aren't needed.	Du wirst nicht benötigt.	तुम्हें आवश्यक नहीं है।
