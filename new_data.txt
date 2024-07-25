@@ -12556,3 +12556,11 @@ I love your name.	Ich mag deinen Namen.	मुझे तुम्हारा �
 I loved that car.	Ich mochte das Auto.	मुझे वह कार पसंद थी।
 I loved the play.	Ich liebte das Theaterstück.	मुझे वह नाटक पसंद था।
 I made Tom happy.	Ich habe Tom glücklich gemacht.	मैंने टॉम को खुश किया।
+I made Tom laugh.	Ich habe Tom lachen lassen.	मैंने टॉम को हंसाया।
+I made Tom leave.	Ich habe Tom gehen lassen.	मैंने टॉम को जाने दिया।
+I made a mistake.	Ich habe einen Fehler begangen.	मैंने एक गलती की।
+I made a promise.	Ich habe ein Versprechen gemacht.	मैंने एक वादा किया।
+I made her angry.	Ich habe sie wütend gemacht.	मैंने उसे गुस्सा दिलाया।
+I made him do so.	Ich habe ihn das tun lassen.	मैंने उसे यह करने दिया।
+I made it myself.	Ich habe es selbst geschaffen.	मैंने खुद किया।
+I made spaghetti.	Ich habe Spaghetti gemacht.	मैंने स्पैगेटी बनाई।
