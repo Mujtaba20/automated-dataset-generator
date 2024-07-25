@@ -11632,3 +11632,9 @@ Could I help you?	Könnte ich Ihnen helfen?	क्या मैं आपकी 
 Continue digging.1	Fahren Sie mit dem Graben fort.	खोदना जारी रखें।
 Control yourself.1	Beherrsche dich.	अपने आप को नियंत्रित करो।
 Could I help you?.1	Könnte ich Ihnen behilflich sein?	क्या मैं आपकी सहायता कर सकता हूँ?
+Cows supply milk.	Kühe liefern Milch.	गायें दूध देती हैं।
+Cross the street.	Die Straße überqueren.	सड़क पार करो।
+Crying is normal.	Weinen ist normal.	रोना सामान्य है।
+Cut the potatoes.	Schneidet die Kartoffeln.	आलू काटो।
+Did Tom bite you?	Hat Tom dich gebissen?	क्या टॉम ने तुम्हें चबाया?
+Did Tom call you?	Hat Tom dich angerufen?	क्या टॉम ने तुम्हे फ़ोन किया?
