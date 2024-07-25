@@ -1,15 +1,4 @@
 
-Can I have a donut?	Kann ich einen Donut haben?	क्या मुझे डोनट मिल सकता है?
-Can I have it back?	Kann ich das wiederhaben?	क्या मुझे वह वापस मिल सकता है?
-Can I rent rackets?	Kann ich Schläger mieten?	क्या मैं एक रैकेट किराए पर ले सकता हूं?
-Can I see that one?	Kann ich das mal sehen?	क्या मैं यह देख सकता हूँ?
-Can I see this one?	Kann ich mir dieses hier ansehen?	क्या मैं इसे यहाँ देख सकता हूँ?
-Can I sit with you?	Darf ich mich zu dir setzen?	क्या मैं आपके बगल में बैठ सकता हूं?
-Can I sit with you?	Darf ich mich zu Ihnen setzen?	क्या मैं आपके बगल में बैठ सकता हूं?
-Can I sit with you?	Kann ich mich zu dir setzen?	क्या मैं आपके साथ बैठ सकता हूं?
-Can I sit with you?	Kann ich mich zu Ihnen setzen?	क्या मैं आपके साथ बैठ सकता हूं?
-Can I speak to Tom?	Kann ich mit Tom sprechen?	क्या मैं टॉम से बात कर सकता हूं?
-Can I speak to Tom?	Darf ich mit Tom sprechen?	क्या मैं टॉम से बात कर सकता हूं?
 Can I take it home?	Kann ich es nach Hause mitnehmen?	क्या मैं इसे अपने साथ घर ले जा सकता हूं?
 Can I take it home?	Kann ich sie nach Hause mitnehmen?	क्या मैं उसे अपने घर ले जा सकता हूं?
 Can I take it home?	Kann ich ihn nach Hause mitnehmen?	क्या मैं इसे अपने साथ घर ले जा सकता हूं?

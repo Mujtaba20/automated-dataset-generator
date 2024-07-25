@@ -20310,3 +20310,10 @@ Better him than me.	Besser er als ich.	मुझसे उससे अच्छ
 Birds are chirping.	Vögel zwitschern.	पंछी चीचक रहे हैं।
 Books fascinate me.	Bücher faszinieren mich.	मुझे पुस्तकें आकर्षित करती हैं।
 engSentence	{'Boston is changing.': 'Boston verändert sich.', "Both can't be true.": 'Beides kann nicht wahr sein.', 'Both girls laughed.': 'Beide Mädchen lachten.', 'Boys, be ambitious.': 'Jungs, sei ehrgeizig.', 'Breakfast is ready.': 'Das Frühstück ist fertig.', 'Caffeine is a drug.': 'Koffein ist eine Droge.', 'Can I borrow those?': 'Kann ich die ausleihen?', 'Can I call you Tom?': 'Kann ich dich Tom nennen?', 'Can I get a pillow?': 'Kann ich ein Kissen bekommen?'}	{'Boston is changing.': 'बोस्टन बदल रहा है।', "Both can't be true.": 'दोनों सही नहीं हो सकते।', 'Both girls laughed.': 'दोनों लड़कियां हँसी।', 'Boys, be ambitious.': 'लड़के, महत्वाकांक्षी बनो।', 'Breakfast is ready.': 'नाश्ता तैयार है।', 'Caffeine is a drug.': 'कैफीन एक दवा है।', 'Can I borrow those?': 'क्या मैं उन्हें उधार ले सकता हूं?', 'Can I call you Tom?': 'क्या मैं तुम्हें टॉम बुला सकता हूँ?', 'Can I get a pillow?': 'क्या मुझे एक तकिया मिल सकता है?'}
+Can I have a donut?	Kann ich einen Donut haben?	क्या मुझे एक डोनट मिल सकता है?
+Can I have it back?	Kann ich es zurückhaben?	क्या मैं इसे वापस ले सकता हूँ?
+Can I rent rackets?	Kann ich Schläger mieten?	क्या मैं रैकेट किराए पर ले सकता हूँ?
+Can I see that one?	Kann ich das sehen?	क्या मैं वह देख सकता हूँ?
+Can I see this one?	Kann ich das sehen?	क्या मैं यह देख सकता हूँ?
+Can I sit with you?	Kann ich mich zu dir setzen?	क्या मैं आपके साथ बैठ सकता हूँ?
+Can I speak to Tom?	Kann ich mit Tom sprechen?	क्या मैं टॉम से बात कर सकता हूँ?
