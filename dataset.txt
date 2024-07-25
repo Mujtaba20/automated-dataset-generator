@@ -1,14 +1,4 @@
 
-Tom hates himself.	Tom hasst sich selbst.	टॉम खुद से नफरत करता है।
-Tom hates his job.	Tom hasst seine Arbeit.	टॉम अपने काम से नफरत करता है।
-Tom hates insects.	Tom hasst Insekten.	टॉम कीटों से नफरत करता है।
-Tom hates jogging.	Tom hasst Joggen.	टॉम जॉगिंग से नफरत करता है।
-Tom hates jogging.	Tom joggt nicht gerne.	टॉम को जॉग करना पसंद नहीं है।
-Tom hates parties.	Tom hasst Partys.	टॉम को पार्टियों से नफरत है।
-Tom hates running.	Tom hasst es zu laufen.	टॉम को दौड़ने से नफरत है।
-Tom hates secrets.	Tom hasst Geheimnisse.	टॉम से नफरत है।
-Tom hates spiders.	Tom hasst Spinnen.	टॉम को मकड़ियों से नफरत है।
-Tom heard a noise.	Tom hörte ein Geräusch.	टॉम ने एक आवाज सुनी।
 Tom heard a shout.	Tom hörte einen Schrei.	टॉम ने एक चीख सुनी।
 Tom heard nothing.	Tom hörte nichts.	टॉम ने कुछ नहीं सुना।
 Tom heard yelling.	Tom hörte schreien.	टॉम ने चीखें सुनीं।

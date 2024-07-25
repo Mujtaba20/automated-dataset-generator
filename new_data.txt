@@ -18554,3 +18554,12 @@ Tom hated himself.	Tom hasste sich selbst.	टॉम ने खुद को न
 Tom hated spinach.	Tom hasste Spinat.	टॉम को पालक से नफरत थी।
 Tom hates carrots.	Tom hasst Karotten.	टॉम को गाजरों से नफरत है।
 Tom hates dancing.	Tom hasst tanzen.	टॉम को नृत्य से नफरत है।
+Tom hates himself.	Tom hasst sich selbst.	टॉम को खुद से नफरत है।
+Tom hates his job.	Tom hasst seinen Job.	टॉम को अपने काम से नफरत है।
+Tom hates insects.	Tom hasst Insekten.	टॉम को कीट के खिलाफ नफरत है।
+Tom hates jogging.	Tom hasst Joggen.	टॉम को जॉगिंग से नफरत है।
+Tom hates parties.	Tom hasst Partys.	टॉम को पार्टियों से नफरत है।
+Tom hates running.	Tom hasst das Laufen.	टॉम को दौड़ने से नफरत है।
+Tom hates secrets.	Tom hasst Geheimnisse.	टॉम को राज से नफरत है।
+Tom hates spiders.	Tom hasst Spinnen.	टॉम को मकड़ियों से नफरत है।
+Tom heard a noise.	Tom hörte ein Geräusch.	टॉम ने एक ध्वनि सुनी।
