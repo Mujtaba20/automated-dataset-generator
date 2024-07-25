@@ -14820,3 +14820,10 @@ Tom wasn't tired.	Tom war nicht müde.	टॉम थका नहीं था�
 Tom wasn't upset.	Tom war nicht verärgert.	टॉम परेशान नहीं था।
 Tom wasn't vague.	Tom war nicht vage.	टॉम अस्पष्ट नहीं था।
 Tom wasn't wrong.	Tom lag nicht falsch.	टॉम गलत नहीं था।
+Tom wasn't young.	Tom war nicht jung.	टॉम जवान नहीं था।
+Tom watched Mary.	Tom sah Mary.	टॉम ने मेरी की निगाहें देखी।
+Tom watches Mary.	Tom beobachtet Maria.	टॉम मेरी को देखता है।
+Tom wears a ring.	Tom hat einen Ring an.	टॉम एक अंगूठी पहन रहा है।
+Tom went bananas.	Tom drehte durch.	टॉम पागल हो गया।
+Tom went berserk.	Tom wurde rasend.	टॉम उन्माद में चला गया।
+Tom went bonkers.	Tom wurde verrückt.	टॉम पागल हो गया।
