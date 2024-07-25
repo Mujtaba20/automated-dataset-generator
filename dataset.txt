@@ -1,14 +1,4 @@
 
-The door's locked.	Die Tür ist verschlossen.	दरवाजा बंद कर दिया गया है।
-The doorbell rang.	Es klingelte an der Tür.	घर की घंटी बजी।
-The earth rotates.	Die Erde dreht sich.	पृथ्वी बदल जाती है।
-The enemy is weak.	Der Feind ist schwach.	दुश्मन कमजोर है।
-The fire went out.	Das Feuer ging aus.	आग बाहर चली गई।
-The fire went out.	Das Feuer erlosch.	आग बाहर चली गई।
-The floor creaked.	Der Boden knarrte.	फर्श चरमरा गया।
-The floor is cold.	Der Fußboden ist kalt.	फर्श ठंडा है।
-The food is ready.	Das Essen ist fertig.	भोजन तैयार है।
-The fork is dirty.	Die Gabel ist schmutzig.	कांटा गंदा है।
 The gate was open.	Die Tür stand auf.	दरवाजा उठ गया।
 The gate was open.	Die Tür war auf.	दरवाजा ऊपर था।
 The girls fainted.	Die Mädchen fielen in Ohnmacht,	लड़कियां बेहोश हो गईं

@@ -18013,3 +18013,12 @@ The dog was dying.	Der Hund war am Sterben.	कुत्ता मर रहा 
 The dog went away.	Der Hund ging weg.	कुत्ता चला गया।
 The door squeaked.	Die Tür quietschte.	दरवाजा चिल्लाया।
 The door was ajar.	Die Tür stand einen Spalt offen.	दरवाजा आधा खुला था।
+The door's locked.	Die Tür ist verschlossen.	दरवाज़ा बंद है।
+The doorbell rang.	Es klingelte an der Tür.	दरवाज़े की घंटी बजी।
+The earth rotates.	Die Erde dreht sich.	पृथ्वी घूमती है।
+The enemy is weak.	Der Feind ist schwach.	दुश्मन कमजोर है।
+The fire went out.	Das Feuer ist erloschen.	आग बुझ गई।
+The floor creaked.	Der Boden knarrte.	फर्श चीर गया।
+The floor is cold.	Der Boden ist kalt.	फर्श सर्द है।
+The food is ready.	Das Essen ist fertig.	खाना तैयार है।
+The fork is dirty.	Die Gabel ist schmutzig.	काँटा गंदा है।
