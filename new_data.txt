@@ -10695,3 +10695,12 @@ Tom sang softly.	Tom sang leise.	टॉम ने नरमी से गाय�
 Tom sat quietly.	Tom saß ruhig.	टॉम शांत बैठा था।
 Tom sat reading.	Tom saß lesend.	टॉम पढ़ते हुए बैठा था।
 Tom sat waiting.	Tom saß wartend.	टॉम इंतजार करते हुए बैठा था।
+Tom saw a ghost.	Tom sah ein Gespenst.	टॉम ने एक भूत देखा।
+Tom saw a mouse.	Tom sah eine Maus.	टॉम ने एक चूहा देखा।
+Tom saw a shark.	Tom sah einen Hai.	टॉम ने एक शार्क देखा।
+Tom saw it, too.	Tom sah es auch.	टॉम ने यह भी देखा।
+Tom saw nothing.	Tom sah nichts.	टॉम कुछ नहीं देखा।
+Tom saw someone.	Tom sah jemanden.	टॉम ने किसी को देखा।
+Tom saw the bus.	Tom sah den Bus.	टॉम ने बस देखी।
+Tom saw the cat.	Tom sah die Katze.	टॉम ने बिल्ली देखी।
+Tom scares easy.	Tom erschrickt leicht.	टॉम आसानी से डर जाता है।
