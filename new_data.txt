@@ -5488,3 +5488,13 @@ You're biased.	Du bist parteiisch.	आप पक्षपाती हैं।
 You're famous.	Du bist bekannt.	आप प्रसिद्ध हैं।
 You're insane.	Du bist verrückt.	आप पागल हैं।
 You're joking!	Du machst Scherze!	आप मजाक कर रहे हैं!
+You're losing.	Du verlierst.	तुम हार रहे हो।
+You're modest.	Du bist bescheiden.	तुम विनम्र हो।
+You're modest. (Different Meaning)	Du bist bescheiden.	तुम सरल हो।
+You're modest. (Different Meaning 2)	Du bist bescheiden.	तुम नम्र हो।
+You're my age.	Du bist in meinem Alter.	तुम मेरी उम्र के हो।
+You're my son.	Du bist mein Sohn.	तुम मेरा बेटा हो।
+You're not me.	Du bist nicht ich.	तुम मैं नहीं हो।
+You're paying.	Du zahlst.	तुम भुगत रहे हो।
+You're paying. (Different Meaning)	Du zahlst.	तुम चुका रहे हो।
+You're paying. (Different Meaning 2)	Du zahlst.	तुम देने के लिए हो।
