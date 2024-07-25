@@ -7399,3 +7399,12 @@ Tom is thirsty.	Tom hat Durst.	टॉम प्यासा है।
 Tom is through.	Tom ist durch.	टॉम खत्म हो गया है।
 Tom is touched.	Tom ist berührt.	टॉम आकर्षित है।
 Tom is trapped.	Tom ist gefangen.	टॉम फंसा है।
+Tom is unarmed.	Tom ist unbewaffnet.	टॉम हथियारहीन है।
+Tom is unfazed.	Tom ist unbeeindruckt.	टॉम असंवेदनशील है।
+Tom is unlucky.	Tom hat kein Glück.	टॉम को अज्ञात संयोग से कोई नुकसान हो गया।
+Tom is unmoved.	Tom ist unbeeindruckt.	टॉम स्थायी है।
+Tom is unusual.	Tom ist ungewöhnlich.	टॉम असामान्य है।
+Tom is useless.	Tom ist nutzlos.	टॉम बेकार है।
+Tom is vicious.	Tom ist bösartig.	टॉम क्रूर है।
+Tom is violent.	Tom ist gewalttätig.	टॉम हिंसक है।
+Tom is waiting.	Tom wartet.	टॉम इंतजार कर रहा है।
