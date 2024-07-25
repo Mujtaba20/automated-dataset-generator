@@ -9675,3 +9675,12 @@ Merry Christmas!	Frohe Weihnachten!	मेरी क्रिसमस!
 Merry Christmas! - 2	Fröhliche Weihnachten!	शुभ क्रिसमस!
 Might I come in?	Kann ich reinkommen?	क्या मैं अंदर आ सकता हूँ?
 Mistakes happen.	Fehler passieren.	गलतियाँ हो जाती हैं।
+Mom has a fever.	Mama hat Fieber.	माँ को बुखार है।
+Mom, I'm hungry.	Mama, ich bin hungrig.	माँ, मुझे भूख लगी है।
+Money is needed.	Geld wird benötigt.	पैसे चाहिए।
+Money was tight.	Das Geld war knapp.	पैसा था मुश्किल।
+My TV is broken.	Mein Fernseher ist kaputt.	मेरा टीवी टूट गया है।
+My bag is empty.	Meine Tasche ist leer.	मेरी बैग खाली है।
+My book is here.	Mein Buch ist hier.	मेरी किताब यहाँ है।
+My bottle broke.	Meine Flasche ist kaputt gegangen.	मेरी बोतल टूट गई।
+My cat is black.	Meine Katze ist schwarz.	मेरी बिल्ली काली है।
