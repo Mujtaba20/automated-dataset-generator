@@ -8818,3 +8818,12 @@ I hurt my elbow.	Ich habe mir den Ellbogen verletzt.	मैंने अपन�
 I intend to try.	Ich beabsichtige zu versuchen.	मैं कोशिश करने का इरादा रखता हूँ।
 I just finished.	Ich habe gerade beendet.	मैंने अभी अंत किया।
 I just found it.	Ich habe es gerade entdeckt.	मैंने इसे अभी ही पाया।
+I just moved in.	Ich bin gerade eingezogen.	मैंने अभी ही खरीदा किया।
+I just showered.	Ich habe gerade geduscht.	मैंने अभी ही नहाया।
+I just threw up.	Ich habe gerade erbrochen.	मैंने अभी ही उल्टी की।
+I just told Tom.	Ich habe es Tom gerade erzählt.	मैंने अभी ही टॉम को बताया।
+I keep sneezing.	Ich muss niesen.	मुझे छींक आ रही है।
+I kept speaking.	Ich sprach weiter.	मैंने बोलना जारी रखा।
+I knew Tom well.	Ich kannte Tom gut.	मैंने टॉम को अच्छे से जाना।
+I knew the risk.	Ich kannte das Risiko.	मैंने खतरा जाना।
+I knew too much.	Ich wusste zu viel.	मुझे बहुत कुछ पता था।
