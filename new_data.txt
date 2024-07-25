@@ -20210,3 +20210,10 @@ You're too little.	Du bist zu klein.	तुम बहुत छोटे हो�
 You're too skinny.	Du bist zu dünn.	तुम बहुत पतले हो।
 You're unreliable.	Du bist unzuverlässig.	तुम अविश्वसनीय हो।
 You're untalented.	Du bist untalentiert.	तुम अर्थकोषिकी हो।
+You're very alert.	Du bist sehr wachsam.	तुम बहुत चौकस हो।
+You're very brave.	Du bist sehr mutig.	तुम बहुत बहादुर हो।
+You're very funny.	Du bist sehr lustig.	तुम बहुत मजेदार हो।
+You're very lucky.	Du bist sehr glücklich.	तुम्हारे साथ बहुत भाग्य है।
+You're very sharp.	Du bist sehr scharf.	तुम बहुत तेज हो।
+You're very smart.	Du bist sehr klug.	तुम बहुत स्मार्ट हो।
+You're very sweet.	Du bist sehr süß.	तुम बहुत प्यारी हो।
