@@ -288,3 +288,8 @@ engSentence2	Entfernen Sie sich!	गायब हो जाओ!
 engSentence3	Geh weg!	चला जा!
 engSentence4	Verschwinde!	ग़ायब हो जाओ!
 engSentence5	Hau ab!	दूर हो जाओ!
+Get real!	Werde real!	असली हो जाओ!
+Go ahead!	Vorwärts!	आगे बढ़ो!
+Go ahead.	Mach weiter.	आगे बढ़ें।
+Grab Tom.	Schnapp dir Tom.	टॉम को पकड़ो।
+Grab him.	Greif ihn.	उसे पकड़ो।
