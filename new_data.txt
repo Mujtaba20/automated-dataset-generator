@@ -10866,3 +10866,12 @@ Tom was praying.	Tom betete.	टॉम प्रार्थना कर रह
 Tom was present.	Tom war anwesend.	टॉम मौजूद था।
 Tom was puzzled.	Tom war verwirrt.	टॉम हैरान था।
 Tom was relaxed.	Tom war entspannt.	टॉम थोड़ा आराम से था।
+Tom was running.	Tom lief.	टॉम दौड़ रहा था।
+Tom was selfish.	Tom war egoistisch.	टॉम अभावी था।
+Tom was serious.	Tom war ernst.	टॉम गंभीर था।
+Tom was shocked.	Tom war schockiert.	टॉम चौंका दिया।
+Tom was singing.	Tom sang.	टॉम गा रहा था।
+Tom was smiling.	Tom lächelte.	टॉम मुस्कान देने लगा।
+Tom was smoking.	Tom rauchte.	टॉम सिगरेट पी रहा था।
+Tom was snoring.	Tom schnarchte.	टॉम खर्राटे ले रहा था।
+Tom was so busy.	Tom war so beschäftigt.	टॉम इतना व्यस्त था।
