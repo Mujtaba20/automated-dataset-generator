@@ -12757,3 +12757,9 @@ I won't be ready.	Ich werde nicht bereit sein.	मैं तैयार नह�
 I won't buy that.	Das werde ich nicht kaufen.	मैं वह नहीं खरीदूंगा।
 I won't help you.	Ich werde dir nicht helfen.	मैं आपकी मदद नहीं करूंगा।
 I won't hurt you.	Ich werde dich nicht verletzen.	मैं तुम्हें नहीं चोट पहुँचाऊँगा।
+I won't need you.	Ich werde dich nicht brauchen.	मुझे तुम्हें जरुरत नहीं होगी।
+I won't obey you.	Ich werde dir nicht gehorchen.	मैं तुम्हारे आदेश पालन नहीं करूंगा।
+I won't stop you.	Ich werde dich nicht aufhalten.	मैं तुम्हें रोकने नहीं दूंगा।
+I won't tell Tom.	Ich werde Tom nicht sagen.	मैं टॉम को नहीं बताऊंगा।
+I won't tell you.	Ich werde es dir nicht sagen.	मैं तुम्हें नहीं बताऊंगा।
+I work in Boston.	Ich arbeite in Boston.	मैं बोस्टन में काम करता हूँ।
