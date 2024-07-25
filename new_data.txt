@@ -6167,3 +6167,11 @@ I loved school.	Ich habe die Schule geliebt.	मैंने स्कूल क
 I made Tom mad.	Ich machte Tom wütend.	मैंने टॉम को गुस्सा दिलाया।
 I made cookies.	Ich habe Kekse gemacht.	मैंने कुकीज़ बनाई।
 I made her cry.	Ich habe sie zum Weinen gebracht.	मैंने उसे रोते हुए देखा।
+I made him cry.	Ich habe ihn weinen lassen.	मैंने उसे रोते हुए देखा।
+I made that up.	Ich habe mir das ausgedacht.	मैंने वह बात झूठा बनाया।
+I may be wrong.	Ich könnte mich irren.	मैं गलत हो सकता हूँ।
+I may know Tom.	Ich könnte Tom kennen.	मुझे शायद टॉम पता हो।
+I may not come.	Ich komme vielleicht nicht.	मैं शायद नहीं आऊँगा।
+I met Tom here.	Ich traf Tom hier.	मैंने यहां टॉम से मिला।
+I met a friend.	Ich traf einen Freund.	मैंने एक दोस्त से मिला।
+I met him once.	Ich habe ihn einmal getroffen.	मैंने उससे एक बार मिला।
