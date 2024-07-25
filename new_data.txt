@@ -20059,3 +20059,8 @@ You know everyone.	Du kennst jeden.	तुम सबको जानते ह�
 You know the rest.	Sie kennen den Rest.	तुम बाकी को जानते हो।
 You know too much.	Du kennst zu viel.	तुम बहुत कुछ जानती हो।
 You know who I am.	Sie wissen, wer ich bin.	तुम जानते हो कि मैं कौन हूँ।
+You learn quickly.	Du lernst schnell.	तुम जल्दी सीखते हो।
+You like everyone.	Du magst alle.	तुम सभी को पसंद करते हो।
+You look European.	Du siehst europäisch aus.	तुम यूरोपीय लगते हो।
+You look Japanese.	Du siehst japanisch aus.	तुम जापानी लगते हो।
+You look confused.	Du siehst verwirrt aus.	तुम भ्रमित लगते हो।

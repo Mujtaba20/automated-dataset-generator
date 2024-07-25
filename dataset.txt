@@ -1,17 +1,4 @@
 
-You learn quickly.	Du lernst schnell.	आप जल्दी से सीखते हैं।
-You learn quickly.	Sie lernen schnell.	आप जल्दी से सीखते हैं।
-You like everyone.	Du magst jeden.	आप सभी को पसंद करते हैं।
-You look European.	Sie sehen europäisch aus.	आप यूरोपीय दिखते हैं।
-You look European.	Du siehst europäisch aus.	आप यूरोपीय दिखते हैं।
-You look European.	Ihr seht europäisch aus.	आप यूरोपीय दिखते हैं।
-You look Japanese.	Du siehst japanisch aus.	आप जापानी दिखते हैं।
-You look Japanese.	Ihr seht japanisch aus.	आप जापानी दिखते हैं।
-You look Japanese.	Sie sehen japanisch aus.	आप जापानी दिखते हैं।
-You look confused.	Sie machen einen verwirrten Eindruck.	वे एक भ्रमित छाप बनाते हैं।
-You look confused.	Du siehst irritiert aus.	आप चिढ़ते हैं।
-You look confused.	Ihr seht irritiert aus.	आप चिढ़ते हैं।
-You look confused.	Sie sehen irritiert aus.	वे चिढ़ते हैं।
 You look fabulous.	Du siehst toll aus.	आप बहुत अच्छे लग रहे हो।
 You look fabulous.	Ihr seht toll aus.	आप बहुत अच्छे लग रहे हो।
 You look fabulous.	Sie sehen toll aus.	आप बहुत अच्छे लग रहे हो।
