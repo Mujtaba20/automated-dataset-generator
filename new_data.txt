@@ -16808,3 +16808,10 @@ I saw Tom do that.	Ich sah Tom das tun.	मैंने टॉम को ऐस�
 I saw Tom take it.	Ich sah, wie Tom es nahm.	मैंने देखा कि टॉमने यह लिया।
 I saw Tom tonight.	Ich sah Tom heute Abend.	मैंने टॉम को आज रात देखा।
 I saw an airplane.	Ich sah ein Flugzeug.	मैंने एक हवाई जहाज देखा।
+I saw him running.	Ich sah ihn rennen.	मैंने उसे दौड़ते हुए देखा।
+I saw that coming.	Das habe ich kommen sehen.	मुझे इसे आते देखा।
+I saw the message.	Ich habe die Nachricht gesehen.	मैंने संदेश देखा।
+I saw the sunrise.	Ich sah den Sonnenaufgang.	मैंने सूर्योदय देखा।
+I saw this coming.	Ich habe das kommen sehen.	मुझे यह आते देखा।
+I saw you looking.	Ich habe dich beim Schauen gesehen.	मैंने तुम्हें देखते हुए देखा।
+I saw your father.	Ich sehe deinen Vater.	मैंने तुम्हारे पिताजी को देखा।
