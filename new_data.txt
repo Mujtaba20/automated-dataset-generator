@@ -10685,3 +10685,13 @@ Tom picks on me.	Tom macht sich über mich lustig.	टॉम मेरे सा
 Tom plays piano.	Tom spielt Klavier.	टॉम पियानो बजाता है।
 Tom plays rugby.	Tom spielt Rugby.	टॉम रग्बी खेलता है।
 Tom quit school.	Tom hat die Schule abgebrochen.	टॉम ने स्कूल छोड़ दिया।
+Tom ran outside.	Tom ran draußen.	टॉम बाहर भागा।
+Tom read a book.	Tom las ein Buch.	टॉम एक किताब पढ़ी।
+Tom read novels.	Tom las Romane.	टॉम उपन्यास पढ़ता था।
+Tom reads a lot.	Tom liest viel.	टॉम बहुत पढ़ता है।
+Tom recorded it.	Tom hat es aufgenommen.	टॉम ने इसे रिकॉर्ड किया।
+Tom sang a song.	Tom sang ein Lied.	टॉम ने एक गाना गाया।
+Tom sang softly.	Tom sang leise.	टॉम ने नरमी से गाया।
+Tom sat quietly.	Tom saß ruhig.	टॉम शांत बैठा था।
+Tom sat reading.	Tom saß lesend.	टॉम पढ़ते हुए बैठा था।
+Tom sat waiting.	Tom saß wartend.	टॉम इंतजार करते हुए बैठा था।
