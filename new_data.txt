@@ -9386,3 +9386,12 @@ Is Tom fighting?	Kämpft Tom?	क्या टॉम लड़ाई कर र�
 Is Tom handsome?	Ist Tom gutaussehend?	क्या टॉम हैंडसम है?
 Is Tom here now?	Ist Tom jetzt hier?	क्या टॉम अभी यहाँ है?
 Is Tom in there?	Ist Tom da drinnen?	क्या टॉम अंदर है?
+Is Tom infected?	Ist Tom infiziert?	क्या टॉम संक्रमित है?
+Is Tom positive?	Ist Tom positiv?	क्या टॉम सकारात्मक है?
+Is Tom prepared?	Ist Tom bereit?	क्या टॉम तैयार है?
+Is Tom reliable?	Ist Tom zuverlässig?	क्या टॉम विश्वसनीय है?
+Is Tom sleeping?	Schläft Tom?	क्या टॉम सो रहा है?
+Is Tom still up?	Ist Tom noch wach?	क्या टॉम अब भी जाग रहा है?
+Is Tom swimming?	Schwimmt Tom?	क्या टॉम तैर रहा है?
+Is Tom with you?	Ist Tom bei dir?	क्या टॉम तुम्हारे साथ है?
+Is anybody here?	Ist hier jemand?	क्या कोई यहाँ है?
