@@ -2603,3 +2603,4 @@ Help Tom out.	Helfen Sie Tom.	टॉम को सहायता दें।
 Here you are.	Hier bist du.	तुम यहाँ हो।
 Hey, wait up!	Hey, bleib stehen!	अरे, रुको!
 Hey, wait up.	Hey, warte mal.	अरे, ठहरो।
+engSentence	{'Honesty pays.': 'Ehrlichkeit zahlt.', 'How arrogant!': 'Wie arrogant!', 'How barbaric!': 'Wie barbarisch!', 'How dare you!': 'Wie kannst du es wagen!', 'How exciting!': 'Wie aufregend!', 'How horrible!': 'Wie schrecklich!', 'How pathetic!': 'Wie erbärmlich!', 'How romantic!': 'Wie romantisch!', 'How touching!': 'Wie berührend!'}	{'Honesty pays.': 'सच्चाई लाभदायक है।', 'How arrogant!': 'कितना ढीठ!', 'How barbaric!': 'कितना प्राचीन!', 'How dare you!': 'तुम्हें कैसे दिखाई दिया!', 'How exciting!': 'कितना उत्तेजक!', 'How horrible!': 'कितना भयानक!', 'How pathetic!': 'कितना दयनीय!', 'How romantic!': 'कितना रोमांचक!', 'How touching!': 'कितना स्पर्शमय!'}
