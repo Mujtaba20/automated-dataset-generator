@@ -10675,3 +10675,13 @@ Tom never fails.	Tom scheitert nie.	टॉम कभी नहीं असफ�
 Tom never falls.	Tom fällt nie.	टॉम कभी नहीं गिरता।
 Tom never jokes.	Tom macht nie Witze.	टॉम कभी मजाक नहीं करता।
 Tom never reads.	Tom liest nie.	टॉम कभी नहीं पढ़ता।
+Tom never stops.	Tom hört nie auf.	टॉम कभी नहीं रुकता।
+Tom nodded back.	Tom nickte zurück.	टॉम ने पीछे सर हिलाया।
+Tom nodded once.	Tom nickte einmal.	टॉम एक बार सिर हिलाया।
+Tom overreacted.	Tom überreagierte.	टॉम अत्यधिक प्रतिक्रिया दिखाई।
+Tom owes me one.	Tom schuldet mir einen.	टॉम मुझसे एक कर्जदार है।
+Tom passed away.	Tom ist gestorben.	टॉम का देहावसान हो गया।
+Tom picks on me.	Tom macht sich über mich lustig.	टॉम मेरे साथ मजाक करता है।
+Tom plays piano.	Tom spielt Klavier.	टॉम पियानो बजाता है।
+Tom plays rugby.	Tom spielt Rugby.	टॉम रग्बी खेलता है।
+Tom quit school.	Tom hat die Schule abgebrochen.	टॉम ने स्कूल छोड़ दिया।
