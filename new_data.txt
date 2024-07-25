@@ -9541,3 +9541,10 @@ It's not a bomb.	Es ist keine Bombe.	यह बम नहीं है।
 It's not a fish.	Es ist kein Fisch.	यह मछली नहीं है।
 It's not a game.	Es ist kein Spiel.	यह खेल नहीं है।
 It's not a gift.	Es ist kein Geschenk.	यह उपहार नहीं है।
+It's not a joke.	Es ist kein Witz.	यह मजाक नहीं है।
+It's not broken.	Es ist nicht kaputt.	यह टूटा नहीं है।
+It's not enough.	Es reicht nicht aus.	यह काफी नहीं है।
+It's not my car.	Es ist nicht mein Auto.	यह मेरी कार नहीं है।
+It's not my day.	Es ist nicht mein Tag.	यह मेरा दिन नहीं है।
+It's not my job.	Das ist nicht mein Job.	यह मेरा काम नहीं है।
+It's not so far.	Es ist nicht so weit.	यह इतना दूर नहीं है।
