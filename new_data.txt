@@ -694,3 +694,9 @@ Nice shot!	Guter Schuss!	अच्छी गोली!
 Of course!	Natürlich!	बिल्कुल!
 Please go.	Bitte geh weiter.	कृपया आगे बढ़ें।
 Put it on.	Zieh es an.	इसे पहन लो।
+Read this.	lies das.	इसे पढ़ो।
+Repeat it.	Wiederholen Sie es.	इसे बार-बार दोहराएं।
+"Say ""aah."""	"Sag ""ahh."""	"कहें ""आआआ"""
+Say hello.	Sag Hallo.	नमस्कार कहो।
+See below.	Siehe unten.	नीचे देखें।
+Seize him!	Greif ihn dir!	उसे पकड़ें!
