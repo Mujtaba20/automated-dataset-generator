@@ -2326,3 +2326,10 @@ Who hit you?	Wer hat dich geschlagen?	तुम्हें किसने म�
 Who is next?	Wer ist als Nächster dran?	कौन अगला है?
 Who is that?	Wer ist das?	वह कौन है?
 Who saw you?	Wer hat dich gesehen?	तुम्हें किसने देखा?
+Who stopped?	Wer hat aufgehört?	किसने रुका?
+Who'll come?	Wer wird kommen?	कौन आएगा?
+Who'll cook?	Wer wird kochen?	कौन पकाएगा?
+Who's dying?	Wer stirbt?	कौन मर रहा है?
+Who's first?	Wer ist der Erste?	कौन पहले है?
+Who's going?	Wer geht?	कौन जा रहा है?
+Who's right?	Wer hat recht?	कौन सही है?
