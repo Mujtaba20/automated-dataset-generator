@@ -14518,3 +14518,12 @@ Tom loves trains.	Tom liebt Züge.	टॉम ट्रेनों से प्
 Tom loves tulips.	Tom liebt Tulpen.	टॉम ट्यूलिप्स से प्यार करता है।
 Tom made Mary go.	Tom ließ Maria gehen.	टॉम ने मेरी को जाने दिया।
 Tom made cookies.	Tom machte Kekse.	टॉम ने कुकीज बनाई।
+Tom made his bed.	Tom machte sein Bett.	टॉमने अपनी बिस्तर बनाया।
+Tom made me sing.	Tom ließ mich singen.	टॉमने मुझे गाने को कहा।
+Tom married Mary.	Tom heiratete Mary.	टॉमने मैरी से शादी की।
+Tom may be broke.	Tom könnte pleite sein.	टॉम गरीब हो सकता है।
+Tom may be there.	Tom könnte dort sein.	टॉम वहां हो सकता है।
+Tom may have won.	Tom könnte gewonnen haben.	टॉमने जीत सकती है।
+Tom may not come.	Tom könnte nicht kommen.	टॉम शायद ना आए।
+Tom may not know.	Tom könnte es nicht wissen.	टॉम को संभावित है कि पता नहीं हो।
+Tom mentioned it.	Tom erwähnte es.	टॉमने इसे उल्लेख किया।
