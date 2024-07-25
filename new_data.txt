@@ -15037,3 +15037,12 @@ We were so close.	Wir waren so nah.	हम इतने करीब थे।
 We were so proud.	Wir waren so stolz.	हम इतने गर्वित थे।
 We were stranded.	Wir waren gestrandet.	हम फंसे रह गए थे।
 We were studying.	Wir haben studiert.	हम पढ़ाई कर रहे थे।
+We weren't lucky.	Wir hatten kein Glück.	हमें भाग्य नहीं मिला।
+We will fix this.	Wir werden das reparieren.	हम यह ठीक करेंगे।
+We will not fail.	Wir werden nicht versagen.	हम इन्हें बिगड़ने नहीं देंगे।
+We won the fight.	Wir haben den Kampf gewonnen.	हमने लड़ाई जीती।
+We won this time.	Dieses Mal haben wir gewonnen.	इस बार हमने जीत ली।
+We work together.	Wir arbeiten zusammen.	हम साथ मिलकर काम करते हैं।
+We wrote to them.	Wir haben ihnen geschrieben.	हमने उन्हें लिखा।
+We'd better stop.	Wir sollten lieber aufhören.	हमें बेहतर है रुक जाएं।
+We'll be OK, Tom.	Es wird uns, Tom, gut gehen.	हम ठीक रहेंगे, टॉम।
