@@ -16658,3 +16658,13 @@ I liked the movie.	Der Film hat mir gefallen.	मुझे वह फिल्�
 I liked this book.	Ich mochte dieses Buch.	मुझे यह किताब पसंद थी।
 I liked this film.	Der Film hat mir gefallen.	मुझे यह फिल्म पसंद आई।
 I listen to music.	Ich höre Musik.	मैं संगीत सुनता हूँ।
+I lit the candles.	Ich habe die Kerzen angezündet.	मैंने मोमबत्तियां जलाईं।
+I live here alone.	Ich lebe hier alleine.	मैं यहाँ अकेला रहता हूँ।
+I live in a hotel.	Ich lebe in einem Hotel.	मैं होटल में रहता हूँ।
+I live in comfort.	Ich lebe in Komfort.	मैं आराम से रहता हूँ।
+I lived in Boston.	Ich habe in Boston gelebt.	मैंने बोस्टन में रहा।
+I locked the door.	Ich habe die Tür abgeschlossen.	मैंने दरवाजा बंद कर दिया।
+I lost everything.	Ich habe alles verloren.	मैंने सब कुछ खो दिया।
+I lost my glasses.	Ich habe meine Brille verloren.	मेरी चश्मा खो गई।
+I love being here.	Ich liebe es hier zu sein.	मुझे यहाँ होना पसंद है।
+I love doing that.	Ich liebe es, das zu tun.	मुझे वह करने में खुशी मिलती है।
