@@ -14951,3 +14951,10 @@ We demand action.	Wir fordern Maßnahmen.	हम कार्रवाई की
 We depend on you.	Wir sind von dir abhängig.	हम तुम पर निर्भर हैं।
 We didn't notice.	Wir haben nicht bemerkt.	हमने ध्यान नहीं दिया।
 We disturbed him.	Wir haben ihn gestört.	हमने उसे परेशान किया।
+We don't do that.	Das machen wir nicht.	हम ऐसा नहीं करते।
+We don't have it.	Wir haben es nicht.	हमारे पास यह नहीं है।
+We don't like it.	Das gefällt uns nicht.	हमें यह पसंद नहीं है।
+We don't want it.	Wir wollen es nicht.	हमें यह चाहिए नहीं।
+We feel very bad.	Wir fühlen uns sehr schlecht.	हमें बहुत बुरा लग रहा है।
+We found it here.	Wir haben es hier gefunden.	हमने यहाँ पाया है।
+We gave our word.	Wir haben unser word gegeben.	हमने अपना वादा दिया।
