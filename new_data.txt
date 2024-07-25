@@ -2503,3 +2503,8 @@ Don't eat it.	Iss es nicht.	उसे ना खाओ।
 Don't forget.	Vergiss es nicht.	न भूलें।
 Don't get up.	Stehen Sie nicht auf.	खड़े न हो।
 Don't go yet.	Geh nicht weg.	अभी न जाओ।
+Don't let go.	Nicht loslassen.	छोड़ मत दो।
+Don't scream.	Nicht schreien.	चिल्लाओ मत।
+Dress warmly.	Warm anziehen.	गर्म कपड़े पहनो।
+Drive faster.	Schneller fahren.	तेज चलाओ।
+Drive safely.	Sicher fahren.	सुरक्षित ढंग से ड्राइव करें।
