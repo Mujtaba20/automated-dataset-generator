@@ -9911,3 +9911,12 @@ That'll be nice.	Das wird schön sein.	वह अच्छा होगा।
 That's a banana.	Das ist eine Banane.	वह एक केला है।
 That's a church.	Das ist eine Kirche.	वह एक चर्च है।
 That's a pagoda.	Das ist eine Pagode.	वह एक पगोड़ा है।
+That's a pencil.	Das ist ein Bleistift.	यह एक पेंसिल है।
+That's a relief.	Das ist eine Erleichterung.	यह एक आराम है।
+That's a school.	Das ist eine Schule.	यह एक स्कूल है।
+That's about it.	Das ist es ungefähr.	यह उसी के बारे में है।
+That's an order.	Das ist ein Befehl.	यह एक आदेश है।
+That's cheating.	Das ist Betrug.	यह धोखा है।
+That's childish.	Das ist kindisch.	यह बच्चों जैसा है।
+That's doubtful.	Das ist fraglich.	यह संदेहास्पद है।
+That's for sure.	Das ist sicher.	यह पक्का है।
