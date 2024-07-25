@@ -8054,3 +8054,13 @@ You'll all die.	Ihr werdet alle sterben.	तुम सब मरोगे।
 You'll be fine.	Es wird Ihnen gut gehen.	तुम ठीक हो जाओगे।
 You'll do fine.	Du wirst gut machen.	तुम ठीक करोगे।
 You'll get one.	Du wirst eins bekommen.	तुम एक पाओगे।
+You'll like it.	Du wirst es mögen.	तुम्हें यह पसंद आएगा।
+You'll love it.	Du wirst es lieben.	तुम्हारी इससे प्यार आजाएगा।
+You'll make it.	Du wirst es schaffen.	तुम कर सकोगे।
+You'll make it. (second meaning)	Du wirst es herstellen.	तुम इसे बना लोगे।
+You'll miss me.	Du wirst mich vermissen.	तुम्हें मेरी कमी महसूस होगी।
+You'll see Tom.	Du wirst Tom sehen.	तुम टॉम को देखोगे।
+You're a child.	Du bist ein Kind.	तुम एक बच्चा हो।
+You're a loser.	Du bist ein Verlierer.	तुम हारने वाले हो।
+You're a woman.	Du bist eine Frau.	तुम एक महिला हो।
+You're amazing.	Du bist erstaunlich.	तुम अद्भुत हो।
