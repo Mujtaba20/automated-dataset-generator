@@ -1,14 +1,4 @@
 
-You never gave up.	Du gabst nie auf.	आपने कभी हार नहीं मानी।
-You never gave up.	Du hast nie aufgegeben.	आपने कभी हार नहीं मानी।
-You ought to know.	Du solltest es wissen.	आपको यह आना चाहिए।
-You owe me $1,000.	Du schuldest mir 1.000 $.	आप $ 1,000।
-You owe me $1,000.	Ihr schuldet mir 1.000 $.	आप मुझे $ 1,000 का भुगतान करते हैं।
-You owe me $1,000.	Sie schulden mir 1.000 $.	आप मुझे $ 1,000 का भुगतान करते हैं।
-You owe me a beer.	Du schuldest mir ein Bier.	तुम मुझे एक बीयर दे।
-You owe me a kiss.	Du schuldest mir einen Kuss!	तुम मुझे एक चुंबन दे!
-You read too much.	Du liest zu viel.	आप बहुत ज्यादा पढ़ते हैं।
-You saved my hide.	Du hast mir die Haut gerettet.	आपने मेरी त्वचा को बचाया।
 You saved my life.	Sie haben mir das Leben gerettet.	आप मेरी जान बचाई।
 You seem confused.	Sie machen einen verwirrten Eindruck.	वे एक भ्रमित छाप बनाते हैं।
 You seem stressed.	Du scheinst unter Stress zu stehen.	आप तनाव में हैं।

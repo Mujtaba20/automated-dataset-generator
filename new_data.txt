@@ -20103,3 +20103,10 @@ You need a lawyer.	Sie brauchen einen Anwalt.	तुम्हें वकील
 You need to leave.	Sie müssen gehen.	तुम्हें चले जाना चाहिए।
 You need to relax.	Du musst dich entspannen.	तुम्हें आराम करने की जरुरत है।
 You never call me.	Sie rufen mich nie an.	तुम मुझे हरगिज नहीं कोल करते।
+You never gave up.	Du hast nie aufgegeben.	तुम कभी हार नहीं माने।
+You ought to know.	Du solltest es wissen.	तुम्हें पता होना चाहिए।
+You owe me $1,000.	Du schuldest mir $1,000.	तुम्हें मुझसे $1,000 देना है।
+You owe me a beer.	Du schuldest mir ein Bier.	तुम्हें मुझसे एक बीयर देनी है।
+You owe me a kiss.	Du schuldest mir einen Kuss.	तुम्हें मुझसे एक चुंबन चाहिए।
+You read too much.	Du liest zu viel.	तुम बहुत ज्यादा पढ़ते हो।
+You saved my hide.	Du hast mein Leben gerettet.	तुमने मेरी जान बचाई।
