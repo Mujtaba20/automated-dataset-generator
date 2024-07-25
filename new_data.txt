@@ -3481,3 +3481,11 @@ Tom will pay.	Tom wird zahlen.	टॉम भुगतान करेगा।
 Tom will try.	Tom wird versuchen.	टॉम कोशिश करेगा।
 Tom will win.	Tom wird gewinnen.	टॉम जीतेगा।
 Tom'll speak.	Tom wird sprechen.	टॉम बात करेगा।
+Tom's afraid.	Tom hat Angst.	टॉम का डर है।
+Tom's amazed.	Tom ist erstaunt.	टॉम को हैरानी हुई।
+Tom's amused.	Tom ist amüsiert.	टॉम को मज़ा आया।
+Tom's asleep.	Tom schläft.	टॉम सो रहा है।
+Tom's coming.	Tom kommt.	टॉम आ रहा है।
+Tom's crying.	Tom weint.	टॉम रो रहा है।
+Tom's famous.	Tom ist berühmt.	टॉम मशहूर है।
+Tom's filthy.	Tom ist schmutzig.	टॉम गंदा है।
