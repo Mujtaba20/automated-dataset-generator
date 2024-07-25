@@ -11569,3 +11569,12 @@ Can I be of help?	Kann ich helfen?	क्या मैं मदद कर स�
 Can I borrow $30?	Kann ich 30 Dollar ausleihen?	क्या मैं 30 डॉलर उधार ले सकता हूँ?
 Can I dance here?	Kann ich hier tanzen?	क्या मैं यहाँ नृत्य कर सकता हूँ?
 Can I go surfing?	Kann ich surfen gehen?	क्या मैं सर्फिंग कर सकता हूँ?
+Can I go to work?	Kann ich zur Arbeit gehen?	क्या मैं काम पर जा सकता हूँ?
+Can I rest a bit?	Kann ich mich etwas ausruhen?	क्या मैं थोड़ी देर के लिए आराम कर सकता हूँ?
+Can I sleep here?	Kann ich hier schlafen?	क्या मैं यहाँ सो सकता हूँ?
+Can anyone drive?	Kann jemand fahren?	क्या कोई ड्राइव कर सकता है?
+Can anyone guess?	Kann es jemand erraten?	क्या कोई अनुमान लगा सकता है?
+Can rabbits swim?	Können Kaninchen schwimmen?	क्या खरगोश तैर सकते हैं?
+Can they hear us?	Können sie uns hören?	क्या वे हमें सुन सकते हैं?
+Can this be true?	Kann das wahr sein?	क्या यह सच हो सकता है?
+Can we afford it?	Können wir es uns leisten?	क्या हम इसका सामना कर सकते हैं?
