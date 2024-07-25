@@ -15280,3 +15280,11 @@ Who'd you invite?	Wen hast du eingeladen?	तुम किसे बुलात
 Who's Tom dating?	Mit wem datet Tom?	टॉम किसके साथ डेट कर रहा है?
 Who's my teacher?	Wer ist mein Lehrer?	मेरा शिक्षक कौन है?
 Who's not coming?	Wer kommt nicht?	कौन नहीं आ रहा है?
+Who's that woman?	Wer ist diese Frau?	वह महिला कौन है?
+Who's your uncle?	Wer ist dein Onkel?	तुम्हारे चाचा कौन है?
+Whose book is it?	Wessen Buch ist das?	ये किसकी किताब है?
+Whose plan is it?	Wessen Plan ist das?	ये किसकी योजना है?
+Whose turn is it?	Wessen Zug ist es?	ये किसकी बारी है?
+Why are you here?	Warum bist du hier?	तुम यहाँ क्यों हो?
+Why are you home?	Warum bist du zu Hause?	तुम घर पर क्यों हो?
+Why did you call?	Warum hast du angerufen?	तुमने क्यों कॉल किया?
