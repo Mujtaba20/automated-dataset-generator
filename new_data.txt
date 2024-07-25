@@ -17347,3 +17347,10 @@ It was very quiet.	Es war sehr ruhig.	यह बहुत शान्त था
 It was very small.	Es war sehr klein.	यह बहुत छोटा था।
 It was very windy.	Es war sehr windig.	यह बहुत हवाई था।
 It wasn't a dream.	Es war kein Traum.	यह कोई सपना नहीं था।
+It wasn't a party.	Es war keine Party.	यह एक पार्टी नहीं थी।
+It wasn't on sale.	Es war nicht im Angebot.	यह बिक्री में नहीं था।
+It wasn't planned.	Es war nicht geplant.	यह नियोजित नहीं था।
+It wasn't serious.	Es war nicht ernsthaft.	यह गंभीर नहीं था।
+It will grow back.	Es wird wieder wachsen.	यह फिर से उगेगा।
+It won't help you.	Es wird dir nicht helfen.	यह आपकी मदद नहीं करेगा।
+It worked for Tom.	Es hat bei Tom funktioniert.	टॉम के लिए काम किया।

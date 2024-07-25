@@ -1,14 +1,4 @@
 
-It wasn't a party.	Es war keine Party.	यह एक पार्टी नहीं थी।
-It wasn't on sale.	Es stand nicht zum Verkauf.	यह बिक्री के लिए नहीं था।
-It wasn't planned.	Das war nicht geplant.	वह योजना नहीं थी।
-It wasn't planned.	Das war ungeplant.	वह अनियोजित था।
-It wasn't planned.	Es war nicht geplant.	इसकी योजना नहीं थी।
-It wasn't planned.	Es war ungeplant.	यह अनियोजित था।
-It wasn't serious.	Es war nichts Ernstes.	यह कुछ भी गंभीर नहीं था।
-It will grow back.	Das wächst wieder nach.	वह फिर से बढ़ता है।
-It won't help you.	Das wird dir nicht helfen.	यह आपकी मदद नहीं करेगा।
-It worked for Tom.	Es wirkte sich positiv aus für Tom.	इसका टॉम के लिए सकारात्मक प्रभाव पड़ा।
 It'll come to you.	Es wird dir noch einfallen.	आप इसके बारे में सोचेंगे।
 It'll confuse him.	Das wird ihn verwirren.	वह उसे भ्रमित करेगा।
 It's Monday today.	Heute ist Montag.	आज सोमवार हे।
