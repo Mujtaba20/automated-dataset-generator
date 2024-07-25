@@ -8995,3 +8995,13 @@ I read the book.	Ich las das Buch.	मैंने किताब पढ़ी�
 I recommend Tom.	Ich empfehle Tom.	मैं टॉम की सिफारिश करता हूं।
 I relied on Tom.	Ich verließ mich auf Tom.	मैंने टॉम पर भरोसा किया।
 I relied on him.	Ich verließ mich auf ihn.	मैंने उस पर भरोसा किया।
+engSentence1	Ich erinnere mich an sie.	मैं उन्हें याद करता हूँ।
+engSentence2	Ich erinnere mich an sie.	मैं उन्हें याद करती हूँ।
+engSentence3	Ich erinnerte mich daran.	मैंने उसे याद किया।
+engSentence4	Ich respektierte Tom.	मैंने टॉम का सम्मान किया।
+engSentence5	Ich laufe jeden Tag.	मैं हर दिन दौड़ता हूँ।
+engSentence6	Ich sagte, ich würde warten.	मैंने कहा कि मैं इंतजार करूँगा।
+engSentence7	Ich sagte, es geht mir gut.	मैंने कहा मैं ठीक हूँ।
+engSentence8	Ich sagte zurückgehen!	मैंने कहा पीछे हटो!
+engSentence9	Ich sagte geh runter!	मैंने कहा नीचे जाओ!
+engSentence10	Ich sagte setz dich.	मैंने कहा बैठो।
