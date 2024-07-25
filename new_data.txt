@@ -15969,3 +15969,10 @@ He earns a living.	Er verdient seinen Lebensunterhalt.	वह अपना ज�
 He froze to death.	Er ist erfroren.	उसने मृत्यु के लिए जम गया।
 He gave her a box.	Er gab ihr eine Schachtel.	उसने उसे एक डिब्बा दिया।
 He gave me a cold.	Er hat mich erkältet.	उसने मुझे ठंडी लगा दी।
+He gave me a hint.	Er gab mir einen Hinweis.	उसने मुझे एक संकेत दिया।
+He gave me a wink.	Er gab mir einen Zwinkern.	उसने मुझे एक इशारा दिया।
+He gives us money.	Er gibt uns Geld.	वह हमें पैसे देता है।
+He got me a watch.	Er kaufte mir eine Uhr.	उसने मुझे घड़ी खरीदी।
+He got tired soon.	Er wurde bald müde.	उसे जल्द ही थकान हुई।
+He got very drunk.	Er wurde sehr betrunken.	उसने बहुत नशे में शराब पी।
+He got well again.	Er wurde wieder gesund.	उसे फिर से ठीक हो गया।
