@@ -10608,3 +10608,12 @@ Tom looked down.	Tom schaute nach unten.	टॉम नीचे देख रह
 Tom looked fine.	Tom sah gut aus.	टॉम ठीक लग रहा था।
 Tom looked good.	Tom machte einen guten Eindruck.	टॉम अच्छा दिख रहा था।
 Tom looked hurt.	Tom wirkte verletzt.	टॉम चोट लगा हुआ लग रहा था।
+Tom looked pale.	Tom sah blass aus.	टॉम पीला लग रहा था।
+Tom looked sick.	Tom wirkte krank.	टॉम बीमार लग रहा था।
+Tom looked well.	Tom sah gesund aus.	टॉम अच्छा दिख रहा था।
+Tom looked wise.	Tom sah weise aus.	टॉम बुद्धिमान लग रहा था।
+Tom looks angry.	Tom sieht wütend aus.	टॉम गुस्से में लग रहा है।
+Tom looks awake.	Tom sieht wach aus.	टॉम जाग रहा है।
+Tom looks awful.	Tom sieht furchtbar aus.	टॉम भयानक लग रहा है।
+Tom looks bored.	Tom sieht gelangweilt aus.	टॉम उबाऊ लग रहा है।
+Tom looks crazy.	Tom sieht verrückt aus.	टॉम पागल लग रहा है।
