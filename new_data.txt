@@ -10124,3 +10124,13 @@ This isn't real.	Das ist nicht echt.	यह वास्तविक नही�
 This isn't safe.	Das ist nicht sicher.	यह सुरक्षित नहीं है।
 This isn't salt.	Das ist kein Salz.	यह नमक नहीं है।
 This looks good.	Das sieht gut aus.	यह अच्छा लग रहा है।
+This one's mine.	Das hier ist meins.	यह मेरा है।
+This tastes bad.	Das schmeckt schlecht.	यह बुरा लगता है।
+Those are Tom's.	Das gehört Tom.	ये टॉम के हैं।
+Those are Tom's. (Version 2)	Das sind von Tom.	वे टॉम के हैं।
+Those are Tom's. (Version 3)	Das sind Toms.	वे टॉम के हैं।
+Those are gifts.	Das sind Geschenke.	वो उपहार हैं।
+Times are tough.	Die Zeiten sind hart.	समय कठिन हैं।
+To each his own.	Jedem das Seine.	हर किसी का अपना अपना।
+Today is Monday.	Heute ist Montag.	आज सोमवार है।
+Tom accelerated.	Tom beschleunigte.	टॉम तेजी से बढ़ा।
