@@ -17681,3 +17681,7 @@ Please replace it.	Bitte ersetzen Sie es.	कृपया इसे बदल �
 Please step aside.	Bitte treten Sie beiseite.	कृपया रास्ता फ्री करें।
 Please step aside. (repeated with different translation)	Bitte treten Sie beiseite.	कृपया पीछे हटें।
 Please stop lying.	Bitte hör auf zu lügen.	कृपया झूठ बोलना बंद करो।
+Please wrap it up.	Bitte einwickeln.	कृपया इसे लपेटें।
+Poets write poems.	Dichter schreiben Gedichte.	कवियों की रचनाएँ करते हैं।
+Prices are rising.	Die Preise steigen.	कीमतें बढ़ रही हैं।
+Prices may change.	Preise können sich ändern.	कीमतें बदल सकती हैं।

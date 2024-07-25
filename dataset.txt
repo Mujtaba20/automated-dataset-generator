@@ -1,15 +1,4 @@
 
-Please wrap it up.	Bitte einpacken.	कृपया पैक करें।
-Please wrap it up.	Packen Sie es bitte ein.	कृपया इसे शामिल करें।
-Please wrap it up.	Packe es bitte ein.	कृपया इसे पैक करें।
-Please wrap it up.	Packen Sie sie bitte ein.	कृपया उन्हें पैक करें।
-Please wrap it up.	Pack sie bitte ein.	कृपया इसे पैक करें।
-Please wrap it up.	Packen Sie ihn bitte ein.	कृपया इसे पैक करें।
-Please wrap it up.	Pack ihn bitte ein.	कृपया इसे पैक करें।
-Poets write poems.	Dichter schreiben Gedichte.	कविताओं का कवि।
-Prices are rising.	Die Preise steigen.	कीमतें बढ़ रही हैं।
-Prices may change.	Die Preise ändern sich vielleicht.	कीमतें बदल सकती हैं।
-Prices may change.	Vielleicht ändern sich die Preise.	शायद कीमतें बदल जाती हैं।
 Put it in the bag.	In die Tüte damit!	इसके साथ बैग में!
 Put it on my bill.	Schreiben Sie mir’s auf die Rechnung.	मुझे बिल पर लिखें।
 Put it over there.	Stelle es dort drüben hin!	इसे वहाँ पर रखें!
