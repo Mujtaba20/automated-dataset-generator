@@ -10537,3 +10537,12 @@ Tom isn't dying.	Tom stirbt nicht.	टॉम मर रहा नहीं ह�
 Tom isn't fazed.	Tom ist nicht verunsichert.	टॉम हैरान नहीं है।
 Tom isn't funny.	Tom ist nicht lustig.	टॉम मजेदार नहीं है।
 Tom isn't fussy.	Tom ist nicht pingelig.	टॉम चिड़चिड़ा नहीं है।
+Tom isn't going.	Tom geht nicht.	टॉम नहीं जा रहा है।
+Tom isn't happy.	Tom ist nicht glücklich.	टॉम खुश नहीं है।
+Tom isn't heavy.	Tom ist nicht schwer.	टॉम भारी नहीं है।
+Tom isn't lying.	Tom lügt nicht.	टॉम झूठ नहीं बोल रहा है।
+Tom isn't naive.	Tom ist nicht naiv.	टॉम भोला नहीं है।
+Tom isn't naked.	Tom ist nicht nackt.	टॉम नग्न नहीं है।
+Tom isn't nasty.	Tom ist nicht gemein.	टॉम बदतमीज नहीं है।
+Tom isn't petty.	Tom ist nicht kleinlich.	टॉम नापसंदीदा नहीं है।
+Tom isn't picky.	Tom ist nicht wählerisch.	टॉम कोई चीज़ चुनते समय परेशान नहीं है।
