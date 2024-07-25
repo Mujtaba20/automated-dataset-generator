@@ -9837,3 +9837,12 @@ engSentence7	Sie weckte ihn auf.	उसने दुनिया को जा�
 engSentence8	Sie weckte ihn auf.	उसने उसे पार्श्वगामिनी बनाने के लिए कठिन परिश्रम किया।
 engSentence9	Sie arbeitete hart.	उसने भारतीय संदर्भ में आत्मकथा लिखी।
 engSentence10	Sie ist kaukasisch.	वह कॉकेशनी थी।
+She's assertive.	Sie ist durchsetzungsfähig.	वह अधिकरणशील है।
+She's beautiful.	Sie ist schön.	वह खूबसूरत है।
+She's depressed.	Sie ist deprimiert.	वह उदास है।
+She's in danger.	Sie ist in Gefahr.	वह खतरे में है।
+She's my sister.	Sie ist meine Schwester.	वह मेरी बहन है।
+She's no singer.	Sie ist keine Sängerin.	वह गायक नहीं है।
+She's on a diet.	Sie ist auf Diät.	वह डाइट पर है।
+She's seventeen.	Sie ist siebzehn.	वह सत्रह साल की है।
+She's very wise.	Sie ist sehr weise.	वह बहुत होशियार है।
