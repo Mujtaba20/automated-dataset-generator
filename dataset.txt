@@ -1,14 +1,4 @@
 
-Tom must be wrong.	Tom muss sich irren.	टॉम को गलत होना है।
-Tom must love you.	Tom muss dich lieben.	टॉम को आपसे प्यार करना है।
-Tom must've cried.	Tom hat sicher geweint.	टॉम रोया।
-Tom must've cried.	Tom muss geweint haben.	टॉम रोया होगा।
-Tom needs a towel.	Tom braucht ein Handtuch.	टॉम को एक तौलिया की जरूरत है।
-Tom needs answers.	Tom braucht Antworten.	टॉम को जवाब चाहिए।
-Tom needs clothes.	Tom braucht Klamotten.	टॉम को कपड़े चाहिए।
-Tom needs glasses.	Tom braucht eine Brille.	टॉम को चश्मा चाहिए।
-Tom needs surgery.	Tom muss operiert werden.	टॉम को संचालित किया जाना है।
-Tom never arrived.	Tom ist nie angekommen.	टॉम कभी नहीं आया है।
 Tom never changed.	Tom hat sich nie verändert.	टॉम कभी नहीं बदला है।
 Tom never changes.	Tom ändert sich nie.	टॉम कभी नहीं बदलता।
 Tom never gave up.	Tom gab nie auf.	टॉम ने कभी हार नहीं मानी।

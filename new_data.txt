@@ -19033,3 +19033,13 @@ Tom moved quickly.	Tom bewegte sich schnell.	टॉम जल्दी से �
 Tom moves quickly.	Tom bewegt sich schnell.	टॉम तेज़ी से चलता है।
 Tom moves quickly. - Different Meaning	Tom handelt schnell.	टॉम जल्दी से कार्रवाई करता है।
 Tom must be tired.	Tom muss müde sein.	टॉम थका हुआ होना चाहिए।
+engSentence1	Tom muss falsch sein.	टॉम गलत होना चाहिए।
+engSentence2	Tom muss dich lieben.	टॉम को आपसे प्यार होना चाहिए।
+engSentence3	Tom muss geweint haben.	टॉम रो पड़ा होगा।
+engSentence4	Tom muss geweint haben.	टॉम रो पड़ा होगा।
+engSentence5	Tom braucht ein Handtuch.	टॉम को एक तौलिया चाहिए।
+engSentence6	Tom braucht Antworten.	टॉम को उत्तर चाहिए।
+engSentence7	Tom braucht Kleidung.	टॉम को कपड़े चाहिए।
+engSentence8	Tom braucht eine Brille.	टॉम को चश्मा चाहिए।
+engSentence9	Tom braucht eine Operation.	टॉम को ऑपरेशन की जरुरत है।
+engSentence10	Tom ist nie angekommen.	टॉम कभी नहीं पहुंचा।
