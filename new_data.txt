@@ -9881,3 +9881,12 @@ Take everything.	Nimm alles.	सब कुछ लो।
 Take no chances.	Kein Risiko eingehen.	कोई चांस न लेना।
 Take your pills.	Nimm deine Pillen.	अपनी गोलियाँ लो।
 Talk to me, Tom.	Sprich mit mir, Tom.	मेरे साथ बात करो, टॉम।
+Tell Tom thanks.	Sage Tom danke.	टॉम को धन्यवाद बोलो।
+Tell me a story.	Erzähl mir eine Geschichte.	मुझे एक कहानी सुनाओ।
+Tell me frankly.	Erzähl mir ehrlich.	मुझसे सच्चाई में बोलो।
+Thanks for that.	Danke dafür.	उसके लिए धन्यवाद।
+Thanks for this.	Danke für das.	इसके लिए धन्यवाद।
+That boy is Tom.	Der Junge ist Tom.	वह लड़का टॉम है।
+That can happen.	Das kann passieren.	वह हो सकता है।
+That cost a lot.	Das hat viel gekostet.	उसने बहुत पैसे खर्च किए।
+That is a table.	Das ist ein Tisch.	यह एक मेज़ है।
