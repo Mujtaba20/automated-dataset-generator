@@ -1270,3 +1270,11 @@ Tom drives.	Tom lenkt.	टॉम गाड़ी चलाता है।
 Tom failed.	Tom hat versagt.	टॉम नाकाम हुआ।
 Tom forgot.	Tom vergaß.	टॉम भूल गया।
 Tom fought.	Tom kämpfte.	टॉम लड़ा।
+Tom gasped.	Tom schnappte nach Luft.	टॉम ने फूंक मारी।
+Tom goofed.	Tom hat einen Fehler gemacht.	टॉम गलती की।
+Tom got up.	Tom stand auf.	टॉम उठ गया।
+Tom has it.	Tom hat es.	टॉम के पास है।
+Tom helped.	Tom half zu.	टॉम ने सहायता की।
+Tom hit me.	Tom hat mich geschlagen.	टॉम ने मुझे मारा।
+Tom is bad.	Tom ist schlecht.	टॉम बुरा है।
+Tom is big.	Tom ist groß.	टॉम बड़ा है।
