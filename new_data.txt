@@ -19971,3 +19971,12 @@ Yes, I kissed him.	Ja, ich habe ihn geküsst.	हां, मैंने उस�
 Yes, that's right.	Ja, das ist richtig.	हां, यह सही है।
 Yes, you're right.	Ja, du hast recht.	हां, तुम सही हो।
 Yesterday was hot.	Gestern war warm.	गतिकाल गर्म था।
+You and I are men.	Du und ich sind Männer.	तुम और मैं आदमी हैं।
+You are a bit fat.	Du bist ein bisschen dick.	तुम थोड़े मोटे हो।
+You are a student.	Du bist Student.	तुम एक छात्र हो।
+You are a teacher.	Du bist Lehrer.	तुम एक शिक्षक हो।
+You are actresses.	Du bist Schauspielerin.	तुम अभिनेत्री हो।
+You are beautiful.	Du bist schön.	तुम खूबसूरत हो।
+You are fantastic.	Du bist fantastisch.	तुम अद्भुत हो।
+You are important.	Du bist wichtig.	तुम महत्वपूर्ण हो।
+You are in my way.	Du stehst mir im Weg.	तुम मेरे रास्ते में हो।
