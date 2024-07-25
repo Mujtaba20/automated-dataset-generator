@@ -897,3 +897,13 @@ Forget him.	Vergiss ihn.	उसे भूल जाओ।
 Forgive us.	Vergebt uns.	हमें माफ कर दो।
 Get a life!	Hol dir ein Leben!	एक जीवन पाओ!
 Get a life.	Hole dir ein Leben.	जीवन पाओ।
+Get inside.	Geh rein.	अंदर जाओ।
+Get moving.	Beweg dich.	चलो।
+Get off me.	Geh weg von mir.	मुझसे हटो।
+Give it up.	Gib es auf.	इसे छोड़ दो।
+Go on home.	Geh nach Hause.	घर जाओ।
+Go see Tom.	Geh zu Tom.	टॉम से मिलो।
+Go to work.	Geh zur Arbeit.	काम पर जाओ।
+Go to work. - different meaning	Fahr zur Arbeit.	काम के लिए जाओ।
+God exists.	Gott existiert.	भगवान मौजूद है।
+Good night.	Gute Nacht.	शुभ रात्रि।
