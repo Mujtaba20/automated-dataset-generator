@@ -6175,3 +6175,9 @@ I may not come.	Ich komme vielleicht nicht.	मैं शायद नहीं 
 I met Tom here.	Ich traf Tom hier.	मैंने यहां टॉम से मिला।
 I met a friend.	Ich traf einen Freund.	मैंने एक दोस्त से मिला।
 I met him once.	Ich habe ihn einmal getroffen.	मैंने उससे एक बार मिला।
+I miss college.	Ich vermisse das College.	मुझे कॉलेज की याद आती है।
+I miss you all.	Ich vermisse euch alle.	मुझे तुम सभी की याद आती है।
+I must buy one.	Ich muss eins kaufen.	मुझे एक खरीदना चाहिए।
+I must decline.	Ich muss ablehnen.	मुझे इनकार करना होगा।
+I must find it.	Ich muss es finden.	मुझे इसे ढूंढना होगा।
+I need Tom now.	Ich brauche Tom jetzt.	मुझे अभी तुम्हारी जरुरत है।
