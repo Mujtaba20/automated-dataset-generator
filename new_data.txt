@@ -2906,3 +2906,13 @@ I'm sleeping.	Ich schlafe.	मैं सो रहा हूँ।
 I'm so drunk.	Ich bin so betrunken.	मैं इतना नशे में हूँ।
 I'm so happy.	Ich bin so glücklich.	मैं इतना खुश हूँ।
 I'm so sorry.	Es tut mir wirklich leid.	मुझे बहुत खेद है।
+I'm so tired	Ich bin so müde.	मैं बहुत थका हुआ हूँ।
+I'm speaking.	Ich spreche.	मैं बोल रहा हूँ।
+I'm standing.	Ich stehe.	मैं खड़ा हूँ।
+I'm starving.	Ich verhungere.	मैं भूखा हूँ।
+I'm stronger.	Ich bin stärker.	मैं मजबूत हूँ।
+I'm stubborn.	Ich bin stur.	मैं जिद्दी हूँ।
+I'm studying.	Ich studiere.	मैं पढ़ाई कर रहा हूँ।
+I'm the best.	Ich bin der Beste.	मैं सबसे अच्छा हूँ।
+I'm the last.	Ich bin der Letzte.	मैं अंतिम हूँ।
+I'm thirteen.	Ich bin dreizehn.	मैं तेरह साल का हूँ।
