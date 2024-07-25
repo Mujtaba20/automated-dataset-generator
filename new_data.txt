@@ -9896,3 +9896,10 @@ That isn't fair.	Das ist nicht fair.	यह न्याय नहीं है�
 That isn't good.	Das ist nicht gut.	यह अच्छा नहीं है।
 That isn't safe.	Das ist nicht sicher.	यह सुरक्षित नहीं है।
 That looks good.	Das sieht gut aus.	यह अच्छा लगता है।
+That man is Tom.	Jener Mann ist Tom.	यह आदमी टॉम है।
+That one's good.	Das ist gut.	वह अच्छा है।
+That was enough.	Das war genug.	यह काफी था।
+That was stupid.	Das war dumm gewesen.	यह बकवास था।
+That wasn't Tom.	Das war nicht Tom.	वह टॉम नहीं था।
+That wasn't bad.	Das war nicht schlecht.	वह खराब नहीं था।
+That won't work!	Das wird nicht klappen!	वह काम नहीं करेगा!
