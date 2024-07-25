@@ -13901,3 +13901,13 @@ This isn't money.	Das ist kein Geld.	यह पैसा नहीं है।
 This isn't sugar.	Das ist kein Zucker.	यह चीनी नहीं है।
 This isn't yours.	Das gehört dir nicht.	यह तुम्हारा नहीं है।
 This looks great.	Das sieht großartig aus.	यह भव्य दिखता है।
+This one is full.	Dieser hier ist voll.	यह एक भरा हुआ है।
+This one is ours.	Dieser hier ist unser.	यह हमारा है।
+This one is our's.	Dies ist unserer.	यह हमारा है।
+This one's Tom's.	Das hier gehört Tom.	यह टॉम का है।
+This one's great.	Das hier ist großartig.	यह बड़ा है।
+This one's on me.	Das übernehme ich.	यह मेरे ऊपर है।
+This one's yours.	Das hier gehört dir.	यह तुम्हारा है।
+This room's dark.	Dieser Raum ist dunkel.	यह कमरा अंधेरा है।
+This seat's free.	Dieser Sitzplatz ist frei.	यह सीट फ्री है।
+This seems risky.	Das scheint riskant.	यह लगता है कि खतरनाक है।
