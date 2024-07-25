@@ -463,3 +463,9 @@ Come over!	Komm rüber!	यहाँ आजा!
 Come over.	Komm vorbei.	आ जाओ।
 Come soon.	Komm bald.	जल्दी आना।
 Come soon. (Different meaning)	Komm zeitnah.	जल्दी आओ।
+Cool down.	Beruhigen.	ठंडा पड़ जाओ।
+Did I win?	Habe ich gewonnen?	क्या मैं जीत गया हूँ?
+Do it now.	Mach es jetzt.	अब करो।
+Dogs bark.	Hunde bellen.	कुत्ते भौंकते हैं।
+Don't ask.	Frag nicht.	पूछना मत।
+Don't cry.	Träne nicht.	मत रो।
