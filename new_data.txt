@@ -20088,3 +20088,8 @@ You may enter now.	Du kannst jetzt eintreten.	आप अब प्रवेश �
 You may enter now. (different meaning)	Sie dürfen jetzt eintreten.	आप अब प्रवेश कर सकते हैं।
 You may leave now.	Du kannst jetzt gehen.	आप अब चले जा सकते हैं।
 You may park here.	Du kannst hier parken.	आप यहाँ पार्क कर सकते हैं।
+You may take this.	Du kannst dies nehmen.	तुम यह ले सकते हो।
+You might like it.	Du könntest es mögen.	तुम शायद इसे पसंद करो।
+You missed a spot.	Du hast einen Fleck verpasst.	तुमने एक जगह छोड़ दी।
+You must be alert.	Du musst wachsam sein.	तुमे सतर्क रहना चाहिए।
+You must be crazy.	Du musst verrückt sein.	तुमे पागल होना चाहिए।

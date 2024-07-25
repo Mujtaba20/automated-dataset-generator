@@ -1,17 +1,4 @@
 
-You may take this.	Du kannst das nehmen.	आप इसे ले सकते हैं।
-You may take this.	Du darfst das nehmen.	आप इसे ले सकते हैं।
-You might like it.	Das könnte dir gefallen.	आप उसे पसंद कर सकते हैं।
-You missed a spot.	Du hast eine Stelle ausgelassen.	आपने नौकरी छोड़ दी है।
-You must be alert.	Man muss wachsam sein.	आपको सतर्क रहना होगा।
-You must be crazy.	Du musst von Sinnen sein.	आपको अपनी इंद्रियों से रहना होगा।
-You must be crazy.	Du bist wohl verrückt.	तुम पागल हो।
-You must be crazy.	Du musst verrückt sein.	आपको पागल होना है।
-You must be crazy.	Ihr müsst verrückt sein.	आपको पागल होना है।
-You must be crazy.	Ihr müsst wahnsinnig sein.	आपको पागल होना होगा।
-You must be crazy.	Sie müssen verrückt sein.	आपको पागल होना है।
-You must be crazy.	Sie müssen wahnsinnig sein.	आपको पागल होना होगा।
-You must be crazy.	Du musst wahnsinnig sein.	आपको पागल होना होगा।
 You must be tired.	Du musst müde sein.	आपको थक जाना है।
 You must be tired.	Sie müssen müde sein.	आपको थक जाना है।
 You must be tired.	Ihr müsst müde sein.	आपको थक जाना है।
