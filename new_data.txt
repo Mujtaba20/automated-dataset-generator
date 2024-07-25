@@ -11856,3 +11856,10 @@ Get into the car.	Steig ins Auto ein.	गाड़ी में बैठो।
 Get me some, too.	Hol mir auch etwas.	मुझे भी कुछ ला दो।
 Get off his back.	Hör auf, ihm auf dem Rücken zu liegen.	उसकी पीठ से हट जाओ।
 Get on the horse.	Mach vorwärts.	आगे बढ़ो।
+Get out of there.	Gehen Sie raus dort.	वहाँ से बाहर निकलें।
+Get to the point!	Kommen Sie zum Punkt!	मुद्दे पर आइये!
+Get to the point.	Komm zum Punkt.	मुद्दे पर आओ।
+Give Tom a break.	Gib Tom eine Pause.	टॉम को राहत दो।
+Give Tom a drink.	Gib Tom zu trinken.	टॉम को पीने का पानी दो।
+Give him a break!	Gib ihm eine Pause!	उसे राहत दो!
+Give me a little.	Gib mir ein bisschen.	मुझे थोड़ा दो।
