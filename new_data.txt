@@ -14382,3 +14382,12 @@ Tom isn't joking.	Tom macht keinen Spaß.	टॉम मजाक नहीं �
 Tom isn't listed.	Tom ist nicht aufgelistet.	टॉम सूची में नहीं है।
 Tom isn't losing.	Tom verliert nicht.	टॉम हार रहा नहीं है।
 Tom isn't moving.	Tom bewegt sich nicht.	टॉम चल रहा नहीं है।
+Tom isn't my son.	Tom ist nicht mein Sohn.	टॉम मेरा बेटा नहीं है।
+Tom isn't normal.	Tom ist nicht normal.	टॉम सामान्य नहीं है।
+Tom isn't polite.	Tom ist nicht höflich.	टॉम शिष्ट नहीं है।
+Tom isn't scared.	Tom hat keine Angst.	टॉम डरा नहीं है।
+Tom isn't skinny.	Tom ist nicht dünn.	टॉम पतला नहीं है।
+Tom isn't sleepy.	Tom ist nicht müde.	टॉम सोने की भावना नहीं रखता।
+Tom isn't sneaky.	Tom ist nicht hinterlistig.	टॉम चालाक नहीं है।
+Tom isn't stable.	Tom ist nicht stabil.	टॉम स्थिर नहीं है।
+Tom isn't stingy.	Tom ist nicht geizig.	टॉम कंजूस नहीं है।
