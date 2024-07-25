@@ -9930,3 +9930,12 @@ That's nonsense. (different meaning)	Das ist Blödsinn.	यह बेमान�
 That's not easy.	Das ist nicht einfach.	यह आसान नहीं है।
 That's not fair.	Das ist nicht fair.	यह न्याय से नहीं है।
 That's not fair. (different meaning)	Das ist nicht gerecht.	यह न्यायसंगत नहीं है।
+That's not good.	Das ist nicht gut.	वह अच्छा नहीं है।
+That's not love.	Das ist keine Liebe.	वह प्यार नहीं है।
+That's not mine.	Das gehört nicht mir.	यह मेरा नहीं है।
+That's not nice.	Das ist nicht nett.	वह अच्छा नहीं है।
+That's not safe.	Das ist nicht sicher.	वह सुरक्षित नहीं है।
+That's not true.	Das ist nicht wahr.	यह सच नहीं है।
+That's old news.	Das sind alte Nachrichten.	यह पुरानी खबरें हैं।
+That's over now.	Das ist jetzt vorbei.	वह अब समाप्त हो गया है।
+That's personal.	Das ist persönlich.	यह निजी है।
