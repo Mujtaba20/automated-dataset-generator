@@ -7895,3 +7895,12 @@ We've seen her.	Wir haben sie gesehen.	हमने उसे देखा ह�
 We've seen him.	Wir haben ihn gesehen.	हमने उसे देखा है।
 Welcome aboard.	Willkommen an Bord.	बोर्ड पे आपका स्वागत है।
 Well done, Tom.	Gut gemacht, Tom.	बहुत अच्छा किया, टॉम।
+Well, let's go.	Nun, lass uns gehen.	ठीक है, चलो चलें।
+Were they here?	Waren sie hier?	क्या वे यहाँ थे?
+Were you happy?	Waren Sie glücklich?	क्या तुम खुश थे?
+Were you ready?	Waren Sie bereit?	क्या आप तैयार थे?
+Were you there?	Waren Sie dort?	क्या तुम वहाँ थे?
+What a big dog!	Was für ein großer Hund!	वाह, कितना बड़ा कुत्ता है!
+What a country!	Was für ein Land!	वाह, कैसा देश है!
+What a hot day!	Was für ein heißer Tag!	वाह, कितना गरम दिन है!
+What a thought!	Was für eine Idee!	वाह, क्या विचार है!
