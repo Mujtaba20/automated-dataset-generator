@@ -3682,3 +3682,10 @@ You're fired.	Sie sind entlassen.	तुम्हें नौकरी से �
 You're funny.	Du bist lustig.	तुम मजेदार हो।
 You're great.	Du bist großartig.	तुम महान हो।
 You're gross.	Du bist eklig.	तुम घिनौने हो।
+You're lucky.	Du hast Glück.	तुम्हारे पास भाग्य है।
+You're lying!	Du lügst!	तुम झूठ बोल रहे हो!
+You're lying.	Du lügst.	तुम झूठ बोल रहे हो।
+You're moody.	Du hast Stimmungsschwankungen.	तुम मूडी हो।
+You're naive.	Du bist naiv.	तुम भोले-भाले हो।
+You're obese.	Du bist fettleibig.	तुम मोटे हो।
+You're quiet.	Du bist ruhig.	तुम चुप बैठे हो।
