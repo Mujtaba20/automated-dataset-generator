@@ -7636,3 +7636,13 @@ Tom was fuming.	Tom war wütend.	टॉम भड़क रहा था।
 Tom was gentle.	Tom war sanft.	टॉम नर्म था।
 Tom was greedy.	Tom war gierig.	टॉम लालची था।
 Tom was grumpy.	Tom war mürrisch.	टॉम उदास था।
+Tom was guilty.	Tom war schuldig.	टॉम दोषी था।
+Tom was heroic.	Tom war heldenhaft.	टॉम वीर था।
+Tom was honest.	Tom war ehrlich.	टॉम ईमानदार था।
+Tom was humble.	Tom war bescheiden.	टॉम विनम्र था।
+Tom was hungry.	Tom war hungrig.	टॉम भूखा था।
+Tom was insane.	Tom war wahnsinnig.	टॉम पागल था।
+Tom was inside.	Tom war drinnen.	टॉम अंदर था।
+Tom was joking.	Tom machte Witze.	टॉम मजाक कर रहा था।
+Tom was killed.	Tom wurde getötet.	टॉम को मार दिया गया।
+Tom was lonely.	Tom war einsam.	टॉम अकेला था।
