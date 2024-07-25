@@ -8827,3 +8827,12 @@ I kept speaking.	Ich sprach weiter.	मैंने बोलना जारी
 I knew Tom well.	Ich kannte Tom gut.	मैंने टॉम को अच्छे से जाना।
 I knew the risk.	Ich kannte das Risiko.	मैंने खतरा जाना।
 I knew too much.	Ich wusste zu viel.	मुझे बहुत कुछ पता था।
+I knew we'd win.	Ich wusste, dass wir gewinnen werden.	मुझे पता था कि हम जीतेंगे।
+I know I'm lazy.	Ich weiß, dass ich faul bin.	मुझे पता है कि मैं आलसी हूँ।
+I know Tom died.	Ich weiß, dass Tom gestorben ist.	मुझे पता है कि टॉम की मौत हो गई है।
+I know Tom well.	Ich kenne Tom gut.	मुझे टॉम को अच्छे से पता है।
+I know her well.	Ich kenne sie gut.	मुझे उसे अच्छे से पता है।
+I know his name.	Ich kenne seinen Namen.	मुझे उसका नाम पता है।
+I know how I am.	Ich weiß, wie ich bin.	मुझे पता है मैं कैसा हूँ।
+I know it's Tom.	Ich weiß, dass es Tom ist.	मुझे पता है कि यह टॉम है।
+I know it's bad.	Ich weiß, dass es schlecht ist.	मुझे पता है कि यह बुरा है।
