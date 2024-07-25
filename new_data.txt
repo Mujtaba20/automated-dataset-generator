@@ -6728,3 +6728,9 @@ Let's sit down.	Setzen wir uns.	बैठने दो।
 Life is unfair.	Das Leben ist ungerecht.	जीवन अन्यायपूर्ण है।
 Listen closely.	Hör genau zu.	ध्यान से सुनो।
 Life is unfair. - different meaning	Das Leben ist hart.	जीवन कठिन है।
+Listen to this!	Hör mal zu!	इसे सुनो!
+Listen to this.	Hör mal zu.	इसको सुनो।
+Listen, please.	Bitte hören Sie zu.	कृपया सुनिए।
+Live and learn.	Lebe und lerne.	जीवित रहो और सीखो।
+Look at my arm.	Schau dir meinen Arm an.	मेरी हाथ की ओर देखो।
+Look out there.	Schau da raus.	वहां देखो।
