@@ -7370,3 +7370,12 @@ Tom is shallow.	Tom ist oberflächlich.	टॉम अवगाहन में �
 Tom is shaving.	Tom rasiert sich.	टॉम धारी कर रहा है।
 Tom is shocked.	Tom ist geschockt.	टॉम चौंका हुआ है।
 Tom is similar.	Tom ist ähnlich.	टॉम समान है।
+Tom is sincere.	Tom ist aufrichtig.	टॉम ईमानदार है।
+Tom is singing.	Tom singt.	टॉम गा रहा है।
+Tom is sitting.	Tom sitzt.	टॉम बैठा है।
+Tom is skating.	Tom läuft Schlittschuh.	टॉम स्केटिंग कर रहा है।
+Tom is sloshed.	Tom ist betrunken.	टॉम बिन पिए हो गया है।
+Tom is smarter.	Tom ist klüger.	टॉम बुद्धिमान है।
+Tom is smashed.	Tom ist zerschlagen.	टॉम पीटा गया है।
+Tom is smiling.	Tom lächelt.	टॉम मुस्कान कर रहा है।
+Tom is smoking.	Tom raucht.	टॉम सिगरेट पी रहा है।
