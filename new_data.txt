@@ -12895,3 +12895,12 @@ I'm in the lobby.	Ich befinde mich in der Lobby.	मैं लॉबी मे�
 I'm in your debt.	Ich stehe in Ihrer Schuld.	मैं आपका ऋणी हूँ।
 I'm inviting you.	Ich bitte dich herein.	मैं तुम्हें आमंत्रित कर रहा हूँ।
 I'm just curious.	Ich bin nur neugierig.	मैं सिर्फकेवल उत्सुक हूँ।
+I'm just kidding.	Ich mache nur Spaß.	मैं बस मजाक कर रहा हूँ।
+I'm just kidding. (Different meaning)	Ich mache nur Spaß.	मैं सिर्फ मजाक कर रहा हूँ।
+I'm just looking.	Ich schaue nur.	मैं सिर्फ देख रहा हूँ।
+I'm just looking. (Different meaning)	Ich suche nur.	मैं सिर्फ ढूंढ़ रहा हूँ।
+I'm just shocked.	Ich bin nur schockiert.	मैं सिर्फ चौंका हूँ।
+I'm killing time.	Ich vertreibe mir die Zeit.	मैं समय का नाश कर रहा हूँ।
+I'm nearly blind.	Ich bin fast blind.	मैं लगभग अंधा हूँ।
+I'm nearly ready.	Ich bin fast bereit.	मैं लगभग तैयार हूँ।
+I'm nervous, too.	Ich bin auch nervös.	मैं भी घबराया हुआ हूँ।
