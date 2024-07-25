@@ -11408,3 +11408,11 @@ You're fearless.	Du bist furchtlos.	आप निडर हैं।
 You're escaping. (Different meaning)	Du fliehst.	आप भाग रहे हैं। (भिन्न अर्थ)
 You're creative. (Different meaning)	Du bist einfallsreich.	आप आविष्कारी हैं। (भिन्न अर्थ)
 You're decisive. (Different meaning)	Du bist bestimmt.	आप निश्चित हैं। (भिन्न अर्थ)
+You're free now.	Du bist jetzt frei.	तुम अब मुक्त हो।
+You're generous.	Du bist großzügig.	तुम उदार हो।
+You're gullible.	Du bist leichtgläubig.	तुम भोलेभाले हो।
+You're innocent.	Du bist unschuldig.	तुम निर्दोष हो।
+You're like Tom.	Du bist wie Tom.	तुम टॉम जैसे हो।
+You're mine now.	Du gehörst jetzt mir.	तुम मेरे हो।
+You're my child.	Du bist mein Kind.	तुम मेरा बच्चा हो।
+You're my enemy.	Du bist mein Feind.	तुम मेरा दुश्मन हो।
