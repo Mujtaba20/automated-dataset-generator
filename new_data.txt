@@ -14882,3 +14882,13 @@ Tom's frightened.	Tom hat Angst.	टॉम डरा हुआ है।
 Tom's hat is red.	Toms Hut ist rot.	टॉम की टोपी लाल है।
 Tom's headstrong.	Tom ist eigensinnig.	टॉम जिद्दी है।
 Tom's hesitating.	Tom zögert.	टॉम हिचकिचाता है।
+Tom's hysterical.	Tom ist hysterisch.	टॉम की हस्तमैथुन.
+Tom's impossible.	Toms unmöglich.	टॉम असंभव है।
+Tom's innovative.	Tom ist innovativ.	टॉम में नवाचारात्मक है।
+Tom's not asleep.	Tom schläft nicht.	टॉम सोया नहीं है।
+Tom's not hungry.	Tom hat keinen Hunger.	टॉम भूखा नहीं है।
+Tom's not hungry. (different meaning)	Tom ist nicht hungrig.	टॉम भूखा नहीं है।
+Tom's phone rang.	Toms Telefon klingelte.	टॉम के फोन बजा।
+Tom's quite good.	Tom ist ziemlich gut.	टॉम काफी अच्छा है।
+Tom's suspicious.	Tom ist verdächtig.	टॉम का संदेहजनक है।
+Tom's time is up.	Toms Zeit ist um.	टॉम का समय खत्म हो गया है।
