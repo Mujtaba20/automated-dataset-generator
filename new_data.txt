@@ -18985,3 +18985,11 @@ Tom loved animals.	Tom liebte Tiere.	टॉम ने जानवरों स�
 Tom loved bananas.	Tom liebte Bananen.	टॉम ने केले से प्यार किया।
 Tom loved fishing.	Tom liebte das Angeln.	टॉम को मछली पकड़ना पसंद था।
 Tom loved running.	Tom liebte das Laufen.	टॉम को दौड़ना पसंद था।
+Tom loved us both.	Tom liebte uns beide.	टॉम ने हम दोनों को पसंद किया।
+Tom loves animals.	Tom liebt Tiere.	टॉम को जानवर पसंद हैं।
+Tom loves bananas.	Tom liebt Bananen.	टॉम को केले पसंद हैं।
+Tom loves company.	Tom liebt Gesellschaft.	टॉम को कंपनी पसंद है।
+Tom loves cooking.	Tom liebt kochen.	टॉम को खाना पकाना पसंद है।
+Tom loves fishing.	Tom liebt angeln.	टॉम को मछली पकड़ना पसंद है।
+Tom loves flowers.	Tom liebt Blumen.	टॉम को फूल पसंद हैं।
+Tom loves his job.	Tom liebt seinen Job.	टॉम को उसका काम पसंद है।

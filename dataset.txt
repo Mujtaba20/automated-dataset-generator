@@ -1,14 +1,4 @@
 
-Tom loved us both.	Tom liebte uns beide.	टॉम हम दोनों से प्यार करता था।
-Tom loves animals.	Tom liebt Tiere.	टॉम जानवरों से प्यार करता है।
-Tom loves bananas.	Tom liebt Bananen.	टॉम को केले बहुत पसंद हैं।
-Tom loves company.	Tom liebt Gesellschaft.	टॉम को समाज बहुत पसंद है।
-Tom loves cooking.	Tom liebt es zu kochen.	टॉम को खाना बनाना बहुत पसंद है।
-Tom loves fishing.	Tom geht sehr gerne angeln.	टॉम को मछली पकड़ने जाना पसंद है।
-Tom loves fishing.	Tom angelt sehr gerne.	टॉम को मछली पकड़ना बहुत पसंद है।
-Tom loves fishing.	Tom fischt sehr gerne.	टॉम को मछली पसंद है।
-Tom loves flowers.	Tom liebt Blumen.	टॉम को फूल बहुत पसंद हैं।
-Tom loves his job.	Tom liebt seine Arbeit.	टॉम अपने काम से प्यार करता है।
 Tom loves his son.	Tom liebt seinen Sohn.	टॉम अपने बेटे से प्यार करता है।
 Tom loves puzzles.	Tom liebt Rätsel.	टॉम को पहेलियाँ बहुत पसंद हैं।
 Tom loves reading.	Tom liebt es zu lesen.	टॉम को पढ़ना बहुत पसंद है।
