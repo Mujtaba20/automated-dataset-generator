@@ -7212,3 +7212,12 @@ Tom got sleepy.	Tom wurde schläfrig.	टॉम सोने लगा।
 Tom grabbed it.	Tom packte es.	टॉम ने इसे पकड़ लिया।
 Tom grew roses.	Tom züchtete Rosen.	टॉम ने गुलाब उगाए।
 Tom grows rice.	Tom baut Reis an.	टॉम चावल उगाता है।
+Tom had a beer.	Tom hatte ein Bier.	टॉम के पास एक बीयर थी।
+Tom had a cold.	Tom hatte einen Kaltgetränk.	टॉम ने एक शीतल पेय पिया था।
+Tom had a plan.	Tom hatte einen Plan.	टॉम के पास एक योजना थी।
+Tom had cancer.	Tom hatte Krebs.	टॉम को कैंसर था।
+Tom had to run.	Tom musste rennen.	टॉम को दौड़ना चाहिए था।
+Tom has a Ford.	Tom hat einen Ford.	टॉम के पास एक फ़ोर्ड है।
+Tom has a Ph.D.	Tom hat einen Doktortitel.	टॉम के पास एक डॉक्टरेट है।
+Tom has a blog.	Tom hat einen Blog.	टॉम के पास एक ब्लॉग है।
+Tom has a boat.	Tom hat ein Boot.	टॉम के पास एक नाव है।
