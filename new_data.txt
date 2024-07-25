@@ -1917,3 +1917,9 @@ It's urgent. - 2	Es ist akut.	यह तत्कालीन है।
 It's urgent. - 3	Es ist eilig.	यह अत्यधिक महत्वपूर्ण है।
 Jump across.	Spring drüber.	ओछल जाओ।
 engSentence	{'Just say no.': 'Sag einfach nein.', 'Just try it.': 'Probiere es einfach.', 'Keep moving.': 'Beweg dich weiter.', 'Keep trying.': 'Versuch weiter.'}	{'Just say no.': 'सिर्फ ना कहो।', 'Just try it.': 'बस इसे कोशिश करो।', 'Keep moving.': 'आगे बढ़ते रहो।', 'Keep trying.': 'प्रयास करते रहो।'}
+Let me know.	Lass es mich wissen.	मुझे बताओ।
+Let me talk.	Lass mich reden.	मुझे बोलने दो।
+Let's begin.	Lass uns beginnen.	चलो शुरू करते हैं।
+Let's start.	Lass uns starten.	चलो शुरू करते हैं।
+Let's commence.	Lass uns anfangen.	चलो शुरू करते हैं।
+Let's kick off.	Lass uns beginnen.	चलो शुरू करते हैं।
