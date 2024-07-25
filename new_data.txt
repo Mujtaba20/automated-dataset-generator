@@ -15952,3 +15952,11 @@ He cannot stop it.	Er kann es nicht stoppen.	वह इसे रोक नह�
 He cannot stop me.	Er kann mich nicht stoppen.	वह मुझे नहीं रोक सकता।
 He cannot stop us.	Er kann uns nicht aufhalten.	वह हमें नहीं रोक सकता।
 He carried a cane.	Er trug einen Stock.	उसने एक चेंडू लिया था।
+He caught a mouse.	Er hat eine Maus gefangen.	उसने एक चूहा पकड़ लिया।
+He could not swim.	Er konnte nicht schwimmen.	उसे तैरना नहीं आता था।
+He did a good job.	Er hat gute Arbeit geleistet.	उसने अच्छा काम किया।
+He did it for fun.	Er hat es zum Spaß gemacht.	उसने मज़े के लिए किया।
+He did it himself.	Er hat es selbst gemacht.	उसने खुद किया।
+He didn't show up.	Er ist nicht aufgetaucht.	उसने प्रकट नहीं हुआ।
+He died of cancer.	Er starb an Krebs.	उसकी कैंसर से मौत हो गई।
+He died yesterday.	Er ist gestern gestorben.	उसकी कल मौत हो गई।
