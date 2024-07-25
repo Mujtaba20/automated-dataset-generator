@@ -9315,3 +9315,13 @@ I'm now married.	Ich bin jetzt verheiratet.	मैं अब शादीशु�
 I'm now retired.	Ich bin jetzt in Rente.	मैं अब सेवानिवृत्त हूँ।
 I'm now unarmed.	Ich bin jetzt unbewaffnet.	मैं अब असंज्ञा हूँ।
 I'm on my break.	Ich mache jetzt Pause.	मैं अब अपनी छुट्टी पर हूँ।
+I'm on the list.	Ich bin auf der Liste.	मैं सूची में हूँ।
+I'm on the roof.	Ich bin auf dem Dach.	मैं छत पर हूँ।
+I'm on vacation.	Ich bin im Urlaub.	मैं छुट्टी पर हूँ।
+I'm out of here.	Ich bin weg.	मैं यहाँ से बाहर हूँ।
+I'm out of here. - Different Meaning	Ich bin fertig hier.	मैं इसेखतम हूँ।
+I'm over thirty.	Ich bin über dreißig.	मैं तीस से अधिक की उम्र में हूँ।
+I'm persevering.	Ich bin standhaft.	मैं पुरुषार्थी हूँ।
+I'm pretty sure.	Ich bin ziemlich sicher.	मुझे पूरा विश्वास है।
+I'm quite happy.	Ich bin ziemlich glücklich.	मैं बहुत खुश हूँ।
+I'm quite happy. - Different Meaning	Ich bin ziemlich froh.	मैं बहुत ज्यादा खुश हूँ।
