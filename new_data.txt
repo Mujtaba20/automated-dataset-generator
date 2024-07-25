@@ -13963,3 +13963,12 @@ Tom came forward.	Tom trat nach vorne.	टॉम आगे आया।
 Tom came outside.	Tom kam nach draußen.	टॉम बाहर आया।
 Tom came running.	Tom kam rennend.	टॉम दौड़ते हुए आया।
 Tom came to help.	Tom kam, um zu helfen.	टॉम मदद करने आया।
+Tom came to play.	Tom kam zum Spielen.	टॉम खेलने आया।
+Tom came with me.	Tom kam mit mir.	टॉम मेरे साथ आया।
+Tom can get them.	Tom kann sie bekommen.	टॉम उन्हें पा सकता है।
+Tom can help you.	Tom kann dir helfen.	टॉम तुम्हें मदद कर सकता है।
+Tom can run fast.	Tom kann schnell laufen.	टॉम तेज दौड़ सकता है।
+Tom can't answer.	Tom kann nicht antworten.	टॉम जवाब नहीं दे सकता।
+Tom can't decide.	Tom kann nicht entscheiden.	टॉम नहीं फैसला कर सकता।
+Tom can't refuse.	Tom kann nicht ablehnen.	टॉम मना नहीं कर सकता।
+Tom can't retire.	Tom kann nicht in Rente gehen.	टॉम सेवानिवृत्ति नहीं कर सकता।
