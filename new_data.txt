@@ -1859,3 +1859,12 @@ Is it tasty?	Schmeckt es?	क्या यह स्वादिष्ट है
 Is it there?	Ist es da?	क्या वहाँ है?
 Is it to go?	Ist es zum Mitnehmen?	क्या यह लेजाने के लिए है?
 Is it white?	Ist es weiß?	क्या यह सफेद है?
+Is it windy?	Ist es windig?	क्या हवाई है?
+Is it yours?	Ist es deins?	क्या यह आपका है?
+Is it yours? (different meaning)	Gehört es Ihnen?	क्या यह आपकी वस्तु है?
+Is it yours? (different translation)	Ist es deines?	क्या यह तुम्हारा है?
+Is she gone?	Ist sie weg?	क्या वह चली गई है?
+Is she nice?	Ist sie nett?	क्या वह अच्छी है?
+Is that Tom?	Ist das Tom?	क्या वह टॉम है?
+Is that fun?	Ist das Spaß?	क्या यह मजा है?
+Is that new?	Ist das neu?	क्या यह नया है?
