@@ -5593,3 +5593,9 @@ Check everyone.	Überprüfe jeden.	सभी को जाँच करो।
 Clean the room.	Reinige das Zimmer.	कमरा साफ करो।
 Close the cage.	Schließe den Käfig.	पिंजरा बंद करो।
 Close the door.	Schließe die Tür.	दरवाजा बंद करो।
+Close the gate.	Schließe das Tor.	बाल बंद करो।
+Coffee, please.	Kaffee, bitte.	कॉफ़ी लाओ, कृपया।
+Come back here.	Kommen Sie hierher zurück.	वापस यहाँ आओ।
+Come back home.	Komm zurück nach Hause.	घर वापस आना।
+Come back soon.	Komm bald zurück.	जल्दी वापस आना।
+Come down here!	Komm hier runter!	यहाँ नीचे आओ!
