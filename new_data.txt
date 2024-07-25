@@ -13138,3 +13138,12 @@ It'll have to do.	Es wird ausreichen müssen.	यह करना पड़े�
 It'll never work.	Es wird nie funktionieren.	यह कभी काम नहीं करेगा।
 It'll snow today.	Es wird heute schneien.	आज बर्फ गिरेगी।
 It's Tom's fault.	Es ist Toms Schuld.	यह टॉम की ग़लती है।
+It's Tom's fight.	Es ist Toms Kampf.	यह टॉम की लड़ाई है।
+It's Tom's group.	Es ist Toms Gruppe.	यह टॉम का समूह है।
+It's Tom's house.	Es ist Toms Haus.	यह टॉम का घर है।
+It's Tom's phone.	Es ist Toms Telefon.	यह टॉम का फोन है।
+It's Tom's voice.	Es ist Toms Stimme.	यह टॉम की आवाज़ है।
+It's a bad habit.	Es ist eine schlechte Angewohnheit.	यह एक बुरी आदत है।
+It's a big world.	Es ist eine große Welt.	यह एक बड़ी दुनिया है।
+It's a done deal.	Es ist ein abgeschlossenes Geschäft.	यह एक की पूरी हो गई है।
+It's a dream job.	Es ist ein Traumjob.	यह एक सपना जॉब है।
