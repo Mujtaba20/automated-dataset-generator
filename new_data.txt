@@ -20317,3 +20317,9 @@ Can I see that one?	Kann ich das sehen?	क्या मैं वह देख 
 Can I see this one?	Kann ich das sehen?	क्या मैं यह देख सकता हूँ?
 Can I sit with you?	Kann ich mich zu dir setzen?	क्या मैं आपके साथ बैठ सकता हूँ?
 Can I speak to Tom?	Kann ich mit Tom sprechen?	क्या मैं टॉम से बात कर सकता हूँ?
+Can I take it home?	Kann ich das mitnehmen?	क्या मैं इसे घर ले सकता हूँ?
+Can I use your pen?	Darf ich deinen Stift benutzen?	क्या मैं आपका पेन इस्तेमाल कर सकता हूँ?
+Can anyone hear me?	Kann mich jemand hören?	क्या कोई मुझे सुन सकता है?
+Can anyone help me?	Kann mir jemand helfen?	क्या कोई मुझे मदद कर सकता है?
+Can he do this job?	Kann er diese Arbeit machen?	क्या वह यह काम कर सकता है?
+Can we afford that?	Können wir uns das leisten?	क्या हम उसे खरीद सकते हैं?
