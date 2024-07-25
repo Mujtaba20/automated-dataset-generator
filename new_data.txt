@@ -4155,3 +4155,13 @@ I like sweets.	Ich liebe Süßes.	मुझे मीठा पसंद है�
 I like tennis.	Ich mag Tennis.	मुझे टेनिस पसंद है।
 I like to eat.	Ich mag es zu essen.	मैं खाने का आनंद लेता हूँ।
 I like to run.	Ich mag es zu rennen.	मैं दौड़ने का शौकीन हूँ।
+I like trains.	Ich mag Züge.	मुझे ट्रेनें पसंद हैं।
+I like tulips.	Ich mag Tulpen.	मुझे ट्यूलिप्स पसंद हैं।
+I like winter.	Ich mag den Winter.	मुझे विंटर पसंद है।
+I looked down.	Ich schaute nach unten.	मैं नीचे देखा।
+I lost my key.	Ich habe meinen Schlüssel verloren.	मैंने अपनी चाबी खो दी।
+I lost my key. (different context)	Ich verlor meinen Schlüssel.	मैंने अपना कुंजीआ गुम कर दिया।
+I love Boston.	Ich liebe Boston.	मैं बोस्टन से प्यार करता हूँ।
+I love French.	Ich liebe Französisch.	मुझे फ्रेंच पसंद है।
+I love Monday!	Ich liebe Montag!	मुझे सोमवार पसंद है!
+I love autumn.	Ich liebe den Herbst.	मुझे शरद ऋतु पसंद है।
