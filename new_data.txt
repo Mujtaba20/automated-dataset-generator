@@ -7589,3 +7589,13 @@ engSentence7	Tom hat über mich petzt.	टॉम ने मेरे बार�
 engSentence8	Tom nahm ein Taxi.	टॉम ने एक टैक्सी ली।
 engSentence9	Tom machte ein Nickerchen.	टॉम ने एक छोटी से नींद ली।
 engSentence10	Tom suchte Schutz.	टॉम ने रक्षा ली।
+Tom took notes.	Tom machte Notizen.	टॉम ने नोट्स लिए।
+Tom took risks.	Tom ging Risiken ein.	टॉम ने जोखिम उठाए।
+Tom tricked me.	Tom hat mich reingelegt.	टॉम ने मुझे धोखा दिया।
+Tom tricked me. (different meaning)	Tom hat mich getäuscht.	टॉम ने मुझे धोखा दिया।
+Tom tried that.	Tom versuchte das.	टॉम ने उसे कोशिश की।
+Tom tries hard.	Tom versucht es hart.	टॉम मेहनत करता है।
+Tom trusted me.	Tom hat mir vertraut.	टॉम ने मुझपर भरोसा किया।
+Tom trusts her.	Tom vertraut ihr.	टॉम उसका भरोसा करता है।
+Tom trusts him.	Tom vertraut ihm.	टॉम उसे भरोसा करता है।
+Tom trusts you.	Tom vertraut dir.	टॉम आप पर भरोसा करता है।
