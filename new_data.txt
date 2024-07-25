@@ -3113,3 +3113,9 @@ Play it cool.	Bleib cool.	ठंडा रहो।
 Play it cool. (Different meaning)	Spiele es cool.	मजे करो।
 Please do it.	Bitte mach es.	कृपया यह करें।
 Please hurry!	Bitte beeil dich!	कृपया जल्दी करें!
+Please hurry.	Bitte beeilen Sie sich.	कृपया जल्दी करें।
+Please hurry. (different meaning)	Bitte beeil dich!	कृपया जल्दी करो।
+Please relax.	Bitte entspannen Sie sich.	कृपया धीरे हो जाएं।
+Please relax. (different meaning)	Bitte beruhigen Sie sich.	कृपया विश्राम करें।
+Please smile.	Bitte lächeln Sie.	कृपया मुस्कान करें।
+Pull it open.	Zieh es auf.	इसे खोलो।
