@@ -2196,3 +2196,12 @@ Tom's alert.	Tom ist wachsam.	टॉम चौकन्ना है।
 Tom's alive.	Tom ist am Leben.	टॉम जीवित है।
 Tom's alive.1	Tom lebt.	टॉम तैर रहा है।
 Tom's alone.	Tom ist allein.	टॉम अकेला है।
+Tom's angry.	Toms böse.	टॉम नाराज है।
+Tom's awake.	Toms wach.	टॉम जागा है।
+Tom's bored.	Toms gelangweilt.	टॉम उबाऊ है।
+Tom's crazy.	Toms verrückt.	टॉम पागल है।
+Tom's drunk.	Toms betrunken.	टॉम नशे में है।
+Tom's dying.	Toms sterbend.	टॉम मर रहा है।
+Tom's flaky.	Toms schuppig.	टॉम फ्लेकी है।
+Tom's funny.	Toms lustig.	टॉम मजाकिया है।
+Tom's great.	Toms großartig.	टॉम शानदार है।
