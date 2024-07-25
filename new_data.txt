@@ -14764,3 +14764,13 @@ Tom was my buddy.	Tom war mein Kumpel.	टॉम मेरा दोस्त �
 Tom was obedient.	Tom war gehorsam.	टॉम आज्ञाकारी था।
 Tom was offended.	Tom war beleidigt.	टॉम को ठेस पहुंची थी।
 Tom was our hero.	Tom war unser Held.	टॉम हमारा नायक था।
+Tom was out cold.	Tom war ohnmächtig.	टॉम को बिल्कुल भी होश नहीं था।
+Tom was outraged.	Tom war empört.	टॉम नाराज़ था।
+Tom was painting.	Tom malte.	टॉम चित्रकारी कर रहा था।
+Tom was pardoned.	Tom wurde begnadigt.	टॉम का दोष क्षमा किया गया।
+Tom was poisoned.	Tom wurde vergiftet.	टॉम को जहर मिल गया।
+Tom was prepared.	Tom war vorbereitet.	टॉम तैयार था।
+Tom was promoted.	Tom wurde befördert.	टॉम को पदोन्नति मिली।
+Tom was punctual.	Tom war pünktlich.	टॉम समय पर था।
+Tom was punished.	Tom wurde bestraft.	टॉम को सज़ा सुनाई गई।
+Tom was rejected.	Tom wurde abgelehnt.	टॉम को अस्वीकार किया गया।
