@@ -6616,3 +6616,13 @@ It's beautiful.	Es ist schön.	यह खूबसूरत है।
 It's beyond me.	Es geht über mich hinaus.	यह मेरे समझ से परे है।
 It's brand new.	Es ist nagelneu.	यह ब्रांड न्यू है।
 It's cold here.	Es ist kalt hier.	यहाँ सर्दी है।
+It's confusing.	Es ist verwirrend.	यह भ्रांतिकर है।
+It's dangerous.	Es ist gefährlich.	यह खतरनाक है।
+It's delicious.	Es ist köstlich.	यह स्वादिष्ट है।
+It's tasty.	Es ist lecker.	यह स्वादिष्ट है।
+It's different.	Es ist anders.	यह अलग है।
+It's difficult.	Es ist schwierig.	यह कठिन है।
+It's forbidden.	Es ist verboten.	यह निषिद्ध है।
+It's grotesque.	Es ist grotesk.	यह भीषण है।
+It's hot today.	Heute ist es heiß.	आज यह गरम है।
+It's warm outside.	Es ist warm draußen.	बाहर गर्मी है।
