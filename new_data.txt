@@ -3569,3 +3569,12 @@ We need them.	Wir brauchen sie.	हमें उनकी जरूरत है
 We require them.	Wir benötigen sie.	हमें उनकी आवश्यकता है।
 We need this.	Wir brauchen das.	हमें इसकी आवश्यकता है।
 We overslept.	Wir haben verschlafen.	हमने अधिक नींद ली।
+We sat there.	Wir saßen dort.	हम वहाँ बैठे थे।
+We should go.	Wir sollten gehen.	हमें जाना चाहिए।
+We succeeded!	Wir haben Erfolg gehabt!	हमें सफलता मिली!
+We succeeded.	Wir haben Erfolg gehabt.	हमें सफलता मिली।
+We trust him.	Wir vertrauen ihm.	हम उसे भरोसा करते हैं।
+We want meat.	Wir wollen Fleisch.	हमें मांस चाहिए।
+We want more.	Wir wollen mehr.	हमे और चाहिए।
+We were busy.	Wir waren beschäftigt.	हम व्यस्त थे।
+We were sick.	Wir waren krank.	हम बीमार थे।
