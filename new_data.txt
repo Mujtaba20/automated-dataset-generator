@@ -19300,3 +19300,13 @@ Tom was easygoing.	Tom war locker.	टॉम आरामपसंद था।
 Tom was efficient.	Tom war effizient.	टॉम कुशल था।
 Tom was emotional.	Tom war emotional.	टॉम भावनात्मक था।
 Tom was exhausted.	Tom war erschöpft.	टॉम थका हुआ था।
+Tom was fantastic.	Tom war fantastisch.	टॉम शानदार था।
+Tom was fast, too.	Tom war auch schnell.	टॉम भी तेज था।
+Tom was flattered.	Tom wurde geschmeichelt.	टॉम को खुश किया गया।
+Tom was fortunate.	Tom hatte Glück.	टॉम की भाग्यशाली थी।
+Tom was here, too.	Tom war auch hier.	टॉम यहाँ भी था।
+Tom was hilarious.	Tom war urkomisch.	टॉम बहुत हंसी आई।
+Tom was horrified.	Tom war entsetzt.	टॉम चौंका दिया गया था।
+Tom was impartial.	Tom war unparteiisch.	टॉम निष्पक्ष था।
+Tom was impatient.	Tom war ungeduldig.	टॉम अधीर था।
+Tom was impressed.	Tom war beeindruckt.	टॉम प्रभावित था।
