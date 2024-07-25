@@ -5147,3 +5147,13 @@ Tom was livid.	Tom war wütend.	टॉम बहुत नाराज था।
 Tom was livid. (other meaning)	Tom war kochend vor Wut.	टॉम गुस्से से अंदर से जल रहा था।
 Tom was lucky.	Tom hatte Glück.	टॉम को भाग्यशाली माना गया।
 Tom was lying.	Tom hat gelogen.	टॉम झूठ बोल रहा था।
+Tom was naive.	Tom war naiv.	टॉम भोला था।
+Tom was naked.	Tom war nackt.	टॉम नग्न था।
+Tom was pushy.	Tom war aufdringlich.	टॉम ज़ोरदार था।
+Tom was quick.	Tom war schnell.	टॉम जल्दी था।
+Tom was quiet.	Tom war ruhig.	टॉम शांत था।
+Tom was scary.	Tom war gruselig.	टॉम डरावना था।
+Tom was smart.	Tom war klug.	टॉम दानादार था।
+Tom was sober.	Tom war nüchtern.	टॉम शराब से दूर था।
+Tom was sweet.	Tom war süß.	टॉम मीठा था।
+Tom was there.	Tom war da.	टॉम वहाँ था।
