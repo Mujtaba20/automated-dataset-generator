@@ -8470,3 +8470,11 @@ He got into bed.	Er stieg ins Bett.	उसने बिस्तर में �
 He got the ball.	Er bekam den Ball.	उसने गेंद पकड़ी।
 He got very mad.	Er wurde sehr wütend.	उसने बहुत गुस्सा किया।
 He had a stroke.	Er hatte einen Schlaganfall.	उसे लकवा हो गया।
+He had ambition.	Er hatte Ehrgeiz.	उसकी महत्वाकांक्षा थी।
+He had jeans on.	Er hatte Jeans an.	उसके पास जींस थी।
+He had no money.	Er hatte kein Geld.	उसके पास पैसा नहीं था।
+He has a camera.	Er hat eine Kamera.	उसके पास एक कैमरा है।
+He has a hat on.	Er hat einen Hut auf.	उसके सिर पर एक टोपी है।
+He has bad eyes.	Er hat schlechte Augen.	उसकी बुरी आंखें हैं।
+He has gone mad.	Er ist verrückt geworden.	उसने पागल हो गया है।
+He has gone out.	Er ist gegangen.	वह बाहर गया है।
