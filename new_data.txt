@@ -3140,3 +3140,12 @@ She is young.	Sie ist jung.	वह युवा है।
 She knows me.	Sie kennt mich.	वह मुझे जानती है।
 She loves us.	Sie liebt uns.	वह हमसे प्यार करती है।
 She needs it.	Sie braucht es.	उसे यह चाहिए।
+She shot him.	Sie hat ihn fotografiert.	उसने उसे फोटो खींच लिया।
+She shrieked.	Sie kreischte.	उसने चीखा।
+She stood up.	Sie stand auf.	उसने खड़े हो गई।
+She sued him.	Sie verklagte ihn.	उसने उस पर मुकदमा दायर किया।
+She was busy.	Sie war beschäftigt.	वह व्यस्त थी।
+She went out.	Sie ging hinaus.	उसने बाहर चल दिया।
+She's a babe.	Sie ist ein Baby.	वह एक बेबी है।
+Should we go?	Sollen wir gehen?	क्या हमे जाना चाहिए?
+Show me that.	Zeig mir das.	मुझे वह दिखाओ।
