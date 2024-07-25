@@ -7193,3 +7193,13 @@ Tom fired once.	Tom feuerte einmal.	टॉम ने एक बार अग्�
 Tom forgave me.	Tom hat mir vergeben.	टॉम ने मुझे माफ़ कर दिया।
 Tom found Mary.	Tom fand Maria.	टॉम ने मेरी को ढूँढा।
 Tom found that.	Tom fand das.	टॉम ने वह पा लिया।
+Tom gave blood.	Tom gab Blut.	टॉम ने खून दिया।
+Tom got a call.	Tom bekam einen Anruf.	टॉम को कॉल मिली।
+Tom got better.	Tom wurde besser.	टॉम ठीक हो गया।
+Tom got bigger.	Tom wurde größer.	टॉम बड़ा हो गया।
+Tom got burned.	Tom hat sich verbrannt.	टॉम जल गया।
+Tom got busted.	Tom wurde erwischt.	टॉम पकड़ा गया।
+Tom got caught.	Tom wurde erwischt.	टॉम पकड़ा गया।
+Tom got closer.	Tom kam näher.	टॉम नज़दीक आ गया।
+Tom got dumped.	Tom wurde sitzengelassen.	टॉम को छोड़ दिया।
+Tom got fatter.	Tom wurde dicker.	टॉम मोटा हो गया।
