@@ -9903,3 +9903,11 @@ That was stupid.	Das war dumm gewesen.	यह बकवास था।
 That wasn't Tom.	Das war nicht Tom.	वह टॉम नहीं था।
 That wasn't bad.	Das war nicht schlecht.	वह खराब नहीं था।
 That won't work!	Das wird nicht klappen!	वह काम नहीं करेगा!
+That won't work.	Das wird nicht gehen.	यह काम नहीं करेगा।
+That would work.	Das würde funktionieren.	यह काम करेगा।
+That'll be fine.	Das wird in Ordnung sein.	वह ठीक होगा।
+That'll be good.	Das wird gut sein.	वह अच्छा होगा।
+That'll be nice.	Das wird schön sein.	वह अच्छा होगा।
+That's a banana.	Das ist eine Banane.	वह एक केला है।
+That's a church.	Das ist eine Kirche.	वह एक चर्च है।
+That's a pagoda.	Das ist eine Pagode.	वह एक पगोड़ा है।
