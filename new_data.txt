@@ -7068,3 +7068,13 @@ Think about it. 2	Mach dir Gedanken darüber.	इस पर विचार क�
 Think about it. 3	Überleg mal.	उस पर ध्यान दें।
 Think about it. 4	Mach dir Gedanken dazu.	उसके बारे में सोचो।
 Think about it. 5	Überdenke es.	उस विषय पर विचार करें।
+Think positive.	Denke positiv.	सकारात्मक सोचें।
+This annoys me.	Das ärgert mich.	यह मुझे परेशान करता है।
+This frustrates me.	Das frustriert mich.	यह मुझे परेशान करता है।
+This bothers me.	Das stört mich.	यह मुझे परेशान करता है।
+This dog bites.	Dieser Hund beißt.	यह कुत्ता काटता है।
+This canine nips.	Dieser Hund beißt.	यह कुत्ता चुभता है।
+This is a book.	Das ist ein Buch.	यह किताब है।
+This is a desk.	Das ist ein Schreibtisch.	यह एक डेस्क है।
+This is a fact.	Das ist eine Tatsache.	यह एक तथ्य है।
+This is a fake.	Das ist eine Fälschung.	यह झूठ है।
