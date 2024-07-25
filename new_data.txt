@@ -17847,3 +17847,11 @@ Stop being stupid.	Hör auf dumm zu sein.	बेवकूफी बंद कर
 Stop bothering me!	Hör auf mich zu belästigen!	मुझे परेशान मत करो!
 Stop exaggerating.	Hör auf zu übertreiben.	बढ़ावा बंद करो।
 Stop following me.	Hör auf, mir zu folgen.	मेरा पीछा करना बंद करो।
+Stop interrupting.	Hör auf zu unterbrechen.	बातचीत में आवाज़ सुनाई दे रही है
+Stop it right now!	Hör sofort auf!	अभी बंद करो!
+Stop looking down.	Hör auf nach unten zu schauen.	नीचे देखना बंद करो.
+Swallow the pills.	Schluck die Pillen.	गोलियां निगलो.
+Sweet dreams, Tom.	Süße Träume, Tom.	मीठे सपने, टॉम।
+Take Tom downtown.	Take Tom in die Stadtmitte.	टॉम को शहर के केंद्र में ले जाओ।
+Take Tom upstairs.	Bring Tom nach oben.	टॉम को ऊपर ले जाओ।
+Take Tom with you.	Nimm Tom mit dir.	टॉम को अपने साथ ले जाओ।

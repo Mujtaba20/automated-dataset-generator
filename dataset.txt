@@ -1,14 +1,4 @@
 
-Stop interrupting.	Unterlasse die Unterbrechungen!	रुकावटों को अनलॉक करें!
-Stop it right now!	Höre augenblicklich damit auf!	इस समय इसे रोकें!
-Stop looking down.	Hör auf, so betrübt aus der Wäsche zu gucken.	बंद करो, इसलिए कपड़े धोने से बाहर निकला।
-Stop looking down.	Hör auf, nach unten zu schauen.	नीचे देखना बंद करो।
-Swallow the pills.	Schluck die Pillen.	गोलियां घूंट।
-Sweet dreams, Tom.	Süße Träume, Tom.	मीठे सपने, टॉम।
-Take Tom downtown.	Nimm Tom mit in die Stadt.	टॉम को शहर में ले जाओ।
-Take Tom downtown.	Nimm Tom in die Stadt.	शहर में टॉम ले लो।
-Take Tom upstairs.	Bring Tom nach oben.	टॉम को ऊपर लाओ।
-Take Tom with you.	Nimm Tom mit dir.	टॉम को अपने साथ ले जाओ।
 Take Tom's advice.	Folge Toms Ratschlag.	टॉम की सलाह का पालन करें।
 Take Tom's weapon.	Nimm Tom die Waffe ab.	टॉम को हथियार से हटाओ।
 Take Tom's weapon.	Nimm Toms Waffe.	टॉम का हथियार ले लो।
