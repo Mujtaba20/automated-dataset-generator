@@ -2015,3 +2015,9 @@ Take a card.	Nehmen Sie eine Karte.	एक कार्ड लें।
 Take a look.	Schau mal.	देखो।
 Take a seat.	Nimm Platz.	सीट पर बैठो।
 Take a walk.	Geh spazieren.	सैर पर जाओ।
+Take action.	Ergreife Maßnahmen.	कदम उठाएं।
+Take my car.	Fahr mein Auto.	मेरी कार चलाओ।
+Talk slower.	Sprich langsamer.	धीरे बोलो।
+Talk to Tom.	Sprich mit Tom.	टॉम से बात करो।
+Tea, please.	Tee, bitte.	चाय, कृपया।
+Tell Tom no.	Sag Tom nein.	टॉम को नak कहो।
