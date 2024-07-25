@@ -5052,3 +5052,13 @@ Tom is not in.	Tom ist nicht da.	टॉम अंदर नहीं है।
 Tom is now up.	Tom ist jetzt oben.	टॉम अब ऊपर है।
 Tom is paying.	Tom zahlt.	टॉम चुका रहा है।
 Tom is rested.	Tom hat sich ausgeruht.	टॉम आराम कर रहा है।
+Tom is scared.	Tom hat Angst.	टॉम डरा हुआ है।
+Tom is simple.	Tom ist einfach.	टॉम सरल है।
+Tom is skinny.	Tom ist dünn.	टॉम पतला है।
+Tom is sleepy.	Tom ist müde.	टॉम उससे सुत रहा है।
+Tom is sneaky.	Tom ist hinterhältig.	टॉम चालाक है।
+Tom is stingy.	Tom ist geizig.	टॉम कंजूस है।
+Tom is strict.	Tom ist streng.	टॉम कठोर है।
+Tom is strong.	Tom ist stark.	टॉम मज़बूत है।
+Tom is stupid.	Tom ist dumm.	टॉम मूर्ख है।
+Tom is thirty.	Tom ist dreißig.	टॉम तीस का है।
