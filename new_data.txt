@@ -5474,3 +5474,13 @@ You should go.	Du solltest gehen.	तुम्हें जाना चाह�
 You smell bad.	Du riechst schlecht.	तुम गंदे खुशबू आ रहे हो।
 You talk fast.	Du redest schnell.	तुम जल्दी बोलते हो।
 You were busy.	Du warst beschäftigt.	तुम व्यस्त थे।
+You will fail.	Du wirst versagen.	आप असफल होंगे।
+You won't win.	Du wirst nicht gewinnen.	तुम जीत नहीं पाओगे।
+You work hard.	Du arbeitest hart.	तुम मेहनत करते हो।
+You'd give up.	Du würdest aufgeben.	तुम हार मान लोगे।
+You'd like it.	Du würdest es mögen.	तुम इसे पसंद करेंगे।
+You'd love it.	Du würdest es lieben.	तुम इसे प्यार करोगे।
+You'll get it.	Du wirst es bekommen.	तुम इसे प्राप्त करोगे।
+You'll go far.	Du wirst weit gehen.	तुम दूर जाओगे।
+You'll see it.	Du wirst es sehen.	तुम इसे देखोगे।
+You're a liar.	Du bist ein Lügner.	तुम झूठे हो।
