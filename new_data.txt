@@ -10104,3 +10104,13 @@ This is no good.	Das ist nicht gut.	यह अच्छा नहीं है�
 This is no joke.	Das ist kein Witz.	यह मजाक नहीं है।
 This is nothing.	Das ist nichts.	यह कुछ नहीं है।
 This is our car.	Das ist unser Auto.	यह हमारी कार है।
+This is serious.	Das ist ernst.	यह गंभीर है।
+This is so dumb.	Das ist so dumm.	यह बहुत मूर्ख है।
+This is so dumb_2.	Das ist so dumm.	यह इतना बेवकूफ है।
+This is the boy.	Das ist der Junge.	यह लड़का है।
+This is the end.	Das ist das Ende.	यह अंत है।
+This is too big.	Das ist zu groß.	यह बहुत बड़ा है।
+This is useless.	Das ist nutzlos.	यह बेकार है।
+This isn't easy.	Das ist nicht einfach.	यह आसान नहीं है।
+This isn't fair.	Das ist nicht fair.	यह न्यायसंगत नहीं है।
+This isn't fair_2.	Das ist nicht fair.	इसके साथ न्याय नहीं हो रहा है।
