@@ -18626,3 +18626,12 @@ engSentence7	Tom ist hinter dir.	टॉम आपके पीछे है।
 engSentence8	Tom ist glaubwürdig.	टॉम विश्वसनीय है।
 engSentence9	Tom ist eingebildet.	टॉम अहंकारी है।
 engSentence10	Tom ist farbenblind.	टॉम रंग को नहीं पहचान सकता।
+Tom is courageous.	Tom ist mutig.	टॉम साहसी है।
+Tom is cross-eyed.	Tom ist schieläugig.	टॉम आँखों की दाईं ओर देखता है।
+Tom is crying now.	Tom weint jetzt.	टॉम अभी रो रहा है।
+Tom is delusional.	Tom ist wahnhaft.	टॉम भ्रांतिग्रस्त है।
+Tom is dependable.	Tom ist zuverlässig.	टॉम भरोसेमंद है।
+Tom is despondent.	Tom ist niedergeschlagen.	टॉम उदास है।
+Tom is determined.	Tom ist entschlossen.	टॉम ठाने हुए है।
+Tom is devastated.	Tom ist verwüstet.	टॉम पराजित हो गया है।
+Tom is diplomatic.	Tom ist diplomatisch.	टॉम कूटनीतिक है।

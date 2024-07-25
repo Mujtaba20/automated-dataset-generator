@@ -1,14 +1,4 @@
 
-Tom is courageous.	Tom ist mutig.	टॉम बहादुर है।
-Tom is cross-eyed.	Tom schielt.	टॉम स्कोर।
-Tom is crying now.	Tom ist jetzt am Weinen.	टॉम अब रो रहा है।
-Tom is delusional.	Tom hat wahnhafte Störungen.	टॉम में भ्रम संबंधी विकार हैं।
-Tom is dependable.	Tom ist zuverlässig.	टॉम विश्वसनीय है।
-Tom is despondent.	Tom ist niedergeschlagen.	टॉम उदास है।
-Tom is despondent.	Tom ist mutlos.	टॉम निराश है।
-Tom is determined.	Tom ist entschlossen.	टॉम निर्धारित है।
-Tom is devastated.	Tom ist am Boden zerstört.	टॉम नष्ट हो गया है।
-Tom is diplomatic.	Tom ist diplomatisch.	टॉम राजनयिक है।
 Tom is disgusting.	Tom ist widerlich.	टॉम घृणित है।
 Tom is displeased.	Tom ist unzufrieden.	टॉम असंतुष्ट है।
 Tom is distracted.	Tom ist abgelenkt.	टॉम विचलित है।
