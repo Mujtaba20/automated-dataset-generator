@@ -13562,3 +13562,9 @@ She's helping me.	Sie hilft mir.	वह मेरी मदद कर रही 
 She's nice to me.	Sie ist nett zu mir.	वह मेरे साथ अच्छी है।
 She's not a liar.	Sie ist keine Lügnerin.	वह झूठी नहीं है।
 She's very upset.	Sie ist sehr aufgebracht.	वह बहुत उदास है।
+Should we cancel?	Sollen wir stornieren?	क्या हमें रद्द करना चाहिए?
+Should we try it?	Sollten wir es versuchen?	क्या हमें इसे ट्राई करना चाहिए?
+Sit at the table.	Setzen Sie sich an den Tisch.	मेज पर बैठें।
+Sit down, please.	Setz dich bitte.	कृपया बैठें।
+Size does matter.	Größe ist wichtig.	आकार मायने रखता है।
+Snakes are scary.	Schlangen sind gruselig.	सांप डरावने होते हैं।
