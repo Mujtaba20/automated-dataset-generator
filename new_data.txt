@@ -17265,3 +17265,12 @@ Is this hat yours?	Ist dieser Hut deiner?	क्या यह टोपी त�
 Is this our hotel?	Ist das unser Hotel?	क्या यह हमारा होटल है?
 Is this pen yours?	Ist dieser Stift deiner?	क्या यह कलम तुम्हारी है?
 Is this pure gold?	Ist das reines Gold?	क्या यह शुद्ध सोना है?
+Is this seat open?	Ist dieser Sitz frei?	क्या यह सीट खुली है?
+Is this your beer?	Ist das dein Bier?	क्या यह तुम्हारा बियर है?
+Is this your bike?	Ist das dein Fahrrad?	क्या यह तुम्हारी साइकिल है?
+Is this your bike? Different Translation	Gehört dieses Fahrrad dir?	क्या यह तुम्हारा बाईक है?
+Is this your bike? Another Different Translation	Ist das euer Rad?	क्या यह तुम्हारी साइकिल है?
+Is this your book?	Ist das dein Buch?	क्या यह तुम्हारी किताब है?
+Is this your book? Different Translation	Ist das euer Buch?	क्या यह तुम्हारी पुस्तक है?
+Is this your book? Another Different Translation	Gehört dieses Buch dir?	क्या यह तुम्हारी बुक है?
+Is this your room?	Ist das dein Zimmer?	क्या यह तुम्हारा कमरा है?
