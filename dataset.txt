@@ -1,14 +1,4 @@
 
-Your lips are red.	Deine Lippen sind rot.	आपके होंठ लाल हैं।
-Your lips are red.	Ihre Lippen sind rot.	आपके होंठ लाल हैं।
-Your lips are red.	Eure Lippen sind rot.	आपके होंठ लाल हैं।
-Your name, please.	Ihren Namen, bitte.	कृपया अपना नाम।
-Your time is over.	Deine Zeit ist vorbei.	आपका समय समाप्त होता है।
-A cat scratched me.	Eine Katze hat mich gekratzt.	एक बिल्ली ने मुझे खरोंच दिया।
-A child is missing.	Ein Kind wird vermisst.	एक बच्चा गायब है।
-A child needs love.	Ein Kind braucht Liebe.	एक बच्चे को प्यार की जरूरत है।
-A dog attacked Tom.	Ein Hund hat Tom angegriffen.	एक कुत्ते ने टॉम पर हमला किया।
-A guard is outside.	Draußen ist eine Wache.	बाहर एक गार्ड है।
 A horse kicked Tom.	Ein Pferd hat Tom getreten.	एक घोड़े ने टॉम को लात मारी।
 A lot has happened.	Es ist viel passiert.	बहुत कुछ हुआ है।
 A revolt broke out.	Ein Aufstand brach aus.	एक विद्रोह टूट गया।

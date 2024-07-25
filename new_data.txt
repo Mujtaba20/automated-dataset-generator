@@ -20224,3 +20224,4 @@ You've got cancer.	Du hast Krebs.	तुम्हें कैंसर हो �
 Your book is here.	Dein Buch ist hier.	तुम्हारी किताब यहाँ है।
 Your face is pale.	Dein Gesicht ist blass.	तुम्हारा चेहरा पीला है।
 Your house is big.	Dein Haus ist groß.	तुम्हारा घर बड़ा है।
+engSentence	Deine Lippen sind rot.	तुम्हारे होंठ लाल हैं।
