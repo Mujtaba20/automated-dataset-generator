@@ -1,14 +1,4 @@
 
-Venus is a planet.	Die Venus ist ein Planet.	शुक्र एक ग्रह है।
-Wait, don't shoot!	Warte, schieß nicht!	रुको, गोली मत करो!
-Wait, don't shoot!	Wartet, schießt nicht!	रुको, गोली मत करो!
-Wait, don't shoot!	Warten Sie, schießen Sie nicht!	रुको, गोली मत करो!
-Was Tom a teacher?	War Tom Lehrer?	क्या टॉम टीचर था?
-Was Tom surprised?	War Tom überrascht?	क्या टॉम आश्चर्यचकित था?
-Was Tom very busy?	Hatte Tom sehr viel zu tun?	क्या टॉम के पास बहुत कुछ करना था?
-Was Tom with Mary?	War Tom bei Maria?	क्या टॉम मारिया के साथ था?
-Was that too easy?	War das zu einfach?	क्या वह बहुत आसान था?
-Was that too easy?	War das zu leicht?	क्या वह बहुत हल्का था?
 Was that too hard?	War das zu schwer?	क्या वह बहुत भारी था?
 Was that too hard?	War das zu schwierig?	क्या वह बहुत मुश्किल था?
 Was the door open?	War die Tür offen?	क्या दरवाजा खुला था?

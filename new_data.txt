@@ -19468,3 +19468,10 @@ Two beers, please.	Zwei Biere, bitte.	कृपया दो बियर दे
 Use acrylic paint.	Verwenden Sie Acrylfarbe.	ऐक्रिलिक पेंट का इस्तेमाल करें।
 Use it or lose it.	Nutze es oder verliere es.	उसका उपयोग करो या खो दो।
 Use the small one.	Benutzen Sie das Kleine.	छोटे वाला इस्तेमाल करो।
+Venus is a planet.	Venus ist ein Planet.	वीनस एक ग्रह है।
+Wait, don't shoot!	Warte, nicht schießen!	रुको, न गोली चलाओ!
+Was Tom a teacher?	War Tom ein Lehrer?	क्या टॉम एक शिक्षक था?
+Was Tom surprised?	War Tom überrascht?	क्या टॉम हैरान था?
+Was Tom very busy?	War Tom sehr beschäftigt?	क्या टॉम बहुत व्यस्त था?
+Was Tom with Mary?	War Tom mit Mary?	क्या टॉम मेरी के साथ था?
+Was that too easy?	War das zu einfach?	क्या यह बहुत आसान था?
