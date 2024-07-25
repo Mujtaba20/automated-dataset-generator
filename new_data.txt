@@ -16374,3 +16374,10 @@ I do my own taxes.	Ich mache meine eigenen Steuern.	मैं अपना ट�
 I do not feel sad.	Ich fühle mich nicht traurig.	मुझे उदास नहीं महसूस होता।
 I do realize that.	Ich erkenne das.	मैं इसे समझता हूँ।
 I do that for Tom.	Ich mache das für Tom.	मैं टॉम के लिए ऐसा करता हूँ।
+I don't blame Tom.	Ich gebe Tom nicht die Schuld.	मैं टॉम को दोषी नहीं मानता।
+I don't blame you.	Ich mach dir keinen Vorwurf.	मुझे आप पर दोष नहीं लगता।
+I don't buy bread.	Ich kaufe kein Brot.	मैं रोटी नहीं खरीदता।
+I don't cook well.	Ich koche nicht gut.	मुझे अच्छे से खाना नहीं बनाना आता।
+I don't deny that.	Das bestreite ich nicht.	मैं उसे इनकार नहीं करता।
+I don't drink rum.	Ich trinke keinen Rum.	मैं रम नहीं पीता।
+I don't earn much.	Ich verdiene nicht viel.	मुझे ज्यादा कमाई नहीं होती।
