@@ -16290,3 +16290,13 @@ I came to see you.	Ich kam, um dich zu sehen.	मैं तुम्हें �
 I can accept that.	Ich kann das akzeptieren.	मैं वह स्वीकार कर सकता हूँ।
 I can barely walk.	Ich kann kaum gehen.	मैं मुश्किल से चल सकता हूँ।
 I can comfort her.	Ich kann sie trösten.	मैं उसे सांत्वना दे सकता हूँ।
+I can do that now.	Das kann ich jetzt machen.	मैं अब वह कर सकता हूँ।
+I can drive a car.	Ich kann Auto fahren.	मैं गाड़ी चला सकता हूँ।
+I can hardly swim.	Ich kann kaum schwimmen.	मैं मजबूरी में तैर सकता हूँ।
+I can hardly wait.	Ich kann kaum warten.	मैं मुश्किल से इंतजार कर सकता हूँ।
+I can hardly walk.	Ich kann kaum laufen.	मैं मुश्किल से चल सकता हूँ।
+I can manage this.	Ich kann das schaffen.	मैं इसे संभाल सकता हूँ।
+I can play Chopin.	Ich kann Chopin spielen.	मैं शोपेन बजा सकता हूँ।
+I can play soccer.	Ich kann Fußball spielen.	मैं सॉकर खेल सकता हूँ।
+I can play tennis.	Ich kann Tennis spielen.	मैं टेनिस खेल सकता हूँ।
+I can protect you.	Ich kann dich beschützen.	मैं तुम्हें सुरक्षित रख सकता हूँ।
