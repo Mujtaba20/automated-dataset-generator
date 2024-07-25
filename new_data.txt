@@ -16989,3 +16989,13 @@ I'll do it myself.	Ich werde es selbst tun.	मैं खुद करूँग�
 I'll drive myself.	Ich werde selbst fahren.	मैं खुद चलाऊंगा।
 I'll feed the dog.	Ich werde den Hund füttern.	मैं कुत्ते को खिलाऊंगा।
 I'll find someone.	Ich werde jemanden finden.	मैं किसी को ढूंढूँगा।
+I'll get arrested.	Ich werde verhaftet werden.	मुझे गिरफ्तार कर लिया जाएगा।
+I'll get off here.	Ich werde hier aussteigen.	मैं यहाँ से उतर जाऊंगा।
+I'll get the book.	Ich werde das Buch holen.	मैं किताब लेलूँगा।
+I'll get the book. - Different meaning	Ich werde das Buch bekommen.	मैं किताब पाऊंगा।
+I'll get the wine.	Ich werde den Wein holen.	मैं वाइन ले लूंगा।
+I'll give it a go.	Ich werde es versuchen.	मैं इसे कोशिश करूँगा।
+I'll give it back.	Ich werde es zurückgeben.	मैं इसे वापस कर दूंगा।
+I'll give you $30.	Ich werde dir $30 geben.	मैं तुम्हें $30 दूंगा।
+I'll go if you go.	Ich werde gehen, wenn du gehst.	मैं चलूंगा, अगर तुम चलो।
+I'll go on Sunday.	Ich werde am Sonntag gehen.	मैं रविवार को जाऊंगा।
