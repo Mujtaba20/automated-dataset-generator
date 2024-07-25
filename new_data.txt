@@ -16957,3 +16957,12 @@ I won the lottery.	Ich habe im Lotto gewonnen.	मैंने लाटरी �
 I won't deny that.	Das werde ich nicht leugnen.	मैं इसका इनकार नहीं करूंगा।
 I won't forget it.	Ich werde es nicht vergessen.	मैं यह नहीं भूलूंगा।
 I won't sign this.	Ich werde das nicht unterschreiben.	मैं इसे साइन नहीं करूंगा।
+I won't wear this.	Ich werde das nicht anziehen.	मैं यह नहीं पहनूंगी।
+I work at the zoo.	Ich arbeite im Zoo.	मैं चिड़ियाघर में काम करता हूँ।
+I work long hours.	Ich arbeite lange Stunden.	मैं लंबी घंटों तक काम करता हूँ।
+I work on Mondays.	Ich arbeite montags.	मैं सोमवार को काम करता हूँ।
+I worry about him.	Ich mache mir Sorgen um ihn.	मैं उसकी चिंता करता हूँ।
+I would like that.	Das würde ich gerne haben.	मुझे वह चाहिए।
+I would've waited.	Ich hätte gewartet.	मैं इंतजार करता।
+I wrote it myself.	Ich habe es selbst geschrieben.	मैंने खुद लिखा है।
+I wrote that book.	Ich habe das Buch geschrieben.	मैंने वो किताब लिखी थी।
