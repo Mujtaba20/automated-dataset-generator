@@ -17782,3 +17782,9 @@ She was depressed.	Sie war depressiv.	उसे अवसाद था।
 She was very busy.	Sie war sehr beschäftigt.	वह बहुत व्यस्त थी।
 She went shopping.	Sie ging einkaufen.	वह खरीदारी के लिए गई।
 She went upstairs.	Sie ging nach oben.	वह ऊपर चली गई।
+She went with him.	Sie ging mit ihm.	उसके साथ गई।
+She won't make it.	Sie wird es nicht schaffen.	वह इसे नहीं बनाएगी।
+She's a bit naive.	Sie ist ein bisschen naiv.	वह थोड़ी भोली है।
+She's a good liar.	Sie ist eine gute Lügnerin.	वह एक अच्छी झूठी है।
+She's a night owl.	Sie ist eine Nachteule.	वह एक रात की उल्लू है।
+She's a woman now.	Sie ist jetzt eine Frau.	वह अब एक महिला है।
