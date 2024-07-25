@@ -18407,3 +18407,11 @@ Tom despised Mary.	Tom verachtete Mary.	टॉम ने मैरी को घ
 Tom despises Mary.	Tom verachtet Mary.	टॉम मैरी से घृणा करता है।
 Tom did a bad job.	Tom hat schlechte Arbeit geleistet.	टॉम ने बुरा काम किया।
 Tom did it anyway.	Tom hat es sowieso gemacht.	टॉम ने किया ही कर दिया।
+Tom did it for me.	Tom hat es für mich getan.	टॉम ने मेरे लिए यह किया।
+Tom did that well.	Tom hat das gut gemacht.	टॉम ने वह अच्छा किया।
+Tom didn't answer.	Tom hat nicht geantwortet.	टॉम ने जवाब नहीं दिया।
+Tom didn't appear.	Tom ist nicht erschienen.	टॉम नहीं आया।
+Tom didn't buy it.	Tom hat es nicht gekauft.	टॉम ने यह नहीं खरीदा।
+Tom didn't flinch.	Tom zuckte nicht zusammen.	टॉम ने क्लिंच नहीं किया।
+Tom didn't follow.	Tom ist nicht gefolgt.	टॉम ने अनुसरण नहीं किया।
+Tom didn't listen.	Tom hat nicht zugehört.	टॉम ने सुना नहीं।
