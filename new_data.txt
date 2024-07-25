@@ -11678,3 +11678,12 @@ Did you steal it?	Hast du es gestohlen?	क्या आपने इसे च�
 Did you stop Tom?	Hast du Tom gestoppt?	क्या आपने टॉम को रोका?
 Did you tell Tom?	Hast du Tom erzählt?	क्या तुमने टॉम को बताया?
 Did you throw up?	Hast du erbrochen?	क्या आपने उल्टी की है?
+Did you vote yet?	Haben Sie schon gewählt?	क्या आपने अभी तक वोट किया है?
+Did you warn Tom?	Hast du Tom gewarnt?	क्या आपने टॉम को चेताया आहे?
+Did you warn Tom? (different meaning)	Haben Sie Tom gewarnt?	क्या आपने तोम को चेताया?
+Didn't Tom smile?	Hat Tom nicht gelächelt?	क्या टॉम हंस रहा नहीं था?
+Didn't Tom smile? (different meaning)	Hat Tom nicht gelacht?	क्या टॉम हंसु नहीं?
+Dinner is served.	Das Abendessen ist serviert.	रात का खाना दिया गया है।
+Do I get a prize?	Bekomme ich einen Preis?	क्या मुझे कोई पुरस्कार मिलेगा?
+Do I smell bacon?	Rieche ich Schweinefleisch?	क्या मुझे बेकन की सुगंध आ रही है?
+Do as I told you.	Tu, wie ich dir gesagt habe.	जैसा मैंने तुम्हें कहा था, वैसा करो।
