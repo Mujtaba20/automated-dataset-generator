@@ -3499,3 +3499,11 @@ Tom's scared.	Tom hat Angst.	टॉम डरा हुआ है।
 Tom's silent.	Tom ist still.	टॉम चुप है।
 Tom's so old.	Tom ist so alt.	टॉम इतना पुराना है।
 Tom's strict.	Tom ist streng.	टॉम कठोर है।
+Tom's strong.	Tom ist stark.	टॉम मजबूत है।
+Tom's stupid.	Tom ist dumm.	टॉम मूर्ख है।
+Tom's thirty.	Tom ist dreißig.	टॉम तीस है।
+Tom's wasted.	Tom ist verschwendet.	टॉम हानि उठाना।
+Tom, wake up.	Tom, wach auf.	टॉम, जागो।
+Trust in God.	Vertraue auf Gott.	भगवान पर भरोसा करो।
+Trust no one.	Vertraue niemandem.	किसी पर भरोसा मत करो।
+Try and sing.	Versuche zu singen.	कोशिश करो और गाओ।
