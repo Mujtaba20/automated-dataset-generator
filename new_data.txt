@@ -13999,3 +13999,11 @@ Tom didn't drive.	Tom ist nicht gefahren.	टॉम ने ड्राइव �
 Tom didn't drown.	Tom ist nicht ertrunken.	टॉम नहाना नहीं गया।
 Tom didn't laugh.	Tom hat nicht gelacht.	टॉम हंस नहीं हा।
 Tom didn't leave.	Tom ist nicht gegangen.	टॉम नहीं चला गया।
+Tom didn't reply.	Tom hat nicht geantwortet.	टॉम ने जवाब नहीं दिया।
+Tom didn't shoot.	Tom hat nicht geschossen.	टॉम ने गोली नहीं चलाई।
+Tom didn't sleep.	Tom hat nicht geschlafen.	टॉम ने नींद नहीं की।
+Tom didn't smile.	Tom hat nicht gelächelt.	टॉम मुस्कान नहीं थी।
+Tom didn't speak.	Tom hat nicht gesprochen.	टॉम ने बात नहीं की।
+Tom didn't stand.	Tom ist nicht aufgestanden.	टॉम खड़ा नहीं था।
+Tom died at 2:30.	Tom starb um 2:30 Uhr.	टॉम 2:30 बजे मर गया।
+Tom died from TB.	Tom starb an Tuberkulose.	टॉम टीबी से मर गया।
