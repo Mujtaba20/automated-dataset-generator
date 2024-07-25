@@ -10032,3 +10032,13 @@ They look great.	Sie sehen toll aus.	वे बहुत अच्छे लग�
 They lost again.	Sie haben wieder verloren.	उन्होंने फिर से हार जाया।
 They meant well.	Sie meinten es gut.	उनका उद्देश्य अच्छा था।
 They missed Tom.	Sie haben Tom vermisst.	उन्होंने टॉम की याद की।
+They never came.	Sie kamen nie.	वे कभी नहीं आए।
+They never came.1	Sie erschienen nie.	उन्होंने कभी नहीं किया।
+They sell candy.	Sie verkaufen Süßigkeiten.	वे मिठाई बेचते हैं।
+They understood.	Sie verstanden.	उन्होंने समझ लिया।
+They visited us.	Sie besuchten uns.	उन्होंने हमें देखा।
+They want peace.	Sie wollen Frieden.	उन्हें शांति चाहिए।
+They went crazy.	Sie wurden verrückt.	वे पागल हो गए।
+They went crazy.1	Sie wurden wütend.	उनके पागल हो गए।
+They went there.	Sie gingen dorthin.	वे वहाँ गए।
+They were dirty.	Sie waren schmutzig.	वे गंदे थे।
