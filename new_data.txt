@@ -1709,3 +1709,13 @@ I want Mary.	Ich möchte Maria.	मुझे मैरी चाहिए।
 I want cash.	Ich möchte Bargeld.	मुझे नकदी चाहिए।
 I want eggs.	Ich möchte Eier.	मुझे अंडे चाहिए।
 I want kids.	Ich möchte Kinder.	मुझे बच्चे चाहिए।
+I want mine.	Ich will meins.	मुझे अपना चाहिए।
+I want more.	Ich will mehr.	मुझे और चाहिए।
+I want that.	Ich will das.	मुझे वह चाहिए।
+I want them.	Ich will sie.	मुझे वे चाहिए।
+I want this.	Ich will das hier.	मुझे यह चाहिए।
+I want time.	Ich möchte Zeit haben.	मुझे समय चाहिए।
+I want more time.	Ich will mehr Zeit.	मुझे और समय चाहिए।
+I was alone.	Ich war allein.	मैं अकेला था।
+I was angry.	Ich war wütend.	मैं गुस्सा था।
+I was awake.	Ich war wach.	मैं जागा था।
