@@ -11285,3 +11285,11 @@ Who surrendered?	Wer hat sich ergeben?	किसने आत्मसमर्�
 Who teaches you?	Wer lehrt dich?	तुम्हें कौन पढ़ाता है?
 Who volunteered?	Wer hat sich freiwillig gemeldet?	कौन स्वैच्छिक रूप से उतरा?
 Who's after you?	Wer ist hinter dir her?	तुम्हारे पीछे कौन है?
+Who's in charge?	Wer ist verantwortlich?	किसकी जिम्मेदारी है?
+Who's listening?	Wer hört zu?	कौन सुन रहा है?
+Who's screaming?	Wer schreit?	कौन चिल्ला रहा है?
+Who's that girl?	Wer ist dieses Mädchen?	वो कौन लड़की है?
+Who's your aunt?	Wer ist deine Tante?	तुम्हारी चाची कौन है?
+Whose are these?	Wem gehören diese?	ये किसके हैं?
+Why are we here?	Warum sind wir hier?	हम यहाँ क्यों हैं?
+Why are we poor?	Wieso sind wir arm?	हम गरीब क्यों हो रहें हैं?
