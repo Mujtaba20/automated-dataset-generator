@@ -5680,3 +5680,10 @@ Don't eat this. - Different Meaning	Essen sie das nicht.	इसे खाने 
 Don't go there.	Geh nicht dorthin.	वहाँ मत जाओ।
 Don't hurt her.	Verletze sie nicht.	उसे चोट मत पहुँचाओ।
 Don't hurt her. - Different Meaning	Tu ihr nicht weh.	उसे दुख न दो।
+Don't hurt him.	Verletze ihn nicht.	उसे चोट न दो।
+Don't leave us.	Verlass uns nicht.	हमें मत छोड़ो।
+Don't mind Tom.	Kümmere dich nicht um Tom.	टॉम की बात मत सोचो।
+Don't obey him.	Gehorche ihm nicht.	उसकी आज्ञा मत मानो।
+Don't run here.	Lauf hier nicht.	यहाँ मत दौड़ो।
+Don't say that.	Sag das nicht.	वैसा मत कहो।
+Don't show off.	Gib nicht an.	दिखावट मत करो।
