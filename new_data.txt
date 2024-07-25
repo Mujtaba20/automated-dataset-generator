@@ -5265,3 +5265,13 @@ We found them.	Wir haben sie gefunden.	हमने उन्हें ढूँ
 We got robbed.	Wir wurden überfallen.	हमें लूट लिया।
 We had a plan.	Wir hatten einen Plan.	हमारे पास एक योजना थी।
 We had doubts.	Wir hatten Zweifel.	हमें संदेह थे।
+We have a car.	Wir haben ein Auto.	हमारे पास एक कार है।
+We have plans.	Wir haben Pläne.	हमारे पास योजनाएँ हैं।
+We have rules.	Wir haben Regeln.	हमारे पास नियम हैं।
+We have to go.	Wir müssen gehen.	हमें जाना है।
+We helped Tom.	Wir haben Tom geholfen.	हमने टॉम की मदद की।
+We hit it off.	Wir haben uns gut verstanden.	हमने अच्छी तरह से समझौता किया।
+We like music.	Wir mögen Musik.	हमें संगीत पसंद है।
+We meant well.	Wir meinten es gut.	हमने अच्छा काम किया।
+We missed you.	Wir haben dich vermisst.	हमें तुम्हारी कमी महसूस हुई।
+We must focus.	Wir müssen uns konzentrieren.	हमें ध्यान केंद्रित करना चाहिए।
