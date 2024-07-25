@@ -17418,3 +17418,13 @@ It's not over yet.	Es ist noch nicht vorbei.	यह अभी तक खत्�
 It's not possible.	Es ist nicht möglich.	यह संभव नहीं है।
 It's not that bad.	Es ist nicht so schlecht.	इतना बुरा नहीं है।
 It's not the same.	Es ist nicht dasselbe.	यह वही नहीं है।
+It's not this one.	Das ist nicht dieser.	यह वह नहीं है।
+It's not too deep.	Es ist nicht zu tief.	यह बहुत गहरा नहीं है।
+It's not too late.	Es ist nicht zu spät.	यह बहुत देर से नहीं है।
+It's not too much.	Es ist nicht zu viel.	यह बहुत नहीं है।
+It's not up to me.	Es liegt nicht an mir.	यह मेरे ऊपर नहीं है।
+It's not worth it.	Es ist es nicht wert.	यह उसके लायक नहीं है।
+It's now or never.	Jetzt oder nie.	अब या कभी नहीं।
+It's on the house.	Es geht aufs Haus.	घर पर है।
+It's one of those.	Es ist einer von denen.	यह उनमें से एक है।
+It's only a dream.	Es ist nur ein Traum.	यह सिर्फ़ एक सपना है।
