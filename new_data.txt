@@ -2879,3 +2879,12 @@ I'm no saint.	Ich bin kein Heiliger.	मैं कोई संत नहीं 
 I'm not busy.	Ich bin nicht beschäftigt.	मैं व्यस्त नहीं हूँ।
 I'm not dead.	Ich bin nicht tot.	मैं मरा नहीं हूँ।
 I'm not deaf.	Ich bin nicht taub.	मैं बहरा नहीं हूँ।
+I'm not done.	Ich bin nicht fertig.	मैं पूर्ण नहीं हूँ।
+I'm not evil.	Ich bin nicht böse.	मैं बुरा नहीं हूँ।
+I'm not free.	Ich bin nicht frei.	मैं मुक्त नहीं हूँ।
+I'm not here.	Ich bin nicht hier.	मैं यहाँ नहीं हूँ।
+I'm not home.	Ich bin nicht zu Hause.	मैं घर पर नहीं हूँ।
+I'm not hurt.	Ich bin nicht verletzt.	मैं चोटिल नहीं हूँ।
+I'm not mean.	Ich bin nicht gemein.	मैं क्रूर नहीं हूँ।
+I'm not rich.	Ich bin nicht reich.	मैं धनवान नहीं हूँ।
+I'm not sick.	Ich bin nicht krank.	मैं बीमार नहीं हूँ।
