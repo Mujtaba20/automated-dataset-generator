@@ -17274,3 +17274,10 @@ Is this your book?	Ist das dein Buch?	क्या यह तुम्हार�
 Is this your book? Different Translation	Ist das euer Buch?	क्या यह तुम्हारी पुस्तक है?
 Is this your book? Another Different Translation	Gehört dieses Buch dir?	क्या यह तुम्हारी बुक है?
 Is this your room?	Ist das dein Zimmer?	क्या यह तुम्हारा कमरा है?
+Is this your wine?	Ist das dein Wein?	क्या यह तुम्हारा शराब है?
+Is your car black?	Ist dein Auto schwarz?	क्या आपकी कार काली है?
+Is your family OK?	Ist deine Familie in Ordnung?	क्या तुम्हारा परिवार ठीक है?
+Is your wife tall?	Ist deine Frau groß?	क्या तुम्हारी पत्नी लम्बी है?
+Isn't it pathetic?	Ist es nicht erbärmlich?	क्या यह दयनीय नहीं है?
+Isn't that enough?	Ist das nicht genug?	क्या यह पर्याप्त नहीं है?
+Isn't that theirs?	Ist das nicht ihres?	क्या वह उनका नहीं है?
