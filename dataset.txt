@@ -1,14 +1,4 @@
 
-Take the next bus.	Fahre mit dem nächsten Bus.	अगली बस ड्राइव करें।
-Take the next bus.	Fahren Sie mit dem nächsten Bus.	अगली बस ड्राइव करें।
-Take the next bus.	Fahrt mit dem nächsten Bus.	अगली बस ड्राइव करें।
-Tell Tom I called.	Sag Tom, dass ich angerufen habe.	टॉम कहो जिसे मैंने बुलाया।
-Tell Tom I called.	Sag Tom, dass ich anrief.	टॉम कहो जिसे मैंने बुलाया।
-Tell Tom about it.	Sag es Tom.	यह कहो टॉम।
-Tell Tom about it.	Sagen Sie es Tom.	टॉम कहते हैं।
-Tell Tom about it.	Erzählen Sie Tom davon.	टॉम टॉम इसके बारे में।
-Tell Tom about it.	Sagt es Tom.	टॉम कहते हैं।
-Tell Tom to hurry.	Sag Tom, dass er sich beeilen soll.	टॉम कहो कि उसे जल्दी करना चाहिए।
 Tell Tom to relax.	Sag Tom, er soll entspannen.	टॉम कहो, उसे आराम करना चाहिए।
 Tell Tom to relax.	Sag Tom, er soll sich erholen.	टॉम कहो, उसे ठीक होना चाहिए।
 Tell Tom yourself.	Sag’s Tom doch selbst!	इसे स्वयं कहो!

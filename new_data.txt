@@ -17866,3 +17866,7 @@ Take off your hat.	Nimm deinen Hut ab.	अपनी टोपी उतारो
 Take one of these.	Nimm eines davon.	इनमें से एक लो।
 Take some aspirin.	Nehmt etwas Aspirin.	कुछ एस्पिरिन लें।
 Take the medicine.	Nimm die Medizin.	दवाई लो।
+Take the next bus.	Nimm den nächsten Bus.	अगली बस पकड़ो।
+Tell Tom I called.	Sag Tom, ich habe angerufen.	तोम से कहो, मैंने कॉल किया।
+Tell Tom about it.	Informiere Tom darüber.	तोम को इसके बारे में सूचित करो।
+Tell Tom to hurry.	Sag Tom, er soll sich beeilen.	तोम को जल्दी करने के लिए कहो।
