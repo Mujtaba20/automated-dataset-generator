@@ -3197,3 +3197,13 @@ Take my coat.	Nimm meinen Mantel.	मेरी कोट लो।
 Take us home.	Bring uns nach Hause.	हमें घर ले चलो।
 Tell Tom why.	Sag Tom warum.	टॉम को बता क्यों।
 Tell me more.	Erzähl mir mehr.	मुझे और बताओ।
+Thanks again.	Danke noch einmal.	फिर से धन्यवाद।
+That does it.	Das macht es.	वह काम कर देता है।
+That tickles.	Das kitzelt.	वह तो खुजलाता है।
+That was Tom.	Das war Tom.	वह टॉम था।
+That was bad.	Das war schlecht.	वह गलत था।
+That was fun.	Das hat Spaß gemacht.	वह मजेदार था।
+That will do.	Das wird genügen.	यह काम करेगा।
+That'll help.	Das wird helfen.	यह मदद करेगा।
+That'll pass.	Das wird vergehen.	यह चला जाएगा।
+That's Tom's.	Das gehört Tom.	वह टॉम का है।
