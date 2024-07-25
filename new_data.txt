@@ -19630,3 +19630,11 @@ We're both insane.	Wir sind beide verrückt.	हम दोनों पागल
 We're celebrating.	Wir feiern.	हम जश्न मना रहे हैं।
 We're cooking now.	Wir kochen jetzt.	हम अब पका रहे हैं।
 We're cooperating.	Wir arbeiten zusammen.	हम सहयोग कर रहे हैं।
+We're defenseless.	Wir sind wehrlos.	हम बेबस हैं।
+We're doing great.	Wir machen großartig.	हम बड़े अच्छे कर रहे हैं।
+We're experienced.	Wir sind erfahren.	हम अनुभवी हैं।
+We're friends now.	Wir sind jetzt Freunde.	अब हम दोस्त हैं।
+We're from Boston.	Wir kommen aus Boston.	हम बॉस्टन से हैं।
+We're going alone.	Wir gehen alleine.	हम अकेले जा रहे हैं।
+We're going to go.	Wir werden gehen.	हम जाने वाले हैं।
+We're in mourning.	Wir trauern.	हम शोक में हैं।
