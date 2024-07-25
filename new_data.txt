@@ -16451,3 +16451,10 @@ I found the money.	Ich habe das Geld gefunden.	मैंने पैसे प�
 I found your keys.	Ich habe deine Schlüssel gefunden.	मैंने तुम्हारी चाबियां मिली।
 I gave Tom a book.	Ich gab Tom ein Buch.	मैंने टॉम को एक किताब दी।
 I gave him a book.	Ich habe ihm ein Buch gegeben.	मैंने उसे एक किताब दी।
+I gave him a call.	Ich habe ihm angerufen.	मैंने उसे फोन किया।
+I gave you a book.	Ich habe dir ein Buch gegeben.	मैंने तुम्हें एक किताब दी।
+I get the picture.	Ich verstehe.	मुझे तस्वीर समझ आ गई।
+I got Tom to help.	Ich habe Tom geholfen.	मैंने टॉम को मदद की।
+I got a bad grade.	Ich habe eine schlechte Note bekommen.	मुझे एक खराब ग्रेड मिला।
+I got a flat tire.	Ich habe einen Platten Reifen.	मेरे पंक्चर हो गए।
+I got it for free.	Ich habe es umsonst bekommen.	मुझे यह मुफ्त में मिला।
