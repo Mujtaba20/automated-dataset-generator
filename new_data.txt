@@ -1877,3 +1877,12 @@ It can't be! - different meaning	Es darf nicht sein!	ऐसा नहीं ह�
 It happened.	Es ist passiert.	यह हो गया।
 It happened. - different meaning	Es geschah.	यह हो चुका है।
 It is foggy.	Es ist neblig.	यह धुंधला है।
+It is on me.	Es liegt an mir.	यह मेरे ऊपर है।
+It may rain.	Es könnte regnen.	बारिश हो सकती है।
+It may snow.	Es könnte schneien.	हिम पड़ सकता है।
+It saved me.	Es hat mich gerettet.	यह मुझे बचा लिया।
+It was cold.	Es war kalt.	यह ठंडा था।
+It was dark.	Es war dunkel.	यह अंधेरा था।
+It was real.	Es war echt.	यह असली था।
+It'll be OK.	Es wird in Ordnung sein.	सब ठीक होगा।
+It'll break.	Es wird brechen.	यह टूट जाएगा।
