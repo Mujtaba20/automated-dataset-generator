@@ -20201,3 +20201,8 @@ You're surrounded.	Du bist umgeben.	तुम घिरे हुए हो।
 You're surrounded. (Different Meaning)	Du bist umzingelt.	तुम चारों ओर से घेरे हुए हो।
 You're telling me.	Du sagst es mir.	तुम मुझसे कह रहे हो।
 You're the doctor.	Du bist der Arzt.	तुम डॉक्टर हो।
+You're the expert.	Du bist der Experte.	तुम विशेषज्ञ हो।
+You're the specialist.	Du bist der Spezialist.	तुम विशेषज्ञ हो।
+You're the professional.	Du bist der Profi.	तुम पेशेवर हो।
+You're the master.	Du bist der Meister.	तुम शिष्य हो।
+You're the authority.	Du bist die Autorität.	तुम प्राधिकार हो।

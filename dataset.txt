@@ -1,14 +1,4 @@
 
-You're the expert.	Du bist der Experte.	आप विशेषज्ञ हैं।
-You're the expert.	Du bist die Expertin.	आप विशेषज्ञ हैं।
-You're the expert.	Du bist der Fachmann.	आप विशेषज्ञ हैं।
-You're the expert.	Sie sind der Fachmann.	आप विशेषज्ञ हैं।
-You're the expert.	Sie sind der Mann vom Fach.	आप मैदान से आदमी हैं।
-You're the expert.	Sie sind die Fachfrau.	आप विशेषज्ञ हैं।
-You're the expert.	Sie sind die Frau vom Fach.	आप विशेषज्ञ की महिला हैं।
-You're the expert.	Sie sind die Expertin.	आप विशेषज्ञ हैं।
-You're the expert.	Du bist vom Fach.	आप विषय से हैं।
-You're the expert.	Sie sind vom Fach.	आप विषय से हैं।
 You're too little.	Du bist noch zu klein.	आप अभी भी बहुत छोटे हैं।
 You're too skinny.	Du bist zu mager.	तुम बहुत दुबले हो।
 You're too skinny.	Sie sind zu mager.	वे बहुत दुबले हैं।
