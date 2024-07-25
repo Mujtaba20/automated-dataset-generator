@@ -1,14 +1,4 @@
 
-Did Tom mention me?	Hat Tom mich erwähnt?	क्या टॉम ने मेरा उल्लेख किया?
-Did Tom say thanks?	Hat Tom sich bedankt?	क्या टॉम ने आपको धन्यवाद दिया?
-Did Tom seem upset?	Schien Tom bestürzt zu sein?	लग रहा था?
-Did Tom work there?	Hat Tom da gearbeitet?	क्या टॉम ने वहां काम किया?
-Did Tom write that?	Hat Tom das geschrieben?	क्या टॉम ने लिखा था?
-Did anyone miss me?	Hat mich einer vermisst?	क्या किसी ने मुझे याद किया?
-Did everyone agree?	Haben alle zugestimmt?	क्या हर कोई सहमत था?
-Did everyone agree?	Waren alle einverstanden?	क्या हर कोई सहमत था?
-Did she sleep well?	Hat sie gut geschlafen?	क्या वह अच्छी तरह से सोती थी?
-Did they live here?	Haben sie hier gewohnt?	क्या आप यहाँ रहते थे?
 Did we wake you up?	Haben wir dich geweckt?	क्या हमने आपको जगाया?
 Did we wake you up?	Haben wir Sie geweckt?	क्या हमने उन्हें जगाया?
 Did we wake you up?	Haben wir euch geweckt?	क्या हमने आपको जगाया?

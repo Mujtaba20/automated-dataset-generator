@@ -20366,3 +20366,12 @@ Did Tom cause this?	Hat Tom das verursacht?	क्या टॉमने यह 
 Did Tom eat dinner?	Hat Tom zu Abend gegessen?	क्या टॉमने रात का खाना खाया है?
 Did Tom have a gun?	Hat Tom eine Waffe gehabt?	क्या टॉमके पास बंदूक थी?
 Did Tom just leave?	Ist Tom gerade gegangen?	क्या टॉम अभी चला गया है?
+Did Tom mention me?	Hat Tom mich erwähnt?	क्या टॉम ने मुझे जिक्र किया?
+Did Tom say thanks?	Hat Tom danke gesagt?	क्या टॉमने धन्यवाद कहा?
+Did Tom seem upset?	Scheint es, dass Tom verärgert ist?	क्या लगता है कि टॉम उदास है?
+Did Tom work there?	Hat Tom dort gearbeitet?	क्या टॉम वहाँ काम किया?
+Did Tom write that?	Hat Tom das geschrieben?	क्या टॉमने वह लिखा था?
+Did anyone miss me?	Hat mich jemand vermisst?	क्या किसी ने मुझे याद किया?
+Did everyone agree?	Hat sich jeder einverstanden erklärt?	क्या सभी सहमत थे?
+Did she sleep well?	Hat sie gut geschlafen?	क्या उसने अच्छी तरह से सोया?
+Did they live here?	Haben sie hier gelebt?	क्या उन्होंने यहाँ रहा?
