@@ -13686,3 +13686,13 @@ That's not yours.	Das gehört nicht dir.	वह तुम्हारा नह�
 That's our fault.	Das ist unser Fehler.	यह हमारी गलती है।
 That's our house.	Das ist unser Haus.	यह हमारा घर है।
 That's my book.	Das ist mein Buch.	यह मेरी किताब है।
+That's our train.	Das ist unser Zug.	यह हमारी ट्रेन है।
+That's pointless.	Das ist sinnlos.	वह बेमानी है।
+That's the point.	Darauf kommt es an.	उसी में बात है।
+That's up to Tom.	Das liegt an Tom.	यह टॉम पर निर्भर है।
+That's up to you.	Das liegt an dir.	यह आप पर है।
+That's upsetting.	Das ist ärgerlich.	यह दुखद है।
+That's very cool.	Das ist sehr cool.	यह बहुत ठंडा है।
+That's very good.	Das ist sehr gut.	यह बहुत अच्छा है।
+That's what I do.	Das ist das, was ich tue.	यही मैं करता हूं।
+That's wonderful.	Das ist wunderbar.	यह अद्भुत है।
