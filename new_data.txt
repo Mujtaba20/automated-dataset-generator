@@ -12360,3 +12360,10 @@ I found the keys.	Ich fand die Schlüssel.	मैंने चाबियाँ
 I found your cap.	Ich fand deine Mütze.	मैंने तुम्हारी टोपी पायी।
 I gave Tom a hug.	Ich gab Tom eine Umarmung.	मैंने टॉम को एक गले लगाया।
 I gave Tom a tip.	Ich gab Tom ein Trinkgeld.	मैंने टॉम को एक सुझाव दिया।
+I gave it to Tom.	Ich habe es Tom gegeben.	मैंने यह टॉम को दिया।
+I gave up my job.	Ich habe meinen Job aufgegeben.	मैंने अपनी नौकरी छोड़ दी।
+I gave up on Tom.	Ich habe bei Tom aufgegeben.	मैंने टॉम पर हार मान ली।
+I get up at 6:30.	Ich stehe um 6:30 Uhr auf.	मैं 6:30 बजे उठता हूँ।
+I get up at 7:00.	Ich stehe um 7:00 Uhr auf.	मैं 7:00 बजे उठता हूँ।
+I get your drift.	Ich verstehe, was du meinst.	मैं आपकी दिशा को समझ गया।
+I go to the park.	Ich gehe in den Park.	मैं पार्क जाता हूँ।
