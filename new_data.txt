@@ -6923,3 +6923,6 @@ Take my advice.	Befolge meinen Rat.	मेरी सलाह लेलो।
 Take that back.	Nimm das zurück.	वह वापस लो।
 Take that down.	Nimm das herunter.	वह नीचे ले आओ।
 Take your coat.	Nimm deinen Mantel.	अपनी कोट लो।
+Take your shot.	Mach deinen Wurf.	अपना शॉट लें।
+Take your time.	Nehmen Sie sich Zeit.	अपना समय लें।
+Tell everybody.	Informiere alle.	हर को सूचित करो।
