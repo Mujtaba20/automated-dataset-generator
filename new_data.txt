@@ -12798,3 +12798,12 @@ I'll never learn.	Ich werde niemals lernen.	मैं कभी नहीं स
 I'll pay for you.	Ich werde für dich bezahlen.	मैं तुम्हारे लिए भुगतान करूंगा।
 I'll protect Tom.	Ich werde Tom beschützen.	मैं टॉम की रक्षा करूंगा।
 I'll replace Tom.	Ich werde Tom ersetzen.	मैं टॉम की जगह लूँगा।
+I'll run with it.	Ich werde damit rennen.	मैं इसके साथ दौड़ लूंगा।
+I'll say no more.	Ich werde nichts mehr sagen.	मैं और कुछ नहीं कहूंगा।
+I'll see to that.	Ich werde dafür sorgen.	मैं इसका ध्यान रखूंगा।
+I'll shut up now.	Ich werde jetzt den Mund halten.	अब मैं बोलना बंद करूंगा।
+I'll take a look.	Ich werde einen Blick darauf werfen.	मैं एक नजर डालूँगा।
+I'll take my car.	Ich werde mein Auto nehmen.	मैं अपनी कार लेऊंगा।
+I'll talk to Tom.	Ich werde mit Tom sprechen.	मैं टॉम से बात करूंगा।
+I'll try my luck.	Ich werde mein Glück versuchen.	मैं भाग्य आजमाऊंगा।
+I'll wash dishes.	Ich werde das Geschirr abwaschen.	मैं बर्तन धोऊंगा।
