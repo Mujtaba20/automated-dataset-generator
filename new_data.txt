@@ -6915,3 +6915,11 @@ Stop sniffling.	Hör auf zu schniefen.	सांस लेना बंद क�
 Stop whistling.	Hör auf zu pfeifen.	सीटी बजाना बंद करो।
 Sugar is sweet.	Zucker ist süß.	चीनी मिठी होती है।
 Summer is over.	Sommer ist vorbei.	सर्दी आ गई है।
+Supper is cold.	Das Abendessen ist kalt.	रात का खाना ठंडा है।
+Take a picture.	Ein Bild machen.	एक तस्वीर लें।
+Take it to Tom.	Bring es zu Tom.	इसे टॉम को ले जाओ।
+Take me to Tom.	Bringe mich zu Tom.	मुझे टॉम के पास ले जाओ।
+Take my advice.	Befolge meinen Rat.	मेरी सलाह लेलो।
+Take that back.	Nimm das zurück.	वह वापस लो।
+Take that down.	Nimm das herunter.	वह नीचे ले आओ।
+Take your coat.	Nimm deinen Mantel.	अपनी कोट लो।
