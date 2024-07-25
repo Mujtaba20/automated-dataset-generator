@@ -3944,3 +3944,11 @@ He was stoned.	Er war versteinert.	उसे पत्थर समझा गय
 He went blind.	Er ging blind.	उसे अंधापन का अनुभव हुआ।
 He went crazy.	Er wurde verrückt.	उसे पागलपन आया।
 He won't know.	Er wird nicht wissen.	उसे पता नहीं चलेगा।
+He's Austrian.	Er ist Österreicher.	वह ऑस्ट्रियन है।
+He's a grouch.	Er ist ein Nörgler.	वह एक बदमिजाज है।
+He's a jesuit.	Er ist ein Jesuit.	वह एक जेसुइट है।
+He's a lawyer.	Er ist Anwalt.	वह एक वकील है।
+He's addicted.	Er ist süchtig.	वह लत लगे हैं।
+He's after me.	Er ist hinter mir her.	वह मेरे पीछे है।
+He's annoying.	Er ist ärgerlich.	वह चिढ़ानेवाला है।
+He's autistic.	Er ist autistisch.	उसमें स्वाभाविकता है।
