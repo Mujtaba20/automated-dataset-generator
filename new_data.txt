@@ -11494,3 +11494,9 @@ Are we in danger?	Sind wir in Gefahr?	क्या हम खतरे में
 Are we safe here?	Sind wir hier sicher?	क्या हम यहाँ सुरक्षित हैं?
 Are you Canadian?	Bist du Kanadier?	क्या आप कनाडियन हैं?
 Are you Catholic?	Bist du katholisch?	क्या आप कैथोलिक हैं?
+Are you Japanese?	Bist du aus Japan?	क्या आप जापानी हैं?
+Are you a doctor?	Bist du Arzt?	क्या आप डॉक्टर हैं?
+Are you a lawyer?	Bist du Anwalt?	क्या आप वकील हैं?
+Are you a singer?	Bist du Sänger?	क्या आप गायक हैं?
+Are you a smoker?	Rauchst du?	क्या आप सिगरेट पीते हैं?
+Are you a wizard?	Bist du ein Zauberer?	क्या आप एक जादूगर हैं?
