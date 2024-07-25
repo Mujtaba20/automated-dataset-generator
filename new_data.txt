@@ -15723,3 +15723,7 @@ Do you have a car?	Hast du ein Auto?	क्या आपके पास एक 
 Do you have a dog?	Hast du einen Hund?	क्या आपके पास एक कुत्ता है?
 Do you have a map?	Hast du eine Karte?	क्या आपके पास नक्शा है?
 Do you have a dog? 1	Hast du einen Hund?	क्या आपके पास एक कुत्ता है?
+Do you have a pen?	Habt ihr einen Stift?	क्या आपके पास एक पेन है?
+Do you have a pet?	Habt ihr ein Haustier?	क्या आपके पास कोई पालतू जानवर है?
+Do you have a son?	Hast du einen Sohn?	क्या आपके पास एक बेटा है?
+Do you have money?	Habt ihr Geld?	क्या आपके पास कुछ पैसे हैं?
