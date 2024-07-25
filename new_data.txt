@@ -12564,3 +12564,13 @@ I made her angry.	Ich habe sie wütend gemacht.	मैंने उसे गु
 I made him do so.	Ich habe ihn das tun lassen.	मैंने उसे यह करने दिया।
 I made it myself.	Ich habe es selbst geschaffen.	मैंने खुद किया।
 I made spaghetti.	Ich habe Spaghetti gemacht.	मैंने स्पैगेटी बनाई।
+I make the rules.	Ich mache die Regeln.	मैं नियम बनाता हूँ।
+I make you smile.	Ich bringe dich zum Lächeln.	मैं तुम्हें हँसाता हूँ।
+I may be too old.	Ich bin vielleicht zu alt.	मैं शायद बहुत ज्यादा पुराना हो सकता हूँ।
+I might be wrong.	Ich könnte falsch liegen.	मैं गलत हो सकता हूँ।
+I could be mistaken.	Ich könnte mich irren.	मैं गलती कर सकता हूँ।
+I miss her a lot.	Ich vermisse sie sehr.	मुझे उसकी बहुत याद आती है।
+I long for her deeply.	Ich sehne mich stark nach ihr.	मैं उसकी बहुत अधिक याद करता हूँ।
+I miss my family.	Ich vermisse meine Familie.	मुझे मेरे परिवार की याद आती है।
+I miss you a lot.	Ich vermisse dich sehr.	मुझे तुम्हारी बहुत याद आती है।
+I miss you badly.	Ich vermisse dich furchtbar.	मुझे तुम्हारी बुरी तरह से याद आती है।
