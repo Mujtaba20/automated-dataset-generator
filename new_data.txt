@@ -11848,3 +11848,11 @@ For what purpose?	Zu welchem Zweck?	किस उद्देश्य से?
 Forget about Tom.	Vergiss Tom.	टॉम की यादें मिटा दो।
 Forget about her.	Vergiss sie.	उसके बारे में भूल जाओ।
 Gas is cheap now.	Benzin ist jetzt billig.	अब गैस सस्ती है।
+Get Tom's advice.	Holen Sie sich Toms Rat.	टॉम की सलाह लो।
+Get away from me.	Geh weg von mir.	मेरे पास से दूर जाओ।
+Get enough sleep.	Genug Schlaf bekommen.	पर्याप्त नींद लेना।
+Get in here, Tom.	Komm herein, Tom.	यहाँ आ जाओ, टॉम।
+Get into the car.	Steig ins Auto ein.	गाड़ी में बैठो।
+Get me some, too.	Hol mir auch etwas.	मुझे भी कुछ ला दो।
+Get off his back.	Hör auf, ihm auf dem Rücken zu liegen.	उसकी पीठ से हट जाओ।
+Get on the horse.	Mach vorwärts.	आगे बढ़ो।
