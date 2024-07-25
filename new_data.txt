@@ -4265,3 +4265,11 @@ I want it now.	Ich möchte es jetzt haben.	मुझे अभी चाहि�
 I want my mom.	Ich will meine Mutter.	मुझे मेरी माँ चाहिए।
 I want to cry.	Ich möchte weinen.	मैं रोना चाहता/ चाहती हूँ।
 I want to die.	Ich möchte sterben.	मैं मरना चाहता/ चाहती हूँ।
+I want to eat.	Ich möchte essen.	मुझे खाना चाहिए।
+I want to run.	Ich möchte laufen.	मुझे दौड़ना है।
+I want to try.	Ich möchte es versuchen.	मैं कोशिश करना चाहता/चाहती हूँ।
+I want to win.	Ich möchte gewinnen.	मैं जीतना चाहता/चाहती हूँ।
+I wanted more.	Ich wollte mehr.	मुझे और चाहिए था।
+I wanted that.	Das wollte ich.	मुझे वह चाहिए था।
+I wanted this.	Ich wollte das.	मुझे यह चाहिए था।
+I was ashamed.	Ich schämte mich.	मैं शर्मिंदा था।
