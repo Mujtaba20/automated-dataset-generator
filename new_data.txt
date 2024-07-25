@@ -3811,3 +3811,11 @@ Do what I say.	Tu, was ich sage.	जो मैं कहता हूँ, वह
 Do you follow?	Folgst du?	क्या आप मेरा मार्ग अनुसरण कर रहे हैं?
 Do it quickly. 2	Mach es flott.	जल्दी करो।
 Do what I say. 2	Tu, was ich verlange.	जो मैं कहता हूँ, उसे पूरा करो।
+Do you get it?	Verstehst du es?	क्या तुम्हें समझ में आया?
+Do you get me?	Verstehst du mich?	क्या तुम मुझे समझते हो?
+Do you see it?	Siehst du es?	क्या तुम इसे देख सकते हो?
+Do you see me?	Siehst du mich?	क्या तुम मुझे देख सकते हो?
+Do you see me? (2)	Erkennst du mich?	क्या तुम मुझे पहचान सकते हो?
+Does Tom sing?	Singt Tom?	क्या टॉम गाता है?
+Does this fit?	Passt das?	क्या यह फिट है?
+Does this fit? (2)	Ist das passend?	क्या यह सही है?
