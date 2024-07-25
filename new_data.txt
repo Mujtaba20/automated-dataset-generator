@@ -9765,3 +9765,9 @@ Please sit here.	Bitte setzen Sie sich hierhin.	कृपया यहाँ ब
 Please speak up.	Bitte sprich lauter.	कृपया जोर से बोलें।
 Please take one.	Bitte nimm eins.	कृपया एक लें।
 Please tell Tom.	Bitte sag es Tom.	कृपया टॉम को बताएं।
+Please, tell me.	Bitte teile mir mit.	कृपया, मुझे बताएं।
+Prices are high.	Preise sind hoch.	कीमतें उच्च हैं।
+Push the button.	Drücken Sie die Taste.	बटन दबाएं।
+Put on your hat.	Setz deinen Hut auf.	अपनी टोपी पहनो।
+Put your hat on.	Zieh deinen Hut an.	अपनी टोपी पहनो।
+Puzzles are fun.	Puzzle macht Spaß.	पहेलियां मजेदार हैं।
