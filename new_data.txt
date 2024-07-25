@@ -16915,3 +16915,13 @@ I was an outsider.	Ich war ein Außenseiter.	मैं एक विदेशी
 I was brainwashed.	Ich wurde manipuliert.	मैंने मस्तिष्क धोखाधड़ी कर ली थी।
 I was deeply hurt.	Ich war tief verletzt.	मैं गहरी चोट खा चुका था।
 I was discouraged.	Ich war entmutigt.	मैंने हार मान ली थी।
+I was embarrassed.	Ich war peinlich berührt.	मुझे शर्मिंदा हो गया था।
+I was enjoying it.	Ich habe es genossen.	मुझे यह पसंद आ रहा था।
+I was enjoying it. (Different meaning)	Ich habe es genossen.	मैं इसमें आनंद ले रहा था।
+I was half asleep.	Ich war halb eingeschlafen.	मैं आधी नींद में था।
+I was half asleep. (Different meaning)	Ich war halb schläfrig.	मैं आधी अनुबंध में था।
+I was helping Tom.	Ich half Tom.	मैं टॉम की मदद कर रहा था।
+I was in the area.	Ich war in der Gegend.	मैं क्षेत्र में था।
+I was just joking.	Ich habe nur gescherzt.	मैं सिर्फ मजाक कर रहा था।
+I was just mugged.	Mir wurde gerade geraubt.	मुझसे अभी हाल ही में लूट हुई थी।
+I was just mugged. (Different meaning)	Ich wurde gerade überfallen.	मैंने अभी हाल ही में बर्बरतापूर्ण हमला सहा था।
