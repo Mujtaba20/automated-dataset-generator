@@ -14336,3 +14336,13 @@ Tom is very good.	Tom ist sehr gut.	टॉम बहुत अच्छा ह�
 Tom is very kind.	Tom ist sehr nett.	टॉम बहुत मेहरबान है।
 Tom is very neat.	Tom ist sehr ordentlich.	टॉम बहुत साफ़ सुथरा हुआ है।
 Tom is very open.	Tom ist sehr offen.	टॉम बहुत खुला है।
+Tom is very pale.	Tom ist sehr blass.	टॉम बहुत पीला है।
+Tom is very poor.	Tom ist sehr arm.	टॉम बहुत गरीब है।
+Tom is very rich.	Tom ist sehr reich.	टॉम बहुत धनवान है।
+Tom is very rude.	Tom ist sehr unhöflich.	टॉम बहुत कठोर है।
+Tom is very sick.	Tom ist sehr krank.	टॉम बहुत बीमार है।
+Tom is very slim.	Tom ist sehr schlank.	टॉम बहुत पतला है।
+Tom is very slow.	Tom ist sehr langsam.	टॉम बहुत धीरे है।
+Tom is very tall.	Tom ist sehr groß.	टॉम बहुत लंबा है।
+Tom is very thin.	Tom ist sehr dünn.	टॉम बहुत पतला है।
+Tom is very wise.	Tom ist sehr weise.	टॉम बहुत बुद्धिमान है।
