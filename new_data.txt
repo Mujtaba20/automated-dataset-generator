@@ -16625,3 +16625,13 @@ I like folk songs.	Ich mag Volkslieder.	मुझे लोक गाने प�
 I like grapefruit.	Ich mag Grapefruit.	मुझे ग्रेपफ्रूट पसंद है।
 I like green peas.	Ich mag grüne Erbsen.	मुझे हरी मटर पसंद हैं।
 I like jazz music.	Ich mag Jazz-Musik.	मुझे जाज संगीत पसंद है।
+I like modern art.	Ich mag moderne Kunst.	मुझे आधुनिक कला पसंद है।
+I like my new job.	Ich mag meinen neuen Job.	मुझे मेरा नया काम पसंद है।
+I like rainy days.	Ich mag regnerische Tage.	मुझे बरसात के दिन पसंद हैं।
+I like rainy days. (different meaning)	Mir gefallen verregnete Tage.	मुझे वर्षा भरे दिन पसंद है।
+I like rock music.	Ich mag Rockmusik.	मुझे रॉक संगीत पसंद है।
+I like sandwiches.	Ich mag Sandwiches.	मुझे सैंडविच पसंद हैं।
+I like sauerkraut.	Ich mag Sauerkraut.	मुझे स्वरक्रौट पसंद है।
+I like sauerkraut. (different meaning)	Ich liebe Sauerkraut.	मुझे स्वरक्रौट पसंद है।
+I like short hair.	Ich mag kurze Haare.	मुझे छोटे बाल पसंद हैं।
+I like snow a lot.	Ich mag Schnee sehr gerne.	मुझे बर्फ बहुत पसंद है।
