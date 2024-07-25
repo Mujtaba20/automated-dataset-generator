@@ -13413,3 +13413,10 @@ Nobody taught me.	Niemand hat mich unterrichtet.	किसी ने मुझ�
 Nobody wants Tom.	Niemand will Tom.	किसी को टॉम चाहिए।
 Nobody warned me.	Niemand hat mich gewarnt.	किसी ने मुझे चेतावनी नहीं दी।
 Nobody warned us.	Niemand hat uns gewarnt.	किसी ने हमें चेतावनी नहीं दी।
+Nobody will know.	Niemand wird es wissen.	कोई नहीं जानेगा।
+Nobody's perfect.	Niemand ist makellos.	कोई परिपूर्ण नहीं है।
+Nothing happened.	Nichts ist passiert.	कुछ नहीं होने वाला था।
+Now I understand.	Jetzt verstehe ich.	अब मुझे समझ आ गया है।
+Now it's perfect.	Jetzt ist es perfekt.	अब यह पूर्ण है।
+Now try to sleep.	Versuch jetzt zu schlafen.	अब सोने की कोशिश करो।
+Now you know why.	Jetzt weißt du warum.	अब तुम्हें पता है क्यों।
