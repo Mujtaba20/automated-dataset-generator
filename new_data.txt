@@ -10295,3 +10295,13 @@ Tom has hiccups.	Tom hat Schluckauf.	टॉम को हिचकी आ रह
 Tom has it made.	Tom hat es geschafft.	टॉम ने ये कमी कर दी है।
 Tom has left us.	Tom hat uns verlassen.	टॉम ने हमें छोड़ दिया है।
 Tom has my book.	Tom hat mein Buch.	टॉम के पास मेरी किताब है।
+Tom has no guts.	Tom hat keine Eier.	टॉम के पास साहस नहीं है।
+Tom has nothing.	Tom hat nichts.	टॉम के पास कुछ भी नहीं है।
+Tom has options.	Tom hat Optionen.	टॉम के पास विकल्प हैं।
+Tom has rabbits.	Tom hat Kaninchen.	टॉम के पास खरगोश हैं।
+Tom has retired.	Tom ist in den Ruhestand getreten.	टॉम सेवानिवृत्त हो चुके हैं।
+Tom has secrets.	Tom hat Geheimnisse.	टॉम के पास राज हैं।
+Tom has stamina.	Tom hat Ausdauer.	टॉम में शक्ति है।
+Tom has to come.	Tom muss kommen.	टॉम को आना होगा।
+Tom has to stay.	Tom muss bleiben.	टॉम को रहना होगा।
+Tom hated lying.	Tom hasste es zu lügen.	टॉम को झूठ बोलना नापसंद था।
