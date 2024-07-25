@@ -8388,3 +8388,10 @@ Empty your bags. 	Leer deine Taschen.	अपने बैग खाली की
 Enjoy your food.	Genießen Sie Ihr Essen.	अपने भोजन का आनंद लें।
 Enjoy your food. 	Genieße dein Essen.	अपने भोजन का आनंद लो।
 Enjoy your food.  	Genieß dein Essen.	अपने भोजन का मजा लें।
+Enjoy your trip.	Viel Spaß bei Ihrer Reise.	तुम्हारी यात्रा का आनंद लो।
+Even Tom smiled.	Auch Tom lächelte.	टॉम भी मुस्कुराया।
+Everybody claps.	Jeder klatscht.	सब ताली बजाते हैं।
+Everybody knows.	Jeder weiß.	सबको पता है।
+Everyone agreed.	Alle waren einverstanden.	सभी सहमत थे।
+Everyone dreams.	Jeder träumt davon.	हर कोई सपने देखता है।
+Everyone looked.	Alle schauten.	सभी देख रहे थे।
