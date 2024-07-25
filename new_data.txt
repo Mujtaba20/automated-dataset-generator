@@ -20256,3 +20256,9 @@ Are you about done?	Bist du fertig?	क्या आप बस अभी ही 
 Are you an atheist?	Bist du ein Atheist?	क्या आप एक नास्तिक हैं?
 Are you blaming me?	Beschuldigst du mich?	क्या आप मुझे दोष दे रहे हैं?
 Are you bored here?	Bist du hier gelangweilt?	क्या आप यहाँ उबाऊ हो?
+Are you both crazy?	Seid ihr beide verrückt?	क्या आप दोनों पागल हैं?
+Are you courageous?	Bist du mutig?	क्या तुम बहादुर हो?
+Are you down there?	Bist du dort unten?	क्या तुम वहाँ नीचे हो?
+Are you feeling OK?	Fühlst du dich okay?	क्या तुम ठीक महसूस कर रहे हो?
+Are you going home?	Gehst du nach Hause?	क्या तुम घर जा रहे हो?
+Are you going, too?	Gehst du auch?	क्या तुम भी जा रहे हो?

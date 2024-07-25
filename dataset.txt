@@ -1,17 +1,4 @@
 
-Are you both crazy?	Seid ihr beide verrückt?	क्या तुम दोनों पागल हो?
-Are you both crazy?	Sind Sie beide verrückt?	क्या तुम दोनों पागल हो?
-Are you courageous?	Bist du mutig?	क्या आप बहादूर हो?
-Are you courageous?	Seid ihr mutig?	क्या आप बहादूर हो?
-Are you courageous?	Sind Sie mutig?	क्या आप बहादूर हो?
-Are you down there?	Bist du da unten?	क्या तुम वहाँ नीचे हो
-Are you feeling OK?	Fühlst du dich gut?	क्या आप अच्छा महसूस करते हैं?
-Are you feeling OK?	Geht's dir gut?	आप अच्छी तरह से कर रहे हैं?
-Are you going home?	Gehst du nach Hause?	क्या आप घर जा रहे है?
-Are you going, too?	Gehst du auch?	क्या आप भी जा रहे हैं?
-Are you going, too?	Gehst du auch dorthin?	क्या आप भी वहां जा रहे हैं?
-Are you going, too?	Geht ihr auch dorthin?	क्या आप भी वहां जा रहे हैं?
-Are you going, too?	Gehen Sie auch dorthin?	क्या आप भी वहां जा रहे हैं?
 Are you good at it?	Bist du gut darin?	क्या आप इसमें अच्छे हैं?
 Are you guys armed?	Seid ihr gewaffnet?	क्या आप लहराते हैं?
 Are you guys armed?	Seid ihr bewaffnet?	क्या आप सशस्त्र हैं?
