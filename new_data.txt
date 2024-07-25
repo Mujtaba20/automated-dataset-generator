@@ -6181,3 +6181,13 @@ I must buy one.	Ich muss eins kaufen.	मुझे एक खरीदना च
 I must decline.	Ich muss ablehnen.	मुझे इनकार करना होगा।
 I must find it.	Ich muss es finden.	मुझे इसे ढूंढना होगा।
 I need Tom now.	Ich brauche Tom jetzt.	मुझे अभी तुम्हारी जरुरत है।
+I need a broom.	Ich brauche einen Besen.	मुझे जाड़ू की आवश्यकता है।
+I need a favor.	Ich brauche einen Gefallen.	मुझे एक योग्यता की आवश्यकता है।
+I need a hobby.	Ich brauche ein Hobby.	मुझे एक शौक की आवश्यकता है।
+I need a medic.	Ich brauche einen Mediziner.	मुझे एक चिकित्सक की आवश्यकता है।
+I need a plate.	Ich brauche einen Teller.	मुझे एक प्लेट की आवश्यकता है।
+I need a raise.	Ich brauche eine Gehaltserhöhung.	मुझे एक उच्चतम संविदान चाहिए।
+I need a smoke.	Ich brauche eine Raucherpause.	मुझे धूम्रपान की आवश्यकता है।
+I need a stamp.	Ich brauche eine Briefmarke.	मुझे एक टिकट चाहिए।
+I need a towel.	Ich brauche ein Handtuch.	मुझे एक तौलिया चाहिए।
+I need answers.	Ich benötige Antworten.	मुझे उत्तर चाहिए।
