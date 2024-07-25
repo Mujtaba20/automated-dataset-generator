@@ -19638,3 +19638,13 @@ We're from Boston.	Wir kommen aus Boston.	हम बॉस्टन से ह�
 We're going alone.	Wir gehen alleine.	हम अकेले जा रहे हैं।
 We're going to go.	Wir werden gehen.	हम जाने वाले हैं।
 We're in mourning.	Wir trauern.	हम शोक में हैं।
+We're in the well.	Wir sind im Brunnen.	हम कुंड में हैं।
+We're journalists.	Wir sind Journalisten.	हम पत्रकार हैं।
+We're leaving now.	Wir verlassen jetzt.	हम अब जा रहे हैं।
+We're like family.	Wir sind wie Familie.	हम परिवार जैसे हैं।
+We're married now.	Wir sind jetzt verheiratet.	हम अब शादीशुदा हैं।
+We're new at this.	Wir sind neu darin.	हम इसमें नए हैं।
+We're not arguing.	Wir streiten nicht.	हम झगड़ा नहीं कर रहे हैं।
+We're not enemies.	Wir sind keine Feinde.	हम दुश्मन नहीं हैं।
+We're not killers.	Wir sind keine Mörder.	हम हत्यारे नहीं हैं।
+We're not looking.	Wir schauen nicht.	हम नहीं देख रहे हैं।
