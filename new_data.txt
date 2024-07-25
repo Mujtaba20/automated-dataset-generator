@@ -14754,3 +14754,13 @@ Tom was homesick.	Tom hatte Heimweh.	टॉम अपने घर की या
 Tom was impolite.	Tom war unhöflich.	टॉम अशिष्ट था।
 Tom was in a jam.	Tom steckte in der Klemme.	टॉम मुश्किल में फंसा था।
 Tom was in agony.	Tom litt Qualen.	टॉम कष्ट सह रहा था।
+Tom was insecure.	Tom war unsicher.	टॉम अनिश्चित था।
+Tom was kneeling.	Tom kniete nieder.	टॉम घुटने टेककर बैठा था।
+Tom was laid off.	Tom wurde entlassen.	टॉम को नौकरी से निकाल दिया गया था।
+Tom was laughing.	Tom lachte.	टॉम हँस रहा था।
+Tom was mistaken.	Tom hatte sich geirrt.	टॉम गलती कर गया था।
+Tom was murdered.	Tom wurde ermordet.	टॉम की हत्या हो गई थी।
+Tom was my buddy.	Tom war mein Kumpel.	टॉम मेरा दोस्त था।
+Tom was obedient.	Tom war gehorsam.	टॉम आज्ञाकारी था।
+Tom was offended.	Tom war beleidigt.	टॉम को ठेस पहुंची थी।
+Tom was our hero.	Tom war unser Held.	टॉम हमारा नायक था।
