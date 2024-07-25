@@ -4739,3 +4739,13 @@ Red suits you.	Rot passt zu dir.	लाल तुम्हें अच्छा
 Rest in peace.	Ruhe in Frieden.	शांति से आराम करें।
 Roll the dice.	Würfle.	पासे फेंको।
 Save yourself.	Rette dich selbst.	अपनों को बचाओ।
+engSentence1	Die Schule ist aus.	विद्यालय खत्म हो गया है।
+engSentence2	Bis bald.	फिर मिलेंगे।
+engSentence3	Auf Wiedersehen.	फिर मिलेंगे।
+engSentence4	Bis später.	जल्दी मिलेंगे।
+engSentence5	Bis gleich.	वहाँ मिलेंगे।
+engSentence6	Schicken Sie Tom rüber.	टॉम को भेज दो।
+engSentence7	Schicken Sie es mir.	मुझे इसे भेज दो।
+engSentence8	Schicken Sie es mir.	मुझे इसे भेज दो।
+engSentence9	Sie meidet mich.	वह मुझसे बचती है।
+engSentence10	Sie beugte sich nach unten.	वह नीचे झुकी।
