@@ -7879,3 +7879,10 @@ We're not rich.	Wir sind nicht reich.	हम अमीर नहीं हैं
 We're partners.	Wir sind Partner.	हम साथी हैं।
 We're powerful.	Wir sind stark.	हम शक्तिशाली हैं।
 We're reliable.	Wir sind verlässlich.	हम विश्वसनीय हैं।
+We're safe now.	Wir sind jetzt sicher.	हम अब सुरक्षित हैं।
+We're shooting.	Wir schießen.	हम गोली चला रहे हैं।
+We're standing.	Wir stehen.	हम खड़े हैं।
+We're starving.	Wir verhungern.	हम भूखे हैं।
+We're students.	Wir sind Schüler.	हम छात्र हैं।
+We're the best.	Wir sind die Besten.	हम सबसे बेहतर हैं।
+We're too busy.	Wir sind zu beschäftigt.	हम बहुत व्यस्त हैं।
