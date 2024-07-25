@@ -553,3 +553,10 @@ I met Tom.	Ich traf Tom.	मैंने टॉम को मिलना था
 I met him.	Ich traf ihn.	मैंने उससे मिला।
 I miss it.	Es fehlt mir.	मुझे यह याद आती है।
 I promise.	Ich verspreche.	मैं वादा करता हूँ।
+I relaxed.	Ich habe mich entspannt.	मैं शांत रहा।
+I retired.	Ich bin in den Ruhestand getreten.	मैंने सेवानिवृत्ति की।
+I said no.	Ich sagte nein.	मैंने ना कहा।
+I saw Tom.	Ich sah Tom.	मैंने टॉम को देखा।
+I saw him.	Ich sah ihn.	मैंने उसे देखा।
+I saw one.	Ich sah einen.	मैंने एक देखा।
+I saw you.	Ich habe dich gesehen.	मैंने तुम्हें देखा।
