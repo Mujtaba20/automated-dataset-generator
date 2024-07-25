@@ -10713,3 +10713,12 @@ Tom seemed lost.	Tom schien verloren zu sein.	टॉम खो गया लग 
 Tom seemed nice.	Tom schien nett zu sein.	टॉम अच्छा लग रहा था।
 Tom seemed sick.	Tom schien krank zu sein.	टॉम बीमार लग रहा था।
 Tom seemed wise.	Tom schien weise zu sein.	टॉम बुद्धिमान लग रहा था।
+Tom seems angry.	Tom scheint wütend zu sein.	टॉम क्रोधित लगता है।
+Tom seems bored.	Tom scheint gelangweilt zu sein.	टॉम उबाऊ लग रहा है।
+Tom seems bossy.	Tom scheint herrisch zu sein.	टॉम अभिषेककारी लग रहा है।
+Tom seems dazed.	Tom scheint benommen zu sein.	टॉम अरे हुए लग रहा है।
+Tom seems eager.	Tom scheint begeistert zu sein.	टॉम उत्सुक लग रहा है।
+Tom seems fussy.	Tom scheint pingelig zu sein.	टॉम चिकना लग रहा है।
+Tom seems happy.	Tom scheint glücklich zu sein.	टॉम खुश लग रहा है।
+Tom seems lucky.	Tom scheint glücklich zu sein.	टॉम भाग्यशाली लग रहा है।
+Tom seems moody.	Tom scheint launisch zu sein.	टॉम उदास लग रहा है।
