@@ -4535,3 +4535,13 @@ It won't hurt.	Es wird nicht schaden.	यह कोई नुकसान नह
 It won't work.	Es wird nicht klappen.	यह काम नहीं करेगा।
 It works fine.	Es funktioniert gut.	यह ठीक काम करता है।
 It works well.	Es läuft gut.	यह अच्छे से काम करता है।
+It'll be fine.	Es wird gut sein.	यह अच्छा होगा।
+It'll be good.	Es wird gut sein.	यह अच्छा होगा।
+It's 2:00 p.m.	Es ist 14:00 Uhr.	बारह बजे पूर्वाह्न है।
+It's 8:00 p.m.	Es ist 20:00 Uhr.	आठ बजे रात है।
+It's Saturday.	Es ist Samstag.	यह शनिवार है।
+It's a fungus.	Es ist ein Pilz.	यह एक कवक है।
+It's a relief.	Es ist eine Erleichterung.	यह एक राहत है।
+It's a secret.	Es ist ein Geheimnis.	यह एक रहस्य है।
+It's accurate.	Es ist genau.	यह सटीक है।
+It's all mine.	Es ist alles meins.	यह सब मेरा है।
