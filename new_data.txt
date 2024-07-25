@@ -13520,3 +13520,12 @@ She is easygoing.	Sie ist locker.	वह आसानी से मिलने�
 She is mad at me.	Sie ist sauer auf mich.	वह मुझसे नाराज़ है।
 She is not young.	Sie ist nicht jung.	वह जवान नहीं है।
 She is obstinate.	Sie ist stur.	वह जिद्दी है।
+She is on a diet.	Sie macht eine Diaet.	वह डाइट पर है।
+She is very busy.	Sie ist sehr beschaefigt.	वह बहुत व्यस्त है।
+She is very wise.	Sie ist sehr weise.	वह बहुत बुद्धिमान है।
+She just told me.	Sie hat es mir gerade gesagt.	उसने मुझे अभी अभी बताया।
+She kept working.	Sie arbeitete weiterhin.	वह काम करती रही।
+She likes tigers.	Sie mag Tiger.	उसे बाघ पसंद है।
+She likes to run.	Sie laeuft gerne.	उसे भागना पसंद है।
+She lives nearby.	Sie wohnt in der Naehe.	वह अपने नजदीक रहती है।
+She looked at me.	Sie schaute mich an.	उसने मुझे देखा।
