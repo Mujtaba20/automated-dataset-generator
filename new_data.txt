@@ -11836,3 +11836,9 @@ Explain it to me. 2	Erklären Sie es mir.	मुझे इसका विवर
 Explain it to me. 3	Erklären Sie es mir bitte.	मुझे यह समझा दें। 3
 Explain yourself.	Erklär dich.	खुद को समझाओ।
 Family is family.	Familie ist Familie.	परिवार परिवार होता है।
+Fight like a man!	Kämpfe wie ein Mann!	आदमी की तरह लड़ाई लड़ो!
+Fight like a man.	Kämpfe wie ein Mann.	आदमी की तरह लड़ना।
+Fill up the tank.	Fülle den Tank auf.	टैंक भरें।
+Finish your work.	Beende deine Arbeit.	तुम्हारा काम करो।
+Follow behind me.	Folge mir.	मेरे पीछे आओ।
+Follow my advice.	Folge meinem Rat.	मेरे सुझाव का पालन करें।
