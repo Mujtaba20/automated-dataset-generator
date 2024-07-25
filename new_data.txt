@@ -12113,3 +12113,9 @@ Her hair is long.	Ihr Haar ist lang.	उसके बाल लंबे है�
 Her name is Mary.	Ihr Name ist Mary.	उसका नाम मेरी है।
 Here is the bill.	Hier ist die Rechnung.	यहाँ बिल है।
 Here is your bag.	Hier ist Ihre Tasche.	यह आपका बैग है।
+Here is your dog.	Hier ist dein Hund.	यहाँ तुम्हारा कुत्ता है।
+Here is your key.	Hier ist dein Schlüssel.	यहाँ तुम्हारी कुंजी है।
+Here's my number.	Hier ist meine Nummer.	यहाँ मेरी संख्या है।
+Here's my wallet.	Hier ist mein Geldbeutel.	यहाँ मेरा बटुआ है।
+Here's your beer.	Hier ist dein Bier.	यहाँ तुम्हारा बियर है।
+Here's your desk.	Hier ist dein Schreibtisch.	यहाँ तुम्हारा मेज़ है।
