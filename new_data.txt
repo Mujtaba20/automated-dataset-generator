@@ -7826,3 +7826,9 @@ We study music.	Wir studieren Musik.	हम संगीत पढ़ते ह�
 We surrendered.	Wir haben uns ergeben.	हमने आत्मसमर्पण किया।
 We tricked Tom.	Wir haben Tom reingelegt.	हमने टॉम को धोखा दिया।
 We trusted Tom.	Wir haben Tom vertraut.	हमने टॉम पर भरोसा किया।
+We visited Tom.	Wir haben Tom besucht.	हमने टॉम को देखा।
+We volunteered.	Wir haben uns freiwillig gemeldet.	हमने स्वयं सेवा की।
+We walked here.	Wir sind hier spazieren gegangen.	हम यहाँ चलते थे।
+We went skiing.	Wir sind Ski gefahren.	हम बर्फ पर स्की करने गए।
+We were robbed.	Wir wurden ausgeraubt.	हमले का शिकार हुए।
+We were scared.	Wir hatten Angst.	हम डरे हुए थे।
