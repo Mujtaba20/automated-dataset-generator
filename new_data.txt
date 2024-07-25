@@ -14744,3 +14744,13 @@ Tom was fearless.	Tom war furchtlos.	टॉम निडर था।
 Tom was fighting.	Tom kämpfte.	टॉम लड़ रहा था।
 Tom was competing.	Tom nahm teil.	टॉम प्रतियोगिता में था।
 Tom was finished.	Tom war fertig.	टॉम समाप्त हो गया था।
+Tom was friendly.	Tom war freundlich.	टॉम दयालु था।
+Tom was generous.	Tom war großzügig.	टॉम उदार था।
+Tom was gullible.	Tom war leichtgläubig.	टॉम भोला था।
+Tom was helpless.	Tom war hilflos.	टॉम बेबस था।
+Tom was hesitant.	Tom zögerte.	टॉम संदेह कर रहा था।
+Tom was homeless.	Tom war obdachlos.	टॉम बेघर था।
+Tom was homesick.	Tom hatte Heimweh.	टॉम अपने घर की यादें कर रहा था।
+Tom was impolite.	Tom war unhöflich.	टॉम अशिष्ट था।
+Tom was in a jam.	Tom steckte in der Klemme.	टॉम मुश्किल में फंसा था।
+Tom was in agony.	Tom litt Qualen.	टॉम कष्ट सह रहा था।
