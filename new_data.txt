@@ -12871,3 +12871,10 @@ I'm free tonight.	Ich bin heute Abend frei.	मैं आज रात फ्र
 I'm from America.	Ich komme aus Amerika.	मैं अमेरिका से हूँ।
 I'm from the FBI.	Ich bin vom FBI.	मैं एफ़बीआई से हूँ।
 I'm full of hope.	Ich bin voller Zuversicht.	मैं पूरी उम्मीद से भरा हुआ हूँ।
+I'm getting cold.	Mir wird kalt.	मुझे ठंडी हो रही है।
+I'm getting high.	Ich werde high.	मैं उच्च पा रहा हूँ।
+I'm glad of that.	Ich freue mich darüber.	मुझे उसपर गर्व है।
+I'm going inside.	Ich gehe rein.	मैं अंदर जा रहा हूँ।
+I'm going to bed.	Ich gehe schlafen.	मैं सोने जा रहा हूँ।
+I'm going to run.	Ich werde laufen.	मैं दौड़ने जा रहा हूँ।
+I'm going to try.	Ich werde es versuchen.	मैं कोशिश करूंगा।
