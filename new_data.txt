@@ -17362,3 +17362,13 @@ It's Tom's office.	Es ist Toms Büro.	यह टॉम का कार्या
 It's a bit greasy.	Es ist ein bisschen fettig.	यह थोड़ा चिकना है।
 It's a bit wobbly.	Es ist ein bisschen wackelig.	यह थोड़ा हिलता है।
 It's a cargo ship.	Es ist ein Frachtschiff.	यह एक भारी जहाज है।
+It's a cloudy day.	Es ist ein bewölkter Tag.	यह एक बादलगर्द दिन है।
+It's a dictionary.	Es ist ein Wörterbuch.	यह एक शब्दकोश है।
+It's a good movie.	Es ist ein guter Film.	यह एक अच्छी फिल्म है।
+It's a good start.	Es ist ein guter Anfang.	यह एक अच्छी शुरुआत है।
+It's a positive development.	Es ist eine positive Entwicklung.	यह एक सकारात्मक विकास है।
+It's a good thing.	Es ist eine gute Sache.	यह एक अच्छी बात है।
+It's a great idea.	Es ist eine großartige Idee.	यह एक शानदार विचार है।
+It's a long story.	Es ist eine lange Geschichte.	यह एक लम्बी कहानी है।
+It's a lovely day.	Es ist ein schöner Tag.	यह एक प्यारा दिन है।
+It's a beautiful day.	Es ist ein schöner Tag.	यह एक सुंदर दिन है।

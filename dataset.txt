@@ -1,15 +1,4 @@
 
-It's a cloudy day.	Es ist ein bewölkter Tag.	यह एक बादल का दिन है।
-It's a dictionary.	Es ist ein Wörterbuch.	यह एक शब्दकोश है।
-It's a good movie.	Das ist ein guter Film.	यह एक अच्छी फिल्म है।
-It's a good start.	Das ist immerhin ein guter Anfang.	आखिरकार, यह एक अच्छी शुरुआत है।
-It's a good start.	Das ist ein guter Anfang.	यह एक अच्छी शुरुआत है।
-It's a good thing.	Das ist eine gute Sache.	यह एक अच्छी बात है।
-It's a great idea.	Das ist eine tolle Idee!	बढ़िया विचार है!
-It's a long story.	Das ist eine lange Geschichte.	यह एक लंबी कहानी है।
-It's a lovely day.	Es ist ein angenehmer Tag.	यह एक सुखद दिन है।
-It's a lovely day.	Heute ist ein schöner Tag.	अाज का दिन सुंदर दिन है।
-It's a lovely day.	Heute ist ein holder Tag.	आज एक धारक दिवस है।
 It's a nice party.	Das ist eine nette Feier.	यह एक अच्छा उत्सव है।
 It's a nice party.	Das ist eine nette Fete.	यह एक अच्छी पार्टी है।
 It's a nice party.	Es ist eine nette Party.	यह एक अच्छी पार्टी है।
