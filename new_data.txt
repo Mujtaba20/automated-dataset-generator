@@ -8765,3 +8765,11 @@ I hate homework.	Ich hasse Hausaufgaben.	मुझे होमवर्क स�
 I hate politics.	Ich hasse Politik.	मुझे राजनीति से नापसंद है।
 I hate raccoons.	Ich hasse Waschbären.	मुझे रैकून से नापसंद है।
 I hate reptiles.	Ich verabscheue Reptilien.	मैं सरीसृप से घृणा करता हूं।
+I hate shopping.	Ich hasse Einkaufen.	मुझे खरीदारी से नफरत है।
+I hate the cold.	Ich hasse die Kälte.	मुझे ठंड से नफरत है।
+I hate this car.	Ich hasse dieses Auto.	मुझे इस कार से नफरत है।
+I hate this job.	Ich hasse diesen Job.	मुझे इस नौकरी से नफरत है।
+I hate this rug.	Ich hasse diesen Teppich.	मुझे इस कालीन से नफरत है।
+I hate weddings.	Ich hasse Hochzeiten.	मुझे शादियों से नफरत है।
+I have a camera.	Ich habe eine Kamera.	मेरे पास एक कैमरा है।
+I have a donkey.	Ich habe einen Esel.	मेरे पास एक गधा है।
