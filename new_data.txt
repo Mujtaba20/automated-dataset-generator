@@ -10340,3 +10340,11 @@ Tom is a rapper.	Tom ist ein Rapper.	टॉम एक रैपर है।
 Tom is a rookie.	Tom ist ein Anfänger.	टॉम एक नौसिखिया है।
 Tom is a sailor.	Tom ist ein Seemann.	टॉम एक महासागरीय है।
 Tom is a senior.	Tom ist ein Senior.	टॉम एक वरिष्ठ है।
+Tom is a singer.	Tom ist ein Sänger.	टॉम एक गायक है।
+Tom is a smoker.	Tom ist ein Raucher.	टॉम एक स्मोकर है।
+Tom is a surfer.	Tom ist ein Wellenreiter.	टॉम एक सर्फर है।
+Tom is a tailor.	Tom ist ein Schneider.	टॉम एक दर्जी है।
+Tom is a weirdo.	Tom ist ein Sonderling.	टॉम एक अजीब आदमी है।
+Tom is a writer.	Tom ist ein Schriftsteller.	टॉम एक लेखक है।
+Tom is adorable.	Tom ist liebenswert.	टॉम प्यारा है।
+Tom is after me.	Tom ist hinter mir her.	टॉम मेरी पीछा कर रहा है।
