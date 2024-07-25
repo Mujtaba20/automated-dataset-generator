@@ -17096,3 +17096,10 @@ I'm happy for Tom.	Ich freue mich für Tom.	मैं टॉम के लिए
 I'm happy for you.	Ich freue mich für dich.	मैं तुम्हारे लिए खुश हूँ।
 I'm happy tonight.	Ich bin heute Abend glücklich.	मैं आज रात खुश हूँ।
 I'm happy with it.	Ich bin damit zufrieden.	मुझे ये पसंद है।
+I'm here with Tom.	Ich bin hier mit Tom.	मैं यहाँ टॉम के साथ हूँ।
+I'm hoping to win.	Ich hoffe zu gewinnen.	मैं जीतने की आशा कर रहा हूँ।
+I'm in Boston now.	Ich bin jetzt in Boston.	मैं अब बॉस्टन में हूँ।
+I'm in a bad mood.	Ich bin schlecht gelaunt.	मेरा मन खराब है।
+I'm in prison now.	Ich bin jetzt im Gefängnis.	मैं अब कैद में हूँ।
+I'm irreplaceable.	Ich bin unersetzlich.	मैं अनुप्लव्य हूँ।
+I'm just a farmer.	Ich bin nur ein Bauer.	मैं सिर्फ एक किसान हूँ।
