@@ -1962,3 +1962,10 @@ OK. I agree. (Different Context)	OK. Ich bin einverstanden.	ठीक है। 
 Oh, come on.	Oh, komm schon.	ओह, चलो यार।
 Pick a card.	Nehmen Sie eine Karte.	एक कार्ड चुनिए।
 Plants grow.	Pflanzen wachsen.	पौधे बढ़ते हैं।
+Please clap.	Bitte klatschen.	कृपया ताली बजाएं।
+Please come.	Bitte kommen.	कृपया आइए।
+Please sing.	Bitte singen.	कृपया गाओ।
+Please stop!	Bitte aufhören!	कृपया रोकें!
+Please wait.	Bitte warten.	कृपया रुकें।
+Put it back.	Leg es zurück.	इसे वापस रखें।
+Put it down.	Leg es hin.	इसे नीचे रखें।
