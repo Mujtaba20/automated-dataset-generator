@@ -2708,3 +2708,12 @@ I like bread.	Ich mag Brot.	मुझे रोटी पसंद है।
 I like candy.	Ich mag Süßigkeiten.	मुझे मिष्टान्न पसंद है।
 I like girls.	Ich mag Mädchen.	मुझे लड़कियां पसंद हैं।
 I like music.	Ich mag Musik.	मुझे संगीत पसंद है।
+I like pizza.	Ich mag Pizza.	मुझे पिज़्ज़ा पसंद है।
+I like sugar.	Ich mag Zucker.	मुझे चीनी पसंद है।
+I like sushi.	Ich mag Sushi.	मुझे सुशी पसंद है।
+I like these.	Ich mag diese.	मुझे ये पसंद है।
+I like women.	Ich mag Frauen.	मुझे महिलाएँ पसंद हैं।
+I live alone.	Ich lebe allein.	मैं अकेला रहता हूँ।
+I lost a bet.	Ich habe eine Wette verloren.	मैंने एक बाजी हार दी।
+I love books.	Ich liebe Bücher.	मुझे किताबें पसंद हैं।
+I love bread.	Ich liebe Brot.	मुझे रोटी पसंद है।
