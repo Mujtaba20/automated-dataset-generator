@@ -17798,3 +17798,12 @@ She's my daughter.	Sie ist meine Tochter.	वह मेरी बेटी ह�
 She's not a child.	Sie ist kein Kind.	वह एक बच्ची नहीं है।
 She's not my type.	Sie entspricht nicht meinem Typ.	वह मेरे प्रकार की नहीं है।
 She's not my type. - Different Meaning	Sie ist nicht mein Typ.	वह मेरा प्रकार नहीं है।
+She's open-minded.	Sie ist aufgeschlossen.	वह खुले दिमाग वाली है।
+She's our teacher.	Sie ist unsere Lehrerin.	वह हमारी शिक्षिका है।
+She's rather good.	Sie ist ziemlich gut.	वह काफी अच्छी है।
+She's still young.	Sie ist immer noch jung.	वह अब भी जवान है।
+She's unconscious.	Sie ist bewusstlos.	वह अचेत है।
+She's unconscious. (Different meaning)	Sie ist unbewusst.	वह अज्ञात है।
+Show me the money.	Zeig mir das Geld.	मुझे पैसे दिखाओ।
+Show me the money. (Different meaning)	Zeig mir das Geld.	मुझे पैसा दिखाओ।
+Show me the photo.	Zeig mir das Foto.	मुझे फोटो दिखाओ।
