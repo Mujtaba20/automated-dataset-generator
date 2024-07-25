@@ -10722,3 +10722,13 @@ Tom seems fussy.	Tom scheint pingelig zu sein.	टॉम चिकना लग 
 Tom seems happy.	Tom scheint glücklich zu sein.	टॉम खुश लग रहा है।
 Tom seems lucky.	Tom scheint glücklich zu sein.	टॉम भाग्यशाली लग रहा है।
 Tom seems moody.	Tom scheint launisch zu sein.	टॉम उदास लग रहा है।
+Tom seems naive.	Tom scheint naiv.	टॉम मसूम लगता है।
+Tom seems quiet.	Tom scheint ruhig.	टॉम शांत लगता है।
+Tom seems ready.	Tom scheint bereit.	टॉम तैयार लगता है।
+Tom seems smart.	Tom scheint klug.	टॉम बुद्धिमान लगता है।
+Tom seems stoic.	Tom scheint stoisch.	टॉम नैरंजन लगता है।
+Tom seems sweet.	Tom scheint süß.	टॉम प्यारा लगता है।
+Tom seems tense.	Tom scheint angespannt.	टॉम तनावग्रस्त लगता है।
+Tom seems tired.	Tom wirkt müde.	टॉम थका हुआ लगता है।
+Tom seems tough.	Tom scheint hart.	टॉम मजबूत लगता है।
+Tom seems upset.	Tom scheint verärgert.	टॉम उदास लगता है।
