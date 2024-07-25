@@ -11423,3 +11423,13 @@ You're not here.	Du bist nicht hier.	तुम यहाँ नहीं हो�
 You're not poor.	Du bist nicht arm.	तुम गरीब नहीं हो।
 You're not rich.	Du bist nicht reich.	तुम धनवान नहीं हो।
 You're pathetic.	Du bist erbärmlich.	तुम विकलांग हो।
+You're prepared.	Du bist vorbereitet.	तुम तैयार हो।
+You're reliable.	Du bist zuverlässig.	तुम भरोसेमंद हो।
+You're safe now.	Du bist jetzt sicher.	तुम अब सुरक्षित हो।
+You're safe now. (2)	Du bist jetzt geschützt.	अब तुम सुरक्षित हो।
+You're safe now. (3)	Sie sind jetzt in Sicherheit.	अब तुम सुरक्षित हो।
+You're so dirty.	Du bist so schmutzig.	तुम इतने गंदे हो।
+You're so right.	Du hast so recht.	तुम बिल्कुल सही हो।
+You're so sweet.	Du bist so süß.	तुम इतने प्यारे हो।
+You're so sweet. (2)	Du bist so lieb.	तुम बहुत प्यारे हो।
+You're so weird.	Du bist so seltsam.	तुम बहुत अजीब हो।
