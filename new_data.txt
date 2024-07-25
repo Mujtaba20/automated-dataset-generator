@@ -19689,3 +19689,12 @@ What a fool I was!	Was für ein Narr ich war!	मैं कितना मू�
 What a fool he is!	Was für ein Narr er ist!	वह कितना मूर्ख है!
 What a great idea!	Was für eine geniale Idee!	कितना बढ़िया विचार है!
 What a lovely day!	Was für ein toller Tag!	कितना सुंदर दिन है!
+What a nice house!	Was für ein schönes Haus!	कितना सुंदर घर है!
+What animal is it?	Welches Tier ist das?	यह कौन सा जानवर है?
+What are they for?	Wofür sind sie?	वे किसके लिए हैं?
+What are we doing?	Was machen wir?	हम क्या कर रहे हैं?
+What are we to do?	Was sollen wir tun?	हमें क्या करना चाहिए?
+What can I do now?	Was kann ich jetzt tun?	मैं अब क्या कर सकता हूँ?
+What can't you do?	Was kannst du nicht tun?	तुम क्या नहीं कर सकते?
+What did Tom find?	Was hat Tom gefunden?	टॉम ने क्या खोजा?
+What did Tom have?	Was hatte Tom?	टॉम के पास क्या था?
