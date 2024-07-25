@@ -12932,3 +12932,9 @@ I'm not stopping.	Ich halte nicht an.	मैं रुकने वाला न
 I'm not suicidal.	Ich bin nicht selbstmordgefährdet.	मैं आत्महत्या के इरादे से नहीं हूँ।
 I'm not sure why.	Ich bin mir nicht sicher, warum.	मुझे नहीं पता क्यों।
 I'm not sure yet.	Ich bin mir noch nicht sicher.	मैं अब तक सुनिश्चित नहीं हूँ।
+I'm not that old.	Ich bin nicht so alt.	मैं उतना बड़ा नहीं हूँ।
+I'm not to blame.	Ich bin nicht schuld.	मैं जिम्मेदार नहीं हूँ।
+I'm not very old.	Ich bin nicht sehr alt.	मैं बहुत बुढ़ा नहीं हूँ।
+I'm not watching.	Ich schaue nicht zu.	मैं नहीं देख रहा हूँ।
+I'm not your son.	Ich bin nicht dein Sohn.	मैं तुम्हारा बेटा नहीं हूँ।
+I'm off tomorrow.	Ich habe morgen frei.	मैं कल छुट्टी पर हूँ।
