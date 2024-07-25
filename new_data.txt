@@ -6472,3 +6472,10 @@ I'm still busy. (2)	Ich habe weiterhin viel zu tun.	मैं अभी तक �
 I'm still busy. (3)	Ich bin nach wie vor beschäftigt.	मैं अभी भी काम में हूँ।
 I'm successful.	Ich bin erfolgreich.	मैं सफल हूँ।
 I'm taking off.	Ich hebe ab.	मैं उड़ान भरने जा रहा हूँ।
+I'm the expert.	Ich bin der Experte.	मैं विशेषज्ञ हूं।
+I'm the expert. [Different Meaning]	Ich bin die Expertin.	मैं विशेषज्ञिका हूं।
+I'm the oldest.	Ich bin der Älteste.	मैं सबसे बड़ा हूँ।
+I'm thirty now.	Ich bin jetzt dreißig.	मैं अब तीस का हूं।
+I'm undressing.	Ich ziehe mich aus.	मैं कपड़े उतार रहा हूं।
+I'm unemployed.	Ich bin arbeitslos.	मैं बेरोजगार हूं।
+I'm untalented.	Ich bin untalentiert.	मेरी कोई क्षमता नहीं है।
