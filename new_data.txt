@@ -9351,3 +9351,13 @@ I'm very afraid.	Ich habe sehr Angst.	मुझे बहुत डर लग �
 I'm very choosy.	Ich bin sehr wählerisch.	मैं बहुत चुनौतीपूर्ण हूं।
 I'm very clever.	Ich bin sehr schlau.	मैं बहुत होशियार हूं।
 I'm very hungry.	Ich bin sehr hungrig.	मुझे बहुत भूख लगी है।
+I'm very lonely.	Ich bin sehr einsam.	मैं बहुत अकेला हूँ।
+I'm very modest.	Ich bin sehr bescheiden.	मैं बहुत विनम्र हूँ।
+I'm very scared.	Ich habe sehr Angst.	मुझे बहुत डर लग रहा है।
+I'm very strict.	Ich bin sehr streng.	मैं बहुत कड़ी मेहनत करता हूँ।
+I'm very strong.	Ich bin sehr stark.	मैं बहुत मजबूत हूँ।
+I'm watching TV.	Ich sehe fern.	मैं टीवी देख रहा हूँ।
+I'm your father.	Ich bin dein Vater.	मैं तुम्हारा पिता हूँ।
+I'm your waiter.	Ich bin ihr Kellner.	मैं आपका वेटर हूँ।
+I've been fired.	Ich wurde gefeuert.	मुझे नौकरी से निकाल दिया गया है।
+I've been wrong.	Ich habe Unrecht gehabt.	मैं गलत था।
