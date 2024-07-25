@@ -14734,3 +14734,13 @@ Tom was detained.	Tom wurde festgehalten.	टॉम को रोक लिय�
 Tom was discreet.	Tom war diskret.	टॉम गुप्त था।
 Tom was disloyal.	Tom war illoyal.	टॉम अविश्वासी था।
 Tom was divorced.	Tom wurde geschieden.	टॉम का तलाक हो गया था।
+Tom was dreaming.	Tom träumte.	टॉम सपने देख रहा था।
+Tom was drinking.	Tom trank.	टॉम पी रहा था।
+Tom was drowning.	Tom ertrank.	टॉम डूब रहा था।
+Tom was ecstatic.	Tom war ekstatisch.	टॉम अत्यधिक खुश था।
+Tom was thrilled.	Tom war begeistert.	टॉम उत्साहित था।
+Tom was executed.	Tom wurde hingerichtet.	टॉम को सजा दी गई थी।
+Tom was fearless.	Tom war furchtlos.	टॉम निडर था।
+Tom was fighting.	Tom kämpfte.	टॉम लड़ रहा था।
+Tom was competing.	Tom nahm teil.	टॉम प्रतियोगिता में था।
+Tom was finished.	Tom war fertig.	टॉम समाप्त हो गया था।
