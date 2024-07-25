@@ -9074,3 +9074,12 @@ I want the same.	Ich will dasselbe.	मुझे वही चाहिए।
 I want them all.	Ich möchte sie alle.	मुझे सभी चाहिए।
 I want this bag.	Ich will diese Tasche.	मुझे यह बैग चाहिए।
 I want this one.	Ich will dieses hier.	मुझे यह एक चाहिए।
+I want to dance.	Ich möchte tanzen.	मैं नृत्य करना चाहता हूँ।
+I want to do it.	Ich möchte es tun.	मैं यह करना चाहता हूँ।
+I want to dream.	Ich möchte träumen.	मैं सपना देखना चाहता हूँ।
+I want to drive.	Ich möchte fahren.	मैं ड्राइव करना चाहता हूँ।
+I want to learn.	Ich möchte lernen.	मैं सीखना चाहता हूँ।
+I want to leave.	Ich möchte gehen.	मैं चला जाना चाहता हूँ।
+I want to sleep.	Ich möchte schlafen.	मैं सोना चाहता हूँ।
+I want to watch.	Ich möchte zuschauen.	मैं देखना चाहता हूँ।
+I want you here.	Ich möchte dich hier haben.	मैं चाहता हूँ कि तुम यहाँ हो।
