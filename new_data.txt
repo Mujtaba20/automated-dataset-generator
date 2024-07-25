@@ -10566,3 +10566,12 @@ Tom just called.	Tom hat gerade angerufen.	टॉम ने बस फोन क
 Tom just glared.	Tom starrte einfach.	टॉम ने बस तेज नजरें डाली।
 Tom just smiled.	Tom hat gerade gelächelt.	टॉम ने बस मुस्कान की।
 Tom just stared.	Tom starrte nur.	टॉम ने बस टकटकी।
+Tom just waited.	Tom hat gerade gewartet.	टॉम बस इंतजार कर रहा था।
+Tom kept crying.	Tom weinte weiter.	टॉम रोना जारी रखता था।
+Tom kept eating.	Tom hat weitergegessen.	टॉम खाता रहा।
+Tom kept moving.	Tom bewegte sich weiter.	टॉम आगे बढ़ता रहता था।
+Tom kept pacing.	Tom lief weiter im Raum auf und ab.	टॉम आगे पीछे चलता रहता था।
+Tom kept silent.	Tom schwieg weiterhin.	टॉम खामोश रहता था।
+Tom kept trying.	Tom versuchte weiterhin.	टॉम कोशिश करता रहा।
+Tom kicked Mary.	Tom trat Mary.	टॉम ने मेरी को लात मारी।
+Tom killed Mary.	Tom hat Maria getötet.	टॉम ने मेरी को मार डाला।
