@@ -4628,3 +4628,10 @@ Keep paddling.	Fortfahren zu paddeln.	पैडलिंग करते रह�
 Let Tom do it.	Lass Tom es ausführen.	उसको टॉम करने दो।
 Let Tom drive.	Lass Tom fahren.	टॉम को चलाने दो।
 Let Tom sleep.	Lass Tom ruhen.	टॉम की नींद काटने दो।
+Let Tom speak.	Lass Tom sprechen.	टॉम को बोलने दो।
+Let go of Tom.	Lass Tom los.	टॉम को छोड़ दो।
+Let him do it.	Lass ihn es tun.	उसे यह करने दो।
+Let him enter.	Lass ihn eintreten.	उसे दाखिल होने दो।
+Let me try it.	Lass mich es versuchen.	मुझे यह करने दो।
+Let them talk.	Lass sie sprechen.	उन्हें बात करने दो।
+Let's ask him.	Fragen wir ihn.	उससे पूछताछ करें।
