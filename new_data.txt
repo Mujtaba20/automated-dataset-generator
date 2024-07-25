@@ -2587,3 +2587,13 @@ He was naive.	Er war naiv.	वह भोला था।
 He was naive. (different meaning)	Er war einfältig.	उसकी कोई अपार्टमेंट नहीं थी।
 He was wrong.	Er lag falsch.	वह गलत था।
 He was wrong. (different meaning)	Er war schlecht.	उसका पक्ष था।
+He was young.	Er war jung.	वह युवा था।
+He went away.	Er ging weg.	वह चला गया।
+He will come.	Er wird kommen.	वह आएगा।
+He will wait.	Er wird warten.	वह प्रतीक्षा करेगा।
+He will walk.	Er wird gehen.	वह चलेगा।
+He's a bigot.	Er ist ein Fanatiker.	वह एक बड़बड़ाहट है।
+He's a ninja.	Er ist ein Ninja.	वह एक निंजा है।
+He's dieting.	Er macht eine Diät.	वह डाइट पर है।
+He's in pain.	Er hat Schmerzen.	वह दर्द में है।
+He's my hero.	Er ist mein Held.	वह मेरा नायक है।
