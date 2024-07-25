@@ -11221,3 +11221,12 @@ What's so funny?	Was ist so lustig?	ये क्या मजाक है?
 What's that for?	Wofür ist das?	वह किसलिए है?
 What's the time?	Wie spät ist es?	समय क्या है?
 What's this for?	Wofür ist das?	यह किसके लिए है?
+What's up there?	Was ist da oben?	वहाँ क्या है?
+What's up, dude?	Was geht ab, Alter?	क्या है, यार?
+What's with Tom?	Was ist mit Tom?	टॉम के साथ क्या है?
+What's with you?	Was ist mit dir?	तुम्हारे साथ क्या है?
+What's your job?	Was ist dein Job?	तुम्हारा काम क्या है?
+What've you got?	Was hast du?	तुम्हारे पास क्या है?
+When can we eat?	Wann können wir essen?	हम कब खा सकते हैं?
+When did you go?	Wann bist du gegangen?	तुम कब गए थे?
+When do you run?	Wann läufst du?	तुम कब दौड़ते हो?
