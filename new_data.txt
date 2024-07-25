@@ -9022,3 +9022,13 @@ I saw that, too.	Das habe ich auch gesehen.	मैंने वह भी दे
 I saw the movie.	Ich habe den Film gesehen.	मैंने फिल्म देखी।
 I saw you there.	Ich habe dich dort gesehen.	मैंने तुम्हें वहाँ देखा।
 I say go for it.	Ich sage, geh dafür.	मैं कहता हूँ, इसके लिए जाओ।
+I scored a goal.	Ich habe ein Tor erzielt.	मैंने गोल किया।
+I see a giraffe.	Ich sehe eine Giraffe.	मैं एक जिराफ देख रहा हूँ।
+I see a pattern.	Ich sehe ein Muster.	मैं एक पैटर्न देख रहा हूँ।
+I see him often.	Ich sehe ihn oft.	मैं उसे अक्सर देखता हूँ।
+I see something.	Ich sehe etwas.	मैं कुछ देख रहा हूँ।
+I shook my head.	Ich schüttelte den Kopf.	मैंने सिर हिलाया।
+I should go now.	Ich sollte jetzt gehen.	मुझे अब जाना चाहिए।
+I slept all day.	Ich habe den ganzen Tag geschlafen.	मैंने पूरे दिन सोता रहा।
+I smelled bacon.	Ich roch Speck.	मैंने बेकन की खुशबू महसूस की।
+I speak English.	Ich spreche Englisch.	मैं अंग्रेजी बोलता हूँ।
