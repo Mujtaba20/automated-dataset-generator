@@ -15455,3 +15455,12 @@ You're too picky.	Du bist zu pingelig.	तुम बहुत छानवीन
 You're too small.	Du bist zu klein.	तुम बहुत छोटे हो।
 You're uninsured.	Du bist unversichert.	तुम योग्य नहीं हो।
 You're very busy.	Du bist sehr beschäftigt.	तुम बहुत काम करते हो।
+You're very cute.	Du bist sehr niedlich.	तुम बहुत प्यारी हो।
+You're very good.	Du bist sehr gut.	आप बहुत अच्छे हैं।
+You're very good. (second meaning)	Du bist sehr nett.	तुम बहुत अच्छे हो।
+You're very kind.	Du bist sehr freundlich.	तुम बहुत दयालु हैं।
+You're very nice.	Du bist sehr nett.	तुम बहुत खुबसूरत हैं।
+You're very open.	Du bist sehr offen.	तुम बहुत खुले विचार वाले हैं।
+You're very rude.	Du bist sehr unhöflich.	तुम बहुत अकड़ हो।
+You're very ugly.	Du bist sehr hässlich.	तुम बहुत बुरे दिखते हैं।
+You're very wise.	Du bist sehr weise.	तुम बहुत समझदार हैं।
