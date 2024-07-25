@@ -4310,3 +4310,11 @@ I work nights.	Ich arbeite nachts.	मैं रातों में काम
 I write poems.	Ich schreibe Gedichte.	मैं कविताएँ लिखता हूँ।
 I write songs.	Ich schreibe Lieder.	मैं गाने लिखता हूं।
 I'd like that.	Das würde mir gefallen.	मुझे यह अच्छा लगेगा।
+I'll allow it.	Ich werde es zulassen.	मुझे इसे अनुमति देनी चाहिए।
+I'll be alone.	Ich werde alleine sein.	मैं अकेला होऊँगा।
+I'll be brief.	Ich werde mich kurz fassen.	मैं संक्षेप में रहूँगा।
+I'll be going.	Ich werde gehen.	मैं जा रहा हूँ।
+I'll be there.	Ich werde da sein.	मैं वहाँ होऊँगा।
+I'll buy that.	Ich werde das kaufen.	मैं वह खरीदूँगा।
+I'll buy this.	Ich werde das kaufen.	मैं यह खरीद लूँगा।
+I'll call Tom.	Ich werde Tom anrufen.	मैं टॉम को कॉल करूँगा।
