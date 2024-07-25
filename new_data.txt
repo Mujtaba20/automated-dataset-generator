@@ -14966,3 +14966,12 @@ We have a theory.	Wir haben eine Theorie.	हमारे पास एक स�
 We have no money.	Wir haben kein Geld.	हमारे पास पैसे नहीं हैं।
 We have no proof.	Wir haben keinen Nachweis.	हमारे पास कोई सबूत नहीं है।
 We have no sugar.	Wir haben keinen Zucker.	हमारे पास चीनी नहीं है।
+We have no water.	Wir haben kein Wasser.	हमारे पास पानी नहीं है।
+We have to do it.	Wir müssen es tun.	हमें इसे करना है।
+We have to focus.	Wir müssen uns konzentrieren.	हमें ध्यान देना है।
+We have to go on.	Wir müssen weiter machen.	हमें आगे बढ़ना है।
+We have to hurry.	Wir müssen uns beeilen.	हमें जल्दी करना है।
+We have to start.	Wir müssen anfangen.	हमें शुरू करना है।
+We have to study.	Wir müssen studieren.	हमें पढ़ाई करनी है।
+We have two ears.	Wir haben zwei Ohren.	हमारे पास दो कान हैं।
+We have two kids.	Wir haben zwei Kinder.	हमारे पास दो बच्चे हैं।
