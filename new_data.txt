@@ -8724,3 +8724,8 @@ I don't like it.	Ich mag es nicht.	मुझे यह पसंद नहीं
 I don't need it.	Ich brauche es nicht.	मुझे इसकी आवश्यकता नहीं है।
 I don't see Tom.	Ich sehe Tom nicht.	मैं टॉम को नहीं देखता।
 I don't see him.	Ich sehe ihn nicht.	मैं उसे नहीं देखता।
+I don't see how.	Ich verstehe nicht wie.	मैं नहीं समझता कैसे।
+I don't see why.	Ich verstehe nicht warum.	मैं नहीं समझता क्यों।
+I don't see you.	Ich sehe dich nicht.	मैं तुम्हें नहीं देखता।
+I don't want it.	Ich will es nicht.	मुझे यह नहीं चाहिए।
+I downloaded it.	Ich habe es heruntergeladen.	मैंने इसे डाउनलोड किया।
