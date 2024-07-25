@@ -2379,3 +2379,11 @@ You're tidy.	Ihr seid ordentlich.	तुम्हारे पास ख़ा�
 You're ugly.	Du bist hässlich.	तुम बुरे दिखते हो।
 You're vain.	Ihr seid eitel.	तुम रूको।
 You're weak.	Ihr seid schwach.	तुम कमजोर हो।
+You're wise.	Sie sind klug.	आप बुद्धिमान हैं।
+Abandon ship!	Schiff verlassen!	जहाज छोड़ो!
+Abandon ship.	Das Schiff verlassen.	जहाज छोड़ो।
+All is quiet.	Alles ist ruhig.	सब शांत है।
+All was calm.	Alles war ruhig.	सब शांत था।
+Am I correct?	Bin ich richtig?	क्या मैं सही हूं?
+Am I in love?	Bin ich verliebt?	क्या मैं प्यार में हूं?
+Am I invited?	Bin ich eingeladen?	क्या मुझे आमंत्रित किया गया है?
