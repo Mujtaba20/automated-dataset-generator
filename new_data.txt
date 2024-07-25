@@ -16549,3 +16549,11 @@ I have to eat now.	Ich muss jetzt essen.	मुझे अब खाना है
 I have to find it.	Ich muss es finden.	मुझे इसे ढूंढना है।
 I have to get Tom.	Ich muss Tom holen.	मुझे टॉम को पाना है।
 I have to go back.	Ich muss zurückgehen.	मुझे वापस जाना है।
+I have to go home.	Ich muss nach Hause gehen.	मुझे घर जाना है।
+I have to have it.	Ich muss es haben.	मुझे इसे रखना है।
+I have to respond.	Ich muss reagieren.	मुझे प्रतिक्रिया करनी है।
+I have to see you.	Ich muss dich sehen.	मुझे तुम्हें देखना है।
+I have to take it.	Ich muss es mitnehmen.	मुझे इसे लेना है।
+I have two nieces.	Ich habe zwei Nichten.	मेरे पास दो भांजियां हैं।
+I have work to do.	Ich habe Arbeit zu erledigen.	मुझे काम करना है।
+I have your diary.	Ich habe dein Tagebuch.	मेरे पास तुम्हारी डायरी है।
