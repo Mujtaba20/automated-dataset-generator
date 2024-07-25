@@ -9761,3 +9761,7 @@ Please help Tom.	Bitte hilf Tom.	कृपया टॉम की मदद क�
 Please hurry up!	Bitte beeil dich!	कृपया जल्दी करें!
 Please sit down!	Bitte setzen Sie sich!	कृपया बैठिए!
 Please sit down.	Bitte setzen Sie sich.	कृपया बैठें।
+Please sit here.	Bitte setzen Sie sich hierhin.	कृपया यहाँ बैठें।
+Please speak up.	Bitte sprich lauter.	कृपया जोर से बोलें।
+Please take one.	Bitte nimm eins.	कृपया एक लें।
+Please tell Tom.	Bitte sag es Tom.	कृपया टॉम को बताएं।
