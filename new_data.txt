@@ -2450,3 +2450,10 @@ Come back in.	Komm zurück rein.	अंदर वापस आओ।
 Come forward.	Komm nach vorne.	आगे आओ।
 Come help me.	Komm mir helfen.	मेरी मदद करो।
 Come in, Tom.	Komm herein, Tom.	अंदर आओ, टॉम।
+Come on down.	Komm runter.	नीचे आओ।
+Come on home.	Komm nach Hause.	घर आओ।
+Come on, Tom.	Komm schon, Tom.	चलो, टॉम।
+Come outside.	Komm nach draußen.	बाहर आओ।
+Come quickly!	Komm schnell!	जल्दी आओ!
+Come quickly.	Komm schnell.	तुरंत आओ।
+Come up here.	Komm hierher.	यहाँ आओ।
