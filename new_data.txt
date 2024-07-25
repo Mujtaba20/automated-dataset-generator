@@ -13825,3 +13825,11 @@ They'll find you.	Sie werden dich finden.	वे तुम्हें ढूं
 They'll remember.	Sie werden sich erinnern.	वे याद रखेंगे।
 They'll want Tom.	Sie werden Tom wollen.	वे टॉम को चाहेंगे।
 They'd like that. (different meaning)	Das würden sie gerne machen.	उसे पसंद होगा।
+They're a couple.	Sie sind ein Paar.	वे एक जोड़ी हैं।
+They're adorable.	Sie sind bezaubernd.	वे बहुत प्यारे हैं।
+They're after me.	Sie sind hinter mir her.	वे मेरे पीछे हैं।
+They're after us.	Sie sind hinter uns her.	वे हमारे पीछे हैं।
+They're all dead.	Sie sind alle tot.	वे सभी मरे हुए हैं।
+They're all good.	Sie sind alle gut.	वे सभी अच्छे हैं।
+They're brothers.	Sie sind Brüder.	वे भाइयों हैं।
+They're children.	Sie sind Kinder.	वे बच्चे हैं।
