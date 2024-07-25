@@ -20545,3 +20545,9 @@ Don't smoke in bed.	Rauche nicht im Bett.	बिस्तर में धूम
 Don't stop playing.	Hör nicht auf zu spielen.	खेलना मत रोको।
 Don't talk rubbish.	Rede keinen Unsinn.	बकवास मत करो।
 Don't talk rubbish. (Different meaning)	Sprich keinen Müll.	बकवास मत बोलो।
+Don't talk so loud.	Sprich nicht so laut.	इतनी शोर मत करो।
+Don't tell anybody.	Sag es niemandem.	किसी को मत बताओ।
+Don't tell me that.	Sag mir das nicht.	मुझे यह मत बताओ।
+Don't tell my wife.	Erzähle es nicht meiner Frau.	मेरी पत्नी को मत बताओ।
+Don't thank me now.	Bedanke dich jetzt nicht bei mir.	अब मुझे धन्यवाद मत बोलो।
+Don't throw stones.	Wirf keine Steine.	पत्थर फेंकना मना है।
