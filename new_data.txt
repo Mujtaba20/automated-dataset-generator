@@ -4512,3 +4512,11 @@ It is no joke.	Es ist kein Witz.	यह मजाक नहीं है।
 It is raining.	Es regnet.	बारिश हो रही है।
 It is too hot.	Es ist zu heiß.	यह बहुत गरम है।
 It isn't easy.	Es ist nicht einfach.	यह आसान नहीं है।
+It isn't good.	Es ist nicht gut.	यह अच्छा नहीं है।
+It isn't mine.	Es gehört mir nicht.	यह मेरा नहीं है।
+It isn't true.	Es ist nicht wahr.	यह सच नहीं है।
+It looks fine.	Es sieht gut aus.	यह ठीक लग रहा है।
+It looks good.	Es sieht gut aus.	यह अच्छा दिखता है।
+It might rain.	Es könnte regnen.	शायद बारिश हो सकती है।
+It seems easy.	Es scheint einfach zu sein.	यह आसान लगता है।
+It sickens me.	Es macht mich krank.	मुझे यह घृणा आती है।
