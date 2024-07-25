@@ -243,3 +243,6 @@ See you!	Bis bald!	फिर मिलेंगे!
 engSentence	{'See you.': 'Bis später.', 'Show me.': 'Zeig mir.', 'Shut up!': 'Halt den Mund!', 'So long.': 'Bis bald.', 'Stop it.': 'Hör auf.'}	{'See you.': 'फिर मिलेंगे।', 'Show me.': 'मुझे दिखाओ।', 'Shut up!': 'चुप!', 'So long.': 'इतना ही।', 'Stop it.': 'बंद करो।'}
 Take it.	Holen Sie es.	यह लेलो।
 Tell me.	Erzähl mir.	मुझे बताओ।
+Tom ate.	Tom aß.	टॉम ने खाया।
+Tom hid.	Tom versteckte sich.	टॉम ने छुपाया।
+Tom ran.	Tom lief.	टॉम दौड़ा।
