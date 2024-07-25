@@ -3743,3 +3743,10 @@ Are you ready?	Bist du bereit?	क्या तुम तैयार हो?
 Are you short?	Bist du klein?	क्या तुम छोटे हो?
 Are you there?	Bist du da?	क्या तुम वहाँ हो?
 Are you tired?	Bist du müde?	क्या तुम थक गए हो?
+Ask Tom again.	Frag Tom noch einmal.	टॉम से फिर से पूछें।
+Ask an expert.	Fragen Sie einen Fachmann.	एक अभिज्ञ से पूछें।
+Baking is fun.	Backen macht Spaß.	बेकिंग मजेदार है।
+Be a good boy.	Sei ein braver Junge.	एक अच्छे लड़के बनो।
+Be reasonable.	Sei vernünftig.	तर्कसंगत रहो।
+Be very quiet.	Sei ganz ruhig.	बहुत शांत रहो।
+Beat it, kids!	Verzieht euch, Kinder!	चले जाओ, बच्चों!
