@@ -2442,3 +2442,8 @@ Can you help?	Kannst du helfen?	क्या आप सहायता दे �
 Can you move?	Kannst du dich bewegen?	क्या आप चल सकते हैं?
 Can you read?	Kannst du lesen?	क्या आप पढ़ने का शौक रखते हैं?
 Can you swim?	Kannst du schwimmen?	क्या आप स्विमिंग कर सकते हैं?
+Can you talk?	Kannst du reden?	क्या आप बात कर सकते हैं?
+Can you walk?	Kannst du gehen?	क्या आप चल सकते हैं?
+Come and see.	Komm und sieh.	आओ और देखो।
+Come at once.	Komm sofort.	तुरंत आओ।
+Come back in.	Komm zurück rein.	अंदर वापस आओ।
