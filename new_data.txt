@@ -16001,3 +16001,12 @@ He hates shopping.	Er hasst Einkaufen.	उसे खरीददारी से
 He helped me move.	Er half mir beim Umzug.	उसने मुझे बदलाव में मदद की।
 He himself did it.	Er selbst hat es gemacht.	उसने खुद किया।
 He is a born poet.	Er ist ein geborener Dichter.	वह जन्मजात कवि है।
+He is a brave man.	Er ist ein mutiger Mann.	वह एक बहादुर आदमी है।
+He is a daredevil.	Er ist ein Draufgänger.	वह एक जोखिम लेने वाला आदमी है।
+He is a detective.	Er ist ein Detektiv.	वह एक जासूस है।
+He is a dramatist.	Er ist ein Dramatiker.	वह एक नाटककार है।
+He is a gentleman.	Er ist ein Herr.	वह एक जेन्टलमैन है।
+He is a physicist.	Er ist ein Physiker.	वह एक भौतिक विज्ञानी है।
+He is a real fool.	Er ist ein echter Narr.	वह एक असली मूर्ख है।
+He is a scientist.	Er ist ein Wissenschaftler.	वह एक वैज्ञानिक है।
+He is about forty.	Er ist ungefähr vierzig.	वह लगभग चालीस है।
