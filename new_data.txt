@@ -4761,3 +4761,13 @@ She helps him.	Sie hilft ihm.	वह उसकी मदद करती है�
 She hired him.	Sie hat ihn eingestellt.	उसने उसे रखा था।
 She is a twin.	Sie ist eine Zwillingsschwester.	वह एक जुड़वां है।
 She is active.	Sie ist aktiv.	वह सक्रिय है।
+She is crying.	Sie weint.	वह रो रही है।
+She is eating.	Sie isst.	वह खा रही है।
+She just left.	Sie ist gerade gegangen.	उसने अभी अभी छोड़ दिया है।
+She led me on.	Sie hat mich geführt.	उसने मुझे अगवा किया।
+She led me on. - Different Meaning	Sie hat mich angelogen.	उसने मुझे गुमराह किया।
+She likes him.	Sie mag ihn.	उसे वह पसंद करती है।
+She likes him. - Different Meaning	Sie liebt ihn.	उसे वह प्यार करती है।
+She looks sad.	Sie sieht traurig aus.	वह उदास लग रही है।
+She loves Tom.	Sie liebt Tom.	वह टॉम से प्यार करती है।
+She loves him.	Sie liebt ihn.	उसे वह प्यार करती है।
