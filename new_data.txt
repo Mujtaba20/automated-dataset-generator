@@ -4083,3 +4083,14 @@ I got nervous.	Ich wurde nervös.	मुझे भय हुआ।
 I got the flu.	Ich hatte die Grippe.	मुझे फ्लू हुआ।
 I had no clue.	Ich hatte keine Ahnung.	मेरे पास कोई सुझाव नहीं था।
 I had to hide.	Ich musste mich verstecken.	मुझे छिपना पड़ा।
+I had to work.	Ich musste arbeiten.	मुझे काम करना पड़ा।
+I hate Boston.	Ich hasse Boston.	मुझे बोस्टन से नफरत है।
+I hate French.	Ich hasse Französisch.	मुझे फ्रेंच से नफरत है।
+I hate the French.	Ich verabscheue die Franzosen.	मैं फ्रेंच लोगों से नफरत करता हूं।
+I hate celery.	Ich hasse Sellerie.	मुझे सेलरी से नफरत है।
+I hate coffee.	Ich hasse Kaffee.	मुझे कॉफ़ी से नफरत है।
+I hate drinking coffee.	Ich mag es nicht, Kaffee zu trinken.	मुझे कॉफ़ी पीने से नफरत है।
+I hate having coffee.	Ich hasse es, Kaffee zu haben.	मुझे कॉफ़ी पीने में नफरत है।
+I hate coffee breaks.	Ich hasse Kaffeepausen.	मुझे कॉफ़ी की छुट्टीयाँ से नफरत हैं।
+I hate losing.	Ich hasse es zu verlieren.	मुझे हार के बारे में नफरत है।
+I hate my job.	Ich hasse meinen Job.	मुझे मेरा काम पसंद नहीं है।
