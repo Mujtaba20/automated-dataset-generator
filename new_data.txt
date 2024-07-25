@@ -18349,3 +18349,13 @@ Tom broke his leg.	Tom hat sich das Bein gebrochen.	टॉमने अपनी
 Tom broke my nose.	Tom hat mir meine Nase gebrochen.	टॉमने मेरी नाक तोड़ दी।
 Tom broke the cup.	Tom hat die Tasse zerbrochen.	टॉमने कप तोड़ दी।
 Tom broke the law.	Tom hat das Gesetz gebrochen.	टॉमने कानून का उल्लंघन किया।
+Tom bugs everyone.	Tom nervt jeden.	टॉम हर किसी को परेशान करता हे।
+Tom burped loudly.	Tom rülpste laut.	टॉम जोर से डकार मारी।
+Tom called me fat.	Tom nannte mich fett.	टॉम ने मुझे मोटा बताया।
+Tom came prepared.	Tom kam vorbereitet.	टॉम तैयारी के साथ आया।
+Tom came to visit.	Tom kam zu Besuch.	टॉम दौरे पर आया।
+Tom came to watch.	Tom kam, um zuzusehen.	टॉम देखने आया था।
+Tom came too late.	Tom kam zu spät.	टॉम बहुत देर से आया।
+Tom came upstairs.	Tom kam die Treppe hinauf.	टॉम ऊपर आया।
+Tom can come, too.	Tom kann auch kommen.	टॉम भी आ सकता है।
+Tom can drive now.	Tom kann jetzt fahren.	टॉम अब गाड़ी चला सकता है।
