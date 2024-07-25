@@ -11827,3 +11827,12 @@ Everyone had fun.	Alle hatten Spaß.	सभी का मज़ा आया।
 Everyone noticed.	Jedem fiel auf.	सब ने देखा।
 Everyone's going.	Alle sind unterwegs.	सभी कहीं जा रहे हैं।
 Everyone's lying.	Alle lügen.	सभी झूठ बोल रहे हैं।
+Everyone's there.	Alle sind da.	सभी वहाँ हैं।
+Everyone's tired.	Alle sind müde.	सभी थक गए हैं।
+Everything is OK.	Alles ist in Ordnung.	सब कुछ ठीक है।
+Everything is OK. 2	Alles ist gut.	सब कुछ ठीक है। 2
+Explain it to me.	Erkläre es mir.	मुझे समझाओ।
+Explain it to me. 2	Erklären Sie es mir.	मुझे इसका विवरण दो। 2
+Explain it to me. 3	Erklären Sie es mir bitte.	मुझे यह समझा दें। 3
+Explain yourself.	Erklär dich.	खुद को समझाओ।
+Family is family.	Familie ist Familie.	परिवार परिवार होता है।
