@@ -3895,3 +3895,12 @@ He can't read.	Er kann nicht lesen.	वह पढ़ नहीं सकता�
 He can't sing.	Er kann nicht singen.	वह गा नहीं सकता।
 He can't swim.	Er kann nicht schwimmen.	वह तैर नहीं सकता।
 He drank beer.	Er trank Bier.	उसने बीयर पी ली।
+He dug a hole.	Er grub ein Loch.	उसने एक खाई खुदाई।
+He eats a lot.	Er isst viel.	वह बहुत खाता है।
+He feels hurt.	Er fühlt sich verletzt.	उसे चोट लगी है।
+He got caught.	Er wurde erwischt.	उसे पकड़ लिया गया।
+He grows rice.	Er baut Reis an.	वह धान उगाता है।
+He has a blog.	Er hat einen Blog.	उसका एक ब्लॉग है।
+He has a cold.	Er hat eine Erkältung.	उसे जुकाम है।
+He has braces.	Er hat Zahnspangen.	उसके पास ब्रेसेस हैं।
+He hugged her.	Er umarmte sie.	उसने उसका गले लगाया।
