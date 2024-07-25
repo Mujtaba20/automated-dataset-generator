@@ -4335,3 +4335,10 @@ I'll kill him.	Ich werde ihn töten.	मैं उसे मार दूँग�
 I'll kill you.	Ich werde dich töten.	मैं तुम्हें मार दूँगा।
 I'll miss Tom.	Ich vermisse Tom.	मैं टॉम की याद मिस करूँगा।
 I'll miss you.	Ich werde dich vermissen.	मैं तुम्हें याद करूँगा।
+I'll page Tom.	Ich werde Tom anrufen.	मैं टॉम को पेज करूंगा।
+I'll prove it.	Ich werde es beweisen.	मैं इसे साबित करूंगा।
+I'll show you.	Ich werde es dir zeigen.	मैं तुम्हें दिखाऊंगा।
+I'll show you. (different meaning)	Ich werde es dir demonstrieren.	मैं आपको दिखाऊंगा।
+I'll stop Tom.	Ich werde Tom stoppen.	मैं टॉम को रोकूंगा।
+I'll stop you.	Ich werde dich stoppen.	मैं तुम्हें रोकूंगा।
+I'll take Tom.	Ich werde Tom mitnehmen.	मैं टॉम को ले जाऊंगा।
