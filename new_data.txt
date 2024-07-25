@@ -9041,3 +9041,8 @@ I surprised Tom.	Ich habe Tom überrascht.	मैंने टॉम को च�
 I take vitamins.	Ich nehme Vitamine.	मैं विटामिन लेता हूं।
 I talked to her.	Ich habe mit ihr gesprochen.	मैंने उससे बात की।
 I teach English.	Ich unterrichte Englisch.	मैं अंग्रेज़ी पढ़ाता हूं।
+I think I agree.	Ich denke, ich stimme zu.	मुझे लगता है मैं सहमत हूं।
+I think it's OK.	Ich denke, es ist in Ordnung.	मुझे लगता है कि यह ठीक है।
+I think so, too.	Ich denke auch so.	मुझे भी यह लगता है।
+I told Tom that.	Ich habe Tom das gesagt.	मैंने टॉम को बताया।
+I took a shower.	Ich habe geduscht.	मैंने नहाया।
