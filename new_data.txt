@@ -14268,3 +14268,11 @@ Tom is observing.	Tom beobachtet.	टॉम ध्यान से देख र
 Tom is obsessive.	Tom ist zwanghaft.	टॉम कार्यशील है।
 Tom is obstinate.	Tom ist stur.	टॉम जिद्दी है।
 Tom is offensive.	Tom ist beleidigend.	टॉम अपमानकारी है।
+Tom is on a diet.	Tom ist auf Diät.	टॉम डाइट पर है।
+Tom is organized.	Tom ist organisiert.	टॉम संगठित है।
+Tom is our guest.	Tom ist unser Gast.	टॉम हमारे मेहमान हैं।
+Tom is our guide.	Tom ist unser Führer.	टॉम हमारा मार्गदर्शक है।
+Tom is out there.	Tom ist draußen.	टॉम वहाँ है।
+Tom is outspoken.	Tom ist offenherzig.	टॉम खुलकर बात करते हैं।
+Tom is overjoyed.	Tom ist überglücklich.	टॉम बहुत खुश हैं।
+Tom is paralyzed.	Tom ist gelähmt.	टॉम लकवा है।
