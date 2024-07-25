@@ -3040,3 +3040,9 @@ Keep looking.	Weiter suchen.	खोजते रहो।
 Keep reading.	Weiter lesen.	पढ़ते रहो।
 Keep running.	Weiter laufen.	दौड़ते रहो।
 Keep singing.	Weiter singen.	गाते रहो।
+Keep talking.	Weiter sprechen.	बात करते रहो।
+Keep walking.	Weiter gehen.	चलते रहो।
+Keep working.	Weiter arbeiten.	काम करते रहो।
+Keep writing.	Weiter schreiben.	लिखते रहो।
+Keep walking. (Different meaning)	Weiter spazieren.	चलते चलते।
+Keep writing. (Different meaning)	Weiter notieren.	लिखते जाओ।
