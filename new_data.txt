@@ -8978,3 +8978,12 @@ I owe Tom money.	Ich schulde Tom Geld.	मेरे पास टॉम के �
 I paid my bills.	Ich habe meine Rechnungen bezahlt.	मैंने अपने बिल भुगतान किया।
 I paid the bill.	Ich habe die Rechnung bezahlt.	मैंने बिल भुगतान किया।
 I play baseball.	Ich spiele Baseball.	मैं बेसबॉल खेलता हूं।
+I play the harp.	Ich spiele die Harfe.	मैं हार्प बजाता हूँ।
+I play the oboe.	Ich spiele das Oboe.	मैं ओबो बजाता हूँ।
+I play with him.	Ich spiele mit ihm.	मैं उसके साथ खेलता हूँ।
+I played guitar.	Ich habe Gitarre gespielt.	मैंने गिटार बजायी।
+I played tennis.	Ich habe Tennis gespielt.	मैंने टेनिस खेला।
+I prefer biking.	Ich ziehe Fahrradfahren vor.	मुझे बाइकिंग पसंद है।
+I prefer coffee.	Ich ziehe Kaffee vor.	मुझे कॉफ़ी पसंद है।
+I protect Tom.	Ich beschütze Tom.	मैं टॉम की रक्षा करता हूँ।
+I put my hat on.	Ich setze meinen Hut auf.	मैंने अपना टोपी पहना लिया।
