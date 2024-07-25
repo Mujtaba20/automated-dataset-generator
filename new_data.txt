@@ -4456,3 +4456,11 @@ I've found it.	Ich habe es gefunden.	मैंने इसे ढूँढ़ �
 I've got kids.	Ich habe Kinder.	मेरे पास बच्चे हैं।
 I've got more.	Ich habe mehr.	मेरे पास अधिक है।
 I've got that.	Ich habe das.	मैंने यह पकड़ लिया।
+I've got time.	Ich habe Zeit.	मेरे पास समय है।
+I've got wine.	Ich habe Wein.	मेरे पास शराब है।
+I've returned.	Ich bin zurückgekehrt.	मैं वापस आ गया हूँ।
+I've seen Tom.	Ich habe Tom gesehen.	मैंने टॉम को देखा है।
+Is Tom around?	Ist Tom hier?	क्या टॉम यहाँ है?
+Is Tom asleep?	Schläft Tom?	क्या टॉम सो रहा है?
+Is Tom coming?	Kommt Tom?	क्या टॉम आ रहा है?
+Is Tom famous?	Ist Tom berühmt?	क्या टॉम मशहूर है?
