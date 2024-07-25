@@ -11454,3 +11454,11 @@ You've improved.	Du hast dich verbessert.	तुमने सुधार कि
 Your bag's open.	Deine Tasche ist offen.	तुम्हारी बैग खुली है।
 Your car's here.	Dein Auto ist hier.	तुम्हारी कार यहाँ है।
 Your dog bit me.	Dein Hund hat mich gebissen.	तुम्हारा कुत्ता मुझे काट लिया।
+Your time is up.	Deine Zeit ist abgelaufen.	तुम्हारा समय समाप्त हो गया है।
+Yours is better.	Deins ist besser.	तुम्हारा बेहतर है।
+5 is less than 8.	5 ist weniger als 8.	5 8 से कम है।
+Look, she said.	Schau, sagte sie.	देखो, उसने कहा।
+A cab is waiting.	Ein Taxi wartet.	एक कैब इंतजार कर रहा है।
+A car drove past.	Ein Auto fuhr vorbei.	एक कार गुजर गई।
+A cop was killed.	Ein Polizist wurde getötet.	एक पुलिसकर्मी को मार दिया गया था।
+A deal is a deal.	Ein Deal ist ein Deal.	एक समझौता एक समझौता है।
