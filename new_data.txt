@@ -9344,3 +9344,10 @@ I'm such a fool.	Ich bin so ein Narr.	मैं इतना मूर्ख ह
 I'm texting Tom.	Ich schreibe Tom eine Nachricht.	मैं टॉम को टेक्स्ट कर रहा हूं।
 I'm the bad one.	Ich bin der Schlechte.	मैं बुरा हूं।
 I'm the copilot.	Ich bin der Copilot.	मैं को-पायलट हूं।
+I'm tied up now.	Ich bin jetzt beschäftigt.	मैं अब बंधा हूं।
+I'm too ashamed.	Ich bin zu sehr beschämt.	मैं बहुत ही शर्मिंदा हूं।
+I'm unimpressed.	Ich bin nicht beeindruckt.	मेरी रूचि नहीं है।
+I'm very afraid.	Ich habe sehr Angst.	मुझे बहुत डर लग रहा है।
+I'm very choosy.	Ich bin sehr wählerisch.	मैं बहुत चुनौतीपूर्ण हूं।
+I'm very clever.	Ich bin sehr schlau.	मैं बहुत होशियार हूं।
+I'm very hungry.	Ich bin sehr hungrig.	मुझे बहुत भूख लगी है।
