@@ -20323,3 +20323,10 @@ Can anyone hear me?	Kann mich jemand hören?	क्या कोई मुझे
 Can anyone help me?	Kann mir jemand helfen?	क्या कोई मुझे मदद कर सकता है?
 Can he do this job?	Kann er diese Arbeit machen?	क्या वह यह काम कर सकता है?
 Can we afford that?	Können wir uns das leisten?	क्या हम उसे खरीद सकते हैं?
+Can we afford this?	Können wir uns das leisten?	क्या हम इसे खरीद सकते हैं?
+Can we do that now?	Können wir das jetzt machen?	क्या हम अब यह कर सकते हैं?
+Can we talk to Tom?	Können wir mit Tom sprechen?	क्या हम टॉम से बात कर सकते हैं?
+Can you come early?	Kannst du früh kommen?	क्या तुम जल्दी आ सकते हो?
+Can you forgive me?	Kannst du mir vergeben?	क्या आप मुझे माफ कर सकते हैं?
+Can you pick it up?	Kannst du es abholen?	क्या आप इसे उठा सकते हैं?
+Can you play chess?	Kannst du Schach spielen?	क्या आप शतरंज खेल सकते हैं?

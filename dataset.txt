@@ -1,14 +1,4 @@
 
-Can we afford this?	Können wir uns das leisten?	क्या हम वह बर्दाश्त कर सकते हैं?
-Can we afford this?	Können wir uns das erlauben?	क्या हम खुद को अनुमति दे सकते हैं?
-Can we do that now?	Können wir das jetzt machen?	क्या अब हम ऐसा कर सकते हैं?
-Can we talk to Tom?	Können wir mit Tom sprechen?	क्या हम टॉम से बात कर सकते हैं?
-Can you come early?	Kannst du früher kommen?	क्या आप पहले आ सकते हैं?
-Can you forgive me?	Kannst du mir verzeihen?	आप मुझे माफ कर सकते हैं?
-Can you forgive me?	Könnt ihr mir verzeihen?	आप मुझे माफ कर सकते हैं?
-Can you forgive me?	Können Sie mir verzeihen?	आप मुझे माफ कर सकते हैं?
-Can you pick it up?	Kannst du es aufheben?	क्या आप इसे उठा सकते हैं?
-Can you play chess?	Kannst du Schach spielen?	क्या आप शतरंजन खेल सकते हैं?
 Can you protect us?	Kannst du uns beschützen?	क्या आप हमारी रक्षा कर सकते हैं?
 Can you protect us?	Könnt ihr uns beschützen?	क्या आप हमारी रक्षा कर सकते हैं?
 Can you protect us?	Können Sie uns beschützen?	क्या आप हमारी रक्षा कर सकते हैं?
