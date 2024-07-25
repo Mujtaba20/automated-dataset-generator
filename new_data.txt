@@ -9243,3 +9243,9 @@ I'm always home.	Ich bin immer zu Hause.	मैं हमेशा घर पर
 I'm always late.	Ich bin immer spät dran.	मैं हमेशा देर से पहुंचता हूँ।
 I'm an Aquarius.	Ich bin ein Wassermann.	मैं एक कुंभ राशि का हूँ।
 I'm an attorney.	Ich bin Anwalt.	मैं वकील हूँ।
+I'm an engineer.	Ich bin ein Ingenieur.	मैं एक इंजीनियर हूँ।
+I'm an optimist.	Ich bin Optimist.	मैं आशावादी हूँ।
+I'm begging you.	Ich bitte dich.	मैं तुमसे प्रार्थना कर रहा हूँ।
+I'm bored stiff.	Ich bin stinksauer.	मैं बोर हूँ।
+I'm broke again.	Ich bin wieder pleite.	मैं फिरसे दरिद्र हो गया हूँ।
+I'm calling Tom.	Ich telefoniere mit Tom.	मैं टॉम को कॉल कर रहा हूँ।
