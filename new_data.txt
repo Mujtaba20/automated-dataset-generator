@@ -16566,3 +16566,10 @@ I hope she's safe.	Ich hoffe, sie ist sicher.	मुझे आशा है क�
 I hope that helps.	Ich hoffe, das hilft.	मुझे आशा है कि यह मदद करेगा।
 I hope they're OK.	Ich hoffe, dass es ihnen gut geht.	मुझे आशा है कि वे ठीक हैं।
 I hope this helps.	Ich hoffe, das hilft.	मुझे आशा है कि यह मदद करेगा।
+I hope this works.	Ich hoffe, dass das funktioniert.	मुझे उम्मीद है कि यह काम करेगा।
+I hope to see you.	Ich hoffe, Sie zu sehen.	मुझे आपसे मिलने की उम्मीद है।
+I interrupted Tom.	Ich unterbrach Tom.	मैंने टॉम को बाधित किया।
+I joined the navy.	Ich trat der Marine bei.	मैंने नौसेना में शामिल हो गया।
+I just can't help.	Ich kann einfach nicht anders.	मैं बस मदद नहीं कर सकता।
+I just can't stop.	Ich kann einfach nicht aufhören.	मैं बस रुक नहीं सकता।
+I just don't care.	Es ist mir einfach egal.	मुझे बस परवाह नहीं है।
