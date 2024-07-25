@@ -14129,3 +14129,12 @@ Tom is a con man.	Tom ist ein Betrüger.	टॉम एक धोखेबाज�
 Tom is a dreamer.	Tom ist ein Träumer.	टॉम एक सपनेवाला है।
 Tom is a drummer.	Tom ist ein Schlagzeuger.	टॉम एक ड्रमर है।
 Tom is a fascist.	Tom ist ein Faschist.	टॉम एक फैशिस्ट है।
+Tom is a glutton.	Tom ist ein Vielfraß.	टॉम भूखा है।
+Tom is a gymnast.	Tom ist ein Turner.	टॉम एक जिमनास्ट है।
+Tom is a liberal.	Tom ist liberal.	टॉम एक उदारवादी है।
+Tom is a lunatic.	Tom ist verrückt.	टॉम एक पागल है।
+Tom is a man now.	Tom ist jetzt ein Mann.	टॉम अब एक मर्द है।
+Tom is a painter.	Tom ist ein Maler.	टॉम एक चित्रकार है।
+Tom is a pianist.	Tom ist ein Pianist.	टॉम एक पियानिस्ट है।
+Tom is a plumber.	Tom ist ein Klempner.	टॉम नलसाज है।
+Tom is a psychic.	Tom ist ein Medium.	टॉम एक मानसिक आध्यात्मिक शक्तिशाली है।
