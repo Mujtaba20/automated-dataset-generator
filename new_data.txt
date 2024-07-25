@@ -610,3 +610,10 @@ I'm obese.	Ich bin fettleibig.	मैं मोटा हूँ।
 I'm picky.	Ich bin wählerisch.	मैं क्षणिक और उत्तेजित हूँ।
 I'm ready!	Ich bin bereit!	मैं तैयार हूँ!
 I'm ready.	Ich bin bereit.	मैं तैयार हूँ।
+I'm right.	Ich habe recht.	मैं सही हूँ।
+I'm sober.	Ich bin nüchtern.	मैं सोबर हूँ।
+I'm sorry.	Es tut mir leid.	मुझे माफ़ कर दो।
+I'm stuck.	Ich stecke fest.	मैं फंसा हूँ।
+I'm tired.	Ich bin müde.	मैं थक गया हूँ।
+I'm tough.	Ich bin zäh.	मैं मजबूत हूँ।
+I'm upset.	Ich bin verärgert.	मुझे उदासी आ रही है।
