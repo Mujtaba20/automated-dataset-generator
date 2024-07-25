@@ -4273,3 +4273,11 @@ I wanted more.	Ich wollte mehr.	मुझे और चाहिए था।
 I wanted that.	Das wollte ich.	मुझे वह चाहिए था।
 I wanted this.	Ich wollte das.	मुझे यह चाहिए था।
 I was ashamed.	Ich schämte mich.	मैं शर्मिंदा था।
+I was at home.	Ich war zu Hause.	मैं घर पर था।
+I was at work.	Ich war bei der Arbeit.	मैं काम पर था।
+I was bullied.	Ich wurde gemobbt.	मुझपे छेड़छाड़ की गई थी।
+I was careful.	Ich war vorsichtig.	मैं सावधान था।
+I was correct.	Ich hatte recht.	मैं सही था।
+I was furious.	Ich war wütend.	मैं गुस्से में था।
+I was invited.	Ich wurde eingeladen.	मुझे आमंत्रित किया गया था।
+I was jealous.	Ich war eifersüchtig.	मैं जलनी थी।
