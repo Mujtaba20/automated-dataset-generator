@@ -8181,3 +8181,11 @@ Behave yourself.	Benehme dich.	अच्छे से व्यवहार क�
 Bite the bullet.	Überwinde deine Ängste.	अपने डर को परास्त करो।
 Black suits you.	Schwarz steht dir.	काला तुम पर अच्छा लगता है।
 Boil some water.	Koche ein bisschen Wasser.	थोड़ा पानी उबालो।
+Boston is great.	Boston ist toll.	बोस्टन भव्य है।
+Boys are stupid.	Jungen sind doof.	लड़के निरर्थक हैं।
+Bring Tom along.	Bring Tom mit.	टॉम को साथ लेकर आओ।
+Bring him to me.	Bring ihn zu mir.	उसे मेरे पास लाओ।
+Bring that here.	Bring das hier.	वह यहाँ लेकर आओ।
+Brush your hair.	Kämm dir die Haare.	अपने बाल साफ करो।
+Call me, please.	Ruf mich an, bitte.	कृपया मुझे कॉल करें।
+Call my husband.	Rufen Sie meinen Mann an.	मेरे पति को कॉल करें।
