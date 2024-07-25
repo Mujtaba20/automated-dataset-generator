@@ -12701,3 +12701,13 @@ I want much more.	Ich möchte viel mehr.	मुझे और भी ज्या
 I want my lawyer.	Ich möchte meinen Anwalt.	मुझे मेरे वकील की जरूरत है।
 I want some cake.	Ich möchte etwas Kuchen.	मुझे कुछ केक चाहिए।
 I want some food.	Ich möchte etwas zu essen.	मुझे कुछ खाने का इच्छुक है।
+I want that book.	Ich möchte dieses Buch.	मुझे वह किताब चाहिए।
+I want the facts.	Ich möchte die Fakten.	मुझे तथ्य चाहिए।
+I want the money.	Ich möchte das Geld.	मुझे पैसे चाहिए।
+I want to change.	Ich möchte mich ändern.	मैं बदलना चाहता हूं।
+I want to eat it.	Ich möchte es essen.	मैं इसे खाना चाहता हूं।
+I want to go out.	Ich möchte rausgehen.	मैं बाहर जाना चाहता हूं।
+I want to resign.	Ich möchte zurücktreten.	मैं इस्तीफा देना चाहता हूं।
+I want to see it.	Ich möchte es sehen.	मैं इसे देखना चाहता हूं।
+I want us to win.	Ich möchte, dass wir gewinnen.	मैं चाहता हूं कि हम जीतें।
+I want vengeance.	Ich möchte Rache.	मुझे प्रतिशोध चाहिए।
