@@ -2999,3 +2999,13 @@ It's a glove.	Es ist ein Handschuh.	यह एक दस्ताना है�
 It's a plant.	Es ist eine Pflanze.	यह एक पौधा है।
 It's a steal.	Es ist ein Diebstahl.	यह एक चोरी है।
 It's at home.	Es ist zu Hause.	यह घर पर है।
+engSentence1	Es ist fantastisch.	यह बहुत शानदार है।
+engSentence2	Es ist Bettzeit.	यह सोने का समय है।
+engSentence3	Es ist Schlafenszeit.	यह सोने का समय है।
+engSentence4	Es ist Schlafenszeit.	यह सोने का समय है।
+engSentence5	Es ist bizarr.	यह अजीब है।
+engSentence6	Es ist korrekt.	यह सही है।
+engSentence7	Es ist für Tom.	यह टॉम के लिए है।
+engSentence8	Es ist für dich.	यह तुम्हारे लिए है।
+engSentence9	Es hagelt.	बर्फ़बारी हो रही है।
+engSentence10	Es ist ein Gerücht.	यह परस्पर बातें हैं।
