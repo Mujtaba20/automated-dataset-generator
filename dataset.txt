@@ -1,15 +1,4 @@
 
-You weren't wrong.	Du hast dich nicht geirrt.	आप गलत नहीं हुए।
-You weren't wrong.	Sie haben sich nicht geirrt.	आप गलत नहीं हुए।
-You weren't wrong.	Ihr habt euch nicht geirrt.	आप गलत नहीं हुए।
-You won't be shot.	Du wirst nicht erschossen.	आपको गोली नहीं मारी जाएगी।
-You won't be shot.	Sie werden nicht erschossen.	आपको गोली नहीं मारी जाएगी।
-You won't be shot.	Ihr werdet nicht erschossen.	आपको गोली नहीं मारी जाएगी।
-You work too hard.	Du arbeitest zu hart.	आप बहुत परिश्रम करते हैं।
-You work too hard.	Du arbeitest zu schwer.	आप बहुत भारी काम करते हैं।
-You work too much.	Du arbeitest zu viel.	आपको ज़्यादा काम करना पसंद है।
-You work too much.	Ihr arbeitet zu viel.	आपको ज़्यादा काम करना पसंद है।
-You work too much.	Sie arbeiten zu viel.	आपको ज़्यादा काम करना पसंद है।
 You would like it.	Du würdest es mögen.	आप इसे पसंद करेंगे।
 You would love it.	Du würdest es lieben.	तुम्हे बहुत पसंद आएगा।
 You'd all like it.	Es würde euch allen gefallen.	आप यह सब पसंद करेंगे।

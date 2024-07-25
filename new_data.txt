@@ -20127,3 +20127,10 @@ You were handsome.	Du warst hübsch.	तुम हसीन थे।
 You were so sweet.	Du warst so süß.	तुम बहुत मीठे थे।
 You weren't there.	Du warst nicht da.	तुम वहाँ नहीं थे।
 You weren't at home.	Du warst nicht zu Hause.	तुम घर पर नहीं थे।
+You weren't wrong.	Du hast nicht unrecht.	तुम गलत नहीं थे।
+You won't be shot.	Du wirst nicht erschossen.	तुम्हें गोली नहीं लगेगी।
+You work too hard.	Du arbeitest zu hart.	आप बहुत मेहनत करते हैं।
+You work too much.	Du arbeitest zu viel.	आप बहुत काम करते हैं।
+You weren't wrong. (different meaning)	Du hast nicht Unrecht gehabt.	तुम गलत नहीं थे। (विभिन्न अर्थ)
+You won't be shot. (different meaning)	Du wirst nicht angeschossen.	तुम्हें गोली नहीं लगेगी। (विभिन्न अर्थ)
+You work too hard. (different meaning)	Du arbeitest zu sehr.	आप ज्यादा मेहनत करते हैं। (विभिन्न अर्थ)
