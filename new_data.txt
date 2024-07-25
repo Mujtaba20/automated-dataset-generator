@@ -20589,3 +20589,13 @@ Everyone liked you.	Alle mochten dich.	सभी ने तुम्हें �
 Everyone likes Tom.	Alle mögen Tom.	सभी को टॉम पसंद है।
 Everyone admires her.	Alle bewundern sie.	सभी उसका सम्मान करते हैं।
 Everyone respects her.	Alle respektieren sie.	सभी उसका सम्मान करते हैं।
+Everyone loves him.	Jeder liebt ihn.	सभी उसे प्यार करते हैं।
+Everyone loves him.2	Alle mögen ihn.	सभी उसे पसंद करते हैं।
+Everyone was alert.	Alle waren wachsam.	सभी सतर्क थे।
+Everyone was drunk.	Alle waren betrunken.	सभी नशे में थे।
+Everyone was happy.	Alle waren glücklich.	सभी खुश थे।
+Everyone was there.	Alle waren da.	सभी वहाँ थे।
+Everyone's reading.	Jeder liest.	सभी पढ़ रहें हैं।
+Everyone's shocked.	Alle sind schockiert.	सभी हैरान हैं।
+Everyone's thirsty.	Alle haben Durst.	सभी प्यासे हैं।
+Everyone's waiting.	Alle warten.	सभी इंतजार कर रहे हैं।
