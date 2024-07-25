@@ -3119,3 +3119,10 @@ Please relax.	Bitte entspannen Sie sich.	कृपया धीरे हो ज
 Please relax. (different meaning)	Bitte beruhigen Sie sich.	कृपया विश्राम करें।
 Please smile.	Bitte lächeln Sie.	कृपया मुस्कान करें।
 Pull it open.	Zieh es auf.	इसे खोलो।
+Put it there.	Stell es dort hin.	वहाँ डाल दो।
+Put these on.	Setz das an.	इन्हें पहनो।
+Quit whining.	Hör auf zu nörgeln.	शिकायत करना बंद करो।
+Say it again.	Sag es nochmal.	फिर से कहो।
+School's out.	Die Schule ist aus.	स्कूल खत्म हो गया।
+See you then.	Bis dann.	तब मिलेंगे।
+Set Tom free.	Lass Tom frei.	टॉम को छोड़ दो।
