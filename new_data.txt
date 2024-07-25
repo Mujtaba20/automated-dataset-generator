@@ -20336,3 +20336,11 @@ Can you still walk?	Kannst du noch laufen?	क्या आप अभी भी 
 Can you wait a bit?	Kannst du kurz warten?	क्या आप थोड़ा इंतजार कर सकते हैं?
 Careful! Watch out!	Vorsicht! Pass auf!	सावधान! ध्यान दें!
 Cars are expensive.	Autos sind teuer.	कारें महंगी हैं।
+Change the subject.	Ändere das Thema.	विषय बदलो।
+Check your pockets.	Überprüfe deine Taschen.	अपनी जेबें चेक करें।
+Children need love.	Kinder brauchen Liebe.	बच्चों को प्यार की आवश्यकता है।
+Clean up this mess.	Räume dieses Durcheinander auf.	इस गड़बड़ को साफ करें।
+Clean up your room.	Mach dein Zimmer sauber.	अपने कमरे को साफ करो।
+Cold water, please.	Kaltes Wasser, bitte.	ठंडा पानी, कृपया।
+Come along with me.	Komm mit mir.	मेरे साथ चलो।
+Come along with us.	Komm mit uns.	हमारे साथ चलो।
