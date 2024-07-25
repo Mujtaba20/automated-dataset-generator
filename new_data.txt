@@ -20330,3 +20330,9 @@ Can you come early?	Kannst du früh kommen?	क्या तुम जल्द�
 Can you forgive me?	Kannst du mir vergeben?	क्या आप मुझे माफ कर सकते हैं?
 Can you pick it up?	Kannst du es abholen?	क्या आप इसे उठा सकते हैं?
 Can you play chess?	Kannst du Schach spielen?	क्या आप शतरंज खेल सकते हैं?
+Can you protect us?	Können Sie uns schützen?	क्या आप हमें सुरक्षित रख सकते हैं?
+Can you read music?	Können Sie Musik lesen?	क्या आप संगीत पढ़ सकते हैं?
+Can you still walk?	Kannst du noch laufen?	क्या आप अभी भी चल सकते हैं?
+Can you wait a bit?	Kannst du kurz warten?	क्या आप थोड़ा इंतजार कर सकते हैं?
+Careful! Watch out!	Vorsicht! Pass auf!	सावधान! ध्यान दें!
+Cars are expensive.	Autos sind teuer.	कारें महंगी हैं।
