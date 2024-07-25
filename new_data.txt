@@ -7310,3 +7310,13 @@ Tom is helping.	Tom hilft.	टॉम मदद कर रहा है।
 Tom is hideous.	Tom ist abscheulich.	टॉम भयंकर है।
 Tom is history.	Tom ist Geschichte.	टॉम इतिहास है।
 Tom is humming.	Tom summt.	टॉम गूंजना है।
+Tom is hurting.	Tom tut weh.	टॉम को दुख रहा है।
+Tom is immoral.	Tom ist unmoralisch.	टॉम अनैतिक है।
+Tom is in here.	Tom ist hier drin.	टॉम यहाँ है।
+Tom is in pain.	Tom hat Schmerzen.	टॉम को दर्द है।
+Tom is intense.	Tom ist intensiv.	टॉम गहरा है।
+Tom is invited.	Tom ist eingeladen.	टॉम को आमंत्रित किया गया है।
+Tom is jealous.	Tom ist eifersüchtig.	टॉम की जलन है।
+Tom is jittery.	Tom ist nervös.	टॉम घबराया हुआ है।
+Tom is jobless.	Tom ist arbeitslos.	टॉम बेरोजगार है।
+Tom is kidding.	Tom macht Witze.	टॉम मजाक कर रहा है।
