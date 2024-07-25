@@ -5975,3 +5975,12 @@ I count on Tom.	Ich zähle auf Tom.	मैं टॉम पर निर्भ�
 I deserve more.	Ich verdiene mehr.	मुझे और अधिक मिलना चाहिए।
 I despised Tom.	Ich verabscheute Tom.	मैंने टॉम की नफ़रत की।
 I did warn you.	Ich habe dich gewarnt.	मैंने तुम्हें चेताया था।
+I didn't cheat.	Ich habe nicht geschummelt.	मैंने धोखा नहीं दिया।
+I didn't drive.	Ich bin nicht gefahren.	मैंने गाड़ी नहीं चलाई।
+I didn't flunk.	Ich bin nicht durchgefallen.	मैं नहीं गिरा।
+I didn't laugh.	Ich habe nicht gelacht.	मैंने हंसी नहीं।
+I didn't study.	Ich habe nicht gelernt.	मैंने अध्ययन नहीं किया।
+I dislike eggs.	Ich mag keine Eier.	मुझे अंडे पसंद नहीं हैं।
+I do that, too.	Ich mache das auch.	मैं भी वह करता हूं।
+I don't gamble.	Ich spiele nicht.	मैं जुए नहीं खेलता।
+I don't get it.	Ich verstehe es nicht.	मुझे समझ में नहीं आता।
