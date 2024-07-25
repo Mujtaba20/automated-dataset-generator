@@ -3677,3 +3677,8 @@ You're cruel.	Du bist grausam.	तुम निर्दयी हो।
 You're dirty.	Du bist schmutzig.	तुम गंदे हो।
 You're drunk.	Du bist betrunken.	तुम नशे में हो।
 You're drunk. (Different meaning)	Du hast einen sitzen.	तुम पेटू हो।
+You're dying.	Sie sind am Sterben.	तुम चले जा रहे हो।
+You're fired.	Sie sind entlassen.	तुम्हें नौकरी से बर्खास्त कर दिया गया है।
+You're funny.	Du bist lustig.	तुम मजेदार हो।
+You're great.	Du bist großartig.	तुम महान हो।
+You're gross.	Du bist eklig.	तुम घिनौने हो।
