@@ -15371,3 +15371,10 @@ You look relaxed.	Du siehst entspannt aus.	तुम आराम से लग 
 You look so pale.	Du siehst so blass aus.	तुम इतने हल्के लग रहे हो।
 You look worried.	Du siehst besorgt aus.	तुम चिंतित लग रहे हो।
 You look younger.	Du wirkst jünger.	तुम जवान लग रहे हो।
+You looked angry.	Du sahst wütend aus.	तुम गुस्से में लग रहे थे।
+You made Tom cry.	Du hast Tom zum Weinen gebracht.	तुमने टॉम को रोने पर मजबूर किया।
+You make me sick.	Du machst mich krank.	तुम मुझे बीमार कर देते हो।
+You may be right.	Du könntest recht haben.	शायद तुम सही हो।
+You may go there.	Du kannst dorthin gehen.	तुम वहाँ जा सकते हो।
+You may know Tom.	Vielleicht kennst du Tom.	तुम शायद टॉम को जानते हो।
+You may quote me.	Du kannst mich zitieren.	तुम मुझे उदाहरण देने की अनुमति है।
