@@ -7154,3 +7154,13 @@ Tom cheated me.	Tom hat mich betrogen.	टॉम ने मुझे धोख�
 Tom chose well.	Tom hat gut gewählt.	टॉम ने अच्छा चुना।
 Tom complained.	Tom hat sich beschwert.	टॉम ने किसी की शिकायत की।
 Tom cooks well.	Tom kocht gut.	टॉम अच्छा खाना पकाता है।
+Tom cut me off.	Tom hat mich ausgeschlossen.	टॉम ने मुझे बाहर किया।
+Tom dialed 911.	Tom wählte 911.	टॉम ने 911 डायल किया।
+Tom did it all.	Tom hat alles getan.	टॉम ने सब कुछ किया।
+Tom did poorly.	Tom hat schlecht gearbeitet.	टॉम ने पूरी तरह किया।
+Tom didn't ask.	Tom hat nicht gefragt.	टॉम ने पूछा नहीं।
+Tom didn't cry.	Tom hat nicht geweint.	टॉम ने नहीं रोया।
+Tom didn't run.	Tom ist nicht gerannt.	टॉम नहीं दौड़ा।
+Tom didn't win.	Tom hat nicht gewonnen.	टॉम नहीं जीता।
+Tom died alone.	Tom starb allein.	टॉम अकेला मर गया।
+Tom died at 65.	Tom starb mit 65.	टॉम 65 साल की आयु में मर गया।
