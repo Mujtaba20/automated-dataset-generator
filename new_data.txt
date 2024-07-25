@@ -4734,3 +4734,8 @@ engSentence6	Lies es laut vor.	इसे उच्चारण करो।
 engSentence7	Lesen Sie es mir vor.	मुझे इसे पढ़े।
 engSentence8	Lies es mir vor.	मुझे इसे पढ़े।
 engSentence9	Lies das jetzt.	अब यह पढ़ो।
+Red is better.	Rot ist besser.	लाल बेहतर है।
+Red suits you.	Rot passt zu dir.	लाल तुम्हें अच्छा लगता है।
+Rest in peace.	Ruhe in Frieden.	शांति से आराम करें।
+Roll the dice.	Würfle.	पासे फेंको।
+Save yourself.	Rette dich selbst.	अपनों को बचाओ।
