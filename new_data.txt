@@ -16042,3 +16042,11 @@ He just texted me.	Er hat mir gerade eine SMS geschrieben.	उसने मु�
 He keeps his word.	Er hält sein Versprechen.	वह अपने वचनों का पालन करता है।
 He keeps two cats.	Er hält zwei Katzen.	उसके पास दो बिल्‍ली हैं।
 He kept on crying.	Er weinte weiter.	वह रोना नहीं बंद किया।
+He killed himself.	Er hat sich selbst getötet.	उसने खुद को मार दिया।
+He kissed my neck.	Er hat meinen Hals geküsst.	उसने मेरी गर्दन पे किस किया।
+He knows too much.	Er weiß zu viel.	उसको बहुत कुछ पता है।
+He lay on the bed.	Er lag auf dem Bett.	उसने बिस्तर पर लेट गया।
+He left for Paris.	Er ist nach Paris gegangen.	वह पेरिस के लिए चला गया।
+He left the house.	Er hat das Haus verlassen.	उसने घर छोड़ दिया।
+He likes my jokes.	Er mag meinen Humor.	उसको मेरा मजाक अच्छा लगता है।
+He likes sleeping.	Er mag es zu schlafen.	उसको सोना पसंद है।
