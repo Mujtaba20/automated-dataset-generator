@@ -14138,3 +14138,11 @@ Tom is a painter.	Tom ist ein Maler.	टॉम एक चित्रकार �
 Tom is a pianist.	Tom ist ein Pianist.	टॉम एक पियानिस्ट है।
 Tom is a plumber.	Tom ist ein Klempner.	टॉम नलसाज है।
 Tom is a psychic.	Tom ist ein Medium.	टॉम एक मानसिक आध्यात्मिक शक्तिशाली है।
+Tom is a realist.	Tom ist ein Realist.	टॉम एक यथार्थवादी है।
+Tom is a realtor.	Tom ist ein Immobilienmakler.	टॉम एक दलाल है।
+Tom is a recluse.	Tom ist ein Einzelgänger.	टॉम एक आलमी है।
+Tom is a refugee.	Tom ist ein Flüchtling.	टॉम शरणार्थी है।
+Tom is a scumbag.	Tom ist ein Mistkerl.	टॉम एक बेहूदा है।
+Tom is a shy boy.	Tom ist ein schüchterner Junge.	टॉम एक शर्मीला लड़का है।
+Tom is a student.	Tom ist ein Schüler.	टॉम छात्र है।
+Tom is a traitor.	Tom ist ein Verräter.	टॉम एक गद्दार है।
