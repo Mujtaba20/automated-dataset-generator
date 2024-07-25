@@ -5715,3 +5715,13 @@ Get off my car.	Steig von meinem Auto aus.	मेरी गाड़ी से �
 Get off of Tom.	Hör auf Tom.	टॉम से हटो।
 Get on in here.	Komm rein.	अंदर आ जाओ।
 Get on the bus.	Steig in den Bus.	बस में चढ़ जाओ।
+Get on with it.	Mach weiter.	इसके साथ जाओ।
+Get on with it. 2	Mach weiter.	इसके साथ जाओ।
+Get on with it. 3	Mach weiter.	इसके साथ जाओ।
+Get out of bed!	Steh auf!	बिस्तर से नीचे आओ!
+Get out of bed! 2	Steh auf!	बिस्तर से नीचे आओ!
+Get out of bed.	Komm aus dem Bett.	बिस्तर में से बाहर आओ।
+Get out of bed. 2	Komm aus dem Bett.	बिस्तर में से बाहर आओ।
+Get rid of her.	Werde sie los.	उससे छुटकारा पाओ।
+Get rid of her. 2	Entferne sie.	उसे हटा दो।
+Get to it, Tom.	Mach schon, Tom.	इस पर जा, टॉम।
