@@ -1,15 +1,4 @@
 
-You have visitors.	Du hast Besucher.	आपके पास आगंतुक है।
-You have visitors.	Ihr habt Besucher.	आपके पास आगंतुक हैं।
-You know everyone.	Du kennst jeden.	आप सभी को जानते हैं।
-You know the rest.	Den Rest weißt du.	आप बाकी जानते हैं।
-You know the rest.	Den Rest wissen Sie.	आप बाकी जानते हैं।
-You know too much.	Du weißt zu viel.	आप बहुत अधिक जानते हैं।
-You know too much.	Sie wissen zu viel.	आप बहुत अधिक जानते हैं।
-You know too much.	Ihr wisst zu viel.	आप बहुत अधिक जानते हैं।
-You know who I am.	Du weißt, wer ich bin.	आप जानते हैं मैं कौन हूं।
-You know who I am.	Sie wissen, wer ich bin.	आप जानते हैं मैं कौन हूं।
-You know who I am.	Ihr wisst, wer ich bin.	आप जानते हैं मैं कौन हूं।
 You learn quickly.	Du lernst schnell.	आप जल्दी से सीखते हैं।
 You learn quickly.	Sie lernen schnell.	आप जल्दी से सीखते हैं।
 You like everyone.	Du magst jeden.	आप सभी को पसंद करते हैं।

@@ -20054,3 +20054,8 @@ You have to do it.	Du musst es tun.	तुम्हें यह करना �
 You have to fight.	Du musst kämpfen.	तुम्हें लड़ना होगा।
 You have to hurry.	Du musst dich beeilen.	तुम्हें जल्दी करना होगा।
 You have to start.	Du musst anfangen.	तुम्हें शुरुआत करनी होगी।
+You have visitors.	Du hast Besucher.	आपके पास अतिथि हैं।
+You know everyone.	Du kennst jeden.	तुम सबको जानते हो।
+You know the rest.	Sie kennen den Rest.	तुम बाकी को जानते हो।
+You know too much.	Du kennst zu viel.	तुम बहुत कुछ जानती हो।
+You know who I am.	Sie wissen, wer ich bin.	तुम जानते हो कि मैं कौन हूँ।
