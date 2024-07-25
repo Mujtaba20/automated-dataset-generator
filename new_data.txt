@@ -7976,3 +7976,13 @@ Who's laughing?	Wer lacht?	कौन हंस रहा है?
 Who's not busy?	Wer ist nicht beschäftigt?	कौन व्यस्त नहीं है?
 Who's on watch?	Wer ist auf der Wache?	कौन देखभाल पर है?
 Who's quitting?	Wer hört auf?	कौन बाहर निकल रहा है?
+Who's speaking?	Wer spricht?	कौन बोल रहा है?
+Who's standing?	Wer steht?	कौन खड़ा है?
+Who's that boy?	Wer ist dieser Junge?	वह लड़का कौन है?
+Who's that for?	Für wen ist das?	यह किसके लिए है?
+Who's watching?	Wer beobachtet?	कौन देख रहा है?
+Who's with Tom?	Wer ist mit Tom?	तोम के साथ कौन है?
+Who's your dad?	Wer ist dein Vater?	तुम्हारे पिताजी कौन हैं?
+Who's your mom?	Wer ist deine Mutter?	तुम्हारी माँ कौन है?
+Whose are they?	Wessen sind sie?	ये किसके हैं?
+Why am I going?	Warum gehe ich?	मैं क्यों जा रहा हूँ?
