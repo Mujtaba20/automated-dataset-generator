@@ -16739,3 +16739,13 @@ I need to go home.	Ich muss nach Hause gehen.	मुझे घर जाना �
 I need toothpaste.	Ich brauche Zahnpasta.	मुझे टूथपेस्ट चाहिए।
 I never asked Tom.	Ich habe Tom nie gefragt.	मैंने कभी टॉम से नहीं पूछा।
 I never buy sugar.	Ich kaufe nie Zucker.	मैं कभी चीनी नहीं खरीदता।
+I never had a car.	Ich hatte nie ein Auto.	मेरे पास कभी गाड़ी नहीं थी।
+I never knew that.	Das habe ich nie gewusst.	मुझे कभी पता नहीं था।
+I never liked Tom.	Ich mochte Tom nie.	मुझे तॉम पसंद नहीं था।
+I never liked her.	Ich mochte sie nie.	मुझे उससे कभी पसंद नहीं था।
+I never loved you.	Ich habe dich nie geliebt.	मैंने कभी तुमसे प्यार नहीं किया।
+I never oversleep.	Ich schlafe nie zu lange.	मैं कभी ज्यादा सोता नहीं हूँ।
+I never said that.	Das habe ich nie gesagt.	मैंने कभी ऐसा नहीं कहा।
+I often buy bread.	Ich kaufe oft Brot.	मैं अक्सर रोटी खरीदता हूँ।
+I often drink tea.	Ich trinke oft Tee.	मैं अक्सर चाय पीता हूँ।
+I often go abroad.	Ich gehe oft ins Ausland.	मैं अक्सर विदेश जाता हूँ।
