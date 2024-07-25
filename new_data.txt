@@ -6120,3 +6120,12 @@ I like the dog.	Ich mag den Hund.	मुझे कुत्ता पसंद �
 I like the sun.	Ich mag die Sonne.	मुझे सूर्य पसंद है।
 I like to cook.	Ich koche gerne.	मुझे खाना पकाना पसंद है।
 I like to fish.	Ich gehe gerne angeln.	मुझे मछलियाँ पकड़ना पसंद है।
+I like to hunt.	Ich jage gerne.	मुझे शिकार करना पसंद है।
+I like to read.	Ich lese gerne.	मुझे पढ़ना पसंद है।
+I like to sing.	Ich singe gerne.	मुझे गाना गाना पसंद है।
+I like to sing. - Different Meaning	Ich mag es zu singen.	मुझे गाते हुए पसंद है।
+I like to swim.	Ich schwimme gerne.	मुझे तैरना पसंद है।
+I like to talk.	Ich rede gerne.	मुझे बात करना पसंद है।
+I like to walk.	Ich gehe gerne spazieren.	मुझे चलना पसंद है।
+I like to walk. - Different Meaning	Ich mag es zu gehen.	मुझे चलने का मन है।
+I like to work.	Ich arbeite gerne.	मुझे काम करना पसंद है।
