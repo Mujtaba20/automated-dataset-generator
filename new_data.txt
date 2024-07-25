@@ -4788,3 +4788,10 @@ She's my wife.	Sie ist meine Frau.	वह मेरी पत्नी है।
 Show it to me.	Zeig es mir.	मुझे दिखाओ।
 Show it to us.	Zeigen Sie es uns.	हमें दिखाओ।
 Show yourself.	Zeigen Sie sich.	अपने आप को दिखाओ।
+Shut the book.	Schließe das Buch.	पुस्तक बंद करो।
+Shut the door.	Mache die Tür zu.	दरवाजा बंद करो।
+Some fish fly.	Einige Fische fliegen.	कुछ मछलियाँ उड़ती हैं।
+Speak clearly.	Sprich deutlich.	स्पष्ट बोलो।
+Speak quietly.	Sprich leise.	धीरे बोलो।
+Stand at ease!	Stehen Sie bequem!	आराम से खड़े हो जाओ!
+Start running.	Beginne zu rennen.	दौड़ना शुरू करो।
