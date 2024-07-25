@@ -3617,3 +3617,10 @@ Where is Tom?	Wo ist Tom?	टॉम कहाँ है?
 Who are they?	Wer sind sie?	वे कौन हैं?
 Who built it?	Wer hat es gebaut?	इसे कौन निर्माण किया?
 Who canceled?	Wer hat abgesagt?	किसने रद्द किया?
+Who did that?	Wer hat das gemacht?	किसने वह किया?
+Who did this?	Wer hat das gemacht?	किसने यह किया?
+Who did what?	Wer hat was gemacht?	किसने क्या किया?
+Who is there?	Wer ist da?	कौन है वहाँ?
+Who listened?	Wer hat zugehört?	किसने सुना?
+Who panicked?	Wer geriet in Panik?	किसने घबराया?
+Who saw what?	Wer hat was gesehen?	किसने क्या देखा?
