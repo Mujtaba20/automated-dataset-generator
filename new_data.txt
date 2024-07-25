@@ -11159,3 +11159,13 @@ We're too drunk.	Wir sind zu betrunken.	हम बहुत नशे में 
 We're uninsured.	Wir sind nicht versichert.	हम बीमा नहीं करवाया हैं।
 We're very busy.	Wir sind sehr beschäftigt.	हम बहुत व्यस्त हैं।
 We're very fast.	Wir sind sehr schnell.	हम बहुत तेज़ हैं।
+We're very poor.	Wir sind sehr arm.	हम बहुत गरीब हैं।
+We've come home.	Wir sind nach Hause gekommen.	हम घर आ गए हैं।
+We've found Tom.	Wir haben Tom gefunden.	हमने टॉम को पाया।
+We've got to go.	Wir müssen gehen.	हमें जाना होगा।
+We've hired Tom.	Wir haben Tom eingestellt.	हमने टॉम को रखा है।
+We've lost them.	Wir haben sie verloren.	हमने उन्हें खो दिया है।
+We've seen them.	Wir haben sie gesehen.	हमने उन्हें देखा है।
+We've upset Tom.	Wir haben Tom verärgert.	हमने टॉम को उदास किया।
+Were they lying?	Haben sie gelogen?	क्या वे झूठ बोल रहे थे?
+Were you crying?	Hast du geweint?	क्या तुम रो रहे थे?
