@@ -17685,3 +17685,12 @@ Please wrap it up.	Bitte einwickeln.	कृपया इसे लपेटे�
 Poets write poems.	Dichter schreiben Gedichte.	कवियों की रचनाएँ करते हैं।
 Prices are rising.	Die Preise steigen.	कीमतें बढ़ रही हैं।
 Prices may change.	Preise können sich ändern.	कीमतें बदल सकती हैं।
+Put it in the bag.	Leg es in die Tasche.	इसे बैग में डालो।
+Put it on my bill.	Schreiben Sie es auf meine Rechnung.	मेरे बिल पर डाल दो।
+Put it over there.	Leg es dort hin.	वहाँ डालो।
+Put on your apron.	Zieh deine Schürze an.	अपनी एप्रन पहनो।
+Put on your masks.	Setzen Sie Ihre Masken auf.	अपने मास्क पहनो।
+Put on your shoes.	Zieh deine Schuhe an.	अपने जूते पहनो।
+Put out that fire.	Löschen Sie das Feuer.	उस आग को बुझा दो।
+Put out the light.	Mach das Licht aus.	रोशनी बंद करो।
+Put that fire out.	Löschen Sie das Feuer.	उस आग को बुझा दो।
