@@ -13497,3 +13497,11 @@ She attacked him.	Sie hat ihn angegriffen.	उसने उस पर हमल�
 She became happy.	Sie wurde glücklich.	उसने खुश हो गया।
 She began crying.	Sie fing an zu weinen.	वह रोने लगी।
 She betrayed you.	Sie hat dich hintergangen.	उसने तुम्हें धोखा दिया।
+She came running.	Sie kam rennend.	वह दौड़ते हुए आई।
+She defeated him.	Sie übertraf ihn.	उसने उसे परास्त किया।
+She despised him.	Sie verachtete ihn.	उससे घृणा करती थी।
+She despises him.	Sie verachtet ihn.	वह उससे नफरत करती है।
+She didn't reply.	Sie reagierte nicht.	उसने कोई प्रतिक्रिया नहीं दी।
+She died from TB.	Sie starb an Tuberkulose.	उसने टीबी से मौत कर ली।
+She died in 1960.	Sie starb 1960.	उसने 1960 में मौत के घाट उतार लिए।
+She disliked him.	Sie mochte ihn nicht.	उसे उससे नापसंद था।
