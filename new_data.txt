@@ -17198,3 +17198,12 @@ I've seen the dog.	Ich habe den Hund gesehen.	मैंने कुत्ते
 Identify yourself.	Machen Sie Ihre Identität bekannt.	अपनी पहचान बताएं.
 Is Tom Mary's son?	Ist Tom Marias Sohn?	क्या टॉम मेरी का बेटा है?
 Is Tom a Canadian?	Ist Tom Kanadier?	क्या टॉम कनेडियन है?
+Is Tom afraid yet?	Hat Tom schon Angst?	क्या टॉम अब डरा है?
+Is Tom an officer?	Ist Tom ein Beamter?	क्या टॉम एक अधिकारी है?
+Is Tom any better?	Geht es Tom besser?	क्या टॉम को कोई फर्क पड़ता है?
+Is Tom doing okay?	Geht es Tom gut?	क्या टॉम ठीक कर रहा है?
+Is Tom going home?	Geht Tom nach Hause?	क्या टॉम घर जा रहा है?
+Is Tom going, too?	Geht auch Tom?	क्या टॉम भी जा रहा है?
+Is Tom in on this?	Ist Tom dabei?	क्या टॉम इसमें शामिल है?
+Is Tom in trouble?	Ist Tom in Schwierigkeiten?	क्या टॉम मुश्किल में है?
+Is Tom interested?	Ist Tom interessiert?	क्या टॉम रुचि रखता है?
