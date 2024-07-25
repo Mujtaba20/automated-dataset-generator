@@ -2854,3 +2854,12 @@ I'm eighteen.	Ich bin achtzehn.	मैं अठारह साल का ह�
 I'm eighteen. 2	Ich bin volljährig.	मैं बालिग हूं।
 I'm escaping.	Ich entkomme.	मैं भाग रहा हूँ।
 I'm expected.	Ich werde erwartet.	मेरी उम्मीद है।
+I'm fighting.	Ich kämpfe.	मैं लड़ रहा हूँ।
+I'm fine now.	Mir geht's gut jetzt.	मैं अब ठीक हूँ।
+I'm finished.	Ich bin fertig.	मैं खत्म हो गया हूँ।
+I'm for that.	Ich bin dafür.	मैं उसके लिए हूँ।
+I'm free now.	Ich bin jetzt frei.	मैं अब मुक्त हूँ।
+I'm freezing.	Mir ist eiskalt.	मैं जम रहा हूँ।
+I'm grateful.	Ich bin dankbar.	मैं कृतज्ञ हूँ।
+I'm grounded.	Ich bin bodenständig.	मैं अब इस स्थान पर हूँ।
+I'm gullible.	Ich bin leichtgläubig.	मैं भोला हूँ।
