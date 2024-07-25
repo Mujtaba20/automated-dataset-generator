@@ -11357,3 +11357,11 @@ You must go now.	Du musst jetzt gehen.	तुम्हें अभी जान
 You need a plan.	Du brauchst einen Plan.	तुम्हें एक योजना की जरुरत है।
 You promised me.	Du hast mir versprochen.	तुमने मुझे वादा किया।
 You should come.	Du solltest kommen.	तुम्हें आना चाहिए।
+You should rest.	Du musst dich erholen.	तुम्हें ध्यान देना चाहिए।
+You should stop.	Du solltest aufhören.	तुम्हें रुकना चाहिए।
+You sound tired.	Du klingst müde.	तुम थके हुए लग रहे हो।
+You startled me.	Du hast mich erschreckt.	तुमने मुझे धक्का दिया।
+You startled us.	Sie haben uns erschreckt.	तुमने हमें भयभीत कर दिया।
+You will listen.	Du wirst zuhören.	तुम सुनोगे।
+You work for me.	Du arbeitest für mich.	तुम मेरे लिए काम करते हो।
+You worked hard.	Du hast hart gearbeitet.	तुमने मेहनत की है।
