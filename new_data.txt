@@ -10780,3 +10780,13 @@ Tom took a walk.	Tom machte einen Spaziergang.	टॉम ने एक सैर
 Tom took my car.	Tom nahm mein Auto.	टॉम ने मेरी कार ली।
 Tom took photos.	Tom machte Fotos.	टॉम ने फोटो खींची।
 Tom trains dogs.	Tom trainiert Hunde.	टॉम कुत्तों की प्रशिक्षण देता है।
+engSentence1	Tom hat es nochmal versucht.	टॉम ने पुनः प्रयास किया।
+engSentence2	Tom vertraute ihr.	टॉम ने उस पर भरोसा किया।
+engSentence3	Tom vertraute ihm.	टॉम ने उस पर भरोसा किया।
+engSentence4	Tom vertraute dir.	टॉम ने तुम पर भरोसा किया।
+engSentence5	Tom vertraut Maria.	टॉम मेरी पर भरोसा करता है।
+engSentence6	Tom wandte sich ab.	टॉम ने मुँह मोड़ लिया।
+engSentence7	Tom drehte sich um.	टॉम ने पीछे मुड़ लिया।
+engSentence8	Tom drehte sich um.	टॉम ने पलट दिया।
+engSentence9	Tom wurde blass.	टॉम पीला पड़ गया।
+engSentence10	Tom wurde bleich.	टॉम पीला पड़ गया।
