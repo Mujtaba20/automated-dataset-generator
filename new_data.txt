@@ -6462,3 +6462,13 @@ I'm rather shy.	Ich bin ziemlich schüchtern.	मैं काफी शर्�
 I'm reading it.	Ich lese es.	मैं इसे पढ़ रहा हूँ।
 I'm really mad.	Ich bin wirklich sauer.	मैं सच्ची में गुस्सा हूँ।
 I'm really old.	Ich bin wirklich alt.	मैं सच्ची में बुढ़ापा देख रहा हूँ।
+I'm so ashamed.	Ich schäme mich so sehr.	मैं इतना शर्मिंदा हूँ।
+I'm so excited.	Ich bin so aufgeregt.	मैं बहुत उत्साहित हूँ।
+I'm so unlucky!	Ich bin so unglücklich!	मैं बहुत बदकिस्मत हूँ।
+I'm so unlucky! (2)	Ich habe so ein Pech!	मैं बहुत बदकिस्मत हूँ।
+I'm sorry, Tom.	Es tut mir leid, Tom.	माफ़ कीजिए, टॉम।
+I'm still busy.	Ich bin immer noch beschäftigt.	मैं अभी भी व्यस्त हूँ।
+I'm still busy. (2)	Ich habe weiterhin viel zu tun.	मैं अभी तक काम में हूँ।
+I'm still busy. (3)	Ich bin nach wie vor beschäftigt.	मैं अभी भी काम में हूँ।
+I'm successful.	Ich bin erfolgreich.	मैं सफल हूँ।
+I'm taking off.	Ich hebe ab.	मैं उड़ान भरने जा रहा हूँ।
