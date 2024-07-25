@@ -233,3 +233,5 @@ Kill it.	Töte es.	उसे मारो।
 Kiss me.	Küss mich.	मुझे चुम्मा दो।
 Lie low.	Halte dich bedeckt.	कम उछलो।
 Lie low. (different meaning)	Verheimliche etwas.	छुपाओ।
+Lock it.	Verriegel es.	इसे तालमे बंद करें।
+Open it.	Aufmachen.	यह खोलें।
