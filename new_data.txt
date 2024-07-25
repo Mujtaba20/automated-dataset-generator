@@ -14071,3 +14071,13 @@ Tom has a butler.	Tom hat einen Butler.	टॉम के पास एक बट
 Tom has a guitar.	Tom hat eine Gitarre.	टॉम के पास एक गिटार है।
 Tom has a lawyer.	Tom hat einen Anwalt.	टॉम के पास एक वकील है।
 Tom has a secret.	Tom hat ein Geheimnis.	टॉम के पास एक राज है।
+Tom has a sister.	Tom hat eine Schwester.	टॉम की एक बहन है।
+Tom has ambition.	Tom hat Ambitionen.	टॉम का उत्कृष्ट प्रयत्न है।
+Tom has an ulcer.	Tom hat ein Geschwür.	टॉम को अल्सर है।
+Tom has bad eyes.	Tom hat schlechte Augen.	टॉम की खराब आंखें हैं।
+Tom has big ears.	Tom hat große Ohren.	टॉम के बड़े कान हैं।
+Tom has big eyes.	Tom hat große Augen.	टॉम की बड़ी आंखें हैं।
+Tom has big feet.	Tom hat große Füße.	टॉम के बड़े पैर हैं।
+Tom has charisma.	Tom hat Charisma.	टॉम की करिश्मा है।
+Tom has chickens.	Tom hat Hühner.	टॉम के मुर्गे हैं।
+Tom has children.	Tom hat Kinder.	टॉम के बच्चे हैं।
