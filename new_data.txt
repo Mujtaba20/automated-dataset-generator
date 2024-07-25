@@ -3904,3 +3904,12 @@ He has a blog.	Er hat einen Blog.	उसका एक ब्लॉग है।
 He has a cold.	Er hat eine Erkältung.	उसे जुकाम है।
 He has braces.	Er hat Zahnspangen.	उसके पास ब्रेसेस हैं।
 He hugged her.	Er umarmte sie.	उसने उसका गले लगाया।
+He ignored me.	Er hat mich ignoriert.	उसने मुझे नजरअंदाज किया।
+He is British.	Er ist Brite.	वह ब्रिटिश है।
+He is English.	Er ist Engländer.	वह अंग्रेज़ी है।
+He is a thief.	Er ist ein Dieb.	वह चोर है।
+He is falling.	Er fällt.	वह गिर रहा है।
+He is foolish.	Er ist töricht.	वह मूर्ख है।
+He is my boss.	Er ist mein Vorgesetzter.	वह मेरा बॉस है।
+He is my type!	Er ist mein Typ!	वह मेरे टाइप का है!
+He is no fool.	Er ist kein Narr.	वह कोई मूर्ख नहीं है।
