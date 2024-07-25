@@ -16169,3 +16169,13 @@ Here's your lunch.	Hier ist dein Mittagessen.	यह तुम्हारा �
 Here's your money.	Hier ist dein Geld.	यह तुम्हारे पैसे हैं।
 Here's your order.	Hier ist deine Bestellung.	यह तुम्हारा आर्डर है।
 Here's your salad.	Hier ist dein Salat.	यह तुम्हारा सलाद है।
+Hey, it's snowing.	Hey, es schneit.	हे, यह बर्फबारी है।
+Hey, listen to me.	Hey, hör mir zu.	हे, मेरी बात सुनो।
+Hey, look at that.	Hey, schau mal das an.	हे, उसे देखो।
+Hey, look at this.	Hey, schau mal das hier an.	हे, इसे देखो।
+Hey, this is good.	Hey, das ist gut.	हे, यह अच्छा है।
+Hey, where are we?	Hey, wo sind wir?	हे, हम कहां हैं?
+Hey, you're early.	Hey, du bist früh dran.	हे, तुम पहले हो।
+Hi Tom, what's up?	Hallo Tom, wie geht's?	नमस्ते टॉम, क्या हाल है?
+Hi, my name's Tom.	Hallo, ich heiße Tom.	नमस्ते, मेरा नाम टॉम है।
+His car is a Ford.	Sein Auto ist ein Ford.	उसकी कार एक फोर्ड है।
