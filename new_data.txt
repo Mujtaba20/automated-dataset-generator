@@ -485,3 +485,11 @@ Go get it.	Holer es.	उसे लेने जाओ।
 Go inside.	Geh rein.	अंदर जाओ।
 Go to bed.	Geh ins Bett.	सोने जाओ।
 Goodnight.	Gute Nacht.	शुभ रात्रि।
+Grab that.	Greif das an.	उसे पकड़ो।
+Hands off.	Hände weg.	हाथ हटाओ।
+Have some.	Haben Sie einige.	कुछ खाओ।
+He is ill.	Er ist krank.	वह बीमार है।
+He is old.	Er ist alt.	वह बूढ़ा है।
+He shaved.	Er hat sich rasiert.	उसने दाढ़ी काटी।
+He smiled.	Er lächelte.	उसने मुस्कान की।
+He's a DJ.	Er ist ein DJ.	वह एक डीजे है।
