@@ -10078,3 +10078,12 @@ They're smiling.	Sie lächeln.	वे मुस्कुरा रहे है�
 They're special.	Sie sind besonders.	वे विशेष हैं।
 They're tallest.	Sie sind die größten.	वे सबसे लंबे हैं।
 They're too big.	Sie sind zu groß.	वे बहुत बड़े हैं।
+They're with me.	Sie sind bei mir.	ये मेरे साथ ही हैं।
+Things are fine.	Die Dinge sind in Ordnung.	सब ठीक है।
+This book's new.	Dieses Buch ist neu.	यह किताब नई है।
+This car is his.	Dieses Auto gehört ihm.	यह गाड़ी उसकी है।
+This car's mine.	Dieses Auto gehört mir.	यह गाड़ी मेरी है।
+This dog is big.	Dieser Hund ist groß.	यह कुत्ता बड़ा है।
+This is a dream.	Das ist ein Traum.	यह एक सपना है।
+This is a hotel.	Das ist ein Hotel.	यह एक होटल है।
+This is a knife.	Das ist ein Messer.	यह एक चाकू है।
