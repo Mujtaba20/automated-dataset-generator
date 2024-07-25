@@ -1,14 +1,4 @@
 
-The war continued.	Der Krieg ging weiter.	युद्ध जारी रहा।
-The war continued.	Der Krieg setzte sich fort.	युद्ध जारी रहा।
-The water is cold.	Das Wasser ist kalt.	पानी ठंडा है।
-The water is pure.	Das Wasser ist rein.	पानी शुद्ध है।
-The water is warm.	Das Wasser ist warm.	पानी गर्म है।
-The world is evil.	Die Welt ist böse.	दुनिया बुराई है।
-The worst is over.	Das Schlimmste ist überstanden.	सबसे बुरी बात बच गई है।
-There are no gods.	Es gibt keine Götter.	कोई देवता नहीं हैं।
-There is no doubt.	Es gibt keinen Zweifel.	इसमें कोई शक नहीं है।
-There is no hurry.	Es gibt keinen Grund zur Eile.	जल्दी करने का कोई कारण नहीं है।
 There is no limit.	Es gibt keine Grenze.	कोई सीमा नही है।
 There is one less.	Es ist einer weniger.	यह कम है।
 There is your bag.	Da ist deine Tasche.	आपका बैग है।

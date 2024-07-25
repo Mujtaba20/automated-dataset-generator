@@ -18074,3 +18074,12 @@ The time has come.	Die Zeit ist gekommen.	समय आ गया है।
 The train is here.	Der Zug ist da.	ट्रेन आ गई है।
 The trunk is open.	Der Kofferraum ist offen.	दिब्बा खुला हुआ है।
 The verdict is in.	Das Urteil steht fest.	निर्णय हो गया है।
+The war continued.	Der Krieg ging weiter.	युद्ध चला रहा था।
+The water is cold.	Das Wasser ist kalt.	पानी ठंडा है।
+The water is pure.	Das Wasser ist rein.	पानी शुद्ध है।
+The water is warm.	Das Wasser ist warm.	पानी गरम है।
+The world is evil.	Die Welt ist böse.	दुनिया बुरा है।
+The worst is over.	Das Schlimmste ist vorbei.	सबसे बुरा बीत गया है।
+There are no gods.	Es gibt keine Götter.	वहाँ कोई भगवान नहीं हैं।
+There is no doubt.	Es besteht kein Zweifel.	कोई संदेह नहीं है।
+There is no hurry.	Es besteht keine Eile.	जल्दी की कोई जरुरत नहीं है।
