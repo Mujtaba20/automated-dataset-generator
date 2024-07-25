@@ -3655,3 +3655,8 @@ You are rich.	Du bist reich.	तुम धनवान हो।
 You can come.	Du kannst kommen.	तुम आ सकते हो।
 You can help.	Du kannst helfen.	तुम मदद कर सकते हो।
 You can rest.	Du kannst dich ausruhen.	तुम आराम कर सकते हो।
+You can't go.	Du kannst nicht gehen.	तुम नहीं जा सकते।
+You go first.	Du gehst zuerst.	तुम पहले जाओ।
+You hurt him.	Du verletzt ihn.	तुमने उसे चोट पहुंचाई।
+You know her.	Du kennst sie.	तुम उसे जानते हो।
+You know him.	Du kennst ihn.	तुम उसे जानते हो।
