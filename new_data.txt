@@ -8584,3 +8584,12 @@ Here's the milk.	Hier ist die Milch.	यहाँ दूध है।
 Here's the plan.	Hier ist der Plan.	यहाँ योजना है।
 Here's your dog.	Hier ist dein Hund.	तुम्हारा कुत्ता यहाँ है।
 Here's your key.	Hier ist dein Schlüssel.	तुम्हारी चाबी यहाँ है।
+Here, take this.	Hier, nimm das.	यहाँ, इसे लो।
+Hey, look at me.	Hey, schau mich an.	अरे, मुझे देखो।
+Hey. I know you.	Hey. Ich kenne dich.	अरे। मुझे तुम पहचानते हो।
+His ID was fake.	Sein Ausweis war gefälscht.	उसकी पहचान पत्र जाली थी।
+His word is law.	Sein Wort ist Gesetz.	उसका शब्द कानून है।
+Hoist the sails!	Hisse die Segel!	पर लगा दो जहाज़ को!
+Hold Tom for me.	Halte Tom für mich fest.	मेरे लिए टॉम को रोको।
+Hold my glasses.	Halte meine Brille.	मेरी चश्मा पकड़ो।
+Hold on, please.	Warten Sie bitte.	थोड़ा इंतजार कीजिए।
