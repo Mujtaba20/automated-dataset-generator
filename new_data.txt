@@ -11027,3 +11027,11 @@ We believed you.	Wir haben dir geglaubt.	हम तुम्हें मान�
 We both saw you.	Wir haben dich beide gesehen.	हमने दोनों तुम्हें देखा।
 We call him Tom.	Wir nennen ihn Tom.	हम उसे टॉम कहते हैं।
 We came to play.	Wir sind zum Spielen gekommen.	हम खेलने आए थे।
+We can help Tom.	Wir können Tom helfen.	हम टॉम की मदद कर सकते हैं।
+We can help you.	Wir können Ihnen helfen.	हम आपकी मदद कर सकते हैं।
+We can pay cash.	Wir können bar zahlen.	हम नकद पैसे दे सकते हैं।
+We can try that.	Wir können das versuchen.	हम उसका प्रयास कर सकते हैं।
+We can't escape.	Wir können nicht entkommen.	हम भाग नहीं सकते।
+We can't see it.	Wir können es nicht sehen.	हम इसे नहीं देख सकते।
+We captured Tom.	Wir haben Tom erobert.	हमने टॉम को जीत लिया।
+We closed early.	Wir haben früh geschlossen.	हमने जल्दी से बंद कर दिया।
