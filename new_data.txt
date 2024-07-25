@@ -14491,3 +14491,11 @@ Tom looks normal.	Tom sieht normal aus.	टॉम सामान्य लग �
 Tom looks scared.	Tom sieht verängstigt aus.	टॉम डरा हुआ लग रहा है।
 Tom looks shaken.	Tom sieht erschüttert aus.	टॉम हिला हुआ लग रहा है।
 Tom looks sleepy.	Tom sieht verschlafen aus.	टॉम ऊंघ रहा है।
+Tom looks strong.	Tom sieht stark aus.	टॉम मजबूत दिखता है।
+Tom looks uneasy.	Tom sieht unbehaglich aus.	टॉम बेचैन लग रहा है।
+Tom looks unsure.	Tom sieht unsicher aus.	टॉम अनिश्चित दिखता है।
+Tom looks weaker.	Tom sieht schwächer aus.	टॉम कमजोर लग रहा है।
+Tom looks wobbly.	Tom sieht wacklig aus.	टॉम लहराता हुआ लग रहा है।
+Tom lost control.	Tom hat die Kontrolle verloren.	टॉम नियंत्रण खो दिया।
+Tom lost his hat.	Tom hat seinen Hut verloren.	टॉम ने अपनी टोपी खो दी।
+Tom lost his job.	Tom hat seinen Job verloren.	टॉम ने अपनी नौकरी गवा दी।
