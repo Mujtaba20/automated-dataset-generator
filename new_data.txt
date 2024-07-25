@@ -10333,3 +10333,10 @@ Tom is a pirate.	Tom ist ein Pirat.	टॉम एक डकैत है।
 Tom is a player.	Tom ist ein Spieler.	टॉम एक खिलाड़ी है।
 Tom is a potter.	Tom ist ein Töpfer.	टॉम मिट्टी का काम करने वाला है।
 Tom is a priest.	Tom ist ein Priester.	टॉम एक पुजारी है।
+Tom is a prince.	Tom ist ein Prinz.	टॉम एक राजकुमार है।
+Tom is a psycho.	Tom ist verrückt.	टॉम पागल है।
+Tom is a racist.	Tom ist rassistisch.	टॉम जातिवादी है।
+Tom is a rapper.	Tom ist ein Rapper.	टॉम एक रैपर है।
+Tom is a rookie.	Tom ist ein Anfänger.	टॉम एक नौसिखिया है।
+Tom is a sailor.	Tom ist ein Seemann.	टॉम एक महासागरीय है।
+Tom is a senior.	Tom ist ein Senior.	टॉम एक वरिष्ठ है।
