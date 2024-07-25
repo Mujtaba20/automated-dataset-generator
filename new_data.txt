@@ -1040,3 +1040,10 @@ I threw up.	Ich habe erbrochen.	मैंने उल्टी की।
 I told Tom.	Ich habe es Tom gesagt.	मैंने टॉम को बताया।
 I use this.	Ich benutze das.	मैं यह उपयोग करता हूँ।
 I use this. (different meaning)	Ich verwende dies.	मैं इसका उपयोग करता हूँ।
+I want Tom.	Ich will Tom.	मुझे टॉम चाहिए।
+I want one!	Ich will eins!	मुझे एक चाहिए!
+I want one.	Ich möchte eins.	मुझे एक चाहिए।
+I want you.	Ich will dich.	मुझे तुम चाहिए।
+I was away.	Ich war weg.	मैं दूर था।
+I was busy.	Ich war beschäftigt.	मैं व्यस्त था।
+I was cold.	Mir war kalt.	मुझे ठंड लग रही थी।
