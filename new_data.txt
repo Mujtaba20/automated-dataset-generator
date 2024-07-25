@@ -2078,3 +2078,12 @@ Tom can win.	Tom kann gewinnen.	टॉम जीत सकता है।
 Tom changed.	Tom änderte sich.	टॉम ने किया परिवर्तन।
 Tom cheated.	Tom täuschte.	टॉम ने धोखा किया।
 Tom cheered.	Tom jubelte.	टॉम ने जयभारी किया।
+Tom clapped.	Tom klatschte.	टॉम ताली बजाई।
+Tom coughed.	Tom hustete.	टॉम खांसी कर रहा था।
+Tom decided.	Tom entschied.	टॉम निर्णय लिया।
+Tom drowned.	Tom ertrank.	टॉम डूब गया।
+Tom escaped.	Tom entkam.	टॉम भाग गया।
+Tom exhaled.	Tom atmete aus.	टॉम साँस छोड़ दी।
+Tom fainted.	Tom wurde ohnmächtig.	टॉम बेहोश हो गया।
+Tom frowned.	Tom runzelte die Stirn.	टॉम अँधेरा हो गया।
+Tom gave in.	Tom gab nach.	टॉम मान लिया।
