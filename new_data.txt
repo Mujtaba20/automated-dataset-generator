@@ -293,3 +293,6 @@ Go ahead!	Vorwärts!	आगे बढ़ो!
 Go ahead.	Mach weiter.	आगे बढ़ें।
 Grab Tom.	Schnapp dir Tom.	टॉम को पकड़ो।
 Grab him.	Greif ihn.	उसे पकड़ो।
+Have fun.	Genieße es.	मस्ती करो।
+He spoke.	Er sprach.	उसने बोला।
+He tried.	Er versuchte.	उसने कोशिश की।
