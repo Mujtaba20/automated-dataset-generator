@@ -8233,3 +8233,12 @@ Can you skip me?	Können Sie mich überspringen?	क्या आप मुझ�
 Can you stop it?	Kannst du es stoppen?	क्या तुम इसे रोक सकते हो?
 Can you whistle?	Können Sie pfeifen?	क्या आप सीटी बजा सकते हैं?
 Can you whistle? (different meaning)	Kannst du pfeifen?	क्या तुम सीटी बजा सकते हो?
+Can't you do it?	Kannst du es nicht machen?	क्या आप इसे नहीं कर सकते?
+Cats catch mice.	Katzen fangen Mäuse.	बिल्लियाँ चूहे पकड़ती हैं।
+Cats like boxes.	Katzen mögen Kisten.	बिल्लियाँ डिब्बों को पसंद करती हैं।
+Clap your hands.	Klatschen Sie in die Hände.	अपने हाथों को एक साथ बजाओ।
+Clean your room.	Reinigen Sie Ihr Zimmer.	अपने कमरे को साफ करो।
+Clear the table.	Räumen Sie den Tisch ab.	मेज साफ करो।
+Close that door.	Schließen Sie die Tür.	उस दरवाजे को बंद करो।
+Close your book.	Machen Sie Ihr Buch zu.	अपनी किताब बंद करो।
+Close your eyes.	Schließe deine Augen.	अपनी आंखें बंद करो।
