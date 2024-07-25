@@ -12192,3 +12192,13 @@ I always eat out.	Ich esse immer außerhalb.	मैं हमेशा बाह
 I always said no.	Ich habe immer nein gesagt.	मैंने हमेशा ना कहा।
 I am a bit crazy.	Ich bin ein bisschen verrückt.	मैं थोड़ा पागल हूँ।
 I am a bit drunk.	Ich bin ein bisschen betrunken.	मैं थोड़ा पिया हुआ हूँ।
+I am a foreigner.	Ich bin ein Ausländer.	मैं विदेशी हूँ।
+I am a housewife.	Ich bin eine Hausfrau.	मैं एक गृहिणी हूँ।
+I am a professor.	Ich bin ein Professor.	मैं एक प्रोफेसर हूँ।
+I am a professor. (Different meaning)	Ich bin eine Dozentin.	मैं एक प्रोफेसर हूँ।
+I am cooking now.	Ich koche jetzt.	मैं अभी पका रहा हूँ।
+I am dumbfounded.	Ich bin sprachlos.	मैं हैरान हूँ।
+I am eating rice.	Ich esse Reis.	मैं चावल खा रहा हूँ।
+I am from Brazil.	Ich komme aus Brasilien.	मैं ब्राज़ील से हूँ।
+I am from Norway.	Ich komme aus Norwegen.	मैं नॉर्वे से हूँ।
+I am frying fish.	Ich brate Fisch.	मैं मछली तल रहा हूँ।
