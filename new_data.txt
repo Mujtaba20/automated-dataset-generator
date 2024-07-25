@@ -13577,3 +13577,13 @@ Someone is lying.	Jemand lügt.	कोई झूठ बोल रहा है�
 Someone screamed.	Jemand hat geschrien.	किसी ने चिल्लाया।
 Someone was here.	Jemand war hier.	कोई यहाँ था।
 Someone's coming.	Jemand kommt.	कोई आ रहा है।
+Something stinks.	Etwas stinkt.	कुछ भद्दा है।
+Sorry about that.	Entschuldigung dafür.	उसके बारे में माफ़ी चाहते हैं।
+Sorry to be late.	Entschuldigung für die Verspätung.	देर होने के लिए माफ़ी चाहते हैं।
+Sorry to be late. #2	Es tut mir leid, zu spät zu sein.	देरी के लिए क्षमा करें।
+Sorry to be late. #3	Entschuldigung, dass ich zu spät bin.	देरी के लिए मौफ़।
+Speak to me, Tom.	Sprich mit mir, Tom.	मुझसे बात करो, टॉम।
+Spiders scare me.	Spinnen erschrecken mich.	मुझे मकड़ी डराती है।
+Stand up, please.	Stehen Sie bitte auf.	खड़े हो जाओ, कृपया।
+Start the engine.	Starten Sie den Motor.	इंजन चालू करो।
+Stay for a while.	Bleib eine Weile.	थोड़ी देर के लिए रुको।
