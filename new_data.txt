@@ -3578,3 +3578,10 @@ We want meat.	Wir wollen Fleisch.	हमें मांस चाहिए।
 We want more.	Wir wollen mehr.	हमे और चाहिए।
 We were busy.	Wir waren beschäftigt.	हम व्यस्त थे।
 We were sick.	Wir waren krank.	हम बीमार थे।
+We'll attack.	Wir werden angreifen.	हम हमला करेंगे।
+We'll decide.	Wir werden entscheiden.	हम निर्णय करेंगे।
+We'll get it.	Wir werden es bekommen.	हम इसे प्राप्त करेंगे।
+We'll go out.	Wir werden rausgehen.	हम बाहर जाएँगे।
+We'll scream.	Wir werden schreien.	हम चिल्लाएँगे।
+We'll starve.	Wir werden verhungern.	हम भूख से मर जाएँगे।
+We're afraid.	Wir haben Angst.	हमे डर लग रहा है।
