@@ -12691,3 +12691,13 @@ I walk every day.	Ich gehe jeden Tag spazieren.	मैं हर दिन च�
 I walk to school.	Ich gehe zur Schule.	मैं स्कूल जाता हूँ।
 I walked outside.	Ich bin draußen gelaufen.	मैंने बाहर चला गया।
 I want Tom fired.	Ich möchte, dass Tom entlassen wird.	मुझे चाहिए कि टॉम को निकाल दिया जाए।
+I want Tom to go.	Ich möchte, dass Tom geht.	मुझे चाहिए कि टॉम जाए।
+I want a blanket.	Ich möchte eine Decke.	मुझे एक कंबल चाहिए।
+I want a divorce.	Ich möchte mich scheiden lassen.	मुझे तलाक चाहिए।
+I want a martini.	Ich möchte einen Martini.	मुझे एक मार्टिनी चाहिए।
+I want a new car.	Ich möchte ein neues Auto.	मुझे एक नई कार चाहिए।
+I want more milk.	Ich möchte mehr Milch.	मुझे अधिक दूध चाहिए।
+I want much more.	Ich möchte viel mehr.	मुझे और भी ज्यादा चाहिए।
+I want my lawyer.	Ich möchte meinen Anwalt.	मुझे मेरे वकील की जरूरत है।
+I want some cake.	Ich möchte etwas Kuchen.	मुझे कुछ केक चाहिए।
+I want some food.	Ich möchte etwas zu essen.	मुझे कुछ खाने का इच्छुक है।
