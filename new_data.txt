@@ -3207,3 +3207,12 @@ That will do.	Das wird genügen.	यह काम करेगा।
 That'll help.	Das wird helfen.	यह मदद करेगा।
 That'll pass.	Das wird vergehen.	यह चला जाएगा।
 That's Tom's.	Das gehört Tom.	वह टॉम का है।
+That's a lie.	Das ist eine Lüge.	यह झूठ है।
+That's a lot!	Das ist viel!	यह बहुत है!
+That's crazy.	Das ist verrückt.	यह पागल है।
+That's cruel.	Das ist grausam.	यह क्रूर है।
+That's funny.	Das ist lustig.	यह मजेदार है।
+That's great!	Das ist großartig!	यह शानदार है!
+That's great.	Das ist toll.	यह बढ़िया है।
+That's my CD.	Das ist meine CD.	यह मेरी सीडी है।
+That's right!	Das ist richtig!	यह सत्य है!
