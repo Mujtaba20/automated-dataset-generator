@@ -1,15 +1,4 @@
 
-Why do people die?	Warum sterben die Menschen?	लोग क्यों मरते हैं?
-Why do people lie?	Warum lügen Menschen?	लोग क्यों झूठ बोल रहे हैं?
-Why do they do it?	Warum machen sie das?	आप ऐसा क्यों कर रहे हों?
-Why do we need it?	Wozu brauchen wir das?	हमें इसकी आवश्यकता क्यों है?
-Why give it to me?	Warum gibst du es mir?	आप इसे मुझे क्यों देते हैं
-Why is Tom absent?	Warum fehlt Tom?	टॉम क्यों गायब है?
-Why is Tom crying?	Warum weint Tom?	टॉम क्यों रोता है?
-Why is Tom hiding?	Warum versteckt sich Tom?	टॉम क्यों छिपा रहा है?
-Why is snow white?	Warum ist Schnee weiß?	स्नो व्हाइट क्यों है?
-Why is that wrong?	Warum ist das falsch?	वह गलत क्यों है?
-Why is that wrong?	Warum ist das verkehrt?	वह गलत क्यों है?
 Why isn't it good?	Warum ist es nicht gut?	यह अच्छा क्यों नहीं है?
 Why isn't it here?	Warum ist es nicht hier?	यहाँ क्यों नहीं है?
 Why should I wait?	Wieso sollte ich warten?	मुझे इंतजार क्यों करना चाहिए?

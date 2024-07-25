@@ -19938,3 +19938,13 @@ Why did I get a C?	Warum habe ich ein C bekommen?	मुझे C क्यों
 Why did I get a D?	Warum habe ich ein D bekommen?	मुझे D क्यों मिला?
 Why did Tom do it?	Warum hat Tom das gemacht?	टॉम ने ऐसा क्यों किया?
 Why did you leave?	Warum bist du gegangen?	तुम क्यों चले गए?
+Why do people die?	Warum sterben Menschen?	लोग मरते क्यों हैं?
+Why do people lie?	Warum lügen Menschen?	लोग क्यों झूठ बोलते हैं?
+Why do they do it?	Warum tun sie das?	वे ऐसा क्यों करते हैं?
+Why do we need it?	Warum brauchen wir das?	हमें इसकी क्या जरूरत है?
+Why give it to me?	Warum gibst du es mir?	मुझे यह क्यों देते हो?
+Why is Tom absent?	Warum ist Tom abwesend?	टॉम गैरहाजिर क्यों है?
+Why is Tom crying?	Warum weint Tom?	टॉम क्यों रो रहा है?
+Why is Tom hiding?	Warum versteckt sich Tom?	टॉम क्यों छुपा हुआ है?
+Why is snow white?	Warum ist Schnee weiß?	बर्फ सफेद क्यों है?
+Why is that wrong?	Warum ist das falsch?	यह गलत क्यों है?
