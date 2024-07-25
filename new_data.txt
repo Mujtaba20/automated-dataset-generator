@@ -19159,3 +19159,13 @@ Tom seldom smiled.	Tom hat selten gelächelt.	टॉम बहुत कम ह�
 Tom seldom smiles.	Tom lächelt selten.	टॉम बहुत कम मुस्कान करता है।
 Tom seldom snores.	Tom schnarcht selten.	टॉम बहुत कम खर्राता है।
 Tom sells flowers.	Tom verkauft Blumen.	टॉम फूल बेचता है।
+Tom sensed danger.	Tom spürte Gefahr.	टॉम ने खतरा महसूस किया।
+Tom sent me there.	Tom schickte mich dorthin.	टॉम ने मुझे वहाँ भेजा।
+Tom served dinner.	Tom servierte das Abendessen.	टॉम ने डिनर सेव किया।
+Tom set the table.	Tom deckte den Tisch.	टॉम ने मेज सेट किया।
+Tom shifted gears.	Tom hat die Gänge gewechselt.	टॉम ने गियर बदल दिए।
+Tom shifted gears. (Different meaning)	Tom hat die Richtung geändert.	टॉम ने गियर बदला।
+Tom shook my hand.	Tom schüttelte mir die Hand.	टॉम ने मेरा हाथ मिलाया।
+Tom shot the wolf.	Tom hat den Wolf erschossen.	टॉम ने भेड़िया को गोली मारी।
+Tom shot the wolf. (Different meaning)	Tom fotografierte den Wolf.	टॉम ने भेड़िया की तस्वीर खींची।
+Tom should resign.	Tom sollte zurücktreten.	टॉम को इस्तीफा देना चाहिए।
