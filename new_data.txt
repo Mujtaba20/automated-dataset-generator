@@ -18022,3 +18022,10 @@ The floor creaked.	Der Boden knarrte.	फर्श चीर गया।
 The floor is cold.	Der Boden ist kalt.	फर्श सर्द है।
 The food is ready.	Das Essen ist fertig.	खाना तैयार है।
 The fork is dirty.	Die Gabel ist schmutzig.	काँटा गंदा है।
+The gate was open.	Das Tor war geöffnet.	गेट खुला हुआ था।
+The girls fainted.	Die Mädchen fielen in Ohnmacht.	लड़कियाँ बेहोश हो गईं।
+The girls giggled.	Die Mädchen kicherten.	लड़कियाँ हंस पड़ीं।
+The gun is jammed.	Das Gewehr steckt fest.	बंदूक फंस गई है।
+The home team won.	Das Heimteam hat gewonnen.	घर की टीम जीत गई।
+The house was big.	Das Haus war groß.	घर बड़ा था।
+The knife is dull.	Das Messer ist stumpf.	चाकू कुंद है।

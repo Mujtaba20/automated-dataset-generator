@@ -1,14 +1,4 @@
 
-The gate was open.	Die Tür stand auf.	दरवाजा उठ गया।
-The gate was open.	Die Tür war auf.	दरवाजा ऊपर था।
-The girls fainted.	Die Mädchen fielen in Ohnmacht,	लड़कियां बेहोश हो गईं
-The girls giggled.	Die Mädchen kicherten.	लड़कियों ने गिड़गिड़ाया।
-The gun is jammed.	Das Gewehr klemmt.	राइफल अटक गई है।
-The gun is jammed.	Die Pistole klemmt.	पिस्तौल अटक गई है।
-The gun is jammed.	Das Gewehr hat Ladehemmung.	राइफल में निषेध है।
-The home team won.	Die Heimmannschaft hat gewonnen.	घरेलू टीम जीत गई।
-The house was big.	Das Haus war groß.	घर बड़ा था।
-The knife is dull.	Das Messer ist stumpf.	चाकू सुस्त है।
 The lemon is sour.	Die Zitrone ist sauer.	नींबू खट्टा है।
 The lid is closed.	Der Deckel ist zu.	ढक्कन बंद है।
 The lid is closed.	Das Augenlid ist geschlossen.	पलक बंद है।
