@@ -3065,3 +3065,12 @@ Let me think.	Lass mich nachdenken.	मुझे सोचने दो।
 Let's go now.	Lass uns jetzt gehen.	चलो अब।
 Let's see it.	Lass es uns sehen.	देखते हैं।
 Let's try it.	Lass es uns versuchen.	इसे प्रयास करें।
+Life goes on.	Das Leben geht weiter.	जिंदगी चलती रहती है।
+Life is hard.	Das Leben ist schwer.	जिंदगी कठिन है।
+Life's short.	Das Leben ist kurz.	जिंदगी छोटी है।
+Listen to me.	Höre mir zu.	मेरी बात सुनो।
+Look at that.	Schau dir das an.	उस पर ध्यान दो।
+Look at this.	Schau dir das hier an.	इस पर ध्यान दो।
+Look closely.	Schau genau hin.	ध्यान से देखो।
+Look closely. (2)	Betrachte es genau.	ध्यान से देखो।
+Make a guess.	Rate mal.	एक अनुमान लगाओ।
