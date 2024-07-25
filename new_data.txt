@@ -4593,3 +4593,12 @@ It's too hard.	Es ist zu hart.	यह बहुत कठिन है।
 It's too late.	Es ist zu spät.	यह बहुत देर हो चुकी है।
 It's too long.	Es ist zu lang.	यह बहुत लंबा है।
 It's too loud.	Es ist zu laut.	यह बहुत शोर मचा रहा है।
+It's too soon.	Es ist zu früh.	यह बहुत जल्दी है।
+It's too thin.	Es ist zu dünn.	यह बहुत पतला है।
+It's too thin. Duplicate Translation	Es ist zu schlank.	यह बहुत सुबमित है।
+It's too ugly.	Es ist zu hässlich.	यह बहुत बुरा है।
+It's too ugly. Duplicate Translation	Es ist zu unattraktiv.	यह बहुत अश्लील है।
+It's unlikely.	Es ist unwahrscheinlich.	यह संभावनात: नहीं है।
+It's unlocked.	Es ist entsperrt.	यह अनलॉक है।
+It's up to me.	Es liegt an mir.	यह मेरे ऊपर है।
+It's up to us.	Es liegt an uns.	यह हम पर है।
