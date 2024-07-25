@@ -5753,3 +5753,13 @@ Good afternoon.	Guten Nachmittag.	शुभ अपराह्न।
 Good work, Tom.	Gute Arbeit, Tom.	अच्छा काम, टॉम।
 Guess who I am.	Stell dir vor wer ich bin.	मुझे पहचानो मैं कौन हूँ।
 Hand it to Tom.	Reich es Tom.	टॉम को दे दो।
+Hand it to him.	Geben Sie es ihm.	उसे ये दें।
+Happy New Year!	Frohes neues Jahr!	नया साल मुबारक हो!
+Happy New Year!_1	Glückliches neues Jahr!	नव वर्ष की शुभकामनाएं!
+Happy birthday!	Alles Gute zum Geburtstag!	जन्मदिन मुबारक हो!
+Happy holidays.	Frohe Feiertage.	खुशियों के दिन।
+Has it arrived?	Ist es angekommen?	क्या यह पहुंच गया है?
+Has it arrived?_1	Ist er angekommen?	क्या वह पहुँच गया है?
+Has it arrived?_2	Ist sie angekommen?	क्या वह पहुँच गई है?
+Have Tom do it.	Lass Tom es machen.	टॉम से कराएं।
+Have some more.	Nimm noch etwas.	और कुछ लो।
