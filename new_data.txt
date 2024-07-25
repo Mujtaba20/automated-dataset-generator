@@ -5739,3 +5739,10 @@ Give me a ride.	Gib mir eine Fahrt.	मुझे एक सवारी दो�
 Give us a hand.	Gib uns eine Hand.	हमें एक हाथ दो।
 Go and ask Tom.	Geh und frage Tom.	जाओ और टॉम से पूछो।
 Go and see Tom.	Geh und sieh Tom.	जाओ और टॉम को देखो।
+Go back inside.	Geh zurück nach drinnen.	अंदर जाओ।
+Go back to bed.	Geh zurück ins Bett.	बिस्तर पर लौट जाओ।
+Go be with Tom.	Geh zu Tom.	टॉम के पास जाओ।
+Go for it, Tom.	Versuch es, Tom.	इसे करो, टॉम।
+Go have a beer.	Geh ein Bier trinken.	एक बीयर पिएं।
+Go look for it.	Such danach.	इसे खोजो।
+Go take a walk.	Geh spazieren.	एक टहलने जाओ।
