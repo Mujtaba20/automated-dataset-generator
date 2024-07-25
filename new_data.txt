@@ -13084,3 +13084,10 @@ It can't be done.	Es kann nicht gemacht werden.	यह किया नहीं
 It can't be true.	Es kann nicht wahr sein.	यह सच नहीं हो सकता।
 It costs 2 euros.	Es kostet 2 Euro.	यह 2 यूरो का मूल्य है।
 It could be true.	Es könnte wahr sein.	यह सच हो सकता है।
+It couldn't hurt.	Es könnte nicht schaden.	यह कोई चोट नहीं पहुंचा सकता।
+It happened fast.	Es geschah schnell.	यह जल्दी हुआ।
+It happened here.	Es passierte hier.	यहाँ हुआ।
+It interested me.	Es interessierte mich.	यह मुझे दिलचस्प लगा।
+It is impossible.	Es ist unmöglich.	यह असंभव है।
+It is not my day.	Es ist nicht mein Tag.	यह मेरा दिन नहीं है।
+It is pitch dark.	Es ist stockdunkel.	यह पूरी तरह अंधेरा है।
