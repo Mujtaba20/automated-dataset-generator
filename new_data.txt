@@ -15943,3 +15943,12 @@ He bowed his head.	Er senkte den Kopf.	उसने सिर झुकाया
 He broke his word.	Er hat sein Versprechen gebrochen.	उसने अपना वादा तोड़ दिया।
 He broke my heart.	Er brach mir das Herz.	उसने मेरा दिल तोड़ दिया।
 He came about two.	Er kam etwa zwei.	वह लगभग दो आया।
+He came back soon.	Er kam bald zurück.	उसने जल्दी वापस आ गया।
+He came in person.	Er kam persönlich.	उसने व्यक्तिगतरूप से आया।
+He can be trusted.	Man kann ihm vertrauen.	उसपर भरोसा किया जा सकता है।
+He can be trusted. (different meaning)	Er kann vertraut werden.	उसपर भरोसा किया जा सकता है।
+He can't help you.	Er kann dir nicht helfen.	वह तुम्हारी मदद नहीं कर सकता।
+He cannot stop it.	Er kann es nicht stoppen.	वह इसे रोक नहीं सकता।
+He cannot stop me.	Er kann mich nicht stoppen.	वह मुझे नहीं रोक सकता।
+He cannot stop us.	Er kann uns nicht aufhalten.	वह हमें नहीं रोक सकता।
+He carried a cane.	Er trug einen Stock.	उसने एक चेंडू लिया था।
