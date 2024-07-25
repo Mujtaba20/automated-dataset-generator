@@ -1,14 +1,4 @@
 
-Tom's imaginative.	Tom ist fantasievoll.	टॉम कल्पनाशील है।
-Tom's jaw dropped.	Toms Kinnlade ging nach unten.	टॉम का जबड़ा नीचे चला गया।
-Tom's mom is cool.	Toms Mutter ist cool.	टॉम की माँ शांत है।
-Tom's not my name.	Ich heiße nicht Tom.	मुझे टॉम नहीं कहा जाता है।
-Tom's room stinks.	Bei Tom im Zimmer stinkt’s.	कमरे में कमरे में बदबू आ रही है।
-Tom's still a kid.	Tom ist noch ein Kind.	टॉम अभी भी एक बच्चा है।
-Tom's wife called.	Toms Frau hat angerufen.	टॉम की पत्नी ने फोन किया।
-Tom, are you okay?	Geht es dir gut, Tom?	क्या आप अच्छा कर रहे हैं, टॉम?
-Tom, are you okay?	Tom, ist alles in Ordnung?	टॉम, क्या सब ठीक है?
-Tom, where are we?	Tom, wo sind wir?	टॉम, हम कहाँ हैं?
 Tomorrow's payday.	Morgen ist Zahltag.	कल payday है।
 Try and calm down.	Versuche, dich zu beruhigen.	आपको शांत करने की कोशिश करें।
 Try it once again.	Versuche es noch einmal.	फिर से कोशिश करें।

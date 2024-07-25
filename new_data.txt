@@ -19444,3 +19444,12 @@ Tom's door closed.	Toms Tür ist geschlossen.	टॉम का दरवाज�
 Tom's embarrassed.	Tom ist peinlich berührt.	टॉम शर्मिंदा है।
 Tom's eyes lit up.	Toms Augen leuchteten.	टॉम की आंखों में चमक आई।
 Tom's face is red.	Toms Gesicht ist rot.	टॉम का चेहरा लाल है।
+Tom's imaginative.	Toms phantasievoll.	टॉम की कल्पनाशील।
+Tom's jaw dropped.	Toms Kinn fiel.	टॉम की जबड़े की चमचमाहट।
+Tom's mom is cool.	Toms Mutter ist cool.	टॉम की माँ कूल है।
+Tom's not my name.	Tom ist nicht mein Name.	टॉम मेरा नाम नहीं है।
+Tom's room stinks.	Toms Zimmer stinkt.	टॉम का कमरा बदबूदार है।
+Tom's still a kid.	Tom ist immer noch ein Kind.	अब भी टॉम बच्चा है।
+Tom's wife called.	Toms Frau hat angerufen.	टॉम की पत्नी ने कॉल किया।
+Tom, are you okay?	Tom, geht es dir gut?	टॉम, तुम ठीक हो?
+Tom, where are we?	Tom, wo sind wir?	टॉम, हम कहाँ हैं?
