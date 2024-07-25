@@ -2679,3 +2679,13 @@ I go to work.	Ich gehe zur Arbeit.	मैं काम पर जाता ह�
 I had doubts.	Ich hatte Zweifel.	मेरे पास संदेह थे।
 I hate beans.	Ich hasse Bohnen.	मुझे राजमा पसंद नहीं है।
 I hate liars.	Ich hasse Lügner.	मुझे झूठे लोगों से नफरत है।
+I hate sushi.	Ich hasse Sushi.	मुझे सुशी से नफरत है।
+I hate tests.	Ich hasse Tests.	मुझे टेस्ट से नफरत है।
+I hate those.	Ich hasse diese.	मुझे वे नफरत है।
+I have a car.	Ich habe ein Auto.	मेरे पास एक कार है।
+I have a dog.	Ich habe einen Hund.	मेरे पास एक कुत्ता है।
+I have a map.	Ich habe eine Karte.	मेरे पास एक नक्शा है।
+I have a pen.	Ich habe einen Stift.	मेरे पास एक पेन है।
+I have hives.	Ich habe Nesselsucht.	मुझे खाँसी है।
+I have money.	Ich habe Geld.	मेरे पास पैसे हैं।
+I have proof.	Ich habe einen Beweis.	मेरे पास सबूत है।
