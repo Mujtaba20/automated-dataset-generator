@@ -5937,3 +5937,12 @@ I am a teacher.	Ich bin Lehrer.	मैं एक शिक्षक हूँ।
 I am an artist.	Ich bin Künstler.	मैं एक कलाकार हूँ।
 I am Hungarian. different translation	Ich komme aus Ungarn.	मैं हंगेरी से हूँ।
 I am a student. different meaning	Ich bin ein Schüler.	मैं एक छात्र हूँ।
+I am in London.	Ich bin in London.	मैं लंदन में हूँ।
+I am off today.	Ich habe heute frei.	आज मेरी छुट्टी है।
+I am too short.	Ich bin zu kurz.	मैं बहुत छोटा हूँ।
+I am very tall.	Ich bin sehr groß.	मैं बहुत लंबा हूँ।
+I ate a Danish.	Ich habe ein dänisches Gebäck gegessen.	मैंने एक डेनिश खाया।
+I ate a banana.	Ich habe eine Banane gegessen.	मैंने एक केला खाया।
+I ate an apple.	Ich habe einen Apfel gegessen.	मैंने एक सेब खाया।
+I ate too much.	Ich habe zu viel gegessen.	मैंने बहुत ज्यादा खाया।
+I became angry.	Ich wurde wütend.	मैं गुस्से में आ गया।
