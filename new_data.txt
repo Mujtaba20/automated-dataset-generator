@@ -11205,3 +11205,11 @@ What'll Tom say?	Was wird Tom sagen?	टॉम क्या कहेगा?
 What'll Tom win?	Was wird Tom gewinnen?	टॉम क्या जीतेगा?
 What'll you eat?	Was wirst du essen?	तुम क्या खाओगे?
 What's Tom done?	Was hat Tom gemacht?	टॉम ने क्या किया है?
+What's Tom like?	Wie ist Tom?	टॉम कैसा है?
+What's Tom mean?	Was bedeutet Tom?	टॉम का मतलब क्या है?
+What's Tom want?	Was will Tom?	टॉम क्या चाहता है?
+What's all that?	Was ist das alles?	ये सब क्या है?
+What's going on?	Was ist los?	क्या हो रहा है?
+What's happened?	Was ist passiert?	क्या हुआ?
+What's her name?	Wie heißt sie?	उसका नाम क्या है?
+What's his name?	Wie heißt er?	उसका नाम क्या है?
