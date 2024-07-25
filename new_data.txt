@@ -15800,3 +15800,9 @@ Don't hurt my son.	Verletze meinen Sohn nicht.	मेरे बेटे को 
 Don't let me down.	Enttäusche mich nicht.	मुझे न नीचा दिखाओ।
 Don't let me down. 1	Lass mich nicht im Stich.	मेरा साथ न छोड़ो।
 Don't let me down. 2	Enttäusche mich nicht.	मुझे न धोखा दें।
+Don't let us down.	Lass uns nicht im Stich.	हमें निराश न करें।
+Don't look at Tom.	Schau nicht Tom an.	टॉम को न देखें।
+Don't look for me.	Such mich nicht.	मुझे ना ढूंढो।
+Don't look for us.	Sucht uns nicht.	हमें ना ढूंढें।
+Don't look so sad.	Sieh nicht so traurig aus.	इतना उदास मत देखो।
+Don't make me cry.	Lass mich nicht weinen.	मुझे रोने मत दो।
