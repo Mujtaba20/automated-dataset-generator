@@ -1906,3 +1906,13 @@ It's my job.	Es ist meine Aufgabe.	यह मेरा काम है।
 It's my job. (different meaning)	Es ist mein Beruf.	यह मेरा पेशा है।
 It's no use.	Es hat keinen Zweck.	इसका कोई उपयोग नहीं है।
 It's no use. (different meaning)	Es ist zwecklos.	यह निष्फल है।
+It's poison.	Es ist Gift.	यह जहर है।
+It's secret.	Es ist geheim.	यह एक रहस्य है।
+It's secret. - 2	Es ist versteckt.	यह गुप्त है।
+It's simple.	Es ist einfach.	यह सरल है।
+It's spring.	Es ist Frühling.	यह बसंत है।
+It's stupid.	Es ist dumm.	यह बेवकूफ है।
+It's urgent.	Es ist dringend.	यह अत्यावश्यक है।
+It's urgent. - 2	Es ist akut.	यह तत्कालीन है।
+It's urgent. - 3	Es ist eilig.	यह अत्यधिक महत्वपूर्ण है।
+Jump across.	Spring drüber.	ओछल जाओ।
