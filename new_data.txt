@@ -4529,3 +4529,9 @@ It was chilly.	Es war kalt.	यह सर्दी लग रही थी।
 It was ironic.	Es war ironisch.	यह व्यांग्यपूर्ण था।
 It was simple.	Es war einfach.	यह सरल था।
 It was stupid.	Es war dumm.	यह बेवकूफ था।
+It was superb.	Es war hervorragend.	यह शानदार था।
+It was urgent.	Es war wichtig.	यह जरूरी था।
+It won't hurt.	Es wird nicht schaden.	यह कोई नुकसान नहीं करेगा।
+It won't work.	Es wird nicht klappen.	यह काम नहीं करेगा।
+It works fine.	Es funktioniert gut.	यह ठीक काम करता है।
+It works well.	Es läuft gut.	यह अच्छे से काम करता है।
