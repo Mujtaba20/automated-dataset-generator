@@ -8359,3 +8359,12 @@ Don't overdo it.	Übertreib es nicht.	इसे ज्यादा मत कर
 Don't park here.	Hier nicht parken.	यहां नहीं पार्क करें।
 Don't play dead.	Tu nicht so, als wärst du tot.	मरा हुआ मत बनो।
 Don't play dumb!	Stell dich nicht dumm!	बेवकूफ बनना बंद करो!
+Don't play here.	Spiel hier nicht.	यहाँ नहीं खेलो।
+Don't remind me.	Denk nicht an mich.	मुझे याद दिलाओ मत।
+Don't resist us.	Widerstehen Sie uns nicht.	हमसे विरोध मत करो।
+Don't rub it in.	Reib es nicht rein.	इसे मत रगड़ो।
+Don't run risks.	Geh keine Risiken ein.	जोखिम न भरो।
+Don't shoot Tom.	Schieß nicht auf Tom.	टॉम पर न गोली चलाओ।
+Don't start yet.	Fange noch nicht an.	अभी तक शुरू मत करो।
+Don't stop here.	Halt hier nicht an.	यहाँ रोक नहीं।
+Don't tease Tom.	Ärgere Tom nicht.	टॉम को परेशान मत करो।
