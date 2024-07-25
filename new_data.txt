@@ -3854,3 +3854,13 @@ Even Tom lied.	Sogar Tom hat gelogen.	तोम ने भी झूठ बो�
 Everyone sang.	Jeder sang.	सबने गाया।
 Everyone wins.	Jeder gewinnt.	हर कोई जीतता है।
 Exhale slowly.	Langsam ausatmen.	धीरे सांस छोड़ें।
+Feed the bird!	Füttere den Vogel!	पंछी को खिलाओ!
+Feed the bird.	Füttere den Vogel.	पंछी को खिलाओ.
+Finish eating.	Hör auf zu essen.	खाना खतम करो.
+Fix the clock.	Repariere die Uhr.	घड़ी ठीक करो.
+Fix the watch.	Repariere die Uhr.	घड़ी बदलो.
+Flowers bloom.	Blumen blühen.	फूल खिलते हैं।
+Flying is fun.	Fliegen macht Spaß.	उड़ना मजेदार है।
+Fry me an egg.	Brate mir ein Ei.	मुझे एक अंडा तलकर दो।
+Get a move on!	Mach vorwärts!	आगे बढ़ो!
+Get a move on.	Beweg dich!	आगे बढ़ो।
