@@ -1,14 +1,4 @@
 
-Will you use this?	Wirst du das verwenden?	क्या आप इसका इस्तेमाल करेंगे?
-Will you use this?	Wirst du das benutzen?	क्या आप इसका इस्तेमाल करेंगे?
-Wind up the clock.	Zieh die Uhr auf.	घड़ी खींचो।
-Won't you join us?	Hast du Lust, bei uns mitzumachen?	क्या आप हमारे साथ भाग लेना चाहेंगे?
-Won't you tell me?	Willst du mir’s nicht sagen?	क्या आप मुझे बताना नहीं चाहते?
-Won't you tell me?	Willst du es mir nicht sagen?	क्या आप मुझे बताना नहीं चाहते हैं?
-Won't you tell me?	Willst du’s mir nicht sagen?	क्या आप मुझे बताना नहीं चाहते?
-Wood burns easily.	Holz ist leicht entzündlich.	लकड़ी आसानी से ज्वलनशील है।
-Wood is flammable.	Holz ist brennbar.	लकड़ी ज्वलनशील है।
-Woods burn easily.	Holz brennt leicht.	लकड़ी हल्के से जलती है।
 Would that be Tom?	Wäre das Tom?	क्या वह टॉम होगा?
 Wow! That's cheap!	Oh! Das ist billig!	ओह!यह सस्ता है!
 Wow, that's great.	Toll! Das ist großartig!	महान!यह बहुत अच्छा है!

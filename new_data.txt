@@ -19957,3 +19957,10 @@ Why'd you do that?	Warum hast du das getan?	तुमने ऐसा क्य�
 Will you marry me?	Willst du mich heiraten?	क्या तुम मुझसे शादी करोगे?
 Will you pay cash?	Wirst du bar bezahlen?	क्या आप नकद भुगतान करेंगे?
 Will you tell Tom?	Wirst du Tom erzählen?	क्या तुम टॉम को बताओगे?
+Will you use this?	Wirst du das verwenden?	क्या तुम इसका इस्तेमाल करेंगे?
+Wind up the clock.	Drehe die Uhr auf.	क्लॉक को बंद करो।
+Won't you join us?	Wirst du uns beitreten?	क्या आप हमारे साथ नहीं आएंगे?
+Won't you tell me?	Werden Sie mir das nicht sagen?	क्या आप मुझे नहीं बताएंगे?
+Wood burns easily.	Holz verbrennt leicht.	लकड़ी आसानी से जलती है।
+Wood is flammable.	Holz ist brennbar.	लकड़ी प्रज्वलनशील है।
+Woods burn easily.	Wälder brennen leicht.	जंगल आसानी से जलते हैं।
