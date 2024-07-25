@@ -4129,3 +4129,13 @@ I know people.	Ich kenne Leute.	मैं लोगों को जानता
 I know things.	Ich kenne Dinge.	मुझे चीजों का पता है।
 I led the way.	Ich habe den Weg geführt.	मैंने रास्ता दिखाया।
 I let it fall.	Ich ließ es fallen.	मैंने इसे गिरने दिया।
+I lied to Tom.	Ich habe Tom angelogen.	मैंने टॉम को झूठ बोला।
+I like Boston.	Ich mag Boston.	मुझे बोस्टन पसंद है।
+I like French.	Ich mag Französisch.	मुझे फ्रेंच पसंद है।
+I like apples.	Ich mag Äpfel.	मुझे सेब पसंद हैं।
+I like apples. (Different Meaning)	Ich mag Apfel.	मुझे सेब पसंद है।
+I like clocks.	Ich mag Uhren.	मुझे घड़ी पसंद है।
+I like donuts.	Ich mag Donuts.	मुझे डोनट्स पसंद हैं।
+I like garlic.	Ich mag Knoblauch.	मुझे लहसुन पसंद है।
+I like horses.	Ich mag Pferde.	मुझे घोड़े पसंद हैं।
+I like it hot.	Ich mag es heiß.	मुझे ये गर्म पसंद है।
