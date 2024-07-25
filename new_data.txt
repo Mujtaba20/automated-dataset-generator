@@ -8639,3 +8639,12 @@ I ache all over.	Ich habe überall Schmerzen.	मुझे सारे जग�
 I almost did it.	Ich habe es fast geschafft.	मैंने यह लगभग कर दिया था।
 I almost forgot.	Ich habe fast vergessen.	मुझे लगभग भूल गया था।
 I am a Japanese.	Ich bin aus Japan.	मैं जापान से हूं।
+I am a good boy.	Ich bin ein braver Junge.	मैं एक अच्छे लड़के हूँ।
+I am busy today.	Ich bin heute beschäftigt.	आज मैं व्यस्त हूँ।
+I am dead tired.	Ich bin hundemüde.	मैं मर रहा हूँ।
+I am dozing off.	Ich döse ein.	मैं सोने की कोशिश कर रहा हूँ।
+I am from Spain.	Ich komme aus Spanien.	मैं स्पेन से हूँ।
+I am from Tokyo.	Ich komme aus Tokio.	मैं टोक्यो से हूँ।
+I am in a hurry.	Ich habe es eilig.	मुझे जल्दी है।
+I am in trouble.	Ich bin in Schwierigkeiten.	मैं मुश्किल में हूँ।
+I am undressing.	Ich mache mich fertig.	मैं तैयारी कर रहा हूँ।
