@@ -16059,3 +16059,12 @@ He looks after us.	Er sorgt für uns.	वह हमारी देखभाल 
 He looks confused.	Er sieht verwirrt aus.	वह भ्रांत है।
 He lost his honor.	Er hat seine Ehre verloren.	उसने अपना सम्मान खो दिया।
 He made a mistake.	Er hat einen Irrtum begangen.	उसने एक गलती की।
+He made her happy.	Er hat sie glücklich gemacht.	उसने उसे खुश किया।
+He made me a cake.	Er hat mir einen Kuchen gemacht.	उसने मुझे एक केक बनाया।
+He made me a suit.	Er hat mir einen Anzug gemacht.	उसने मुझे एक सूट बनाया।
+He may come today.	Er darf heute kommen.	वह आज आ सकता है।
+He must find work.	Er muss Arbeit finden.	उसे काम ढूंढना होगा।
+He must have left.	Er muss gegangen sein.	उसको जाना चाहिए था।
+He needs a ladder.	Er braucht eine Leiter.	उसे एक सीढ़ी की जरुरत है।
+He never asked me.	Er hat mich nie gefragt.	उसने मुझसे कभी नहीं पूछा।
+He obviously lied.	Er hat offensichtlich gelogen.	वह स्पष्ट रूप से झूठ बोला।
