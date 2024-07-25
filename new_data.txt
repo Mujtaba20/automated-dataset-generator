@@ -5608,3 +5608,11 @@ Come sit by me.	Komm hier zu mir und setz dich.	मेरे पास आकर
 Cows eat grass.	Kühe essen Gras.	गायें घास खाती हैं।
 Cows give milk.	Kühe geben Milch.	गायें दूध देती हैं।
 Cut it in half.	Schneide es in der Mitte.	इसे आधे में काट दो।
+Cut the engine.	Motor abstellen.	इंजन काटें।
+Death is scary.	Tod ist furchterregend.	मौत डरावनी है।
+Did I say that?	Habe ich das gesagt?	क्या मैंने यह कहा था?
+Did Tom buy it?	Hat Tom es gekauft?	क्या टॉमने यह खरीदा था?
+Did Tom escape?	Ist Tom entkommen?	क्या टॉम फिरसे भाग गया?
+Did Tom notice?	Hat Tom bemerkt?	क्या टॉमने ध्यान दिया?
+Did Tom object?	Hat Tom widersprochen?	क्या टॉम कट्टरा?
+Did Tom see it?	Hat Tom es gesehen?	क्या टॉमने यह देखा था?
