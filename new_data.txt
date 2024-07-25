@@ -8097,3 +8097,6 @@ You're unlucky. (different meaning)	Du bist vom Pech verfolgt.	तुम बद�
 You're unusual.	Du bist ungewöhnlich.	तुम असाधारण हो।
 You're unusual. (different meaning)	Du bist außergewöhnlich.	तुम अनोखे हो।
 You're useless.	Du bist nutzlos.	तुम बेकार हो।
+You're wealthy.	Sie sind wohlhabend.	आप धनवान हैं।
+You're welcome.	Bitte sehr.	स्वागत है।
+You're winning.	Sie gewinnen.	आप जीत रहे हैं।
