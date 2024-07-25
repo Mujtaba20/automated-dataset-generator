@@ -19698,3 +19698,13 @@ What can I do now?	Was kann ich jetzt tun?	मैं अब क्या कर 
 What can't you do?	Was kannst du nicht tun?	तुम क्या नहीं कर सकते?
 What did Tom find?	Was hat Tom gefunden?	टॉम ने क्या खोजा?
 What did Tom have?	Was hatte Tom?	टॉम के पास क्या था?
+engSentence1	Was hat Tom versteckt?	टॉम ने क्या छुपाया?
+engSentence2	Was wusste Tom?	टॉम को क्या पता था?
+engSentence3	Was hat Tom genommen?	टॉम ने क्या लिया?
+engSentence4	Was wollte Tom?	टॉम चाहते क्या थे?
+engSentence5	Was haben sie gesagt?	उन्होंने क्या कहा?
+engSentence6	Was hast du gefunden?	तुमने क्या खोजा?
+engSentence7	Was hast du entdeckt?	तुमने क्या पाया?
+engSentence8	Was hast du herausgefunden?	तुमने क्या पता लगाया?
+engSentence9	Was hast du versteckt?	तुमने क्या छुपाया?
+engSentence10	Was hast du gemacht?	तुमने क्या बनाया?

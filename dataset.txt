@@ -1,16 +1,4 @@
 
-What did Tom hide?	Was versteckte Tom?	टॉम ने क्या छुपाया?
-What did Tom know?	Was wusste Tom?	टॉम को क्या पता था?
-What did Tom take?	Was hat Tom genommen?	टॉम ने क्या लिया?
-What did Tom want?	Was wollte Tom?	टॉम क्या चाहता था?
-What did they say?	Was haben sie gesagt?	क्या कहा आपने?
-What did you find?	Was habt ihr gefunden?	आपको क्या मिला?
-What did you find?	Was hast du gefunden?	आपने क्या पाया है?
-What did you find?	Was haben Sie gefunden?	आपको क्या मिला?
-What did you hide?	Was hast du versteckt?	तुमने क्या छिपाया?
-What did you make?	Was hast du gemacht?	आपने क्या किया?
-What did you make?	Was habt ihr gemacht?	क्या कर डाले?
-What did you make?	Was haben Sie gemacht?	क्या कर डाले?
 What did you miss?	Was hast du vermisst?	आपको क्या याद आया?
 What did you miss?	Was hast du verpasst?	आपको क्या याद आया?
 What did you pick?	Was haben Sie ausgesucht?	आपने क्या चुना?
