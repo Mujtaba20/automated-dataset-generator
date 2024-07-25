@@ -10024,3 +10024,11 @@ They grew angry.	Sie wurden wütend.	वे गुस्सा हो गए।
 They had a boat.	Sie hatten ein Boot.	उनके पास एक नाव थी।
 They helped Tom.	Sie halfen Tom.	उन्होंने टॉम की मदद की।
 They hugged Tom.	Sie umarmten Tom.	वे टॉम को गले लगा लिया।
+They ignored me.	Sie haben mich ignorierst.	उन्होंने मुझे नजरअंधा किया।
+They killed Tom.	Sie haben Tom getötet.	उन्होंने टॉम को मार डाला।
+They lied to us.	Sie haben uns angelogen.	उन्होंने हमें झूठ बोला।
+They live there.	Sie leben dort.	वे वहाँ रहते हैं।
+They look great.	Sie sehen toll aus.	वे बहुत अच्छे लगते हैं।
+They lost again.	Sie haben wieder verloren.	उन्होंने फिर से हार जाया।
+They meant well.	Sie meinten es gut.	उनका उद्देश्य अच्छा था।
+They missed Tom.	Sie haben Tom vermisst.	उन्होंने टॉम की याद की।
