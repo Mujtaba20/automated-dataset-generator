@@ -1348,3 +1348,9 @@ Turn it on.1	Dreh es auf.	इसे चालू करो।
 Turn it on.2	Mach es an.	इसे चालू करो।
 Turn it on.3	Schaltet es an.	इसे चालू करो।
 Turn it up.	Drehe es auf.	इसे ऊँचा करो।
+Turn right.	Biegen Sie rechts ab.	दाएं मुड़ें।
+Wait a sec.	Warte mal.	थोड़ी ही देर में।
+War is bad.	Krieg ist schlecht.	युद्ध बुरा है।
+Was it fun?	Hat es Spaß gemacht?	क्या यह मज़ेदार था?
+Watch this.	Schau das.	इसे देखो।
+We all die.	Wir sterben alle.	हम सब मरते हैं।
