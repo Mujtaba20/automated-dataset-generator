@@ -19781,3 +19781,12 @@ What's that smell?	Was ist dieser Geruch?	यह बदबू क्या ह�
 What's that sound?	Was ist dieser Klang?	वह कौनसी ध्वनि है?
 What's that stain?	Was ist dieser Fleck?	यह कैल क्या है?
 What's that thing?	Was ist das für ein Ding?	यह कौनसी चीज़ है?
+What's the matter?	Was ist los?	मुद्दा क्या है?
+What's the secret?	Was ist das Geheimnis?	राज क्या है?
+What's their plan?	Was ist ihr Plan?	उनकी योजना क्या है?
+What's this about?	Worum geht es hier?	यह किस बारे में है?
+What's this noise?	Was ist das für ein Lärm?	यह शोर क्या है?
+What's this smell?	Was ist das für ein Geruch?	यह सुगंध क्या है?
+What's this sound?	Was ist das für ein Klang?	यह ध्वनि क्या है?
+What's this stuff?	Was ist das für ein Zeug?	यह क्या सामान है?
+What's this thing?	Was ist das für ein Ding?	यह क्या चीज़ है?
