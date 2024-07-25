@@ -5459,3 +5459,13 @@ You look pale.	Du siehst blass aus.	तुम पीले लगते हो�
 You look sick.	Du siehst krank aus.	तुम बीमार लग रहे हो।
 You look sick.1	Sie sehen krank aus.	आप बीमार लग रहे हैं।
 You may enter.	Du darfst eintreten.	तुम अंदर आ सकते हो।
+You may go in.	Du darfst reingehen.	तुम अंदर जा सकते हो।
+You must stay.	Du musst bleiben.	तुम्हें रुकना चाहिए।
+You must work.	Du musst arbeiten.	तुम्हें काम करना है।
+You need help.	Du brauchst Hilfe.	तुम्हें मदद की ज़रुरत है।
+You need this.	Du brauchst das.	तुम्हें यह चाहिए।
+You never ask.	Du fragst nie.	तुम कभी नहीं पूछते।
+You ruined it.	Du hast es ruiniert.	तुमने इसे बर्बाद कर दिया।
+You seem busy.	Du scheinst beschäftigt zu sein.	तुम्हे व्यस्त लगते हो।
+You must rest.	Du musst dich ausruhen.	तुम्हें आराम करना चाहिए।
+You should apologize.	Du solltest dich entschuldigen.	तुम्हें माफ़ी मांगनी चाहिए।
