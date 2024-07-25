@@ -16493,3 +16493,11 @@ I have Monday off.	Ich habe Montag frei.	मेरे पास सोमवा�
 I have Tom's keys.	Ich habe Toms Schlüssel.	मेरे पास टॉम की चाबियां हैं।
 I have a backache.	Ich habe Rückenschmerzen.	मुझे पीठ दर्द है।
 I have a bad cold.	Ich habe eine schlimme Erkältung.	मेरे पास एक खराब सर्दी है।
+I have a big nose.	Ich habe eine große Nase.	मेरे पास एक बड़ी नाक है।
+I have a cold now.	Ich habe jetzt eine Erkältung.	अब मुझे जुकाम हुआ है।
+I have a computer.	Ich habe einen Computer.	मेरे पास एक कंप्यूटर है।
+I have a daughter.	Ich habe eine Tochter.	मेरी एक बेटी है।
+I have a fast car.	Ich habe ein schnelles Auto.	मेरे पास एक तेज गाड़ी है।
+I have a good job.	Ich habe einen guten Job.	मेरे पास एक अच्छी नौकरी है।
+I have a hangover.	Ich habe einen Kater.	मुझे एक हेंगओवर है।
+I have a headache.	Ich habe Kopfschmerzen.	मुझे सरदर्द है।
