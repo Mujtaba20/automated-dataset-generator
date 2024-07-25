@@ -11179,3 +11179,11 @@ engSentence7	Was mache ich?	मैं क्या कर रहा हूँ?
 engSentence8	Was soll ich tun?	मेरे क्या करना चाहिए?
 engSentence9	Was kommt als nächstes?	आगे क्या आने वाला है?
 engSentence10	Was kommt als nächstes?	उसके बाद क्या आता है?
+What did I miss?	Was habe ich verpasst?	मैंने क्या भूल गया?
+What did Tom do?	Was hat Tom gemacht?	टॉम ने क्या किया?
+What did he say?	Was hat er gesagt?	उसने क्या कहा?
+What did you do?	Was hast du gemacht?	तुमने क्या किया?
+What do they do?	Was machen sie?	वे क्या करते हैं?
+What do we have?	Was haben wir?	हमारे पास क्या है?
+What do we know?	Was wissen wir?	हमें क्या पता है?
+What do you say?	Was sagst du?	तुम क्या कहते हो?
