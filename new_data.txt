@@ -17855,3 +17855,8 @@ Sweet dreams, Tom.	Süße Träume, Tom.	मीठे सपने, टॉम।
 Take Tom downtown.	Take Tom in die Stadtmitte.	टॉम को शहर के केंद्र में ले जाओ।
 Take Tom upstairs.	Bring Tom nach oben.	टॉम को ऊपर ले जाओ।
 Take Tom with you.	Nimm Tom mit dir.	टॉम को अपने साथ ले जाओ।
+Take Tom's advice.	Folge Toms Rat.	टॉम की सलाह लो।
+Take Tom's weapon.	Nimm Toms Waffe.	टॉम का हथियार लो।
+Take a break, Tom.	Mach eine Pause, Tom.	टॉम, रुको।
+Take a wild guess.	Rate wild.	एक जंगली अनुमान लगाओ।
+Take care of this.	Kümmere dich darum.	इसकी देखभाल करो।

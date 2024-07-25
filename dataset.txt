@@ -1,14 +1,4 @@
 
-Take Tom's advice.	Folge Toms Ratschlag.	टॉम की सलाह का पालन करें।
-Take Tom's weapon.	Nimm Tom die Waffe ab.	टॉम को हथियार से हटाओ।
-Take Tom's weapon.	Nimm Toms Waffe.	टॉम का हथियार ले लो।
-Take a break, Tom.	Mach mal Pause, Tom.	एक ब्रेक ले लो, टॉम।
-Take a break, Tom.	Mach eine Pause, Tom.	एक ब्रेक ले लो, टॉम।
-Take a wild guess.	Rate einfach mal drauf los!	बस इससे छुटकारा पाओ!
-Take a wild guess.	Raten Sie einfach mal drauf los!	बस इसे जाने दो!
-Take care of this.	Kümmere dich darum!	उस का ख्याल रखना!
-Take care of this.	Kümmert euch darum!	उस का ख्याल रखना!
-Take care of this.	Kümmern Sie sich darum!	उस का ख्याल रखना!
 Take no prisoners.	Macht keine Gefangenen!	कैदी मत करो!
 Take off your cap.	Nimm deine Mütze ab.	अपनी टोपी उतारें।
 Take off your hat.	Nimm deinen Hut ab!	अपनी टोपी उतारें!
