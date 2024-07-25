@@ -3727,3 +3727,9 @@ Are they cops?	Sind sie Polizisten?	क्या वे पुलिस है�
 Are they dead?	Sind sie tot?	क्या वे मरे हुए हैं?
 Are they gone?	Sind sie weg?	क्या वे चले गए हैं?
 Are they here?	Sind sie hier?	क्या वे यहाँ हैं?
+Are they tall?	Sind sie groß?	क्या वे लंबे हैं?
+Are you a fan?	Bist du ein Verehrer?	क्या तुम एक प्रेमी हो?
+Are you alive?	Lebst du?	क्या तुम जीवित हो?
+Are you alone?	Bist du allein?	क्या तुम अकेले हो?
+Are you awake?	Bist du aufgewacht?	क्या तुम जाग रहे हो?
+Are you blind?	Bist du blind?	क्या तुम अंधे हो?
