@@ -16106,3 +16106,9 @@ He walked rapidly.	Er lief schnell.	वह तेज़ी से चला।
 He wants an apple.	Er möchte einen Apfel.	उसे एक सेब चाहिए।
 He was a tall man.	Er war ein großer Mann.	वह एक लम्बा आदमी था।
 He was all smiles.	Er strahlte über das ganze Gesicht.	वह सभी मुस्कानें थे।
+He was dead wrong.	Er war komplett falsch.	उसने पूरी तरह से गलत था।
+He was devastated.	Er war am Boden zerstört.	उसे तबाह कर दिया गया था।
+He was imprisoned.	Er wurde eingesperrt.	उसे जेल में बंद कर दिया गया था।
+He was very happy.	Er war sehr glücklich.	वह खुश था।
+He was very tired.	Er war sehr müde.	वह बहुत थका हुआ था।
+He was wide awake.	Er war hellwach.	वह बिल्कुल जागरूक था।
