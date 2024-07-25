@@ -9778,3 +9778,13 @@ Remove your hat.	Nimm deinen Hut ab.	अपनी टोपी उतारो�
 Repeat after me.	Wiederholen Sie nach mir.	मेरे बाद दोहराओ।
 Rules are rules.	Regeln sind Regeln.	नियम नियम होते हैं।
 Save me a donut.	Spar mir einen Donut.	मुझे एक डोनट बचाओ।
+Say no to drugs.	Sag nein zu Drogen.	मादक पदार्थों से इनकार करें।
+Say you love me.	Sag, du liebst mich.	कहो तुम मुझे प्यार करते हो।
+School bores me.	Die Schule langweilt mich.	मुझे स्कूल बोर करता है।
+Science is cool.	Wissenschaft ist cool.	विज्ञान बहुत शानदार है।
+Secure the area.	Sichern Sie den Bereich.	क्षेत्र को सुरक्षित करें।
+See what I mean?	Verstehst du, was ich meine?	क्या मेरा मतलब समझ रहे हो?
+See you at 2:30.	Wir sehen uns um 2:30 Uhr.	2:30 बजे मिलेंगे।
+See you at home.	Wir sehen uns zu Hause.	अपने घर पर मिलेंगे।
+See you tonight.	Wir sehen uns heute Abend.	आज रात देखेंगे।
+See you tonight. 1	Bis heute Abend.	आज रात मिलते हैं।
