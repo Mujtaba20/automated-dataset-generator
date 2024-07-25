@@ -17207,3 +17207,10 @@ Is Tom going, too?	Geht auch Tom?	क्या टॉम भी जा रहा
 Is Tom in on this?	Ist Tom dabei?	क्या टॉम इसमें शामिल है?
 Is Tom in trouble?	Ist Tom in Schwierigkeiten?	क्या टॉम मुश्किल में है?
 Is Tom interested?	Ist Tom interessiert?	क्या टॉम रुचि रखता है?
+Is Tom still here?	Ist Tom noch hier?	क्या टॉम अभी भी यहाँ है?
+Is Tom successful?	Ist Tom erfolgreich?	क्या टॉम सफल है?
+Is Tom there, too?	Ist Tom auch da?	क्या टॉम भी वहाँ है?
+Is anyone looking?	Sucht jemand?	क्या कोई देख रहा है?
+Is he kind to you?	Ist er nett zu dir?	क्या वह आपके प्रति दयालु है?
+Is it a good play?	Ist es ein gutes Stück?	क्या यह एक अच्छा नाटक है?
+Is it complicated?	Ist es kompliziert?	क्या यह जटिल है?
