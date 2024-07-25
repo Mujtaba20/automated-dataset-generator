@@ -18307,3 +18307,12 @@ Tom already knows.	Tom weiß es schon.	टॉम को पहले से प�
 Tom always agrees.	Tom ist immer einverstanden.	टॉम हमेशा सहमत होता है।
 Tom always snores.	Tom schnarcht immer.	टॉम हमेशा खर्राटे लेता है।
 Tom answered back.	Tom antwortete zurück.	टॉम ने पलटी भर्कणी दी।
+Tom appeared busy.	Tom schien beschäftigt zu sein.	टॉम व्यस्त लग रहा था।
+Tom appeared calm.	Tom schien ruhig zu sein.	टॉम शांत लग रहा था।
+Tom approved that.	Tom hat das genehmigt.	टॉम ने उसे मंजूरी दी।
+Tom arrived early.	Tom kam früh an.	टॉम जल्दी पहुंच गया।
+Tom arrived first.	Tom kam als Erster an.	टॉम सबसे पहले पहुंचा।
+Tom arrives today.	Tom kommt heute an.	टॉम आज आ रहा है।
+Tom ate all of it.	Tom aß alles davon.	टॉम ने सब खा लिया।
+Tom ate breakfast.	Tom frühstückte.	टॉम ने नाश्ता किया।
+Tom ate my cookie.	Tom aß meinen Keks.	टॉम ने मेरी कुकी खा ली।
