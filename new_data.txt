@@ -305,3 +305,8 @@ How rude!	Wie unhöflich!	कितना अकड़ा है!
 How cute! (alternate)	Wie süß!	इतना प्यारा!
 Humor me.	Humor mich.	मुझे मनोरंजन दें।
 Hurry up.	Auf geht's!	जल्दी करो।
+I can go.	Ich kann gehen.	मैं जा सकता हूँ।
+I cursed.	Ich fluchte.	मैंने शाप दिया।
+I cursed. Meaning 2	Ich verfluchte.	मैंने कोसा।
+I did it.	Ich habe es gemacht.	मैंने यह किया।
+I did it. Meaning 2	Ich tat es.	मैंने ऐसा किया।
