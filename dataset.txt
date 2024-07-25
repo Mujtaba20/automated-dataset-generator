@@ -1,14 +1,4 @@
 
-Have a good flight.	Guten Flug!	अच्छी उड़ान!
-Have a good summer.	Einen schönen Sommer!	गर्मीां अच्छी रहें!
-Have a look around.	Sieh dich um!	चारों ओर देखो!
-Have a nice flight.	Guten Flug!	अच्छी उड़ान!
-Have a nice flight.	Schönen Flug!	आपकी उड़ान मंगलमय हो!
-Have a safe flight.	Guten Flug!	अच्छी उड़ान!
-Have fun in Boston.	Viel Spaß in Boston!	बोस्टन में मज़े करो!
-Have fun with that.	Viel Spaß damit!	इसके साथ मजे करो!
-Have fun, you guys.	Ich wünsche euch viel Spaß!	मैं आपको बहुत मज़ा आता हूं!
-Have lunch with me.	Iss mit mir zu Mittag!	दोपहर में मेरे साथ खाओ!
 Have we met before?	Haben wir uns schon mal getroffen?	क्या हम कभी मिले हैं?
 Have you eaten yet?	Hast du schon gegessen?	क्या तुमने पहले ही खा लिया है?
 Have you eaten yet?	Habt ihr schon gegessen?	क्या आपने पहले से खाया है?

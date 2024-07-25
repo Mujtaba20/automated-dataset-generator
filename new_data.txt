@@ -20676,3 +20676,12 @@ Happy Thanksgiving!	Frohes Erntedankfest!	खुशहाल धन्यवा�
 Has Tom called yet?	Hat Tom schon angerufen?	क्या टॉमने पहले से ही कॉल किया है?
 Has Tom tried that?	Hat Tom das versucht?	क्या टॉमने एक कोशिश की है?
 Has he arrived yet?	Ist er schon angekommen?	क्या वह अभी तक पहुँच गया है?
+Have a good flight.	Einen guten Flug haben.	अच्छा उड़ान भरना।
+Have a good summer.	Einen schönen Sommer haben.	अच्छा गर्मी बिताना।
+Have a look around.	Schau dich um.	चारों ओर देखो।
+Have a nice flight.	Eine schöne Reise haben.	अच्छी उड़ान हो।
+Have a safe flight.	Eine sichere Reise haben.	सुरक्षित उड़ान हो।
+Have fun in Boston.	Viel Spaß in Boston haben.	बॉस्टन में मज़ा करो।
+Have fun with that.	Viel Spaß damit haben.	उसके साथ मज़ा करो।
+Have fun, you guys.	Viel Spaß, Leute.	मज़ा करो, तुम लोग।
+Have lunch with me.	Mittagessen mit mir haben.	मेरे साथ लंच करो।
