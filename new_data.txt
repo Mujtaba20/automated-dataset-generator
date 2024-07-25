@@ -15535,3 +15535,9 @@ Are you happy now?	Bist du jetzt glücklich?	क्या अब तुम ख�
 Are you home, too?	Bist du auch zu Hause?	क्या तुम भी घर पर हो?
 Are you important?	Bist du wichtig?	क्या तुम महत्वपूर्ण हो?
 Are you impressed?	Bist du beeindruckt?	क्या तुम प्रभावित हो?
+Are you impulsive?	Bist du impulsiv?	क्या तुम उतावले हो?
+Are you in Boston?	Bist du in Boston?	क्या तुम बॉस्टन में हो?
+Are you in a band?	Bist du in einer Band?	क्या तुम एक बैंड में हो?
+Are you in a rush?	Hast du es eilig?	क्या तुम जल्दी में हो?
+Are you in danger?	Bist du in Gefahr?	क्या तुम खतरे में हो?
+Are you inventive?	Bist du erfinderisch?	क्या तुम आविष्कारशील हो?
