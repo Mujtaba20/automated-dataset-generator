@@ -8216,3 +8216,7 @@ Can you be sure?	Kannst du sicher sein?	क्या आप पक्के ह�
 Can you chip in?	Kannst du mithelfen?	क्या आप मदद कर सकते हैं?
 Can you do that?	Kannst du das machen?	क्या तुम ऐसा कर सकते हो?
 Can you do that? (different meaning)	Kannst du das verstehen?	क्या तुम वह कर सकते हो?
+Can you do this?	Kannst du das hier machen?	क्या आप इसे कर सकते हैं?
+Can you find it?	Können Sie es finden?	क्या आप इसे ढूंढ सकते हैं?
+Can you hear it?	Können Sie das hören?	क्या आप यह सुन सकते हैं?
+Can you hear me?	Können Sie mich hören?	क्या आप मुझे सुन सकते हैं?
