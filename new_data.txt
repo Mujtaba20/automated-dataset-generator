@@ -9176,3 +9176,10 @@ I'll get my car. (different meaning)	Ich werde mein Auto reparieren.	मैं �
 I'll go and see.	Ich werde gehen und sehen.	मैं जाकर देखूंगा।
 I'll go and see. (different meaning)	Ich werde hingehen und nachsehen.	मैं जाऊंगा और देखूंगा।
 I'll go ask Tom.	Ich werde Tom fragen gehen.	मैं टॉम से पूछने जाऊंगा।
+I'll go by taxi.	Ich werde mit dem Taxi fahren.	मैं टैक्सी से जाऊंगा।
+I'll go do that.	Ich werde das machen.	मैं वह करूंगा।
+I'll go get Tom.	Ich werde Tom holen.	मैं टॉम को लेने जाऊंगा।
+I'll handle Tom.	Ich werde Tom handhaben.	मैं टॉम का सामना करूंगा।
+I'll inform Tom.	Ich werde Tom informieren.	मैं टॉम को सूचित करूंगा।
+I'll keep watch.	Ich werde Wache halten.	मैं नजर रखूंगा।
+I'll look it up.	Ich werde nachschauen.	मैं इसे देखूंगा।
