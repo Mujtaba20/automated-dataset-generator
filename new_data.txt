@@ -7749,3 +7749,11 @@ Tom, don't die.	Tom, stirb nicht.	टॉम, मत मरो।
 Trust your gut.	Haben Sie Vertrauen in Ihren Bauch.	अपनी आंतरिक आत्मा पर विश्वास करें।
 Try once again.	Probier es noch einmal.	एक बार फिर से कोशिश करें।
 Try this candy.	Probier diese Bonbons.	इस मिठाई को आजमाओ।
+Try this sauce.	Probieren Sie diese Soße.	इस सॉस को आज़माएं।
+Turn on the TV.	Schalten Sie den Fernseher ein.	टीवी को चालू करें।
+Turn up the TV.	Stellen Sie den Fernseher lauter.	टीवी की आवाज़ ऊपर ले जाएं।
+Use your charm.	Nutze deinen Charme.	अपनी चर्म इस्तेमाल करें।
+Wait, you guys.	Warte, ihr Leute.	रुको, तुम लोग।
+War isn't good.	Krieg ist nicht gut.	युद्ध अच्छा नहीं है।
+Try this sauce. (Different Meaning)	Versuchen Sie diese Soße.	इस सॉस को प्रयास करें।
+Turn up the TV. (Different Meaning)	Drehen Sie den Fernseher hoch.	टीवी को ऊपर करें।
