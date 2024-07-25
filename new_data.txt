@@ -9507,3 +9507,11 @@ It's a pheasant.	Es ist ein Fasan.	यह एक मोर है।
 It's a shortcut.	Es ist eine Abkürzung.	यह एक शॉर्टकट है।
 It's a surprise.	Es ist eine Überraschung.	यह एक अचानकी है।
 It's about time.	Es wird langsam Zeit.	यह अब समय का हुआ।
+It's acceptable.	Es ist annehmbar.	यह स्वीकार्य है।
+It's all I have.	Es ist alles, was ich habe.	यह मेरा सब कुछ है।
+It's all I need.	Es ist alles, was ich brauche.	यह मेरे लिए सब है।
+It's all I want.	Es ist alles, was ich will.	यह मेरी सभी इच्छाएं हैं।
+It's almost six.	Es ist fast sechs.	यह लगभग छः बजे है।
+It's been tried.	Es wurde versucht.	इसपे प्रयास किया गया है।
+It's cold today.	Es ist heute kalt.	आज ठंड है।
+It's cool today.	Heute ist es kühl.	आज सुखद है।
