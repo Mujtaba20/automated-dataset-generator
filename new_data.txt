@@ -13980,3 +13980,12 @@ Tom chose wisely.	Tom wählte klug aus.	टॉम ने समझदारी �
 Tom clearly lied.	Tom hat klar gelogen.	टॉम ने स्पष्ट झूठ बोला।
 Tom climbed down.	Tom ist heruntergeklettert.	टॉम नीचे चढ़ गया।
 Tom concentrated.	Tom konzentrierte sich.	टॉम ध्यान दिया।
+Tom convinced me.	Tom hat mich überzeugt.	टॉम ने मुझे मनाया।
+Tom cooks for us.	Tom kocht für uns.	टॉम हमारे लिए खाना पकाता है।
+Tom corrected it.	Tom hat es korrigiert.	टॉम ने इसे सुधारा।
+Tom corrected it. (different meaning)	Tom hat es berichtigt.	टॉम ने इसे सही किया।
+Tom could refuse.	Tom konnte ablehnen.	टॉम इनकार कर सकता था।
+Tom created this.	Tom hat das erstellt.	टॉम ने यह बनाया।
+Tom created this. (different meaning)	Tom hat dies geschaffen.	टॉम ने यह बनाया।
+Tom cut Mary off.	Tom hat Mary abgeschnitten.	टॉम ने मेरी को काट दिया।
+Tom decorated it.	Tom hat es dekoriert.	टॉम ने इसे सजाया।
