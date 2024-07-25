@@ -1,14 +1,4 @@
 
-Tom is hysterical.	Tom ist hysterisch.	टॉम हिस्टेरिकल है।
-Tom is illiterate.	Tom ist Analphabet.	टॉम अनपढ़ है।
-Tom is impressive.	Tom ist beeindruckend.	टॉम प्रभावशाली है।
-Tom is in a hurry.	Tom hat es eilig.	टॉम जल्दी में है।
-Tom is in a hurry.	Tom ist in Eile.	टॉम जल्दी में है।
-Tom is in college.	Tom ist Student.	टॉम एक छात्र है।
-Tom is in his car.	Tom sitzt in seinem Wagen.	टॉम अपनी कार में बैठता है।
-Tom is in the car.	Tom ist im Auto.	टॉम कार में है।
-Tom is in trouble.	Tom ist in Schwierigkeiten.	टॉम मुसीबत में है।
-Tom is in trouble.	Tom steckt in Schwierigkeiten.	टॉम मुसीबत में है।
 Tom is incredible.	Tom ist unglaublich.	टॉम अविश्वसनीय है।
 Tom is indecisive.	Tom ist unentschlossen.	टॉम अनिर्दिष्ट है।
 Tom is indiscreet.	Tom ist indiskret.	टॉम अश्वारोही है।

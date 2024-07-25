@@ -18671,3 +18671,10 @@ Tom is home early.	Tom ist früh zu Hause.	टॉम जल्दी घर प�
 Tom is hot-headed.	Tom ist hitzköpfig.	टॉम गरम दिमागी है।
 Tom is humiliated.	Tom ist gedemütigt.	टॉम शर्मिंदा है।
 Tom is hungry now.	Tom ist jetzt hungrig.	टॉम अब भूखा है।
+Tom is hysterical.	Tom ist hysterisch.	टॉम पागल है।
+Tom is illiterate.	Tom ist analphabet.	टॉम अक्षर जानेवाला नहीं है।
+Tom is impressive.	Tom ist beeindruckend.	टॉम प्रभावशाली है।
+Tom is in a hurry.	Tom hat es eilig.	टॉम जल्दी में है।
+Tom is in college.	Tom ist im College.	टॉम कॉलेज में है।
+Tom is in his car.	Tom ist in seinem Auto.	टॉम अपनी कार में है।
+Tom is in trouble.	Tom ist in Schwierigkeiten.	टॉम मुश्किल में है।
