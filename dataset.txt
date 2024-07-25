@@ -1,14 +1,4 @@
 
-Does Tom know that?	Weiß Tom das?	क्या टॉम को पता है?
-Does Tom know this?	Weiß Tom das?	क्या टॉम को पता है?
-Does Tom like Mary?	Mag Tom Maria?	क्या टॉम मारिया को पसंद है?
-Does Tom like fish?	Mag Tom Fisch?	मैग टॉम मछली?
-Does Tom like golf?	Mag Tom Golf?	मैग टॉम गोल्फ?
-Does Tom live here?	Wohnt Tom hier?	क्या टॉम यहाँ रहता है?
-Does Tom live here?	Lebt Tom hier?	क्या टॉम यहाँ रहता है?
-Does Tom sing well?	Singt Tom gut?	टॉम अच्छी तरह से गाओ?
-Does Tom want that?	Will Tom das?	क्या टॉम ऐसा चाहेंगे?
-Does Tom want this?	Will Tom das?	क्या टॉम ऐसा चाहेंगे?
 Does Tom work here?	Arbeitet Tom hier?	क्या टॉम यहाँ काम करता है?
 Does he have money?	Hat er Geld?	क्या उसके पास पैसा है?
 Does it hurt a lot?	Tut es sehr weh?	क्या इससे बहुत दुख होता है?

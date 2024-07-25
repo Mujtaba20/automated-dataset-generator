@@ -20464,3 +20464,12 @@ Does Tom eat a lot?	Isst Tom viel?	क्या टॉम बहुत खात
 Does Tom have kids?	Hat Tom Kinder?	क्या टॉम के बच्चे हैं?
 Does Tom help Mary?	Hilft Tom Mary?	क्या टॉम मेरी की मदद करता है?
 Does Tom know Mary?	Kennt Tom Mary?	क्या टॉम को मेरी पहचानता है?
+Does Tom know that?	Weiß Tom das?	क्या टॉम यह जानता है?
+Does Tom know this?	Kennt Tom das?	क्या टॉम यह जानता है?
+Does Tom like Mary?	Mag Tom Mary?	क्या टॉम को मेरी पसंद है?
+Does Tom like fish?	Mag Tom Fisch?	क्या टॉम को मछली पसंद है?
+Does Tom like golf?	Mag Tom Golf?	क्या टॉम को गोल्फ पसंद है?
+Does Tom live here?	Wohnt Tom hier?	क्या टॉम यहाँ रहता है?
+Does Tom sing well?	Singt Tom gut?	क्या टॉम अच्छा गाता है?
+Does Tom want that?	Will Tom das?	क्या टॉम वह चाहता है?
+Does Tom want this?	Will Tom dies?	क्या टॉम यह चाहता है?
