@@ -1,14 +1,4 @@
 
-You're so selfish.	Du bist so egoistisch!	तुम बहुत स्वार्थी हो!
-You're successful.	Sie sind erfolgreich.	आप सफल हैं।
-You're such a pig.	Du bist so ein Ferkel!	आप ऐसे पिगलेट हैं!
-You're such a pig.	Du bist so ein Schwein!	तुम ऐसे सुअर हो!
-You're surrounded.	Sie sind umzingelt.	वे घिरे हुए हैं।
-You're surrounded.	Du bist umzingelt.	आप घिरे हुए हैं।
-You're surrounded.	Ihr seid umzingelt.	आप घिरे हुए हैं।
-You're telling me.	Was erzählst du mir?	तुम मुझे क्या बता रहे हो?
-You're the doctor.	Du bist der Arzt.	आप डॉक्टर हैं।
-You're the doctor.	Du bist die Ärztin.	आप डॉक्टर हैं।
 You're the expert.	Du bist der Experte.	आप विशेषज्ञ हैं।
 You're the expert.	Du bist die Expertin.	आप विशेषज्ञ हैं।
 You're the expert.	Du bist der Fachmann.	आप विशेषज्ञ हैं।

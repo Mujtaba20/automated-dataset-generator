@@ -20193,3 +20193,11 @@ You're overworked.	Du arbeitest zu viel.	तुम बहुत ज्याद�
 You're reasonable.	Du bist vernünftig.	तुम तर्कसंगत हो।
 You're safer here.	Hier bist du sicherer.	यहाँ आप सुरक्षित हैं।
 You're scaring me.	Du erschreckst mich.	तुम मुझे डरा रहे हो।
+You're so selfish.	Du bist so egoistisch.	तुम इतने स्वार्थी हो।
+You're successful.	Du bist erfolgreich.	तुम सफल हो।
+You're such a pig.	Du bist so ein Schwein.	तुम एक भालू हो।
+You're such a pig. (Different Meaning)	Du bist so ein Mistkerl.	तुम कमीने हो।
+You're surrounded.	Du bist umgeben.	तुम घिरे हुए हो।
+You're surrounded. (Different Meaning)	Du bist umzingelt.	तुम चारों ओर से घेरे हुए हो।
+You're telling me.	Du sagst es mir.	तुम मुझसे कह रहे हो।
+You're the doctor.	Du bist der Arzt.	तुम डॉक्टर हो।
