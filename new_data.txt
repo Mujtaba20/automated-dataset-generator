@@ -10947,3 +10947,12 @@ Tom won't do it.	Tom wird es nicht tun.	टॉम यह नहीं करे�
 Tom won't leave.	Tom wird nicht gehen.	टॉम नहीं जाएगा।
 Tom wore gloves.	Tom trug Handschuhe.	टॉम ने दस्ताने पहने थे।
 Tom worked hard.	Tom hat hart gearbeitet.	टॉम ने मेहनत की।
+Tom worked here.	Tom hat hier gearbeitet.	टॉम यहाँ काम कर रहा था।
+Tom works alone.	Tom arbeitet alleine.	टॉम अकेला काम करता है।
+Tom works there.	Tom arbeitet dort.	टॉम वहाँ काम करता है।
+Tom would agree.	Tom würde zustimmen.	टॉम सहमत होगा।
+Tom would leave.	Tom würde gehen.	टॉम छोड़ देगा।
+Tom writes well.	Tom schreibt gut.	टॉम अच्छा लिखता है।
+Tom'll be ready.	Tom wird bereit sein.	टॉम तैयार हो जाएगा।
+Tom'll find out.	Tom wird herausfinden.	टॉम बाहर निकल जाएगा।
+Tom'll remember.	Tom wird sich erinnern.	टॉम याद रखेगा।
