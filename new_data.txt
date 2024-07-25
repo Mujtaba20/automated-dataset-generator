@@ -19453,3 +19453,10 @@ Tom's still a kid.	Tom ist immer noch ein Kind.	अब भी टॉम बच�
 Tom's wife called.	Toms Frau hat angerufen.	टॉम की पत्नी ने कॉल किया।
 Tom, are you okay?	Tom, geht es dir gut?	टॉम, तुम ठीक हो?
 Tom, where are we?	Tom, wo sind wir?	टॉम, हम कहाँ हैं?
+Tomorrow's payday.	Morgen ist Zahltag.	कल पे वेके दिन है।
+Try and calm down.	Probiere ruhig zu bleiben.	कोशिश करो और शांत हो जाओ।
+Try it once again.	Versuch es noch einmal.	एक बार फिर से कोशिश करो।
+Try on that shirt.	Probier dieses Hemd an.	उस शर्ट को ट्राई करो।
+Try to look ahead.	Versuche vorauszublicken.	आगे देखने की कोशिश करो।
+Try to stay awake.	Versuche wach zu bleiben.	जागते रहो का प्रयास करें।
+Turn back, please.	Kehr um, bitte.	कृपया पीछे मुड़ जाएं।
