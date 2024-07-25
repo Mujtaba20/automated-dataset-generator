@@ -14276,3 +14276,13 @@ Tom is out there.	Tom ist draußen.	टॉम वहाँ है।
 Tom is outspoken.	Tom ist offenherzig.	टॉम खुलकर बात करते हैं।
 Tom is overjoyed.	Tom ist überglücklich.	टॉम बहुत खुश हैं।
 Tom is paralyzed.	Tom ist gelähmt.	टॉम लकवा है।
+Tom is perplexed.	Tom ist verwirrt.	टॉम विस्मित है।
+Tom is plastered.	Tom ist verputzt.	टॉम सैंडर हुआ है।
+Tom is possessed.	Tom ist besessen.	टॉम काबिल है।
+Tom is powerless.	Tom ist machtlos.	टॉम अशक्त है।
+Tom is practical.	Tom ist praktisch.	टॉम व्यावहारिक है।
+Tom is qualified.	Tom ist qualifiziert.	टॉम अहसासक है।
+Tom is quiet now.	Tom ist jetzt ruhig.	टॉम अब चुप है।
+Tom is quite old.	Tom ist ziemlich alt.	टॉम काफी पुराना है।
+Tom is quite shy.	Tom ist ziemlich schüchtern.	टॉम काफी शर्मीला है।
+Tom is ready now.	Tom ist jetzt bereit.	टॉम तैयार है।
