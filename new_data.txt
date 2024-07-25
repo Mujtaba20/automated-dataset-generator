@@ -6201,3 +6201,13 @@ I need to swim.	Ich muss schwimmen.	मुझे तैरना है।
 I need to work.	Ich muss arbeiten.	मुझे काम करना है।
 I need you now.	Ich brauche dich jetzt.	मुझे अब तुम्हारी जरूरत है।
 I never saw it.	Ich habe es nie gesehen.	मैंने कभी नहीं देखा था।
+I noticed that.	Ich habe das bemerkt.	मैंने यह जान लिया।
+I now know why.	Jetzt weiß ich warum.	अब मुझे पता है क्यों।
+I often hiccup.	Ich habe oft Schluckauf.	मुझे अक्सर फिसलाने की आवाज़ आती है।
+I often hiccup. (different meaning)	Ich habe oft Schluckauf.	मैं अक्सर फिसलती हूँ।
+I often travel.	Ich reise oft.	मैं अक्सर यात्रा करता हूँ।
+I owe him $100.	Ich schulde ihm 100 Dollar.	मुझे उसके पास 100 डॉलर देने हैं।
+I own this car.	Ich besitze dieses Auto.	मेरे पास यह कार है।
+I own this car. (different meaning)	Ich gehöre zu diesem Auto.	यह कार मेरी है।
+I paid in cash.	Ich habe bar bezahlt.	मैंने नकद में भुगतान किया।
+I paid nothing.	Ich habe nichts bezahlt.	मैंने कुछ नहीं भुगतान किया।
