@@ -4350,3 +4350,12 @@ I'll try that.	Ich werde das versuchen.	मैं यह कोशिश कर�
 I'll warn Tom.	Ich werde Tom warnen.	मैं टॉम को चेताऊंगा।
 I'll watch TV.	Ich werde fernsehen.	मैं टीवी देखूँगा।
 I'll watch it.	Ich werde es beobachten.	मैं यह देखूँगा।
+I'm Tom's dad.	Ich bin Toms Vater.	मैं टॉम के पिता हूँ।
+I'm Tom's mom.	Ich bin Toms Mutter.	मैं टॉम की मां हूँ।
+I'm a colonel.	Ich bin ein Oberst.	मैं एक कर्नल हूँ।
+I'm a cripple.	Ich bin ein Krüppel.	मैं एक लंगड़ा हूँ।
+I'm a dentist.	Ich bin Zahnarzt.	मैं एक दंत चिकित्सक हूँ।
+I'm a fireman.	Ich bin Feuerwehrmann.	मैं एक फायरमैन हूँ।
+I'm a man now.	Ich bin jetzt ein Mann.	अब मैं एक आदमी हूँ।
+I'm a painter.	Ich bin Maler.	मैं एक चित्रकार हूँ।
+I'm a patient.	Ich bin Patient.	मैं एक रोगी हूँ।
