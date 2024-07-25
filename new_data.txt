@@ -12497,3 +12497,13 @@ I like pop music.	Ich mag Popmusik.	मुझे पॉप संगीत प�
 I like red roses.	Ich mag rote Rosen.	मुझे लाल गुलाब पसंद है।
 I like surprises.	Ich mag Überraschungen.	मुझे अचानकी पसंद है।
 I like that flag.	Ich mag diese Flagge.	मुझे वह झंडा पसंद है।
+I like that, too.	Das gefällt mir auch.	मुझे वह भी अच्छा लगता है।
+I like the beach.	Ich mag den Strand.	मुझे समुद्रतट पसंद है।
+I like them both.	Ich mag sie beide.	मुझे दोनों पसंद है।
+I like them both. (different meaning)	Ich mag sie beide auch.	मुझे दोनों का भी पसंद है।
+I like this book.	Ich mag dieses Buch.	मुझे यह किताब पसंद है।
+I like this city.	Ich mag diese Stadt.	मुझे यह शहर पसंद है।
+I like this room.	Ich mag dieses Zimmer.	मुझे यह कमरा पसंद है।
+I like this town.	Ich mag diese Stadt.	मुझे यह गाँव पसंद है।
+I like this town. (different meaning)	Ich mag diese Stadt auch.	मुझे यह गाँव भी पसंद है।
+I like traveling.	Ich mag reisen.	मुझे यात्रा करना पसंद है।
