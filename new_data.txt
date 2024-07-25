@@ -13112,3 +13112,12 @@ It sounds simple.	Es klingt einfach.	यह सरल लगता है।
 It still happens.	Es passiert immer noch.	यह अभी भी होता है।
 It takes courage.	Es braucht Mut.	साहस चाहिए।
 It took too long.	Es dauerte zu lange.	यह बहुत अधिक समय लिया।
+It was a hot day.	Es war ein heißer Tag.	यह एक गर्म दिन था।
+It was a mistake.	Es war ein Fehler.	यह एक गलती थी।
+It was good news.	Es waren gute Nachrichten.	यह अच्छी खबर थी।
+It was hilarious.	Es war urkomisch.	यह बहुत हंसी का साधना था।
+It was his fault.	Es war seine Schuld.	यह उसकी गलती थी।
+It was so simple.	Es war so einfach.	यह इतना सरल था।
+It was stressful.	Es war stressig.	यह तनावपूर्ण था।
+It was the truth.	Es war die Wahrheit.	यह सच्चाई थी।
+It was too small.	Es war zu klein.	यह बहुत छोटा था।
