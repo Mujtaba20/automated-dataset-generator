@@ -1,14 +1,4 @@
 
-She's fashionable.	Sie ist modebewusst.	यह फैशन है।
-She's from France.	Sie kommt aus Frankreich.	वह फ्रांस से आती है।
-She's got a point.	Sie hat ein gutes Argument.	उसका एक अच्छा तर्क है।
-She's hyperactive.	Sie ist überaktiv.	यह अति सक्रिय है।
-She's in the bath.	Sie ist in der Badewanne.	यह बाथटब में है।
-She's in the well.	Sie ist im Brunnen.	यह फव्वारे में है।
-She's my daughter.	Sie ist meine Tochter.	वह मेरी बेटी है।
-She's not a child.	Sie ist kein Kind.	वह बच्चा नहीं है।
-She's not my type.	Sie ist nicht mein Typ.	वह मेरा प्रकार नहीं है।
-She's not my type.	Sie ist nicht mein Fall.	यह मेरा मामला नहीं है।
 She's open-minded.	Sie ist aufgeschlossen.	यह खुला है।
 She's our teacher.	Sie ist unsere Lehrerin.	वह हमारी शिक्षक है।
 She's rather good.	Sie ist ziemlich gut.	वह बहुत अच्छी है।

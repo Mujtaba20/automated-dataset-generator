@@ -17788,3 +17788,13 @@ She's a bit naive.	Sie ist ein bisschen naiv.	वह थोड़ी भोल�
 She's a good liar.	Sie ist eine gute Lügnerin.	वह एक अच्छी झूठी है।
 She's a night owl.	Sie ist eine Nachteule.	वह एक रात की उल्लू है।
 She's a woman now.	Sie ist jetzt eine Frau.	वह अब एक महिला है।
+She's fashionable.	Sie ist modisch.	वह फैशनेबल है।
+She's from France.	Sie kommt aus Frankreich.	वह फ्रांस से है।
+She's got a point.	Sie hat einen Punkt.	उसका संकेत है।
+She's hyperactive.	Sie ist hyperaktiv.	वह उत्तेजित है।
+She's in the bath.	Sie ist im Bad.	वह स्नान कर रही है।
+She's in the well.	Sie ist im Brunnen.	वह कुआं में है।
+She's my daughter.	Sie ist meine Tochter.	वह मेरी बेटी है।
+She's not a child.	Sie ist kein Kind.	वह एक बच्ची नहीं है।
+She's not my type.	Sie entspricht nicht meinem Typ.	वह मेरे प्रकार की नहीं है।
+She's not my type. - Different Meaning	Sie ist nicht mein Typ.	वह मेरा प्रकार नहीं है।
