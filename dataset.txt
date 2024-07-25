@@ -1,14 +1,4 @@
 
-Do you want to sit?	Magst du dich hinsetzen?	क्या आपको बैठना पसंद है
-Do you want to try?	Willst du’s mal versuchen?	क्या आप इसे करने की कोशिश करना चाहते हैं?
-Do your gums bleed?	Haben Sie Zahnfleischbluten?	क्या आपको मसूड़ों से खून बह रहा है?
-Doctors save lives.	Ärzte retten Leben.	डॉक्टर जीवन बचाते हैं।
-Does Tom cry often?	Weint Tom oft?	टॉम अक्सर रोता है?
-Does Tom drink tea?	Trinkt Tom Tee?	टॉम चाय पिएं?
-Does Tom eat a lot?	Isst Tom viel?	क्या टॉम बहुत खाता है?
-Does Tom have kids?	Hat Tom Kinder?	क्या टॉम के बच्चे हैं?
-Does Tom help Mary?	Hilft Tom Maria?	क्या टॉम मारिया मदद करता है?
-Does Tom know Mary?	Kennt Tom Maria?	क्या टॉम मारिया को पता है?
 Does Tom know that?	Weiß Tom das?	क्या टॉम को पता है?
 Does Tom know this?	Weiß Tom das?	क्या टॉम को पता है?
 Does Tom like Mary?	Mag Tom Maria?	क्या टॉम मारिया को पसंद है?

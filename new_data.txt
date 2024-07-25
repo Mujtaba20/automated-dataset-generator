@@ -20454,3 +20454,13 @@ Do you want a ride?	Willst du eine Fahrt?	क्या तुम एक सव�
 Do you want it now?	Willst du es jetzt?	क्या तुम अब चाहते हो?
 Do you want to eat?	Möchtest du essen?	क्या आप खाना खाना चाहते हैं?
 Do you want to see?	Möchtest du sehen?	क्या आप देखना चाहते हैं?
+Do you want to sit?	Möchten Sie sich setzen?	क्या आप बैठना चाहते हैं?
+Do you want to try?	Möchten Sie es versuchen?	क्या आप कोशिश करना चाहेंगे?
+Do your gums bleed?	Bluten deine Zahnfleisch?	क्या आपके मसूढ़े बहते हैं?
+Doctors save lives.	Ärzte retten Leben.	डॉक्टर जिंदगी बचाते हैं।
+Does Tom cry often?	Weint Tom oft?	क्या टॉम अक्सर रोता है?
+Does Tom drink tea?	Trinkt Tom Tee?	क्या टॉम चाय पीता है?
+Does Tom eat a lot?	Isst Tom viel?	क्या टॉम बहुत खाता है?
+Does Tom have kids?	Hat Tom Kinder?	क्या टॉम के बच्चे हैं?
+Does Tom help Mary?	Hilft Tom Mary?	क्या टॉम मेरी की मदद करता है?
+Does Tom know Mary?	Kennt Tom Mary?	क्या टॉम को मेरी पहचानता है?
