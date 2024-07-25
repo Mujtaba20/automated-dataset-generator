@@ -13768,3 +13768,10 @@ The wound healed.	Die Wunde heilte.	जख्म भर गया।
 There is no hope.	Es gibt keine Hoffnung.	कोई आशा नहीं है।
 There's no doubt.	Es besteht kein Zweifel.	कोई संदेह नहीं है।
 There's no hurry.	Es besteht keine Eile.	जल्दी की कोई जरुरत नहीं है।
+There's no limit.	Es gibt kein Limit.	कोई सीमा नहीं है।
+There's no proof.	Es gibt keinen Nachweis.	कोई सबूत नहीं है।
+There's no sugar.	Es gibt keinen Zucker.	कोई चीनी नहीं है।
+There's no water.	Es gibt kein Wasser.	कोई पानी नहीं है।
+There's the bell.	Da ist die Klingel.	घंटी है।
+These are my CDs.	Das sind meine CDs.	ये मेरी सीडी हैं।
+They all cheated.	Sie haben alle betrogen.	उन सभी ने धोखा दिया।
