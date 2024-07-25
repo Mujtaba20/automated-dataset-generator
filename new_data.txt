@@ -16435,3 +16435,11 @@ I felt very happy.	Ich fühlte mich sehr glücklich.	मैंने बहु�
 I finally escaped.	Ich bin endlich entkommen.	मैं आखिरकार भाग गया।
 I finally gave up.	Ich habe endlich aufgegeben.	मैंने आखिरकार हार मान ली।
 I forget her name.	Ich habe ihren Namen vergessen.	मैंने उसका नाम भूल गया है।
+I forget his name.	Ich vergesse seinen Namen.	मैं उसका नाम भूल रहा हूँ।
+I forgot her name.	Ich habe ihren Namen vergessen.	मैंने उसका नाम भूल गया।
+I forgot his name.	Ich habe seinen Namen vergessen.	मैंने उसका नाम भूल गया।
+I forgot my scarf.	Ich habe meinen Schal vergessen.	मैंने अपना स्कार्फ भूल गया।
+I forgot my tools.	Ich habe meine Werkzeuge vergessen.	मैंने अपने उपकरण भूल गये।
+I forgot the book.	Ich habe das Buch vergessen.	मैंने किताब भूल गई।
+I forgot to shave.	Ich habe das Rasieren vergessen.	मैंने बाल काटना भूल गया।
+I found Tom there.	Ich habe Tom dort gefunden.	मैंने वहां टॉम को पाया।
