@@ -8321,3 +8321,12 @@ Do you think so?	Meinst du das ernst?	क्या आप इसे सोचत
 Do you trust me?	Glaubst du mir?	क्या तुम मुझपर भरोसा करते हो?
 Do you want Tom?	Willst du Tom?	क्या तुम टॉम चाहते हो?
 Do you want any?	Willst du irgendetwas?	क्या तुम कुछ भी चाहते हो?
+Do you want him?	Möchtest du ihn?	क्या तुम चाहते हो उसे?
+Do you watch TV?	Siehst du fern?	क्या तुम टीवी देखते हो?
+Does he like me?	Mag er mich?	क्या वह मुझे पसंद करता है?
+Does it look OK?	Sieht es gut aus?	क्या यह ठीक दिख रहा है?
+Does that count?	Zählt das?	क्या वह गिनने में आता है?
+Does this count?	Zählt das?	क्या यह गिनने में आता है?
+Don't apologize.	Entschuldigen Sie sich nicht.	माफ़ी मत मांगो।
+Don't be a baby.	Sei kein Baby.	बच्चा मत बनो।
+Don't be a fool.	Sei nicht dumm.	मूर्ख मत बनो।
