@@ -2261,3 +2261,12 @@ We must run.	Wir müssen rennen.	हमें भागना चाहिए।
 We need Tom.	Wir brauchen Tom.	हमें टॉम की जरुरत है।
 We need you.	Wir brauchen dich.	हमें तुम्हारी जरुरत है।
 We must go.	Wir müssen gehen.	हमें जाना चाहिए।
+We promised.	Wir haben versprochen.	हमने वादा किया।
+We remember.	Wir erinnern uns.	हम स्मरण करते हैं।
+We sat down.	Wir haben uns hingesetzt.	हम बैठ गए।
+We stole it.	Wir haben es gestohlen.	हमने यह चुराया।
+We survived.	Wir haben überlebt.	हम बच गए।
+We want Tom.	Wir wollen Tom.	हमें टॉम चाहिए।
+We want one.	Wir wollen eins.	हमें एक चाहिए।
+We'll be OK.	Es wird uns gut gehen.	हम ठीक रहेंगे।
+We'll check.	Wir werden überprüfen.	हम जांच करेंगे।
