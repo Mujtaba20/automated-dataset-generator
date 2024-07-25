@@ -20241,3 +20241,10 @@ Am I confusing you?	Verwirre ich dich?	क्या मैं आपको ग�
 Am I seeing things?	Sehe ich Dinge?	क्या मैं वस्तुएं देख रहा हूँ?
 An idea came to me.	Eine Idee kam mir.	मुझे एक विचार आया।
 Another day passed.	Ein weiterer Tag verging.	एक और दिन बीत गया।
+Answer my question.	Beantworten Sie meine Frage.	मेरा सवाल उत्तर दें।
+Anyone can do that.	Jeder kann das tun.	कोई भी वह कर सकता है।
+Anyone want coffee?	Möchte jemand Kaffee?	कोई कॉफ़ी चाहेगा?
+Are meals included?	Sind Mahlzeiten enthalten?	भोजन समायोजित हैं?
+Are they satisfied?	Sind sie zufrieden?	क्या वे संतुष्ट हैं?
+Are we leaving now?	Gehen wir jetzt?	क्या हम अब निकल रहे हैं?
+Are you a Buddhist?	Bist du ein Buddhist?	क्या तुम बौद्ध हो?
