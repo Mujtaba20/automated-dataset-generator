@@ -11758,3 +11758,7 @@ Don't be alarmed.	Nicht alarmiert sein.	चिंतित न हो।
 Don't be foolish.	Sei nicht dumm.	मूर्ख न बनो।
 Don't be nervous.	Sei nicht nervös.	घबराओ मत।
 Don't be so lazy.	Sei nicht so faul.	इतने आलसी मत रहो।
+Don't be so sure.	Sei nicht so sicher.	इतना पक्का मत हो
+Don't be worried.	Machen Sie sich keine Sorgen.	चिंता मत करो
+Don't bother Tom.	Ärgere Tom nicht.	टॉम को परेशान मत करो
+Don't come again.	Komm nicht wieder.	फिर से मत आना
