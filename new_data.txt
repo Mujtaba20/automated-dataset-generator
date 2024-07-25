@@ -13460,3 +13460,13 @@ Please let me go.	Bitte lass mich gehen.	कृपया मुझे जान�
 Please let me in.	Bitte lasst mich eintreten.	कृपया मुझे अंदर जाने दें।
 Please phone him.	Bitte rufe ihn an.	कृपया उसे फोन करो।
 Please sign here.	Bitte hier unterschreiben.	कृपया यहाँ हस्ताक्षर करें।
+Please step back.	Bitte treten Sie zurück.	कृपया पीछे हटें।
+Please turn over.	Bitte umdrehen.	कृपया उल्टी करें।
+Please wait here.	Bitte warten Sie hier.	कृपया यहाँ रुकें।
+Please wait here. (different meaning)	Bitte hier warten.	कृपया यहाँ इंतजार करें।
+Prepare yourself.	Bereite dich vor.	अपने आप को तैयार करें।
+Prepare yourself. (different meaning)	Mach dich bereit.	अपने आप को तैयार करो।
+Pump up the tire.	Luft aufpumpen.	टायर फुलाओ।
+Pump up the tire. (different meaning)	Reifen aufpumpen.	टायर उठाओ।
+Put on your coat.	Zieh deinen Mantel an.	अपनी कोट पहनो।
+Put the box down.	Stellen Sie die Box ab.	बक्सा नीचे रखें।
