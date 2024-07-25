@@ -18546,3 +18546,11 @@ Tom has no choice.	Tom hat keine Wahl.	टॉम के पास कोई व�
 Tom has no excuse.	Tom hat keine Ausrede.	टॉम के पास कोई बहाना नहीं है।
 Tom has potential.	Tom hat Potential.	टॉम में क्षमता है।
 Tom has recovered.	Tom hat sich erholt.	टॉम ठीक हो गया है।
+Tom has remarried.	Tom hat wieder geheiratet.	टॉम फिर से शादी कर ली है।
+Tom has to be hot.	Tom muss heiß sein.	टॉम को गरम होना चाहिए।
+Tom has to go now.	Tom muss jetzt gehen.	टॉम को अब जाना है।
+Tom hasn't called.	Tom hat nicht angerufen.	टॉम ने फोन नहीं किया है।
+Tom hated himself.	Tom hasste sich selbst.	टॉम ने खुद को नफरत की।
+Tom hated spinach.	Tom hasste Spinat.	टॉम को पालक से नफरत थी।
+Tom hates carrots.	Tom hasst Karotten.	टॉम को गाजरों से नफरत है।
+Tom hates dancing.	Tom hasst tanzen.	टॉम को नृत्य से नफरत है।

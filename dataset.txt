@@ -1,14 +1,4 @@
 
-Tom has remarried.	Tom hat wieder geheiratet.	टॉम ने फिर से शादी कर ली।
-Tom has to be hot.	Tom muss es heiß sein.	टॉम गर्म होना चाहिए।
-Tom has to go now.	Tom muss jetzt gehen.	टॉम को अब जाना है।
-Tom hasn't called.	Tom hat noch nicht angerufen.	टॉम ने अभी तक नहीं बुलाया है।
-Tom hasn't called.	Tom hat nicht angerufen.	टॉम ने फोन नहीं किया।
-Tom hated himself.	Tom hasste sich selbst.	टॉम खुद से नफरत करता था।
-Tom hated spinach.	Tom hasste Spinat.	टॉम को पालक से नफरत थी।
-Tom hates carrots.	Tom hasst Karotten.	टॉम गाजर से नफरत करता है।
-Tom hates carrots.	Tom hasst Möhren.	टॉम गाजर से नफरत करता है।
-Tom hates dancing.	Tom hasst tanzen.	टॉम को नृत्य करने से नफरत है।
 Tom hates himself.	Tom hasst sich selbst.	टॉम खुद से नफरत करता है।
 Tom hates his job.	Tom hasst seine Arbeit.	टॉम अपने काम से नफरत करता है।
 Tom hates insects.	Tom hasst Insekten.	टॉम कीटों से नफरत करता है।
