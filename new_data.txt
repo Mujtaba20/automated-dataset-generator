@@ -11998,3 +11998,12 @@ He left the room.	Er ist aus dem Zimmer gegangen.	उसने कमरे क�
 He lied about it.	Er hat darüber gelogen.	उसने इसके बारे में झूठ बोला।
 He likes animals.	Er mag Tiere.	उसे जानवर पसंद है।
 He likes fishing.	Er mag das Angeln.	उसे मछली पकड़ना पसंद है।
+He likes hunting.	Er mag die Jagd.	उसे शिकार करना पसंद है।
+He likes oranges.	Er mag Orangen.	वह संतरे पसंद करता है।
+He likes to cook.	Er kocht gerne.	उसे खाना पकाना पसंद है।
+He likes to hunt.	Er geht gerne auf die Jagd.	वह शिकार करने का शौकीन है।
+He likes to swim.	Er schwimmt gerne.	वह तैरने का शौकीन है।
+He looks healthy.	Er sieht gesund aus.	वह स्वस्थ दिखता है।
+He looks his age.	Er sieht seinem Alter entsprechend aus.	वह अपने उम्र के हिसाब से दिखता है।
+He loves animals.	Er liebt Tiere.	वह जानवरों से प्यार करता है।
+He loves fishing.	Er liebt das Angeln.	उसे मछली पकड़ना पसंद है।
