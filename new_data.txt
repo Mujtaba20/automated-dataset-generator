@@ -14892,3 +14892,12 @@ Tom's phone rang.	Toms Telefon klingelte.	टॉम के फोन बजा�
 Tom's quite good.	Tom ist ziemlich gut.	टॉम काफी अच्छा है।
 Tom's suspicious.	Tom ist verdächtig.	टॉम का संदेहजनक है।
 Tom's time is up.	Toms Zeit ist um.	टॉम का समय खत्म हो गया है।
+Tom's undefeated.	Tom ist unbesiegbar.	टॉम अजित है।
+Tom's unreliable.	Tom ist unzuverlässig.	टॉम अविश्वसनीय है।
+Tom's very fussy.	Tom ist sehr wählerisch.	टॉम बहुत चिंती है।
+Tom, don't leave.	Tom, bleib hier.	टॉम, छोड़ मत।
+Tom, hurry it up.	Tom, mach schnell.	टॉम, जल्दी करो।
+Tom, is that you?	Tom, bist du das?	टॉम, यह तू है?
+Tom, stop it, OK?	Tom, hör auf, okay?	टॉम, यह नकाम रहेगा, ठीक है?
+Torture is wrong.	Folter ist falsch.	पीड़ा गलत है।
+Toss me the ball.	Wirf mir den Ball zu.	मुझे गेंद फेंको।
