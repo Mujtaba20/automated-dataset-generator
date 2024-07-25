@@ -6926,3 +6926,8 @@ Take your coat.	Nimm deinen Mantel.	अपनी कोट लो।
 Take your shot.	Mach deinen Wurf.	अपना शॉट लें।
 Take your time.	Nehmen Sie sich Zeit.	अपना समय लें।
 Tell everybody.	Informiere alle.	हर को सूचित करो।
+Tell me a joke.	Erzähl mir einen Witz.	मुझे एक चुटकुला सुनाओ।
+Tell the truth.	Sag die Wahrheit.	सच बोलो।
+Tell us a joke.	Erzähl uns einen Witz.	हमें एक चुटकुला सुनाओ।
+That is a boat.	Das ist ein Boot.	वह एक नाव है।
+That is my dog.	Das ist mein Hund.	यह मेरा कुत्ता है।
