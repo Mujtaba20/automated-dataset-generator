@@ -17354,3 +17354,11 @@ It wasn't serious.	Es war nicht ernsthaft.	यह गंभीर नहीं �
 It will grow back.	Es wird wieder wachsen.	यह फिर से उगेगा।
 It won't help you.	Es wird dir nicht helfen.	यह आपकी मदद नहीं करेगा।
 It worked for Tom.	Es hat bei Tom funktioniert.	टॉम के लिए काम किया।
+It'll come to you.	Es wird zu dir kommen.	यह तुम्हारे पास आएगा।
+It'll confuse him.	Es wird ihn verwirren.	यह उसको गलतफहमी में डालेगा।
+It's Monday today.	Heute ist Montag.	आज सोमवार है।
+It's October 20th.	Es ist der 20. Oktober.	यह 20 अक्टूबर है।
+It's Tom's office.	Es ist Toms Büro.	यह टॉम का कार्यालय है।
+It's a bit greasy.	Es ist ein bisschen fettig.	यह थोड़ा चिकना है।
+It's a bit wobbly.	Es ist ein bisschen wackelig.	यह थोड़ा हिलता है।
+It's a cargo ship.	Es ist ein Frachtschiff.	यह एक भारी जहाज है।

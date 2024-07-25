@@ -1,15 +1,4 @@
 
-It'll come to you.	Es wird dir noch einfallen.	आप इसके बारे में सोचेंगे।
-It'll confuse him.	Das wird ihn verwirren.	वह उसे भ्रमित करेगा।
-It's Monday today.	Heute ist Montag.	आज सोमवार हे।
-It's October 20th.	Es ist der 20. Oktober.	यह 20 अक्टूबर है।
-It's Tom's office.	Das ist Toms Büro.	यह टॉम का कार्यालय है।
-It's a bit greasy.	Es ist ein bißchen fettig.	यह थोड़ा चिकना है।
-It's a bit greasy.	Es ist ein wenig fettig.	यह थोड़ा चिकना है।
-It's a bit greasy.	Es ist etwas fettig.	यह थोड़ा चिकना है।
-It's a bit wobbly.	Es ist ein bisschen wacklig.	यह थोड़ा अस्थिर है।
-It's a cargo ship.	Das ist ein Frachtschiff.	यह एक कार्गो जहाज है।
-It's a cargo ship.	Das ist ein Frachter.	यह एक फ्रीटर है।
 It's a cloudy day.	Es ist ein bewölkter Tag.	यह एक बादल का दिन है।
 It's a dictionary.	Es ist ein Wörterbuch.	यह एक शब्दकोश है।
 It's a good movie.	Das ist ein guter Film.	यह एक अच्छी फिल्म है।
