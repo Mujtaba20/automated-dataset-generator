@@ -19820,3 +19820,11 @@ Where are you now?	Wo bist du jetzt?	तुम अभी कहाँ हो?
 Where can we meet?	Wo können wir uns treffen?	हम कहाँ मिल सकते हैं?
 Where can we park?	Wo können wir parken?	हम कहाँ पार्क कर सकते हैं?
 Where could he be?	Wo könnte er sein?	वह कहाँ हो सकता है?
+Where did Tom eat?	Wo hat Tom gegessen?	टॉम ने कहाँ खाया?
+Where did they go?	Wohin sind sie gegangen?	वे कहाँ गए थे?
+Where did you eat?	Wo hast du gegessen?	तुमने कहाँ खाया?
+Where did you eat? (different meaning)	Wo habt ihr gegessen?	तुमने कहाँ खाया?
+Where do we start?	Wo fangen wir an?	हम कहाँ से शुरुआत करें?
+Where do you live?	Wo wohnst du?	तुम कहाँ रहते हो?
+Where do you live? (different meaning)	Wo verweilst du?	तुम कहाँ ठहरते हो?
+Where do you park?	Wo parkst du?	तुम कहाँ पार्क करते हो?

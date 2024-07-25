@@ -1,15 +1,4 @@
 
-Where did Tom eat?	Wo hat Tom gegessen?	टॉम ने कहाँ खाया?
-Where did they go?	Wo gingen sie hin?	आप कहा चले गए थे?
-Where did you eat?	Wo hast du gegessen?	आपने कहाँ खाया?
-Where did you eat?	Wo haben Sie gegessen?	आपने कहाँ खाया?
-Where do we start?	Wo fangen wir an?	हम कहाँ शुरू करें?
-Where do you live?	Wo lebst du?	आप कहाँ रहते हैं?
-Where do you live?	Wo wohnst du?	आप कहाँ रहते हैं?
-Where do you live?	Wo wohnen Sie?	आप कहाँ रहते हैं?
-Where do you live?	Wo wohnt ihr?	आप कहाँ रहते हैं?
-Where do you park?	Wo stellst du deinen Wagen ab?	आप अपनी कार कहां डालते हैं?
-Where do you park?	Wo parken Sie?	आप कहाँ पार्क करते हैं?
 Where do you work?	Wo arbeitest du?	आप कहां काम करते हैं?
 Where do you work?	Wo arbeitet ihr?	आप कहां काम करते हैं?
 Where do you work?	Wo arbeiten Sie?	आप कहां काम करते हैं?
