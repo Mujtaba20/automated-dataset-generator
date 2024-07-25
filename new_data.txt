@@ -16322,3 +16322,13 @@ I can't stand Tom.	Ich kann Tom nicht ausstehen.	मुझे टॉम नह�
 I can't stand him.	Ich kann ihn nicht leiden.	मैं उसे सहन नहीं कर सकता।
 I can't swim well.	Ich kann nicht gut schwimmen.	मैं अच्छे से तैर नहीं सकता।
 I can't trust Tom.	Ich kann Tom nicht vertrauen.	मैं टॉम पर भरोसा नहीं कर सकता।
+I can't trust him.	Ich kann ihm nicht vertrauen.	मैं उस पर भरोसा नहीं कर सकता।
+I can't trust you.	Ich kann dir nicht vertrauen.	मैं तुम पर भरोसा नहीं कर सकता।
+I can't work here.	Ich kann hier nicht arbeiten.	मैं यहाँ काम नहीं कर सकता।
+I cannot help you.	Ich kann dir nicht helfen.	मैं तुम्हें मदद नहीं कर सकता।
+I cannot help you. (alternate meaning)	Ich kann Sie nicht unterstützen.	मैं आपकी सहायता नहीं कर सकता।
+I cannot help you. (alternate meaning 2)	Ich kann dir nicht behilflich sein.	मैं तुम्हें मदद नहीं कर सकता।
+I cannot pray now.	Ich kann jetzt nicht beten.	मैं अब प्रार्थना नहीं कर सकता।
+I cannot stop her.	Ich kann sie nicht aufhalten.	मैं उसे रोक नहीं सकता।
+I cannot stop him.	Ich kann ihn nicht stoppen.	मैं उसे रोक नहीं सकता।
+I care about that.	Das ist mir wichtig.	मुझे उसकी चिंता है।
