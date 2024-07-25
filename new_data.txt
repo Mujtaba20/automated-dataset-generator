@@ -3423,3 +3423,13 @@ Tom may come.	Tom darf kommen.	टॉम आ सकता है।
 Tom may sing.	Tom kann singen.	टॉम गा सकता है।
 Tom may stay.	Tom darf bleiben.	टॉम रुक सकता है।
 Tom meant it.	Tom meinte es ernst.	टॉम इसे गंभीरता से लिया।
+Tom met Mary.	Tom traf Mary.	टॉम ने मेरी से मिली
+Tom might go.	Tom könnte gehen.	टॉम जा सकता है।
+Tom needs it.	Tom braucht es.	टॉम को इसकी जरुरत है।
+Tom needs us.	Tom braucht uns.	टॉम को हमें चाहिए।
+Tom objected.	Tom widersprach.	टॉम आपत्ति जाहिर करा।
+Tom objected.1	Tom protestierte.	टॉम विरोध किया।
+Tom objected.2	Tom hatte Einwände.	टॉम असम्मति दर्ज करता।
+Tom panicked.	Tom geriet in Panik.	टॉम घबराया।
+Tom panicked.1	Tom war in Panik.	टॉम आतंकित हुआ।
+Tom panicked.2	Tom bekam Panik.	टॉम को भय हुआ।
