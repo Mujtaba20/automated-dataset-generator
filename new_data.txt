@@ -14527,3 +14527,13 @@ Tom may have won.	Tom könnte gewonnen haben.	टॉमने जीत सक�
 Tom may not come.	Tom könnte nicht kommen.	टॉम शायद ना आए।
 Tom may not know.	Tom könnte es nicht wissen.	टॉम को संभावित है कि पता नहीं हो।
 Tom mentioned it.	Tom erwähnte es.	टॉमने इसे उल्लेख किया।
+Tom might object.	Tom könnte Einwände haben.	टॉम को आपत्ति हो सकती है।
+Tom might've won.	Tom hätte gewonnen haben können.	टॉम जीत गया हो सकता है।
+Tom moved closer.	Tom rückte näher.	टॉम नजदीक बढ़ गया।
+Tom must be dead.	Tom muss tot sein.	टॉम की मौत होनी चाहिए।
+Tom must be nuts.	Tom muss verrückt sein.	टॉम पागल होना चाहिए।
+Tom must be rich.	Tom muss reich sein.	टॉम अमीर होना चाहिए।
+Tom must be sick.	Tom muss krank sein.	टॉम बीमार होना चाहिए।
+Tom must've died.	Tom muss gestorben sein.	टॉम की मौत हो गई होगी।
+Tom must've left.	Tom muss gegangen sein.	टॉम चला गया होगा।
+Tom needed money.	Tom brauchte Geld.	टॉम को पैसे की जरुरत थी।
