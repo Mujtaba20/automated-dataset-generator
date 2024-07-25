@@ -4778,3 +4778,8 @@ She runs fast.	Sie rennt schnell.	वह तेजी से दौड़ती 
 She wants him.	Sie will ihn.	उसे वह चाहिए।
 She was brave.	Sie war mutig.	वह बहादुर थी।
 She was livid.	Sie war außer sich.	वह प्रकोपित थी।
+She was naive.	Sie war gutgläubig.	उसे विश्वासी थी।
+She was young.	Sie war jung.	वह जवान थी।
+She went home.	Sie kehrte nach Hause zurück.	उसने घर वापस चली गई।
+She's a cutie.	Sie ist bezaubernd.	वह प्यारी है।
+She's dieting.	Sie macht Diät.	वह डाइटिंग कर रही है।
