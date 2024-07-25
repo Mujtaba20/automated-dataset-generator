@@ -5697,3 +5697,4 @@ Don't touch me.	Fass mich nicht an.	मुझे मत छूना।
 Don't watch TV.	Schau kein Fernsehen.	टीवी मत देखो।
 Don't you know?	Weißt du nicht?	तुम्हें पता नहीं है?
 Eat everything.	Iss alles.	सब कुछ खा लो।
+EngSentence		
