@@ -16888,3 +16888,12 @@ I want more money.	Ich moechte mehr Geld.	मुझे और पैसे च�
 I want some money.	Ich moechte etwas Geld.	मुझे कुछ पैसे चाहिए।
 I want some paper.	Ich moechte etwas Papier.	मुझे कुछ कागज चाहिए।
 I want some water.	Ich moechte etwas Wasser.	मुझे कुछ पानी चाहिए।
+I want ten plates	Ich möchte zehn Teller.	मुझे दस प्लेट चाहिए।
+I want this phone	Ich möchte dieses Telefon.	मुझे यह फोन चाहिए।
+I want to be rich	Ich möchte reich sein.	मैं धनवान बनना चाहता हूँ।
+I want to be sure	Ich möchte sicher sein.	मुझे सुनिश्चित होना है।
+I want to come in	Ich möchte reinkommen.	मुझे अंदर आना है।
+I want to do that	Ich möchte das machen.	मैं वही करना चाहता हूँ।
+I want to do this	Ich möchte das tun.	मैं यह करना चाहता हूँ।
+I want to eat now	Ich möchte jetzt essen.	मुझे अब खाना है।
+I want to give up	Ich möchte aufgeben.	मैं हारना चाहता हूँ।
