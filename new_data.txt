@@ -2300,3 +2300,12 @@ We're saved.	Wir sind gerettet.	हम बच गए हैं।
 We're sorry.	Es tut uns leid.	हमें माफ कर दो।
 We're stuck.	Wir stecken fest.	हम फंसे हुए हैं।
 We're tired.	Wir sind müde.	हम थक गए हैं।
+We're upset.	Wir sind verärgert.	हम उदास हैं।
+We're young.	Wir sind jung.	हम युवा हैं।
+What a bore!	Was für eine langweilige Person!	कितना उकट इंसान!
+What a dump.	Was für eine Müllhalde!	महासागर क्या है।
+What a loss!	Was für ein Verlust!	क्या नुकसान!
+What a mess!	Was für ein Durcheinander!	कितना गंदा है!
+What a pity!	Was für ein Jammer!	कितनी खेद!
+What a team!	Was für ein Team!	कितनी टीम!
+What an ego!	Was für ein Ego!	जितना अहंकार!
