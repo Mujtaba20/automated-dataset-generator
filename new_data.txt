@@ -18893,3 +18893,12 @@ Tom laughed again.	Tom lachte wieder.	टॉम फिर से हंसा।
 Tom laughed aloud.	Tom lachte laut.	टॉम जोर से हंसा।
 Tom laughed at me.	Tom lachte über mich.	टॉम मेरे मजाक उड़ाया।
 Tom left after me.	Tom ging nach mir.	टॉम मेरे बाद चला गया।
+Tom left his wife.	Tom hat seine Frau verlassen.	टॉम ने अपनी पत्नी को छोड़ दिया।
+Tom left the room.	Tom hat den Raum verlassen.	टॉम ने कक्ष छोड़ दी।
+Tom lent it to me.	Tom hat es mir geliehen.	टॉम ने मुझे इसे उधार दिया।
+Tom lied about it.	Tom hat darüber gelogen.	टॉम ने इसके बारे में झूठ बोला।
+Tom lifts weights.	Tom hebt Gewichte.	टॉम वजन उठाता है।
+Tom liked it, too.	Tom mochte es auch.	टॉम को यह भी पसंद था।
+Tom likes animals.	Tom mag Tiere.	टॉम को जानवर पसंद है।
+Tom likes blondes.	Tom mag Blondinen.	टॉम को ब्लॉन्ड पसंद है।
+Tom likes camping.	Tom mag Camping.	टॉम को कैम्पिंग पसंद है।

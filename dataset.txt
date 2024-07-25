@@ -1,14 +1,4 @@
 
-Tom left his wife.	Tom hat seine Frau verlassen.	टॉम ने अपनी पत्नी को छोड़ दिया।
-Tom left the room.	Tom verließ das Zimmer.	टॉम कमरे से बाहर निकला।
-Tom lent it to me.	Tom hat es mir geliehen.	टॉम ने इसे उधार लिया।
-Tom lied about it.	Tom log diesbezüglich.	इस संबंध में टॉम लॉग।
-Tom lifts weights.	Tom hebt Gewichte.	टॉम वज़न उठाता है।
-Tom liked it, too.	Tom mochte es auch.	टॉम को भी यह पसंद आया।
-Tom likes animals.	Tom mag Tiere.	टॉम को जानवर पसंद हैं।
-Tom likes blondes.	Tom mag Blondhaarige.	टॉम को गोरा पसंद है।
-Tom likes blondes.	Tom mag Blondinen.	टॉम को गोरे पसंद हैं।
-Tom likes camping.	Tom zeltet gerne.	टॉम को तम्बू पसंद है।
 Tom likes carrots.	Tom mag Karotten.	टॉम को गाजर पसंद है।
 Tom likes country.	Tom mag Country.	टॉम मैग देश।
 Tom likes farming.	Tom mag die Landwirtschaft.	टॉम को कृषि पसंद है।
