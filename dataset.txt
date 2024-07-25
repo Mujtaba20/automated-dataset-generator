@@ -1,16 +1,4 @@
 
-When are you busy?	Wann bist du beschäftigt?	आप कब व्यस्त हैं
-When are you busy?	Wann seid ihr beschäftigt?	आप कब व्यस्त हैं?
-When are you busy?	Wann sind Sie beschäftigt?	आप कब व्यस्त हैं?
-When are you free?	Wann hast du Zeit?	आपके समय कब होता है?
-When did Tom sing?	Wann hat Tom gesungen?	टॉम ने कब गाया?
-When did it occur?	Wann ist das passiert?	वह कब हुआ?
-When did you know?	Wann hast du davon erfahren?	आपको इसके बारे में कब पता चला?
-When did you know?	Wann habt ihr davon erfahren?	आपको इसके बारे में कब पता चला?
-When did you know?	Wann haben Sie davon erfahren?	आपको इसके बारे में कब पता चला?
-When did you sing?	Wann hast du gesungen?	आपने कब गाया?
-When did you sing?	Wann habt ihr gesungen?	आपने कब गाया?
-When did you sing?	Wann haben Sie gesungen?	आपने कब गाया?
 When do we arrive?	Wann kommen wir an?	हम कब पहुंचते हैं?
 When do you close?	Wann schließen Sie?	आप कब बंद करते हैं?
 When do you study?	Wann lernst du?	आप अध्ययन काब करते हैं?

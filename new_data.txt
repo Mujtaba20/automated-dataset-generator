@@ -19798,3 +19798,9 @@ What's your point?	Was ist dein Standpunkt?	तुम्हारा मतल�
 What's your price?	Was ist dein Preis?	तुम्हारी कीमत क्या है?
 What's your price? (alternate translation)	Wie viel kostet es?	तुम्हारी कीमत क्या है?
 What've you found?	Was hast du gefunden?	तुम्हें क्या मिला है?
+When are you busy?	Wann bist du beschäftigt?	तुम कब व्यस्त हो?
+When are you free?	Wann hast du Zeit?	तुम कब फ्री हो?
+When did Tom sing?	Wann hat Tom gesungen?	टॉम ने कब गाया था?
+When did it occur?	Wann ist es passiert?	यह कब हुआ?
+When did you know?	Wann hast du es erfahren?	तुम्हें कब पता चला?
+When did you sing?	Wann hast du gesungen?	तुमने कब गाया?
