@@ -16210,3 +16210,9 @@ How does Tom know?	Wie weiß Tom?	टॉम को कैसे पता है
 How does Tom look?	Wie sieht Tom aus?	टॉम कैसा दिखता है?
 How good are they?	Wie gut sind sie?	वे कितने अच्छे हैं?
 How heavy are you?	Wie schwer bist du?	तुम कितने भारी हो?
+How is the family?	Wie geht es der Familie?	परिवार कैसा है?
+How long are they?	Wie groß sind sie?	वे कितने लंबे हैं?
+How lucky you are!	Wie glücklich du bist!	तुम कितने भाग्यशाली हो!
+How many are left?	Wie viele sind übrig?	बचे हुए कितने हैं?
+How much are they?	Wie viel kosten sie?	वे कितने हैं?
+How much do I owe?	Wie viel schulde ich?	मुझे कितना उधार चुकाना होगा?
