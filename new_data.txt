@@ -12615,3 +12615,13 @@ I need to go now.	Ich muss jetzt gehen.	मुझे अभी जाना ह�
 I need your help.	Ich brauche deine Hilfe.	मुझे तुम्हारी मदद चाहिए।
 I need your help. (different meaning)	Ich benötige Ihre Unterstützung.	मुझे तुम्हारे सहायता की आवश्यकता है।
 engSentence		
+I paid attention.	Ich habe aufgepasst.	मैंने ध्यान दिया।
+I play in a band.	Ich spiele in einer Band.	मैं एक बैंड में खेलता हूँ।
+I play the drums.	Ich spiele Schlagzeug.	मैं ढोल बजाता हूँ।
+I play the flute.	Ich spiele die Flöte.	मैं बांसुरी बजाता हूँ।
+I play the piano.	Ich spiele Klavier.	मैं पियानो बजाता हूँ।
+I pointed at him.	Ich habe auf ihn gezeigt.	मैंने उस पर इशारा किया।
+I prefer reading.	Ich lese lieber.	मुझे पढ़ना अधिक पसंद है।
+I prefer to read.	Ich ziehe es vor zu lesen.	मैं पढ़ना पसंद करता हूँ।
+I quit on Monday.	Ich habe am Montag aufgehört.	मैंने सोमवार को छोड़ दिया।
+I ran downstairs.	Ich rannte die Treppe hinunter.	मैंने नीचे भागा।
