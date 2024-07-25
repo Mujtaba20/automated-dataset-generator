@@ -13712,3 +13712,13 @@ The box is empty.	Die Schachtel ist leer.	बक्सा खाली है।
 The box is heavy.	Die Schachtel ist schwer.	बक्सा भारी है।
 The boy ran away.	Der Junge ist weggelaufen.	लड़का भाग गया।
 The car is ready.	Das Auto ist bereit.	कार तैयार है।
+The cat is black.	Die Katze ist schwarz.	बिल्ली काली है।
+The cat is brown.	Die Katze ist braun.	बिल्ली भूरी है।
+The cup is empty.	Die Tasse ist leer.	कप खाली है।
+The curtain fell.	Der Vorhang fiel.	पर्दा गिर गया।
+The curtain rose.	Der Vorhang hob sich.	पर्दा उठा।
+The dent is huge.	Die Delle ist riesig.	डेंट बड़ी है।
+The dog is dying.	Der Hund stirbt.	कुत्ता मर रहा है।
+The dog is smart.	Der Hund ist klug.	कुत्ता चालाक है।
+The dog is white.	Der Hund ist weiß.	कुत्ता सफेद है।
+The dogs are wet.	Die Hunde sind nass.	कुत्ते गीले हैं।
