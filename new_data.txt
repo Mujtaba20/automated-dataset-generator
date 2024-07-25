@@ -11958,3 +11958,10 @@ He has lost face.	Er hat sein Gesicht verloren.	उसका चेहरा ख
 He has no choice.	Er hat keine Wahl.	उसके पास कोई विकल्प नहीं है।
 He hates carrots.	Er hasst Karotten.	उसे गाजर से नफरत है।
 He hates himself.	Er hasst sich selbst.	उसे खुद से नफरत है।
+He hates running.	Er hasst Laufen.	उसे दौड़ना नफरत है।
+He hates spiders.	Er hasst Spinnen.	उसे मकड़ी से नफरत है।
+He heard a noise.	Er hörte ein Geräusch.	उसने ध्वनि सुनी।
+He heard a shout.	Er hörte einen Schrei.	उसने चिल्लाहट सुनी।
+He is a kind boy.	Er ist ein freundlicher Junge.	वह एक दयालु लड़का है।
+He is a tall boy.	Er ist ein großer Junge.	वह एक ऊँचा लड़का है।
+He is aggressive.	Er ist aggressiv.	वह प्रवर्तनी है।
