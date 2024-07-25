@@ -17110,3 +17110,10 @@ I'm losing weight.	Ich verliere Gewicht.	मैं वजन कम कर र�
 I'm making coffee.	Ich mache Kaffee.	मैं कॉफ़ी बना रहा हूँ।
 I'm not a fanatic.	Ich bin kein Fanatiker.	मैं एक प्रेमी नहीं हूँ।
 I'm not a gambler.	Ich bin kein Zocker.	मैं जुआरू नहीं हूँ।
+I'm not a monster.	Ich bin kein Monster.	मैं एक राक्षस नहीं हूँ।
+I'm not a patient.	Ich bin kein Patient.	मैं एक मरीज नहीं हूँ।
+I'm not a psychic.	Ich bin kein Hellseher.	मैं एक मानसिक शक्तियों वाला व्यक्ति नहीं हूँ।
+I'm not a soldier.	Ich bin kein Soldat.	मैं एक सिपाही नहीं हूँ।
+I'm not a stalker.	Ich bin kein Stalker.	मैं एक स्टाल्‍कर नहीं हूँ।
+I'm not a student.	Ich bin kein Schüler.	मैं एक छात्र नहीं हूँ।
+I'm not a teacher.	Ich bin kein Lehrer.	मैं एक शिक्षक नहीं हूँ।
