@@ -1481,3 +1481,10 @@ Do it again!	Mach es noch einmal!	फिर से करो!
 Do it again.	Mach es wieder.	इसे फिर से करो।
 Do you bowl?	Spielst du Bowling?	क्या आप बोलिंग खेलते हैं?
 Do you fish?	Angeln Sie gern?	क्या आप मछली पकड़ना पसंद करते हैं?
+Don't cheat.	Nicht schummeln.	धोखा मत दो।
+Don't do it!	Mach es nicht!	ऐसा न करो!
+Don't fight.	Nicht kämpfen.	लड़ाई मत करो।
+Don't go in.	Nicht eintreten.	अंदर मत जाओ।
+Don't laugh.	Nicht lachen.	मत हंसो।
+Don't leave!	Nicht gehen!	मत जाओ!
+Don't panic!	Nicht in Panik geraten!	घबराओ मत!
