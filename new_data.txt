@@ -5698,3 +5698,11 @@ Don't watch TV.	Schau kein Fernsehen.	टीवी मत देखो।
 Don't you know?	Weißt du nicht?	तुम्हें पता नहीं है?
 Eat everything.	Iss alles.	सब कुछ खा लो।
 EngSentence		
+Everybody lies.	Jeder täuscht.	हर किसी ने झूठा कहा।
+Everybody paid.	Jeder zahlte.	सबने पेमेंट किया।
+Everybody sang.	Jeder sang.	सब गाया।
+Everyone knows.	Jeder weiß.	सबको पता है।
+Everyone stood.	Jeder stand.	सब खड़े थे।
+Fishing is fun.	Angeln ist lustig.	मछली पकड़ना मजेदार है।
+Flies lay eggs.	Fliegen legen Eier.	मक्खी अंडे देती है।
+Form two lines.	Bilden Sie zwei Linien.	दो पंक्तियाँ बनाएं।
