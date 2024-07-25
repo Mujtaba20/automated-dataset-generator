@@ -1,15 +1,4 @@
 
-The lemon is sour.	Die Zitrone ist sauer.	नींबू खट्टा है।
-The lid is closed.	Der Deckel ist zu.	ढक्कन बंद है।
-The lid is closed.	Das Augenlid ist geschlossen.	पलक बंद है।
-The light went on.	Das Licht ging an.	प्रकाश शुरू हो गया।
-The lovers kissed.	Die Liebenden küssten sich.	प्रेमियों ने चूमा।
-The man ate bread.	Der Mann aß Brot.	आदमी ने रोटी खाई।
-The man was dying.	Der Mann lag im Sterben.	आदमी मर रहा था।
-The market is big.	Der Markt ist groß.	बाजार बड़ा है।
-The meat is tough.	Das Fleisch ist zäh.	मांस कठिन है।
-The meeting ended.	Die Konferenz endete.	सम्मेलन समाप्त हो गया।
-The meeting ended.	Das Meeting endete.	बैठक समाप्त हो गई।
 The money is gone.	Das Geld ist weg.	पैसा चला गया है।
 The news upset me.	Die Nachricht erschütterte mich.	संदेश ने मुझे हिला दिया।
 The news upset me.	Ich war von der Nachricht bestürzt.	मैं संदेश से निराश था।

@@ -18029,3 +18029,12 @@ The gun is jammed.	Das Gewehr steckt fest.	बंदूक फंस गई ह�
 The home team won.	Das Heimteam hat gewonnen.	घर की टीम जीत गई।
 The house was big.	Das Haus war groß.	घर बड़ा था।
 The knife is dull.	Das Messer ist stumpf.	चाकू कुंद है।
+The lemon is sour.	Die Zitrone ist sauer.	नींबू खट्टा है।
+The lid is closed.	Der Deckel ist zu.	ढक्कन बंद है।
+The light went on.	Das Licht ging an.	रोशनी चालू हो गई।
+The lovers kissed.	Die Liebenden küssten sich.	प्रेमी चुंबन लिया।
+The man ate bread.	Der Mann aß Brot.	आदमी ने रोटी खाई।
+The man was dying.	Der Mann starb.	आदमी मर रहा था।
+The market is big.	Der Markt ist groß.	बाजार बड़ा है।
+The meat is tough.	Das Fleisch ist zäh.	मांस मजबूत है।
+The meeting ended.	Das Treffen endete.	बैठक समाप्त हो गई।
