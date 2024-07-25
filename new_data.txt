@@ -3630,3 +3630,13 @@ Who told Tom?	Wer hat Tom erzählt?	किसने टॉम को बता�
 Who vanished?	Wer ist verschwunden?	कौन गायब हो गया?
 Who wants it?	Wer will es?	किसे चाहिए?
 Who was here?	Wer war hier?	कौन यहाँ था?
+Who will pay?	Wer wird bezahlen?	कौन भुगतेगा?
+Who'll drive?	Wer wird fahren?	कौन चलाएगा?
+Who'll fight?	Wer wird kämpfen?	कौन लड़ेगा?
+Who'll start?	Wer wird anfangen?	कौन शुरू करेगा?
+Who'll start? (different meaning)	Wer wird starten?	कौन शुरू करेगा?
+Who's absent?	Wer fehlt?	कौन अनुपस्थित है?
+Who's absent? (different meaning)	Wer ist abwesend?	किसे अनुपस्थित होने की दिक्कत है?
+Who's coming?	Wer kommt?	कौन आ रहा है?
+Who's joking?	Wer macht Witze?	कौन मजाक कर रहा है?
+Who's joking? (different meaning)	Wer scherzt?	कौन मजाक कर रहा है?
