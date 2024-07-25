@@ -439,3 +439,10 @@ Who quit?	Wer ist ausgestiegen?	कौन निकल गया?
 Who swam?	Wer hat geschwommen?	कौन तैरा था?
 Who's he?	Wer ist er?	वह कौन है?
 Write me.	Schreib mir.	मुझे लिखो।
+You lost.	Ihr habt verloren.	तुम हार गए।
+Aim. Fire!	Zielen. Feuer!	लक्ष्य लगाओ। आग लगाओ!
+Am I dead?	Bin ich tot?	क्या मैं मर गया हूँ?
+Am I late?	Bin ich spät?	क्या मैं देर से हूँ?
+Answer me.	Antworte mir.	मुझे जवाब दो।
+Be seated.	Seien Sie bitte sitzen.	बैठो।
+Birds fly.	Vögel fliegen.	पंछी उड़ते हैं।
