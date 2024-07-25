@@ -11560,3 +11560,12 @@ Bring Tom inside.	Bring Tom rein.	टॉम को अंदर लाओ।
 Brush your teeth.	Putz dir die Zähne.	अपने दांत साफ करो।
 Brush your teeth. (2nd)	Bürste dir die Zähne.	अपने दांत पोंछो।
 Brush your teeth. (3rd)	Putze dir die Zähne.	अपने दांत साफ़ करो।
+Business is slow.	Das Geschäft ist langsam.	व्यवसाय धीमा है।
+Call Tom's bluff.	Tom bluffen.	टॉम की भ्रांति को कॉल करें।
+Call me sometime.	Ruf mich irgendwann an.	मुझे कभी भी कॉल करें।
+Call me tomorrow.	Ruf mich morgen an.	मुझे कल कॉल करें।
+Can I be excused?	Kann ich entschuldigt werden?	क्या मुझे क्षमा किया जा सकता है?
+Can I be of help?	Kann ich helfen?	क्या मैं मदद कर सकता हूँ?
+Can I borrow $30?	Kann ich 30 Dollar ausleihen?	क्या मैं 30 डॉलर उधार ले सकता हूँ?
+Can I dance here?	Kann ich hier tanzen?	क्या मैं यहाँ नृत्य कर सकता हूँ?
+Can I go surfing?	Kann ich surfen gehen?	क्या मैं सर्फिंग कर सकता हूँ?
