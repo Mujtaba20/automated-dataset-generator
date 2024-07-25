@@ -18875,3 +18875,11 @@ Tom kept coughing.	Tom hustete immer wieder.	टॉम ने किसी न�
 Tom kept crawling.	Tom krabbelte weiter.	टॉम नीचे रहते रहे।
 Tom kept fighting.	Tom kämpfte weiter.	टॉम लड़ाई करते रहे।
 Tom kept his cool.	Tom bewahrte die Ruhe.	टॉम शांत बने रहे।
+Tom kept his word.	Tom hielt sein Wort.	टॉम ने अपना वादा निभाया।
+Tom kept laughing.	Tom lachte weiterhin.	टॉम हमेशा हंसता रहता था।
+Tom kept swimming.	Tom schwamm weiterhin.	टॉम तैरते रहे।
+Tom knew everyone.	Tom kannte jeden.	टॉम सभी को जानता था।
+Tom knew too much.	Tom wusste zu viel.	टॉम बहुत कुछ जानता था।
+Tom knocked again.	Tom klopfte erneut an.	टॉम फिर से खटखटाया।
+Tom knows me well.	Tom kennt mich gut.	टॉम मुझे अच्छे से जानता है।
+Tom knows my wife.	Tom kennt meine Frau.	टॉम मेरी पत्नी को जानता है।

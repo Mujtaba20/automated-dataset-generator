@@ -1,14 +1,4 @@
 
-Tom kept his word.	Tom hat sein Wort gehalten.	टॉम ने अपना वचन दिया।
-Tom kept his word.	Tom hat Wort gehalten.	टॉम ने शब्द रखा।
-Tom kept laughing.	Tom lachte weiter.	टॉम हंसते हुए।
-Tom kept swimming.	Tom schwamm weiter.	टॉम तैरता रहता है।
-Tom knew everyone.	Tom kannte alle.	टॉम सबको जानता था।
-Tom knew too much.	Tom wusste zu viel.	टॉम बहुत ज्यादा जानता था।
-Tom knocked again.	Tom klopfte erneut.	टॉम ने फिर से दस्तक दी।
-Tom knocked again.	Tom hat wieder geklopft.	टॉम ने फिर से दस्तक दी।
-Tom knows me well.	Tom kennt mich gut.	टॉम मुझे अच्छी तरह से जानता है।
-Tom knows my wife.	Tom kennt meine Frau.	टॉम मेरी पत्नी को जानता है।
 Tom knows no fear.	Tom kennt keine Angst.	टॉम को कोई डर नहीं पता।
 Tom knows nothing.	Tom weiß nichts.	टॉम कुछ नहीं जानता।
 Tom knows the way.	Tom kennt den Weg.	टॉम को रास्ता पता है।
