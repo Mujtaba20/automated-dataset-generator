@@ -18221,3 +18221,11 @@ This car is black.	Dieses Auto ist schwarz.	यह गाड़ी काली 
 This coat is warm.	Dieser Mantel ist warm.	यह कोट गरम है।
 This concerns you.	Das geht dich etwas an.	यह आपको लेकर है।
 This desk is good.	Dieser Schreibtisch ist gut.	यह डेस्क अच्छा है।
+This doesn't burn.	Das verbrennt nicht.	यह नहीं जलता।
+This dog is Tom's.	Dieser Hund gehört Tom.	यह कुत्ता टॉम का है।
+This dog is white.	Dieser Hund ist weiß.	यह कुत्ता सफेद है।
+This egg is fresh.	Dieses Ei ist frisch.	यह अंडा ताजा है।
+This gold is mine.	Dieses Gold gehört mir.	यह सोना मेरा है।
+This is Tom's car.	Hier ist das Auto von Tom.	यह टॉम की कार है।
+This is Tom's cat.	Das ist Toms Katze.	यह टॉम की बिल्ली है।
+This is Tom's dog.	Das ist Toms Hund.	यह टॉम का कुत्ता है।

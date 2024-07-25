@@ -1,14 +1,4 @@
 
-This doesn't burn.	Dies brennt nicht.	यह जलता नहीं है।
-This doesn't burn.	Dies kann nicht brennen.	यह जला नहीं सकता।
-This dog is Tom's.	Dieser Hund gehört Tom.	यह कुत्ता टॉम का है।
-This dog is white.	Dieser Hund ist weiß.	यह कुत्ता सफेद है।
-This egg is fresh.	Dieses Ei ist frisch.	यह अंडा ताजा है।
-This gold is mine.	Das Gold gehört mir.	सोना मेरा है।
-This is Tom's car.	Das ist Toms Auto.	यह टॉम की कार है।
-This is Tom's car.	Das ist Toms Wagen.	यह टॉम की कार है।
-This is Tom's cat.	Das ist die Katze von Tom.	यह टॉम की बिल्ली है।
-This is Tom's dog.	Dies ist Toms Hund.	यह टॉम का कुत्ता है।
 This is a coconut.	Das ist eine Kokosnuss.	यह एक नारियल है।
 This is a mistake.	Das ist ein Fehler.	यह एक गलती है।
 This is a picture.	Dies ist ein Bild.	यह एक चित्र है।
