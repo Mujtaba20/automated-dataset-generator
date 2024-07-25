@@ -19169,3 +19169,11 @@ Tom shook my hand.	Tom schüttelte mir die Hand.	टॉम ने मेरा �
 Tom shot the wolf.	Tom hat den Wolf erschossen.	टॉम ने भेड़िया को गोली मारी।
 Tom shot the wolf. (Different meaning)	Tom fotografierte den Wolf.	टॉम ने भेड़िया की तस्वीर खींची।
 Tom should resign.	Tom sollte zurücktreten.	टॉम को इस्तीफा देना चाहिए।
+Tom should've won.	Tom sollte gewonnen haben.	टॉम को जीतनी चाहिए थी।
+Tom showed us how.	Tom hat uns gezeigt, wie.	टॉम ने हमें दिखाया कि कैसे।
+Tom shut his eyes.	Tom schloss die Augen.	टॉम ने अपनी आँखें बंद की।
+Tom sings off key.	Tom singt daneben.	टॉम गलत स्वर में गाता है।
+Tom skipped class.	Tom hat den Unterricht versäumt.	टॉम ने कक्षा छोड़ दी।
+Tom skipped lunch.	Tom hat das Mittagessen ausgelassen.	टॉम ने दोपहर का भोजन छोड़ दिया।
+Tom slept all day.	Tom hat den ganzen Tag geschlafen.	टॉम ने पूरे दिन सोते रहा।
+Tom slept an hour.	Tom hat eine Stunde geschlafen.	टॉम ने एक घंटे के लिए सोया।

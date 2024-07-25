@@ -1,14 +1,4 @@
 
-Tom should've won.	Tom hätte gewinnen sollen.	टॉम को जीतना चाहिए था।
-Tom should've won.	Tom sollte gewonnen haben.	टॉम को जीतना चाहिए था।
-Tom showed us how.	Tom zeigte uns, wie.	टॉम ने हमें दिखाया कि कैसे।
-Tom shut his eyes.	Tom schloss seine Augen.	टॉम ने अपनी आँखें बंद कर लीं।
-Tom sings off key.	Tom singt falsch.	टॉम गलत गाता है।
-Tom sings off key.	Tom singt schief.	टॉम गलत गाता है।
-Tom skipped class.	Tom hat geschwänzt.	टॉम छोड़ दिया।
-Tom skipped lunch.	Tom ließ das Mittagessen ausfallen.	टॉम दोपहर का भोजन विफल रहा।
-Tom slept all day.	Tom hat den ganzen Tag geschlafen.	टॉम पूरे दिन सोते रहे।
-Tom slept an hour.	Tom schlief eine Stunde.	टॉम एक घंटे तक सोया।
 Tom slept outside.	Tom schlief draußen.	टॉम बाहर सो गया।
 Tom slept outside.	Tom schlief im Freien.	टॉम बाहर सो गया।
 Tom slept soundly.	Tom schlief fest.	टॉम सो गया।
