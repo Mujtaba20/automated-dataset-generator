@@ -4300,3 +4300,13 @@ I watched you.	Ich habe dich angesehen.	मैंने तुम्हें �
 I went aboard.	Ich bin an Bord gegangen.	मैं जहाज़ पर चला गया।
 I went hiking.	Ich bin wandern gegangen.	मैं ट्रैकिंग पर गया।
 I went inside.	Ich bin hineingegangen.	मैं अंदर गया।
+I will listen.	Ich werde zuhören.	मैं सुनूँगा।
+I woke Tom up.	Ich weckte Tom auf.	मैंने टॉम को जगाया।
+I woke you up.	Ich habe dich geweckt.	मैंने तुम्हें जगाया।
+I won't dance.	Ich werde nicht tanzen.	मैं नाचूंगा नहीं।
+I won't laugh.	Ich werde nicht lachen.	मैं हंसूंगा नहीं।
+I won't leave.	Ich werde nicht gehen.	मैं नहीं जाऊंगा।
+I work nights.	Ich arbeite nachts.	मैं रातों में काम करता हूँ।
+I write poems.	Ich schreibe Gedichte.	मैं कविताएँ लिखता हूँ।
+I write songs.	Ich schreibe Lieder.	मैं गाने लिखता हूं।
+I'd like that.	Das würde mir gefallen.	मुझे यह अच्छा लगेगा।
