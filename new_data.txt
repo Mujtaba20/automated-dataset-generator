@@ -8395,3 +8395,10 @@ Everybody knows.	Jeder weiß.	सबको पता है।
 Everyone agreed.	Alle waren einverstanden.	सभी सहमत थे।
 Everyone dreams.	Jeder träumt davon.	हर कोई सपने देखता है।
 Everyone looked.	Alle schauten.	सभी देख रहे थे।
+Everyone prayed.	Alle beteten.	सभी प्रार्थना की।
+Everyone smiled.	Alle lächelten.	सभी हँस पड़े।
+Everyone waited.	Alle warteten.	सभी प्रतीक्षा कर रहे थे।
+Everyone's busy.	Jeder ist beschäftigt.	सभी व्यस्त हैं।
+Everyone's dead.	Alle sind tot.	सभी मर चुके हैं।
+Everyone's sick.	Jeder ist krank.	सभी बीमार हैं।
+Everything's OK.	Alles ist in Ordnung.	सब ठीक है।
