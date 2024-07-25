@@ -14783,3 +14783,13 @@ Tom was shouting.	Tom schrie.	टॉम चिल्ला रहा था।
 Tom was sleeping.	Tom schlief.	टॉम सो रहा था।
 Tom was so sweet.	Tom war so süß.	टॉम इतना मिठा था।
 Tom was standing.	Tom stand.	टॉम खड़ा था।
+Tom was startled.	Tom erschrak.	टॉम को आधंकृत किया गया।
+Tom was starving.	Tom hungerte.	टॉम भूखा था।
+Tom was stubborn.	Tom war stur.	टॉम जिद्दी था।
+Tom was sweating.	Tom schwitzte.	टॉम पसीना छूट रहा था।
+Tom was terrific.	Tom war großartig.	टॉम शानदार था।
+Tom was thrilled.	Tom war begeistert.	टॉम उत्साहित था।
+Tom was too weak.	Tom war zu schwach.	टॉम बहुत कमजोर था।
+Tom was tortured.	Tom wurde gefoltert.	टॉम सताया गया।
+Tom was troubled.	Tom war beunruhigt.	टॉम परेशान था।
+Tom was truthful.	Tom war ehrlich.	टोम सच्चा था।
