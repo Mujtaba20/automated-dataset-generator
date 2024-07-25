@@ -15053,3 +15053,12 @@ We'll go see Tom.	Wir werden Tom sehnen.	हम टॉम को देखें
 We'll meet again.	Wir werden wieder treffen.	हम फिर मिलेंगे।
 We'll never know.	Wir werden nie wissen.	हम कभी नहीं जानेंगे।
 We'll notify Tom.	Wir werden Tom benachrichtigen.	हम टॉम को सूचित करेंगे।
+We'll talk later.	Wir werden später sprechen.	हम बाद में बात करेंगे।
+We're Tom's sons.	Wir sind Toms Söhne.	हम टॉम के बेटे हैं।
+We're a bit late.	Wir sind ein bisschen spät.	हम थोड़े देर से हैं।
+We're all hungry.	Wir sind alle hungrig.	हम सभी भूखे हैं।
+We're all scared.	Wir haben alle Angst.	हम सभी डरे हुए हैं।
+We're astonished.	Wir sind erstaunt.	हम हैरान हैं।
+We're back early.	Wir sind früh zurück.	हम जल्दी वापस आ गए हैं।
+We're both crazy.	Wir sind beide verrückt.	हम दोनों पागल हैं।
+We're classmates.	Wir sind Klassenkameraden.	हम क्लासमेट्स हैं।
