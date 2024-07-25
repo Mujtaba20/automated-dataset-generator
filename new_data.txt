@@ -16427,3 +16427,11 @@ I drove all night.	Ich fuhr die ganze Nacht.	मैंने पूरी रा
 I drove them home.	Ich brachte sie nach Hause.	मैंने उन्हें घर चलाया।
 I enjoy what I do.	Ich genieße, was ich tue.	मुझे वह पसंद है जो मैं करता हूं।
 I enjoyed it, too.	Es hat mir auch gefallen.	मुझे भी यह अच्छा लगा।
+I failed the exam.	Ich habe die Prüfung nicht bestanden.	मुझसे परीक्षा में टूट गया।
+I feel really bad.	Ich fühle mich wirklich schlecht.	मुझे सचमुच बुरा लग रहा है।
+I feel their pain.	Ich fühle ihren Schmerz.	मैं उनकी दर्द को महसूस करता हूँ।
+I feel well today.	Ich fühle mich heute gut.	आज मुझे अच्छा लग रहा है।
+I felt very happy.	Ich fühlte mich sehr glücklich.	मैंने बहुत खुश हो गया था।
+I finally escaped.	Ich bin endlich entkommen.	मैं आखिरकार भाग गया।
+I finally gave up.	Ich habe endlich aufgegeben.	मैंने आखिरकार हार मान ली।
+I forget her name.	Ich habe ihren Namen vergessen.	मैंने उसका नाम भूल गया है।
