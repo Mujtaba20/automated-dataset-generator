@@ -18237,3 +18237,13 @@ This is all wrong.	Das ist alles falsch.	यह सब गलत है।
 This is an adverb.	Das ist ein Adverb.	यह एक क्रिया विशेषण है।
 This is confusing.	Das ist verwirrend.	यह भ्रांति में डालने वाला है।
 This is delicious.	Das ist köstlich.	यह स्वादिष्ट है।
+This is different.	Das ist anders.	यह अलग है।
+This is difficult.	Das ist schwierig.	यह मुश्किल है।
+This is difficult. (different meaning)	Das ist nicht einfach.	यह आसान नहीं है।
+This is good meat.	Das ist gutes Fleisch.	यह अच्छा मांस है।
+This is good meat. (different meaning)	Das ist leckeres Fleisch.	यह स्वादिष्ट मांस है।
+This is good news.	Das sind gute Nachrichten.	यह अच्छी खबर है।
+This is good news. (different meaning)	Das ist eine gute Nachricht.	यह एक अच्छी खबर है।
+This is her house.	Das ist ihr Haus.	यह उसका घर है।
+This is his house.	Das ist sein Haus.	यह उसका घर है।
+This is incorrect.	Das ist falsch.	यह गलत है।

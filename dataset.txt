@@ -1,15 +1,4 @@
 
-This is different.	Das ist anders.	वह अलग बात है।
-This is difficult.	Das ist schwierig.	यह मुश्किल है।
-This is difficult.	Das ist schwer.	यह कठिन है।
-This is good meat.	Das ist gutes Fleisch.	यह अच्छा मांस है।
-This is good meat.	Dieses Fleisch ist gut.	यह मांस अच्छा है।
-This is good news.	Das sind gute Neuigkeiten.	अच्छा समाचार है।
-This is good news.	Das ist eine gute Nachricht.	वो अच्छी खबर है।
-This is her house.	Das ist ihr Haus.	यह आपका घर है।
-This is his house.	Das ist sein Haus.	यह उसका घर है।
-This is incorrect.	Das ist falsch.	यह गलत है।
-This is incorrect.	Dies ist falsch.	यह गलत है।
 This is justified.	Das ist berechtigt.	यह उचित है।
 This is justified.	Das ist gerechtfertigt.	यह उचित है।
 This is ludicrous.	Das ist lachhaft.	यह हंसी है।
