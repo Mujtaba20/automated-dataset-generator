@@ -9515,3 +9515,13 @@ It's almost six.	Es ist fast sechs.	यह लगभग छः बजे है�
 It's been tried.	Es wurde versucht.	इसपे प्रयास किया गया है।
 It's cold today.	Es ist heute kalt.	आज ठंड है।
 It's cool today.	Heute ist es kühl.	आज सुखद है।
+It's dirt-cheap.	Es ist sehr billig.	यह बहुत सस्ता है।
+It's downstairs.	Es ist unten.	यह नीचे है।
+It's easy money.	Es ist leicht verdientes Geld.	यह आसान पैसा है।
+It's fine today.	Es ist in Ordnung heute.	आज सब कुछ ठीक है।
+It's fine today. - 2	Es ist schönes Wetter heute.	आज मौसम अच्छा है।
+It's going fine.	Es läuft gut.	सब अच्छे से चल रहा है।
+It's impossible.	Es ist unmöglich.	यह असंभाव है।
+It's improbable.	Es ist unwahrscheinlich.	यह अविश्वसनीय है।
+It's inadequate.	Es ist unzureichend.	यह अपर्याप्त है।
+It's incredible.	Es ist unglaublich.	यह बेयानहा है।
