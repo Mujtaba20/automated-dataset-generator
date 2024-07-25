@@ -9988,3 +9988,12 @@ The taxi's here.	Das Taxi ist hier.	टैक्सी यहाँ है।
 The war is over.	Der Krieg ist vorbei.	युद्ध समाप्त हो गया है।
 The well is dry.	Der Brunnen ist trocken.	कुआँ सूखा है।
 The wind howled.	Der Wind heulte.	हवा चिललाई।
+There are rules.	Es gibt Regeln.	नियम हैं।
+There she comes.	Da kommt sie.	वह वहाँ आती है।
+There was music.	Es gab Musik.	संगीत था।
+There's a table.	Es gibt einen Tisch.	एक मेज़ है।
+There's no gold.	Es gibt kein Gold.	सोना नहीं है।
+There's no hope.	Es gibt keine Hoffnung.	कोई आशा नहीं है।
+There's no rush.	Es besteht kein Grund zur Eile.	कोई जल्दी नहीं है।
+There's no salt.	Es gibt kein Salz.	नमक नहीं है।
+There's no soap.	Es gibt keine Seife.	साबुन नहीं है।
