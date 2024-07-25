@@ -1,15 +1,4 @@
 
-Tom can't help me.	Tom kann mir nicht helfen.	टॉम मेरी मदद नहीं कर सकता।
-Tom can't hurt me.	Tom kann mich nicht verletzen.	टॉम मुझे चोट नहीं पहुंचा सकता।
-Tom can't hurt me.	Tom kann mir nicht wehtun.	टॉम मुझे चोट नहीं पहुंचा सकता।
-Tom can't see you.	Tom kann sich nicht mit dir treffen.	टॉम आपसे नहीं मिल सकता।
-Tom can't stop it.	Tom kann nicht damit aufhören.	टॉम रोक नहीं सकता।
-Tom can't stop it.	Tom kann es nicht aufhalten.	टॉम इसे रोक नहीं सकता।
-Tom can't stop me.	Tom kann mich nicht aufhalten.	टॉम मुझे रोक नहीं सकता।
-Tom can't whistle.	Tom kann nicht pfeifen.	टॉम सीटी नहीं लगा सकता।
-Tom caught a cold.	Tom hat sich erkältet.	टॉम को ठंड है।
-Tom caught a fish.	Tom hat einen Fisch gefangen.	टॉम ने एक मछली पकड़ ली।
-Tom caught a fish.	Tom fing einen Fisch.	टॉम ने एक मछली पकड़ ली।
 Tom changed color.	Toms Gesichtsfarbe änderte sich.	टॉम के चेहरे का रंग बदल गया।
 Tom chickened out.	Tom hat einen Rückzieher gemacht.	टॉम ने समर्थन किया है।
 Tom chickened out.	Tom hat gekniffen.	टॉम ने चुटकी ली है।

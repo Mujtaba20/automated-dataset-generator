@@ -18368,3 +18368,11 @@ Tom can't beat me.	Tom kann mich nicht schlagen.	टॉम मुझे नह�
 Tom can't do that.	Tom kann das nicht tun.	टॉम वह नहीं कर सकता।
 Tom can't do this.	Tom kann das nicht tun.	टॉम यह नहीं कर सकता।
 Tom can't help it.	Tom kann nicht anders.	टॉम इससे बच नहीं सकता।
+Tom can't help me.	Tom kann mir nicht helfen.	टॉम मुझे मदद नहीं कर सकता।
+Tom can't hurt me.	Tom kann mir nicht schaden.	टॉम मुझे चोट नहीं पहुंचा सकता।
+Tom can't see you.	Tom kann dich nicht sehen.	टॉम तुम्हें नहीं देख सकता।
+Tom can't stop it.	Tom kann es nicht stoppen.	टॉम इसे नहीं रोक सकता।
+Tom can't stop me.	Tom kann mich nicht aufhalten.	टॉम मुझे नहीं रोक सकता।
+Tom can't whistle.	Tom kann nicht pfeifen.	टॉम सीटी नहीं बजा सकता। 
+Tom caught a cold.	Tom hat sich erkältet.	टॉम को जुकाम हो गया।
+Tom caught a fish.	Tom hat einen Fisch gefangen.	टॉम ने मछली पकड़ी।
