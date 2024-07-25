@@ -2689,3 +2689,13 @@ I have a pen.	Ich habe einen Stift.	मेरे पास एक पेन ह�
 I have hives.	Ich habe Nesselsucht.	मुझे खाँसी है।
 I have money.	Ich habe Geld.	मेरे पास पैसे हैं।
 I have proof.	Ich habe einen Beweis.	मेरे पास सबूत है।
+I have to go.	Ich muss gehen.	मुझे जाना है।
+I have water.	Ich habe Wasser.	मेरे पास पानी है।
+I hear music.	Ich höre Musik.	मैं संगीत सुनता हूँ।
+I helped Tom.	Ich habe Tom geholfen.	मैंने टॉम की मदद की।
+I hope I win.	Ich hoffe, ich gewinne.	मैं आशा करता हूँ कि मैं जीतूँ।
+I hope I win. - Repeated	Ich hoffe, ich gewinne.	मैं आशा करता हूँ कि मैं जीतूँ।
+I hugged Tom.	Ich habe Tom umarmt.	मैंने टॉम को गले लगाया।
+I hugged Tom. - Different Meaning	Ich drückte Tom.	मैंने टॉम को गले लगाया।
+I hugged her.	Ich umarmte sie.	मैंने उसे गले लगाया।
+I hugged her. - Different Meaning	Ich habe sie gedrückt.	मैंने उसे गले लगाया।
