@@ -6658,3 +6658,10 @@ It's too risky.	Es ist zu riskant.	यह बहुत जोखिमपूर�
 It's too short.	Es ist zu kurz.	यह बहुत छोटा है।
 It's too small.	Es ist zu klein.	यह बहुत छोटा है।
 It's too tight.	Es ist zu eng.	यह बहुत टाइट है।
+It's up to you.	Es hängt von Ihnen ab.	यह तुम्हारे ऊपर है।
+It's very cold.	Es ist sehr kalt.	यह बहुत ठंडा है।
+It's very dark.	Es ist sehr dunkel.	यह बहुत अंधेरा है।
+It's very good.	Es ist sehr gut.	यह बहुत अच्छा है।
+It's very loud.	Es ist sehr laut.	यह बहुत शोर है।
+It's very nice.	Es ist sehr schön.	यह बहुत अच्छा है।
+It's what I do.	Es ist das, was ich tue.	यह है जो मैं करता हूँ।
