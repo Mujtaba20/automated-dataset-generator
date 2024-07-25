@@ -10388,3 +10388,13 @@ Tom is drenched.	Tom ist durchnässt.	टॉम भीगा हुआ है।
 Tom is drowning!	Tom ertrinkt!	टॉम डूब रहा है!
 Tom is drowning.	Tom ertrinkt.	टॉम गले में पानी भर रहा है।
 Tom is ecstatic.	Tom ist ekstatisch.	टॉम उत्साहित है।
+Tom is educated.	Tom ist gebildet.	टॉम शिक्षित है।
+Tom is eloquent.	Tom ist wortgewandt.	टॉम सुवक्ता है।
+Tom is emphatic.	Tom ist betont.	टॉम प्रभावशाली है।
+Tom is escaping.	Tom flieht.	टॉम भाग रहा है।
+Tom is fabulous.	Tom ist fabelhaft.	टॉम शानदार है।
+Tom is faithful.	Tom ist treu.	टॉम वफादार है।
+Tom is famished.	Tom ist ausgehungert.	टॉम भूखा है।
+Tom is far away.	Tom ist weit weg.	टॉम दूर है।
+Tom is fearless.	Tom ist furchtlos.	टॉम डरावना है।
+Tom is fighting.	Tom kämpft.	टॉम लड़ रहा है।
