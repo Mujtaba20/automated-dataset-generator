@@ -12763,3 +12763,12 @@ I won't stop you.	Ich werde dich nicht aufhalten.	मैं तुम्हे�
 I won't tell Tom.	Ich werde Tom nicht sagen.	मैं टॉम को नहीं बताऊंगा।
 I won't tell you.	Ich werde es dir nicht sagen.	मैं तुम्हें नहीं बताऊंगा।
 I work in Boston.	Ich arbeite in Boston.	मैं बोस्टन में काम करता हूँ।
+I work in a bank.	Ich arbeite in einer Bank.	मैं एक बैंक में काम करता हूं।
+I work on Sunday.	Ich arbeite am Sonntag.	मैं रविवार को काम करता हूं।
+I work under her.	Ich arbeite unter ihr.	मैं उसके नीचे काम करती हूँ।
+I worry too much.	Ich mache mir zu viele Sorgen.	मैं बहुत चिंता करता हूं।
+I wrote a letter.	Ich habe einen Brief geschrieben.	मैंने एक पत्र लिखा।
+I wrote the book.	Ich habe das Buch geschrieben.	मैंने किताब लिखी।
+I'd be delighted.	Ich würde mich freuen.	मैं खुश होगा।
+I'd have said no.	Ich hätte Nein gesagt.	मैंने कहा है।
+I'd like a salad.	Ich hätte gerne einen Salat.	मुझे एक सलाद पसंद होगा।
