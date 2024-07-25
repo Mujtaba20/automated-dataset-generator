@@ -19491,3 +19491,11 @@ We are who we are.	Wir sind, wer wir sind.	हम वही हैं जो ह
 We aren't enemies.	Wir sind keine Feinde.	हम दुश्मन नहीं हैं।
 We aren't married.	Wir sind nicht verheiratet.	हम विवाहित नहीं हैं।
 We believe in God.	Wir glauben an Gott.	हम भगवान में विश्वास करते हैं।
+We both know that.	Wir beide wissen das.	हम दोनों यह जानते हैं।
+We came out ahead.	Wir sind weitergekommen.	हम आगे आ गए हैं।
+We can look it up.	Wir können nachschlagen.	हम इसे देख सकते हैं।
+We can try harder.	Wir können mehr versuchen.	हम मेहनत कर सकते हैं।
+We can't find Tom.	Wir können Tom nicht finden.	हम टॉम को नहीं ढूंढ सकते।
+We can't go there.	Wir können nicht dorthin gehen.	हम वहाँ नहीं जा सकते।
+We can't help Tom.	Wir können Tom nicht helfen.	हम टॉम की मदद नहीं कर सकते।
+We can't help you.	Wir können Ihnen nicht helfen.	हम आपकी मदद नहीं कर सकते।

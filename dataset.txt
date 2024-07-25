@@ -1,16 +1,4 @@
 
-We both know that.	Das wissen wir beide.	हम दोनों जानते हैं कि।
-We came out ahead.	Wir hatten Erfolg.	हम सफल रहे।
-We can look it up.	Wir können es nachschlagen.	हम इसे देख सकते हैं।
-We can look it up.	Wir können es nachsehen.	हम देख सकते हैं।
-We can try harder.	Wir können uns mehr Mühe geben.	हम और अधिक प्रयास कर सकते हैं।
-We can try harder.	Wir können uns größere Mühe geben.	हम एक बड़ा प्रयास कर सकते हैं।
-We can't find Tom.	Wir können Tom nicht finden.	हम टॉम नहीं पा सकते।
-We can't go there.	Wir können da nicht hingehen.	हम वहां नहीं जा सकते।
-We can't help Tom.	Wir können Tom nicht helfen.	हम टॉम की मदद नहीं कर सकते।
-We can't help you.	Wir können dir nicht helfen.	हम आपकी मदद नहीं कर सकते।
-We can't help you.	Wir können euch nicht helfen.	हम आपकी मदद नहीं कर सकते।
-We can't help you.	Wir können Ihnen nicht helfen.	हम आपकी मदद नहीं कर सकते।
 We can't kill Tom.	Wir können Tom nicht umbringen.	हम टॉम को नहीं मार सकते।
 We can't kill Tom.	Wir können Tom nicht töten.	हम टॉम को नहीं मार सकते।
 We can't stop now.	Wir können jetzt nicht aufhören.	हम अब रुक नहीं सकते।
