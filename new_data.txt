@@ -6979,3 +6979,12 @@ That's not why.	Das ist nicht warum.	वह नहीं है क्यों�
 That's perfect.	Das ist perfekt.	वह पूरा है।
 That's plastic.	Das ist Plastik.	यह प्लास्टिक है।
 That's rubbish.	Das ist Müll.	यह कचरा है।
+That's serious.	Das ist ernst.	यह गंभीर है।
+That's so cool.	Das ist so cool.	यह बहुत शानदार है।
+That's so mean.	Das ist so gemein.	यह इतना कड़वा है।
+That's so rude.	Das ist so unhöflich.	यह बहुत अकड़ है।
+That's strange.	Das ist seltsam.	यह अजीब है।
+That's the law.	Das ist das Gesetz.	यह विधि है।
+That's the one.	Das ist es.	यह वह सही चीज़ है।
+That's the way.	So ist es.	यह वह तरीका है।
+That's too bad.	Das ist zu schade.	यह बहुत ही बुरा है।
