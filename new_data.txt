@@ -4111,3 +4111,11 @@ I have doubts.	Ich habe Zweifel.	मेरे संदेह हैं।
 I have failed.	Ich bin gescheitert.	मैं असफल हो गया हूँ।
 I have had it.	Ich habe es gehabt.	मेरे पास यह था।
 I have orders.	Ich habe Befehle.	मेरे पास आदेश हैं।
+I have sinned.	Ich habe gesündigt.	मैंने पाप किया है।
+I have to eat.	Ich muss essen.	मुझे खाना है।
+I have to run.	Ich muss rennen.	मुझे दौड़ना है।
+I have to try.	Ich muss es versuchen.	मुझे कोशिश करनी है।
+I have to win.	Ich muss gewinnen.	मुझे जीतना है।
+I hear voices.	Ich höre Stimmen.	मैं आवाज़ सुनता हूँ।
+I hope we win.	Ich hoffe, wir gewinnen.	मुझे आशा है कि हम जीतें।
+I just did it.	Ich habe es gerade getan.	मैंने बस इसे किया।
