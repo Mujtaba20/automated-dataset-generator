@@ -1,14 +1,4 @@
 
-Tom never changed.	Tom hat sich nie verändert.	टॉम कभी नहीं बदला है।
-Tom never changes.	Tom ändert sich nie.	टॉम कभी नहीं बदलता।
-Tom never gave up.	Tom gab nie auf.	टॉम ने कभी हार नहीं मानी।
-Tom never hurt me.	Tom hat mir nie weh getan.	टॉम ने मुझे कभी चोट नहीं पहुंचाई।
-Tom never laughed.	Tom hat nie gelacht.	टॉम कभी हंसे नहीं।
-Tom never listens.	Tom hört nie zu.	टॉम कभी नहीं सुनता।
-Tom never married.	Tom hat nie geheiratet.	टॉम ने कभी शादी नहीं की।
-Tom never paid me.	Tom hat mich nie ausgezahlt.	टॉम ने मुझे कभी भुगतान नहीं किया।
-Tom never said no.	Tom sagte nie nein.	टॉम ने कभी नहीं कहा।
-Tom never stopped.	Tom hat nie aufgehört.	टॉम कभी नहीं रुके।
 Tom never told me.	Tom hat es mir nie gesagt.	टॉम ने मुझे कभी नहीं बताया।
 Tom never was shy.	Tom war nie schüchtern.	टॉम कभी शर्मीली नहीं थी।
 Tom never woke up.	Tom wachte nie mehr auf.	टॉम फिर कभी नहीं उठा।

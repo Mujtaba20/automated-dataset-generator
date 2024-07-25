@@ -19043,3 +19043,13 @@ engSentence7	Tom braucht Kleidung.	टॉम को कपड़े चाहि
 engSentence8	Tom braucht eine Brille.	टॉम को चश्मा चाहिए।
 engSentence9	Tom braucht eine Operation.	टॉम को ऑपरेशन की जरुरत है।
 engSentence10	Tom ist nie angekommen.	टॉम कभी नहीं पहुंचा।
+Tom never changed.	Tom hat sich nie geändert.	टॉम कभी बदला नहीं।
+Tom never changes.	Tom ändert sich nie.	टॉम कभी नहीं बदलता।
+Tom never gave up.	Tom hat nie aufgegeben.	टॉम कभी हार नहीं माना।
+Tom never hurt me.	Tom hat mir nie wehgetan.	टॉम ने मुझे कभी चोट नहीं पहुँचाई।
+Tom never laughed.	Tom hat nie gelacht.	टॉम कभी हँसा नहीं।
+Tom never listens.	Tom hört nie zu.	टॉम कभी सुनता नहीं।
+Tom never married.	Tom hat nie geheiratet.	टॉम ने कभी शादी नहीं की।
+Tom never paid me.	Tom hat mir nie bezahlt.	टॉम ने मुझे कभी पैसे नहीं दिए।
+Tom never said no.	Tom hat nie nein gesagt.	टॉम ने कभी नहीं कहा।
+Tom never stopped.	Tom hat nie aufgehört.	टॉम कभी नहीं रुका।
