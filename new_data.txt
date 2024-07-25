@@ -16721,3 +16721,13 @@ I need a keyboard.	Ich brauche eine Tastatur.	मुझे एक कीबो�
 I need a vacation!	Ich brauche Urlaub!	मुझे अवकाश चाहिए!
 I need help badly.	Ich brauche dringend Hilfe.	मुझे बड़ी तरह से मदद की आवश्यकता है।
 I need many books.	Ich brauche viele Bücher.	मुझे कई किताबें चाहिए।
+I need more money.	Ich brauche mehr Geld.	मुझे और पैसे चाहिए।
+I need my glasses.	Ich brauche meine Brille.	मुझे मेरा चश्मा चाहिए।
+I need my privacy.	Ich brauche meine Privatsphäre.	मुझे मेरी निजता चाहिए।
+I need new gloves.	Ich brauche neue Handschuhe.	मुझे नये दस्ताने चाहिए।
+I need some money.	Ich brauche etwas Geld.	मुझे कुछ पैसे चाहिए।
+I need some paper.	Ich brauche etwas Papier.	मुझे कुछ कागज चाहिए।
+I need some sleep.	Ich brauche etwas Schlaf.	मुझे थोड़ी नींद चाहिए।
+I need some sugar.	Ich brauche etwas Zucker.	मुझे कुछ चीनी चाहिए।
+I need some water.	Ich brauche etwas Wasser.	मुझे कुछ पानी चाहिए।
+I need the ladder.	Ich brauche die Leiter.	मुझे सीढ़ी चाहिए।
