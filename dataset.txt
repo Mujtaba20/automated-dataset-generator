@@ -1,14 +1,4 @@
 
-Tom is never here.	Tom ist nie hier.	टॉम यहाँ कभी नहीं है।
-Tom is never late.	Tom kommt nie zu spät.	टॉम कभी बहुत देर से नहीं आता।
-Tom is nice to me.	Tom ist freundlich zu mir.	टॉम मेरे अनुकूल है।
-Tom is nonplussed.	Tom ist verblüfft.	टॉम चकित है।
-Tom is nonplussed.	Tom ist perplex.	टॉम हैरान है।
-Tom is not a hero.	Tom ist kein Held.	टॉम हीरो नहीं है।
-Tom is not a liar.	Tom ist kein Lügner.	टॉम झूठा नहीं है।
-Tom is not coming.	Tom kommt nicht.	टॉम नहीं आता।
-Tom is not famous.	Tom ist nicht berühmt.	टॉम प्रसिद्ध नहीं है।
-Tom is not my son.	Tom ist nicht mein Sohn.	टॉम मेरा बेटा नहीं है।
 Tom is now crying.	Tom ist jetzt am Weinen.	टॉम अब रो रहा है।
 Tom is old school.	Tom ist von der alten Schule.	टॉम पुराने स्कूल से है।
 Tom is on the run.	Tom ist auf der Flucht.	टॉम रन पर है।

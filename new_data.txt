@@ -18706,3 +18706,12 @@ Tom is my stepson.	Tom ist mein Stiefsohn.	टॉम मेरा संता�
 Tom is my student.	Tom ist mein Schüler.	टॉम मेरा छात्र है।
 Tom is my teacher.	Tom ist mein Lehrer.	टॉम मेरा अध्यापक है।
 Tom is mysterious.	Tom ist mysteriös.	टॉम रहस्यमय है।
+Tom is never here.	Tom ist nie hier.	टॉम कभी यहाँ नहीं है।
+Tom is never late.	Tom kommt nie zu spät.	टॉम कभी देर से नहीं आता।
+Tom is nice to me.	Tom ist nett zu mir.	टॉम मेरे लिए अच्छा है।
+Tom is nonplussed.	Tom ist perplex.	टॉम हैरान है।
+Tom is not a hero.	Tom ist kein Held.	टॉम एक हीरो नहीं है।
+Tom is not a liar.	Tom ist kein Lügner.	टॉम झूठा नहीं है।
+Tom is not coming.	Tom kommt nicht.	टॉम नहीं आ रहा है।
+Tom is not famous.	Tom ist nicht berühmt.	टॉम प्रसिद्ध नहीं है।
+Tom is not my son.	Tom ist nicht mein Sohn.	टॉम मेरा बेटा नहीं है।
