@@ -15633,3 +15633,10 @@ Come and sit down.	Komm und setz dich hin.	आओ और बैठो।
 Come here quickly.	Komm schnell hierher.	जल्दी यहाँ आओ।
 Come home at once.	Komm sofort nach Hause.	तुरंत घर आओ।
 Come home with me.	Komm mit mir nach Hause.	मेरे साथ घर आओ।
+Come into my room.	Komm in mein Zimmer.	मेरे कक्ष में आओ।
+Come on down here.	Komm hier runter.	यहाँ नीचे आओ।
+Come on, admit it.	Komm schon, gesteh es.	चलो मान लो।
+Come on, hurry up.	Komm schon, beeil dich.	चलो जल्दी करो।
+Come on, let's go.	Los, lass uns gehen.	आओ, चलो।
+Come on, touch it.	Komm schon, berühre es.	चलो, छुओ।
+Come on, trust me.	Vertrau mir doch.	मुझ पर भरोसा करो।
