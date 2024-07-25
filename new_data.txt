@@ -7340,3 +7340,13 @@ Tom is no hero.	Tom ist kein Held.	टॉम कोई हीरो नहीं
 Tom is no liar.	Tom ist kein Lügner.	टॉम कोई झूठा नहीं है।
 Tom is nodding.	Tom nickt.	टॉम सिर हिला रहा है।
 Tom is obscene.	Tom ist obszön.	टॉम अश्लील है।
+Tom is on duty.	Tom ist im Dienst.	टॉम कर्तव्य पर है।
+Tom is our son.	Tom ist unser Sohn.	टॉम हमारा बेटा है।
+Tom is outside.	Tom ist draußen.	टॉम बाहर है।
+Tom is packing.	Tom packt.	टॉम पैकिंग कर रहा है।
+Tom is panting.	Tom keucht.	टॉम सांस फूल रहा है।
+Tom is patient.	Tom ist geduldig.	टॉम धीरज़ रखता है।
+Tom is perfect.	Tom ist perfekt.	टॉम पूरा है।
+Tom is playing.	Tom spielt.	टॉम खेल रहा है।
+Tom is pleased.	Tom ist erfreut.	टॉम खुश है।
+Tom is pompous.	Tom ist eingebildet.	टॉम ढीला है।
