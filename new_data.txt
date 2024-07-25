@@ -6590,3 +6590,13 @@ It wasn't ours.	Es war nicht unseres.	यह हमारा नहीं था
 It will happen.	Es wird passieren.	यह होगा।
 It works great.	Es funktioniert großartig.	यह बहुत अच्छे से काम करता है।
 It'll be great.	Es wird großartig sein.	यह शानदार होगा।
+It'll be there.	Es wird da sein.	यह वहाँ होगा।
+It'll get cold.	Es wird kalt werden.	यह ठंडा हो जायेगा।
+It'll work now.	Es wird jetzt funktionieren.	यह अब काम करेगा।
+It's Christmas.	Es ist Weihnachten.	यह क्रिसमस है।
+It's OK to cry.	Es ist in Ordnung zu weinen.	रोने के लिए ठीक है।
+It's Tom's car.	Es ist Toms Auto.	यह टॉम की कार है।
+It's Tom's job.	Es ist Toms Arbeit.	यह टॉम का काम है।
+It's Wednesday.	Es ist Mittwoch.	यह बुधवार है।
+It's a bargain.	Es ist ein Schnäppchen.	यह एक सौदा है।
+It's a big one.	Es ist ein Großer.	यह एक बड़ा है।
