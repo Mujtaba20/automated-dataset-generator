@@ -9755,3 +9755,9 @@ Please be quiet.	Sei bitte ruhig.	कृपया शांत रहें।
 Please call Tom.	Bitte rufen Sie Tom an.	कृपया टॉम को बुलाएं।
 Please call him.	Bitte rufen Sie ihn an.	कृपया उसे बुलाएं।
 Please continue.	Bitte fahren Sie fort.	कृपया जारी रखें।
+Please don't go.	Bitte gehen Sie nicht.	कृपया मत जाओ।
+Please find Tom.	Bitte finde Tom.	कृपया टॉम को ढूंढ़ें।
+Please help Tom.	Bitte hilf Tom.	कृपया टॉम की मदद करें।
+Please hurry up!	Bitte beeil dich!	कृपया जल्दी करें!
+Please sit down!	Bitte setzen Sie sich!	कृपया बैठिए!
+Please sit down.	Bitte setzen Sie sich.	कृपया बैठें।
