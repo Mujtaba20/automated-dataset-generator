@@ -19556,3 +19556,12 @@ We met at a party.	Wir haben uns auf einer Party kennengelernt.	हमने प
 We met last night.	Wir trafen uns gestern Abend.	हमने कल रात मिला।
 We met that night.	Wir haben uns an diesem Abend getroffen.	हमने उस रात मिला।
 We miss you a lot.	Wir vermissen dich wirklich.	हमें तुम्हारी बहुत याद आती है।
+We must do it now.	Wir müssen es jetzt tun.	हमें अब यह करना है।
+We must find them.	Wir müssen sie finden.	हमें उन्हें ढूंढना है।
+We must keep calm.	Wir müssen ruhig bleiben.	हमें शांत रहना चाहिए।
+We must pay taxes.	Wir müssen Steuern zahlen.	हमें कर भरना है।
+We must stop them.	Wir müssen sie stoppen.	हमें उन्हें रोकना है।
+We must try again.	Wir müssen es noch einmal versuchen.	हमें फिर से कोशिश करनी चाहिए।
+We must warn them.	Wir müssen sie warnen.	हमें उन्हें चेतावनी देनी है।
+We must work hard.	Wir müssen hart arbeiten.	हमें मेहनत करनी है।
+We nearly starved.	Wir waren fast verhungert.	हम तकलीफ में थे।
