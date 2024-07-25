@@ -4771,3 +4771,10 @@ She likes him. - Different Meaning	Sie liebt ihn.	उसे वह प्या�
 She looks sad.	Sie sieht traurig aus.	वह उदास लग रही है।
 She loves Tom.	Sie liebt Tom.	वह टॉम से प्यार करती है।
 She loves him.	Sie liebt ihn.	उसे वह प्यार करती है।
+She needs you.	Sie benötigt dich.	उसे तुम्हारी आवश्यकता है।
+She obeys him.	Sie befolgt ihn.	उसने उसकी आज्ञा मानी।
+She overslept.	Sie hat verschlafen.	उसने अधिक सो लिया।
+She runs fast.	Sie rennt schnell.	वह तेजी से दौड़ती है।
+She wants him.	Sie will ihn.	उसे वह चाहिए।
+She was brave.	Sie war mutig.	वह बहादुर थी।
+She was livid.	Sie war außer sich.	वह प्रकोपित थी।
