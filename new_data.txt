@@ -1441,3 +1441,13 @@ Be watchful.	Sei aufmerksam.	सावधान रहें।
 Be yourself.	Sei du selbst.	खुद को बनाए रखें।
 Beer's good.	Bier ist gut.	बियर अच्छी है।
 Boys do cry.	Jungen weinen.	लड़के रोते हैं।
+Break it up!	Brechen Sie es auf!	इसे तोड़ दो।
+Breathe out.	Atme aus.	सांस छोड़ो।
+Bring a hat.	Bringen Sie einen Hut.	एक टोपी लाओ।
+Can I begin?	Kann ich anfangen?	क्या मैं शुरू कर सकता हूँ?
+Can it wait?	Kann es warten?	क्या यह इंतजार कर सकता है?
+Can we come?	Können wir kommen?	हम आ सकते हैं क्या?
+Can we help?	Können wir helfen?	हम क्या मदद कर सकते हैं?
+Can we sing?	Können wir singen?	हम गा सकते हैं क्या?
+Can we stop?	Können wir aufhören?	हम रुक सकते हैं क्या?
+Can we stop? (different meaning)	Können wir uns aufhalten?	हम विराम ले सकते हैं क्या?
