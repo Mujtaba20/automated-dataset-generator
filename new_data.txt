@@ -15204,3 +15204,11 @@ When are you off?	Wann gehst du?	तुम जा रहे हो कब?
 When did they go?	Wann sind sie gegangen?	वे कब गए थे?
 When do you work?	Wann arbeitest du?	तू कब काम करता है?
 When does it end?	Wann endet es?	यह कब समाप्त होता है?
+When shall we go?	Wann sollen wir gehen?	हम कब जाएंगे?
+Where am I going?	Wohin gehe ich?	मैं कहाँ जा रहा हूँ?
+Where are we now?	Wo sind wir jetzt?	हम अभी कहाँ हैं?
+Where can I park?	Wo kann ich parken?	मैं कहाँ पार्क कर सकता हूँ?
+Where can we eat?	Wo können wir essen?	हम कहाँ खा सकते हैं?
+Where did you go?	Wohin bist du gegangen?	तुम कहाँ गए थे?
+Where do I sleep?	Wo schlafe ich?	मैं कहाँ सोता हूँ?
+Where is Customs?	Wo ist der Zoll?	कस्टम कहाँ है?
