@@ -371,3 +371,6 @@ It's new.	Es ist neu.	यह नया है।
 It's sad.	Es ist traurig.	यह उदास है।
 Keep out!	Betreten verboten!	बाहर रहें!
 Keep out.	Betreten verboten.	अंदर न जाएं।
+Kill Tom.	Tom töten.	तोम को मारो।
+Kiss Tom.	Schmatze Tom.	टॉम को चुम्मा दो।
+Leave us.	Verlass uns allein.	हमें अकेले छोड़ दो।
