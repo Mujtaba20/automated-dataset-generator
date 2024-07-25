@@ -12681,3 +12681,13 @@ I took the money.	Ich habe das Geld genommen.	मैंने पैसे ल�
 I understand Tom.	Ich verstehe Tom.	मैं टॉम को समझता हूँ।
 I understand now.	Ich verstehe jetzt.	मुझे अब समझ आया है।
 I understand why.	Ich verstehe warum.	मुझे पता है क्यों।
+I understand you.	Ich verstehe dich.	मैं तुम्हें समझता हूँ।
+I used to be fat.	Früher war ich dick.	मैं पहले मोटा था।
+I visited Boston.	Ich habe Boston besucht.	मैंने बोस्टन घूमा।
+I waited an hour.	Ich habe eine Stunde gewartet.	मैंने एक घंटे रुका।
+I waited for Tom.	Ich habe auf Tom gewartet.	मैंने टॉम का इंतजार किया।
+I waited for you.	Ich habe auf dich gewartet.	मैंने तुम्हारा इंतजार किया।
+I walk every day.	Ich gehe jeden Tag spazieren.	मैं हर दिन चलता हूँ।
+I walk to school.	Ich gehe zur Schule.	मैं स्कूल जाता हूँ।
+I walked outside.	Ich bin draußen gelaufen.	मैंने बाहर चला गया।
+I want Tom fired.	Ich möchte, dass Tom entlassen wird.	मुझे चाहिए कि टॉम को निकाल दिया जाए।
