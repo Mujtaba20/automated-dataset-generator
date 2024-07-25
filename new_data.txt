@@ -10114,3 +10114,13 @@ This is useless.	Das ist nutzlos.	यह बेकार है।
 This isn't easy.	Das ist nicht einfach.	यह आसान नहीं है।
 This isn't fair.	Das ist nicht fair.	यह न्यायसंगत नहीं है।
 This isn't fair_2.	Das ist nicht fair.	इसके साथ न्याय नहीं हो रहा है।
+This isn't food.	Das ist kein Essen.	यह भोजन नहीं है।
+This isn't good.	Das ist nicht gut.	यह अच्छा नहीं है।
+This isn't love.	Das ist keine Liebe.	यह प्यार नहीं है।
+This isn't mine.	Das gehört nicht mir.	यह मेरा नहीं है।
+This isn't news.	Das sind keine Neuigkeiten.	यह खबरें नहीं हैं।
+This isn't over.	Das ist noch nicht vorbei.	यह खत्म नहीं हुआ है।
+This isn't real.	Das ist nicht echt.	यह वास्तविक नहीं है।
+This isn't safe.	Das ist nicht sicher.	यह सुरक्षित नहीं है।
+This isn't salt.	Das ist kein Salz.	यह नमक नहीं है।
+This looks good.	Das sieht gut aus.	यह अच्छा लग रहा है।
