@@ -13732,3 +13732,12 @@ The goat bleated.	Die Ziege blökte.	बकरी में बहुआ आई�
 The gun went off.	Das Gewehr ging los.	बंदूक चल गई।
 The hat is yours.	Der Hut gehört dir.	टोपी तुम्हारी है।
 The joke's on me.	Der Witz ist auf mir.	मजाक मेरे साथ है।
+The kid got hurt.	Das Kind hat sich verletzt.	बच्चे को चोट लग गई।
+The lab is empty.	Das Labor ist leer.	लैब खाली है।
+The light is off.	Das Licht ist aus.	रोशनी बंद है।
+The light is out.	Das Licht ist ausgegangen.	रोशनी बुझ गई है।
+The light was on.	Das Licht war an.	रोशनी चालू थी।
+The line is busy.	Die Leitung ist besetzt.	लाइन बिजी है।
+The man is naked.	Der Mann ist nackt.	आदमी नंगा है।
+The man is right.	Der Mann hat Recht.	व्यक्ति सही है।
+The man ran away.	Der Mann ist davongelaufen.	आदमी फरार हो गया।
