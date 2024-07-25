@@ -10752,3 +10752,12 @@ Tom sounded mad.	Tom klang verrückt.	टॉम पागल लग रहा �
 Tom sounds nice.	Tom klingt nett.	टॉम अच्छा लगता है।
 Tom sounds nuts.	Tom klingt verrückt.	टॉम पागल लग रहा है।
 Tom speaks fast.	Tom spricht schnell.	टॉम तेज़ी से बोलता है।
+Tom spoke again.	Tom sprach erneut.	टॉम फिर बोला।
+Tom spoke first.	Tom sprach zuerst.	टॉम ने सबसे पहले बोला।
+Tom stabbed her.	Tom erstach sie.	टॉम ने उसे चाकू से घायल किया।
+Tom stabbed him.	Tom erstach ihn.	टॉम ने उसे चाकू से घायल किया।
+Tom stared back.	Tom starrte zurück.	टॉम पीछे घूमकर देख रहा था।
+Tom stayed calm.	Tom blieb ruhig.	टॉम शांत रहा।
+Tom stayed cool.	Tom blieb cool.	टॉम ठंडा रहा।
+Tom stayed here.	Tom blieb hier.	टॉम यहाँ रहा।
+Tom stayed home.	Tom blieb zu Hause.	टॉम घर पर रुका।
