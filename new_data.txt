@@ -14355,3 +14355,12 @@ Tom is wonderful.	Tom ist wunderbar.	टॉम बहुत शानदार �
 Tom isn't Jewish.	Tom ist nicht jüdisch.	टॉम यहूदी नहीं है।
 Tom isn't a chef.	Tom ist kein Koch.	टॉम एक शेफ नहीं है।
 Tom isn't a fool.	Tom ist kein Narr.	टॉम एक मूर्ख नहीं है।
+Tom isn't a girl.	Tom ist kein Mädchen.	टॉम एक लड़की नहीं है।
+Tom isn't a hero.	Tom ist kein Held.	टॉम कोई सबल नहीं है।
+Tom isn't a liar.	Tom ist kein Lügner.	टॉम झूठा नहीं है।
+Tom isn't active.	Tom ist nicht aktiv.	टॉम सक्रिय नहीं है।
+Tom isn't afraid.	Tom hat keine Angst.	टॉम डरा हुआ नहीं है।
+Tom isn't amused.	Tom ist nicht amüsiert.	टॉम मनोरंजित नहीं है।
+Tom isn't around.	Tom ist nicht hier.	टॉम आसपास नहीं है।
+Tom isn't asleep.	Tom schläft nicht.	टॉम सोया नहीं है।
+Tom isn't boring.	Tom ist nicht langweilig.	टॉम उबाऊ नहीं है।
