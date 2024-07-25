@@ -12821,3 +12821,11 @@ I'm Tom's mother.	Ich bin Toms Mutter.	मैं टॉम की माँ ह�
 I'm Tom's nephew.	Ich bin Toms Neffe.	मैं टॉम का भतीजा हूँ।
 I'm Tom's sister.	Ich bin Toms Schwester.	मैं टॉम की बहन हूँ।
 I'm a US citizen.	Ich bin US-Bürger.	मैं अमेरिकी नागरिक हूँ।
+I'm a bit groggy.	Ich bin ein bisschen benommen.	मैं थोड़ा धीमा हूँ।
+I'm a bit hungry.	Ich habe ein wenig Hunger.	मुझे थोड़ी भूख लगी है।
+I'm a bus driver.	Ich bin Busfahrer.	मैं बस चालक हूं।
+I'm a cab driver.	Ich bin Taxifahrer.	मैं कैब ड्राइवर हूँ।
+I'm a doctor now.	Ich bin jetzt Arzt.	मैं अब डॉक्टर हूं।
+I'm a hockey fan.	Ich bin ein Eishockey-Fan.	मैं हॉकी प्रेमी हूं।
+I'm a journalist.	Ich bin Journalist.	मैं पत्रकार हूं।
+I'm a late riser.	Ich bin ein Langschläfer.	मैं देर से उठने वाला हूं।
