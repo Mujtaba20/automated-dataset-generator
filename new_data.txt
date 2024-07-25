@@ -3733,3 +3733,6 @@ Are you alive?	Lebst du?	क्या तुम जीवित हो?
 Are you alone?	Bist du allein?	क्या तुम अकेले हो?
 Are you awake?	Bist du aufgewacht?	क्या तुम जाग रहे हो?
 Are you blind?	Bist du blind?	क्या तुम अंधे हो?
+Are you bored?	Bist du gelangweilt?	क्या आप उब हैं?
+Are you brave?	Bist du mutig?	क्या तुम बहादुर हो?
+Are you crazy?	Bist du verrückt?	क्या तुम उन्मादी हो?
