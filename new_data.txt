@@ -5913,3 +5913,13 @@ How exhausting!	Wie anstrengend!	कितना थकाऊ!
 How high is it?	Wie hoch ist es?	यह कितनी ऊँची है?
 How is Tom now?	Wie geht es jetzt Tom?	अब टॉम कैसा है?
 How is it made?	Wie wird es gemacht?	यह कैसे बनाया जाता है?
+How late is it?	Wie spät ist es?	यह कितने बजे हैं?
+How long is it?	Wie lang ist es?	यह कितनी देर तक है?
+How lucky I am!	Wie glücklich ich bin!	मैं कितने भाग्यशाली हूँ!
+How much is it?	Wie viel kostet es?	यह कितना है?
+How old is Tom?	Wie alt ist Tom?	टॉम की उम्र कितनी है?
+How perceptive!	Wie aufmerksam!	कितने सजग!
+How tall is he?	Wie groß ist er?	वह कितना लंबा है?
+How time flies!	Wie die Zeit vergeht!	समय कैसे उड़ता है!
+How was Boston?	Wie war Boston?	बोस्टन कैसा था?
+How wide is it?	Wie breit ist es?	यह कितना चौड़ा है?
