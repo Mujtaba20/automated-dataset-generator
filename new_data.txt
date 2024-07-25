@@ -17919,3 +17919,12 @@ That sounds right.	Das klingt richtig.	वह सही सुनाई दे�
 That sounds scary.	Das klingt beängstigend.	वह डराने वाला लगता है।
 That surprises me.	Das überrascht mich.	वह मुझे हैरान कर देता है।
 That too may help.	Das könnte auch helfen.	वह भी मदद कर सकता है।
+That was fabulous.	Es war großartig.	वह बहुत बढ़िया था।
+That was our home.	Das war unser Zuhause.	वह हमारा घर था।
+That was our plan.	Das war unser Plan.	वह हमारा योजना था।
+That was pathetic.	Das war armselig.	वह दयनीय था।
+That was terrible.	Das war schrecklich.	वह भयानक था।
+That was the plan.	Das war der Plan.	वह योजना थी।
+That wasn't funny.	Das war nicht lustig.	वह मजाकिय नहीं था।
+That won't change.	Das wird sich nicht ändern.	यह बदलेगा नहीं।
+That won't happen.	Das wird nicht passieren.	यह नहीं होगा।
