@@ -1519,3 +1519,13 @@ Go with Tom.	Geh mit Tom.	Tom के साथ जाओ।
 Guess again.	Rate noch einmal.	फिर से अनुमान लगाओ।
 Go to sleep. - 2	Schlaf ein.	सो जा।
 Guess again. - 2	Versuch es erneut zu raten.	फिर से सोचो।
+Have a look.	Schau mal.	एक नज़र डालो।
+Have a seat.	Nehmen Sie Platz.	बैठिए।
+Have we met?	Haben wir uns getroffen?	क्या हम मिल चुके हैं?
+He can come.	Er kann kommen.	वह आ सकता है।
+He can read.	Er kann lesen.	उसे पढ़ने की शक्ति है।
+He can swim.	Er kann schwimmen.	वह तैर सकता है।
+He chuckled.	Er kicherte.	उसने खिलखिलाया।
+He found it.	Er hat es gefunden.	उसने यह मिला।
+He got away.	Er ist entkommen.	उसने बच निकला।
+He has come!	Er ist gekommen!	वह आ गया है!
