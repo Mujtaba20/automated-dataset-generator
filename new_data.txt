@@ -7509,3 +7509,12 @@ Tom made me go.	Tom hat mich gehen lassen.	टॉमने मुझे चल�
 Tom made noise.	Tom machte Lärm.	टॉमने शोर मचाया।
 Tom made plans.	Tom hat Pläne gemacht.	टॉमने योजनाएँ बनाई।
 Tom may be hot.	Tom könnte heiß sein.	टॉम गर्म हो सकता है।
+Tom may be out.	Tom könnte draußen sein.	टॉम बाहर हो सकता है।
+Tom may change.	Tom könnte sich ändern.	टॉम बदल सकता है।
+Tom means well.	Tom meint es gut.	टॉम का मतलब अच्छा है।
+Tom meant that.	Tom meinte das.	टॉम ने वह कहा था।
+Tom meant well.	Tom meinte es gut.	टॉम ने अच्छा मतलब रखा था।
+Tom might come.	Tom könnte kommen.	टॉम आ सकता है।
+Tom might know.	Tom könnte wissen.	टॉम को मालूम हो सकता है।
+Tom might talk.	Tom könnte reden.	टॉम बात कर सकता है।
+Tom might wait.	Tom könnte warten.	टॉम इंतेज़ार कर सकता है।
