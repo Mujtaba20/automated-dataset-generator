@@ -17067,3 +17067,12 @@ I'm coming to you.	Ich komme zu dir.	मैं तुम्हारे पा�
 I'm concentrating.	Ich konzentriere mich.	मैं ध्यान दे रहा हूँ।
 I'm conscientious.	Ich bin gewissenhaft.	मैं जिम्मेदारीपूर्वक काम कर रहा हूँ।
 I'm doing my best.	Ich gebe mein Bestes.	मैं अपनी सर्वोत्तम कोशिश कर रहा हूँ।
+I'm done with you.	Ich bin fertig mit dir.	मैं तुम्हारे साथ कर चुका हूँ।
+I'm drinking milk.	Ich trinke Milch.	मैं दूध पी रहा हूँ।
+I'm enjoying this.	Ich genieße das.	मुझे यह मजा आ रहा है।
+I'm expecting Tom.	Ich erwarte Tom.	मैं टॉम की उम्मीद कर रहा हूँ।
+I'm fairly hungry.	Ich bin ziemlich hungrig.	मैं काफी भूखा हूँ।
+I'm feeling dizzy.	Mir ist schwindlig.	मुझे चक्कर आ रहा है।
+I'm feeling tired.	Ich fühle mich müde.	मैं थका हुआ महसूस कर रहा हूँ।
+I'm first in line.	Ich stehe an erster Stelle.	मैं पहले स्थान पर हूँ।
+I'm flabbergasted.	Ich bin verblüfft.	मैं हैरान हूँ।
