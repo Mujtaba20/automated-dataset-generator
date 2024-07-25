@@ -10761,3 +10761,13 @@ Tom stayed calm.	Tom blieb ruhig.	टॉम शांत रहा।
 Tom stayed cool.	Tom blieb cool.	टॉम ठंडा रहा।
 Tom stayed here.	Tom blieb hier.	टॉम यहाँ रहा।
 Tom stayed home.	Tom blieb zu Hause.	टॉम घर पर रुका।
+Tom stayed late.	Tom blieb lange auf.	टॉम देर तक रहा।
+Tom stayed over.	Tom übernachtete.	टॉम रुका रहा।
+Tom stood alone.	Tom stand allein da.	टॉम अकेले खड़ा था।
+Tom stood rigid.	Tom stand starr da.	टॉम कड़क था।
+Tom stood there.	Tom stand dort.	टॉम वहाँ खड़ा था।
+Tom surrendered.	Tom ergab sich.	टॉम समर्पित हो गया।
+Tom sympathized.	Tom zeigte Mitgefühl.	टॉम सहानभूति दिखाई।
+Tom talks a lot.	Tom redet viel.	टॉम बहुत बोलता है।
+Tom talks funny.	Tom redet lustig.	टॉम मजाकिया बातें करता है।
+Tom talks tough.	Tom redet hart.	टॉम खड़ी सुनता है।
