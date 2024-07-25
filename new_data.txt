@@ -6219,3 +6219,11 @@ I promised Tom.	Ich habe Tom versprochen.	मैंने टॉम को व�
 I quit smoking.	Ich höre mit dem Rauchen auf.	मैं धूम्रपान छोड़ दिया।
 I raise cattle.	Ich züchte Rinder.	मैं पशु पालन करता हूँ।
 I ran past Tom.	Ich bin an Tom vorbeigelaufen.	मैंने टॉम के पास दौड़ा।
+I ran upstairs.	Ich lief die Treppe hinauf.	मैं ऊपर भागा।
+I rejected Tom.	Ich lehnte Tom ab.	मैंने टॉम को नकारा।
+I remember Tom.	Ich erinnere mich an Tom.	मैं टॉम को याद करता हूँ।
+I remember her.	Ich erinnere mich an sie.	मैं उसे याद करता हूँ।
+I remember now.	Ich erinnere mich jetzt.	मुझे अब याद आ रहा है।
+I rewarded Tom.	Ich belohnte Tom.	मैंने टॉम को इनाम दिया।
+I said get out!	Ich sagte, geh raus!	मैंने कहा, बाहर जाओ!
+I said get out.	Ich sagte, geh raus.	मैंने कहा, बाहर जाओ।
