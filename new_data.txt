@@ -15921,3 +15921,10 @@ Has Tom eaten yet?	Hat Tom schon gegessen?	क्या टॉम ने अभ�
 Has Tom gone home?	Ist Tom nach Hause gegangen?	क्या टॉम घर चला गया है?
 Has Tom gone, too?	Ist Tom auch verschwunden?	क्या टॉम भी गया है?
 Has the bell rung?	Hat die Glocke geläutet?	क्या घंटी बजी है?
+Have a drink, Tom.	Trink etwas, Tom.	टॉम, कुछ पी लो।
+Have a great time.	Haben Sie eine tolle Zeit.	मजे कीजिए।
+Have another beer.	Noch ein Bier, bitte.	एक और बीयर लेलीजिये।
+Have you finished?	Hast du fertig?	क्या आप पूरा कर चुके हैं?
+Have you gone mad?	Bist du verrückt geworden?	क्या तुम पागल हो गए हो?
+Have you seen her?	Hast du sie gesehen?	क्या तुमने उसे देखा है?
+Have you showered?	Hast du geduscht?	क्या आपने नहाया है?
