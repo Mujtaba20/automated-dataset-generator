@@ -7683,3 +7683,13 @@ Tom will speak.	Tom wird sprechen.	टॉम बोलेगा।
 Tom will start.	Tom wird starten.	टॉम शुरू होगा।
 Tom won't bite.	Tom wird nicht beißen.	टॉम काटेगा नहीं।
 Tom won't care.	Tom wird sich nicht kümmern.	टॉम फर्क नहीं पड़ेगा।
+Tom won't come.	Tom wird nicht kommen.	टॉम नहीं आएगा।
+Tom won't deal.	Tom wird nicht verhandeln.	टॉम समझौता नहीं करेगा।
+Tom won't help.	Tom wird nicht helfen.	टॉम मदद नहीं करेगा।
+Tom won't know.	Tom wird nicht wissen.	टॉम पता नहीं करेगा।
+Tom won't lose.	Tom wird nicht verlieren.	टॉम हार नहीं पाएगा।
+Tom won't mind.	Tom wird nicht ausmachen.	टॉम फर्क नहीं पड़ेगा।
+Tom won't sing.	Tom wird nicht singen.	टॉम गाने नहीं बजाएगा।
+Tom won't stay.	Tom wird nicht bleiben.	टॉम ठहरने नहीं रहेगा।
+Tom won't stop.	Tom wird nicht aufhören.	टॉम रोक नहीं पाएगा।
+Tom won't talk.	Tom wird nicht sprechen.	टॉम बात नहीं करेगा।
