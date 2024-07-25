@@ -1824,3 +1824,12 @@ I'm the law.	Ich bin das Gesetz.	मैं कानून हूँ।
 I'm the law. (2)	Ich halte mich an das Gesetz.	मैं कानून का पालन करता हूँ।
 I'm thirsty.	Ich habe Durst.	मुझे प्यास लगी है।
 I'm thirsty. (2)	Ich verlange Wasser.	मुझे पानी चाहिए।
+I'm through.	Ich bin fertig.	मैं समाप्त हो गया।
+I'm touched.	Ich bin berührt.	मैं छू गया।
+I'm trapped.	Ich bin gefangen.	मैं फंस गया।
+I'm unarmed.	Ich bin unbewaffnet.	मैं असशस्त्र हूँ।
+I'm unhappy.	Ich bin unglücklich.	मैं अद्यान्त नहीं हूँ।
+I'm unlucky.	Ich habe kein Glück.	मैं अभागी हूँ।
+I'm unusual.	Ich bin ungewöhnlich.	मैं असामान्य हूँ।
+I'm up here.	Ich bin hier oben.	मैं यहाँ ऊपर हूँ।
+I'm useless.	Ich bin nutzlos.	मैं अनावश्यक हूँ।
