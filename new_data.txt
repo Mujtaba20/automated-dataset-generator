@@ -990,3 +990,8 @@ I had help.	Ich hatte Hilfe.	मेरी मदद हुई थी।
 I hate Tom.	Ich hasse Tom.	मुझे टॉम से नफरत है।
 I have one.	Ich habe eins.	मेरे पास एक है।
 I have won.	Ich habe gewonnen.	मैंने जीत ली है।
+I hear you.	Ich höre dich.	मैं तुम्हे सुना।
+I heard it.	Ich habe es gehört.	मैंने यह सुना।
+I help him.	Ich helfe ihm.	मैं उसकी मदद करता हूँ।
+I hope not.	Ich hoffe nicht.	उम्मीद नहीं।
+I just ate.	Ich habe gerade gegessen.	मैंने अभी खाया।
