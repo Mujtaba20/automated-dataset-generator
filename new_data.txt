@@ -6960,3 +6960,13 @@ That's correct.	Das ist richtig.	यह सही है।
 That's for Tom.	Das ist für Tom.	यह टॉम के लिए है।
 That's evident.	Das ist offensichtlich.	वह प्रत्याख्यान है।
 That's foolish.	Das ist albern.	यह मूर्खपन है।
+That's for you.	Das ist für dich.	यह तुम्हारे लिए है।
+That's hogwash.	Das ist Unsinn.	यह कुरोटिन है।
+That's illegal.	Das ist illegal.	यह अवैध है।
+That's immoral.	Das ist unmoralisch.	यह अनैतिक है।
+That's justice.	Das ist Gerechtigkeit.	यह न्याय है।
+That's logical.	Das ist logisch.	यह तार्किक है।
+That's my book.	Das ist mein Buch.	यह मेरी किताब है।
+That's my doll.	Das ist meine Puppe.	यह मेरी गुड़िया है।
+That's my idea.	Das ist meine Idee.	यह मेरी विचार है।
+That's my line!	Das ist meine Linie!	यह मेरी रेखा है!
