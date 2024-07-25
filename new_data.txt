@@ -13791,3 +13791,11 @@ They deserved it.	Sie haben es verdient.	उन्हें यह लायक 
 They did nothing.	Sie haben nichts getan.	उन्होंने कुछ नहीं किया।
 They disappeared.	Sie sind verschwunden.	वे गायब हो गए।
 They dug a grave.	Sie gruben ein Grab.	उन्होंने एक कब्र खोदी।
+They feel hungry.	Sie fühlen sich hungrig.	वे भूख महसूस करते हैं।
+They forgave you.	Sie haben dich vergeben.	उन्होंने तुम्हें माफ किया।
+They got married.	Sie haben geheiratet.	उन्होंने शादी की।
+They ignored Tom.	Sie haben Tom ignoriert.	उन्होंने टॉम को नजरअंदाज किया।
+They know I know.	Sie wissen, dass ich es weiß.	उन्हें पता है कि मुझे पता है।
+They like apples.	Sie mögen Äpfel.	उन्हें सेब पसंद हैं।
+They live nearby.	Sie wohnen in der Nähe.	वे निकट में रहते हैं।
+They love coffee.	Sie lieben Kaffee.	उन्हें कॉफ़ी पसंद है।
