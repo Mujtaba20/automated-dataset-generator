@@ -17775,3 +17775,10 @@ She speaks Polish.	Sie spricht Polnisch.	वह पोलिश बोलती 
 She speaks loudly.	Sie spricht laut.	वह जोर-शोर से बोलती है।
 She spoke rapidly.	Sie sprach schnell.	उसने तेजी से बात की।
 She talks quickly.	Sie spricht schnell.	वह तेजी से बात करती है।
+She threw him out.	Sie warf ihn hinaus.	उसने उसे बाहर फेंक दिया।
+She took her book.	Sie nahm ihr Buch.	उसने अपनी किताब ली।
+She tried to swim.	Sie versuchte zu schwimmen.	उसने तैरने की कोशिश की।
+She was depressed.	Sie war depressiv.	उसे अवसाद था।
+She was very busy.	Sie war sehr beschäftigt.	वह बहुत व्यस्त थी।
+She went shopping.	Sie ging einkaufen.	वह खरीदारी के लिए गई।
+She went upstairs.	Sie ging nach oben.	वह ऊपर चली गई।
