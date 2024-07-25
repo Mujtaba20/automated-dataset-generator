@@ -11982,3 +11982,11 @@ He is past forty.	Er ist über vierzig.	वह चालीस के पार 
 He is photogenic.	Er ist fotogen.	उसकी फोटो अच्छी आती है।
 He is still here.	Er ist immer noch hier.	वह अभी भी यहाँ है।
 He is unsociable.	Er ist nicht gesellig.	वह सामाजिक नहीं होता।
+He is up to date.	Er ist auf dem neuesten Stand.	वह अद्यतन है।
+He is very brave.	Er ist sehr tapfer.	वह बहुत साहसी है।
+He is very young.	Er ist sehr jung.	वह बहुत युवा है।
+He is well-liked.	Er ist beliebt.	उसे पसंद किया जाता है।
+He isn't perfect.	Er ist nicht perfekt.	वह पूर्ण नहीं है।
+He just got home.	Er ist gerade nach Hause gekommen.	वह अभी घर आया है।
+He keeps a diary.	Er führt ein Tagebuch.	वह एक डायरी रखता है।
+He kept his word.	Er hat sein Wort gehalten.	उसने अपना वादा निभाया।
