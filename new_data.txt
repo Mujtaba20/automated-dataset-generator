@@ -1734,3 +1734,13 @@ I was there.	Ich war da.	मैं वहाँ था।
 I was tired.	Ich war müde.	मैं थका हुआ था।
 I was upset.	Ich war verärgert.	मैं उदास था।
 I was wrong.	Ich habe mich geirrt.	मैं गलत था।
+I went home.	Ich bin nach Hause gegangen.	मैं घर गया।
+I whispered.	Ich flüsterte.	मैंने फुसफुसाया।
+I whispered. (different meaning)	Ich murmelte.	मैंने चुपचाप कहा।
+I will come.	ich werde kommen.	मैं आऊंगा।
+I will help.	Ich werde helfen.	मैं मदद करूंगा।
+I will obey.	Ich werde gehorchen.	मैं आज्ञा मानूंगा।
+I will stay.	Ich werde bleiben.	मैं रहूंगा।
+I will wait.	Ich werde warten.	मैं इंतजार करूँगा।
+I will walk.	Ich werde laufen.	मैं चलूंगा।
+I won again.	Ich habe wieder gewonnen.	मैंने फिर जीत ली।
