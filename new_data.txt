@@ -5814,3 +5814,12 @@ He isn't young.	Er ist nicht jung.	वह जवान नहीं है।
 He keeps a cat.	Er hält eine Katze.	वह एक बिल्ली रखता है।
 He lay face up.	Er lag mit dem Gesicht nach oben.	वह चेहरा ऊपर करके पड़ा था।
 He learns fast.	Er lernt schnell.	वह जल्दी सीख लेता है।
+He likes money.	Er mag Geld.	उसे पैसों की पसंद है।
+He lives alone.	Er lebt alleine.	वह अकेला रहता है।
+He looked away.	Er sah weg.	उसने दूर की ओर देखा।
+He looked back.	Er sah sich um.	उसने पीछे देखा।
+He looked well.	Er sah sich gut um.	उसने अच्छे से देखा।
+He looks bored.	Er sieht gelangweilt aus.	वह उबकाई लग रहा है।
+He looks happy.	Er sieht glücklich aus.	वह खुश दिखता है।
+He looks stern.	Er sieht ernst aus.	वह कठोर दिखता है।
+He looks young.	Er sieht jung aus.	वह जवान लगता है।
