@@ -17516,3 +17516,11 @@ Life is enjoyable.	Das Leben ist angenehm.	जीवन आनंददायक
 Life is too short.	Das Leben ist zu kurz.	जिंदगी बहुत छोटी है।
 Life is very hard.	Das Leben ist sehr schwer.	जीवन बहुत कठिन है।
 Light the candles.	Entzünde die Kerzen.	दीपक जलाओ।
+Lions are animals.	Löwen sind Tiere.	शेर जानवर हैं।
+Listen to me, Tom.	Hör mir zu, Tom.	मेरी बात सुनो, टॉम।
+Live and let live.	Lebe und lass leben.	जीवित रहो और दूसरों को भी जीने दो।
+Long time, no see.	Lange nicht gesehen.	बहुत समय बाद मिले हो।
+Look at the girls.	Blick auf die Mädchen.	लड़कियों को देखो।
+Look at the price.	Schau dir den Preis an.	मूल्य पर नजर डालें।
+Look at the stars.	Schau dir die Sterne an.	तारों की ओर देखो।
+Look into my eyes.	Schau mir in die Augen.	मेरी आंखों में देखो।
