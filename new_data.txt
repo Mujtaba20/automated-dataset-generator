@@ -16098,3 +16098,11 @@ He took a picture.	Er hat ein Foto gemacht.	उसने एक तस्वी�
 He travels around.	Er reist umher.	वह चक्कर लगाता है।
 He turned the key.	Er hat den Schlüssel gedreht.	उसने कुंजी को घुमाया।
 He turned traitor.	Er hat sich verraten.	उसने गद्दारी की।
+He twisted my arm.	Er hat meinen Arm verdreht.	उसने मेरी बांह घुमाई।
+He violated a law.	Er hat gegen ein Gesetz verstoßen.	उसने एक कानून का उल्लंघन किया।
+He wakes up early.	Er wacht früh auf.	वह जल्दी उठता है।
+He walked quietly.	Er ging leise.	वह चुपचाप चला।
+He walked rapidly.	Er lief schnell.	वह तेज़ी से चला।
+He wants an apple.	Er möchte einen Apfel.	उसे एक सेब चाहिए।
+He was a tall man.	Er war ein großer Mann.	वह एक लम्बा आदमी था।
+He was all smiles.	Er strahlte über das ganze Gesicht.	वह सभी मुस्कानें थे।
