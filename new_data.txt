@@ -7797,3 +7797,13 @@ We had to walk.	Wir mussten zu Fuß gehen.	हमें चलना पड़ा�
 We have a farm.	Wir haben einen Bauernhof.	हमारे पास एक खेत है।
 We have a plan.	Wir haben einen Plan.	हमारे पास एक योजना है।
 We have guests.	Wir haben Gäste.	हमारे मेहमान हैं।
+We have it all.	Wir haben alles.	हमारे पास सब कुछ है।
+We heard shots.	Wir hörten Schüsse.	हमने गोलियों की आवाज सुनी।
+We ignored Tom.	Wir ignorierten Tom.	हमने टॉम को नजरअंदाज किया।
+We knew enough.	Wir wussten genug.	हमें काफी पता था।
+We knew no one.	Wir kannten niemanden.	हम किसी को नहीं जानते थे।
+We know enough.	Wir wissen genug.	हमें काफी पता है।
+We laugh a lot.	Wir lachen viel.	हम बहुत हंसते हैं।
+We love coffee.	Wir lieben Kaffee.	हम कॉफी पसंद करते हैं।
+We made him go.	Wir ließen ihn gehen.	हमने उसे जाने दिया।
+We met earlier.	Wir trafen uns früher.	हम पहले मिले थे।
