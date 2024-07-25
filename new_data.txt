@@ -6347,3 +6347,10 @@ I'll handle it.	Das werde ich erledigen.	मैं इसे संभाल ल
 I'll miss that.	Das werde ich vermissen.	मुझे यह याद आ जाएगा।
 I'll move soon.	Ich werde bald umziehen.	मैं जल्द ही रुकूंगा।
 I'll pay later.	Ich werde später bezahlen.	मैं बाद में पैसे दूंगा।
+I'll phone you.	Ich werde dich anrufen.	मैं तुम्हें फोन करूँगा।
+I'll pray hard.	Ich werde fest beten.	मैं मजबूती से प्रार्थना करूँगा।
+I'll risk that.	Ich werde das riskieren.	मैं उस जोखिम में पड़ूँगा।
+I'll scold him.	Ich werde ihn ausschimpfen.	मैं उसे डाँटूँगा।
+I'll see to it.	Ich werde dafür sorgen.	मैं इस मामले का ध्यान रखूँगा।
+I'll shoot you.	Ich werde dich erschießen.	मैं तुम्हें गोली मार दूँगा।
+I'll stay here.	Ich werde hier bleiben.	मैं यहाँ रहूँगा।
