@@ -5210,3 +5210,13 @@ Tom's healthy.	Tom ist gesund.	टॉम स्वस्थ है।
 Tom's helping.	Tom hilft.	टॉम मदद कर रहा है।
 Tom's injured.	Tom ist verletzt.	टॉम चोट आई है।
 Tom's limping.	Tom hinkt.	टॉम लिम्पिंग कर रहे हैं।
+Tom's missing.	Tom fehlt.	टॉम गायब है।
+Tom's packing.	Tom packt.	टॉम पैकिंग कर रहा है।
+Tom's resting.	Tom ruht.	टॉम आराम कर रहा है।
+Tom's singing.	Tom singt.	टॉम गा रहा है।
+Tom's smoking.	Tom raucht.	टॉम सिगरेट पी रहा है।
+Tom's strange.	Tom ist seltsam.	टॉम अजीब है।
+Tom's thirsty.	Tom hat Durst.	टॉम प्यासा है।
+Tom's unarmed.	Tom ist unbewaffnet.	टॉम सशस्त्रहीन है।
+Tom's useless.	Tom ist nutzlos.	टॉम बेकार है।
+Tom's violent.	Tom ist gewalttätig.	टॉम हिंसक है।
