@@ -1,15 +1,4 @@
 
-You can't stop me.	Du kannst mich nicht aufhalten.	तुम मुझे नहीं रोक सकते।
-You could ask Tom.	Du könntest Tom fragen.	आप टॉम से पूछ सकते हैं।
-You could ask Tom.	Ihr könntet Tom fragen.	आप टॉम से पूछ सकते हैं।
-You could ask Tom.	Sie könnten Tom fragen.	आप टॉम से पूछ सकते हैं।
-You could do that.	Du könntest das tun.	आप ऐसा कर सकते हैं।
-You could do that.	Ihr könntet das tun.	आप ऐसा कर सकते हैं।
-You could do that.	Sie könnten das tun.	आप ऐसा कर सकते हैं।
-You could do this.	Du könntest das tun.	आप ऐसा कर सकते हैं।
-You could help me.	Du könntest mir helfen.	मुझे आपसे सहायता मिल सकी।
-You could help me.	Ihr könntet mir helfen.	मुझे आपसे सहायता मिल सकी।
-You could help me.	Sie könnten mir helfen.	मुझे आपसे सहायता मिल सकी।
 You could've died.	Du hättest sterben können.	आप मर सकते थे।
 You did your best.	Du hast dein Bestes gegeben.	अपनी ओर से तुमने सर्वोत्तम प्रयास किया।
 You did your best.	Sie haben Ihr Bestes gegeben.	अपनी ओर से तुमने सर्वोत्तम प्रयास किया।

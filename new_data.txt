@@ -20025,3 +20025,8 @@ You can't miss it.	Du kannst es nicht verpassen.	तुम इसे नही�
 You can't sell it.	Du kannst es nicht verkaufen.	तुम इसे नहीं बेच सकते।
 You can't just go. 2	Du kannst nicht einfach gehen.	तुम बस जा नहीं सकते।
 You can't miss it. 2	Du kannst es nicht übersehen.	तुम इसे नहीं छोड़ सकते।
+You can't stop me.	Du kannst mich nicht aufhalten.	तुम मुझे नहीं रोक सकते।
+You could ask Tom.	Du könntest Tom fragen.	तुम टॉम से पूछ सकते थे।
+You could do that.	Das könntest du machen.	तुम वह कर सकते थे।
+You could do this.	Das könntest du tun.	तुम यह कर सकते थे।
+You could help me.	Du könntest mir helfen.	तुम मेरी मदद कर सकते थे।
