@@ -10378,3 +10378,13 @@ Tom is depraved.	Tom ist verdorben.	टॉम दुष्ट है।
 Tom is deranged.	Tom ist wahnsinnig.	टॉम पागल है।
 Tom is diabetic.	Tom ist diabetisch.	टॉम मधुमेही है।
 Tom is diligent.	Tom ist fleißig.	टॉम मेहनती है।
+Tom is discreet.	Tom ist diskret.	टॉम गुप्तचर या विश्वसनीय।
+Tom is disloyal.	Tom ist illoyal.	टॉम अविश्वसनीय है।
+Tom is divorced.	Tom ist geschieden.	टॉम तलाकशुदा है।
+Tom is doing OK.	Tom macht es gut.	टॉम ठीक कर रहा है।
+Tom is doubtful.	Tom ist zweifelhaft.	टॉम संदेहजनक है।
+Tom is dreaming.	Tom träumt.	टॉम सपना देख रहा है।
+Tom is drenched.	Tom ist durchnässt.	टॉम भीगा हुआ है।
+Tom is drowning!	Tom ertrinkt!	टॉम डूब रहा है!
+Tom is drowning.	Tom ertrinkt.	टॉम गले में पानी भर रहा है।
+Tom is ecstatic.	Tom ist ekstatisch.	टॉम उत्साहित है।
