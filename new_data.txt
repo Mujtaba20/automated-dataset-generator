@@ -8899,3 +8899,12 @@ I looked at Tom.	Ich habe Tom angesehen.	मैंने टॉम को दे
 I lost interest.	Ich habe das Interesse verloren.	मुझे रुचि खो गई।
 I lost that bet.	Ich habe diese Wette verloren.	मैंने उस दांव पर हार गया।
 I love broccoli.	Ich liebe Brokkoli.	मुझे ब्रोकोली पसंद है।
+I love comedies.	Ich liebe Komödien.	मुझे हास्य फिल्में पसंद हैं।
+I love my house.	Ich liebe mein Haus.	मैं अपने घर से प्यार करता हूँ।
+I love the idea.	Ich liebe die Idee.	मुझे यह विचार पसंद है।
+I love this car.	Ich liebe dieses Auto.	मुझे यह कार पसंद है।
+I love this one.	Ich liebe diese.	मुझे यह पसंद है।
+I love to dance.	Ich liebe es zu tanzen.	मुझे नाचना पसंद है।
+I love to party.	Ich liebe es zu feiern.	मुझे पार्टी मनाना पसंद है।
+I love tomatoes.	Ich liebe Tomaten.	मुझे टमाटर पसंद हैं।
+I love weddings.	Ich liebe Hochzeiten.	मुझे शादियों से प्यार है।
