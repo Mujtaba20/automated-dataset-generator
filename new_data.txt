@@ -16853,3 +16853,10 @@ I think it's fine.	Ich denke, es ist in Ordnung.	मुझे लगता ह�
 I think it's good.	Ich denke, es ist gut.	मुझे लगता है कि यह अच्छा है।
 I think it's true.	Ich denke, es ist wahr.	मुझे लगता है कि यह सच है।
 I think otherwise.	Ich denke anders.	मुझे विपरीत लगता है।
+I think we'll win.	Ich denke, wir werden gewinnen.	मुझे लगता है कि हम जीतेंगे।
+I thought as much.	Das dachte ich auch.	मैंने भी वैसा ही सोचा था।
+I thought of that.	Das habe ich mir überlegt.	मैंने उसके बारे में सोचा।
+I told Tom a joke.	Ich habe Tom einen Witz erzählt.	मैंने टॉम को एक मजाक सुनाया।
+I told Tom myself.	Ich habe es Tom selbst gesagt.	मैंने खुद टॉम को बताया।
+I took Highway 58.	Ich nahm die Autobahn 58.	मैंने हाईवे 58 लिया।
+I took Monday off.	Ich habe mir Montag freigenommen.	मैंने सोमवार को छुट्टी ली।
