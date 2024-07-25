@@ -10206,3 +10206,13 @@ Tom designed it.	Tom hat es entworfen.	टॉम ने इसे डिज़�
 Tom did do that.	Tom hat das gemacht.	टॉम ने वह किया।
 Tom did nothing.	Tom hat nichts gemacht.	टॉम ने कुछ नहीं किया।
 Tom didn't call.	Tom hat nicht angerufen.	टॉम ने कॉल नहीं किया।
+Tom didn't care.	Tom hat sich nicht gekümmert.	टॉमने ध्यान नहीं दिया।
+Tom didn't come.	Tom ist nicht gekommen.	टॉमने नहीं आया।
+Tom didn't fall.	Tom ist nicht gefallen.	टॉमने गिरा नहीं।
+Tom didn't help.	Tom hat nicht geholfen.	टॉम ने मदद नहीं की।
+Tom didn't hunt.	Tom hat nicht gejagt.	टॉमने शिकार नहीं किया।
+Tom didn't know.	Tom wusste nicht.	टॉम को पता नहीं था।
+Tom didn't mind.	Tom hat nichts dagegen.	टॉमको ध्यान नहीं था।
+Tom didn't move.	Tom hat sich nicht bewegt.	टॉमने नहीं हिला।
+Tom didn't pass.	Tom ist nicht vorbeigegangen.	टॉमने नहीं पास किया।
+Tom didn't pray.	Tom hat nicht gebetet.	टॉमने प्रार्थना नहीं की।
