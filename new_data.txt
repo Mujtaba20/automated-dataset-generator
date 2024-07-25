@@ -6034,3 +6034,13 @@ I hate parties.	Ich hasse Partys.	मुझे पार्टियां प�
 I hate riddles.	Ich hasse Rätsel.	मुझे पहेलियां पसंद नहीं हैं।
 I hate spiders.	Ich hasse Spinnen.	मुझे मकड़ी पसंद नहीं है।
 I hate spinach.	Ich hasse Spinat.	मुझे पालक पसंद नहीं है।
+I hate to lose.	Ich hasse es zu verlieren.	मुझे हारना नापसंद है।
+I hate working.	Ich hasse es zu arbeiten.	मुझे काम करना नापसंद है।
+I hate you all.	Ich hasse euch alle.	मैं तुम सभी से नफरत करता हूँ।
+I hated school.	Ich hasste die Schule.	मुझे स्कूल से नफरत थी।
+I have 13 cats.	Ich habe 13 Katzen.	मेरे पास 13 बिल्लियाँ हैं।
+I have a beard.	Ich habe einen Bart.	मेरे पास दाढ़ी है।
+I have a dream.	Ich habe einen Traum.	मेरा एक सपना है।
+I have a fever.	Ich habe Fieber.	मुझे बुखार है।
+I have a horse.	Ich habe ein Pferd.	मेरे पास एक घोड़ा है।
+I have a hunch.	Ich habe eine Ahnung.	मेरे पास एक अंदाज है।
