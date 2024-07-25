@@ -11638,3 +11638,10 @@ Crying is normal.	Weinen ist normal.	रोना सामान्य है�
 Cut the potatoes.	Schneidet die Kartoffeln.	आलू काटो।
 Did Tom bite you?	Hat Tom dich gebissen?	क्या टॉम ने तुम्हें चबाया?
 Did Tom call you?	Hat Tom dich angerufen?	क्या टॉम ने तुम्हे फ़ोन किया?
+Did Tom enjoy it?	Hat Tom es genossen?	क्या टॉम ने इसे आनंद लिया?
+Did Tom enjoy it?-1	Hat es Tom gefallen?	क्या टॉम को यह पसंद आया?
+Did Tom find you?	Hat Tom dich gefunden?	क्या टॉम ने तुम्हें ढूंढ़ा?
+Did Tom find you?-1	Hast du Tom gefunden?	क्या तुमने टॉम को ढूंढ़ा?
+Did Tom go alone?	Ist Tom alleine gegangen?	क्या टॉम अकेले गया था?
+Did Tom hit Mary?	Hat Tom Mary geschlagen?	क्या टॉमने मेरी को मारा?
+Did Tom hurt you?	Hat Tom dir wehgetan?	क्या टॉमने तुम्हें चोट पहुंचाई?
