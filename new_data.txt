@@ -15992,3 +15992,12 @@ He has curly hair.	Er hat lockige Haare.	उसके बाल कुंडल�
 He has green eyes.	Er hat grüne Augen.	उसकी आँखें हरी हैं।
 He has no bicycle.	Er hat kein Fahrrad.	उसके पास कोई साइकिल नहीं है।
 He has no remorse.	Er hat keine Reue.	उसे कोई पछतावा नहीं है।
+He has seven sons.	Er hat sieben Söhne.	उसके पास सात बेटे हैं।
+He has short hair.	Er hat kurze Haare.	उसके बाल छोटे हैं।
+He has small feet.	Er hat kleine Füße.	उसके पैर छोटे हैं।
+He has three sons.	Er hat drei Söhne.	उसके पास तीन बेटे हैं।
+He hates his life.	Er hasst sein Leben.	उसे अपनी जिंदगी से नफरत है।
+He hates shopping.	Er hasst Einkaufen.	उसे खरीददारी से नफरत है।
+He helped me move.	Er half mir beim Umzug.	उसने मुझे बदलाव में मदद की।
+He himself did it.	Er selbst hat es gemacht.	उसने खुद किया।
+He is a born poet.	Er ist ein geborener Dichter.	वह जन्मजात कवि है।
