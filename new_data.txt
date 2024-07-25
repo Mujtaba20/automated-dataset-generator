@@ -1248,3 +1248,12 @@ They tried.	Sie versuchten.	उन्होंने कोशिश की।
 They voted.	Sie stimmten ab.	वे मतदान किया।
 They're in.	Sie sind drin.	वे अंदर हैं।
 Think hard.	Denk scharf nach.	मुश्किल से सोचो।
+This is OK.	Das ist in Ordnung.	यह ठीक है।
+This is it.	Das ist es.	यह यही है।
+This is me.	Das bin ich.	यह मैं हूँ।
+This'll do.	Das wird tun.	यह करेगा।
+Time is up.	Die Zeit ist um.	समय समाप्त हो गया है।
+Tom agreed.	Tom stimmte zu.	टॉम सहमत था।
+Tom agrees.	Tom stimmt zu.	टॉम सहमत है।
+Tom ate it.	Tom hat es gegessen.	टॉम ने इसे खाया।
+Tom bit me.	Tom hat mich gebissen.	टॉम ने मुझे काटा।
