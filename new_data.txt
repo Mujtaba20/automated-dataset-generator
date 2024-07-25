@@ -18606,3 +18606,13 @@ Tom is a stranger.	Tom ist ein Fremder.	टॉम एक अजनबी है�
 Tom is a tall man.	Tom ist ein großer Mann.	टॉम एक लंबा आदमी है।
 Tom is a teenager.	Tom ist ein Teenager.	टॉम एक किशोर है।
 Tom is a telepath.	Tom ist telepathisch.	टॉम मानसिक शक्तियों से संपर्क कर सकता है।
+Tom is a virtuoso.	Tom ist ein Virtuose.	टॉम एक कलावंत है।
+Tom is a war hero.	Tom ist ein Kriegsheld.	टॉम एक योद्धा हीरो है।
+Tom is a weakling.	Tom ist ein Schwächling.	टॉम एक कमजोर है।
+Tom is aggressive.	Tom ist aggressiv.	टॉम आक्रामक है।
+Tom is an amateur.	Tom ist ein Amateur.	टॉम एक शौकिया है।
+Tom is an atheist.	Tom ist ein Atheist.	टॉम धार्मिक नहीं है।
+Tom is an old man.	Tom ist ein alter Mann.	टॉम एक बूढ़ा आदमी है।
+Tom is analytical.	Tom ist analytisch.	टॉम विश्लेषणात्मक है।
+Tom is articulate.	Tom ist redegewandt.	टॉम व्यक्तिगत है।
+Tom is asleep now.	Tom schläft jetzt.	टॉम अब सो रहा है।

@@ -1,15 +1,4 @@
 
-Tom is a virtuoso.	Tom ist ein Virtuose.	टॉम एक सदाध्य है।
-Tom is a war hero.	Tom ist ein Kriegsheld.	टॉम एक युद्ध नायक है।
-Tom is a weakling.	Tom ist ein Schwächling.	टॉम एक कमजोर है।
-Tom is aggressive.	Tom ist aggressiv.	टॉम आक्रामक है।
-Tom is an amateur.	Tom ist ein Dilettant.	टॉम एक dilettant है।
-Tom is an atheist.	Tom ist Atheist.	टॉम नास्तिक है।
-Tom is an old man.	Tom ist ein alter Mann.	टॉम एक बूढ़ा आदमी है।
-Tom is analytical.	Tom ist analytisch.	टॉम विश्लेषणात्मक है।
-Tom is articulate.	Tom ist redegewandt.	टॉम वाक्पटु है।
-Tom is asleep now.	Tom schläft gerade.	टॉम बस सो रहा है।
-Tom is asleep now.	Tom schläft jetzt.	टॉम अब सो रहा है।
 Tom is astonished.	Tom ist erstaunt.	टॉम चकित है।
 Tom is back again.	Tom ist wieder da.	टॉम वापस आ गया है।
 Tom is back early.	Tom ist früh wieder da.	टॉम जल्दी वापस आ गया है।
