@@ -18102,3 +18102,13 @@ They all screamed.	Sie alle schrien.	वे सभी चिल्लाए।
 They already knew.	Sie wussten es bereits.	उन्हें पहले से पता था।
 They already know.	Sie wissen es bereits.	उन्हें पहले से पता है।
 They are all dead.	Sie sind alle tot.	वे सभी मर चुके हैं।
+They are at lunch.	Sie sind beim Mittagessen.	वे लंच पर हैं।
+They are in class.	Sie sind im Unterricht.	वे कक्षा में हैं।
+They are our cars.	Sie sind unsere Autos.	वे हमारी कारें हैं।
+They are teachers.	Sie sind Lehrer.	वे शिक्षक हैं।
+They are very big.	Sie sind sehr groß.	वे बहुत बड़े हैं।
+They are very old.	Sie sind sehr alt.	वे बहुत पुराने हैं।
+They aren't alone.	Sie sind nicht allein.	वे अकेले नहीं हैं।
+They aren't happy.	Sie sind nicht glücklich.	वे खुश नहीं हैं।
+They aren't there.	Sie sind nicht dort.	वे वहां नहीं हैं।
+They aren't twins.	Sie sind keine Zwillinge.	वे जुड़वां नहीं हैं।

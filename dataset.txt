@@ -1,15 +1,4 @@
 
-They are at lunch.	Sie essen gerade zu Mittag.	आप दोपहर को खा रहे हैं।
-They are in class.	Sie sind im Unterricht.	वे कक्षा में हैं।
-They are our cars.	Das sind unsere Autos.	ये हमारी कारें हैं।
-They are teachers.	Sie sind Lehrer.	आप एक अध्यापक है।
-They are very big.	Sie sind sehr groß.	वे बहुत बड़े हैं।
-They are very old.	Sie sind sehr alt.	वे बहुत बूढ़े हैं।
-They aren't alone.	Sie sind nicht allein.	आप अकेले नहीं हैं।
-They aren't happy.	Sie sind nicht glücklich.	वे प्रसन्न नहीं हैं।
-They aren't there.	Sie sind nicht da.	वे यहाँ नहीं हैं।
-They aren't twins.	Das sind keine Zwillinge.	ये जुड़वाँ बच्चे नहीं हैं।
-They aren't twins.	Sie sind keine Zwillinge.	वे जुड़वाँ बच्चे नहीं हैं।
 They arrested Tom.	Sie haben Tom verhaftet.	आपने टॉम को गिरफ्तार किया।
 They arrested her.	Sie nahmen sie fest.	उन्होंने उन्हें गिरफ्तार कर लिया।
 They arrested him.	Sie nahmen ihn fest.	उन्होंने उसे गिरफ्तार कर लिया।
