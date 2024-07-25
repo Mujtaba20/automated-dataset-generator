@@ -13256,3 +13256,10 @@ engSentence7	Halte mich informiert.	मुझे सूचित रखें।
 engSentence8	Halte den Hund draußen.	कुत्ता बाहर रखें।
 engSentence9	Halte den Hund draußen.	कुत्ता बाहर रखें।
 engSentence10	Halte den Hund draußen.	कुत्ता बाहर रखें।
+Keep to the left.	Bleib links.	बाएं रखें।
+Leave everything.	Lass alles.	सब कुछ छोड़ दो।
+Leave that alone.	Lass das allein.	उसे अकेले छोड़ दो।
+Leave that there.	Lass das dort.	उसे वहाँ छोड़ दो।
+Leave that to me.	Überlass das mir.	मुझे ही छोड़ दें।
+Leave them alone.	Lass sie in Ruhe.	उन्हें अकेले छोड़ दो।
+Leave this to me.	Überlass das mir.	इसे मुझे ही छोड़ दो।
