@@ -6479,3 +6479,10 @@ I'm thirty now.	Ich bin jetzt dreißig.	मैं अब तीस का हू
 I'm undressing.	Ich ziehe mich aus.	मैं कपड़े उतार रहा हूं।
 I'm unemployed.	Ich bin arbeitslos.	मैं बेरोजगार हूं।
 I'm untalented.	Ich bin untalentiert.	मेरी कोई क्षमता नहीं है।
+I'm using this.	Ich benutze das.	मैं यह इस्तेमाल कर रहा हूँ।
+I'm very happy.	Ich bin sehr glücklich.	मैं बहुत खुश हूँ।
+I'm very short.	Ich bin sehr klein.	मैं बहुत छोटा हूँ।
+I'm very sorry.	Es tut mir sehr leid.	मुझे बहुत खेद है।
+I'm very tired.	Ich bin sehr müde.	मैं बहुत थका हुआ हूँ।
+I'm very upset.	Ich bin sehr verärgert.	मैं बहुत नाराज़ हूँ।
+I'm wide awake.	Ich bin hellwach.	मैं पूरी तरह से जागरूक हूँ।
