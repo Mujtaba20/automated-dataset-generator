@@ -3968,3 +3968,13 @@ Hey, don't go.	Hey, geh nicht.	अरे, मत जाओ।
 Hi, everybody.	Hallo, alle zusammen.	नमस्कार, सबको।
 His nose bled.	Seine Nase blutete.	उसकी नाक से खून निकला।
 Hold on a sec.	Warten Sie mal.	एक सेकंड रुकिए।
+Hold on there	Halt da.	वहाँ ठहरो।
+Hold on to it	Halte daran fest.	इसे पकड़ो।
+Hold on to me	Halte mich fest.	मुझे पकड़ो।
+Hold the door	Halte die Tür.	दरवाजा रोको।
+Hold the rope	Halte das Seil.	रस्सी पकड़ो।
+Hold the rope.	Halte das Seil fest.	रस्सी को मजबूती से पकड़ो।
+Hold the rope..	Halte das Seil bitte.	रस्सी को बस पकड़ो।
+How about you?	Was ist mit dir?	तुम्हारे बारे में क्या है?
+How about you?.	Wie wäre es mit dir?	तुम्हारे साथ कैसा रहेगा?
+How bad is it?	Wie schlimm ist es?	यह कितना बुरा है?
