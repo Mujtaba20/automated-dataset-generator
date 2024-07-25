@@ -7538,3 +7538,9 @@ Tom never lies.	Tom lügt nie.	टॉम कभी झूठ नहीं बो
 Tom never wins.	Tom gewinnt nie.	टॉम कभी नहीं जीतता।
 Tom nodded yes.	Tom nickte ja.	टॉम ने हां कहा।
 Tom often wins.	Tom gewinnt oft.	टॉम अक्सर जीतता है।
+Tom owns a car.	Tom besitzt ein Auto.	टॉम के पास एक कार है।
+Tom passed out.	Tom ist ohnmächtig geworden.	टॉम बेहोश हो गया।
+Tom pinched me.	Tom hat mich gezwickt.	टॉम ने मुझे कस कर छुआ।
+Tom punched me.	Tom hat mich geschlagen.	टॉम ने मुझे मुक्का मारा।
+Tom ran inside.	Tom rannte hinein.	टॉम अंदर भाग गया।
+Tom read a lot.	Tom hat viel gelesen.	टॉमने बहुत पढ़ा।
