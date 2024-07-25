@@ -8169,3 +8169,12 @@ Are you working?	Arbeitest du?	क्या तुम काम कर रहे
 Aren't you busy?	Bist du nicht beschäftigt?	क्या आप व्यस्त नहीं हैं?
 Don't you have any work?	Hast du keine Arbeit?	क्या आपके पास कोई काम नहीं है?
 engSentence	{"Aren't you cold?": 'Ist dir nicht kalt?', "Aren't you late?": 'Bist du nicht spät?', "Aren't you rich?": 'Bist du nicht reich?', 'Ask Tom instead.': 'Frag stattdessen Tom.', 'Ask again later.': 'Frag später noch einmal.', 'Ask me anything!': 'Frag mich alles!', 'Ask me tomorrow.': 'Frag mich morgen.', 'Balls are round.': 'Bälle sind rund.'}	{"Aren't you cold?": 'क्या तुम्हे ठंड नहीं लग रही है?', "Aren't you late?": 'क्या आप देर से नहीं आए हो?', "Aren't you rich?": 'क्या तुम धनवान नहीं हो?', 'Ask Tom instead.': 'तौरत पर टॉम से पूछो।', 'Ask again later.': 'फिर से बाद में पूछें।', 'Ask me anything!': 'मुझसे कुछ भी पूछो!', 'Ask me tomorrow.': 'मुझसे कल पूछो।', 'Balls are round.': 'गेंद गोल होती है।'}
+Be careful, Tom!	Sei vorsichtig, Tom!	ध्यान रखें, टॉम!
+Be careful, Tom.	Sei vorsichtig, Tom.	सावधान रहिये, टॉम।
+Be happy for me.	Sei glücklich für mich.	मेरे लिए खुश रहें।
+Be quiet, girls.	Seid still, Mädchen.	चुप रहो, लड़कियाँ।
+Be very careful.	Sei sehr vorsichtig.	बहुत सावधान रहें।
+Be very careful. (Different meaning)	Seid sehr sorgfältig.	बहुत सावधान रहना।
+Bears hibernate.	Bären halten Winterschlaf.	भालू शीतकालीन निद्रा करते हैं।
+Bees make honey.	Bienen machen Honig.	मधु बनाती हैं।
+Behave yourself.	Benehme dich.	अच्छे से व्यवहार करें।
