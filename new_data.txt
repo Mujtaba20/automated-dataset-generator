@@ -11187,3 +11187,12 @@ What do they do?	Was machen sie?	वे क्या करते हैं?
 What do we have?	Was haben wir?	हमारे पास क्या है?
 What do we know?	Was wissen wir?	हमें क्या पता है?
 What do you say?	Was sagst du?	तुम क्या कहते हो?
+What do you see?	Was siehst du?	तुम क्या देख रहे हो?
+What drives you?	Was treibt dich an?	तुम्हें क्या प्रेरित करता है?
+What is he like?	Wie ist er?	वह कैसा है?
+What is his age?	Wie alt ist er?	उसकी उम्र क्या है?
+What is it like?	Wie ist es?	यह कैसा लगता है?
+What is it, Tom?	Was ist es, Tom?	यह क्या है, टॉम?
+What is missing?	Was fehlt?	क्या अभाव है?
+What killed Tom?	Was hat Tom getötet?	टॉम को क्या मार डाला?
+What time is it?	Wie spät ist es?	अभी कितने बजे हैं?
