@@ -5405,3 +5405,11 @@ Who found him?	Wer hat ihn gefunden?	किसने उसे ढूंढा?
 Who found you?	Wer hat dich gefunden?	तुम्हें किसने ढूंढा?
 Who helps her?	Wer hilft ihr?	किसने उसकी मदद की?
 Who hired you?	Wer hat dich eingestellt?	किसने तुम्हें नियुक्त किया?
+Who is absent?	Wer ist abwesend?	कौन अनुपस्थित है?
+Who is coming?	Wer kommt?	कौन आ रहा है?
+Who likes Tom?	Wer mag Tom?	किसे टॉम पसंद है?
+Who remembers?	Wer erinnert sich?	किसे याद है?
+Who responded?	Wer hat geantwortet?	किसने प्रतिक्रिया दी?
+Who said that?	Wer hat das gesagt?	किसने यह कहा?
+Who says that?	Wer sagt das?	कौन कहता है?
+Who sent this?	Wer hat das geschickt?	किसने यह भेजा?
