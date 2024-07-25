@@ -17170,3 +17170,9 @@ I'm very busy now.	Ich bin jetzt sehr beschäftigt.	मैं अब बहु�
 I'm very discrete.	Ich bin sehr diskret.	मैं बहुत ख़ामोश हूँ।
 I'm very reserved.	Ich bin sehr reserviert.	मैं बहुत आलोचनात्मक हूँ।
 I'm watching that.	Ich beobachte das.	मैं वह देख रहा हूँ।
+I'm watching this.	Ich beobachte das.	मैं यह देख रहा हूँ।
+I'm with a client.	Ich begleite einen Kunden.	मैं एक क्लाइंट के साथ हूँ।
+I'm working alone.	Ich arbeite alleine.	मैं अकेले काम कर रहा हूँ।
+I'm working on it.	Ich arbeite daran.	मैं इस पर काम कर रहा हूँ।
+I'm your boss now.	Ich bin jetzt dein Chef.	अब मैं तुम्हारे बॉस हूँ।
+I'm your neighbor.	Ich bin dein Nachbar.	मैं तुम्हारा पड़ोसी हूँ।
