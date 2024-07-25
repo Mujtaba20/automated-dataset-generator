@@ -14210,3 +14210,13 @@ Tom is forgetful.	Tom ist vergeßlich.	टॉम भूलनेवाला ह
 Tom is fortunate.	Tom ist glücklich.	टॉम भाग्यशाली है।
 Tom is from here.	Tom ist von hier.	टॉम यहाँ से है।
 Tom is giving up.	Tom gibt auf.	टॉम हार गया है।
+Tom is grotesque.	Tom ist grotesk.	टॉम भयंकर है।
+Tom is grumbling.	Tom murrend.	टॉम ग़रत है।
+Tom is happy now.	Tom ist jetzt glücklich.	अब टॉम खुश है।
+Tom is hilarious.	Tom ist urkomisch.	टॉम हास्यप्रद है।
+Tom is honorable.	Tom ist ehrenhaft.	टॉम माननीय है।
+Tom is horrified.	Tom ist entsetzt.	टॉम भयभीत है।
+Tom is hotheaded.	Tom ist hitzköpfig.	टॉम उन्मादी है।
+Tom is illogical.	Tom ist unlogisch.	टॉम तर्कहीन है।
+Tom is impartial.	Tom ist unparteiisch.	टॉम निष्पक्ष है।
+Tom is impassive.	Tom ist teilnahmslos.	टॉम उदासीन है।
