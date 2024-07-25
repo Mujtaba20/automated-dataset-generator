@@ -19101,3 +19101,12 @@ Tom remained cool.	Tom blieb cool.	टॉम शांत रहा।
 Tom remembers you.	Tom erinnert sich an dich.	टॉम तुम्हें याद करता है।
 Tom rented a room.	Tom hat ein Zimmer gemietet.	टॉम ने कमरे का किराया दिया।
 Tom respects Mary.	Tom respektiert Mary.	टॉम मेरी का सम्मान करता है।
+Tom retired at 65.	Tom trat mit 65 in den Ruhestand.	टॉम 65 वर्ष में सेवन निवृत्त हुआ।
+Tom returned fire.	Tom erwiderte das Feuer.	टॉम चलें में लौट आया।
+Tom returned home.	Tom kehrte nach Hause zurück.	टॉम घर वापस आया।
+Tom ripped me off.	Tom hat mich abgezogen.	टॉम ने मुझसे ठगी की।
+Tom robbed a bank.	Tom überfiel eine Bank.	टॉम ने एक बैंक को लूटा।
+Tom sat listening.	Tom saß und hörte zu.	टॉम बैठकर सुन रहा था।
+Tom sat patiently.	Tom saß geduldig.	टॉम धीरज से बैठा था।
+Tom sat with Mary.	Tom saß mit Mary.	टॉम मैरी के साथ बैठा था।
+Tom saved himself.	Tom rettete sich.	टॉम ने खुद को बचाया।
