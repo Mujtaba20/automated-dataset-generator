@@ -7693,3 +7693,13 @@ Tom won't sing.	Tom wird nicht singen.	टॉम गाने नहीं ब�
 Tom won't stay.	Tom wird nicht bleiben.	टॉम ठहरने नहीं रहेगा।
 Tom won't stop.	Tom wird nicht aufhören.	टॉम रोक नहीं पाएगा।
 Tom won't talk.	Tom wird nicht sprechen.	टॉम बात नहीं करेगा।
+Tom won't wait.	Tom wird nicht warten.	टॉम ठहर नहीं जाएगा।
+Tom wore a hat.	Tom trug einen Hut.	टॉम एक टोपी पहनी थी।
+Tom works fast.	Tom arbeitet schnell.	टॉम का काम तेजी से होता है।
+Tom works hard.	Tom arbeitet hart.	टॉम मेहनती है।
+Tom works here.	Tom arbeitet hier.	टॉम यहाँ काम करता है।
+Tom would know.	Tom würde wissen.	टॉम को पता होगा।
+Tom would wait.	Tom würde warten.	टॉम इंतजार करेगा।
+Tom zoomed out.	Tom zoomte heraus.	टॉम ने ज़ूम आउट किया।
+Tom'll improve.	Tom wird sich verbessern.	टॉम सुधरेगा।
+Tom'll succeed.	Tom wird erfolgreich sein.	टॉम सफल होगा।
