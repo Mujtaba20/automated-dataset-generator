@@ -743,3 +743,10 @@ They lied.	Sie haben gelogen.	उन्होंने झूठ बोला।
 They lost.	Sie haben verloren.	उन्होंने हार गए।
 They swam.	Sie schwammen.	वे तैरे।
 Time's up.	Die Zeit ist um.	समय समाप्त हो गया है।
+Tom began.	Tom hat angefangen.	टॉम शुरू किया।
+Tom bowed.	Tom verbeugte sich.	टॉम झुक गया।
+Tom cried.	Tom weinte.	टॉम रोया।
+Tom dived.	Tom tauchte.	टॉम डुबकी लगाई।
+Tom dozed.	Tom döste.	टॉम सुप्त हो गया।
+Tom drove.	Tom fuhr.	टॉम ड्राइव करता था।
+Tom froze.	Tom erstarrte.	टॉम जम गया।
