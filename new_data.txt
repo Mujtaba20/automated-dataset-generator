@@ -10988,3 +10988,12 @@ Try not to yawn.	Versuchen Sie nicht zu gähnen.	जाप मत करो।
 Try to catch me.	Versuchen Sie mich zu erwischen.	मुझे पकड़ने का प्रयास करो।
 Try to remember.	Versuchen Sie sich zu erinnern.	याद करने की कोशिश करो।
 Turn off the TV.	Schalten Sie den Fernseher aus.	टीवी बंद करो।
+Turn on the gas.	Schalten Sie das Gas ein.	गैस चालू करें।
+Unlock the door.	Die Tür aufschließen.	दरवाजा खोलें।
+Wait in the car.	Warte im Auto.	गाड़ी में रुको।
+Wait one minute.	Warte eine Minute.	एक मिनट रुको।
+Wait one second.	Warte eine Sekunde.	एक सेकंड रुको।
+Wait over there.	Warte dort drüben.	वहां पर रुको।
+Walking is nice.	Spazieren gehen ist schön.	चलना अच्छा है।
+Walls have ears.	Die Wände haben Ohren.	दीवारों के भी कान होते हैं।
+Walls have ears. (Different meaning)	Wände haben Ohren.	दीवारों के पास कान होते हैं। (अलग अर्थ)
