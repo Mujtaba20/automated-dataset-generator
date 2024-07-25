@@ -6559,3 +6559,11 @@ It didn't work.	Es hat nicht funktioniert.	यह काम नहीं कि�
 It doesn't fit.	Es passt nicht.	यह फिट नहीं होता।
 It gets better.	Es wird besser.	यह बेहतर होता है।
 It has to stop.	Es muss aufhören.	यह रुकना है।
+It is Saturday.	Es ist Samstag.	यह शनिवार है।
+It is too late.	Es ist zu spät.	यह बहुत देर हो चुकी है।
+It isn't there.	Es ist nicht da.	वहाँ नहीं है।
+It looks great.	Es sieht großartig aus.	यह शानदार लग रहा है।
+It makes sense.	Es ergibt Sinn.	यह समझ में आता है।
+It may be true.	Es könnte wahr sein.	यह सच हो सकता है।
+It must be Tom.	Es muss Tom sein.	यह टॉम होना चाहिए।
+It smells good!	Es riecht gut!	यह अच्छा खुशबूदार है!
