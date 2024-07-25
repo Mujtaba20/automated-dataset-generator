@@ -10912,3 +10912,12 @@ Tom wasn't lazy.	Tom war nicht faul.	टॉम आलसी नहीं था�
 Tom wasn't mean.	Tom war nicht gemein.	टॉम कठोर नहीं था।
 Tom wasn't neat.	Tom war nicht ordentlich.	टॉम सुशील नहीं था।
 Tom wasn't nice.	Tom war nicht nett.	टॉम अच्छे नहीं थे।
+Tom wasn't poor.	Tom war nicht arm.	टॉम गरीब नहीं था।
+Tom wasn't rich.	Tom war nicht reich.	टॉम अमीर नहीं था।
+Tom wasn't rude.	Tom war nicht unhöflich.	टॉम गंदा नहीं था।
+Tom wasn't safe.	Tom war nicht sicher.	टॉम सुरक्षित नहीं था।
+Tom wasn't sick.	Tom war nicht krank.	टॉम बीमार नहीं था।
+Tom wasn't sure.	Tom war sich nicht sicher.	टॉम पक्का नहीं था।
+Tom wears a wig.	Tom trägt eine Perücke.	टॉम एक पेरियुक पहनता है।
+Tom welcomed us.	Tom hat uns begrüßt.	टॉम ने हमें स्वागत किया।
+Tom went abroad.	Tom ist ins Ausland gegangen.	टॉम विदेश गया।
