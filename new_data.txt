@@ -5528,3 +5528,11 @@ Apples are red.	Äpfel sind rot.	सेब लाल हैं।
 Are there kids?	Gibt es Kinder?	क्या वहाँ बच्चे हैं?
 Are these ours?	Sind diese unsere?	क्या ये हमारे हैं?
 Are they alive?	Sind sie am Leben?	क्या वे जीवित हैं?
+Are we leaving?	Gehen wir?	क्या हम जा रहे हैं?
+Are we sinking?	Sinken wir?	क्या हम डूब रहे हैं?
+Are you OK now?	Geht es dir jetzt gut?	क्या आप अब ठीक हैं?
+Are you asleep?	Schläfst du?	क्या आप सोए हुए हैं?
+Are you coming?	Kommst du?	क्या तुम आ रहे हो?
+Are you famous?	Bist du berühmt?	क्या तुम मशहूर हो?
+Are you hiding?	Versteckst du dich?	क्या तुम छुप रहे हो?
+Are you hiring?	Stellst du ein?	क्या आप नौकरी कर रहे हैं?
