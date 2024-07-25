@@ -8083,3 +8083,9 @@ You're my type.	Du bist mein Typ.	तुम मेरे प्रकार क�
 You're nervous.	Du bist ängstlich.	तुम घबरा गए हो।
 You're not God.	Du bist nicht Gott.	तुम भगवान नहीं हो।
 You're not Tom.	Du bist nicht Tom.	तुम टॉम नहीं हो।
+You're not fit.	Du bist nicht fit.	तुम फिट नहीं हो।
+You're not old.	Du bist nicht alt.	तुम बूढ़े नहीं हो।
+You're patient.	Du bist geduldig.	तुम धीरज रखते हो।
+You're selfish.	Du bist egoistisch.	तुम अभिमानी हो।
+You're so lazy.	Du bist so faul.	तुम इतने सुस्त हो।
+You're so lazy.1	Du bist so faul.	तुम इतने सुस्त हो।
