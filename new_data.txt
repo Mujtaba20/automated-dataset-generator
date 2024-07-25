@@ -8011,3 +8011,9 @@ You are stupid.	Du bist dumm.	तुम बेवकूफ हो।
 You aren't Tom.	Du bist nicht Tom.	तुम टॉम नहीं हो।
 You aren't fat.	Du bist nicht fett.	तुम मोटे नहीं हो।
 You aren't fat. - Different Meaning	Du bist schlank.	तुम मोटे नहीं हो।
+You can go now.	Du kannst jetzt gehen.	तुम अब जा सकते हो।
+You can't help.	Du kannst nicht helfen.	तुम मदद नहीं कर सकते।
+You can't lose.	Du kannst nicht verlieren.	तुम हार नहीं सकते।
+You can't stop.	Du kannst nicht aufhören.	तुम रुक नहीं सकते।
+You can't walk.	Du kannst nicht laufen.	तुम चल नहीं सकते।
+You could lead.	Du könntest führen.	तुम अग्रणी बन सकते थे।
