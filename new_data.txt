@@ -257,3 +257,8 @@ Who ate?	Wer aß?	कौन खाया?
 Who ate? (Different meaning)	Wer hat gegessen?	कौन खाया था?
 Who ran?	Wer lief?	कौन भागा?
 Who ran? (Different meaning)	Wer ist gerannt?	कौन दौड़ा?
+Who won?	Wer hat gewonnen?	कौन जीता?
+You run.	Du läufst.	तुम दौड़ो.
+You run. (different meaning)	Sie führen.	तुम चले जाओ.
+You won.	Du hast gewonnen.	तुम जीत गए.
+All rise.	Alle stehen auf.	सब उठें।
