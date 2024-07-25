@@ -18922,3 +18922,13 @@ Tom likes skating.	Tom mag Skaten.	टॉम को स्केटिंग प
 Tom likes stories.	Tom mag Geschichten.	टॉम के कहानियाँ पसंद हैं।
 Tom likes surfing.	Tom mag Surfen.	टॉम को सर्फिंग पसंद है।
 Tom likes to bowl.	Tom mag bowlen.	टॉम को बोलिंग खेलना पसंद है।
+Tom likes to cook.	Tom mag kochen.	टॉम को खाना पकाना पसंद है।
+Tom likes to fish.	Tom angelt gerne.	टॉम को मछली पकड़ना पसंद है।
+Tom likes to hunt.	Tom jagt gerne.	टॉम को शिकार करना पसंद है।
+Tom likes to read.	Tom liest gerne.	टॉम को पढ़ना पसंद है।
+Tom likes to sing.	Tom singt gerne.	टॉम को गाना गाना पसंद है।
+Tom likes to swim.	Tom schwimmt gerne.	टॉम को तैरना पसंद है।
+Tom likes to talk.	Tom redet gerne.	टॉम को बातचीत करना पसंद है।
+Tom likes writing.	Tom schreibt gerne.	टॉम को लिखना पसंद है।
+Tom listens to me.	Tom hört mir zu.	टॉम मेरी बातें सुनता है।
+Tom lived with us.	Tom lebte bei uns.	टॉम हमारे साथ रहता था।
