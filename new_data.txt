@@ -15741,3 +15741,9 @@ Do you like sushi?	Magst du Sushi?	क्या आप सुशी पसंद
 Do you like these?	Magst du diese?	क्या आप ये पसंद करते हैं?
 Do you live alone?	Lebst du alleine?	क्या आप अकेले रहते हैं?
 Do you live there?	Lebst du dort?	क्या तुम वहाँ रहते हो?
+Do you need a car?	Brauchst du ein Auto?	क्या आपको गाड़ी की आवश्यकता है?
+Do you need money?	Brauchst du Geld?	क्या आपको पैसे की आवश्यकता है?
+Do you need to go?	Musst du gehen?	क्या तुम्हें जाने की जरुरत है?
+Do you play chess?	Spielst du Schach?	क्या तुम शतरंज खेलते हो?
+Do you read a lot?	Liest du viel?	क्या आप बहुत पढ़ते हैं?
+Do you see a rose?	Siehst du eine Rose?	क्या तुम एक गुलाब देख रहे हो?
