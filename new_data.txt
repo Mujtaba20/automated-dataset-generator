@@ -7554,3 +7554,9 @@ Tom sat calmly.	Tom saß ruhig.	टॉम शांत बैठा था।
 Tom sat nearby.	Tom saß in der Nähe.	टॉम पास बैठा था।
 Tom saw a wolf.	Tom sah einen Wolf.	टॉम ने एक भेड़िया देखा।
 Tom saw a cat.	Tom sah eine Katze.	टॉम ने एक बिल्ली देखी।
+Tom says hello.	Tom sagt hallo.	टॉम कहते हैं नमस्कार।
+Tom seemed mad.	Tom schien wütend zu sein.	टॉम गुस्से में लग रहे थे।
+Tom seemed sad.	Tom schien traurig zu sein.	टॉम उदास लग रहे थे।
+Tom seemed shy.	Tom schien schüchtern zu sein.	टॉम शर्मीले लग रहे थे।
+Tom seems busy.	Tom wirkt beschäftigt.	टॉम व्यस्त लग रहे हैं।
+Tom seems calm.	Tom scheint ruhig zu sein.	टॉम शांत लग रहे हैं।
