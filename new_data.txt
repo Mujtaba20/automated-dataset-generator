@@ -5897,3 +5897,11 @@ Hey, come here.	Hey, komm hierher.	ओहो, यहाँ आओ।
 Hi, come on in.	Hallo, komm rein.	नमस्ते, अंदर आ जाओ।
 Hide the money.	Verstecke das Geld.	पैसा छुपाओ।
 His head ached.	Ihm tat der Kopf weh.	उसका सिर दर्द कर रहा था।
+His son is ill.	Sein Sohn ist krank.	उसके बेटे को बीमारी है।
+Hit the brakes.	Drück auf die Bremse.	ब्रेक मारना।
+How am I doing?	Wie mache ich?	मैं कैसा कर रहा हूँ?
+How are things?	Wie geht's?	सब कुछ ठीक है?
+How can I help?	Wie kann ich helfen?	मैं कैसे मदद कर सकता हूँ?
+How cold is it?	Wie kalt ist es?	ये कितनी ठंडी है?
+How deep is it?	Wie tief ist es?	ये कितनी गहरी है?
+How did it end?	Wie ist es zu Ende gegangen?	ये कैसे खत्म हुआ?
