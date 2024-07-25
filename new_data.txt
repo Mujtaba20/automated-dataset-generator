@@ -19475,3 +19475,11 @@ Was Tom surprised?	War Tom überrascht?	क्या टॉम हैरान �
 Was Tom very busy?	War Tom sehr beschäftigt?	क्या टॉम बहुत व्यस्त था?
 Was Tom with Mary?	War Tom mit Mary?	क्या टॉम मेरी के साथ था?
 Was that too easy?	War das zu einfach?	क्या यह बहुत आसान था?
+Was that too hard?	War das zu schwer?	क्या वह बहुत कठिन था?
+Was the door open?	War die Tür offen?	क्या दरवाजा खुला था?
+Watch how I do it.	Schau, wie ich es mache.	देखो कैसे मैं इसे करता हूँ।
+Watch out for Tom.	Achte auf Tom.	टॉम का ध्यान रखो।
+Watch your tongue.	Pass auf deine Zunge auf.	अपनी जीभ पर ध्यान दो।
+Water is a liquid.	Wasser ist eine Flüssigkeit.	पानी एक तरल पदार्थ है।
+We abhor violence.	Wir verabscheuen Gewalt.	हम हिंसा से घृणा करते हैं।
+We agreed on 2:30.	Wir haben uns auf 2:30 geeinigt.	हमने 2:30 पर सहमति जताई।
