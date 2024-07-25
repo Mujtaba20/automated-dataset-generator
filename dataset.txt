@@ -1,14 +1,4 @@
 
-Tom has a new car.	Tom hat ein neues Auto.	टॉम के पास एक नई कार है।
-Tom has a rowboat.	Tom hat ein Ruderboot.	टॉम में एक रोबोट है।
-Tom has a scooter.	Tom hat einen Roller.	टॉम के पास एक स्कूटर है।
-Tom has allergies.	Tom hat Allergien.	टॉम को एलर्जी है।
-Tom has an iPhone.	Tom hat ein iPhone.	टॉम के पास एक iPhone है।
-Tom has arthritis.	Tom hat Arthritis.	टॉम को गठिया है।
-Tom has been hurt.	Tom ist verletzt.	टॉम घायल है।
-Tom has been shot.	Tom ist erschossen worden.	टॉम को गोली मार दी गई है।
-Tom has big hands.	Tom hat große Hände.	टॉम के बड़े हाथ हैं।
-Tom has blue eyes.	Tom hat blaue Augen.	टॉम की नीली आँखें हैं।
 Tom has come home.	Tom ist nach Hause gekommen.	टॉम घर आया।
 Tom has confessed.	Tom hat gebeichtet.	टॉम ने कबूल किया।
 Tom has confessed.	Tom hat gestanden.	टॉम ने कबूल किया।

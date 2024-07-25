@@ -18510,3 +18510,13 @@ Tom has a car now.	Tom hat jetzt ein Auto.	टॉम के पास अब ए
 Tom has a fake ID.	Tom hat einen gefälschten Ausweis.	टॉम के पास एक नकली आईडी है।
 Tom has a high IQ.	Tom hat einen hohen IQ.	टॉम के पास उच्च आईक्यू है।
 Tom has a minivan.	Tom hat einen Kleinbus.	टॉम के पास एक मिनीवैन है।
+Tom has a new car.	Tom hat ein neues Auto.	टॉम के पास एक नयी कार है।
+Tom has a rowboat.	Tom hat ein Ruderboot.	टॉम के पास एक किश्ती है।
+Tom has a scooter.	Tom hat einen Roller.	टॉम के पास एक स्कूटर है।
+Tom has allergies.	Tom hat Allergien.	टॉम को एलर्जी है।
+Tom has an iPhone.	Tom hat ein iPhone.	टॉम के पास एक आईफ़ोन है।
+Tom has arthritis.	Tom hat Arthritis.	टॉम को गठिया है।
+Tom has been hurt.	Tom wurde verletzt.	टॉम को चोट आई है।
+Tom has been shot.	Tom wurde angeschossen.	टॉम को गोली मार दी गई है।
+Tom has big hands.	Tom hat große Hände.	टॉम के हाथ बड़े हैं।
+Tom has blue eyes.	Tom hat blaue Augen.	टॉम की आँखें नीली हैं।
