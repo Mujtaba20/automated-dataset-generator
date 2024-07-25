@@ -1,14 +1,4 @@
 
-Tom wants to talk.	Tom will sprechen.	टॉम बोलना चाहता है।
-Tom wants to wait.	Tom wird warten.	टॉम इंतजार करेंगे।
-Tom wants to work.	Tom will arbeiten.	टॉम काम करना चाहता है।
-Tom wants updates.	Tom möchte Updates.	टॉम अपडेट चाहता है।
-Tom wants us dead.	Tom trachtet uns nach dem Leben.	टॉम जीवन की तलाश में है।
-Tom was a bad kid.	Tom war ein ungezogenes Kind.	टॉम एक शरारती बच्चा था।
-Tom was a plumber.	Tom war Klempner.	टॉम एक प्लम्बर था।
-Tom was a plumber.	Tom war Installateur.	टॉम एक इंस्टॉलर था।
-Tom was a teacher.	Tom war Lehrer.	टॉम एक शिक्षक था।
-Tom was acquitted.	Tom wurde freigesprochen.	टॉम को बरी कर दिया गया था।
 Tom was all wrong.	Tom lag völlig daneben.	टॉम पूरी तरह से गलत था।
 Tom was ambitious.	Tom war ehrgeizig.	टॉम महत्वाकांक्षी था।
 Tom was an artist.	Tom war Künstler.	टॉम एक कलाकार था।

@@ -19255,3 +19255,12 @@ Tom wants to move.	Tom will umziehen.	टॉम हिलना चाहता 
 Tom wants to play.	Tom will spielen.	टॉम खेलना चाहता है।
 Tom wants to quit.	Tom will aufhören.	टॉम छोड़ना चाहता है।
 Tom wants to stay.	Tom will bleiben.	टॉम रुकना चाहता है।
+Tom wants to talk.	Tom möchte reden.	टॉम बात करना चाहता है।
+Tom wants to wait.	Tom möchte warten.	टॉम ठहरना चाहता है।
+Tom wants to work.	Tom möchte arbeiten.	टॉम काम करना चाहता है।
+Tom wants updates.	Tom möchte Aktualisierungen.	टॉम अपडेट चाहता है।
+Tom wants us dead.	Tom will uns tot sehen.	टॉम हमें मरा देना चाहता है।
+Tom was a bad kid.	Tom war ein böses Kind.	टॉम एक बुरा बच्चा था।
+Tom was a plumber.	Tom war ein Klempner.	टॉम एक प्लम्बर था।
+Tom was a teacher.	Tom war ein Lehrer.	टॉम एक अध्यापक था।
+Tom was acquitted.	Tom wurde freigesprochen.	टॉम को दोषमुक्त किया गया।
