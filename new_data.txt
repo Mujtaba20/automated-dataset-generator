@@ -1354,3 +1354,12 @@ War is bad.	Krieg ist schlecht.	युद्ध बुरा है।
 Was it fun?	Hat es Spaß gemacht?	क्या यह मज़ेदार था?
 Watch this.	Schau das.	इसे देखो।
 We all die.	Wir sterben alle.	हम सब मरते हैं।
+We all lie.	Wir alle lügen.	हम सभी झूठ बोलते हैं।
+We are men.	Wir sind Männer.	हम मर्द हैं।
+We buy CDs.	Wir kaufen CDs.	हम सीडी खरीदते हैं।
+We can pay.	Wir können bezahlen.	हम भुगत सकते हैं।
+We can try.	Wir können es versuchen.	हम प्रयास कर सकते हैं।
+We can win.	Wir können siegen.	हम विजय पा सकते हैं।
+We had fun.	Wir hatten Spaß.	हमें मज़ा आया।
+We laughed.	Wir haben gelacht.	हम हंसी।
+We like it.	Wir mögen es.	हमें यह पसंद है।
