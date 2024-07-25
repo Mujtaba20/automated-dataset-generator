@@ -11122,3 +11122,11 @@ We're busy, Tom.	Wir sind beschäftigt, Tom.	हम व्यस्त हैं
 We're coming in.	Wir kommen herein.	हम अंदर आ रहे हैं।
 We're confident.	Wir sind zuversichtlich.	हम आत्मविश्वासी हैं।
 We're desperate.	Wir sind verzweifelt.	हम निराश हैं।
+We're different.	Wir sind anders.	हम अलग हैं।
+We're done here.	Wir sind fertig hier.	हम यहाँ समाप्त हो गए हैं।
+We're exhausted.	Wir sind erschöpft.	हम थक गए हैं।
+We're fine here.	Uns geht es gut hier.	हम यहाँ ठीक हैं।
+We're fishermen.	Wir sind Fischer.	हम मछुआरे हैं।
+We're from here.	Wir sind von hier.	हम यहाँ से हैं।
+We're gardeners.	Wir sind Gärtner.	हम बाग़बान हैं।
+We're giving up.	Wir geben auf.	हम हार मान रहे हैं।
