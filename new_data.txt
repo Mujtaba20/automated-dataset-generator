@@ -15791,3 +15791,12 @@ Don't do anything.	Tue nichts.	कुछ न करो।
 Don't do it again.	Mach es nicht wieder.	यह फिर से मत करो।
 Don't do that, OK?	Tu das nicht, okay?	वह मत करो, ठीक है?
 Don't forget that.	Vergiss das nicht.	उसे मत भूलो।
+Don't forget this.	Vergiss das nicht.	इसे न भूलें।
+Don't get nervous.	Werd nicht nervös.	घबराओ मत।
+Don't go home yet.	Gehen Sie noch nicht nach Hause.	अभी घर न जाएँ।
+Don't go in there.	Geh da nicht rein.	वहाँ मत जाओ।
+Don't go up there.	Geh da hoch nicht hin.	वहाँ ऊपर मत जाओ।
+Don't hurt my son.	Verletze meinen Sohn nicht.	मेरे बेटे को चोट न लगाएं।
+Don't let me down.	Enttäusche mich nicht.	मुझे न नीचा दिखाओ।
+Don't let me down. 1	Lass mich nicht im Stich.	मेरा साथ न छोड़ो।
+Don't let me down. 2	Enttäusche mich nicht.	मुझे न धोखा दें।
