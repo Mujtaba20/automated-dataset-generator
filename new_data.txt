@@ -1090,3 +1090,13 @@ I'm inside.	Ich bin drinnen.	मैं अंदर हूँ।
 I'm lonely.	Ich bin einsam.	मैं अकेला हूँ।
 I'm losing.	Ich bin am Verlieren.	मैं हार रहा हूँ।
 I'm mature.	Ich bin reif.	मैं परिपक्व हूँ।
+I'm moving.	Ich ziehe um.	मैं हिल रहा हूँ।
+I'm not OK.	Mir geht es nicht gut.	मैं ठीक नहीं हूँ।
+I'm rested.	Ich bin ausgeruht.	मैं आराम कर रहा हूँ।
+I'm ruined.	Ich bin ruiniert.	मेरा विनाश हो गया है।
+I'm scared.	Ich habe Angst.	मुझे डर लग रहा है।
+I'm single.	Ich bin ledig.	मैं एकल हूँ।
+I'm single. (different meaning)	Ich bin allein.	मैं एक अकेला हूँ।
+I'm sleepy!	Ich bin müde!	मुझे नींद आ रही है!
+I'm sneaky.	Ich bin hinterlistig.	मैं धोखेबाज हूँ।
+I'm so fat.	Ich bin so fett.	मैं इतना मोटा हूँ।
