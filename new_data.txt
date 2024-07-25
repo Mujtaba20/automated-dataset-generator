@@ -12169,3 +12169,10 @@ How stupid he is!	Wie dumm er ist!	ये कितना मूर्ख है
 How stupid of me!	Wie dumm von mir!	मेरा कितना मूर्खपन!
 How tall are you?	Wie groß bist du?	तुम कितने लम्बे हो?
 How tall you are!	Wie groß du bist!	तुम कितने उच्च हो!
+How times change.	Wie sich die Zeiten ändern.	समय कैसे बदल गया।
+How very curious!	Wie sehr merkwürdig!	कितना अजीब है!
+How was the game?	Wie war das Spiel?	खेल कैसा था?
+How was your day?	Wie war dein Tag?	तुम्हारा दिन कैसा था?
+How you've grown!	Wie du gewachsen bist!	तुम बड़े हो गए हो!
+How're you doing?	Wie geht es dir?	तुम कैसे हो?
+How's Tom's cold?	Wie ist Toms Erkältung?	टॉम की ठंडी कैसी है?
