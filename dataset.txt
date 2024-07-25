@@ -1,14 +1,4 @@
 
-Tom had no hat on.	Tom trug keinen Hut.	टॉम ने टोपी नहीं पहनी थी।
-Tom had questions.	Tom hatte Fragen.	टॉम के सवाल थे।
-Tom hardly smiled.	Tom lächelte kaum.	टॉम शायद ही मुस्कुराया।
-Tom has Windows 7.	Tom hat Windows 7.	टॉम में विंडोज 7 है।
-Tom has a bicycle.	Tom hat ein Fahrrad.	टॉम के पास एक बाइक है।
-Tom has a big dog.	Tom hat einen großen Hund.	टॉम के पास एक बड़ा कुत्ता है।
-Tom has a car now.	Tom hat jetzt ein Auto.	टॉम के पास अब एक कार है।
-Tom has a fake ID.	Tom hat einen falschen Personalausweis.	टॉम के पास एक गलत पहचान कार्ड है।
-Tom has a high IQ.	Tom hat einen hohen IQ.	टॉम में एक उच्च आईक्यू है।
-Tom has a minivan.	Tom hat eine Großraumlimousine.	टॉम में एक बड़ा लिमोसिन है।
 Tom has a new car.	Tom hat ein neues Auto.	टॉम के पास एक नई कार है।
 Tom has a rowboat.	Tom hat ein Ruderboot.	टॉम में एक रोबोट है।
 Tom has a scooter.	Tom hat einen Roller.	टॉम के पास एक स्कूटर है।

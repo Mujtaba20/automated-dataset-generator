@@ -18500,3 +18500,13 @@ Tom guessed wrong.	Tom hat sich geirrt.	टॉम गलत अनुमान �
 Tom had a seizure.	Tom hatte einen Krampf.	टॉम को एक आक्रमण हुआ।
 Tom had blue eyes.	Tom hatte blaue Augen.	टॉम के नीली आंखें थीं।
 Tom had breakfast.	Tom frühstückte.	टॉम ने सुबह का खाना खाया।
+Tom had no hat on.	Tom hatte keinen Hut auf.	टॉम के पास कोई टोपी नहीं थी।
+Tom had questions.	Tom hatte Fragen.	टॉम के पास सवाल थे।
+Tom hardly smiled.	Tom lächelte kaum.	टॉम मुस्कान में कड़ाहट में हंसा।
+Tom has Windows 7.	Tom hat Windows 7.	टॉम के पास विंडोज 7 है।
+Tom has a bicycle.	Tom hat ein Fahrrad.	टॉम के पास एक साइकिल है।
+Tom has a big dog.	Tom hat einen großen Hund.	टॉम के पास एक बड़ा कुत्ता है।
+Tom has a car now.	Tom hat jetzt ein Auto.	टॉम के पास अब एक कार है।
+Tom has a fake ID.	Tom hat einen gefälschten Ausweis.	टॉम के पास एक नकली आईडी है।
+Tom has a high IQ.	Tom hat einen hohen IQ.	टॉम के पास उच्च आईक्यू है।
+Tom has a minivan.	Tom hat einen Kleinbus.	टॉम के पास एक मिनीवैन है।
