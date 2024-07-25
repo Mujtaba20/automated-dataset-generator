@@ -474,3 +474,9 @@ Don't lie.	Nicht lügen.	झूठ मत बोलो।
 Don't run.	Nicht rennen.	दौड़ो मत।
 Excuse me.	Entschuldigen Sie mich.	क्षमा करें।
 Fantastic!	Fantastisch!	शानदार!
+Feel this.	Fühle das.	यह महसूस करें।
+Follow me.	Folge mir.	मेरा पीछा करो।
+Forget it!	Vergiss es!	इसे भूल जाओ!
+Forget it.	Vergiss es.	यह भूल जाओ।
+Forget me.	Vergiss mich.	मुझे भूल जाओ।
+Get ready.	Mach dich bereit.	तैयार रहो।
