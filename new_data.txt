@@ -5502,3 +5502,10 @@ You're polite.	Sie sind höflich.	तुम विनम्र हो।
 You're pretty.	Du bist hübsch.	तुम सुंदर हो।
 You're skinny.	Du bist dünn.	तुम सुखड़ हो।
 You're strong.	Du bist kräftig.	तुम शक्तिशाली हो।
+You're stupid.	Du bist dumm.	तुम बेवकूफ हो।
+You're sweaty.	Du bist verschwitzt.	तुम पसीनेदार हो।
+You're unfair.	Du bist unfair.	तुम अन्यायी हो।
+You're unkind.	Du bist nicht nett.	तुम ग़ैर दयालु हो।
+You're wicked.	Du bist böse.	तुम शैतान हो।
+You're unfair. 1	Du bist ungerecht.	तुम न्यायसंगत नहीं हो।
+You're unkind. 1	Du bist herzlos.	तुम निर्दयी हो।
