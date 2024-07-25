@@ -9083,3 +9083,13 @@ I want to leave.	Ich möchte gehen.	मैं चला जाना चाह�
 I want to sleep.	Ich möchte schlafen.	मैं सोना चाहता हूँ।
 I want to watch.	Ich möchte zuschauen.	मैं देखना चाहता हूँ।
 I want you here.	Ich möchte dich hier haben.	मैं चाहता हूँ कि तुम यहाँ हो।
+I want you, Tom.	Ich will dich, Tom.	मुझे तुम चाहिए, टॉम।
+I wanted to cry.	Ich wollte weinen.	मुझे रोना चाहिए था।
+I wanted to win.	Ich wollte gewinnen.	मुझे जीतना चाहिए था।
+I was a teacher.	Ich war ein Lehrer.	मैं एक शिक्षक था।
+I was a witness.	Ich war ein Zeuge.	मैं एक गवाह था।
+I was a witness. (Different Meaning)	Ich war ein Augenzeuge.	मेरा साक्षी था।
+I was at school.	Ich war in der Schule.	मैं स्कूल में था।
+I was born here.	Ich wurde hier geboren.	मैं यहाँ पैदा हुआ था।
+I was courteous.	Ich war höflich.	मैं विनम्र था।
+I was dismissed.	Ich wurde entlassen.	मुझे निकाल दिया गया था।
