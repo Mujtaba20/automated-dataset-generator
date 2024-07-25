@@ -19732,3 +19732,13 @@ What good is that?	Was bringt das?	उससे क्या होगा?
 What good is this?	Was bringt das?	यह क्या उत्पन्न करेगा?
 What got into you?	Was ist in dich gefahren?	तुम्हें क्या हुआ?
 What happens next?	Was passiert als Nächstes?	अगला क्या होने वाला है?
+What has Tom done?	Was hat Tom getan?	टॉम ने क्या किया है?
+What has Tom seen?	Was hat Tom gesehen?	टॉम ने क्या देखा है?
+What have we done?	Was haben wir getan?	हमने क्या किया है?
+What have we here?	Was haben wir hier?	हमने यहाँ क्या है?
+What have you got?	Was hast du bekommen?	तुम्हारे पास क्या है?
+What if I'm right?	Was ist, wenn ich recht habe?	अगर मैं सही हूँ तो क्या?
+What if I'm wrong?	Was ist, wenn ich falsch liege?	अगर मैं गलत हूँ तो क्या?
+What inspires you?	Was inspiriert dich?	आपको क्या प्रेरित करता है?
+What inspires you?_1	Was motiviert Sie?	आपको क्या प्रेरित करता है?
+What inspires you?_2	Was bewegt dich?	आपको क्या प्रेरित करता है?

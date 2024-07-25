@@ -1,14 +1,4 @@
 
-What has Tom done?	Was hat Tom gemacht?	टॉम ने क्या किया?
-What has Tom seen?	Was hat Tom gesehen?	टॉम ने क्या देखा?
-What have we done?	Was haben wir getan?	हमने क्या किया?
-What have we here?	Was haben wir hier?	हमारे पास यहां क्या है?
-What have you got?	Was hast du?	तुम्हारे पास क्या है?
-What if I'm right?	Was, wenn ich recht habe?	अगर मैं सही हूं तो क्या होगा?
-What if I'm wrong?	Was, wenn ich mich täusche?	अगर मैं गलत हूं तो क्या होगा?
-What inspires you?	Was inspiriert dich?	आपको क्या प्रभावित करता है?
-What inspires you?	Was inspiriert euch?	आपको क्या प्रभावित करता है?
-What inspires you?	Was inspiriert Sie?	आपको क्या प्रभावित करता है?
 What is it called?	Wie nennt man das?	इसे कैसे कहा जाता है?
 What is the price?	Was ist der Preis?	कीमत क्या है?
 What is the story?	Was ist die Geschichte?	कहानी क्या है?
