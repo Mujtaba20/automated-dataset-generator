@@ -17281,3 +17281,9 @@ Is your wife tall?	Ist deine Frau groß?	क्या तुम्हारी �
 Isn't it pathetic?	Ist es nicht erbärmlich?	क्या यह दयनीय नहीं है?
 Isn't that enough?	Ist das nicht genug?	क्या यह पर्याप्त नहीं है?
 Isn't that theirs?	Ist das nicht ihres?	क्या वह उनका नहीं है?
+It became useless.	Es wurde nutzlos.	यह निरर्थक हो गया।
+It belongs to Tom.	Es gehört Tom.	यह टॉम का है।
+It cannot be true.	Es kann nicht wahr sein.	यह ठीक नहीं हो सकता।
+It could be fatal.	Es könnte fatal sein.	यह कातिल हो सकता है।
+It could be worse.	Es könnte schlimmer sein.	यह और भरपूर हो सकता है।
+It depends on you.	Es hängt von dir ab.	यह तुम पर निर्भर करता है।
