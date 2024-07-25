@@ -16485,3 +16485,11 @@ I hate rainy days.	Ich hasse regnerische Tage.	मुझे बरसात क�
 I hate rainy days. (Duplicate - Different meaning)	Ich mag keine Regentage.	मुझे बरसाती दिनों पसंद नहीं है।
 I hate that color.	Ich hasse diese Farbe.	मुझे उस रंग से नफरत है।
 I hate that movie.	Ich hasse diesen Film.	मुझे उस फिल्म से नफरत है।
+I hate the desert.	Ich hasse die Wüste.	मुझे रेगिस्तान से नफरत है।
+I hate the winter.	Ich hasse den Winter.	मुझे सर्दियों से नफरत है।
+I hate this music.	Ich hasse diese Musik.	मुझे यह संगीत नफरत है।
+I hate this place.	Ich hasse diesen Ort.	मुझे ये जगह नफरत है।
+I have Monday off.	Ich habe Montag frei.	मेरे पास सोमवार फ्री है।
+I have Tom's keys.	Ich habe Toms Schlüssel.	मेरे पास टॉम की चाबियां हैं।
+I have a backache.	Ich habe Rückenschmerzen.	मुझे पीठ दर्द है।
+I have a bad cold.	Ich habe eine schlimme Erkältung.	मेरे पास एक खराब सर्दी है।
