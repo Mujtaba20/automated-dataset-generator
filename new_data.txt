@@ -4568,3 +4568,10 @@ It's my fault.	Es ist mein Fehler.	यह मेरी गलती है।
 It's my horse.	Es ist mein Pferd.	यह मेरा घोड़ा है।
 It's my money.	Es ist mein Geld.	यह मेरा पैसा है।
 It's my treat.	Es ist mein Genuss.	यह मेरा खास समय है।
+It's not cold.	Es ist nicht kalt.	यह ठंडा नहीं है।
+It's not easy.	Es ist nicht leicht.	यह आसान नहीं है।
+It's not fair.	Es ist nicht gerecht.	यह न्यायसंगत नहीं है।
+It's not gold.	Es ist kein Gold.	यह सोना नहीं है।
+It's not good.	Es ist nicht gut.	यह अच्छा नहीं है।
+It's not here.	Es ist nicht hier.	यह यहाँ नहीं है।
+It's not mine.	Es ist nicht meins.	यह मेरा नहीं है।
