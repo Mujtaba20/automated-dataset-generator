@@ -4383,3 +4383,12 @@ I'm beautiful.	Ich bin schön.	मैं सुंदर हूँ।
 I'm busy here.	Ich bin hier beschäftigt.	मैं यहाँ व्यस्त हूँ।
 I'm busy, too.	Ich bin auch beschäftigt.	मैं भी व्यस्त हूँ।
 I'm coming in.	Ich komme rein.	मैं अंदर आ रहा हूँ।
+I'm concerned.	Ich bin besorgt.	मैं चिंतित हूँ।
+I'm convinced.	Ich bin überzeugt.	मैं प्रामाणिक हूँ।
+I'm dangerous.	Ich bin gefährlich.	मैं खतरनाक हूँ।
+I'm dedicated.	Ich bin engagiert.	मैं समर्पित हूँ।
+I'm depressed.	Ich bin deprimiert.	मैं अवसाद युक्त हूँ।
+I'm different.	Ich bin anders.	मैं अलग हूँ।
+I'm down here.	Ich bin hier unten.	मैं नीचे हूँ।
+I'm easygoing.	Ich bin locker.	मैं आसानी से मिलने वाला हूँ।
+I'm exhausted.	Ich bin erschöpft.	मैं थक चुका हूँ।
