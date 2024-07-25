@@ -13456,3 +13456,7 @@ Please don't cry.	Bitte weine nicht.	कृपया मत रोओ।
 Please don't die!	Bitte stirb nicht!	कृपया मत मरो!
 Please elaborate.	Bitte erläutern.	कृपया विस्तृत करें।
 Please follow me.	Bitte folge mir.	कृपया मेरा पालन करें।
+Please let me go.	Bitte lass mich gehen.	कृपया मुझे जाने दें।
+Please let me in.	Bitte lasst mich eintreten.	कृपया मुझे अंदर जाने दें।
+Please phone him.	Bitte rufe ihn an.	कृपया उसे फोन करो।
+Please sign here.	Bitte hier unterschreiben.	कृपया यहाँ हस्ताक्षर करें।
