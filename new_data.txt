@@ -9802,3 +9802,12 @@ She is Japanese.	Sie ist Japanerin.	वह जापानी है।
 She is a beauty.	Sie ist eine Schönheit.	वह एक सुंदरता है।
 She is a genius.	Sie ist ein Genie.	वह एक महान है।
 She is a runner.	Sie ist eine Sportlerin.	वह एक उभारक है।
+She is discreet.	Sie ist diskret.	वह सावधान है।
+She is graceful.	Sie ist anmutig.	वह शालीन है।
+She is not tall.	Sie ist nicht groß.	वह लंबी नहीं है।
+She is powerful.	Sie ist mächtig.	वह शक्तिशाली है।
+She is stubborn.	Sie ist stur.	वह जिद्दी है।
+She isn't picky.	Sie ist nicht wählerisch.	वह चंचल नहीं है।
+She isn't young.	Sie ist nicht jung.	वह युवा नहीं है।
+She lives alone.	Sie lebt allein.	वह अकेले रहती है।
+She looks happy.	Sie scheint glücklich zu sein.	वह खुश लग रही है।
