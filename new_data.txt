@@ -12772,3 +12772,10 @@ I wrote the book.	Ich habe das Buch geschrieben.	मैंने किताब
 I'd be delighted.	Ich würde mich freuen.	मैं खुश होगा।
 I'd have said no.	Ich hätte Nein gesagt.	मैंने कहा है।
 I'd like a salad.	Ich hätte gerne einen Salat.	मुझे एक सलाद पसंद होगा।
+I'd love to stay.	Ich würde gerne bleiben.	मैं रुकना पसंद करूँगा।
+I'll be by later.	Ich werde später vorbeikommen.	मैं बाद में आऊंगा।
+I'll be punished.	Ich werde bestraft werden.	मैं सजा पाऊंगा।
+I'll be watching.	Ich werde beobachten.	मैं देख रहा होऊंगा।
+I'll be with Tom.	Ich werde bei Tom sein.	मैं टॉम के साथ होऊंगा।
+I'll be with you.	Ich werde bei dir sein.	मैं तुम्हारे साथ होऊंगा।
+I'll come by car.	Ich werde mit dem Auto kommen.	मैं कार से आूंगा।
