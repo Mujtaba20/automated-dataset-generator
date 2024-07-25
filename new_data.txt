@@ -4318,3 +4318,13 @@ I'll be there.	Ich werde da sein.	मैं वहाँ होऊँगा।
 I'll buy that.	Ich werde das kaufen.	मैं वह खरीदूँगा।
 I'll buy this.	Ich werde das kaufen.	मैं यह खरीद लूँगा।
 I'll call Tom.	Ich werde Tom anrufen.	मैं टॉम को कॉल करूँगा।
+I'll call you.	Ich werde dich anrufen.	मैं तुम्हें कॉल करूंगा।
+I'll check it.	Ich werde es überprüfen.	मैं इसे जांचूँगा।
+I'll fire Tom.	Ich werde Tom feuern.	मैं टॉम को निकाल दूंगा।
+I'll fix that.	Ich werde das reparieren.	मैं वह ठीक कर दूँगा।
+I'll rectify that.	Ich werde das korrigieren.	मैं वह सुधार लूंगा।
+I'll mend this.	Ich werde das reparieren.	मैं यह ठीक कर दूंगा।
+I'll get help.	Ich werde Hilfe holen.	मैं मदद लेता हूँ।
+I'll get that.	Das werde ich bekommen.	वह मिलेगा।
+I'll acquire this.	Ich werde das erwerben.	मैं यह प्राप्त कर लूँगा।
+I'll go there.	Ich werde dorthin gehen.	मैं वहाँ जाऊँगा।
