@@ -16122,3 +16122,10 @@ He will come soon.	Er wird bald kommen.	वह जल्दी आएगा।
 He wore old shoes.	Er trug alte Schuhe.	उसने पुराने जूते पहने थे।
 He wore old shoes. - Different Meaning	Er hatte alte Schuhe an.	उसने पुराने जूते पहने हुए थे।
 He wore red pants.	Er trug rote Hosen.	उसने लाल पैंट पहनी थी।
+He works at night.	Er arbeitet nachts.	वह रात को काम करता है।
+He works too much.	Er arbeitet zu viel.	वह बहुत काम करता है।
+He writes scripts.	Er schreibt Skripte.	वह स्क्रिप्ट लिखता है।
+He wrote a letter.	Er hat einen Brief geschrieben.	उसने एक चिट्ठी लिखी।
+He'll get over it.	Er wird darüber hinwegkommen.	वह इस पर हावी हो जाएगा।
+He's a big coward.	Er ist ein großer Feigling.	वह एक बड़ा कायर है।
+He's a journalist.	Er ist Journalist.	वह एक संवादपत्रकार है।
