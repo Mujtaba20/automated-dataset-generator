@@ -1,14 +1,4 @@
 
-Tom is incredible.	Tom ist unglaublich.	टॉम अविश्वसनीय है।
-Tom is indecisive.	Tom ist unentschlossen.	टॉम अनिर्दिष्ट है।
-Tom is indiscreet.	Tom ist indiskret.	टॉम अश्वारोही है।
-Tom is infallible.	Tom ist unfehlbar.	टॉम अचूक है।
-Tom is inflexible.	Tom ist unflexibel.	टॉम अनम्य है।
-Tom is infuriated.	Tom ist wütend.	टॉम गुस्से में है।
-Tom is innovative.	Tom ist innovativ.	टॉम अभिनव है।
-Tom is insightful.	Tom ist einsichtig.	टॉम व्यावहारिक है।
-Tom is insightful.	Tom ist aufschlussreich.	टॉम खुलासा कर रहा है।
-Tom is interested.	Tom ist interessiert.	टॉम रुचि रखते हैं।
 Tom is intolerant.	Tom ist intolerant.	टॉम असहिष्णु है।
 Tom is just a kid.	Tom ist nur ein Kind.	टॉम सिर्फ एक बच्चा है।
 Tom is making jam.	Tom macht gerade Marmelade.	टॉम वर्तमान में जाम बना रहा है।

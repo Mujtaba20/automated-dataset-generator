@@ -18678,3 +18678,12 @@ Tom is in a hurry.	Tom hat es eilig.	टॉम जल्दी में है�
 Tom is in college.	Tom ist im College.	टॉम कॉलेज में है।
 Tom is in his car.	Tom ist in seinem Auto.	टॉम अपनी कार में है।
 Tom is in trouble.	Tom ist in Schwierigkeiten.	टॉम मुश्किल में है।
+Tom is incredible.	Tom ist unglaublich.	टॉम अविश्वसनीय है।
+Tom is indecisive.	Tom ist unentschlossen.	टॉम अनिर्णयी है।
+Tom is indiscreet.	Tom ist indiskret.	टॉम असावधान है।
+Tom is infallible.	Tom ist unfehlbar.	टॉम अपनी गलती कभी नहीं समझता है।
+Tom is inflexible.	Tom ist unflexibel.	टॉम अकड़ी हुई है।
+Tom is infuriated.	Tom ist wütend.	टॉम क्रोधित है।
+Tom is innovative.	Tom ist innovativ.	टॉम नवाचारी है।
+Tom is insightful.	Tom ist einfühlsam.	टॉम को अंतःसाक्षी है।
+Tom is interested.	Tom ist interessiert.	टॉम रुचि रखता है।
