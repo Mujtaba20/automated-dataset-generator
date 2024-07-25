@@ -1,15 +1,4 @@
 
-Tom drove all day.	Tom fuhr den ganzen Tag.	टॉम ने पूरे दिन चलाई।
-Tom drove me home.	Tom hat mich nach Hause gefahren.	टॉम ने मुझे घर दे दिया।
-Tom drove the car.	Tom saß am Steuer.	टॉम पहिया पर बैठ गया।
-Tom dyed his hair.	Tom hat sich die Haare gefärbt.	टॉम ने अपने बालों को रंग दिया है।
-Tom eats anything.	Tom isst alles.	टॉम सब कुछ खाता है।
-Tom eats too fast.	Tom isst zu schnell.	टॉम बहुत जल्दी खाता है।
-Tom eats too fast.	Tom isst zu hastig.	टॉम बहुत जल्दबाजी में खाता है।
-Tom enjoys movies.	Tom sieht gerne Filme.	टॉम को फिल्में देखना पसंद है।
-Tom enjoys movies.	Tom genießt Filme.	टॉम को फिल्मों का आनंद मिलता है।
-Tom enjoys school.	Tom genießt die Schule.	टॉम को स्कूल का आनंद मिलता है।
-Tom enjoys school.	Tom geht gern in die Schule.	टॉम को स्कूल जाना पसंद है।
 Tom expected more.	Tom hat mehr erwartet.	टॉम को और अधिक उम्मीद थी।
 Tom fed the horse.	Tom fütterte das Pferd.	टॉम ने घोड़ा खिलाया।
 Tom fed the sheep.	Tom hat die Schafe gefüttert.	टॉम ने भेड़ को खिलाया।

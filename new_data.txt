@@ -18442,3 +18442,11 @@ Tom drives a Ford.	Tom fährt einen Ford.	टॉम फोर्ड चलात
 Tom drives an SUV.	Tom fährt ein SUV.	टॉम एक SUV चलाता है।
 Tom drives safely.	Tom fährt sicher.	टॉम सुरक्षित तरीके से चलाता है।
 Tom drives slowly.	Tom fährt langsam.	टॉम धीमे गति से चलाता है।
+Tom drove all day.	Tom fuhr den ganzen Tag.	टॉम ने पूरे दिन गाड़ी चलाई।
+Tom drove me home.	Tom hat mich nach Hause gefahren.	टॉम ने मुझे घर चलाया।
+Tom drove the car.	Tom fuhr das Auto.	टॉम ने कार चलाई।
+Tom dyed his hair.	Tom färbte seine Haare.	टॉम ने अपने बालों को रंग डाला।
+Tom eats anything.	Tom isst alles.	टॉम कुछ भी खाता है।
+Tom eats too fast.	Tom isst zu schnell.	टॉम बहुत तेजी से खाता है।
+Tom enjoys movies.	Tom genießt Filme.	टॉम को फिल्में देखना अच्छा लगता है।
+Tom enjoys school.	Tom genießt die Schule.	टॉम को स्कूल में आनंद आता है।
