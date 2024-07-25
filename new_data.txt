@@ -2055,3 +2055,11 @@ They may go. - Different Meaning	Sie dürfen gehen.	वे जा सकते �
 They saw me.	Sie sahen mich.	उन्होंने मुझे देखा।
 They saw me. - Different Meaning	Sie sahen mich an.	उन्होंने मेरा दर्शन किया।
 They smiled.	Sie lächelten.	उन्होंने मुस्कान में लिया।
+They waited.	Sie haben gewartet.	उन्होंने इंतजार किया।
+They walked.	Sie gingen.	उन्होंने चला गया।
+They're bad.	Sie sind schlecht.	वे बुरे हैं।
+They're new.	Sie sind neu.	वे नए हैं।
+They're old.	Sie sind alt.	वे पुराने हैं।
+Think again.	Denken Sie noch einmal nach.	फिर से सोचो।
+This is Tom.	Das ist Tom.	यह टॉम है।
+This is big.	Das ist groß.	यह बड़ा है।
