@@ -15151,3 +15151,9 @@ What did Tom get?	Was hat Tom bekommen?	टॉम को क्या मिल�
 What did it cost?	Was hat es gekostet?	इसकी कितनी कीमत थी?
 What did she say?	Was hat sie gesagt?	उसने क्या कहा?
 What did they do?	Was haben sie gemacht?	उन्होंने क्या किया?
+What did you buy?	Was hast du gekauft?	तुमने क्या खरीदा?
+What did you say?	Was hast du gesagt?	तुमने क्या कहा?
+What do you hate?	Was hasst du?	तुम किसे नफरत करते हो?
+What do you have?	Was hast du?	तुम्हारे पास क्या है?
+What do you like?	Was magst du?	तुम्हें क्या पसंद है?
+What do you mean?	Was meinst du?	तुम क्या मतलब है?
