@@ -7500,3 +7500,12 @@ Tom lost again.	Tom hat wieder verloren.	टॉम फिरसे हार ग
 Tom lost count.	Tom hat den Überblick verloren.	टॉम गिनती खो दी।
 Tom loved Mary.	Tom liebte Mary.	टॉम ने मेरी से प्यार किया।
 Tom loves Mary.	Tom liebt Mary.	टॉम मेरी से प्यार करता है।
+Tom loves cats.	Tom liebt Katzen.	टॉम बिल्लियों से प्यार करता है।
+Tom loves dogs.	Tom liebt Hunde.	टॉम कुत्तों से प्यार करता है।
+Tom loves kids.	Tom liebt Kinder.	टॉम बच्चों से प्यार करता है।
+Tom loves that.	Tom liebt das.	टॉम उस से प्यार करता है।
+Tom loves this.	Tom liebt dies.	टॉम इसे पसंद करता है।
+Tom made me go.	Tom hat mich gehen lassen.	टॉमने मुझे चलने दिया।
+Tom made noise.	Tom machte Lärm.	टॉमने शोर मचाया।
+Tom made plans.	Tom hat Pläne gemacht.	टॉमने योजनाएँ बनाई।
+Tom may be hot.	Tom könnte heiß sein.	टॉम गर्म हो सकता है।
