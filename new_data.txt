@@ -560,3 +560,9 @@ I saw Tom.	Ich sah Tom.	मैंने टॉम को देखा।
 I saw him.	Ich sah ihn.	मैंने उसे देखा।
 I saw one.	Ich sah einen.	मैंने एक देखा।
 I saw you.	Ich habe dich gesehen.	मैंने तुम्हें देखा।
+I see Tom.	Ich sehe Tom.	मैं टॉम को देखता हूँ।
+I slipped.	Ich bin ausgerutscht.	मैं फिसल गया।
+I stopped.	Ich habe aufgehört.	मैंने रोक लिया।
+I took it.	Ich habe es genommen.	मैंने यह लिया।
+I want it.	Ich will es.	मुझे यह चाहिए।
+I was new.	Ich war neu.	मैं नया था।
