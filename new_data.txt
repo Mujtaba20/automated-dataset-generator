@@ -15273,3 +15273,10 @@ Who notified Tom?	Wer hat Tom benachrichtigt?	तोम को कौन सू�
 Who ordered that?	Wer hat das bestellt?	उसने यह किसने मांगा?
 Who ordered this?	Wer hat das bestellt?	यह किसने मांगा?
 Who removed them?	Wer hat sie entfernt?	उन्होंने उन्हें हटाया?
+Who would buy it?	Wer würde es kaufen?	कौन इसे खरीदेगा?
+Who wrote Hamlet?	Wer hat Hamlet geschrieben?	हैमलेट किसने लिखा?
+Who wrote to Tom?	Wer hat Tom geschrieben?	किसने टॉम को लिखा?
+Who'd you invite?	Wen hast du eingeladen?	तुम किसे बुलाते थे?
+Who's Tom dating?	Mit wem datet Tom?	टॉम किसके साथ डेट कर रहा है?
+Who's my teacher?	Wer ist mein Lehrer?	मेरा शिक्षक कौन है?
+Who's not coming?	Wer kommt nicht?	कौन नहीं आ रहा है?
