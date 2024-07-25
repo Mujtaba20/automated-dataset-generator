@@ -3233,3 +3233,13 @@ They know me.	Sie kennen mich.	उन्हें मुझे पता है�
 They laughed.	Sie lachten.	उन्होंने मजाक किया।
 They love it.	Sie lieben es.	उन्हें यह पसंद है।
 They love me.	Sie lieben mich.	उन्हें मुझसे प्यार है।
+They love us.	Sie lieben uns.	उन्हें हमसे प्यार है।
+They need me.	Sie brauchen mich.	उन्हें मुझे चाहिए।
+They refused.	Sie lehnten ab.	उन्होंने इनकार किया।
+They relaxed.	Sie entspannten sich.	उन्होंने आराम किया।
+They relaxed. (Different meaning)	Sie entspannten.	उन्होंने ढीला कर दिया।
+They said no.	Sie sagten nein.	उन्होंने कहा नहीं।
+They saw Tom.	Sie sahen Tom.	उन्होंने टॉम को देखा।
+They saw Tom. (Different meaning)	Sie stellten Tom fest.	उन्होंने टॉम को पहचाना।
+They saw you.	Sie sahen dich.	उन्होंने तुम्हें देखा।
+They stopped.	Sie hörten auf.	उन्होंने रुक गए।
