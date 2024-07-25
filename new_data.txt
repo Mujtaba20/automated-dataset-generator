@@ -14906,3 +14906,10 @@ Try it once more.	Versuch es noch einmal.	एक बार फिर से क�
 Try not to panic.	Versuche nicht in Panik zu geraten.	घबराने की कोशिश मत करो।
 Try not to worry.	Versuche nicht zu besorgt zu sein.	चिंता मत करो।
 Try to go slower.	Versuch langsamer zu gehen.	धीरे चलने की कोशिश करो।
+Try to stay calm.	Versuche ruhig zu bleiben.	शांत रहने का प्रयास करें।
+Turn it off, Tom.	Schalte es aus, Tom.	इसे बंद करो, टॉम।
+Turn off the gas.	Gas abstellen.	गैस बंद करो।
+Turn right there.	Biegen Sie dort rechts ab.	वहाँ दाएं मुड़ें।
+Turn up the heat.	Drehe die Hitze hoch.	गरमी बढ़ाओ।
+Turtles lay eggs.	Schildkröten legen Eier.	कछुए अंडे अंडे देते हैं।
+Wait for us, Tom.	Warte auf uns, Tom.	हमारा इंतजार करो, टॉम।
