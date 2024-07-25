@@ -3317,3 +3317,11 @@ Tom enlisted.	Tom hat sich verpflichtet.	टॉम ने सेना में
 Tom felt bad.	Tom fühlte sich schlecht.	टॉम को बुरा लगा।
 Tom felt sad.	Tom fühlte sich traurig.	टॉम दुखी महसूस कर रहा था।
 Tom finished.	Tom hat beendet.	टॉम ने समाप्त किया।
+Tom flinched.	Tom zuckte zusammen.	टॉम डर गया।
+Tom followed.	Tom folgte.	टॉम का पीछा किया।
+Tom found it.	Tom hat es gefunden.	टॉम ने यह पाया।
+Tom found us.	Tom hat uns gefunden.	टॉम ने हमें ढूंढ लिया।
+Tom got an A.	Tom hat eine Eins bekommen.	टॉम ने एक ए प्राप्त किया।
+Tom got away.	Tom ist weggekommen.	टॉम भाग गया।
+Tom got home.	Tom ist nach Hause gekommen.	टॉम घर पहुंच गया।
+Tom got hurt.	Tom hat sich verletzt.	टॉम को चोट आई।
