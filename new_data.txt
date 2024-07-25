@@ -11373,3 +11373,11 @@ You'll be sorry.	Du wirst es bedauern.	तुम खेदगी होगे।
 You'll be tired.	Du wirst müde sein.	तुम थक जाओगे।
 You'll do great.	Du wirst großartig sein.	आपका अच्छा होगा।
 You'll find out.	Du wirst es herausfinden.	तुम्हें पता चलेगा।
+You'll get lost.	Du wirst dich verlieren.	तुम खो जाओगे।
+You'll like Tom.	Du wirst Tom mögen.	तुम्हें टॉम पसंद आएगा।
+You'll love Tom.	Du wirst Tom lieben.	तुम टॉम से प्यार करोगे।
+You'll meet Tom.	Du wirst Tom treffen.	तुम टॉम से मिलोगे।
+You'll miss Tom.	Du wirst Tom vermissen.	तुम्हें टॉम की याद आएगी।
+You'll thank me.	Du wirst mir danken.	तुम मुझे धन्यवाद दोगे।
+You're a beauty.	Du bist eine Schönheit.	तुम एक सुंदरता हो।
+You're a coward!	Du bist ein Feigling!	तुम डरपोक हो!
