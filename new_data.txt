@@ -9890,3 +9890,9 @@ That boy is Tom.	Der Junge ist Tom.	वह लड़का टॉम है।
 That can happen.	Das kann passieren.	वह हो सकता है।
 That cost a lot.	Das hat viel gekostet.	उसने बहुत पैसे खर्च किए।
 That is a table.	Das ist ein Tisch.	यह एक मेज़ है।
+That is her car.	Das ist ihr Auto.	वह उसकी गाड़ी है।
+That is his car.	Das ist sein Auto.	वह उसकी गाड़ी है।
+That isn't fair.	Das ist nicht fair.	यह न्याय नहीं है।
+That isn't good.	Das ist nicht gut.	यह अच्छा नहीं है।
+That isn't safe.	Das ist nicht sicher.	यह सुरक्षित नहीं है।
+That looks good.	Das sieht gut aus.	यह अच्छा लगता है।
