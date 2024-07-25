@@ -4585,3 +4585,11 @@ It's possible.	Es ist möglich.	यह संभव है।
 It's so quiet.	Es ist so ruhig.	यह इतना शांत है।
 It's so sweet.	Es ist so süß.	यह इतना प्यारा है।
 It's the cops!	Es sind die Polizisten!	ये पुलिस हैं!
+It's too cold.	Es ist zu kalt.	यह बहुत ठंडा है।
+It's too dark.	Es ist zu dunkel.	यह बहुत अंधेरा है।
+It's too easy.	Es ist zu simpel.	यह बहुत सरल है।
+It's too fast.	Es ist zu schnell.	यह बहुत तेज़ी से हो रहा है।
+It's too hard.	Es ist zu hart.	यह बहुत कठिन है।
+It's too late.	Es ist zu spät.	यह बहुत देर हो चुकी है।
+It's too long.	Es ist zu lang.	यह बहुत लंबा है।
+It's too loud.	Es ist zu laut.	यह बहुत शोर मचा रहा है।
