@@ -20134,3 +20134,11 @@ You work too much.	Du arbeitest zu viel.	आप बहुत काम करत
 You weren't wrong. (different meaning)	Du hast nicht Unrecht gehabt.	तुम गलत नहीं थे। (विभिन्न अर्थ)
 You won't be shot. (different meaning)	Du wirst nicht angeschossen.	तुम्हें गोली नहीं लगेगी। (विभिन्न अर्थ)
 You work too hard. (different meaning)	Du arbeitest zu sehr.	आप ज्यादा मेहनत करते हैं। (विभिन्न अर्थ)
+You would like it.	Du würdest es mögen.	तुम्हें यह पसंद आएगा।
+You would love it.	Du würdest es lieben.	तुम्हें यह प्यार आएगातुम्हें यह प्यार आएगा।
+You'd all like it.	Ihr alle würdet es mögen.	तुम सब को यह पसंद आएगा।
+You'll be OK here.	Du wirst hier in Ordnung sein.	तुम यहाँ ठीक रहोगे।
+You'll be jealous.	Du wirst eifersüchtig sein.	तुम जलन महसूस करोगे।
+You'll be with me.	Du wirst bei mir sein.	तुम मेरे साथ होगे।
+You'll find a job.	Du wirst einen Job finden.	तुम्हें नौकरी मिलेगी।
+You'll have to go.	Du musst gehen.	तुम्हें जाना होगा।

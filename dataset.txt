@@ -1,14 +1,4 @@
 
-You would like it.	Du würdest es mögen.	आप इसे पसंद करेंगे।
-You would love it.	Du würdest es lieben.	तुम्हे बहुत पसंद आएगा।
-You'd all like it.	Es würde euch allen gefallen.	आप यह सब पसंद करेंगे।
-You'll be OK here.	Du wirst hier okay sein.	आप यहां ठीक हो जाएंगे।
-You'll be jealous.	Ihr werdet eifersüchtig sein.	आपको जलन होगी।
-You'll be with me.	Du wirst mit mir sein.	तुम मेरे साथ होगे।
-You'll find a job.	Du wirst Arbeit finden.	आपको काम मिलेगा।
-You'll find a job.	Du wirst eine Stelle finden.	आपको नौकरी मिलेगी।
-You'll find a job.	Du wirst einen Job finden.	आपको नौकरी मिलेगी।
-You'll have to go.	Du musst gehen.	तुम्हें जाना चाहिए।
 You'll need money.	Du wirst Geld brauchen.	आपको पैसे की आवश्यकता होगी।
 You'll need money.	Sie werden Geld brauchen.	आपको पैसे की आवश्यकता होगी।
 You'll need money.	Ihr werdet Geld brauchen.	आपको पैसे की आवश्यकता होगी।
