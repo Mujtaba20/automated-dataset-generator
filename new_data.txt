@@ -6754,3 +6754,12 @@ May I sit down?	Kann ich mich setzen?	क्या मैं बैठ सकत
 May I sit here?	Kann ich hier sitzen?	क्या मैं यहाँ बैठ सकता हूँ?
 May I use that?	Darf ich das benutzen?	क्या मैं यह इस्तेमाल कर सकता हूँ?
 May I use this?	Darf ich das benutzen?	क्या मैं यह का इस्तेमाल कर सकता हूँ?
+May we go home?	Dürfen wir nach Hause gehen?	क्या हम घर चले जाएँ?
+Maybe it's Tom.	Vielleicht ist es Tom.	शायद यह टॉम है।
+Men are greedy.	Männer sind gierig.	आदमी लालची होते हैं।
+Men are idiots.	Männer sind Idioten.	आदमी मूर्ख होते हैं।
+Men are simple.	Männer sind einfach.	आदमी सरल होते हैं।
+Might is right.	Macht gibt Recht.	जो शक्ति में है वह सही है।
+Money is power.	Geld ist Macht.	पैसे में शक्ति है।
+More is needed.	Mehr ist nötig.	अधिक चाहिए।
+Mum's the word.	Schweigen ist Gold.	मुंह बंद रखने से ही अच्छा है।
