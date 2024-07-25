@@ -6763,3 +6763,12 @@ Might is right.	Macht gibt Recht.	जो शक्ति में है वह
 Money is power.	Geld ist Macht.	पैसे में शक्ति है।
 More is needed.	Mehr ist nötig.	अधिक चाहिए।
 Mum's the word.	Schweigen ist Gold.	मुंह बंद रखने से ही अच्छा है।
+My chest hurts.	Meine Brust schmerzt.	मेरी छाती में दर्द हो रहा है।
+My desk is old.	Mein Schreibtisch ist alt.	मेरा डेस्क पुराना है।
+My dog bit Tom.	Mein Hund hat Tom gebissen.	मेरे कुत्ते ने टॉम को काट दिया।
+My dog's brown.	Mein Hund ist braun.	मेरे कुत्ते का रंग भूरा है।
+My hair is wet.	Mein Haar ist nass.	मेरे बाल गीले हैं।
+My heart hurts.	Mein Herz schmerzt.	मेरे दिल में दर्द है।
+My jaw is sore.	Mein Kiefer tut weh.	मेरी जबड़ में दर्द है।
+My joints ache.	Meine Gelenke schmerzen.	मेरी जोड़ों में दर्द है।
+My name is Tom.	Mein Name ist Tom.	मेरा नाम टॉम है।
