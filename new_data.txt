@@ -20184,3 +20184,12 @@ You're my friends.	Ihr seid meine Freunde.	तुम मेरे दोस्�
 You're my problem.	Du bist mein Problem.	तुम मेरी समस्या हो।
 You're never here.	Du bist nie hier.	तुम कभी यहाँ नहीं हो।
 You're not normal.	Du bist nicht normal.	तुम सामान्य नहीं हो।
+You're not thirty.	Du bist nicht dreißig.	तुम तीस नहीं हो।
+You're optimistic.	Du bist optimistisch.	तुम आशावादी हो।
+You're our guests.	Ihr seid unsere Gäste.	आप हमारे मेहमान हैं।
+You're overweight.	Du bist übergewichtig.	तुम अधिक वजन वाले हो।
+You're overweight. (different meaning)	Du bist zu schwer.	तुम बहुत मोटे हो।
+You're overworked.	Du arbeitest zu viel.	तुम बहुत ज्यादा काम कर रहे हो।
+You're reasonable.	Du bist vernünftig.	तुम तर्कसंगत हो।
+You're safer here.	Hier bist du sicherer.	यहाँ आप सुरक्षित हैं।
+You're scaring me.	Du erschreckst mich.	तुम मुझे डरा रहे हो।
