@@ -15429,3 +15429,9 @@ You're beautiful.	Du bist schön.	तुम खूबसूरत हो।
 You're conceited.	Du bist eingebildet.	तुम अहंकारी हो।
 You're dangerous.	Du bist gefährlich.	तुम खतरनाक हो।
 You're exhausted.	Du bist erschöpft.	तुम थके हुए हो।
+You're forgetful.	Du bist vergeßlich.	तुम भूलगया
+You're fortunate.	Du hast Glück.	तुम भाग्यशाली हो
+You're impatient.	Du bist hastig.	तुम अधीर हो
+You're in my way.	Du stehst mir im Weg.	तुम मेरे रास्ते में हो
+You're lying now.	Du lügst jetzt.	तुम अब झूठ बोल रहे हो
+You're motivated.	Du bist motiviert.	तुम प्रेरित हो
