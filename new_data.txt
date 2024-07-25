@@ -1578,3 +1578,11 @@ I am a cook.	Ich bin ein Koch.	मैं रसोइया हूँ।
 I am a monk.	Ich bin ein Mönch.	मैं एक साधू हूँ।
 I am a twin.	Ich bin ein Zwilling.	मैं एक जुड़वा हूँ।
 I am better.	Ich bin besser.	मैं बेहतर हूँ।
+I am coming.	Ich komme.	मैं आ रहा हूँ।
+I am dozing.	Ich döse.	मैं झपकिया रहा हूँ।
+I am online.	Ich bin im Internet.	मैं ऑनलाइन हूँ।
+I am taller.	Ich bin größer.	मैं लंबा हूँ।
+I asked Tom.	Ich fragte Tom.	मैंने टॉम से पूछा।
+I asked why.	Ich fragte warum.	मैंने पूछा क्यों।
+I assume so.	Ich nehme an.	मैं इसे मानता हूँ।
+I ate a lot.	Ich aß viel.	मैंने बहुत खाया।
