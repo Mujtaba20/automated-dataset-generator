@@ -3126,3 +3126,11 @@ Say it again.	Sag es nochmal.	फिर से कहो।
 School's out.	Die Schule ist aus.	स्कूल खत्म हो गया।
 See you then.	Bis dann.	तब मिलेंगे।
 Set Tom free.	Lass Tom frei.	टॉम को छोड़ दो।
+Shame on you!	Schäm dich!	तुम गिर गए हो!
+Shame on you.	Schäm dich.	तुम गिर गए हो।
+She helps us.	Sie hilft uns.	वह हमें मदद करती है।
+She is a fox.	Sie ist ein Fuchs.	वह एक लोमड़ी है।
+She is eight.	Sie ist acht.	वह आठ है।
+She is happy.	Sie ist glücklich.	वह खुश है।
+She is lucky.	Sie hat Glück.	वह भाग्यशाली है।
+She is quiet.	Sie ist ruhig.	वह शांत है।
