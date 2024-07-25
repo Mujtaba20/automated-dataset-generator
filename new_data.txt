@@ -6292,3 +6292,13 @@ I was confused.	Ich war verwirrt.	मुझे भ्रमित किया �
 I was coughing.	Ich habe gehustet.	मैं खांसने लगा था।
 I was dreaming.	Ich träumte.	मैं सपना देख रहा था।
 I was homesick.	Ich war heimwehkrank.	मुझे घर की याद आ रही थी।
+I was off duty.	Ich war nicht im Dienst.	मैं कर्तव्य विमुक्त था।
+I was on leave.	Ich war im Urlaub.	मैं अवकाश पर था।
+I was outdoors.	Ich war draußen.	मैं बाहर था।
+I was poisoned.	Ich wurde vergiftet.	मुझे जहर लगा दिया गया था।
+I was poisoned. (second meaning)	Ich war voller Gifte.	मैं जहर भरा था।
+I was sleeping.	Ich schlief.	मैं सो रहा था।
+I was so happy.	Ich war so glücklich.	मैं इतना खुश था।
+I was sweating.	Ich schwitzte.	मैं पसी था।
+I was too fast.	Ich war zu schnell.	मैं बहुत तेज था।
+I was tortured.	Ich wurde gefoltert.	मुझे पीड़ा दी गई थी।
