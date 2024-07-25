@@ -11316,3 +11316,11 @@ Women love that.	Frauen lieben das.	औरतें उसे पसंद क�
 Write something.	Schreib etwas.	कुछ लिखो।
 Write that down.	Schreib das auf.	उसे नीचे लिख दो।
 You almost died.	Du bist fast gestorben.	तुम लगभग मर गए थे।
+You are a woman.	Du bist eine Frau.	तुम एक महिला हो।
+You are my hero.	Du bist mein Held.	तुम मेरे हीरो हो।
+You are naughty.	Du bist frech.	तुम शरारती हो।
+You are so kind.	Du bist so nett.	तुम इतने दयालु हो।
+You are the one.	Du bist derjenige.	तुम एक हो।
+You aren't dead.	Du bist nicht tot.	तुम मरे नहीं हो।
+You are the one. - different meaning	Du bist einzigartig.	तुम वह एक हो।
+You aren't dead. - different meaning	Du lebst noch.	तुम मरे नहीं हो।
