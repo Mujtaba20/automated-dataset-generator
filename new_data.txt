@@ -1142,3 +1142,13 @@ It's night.	Es ist Nacht.	यह रात है।
 It's on me.	Es ist an mir.	यह मेरे ऊपर है।
 It's ready.	Es ist bereit.	यह तैयार है।
 It's ready. (Different meaning)	Es ist fertig.	यह तैयार है। (विभिन्न अर्थ)
+It's shiny.	Es glänzt.	यह चमकदार है।
+It's stuck.	Es steckt fest.	यह अटक गया है।
+It's there.	Es ist da.	वहाँ है।
+It's white.	Es ist weiß.	यह सफेद है।
+It's windy.	Es ist windig.	हवा चल रही है।
+It's yours.	Es ist deins.	यह तुम्हारा है।
+It's yours. (different translation)	Es gehört dir.	यह आपका है।
+Jesus wept.	Jesus weinte.	यीशु रोए।
+Just do it.	Mach es einfach.	बस करो इसे।
+Just relax.	Entspann dich einfach.	बस आराम करो।
