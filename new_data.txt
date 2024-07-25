@@ -10447,3 +10447,13 @@ Tom is now dead.	Tom ist jetzt tot.	टॉम अब मर गया है।
 Tom is obedient.	Tom ist gehorsam.	टॉम आज्ञाकारी है।
 Tom is occupied.	Tom ist beschäftigt.	टॉम व्यस्त है।
 Tom is offended.	Tom ist beleidigt.	टॉम को अपमानित किया गया है।
+Tom is out here.	Tom ist hier draußen.	टॉम यहाँ बाहर है।
+Tom is outgoing.	Tom ist kontaktfreudig.	टॉम बाहर जा रहा है।
+Tom is outraged.	Tom ist empört.	टॉम को गुस्सा आया है।
+Tom is painting.	Tom malt.	टॉम चित्रकरण कर रहा है।
+Tom is pathetic.	Tom ist armselig.	टॉम दयालु है।
+Tom is perverse.	Tom ist abwegig.	टॉम विषम है।
+Tom is pleasant.	Tom ist angenehm.	टॉम सुहावना है।
+Tom is positive.	Tom ist positiv.	टॉम सकारात्मक है।
+Tom is powerful.	Tom ist mächtig.	टॉम शक्तिशाली है।
+Tom is prepared.	Tom ist vorbereitet.	टॉम तैयार है।
