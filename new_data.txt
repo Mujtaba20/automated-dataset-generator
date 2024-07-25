@@ -4342,3 +4342,11 @@ I'll show you. (different meaning)	Ich werde es dir demonstrieren.	मैं आ
 I'll stop Tom.	Ich werde Tom stoppen.	मैं टॉम को रोकूंगा।
 I'll stop you.	Ich werde dich stoppen.	मैं तुम्हें रोकूंगा।
 I'll take Tom.	Ich werde Tom mitnehmen.	मैं टॉम को ले जाऊंगा।
+I'll take him.	Ich werde ihn nehmen.	मैं उसे लेऊँगा।
+I'll take one.	Ich werde eins nehmen.	मैं एक लेऊँगा।
+I'll tell Tom.	Ich werde Tom sagen.	मैं टॉम को बताऊंगा।
+I'll tell you.	Ich werde dir sagen.	मैं तुम्हें बताऊंगा।
+I'll try that.	Ich werde das versuchen.	मैं यह कोशिश करूँगा।
+I'll warn Tom.	Ich werde Tom warnen.	मैं टॉम को चेताऊंगा।
+I'll watch TV.	Ich werde fernsehen.	मैं टीवी देखूँगा।
+I'll watch it.	Ich werde es beobachten.	मैं यह देखूँगा।
