@@ -15716,3 +15716,10 @@ Do you bake bread?	Backst du Brot?	क्या आप रोटी पकात
 Do you believe me?	Glaubst du mir?	क्या आप मुझे विश्वास करते हैं?
 Do you drink beer?	Trinkst du Bier?	क्या आप बीयर पीते हैं?
 Do you drink wine?	Trinkst du Wein?	क्या आप वाइन पीते हैं?
+Do you drink, Tom?	Trinkst du, Tom?	क्या आप पिए, टॉम?
+Do you feel tired?	Fühlst du dich müde?	क्या आप थक गए महसूस कर रहे हैं?
+Do you guys smoke?	Raucht ihr?	क्या आप लोग सिगरेट पीते हैं?
+Do you have a car?	Hast du ein Auto?	क्या आपके पास एक कार है?
+Do you have a dog?	Hast du einen Hund?	क्या आपके पास एक कुत्ता है?
+Do you have a map?	Hast du eine Karte?	क्या आपके पास नक्शा है?
+Do you have a dog? 1	Hast du einen Hund?	क्या आपके पास एक कुत्ता है?
