@@ -14443,3 +14443,13 @@ Tom lied to Mary. (Different meaning)	Tom log Mary an.	टॉम ने मे�
 Tom liked horses.	Tom mochte Pferde.	टॉम को घोड़े पसंद थे।
 Tom liked horses. (Different meaning)	Tom gefielen Pferde.	टॉम को घोड़ों का मन करता था।
 Tom likes Boston.	Tom mag Boston.	टॉम को बोस्टन पसंद है।
+Tom likes French.	Tom mag Französisch.	टॉम को फ्रेंच पसंद है।
+Tom likes apples.	Tom mag Äpfel.	टॉम को सेब पसंद हैं।
+Tom likes cheese.	Tom mag Käse.	टॉम को चीज़ पसंद है।
+Tom likes comics.	Tom mag Comics.	टॉम को कॉमिक्स पसंद हैं।
+Tom likes hockey.	Tom mag Hockey.	टॉम को हॉकी पसंद है।
+Tom likes horses.	Tom mag Pferde.	टॉम को घोड़े पसंद हैं।
+Tom likes it hot.	Tom mag es heiß.	टॉम को गर्म पसंद है।
+Tom likes nature.	Tom mag die Natur.	टॉम को प्रकृति पसंद है।
+Tom likes olives.	Tom mag Oliven.	टॉम को जैतून पसंद हैं।
+Tom likes ponies.	Tom mag Ponys.	टॉम को पोनी पसंद हैं।
