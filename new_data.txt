@@ -10973,3 +10973,13 @@ Tom's my friend.	Tom ist mein Freund.	टॉम मेरा दोस्त ह
 Tom's my nephew.	Tom ist mein Neffe.	टॉम मेरी भातीजी के बेटे हैं।
 Tom's repulsive.	Tom ist abstoßend.	टॉम तिव्र है।
 Tom's screaming.	Tom schreit.	टॉम चीख रहा है।
+Tom's suffering.	Toms Leiden.	टॉम की पीड़ा।
+Tom's thirtyish.	Toms dreißiger Jahre.	टॉम की तीस की उम्र।
+Tom's turn came.	Toms Reihe kam.	टॉम की बारी आई।
+Tom's very neat.	Toms sehr ordentlich.	टॉम बहुत सुशील।
+Tom's very nice.	Toms sehr schön.	टॉम बहुत अच्छे हैं।
+Tom's very weak.	Toms sehr schwach.	टॉम बहुत कमजोर है।
+Tom, I'm hungry.	Tom, ich habe Hunger.	टॉम, मुझे भूख लगी है।
+Tom, be careful!	Tom, sei vorsichtig!	टॉम, सावधान रहो!
+Trust is earned.	Vertrauen wird verdient.	विश्वास कमाया जाता है।
+Try and stop me.	Versuch es und halte mich auf.	कोशिश करो और मुझे रोको।
