@@ -11904,3 +11904,7 @@ Have a good trip.	Gute Reise!	शुभ यात्रा।
 Have a great day.	Einen schönen Tag noch!	एक महान दिन हो।
 Have a nice swim.	Schwimmen Sie schön.	अच्छे से स्नान करें।
 Have a nice time.	Schöne Zeit!	अच्छा समय बिताएं।
+Have a nice trip!	Eine schöne Reise!	एक सुंदर यात्रा हो!
+Have a safe trip.	Gute Reise.	सुरक्षित यात्रा हो।
+Have a seat, Tom.	Nehmen Sie Platz, Tom.	बैठिए, टॉम।
+Have another cup.	Ein anderes Tasse.	एक और कप है।
