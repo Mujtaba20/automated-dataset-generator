@@ -11543,3 +11543,10 @@ Ask her her name.	Frag sie nach ihrem Namen.	उसका नाम पूछो
 Ask him his name.	Frag ihn nach seinem Namen.	उसका नाम पूछो।
 Ask me if I care.	Frag mich, ob es mir wichtig ist.	मुझसे पूछें कि क्या मुझे परवाह है।
 Ask yourself why.	Frag dich warum.	खुद से पूछें कि क्यों।
+At last, he came.	Endlich ist er gekommen.	आखिरकार, वह आया।
+Atlantis is real.	Atlantis ist echt.	अटलांटिस वास्तव में है।
+Attention please!	Bitte beachten Sie!	कृपया ध्यान दें!
+Be frank with me!	Sei offen mit mir!	मेरे साथ खुल के बात करो!
+Be more flexible.	Sei flexibler.	और विविधतापूर्ण बनो।
+Bears like honey.	Bären mögen Honig.	भालू शहद पसंद करते हैं।
+Birds have wings.	Vögel haben Flügel.	पक्षी पंख रखते हैं।
