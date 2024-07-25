@@ -9740,3 +9740,12 @@ Only Tom stayed.	Nur Tom blieb.	केवल टॉम रहा।
 Open the bottle.	Öffne die Flasche.	बोतल खोलो।
 Open the window.	Öffne das Fenster.	खिड़की खोलो।
 Open your mouth!	Mach den Mund auf!	मुँह खोलो!
+Open your mouth.	Öffne deinen Mund.	मुँह खोलो।
+Our plan worked.	Unser Plan hat funktioniert.	हमारी योजना काम कर गई।
+Paint the fence.	Mache den Zaun bunt.	बाड़ को रंगों से भरो।
+Pandas are cute.	Pandas sind niedlich.	पण्डाज खुबसूरत हैं।
+Parties are fun.	Partys machen Spaß.	पार्टियाँ मजेदार होती हैं।
+Parties bore me.	Partys langweilen mich.	पार्टियाँ मुझे बोर करती हैं।
+Pass me the pen.	Gib mir den Stift.	पेन मुझे दो।
+Peel the orange.	Schäle die Orange.	संतरे को छीलो।
+People like Tom.	Die Leute mögen Tom.	लोग टॉम को पसंद करते हैं।
