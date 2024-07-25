@@ -15197,3 +15197,10 @@ What's the score?	Was ist der Punktestand?	स्कोर क्या है?
 What's this room?	Was ist dies für ein Raum?	यह कमरा किसका है?
 What's your beef?	Was ist dein Problem?	तुम्हारी बीफ क्या है?
 What's your name?	Wie heißt du?	तुम्हारा नाम क्या है?
+What's your size?	Was ist deine Größe?	तुम्हारी साइज़ क्या है?
+What's your wish?	Was ist dein Wunsch?	तुम्हारी ख्वाहिश क्या है?
+Whatever you say.	Was auch immer du sagst.	तू जो कहेगा मैं वही करूँगा।
+When are you off?	Wann gehst du?	तुम जा रहे हो कब?
+When did they go?	Wann sind sie gegangen?	वे कब गए थे?
+When do you work?	Wann arbeitest du?	तू कब काम करता है?
+When does it end?	Wann endet es?	यह कब समाप्त होता है?
