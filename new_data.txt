@@ -3960,3 +3960,11 @@ He's not home.	Er ist nicht zu Hause.	वह घर पर नहीं है�
 He's not sick.	Er ist nicht krank.	वह बीमार नहीं है।
 He's studying.	Er studiert.	वह पढ़ाई कर रहा है।
 He's very ill.	Er ist sehr krank.	वह बहुत बीमार है।
+Help yourself.	Bedienen Sie sich.	खुद सहायता कीजिए।
+Here he comes.	Da kommt er.	यहां वह आता है।
+Here or to go?	Hier oder zum Gehen?	यहां या जाने के लिए?
+Here's $10.00.	Hier sind $10.00.	यहां $10.00 हैं।
+Hey, don't go.	Hey, geh nicht.	अरे, मत जाओ।
+Hi, everybody.	Hallo, alle zusammen.	नमस्कार, सबको।
+His nose bled.	Seine Nase blutete.	उसकी नाक से खून निकला।
+Hold on a sec.	Warten Sie mal.	एक सेकंड रुकिए।
