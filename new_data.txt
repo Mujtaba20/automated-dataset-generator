@@ -907,3 +907,13 @@ Go to work.	Geh zur Arbeit.	काम पर जाओ।
 Go to work. - different meaning	Fahr zur Arbeit.	काम के लिए जाओ।
 God exists.	Gott existiert.	भगवान मौजूद है।
 Good night.	Gute Nacht.	शुभ रात्रि।
+Have faith.	Glaube haben.	विश्वास रखें।
+He gave in.	Er gab nach.	उसने हार मान ली।
+He gave up.	Er gab auf.	उसने छोड़ दिया।
+He got a D.	Er hat ein D bekommen.	उसने एक डी पा ली।
+He received a D.	Er erhielt ein D.	उसने एक डी प्राप्त की।
+He hung up.	Er legte auf.	उसने फोन काट दिया।
+He hanged the painting.	Er hängte das Gemälde auf.	उसने चित्र लगा दिया।
+He is a DJ.	Er ist ein DJ.	वह एक डीजे है।
+He works as a DJ.	Er arbeitet als DJ.	वह एक डीजे के रूप में काम करता है।
+He is busy.	Er ist beschäftigt.	वह व्यस्त है।
