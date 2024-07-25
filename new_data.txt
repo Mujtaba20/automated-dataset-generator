@@ -3937,3 +3937,10 @@ He talks well.	Er spricht gut.	वह अच्छे से बोलता ह
 He tricked me.	Er hat mich getäuscht.	उसने मुझे धोखा दिया।
 He tries hard.	Er gibt sich Mühe.	वह मेहनत करता है।
 He tries hard. (different meaning)	Er versucht hart.	वह मार्दानी कोशिश करता है।
+He walks fast.	Er geht schnell.	वह तेज़ी से चलता है।
+He wants more.	Er will mehr.	उन्हें और चाहिए।
+He was crying.	Er weinte.	उसने रोना शुरू कर दिया था।
+He was stoned.	Er war versteinert.	उसे पत्थर समझा गया था।
+He went blind.	Er ging blind.	उसे अंधापन का अनुभव हुआ।
+He went crazy.	Er wurde verrückt.	उसे पागलपन आया।
+He won't know.	Er wird nicht wissen.	उसे पता नहीं चलेगा।
