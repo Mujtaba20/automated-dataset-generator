@@ -15653,3 +15653,12 @@ Copy this, please.1	Kopiere dies, bitte.	इसे कृपया कॉपी 
 Could you do that?	Könnten Sie das durchführen?	क्या आप वह कर सकते हैं?
 Could you help me?	Könnten Sie mir zur Hand gehen?	क्या आप मेरी मदद कर सकते हैं?
 Could you help us?	Könnten Sie uns beistehen?	क्या आप हमें मदद कर सकते हैं?
+Couldn't Tom help?	Könnte Tom helfen?	क्या टॉम मदद कर सकता था?
+Count your change.	Zähle dein Wechselgeld.	अपने परिवर्तन की गिनती करें।
+Court's adjourned.	Das Gericht ist vertagt.	अदालत बंद हो गई है।
+Cows give us milk.	Kühe geben uns Milch.	गायें हमें दूध देती हैं।
+Crime doesn't pay.	Verbrechen zahlt sich nicht aus.	अपराध से मुनाफा नहीं होता।
+Cut off the power.	Schalte die Stromversorgung ab.	बिजली को काट दो।
+Defend yourselves.	Verteidigt euch.	अपना बचाव करो।
+Did I fall asleep?	Bin ich eingeschlafen?	क्या मैं सो गया था?
+Did I wake Tom up?	Habe ich Tom aufgeweckt?	क्या मैंने टॉम को जगाया था?
