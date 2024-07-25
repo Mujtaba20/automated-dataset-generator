@@ -16677,3 +16677,12 @@ I love my new job.	Ich liebe meinen neuen Job.	मुझे मेरी नय�
 I love my parents.	Ich liebe meine Eltern.	मैं अपने माता-पिता से प्यार करता हूँ।
 I love my sisters.	Ich liebe meine Schwestern.	मुझे मेरी बहनों से प्यार है।
 I love spicy food.	Ich liebe scharfes Essen.	मुझे तीखा खाना पसंद है।
+I love that chair.	Ich liebe diesen Stuhl.	मुझे वह कुर्सी पसंद है।
+I love that dress.	Ich liebe dieses Kleid.	मुझे वह ड्रेस पसंद है।
+I love that movie.	Ich liebe diesen Film.	मुझे उस फ़िल्म पसंद है।
+I love that photo.	Ich liebe dieses Foto.	मुझे वह फोटो पसंद है।
+I love that store.	Ich liebe diesen Laden.	मुझे वह स्टोर पसंद है।
+I love this album.	Ich liebe dieses Album.	मुझे यह एल्बम पसंद है।
+I love this chair.	Ich liebe diesen Stuhl.	मुझे यह कुर्सी पसंद है।
+I love this photo.	Ich liebe dieses Foto.	मुझे यह फोटो पसंद है।
+I love this store.	Ich liebe diesen Laden.	मुझे यह स्टोर पसंद है।
