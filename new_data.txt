@@ -4978,3 +4978,9 @@ Tom felt fine.	Tom fühlte sich gut.	टॉम को ठीक लगा।
 Tom felt safe.	Tom fühlte sich sicher.	टॉम को महसूस हुआ कि वह सुरक्षित है।
 Tom felt sick.	Tom fühlte sich krank.	टॉमे को बीमार लगा।
 Tom felt weak.	Tom fühlte sich schwach.	टॉम को कमजोर महसूस हुआ।
+Tom found one.	Tom fand eins.	टॉम ने एक निकाला।
+Tom got a job.	Tom hat einen Job bekommen.	टॉम को नौकरी मिल गई।
+Tom got drunk.	Tom wurde betrunken.	टॉम नशे में था।
+Tom got fired.	Tom wurde gefeuert.	टॉम को नौकरी से निकाल दिया गया।
+Tom got stuck.	Tom steckte fest.	टॉम फंस गया।
+Tom graduated.	Tom absolvierte seinen Abschluss.	टॉम ने अपना स्नातक किया।
