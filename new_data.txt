@@ -17961,3 +17961,11 @@ That's how I know.	Das ist, wie ich weiß.	यही मेरे पास उ�
 That's how it was.	So war es.	ऐसे ही था।
 That's impossible.	Das ist unmöglich.	यह असंभव है।
 That's irrelevant.	Das ist irrelevant.	यह अप्रासंगिक है।
+That's it for now.	Das war's fürs Erste.	यह अब बस इतना ही है।
+That's just a lie.	Das ist nur eine Lüge.	यह सिर्फ झूठ है।
+That's my brother.	Das ist mein Bruder.	यह मेरा भाई है।
+That's my problem.	Das ist mein Problem.	यह मेरी समस्या है।
+That's news to me.	Das ist mir neu.	यह मेरे लिए समाचार है।
+That's no problem.	Das ist kein Problem.	यह कोई समस्या नहीं है।
+That's not enough.	Das reicht nicht.	यह पर्याप्त नहीं है।
+That's not my car.	Das ist nicht mein Auto.	यह मेरी कार नहीं है।
