@@ -6694,3 +6694,10 @@ Leave it to me.	Überlassen Sie es mir.	मुझ पर छोड़ दो।
 Leave it to us.	Überlassen Sie es uns.	हम पर छोड़ दो।
 Leave me alone!	Lass mich in Ruhe!	मुझे अकेले छोड़ दो!
 Leave me alone.	Lass mich in Ruhe.	मुझे अकेला छोड़ दो।
+Leave tomorrow.	Morgen verlassen.	कल छोड़ दो।
+Leave us alone.	Lass uns in Ruhe.	हमें अकेला छोड़ दो।
+Leave us alone. (Different meaning)	Lass uns allein.	हमें अकेले छोड़ दो।
+Leave us alone. (Different meaning 2)	Lass uns alle in Ruhe.	हमें सभी को अकेला छोड़ दो।
+Lend us a hand.	Leih uns eine Hand.	हमें मदद करो।
+Lend us a hand. (Different meaning)	Hilf uns.	हमें एक हाथ दो।
+Let Tom answer.	Lass Tom antworten.	टॉम को जवाब देने दो।
