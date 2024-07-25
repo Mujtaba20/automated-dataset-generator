@@ -1100,3 +1100,11 @@ I'm single. (different meaning)	Ich bin allein.	मैं एक अकेला
 I'm sleepy!	Ich bin müde!	मुझे नींद आ रही है!
 I'm sneaky.	Ich bin hinterlistig.	मैं धोखेबाज हूँ।
 I'm so fat.	Ich bin so fett.	मैं इतना मोटा हूँ।
+I'm thirty.	Ich bin dreißig.	मैं तीस साल का हूँ।
+I'm twelve.	Ich bin zwölf.	मैं बारह साल का हूँ।
+I've eaten.	Ich habe gegessen.	मैंने खाया है।
+I've tried.	Ich habe es versucht.	मैंने कोशिश की है।
+Ignore Tom.	Ignoriere Tom.	टॉम को नजरअंदाज करो।
+Is Tom big?	Ist Tom groß?	क्या टॉम बड़ा है?
+Is Tom hot?	Ist Tom heiß?	क्या टॉम गरम है?
+Is Tom ill?	Ist Tom krank?	क्या टॉम बीमार है?
