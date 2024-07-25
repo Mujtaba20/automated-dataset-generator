@@ -7954,3 +7954,9 @@ Who goes there?	Wer geht da?	कौन वहां जाता है?
 Who has it now?	Wer hat es jetzt?	अब किसके पास है?
 Who helped Tom?	Wer hat Tom geholfen?	किसने टॉम की मदद की?
 Who intervened?	Wer ist eingeschritten?	किसने हस्तक्षेप किया?
+Who killed Tom?	Wer hat Tom ermordet?	टॉम को किसने मार डाला?
+Who kissed Tom?	Wer hat Tom geküsst?	किसने टॉम को चुम्मा दिया?
+Who knows that?	Wer weiß das?	यह कौन जानता है?
+Who lives here?	Wer wohnt hier?	यहाँ कौन रहता है?
+Who made these?	Wer hat diese gemacht?	ये किसने बनाया है?
+Who removed it?	Wer hat es weggenommen?	किसने इसे हटाया है?
