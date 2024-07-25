@@ -10305,3 +10305,12 @@ Tom has stamina.	Tom hat Ausdauer.	टॉम में शक्ति है।
 Tom has to come.	Tom muss kommen.	टॉम को आना होगा।
 Tom has to stay.	Tom muss bleiben.	टॉम को रहना होगा।
 Tom hated lying.	Tom hasste es zu lügen.	टॉम को झूठ बोलना नापसंद था।
+Tom hated women.	Tom hasste Frauen.	टॉम से महिलाएँ नफरत करती थीं।
+Tom hates liars.	Tom hasst Lügner.	टॉम को झूठे लोगों से नफरत है।
+Tom hates opera.	Tom hasst Oper.	टॉम को ओपेरा से नफरत है।
+Tom hates rules.	Tom hasst Regeln.	टॉम को नियमों से नफरत है।
+Tom hugged Mary.	Tom drückte Maria.	टॉम ने मेरी को गले लगाया।
+Tom hurried off.	Tom beeilte sich.	टॉम जल्दी चला गया।
+Tom inspired me.	Tom inspirierte mich.	टॉम ने मुझे प्रेरित किया।
+Tom insulted me.	Tom hat mich beleidigt.	टॉम ने मुझे अपमानित किया।
+Tom is Canadian.	Tom ist Kanadier.	टॉम कनेडियन है।
