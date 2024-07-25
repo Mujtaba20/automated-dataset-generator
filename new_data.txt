@@ -11149,3 +11149,13 @@ We're now alone.	Jetzt sind wir allein.	अब हम अकेले हैं�
 We're objective.	Wir sind objektiv.	हम वस्तुनिष्ठ हैं।
 We're optimists.	Wir sind Optimisten.	हम आशावादी हैं।
 We're plastered.	Wir sind verputzt.	हम प्लेस्टर किये गए हैं।
+We're prisoners.	Wir sind Gefangene.	हम कैदी हैं।
+We're relatives.	Wir sind Verwandte.	हम रिश्तेदार हैं।
+We're safe here.	Wir sind hier sicher.	हम यहाँ सुरक्षित हैं।
+We're separated.	Wir sind getrennt.	हम अलग हैं।
+We're soulmates.	Wir sind Seelenverwandte.	हम जीवनसाथी हैं।
+We're surprised.	Wir sind überrascht.	हमे आश्चर्य हुआ।
+We're too drunk.	Wir sind zu betrunken.	हम बहुत नशे में हैं।
+We're uninsured.	Wir sind nicht versichert.	हम बीमा नहीं करवाया हैं।
+We're very busy.	Wir sind sehr beschäftigt.	हम बहुत व्यस्त हैं।
+We're very fast.	Wir sind sehr schnell.	हम बहुत तेज़ हैं।
