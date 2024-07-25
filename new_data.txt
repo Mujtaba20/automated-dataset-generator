@@ -4935,3 +4935,11 @@ This is my CD.	Das ist meine CD.	यह मेरी सीडी है।
 This is weird.	Das ist seltsam.	यह अजीब है।
 This is wrong.	Das ist falsch.	यह गलत है।
 This is yours.	Das gehört dir.	यह तुम्हारा है।
+This must end.	Dies muss enden.	यह खत्म होना चाहिए।
+This one's OK.	Dies ist in Ordnung.	यह ठीक है।
+This was hard.	Das war schwer.	यह कठिन था।
+Throw it away.	Wirf es weg.	इसे फेंक दो।
+Time is money.	Zeit ist Geld.	समय पैसा है।
+Tom adores me.	Tom liebt mich.	टॉम मुझे पिराया करता है।
+Tom and I ran.	Tom und ich sind gerannt.	टॉम और मैं भागे।
+Tom applauded.	Tom applaudierte.	टॉम ताली बजाता था।
