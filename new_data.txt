@@ -1451,3 +1451,10 @@ Can we help?	Können wir helfen?	हम क्या मदद कर सकत�
 Can we sing?	Können wir singen?	हम गा सकते हैं क्या?
 Can we stop?	Können wir aufhören?	हम रुक सकते हैं क्या?
 Can we stop? (different meaning)	Können wir uns aufhalten?	हम विराम ले सकते हैं क्या?
+Can we talk?	Koennen wir reden?	क्या हम बात कर सकते हैं?
+Can you see?	Kannst du sehen?	क्या तुम देख सकते हो?
+Can you try?	Kannst du es versuchen?	क्या तुम कोशिश कर सकते हो?
+Can you try? (Different meaning)	Kannst du es ausprobieren?	क्या तुम यह कोशिश कर सकते हो?
+Come aboard.	Komm an Bord.	जहाज पर आ जाओ।
+Come aboard. (Different meaning)	Komm mit an Bord.	बोर्ड करने के लिए आ जाओ।
+Come closer.	Komm näher.	और पास आओ।
