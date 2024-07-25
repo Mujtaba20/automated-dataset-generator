@@ -7105,3 +7105,12 @@ This is theirs.	Das gehört ihnen.	यह उनका है।
 This isn't bad.	Das ist nicht schlecht.	यह बुरा नहीं है।
 This isn't fun.	Das macht keinen Spaß.	यह मजेदार नहीं है।
 This isn't new.	Das ist nicht neu.	यह नया नहीं है।
+This was a lie.	Das war eine Lüge.	यह झूठ था।
+This we can do.	Das können wir tun.	हम यह कर सकते हैं।
+This will help.	Das wird helfen.	यह मदद करेगा।
+This will pass.	Das wird vorbeigehen.	यह गुजर जाएगा।
+This'll be fun.	Das wird Spaß machen.	यह मजेदार होगा।
+Those are good.	Die sind gut.	वे अच्छे हैं।
+Those are mine.	Die sind mein.	वो मेरे हैं।
+Throw it there.	Wirf es dort.	उसे वहाँ फेंको।
+Throw it to me.	Wirf es zu mir.	मुझे फेंको।
