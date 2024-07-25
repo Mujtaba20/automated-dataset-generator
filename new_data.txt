@@ -10875,3 +10875,12 @@ Tom was smiling.	Tom lächelte.	टॉम मुस्कान देने ल
 Tom was smoking.	Tom rauchte.	टॉम सिगरेट पी रहा था।
 Tom was snoring.	Tom schnarchte.	टॉम खर्राटे ले रहा था।
 Tom was so busy.	Tom war so beschäftigt.	टॉम इतना व्यस्त था।
+Tom was sobbing.	Tom weinte.	टॉम रो रहा था।
+Tom was special.	Tom war besonders.	टॉम विशेष था।
+Tom was spoiled.	Tom war verdorben.	टॉम खराब था।
+Tom was stabbed.	Tom wurde erstochen.	टॉम को गोदी हुई।
+Tom was stunned.	Tom war verblüfft.	टॉम हैरान था।
+Tom was talking.	Tom redete.	टॉम बात कर रहा था।
+Tom was tasered.	Tom wurde getasert.	टॉम को टेज़र मारा गया।
+Tom was the one.	Tom war derjenige.	टॉम एक था।
+Tom was thirsty.	Tom hatte Durst.	टॉम प्यासा था।
