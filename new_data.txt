@@ -15070,3 +15070,10 @@ We're going down.	Wir gehen nach unten.	हम नीचे जा रहे ह
 We're going east.	Wir gehen nach Osten.	हम पूर्व जा रहे हैं।
 We're going home.	Wir gehen nach Hause.	हम घर जा रहे हैं।
 We're going west.	Wir gehen nach Westen.	हम पश्चिम जा रहे हैं।
+We're good at it.	Wir sind gut darin.	हम इसमें अच्छे हैं।
+We're good to go.	Wir sind bereit zu gehen.	हम बाहर जाने के लिए तैयार हैं।
+We're having fun.	Wir haben Spaß.	हम मजा कर रहे हैं।
+We're historians.	Wir sind Historiker.	हम इतिहासकार हैं।
+We're illiterate.	Wir sind Analphabeten.	हम अशिक्षित हैं।
+We're in a hurry.	Wir haben es eilig.	हमें जल्दी है।
+We're in trouble.	Wir haben Probleme.	हमें मुश्किल में हैं।
