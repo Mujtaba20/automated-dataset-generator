@@ -7994,3 +7994,10 @@ Why is Tom shy?	Warum ist Tom schüchtern?	टॉम शर्मीला क�
 Why is Tom wet?	Warum ist Tom nass?	टॉम भीगा क्यों है?
 Why is he here?	Warum ist er hier?	वह यहाँ क्यों है?
 Why is it dark?	Warum ist es dunkel?	यह क्यों अंधेरा है?
+Why is it here?	Warum ist es hier?	यहाँ क्यों है?
+Will you do it?	Wirst du es tun?	क्या तुम इसे करोगे?
+Wind the clock.	Die Uhr aufziehen.	घड़ी को बांधें।
+Wipe your nose.	Putz dir die Nase.	अपनी नाक पोंछो।
+Women hate Tom.	Frauen hassen Tom.	महिलाएँ टॉम से नफरत करती हैं।
+Women like Tom.	Frauen mögen Tom.	महिलाएँ टॉम को पसंद करती हैं।
+Women loved it.	Frauen liebten es.	महिलाएँ इसे पसंद करती थीं।
