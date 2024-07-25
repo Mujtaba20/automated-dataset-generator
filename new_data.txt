@@ -12720,3 +12720,13 @@ I was born there.	Ich wurde dort geboren.	मैं वहाँ पैदा �
 I was devastated.	Ich war am Boden zerstört.	मेरा पूरा मनोबल टूट गया था।
 I was distracted.	Ich war abgelenkt.	मैं ध्यान भटक गया था।
 I was frustrated.	Ich war frustriert.	मैं परेशान था।
+I was happy then.	Ich war glücklich damals.	मैं उस समय खुश था।
+I was here first.	Ich war zuerst hier.	मैं यहाँ पहले था।
+I was humiliated.	Ich wurde gedemütigt.	मुझे अपमानित किया गया था।
+I was in a fight.	Ich war in einem Kampf.	मैं एक लड़ाई में था।
+I was in a hurry.	Ich hatte es eilig.	मैं जल्दी में था।
+I was in all day.	Ich war den ganzen Tag drin.	मैं पूरे दिन अंदर था।
+I was in the car.	Ich war im Auto.	मैं गाड़ी में था।
+I was just angry.	Ich war einfach wütend.	मैं बस गुस्से में था।
+I was on the bus.	Ich war im Bus.	मैं बस में था।
+I was overweight.	Ich war übergewichtig.	मैं मोटा था।
