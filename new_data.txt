@@ -19330,3 +19330,10 @@ Tom was my friend.	Tom war mein Freund.	टॉम मेरा दोस्त �
 Tom was mystified.	Tom war verwirrt.	टॉम हैरान था।
 Tom was negligent.	Tom war nachlässig.	टॉम लापरवाह था।
 Tom was objective.	Tom war objektiv.	टॉम वस्तुनिष्ठ था।
+Tom was obnoxious.	Tom war unausstehlich.	टॉम निंदात्मक था।
+Tom was obstinate.	Tom war stur.	टॉम जिद्दी था।
+Tom was one of us.	Tom war einer von uns.	टॉम हमारी जमात का था।
+Tom was organized.	Tom war organisiert.	टॉम संगठित था।
+Tom was outspoken.	Tom war direkt.	टॉम स्पष्टवादी था।
+Tom was overjoyed.	Tom war überglücklich.	टॉम बहुत खुश था।
+Tom was perplexed.	Tom war verwirrt.	टॉम उलझन में था।
