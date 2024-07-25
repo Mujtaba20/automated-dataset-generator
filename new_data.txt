@@ -9629,3 +9629,11 @@ Let's play ball.	Lass uns Ball spielen.	चलो गेंद खेलें�
 Let's play ball. - different meaning	Lasst uns Ernst machen.	वहाँ कठिनाई है।
 Let's rest here.	Lass uns hier ausruhen.	चलो यहाँ आराम करें।
 Let's stay here.	Lass uns hier bleiben.	हम यहाँ रुकें।
+Let's stop here.	Lassen Sie uns hier aufhören.	चलो यहाँ रुक जाओ।
+Let's talk soon.	Lass uns bald sprechen.	हम जल्दी बात करेंगे।
+Let's thank Tom.	Danken wir Tom.	हम टॉम का आभारी हैं।
+Let's try again.	Lass es uns noch einmal versuchen.	फिर से कोशिश करते हैं।
+Let's turn back.	Lass uns umdrehen.	हम पीछे मुड़ें।
+Let's visit Tom.	Lass uns Tom besuchen.	हम टॉम को मिलने चलें।
+Let's wait here.	Lass uns hier warten.	यहाँ इंतजार करते हैं।
+Life ain't easy.	Das Leben ist voller Herausforderungen.	जिन्दगी मुश्किल है।
