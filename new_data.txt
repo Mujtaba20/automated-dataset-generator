@@ -3864,3 +3864,9 @@ Flying is fun.	Fliegen macht Spaß.	उड़ना मजेदार है।
 Fry me an egg.	Brate mir ein Ei.	मुझे एक अंडा तलकर दो।
 Get a move on!	Mach vorwärts!	आगे बढ़ो!
 Get a move on.	Beweg dich!	आगे बढ़ो।
+Get back here.	Kommen Sie zurück hier.	वापस आओ यहाँ।
+Get off of me.	Steigen Sie von mir ab.	मुझसे हटो।
+Get over here.	Komm hier rüber.	यहाँ आओ।
+Get some rest.	Mach mal Pause.	ठहरो।
+Give him time.	Gib ihm Zeit.	उसे समय दो।
+Give it a try.	Probier es.	इसे एक मौक़ा दो।
