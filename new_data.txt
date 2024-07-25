@@ -9491,3 +9491,11 @@ It wasn't funny.	Es war nicht lustig.	यह मजाकिया नहीं 
 It won't matter.	Es wird keine Rolle spielen.	यह मायने नहीं रखेगा।
 It would be fun.	Es wäre Spaß.	यह मजेदार होगा।
 It'll end badly.	Es wird schlecht enden.	यह बुरी तरह समाप्त होगा।
+It'll rain soon.	Es wird bald regnen.	जल्दी ही बारिश होगी।
+It's OK with me.	Es ist in Ordnung für mich.	मुझे ठीक है।
+It's Tom's duty.	Es ist Toms Pflicht.	यह टॉम का कर्तव्य है।
+It's Tom's idea.	Es ist Toms Idee.	यह टॉम का विचार है।
+It's a bad time.	Es ist eine schlechte Zeit.	यह एक खराब समय है।
+It's a big room.	Es ist ein großes Zimmer.	यह एक बड़ा कमरा है।
+It's a big step.	Es ist ein großer Schritt.	यह एक बड़ा कदम है।
+It's a dead end.	Es ist eine Sackgasse.	यह एक मौत सिग्नल है।
