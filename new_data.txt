@@ -18941,3 +18941,11 @@ Tom looked closer.	Tom schaute genauer hin.	टॉम ज्यादा कर�
 Tom looked drowsy.	Tom sah verschlafen aus.	टॉम उंगल सोया हुआ लग रहा था।
 Tom looked guilty.	Tom sah schuldig aus.	टॉम अपराधी लग रहा था।
 Tom looked hungry.	Tom wirkte hungrig.	टॉम भूखा लग रहा था।
+Tom looked inside.	Tom schaute hinein.	टॉम अंदर देख रहा था।
+Tom looked lonely.	Tom wirkte einsam.	टॉम अकेला लग रहा था।
+Tom looked scared.	Tom sah ängstlich aus.	टॉम डरा हुआ लग रहा था।
+Tom looked sleepy.	Tom wirkte müde.	टॉम सो रहा लग रहा था।
+Tom looks alarmed.	Tom sieht alarmiert aus.	टॉम चौंका हुआ लग रहा है।
+Tom looks amazing.	Tom sieht erstaunlich aus.	टॉम बहुत शानदार लग रहा है।
+Tom looks annoyed.	Tom sieht verärgert aus.	टॉम चिढ़ रहा है।
+Tom looks anxious.	Tom wirkt besorgt.	टॉम चिंतित लग रहा है।

@@ -1,15 +1,4 @@
 
-Tom looked inside.	Tom sah hinein.	टॉम ने अंदर देखा।
-Tom looked lonely.	Tom sieht einsam aus.	टॉम अकेला दिखता है।
-Tom looked lonely.	Tom mutet einsam an.	टॉम अकेला लगता है।
-Tom looked scared.	Tom sah verängstigt aus.	टॉम डरा हुआ लग रहा था।
-Tom looked sleepy.	Tom sah verschlafen aus.	टॉम सो गया।
-Tom looked sleepy.	Tom sah schläfrig aus.	टॉम नींद में लग रहा था।
-Tom looks alarmed.	Tom sieht beunruhigt aus.	टॉम चिंतित दिखता है।
-Tom looks amazing.	Tom sieht fantastisch aus.	टॉम शानदार लग रहा है।
-Tom looks annoyed.	Tom sieht verärgert aus.	टॉम परेशान दिखता है।
-Tom looks anxious.	Tom sieht besorgt aus.	टॉम चिंतित दिखता है।
-Tom looks anxious.	Tom sieht ängstlich aus.	टॉम भयभीत लग रहा है।
 Tom looks ashamed.	Tom sieht beschämt aus.	टॉम शर्मिंदा लग रहा है।
 Tom looks awesome.	Tom sieht großartig aus.	टॉम बहुत अच्छा लग रहा है।
 Tom looks awkward.	Tom sieht ungeschickt aus.	टॉम अजीब लग रहा है।
