@@ -7389,3 +7389,13 @@ Tom is starved.	Tom ist ausgehungert.	टॉम भूखा है।
 Tom is staying.	Tom bleibt.	टॉम ठहर रहा है।
 Tom is strange.	Tom ist seltsam.	टॉम अजीब है।
 Tom is stuffed.	Tom ist vollgestopft.	टॉम भरा हुआ है।
+Tom is stunned.	Tom ist fassungslos.	टॉम हैरान है।
+Tom is tactful.	Tom ist taktvoll.	टॉम विवेकी है।
+Tom is talking.	Tom spricht.	टॉम बोल रहा है।
+Tom is teasing.	Tom neckt.	टॉम छेड़ रहा है।
+Tom is tempted.	Tom ist versucht.	टॉम प्रलोभित है।
+Tom is the one.	Tom ist derjenige.	टॉम वह एक है।
+Tom is thirsty.	Tom hat Durst.	टॉम प्यासा है।
+Tom is through.	Tom ist durch.	टॉम खत्म हो गया है।
+Tom is touched.	Tom ist berührt.	टॉम आकर्षित है।
+Tom is trapped.	Tom ist gefangen.	टॉम फंसा है।
