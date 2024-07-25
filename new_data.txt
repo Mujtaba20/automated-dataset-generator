@@ -19948,3 +19948,12 @@ Why is Tom crying?	Warum weint Tom?	टॉम क्यों रो रहा �
 Why is Tom hiding?	Warum versteckt sich Tom?	टॉम क्यों छुपा हुआ है?
 Why is snow white?	Warum ist Schnee weiß?	बर्फ सफेद क्यों है?
 Why is that wrong?	Warum ist das falsch?	यह गलत क्यों है?
+Why isn't it good?	Warum ist es nicht gut?	यह अच्छा क्यों नहीं है?
+Why isn't it here?	Warum ist es nicht hier?	यह यहाँ क्यों नहीं है?
+Why should I wait?	Warum sollte ich warten?	मुझे क्यों इंतजार करना चाहिए?
+Why were you late?	Warum bist du spät gekommen?	तुम देर क्यों हुए थे?
+Why would I laugh?	Warum sollte ich lachen?	मुझे क्यों हँसना चाहिए?
+Why'd you do that?	Warum hast du das getan?	तुमने ऐसा क्यों किया?
+Will you marry me?	Willst du mich heiraten?	क्या तुम मुझसे शादी करोगे?
+Will you pay cash?	Wirst du bar bezahlen?	क्या आप नकद भुगतान करेंगे?
+Will you tell Tom?	Wirst du Tom erzählen?	क्या तुम टॉम को बताओगे?

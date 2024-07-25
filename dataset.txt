@@ -1,14 +1,4 @@
 
-Why isn't it good?	Warum ist es nicht gut?	यह अच्छा क्यों नहीं है?
-Why isn't it here?	Warum ist es nicht hier?	यहाँ क्यों नहीं है?
-Why should I wait?	Wieso sollte ich warten?	मुझे इंतजार क्यों करना चाहिए?
-Why were you late?	Warum bist du zu spät gekommen?	आपको बहुत देर क्यों हुई?
-Why would I laugh?	Wieso sollte ich lachen?	मुझे क्यों हंसना चाहिए?
-Why'd you do that?	Warum hast du das gemacht?	आपने ऐसा क्यों किया?
-Why'd you do that?	Warum würdest du sowas machen?	आप ऐसा कुछ क्यों करेंगे?
-Will you marry me?	Willst du mich heiraten?	क्या आप करेंगे मुझसे शादी।
-Will you pay cash?	Zahlen Sie in bar?	क्या आप नकद में भुगतान करते हैं?
-Will you tell Tom?	Wirst du Tom davon erzählen?	क्या आप टॉम को इसके बारे में बताएंगे?
 Will you use this?	Wirst du das verwenden?	क्या आप इसका इस्तेमाल करेंगे?
 Will you use this?	Wirst du das benutzen?	क्या आप इसका इस्तेमाल करेंगे?
 Wind up the clock.	Zieh die Uhr auf.	घड़ी खींचो।
