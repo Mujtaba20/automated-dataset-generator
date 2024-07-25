@@ -7723,3 +7723,13 @@ Tom's harmless.	Tom ist harmlos.	टॉम अहानिक है।
 Tom's homeless.	Tom ist obdachlos.	टॉम बेघर है।
 Tom's hungover.	Tom hat einen Kater.	टॉम की परेशानी है।
 Tom's in there.	Tom ist drin.	टॉम वहाँ है।
+Tom's innocent.	Tom ist unschuldig.	टॉम निर्दोष है।
+Tom's laughing.	Tom lacht.	टॉम हँस रहा है।
+Tom's not busy.	Tom ist nicht beschäftigt.	टॉम व्यस्त नहीं है।
+Tom's not here.	Tom ist nicht hier.	टॉम यहाँ नहीं है।
+Tom's not home.	Tom ist nicht zu Hause.	टॉम घर पर नहीं है।
+Tom's not sick.	Tom ist nicht krank.	टॉम बीमार नहीं है।
+Tom's not weak.	Tom ist nicht schwach.	टॉम कमजोर नहीं है।
+Tom's out cold.	Tom ist bewusstlos.	टॉम स्वच्छंद है।
+Tom's resigned.	Tom hat gekündigt.	टॉम त्यागपत्र दिया।
+Tom's returned.	Tom ist zurückgekehrt.	टॉम वापस आ गया है।
