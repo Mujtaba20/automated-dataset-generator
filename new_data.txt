@@ -13568,3 +13568,12 @@ Sit at the table.	Setzen Sie sich an den Tisch.	मेज पर बैठें
 Sit down, please.	Setz dich bitte.	कृपया बैठें।
 Size does matter.	Größe ist wichtig.	आकार मायने रखता है।
 Snakes are scary.	Schlangen sind gruselig.	सांप डरावने होते हैं।
+So what happened?	Also, was ist passiert?	तो क्या हुआ?
+Somebody help me.	Jemand helfe mir.	कोई मेरी मदद करो।
+Somebody laughed.	Jemand hat gelacht.	किसी ने हंसी.
+Somebody saw you.	Jemand hat dich gesehen.	किसी ने तुम्हें देखा।
+Someone has died.	Jemand ist gestorben.	किसी की मौत हो गई।
+Someone is lying.	Jemand lügt.	कोई झूठ बोल रहा है।
+Someone screamed.	Jemand hat geschrien.	किसी ने चिल्लाया।
+Someone was here.	Jemand war hier.	कोई यहाँ था।
+Someone's coming.	Jemand kommt.	कोई आ रहा है।
