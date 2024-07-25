@@ -13911,3 +13911,12 @@ This one's yours.	Das hier gehört dir.	यह तुम्हारा है�
 This room's dark.	Dieser Raum ist dunkel.	यह कमरा अंधेरा है।
 This seat's free.	Dieser Sitzplatz ist frei.	यह सीट फ्री है।
 This seems risky.	Das scheint riskant.	यह लगता है कि खतरनाक है।
+This should help.	Das sollte helfen.	यह मदद करना चाहिए।
+This smells good.	Das riecht gut.	यह अच्छा लगता है।
+This stopped Tom.	Das hat Tom gestoppt.	तोम को रोक दिया।
+This tastes good.	Das schmeckt gut.	यह अच्छा लगता है।
+This tea is good.	Dieser Tee ist gut.	यह चाय अच्छी है।
+This time we won.	Dieses Mal haben wir gewonnen.	इस बार हम जीत गए।
+This was missing.	Das hat gefehlt.	यह गायब था।
+This was my idea.	Das war meine Idee.	यह मेरी सोच थी।
+This will be fun.	Das wird Spaß machen.	यह मजेदार होगा।
