@@ -2387,3 +2387,13 @@ All was calm.	Alles war ruhig.	सब शांत था।
 Am I correct?	Bin ich richtig?	क्या मैं सही हूं?
 Am I in love?	Bin ich verliebt?	क्या मैं प्यार में हूं?
 Am I invited?	Bin ich eingeladen?	क्या मुझे आमंत्रित किया गया है?
+Anybody here?	Ist jemand hier?	कोई है?
+Anybody home?	Ist jemand zu Hause?	कोई घर पर है?
+Anybody hurt?	Ist jemand verletzt?	किसी को चोट लगी है?
+Anything new?	Ist etwas Neues?	कुछ नया है?
+Anything new? (2)	Gibt es etwas Neues?	कुछ नया है?
+Anything new? (3)	Ist irgendetwas Neues?	कुछ नया है?
+Are we alone?	Sind wir allein?	हम अकेले हैं?
+Are we alone? (2)	Sind wir einsam?	क्या हम अकेले हैं?
+Are we broke?	Sind wir pleite?	क्या हम टूट गए हैं?
+Are we ready?	Sind wir bereit?	क्या हम तैयार हैं?
