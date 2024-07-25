@@ -8478,3 +8478,13 @@ He has a hat on.	Er hat einen Hut auf.	उसके सिर पर एक ट�
 He has bad eyes.	Er hat schlechte Augen.	उसकी बुरी आंखें हैं।
 He has gone mad.	Er ist verrückt geworden.	उसने पागल हो गया है।
 He has gone out.	Er ist gegangen.	वह बाहर गया है।
+He has no money.	Er hat kein Geld.	उसके पास कोई पैसा नहीं है।
+He has ten cows.	Er hat zehn Kühe.	उसके पास दस गाय हैं।
+He has ten cows. (different meaning)	Er besitzt zehn Kühe.	उसके पास दस गाय हैं। (अलग अर्थ)
+He has two cars.	Er hat zwei Autos.	उसके पास दो कार हैं।
+He has two cats.	Er hat zwei Katzen.	उसके पास दो बिल्लियाँ हैं।
+He has two dogs.	Er hat zwei Hunde.	उसके पास दो कुत्ते हैं।
+He hit the mark.	Er traf ins Schwarze.	उसने लक्ष्य को छू लिया।
+He intrigues me.	Er fasziniert mich.	वह मुझे उत्तेजित करता है।
+He is Ethiopian.	Er ist Äthiopier.	वह इथियोपियाई है।
+He is a bad boy.	Er ist ein böser Junge.	वह एक बुरा लड़का है।
