@@ -1,14 +1,4 @@
 
-Tom seems unlucky.	Tom sieht unglücklich aus.	टॉम दुखी दिखता है।
-Tom seems unusual.	Tom scheint ungewöhnlich zu sein.	टॉम असामान्य लगता है।
-Tom seems unusual.	Tom scheint anders als sonst zu sein.	टॉम सामान्य से अलग लगता है।
-Tom seems wealthy.	Tom scheint wohlhabend zu sein.	टॉम अमीर लगता है।
-Tom seems worried.	Tom scheint besorgt zu sein.	टॉम चिंतित लग रहा है।
-Tom seldom laughs.	Tom lacht selten.	टॉम शायद ही कभी हंसता है।
-Tom seldom smiled.	Tom lächelte nur selten.	टॉम शायद ही कभी मुस्कुराया।
-Tom seldom smiles.	Tom lächelt selten.	टॉम शायद ही कभी मुस्कुराता है।
-Tom seldom snores.	Tom schnarcht nur selten.	टॉम शायद ही कभी स्नोरस।
-Tom sells flowers.	Tom verkauft Blumen.	टॉम फूल बेचता है।
 Tom sensed danger.	Tom spürte die Gefahr.	टॉम ने खतरा महसूस किया।
 Tom sent me there.	Tom hat mich hierhergeschickt.	टॉम ने मुझे यहां भेजा।
 Tom served dinner.	Tom servierte das Abendessen.	टॉम ने रात का खाना परोसा।

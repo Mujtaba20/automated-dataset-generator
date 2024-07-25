@@ -19150,3 +19150,12 @@ Tom seems sincere.	Tom wirkt aufrichtig.	टॉम ईमानदार लग 
 Tom seems stunned.	Tom scheint benommen zu sein.	टॉम चौंका हुआ लग रहा है।
 Tom seems touched.	Tom scheint berührt zu sein.	टॉम स्पर्शित लग रहा है।
 Tom seems unhappy.	Tom scheint unglücklich zu sein.	टॉम अखबार लग रहा है।
+Tom seems unlucky.	Tom scheint vom Pech verfolgt zu sein.	टॉम अशुभ लगता है।
+Tom seems unusual.	Tom scheint ungewöhnlich zu sein.	टॉम असामान्य लगता है।
+Tom seems wealthy.	Tom scheint wohlhabend zu sein.	टॉम धनवान लगता है।
+Tom seems worried.	Tom scheint besorgt zu sein.	टॉम चिंतित लगता है।
+Tom seldom laughs.	Tom lacht selten.	टॉम बहुत कम हंसता है।
+Tom seldom smiled.	Tom hat selten gelächelt.	टॉम बहुत कम हंसा।
+Tom seldom smiles.	Tom lächelt selten.	टॉम बहुत कम मुस्कान करता है।
+Tom seldom snores.	Tom schnarcht selten.	टॉम बहुत कम खर्राता है।
+Tom sells flowers.	Tom verkauft Blumen.	टॉम फूल बेचता है।
