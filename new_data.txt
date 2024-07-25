@@ -2604,3 +2604,12 @@ Here you are.	Hier bist du.	तुम यहाँ हो।
 Hey, wait up!	Hey, bleib stehen!	अरे, रुको!
 Hey, wait up.	Hey, warte mal.	अरे, ठहरो।
 engSentence	{'Honesty pays.': 'Ehrlichkeit zahlt.', 'How arrogant!': 'Wie arrogant!', 'How barbaric!': 'Wie barbarisch!', 'How dare you!': 'Wie kannst du es wagen!', 'How exciting!': 'Wie aufregend!', 'How horrible!': 'Wie schrecklich!', 'How pathetic!': 'Wie erbärmlich!', 'How romantic!': 'Wie romantisch!', 'How touching!': 'Wie berührend!'}	{'Honesty pays.': 'सच्चाई लाभदायक है।', 'How arrogant!': 'कितना ढीठ!', 'How barbaric!': 'कितना प्राचीन!', 'How dare you!': 'तुम्हें कैसे दिखाई दिया!', 'How exciting!': 'कितना उत्तेजक!', 'How horrible!': 'कितना भयानक!', 'How pathetic!': 'कितना दयनीय!', 'How romantic!': 'कितना रोमांचक!', 'How touching!': 'कितना स्पर्शमय!'}
+Hug me tight.	Drück mich fest.	मुझे मजबूती से गले लगा लो।
+I admire Tom.	Ich bewundere Tom.	मैं टॉम की प्रशंसा करता हूँ।
+I admire you.	Ich bewundere dich.	मैं आपकी प्रशंसा करता हूँ।
+I admire you. (different meaning)	Ich schätze dich.	मैं आपका सम्मान करता हूँ।
+I adored Tom.	Ich vergötterte Tom.	मैंने टॉम की पूजा की।
+I adored Tom. (different meaning)	Ich verehrte Tom.	मैंने टॉम की आराधना की।
+I almost won.	Ich habe fast gewonnen.	मैं लगभग जीत गया था।
+I always try.	Ich versuche es immer.	मैं हमेशा कोशिश करता हूँ।
+I always win.	Ich gewinne immer.	मैं हमेशा जीतता हूँ।
