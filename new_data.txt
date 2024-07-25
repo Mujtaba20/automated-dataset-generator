@@ -5556,3 +5556,12 @@ Birds scare me.	Vögel erschrecken mich.	पक्षियों से डर 
 Blow your nose.	Schnäuz die Nase.	नाक मूछियें फेंको।
 Boats can sink.	Boote können sinken.	नाव डूब सकती है।
 Boil the water.	Koch das Wasser.	पानी उबालो।
+Both are alive.	Beide sind am Leben.	दोनों जीवित हैं।
+Brace yourself.	Mach dich bereit.	अपने आप को तैयार रखो।
+Breathe deeply.	Tief einatmen.	गहरी साँस लें।
+Breathe deeply. - 2	Tief atmen.	गहरा साँस लो।
+Breathe deeply. - 3	Tief durchatmen.	गहरी सास छोड़ें।
+Bring Tom here.	Bring Tom hierher.	यहाँ टॉम को लाओ।
+Bring it to me.	Bring es mir.	मुझे यह लाओ।
+Bring it to me. - 2	Bring es zu mir.	इसे मुझे लाओ।
+Buy Tom a beer.	Kauf Tom ein Bier.	टॉम को एक बीयर खरीदो।
