@@ -8680,3 +8680,10 @@ I can't breathe.	Ich kann nicht atmen.	मैं सांस नहीं ल�
 I can't deny it.	Ich kann es nicht leugnen.	मैं इसे नकार नहीं सकता।
 I can't do that.	Ich kann das nicht tun.	मैं वह नहीं कर सकता।
 I can't do that. (different meaning)	Das kann ich nicht ertragen.	मैं वह नहीं कर सकता।
+I can't do this.	Ich kann das nicht machen.	मैं यह नहीं कर सकता।
+I can't eat now.	Ich kann jetzt nicht essen.	अभी मैं खा नहीं सकता।
+I can't explain.	Ich kann es nicht erklären.	मैं समझाने में समर्थ नहीं हूं।
+I can't go back.	Ich kann nicht zurückgehen.	मैं वापस नहीं जा सकता।
+I can't go home.	Ich kann nicht nach Hause gehen.	मैं घर नहीं जा सकता।
+I can't hear it.	Ich kann es nicht hören.	मैं इसे नहीं सुन सकता।
+I can't help it.	Ich kann nicht anders.	मैं कुछ नहीं कर सकता।
