@@ -14081,3 +14081,10 @@ Tom has big feet.	Tom hat große Füße.	टॉम के बड़े पैर
 Tom has charisma.	Tom hat Charisma.	टॉम की करिश्मा है।
 Tom has chickens.	Tom hat Hühner.	टॉम के मुर्गे हैं।
 Tom has children.	Tom hat Kinder.	टॉम के बच्चे हैं।
+Tom has finished.	Tom hat beendet.	टॉम ने समाप्त किया है।
+Tom has freckles.	Tom hat Sommersprossen.	टॉम के निशान हैं।
+Tom has gone mad.	Tom ist verrückt geworden.	टॉम पागल हो गया है।
+Tom has gone out.	Tom ist rausgegangen.	टॉम बाहर गया है।
+Tom has immunity.	Tom hat Immunität.	टॉम की प्रतिरक्षा है।
+Tom has insomnia.	Tom hat Schlaflosigkeit.	टॉम को नींद नहीं आ रही है।
+Tom has it wrong.	Tom hat es falsch verstanden.	टॉम गलत समझा है।
