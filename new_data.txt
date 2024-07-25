@@ -1611,3 +1611,10 @@ I feel fine.	Ich fühle mich gut.	मैं अच्छा महसूस क�
 I feel good.	Ich fühle mich gut.	मैं अच्छा महसूस कर रहा हूँ।
 I feel well.	Ich fühle mich wohl.	मैं ठीक महसूस कर रहा हूँ।
 I felt cold.	Mir war kalt.	मुझे ठंड लगी।
+I felt dumb.	Ich fühlte mich dumm.	मुझे मूर्ख लगा।
+I fired Tom.	Ich feuerte Tom.	मैंने टॉम को निकाल दिया।
+I forgot it.	Ich habe es vergessen.	मैं भूल गया।
+I found Tom.	Ich fand Tom.	मैंने टॉम को पाया।
+I found you.	Ich habe dich gefunden.	मैंने तुम्हें खोज निकाला।
+I got angry.	Ich wurde wütend.	मैंने क्रोधित हो गया।
+I got dizzy.	Mir wurde schwindelig.	मुझे चक्कर आ गया।
