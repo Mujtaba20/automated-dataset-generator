@@ -8513,3 +8513,13 @@ He looked about.	Er schaute umher.	उसने चक्कर मारा।
 He looked young.	Er sah jung aus.	उसने जवान दिखा।
 He looks strong.	Er sieht stark aus.	वह मजबूत दिखता है।
 He lost his job.	Er verlor seinen Job.	उसने अपनी नौकरी खो दी।
+He loves coffee.	Er liebt Kaffee.	उसे कॉफी से प्यार है।
+He loves ritual.	Er liebt Ritual.	उसे रिटुअल से प्यार है।
+He loves soccer.	Er liebt Fußball.	उसे फुटबॉल से प्यार है।
+He loves trains.	Er liebt Züge.	उसे ट्रेनों से प्यार है।
+He made her cry.	Er hat sie weinen lassen.	उसने उसे रोते हुए देखा।
+He made me sing.	Er hat mich singen lassen.	उसने मुझे गा कर दिखाया।
+He may be there.	Er könnte dort sein.	शायद वहां हो सकता है।
+He may not come.	Er wird vielleicht nicht kommen.	शायद वह ना आए।
+He mentioned it.	Er hat es erwähnt.	उसने इसे उल्लेख किया।
+He must be dead.	Er muss tot sein.	उसे मरना ही होगा।
