@@ -2888,3 +2888,11 @@ I'm not hurt.	Ich bin nicht verletzt.	मैं चोटिल नहीं ह
 I'm not mean.	Ich bin nicht gemein.	मैं क्रूर नहीं हूँ।
 I'm not rich.	Ich bin nicht reich.	मैं धनवान नहीं हूँ।
 I'm not sick.	Ich bin nicht krank.	मैं बीमार नहीं हूँ।
+I'm not sure.	Ich bin mir nicht sicher.	मुझे यकीन नहीं है।
+I'm not well.	Mir geht es nicht gut.	मैं ठीक नहीं हूँ।
+I'm off beer.	Ich trinke kein Bier mehr.	मैं बियर छोड़ दिया हूँ।
+I'm offended.	Ich bin beleidigt.	मैं खफा हूँ।
+I'm out here.	Ich bin draußen.	मैं यहाँ बाहर हूँ।
+I'm poor now.	Ich bin jetzt arm.	अब मैं गरीब हूँ।
+I'm positive.	Ich bin positiv.	मैं सकारात्मक हूँ।
+I'm pregnant.	Ich bin schwanger.	मैं गर्भवती हूँ।
