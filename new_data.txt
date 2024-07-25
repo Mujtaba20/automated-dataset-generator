@@ -12320,3 +12320,8 @@ I don't love her.	Ich liebe sie nicht.	मैं उससे प्यार �
 I don't love you.	Ich liebe dich nicht.	मैं तुमसे प्यार नहीं करता।
 I don't mean you.	Ich meine nicht dich.	मैं तुम्हारा मतलब नहीं हूँ।
 I don't mean you. - Different meaning	Ich meine dich nicht ernst.	मैं तुम्हें गंभीर नहीं मानता।
+I don't miss Tom.	Ich vermisse Tom nicht.	मुझे टॉम की याद नहीं होती।
+I don't need you.	Ich brauche dich nicht.	मुझे तुम्हारी ज़रुरत नहीं है।
+I don't remember.	Ich erinnere mich nicht.	मुझे याद नहीं।
+I don't think so.	Ich denke nicht so.	मुझे ऐसा नहीं लगता।
+I don't want her.	Ich will sie nicht.	मुझे उसकी जरुरत नहीं है।
