@@ -1886,3 +1886,13 @@ It was dark.	Es war dunkel.	यह अंधेरा था।
 It was real.	Es war echt.	यह असली था।
 It'll be OK.	Es wird in Ordnung sein.	सब ठीक होगा।
 It'll break.	Es wird brechen.	यह टूट जाएगा।
+It's 50 yen.	Es sind 50 Yen.	यह 50 येन हैं।
+It's Monday.	Es ist Montag.	यह सोमवार है।
+It's a bull.	Es ist ein Bulle.	यह एक साँड है।
+It's a fake.	Es ist gefälscht.	यह नकली है।
+It's a fish.	Es ist ein Fisch.	यह एक मछली है।
+It's a joke.	Es ist ein Witz.	यह मजाक है।
+It's a pity.	Es ist schade.	यह दुःख की बात है।
+It's a rule.	Es ist eine Regel.	यह एक नियम है।
+It's boring.	Es ist langweilig.	यह उबाऊ है।
+It's broken.	Es ist kaputt.	यह टूट गया है।
