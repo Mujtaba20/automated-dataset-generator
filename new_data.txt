@@ -2139,3 +2139,8 @@ Tom is sure.	Tom ist sicher.	टॉम पक्का है।
 Tom is tall.	Tom ist groß.	टॉम लंबा है।
 Tom is thin.	Tom ist dünn.	टॉम पतला है।
 Tom is tidy.	Tom ist ordentlich.	टॉम साफ-सुथरा है।
+Tom is vain.	Tom ist eitel.	टॉम शानदार है।
+Tom is weak.	Tom ist schwach.	टॉम कमजोर है।
+Tom is wise.	Tom ist weise.	टॉम बुद्धिमान है।
+Tom kneeled.	Tom kniete.	टॉम घुटनेटेकता था।
+Tom knew it.	Tom wusste es.	टॉम को पता था।
