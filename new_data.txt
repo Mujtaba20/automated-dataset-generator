@@ -17014,3 +17014,12 @@ I'll surprise Tom.	Ich werde Tom überraschen.	मैं टॉम को है
 I'll take the bus.	Ich werde den Bus nehmen.	मैं बस लेऊंगा।
 I'll tell someone.	Ich werde es jemandem sagen.	मैं किसी को बताऊंगा।
 I'll wait for you.	Ich werde auf dich warten.	मैं तुम्हारा इंतजार करूंगा।
+I'll wait outside.	Ich werde draußen warten.	मैं बाहर इंतजार करूँगा।
+I'll wash the dog.	Ich werde den Hund waschen.	मैं कुत्ते को धोऊंगा।
+I'll work on that.	Ich werde daran arbeiten.	मैं उस पर काम करूंगा।
+I'll write to Tom.	Ich werde Tom schreiben.	मैं टॉम को लिखूंगा।
+I'm Canadian, too.	Ich bin auch Kanadier.	मैं भी कनेडियन हूँ।
+I'm Tom's brother.	Ich bin Toms Bruder.	मैं टॉम का भाई हूँ।
+I'm Tom's dentist.	Ich bin Toms Zahnarzt.	मैं टॉम का डेंटिस्ट हूँ।
+I'm Tom's partner.	Ich bin Toms Partner.	मैं टॉम का साझेदार हूँ।
+I'm Tom's teacher.	Ich bin Toms Lehrer.	मैं टॉम का अध्यापक हूँ।
