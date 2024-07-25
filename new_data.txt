@@ -11863,3 +11863,11 @@ Give Tom a break.	Gib Tom eine Pause.	टॉम को राहत दो।
 Give Tom a drink.	Gib Tom zu trinken.	टॉम को पीने का पानी दो।
 Give him a break!	Gib ihm eine Pause!	उसे राहत दो!
 Give me a little.	Gib mir ein bisschen.	मुझे थोड़ा दो।
+Give me a minute.	Gib mir eine Minute.	मुझे एक मिनट दो।
+Give me a reason.	Gib mir einen Grund.	मुझे एक कारण दो।
+Give me a second.	Gib mir eine Sekunde.	मुझे एक सेकंड दो।
+Give me an apple.	Gib mir einen Apfel.	मुझे एक सेब दो।
+Give me my drink.	Gib mir mein Getränk.	मुझे मेरी पेय पिलाओ।
+Give me my money.	Gib mir mein Geld.	मुझे मेरे पैसे दो।
+Give me my sword.	Gib mir mein Schwert.	मुझे मेरी तलवार दो।
+Give me that one.	Gib mir das.	वह एक देना।
