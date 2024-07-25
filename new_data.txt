@@ -15831,3 +15831,7 @@ Don't you like it?	Magst du es nicht?	क्या तुम्हे यह प
 Don't you like me?	Magst du mich nicht?	क्या तुम्हे मुझसे पसंद नहीं है?
 Don't you like us?	Magst du uns nicht?	क्या तुम्हे हमसे पसंद नहीं है?
 Don't you miss me?	Vermisst du mich nicht?	क्या तुम्हे मेरी याद नहीं आती?
+Don't you see Tom?	Siehst du nicht Tom?	तुम नहीं देखते हो तोम?
+Drop your weapons!	Geben Sie Ihre Waffen ab!	अपने हथियार छोड़ो!
+Earth is a planet.	Die Erde ist ein Planet.	पृथ्वी एक ग्रह है।
+Even my mom knows.	Auch meine Mama weiß.	मेरी माँ भी जानती है।
