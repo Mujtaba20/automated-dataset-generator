@@ -2753,3 +2753,13 @@ I read a lot.	Ich lese viel.	मैं बहुत पढ़ता हूँ।
 I read books.	Ich lese Bücher.	मैं किताबें पढ़ता हूँ।
 I stole Tom.	Ich habe Tom geraubt.	मैंने टॉम को चुराया।
 I see a book.	Ich sehe ein Buch.	मैं एक किताब देख रहा हूँ।
+I see a lion.	Ich sehe einen Löwen.	मैं एक शेर देखता हूँ।
+I see a star.	Ich sehe einen Stern.	मैं एक तारा देखता हूँ।
+I seldom cry.	Ich weine selten.	मैं बहुत कम रोता हूँ।
+I sell fruit.	Ich verkaufe Obst.	मैं फल बेचता हूँ।
+I slept fine.	Ich habe gut geschlafen.	मैंने अच्छे से सो लिया।
+I smelled it.	Ich habe daran gerochen.	मैंने इसे सूँघा।
+I suppose so.	Ich nehme an.	मुझे लगता है।
+I swim a lot.	Ich schwimme viel.	मैं बहुत सारा तैरता हूँ।
+I sympathize.	Ich fühle mit.	मुझे सहानुभूति है।
+I sympathize. (different meaning)	Ich habe Verständnis.	मैं समझता हूँ।
