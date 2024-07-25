@@ -13236,3 +13236,8 @@ It's very bitter.	Es ist sehr bitter.	यह बहुत कड़वा है
 It's very boring.	Es ist sehr langweilig.	यह बहुत उबाऊ है।
 It's very sticky.	Es ist sehr klebrig.	यह बहुत चिपचिपा है।
 It's very sticky. (different meaning)	Es ist sehr knifflig.	यह बहुत जटिल है।
+It's what I like.	Das ist was ich mag.	यह है जो मुझे पसंद है।
+It's what I want.	Das ist was ich will.	यह है जो मैं चाहता हूँ।
+It's worth a try.	Es ist einen Versuch wert.	एक प्रयास के लायक है।
+Japan is in Asia.	Japan ist in Asien.	जापान एशिया में है।
+Just a moment ...	Einen Moment ...	बस एक क्षण ...
