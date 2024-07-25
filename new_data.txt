@@ -18201,3 +18201,11 @@ They're using you.	Sie benutzen dich.	वे तुम्हारा इस्�
 They're very busy.	Sie sind sehr beschäftigt.	वे बहुत व्यस्त हैं।
 They're very good.	Sie sind sehr gut.	वे बहुत अच्छे हैं।
 They're wonderful.	Sie sind herrlich.	वे चमत्कारी हैं।
+They've fired him.	Sie haben ihn gefeuert.	उन्होंने उसे नौकरी से निकाल दिया।
+They've never met.	Sie haben sich noch nie getroffen.	उन्होंने कभी भी मिला नहीं।
+They've taken Tom.	Sie haben Tom genommen.	उन्होंने टॉम को ले लिया।
+Things can change.	Die Dinge können sich ändern.	चीजें बदल सकती हैं।
+This CD costs $10.	Diese CD kostet 10 $.	यह सीडी 10 डॉलर की मात्रा में है।
+This ain't normal.	Das ist nicht normal.	यह सामान्य नहीं है।
+This apple is bad.	Dieser Apfel ist schlecht.	यह सेब खराब है।
+This bird can fly.	Dieser Vogel kann fliegen.	यह पक्षी उड़ सकता है।
