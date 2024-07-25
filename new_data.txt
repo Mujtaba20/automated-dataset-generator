@@ -13098,3 +13098,9 @@ It isn't obvious.	Es ist nicht offensichtlich.	यह स्पष्ट नह�
 It isn't working.	Es funktioniert nicht.	यह काम नहीं कर रहा है।
 It just happened.	Es ist gerade passiert.	बस यह हुआ।
 It looks so real.	Es sieht so echt aus.	यह इतना असली लगता है।
+It made me think.	Es hat mich nachdenken lassen.	यह मुझे सोचने पर मजबूर कर दिया।
+It makes me sick.	Es macht mich krank.	यह मुझे बीमार कर देता है।
+It matters to me.	Es ist mir wichtig.	यह मेरे लिए मायने रखता है।
+It matters to us.	Es ist uns wichtig.	यह हमारे लिए महत्वपूर्ण है।
+It needs washing.	Es muss gewaschen werden.	इसे धोने की आवश्यकता है।
+It needs washing. (Different meaning)	Es benötigt eine Reinigung.	इसको साफ करने की आवश्यकता है।
