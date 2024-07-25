@@ -4401,3 +4401,13 @@ I'm home, Tom.	Ich bin zu Hause, Tom.	मैं घर पर हूँ, टॉ�
 I'm impatient.	Ich bin ungeduldig.	मैं बेसब्र हूँ।
 I'm important.	Ich bin wichtig.	मैं महत्वपूर्ण हूँ।
 I'm impressed.	Ich bin beeindruckt.	मुझे प्रभावित किया।
+I'm in Boston.	Ich bin in Boston.	मैं बॉस्टन में हूं।
+I'm in a gang.	Ich bin in einer Bande.	मैं गिरोह में हूं।
+I'm in danger.	Ich bin in Gefahr.	मुझे खतरा है।
+I'm in denial.	Ich verweigere es.	मैं इनकार कर रहा हूं।
+I'm in my car.	Ich bin in meinem Auto.	मैं अपनी कार में हूं।
+I'm in school.	Ich bin in der Schule.	मैं स्कूल में हूं।
+I'm just lazy.	Ich bin einfach faul.	मैं सिर्फ आलसी हूं।
+I'm listening.	Ich höre zu.	मैं सुन रहा हूं।
+I'm miserable.	Ich bin elend.	मेरी हालत बेहाल है।
+I'm motivated.	Ich bin motiviert.	मुझे प्रेरित किया गया है।
