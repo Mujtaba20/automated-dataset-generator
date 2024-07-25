@@ -8262,3 +8262,11 @@ Could you do it?	Könntest du es tun?	क्या आप यह कर सक�
 Could you do it? (2)	Könnten Sie das tun?	क्या आप यह कर सकते हैं?
 Could you do it? (3)	Könntest du es bitte machen?	क्या आप यह कर सकते हैं?
 Count to thirty.	Zähle bis dreißig.	तिरियानव तक गिनो।
+Crows are black.	Krähen sind schwarz.	कौए काले हैं।
+Crows are smart.	Krähen sind klug.	कौए चालाक हैं।
+Did Tom approve?	Hat Tom zugestimmt?	क्या टॉम ने मंजूरी दी?
+Did Tom confess?	Hat Tom gebeichtet?	क्या टॉम ने स्वीकार किया?
+Did Tom do that?	Hat Tom das gemacht?	क्या टॉम ने वह किया?
+Did Tom do this?	Hat Tom das gemacht?	क्या टॉम ने यह किया?
+Did Tom find it?	Hat Tom es gefunden?	क्या टॉम ने यह पाया?
+Did Tom go home?	Ist Tom nach Hause gegangen?	क्या टॉम घर गया था?
