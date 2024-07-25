@@ -17701,3 +17701,11 @@ Quit bothering me.	Hör auf, mich zu stören.	मुझे परेशान �
 Quit wasting time.	Hör auf, Zeit zu verschwenden.	समय बर्बाद करना छोड़ दो।
 Read it once more.	Lies es noch einmal.	इसे एक बार और पढ़ें।
 Read this tonight.	Lies das heute Abend.	आज रात इसे पढ़ो।
+Roses smell sweet.	Rosen riechen süß.	गुलाब मीठा सुगंध देते हैं।
+Rugs absorb sound.	Teppiche absorbieren Schall.	गद्दे ध्वनि अवशोषित करते हैं।
+Say it in English.	Sag es auf Englisch.	इसे अंग्रेजी में कहो।
+Say what you want.	Sage, was du willst.	बोलो जो तुम चाहते हो।
+See you at school.	Wir sehen uns in der Schule.	विद्यालय में मिलेंगे।
+See you in Boston.	Wir sehen uns in Boston.	बोस्टन में मिलेंगे।
+See you later, OK?	Bis später, OK?	बाद में मिलेंगे, ठीक है?
+See you next week!	Bis nächste Woche!	अगले सप्ताह मिलेंगे!
