@@ -15835,3 +15835,11 @@ Don't you see Tom?	Siehst du nicht Tom?	तुम नहीं देखते �
 Drop your weapons!	Geben Sie Ihre Waffen ab!	अपने हथियार छोड़ो!
 Earth is a planet.	Die Erde ist ein Planet.	पृथ्वी एक ग्रह है।
 Even my mom knows.	Auch meine Mama weiß.	मेरी माँ भी जानती है।
+Every bus is full.	Jeder Bus ist voll.	सभी बसों में बड़ी भीड़ है।
+Every vote counts.	Jede Stimme zählt.	हर मत मायने रखता है।
+Everybody cheered.	Alle haben gejubelt.	सभी ने बधाई दी।
+Everybody laughed.	Alle haben gelacht.	सभी हंसी।
+Everybody said so.	Alle haben so gesagt.	सबने ऐसा कहा।
+Everybody's happy.	Alle sind glücklich.	सभी खुश हैं।
+Everybody's tired.	Alle sind müde.	सभी थक गए हैं।
+Everyone did that.	Jeder hat das gemacht.	हर कोई वह कर चुका है।
