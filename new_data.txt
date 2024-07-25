@@ -4645,3 +4645,11 @@ Let's keep it.	Lass es uns behalten.	इसे रखें।
 Let's move on.	Lass uns weitermachen.	चलो आगे बढ़ें।
 Let's open it.	Lass uns es öffnen.	इसे खोलें।
 Let's proceed.	Lass uns fortfahren.	आगे बढ़ें।
+Let's sue Tom.	Lass uns Tom verklagen.	हम टॉम पर मुक़द्दमा करें।
+Life is crazy.	Das Leben ist verrückt.	जिंदगी पागल है।
+Life is short.	Das Leben ist kurz.	जिंदगी छोटी है।
+Life is tough.	Das Leben ist hart.	जिंदगी कठिन है।
+Life's unfair.	Das Leben ist unfair.	जिंदगी अन्यायपूर्ण है।
+Listen to Tom.	Höre Tom zu.	टॉम को सुनो।
+Lock the door!	Schließ die Tür ab!	दरवाज़े को ताल दो!
+Lock the door.	Schließe die Tür ab.	दरवाज़े को ताल दो।
