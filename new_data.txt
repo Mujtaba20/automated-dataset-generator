@@ -1952,3 +1952,13 @@ Nobody came.	Niemand ist gekommen.	कोई नहीं आया।
 Nobody died.	Niemand ist gestorben.	किसी की मौत नहीं हुई।
 Nobody knew.	Niemand wusste.	किसी को पता नहीं था।
 Nobody lied.	Niemand hat gelogen.	किसी ने झूठ नहीं बोला।
+Nobody move!	Niemand bewegen!	कोई न मोव करें!
+Now I'm mad.	Jetzt bin ich wütend.	अब मैं गुस्सा हूँ।
+Now I'm sad.	Jetzt bin ich traurig.	अब मैं उदास हूँ।
+Now you try.	Jetzt versuchst du es.	अब तुम कोशिश करो।
+OK, you win.	OK, du gewinnst.	ठीक है, तुम जीत गए।
+OK. I agree.	OK. Ich stimme zu.	ठीक है। मैं सहमत हूँ।
+OK. I agree. (Different Context)	OK. Ich bin einverstanden.	ठीक है। मैं सहमत हूँ।
+Oh, come on.	Oh, komm schon.	ओह, चलो यार।
+Pick a card.	Nehmen Sie eine Karte.	एक कार्ड चुनिए।
+Plants grow.	Pflanzen wachsen.	पौधे बढ़ते हैं।
