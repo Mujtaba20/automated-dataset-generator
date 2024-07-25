@@ -1,14 +1,4 @@
 
-Tom deserves that.	Tom verdient das.	टॉम इसके हकदार हैं।
-Tom deserves that.	Tom hat das verdient.	टॉम इसके हकदार हैं।
-Tom deserves this.	Tom verdient das.	टॉम इसके हकदार हैं।
-Tom deserves this.	Tom hat das verdient.	टॉम इसके हकदार हैं।
-Tom designed this.	Tom hat das entworfen.	टॉम ने डिजाइन किया।
-Tom despised Mary.	Tom hielt nicht viel von Mary.	टॉम ने मैरी के बारे में ज्यादा नहीं सोचा था।
-Tom despises Mary.	Tom verachtet Mary.	टॉम ने मैरी को तिरस्कृत किया।
-Tom despises Mary.	Tom verschmäht Mary.	टॉम ने मैरी को उकसाया।
-Tom did a bad job.	Tom hat schlechte Arbeit geleistet.	टॉम ने एक बुरा काम किया।
-Tom did it anyway.	Tom hat es trotzdem getan.	टॉम ने वैसे भी किया।
 Tom did it for me.	Tom hat es für mich getan.	टॉम ने मेरे लिए यह किया।
 Tom did that well.	Tom hat das gut gemacht.	टॉम ने यह अच्छा किया।
 Tom didn't answer.	Tom antwortete nicht.	टॉम ने जवाब नहीं दिया।

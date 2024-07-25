@@ -18400,3 +18400,10 @@ Tom cursed loudly.	Tom fluchte laut.	टॉम जोर से श्राप 
 Tom demanded more.	Tom verlangte mehr.	टॉम अधिक मांग करता था।
 Tom deserved that.	Tom verdiente das.	टॉम के पास उसका हक था।
 Tom deserves more.	Tom verdient mehr.	टॉम को और अधिक योग्यता है।
+Tom deserves that.	Tom verdient das.	टॉम को वह लायक है।
+Tom deserves this.	Tom verdient dies.	टॉम को यह लायक है।
+Tom designed this.	Tom hat das entworfen.	टॉम ने इसे डिज़ाइन किया।
+Tom despised Mary.	Tom verachtete Mary.	टॉम ने मैरी को घृणा की।
+Tom despises Mary.	Tom verachtet Mary.	टॉम मैरी से घृणा करता है।
+Tom did a bad job.	Tom hat schlechte Arbeit geleistet.	टॉम ने बुरा काम किया।
+Tom did it anyway.	Tom hat es sowieso gemacht.	टॉम ने किया ही कर दिया।
