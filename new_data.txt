@@ -20165,3 +20165,9 @@ You're disgusting!	Du bist ekelhaft!	तुम घिनौना हो!
 You're disgusting.	Du bist widerlich.	तुम बहुत निरादर।
 You're disgusting. (Different meaning)	Du bist abstoßend.	तुम घिनौना हो।
 You're doing fine.	Du machst das gut.	तुम अच्छा कर रहे हो।
+You're famous now.	Du bist jetzt berühmt.	तुम अब मशहूर हो।
+You're free to go.	Du darfst gehen.	तुम जा सकते हो।
+You're here early.	Du bist früh hier.	तुम यहाँ जल्दी हो।
+You're home early.	Du bist früh zu Hause.	तुम घर जल्दी हो।
+You're hurting me.	Du verletzt mich.	तुम मुझे चोट पहुंचा रहे हो।
+You're illiterate.	Du bist analphabet.	तुम अक्षरहीन हो।

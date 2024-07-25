@@ -1,14 +1,4 @@
 
-You're famous now.	Sie sind jetzt berühmt.	अब आप प्रसिद्ध हैं।
-You're famous now.	Du bist jetzt berühmt.	अब आप प्रसिद्ध हैं।
-You're free to go.	Sie dürfen gehen.	आप जा सकते हैं।
-You're free to go.	Es steht dir frei zu gehen.	आप जाने के लिए आज़ाद हैं।
-You're here early.	Du kommst früh.	तुम जल्दी आओ।
-You're here early.	Du bist früh hier.	आप यहां जल्दी हैं।
-You're home early.	Du kommst früh nach Hause.	तुम जल्दी घर आओ।
-You're hurting me.	Du tust mir weh.	तुमने मुझे चोट पहुंचायी।
-You're hurting me.	Du tust mir weh!	तुमने मुझे चोट पहुंचायी!
-You're illiterate.	Du bist ungebildet.	आप अशिक्षित हैं।
 You're in my seat.	Du sitzt auf meinem Platz.	तुम मेरी जगह पर बैठो।
 You're in my seat.	Sie sitzen auf meinem Platz.	तुम मेरी जगह पर बैठो।
 You're in the way.	Du bist mir im Weg!	तुम मेरे रास्ते में हो!
