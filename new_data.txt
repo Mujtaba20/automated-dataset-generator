@@ -1969,3 +1969,8 @@ Please stop!	Bitte aufhören!	कृपया रोकें!
 Please wait.	Bitte warten.	कृपया रुकें।
 Put it back.	Leg es zurück.	इसे वापस रखें।
 Put it down.	Leg es hin.	इसे नीचे रखें।
+Record this.	Dieses aufzeichnen.	ये रिकॉर्ड करो।
+Release Tom.	Tom freisetzen.	टॉम को रिहा करें।
+Release him.	Lassen Sie ihn frei.	उसे छोड़ें।
+Remember it.	Erinnere dich daran.	इसे याद रखें।
+Return fire.	Gegenfeuer erwidern.	आग का जवाब दें।
