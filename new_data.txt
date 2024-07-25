@@ -5796,3 +5796,13 @@ He has left us.	Er hat uns verlassen.	उसने हमें छोड़ द
 He has no fear.	Er hat keine Angst.	उसे डर नहीं है।
 He has to come.	Er muss kommen.	उसे आना होगा।
 He hated lying.	Er hasst Lügen.	उसे झूठ बोलने से नफरत थी।
+He is American.	Er ist Amerikaner.	वह अमेरिकी है।
+He is Japanese.	Er ist Japaner.	वह जापानी है।
+He is a doctor.	Er ist Arzt.	वह डॉक्टर है।
+He is a genius.	Er ist ein Genie.	वह एक प्रतिभाशाली है।
+He is a writer.	Er ist Schriftsteller.	वह लेखक है।
+He is an actor.	Er ist Schauspieler.	वह अभिनेता है।
+He is bankrupt.	Er ist bankrott.	वह दिवालिया है।
+He is delicate.	Er ist zart.	वह नाज़ुक है।
+He is homeless.	Er ist obdachlos.	वह बेघर है।
+He is in Tokyo.	Er ist in Tokyo.	वह टोक्यो में है।
