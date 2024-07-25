@@ -12548,3 +12548,11 @@ I love the ocean.	Ich liebe das Meer.	मुझे समुद्र पसं�
 I love the woods.	Ich liebe den Wald.	मुझे जंगल पसंद है।
 I love them both.	Ich liebe sie beide.	मैं दोनों से प्यार करता हूँ।
 I love this game.	Ich liebe dieses Spiel.	मुझे यह खेल पसंद है।
+I love this park.	Ich liebe diesen Park.	मुझे यह पार्क पसंद है।
+I love this song.	Ich liebe dieses Lied.	मुझे यह गाना पसंद है।
+I love what I do.	Ich liebe das, was ich tue.	मुझे वो पसंद है जो मैं करता हूँ।
+I love you a lot.	Ich liebe dich sehr.	मुझे तुमसे बहुत प्यार है।
+I love your name.	Ich mag deinen Namen.	मुझे तुम्हारा नाम पसंद है।
+I loved that car.	Ich mochte das Auto.	मुझे वह कार पसंद थी।
+I loved the play.	Ich liebte das Theaterstück.	मुझे वह नाटक पसंद था।
+I made Tom happy.	Ich habe Tom glücklich gemacht.	मैंने टॉम को खुश किया।
