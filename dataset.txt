@@ -1,14 +1,4 @@
 
-Tom sounded happy.	Tom klang glücklich.	टॉम खुश लग रहा था।
-Tom sounded happy.	Tom hat glücklich geklungen.	टॉम खुशी से लग रहा था।
-Tom sounded tired.	Tom klang müde.	टॉम थक गया।
-Tom sounded tired.	Tom hat müde geklungen.	टॉम थक गया।
-Tom sounded upset.	Tom klang aufgebracht.	टॉम लग रहा था।
-Tom sounded upset.	Tom hat aufgebracht geklungen.	टॉम लग रहा था।
-Tom speaks French.	Tom spricht Französisch.	टॉम फ्रेंच बोलता है।
-Tom speaks loudly.	Tom spricht laut.	टॉम जोर से बोलता है।
-Tom speaks slowly.	Tom spricht langsam.	टॉम धीरे -धीरे बोलता है।
-Tom spoke quickly.	Tom sprach schnell.	टॉम ने जल्दी से बात की।
 Tom spoke quietly.	Tom sprach leise.	टॉम ने धीरे से बात की।
 Tom squatted down.	Tom hockte sich hin.	टॉम क्राउड।
 Tom staggered off.	Tom stolperte davon.	टॉम ने ठोकर खाई।

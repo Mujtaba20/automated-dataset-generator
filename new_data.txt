@@ -19185,3 +19185,10 @@ Tom sneezed again.	Tom nieste wieder.	टॉम फिर सीने किय
 Tom snores loudly.	Tom schnarcht laut.	टॉम जोर से सांस लेता है।
 Tom sold it to me.	Tom hat es mir verkauft.	टॉम ने यह मुझे बेचा।
 Tom sounded angry.	Tom klang wütend.	टॉम गुस्से में लगा।
+Tom sounded happy.	Tom klang glücklich.	टॉम खुश लग रहा था।
+Tom sounded tired.	Tom klang müde.	टॉम थका हुआ लग रहा था।
+Tom sounded upset.	Tom klang verärgert.	टॉम उदास लग रहा था।
+Tom speaks French.	Tom spricht Französisch.	टॉम फ्रेंच बोलता है।
+Tom speaks loudly.	Tom spricht laut.	टॉम जोर से बोलता है।
+Tom speaks slowly.	Tom spricht langsam.	टॉम धीरे बोलता है।
+Tom spoke quickly.	Tom sprach schnell.	टॉम तेजी से बोला।
