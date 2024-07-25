@@ -2223,3 +2223,7 @@ Tom, get up!	Tom, steh auf!	टॉम, उठो!
 Trust in me.	Vertraue mir.	मुझ पर भरोसा करो।
 Try that on.	Versuch das mal.	वह परीक्षण करो।
 Try this on.	Probieren Sie das aus.	यह परीक्षण करो।
+Turn around.	Umdrehen.	उलटो।
+Turn it off.	Schalt es ab.	इसे बंद करो।
+Turn on CNN.	Schalte CNN ein.	सीएनएन चालू करो।
+Use caution.	Benutze Vorsicht.	चेतावनी का उपयोग करें।
