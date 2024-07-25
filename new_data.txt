@@ -7674,3 +7674,12 @@ Tom will agree.	Tom wird zustimmen.	टॉम सहमत होगा।
 Tom will check.	Tom wird nachsehen.	टॉम जांच करेगा।
 Tom will dance.	Tom wird tanzen.	टॉम नृत्य करेगा।
 Tom will do it.	Tom wird es tun.	टॉम यह करेगा।
+Tom will drive.	Tom wird fahren.	टॉम चलाएगा।
+Tom will fight.	Tom wird kämpfen.	टॉम लड़ाई करेगा।
+Tom will hurry.	Tom wird sich beeilen.	टॉम जल्दी करेगा।
+Tom will share.	Tom wird teilen.	टॉम साझा करेगा।
+Tom will shoot.	Tom wird schießen.	टॉम बंदूक चलाएगा।
+Tom will speak.	Tom wird sprechen.	टॉम बोलेगा।
+Tom will start.	Tom wird starten.	टॉम शुरू होगा।
+Tom won't bite.	Tom wird nicht beißen.	टॉम काटेगा नहीं।
+Tom won't care.	Tom wird sich nicht kümmern.	टॉम फर्क नहीं पड़ेगा।
