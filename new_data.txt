@@ -9684,3 +9684,12 @@ My bag is empty.	Meine Tasche ist leer.	मेरी बैग खाली ह�
 My book is here.	Mein Buch ist hier.	मेरी किताब यहाँ है।
 My bottle broke.	Meine Flasche ist kaputt gegangen.	मेरी बोतल टूट गई।
 My cat is black.	Meine Katze ist schwarz.	मेरी बिल्ली काली है।
+My cat is happy.	Meine Katze ist glücklich.	मेरी बिल्ली खुश है।
+My cat is white.	Meine Katze ist weiß.	मेरी बिल्ली सफेद है।
+My dog is white.	Mein Hund ist weiß.	मेरा कुत्ता सफेद है।
+My father is in.	Mein Vater ist da.	मेरे पिताजी वहां हैं।
+My house is big.	Mein Haus ist groß.	मेरा घर बड़ा है।
+My jeans shrank.	Meine Jeans sind geschrumpft.	मेरी जीन्स श्रिंक हो गई।
+My shoes squeak.	Meine Schuhe quietschen.	मेरे जूते चींचीलाते हैं।
+My suit is gray.	Mein Anzug ist grau.	मेरा सूट ग्रे है।
+My suit is grey.	Mein Anzug ist grau.	मेरा सूट स्लेटी उदाहरण है।
