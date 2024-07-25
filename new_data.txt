@@ -9499,3 +9499,11 @@ It's a bad time.	Es ist eine schlechte Zeit.	यह एक खराब सम�
 It's a big room.	Es ist ein großes Zimmer.	यह एक बड़ा कमरा है।
 It's a big step.	Es ist ein großer Schritt.	यह एक बड़ा कदम है।
 It's a dead end.	Es ist eine Sackgasse.	यह एक मौत सिग्नल है।
+It's a fine day.	Es ist ein schöner Tag.	यह एक अच्छा दिन है।
+It's a henhouse.	Es ist ein Hühnerhaus.	यह मुर्गी का संग्रहण है।
+It's a new book.	Es ist ein neues Buch.	यह एक नई किताब है।
+It's a nice day.	Es ist ein schöner Tag.	यह एक अच्छा दिन है।
+It's a pheasant.	Es ist ein Fasan.	यह एक मोर है।
+It's a shortcut.	Es ist eine Abkürzung.	यह एक शॉर्टकट है।
+It's a surprise.	Es ist eine Überraschung.	यह एक अचानकी है।
+It's about time.	Es wird langsam Zeit.	यह अब समय का हुआ।
