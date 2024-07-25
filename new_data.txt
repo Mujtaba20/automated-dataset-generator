@@ -6951,3 +6951,12 @@ That'd be nice.	Das wäre schön.	वह अच्छा होगा।
 That'll be $30.	Das wird 30 Dollar sein.	वह 30 डॉलर होगा।
 That'll be fun.	Das wird Spaß machen.	वह मज़ा आएगा।
 That's a crime.	Das ist ein Verbrechen.	यह गुनाह है।
+That's a given.	Das ist eine gegebene.	यह एक प्रकट है।
+That's a skull.	Das ist ein Schädel.	वह एक खोपड़ी है।
+That's a table.	Das ist ein Tisch.	वह एक मेज़ है।
+That's a tower.	Das ist ein Turm.	वह एक टावर है।
+That's chicken.	Das ist Huhn.	वह मुर्गी है।
+That's correct.	Das ist richtig.	यह सही है।
+That's for Tom.	Das ist für Tom.	यह टॉम के लिए है।
+That's evident.	Das ist offensichtlich.	वह प्रत्याख्यान है।
+That's foolish.	Das ist albern.	यह मूर्खपन है।
