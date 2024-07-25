@@ -18662,3 +18662,12 @@ Tom is gregarious.	Tom ist gesellig.	टॉम मेलजोली करन�
 Tom is handcuffed.	Tom ist in Handschellen.	टॉम को हथकडी लगाई गई है।
 Tom is happy here.	Tom ist glücklich hier.	टॉम यहाँ खुश है।
 Tom is headstrong.	Tom ist stur.	टॉम जिद्दी है।
+Tom is helping me.	Tom hilft mir.	टॉम मुझे मदद कर रहा है।
+Tom is here again.	Tom ist wieder hier.	टॉम यहाँ फिर से है।
+Tom is holding it.	Tom hält es.	टॉम यह धारण कर रहा है।
+Tom is home again.	Tom ist wieder zu Hause.	टॉम घर पर फिर से है।
+Tom is home alone.	Tom ist allein zu Hause.	टॉम घर पर अकेला है।
+Tom is home early.	Tom ist früh zu Hause.	टॉम जल्दी घर पर है।
+Tom is hot-headed.	Tom ist hitzköpfig.	टॉम गरम दिमागी है।
+Tom is humiliated.	Tom ist gedemütigt.	टॉम शर्मिंदा है।
+Tom is hungry now.	Tom ist jetzt hungrig.	टॉम अब भूखा है।

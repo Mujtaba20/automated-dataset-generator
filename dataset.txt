@@ -1,14 +1,4 @@
 
-Tom is helping me.	Tom hilft mir.	टॉम मेरी मदद करता है।
-Tom is here again.	Tom ist wieder da.	टॉम वापस आ गया है।
-Tom is holding it.	Tom hält es.	टॉम इसे धारण करता है।
-Tom is home again.	Tom ist wieder zu Hause.	टॉम घर वापस आ गया है।
-Tom is home alone.	Tom ist allein zu Hause.	टॉम घर पर अकेला है।
-Tom is home early.	Tom ist früh zu Hause.	टॉम जल्दी घर पर है।
-Tom is hot-headed.	Tom ist ein Hitzkopf.	टॉम एक हीट हेड है।
-Tom is humiliated.	Tom wurde gedemütigt.	टॉम को अपमानित किया गया था।
-Tom is humiliated.	Tom wird gedemütigt.	टॉम अपमानित है।
-Tom is hungry now.	Tom hat jetzt Hunger.	टॉम अब भूखा है।
 Tom is hysterical.	Tom ist hysterisch.	टॉम हिस्टेरिकल है।
 Tom is illiterate.	Tom ist Analphabet.	टॉम अनपढ़ है।
 Tom is impressive.	Tom ist beeindruckend.	टॉम प्रभावशाली है।
