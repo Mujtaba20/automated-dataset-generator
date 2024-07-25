@@ -20655,3 +20655,7 @@ Give me your sword.	Gib mir dein Schwert.	मुझे अपनी तलवा
 Give me your watch.	Geben Sie mir Ihre Uhr.	मुझे अपनी घड़ी दो।
 Give us some space.	Geben Sie uns etwas Platz.	हमें कुछ जगह दीजिए।
 Go ahead and laugh.	Lachen Sie ruhig weiter.	आगे बढ़ें और हंसें।
+Go ahead, shoot me.	Geh voran, schieß auf mich.	आगे बढ़ो, मुझे गोली मारो।
+Go and have a look.	Geh und schau nach.	जाओ और देखो।
+Go and talk to Tom.	Geh und rede mit Tom.	जाओ और टॉम से बात करो।
+Give me that book.	Gib mir das Buch.	मुझे वह किताब दो।

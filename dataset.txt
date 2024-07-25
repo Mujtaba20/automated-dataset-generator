@@ -1,14 +1,4 @@
 
-Go ahead, shoot me.	Na los, erschieß mich.	आओ, मुझे गोली मारो।
-Go and have a look.	Geh und sieh!	जाकर देखो!
-Go and have a look.	Gehen Sie und schauen Sie!	जाओ और देखो!
-Go and have a look.	Geht und schaut!	जाओ और देखो!
-Go and talk to Tom.	Geh und sprich mit Tom!	जाओ और टॉम से बात करो!
-Go and talk to Tom.	Gehen Sie und sprechen Sie mit Tom!	जाओ और टॉम से बात करो!
-Go and talk to Tom.	Geht und sprecht mit Tom!	जाओ और टॉम से बात करो!
-Go and talk to Tom.	Geh und rede mit Tom!	जाओ और टॉम से बात करो!
-Go and talk to Tom.	Geht und redet mit Tom!	जाओ और टॉम से बात करो!
-Go and talk to Tom.	Gehen Sie und reden Sie mit Tom!	जाओ और टॉम से बात करो!
 Go and wake Tom up.	Wecke Tom!	वेक टॉम!
 Go and wake Tom up.	Geh hin und wecke Tom!	जाओ और जगाओ टॉम!
 Go ask your father.	Geh und frag deinen Vater.	जाओ और अपने पिता से पूछो।
