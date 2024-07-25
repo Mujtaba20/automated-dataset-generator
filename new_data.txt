@@ -407,3 +407,13 @@ Tom quit.	Tom hat aufgegeben.	टॉम ने छोड़ दिया।
 Tom sang.	Tom sang.	टॉम ने गाया।
 Tom spit.	Tom spuckte aus.	टॉम ने तुकड़े थूके।
 Tom swam.	Tom schwamm.	टॉम ने स्विम किया।
+Tom went.	Tom ging.	टॉम गया।
+Tom wept.	Tom weinte.	टॉम रोया।
+Tom's up.	Tom ist oben.	टॉम के ऊपर।
+Too late.	Zu spät.	बहुत देर हो गई।
+Touch it.	Berühre es.	इसे छू लो।
+Trust me.	Vertraue mir.	मुझपर भरोसा करो।
+Trust me. - Different Meaning	Glaub mir.	मेरे विश्वास में हैं।
+Trust me. - Different Meaning2	Vertraut mir.	मुझे विश्वास करो।
+Try hard.	Versuchs schwer.	मेहनत करो।
+Try some.	Probier etwas.	कुछ कोशिश करो।
