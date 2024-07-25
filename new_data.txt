@@ -18815,3 +18815,13 @@ Tom isn't a crook.	Tom ist kein Gauner.	टॉम चोर नहीं है�
 Tom isn't a loner.	Tom ist kein Einzelgänger.	टॉम एक आवारा नहीं है।
 Tom isn't a miner.	Tom ist kein Bergarbeiter.	टॉम एक खननय है।
 Tom isn't a minor.	Tom ist nicht minderjährig.	टॉम एक नानी है।
+Tom isn't a thief.	Tom ist kein Dieb.	टॉम चोर नहीं है।
+Tom isn't a vegan.	Tom ist kein Veganer.	टॉम एक शाकाहारी नहीं है।
+Tom isn't at home.	Tom ist nicht zu Hause.	टॉम घर पर नहीं है।
+Tom isn't budging.	Tom bewegt sich nicht.	टॉम की हिला नहीं रही है।
+Tom isn't calling.	Tom ruft nicht an.	टॉम कॉल नहीं कर रहा है।
+Tom isn't certain.	Tom ist sich nicht sicher.	टॉम निश्चित नहीं है।
+Tom isn't foolish.	Tom ist nicht dumm.	टॉम मूर्ख नहीं है।
+Tom isn't healthy.	Tom ist nicht gesund.	टॉम स्वस्थ नहीं है।
+Tom isn't helpful.	Tom ist nicht hilfreich.	टॉम मददगार नहीं है।
+Tom isn't helping.	Tom hilft nicht.	टॉम मदद नहीं कर रहा है।

@@ -1,14 +1,4 @@
 
-Tom isn't a thief.	Tom ist kein Dieb.	टॉम एक चोर नहीं है।
-Tom isn't a vegan.	Tom ist kein Veganer.	टॉम शाकाहारी नहीं है।
-Tom isn't at home.	Tom ist nicht zu Hause.	टॉम घर पर नहीं है।
-Tom isn't budging.	Tom rührt sich nicht.	टॉम आगे नहीं बढ़ता।
-Tom isn't calling.	Tom ruft nicht an.	टॉम फोन नहीं करता है।
-Tom isn't certain.	Tom ist sich nicht sicher.	टॉम को यकीन नहीं है।
-Tom isn't foolish.	Tom ist nicht dumm.	टॉम बेवकूफ नहीं है।
-Tom isn't healthy.	Tom ist nicht gesund.	टॉम स्वस्थ नहीं है।
-Tom isn't helpful.	Tom ist keine Hilfe.	टॉम मदद नहीं कर रहा है।
-Tom isn't helping.	Tom hilft nicht.	टॉम मदद नहीं करता है।
 Tom isn't himself.	Tom ist nicht er selbst.	टॉम खुद नहीं है।
 Tom isn't hopeful.	Tom ist nicht hoffnungsvoll.	टॉम उम्मीद नहीं है।
 Tom isn't in pain.	Tom hat keine Schmerzen.	टॉम को कोई दर्द नहीं है।
