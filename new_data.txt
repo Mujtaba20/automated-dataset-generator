@@ -3702,3 +3702,10 @@ You're tough.	Du bist hart.	तुम कठोर हो।
 You're upset.	Du bist verärgert.	तुम उदास हो।
 You're tough. (second meaning)	Du bist robust.	तुम मजबूत हो।
 You're upset. (different meaning)	Du bist sauer.	तुम गुस्से में हो।
+You're vague.	Du bist vage.	तुम अस्पष्ट हो।
+You're witty.	Du bist geistreich.	तुम बुद्धिमान हो।
+You're witty. - Different meaning	Du bist witzig.	तुम मजाकिया हो।
+You're young.	Du bist jung.	तुम जवान हो।
+You've grown.	Du bist gewachsen.	तुम बढ़ गए हो।
+You've grown. - Different meaning	Du hast sich verbessert.	तुमने विकसित किया है।
+You've tried.	Du hast es versucht.	तुमने कोशिश की है।
