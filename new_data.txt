@@ -10894,3 +10894,11 @@ Tom was waiting.	Tom wartete.	टॉम इंतजार कर रहा थ�
 Tom was walking.	Tom ging.	टॉम चल रहा था।
 Tom was wealthy.	Tom war wohlhabend.	टॉम धनवान था।
 Tom was winning.	Tom gewann.	टॉम जीत रहा था।
+Tom was with me.	Tom war bei mir.	टॉम मेरे साथ था।
+Tom was working.	Tom arbeitete.	टॉम काम कर रहा था।
+Tom was worried.	Tom machte sich Sorgen.	टॉम चिंतित था।
+Tom was wounded.	Tom war verletzt.	टॉम घायल था।
+Tom was writing.	Tom schrieb.	टॉम लिख रहा था।
+Tom was yelling.	Tom schrie.	टॉम चिल्लाया।
+Tom wasn't bald.	Tom war nicht kahl.	टॉम गंजा नहीं था।
+Tom wasn't busy.	Tom war nicht beschäftigt.	टॉम व्यस्त नहीं था।
