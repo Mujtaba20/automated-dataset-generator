@@ -3019,3 +3019,10 @@ It's not Tom.	Es ist nicht Tom.	यह टॉम नहीं है।
 It's not new.	Es ist nicht neu.	यह नया नहीं है।
 It's only me.	Es bin nur ich.	यह केवल मैं हूँ।
 It's our car.	Es ist unser Auto.	यह हमारी गाड़ी है।
+It's perfect.	Es ist perfekt.	यह पूर्ण है।
+It's raining.	Es regnet.	वह बरसात हो रही है।
+It's serious.	Es ist ernst.	यह गंभीर है।
+It's snowing.	Es schneit.	बर्फ गिर रही है।
+It's strange.	Es ist seltsam.	यह अजीब है।
+It's too big.	Es ist zu groß.	यह बहुत बड़ा है।
+It's too hot.	Es ist zu heiß.	यह बहुत गरम है।
