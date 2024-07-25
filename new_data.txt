@@ -6421,3 +6421,12 @@ I'm home early.	Ich bin früh zu Hause.	मैं जल्दी घर आय�
 I'm human, too.	Ich bin auch ein Mensch.	मैं भी इंसान हूँ।
 I'm hungry now.	Ich bin jetzt hungrig.	मुझे अभी भूख लगी है।
 I'm illiterate.	Ich bin analphabet.	मैं अक्षरहीन हूँ।
+I'm in a hurry.	Ich habe es eilig.	मुझे जल्दी है।
+I'm in the car.	Ich bin im Auto.	मैं कार में हूँ।
+I'm in trouble.	Ich habe Probleme.	मुझे मुश्किल में है।
+I'm interested.	Ich bin interessiert.	मुझे दिलचस्पी है।
+I'm just lucky.	Ich habe einfach Glück.	मैं सिर्फ भाग्यशाली हूँ।
+I'm mad at you.	Ich bin sauer auf dich.	मुझे तुम पर गुस्सा है।
+I'm making tea.	Ich mache Tee.	मैं चाय बना रहा हूँ।
+I'm meditating.	Ich meditiere.	मैं ध्यान कर रहा हूँ।
+I'm meditating. - Different meaning	Ich bin versunken.	मैं समाधि में हूँ।
