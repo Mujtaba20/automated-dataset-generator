@@ -4359,3 +4359,11 @@ I'm a fireman.	Ich bin Feuerwehrmann.	मैं एक फायरमैन ह
 I'm a man now.	Ich bin jetzt ein Mann.	अब मैं एक आदमी हूँ।
 I'm a painter.	Ich bin Maler.	मैं एक चित्रकार हूँ।
 I'm a patient.	Ich bin Patient.	मैं एक रोगी हूँ।
+I'm a redhead.	Ich bin Rothaarige.	मैं रेडहेड हूँ।
+I'm a shy boy.	Ich bin ein schüchterner Junge.	मैं एक शर्मीला लड़का हूँ।
+I'm a soldier.	Ich bin ein Soldat.	मैं एक सैनिक हूँ।
+I'm a warrior.	Ich bin ein Krieger.	मैं एक योधा हूँ।
+I'm a student.	Ich bin Schüler.	मैं एक छात्र हूँ।
+I'm a diligent learner.	Ich bin ein fleißiger Lerner.	मैं एक जिम्मेदार सीखने वाला हूँ।
+I'm a suspect.	Ich bin verdächtig.	मैं संदिग्ध हूँ।
+I'm a teacher.	Ich bin Lehrer.	मैं एक शिक्षक हूँ।
