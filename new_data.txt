@@ -4139,3 +4139,13 @@ I like donuts.	Ich mag Donuts.	मुझे डोनट्स पसंद ह�
 I like garlic.	Ich mag Knoblauch.	मुझे लहसुन पसंद है।
 I like horses.	Ich mag Pferde.	मुझे घोड़े पसंद हैं।
 I like it hot.	Ich mag es heiß.	मुझे ये गर्म पसंद है।
+I like movies.	Ich mag Filme.	मुझे फिल्में पसंद हैं।
+I like my job.	Ich mag meinen Job.	मुझे मेरा काम पसंद है।
+I like onions.	Ich mag Zwiebeln.	मुझे प्याज पसंद है।
+I like onions. (Different meaning)	Ich mag Zwiebeln.	मुझे प्याज स्वादिष्ट लगते हैं।
+I like reggae.	Ich mag Reggae.	मुझे रेगे पसंद है।
+I like salmon.	Ich mag Lachs.	मुझे सैल्मन पसंद है।
+I like salmon. (Different meaning)	Lachs schmeckt mir gut.	मुझे सैल्मन अच्छा लगता है।
+I like school.	Ich mag die Schule.	मुझे स्कूल पसंद है।
+I like skiing.	Ich mag Skifahren.	मुझे स्की करना पसंद है।
+I like spoons.	Ich mag Löffel.	मुझे चमचे पसंद हैं।
