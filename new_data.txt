@@ -10665,3 +10665,13 @@ Tom needed this.	Tom brauchte das hier.	टॉम को यह चाहिए 
 Tom needed time.	Tom brauchte Zeit.	टॉम को समय की आवश्यकता थी।
 Tom needed work.	Tom brauchte Arbeit.	टॉम को काम की आवश्यकता थी।
 Tom needs a job.	Tom braucht einen Job.	टॉम को नौकरी की आवश्यकता है।
+Tom needs money.	Tom braucht Geld.	टॉम को पैसे चाहिए।
+Tom needs water.	Tom braucht Wasser.	टॉम को पानी चाहिए।
+Tom never asked.	Tom hat nie gefragt.	टॉमने कभी नहीं पूछा।
+Tom never comes.	Tom kommt nie.	टॉम कभी नहीं आता।
+Tom never cooks.	Tom kocht nie.	टॉम कभी नहीं पकाता।
+Tom never cried.	Tom hat nie geweint.	टॉमने कभी नहीं रोया।
+Tom never fails.	Tom scheitert nie.	टॉम कभी नहीं असफल होता।
+Tom never falls.	Tom fällt nie.	टॉम कभी नहीं गिरता।
+Tom never jokes.	Tom macht nie Witze.	टॉम कभी मजाक नहीं करता।
+Tom never reads.	Tom liest nie.	टॉम कभी नहीं पढ़ता।
