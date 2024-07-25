@@ -8810,3 +8810,11 @@ I haven't tried.	Ich habe nicht versucht.	मैंने प्रयास न
 I hear only you.	Ich höre nur dich.	मैं सिर्फ तुम्हें सुनता हूँ।
 I hear the drum.	Ich höre die Trommel.	मैं ढोल सुनता हूँ।
 I heard a noise.	Ich hörte ein Geräusch.	मुझे ध्वनि सुनाई दी।
+I held Tom down.	Ich hielt Tom unten.	मैंने टॉम को नीचे दबाया।
+I hope Tom wins.	Ich hoffe, dass Tom gewinnt.	मुझे आशा है कि टॉम जीते।
+I hope it rains.	Ich hoffe, es regnet.	मुझे आशा है कि बारिश हो।
+I hope it works.	Ich hoffe, dass es funktioniert.	मुझे आशा है कि यह काम करेगा।
+I hurt my elbow.	Ich habe mir den Ellbogen verletzt.	मैंने अपनी कोहनी को चोट पहुंचाई।
+I intend to try.	Ich beabsichtige zu versuchen.	मैं कोशिश करने का इरादा रखता हूँ।
+I just finished.	Ich habe gerade beendet.	मैंने अभी अंत किया।
+I just found it.	Ich habe es gerade entdeckt.	मैंने इसे अभी ही पाया।
