@@ -3507,3 +3507,8 @@ Tom, wake up.	Tom, wach auf.	टॉम, जागो।
 Trust in God.	Vertraue auf Gott.	भगवान पर भरोसा करो।
 Trust no one.	Vertraue niemandem.	किसी पर भरोसा मत करो।
 Try and sing.	Versuche zu singen.	कोशिश करो और गाओ।
+Try it again.	Probieren Sie es noch einmal.	फिर से यह कोशिश करो।
+Try the cake.	Probieren Sie den Kuchen.	केक का प्रयास करें।
+Try these on.	Probieren Sie diese an.	इन्हें पहनो।
+Try to guess.	Versuchen Sie zu raten.	अनुमान लगाने की कोशिश करें।
+Try to sleep.	Versuch zu schlafen.	सोने की कोशिश करो।
