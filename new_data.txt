@@ -6227,3 +6227,13 @@ I remember now.	Ich erinnere mich jetzt.	मुझे अब याद आ र�
 I rewarded Tom.	Ich belohnte Tom.	मैंने टॉम को इनाम दिया।
 I said get out!	Ich sagte, geh raus!	मैंने कहा, बाहर जाओ!
 I said get out.	Ich sagte, geh raus.	मैंने कहा, बाहर जाओ।
+I said go home.	Ich sagte, nach Hause gehen.	मैंने कहा घर जाओ।
+I said goodbye.	Ich sagte auf Wiedersehen.	मैंने विदाई कही।
+I said not now.	Ich sagte nicht jetzt.	मैंने अभी नहीं कहा।
+I said nothing.	Ich sagte nichts.	मैंने कुछ भी नहीं कहा।
+I said shut up!	Ich sagte, halt den Mund!	मैंने मुंह बंद करो!
+I said stop it!	Ich sagte, hör auf!	मैंने रुको!
+I said take it.	Ich sagte, nimm es.	मैंने इसे ले लो।
+I saw five men.	Ich sah fünf Männer.	मैंने पांच आदमियों को देखा।
+I saw her home.	Ich sah ihr Zuhause.	मैंने उसके घर को देखा।
+I saw her swim.	Ich sah sie schwimmen.	मैंने उसे तैरते हुए देखा।
