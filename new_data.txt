@@ -344,3 +344,13 @@ I'm full.	Ich bin satt.	मैं पूरा हूँ।
 I'm game.	Ich bin bereit.	मैं खेलने के लिए तैयार हूँ।
 I'm good.	Mir geht's gut.	मैं अच्छा हूँ।
 I'm here.	Ich bin hier.	मैं यहाँ हूँ।
+I'm home.	Ich bin zu Hause.	मैं घर पर हूँ।
+I'm late.	Ich bin spät.	मैं देर से हूँ।
+I'm lost.	Ich habe mich verlaufen.	मैं खो गया हूँ।
+I'm mean.	Ich bin gemein.	मैं कठोर हूँ।
+I'm next.	Ich bin der Nächste.	मैं अगला हूँ।
+I'm okay.	Mir geht's gut.	मैं ठीक हूँ।
+I'm rich.	Ich bin reich.	मैं धनवान हूँ।
+I'm safe.	Ich bin sicher.	मैं सुरक्षित हूँ।
+I'm sick.	Ich bin krank.	मैं बीमार हूँ।
+I'm sure.	Ich bin sicher.	मुझे यकीन है।
