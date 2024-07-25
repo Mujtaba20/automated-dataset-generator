@@ -5599,3 +5599,12 @@ Come back here.	Kommen Sie hierher zurück.	वापस यहाँ आओ।
 Come back home.	Komm zurück nach Hause.	घर वापस आना।
 Come back soon.	Komm bald zurück.	जल्दी वापस आना।
 Come down here!	Komm hier runter!	यहाँ नीचे आओ!
+Come down here.	Komm hier runter.	नीचे आ जाओ।
+Come here soon.	Komm bald hier her.	जल्दी यहाँ आओ।
+Come here, Tom.	Komm her, Tom.	यहाँ आ जा, टॉम।
+Come on, do it.	Komm schon, mach es.	आओ, यह करो।
+Come over here.	Komm hierher.	यहाँ आ जाओ।
+Come sit by me.	Komm hier zu mir und setz dich.	मेरे पास आकर बैठ जाओ।
+Cows eat grass.	Kühe essen Gras.	गायें घास खाती हैं।
+Cows give milk.	Kühe geben Milch.	गायें दूध देती हैं।
+Cut it in half.	Schneide es in der Mitte.	इसे आधे में काट दो।
