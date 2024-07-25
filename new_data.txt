@@ -9211,3 +9211,10 @@ I'm a bit crazy.	Ich bin ein bisschen verrückt.	मैं थोड़े प�
 I'm a bit drunk.	Ich bin ein bisschen betrunken.	मैं थोड़े नशे में हूँ।
 I'm a bit tipsy.	Ich bin ein bisschen angeheitert.	मैं थोड़े उत्तेजित हूँ।
 I'm a bit tired.	Ich bin ein bisschen müde.	मैं थोड़ा थका हुआ हूँ।
+I'm a carpenter.	Ich bin ein Zimmermann.	मैं एक कारपेंटर हूँ।
+I'm a chauffeur.	Ich bin ein Chauffeur.	मैं एक ड्राइवर हूँ।
+I'm a city girl.	Ich bin ein Stadtmädchen.	मैं एक शहरी लड़की हूँ।
+I'm a communist.	Ich bin ein Kommunist.	मैं एक सम्यवादी हूँ।
+I'm a detective.	Ich bin ein Detektiv.	मैं एक जासूस हूँ।
+I'm a good cook.	Ich bin ein guter Koch.	मैं एक अच्छा रसोइया हूँ।
+I'm a good shot.	Ich bin ein guter Schütze.	मैं एक अच्छा गोली बाज़ हूँ।
