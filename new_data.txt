@@ -3878,3 +3878,10 @@ Give me a hug.	Umarme mich.	मुझे गले लगा दो।
 Give me a sec.	Gib mir eine Sekunde.	मुझे एक सेकंड दे।
 Give me those.	Gib mir diejenigen.	मुझे वे दे।
 Go downstairs.	Gehe hinunter.	नीचे जाओ।
+Go fly a kite.	Geh Drachen steigen lassen.	परियां झूला लगाने टूट गई।
+God bless you!	Gott segne dich!	भगवान आपको आशीर्वाद दें!
+God knows why.	Gott weiß warum.	भगवान जानते हैं क्यों।
+Guess who won.	Rate mal, wer gewonnen hat.	अनुमान लगाओ कौन जीता।
+Hang in there!	Halte durch!	वहां लटकते रहो!
+Hang in there.	Bleib dran.	वहाँ रहो।
+Hang on a sec.	Warten Sie mal.	एक सेकंड रुको।
