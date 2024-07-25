@@ -7703,3 +7703,13 @@ Tom would wait.	Tom würde warten.	टॉम इंतजार करेगा�
 Tom zoomed out.	Tom zoomte heraus.	टॉम ने ज़ूम आउट किया।
 Tom'll improve.	Tom wird sich verbessern.	टॉम सुधरेगा।
 Tom'll succeed.	Tom wird erfolgreich sein.	टॉम सफल होगा।
+Tom's Canadian.	Tom ist Kanadier.	टॉम कनाडियन है।
+Tom's a grouch.	Tom ist mürrisch.	टॉम एक grouch है।
+Tom's a threat.	Tom ist eine Bedrohung.	टॉम एक खतरा है।
+Tom's a townie.	Tom ist ein Städter.	टॉम एक टाउनी है।
+Tom's bleeding.	Tom blutet.	टॉम खुन बह रहा है।
+Tom's charming.	Tom ist charmant.	टॉम दिलकश है।
+Tom's cheerful.	Tom ist fröhlich.	टॉम खुशमिजाज है।
+Tom's confused.	Tom ist verwirrt.	टॉम उलझन में है।
+Tom's diabetic.	Tom ist diabetisch.	टॉम मधुमेही है।
+Tom's divorced.	Tom ist geschieden.	टॉम तलाकशुदा है।
