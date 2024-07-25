@@ -7780,3 +7780,12 @@ We belong here.	Wir gehören hierher.	हम यहाँ के हैं।
 We can proceed.	Wir können fortfahren.	हम आगे बढ़ सकते हैं।
 We can't do it.	Wir können es nicht tun.	हम यह नहीं कर सकते।
 We didn't sing.	Wir haben nicht gesungen.	हमने गा नहीं था।
+We drank a lot	Wir haben viel getrunken.	हमने बहुत पिया।
+We exaggerated.	Wir haben übertrieben.	हमनें ज्यादा बढ़ दिया।
+We fell asleep.	Wir sind eingeschlafen.	हम सो गए।
+We forgave Tom.	Wir haben Tom vergeben.	हमने टॉम को माफ कर दिया।
+We forgive him.	Wir vergeben ihm.	हम उसे माफ करते हैं।
+We go tomorrow.	Morgen gehen wir.	हम कल जा रहे हैं।
+We go way back.	Wir gehen schon lange zurück.	हम बहुत पुराने से हैं।
+We got dressed.	Wir haben uns angezogen.	हमने कपड़े पहन लिए।
+We got married.	Wir haben geheiratet.	हम शादी की।
