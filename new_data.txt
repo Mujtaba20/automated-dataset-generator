@@ -13483,3 +13483,11 @@ Reality is scary.	Die Realität ist beängstigend.	वास्तविकत�
 Red wine, please.	Roter Wein, bitte.	रेड वाइन, कृपया।
 Respect yourself.	Respektiere dich selbst.	अपना सम्मान करो।
 Revenge is sweet.	Rache ist süß.	बदला मिठा है।
+Rome is in Italy.	Rom ist in Italien.	रोम इटली में है।
+Say hello to Tom.	Grüßen Sie Tom.	टॉम को हाय बोलो।
+Say it in French.	Sag es auf Französisch.	इसे फ्रेंच में कहो।
+Say you're sorry.	Sag, dass du leid bist.	क्षमा मांगो।
+School is boring.	Schule ist langweilig.	स्कूल बोरिंग है।
+School's not fun.	Schule macht keinen Spaß.	स्कूल मजेदार नहीं है।
+See you in class.	Wir sehen uns im Unterricht.	कक्षा में मिलेंगे।
+See you tomorrow.	Bis morgen.	कल मिलेंगे।
