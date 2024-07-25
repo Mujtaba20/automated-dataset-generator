@@ -14115,3 +14115,8 @@ Tom hit the mark.	Tom traf den Punkt.	टॉम ने लक्ष्य को
 Tom hoped to win.	Tom hoffte zu gewinnen.	टॉम जीतने की आशा करता था।
 Tom hummed along.	Tom summte mit.	टॉम गाते रहे।
 Tom hurried away.	Tom eilte weg.	टॉम जल्दी से चला गया।
+Tom hurt himself.	Tom hat sich verletzt.	टॉम ने अपने को दुख पहुंचाया।
+Tom ignored Mary.	Tom hat Mary ignoriert.	टॉम ने मेरी को ध्यान नहीं दिया।
+Tom impressed me.	Tom hat mich beeindruckt.	टॉम ने मुझ पर प्रभाव डाला।
+Tom intrigues me.	Tom fasziniert mich.	टॉम मेरा ध्यान खींचता है।
+Tom invited Mary.	Tom hat Mary eingeladen.	टॉम ने मेरी को निमंत्रण दिया।
