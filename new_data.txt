@@ -12261,3 +12261,11 @@ I can't see well.	Ich sehe nicht gut.	मैं अच्छे से नही
 I can't show you.	Ich kann es dir nicht zeigen.	मैं तुम्हें नहीं दिखा सकता।
 I can't stand it.	Ich kann es nicht ertragen.	मैं इसे सह नहीं सकता।
 I can't stop Tom.	Ich kann Tom nicht stoppen.	मैं टॉम को रोक नहीं सकता।
+I can't stop you.	Ich kann dich nicht stoppen.	मैं तुम्हें नहीं रोक सकता।
+I can't talk now.	Ich kann jetzt nicht reden.	मैं अभी बात नहीं कर सकता।
+I can't tell yet.	Ich kann es noch nicht sagen.	मैं अभी बता नहीं सकता।
+I cannot whistle.	Ich kann nicht pfeifen.	मैं सीटी नहीं बजा सकता।
+I caught the flu.	Ich habe die Grippe bekommen.	मुझे फ्लू हो गया है।
+I closed my door.	Ich habe meine Tür geschlossen.	मैंने अपना दरवाजा बंद कर दिया।
+I collect comics.	Ich sammle Comics.	मैं कॉमिक्स एकत्र करता हूँ।
+I confronted Tom.	Ich habe Tom konfrontiert.	मैंने टॉम से सामना किया।
