@@ -16224,3 +16224,10 @@ How was the dance?	Wie war der Tanz?	नाच कैसा था?
 How was the movie?	Wie war der Film?	फिल्म कैसी थी?
 How was your stay?	Wie war Ihr Aufenthalt?	आपका रहना कैसा था?
 How was your trip?	Wie war Ihre Reise?	आपकी यात्रा कैसी थी?
+How was your walk?	Wie war dein Spaziergang?	तुम्हारी सैर कैसी रही?
+How's Tom tonight?	Wie geht es Tom heute Abend?	टॉम कैसे हैं आज रात?
+How's the weather?	Wie ist das Wetter?	मौसम कैसा है?
+How's your French?	Wie steht es um dein Französisch?	तुम्हारा फ्रेंच कैसा है?
+How's your family?	Wie geht es deiner Familie?	तुम्हारे परिवार कैसे हैं?
+How's your father?	Wie geht es deinem Vater?	तुम्हारे पिताजी कैसे हैं?
+How's your mother?	Wie geht es deiner Mutter?	तुम्हारी माँ कैसी हैं?
