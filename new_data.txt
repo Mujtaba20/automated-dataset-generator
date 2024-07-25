@@ -8884,3 +8884,10 @@ I like to party.	Ich feiere gerne.	मुझे पार्टी करना 
 I like to party. (different meaning)	Ich mag Gesellschaft.	मुझे समाज का साथ पसंद है।
 I like tomatoes.	Ich mag Tomaten.	मुझे टमाटर पसंद हैं।
 I like you, too.	Ich mag dich auch.	मुझे तुम भी पसंद हो।
+I like your car.	Ich mag dein Auto.	मुझे आपकी गाड़ी पसंद है।
+I like your car. (different translation)	Ich liebe dein Auto.	मैं आपकी कार पसंद करता हूँ।
+I like your car. (different meaning)	Mir gefällt dein Wagen.	मुझे आपकी कार अच्छी लगती है।
+I like your car. (different translation of repeated sentence)	Ich mag dein Fahrzeug.	मुझे आपकी कार पसंद है।
+I like your cat.	Ich mag deine Katze.	मुझे आपकी बिल्ली पसंद है।
+I like your hat.	Ich mag deinen Hut.	मुझे आपकी टोपी पसंद है।
+I listen to Tom.	Ich höre Tom zu.	मैं टॉम की बात सुनता हूँ।
