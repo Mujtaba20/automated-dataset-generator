@@ -6354,3 +6354,13 @@ I'll scold him.	Ich werde ihn ausschimpfen.	मैं उसे डाँटू�
 I'll see to it.	Ich werde dafür sorgen.	मैं इस मामले का ध्यान रखूँगा।
 I'll shoot you.	Ich werde dich erschießen.	मैं तुम्हें गोली मार दूँगा।
 I'll stay here.	Ich werde hier bleiben.	मैं यहाँ रहूँगा।
+I'll stay home.	Ich bleibe zu Hause.	मैं घर पर रहूँगा।
+I'll take that.	Ich werde das nehmen.	मैं वह लूँगा।
+I'll teach Tom.	Ich werde Tom unterrichten.	मैं टॉम को सिखाऊँगा।
+I'll thank Tom.	Ich werde Tom danken.	मैं टॉम का आभार व्यक्त करूँगा।
+I'll treat you.	Ich werde dich behandeln.	मैं तुम्हें इलाज करूँगा।
+I'll try again.	Ich werde es erneut versuchen.	मैं फिर से कोशिश करूँगा।
+I'll try again. [Different Meaning]	Ich werde es wieder probieren.	मैं फिर से आजमाऊँगा।
+I'll walk home.	Ich werde nach Hause laufen.	मैं घर चलकर जाऊँगा।
+I'll watch Tom.	Ich werde Tom beobachten.	मैं टॉम को देखूँगा।
+I'll work hard.	Ich werde hart arbeiten.	मैं मेहनत करूँगा।
