@@ -1,15 +1,4 @@
 
-Where's my driver?	Wo ist mein Fahrer?	मेरा ड्राइवर कहाँ है?
-Where's my family?	Wo ist meine Familie?	मेरा परिवार कहाँ है?
-Where's my father?	Wo ist mein Vater?	मेरे पिता कहां है?
-Where's my invite?	Wo ist meine Einladung?	मेरा निमंत्रण कहाँ है?
-Where's my lawyer?	Wo ist mein Rechtsanwalt?	मेरा वकील कहाँ है?
-Where's my lawyer?	Wo ist mein Anwalt?	मेरा वकील कहाँ है?
-Where's my refund?	Wo bleibt meine Rückerstattung?	मेरी प्रतिपूर्ति कहाँ है?
-Where's my sister?	Wo ist meine Schwester?	मेरी बहन कहां है?
-Where's my ticket?	Wo ist mein Ticket?	मेरा टिकट कहाँ है?
-Where's my wallet?	Wo ist mein Geldbeutel?	मेरा बटुआ कहाँ है?
-Where's my wallet?	Wo ist meine Brieftasche?	मेरा बटुआ कहाँ है?
 Where's our money?	Wo ist unser Geld?	हमारा पैसा कहाँ है?
 Where's the beach?	Wo ist der Strand?	समुद्र तट कहाँ है?
 Where's the honey?	Wo ist der Honig?	शहद कहाँ है?

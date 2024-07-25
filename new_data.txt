@@ -19853,3 +19853,13 @@ Where's Tom today?	Wo ist Tom heute?	आज टॉम कहाँ है?
 Where's Tom's car?	Wo ist Toms Auto?	टॉम की कार कहाँ है?
 Where's everybody?	Wo sind alle?	सब कहाँ हैं?
 Where's my brandy?	Wo ist mein Brandy?	मेरा ब्रैण्डी कहाँ है?
+Where's my driver?	Wo ist mein Fahrer?	मेरा चालक कहाँ है?
+Where's my family?	Wo ist meine Familie?	मेरा परिवार कहाँ है?
+Where's my father?	Wo ist mein Vater?	मेरे पिताजी कहाँ हैं?
+Where's my invite?	Wo ist meine Einladung?	मेरा आमंत्रण कहाँ है?
+Where's my lawyer?	Wo ist mein Anwalt?	मेरा वकील कहाँ है?
+Where's my lawyer? (2)	Wo ist mein Rechtsanwalt?	मेरा कानूनी सलाहकार कहाँ है?
+Where's my refund?	Wo ist meine Rückerstattung?	मेरा रिफ़ंड कहाँ है?
+Where's my sister?	Wo ist meine Schwester?	मेरी बहन कहाँ है?
+Where's my ticket?	Wo ist mein Ticket?	मेरा टिकट कहाँ है?
+Where's my wallet?	Wo ist meine Brieftasche?	मेरा वॉलेट कहाँ है?
