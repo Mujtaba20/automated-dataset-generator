@@ -16085,3 +16085,10 @@ He speaks Russian.	Er spricht Russisch.	वह रूसी बोलता ह�
 He speaks quickly.	Er redet schnell.	उसने त्वरित रूप से बोला।
 He started to cry.	Er fing an zu weinen.	उसने रोना शुरू किया।
 He stayed up late.	Er blieb lange wach.	वह देर तक जागा रहा।
+He stole my heart.	Er hat mein Herz gestohlen.	उसने मेरा मन मोह लिया।
+He studied abroad.	Er hat im Ausland studiert.	उसने विदेश में पढ़ाई की।
+He takes vitamins.	Er nimmt Vitamine.	वह विटामिन लेता है।
+He talks too fast.	Er spricht zu schnell.	वह बहुत तेज़ रफ्तार से बुलता है।
+He talks too much.	Er redet zu viel.	वह बहुत बोलता है।
+He teaches Arabic.	Er unterrichtet Arabisch.	उसने अरबी पढ़ाई।
+He threw the ball.	Er warf den Ball.	उसने गेंद फेंकी।
