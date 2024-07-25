@@ -1218,3 +1218,8 @@ Step aside.	Mach Platz.	रास्ता दो।
 Step on it!	Gib Gas!	जल्दी करो!
 Stop lying.	Hör auf zu lügen.	झूठ बोलना बंद करो।
 Stop there.	Halt hier an.	वहीं रुको।
+Study more.	Mehr studieren.	और पढ़ाई करें।
+Take a bus.	Nimm den Bus.	एक बस पकड़ो।
+Take a nap.	Mach ein Nickerchen.	एक झपकी लें।
+Take cover!	Deckung nehmen!	रक्षा लें!
+Take shelter!	Suche Schutz!	आश्रय लें!
