@@ -18491,3 +18491,12 @@ Tom got impatient.	Tom wurde ungeduldig.	टॉम अधीर हो गया
 Tom got mad at me.	Tom wurde wütend auf mich.	टॉम मुझसे नाराज हो गया।
 Tom got sunburned.	Tom hat einen Sonnenbrand bekommen.	टॉम को सूर्य ताप हुआ।
 Tom got suspended.	Tom wurde suspendiert.	टॉम का निलंबित कर दिया गया।
+Tom got the prize.	Tom hat den Preis bekommen.	टॉम को पुरस्कार मिला।
+Tom got very busy.	Tom wurde sehr beschäftigt.	टॉम बहुत व्यस्त हो गया।
+Tom got very sick.	Tom wurde sehr krank.	टॉम बहुत बीमार हो गया।
+Tom grows rhubarb.	Tom züchtet Rhabarber.	टॉम गुडामल उगाता है।
+Tom guessed right.	Tom hat richtig geraten.	टॉम ने सही अनुमान लगाया।
+Tom guessed wrong.	Tom hat sich geirrt.	टॉम गलत अनुमान लगाया।
+Tom had a seizure.	Tom hatte einen Krampf.	टॉम को एक आक्रमण हुआ।
+Tom had blue eyes.	Tom hatte blaue Augen.	टॉम के नीली आंखें थीं।
+Tom had breakfast.	Tom frühstückte.	टॉम ने सुबह का खाना खाया।

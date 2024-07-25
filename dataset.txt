@@ -1,14 +1,4 @@
 
-Tom got the prize.	Tom bekam den Preis.	टॉम को कीमत मिली।
-Tom got very busy.	Tom bekam sehr viel zu tun.	टॉम को बहुत कुछ मिला।
-Tom got very sick.	Tom wurde sehr krank.	टॉम बहुत बीमार हो गया।
-Tom grows rhubarb.	Tom baut Rhabarber an.	टॉम रूबर्ब का निर्माण करता है।
-Tom guessed right.	Tom hat richtig geraten.	टॉम ने वास्तव में सलाह दी।
-Tom guessed wrong.	Tom hat falsch geraten.	टॉम गलत हो गया।
-Tom had a seizure.	Tom hatte einen Anfall.	टॉम के पास एक जब्ती थी।
-Tom had blue eyes.	Tom hatte blaue Augen.	टॉम की नीली आँखें थीं।
-Tom had breakfast.	Tom hat gefrühstückt.	टॉम ने नाश्ता किया है।
-Tom had breakfast.	Tom frühstückte.	टॉम ने नाश्ता किया।
 Tom had no hat on.	Tom trug keinen Hut.	टॉम ने टोपी नहीं पहनी थी।
 Tom had questions.	Tom hatte Fragen.	टॉम के सवाल थे।
 Tom hardly smiled.	Tom lächelte kaum.	टॉम शायद ही मुस्कुराया।
