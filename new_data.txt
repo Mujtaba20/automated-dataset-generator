@@ -17660,3 +17660,9 @@ Our money is gone.	Unser Geld ist weg.	हमारे पैसे खत्म
 Our money ran out.	Unser Geld ist ausgegangen.	हमारे पैसे खत्म हो गए हैं।
 Our train is late.	Unser Zug kommt zu spät.	हमारी ट्रेन देर से आ रही है।
 Pay what you want.	Bezahle, was du willst.	जो चाहो उसे भुगतान करो।
+People blamed Tom.	Die Leute gaben Tom die Schuld.	लोगों ने टॉम को दोषारोपित किया।
+Permit me to stay.	Erlauben Sie mir zu bleiben.	मुझे रुकने दो।
+Pick up the phone.	Nimm den Hörer ab.	फ़ोन उठाओ।
+Pink is for girls.	Pink ist für Mädchen.	गुलाबी लड़कियों के लिए है।
+Please be careful.	Bitte sei aufmerksam.	कृपया सजग रहें।
+Please be patient.	Bitte sei geduldig.	कृपया धीरज रखें।
