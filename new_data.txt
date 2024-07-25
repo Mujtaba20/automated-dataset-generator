@@ -16189,3 +16189,9 @@ How about a snack?	Wie wäre es mit einem Snack?	स्नैकर्स कै
 How about tonight?	Wie wäre es heute Nacht?	आज रात कैसा रहेगा?
 How are you doing?	Wie geht es Ihnen?	तुम कैसे हो?
 How are you going?	Wie geht es dir?	तुम कहाँ जा रहे हो?
+How are you today?	Wie stehst du heute?	आज तुम कैसे हो?
+How clever Tom is!	Wie schlau Tom ist!	तोम कितना चतुर है!
+How complex is it?	Wie schwierig ist das?	यह कितना अशक्त है?
+How did Tom react?	Wie hat Tom reagiert?	टॉम ने कैसे प्रतिक्रिया दी?
+How did it happen?	Wie ist das passiert?	यह कैसे हुआ?
+How did that work?	Wie hat das funktioniert?	वह कैसे काम किया?
