@@ -3917,3 +3917,13 @@ He is reading.	Er liest.	वह पढ़ रहा है।
 He is running.	Er rennt.	वह दौड़ रहा है।
 He is skating.	Er fährt Schlittschuh.	वह पैंटर चला रहा है।
 He kissed her.	Er küsste sie.	उसने उसको चुमा।
+He knows lots.	Er weiß viel.	उसे बहुत कुछ पता है।
+He left early.	Er ging früh weg.	उसने जल्दी छोड़ दिया।
+He lied to me.	Er hat mich angelogen.	उसने मुझसे झूठ बोला।
+He lied to us.	Er hat uns angelogen.	उसने हमें झूठ बोला।
+He liked that.	Das hat ihm gefallen.	उसे वो पसंद थी।
+He looks pale.	Er sieht blass aus.	वह पीला नजर आता है।
+He looks well.	Er sieht gut aus.	वह अच्छा दिखता है।
+He loves them.	Er liebt sie.	उनसे प्यार करता है।
+He made me go.	Er zwang mich zu gehen.	उसने मुझे जाने के लिए कहा।
+He seems kind.	Er scheint nett zu sein.	वह भला लगता है।
