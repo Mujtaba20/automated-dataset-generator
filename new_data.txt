@@ -3167,3 +3167,12 @@ Stay with us.	Bleibt bei uns.	हमारे साथ रहो।
 Step forward.	Schritt nach vorn.	आगे बढ़ें।
 Step forward. (different meaning)	Vorwärts treten.	आगे बढ़ें।
 Stop filming.	Hören Sie mit dem Filmen auf.	फिल्मिंग बंद करो।
+Stop gawking.	Hör auf zu starren.	देखना बंद करो।
+Stop humming.	Hör auf zu summen.	गुनगुनाहट बंद करो।
+Stop it, Tom.	Hör auf, Tom.	बंद करो, टॉम।
+Stop reading.	Hör auf zu lesen.	पढ़ना बंद करो।
+Stop running.	Hör auf zu rennen.	दौड़ना बंद करो।
+Stop singing.	Hör auf zu singen.	गाना बंद करो।
+Stop smiling.	Hör auf zu lächeln.	मुस्कान बंद करो।
+Stop smoking.	Hör auf zu rauchen.	स्मोकिंग बंद करो।
+Stop smoking. - different meaning	Hör auf zu paffen.	धूम्रपान बंद करो।
