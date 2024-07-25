@@ -692,3 +692,5 @@ Loosen up.	Entspann dich.	ढीला हो जा।
 Move over.	Rück mal.	हट जाओ।
 Nice shot!	Guter Schuss!	अच्छी गोली!
 Of course!	Natürlich!	बिल्कुल!
+Please go.	Bitte geh weiter.	कृपया आगे बढ़ें।
+Put it on.	Zieh es an.	इसे पहन लो।
