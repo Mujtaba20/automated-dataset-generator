@@ -14286,3 +14286,13 @@ Tom is quiet now.	Tom ist jetzt ruhig.	टॉम अब चुप है।
 Tom is quite old.	Tom ist ziemlich alt.	टॉम काफी पुराना है।
 Tom is quite shy.	Tom ist ziemlich schüchtern.	टॉम काफी शर्मीला है।
 Tom is ready now.	Tom ist jetzt bereit.	टॉम तैयार है।
+Tom is realistic.	Tom ist realistisch.	टॉम यथार्थवादी है।
+Tom is regretful.	Tom ist bedauerlich.	टॉम पछताया हुआ है।
+Tom is reluctant.	Tom ist zögerlich.	टॉम अनिच्छुक है।
+Tom is reputable.	Tom ist angesehen.	टॉम प्रसिद्ध है।
+Tom is resentful.	Tom ist verärgert.	टॉम कटुता भरा है।
+Tom is resigning.	Tom tritt zurück.	टॉम को इस्तीफा देना है।
+Tom is resilient.	Tom ist belastbar.	टॉम सहनशील है।
+Tom is sarcastic.	Tom ist sarkastisch.	टॉम तानाहार है।
+Tom is satisfied.	Tom ist zufrieden.	टॉम संतुष्ट है।
+Tom is screaming.	Tom schreit.	टॉम चिल्ला रहा है।
