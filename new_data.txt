@@ -12014,3 +12014,13 @@ He made me do it.	Er zwang mich dazu.	उसने मुझे यह करन
 He made me smile.	Er brachte mich zum Lächeln.	उसने मुझे मुस्कान पर ला दिया।
 He made no reply.	Er antwortete nicht.	उसने कोई जवाब नहीं दिया।
 He meant no harm.	Er meinte es nicht böse.	उसने कोई नुकसान करने की उत्कृष्टता नहीं की थी।
+He moves quickly.	Er bewegt sich schnell.	वह जल्दी चलता है।
+He must be tired.	Er muss müde sein.	उसे थकान महसूस होना चाहिए।
+He must love you.	Er muss dich lieben.	उसे तुमसे प्यार होना चाहिए।
+He must not live.	Er darf nicht leben.	उसे जीने नहीं देना चाहिए।
+He needs a towel.	Er braucht ein Handtuch.	उसे एक तौलिया चाहिए।
+He outsmarted me.	Er hat mich ausgetrickst.	उसने मुझे मात दी।
+He painted a dog.	Er hat einen Hund gemalt.	उसने एक कुत्ते को चित्रित किया।
+He played tennis.	Er hat Tennis gespielt.	उसने टेनिस खेला।
+He put up a flag.	Er hat eine Fahne gehisst.	उसने झंडा फहराया।
+He ran into debt.	Er geriet in Schulden.	वह कर्ज़ में फंस गया।
