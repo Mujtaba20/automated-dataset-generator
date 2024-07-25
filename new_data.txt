@@ -9249,3 +9249,13 @@ I'm begging you.	Ich bitte dich.	मैं तुमसे प्रार्थ
 I'm bored stiff.	Ich bin stinksauer.	मैं बोर हूँ।
 I'm broke again.	Ich bin wieder pleite.	मैं फिरसे दरिद्र हो गया हूँ।
 I'm calling Tom.	Ich telefoniere mit Tom.	मैं टॉम को कॉल कर रहा हूँ।
+I'm catching on.	Ich verstehe langsam.	मैं समझ रहा हूँ।
+I'm celebrating.	Ich feiere.	मैं जश्न मना रहा हूँ।
+I'm chewing gum.	Ich kaue Kaugummi.	मैं गम चबा रहा हूँ।
+I'm color-blind.	Ich bin farbenblind.	मैं रंगों के ध्वंस हूँ।
+I'm color-blind. - Different Meaning	Ich kann nicht gut Farben unterscheiden.	मैं रंगों को अच्छे से पहचान नहीं पा रहा हूँ।
+I'm coming back.	Ich komme zurück.	मैं वापस आ रहा हूँ।
+I'm coming home.	Ich komme nach Hause.	मैं घर वापस आ रहा हूँ।
+I'm coming, too.	Ich komme auch.	मैं भी आ रहा हूँ।
+I'm constipated.	Ich bin verstopft.	मुझे कब्ज है।
+I'm cooking now.	Ich koche jetzt.	मैं अभी पका रहा हूँ।
