@@ -6970,3 +6970,12 @@ That's my book.	Das ist mein Buch.	यह मेरी किताब है।
 That's my doll.	Das ist meine Puppe.	यह मेरी गुड़िया है।
 That's my idea.	Das ist meine Idee.	यह मेरी विचार है।
 That's my line!	Das ist meine Linie!	यह मेरी रेखा है!
+That's my plan.	Das ist mein Plan.	वह मेरा योजना है।
+That's no good.	Das ist nicht gut.	वह अच्छा नहीं है।
+That's not Tom.	Das ist nicht Tom.	वह टॉम नहीं है।
+That's not bad.	Das ist nicht schlimm.	वह अच्छा नहीं है।
+That's not how.	So ist es nicht.	ऐसा नहीं है।
+That's not why.	Das ist nicht warum.	वह नहीं है क्यों।
+That's perfect.	Das ist perfekt.	वह पूरा है।
+That's plastic.	Das ist Plastik.	यह प्लास्टिक है।
+That's rubbish.	Das ist Müll.	यह कचरा है।
