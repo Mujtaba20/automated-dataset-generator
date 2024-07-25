@@ -13451,3 +13451,8 @@ Please be gentle.	Bitte sei sanft.	कृपया कोमल रहें।
 Please be honest.	Bitte sei ehrlich.	कृपया सच्चे रहें।
 Please be polite.	Bitte sei höflich.	कृपया शिष्ट रहें।
 Please come here.	Bitte komm hierher.	कृपया यहाँ आओ।
+Please don't ask.	Bitte frag nicht.	कृपया मत पूछो।
+Please don't cry.	Bitte weine nicht.	कृपया मत रोओ।
+Please don't die!	Bitte stirb nicht!	कृपया मत मरो!
+Please elaborate.	Bitte erläutern.	कृपया विस्तृत करें।
+Please follow me.	Bitte folge mir.	कृपया मेरा पालन करें।
