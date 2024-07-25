@@ -8068,3 +8068,11 @@ You're chicken.	Du bist ein Huhn.	तुम मुर्गा हो।
 You're correct.	Du hast Recht.	तुम सही हो।
 You're humming.	Du summt.	तुम हम्मिंग कर रहे हैं।
 You're humming. (different meaning)	Du bist summend.	तुम हर्गिज नहीं कर सकते।
+You're in love.	Du bist verliebt.	तुम प्यार में हो।
+You're in luck.	Du hast Glück.	तुम्हारी किस्मत अच्छी है।
+You're invited.	Du bist eingeladen.	तुम्हें आमंत्रित किया गया है।
+You're jealous.	Du bist eifersüchtig.	तुम जलने वाले हो।
+You're kidding!	Du machst Witze!	तुम मजाक कर रहे हो!
+You're in love. (alternate translation)	Du liebst.	तुम प्यार करते हो।
+You're in luck. (alternate translation)	Du hast Glück gehabt.	तुम्हें भाग्य ने अभ्यास किया।
+You're invited. (alternate translation)	Du wurdest eingeladen.	तुम्हें आमंत्रित किया गया है।
