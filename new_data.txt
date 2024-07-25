@@ -13289,3 +13289,13 @@ Let's play house.	Lass uns Häuschen spielen.	चलो  घर-घर खेल
 Let's play poker.	Lass uns Poker spielen.	चलो पोकर खेलते हैं।
 Let's skip lunch.	Lass uns das Mittagessen auslassen.	चलो दोपहर का भोजन छोड़ दें।
 Let's start here.	Lass uns hier anfangen.	यहाँ से शुरू करते हैं।
+Let's take a bus.	Lassen Sie uns einen Bus nehmen.	चलिए एक बस पकड़ते हैं।
+Lie on the couch.	Lieg auf der Couch.	काउच पर लेटो।
+Life is precious.	Leben ist kostbar.	जीवन कीमती है।
+Light the candle.	Zünde die Kerze an.	मोमबत्ती जलाओ।
+Light the candle. (Different meaning)	Das Licht anmachen.	मोमबत्ती को जालना।
+Listen carefully.	Hör gut zu.	ध्यान से सुनो।
+Listen carefully. (Different meaning)	Hör aufmerksam zu.	ध्यान से ध्यान दो।
+Listen to me, OK?	Hör mir zu, okay?	मेरी बात सुनो, ठीक है?
+Look at it again.	Schau es dir noch einmal an.	इसे फिर से देखो।
+Look at that dog.	Schau dir den Hund an.	उस कुत्ते को देखो।
