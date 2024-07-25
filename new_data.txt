@@ -14793,3 +14793,12 @@ Tom was too weak.	Tom war zu schwach.	टॉम बहुत कमजोर थ
 Tom was tortured.	Tom wurde gefoltert.	टॉम सताया गया।
 Tom was troubled.	Tom war beunruhigt.	टॉम परेशान था।
 Tom was truthful.	Tom war ehrlich.	टोम सच्चा था।
+Tom was unafraid.	Tom hatte keine Angst.	टॉम निर्भीक था।
+Tom was unharmed.	Tom war unversehrt.	टॉम अप्रभावित था।
+Tom was unshaven.	Tom war unrasiert.	टॉम ने नहीं शेव किया था।
+Tom was upstairs.	Tom war oben.	टॉम उपर था।
+Tom was very sad.	Tom war sehr traurig.	टॉम बहुत उदास था।
+Tom was very shy.	Tom war sehr schüchtern.	टॉम बहुत झेंपू था।
+Tom wasn't alive.	Tom war nicht lebendig.	टॉम जीवित नहीं था।
+Tom wasn't alone.	Tom war nicht allein.	टॉम अकेला नहीं था।
+Tom wasn't angry.	Tom war nicht wütend.	टॉम गुस्सा नहीं था।
