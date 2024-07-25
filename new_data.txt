@@ -13652,3 +13652,10 @@ That'll be great.	Das wird großartig sein.	वह बहुत अच्छा 
 That's Tom's car.	Das ist Toms Auto.	वह टॉम की कार है।
 That's Tom's job.	Das ist Toms Arbeit.	वह टॉम का काम है।
 That's a problem.	Das ist ein Problem.	वह एक समस्या है।
+That's a promise.	Das ist ein Versprechen.	यह एक वादा है।
+That's all I did.	Das habe ich alles getan.	वह सब कुछ मैंने किया।
+That's all I got.	Das ist alles, was ich habe.	यह मेरे पास है।
+That's all I saw.	Das ist alles was ich sah.	वह सब कुछ मैंने देखा।
+That's all wrong.	Das ist alles falsch.	वह सब गलत है।
+That's avoidable.	Das ist vermeidbar.	यह टालने योग्य है।
+That's beyond me.	Das ist jenseits von mir.	वह मेरे पर से परे है।
