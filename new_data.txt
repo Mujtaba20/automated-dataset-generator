@@ -16050,3 +16050,12 @@ He left for Paris.	Er ist nach Paris gegangen.	वह पेरिस के ल
 He left the house.	Er hat das Haus verlassen.	उसने घर छोड़ दिया।
 He likes my jokes.	Er mag meinen Humor.	उसको मेरा मजाक अच्छा लगता है।
 He likes sleeping.	Er mag es zu schlafen.	उसको सोना पसंद है।
+He lives above me.	Er lebt über mir.	वह मेरे ऊपर रहता है।
+He lives frugally.	Er lebt sparsam.	वह किफायती जीवन जीता है।
+He lives in Kyoto.	Er lebt in Kyoto.	वह क्योटो में रहता है।
+He lives in Osaka.	Er lebt in Osaka.	वह ओसाका में रहता है।
+He lives in Tokyo.	Er lebt in Tokio.	वह टोक्यो में रहता है।
+He looks after us.	Er sorgt für uns.	वह हमारी देखभाल करता है।
+He looks confused.	Er sieht verwirrt aus.	वह भ्रांत है।
+He lost his honor.	Er hat seine Ehre verloren.	उसने अपना सम्मान खो दिया।
+He made a mistake.	Er hat einen Irrtum begangen.	उसने एक गलती की।
