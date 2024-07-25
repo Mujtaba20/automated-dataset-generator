@@ -4367,3 +4367,10 @@ I'm a student.	Ich bin Schüler.	मैं एक छात्र हूँ।
 I'm a diligent learner.	Ich bin ein fleißiger Lerner.	मैं एक जिम्मेदार सीखने वाला हूँ।
 I'm a suspect.	Ich bin verdächtig.	मैं संदिग्ध हूँ।
 I'm a teacher.	Ich bin Lehrer.	मैं एक शिक्षक हूँ।
+I'm a tourist.	Ich bin ein Tourist.	मैं एक पर्यटक हूँ।
+I'm afraid so.	Ich fürchte schon.	मुझे यह डर है।
+I'm all right.	Mir geht es gut.	मैं ठीक हूँ।
+I'm alone now.	Ich bin jetzt allein.	मैं अब अकेला हूँ।
+I'm an addict.	Ich bin süchtig.	मैं एक आदि हूँ।
+I'm an artist.	Ich bin Künstler.	मैं कलाकार हूँ।
+I'm an orphan.	Ich bin ein Waisenkind.	मैं एक अनाथ हूँ।
