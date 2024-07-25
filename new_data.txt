@@ -12377,3 +12377,13 @@ I had a flu shot.	Ich habe eine Grippeimpfung bekommen.	मुझे फ्ल�
 I had a headache.	Ich hatte Kopfschmerzen.	मुझे सिरदर्द था।
 I had my reasons.	Ich hatte meine Gründe.	मेरे पास अपने कारण थे।
 I had three dogs.	Ich hatte drei Hunde.	मेरे पास तीन कुत्ते थे।
+I hate Halloween.	Ich hasse Halloween.	मुझे हैलोवीन से नफरत है।
+I hate Tom's hat.	Ich hasse Toms Hut.	मुझे टॉम की टोपी से नफरत है।
+I hate chemistry.	Ich hasse Chemie.	मुझे रसायन विज्ञान से नफरत है।
+I hate chemistry. (2)	Ich verabscheue Chemie.	मैं रसायन विज्ञान से नफरत करता हूं।
+I hate computers.	Ich hasse Computer.	मुझे कंप्यूटर से नफरत है।
+I hate hospitals.	Ich hasse Krankenhäuser.	मुझे अस्पतालों से नफरत है।
+I hate hypocrisy.	Ich verabscheue Heuchelei.	मैं रियाकारी से नफरत करता हूं।
+I hate marmalade.	Ich hasse Marmelade.	मुझे मरमलेड से नफरत है।
+I hate that book.	Ich verabscheue dieses Buch.	मैं उस किताब से नफरत करता हूं।
+I hate that word.	Ich hasse dieses Wort.	मुझे उस शब्द से नफरत है।
