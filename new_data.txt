@@ -15615,3 +15615,13 @@ Can't we fire Tom?	Können wir Tom nicht feuern?	क्या हम टॉम �
 Can't you help us?	Kannst du uns nicht helfen?	क्या तुम हमें मदद नहीं कर सकते?
 Can't you lift me?	Kannst du mich nicht heben?	क्या तुम मुझे उठा नहीं सकते?
 Carry this for me.	Trag das für mich.	इसे मेरे लिए उठाओ।
+Champagne, please.	Champagner, bitte.	चैम्पेन, कृपया।
+Check Tom's pulse.	Überprüfen Sie Toms Puls.	टॉम का पल्स चेक करें।
+Choose one person.	Wähle eine Person.	एक व्यक्ति चुनें।
+Choose one person. - 2	Wähle eine Person.	किसी एक व्यक्ति का चयन करें।
+Choose one person. - 3	Wähle eine Person.	किसी एक व्यक्ति का चयन करें।
+Christmas is soon.	Weihnachten steht kurz bevor.	क्रिसमस जल्द ही है।
+Clean that window.	Putzen Sie dieses Fenster.	उस खिड़की को साफ करें।
+Clean the windows.	Putzen Sie die Fenster.	खिड़कियां साफ करो।
+Clean up the room.	Räume das Zimmer auf.	कमरे को साफ करो।
+Clean up the room. - 2	Räume das Zimmer auf.	कमरे को साफ करो।
