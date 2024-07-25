@@ -9015,3 +9015,10 @@ I saw Tom there.	Ich habe Tom dort gesehen.	मैंने वहाँ टॉ�
 I saw her again.	Ich habe sie wieder gesehen.	मैंने उसे फिर से देख लिया।
 I saw him again.	Ich habe ihn wieder gesehen.	मैंने उसे फिर से देखा।
 I saw him first.	Ich habe ihn zuerst gesehen.	मैंने पहले उसे देखा।
+I saw it coming.	Ich habe es kommen sehen.	मैंने इसे आते हुए देखा।
+I saw one today.	Ich habe heute einen gesehen.	मैंने आज एक देखा।
+I saw something.	Ich habe etwas gesehen.	मैंने कुछ देखा।
+I saw that, too.	Das habe ich auch gesehen.	मैंने वह भी देखा।
+I saw the movie.	Ich habe den Film gesehen.	मैंने फिल्म देखी।
+I saw you there.	Ich habe dich dort gesehen.	मैंने तुम्हें वहाँ देखा।
+I say go for it.	Ich sage, geh dafür.	मैं कहता हूँ, इसके लिए जाओ।
