@@ -603,3 +603,10 @@ I'm first.	Ich bin der Erste.	मैं पहला हूं।
 I'm first. (2nd meaning)	Ich bin zuerst dran.	मैं पहले हूं।
 I'm fussy.	Ich bin wählerisch.	मैं चिजों में विशेषता देता हूँ।
 I'm going.	Ich gehe.	मैं जा रहा हूँ।
+I'm happy.	Ich bin glücklich.	मैं खुश हूँ।
+I'm lying.	Ich lüge.	मैं झूठ बोल रहा हूँ।
+I'm needy.	Ich bin bedürftig.	मुझे आवश्यकता है।
+I'm obese.	Ich bin fettleibig.	मैं मोटा हूँ।
+I'm picky.	Ich bin wählerisch.	मैं क्षणिक और उत्तेजित हूँ।
+I'm ready!	Ich bin bereit!	मैं तैयार हूँ!
+I'm ready.	Ich bin bereit.	मैं तैयार हूँ।
