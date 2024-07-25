@@ -8924,3 +8924,11 @@ I met her again.	Ich habe sie wieder getroffen.	मैंने उससे फ
 I might be back.	Ich werde vielleicht zurück sein.	मैं शायद वापस आ सकता हूँ।
 I might be late.	Ich könnte zu spät kommen.	मैं देर से आ सकता हूँ।
 I misjudged Tom.	Ich habe Tom falsch eingeschätzt.	मैंने टॉम की गलत समझ की।
+I miss that car.	Ich vermisse dieses Auto.	मुझे उस गाड़ी की याद आती है।
+I miss the army.	Die Armee fehlt mir.	मुझे सेना की याद आती है।
+I miss you guys.	Ich vermisse euch Jungs.	मुझे तुम लोगों की याद आती है।
+I miss you, too.	Ich vermisse dich auch.	मुझे भी तुम्हारी याद आती है।
+I misunderstood.	Ich habe falsch verstanden.	मैंने गलतफहमी की।
+I moved my legs.	Ich habe meine Beine bewegt.	मैंने अपनी टांगें हिलाई।
+I must be blind.	Ich muss blind sein.	मुझे अंधा होना चाहिए।
+I must be there.	Ich muss dort sein.	मुझे वहाँ होना चाहिए।
