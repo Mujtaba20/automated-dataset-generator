@@ -16573,3 +16573,13 @@ I joined the navy.	Ich trat der Marine bei.	मैंने नौसेना �
 I just can't help.	Ich kann einfach nicht anders.	मैं बस मदद नहीं कर सकता।
 I just can't stop.	Ich kann einfach nicht aufhören.	मैं बस रुक नहीं सकता।
 I just don't care.	Es ist mir einfach egal.	मुझे बस परवाह नहीं है।
+I just found them.	Ich habe sie gerade gefunden.	मैंने उन्हें अभी मिला है।
+I just ignore Tom.	Ich ignoriere einfach Tom.	मैं सिर्फ टॉम को नजरअंदाज करता हूँ।
+I just moved here.	Ich bin gerade hierher gezogen.	मैं यहाँ अभी ही आया हूँ।
+I just need a hug.	Ich brauche einfach eine Umarmung.	मुझे बस एक गले लगाने की ज़रुरत है।
+I kept on reading.	Ich las weiter.	मैं पढ़ने में जुटा रहा।
+I killed the mice.	Ich habe die Mäuse getötet.	मैंने चूहों को मार डाला।
+I knew it was Tom.	Ich wusste, dass es Tom war.	मुझे पता था कि यह टॉम था।
+I knew who did it.	Ich wusste, wer es getan hat.	मुझे पता था कि यह किसने किया।
+I knew who he was.	Ich wusste, wer er war.	मैंने जाना कि वह कौन था।
+I knew you'd come.	Ich wusste, dass du kommen würdest.	मुझे पता था कि तुम आओगे।
