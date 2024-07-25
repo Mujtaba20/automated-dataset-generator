@@ -3149,3 +3149,12 @@ She went out.	Sie ging hinaus.	उसने बाहर चल दिया।
 She's a babe.	Sie ist ein Baby.	वह एक बेबी है।
 Should we go?	Sollen wir gehen?	क्या हमे जाना चाहिए?
 Show me that.	Zeig mir das.	मुझे वह दिखाओ।
+Someone sang.	Jemand hat gesungen.	किसी ने गाया।
+Everyone sang.	Jeder hat gesungen.	सभी ने गाया।
+Someone sung.	Jemand hat gesungen.	कोई ने गाया।
+Speak French.	Sprich Französisch.	फ्रेंच बोलो।
+Can you speak French?	Kannst du Französisch sprechen?	क्या आप फ्रेंच बोल सकते हैं?
+Talk in French.	Sprechen Sie Französisch.	फ्रेंच में बात करो।
+Speak louder.	Sprich lauter.	ज्यादा अवाज़ करो।
+Speak slower.	Sprich langsamer.	धीरे बोलो।
+Speak softly.	Sprich leise.	मिठी आवाज में बोलो।
