@@ -3331,3 +3331,11 @@ Tom got shot.	Tom wurde angeschossen.	टॉम को गोली मारी
 Tom got sick.	Tom wurde krank.	टॉम बीमार हो गया।
 Tom grimaced.	Tom verzog das Gesicht vor Schmerz.	टॉम ने दर्द भरे मान से मुँह बिचकाया।
 Tom grumbled.	Tom murmelte vor sich hin.	टॉम कोरे तरह बोला।
+Tom has acne.	Tom hat Akne.	टॉम के पास मुँहासे हैं।
+Tom has come.	Tom ist gekommen.	टॉम आ गया है।
+Tom has died.	Tom ist gestorben.	टॉम मर गया है।
+Tom has guts.	Tom hat Mut.	टॉम के पास हौसला है।
+Tom has left.	Tom hat verlassen.	टॉम चला गया है।
+Tom has time.	Tom hat Zeit.	टॉम के पास समय है।
+Tom has wine.	Tom hat Wein.	टॉम के पास शराब है।
+Tom hated it.	Tom hasste es.	टॉम नफरत करता था।
