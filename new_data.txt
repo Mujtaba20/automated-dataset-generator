@@ -11471,3 +11471,8 @@ Accidents happen.	Unfälle passieren.	दुर्घटनाएं होत�
 Air is invisible.	Luft ist unsichtbar.	हवा अदृश्य है।
 All hope is gone.	Alle Hoffnung ist verloren.	सभी आशा चली गई है।
 All men must die.	Alle Männer müssen sterben.	सभी पुरुषों को मरना होगा।
+Am I being fired?	Werde ich entlassen?	क्या मुझे नौकरी से निकाल दिया जा रहा है?
+Am I hurting you?	Tue ich dir weh?	क्या मैं तुम्हें चोट पहुंचा रहा हूँ?
+Am I in your way?	Bin ich dir im Weg?	क्या मैं तुम्हारे रास्ते में हूँ?
+Answer the phone.	Nimm das Telefon ab.	फ़ोन उठाओ।
+Any book will do.	Jedes Buch wird tun.	कोई भी किताब चलेगी।
