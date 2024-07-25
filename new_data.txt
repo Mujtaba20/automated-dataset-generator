@@ -835,3 +835,13 @@ Ask around.	Frag herum.	चारों तरफ़ से पूछें।
 Be careful!	Sei vorsichtig!	सावधान रहो!
 Be careful.	Sei achtsam.	ध्यान देना।
 Be patient.	Sei geduldig.	धैर्य रखो।
+Be serious.	Sei ernsthaft.	गंभीर रहो।
+Birds sing.	Vögel singen.	पंछी गाते हैं।
+Bottoms up!	Prost!	खींचो!
+Bring help.	Hilfe holen.	मदद लाओ।
+Bring wine.	Bring Wein.	वाइन लाओ।
+Can I come?	Kann ich kommen?	क्या मैं आ सकता हूँ?
+Can I come? - Different Meaning	Darf ich kommen?	क्या मैं आ सकता हूँ?
+Can I help?	Kann ich helfen?	क्या मैं मदद कर सकता हूँ?
+Can I help? - Different Meaning	Kann ich behilflich sein?	क्या मैं सहायता कर सकता हूँ?
+Can I sing?	Kann ich singen?	क्या मैं गा सकता हूँ?
