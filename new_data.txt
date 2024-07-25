@@ -17231,3 +17231,13 @@ Is that a new tie?	Ist das eine neue Krawatte?	क्या यह एक नय
 Is that a problem?	Ist das ein Problem?	क्या यह समस्या है?
 Is that a promise?	Ist das ein Versprechen?	क्या यह एक वादा है?
 Is that car yours?	Ist das Auto deins?	क्या यह गाड़ी तुम्हारी है?
+Is that chocolate?	Ist das Schokolade?	क्या यह चॉकलेट है?
+Is that dog Tom's?	Ist das Toms Hund?	क्या यह बिल्ली टॉम की है?
+Is that important?	Ist das wichtig?	क्या वह महत्वपूर्ण है?
+Is that my coffee?	Ist das mein Kaffee?	क्या यह मेरा चाय है?
+Is that necessary?	Ist das notwendig?	क्या यह आवश्यक है?
+Is that pure gold?	Ist das echtes Gold?	क्या यह खुदरा सोना है?
+Is that the truth?	Ist das die Wahrheit?	क्या यह सच है?
+Is that true, Tom?	Ist das wahr, Tom?	क्या यह सच है, टॉम?
+Is that your book?	Ist das dein Buch?	क्या यह तुम्हारी किताब है?
+Is that your goal?	Ist das dein Ziel?	क्या यह तुम्हारा लक्ष्य है?
