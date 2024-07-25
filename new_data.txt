@@ -7408,3 +7408,11 @@ Tom is useless.	Tom ist nutzlos.	टॉम बेकार है।
 Tom is vicious.	Tom ist bösartig.	टॉम क्रूर है।
 Tom is violent.	Tom ist gewalttätig.	टॉम हिंसक है।
 Tom is waiting.	Tom wartet.	टॉम इंतजार कर रहा है।
+Tom is walking.	Tom geht.	टॉम चल रहा है।
+Tom is wealthy.	Tom ist wohlhabend.	टॉम धनवान है।
+Tom is welcome.	Tom ist willkommen.	टॉम का स्वागत है।
+Tom is whining.	Tom jammert.	टॉम रो रहा है।
+Tom is willing.	Tom ist bereit.	टॉम इच्छुक है।
+Tom is winning.	Tom gewinnt.	टॉम जीत रहा है।
+Tom is with me.	Tom ist bei mir.	टॉम मेरे साथ है।
+Tom is with us.	Tom ist bei uns.	टॉम हमारे साथ है।
