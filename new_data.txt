@@ -14836,3 +14836,13 @@ Tom went too far.	Tom ging zu weit.	टॉम बहुत दूर चला �
 Tom wets his bed.	Tom nässt sein Bett ein.	टॉम अपने बिस्तर में पेशाब करता है।
 Tom will be back.	Tom wird zurückkommen.	टॉम वापस आएगा।
 Tom will be fine.	Tom wird in Ordnung sein.	टॉम ठीक हो जाएगा।
+Tom will be here.	Tom wird hier sein.	टॉम यहाँ होगा।
+Tom will be late.	Tom wird spät dran sein.	टॉम देर से आएगा।
+Tom will call me.	Tom wird mich anrufen.	टॉम मुझे फोन करेगा।
+Tom will do that.	Tom wird das tun.	टॉम वह करेगा।
+Tom will explain.	Tom wird erklären.	टॉम समझाएगा।
+Tom will help us.	Tom wird uns helfen.	टॉम हमें मदद करेगा।
+Tom will improve.	Tom wird sich verbessern.	टॉम सुधरेगा।
+Tom will kill me.	Tom wird mich töten.	टॉम मुझे मार डालेगा।
+Tom will like it.	Tom wird es mögen.	टॉम को यह पसंद आएगा।
+Tom will miss me.	Tom wird mich vermissen.	टॉम मुझे याद करेगा।
