@@ -7139,3 +7139,10 @@ Tom came close.	Tom kam näher.	टॉम करीब आया।
 Tom came early.	Tom kam früh.	टॉम जल्दी आ गया।
 Tom came first.	Tom kam als Erster.	टॉम सबसे पहले आया।
 Tom can answer.	Tom kann antworten.	टॉम जवाब दे सकता है।
+Tom can change.	Tom kann sich verändern.	टॉम परिवर्तित कर सकता है।
+Tom can get it.	Tom kann es erhalten.	टॉम यह पकड़ सकता है।
+Tom can't cook.	Tom kann nicht kochen.	टॉम पकाने में सक्षम नहीं है।
+Tom can't move.	Tom kann sich nicht bewegen.	टॉम हिल नहीं सकता।
+Tom can't read.	Tom kann nicht lesen.	टॉम पढ़ नहीं सकता।
+Tom can't sing.	Tom kann nicht singen.	टॉम गा नहीं सकता।
+Tom can't stop.	Tom kann nicht aufhören.	टॉम रुक नहीं सकता।
