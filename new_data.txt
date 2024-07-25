@@ -9944,3 +9944,12 @@ That's so sweet.	Das ist so lieb.	यह इतना प्यारा है�
 That's terrible.	Das ist entsetzlich.	यह भयावह है।
 That's the snag.	Das ist der Knackpunkt.	वह आधार है।
 engSentence		
+The air is damp.	Die Luft ist feucht.	हवा गीली है।
+The baby's fine.	Das Baby ist in Ordnung.	बच्चा ठीक है।
+The bag is full.	Die Tasche ist voll.	बैग भरा हुआ है।
+The bike's mine.	Das Fahrrad gehört mir.	वह साइकिल मेरी है।
+The book is red.	Das Buch ist rot.	किताब लाल है।
+The boy is kind.	Der Junge ist nett.	लड़का दयालु है।
+The boy is nice.	Der Junge ist lieb.	लड़का अच्छा है।
+The bus is slow.	Der Bus ist langsam.	बस धीमी है।
+The bus stopped.	Der Bus ist stehen geblieben.	बस रुक गई।
