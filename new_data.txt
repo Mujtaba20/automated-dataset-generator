@@ -15294,3 +15294,11 @@ Why do you study?	Warum lernst du?	तुम क्यों पढ़ाई क
 Why do you think?	Warum denkst du?	तुम क्यों सोचते हो?
 Why does it work?	Warum funktioniert es?	यह क्यों काम करता है?
 Why don't we sit?	Warum setzen wir uns nicht?	हम बैठ क्यों नहीं जाते?
+Why don't you go?	Warum gehst du nicht?	तुम क्यों नहीं जा रहे हो?
+Why is Tom broke?	Warum ist Tom pleite?	टॉम क्यों दुखी है?
+Why is Tom going?	Warum geht Tom?	तोम क्यों जा रहा है?
+Why is Tom there?	Warum ist Tom dort?	तोम वहां क्यों है?
+Why is it so hot?	Warum ist es so heiß?	यह इतना गरम क्यों है?
+Why is that good?	Warum ist das gut?	वह अच्छा क्यों है?
+Why is that here?	Warum ist das hier?	यहाँ वह क्यों है?
+Why should I lie?	Warum sollte ich lügen?	मुझे क्यों झूठ बोलना चाहिए?
