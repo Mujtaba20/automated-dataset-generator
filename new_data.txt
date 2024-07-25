@@ -1677,3 +1677,12 @@ I love them.	Ich liebe sie.	मैं उन्हें पसंद करत�
 I loved her.	Ich liebte sie.	मैंने उसे प्यार किया था।
 I loved you.	Ich habe dich geliebt.	मैंने तुम्हें प्यार किया था।
 I made rice.	Ich habe Reis gemacht.	मैंने चावल बनाया।
+I made that.	Ich habe das gemacht.	मैंने वह बनाया।
+I made this.	Ich habe das gemacht.	मैंने यह बनाया।
+I must obey.	Ich muss gehorchen.	मुझे आज्ञा का पालन करना चाहिए।
+I need glue.	Ich brauche Kleber.	मुझे गोंद चाहिए।
+I need help.	Ich brauche Hilfe.	मुझे मदद चाहिए।
+I need more.	Ich brauche mehr.	मुझे और चाहिए।
+I need them.	Ich brauche sie.	मुझे उन्हें चाहिए।
+I need time.	Ich brauche Zeit.	मुझे समय चाहिए।
+I never bet.	Ich wette nie.	मैं कभी दांव नहीं लगता।
