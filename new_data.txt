@@ -12387,3 +12387,13 @@ I hate hypocrisy.	Ich verabscheue Heuchelei.	मैं रियाकारी 
 I hate marmalade.	Ich hasse Marmelade.	मुझे मरमलेड से नफरत है।
 I hate that book.	Ich verabscheue dieses Buch.	मैं उस किताब से नफरत करता हूं।
 I hate that word.	Ich hasse dieses Wort.	मुझे उस शब्द से नफरत है।
+I hate the rules.	Ich hasse die Regeln.	मुझे नियमों से नफरत है।
+I hate this town.	Ich hasse diese Stadt.	मुझे इस शहर से नफरत है।
+I hate traveling.	Ich hasse es zu reisen.	मैं यात्रा से नफरत करता हूं।
+I hate your guts.	Ich hasse deine Eingeweide.	मुझे तुम्हारी गुत्थी से नफरत है।
+I have Tom's key.	Ich habe Toms Schlüssel.	मेरे पास टॉम की कुंजी है।
+I have a bicycle.	Ich habe ein Fahrrad.	मेरे पास एक साइकिल है।
+I have a big dog.	Ich habe einen großen Hund.	मेरे पास एक बड़ा कुत्ता है।
+I have a brother.	Ich habe einen Bruder.	मेरे पास एक भाई है।
+I have a dog now.	Ich habe jetzt einen Hund.	अब मेरे पास एक कुत्ता है।
+I have a grenade.	Ich habe eine Granate.	मेरे पास एक ग्रेनेड है।
