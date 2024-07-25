@@ -17309,3 +17309,13 @@ It is snowing now.	Es schneit jetzt.	अभी बर्फ़ गिर रही 
 It is sunny today.	Heute ist es sonnig.	आज सूर्य प्रकाशित है।
 It is windy today.	Es ist windig heute.	आज हवा चल रही है।
 It isn't a secret.	Es ist kein Geheimnis.	यह एक रहस्य नहीं है।
+It isn't a threat.	Es ist keine Bedrohung.	यह एक धमकी नहीं है।
+It isn't over yet.	Es ist noch nicht vorbei.	यह अभी खत्म नहीं हुआ है।
+It isn't worth it.	Es ist es nicht wert.	यह उसकी कीमत नहीं है।
+It just scares me.	Es macht mir nur Angst.	यह मुझे बस डरा देता है।
+It looks Egyptian.	Es sieht ägyptisch aus.	यह इजिप्शियन दिखता है।
+It looks familiar.	Es kommt mir bekannt vor.	यह जाने पहचाने सा लगता है।
+It looks like Tom.	Es sieht aus wie Tom.	यह टॉम के जैसा लगता है।
+It made Tom happy.	Es hat Tom glücklich gemacht.	यहने टॉम को खुश किया।
+It makes no sense.	Es ergibt keinen Sinn.	इसका कोई सार नहीं है।
+It must be a sign.	Es muss ein Zeichen sein.	यह एक संकेत होना चाहिए।
