@@ -11876,3 +11876,13 @@ Give me the book.	Gib mir das Buch.	मुझे किताब दो।
 Give me the keys.	Gib mir die Schlüssel.	मुझे चाबियाँ दो।
 Give me the soap.	Gib mir die Seife.	मुझे साबुन दो।
 Give that to Tom.	Gib das Tom.	उसे टॉम को दो।
+Give that to him.	Gib das ihm.	उसे वह दें।
+Give them to her.	Gib sie ihr.	उन्हें उसे दो।
+Give them to him.	Gib sie ihm.	उन्हें उसे दें।
+Give this to Tom.	Gib das Tom.	इसे टॉम को दे।
+Give us a moment.	Gib uns einen Moment.	हमें एक पल दो।
+Go and fetch Tom.	Geh und hol Tom.	जाओ और टॉम को लाओ।
+Go back to sleep.	Geh zurück und schlafe.	सोने के लिए वापस जाओ।
+Go on and say it.	Mach weiter und sag es.	आगे बढ़ो और कहो।
+Go over it again.	Gehe noch einmal darüber.	इस पर फिर से जाओ।
+Go play with Tom.	Geh und spiele mit Tom.	टॉम के साथ खेलने जाओ।
