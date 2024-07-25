@@ -2613,3 +2613,11 @@ I adored Tom. (different meaning)	Ich verehrte Tom.	मैंने टॉम �
 I almost won.	Ich habe fast gewonnen.	मैं लगभग जीत गया था।
 I always try.	Ich versuche es immer.	मैं हमेशा कोशिश करता हूँ।
 I always win.	Ich gewinne immer.	मैं हमेशा जीतता हूँ।
+I am Chinese.	Ich bin Chinese.	मैं चीनी हूँ।
+I am a nurse.	Ich bin Krankenschwester.	मैं एक नर्स हूँ।
+I am ashamed.	Ich schäme mich.	मैं शर्मिंदा हूँ।
+I am at home.	Ich bin zu Hause.	मैं घर पर हूँ।
+I am baffled.	Ich bin verwirrt.	मैं हैरान हूँ।
+I am curious.	Ich bin neugierig.	मैं उत्सुक हूँ।
+I am praying.	Ich bete.	मैं प्रार्थना कर रहा हूँ।
+I apologized.	Ich habe mich entschuldigt.	मैंने माफी मांगी।
