@@ -1,14 +1,4 @@
 
-We cried together.	Wir haben zusammen geweint.	हम एक साथ रोए।
-We cultivate rice.	Wir bauen Reis an.	हम चावल उगा रहे हैं।
-We demand justice.	Wir fordern Gerechtigkeit.	हम न्याय की मांग करते हैं।
-We did a good job.	Wir machten eine gute Arbeit.	हमने अच्छा काम किया।
-We didn't get far.	Wir sind nicht sehr weit gekommen.	हम बहुत दूर नहीं गए।
-We didn't see Tom.	Wir haben Tom nicht gesehen.	हमने टॉम को नहीं देखा।
-We do what we can.	Wir tun unser Bestes.	हम अपनी तरफ से सबसे अच्छा करते हैं।
-We don't have tea.	Wir haben keinen Tee.	हमारे पास कोई चाय नहीं है।
-We don't know Tom.	Wir kennen Tom nicht.	हम टॉम नहीं जानते।
-We don't know her.	Wir kennen sie nicht.	हम उन्हें नहीं जानते।
 We don't know him.	Wir kennen ihn nicht.	हम उसे नहीं जानते।
 We don't know why.	Wir wissen nicht, warum.	हम नहीं जानते, क्यों।
 We don't like Tom.	Wir mögen Tom nicht.	हमें टॉम पसंद नहीं है।

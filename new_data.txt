@@ -19506,3 +19506,13 @@ We can't tell Tom.	Wir können es Tom nicht sagen.	हम टॉम को न�
 We can't use that.	Wir können das nicht benutzen.	हम वह इस्तेमाल नहीं कर सकते।
 We can't use this.	Wir können dies nicht verwenden.	हम इसे उपयोग नहीं कर सकते।
 We close at 7 p.m.	Wir schließen um 19 Uhr.	हम सात बजे बंद करते हैं।
+We cried together.	Wir haben zusammen geweint.	हमने साथ रोया।
+We cultivate rice.	Wir bauen Reis an.	हम धान उगाते हैं।
+We demand justice.	Wir fordern Gerechtigkeit.	हम इंसाफ की माँग करते हैं।
+We did a good job.	Wir haben gute Arbeit geleistet.	हमने अच्छा काम किया।
+We didn't get far.	Wir sind nicht weit gekommen.	हमें ज्यादा दूर नहीं जाने मिला।
+We didn't see Tom.	Wir haben Tom nicht gesehen.	हमने टॉम को नहीं देखा।
+We do what we can.	Wir tun, was wir können.	हम जो कर सकते हैं, वह करते हैं।
+We don't have tea.	Wir haben keinen Tee.	हमारे पास चाय नहीं है।
+We don't know Tom.	Wir kennen Tom nicht.	हमें टॉम को नहीं जानते।
+We don't know her.	Wir kennen sie nicht.	हम उसे नहीं जानते।
