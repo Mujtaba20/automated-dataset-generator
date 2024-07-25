@@ -12862,3 +12862,12 @@ I'm dissatisfied.	Ich bin unzufrieden.	मैं असंतुष्ट हू
 I'm eating fruit.	Ich esse Obst.	मैं फल खा रहा हूँ।
 I'm eating lunch.	Ich esse Mittagessen.	मैं दोपहर का भोजन खा रहा हूँ।
 I'm dissatisfied about the result.	Ich bin mit dem Ergebnis unzufrieden.	मैं परिणाम से असंतुष्ट हूँ।
+I'm exaggerating.	Ich übertreibe.	मैं बड़ा बना रहा हूँ।
+I'm feeling sick.	Mir ist übel.	मुझे बीमारी महसूस हो रही है।
+I'm fine with it.	Es ist mir recht.	मुझे ये ठीक लगता है।
+I'm finished now.	Ich bin jetzt fertig.	मैं अब समाप्त हो गया हूँ।
+I'm freaking out.	Ich drehe durch.	मैं पागल हो रहा हूँ।
+I'm free tonight.	Ich bin heute Abend frei.	मैं आज रात फ्री हूँ।
+I'm from America.	Ich komme aus Amerika.	मैं अमेरिका से हूँ।
+I'm from the FBI.	Ich bin vom FBI.	मैं एफ़बीआई से हूँ।
+I'm full of hope.	Ich bin voller Zuversicht.	मैं पूरी उम्मीद से भरा हुआ हूँ।
