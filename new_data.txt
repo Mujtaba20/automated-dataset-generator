@@ -19605,3 +19605,10 @@ We weren't scared.	Wir hatten keine Angst.	हम डरे नहीं थे�
 We won the battle.	Wir haben die Schlacht gewonnen.	हमने युद्ध जीता।
 We'd like to help.	Wir möchten helfen.	हम मदद करना चाहेंगे।
 We'll be too late.	Wir werden zu spät sein.	हम बहुत देर से पहुंचेंगे।
+We'll consult Tom.	Wir werden Tom konsultieren.	हम टॉम से परामर्श करेंगे।
+We'll get to that.	Darauf werden wir kommen.	हम उस पर पहुंचेंगे।
+We'll go together.	Wir werden zusammen gehen.	हम साथ जाएंगे।
+We'll go with you.	Wir werden mit dir gehen.	हम तुम्हारे साथ जाएंगे।
+We'll look for it.	Wir werden danach suchen.	हम उसकी तलाश में जाएंगे।
+We'll protect you.	Wir werden dich schützen.	हम तुम्हें सुरक्षित रखेंगे।
+We'll see to that.	Wir werden dafür sorgen.	हम उस बारे में देखेंगे।
