@@ -1694,3 +1694,10 @@ I overslept.	Ich habe verschlafen.	मैंने अधिक समय सो
 I read lips.	Ich lese Lippen.	मैं होंठों को पढ़ता हूँ।
 I recovered.	Ich habe mich erholt.	मैं ठीक हो गया।
 I said stop.	Ich habe Stopp gesagt.	मैंने कह दिया रुको।
+I said that.	Ich habe das gesagt.	मैंने यह कहा।
+I saved you.	Ich habe dich gesichert.	मैंने तुम्हें सुरक्षित कर दिया।
+I saw a UFO.	Ich sah ein UFO.	मैंने एक यूएफओ देखा।
+I saw a dog.	Ich sah einen Hund.	मैंने एक कुत्ता देखा।
+I saw to it.	Ich habe darauf geachtet.	मैंने इस पर देखा।
+I see a boy.	Ich sehe einen Jungen.	मैं एक लड़का देखता हूँ।
+I smell gas.	Ich rieche Gas.	मैं गैस महसूस कर रहा हूँ।
