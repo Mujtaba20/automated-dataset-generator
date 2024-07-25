@@ -2641,3 +2641,11 @@ I can't sing.	Ich kann nicht singen.	मैं गा नहीं सकता�
 I can't stay.	Ich kann nicht bleiben.	मैं ठहर नहीं सकता।
 I can't swim.	Ich kann nicht schwimmen.	मैं तैर नहीं सकता।
 I can't talk.	Ich kann nicht sprechen.	मैं बात नहीं कर सकता।
+I can't wait.	Ich kann nicht warten.	मैं इंतजार नहीं कर सकता।
+I can't walk.	Ich kann nicht laufen.	मैं चल नहीं सकता।
+I cried, too.	Ich habe ebenfalls geweint.	मुझे भी रोया।
+I cut myself.	Ich habe mich geschnitten.	मैंने अपने आप को काट लिया।
+I deserve it.	Ich habe es verdient.	मुझे इसकी यही कीमत चुकानी पड़ेगी।
+I detest Tom.	Ich verabscheue Tom.	मुझे टॉम से नफ़रत है।
+I didn't lie.	Ich habe nicht gelogen.	मैंने झूठ नहीं बोला।
+I didn't pay.	Ich habe nicht bezahlt.	मैंने नहीं चुकाया।
