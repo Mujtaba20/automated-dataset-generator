@@ -19708,3 +19708,8 @@ engSentence7	Was hast du entdeckt?	तुमने क्या पाया?
 engSentence8	Was hast du herausgefunden?	तुमने क्या पता लगाया?
 engSentence9	Was hast du versteckt?	तुमने क्या छुपाया?
 engSentence10	Was hast du gemacht?	तुमने क्या बनाया?
+What did you miss?	Was hast du vermisst?	तुम्हे क्या मिस हुआ?
+What did you pick?	Was hast du ausgewählt?	तुने क्या चुना?
+What did you take?	Was hast du ergriffen?	तुने क्या पकड़ लिया?
+What did you want?	Was hast du gewollt?	तुम्हें क्या चाहिए था?
+What did you wear?	Was hast du getragen?	तुने क्या पहना?

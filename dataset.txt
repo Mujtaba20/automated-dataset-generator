@@ -1,17 +1,4 @@
 
-What did you miss?	Was hast du vermisst?	आपको क्या याद आया?
-What did you miss?	Was hast du verpasst?	आपको क्या याद आया?
-What did you pick?	Was haben Sie ausgesucht?	आपने क्या चुना?
-What did you take?	Was hast du genommen?	आप क्या लेंगे?
-What did you take?	Was habt ihr genommen?	आप क्या लेंगे?
-What did you take?	Was haben Sie genommen?	आप क्या लेंगे?
-What did you want?	Was wolltest du?	तुम क्या चाहते थे?
-What did you wear?	Was hattest du an?	आपके पास क्या था?
-What did you wear?	Was hatten Sie an?	तुम क्या थे?
-What did you wear?	Was hattet ihr an?	आपके पास क्या था?
-What did you wear?	Was habt ihr angehabt?	क्या आप चले गए?
-What did you wear?	Was hast du angehabt?	क्या आप चले गए?
-What did you wear?	Was haben Sie angehabt?	क्या आप चले गए?
 What do I do next?	Was mache ich als nächstes?	अब मुझे आगे क्या करना है?
 What do I owe Tom?	Was schulde ich Tom?	मैं टॉम का क्या बकाया है?
 What do I owe Tom?	Was bin ich Tom schuldig?	मैं टॉम का क्या दोषी हूं?
