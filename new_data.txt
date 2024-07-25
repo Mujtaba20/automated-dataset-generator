@@ -3660,3 +3660,11 @@ You go first.	Du gehst zuerst.	तुम पहले जाओ।
 You hurt him.	Du verletzt ihn.	तुमने उसे चोट पहुंचाई।
 You know her.	Du kennst sie.	तुम उसे जानते हो।
 You know him.	Du kennst ihn.	तुम उसे जानते हो।
+You know how.	Du weißt wie.	तुम्हें पता है कैसे।
+You look fat.	Du siehst dick aus.	तुम मोटे लग रहे हो।
+You look hot.	Du siehst heiß aus.	तुम हॉट लग रहे हो।
+You may look.	Du darfst schauen.	तुम देख सकते हो।
+You may swim.	Du darfst schwimmen.	तुम तैर सकते हो।
+You must eat.	Du musst essen.	तुम्हें खाना चाहिए।
+You promised.	Du hast versprochen.	तुमने वादा किया।
+You must eat. - 2	Du musst speisen.	तुम्हें भोजन करना चाहिए।
