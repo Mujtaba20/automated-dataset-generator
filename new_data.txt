@@ -3182,3 +3182,10 @@ Stop whining.	Hör auf zu jammern.	रोना बंद करो।
 Stop yelling!	Hör auf zu schreien!	चिल्लाना बंद करो!
 Stop, please.	Halt, bitte.	रुको, कृपया।
 Sweet dreams!	Süße Träume!	मीठे सपने!
+Sweet dreams.	Schöne Träume.	प्यारे सपने।
+Take a break.	Eine Pause machen.	एक विराम लें।
+Take command.	Übernimm das Kommando.	कमांड लें।
+Take control.	Kontrolle übernehmen.	नियंत्रण लें।
+Take it away.	Nimm es weg.	इसे दूर ले जाओ।
+Take it back.	Bring es zurück.	इसे वापस लें।
+Take it down.	Nimm es runter.	इसे नीचे ले आओ।
