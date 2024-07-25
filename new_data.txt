@@ -12058,3 +12058,13 @@ He was very poor.	Er war sehr arm.	वह बहुत गरीब था।
 He wears glasses.	Er trägt eine Brille.	वह चश्मा पहनता है।
 He wears pajamas.	Er trägt Pyjamas.	वह पजामा पहनता है।
 He went bankrupt.	Er ging bankrott.	उसकी दिवालिया हो गई।
+He went shopping.	Er ging einkaufen.	उसने खरीददारी की।
+He will be ready.	Er wird bereit sein.	वह तैयार होगा।
+He winked at her.	Er zwinkerte ihr zu.	उसने उसको इशारा किया।
+He won't beat me.	Er wird mich nicht schlagen.	वह मुझे नहीं मारेगा।
+He won't make it.	Er wird es nicht schaffen.	वह नहीं कर पाएगा।
+He works Sundays.	Er arbeitet sonntags.	वह रविवार को काम करता है।
+He writes Arabic.	Er schreibt Arabisch.	वह अरबी लिखता है।
+He's a Frenchman.	Er ist Franzose.	वह फ्रांसीसी है।
+He's a bit drunk.	Er ist ein wenig betrunken.	वह थोड़ा सा नशे में है।
+He's a bit tipsy.	Er ist ein wenig angeheitert.	वह थोड़ा सा बेहोश है।
