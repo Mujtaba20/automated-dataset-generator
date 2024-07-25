@@ -1,15 +1,4 @@
 
-What's wrong, Tom?	Was hast du, Tom?	आपके पास क्या है, टॉम?
-What's your hobby?	Was ist dein Hobby?	आपका शौक क्या है?
-What's your hobby?	Was ist Ihr Hobby?	आपका शौक क्या है?
-What's your hobby?	Was ist euer Hobby?	आपका शौक क्या है?
-What's your major?	Was ist dein Hauptfach?	आपका मुख्य विषय क्या है?
-What's your point?	Na und?	तो क्या हुआ?
-What's your price?	Wie viel würdest du dafür zahlen?	आप इसके लिए कितना भुगतान करेंगे?
-What's your price?	Was ist Ihr Preis?	तुम्हारी कीमत क्या है?
-What've you found?	Was habt ihr gefunden?	आपको क्या मिला?
-What've you found?	Was hast du gefunden?	आपने क्या पाया है?
-What've you found?	Was haben Sie gefunden?	आपको क्या मिला?
 When are you busy?	Wann bist du beschäftigt?	आप कब व्यस्त हैं
 When are you busy?	Wann seid ihr beschäftigt?	आप कब व्यस्त हैं?
 When are you busy?	Wann sind Sie beschäftigt?	आप कब व्यस्त हैं?

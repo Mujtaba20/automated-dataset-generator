@@ -19790,3 +19790,11 @@ What's this smell?	Was ist das für ein Geruch?	यह सुगंध क्य
 What's this sound?	Was ist das für ein Klang?	यह ध्वनि क्या है?
 What's this stuff?	Was ist das für ein Zeug?	यह क्या सामान है?
 What's this thing?	Was ist das für ein Ding?	यह क्या चीज़ है?
+What's wrong, Tom?	Was ist los, Tom?	टॉम, क्या ग़लत है?
+What's your hobby?	Was ist dein Hobby?	तुम्हारा शौक क्या है?
+What's your hobby? (alternate translation)	Was machst du gerne?	तुम्हारा शौक क्या है?
+What's your major?	Was ist dein Hauptfach?	तुम्हारा मुख्य विषय क्या है?
+What's your point?	Was ist dein Standpunkt?	तुम्हारा मतलब क्या है?
+What's your price?	Was ist dein Preis?	तुम्हारी कीमत क्या है?
+What's your price? (alternate translation)	Wie viel kostet es?	तुम्हारी कीमत क्या है?
+What've you found?	Was hast du gefunden?	तुम्हें क्या मिला है?
