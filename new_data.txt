@@ -4807,3 +4807,9 @@ Stop clapping.	Hör auf zu applaudieren.	दाद बजाना बंद क
 Stop dreaming.	Hör auf zu träumen.	सपना देखना बंद करो।
 Stop fighting!	Hören auf zu kämpfen!	लड़ाई करना बंद करो!
 Stop fighting.	Hör auf zu kämpfen.	लड़ना बंद करो।
+Stop laughing.	Hör auf zu lachen.	हंसना बंद करो।
+Stop meddling.	Hör auf zu mithören.	हस्तक्षेप बंद करो।
+Stop shooting.	Hör auf zu schießen.	गोली चलाना बंद करो।
+Stop shouting.	Hör auf zu schreien.	चिल्लाना बंद करो।
+Stop swearing.	Hör auf zu fluchen.	गाली देना बंद करो।
+Stop that car.	Stop das Auto.	उस गाड़ी को रोको।
