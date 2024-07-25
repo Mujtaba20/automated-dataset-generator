@@ -10584,3 +10584,12 @@ Tom leaned back.	Tom lehnte sich zurück.	टॉम पीछे मुड़ �
 Tom leaned down.	Tom beugte sich hinunter.	टॉम नीचे झुक गया।
 Tom led the way.	Tom führte den Weg.	टॉम ने रास्ता दिखाया।
 Tom left Boston.	Tom verließ Boston.	टॉम बोस्टन छोड़ दिया।
+Tom let me down.	Tom hat mich enttäuscht.	टॉम ने मुझे छोड़ दिया।
+Tom likes beans.	Tom mag Bohnen.	टॉम को राजमा पसंद है।
+Tom likes blues.	Tom mag Blues.	टॉम को नीला पसंद है।
+Tom likes chess.	Tom mag Schach.	टॉम को शतरंज पसंद है।
+Tom likes fruit.	Tom mag Obst.	टॉम को फल पसंद है।
+Tom likes games.	Tom mag Spiele.	टॉम को खेल पसंद हैं।
+Tom likes girls.	Tom mag Mädchen.	टॉम को लड़कियाँ पसंद हैं।
+Tom likes money.	Tom mag Geld.	टॉम को पैसा पसंद है।
+Tom likes music.	Tom mag Musik.	टॉम को संगीत पसंद है।
