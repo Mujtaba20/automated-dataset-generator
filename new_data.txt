@@ -11535,3 +11535,11 @@ Are you the boss?	Bist du der Chef?	क्या तुम मालिक ह�
 Are you up there?	Bist du oben?	क्या तुम वहाँ हो?
 Are you with Tom?	Bist du mit Tom?	क्या तुम टॉम के साथ हो?
 Aren't you happy?	Bist du nicht glücklich?	क्या तुम खुश नहीं हो?
+Aren't you tired?	Bist du nicht müde?	क्या तुम थक गए हो?
+Ask Tom about it.	Frag Tom danach.	उसके बारे में टॉम से पूछो।
+Ask Tom anything.	Frag Tom irgendetwas.	टॉम से कुछ भी पूछो।
+Ask Tom yourself.	Frag Tom selbst.	खुद से टॉम से पूछो।
+Ask her her name.	Frag sie nach ihrem Namen.	उसका नाम पूछो।
+Ask him his name.	Frag ihn nach seinem Namen.	उसका नाम पूछो।
+Ask me if I care.	Frag mich, ob es mir wichtig ist.	मुझसे पूछें कि क्या मुझे परवाह है।
+Ask yourself why.	Frag dich warum.	खुद से पूछें कि क्यों।
