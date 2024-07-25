@@ -4473,3 +4473,10 @@ Is he at home?	Ist er zu Hause?	क्या वह घर पर है?
 Is he correct?	Ist er korrekt?	क्या वह सही है?
 Is he looking?	Schaut er?	क्या वह देख रहा है?
 Is it a llama?	Ist es ein Lama?	क्या यह गुआल है?
+Is it damaged?	Ist es beschädigt?	क्या यह नुकसान हो गया है?
+Is it helping?	Hilft es?	क्या यह मदद कर रहा है?
+Is it my turn?	Bin ich dran?	क्या मेरी बारी है?
+Is it popular?	Ist es beliebt?	क्या यह लोकप्रिय है?
+Is it serious?	Ist es ernst?	क्या यह गंभीर है?
+Is it snowing?	Schneit es?	क्या बर्फ गिर रही है?
+Is it strange?	Ist es seltsam?	क्या यह अजीब है?
