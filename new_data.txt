@@ -2896,3 +2896,13 @@ I'm out here.	Ich bin draußen.	मैं यहाँ बाहर हूँ।
 I'm poor now.	Ich bin jetzt arm.	अब मैं गरीब हूँ।
 I'm positive.	Ich bin positiv.	मैं सकारात्मक हूँ।
 I'm pregnant.	Ich bin schwanger.	मैं गर्भवती हूँ।
+I'm reliable.	Ich bin zuverlässig.	मैं विश्वसनीय हूँ।
+I'm restless.	Ich bin ruhelos.	मैं बेचैन हूँ।
+I'm rich now.	Ich bin jetzt reich.	मैं अब धनवान हूँ।
+I'm ruthless.	Ich bin rücksichtslos.	मैं क्रूर हूँ।
+I'm safe now.	Ich bin jetzt sicher.	मैं अब सुरक्षित हूँ।
+I'm shooting.	Ich schieße.	मैं गोली चला रहा हूँ।
+I'm sleeping.	Ich schlafe.	मैं सो रहा हूँ।
+I'm so drunk.	Ich bin so betrunken.	मैं इतना नशे में हूँ।
+I'm so happy.	Ich bin so glücklich.	मैं इतना खुश हूँ।
+I'm so sorry.	Es tut mir wirklich leid.	मुझे बहुत खेद है।
