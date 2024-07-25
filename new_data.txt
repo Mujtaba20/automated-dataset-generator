@@ -10556,3 +10556,13 @@ Tom isn't tired.	Tom ist nicht müde.	टॉम थका नहीं है।
 Tom isn't tough.	Tom ist nicht hart.	टॉम कठोर नहीं है।
 Tom isn't upset.	Tom ist nicht verärgert.	टॉम उत्तेजित नहीं है।
 Tom isn't vegan.	Tom ist nicht vegan.	टॉम व्यागन नहीं है।
+Tom isn't weird.	Tom ist nicht seltsam.	टॉम अजीब नहीं है।
+Tom isn't witty.	Tom ist nicht geistreich.	टॉम मजाकिया नहीं है।
+Tom isn't wrong.	Tom hat nicht unrecht.	टॉम गलत नहीं है।
+Tom isn't young.	Tom ist nicht jung.	टॉम जवान नहीं है।
+Tom jumped back.	Tom sprang zurück.	टॉम पीछे कूद गया।
+Tom jumped bail.	Tom sprang Kaution.	टॉम कारावास से मुक्ति पाया।
+Tom just called.	Tom hat gerade angerufen.	टॉम ने बस फोन किया।
+Tom just glared.	Tom starrte einfach.	टॉम ने बस तेज नजरें डाली।
+Tom just smiled.	Tom hat gerade gelächelt.	टॉम ने बस मुस्कान की।
+Tom just stared.	Tom starrte nur.	टॉम ने बस टकटकी।
