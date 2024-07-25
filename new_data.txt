@@ -5071,3 +5071,13 @@ Tom isn't mad.	Tom ist nicht verrückt.	टॉम पागल नहीं ह�
 Tom isn't old.	Tom ist nicht alt.	टॉम बुढ़ा नहीं है।
 Tom isn't wet.	Tom ist nicht nass.	टॉम भीगा नहीं है।
 Tom joined us.	Tom hat sich uns angeschlossen.	टॉम ने हमें जॉइन किया।
+Tom just died.	Tom ist gerade gestorben.	टॉम अभी मर गया है।
+Tom just left.	Tom ist gerade gegangen.	टॉम अभी चला गया है।
+Tom kept warm.	Tom hielt sich warm.	टॉम गर्म रखा।
+Tom knew Mary.	Tom kannte Mary.	टॉम को मैरी को पहचानता था।
+Tom knew that.	Tom wusste das.	टॉम ने वह जान लिया।
+Tom knew this.	Tom wusste das.	टॉम ने यह जान लिया।
+Tom knows her.	Tom kennt sie.	टॉम उसे जानता है।
+Tom knows him.	Tom kennt ihn.	टॉम उसे जानता है।
+Tom knows now.	Tom weiß jetzt.	टॉम अब पता करता है।
+Tom knows why.	Tom weiß warum.	टॉम को पता है कि क्यों।
