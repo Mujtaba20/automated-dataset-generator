@@ -19828,3 +19828,11 @@ Where do we start?	Wo fangen wir an?	हम कहाँ से शुरुआ�
 Where do you live?	Wo wohnst du?	तुम कहाँ रहते हो?
 Where do you live? (different meaning)	Wo verweilst du?	तुम कहाँ ठहरते हो?
 Where do you park?	Wo parkst du?	तुम कहाँ पार्क करते हो?
+Where do you work?	Wo arbeitest du?	तुम कहाँ काम करते हो?
+Where is Room 105?	Wo ist Zimmer 105?	105 नंबर वाला कमरा कहाँ है?
+Where is Tom from?	Wo kommt Tom her?	तॉम कहाँ से है?
+Where is my clock?	Wo ist meine Uhr?	मेरी घड़ी कहाँ है?
+Where is my diary?	Wo ist mein Tagebuch?	मेरी डायरी कहाँ है?
+Where is my money?	Wo ist mein Geld?	मेरे पैसे कहाँ हैं?
+Where is my plate?	Wo ist mein Teller?	मेरा प्लेट कहाँ है?
+Where is my watch?	Wo ist meine Uhr?	मेरी घड़ी कहाँ है?
