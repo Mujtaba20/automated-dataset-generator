@@ -4725,3 +4725,12 @@ People change.	Menschen ändern sich.	लोग बदल जाते हैं
 Pick any card.	Nimm irgendeine Karte.	किसी भी कार्ड चुनो।
 Play it again.	Spiele es noch einmal.	इसे फिर से खेलो।
 Please go now.	Bitte geh jetzt.	कृपया अब चले जाएं।
+engSentence1	Ziehen Sie sich einen Mantel an.	एक रोब लगाओ।
+engSentence2	Leise, bitte.	शांत, कृपया।
+engSentence3	Hör auf, Zeit zu verlieren.	खिसियाना बंद करो।
+engSentence4	Lies nach mir.	मेरे बाद पढ़ो।
+engSentence5	Lies es noch einmal.	इसे फिर से पढ़ो।
+engSentence6	Lies es laut vor.	इसे उच्चारण करो।
+engSentence7	Lesen Sie es mir vor.	मुझे इसे पढ़े।
+engSentence8	Lies es mir vor.	मुझे इसे पढ़े।
+engSentence9	Lies das jetzt.	अब यह पढ़ो।
