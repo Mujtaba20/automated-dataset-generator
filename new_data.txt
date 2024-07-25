@@ -16129,3 +16129,10 @@ He wrote a letter.	Er hat einen Brief geschrieben.	उसने एक चिट
 He'll get over it.	Er wird darüber hinwegkommen.	वह इस पर हावी हो जाएगा।
 He's a big coward.	Er ist ein großer Feigling.	वह एक बड़ा कायर है।
 He's a journalist.	Er ist Journalist.	वह एक संवादपत्रकार है।
+He's already left.	Er hat bereits verlassen.	उसने पहले से ही छोड़ दिया है।
+He's an old timer.	Er ist ein alter Hase.	वह एक पुराने टाइमर है।
+He's an undergrad.	Er ist ein Student im Grundstudium.	वह एक स्नातक पाठ्यक्रम में है।
+He's deep in debt.	Er steckt tief in Schulden.	वह ऋण में डूबा हुआ है।
+He's from Georgia.	Er stammt aus Georgia.	वह जॉर्जिया से आया है।
+He's in hot water.	Er ist in Schwierigkeiten.	वह गरम पानी में है।
+He's in the joint.	Er ist im Knast.	वह जेल में है।
