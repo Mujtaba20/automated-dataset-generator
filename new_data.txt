@@ -14407,3 +14407,13 @@ Tom just watches.	Tom schaut gerade.	टॉम अभी देख रहा ह
 Tom just woke up.	Tom ist gerade aufgewacht.	टॉम अभी जागा।
 Tom kept digging.	Tom grub weiterhin.	टॉमने जरा से पुरे पहलुवाला जारी रखा।
 Tom kept driving.	Tom fuhr weiter.	टॉमने चलाना जारी रखा।
+Tom kept focused.	Tom blieb konzentriert.	टॉम ध्यान केंद्रित रहा।
+Tom kept packing.	Tom hielt das Packen aufrecht.	टॉम भराई जारी रखा।
+Tom kept playing.	Tom spielte weiter.	टॉम खेलता रहा।
+Tom kept pushing.	Tom hielt das Schieben aufrecht.	टॉम धक्के देता रहा।
+Tom kept reading.	Tom las weiter.	टॉम पढ़ता रहा।
+Tom kept running.	Tom blieb am Laufen.	टॉम दौड़ता रहा।
+Tom kept sighing.	Tom seufzte weiterhin.	टॉम साँस फूंकता रहा।
+Tom kept singing.	Tom sang weiter.	टॉम गाता रहा।
+Tom kept smiling.	Tom lächelte weiterhin.	टॉम मुस्कान बरकरार रखता।
+Tom kept staring.	Tom starrte weiter.	टॉम देखने में लगा रहा।
