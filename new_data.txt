@@ -2205,3 +2205,12 @@ Tom's dying.	Toms sterbend.	टॉम मर रहा है।
 Tom's flaky.	Toms schuppig.	टॉम फ्लेकी है।
 Tom's funny.	Toms lustig.	टॉम मजाकिया है।
 Tom's great.	Toms großartig.	टॉम शानदार है।
+Tom's happy.	Tom ist glücklich.	टॉम खुश है।
+Tom's lucky.	Tom hat Glück.	टॉम भाग्यशाली है।
+Tom's lying.	Tom lügt.	टॉम झूठ बोल रहा है।
+Tom's older.	Tom ist älter.	टॉम बड़ा है।
+Tom's pushy.	Tom ist aufdringlich.	टॉम ज़ोरदार है।
+Tom's right.	Tom hat recht.	टॉम सही है।
+Tom's smart.	Tom ist schlau.	टॉम चालाक है।
+Tom's sorry.	Tom tut mir leid.	मुझे टॉम से क्षमा चाहिए।
+Tom's tipsy.	Tom ist angetrunken.	टॉम थोड़ा नशेड़ी है।
