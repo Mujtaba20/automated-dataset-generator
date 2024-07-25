@@ -16195,3 +16195,11 @@ How complex is it?	Wie schwierig ist das?	यह कितना अशक्त
 How did Tom react?	Wie hat Tom reagiert?	टॉम ने कैसे प्रतिक्रिया दी?
 How did it happen?	Wie ist das passiert?	यह कैसे हुआ?
 How did that work?	Wie hat das funktioniert?	वह कैसे काम किया?
+How did they know?	Wie wussten sie das?	उन्हें यह कैसे पता चला?
+How did you do it?	Wie hast du das gemacht?	तुमने यह कैसे किया?
+How did you guess?	Wie hast du geraten?	तुमने कैसे अनुमान लगाया?
+How did you reply?	Wie hast du geantwortet?	तुमने कैसे जवाब दिया?
+How disappointing!	Wie enttäuschend!	कितना निराशाजनक!
+How do I know you?	Wie kenne ich dich?	मैं तुम्हें कैसे जानूँ?
+How do I stop Tom?	Wie halte ich Tom auf?	मैं टॉम को कैसे रोकूँ?
+How do I use this?	Wie benutze ich das?	मैं यह कैसे उपयोग करूँ?
