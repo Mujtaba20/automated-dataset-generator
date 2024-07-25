@@ -13263,3 +13263,8 @@ Leave that there.	Lass das dort.	उसे वहाँ छोड़ दो।
 Leave that to me.	Überlass das mir.	मुझे ही छोड़ दें।
 Leave them alone.	Lass sie in Ruhe.	उन्हें अकेले छोड़ दो।
 Leave this to me.	Überlass das mir.	इसे मुझे ही छोड़ दो।
+Let Tom carry it.	Lass Tom es tragen.	टॉम को इसे उठाने दो।
+Let go of my arm!	Lass meinen Arm los!	मेरे हाथ छोड़ दो!
+Let go of my arm.	Lass meine Hand los.	मेरे हाथ छोड़ो।
+Let me do my job.	Lass mich meine Arbeit machen.	मुझे मेरा काम करने दो।
+Let me handle it.	Lass es mich regeln.	मुझे इसे संभालने दो।
