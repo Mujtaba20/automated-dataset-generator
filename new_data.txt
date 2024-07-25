@@ -12789,3 +12789,12 @@ I'll go in first.	Ich gehe zuerst rein.	मैं पहले अंदर ज�
 I'll go in first. (Different meaning)	Ich werde zuerst hineingehen.	मैं पहले ही अंदर जाऊँगा।
 I'll go in first. (Different meaning 2)	Ich gehe als Erster rein.	मैं पहले ही अंदर जा रहा हूँ।
 I'll go on ahead.	Ich werde vorausgehen.	मैं आगे जाऊँगा।
+I'll go tell Tom.	Ich werde Tom erzählen gehen.	मैं टॉम को बताने जाऊंगा।
+I'll go this way.	Ich werde diesen Weg gehen.	मैं इस तरफ जाऊंगा।
+I'll go with Tom.	Ich werde mit Tom gehen.	मैं टॉम के साथ जाऊंगा।
+I'll go with you.	Ich werde mit dir gehen.	मैं तुम्हारे साथ जाऊंगा।
+I'll lose weight.	Ich werde abnehmen.	मैं वजन घटाऊंगा।
+I'll never learn.	Ich werde niemals lernen.	मैं कभी नहीं सीखूंगा।
+I'll pay for you.	Ich werde für dich bezahlen.	मैं तुम्हारे लिए भुगतान करूंगा।
+I'll protect Tom.	Ich werde Tom beschützen.	मैं टॉम की रक्षा करूंगा।
+I'll replace Tom.	Ich werde Tom ersetzen.	मैं टॉम की जगह लूँगा।
