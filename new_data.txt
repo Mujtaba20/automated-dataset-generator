@@ -5841,3 +5841,11 @@ He trusted you.	Er hat dir vertraut.	उसने तुम पर भरोस�
 He walked away.	Er ging weg.	उसने चले गए।
 He walked home.	Er ging nach Hause.	उसने घर चला गया।
 He wants to go.	Er will gehen.	वह जाना चाहता है।
+He was English.	Er war Engländer.	वह अंग्रेज़ था।
+He was at home.	Er war daheim.	वह घर पर रहता था।
+He was drowned.	Er ertrank.	उसने डूबने की स्थिति में थी।
+He was in pain.	Er hatte Schmerzen.	उसे दर्द हो रहा था।
+He was invited.	Er wurde eingeladen.	उसे निमंत्रित किया गया था।
+He was my boss.	Er war mein Chef.	वह मेरे बॉस थे।
+He was perfect.	Er war vollkommen.	वह उत्तम था।
+He was stunned.	Er war fassungslos.	उसे चौंका दिया गया था।
