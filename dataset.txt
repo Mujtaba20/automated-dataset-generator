@@ -1,14 +1,4 @@
 
-Tom behaved badly.	Tom benahm sich schlecht.	टॉम ने बुरा व्यवहार किया।
-Tom believed Mary.	Tom glaubte Maria.	टॉम ने मारिया का मानना ​​था।
-Tom believes Mary.	Tom glaubt Maria.	टॉम का मानना ​​है कि मारिया।
-Tom believes that.	Tom glaubt das.	टॉम का मानना ​​है कि।
-Tom betrayed Mary.	Tom verriet Maria.	टॉम ने मारिया का खुलासा किया।
-Tom bikes to work.	Tom fährt mit dem Fahrrad zur Arbeit.	टॉम बाइक से काम करने जाता है।
-Tom blinked again.	Tom hat wieder mit den Augen gezwinkert.	टॉम ने अपनी आँखों से वापस झपकी ली।
-Tom blinked again.	Tom blinzelte erneut.	टॉम ने फिर से झपकी ली।
-Tom blushed again.	Tom wurde wieder rot.	टॉम फिर से लाल हो गया।
-Tom blushed again.	Tom ist wieder errötet.	टॉम फिर से शरमा गया है।
 Tom borrowed mine.	Tom hat sich meinen geliehen.	टॉम ने मेरा उधार लिया।
 Tom borrowed mine.	Tom hat sich meinen ausgeborgt.	टॉम ने मेरा उधार लिया है।
 Tom bought a book.	Tom kaufte ein Buch.	टॉम ने एक किताब खरीदी।

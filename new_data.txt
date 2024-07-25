@@ -18334,3 +18334,11 @@ Tom began to move.	Tom begann sich zu bewegen.	टॉम चलने लगा�
 Tom began to sing.	Tom begann zu singen.	टॉम गानेलगा।
 Tom began to talk.	Tom begann zu sprechen.	टॉम बात करने लगा।
 Tom began working.	Tom begann zu arbeiten.	टॉम काम करने लगा।
+Tom behaved badly.	Tom hat sich schlecht verhalten.	टॉम ने बुरी तरह से व्यवहार किया।
+Tom believed Mary.	Tom glaubte Mary.	टॉम किसी विश्वास था
+Tom believes Mary.	Tom glaubt Mary.	टॉम मेरी पर विश्वास करता है।
+Tom believes that.	Tom glaubt das.	टॉम यह मानता है।
+Tom betrayed Mary.	Tom hat Maria verraten.	टॉम ने मेरी को धोखा दिया।
+Tom bikes to work.	Tom fährt mit dem Fahrrad zur Arbeit.	टॉम अपनी माँ से घर पर चलता है।
+Tom blinked again.	Tom zwinkerte erneut.	टॉम फिर से ज़पकाया।
+Tom blushed again.	Tom errötete erneut.	टॉम पुनः लाल हो गया।
