@@ -6504,3 +6504,13 @@ I've solved it.	Ich habe es gelöst.	मैंने इसे हल किय�
 Is Boston safe?	Ist Boston sicher?	क्या बोस्टन सुरक्षित है?
 Is French easy?	Ist Französisch einfach?	क्या फ्रेंच आसान है?
 Is Tom adopted?	Ist Tom adoptiert?	क्या टॉम को गोद लिया गया है?
+Is Tom in pain?	Hat Tom Schmerzen?	क्या टॉम को दर्द हो रहा है?
+Is Tom jealous?	Ist Tom eifersüchtig?	क्या टॉम पर जलन है?
+Is Tom married?	Ist Tom verheiratet?	क्या टॉम शादीशुदा है?
+Is Tom nervous?	Ist Tom nervös?	क्या टॉम घबराया हुआ है?
+Is Tom outside?	Ist Tom draußen?	क्या टॉम बाहर है?
+Is Tom retired?	Ist Tom im Ruhestand?	क्या टॉम सेवानिवृत्त है?
+Is Tom serious?	Ist Tom ernst?	क्या टॉम गंभीर है?
+Is Tom singing?	Singt Tom?	क्या टॉम गा रहा है?
+Is Tom smiling?	Lächelt Tom?	क्या टॉम मुस्कान दिखा रहा है?
+Is Tom with us?	Ist Tom bei uns?	क्या टॉम हमारे साथ है?
