@@ -18165,3 +18165,12 @@ They went outside.	Sie gingen nach draußen.	वे बाहर गए।
 They went surfing.	Sie gingen surfen.	वे सर्फिंग करने गए थे।
 They were engaged.	Sie waren verlobt.	वे संबंधित थे।
 They were friends.	Sie waren Freund.	वे दोस्त थे।
+They were panting.	Sie keuchten.	उन्हें सांस फूल रही थी।
+They were perfect.	Sie waren perfekt.	वे बिल्कुल सही थे।
+They were shocked.	Sie waren schockiert.	उन्हें चौंका दिया गया था।
+They were trapped.	Sie waren gefangen.	वे फंसे हुए थे।
+They were worried.	Sie waren besorgt.	उन्हें चिंतित था।
+They will survive.	Sie werden überleben.	वे जीवित रहेंगे।
+They wouldn't lie.	Sie würden nicht lügen.	वे झूठ नहीं बोलेंगे।
+They'll be afraid.	Sie werden Angst haben.	उन्हें डरा होगा।
+They'll like that.	Das wird ihnen gefallen.	उन्हें यह पसंद आएगा।

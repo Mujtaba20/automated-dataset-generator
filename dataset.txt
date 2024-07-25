@@ -1,14 +1,4 @@
 
-They were panting.	Sie keuchten.	वे चमकते हैं।
-They were perfect.	Sie waren perfekt.	वे परफेक्ट थे।
-They were shocked.	Sie waren schockiert.	वे हैरान थे।
-They were trapped.	Sie saßen in der Falle.	वे जाल में बैठ गए।
-They were worried.	Sie waren besorgt.	वे चिंतित थे।
-They will survive.	Sie werden überleben.	वे बच जाएंगे।
-They wouldn't lie.	Sie würden nicht lügen.	आप झूठ नहीं बोलेंगे।
-They'll be afraid.	Sie werden Angst haben.	आप डरेंगे।
-They'll be afraid.	Sie werden sich fürchten.	आप डरेंगे।
-They'll like that.	Sie werden das mögen.	आपको वह पसंद आएगा।
 They'll love that.	Sie werden das gernhaben.	तुम खुश हो जाओगे।
 They'll love that.	Die werden das lieben.	उन्हें वह पसंद आएगा।
 They'll need help.	Sie werden Hilfe brauchen.	आपको मदद की आवश्यकता होगी।
