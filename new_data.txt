@@ -12507,3 +12507,12 @@ I like this room.	Ich mag dieses Zimmer.	मुझे यह कमरा पस
 I like this town.	Ich mag diese Stadt.	मुझे यह गाँव पसंद है।
 I like this town. (different meaning)	Ich mag diese Stadt auch.	मुझे यह गाँव भी पसंद है।
 I like traveling.	Ich mag reisen.	मुझे यात्रा करना पसंद है।
+I like what I do.	Ich mag, was ich tue.	मुझे वही अच्छा लगता है जो मैं करता हूँ।
+I like you a lot.	Ich mag dich sehr.	मुझे तुम बहुत पसंद हो।
+I like your city.	Ich mag deine Stadt.	मुझे तुम्हारे शहर पसंद है।
+I like your dogs.	Ich mag deine Hunde.	मुझे तुम्हारे कुत्ते पसंद हैं।
+I like your hair.	Ich mag deine Haare.	मुझे तुम्हारे बाल पसंद हैं।
+I like your idea.	Ich mag deine Idee.	मुझे तुम्हारी विचार पसंद है।
+I like your legs.	Ich mag deine Beine.	मुझे तुम्हारी टांगें पसंद हैं।
+I like your room.	Ich mag dein Zimmer.	मुझे तुम्हारा कमरा पसंद है।
+I liked it a lot.	Ich mochte es sehr.	मुझे यह बहुत पसंद था।
