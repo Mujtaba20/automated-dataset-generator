@@ -5220,3 +5220,11 @@ Tom's thirsty.	Tom hat Durst.	टॉम प्यासा है।
 Tom's unarmed.	Tom ist unbewaffnet.	टॉम सशस्त्रहीन है।
 Tom's useless.	Tom ist nutzlos.	टॉम बेकार है।
 Tom's violent.	Tom ist gewalttätig.	टॉम हिंसक है।
+Tom's wounded.	Toms verletzt.	टॉम चोटिल है।
+Tom's yelling.	Tom schreit.	टॉम चिल्ला रहा है।
+Tom, I'm here.	Tom, ich bin hier.	टॉम, मैं यहाँ हूँ।
+Tom, I'm home.	Tom, ich bin zu Hause.	टॉम, मैं घर पर हूं।
+Try and do it.	Probier es aus.	यह करने की कोशिश करो।
+Use your feet.	Benutze deine Füße.	अपने पैरों का उपयोग करें।
+Use your fist.	Benutze deine Faust.	अपने मुठ्ठी का उपयोग करें।
+Wait a minute.	Warte mal.	एक मिनट रुको।
