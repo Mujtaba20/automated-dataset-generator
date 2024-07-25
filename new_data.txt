@@ -469,3 +469,8 @@ Do it now.	Mach es jetzt.	अब करो।
 Dogs bark.	Hunde bellen.	कुत्ते भौंकते हैं।
 Don't ask.	Frag nicht.	पूछना मत।
 Don't cry.	Träne nicht.	मत रो।
+Don't die.	Nicht sterben.	मत मरो।
+Don't lie.	Nicht lügen.	झूठ मत बोलो।
+Don't run.	Nicht rennen.	दौड़ो मत।
+Excuse me.	Entschuldigen Sie mich.	क्षमा करें।
+Fantastic!	Fantastisch!	शानदार!
