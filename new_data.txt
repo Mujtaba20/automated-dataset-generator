@@ -12625,3 +12625,11 @@ I prefer reading.	Ich lese lieber.	मुझे पढ़ना अधिक प
 I prefer to read.	Ich ziehe es vor zu lesen.	मैं पढ़ना पसंद करता हूँ।
 I quit on Monday.	Ich habe am Montag aufgehört.	मैंने सोमवार को छोड़ दिया।
 I ran downstairs.	Ich rannte die Treppe hinunter.	मैंने नीचे भागा।
+I ran out of gas.	Mir ging das Benzin aus.	मेरा पेट्रोल खत्म हो गया।
+I ran out of ink.	Mir ging die Tinte aus.	मेरे पास स्याही खत्म हो गई।
+I read the Times.	Ich habe die Zeitung gelesen.	मैंने टाइम्स पढ़ी।
+I read the label.	Ich habe das Etikett gelesen.	मैंने लेबल पढ़ा।
+I read your book.	Ich habe dein Buch gelesen.	मैंने तुम्हारी किताब पढ़ी।
+I really am busy.	Ich bin wirklich beschäftigt.	मैं वास्तव में व्यस्त हूँ।
+I really hope so.	Ich hoffe wirklich so.	मैं सचमुच उम्मीद करता हूँ।
+I really like it.	Es gefällt mir wirklich gut.	मुझे यह वास्तव में अच्छा लगता है।
