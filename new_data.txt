@@ -5097,3 +5097,9 @@ Tom lost Mary.	Tom hat Mary verloren.	टॉम ने मेरी को ख�
 Tom loved you.	Tom hat dich geliebt.	टॉम ने तुम्हें प्यार किया।
 Tom loves you.	Tom liebt dich.	टॉम तुमसे प्यार करते हैं।
 Tom made rice.	Tom hat Reis gemacht.	टॉम ने चावल बनाया।
+Tom may be OK.	Tom könnte in Ordnung sein.	तोम ठीक हो सकता है।
+Tom may be up.	Tom könnte auf sein.	तोम उठ सकता है।
+Tom may leave.	Tom könnte gehen.	तोम जा सकता है।
+Tom might cry.	Tom könnte weinen.	तोम रो सकता है।
+Tom needs you.	Tom braucht dich.	तोम्हें तुम्हारे जरुरत है।
+Tom opened up.	Tom hat sich geöffnet.	टॉम खुल गया।
