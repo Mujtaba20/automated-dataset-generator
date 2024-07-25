@@ -1207,3 +1207,9 @@ Scoot over.	Rutsch mal rüber.	आगे स्कूट करो.
 Shadow him.	Schattiere ihn.	उसकी परछाई बनो।
 She is old.	Sie ist alt.	वह बूढ़ी है।
 She smiled.	Sie lächelte.	वह हँसी।
+She's busy.	Sie ist beschäftigt.	वह व्यस्त है।
+She's mine.	Sie gehört mir.	वह मेरी है।
+Sing along.	Singe mit.	साथ गाओ।
+Smell this.	Riech das.	इसे सुन्दर सूगना।
+Start here.	Beginnen Sie hier.	यहाँ शुरू करें।
+Start over.	Von vorne anfangen.	फिर से शुरू करो।
