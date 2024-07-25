@@ -10095,3 +10095,12 @@ This is immoral.	Das ist unmoralisch.	यह अनैतिक है।
 This is my bike.	Das ist mein Fahrrad.	यह मेरी साइकिल है।
 This is my book.	Das ist mein Buch.	यह मेरी किताब है।
 This is my desk.	Das ist mein Schreibtisch.	यह मेरा डेस्क है।
+This is my doll.	Das ist meine Puppe.	यह मेरी गुड़िया है।
+This is my fate.	Das ist mein Schicksal.	यह मेरा भाग्य है।
+This is my home.	Das ist mein Zuhause.	यह मेरा घर है।
+This is my plan.	Das ist mein Plan.	यह मेरी योजना है।
+This is my room.	Das ist mein Zimmer.	यह मेरा कमरा है।
+This is no good.	Das ist nicht gut.	यह अच्छा नहीं है।
+This is no joke.	Das ist kein Witz.	यह मजाक नहीं है।
+This is nothing.	Das ist nichts.	यह कुछ नहीं है।
+This is our car.	Das ist unser Auto.	यह हमारी कार है।
