@@ -13166,3 +13166,12 @@ It's almost time.	Es ist fast Zeit.	यह लगभग समय है।
 It's always open.	Es ist immer offen.	यह हमेशा खुला है।
 It's an illusion.	Es ist eine Illusion.	यह एक माया है।
 It's an open bar.	Es ist eine offene Bar.	यह एक खुला बार है।
+It's bad for you.	Es ist schlecht für dich.	यह तुम्हारे लिए बुरा है।
+It's balmy today.	Heute ist es mild.	आज यह गरमी है।
+It's become dark.	Es ist dunkel geworden.	यह अंधेरा हो गया है।
+It's bitter cold.	Es ist bitterkalt.	यह खट्टा सर्दी है।
+It's clearing up.	Es klart auf.	यह स्पष्ट हो रहा है।
+It's comfortable.	Es ist angenehm.	यह सुखद है।
+It's complicated.	Es ist kompliziert.	यह जटिल है।
+It's conceivable.	Es ist vorstellbar.	यह संभावनीय है।
+It's dark inside.	Es ist dunkel drinnen.	अंदर काली है।
