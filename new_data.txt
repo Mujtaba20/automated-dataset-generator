@@ -11324,3 +11324,9 @@ You are the one.	Du bist derjenige.	तुम एक हो।
 You aren't dead.	Du bist nicht tot.	तुम मरे नहीं हो।
 You are the one. - different meaning	Du bist einzigartig.	तुम वह एक हो।
 You aren't dead. - different meaning	Du lebst noch.	तुम मरे नहीं हो।
+You aren't here.	Du bist nicht hier.	तुम यहाँ नहीं हो।
+You aren't late.	Du bist nicht spät.	तुम देर से नहीं हो।
+You aren't rich.	Du bist nicht reich.	तुम धनवान नहीं हो।
+You betrayed me.	Du hast mich verraten.	तुमने मुझे धोखा दिया।
+You better hide.	Du solltest dich besser verstecken.	तुम्हें बेहतर छुपना चाहिए।
+You can have it.	Du darfst es haben.	तुम्हें इसे ले सकते हो।
