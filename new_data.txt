@@ -5484,3 +5484,7 @@ You'll get it.	Du wirst es bekommen.	तुम इसे प्राप्त �
 You'll go far.	Du wirst weit gehen.	तुम दूर जाओगे।
 You'll see it.	Du wirst es sehen.	तुम इसे देखोगे।
 You're a liar.	Du bist ein Lügner.	तुम झूठे हो।
+You're biased.	Du bist parteiisch.	आप पक्षपाती हैं।
+You're famous.	Du bist bekannt.	आप प्रसिद्ध हैं।
+You're insane.	Du bist verrückt.	आप पागल हैं।
+You're joking!	Du machst Scherze!	आप मजाक कर रहे हैं!
