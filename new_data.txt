@@ -262,3 +262,8 @@ You run.	Du läufst.	तुम दौड़ो.
 You run. (different meaning)	Sie führen.	तुम चले जाओ.
 You won.	Du hast gewonnen.	तुम जीत गए.
 All rise.	Alle stehen auf.	सब उठें।
+Am I fat?	Bin ich fett?	क्या मैं मोटा हूँ?
+Ask them.	Frag sie.	उनसे पूछो।
+Back off.	Geh weg.	पीछे हटो।
+Be a man.	Sei ein Mann.	एक मर्द बनो।
+Be brave.	Sei mutig.	धीरे बनो।
