@@ -2872,3 +2872,10 @@ I'm in Perth.	Ich bin in Perth.	मैं पर्थ में हूँ।
 I'm in a jam.	Ich stecke in der Klemme.	मैं एक दुर्गति में हूँ।
 I'm innocent.	Ich bin unschuldig.	मैं निर्दोष हूँ।
 I'm like Tom.	Ich bin wie Tom.	मैं टॉम जैसा हूँ।
+I'm managing.	Ich komme zurecht.	मैं प्रबंधन कर रहा हूँ।
+I'm no angel.	Ich bin kein Engel.	मैं कोई फरिश्ता नहीं हूँ।
+I'm no rebel.	Ich bin kein Rebell.	मैं कोई बाग़ी नहीं हूँ।
+I'm no saint.	Ich bin kein Heiliger.	मैं कोई संत नहीं हूँ।
+I'm not busy.	Ich bin nicht beschäftigt.	मैं व्यस्त नहीं हूँ।
+I'm not dead.	Ich bin nicht tot.	मैं मरा नहीं हूँ।
+I'm not deaf.	Ich bin nicht taub.	मैं बहरा नहीं हूँ।
