@@ -1843,3 +1843,13 @@ I've had it.	Ich hatte es.	मैंने यह पहले ही कर ल
 Ignore that.	Ignoriere das.	उसे नजरअंदाज करो।
 Ignore them.	Ignoriere sie.	उन्हें नजरअंदाज करो।
 Ignore them. (different meaning)	Ignoriere sie.	उनको छोड़ दो।
+Is Tom busy?	Ist Tom beschäftigt?	क्या टॉम व्यस्त है?
+Is Tom good?	Ist Tom gut?	क्या टॉम अच्छे हैं?
+Is Tom here?	Ist Tom hier?	क्या टॉम यहाँ है?
+Is Tom next?	Ist Tom der Nächste?	क्या टॉम अगला है?
+Is Tom sick?	Ist Tom krank?	क्या टॉम बीमार है?
+Is Tom sure?	Ist Tom sicher?	क्या टॉम पक्का है?
+Is Tom tall?	Ist Tom groß?	क्या टॉम लम्बा है?
+Is Tom well?	Ist Tom gut?	क्या टॉम ठीक है?
+Is he right?	Hat er recht?	क्या वह सही है?
+Is it Tom's?	Ist es Toms?	क्या यह टॉम का है?
