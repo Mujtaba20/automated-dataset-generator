@@ -14105,3 +14105,13 @@ Tom hated school.	Tom hasste die Schule.	टॉम नफरत करता थ
 Tom hates olives.	Tom hasst Oliven.	टॉम को जैतून से नफरत है।
 Tom hates onions.	Tom hasst Zwiebeln.	टॉम को प्याज से नफरत है।
 Tom hates sports.	Tom hasst Sport.	टॉम को खेलों से नफरत है।
+Tom headed south.	Tom fuhr nach Süden.	टॉम दक्षिण में उद्यान में चला गया।
+Tom heard sirens.	Tom hörte Sirenen.	टॉम घुटन बजते हुए सुना।
+Tom helped a lot.	Tom half sehr.	टॉम बहुत मदद की।
+Tom helped again.	Tom half wieder.	टॉम फिर से मदद की।
+Tom hit me first.	Tom hat mich zuerst geschlagen.	टॉम ने मुझे पहले मारा।
+Tom hit me twice.	Tom hat mich zweimal geschlagen.	टॉम ने मुझे दो बार मारा।
+Tom hit the mark.	Tom traf den Punkt.	टॉम ने लक्ष्य को छू दिया।
+Tom hoped to win.	Tom hoffte zu gewinnen.	टॉम जीतने की आशा करता था।
+Tom hummed along.	Tom summte mit.	टॉम गाते रहे।
+Tom hurried away.	Tom eilte weg.	टॉम जल्दी से चला गया।
