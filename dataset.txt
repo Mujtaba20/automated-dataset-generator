@@ -1,15 +1,4 @@
 
-Tom went downtown.	Tom ging in die Stadt.	टॉम शहर में चला गया।
-Tom went on board.	Tom ging an Bord.	टॉम बोर्ड पर चला गया।
-Tom went shopping.	Tom ging einkaufen.	टॉम खरीदारी करने गया।
-Tom went upstairs.	Tom ging nach oben.	टॉम ऊपर चला गया।
-Tom will be angry.	Tom wird sauer sein.	टॉम गुस्से में होगा।
-Tom will be happy.	Tom wird sich freuen.	टॉम खुश होगा।
-Tom will be ready.	Tom wird bereit sein.	टॉम तैयार हो जाएगा।
-Tom will be there.	Tom wird dort sein.	टॉम वहाँ होगा।
-Tom will be tired.	Tom wird müde sein.	टॉम थक जाएगा।
-Tom will beat you.	Tom wird dich besiegen.	टॉम आपको हरा देगा।
-Tom will beat you.	Tom wird dich schlagen.	टॉम आपको हरा देगा।
 Tom will catch us.	Tom wird uns fangen.	टॉम हमें पकड़ लेगा।
 Tom will complain.	Tom wird sich beschweren.	टॉम शिकायत करेंगे।
 Tom will continue.	Tom wird weitermachen.	टॉम जारी रहेगा।

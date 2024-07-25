@@ -19384,3 +19384,13 @@ Tom waved at Mary.	Tom winkte Mary zu.	टॉम ने मैरी को ह�
 Tom waved goodbye.	Tom winkte zum Abschied.	टॉम ने अलविदा कहा।
 Tom wears glasses.	Tom trägt eine Brille.	टॉम चश्मे पहनता है।
 Tom went clubbing.	Tom ging in die Disco.	टॉम क्लब में गया।
+Tom went downtown.	Tom ist in die Innenstadt gegangen.	टॉम नगर गया।
+Tom went on board.	Tom ist an Bord gegangen.	टॉम बोर्ड पर गया।
+Tom went shopping.	Tom ist einkaufen gegangen.	टॉम खरीददारी करने गया।
+Tom went upstairs.	Tom ist nach oben gegangen.	टॉम ऊपर गया।
+Tom will be angry.	Tom wird wütend sein.	टॉम गुस्सा होगा।
+Tom will be happy.	Tom wird glücklich sein.	टॉम खुश होगा।
+Tom will be ready.	Tom wird bereit sein.	टॉम तैयार होगा।
+Tom will be there.	Tom wird da sein.	टॉम वहाँ होगा।
+Tom will be tired.	Tom wird müde sein.	टॉम थका हुआ होगा।
+Tom will beat you.	Tom wird dich schlagen.	टॉम तुम्हें पीटेगा।
