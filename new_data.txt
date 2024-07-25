@@ -13030,3 +13030,12 @@ Is she all right?	Geht es ihr gut?	क्या वह ठीक है?
 Is someone there?	Ist jemand da?	क्या कोई है?
 Is that a coyote?	Ist das ein Kojote?	क्या वह एक कोयोट है?
 Is that a pencil?	Ist das ein Bleistift?	क्या वह एक पेंसिल है?
+Is that a riddle?	Ist das ein Rätsel?	क्या यह एक पहेली है?
+Is that an order?	Ist das ein Befehl?	क्या वह एक आदेश है?
+Is that for sale?	Ist das zu verkaufen?	क्या वह बिक्री के लिए है?
+Is that for sale? (different meaning)	Ist das zum Verkauf?	क्या यह बेचने के लिए है?
+Is that from Tom?	Ist das von Tom?	क्या वह टॉम से है?
+Is that possible?	Ist das möglich?	क्या यह संभव है?
+Is that possible? (different meaning)	Ist das denkbar?	क्या यह संभावित है?
+Is that suitable?	Ist das passend?	क्या वह उपयुक्त है?
+Is that the plan?	Ist das der Plan?	क्या यह योजना है?
