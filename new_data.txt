@@ -14426,3 +14426,11 @@ Tom kept writing.	Tom schrieb weiter.	टॉम लिखते रहे।
 Tom kept yelling.	Tom schrie weiter.	टॉम चिल्लाते रहे।
 Tom killed a man.	Tom tötete einen Mann.	टॉम एक आदमी को मार दिया।
 Tom knew nothing.	Tom kannte nichts.	टॉम कुछ नहीं समझा।
+Tom knows Boston.	Tom kennt Boston.	टॉम बोस्टन को जानता है।
+Tom knows French.	Tom weiß Französisch.	टॉम फ्रांसीसी जानता है।
+Tom knows I know.	Tom weiß, dass ich weiß.	टॉम यह जानता है कि मैं जानता हूँ।
+Tom knows better.	Tom weiß es besser.	टॉम बेहतर जानता है।
+Tom knows horses.	Tom kennt Pferde.	टॉम घोड़े जानता है।
+Tom knows people.	Tom kennt Leute.	टॉम लोगों को जानता है।
+Tom knows things.	Tom kennt Dinge.	टॉम चीज़ें जानता है।
+Tom laughed, too.	Tom lachte auch.	टॉम भी हंसा।
