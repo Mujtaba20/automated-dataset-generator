@@ -1498,3 +1498,7 @@ Don't stare. 2	Nicht glotzen.	टांगना मना है।
 Don't stare. 3	Nicht anstarren.	घूरने मत देखो।
 Don't worry.	Keine Sorge.	चिंता मत करो।
 Don't worry. 2	Mach dir keine Sorgen.	फिकर मत करो।
+Eat with us.	Esse mit uns.	हमारे साथ भोजन करो।
+Finish this.	Beendet dies.	इसे समाप्त करो।
+Flip a coin.	Münze werfen.	सिक्का फेंकिए।
+Forgive Tom.	Vergebt Tom.	टॉम को माफ करो।
