@@ -10144,3 +10144,13 @@ Tom already ate.	Tom hat bereits gegessen.	टॉम ने पहले ही 
 Tom also dances.	Tom tanzt auch.	टॉम भी नृत्य करता है।
 Tom also saw it.	Tom hat es auch gesehen.	टॉम ने भी देखा।
 Tom also smiled.	Tom hat auch gelächelt.	तोम ने भी मुस्काया।
+Tom also talked.	Tom hat auch gesprochen.	टॉम ने भी बात की।
+Tom always lies.	Tom lügt immer.	टॉम हमेशा झूठ बोलता है।
+Tom always wins.	Tom gewinnt immer.	टॉम हमेशा जीतता है।
+Tom approved it.	Tom hat es genehmigt.	टॉम ने इसे मंजूरी दी।
+Tom asked again.	Tom hat wieder gefragt.	टॉम ने फिर से पूछा।
+Tom ate nothing.	Tom hat nichts gegessen.	टॉम ने कुछ नहीं खाया।
+Tom ate quickly.	Tom hat schnell gegessen.	टॉम ने जल्दी से खाया।
+Tom ate quietly.	Tom hat leise gegessen.	टॉम ने शांति से खाया।
+Tom attacked me.	Tom griff mich an.	टॉम ने मुझपर हमला किया।
+Tom backed away.	Tom ist zurückgewichen.	टॉम पीछे हट गया।
