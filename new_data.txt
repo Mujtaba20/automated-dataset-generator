@@ -17978,3 +17978,13 @@ That's the spirit.	Das ist der Geist.	यह अभिमान है।
 That's very cruel.	Das ist sehr grausam.	यह बहुत क्रूर है।
 That's very funny.	Das ist sehr lustig.	यह बहुत ही मजेदार है।
 That's very handy.	Das ist sehr praktisch.	यह बहुत ही उपयोगी है।
+That's very sweet.	Das ist sehr süß.	यह बहुत प्यारा है।
+That's very sweet. 1	Das ist sehr süß.	वह सचमुच मिठा है।
+That's very weird.	Das ist sehr seltsam.	यह अजीब है।
+That's what I saw.	Das ist was ich gesehen habe.	वही वह देखा जो मैंने देखा।
+That's what I say.	Das ist, was ich sage.	यह वह है जो मैं कहता हूँ।
+That's what we do.	Das ist, was wir machen.	यह है वह हम करते हैं।
+That's what works.	Das ist was funktioniert.	वही काम करता है।
+That's why I came.	Das ist der Grund, warum ich gekommen bin.	इसी कारण मैं आया था।
+The belt is brown.	Der Gürtel ist braun.	बेल्ट भूरी है।
+The black dog ran.	Der schwarze Hund rannte.	काला कुत्ता भागा।
