@@ -10884,3 +10884,13 @@ Tom was talking.	Tom redete.	टॉम बात कर रहा था।
 Tom was tasered.	Tom wurde getasert.	टॉम को टेज़र मारा गया।
 Tom was the one.	Tom war derjenige.	टॉम एक था।
 Tom was thirsty.	Tom hatte Durst.	टॉम प्यासा था।
+Tom was too fat.	Tom war zu dick.	टॉम बहुत मोटा था।
+Tom was too old.	Tom war zu alt.	टॉम बहुत पुराना था।
+Tom was trapped.	Tom war gefangen.	टॉम फंस गया था।
+Tom was unhappy.	Tom war unglücklich.	टॉम अदाकार था।
+Tom was unlucky.	Tom hatte kein Glück.	टॉम बेवजह अदृश्य था।
+Tom was violent.	Tom war gewalttätig.	टॉम हिंसक था।
+Tom was waiting.	Tom wartete.	टॉम इंतजार कर रहा था।
+Tom was walking.	Tom ging.	टॉम चल रहा था।
+Tom was wealthy.	Tom war wohlhabend.	टॉम धनवान था।
+Tom was winning.	Tom gewann.	टॉम जीत रहा था।
