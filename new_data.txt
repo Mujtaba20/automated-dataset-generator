@@ -3414,3 +3414,12 @@ Tom liked it.	Tom mochte es.	टॉम को यह पसंद था।
 Tom likes it.	Tom mag es.	टॉम को यह पसंद है।
 Tom likes me.	Tom mag mich.	टॉम को मुझसे प्यार है।
 Tom looks OK.	Tom sieht okay aus.	टॉम ठीक लग रहा है।
+Tom loved it.	Tom liebte es.	टॉम ने इसे पसंद किया।
+Tom loved us.	Tom liebte uns.	टॉम ने हमें पसंद किया।
+Tom loves it.	Tom liebt es.	टॉम को ये पसंद है।
+Tom loves me.	Tom liebt mich.	टॉम मुझसे प्यार करता है।
+Tom loves us.	Tom liebt uns.	टॉम हमें पसंद करता है।
+Tom may come.	Tom darf kommen.	टॉम आ सकता है।
+Tom may sing.	Tom kann singen.	टॉम गा सकता है।
+Tom may stay.	Tom darf bleiben.	टॉम रुक सकता है।
+Tom meant it.	Tom meinte es ernst.	टॉम इसे गंभीरता से लिया।
