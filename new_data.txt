@@ -13332,3 +13332,12 @@ Maybe I can help.	Vielleicht kann ich helfen.	शायद मैं मदद �
 Maybe he was ill.	Vielleicht war er krank.	शायद वह बीमार था।
 Maybe it was Tom.	Vielleicht war es Tom.	शायद यह टॉम था।
 Maybe it was you.	Vielleicht warst du es.	शायद यह तुम थे।
+Maybe it'll snow.	Vielleicht schneit es.	शायद बर्फ गिरेगी।
+My back is stiff.	Mein Rücken ist steif.	मेरी पीठ सुड़ी हुई है।
+My brain is full.	Mein Gehirn ist voll.	मेरा मस्तिष्क भरा हुआ है।
+My car is German.	Mein Auto ist deutsch.	मेरी कार जर्मन है।
+My car is German. (Different Translation)	Mein Kraftwagen ist deutsch.	मेरी गाड़ी जर्मन है।
+My cat is hungry.	Meine Katze hat Hunger.	मेरी बिल्ली भूखी है।
+My cat is hungry. (Different Translation)	Meine Katze ist hungrig.	मेरी बिल्ली भूखी है।
+My dog has fleas.	Mein Hund hat Flöhe.	मेरे कुत्ते पर खुजली है।
+My dog likes you.	Mein Hund mag dich.	मेरा कुत्ता तुम्हें पसंद करता है।
