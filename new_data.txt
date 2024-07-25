@@ -7491,3 +7491,12 @@ Tom looks fine.	Tom sieht gut aus.	टॉम ठीक लग रहा है�
 Tom looks good.	Tom sieht gut aus.	टॉम अच्छा लग रहा है।
 Tom looks hurt.	Tom sieht verletzt aus.	टॉम चोट खाया हुआ लग रहा है।
 Tom looks lost.	Tom sieht verloren aus.	टॉम खो गया लग रहा है।
+Tom looks nice.	Tom sieht nett aus.	टॉम अच्छा लग रहा है।
+Tom looks pale.	Tom wirkt blass.	टॉम धूसर लग रहा है।
+Tom looks rich.	Tom wirkt reich.	टॉम मालामाल लग रहा है।
+Tom looks sick.	Tom sieht krank aus.	टॉम बीमार लग रहा है।
+Tom looks well.	Tom sieht gut aus.	टॉम ठीक लग रहा है।
+Tom lost again.	Tom hat wieder verloren.	टॉम फिरसे हार गया।
+Tom lost count.	Tom hat den Überblick verloren.	टॉम गिनती खो दी।
+Tom loved Mary.	Tom liebte Mary.	टॉम ने मेरी से प्यार किया।
+Tom loves Mary.	Tom liebt Mary.	टॉम मेरी से प्यार करता है।
