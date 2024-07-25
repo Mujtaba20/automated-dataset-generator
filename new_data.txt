@@ -19337,3 +19337,12 @@ Tom was organized.	Tom war organisiert.	टॉम संगठित था।
 Tom was outspoken.	Tom war direkt.	टॉम स्पष्टवादी था।
 Tom was overjoyed.	Tom war überglücklich.	टॉम बहुत खुश था।
 Tom was perplexed.	Tom war verwirrt.	टॉम उलझन में था।
+Tom was plastered.	Tom war verputzt.	टॉम को प्लास्टर लगा था।
+Tom was sarcastic.	Tom war sarkastisch.	टॉम व्यंग्यात्मक था।
+Tom was satisfied.	Tom war zufrieden.	टॉम संतुष्ट था।
+Tom was screaming.	Tom war verzweifelt.	टॉम चिल्ला रहा था।
+Tom was sensitive.	Tom war empfindlich.	टॉम संवेदनशील था।
+Tom was shivering.	Tom zitterte.	टॉम कांप रहा था।
+Tom was skeptical.	Tom war skeptisch.	टॉम संदेहपूर्ण था।
+Tom was strangled.	Tom war erdrosselt.	टॉम को गला घोटा या दबाया गया था।
+Tom was surprised.	Tom war überrascht.	टॉम हैरान था।

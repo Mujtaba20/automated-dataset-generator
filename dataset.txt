@@ -1,14 +1,4 @@
 
-Tom was plastered.	Tom war besoffen.	टॉम नशे में था।
-Tom was sarcastic.	Tom war sarkastisch.	टॉम व्यंग्यात्मक था।
-Tom was satisfied.	Tom war zufrieden.	टॉम संतुष्ट था।
-Tom was screaming.	Tom schrie.	टॉम चिल्लाया।
-Tom was screaming.	Tom hat geschrien.	टॉम चिल्लाया।
-Tom was sensitive.	Tom war sensibel.	टॉम संवेदनशील था।
-Tom was shivering.	Tom zitterte.	टॉम कांप गया।
-Tom was skeptical.	Tom war skeptisch.	टॉम को संदेह था।
-Tom was strangled.	Tom wurde erwürgt.	टॉम का गला घोंट गया था।
-Tom was surprised.	Tom war überrascht.	टॉम आश्चर्यचकित था।
 Tom was suspended.	Tom wurde suspendiert.	टॉम को निलंबित कर दिया गया था।
 Tom was talkative.	Tom war gesprächig.	टॉम बातूनी था।
 Tom was the first.	Tom war der erste.	टॉम पहले थे।
