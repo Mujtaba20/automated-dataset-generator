@@ -17459,3 +17459,11 @@ It's unbelievable.	Es ist unglaublich.	यह अविश्वसनीय ह
 It's very healthy.	Es ist sehr gesund.	यह बहुत स्वस्थ है।
 It's very strange.	Es ist sehr seltsam.	यह बहुत अजीब है।
 It's what Tom had.	Es ist das, was Tom hatte.	यह वह है जिसके पास टॉम था।
+It's worth a shot.	Es ist den Versuch wert.	यह कोशिश के लायक है।
+It's worth a trip.	Es lohnt sich zu reisen.	इससे यात्रा करना लायक है।
+It's wrong to lie.	Es ist falsch zu täuschen.	झूठ बोलना गलत है।
+It's your bedtime.	Es ist deine Schlafenszeit.	यह तुम्हारी नींद का समय है।
+Just deal with it.	Einfach damit umgehen.	बस उससे निपट जाओ।
+Just do your best.	Gib einfach dein Bestes.	बस अपनी सबसे अच्छी कोशिश करो।
+Just go back home.	Geh einfach nach Hause zurück.	बस घर वापस जाओ।
+Just let me sleep.	Lass mich einfach schlafen.	बस मुझे सोने दो।
