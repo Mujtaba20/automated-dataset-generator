@@ -6600,3 +6600,13 @@ It's Tom's job.	Es ist Toms Arbeit.	यह टॉम का काम है।
 It's Wednesday.	Es ist Mittwoch.	यह बुधवार है।
 It's a bargain.	Es ist ein Schnäppchen.	यह एक सौदा है।
 It's a big one.	Es ist ein Großer.	यह एक बड़ा है।
+It's a classic.	Es ist ein Klassiker.	यह एक किलासिक है।
+It's a firefly.	Es ist ein Glühwürmchen.	यह एक मक्खी है।
+It's a hot day.	Es ist ein heißer Tag.	यह एक गर्म दिन है।
+It's a new day.	Es ist ein neuer Tag.	यह एक नया दिन है।
+It's a problem.	Es ist ein Problem.	यह एक समस्या है।
+It's a challenge.	Es ist eine Herausforderung.	यह एक चुनौती है।
+It's a promise.	Es ist ein Versprechen.	यह एक वादा है।
+It's admirable.	Es ist bewundernswert.	यह सराहनीय है।
+It's all Tom's.	Es gehört alles Tom.	यह सब टॉम का है।
+It's all right.	Es ist in Ordnung.	सब ठीक है।
