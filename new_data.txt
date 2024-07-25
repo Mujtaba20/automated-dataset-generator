@@ -3736,3 +3736,10 @@ Are you blind?	Bist du blind?	क्या तुम अंधे हो?
 Are you bored?	Bist du gelangweilt?	क्या आप उब हैं?
 Are you brave?	Bist du mutig?	क्या तुम बहादुर हो?
 Are you crazy?	Bist du verrückt?	क्या तुम उन्मादी हो?
+Are you drunk?	Bist du betrunken?	क्या तुम नशे में हो?
+Are you going?	Gehst du?	क्या तुम जा रहे हो?
+Are you happy?	Bist du glücklich?	क्या तुम खुश हो?
+Are you ready?	Bist du bereit?	क्या तुम तैयार हो?
+Are you short?	Bist du klein?	क्या तुम छोटे हो?
+Are you there?	Bist du da?	क्या तुम वहाँ हो?
+Are you tired?	Bist du müde?	क्या तुम थक गए हो?
