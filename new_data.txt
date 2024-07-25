@@ -4201,3 +4201,12 @@ I must go out.	Ich muss rausgehen.	मुझे बाहर जाना है
 I must refuse.	Ich muss ablehnen.	मुझे इनकार करना है।
 I must resist.	Ich muss widerstehen.	मुझे संभलना है।
 I must see it.	Ich muss es sehen.	मुझे यह देखना है।
+I nearly died.	Ich wäre fast gestorben.	मैं लगभग मर गया था।
+I need a coat.	Ich brauche einen Mantel.	मुझे एक कोट चाहिए।
+I need a crew.	Ich brauche eine Crew.	मुझे एक क्रू चाहिए।
+I need a loan.	Ich brauche einen Kredit.	मुझे एक ऋण चाहिए।
+I need a plan.	Ich brauche einen Plan.	मुझे एक योजना चाहिए।
+I need coffee.	Ich brauche Kaffee.	मुझे कॉफी चाहिए।
+I need my key.	Ich brauche meinen Schlüssel.	मुझे मेरी कुंजी चाहिए।
+I need stamps.	Ich brauche Briefmarken.	मुझे टिकट चाहिए।
+I need to eat.	Ich muss essen.	मुझे खाना चाहिए।
