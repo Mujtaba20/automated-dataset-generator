@@ -6988,3 +6988,12 @@ That's the law.	Das ist das Gesetz.	यह विधि है।
 That's the one.	Das ist es.	यह वह सही चीज़ है।
 That's the way.	So ist es.	यह वह तरीका है।
 That's too bad.	Das ist zu schade.	यह बहुत ही बुरा है।
+That's typical.	Das ist typisch.	यह सामान्य है।
+The birds sang.	Die Vögel sangen.	पंछी गाया।
+The cat is wet.	Die Katze ist nass.	बिल्ली गीली है।
+The dog barked.	Der Hund bellte.	कुत्ता भौंकने लगा।
+The man is old.	Der Mann ist alt.	आदमी बूढ़ा है।
+The price rose.	Der Preis stieg.	कीमत बढ़ गई।
+The radio died.	Das Radio ist kaputt.	रेडियो मर गया।
+The roof leaks.	Das Dach ist undicht.	छत से पानी टपक रहा है।
+The tea is hot.	Der Tee brennt.	चाय जली हुई है।
