@@ -1,15 +1,4 @@
 
-Tom made no reply.	Tom gab keine Antwort.	टॉम ने कोई जवाब नहीं दिया।
-Tom made pancakes.	Tom machte Pfannkuchen.	टॉम ने पेनकेक्स बनाया।
-Tom made us do it.	Tom hat uns dazu gebracht, das zu tun.	टॉम ने हमें ऐसा किया है।
-Tom married young.	Tom hat jung geheiratet.	टॉम ने युवा से शादी की।
-Tom may accept it.	Vielleicht akzeptiert Tom es ja.	शायद टॉम इसे स्वीकार करता है।
-Tom may come here.	Tom kann hierher kommen.	टॉम यहां आ सकते हैं।
-Tom may know Mary.	Tom kennt Maria vielleicht.	टॉम मारिया को जान सकता है।
-Tom may need help.	Tom braucht möglicherweise Hilfe.	टॉम को मदद की जरूरत हो सकती है।
-Tom meant no harm.	Tom hatte nichts Böses im Sinn.	टॉम के मन में कुछ भी बुरा नहीं था।
-Tom might be late.	Tom könnte zu spät sein.	टॉम बहुत देर हो सकती है।
-Tom might be late.	Tom könnte zu spät kommen.	टॉम बहुत देर से आ सकता है।
 Tom might be sick.	Tom wäre vielleicht krank.	टॉम बीमार हो सकता है।
 Tom might testify.	Tom sagt möglicherweise aus.	टॉम कह सकते हैं।
 Tom might've died.	Tom könnte gestorben sein.	टॉम की मृत्यु हो सकती थी।

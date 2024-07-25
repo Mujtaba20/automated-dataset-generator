@@ -19013,3 +19013,13 @@ Tom made me hurry.	Tom hat mich beeilt.	टॉम ने मुझे जल्�
 Tom made me laugh.	Tom hat mich zum Lachen gebracht.	टॉम ने मुझे हंसने पे मजबूर किया।
 Tom made me smile.	Tom hat mich lächeln lassen.	टॉम ने मुझे मुस्कान करने के लिए कहा।
 Tom made mistakes.	Tom hat Fehler gemacht.	टॉम ने गलतियों की है।
+Tom made no reply.	Tom antwortete nicht.	टॉम ने कोई जवाब नहीं दिया।
+Tom made pancakes.	Tom machte Pfannkuchen.	टॉम ने पैनकेक बनाए।
+Tom made us do it.	Tom hat uns dazu gebracht, es zu tun.	टॉम ने हमें यह करने के लिए मजबूर किया।
+Tom married young.	Tom heiratete jung.	टॉम ने जवानी में शादी की।
+Tom may accept it.	Tom könnte es akzeptieren.	टॉम यह स्वीकार कर सकता है।
+Tom may come here.	Tom könnte hierher kommen.	टॉम यहाँ आ सकता है।
+Tom may know Mary.	Tom könnte Maria kennen.	टॉम को मेरी पता हो सकता है।
+Tom may need help.	Tom braucht vielleicht Hilfe.	टॉम को मदद की आवश्यकता हो सकती है।
+Tom meant no harm.	Tom meinte keinen Schaden.	टॉम का कोई नुकसान नहीं था।
+Tom might be late.	Tom könnte zu spät kommen.	टॉम देर से आ सकता है।
