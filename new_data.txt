@@ -8253,3 +8253,12 @@ Come on in, Tom.	Komm schon rein, Tom.	तोम, अंदर आ जाओ।
 Come on up here.	Komm hier herauf.	यहाँ आकर आओ।
 Come on up, Tom.	Komm rauf, Tom.	तोम, ऊपर चलो।
 Come on, get up.	Los, steh auf.	चलो, उठो।
+Come, sit by me.	Komm, setz dich zu mir.	मेरे पास बैठो।
+Congratulations!	Herzlichen Glückwunsch!	बधाई हो!
+Congratulations! (2)	Gratuliere!	बधाई हो!
+Congratulations! (3)	Glückwünsche!	बधाई हो!
+Could I ask why?	Könnte ich fragen warum?	क्या मैं पूछ सकता हूं क्यों?
+Could you do it?	Könntest du es tun?	क्या आप यह कर सकते हैं?
+Could you do it? (2)	Könnten Sie das tun?	क्या आप यह कर सकते हैं?
+Could you do it? (3)	Könntest du es bitte machen?	क्या आप यह कर सकते हैं?
+Count to thirty.	Zähle bis dreißig.	तिरियानव तक गिनो।
