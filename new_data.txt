@@ -2963,3 +2963,13 @@ Is that love?	Ist das Liebe?	क्या वह प्यार है?
 Is that mine?	Ist das meins?	क्या वह मेरा है?
 Is that real?	Ist das echt?	क्या वह वास्तविक है?
 Is that salt?	Ist das Salz?	क्या वह नमक है?
+Is that snow?	Ist das Schnee?	क्या वह बर्फ है?
+Is that true?	Ist das wahr?	क्या यह सच है?
+Is this love?	Ist das Liebe?	क्या यह प्रेम है?
+Is this love? (alternative)	Ist das Zuneigung?	क्या यह प्यार है?
+Is this mine?	Ist das meins?	क्या यह मेरा है?
+Is this real?	Ist das echt?	क्या यह वास्तविक है?
+Is this true?	Ist das wahr?	क्या यह सच है?
+Is this wine?	Ist das Wein?	क्या यह वाइन है?
+It has begun.	Es hat begonnen.	यह शुरू हो गया है।
+It has begun. (alternative)	Es ist losgegangen.	यह आरंभ हो गया है।
