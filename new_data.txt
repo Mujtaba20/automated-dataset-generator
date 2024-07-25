@@ -12049,3 +12049,12 @@ He wants to come.	Er möchte kommen.	वह आना चाहता है।
 He was acquitted.	Er wurde freigesprochen.	वह बरी हो गया था।
 He was all wrong.	Er lag völlig falsch.	उसकी पूरी गलती थी।
 He was born rich.	Er wurde reich geboren.	वह अमीर पैदा हुआ था।
+He was deaf, too.	Er war auch taub.	वह भी बहरा था।
+He was impressed.	Er war beeindruckt.	उसे प्रभावित किया गया था।
+He was in France.	Er war in Frankreich.	वह फ्रांस में था।
+He was perplexed.	Er war verwirrt.	उसे उलझन में डाल दिया गया था।
+He was tenacious.	Er war hartnäckig.	वह दृढ़ होता था।
+He was very poor.	Er war sehr arm.	वह बहुत गरीब था।
+He wears glasses.	Er trägt eine Brille.	वह चश्मा पहनता है।
+He wears pajamas.	Er trägt Pyjamas.	वह पजामा पहनता है।
+He went bankrupt.	Er ging bankrott.	उसकी दिवालिया हो गई।
