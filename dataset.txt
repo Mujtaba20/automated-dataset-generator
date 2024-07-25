@@ -1,15 +1,4 @@
 
-You must stop him.	Du musst ihn aufhalten.	आपको उसे रोकना होगा।
-You need a lawyer.	Du brauchst einen Anwalt.	आपको एक वकील की जरूरत है।
-You need a lawyer.	Ihr braucht einen Anwalt.	आपको एक वकील की जरूरत है।
-You need a lawyer.	Sie brauchen einen Anwalt.	आपको एक वकील की जरूरत है।
-You need a lawyer.	Sie benötigen einen Rechtsanwalt.	आपको एक वकील की जरूरत है।
-You need to leave.	Du musst gehen.	तुम्हें जाना चाहिए।
-You need to leave.	Du musst jetzt gehen.	अब आपको जाना होगा।
-You need to relax.	Du musst dich entspannen.	आपको आराम करना होगा।
-You never call me.	Du rufst mich nie an.	तुम मुझे कभी नहीं बुलाओ।
-You never call me.	Ihr ruft mich nie an.	तुम मुझे कभी नहीं बुलाओ।
-You never call me.	Sie rufen mich nie an.	वे मुझे कभी नहीं बुलाते।
 You never gave up.	Du gabst nie auf.	आपने कभी हार नहीं मानी।
 You never gave up.	Du hast nie aufgegeben.	आपने कभी हार नहीं मानी।
 You ought to know.	Du solltest es wissen.	आपको यह आना चाहिए।

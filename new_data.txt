@@ -20098,3 +20098,8 @@ You must help Tom.	Du musst Tom helfen.	तुम्हें टॉम की �
 You must help her.	Du musst ihr helfen.	तुम्हें उसकी मदद करनी चाहिए।
 You must hurry up.	Du musst dich beeilen.	तुम्हें जल्दी करनी चाहिए।
 You must not kill.	Du darfst nicht töten.	तुम्हें मारना नहीं चाहिए।
+You must stop him.	Du musst ihn aufhalten.	तुम्हें उसे रोकना होगा।
+You need a lawyer.	Sie brauchen einen Anwalt.	तुम्हें वकील की जरुरत है।
+You need to leave.	Sie müssen gehen.	तुम्हें चले जाना चाहिए।
+You need to relax.	Du musst dich entspannen.	तुम्हें आराम करने की जरुरत है।
+You never call me.	Sie rufen mich nie an.	तुम मुझे हरगिज नहीं कोल करते।
