@@ -1805,3 +1805,12 @@ I'm over it.	Ich bin darüber hinweg.	मैं इसके पार हूँ
 I'm patient.	Ich bin geduldig.	मैं सहनशील हूँ।
 I'm popular.	Ich bin beliebt.	मुझे पसंद किया जाता है।
 I'm relaxed.	Ich bin entspannt.	मैं आराम से हूँ।
+I'm resting.	Ich ruhe mich aus.	मैं विश्राम कर रहा हूँ।
+I'm retired.	Ich bin im Ruhestand.	मैं सेवानिवृत्त हूँ।
+I'm sad now.	Ich bin jetzt traurig.	मैं अब दुखी हूँ।
+I'm selfish.	Ich bin egoistisch.	मैं स्वार्थी हूँ।
+I'm serious.	Ich bin ernst.	मैं गंभीर हूँ।
+I'm shocked.	Ich bin schockiert.	मुझे चौंका लगा।
+I'm sincere.	Ich bin aufrichtig.	मैं ईमानदार हूँ।
+I'm so cold.	Mir ist so kalt.	मुझे इतनी सर्दी हो रही है।
+I'm so full.	Ich bin so satt.	मैं इतना भरा हुआ हूँ।
