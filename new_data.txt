@@ -20344,3 +20344,10 @@ Clean up your room.	Mach dein Zimmer sauber.	अपने कमरे को �
 Cold water, please.	Kaltes Wasser, bitte.	ठंडा पानी, कृपया।
 Come along with me.	Komm mit mir.	मेरे साथ चलो।
 Come along with us.	Komm mit uns.	हमारे साथ चलो।
+Come and sit by me.	Komm und setz dich zu mir.	मेरे पास आओ और बैठो।
+Come back in a day.	Komm in einem Tag zurück.	एक दिन में वापस आओ।
+Come back tomorrow.	Komm morgen wieder.	कल फिर आ जाना।
+Come into the room.	Komm ins Zimmer.	कमरे में चले आओ।
+Come on, it's easy.	Komm schon, es ist einfach.	आओ, यह आसान है।
+Come on, try again.	Los, versuch es nochmal.	आओ, फिरसे कोशिश करो।
+Consider it a gift.	Betrachte es als Geschenk.	इसे उपहार समझो।
