@@ -16163,3 +16163,9 @@ Here's my address.	Hier ist meine Adresse.	यहाँ मेरा पता �
 Here's my receipt.	Hier ist mein Kassenzettel.	यहाँ मेरा रसीद है।
 Here's some water.	Hier ist etwas Wasser.	यहाँ कुछ पानी है।
 Here's the change.	Hier ist das Wechselgeld.	यहाँ परिवर्तन है।
+Here's what to do.	Hier ist, was zu tun ist.	यहाँ क्या करना है।
+Here's your drink.	Hier ist dein Getränk.	यह तुम्हारी पेय मिल गयी है।
+Here's your lunch.	Hier ist dein Mittagessen.	यह तुम्हारा लंच है।
+Here's your money.	Hier ist dein Geld.	यह तुम्हारे पैसे हैं।
+Here's your order.	Hier ist deine Bestellung.	यह तुम्हारा आर्डर है।
+Here's your salad.	Hier ist dein Salat.	यह तुम्हारा सलाद है।
