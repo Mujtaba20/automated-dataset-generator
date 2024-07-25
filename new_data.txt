@@ -6743,3 +6743,8 @@ Make your move.	Mach deinen Zug.	अपना कदम उठाओ।
 Many fish died.	Viele Fische sind gestorben.	कई मछलियाँ मर गईं।
 Mary is a girl.	Mary ist ein Mädchen.	मेरी एक लड़की है।
 Mary is blonde.	Mary ist blond.	मेरी सेठनी है।
+Mary is pretty.	Maria ist hübsch.	मेरी सुंदर है।
+Mary likes you.	Maria mag dich.	मेरी को आपसे पसंद है।
+Mary looks hot.	Maria sieht heiß aus.	मेरी गर्म दिखती है।
+May I go first?	Darf ich zuerst gehen?	क्या मैं पहले जा सकता हूँ?
+May I help you?	Kann ich Ihnen helfen?	क्या मैं आपकी मदद कर सकता हूँ?
