@@ -14391,3 +14391,11 @@ Tom isn't sleepy.	Tom ist nicht müde.	टॉम सोने की भाव�
 Tom isn't sneaky.	Tom ist nicht hinterlistig.	टॉम चालाक नहीं है।
 Tom isn't stable.	Tom ist nicht stabil.	टॉम स्थिर नहीं है।
 Tom isn't stingy.	Tom ist nicht geizig.	टॉम कंजूस नहीं है।
+Tom isn't stoned.	Tom ist nicht benebelt.	टॉम हल्काबुल्का नहीं है।
+Tom isn't strong.	Tom ist nicht stark.	टॉम मजबूत नहीं है।
+Tom isn't stupid.	Tom ist nicht dumm.	टॉम बेवकूफ नहीं है।
+Tom isn't unkind.	Tom ist nicht unfreundlich.	टॉम नमकहराम नहीं है।
+Tom isn't up yet.	Tom ist noch nicht aufgestanden.	टॉम अब तक उठा नहीं है।
+Tom just arrived.	Tom ist gerade angekommen.	टॉम अभी तक पहुंचा है।
+Tom just groaned.	Tom hat gerade gestöhnt.	टॉम अभी कराहा किया।
+Tom just laughed.	Tom hat gerade gelacht.	टॉम अभी हंसा।
