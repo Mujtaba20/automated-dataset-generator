@@ -2041,3 +2041,7 @@ That's wise.	Das ist klug.	यह बुद्धिमान है।
 The TV's on.	Der Fernseher ist an.	टीवी चालू है।
 There he is.	Dort ist er.	वहाँ वह है।
 There it is!	Da ist es!	वहाँ है!
+There it is.	Es ist da.	इसमें है।
+There's Tom.	Da ist Tom.	तोम है।
+They burned.	Sie brannten nieder.	उन्होंने जला दिया।
+They called.	Sie nannten.	उन्होंने बुलाया।
