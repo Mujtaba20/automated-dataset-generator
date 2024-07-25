@@ -1601,3 +1601,13 @@ I didn't go. (different meaning)	Ich bin nicht mitgegangen.	मैं नही�
 I disagreed.	Ich war anderer Meinung.	मुझसे असहमति थी।
 I disagreed. (different meaning)	Mir war anderer Meinung.	मैं सहमत नहीं था।
 I don't lie.	Ich lüge nicht.	मैं झूठ नहीं बोलता।
+I dozed off.	Ich bin eingeschlafen.	मैं सो गया।
+I eat a lot.	Ich esse viel.	मैं बहुत खाता हूँ।
+I eat bread.	Ich esse Brot.	मैं रोटी खाता हूँ।
+I eat fruit.	Ich esse Obst.	मैं फल खाता हूँ।
+I exercised.	Ich habe Sport getrieben.	मैंने व्यायाम किया।
+I feel blue.	Ich fühle mich niedergeschlagen.	मैं उदास महसूस कर रहा हूँ।
+I feel fine.	Ich fühle mich gut.	मैं अच्छा महसूस कर रहा हूँ।
+I feel good.	Ich fühle mich gut.	मैं अच्छा महसूस कर रहा हूँ।
+I feel well.	Ich fühle mich wohl.	मैं ठीक महसूस कर रहा हूँ।
+I felt cold.	Mir war kalt.	मुझे ठंड लगी।
