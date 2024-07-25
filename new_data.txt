@@ -9453,3 +9453,9 @@ It doesn't work.	Es funktioniert nicht.	यह काम नहीं करत�
 It has happened.	Es ist passiert.	यह हो गया है।
 It has to be me.	Es muss ich sein.	यह मुझे ही होना चाहिए।
 It is necessary.	Es ist notwendig.	यह आवश्यक है।
+It is seven now.	Es ist jetzt sieben.	अब सात बजे है।
+It is up to you.	Es liegt an Ihnen.	यह आप पर निर्भर करता है।
+It isn't a fish.	Es ist kein Fisch.	यह मछली नहीं है।
+It isn't a loan.	Es ist kein Darlehen.	यह ऋण नहीं है।
+It just bugs me.	Es macht mich nur verrückt.	यह बस मुझे परेशान करता है।
+It looked cheap.	Es sah billig aus.	यह सस्ता लग रहा था।
