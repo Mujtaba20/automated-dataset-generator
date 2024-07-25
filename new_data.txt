@@ -9548,3 +9548,12 @@ It's not my car.	Es ist nicht mein Auto.	यह मेरी कार नही
 It's not my day.	Es ist nicht mein Tag.	यह मेरा दिन नहीं है।
 It's not my job.	Das ist nicht mein Job.	यह मेरा काम नहीं है।
 It's not so far.	Es ist nicht so weit.	यह इतना दूर नहीं है।
+It's not stupid.	Es ist nicht dumm.	यह मूर्ख नहीं है।
+It's not urgent.	Es ist nicht dringend.	यह अत्यावश्यक नहीं है।
+It's okay to go.	Es ist in Ordnung zu gehen.	जाने के लिए ठीक है।
+It's only money.	Es ist nur Geld.	यह केवल पैसा है।
+It's really Tom.	Es ist wirklich Tom.	यह वास्तव में टॉम है।
+It's really bad.	Es ist wirklich schlimm.	यह सच में बुरा है।
+It's really fun.	Es macht wirklich Spaß.	यह सच में मजेदार है।
+It's really sad.	Es ist wirklich traurig.	यह सच में दुखद है।
+It's ridiculous.	Es ist lächerlich.	यह भद्दा है।
