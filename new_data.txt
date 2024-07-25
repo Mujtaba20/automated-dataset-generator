@@ -12119,3 +12119,12 @@ Here's my number.	Hier ist meine Nummer.	यहाँ मेरी संख्�
 Here's my wallet.	Hier ist mein Geldbeutel.	यहाँ मेरा बटुआ है।
 Here's your beer.	Hier ist dein Bier.	यहाँ तुम्हारा बियर है।
 Here's your desk.	Hier ist dein Schreibtisch.	यहाँ तुम्हारा मेज़ है।
+Here, drink this.	Hier, trink das.	यहाँ, यह पिएं।
+Here, let me try.	Hier, lass mich versuchen.	यहाँ, मुझे यह करने दो।
+Here, smell this.	Hier, riech mal das.	हे यह खुशबू लो।
+Hey, are you Tom?	Hey, bist du Tom?	हे, क्या तुम टॉम हो?
+Hey, that's mine.	Hey, das gehört mir.	हे, वो मेरा है।
+Hey, wait for me.	Hey, warte auf mich.	अरे, मेरा इंतजार करो।
+Hey, wait for me. (Different meaning)	Hey, warte mal.	हे, मेरे इंतजार में रहो।
+Hey, what's that?	Hey, was ist das?	हे, वह क्या है?
+Hey, what's that? (Different meaning)	Hey, was war das?	हे, वह क्या था?
