@@ -20579,3 +20579,13 @@ Everybody panicked.	Alle gerieten in Panik.	सब शोर मचाई।
 Everybody sat down.	Alle setzten sich hin.	सभी बैठ गए।
 Everybody's crying.	Jeder weint.	सब रो रहे होंगे।
 Everyone has voted.	Alle haben gewählt.	सभी ने मतदान किया है।
+Everyone hesitated.	Alle zögerten.	सभी हिचकिचाए।
+Everyone is asleep.	Alle schlafen.	सभी सो रहे हैं।
+Everyone is unique.	Jeder ist einzigartig.	हर कोई अद्वितीय है।
+Everyone knew that.	Jeder wusste das.	सभी यह जानते थे।
+Everyone was aware.	Alle waren sich bewusst.	सभी जागरूक थे।
+Everyone liked Tom.	Alle mochten Tom.	सभी को टॉम पसंद था।
+Everyone liked you.	Alle mochten dich.	सभी ने तुम्हें पसंद किया।
+Everyone likes Tom.	Alle mögen Tom.	सभी को टॉम पसंद है।
+Everyone admires her.	Alle bewundern sie.	सभी उसका सम्मान करते हैं।
+Everyone respects her.	Alle respektieren sie.	सभी उसका सम्मान करते हैं।
