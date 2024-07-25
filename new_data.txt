@@ -303,3 +303,5 @@ How deep?	Wie tief?	कितना गहरा है?
 How nice!	Wie schön!	बहुत अच्छा!
 How rude!	Wie unhöflich!	कितना अकड़ा है!
 How cute! (alternate)	Wie süß!	इतना प्यारा!
+Humor me.	Humor mich.	मुझे मनोरंजन दें।
+Hurry up.	Auf geht's!	जल्दी करो।
