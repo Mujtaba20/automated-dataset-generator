@@ -2981,3 +2981,11 @@ It may break.	Es könnte kaputt gehen.	यह टूट सकता है।
 It scared me.	Es hat mich erschreckt.	यह मुझे डरा दिया।
 It scares me.	Es macht mich Angst.	यह मुझे डरा देता है।
 It took time.	Es hat Zeit gekostet.	इसमें समय लगा।
+It was Tom's.	Es war Toms.	यह टॉम की थी।
+It was a bet.	Es war eine Wette.	यह एक बाजी थी।
+It was black.	Es war schwarz.	यह काला था।
+It was black. (Different meaning)	Es war dunkel.	यह काले रंग की थी।
+It was empty.	Es war leer.	यह खाली था।
+It was night.	Es war Nacht.	यह रात थी।
+It was white.	Es war weiß.	यह सफेद था।
+It was white. (Different meaning)	Es war hell.	यह गोरा था।
