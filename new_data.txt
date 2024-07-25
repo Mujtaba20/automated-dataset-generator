@@ -4662,3 +4662,10 @@ Love is blind.	Liebe macht blind.	प्यार अंधा है।
 Love is crazy.	Liebe ist verrückt.	प्यार पागलपन है।
 Make me happy.	Mach mich glücklich.	मुझे खुश बनाओ।
 Make the beds.	Mach die Betten.	बिस्तर बनाओ।
+Make your bed.	Mach dein Bett.	अपनी पलंग सजाओ।
+Man is mortal.	Der Mensch ist sterblich.	आदमी नाशवान है।
+Mary is a fox.	Maria ist eine Füchsin.	मेरी एक लोमड़ी है।
+Mary is weird.	Maria ist komisch.	मेरी अजीब है।
+Mary shrieked.	Maria kreischte.	मेरी चिल्लाई।
+May I ask why?	Darf ich fragen, wieso?	क्या मैं पूछ सकता हूं की क्यों?
+May I come in?	Darf ich eintreten?	क्या मैं अंदर आ सकता हूँ?
