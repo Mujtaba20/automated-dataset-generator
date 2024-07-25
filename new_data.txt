@@ -6018,3 +6018,9 @@ I had some fun.	Ich hatte etwas Spaß.	मुझे कुछ मज़ा आ�
 I had to agree.	Ich musste zustimmen.	मुझे सहमत होना पड़ा।
 I had to leave.	Ich musste gehen.	मुझे जाना पड़ा।
 I had to leave. - Different meaning	Ich musste abreisen.	मुझे यहाँ छोड़ना पड़ गया।
+I hailed a cab.	Ich habe ein Taxi herbeigewinkt.	मैंने एक कैब बुलाई।
+I hate Mondays.	Ich hasse Montage.	मुझे सोमवार से नफरत है।
+I hate Tom now.	Ich hasse Tom jetzt.	मुझे अब टॉम से नफरत है।
+I hate dancing.	Ich hasse Tanzen.	मुझे नृत्य से नफरत है।
+I hate driving.	Ich hasse Fahren.	मुझे ड्राइविंग से नफरत है।
+I hate her now.	Ich hasse sie jetzt.	मुझे अब उससे नफरत है।
