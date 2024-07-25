@@ -14374,3 +14374,11 @@ Tom isn't family.	Tom ist nicht Familie.	टॉम परिवार नही�
 Tom isn't famous.	Tom ist nicht berühmt.	टॉम प्रसिद्ध नहीं है।
 Tom isn't greedy.	Tom ist nicht gierig.	टॉम लालची नहीं है।
 Tom isn't guilty.	Tom ist nicht schuldig.	टॉम दोषी नहीं है।
+Tom isn't honest.	Tom ist nicht ehrlich.	टॉम ईमानदार नहीं है।
+Tom isn't hungry.	Tom hat keinen Hunger.	टॉम भूखा नहीं है।
+Tom isn't in now.	Tom ist jetzt nicht da.	टॉम अब मौजूद नहीं है।
+Tom isn't inside.	Tom ist nicht drinnen.	टॉम अंदर नहीं है।
+Tom isn't joking.	Tom macht keinen Spaß.	टॉम मजाक नहीं कर रहा है।
+Tom isn't listed.	Tom ist nicht aufgelistet.	टॉम सूची में नहीं है।
+Tom isn't losing.	Tom verliert nicht.	टॉम हार रहा नहीं है।
+Tom isn't moving.	Tom bewegt sich nicht.	टॉम चल रहा नहीं है।
