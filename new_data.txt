@@ -3927,3 +3927,13 @@ He looks well.	Er sieht gut aus.	वह अच्छा दिखता है�
 He loves them.	Er liebt sie.	उनसे प्यार करता है।
 He made me go.	Er zwang mich zu gehen.	उसने मुझे जाने के लिए कहा।
 He seems kind.	Er scheint nett zu sein.	वह भला लगता है।
+He seems sick.	Er scheint krank zu sein.	उसे बीमार लग रहा है।
+He sells cars.	Er verkauft Autos.	वह कार बेचता है।
+He shot at me.	Er hat auf mich geschossen.	उसने मुझपर गोली चलाई।
+He shot at me. (different meaning)	Er hat auf mich gezielt.	उसने मुझपर लक्ष्य किया।
+He smells bad.	Er riecht schlecht.	वह बुरा लगता है।
+He talks fast.	Er spricht schnell.	वह तेज़ी से बोलता है।
+He talks well.	Er spricht gut.	वह अच्छे से बोलता है।
+He tricked me.	Er hat mich getäuscht.	उसने मुझे धोखा दिया।
+He tries hard.	Er gibt sich Mühe.	वह मेहनत करता है।
+He tries hard. (different meaning)	Er versucht hart.	वह मार्दानी कोशिश करता है।
