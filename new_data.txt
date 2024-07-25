@@ -12466,3 +12466,12 @@ I know it's true.	Ich weiß, dass es wahr ist.	मुझे पता है क
 I know my rights.	Ich kenne meine Rechte.	मुझे मेरे अधिकारों का पता है।
 I know only this.	Ich weiß nur das.	मुझे सिर्फ यह पता है।
 I know that look.	Ich kenne diesen Blick.	मुझे वह नजर अच्छी तरह से पता है।
+I know that name.	Ich kenne diesen Namen.	मुझे उस नाम का पता है।
+I know that, Tom.	Ich weiß das, Tom.	मुझे पता है, टॉम।
+I know the drill.	Ich kenne den Vorgang.	मुझे उपाय पता है।
+I know the facts.	Ich kenne die Fakten.	मुझे तथ्य पता है।
+I know the rules.	Ich kenne die Regeln.	मुझे नियम पता हैं।
+I know the truth.	Ich kenne die Wahrheit.	मुझे सच्चाई पता है।
+I know this joke.	Ich kenne diesen Witz.	मुझे यह मजाक पता है।
+I know what's up.	Ich weiß, was los ist.	मुझे पता है क्या हो रहा है।
+I know who he is.	Ich weiß, wer er ist.	मुझे पता है वह कौन है।
