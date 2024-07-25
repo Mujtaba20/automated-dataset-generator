@@ -13529,3 +13529,9 @@ She likes tigers.	Sie mag Tiger.	उसे बाघ पसंद है।
 She likes to run.	Sie laeuft gerne.	उसे भागना पसंद है।
 She lives nearby.	Sie wohnt in der Naehe.	वह अपने नजदीक रहती है।
 She looked at me.	Sie schaute mich an.	उसने मुझे देखा।
+She lost her way.	Sie irrte sich.	उसका रास्ता खो गया।
+She loves coffee.	Kaffee ist ihr Lieblingsgetränk.	उसे कॉफी का दीवाना है।
+She made him cry.	Sie ließ ihn weinen.	उसने उसे रुलाया।
+She may not come.	Vielleicht kommt sie nicht.	शायद उसे नहीं आना है।
+She must be sick.	Sie muss krank sein.	उसे बीमारी हो सकती है।
+She needs a coat.	Sie braucht einen Mantel.	उसे कोट चाहिए।
