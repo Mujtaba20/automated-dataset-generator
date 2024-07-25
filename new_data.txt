@@ -9259,3 +9259,13 @@ I'm coming home.	Ich komme nach Hause.	मैं घर वापस आ रह�
 I'm coming, too.	Ich komme auch.	मैं भी आ रहा हूँ।
 I'm constipated.	Ich bin verstopft.	मुझे कब्ज है।
 I'm cooking now.	Ich koche jetzt.	मैं अभी पका रहा हूँ।
+I'm cooperating.	Ich arbeite zusammen.	मैं सहयोग कर रहा हूँ।
+I'm daydreaming.	Ich träume vor mich hin.	मैं दिन की ख्याली मुलाकात कर रहा हूँ।
+I'm doing great.	Mir geht es gut.	मैं बहुत अच्छा कर रहा हूँ।
+I'm embarrassed.	Ich bin peinlich berührt.	मुझे शर्मिंदा है।
+I'm enjoying it.	Ich genieße es.	मुझे यह अच्छा लग रहा है।
+I'm fairly busy.	Ich bin ziemlich beschäftigt.	मैं काफी व्यस्त हूँ।
+I'm feeling fit.	Ich fühle mich fit.	मैं स्वस्थ महसूस कर रहा हूँ।
+I'm from Boston.	Ich komme aus Boston.	मैं बोस्टन से हूँ।
+I'm getting hot.	Mir wird heiß.	मुझे गर्मी लग रही है।
+I'm getting old.	Ich werde alt.	मैं बूढ़ा हो रहा हूँ।
