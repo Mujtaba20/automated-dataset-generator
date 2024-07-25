@@ -1,14 +1,4 @@
 
-Tom saved my life.	Tom hat mir das Leben gerettet.	टॉम ने मेरी जान बचाई।
-Tom saved the day.	Tom war unsere Rettung.	टॉम हमारा बचाव था।
-Tom saw a giraffe.	Tom sah eine Giraffe.	टॉम ने एक जिराफ देखा।
-Tom saw something.	Tom sah etwas.	टॉम ने कुछ देखा।
-Tom says it hurts.	Tom sagt, es schmerze.	टॉम का कहना है कि यह दर्द होता है।
-Tom says it's hot.	Tom sagt, es ist heiß.	टॉम कहते हैं कि यह गर्म है।
-Tom scares easily.	Tom erschreckt leicht.	टॉम थोड़ा डरता है।
-Tom scored a goal.	Tom hat ein Tor geschossen!	टॉम ने एक गोल किया!
-Tom screams a lot.	Tom schreit viel.	टॉम बहुत चिल्लाता है।
-Tom seemed afraid.	Tom schien Angst zu haben.	टॉम को डर लग रहा था।
 Tom seemed amused.	Tom schien amüsiert zu sein.	टॉम खुश लग रहा था।
 Tom seemed better.	Tom schien es besser zu gehen.	टॉम जाने के लिए बेहतर लग रहा था।
 Tom seemed biased.	Tom schien voreingenommen zu sein.	टॉम पक्षपाती लग रहा था।

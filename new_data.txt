@@ -19110,3 +19110,13 @@ Tom sat listening.	Tom saß und hörte zu.	टॉम बैठकर सुन �
 Tom sat patiently.	Tom saß geduldig.	टॉम धीरज से बैठा था।
 Tom sat with Mary.	Tom saß mit Mary.	टॉम मैरी के साथ बैठा था।
 Tom saved himself.	Tom rettete sich.	टॉम ने खुद को बचाया।
+Tom saved my life.	Tom hat mein Leben gerettet.	टॉमने मेरी जिंदगी बचाई।
+Tom saved the day.	Tom hat den Tag gerettet.	टॉमने दिन बचाया।
+Tom saw a giraffe.	Tom sah eine Giraffe.	टॉमने एक जिराफ देखा।
+Tom saw something.	Tom hat etwas gesehen.	टॉमने कुछ देखा।
+Tom says it hurts.	Tom sagt, es tut weh.	टॉम कहता है कि यह दर्द होता है।
+Tom says it's hot.	Tom sagt, es ist heiß.	टॉम कहता है कि यह गरम है।
+Tom scares easily.	Tom erschreckt leicht.	टॉम आसानी से डर जाता है।
+Tom scored a goal.	Tom hat ein Tor geschossen.	टॉमने एक गोल किया।
+Tom screams a lot.	Tom schreit viel.	टॉम बहुत चिल्लाता है।
+Tom seemed afraid.	Tom schien ängstlich.	लगता है कि टॉम डरा हुआ था।
