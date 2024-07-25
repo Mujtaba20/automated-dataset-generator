@@ -1573,3 +1573,8 @@ How curious!	Wie neugierig!	कितनी अजीब बात है!
 How curious! - Different meaning	Wie seltsam!	इतनी उत्सुकता!
 How is life?	Wie ist das Leben?	जीवन कैसा है?
 How strange!	Wie seltsam!	कितनी अजीब बात!
+I adore you.	Ich bewundere dich.	मैं तुम्हें श्रद्धा करता हूँ।
+I am a cook.	Ich bin ein Koch.	मैं रसोइया हूँ।
+I am a monk.	Ich bin ein Mönch.	मैं एक साधू हूँ।
+I am a twin.	Ich bin ein Zwilling.	मैं एक जुड़वा हूँ।
+I am better.	Ich bin besser.	मैं बेहतर हूँ।
