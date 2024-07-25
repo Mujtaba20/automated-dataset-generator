@@ -9811,3 +9811,13 @@ She isn't picky.	Sie ist nicht wählerisch.	वह चंचल नहीं ह
 She isn't young.	Sie ist nicht jung.	वह युवा नहीं है।
 She lives alone.	Sie lebt allein.	वह अकेले रहती है।
 She looks happy.	Sie scheint glücklich zu sein.	वह खुश लग रही है।
+She looks young.	Sie sieht jung aus.	वह जवान दिखती है।
+She lost a book.	Sie hat ein Buch verloren.	उसने एक किताब खो दी।
+She married him.	Sie hat ihn geheiratet.	उसने उससे शादी की।
+She married him. - Different meaning	Sie hat ihn geheiratet.	उसने उससे विवाह किया।
+She never reads.	Sie liest nie.	वह कभी नहीं पढ़ती।
+She pinched him.	Sie zwackte ihn.	उसने उसे चुभा दिया।
+She seems happy.	Sie scheint glücklich zu sein.	वह खुश लगती है।
+She slapped him.	Sie hat ihn geschlagen.	उसने उसे चप्पल मारी।
+She slapped him. - Different meaning	Sie hat ihn geschlagen.	उसने उसे तमाचा मारा।
+She sounded mad.	Sie klang wütend.	उसे पागल लग रही थी।
