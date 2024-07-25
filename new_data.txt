@@ -6551,3 +6551,11 @@ Is this normal?	Ist das normal?	क्या यह सामान्य है
 Isn't Tom cool?	Ist Tom nicht cool?	क्या टॉम मस्त नहीं है?
 Isn't Tom cute?	Ist Tom nicht niedlich?	क्या टॉम प्यारा नहीं है?
 Isn't it black?	Ist es nicht schwarz?	क्या यह काला नहीं है?
+Isn't it great?	Ist es nicht großartig?	क्या यह महान नहीं है?
+Isn't that Tom?	Ist das nicht Tom?	क्या वह टॉम नहीं है?
+It all changed.	Es hat sich alles geändert.	सब कुछ बदल गया।
+It costs a lot.	Es kostet viel.	यह बहुत महंगा है।
+It didn't work.	Es hat nicht funktioniert.	यह काम नहीं किया।
+It doesn't fit.	Es passt nicht.	यह फिट नहीं होता।
+It gets better.	Es wird besser.	यह बेहतर होता है।
+It has to stop.	Es muss aufhören.	यह रुकना है।
