@@ -1930,3 +1930,11 @@ Let's go up.	Lass uns hochgehen.	चलो ऊपर जाएं।
 Let's relax.	Entspannen wir uns.	चलो आराम करें।
 Let's split.	Teilen wir auf.	चलो विभाजित करें।
 Let's start!	Beginnen wir!	चलो प्रारंभ करें!
+Let's start.	Lass uns anfangen.	आइए शुरू करें।
+Let's study.	Lass uns lernen.	हमें पढ़ाई करनी चाहिए।
+Life is fun.	Das Leben macht Spaß.	जीवन मजेदार है।
+Look at Tom.	Schau dir Tom an.	टॉम को देखो।
+Look at him.	Schau ihn an.	उसे देखो।
+Look closer.	Schau genauer hin.	और करीब से देखो।
+Lunch is on.	Das Mittagessen ist fertig.	खाना तैयार है।
+Make a list.	Mach eine Liste.	सूची बनाओ।
