@@ -4602,3 +4602,12 @@ It's unlikely.	Es ist unwahrscheinlich.	यह संभावनात: नह�
 It's unlocked.	Es ist entsperrt.	यह अनलॉक है।
 It's up to me.	Es liegt an mir.	यह मेरे ऊपर है।
 It's up to us.	Es liegt an uns.	यह हम पर है।
+It's upstairs.	Es ist oben.	यह ऊपर है।
+It's very big.	Es ist sehr groß.	यह बहुत बड़ा है।
+It's very dry.	Es ist sehr trocken.	यह बहुत सूखा है।
+It's very hot.	Es ist sehr heiß.	यह बहुत गरम है।
+It's very new.	Es ist ganz neu.	यह बिल्कुल नया है।
+It's very odd.	Es ist sehr seltsam.	यह बहुत अजीब है।
+It's very sad.	Es ist sehr traurig.	यह बहुत दुखद है।
+Just a minute.	Nur eine Minute.	एक मिनट रुको।
+Just a moment.	Einen Moment.	एक क्षण।
