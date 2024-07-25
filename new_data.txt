@@ -4505,3 +4505,10 @@ Isn't it true?	Ist es nicht wahr?	क्या यह सच नहीं है
 It came apart.	Es kam auseinander.	यह अलग आ गया।
 It did happen.	Es ist passiert.	यह हुआ था।
 It gets worse.	Es wird schlimmer.	यह और भी खराब हो जाता है।
+It had snowed.	Es hatte geschneit.	यह बर्फ गिरी थी।
+It hurts here.	Es tut hier weh.	यहाँ दर्द हो रहा है।
+It is a curse.	Es ist ein Fluch.	यह एक शाप है।
+It is no joke.	Es ist kein Witz.	यह मजाक नहीं है।
+It is raining.	Es regnet.	बारिश हो रही है।
+It is too hot.	Es ist zu heiß.	यह बहुत गरम है।
+It isn't easy.	Es ist nicht einfach.	यह आसान नहीं है।
