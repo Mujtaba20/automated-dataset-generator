@@ -1634,3 +1634,13 @@ I have cash.	Ich habe Bargeld.	मेरे पास नकदी है।
 I have eyes.	Ich habe Augen.	मेरी आंखें हैं।
 I have food.	Ich habe Essen.	मेरे पास खाने का सामान है।
 I have kids.	Ich habe Kinder.	मेरे पास बच्चे हैं।
+I have wine.	Ich habe Wein.	मेरे पास वाइन है।
+I heard you.	Ich habe dich gehört.	मैंने तुम्हें सुना।
+I hesitated.	Ich habe gezögert.	मैं हिचकिचाया।
+I hesitated. (different meaning)	Ich zögerte.	मैंने शंकित रहा।
+I hired Tom.	Ich habe Tom eingestellt.	मैंने टॉम को नियुक्त किया।
+I hired Tom. (different meaning)	Ich mietete Tom an.	मैंने टॉम को किराए पर लिया।
+I knew that.	Das wusste ich.	मैं यह जानता था।
+I know that.	Das weiß ich.	मुझे पता है।
+I know them.	Ich kenne sie.	मैं उन्हें जानता हूँ।
+I know this.	Das weiß ich.	मुझे यह पता है।
