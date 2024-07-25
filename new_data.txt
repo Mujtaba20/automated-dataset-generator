@@ -2726,3 +2726,11 @@ I loved that.	Das habe ich geliebt.	मैंने वह पसंद कि�
 I made a bet.	Ich habe eine Wette abgeschlossen.	मैंने एक बाजी लगाई।
 I made it up.	Ich habe es erfunden.	मैंने यह बनाया है।
 I made these.	Ich habe diese gemacht.	मैंने ये बनाए हैं।
+I missed you.	Ich habe dich vermisst.	मुझे तुम्हारी याद आई।
+I must hurry.	Ich muss mich beeilen.	मुझे शीघ्रता की आवश्यकता है।
+I must study.	Ich muss lernen.	मुझे पढ़ाई करनी चाहिए।
+I need a cab.	Ich brauche ein Taxi.	मुझे एक कैब की आवश्यकता है।
+I need a car.	Ich brauche ein Auto.	मुझे एक गाड़ी की जरूरत है।
+I need a hug.	Ich brauche eine Umarmung.	मुझे एक गले लगाने की आवश्यकता है।
+I need a job.	Ich brauche einen Job.	मुझे नौकरी की आवश्यकता है।
+I need a map.	Ich brauche eine Landkarte.	मुझे एक मानचित्र की जरूरत है।
