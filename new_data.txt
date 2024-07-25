@@ -8987,3 +8987,11 @@ I prefer biking.	Ich ziehe Fahrradfahren vor.	मुझे बाइकिंग
 I prefer coffee.	Ich ziehe Kaffee vor.	मुझे कॉफ़ी पसंद है।
 I protect Tom.	Ich beschütze Tom.	मैं टॉम की रक्षा करता हूँ।
 I put my hat on.	Ich setze meinen Hut auf.	मैंने अपना टोपी पहना लिया।
+I ran after Tom.	Ich rannte Tom nach.	मैं टॉम के पीछे दौड़ा।
+I ran to school.	Ich rannte zur Schule.	मैं स्कूल के लिए दौड़ा।
+I read a letter.	Ich las einen Brief.	मैंने एक पत्र पढ़ा।
+I read his book.	Ich las sein Buch.	मैंने उसकी किताब पढ़ी।
+I read the book.	Ich las das Buch.	मैंने किताब पढ़ी।
+I recommend Tom.	Ich empfehle Tom.	मैं टॉम की सिफारिश करता हूं।
+I relied on Tom.	Ich verließ mich auf Tom.	मैंने टॉम पर भरोसा किया।
+I relied on him.	Ich verließ mich auf ihn.	मैंने उस पर भरोसा किया।
