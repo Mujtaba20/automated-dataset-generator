@@ -9970,3 +9970,12 @@ The gate opened.	Das Tor wurde geöffnet.	गेट खुल गया।
 The house stank.	Das Haus roch unangenehm.	घर बदबू चिढ़ रही थी।
 The lake is big.	Der See ist groß.	झील बडी है।
 The leaves fell.	Die Blätter fielen.	पत्तियाँ गिर गईं।
+The line's busy.	Die Leitung ist besetzt.	लाइन व्यस्त है।
+The man blushed.	Der Mann errötete.	आदमी शर्मिंदा हो गया।
+The moon is out.	Der Mond ist draußen.	चाँद बाहर निकल आया है।
+The mouse moved.	Die Maus bewegte sich.	माउस हिल गया।
+The oven is hot.	Der Ofen ist heiß.	ओवन गरम है।
+The pay is good.	Die Bezahlung ist gut.	वेतन अच्छी है।
+The power's out.	Der Strom ist ausgefallen.	बिजली चली गई है।
+The radio is on.	Das Radio ist an.	रेडियो चालू है।
+The room is hot.	Der Raum ist heiß.	कमरा गरम है।
