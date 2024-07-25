@@ -18474,3 +18474,11 @@ Tom gained weight.	Tom hat Gewicht zugenommen.	टॉम ने वजन बढ
 Tom gave a speech.	Tom hielt eine Rede.	टॉम ने भाषण दिया।
 Tom gave it a try.	Tom hat es versucht.	टॉम ने इसे कोशिश की।
 Tom gave it a shot.	Tom versuchte es.	टॉम ने इसे एक शॉट दिया।
+Tom gave it to me.	Tom gab es mir.	टॉम ने मुझे इसे दिया।
+Tom gave it to us.	Tom hat es uns gegeben.	टॉम ने हमें इसे दिया।
+Tom gave me a hug.	Tom hat mich umarmt.	टॉम ने मुझे एक जादू की झप्पी दी।
+Tom gave me a key.	Tom hat mir einen Schlüssel gegeben.	टॉम ने मुझे एक कुंजी दी।
+Tom gave me a pen.	Tom hat mir einen Stift gegeben.	टॉम ने मुझे एक पेन दिया।
+Tom gets up early.	Tom steht früh auf.	टॉम जल्दी उठता है।
+Tom giggled again.	Tom kicherte wieder.	टॉम फिर से हँस पड़ा।
+Tom gladly agreed.	Tom stimmte gerne zu.	टॉम खुशी-खुशी सहमत हुआ।

@@ -1,15 +1,4 @@
 
-Tom gave it to me.	Tom hat es mir gegeben.	टॉम ने मुझे दिया।
-Tom gave it to us.	Tom hat es uns gegeben.	टॉम ने हमें दिया।
-Tom gave me a hug.	Tom drückte mich.	टॉम ने मुझे दबाया।
-Tom gave me a hug.	Tom hat mich umarmt.	टॉम ने मुझे गले लगाया।
-Tom gave me a key.	Tom gab mir einen Schlüssel.	टॉम ने मुझे एक चाबी दी।
-Tom gave me a pen.	Tom gab mir einen Stift.	टॉम ने मुझे एक पेन दिया।
-Tom gave me a pen.	Tom hat mir einen Stift gegeben.	टॉम ने मुझे एक पेन दिया।
-Tom gets up early.	Tom steht früh auf.	टॉम जल्दी उठता है।
-Tom giggled again.	Tom kicherte wieder.	टॉम ने फिर से गिग कर दिया।
-Tom gladly agreed.	Tom stimmte gerne zu.	टॉम को सहमत होना पसंद था।
-Tom gladly agreed.	Tom hat gerne zugestimmt.	टॉम को सहमत होना पसंद था।
 Tom got a haircut.	Tom hat sich die Haare schneiden lassen.	टॉम ने अपने बाल काट लिए हैं।
 Tom got a new job.	Tom hat eine neue Stelle.	टॉम के पास एक नया काम है।
 Tom got depressed.	Tom wurde deprimiert.	टॉम उदास था।
