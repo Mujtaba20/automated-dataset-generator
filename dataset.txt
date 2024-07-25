@@ -1,14 +1,4 @@
 
-Solve the problem.	Löse das Problem!	समस्या का समाधान करो!
-Somebody answered.	Jemand antwortete.	किसी ने जवाब दिया।
-Somebody answered.	Jemand ging dran.	कोई उस पर चला गया।
-Somebody's coming.	Jemand kommt.	कोई आ रहा है।
-Somehow, Tom knew.	Irgendwie wusste Tom Bescheid.	किसी तरह टॉम जानता था।
-Someone is coming.	Jemand kommt.	कोई आ रहा है।
-Someone must lead.	Jemand muss die Führung übernehmen.	किसी को नेतृत्व करना है।
-Someone was there.	Es war jemand da.	वहाँ कोई था।
-Someone's calling.	Jemand ruft.	कोई फोन करता है।
-Someone's missing.	Jemand fehlt.	कोई रह गया है।
 Someone's outside.	Jemand ist draußen.	कोई बाहर है।
 Someone's outside.	Draußen ist jemand.	बाहर कोई है।
 Someone's singing.	Jemand singt.	कोई गाता है।

@@ -17814,3 +17814,12 @@ Silk is expensive.	Seide ist teuer.	रेशम महंगा है।
 Sloths eat leaves.	Faultiere fressen Blätter.	आलसी पत्ते खाते हैं।
 Smell this flower.	Riech an dieser Blume.	इस फूल की खुशबू को महसूस करें।
 So where were you?	Wo warst du also?	तो तुम कहां थे?
+Solve the problem.	Das Problem lösen.	समस्या को हल करो।
+Somebody answered.	Jemand hat geantwortet.	कोई जवाब दिया।
+Somebody's coming.	Jemand kommt.	कोई आ रहा है।
+Somehow, Tom knew.	Irgendwie wusste Tom.	किसी तरह, टॉम को पता था।
+Someone is coming.	Jemand kommt.	कोई आ रहा है।
+Someone must lead.	Jemand muss führen.	किसी को नेतृत्व करना चाहिए।
+Someone was there.	Jemand war da.	किसी के वहाँ था।
+Someone's calling.	Jemand ruft an.	किसी को कॉल कर रहा है।
+Someone's missing.	Jemand fehlt.	किसी की कमी है।
