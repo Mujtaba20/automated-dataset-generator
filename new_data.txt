@@ -11273,3 +11273,11 @@ Who did you see?	Wen hast du gesehen?	तुमने किसे देखा?
 Who do you love?	Wen liebst du?	तुम किसे प्यार करते हो?
 Who is confused?	Wer ist verwirrt?	कौन उलझा हुआ है?
 Who is that boy?	Wer ist dieser Junge?	वह लड़का कौन है?
+Who is that guy?	Wer ist dieser Mann?	वह कौन है?
+Who is that man?	Wer ist dieser Kerl?	उस आदमी कौन है?
+Who is this boy?	Wer ist dieser Junge?	यह लड़का कौन है?
+Who is this guy?	Wer ist dieser Typ?	यह आदमी कौन है?
+Who is your dad?	Wer ist dein Vater?	तुम्हारे पिता कौन हैं?
+Who likes beans?	Wer mag Bohnen?	राजमा किसको पसंद है?
+Who scolded Tom?	Wer hat Tom geschimpft?	तोम पर किसने डाँटा?
+Who stabbed Tom?	Wer hat Tom erstochen?	तोम की छलांग किसने लगाई?
