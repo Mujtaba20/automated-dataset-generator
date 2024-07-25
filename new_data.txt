@@ -20556,3 +20556,12 @@ Don't wake the cat.	Wecke die Katze nicht auf.	बिल्ली को न ज
 Don't wake them up.	Wecke sie nicht auf.	उन्हें न जगाएं।
 Don't walk so fast.	Langsamer gehen.	तेज़ी से मत चलो।
 engSentence	Schreib nicht mit Tinte.	स्याही में मत लिखो।
+Drink up your milk.	Trink deine Milch aus.	अपना दूध पी लो।
+Drink with me, Tom.	Trink mit mir, Tom.	तुम मेरे साथ पीओ, टॉम।
+Driving relaxes me.	Das Autofahren entspannt mich.	गाड़ी चलाने से मुझे आराम मिलता है।
+Easy come, easy go.	Wie gewonnen, so zerronnen.	आसानी से आया, आसानी से चला गया।
+Endorse this check.	Unterzeichnen Sie diesen Scheck.	इस चेक को समर्थन करें।
+Endorse this check. (Different meaning)	Befürworten Sie diesen Scheck.	इस चेक का समर्थन करें।
+Enjoy your evening.	Genieße deinen Abend.	अपनी शाम का आनंद लो।
+Enjoy your evening. (Different meaning)	Viel Spaß am Abend.	अपनी शाम का मज़ा लो।
+Enjoy your evening. (Different meaning 2)	Freue dich auf deinen Abend.	अपनी शाम का आनंद लो।
