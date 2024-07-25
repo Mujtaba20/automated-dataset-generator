@@ -16711,3 +16711,13 @@ I miss my parents.	Ich vermisse meine Eltern.	मुझे मेरे मा�
 I miss that place.	Ich vermisse diesen Ort.	मुझे उस जगह की याद आती है।
 I miss this place.	Ich vermisse diesen Ort.	मुझे इस जगह की याद आती है।
 I miss your jokes.	Ich vermisse deine Späße.	मुझे तुम्हारे मजेदार विचार पसंद हैं।
+I missed my train.	Ich habe meinen Zug verpasst.	मुझसे मेरी ट्रेन छूट गई।
+I must've fainted.	Ich muss ohnmächtig geworden sein.	मेरा संज्ञा विकल हो गया होगा।
+I need 30 minutes.	Ich brauche 30 Minuten.	मुझे 30 मिनट चाहिए।
+I need Tom's help.	Ich brauche Toms Hilfe.	मुझे टॉम की मदद चाहिए।
+I need a calendar.	Ich brauche einen Kalender.	मुझे एक कैलेंडर चाहिए।
+I need a computer.	Ich brauche einen Computer.	मुझे एक कंप्यूटर चाहिए।
+I need a keyboard.	Ich brauche eine Tastatur.	मुझे एक कीबोर्ड चाहिए।
+I need a vacation!	Ich brauche Urlaub!	मुझे अवकाश चाहिए!
+I need help badly.	Ich brauche dringend Hilfe.	मुझे बड़ी तरह से मदद की आवश्यकता है।
+I need many books.	Ich brauche viele Bücher.	मुझे कई किताबें चाहिए।
