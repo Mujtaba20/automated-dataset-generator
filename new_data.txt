@@ -3406,3 +3406,11 @@ Tom is young.	Tom ist jung.	टॉम युवा है।
 Tom isn't OK.	Tom ist nicht in Ordnung.	टॉम ठीक नहीं है।
 Tom isn't in.	Tom ist nicht dabei.	टॉम अंदर नहीं है।
 Tom just ate.	Tom hat gerade gegessen.	टॉम अभी अभी खाया है।
+Tom just won.	Tom hat gerade gewonnen.	टॉम ने अभी अभी जीत हासिल की है।
+Tom knows it.	Tom weiß es.	टॉम को यह पता है।
+Tom knows me.	Tom kennt mich.	टॉम मुझे जानता है।
+Tom knows us.	Tom kennt uns.	टॉम हमें जानता है।
+Tom liked it.	Tom mochte es.	टॉम को यह पसंद था।
+Tom likes it.	Tom mag es.	टॉम को यह पसंद है।
+Tom likes me.	Tom mag mich.	टॉम को मुझसे प्यार है।
+Tom looks OK.	Tom sieht okay aus.	टॉम ठीक लग रहा है।
