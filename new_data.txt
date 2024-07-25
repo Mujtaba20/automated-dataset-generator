@@ -9395,3 +9395,12 @@ Is Tom still up?	Ist Tom noch wach?	क्या टॉम अब भी जा�
 Is Tom swimming?	Schwimmt Tom?	क्या टॉम तैर रहा है?
 Is Tom with you?	Ist Tom bei dir?	क्या टॉम तुम्हारे साथ है?
 Is anybody here?	Ist hier jemand?	क्या कोई यहाँ है?
+Is anybody home?	Ist jemand zu Hause?	कोई घर पर है क्या?
+Is anybody hurt?	Ist jemand verletzt?	क्या कोई चोटिल है?
+Is dinner ready?	Ist das Abendessen fertig?	क्या खाना तैयार है?
+Is he a teacher?	Ist er ein Lehrer?	क्या वह एक शिक्षक है?
+Is he breathing?	Atmet er?	क्या वह सांस ले रहा है?
+Is it a problem?	Ist das ein Problem?	क्या यह समस्या है?
+Is it important?	Ist es wichtig?	क्या यह महत्वपूर्ण है?
+Is it near here?	Ist es hier in der Nähe?	क्या यह यहाँ पास है?
+Is it necessary?	Ist es notwendig?	क्या यह आवश्यक है?
