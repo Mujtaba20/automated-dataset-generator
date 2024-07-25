@@ -14230,3 +14230,12 @@ Tom is in Boston.	Tom ist in Boston.	टॉम बॉस्टन में ह�
 Tom is in a gang.	Tom ist in einer Gang.	टॉम गैंग में है।
 Tom is in denial.	Tom leugnet.	टॉम इनकार कर रहा है।
 Tom is in prison.	Tom ist im Gefängnis.	टॉम कारागार में है।
+Tom is incorrect.	Tom hat Unrecht.	टॉम गलत है।
+Tom is indignant.	Tom ist empört.	टॉम उत्तेजित है।
+Tom is insincere.	Tom ist unaufrichtig.	टॉम असंवेदनशील है।
+Tom is intrigued.	Tom ist fasziniert.	टॉम को उत्कंठित कर रहा है।
+Tom is inventive.	Tom ist erfinderisch.	टॉम आविष्कारी है।
+Tom is irritated.	Tom ist gereizt.	टॉम को चिड़ाना हुआ है।
+Tom is lecherous.	Tom ist lüstern.	टॉम विषयवान है।
+Tom is legendary.	Tom ist legendär.	टॉम का एक पुराना तथ्य है।
+Tom is like Mary.	Tom ist wie Maria.	टॉम मेरी जैसा है।
