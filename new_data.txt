@@ -14827,3 +14827,12 @@ Tom wears a ring.	Tom hat einen Ring an.	टॉम एक अंगूठी प
 Tom went bananas.	Tom drehte durch.	टॉम पागल हो गया।
 Tom went berserk.	Tom wurde rasend.	टॉम उन्माद में चला गया।
 Tom went bonkers.	Tom wurde verrückt.	टॉम पागल हो गया।
+Tom went fishing.	Tom ging angeln.	टॉम मछली पकड़ने गया।
+Tom went missing.	Tom verschwand.	टॉम ग़ायब हो गया।
+Tom went outside.	Tom ging nach draußen.	टॉम बाहर गया।
+Tom went running.	Tom lief los.	टॉम दौड़ते हुए गया।
+Tom went surfing.	Tom ging surfen.	टॉम सर्फिंग करने गया।
+Tom went too far.	Tom ging zu weit.	टॉम बहुत दूर चला गया।
+Tom wets his bed.	Tom nässt sein Bett ein.	टॉम अपने बिस्तर में पेशाब करता है।
+Tom will be back.	Tom wird zurückkommen.	टॉम वापस आएगा।
+Tom will be fine.	Tom wird in Ordnung sein.	टॉम ठीक हो जाएगा।
