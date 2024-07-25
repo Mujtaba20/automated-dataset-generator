@@ -3550,3 +3550,11 @@ We got ready.	Wir haben uns fertig gemacht.	हम तैयार हो गए
 We had a cat.	Wir hatten eine Katze.	हमारे पास एक बिल्ली थी।
 We had lunch.	Wir haben zu Mittag gegessen.	हमने दोपहर का खाना खाया।
 We have time.	Wir haben Zeit.	हमारे पास समय है।
+We knew that.	Wir wussten das.	हम जानते थे कि।
+We knew this.	Wir wussten das.	हम यह जानते थे।
+We know that.	Wir wissen das.	हमे पता है कि।
+We know them.	Wir kennen sie.	हम उन्हें जानते हैं।
+We know this.	Wir kennen das.	हम यह जानते हैं।
+We liked Tom.	Wir mochten Tom.	हमें टॉम पसंद था।
+We live here.	Wir leben hier.	हम यहाँ रहते हैं।
+We looked up.	Wir schauten auf.	हमने ऊपर देखा।
