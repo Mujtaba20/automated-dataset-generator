@@ -5439,3 +5439,9 @@ You are crazy.	Du bist verrückt.	तुम पागल हो।
 You are drunk!	Du bist betrunken!	तुम नशे में हो!
 You are lying.	Du lügst.	तुम झूठ बोल रहे हो।
 You are wrong.	Du irrst dich.	तुम गलत हो।
+You aren't me.	Du bist nicht ich.	तुम मैं नहीं हो।
+You better go.	Du solltest gehen.	तुम्हें बेहतर जाना चाहिए।
+You can do it.	Sie können es tun.	तुम कर सकते हो।
+You can't win.	Du kannst nicht gewinnen.	तुम जीत नहीं सकते।
+You don't say.	Du sagst es nicht.	तुम नहीं कहते।
+You have mail.	Du hast Post.	तुम्हारे पास मेल है।
