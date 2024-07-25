@@ -16966,3 +16966,11 @@ I would like that.	Das würde ich gerne haben.	मुझे वह चाहि�
 I would've waited.	Ich hätte gewartet.	मैं इंतजार करता।
 I wrote it myself.	Ich habe es selbst geschrieben.	मैंने खुद लिखा है।
 I wrote that book.	Ich habe das Buch geschrieben.	मैंने वो किताब लिखी थी।
+I wrote this book.	Ich habe dieses Buch geschrieben.	मैंने यह किताब लिखी।
+I yelled for help.	Ich rief um Hilfe.	मैंने मदद के लिए चिल्लाया।
+I'd better go now.	Ich sollte jetzt gehen.	मुझे अब चलना बेहतर है।
+I'd like to dance.	Ich würde gerne tanzen.	मुझे नृत्य करना पसंद है।
+I'd like to stand.	Ich würde gerne stehen.	मुझे खड़े रहना पसंद है।
+I'd love to do it.	Ich würde es gerne tun.	मैं इसे करने में प्यार करूँगा।
+I'd prefer not to.	Ich würde lieber nicht.	मैं नहीं करना चाहूँगा।
+I'd rather not go.	Ich würde lieber nicht gehen.	मैं नहीं जाना चाहूँगा।
