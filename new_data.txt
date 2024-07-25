@@ -20171,3 +20171,9 @@ You're here early.	Du bist früh hier.	तुम यहाँ जल्दी �
 You're home early.	Du bist früh zu Hause.	तुम घर जल्दी हो।
 You're hurting me.	Du verletzt mich.	तुम मुझे चोट पहुंचा रहे हो।
 You're illiterate.	Du bist analphabet.	तुम अक्षरहीन हो।
+You're in my seat.	Du bist in meinem Sitzplatz.	तुम मेरी सीट पर हो।
+You're in the way.	Du stehst im Weg.	तुम रास्ते में हो।
+You're in trouble.	Du bist in Schwierigkeiten.	तुम मुश्किल में हो।
+You're incredible.	Du bist unglaublich.	तुम अविश्वसनीय हो।
+You're just a boy.	Du bist nur ein Junge.	तुम सिर्फ एक लड़का हो।
+You're just a kid.	Du bist nur ein Kind.	तुम सिर्फ एक बच्चा हो।
