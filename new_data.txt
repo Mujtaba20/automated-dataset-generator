@@ -4552,3 +4552,12 @@ It's annoying.	Es ist ärgerlich.	यह परेशान कर रहा ह
 It's been fun.	Es hat Spaß gemacht.	यह मजेदार रहा है।
 It's business.	Es ist ein Geschäft.	यह व्यापार है।
 It's close by.	Es ist in der Nähe.	यह पास है।
+It's cold now.	Es ist jetzt kalt.	अब यह ठंडा है।
+It's dark now.	Es ist jetzt dunkel.	अब यह अंधेरा है।
+It's exciting.	Es ist aufregend.	यह रोमांचक है।
+It's fall now.	Es ist jetzt Herbst.	अब यह पतझड़ है।
+It's gorgeous.	Es ist wunderschön.	यह शानदार है।
+It's happened.	Es ist geschehen.	ऐसा हुआ है।
+It's homemade.	Es ist selbstgemacht.	यह घर पर बना हुआ है।
+It's hopeless.	Es ist hoffnungslos.	यह बेढ़ंगा है।
+It's hot here.	Es ist heiß hier.	यहाँ गरम है।
