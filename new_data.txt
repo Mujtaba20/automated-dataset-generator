@@ -11433,3 +11433,6 @@ You're so right.	Du hast so recht.	तुम बिल्कुल सही ह
 You're so sweet.	Du bist so süß.	तुम इतने प्यारे हो।
 You're so sweet. (2)	Du bist so lieb.	तुम बहुत प्यारे हो।
 You're so weird.	Du bist so seltsam.	तुम बहुत अजीब हो।
+You're so young.	Du bist noch so jung.	तुम बहुत कम उम्र के हो।
+You're stalling.	Du zögerst.	तुम ठहर गए हो।
+You're the best.	Du stehst an der Spitze.	तुम सबसे शानदार हो।
