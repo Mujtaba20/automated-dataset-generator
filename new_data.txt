@@ -10827,3 +10827,12 @@ Tom was content.	Tom war zufrieden.	टॉम संतुष्ट था।
 Tom was crushed.	Tom wurde zerquetscht.	टॉम कुचल दिया गया था।
 Tom was curious.	Tom war neugierig.	टॉम कोई चांचल था।
 Tom was defiant.	Tom war trotzig.	तोम आदान-प्रदान कर रहा था।
+Tom was devious.	Tom war hinterlistig.	टॉम धोखेबाज था।
+Tom was devoted.	Tom war hingebungsvoll.	टॉम निष्ठावान था।
+Tom was driving.	Tom fuhr.	टॉम गाड़ी चला रहा था।
+Tom was dubious.	Tom war zweifelhaft.	टॉम संदेहपूर्ण था।
+Tom was elderly.	Tom war älter.	टॉम बूढ़ा था।
+Tom was elected.	Tom wurde gewählt.	टॉम को चुना गया था।
+Tom was enraged.	Tom war wütend.	टॉम उन्मत्त था।
+Tom was evasive.	Tom war ausweichend.	टॉम टाल-मटोल कर रहा था।
+Tom was excited.	Tom war aufgeregt.	टॉम उत्साहित था।
