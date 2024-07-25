@@ -1,14 +1,4 @@
 
-When was she born?	Wann wurde sie geboren?	उसका जन्म कब हुआ था?
-When will he come?	Wann kommt er?	वह कब आता है?
-When will we meet?	Wann werden wir uns treffen?	हम कब मिलेंगे?
-When's Tom coming?	Wann kommt Tom?	टॉम कब आता है?
-Where are my keys?	Wo sind meine Schlüssel?	मेरी चाबियां कहां हैं?
-Where are you now?	Wo seid ihr jetzt?	अभी आप कहाँ हैं?
-Where are you now?	Wo sind Sie jetzt?	अभी आप कहाँ हैं?
-Where can we meet?	Wo können wir uns treffen?	हम कहां मिल सकते हैं?
-Where can we park?	Wo können wir parken?	हम कहाँ पार्क कर सकते हैं?
-Where could he be?	Wo könnte er sein?	वह कहाँ हो सकता है?
 Where did Tom eat?	Wo hat Tom gegessen?	टॉम ने कहाँ खाया?
 Where did they go?	Wo gingen sie hin?	आप कहा चले गए थे?
 Where did you eat?	Wo hast du gegessen?	आपने कहाँ खाया?

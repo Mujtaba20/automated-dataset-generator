@@ -19811,3 +19811,12 @@ When is Halloween?	Wann ist Halloween?	हैलोवीन कब है?
 When is breakfast?	Wann ist Frühstück?	नाश्ता कब होता है?
 When was it built?	Wann wurde es gebaut?	यह कब बनाया गया था?
 When does he come?	Wann kommt er?	वह कब आता है?
+When was she born?	Wann ist sie geboren?	उसका जन्म कब हुआ था?
+When will he come?	Wann kommt er?	वह कब आएगा?
+When will we meet?	Wann werden wir uns treffen?	हम कब मिलेंगे?
+When's Tom coming?	Wann kommt Tom?	टॉम कब आ रहा है?
+Where are my keys?	Wo sind meine Schlüssel?	मेरी कुंजी कहाँ हैं?
+Where are you now?	Wo bist du jetzt?	तुम अभी कहाँ हो?
+Where can we meet?	Wo können wir uns treffen?	हम कहाँ मिल सकते हैं?
+Where can we park?	Wo können wir parken?	हम कहाँ पार्क कर सकते हैं?
+Where could he be?	Wo könnte er sein?	वह कहाँ हो सकता है?
