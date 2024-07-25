@@ -13046,3 +13046,13 @@ Is that your cat?	Ist das deine Katze?	क्या यह तुम्हार
 Is that your dog?	Ist das dein Hund?	क्या यह तुम्हारा कुत्ता है?
 Is that your mom?	Ist das deine Mutter?	क्या यह तुम्हारी माँ है?
 Is that your son?	Ist das dein Sohn?	क्या यह तुम्हारा बेटा है?
+Is the TV broken?	Ist der Fernseher kaputt?	क्या टीवी टूटा है?
+Is the apple red?	Ist der Apfel rot?	क्या सेब लाल है?
+Is the bank open?	Ist die Bank offen?	क्या बैंक खुली है?
+Is the door open?	Ist die Tür offen?	क्या दरवाजा खुला है?
+Is the lake deep?	Ist der See tief?	क्या झील गहरी है?
+Is the well deep?	Ist der Brunnen tief?	क्या कुआं गहरा है?
+Is this 223-1374?	Ist dies 223-1374?	क्या यह 223-1374 है?
+Is this a flower?	Ist das eine Blume?	क्या यह एक फूल है?
+Is this a riddle?	Ist das ein Rätsel?	क्या यह एक पहेली है?
+Is this about me?	Geht es um mich?	क्या यह मेरे बारे में है?
