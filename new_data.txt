@@ -14576,3 +14576,13 @@ Tom quit his job.	Tom hat seinen Job aufgegeben.	टॉम ने अपनी �
 Tom quit running.	Tom hörte auf zu laufen.	टॉम ने दौड़ना छोड़ दिया।
 Tom quit smoking.	Tom hörte auf zu rauchen.	टॉम ने धूम्रपान छोड़ दिया।
 Tom ran upstairs.	Tom rannte die Treppe hinauf.	टॉम सीढ़ियों पर भागा।
+Tom rarely spoke.	Tom sprach selten.	टॉम बहुत कम बोलता था।
+Tom reads novels.	Tom liest Romane.	टॉम कहानियां पढ़ता है।
+Tom reads slowly.	Tom liest langsam.	टॉम धीरे से पढ़ता है।
+Tom rescued Mary.	Tom rettete Mary.	टॉम ने मेरी को बचाया।
+Tom respects you.	Tom respektiert dich.	टॉम आपका सम्मान करता है।
+Tom rode a camel.	Tom ritt auf einem Kamel.	टॉम उट पर सवार था।
+Tom said goodbye.	Tom sagte auf Wiedersehen.	टॉम ने अलविदा कहा।
+Tom said nothing.	Tom sagte nichts.	टॉम ने कुछ नहीं कहा।
+Tom sat on a log.	Tom saß auf einem Baumstamm.	टॉम एक लकड़ी पर बैठा था।
+Tom sat silently.	Tom saß schweigend.	टॉम खामोश रहता था।
