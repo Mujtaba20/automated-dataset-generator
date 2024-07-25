@@ -5390,3 +5390,10 @@ What was that?	Was war das?	वह क्या था?
 What's inside?	Was ist drinnen?	अंदर क्या है?
 What's it for?	Wofür ist es?	इसके फायदे क्या हैं?
 When do we go?	Wann gehen wir?	हम कब जाएँगे?
+When's dinner?	Wann ist das Abendessen?	रात का खाना कब है?
+Where are you?	Wo bist du?	तुम कहाँ हो?
+Where is that?	Wo ist das?	वह कहाँ है?
+Where was Tom?	Wo war Tom?	टॉम कहाँ था?
+Which is mine?	Welches ist meins?	मेरा कौनसा है?
+Who asked you?	Wer hat dich gefragt?	तुमसे किसने पूछा?
+Who called me?	Wer hat mich angerufen?	मुझे किसने कॉल किया?
