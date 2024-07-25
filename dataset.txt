@@ -1,15 +1,4 @@
 
-What does this do?	Was macht das?	यह क्या बनाता है?
-What flavor is it?	Was ist das für ein Geschmack?	वह किस तरह का स्वाद है?
-What flavor is it?	Welcher Geschmack ist das?	वह क्या स्वाद है?
-What gave me away?	Was hat mich verraten?	क्या दिया?
-What good is that?	Wofür ist das gut?	इसके लिए क्या अच्छा है?
-What good is that?	Was nützt das?	यह क्या उपयोगी है?
-What good is this?	Wofür ist das gut?	इसके लिए क्या अच्छा है?
-What good is this?	Was nützt das?	यह क्या उपयोगी है?
-What got into you?	Was ist in dich gefahren?	आप के साथ क्या गलत हुआ है?
-What happens next?	Was passiert dann?	फिर क्या होता है?
-What happens next?	Was wird als nächstes geschehen?	आगे क्या होगा?
 What has Tom done?	Was hat Tom gemacht?	टॉम ने क्या किया?
 What has Tom seen?	Was hat Tom gesehen?	टॉम ने क्या देखा?
 What have we done?	Was haben wir getan?	हमने क्या किया?

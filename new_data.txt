@@ -19725,3 +19725,10 @@ What do you weigh?	Wie viel wiegst du?	तुम कितने किलो �
 What does Tom say?	Was sagt Tom?	टॉम क्या कहते हैं?
 What does it mean?	Was bedeutet das?	यह क्या मतलब है?
 What does that do?	Was macht das?	वह क्या करता है?
+What does this do?	Was macht das?	यह क्या करता है?
+What flavor is it?	Welcher Geschmack ist das?	यह कैसा स्वाद है?
+What gave me away?	Was hat mich verraten?	मुझे पहचान में क्या दिखाया?
+What good is that?	Was bringt das?	उससे क्या होगा?
+What good is this?	Was bringt das?	यह क्या उत्पन्न करेगा?
+What got into you?	Was ist in dich gefahren?	तुम्हें क्या हुआ?
+What happens next?	Was passiert als Nächstes?	अगला क्या होने वाला है?
