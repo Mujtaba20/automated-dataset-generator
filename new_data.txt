@@ -6682,3 +6682,11 @@ Just sign here.	Unterschreib hier einfach.	यहां बस हस्ता�
 Keep Tom quiet.	Halte Tom ruhig.	टॉम को शांत रखो।
 Keep Tom there.	Halte Tom dort.	वहां टॉम को रखो।
 Keep it on you.	Behalte es bei dir.	यह अपने पास रखो।
+Keep it simple.	Halte es einfach.	इसे सरल रखें।
+Keep me posted.	Informiere mich.	मुझे अपडेट देते रहो।
+Keep searching.	Weiter suchen.	खोज जारी रखें।
+Kids are cruel.	Kinder sind grausam.	बच्चे क्रूर होते हैं।
+Kissing is fun.	Küssen macht Spaß.	चुंबन मजेदार है।
+Large or small?	Groß oder klein?	बड़ा या छोटा?
+Leave it alone.	Lass es in Ruhe.	इसे अकेले छोड़ दो।
+Leave it there.	Lass es dort.	वही छोड़ दो।
