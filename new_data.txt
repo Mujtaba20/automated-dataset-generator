@@ -14153,3 +14153,13 @@ Tom is a yes-man.	Tom ist ein Jasager.	टॉम एक हाँ-करने�
 Tom is a yodeler.	Tom ist ein Jodler.	टॉम एक योडलर है।
 Tom is adaptable.	Tom ist anpassungsfähig.	टॉम अनुकूली है।
 Tom is all alone.	Tom ist ganz allein.	टॉम पूरी तरह अकेला है।
+Tom is all right.	Tom ist in Ordnung.	टॉम ठीक है।
+Tom is ambitious.	Tom ist ehrgeizig.	टॉम महत्वाकांक्षी है।
+Tom is an artist.	Tom ist ein Künstler.	टॉम एक कलाकार है।
+Tom is an author.	Tom ist ein Autor.	टॉम लेखक है।
+Tom is an intern.	Tom ist ein Praktikant.	टॉम एक इंटर्न है।
+Tom is an outlaw.	Tom ist ein Gesetzloser.	टॉम एक अपराधी है।
+Tom is assertive.	Tom ist durchsetzungsfähig.	टॉम सुनिश्चित है।
+Tom is attentive.	Tom ist aufmerksam.	टॉम ध्यानवान है।
+Tom is available.	Tom ist verfügbar.	टॉम उपलब्ध है।
+Tom is awake now.	Tom ist jetzt wach.	टॉम अब जागा हुआ है।
