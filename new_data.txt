@@ -17293,3 +17293,11 @@ It fits perfectly.	Es passt perfekt.	यह सही जगह पर बैठ
 It goes both ways.	Es geht in beide Richtungen.	यह दोनों तरफ से जाता है।
 It had to be done.	Es musste gemacht werden.	यह करना जरूरी था।
 It happened again.	Es ist wieder passiert.	फिर से हो गया।
+It happened today.	Es geschah heute.	यह आज हुआ।
+It has cooled off.	Es ist abgekühlt.	इसने ठंडा हो गया है।
+It has to be done.	Es muss erledigt werden.	यह करना होगा।
+It has to be true.	Es muss wahr sein.	यह सच होना चाहिए।
+It hurts terribly.	Es tut furchtbar weh.	यह बेहद चोट लगती है।
+It is a good cake.	Es ist ein guter Kuchen.	यह एक अच्छा केक है।
+It is a small dog.	Es ist ein kleiner Hund.	यह एक छोटा कुत्ता है।
+It is a white lie.	Es ist eine Notlüge.	यह एक सफेद झूठ है।
