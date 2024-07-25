@@ -2835,3 +2835,12 @@ I'm a mother.	Ich bin eine Mutter.	मैं एक माँ हूँ।
 I'm a purist.	Ich bin puristisch.	मैं शुद्धतावादी हूँ।
 I'm a singer.	Ich bin Sängerin.	मैं गायिका हूँ।
 I'm addicted.	Ich bin süchtig.	मुझे लत चढ़ गई है।
+I'm all ears.	Ich habe ganz Ohr.	मैं पूरी तरह से कान हूँ।
+I'm anorexic.	Ich bin magersüchtig.	मैं एनोरेक्सिया हूँ।
+I'm artistic.	Ich bin künstlerisch.	मैं कलात्मक हूँ।
+I'm at Tom's.	Ich bin bei Tom.	मैं टॉम के यहाँ हूँ।
+I'm bleeding.	Ich blute.	मैं खून बह रहा हूँ।
+I'm bluffing.	Ich bluffe.	मैं धोखा दे रहा हूँ।
+I'm busy now.	Ich bin jetzt beschäftigt.	मैं अभी व्यस्त हूँ।
+I'm creative.	Ich bin kreativ.	मैं रचनात्मक हूँ।
+I'm diabetic.	Ich bin Diabetiker.	मैं मधुमेह संबंधी हूँ।
