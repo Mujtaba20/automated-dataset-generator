@@ -5127,3 +5127,13 @@ Tom wanted it.	Tom wollte es.	टॉम चाहता था।
 Tom wants one.	Tom will eins.	टॉम एक चाहता है।
 Tom wants you.	Tom will dich.	टॉम तुम्हें चाहता है।
 Tom warned us.	Tom hat uns gewarnt.	टॉम ने हमें चेतावनी दी।
+Tom was a spy.	Tom war ein Spion.	टॉम एक जासूस था।
+Tom was alone.	Tom war allein.	टॉम अकेला था।
+Tom was angry.	Tom war wütend.	टॉम गुस्सा था।
+Tom was blind.	Tom war blind.	टॉम अंधा था।
+Tom was bored.	Tom war gelangweilt.	टॉम उबाऊ था।
+Tom was brave.	Tom war tapfer.	टॉम बहादुर था।
+Tom was dirty.	Tom war schmutzig.	टॉम गंदा था।
+Tom was dizzy.	Tom war schwindelig.	टॉम चक्करा रहा था।
+Tom was drunk.	Tom war betrunken.	टॉम नशे में था।
+Tom was dying.	Tom war am Sterben.	टॉम मर रहा था।
