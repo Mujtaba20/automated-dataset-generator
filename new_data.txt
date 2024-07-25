@@ -948,3 +948,12 @@ How tragic!	Wie tragisch!	कितनी दुर्भाग्यपूर�
 How was it?	Wie war es?	यह कैसा था?
 How's work?	Wie geht die Arbeit?	काम कैसा चल रहा है?
 Hurry home.	Beeil dich nach Hause.	शीघ्र घर आओ.
+I admit it.	Ich gebe es zu.	मैं मानता हूँ।
+I am a boy.	Ich bin ein Junge.	मैं एक लड़का हूँ।
+I am a man.	Ich bin ein Mann.	मैं एक आदमी हूँ।
+I am a man. (different meaning)	Ich bin männlich.	मैं पुरुष हूँ।
+I am happy.	Ich bin glücklich.	मैं खुश हूँ।
+I am happy. (different meaning)	Ich freue mich.	मुझे खुशी है।
+I am human.	Ich bin ein Mensch.	मैं मनुष्य हूँ।
+I am ready.	Ich bin bereit.	मैं तैयार हूँ।
+I am ready. (different meaning)	Ich bin fertig.	मैं आरंभ किया हूँ।
