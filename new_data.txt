@@ -12955,3 +12955,11 @@ I'm right-handed.	Ich bin rechtshändig.	मैं दाएं हाथ का
 I'm sick of fish.	Ich habe genug von Fisch.	मुझे मछली से थक गया है।
 I'm sick of this.	Ich habe genug davon.	मुझे इससे थक गया है।
 I'm still hungry.	Ich bin immer noch hungrig.	मुझे अभी भी भूख लगी है।
+I'm still single.	Ich bin immer noch solo.	मैं अभी भी एकाकी हूँ।
+I'm still sleepy.	Ich bin immer noch müde.	मुझे अभी भी नींद आ रही है।
+I'm stressed out.	Ich bin gestresst.	मैं तनावग्रस्त हूँ।
+I'm stronger now.	Ich bin jetzt stärker.	अब मैं ज्यादा मजबूत हूँ।
+I'm such a klutz.	Ich bin so ein Tollpatsch.	मैं एक हथकड़ी हूँ।
+I'm the boss now.	Ich bin jetzt der Boss.	अब मैं मालिक हूँ।
+I'm unprejudiced.	Ich bin unvoreingenommen.	मैं पक्षपातरहित हूँ।
+I'm used to that.	Ich bin daran gewöhnt.	मैं उसे आदत समझता हूँ।
