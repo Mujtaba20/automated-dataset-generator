@@ -7619,3 +7619,12 @@ Tom was absent.	Tom war abwesend.	टॉम अनुपस्थित था�
 Tom was amazed.	Tom war erstaunt.	टॉम हैरान था।
 Tom was amused.	Tom war amüsiert.	टॉम मजे में था।
 Tom was asleep.	Tom schlief.	टॉम सो रहा था।
+Tom was beaten.	Tom wurde geschlagen.	टॉम पीटा गया था।
+Tom was better.	Tom war besser.	टॉम बेहतर था।
+Tom was biased.	Tom war voreingenommen.	टॉम दूसरों के पक्षपातपूर्ण था।
+Tom was boring.	Tom war langweilig.	टॉम उबाऊ था।
+Tom was bright.	Tom war hell.	टॉम उज्ज्वल था।
+Tom was caught.	Tom wurde erwischt.	टॉम पकड़ा गया था।
+Tom was clever.	Tom war geschickt.	टॉम होशियार था।
+Tom was crafty.	Tom war listig.	टॉम चालाक था।
+Tom was cranky.	Tom war mürrisch.	टॉम क्रैंकी था।
