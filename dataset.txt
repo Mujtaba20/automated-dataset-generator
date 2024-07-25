@@ -1,14 +1,4 @@
 
-Tom likes popcorn.	Tom mag Popcorn.	टॉम को पॉपकॉर्न पसंद है।
-Tom likes puzzles.	Tom mag Puzzles.	टॉम को पहेलियाँ पसंद हैं।
-Tom likes running.	Tom läuft gerne.	टॉम को दौड़ना पसंद है।
-Tom likes sausage.	Tom mag Wurst.	टॉम मैग सॉसेज।
-Tom likes seafood.	Tom mag Meeresfrüchte.	टॉम को समुद्री भोजन पसंद है।
-Tom likes singing.	Tom singt gerne.	टॉम गाना पसंद करते हैं।
-Tom likes skating.	Tom mag Eislaufen.	टॉम को आइस स्केटिंग पसंद है।
-Tom likes stories.	Tom mag Geschichten.	टॉम को कहानियाँ पसंद हैं।
-Tom likes surfing.	Tom surft gerne.	टॉम को सर्फ करना पसंद है।
-Tom likes to bowl.	Tom spielt gerne Bowling.	टॉम को गेंदबाजी खेलना पसंद है।
 Tom likes to cook.	Tom kocht gerne.	टॉम को खाना बनाना पसंद है।
 Tom likes to fish.	Tom fischt gern.	टॉम को मछली पसंद है।
 Tom likes to hunt.	Tom jagt gerne.	टॉम का पीछा करना पसंद है।

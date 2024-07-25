@@ -18912,3 +18912,13 @@ Tom likes hunting.	Tom mag die Jagd.	टॉम को शिकार करन�
 Tom likes it here.	Tom mag es hier.	टॉम को यहाँ पसंद है।
 Tom likes lobster.	Tom mag Hummer.	टॉम को लॉबस्टर पसंद है।
 Tom likes oranges.	Tom mag Orangen.	टॉम को संतरे पसंद हैं।
+Tom likes popcorn.	Tom mag Popcorn.	टॉम को पॉपकॉर्न पसंद है।
+Tom likes puzzles.	Tom mag Rätsel.	टॉम को पहेलियाँ पसंद है।
+Tom likes running.	Tom mag Laufen.	टॉम को दौड़ना पसंद है।
+Tom likes sausage.	Tom mag Wurst.	टॉम को सॉसेज़ पसंद है।
+Tom likes seafood.	Tom mag Meeresfrüchte.	टॉम को सीफूड पसंद है।
+Tom likes singing.	Tom mag Singen.	टॉम को गाना गाना पसंद है।
+Tom likes skating.	Tom mag Skaten.	टॉम को स्केटिंग पसंद है।
+Tom likes stories.	Tom mag Geschichten.	टॉम के कहानियाँ पसंद हैं।
+Tom likes surfing.	Tom mag Surfen.	टॉम को सर्फिंग पसंद है।
+Tom likes to bowl.	Tom mag bowlen.	टॉम को बोलिंग खेलना पसंद है।
