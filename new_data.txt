@@ -4795,3 +4795,10 @@ Speak clearly.	Sprich deutlich.	स्पष्ट बोलो।
 Speak quietly.	Sprich leise.	धीरे बोलो।
 Stand at ease!	Stehen Sie bequem!	आराम से खड़े हो जाओ!
 Start running.	Beginne zu rennen.	दौड़ना शुरू करो।
+Start the car.	Starten Sie das Auto.	कार शुरू करें।
+Start writing.	Beginnen Sie zu schreiben.	लिखना शुरू करें।
+Stay in there.	Bleib dort drinnen.	वहाँ रहो।
+Stay positive.	Bleiben Sie positiv.	सकारात्मक रहो।
+Stay together.	Bleibt zusammen.	साथ रहें।
+Stay with Tom.	Bleib bei Tom.	टॉम के साथ रहो।
+Stir the soup.	Rühre die Suppe um.	सूप को उलटने दो।
