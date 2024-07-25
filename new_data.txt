@@ -8836,3 +8836,13 @@ I know his name.	Ich kenne seinen Namen.	मुझे उसका नाम प
 I know how I am.	Ich weiß, wie ich bin.	मुझे पता है मैं कैसा हूँ।
 I know it's Tom.	Ich weiß, dass es Tom ist.	मुझे पता है कि यह टॉम है।
 I know it's bad.	Ich weiß, dass es schlecht ist.	मुझे पता है कि यह बुरा है।
+I know it's hot.	Ich weiß, dass es heiß ist.	मुझे पता है कि यह गरम है।
+I know that guy.	Ich kenne diesen Typen.	मुझे उस आदमी को पहचाना है।
+I know that now.	Das weiß ich jetzt.	अब मुझे यह पता है।
+I know the area.	Ich kenne die Gegend.	मुझे क्षेत्र का पता है।
+I know the girl.	Ich kenne das Mädchen.	मुझे लड़की को पहचाना है।
+I know the song.	Ich kenne das Lied.	मुझे गाना पता है।
+I know them all.	Ich kenne sie alle.	मुझे सभी को पता है।
+I know too much.	Ich weiß zu viel.	मुझे बहुत कुछ पता है।
+I know who I am.	Ich weiß, wer ich bin.	मुझे पता है मैं कौन हूँ।
+I know you know.	Ich weiß, dass du weißt.	मुझे पता है तुम्हें पता है।
