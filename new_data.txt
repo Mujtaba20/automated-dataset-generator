@@ -14872,3 +14872,13 @@ Tom works for me.	Tom arbeitet für mich.	टॉम मेरे लिए क�
 Tom works for us.	Tom arbeitet für uns.	टॉम हमारे लिए काम करता है।
 Tom works nearby.	Tom arbeitet in der Nähe.	टॉम निकट ही काम करता है।
 engSentence		
+Tom writes poems.	Tom schreibt Gedichte.	टॉम कविताएँ लिखता है।
+Tom's dehydrated.	Tom ist dehydriert.	टॉम का पानी की कमी हो गई है।
+Tom's dehydrated. 1	Tom ist austrocknet.	टॉम की सूखी हो गयी है।
+Tom's delusional.	Tom ist wahnsinnig.	टॉम की भ्रांतियों भरी हुई हैं।
+Tom's dog bit me.	Toms Hund hat mich gebissen.	टॉम के कुत्ते ने मुझे काटा।
+Tom's face paled.	Toms Gesicht bleichte.	टॉम का चेहरा पीला पड़ गया।
+Tom's frightened.	Tom hat Angst.	टॉम डरा हुआ है।
+Tom's hat is red.	Toms Hut ist rot.	टॉम की टोपी लाल है।
+Tom's headstrong.	Tom ist eigensinnig.	टॉम जिद्दी है।
+Tom's hesitating.	Tom zögert.	टॉम हिचकिचाता है।
