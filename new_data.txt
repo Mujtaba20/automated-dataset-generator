@@ -7757,3 +7757,12 @@ Wait, you guys.	Warte, ihr Leute.	रुको, तुम लोग।
 War isn't good.	Krieg ist nicht gut.	युद्ध अच्छा नहीं है।
 Try this sauce. (Different Meaning)	Versuchen Sie diese Soße.	इस सॉस को प्रयास करें।
 Turn up the TV. (Different Meaning)	Drehen Sie den Fernseher hoch.	टीवी को ऊपर करें।
+Was I too loud?	War ich zu laut?	क्या मैं बहुत शोर कर रहा था?
+Was Tom afraid?	Hatte Tom Angst?	क्या टॉम डर गया था?
+Was Tom asleep?	War Tom eingeschlafen?	क्या टॉम सो रहा था?
+Was Tom caught?	Wurde Tom erwischt?	क्या टॉम पकड़ा गया था?
+Was Tom crying?	Hat Tom geweint?	क्या टॉम रो रहा था?
+Was Tom killed?	Wurde Tom getötet?	क्या टॉम को मार दिया गया था?
+Was that a yes?	War das ein Ja?	क्या वो हाँ था?
+Wash your face.	Waschen Sie Ihr Gesicht.	अपना चेहरा धोएं।
+Wash your feet.	Waschen Sie Ihre Füße.	अपने पैर धो लो।
