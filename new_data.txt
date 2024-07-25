@@ -6941,3 +6941,13 @@ engSentence7	Das war magisch.	वह जादुई था।
 engSentence8	Das ging schnell.	वह बहुत तेज़ी से हुआ।
 engSentence9	Das war flott.	वह तेज़ था।
 engSentence10	Das ging fix.	वह जल्दी हुआ।
+That was risky.	Das war riskant.	यह जोखिमपूर्ण था।
+That was sweet.	Das war süß.	यह प्यारा था।
+That will help.	Das wird helfen.	वह मदद करेगा।
+That will pass.	Das wird vorbeigehen.	वह गुज़र जाएगा।
+That'd be fine.	Das wäre in Ordnung.	वह ठीक होगा।
+That'd be good.	Das wäre gut.	वह अच्छा होगा।
+That'd be nice.	Das wäre schön.	वह अच्छा होगा।
+That'll be $30.	Das wird 30 Dollar sein.	वह 30 डॉलर होगा।
+That'll be fun.	Das wird Spaß machen.	वह मज़ा आएगा।
+That's a crime.	Das ist ein Verbrechen.	यह गुनाह है।
