@@ -5865,3 +5865,12 @@ He's a samurai.	Er ist ein Samurai.	वह एक सामुराई है�
 He's a slacker.	Er ist ein Faulenzer.	वह एक आलसी है।
 He's a yes-man.	Er ist ein Jasager.	वह हाँ जनक है।
 He's all right.	Es geht ihm gut.	उसे सब ठीक है।
+He's an animal.	Er ist ein Tier.	वह एक जानवर है।
+He's an author.	Er ist ein Autor.	वह एक लेखक है।
+He's an ex-con.	Er ist ein ehemaliger Strafgefangener.	वह पूर्व दोषी है।
+He's an outlaw.	Er ist ein Gesetzloser.	वह एक बे-वाजिब है।
+He's henpecked.	Er wird von seiner Frau dominiert.	वह अपनी पत्नी के बोझ के तहत है।
+He's in danger.	Er ist in Gefahr.	वह खतरे में है।
+He's in prison.	Er ist im Gefängnis.	वह जेल में है।
+He's just evil.	Er ist einfach böse.	वह सिर्फ बुरा है।
+He's an entrepreneur.	Er ist ein Unternehmer.	वह एक उद्यमी है।
