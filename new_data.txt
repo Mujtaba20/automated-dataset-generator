@@ -1564,3 +1564,12 @@ Here she is!	Da ist sie!	यहाँ वह है!
 Here we are!	Hier sind wir!	यहाँ हम हैं!
 Here we are.	Hier sind wir.	यहाँ हम हैं।
 Here, catch!	Hier, fang!	यहाँ, पकड़ लो!
+Hi, I'm Tom.	Hallo, ich bin Tom.	नमस्ते, मैं टॉम हूँ।
+Hold my bag.	Halte meine Tasche.	मेरा बैग पकड़ो।
+How are you?	Wie geht es Ihnen?	आप कैसे हैं?
+How are you? - Different meaning	Wie läuft's?	तुम कैसे हो?
+How are you? - Different meaning 2	Was gibt's Neues?	तुम्हारा क्या हाल है?
+How curious!	Wie neugierig!	कितनी अजीब बात है!
+How curious! - Different meaning	Wie seltsam!	इतनी उत्सुकता!
+How is life?	Wie ist das Leben?	जीवन कैसा है?
+How strange!	Wie seltsam!	कितनी अजीब बात!
