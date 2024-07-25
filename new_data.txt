@@ -5031,3 +5031,10 @@ Tom is crafty.	Tom ist listig.	टॉम चालाक है।
 Tom is crafty. - Translation 2	Tom ist geschickt.	टॉम कुशल है।
 Tom is cranky.	Tom ist mürrisch.	टॉम चिड़चिड़ा है।
 Tom is crying.	Tom weint.	टॉम रो रहा है।
+Tom is dozing.	Tom schlummert.	टॉम सो रहा है।
+Tom is driven.	Tom wird gefahren.	टॉम को ड्राइव किया जा रहा है।
+Tom is family.	Tom ist Familie.	टॉम परिवार है।
+Tom is filthy.	Tom ist schmutzig.	टॉम गंदा है।
+Tom is frugal.	Tom ist sparsam.	टॉम किफायती है।
+Tom is heroic.	Tom ist heldenhaft.	टॉम वीर चरित्र है।
+Tom is hiding.	Tom versteckt sich.	टॉम छिपा हुआ है।
