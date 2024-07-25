@@ -18005,3 +18005,11 @@ The clock is fast.	Die Uhr ist schnell.	घड़ी तेज है।
 The coffee is hot.	Der Kaffee ist heiß.	कॉफ़ी गरम है।
 The cow is mooing.	Die Kuh mooht.	गाय भोंक रही है।
 The crowd cheered.	Die Menschenmenge jubelte.	जनसमुदाय उत्साहित था।
+The crowd laughed.	Die Menge lachte.	भीड़ हंसी थी।
+The cup was empty.	Die Tasse war leer.	कप खाली था।
+The dog is theirs.	Der Hund gehört ihnen.	कुत्ता उनका है।
+The dog likes you.	Der Hund mag dich sehr.	कुत्ता तुम्हें बहुत पसंद करता है।
+The dog was dying.	Der Hund war am Sterben.	कुत्ता मर रहा था।
+The dog went away.	Der Hund ging weg.	कुत्ता चला गया।
+The door squeaked.	Die Tür quietschte.	दरवाजा चिल्लाया।
+The door was ajar.	Die Tür stand einen Spalt offen.	दरवाजा आधा खुला था।

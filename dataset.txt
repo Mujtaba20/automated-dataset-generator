@@ -1,14 +1,4 @@
 
-The crowd laughed.	Das Publikum hat gelacht.	दर्शकों ने हँसते हुए।
-The cup was empty.	Die Tasse war leer.	कप खाली था।
-The dog is theirs.	Der Hund gehört ihnen.	कुत्ता उनका है।
-The dog likes you.	Der Hund mag dich.	कुत्ता आपको पसंद करता है।
-The dog likes you.	Der Hund mag Sie.	कुत्ता उसे पसंद करता है।
-The dog likes you.	Der Hund mag euch.	कुत्ता आपको पसंद करता है।
-The dog was dying.	Der Hund war am Sterben.	कुत्ता मर रहा था।
-The dog went away.	Der Hund ging weg.	कुत्ता चला गया।
-The door squeaked.	Die Tür knarrte.	दरवाजा चरमरा गया।
-The door was ajar.	Die Tür war einen Spalt offen.	दरवाजा एक अंतराल खुला था।
 The door's locked.	Die Tür ist verschlossen.	दरवाजा बंद कर दिया गया है।
 The doorbell rang.	Es klingelte an der Tür.	घर की घंटी बजी।
 The earth rotates.	Die Erde dreht sich.	पृथ्वी बदल जाती है।
