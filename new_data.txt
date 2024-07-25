@@ -19365,3 +19365,13 @@ Tom wasn't asleep.	Tom war nicht eingeschlafen.	टॉम सोया नही
 Tom wasn't crying.	Tom weinte nicht.	टॉम रो नहीं रहा था।
 Tom wasn't eating.	Tom hat nicht gegessen.	टॉम खा नहीं रहा था।
 Tom wasn't drinking.	Tom trank nicht.	टॉम पी नहीं रहा था।
+Tom wasn't famous.	Tom war nicht berühmt.	टॉम मशहूर नहीं था।
+Tom wasn't greedy.	Tom war nicht gierig.	टॉम लालची नहीं था।
+Tom wasn't honest.	Tom war nicht ehrlich.	टॉम सच्चा नहीं था।
+Tom wasn't honest. - Different Meaning	Tom war nicht aufrichtig.	टॉम ईमानदार नहीं था।
+Tom wasn't hungry.	Tom war nicht hungrig.	टॉम भूखा नहीं था।
+Tom wasn't inside.	Tom war nicht drinnen.	टॉम अंदर नहीं था।
+Tom wasn't joking.	Tom hat nicht gescherzt.	टॉम मजाक नहीं कर रहा था।
+Tom wasn't killed.	Tom wurde nicht getötet.	टॉम को नहीं मारा गया था।
+Tom wasn't moving.	Tom hat sich nicht bewegt.	टॉम चल नहीं रहा था।
+Tom wasn't normal.	Tom war nicht normal.	टॉम सामान्य नहीं था।

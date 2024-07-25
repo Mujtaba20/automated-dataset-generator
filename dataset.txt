@@ -1,14 +1,4 @@
 
-Tom wasn't famous.	Tom war nicht berühmt.	टॉम प्रसिद्ध नहीं था।
-Tom wasn't greedy.	Tom war nicht gierig.	टॉम लालची नहीं था।
-Tom wasn't honest.	Tom war nicht ehrlich.	टॉम ईमानदार नहीं था।
-Tom wasn't honest.	Tom war nicht aufrichtig.	टॉम ईमानदार नहीं था।
-Tom wasn't hungry.	Tom war nicht hungrig.	टॉम भूखा नहीं था।
-Tom wasn't inside.	Tom war nicht drinnen.	टॉम अंदर नहीं था।
-Tom wasn't joking.	Tom hat keinen Spaß gemacht.	टॉम मजेदार नहीं था।
-Tom wasn't killed.	Tom wurde nicht getötet.	टॉम को नहीं मारा गया था।
-Tom wasn't moving.	Tom bewegte sich nicht.	टॉम नहीं हिलता था।
-Tom wasn't normal.	Tom war nicht normal.	टॉम सामान्य नहीं था।
 Tom wasn't polite.	Tom war nicht höflich.	टॉम विनम्र नहीं था।
 Tom wasn't scared.	Tom hatte keine Angst.	टॉम डर नहीं था।
 Tom wasn't sleepy.	Tom war nicht müde.	टॉम थक नहीं गया था।
