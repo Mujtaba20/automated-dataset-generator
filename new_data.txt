@@ -18254,3 +18254,13 @@ This is my cousin.	Das ist mein Cousin.	यह मेरा चचेरा भ�
 This is my family.	Das ist meine Familie.	यह मेरा परिवार है।
 This is my father.	Das ist mein Vater.	यह मेरे पिता हैं।
 This is my friend.	Das ist mein Freund.	यह मेरा दोस्त है।
+This is my mother.	Das ist meine Mutter.	यह मेरी मां है।
+This is my office.	Dies ist mein Büro.	यह मेरा ऑफिस है।
+This is my pencil.	Das ist mein Bleistift.	यह मेरी पेंसिल है।
+This is my pencil. Duplicate	Das ist mein Stift.	यह मेरा कलम है।
+This is my school.	Das ist meine Schule.	यह मेरा स्कूल है।
+This is my sister.	Das ist meine Schwester.	यह मेरी बहन है।
+This is new to me.	Das ist neu für mich.	यह मेरे लिए नया है।
+This is not funny.	Das ist nicht lustig.	यह मजाकिय है नहीं।
+This is not funny. Duplicate	Das ist nicht witzig.	यह मजाक किया है नहीं।
+This is our house.	Das ist unser Haus.	यह हमारा घर है।

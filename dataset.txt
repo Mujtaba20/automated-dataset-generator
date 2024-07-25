@@ -1,14 +1,4 @@
 
-This is my mother.	Das ist meine Mutter.	आ माता म्हांरी है।
-This is my office.	Das ist mein Büro.	यह मेरा कार्यालय है।
-This is my pencil.	Das ist mein Bleistift.	यह मेरी पेंसिल है।
-This is my pencil.	Dies ist mein Bleistift.	यह मेरी पेंसिल है।
-This is my school.	Das ist meine Schule.	ये मेरे स्कूल हे।
-This is my sister.	Das ist meine Schwester.	यह मेरी बहन है।
-This is new to me.	Das ist mir neu.	यह मेरे लिए नया है।
-This is not funny.	Das ist nicht komisch.	यह अजीब नहीं है।
-This is not funny.	Das ist nicht lustig.	यह अजीब नहीं है।
-This is our house.	Das ist unser Haus.	यह हमारा घर है।
 This is pointless.	Das ist sinnlos.	यह निराधार है।
 This is priceless.	Das ist unbezahlbar.	यह अनमोल है।
 This is so boring.	Das ist so langweilig.	ये बहुत उबाऊ है।
