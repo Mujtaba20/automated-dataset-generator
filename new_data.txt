@@ -6584,3 +6584,9 @@ It was snowing.	Es schneite.	बर्फ गिर रही थी।
 It was snowing. (different meaning)	Es war kalt.	यह ठंडा था।
 It was so dark.	Es war so dunkel.	यह इतना अंधेरा था।
 It wasn't easy.	Es war nicht einfach.	यह आसान नहीं था।
+It wasn't hard.	Es war nicht schwer.	यह मुश्किल नहीं था।
+It wasn't mine.	Es war nicht meins.	यह मेरा नहीं था।
+It wasn't ours.	Es war nicht unseres.	यह हमारा नहीं था।
+It will happen.	Es wird passieren.	यह होगा।
+It works great.	Es funktioniert großartig.	यह बहुत अच्छे से काम करता है।
+It'll be great.	Es wird großartig sein.	यह शानदार होगा।
