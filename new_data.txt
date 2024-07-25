@@ -11812,3 +11812,11 @@ Everybody danced. (Different meaning)	Alle haben getanzt.	हर कोई न�
 Everybody jumped.	Alle sind gesprungen.	सबने कूदा।
 Everybody jumped. (Different meaning)	Jeder sprang.	सबने उछला।
 Everybody laughs.	Jeder lacht.	हर कोई हँसता है।
+Everybody saw it.	Jeder hat es gesehen.	सभी ने इसे देखा।
+Everybody smiled.	Jeder lächelte.	सभी मुस्कान पसंद करते हैं।
+Everybody stayed.	Alle blieben.	सभी रहे।
+Everybody waited.	Jeder wartete.	सभी इंतजार कर रहे थे।
+Everybody's here.	Alle sind hier.	सभी यहाँ हैं।
+Everybody's safe.	Alle sind sicher.	सभी सुरक्षित हैं।
+Everyone changes.	Jeder verändert sich.	हर कोई बदलता है।
+Everyone does it.	Jeder tut es.	हर कोई यह करता है।
