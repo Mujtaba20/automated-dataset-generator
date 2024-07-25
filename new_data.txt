@@ -9459,3 +9459,12 @@ It isn't a fish.	Es ist kein Fisch.	यह मछली नहीं है।
 It isn't a loan.	Es ist kein Darlehen.	यह ऋण नहीं है।
 It just bugs me.	Es macht mich nur verrückt.	यह बस मुझे परेशान करता है।
 It looked cheap.	Es sah billig aus.	यह सस्ता लग रहा था।
+It makes me sad.	Es macht mich traurig.	यह मुझे उदास करता है।
+It may seem odd.	Es mag seltsam erscheinen.	यह अजीब लग सकता है।
+It might be Tom.	Es könnte Tom sein.	यह टॉम हो सकता है।
+It might be fun.	Es könnte Spaß machen.	यह मजेदार हो सकता है।
+It mortifies me.	Es demütigt mich.	यह मुझे शर्मिंदा करता है।
+It must be here.	Es muss hier sein.	यहाँ होना चाहिए।
+It must be true.	Es muss wahr sein.	इसे सच होना चाहिए।
+It really works.	Es funktioniert wirklich.	यह वास्तव में काम करता है।
+It snowed a bit.	Es hat ein wenig geschneit.	थोड़ा सा बर्फ गिरा था।
