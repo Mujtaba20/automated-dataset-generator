@@ -12807,3 +12807,7 @@ I'll take my car.	Ich werde mein Auto nehmen.	मैं अपनी कार �
 I'll talk to Tom.	Ich werde mit Tom sprechen.	मैं टॉम से बात करूंगा।
 I'll try my luck.	Ich werde mein Glück versuchen.	मैं भाग्य आजमाऊंगा।
 I'll wash dishes.	Ich werde das Geschirr abwaschen.	मैं बर्तन धोऊंगा।
+I'm 18 years old.	Ich bin 18 Jahre alt.	मैं 18 वर्षीय हूँ।
+I'm 25 years old.	Ich bin 25 Jahre alt.	मैं 25 साल का हूँ।
+I'm OK with that.	Ich habe nichts dagegen.	मुझे उसके साथ कोई आपत्ति नहीं है।
+I'm Tom's cousin.	Ich bin der Cousin von Tom.	मैं टॉम का चचेरा भाई हूँ।
