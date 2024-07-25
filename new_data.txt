@@ -12590,3 +12590,17 @@ I need a plumber.	Ich brauche einen Klempner.	मुझे नल्कार �
 I need a red pen.	Ich brauche einen roten Stift.	मुझे एक लाल पेन की जरूरत है।
 I need a spatula.	Ich brauche einen Pfannenwender.	मुझे एक स्पैचुला की आवश्यकता है।
 I need envelopes.	Ich brauche Umschläge.	मुझे लिफ़ाफ़े चाहिए।
+I need first aid.	Ich brauche Erste Hilfe.	मुझे पहली मदद की आवश्यकता है।
+I need more help.	Ich brauche mehr Hilfe.	मुझे और मदद की जरूरत है।
+I need additional assistance.	Ich benötige zusätzliche Unterstützung.	मुझे अतिरिक्त सहायता की आवश्यकता है।
+I need more room.	Ich brauche mehr Platz.	मुझे और जगह की आवश्यकता है।
+I need extra space.	Ich benötige zusätzlichen Raum.	मुझे अतिरिक्त स्थान की आवश्यकता है।
+I need more time.	Ich brauche mehr Zeit.	मुझे और समय की आवश्यकता है।
+I need additional time.	Ich benötige zusätzliche Zeit.	मुझे अतिरिक्त समय की आवश्यकता है।
+I need new pants.	Ich brauche neue Hosen.	मुझे नये पैंट्स की आवश्यकता है।
+I need a fresh pair of trousers.	Ich brauche eine frische Hose.	मुझे एक ताजा ट्राउजर्स की आवश्यकता है।
+I need new shoes.	Ich brauche neue Schuhe.	मुझे नये जूते की आवश्यकता है।
+I need a fresh pair of footwear.	Ich brauche ein frisches Paar Schuhe.	मुझे एक ताजा जूता की आवश्यकता है।
+I need some cash.	Ich brauche etwas Bargeld.	मुझे कुछ नकदी की आवश्यकता है।
+I require money.	Ich benötige Geld.	मुझे पैसे चाहिए।
+I need monetary assistance.	Ich benötige finanzielle Unterstützung.	मुझे धन सहायता की आवश्यकता है।
