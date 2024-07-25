@@ -15484,3 +15484,9 @@ A fork is missing.	Eine Gabel fehlt.	एक कांटा गया है।
 A heavy rain fell.	Es regnete schwer.	भारी बारिश हुई।
 A leaf is falling.	Ein Blatt fällt.	पत्ता गिर रहा है।
 A screw's missing.	Eine Schraube fehlt.	एक स्क्रू गुम है।
+A storm is coming.	Es kommt ein Sturm.	बड़ा तूफान आ रहा है।
+Add a little milk.	Gib ein wenig Milch dazu.	थोड़ा दूध मिलाओ।
+Admission is free.	Der Eintritt ist frei.	प्रवेश मुफ्त है।
+Alcohol is a drug.	Alkohol ist eine Droge.	शराब एक दवा है।
+All I want is you.	Alles, was ich will, bist du.	मेरी चाहत तुम हो।
+All men are equal.	Alle Menschen sind gleich.	सभी लोग बराबर हैं।
