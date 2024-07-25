@@ -8598,3 +8598,13 @@ Hold the candle.	Halte die Kerze.	मोमबत्ती पकड़ो।
 How about 12:45?	Wie wäre es mit 12:45 Uhr?	12:45 बजे कैसा रहेगा?
 How about 12:45? - Different Meaning	Was hältst du von 12:45 Uhr?	12:45 बजे कैसा लगता है?
 How about 12:45? - Another Meaning	Wie wäre es mit 12:45 Uhr?	12:45 बजे कैसे लगेगा?
+How adventurous!	Wie abenteuerlustig!	कितनी साहसी!
+How are you all?	Wie geht es euch allen?	तुम सब कैसे हो?
+How are you now?	Wie geht es dir jetzt?	तुम अब कैसे हो?
+How big you are!	Wie groß du bist!	तुम कितने बड़े हो!
+How can that be?	Wie kann das sein?	वह कैसे हो सकता है?
+How can this be?	Wie kann das sein?	यह कैसे हो सकता है?
+How could it be?	Wie könnte es sein?	यह कैसे हो सकता था?
+How did Tom die?	Wie ist Tom gestorben?	टॉम कैसे मरा?
+How do we begin?	Wie fangen wir an?	हम कैसे शुरू करें?
+How do we do it?	Wie machen wir das?	हम इसे कैसे करें?
