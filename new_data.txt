@@ -17125,3 +17125,12 @@ I'm not convinced.	Ich bin nicht überzeugt.	मुझे यकीन नही
 I'm not forgetful.	Ich bin nicht vergesslich.	मैं भूलकरी हूँ नहीं।
 I'm not giving up.	Ich gebe nicht auf.	मैं हार नहीं मान रहा।
 I'm not going out.	Ich gehe nicht raus.	मैं बाहर नहीं जा रहा।
+I'm not in Boston.	Ich bin nicht in Boston.	मैं बोस्टन में नहीं हूँ।
+I'm not like that.	Ich bin nicht so.	मैं उस तरह नहीं हूँ।
+I'm not listening.	Ich höre nicht zu.	मैं सुन रहा/रही नहीं हूँ।
+I'm not my father.	Ich bin nicht mein Vater.	मैं अपने पिता नहीं हूँ।
+I'm not ready yet.	Ich bin noch nicht bereit.	मैं अभी तैयार नहीं हूँ।
+I'm not religious.	Ich bin nicht religiös.	मैं धार्मिक नहीं हूँ।
+I'm not satisfied.	Ich bin nicht zufrieden.	मैं संतुष्ट नहीं हूँ।
+I'm not the enemy.	Ich bin nicht der Feind.	मैं दुश्मन नहीं हूँ।
+I'm not the owner.	Ich bin nicht der Besitzer.	मैं मालिक नहीं हूँ।
