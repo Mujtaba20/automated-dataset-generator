@@ -1,14 +1,4 @@
 
-What'll Tom think?	Was wird Tom denken?	टॉम क्या सोचेंगे?
-What'll come next?	Was kommt als nächstes?	आगे क्या होगा?
-What'll we do now?	Was machen wir jetzt?	अब क्या करें?
-What'll you drink?	Was wirst du trinken?	तुम क्या पीओगे
-What're the facts?	Was ist bekannt?	क्या ज्ञात है?
-What're you after?	Was willst du?	आप क्या चाहते हैं?
-What's Tom asking?	Was verlangt Tom?	टॉम क्या मांगता है?
-What's Tom asking?	Was fragt Tom?	जैसा कि टॉम पूछता है?
-What's Tom asking?	Um was bittet Tom?	टॉम क्या मांगता है?
-What's Tom eating?	Was isst Tom gerade?	टॉम अभी क्या खा रहा है?
 What's Tom making?	Was stellt Tom her?	टॉम क्या बनाता है?
 What's Tom making?	Was bastelt Tom?	टॉम टिंकरिंग क्या है?
 What's Tom saying?	Was sagt Tom?	टॉम क्या कहता है?

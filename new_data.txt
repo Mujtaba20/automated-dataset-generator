@@ -19758,3 +19758,11 @@ What will Tom say?	Was wird Tom sagen?	टॉम क्या कहेगा?
 What will they do?	Was werden sie tun?	वे क्या करेंगे?
 What would happen?	Was würde passieren?	क्या होगा?
 What year is this?	Welches Jahr ist es?	यह किस साल की है?
+What'll Tom think?	Was wird Tom denken?	टॉम क्या सोचेगा?
+What'll come next?	Was wird als nächstes kommen?	अगला क्या आएगा?
+What'll we do now?	Was werden wir jetzt tun?	अब हम क्या करेंगे?
+What'll you drink?	Was wirst du trinken?	तुम क्या पियोगे?
+What're the facts?	Was sind die Fakten?	अब तथ्य क्या हैं?
+What're you after?	Worauf bist du aus?	तुम क्या खोज रहे हो?
+What's Tom asking?	Was fragt Tom?	टॉम क्या पूछ रहा है?
+What's Tom eating?	Was isst Tom?	टॉम क्या खा रहा है?
