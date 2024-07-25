@@ -8413,3 +8413,10 @@ Get out of here.	Verschwinde hier.	यहाँ से निकलो।
 Get word to Tom.	Gib Tom Bescheid.	टॉम को संदेश दो।
 Get your mother.	Hol deine Mutter.	अपनी माँ को लाओ।
 Get your things.	Hol deine Sachen.	अपनी वस्तुएं लेलो।
+Girls are crazy.	Mädchen sind verrückt.	लड़कियाँ पागल हैं।
+Give Tom a call.	Rufen Sie Tom an.	टॉम को कॉल करें।
+Give Tom a kiss.	Gib Tom einen Kuss.	टॉम को एक चुंबन दो।
+Give it up, Tom.	Gib es auf, Tom.	इसे छोड़ दो, टॉम।
+Give me a drink.	Gib mir etwas zu trinken.	मुझे पेय दो।
+Give me my beer.	Gib mir mein Bier.	मेरी बीयर दो।
+Give me the gun.	Gib mir die Waffe.	मुझे गन दो।
