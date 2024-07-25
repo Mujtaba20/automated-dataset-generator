@@ -16203,3 +16203,10 @@ How disappointing!	Wie enttäuschend!	कितना निराशाजन�
 How do I know you?	Wie kenne ich dich?	मैं तुम्हें कैसे जानूँ?
 How do I stop Tom?	Wie halte ich Tom auf?	मैं टॉम को कैसे रोकूँ?
 How do I use this?	Wie benutze ich das?	मैं यह कैसे उपयोग करूँ?
+How do we do that?	Wie machen wir das?	हम यह कैसे करें?
+How do we find it?	Wie finden wir es?	हम इसे कैसे ढूंढें?
+How do we stop it?	Wie stoppen wir es?	हम इसे कैसे रोकें?
+How does Tom know?	Wie weiß Tom?	टॉम को कैसे पता है?
+How does Tom look?	Wie sieht Tom aus?	टॉम कैसा दिखता है?
+How good are they?	Wie gut sind sie?	वे कितने अच्छे हैं?
+How heavy are you?	Wie schwer bist du?	तुम कितने भारी हो?
