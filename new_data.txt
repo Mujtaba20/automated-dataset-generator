@@ -6191,3 +6191,13 @@ I need a smoke.	Ich brauche eine Raucherpause.	मुझे धूम्रप�
 I need a stamp.	Ich brauche eine Briefmarke.	मुझे एक टिकट चाहिए।
 I need a towel.	Ich brauche ein Handtuch.	मुझे एक तौलिया चाहिए।
 I need answers.	Ich benötige Antworten.	मुझे उत्तर चाहिए।
+I need friends.	Ich brauche Freunde.	मुझे दोस्तों की आवश्यकता है।
+I need privacy.	Ich brauche Privatsphäre.	मुझे निजता की आवश्यकता है।
+I need support.	Ich brauche Unterstützung.	मुझे समर्थन की आवश्यकता है।
+I need surgery.	Ich brauche eine Operation.	मुझे सर्जरी की आवश्यकता है।
+I need to know.	Ich muss wissen.	मुझे पता होना चाहिए।
+I need to stop.	Ich muss aufhören.	मुझे रुकना चाहिए।
+I need to swim.	Ich muss schwimmen.	मुझे तैरना है।
+I need to work.	Ich muss arbeiten.	मुझे काम करना है।
+I need you now.	Ich brauche dich jetzt.	मुझे अब तुम्हारी जरूरत है।
+I never saw it.	Ich habe es nie gesehen.	मैंने कभी नहीं देखा था।
