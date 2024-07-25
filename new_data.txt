@@ -16010,3 +16010,11 @@ He is a physicist.	Er ist ein Physiker.	वह एक भौतिक विज�
 He is a real fool.	Er ist ein echter Narr.	वह एक असली मूर्ख है।
 He is a scientist.	Er ist ein Wissenschaftler.	वह एक वैज्ञानिक है।
 He is about forty.	Er ist ungefähr vierzig.	वह लगभग चालीस है।
+He is an American.	Er ist ein Amerikaner.	वह एक अमेरिकी है।
+He is at her side.	Er ist an ihrer Seite.	वह उसके पास है।
+He is at his desk.	Er ist an seinem Schreibtisch.	वह अपनी मेज़ पर है।
+He is beyond help.	Er ist jenseits der Hilfe.	वह मदद के बाहर है।
+He is beyond hope.	Er ist jenseits der Hoffnung.	वह आशा के बाहर है।
+He is daydreaming.	Er träumt vor sich hin.	वह दिन की ख्याली पुलाव बुन रहा है।
+He is from France.	Er kommt aus Frankreich.	वह फ्रांस से है।
+He is getting old.	Er wird alt.	वह बुढ़ा हो रहा है।
