@@ -1,15 +1,4 @@
 
-Do you need a ride?	Kann ich dich fahren?	क्या मैं तुम्हें चला सकता हूँ
-Do you need it now?	Brauchen Sie es jetzt?	क्या आपको अब इसकी आवश्यकता है?
-Do you play soccer?	Spielst du Fußball?	क्या आप सॉकर खेलते हैं?
-Do you play soccer?	Spielt ihr Fußball?	क्या आप फुटबॉल खेलते हैं?
-Do you play soccer?	Spielen Sie Fußball?	क्या आप सॉकर खेलते हैं?
-Do you play tennis?	Du spielst Tennis?	तुम टेनिस खेलते हो?
-Do you play tennis?	Kannst du Tennis spielen?	क्या आप टेनिस खेल सकते हैं?
-Do you remember it?	Erinnerst du dich noch daran?	तुम्हे याद है?
-Do you remember me?	Erinnerst du dich an mich?	क्या तुम मुझे याद करते हो?
-Do you remember me?	Erinnerst du dich noch an mich?	क्या तुम मुझे याद करते हो?
-Do you remember me?	Erinnern Sie sich an mich?	क्या तुम मुझे याद करते हो?
 Do you remember us?	Erinnerst du dich an uns?	क्या आपको हम याद हैं?
 Do you see anybody?	Siehst du jemanden?	क्या आप किसी को देखते हैं?
 Do you see anybody?	Seht ihr jemanden?	क्या आप किसी को देखते हैं?

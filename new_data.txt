@@ -20437,3 +20437,9 @@ Do you like tennis?	Magst du Tennis?	क्या आपको टेनिस �
 Do you live nearby?	Wohnst du in der Nähe?	क्या आप निकट में रहते हैं?
 Do you miss Boston?	Vermisst du Boston?	क्या आपको बोस्टन की याद आती है?
 Do you need a lift?	Brauchst du eine Mitfahrgelegenheit?	क्या आपको लिफ़्ट की ज़रूरत है?
+Do you need a ride?	Brauchst du eine Mitfahrgelegenheit?	क्या आपको एक सवारी की आवश्यकता है?
+Do you need it now?	Brauchst du es jetzt?	क्या आपको अब चाहिए?
+Do you play soccer?	Spielst du Fußball?	क्या आप फुटबॉल खेलते हैं?
+Do you play tennis?	Spielst du Tennis?	क्या आप टेनिस खेलते हैं?
+Do you remember it?	Erinnerst du dich daran?	क्या आप इसे याद करते हैं?
+Do you remember me?	Erinnerst du dich an mich?	क्या आप मुझे याद करते हैं?
