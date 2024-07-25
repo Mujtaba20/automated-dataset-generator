@@ -17532,3 +17532,11 @@ Mary has big eyes.	Mary hat große Augen.	मेरी की बड़ी आ�
 Mary is a midwife.	Mary ist eine Hebamme.	मेरी एक डाइनिटी है।
 Mary is beautiful.	Mary ist schön.	मेरी खूबसूरत है।
 Mary is expecting.	Mary erwartet ein Kind.	मेरी गर्भवती है।
+Mary is my mother.	Maria ist meine Mutter.	मेरी माँ मेरी माँ है।
+Mary is my sister.	Maria ist meine Schwester.	मेरी बहन मेरी है।
+Mary is so pretty.	Maria ist so hübsch.	मेरी इतनी सुंदर है।
+Mary is very cute.	Maria ist sehr süß.	मेरी बहुत प्यारी है।
+Mary is vivacious.	Maria ist lebensfroh.	मेरी उत्साही है।
+May God bless you.	Möge Gott dich segnen.	भगवान आपको आशीर्वाद दें।
+May I come aboard?	Darf ich an Bord kommen?	क्या मैं बोर्ड में आ सकता हूँ?
+May I go home now?	Darf ich jetzt nach Hause gehen?	क्या मैं अभी घर जा सकता हूँ?

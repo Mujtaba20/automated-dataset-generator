@@ -1,14 +1,4 @@
 
-Mary is my mother.	Maria ist meine Mutter.	मारिया मेरी माँ है।
-Mary is my sister.	Mary ist meine Schwester.	मैरी मेरी बहन है।
-Mary is so pretty.	Maria ist ja so hübsch!	मारिया बहुत सुंदर है!
-Mary is very cute.	Maria ist echt süß.	मारिया वास्तव में प्यारा है।
-Mary is vivacious.	Maria ist lebhaft.	मारिया जीवंत है।
-May God bless you.	Möge Gott dich segnen.	भगवान आप पर कृपा करे।
-May I come aboard?	Darf ich an Bord kommen?	क्या मैं बोर्ड पर आ सकता हूँ?
-May I go home now?	Kann ich jetzt nach Hause gehen?	क्या मैं अभी घर जा सकता हूं?
-May I go home now?	Darf ich jetzt nach Hause gehen?	क्या मैं अभी घर जा सकता हूं?
-May I go home now?	Darf ich jetzt heimgehen?	क्या मैं अभी घर जा सकता हूं?
 May I go with Tom?	Darf ich mit Tom gehen?	क्या मैं टॉम के साथ जा सकता हूं?
 May I go with you?	Kann ich mit dir gehen?	मैं आप के साथ जा सकता हुँ?
 May I go with you?	Darf ich mit dir gehen?	क्या मैं आ के साथ जा सकता हूं?
