@@ -12483,3 +12483,12 @@ I left the house.	Ich habe das Haus verlassen.	मैंने घर छोड�
 I let in the cat.	Ich habe die Katze reingelassen.	मैंने बिल्ली को अंदर आने दिया।
 I let the cat in.	Ich habe die Katze reingelassen.	मैंने बिल्ली को अंदर आने दिया।
 I like Australia.	Ich mag Australien.	मुझे ऑस्ट्रेलिया पसंद है।
+I like Saturdays.	Ich mag Samstage.	मुझे शनिवार पसंद है।
+I like Tom a lot.	Ich mag Tom sehr.	मुझे टॉम बहुत पसंद है।
+I like astrology.	Ich mag Astrologie.	मुझे ज्योतिष शास्त्र पसंद है।
+I like chocolate.	Ich mag Schokolade.	मुझे चॉकलेट पसंद है।
+I like doughnuts.	Ich mag Donuts.	मुझे डोनट्स पसंद है।
+I like elephants.	Ich mag Elefanten.	मुझे हाथी पसंद हैं।
+I like fresh air.	Ich mag frische Luft.	मुझे ताज़ा हवा पसंद है।
+I like her novel.	Ich mag ihren Roman.	मुझे उसका उपन्यास पसंद है।
+I like languages.	Ich mag Sprachen.	मुझे भाषाएं पसंद हैं।
