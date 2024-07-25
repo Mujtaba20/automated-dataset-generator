@@ -5587,3 +5587,9 @@ Can we do that?	Können wir das tun?	क्या हम वह कर सकत
 Can we eat now?	Können wir jetzt essen?	क्या हम अब खा सकते हैं?
 Can we join in?	Können wir mitmachen?	क्या हम शामिल हो सकते हैं?
 Can’t you swim?	Kannst du nicht schwimmen?	क्या तुम तैरना नहीं जानते?
+Catch the ball.	Fang den Ball.	गेंद पकड़ो।
+Cats are smart.	Katzen sind klug.	बिल्लियां चतुर होती हैं।
+Check everyone.	Überprüfe jeden.	सभी को जाँच करो।
+Clean the room.	Reinige das Zimmer.	कमरा साफ करो।
+Close the cage.	Schließe den Käfig.	पिंजरा बंद करो।
+Close the door.	Schließe die Tür.	दरवाजा बंद करो।
