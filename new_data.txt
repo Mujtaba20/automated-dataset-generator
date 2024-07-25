@@ -9409,3 +9409,12 @@ Is it poisonous?	Ist es giftig?	क्या यह जहरीला है?
 Is it that hard?	Ist es so schwer?	क्या यह इतना कठिन है?
 Is it the truth?	Ist es die Wahrheit?	क्या यह सच है?
 Is it too salty?	Ist es zu salzig?	क्या यह बहुत नमकीन है?
+Is it too small?	Ist es zu klein?	क्या यह बहुत छोटा है?
+Is it your bike?	Ist das dein Fahrrad?	क्या यह तुम्हारी साइकिल है?
+Is she Japanese?	Ist sie Japanerin?	क्या वह जापानी है?
+Is she a doctor?	Ist sie Ärztin?	क्या वह एक डॉक्टर है?
+Is she here yet?	Ist sie schon hier?	क्या वह अभी यहाँ है?
+Is she your mom?	Ist sie deine Mutter?	क्या वह तुम्हारी माँ है?
+Is someone here?	Ist jemand hier?	क्या कोई यहाँ है?
+Is that a camel?	Ist das ein Kamel?	क्या वह एक ऊँट है?
+Is that a crime?	Ist das ein Verbrechen?	क्या यह एक अपराध है?
