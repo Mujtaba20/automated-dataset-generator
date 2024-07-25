@@ -10818,3 +10818,12 @@ Tom was anxious.	Tom war ängstlich.	टॉम चिंतित था।
 Tom was ashamed.	Tom war beschämt.	टॉम शर्मिंदा था।
 Tom was at home.	Tom war zu Hause.	टॉम घर पर था।
 Tom was awesome.	Tom war großartig.	टॉम बहुत अद्भुत था।
+Tom was baffled.	Tom war verwirrt.	टॉम हैरान था।
+Tom was blinded.	Tom wurde geblendet.	टॉम अंधा था।
+Tom was bullied.	Tom wurde gemobbt.	टॉम पर जुल्म किया गया।
+Tom was careful.	Tom war vorsichtig.	टॉम सावधान था।
+Tom was cheated.	Tom wurde betrogen.	टॉम को धोखा दिया गया।
+Tom was content.	Tom war zufrieden.	टॉम संतुष्ट था।
+Tom was crushed.	Tom wurde zerquetscht.	टॉम कुचल दिया गया था।
+Tom was curious.	Tom war neugierig.	टॉम कोई चांचल था।
+Tom was defiant.	Tom war trotzig.	तोम आदान-प्रदान कर रहा था।
