@@ -20666,3 +20666,13 @@ Go back to the lab.	Geh zurück ins Labor.	लैब में वापस ज�
 Go get your helmet.	Hol dir deinen Helm.	अपना हेलमेट लेकर जाओ।
 Go to the hospital.	Geh ins Krankenhaus.	हॉस्पिटल जाओ।
 Go up these stairs.	Gehe diese Treppe hinauf.	इन सीढ़ियों पर चढ़ जाओ।
+Go wash your hands.	Wasch dir die Hände.	अपने हाथ धो लो।
+Guess how old I am.	Errate, wie alt ich bin.	अनुमान लगाओ मैं कितने पुराने हूं।
+Hand me that broom.	Gib mir den Besen.	उस झाड़ु को मुझे दो।
+Hand me the letter.	Gib mir den Brief.	मुझे वह पत्र दे।
+Hand me the remote.	Gib mir die Fernbedienung.	मुझे रिमोट दो।
+Hang in there, Tom.	Halt durch, Tom.	इस पर लटक जाओ, टॉम।
+Happy Thanksgiving!	Frohes Erntedankfest!	खुशहाल धन्यवाद!
+Has Tom called yet?	Hat Tom schon angerufen?	क्या टॉमने पहले से ही कॉल किया है?
+Has Tom tried that?	Hat Tom das versucht?	क्या टॉमने एक कोशिश की है?
+Has he arrived yet?	Ist er schon angekommen?	क्या वह अभी तक पहुँच गया है?
