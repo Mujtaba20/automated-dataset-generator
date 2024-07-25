@@ -5325,3 +5325,13 @@ We're baffled.	Wir sind verwirrt.	हम हैरान हैं।
 We're careful.	Wir sind vorsichtig.	हम सावधान हैं।
 We're certain.	Wir sind sicher.	हम निश्चित हैं।
 We're correct.	Wir haben recht.	हम सही हैं।
+We're cousins.	Wir sind Cousins.	हम कूसिंस हैं।
+We're curious.	Wir sind neugierig.	हमें जिज्ञासा है।
+We're dancing.	Wir tanzen.	हम नृत्य कर रहे हैं।
+We're dancing. (different meaning)	Wir sind tanzen.	हम नृत्य कर रहे हैं।
+We're dieting.	Wir machen eine Diät.	हम डाइटिंग कर रहे हैं।
+We're doctors.	Wir sind Ärzte.	हम डॉक्टर हैं।
+We're enemies.	Wir sind Feinde.	हम दुश्मन हैं।
+We're engaged.	Wir sind verlobt.	हमने एंगेजमेंट की है।
+We're fasting.	Wir fasten.	हम उपवास कर रहे हैं।
+We're fasting. (different meaning)	Wir sind schnell.	हम झलस रहे हैं।
