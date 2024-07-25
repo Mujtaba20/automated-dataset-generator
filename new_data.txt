@@ -760,3 +760,11 @@ Tom moved.	Tom bewegte sich.	टॉम चला गया।
 Tom rocks.	Tom rockt.	टॉम पत्थर फेंकता है।
 Tom slept.	Tom hat geschlafen.	टॉम सो गया।
 Tom spoke.	Tom sprach.	टॉम बोला।
+Tom stood.	Tom stand.	टॉम खड़े थे।
+Tom swims.	Tom schwimmt.	टॉम तैरता है।
+Tom swore.	Tom schwor.	टॉम शपथ खाई।
+Tom tried.	Tom versuchte.	टॉम ने कोशिश की।
+Tom tries.	Tom versucht.	टॉम कोशिश करता है।
+Tom voted.	Tom hat gewählt.	टॉम ने मतदान किया।
+Tom walks.	Tom geht spazieren.	टॉम चलता है।
+Tom waved.	Tom winkte.	टॉम हाथ हिलाया।
