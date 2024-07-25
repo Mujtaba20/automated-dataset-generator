@@ -5984,3 +5984,12 @@ I dislike eggs.	Ich mag keine Eier.	मुझे अंडे पसंद न�
 I do that, too.	Ich mache das auch.	मैं भी वह करता हूं।
 I don't gamble.	Ich spiele nicht.	मैं जुए नहीं खेलता।
 I don't get it.	Ich verstehe es nicht.	मुझे समझ में नहीं आता।
+I don't gossip.	Ich tratsche nicht.	मैं गपशप नहीं करता।
+I don't see it.	Ich sehe es nicht.	मैं उसे नहीं देखता।
+I drank a beer.	Ich trank ein Bier.	मैंने एक बीयर पिया।
+I drank coffee.	Ich habe Kaffee getrunken.	मैंने कॉफ़ी पी है।
+I drink coffee.	Ich trinke Kaffee.	मैं कॉफ़ी पीता हूँ।
+I eat tomatoes.	Ich esse Tomaten.	मैं टमाटर खाता हूँ।
+I enjoyed that.	Das hat mir gefallen.	मुझे वह पसंद आया।
+I fear nothing.	Ich fürchte nichts.	मुझे कुछ नहीं डरता।
+I fear nothing.2	Ich habe keine Angst.	मुझे कुछ नहीं डरता।
