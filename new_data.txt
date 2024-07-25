@@ -3760,3 +3760,12 @@ Call security!	Rufen Sie die Sicherheit!	सुरक्षा को बुल�
 Call security.	Rufen Sie die Sicherheit.	सुरक्षा को बुलाओ।
 Can I ask why?	Kann ich fragen, warum?	क्या मैं पूछ सकता हूँ क्यों?
 Can I hug you?	Kann ich dich umarmen?	क्या मैं तुम्हे गले लगा सकता हूँ?
+Can I join in?	Kann ich mitmachen?	क्या मैं शामिल हो सकता हूँ?
+Can he see us?	Kann er uns sehen?	क्या वह हमें देख सकता है?
+Can this wait?	Kann das warten?	क्या यह ठहर सकता है?
+Can we go now?	Können wir jetzt gehen?	क्या हम अब जा सकते हैं?
+Can you dance?	Kannst du tanzen?	क्या तुम नृत्य कर सकते हो?
+Can you do it?	Kannst du es machen?	क्या तुम इसे कर सकते हो?
+Can you drive?	Kannst du fahren?	क्या तुम ड्राइव कर सकते हो?
+Can you skate?	Kannst du skaten?	क्या तुम स्केट कर सकते हो?
+Can you stand?	Kannst du stehen?	क्या तुम खड़े हो सकते हो?
