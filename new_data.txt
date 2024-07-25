@@ -1190,3 +1190,10 @@ engSentence7	Kein Witz?	मजाक है?
 engSentence8	Kein Scherz?	मजाक कर रहे हो?
 engSentence9	Nicht im Ernst?	सच में?
 engSentence10	Fein!	सुन्दर!
+No problem!	Kein Problem!	कोई समस्या नहीं!
+No problem.	Kein Problem.	कोई बड़ी बात नहीं।
+Nobody ran.	Niemand rannte.	कोई नहीं दौड़ा।
+Oh, really?	Oh, wirklich?	अच्छा, सच में?
+Once again.	Noch einmal.	एक बार फिर।
+Pick it up.	Hebe es auf.	इसे उठाओ।
+Please eat.	Bitte essen.	कृपया खाओ।
