@@ -9611,3 +9611,11 @@ Let me go alone.	Lass mich alleine gehen.	मुझे अकेले जान
 Let me go first.	Lass mich zuerst gehen.	मुझे पहले जाने दो।
 Let me help you.	Lass mich dir helfen.	मुझे तुम्हें मदद करने दो।
 Let me see that.	Lass mich das sehen.	मुझे वह देखने दो।
+Let us help Tom.	Lassen Sie uns Tom helfen.	हम टॉम की मदद करें।
+Let's ditch Tom.	Lass uns Tom im Stich lassen.	चलो टॉम को छोड़ दें।
+Let's eat sushi.	Lass uns Sushi essen.	चलो सुशि खाते हैं।
+Let's fly kites.	Lass uns Drachen steigen lassen.	चलो पतंग उडाएँ।
+Let's get a cab.	Lass uns ein Taxi nehmen.	चलो एक कैब लेते हैं।
+Let's get drunk.	Lass uns betrunken werden.	चलो नशे में ढल जाएं।
+Let's get a ride.	Lass uns eine Fahrt bekommen.	चलो सफ़र करें।
+Let's grab a bite.	Lass uns einen Happen essen.	चलो कुछ खाते हैं।
