@@ -2811,3 +2811,10 @@ I'll do this.	Ich werde das tun.	मैं यह करूँगा।
 I'll explain.	Ich werde erklären.	मैं समझाऊँगा।
 I'll get Tom.	Ich werde Tom holen.	मैं टॉम को ला आऊँगा।
 I'll get one.	Ich werde eines bekommen.	मैं एक पा सकता हूँ।
+I'll get you.	Ich werde dich bekommen.	मैं तुम्हें पकड़ लूँगा।
+I'll go home.	Ich werde nach Hause gehen.	मैं घर जा रहा हूँ।
+I'll go look.	Ich werde schauen gehen.	मैं जा कर देखूंगा।
+I'll pay you.	Ich werde dir bezahlen.	मैं तुम्हें पैसे दूंगा।
+I'll read it.	Ich werde es lesen.	मैं इसे पढ़ूंगा।
+I'll see Tom.	Ich werde Tom sehen.	मैं टॉम से मिलूँगा।
+I'll sue you.	Ich werde dich verklagen.	मैं तुम पर मुकदमा चलाने वाला हूँ।
