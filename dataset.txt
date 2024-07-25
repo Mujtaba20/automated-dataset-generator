@@ -1,14 +1,4 @@
 
-We need a new car.	Wir brauchen ein neues Auto.	हमें एक नई कार चाहिए।
-We need a victory.	Wir brauchen einen Sieg.	हमें एक जीत की जरूरत है।
-We need donations.	Wir brauchen Spenden.	हमें दान चाहिए।
-We need fresh air.	Wir brauchen frische Luft.	हमें ताजी हवा चाहिए।
-We need more food.	Wir brauchen mehr zu essen.	हमें खाने के लिए और भी चाहिए।
-We need more time.	Wir brauchen mehr Zeit.	हमें अधिक समय चाहिए।
-We need the money.	Wir brauchen das Geld.	हमें पैसे चाहिए।
-We need your help.	Wir brauchen Ihre Hilfe.	हमे आपकी मदद की जरूरत है।
-We need your help.	Wir brauchen deine Hilfe.	हमे आपकी मदद की जरूरत है।
-We need your help.	Wir brauchen eure Hilfe.	हमे आपकी मदद की जरूरत है।
 We never help Tom.	Wir helfen Tom nie.	हम कभी टॉम की मदद नहीं करते।
 We often go there.	Wir gehen oft dorthin.	हम अक्सर वहां जाते हैं।
 We only take cash.	Wir nehmen nur Bargeld.	हम केवल नकद लेते हैं।

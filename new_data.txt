@@ -19565,3 +19565,11 @@ We must try again.	Wir müssen es noch einmal versuchen.	हमें फिर 
 We must warn them.	Wir müssen sie warnen.	हमें उन्हें चेतावनी देनी है।
 We must work hard.	Wir müssen hart arbeiten.	हमें मेहनत करनी है।
 We nearly starved.	Wir waren fast verhungert.	हम तकलीफ में थे।
+We need a new car.	Wir brauchen ein neues Auto.	हमें एक नई कार की जरूरत है।
+We need a victory.	Wir brauchen einen Sieg.	हमें एक जीत की आवश्यकता है।
+We need donations.	Wir brauchen Spenden.	हमें दान की आवश्यकता है।
+We need fresh air.	Wir brauchen frische Luft.	हमें ताजा हवा की आवश्यकता है।
+We need more food.	Wir brauchen mehr Essen.	हमें और खाने की आवश्यकता है।
+We need more time.	Wir brauchen mehr Zeit.	हमें और समय की आवश्यकता है।
+We need the money.	Wir brauchen das Geld.	हमें पैसे की जरूरत है।
+We need your help.	Wir brauchen deine Hilfe.	हमें तुम्हारी मदद की आवश्यकता है।
