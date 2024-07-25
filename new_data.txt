@@ -7846,3 +7846,10 @@ We'll find out.	Wir werden es herausfinden.	हम जानेंगे।
 We'll fix that.	Wir werden das reparieren.	हम उसे ठीक करेंगे।
 We'll fix this.	Wir werden das reparieren.	हम यह ठीक करेंगे।
 We'll help you.	Wir werden dir helfen.	हम तुम्हारी मदद करेंगे।
+We'll kill you.	Wir werden dich töten.	हम तुम्हें मार देंगे।
+We'll meet Tom.	Wir werden Tom treffen.	हम टॉम से मिलेंगे।
+We'll miss Tom.	Wir werden Tom vermissen.	हमें टॉम की कमी महसूस होगी।
+We'll miss you.	Wir werden dich vermissen.	हम तुम्हें याद करेंगे।
+We'll paint it.	Wir werden es malen.	हम इसे रंगीन करेंगे।
+We'll show Tom.	Wir werden Tom zeigen.	हम टॉम को दिखाएंगे।
+We'll stop Tom.	Wir werden Tom stoppen.	हम टॉम को रोकेंगे।
