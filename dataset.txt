@@ -1,14 +1,4 @@
 
-That house is big.	Das Haus ist groß.	घर बड़ा है।
-That is all right.	Das ist in Ordnung.	वह ठीक है।
-That is all right.	Das geht.	यह चलने लगा।
-That is all right.	Schon gut!	यह कुछ भी नहीं है!
-That is essential.	Das ist unverzichtbar.	यह अपरिहार्य है।
-That is essential.	Das ist essentiell.	यह आवश्यक है।
-That is her house.	Das ist ihr Haus.	यह आपका घर है।
-That is her house.	Das ist das Haus von ihr.	यह उसका घर है।
-That is his house.	Das ist sein Haus.	यह उसका घर है।
-That is my school.	Das ist meine Schule.	ये मेरे स्कूल हे।
 That is your book.	Das ist dein Buch.	यह आपकी किताब है।
 That is your book.	Das ist Ihr Buch.	वह उसकी किताब है।
 That is your book.	Das ist euer Buch.	यह आपकी किताब है।

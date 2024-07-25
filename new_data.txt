@@ -17896,3 +17896,9 @@ That could change.	Das könnte sich ändern.	वह बदल सकता ह�
 That could happen.	Das könnte passieren.	वह हो सकता है।
 That girl is Mary.	Dieses Mädchen ist Mary.	वह लड़की मेरी है।
 That helped a lot.	Das hat sehr geholfen.	वह बहुत मदद की।
+That house is big.	Dieses Haus ist groß.	वह घर बड़ा है।
+That is all right.	Alles in Ordnung.	यह सब ठीक है।
+That is essential.	Das ist wichtig.	यह ज़रूरी है।
+That is her house.	Das ist ihr eigenes Haus.	वह उस छोटे से घर में बसती है।
+That is his house.	Das ist sein Haus.	वह उसका घर है।
+That is my school.	Das ist meine Schule.	वह मेरी स्कूल है।
