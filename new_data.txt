@@ -2717,3 +2717,12 @@ I live alone.	Ich lebe allein.	मैं अकेला रहता हूँ�
 I lost a bet.	Ich habe eine Wette verloren.	मैंने एक बाजी हार दी।
 I love books.	Ich liebe Bücher.	मुझे किताबें पसंद हैं।
 I love bread.	Ich liebe Brot.	मुझे रोटी पसंद है।
+I love games.	Ich liebe Spiele.	मुझे खेल पसंद है।
+I love jokes.	Ich liebe Witze.	मुझे मजाक पसंद है।
+I love money.	Ich liebe Geld.	मुझे पैसे पसंद हैं।
+I love pizza.	Ich liebe Pizza.	मुझे पिज्जा पसंद है।
+I love trips.	Ich liebe Reisen.	मुझे यात्राएं पसंद हैं।
+I loved that.	Das habe ich geliebt.	मैंने वह पसंद किया।
+I made a bet.	Ich habe eine Wette abgeschlossen.	मैंने एक बाजी लगाई।
+I made it up.	Ich habe es erfunden.	मैंने यह बनाया है।
+I made these.	Ich habe diese gemacht.	मैंने ये बनाए हैं।
