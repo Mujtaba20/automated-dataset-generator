@@ -18214,3 +18214,10 @@ This book is mine.	Dieses Buch gehört mir.	यह किताब मेरी 
 This book was new.	Dieses Buch war neu.	यह किताब नई थी।
 This book will do.	Dieses Buch wird genügen.	यह किताब काम आएगी।
 This box is heavy.	Diese Schachtel ist schwer.	यह डिब्बा भारी है।
+This bucket leaks.	Dieser Eimer hat ein Leck.	यह बाल्टी रिसाव करती है।
+This came for you.	Das kam für dich.	यह आपके लिए आया था।
+This car is Tom's.	Dieses Auto gehört Tom.	यह गाड़ी टॉम की है।
+This car is black.	Dieses Auto ist schwarz.	यह गाड़ी काली है।
+This coat is warm.	Dieser Mantel ist warm.	यह कोट गरम है।
+This concerns you.	Das geht dich etwas an.	यह आपको लेकर है।
+This desk is good.	Dieser Schreibtisch ist gut.	यह डेस्क अच्छा है।

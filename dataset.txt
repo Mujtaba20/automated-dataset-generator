@@ -1,14 +1,4 @@
 
-This bucket leaks.	Dieser Eimer leckt.	यह बाल्टी चाटता है।
-This bucket leaks.	Dieser Eimer ist undicht.	यह बाल्टी लीक हो रही है।
-This came for you.	Das ist für dich gekommen.	वह आपके लिए आया था।
-This car is Tom's.	Dieses Auto gehört Tom.	यह कार टॉम की है।
-This car is black.	Dieses Auto ist schwarz.	यह कार काली है।
-This coat is warm.	Dieser Mantel ist warm.	यह कोट गर्म है।
-This concerns you.	Das betrifft dich.	यह आपको प्रभावित करता है।
-This concerns you.	Das betrifft euch.	जो आपको प्रभावित करता है।
-This concerns you.	Das betrifft Sie.	यह उन्हें प्रभावित करता है।
-This desk is good.	Dieser Schreibtisch ist gut.	यह डेस्क अच्छी है।
 This doesn't burn.	Dies brennt nicht.	यह जलता नहीं है।
 This doesn't burn.	Dies kann nicht brennen.	यह जला नहीं सकता।
 This dog is Tom's.	Dieser Hund gehört Tom.	यह कुत्ता टॉम का है।
