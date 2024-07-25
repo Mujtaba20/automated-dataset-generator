@@ -1,14 +1,4 @@
 
-Tom isn't married.	Tom ist nicht verheiratet.	टॉम शादीशुदा नहीं है।
-Tom isn't missing.	Tom fehlt nicht.	टॉम गायब नहीं है।
-Tom isn't my name.	Ich heiße nicht Tom.	मुझे टॉम नहीं कहा जाता है।
-Tom isn't naughty.	Tom ist nicht unartig.	टॉम शरारती नहीं है।
-Tom isn't outside.	Tom ist nicht draußen.	टॉम बाहर नहीं है।
-Tom isn't perfect.	Tom ist nicht perfekt.	टॉम सही नहीं है।
-Tom isn't pleased.	Tom ist nicht erfreut.	टॉम प्रसन्न नहीं है।
-Tom isn't present.	Tom ist nicht anwesend.	टॉम मौजूद नहीं है।
-Tom isn't retired.	Tom ist nicht im Ruhestand.	टॉम सेवानिवृत्त नहीं हैं।
-Tom isn't running.	Tom läuft nicht.	टॉम नहीं चलता।
 Tom isn't scrawny.	Tom ist nicht mager.	टॉम दुबला नहीं है।
 Tom isn't selfish.	Tom ist nicht egoistisch.	टॉम स्वार्थी नहीं है।
 Tom isn't serious.	Tom ist nicht ernsthaft.	टॉम गंभीर नहीं है।
