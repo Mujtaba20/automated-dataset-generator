@@ -6997,3 +6997,12 @@ The price rose.	Der Preis stieg.	कीमत बढ़ गई।
 The radio died.	Das Radio ist kaputt.	रेडियो मर गया।
 The roof leaks.	Das Dach ist undicht.	छत से पानी टपक रहा है।
 The tea is hot.	Der Tee brennt.	चाय जली हुई है।
+The train left.	Der Zug ist abgefahren.	ट्रेन चली गई।
+Their eyes met.	Ihre Blicke trafen sich.	उनकी आंखें मिली।
+Their lips met.	Ihre Lippen trafen sich.	उनके होंठ मिले।
+There are more.	Es gibt mehr.	और भी है।
+There is a cat.	Es ist eine Katze da.	एक बिल्ली है।
+There's a snag.	Es gibt einen Haken.	कोई रुकावट है।
+These are good.	Diese sind gut.	ये अच्छे हैं।
+These are mine.	Diese gehören mir.	ये मेरे हैं।
+These are ours.	Diese gehören uns.	ये हमारे हैं।
