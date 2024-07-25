@@ -4447,3 +4447,12 @@ I'm very busy.	Ich bin sehr beschäftigt.	मैं बहुत व्यस्
 I'm very cold.	Mir ist sehr kalt.	मुझे बहुत ठंडी लग रही है।
 I'm very lazy.	Ich bin sehr faul.	मैं बहुत सुस्त हूँ।
 I'm very poor.	Ich bin sehr arm.	मैं बहुत गरीब हूँ।
+I'm very rich.	Ich bin sehr reich.	मैं बहुत धनवान हूँ।
+I'm very tall.	Ich bin sehr groß.	मैं बहुत लंबा हूँ।
+I'm very thin.	Ich bin sehr dünn.	मैं बहुत पतला हूँ।
+I'm very weak.	Ich bin sehr schwach.	मैं बहुत कमजोर हूँ।
+I'm your boss.	Ich bin dein Chef.	मैं तुम्हारा बॉस हूँ।
+I've found it.	Ich habe es gefunden.	मैंने इसे ढूँढ़ लिया है।
+I've got kids.	Ich habe Kinder.	मेरे पास बच्चे हैं।
+I've got more.	Ich habe mehr.	मेरे पास अधिक है।
+I've got that.	Ich habe das.	मैंने यह पकड़ लिया।
