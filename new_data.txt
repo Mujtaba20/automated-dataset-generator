@@ -270,3 +270,6 @@ Be brave.	Sei mutig.	धीरे बनो।
 Be brief.	Sei präzise.	संक्षेप में रहें।
 Be still.	Sei still.	शांत रहो।
 Call Tom.	Rufe Tom an.	टॉम को बुलाओ।
+Can I go?	Kann ich gehen?	क्या मैं जा सकता हूँ?
+Catch me.	Hol mich ein.	मुझे पकड़ लो।
+Cheer up!	Kopf hoch!	जी उठाओ!
