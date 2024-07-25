@@ -2562,3 +2562,11 @@ He is a poet.	Er ist ein Dichter.	वह कवि है।
 He is asleep.	Er schläft.	वह सो रहा है।
 He is chubby.	Er ist mollig.	वह मोटा है।
 He is cranky.	Er ist launisch.	वह तंग आ गया है।
+He is driven.	Er wird angetrieben.	वह प्रेरित है।
+He is eating.	Er isst.	वह खा रहा है।
+He is heroic.	Er ist heldenhaft.	वह वीरता है।
+He is not in.	Er ist nicht da.	वह अनुपस्थित है।
+He kicked it.	Er hat es getreten.	उसने इसे थक्क दिया।
+He let us go.	Er ließ uns gehen.	उसने हमें जाने दिया।
+He lost face.	Er hat sein Gesicht verloren.	उसने अपना सम्मान खो दिया।
+He loved her.	Er liebte sie.	उसने उसे पसंद किया।
