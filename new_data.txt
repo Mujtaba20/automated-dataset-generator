@@ -13928,3 +13928,12 @@ Tom admired Mary.	Tom verehrte Mary.	टॉम ने मेरी की प्
 Tom admires Mary.	Tom bewundert Mary.	टॉम मेरी की तारीफ करता है।
 Tom almost cried.	Tom weinte fast.	टॉम लगभग रो देता।
 engSentence	{'Tom already left.': 'Tom ist bereits gegangen.', 'Tom always loses.': 'Tom verliert immer.', 'Tom answered yes.': 'Tom sagte ja.', 'Tom arrived last.': 'Tom kam als Letzter an.', 'Tom arrived late.': 'Tom kam spät an.', 'Tom ate an apple.': 'Tom aß einen Apfel.', 'Tom ate my lunch.': 'Tom hat mein Mittagessen gegessen.', 'Tom avoided Mary.': 'Tom vermied Mary.'}	{'Tom already left.': 'टॉम पहले ही चला गया।', 'Tom always loses.': 'टॉम हमेशा हार जाता है।', 'Tom answered yes.': 'टॉम ने जवाब दिया हां।', 'Tom arrived last.': 'टॉम अंतिम के रूप में पहुंचा।', 'Tom arrived late.': 'टॉम देर से पहुंचा।', 'Tom ate an apple.': 'टॉम ने एक सेब खाया।', 'Tom ate my lunch.': 'टॉम ने मेरा भोजन खा लिया।', 'Tom avoided Mary.': 'टॉम ने मेरी को टाल दिया।'}
+Tom barely spoke.	Tom sprach kaum.	टॉम ने मुँह बात नहीं की।
+Tom beat Mary up.	Tom hat Mary geschlagen.	टॉम ने मैरी को पीटा।
+Tom became angry.	Tom wurde wütend.	टॉम गुस्से में आ गया।
+Tom became blind.	Tom wurde blind.	टॉम अंधा हो गया।
+Tom became bored.	Tom wurde gelangweilt.	टॉम बोर हो गया।
+Tom became dizzy.	Tom wurde schwindelig.	टॉम चक्कर आने लगे।
+Tom became quiet.	Tom wurde ruhig.	टॉम शांत हो गया।
+Tom became tired.	Tom wurde müde.	टॉम थक गया।
+Tom became upset.	Tom wurde verärgert.	टॉम उदास हो गया।
