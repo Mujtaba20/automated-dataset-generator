@@ -12042,3 +12042,10 @@ He threw his toy.	Er warf sein Spielzeug.	उसने अपना खिलौ
 He told everyone.	Er hat es allen gesagt.	उसने सबको बताया।
 He told us a lie.	Er hat uns eine Lüge erzählt.	उसने हमें झूठ पक्ष बताया।
 He took his book.	Er nahm sein Buch.	उसने अपनी किताब ली।
+He took his time.	Er ließ sich Zeit.	उसने अपना समय लिया।
+He turned around.	Er machte kehrt.	उसने घूम लिया।
+He used to drink.	Er trank früher.	उसकी पीने की आदत थी।
+He wants to come.	Er möchte kommen.	वह आना चाहता है।
+He was acquitted.	Er wurde freigesprochen.	वह बरी हो गया था।
+He was all wrong.	Er lag völlig falsch.	उसकी पूरी गलती थी।
+He was born rich.	Er wurde reich geboren.	वह अमीर पैदा हुआ था।
