@@ -9726,3 +9726,11 @@ Nobody wants it.	Niemand will es.	किसी को यह चाहिए न
 Nobody was home.	Niemand war zu Hause.	किसी के घर में कोई नहीं था।
 Nobody's hungry.	Niemand hat Hunger.	किसी को भूख नहीं है।
 Nothing changes.	Nichts ändert sich.	कुछ नहीं बदलता।
+Now I'm worried.	Jetzt mache ich mir Sorgen.	अब मुझे चिंता है।
+Now all is well.	Jetzt ist alles gut.	अब सब ठीक है।
+Now is the time.	Jetzt ist die Zeit.	अब समय है।
+Now stand still.	Jetzt bleiben Sie stehen.	अब खड़े रहें।
+Now stop crying.	Jetzt hör auf zu weinen.	अब रोना बंद करो।
+Now we know why.	Jetzt wissen wir warum.	अब हमे पता है क्यों।
+Now you're safe.	Jetzt bist du sicher.	अब तुम सुरक्षित हो।
+Nowhere is safe.	Nirgendwo ist sicher.	कहीं भी सुरक्षित नहीं है।
