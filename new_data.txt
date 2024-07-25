@@ -5021,3 +5021,13 @@ Tom is absent.	Tom fehlt.	टॉम अनुपस्थित है।
 Tom is afraid.	Tom hat Angst.	टॉम डर रहा है।
 Tom is asleep.	Tom schläft.	टॉम सो रहा है।
 Tom is better.	Tom ist besser.	टॉम बेहतर है।
+Tom is biased.	Tom ist voreingenommen.	टॉम पक्षपाती है।
+Tom is boring.	Tom ist langweilig.	टॉम उबाऊ है।
+Tom is chubby.	Tom ist pummelig.	टॉम मोटा है।
+Tom is chubby. - Translation 2	Tom ist mollig.	टॉम चौड़ा है।
+Tom is clever.	Tom ist klug.	टॉम चालाक है।
+Tom is coming.	Tom kommt.	टॉम आ रहा है।
+Tom is crafty.	Tom ist listig.	टॉम चालाक है।
+Tom is crafty. - Translation 2	Tom ist geschickt.	टॉम कुशल है।
+Tom is cranky.	Tom ist mürrisch.	टॉम चिड़चिड़ा है।
+Tom is crying.	Tom weint.	टॉम रो रहा है।
