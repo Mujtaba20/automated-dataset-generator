@@ -4193,3 +4193,11 @@ I married Tom.	Ich heiratete Tom.	मैंने टॉम से शादी 
 I may do that.	Ich könnte das tun.	मैं वह कर सकता हूं।
 I may do that. 	Vielleicht werde ich das tun.	मैं शायद वह करूँ।
 I miss Boston.	Ich vermisse Boston.	मुझे बोस्टन की याद आती है।
+I miss my cat.	Ich vermisse meine Katze.	मुझे मेरी बिल्ली की याद आती है।
+I miss my mom.	Ich vermisse meine Mutter.	मुझे मेरी मां की याद आती है।
+I must fix it.	Ich muss es reparieren.	मुझे इसे ठीक करना होगा।
+I must go now.	Ich muss jetzt gehen.	मुझे अब जाना चाहिए।
+I must go out.	Ich muss rausgehen.	मुझे बाहर जाना है।
+I must refuse.	Ich muss ablehnen.	मुझे इनकार करना है।
+I must resist.	Ich muss widerstehen.	मुझे संभलना है।
+I must see it.	Ich muss es sehen.	मुझे यह देखना है।
