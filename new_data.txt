@@ -2546,3 +2546,10 @@ Have a taste.	Probieren Sie mal.	एक रस परिक्षण करो�
 Have another.	Haben Sie noch eins.	और एक लो।
 Have courage.	Sei mutig.	धैर्य रखो।
 He avoids me.	Er meidet mich.	वह मुझसे बचता है।
+He can do it.	Er kann es machen.	वह यह कर सकता है।
+He could die.	Er könnte sterben.	वह मर सकता था।
+He denied it.	Er hat es bestritten.	उसने इसे इनकार किया।
+He dozed off.	Er ist eingeschlafen.	उसने नींद में पड़ गया।
+He dumped me.	Er hat mich abgeladen.	उसने मुझे खेला।
+He got angry.	Er wurde wütend.	वह गुस्से में आ गया।
+He had a dog.	Er hatte einen Hund.	उसके पास एक कुत्ता था।
