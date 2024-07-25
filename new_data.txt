@@ -768,3 +768,4 @@ Tom tries.	Tom versucht.	टॉम कोशिश करता है।
 Tom voted.	Tom hat gewählt.	टॉम ने मतदान किया।
 Tom walks.	Tom geht spazieren.	टॉम चलता है।
 Tom waved.	Tom winkte.	टॉम हाथ हिलाया।
+engSentence	{'Tom works.': 'Tom arbeitet.', "Tom'll go.": 'Tom wird gehen.', "Tom's fat.": 'Tom ist dick.', "Tom's mad.": 'Tom ist wütend.', "Tom's sad.": 'Tom ist traurig.', "Tom's shy.": 'Tom ist schüchtern.', 'Trust Tom.': 'Vertraue Tom.', 'Try again.': 'Versuche es erneut.'}	{'Tom works.': 'टॉम काम करता है।', "Tom'll go.": 'टॉम जाएगा।', "Tom's fat.": 'टॉम मोटा है।', "Tom's mad.": 'टॉम गुस्सा है।', "Tom's sad.": 'टॉम उदास है।', "Tom's shy.": 'टॉम शर्मीला है।', 'Trust Tom.': 'टॉम पर भरोसा करो।', 'Try again.': 'पुनः प्रयास करें।'}
