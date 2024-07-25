@@ -13129,3 +13129,12 @@ It was very nice.	Es war sehr nett.	यह बहुत अच्छा था�
 It was very ugly.	Es war sehr hässlich.	यह बहुत बदसूरत था।
 It was your idea.	Es war deine Idee.	यह तुम्हारी विचार थी।
 It was very bad.	Es war sehr schlecht.	यह बहुत बुरा था।
+It wasn't enough.	Es war nicht genug.	यह काफी नहीं था।
+It won't be easy.	Es wird nicht einfach sein.	यह आसान नहीं होगा।
+It won't be long.	Es wird nicht lange dauern.	यह लंबा नहीं चलेगा।
+It wouldn't hurt.	Es würde nicht schaden.	यह चोट नहीं पहुंचाएगा।
+It'll come to me.	Es wird zu mir kommen.	यह मुझे मिलेगा।
+It'll have to do.	Es wird ausreichen müssen.	यह करना पड़ेगा।
+It'll never work.	Es wird nie funktionieren.	यह कभी काम नहीं करेगा।
+It'll snow today.	Es wird heute schneien.	आज बर्फ गिरेगी।
+It's Tom's fault.	Es ist Toms Schuld.	यह टॉम की ग़लती है।
