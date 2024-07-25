@@ -1,14 +1,4 @@
 
-It's my dream job.	Es ist mein Traumberuf.	यह मेरा सपना काम है।
-It's my only copy.	Es ist meine einzige Ausgabe.	यह मेरा एकमात्र संस्करण है।
-It's my only hope.	Das ist meine einzige Hoffnung.	यह मेरी एकमात्र आशा है।
-It's no big thing.	Es ist keine große Sache.	यह कोई बड़ी बात नहीं है।
-It's not a secret.	Es ist kein Geheimnis.	यह कोई रहस्य नहीं है।
-It's not a secret.	Das ist kein Geheimnis.	यह कोई रहस्य नहीं है।
-It's not a weapon.	Es ist keine Waffe.	यह कोई हथियार नहीं है।
-It's not a weapon.	Sie ist keine Waffe.	वह एक हथियार नहीं है।
-It's not a weapon.	Er ist keine Waffe.	वह एक हथियार नहीं है।
-It's not an issue.	Kein Thema!	कोई हरज नहीं!
 It's not for sale.	Das steht nicht zum Verkauf.	यह बिक्री के लिए नहीं है।
 It's not for sale.	Das ist unverkäuflich.	यह अनसुना है।
 It's not my fault.	Das ist nicht mein Fehler.	यह मेरी गलती नहीं है।

@@ -17404,3 +17404,10 @@ It's just a dream.	Es ist nur ein Traum.	यह बस एक सपना ह�
 It's just a rumor.	Es ist nur ein Gerücht.	यह बस एक अफवाह है।
 It's just amazing.	Es ist einfach unglaublich.	यह बस अद्भुत है।
 It's my brother's.	Es ist von meinem Bruder.	यह मेरे भाई का है।
+It's my dream job.	Es ist mein Traumjob.	यह मेरी सपनों की नौकरी है।
+It's my only copy.	Es ist meine einzige Kopie.	यह मेरी एकमात्र प्रति है।
+It's my only hope.	Es ist meine einzige Hoffnung.	यह मेरी एकमात्र आशा है।
+It's no big thing.	Es ist keine große Sache.	यह बड़ी बात नहीं है।
+It's not a secret.	Es ist kein Geheimnis.	यह एक रहस्य नहीं है।
+It's not a weapon.	Es ist keine Waffe.	यह एक हथियार नहीं है।
+It's not an issue.	Das ist kein Problem.	यह कोई मुद्दा नहीं है।
