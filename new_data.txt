@@ -20401,3 +20401,6 @@ Do I have to study?	Muss ich lernen?	क्या मुझे पढ़ाई �
 Do I look like Tom?	Sehe ich aus wie Tom?	क्या मैं टॉम जैसा दिखता हूँ?
 Do I need a lawyer?	Brauche ich einen Anwalt?	क्या मुझे वकील की जरुरत है?
 Do I need stitches?	Brauche ich Stiche?	क्या मुझे स्टिचिंग की जरुरत है?
+Do I owe you money?	Soll ich Ihnen Geld geben?	क्या मुझे आपके पास पैसे देने हैं?
+Do I sound in love?	Klinge ich verliebt?	क्या मैं प्यार में हूँ?
+Do as he tells you.	Handele nach seinen Anweisungen.	जैसा वह आपसे कहता है, वैसा करो।

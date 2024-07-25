@@ -1,17 +1,4 @@
 
-Do I owe you money?	Schulde ich dir Geld?	क्या मैं आपको पैसे देना चाहता हूं?
-Do I owe you money?	Bin ich dir Geld schuldig?	क्या मैं आपको पैसे देना चाहता हूं?
-Do I owe you money?	Schulde ich Ihnen Geld?	क्या मैं आपको पैसे देना चाहता हूं?
-Do I owe you money?	Bin ich Ihnen Geld schuldig?	क्या मैं आपके लिए पैसे का दोषी हूं?
-Do I owe you money?	Bin ich euch Geld schuldig?	क्या मैं आपको पैसे देना चाहता हूं?
-Do I owe you money?	Schulde ich euch Geld?	क्या मैं आपको पैसे देना चाहता हूं?
-Do I sound in love?	Klinge ich verliebt?	क्या मैं प्यार में आवाज करता हूं?
-Do as he tells you.	Mach, was er dir sagt.	वह वही करें जो वह आपको बताता है।
-Do as he tells you.	Macht, was er euch sagt.	क्या वह आपको बताता है।
-Do as he tells you.	Machen Sie, was er Ihnen sagt.	वह वही करें जो वह आपको बताता है।
-Do as he tells you.	Tu, was er dir sagt.	वह वही करें जो वह आपको बताता है।
-Do as he tells you.	Tut, was er euch sagt.	क्या वह आपको बताता है।
-Do as he tells you.	Tun Sie, was er Ihnen sagt.	वह वही करें जो वह आपको बताता है।
 Do it by all means.	Tu’s auf jeden Fall!	निश्चित रूप से यह करो!
 Do like I said, OK?	Tu, wie ich gesagt habe, okay?	मैंने क्या कहा ठीक है?
 Do they have money?	Haben sie Geld?	क्या तुम्हारे पास पैसे हैं?
