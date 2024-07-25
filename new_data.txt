@@ -17955,3 +17955,9 @@ That's acceptable.	Das ist akzeptabel.	यह स्वीकार्य है
 That's all I have.	Das ist alles, was ich habe.	यह मेरा सब कुछ है।
 That's all I know.	Das ist alles, was ich weiß.	यह मेरे पास सब कुछ है।
 That's all I need.	Das ist alles, was ich brauche.	वह सब मुझे चाहिए।
+That's always fun.	Das macht immer Spaß.	यह हमेशा मजेदार होता है।
+That's been tried.	Das wurde versucht.	उसका प्रयास किया गया है।
+That's how I know.	Das ist, wie ich weiß.	यही मेरे पास उसका ज्ञान है।
+That's how it was.	So war es.	ऐसे ही था।
+That's impossible.	Das ist unmöglich.	यह असंभव है।
+That's irrelevant.	Das ist irrelevant.	यह अप्रासंगिक है।
