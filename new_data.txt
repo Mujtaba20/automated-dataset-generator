@@ -18390,3 +18390,13 @@ Tom could've died.	Tom könnte gestorben sein.	टॉम मर चुका ह
 Tom could've gone.	Tom hätte gehen können.	टॉम चला जा सकता था।
 Tom couldn't help.	Tom konnte nicht helfen.	टॉम मदद नहीं कर सका।
 Tom couldn't move.	Tom konnte sich nicht bewegen.	टॉम हिल नहीं सका।
+Tom couldn't rest.	Tom konnte nicht ruhen.	टॉम आराम नहीं कर सका।
+Tom couldn't stop.	Tom konnte nicht aufhören.	टॉम रुक नहीं सका।
+Tom couldn't swim.	Tom konnte nicht schwimmen.	टॉम तैर नहीं सका।
+Tom couldn't swim. - Different meaning	Tom konnte nicht schwimmen.	टॉम तैरना नहीं जानता था।
+Tom couldn't talk.	Tom konnte nicht sprechen.	टॉम बोल नहीं सका।
+Tom couldn't walk.	Tom konnte nicht laufen.	टॉम चल नहीं सका।
+Tom cursed loudly.	Tom fluchte laut.	टॉम जोर से श्राप दिया।
+Tom demanded more.	Tom verlangte mehr.	टॉम अधिक मांग करता था।
+Tom deserved that.	Tom verdiente das.	टॉम के पास उसका हक था।
+Tom deserves more.	Tom verdient mehr.	टॉम को और अधिक योग्यता है।

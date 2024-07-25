@@ -1,14 +1,4 @@
 
-Tom couldn't rest.	Tom konnte nicht ruhen.	टॉम आराम नहीं कर सका।
-Tom couldn't stop.	Tom konnte nicht aufhören.	टॉम रुक नहीं सका।
-Tom couldn't swim.	Tom konnte nicht schwimmen.	टॉम तैर नहीं सका।
-Tom couldn't swim.	Tom war nicht in der Lage zu schwimmen.	टॉम तैरने में असमर्थ था।
-Tom couldn't talk.	Tom konnte nicht sprechen.	टॉम बोल नहीं सका।
-Tom couldn't walk.	Tom konnte nicht gehen.	टॉम नहीं जा सका।
-Tom cursed loudly.	Tom fluchte laut.	टॉम ने जोर से शाप दिया।
-Tom demanded more.	Tom verlangte mehr.	टॉम ने और पूछा।
-Tom deserved that.	Tom hat das verdient.	टॉम इसके हकदार हैं।
-Tom deserves more.	Tom verdient mehr.	टॉम अधिक हकदार है।
 Tom deserves that.	Tom verdient das.	टॉम इसके हकदार हैं।
 Tom deserves that.	Tom hat das verdient.	टॉम इसके हकदार हैं।
 Tom deserves this.	Tom verdient das.	टॉम इसके हकदार हैं।
