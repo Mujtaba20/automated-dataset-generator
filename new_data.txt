@@ -7832,3 +7832,10 @@ We walked here.	Wir sind hier spazieren gegangen.	हम यहाँ चलत�
 We went skiing.	Wir sind Ski gefahren.	हम बर्फ पर स्की करने गए।
 We were robbed.	Wir wurden ausgeraubt.	हमले का शिकार हुए।
 We were scared.	Wir hatten Angst.	हम डरे हुए थे।
+We were wasted.	Wir waren verschwendet.	हम नष्ट थे।
+We'd like that.	Das würden wir mögen.	हमें वह पसंद होगा।
+We'll be happy.	Wir werden glücklich sein.	हम खुश होंगे।
+We'll be there.	Wir werden da sein.	हम वहाँ होंगे।
+We'll bury you.	Wir werden dich begraben.	हम तुम्हें दफन करेंगे।
+We'll call Tom.	Wir werden Tom anrufen.	हम टॉम को बुलाएंगे।
+We'll call you.	Wir werden dich anrufen.	हम तुम्हें कॉल करेंगे।
