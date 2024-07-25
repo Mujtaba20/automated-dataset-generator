@@ -13389,3 +13389,11 @@ No one says that.	Niemand sagt das.	किसी कहता नहीं।
 No one warned me.	Niemand hat mich gewarnt.	किसी ने मुझे चेतावनी नहीं दी।
 No one was alive.	Niemand war lebendig.	किसी भी जीवित नहीं था।
 No one was stung.	Niemand wurde gestochen.	किसी को काटा नहीं गया था।
+No one was there.	Niemand war da.	कोई नहीं था।
+No one will care.	Niemand wird sich kümmern.	किसी को फर्क नहीं पड़ेगा।
+No one will know.	Niemand wird es wissen.	कोई नहीं जानेगा।
+No one will talk.	Niemand wird reden.	कोई बात नहीं करेगा।
+No one's looking.	Niemand schaut.	कोई नहीं देख रहा है।
+No one's perfect.	Niemand ist perfekt.	कोई भी पूर्ण नहीं है।
+No pain, no gain!	Ohne Schmerz, kein Gewinn!	बिना दर्द के कोई लाभ नहीं है!
+No pain, no gain.	Ohne Schmerz, kein Nutzen.	बिना दर्द के कोई फायदा नहीं है।
