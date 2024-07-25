@@ -13011,3 +13011,13 @@ Is Tom conscious?	Ist Tom bei Bewusstsein?	क्या टॉम सचेत �
 Is Tom dangerous?	Ist Tom gefährlich?	क्या टॉम खतरनाक है?
 Is Tom delirious?	Ist Tom wirr?	क्या टॉम बावला है?
 Is Tom here, too?	Ist Tom auch hier?	क्या टॉम यहाँ भी है?
+Is Tom in Boston?	Ist Tom in Boston?	क्या टॉम बोस्टन में है?
+Is Tom intrigued?	Ist Tom fasziniert?	क्या टॉम को खींचने की आवश्यकता है?
+Is Tom mad at us?	Ist Tom wütend auf uns?	क्या टॉम हम पर नाराज़ है?
+Is Tom out there?	Ist Tom draußen?	क्या टॉम बाहर है?
+Is Tom reachable?	Ist Tom erreichbar?	क्या टॉम तक पहुँचा जा सकता है?
+Is Tom satisfied?	Ist Tom zufrieden?	क्या टॉम संतुष्ट है?
+Is Tom still mad?	Ist Tom immer noch sauer?	क्या टॉम अब भी गुस्सा है?
+Is Tom that good?	Ist Tom so gut?	क्या टॉम इतना अच्छा है?
+Is Tom with Mary?	Ist Tom mit Mary?	क्या टॉम मेरी के साथ है?
+Is Tom your name?	Ist Tom dein Name?	क्या टॉम तुम्हारा नाम है?
