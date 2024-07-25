@@ -15302,3 +15302,9 @@ Why is it so hot?	Warum ist es so heiß?	यह इतना गरम क्य
 Why is that good?	Warum ist das gut?	वह अच्छा क्यों है?
 Why is that here?	Warum ist das hier?	यहाँ वह क्यों है?
 Why should I lie?	Warum sollte ich lügen?	मुझे क्यों झूठ बोलना चाहिए?
+Why should I pay?	Warum sollte ich bezahlen?	मैं क्यों भुगतान करूँ?
+Why was I banned?	Warum wurde ich gesperrt?	मुझे प्रतिबंधित क्यों किया गया था?
+Why would he lie?	Warum würde er lügen?	वह क्यों झूठ बोलेगा?
+Why's Tom crying?	Warum weint Tom?	टॉम क्यों रो रहा है?
+Will you do that?	Wirst du das tun?	क्या तुम वह करोगे?
+Will you go, too?	Wirst du auch gehen?	क्या आप भी जाएंगे?
