@@ -5635,3 +5635,8 @@ Do as you want.	Tu, was du willst.	जैसा तुम चाहते हो
 Do as you want. (different meaning)	Mache, wie du willst.	आप जैसे चाहें वैसा करें।
 Do it now, Tom.	Mach es jetzt, Tom.	अब करो, टॉम।
 Do it this way.	Mach es auf diese Weise.	इस तरह से करो।
+Do it tomorrow.	Mach es morgen.	इसे कल करें।
+Do it your way.	Mach es auf deine Weise.	अपने तरीके से करें।
+Do it yourself.	Mach es selbst.	खुद करें।
+Do that for me.	Tu das für mich.	मेरे लिए वह करो।
+Do that for me. different meaning	Mach das für mich.	मेरे लिए वह करो। अलग मतलब
