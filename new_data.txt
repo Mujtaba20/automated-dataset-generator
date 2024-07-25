@@ -11308,3 +11308,11 @@ Why is Tom here?	Warum ist Tom hier?	टॉम यहाँ क्यों ह�
 Why is Tom home?	Warum ist Tom zu Hause?	टॉम घर पर क्यों है?
 Why is it there?	Warum ist es dort?	यहाँ क्यों है?
 Why is it there? (alternate meaning)	Warum steht es dort?	वहाँ क्यों है?
+Why is she here?	Warum ist sie hier?	वह यहाँ क्यों है?
+Why not ask Tom?	Warum fragst du nicht Tom?	तोम से क्यों नहीं पूछते?
+Will he recover?	Wird er sich erholen?	क्या वह ठीक होगा?
+Wolves scare me.	Wölfe erschrecken mich.	भेड़िया मुझे डरा देता है।
+Women love that.	Frauen lieben das.	औरतें उसे पसंद करती हैं।
+Write something.	Schreib etwas.	कुछ लिखो।
+Write that down.	Schreib das auf.	उसे नीचे लिख दो।
+You almost died.	Du bist fast gestorben.	तुम लगभग मर गए थे।
