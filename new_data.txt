@@ -11658,3 +11658,6 @@ Did Tom send you? - Different Meaning	Hat Tom Sie geschickt?	क्या टॉ
 engSentence	{'Did Tom tell you?': 'Hat Tom dir gesagt?', 'Did he touch you?': 'Hat er dich berührt?', 'Did she say that?': 'Hat sie das gesagt?', 'Did the dog bark?': 'Hat der Hund gebellt?', 'Did they say how?': 'Haben sie gesagt wie?', 'Did they say why?': 'Haben sie gesagt warum?', 'Did you break it?': 'Hast du es kaputt gemacht?'}	{'Did Tom tell you?': 'क्या टॉम ने आपको बताया?', 'Did he touch you?': 'क्या उसने तुम्हें स्पर्श किया?', 'Did she say that?': 'क्या उसने ऐसा कहा?', 'Did the dog bark?': 'क्या कुत्ता भौंका?', 'Did they say how?': 'क्या उन्होंने कैसे कहा?', 'Did they say why?': 'क्या उन्होंने क्यों कहा?', 'Did you break it?': 'क्या तुमने इसे तोड़ दिया?'}
 Did you bring it?	Hast du das gebracht?	क्या तुमने यह लाया है?
 Did you call Tom?	Hast du Tom angerufen?	क्या आपने टॉम को फोन किया?
+Did you enjoy it?	Hast du es genossen?	क्या आपने इसे मजा किया?
+Did you ever try?	Hast du es jemals versucht?	क्या आपने कभी कोशिश की है?
+Did you help Tom?	Hast du Tom geholfen?	क्या आपने टॉम की मदद की थी?
