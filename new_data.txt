@@ -995,3 +995,13 @@ I heard it.	Ich habe es gehört.	मैंने यह सुना।
 I help him.	Ich helfe ihm.	मैं उसकी मदद करता हूँ।
 I hope not.	Ich hoffe nicht.	उम्मीद नहीं।
 I just ate.	Ich habe gerade gegessen.	मैंने अभी खाया।
+I knew Tom.	Ich kannte Tom.	मुझे टॉम पता था।
+I know Tom.	Ich kenne Tom.	मुझे टॉम पता है।
+I know her.	Ich kenne sie.	मुझे उसे पता है।
+I know now.	Ich weiß jetzt.	मुझे अब पता है।
+I know you.	Ich kenne dich.	मुझे तुम्हें पता है।
+I like Tom.	Ich mag Tom.	मुझे टॉम पसंद है।
+I like art.	Ich mag Kunst.	मुझे कला पसंद है।
+I like him.	Ich mag ihn.	मुझे उसे पसंद है।
+I like tea.	Ich mag Tee.	मुझे चाय पसंद है।
+I like you.	Ich mag dich.	मुझे तुम्हारी पसंद है।
