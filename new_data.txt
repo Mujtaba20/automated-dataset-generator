@@ -5011,3 +5011,13 @@ Tom is a chef.	Tom ist ein Koch.	टॉम एक शेफ है।
 Tom is a cook.	Tom ist ein Koch.	टॉम एक खोरक है।
 Tom is a fool.	Tom ist ein Narr.	टॉम एक मूर्ख है।
 Tom is a hero.	Tom ist ein Held.	टॉम एक नायक है।
+Tom is a jock.	Tom ist ein Draufgänger.	टॉम एक जॉक है।
+Tom is a poet.	Tom ist ein Dichter.	टॉम कवि है।
+Tom is a slob.	Tom ist ein Chaot.	टॉम एक ढीला है।
+Tom is a temp.	Tom ist ein Zeitarbeiter.	टॉम एक अस्थायी कर्मचारी है।
+Tom is a wimp.	Tom ist ein Feigling.	टॉम एक कमजोर है।
+Tom is abroad.	Tom ist im Ausland.	टॉम विदेश में है।
+Tom is absent.	Tom fehlt.	टॉम अनुपस्थित है।
+Tom is afraid.	Tom hat Angst.	टॉम डर रहा है।
+Tom is asleep.	Tom schläft.	टॉम सो रहा है।
+Tom is better.	Tom ist besser.	टॉम बेहतर है।
