@@ -453,3 +453,13 @@ Calm down.	Entspann dich.	शांति बनाओ।
 Can I eat?	Kann ich essen?	क्या मैं खा सकता हूं?
 Can we go?	Können wir gehen?	हम चल सकते हैं क्या?
 Catch Tom.	Fang Tom.	टॉम को पकड़ो।
+Chill out.	Entspann dich.	धीरे हो जा।
+Come back.	Komm zurück.	वापस आओ।
+Come here.	Komm hierher.	यहाँ आओ।
+Come here. (Different meaning)	Hierher kommen.	यहाँ आकर देखो।
+Come home.	Komm nach Hause.	घर आ जाओ।
+Come home. (Different meaning)	Komm heim.	अपने घर आओ।
+Come over!	Komm rüber!	यहाँ आजा!
+Come over.	Komm vorbei.	आ जाओ।
+Come soon.	Komm bald.	जल्दी आना।
+Come soon. (Different meaning)	Komm zeitnah.	जल्दी आओ।
