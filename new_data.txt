@@ -19742,3 +19742,11 @@ What if I'm wrong?	Was ist, wenn ich falsch liege?	अगर मैं गलत
 What inspires you?	Was inspiriert dich?	आपको क्या प्रेरित करता है?
 What inspires you?_1	Was motiviert Sie?	आपको क्या प्रेरित करता है?
 What inspires you?_2	Was bewegt dich?	आपको क्या प्रेरित करता है?
+What is it called?	Wie heißt es?	इसे क्या कहते हैं?
+What is the price?	Was kostet es?	कीमत क्या है?
+What is the story?	Was ist die Geschichte?	कहानी क्या है?
+What is the truth?	Was ist die Wahrheit?	सच्चाई क्या है?
+What is your name?	Wie ist Ihr Name?	आपका नाम क्या है?
+What is your name? (different meaning)	Wie heißen Sie?	आप क्या कर रहे हैं?
+What should I buy?	Was soll ich kaufen?	मैं क्या खरीदूँ?
+What should I say?	Was soll ich sagen?	मैं क्या कहूँ?

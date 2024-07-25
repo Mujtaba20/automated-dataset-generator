@@ -1,14 +1,4 @@
 
-What is it called?	Wie nennt man das?	इसे कैसे कहा जाता है?
-What is the price?	Was ist der Preis?	कीमत क्या है?
-What is the story?	Was ist die Geschichte?	कहानी क्या है?
-What is the truth?	Was ist die Wahrheit?	सत्य क्या है?
-What is your name?	Wie heißen Sie?	तुम्हारा नाम क्या है?
-What is your name?	Wie ist Ihr Name?	तुम्हारा नाम क्या है?
-What is your name?	Wie heißt du?	तुम्हारा नाम क्या है?
-What is your name?	Wie ist dein Name?	आपका क्या नाम है?
-What should I buy?	Was soll ich kaufen?	मुझे क्या खरीदना चाहिए?
-What should I say?	Was soll ich sagen?	मुझे क्या कहना चाहिए?
 What stop is this?	Welche Haltestelle ist das?	कौन सा स्टॉप है?
 What was I saying?	Was habe ich gerade gesagt?	मैंने अभी क्या कहा?
 What was Tom like?	Wie war Tom so?	टॉम कैसा था?
