@@ -13861,3 +13861,11 @@ This car is mine.	Dieses Auto gehört mir.	यह गाड़ी मेरी �
 This didn't work.	Das hat nicht funktioniert.	यह काम नहीं किया।
 This has to stop.	Das muss aufhören.	यह बंद करना होगा।
 This hat is mine.	Dieser Hut gehört mir.	यह टोपी मेरी है।
+This is Room 839.	Es handelt sich um Zimmer 839.	यह कक्ष 839 है।
+This is a pencil.	Das ist ein Bleistift.	यह एक पेंसिल है।
+This is accurate.	Das ist genau.	यह सटीक है।
+This is an apple.	Das ist ein Apfel.	यह एक सेब है।
+This is an order.	Das ist ein Befehl.	यह एक आदेश है।
+This is critical.	Das ist entscheidend.	यह महत्वपूर्ण है।
+This is exciting.	Das ist aufregend.	यह रोमांचक है।
+This is from Tom.	Das ist von Tom.	यह टॉम से है।
