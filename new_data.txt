@@ -7904,3 +7904,13 @@ What a big dog!	Was für ein großer Hund!	वाह, कितना बड़�
 What a country!	Was für ein Land!	वाह, कैसा देश है!
 What a hot day!	Was für ein heißer Tag!	वाह, कितना गरम दिन है!
 What a thought!	Was für eine Idee!	वाह, क्या विचार है!
+What about Tom?	Was ist mit Tom?	टॉम के बारे में क्या है?
+What about you?	Was ist mit dir?	तुम्हारे बारे में क्या है?
+What are these?	Was sind diese?	ये क्या हैं?
+What are those?	Was sind jene?	वे क्या हैं?
+What can I eat?	Was kann ich essen?	मैं क्या खा सकता हूँ?
+What day is it?	Welcher Tag ist es?	आज कौन सा दिन है?
+What do I have?	Was habe ich?	मेरे पास क्या है?
+What do I know?	Was weiß ich?	मुझे क्या पता है?
+What do I need?	Was brauche ich?	मुझे क्या चाहिए?
+What do we owe?	Was schulden wir?	हमे किसके प्रति ऋण है?
