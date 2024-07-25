@@ -19130,3 +19130,13 @@ Tom seemed hungry.	Tom schien hungrig.	टॉम भूखा लग रहा �
 Tom seemed lonely.	Tom schien einsam.	टॉम अकेला लग रहा था।
 Tom seemed scared.	Tom schien erschrocken.	टॉम डरा हुआ लग रहा था।
 Tom seemed sleepy.	Tom schien müde.	टॉम सोने वाला था।
+Tom seemed stupid.	Tom schien dumm.	टॉम बेवकूफ लग रहा था।
+Tom seemed unsure.	Tom schien unsicher.	टॉम अनिश्चित लग रहा था।
+Tom seemed unsure. (different meaning)	Tom schien zweifelhaft.	टॉम संदेहपात लग रहा था।
+Tom seems annoyed.	Tom scheint verärgert zu sein.	टॉम परेशान लग रहा है।
+Tom seems anxious.	Tom scheint ängstlich zu sein.	टॉम उत्सुक लग रहा है।
+Tom seems anxious. (different meaning)	Tom scheint besorgt zu sein.	टॉम चिंतित लग रहा है।
+Tom seems anxious. (different meaning 2)	Tom wirkt nervös.	टॉम घबराया हुआ लग रहा है।
+Tom seems excited.	Tom scheint aufgeregt zu sein.	टॉम उत्साहित लग रहा है।
+Tom seems excited. (different meaning)	Tom wirkt begeistert.	टॉम उत्सुक लग रहा है।
+Tom seems jealous.	Tom scheint eifersüchtig zu sein.	टॉम जलन लग रहा है।

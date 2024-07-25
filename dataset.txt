@@ -1,14 +1,4 @@
 
-Tom seemed stupid.	Tom schien dumm zu sein.	टॉम बेवकूफ लग रहा था।
-Tom seemed unsure.	Tom schien unsicher.	टॉम असुरक्षित लग रहा था।
-Tom seemed unsure.	Tom schien unsicher zu sein.	टॉम असुरक्षित लग रहा था।
-Tom seems annoyed.	Tom scheint genervt zu sein.	टॉम नाराज लगता है।
-Tom seems anxious.	Tom scheint besorgt zu sein.	टॉम चिंतित लग रहा है।
-Tom seems anxious.	Tom scheint bestrebt zu sein.	टॉम प्रयास करने लगता है।
-Tom seems anxious.	Tom scheint ängstlich zu sein.	टॉम चिंतित लग रहा है।
-Tom seems excited.	Tom scheint aufgeregt zu sein.	टॉम उत्साहित लग रहा है।
-Tom seems excited.	Tom scheint begeistert zu sein.	टॉम उत्साही लगता है।
-Tom seems jealous.	Tom scheint eifersüchtig zu sein.	टॉम ईर्ष्यालु लगता है।
 Tom seems nervous.	Tom scheint nervös zu sein.	टॉम नर्वस लगता है।
 Tom seems pleased.	Tom scheint zufrieden zu sein.	टॉम संतुष्ट लगता है।
 Tom seems puzzled.	Tom scheint verdutzt zu sein.	टॉम हैरान हो रहा है।
