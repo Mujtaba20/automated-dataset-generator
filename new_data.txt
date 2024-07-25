@@ -6804,3 +6804,6 @@ Now you owe me.	Jetzt schuldest du mir.	अब तुम्हें मुझ�
 Only God knows.	Nur Gott weiß.	केवल भगवान जानते हैं।
 Only Tom knows.	Nur Tom weiß.	केवल टॉम जानता है।
 Open the doors.	Öffne die Türen.	दरवाजे खोलो।
+Open this door.	Öffnen Sie diese Tür.	इस दरवाजे को खोलो।
+Open your eyes.	Öffne deine Augen.	अपनी आंखें खोलो।
+Open your eyes.1	Mach deine Augen auf.	तुम्हारी आंखें खोलो।
