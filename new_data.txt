@@ -11585,3 +11585,11 @@ Can we tag along?	Können wir uns anschließen?	हमे साथ जा स�
 Can we talk here?	Können wir hier reden?	क्या हम यहाँ बात कर सकते हैं?
 Can we trust you?	Können wir dir vertrauen?	क्या हम तुम पर भरोसा कर सकते हैं?
 Can you call him?	Kannst du ihn anrufen?	क्या तुम उसे कॉल कर सकते हो?
+Can you continue?	Können Sie fortfahren?	क्या आप जारी रख सकते हैं?
+Can you eat this?	Kannst du das essen?	क्या आप इसे खा सकते हैं?
+Can you find her?	Kannst du sie finden?	क्या आप उसे ढूंढ सकते हैं?
+Can you find out?	Kannst du das herausfinden?	क्या तुम पता लगा सकते हो?
+Can you find out? - different meaning	Kannst du es herausfinden?	क्या आप इसे पता लगा सकते हैं?
+Can you prove it?	Kannst du es beweisen?	क्या आप इसे साबित कर सकते हैं?
+Can you run fast?	Kannst du schnell laufen?	क्या तुम तेज दौड़ सकते हो?
+Can you see that?	Kannst du das sehen?	क्या आप वह देख सकते हैं?
