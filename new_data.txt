@@ -7871,3 +7871,11 @@ We're horrible.	Wir sind furchtbar.	हम डरावना हैं।
 We're innocent.	Wir sind unschuldig.	हम निर्दोष हैं।
 We're managing.	Wir kommen zurecht.	हम परिचालन कर रहे हैं।
 We're not busy.	Wir sind nicht beschäftigt.	हम व्यस्त नहीं हैं।
+We're not free.	Wir sind nicht frei.	हम मुक्त नहीं हैं।
+We're not home.	Wir sind nicht zu Hause.	हम घर पर नहीं हैं।
+We're not lost.	Wir sind nicht verloren.	हम खो नहीं गए हैं।
+We're not poor.	Wir sind nicht arm.	हम गरीब नहीं हैं।
+We're not rich.	Wir sind nicht reich.	हम अमीर नहीं हैं।
+We're partners.	Wir sind Partner.	हम साथी हैं।
+We're powerful.	Wir sind stark.	हम शक्तिशाली हैं।
+We're reliable.	Wir sind verlässlich.	हम विश्वसनीय हैं।
