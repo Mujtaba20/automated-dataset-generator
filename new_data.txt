@@ -889,3 +889,11 @@ Eat slowly.	Langsam essen.	धीरे से खाओ।
 Examine it.	Untersuche es.	इसे जांचो।
 Fill it up.	Fülle es auf.	इसे भर दो।
 Find a job.	Finde einen Job.	नौकरी ढूंढो।
+Fire burns.	Feuer brennt.	आग जलती है।
+Follow Tom.	Folge Tom.	टॉम की पीछा करें।
+Follow him.	Folge ihm.	उसका पालन करें।
+Forget Tom.	Vergiss Tom.	टॉम को भूल जाओ।
+Forget him.	Vergiss ihn.	उसे भूल जाओ।
+Forgive us.	Vergebt uns.	हमें माफ कर दो।
+Get a life!	Hol dir ein Leben!	एक जीवन पाओ!
+Get a life.	Hole dir ein Leben.	जीवन पाओ।
