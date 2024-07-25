@@ -5687,3 +5687,8 @@ Don't obey him.	Gehorche ihm nicht.	उसकी आज्ञा मत मा�
 Don't run here.	Lauf hier nicht.	यहाँ मत दौड़ो।
 Don't say that.	Sag das nicht.	वैसा मत कहो।
 Don't show off.	Gib nicht an.	दिखावट मत करो।
+Don't stand up.	Nicht aufstehen.	न खड़े हों।
+Don't stop him.	Halten Sie ihn nicht auf.	उसे रोकना मत।
+Don't tell Tom.	Erzähl Tom nicht.	टॉम को मत बताओ।
+Don't tempt me.	Versuch mich nicht.	मुझे प्रलोभन मत दो।
+Don't touch it.	Berühre es nicht.	उसे छूने मत जाना।
