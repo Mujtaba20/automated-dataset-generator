@@ -4635,3 +4635,13 @@ Let him enter.	Lass ihn eintreten.	उसे दाखिल होने दो
 Let me try it.	Lass mich es versuchen.	मुझे यह करने दो।
 Let them talk.	Lass sie sprechen.	उन्हें बात करने दो।
 Let's ask him.	Fragen wir ihn.	उससे पूछताछ करें।
+Let's eat now.	Lass uns jetzt essen.	चलो अब खाते हैं।
+Let's eat out.	Lass uns ausgehen und essen.	चलो बाहर खाते हैं।
+Let's eat out.(2)	Lass uns draußen essen.	चलो बाहर खाना खाएँ।
+Let's go away.	Lass uns weggehen.	चलो चले जाएँ।
+Let's go back.	Lass uns zurückgehen.	चलो वापस चलें।
+Let's go home.	Lass uns nach Hause gehen.	चलो घर चलें।
+Let's keep it.	Lass es uns behalten.	इसे रखें।
+Let's move on.	Lass uns weitermachen.	चलो आगे बढ़ें।
+Let's open it.	Lass uns es öffnen.	इसे खोलें।
+Let's proceed.	Lass uns fortfahren.	आगे बढ़ें।
