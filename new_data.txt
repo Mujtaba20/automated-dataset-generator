@@ -11365,3 +11365,11 @@ You startled us.	Sie haben uns erschreckt.	तुमने हमें भय�
 You will listen.	Du wirst zuhören.	तुम सुनोगे।
 You work for me.	Du arbeitest für mich.	तुम मेरे लिए काम करते हो।
 You worked hard.	Du hast hart gearbeitet.	तुमने मेहनत की है।
+You'd better go.	Du solltest gehen.	तुम्हें अच्छा होगा अगर तुम चलो।
+You'll be great.	Du wirst großartig sein.	तुम महान होगे।
+You'll be happy.	Du wirst glücklich sein.	तुम खुश रहोगे।
+You'll be sorry!	Du wirst es bereuen!	तुम खेदगी होगे!
+You'll be sorry.	Du wirst es bedauern.	तुम खेदगी होगे।
+You'll be tired.	Du wirst müde sein.	तुम थक जाओगे।
+You'll do great.	Du wirst großartig sein.	आपका अच्छा होगा।
+You'll find out.	Du wirst es herausfinden.	तुम्हें पता चलेगा।
