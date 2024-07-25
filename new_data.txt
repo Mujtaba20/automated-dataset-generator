@@ -11923,3 +11923,12 @@ He broke the law.	Er brach das Gesetz.	उसने कानून तोड़
 He can read well.	Er kann gut lesen.	वह अच्छी तरह से पढ़ सकता है।
 He can swim fast.	Er kann schnell schwimmen.	वह तेजी से तैर सकता है।
 He can swim well.	Er kann gut schwimmen.	वह अच्छी तरह से तैर सकता है।
+He can't do that.	Er kann das nicht tun.	वह ऐसा नहीं कर सकता।
+He can't read it.	Er kann es nicht lesen.	वह इसे नहीं पढ़ सकता।
+He can't whistle.	Er kann nicht pfeifen.	वह सीटी नहीं बजा सकता।
+He caught a cold.	Er hat sich erkältet.	उसने ठंडा लगा लिया।
+He cheated on me.	Er hat mich hintergangen.	उसने मेरे साथ धोखा किया।
+He comes at noon.	Er kommt um die Mittagszeit.	वह दोपहर में आता है।
+He deserves more.	Er verdient mehr.	उसे अधिक मिलना चाहिए।
+He died recently.	Er ist kürzlich gestorben.	उसने हाल ही में मर गया।
+He died suddenly.	Er ist plötzlich gestorben.	उसकी मौत अचानक हो गई।
