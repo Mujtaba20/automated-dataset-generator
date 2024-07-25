@@ -3952,3 +3952,11 @@ He's addicted.	Er ist süchtig.	वह लत लगे हैं।
 He's after me.	Er ist hinter mir her.	वह मेरे पीछे है।
 He's annoying.	Er ist ärgerlich.	वह चिढ़ानेवाला है।
 He's autistic.	Er ist autistisch.	उसमें स्वाभाविकता है।
+He's friendly.	Er ist freundlich.	वह मित्रशील है।
+He's in Tokyo.	Er ist in Tokio.	वह टोक्यो में है।
+He's innocent.	Er ist unschuldig.	वह मासूम है।
+He's no saint.	Er ist kein Heiliger.	वह कोई संत नहीं है।
+He's not home.	Er ist nicht zu Hause.	वह घर पर नहीं है।
+He's not sick.	Er ist nicht krank.	वह बीमार नहीं है।
+He's studying.	Er studiert.	वह पढ़ाई कर रहा है।
+He's very ill.	Er ist sehr krank.	वह बहुत बीमार है।
