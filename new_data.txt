@@ -12661,3 +12661,13 @@ I see your house.	Ich sehe dein Haus.	मैं तुम्हारा घर 
 I sell computers.	Ich verkaufe Computer.	मैं कम्प्यूटर बेचता हूँ।
 I shaved my head.	Ich rasierte meinen Kopf.	मैंने अपने सिर को मुंडवाया।
 I shaved my head. - Alternative translation	Ich habe meinen Kopf rasiert.	मैंने अपने सिर की बाल कटवाए।
+I shot the horse.	Ich habe das Pferd angeschossen.	मैंने घोड़े को गोली मारी।
+I should be fine.	Mir sollte es gut gehen.	मुझे ठीक होना चाहिए।
+I should go home.	Ich sollte nach Hause gehen.	मुझे घर जाना चाहिए।
+I sleep upstairs.	Ich schlafe oben.	मैं ऊपर सोता हूँ।
+I slept too much.	Ich habe zu viel geschlafen.	मैंने बहुत ज्यादा सो लिया।
+I spent too much.	Ich habe zu viel ausgegeben.	मैंने बहुत ज्यादा खर्च किया।
+I started to cry.	Ich fing an zu weinen.	मैं रोने लगा।
+I stayed at home.	Ich blieb zu Hause.	मैं घर पर रहा।
+I still love you.	Ich liebe dich immer noch.	मैं आज भी तुमसे प्यार करता हूँ।
+I swim every day.	Ich schwimme jeden Tag.	मैं हर दिन तैराकी करता हूँ।
