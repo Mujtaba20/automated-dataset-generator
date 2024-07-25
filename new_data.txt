@@ -11645,3 +11645,13 @@ Did Tom find you?-1	Hast du Tom gefunden?	क्या तुमने टॉम
 Did Tom go alone?	Ist Tom alleine gegangen?	क्या टॉम अकेले गया था?
 Did Tom hit Mary?	Hat Tom Mary geschlagen?	क्या टॉमने मेरी को मारा?
 Did Tom hurt you?	Hat Tom dir wehgetan?	क्या टॉमने तुम्हें चोट पहुंचाई?
+Did Tom kiss you?	Hat Tom dich geküsst?	क्या टॉमने तुम्हें चूमा?
+Did Tom kiss you? - Different Meaning	Hat Tom Sie geküsst?	क्या टॉमने आपको चूमा?
+Did Tom kiss you? - Another Different Meaning	Hat Tom euch geküsst?	क्या टॉमने तुम्हें चूमा?
+Did Tom pay, too?	Hat Tom auch bezahlt?	क्या टॉमने भी भुगतान किया?
+Did Tom push you?	Hat Tom dich geschubst?	क्या टॉमने तुम्हें धक्का दिया?
+Did Tom say that?	Hat Tom das gesagt?	क्या टॉमने वह कहा?
+Did Tom see that?	Hat Tom das gesehen?	क्या टॉमने वह देखा?
+Did Tom see this?	Hat Tom dies gesehen?	क्या टॉमने यह देखा?
+Did Tom send you?	Hat Tom dich geschickt?	क्या टॉमने तुम्हें भेजा?
+Did Tom send you? - Different Meaning	Hat Tom Sie geschickt?	क्या टॉमने आपको भेजा?
