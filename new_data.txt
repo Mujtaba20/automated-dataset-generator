@@ -10647,3 +10647,11 @@ Tom made me cry.	Tom hat mich zum Weinen gebracht.	टॉम ने मुझे
 Tom may be here.	Tom ist vielleicht hier.	टॉम शायद यहाँ हो सकता है।
 Tom may be home.	Tom ist vielleicht zu Hause.	टॉम शायद घर पर हो सकता है।
 Tom may be weak.	Tom ist vielleicht schwach.	टॉम शायद कमजोर हो सकता है।
+Tom may do that.	Tom darf das tun.	टॉम कर सकता है।
+Tom may testify.	Tom darf aussagen.	टॉम साक्षात्कार दे सकता है।
+Tom might faint.	Tom könnte in Ohnmacht fallen.	टॉम बेहोश हो सकता है।
+Tom missed Mary.	Tom hat Mary verpasst.	टॉम ने मेरी को छोड़ दिया।
+Tom must be out.	Tom muss draußen sein.	टॉम का बाहर जाना आवश्यक है।
+Tom must decide.	Tom muss entscheiden.	टॉम को निर्णय लेना चाहिए।
+Tom must've won.	Tom muss gewonnen haben.	टॉम ने जीत ली होगी।
+Tom nearly died.	Tom wäre fast gestorben.	टॉम लगभग मर गया था।
