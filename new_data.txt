@@ -4908,3 +4908,13 @@ They're great.	Sie sind großartig.	वे बहुत बढ़िया ह�
 They're green.	Sie sind grün.	वे हरी हैं।
 They're happy.	Sie sind glücklich.	वे खुश हैं।
 They're quiet.	Sie sind ruhig.	वे शांत हैं।
+They're ready.	Sie sind bereit.	वे तैयार हैं।
+They're right.	Sie haben Recht.	वे सही हैं।
+They're right. (alternate meaning)	Sie sind richtig.	वे सही हैं।
+They're small.	Sie sind klein.	वे छोटे हैं।
+They're spies.	Sie sind Spione.	वे जासूस हैं।
+They're there.	Sie sind hier.	वे वहाँ हैं।
+They're tired.	Sie sind müde.	वे थके हुए हैं।
+They're upset.	Sie sind verärgert.	उनका दिल टूट गया है।
+They're wrong.	Sie liegen falsch.	वे गलत हैं।
+They're wrong. (alternate meaning)	Sie sind falsch.	वे गलत हैं।
