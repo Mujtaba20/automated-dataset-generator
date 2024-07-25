@@ -10245,3 +10245,13 @@ Tom fell silent.	Tom schwieg.	टॉम चुप हो गया।
 Tom felt better.	Tom fühlte sich besser.	टॉम को बेहतर महसूस हुआ।
 Tom felt guilty.	Tom fühlte sich schuldig.	टॉम को अपराधी महसूस हुआ।
 Tom felt hungry.	Tom fühlte sich hungrig.	टॉम भूखा महसूस कर रहा था।
+Tom felt lonely.	Tom fühlte sich einsam.	टॉम को अकेला महसूस हुआ।
+Tom felt sleepy.	Tom fühlte sich schläfrig.	टॉम को नींद आ रही थी।
+Tom felt strong.	Tom fühlte sich stark.	टॉम को माजबूती महसूस हुई।
+Tom felt uneasy.	Tom fühlte sich unwohl.	टॉम को बेचैनी महसूस हो रही थी।
+Tom felt uneasy. (different meaning)	Tom fühlte sich nervös.	टॉम को अशांत महसूस हुआ।
+Tom fired first.	Tom schoss zuerst.	टॉम ने पहला गोल चलाया।
+Tom followed me.	Tom folgte mir.	टॉम ने मुझे फॉलो किया।
+Tom followed us.	Tom folgte uns.	टॉम ने हमें फॉलो किया।
+Tom fooled Mary.	Tom hat Mary reingelegt.	टॉम ने मेरी को धोखा दिया।
+Tom fooled Mary. (different meaning)	Tom hat Mary ausgetrickst.	टॉम ने मेरी को चकमा दिया।
