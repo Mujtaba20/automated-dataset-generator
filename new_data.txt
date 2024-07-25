@@ -9055,3 +9055,13 @@ I voted for Tom.	Ich habe für Tom gestimmt.	मैंने टॉम के �
 I voted for you.	Ich habe für dich gestimmt.	मैंने तुम्हारे लिए वोट दिया।
 I wake up early.	Ich wache früh auf.	मैं जल्दी उठता हूँ।
 I walked my dog.	Ich bin mit meinem Hund spazieren gegangen.	मैंने अपने कुत्ते के साथ सैर की।
+I want Tom here.	Ich möchte, dass Tom hier ist.	मुझे चाहिए कि टॉम यहाँ हो।
+I want a family.	Ich möchte eine Familie.	मुझे एक परिवार चाहिए।
+I want a friend.	Ich möchte einen Freund.	मुझे एक दोस्त चाहिए।
+I want a guitar.	Ich möchte eine Gitarre.	मुझे एक गिटार चाहिए।
+I want a lawyer.	Ich möchte einen Anwalt.	मुझे एक वकील चाहिए।
+I want a refund.	Ich möchte eine Rückerstattung.	मुझे वापसी चाहिए।
+I want an apple.	Ich möchte einen Apfel.	मुझे एक सेब चाहिए।
+I want my mommy.	Ich möchte meine Mama.	मुझे मेरी माँ चाहिए।
+I want my money.	Ich möchte mein Geld.	मुझे मेरे पैसे चाहिएं।
+I want one, too.	Ich möchte auch eins.	मैं भी एक चाहता हूँ।
