@@ -1,15 +1,4 @@
 
-They arrested Tom.	Sie haben Tom verhaftet.	आपने टॉम को गिरफ्तार किया।
-They arrested her.	Sie nahmen sie fest.	उन्होंने उन्हें गिरफ्तार कर लिया।
-They arrested him.	Sie nahmen ihn fest.	उन्होंने उसे गिरफ्तार कर लिया।
-They believed Tom.	Sie haben Tom geglaubt.	आप टॉम को मानते थे।
-They believed Tom.	Sie glaubten Tom.	वे टॉम को मानते थे।
-They betrayed Tom.	Sie haben Tom verraten.	आपने टॉम को धोखा दिया है।
-They betrayed Tom.	Sie haben Tom betrogen.	आपने टॉम को धोखा दिया।
-They betrayed you.	Sie haben dich verraten.	आपने आपको प्रकट किया।
-They betrayed you.	Die haben Sie verraten.	उन्होंने उनका खुलासा किया।
-They both blushed.	Alle beide erröteten.	उन सभी को शरमा गया।
-They both blushed.	Sie wurden beide rot.	वे दोनों लाल हो गए।
 They both laughed.	Sie lachten beide.	वे दोनों हँसे।
 They call him Tom.	Man nennt ihn Tom.	उन्हें टॉम कहा जाता है।
 They can't get in.	Sie können nicht hinein.	आप अंदर नहीं जा सकते।

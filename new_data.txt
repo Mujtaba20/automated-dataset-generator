@@ -18112,3 +18112,12 @@ They aren't alone.	Sie sind nicht allein.	वे अकेले नहीं �
 They aren't happy.	Sie sind nicht glücklich.	वे खुश नहीं हैं।
 They aren't there.	Sie sind nicht dort.	वे वहां नहीं हैं।
 They aren't twins.	Sie sind keine Zwillinge.	वे जुड़वां नहीं हैं।
+They arrested Tom.	Sie haben Tom verhaftet.	उन्होने टॉम को गिरफ्तार किया।
+They arrested her.	Sie haben sie verhaftet.	उन्होने उसे गिरफ्तार किया।
+They arrested him.	Sie haben ihn verhaftet.	उन्होने उसे गिरफ्तार किया।
+They believed Tom.	Sie glaubten Tom.	उन्होंने टॉम पर विश्वास किया।
+They believed Tom. (different meaning)	Sie glaubten an Tom.	उन्होंने टॉम पर विश्वास किया।
+They betrayed Tom.	Sie haben Tom betrogen.	उन्होंने टॉम को धोखा दिया।
+They betrayed Tom. (different meaning)	Sie haben Tom verraten.	उन्होंने टॉम का साथ छोड़ दिया।
+They betrayed you.	Sie haben dich betrogen.	उन्होंने तुम्हारा धोखा दिया।
+They both blushed.	Sie erröteten beide.	उन दोनों की शर्मिंदगी दिखी।
