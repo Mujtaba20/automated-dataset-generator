@@ -9361,3 +9361,10 @@ I'm your father.	Ich bin dein Vater.	मैं तुम्हारा पि�
 I'm your waiter.	Ich bin ihr Kellner.	मैं आपका वेटर हूँ।
 I've been fired.	Ich wurde gefeuert.	मुझे नौकरी से निकाल दिया गया है।
 I've been wrong.	Ich habe Unrecht gehabt.	मैं गलत था।
+I've cut myself.	Ich habe mich geschnitten.	मैंने अपने आप को काट लिया है।
+I've enjoyed it.	Ich habe es genossen.	मुझे यह पसंद आया।
+I've got a boat.	Ich habe ein Boot.	मेरे पास एक नाव है।
+I've got a book.	Ich habe ein Buch.	मेरे पास एक किताब है।
+I've got a list.	Ich habe eine Liste.	मेरे पास सूची है।
+I've got a plan.	Ich habe einen Plan.	मेरे पास एक योजना है।
+I've had enough.	Ich bin satt.	मुझे पेट भर गया है।
