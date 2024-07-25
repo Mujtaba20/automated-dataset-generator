@@ -12269,3 +12269,9 @@ I caught the flu.	Ich habe die Grippe bekommen.	मुझे फ्लू हो
 I closed my door.	Ich habe meine Tür geschlossen.	मैंने अपना दरवाजा बंद कर दिया।
 I collect comics.	Ich sammle Comics.	मैं कॉमिक्स एकत्र करता हूँ।
 I confronted Tom.	Ich habe Tom konfrontiert.	मैंने टॉम से सामना किया।
+I considered Tom.	Ich habe Tom berücksichtigt.	मैंने टॉम का विचार किया।
+I cooked for Tom.	Ich habe für Tom gekocht.	मैंने टॉम के लिए खाना पकाया।
+I could be wrong.	Ich könnte mich irren.	मैं गलत हो सकता हूँ।
+I could help Tom.	Ich könnte Tom helfen.	मैं टॉम की मदद कर सकता था।
+I could kiss you.	Ich würde dich vielleicht küssen.	मैं शायद तुम्हें चुमू।
+I could see that.	Ich könnte das sehen.	मैं वह देख सकता था।
