@@ -15119,3 +15119,8 @@ Were you at work?	Warst du bei der Arbeit?	क्या तुम काम प�
 Were you excited?	Warst du aufgeregt?	क्या तुम उत्साहित थे?
 Were you invited?	Wurdest du eingeladen?	क्या तुम्हें आमंत्रित किया गया था?
 Were you invited? (Different meaning)	Wurdest du gebeten?	क्या तुम्हें निमंत्रण दिया गया था? (विभिन्न अर्थ)
+Were you jealous?	Hast du Eifersucht empfunden?	क्या तुमने जलना महसूस किया?
+Were you nervous?	Waren Sie nervös?	क्या आप उत्तेजित थे?
+Were you serious?	Warst du ernst?	क्या तुम गंभीर थे?
+Were you shot at?	Wurdest du angeschossen?	क्या तुम गोली मार खाई थी?
+Were you unlucky?	Hast du Pech gehabt?	क्या तुमने बदकिस्मती पाई?
