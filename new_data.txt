@@ -8103,3 +8103,7 @@ You're winning.	Sie gewinnen.	आप जीत रहे हैं।
 You're worried.	Du bist besorgt.	आप चिंतित हैं।
 You're wounded.	Du wurdest verletzt.	तुम घायल हो।
 You've changed.	Du hast dich verändert.	तुमने बदल दिया है।
+You've done it!	Du hast es vollbracht!	तुमने यह कर लिया है!
+You've hurt me.	Sie haben mich verletzt.	तुमने मुझे दुःख पहुँचाया है।
+Your time's up.	Deine Zeit ist abgelaufen.	तुम्हारा समय समाप्त हो गया है।
+Yours is worse.	Dein ist schlimmer.	तुम्हारा बुरा है।
