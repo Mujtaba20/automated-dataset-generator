@@ -14016,3 +14016,11 @@ Tom doesn't care.	Tom kümmert sich nicht.	टॉम को परवाह न�
 Tom doesn't know.	Tom weiß es nicht.	टॉम को पता नहीं है।
 Tom doesn't mind.	Tom hat nichts dagegen.	टॉम को कोई बात नहीं है।
 Tom doesn't play.	Tom spielt nicht.	टॉम नहीं खेलता।
+Tom doesn't read.	Tom liest nicht.	टॉम पढ़ता नहीं है।
+Tom doesn't sing.	Tom singt nicht.	टॉम गाना नहीं गाता।
+Tom doesn't swim.	Tom schwimmt nicht.	टॉम तैरने नहीं जाता।
+Tom doesn't talk.	Tom spricht nicht.	टॉम बात नहीं करता।
+Tom drank a beer.	Tom trank ein Bier.	टॉम ने एक बीयर पी।
+Tom dressed well.	Tom hat sich gut angezogen.	टॉम ने अच्छे ढंग से पहना।
+Tom dresses well.	Tom kleidet sich gut.	टॉम अच्छे कपड़े पहनता है।
+Tom drinks water.	Tom trinkt Wasser.	टॉम पानी पीता है।
