@@ -1,14 +1,4 @@
 
-Tom has gone AWOL.	Tom fehlt unentschuldigt.	टॉम में अस्पष्ट कमी है।
-Tom has gone home.	Tom ist nach Hause gegangen.	टॉम घर गया।
-Tom has got to go.	Tom muss gehen.	टॉम को जाना है।
-Tom has gray hair.	Tom hat graues Haar.	टॉम के ग्रे बाल हैं।
-Tom has hay fever.	Tom hat Heuschnupfen.	टॉम को घास का बुखार है।
-Tom has heartburn.	Tom hat Sodbrennen.	टॉम को नाराज़गी है।
-Tom has his moods.	Tom hat so seine Launen.	टॉम का मूड है।
-Tom has just left.	Tom ist gerade gegangen.	टॉम अभी छोड़ दिया है।
-Tom has left town.	Tom hat die Stadt verlassen.	टॉम ने शहर छोड़ दिया।
-Tom has long arms.	Tom hat lange Arme.	टॉम के पास लंबे हथियार हैं।
 Tom has long hair.	Tom hat lange Haare.	टॉम के लंबे बाल हैं।
 Tom has long legs.	Tom hat lange Beine.	टॉम के लंबे पैर हैं।
 Tom has lost face.	Tom hat sein Gesicht verloren.	टॉम ने अपना चेहरा खो दिया है।

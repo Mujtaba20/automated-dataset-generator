@@ -18527,3 +18527,13 @@ Tom has dark skin.	Tom hat dunkle Haut.	टॉम की त्वचा गह�
 Tom has done that.	Tom hat das getan.	टॉम ने वह किया है।
 Tom has done this.	Tom hat das gemacht.	टॉमने यह किया है।
 Tom has flat feet.	Tom hat flache Füße.	टॉम के सीधे पैर हैं।
+Tom has gone AWOL.	Tom ist unauffindbar.	टॉम गायब हो गया है।
+Tom has gone home.	Tom ist nach Hause gegangen.	टॉम घर चला गया है।
+Tom has got to go.	Tom muss gehen.	टॉम को जाना है।
+Tom has gray hair.	Tom hat graue Haare.	टॉम के बाल सफेद हैं।
+Tom has hay fever.	Tom hat Heuschnupfen.	टॉम को हे बुखार है।
+Tom has heartburn.	Tom hat Sodbrennen.	टॉम को दिल की जलन है।
+Tom has his moods.	Tom hat seine Launen.	टॉम के मुड हैं।
+Tom has just left.	Tom ist gerade gegangen.	टॉम अभी अभी चला गया है।
+Tom has left town.	Tom hat die Stadt verlassen.	टॉम ने शहर छोड़ दिया है।
+Tom has long arms.	Tom hat lange Arme.	टॉम के लम्बे हाथ हैं।
