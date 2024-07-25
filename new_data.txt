@@ -2159,3 +2159,10 @@ Tom relaxed.	Tom war relaxt.	टॉम धीरे से लैट गया�
 Tom replied.	Tom erwiderte.	टॉम ने प्रतिदिवान किया।
 Tom said no.	Tom sagte nein.	टॉम ने कहा नहीं।
 Tom saw her.	Tom sah sie.	टॉम ने उसे देखा।
+Tom saw him.	Tom sah ihn.	टॉम ने उसे पहचाना।
+Tom saw you.	Tom sah dich.	टॉम ने आपको देखा।
+Tom sent me.	Tom hat mich geschickt.	टॉम ने मुझे भेजा।
+Tom shot me.	Tom hat mich erschossen.	टॉम ने मुझपर गोली चलाई।
+Tom shouted.	Tom schrie.	टॉम चिल्लाया।
+Tom slipped.	Tom ist ausgerutscht.	टॉम स्लिप हो गया।
+Tom sneezed.	Tom hat geniest.	टॉम चिह्मा आया।
