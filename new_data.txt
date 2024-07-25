@@ -3036,3 +3036,7 @@ Just go away.	Geh einfach weg.	बस चले जाओ।
 Keep driving.	Weiterfahren.	गाड़ी चलाते रहो।
 Keep focused.	Bleib konzentriert.	ध्यान रखें।
 Keep it warm.	Halte es warm.	इसे गर्म रखो।
+Keep looking.	Weiter suchen.	खोजते रहो।
+Keep reading.	Weiter lesen.	पढ़ते रहो।
+Keep running.	Weiter laufen.	दौड़ते रहो।
+Keep singing.	Weiter singen.	गाते रहो।
