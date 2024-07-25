@@ -6129,3 +6129,12 @@ I like to talk.	Ich rede gerne.	मुझे बात करना पसंद
 I like to walk.	Ich gehe gerne spazieren.	मुझे चलना पसंद है।
 I like to walk. - Different Meaning	Ich mag es zu gehen.	मुझे चलने का मन है।
 I like to work.	Ich arbeite gerne.	मुझे काम करना पसंद है।
+I like turtles.	Ich mag Schildkröten.	मुझे कछुए पसंद हैं।
+I like walking.	Ich gehe gerne spazieren.	मुझे चलना पसंद है।
+I like working.	Ich arbeite gerne.	मुझे काम करना पसंद है।
+I like writing.	Ich schreibe gerne.	मुझे लिखना पसंद है।
+I lost the bet.	Ich verlor die Wette.	मैंने दांव हार दिया।
+I love Harvard.	Ich liebe Harvard.	मुझे हार्वर्ड पसंद है।
+I love almonds.	Ich liebe Mandeln.	मुझे बादाम पसंद हैं।
+I love animals.	Ich liebe Tiere.	मुझे जानवरों से प्यार है।
+I love bananas.	Ich liebe Bananen.	मुझे केले पसंद हैं।
