@@ -2463,3 +2463,13 @@ Count to ten.	Zähle bis zehn.	दस तक गिनो।
 Cut that out!	Schneide das aus!	वह काट दो!
 Describe Tom.	Beschreibe Tom.	टॉम का वर्णन करें।
 Did Tom come?	Ist Tom gekommen?	क्या टॉम आया था?
+Did Tom fall?	Ist Tom gefallen?	क्या टॉम गिरा?
+Did Tom help?	Hat Tom geholfen?	क्या टॉम ने मदद की?
+Did Tom know?	Wusste Tom?	क्या टॉम को पता था?
+Did Tom mind?	Hat Tom etwas dagegen?	क्या टॉम को चला?
+Did Tom pray?	Hat Tom gebetet?	क्या टॉम ने प्रार्थना की?
+Did Tom sing?	Hat Tom gesungen?	क्या टॉम गाया?
+Did Tom stay?	Ist Tom geblieben?	क्या टॉम रुका?
+Did Tom swim?	Ist Tom geschwommen?	क्या टॉम तैरा?
+Did Tom vote?	Hat Tom gewählt?	क्या टॉम ने वोट दिया?
+Did you call?	Hast du angerufen?	क्या तुमने कॉल किया?
