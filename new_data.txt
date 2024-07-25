@@ -9851,3 +9851,10 @@ Show them to me.	Zeig sie mir.	मुझे उन्हें दिखाओ�
 Show us the way.	Zeig uns den Weg.	हमें रास्ता दिखाओ।
 Show your cards.	Zeig deine Karten.	अपने कार्ड दिखाओ।
 Shut up and eat.	Sei still und iss.	चुपचाप और खाओ।
+Shut your mouth.	Schließe deinen Mund.	अपना मुँह बंद करो।
+Silk feels soft.	Seide fühlt sich weich an.	सिल्क नरम महसूस होता है।
+Sit up straight.	Setz dich gerade hin.	सीधे बैठिए।
+So far, so good.	Bisher so gut.	अब तक अच्छा है।
+Somebody called.	Jemand rief an.	किसी ने बुलाया।
+Someone coughed.	Jemand hat gehustet.	किसी ने खांसी की।
+Sorry, I forgot.	Entschuldigung, ich habe vergessen.	माफ़ कीजिए, मैं भूल गया।
