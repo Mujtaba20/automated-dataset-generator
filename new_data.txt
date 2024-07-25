@@ -17372,3 +17372,11 @@ It's a great idea.	Es ist eine großartige Idee.	यह एक शानदा�
 It's a long story.	Es ist eine lange Geschichte.	यह एक लम्बी कहानी है।
 It's a lovely day.	Es ist ein schöner Tag.	यह एक प्यारा दिन है।
 It's a beautiful day.	Es ist ein schöner Tag.	यह एक सुंदर दिन है।
+It's a nice party.	Es ist eine schöne Party.	यह एक अच्छी पार्टी है।
+It's a short walk.	Es ist ein kurzer Spaziergang.	यह एक छोटे से सफर है।
+It's a stupid law.	Es ist ein dummer Gesetz.	यह एक मूर्ख विधि है।
+It's a true story.	Es ist eine wahre Geschichte.	यह एक सच्ची कहानी है।
+It's all I've got.	Es ist alles, was ich habe.	यही मेरे पास है।
+It's all nonsense.	Es ist alles Unsinn.	यह सब बकवास है।
+It's all over now.	Es ist jetzt alles vorbei.	अब यह सब खत्म हो गया है।
+It's all the rage.	Es ist total angesagt.	यह सभी के बीच बहुत प्रसिद्ध है।

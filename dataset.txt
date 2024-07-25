@@ -1,14 +1,4 @@
 
-It's a nice party.	Das ist eine nette Feier.	यह एक अच्छा उत्सव है।
-It's a nice party.	Das ist eine nette Fete.	यह एक अच्छी पार्टी है।
-It's a nice party.	Es ist eine nette Party.	यह एक अच्छी पार्टी है।
-It's a short walk.	Man ist zu Fuß gleich da.	आप वहां पैदल हैं।
-It's a stupid law.	Das ist ein blödes Gesetz.	यह एक बेवकूफ कानून है।
-It's a true story.	Das ist eine wahre Geschichte.	यह एक वास्तविक कहानी है।
-It's all I've got.	Das ist alles, was ich habe.	मेरे पास यही है।
-It's all nonsense.	Es ist alles Quatsch.	यह सब बकवास है।
-It's all over now.	Jetzt ist alles aus!	अब सब कुछ खत्म हो गया है!
-It's all the rage.	Es ist der letzte Schrei.	यह आखिरी रो है।
 It's almost ready.	Es ist fast fertig.	यह लगभग हो गया है।
 It's already dark.	Es ist schon dunkel.	यह पहले से ही अंधेरा है।
 It's already late.	Es ist spät.	उसे देर हो गई है.
