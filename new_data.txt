@@ -2656,3 +2656,10 @@ I do want it.	Ich will es.	मुझे चाहिए।
 I don't care.	Mir egal.	मुझे कोई परवाह नहीं।
 I don't cuss.	Ich fluche nicht.	मैं गाली नहीं देता।
 I don't know.	Ich weiß nicht.	मुझे नहीं पता।
+I don't mind.	Das macht nichts aus.	मुझे परवाह नहीं है।
+I don't read.	Ich lese nicht.	मैं पढ़ाई नहीं करता।
+I don't sing.	Ich singe nicht.	मैं गाना नहीं गाता।
+I drank milk.	Ich trank Milch.	मैंने दूध पिया।
+I drink beer.	Ich trinke Bier.	मैं बीयर पीता हूँ।
+I drink milk.	Ich trinke Milch.	मैं दूध पीता हूँ।
+I drink wine.	Ich trinke Wein.	मैं शराब पीता हूँ।
