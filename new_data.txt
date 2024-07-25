@@ -13200,3 +13200,13 @@ It's not a trick.	Es ist kein Trick.	यह कोई चाल नहीं ह
 It's not a watch.	Es ist keine Uhr.	यह घड़ी नहीं है।
 It's not for you.	Es ist nicht für dich.	यह तुम्हारे लिए नहीं है।
 It's not from me.	Es ist nicht von mir.	यह मेरे द्वारा नहीं है।
+It's not illegal.	Es ist nicht illegal.	यह गैरकानूनी नहीं है।
+It's not logical.	Es ist nicht logisch.	यह तार्किक नहीं है।
+It's not serious.	Es ist nicht ernst.	यह गंभीर नहीं है।
+It's not too hot.	Es ist nicht zu heiß.	यह ज्यादा गरम नहीं है।
+It's not working.	Es funktioniert nicht.	यह काम नहीं कर रहा है।
+It's now my turn.	Jetzt bin ich dran.	अब मेरा क्रम है।
+It's on the sofa.	Es ist auf dem Sofa.	सोफे पर है।
+It's one of mine.	Es ist eines meiner.	यह मेरे में से एक है।
+It's only Monday.	Es ist erst Montag.	यह सिर्फ सोमवार है।
+It's pitch black.	Es ist stockdunkel.	यह बिल्कुल काला है।
