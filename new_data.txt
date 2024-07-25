@@ -2488,3 +2488,12 @@ Do you drink?	Trinkst du?	क्या आप पीते हैं?
 Do you smoke?	Rauchst du?	क्या आप सिगरेट पीते हैं?
 Do you teach?	Unterrichtest du?	क्या आप पढ़ाते हैं?
 Do your best!	Gib dein Bestes!	अपनी सर्वश्रेष्ठ कोशिश करो!
+Do your best.	Gib dein Bestes.	अपनी सबसे अच्छी कोशिश करो।
+Do your best. (different meaning)	Arbeite auf Hochtouren.	आपकी सबसे अच्छी कोशिश करें।
+Do your duty.	Tue deine Pflicht.	अपना कर्तव्य पालन करो।
+Does it hurt?	Tut es weh?	यह दर्द करता है क्या?
+Does it show?	Zeigt es?	क्या यह दिखता है?
+Does it work?	Funktioniert es?	क्या यह काम करता है?
+Does it work? (different meaning)	Ist es wirksam?	क्या यह प्रभावी है?
+Don't ask me.	Frag mich nicht.	मुझसे मत पूछो।
+Don't be sad.	Sei nicht traurig.	उदास ना हो।
