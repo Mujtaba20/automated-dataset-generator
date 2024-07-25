@@ -11476,3 +11476,13 @@ Am I hurting you?	Tue ich dir weh?	क्या मैं तुम्हें 
 Am I in your way?	Bin ich dir im Weg?	क्या मैं तुम्हारे रास्ते में हूँ?
 Answer the phone.	Nimm das Telefon ab.	फ़ोन उठाओ।
 Any book will do.	Jedes Buch wird tun.	कोई भी किताब चलेगी।
+Anybody knows it.	Jemand weiß es.	किसी को पता है।
+Anybody knows it. - 2nd meaning	Irgendjemand kennt es.	कोई भी इसे जानता है।
+Anyone can do it.	Jeder kann es tun.	कोई भी इसे कर सकता है।
+Anything will do.	Alles wird tun.	कुछ भी करेगा।
+Apologize to Tom.	Entschuldige dich bei Tom.	टॉम से माफी मांगो।
+Are dragons real?	Gibt es Drachen?	क्या ड्रैगन्स असली हैं?
+Are they friends? - 1st meaning	Sind sie Freunde?	क्या वे दोस्त हैं?
+Are they friends? - 2nd meaning	Sind sie Bekanntschaft?	क्या वे दोस्त हैं?
+Are they in love?	Sind sie verliebt?	क्या वे प्यार में हैं?
+Are they sisters?	Sind sie Schwestern?	क्या वे बहन हैं?
