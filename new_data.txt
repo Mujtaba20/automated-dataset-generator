@@ -5397,3 +5397,11 @@ Where was Tom?	Wo war Tom?	टॉम कहाँ था?
 Which is mine?	Welches ist meins?	मेरा कौनसा है?
 Who asked you?	Wer hat dich gefragt?	तुमसे किसने पूछा?
 Who called me?	Wer hat mich angerufen?	मुझे किसने कॉल किया?
+Who disagreed?	Wer hat widersprochen?	किसने असहमति जाहिर की?
+Who does that?	Wer macht das?	यह कौन करता है?
+Who found Tom?	Wer hat Tom gefunden?	किसको टॉम मिल गया?
+Who found her?	Wer hat sie gefunden?	किसने उसको ढूंढा?
+Who found him?	Wer hat ihn gefunden?	किसने उसे ढूंढा?
+Who found you?	Wer hat dich gefunden?	तुम्हें किसने ढूंढा?
+Who helps her?	Wer hilft ihr?	किसने उसकी मदद की?
+Who hired you?	Wer hat dich eingestellt?	किसने तुम्हें नियुक्त किया?
