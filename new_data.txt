@@ -10457,3 +10457,13 @@ Tom is pleasant.	Tom ist angenehm.	टॉम सुहावना है।
 Tom is positive.	Tom ist positiv.	टॉम सकारात्मक है।
 Tom is powerful.	Tom ist mächtig.	टॉम शक्तिशाली है।
 Tom is prepared.	Tom ist vorbereitet.	टॉम तैयार है।
+Tom is punctual.	Tom ist pünktlich.	टॉम समय पर आता है।
+Tom is quitting.	Tom hört auf.	टॉम छोड़ रहा है।
+Tom is rational.	Tom ist vernünftig.	टॉम तर्कसंगत है।
+Tom is reckless.	Tom ist leichtsinnig.	टॉम बेपरवाह है।
+Tom is reformed.	Tom ist reformiert.	टॉम सुधारा हुआ है।
+Tom is reliable.	Tom ist zuverlässig.	टॉम विश्वसनीय है।
+Tom is relieved.	Tom ist erleichtert.	टॉम को आराम मिला है।
+Tom is reserved.	Tom ist zurückhaltend.	टॉम अंतर्द्वन्द्वी है।
+Tom is resolute.	Tom ist entschlossen.	टॉम दृढ़ निश्चय वाला है।
+Tom is restless.	Tom ist ruhelos.	टॉम बेचैन है।
