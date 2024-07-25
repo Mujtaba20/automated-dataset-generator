@@ -18415,3 +18415,12 @@ Tom didn't buy it.	Tom hat es nicht gekauft.	टॉम ने यह नही�
 Tom didn't flinch.	Tom zuckte nicht zusammen.	टॉम ने क्लिंच नहीं किया।
 Tom didn't follow.	Tom ist nicht gefolgt.	टॉम ने अनुसरण नहीं किया।
 Tom didn't listen.	Tom hat nicht zugehört.	टॉम ने सुना नहीं।
+Tom didn't object.	Tom hat nicht widersprochen.	टॉम विरोध नहीं किया।
+Tom didn't resist.	Tom hat nicht widerstanden.	टॉम विरोध नहीं किया।
+Tom didn't return.	Tom ist nicht zurückgekehrt.	टॉम वापस नहीं आया।
+Tom didn't scream.	Tom hat nicht geschrien.	टॉम चिल्लाया नहीं।
+Tom didn't see it.	Tom hat es nicht gesehen.	टॉम ने उसे नहीं देखा।
+Tom didn't see me.	Tom hat mich nicht gesehen.	टॉम ने मुझे नहीं देखा।
+Tom didn't suffer.	Tom hat nicht gelitten.	टॉम कोई पीड़ा नहीं हुई।
+Tom died a beggar.	Tom starb als Bettler.	टॉम एक भिखारी के रूप में मर गया।
+Tom died a pauper.	Tom starb als armer Mann.	टॉम एक दरिद्र महिला के रूप में मर गया।

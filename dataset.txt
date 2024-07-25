@@ -1,14 +1,4 @@
 
-Tom didn't object.	Tom hatte keine Einwände.	टॉम को कोई आपत्ति नहीं थी।
-Tom didn't resist.	Tom leistete keinen Widerstand.	टॉम ने विरोध नहीं किया।
-Tom didn't return.	Tom kehrte nicht zurück.	टॉम नहीं लौटा।
-Tom didn't scream.	Tom schrie nicht.	टॉम ने चिल्लाया नहीं।
-Tom didn't scream.	Tom hat nicht geschrien.	टॉम ने चिल्लाया नहीं।
-Tom didn't see it.	Tom hat es nicht gesehen.	टॉम ने इसे नहीं देखा।
-Tom didn't see me.	Tom hat mich nicht gesehen.	टॉम ने मुझे नहीं देखा।
-Tom didn't suffer.	Tom hat nicht gelitten.	टॉम को पीड़ित नहीं हुआ।
-Tom died a beggar.	Tom starb als Bettler.	टॉम की भिखारी के रूप में मृत्यु हो गई।
-Tom died a pauper.	Tom ist arm gestorben.	टॉम गरीब मर गया।
 Tom died recently.	Tom ist kürzlich gestorben.	टॉम की हाल ही में मृत्यु हो गई।
 Tom died suddenly.	Tom ist plötzlich gestorben.	टॉम अचानक मर गए।
 Tom divorced Mary.	Tom ließ sich von Mary scheiden.	टॉम ने मैरी को तलाक दे दिया।
