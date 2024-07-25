@@ -2096,3 +2096,9 @@ Tom grinned.	Tom lächelte.	टॉम मुस्कुराया।
 Tom groaned.	Tom ächzte.	टॉम कराहा।
 Tom had fun.	Tom hatte Spaß.	टॉम का मजा आया।
 Tom has OCD.	Tom hat Zwangsstörungen.	टॉम के पास ओसीडी है।
+Tom hurt me.	Tom hat mich verletzt.	टॉम ने मुझे चोट पहुचाई।
+Tom inhaled.	Tom hat eingeatmet.	टॉम ने सांस ली।
+Tom is a DJ.	Tom ist ein DJ.	टॉम एक डीजे है।
+Tom is back.	Tom ist zurück.	टॉम वापस आ गया है।
+Tom is bald.	Tom ist kahl.	टॉम गंजा है।
+Tom is busy.	Tom ist beschäftigt.	टॉम व्यस्त है।
