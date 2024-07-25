@@ -13883,3 +13883,13 @@ This is not true.	Das ist nicht wahr.	यह सच नहीं है।
 This is old news.	Das sind alte Neuigkeiten.	ये पुरानी खबरें हैं।
 This is our home.	Das ist unser Zuhause.	यह हमारा घर है।
 This is pathetic.	Das ist armselig.	यह दयनीय है।
+This is sabotage.	Das ist Sabotage.	यह सबोटाज है।
+This is terrible.	Das ist schrecklich.	यह भयानक है।
+This is the case.	Das ist der Fall.	यह मामला है।
+This is too long.	Das ist zu lang.	यह बहुत लंबी है।
+This is too much.	Das ist zu viel.	यह बहुत अधिक है।
+This is very bad.	Das ist sehr schlecht.	यह बहुत बुरा है।
+This is very big.	Das ist sehr groß.	यह बहुत बड़ा है।
+This is your dog.	Das ist dein Hund.	यह तुम्हारा कुत्ता है।
+This is your cat.	Das ist deine Katze.	यह तुम्हारी बिल्ली है।
+This is your house.	Das ist dein Haus.	यह तुम्हारा घर है।
