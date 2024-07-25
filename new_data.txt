@@ -19648,3 +19648,10 @@ We're not arguing.	Wir streiten nicht.	हम झगड़ा नहीं क�
 We're not enemies.	Wir sind keine Feinde.	हम दुश्मन नहीं हैं।
 We're not killers.	Wir sind keine Mörder.	हम हत्यारे नहीं हैं।
 We're not looking.	Wir schauen nicht.	हम नहीं देख रहे हैं।
+We're not married.	Wir sind nicht verheiratet.	हम शादीशुदा नहीं हैं।
+We're not welcome.	Wir sind nicht willkommen.	हम स्वागत नहीं हैं।
+We're out of beer.	Uns geht das Bier aus.	हमारे पास बीयर खत्म हो गई है।
+We're out of milk.	Uns geht die Milch aus.	हमारे पास दूध खत्म हो गया है।
+We're out of soap.	Uns geht die Seife aus.	हमारे पास साबुन खत्म हो गया है।
+We're out of time.	Uns fehlt die Zeit.	हमारे पास समय नहीं है।
+We're out of wine.	Uns geht der Wein aus.	हमारे पास शराब खत्म हो गई है।

@@ -1,14 +1,4 @@
 
-We're not married.	Wir sind nicht verheiratet.	हम शादी नहीं कर रहे हैं।
-We're not welcome.	Wir sind nicht gern gesehen.	हमारा स्वागत नहीं है।
-We're out of beer.	Wir haben kein Bier mehr.	हमारे पास अब बीयर नहीं है।
-We're out of milk.	Wir haben keine Milch mehr.	हम दूध से बाहर भाग गए।
-We're out of milk.	Uns ist die Milch ausgegangen.	हम दूध से बाहर भाग गए।
-We're out of soap.	Wir haben keine Seife mehr.	हमारे पास कोई और साबुन नहीं है।
-We're out of time.	Wir haben keine Zeit mehr.	हमारे पास और समय नहीं है।
-We're out of time.	Unsere Zeit ist abgelaufen.	हमारा समय समाप्त हो गया है।
-We're out of wine.	Wir haben keinen Wein mehr.	हमारे पास अब शराब नहीं है।
-We're out of wine.	Uns ist der Wein ausgegangen.	हम शराब से बाहर भाग गए।
 We're persevering.	Wir sind beharrlich.	हम लगातार हैं।
 We're persevering.	Wir sind ausdauernd.	हम लगातार हैं।
 We're poor people.	Wir sind arme Leute.	हम गरीब लोग हैं।
