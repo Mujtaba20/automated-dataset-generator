@@ -8615,3 +8615,11 @@ How is everyone?	Wie geht es allen?	सभी कैसे हैं?
 How is it going?	Wie läuft es?	सब कुछ कैसा चल रहा है?
 How is your dad?	Wie geht es deinem Vater?	तुम्हारे पापा कैसे हैं?
 How kind of you!	Wie nett von dir!	तुम्हारा कितना उदार व्यवहार!
+How much was it?	Wie viel hat es gekostet?	यह कितना पड़ा?
+How old are you?	Wie alt bist du?	तुम कितने साल के हो?
+How rich is Tom?	Wie reich ist Tom?	टॉम कितना धनवान है?
+How sick is Tom?	Wie krank ist Tom?	टॉम कितना बीमार है?
+How silly of me!	Wie dumm von mir!	मैं कितना मुर्ख हुआ!
+How small is it?	Wie klein ist es?	यह कितना छोटा है?
+How unfortunate!	Wie unglücklich!	यह दुर्भाग्यपूर्ण है!
+How will it end?	Wie wird es enden?	यह कैसे समाप्त होगा?
