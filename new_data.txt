@@ -1744,3 +1744,12 @@ I will stay.	Ich werde bleiben.	मैं रहूंगा।
 I will wait.	Ich werde warten.	मैं इंतजार करूँगा।
 I will walk.	Ich werde laufen.	मैं चलूंगा।
 I won again.	Ich habe wieder gewonnen.	मैंने फिर जीत ली।
+I won't die.	Ich werde nicht sterben.	मैं मरने वाला नहीं हूँ।
+I work here.	Ich arbeite hier.	मैं यहाँ काम करता हूँ।
+I'd ask Tom.	Ich würde Tom fragen.	मैं टॉम से पूछता।
+I'll attend.	Ich werde teilnehmen.	मैं भाग लेने वाला हूँ।
+I'll attend. - Different meaning	Ich werde anwesend sein.	मैं उपस्थित होऊँगा।
+I'll buy it.	Ich werde es kaufen.	मैं इसे खरीदूँगा।
+I'll cancel.	Ich werde stornieren.	मैं रद्द कर दूँगा।
+I'll cancel. - Different meaning	Ich werde absagen.	मैं निरस्त कर दूँगा।
+I'll decide.	Ich werde entscheiden.	मैं फैसला करूँगा।
