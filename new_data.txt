@@ -18264,3 +18264,12 @@ This is new to me.	Das ist neu für mich.	यह मेरे लिए नय�
 This is not funny.	Das ist nicht lustig.	यह मजाकिय है नहीं।
 This is not funny. Duplicate	Das ist nicht witzig.	यह मजाक किया है नहीं।
 This is our house.	Das ist unser Haus.	यह हमारा घर है।
+This is pointless.	Das ist sinnlos.	यह बेमतलब है।
+This is priceless.	Das ist unbezahlbar.	यह बहुमूल्य है।
+This is so boring.	Das ist so langweilig.	यह इतना उबाऊ है।
+This is spaghetti.	Das ist Spaghetti.	यह स्पैगेटी है।
+This is too short.	Das ist zu kurz.	यह बहुत छोटी है।
+This is too small.	Das ist zu klein.	यह बहुत छोटा है।
+This is very easy.	Das ist sehr einfach.	यह बहुत आसान है।
+This is very good.	Das ist sehr gut.	यह बहुत अच्छा है।
+This is your book.	Das ist dein Buch.	यह तुम्हारी किताब है।

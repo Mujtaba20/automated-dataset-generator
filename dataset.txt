@@ -1,14 +1,4 @@
 
-This is pointless.	Das ist sinnlos.	यह निराधार है।
-This is priceless.	Das ist unbezahlbar.	यह अनमोल है।
-This is so boring.	Das ist so langweilig.	ये बहुत उबाऊ है।
-This is spaghetti.	Das sind Spaghetti.	ये स्पेगेटी हैं।
-This is too short.	Das ist zu kurz.	यह बहुत छोटा है.
-This is too small.	Das ist zu klein.	यह बहुत छोटा है।
-This is very easy.	Das ist sehr leicht.	यह बहुत आसान है।
-This is very easy.	Das ist sehr einfach.	यह बहुत आसान है।
-This is very good.	Das ist sehr gut.	वह बहुत अच्छा है।
-This is your book.	Das ist dein Buch.	यह आपकी किताब है।
 This is your fate.	Das ist dein Schicksal.	यह आपका भाग्य है।
 This is your fate.	Das ist Ihr Schicksal.	वह उसकी किस्मत है।
 This is your fate.	Das ist euer Schicksal.	यह आपका भाग्य है।
