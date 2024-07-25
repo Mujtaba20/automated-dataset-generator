@@ -8151,3 +8151,9 @@ Are you healthy?	Bist du gesund?	क्या तुम स्वस्थ ह�
 Are you in love?	Bist du verliebt?	क्या तुम प्यार में हो?
 Are you in pain?	Hast du Schmerzen?	क्या तुमे दर्द है?
 Are you injured?	Bist du verletzt?	क्या तुम चोटिल हो?
+Are you jealous?	Seid ihr eifersüchtig?	क्या आप जलने लगे हैं?
+Are you kidding?	Bist du ernst?	क्या तुम सरिया सोच रहे हो?
+Are you looking?	Schau mal nach?	क्या तुम देख रहे हो?
+Are you married?	Seid ihr verheiratet?	क्या आप विवाहित हैं?
+Are you nervous?	Bist du nervös?	क्या तुम घबराए हुए हो?
+Are you over 18?	Bist du über 18?	क्या आप 18 से अधिक हो?
