@@ -11784,3 +11784,9 @@ Don't make noise.	Mach keinen Lärm.	शोर मत मचाओ।
 Don't make noise. #2	Ruhe bitte.	शोर मत करो।
 Don't mention it.	Keine Ursache.	इसे मत बताओ।
 Don't play games.	Keine Spielchen.	खेल मत खेलो।
+Don't rip me off!	Rip mich nicht ab!	मुझे छीनना नहीं!
+Don't say a word.	Sag kein Wort.	एक शब्द भी मत कहो।
+Don't smoke here.	Rauche hier nicht.	यहाँ धूम्रपान न करें।
+Don't talk to me!	Sprich nicht mit mir!	मेरे साथ बात मत करो!
+Don't talk to me.	Rede nicht mit mir.	मेरे साथ बात न करो।
+Don't tell on me.	Verpetz mich nicht.	मेरे बारे में किसी को मत बताओ।
