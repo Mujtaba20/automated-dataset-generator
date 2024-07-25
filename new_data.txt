@@ -4669,3 +4669,12 @@ Mary is weird.	Maria ist komisch.	मेरी अजीब है।
 Mary shrieked.	Maria kreischte.	मेरी चिल्लाई।
 May I ask why?	Darf ich fragen, wieso?	क्या मैं पूछ सकता हूं की क्यों?
 May I come in?	Darf ich eintreten?	क्या मैं अंदर आ सकता हूँ?
+May I go home?	Darf ich nach Hause gehen?	क्या मैं घर जा सकता हूँ?
+Meat's scarce.	Fleisch ist knapp.	मांस कम है।
+Memorize this.	Merken Sie sich das.	इसे याद करो।
+Men never cry.	Männer weinen nie.	आदमी कभी नहीं रोते।
+Mine is black.	Meins ist schwarz.	मेरा काला है।
+Mine is black. (Different meaning)	Meine ist schwarz.	मेरी काली है।
+Mom's at work.	Mama ist auf der Arbeit.	माँ काम पर हैं।
+Motion denied.	Antrag abgelehnt.	आवेदन अस्वीकृत।
+My back hurts.	Mein Rücken schmerzt.	मेरी पीठ दर्द कर रही है।
