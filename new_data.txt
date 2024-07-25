@@ -17909,3 +17909,13 @@ That makes me cry.	Das lässt mich weinen.	वह मुझे रोने प�
 That makes me sad.	Das macht mich traurig.	उससे मुझे उदासी हो रही है।
 That movie stinks!	Dieser Film stinkt!	वह फिल्म बहुत गंदी है!
 That really hurts.	Das tut wirklich weh.	वह सचमुच दर्द देता है।
+That seat is free.	Dieser Sitz ist frei.	वह सीट खाली है।
+That should do it.	Das sollte es tun.	वह कर देना चाहिए।
+That should do it. (Alternate meaning)	Das wird ausreichen.	यह काम कर देगा।
+That sounded good.	Das hörte sich gut an.	वह अच्छा सुनाई दिया।
+That sounds great.	Das klingt großartig.	वह बहुत बढ़िया लग रहा है।
+That sounds great. (Alternate meaning)	Das scheint toll zu sein.	वह बहुत अच्छा लगता है।
+That sounds right.	Das klingt richtig.	वह सही सुनाई देता है।
+That sounds scary.	Das klingt beängstigend.	वह डराने वाला लगता है।
+That surprises me.	Das überrascht mich.	वह मुझे हैरान कर देता है।
+That too may help.	Das könnte auch helfen.	वह भी मदद कर सकता है।
