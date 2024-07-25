@@ -15471,3 +15471,10 @@ You've grown fat.	Du bist dick geworden.	तुम मोटे हो गए �
 You've upset Tom.	Du hast Tom verärgert.	तुमने टॉम को उदास कर दिया है।
 Your car is fast.	Dein Auto ist schnell.	तुम्हारी कार तेज है।
 Your dog is here.	Dein Hund ist hier.	तुम्हारा कुत्ता यहाँ है।
+Your face is red.	Dein Gesicht ist rot.	तुम्हारी खाली है।
+Your fly is open!	Dein Reißverschluss ist offen!	तुम्हारी उड़ान खुली है!
+Your fly is open.	Dein Hosenstall ist offen.	तुम्हारी मक्खी खुली है।
+Your mom is cool.	Deine Mutter ist cool.	तुम्हारी माँ ठंडी है।
+Your mom is here.	Deine Mutter ist hier.	तुम्हारी ममिता यहाँ है।
+Your plan failed.	Dein Plan ist fehlgeschlagen.	तुम्हारी योजना विफल हो गई।
+Yours was better.	Deiner war besser.	तुम्हारे वेल्स कमाल थे।
