@@ -14958,3 +14958,11 @@ We don't want it.	Wir wollen es nicht.	हमें यह चाहिए न�
 We feel very bad.	Wir fühlen uns sehr schlecht.	हमें बहुत बुरा लग रहा है।
 We found it here.	Wir haben es hier gefunden.	हमने यहाँ पाया है।
 We gave our word.	Wir haben unser word gegeben.	हमने अपना वादा दिया।
+We got separated.	Wir haben uns getrennt.	हम अलग हो गए।
+We had breakfast.	Wir nahmen das Frühstück ein.	हमने सुबह का नाश्ता किया।
+We had no choice.	Wir hatten keine Wahl.	हमारे पास कोई विकल्प नहीं था।
+We hate violence.	Wir hassen Gewalt.	हम हिंसा से नफरत करते हैं।
+We have a theory.	Wir haben eine Theorie.	हमारे पास एक सिद्धांत है।
+We have no money.	Wir haben kein Geld.	हमारे पास पैसे नहीं हैं।
+We have no proof.	Wir haben keinen Nachweis.	हमारे पास कोई सबूत नहीं है।
+We have no sugar.	Wir haben keinen Zucker.	हमारे पास चीनी नहीं है।
