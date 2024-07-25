@@ -18779,3 +18779,11 @@ Tom is undressing.	Tom zieht sich aus.	टॉम कपड़े उतार �
 Tom is unemployed.	Tom ist arbeitslos.	टॉम बेरोज़गार है।
 Tom is unfaithful.	Tom ist untreu.	टॉम विश्वासघाती है।
 Tom is unfriendly.	Tom ist unfreundlich.	टॉम अमित्र्वपूर्ण है।
+Tom is unmerciful.	Tom ist unbarmherzig.	टॉम क्रूर है।
+Tom is unpleasant.	Tom ist unangenehm.	टॉम अप्रिय है।
+Tom is unprepared.	Tom ist unvorbereitet.	टॉम तैयार नहीं है।
+Tom is unreliable.	Tom ist unzuverlässig.	टॉम अविश्वसनीय है।
+Tom is unsociable.	Tom ist ungesellig.	टॉम अपसंगज है।
+Tom is untalented.	Tom ist untalentiert.	टॉम अकुशल है।
+Tom is very angry.	Tom ist sehr wütend.	टॉम बहुत गुस्से में है।
+Tom is very bored.	Tom ist sehr gelangweilt.	टॉम बहुत उबाऊ है।

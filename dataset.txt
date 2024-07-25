@@ -1,15 +1,4 @@
 
-Tom is unmerciful.	Tom ist unbarmherzig.	टॉम अथक है।
-Tom is unpleasant.	Tom ist unangenehm.	टॉम असहज है।
-Tom is unprepared.	Tom ist unvorbereitet.	टॉम अप्रस्तुत है।
-Tom is unreliable.	Tom ist unzuverlässig.	टॉम अविश्वसनीय है।
-Tom is unsociable.	Tom ist ungesellig.	टॉम अनसोल है।
-Tom is untalented.	Tom ist untalentiert.	टॉम अपरिचित है।
-Tom is untalented.	Tom ist unbegabt.	टॉम असभ्य है।
-Tom is untalented.	Tom hat kein Talent.	टॉम के पास कोई प्रतिभा नहीं है।
-Tom is very angry.	Tom ist sehr wütend.	टॉम बहुत गुस्से में है।
-Tom is very bored.	Tom langweilte sich schrecklich.	टॉम बहुत ऊब गया।
-Tom is very bored.	Tom ist sehr gelangweilt.	टॉम बहुत ऊब गया है।
 Tom is very bossy.	Tom ist sehr rechthaberisch.	टॉम बहुत वैध है।
 Tom is very brave.	Tom ist sehr tapfer.	टॉम बहुत बहादुर है।
 Tom is very frank.	Tom ist sehr offenherzig.	टॉम बहुत खुला है।
