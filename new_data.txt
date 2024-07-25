@@ -1923,3 +1923,10 @@ Let's begin.	Lass uns beginnen.	चलो शुरू करते हैं।
 Let's start.	Lass uns starten.	चलो शुरू करते हैं।
 Let's commence.	Lass uns anfangen.	चलो शुरू करते हैं।
 Let's kick off.	Lass uns beginnen.	चलो शुरू करते हैं।
+Let's check.	Lass uns überprüfen.	चलो जांच करते हैं।
+Let's dance.	Lass uns tanzen.	चलो नृत्य करें।
+Let's do it!	Lasst uns das tun!	चलो यह करें!
+Let's go up.	Lass uns hochgehen.	चलो ऊपर जाएं।
+Let's relax.	Entspannen wir uns.	चलो आराम करें।
+Let's split.	Teilen wir auf.	चलो विभाजित करें।
+Let's start!	Beginnen wir!	चलो प्रारंभ करें!
