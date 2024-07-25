@@ -4825,3 +4825,9 @@ Take my horse.	Nimm mein Pferd.	मेरा घोड़ा ले जाओ।
 Take only one.	Nur eine nehmen.	केवल एक चुराना।
 Tastes differ.	Geschmäcker sind verschieden.	रुचियाँ अलग होती हैं।
 engSentence	{'Tell Tom that.': 'Sag Tom das.', 'Thanks anyway.': 'Trotzdem vielen Dank.', "That can't be.": 'Das kann nicht sein.', "That isn't it.": 'Das ist es nicht.', "That one's OK.": 'Das ist in Ordnung.', "That one's OK. (Different meaning)": 'Das ist akzeptabel.'}	{'Tell Tom that.': 'बताओ टॉम को.', 'Thanks anyway.': 'धन्यवाद फिर भी।', "That can't be.": 'वह हो नहीं सकता।', "That isn't it.": 'यह वह नहीं है।', "That one's OK.": 'वह ठीक है।', "That one's OK. (Different meaning)": 'यह ठीक है।'}
+That was easy.	Das war einfach.	यह आसान था।
+That was fast.	Das ging schnell.	वह तेज था।
+That was loud.	Das war laut.	वह जोर से बोला।
+That was mean.	Das war gemein.	वह निर्मम था।
+That was ours.	Das gehörte uns.	वह हमारा था।
+That'd be fun.	Das könnte lustig sein.	यह मजाक का बात होगा।
