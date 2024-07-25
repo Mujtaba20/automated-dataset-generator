@@ -2153,3 +2153,9 @@ Tom noticed.	Tom bemerkte.	टॉम ने ध्यान दिया।
 Tom paid me.	Tom zahlte mir.	टॉम ने मुझे भुगतान किया।
 Tom painted.	Tom malte.	टॉम ने रंग भरा।
 Tom prepaid.	Tom zahlte im Voraus.	टॉम प्रीपेड किया।
+Tom ran off.	Tom lief davon.	टॉम चला गया।
+Tom refused.	Tom hat abgelehnt.	टॉम ने इनकार किया।
+Tom relaxed.	Tom war relaxt.	टॉम धीरे से लैट गया।
+Tom replied.	Tom erwiderte.	टॉम ने प्रतिदिवान किया।
+Tom said no.	Tom sagte nein.	टॉम ने कहा नहीं।
+Tom saw her.	Tom sah sie.	टॉम ने उसे देखा।
