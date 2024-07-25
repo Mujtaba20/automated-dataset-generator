@@ -2010,3 +2010,8 @@ Surprise me.	Überrasche mich.	मुझे हैरान करो।
 Surprise me. (Different meaning)	Mach mich überraschen.	मेरा चकित करो।
 Surprise me. (Different meaning 2)	Lass mich überrascht sein.	मुझे अचंभित करो।
 Take a bath.	Nimm ein Bad.	स्नान करो।
+Take a bite.	Ein Stück essen.	एक टुकड़ा खाना।
+Take a card.	Nehmen Sie eine Karte.	एक कार्ड लें।
+Take a look.	Schau mal.	देखो।
+Take a seat.	Nimm Platz.	सीट पर बैठो।
+Take a walk.	Geh spazieren.	सैर पर जाओ।
