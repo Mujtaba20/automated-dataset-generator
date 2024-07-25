@@ -5119,3 +5119,11 @@ Tom shot Mary.	Tom hat auf Mary geschossen.	टॉम ने मैरी पर
 Tom staggered.	Tom taumelte.	टॉम डगमगाया।
 Tom succeeded.	Tom hatte Erfolg.	टॉम सफल रहा।
 Tom taught me.	Tom hat mich unterrichtet.	टॉम ने मुझे सिखाया।
+Tom texted me.	Tom hat mir eine SMS geschrieben.	टॉम ने मुझे मैसेज किया।
+Tom told Mary.	Tom hat Maria gesagt.	टॉम ने मेरी को बताया।
+Tom trusts me.	Tom vertraut mir.	टॉम मुझपर भरोसा करता है।
+Tom trusts us.	Tom vertraut uns.	टॉम हम पर भरोसा करता है।
+Tom wanted it.	Tom wollte es.	टॉम चाहता था।
+Tom wants one.	Tom will eins.	टॉम एक चाहता है।
+Tom wants you.	Tom will dich.	टॉम तुम्हें चाहता है।
+Tom warned us.	Tom hat uns gewarnt.	टॉम ने हमें चेतावनी दी।
