@@ -1,14 +1,4 @@
 
-Tom has long hair.	Tom hat lange Haare.	टॉम के लंबे बाल हैं।
-Tom has long legs.	Tom hat lange Beine.	टॉम के लंबे पैर हैं।
-Tom has lost face.	Tom hat sein Gesicht verloren.	टॉम ने अपना चेहरा खो दिया है।
-Tom has many cats.	Tom hat viele Katzen.	टॉम में कई बिल्लियाँ हैं।
-Tom has many toys.	Tom hat viele Spielsachen.	टॉम के कई खिलौने हैं।
-Tom has no choice.	Tom hat keine andere Wahl.	टॉम के पास कोई और विकल्प नहीं है।
-Tom has no excuse.	Tom hat keine Entschuldigung.	टॉम का कोई बहाना नहीं है।
-Tom has potential.	Tom hat Potenzial.	टॉम में क्षमता है।
-Tom has recovered.	Tom hat sich wieder erholt.	टॉम ठीक हो गया है।
-Tom has recovered.	Tom hat sich erholt.	टॉम ठीक हो गया है।
 Tom has remarried.	Tom hat wieder geheiratet.	टॉम ने फिर से शादी कर ली।
 Tom has to be hot.	Tom muss es heiß sein.	टॉम गर्म होना चाहिए।
 Tom has to go now.	Tom muss jetzt gehen.	टॉम को अब जाना है।

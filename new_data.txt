@@ -18537,3 +18537,12 @@ Tom has his moods.	Tom hat seine Launen.	टॉम के मुड हैं।
 Tom has just left.	Tom ist gerade gegangen.	टॉम अभी अभी चला गया है।
 Tom has left town.	Tom hat die Stadt verlassen.	टॉम ने शहर छोड़ दिया है।
 Tom has long arms.	Tom hat lange Arme.	टॉम के लम्बे हाथ हैं।
+Tom has long hair.	Tom hat lange Haare.	टॉम के बाल लम्बे हैं।
+Tom has long legs.	Tom hat lange Beine.	टॉम की लम्बी टांगें हैं।
+Tom has lost face.	Tom hat sein Gesicht verloren.	टॉम ने अपना चेहरा खो दिया है।
+Tom has many cats.	Tom hat viele Katzen.	टॉम के पास कई बिल्लियाँ हैं।
+Tom has many toys.	Tom hat viele Spielzeuge.	टॉम के पास कई खिलौने हैं।
+Tom has no choice.	Tom hat keine Wahl.	टॉम के पास कोई विकल्प नहीं है।
+Tom has no excuse.	Tom hat keine Ausrede.	टॉम के पास कोई बहाना नहीं है।
+Tom has potential.	Tom hat Potential.	टॉम में क्षमता है।
+Tom has recovered.	Tom hat sich erholt.	टॉम ठीक हो गया है।
