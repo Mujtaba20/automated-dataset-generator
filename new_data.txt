@@ -4219,3 +4219,12 @@ I put it back.	Ich lege es zurück.	मैंने इसे वापस र�
 I quite agree.	Ich stimme vollkommen zu.	मैं पूरी तरह से सहमत हूँ।
 I ran outside.	Ich rannte nach draußen.	मैं बाहर भागा।
 I read a book.	Ich lese ein Buch.	मैं किताब पढ़ता/पढ़ती हूँ।
+I rely on Tom.	Ich verlasse mich auf Tom.	मैं टॉम पर भरोसा करता हूं।
+I rescued her.	Ich habe sie gerettet.	मैंने उसे बचाया।
+I rescued him.	Ich habe ihn gerettet.	मैंने उसे बचाया।
+I rescued you.	Ich habe dich gerettet.	मैंने तुम्हें बचाया।
+I respect Tom.	Ich respektiere Tom.	मैं टॉम का सम्मान करता हूं।
+I said I'd go.	Ich habe gesagt, dass ich gehen werde.	मैंने कहा मैं जाऊंगा।
+I said get up!	Ich sagte, steh auf!	मैंने कहा उठो!
+I said thanks.	Ich habe Danke gesagt.	मैंने धन्यवाद कहा।
+I saw Tom die.	Ich sah Tom sterben.	मैंने टॉम को मरते हुए देखा।
