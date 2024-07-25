@@ -10216,3 +10216,13 @@ Tom didn't mind.	Tom hat nichts dagegen.	टॉमको ध्यान नह�
 Tom didn't move.	Tom hat sich nicht bewegt.	टॉमने नहीं हिला।
 Tom didn't pass.	Tom ist nicht vorbeigegangen.	टॉमने नहीं पास किया।
 Tom didn't pray.	Tom hat nicht gebetet.	टॉमने प्रार्थना नहीं की।
+Tom didn't quit.	Tom hat nicht aufgegeben.	टॉम ने नहीं छोड़ा।
+Tom didn't show.	Tom hat nicht gezeigt.	टॉम ने नहीं दिखाया।
+Tom didn't sing.	Tom hat nicht gesungen.	टॉम ने नहीं गाया।
+Tom didn't stir.	Tom hat nicht umgerührt.	टॉम ने हिलाया नहीं।
+Tom didn't swim.	Tom ist nicht geschwommen.	टॉम नहीं तैरा।
+Tom didn't talk.	Tom hat nicht gesprochen.	टॉम ने नहीं बोला।
+Tom didn't wait.	Tom hat nicht gewartet.	टॉम ने इंतजार नहीं किया।
+Tom died Monday.	Tom starb am Montag.	टॉम की मौत सोमवार को हुई।
+Tom died a hero.	Tom starb als Held.	टॉम ने एक नायक के रूप में मरा।
+Tom died in bed.	Tom starb im Bett.	टॉम ने बिस्तर में मरा।
