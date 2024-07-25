@@ -3216,3 +3216,13 @@ That's great!	Das ist großartig!	यह शानदार है!
 That's great.	Das ist toll.	यह बढ़िया है।
 That's my CD.	Das ist meine CD.	यह मेरी सीडी है।
 That's right!	Das ist richtig!	यह सत्य है!
+That's right.	Das stimmt.	यह सही है।
+That's trash.	Das ist Müll.	वह कचरा है।
+That's weird.	Das ist seltsam.	यह अजीब है।
+There's more.	Es gibt mehr.	और भी है।
+They approve.	Sie billigen.	वे स्वीकृति देते हैं।
+They endorse.	Sie befürworten.	वे पुष्टि करते हैं।
+They are big.	Sie sind groß.	वे बड़े हैं।
+They came in.	Sie kamen herein.	वे अंदर आए।
+They cheered.	Sie jubelten.	उन्होंने चीयर किया।
+They escaped.	Sie entkamen.	वे बच गए।
