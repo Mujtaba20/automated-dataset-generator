@@ -10704,3 +10704,12 @@ Tom saw someone.	Tom sah jemanden.	टॉम ने किसी को दे�
 Tom saw the bus.	Tom sah den Bus.	टॉम ने बस देखी।
 Tom saw the cat.	Tom sah die Katze.	टॉम ने बिल्ली देखी।
 Tom scares easy.	Tom erschrickt leicht.	टॉम आसानी से डर जाता है।
+Tom seemed busy.	Tom schien beschäftigt zu sein.	टॉम व्यस्त लग रहा था।
+Tom seemed calm.	Tom schien ruhig zu sein.	टॉम शांत लग रहा था।
+Tom seemed cool.	Tom schien cool zu sein.	टॉम शांत लग रहा था।
+Tom seemed fine.	Tom schien in Ordnung zu sein.	टॉम ठीक लग रहा था।
+Tom seemed hurt.	Tom schien verletzt zu sein.	टॉम चोट लगी हुई थी।
+Tom seemed lost.	Tom schien verloren zu sein.	टॉम खो गया लग रहा था।
+Tom seemed nice.	Tom schien nett zu sein.	टॉम अच्छा लग रहा था।
+Tom seemed sick.	Tom schien krank zu sein.	टॉम बीमार लग रहा था।
+Tom seemed wise.	Tom schien weise zu sein.	टॉम बुद्धिमान लग रहा था।
