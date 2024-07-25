@@ -16332,3 +16332,9 @@ I cannot pray now.	Ich kann jetzt nicht beten.	मैं अब प्रार�
 I cannot stop her.	Ich kann sie nicht aufhalten.	मैं उसे रोक नहीं सकता।
 I cannot stop him.	Ich kann ihn nicht stoppen.	मैं उसे रोक नहीं सकता।
 I care about that.	Das ist mir wichtig.	मुझे उसकी चिंता है।
+I cared about Tom.	Ich kümmerte mich um Tom.	मैंने टॉम की देखभाल की।
+I caught two fish.	Ich habe zwei Fische gefangen.	मैंने दो मछलियां पकड़ी।
+I changed clothes.	Ich habe Kleidung gewechselt.	मैंने कपड़े बदल दिए।
+I changed my mind.	Ich habe meine Meinung geändert.	मैंने अपना मन बदल दिया।
+I checked outside.	Ich habe draußen überprüft.	मैंने बाहर देखा।
+I closed the gate.	Ich habe das Tor geschlossen.	मैंने दरवाजा बंद किया।
