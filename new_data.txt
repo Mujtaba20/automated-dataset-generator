@@ -9637,3 +9637,12 @@ Let's turn back.	Lass uns umdrehen.	हम पीछे मुड़ें।
 Let's visit Tom.	Lass uns Tom besuchen.	हम टॉम को मिलने चलें।
 Let's wait here.	Lass uns hier warten.	यहाँ इंतजार करते हैं।
 Life ain't easy.	Das Leben ist voller Herausforderungen.	जिन्दगी मुश्किल है।
+Life is a dream.	Das Leben ist ein Traum.	जीवन सपना है।
+Life is strange.	Das Leben ist seltsam.	जीवन अजीब है।
+Life isn't easy.	Das Leben ist nicht leicht.	जीवन आसान नहीं है।
+Life isn't fair.	Das Leben ist nicht fair.	जीवन न्यायसंगत नहीं है।
+Life's not easy.	Das Leben ist nicht einfach.	जिन्दगी आसान नहीं है।
+Life's not fair.	Das Leben ist nicht gerecht.	जीवन न्यायसंगत नहीं है।
+Listen a minute.	Hör eine Minute zu.	एक मिनट सुनो।
+Look around you.	Schau dich um.	तुमारे चारों ओर देखो।
+Look at the cat.	Schau die Katze an.	बिल्ली को देखो।
