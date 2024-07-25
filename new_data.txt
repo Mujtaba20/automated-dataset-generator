@@ -16776,3 +16776,13 @@ I put on my shoes.	Ich habe meine Schuhe angezogen.	मैंने अपने
 I ran a red light.	Ich bin bei Rot über die Ampel gelaufen.	मैंने लाल रोशनी के पार कूद दिया।
 I ran for my life.	Ich bin um mein Leben gerannt.	मैंने अपने जीवन के लिए दौड़ा।
 I ran out of fuel.	Mir ist der Treibstoff ausgegangen.	मेरी ईंधन की समाप्ति हो गई।
+I ran up the hill.	Ich rannte den Hügel hinauf.	मैं पहाड़ पर दौड़ा।
+I reached my goal.	Ich erreichte mein Ziel.	मैंने अपनी लक्ष्य प्राप्त कर लिया।
+I read about that.	Ich habe darüber gelesen.	मैंने उसके बारे में पढ़ा।
+I read everything.	Ich habe alles gelesen.	मैंने सब कुछ पढ़ा।
+I read some books.	Ich habe einige Bücher gelesen.	मैंने कुछ किताबें पढ़ी।
+I really am sorry.	Es tut mir wirklich leid.	मैं सचमुच खेद हूँ।
+I really doubt it.	Ich bezweifle es wirklich.	मुझे यकीन नहीं है।
+I really hate Tom.	Ich hasse Tom wirklich.	मुझे टॉम से वास्तव में नफरत है।
+I really like Tom.	Ich mag Tom wirklich gerne.	मुझे टॉम खूब पसंद है।
+I really like him.	Ich mag ihn wirklich gerne.	मुझे उसे खूब पसंद है।
