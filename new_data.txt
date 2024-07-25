@@ -9953,3 +9953,13 @@ The boy is kind.	Der Junge ist nett.	लड़का दयालु है।
 The boy is nice.	Der Junge ist lieb.	लड़का अच्छा है।
 The bus is slow.	Der Bus ist langsam.	बस धीमी है।
 The bus stopped.	Der Bus ist stehen geblieben.	बस रुक गई।
+The car is blue.	Das Auto ist blau.	कार नीली है।
+The car started.	Das Auto hat gestartet.	कार चालू हुई।
+The cat is lazy.	Die Katze ist faul.	बिल्ली सुस्त है।
+The cat is safe.	Die Katze ist sicher.	बिल्ली सुरक्षित है।
+The cat woke up.	Die Katze ist aufgewacht.	बिल्ली जाग गई।
+The cup is full.	Die Tasse ist voll.	कप भरा हुआ है।
+The dog growled.	Der Hund knurrte.	कुत्ता ग़र्राया।
+The dog is dead.	Der Hund ist tot.	कुत्ता मुर्दा है।
+The dog is ours.	Der Hund gehört uns.	कुत्ता हमारा है।
+The door opened.	Die Tür öffnete sich.	दरवाज़ा खुल गया।
