@@ -1200,3 +1200,10 @@ Please eat.	Bitte essen.	कृपया खाओ।
 Pull me up.	Zieh mich hoch.	मुझे उठाओ।
 Quiet down.	Beruhigen Sie sich.	चुप हो जाओ।
 Replace it.	Ersetze es.	इसे बदलें।
+Run for it!	Lauf um dein Leben!	उसके लिए चलो!
+Say cheese.	Sag Käse.	मुस्कान करो.
+Say please.	Sag bitte.	बोलो कृपया.
+Scoot over.	Rutsch mal rüber.	आगे स्कूट करो.
+Shadow him.	Schattiere ihn.	उसकी परछाई बनो।
+She is old.	Sie ist alt.	वह बूढ़ी है।
+She smiled.	Sie lächelte.	वह हँसी।
