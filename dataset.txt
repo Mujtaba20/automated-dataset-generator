@@ -1,14 +1,4 @@
 
-You lost the game.	Du hast das Spiel verloren.	तुम खेल में हार गये।
-You made an error.	Du hast einen Fehler gemacht.	आपने एक गलती कर दी।
-You made me do it.	Du hast mich dazu gebracht, es zu tun.	आपने मुझे यह किया।
-You make me happy.	Du machst mich glücklich.	तुम मुझे खुश करते हो।
-You make me happy.	Ihr macht mich glücklich.	तुम मुझे खुश करते हो।
-You make me happy.	Sie machen mich glücklich.	तुम मुझे खुश करते हो।
-You make me laugh.	Du bringst mich zum Lachen.	तुम मुझे हंसाते हो।
-You make me laugh.	Sie bringen mich zum Lachen.	तुम मुझे हंसाते हो।
-You make me laugh.	Ihr bringt mich zum Lachen.	तुम मुझे हंसाते हो।
-You make me smile.	Du zauberst mir ein Lächeln ins Gesicht.	तुमने मेरे चेहरे पर मुस्कान रखी।
 You may be needed.	Kann sein, dass du gebraucht wirst.	हो सकता है कि आपकी जरूरत हो।
 You may enter now.	Du kannst jetzt reinkommen.	अब आप आ सकते हैं।
 You may enter now.	Du darfst nun hereinkommen.	अब आप अंदर आ सकते हैं।

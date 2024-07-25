@@ -20077,3 +20077,9 @@ You look smashing.	Du siehst umwerfend aus.	तुम शानदार लग 
 You look stunning.	Du siehst atemberaubend aus.	तुम चौंकाने वाले दिखते हो।
 You look terrible.	Du siehst furchtbar aus.	तुम भयानक लग रहे हो।
 You looked scared.	Du hast erschrocken ausgesehen.	तुम डरे हुए लग रहे थे।
+You lost the game.	Du hast das Spiel verloren.	तुमने खेल हार दिया।
+You made an error.	Du hast einen Fehler gemacht.	तुमने एक गलती की है।
+You made me do it.	Du hast mich dazu gebracht, es zu tun.	तुमने मुझे यह करने के लिए मजबूर किया।
+You make me happy.	Du machst mich glücklich.	तुम मुझे खुश करते हो।
+You make me laugh.	Du bringst mich zum Lachen.	तुम मुझे हंसने पर मजबूर करते हो।
+You make me smile.	Du bringst mich zum Lächeln.	तुम मुझे मुस्काने पर मजबूर करते हैं।
