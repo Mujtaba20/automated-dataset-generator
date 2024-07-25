@@ -2533,3 +2533,12 @@ Good for you. (alternate meaning)	Glückwunsch.	तुम्हारे लि�
 Good for you. (another alternate meaning)	Gut gemacht.	तुमने अच्छा काम किया।
 Goodbye, Tom.	Auf Wiedersehen, Tom.	खुदा हाफ़िज़, टॉम।
 Grab my hand.	Nimm meine Hand.	मेरी हाथ पकड़ो।
+Grow up, Tom.	Wach auf, Tom.	उड़कर जाओ, टॉम।
+Hand it over.	Gib es her.	इसे दे दो।
+Happy Easter!	Frohe Ostern!	ईस्टर की बधाई!
+Has Tom come?	Ist Tom gekommen?	क्या टॉम आया है?
+Has Tom gone?	Ist Tom gegangen?	क्या टॉम चला गया है?
+Has Tom quit?	Hat Tom aufgehört?	क्या टॉम ने छोड़ दिया है?
+Have a donut.	Nimm einen Donut.	एक डोनट लो।
+Have a drink.	Nimm ein Getränk.	एक पेय लो।
+Have a snack.	Haben Sie einen Snack.	एक स्नैक लो।
