@@ -11500,3 +11500,13 @@ Are you a lawyer?	Bist du Anwalt?	क्या आप वकील हैं?
 Are you a singer?	Bist du Sänger?	क्या आप गायक हैं?
 Are you a smoker?	Rauchst du?	क्या आप सिगरेट पीते हैं?
 Are you a wizard?	Bist du ein Zauberer?	क्या आप एक जादूगर हैं?
+Are you artistic?	Bist du künstlerisch?	क्या आप कलात्मक हैं?
+Are you at Tom's?	Bist du bei Tom?	क्या तुम टॉम के पास हो?
+Are you athletic?	Bist du sportlich?	क्या आप शारीरिकता या खेलकूद में रूचि रखते हैं?
+Are you blushing?	Errötest du?	क्या आप शर्मा रहे हैं?
+Are you blushing? (Repeated)	Schämst du dich?	क्या आप झुलस रहे हैं?
+Are you blushing? (Repeated 2)	Wirst du rot?	क्या आप लाल हो रहे हैं?
+Are you brothers?	Seid ihr Brüder?	क्या आप भाई हैं?
+Are you busy now?	Bist du jetzt beschäftigt?	क्या आप अभी व्यस्त हैं?
+Are you busy now? (Repeated)	Seid ihr nun beschäftigt?	क्या आप अब काम में हैं?
+Are you busy now? (Repeated 2)	Bist du jetzt viel beschäftigt?	क्या तुम अब अधिक व्यस्त हैं?
