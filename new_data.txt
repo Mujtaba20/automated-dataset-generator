@@ -7203,3 +7203,12 @@ Tom got caught.	Tom wurde erwischt.	टॉम पकड़ा गया।
 Tom got closer.	Tom kam näher.	टॉम नज़दीक आ गया।
 Tom got dumped.	Tom wurde sitzengelassen.	टॉम को छोड़ दिया।
 Tom got fatter.	Tom wurde dicker.	टॉम मोटा हो गया।
+Tom got hacked.	Tom wurde gehackt.	टॉम हैक किया गया।
+Tom got killed.	Tom wurde getötet.	टॉम को मार दिया गया।
+Tom got mugged.	Tom wurde überfallen.	टॉम को लुटा गया।
+Tom got robbed.	Tom wurde beraubt.	टॉम को लूट लिया गया।
+Tom got scared.	Tom hat Angst bekommen.	टॉम को डर लगा।
+Tom got sleepy.	Tom wurde schläfrig.	टॉम सोने लगा।
+Tom grabbed it.	Tom packte es.	टॉम ने इसे पकड़ लिया।
+Tom grew roses.	Tom züchtete Rosen.	टॉम ने गुलाब उगाए।
+Tom grows rice.	Tom baut Reis an.	टॉम चावल उगाता है।
