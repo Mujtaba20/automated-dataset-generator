@@ -5432,3 +5432,10 @@ Why change it?	Warum es ändern?	यह क्यों बदलें?
 Will Tom sing?	Wird Tom singen?	क्या टॉम गाएगा?
 Will she come?	Wird sie kommen?	क्या वह आएगी?
 Will you help?	Wirst du helfen?	क्या तुम मदद करोगे?
+Women hate me.	Frauen hassen mich.	महिलाएँ मुझसे नफरत करती हैं।
+Write it down.	Schreiben Sie es auf.	यह लिख दो।
+You all right?	Geht es dir gut?	तुम ठीक हो?
+You are crazy.	Du bist verrückt.	तुम पागल हो।
+You are drunk!	Du bist betrunken!	तुम नशे में हो!
+You are lying.	Du lügst.	तुम झूठ बोल रहे हो।
+You are wrong.	Du irrst dich.	तुम गलत हो।
