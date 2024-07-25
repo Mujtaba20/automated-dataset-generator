@@ -13397,3 +13397,12 @@ No one's looking.	Niemand schaut.	कोई नहीं देख रहा ह
 No one's perfect.	Niemand ist perfekt.	कोई भी पूर्ण नहीं है।
 No pain, no gain!	Ohne Schmerz, kein Gewinn!	बिना दर्द के कोई लाभ नहीं है!
 No pain, no gain.	Ohne Schmerz, kein Nutzen.	बिना दर्द के कोई फायदा नहीं है।
+Nobody asked Tom.	Niemand hat Tom gefragt.	कोई ने टॉम से पूछा नहीं।
+Nobody does that.	Niemand macht das.	कोई ऐसा नहीं करता।
+Nobody is hungry.	Niemand hat Hunger.	कोई भूखा नहीं है।
+Nobody knows why.	Niemand weiß warum.	किसी को नहीं पता क्यों।
+Nobody liked Tom.	Niemand mochte Tom.	किसी को टॉम पसंद नहीं था।
+Nobody likes Tom.	Niemand mag Tom.	कोई टॉम को पसंद नहीं करता।
+Nobody likes her.	Niemand mag sie.	कोई उसे पसंद नहीं करता।
+Nobody likes war.	Niemand mag Krieg.	कोई जंग पसंद नहीं करता।
+Nobody loves war.	Niemand liebt Krieg.	किसी को जंग से प्यार नहीं है।
