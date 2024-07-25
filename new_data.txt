@@ -831,3 +831,7 @@ Are you OK? Third Meaning	Gehst es dir gut?	क्या तुम ठीक ज
 Are you in?	Bist du dabei?	क्या तुम में हो?
 Are you up?	Bist du wach?	क्या तुम उप हो?
 Ask anyone.	Frag jemanden.	किसी से पूछो।
+Ask around.	Frag herum.	चारों तरफ़ से पूछें।
+Be careful!	Sei vorsichtig!	सावधान रहो!
+Be careful.	Sei achtsam.	ध्यान देना।
+Be patient.	Sei geduldig.	धैर्य रखो।
