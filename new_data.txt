@@ -10189,3 +10189,11 @@ Tom can't sleep.	Tom kann nicht schlafen.	टॉम सो नहीं सक�
 Tom caused this.	Tom hat das verursacht.	इसकी जिम्मेदारी टॉम की है।
 Tom chased Mary.	Tom jagte Mary.	टॉम ने मेरी की पीछा की।
 Tom checked out.	Tom hat ausgecheckt.	टॉम ने चेक किया।
+Tom confused us.	Tom hat uns verwirrt.	टॉम ने हमें भ्रमित किया।
+Tom contributed.	Tom leistete einen Beitrag.	टॉम ने योगदान दिया।
+Tom could do it.	Tom könnte es schaffen.	टॉम इसे कर सकता था।
+Tom cried a lot.	Tom hat viel geweint.	टॉम ने बहुत रोया।
+Tom cried again.	Tom hat wieder geweint.	टॉम ने फिर से रोना शुरू कर दिया।
+Tom cries a lot.	Tom weint viel.	टॉम बहुत रोता है।
+Tom cut himself.	Tom hat sich geschnitten.	टॉम ने खुद को काट लिया।
+Tom dances well.	Tom tanzt gut.	टॉम अच्छे से नृत्य करता है।
