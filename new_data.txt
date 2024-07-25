@@ -6001,3 +6001,10 @@ I fell in love.	Ich habe mich verliebt.	मैं प्यार में ग�
 I followed him.	Ich habe ihm gefolgt.	मैंने उसका पीछा किया।
 I followed you.	Ich bin dir gefolgt.	मैंने तुम्हारा पीछा किया।
 I gave my word.	Ich habe mein Wort gegeben.	मैंने अपना वादा दिया।
+I get off here.	Ich steige hier aus.	मैं यहाँ से उतरता हूँ।
+I get up early.	Ich stehe früh auf.	मैं जल्दी उठता हूँ।
+I give my word.	Ich gebe mein Wort.	मैं अपना वादा देता हूँ।
+I go to church.	Ich gehe in die Kirche.	मैं चर्च जाता हूँ।
+I go to school.	Ich gehe zur Schule.	मैं स्कूल जाता हूँ।
+I got divorced.	Ich wurde geschieden.	मैंने तलाक की यह
+I got you this.	Ich habe dir das besorgt.	मैंने तुम्हें यह दिया है।
