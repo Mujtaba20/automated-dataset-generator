@@ -12651,3 +12651,13 @@ I sat down again.	Ich setzte mich wieder hin.	मैं फिर से बै�
 I sat in the car.	Ich saß im Auto.	मैं गाड़ी में बैठा था।
 I saw Tom coming.	Ich sah Tom kommen.	मैंने टॉम आते हुए देखा।
 I saw him go out.	Ich sah ihn hinausgehen.	मैंने उसे बाहर जाते हुए देखा।
+I saw the doctor.	Ich habe den Arzt gesehen.	मैंने डॉक्टर को देखा।
+I saw what I saw.	Ich sah, was ich sah.	मैंने देखा जो मैंने देखा।
+I saw you crying.	Ich sah dich weinen.	मैंने तुम्हें रोते हुए देखा।
+I saw you crying. - Alternative translation	Ich habe dich weinen sehen.	मैंने देखा था कि तुम रो रहे थे।
+I saw you crying. - Another alternative translation	Ich habe gesehen, dass du geweint hast.	मैंने देखा कि तुम रो रहे थे।
+I saw you crying. - Yet another alternative translation	Ich sah, wie du geweint hast.	मैंने देखा कि तुम रो रहे थे।
+I see your house.	Ich sehe dein Haus.	मैं तुम्हारा घर देखता हूँ।
+I sell computers.	Ich verkaufe Computer.	मैं कम्प्यूटर बेचता हूँ।
+I shaved my head.	Ich rasierte meinen Kopf.	मैंने अपने सिर को मुंडवाया।
+I shaved my head. - Alternative translation	Ich habe meinen Kopf rasiert.	मैंने अपने सिर की बाल कटवाए।
