@@ -20551,3 +20551,7 @@ Don't tell me that.	Sag mir das nicht.	मुझे यह मत बताओ�
 Don't tell my wife.	Erzähle es nicht meiner Frau.	मेरी पत्नी को मत बताओ।
 Don't thank me now.	Bedanke dich jetzt nicht bei mir.	अब मुझे धन्यवाद मत बोलो।
 Don't throw stones.	Wirf keine Steine.	पत्थर फेंकना मना है।
+Don't trust anyone.	Vertraue keiner Person.	किसी पर भरोसा मत करो।
+Don't wake the cat.	Wecke die Katze nicht auf.	बिल्ली को न जगाएं।
+Don't wake them up.	Wecke sie nicht auf.	उन्हें न जगाएं।
+Don't walk so fast.	Langsamer gehen.	तेज़ी से मत चलो।

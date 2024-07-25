@@ -1,15 +1,4 @@
 
-Don't trust anyone.	Vertraue niemandem!	किसी पर भरोसा नहीं करें!
-Don't trust anyone.	Vertraut niemandem!	कोई भी भरोसा नहीं करता है!
-Don't trust anyone.	Vertrauen Sie niemandem!	किसी पर भी भरोसा करो!
-Don't wake the cat.	Nicht die Katze aufwecken!	बिल्ली को जगाओ मत!
-Don't wake them up.	Weck sie nicht.	उन्हें जगाओ मत।
-Don't walk so fast.	Lauf nicht so schnell.	इतनी जल्दी न दौड़ें।
-Don't walk so fast.	Gehen Sie nicht so schnell!	इतनी जल्दी मत जाओ!
-Don't walk so fast.	Geht bitte nicht so schnell!	कृपया इतनी जल्दी काम न करें!
-Don't walk so fast.	Lauft bitte nicht so schnell!	कृपया इसे जल्दी से न चलाएं!
-Don't walk so fast.	Geh bitte nicht so schnell!	कृपया इतनी जल्दी मत जाओ!
-Don't walk so fast.	Gehe nicht so schnell.	इतनी जल्दी मत जाओ।
 Don't write in ink.	Schreib nicht mit Tinte.	स्याही के साथ मत लिखो।
 Don't you know Tom?	Kennst du Tom nicht?	क्या आप टॉम नहीं जानते?
 Don't you know how?	Weißt du nicht wie?	पता नहीं कैसे?
