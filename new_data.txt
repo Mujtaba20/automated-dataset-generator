@@ -2570,3 +2570,13 @@ He kicked it.	Er hat es getreten.	उसने इसे थक्क दिय�
 He let us go.	Er ließ uns gehen.	उसने हमें जाने दिया।
 He lost face.	Er hat sein Gesicht verloren.	उसने अपना सम्मान खो दिया।
 He loved her.	Er liebte sie.	उसने उसे पसंद किया।
+He loves her.	Er liebt sie.	उसे वह प्यार करता है।
+He needs you.	Er braucht dich.	उसको तुम्हें चाहिए।
+He runs fast.	Er rennt schnell.	वह तेज भागता है।
+He runs fast. 	Er rennt schnell.	वह जल्दी दौड़ता है।
+He seems ill.	Er scheint krank zu sein.	लगता है कि वह बीमार है।
+He seems ill. 	Er wirkt krank.	लगता है कि वह अच्छा नहीं है।
+He succeeded.	Er war erfolgreich.	उसका कामयाबी से परिणाम सिद्ध हुआ।
+He wants one.	Er will eins.	उसे एक चाहिए।
+He was alone.	Er war allein.	वह अकेला था।
+He was alone. 	Er war einsam.	वह अकेला था।
