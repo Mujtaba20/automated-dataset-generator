@@ -1,14 +1,4 @@
 
-Tom is really big.	Tom ist wirklich groß.	टॉम वास्तव में बड़ा है।
-Tom is reasonable.	Tom ist vernünftig.	टॉम उचित है।
-Tom is recovering.	Tom erholt sich.	टॉम ठीक हो जाता है।
-Tom is relentless.	Tom ist unerbittlich.	टॉम अथक है।
-Tom is remarkable.	Tom ist bemerkenswert.	टॉम उल्लेखनीय है।
-Tom is remodeling.	Tom baut um.	टॉम पुनर्निर्माण कर रहा है।
-Tom is remorseful.	Tom ist reumütig.	टॉम पश्चाताप कर रहा है।
-Tom is respectful.	Tom ist respektvoll.	टॉम सम्मानजनक है।
-Tom is ridiculous.	Tom ist lächerlich.	टॉम हास्यास्पद है।
-Tom is still here.	Tom ist immer noch hier.	टॉम अभी भी यहाँ है।
 Tom is struggling.	Tom kämpft.	टॉम लड़ता है।
 Tom is stuttering.	Tom stottert.	टॉम स्टुटर्स।
 Tom is successful.	Tom ist erfolgreich.	टॉम सफल है।
