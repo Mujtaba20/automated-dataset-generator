@@ -11519,3 +11519,13 @@ Are you friendly?	Bist du freundlich?	क्या तुम दोस्ता�
 Are you generous?	Bist du großzügig?	क्या तुम उदार हो?
 Are you going in?	Gehst du rein?	क्या तुम अंदर जा रहे हो?
 Are you homesick?	Bist du heimwehkrank?	क्या तुम घर की याद से रो रहे हो?
+Are you in there?	Bist du drin?	क्या तुम अंदर हो?
+Are you my enemy?	Bist du mein Feind?	क्या तुम मेरा दुश्मन हो?
+Are you my enemy?-2	Bist du mein Feind?	क्या तुम मेरा शत्रु हो?
+Are you new here?	Bist du neu hier?	क्या तुम यहाँ नए हो?
+Are you new here?-2	Bist du neu hier?	क्या तुम यहाँ पहली बार आए हो?
+Are you new, too?	Bist du auch neu?	क्या तुम भी नए हो?
+Are you prepared?	Bist du vorbereitet?	क्या तुम तैयार हो?
+Are you reliable?	Bist du zuverlässig?	क्या तुम विश्वसनीय हो?
+Are you sleeping?	Schläfst du?	क्या तुम सो रहे हो?
+Are you still up?	Bist du immer noch wach?	क्या तुम अब भी जाग रहे हो?
