@@ -15212,3 +15212,12 @@ Where can we eat?	Wo können wir essen?	हम कहाँ खा सकते 
 Where did you go?	Wohin bist du gegangen?	तुम कहाँ गए थे?
 Where do I sleep?	Wo schlafe ich?	मैं कहाँ सोता हूँ?
 Where is Customs?	Wo ist der Zoll?	कस्टम कहाँ है?
+Where is Tom now?	Wo ist Tom jetzt?	टॉम अभी कहाँ है?
+Where is my ball?	Wo ist mein Ball?	मेरा गेंद कहाँ है?
+Where is my beer?	Wo ist mein Bier?	मेरी बीयर कहाँ है?
+Where is my comb?	Wo ist mein Kamm?	मेरी कंघी कहाँ है?
+Where is my seat?	Wo ist mein Sitzplatz?	मेरी सीट कहाँ है?
+Where is the bus?	Wo ist der Bus?	बस कहाँ है?
+Where is the cat?	Wo ist die Katze?	बिल्ली कहाँ है?
+Where is the dog?	Wo ist der Hund?	कुत्ता कहाँ है?
+Where's Tom been?	Wo war Tom?	टॉम कहाँ गया था?
