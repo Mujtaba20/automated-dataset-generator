@@ -8368,3 +8368,13 @@ Don't shoot Tom.	Schieß nicht auf Tom.	टॉम पर न गोली चल
 Don't start yet.	Fange noch nicht an.	अभी तक शुरू मत करो।
 Don't stop here.	Halt hier nicht an.	यहाँ रोक नहीं।
 Don't tease Tom.	Ärgere Tom nicht.	टॉम को परेशान मत करो।
+Don't tell lies.	Lüg nicht.	झूठ मत बोलो।
+Don't trust Tom.	Vertraue nicht Tom.	तोम पर भरोसा मत करो।
+Don't trust him.	Vertrau ihm nicht.	उस पर भरोसा मत करो।
+Don't trust him. - 2	Vertrau ihm nicht.	उस पर भरोसा मत करो।
+Don't you agree?	Stimmst du nicht zu?	क्या तुम सहमत नहीं हो?
+Don't you agree? - 2	Sind Sie nicht einverstanden?	क्या आप सहमत नहीं हैं?
+Draw me a sheep.	Zeichne mir ein Schaf.	मुझे एक भेड़ बनाओ।
+Drink more beer.	Trink mehr Bier.	और पीएँ बीयर।
+Drink more beer. - 2	Trink mehr Bier.	और पीएँ बीयर।
+Drink something.	Trink etwas.	कुछ पियो।
