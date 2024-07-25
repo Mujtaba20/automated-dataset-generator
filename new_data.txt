@@ -363,3 +363,11 @@ I'm well.	Mir geht es gut.	मैं ठीक हूँ।
 It helps.	Es hilft.	यह मदद करता है।
 It hurts.	Es tut weh.	यह दर्द करता है।
 It works.	Es funktioniert.	यह काम करता है।
+It's Tom.	Es ist Tom.	यह टॉम है।
+It's dry.	Es ist trocken.	यह सूखा हुआ है।
+It's his.	Es ist seins.	यह उसका है।
+It's hot.	Es ist heiß.	वह गरम है।
+It's new.	Es ist neu.	यह नया है।
+It's sad.	Es ist traurig.	यह उदास है।
+Keep out!	Betreten verboten!	बाहर रहें!
+Keep out.	Betreten verboten.	अंदर न जाएं।
