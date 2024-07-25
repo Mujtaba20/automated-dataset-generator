@@ -19662,3 +19662,12 @@ We're quite tired.	Wir sind ziemlich müde.	हम काफी थके हु
 We're ready to go.	Wir sind bereit zu gehen.	हम जाने के लिए तैयार हैं।
 We're really busy.	Wir sind wirklich beschäftigt.	हम वास्तव में व्यस्त हैं।
 We're really good.	Wir sind wirklich gut.	हम वास्तव में अच्छे हैं।
+We're spontaneous.	Wir sind spontan.	हम आकस्मिक हैं।
+We're still young.	Wir sind immer noch jung.	हम अभी भी जवान हैं।
+We're the problem.	Wir sind das Problem.	हम समस्या हैं।
+We're very lonely.	Wir sind sehr einsam.	हम बहुत अकेले हैं।
+We're workaholics.	Wir sind Workaholics.	हम काम में बहुत लगे हुए हैं।
+We've all done it.	Wir haben es alle gemacht.	हम सभी ने यह किया है।
+We've already met.	Wir haben uns bereits getroffen.	हम पहले ही मिल चुके हैं।
+We've been robbed.	Wir wurden ausgeraubt.	हमें लूट लिया गया है।
+We've been warned.	Wir wurden gewarnt.	हमें चेतावनी दी गई है।
