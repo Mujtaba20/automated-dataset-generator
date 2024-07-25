@@ -3074,3 +3074,12 @@ Look at this.	Schau dir das hier an.	इस पर ध्यान दो।
 Look closely.	Schau genau hin.	ध्यान से देखो।
 Look closely. (2)	Betrachte es genau.	ध्यान से देखो।
 Make a guess.	Rate mal.	एक अनुमान लगाओ।
+Make it stop.	Lass es aufhören.	इसे रोक दो।
+Mary came in.	Maria kam herein.	मेरी अंदर आई।
+Mary giggled.	Maria kicherte.	मेरी हंसी।
+Mary is cute.	Maria ist süß.	मेरी प्यारी है।
+Mary is mine.	Maria gehört mir.	मेरी है।
+Mary is tall.	Maria ist groß.	मेरी लंबी है।
+Math is hard.	Mathe ist schwer.	गणित कठिन है।
+May I cut in?	Darf ich dazwischen gehen?	क्या मैं काट सकता हूँ?
+May I go now?	Darf ich jetzt gehen?	क्या मैं अब जा सकता हूँ?
