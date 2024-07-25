@@ -13436,3 +13436,13 @@ Oh, have a heart.	Oh, sei nicht so herzlos.	ओह, दिल बड़ा क�
 Open the windows.	Öffne die Fenster.	खिड़कियां खोलो।
 Open those doors.	Öffne jene Türen.	वह दरवाज़े खोलो।
 Open up the door.	Mach die Tür auf.	दरवाज़ा खोलो।
+Open your window.	Öffne dein Fenster.	अपनी खिड़की खोलो।
+Our kids hate us.	Unsere Kinder hassen uns.	हमारे बच्चे हमसे नफरत करते हैं।
+Our team can win.	Unser Team kann gewinnen.	हमारी टीम जीत सकती है।
+Pass me the salt.	Reiche mir das Salz.	मुझे नमक दो।
+People are angry.	Die Leute sind wütend.	लोग गुस्से में हैं।
+People are dying.	Die Leute sterben.	लोग मर रहे हैं।
+People need love.	Die Menschen brauchen Liebe.	लोगों को प्यार की आवश्यकता है।
+People will talk.	Die Leute werden reden.	लोग बोलेंगे।
+Perhaps Tom left.	Vielleicht hat Tom verlassen.	शायद टॉम चला गया।
+Perhaps it's Tom.	Vielleicht ist es Tom.	शायद यह टॉम है।
