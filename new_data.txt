@@ -14296,3 +14296,10 @@ Tom is resilient.	Tom ist belastbar.	टॉम सहनशील है।
 Tom is sarcastic.	Tom ist sarkastisch.	टॉम तानाहार है।
 Tom is satisfied.	Tom ist zufrieden.	टॉम संतुष्ट है।
 Tom is screaming.	Tom schreit.	टॉम चिल्ला रहा है।
+Tom is secretive.	Tom ist geheimnisvoll.	टॉम रहस्यमय है।
+Tom is sensitive.	Tom ist einfühlsam.	टॉम संवेदनशील है।
+Tom is shameless.	Tom ist schamlos.	टॉम निर्लज्ज है।
+Tom is shirtless.	Tom trägt kein Oberteil.	टॉम शर्टलेस है।
+Tom is shivering.	Tom zittert.	टॉम कांप रहा है।
+Tom is skeptical.	Tom ist skeptisch.	टॉम संदेहवादी है।
+Tom is sketching.	Tom skizziert.	टॉम स्केच बना रहा है।
