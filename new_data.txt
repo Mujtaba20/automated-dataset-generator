@@ -12225,3 +12225,11 @@ I bet Tom forgot.	Ich wette Tom hat vergessen.	मैं टॉम भूल ग
 I bet it was Tom.	Ich wette es war Tom.	मैं बहुत अच्छी बात है टॉम पर जो उपेक्षा है।
 I bike to school.	Ich fahre mit dem Fahrrad zur Schule.	मैं स्कूल जाने के लिए साइकिल चलाता हूँ।
 I bought a house.	Ich habe ein Haus gekauft.	मैंने एक घर खरीदा।
+I bought a watch.	Ich habe einen Wecker gekauft.	मैंने एक घड़ी खरीदी।
+I bought bananas.	Ich habe Bananen gekauft.	मैंने केले खरीदे।
+I bought the car.	Ich habe das Auto gekauft.	मैंने कार खरीदी।
+I bowed politely.	Ich verbeugte mich höflich.	मैंने शिष्टतापूर्वक झुकाव किया।
+I broke that one.	Ich habe das zerbrochen.	मैंने वह तोड़ दिया।
+I brought a book.	Ich habe ein Buch gebracht.	मैंने एक पुस्तक लाई।
+I came to say hi.	Ich kam, um Hallo zu sagen.	मैंने नमस्ते कहने के लिए आया।
+I came yesterday.	Ich kam gestern an.	मैंने कल आया था।
