@@ -8942,3 +8942,13 @@ I must obey Tom.	Ich muss Tom gehorchen.	मुझे टॉम का आज्
 I must warn Tom.	Ich muss Tom warnen.	मुझे टॉम को चेतावनी देनी होगी।
 I must warn him.	Ich muss ihn warnen.	मुझे उसे चेतावनी देनी होगी।
 I need Internet.	Ich brauche Internet.	मुझे इंटरनेट की आवश्यकता है।
+I need a bucket.	Ich brauche einen Eimer.	मुझे एक बाल्टी चाहिए।
+I need a doctor.	Ich brauche einen Arzt.	मुझे एक चिकित्सक की आवश्यकता है।
+I need a hammer.	Ich brauche einen Hammer.	मुझे एक हथौड़ा चाहिए।
+I need a ladder.	Ich brauche eine Leiter.	मुझे एक सीढ़ी की जरूरत है।
+I need a lawyer.	Ich brauche einen Anwalt.	मुझे एक वकील की आवश्यकता है।
+I need a tissue.	Ich brauche ein Taschentuch.	मुझे एक टिशू चाहिए।
+I need caffeine.	Ich brauche Koffein.	मुझे कैफीन की आवश्यकता है।
+I need help now.	Ich brauche jetzt Hilfe.	मुझे अभी मदद की आवश्यकता है।
+I need his help.	Ich brauche seine Hilfe.	मुझे उसकी मदद चाहिए।
+I need it today.	Ich brauche es heute.	मुझे आज यह चाहिए।
