@@ -9525,3 +9525,11 @@ It's impossible.	Es ist unmöglich.	यह असंभाव है।
 It's improbable.	Es ist unwahrscheinlich.	यह अविश्वसनीय है।
 It's inadequate.	Es ist unzureichend.	यह अपर्याप्त है।
 It's incredible.	Es ist unglaublich.	यह बेयानहा है।
+It's irrelevant.	Es ist belanglos.	यह अप्रासंगिक है।
+It's just a cat.	Es ist nur eine Katze.	यह सिर्फ बिल्ली है।
+It's just blood.	Es ist nur Blut.	यह सिर्फ खून है।
+It's just money.	Es ist nur Geld.	यह सिर्फ पैसा है।
+It's like magic.	Es ist wie Magie.	यह जादू की तरह है।
+It's lunch time.	Es ist Mittagszeit.	यह जंचने का समय है।
+It's misleading.	Es ist irreführend.	इसमें निरादेशक है।
+It's my day off.	Es ist mein freier Tag.	यह मेरा अवकाश है।
