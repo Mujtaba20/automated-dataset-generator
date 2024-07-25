@@ -15093,3 +15093,12 @@ We're not stupid.	Wir sind nicht dumm.	हम मूर्ख नहीं ह�
 We're on our own.	Wir sind auf uns allein gestellt.	हम अपने आप पर हैं।
 We're on our way.	Wir sind unterwegs.	हम अपने रास्ते पर हैं।
 We're out of tea.	Unsere Teesorte ist ausgegangen.	हमारे पास चाय नहीं है।
+We're reasonable.	Wir sind vernünftig.	हम वजनबूटी हैं।
+We're sorry, too.	Wir sind auch traurig.	हमें भी माफी चाहिए।
+We're soul mates.	Wir sind Seelenverwandte.	हम आत्मा संबंधी हैं।
+We're speechless.	Wir sind sprachlos.	हम अवकाशी हैं।
+We're still here.	Wir sind immer noch hier.	हम यहाँ अब भी हैं।
+We're successful.	Wir sind erfolgreich.	हम सफल हैं।
+We're surrounded.	Wir sind umgeben.	हम घेरे हुए हैं।
+We're taking off.	Wir starten durch.	हम उड़ान भर रहे हैं।
+We're the owners.	Wir sind die Besitzer.	हम मालिक हैं।
