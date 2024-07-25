@@ -10732,3 +10732,13 @@ Tom seems tense.	Tom scheint angespannt.	टॉम तनावग्रस्�
 Tom seems tired.	Tom wirkt müde.	टॉम थका हुआ लगता है।
 Tom seems tough.	Tom scheint hart.	टॉम मजबूत लगता है।
 Tom seems upset.	Tom scheint verärgert.	टॉम उदास लगता है।
+Tom seems young.	Tom scheint jung zu sein.	टॉम युवा लगता है।
+Tom sees things.	Tom sieht Dinge.	टॉम चीजें देखता है।
+Tom seldom wins.	Tom gewinnt selten.	टॉम शादी शर्त पर कम ही जीतता है।
+Tom sells fruit.	Tom verkauft Obst.	टॉम फल बेचता है।
+Tom sells shoes.	Tom verkauft Schuhe.	टॉम जूते बेचता है।
+Tom shot a bear.	Tom hat auf einen Bären geschossen.	टॉम ने एक भालू पर गोली चलाई।
+Tom should come.	Tom sollte kommen.	टॉम आना चाहिए।
+Tom should know.	Tom sollte wissen.	टॉम को पता होना चाहिए।
+Tom should wait.	Tom sollte warten.	टॉम को इंतजार करना चाहिए।
+Tom sings tenor.	Tom singt Tenor.	टॉम टेनर गाता है।
