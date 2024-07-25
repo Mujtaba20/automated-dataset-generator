@@ -523,3 +523,13 @@ I clapped.	Ich habe geklatscht.	मैंने ताली बजाई।
 I coughed.	Ich habe mich geräuspert.	मैंने गला साफ़ किया।
 I escaped.	Ich bin entwichen.	मैं फरार हो गया।
 I fainted.	Ich bin in Ohnmacht gefallen.	मैं बेहोश हो गया।
+I fear so.	Ich fürchte so.	मुझे डर लगता है।
+I frowned.	Ich runzelte die Stirn.	मैं भौंचक कर दिया।
+I gave up.	Ich habe aufgegeben.	मैं हार मान ली।
+I gave up. - 2	Ich habe aufgegeben.	मैं छोड़ दिया।
+I get you.	Ich verstehe dich.	मैं तुम्हें समझता हूँ।
+I giggled.	Ich kicherte.	मैं हंसी।
+I give in.	Ich gebe nach.	मैं मान ही लेता हूँ।
+I give in. - 2	Ich ergebe mich.	मैं हार मानता हूँ।
+I got mad.	Ich wurde wütend.	मैं गुस्से में आ गया।
+I got mad. - 2	Ich wurde sauer.	मैं पागल हो गया।
