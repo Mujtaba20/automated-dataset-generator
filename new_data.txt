@@ -15960,3 +15960,12 @@ He did it himself.	Er hat es selbst gemacht.	उसने खुद किया
 He didn't show up.	Er ist nicht aufgetaucht.	उसने प्रकट नहीं हुआ।
 He died of cancer.	Er starb an Krebs.	उसकी कैंसर से मौत हो गई।
 He died yesterday.	Er ist gestern gestorben.	उसकी कल मौत हो गई।
+He does not smoke.	Er raucht nicht.	वह धूम्रपान नहीं करता।
+He drank a little.	Er trank ein wenig.	उसने थोड़ा पिया।
+He drives a Lotus.	Er fährt einen Lotus.	वह एक लोटस चलाता है।
+He drives a truck.	Er fährt einen Lastwagen.	वह ट्रक चलाता है।
+He dropped a vase.	Er ließ eine Vase fallen.	उसने एक गुलदस्ता गिरा दिया।
+He earns a living.	Er verdient seinen Lebensunterhalt.	वह अपना जीवन यापन कमाता है।
+He froze to death.	Er ist erfroren.	उसने मृत्यु के लिए जम गया।
+He gave her a box.	Er gab ihr eine Schachtel.	उसने उसे एक डिब्बा दिया।
+He gave me a cold.	Er hat mich erkältet.	उसने मुझे ठंडी लगा दी।
