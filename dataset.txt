@@ -1,14 +1,4 @@
 
-Tom expected more.	Tom hat mehr erwartet.	टॉम को और अधिक उम्मीद थी।
-Tom fed the horse.	Tom fütterte das Pferd.	टॉम ने घोड़ा खिलाया।
-Tom fed the sheep.	Tom hat die Schafe gefüttert.	टॉम ने भेड़ को खिलाया।
-Tom fed the sheep.	Tom hat das Schaf gefüttert.	टॉम ने भेड़ को खिलाया।
-Tom fed the sheep.	Tom fütterte das Schaf.	टॉम ने भेड़ को खिलाया।
-Tom fed the sheep.	Tom fütterte die Schafe.	टॉम ने भेड़ को खिलाया।
-Tom felt betrayed.	Tom fühlte sich betrogen.	टॉम ने धोखा महसूस किया।
-Tom felt confused.	Tom war verwirrt.	टॉम उलझन में था।
-Tom felt excluded.	Tom fühlte sich ausgeschlossen.	टॉम को बाहर रखा गया।
-Tom felt helpless.	Tom kam sich hilflos vor.	टॉम ने असहाय महसूस किया।
 Tom felt homesick.	Tom hatte Heimweh.	टॉम होमसिक था।
 Tom felt nauseous.	Tom war übel.	टॉम बुरा था।
 Tom felt prepared.	Tom fühlte sich gut vorbereitet.	टॉम ने अच्छी तरह से तैयार महसूस किया।

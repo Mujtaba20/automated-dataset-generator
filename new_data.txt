@@ -18450,3 +18450,10 @@ Tom eats anything.	Tom isst alles.	टॉम कुछ भी खाता ह�
 Tom eats too fast.	Tom isst zu schnell.	टॉम बहुत तेजी से खाता है।
 Tom enjoys movies.	Tom genießt Filme.	टॉम को फिल्में देखना अच्छा लगता है।
 Tom enjoys school.	Tom genießt die Schule.	टॉम को स्कूल में आनंद आता है।
+Tom expected more.	Tom erwartete mehr.	टॉम और ज्यादा उम्मीद कर रहा था।
+Tom fed the horse.	Tom fütterte das Pferd.	टॉम ने घोड़े को खिलाया।
+Tom fed the sheep.	Tom fütterte die Schafe.	टॉमने भेड़ों को खिलाया।
+Tom felt betrayed.	Tom fühlte sich betrogen.	टॉम को धोखा मिला।
+Tom felt confused.	Tom fühlte sich verwirrt.	टॉम को भ्रांतिपूर्ण महसूस हुआ।
+Tom felt excluded.	Tom fühlte sich ausgeschlossen.	टॉम को अलग किया गया।
+Tom felt helpless.	Tom fühlte sich hilflos.	टॉम बेसहारा महसूस कर रहा था।
