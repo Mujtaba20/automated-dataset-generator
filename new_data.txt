@@ -8541,3 +8541,10 @@ He was innocent.	Er war unschuldig.	वह बेगुनाह था।
 He was outraged.	Er war empört.	उसे बेहद नाराज़ था।
 He was speaking.	Er sprach.	वह बोल रहा था।
 He was standing.	Er stand.	वह खड़ा था।
+He was very old.	Er war sehr alt.	वह बहुत बूढ़ा था।
+He waved at her.	Er hat ihr zugewunken.	उसने उसको हाथ हिलाया।
+He went fishing.	Er ging angeln.	उसने मछली पकड़ने चला गया।
+He went surfing.	Er ist surfen gegangen.	उसने सर्फिंग पर जाने की कोशिश की।
+He will survive.	Er wird überleben.	वह ज़िंदा रहेगा।
+He wore glasses.	Er hatte eine Brille auf.	उसने ग्लासेस पहने थे।
+He writes books.	Er schreibt Bücher.	वह किताबें लिखता है।
