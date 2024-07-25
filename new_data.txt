@@ -5733,3 +5733,9 @@ Give it to Tom.	Gib es Tom.	इसे टॉम को दो।
 Give it to her.	Gib es ihr.	इसे उसे दो।
 Give it to him.	Gib es ihm.	उसे दे दो।
 Give me a beer.	Gib mir ein Bier.	मुझे एक बियर दो।
+Give me a hand.	Gib mir eine Hand.	मुझे एक हाथ दो।
+Give me a kiss.	Gib mir einen Kuss.	मुझे एक चुंबन दो।
+Give me a ride.	Gib mir eine Fahrt.	मुझे एक सवारी दो।
+Give us a hand.	Gib uns eine Hand.	हमें एक हाथ दो।
+Go and ask Tom.	Geh und frage Tom.	जाओ और टॉम से पूछो।
+Go and see Tom.	Geh und sieh Tom.	जाओ और टॉम को देखो।
