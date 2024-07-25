@@ -8915,3 +8915,12 @@ I love you, too.	Ich liebe auch dich.	मैं तुमसे भी प्य
 I love your car.	Ich liebe dein Auto.	मुझे तुम्हारी कार पसंद है।
 I love your cat.	Ich liebe deine Katze.	मुझे तुम्हारी बिल्ली पसंद है।
 I love your son.	Ich liebe deinen Sohn.	मुझे तुम्हारे बेटे से प्यार है।
+I made that one.	Ich habe das gemacht.	मैंने वह बनाया।
+I may need help.	Ich brauche vielleicht Hilfe.	मुझे मदद की आवश्यकता हो सकती है।
+I meant no harm.	Ich wollte keinen Schaden anrichten.	मेरा कोई अपराध नहीं था।
+I meant no harm. (different meaning)	Ich habe es nicht böse gemeint.	मैंने बुरा नहीं माना।
+I met Tom today.	Ich traf heute Tom.	मैंने आज टॉम से मिला।
+I met her again.	Ich habe sie wieder getroffen.	मैंने उससे फिर से मिला।
+I might be back.	Ich werde vielleicht zurück sein.	मैं शायद वापस आ सकता हूँ।
+I might be late.	Ich könnte zu spät kommen.	मैं देर से आ सकता हूँ।
+I misjudged Tom.	Ich habe Tom falsch eingeschätzt.	मैंने टॉम की गलत समझ की।
