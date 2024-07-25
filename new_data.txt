@@ -16897,3 +16897,12 @@ I want to do that	Ich möchte das machen.	मैं वही करना च�
 I want to do this	Ich möchte das tun.	मैं यह करना चाहता हूँ।
 I want to eat now	Ich möchte jetzt essen.	मुझे अब खाना है।
 I want to give up	Ich möchte aufgeben.	मैं हारना चाहता हूँ।
+I want to go back.	Ich möchte zurückgehen.	मैं वापस जाना चाहता हूँ.
+I want to go home.	Ich will nach Hause gehen.	मैं घर जाना चाहता हूँ.
+I want to go, too.	Ich möchte auch gehen.	मैं भी जाना चाहता हूँ.
+I want to read it.	Ich möchte es lesen.	मैं इसे पढ़ना चाहता हूँ.
+I want to see Tom.	Ich möchte Tom sehen.	मैं टॉम को देखना चाहता हूँ.
+I want to see you.	Ich möchte dich sehen.	मैं तुम्हे देखना चाहता हूँ.
+I want you to win.	Ich möchte, dass du gewinnst.	मैं चाहता हूँ कि तुम जीतो.
+I want your money.	Ich möchte dein Geld.	मुझे आपके पैसे चाहिए.
+I wanted a jacket.	Ich wollte eine Jacke.	मुझे एक जैकेट चाहिए थी।
