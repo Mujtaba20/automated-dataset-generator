@@ -5422,3 +5422,13 @@ Who's humming?	Wer summt?	कौन गुनगुना रहा है?
 Who's missing?	Wer fehlt?	कौन गायब है?
 Who's staying?	Wer bleibt?	कौन रुका है?
 Who's talking?	Wer spricht?	कौन बात कर रहा है?
+Who's thirsty?	Wer hat Durst?	किसे प्यास लग रही है?
+Who's winning?	Wer gewinnt?	कौन विजयी है?
+Who's winning? 2	Wer ist im Vorteil?	कौन आगे है?
+Whose is this?	Wem gehört das?	यह किसका है?
+Why am I here?	Warum bin ich hier?	मैं यहाँ क्यों हूँ?
+Why blame Tom?	Warum die Schuld auf Tom schieben?	टॉम पर इलज़ लगाने कि क्यों?
+Why change it?	Warum es ändern?	यह क्यों बदलें?
+Will Tom sing?	Wird Tom singen?	क्या टॉम गाएगा?
+Will she come?	Wird sie kommen?	क्या वह आएगी?
+Will you help?	Wirst du helfen?	क्या तुम मदद करोगे?
