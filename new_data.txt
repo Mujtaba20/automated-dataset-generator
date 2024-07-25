@@ -1502,3 +1502,8 @@ Eat with us.	Esse mit uns.	हमारे साथ भोजन करो।
 Finish this.	Beendet dies.	इसे समाप्त करो।
 Flip a coin.	Münze werfen.	सिक्का फेंकिए।
 Forgive Tom.	Vergebt Tom.	टॉम को माफ करो।
+Get changed.	Sich umziehen.	बदल लेना।
+Get dressed.	Zieh dich an.	तैयार हो जाओ।
+Get in here!	Komm herein!	यहाँ आ जाओ!
+Get serious.	Nimm es ernst.	गंभीर हो जाओ।
+Get started.	Anfangen.	प्रारम्भ करें।
