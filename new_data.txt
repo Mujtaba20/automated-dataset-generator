@@ -8791,3 +8791,13 @@ I have freckles.	Ich habe Sommersprossen.	मुझे दाने हैं।
 I have homework.	Ich habe Hausaufgaben.	मेरे पास होमवर्क है।
 I have no fever.	Ich habe kein Fieber.	मुझे बुखार नहीं है।
 I have no horse.	Ich habe kein Pferd.	मेरे पास घोड़ा नहीं है।
+I have no money.	Ich habe kein Geld.	मेरे पास कोई पैसे नहीं हैं।
+I have no proof.	Ich habe keinen Beweis.	मेरे पास कोई सबूत नहीं है।
+I have returned.	Ich bin zurückgekehrt.	मैं वापस आ गया हूँ।
+I have ten pens.	Ich habe zehn Stifte.	मेरे पास दस कलम हैं।
+I have the keys.	Ich habe die Schlüssel.	मेरे पास चाबियाँ हैं।
+I have time now.	Ich habe jetzt Zeit.	मेरे पास अब समय है।
+I have to hurry!	Ich muss mich beeilen!	मुझे जल्दी करनी होगी!
+I have to sleep.	Ich muss schlafen.	मुझे सोना है।
+I have to study.	Ich muss studieren.	मुझे पढ़ाई करनी है।
+I have to think.	Ich muss nachdenken.	मुझे सोचना पड़ेगा।
