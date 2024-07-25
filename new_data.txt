@@ -14088,3 +14088,11 @@ Tom has gone out.	Tom ist rausgegangen.	टॉम बाहर गया है�
 Tom has immunity.	Tom hat Immunität.	टॉम की प्रतिरक्षा है।
 Tom has insomnia.	Tom hat Schlaflosigkeit.	टॉम को नींद नहीं आ रही है।
 Tom has it wrong.	Tom hat es falsch verstanden.	टॉम गलत समझा है।
+Tom has kids now.	Tom hat jetzt Kinder.	टॉम के पास अब बच्चे हैं।
+Tom has leukemia.	Tom hat Leukämie.	टॉम को ल्यूकेमिया है।
+Tom has no money.	Tom hat kein Geld.	टॉम के पास पैसे नहीं हैं।
+Tom has one, too.	Tom hat auch einen.	टॉम के पास भी एक है।
+Tom has problems.	Tom hat Probleme.	टॉम के पास समस्याएं हैं।
+Tom has resigned.	Tom hat gekündigt.	टॉम ने इस्तीफा दिया है।
+Tom has returned.	Tom ist zurückgekehrt.	टॉम वापस आ गया है।
+Tom has the keys.	Tom hat die Schlüssel.	टॉम के पास चाबियाँ हैं।
