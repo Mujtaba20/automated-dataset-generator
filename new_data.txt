@@ -15133,3 +15133,13 @@ What a cute girl!	Was für ein süßes Mädchen!	बेहद प्यारी
 What a fine view!	Was für eine wunderbare Aussicht!	क्या शानदार दृश्य है!
 What a fine view! (different meaning)	Was für eine schöne Aussicht!	कितना शानदार नज़ार है!
 What a funny man!	Was für ein lustiger Mann!	कितने मजेदार आदमी हैं!
+What a good idea!	Was für eine gute Idee!	क्या अच्छा विचार है!
+What a good shot!	Was für ein guter Schuss!	क्या अच्छा शॉट है!
+What a good shot!_1	Was für ein toller Schuss!	यह कौन सा अच्छा चट्टान है!
+What a heavy bag!	Was für eine schwere Tasche!	कितना भारी था बैग!
+What a hypocrite!	Was für ein Heuchler!	कितना कपटी था!
+What a nice idea!	Was für eine schöne Idee!	क्या शानदार विचार है!
+What a nightmare!	Was für ein Albtraum!	कितना डरावना सपना था!
+What a nightmare!_1	Was für ein Horror!	यह कौन सा डरावना सपना है!
+What a smart guy!	Was für ein schlauer Kerl!	कितना स्मार्ट आदमी है!
+What caused that?	Was hat das verursacht?	इसका कारण क्या है?
