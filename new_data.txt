@@ -17301,3 +17301,11 @@ It hurts terribly.	Es tut furchtbar weh.	यह बेहद चोट लगत
 It is a good cake.	Es ist ein guter Kuchen.	यह एक अच्छा केक है।
 It is a small dog.	Es ist ein kleiner Hund.	यह एक छोटा कुत्ता है।
 It is a white lie.	Es ist eine Notlüge.	यह एक सफेद झूठ है।
+It is bad weather.	Das Wetter ist schlecht.	यह बुरा मौसम है।
+It is clearing up.	Es klart auf.	यह स्पष्ट हो रहा है।
+It is not raining.	Es regnet nicht.	बारिश नहीं हो रही है।
+It is pretty cold.	Es ist ziemlich kalt.	यह काफी ठंडा है।
+It is snowing now.	Es schneit jetzt.	अभी बर्फ़ गिर रही है।
+It is sunny today.	Heute ist es sonnig.	आज सूर्य प्रकाशित है।
+It is windy today.	Es ist windig heute.	आज हवा चल रही है।
+It isn't a secret.	Es ist kein Geheimnis.	यह एक रहस्य नहीं है।
