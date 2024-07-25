@@ -19053,3 +19053,13 @@ Tom never married.	Tom hat nie geheiratet.	टॉम ने कभी शाद�
 Tom never paid me.	Tom hat mir nie bezahlt.	टॉम ने मुझे कभी पैसे नहीं दिए।
 Tom never said no.	Tom hat nie nein gesagt.	टॉम ने कभी नहीं कहा।
 Tom never stopped.	Tom hat nie aufgehört.	टॉम कभी नहीं रुका।
+Tom never told me.	Tom hat mir nie gesagt.	टॉम ने कभी मुझे नहीं बताया।
+Tom never was shy.	Tom war nie schüchtern.	टॉम कभी भी शर्मीला नहीं था।
+Tom never woke up.	Tom ist nie aufgewacht.	टॉम कभी नहीं जागा।
+Tom nodded slowly.	Tom nickte langsam.	टॉम धीरे से सिर हिलाया।
+Tom offended Mary.	Tom hat Mary beleidigt.	टॉम ने मेरी को ठेस पहुंचाई।
+Tom opened a beer.	Tom öffnete ein Bier.	टॉम ने एक बीयर खोली।
+Tom opened a book.	Tom öffnete ein Buch.	टॉम ने एक किताब खोली।
+Tom ordered lunch.	Tom bestellte das Mittagessen.	टॉम ने लंच की आदेश दी।
+Tom ordered pizza.	Tom bestellte Pizza.	टॉम ने पिज़्ज़ा की आदेश दी।
+Tom ought to know.	Tom sollte es wissen.	टॉम को जानना चाहिए।
