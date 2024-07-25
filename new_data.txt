@@ -8773,3 +8773,11 @@ I hate this rug.	Ich hasse diesen Teppich.	मुझे इस कालीन �
 I hate weddings.	Ich hasse Hochzeiten.	मुझे शादियों से नफरत है।
 I have a camera.	Ich habe eine Kamera.	मेरे पास एक कैमरा है।
 I have a donkey.	Ich habe einen Esel.	मेरे पास एक गधा है।
+I have a family.	Ich habe eine Familie.	मेरे पास एक परिवार है।
+I have a garden.	Ich habe einen Garten.	मेरे पास एक बगीचा है।
+I have a laptop.	Ich habe einen Laptop.	मेरे पास एक लैपटॉप है।
+I have a lawyer.	Ich habe einen Anwalt.	मेरे पास एक वकील है।
+I have a minute.	Ich habe eine Minute.	मेरे पास एक मिनट है।
+I have a sister.	Ich habe eine Schwester.	मेरे पास एक बहन है।
+I have a theory.	Ich habe eine Theorie.	मेरे पास एक सिद्धांत है।
+I have a ticket.	Ich habe ein Ticket.	मेरे पास एक टिकट है।
