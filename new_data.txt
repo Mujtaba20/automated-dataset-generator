@@ -9567,3 +9567,10 @@ It's very cheap.	Es ist sehr günstig.	यह बहुत सस्ता ह�
 It's quite inexpensive.	Es ist ziemlich preiswert.	यह काफी सस्ता है।
 It's extremely affordable.	Es ist extrem erschwinglich.	यह बहुत ही किफायती है।
 It's very clean.	Es ist sehr sauber.	यह बहुत साफ है।
+It's very early.	Es ist sehr früh.	यह बहुत जल्दी है।
+It's very small.	Es ist sehr klein.	यह बहुत छोटा है।
+It's very white.	Es ist sehr weiß.	यह बहुत सफ़ेद है।
+It's very windy.	Es ist sehr windig.	यह बहुत हवादार है।
+It's warm today.	Es ist heute warm.	आज गर्मी है।
+It's your fault.	Es ist deine Schuld.	यह तुम्हारी ग़लती है।
+It's your money.	Es ist dein Geld.	यह तुम्हारे पैसे हैं।
