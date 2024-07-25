@@ -2953,3 +2953,13 @@ Is it a deer?	Ist es ein Hirsch?	क्या यह हिरन है?
 Is it a wolf?	Ist es ein Wolf?	क्या यह एक भेड़िया है?
 Is it broken?	Ist es kaputt?	क्या यह टूटा हुआ है?
 Is it cancer?	Ist es Krebs?	क्या यह कैंसर है?
+Is it enough?	Ist es genug?	क्या यह काफी है?
+Is it for me?	Ist es für mich?	क्या यह मेरे लिए है?
+Is it nearby?	Ist es in der Nähe?	क्या यह नजदीक है?
+Is that a no?	Ist das ein Nein?	क्या वह एक नहीं है?
+Is that blue?	Ist das blau?	क्या वह नीला है?
+Is that fair?	Ist das fair?	क्या वह उचित है?
+Is that love?	Ist das Liebe?	क्या वह प्यार है?
+Is that mine?	Ist das meins?	क्या वह मेरा है?
+Is that real?	Ist das echt?	क्या वह वास्तविक है?
+Is that salt?	Ist das Salz?	क्या वह नमक है?
