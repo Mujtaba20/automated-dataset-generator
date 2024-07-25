@@ -14707,3 +14707,12 @@ Tom wants to run.	Tom möchte rennen.	टॉम दौड़ना चाहत�
 Tom was a farmer.	Tom war ein Bauer.	टॉम किसान था।
 Tom was a friend.	Tom war ein Freund.	टॉम एक दोस्त था।
 Tom was a lawyer.	Tom war ein Anwalt.	टॉम वकील था।
+Tom was addicted.	Tom war süchtig.	टॉम नशे में था।
+Tom was all ears.	Tom war ganz Ohr.	टॉम बिल्कुल ध्यान में था।
+Tom was annoying.	Tom war nervig.	टॉम खिचड़ी था।
+Tom was appalled.	Tom war entsetzt.	टॉम भयभीत था।
+Tom was attacked.	Tom wurde angegriffen.	टॉम पर हमला हुआ था।
+Tom was babbling.	Tom redete wirres Zeug.	टॉम गपशप कर रहा था।
+Tom was barefoot.	Tom war barfuß.	टॉम नंगे पैर था।
+Tom was bleeding.	Tom blutete.	टॉम खून बहा रहा था।
+Tom was bluffing.	Tom blufte.	टॉम ढोंग कर रहा था।
