@@ -13341,3 +13341,11 @@ My cat is hungry.	Meine Katze hat Hunger.	मेरी बिल्ली भू
 My cat is hungry. (Different Translation)	Meine Katze ist hungrig.	मेरी बिल्ली भूखी है।
 My dog has fleas.	Mein Hund hat Flöhe.	मेरे कुत्ते पर खुजली है।
 My dog likes you.	Mein Hund mag dich.	मेरा कुत्ता तुम्हें पसंद करता है।
+My eyes are blue.	Meine Augen sind blau.	मेरी आँखें नीली हैं।
+My eyes are sore.	Meine Augen tun weh.	मेरी आँखें चुभ रही हैं।
+My face twitches.	Mein Gesicht zuckt.	मेरा चेहरा झटकता है।
+My father is out.	Mein Vater ist draußen.	मेरे पिताजी बाहर हैं।
+My father smokes.	Mein Vater raucht.	मेरे पिताजी धूम्रपान करते हैं।
+My feet are numb.	Meine Füße sind taub.	मेरे पैर सुन्न हैं।
+My glass is full.	Mein Glas ist voll.	मेरा गिलास भरा हुआ है।
+My goldfish died.	Mein Goldfisch ist gestorben.	मेरा सोने का मछली मर गया।
