@@ -871,3 +871,13 @@ Don't brag.	Nicht angeben.	गर्व मत करो।
 Don't come.	Nicht kommen.	न आओ।
 Don't jump!	Nicht springen!	उछलो मत!
 Don't look.	Nicht schauen.	न देखो।
+Don't move.	Beweg dich nicht.	हिल मत.
+Don't move. (different meaning)	Bewegen Sie sich nicht.	चल नहीं सकते हैं।
+Don't peek.	Nicht gucken.	न झांकें।
+Don't push.	Nicht schieben.	धकेलना मत।
+Don't sing.	Nicht singen.	न गाएं।
+Don't stop.	Nicht stoppen.	रुको नहीं।
+Don't talk!	Nicht reden!	बात मत करो!
+Don't talk! (different meaning)	Nicht sprechen!	खामोश!
+Don't wait.	Nicht warten.	रुको मत।
+Don't wait. (different meaning)	Nicht abwarten.	रुकने का कोई मतलब नहीं है।
