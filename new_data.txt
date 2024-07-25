@@ -14248,3 +14248,13 @@ Tom is merciless. - Different Meaning	Tom ist gnadenlos.	टॉम क्रू�
 Tom is miserable.	Tom ist elend.	टॉम दु:खी है।
 Tom is mortified.	Tom ist beschämt.	टॉम शर्मिंदा है।
 Tom is motivated.	Tom ist motiviert.	टॉम प्रेरित है।
+Tom is moving in.	Tom zieht ein.	टॉम शिफ्ट हो रहे हैं।
+Tom is muttering.	Tom murmelt.	टॉम बुलबुले में बोल रहे हैं।
+Tom is my cousin.	Tom ist mein Cousin.	टॉम मेरा चचेरा भाई है।
+Tom is my doctor.	Tom ist mein Arzt.	टॉम मेरे डॉक्टर हैं।
+Tom is my father.	Tom ist mein Vater.	टॉम मेरे पिता हैं।
+Tom is my friend.	Tom ist mein Freund.	टॉम मेरा दोस्त है।
+Tom is my lawyer.	Tom ist mein Anwalt.	टॉम मेरे वकील हैं।
+Tom is my nephew.	Tom ist mein Neffe.	टॉम मेरा भांजा है।
+Tom is necessary.	Tom ist notwendig.	टॉम जरूरी है।
+Tom is negligent.	Tom ist nachlässig.	टॉम लापरवाह है।
