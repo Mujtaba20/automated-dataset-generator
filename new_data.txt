@@ -1719,3 +1719,11 @@ I want more time.	Ich will mehr Zeit.	मुझे और समय चाहि
 I was alone.	Ich war allein.	मैं अकेला था।
 I was angry.	Ich war wütend.	मैं गुस्सा था।
 I was awake.	Ich war wach.	मैं जागा था।
+I was bored.	Ich war gelangweilt.	मैं उबाऊ था।
+I was dizzy.	Mir war schwindlig.	मुझे चक्कर आ रहे थे।
+I was drunk.	Ich war betrunken.	मैं नशे में था।
+I was fired.	Ich wurde entlassen.	मुझे नौकरी छोड़ने के लिए कहा गया था।
+I was happy.	Ich war glücklich.	मैं खुश था।
+I was hired.	Ich wurde eingestellt.	मुझे नौकरी मिल गई थी।
+I was lucky.	Ich hatte Glück.	मैं भाग्यशाली था।
+I was lying.	Ich lag.	मैं झुट बोल रहा था।
