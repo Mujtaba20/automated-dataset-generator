@@ -10790,3 +10790,11 @@ engSentence7	Tom drehte sich um.	टॉम ने पीछे मुड़ ल�
 engSentence8	Tom drehte sich um.	टॉम ने पलट दिया।
 engSentence9	Tom wurde blass.	टॉम पीला पड़ गया।
 engSentence10	Tom wurde bleich.	टॉम पीला पड़ गया।
+Tom understands.	Tom versteht.	टॉम समझता है।
+Tom volunteered.	Tom meldete sich freiwillig.	टॉम ने स्वैच्छिक रूप से दान किया।
+Tom walked away.	Tom ging weg.	टॉम दूर चला गया।
+Tom walked fast.	Tom lief schnell.	टॉम जल्दी चला।
+Tom walked home.	Tom ging nach Hause.	टॉम घर चला गया।
+Tom walked past.	Tom ging vorbei.	टॉम समय के साथ चला गया।
+Tom wanted Mary.	Tom wollte Mary.	टॉम चाहता था मेरी।
+Tom wanted more.	Tom wollte mehr.	टॉम और चाहता था।
