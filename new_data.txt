@@ -4754,3 +4754,10 @@ She can skate.	Sie kann skaten.	वह स्केट कर सकती ह�
 She can't ski.	Sie kann nicht Ski fahren.	वह स्की नहीं कर सकती।
 She could die.	Sie könnte sterben.	वह मर सकती थी।
 She dumped me.	Sie hat Schluss gemacht.	उसने मुझसे ताल्लुक़ तोड़ दिया।
+She got angry.	Sie wurde wütend.	उसने गुस्सा किया।
+She hated him.	Sie verabscheute ihn.	उसे घृणा थी।
+She hates him.	Sie hasst ihn.	वह उसे नफरत करती है।
+She helps him.	Sie hilft ihm.	वह उसकी मदद करती है।
+She hired him.	Sie hat ihn eingestellt.	उसने उसे रखा था।
+She is a twin.	Sie ist eine Zwillingsschwester.	वह एक जुड़वां है।
+She is active.	Sie ist aktiv.	वह सक्रिय है।
