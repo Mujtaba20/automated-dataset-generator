@@ -16300,3 +16300,11 @@ I can play Chopin.	Ich kann Chopin spielen.	मैं शोपेन बजा 
 I can play soccer.	Ich kann Fußball spielen.	मैं सॉकर खेल सकता हूँ।
 I can play tennis.	Ich kann Tennis spielen.	मैं टेनिस खेल सकता हूँ।
 I can protect you.	Ich kann dich beschützen.	मैं तुम्हें सुरक्षित रख सकता हूँ।
+I can ride a bike.	Ich kann Fahrrad fahren.	मैं साइकिल चला सकता हूँ।
+I can't afford it.	Ich kann es mir nicht leisten.	मुझसे इसका खर्च नहीं हो सकता।
+I can't be bought.	Ich kann nicht gekauft werden.	मुझे खरीदा नहीं जा सकता है।
+I can't blame him.	Ich kann ihn nicht beschuldigen.	मैं उसे दोष नहीं दे सकता।
+I can't blame you.	Ich kann dich nicht beschuldigen.	मैं तुम्हें दोष नहीं दे सकता।
+I can't buy a car.	Ich kann kein Auto kaufen.	मैं एक कार नहीं खरीद सकता।
+I can't deny that.	Ich kann das nicht leugnen.	मैं उसे नकार नहीं सकता।
+I can't do it now.	Ich kann es jetzt nicht machen.	मैं अब इसे नहीं कर सकता।
