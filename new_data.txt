@@ -12456,3 +12456,13 @@ I knew the risks.	Ich kannte die Risiken.	मुझे खतरों का �
 I know I'm right.	Ich weiß, dass ich recht habe.	मुझे पता है कि मैं सही हूँ।
 I know Tom is in.	Ich weiß, dass Tom dabei ist.	मुझे पता है कि टॉम में है।
 I know Tom knows.	Ich weiß, dass Tom weiß.	मुझे पता है कि टॉम को पता है।
+I know about Tom.	Ich weiß über Tom Bescheid.	मुझे टॉम के बारे में पता है।
+I know about you.	Ich weiß über dich Bescheid.	मुझे आपके बारे में पता है।
+I know he did it.	Ich weiß, dass er es getan hat.	मुझे पता है कि उसने यह किया है।
+I know how it is.	Ich weiß, wie es ist.	मुझे पता है कि यह कैसा है।
+I know it myself.	Ich kenne es selbst.	मुझे खुद का पता है।
+I know it's hard.	Ich weiß, dass es schwer ist.	मुझे पता है कि यह मुश्किल है।
+I know it's true.	Ich weiß, dass es wahr ist.	मुझे पता है कि यह सच है।
+I know my rights.	Ich kenne meine Rechte.	मुझे मेरे अधिकारों का पता है।
+I know only this.	Ich weiß nur das.	मुझे सिर्फ यह पता है।
+I know that look.	Ich kenne diesen Blick.	मुझे वह नजर अच्छी तरह से पता है।
