@@ -8548,3 +8548,12 @@ He went surfing.	Er ist surfen gegangen.	उसने सर्फिंग प�
 He will survive.	Er wird überleben.	वह ज़िंदा रहेगा।
 He wore glasses.	Er hatte eine Brille auf.	उसने ग्लासेस पहने थे।
 He writes books.	Er schreibt Bücher.	वह किताबें लिखता है।
+He's a bad liar.	Er ist ein schlechter Lügner.	वह एक बुरा झूठा है।
+He's a comedian.	Er ist ein Komiker.	वह एक हास्य कलाकार है।
+He's a frat boy.	Er ist ein Mitglied einer Studentenverbindung.	वह एक मित्रभेद लड़का है।
+He's a gardener.	Er ist ein Gärtner.	वह एक माली है।
+He's a good boy.	Er ist ein braver Junge.	वह एक अच्छे लड़के है।
+He's a real man.	Er ist ein echter Mann.	वह एक असली मर्द है।
+He's a southpaw.	Er ist Linkshänder.	वह एक कूल्हे वाला है।
+He's antisocial.	Er ist ungesellig.	वह सामाजिक नहीं है।
+He's dead-tired.	Er ist hundemüde.	वह मरी हुई थका हुआ है।
