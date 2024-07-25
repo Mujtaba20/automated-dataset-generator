@@ -13775,3 +13775,12 @@ There's no water.	Es gibt kein Wasser.	कोई पानी नहीं ह�
 There's the bell.	Da ist die Klingel.	घंटी है।
 These are my CDs.	Das sind meine CDs.	ये मेरी सीडी हैं।
 They all cheated.	Sie haben alle betrogen.	उन सभी ने धोखा दिया।
+They all drowned.	Sie ertranken alle.	उन सब नहा डाले।
+They all love me.	Sie alle lieben mich.	उन सब मुझसे प्यार करते हैं।
+They appear dead.	Sie scheinen tot zu sein.	वे मरे हुए लगते हैं।
+They are Russian.	Sie sind Russen.	वे रूसी हैं।
+They are singers.	Sie sind Sänger.	वे गायक हैं।
+They aren't dead.	Sie sind nicht tot.	वे मरे नहीं हैं।
+They aren't here.	Sie sind nicht hier.	वे यहाँ नहीं हैं।
+They aren't mine.	Sie gehören nicht mir.	वे मेरे नहीं हैं।
+They aren't rich.	Sie sind nicht reich.	वे धनवान नहीं हैं।
