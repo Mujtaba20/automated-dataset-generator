@@ -6396,3 +6396,11 @@ I'm behind you.	Ich bin hinter dir.	मैं तुम्हारे पीछ
 I'm being used.	Ich werde benutzt.	मैं इस्तेमाल हो रहा हूँ।
 I'm bored, too.	Ich bin auch gelangweilt.	मुझे भी उबाऊ लग रहा है।
 I'm busy today.	Ich bin heute beschäftigt.	मैं आज व्यस्त हूँ।
+I'm called Tom.	Ich heiße Tom.	मुझे टॉम कहा जाता है।
+I'm dead tired.	Ich bin hundemüde.	मैं मरा हुआ थका हुआ हूं।
+I'm devastated.	Ich bin am Boden zerstört.	मैं बर्बाद हूँ।
+I'm doing fine.	Mir geht es gut.	मैं ठीक हूँ।
+I'm doing well.	Mir geht es gut.	मैं अच्छा कर रहा हूँ।
+I'm doing okay.	Es geht mir gut.	मैं ठीक हूँ।
+I'm downstairs.	Ich bin unten.	मैं नीचे हूँ।
+I'm eating now.	Ich esse jetzt.	मैं अब खा रहा हूँ।
