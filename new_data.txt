@@ -7922,3 +7922,11 @@ What'll Tom do?	Was wird Tom tun?	टॉम क्या करेगा?
 What'll change?	Was wird sich ändern?	क्या बदलेगा?
 What'll happen?	Was wird passieren?	क्या होने वाला है?
 What'll you do?	Was wirst du tun?	तुम क्या करोगे?
+What's Tom got?	Was hat Tom?	टॉम के पास क्या है?.
+What's in here?	Was ist hier drin?	यहाँ क्या है?
+What's it like?	Wie ist es?	यह कैसा है?
+What's missing?	Was fehlt?	क्या छूट रहा है?
+What's the use?	Was ist der Nutzen?	उपयोग क्या है?
+What's up, Tom?	Was ist los, Tom?	क्या हाल है, टॉम?
+Where am I now?	Wo bin ich jetzt?	मैं अभी कहाँ हूँ?
+Where is Paris?	Wo ist Paris?	पेरिस कहाँ है?
