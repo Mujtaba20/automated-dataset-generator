@@ -10798,3 +10798,13 @@ Tom walked home.	Tom ging nach Hause.	टॉम घर चला गया।
 Tom walked past.	Tom ging vorbei.	टॉम समय के साथ चला गया।
 Tom wanted Mary.	Tom wollte Mary.	टॉम चाहता था मेरी।
 Tom wanted more.	Tom wollte mehr.	टॉम और चाहता था।
+Tom wanted that.	Tom wollte das.	टॉम चाहता था।
+Tom wanted this.	Tom wollte dies.	टॉम चाहता है।
+Tom wants a dog.	Tom möchte einen Hund.	टॉम कुत्ता चाहता है।
+Tom wants a dog. (Different meaning)	Tom will einen Hund.	टॉम एक कुत्ता चाहता है।
+Tom wants a job.	Tom möchte einen Job.	टॉम नौकरी चाहता है।
+Tom wants money.	Tom will Geld.	टॉम को पैसे चाहिए।
+Tom wants to go.	Tom möchte gehen.	टॉम जाना चाहता है।
+Tom warned Mary.	Tom warnte Maria.	टॉम ने मेरी को चेतावनी दी।
+Tom was abusive.	Tom war beleidigend.	टॉम क्रूर था।
+Tom was adamant.	Tom war unerbittlich.	टॉम अटल था।
