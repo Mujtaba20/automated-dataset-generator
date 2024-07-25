@@ -10368,3 +10368,13 @@ Tom is clueless.	Tom hat keine Ahnung.	टॉम निराशा में �
 Tom is confused.	Tom ist verwirrt.	टॉम भ्रमित है।
 Tom is coughing.	Tom hustet.	टॉम खांसी कर रहा है।
 Tom is creative.	Tom ist kreativ.	टॉम रचनात्मक है।
+Tom is credible.	Tom ist glaubwürdig.	टॉम विश्वसनीय है।
+Tom is cultured.	Tom ist kultiviert.	टॉम सभ्य है।
+Tom is dead now.	Tom ist jetzt tot.	टॉम अब मर गया है।
+Tom is decisive.	Tom ist entscheidend.	टॉम निर्णायक है।
+Tom is dejected.	Tom ist niedergeschlagen.	टॉम उदास है।
+Tom is delicate.	Tom ist zart.	टॉम कोमल है।
+Tom is depraved.	Tom ist verdorben.	टॉम दुष्ट है।
+Tom is deranged.	Tom ist wahnsinnig.	टॉम पागल है।
+Tom is diabetic.	Tom ist diabetisch.	टॉम मधुमेही है।
+Tom is diligent.	Tom ist fleißig.	टॉम मेहनती है।
