@@ -15754,3 +15754,11 @@ Do you want a car?	Möchtest du ein Auto?	क्या आपको एक क�
 Do you want a sip?	Möchtest du einen Schluck?	क्या आपको एक चुम्बक चाहिए?
 Do you want cream?	Möchtest du Sahne?	क्या आपको क्रीम चाहिए?
 Do you want money?	Möchtest du Geld?	क्या आपको पैसे चाहिए?
+Do you want these?	Möchtest du diese?	क्या तुम ये चाहते हो?
+Do you want to go?	Möchtest du gehen?	क्या तुम जाना चाहते हो?
+Do you wish to go?	Möchtest du gehen?	क्या तुम जाना चाहते हो?
+Do your very best.	Gib dein Bestes.	अपनी सबसे अच्छी कोशिश करो।
+Does Tom disagree?	Ist Tom anderer Meinung?	क्या टॉम असहमत है?
+Does Tom eat fish?	Isst Tom Fisch?	क्या टॉम मछली खाता है?
+Does Tom enjoy it?	Genießt Tom es?	क्या टॉम का मजा आ रहा है?
+Does Tom have one?	Hat Tom eins?	क्या टॉम के पास एक है?
