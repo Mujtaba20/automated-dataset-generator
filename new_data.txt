@@ -15582,3 +15582,10 @@ Call an ambulance.	Rufen Sie einen Krankenwagen an.	किसी अम्बु
 Call her tomorrow.	Ruf sie morgen an.	कल उससे बात करो।
 Call the hospital.	Rufen Sie das Krankenhaus an.	अस्पताल को फ़ोन करें।
 Call your brother.	Ruf deinen Bruder an.	अपने भाई को कॉल करें।
+Call your sisters.	Rufe deine Schwestern an.	अपनी बहनों को बुलाओ।
+Can I ask why not?	Kann ich fragen, warum nicht?	क्या मैं पूछ सकता हूँ कि क्यों नहीं?
+Can I borrow this?	Kann ich das ausleihen?	क्या मैं यह उधार ले सकता हूँ?
+Can I do it again?	Kann ich es noch einmal machen?	क्या मैं इसे फिर से कर सकता हूँ?
+Can I go home now?	Kann ich jetzt nach Hause gehen?	क्या मैं अब घर जा सकता हूँ?
+Can I go with you?	Kann ich mit dir gehen?	क्या मैं तुम्हारे साथ जा सकता हूँ?
+Can I have a bite?	Kann ich einen Bissen haben?	क्या मैं एक चबा सकता हूँ?
