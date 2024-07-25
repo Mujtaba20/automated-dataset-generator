@@ -3870,3 +3870,11 @@ Get over here.	Komm hier rüber.	यहाँ आओ।
 Get some rest.	Mach mal Pause.	ठहरो।
 Give him time.	Gib ihm Zeit.	उसे समय दो।
 Give it a try.	Probier es.	इसे एक मौक़ा दो।
+Give it to me!	Gib es mir!	मुझे दे दो!
+Give it to me.	Gib es mir.	मुझे दे दो।
+Give me a day.	Gib mir einen Tag.	मुझे एक दिन दो।
+Give me a few.	Gib mir ein paar.	मुझे कुछ दे।
+Give me a hug.	Umarme mich.	मुझे गले लगा दो।
+Give me a sec.	Gib mir eine Sekunde.	मुझे एक सेकंड दे।
+Give me those.	Gib mir diejenigen.	मुझे वे दे।
+Go downstairs.	Gehe hinunter.	नीचे जाओ।
