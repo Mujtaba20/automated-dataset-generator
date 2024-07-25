@@ -12312,3 +12312,11 @@ I don't know him.	Ich kenne ihn nicht.	मुझे उसे नहीं प�
 I don't know why.	Ich weiß nicht warum.	मुझे नहीं पता क्यों।
 I don't know yet.	Ich weiß noch nicht.	मुझे अभी तक नहीं पता।
 I don't know you.	Ich kenne dich nicht.	मुझे तुम्हें नहीं पता।
+I don't like Tom.	Ich mag Tom nicht.	मुझे टॉम Pasand नहीं है।
+I don't like him.	Ich mag ihn nicht.	मुझे वह Pasand नहीं है।
+I don't like you.	Ich mag dich nicht.	मुझे तुम Pasand नहीं हो।
+I don't love Tom.	Ich liebe Tom nicht.	मैं टॉम से प्यार नहीं करता।
+I don't love her.	Ich liebe sie nicht.	मैं उससे प्यार नहीं करता।
+I don't love you.	Ich liebe dich nicht.	मैं तुमसे प्यार नहीं करता।
+I don't mean you.	Ich meine nicht dich.	मैं तुम्हारा मतलब नहीं हूँ।
+I don't mean you. - Different meaning	Ich meine dich nicht ernst.	मैं तुम्हें गंभीर नहीं मानता।
