@@ -11768,3 +11768,11 @@ Don't do it, Tom.	Tu es nicht, Tom.	यह मत करो, टॉम।
 Don't forget Tom.	Vergiss nicht Tom.	तोम को न भूलें।
 Don't get caught.	Nicht geschnappt werden.	फँसे न रहें।
 Don't go so fast!	Geh nicht so schnell!	इतनी तेजी से मत जाओ!
+Don't harass Tom.	Belästige nicht Tom.	टॉम की परेशानी न करें।
+Don't insult Tom.	Beleidige Tom nicht.	टॉम का अपमान न करें।
+Don't leave town.	Verlasse die Stadt nicht.	शहर छोड़ो मत।
+Don't leave, Tom.	Geh nicht weg, Tom.	चला मत जाओ, टॉम।
+Don't let me die.	Lass mich nicht sterben.	मुझे मरने मत दो।
+Don't look at it.	Schau es dir nicht an.	उस पर मत देखो।
+Don't look at me.	Schau mich nicht an.	मुझ पर मत देखो।
+Don't look at us.	Schau uns nicht an.	हमें मत देखो।
