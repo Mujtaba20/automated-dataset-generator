@@ -16651,3 +16651,10 @@ I like to be here.	Ich bin gerne hier.	मुझे यहाँ होना �
 I like to do that.	Ich mache das gerne.	मुझे वह करना पसंद है।
 I like what I see.	Mir gefällt, was ich sehe.	मुझे वह पसंद है जो मैं देख रहा हूँ।
 I like your beard.	Mir gefällt dein Bart.	मुझे तुम्हारी दाढ़ी पसंद है।
+I like your shirt.	Ich mag dein Hemd.	मुझे तुम्हारी कमीज़ पसंद है।
+I like your style.	Mir gefällt dein Stil.	मुझे तेरा शैली पसंद है।
+I liked that book.	Ich mochte dieses Buch.	मुझे वह किताब पसंद थी।
+I liked the movie.	Der Film hat mir gefallen.	मुझे वह फिल्म पसंद आई।
+I liked this book.	Ich mochte dieses Buch.	मुझे यह किताब पसंद थी।
+I liked this film.	Der Film hat mir gefallen.	मुझे यह फिल्म पसंद आई।
+I listen to music.	Ich höre Musik.	मैं संगीत सुनता हूँ।
