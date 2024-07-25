@@ -15001,3 +15001,13 @@ We met in Boston.	Wir trafen uns in Boston.	हम बोस्टन में 
 We met last week.	Wir trafen uns letzte Woche.	हम पिछले हफ्ते मिले।
 We met on Sunday.	Wir trafen uns am Sonntag.	हम रविवार को मिले।
 We misjudged Tom.	Wir haben Tom falsch eingeschätzt.	हमने टॉम का गलत मूल्यांकन किया।
+We miss you, too.	Wir vermissen dich auch.	हमें भी तुम्हारी याद आती है।
+We must be quiet.	Wir müssen leise sein.	हमें चुप रहना चाहिए।
+We must get help.	Wir müssen Hilfe holen.	हमें मदद लेनी चाहिए।
+We must help Tom.	Wir müssen Tom helfen.	हमें टॉम की मदद करनी चाहिए।
+We must stop Tom.	Wir müssen Tom stoppen.	हमें टॉम को रोकना चाहिए।
+We must warn him.	Wir müssen ihn warnen.	हमें उसे चेतावनी देनी चाहिए।
+We need a doctor.	Wir brauchen einen Arzt.	हमें एक डॉक्टर की आवश्यकता है।
+We need evidence.	Wir brauchen Beweise.	हमें सबूतों की आवश्यकता है।
+We need it badly.	Wir brauchen es dringend.	हमें इसकी बहुत जरुरत है।
+We need somebody.	Wir brauchen jemanden.	हमें किसी की आवश्यकता है।
