@@ -6094,3 +6094,10 @@ I like English.	Ich mag Englisch.	मुझे अंग्रेजी पस�
 I like castles.	Ich mag Burgen.	मुझे किलें पसंद हैं।
 I like cookies.	Ich mag Kekse.	मुझे कुकीज़ पसंद हैं।
 I like drawing.	Ich mag Zeichnen.	मुझे ड्राइंग पसंद है।
+I like fishing.	Ich mag das Angeln.	मुझे मछली पकड़ना पसंद है।
+I like it here.	Ich mag es hier.	मुझे यहाँ पसंद है।
+I like it, too.	Das gefällt mir auch.	मुझे भी यह पसंद है।
+I like ketchup.	Ich mag Ketchup.	मुझे केचप पसंद है।
+I like lettuce.	Ich mag den Salat.	मुझे सलाद पसंद है।
+I like mahjong.	Ich mag Mahjong.	मुझे माहजोंग खेलना पसंद है।
+I like my bike.	Ich mag mein Fahrrad.	मुझे मेरी बाइक पसंद है।
