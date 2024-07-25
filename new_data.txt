@@ -17451,3 +17451,11 @@ It's three pounds.	Es macht drei Pfund.	यह तीन पाउंड का 
 It's time for bed.	Es ist Zeit fürs Bett.	सोने का समय है।
 It's time to quit.	Es ist Zeit aufzuhören.	बंद करने का समय है।
 It's to the point.	Es ist auf den Punkt gebracht.	इस बिंदु पर है।
+It's too far away.	Es ist zu weit weg.	यह बहुत दूर है।
+It's too late now.	Es ist jetzt zu spät.	अब बहुत देर हो गई है।
+It's twice as big.	Es ist doppelt so groß.	यह दोगुना बड़ा है।
+It's unacceptable.	Es ist inakzeptabel.	यह अस्वीकार्य है।
+It's unbelievable.	Es ist unglaublich.	यह अविश्वसनीय है।
+It's very healthy.	Es ist sehr gesund.	यह बहुत स्वस्थ है।
+It's very strange.	Es ist sehr seltsam.	यह बहुत अजीब है।
+It's what Tom had.	Es ist das, was Tom hatte.	यह वह है जिसके पास टॉम था।

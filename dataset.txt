@@ -1,14 +1,4 @@
 
-It's too far away.	Es ist zu weit weg.	यह बहुत दूर भी है।
-It's too far away.	Es ist zu weit entfernt.	यह बहुत दूर है।
-It's too late now.	Es ist jetzt zu spät.	अब बहुत देर हो चुकी है।
-It's too late now.	Jetzt ist es zu spät.	अब बहुत देर हो चुकी है।
-It's twice as big.	Es ist doppelt so groß.	यह दोगुना बड़ा है।
-It's unacceptable.	Es ist inakzeptabel.	यह अस्वीकार्य है।
-It's unbelievable.	Es ist unglaublich.	यह विस्मयकरी है।
-It's very healthy.	Das ist sehr gesund.	यह बहुत स्वस्थ है।
-It's very strange.	Das ist sehr seltsam.	यह बहुत अजीब है।
-It's what Tom had.	Es ist das, was Tom hatte.	यह वही है जो टॉम के पास था।
 It's worth a shot.	Es ist einen Versuch wert.	यह आजमाने के काबिल है।
 It's worth a trip.	Es lohnt eine Reise.	यह एक यात्रा के लायक है।
 It's wrong to lie.	Es ist falsch zu lügen.	झूठ बोलना गलत है।
