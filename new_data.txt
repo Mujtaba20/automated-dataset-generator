@@ -12426,3 +12426,10 @@ I have pneumonia.	Ich habe eine Lungenentzündung.	मुझे न्यूम�
 I have questions.	Ich habe Fragen.	मेरे पास सवाल हैं।
 I have some food.	Ich habe etwas zu essen.	मेरे पास कुछ खाने की चीजें हैं।
 I have some pens.	Ich habe einige Stifte.	मेरे पास कुछ पेन्स हैं।
+I have sore feet.	Ich habe wunde Füße.	मेरे पैर दुखते हैं।
+I have the money.	Ich habe das Geld.	मेरे पास पैसे हैं।
+I have the video.	Ich habe das Video.	मेरे पास वीडियो है।
+I have to cancel.	Ich muss absagen.	मुझे रद्द करना होगा।
+I have to change.	Ich muss mich ändern.	मुझे बदलना है।
+I have to go now.	Ich muss jetzt gehen.	मुझे अब जाना है।
+I have to go out.	Ich muss rausgehen.	मुझे बाहर जाना है।
