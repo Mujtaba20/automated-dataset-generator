@@ -4879,3 +4879,13 @@ They love Tom.	Sie lieben Tom.	उन्हें टॉम से प्या�
 They loved it.	Sie haben es geliebt.	उन्होंने इसे प्यार किया।
 They may come.	Sie könnten kommen.	वे आ सकते हैं।
 They need him.	Sie brauchen ihn.	उन्हें उसकी जरूरत है।
+They said yes.	Sie sagten ja.	उन्होंने हाँ कहा।
+They sat down.	Sie setzten sich.	उन्होंने बैठ गए।
+They saved us.	Sie haben uns gerettet.	उन्होंने हमें बचाया।
+They vanished.	Sie verschwanden.	उन्होंने गायब हो गए।
+They want Tom.	Sie wollen Tom.	उन्हें टॉम चाहिए।
+They will die.	Sie werden sterben.	वे मर जाएंगे।
+They'll be OK.	Es wird ihnen gut gehen.	उन्हें ठीक हो जाएगा।
+They'll do it.	Sie werden es tun.	वे यह करेंगे।
+They're Asian.	Sie sind asiatisch.	वे एशियाई हैं।
+They're Tom's.	Sie gehören zu Tom.	ये टॉम के हैं।
