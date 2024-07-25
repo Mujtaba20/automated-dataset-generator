@@ -5823,3 +5823,13 @@ He looks bored.	Er sieht gelangweilt aus.	वह उबकाई लग रह�
 He looks happy.	Er sieht glücklich aus.	वह खुश दिखता है।
 He looks stern.	Er sieht ernst aus.	वह कठोर दिखता है।
 He looks young.	Er sieht jung aus.	वह जवान लगता है।
+He lost a book.	Er hat ein Buch verloren.	उसने एक किताब खो दी।
+He loves music.	Er liebt Musik.	उसे संगीत से प्यार है।
+He needs money.	Er braucht Geld.	उसे पैसों की जरूरत है।
+He owes me one.	Er schuldet mir eins.	उसकी एक जरुरत है।
+He respects me.	Er respektiert mich.	उसने मेरा सम्मान किया।
+He sang a song.	Er sang ein Lied.	वह एक गाना गाया।
+He sang a sweet song.	Er sang ein süßes Lied.	उसने एक मिठे गाने गाया।
+He scolded her.	Er hat sie gescholten.	उसने उसे डांटा।
+He seems angry.	Er scheint wütend zu sein.	वह गुस्से में लग रहा है।
+He seems happy.	Er scheint glücklich zu sein.	वह खुश लग रहा है।
