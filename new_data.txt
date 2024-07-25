@@ -1025,3 +1025,11 @@ I panicked.	Ich geriet in Panik.	मैं बेकरार हो गया�
 I pity you.	Ich bemittleide dich.	मुझे तुम पर दया आता है।
 I promised.	Ich habe versprochen.	मैंने वादा किया।
 I ran away.	Ich bin weggelaufen.	मैं भाग गया।
+I ran home.	Ich lief nach Hause.	मैं घर दौड़ा।
+I remember.	Ich erinnere mich.	मैं याद करता हूँ।
+I resigned.	Ich kündigte.	मैं त्याग दिया।
+I said yes.	Ich sagte ja.	मैंने हाँ कहा।
+I sat down.	Ich setzte mich hin.	मैं बैठ गया।
+I saw that.	Ich sah das.	मैंने वह देखा।
+I saw them.	Ich sah sie.	मैंने उन्हें देखा।
+I see that.	Ich sehe das.	मैं वह देखता हूँ।
