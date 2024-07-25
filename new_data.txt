@@ -3834,3 +3834,11 @@ Don't hurt me!	Tu mir nicht weh!	मुझे चोट मत लगाओ!
 Don't hurt me.	Verletz mich nicht.	मुझे चोट मत लगाओ।
 Don't kill me.	Töte mich nicht.	मुझे मत मारो।
 Don't look up.	Schau nicht nach oben.	ऊपर मत देखो।
+Don't mind me.	Achte nicht auf mich.	मेरा ध्यान मत दो।
+Don't mind me. 	Ignorieren Sie mich nicht.	मेरा ध्यान मत दो।
+Don't mock me.	Mach dich nicht über mich lustig.	मुझे उपहास न करो।
+Don't push me!	Schieb mich nicht!	मुझे धक्का मत दो!
+Don't push me! 	Dräng mich nicht!	मुझे धक्का मत दो!
+Don't respond.	Antworte nicht.	जवाब न दो।
+Don't rush me.	Mach mich nicht fertig.	मुझे जल्दी मत करो।
+Draw a circle.	Zeichne einen Kreis.	एक वृत्त बनाओ।
