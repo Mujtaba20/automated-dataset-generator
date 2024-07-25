@@ -3368,3 +3368,13 @@ Tom is content.	Tom ist zufrieden.	टॉम संतुष्ट है।
 Tom is heavy.	Tom ist schwer.	टॉम भारी है।
 Tom is loyal.	Tom ist loyal.	टॉम वफादार है।
 Tom is lying.	Tom lügt.	टॉम झूठ बोल रहा है।
+Tom is messy.	Tom ist unordentlich.	टॉम बेईमान है।
+Tom is moody.	Tom hat Stimmungsschwankungen.	टॉम बेईमान है।
+Tom is my ex.	Tom ist mein Ex.	टॉम मेरा पूर्व है।
+Tom is naive.	Tom ist naiv.	टॉम मुर्ख है।
+Tom is naked.	Tom ist nackt.	टॉम नंगा है।
+Tom is needy.	Tom bedürftig ist.	टॉम नुकसान पोहचाना है।
+Tom is obese.	Tom ist fettleibig.	टॉम ज्यादा भारी है।
+Tom is older.	Tom ist älter.	टॉम पुराने हैं।
+Tom is picky.	Tom ist wählerisch.	टॉम काम है।
+Tom is pushy.	Tom ist aufdringlich.	टॉम पुराने हैं।
