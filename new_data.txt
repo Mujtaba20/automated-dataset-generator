@@ -15451,3 +15451,7 @@ You're shivering. alternative	Du frierst.	तुम ठंड लग रहे �
 You're so skinny.	Ihr seid so dünn.	तुम इतने दुबले हो।
 You're talkative.	Ihr sprecht viel.	तुम हर बात पर बातचीत करते हो।
 You're the enemy.	Du bist der Feind.	तुम दुश्मन हो।
+You're too picky.	Du bist zu pingelig.	तुम बहुत छानवीन हो।
+You're too small.	Du bist zu klein.	तुम बहुत छोटे हो।
+You're uninsured.	Du bist unversichert.	तुम योग्य नहीं हो।
+You're very busy.	Du bist sehr beschäftigt.	तुम बहुत काम करते हो।
