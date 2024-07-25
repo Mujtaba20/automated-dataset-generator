@@ -11245,3 +11245,13 @@ Where's my beer?	Wo ist mein Bier?	मेरा बियर कहाँ है
 Where's my bike?	Wo ist mein Fahrrad?	मेरी साइकिल कहाँ है?
 Where's my coat?	Wo ist mein Mantel?	मेरी कोट कहाँ है?
 Where's my comb?	Wo ist mein Kamm?	मेरी कंघी कहाँ है?
+Where's my desk?	Wo ist mein Schreibtisch?	मेरी मेज़ कहाँ है?
+Where's my food?	Wo ist mein Essen?	मेरा खाना कहाँ है?
+Where's my mama?	Wo ist meine Mutter?	मेरी माँ कहाँ है?
+Where's my ring?	Wo ist mein Ring?	मेरी अंगूठी कहाँ है?
+Where's my room?	Wo ist mein Zimmer?	मेरा कमरा कहाँ है?
+Where's my wife?	Wo ist meine Frau?	मेरी पत्नी कहाँ है?
+Where's our car?	Wo ist unser Auto?	हमारी कार कहाँ है?
+Where's the car?	Wo ist das Auto?	गाड़ी कहाँ है?
+Where's the cat?	Wo ist die Katze?	बिल्ली कहाँ है?
+Where's the dog?	Wo ist der Hund?	कुत्ता कहाँ है?
