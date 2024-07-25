@@ -13477,3 +13477,9 @@ Rabbits can swim.	Kaninchen können schwimmen.	खरगोश तैर सक�
 Rain is unlikely.	Regen ist unwahrscheinlich.	बारिश संभावना से कम है।
 Raise your hands.	Strecken Sie Ihre Hände hoch.	अपने हाथ ऊपर करो।
 Read that for me.	Lies das für mich.	मेरे लिए इसे पढ़ो।
+Read the article.	Lies den Artikel.	इस लेख को पढ़ो।
+Read these books.	Lest diese Bücher.	इन किताबों को पढ़ें।
+Reality is scary.	Die Realität ist beängstigend.	वास्तविकता डरावनी होती है।
+Red wine, please.	Roter Wein, bitte.	रेड वाइन, कृपया।
+Respect yourself.	Respektiere dich selbst.	अपना सम्मान करो।
+Revenge is sweet.	Rache ist süß.	बदला मिठा है।
