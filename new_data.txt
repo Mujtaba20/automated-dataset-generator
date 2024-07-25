@@ -1618,3 +1618,11 @@ I found Tom.	Ich fand Tom.	मैंने टॉम को पाया।
 I found you.	Ich habe dich gefunden.	मैंने तुम्हें खोज निकाला।
 I got angry.	Ich wurde wütend.	मैंने क्रोधित हो गया।
 I got dizzy.	Mir wurde schwindelig.	मुझे चक्कर आ गया।
+I hate beer.	Ich hasse Bier.	मुझे बीर नापसंद है।
+I hate bugs.	Ich hasse Käfer.	मुझे कीड़े नापसंद हैं।
+I hate cats.	Ich hasse Katzen.	मुझे बिल्लियों से नफरत है।
+I hate dogs.	Ich hasse Hunde.	मुझे कुत्तों से नफरत है।
+I hate mice.	Ich hasse Mäuse.	मुझे चूहे नफरत हैं।
+I hate milk.	Ich hasse Milch.	मुझे दूध से नफरत है।
+I hate sand.	Ich hasse Sand.	मुझे रेत से नफरत है।
+I hate that.	Ich hasse dies.	मुझे यह नापसंद है।
