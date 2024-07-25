@@ -6430,3 +6430,10 @@ I'm mad at you.	Ich bin sauer auf dich.	मुझे तुम पर गुस�
 I'm making tea.	Ich mache Tee.	मैं चाय बना रहा हूँ।
 I'm meditating.	Ich meditiere.	मैं ध्यान कर रहा हूँ।
 I'm meditating. - Different meaning	Ich bin versunken.	मैं समाधि में हूँ।
+I'm never late.	Ich komme nie zu spät.	मैं कभी नहीं देर से आता।
+I'm no quitter.	Ich gebe nicht auf.	मैं नहीं हारोगा।
+I'm not a baby.	Ich bin kein Baby.	मैं एक बच्चा नहीं हूँ।
+I'm not a fool.	Ich bin nicht dumm.	मैं बेवकूफ नहीं हूँ।
+I'm not a hero.	Ich bin kein Held.	मैं कोई नायक नहीं हूँ।
+I'm not a poet.	Ich bin keine Dichterin.	मैं कोई कवयित्री नहीं हूँ।
+I'm not asleep.	Ich schlafe nicht.	मैं सोया नहीं हूँ।
