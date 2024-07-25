@@ -1989,3 +1989,10 @@ engSentence7	Sie schlug ihn.	उसने उसे मारा।
 engSentence8	Sie ist schroff.	वह अकड़ी है।
 engSentence9	Sie ist freundlich.	वह दयालु है।
 engSentence10	Sie ist freundlich.	वह उदार है।
+She slipped.	Sie ist gestolpert.	उसने घिसीट खाई.
+She woke up.	Sie wachte auf.	उसने जागा.
+She's a dog.	Sie ist ein Hund.	वह एक कुत्ता है।
+She's happy.	Sie ist glücklich.	वह खुश है।
+Show him in.	Führen Sie ihn herein.	उसे दरवाजा दिखाओ।
+Sit with me.	Setz dich zu mir.	मेरे साथ बैठो।
+Stand aside.	Treten Sie zur Seite.	पीछे हटो।
