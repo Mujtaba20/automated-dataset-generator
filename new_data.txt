@@ -13157,3 +13157,12 @@ It's a mad world.	Es ist eine verrückte Welt.	यह एक पागल दु
 It's a rainy day.	Es ist ein regnerischer Tag.	यह एक बरसाती दिन है।
 It's a sunflower.	Es ist eine Sonnenblume.	यह सूरजमुखी है।
 It's a sunny day.	Es ist ein sonniger Tag.	यह एक धूपवाला दिन है।
+It's a windy day.	Es ist ein windiger Tag.	यह एक हवादार दिन है।
+It's all in here.	Alles ist hier drin.	यह सब यहाँ है।
+It's almost dark.	Es ist fast dunkel.	यह लगभग अंधेरा है।
+It's almost done.	Es ist fast fertig.	यह लगभग हो गया है।
+It's almost over.	Es ist fast vorbei.	यह लगभग खत्म हो गया है।
+It's almost time.	Es ist fast Zeit.	यह लगभग समय है।
+It's always open.	Es ist immer offen.	यह हमेशा खुला है।
+It's an illusion.	Es ist eine Illusion.	यह एक माया है।
+It's an open bar.	Es ist eine offene Bar.	यह एक खुला बार है।
