@@ -8864,3 +8864,13 @@ I like sleeping.	Ich mag schlafen.	मुझे सोना पसंद है
 I like that dog.	Ich mag diesen Hund.	मुझे वह कुत्ता पसंद है।
 I like that one.	Ich mag dies.	मुझे यह पसंद है।
 I like that tie.	Ich mag diese Krawatte.	मुझे यह टाई पसंद है।
+I like the cold.	Ich mag die Kälte.	मुझे सर्दी पसंद है।
+I like them all.	Ich mag sie alle.	मुझे सब पसंद है।
+I like this cup.	Ich mag diese Tasse.	मुझे यह कप पसंद है।
+I like this dog.	Ich mag diesen Hund.	मुझे यह कुत्ता पसंद है।
+I like this dog. (Different meaning)	Ich mag diesen Hund sehr.	मुझे यह कुत्ता खूब पसंद है।
+I like this hat.	Ich mag diesen Hut.	मुझे यह टोपी पसंद है।
+I like this job.	Mir gefällt diese Arbeit.	मुझे यह नौकरी पसंद है।
+I like this one.	Ich mag diese.	मुझे यह पसंद है।
+I like this tea.	Ich mag diesen Tee.	मुझे यह चाय पसंद है।
+I like this tea. (Different meaning)	Ich mag diese Teesorte.	मुझे यह चाय का प्रकार पसंद है।
