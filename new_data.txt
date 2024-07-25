@@ -533,3 +533,10 @@ I give in.	Ich gebe nach.	मैं मान ही लेता हूँ।
 I give in. - 2	Ich ergebe mich.	मैं हार मानता हूँ।
 I got mad.	Ich wurde wütend.	मैं गुस्से में आ गया।
 I got mad. - 2	Ich wurde sauer.	मैं पागल हो गया।
+I got you.	Ich habe dich bekommen.	मैंने तुम्हें पकड़ लिया।
+I had fun.	Es hat mir Spaß gemacht.	मैंने मज़ा लिया।
+I hit Tom.	Ich traf Tom.	मैंने टॉम को मारा।
+I hope so.	Das hoffe ich.	यही उम्मीद है।
+I hung up.	Ich habe aufgelegt.	मैंने फोन काट दिया।
+I hurried.	Ich habe mich beeilt.	मैं जल्दी था।
+I knew it.	Ich wusste es.	मुझे पता था।
