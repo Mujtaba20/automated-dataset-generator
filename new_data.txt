@@ -10575,3 +10575,12 @@ Tom kept silent.	Tom schwieg weiterhin.	टॉम खामोश रहता �
 Tom kept trying.	Tom versuchte weiterhin.	टॉम कोशिश करता रहा।
 Tom kicked Mary.	Tom trat Mary.	टॉम ने मेरी को लात मारी।
 Tom killed Mary.	Tom hat Maria getötet.	टॉम ने मेरी को मार डाला।
+Tom kissed Mary.	Tom küsste Maria.	टॉम ने मेरी को चुम्बन देने की कोशिश की।
+Tom knew better.	Tom wusste es besser.	टॉम को और अच्छी जानकारी थी।
+Tom knew no one.	Tom kannte niemanden.	टॉम किसी को नहीं जानता था।
+Tom knows a lot.	Tom weiß viel.	टॉम को बहुत कुछ पता है।
+Tom knows wines.	Tom kennt Weine.	टॉम को शराबों की अच्छी समझ है।
+Tom leaned back.	Tom lehnte sich zurück.	टॉम पीछे मुड़ गया।
+Tom leaned down.	Tom beugte sich hinunter.	टॉम नीचे झुक गया।
+Tom led the way.	Tom führte den Weg.	टॉम ने रास्ता दिखाया।
+Tom left Boston.	Tom verließ Boston.	टॉम बोस्टन छोड़ दिया।
