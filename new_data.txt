@@ -2316,3 +2316,8 @@ What's that?	Was ist das?	यह क्या है?
 What's this?	Was ist das?	यह क्या है?
 Where is he?	Wo ist er?	वह कहाँ है?
 Where is it?	Wo ist es?	वह कहाँ है?
+Where's Tom?	Wo ist Tom?	टॉम कहाँ है?
+Who are you?	Wer bist du?	तुम कौन हो?
+Who cheated?	Wer hat betrogen?	किसने धोखा दिया?
+Who cheered?	Wer hat gejubelt?	किसने जश्न मनाया?
+Who escaped?	Wer ist entkommen?	किसने भाग गया?
