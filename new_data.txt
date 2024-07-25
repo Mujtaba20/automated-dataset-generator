@@ -7599,3 +7599,13 @@ Tom trusted me.	Tom hat mir vertraut.	टॉम ने मुझपर भरो
 Tom trusts her.	Tom vertraut ihr.	टॉम उसका भरोसा करता है।
 Tom trusts him.	Tom vertraut ihm.	टॉम उसे भरोसा करता है।
 Tom trusts you.	Tom vertraut dir.	टॉम आप पर भरोसा करता है।
+Tom turned red.	Tom wurde rot.	टॉम लाल हो गया।
+Tom understood.	Tom hat verstanden.	टॉम को समझ आया।
+Tom volunteers.	Tom ist Freiwilliger.	टॉम स्वयंसेवक है।
+Tom walked off.	Tom ist abgehauen.	टॉम चला गया।
+Tom walked out.	Tom ist gegangen.	टॉम बाहर निकल गया।
+Tom walks fast.	Tom geht schnell.	टॉम तेज़ी से चलता है।
+Tom wanted out.	Tom wollte raus.	टॉम बाहर निकलना चाहता था।
+Tom wants Mary.	Tom will Maria.	टॉम को मेरी चाहिए।
+Tom wants more.	Tom möchte mehr.	टॉम और चाहता है।
+Tom wants that.	Tom will das.	टॉम वह चाहता है।
