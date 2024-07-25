@@ -5062,3 +5062,12 @@ Tom is strict.	Tom ist streng.	टॉम कठोर है।
 Tom is strong.	Tom ist stark.	टॉम मज़बूत है।
 Tom is stupid.	Tom ist dumm.	टॉम मूर्ख है।
 Tom is thirty.	Tom ist dreißig.	टॉम तीस का है।
+Tom is trying.	Tom versucht.	टॉम कोशिश कर रहा है।
+Tom is unkind.	Tom ist unfreundlich.	टॉम अभद्र है।
+Tom is unwell.	Tom ist unwohl.	टॉम कमजोर है।
+Tom is wasted.	Tom ist verschwendet.	टॉम बेकार हो गया है।
+Tom is wicked.	Tom ist böse.	टॉम दुष्ट है।
+Tom isn't mad.	Tom ist nicht verrückt.	टॉम पागल नहीं है।
+Tom isn't old.	Tom ist nicht alt.	टॉम बुढ़ा नहीं है।
+Tom isn't wet.	Tom ist nicht nass.	टॉम भीगा नहीं है।
+Tom joined us.	Tom hat sich uns angeschlossen.	टॉम ने हमें जॉइन किया।
