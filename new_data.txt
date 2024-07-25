@@ -5787,3 +5787,12 @@ He doesn't run.	Er läuft nicht.	वह नहीं चलता है।
 He drives fast.	Er fährt schnell.	वह तेज चलाता है।
 He flew a kite.	Er ließ einen Drachen steigen.	उसने एक पतंग उड़ाई।
 He got the job.	Er bekam den Job.	उसने काम पा लिया।
+He has 12 sons.	Er hat 12 Söhne.	उसके पास 12 बेटे हैं।
+He has a beard.	Er hat einen Bart.	उसके पास दाढ़ी है।
+He has a lunch.	Er hat Mittagessen.	उसके पास दोपहर का भोजन है।
+He has a point.	Er hat einen Punkt.	उसका एक बिंदु है।
+He has changed.	Er hat sich verändert.	उसने बदल दिया है।
+He has left us.	Er hat uns verlassen.	उसने हमें छोड़ दिया है।
+He has no fear.	Er hat keine Angst.	उसे डर नहीं है।
+He has to come.	Er muss kommen.	उसे आना होगा।
+He hated lying.	Er hasst Lügen.	उसे झूठ बोलने से नफरत थी।
