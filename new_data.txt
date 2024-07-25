@@ -11436,3 +11436,11 @@ You're so weird.	Du bist so seltsam.	तुम बहुत अजीब हो�
 You're so young.	Du bist noch so jung.	तुम बहुत कम उम्र के हो।
 You're stalling.	Du zögerst.	तुम ठहर गए हो।
 You're the best.	Du stehst an der Spitze.	तुम सबसे शानदार हो।
+You're the cook.	Du bist der Koch.	तुम पकाने वाले हो।
+You're thorough.	Du bist gründlich.	तुम संपूर्ण हो।
+You're thorough.1	Du bist sorgfältig.	तुम गहराई से जांचते हो।
+You're to blame.	Du bist schuld.	तुम दोषी हो।
+You're too late.	Du bist zu spät.	तुम बहुत देर से आए।
+You're too late.1	Du bist zu spät dran.	तुम बहुत देर कर दिया।
+You're unbiased.	Du bist unvoreingenommen.	तुम निष्पक्ष हो।
+You're up early.	Du bist früh auf.	तुम जल्दी उठते हो।
