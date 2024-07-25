@@ -12836,3 +12836,11 @@ I'm a shopkeeper.	Ich bin ein Ladenbesitzer.	मैं एक दुकानद
 I'm a shutterbug.	Ich bin ein Hobbyfotograf.	मैं एक फोटोग्राफी प्रेमी हूँ।
 I'm a single mom.	Ich bin eine alleinerziehende Mutter.	मैं एक एकल माँ हूँ।
 I'm a tour guide.	Ich bin Reiseführer.	मैं एक यात्रा मार्गदर्शक हूँ।
+I'm a translator.	Ich bin ein Übersetzer.	मैं एक अनुवादक हूँ।
+I'm able to swim.	Ich kann schwimmen.	मैं तैरने में सक्षम हूँ।
+I'm about to die.	Ich werde sterben.	मैं मरने वाला हूँ।
+I'm about to perish.	Ich bin kurz davor zu sterben.	मैं मरने के करीब हूँ।
+I'm all for that.	Ich bin ganz dafür.	मैं पूरी तरह से उसका समर्थन करता हूँ।
+I'm almost blind.	Ich bin fast blind.	मैं लगभग अंधा हूँ।
+I'm already busy.	Ich bin bereits beschäftigt.	मैं पहले से ही व्यस्त हूँ।
+I'm already rich.	Ich bin bereits reich.	मैं पहले से ही धनवान हूँ।
