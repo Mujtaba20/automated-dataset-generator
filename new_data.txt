@@ -9404,3 +9404,8 @@ Is it a problem?	Ist das ein Problem?	क्या यह समस्या ह
 Is it important?	Ist es wichtig?	क्या यह महत्वपूर्ण है?
 Is it near here?	Ist es hier in der Nähe?	क्या यह यहाँ पास है?
 Is it necessary?	Ist es notwendig?	क्या यह आवश्यक है?
+Is it not black?	Ist es nicht schwarz?	क्या यह काला नहीं है?
+Is it poisonous?	Ist es giftig?	क्या यह जहरीला है?
+Is it that hard?	Ist es so schwer?	क्या यह इतना कठिन है?
+Is it the truth?	Ist es die Wahrheit?	क्या यह सच है?
+Is it too salty?	Ist es zu salzig?	क्या यह बहुत नमकीन है?
