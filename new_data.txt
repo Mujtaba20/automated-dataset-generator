@@ -5469,3 +5469,8 @@ You ruined it.	Du hast es ruiniert.	तुमने इसे बर्बाद
 You seem busy.	Du scheinst beschäftigt zu sein.	तुम्हे व्यस्त लगते हो।
 You must rest.	Du musst dich ausruhen.	तुम्हें आराम करना चाहिए।
 You should apologize.	Du solltest dich entschuldigen.	तुम्हें माफ़ी मांगनी चाहिए।
+You seem down.	Du wirkst niedergeschlagen.	तुम उदास लग रहे हो।
+You should go.	Du solltest gehen.	तुम्हें जाना चाहिए।
+You smell bad.	Du riechst schlecht.	तुम गंदे खुशबू आ रहे हो।
+You talk fast.	Du redest schnell.	तुम जल्दी बोलते हो।
+You were busy.	Du warst beschäftigt.	तुम व्यस्त थे।
