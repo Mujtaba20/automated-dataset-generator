@@ -17023,3 +17023,11 @@ I'm Tom's brother.	Ich bin Toms Bruder.	मैं टॉम का भाई ह
 I'm Tom's dentist.	Ich bin Toms Zahnarzt.	मैं टॉम का डेंटिस्ट हूँ।
 I'm Tom's partner.	Ich bin Toms Partner.	मैं टॉम का साझेदार हूँ।
 I'm Tom's teacher.	Ich bin Toms Lehrer.	मैं टॉम का अध्यापक हूँ।
+I'm a firefighter.	Ich bin Feuerwehrmann.	मैं एक अग्निरक्षक हूँ।
+I'm a good person.	Ich bin ein guter Mensch.	मैं एक अच्छा इन्सान हूँ।
+I'm a grandfather.	Ich bin ein Großvater.	मैं एक दादा हूँ।
+I'm a gym teacher.	Ich bin Sportlehrer.	मैं एक जिम के शिक्षक हूँ।
+I'm a hairdresser.	Ich bin Friseur.	मैं एक नाई हूँ।
+I'm a human being.	Ich bin ein Mensch.	मैं एक मनुष्य हूँ।
+I'm a little busy.	Ich bin ein wenig beschäftigt.	मैं थोड़ा व्यस्त हूँ।
+I'm a little cold.	Mir ist etwas kalt.	मुझे थोड़ा सर्दी लग रही है।
