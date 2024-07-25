@@ -16257,3 +16257,12 @@ I am not like you.	Ich bin nicht wie du.	मैं तुम्हारे ज�
 I am on the right.	Ich bin auf der rechten Seite.	मैं सही हूँ।
 I am the same age.	Ich bin im gleichen Alter.	मैं उसी उम्र का हूँ।
 I am very curious.	Ich bin sehr neugierig.	मैं बहुत जिज्ञासु हूँ।
+I am very pleased.	Ich bin sehr zufrieden.	मैं बहुत खुश हूँ।
+I am weak in math.	Ich bin schwach in Mathe.	मुझे गणित में कमजोरी है।
+I apologize again.	Ich entschuldige mich erneut.	मैं फिरसे माफ़ी माँगता हूँ।
+I argued with Tom.	Ich habe mit Tom gestritten.	मैंने टॉम से झगड़ा किया।
+I asked questions.	Ich stellte Fragen.	मैंने सवालों की पूछताछ की।
+I ate a hamburger.	Ich habe einen Hamburger gegessen.	मैंने एक हैमबर्गर खाया।
+I ate some cheese.	Ich aß etwas Käse.	मैंने कुछ पनीर खाया।
+I barely knew Tom.	Ich kannte Tom kaum.	मुझे टॉम से मुख्य रूप से पता था।
+I barely know Tom.	Ich kenne Tom kaum.	मैं टॉम को मुख्य रूप से नहीं जानता।
