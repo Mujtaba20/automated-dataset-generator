@@ -2405,3 +2405,9 @@ Are you busy? - 4	Seid ihr beschäftigt?	क्या तुम व्यस्�
 Are you cops?	Seid ihr Polizisten?	क्या तुम पुलिस हो?
 Are you dead?	Bist du tot?	क्या तुम मरे हुए हो?
 Are you deaf?	Bist du taub?	क्या आप बहरे हैं?
+Are you done?	Bist du fertig?	क्या आप तैयार हैं?
+Are you fair?	Bist du gerecht?	क्या आप निष्पक्ष हैं?
+Are you free?	Bist du frei?	क्या आप मुक्त हैं?
+Are you here?	Bist du hier?	क्या तुम यहाँ हो?
+Are you home?	Bist du zu Hause?	क्या तुम घर पर हो?
+Are you hurt?	Bist du verletzt?	क्या आप चोट लगी है?
