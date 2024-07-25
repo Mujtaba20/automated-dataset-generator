@@ -8047,3 +8047,10 @@ You were great.	Du warst großartig.	तुम महान थे।
 You were happy.	Du warst glücklich.	तुम खुश थे।
 You were lucky.	Du hattest Glück.	तुम भाग्यशाली थे।
 You will learn.	Du wirst lernen.	तुम सिखेंगे।
+You'd have fun.	Man würde Spaß haben.	तुम मजे करोगे।
+You'd like Tom.	Du würdest Tom mögen.	तुम्हें टॉम पसंद आएगा।
+You'd love Tom.	Du würdest Tom lieben.	तुम टॉम से प्यार करेंगे।
+You'll all die.	Ihr werdet alle sterben.	तुम सब मरोगे।
+You'll be fine.	Es wird Ihnen gut gehen.	तुम ठीक हो जाओगे।
+You'll do fine.	Du wirst gut machen.	तुम ठीक करोगे।
+You'll get one.	Du wirst eins bekommen.	तुम एक पाओगे।
