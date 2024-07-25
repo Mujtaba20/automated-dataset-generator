@@ -20177,3 +20177,10 @@ You're in trouble.	Du bist in Schwierigkeiten.	तुम मुश्किल �
 You're incredible.	Du bist unglaublich.	तुम अविश्वसनीय हो।
 You're just a boy.	Du bist nur ein Junge.	तुम सिर्फ एक लड़का हो।
 You're just a kid.	Du bist nur ein Kind.	तुम सिर्फ एक बच्चा हो।
+You're kidding me.	Du machst Witze mit mir.	तुम मजाक कर रहे हो।
+You're killing me.	Du tötest mich.	तुम मुझे मार रहे हो।
+You're late again.	Du bist wieder spät dran.	तुम फिर से देर से आए हो।
+You're my friends.	Ihr seid meine Freunde.	तुम मेरे दोस्त हो।
+You're my problem.	Du bist mein Problem.	तुम मेरी समस्या हो।
+You're never here.	Du bist nie hier.	तुम कभी यहाँ नहीं हो।
+You're not normal.	Du bist nicht normal.	तुम सामान्य नहीं हो।

@@ -1,14 +1,4 @@
 
-You're kidding me.	Du veralberst mich doch!	तुम मुझे मिले!
-You're killing me.	Sie bringen mich noch um!	वे अभी भी मुझे मार रहे हैं!
-You're killing me.	Du bringst mich noch um!	तुम अब भी मुझे मार डालो!
-You're late again.	Du bist schon wieder zu spät.	आपको फिर से बहुत देर हो चुकी है।
-You're late again.	Sie sind schon wieder zu spät.	आप पहले से ही बहुत देर हो चुके हैं।
-You're late again.	Ihr seid schon wieder zu spät.	आप पहले से ही बहुत देर हो चुके हैं।
-You're my friends.	Ihr seid meine Freunde.	तुम मेरे दोस्त हो।
-You're my problem.	Du bist mein Problem.	आप मेरी समस्या हैं।
-You're never here.	Du bist nie hier.	आप यहाँ कभी नहीं हैं।
-You're not normal.	Du bist nicht normal.	तुम सामान्य नहीं हो।
 You're not thirty.	Du bist keine 30.	आप 30 नहीं हैं।
 You're optimistic.	Du bist ein Optimist.	आप एक आशावादी हैं।
 You're our guests.	Ihr seid unsere Gäste.	आप हमारे मेहमान हैं।
