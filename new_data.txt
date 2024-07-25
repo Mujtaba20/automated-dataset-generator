@@ -5090,3 +5090,10 @@ Tom likes her.	Tom mag sie.	टॉम को वह पसंद है।
 Tom likes him.	Tom mag ihn.	टॉम किसे पसंद करता है।
 Tom likes tea.	Tom mag Tee.	टॉम को चाय पसंद है।
 Tom likes you.	Tom mag dich.	टॉम को तुमसे पसंद है।
+Tom looked OK.	Tom sah in Ordnung aus.	टॉम ठीक लग रहे थे।
+Tom looked up.	Tom schaute hoch.	टॉम उठकर देख रहे थे।
+Tom looks sad.	Tom sieht traurig aus.	टॉम दुखी लग रहे हैं।
+Tom lost Mary.	Tom hat Mary verloren.	टॉम ने मेरी को खो दिया।
+Tom loved you.	Tom hat dich geliebt.	टॉम ने तुम्हें प्यार किया।
+Tom loves you.	Tom liebt dich.	टॉम तुमसे प्यार करते हैं।
+Tom made rice.	Tom hat Reis gemacht.	टॉम ने चावल बनाया।
