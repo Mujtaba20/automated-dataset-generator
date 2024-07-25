@@ -3455,3 +3455,10 @@ Tom survived. - different meaning	Tom hat durchgehalten.	टॉम ने सा
 Tom told her.	Tom sagte ihr.	टॉम ने उससे कहा।
 Tom told him.	Tom sagte ihm.	टॉम ने उसे बताया।
 Tom took off.	Tom zog ab.	टॉम उड़ गया।
+Tom vanished.	Tom verschwand.	टॉम गायब हो गया।
+Tom wants it.	Tom will es.	टॉम इसे चाहता है।
+Tom was busy.	Tom war beschäftigt.	टॉम व्यस्त था।
+Tom was dead.	Tom war tot.	टॉम मर गया था।
+Tom was fast.	Tom war schnell.	टॉम तेज था।
+Tom was gone.	Tom war verschwunden.	टॉम चला गया था।
+Tom was here.	Tom war hier.	टॉम यहाँ था।
