@@ -16501,3 +16501,12 @@ I have a fast car.	Ich habe ein schnelles Auto.	मेरे पास एक �
 I have a good job.	Ich habe einen guten Job.	मेरे पास एक अच्छी नौकरी है।
 I have a hangover.	Ich habe einen Kater.	मुझे एक हेंगओवर है।
 I have a headache.	Ich habe Kopfschmerzen.	मुझे सरदर्द है।
+I have a lot more.	Ich habe noch viel mehr.	मेरे पास और भी बहुत कुछ है।
+I have a new plan.	Ich habe einen neuen Plan.	मेरे पास एक नया योजना है।
+I have a passport.	Ich habe einen Reisepass.	मेरे पास एक पासपोर्ट है।
+I have a pink car.	Ich habe ein rosa Auto.	मेरे पास एक गुलाबी गाड़ी है।
+I have a proposal.	Ich habe einen Vorschlag.	मेरे पास एक प्रस्ताव है।
+I have a question.	Ich habe eine Frage.	मेरे पास एक सवाल है।
+I have a red bike.	Ich habe ein rotes Fahrrad.	मेरे पास एक लाल साइकिल है।
+I have a sailboat.	Ich habe ein Segelboot.	मेरे पास एक पाल नाव है।
+I have a solution.	Ich habe eine Lösung.	मेरे पास एक समाधान है।
