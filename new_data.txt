@@ -19845,3 +19845,11 @@ Where is your cap?	Wo ist deine Mütze?	तुम्हारी कैप क�
 Where is your cap? (different meaning)	Wo befindet sich deine Kappe?	तुम्हारी कैप कहाँ है?
 Where is your dog?	Wo ist dein Hund?	तुम्हारा कुत्ता कहाँ है?
 Where was he born?	Wo wurde er geboren?	वह किधर पैदा हुआ था?
+Where will we eat?	Wo werden wir essen?	हम कहाँ खाना खाएंगे?
+Where will you be?	Wo wirst du sein?	तुम कहाँ होगे?
+Where will you go?	Wohin gehst du?	तुम कहाँ जा रहे हो?
+Where's Tom going?	Wohin geht Tom?	टॉम कहाँ जा रहा है?
+Where's Tom today?	Wo ist Tom heute?	आज टॉम कहाँ है?
+Where's Tom's car?	Wo ist Toms Auto?	टॉम की कार कहाँ है?
+Where's everybody?	Wo sind alle?	सब कहाँ हैं?
+Where's my brandy?	Wo ist mein Brandy?	मेरा ब्रैण्डी कहाँ है?
