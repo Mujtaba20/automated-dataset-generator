@@ -19436,3 +19436,11 @@ Tom wrote stories.	Tom schrieb Geschichten.	टॉम ने कहानिय�
 Tom wrote to Mary.	Tom schrieb an Maria.	टॉम ने मेरी को लिखा।
 Tom'll reconsider.	Tom wird noch einmal überlegen.	टॉम फिर से विचार करेगा।
 Tom'll understand.	Tom wird verstehen.	टॉम समझेगा।
+Tom's car is gone.	Toms Auto ist weg.	टॉम की गाड़ी गई है।
+Tom's car's dirty.	Toms Auto ist dreckig.	टॉम की कार गंदी है।
+Tom's comfortable.	Tom fühlt sich wohl.	टॉम की आरामदायक।
+Tom's dad is rich.	Toms Vater ist reich.	टॉम के पापा धनवान हैं।
+Tom's door closed.	Toms Tür ist geschlossen.	टॉम का दरवाज़ा बंद है।
+Tom's embarrassed.	Tom ist peinlich berührt.	टॉम शर्मिंदा है।
+Tom's eyes lit up.	Toms Augen leuchteten.	टॉम की आंखों में चमक आई।
+Tom's face is red.	Toms Gesicht ist rot.	टॉम का चेहरा लाल है।
