@@ -10902,3 +10902,13 @@ Tom was writing.	Tom schrieb.	टॉम लिख रहा था।
 Tom was yelling.	Tom schrie.	टॉम चिल्लाया।
 Tom wasn't bald.	Tom war nicht kahl.	टॉम गंजा नहीं था।
 Tom wasn't busy.	Tom war nicht beschäftigt.	टॉम व्यस्त नहीं था।
+Tom wasn't done.	Tom war nicht fertig.	टॉम कर नहीं रहा था।
+Tom wasn't fair.	Tom war nicht fair.	टॉम न्यायसंगत नहीं था।
+Tom wasn't good.	Tom war nicht gut.	टॉम अच्छा नहीं था।
+Tom wasn't here.	Tom war nicht hier.	टॉम यहाँ नहीं था।
+Tom wasn't home.	Tom war nicht zu Hause.	टॉम घर पर नहीं था।
+Tom wasn't hurt.	Tom war nicht verletzt.	टॉम को चोट नहीं लगी थी।
+Tom wasn't lazy.	Tom war nicht faul.	टॉम आलसी नहीं था।
+Tom wasn't mean.	Tom war nicht gemein.	टॉम कठोर नहीं था।
+Tom wasn't neat.	Tom war nicht ordentlich.	टॉम सुशील नहीं था।
+Tom wasn't nice.	Tom war nicht nett.	टॉम अच्छे नहीं थे।
