@@ -11337,3 +11337,7 @@ You cannot lose.	Du kannst nicht verlieren.	तुम हार नहीं स
 You deserved it.	Du hast es verdient.	तुम इसकी काबिलियत रखते हो।
 You fell asleep.	Du bist eingeschlafen.	तुम सो गए।
 You got cheated.	Du wurdest betrogen.	तुम धोखा खा गए।
+You got the job.	Sie haben die Stelle erhalten.	तुम्हें नौकरी मिल गई।
+You have cancer.	Sie haben Krebs.	तुम्हें कैंसर है।
+You insulted me.	Sie haben mich beleidigt.	तुमने मुझे नीचा दिखाया।
+You knew I knew.	Sie wussten, dass ich es wusste.	तुम्हें पता था कि मैं जानता था।
