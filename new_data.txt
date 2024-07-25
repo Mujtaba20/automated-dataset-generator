@@ -2021,3 +2021,13 @@ Talk slower.	Sprich langsamer.	धीरे बोलो।
 Talk to Tom.	Sprich mit Tom.	टॉम से बात करो।
 Tea, please.	Tee, bitte.	चाय, कृपया।
 Tell Tom no.	Sag Tom nein.	टॉम को नak कहो।
+That helped.	Das hat geholfen.	वह मदद की.
+That is all.	Das ist alles.	वह सब है।
+That's cool.	Das ist gut.	यह ठीक है।
+That's cool. (different meaning)	Das ist cool.	यह शानदार है।
+That's dumb.	Das ist dumm.	यह बूढ़ा है।
+That's fine.	Das ist in Ordnung.	वह ठीक है।
+That's free.	Das ist kostenlos.	यह मुफ्त है।
+That's hers.	Das gehört ihr.	यह उसकी है।
+That's huge.	Das ist riesig.	वह विशाल है।
+That's life.	Das ist das Leben.	यह जीवन है।
