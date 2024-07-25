@@ -14033,3 +14033,12 @@ Tom explained it.	Tom hat es erklärt.	टॉम ने यह समझाय�
 Tom failed twice.	Tom ist zweimal gescheitert.	टॉम ने दो बार विफल हो गया।
 Tom fed the pigs.	Tom hat den Schweinen gefüttert.	टॉम ने सुअरों को चराया।
 Tom fell in love.	Tom hat sich verliebt.	टॉम प्यार में गिर गया।
+Tom felt amazing.	Tom fühlte sich erstaunlich.	टॉम को अद्भुत लगा।
+Tom felt ashamed.	Tom fühlte sich beschämt.	टॉम शर्मिंदा महसूस कर रहा था।
+Tom felt at home.	Tom fühlte sich zu Hause.	टॉम घर में महसूस कर रहा था।
+Tom felt awkward.	Tom fühlte sich unbeholfen.	टॉम को अजीब लग रहा था।
+Tom felt cheated.	Tom fühlte sich betrogen.	टॉम को धोखा दिया गया लग रहा था।
+Tom felt foolish.	Tom fühlte sich albern.	टॉम को मूर्ख महसूस हो रहा था।
+Tom felt nervous.	Tom fühlte sich nervös.	टॉम को घबराहट महसूस हो रही थी।
+Tom felt nothing.	Tom fühlte nichts.	टॉम कुछ नहीं महसूस कर रहा था।
+Tom felt trapped.	Tom fühlte sich gefangen.	टॉम फंसा हुआ महसूस कर रहा था।
