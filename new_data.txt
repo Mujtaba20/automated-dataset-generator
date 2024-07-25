@@ -2349,3 +2349,8 @@ You cheated.	Du hast betrogen.	तुमने धोखा दिया।
 You did lie.	Du hast gelogen.	तुमने झूठ बोला।
 You hurt me.	Du hast mich verletzt.	तुमने मुझे चोट पहुँचाई।
 You keep it.	Du behältst es.	तुम इसे रखो।
+You know me.	Sie kennen mich.	तुम मुझे जानती हो।
+You made it.	Du hast es geschafft.	तुमने यह बनाया।
+You must go.	Sie müssen gehen.	तुम्हें जाना होगा।
+You need it.	Sie brauchen es.	तुम्हारे पास यह चाहिए।
+You need me.	Sie brauchen mich.	तुम्हें मुझसे मिलना चाहिए।
