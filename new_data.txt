@@ -3825,3 +3825,12 @@ Don't be long.	Sei nicht lange.	लंबा मत बनो।
 Don't be rude.	Sei nicht unhöflich.	अकड़ मत दिखाओ।
 Don't come in.	Komm nicht herein.	अंदर मत आओ।
 Don't get fat.	Werde nicht dick.	मोटा मत हो।
+Don't give in.	Gib nicht nach.	हार मत मानो।
+Don't give up!	Gib nicht auf!	हार मत मानो!
+Don't go away.	Geh nicht weg.	चले न जाओ।
+Don't go home.	Geh nicht nach Hause.	घर मत जाओ।
+Don't go, Tom.	Geh nicht, Tom.	जाने मत दो, टॉम।
+Don't hurt me!	Tu mir nicht weh!	मुझे चोट मत लगाओ!
+Don't hurt me.	Verletz mich nicht.	मुझे चोट मत लगाओ।
+Don't kill me.	Töte mich nicht.	मुझे मत मारो।
+Don't look up.	Schau nicht nach oben.	ऊपर मत देखो।
