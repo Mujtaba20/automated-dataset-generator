@@ -13722,3 +13722,13 @@ The dog is dying.	Der Hund stirbt.	कुत्ता मर रहा है।
 The dog is smart.	Der Hund ist klug.	कुत्ता चालाक है।
 The dog is white.	Der Hund ist weiß.	कुत्ता सफेद है।
 The dogs are wet.	Die Hunde sind nass.	कुत्ते गीले हैं।
+The door creaked.	Die Tür knarrte.	दरवाजा चीरचीरा आवाज कर रहा था।
+The door is open.	Die Tür ist geöffnet.	दरवाजा खुला है।
+The driver is OK.	Der Fahrer ist in Ordnung.	ड्राइवर ठीक है।
+The food is cold.	Das Essen ist kalt.	खाना ठंडा है।
+The food's ready.	Das Essen ist fertig.	खाना तैयार है।
+The game is over.	Das Spiel ist vorbei.	खेल समाप्त हो गया है।
+The goat bleated.	Die Ziege blökte.	बकरी में बहुआ आई।
+The gun went off.	Das Gewehr ging los.	बंदूक चल गई।
+The hat is yours.	Der Hut gehört dir.	टोपी तुम्हारी है।
+The joke's on me.	Der Witz ist auf mir.	मजाक मेरे साथ है।
