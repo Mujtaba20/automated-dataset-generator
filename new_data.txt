@@ -8100,3 +8100,6 @@ You're useless.	Du bist nutzlos.	तुम बेकार हो।
 You're wealthy.	Sie sind wohlhabend.	आप धनवान हैं।
 You're welcome.	Bitte sehr.	स्वागत है।
 You're winning.	Sie gewinnen.	आप जीत रहे हैं।
+You're worried.	Du bist besorgt.	आप चिंतित हैं।
+You're wounded.	Du wurdest verletzt.	तुम घायल हो।
+You've changed.	Du hast dich verändert.	तुमने बदल दिया है।
