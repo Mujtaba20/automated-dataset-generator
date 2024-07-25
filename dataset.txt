@@ -1,14 +1,4 @@
 
-They don't listen.	Sie hören nicht zu.	आप नहीं सुनते।
-They don't listen.	Die hören nicht zu.	वे नहीं सुनते।
-They drank coffee.	Sie tranken Kaffee.	आपने कॉफी पिया।
-They executed Tom.	Sie haben Tom hingerichtet.	आपने टॉम को अंजाम दिया।
-They felt menaced.	Sie fühlten sich bedroht.	उन्हें खतरा महसूस हुआ।
-They followed Tom.	Sie folgten Tom.	उन्होंने टॉम का पीछा किया।
-They followed you.	Sie sind dir gefolgt.	आपने आपका पीछा किया।
-They followed you.	Sie sind Ihnen gefolgt.	उन्होंने उनका पीछा किया।
-They followed you.	Sie sind euch gefolgt.	आपने आपका पीछा किया।
-They hunted foxes.	Sie jagten Füchse.	उन्होंने लोमड़ियों का पीछा किया।
 They just stopped.	Sie haben einfach angehalten.	आप बस रुक गए।
 They just stopped.	Sie haben einfach aufgehört.	आप बस रुक गए।
 They kidnapped me.	Sie haben mich gekidnappt.	तुमने मेरा अपहरण कर लिया।

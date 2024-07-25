@@ -18130,3 +18130,13 @@ They deported Tom.	Sie deportierten Tom.	उन्होंने टॉम क�
 They did it again.	Sie haben es wieder getan.	उन्होंने फिर से किया।
 They don't get it.	Sie verstehen es nicht.	उन्हें समझ में नहीं आता।
 They don't get it. (Different meaning)	Sie bekommen es nicht.	उन्हें मिलता नहीं है।
+engSentence1	Sie hören nicht zu.	वे नहीं सुनते।
+engSentence2	Sie hören nicht zu.	उन्होंने ठांचा देखा।
+engSentence3	Sie tranken Kaffee.	वे कॉफ़ी पीते थे।
+engSentence4	Sie richteten Tom hin.	उन्होंने टॉम को सजा दी।
+engSentence5	Sie fühlten sich bedroht.	उन्हें खतरा महसूस हो रहा था।
+engSentence6	Sie folgten Tom.	वे टॉम के पीछे गए।
+engSentence7	Sie folgten dir.	वे तुम्हारे पीछे गए।
+engSentence8	Sie sind dir gefolgt.	वे तुम्हें फ़ालोअर किया।
+engSentence9	Sie haben dich verfolgt.	उन्होंने तुम्हें पीछा किया।
+engSentence10	Sie jagten Füchse.	उन्होंने लोमड़ियों की शिकार की।
