@@ -18806,3 +18806,12 @@ Tom is very sweet.	Tom ist sehr süß.	टॉम बहुत प्यारा
 Tom is very timid.	Tom ist sehr schüchtern.	टॉम बहुत शर्मीला है।
 Tom is very tired.	Tom ist sehr müde.	टॉम बहुत थका हुआ है।
 Tom is very weird.	Tom ist sehr seltsam.	टॉम बहुत अजीब है।
+Tom is very young.	Tom ist sehr jung.	टॉम बहुत जवान है।
+Tom is vulnerable.	Tom ist verwundbar.	टॉम भेद्य है।
+Tom is well-liked.	Tom wird gemocht.	टॉम को पसंद किया जाता है।
+Tom is wide awake.	Tom ist hellwach.	टॉम जागता हुआ है।
+Tom is your enemy.	Tom ist dein Feind.	टॉम तुम्हारा दुश्मन है।
+Tom isn't a crook.	Tom ist kein Gauner.	टॉम चोर नहीं है।
+Tom isn't a loner.	Tom ist kein Einzelgänger.	टॉम एक आवारा नहीं है।
+Tom isn't a miner.	Tom ist kein Bergarbeiter.	टॉम एक खननय है।
+Tom isn't a minor.	Tom ist nicht minderjährig.	टॉम एक नानी है।

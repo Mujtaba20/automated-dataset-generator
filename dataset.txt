@@ -1,14 +1,4 @@
 
-Tom is very young.	Tom ist sehr jung.	टॉम बहुत छोटा है।
-Tom is vulnerable.	Tom ist verletzlich.	टॉम कमजोर है।
-Tom is well-liked.	Tom ist sehr beliebt.	टॉम बहुत लोकप्रिय है।
-Tom is wide awake.	Tom ist hellwach.	टॉम व्यापक जागृत है।
-Tom is your enemy.	Tom ist dein Feind.	टॉम आपका दुश्मन है।
-Tom isn't a crook.	Tom ist kein Gauner.	टॉम बदमाश नहीं है।
-Tom isn't a loner.	Tom ist kein Einzelgänger.	टॉम अकेला नहीं है।
-Tom isn't a miner.	Tom ist kein Bergmann.	टॉम एक खनिक नहीं है।
-Tom isn't a miner.	Tom ist kein Bergarbeiter.	टॉम एक खनिक नहीं है।
-Tom isn't a minor.	Tom ist nicht minderjährig.	टॉम नाबालिग नहीं है।
 Tom isn't a thief.	Tom ist kein Dieb.	टॉम एक चोर नहीं है।
 Tom isn't a vegan.	Tom ist kein Veganer.	टॉम शाकाहारी नहीं है।
 Tom isn't at home.	Tom ist nicht zu Hause.	टॉम घर पर नहीं है।
