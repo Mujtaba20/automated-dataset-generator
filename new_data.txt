@@ -15401,3 +15401,11 @@ You seem content.	Du scheinst zufrieden zu sein.	तुम संतुष्ट
 You seemed bored.	Du schienst gelangweilt zu sein.	तुमे उबाऊ लग रहा था।
 You should do it.	Du solltest es machen.	तुम्हें यह करना चाहिए।
 You should leave.	Du solltest gehen.	तुम्हें जाना चाहिए।
+You should sleep.	Sie sollten schlafen.	तुम्हें सोना चाहिए।
+You shouldn't go.	Du solltest nicht gehen.	तुम्हें नहीं जाना चाहिए।
+You two go ahead.	Ihr zwei geht weiter.	दोनों आगे जाओ।
+You wait and see.	Du warte nur ab.	तुम बस ठहरो और देखो।
+You were correct.	Du hattest recht.	तुम सही थे।
+You were jealous.	Du warst eifersüchtig.	तुम जलने लगे थे।
+You were my hero.	Du warst mein Held.	तुम मेरे हीरो थे।
+You were perfect.	Du warst vollkommen.	तुम बिल्कुल सही थे।
