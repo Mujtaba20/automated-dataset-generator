@@ -1,14 +1,4 @@
 
-That apple is big.	Dieser Apfel ist groß.	यह सेब बड़ा है।
-That book is mine.	Das Buch gehört mir.	पुस्तक मेरी है।
-That boy is smart.	Dieser Junge ist intelligent.	यह लड़का बुद्धिमान है।
-That can't be Tom.	Das kann nicht Tom sein.	वह टॉम नहीं हो सकता।
-That can't happen.	Das kann nicht passieren.	ऐसा नहीं हो सकता।
-That car is Tom's.	Dieses Auto gehört Tom.	यह कार टॉम की है।
-That could change.	Das könnte sich ändern.	वह बदल सकता है।
-That could happen.	Das könnte passieren.	ऐसा हो सकता है।
-That girl is Mary.	Dieses Mädchen ist Maria.	यह लड़की मारिया है।
-That helped a lot.	Das war sehr hilfreich.	यह बहुत मददगार था।
 That house is big.	Das Haus ist groß.	घर बड़ा है।
 That is all right.	Das ist in Ordnung.	वह ठीक है।
 That is all right.	Das geht.	यह चलने लगा।

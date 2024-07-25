@@ -17886,3 +17886,13 @@ Thanks a lot, Tom.	Vielen Dank, Tom.	बहुत-बहुत धन्यव�
 Thanks for asking.	Vielen Dank für die Nachfrage.	पूछने के लिए धन्यवाद।
 Thanks for coming.	Vielen Dank fürs Kommen.	आने के लिए धन्यवाद।
 Thanks in advance.	Vielen Dank im Voraus.	पहले से ही धन्यवाद।
+That apple is big.	Dieser Apfel ist groß.	वह सेब बड़ा है।
+That book is mine.	Dieses Buch ist meins.	वह किताब मेरी है।
+That boy is smart.	Der Junge ist klug.	वह लड़का समझदार है।
+That can't be Tom.	Das kann nicht Tom sein.	वह तोम नहीं हो सकता।
+That can't happen.	Das kann nicht passieren.	वह नहीं हो सकता।
+That car is Tom's.	Dieses Auto gehört Tom.	वह कार टॉम की है।
+That could change.	Das könnte sich ändern.	वह बदल सकता है।
+That could happen.	Das könnte passieren.	वह हो सकता है।
+That girl is Mary.	Dieses Mädchen ist Mary.	वह लड़की मेरी है।
+That helped a lot.	Das hat sehr geholfen.	वह बहुत मदद की।
