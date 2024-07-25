@@ -15388,3 +15388,7 @@ You must tell us.	Du musst es uns sagen.	तुम्हें हमें ब�
 You missed a lot. (different meaning)	Du hast viel verpasst.	तुमने बहुत कुछ महसूस किया।
 You must help us. (different meaning)	Du sollst uns helfen.	तुम्हें हमें सहायता करनी चाहिए।
 You must tell us. (different meaning)	Du musst es uns mitteilen.	तुम्हें हमें बताना होगा।
+You need a hobby.	Du brauchst ein Hobby.	तुम्हें एक शौक चाहिए।
+You need friends.	Du brauchst Freunde.	तुम्हें दोस्त चाहिए।
+You need therapy.	Du brauchst Therapie.	तुम्हें चिकित्सा चाहिए।
+You need to rest.	Sie müssen sich ausruhen.	तुम्हें विश्राम करना चाहिए।
