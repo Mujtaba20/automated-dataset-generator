@@ -2743,3 +2743,13 @@ I need water.	Ich brauche Wasser.	मुझे पानी चाहिए।
 I never sing.	Ich singe nie.	मैं कभी नहीं गाता।
 I never swim.	Ich schwimme nie.	मैं कभी तैरता नहीं हूँ।
 I obeyed Tom.	Ich gehorchte Tom.	मैंने टॉम का आज्ञानुसार किया।
+I often read.	Ich lese oft.	मैं अक्सर पढ़ता हूँ।
+I phoned him.	Ich habe ihn angerufen.	मैंने उसे फोन किया।
+I play piano.	Ich spiele Klavier.	मैं पियानो बजाता हूँ।
+I prefer jam.	Ich bevorzuge Marmelade.	मैं जैम पसंद करता हूँ।
+I prefer jelly.	Ich bevorzuge Gelee.	मैं जेली पसंद करता हूँ।
+I rarely cry.	Ich weine selten.	मैं शांत रहता हूँ।
+I read a lot.	Ich lese viel.	मैं बहुत पढ़ता हूँ।
+I read books.	Ich lese Bücher.	मैं किताबें पढ़ता हूँ।
+I stole Tom.	Ich habe Tom geraubt.	मैंने टॉम को चुराया।
+I see a book.	Ich sehe ein Buch.	मैं एक किताब देख रहा हूँ।
