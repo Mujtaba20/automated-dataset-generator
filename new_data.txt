@@ -19872,3 +19872,10 @@ Where's the money?	Wo ist das Geld?	पैसे कहां हैं?
 Where's the vodka?	Wo ist der Wodka?	वोडका कहाँ है?
 Where's this from?	Woher ist das?	यह कहां से है?
 Where's your boss?	Wo ist dein Chef?	तुम्हारा बॉस कहाँ है?
+Where's your home?	Wo ist dein Zuhause?	तुम्हारा घर कहाँ है?
+Where've you been?	Wo warst du?	तुम कहाँ गए थे?
+Where've you been? - Different Meaning	Wo hast du dich aufgehalten?	तुम कहाँ रहे थे?
+Which car is ours?	Welches Auto gehört uns?	कौनसी गाड़ी हमारी है?
+Which is your bag?	Welche Tasche gehört dir?	तुम्हारी बैग कौनसी है?
+Which is your bag? - Different Meaning	Welche ist deine Tasche?	तुम्हारी बैग कौनसी है?
+Which one is mine?	Welches ist meins?	मेरा कौनसा है?

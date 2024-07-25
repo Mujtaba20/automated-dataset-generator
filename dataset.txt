@@ -1,16 +1,4 @@
 
-Where's your home?	Wo ist dein Zuhause?	आपका घर कहां है?
-Where've you been?	Wo wart ihr?	कहाँ थे?
-Where've you been?	Wo bist du gewesen?	आप कहां थे?
-Where've you been?	Wo sind Sie gewesen?	आप कहां थे?
-Where've you been?	Wo waren Sie?	कहाँ थे?
-Which car is ours?	Welches ist unser Auto?	हमारी कार कौन सी है?
-Which is your bag?	Welche ist deine Tasche?	आपका बैग कौन सा है?
-Which is your bag?	Welche ist Ihre Tasche?	आपका बैग कौन सा है?
-Which is your bag?	Welche ist eure Tasche?	आपका बैग कौन सा है?
-Which one is mine?	Welche ist meine?	कौन सा मेरा है?
-Which one is mine?	Welcher ist meiner?	कौन सा मेरा है?
-Which one is mine?	Welches ist meins?	कौन सा मेरा है?
 Which tooth hurts?	Welcher Zahn tut weh?	कौन सा दाँत दर्द होता है?
 Who are these for?	Für wen sind die?	वे किसके लिए हैं?
 Who are these men?	Wer sind diese Männer?	ये आदमी कौन हैं?
