@@ -5509,3 +5509,13 @@ You're unkind.	Du bist nicht nett.	तुम ग़ैर दयालु हो
 You're wicked.	Du bist böse.	तुम शैतान हो।
 You're unfair. 1	Du bist ungerecht.	तुम न्यायसंगत नहीं हो।
 You're unkind. 1	Du bist herzlos.	तुम निर्दयी हो।
+A beer, please.	Ein Bier, bitte.	एक बियर, कृपया।
+A car's coming.	Ein Auto kommt.	एक कार आ रही है।
+A coke, please.	Eine Cola, bitte.	एक कोक, कृपया।
+Act like a man.	Handele wie ein Mann.	एक आदमी की तरह काम करे।
+Add more water.	Füge mehr Wasser hinzu.	और पानी डालें।
+Add more water. (1)	Mehr Wasser hinzufügen.	और पानी जोड़ें।
+Add more water. (2)	Weiteres Wasser hinzufügen.	और पानी डालें।
+After you, Tom.	Nach dir, Tom.	तुम्हारे बाद, टॉम।
+Ain't she cute?	Ist sie nicht niedlich?	क्या वह प्यारी नहीं है?
+All babies cry.	Alle Babys weinen.	सभी शिशु रोते हैं।
