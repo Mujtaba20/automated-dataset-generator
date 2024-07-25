@@ -1896,3 +1896,13 @@ It's a pity.	Es ist schade.	यह दुःख की बात है।
 It's a rule.	Es ist eine Regel.	यह एक नियम है।
 It's boring.	Es ist langweilig.	यह उबाऊ है।
 It's broken.	Es ist kaputt.	यह टूट गया है।
+It's cloudy.	Es ist bewölkt.	यह बादलगरम है।
+It's for me.	Es ist für mich.	यह मेरे लिए है।
+It's for us.	Es ist für uns.	यह हम सबके लिए है।
+It's futile.	Es ist sinnlos.	यह व्यर्थ है।
+It's locked.	Es ist verschlossen.	यह ताला लगा है।
+It's locked. (different meaning)	Es ist festgefahren.	यह बंद है।
+It's my job.	Es ist meine Aufgabe.	यह मेरा काम है।
+It's my job. (different meaning)	Es ist mein Beruf.	यह मेरा पेशा है।
+It's no use.	Es hat keinen Zweck.	इसका कोई उपयोग नहीं है।
+It's no use. (different meaning)	Es ist zwecklos.	यह निष्फल है।
