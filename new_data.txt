@@ -2516,3 +2516,10 @@ Examine this.	Untersuche dies.	इसे जांचें।
 Fish, please.	Fisch, bitte.	मछली, कृपया।
 Food is food.	Essen ist Essen.	खाना खाना है।
 Get my rifle.	Holen Sie mein Gewehr.	मेरी राइफल लेआओ।
+Get the book.	Hol das Buch.	किताब लेलो।
+Get upstairs.	Geh nach oben.	ऊपर जाओ।
+Ghosts exist.	Geister existieren.	भूत पाए जाते हैं।
+Give it back.	Gib es zurück.	यह वापस दो।
+Give me half.	Gib mir die Hälfte.	मुझे आधा दो।
+Give me that.	Gib mir das.	मुझे वह दो।
+Give me time.	Gib mir Zeit.	मुझे समय दो।
