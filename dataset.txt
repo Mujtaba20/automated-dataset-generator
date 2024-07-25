@@ -1,14 +1,4 @@
 
-The cat scared me.	Die Katze hat mich erschreckt.	बिल्ली ने मुझे भयभीत कर दिया।
-The cats are safe.	Die Katzen sind in Sicherheit.	बिल्लियाँ सुरक्षित हैं।
-The check bounced.	Der Scheck ist geplatzt.	चेक फट गया है।
-The check, please.	Die Rechnung bitte.	कृपया चेक दीजिए.
-The check, please.	Die Rechnung, bitte.	कृपया चेक दीजिए.
-The clock is fast.	Die Uhr geht vor.	घड़ी चल रही है।
-The clock is fast.	Der Takt ist schnell.	घड़ी तेज है।
-The coffee is hot.	Der Kaffee ist heiß.	कॉफी गर्म है।
-The cow is mooing.	Die Kuh muht.	गाय म्यूल।
-The crowd cheered.	Die Menge jubelte.	भीड़ ने खुश होकर।
 The crowd laughed.	Das Publikum hat gelacht.	दर्शकों ने हँसते हुए।
 The cup was empty.	Die Tasse war leer.	कप खाली था।
 The dog is theirs.	Der Hund gehört ihnen.	कुत्ता उनका है।

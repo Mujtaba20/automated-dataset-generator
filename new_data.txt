@@ -17997,3 +17997,11 @@ The break is over.	Die Pause ist beendet.	ब्रेक समाप्त ह
 The bus is coming.	Der Bus kommt.	बस आ रही है।
 The cars sped off.	Die Autos fuhren weg.	गाड़ियां चली गईं।
 The cat is eating.	Die Katze frisst.	बिल्ली खा रही है।
+The cat scared me.	Die Katze hat mich erschreckt.	बिल्ली ने मुझे डराया।
+The cats are safe.	Die Katzen sind sicher.	बिल्लियां सुरक्षित हैं।
+The check bounced.	Der Scheck wurde zurückgeschickt.	चेक वापस चला गया।
+The check, please.	Die Rechnung, bitte.	कृपया चेक करें।
+The clock is fast.	Die Uhr ist schnell.	घड़ी तेज है।
+The coffee is hot.	Der Kaffee ist heiß.	कॉफ़ी गरम है।
+The cow is mooing.	Die Kuh mooht.	गाय भोंक रही है।
+The crowd cheered.	Die Menschenmenge jubelte.	जनसमुदाय उत्साहित था।
