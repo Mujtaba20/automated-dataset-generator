@@ -9147,3 +9147,13 @@ I'd like to try.	Ich würde es gerne versuchen.	मैं कोशिश कर
 I'd never do it.	Ich würde es nie tun.	मैं कभी नहीं करूँगा।
 I'd rather stay.	Ich würde lieber bleiben.	मैं ठहरना पसंद करूँगा।
 I'll allow this.	Ich werde dies erlauben.	मैं इसे अनुमति दूंगा।
+engSentence1	Ich werde mich umhören.	मैं जाँच करूँगा।
+engSentence2	Ich werde Tom helfen.	मैं टॉम की सहायता करूंगा।
+engSentence3	Ich werde zu Hause sein.	मैं घर पर होंगा।
+engSentence4	Ich werde vorsichtig sein.	मैं सावधान रहूंगा।
+engSentence5	Ich werde gerne.	मैं खुश होऊंगा।
+engSentence6	Ich werde froh sein.	मैं खुश होऊंगा।
+engSentence7	Ich werde pünktlich sein.	मैं समय पर होंगा।
+engSentence8	Ich werde anwesend sein.	मैं मौजूद होऊंगा।
+engSentence9	Ich werde präsent sein.	मैं उपस्थित होऊंगा।
+engSentence10	Ich werde einen Ford kaufen.	मैं एक फोर्ड खरीदूंगा।
