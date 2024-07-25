@@ -5137,3 +5137,13 @@ Tom was dirty.	Tom war schmutzig.	टॉम गंदा था।
 Tom was dizzy.	Tom war schwindelig.	टॉम चक्करा रहा था।
 Tom was drunk.	Tom war betrunken.	टॉम नशे में था।
 Tom was dying.	Tom war am Sterben.	टॉम मर रहा था।
+Tom was early.	Tom war früh.	टॉम जल्दी आया था।
+Tom was fired.	Tom wurde entlassen.	टॉम को नौकरी से निकाल दिया गया था।
+Tom was frank.	Tom war offen.	टॉम खुलेमस्त था।
+Tom was great.	Tom war großartig.	टॉम बहुत बढ़िया था।
+Tom was happy.	Tom war glücklich.	टॉम खुश था।
+Tom was hired.	Tom wurde eingestellt.	टॉम को नौकरी दी गई थी।
+Tom was livid.	Tom war wütend.	टॉम बहुत नाराज था।
+Tom was livid. (other meaning)	Tom war kochend vor Wut.	टॉम गुस्से से अंदर से जल रहा था।
+Tom was lucky.	Tom hatte Glück.	टॉम को भाग्यशाली माना गया।
+Tom was lying.	Tom hat gelogen.	टॉम झूठ बोल रहा था।
