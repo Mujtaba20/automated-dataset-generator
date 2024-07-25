@@ -7839,3 +7839,10 @@ We'll be there.	Wir werden da sein.	हम वहाँ होंगे।
 We'll bury you.	Wir werden dich begraben.	हम तुम्हें दफन करेंगे।
 We'll call Tom.	Wir werden Tom anrufen.	हम टॉम को बुलाएंगे।
 We'll call you.	Wir werden dich anrufen.	हम तुम्हें कॉल करेंगे।
+We'll continue.	Wir werden fortfahren.	हम जारी रखेंगे।
+We'll do great.	Wir werden großartig sein.	हम शानदार काम करेंगे।
+We'll find Tom.	Wir werden Tom finden.	हम टॉम को ढूंढेंगे।
+We'll find out.	Wir werden es herausfinden.	हम जानेंगे।
+We'll fix that.	Wir werden das reparieren.	हम उसे ठीक करेंगे।
+We'll fix this.	Wir werden das reparieren.	हम यह ठीक करेंगे।
+We'll help you.	Wir werden dir helfen.	हम तुम्हारी मदद करेंगे।
