@@ -2102,3 +2102,11 @@ Tom is a DJ.	Tom ist ein DJ.	टॉम एक डीजे है।
 Tom is back.	Tom ist zurück.	टॉम वापस आ गया है।
 Tom is bald.	Tom ist kahl.	टॉम गंजा है।
 Tom is busy.	Tom ist beschäftigt.	टॉम व्यस्त है।
+Tom is calm.	Tom ist ruhig.	टॉम शांत है।
+Tom is cold.	Tom leidet an Erkältung.	टॉमे को सर्दी है।
+Tom is cool.	Tom ist entspannt.	टॉम ठंडा है।
+Tom is cute.	Tom ist niedlich.	टॉम प्यारा है।
+Tom is done.	Tom ist fertig.	टॉम काम समाप्त हुआ है।
+Tom is down.	Tom ist niedergeschlagen.	टॉम नीचे है।
+Tom is evil.	Tom ist böse.	टॉम दुष्ट है।
+Tom is fair.	Tom ist fair.	टॉम न्यायसंगत है।
