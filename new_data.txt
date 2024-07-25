@@ -11741,3 +11741,11 @@ Do you want more?	Möchten Sie mehr?	क्या आप और चाहते 
 Do you want that?	Möchtest du das?	क्या आप वह चाहते हैं?
 Do you want this?	Möchten Sie das?	क्या आप यह चाहते हैं?
 Do you want wine?	Möchten Sie Wein?	क्या आप वाइन चाहते हैं?
+Do you work here?	Arbeiten Sie hier?	क्या आप यहाँ काम करते हैं?
+Do your homework.	Mach deine Hausaufgaben.	अपने होमवर्क करो।
+Do your own work.	Mach deine eigene Arbeit.	अपना काम करो।
+Does Tom do that?	Macht Tom das?	क्या टॉम वह करता है?
+Does Tom have it?	Hat Tom das?	क्या टॉम के पास है?
+Does Tom like it?	Mag Tom das?	क्या टॉम को यह पसंद है?
+Does Tom like me?	Mag Tom mich?	क्या टॉम को मुझसे पसंद है?
+Does Tom need me?	Braucht Tom mich?	क्या टॉम को मुझे जरुरत है?
