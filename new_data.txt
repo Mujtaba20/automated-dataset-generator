@@ -15984,3 +15984,11 @@ He had three sons.	Er hatte drei Söhne.	उसके तीन पुत्र 
 He hanged himself.	Er erhängte sich.	उसने खुद को फांसी लगा ली।
 He has a cold now.	Er hat jetzt eine Erkältung.	उसे अभी ठंड लग रही है।
 He has a few pens.	Er hat ein paar Stifte.	उसके पास कुछ कलमें हैं।
+He has a headache.	Er hat Kopfschmerzen.	उसे सिरदर्द है।
+He has blond hair.	Er hat blonde Haare.	उसके बाल गोरे हैं।
+He has brown eyes.	Er hat braune Augen.	उसकी आँखें भूरी हैं।
+He has brown hair.	Er hat braune Haare.	उसके बाल भूरे हैं।
+He has curly hair.	Er hat lockige Haare.	उसके बाल कुंडलियां हैं।
+He has green eyes.	Er hat grüne Augen.	उसकी आँखें हरी हैं।
+He has no bicycle.	Er hat kein Fahrrad.	उसके पास कोई साइकिल नहीं है।
+He has no remorse.	Er hat keine Reue.	उसे कोई पछतावा नहीं है।
