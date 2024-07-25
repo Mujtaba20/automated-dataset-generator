@@ -17241,3 +17241,12 @@ Is that the truth?	Ist das die Wahrheit?	क्या यह सच है?
 Is that true, Tom?	Ist das wahr, Tom?	क्या यह सच है, टॉम?
 Is that your book?	Ist das dein Buch?	क्या यह तुम्हारी किताब है?
 Is that your goal?	Ist das dein Ziel?	क्या यह तुम्हारा लक्ष्य है?
+Is that your room?	Ist das dein Zimmer?	क्या यह आपका कमरा है?
+Is the bath clean?	Ist das Bad sauber?	क्या नहाने-धोने कक्ष साफ है?
+Is the bath ready?	Ist das Bad bereit?	क्या स्नान कक्ष तैयार है?
+Is the boss there?	Ist der Chef da?	क्या बॉस वहाँ है?
+Is the coffee hot?	Ist der Kaffee heiß?	क्या कॉफ़ी गरम है?
+Is the water cold?	Ist das Wasser kalt?	क्या पानी ठंडा है?
+Is there a curfew?	Gibt es eine Ausgangssperre?	क्या आपातकालीन प्रबंधन है?
+Is there a reward?	Gibt es eine Belohnung?	क्या कोई पुरस्कार है?
+Is there any news?	Gibt es irgendwelche Neuigkeiten?	कोई खबर है?
