@@ -19483,3 +19483,11 @@ Watch your tongue.	Pass auf deine Zunge auf.	अपनी जीभ पर ध�
 Water is a liquid.	Wasser ist eine Flüssigkeit.	पानी एक तरल पदार्थ है।
 We abhor violence.	Wir verabscheuen Gewalt.	हम हिंसा से घृणा करते हैं।
 We agreed on 2:30.	Wir haben uns auf 2:30 geeinigt.	हमने 2:30 पर सहमति जताई।
+We all enjoyed it.	Wir alle haben es genossen.	हम सभी ने इसे आनंद लिया।
+We all noticed it.	Wir alle haben es bemerkt.	हम सभी ने इसे देखा।
+We always had fun.	Wir hatten immer Spaß.	हमेशा मज़ा आता था।
+We are not amused.	Wir sind nicht amüsiert.	हमें मज़ा नहीं आया।
+We are who we are.	Wir sind, wer wir sind.	हम वही हैं जो हम हैं।
+We aren't enemies.	Wir sind keine Feinde.	हम दुश्मन नहीं हैं।
+We aren't married.	Wir sind nicht verheiratet.	हम विवाहित नहीं हैं।
+We believe in God.	Wir glauben an Gott.	हम भगवान में विश्वास करते हैं।
