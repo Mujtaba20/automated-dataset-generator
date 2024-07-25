@@ -12811,3 +12811,13 @@ I'm 18 years old.	Ich bin 18 Jahre alt.	मैं 18 वर्षीय हू�
 I'm 25 years old.	Ich bin 25 Jahre alt.	मैं 25 साल का हूँ।
 I'm OK with that.	Ich habe nichts dagegen.	मुझे उसके साथ कोई आपत्ति नहीं है।
 I'm Tom's cousin.	Ich bin der Cousin von Tom.	मैं टॉम का चचेरा भाई हूँ।
+I'm Tom's doctor.	Ich bin Toms Arzt.	मैं टॉम का डॉक्टर हूँ।
+I'm Tom's driver.	Ich bin Toms Fahrer.	मैं टॉम का ड्राइवर हूँ।
+I'm Tom's father.	Ich bin Toms Vater.	मैं टॉम का पिता हूँ।
+I'm Tom's friend.	Ich bin Toms Freund.	मैं टॉम का दोस्त हूँ।
+I'm Tom's lawyer.	Ich bin Toms Anwalt.	मैं टॉम का वकील हूँ।
+I'm Tom's mentor.	Ich bin Toms Mentor.	मैं टॉम का मेंटर हूँ।
+I'm Tom's mother.	Ich bin Toms Mutter.	मैं टॉम की माँ हूँ।
+I'm Tom's nephew.	Ich bin Toms Neffe.	मैं टॉम का भतीजा हूँ।
+I'm Tom's sister.	Ich bin Toms Schwester.	मैं टॉम की बहन हूँ।
+I'm a US citizen.	Ich bin US-Bürger.	मैं अमेरिकी नागरिक हूँ।
