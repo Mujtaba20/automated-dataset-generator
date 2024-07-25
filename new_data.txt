@@ -8206,3 +8206,13 @@ Can I trust Tom?	Kann ich Tom vertrauen?	क्या मैं टॉम पर
 Can I work here?	Kann ich hier arbeiten?	क्या मैं यहाँ काम कर सकता हूँ?
 Can Tom do that?	Kann Tom das machen?	क्या टॉम वह कर सकता है?
 Can Tom help us?	Kann Tom uns helfen?	क्या टॉम हमें मदद कर सकता है?
+Can birds smell?	Können Vögel riechen?	क्या पंछी सूंघ सकते हैं?
+Can they see me?	Können sie mich sehen?	क्या वे मुझे देख सकते हैं?
+Can we fix this?	Können wir das reparieren?	क्या हम इसे ठीक कर सकते हैं?
+Can we fix this? (different meaning)	Können wir das lösen?	क्या हम इसे सुलझा सकते हैं?
+Can we help you?	Können wir dir helfen?	क्या हम आपकी मदद कर सकते हैं?
+Can we talk now?	Können wir jetzt reden?	क्या हम अब बात कर सकते हैं?
+Can you be sure?	Kannst du sicher sein?	क्या आप पक्के हो सकते हैं?
+Can you chip in?	Kannst du mithelfen?	क्या आप मदद कर सकते हैं?
+Can you do that?	Kannst du das machen?	क्या तुम ऐसा कर सकते हो?
+Can you do that? (different meaning)	Kannst du das verstehen?	क्या तुम वह कर सकते हो?
