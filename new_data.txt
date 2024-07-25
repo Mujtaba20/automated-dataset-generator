@@ -15230,3 +15230,13 @@ Where's my diary?	Wo ist mein Tagebuch?	मेरी डायरी कहा�
 Where's my horse?	Wo ist mein Pferd?	मेरा घोड़ा कहाँ है?
 Where's my lunch?	Wo ist mein Mittagessen?	मेरा लंच कहाँ है?
 Where's my mommy?	Wo ist meine Mama?	मेरी मम्मी कहाँ हैं?
+Where's my money?	Wo ist mein Geld?	मेरे पैसे कहां हैं?
+Where's my phone?	Wo ist mein Handy?	मेरा फोन कहां है?
+Where's my pizza?	Wo ist meine Pizza?	मेरा पिज्जा कहां है?
+Where's my shirt?	Wo ist mein Hemd?	मेरी कमीज़ कहां है?
+Where's my towel?	Wo ist mein Handtuch?	मेरी तौलिया कहां है?
+Where's my watch?	Wo ist meine Uhr?	मेरी घड़ी कहां है?
+Where's the ball?	Wo ist der Ball?	गेंद कहां है?
+Where's the bank?	Wo ist die Bank?	बैंक कहां है?
+Where's the boss?	Wo ist der Chef?	बॉस कहां है?
+Where's the cook?	Wo ist der Koch?	रसोइया कहां है?
