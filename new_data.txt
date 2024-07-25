@@ -15609,3 +15609,9 @@ Can you eat these?	Kannst du das essen?	क्या तुम ये खा स
 Can you handle it?	Kannst du damit umgehen?	क्या तुम इसे संभाल सकते हो?
 Can you jump rope?	Kannst du Seil springen?	क्या तुम रस्सी कूद सकते हो?
 Can you read that?	Kannst du das lesen?	क्या तुम वह पढ़ सकते हो?
+Can you read this?	Kannst du das lesen?	क्या तुम यह पढ़ सकते हो?
+Can you tie a bow?	Kannst du eine Schleife binden?	क्या तुम एक बो बांध सकते हो?
+Can't we fire Tom?	Können wir Tom nicht feuern?	क्या हम टॉम को निकाल नहीं सकते?
+Can't you help us?	Kannst du uns nicht helfen?	क्या तुम हमें मदद नहीं कर सकते?
+Can't you lift me?	Kannst du mich nicht heben?	क्या तुम मुझे उठा नहीं सकते?
+Carry this for me.	Trag das für mich.	इसे मेरे लिए उठाओ।
