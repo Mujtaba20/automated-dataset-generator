@@ -16759,3 +16759,10 @@ I owe him nothing.	Ich schulde ihm nichts.	मैं उसे कुछ नह�
 I owe you a lunch.	Ich schulde dir ein Mittagessen.	मैं तुम्हें एक लंच देता हूं।
 I owe you a favor.	Ich schulde dir einen Gefallen.	मैं तुम्हें एक योग्यता देता हूं।
 I owe you an apology.	Ich schulde dir eine Entschuldigung.	मैं तुम्हें माफी मांगता हूं।
+I owe you my life.	Ich verdanke dir mein Leben.	मैं आपके जीवन का ऋणी हूँ।
+I owe you nothing.	Ich schulde dir nichts.	मैं आपसे कुछ नहीं देता।
+I owe you so much.	Ich schulde dir so viel.	मैं आपको इतना ऋणी हूँ।
+I paid in advance.	Ich habe im Voraus bezahlt.	मैंने पहले ही भुगतान किया।
+I play chess, too.	Ich spiele auch Schach.	मैं भी शतरंज खेलता हूँ।
+I play the guitar.	Ich spiele Gitarre.	मैं गिटार बजाता हूँ।
+I play the violin.	Ich spiele Violine.	मैं वायलिन बजाता हूँ।
