@@ -17222,3 +17222,12 @@ Is it really true?	Ist es wirklich wahr?	क्या यह सच है?
 Is it snowing now?	Schneit es jetzt?	क्या यहाँ अभी बर्फ गिर रही है?
 Is it still there?	Ist es immer noch da?	क्या वह अभी भी वहाँ है?
 Is it that urgent?	Ist es so dringend?	क्या यह इतना जल्दी काम करना है?
+Is life here hard?	Ist das Leben hier hart?	क्या यहाँ जीना कठिन है?
+Is one of you Tom?	Ist einer von euch Tom?	क्या आपमें से कोई टॉम है?
+Is somebody there?	Ist da jemand?	क्या वहाँ कोई है?
+Is that Tom's car?	Ist das Toms Auto?	क्या यह टॉम की कार है?
+Is that a new car?	Ist das ein neues Auto?	क्या यह एक नई कार है?
+Is that a new tie?	Ist das eine neue Krawatte?	क्या यह एक नया टाई है?
+Is that a problem?	Ist das ein Problem?	क्या यह समस्या है?
+Is that a promise?	Ist das ein Versprechen?	क्या यह एक वादा है?
+Is that car yours?	Ist das Auto deins?	क्या यह गाड़ी तुम्हारी है?
