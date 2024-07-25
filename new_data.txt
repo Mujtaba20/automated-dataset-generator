@@ -15885,3 +15885,10 @@ Get ready quickly.	Schnell fertig machen.	जल्दी से तैयार
 Get some blankets.	Hol einige Decken.	कुछ कंबल लेआओ।
 Get some rest now.	Erhol dich jetzt.	अब थोड़ी आराम करो।
 Give Tom a tissue.	Gib Tom ein Taschentuch.	टॉम को एक टिश्यू दो।
+Give Tom his keys.	Gib Tom seine Schlüssel.	टॉम को उसकी चाबियाँ दो।
+Give Tom the $300.	Gib Tom die 300 Dollar.	टॉम को वह 300 डॉलर दे दो।
+Give it to me now.	Gib es mir jetzt.	अब वह मुझे दो।
+Give me an orange.	Gib mir eine Orange.	मुझे एक संतरा दो।
+Give me five days.	Gib mir fünf Tage.	मुझे पांच दिन दे।
+Give me some milk.	Gib mir etwas Milch.	मुझे कुछ दूध दो।
+Give me that book.	Gib mir das Buch.	मुझे वह किताब दो।
