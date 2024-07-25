@@ -16925,3 +16925,10 @@ I was in the area.	Ich war in der Gegend.	मैं क्षेत्र मे
 I was just joking.	Ich habe nur gescherzt.	मैं सिर्फ मजाक कर रहा था।
 I was just mugged.	Mir wurde gerade geraubt.	मुझसे अभी हाल ही में लूट हुई थी।
 I was just mugged. (Different meaning)	Ich wurde gerade überfallen.	मैंने अभी हाल ही में बर्बरतापूर्ण हमला सहा था।
+I was just scared.	Ich hatte nur Angst.	मैं बस डरा हुआ था।
+I was left behind.	Ich wurde zurückgelassen.	मैं पीछे छोड़ दिया गया था।
+I was not pleased.	Ich war nicht zufrieden.	मैं खुश नहीं था।
+I was on the list.	Ich stand auf der Liste.	मैं सूची पर था।
+I was only joking.	Ich habe nur Spaß gemacht.	मैं बस मजाक कर रहा था।
+I was out all day.	Ich war den ganzen Tag draußen.	मैं पूरे दिन बाहर था।
+I was overwhelmed.	Ich war überwältigt.	मैं उत्साहित था।
