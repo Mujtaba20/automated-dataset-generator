@@ -9201,3 +9201,13 @@ I'm Tom Jackson.	Ich bin Tom Jackson.	मैं टॉम जैक्सन ह
 I'm Tom's guest.	Ich bin Toms Gast.	मैं टॉम का मेहमान हूँ।
 I'm Tom's niece.	Ich bin Toms Nichte.	मैं टॉम की भांजी हूँ।
 I'm Tom's rival.	Ich bin Toms Rivale.	मैं टॉम का प्रतिद्वंद्वी हूँ।
+I'm Tom's uncle.	Ich bin Toms Onkel.	मैं टॉम का चाचा हूँ।
+I'm a Christian.	Ich bin Christ.	मैं एक क्रिश्चियन हूँ।
+I'm a TV addict.	Ich bin fernsehsüchtig.	मैं टीवी के शौकीन हूँ।
+I'm a TV addict. (different meaning)	Ich bin süchtig nach Fernseher.	मैं चाहने वाला टीवी का हूँ।
+I'm a biologist.	Ich bin Biologe.	मैं जीवविज्ञानी हूँ।
+I'm a biologist. (different meaning)	Ich bin ein Biologie-Forscher.	मैं जीवविज्ञान का गहनाचारी हूँ।
+I'm a bit crazy.	Ich bin ein bisschen verrückt.	मैं थोड़े पागल हूँ।
+I'm a bit drunk.	Ich bin ein bisschen betrunken.	मैं थोड़े नशे में हूँ।
+I'm a bit tipsy.	Ich bin ein bisschen angeheitert.	मैं थोड़े उत्तेजित हूँ।
+I'm a bit tired.	Ich bin ein bisschen müde.	मैं थोड़ा थका हुआ हूँ।
