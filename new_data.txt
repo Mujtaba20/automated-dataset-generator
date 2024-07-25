@@ -1083,3 +1083,10 @@ I'm greedy.	Ich bin gierig.	मैं लालची हूँ।
 I'm hiding.	Ich verstecke mich.	मैं छिपा हूँ।
 I'm humble.	Ich bin demütig.	मैं विनम्र हूँ।
 I'm hungry!	Ich habe Hunger!	मुझे भूख लगी है!
+I'm hungry.	Ich habe Appetit.	मुझे भूख लगी है।
+I'm immune.	Ich bin immun.	मैं प्रतिरक्षित हूँ।
+I'm in bed.	Ich bin im Bett.	मैं बिस्तर में हूँ।
+I'm inside.	Ich bin drinnen.	मैं अंदर हूँ।
+I'm lonely.	Ich bin einsam.	मैं अकेला हूँ।
+I'm losing.	Ich bin am Verlieren.	मैं हार रहा हूँ।
+I'm mature.	Ich bin reif.	मैं परिपक्व हूँ।
