@@ -7579,3 +7579,13 @@ Tom stayed put.	Tom blieb ruhig.	टॉम ठिकाने पर रहा�
 Tom stood back.	Tom stand zurück.	टॉम पिछटाया।
 Tom stopped by.	Tom hielt an.	टॉम वहाँ रुका।
 Tom stopped it.	Tom hat es gestoppt.	टॉम ने यह बंद किया।
+engSentence1	Tom hat mich gestoppt.	टॉम ने मुझे रोक लिया।
+engSentence2	Tom hat mich gestoppt.	टॉम ने मुझे रोक दिया।
+engSentence3	Tom schwimmt hier.	टॉम यहाँ तैरता है।
+engSentence4	Tom schwimmt gut.	टॉम अच्छे से तैरता है।
+engSentence5	Tom spricht schnell.	टॉम तेज़ी से बात करता है।
+engSentence6	Tom spricht schnell.	टॉम जल्दी बोलता है।
+engSentence7	Tom hat über mich petzt.	टॉम ने मेरे बारे में बता दिया।
+engSentence8	Tom nahm ein Taxi.	टॉम ने एक टैक्सी ली।
+engSentence9	Tom machte ein Nickerchen.	टॉम ने एक छोटी से नींद ली।
+engSentence10	Tom suchte Schutz.	टॉम ने रक्षा ली।
