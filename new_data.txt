@@ -20404,3 +20404,10 @@ Do I need stitches?	Brauche ich Stiche?	क्या मुझे स्टि�
 Do I owe you money?	Soll ich Ihnen Geld geben?	क्या मुझे आपके पास पैसे देने हैं?
 Do I sound in love?	Klinge ich verliebt?	क्या मैं प्यार में हूँ?
 Do as he tells you.	Handele nach seinen Anweisungen.	जैसा वह आपसे कहता है, वैसा करो।
+Do it by all means.	Tu es auf jeden Fall.	सब तरह से करें।
+Do like I said, OK?	Mach es so, wie ich gesagt habe, okay?	जैसा मैंने कहा वैसा करो, ठीक है?
+Do they have money?	Haben sie Geld?	क्या उनके पास पैसे हैं?
+Do you believe Tom?	Glaubst du Tom?	क्या तुम टॉम पर विश्वास करते हो?
+Do you believe him?	Glaubst du ihm?	क्या तुम उस पर विश्वास करते हो?
+Do you feel better?	Fühlst du dich besser?	क्या तुम्हे अब अच्छा लग रहा है?
+Do you feel guilty?	Fühlst du dich schuldig?	क्या तुम्हें अपराधी महसूस हो रहा है?
