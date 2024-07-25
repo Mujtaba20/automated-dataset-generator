@@ -11444,3 +11444,8 @@ You're too late.	Du bist zu spät.	तुम बहुत देर से आ�
 You're too late.1	Du bist zu spät dran.	तुम बहुत देर कर दिया।
 You're unbiased.	Du bist unvoreingenommen.	तुम निष्पक्ष हो।
 You're up early.	Du bist früh auf.	तुम जल्दी उठते हो।
+You're wasteful.	Du bist verschwenderisch.	तुम अपव्ययी हो।
+You've been had.	Du wurdest hereingelegt.	तुमने बड़ा झटका खाया है।
+You've found it.	Du hast es gefunden.	तुमने यह पाया है।
+You're wasteful. (different meaning)	Du vergeudest.	तुम अपव्यय करते हो।
+You've found it. (different meaning)	Du hast es entdeckt.	तुमने इसे खोज निकाला है।
