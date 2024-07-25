@@ -9579,3 +9579,10 @@ Just be careful.	Sei einfach vorsichtig.	सिर्फ सावधान र�
 Just follow Tom.	Folgen Sie einfach Tom.	बस टॉम का पालन करो।
 Just ignore Tom.	Einfach Tom ignorieren.	बस टॉम को नज़रअंदाज करें।
 Just let Tom go.	Lass Tom einfach gehen.	बस टॉम को जाने दो।
+Just stay close.	Bleib einfach in der Nähe.	बस पास रहो।
+Just try it out.	Probier es einfach aus.	बस इसकी कोशिश करो।
+Just wrap it up.	Pack es einfach ein.	बस इसे लपेट लो।
+Keep Tom inside.	Halte Tom drinnen.	टॉम को अंदर रखो।
+Keep me updated.	Halte mich auf dem Laufenden.	मुझे अपडेट करते रहो।
+Keep on smiling.	Behalte dein Lächeln bei.	हँसते रहो।
+Keep on working.	Mach weiter so.	काम करते रहो।
