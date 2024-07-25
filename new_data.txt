@@ -19418,3 +19418,12 @@ Tom won't respond.	Tom wird nicht reagieren.	टॉम प्रतिक्र�
 Tom won't succeed.	Tom wird nicht erfolgreich sein.	टॉम सफल नहीं होगा।
 Tom won't succeed. (alternative meaning)	Tom wird es nicht schaffen.	टॉम यह नहीं करेगा।
 Tom won't succeed. (second alternative meaning)	Tom hat keinen Erfolg.	टॉम को सफलता नहीं मिलेगी।
+Tom won't survive.	Tom wird nicht überleben.	टॉम बच नहीं पाएगा।
+Tom wore a fedora.	Tom trug einen Fedora.	टॉम ने एक फेडोरा पहना था।
+Tom wore a tuxedo.	Tom trug einen Smoking.	टॉम ने एक टक्सीडो पहना था।
+Tom works at home.	Tom arbeitet zu Hause.	टॉम घर पर काम करता है।
+Tom works indoors.	Tom arbeitet drinnen.	टॉम अंदर काम करता है।
+Tom would approve.	Tom würde zustimmen.	टॉम स्वीकृति देना चाहेगा।
+Tom would do that.	Tom würde das tun.	टॉम वह करेगा।
+Tom wouldn't care.	Tom würde sich nicht kümmern.	टॉम को परवाह नहीं है।
+Tom wouldn't come.	Tom würde nicht kommen.	टॉम नहीं आएगा।

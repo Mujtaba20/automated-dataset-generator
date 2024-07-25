@@ -1,14 +1,4 @@
 
-Tom won't survive.	Tom wird nicht überleben.	टॉम जीवित नहीं रहेगा।
-Tom wore a fedora.	Tom trug einen Filzhut.	टॉम ने एक महसूस की गई टोपी पहनी हुई थी।
-Tom wore a tuxedo.	Tom trug einen Smoking.	टॉम ने एक टक्सीडो पहना था।
-Tom works at home.	Tom arbeitet zu Hause.	टॉम घर पर काम करता है।
-Tom works indoors.	Tom arbeitet drinnen.	टॉम अंदर काम करता है।
-Tom would approve.	Tom würde zustimmen.	टॉम सहमत होगा।
-Tom would do that.	Tom würde das tun.	टॉम ऐसा करेगा।
-Tom wouldn't care.	Tom würde es nicht kümmern.	टॉम चिंता नहीं करेगा।
-Tom wouldn't care.	Tom wäre es egal.	टॉम परवाह नहीं करेंगे।
-Tom wouldn't come.	Tom würde nicht kommen.	टॉम नहीं आएगा।
 Tom wouldn't know.	Tom würde es nicht wissen.	टॉम को नहीं पता होगा।
 Tom wouldn't mind.	Tom hätte nichts dagegen.	टॉम बुरा नहीं होगा।
 Tom wouldn't move.	Tom würde sich nicht bewegen.	टॉम नहीं चलेगा।
