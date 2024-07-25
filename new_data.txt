@@ -15685,3 +15685,8 @@ Did you hear that?	Hast du das gehört?	क्या तुमने वह स�
 Did you know that?	Wusstest du das?	क्या आपको यह पता था?
 Did you know this?	Hast du das gewusst?	क्या तुम्हें यह पता था?
 Did you hear this?	Hast du das gehört?	क्या तुमने यह सुना?
+Did you like that?	Hast du das gerne gemocht?	क्या तुम्हें वह पसंद आया?
+Did you live here?	Hast du hier gelebt?	क्या तुम यहाँ रहे थे?
+Did you live here? (different meaning)	Wohnten Sie hier?	क्या आप यहाँ रहे थे?
+Did you mean this?	Meintest du das?	क्या तुम इसका मतलब था?
+Did you mean this? (different meaning)	Haben Sie das gemeint?	क्या आपने यह माना?
