@@ -1,15 +1,4 @@
 
-They pay Tom well.	Sie bezahlen Tom gut.	आप टॉम को अच्छी तरह से भुगतान करते हैं।
-They ran after us.	Sie rannten uns hinterher.	वे हमारे पीछे भाग गए।
-They ran past Tom.	Sie rannten an Tom vorbei.	वे टॉम के पीछे भाग गए।
-They released Tom.	Sie haben Tom entlassen.	आपने टॉम जारी किया है।
-They said it's OK.	Sie haben gesagt, das gehe in Ordnung.	आपने कहा कि ठीक है।
-They sang in tune.	Sie sangen richtig.	उन्होंने ठीक से गाया।
-They spoke French.	Sie sprachen Französisch.	आपने फ्रेंच बात की।
-They tortured Tom.	Sie folterten Tom.	उन्होंने टॉम को प्रताड़ित किया।
-They want it back.	Sie wollen es wiederhaben.	आप इसे फिर से चाहते हैं।
-They want it back.	Sie wollen sie wiederhaben.	आप उन्हें फिर से चाहते हैं।
-They want it back.	Sie wollen ihn wiederhaben.	आप उसे फिर से चाहते हैं।
 They want to come.	Sie wollen kommen.	आप आना चाहते हैं।
 They want to help.	Sie wollen helfen.	आप मदद करना चाहते हैं।
 They wanted proof.	Er wollte Beweise sehen.	वह सबूत देखना चाहता था।

@@ -18148,3 +18148,12 @@ They look like us.	Sie sehen aus wie wir.	Unhe hamare jaise lagte hain.
 They missed a lot.	Sie haben viel verpasst.	Unhe bahut kuch chhoot gaya.
 They murdered Tom.	Sie haben Tom ermordet.	Unhone Tom ko qatal kiya.
 They must be dead.	Sie müssen tot sein.	Unka toh marna hi padega.
+They pay Tom well.	Sie zahlen Tom gut.	वे टॉम को अच्छे से अदायगी करते हैं।
+They ran after us.	Sie rannten uns hinterher.	उन्होंने हमारे पीछे भागा।
+They ran past Tom.	Sie rannten an Tom vorbei.	उन्होंने टॉम के पास भागा।
+They released Tom.	Sie ließen Tom frei.	उन्होंने टॉम को रिहा किया।
+They said it's OK.	Sie sagten, es ist in Ordnung.	उन्होंने कहा कि ठीक है।
+They sang in tune.	Sie sangen im Einklang.	वे सुर में गा रहे थे।
+They spoke French.	Sie sprachen Französisch.	उन्होंने फ्रेंच बोला।
+They tortured Tom.	Sie quälten Tom.	उन्होंने टॉम को पीड़ित किया।
+They want it back.	Sie mögen es zurück.	वे इसे वापस चाहते हैं।
