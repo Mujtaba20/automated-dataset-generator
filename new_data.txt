@@ -17749,3 +17749,11 @@ She is unsociable.	Sie ist ungesellig.	वह असामाजिक है।
 She isn't married.	Sie ist nicht verheiratet.	वह शादीशुदा नहीं है।
 She isn't running.	Sie läuft nicht.	वह नहीं दौड़ रही है।
 She keeps secrets.	Sie bewahrt Geheimnisse.	वह राज रखती है।
+She knows my wife.	Sie kennt meine Frau.	उसे मेरी पत्नी को पहचानती है।
+She left the room.	Sie hat den Raum verlassen.	उसने कमरा छोड़ दिया।
+She likes oranges.	Sie mag Orangen.	उसे संतरे पसंद हैं।
+She likes to sing.	Sie singt gerne.	उसे गाने का शौक है।
+She looked around.	Sie schaute sich um.	उसने आस-पास देखा।
+She looked lonely.	Sie wirkte einsam.	उसने अकेली दिखाई दी।
+She looks unhappy.	Sie sieht unglücklich aus.	उसे अखण्डित लगती है।
+She loves singing.	Sie liebt es zu singen.	उसे गाने से प्यार है।
