@@ -12151,3 +12151,11 @@ How can you tell?	Wie kannst du das sagen?	तुम ऐसे कैसे क�
 How come you ask?	Warum fragst du?	तुम कैसे पूछ सकते हो?
 How cool is that?	Wie cool ist das?	वह कितना कूल है?
 How did he do it?	Wie hat er das gemacht?	उसने यह कैसे किया?
+How did you meet?	Wie hast du dich getroffen?	तुमने कैसे मिला?
+How do I do that?	Wie mache ich das?	मैं ऐसा कैसे करूँ?
+How do I do this?	Wie mache ich das?	मैं यह कैसे करूँ?
+How do I get one?	Wie bekomme ich eins?	मुझे एक कैसे मिलेगा?
+How do they know?	Wie wissen sie?	वे कैसे जानते हैं?
+How do they look?	Wie sehen sie aus?	वे कैसे लगते हैं?
+How do you do it?	Wie machst du das?	तुम इसे कैसे करते हो?
+How do you plead?	Wie plädieren Sie?	आप कैसे प्रतिज्ञा देते हैं?
