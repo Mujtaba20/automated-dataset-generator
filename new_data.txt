@@ -661,3 +661,9 @@ Jump down.	Spring runter.	नीचे कूदो।
 Just swim.	Einfach schwimmen.	बस तैरो।
 Keep away.	Halte Abstand.	दूर रहो।
 Keep away. (Alternate meaning)	Vermeide es.	दूर रहो।
+Keep back.	Zurückhalten.	पीछे रखें।
+Keep calm.	Ruhig bleiben.	शांत रहें।
+Keep cool.	Cool bleiben.	ठंडा रहें।
+Keep down.	Unten bleiben.	नीचे रहें।
+Keep that.	Das behalten.	वह रखें।
+Keep them.	Sie behalten.	उन्हें रखें।
