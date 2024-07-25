@@ -4575,3 +4575,13 @@ It's not gold.	Es ist kein Gold.	यह सोना नहीं है।
 It's not good.	Es ist nicht gut.	यह अच्छा नहीं है।
 It's not here.	Es ist nicht hier.	यह यहाँ नहीं है।
 It's not mine.	Es ist nicht meins.	यह मेरा नहीं है।
+It's not true.	Es ist nicht wahr.	यह सच नहीं है।
+It's not ugly.	Es ist nicht hässlich.	यह बुरा नहीं है।
+It's obsolete.	Es ist veraltet.	यह पुराना हो गया है।
+It's occupied.	Es ist besetzt.	यह ले लिया गया है।
+It's optional.	Es ist optional.	यह वैकल्पिक है।
+It's over now.	Es ist jetzt vorbei.	यह अब खत्म हो गया है।
+It's possible.	Es ist möglich.	यह संभव है।
+It's so quiet.	Es ist so ruhig.	यह इतना शांत है।
+It's so sweet.	Es ist so süß.	यह इतना प्यारा है।
+It's the cops!	Es sind die Polizisten!	ये पुलिस हैं!
