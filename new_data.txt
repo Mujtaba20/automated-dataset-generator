@@ -19282,3 +19282,11 @@ Tom was brilliant.	Tom war brillant.	टॉम उत्कृष्ट था�
 Tom was carjacked.	Tom wurde autoentführt.	टॉम कार उधार लेने वाले ने उद्धार कर लिया।
 Tom was chuckling.	Tom kicherte.	टॉम किचचिचाया।
 Tom was competent.	Tom war kompetent.	टॉम पेशेवर था।
+Tom was concerned.	Tom war besorgt.	टॉम चिंतित था।
+Tom was confident.	Tom war zuversichtlich.	टॉम आत्मविश्वासी था।
+Tom was contented.	Tom war zufrieden.	टॉम संतुष्ट था।
+Tom was convinced.	Tom war überzeugt.	टॉम प्रस्तुत था।
+Tom was courteous.	Tom war höflich.	टॉम शिष्ट था।
+Tom was dangerous.	Tom war gefährlich.	टॉम खतरनाक था।
+Tom was delighted.	Tom war begeistert.	टॉम प्रसन्न था।
+Tom was delirious.	Tom war wahnsinnig.	टॉम उत्तेजित था।

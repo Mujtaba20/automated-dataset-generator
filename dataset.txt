@@ -1,14 +1,4 @@
 
-Tom was concerned.	Tom war bekümmert.	टॉम चिंतित था।
-Tom was concerned.	Tom war betroffen.	टॉम प्रभावित था।
-Tom was confident.	Tom war selbstbewusst.	टॉम आश्वस्त था।
-Tom was contented.	Tom war zufrieden.	टॉम संतुष्ट था।
-Tom was convinced.	Tom war überzeugt.	टॉम आश्वस्त था।
-Tom was courteous.	Tom war höflich.	टॉम विनम्र था।
-Tom was courteous.	Tom war zuvorkommend.	टॉम विनम्र था।
-Tom was dangerous.	Tom war gefährlich.	टॉम खतरनाक था।
-Tom was delighted.	Tom war hocherfreut.	टॉम खुश थे।
-Tom was delirious.	Tom war im Delirium.	टॉम प्रलाप में था।
 Tom was demanding.	Tom war anspruchsvoll.	टॉम मांग कर रहा था।
 Tom was depressed.	Tom war deprimiert.	टॉम उदास था।
 Tom was desperate.	Tom war verzweifelt.	टॉम हताश था।
