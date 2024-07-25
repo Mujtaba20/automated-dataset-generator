@@ -3438,3 +3438,10 @@ Tom ran away.	Tom rannte weg.	टॉम भागा।
 Tom ran home.	Tom lief nach Hause.	टॉम घर भाग गया।
 Tom relented.	Tom überwand.	टॉम मान गया।
 Tom resigned.	Tom trat zurück.	टॉम ने इस्तीफा दिया।
+Tom said yes.	Tom sagte ja.	टॉम ने हाँ कहा।
+Tom sat down.	Tom legte sich hin.	टॉम बैठ गया।
+Tom saw Mary.	Tom traf Maria.	टॉम ने मैरी को देखा।
+Tom saw them.	Tom sah sie.	टॉम ने उन्हें देखा।
+Tom screamed.	Tom schrie.	टॉम चिल्लाया।
+Tom shivered.	Tom zitterte.	टॉम काँप रहा था।
+Tom showered.	Tom regnete.	टॉम ने झूला।
