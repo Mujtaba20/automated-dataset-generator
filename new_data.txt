@@ -384,3 +384,9 @@ She came.	Sie kam.	वह आई।
 She lied.	Sie log.	उसने झूठ बोला।
 She runs.	Sie läuft.	वह दौड़ती है।
 Sit down!	Setz dich!	बैठो!
+Sit down.	Setz dich.	बैठ जाओ।
+Speak up!	Sprich lauter!	बोलो!
+Stand up!	Steh auf!	खड़े हो जाओ!
+Stand up.	Erhebe dich.	उठो।
+Stop Tom.	Stoppe Tom.	तोम को रोको।
+Take Tom.	Nimm Tom.	तॉम को ले जाओ।
