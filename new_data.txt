@@ -8672,3 +8672,11 @@ I can afford it.	Ich kann es mir leisten.	मैं यह फिलहाल �
 I can do it now.	Ich kann es jetzt machen.	मैं अब यह कर सकता हूँ।
 I can drive you.	Ich kann dich fahren.	मैं तुम्हें ड्राइव कर सकती हूँ।
 I can handle it.	Ich kann damit umgehen.	मैं इसे संभाल सकता हूं।
+I can see smoke.	Ich kann Rauch sehen.	मैं धुंध देख सकता हूँ।
+I can swim fast.	Ich kann schnell schwimmen.	मैं तेजी से तैर सकता हूँ।
+I can walk home.	Ich kann nach Hause gehen.	मैं घर पे चल सकता हूँ।
+I can't be late.	Ich kann nicht zu spät kommen.	मैं देर से नहीं हो सकता।
+I can't breathe.	Ich kann nicht atmen.	मैं सांस नहीं ले सकता।
+I can't deny it.	Ich kann es nicht leugnen.	मैं इसे नकार नहीं सकता।
+I can't do that.	Ich kann das nicht tun.	मैं वह नहीं कर सकता।
+I can't do that. (different meaning)	Das kann ich nicht ertragen.	मैं वह नहीं कर सकता।
