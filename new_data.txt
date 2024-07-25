@@ -6211,3 +6211,11 @@ I own this car.	Ich besitze dieses Auto.	मेरे पास यह कार
 I own this car. (different meaning)	Ich gehöre zu diesem Auto.	यह कार मेरी है।
 I paid in cash.	Ich habe bar bezahlt.	मैंने नकद में भुगतान किया।
 I paid nothing.	Ich habe nichts bezahlt.	मैंने कुछ नहीं भुगतान किया।
+I pay Tom well.	Ich bezahle Tom gut.	मैं टॉम को अच्छी तरह से भुगतान करता हूँ।
+I pay my taxes.	Ich zahle meine Steuern.	मैं अपनी कर भरता हूँ।
+I plead guilty.	Ich bekenne mich schuldig.	मैं अपनी दोष स्वीकार करता हूँ।
+I prefer black.	Ich bevorzuge Schwarz.	मैं काले को पसंद करता हूँ।
+I promised Tom.	Ich habe Tom versprochen.	मैंने टॉम को वादा किया।
+I quit smoking.	Ich höre mit dem Rauchen auf.	मैं धूम्रपान छोड़ दिया।
+I raise cattle.	Ich züchte Rinder.	मैं पशु पालन करता हूँ।
+I ran past Tom.	Ich bin an Tom vorbeigelaufen.	मैंने टॉम के पास दौड़ा।
