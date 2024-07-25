@@ -8971,3 +8971,10 @@ I never saw Tom.	Ich habe Tom nie gesehen.	मैंने कभी टॉम �
 I never was shy.	Ich war nie schüchtern.	मैं कभी भी शर्मीला नहीं था।
 I often see him.	Ich sehe ihn oft.	मैं उसे अक्सर देखता हूँ।
 I only need Tom.	Ich brauche nur Tom.	मुझे सिर्फ टॉम की जरुरत है।
+I only want Tom.	Ich möchte nur Tom.	मुझे सिर्फ टॉम चाहिए।
+I only want one.	Ich möchte nur eins.	मुझे सिर्फ एक चाहिए।
+I ordered pizza.	Ich habe Pizza bestellt.	मैंने पिज्जा ऑर्डर किया।
+I owe Tom money.	Ich schulde Tom Geld.	मेरे पास टॉम के पैसे हैं।
+I paid my bills.	Ich habe meine Rechnungen bezahlt.	मैंने अपने बिल भुगतान किया।
+I paid the bill.	Ich habe die Rechnung bezahlt.	मैंने बिल भुगतान किया।
+I play baseball.	Ich spiele Baseball.	मैं बेसबॉल खेलता हूं।
