@@ -11942,3 +11942,10 @@ He fell backward.	Er fiel rückwärts.	वह पीछे की ओर गि�
 He fixed the net.	Er reparierte das Netz.	उसने जाल ठीक किया।
 He flew to Paris.	Er flog nach Paris.	वह पेरिस को उड़ान भरी।
 He found my bike.	Er fand mein Fahrrad.	उसने मेरी साइकिल ढूंढी।
+He gave a speech.	Er hielt eine Rede.	उसने भाषण दिया।
+He gave it to me.	Er gab es mir.	उसने यह मुझे दिया।
+He gave me a hug.	Er umarmte mich.	उसने मुझे गले लगाया।
+He gets up early.	Er steht früh auf.	वह जल्दी उठता है।
+He got a new job.	Er hat einen neuen Job bekommen.	उसने नौकरी पाई।
+He had few teeth.	Er hatte wenige Zähne.	उसके कुछ दाँत थे।
+He had gray hair.	Er hatte graue Haare.	उसके बाल सफेद थे।
