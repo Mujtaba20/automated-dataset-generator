@@ -14499,3 +14499,13 @@ Tom looks wobbly.	Tom sieht wacklig aus.	टॉम लहराता हुआ 
 Tom lost control.	Tom hat die Kontrolle verloren.	टॉम नियंत्रण खो दिया।
 Tom lost his hat.	Tom hat seinen Hut verloren.	टॉम ने अपनी टोपी खो दी।
 Tom lost his job.	Tom hat seinen Job verloren.	टॉम ने अपनी नौकरी गवा दी।
+Tom lost his way.	Tom hat sich verirrt.	टॉम ने अपना रास्ता खो दिया।
+Tom lost the bet.	Tom verlor die Wette.	टॉम ने दाँव हार दिया।
+Tom lost the bet.1	Tom hat die Wette verloren.	टॉम ने बाजी हार दी।
+Tom loved Boston.	Tom liebte Boston.	टॉम को बॉस्टन पसंद था।
+Tom loved horses.	Tom liebte Pferde.	टॉम को घोड़े पसंद थे।
+Tom loved school.	Tom liebte die Schule.	टॉम को स्कूल पसंद था।
+Tom loved skiing.	Tom liebte das Skifahren.	टॉम को स्की करना पसंद था।
+Tom loved sports.	Tom liebte Sport.	टॉम को खेल पसंद थे।
+Tom loves coffee.	Tom liebt Kaffee.	टॉम को कॉफ़ी पसंद है।
+Tom loves hockey.	Tom liebt Hockey.	टॉम को हॉकी पसंद है।
