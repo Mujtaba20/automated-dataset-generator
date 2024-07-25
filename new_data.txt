@@ -14182,3 +14182,12 @@ Tom is deceitful.	Tom ist betrügerisch.	टॉम धोखेबाज़ ह�
 Tom is dedicated.	Tom ist engagiert.	टॉम समर्पित है।
 Tom is defensive.	Tom ist defensiv.	टॉम संरक्षात्मक है।
 Tom is delighted.	Tom ist erfreut.	टॉम प्रसन्न है।
+Tom is delirious.	Tom ist verwirrt.	टॉम अव्याकुल है।
+Tom is demanding.	Tom ist fordernd.	टॉम की मांग है।
+Tom is depressed.	Tom ist deprimiert.	टॉम उदास है।
+Tom is desperate.	Tom ist verzweifelt.	टॉम निराश है।
+Tom is different.	Tom ist anders.	टॉम अलग है।
+Tom is difficult.	Tom ist schwierig.	टॉम कठिन है।
+Tom is disgusted.	Tom ist angewidert.	टॉम के मुँह से गंदगी आ रही है।
+Tom is dishonest.	Tom ist unehrlich.	टॉम बेईमान है।
+Tom is disturbed.	Tom ist beunruhigt.	टॉम परेशान है।
