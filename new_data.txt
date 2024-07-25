@@ -6567,3 +6567,11 @@ It makes sense.	Es ergibt Sinn.	यह समझ में आता है।
 It may be true.	Es könnte wahr sein.	यह सच हो सकता है।
 It must be Tom.	Es muss Tom sein.	यह टॉम होना चाहिए।
 It smells good!	Es riecht gut!	यह अच्छा खुशबूदार है!
+It sounds easy.	Es klingt leicht.	यह आसान ध्वनि देता है।
+It sure is hot.	Es ist wirklich heiß.	यह वाकई गर्म है।
+It tastes good.	Es schmeckt gut.	यह स्वादिष्ट लगता है।
+It was a dream.	Es war ein Traum.	यह एक सपना था।
+It was a mouse.	Es war eine Maus.	यह एक चूहा था।
+It was for Tom.	Es war für Tom.	यह टॉम के लिए था।
+It was my idea.	Es war meine Idee.	यह मेरी सोच थी।
+It was my plan.	Es war mein Plan.	यह मेरी योजना थी।
