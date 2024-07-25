@@ -20555,3 +20555,4 @@ Don't trust anyone.	Vertraue keiner Person.	किसी पर भरोसा 
 Don't wake the cat.	Wecke die Katze nicht auf.	बिल्ली को न जगाएं।
 Don't wake them up.	Wecke sie nicht auf.	उन्हें न जगाएं।
 Don't walk so fast.	Langsamer gehen.	तेज़ी से मत चलो।
+engSentence	Schreib nicht mit Tinte.	स्याही में मत लिखो।
