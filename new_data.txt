@@ -17258,3 +17258,10 @@ Is this a problem?	Ist das ein Problem?	क्या यह समस्या �
 Is this about Tom?	Geht es um Tom?	क्या यह टॉम के बारे में है?
 Is this all yours?	Ist das alles dir?	क्या यह सब तुम्हारा है?
 Is this bag Tom's?	Ist diese Tasche Toms?	क्या यह बैग टॉम की है?
+Is this car yours?	Ist dieses Auto von dir?	क्या यह गाड़ी तुम्हारी है?
+Is this confusing?	Ist das verwirrend?	क्या यह भ्रांतिकर है?
+Is this dog Tom's?	Ist dieser Hund von Tom?	क्या यह कुत्ता टॉम का है?
+Is this hat yours?	Ist dieser Hut deiner?	क्या यह टोपी तुम्हारी है?
+Is this our hotel?	Ist das unser Hotel?	क्या यह हमारा होटल है?
+Is this pen yours?	Ist dieser Stift deiner?	क्या यह कलम तुम्हारी है?
+Is this pure gold?	Ist das reines Gold?	क्या यह शुद्ध सोना है?
