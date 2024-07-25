@@ -1593,3 +1593,11 @@ I can do it.	Ich kann es schaffen.	मैं यह कर सकता हू�
 I can't eat.	Ich darf nicht essen.	मैं खा नहीं सकता।
 I can't fly.	Ich kann nicht fliegen.	मैं उड़ नहीं सकता।
 I can't say.	Ich kann nicht sagen.	मैं नहीं कह सकता।
+I can't see.	Ich kann nicht sehen.	मैं नहीं देख सकता।
+I cut class.	Ich schwänze die Schule.	मैं वर्ग काटता हूँ।
+I deny that.	Das leugne ich.	मैं इनकार करता हूँ।
+I didn't go.	Ich bin nicht gegangen.	मैं नहीं गया।
+I didn't go. (different meaning)	Ich bin nicht mitgegangen.	मैं नहीं गया।
+I disagreed.	Ich war anderer Meinung.	मुझसे असहमति थी।
+I disagreed. (different meaning)	Mir war anderer Meinung.	मैं सहमत नहीं था।
+I don't lie.	Ich lüge nicht.	मैं झूठ नहीं बोलता।
