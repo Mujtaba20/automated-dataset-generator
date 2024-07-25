@@ -2031,3 +2031,13 @@ That's free.	Das ist kostenlos.	यह मुफ्त है।
 That's hers.	Das gehört ihr.	यह उसकी है।
 That's huge.	Das ist riesig.	वह विशाल है।
 That's life.	Das ist das Leben.	यह जीवन है।
+That's milk.	Das ist Milch.	यह दूध है।
+That's mine.	Das gehört mir.	वह मेरा है।
+That's okay.	Das ist in Ordnung.	यह ठीक है।
+That's fine.	Das ist in Ordnung.	वह ठीक है।
+That's over.	Das ist vorbei.	वह हो गया है।
+That's true.	Das ist wahr.	यह सच है।
+That's wise.	Das ist klug.	यह बुद्धिमान है।
+The TV's on.	Der Fernseher ist an.	टीवी चालू है।
+There he is.	Dort ist er.	वहाँ वह है।
+There it is!	Da ist es!	वहाँ है!
