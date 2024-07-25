@@ -14945,3 +14945,9 @@ We can't go back.	Wir können nicht zurückgehen.	हम वापस नही�
 We can't risk it.	Wir können es nicht riskieren.	हम इसे जोखिम में नहीं डाल सकते।
 We close at 6:30.	Wir schließen um 6:30 Uhr.	हम 6:30 बजे बंद करते हैं।
 We could both go.	Wir könnten beide gehen.	हम दोनों जा सकते हैं।
+We could've died.	Wir hätten sterben können.	हम मर सकते थे।
+We couldn't stop.	Wir konnten nicht aufhören.	हम रुक नहीं सकते थे।
+We demand action.	Wir fordern Maßnahmen.	हम कार्रवाई की मांग करते हैं।
+We depend on you.	Wir sind von dir abhängig.	हम तुम पर निर्भर हैं।
+We didn't notice.	Wir haben nicht bemerkt.	हमने ध्यान नहीं दिया।
+We disturbed him.	Wir haben ihn gestört.	हमने उसे परेशान किया।
