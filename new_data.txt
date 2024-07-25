@@ -11265,3 +11265,11 @@ Which is better?	Was ist besser?	कौन सा बेहतर है?
 Which key is it?	Welcher Schlüssel ist es?	यह कौनसा कुंजी है?
 Who are you all?	Wer seid ihr alle?	तुम सभी कौन हो?
 Who bought that?	Wer hat das gekauft?	वह कौन खरीदा?
+Who bought this?	Wer hat das gekauft?	इसे कौन खरीदा?
+Who brought Tom?	Wer hat Tom gebracht?	टॉम किसने लाया?
+Who can that be?	Wer kann das sein?	वह कौन हो सकता है?
+Who contributed?	Wer hat beigetragen?	किसने योगदान दिया?
+Who did you see?	Wen hast du gesehen?	तुमने किसे देखा?
+Who do you love?	Wen liebst du?	तुम किसे प्यार करते हो?
+Who is confused?	Wer ist verwirrt?	कौन उलझा हुआ है?
+Who is that boy?	Wer ist dieser Junge?	वह लड़का कौन है?
