@@ -1938,3 +1938,10 @@ Look at him.	Schau ihn an.	उसे देखो।
 Look closer.	Schau genauer hin.	और करीब से देखो।
 Lunch is on.	Das Mittagessen ist fertig.	खाना तैयार है।
 Make a list.	Mach eine Liste.	सूची बनाओ।
+Make a wish.	Einen Wunsch äußern.	एक प्रार्थना करें।
+Many thanks.	Danke sehr.	केरें कैसे नष्ट करें।
+May I begin?	Darf ich anfangen?	क्या मैं शुरू कर सकता हूँ?
+May I smoke?	Darf ich rauchen?	क्या मैं धूम्रपान कर सकता हूँ?
+Memorize it.	Sich das einprägen.	इसे पुनः दोहराएँ।
+Money talks.	Geld regiert die Welt.	पैसा कुछ भी करवा सकता है।
+Nice timing.	Gutes Timing.	अच्छे समय में।
