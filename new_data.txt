@@ -7528,3 +7528,13 @@ Tom needs hope.	Tom braucht Hoffnung.	टॉम को आशा की जर�
 Tom needs more.	Tom braucht mehr.	टॉम को और चाहिए।
 Tom needs rest.	Tom braucht Ruhe.	टॉम को आराम की जरुरत है।
 Tom needs that.	Tom braucht das.	टॉम को वह जरुरत है।
+Tom needs this.	Tom braucht das.	टॉम को इसकी आवश्यकता है।
+Tom needs time.	Tom braucht Zeit.	टॉम को समय की आवश्यकता है।
+Tom needs work.	Tom braucht Arbeit.	टॉम को काम की आवश्यकता है।
+Tom never came.	Tom ist nie gekommen.	टॉम कभी नहीं आया।
+Tom never left.	Tom ist nie gegangen.	टॉम कभी नहीं चला गया।
+Tom never lied.	Tom hat nie gelogen.	टॉम कभी झूठ नहीं बोलता था।
+Tom never lies.	Tom lügt nie.	टॉम कभी झूठ नहीं बोलता है।
+Tom never wins.	Tom gewinnt nie.	टॉम कभी नहीं जीतता।
+Tom nodded yes.	Tom nickte ja.	टॉम ने हां कहा।
+Tom often wins.	Tom gewinnt oft.	टॉम अक्सर जीतता है।
