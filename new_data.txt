@@ -800,3 +800,9 @@ What's up?	Was ist los?	क्या हो रहा है?
 Who cares?	Wen interessiert's?	किसे फर्क पड़ता है?
 Who drove?	Wer ist gefahren?	किसने ड्राइव किया?
 Who is he?	Wer ist er?	वह कौन है?
+Who spoke?	Wer hat gesprochen?	कौन बोला था?
+Who stood?	Wer stand?	कौन खड़ा था?
+Who'll go?	Wer wird fahren?	कौन जाएगा?
+Who's she?	Wer ist sie?	वह कौन है?
+Wonderful!	Großartig!	शानदार!
+Write Tom.	Schreiben Sie Tom.	टॉम को लिखो।
