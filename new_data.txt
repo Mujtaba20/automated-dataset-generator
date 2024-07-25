@@ -13542,3 +13542,13 @@ She rode a camel. She said goodbye.	Sie sagte tschüss.	उसने अलव�
 She smiled at me.	Sie lächelte mich an.	उसने मुझे मुस्कान दी।
 She smiled sadly.	Sie lächelte traurig.	उसने दुखी होकर मुस्काया।
 She smokes a lot.	Sie raucht viel.	वह बहुत सीगरेट पीती है।
+She stared at me.	Sie starrte mich an.	उसने मुझे ताकत से देखा।
+She startled him.	Sie erschreckte ihn.	उसने उसे चौंका दिया।
+She startled him.1	Sie hat ihn überrascht.	उसने उसको अचानक से डराया।
+She stood by him.	Sie stand an seiner Seite.	उसके पास खड़ी रही।
+She stood by him.1	Sie hat ihn unterstützt.	उसके साथ थी।
+She studies hard.	Sie lernt hart.	वह कठिन पढ़ाई करती है।
+She talked a lot.	Sie hat viel geredet.	उसने बहुत कुछ बोला।
+She took my hand.	Sie nahm meine Hand.	उसने मेरा हाथ पकड़ लिया।
+She was homesick.	Sie war heimwehkrank.	उसे घर की याद आ रही थी।
+She was promoted.	Sie wurde befördert.	उसकी पदोन्नति हो गई थी।
