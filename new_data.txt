@@ -11078,3 +11078,13 @@ We walked a lot.	Wir sind viel gelaufen.	हमने बहुत सारा 
 We want it back.	Wir wollen es zurück.	हम वापस चाहते हैं।
 We want justice.	Wir wollen Gerechtigkeit.	हमें न्याय चाहिए।
 We want to help.	Wir wollen helfen.	हम मदद करना चाहते हैं।
+We want to know.	Wir wollen wissen.	हमें जानना है।
+We want to talk.	Wir wollen reden.	हमें बात करनी है।
+We went dancing.	Wir gingen tanzen.	हम नृत्य करने गए।
+We went on foot.	Wir gingen zu Fuß.	हम पैदल चले गए।
+We were friends.	Wir waren Freunde.	हम दोस्त थे।
+We were in love.	Wir waren verliebt.	हम प्यार में थे।
+We were invited.	Wir wurden eingeladen.	हमें आमंत्रित किया गया था।
+We were shocked.	Wir waren schockiert.	हम चौंक गए थे।
+We were worried.	Wir waren besorgt.	हमें चिंतिती थी।
+We will succeed.	Wir werden Erfolg haben.	हम सफल होंगे।
