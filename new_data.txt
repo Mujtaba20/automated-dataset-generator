@@ -15358,3 +15358,9 @@ You have to help. (different meaning)	Du musst unterstützen.	तुम्हे
 You have to move.	Du musst dich bewegen.	तुम्हे हिलना पड़ेगा।
 You have to move. (different meaning)	Du musst umziehen.	तुम्हे बदलना होगा।
 You have to rest.	Du musst dich ausruhen.	तुम्हें आराम करना है।
+You have to stop.	Du musst aufhören.	आपको रुकना होगा।
+You know I can't.	Du weißt, dass ich nicht kann.	तुम्हें पता है मैं नहीं कर सकता।
+You lead the way.	Du gehst voran.	तुम सही रास्ते पर हो।
+You look amazing.	Du siehst fantastisch aus.	तुम शानदार लग रहे हैं।
+You look content.	Du siehst zufrieden aus.	तुम संतुष्ट लग रहे हैं।
+You look healthy.	Du siehst gesund aus.	तुम स्वस्थ लग रहे हैं।
