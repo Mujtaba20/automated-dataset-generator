@@ -11394,3 +11394,9 @@ You're arrogant.	Du bist überheblich.	तुम अकड़ रहे हो�
 You're athletic.	Du bist sportlich.	तुम खिलाड़ी हो।
 You're annoying. (different meaning)	Du bist lästig.	तुम बोझ हो।
 You're arrogant. (different meaning)	Du bist eingebildet.	तुम अभिमानी हो।
+You're bleeding.	Sie bluten.	तुम खून बहा रहे हो।
+You're bluffing.	Du bluffst.	तुम झूठ बोल रहे हो।
+You're blushing.	Du errötest.	तुम शरमा रहे हो।
+You're charming.	Du bist charmant.	तुम आकर्षक हो।
+You're cheating.	Sie betrügen.	तुम धोखा दे रहे हो।
+You're confused.	Du bist verwirrt.	तुम भ्रमित हो।
