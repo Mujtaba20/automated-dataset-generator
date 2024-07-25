@@ -8076,3 +8076,10 @@ You're kidding!	Du machst Witze!	तुम मजाक कर रहे हो!
 You're in love. (alternate translation)	Du liebst.	तुम प्यार करते हो।
 You're in luck. (alternate translation)	Du hast Glück gehabt.	तुम्हें भाग्य ने अभ्यास किया।
 You're invited. (alternate translation)	Du wurdest eingeladen.	तुम्हें आमंत्रित किया गया है।
+You're like me.	Du bist wie ich.	तुम मेरे जैसे हो।
+You're my boss.	Sie sind mein Vorgesetzter.	तुम मेरे अध्यक्ष हो।
+You're my hero.	Du bist mein Held.	तुम मेरे नायक हो।
+You're my type.	Du bist mein Typ.	तुम मेरे प्रकार के हो।
+You're nervous.	Du bist ängstlich.	तुम घबरा गए हो।
+You're not God.	Du bist nicht Gott.	तुम भगवान नहीं हो।
+You're not Tom.	Du bist nicht Tom.	तुम टॉम नहीं हो।
