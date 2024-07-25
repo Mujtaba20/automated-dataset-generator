@@ -11449,3 +11449,8 @@ You've been had.	Du wurdest hereingelegt.	तुमने बड़ा झटका
 You've found it.	Du hast es gefunden.	तुमने यह पाया है।
 You're wasteful. (different meaning)	Du vergeudest.	तुम अपव्यय करते हो।
 You've found it. (different meaning)	Du hast es entdeckt.	तुमने इसे खोज निकाला है।
+You've grown up.	Du bist erwachsen geworden.	तुम बड़े हो गए हो।
+You've improved.	Du hast dich verbessert.	तुमने सुधार किया है।
+Your bag's open.	Deine Tasche ist offen.	तुम्हारी बैग खुली है।
+Your car's here.	Dein Auto ist hier.	तुम्हारी कार यहाँ है।
+Your dog bit me.	Dein Hund hat mich gebissen.	तुम्हारा कुत्ता मुझे काट लिया।
