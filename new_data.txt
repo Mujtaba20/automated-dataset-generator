@@ -8144,3 +8144,10 @@ Are you correct?	Hast du recht?	क्या आप सही हो?
 Are you curious?	Bist du neugierig?	क्या तुम उत्सुक हो?
 Are you doctors?	Seid ihr Ärzte?	क्या तुम डॉक्टर हो?
 Are you envious?	Bist du neidisch?	क्या तुम ईर्ष्याशील हो?
+Are you excited?	Bist du aufgeregt?	क्या आप खुश हैं?
+Are you friends?	Bist du mit Freunden?	क्या तुम दोस्त हो?
+Are you guys OK?	Geht es euch gut?	क्या तुम ठीक हो?
+Are you healthy?	Bist du gesund?	क्या तुम स्वस्थ हो?
+Are you in love?	Bist du verliebt?	क्या तुम प्यार में हो?
+Are you in pain?	Hast du Schmerzen?	क्या तुमे दर्द है?
+Are you injured?	Bist du verletzt?	क्या तुम चोटिल हो?
