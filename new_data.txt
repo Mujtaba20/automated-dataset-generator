@@ -1047,3 +1047,12 @@ I want you.	Ich will dich.	मुझे तुम चाहिए।
 I was away.	Ich war weg.	मैं दूर था।
 I was busy.	Ich war beschäftigt.	मैं व्यस्त था।
 I was cold.	Mir war kalt.	मुझे ठंड लग रही थी।
+I was good.	Ich war gut.	मैं अच्छा था।
+I was rude.	Ich war unhöflich.	मैं अकर्मण्य था।
+I was sick.	Ich war krank.	मैं बीमार था।
+I whistled.	Ich pfiff.	मैंने सीटी बजाई।
+I will try.	Ich werde es versuchen.	मैं कोशिश करूंगा।
+I won't go.	Ich werde nicht gehen.	मैं नहीं जाऊंगा।
+I'll be OK.	Mir wird es gut gehen.	मैं ठीक रहूंगा।
+I'll do it.	Ich werde es tun.	मैं यह करूंगा।
+I'll go in.	Ich werde reingehen.	मैं अंदर जाऊंगा।
