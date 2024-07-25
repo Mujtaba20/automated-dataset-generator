@@ -7247,3 +7247,10 @@ Tom hired Mary.	Tom hat Mary eingestellt.	टॉम ने मेरी को �
 Tom hit a deer.	Tom hat einen Hirsch getroffen.	टॉम ने एक हिरण को मारा।
 Tom ignored me.	Tom hat mich ignoriert.	टॉम ने मुझे नजरअंदाज किया।
 Tom improvised.	Tom improvisierte.	टॉम ने आविष्कार किया।
+Tom intervened.	Tom griff ein.	टॉम बाधा डाला।
+Tom is a baker.	Tom ist ein Bäcker.	टॉम एक बेकर है।
+Tom is a biker.	Tom ist ein Motorradfahrer.	टॉम एक बाइकर है।
+Tom is a blond.	Tom ist blond.	टॉम एक गोरा है।
+Tom is a drunk.	Tom ist betrunken.	टॉम नशे में है।
+Tom is a dwarf.	Tom ist ein Zwerg.	टॉम एक बौना है।
+Tom is a guard.	Tom ist ein Wächter.	टॉम एक गार्ड है।
