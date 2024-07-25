@@ -2542,3 +2542,7 @@ Has Tom quit?	Hat Tom aufgehört?	क्या टॉम ने छोड़ द
 Have a donut.	Nimm einen Donut.	एक डोनट लो।
 Have a drink.	Nimm ein Getränk.	एक पेय लो।
 Have a snack.	Haben Sie einen Snack.	एक स्नैक लो।
+Have a taste.	Probieren Sie mal.	एक रस परिक्षण करो।
+Have another.	Haben Sie noch eins.	और एक लो।
+Have courage.	Sei mutig.	धैर्य रखो।
+He avoids me.	Er meidet mich.	वह मुझसे बचता है।
