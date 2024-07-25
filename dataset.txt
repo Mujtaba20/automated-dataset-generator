@@ -1,14 +1,4 @@
 
-This one's for me.	Dieser ist für mich.	यह मेरे लिए है।
-This plane is his.	Dieses Flugzeug gehört ihm.	यह विमान उसका है।
-This room is cold.	Dieses Zimmer ist kalt.	यह कमरा ठंडा है।
-Those are my cats.	Das da sind meine Katzen.	वह मेरी बिल्लियाँ हैं।
-Those are too big.	Diese sind zu groß.	ये बहुत बड़े हैं.
-Those aren't mine.	Die gehören mir nicht.	वे मेरे नहीं हैं।
-Three people came.	Es sind drei Leute gekommen.	तीन लोग आए।
-Today is Saturday.	Heute ist Samstag.	आज शनिवार है.
-Today is Saturday.	Heute ist Sonnabend.	आज शनिवार है.
-Today is Thursday.	Heute ist Donnerstag.	आज गुरुवार है.
 Tom aced the test.	Tom bestand den Test mit links.	टॉम ने बाईं ओर के साथ परीक्षण पारित किया।
 Tom admitted that.	Tom hat das zugegeben.	टॉम ने स्वीकार किया कि।
 Tom almost choked.	Tom ist fast erstickt.	टॉम ने लगभग दम तोड़ दिया है।

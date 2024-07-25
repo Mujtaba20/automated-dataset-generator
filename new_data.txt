@@ -18290,3 +18290,12 @@ This meat is good.	Dieses Fleisch ist gut.	यह मांस अच्छा �
 This one is Tom's.	Das gehört Tom.	यह टॉम का है।
 This one is on me.	Das geht auf mich.	यह मेरे ऊपर है।
 This one's broken.	Das ist kaputt.	यह टूट गया है।
+This one's for me.	Dieses ist für mich.	यह मेरे लिए है।
+This plane is his.	Dieses Flugzeug gehört ihm.	यह विमान उसका है।
+This room is cold.	Dieser Raum ist kalt.	यह कमरा सर्द है।
+Those are my cats.	Das sind meine Katzen.	वो मेरी बिल्लियाँ हैं।
+Those are too big.	Die sind zu groß.	वे बहुत बड़े हैं।
+Those aren't mine.	Die sind nicht meine.	वो मेरे नहीं हैं।
+Three people came.	Drei Leute kamen.	तीन लोग आए।
+Today is Saturday.	Heute ist Samstag.	आज शनिवार है।
+Today is Thursday.	Heute ist Donnerstag.	आज गुरूवार है।
