@@ -5174,3 +5174,12 @@ Tom went pale.	Tom wurde bleich.	टॉम पीला हो गया।
 Tom went west.	Tom ging nach Westen.	टॉम पश्चिम चला गया।
 Tom whispered.	Tom flüsterte.	टॉम बोला।
 Tom will call.	Tom wird anrufen.	टॉम कॉल करेगा।
+Tom will come.	Tom wird kommen.	टॉम आएगा।
+Tom will cook.	Tom wird kochen.	टॉम पकायेगा।
+Tom will fail.	Tom wird scheitern.	टॉम असफल होगा।
+Tom will help.	Tom wird helfen.	टॉम मदद करेगा।
+Tom will know.	Tom wird wissen.	टॉम जानेगा।
+Tom will lose.	Tom wird verlieren.	टॉम हार जाएगा।
+Tom will obey.	Tom wird gehorchen.	टॉम आज्ञा मानेगा।
+Tom will sing.	Tom wird singen.	टॉम गाएगा।
+Tom will stay.	Tom wird bleiben.	टॉम रुकेगा।
