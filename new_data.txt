@@ -15011,3 +15011,12 @@ We need a doctor.	Wir brauchen einen Arzt.	हमें एक डॉक्ट�
 We need evidence.	Wir brauchen Beweise.	हमें सबूतों की आवश्यकता है।
 We need it badly.	Wir brauchen es dringend.	हमें इसकी बहुत जरुरत है।
 We need somebody.	Wir brauchen jemanden.	हमें किसी की आवश्यकता है।
+We need to begin.	Wir müssen beginnen.	हमें शुरू करना है।
+We need to hurry.	Wir müssen uns beeilen.	हमें जल्दी करना चाहिए।
+We need to leave.	Wir müssen gehen.	हमें छोड़ना है।
+We need you back.	Wir brauchen dich zurück.	हमें तुम्हें वापस चाहिए।
+We never laughed.	Wir haben nie gelacht.	हम कभी नहीं हंसते थे।
+We only have tea.	Wir haben nur Tee.	हमारे पास सिर्फ चाय है।
+We only want you.	Wir wollen nur dich.	हमें सिर्फ तुमाहरा चाहिए।
+We play baseball.	Wir spielen Baseball.	हम बेसबॉल खेलते हैं।
+We rarely go out.	Wir gehen selten aus.	हम बहुत कम बाहर जाते हैं।
