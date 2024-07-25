@@ -7360,3 +7360,13 @@ Tom is quicker.	Tom ist schneller.	टॉम अधिक तेज़ है।
 Tom is radical.	Tom ist radikal.	टॉम राडिकल है।
 Tom is reading.	Tom liest.	टॉम पढ़ रहा है।
 Tom is relaxed.	Tom ist entspannt.	टॉम आराम से है।
+Tom is resting.	Tom ruht.	टॉम आराम कर रहा है।
+Tom is retired.	Tom ist im Ruhestand.	टॉम सेवानिवृत्त है।
+Tom is running.	Tom läuft.	टॉम दौड़ रहा है।
+Tom is selfish.	Tom ist egoistisch.	टॉम अभिमानी है।
+Tom is serious.	Tom ist ernst.	टॉम गंभीर है।
+Tom is shaking.	Tom zittert.	टॉम हिल रहा है।
+Tom is shallow.	Tom ist oberflächlich.	टॉम अवगाहन में है।
+Tom is shaving.	Tom rasiert sich.	टॉम धारी कर रहा है।
+Tom is shocked.	Tom ist geschockt.	टॉम चौंका हुआ है।
+Tom is similar.	Tom ist ähnlich.	टॉम समान है।
