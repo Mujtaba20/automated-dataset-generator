@@ -1,14 +1,4 @@
 
-This isn't my bag.	Das ist nicht meine Tasche.	यह मेरा बैग नहीं है।
-This isn't my car.	Das ist nicht mein Auto.	यह मेरी कार नहीं है।
-This isn't my key.	Das ist nicht mein Schlüssel.	यह मेरी कुंजी नहीं है।
-This isn't normal.	Das ist nicht normal.	यह सामान्य नहीं है।
-This isn't silver.	Das ist kein Silber.	यह एक चांदी नहीं है।
-This makes me sad.	Das macht mich traurig.	इससे मुझे दुःख होता है।
-This meat is good.	Dieses Fleisch ist gut.	यह मांस अच्छा है।
-This one is Tom's.	Dieser ist Toms.	यह टॉम्स है।
-This one is on me.	Der geht auf mich!	यह मेरे पास जाता है!
-This one's broken.	Dieser ist kaputt.	यह टूट गया है.
 This one's for me.	Dieser ist für mich.	यह मेरे लिए है।
 This plane is his.	Dieses Flugzeug gehört ihm.	यह विमान उसका है।
 This room is cold.	Dieses Zimmer ist kalt.	यह कमरा ठंडा है।

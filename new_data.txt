@@ -18280,3 +18280,13 @@ This isn't French.	Das ist nicht Französisch.	यह फ्रांसीस�
 This isn't a game.	Das ist kein Spiel.	यह खेल नहीं है।
 This isn't a joke.	Das ist kein Witz.	यह मजाक नहीं है।
 This isn't for me.	Das ist nicht für mich.	यह मेरे लिए नहीं है।
+This isn't my bag.	Das ist nicht meine Tasche.	यह मेरा बैग नहीं है।
+This isn't my car.	Das ist nicht mein Auto.	यह मेरी कार नहीं है।
+This isn't my key.	Das ist nicht mein Schlüssel.	यह मेरी चाबी नहीं है।
+This isn't normal.	Das ist nicht normal.	यह सामान्य नहीं है।
+This isn't silver.	Das ist nicht silber.	यह चांदी नहीं है।
+This makes me sad.	Das macht mich traurig.	यह मुझे उदास करता है।
+This meat is good.	Dieses Fleisch ist gut.	यह मांस अच्छा है।
+This one is Tom's.	Das gehört Tom.	यह टॉम का है।
+This one is on me.	Das geht auf mich.	यह मेरे ऊपर है।
+This one's broken.	Das ist kaputt.	यह टूट गया है।
