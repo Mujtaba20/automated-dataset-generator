@@ -3794,3 +3794,12 @@ Did Tom laugh?	Hat Tom gelacht?	क्या टॉम हंसा?
 Did Tom leave?	Ist Tom gegangen?	क्या टॉम चला गया?
 Did Tom reply?	Hat Tom geantwortet?	क्या टॉमने जवाब दिया?
 Did Tom smile?	Hat Tom gelächelt?	क्या टॉम मुस्कुराया?
+Did you do it?	Haben Sie es getan?	क्या आपने यह किया?
+Did you speak?	Hast du gesprochen?	क्या आपने बात की?
+Do I know Tom?	Kenne ich Tom?	क्या मुझे टॉम पहचानता है?
+Do I know him?	Kenne ich ihn?	क्या मुझे उसे पहचानता है?
+Do I know you?	Kenne ich dich?	क्या मुझे तुम्हे पहचानता है?
+Do I look fat?	Sehe ich fett aus?	क्या मैं मोटा लग रहा हूँ?
+Do cats dream?	Träumen Katzen?	क्या बिल्लियाँ सपने देखती हैं?
+Do fish sleep?	Schlafen Fische?	क्या मछलियाँ सोती हैं?
+Do it at once.	Mach es sofort.	उसे तुरंत करें।
