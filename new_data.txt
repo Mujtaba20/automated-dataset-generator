@@ -19210,3 +19210,12 @@ Tom stood stiffly.	Tom stand steif.	टॉम अकड़ कर खड़ा �
 Tom stopped short.	Tom blieb stehen.	टॉम चुपके से बंद हो गया।
 Tom talks quickly.	Tom spricht schnell.	टॉम जल्दी बोलता है।
 Tom taught French.	Tom unterrichtete Französisch.	टॉम ने फ्रेंच सिखाया।
+Tom threatened me.	Tom hat mich bedroht.	टॉम ने मुझे धमकी दी।
+Tom threatened us.	Tom hat uns bedroht.	टॉम ने हमें धमकी दी।
+Tom threw it away.	Tom hat es weggeschmissen.	टॉम ने यह फेंक दिया।
+Tom told everyone.	Tom hat es allen gesagt.	टॉम ने सभी को बताया।
+Tom took Mary out.	Tom hat Mary ausgeführt.	टॉम ने मेरी को बाहर ले गया।
+Tom took a stroll.	Tom machte einen Spaziergang.	टॉम ने सैर की।
+Tom took his seat.	Tom nahm seinen Platz ein.	टॉम ने अपनी सीट ली।
+Tom took his time.	Tom ließ sich Zeit.	टॉम ने अपना समय लिया।
+Tom took my money.	Tom hat mein Geld genommen.	टॉम ने मेरा पैसा लिया।
