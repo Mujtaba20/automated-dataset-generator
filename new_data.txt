@@ -16844,3 +16844,12 @@ I think I'm ready.	Ich denke, ich bin bereit.	मुझे लगता है �
 I think I'm ready. (different meaning)	Ich denke, ich bin fertig.	मुझे लगता है कि मैं पूरा हूँ।
 I think I'm right.	Ich denke, ich habe recht.	मुझे लगता है कि मैं सही हूँ।
 I think I'm smart.	Ich denke, ich bin klug.	मुझे लगता है कि मैं समझदार हूँ।
+I think I'm wrong.	Ich glaube, ich liege falsch.	मुझे लगता है कि मैं गलत हूँ।
+I think Tom is OK.	Ich glaube, Tom ist in Ordnung.	मुझे लगता है कि टॉम ठीक है।
+I think Tom is up.	Ich glaube, Tom ist wach.	मुझे लगता है कि टॉम ऊपर है।
+I think Tom knows.	Ich glaube, dass Tom weiß.	मुझे लगता है कि टॉम जानता है।
+I think he did it.	Ich denke, er hat es getan.	मुझे लगता है कि उसने यह किया है।
+I think it's fine.	Ich denke, es ist in Ordnung.	मुझे लगता है कि यह ठीक है।
+I think it's good.	Ich denke, es ist gut.	मुझे लगता है कि यह अच्छा है।
+I think it's true.	Ich denke, es ist wahr.	मुझे लगता है कि यह सच है।
+I think otherwise.	Ich denke anders.	मुझे विपरीत लगता है।
