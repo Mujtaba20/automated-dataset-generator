@@ -8565,3 +8565,13 @@ He's my brother.	Er ist mein Bruder.	वह मेरा भाई है।
 He's not a hero.	Er ist kein Held.	वह एक हीरो नहीं है।
 He's not a liar.	Er ist kein Lügner.	वह झूठा नहीं है।
 He's not stupid.	Er ist nicht dumm.	वह मूर्ख नहीं है।
+He's on his way.	Er ist unterwegs.	वह रास्ते पर है।
+He's over forty.	Er ist über vierzig.	वह चालीस के ऊपर है।
+He's paraplegic.	Er ist querschnittsgelähmt.	वह कमर के नीचे से पूरी तरह लाचार है।
+He's photogenic.	Er ist fotogen.	उसकी फोटो खिचाने में अच्छा लगता है।
+He's very angry.	Er ist sehr wütend.	वह बहुत गुस्से में है।
+He's wide awake.	Er ist hellwach.	वह जागरूक है।
+Helium is a gas.	Helium ist ein Gas.	हीलियम एक गैस है।
+Help me, please.	Hilf mir bitte.	कृपया मुझे मदद करें।
+Her book is red.	Ihr Buch ist rot.	उसकी किताब लाल है।
+Her face lit up.	Ihr Gesicht leuchtete auf.	उसका चेहरा चमक उठा।
