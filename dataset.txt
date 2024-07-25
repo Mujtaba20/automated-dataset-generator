@@ -1,18 +1,4 @@
 
-Do you know French?	Sprichst du Französisch?	क्या आप फ़्रेंच बोलते हैं?
-Do you like Boston?	Gefällt es dir in Boston?	क्या आप इसे बोस्टन में पसंद करते हैं?
-Do you like Boston?	Gefällt es Ihnen in Boston?	क्या आप इसे बोस्टन में पसंद करते हैं?
-Do you like French?	Magst du Französisch?	क्या तुम फ़्रांसीसी भाषा को पसंद करते हो?
-Do you like Mozart?	Gefällt dir die Musik von Mozart?	क्या आपको मोजार्ट का संगीत पसंद है?
-Do you like Mozart?	Mögen Sie Mozart?	क्या आपको मोजार्ट पसंद है?
-Do you like Mozart?	Magst du Mozart?	क्या आपको मोजार्ट पसंद है?
-Do you like apples?	Magst du Äpfel?	क्या तुम्हें सेब पसंद है?
-Do you like apples?	Mögen Sie Äpfel?	क्या तुम्हें सेब पसंद है?
-Do you like coffee?	Mögen Sie Kaffee?	क्या तुम्हें कॉफी पसन्द है?
-Do you like coffee?	Magst du Kaffee?	क्या तुम्हें कॉफी पसन्द है?
-Do you like coffee?	Mögt ihr Kaffee?	क्या तुम्हें कॉफी पसन्द है?
-Do you like coffee?	Trinken Sie gerne Kaffee?	क्या आपको कॉफी पीना पसंद है?
-Do you like coffee?	Trinkst du gerne Kaffee?	क्या आपको कॉफी पीना पसंद है?
 Do you like movies?	Magst du Filme?	क्या तुम्हें फ़िल्में पसंद हैं?
 Do you like olives?	Magst du Oliven?	क्या तुम्हारे पास जैतून हैं?
 Do you like robots?	Magst du Roboter?	क्या आपको रोबोट पसंद है?
