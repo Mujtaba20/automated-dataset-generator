@@ -1,14 +1,4 @@
 
-Tom lives near me.	Tom wohnt bei mir in der Nähe.	टॉम मेरे पास रहता है।
-Tom lives near us.	Tom wohnt bei uns in der Nähe.	टॉम हमारे पास रहता है।
-Tom lives near us.	Tom wohnt in unserer Nähe.	टॉम हमारे पास रहता है।
-Tom lives with us.	Tom wohnt bei uns.	टॉम हमारे साथ रहता है।
-Tom looked amused.	Tom schaute amüsiert.	टॉम चकित लग रहा था।
-Tom looked around.	Tom blickte um sich.	टॉम ने उसके चारों ओर देखा।
-Tom looked closer.	Tom sah näher hin.	टॉम करीब लग रहा था।
-Tom looked drowsy.	Tom sah schläfrig aus.	टॉम नींद में लग रहा था।
-Tom looked guilty.	Tom sah schuldbewusst aus.	टॉम दोषी लग रहा था।
-Tom looked hungry.	Tom sah hungrig aus.	टॉम भूख लग रही थी।
 Tom looked inside.	Tom sah hinein.	टॉम ने अंदर देखा।
 Tom looked lonely.	Tom sieht einsam aus.	टॉम अकेला दिखता है।
 Tom looked lonely.	Tom mutet einsam an.	टॉम अकेला लगता है।

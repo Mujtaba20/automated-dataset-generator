@@ -18932,3 +18932,12 @@ Tom likes to talk.	Tom redet gerne.	टॉम को बातचीत कर�
 Tom likes writing.	Tom schreibt gerne.	टॉम को लिखना पसंद है।
 Tom listens to me.	Tom hört mir zu.	टॉम मेरी बातें सुनता है।
 Tom lived with us.	Tom lebte bei uns.	टॉम हमारे साथ रहता था।
+Tom lives near me.	Tom lebt in meiner Nähe.	टॉम मेरे पास रहता है।
+Tom lives near us.	Tom lebt in unserer Nähe.	टॉम हमारे पास रहता है।
+Tom lives with us.	Tom lebt bei uns.	टॉम हमारे साथ रहता है।
+Tom looked amused.	Tom sah amüsiert aus.	टॉम मजे में लग रहा था।
+Tom looked around.	Tom schaute sich um.	टॉम आस-पास देख रहा था।
+Tom looked closer.	Tom schaute genauer hin.	टॉम ज्यादा करीब से देख रहा था।
+Tom looked drowsy.	Tom sah verschlafen aus.	टॉम उंगल सोया हुआ लग रहा था।
+Tom looked guilty.	Tom sah schuldig aus.	टॉम अपराधी लग रहा था।
+Tom looked hungry.	Tom wirkte hungrig.	टॉम भूखा लग रहा था।
