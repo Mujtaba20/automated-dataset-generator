@@ -7320,3 +7320,13 @@ Tom is jealous.	Tom ist eifersüchtig.	टॉम की जलन है।
 Tom is jittery.	Tom ist nervös.	टॉम घबराया हुआ है।
 Tom is jobless.	Tom ist arbeitslos.	टॉम बेरोजगार है।
 Tom is kidding.	Tom macht Witze.	टॉम मजाक कर रहा है।
+Tom is leaving.	Tom verlässt.	टॉम जा रहा है।
+Tom is likable.	Tom ist sympathisch.	टॉम अच्छा है।
+Tom is like me.	Tom ist wie ich.	टॉम मेरे जैसा है।
+Tom is limping.	Tom humpelt.	टॉम लिम्प कर रहा है।
+Tom is logical.	Tom ist logisch.	टॉम तार्किक है।
+Tom is lovable.	Tom ist liebenswert.	टॉम प्यारा है।
+Tom is miserly.	Tom ist geizig.	टॉम कंजूस है।
+Tom is missing.	Tom fehlt.	टॉम गायब है।
+Tom is my baby.	Tom ist mein Baby.	टॉम मेरा बच्चा है।
+Tom is my boss.	Tom ist mein Chef.	टॉम मेरे बॉस है।
