@@ -14556,3 +14556,13 @@ Tom nodded again.	Tom nickte erneut.	टॉम फिर से सिर हि
 Tom nodded to me.	Tom nickte mir zu.	टॉम ने मुझे सिर हिलाया।
 Tom noticed that.	Tom hat das bemerkt.	टॉम ने वह देखा।
 Tom ordered this.	Tom hat das bestellt.	टॉम ने यह आदेश दिया।
+Tom ought to win.	Tom sollte gewinnen.	टॉम को जीतना चाहिए।
+Tom overheard us.	Tom hat uns belauscht.	टॉम ने हमें सुना।
+Tom paid nothing.	Tom hat nichts bezahlt.	टॉम ने कुछ नहीं भुगतान किया।
+Tom painted that.	Tom hat das gemalt.	टॉम ने वह चित्रित किया।
+Tom painted this.	Tom hat das hier bemalt.	टॉम ने यह चित्रित किया।
+Tom pinched Mary.	Tom hat Mary gekniffen.	टॉम ने मैरी को पिचकारी दी।
+Tom plays bridge.	Tom spielt Bridge.	टॉम ब्रिज खेलता है।
+Tom plays hockey.	Tom spielt Hockey.	टॉम हॉकी खेलता है।
+Tom plays soccer.	Tom spielt Fußball.	टॉम फुटबॉल खेलता है।
+Tom plays tennis.	Tom spielt Tennis.	टॉम टेनिस खेलता है।
