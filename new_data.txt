@@ -5001,3 +5001,13 @@ Tom has money.	Tom hat Geld.	टॉम के पैसे हैं।
 Tom has plans.	Tom hat Pläne.	टॉम के पास योजनाएं हैं।
 Tom has to go.	Tom muss gehen.	टॉम को जाना है।
 Tom helped me.	Tom hat mir geholfen.	टॉम ने मेरी मदद की।
+Tom helped us.	Tom half uns.	टॉम ने हमें मदद की।
+Tom hesitated.	Tom zögerte.	टॉम हिचकिचाया।
+Tom hugged me.	Tom umarmte mich.	टॉम ने मुझे गले लगा लिया।
+Tom hugged me. - Different Meaning	Tom drückte mich.	टॉम ने मुझे गले लगा लिया। - अलग अर्थ
+Tom hugged me. - Another Different Meaning	Tom umklammerte mich.	टॉम ने मुझे गले लगा लिया। - एक और अलग अर्थ
+Tom is a baby.	Tom ist ein Baby.	टॉम एक शिशु है।
+Tom is a chef.	Tom ist ein Koch.	टॉम एक शेफ है।
+Tom is a cook.	Tom ist ein Koch.	टॉम एक खोरक है।
+Tom is a fool.	Tom ist ein Narr.	टॉम एक मूर्ख है।
+Tom is a hero.	Tom ist ein Held.	टॉम एक नायक है।
