@@ -6720,3 +6720,11 @@ Let's fire Tom.	Lassen Sie uns Tom feuern.	हमें टॉम को नि�
 Let's go on in.	Lasst uns weitermachen.	चलते रहिए।
 Let's help Tom.	Lasst uns Tom helfen.	हमें टॉम की मदद करनी चाहिए।
 Let's hurry up.	Lasst uns uns beeilen.	जल्दी करें।
+Let's meet Tom.	Lass uns Tom treffen.	हम टॉम से मिलें।
+Let's not play.	Lass uns nicht spielen.	चलो ना खेलें।
+Let's play tag.	Lass uns Fangen spielen.	चलो बंदरचोर खेलें।
+Let's practice.	Lass uns üben.	चलो अभ्यास करें।
+Let's sit down.	Setzen wir uns.	बैठने दो।
+Life is unfair.	Das Leben ist ungerecht.	जीवन अन्यायपूर्ण है।
+Listen closely.	Hör genau zu.	ध्यान से सुनो।
+Life is unfair. - different meaning	Das Leben ist hart.	जीवन कठिन है।
