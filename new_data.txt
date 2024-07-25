@@ -9307,3 +9307,11 @@ I'm not married.	Ich bin nicht verheiratet.	मैं शादीशुदा �
 I'm not married. (Different meaning)	Ich habe keine Frau.	मैं शादीशुदा नहीं हूँ।
 I'm not nervous.	Ich bin nicht nervös.	मैं घबराया नहीं हूँ।
 I'm not over it.	Ich bin nicht darüber hinweg.	मैं इससे बाहर नहीं हूँ।
+I'm not perfect.	Ich bin nicht perfekt.	मैं पूरा नहीं हूँ।
+I'm not so sure.	Ich bin mir nicht so sicher.	मैं इतना स्पष्ट नहीं हूँ।
+I'm not yelling.	Ich schreie nicht.	मैं चिल्ला नहीं रहा हूँ।
+I'm now in jail.	Ich bin jetzt im Gefängnis.	मैं अभी जेल में हूँ।
+I'm now married.	Ich bin jetzt verheiratet.	मैं अब शादीशुदा हूँ।
+I'm now retired.	Ich bin jetzt in Rente.	मैं अब सेवानिवृत्त हूँ।
+I'm now unarmed.	Ich bin jetzt unbewaffnet.	मैं अब असंज्ञा हूँ।
+I'm on my break.	Ich mache jetzt Pause.	मैं अब अपनी छुट्टी पर हूँ।
