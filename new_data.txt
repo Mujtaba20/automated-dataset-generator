@@ -14653,3 +14653,13 @@ Tom sounds upset. - Different Meaning	Tom klingt aufgebracht.	टॉम पर�
 Tom spoke French.	Tom sprach Französisch.	टॉम ने फ्रांसीसी बोली।
 Tom spoke calmly.	Tom sprach ruhig.	टॉम शांति से बोले।
 Tom spoke gently.	Tom sprach sanft.	टॉम ने आदब से बोला।
+Tom spoke slowly.	Tom sprach langsam.	टॉम धीरे बोला।
+Tom spoke softly.	Tom sprach leise.	टॉम नरमी से बोला।
+Tom spoke wisely.	Tom sprach klug.	टॉम समझदारी से बोला।
+Tom stabbed Mary.	Tom erstach Mary.	टॉम ने मेरी को गोदना।
+Tom staggered in.	Tom taumelte hinein.	टॉम अंदर के लिए लड़खड़ाया।
+Tom stared at me.	Tom starrte mich an.	टॉम ने मुझे ताकते रहे।
+Tom started that.	Tom hat das angefangen.	टॉम ने उसे शुरू किया।
+Tom stayed awake.	Tom blieb wach.	टॉम जागा रहा।
+Tom stayed close.	Tom blieb in der Nähe.	टॉम पास रहा।
+Tom stayed quiet.	Tom blieb ruhig.	टॉम शांत रहा।
