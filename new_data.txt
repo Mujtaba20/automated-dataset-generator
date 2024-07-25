@@ -12417,3 +12417,12 @@ I have hay fever.	Ich habe Heuschnupfen.	मुझे भारी सर्द�
 I have heartburn.	Ich habe Sodbrennen.	मुझे जलन हो रही है।
 I have insurance.	Ich habe Versicherung.	मेरे पास बीमा है।
 I have my orders.	Ich habe meine Befehle.	मेरे पास अपने आदेश हैं।
+I have my things.	Ich habe meine Sachen.	मेरे पास मेरी चीजें हैं।
+I have no choice.	Ich habe keine Wahl.	मेरे पास कोई विकल्प नहीं है।
+I have no excuse.	Ich habe keine Ausrede.	मेरे पास कोई बहाना नहीं है।
+I have no family.	Ich habe keine Familie.	मेरे पास परिवार नहीं है।
+I have no future.	Ich habe keine Zukunft.	मेरे पास कोई भविष्य नहीं है।
+I have pneumonia.	Ich habe eine Lungenentzündung.	मुझे न्यूमोनिया है।
+I have questions.	Ich habe Fragen.	मेरे पास सवाल हैं।
+I have some food.	Ich habe etwas zu essen.	मेरे पास कुछ खाने की चीजें हैं।
+I have some pens.	Ich habe einige Stifte.	मेरे पास कुछ पेन्स हैं।
