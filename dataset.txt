@@ -1,14 +1,4 @@
 
-Someone's outside.	Jemand ist draußen.	कोई बाहर है।
-Someone's outside.	Draußen ist jemand.	बाहर कोई है।
-Someone's singing.	Jemand singt.	कोई गाता है।
-Someone's talking.	Jemand redet.	कोई बात करता है।
-Something bit Tom.	Etwas hat Tom gebissen.	टॉम ने कुछ काट लिया।
-Something came up.	Mir ist etwas dazwischengekommen.	कुछ आया।
-Something changed.	Etwas hat sich geändert.	कुछ बदल गया है।
-Spiders spin webs.	Spinnen spinnen Netze.	मकड़ियों ने जाल स्पिन किया।
-Spiders spin webs.	Spinnen weben Netze.	बुने हुए जाल।
-Stay away from us.	Komm uns nicht zu nah!	बहुत करीब मत जाओ!
 Stay here with me.	Bleib mit mir hier.	यहां मेरे साथ रुको।
 Stay here with me.	Bleib hier bei mir!	यहां मेरे साथ रुको!
 Stay here with me.	Bleibt hier bei mir!	मेरे साथ यहाँ रहो!

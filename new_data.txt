@@ -17823,3 +17823,13 @@ Someone must lead.	Jemand muss führen.	किसी को नेतृत्�
 Someone was there.	Jemand war da.	किसी के वहाँ था।
 Someone's calling.	Jemand ruft an.	किसी को कॉल कर रहा है।
 Someone's missing.	Jemand fehlt.	किसी की कमी है।
+Someone's outside.	Jemand ist draußen.	कोई बाहर है।
+Someone's outside. 2	Jemand steht draußen.	कोई बाहर खड़ा है।
+Someone's singing.	Jemand singt.	कोई गा रहा है।
+Someone's talking.	Jemand spricht.	कोई बात कर रहा है।
+Something bit Tom.	Etwas hat Tom gebissen.	कुछ ने टॉम को काटा।
+Something came up.	Etwas ist dazwischengekommen.	कुछ आ गया।
+Something changed.	Etwas hat sich geändert.	कुछ बदल गया।
+Spiders spin webs.	Spinnen weben Netze.	मकड़ी जाल बुनती हैं।
+Spiders spin webs. 2	Spinnen spinnen Netze.	मकड़ी जाल बुनती हैं।
+Stay away from us.	Bleib weg von uns.	हमसे दूर रहो।
