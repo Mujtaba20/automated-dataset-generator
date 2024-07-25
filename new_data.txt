@@ -6860,3 +6860,10 @@ She got caught.	Sie wurde erwischt.	उसे पकड़ा गया।
 She has a bike.	Sie hat ein Fahrrad.	उसके पास एक बाइक है।
 She has a book.	Sie hat ein Buch.	उसके पास एक किताब है।
 engSentence	{'She has a cold.': 'Sie hat eine Erkältung.', 'She has brains.': 'Sie hat Verstand.', 'She helped him.': 'Sie half ihm.', 'She hugged him.': 'Sie umarmte ihn.', 'She is a nurse.': 'Sie ist Krankenschwester.', 'She is awkward.': 'Sie ist ungeschickt.', 'She is dieting.': 'Sie macht gerade eine Diät.'}	{'She has a cold.': 'उसे सर्दी है।', 'She has brains.': 'उसमें दिमाग है।', 'She helped him.': 'उसने उसकी मदद की।', 'She hugged him.': 'उसने उसे गले लगाया।', 'She is a nurse.': 'उसकी नर्सिंग हो रही है।', 'She is awkward.': 'वह अजीब है।', 'She is dieting.': 'वह डाइटिंग कर रही है।'}
+She is jealous.	Sie ist eifersüchtig.	वह ईर्ष्यात्मक है।
+She is out now.	Sie ist jetzt draußen.	वह अब बाहर है।
+She is running.	Sie rennt.	वह दौड़ रही है।
+She is talking.	Sie spricht.	वह बात कर रही है।
+She is walking.	Sie geht.	वह चल रही है।
+She isn't poor.	Sie ist nicht arm.	वह गरीब नहीं है।
+She kept quiet.	Sie schwieg.	उसने चुपचाप रहा।
