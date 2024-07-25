@@ -17390,3 +17390,11 @@ It's an ugly flag.	Es ist eine hässliche Flagge.	यह एक बदसूर�
 It's breathtaking.	Es ist atemberaubend.	यह दिल दहलाने वाला है।
 It's cloudy today.	Heute ist es bewölkt.	आज बादलगर्द है।
 It's cloudy today. (different meaning)	Es ist heute bewölkt.	आज में बादल ज्यादा है। (विभिन्न अर्थ)
+It's cold in here.	Es ist kalt hier drinnen.	यहाँ सर्दी है।
+It's confidential.	Es ist vertraulich.	यह गोपनीय है।
+It's dark in here.	Es ist dunkel hier drinnen.	यहाँ अंधेरा है।
+It's dark outside.	Es ist draußen dunkel.	बाहर अंधेरा है।
+It's fine with me.	Es ist in Ordnung für mich.	मेरे लिए ठीक है।
+It's getting cold.	Es wird kälter.	सर्दी बढ़ रही है।
+It's getting late.	Es wird spät.	देर हो रही है।
+It's going nicely!	Es läuft gut!	यह अच्छे से चल रहा है!

@@ -1,14 +1,4 @@
 
-It's cold in here.	Es ist kalt hier drin.	इसमें ठंडा है।
-It's confidential.	Es ist vertraulich.	यह गोपनीय है।
-It's dark in here.	Es ist dunkel hier drin.	इसमें अंधेरा है।
-It's dark outside.	Es ist dunkel draußen.	बाहर अंधेरा है।
-It's dark outside.	Draußen ist es dunkel.	बाहर अंधेरा है।
-It's fine with me.	Das ist mir recht.	यह मेरे लिए ठीक है।
-It's getting cold.	Es wird kälter.	यह और ठंडा हो रहा है।
-It's getting cold.	Es wird kalt.	ठंडा हो जाता है।
-It's getting late.	Es wird spät.	देर हो रही है।
-It's going nicely!	Es läuft prima!	ठीक चल रहा है!
 It's hot out here.	Es ist heiß hier draußen.	यह यहाँ गर्म है।
 It's human nature.	Das liegt in der Natur des Menschen.	वह मनुष्य की प्रकृति में है।
 It's just a dream.	Es ist nur ein Traum.	यह सिर्फ एक सपना है।
