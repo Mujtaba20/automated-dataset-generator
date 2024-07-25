@@ -1868,3 +1868,12 @@ Is she nice?	Ist sie nett?	क्या वह अच्छी है?
 Is that Tom?	Ist das Tom?	क्या वह टॉम है?
 Is that fun?	Ist das Spaß?	क्या यह मजा है?
 Is that new?	Ist das neu?	क्या यह नया है?
+Is that you?	Bist du das?	क्या वह तुम हो?
+Is this Tom?	Ist das Tom?	क्या यह टॉम है?
+Is this art?	Ist das Kunst?	क्या यह कला है?
+Is this new?	Ist das neu?	क्या यह नया है?
+It can't be!	Das kann nicht sein!	यह नहीं हो सकता!
+It can't be! - different meaning	Es darf nicht sein!	ऐसा नहीं हो सकता!
+It happened.	Es ist passiert.	यह हो गया।
+It happened. - different meaning	Es geschah.	यह हो चुका है।
+It is foggy.	Es ist neblig.	यह धुंधला है।
