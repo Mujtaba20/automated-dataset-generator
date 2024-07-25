@@ -1787,3 +1787,11 @@ I'm humming.	Ich summe.	मैं गुनगुना रहा हूँ।
 I'm in debt.	Ich bin verschuldet.	मेरा कर्ज़ है।
 I'm in here.	Ich bin hier drin.	मैं यहाँ हूँ।
 I'm in jail.	Ich bin im Gefängnis.	मैं जेल में हूँ।
+I'm in love.	Ich bin verliebt.	मैं प्यार में हूँ।
+I'm in pain.	Ich habe Schmerzen.	मुझे दर्द हो रहा है।
+I'm injured.	Ich bin verletzt.	मैं चोटी लगा है।
+I'm jealous.	Ich bin eifersüchtig.	मुझे जलन हो रही है।
+I'm leaving.	Ich verlasse.	मैं छोड़ रहा हूँ।
+I'm married.	Ich bin verheiratet.	मैं शादीशुदा हूँ।
+I'm nervous.	Ich bin nervös.	मुझे घबराहट हो रही है।
+I'm no liar.	Ich lüge nicht.	मैं झूठ नहीं बोल रहा हूँ।
