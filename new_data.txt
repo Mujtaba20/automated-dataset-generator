@@ -18855,3 +18855,13 @@ Tom isn't too old.	Tom ist nicht zu alt.	टॉम बहुत बूढ़ा 
 Tom isn't trained.	Tom ist nicht trainiert.	टॉम प्रशिक्षित नहीं है।
 Tom isn't unhappy.	Tom ist nicht unglücklich.	टॉम अद्भुत नहीं है।
 Tom isn't up here.	Tom ist nicht hier oben.	टॉम यहाँ पर नहीं है।
+Tom isn't violent.	Tom ist nicht gewalttätig.	टॉम हिंसात्मक नहीं है।
+Tom isn't wealthy.	Tom ist nicht wohlhabend.	टॉम धनी नहीं है।
+Tom isn't winning.	Tom gewinnt nicht.	टॉम जीतने वाला नहीं है।
+Tom isn't with me.	Tom ist nicht bei mir.	टॉम मेरे साथ नहीं है।
+Tom isn't with us.	Tom ist nicht bei uns.	टॉम हमारे साथ नहीं है।
+Tom isn't working.	Tom arbeitet nicht.	टॉम काम नहीं कर रहा है।
+Tom isn't worried.	Tom ist nicht besorgt.	टॉम चिंतित नहीं है।
+Tom just got home.	Tom ist gerade nach Hause gekommen.	टॉम अभी घर पहुंचा है।
+Tom just listened.	Tom hat gerade zugehört.	टॉम ने सुना है।
+Tom just proposed.	Tom hat gerade einen Antrag gemacht.	टॉम ने अभी सिफारिश की है।

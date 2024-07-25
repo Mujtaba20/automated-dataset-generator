@@ -1,14 +1,4 @@
 
-Tom isn't violent.	Tom ist nicht gewalttätig.	टॉम हिंसक नहीं है।
-Tom isn't wealthy.	Tom ist nicht wohlhabend.	टॉम अमीर नहीं है।
-Tom isn't winning.	Tom gewinnt nicht.	टॉम नहीं जीतता।
-Tom isn't with me.	Tom ist nicht bei mir.	टॉम मेरे साथ नहीं है।
-Tom isn't with us.	Tom ist nicht bei uns.	टॉम हमारे साथ नहीं है।
-Tom isn't working.	Tom arbeitet nicht.	टॉम काम नहीं करता है।
-Tom isn't worried.	Tom macht sich keine Sorgen.	टॉम चिंतित नहीं है।
-Tom just got home.	Tom ist gerade heimgekommen.	टॉम अभी घर आया है।
-Tom just listened.	Tom hörte nur zu.	टॉम ने बस सुना।
-Tom just proposed.	Tom hat soeben einen Heiratsantrag gemacht.	टॉम ने सिर्फ एक शादी का प्रस्ताव दिया है।
 Tom just shrugged.	Tom zuckte nur mit den Schultern.	टॉम बस अपने कंधों के साथ जीत गया।
 Tom just took off.	Tom ist gerade abgehauen.	टॉम अभी भाग गया है।
 Tom keeps a diary.	Tom führt Tagebuch.	टॉम डायरी का नेतृत्व करता है।
