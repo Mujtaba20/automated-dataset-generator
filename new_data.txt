@@ -2828,3 +2828,10 @@ I'm a coward. (different meaning)	Ich bin ein Schwächling.	मैं काय�
 I'm a doctor.	Ich bin Arzt.	मैं डॉक्टर हूँ।
 I'm a father.	Ich bin Vater.	मैं पिता हूँ।
 I'm a friend.	Ich bin Freund.	मैं दोस्त हूँ।
+I'm a genius.	Ich bin ein Genie.	मैं एक प्रतिभाशाली हूँ।
+I'm a hunter.	Ich bin ein Jäger.	मैं एक शिकारी हूँ।
+I'm a lawyer.	Ich bin Anwalt.	मैं वकील हूँ।
+I'm a mother.	Ich bin eine Mutter.	मैं एक माँ हूँ।
+I'm a purist.	Ich bin puristisch.	मैं शुद्धतावादी हूँ।
+I'm a singer.	Ich bin Sängerin.	मैं गायिका हूँ।
+I'm addicted.	Ich bin süchtig.	मुझे लत चढ़ गई है।
