@@ -10527,3 +10527,13 @@ Tom is wheezing.	Tom keucht.	टॉम सांस लेने में प�
 Tom is with her.	Tom ist mit ihr.	टॉम उसके साथ है।
 Tom is with him.	Tom ist mit ihm.	टॉम उसके साथ है। (male)
 Tom isn't alive.	Tom ist nicht lebendig.	टॉम जिन्दा नहीं है।
+Tom isn't alone.	Tom ist nicht allein.	टॉम अकेला नहीं है।
+Tom isn't angry.	Tom ist nicht wütend.	टॉम गुस्सा नहीं है।
+Tom isn't armed.	Tom ist nicht bewaffnet.	टॉम सशस्त्र नहीं है।
+Tom isn't bossy.	Tom ist nicht herrisch.	टॉम बॉसी नहीं है।
+Tom isn't crazy.	Tom ist nicht verrückt.	टॉम पागल नहीं है।
+Tom isn't cruel.	Tom ist nicht grausam.	टॉम क्रूअल नहीं है।
+Tom isn't dying.	Tom stirbt nicht.	टॉम मर रहा नहीं है।
+Tom isn't fazed.	Tom ist nicht verunsichert.	टॉम हैरान नहीं है।
+Tom isn't funny.	Tom ist nicht lustig.	टॉम मजेदार नहीं है।
+Tom isn't fussy.	Tom ist nicht pingelig.	टॉम चिड़चिड़ा नहीं है।
