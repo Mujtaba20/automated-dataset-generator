@@ -3091,3 +3091,9 @@ Move quietly.	Beweg dich leise.	धीरे से हिलो।
 My arm hurts.	Mein Arm tut weh.	मेरा हाथ दर्द कर रहा है।
 My ears hurt.	Meine Ohren tun weh.	मेरे कान दर्द कर रहे हैं।
 My eyes hurt.	Meine Augen tun weh.	मेरी आंखें दर्द कर रही हैं।
+My feet hurt.	Meine Füße tun weh.	मेरे पैर दर्द कर रहे हैं।
+My hip hurts.	Meine Hüfte tut weh.	मेरे कूल्हे में दर्द हो रहा है।
+My jaw hurts.	Mein Kiefer tut weh.	मेरे मुँह में दर्द है।
+No objection.	Kein Einwand.	कोई आपत्ति नहीं।
+No one cared.	Niemand hat sich gekümmert.	किसी ने ध्यान नहीं दिया।
+No one cares.	Niemand kümmert sich.	किसी को परवाह नहीं है।
