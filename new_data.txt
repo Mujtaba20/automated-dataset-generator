@@ -19247,3 +19247,11 @@ Tom wants dessert.	Tom möchte Nachtisch.	टॉम को मिठाई च�
 Tom wants popcorn.	Tom möchte Popcorn.	टॉम को पॉपकॉर्न चाहिए।
 Tom wants respect.	Tom möchte Respekt.	टॉम को सम्मान चाहिए।
 Tom wants results.	Tom will Ergebnisse.	टॉम नतीजे चाहता है।
+Tom wants revenge.	Tom will Rache.	टॉम को प्रतिशोध चाहिए।
+Tom wants to come.	Tom will kommen.	टॉम आना चाहता है।
+Tom wants to help.	Tom will helfen.	टॉम मदद करना चाहता है।
+Tom wants to live.	Tom will leben.	टॉम जीना चाहता है।
+Tom wants to move.	Tom will umziehen.	टॉम हिलना चाहता है।
+Tom wants to play.	Tom will spielen.	टॉम खेलना चाहता है।
+Tom wants to quit.	Tom will aufhören.	टॉम छोड़ना चाहता है।
+Tom wants to stay.	Tom will bleiben.	टॉम रुकना चाहता है।

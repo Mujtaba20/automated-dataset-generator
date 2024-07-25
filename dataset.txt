@@ -1,14 +1,4 @@
 
-Tom wants revenge.	Tom will Rache.	टॉम बदला लेना चाहता है।
-Tom wants revenge.	Tom sinnt auf Rache.	टॉम बदला लेने पर सोचता है।
-Tom wants to come.	Tom möchte kommen.	टॉम आना चाहता है।
-Tom wants to help.	Tom möchte helfen.	टॉम मदद करना चाहता है।
-Tom wants to live.	Tom will leben.	टॉम जीना चाहता है।
-Tom wants to move.	Tom will umziehen.	टॉम हिलना चाहता है।
-Tom wants to play.	Tom möchte spielen.	टॉम खेलना चाहता है।
-Tom wants to quit.	Tom will aufhören.	टॉम रुकना चाहता है।
-Tom wants to quit.	Tom will kündigen.	टॉम समाप्त करना चाहता है।
-Tom wants to stay.	Tom will bleiben.	टॉम रहना चाहता है।
 Tom wants to talk.	Tom will sprechen.	टॉम बोलना चाहता है।
 Tom wants to wait.	Tom wird warten.	टॉम इंतजार करेंगे।
 Tom wants to work.	Tom will arbeiten.	टॉम काम करना चाहता है।
