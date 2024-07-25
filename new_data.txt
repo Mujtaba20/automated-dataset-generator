@@ -4611,3 +4611,8 @@ It's very odd.	Es ist sehr seltsam.	यह बहुत अजीब है।
 It's very sad.	Es ist sehr traurig.	यह बहुत दुखद है।
 Just a minute.	Nur eine Minute.	एक मिनट रुको।
 Just a moment.	Einen Moment.	एक क्षण।
+engSentence1	Nur überprüfen.	बस जाँच करें।
+engSentence2	Gerade überprüfen.	बस इसे जांच लो।
+engSentence3	Einfach überprüfen.	बस यह जांच लो।
+engSentence4	Nur prüfen Sie es.	बस इसे जांचें।
+engSentence5	Nur überprüfen.	केवल यह जांचें।
