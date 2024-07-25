@@ -4149,3 +4149,9 @@ I like salmon. (Different meaning)	Lachs schmeckt mir gut.	मुझे सै�
 I like school.	Ich mag die Schule.	मुझे स्कूल पसंद है।
 I like skiing.	Ich mag Skifahren.	मुझे स्की करना पसंद है।
 I like spoons.	Ich mag Löffel.	मुझे चमचे पसंद हैं।
+I like sports.	Ich mag Sportarten.	मैं खेलों को पसंद करता हूँ।
+I like spring.	Ich mag Frühling.	मुझे वसंत पसंद है।
+I like sweets.	Ich liebe Süßes.	मुझे मीठा पसंद है।
+I like tennis.	Ich mag Tennis.	मुझे टेनिस पसंद है।
+I like to eat.	Ich mag es zu essen.	मैं खाने का आनंद लेता हूँ।
+I like to run.	Ich mag es zu rennen.	मैं दौड़ने का शौकीन हूँ।
