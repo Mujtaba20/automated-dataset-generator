@@ -16443,3 +16443,11 @@ I forgot my tools.	Ich habe meine Werkzeuge vergessen.	मैंने अपन
 I forgot the book.	Ich habe das Buch vergessen.	मैंने किताब भूल गई।
 I forgot to shave.	Ich habe das Rasieren vergessen.	मैंने बाल काटना भूल गया।
 I found Tom there.	Ich habe Tom dort gefunden.	मैंने वहां टॉम को पाया।
+I found a new job.	Ich habe einen neuen Job gefunden.	मैंने एक नया नौकरी पाया।
+I found a way out.	Ich habe einen Ausweg gefunden.	मैंने एक रास्ता निकाला।
+I found him a job.	Ich habe ihm einen Job gefunden.	मैंने उसके लिए नौकरी पाई।
+I found something.	Ich habe etwas gefunden.	मैंने कुछ खोजा।
+I found the money.	Ich habe das Geld gefunden.	मैंने पैसे पाए।
+I found your keys.	Ich habe deine Schlüssel gefunden.	मैंने तुम्हारी चाबियां मिली।
+I gave Tom a book.	Ich gab Tom ein Buch.	मैंने टॉम को एक किताब दी।
+I gave him a book.	Ich habe ihm ein Buch gegeben.	मैंने उसे एक किताब दी।
