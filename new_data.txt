@@ -1586,3 +1586,10 @@ I asked Tom.	Ich fragte Tom.	मैंने टॉम से पूछा।
 I asked why.	Ich fragte warum.	मैंने पूछा क्यों।
 I assume so.	Ich nehme an.	मैं इसे मानता हूँ।
 I ate a lot.	Ich aß viel.	मैंने बहुत खाया।
+I blame Tom.	Ich gebe Tom die Schuld.	मैं टॉम को दोषी ठहराता हूँ।
+I bought it.	Ich habe das gekauft.	मैंने इसे खरीदा।
+I burned it.	Ich habe es verbrannt.	मैंने इसे जला दिया।
+I can do it.	Ich kann es schaffen.	मैं यह कर सकता हूँ।
+I can't eat.	Ich darf nicht essen.	मैं खा नहीं सकता।
+I can't fly.	Ich kann nicht fliegen.	मैं उड़ नहीं सकता।
+I can't say.	Ich kann nicht sagen.	मैं नहीं कह सकता।
