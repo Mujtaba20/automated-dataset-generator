@@ -10006,3 +10006,12 @@ These are great.	Das sind großartig.	ये शानदार हैं।
 These are yours.	Das gehört dir.	ये तुम्हारे हैं।
 These look nice.	Das sieht gut aus.	ये अच्छे दिखते हैं।
 They all talked.	Alle haben geredet.	उन सभी ने बातचीत की।
+They are actors.	Sie sind Schauspieler.	वे अभिनेता हैं।
+They are melons.	Sie sind Melonen.	वे तरबूज हैं।
+They are pilots.	Sie sind Piloten.	वे पायलट्स हैं।
+They are pretty.	Sie sind hübsch.	वे खूबसूरत हैं।
+They are yellow.	Sie sind gelb.	वे पीले हैं।
+They believe it.	Sie glauben es.	वे इस पर विश्वास करते हैं।
+They can manage.	Sie können es schaffen.	वे प्रबंध कर सकते हैं।
+They caught Tom.	Sie haben Tom erwischt.	उन्होंने टॉम को पकड़ा।
+They deserve it.	Sie verdienen es.	उन्हें ये प्राप्त है।
