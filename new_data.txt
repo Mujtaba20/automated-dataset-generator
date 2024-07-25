@@ -15495,3 +15495,13 @@ Am I annoying you?	Mache ich dich wahnsinnig?	क्या मैं तुम�
 Am I making sense?	Kommst du mit mir klar?	क्या मेरी बात समझ रहे हो?
 Am I the only one?	Bin ich der Einzige?	क्या मैं एकल हूँ?
 Am I under arrest?	Bin ich verhaftet?	क्या मैं गिरफ्तार हूँ?
+Am I welcome here?	Bin ich hier willkommen?	क्या मैं यहाँ स्वागत हूँ?
+America loves you.	Amerika liebt dich.	अमेरिका तुम्हें प्यार करता है।
+Ammonia is a base.	Ammoniak ist eine Base.	ऐमोनिया एक बेस है।
+An error was made.	Ein Fehler wurde gemacht.	एक गलती हुई थी।
+An error was made. (Different meaning)	Ein Irrtum ist passiert.	एक भूल हो गई थी।
+Any paper will do.	Jedes Papier wird es tun.	कोई भी कागज काम आएगा।
+Are these candles?	Sind das Kerzen?	क्या ये मोमबत्तियाँ हैं?
+Are they American?	Sind sie Amerikaner?	क्या वे अमेरिकन हैं?
+Are they Canadian?	Sind sie Kanadier?	क्या वे कनाडियन हैं?
+Are they Japanese?	Sind sie Japaner?	क्या वे जापानी हैं?
