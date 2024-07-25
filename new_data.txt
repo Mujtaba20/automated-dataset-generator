@@ -16792,3 +16792,12 @@ I really love you.	Ich liebe dich wirklich.	मुझे तुम्हार�
 I really miss Tom.	Ich vermisse Tom wirklich.	मैं वास्तव में टॉम को याद करता हूँ।
 I really miss you.	Ich vermisse dich wirklich.	मैं वास्तव में तुम्हें याद कर रहा हूँ।
 I really think so.	Ich denke das wirklich.	मैं वास्तव में ऐसा ही सोचता हूँ।
+I recommended Tom.	Ich habe Tom empfohlen.	मैंने टॉम की सिफारिश की।
+I refuse to do it.	Ich weigere mich, es zu tun.	मैं इसे करने से इनकार करता हूँ।
+I remember it all.	Ich erinnere mich an alles.	मैं सब कुछ याद करता हूँ।
+I remember it now.	Ich erinnere mich jetzt daran.	अब मुझे याद है।
+I rescued the cat.	Ich habe die Katze gerettet.	मैंने बिल्ली को बचाया।
+I rushed upstairs.	Ich eilte die Treppe hinauf.	मैंने ऊपर जल्दी से जाने की कोशिश की।
+I said I'd get it.	Ich sagte, ich würde es bekommen.	मैंने कहा कि मैं यह पाऊँगा।
+I said I'll do it.	Ich habe gesagt, ich werde es tun.	मैंने कहा कि मैं यह करूँगा।
+I said good night.	Ich sagte gute Nacht.	मैंने शुभ रात्रि कहा।
