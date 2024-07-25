@@ -1,14 +1,4 @@
 
-Who swam with Tom?	Wer ist mit Tom geschwommen?	टॉम के साथ कौन झूलता है?
-Who told Tom that?	Wer hat das Tom gesagt?	टॉम ने किसने कहा?
-Who told Tom that?	Wer hat das Tom erzählt?	टॉम को किसने बताया?
-Who told you that?	Wer hat euch das gesagt?	किसने कहा तुमसे ये?
-Who told you that?	Wer hat dir das denn erzählt?	किसने कहा तुमसे ये?
-Who voted for him?	Wer hat für ihn gestimmt?	उसे किसने वोट दिया?
-Who wants cookies?	Wer will Kekse?	बिस्कुट कौन चाहता है?
-Who wants popcorn?	Wer mag Popcorn?	पॉपकॉर्न कौन पसंद करता है?
-Who wants to know?	Wer will das wissen?	कौन जानना चाहता है?
-Who was Mona Lisa?	Wer war Mona Lisa?	मोना लिसा कौन था?
 Who would do that?	Wer würde das tun?	वह कौन करेगा?
 Who would do this?	Wer würde das tun?	वह कौन करेगा?
 Who's at the door?	Wer ist an der Tür?	दरवाजे पर कौन है?
