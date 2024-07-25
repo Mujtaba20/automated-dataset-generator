@@ -1,14 +1,4 @@
 
-Nobody visits Tom.	Niemand besucht Tom.	कोई भी टॉम नहीं जाता है।
-Nobody volunteers.	Niemand meldet sich freiwillig.	कोई भी स्वेच्छा से रिपोर्ट नहीं करता है।
-Nobody wants that.	Das will niemand.	कोई भी ऐसा नहीं चाहता।
-Nobody was around.	Es war niemand da.	वहां कोई नहीं था।
-Nobody was around.	Es war keiner da.	वहाँ कोई नहीं था।
-Nobody went there.	Niemand ging hin.	कोई नहीं गया।
-Nobody went there.	Keiner ist hingegangen.	कोई नहीं गया।
-Nobody's here yet.	Es ist noch niemand da.	अभी तक कोई नहीं है।
-Nobody's here yet.	Es ist noch keiner da.	अभी तक कोई नहीं है।
-Nobody's laughing.	Niemand lacht.	कोई हंसता नहीं है।
 Nobody's seen Tom.	Niemand hat Tom gesehen.	किसी ने टॉम को नहीं देखा।
 Nothing had moved.	Nichts hatte sich bewegt.	कुछ भी नहीं चला गया था।
 Nothing scares me.	Ich habe vor nichts Angst.	मुझे किसी भी चीज़ से डर नहीं लगता।

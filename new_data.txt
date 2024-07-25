@@ -17627,3 +17627,10 @@ Nobody likes rats.	Niemand mag Ratten.	किसी को भी चूहे �
 Nobody likes them.	Niemand mag sie.	किसी को भी वे पसंद नहीं हैं।
 Nobody noticed me.	Niemand hat mich bemerkt.	किसी ने भी मुझे ध्यान नहीं दिया।
 Nobody trusts Tom.	Niemand vertraut Tom.	किसी ने भी टॉम पर भरोसा नहीं किया।
+Nobody visits Tom.	Niemand besucht Tom.	कोई भी टॉम को नहीं आता।
+Nobody volunteers.	Niemand meldet sich freiwillig.	कोई भी स्वयंसेवी नहीं है।
+Nobody wants that.	Niemand will das.	कोई भी वह नहीं चाहता।
+Nobody was around.	Niemand war in der Nähe.	किसी के आस-पास कोई नहीं था।
+Nobody went there.	Niemand ging dorthin.	कोई भी वहाँ नहीं गया।
+Nobody's here yet.	Niemand ist hier noch.	कोई अभी तक यहाँ नहीं है।
+Nobody's laughing.	Niemand lacht.	कोई हंस नहीं रहा।
