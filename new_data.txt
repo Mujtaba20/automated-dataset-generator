@@ -13937,3 +13937,12 @@ Tom became dizzy.	Tom wurde schwindelig.	टॉम चक्कर आने ल
 Tom became quiet.	Tom wurde ruhig.	टॉम शांत हो गया।
 Tom became tired.	Tom wurde müde.	टॉम थक गया।
 Tom became upset.	Tom wurde verärgert.	टॉम उदास हो गया।
+Tom began crying.	Tom begann zu weinen.	टॉम रोने लगा।
+Tom began pacing.	Tom begann zu schlendern.	टॉम चलने लगा।
+Tom began to cry.	Tom fing an zu weinen.	टॉम रोना शुरू किया।
+Tom began to run.	Tom fing an zu rennen.	टॉम दौड़ने लगा।
+Tom began to sob.	Tom fing an zu schluchzen.	टॉम रोना शुरू किया।
+Tom behaved well.	Tom hat sich gut benommen.	टॉम अच्छा व्यवहार करता था।
+Tom believes him.	Tom glaubt ihm.	टॉम उसे मान लेता है।
+Tom believes you.	Tom glaubt dir.	टॉम तुम्हें मानता है।
+Tom belongs here.	Tom gehört hierher.	टॉम यहाँ का है।
