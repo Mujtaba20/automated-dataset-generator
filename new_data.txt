@@ -7087,3 +7087,13 @@ This is a trap.	Das ist eine Falle.	यह एक फंदा है।
 This is better.	Das ist besser.	यह बेहतर है।
 This is boring.	Das ist langweilig.	यह बोरिंग है।
 This is broken.	Das ist kaputt.	यह टूटा हुआ है।
+This is creepy.	Das ist gruselig.	यह डरावना है।
+This is creepy.1	Das ist unheimlich.	यह छोटा है।
+This is insane.	Das ist verrückt.	यह पागल है।
+This is my bag.	Das ist meine Tasche.	यह मेरा बस्ता है।
+This is my car.	Das ist mein Auto.	यह मेरी गाड़ी है।
+This is my car.1	Das ist mein Wagen.	यह मेरी कार है।
+This is my cat.	Das ist meine Katze.	यह मेरी बिल्ली है।
+This is my cat.1	Das ist meine Katze.	यह मेरी पूसी है।
+This is my dad.	Das ist mein Vater.	यह मेरे पापा हैं।
+This is my dog.	Das ist mein Hund.	यह मेरा कुत्ता है।
