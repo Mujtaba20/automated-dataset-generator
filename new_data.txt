@@ -2270,3 +2270,13 @@ We want Tom.	Wir wollen Tom.	हमें टॉम चाहिए।
 We want one.	Wir wollen eins.	हमें एक चाहिए।
 We'll be OK.	Es wird uns gut gehen.	हम ठीक रहेंगे।
 We'll check.	Wir werden überprüfen.	हम जांच करेंगे।
+We'll dance.	Wir werden tanzen.	हम नृत्य करेंगे।
+We'll do it.	Wir werden es tun.	हम यह करेंगे।
+We'll drive.	Wir werden fahren.	हम चलाएंगे।
+We'll fight.	Wir werden kämpfen.	हम लड़ेंगे।
+We'll hurry.	Wir werden uns beeilen.	हम जल्दी करेंगे।
+We'll hasten.	Wir werden eilen.	हम तेज़ी से चलेंगे।
+We'll share.	Wir werden teilen.	हम बाँटेंगे।
+We'll shoot.	Wir werden schießen.	हम गोली चलाएंगे।
+We'll stand.	Wir werden stehen.	हम खड़े रहेंगे।
+We'll start.	Wir werden anfangen.	हम शुरू करेंगे।
