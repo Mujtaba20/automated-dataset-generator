@@ -1378,3 +1378,11 @@ We'll walk.	Wir werden gehen.	हम चलेंगे।
 We'll work.	Wir werden arbeiten.	हम काम करेंगे।
 We're back.	Wir sind zurück.	हम वापस आ गए हैं।
 We're back. - Return as in coming back	Wir kehren zurück.	हम वापस लौटते हैं।
+We're boys.	Wir sind Jungs.	हम लड़के हैं।
+We're busy.	Wir sind beschäftigt.	हम व्यस्त हैं।
+We're cold.	Uns ist kalt.	हमें ठंड लग रही है।
+We're even.	Wir sind gleich.	हम बराबर हैं।
+We're fine.	Uns geht es gut.	हम ठीक हैं।
+We're here.	Wir sind hier.	हम यहाँ हैं।
+We're at home.	Wir sind zu Hause.	हम घर पर हैं।
+We're late.	Wir sind spät.	हम देर से आ रहे हैं।
