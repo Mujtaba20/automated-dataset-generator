@@ -6255,3 +6255,12 @@ I study Korean.	Ich studiere Koreanisch.	मैं कोरियाई पढ�
 I study abroad.	Ich studiere im Ausland.	मैं विदेश में पढ़ाई करता हूँ।
 I sure am cold.	Mir ist echt kalt.	मुझे सचमुच ठंड लग रही है।
 I take it back.	Ich nehme es zurück.	मैं इसे वापस लेता हूँ।
+I teach French.	Ich unterrichte Französisch.	मैं फ्रेंच सिखाता हूँ।
+I think I'm OK.	Ich denke, mir geht es gut.	मुझे लगता है कि मैं ठीक हूँ।
+I thought hard.	Ich dachte hart nach.	मैंने मेहनत की सोची।
+I told Tom why.	Ich habe Tom gesagt warum.	मैंने टॉम से कहा क्यों।
+I took a break.	Ich habe eine Pause gemacht.	मैंने एक ब्रेक लिया।
+I travel a lot.	Ich reise viel.	मैं बहुत सारी यात्रा करता हूँ।
+I travel light.	Ich reise leicht.	मैं हल्के से घूमता हूँ।
+I trusted them.	Ich habe ihnen vertraut.	मैंने उनपर भरोसा किया।
+I turned right.	Ich bog rechts ab.	मैंने दाहिनी ओर मुड़ लिया।
