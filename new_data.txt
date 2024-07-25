@@ -6388,3 +6388,11 @@ I'm a weakling.	Ich bin ein Schwächling.	मैं एक कमजोर ह�
 I'm afraid not.	Das glaube ich nicht.	मुझे डर है नहीं।
 I'm afraid not. 1	Ich fürchte nicht.	मैं डरने का नहीं हूँ।
 I'm against it.	Ich bin dagegen.	मैं इसके खिलाफ हूँ।
+I'm an atheist.	Ich bin Atheist.	मैं एक नास्तिक हूँ।
+I'm an officer.	Ich bin Beamter.	मैं एक अधिकारी हूं।
+I'm an old man.	Ich bin ein alter Mann.	मैं एक बूढ़ा आदमी हूँ।
+I'm back early.	Ich bin früh zurück.	मैं जल्दी वापस आ गया हूँ।
+I'm behind you.	Ich bin hinter dir.	मैं तुम्हारे पीछे हूँ।
+I'm being used.	Ich werde benutzt.	मैं इस्तेमाल हो रहा हूँ।
+I'm bored, too.	Ich bin auch gelangweilt.	मुझे भी उबाऊ लग रहा है।
+I'm busy today.	Ich bin heute beschäftigt.	मैं आज व्यस्त हूँ।
