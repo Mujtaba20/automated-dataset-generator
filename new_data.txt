@@ -13192,3 +13192,11 @@ It's just a game.	Es ist nur ein Spiel.	बस एक खेल है।
 It's just coffee.	Es ist nur Kaffee.	बस कॉफी है।
 It's laundry day.	Es ist Waschtag.	यह कपड़े धोने का दिन है।
 It's like a drug.	Es ist wie eine Droge.	यह एक ड्रग की तरह है।
+It's magnificent.	Es ist prächtig.	यह शानदार है।
+It's monkey meat.	Es ist Affenfleisch.	यह बंदर का मांस है।
+It's my umbrella.	Es ist mein Regenschirm.	यह मेरा छाता है।
+It's not a dream.	Es ist keine Traum.	यह सपना नहीं है।
+It's not a trick.	Es ist kein Trick.	यह कोई चाल नहीं है।
+It's not a watch.	Es ist keine Uhr.	यह घड़ी नहीं है।
+It's not for you.	Es ist nicht für dich.	यह तुम्हारे लिए नहीं है।
+It's not from me.	Es ist nicht von mir.	यह मेरे द्वारा नहीं है।
