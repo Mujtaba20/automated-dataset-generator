@@ -17176,3 +17176,10 @@ I'm working alone.	Ich arbeite alleine.	मैं अकेले काम क�
 I'm working on it.	Ich arbeite daran.	मैं इस पर काम कर रहा हूँ।
 I'm your boss now.	Ich bin jetzt dein Chef.	अब मैं तुम्हारे बॉस हूँ।
 I'm your neighbor.	Ich bin dein Nachbar.	मैं तुम्हारा पड़ोसी हूँ।
+I'm your roommate.	Ich bin dein Mitbewohner.	मैं तुम्हारा साथी हूँ।
+I've already paid.	Ich habe bereits bezahlt.	मैंने पहले ही भुगतान कर दिया है।
+I've been evicted.	Ich wurde zwangsgeräumt.	मुझे निकाल दिया गया है।
+I've been tricked.	Ich wurde hereingelegt.	मेरे साथ धोखा हुआ है।
+I've been working.	Ich habe gearbeitet.	मैं काम कर रहा हूँ।
+I've bought a car.	Ich habe ein Auto gekauft.	मैंने एक कार ख़रीदी है।
+I've called twice.	Ich habe zweimal angerufen.	मैंने दो बार कॉल की है।
