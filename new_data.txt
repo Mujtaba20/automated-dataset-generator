@@ -3280,3 +3280,13 @@ This is hers.	Das gehört ihr.	यह उसकी है।
 This is her possession.	Das ist ihr Besitz.	यह उसकी संपत्ति है।
 This is her property.	Das ist ihr Eigentum.	यह उसकी संपत्ति है।
 This is just.	Das ist gerecht.	यह न्याय है।
+This is life!	Das ist das Leben!	यह जीवन है!
+This is love.	Das ist Liebe.	यह प्रेम है।
+This is meat.	Das ist Fleisch.	यह मांस है।
+This is ours.	Das ist unseres.	यह हमारा है।
+This is sick.	Das ist krank.	यह बीमार है।
+This is true.	Das ist wahr.	यह सच है।
+This is ugly.	Das ist hässlich.	यह बुरा है।
+This is ugly. (2nd meaning)	Das ist hässlich.	यह बुरी लग रही है।
+This'll help.	Das wird helfen.	यह मदद करेगा।
+This'll work.	Das wird funktionieren.	यह काम करेगा।
