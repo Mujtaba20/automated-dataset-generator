@@ -8040,3 +8040,10 @@ You need to go.	Du musst losgehen.	तुम्हें जाना है।
 You never know.	Man weiß nie.	कभी पता नहीं चलता।
 You scared Tom.	Du hast Tom erschreckt.	तुमने टॉम को डराया।
 You seem upset.	Sie scheinen verärgert zu sein.	तुम परेशान दिखते हो।
+You should eat.	Sie sollten essen.	तुम्हें भोजन करना चाहिए।
+You smell good.	Du riechst gut.	तुम्हें अच्छी खुशबू आती है।
+You were brave.	Du war tapfer.	तुम साहसी थे।
+You were great.	Du warst großartig.	तुम महान थे।
+You were happy.	Du warst glücklich.	तुम खुश थे।
+You were lucky.	Du hattest Glück.	तुम भाग्यशाली थे।
+You will learn.	Du wirst lernen.	तुम सिखेंगे।
