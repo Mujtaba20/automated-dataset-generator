@@ -3046,3 +3046,11 @@ Keep working.	Weiter arbeiten.	काम करते रहो।
 Keep writing.	Weiter schreiben.	लिखते रहो।
 Keep walking. (Different meaning)	Weiter spazieren.	चलते चलते।
 Keep writing. (Different meaning)	Weiter notieren.	लिखते जाओ।
+Ladies first.	Damen zuerst.	पहले महिलाएँ।
+Lead the way.	Zeige den Weg.	रास्ता दिखाओ।
+Learn French.	Lerne Französisch.	फ्रेंच सीखो।
+Learn French. (different meaning)	Französisch lernen.	फ्रेंच सीखना।
+Let Tom come.	Lass Tom kommen.	टॉम आने दो।
+Let Tom come. (different meaning)	Tom kommen lassen.	टॉम आने दो।
+Let Tom know.	Lass Tom wissen.	टॉम को बताओ।
+Let Tom live.	Lass Tom leben.	टॉम को जीने दो।
