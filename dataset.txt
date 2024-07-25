@@ -1,14 +1,4 @@
 
-Tom loves to read.	Tom liebt es zu lesen.	टॉम को पढ़ना बहुत पसंद है।
-Tom loves to sing.	Tom singt sehr gerne.	टॉम गाना पसंद करते हैं।
-Tom loves you all.	Tom liebt euch alle.	टॉम आप सभी को प्यार करता है।
-Tom made Mary cry.	Tom brachte Maria zum Weinen.	टॉम ने मारिया को रोया।
-Tom made a speech.	Tom hielt eine Rede.	टॉम ने एक भाषण दिया।
-Tom made me angry.	Tom hat mich wütend gemacht.	टॉम ने मुझे गुस्सा दिलाया।
-Tom made me hurry.	Tom trieb mich zur Eile an.	टॉम ने मुझे जल्दी में ले जाया।
-Tom made me laugh.	Tom brachte mich zum Lachen.	टॉम ने मुझे हंसाया।
-Tom made me smile.	Tom brachte mich zum Lächeln.	टॉम ने मुझे मुस्कुरा दिया।
-Tom made mistakes.	Tom hat Fehler gemacht.	टॉम ने गलतियाँ कीं।
 Tom made no reply.	Tom gab keine Antwort.	टॉम ने कोई जवाब नहीं दिया।
 Tom made pancakes.	Tom machte Pfannkuchen.	टॉम ने पेनकेक्स बनाया।
 Tom made us do it.	Tom hat uns dazu gebracht, das zu tun.	टॉम ने हमें ऐसा किया है।

@@ -19003,3 +19003,13 @@ Tom loves singing.	Tom liebt es zu singen.	टॉम गाने से प्�
 Tom loves sunsets.	Tom liebt Sonnenuntergänge.	टॉम सूर्यास्त से प्यार करता है।
 Tom loves to cook.	Tom liebt es zu kochen.	टॉम पकाने से प्यार करता है।
 Tom loves to fish.	Tom liebt es zu angeln.	टॉम मछलियाँ पकड़ने का शौकीन है।
+Tom loves to read.	Tom liebt es zu lesen.	टॉम पढ़ने से प्यार करता है।
+Tom loves to sing.	Tom liebt es zu singen.	टॉम गाने से प्यार करता है।
+Tom loves you all.	Tom liebt euch alle.	टॉम तुम सभी से प्यार करता है।
+Tom made Mary cry.	Tom hat Mary zum Weinen gebracht.	टॉम ने मैरी को रोते देख लिया।
+Tom made a speech.	Tom hielt eine Rede.	टॉम ने भाषण दिया।
+Tom made me angry.	Tom hat mich wütend gemacht.	टॉम ने मुझे गुस्सा दिलाया।
+Tom made me hurry.	Tom hat mich beeilt.	टॉम ने मुझे जल्दी करने के लिए कहा।
+Tom made me laugh.	Tom hat mich zum Lachen gebracht.	टॉम ने मुझे हंसने पे मजबूर किया।
+Tom made me smile.	Tom hat mich lächeln lassen.	टॉम ने मुझे मुस्कान करने के लिए कहा।
+Tom made mistakes.	Tom hat Fehler gemacht.	टॉम ने गलतियों की है।
