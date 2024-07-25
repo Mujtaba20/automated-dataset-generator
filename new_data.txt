@@ -5946,3 +5946,8 @@ I ate a banana.	Ich habe eine Banane gegessen.	मैंने एक केल�
 I ate an apple.	Ich habe einen Apfel gegessen.	मैंने एक सेब खाया।
 I ate too much.	Ich habe zu viel gegessen.	मैंने बहुत ज्यादा खाया।
 I became angry.	Ich wurde wütend.	मैं गुस्से में आ गया।
+I began to cry.	Ich begann zu weinen.	मैं रोने लगा।
+I believed Tom.	Ich glaubte Tom.	मैंने टॉम पर विश्वास किया।
+I believed you.	Ich vertraute auf dich.	मैंने तुम पर भरोसा किया।
+I bet it works.	Ich setze darauf, dass es funktioniert.	मैं उस पर बहुमिलेय हूं कि यह काम करेगा।
+I betrayed you.	Ich habe dich hintergangen.	मैंने तुम्हें धोखा दिया।
