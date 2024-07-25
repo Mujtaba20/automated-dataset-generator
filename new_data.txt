@@ -19192,3 +19192,13 @@ Tom speaks French.	Tom spricht Französisch.	टॉम फ्रेंच बो
 Tom speaks loudly.	Tom spricht laut.	टॉम जोर से बोलता है।
 Tom speaks slowly.	Tom spricht langsam.	टॉम धीरे बोलता है।
 Tom spoke quickly.	Tom sprach schnell.	टॉम तेजी से बोला।
+Tom spoke quietly.	Tom sprach leise.	टॉम धीरे बोला।
+Tom squatted down.	Tom hockte sich hin.	टॉम नीचे ठहर गया।
+Tom staggered off.	Tom taumelte davon.	टॉम लड़खड़ाकर चला गया।
+Tom staggered out.	Tom taumelte hinaus.	टॉम लड़खड़ाकर बाहर निकल गया।
+Tom stayed behind.	Tom blieb zurück.	टॉम पीछे रह गया।
+Tom stayed seated.	Tom blieb sitzen.	टॉम बैठा रहा।
+Tom stayed silent.	Tom schwieg.	टॉम चुप रहा।
+Tom stayed strong.	Tom blieb stark.	टॉम मजबूत रहा।
+Tom stays with us.	Tom bleibt bei uns.	टॉम हमारे साथ रहता है।
+Tom stepped aside.	Tom trat beiseite.	टॉम एक कदम हट गया।
