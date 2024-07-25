@@ -4918,3 +4918,12 @@ They're tired.	Sie sind müde.	वे थके हुए हैं।
 They're upset.	Sie sind verärgert.	उनका दिल टूट गया है।
 They're wrong.	Sie liegen falsch.	वे गलत हैं।
 They're wrong. (alternate meaning)	Sie sind falsch.	वे गलत हैं।
+They're yours.	Sie gehören dir.	ये तुम्हारी हैं।
+Things change.	Dinge ändern sich.	चीजें बदल जाती हैं।
+Things happen.	Dinge passieren.	चीजें होती हैं।
+This is Japan.	Das ist Japan.	यह जापान है।
+This is Tom's.	Das gehört Tom.	यह टॉम का है।
+This is a DVD.	Das ist eine DVD.	यह एक डीवीडी है।
+This is a dog.	Das ist ein Hund.	यह एक कुत्ता है।
+This is a map.	Das ist eine Karte.	यह एक नक्शा है।
+This is a pen.	Das ist ein Stift.	यह एक पेन है।
