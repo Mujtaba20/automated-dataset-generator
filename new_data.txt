@@ -6237,3 +6237,12 @@ I said take it.	Ich sagte, nimm es.	मैंने इसे ले लो।
 I saw five men.	Ich sah fünf Männer.	मैंने पांच आदमियों को देखा।
 I saw her home.	Ich sah ihr Zuhause.	मैंने उसके घर को देखा।
 I saw her swim.	Ich sah sie schwimmen.	मैंने उसे तैरते हुए देखा।
+I saw it first.	Ich habe es zuerst gesehen.	मैंने पहले ही इसे देखा।
+I saw it on TV.	Ich habe es im Fernsehen gesehen.	मैंने टीवी पर इसे देखा।
+I saw somebody.	Ich habe jemanden gesehen.	मैंने किसी को देखा।
+I saw that one.	Ich habe das gesehen.	मैंने वह देखा।
+I saw the cook.	Ich habe den Koch gesehen.	मैंने रसोइया को देखा।
+I saw the news.	Ich habe die Nachrichten gesehen.	मैंने खबरें देखी।
+I saw them all.	Ich habe sie alle gesehen.	मैंने सभी को देखा।
+I see the book.	Ich sehe das Buch.	मैं किताब देखता हूँ।
+I sell flowers.	Ich verkaufe Blumen.	मैं फूल बेचता हूँ।
