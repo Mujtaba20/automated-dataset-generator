@@ -19356,3 +19356,12 @@ Tom was very good.	Tom war sehr gut.	टॉम बहुत अच्छा थ�
 Tom was very late.	Tom war sehr spät.	टॉम बहुत देर से था।
 Tom was very mean.	Tom war sehr gemein.	टॉम बहुत कठोर था।
 Tom was very poor.	Tom war sehr arm.	टॉम बहुत गरीब था।
+Tom was very rich.	Tom war sehr reich.	टॉम बहुत धनवान था।
+Tom was very sick.	Tom war sehr krank.	टॉम बहुत बीमार था।
+Tom was very slow.	Tom war sehr langsam.	टॉम बहुत धीमा था।
+Tom wasn't afraid.	Tom hatte keine Angst.	टॉम डरा नहीं था।
+Tom wasn't amused.	Tom war nicht amüsiert.	टॉम मनोरंजित नहीं था।
+Tom wasn't asleep.	Tom war nicht eingeschlafen.	टॉम सोया नहीं था।
+Tom wasn't crying.	Tom weinte nicht.	टॉम रो नहीं रहा था।
+Tom wasn't eating.	Tom hat nicht gegessen.	टॉम खा नहीं रहा था।
+Tom wasn't drinking.	Tom trank nicht.	टॉम पी नहीं रहा था।

@@ -1,14 +1,4 @@
 
-Tom was very rich.	Tom war sehr reich.	टॉम बहुत अमीर था।
-Tom was very sick.	Tom war schwer krank.	टॉम गंभीर रूप से बीमार था।
-Tom was very slow.	Tom war sehr langsam.	टॉम बहुत धीमा था।
-Tom wasn't afraid.	Tom hatte keine Angst.	टॉम डर नहीं था।
-Tom wasn't amused.	Tom war nicht amüsiert.	टॉम खुश नहीं था।
-Tom wasn't asleep.	Tom hat nicht geschlafen.	टॉम सो नहीं पाया।
-Tom wasn't crying.	Tom weinte nicht.	टॉम रो नहीं पाया।
-Tom wasn't crying.	Tom hat nicht geweint.	टॉम रोया नहीं।
-Tom wasn't eating.	Tom aß nicht.	टॉम नहीं खाया।
-Tom wasn't eating.	Tom hat nicht gegessen.	टॉम ने नहीं खाया।
 Tom wasn't famous.	Tom war nicht berühmt.	टॉम प्रसिद्ध नहीं था।
 Tom wasn't greedy.	Tom war nicht gierig.	टॉम लालची नहीं था।
 Tom wasn't honest.	Tom war nicht ehrlich.	टॉम ईमानदार नहीं था।
