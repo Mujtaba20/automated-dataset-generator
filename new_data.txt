@@ -10069,3 +10069,12 @@ They're engaged.	Sie sind verlobt.	वे सगाई के बंधन म�
 They're friends.	Sie sind Freunde.	वे दोस्त हैं।
 They're in here.	Sie sind hier drin.	वे यहाँ हैं।
 They're in love.	Sie sind verliebt.	वे प्यार में हैं।
+They're interns.	Sie sind Auszubildende.	वे इंटर्न्स हैं।
+They're nervous.	Sie sind nervös.	वे घबराए हुए हैं।
+They're no good.	Sie sind nichts wert.	वे अच्छे नहीं हैं।
+They're outside.	Sie sind draußen.	वे बाहर हैं।
+They're sisters.	Sie sind Schwestern.	वे बहनें हैं।
+They're smiling.	Sie lächeln.	वे मुस्कुरा रहे हैं।
+They're special.	Sie sind besonders.	वे विशेष हैं।
+They're tallest.	Sie sind die größten.	वे सबसे लंबे हैं।
+They're too big.	Sie sind zu groß.	वे बहुत बड़े हैं।
