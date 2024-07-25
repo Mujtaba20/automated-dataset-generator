@@ -13062,3 +13062,10 @@ Is this suitable?	Ist das geeignet?	क्या यह उपयुक्त �
 Is this your DVD?	Ist das deine DVD?	क्या यह तुम्हारा डीवीडी है?
 Is this your car?	Ist das dein Auto?	क्या यह तुम्हारी कार है?
 Is this your cat?	Ist das deine Katze?	क्या यह तुम्हारी बिल्ली है?
+Is this your dog?	Ist das dein Hund?	क्या यह आपका कुत्ता है?
+Is your dad here?	Ist dein Vater hier?	क्या तुम्हारे पिताजी यहाँ हैं?
+Is your dog mean?	Ist dein Hund gemein?	क्या तुम्हारा कुत्ता क्रूर है?
+Is your mom here?	Ist deine Mutter hier?	क्या तुम्हारी माँ यहाँ हैं?
+Is your mom home?	Ist deine Mutter zuhause?	क्या तुम्हारी माँ घर पर हैं?
+Is your name Tom?	Ist dein Name Tom?	क्या तुम्हारा नाम टॉम है?
+Isn't Tom afraid?	Hat Tom keine Angst?	क्या टॉम डरा है?
