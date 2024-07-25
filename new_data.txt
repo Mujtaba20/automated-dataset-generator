@@ -6833,3 +6833,10 @@ Prepare to die.	Bereite dich auf den Tod vor.	मौत के लिए तै�
 Prices went up.	Die Preise sind gestiegen.	मूल्य बढ़ गए हैं।
 Prove it to me.	Beweise es mir.	मुझे यह साबित करो।
 Pull over here.	Hier anhalten.	यहाँ रोको।
+Read this book.	Lies dieses Buch.	इस किताब को पढ़ो।
+Read your book.	Lies dein Buch.	अपनी किताब पढ़ो।
+Return at once.	Kehre sofort zurück.	तुरंत लौट आओ।
+Save me a seat.	Sichere mir einen Platz.	मेरे लिए एक सीट रखो।
+Say that again.	Sage das noch einmal.	वह फिर से कहें।
+School is over.	Die Schule ist vorbei.	स्कूल खत्म हो गया है।
+Science is fun.	Wissenschaft macht Spaß.	विज्ञान मजेदार है।
