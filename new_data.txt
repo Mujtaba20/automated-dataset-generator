@@ -14200,3 +14200,13 @@ Tom is emotional.	Tom ist emotional.	टॉम भावनात्मक ह�
 Tom is energetic.	Tom ist energiegeladen.	टॉम ऊर्जावान है।
 Tom is excellent.	Tom ist hervorragend.	टॉम अद्वितीय है।
 Tom is exhausted.	Tom ist erschöpft.	टॉम थक गया है।
+Tom is exuberant.	Tom ist überschwänglich.	टॉम उल्लासित है।
+Tom is fanatical.	Tom ist fanatisch.	टॉम उत्कट है।
+Tom is fantastic.	Tom ist fantastisch.	टॉम शानदार है।
+Tom is flattered.	Tom ist geschmeichelt.	टॉम को भावुक किया गया है।
+Tom is flustered.	Tom ist verwirrt.	टॉम उन्माद है।
+Tom is foolhardy.	Tom ist tollkühn.	टॉम बेधड़क है।
+Tom is forgetful.	Tom ist vergeßlich.	टॉम भूलनेवाला है।
+Tom is fortunate.	Tom ist glücklich.	टॉम भाग्यशाली है।
+Tom is from here.	Tom ist von hier.	टॉम यहाँ से है।
+Tom is giving up.	Tom gibt auf.	टॉम हार गया है।
