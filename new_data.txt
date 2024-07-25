@@ -17666,3 +17666,10 @@ Pick up the phone.	Nimm den Hörer ab.	फ़ोन उठाओ।
 Pink is for girls.	Pink ist für Mädchen.	गुलाबी लड़कियों के लिए है।
 Please be careful.	Bitte sei aufmerksam.	कृपया सजग रहें।
 Please be patient.	Bitte sei geduldig.	कृपया धीरज रखें।
+Please call again.	Bitte rufen Sie erneut an.	कृपया पुनः कॉल करें।
+Please come again.	Bitte kommen Sie erneut.	कृपया फिर से आइए।
+Please contact us.	Bitte kontaktiere uns.	कृपया हमसे संपर्क करें।
+Please don't jump.	Bitte spring nicht.	कृपया कूद मतें।
+Please forgive me.	Bitte vergib mir.	कृपया मुझे माफ करें।
+Please inform Tom.	Bitte informiere Tom.	कृपया टॉम को सूचित करें।
+Please keep quiet.	Bitte sei ruhig.	कृपया शांत रहें।
