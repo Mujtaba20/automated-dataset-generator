@@ -9297,3 +9297,13 @@ I'm not a woman.	Ich bin kein Frau.	मैं महिला नहीं ह�
 I'm not arguing.	Ich streite nicht.	मैं बहस नहीं कर रहा हूँ।
 I'm not ashamed.	Ich schäme mich nicht.	मुझे शर्मिंदा नहीं होना चाहिए।
 I'm not certain.	Ich bin mir nicht sicher.	मैं निश्चित नहीं हूँ।
+I'm not dressed.	Ich bin nicht angezogen.	मैं नहीं पहना हुआ हूँ।
+I'm not finicky.	Ich bin nicht pingelig.	मैं जिद्दी नहीं हूँ।
+I'm not in love.	Ich bin nicht verliebt.	मैं प्यार में नहीं हूँ।
+I'm not jealous.	Ich bin nicht eifersüchtig.	मुझे जलन नहीं है।
+I'm not kidding.	Ich mache keine Witze.	मैं मजाक नहीं कर रहा हूँ।
+I'm not kidding. (Different meaning)	Ich meine es ernst.	मैं मजाक नहीं कर रहा हूँ।
+I'm not married.	Ich bin nicht verheiratet.	मैं शादीशुदा नहीं हूँ।
+I'm not married. (Different meaning)	Ich habe keine Frau.	मैं शादीशुदा नहीं हूँ।
+I'm not nervous.	Ich bin nicht nervös.	मैं घबराया नहीं हूँ।
+I'm not over it.	Ich bin nicht darüber hinweg.	मैं इससे बाहर नहीं हूँ।
