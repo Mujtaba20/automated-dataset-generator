@@ -1,14 +1,4 @@
 
-Tom is overworked.	Tom ist überarbeitet.	टॉम को संशोधित किया गया है।
-Tom is packing up.	Tom packt.	टॉम पैक।
-Tom is packing up.	Tom packt zusammen.	टॉम एक साथ पैक करता है।
-Tom is particular.	Tom ist ungewöhnlich.	टॉम असामान्य है।
-Tom is passionate.	Tom ist leidenschaftlich.	टॉम भावुक है।
-Tom is persistent.	Tom ist beharrlich.	टॉम लगातार है।
-Tom is personable.	Tom ist sympathisch.	टॉम पसंद करने योग्य है।
-Tom is perspiring.	Tom schwitzt.	टॉम पसीना।
-Tom is persuasive.	Tom ist überzeugend.	टॉम आश्वस्त है।
-Tom is photogenic.	Tom ist photogen.	टॉम फोटोजेन है।
 Tom is pig-headed.	Tom ist dickköpfig.	टॉम जिद्दी है।
 Tom is possessive.	Tom ist besitzergreifend.	टॉम के पास है।
 Tom is prejudiced.	Tom hat Vorurteile.	टॉम के पूर्वाग्रह हैं।

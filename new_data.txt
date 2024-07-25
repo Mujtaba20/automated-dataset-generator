@@ -18724,3 +18724,12 @@ Tom is our friend.	Tom ist unser Freund.	टॉम हमारा दोस्�
 Tom is our oldest.	Tom ist unser Ältester.	टॉम हमारा सबसे बड़ा है।
 Tom is outrageous.	Tom ist unverschämt.	टॉम बेहुदा है।
 Tom is overweight.	Tom ist übergewichtig.	टॉम मोटा है।
+Tom is overworked.	Tom arbeitet zu viel.	टॉम ज्यादा काम कर रहा है।
+Tom is packing up.	Tom packt zusammen.	टॉम पैकिंग कर रहा है।
+Tom is particular.	Tom ist wählerisch.	टॉम विशेष है।
+Tom is passionate.	Tom ist leidenschaftlich.	टॉम उत्साही है।
+Tom is persistent.	Tom ist hartnäckig.	टॉम दृढ़ है।
+Tom is personable.	Tom ist sympathisch.	टॉम व्यक्तिगत है।
+Tom is perspiring.	Tom schwitzt.	टॉम पसीना बह रहा है।
+Tom is persuasive.	Tom ist überzeugend.	टॉम समर्थनशील है।
+Tom is photogenic.	Tom ist fotogen.	टॉम फोटोजेनिक है।
