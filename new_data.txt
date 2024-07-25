@@ -2416,3 +2416,11 @@ Are you okay?	Geht es dir gut?	क्या तुम ठीक हो?
 Are you rich?	Bist du reich?	क्या आप अमीर हैं?
 Are you sick?	Bist du krank?	क्या तुम बीमार हो?
 Are you sure?	Bist du sicher?	क्या तुम पक्का हो?
+Are you tall?	Bist du groß?	क्या तुम लंबे हो?
+Are you tidy?	Bist du ordentlich?	क्या तुम साफ़-सुथरे हो?
+Are you well?	Geht es dir gut?	क्या तुम ठीक हो?
+Ask Mary out.	Frag Mary aus.	मेरी से पूछो।
+Ask Mary out. (different meaning)	Lade Mary ein.	मेरी को बुलाओ।
+Be attentive.	Sei aufmerksam.	सावधान रहो।
+Be objective.	Sei objektiv.	वस्तुनिष्ठ रहो।
+Be objective. (different meaning)	Sei sachlich.	विषयस्पष्ट रहो।
