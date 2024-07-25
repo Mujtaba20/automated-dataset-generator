@@ -12671,3 +12671,13 @@ I started to cry.	Ich fing an zu weinen.	मैं रोने लगा।
 I stayed at home.	Ich blieb zu Hause.	मैं घर पर रहा।
 I still love you.	Ich liebe dich immer noch.	मैं आज भी तुमसे प्यार करता हूँ।
 I swim every day.	Ich schwimme jeden Tag.	मैं हर दिन तैराकी करता हूँ।
+I swim regularly.	Ich schwimme regelmäßig.	मैं नियमित रूप से तैरता हूं।
+I talk to myself.	Ich spreche mit mir selbst.	मैं खुद से बात करता हूँ।
+I think Tom knew.	Ich glaube, Tom wusste.	मुझे लगता है कि टॉम को पता था।
+I think it works.	Ich denke, es funktioniert.	मुझे लगता है कि यह काम करता है।
+I think it's Tom.	Ich denke, es ist Tom.	मुझे लगता है कि यह टॉम है।
+I took a day off.	Ich habe mir einen Tag freigenommen.	मैंने एक दिन की छुट्टी ली।
+I took the money.	Ich habe das Geld genommen.	मैंने पैसे ले लिए।
+I understand Tom.	Ich verstehe Tom.	मैं टॉम को समझता हूँ।
+I understand now.	Ich verstehe jetzt.	मुझे अब समझ आया है।
+I understand why.	Ich verstehe warum.	मुझे पता है क्यों।
