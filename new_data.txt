@@ -3786,3 +3786,11 @@ Dance with me.	Tanzen Sie mit mir.	मेरे साथ नृत्य कर
 Did I ask you?	Habe ich dich gefragt?	क्या मैंने तुमसे पूछा था?
 Did I ask you? (Different meaning)	Habe ich Sie gefragt?	क्या मैंने आपसे पूछा था?
 Did I ask you? (Different meaning 2)	Habe ich dich gefragt?	क्या मैंने तुमसे पूछा था?
+Did I do that?	Habe ich das gemacht?	क्या मैंने वह किया?
+Did Tom do it?	Hat Tom es gemacht?	क्या टॉमने यह किया था?
+Did Tom drown?	Ist Tom ertrunken?	क्या टॉम डूब गया?
+Did Tom faint?	Ist Tom ohnmächtig geworden?	क्या टॉम बेहोश हो गया?
+Did Tom laugh?	Hat Tom gelacht?	क्या टॉम हंसा?
+Did Tom leave?	Ist Tom gegangen?	क्या टॉम चला गया?
+Did Tom reply?	Hat Tom geantwortet?	क्या टॉमने जवाब दिया?
+Did Tom smile?	Hat Tom gelächelt?	क्या टॉम मुस्कुराया?
