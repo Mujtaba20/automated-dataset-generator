@@ -6495,3 +6495,12 @@ I've got plans.	Ich habe Pläne.	मेरे पास योजनाएं �
 I've got proof.	Ich habe Beweise.	मेरे पास सबूत हैं।
 I've lost hope.	Ich habe die Hoffnung verloren.	मैंने उम्मीद खो दी है।
 I've made stew.	Ich habe Eintopf zubereitet.	मैंने स्टू बनाया है।
+I've moved out.	Ich bin ausgezogen.	मैंने पलायन किया है।
+I've remarried.	Ich habe wieder geheiratet.	मैंने फिर से शादी की है।
+I've seen that.	Das habe ich gesehen.	मैंने वह देखा है।
+I've seen them.	Ich habe sie gesehen.	मैंने उन्हें देखा है।
+I've seen this.	Das habe ich gesehen.	मैंने यह देखा है।
+I've solved it.	Ich habe es gelöst.	मैंने इसे हल किया है।
+Is Boston safe?	Ist Boston sicher?	क्या बोस्टन सुरक्षित है?
+Is French easy?	Ist Französisch einfach?	क्या फ्रेंच आसान है?
+Is Tom adopted?	Ist Tom adoptiert?	क्या टॉम को गोद लिया गया है?
