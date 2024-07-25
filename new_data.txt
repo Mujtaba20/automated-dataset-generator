@@ -14566,3 +14566,13 @@ Tom plays bridge.	Tom spielt Bridge.	टॉम ब्रिज खेलता �
 Tom plays hockey.	Tom spielt Hockey.	टॉम हॉकी खेलता है।
 Tom plays soccer.	Tom spielt Fußball.	टॉम फुटबॉल खेलता है।
 Tom plays tennis.	Tom spielt Tennis.	टॉम टेनिस खेलता है।
+Tom predicted it.	Tom hat es vorhergesagt.	टॉम ने यह पूर्वानुमान किया।
+Tom pressed send.	Tom drückte senden.	टॉम ने भेजना दबाया।
+Tom pressured me.	Tom hat mich unter Druck gesetzt.	टॉम ने मुझपर दबाव डाला।
+Tom probably won.	Tom hat wahrscheinlich gewonnen.	संभावना से टॉम जीत गया।
+Tom put on a tie.	Tom hat eine Krawatte angezogen.	टॉम ने एक टाई पहनी।
+Tom put on a tie. (Different meaning)	Tom hat sich eine Krawatte aufgelegt.	टॉम ने एक टाई पहनी। (विभिन्न अर्थ)
+Tom quit his job.	Tom hat seinen Job aufgegeben.	टॉम ने अपनी नौकरी छोड़ दी।
+Tom quit running.	Tom hörte auf zu laufen.	टॉम ने दौड़ना छोड़ दिया।
+Tom quit smoking.	Tom hörte auf zu rauchen.	टॉम ने धूम्रपान छोड़ दिया।
+Tom ran upstairs.	Tom rannte die Treppe hinauf.	टॉम सीढ़ियों पर भागा।
