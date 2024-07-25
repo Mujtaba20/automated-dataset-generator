@@ -5929,3 +5929,11 @@ Hurry up, guys.	Beeil dich, Leute.	जल्दी करो, लोग।
 I accept gifts.	Ich akzeptiere Geschenke.	मैं उपहार स्वीकार करता हूं।
 I almost cried.	Ich habe fast geweint.	मैं लगभग रो पड़ा।
 I already know.	Ich weiß schon.	मुझे पहले ही पता है।
+I am Hungarian.	Ich bin Ungarisch.	मैं हंगेरियन हूँ।
+I am a redhead.	Ich bin rothaarig.	मैं एक लालबाल वाला हूँ।
+I am a shy boy.	Ich bin ein schüchterner Junge.	मैं एक शर्मीला लड़का हूँ।
+I am a student.	Ich bin Student.	मैं एक छात्र हूँ।
+I am a teacher.	Ich bin Lehrer.	मैं एक शिक्षक हूँ।
+I am an artist.	Ich bin Künstler.	मैं एक कलाकार हूँ।
+I am Hungarian. different translation	Ich komme aus Ungarn.	मैं हंगेरी से हूँ।
+I am a student. different meaning	Ich bin ein Schüler.	मैं एक छात्र हूँ।
