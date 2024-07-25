@@ -11908,3 +11908,11 @@ Have a nice trip!	Eine schöne Reise!	एक सुंदर यात्रा 
 Have a safe trip.	Gute Reise.	सुरक्षित यात्रा हो।
 Have a seat, Tom.	Nehmen Sie Platz, Tom.	बैठिए, टॉम।
 Have another cup.	Ein anderes Tasse.	एक और कप है।
+Have you met him?	Haben Sie ihn getroffen?	क्या आपने उससे मिली है?
+Have you read it?	Hast du es gelesen?	क्या आपने इसे पढ़ा है?
+Have you seen it?	Hast du es gesehen?	क्या आपने इसे देखा है?
+He ate all of it.	Er hat alles gegessen.	उसने सभी को खा लिया।
+He baked muffins.	Er hat Muffins gebacken.	उसने मफिन्स बेक किए।
+He became famous.	Er wurde berühmt.	उसने लोकप्रियता प्राप्त की।
+He began running.	Er begann zu rennen.	उसने दौड़ना शुरू किया।
+He began singing.	Er begann zu singen.	उसने गाना गाना शुरू किया।
