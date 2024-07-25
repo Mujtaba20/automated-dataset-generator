@@ -13893,3 +13893,11 @@ This is very big.	Das ist sehr groß.	यह बहुत बड़ा है।
 This is your dog.	Das ist dein Hund.	यह तुम्हारा कुत्ता है।
 This is your cat.	Das ist deine Katze.	यह तुम्हारी बिल्ली है।
 This is your house.	Das ist dein Haus.	यह तुम्हारा घर है।
+This is your key.	Dies ist dein Schlüssel.	यह आपकी कुंजी है।
+This isn't cheap.	Das ist nicht billig.	यह सस्ता नहीं है।
+This isn't funny.	Das ist nicht lustig.	यह मजाक नहीं है।
+This isn't legal.	Das ist nicht legal.	यह कानूनी नहीं है।
+This isn't money.	Das ist kein Geld.	यह पैसा नहीं है।
+This isn't sugar.	Das ist kein Zucker.	यह चीनी नहीं है।
+This isn't yours.	Das gehört dir nicht.	यह तुम्हारा नहीं है।
+This looks great.	Das sieht großartig aus.	यह भव्य दिखता है।
