@@ -298,3 +298,8 @@ He spoke.	Er sprach.	उसने बोला।
 He tried.	Er versuchte.	उसने कोशिश की।
 He tries.	Er probiert.	वह प्रयास करता है।
 Help Tom.	Helft Tom.	टॉम की सहायता करो।
+How cute!	Wie niedlich!	कितना प्यारा है!
+How deep?	Wie tief?	कितना गहरा है?
+How nice!	Wie schön!	बहुत अच्छा!
+How rude!	Wie unhöflich!	कितना अकड़ा है!
+How cute! (alternate)	Wie süß!	इतना प्यारा!
