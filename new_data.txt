@@ -17411,3 +17411,10 @@ It's no big thing.	Es ist keine große Sache.	यह बड़ी बात न�
 It's not a secret.	Es ist kein Geheimnis.	यह एक रहस्य नहीं है।
 It's not a weapon.	Es ist keine Waffe.	यह एक हथियार नहीं है।
 It's not an issue.	Das ist kein Problem.	यह कोई मुद्दा नहीं है।
+It's not for sale.	Es ist nicht zum Verkauf.	यह बिक्री के लिए नहीं है।
+It's not my fault.	Es ist nicht meine Schuld.	यह मेरी गलती नहीं है।
+It's not my style.	Es ist nicht mein Stil.	यह मेरी शैली नहीं है।
+It's not over yet.	Es ist noch nicht vorbei.	यह अभी तक खत्म नहीं हुआ है।
+It's not possible.	Es ist nicht möglich.	यह संभव नहीं है।
+It's not that bad.	Es ist nicht so schlecht.	इतना बुरा नहीं है।
+It's not the same.	Es ist nicht dasselbe.	यह वही नहीं है।

@@ -1,14 +1,4 @@
 
-It's not for sale.	Das steht nicht zum Verkauf.	यह बिक्री के लिए नहीं है।
-It's not for sale.	Das ist unverkäuflich.	यह अनसुना है।
-It's not my fault.	Das ist nicht mein Fehler.	यह मेरी गलती नहीं है।
-It's not my fault.	Das ist nicht meine Schuld.	मेरी गलती नहीं है।
-It's not my style.	Es ist nicht mein Stil.	यह मेरी शैली नहीं है।
-It's not my style.	Das ist nicht mein Stil.	यह मेरी शैली नहीं है।
-It's not over yet.	Es ist noch nicht vorbei.	यह अभी तक खत्म नहीं हुआ है।
-It's not possible.	Es ist nicht möglich.	यह संभव नहीं है।
-It's not that bad.	So schlimm ist es nicht.	यह इतना बुरा नहीं है।
-It's not the same.	Das ist nicht das Gleiche.	ऐसा नहीं है।
 It's not this one.	Es ist nicht dieser.	यह नहीं है।
 It's not too deep.	Es ist nicht zu tief.	यह बहुत गहरा नहीं है।
 It's not too late.	Es ist noch nicht zu spät.	अभी तक बहुत देर नहीं हुई है।
