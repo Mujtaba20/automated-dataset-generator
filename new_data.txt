@@ -9234,3 +9234,12 @@ I'm a therapist.	Ich bin Therapeutin.	मैं एक चिकित्सक 
 I'm able to run.	Ich bin in der Lage zu rennen.	मैं दौड़ने की क्षमता रखता हूँ।
 I'm able to ski.	Ich kann Ski fahren.	मैं स्की करने के लिए सक्षम हूँ।
 I'm about ready.	Ich bin fast bereit.	मैं लगभग तैरारी हूँ।
+I'm adventurous.	Ich bin abenteuerlich.	मैं साहसी हूँ।
+I'm almost done.	Ich bin fast fertig.	मैं लगभग पूरा हो गया हूँ।
+I'm almost sure.	Ich bin mir fast sicher.	मुझे लगभग पक्का है।
+I'm always busy.	Ich bin immer beschäftigt.	मैं हमेशा व्यस्त रहता हूँ।
+I'm always here.	Ich bin immer hier.	मैं हमेशा यहाँ हूँ।
+I'm always home.	Ich bin immer zu Hause.	मैं हमेशा घर पर हूँ।
+I'm always late.	Ich bin immer spät dran.	मैं हमेशा देर से पहुंचता हूँ।
+I'm an Aquarius.	Ich bin ein Wassermann.	मैं एक कुंभ राशि का हूँ।
+I'm an attorney.	Ich bin Anwalt.	मैं वकील हूँ।
