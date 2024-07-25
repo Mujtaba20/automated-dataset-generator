@@ -6734,3 +6734,12 @@ Listen, please.	Bitte hören Sie zu.	कृपया सुनिए।
 Live and learn.	Lebe und lerne.	जीवित रहो और सीखो।
 Look at my arm.	Schau dir meinen Arm an.	मेरी हाथ की ओर देखो।
 Look out there.	Schau da raus.	वहां देखो।
+Loosen up, Tom.	Entspann dich, Tom.	Tom, ढीला करो।
+Louder, please.	Lauter, bitte.	ज्यादा उच्चरित करें, कृपया।
+Love takes two.	Liebe braucht zwei.	प्रेम के लिए दो की आवश्यकता है।
+Lunch is ready.	Es ist Mittagspause.	खाना तैयार है।
+Lying is wrong.	Lügen ist falsch.	झूठ बोलना गलत है।
+Make your move.	Mach deinen Zug.	अपना कदम उठाओ।
+Many fish died.	Viele Fische sind gestorben.	कई मछलियाँ मर गईं।
+Mary is a girl.	Mary ist ein Mädchen.	मेरी एक लड़की है।
+Mary is blonde.	Mary ist blond.	मेरी सेठनी है।
