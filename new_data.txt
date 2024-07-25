@@ -8801,3 +8801,12 @@ I have to hurry!	Ich muss mich beeilen!	मुझे जल्दी करन�
 I have to sleep.	Ich muss schlafen.	मुझे सोना है।
 I have to study.	Ich muss studieren.	मुझे पढ़ाई करनी है।
 I have to think.	Ich muss nachdenken.	मुझे सोचना पड़ेगा।
+I have two cars.	Ich habe zwei Autos.	मेरे पास दो कार हैं।
+I have two cats.	Ich habe zwei Katzen.	मेरे पास दो बिल्लियां हैं।
+I have two sons.	Ich habe zwei Söhne.	मेरे पास दो पुत्र हैं।
+I have your key.	Ich besitze deinen Schlüssel.	मुझे तुम्हारी चाबी मिली है।
+I haven't eaten.	Ich habe nicht gegessen.	मैंने खाना नहीं खाया है।
+I haven't tried.	Ich habe nicht versucht.	मैंने प्रयास नहीं किया है।
+I hear only you.	Ich höre nur dich.	मैं सिर्फ तुम्हें सुनता हूँ।
+I hear the drum.	Ich höre die Trommel.	मैं ढोल सुनता हूँ।
+I heard a noise.	Ich hörte ein Geräusch.	मुझे ध्वनि सुनाई दी।
