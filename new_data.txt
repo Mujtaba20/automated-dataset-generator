@@ -3769,3 +3769,10 @@ Can you do it?	Kannst du es machen?	क्या तुम इसे कर स�
 Can you drive?	Kannst du fahren?	क्या तुम ड्राइव कर सकते हो?
 Can you skate?	Kannst du skaten?	क्या तुम स्केट कर सकते हो?
 Can you stand?	Kannst du stehen?	क्या तुम खड़े हो सकते हो?
+Can you tango?	Kannst du Tango tanzen?	क्या आप तांगो डांस कर सकते हैं?
+Cats are cute.	Katzen sind niedlich.	बिल्लियाँ प्यारी हैं।
+Check, please.	Überprüfen Sie bitte.	कृपया जाँच करें।
+Clean that up.	Putz das weg.	वह साफ़ करो।
+Come and look.	Komm und schau.	आकर देखो।
+Come out here.	Komm hier raus.	बाहर आ जाओ।
+Come right in.	Kommen Sie herein.	सीधे अंदर आ जाओ।
