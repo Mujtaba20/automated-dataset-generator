@@ -11776,3 +11776,11 @@ Don't let me die.	Lass mich nicht sterben.	मुझे मरने मत द�
 Don't look at it.	Schau es dir nicht an.	उस पर मत देखो।
 Don't look at me.	Schau mich nicht an.	मुझ पर मत देखो।
 Don't look at us.	Schau uns nicht an.	हमें मत देखो।
+Don't lose heart.	Verlier nicht den Mut.	हार मत मानो।
+Don't make faces.	Zieh keine Gesichter.	मुँह फेर लेना बंद करो।
+Don't make me go.	Zwing mich nicht zu gehen.	मुझे जाने मत दो।
+Don't make me go. #2	Mach mich nicht fertig.	मुझे जाने मत दो।
+Don't make noise.	Mach keinen Lärm.	शोर मत मचाओ।
+Don't make noise. #2	Ruhe bitte.	शोर मत करो।
+Don't mention it.	Keine Ursache.	इसे मत बताओ।
+Don't play games.	Keine Spielchen.	खेल मत खेलो।
