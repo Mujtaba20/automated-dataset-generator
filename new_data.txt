@@ -9166,3 +9166,13 @@ I'll defend Tom.	Ich werde Tom verteidigen.	मैं टॉम की रक्
 I'll do it, too.	Ich werde es auch machen.	मैं भी यह करूंगा।
 I'll do my best.	Ich werde mein Bestes geben.	मैं अपनी सबसे अच्छी कोशिश करूँगा।
 I'll enjoy this.	Das werde ich genießen.	मैं इसे आनंद लेऊँगा।
+I'll fix it now.	Ich werde es jetzt reparieren.	मैं अब इसे ठीक कर दूंगा।
+I'll fix it now.(different meaning)	Ich werde es gleich in Ordnung bringen.	मैं अब इसे ठीक कर लूंगा।
+I'll follow Tom.	Ich werde Tom folgen.	मैं टॉम का पालन करूंगा।
+I'll follow you.	Ich werde dir folgen.	मैं तुम्हें फॉलो करूंगा।
+I'll get my bag.	Ich werde meine Tasche holen.	मैं अपना बैग लेआऊँगा।
+I'll get my car.	Ich werde mein Auto holen.	मैं अपनी कार लेआऊँगा।
+I'll get my car. (different meaning)	Ich werde mein Auto reparieren.	मैं अपनी कार को ठीक करेगा।
+I'll go and see.	Ich werde gehen und sehen.	मैं जाकर देखूंगा।
+I'll go and see. (different meaning)	Ich werde hingehen und nachsehen.	मैं जाऊंगा और देखूंगा।
+I'll go ask Tom.	Ich werde Tom fragen gehen.	मैं टॉम से पूछने जाऊंगा।
