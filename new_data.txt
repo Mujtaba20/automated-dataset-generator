@@ -267,3 +267,6 @@ Ask them.	Frag sie.	उनसे पूछो।
 Back off.	Geh weg.	पीछे हटो।
 Be a man.	Sei ein Mann.	एक मर्द बनो।
 Be brave.	Sei mutig.	धीरे बनो।
+Be brief.	Sei präzise.	संक्षेप में रहें।
+Be still.	Sei still.	शांत रहो।
+Call Tom.	Rufe Tom an.	टॉम को बुलाओ।
