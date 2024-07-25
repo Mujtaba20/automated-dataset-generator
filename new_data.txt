@@ -15525,3 +15525,13 @@ Are you coming in?	Kommst du rein?	क्या तुम अंदर आ र�
 Are you competent?	Bist du kompetent?	क्या तुम पात्र हो?
 Are you confident?	Bist du selbstbewusst?	क्या आप आत्मविश्वासी हैं?
 Are you depressed?	Bist du deprimiert?	क्या आप निराश हैं?
+Are you forgetful?	Bist du vergesslich?	क्या आप भूलने वाले हैं?
+Are you from here?	Kommst du von hier?	क्या तुम यहाँ से हो?
+Are you giving up?	Gibst du auf?	क्या तुम हार रहे हो?
+Are you going out?	Gehst du raus?	क्या तुम बाहर जा रहे हो?
+Are you guys busy?	Seid ihr beschäftigt?	क्या तुम लोग व्यस्त हो?
+Are you guys cold?	Ist euch kalt?	क्या तुम लोग सर्दी में हो?
+Are you happy now?	Bist du jetzt glücklich?	क्या अब तुम खुश हो?
+Are you home, too?	Bist du auch zu Hause?	क्या तुम भी घर पर हो?
+Are you important?	Bist du wichtig?	क्या तुम महत्वपूर्ण हो?
+Are you impressed?	Bist du beeindruckt?	क्या तुम प्रभावित हो?
