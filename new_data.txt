@@ -12852,3 +12852,13 @@ I'm an ex-marine.	Ich bin ein ehemaliger Marine.	मैं एक पूर्�
 I'm an old woman.	Ich bin eine alte Frau.	मैं एक बुढ़ी औरत हूँ.
 I'm avoiding Tom.	Ich meide Tom.	मैं टॉम से बच रहा हूँ.
 I'm awfully lazy.	Ich bin furchtbar faul.	मैं भयानक सुस्त हूँ.
+I'm baking bread.	Ich backe Brot.	मैं रोटी पका रहा हूँ।
+I'm being honest.	Ich bin ehrlich.	मैं सच्चा हूँ।
+I'm best at math.	Ich bin am besten in Mathe.	मैं गणित में सबसे अच्छा हूँ।
+I'm confused now.	Ich bin jetzt verwirrt.	मैं अब उलझन में हूँ।
+I'm dead serious.	Ich meine es ernst.	मैं मौत से भी पक्का हूँ।
+I'm disappointed.	Ich bin enttäuscht.	मुझे निराशा हुई है।
+I'm dissatisfied.	Ich bin unzufrieden.	मैं असंतुष्ट हूँ।
+I'm eating fruit.	Ich esse Obst.	मैं फल खा रहा हूँ।
+I'm eating lunch.	Ich esse Mittagessen.	मैं दोपहर का भोजन खा रहा हूँ।
+I'm dissatisfied about the result.	Ich bin mit dem Ergebnis unzufrieden.	मैं परिणाम से असंतुष्ट हूँ।
