@@ -7771,3 +7771,12 @@ Watch yourself.	Achte auf dich selbst.	खुद को देखो।
 Way to go, Tom!	Gut gemacht, Tom!	पहुंचने का रास्ता, टॉम!
 We adopted Tom.	Wir haben Tom adoptiert.	हमने टॉम को गोद लिया।
 We all knew it.	Wir alle wussten es.	हम सभी जानते थे।
+We all laughed.	Wir haben alle gelacht.	हम सभी हंसे।
+We already ate.	Wir haben schon gegessen.	हम पहले ही खा चुके है।
+We are at home.	Wir sind zu Hause.	हम घर पर हैं।
+We are cousins.	Wir sind Cousins.	हम भाई बहन हैं।
+We are doctors.	Wir sind Ärzte.	हम डॉक्टर हैं।
+We belong here.	Wir gehören hierher.	हम यहाँ के हैं।
+We can proceed.	Wir können fortfahren.	हम आगे बढ़ सकते हैं।
+We can't do it.	Wir können es nicht tun.	हम यह नहीं कर सकते।
+We didn't sing.	Wir haben nicht gesungen.	हमने गा नहीं था।
