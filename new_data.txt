@@ -4047,3 +4047,13 @@ I dislike Tom.	Ich mag Tom nicht.	मुझे टॉम से नफरत ह
 I disliked it.	Ich mochte es nicht.	मुझे यह पसंद नहीं था।
 I do like Tom.	Ich mag Tom.	मुझे टॉम पसंद है।
 I do like you.	Ich mag dich.	मुझे तुम्हे पसंद है।
+I do love you.	Ich liebe dich.	मैं तुमसे प्यार करता हूँ।
+I do think so.	Ich denke schon.	मुझे ऐसा ही लगता है।
+I don't agree.	Ich stimme nicht zu.	मैं सहमत नहीं हूँ।
+I don't curse.	Ich fluche nicht.	में शाप नहीं देता।
+I don't dance.	Ich tanze nicht.	मैं नाच नहींता।
+I don't dream.	Ich träume nicht.	मैं ख्वाब नहीं देखता।
+I don't drink.	Ich trinke nicht.	मैं नहीं पीता।
+I don't snore.	Ich schnarche nicht.	मुझसे गुँजना नहीं होता।
+I don't study.	Ich studiere nicht.	मैं पढ़ाई नहीं करता।
+I dream a lot.	Ich träume viel.	मैं बहुत सारे सपने देखता हूँ।
