@@ -1686,3 +1686,11 @@ I need more.	Ich brauche mehr.	मुझे और चाहिए।
 I need them.	Ich brauche sie.	मुझे उन्हें चाहिए।
 I need time.	Ich brauche Zeit.	मुझे समय चाहिए।
 I never bet.	Ich wette nie.	मैं कभी दांव नहीं लगता।
+I never cry.	Ich weine nie.	मैं कभी नहीं रोता।
+I never win.	Ich gewinne nie.	मैं कभी नहीं जीतता।
+I often ski.	Ich fahre oft Ski.	मैं अक्सर स्की करता हूँ।
+I oppose it.	Ich bin dagegen.	मैं इसका विरोध करता हूँ।
+I overslept.	Ich habe verschlafen.	मैंने अधिक समय सो लिया।
+I read lips.	Ich lese Lippen.	मैं होंठों को पढ़ता हूँ।
+I recovered.	Ich habe mich erholt.	मैं ठीक हो गया।
+I said stop.	Ich habe Stopp gesagt.	मैंने कह दिया रुको।
