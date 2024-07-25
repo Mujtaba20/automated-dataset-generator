@@ -14547,3 +14547,12 @@ Tom never cheats.	Tom betrügt nie.	टॉम कभी धोखा नही�
 Tom never curses.	Tom flucht nie.	टॉम कभी कुर्सी नहीं देता।
 Tom never forgot.	Tom hat nie vergessen.	टॉम कभी नहीं भूला।
 Tom never laughs.	Tom lacht nie.	टॉम कभी हँसता नहीं है।
+Tom never saw it.	Tom hat es nie gesehen.	टॉम ने कभी नहीं देखा।
+Tom never shouts.	Tom schreit nie.	टॉम कभी नहीं चिल्लाता।
+Tom never showed.	Tom hat nie gezeigt.	टॉम ने कभी दिखाया नहीं।
+Tom never talked.	Tom hat nie gesprochen.	टॉम कभी बात नहीं किया।
+Tom never writes.	Tom schreibt nie.	टॉम कभी नहीं लिखता।
+Tom nodded again.	Tom nickte erneut.	टॉम फिर से सिर हिलाया।
+Tom nodded to me.	Tom nickte mir zu.	टॉम ने मुझे सिर हिलाया।
+Tom noticed that.	Tom hat das bemerkt.	टॉम ने वह देखा।
+Tom ordered this.	Tom hat das bestellt.	टॉम ने यह आदेश दिया।
