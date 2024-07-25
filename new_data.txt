@@ -4561,3 +4561,10 @@ It's happened.	Es ist geschehen.	ऐसा हुआ है।
 It's homemade.	Es ist selbstgemacht.	यह घर पर बना हुआ है।
 It's hopeless.	Es ist hoffnungslos.	यह बेढ़ंगा है।
 It's hot here.	Es ist heiß hier.	यहाँ गरम है।
+It's improved.	Es hat sich verbessert.	यह सुधारा गया है।
+It's inhumane.	Es ist unmenschlich.	यह अमानवीय है।
+It's midnight.	Es ist Mitternacht.	यह रात का समय है।
+It's my fault.	Es ist mein Fehler.	यह मेरी गलती है।
+It's my horse.	Es ist mein Pferd.	यह मेरा घोड़ा है।
+It's my money.	Es ist mein Geld.	यह मेरा पैसा है।
+It's my treat.	Es ist mein Genuss.	यह मेरा खास समय है।
