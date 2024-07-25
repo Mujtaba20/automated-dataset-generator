@@ -20690,3 +20690,6 @@ Have you eaten yet?	Hast du schon gegessen?	क्या तुमने अभ�
 Have you ever lost?	Hast du jemals verloren?	क्या तुमने कभी हारी है?
 Have you fired Tom?	Hast du Tom gefeuert?	क्या तुमने टॉम को नौकरी से निकाल दिया है?
 Have you gone nuts?	Bist du verrückt geworden?	क्या तुम पागल हो गए हो?
+Have you had lunch?	Habt ihr zu Mittag gegessen?	क्या तुमने दोपहर का भोजन किया है?
+Have you missed me?	Habt ihr mich vermisst?	क्या तुमने मुझे याद किया है?
+Have you read this?	Hast du das gelesen?	क्या तुमने यह पढ़ा है?

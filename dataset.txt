@@ -1,14 +1,4 @@
 
-Have you had lunch?	Hast du schon zu Mittag gegessen?	क्या आपने पहले ही दोपहर का भोजन किया है?
-Have you had lunch?	Haben Sie schon zu Mittag gegessen?	क्या आपने पहले ही दोपहर का भोजन किया है?
-Have you had lunch?	Habt ihr schon zu Mittag gegessen?	क्या आपने पहले ही दोपहर का भोजन किया है?
-Have you missed me?	Hast du mich vermisst?	क्या तुमने मुझे याद किया?
-Have you missed me?	Habe ich dir gefehlt?	क्या आपको याद आया?
-Have you missed me?	Habt ihr mich vermisst?	क्या तुमने मुझे याद किया?
-Have you missed me?	Haben Sie mich vermisst?	क्या तुमने मुझे याद किया?
-Have you missed me?	Habe ich euch gefehlt?	क्या आपको याद आया?
-Have you missed me?	Habe ich Ihnen gefehlt?	क्या आपको याद आया?
-Have you read this?	Hast du das gelesen?	क्या आपने इसे पढ़ा?
 Have you seen this?	Hast du das gesehen?	क्या तुमने देखा?
 Have you seen this?	Haben Sie das gesehen?	क्या तुमने देखा?
 Have you seen this?	Habt ihr das gesehen?	क्या तुमने देखा?
