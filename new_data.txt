@@ -13430,3 +13430,9 @@ OK, listen to me.	OK, hör mir zu.	ठीक है, मेरी बात स�
 OK, thanks a lot.	OK, vielen Dank.	ठीक है, बहुत धन्यवाद।
 OK, thanks again.	OK, nochmals vielen Dank.	ठीक है, फिरसे धन्यवाद।
 OK, wish me luck.	OK, wünsch mir Glück.	ठीक है, मुझे भाग्य चाहिए।
+Obey your father.	Gehorche deinem Vater.	अपने पिताजी की सुनो।
+Oh no, not again!	Oh nein, nicht schon wieder!	ओह, फिर से नहीं!
+Oh, have a heart.	Oh, sei nicht so herzlos.	ओह, दिल बड़ा करो।
+Open the windows.	Öffne die Fenster.	खिड़कियां खोलो।
+Open those doors.	Öffne jene Türen.	वह दरवाज़े खोलो।
+Open up the door.	Mach die Tür auf.	दरवाज़ा खोलो।
