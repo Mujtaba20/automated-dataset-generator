@@ -14586,3 +14586,11 @@ Tom said goodbye.	Tom sagte auf Wiedersehen.	टॉम ने अलविदा
 Tom said nothing.	Tom sagte nichts.	टॉम ने कुछ नहीं कहा।
 Tom sat on a log.	Tom saß auf einem Baumstamm.	टॉम एक लकड़ी पर बैठा था।
 Tom sat silently.	Tom saß schweigend.	टॉम खामोश रहता था।
+Tom saved us all.	Tom hat uns alle gerettet.	टॉम ने हम सभी को बचाया।
+Tom saw a doctor.	Tom hat einen Arzt gesehen.	टॉम ने एक डॉक्टर को देखा।
+Tom saw somebody.	Tom hat jemanden gesehen.	टॉम ने किसी को देखा।
+Tom saw the news.	Tom hat die Nachrichten gesehen.	टॉम ने समाचार देखा।
+Tom says he's OK.	Tom sagt, dass es ihm gut geht.	टॉम कहता है कि वह ठीक है।
+Tom says it's OK.	Tom sagt, dass es in Ordnung ist.	टॉम कहता है कि सब ठीक है।
+Tom scolded Mary.	Tom hat Mary geschimpft.	टॉम ने मेरी को डाँटा।
+Tom scored twice.	Tom hat zweimal getroffen.	टॉम ने दो बार गोल किया।
