@@ -4783,3 +4783,8 @@ She was young.	Sie war jung.	वह जवान थी।
 She went home.	Sie kehrte nach Hause zurück.	उसने घर वापस चली गई।
 She's a cutie.	Sie ist bezaubernd.	वह प्यारी है।
 She's dieting.	Sie macht Diät.	वह डाइटिंग कर रही है।
+She's my type.	Sie ist mein Typ.	वह मेरा प्रकार है।
+She's my wife.	Sie ist meine Frau.	वह मेरी पत्नी है।
+Show it to me.	Zeig es mir.	मुझे दिखाओ।
+Show it to us.	Zeigen Sie es uns.	हमें दिखाओ।
+Show yourself.	Zeigen Sie sich.	अपने आप को दिखाओ।
