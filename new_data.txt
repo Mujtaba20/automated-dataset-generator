@@ -13749,3 +13749,13 @@ The party's over.	Die Feier ist beendet.	तुमने खुदाई की�
 The pizza's here!	Die Pizza ist da!	पिज्जा यहाँ है!
 The road was icy.	Die Straße war vereist.	सड़क बर्फ से भरी थी।
 The sea is rough.	Das Meer ist rau.	समुंदर उग्र है।
+The sky is clear.	Der Himmel ist klar.	आसमान साफ है।
+The sky was blue.	Der Himmel war blau.	आसमान नीला था।
+The sky was gray.	Der Himmel war grau.	आसमान धूसर था।
+The soup is cold.	Die Suppe ist kalt.	सूप ठंडी है।
+The storm abated.	Der Sturm ließ nach.	तूफान कम हो गया।
+The storm let up.	Der Sturm hörte auf.	तूफान रुक गया।
+The switch is on.	Der Schalter ist an.	स्विच चालू है।
+The tank is full.	Der Tank ist voll.	टांक पूरा है।
+The towel is dry.	Das Handtuch ist trocken.	दस्तेला सूखा हुआ है।
+The towel is wet.	Das Handtuch ist nass.	दस्तेला गीला है।
