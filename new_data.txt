@@ -1660,3 +1660,13 @@ I like this.	Das gefällt mir.	मुझे यह पसंद है।
 I like wine.	Ich mag Wein.	मुझे वाइन पसंद है।
 I liked Tom.	Ich mochte Tom.	मैने टॉम को पसंद किया।
 I live here.	Ich lebe hier.	मैं यहाँ रहता हूँ।
+I lost face.	Ich habe mein Gesicht verloren.	मैंने अपना चेहरा खो दिया।
+I love Mary.	Ich liebe Mary.	मैं मेरी से प्यार करता हूँ।
+I love beef.	Ich liebe Rindfleisch.	मैं गाय को पसंद करता हूँ।
+I love cake.	Ich liebe Kuchen.	मुझे केक पसंद है।
+I love dogs.	Ich liebe Hunde.	मैं कुत्तों से प्यार करता हूँ।
+I love kids.	Ich liebe Kinder.	मैं बच्चों से प्यार करता हूँ।
+I love life.	Ich liebe das Leben.	मैं जीवन से प्यार करता हूँ।
+I love math.	Ich liebe Mathe.	मुझे गणित पसंद है।
+I love math. 2	Ich mag Mathe.	मैंने गणित को पसंद किया।
+I love math. 3	Ich bin verrückt nach Mathe.	मुझे गणित का जुनून है।
