@@ -5579,3 +5579,11 @@ Can I see, too?	Kann ich auch sehen?	क्या मैं भी देख स
 Can I sit down?	Kann ich mich hinsetzen?	क्या मैं बैठ सकता हूँ?
 Can I sit here?	Kann ich hier sitzen?	क्या मैं यहाँ बैठ सकता हूँ?
 Can I touch it?	Kann ich es anfassen?	क्या मैं इसे छू सकता हूँ?
+Can I use this?	Kann ich das benutzen?	क्या मैं इसका उपयोग कर सकता हूँ?
+Can Tom see us?	Kann Tom uns sehen?	क्या टॉम हमें देख सकता है?
+Can it be true?	Kann das wahr sein?	क्या यह सच हो सकता है?
+Can this be it?	Kann das so sein?	क्या यह है?
+Can we do that?	Können wir das tun?	क्या हम वह कर सकते हैं?
+Can we eat now?	Können wir jetzt essen?	क्या हम अब खा सकते हैं?
+Can we join in?	Können wir mitmachen?	क्या हम शामिल हो सकते हैं?
+Can’t you swim?	Kannst du nicht schwimmen?	क्या तुम तैरना नहीं जानते?
