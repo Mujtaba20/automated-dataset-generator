@@ -11687,3 +11687,9 @@ Dinner is served.	Das Abendessen ist serviert.	रात का खाना द
 Do I get a prize?	Bekomme ich einen Preis?	क्या मुझे कोई पुरस्कार मिलेगा?
 Do I smell bacon?	Rieche ich Schweinefleisch?	क्या मुझे बेकन की सुगंध आ रही है?
 Do as I told you.	Tu, wie ich dir gesagt habe.	जैसा मैंने तुम्हें कहा था, वैसा करो।
+Do as you please.	Mach, was du willst.	जैसा आप चाहें, वैसा करें।
+Do it again, Tom.	Tom, mach es noch einmal.	फिर से करो, टॉम।
+Do it once again.	Mach es noch einmal.	एक बार फिरसे करो।
+Do it right away.	Mach es sofort.	तुरंत करो।
+Do kids like you?	Mögen Kinder dich?	बच्चों को तुम पसंद हो?
+Do they like you?	Mögen sie dich?	क्या वे तुम्हें पसंद करते हैं?
