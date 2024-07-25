@@ -5671,3 +5671,12 @@ Don't be silly.	Sei nicht albern.	मूर्ख मत हो.
 Don't be sorry.	Entschuldige dich nicht.	माफ़ी मत माँगो.
 Don't be upset[2].	Reg dich nicht auf.	उदास मत हो.
 Don't blame me.	Gib mir nicht die Schuld.	मुझे दोष मत दो.
+Don't break it.	Zerbrich es nicht.	इसे मत तोड़ो।
+Don't buy that.	Kauf das nicht.	वह ना खरीदो।
+Don't complain.	Nicht beschweren.	शिकायत न करें।
+Don't eat that!	Iss das nicht!	वह मत खाओ!
+Don't eat this.	Iss das nicht.	यह मत खाओ।
+Don't eat this. - Different Meaning	Essen sie das nicht.	इसे खाने का भी नहीं।
+Don't go there.	Geh nicht dorthin.	वहाँ मत जाओ।
+Don't hurt her.	Verletze sie nicht.	उसे चोट मत पहुँचाओ।
+Don't hurt her. - Different Meaning	Tu ihr nicht weh.	उसे दुख न दो।
