@@ -6044,3 +6044,9 @@ I have a dream.	Ich habe einen Traum.	मेरा एक सपना है।
 I have a fever.	Ich habe Fieber.	मुझे बुखार है।
 I have a horse.	Ich habe ein Pferd.	मेरे पास एक घोड़ा है।
 I have a hunch.	Ich habe eine Ahnung.	मेरे पास एक अंदाज है।
+I have a knife.	Ich habe ein Messer.	मेरे पास एक चाकू है।
+I have a radio.	Ich habe ein Radio.	मेरे पास एक रेडियो है।
+I have a table.	Ich habe einen Tisch.	मेरे पास एक मेज़ है।
+I have a truck.	Ich habe einen Lastwagen.	मेरे पास एक ट्रक है।
+I have a truck. (Different meaning)	Ich besitze einen LKW.	मेरे पास एक गाड़ी है।
+I have amnesia.	Ich habe Amnesie.	मुझे स्मरणशक्ति की कमी है।
