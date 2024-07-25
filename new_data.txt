@@ -8874,3 +8874,13 @@ I like this job.	Mir gefällt diese Arbeit.	मुझे यह नौकरी 
 I like this one.	Ich mag diese.	मुझे यह पसंद है।
 I like this tea.	Ich mag diesen Tee.	मुझे यह चाय पसंद है।
 I like this tea. (Different meaning)	Ich mag diese Teesorte.	मुझे यह चाय का प्रकार पसंद है।
+I like to dance.	Ich tanze gerne.	मुझे नृत्य करना पसंद है।
+I like to dream.	Ich träume gerne.	मुझे सपने देखना पसंद है।
+I like to drink.	Ich trinke gerne.	मुझे पीना पसंद है।
+I like to drive.	Ich fahre gerne Auto.	मुझे गाड़ी चलाना पसंद है।
+I like to laugh.	Ich lache gerne.	मुझे हंसना पसंद है।
+I like to paint.	Ich male gerne.	मुझे रंग-बिरंगा चित्र खींचना पसंद है।
+I like to party.	Ich feiere gerne.	मुझे पार्टी करना पसंद है।
+I like to party. (different meaning)	Ich mag Gesellschaft.	मुझे समाज का साथ पसंद है।
+I like tomatoes.	Ich mag Tomaten.	मुझे टमाटर पसंद हैं।
+I like you, too.	Ich mag dich auch.	मुझे तुम भी पसंद हो।
