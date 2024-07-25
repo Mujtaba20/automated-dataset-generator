@@ -11610,3 +11610,10 @@ Come and help me.	Kommen Sie und helfen Sie mir.	आओ और मेरी म�
 Come and help us.	Komm und hilf uns.	आओ और हमारी मदद करो।
 Come and join us.	Komm und schließ dich uns an.	आओ और हमारे साथ शामिल हो जाओ।
 Come eat with us.	Kommen Sie und essen Sie mit uns.	हमारे साथ खाने आइए।
+Come home at six.	Kommen Sie um sechs nach Hause.	छह बजे घर आइए।
+Come on, grow up.	Komm schon, erwachsen werden.	आओ, बड़े हो जाओ।
+Come on, help me.	Komm schon, hilf mir.	चलो, मेरी मदद करो।
+Come on, tell me.	Komm schon, sag es mir.	चलो, मुझे बताओ।
+Come on, wake up.	Komm schon, wach auf.	अब उठो।
+Come on, you two.	Kommt schon, ihr zwei.	आओ, तुम दोनों।
+Come out with us.	Komm mit uns raus.	हमारे साथ बाहर आओ।
