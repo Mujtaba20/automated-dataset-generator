@@ -18797,3 +18797,12 @@ Tom is very moody.	Tom ist sehr launisch.	टॉम बहुत मूडी �
 Tom is very naive.	Tom ist sehr naiv.	टॉम बहुत भोला है।
 Tom is very needy.	Tom ist sehr bedürftig.	टॉम बहुत आवश्यक है।
 Tom is very obese.	Tom ist sehr fettleibig.	टॉम बहुत मोटा है।
+Tom is very pious.	Tom ist sehr fromm.	टॉम बहुत धार्मिक है।
+Tom is very quiet.	Tom ist sehr ruhig.	टॉम बहुत शांत है।
+Tom is very short.	Tom ist sehr klein.	टॉम बहुत छोटा है।
+Tom is very smart.	Tom ist sehr klug.	टॉम बहुत समझदार है।
+Tom is very sorry.	Tom tut mir sehr leid.	टॉम बहुत खेदगार है।
+Tom is very sweet.	Tom ist sehr süß.	टॉम बहुत प्यारा है।
+Tom is very timid.	Tom ist sehr schüchtern.	टॉम बहुत शर्मीला है।
+Tom is very tired.	Tom ist sehr müde.	टॉम बहुत थका हुआ है।
+Tom is very weird.	Tom ist sehr seltsam.	टॉम बहुत अजीब है।

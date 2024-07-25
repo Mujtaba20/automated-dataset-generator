@@ -1,14 +1,4 @@
 
-Tom is very pious.	Tom ist sehr fromm.	टॉम बहुत पवित्र है।
-Tom is very quiet.	Tom ist sehr still.	टॉम बहुत शांत है।
-Tom is very short.	Tom ist sehr klein.	टॉम बहुत छोटा है।
-Tom is very smart.	Tom ist sehr klug.	टॉम बहुत स्मार्ट है।
-Tom is very sorry.	Tom tut es sehr leid.	टॉम को बहुत खेद है।
-Tom is very sweet.	Tom ist ganz, ganz reizend.	टॉम बहुत, बहुत आकर्षक है।
-Tom is very timid.	Tom ist sehr ängstlich.	टॉम बहुत डरा हुआ है।
-Tom is very timid.	Tom ist sehr schüchtern.	टॉम बहुत शर्मीला है।
-Tom is very tired.	Tom ist sehr müde.	टॉम बहुत थक गया है।
-Tom is very weird.	Tom ist sehr seltsam.	टॉम बहुत अजीब है।
 Tom is very young.	Tom ist sehr jung.	टॉम बहुत छोटा है।
 Tom is vulnerable.	Tom ist verletzlich.	टॉम कमजोर है।
 Tom is well-liked.	Tom ist sehr beliebt.	टॉम बहुत लोकप्रिय है।
