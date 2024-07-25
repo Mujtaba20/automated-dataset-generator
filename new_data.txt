@@ -15908,3 +15908,9 @@ Go get some water.	Hol dir etwas Wasser.	कुछ पानी लेकर आ
 Go somewhere else.	Geh woanders hin.	कहीं और जाओ।
 Go straight ahead.	Gehe direkt weiter.	सीधे आगे जाओ।
 Go there yourself.	Geh selbst dorthin.	वहाँ खुद जाओ।
+Go to Tom's house.	Geh zu Toms Haus.	टॉम के घर जाओ।
+Go with these men.	Geh mit diesen Männern.	इन आदमियों के साथ जाओ।
+Good morning, Tom.	Guten Morgen, Tom.	शुभ प्रभात, टॉम।
+Goodnight, ladies.	Gute Nacht, Damen.	शुभ रात्रि, महिलाएँ।
+Halloween was fun.	Halloween hat Spaß gemacht.	हैलोवीन मजेदार था।
+Hamsters are cute.	Hamster sind niedlich.	हैम्स्टर्स प्यारे होते हैं।
