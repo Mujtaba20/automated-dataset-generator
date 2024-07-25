@@ -20565,3 +20565,10 @@ Endorse this check. (Different meaning)	Befürworten Sie diesen Scheck.	इस �
 Enjoy your evening.	Genieße deinen Abend.	अपनी शाम का आनंद लो।
 Enjoy your evening. (Different meaning)	Viel Spaß am Abend.	अपनी शाम का मज़ा लो।
 Enjoy your evening. (Different meaning 2)	Freue dich auf deinen Abend.	अपनी शाम का आनंद लो।
+Even Tom knew that.	Auch Tom kannte das.	तोम भी यह पता था।
+Every dollar helps.	Jeder Dollar zählt.	हर डॉलर मदद करता है।
+Everybody did that.	Alle haben das gemacht.	सभी ने वह किया।
+Everybody does that.	Jeder tut das.	सभी वह करते हैं।
+Everybody hates me.	Jeder hasst mich.	हर कोई मुझसे नफरत करता है।
+Everybody is alive.	Alle sind am Leben.	हर कोई जीवित है।
+Everybody knows me.	Jeder kennt mich.	सभी मुझे जानते हैं।
