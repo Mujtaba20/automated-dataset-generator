@@ -20510,3 +20510,10 @@ Don't get me wrong.	Versteh mich nicht falsch.	मुझे गलत समझ�
 Don't get paranoid.	Werde nicht paranoid.	पैरानॉयड मत हो।
 Don't give me that!	Gib mir das nicht!	मुझे वह मत दो!
 Don't give me that! (different meaning)	Glaub mir das nicht!	मुझे वह मत दो!
+Don't give me that.	Gib mir das nicht.	उसे मुझे ना दो।
+Don't give up hope.	Gib die Hoffnung nicht auf.	आशा न छोड़ें।
+Don't go out there.	Geh nicht raus.	वहाँ मत जाओ।
+Don't go there now.	Geh jetzt nicht dorthin.	वहाँ अब मत जाओ।
+Don't go to Boston.	Geh nicht nach Boston.	बॉस्टन जाने का सोचते मत रहो।
+Don't interrupt me.	Unterbrich mich nicht.	मुझे बीच में बोलने मत दो।
+Don't kid yourself.	Mache dir nichts vor.	खुद को भ्रमित मत करो।

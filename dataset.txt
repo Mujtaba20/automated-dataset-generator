@@ -1,15 +1,4 @@
 
-Don't give me that.	Gib es mir nicht.	मुझे यह मत दो।
-Don't give me that.	Geben Sie es mir nicht.	मुझे मत दो।
-Don't give up hope.	Gib die Hoffnung nicht auf.	आशा मत छोड़ो।
-Don't go out there.	Geh da nicht raus.	बाहर मत जाओ।
-Don't go there now.	Geh jetzt nicht dorthin.	अब वहाँ मत जाओ।
-Don't go to Boston.	Geh nicht nach Boston.	बोस्टन मत जाओ।
-Don't go to Boston.	Fahr nicht nach Boston.	बोस्टन मत जाओ।
-Don't interrupt me.	Unterbrich mich nicht.	मुझे बीच में नहीं टोकना।
-Don't kid yourself.	Mach dir nichts vor.	कुछ भी मत करना।
-Don't kid yourself.	Macht euch nichts vor.	कुछ भी मत करना।
-Don't kid yourself.	Machen Sie sich nichts vor.	कुछ भी नहीं है।
 Don't laugh at Tom.	Lach Tom nicht aus.	लाच टॉम नहीं।
 Don't laugh at him.	Lach ihn nicht aus!	हंसी मत!
 Don't let him down.	Enttäusche ihn nicht!	उसे निराश मत करो!
