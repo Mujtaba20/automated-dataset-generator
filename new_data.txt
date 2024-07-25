@@ -10408,3 +10408,13 @@ Tom is freezing.	Tom friert.	टॉम ठंड में है।
 Tom is friendly.	Tom ist freundlich.	टॉम दोस्ताना है।
 Tom is generous.	Tom ist großzügig.	टॉम उदार है।
 Tom is giggling.	Tom kichert.	टॉम मुस्काने लगा है।
+Tom is grateful.	Tom ist dankbar.	टॉम आभारी है।
+Tom is grieving.	Tom trauert.	टॉम शोकमग्न है।
+Tom is grinning.	Tom grinst.	टॉम मुस्काने लगा है।
+Tom is groaning.	Tom stöhnt.	टॉम कराह रहा है।
+Tom is grounded.	Tom ist bodenständig.	टॉम को धरती पर ठहराव मिला है।
+Tom is gullible.	Tom ist leichtgläubig.	टॉम बेवकूफ है।
+Tom is hammered.	Tom ist betrunken.	टॉम उत्तेजित है।
+Tom is handsome.	Tom ist gutaussehend.	टॉम सुंदर है।
+Tom is harmless.	Tom ist harmlos.	टॉम अहानिक है।
+Tom is helpless.	Tom ist hilflos.	टॉम बेबस है।
