@@ -15077,3 +15077,10 @@ We're historians.	Wir sind Historiker.	हम इतिहासकार है
 We're illiterate.	Wir sind Analphabeten.	हम अशिक्षित हैं।
 We're in a hurry.	Wir haben es eilig.	हमें जल्दी है।
 We're in trouble.	Wir haben Probleme.	हमें मुश्किल में हैं।
+We're interested.	Wir sind neugierig.	हमें परेशानी है।
+We're just tired.	Wir sind einfach müde.	हम बस थक गए हैं।
+We're lifeguards.	Wir sind Lebensretter.	हम लोकतंत्रवादी हैं।
+We're meditating.	Wir sind in Meditation.	हम सत्य की खोज में हैं।
+We're nonsmokers.	Wir sind Nichtraucher.	हम सिगरेट नहीं पीते।
+We're not afraid.	Wir haben keine Angst.	हम डरते नहीं हैं।
+We're not coming.	Wir kommen nicht.	हम नहीं आ रहे हैं।
