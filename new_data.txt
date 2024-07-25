@@ -7967,3 +7967,12 @@ Who wrote that?	Wer hat das geschrieben?	उसने कौन लिखा?
 Who wrote this?	Wer hat das geschrieben?	यह कौन लिखा?
 Who'd buy this?	Wer würde das kaufen?	यह कौन खरीदेगा?
 Who'd hurt Tom?	Wer würde Tom verletzen?	तम को कौन चोट पहुंचा सकता है?
+Who'd kiss Tom?	Wer würde Tom küssen?	कौन टॉम को चुम्मा देना चाहेगा?
+Who'll succeed?	Wer wird Erfolg haben?	कौन सफल होगा?
+Who's Tom with?	Mit wem ist Tom?	टॉम किसके साथ है?
+Who's at fault?	Wer ist schuld?	गलती किसकी है?
+Who's confused?	Wer ist verwirrt?	कौन भ्रमित है?
+Who's laughing?	Wer lacht?	कौन हंस रहा है?
+Who's not busy?	Wer ist nicht beschäftigt?	कौन व्यस्त नहीं है?
+Who's on watch?	Wer ist auf der Wache?	कौन देखभाल पर है?
+Who's quitting?	Wer hört auf?	कौन बाहर निकल रहा है?
