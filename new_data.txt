@@ -16077,3 +16077,11 @@ He ran five miles.	Er lief fünf Meilen.	उसने पाँच मील द
 He refused to pay.	Er weigerte sich zu zahlen.	उसने भुगतान करने से इंकार किया।
 He ruined my life.	Er ruinierte mein Leben.	उसने मेरा जीवन बर्बाद कर दिया।
 He runs very fast.	Er rennt sehr schnell.	वह बहुत तेज़ी से दौड़ता है।
+He sat next to me.	Er saß neben mir.	उसने मेरे पास बैठा।
+He sat on the bed.	Er setzte sich auf das Bett.	उसने बिस्तर पर बैठ गया।
+He shook his head.	Er schüttelte den Kopf.	उसने सिर हिलाया।
+He speaks English.	Er spricht Englisch.	वह अंग्रेजी बोलता है।
+He speaks Russian.	Er spricht Russisch.	वह रूसी बोलता है।
+He speaks quickly.	Er redet schnell.	उसने त्वरित रूप से बोला।
+He started to cry.	Er fing an zu weinen.	उसने रोना शुरू किया।
+He stayed up late.	Er blieb lange wach.	वह देर तक जागा रहा।
