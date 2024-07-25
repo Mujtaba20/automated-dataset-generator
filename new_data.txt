@@ -15824,3 +15824,10 @@ Don't think of it.	Denk nicht daran.	इसके बारे में मत 
 Don't threaten me.	Bedroh mich nicht.	मुझे धमकी मत दो।
 Don't touch these.	Rühre sie nicht an.	इनको मत छूना।
 Don't try so hard.	Versuche nicht so sehr.	इतनी कोशिश मत करो।
+Don't wait for me.	Warte nicht auf mich.	मेरे लिए मत इन्तजार करो।
+Don't wake her up.	Wecke sie nicht auf.	उसको ना उठाओ।
+Don't wake him up.	Wecke ihn nicht auf.	उसे ना उठाओ।
+Don't you like it?	Magst du es nicht?	क्या तुम्हे यह पसंद नहीं है?
+Don't you like me?	Magst du mich nicht?	क्या तुम्हे मुझसे पसंद नहीं है?
+Don't you like us?	Magst du uns nicht?	क्या तुम्हे हमसे पसंद नहीं है?
+Don't you miss me?	Vermisst du mich nicht?	क्या तुम्हे मेरी याद नहीं आती?
