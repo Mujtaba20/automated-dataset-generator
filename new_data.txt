@@ -17040,3 +17040,12 @@ I'm a patient man.	Ich bin ein geduldiger Mann.	मैं एक संयमी
 I'm a salesperson.	Ich bin Verkäufer.	मैं एक बिक्री करने वाला हूं।
 I'm a slow reader.	Ich bin ein langsamer Leser.	मैं एक धीरे पढ़ने वाला हूं।
 I'm a soldier now.	Ich bin jetzt ein Soldat.	मैं अब एक सैनिक हूं।
+I'm a taxi driver.	Ich bin ein Taxifahrer.	मैं टैक्सी चालक हूँ।
+I'm a total wreck.	Ich bin ein Wrack.	मैं पूरी तरह से बिगड़ चुका हूँ।
+I'm able to speak.	Ich kann sprechen.	मैं बोल सकता हूँ।
+I'm afraid of Tom.	Ich habe Angst vor Tom.	मैं टॉम से डरता हूँ।
+I'm afraid to die.	Ich habe Angst zu sterben.	मैं मरने से डरता हूँ।
+I'm all alone now.	Ich bin jetzt ganz allein.	अब मैं पूरी तरह से अकेला हूँ।
+I'm already bored.	Ich bin schon gelangweilt.	मुझे पहले ही बोर हो गया है।
+I'm already on it.	Ich bin schon dabei.	मैं इस पर पहले ही कर चुका हूँ।
+I'm already ready.	Ich bin bereits bereit.	मैं पहले ही तैयार हूँ।
