@@ -7766,3 +7766,8 @@ Was Tom killed?	Wurde Tom getötet?	क्या टॉम को मार द�
 Was that a yes?	War das ein Ja?	क्या वो हाँ था?
 Wash your face.	Waschen Sie Ihr Gesicht.	अपना चेहरा धोएं।
 Wash your feet.	Waschen Sie Ihre Füße.	अपने पैर धो लो।
+Watch the road.	Beobachte die Straße.	रास्ते का ध्यान रखें।
+Watch yourself.	Achte auf dich selbst.	खुद को देखो।
+Way to go, Tom!	Gut gemacht, Tom!	पहुंचने का रास्ता, टॉम!
+We adopted Tom.	Wir haben Tom adoptiert.	हमने टॉम को गोद लिया।
+We all knew it.	Wir alle wussten es.	हम सभी जानते थे।
