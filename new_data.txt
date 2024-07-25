@@ -7058,3 +7058,13 @@ They will help.	Sie werden helfen.	वे मदद करेंगे।
 They work hard.	Sie arbeiten hart.	वे मेहनत करते हैं।
 They're broken.	Sie sind kaputt.	वे टूटे हुए हैं।
 They're coming.	Sie kommen.	वे आ रहे हैं।
+They're family.	Sie sind Familie.	वे परिवार हैं।
+They're idiots.	Sie sind Idioten.	वे मूर्ख हैं।
+They're insane.	Sie sind verrückt.	वे पागल हैं।
+They're inside.	Sie sind drinnen.	वे अंदर हैं।
+They're trying.	Sie versuchen es.	वे कोशिश कर रहे हैं।
+Think about it.	Denk mal darüber nach.	इसके बारे में सोचो।
+Think about it. 2	Mach dir Gedanken darüber.	इस पर विचार करो।
+Think about it. 3	Überleg mal.	उस पर ध्यान दें।
+Think about it. 4	Mach dir Gedanken dazu.	उसके बारे में सोचो।
+Think about it. 5	Überdenke es.	उस विषय पर विचार करें।
