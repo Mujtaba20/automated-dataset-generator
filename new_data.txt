@@ -5565,3 +5565,9 @@ Bring Tom here.	Bring Tom hierher.	यहाँ टॉम को लाओ।
 Bring it to me.	Bring es mir.	मुझे यह लाओ।
 Bring it to me. - 2	Bring es zu mir.	इसे मुझे लाओ।
 Buy Tom a beer.	Kauf Tom ein Bier.	टॉम को एक बीयर खरीदो।
+Can I buy that?	Kann ich das kaufen?	क्या मैं वह खरीद सकता हूँ?
+Can I eat that?	Kann ich das essen?	क्या मैं वह खा सकता हूँ?
+Can I eat this?	Kann ich das essen?	क्या मैं यह खा सकता हूँ?
+Can I go first?	Kann ich zuerst gehen?	क्या मैं पहले जा सकता हूँ?
+Can I have one?	Kann ich eins haben?	क्या मुझे एक मिल सकता है?
+Can I help you?	Kann ich euch helfen?	क्या मैं तुम्हें मदद कर सकता हूँ?
