@@ -18046,3 +18046,11 @@ The pain has gone.	Der Schmerz ist gegangen.	दर्द चला गया �
 The park is empty.	Der Park ist leer.	पार्क खाली है।
 The pay is meager.	Das Gehalt ist mager.	वेतन कम है।
 The pizza is cold.	Die Pizza ist kalt.	पिज़्ज़ा ठंडी है।
+The plane crashed.	Das Flugzeug ist abgestürzt.	विमान गिर गया।
+The price is good.	Der Preis ist gut.	मूल्य अच्छा है।
+The river is wide.	Der Fluss ist breit.	नदी चौड़ी है।
+The road is muddy.	Die Straße ist schlammig.	सड़क गंदगी से भरी हुई है।
+The room is empty.	Das Zimmer ist leer.	कमरा खाली है।
+The room was cold.	Das Zimmer war kalt.	कमरा सर्द था।
+The room was dark.	Das Zimmer war dunkel.	कमरा अंधेरा था।
+The room was warm.	Das Zimmer war warm.	कमरा गर्म था।

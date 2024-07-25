@@ -1,14 +1,4 @@
 
-The plane crashed.	Das Flugzeug ist abgestürzt.	विमान दुर्घटनाग्रस्त हो गया है।
-The price is good.	Der Preis ist gut.	कीमत अच्छी है।
-The river is wide.	Der Fluss ist breit.	नदी चौड़ी है।
-The road is muddy.	Die Straße ist schmutzig.	सड़क गंदी है।
-The room is empty.	Das Zimmer ist leer.	कमरा खाली है।
-The room was cold.	Das Zimmer war kalt.	कमरा ठंडा था।
-The room was dark.	Das Zimmer war dunkel.	कमरे में अँधेरा था।
-The room was dark.	Der Raum war dunkel.	कमरे में अँधेरा था।
-The room was dark.	Es war dunkel im Zimmer.	कमरे में अंधेरा था।
-The room was warm.	Das Zimmer war warm.	कमरा गर्म था।
 The sand was warm.	Der Sand war warm.	रेत गर्म थी।
 The ship set sail.	Das Schiff legte ab.	जहाज ने उड़ान भरी।
 The snow is great.	Der Schnee ist phantastisch.	बर्फ शानदार है।
