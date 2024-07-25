@@ -13668,3 +13668,12 @@ That's good, too.	Das ist auch gut.	यह भी अच्छा है।
 That's hilarious.	Das ist urkomisch.	यह अजीब है।
 That's his house.	Das ist sein Haus.	वह उसका घर है।
 That's how it is.	So ist es.	यही वास्तव है।
+That's idle talk.	Das sind leere Worte.	यह खोखली बातें हैं।
+That's important.	Das ist wichtig.	यह महत्वपूर्ण है।
+That's incurable.	Das ist unheilbar.	यह अनायास है।
+That's just mean.	Das ist einfach gemein.	यह बस कीमती है।
+That's ludicrous.	Das ist lächerlich.	यह ऊंची बात है।
+That's mine, too.	Das gehört auch mir.	यह भी मेरा है।
+That's my affair.	Das ist meine Angelegenheit.	यह मेरी संबंध है।
+That's my answer.	Das ist meine Antwort.	यह मेरा जवाब है।
+That's my mother.	Das ist meine Mutter.	यह मेरी माँ है।
