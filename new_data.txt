@@ -14482,3 +14482,12 @@ Tom looked young.	Tom sah jung aus.	टॉम जवान लग रहा थ�
 Tom looks amused.	Tom sieht amüsiert aus.	टॉम मनोरंजित लग रहा है।
 Tom looks asleep.	Tom sieht schlafend aus.	टॉम सो रहा है।
 Tom looks bummed.	Tom sieht niedergeschlagen aus.	टॉम उदास लग रहा है।
+Tom looks drowsy.	Tom sieht verschlafen aus.	टॉम उदास लग रहा है।
+Tom looks fierce.	Tom sieht wild aus.	टॉम भयानक लग रहा है।
+Tom looks guilty.	Tom sieht schuldig aus.	टॉम अपराधी लग रहा है।
+Tom looks hungry.	Tom sieht hungrig aus.	टॉम भूखा लग रहा है।
+Tom looks lonely.	Tom sieht einsam aus.	टॉम अकेला लग रहा है।
+Tom looks normal.	Tom sieht normal aus.	टॉम सामान्य लग रहा है।
+Tom looks scared.	Tom sieht verängstigt aus.	टॉम डरा हुआ लग रहा है।
+Tom looks shaken.	Tom sieht erschüttert aus.	टॉम हिला हुआ लग रहा है।
+Tom looks sleepy.	Tom sieht verschlafen aus.	टॉम ऊंघ रहा है।
