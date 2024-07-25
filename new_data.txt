@@ -4029,3 +4029,12 @@ I can't leave.	Ich kann nicht gehen.	मैं नहीं रह सकता�
 I can't sleep.	Ich kann nicht schlafen.	मैं सो नहीं सकता।
 I can't smoke.	Ich kann nicht rauchen.	मैं धूम्रपान नहीं कर सकता।
 I can't stand.	Ich kann nicht stehen.	मैं खड़ा नहीं हो सकता।
+I can't watch.	Ich kann nicht zusehen.	मैं नहीं देख सकता।
+I caused this.	Ich habe das verursacht.	मैंने यह कारण बनाया।
+I contributed.	Ich habe beigetragen.	मैंने योगदान दिया।
+I cough a lot.	Ich huste viel.	मैं बहुत खांसता हूँ।
+I cried a lot.	Ich habe viel geweint.	मैंने बहुत रोते रहूँ।
+I cried today.	Ich habe heute geweint.	मैंने आज रोया।
+I deserved it.	Ich habe es verdient.	मुझे यह मिलना चाहिए था।
+I despise Tom.	Ich verabscheue Tom.	मैं टॉम की नफरत करता हूँ।
+I did nothing.	Ich habe nichts getan.	मैंने कुछ नहीं किया।
