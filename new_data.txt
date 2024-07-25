@@ -11007,3 +11007,13 @@ Watch carefully.	Beobachte sorgfältig.	ध्यान से देखो।
 Watch carefully._2	Schau genau hin.	ध्यानपूर्वक देखो।
 Watch carefully._3	Achte gut darauf.	ध्यान से रखें।
 Watch your step.	Pass auf deine Schritte auf.	अपने कदम देखो।
+Watch your toes.	Achte auf deine Zehen.	अपने पैरों पर ध्यान दें।
+We all know Tom.	Wir alle kennen Tom.	हम सभी टॉम को जानते हैं।
+We all like him.	Wir alle mögen ihn.	हम सभी उसे पसंद करते हैं।
+We all love Tom.	Wir alle lieben Tom.	हम सभी टॉम से प्यार करते हैं।
+We all love you.	Wir lieben dich alle.	हम सभी तुमसे प्यार करते हैं।
+We already know.	Wir wissen es bereits.	हम पहले से ही जानते हैं।
+We are a family.	Wir sind eine Familie.	हम एक परिवार हैं।
+We are brothers.	Wir sind Brüder.	हम भाई हैं।
+We are his sons.	Wir sind seine Söhne.	हम उसके बेटे हैं।
+We are students.	Wir sind Schüler.	हम छात्र हैं।
