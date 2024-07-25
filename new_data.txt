@@ -924,3 +924,11 @@ He is poor.	Er ist arm.	वह गरीब है।
 He is sick.	Er ist krank.	वह बीमार है।
 He is tall.	Er ist groß.	वह लंबा है।
 He laughed.	Er lachte.	उसने हंसी।
+He made it.	Er hat es geschafft.	उसने यह किया।
+He's Swiss.	Er ist Schweizer.	वह स्वीस है।
+He's broke.	Er ist pleite.	वह दिनदहाड़े है।
+He's cruel.	Er ist grausam.	वह क्रूर है।
+He's lying.	Er lügt.	वह झूठ बोल रहा है।
+He's smart.	Er ist intelligent.	वह होशियार है।
+Head north.	Fahre Richtung Norden.	उत्तर की ओर निकलो।
+Hello, Tom.	Hallo, Tom.	नमस्ते, टॉम।
