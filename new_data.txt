@@ -17319,3 +17319,13 @@ It looks like Tom.	Es sieht aus wie Tom.	यह टॉम के जैसा �
 It made Tom happy.	Es hat Tom glücklich gemacht.	यहने टॉम को खुश किया।
 It makes no sense.	Es ergibt keinen Sinn.	इसका कोई सार नहीं है।
 It must be a sign.	Es muss ein Zeichen sein.	यह एक संकेत होना चाहिए।
+It never happened.	Es ist nie passiert.	ऐसा कभी नहीं हुआ।
+It rained all day.	Es hat den ganzen Tag geregnet.	पूरे दिन बारिश हुई।
+It rained heavily.	Es hat stark geregnet.	बारिश जोर से बरसी।
+It rained heavily. (different meaning)	Es hat ausgiebig geregnet.	बहुत अधिक बारिश हुई।
+It rained nonstop.	Es hat ununterbrochen geregnet.	बिना रुके बरसात हुई।
+It rained nonstop. (different meaning)	Es hat kontinuierlich geregnet.	बरसात लगातार हुई।
+It ruined my life.	Es hat mein Leben ruiniert.	यहने मेरे जीवन को नाश कर दिया।
+It sounds strange.	Es klingt seltsam.	यह अजीब सुनाई देता है।
+It sounds strange. (different meaning)	Es hört sich komisch an.	यह अजीब सुनाई देता है।
+It stinks in here.	Es stinkt hier.	यहाँ बदबू आ रही है।
