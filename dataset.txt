@@ -1,14 +1,4 @@
 
-Where is the bank?	Wo ist die Bank?	जहां बैंक है?
-Where is the book?	Wo ist das Buch?	किताब कहां है?
-Where is the gate?	Wo ist das Tor?	गेट कहाँ है?
-Where is the gate?	Wo ist der Flugsteig?	उड़ान का आटा कहाँ है?
-Where is the pain?	Wo tut es weh?	कहां दर्द हो रहा है?
-Where is your cap?	Wo ist deine Mütze?	आपकी टोपी कहाँ है?
-Where is your cap?	Wo ist eure Mütze?	आपकी टोपी कहाँ है?
-Where is your cap?	Wo ist Ihre Mütze?	आपकी टोपी कहाँ है?
-Where is your dog?	Wo ist dein Hund?	आपका कुत्ता कहाँ है?
-Where was he born?	Wo wurde er geboren?	उनका जन्म कहाँ हुआ था?
 Where will we eat?	Wo werden wir essen?	हम कहाँ खाएंगे?
 Where will you be?	Wo wirst du sein?	तुम कहा होगे?
 Where will you go?	Wo werdet ihr hingehen?	आप कहाँ जाएँगे?

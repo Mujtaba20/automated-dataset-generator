@@ -19836,3 +19836,12 @@ Where is my diary?	Wo ist mein Tagebuch?	मेरी डायरी कहा�
 Where is my money?	Wo ist mein Geld?	मेरे पैसे कहाँ हैं?
 Where is my plate?	Wo ist mein Teller?	मेरा प्लेट कहाँ है?
 Where is my watch?	Wo ist meine Uhr?	मेरी घड़ी कहाँ है?
+Where is the bank?	Wo ist die Bank?	बैंक कहाँ है?
+Where is the book?	Wo ist das Buch?	किताब कहाँ है?
+Where is the gate?	Wo ist das Tor?	द्वार कहाँ है?
+Where is the gate? (different meaning)	Wo ist das Tor?	गेट किधर है?
+Where is the pain?	Wo ist der Schmerz?	दर्द कहाँ है?
+Where is your cap?	Wo ist deine Mütze?	तुम्हारी कैप कहाँ है?
+Where is your cap? (different meaning)	Wo befindet sich deine Kappe?	तुम्हारी कैप कहाँ है?
+Where is your dog?	Wo ist dein Hund?	तुम्हारा कुत्ता कहाँ है?
+Where was he born?	Wo wurde er geboren?	वह किधर पैदा हुआ था?
