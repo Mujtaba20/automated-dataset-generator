@@ -13594,3 +13594,10 @@ Stop daydreaming.	Hör auf zu tagträumen.	ख्वाब देखना ब�
 Stop hitting Tom.	Hör auf, Tom zu schlagen.	टॉम को मारना बंद करो।
 Stop interfering.	Hör auf zu stören.	हस्तक्षेप करना बंद करो।
 Stop lying to me.	Hör auf, mich anzulügen.	मुझसे झूठ बोलना बंद करो।
+Stop right there.	Halten Sie sofort an.	वहाँ रुको।
+Stop saying that!	Hör auf, das zu sagen!	उसे बोलना बंद करो!
+Stop saying that.	Hör auf, das zu sagen.	उसे मत बोलो।
+Stop scaring Tom.	Hör auf, Tom zu erschrecken.	टॉम को डराना बंद करो।
+Stop showing off!	Hör auf anzugeben!	दिखावट करना बंद करो!
+Stop teasing Tom.	Hör auf, Tom zu necken.	टॉम को चिढ़ाना बंद करो।
+Summer has ended.	Der Sommer ist zu Ende.	गर्मी समाप्त हो गई है।
