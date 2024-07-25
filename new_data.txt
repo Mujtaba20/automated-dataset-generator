@@ -17161,3 +17161,12 @@ I'm sorry for you.	Es tut mir leid für dich.	मुझे तुम्हार
 I'm sort of happy.	Ich bin irgendwie glücklich.	मैं थोड़ा खुश हूँ।
 I'm still thirsty.	Ich bin immer noch durstig.	मुझे अभी भी प्यास है।
 I'm taking a bath.	Ich dusche.	मैं स्नान कर रहा हूँ।
+I'm there for you.	Ich bin für dich da.	मैं तुम्हारे लिए यहाँ हूँ।
+I'm tired already.	Ich bin schon müde.	मैं पहले से ही थक गया हूँ।
+I'm tired of this.	Ich habe genug davon.	मुझे इससे थक गया है।
+I'm uncomfortable.	Ich fühle mich unwohl.	मुझे असहज लग रहा है।
+I'm using Twitter.	Ich benutze Twitter.	मैं ट्विटर का उपयोग कर रहा हूँ।
+I'm very busy now.	Ich bin jetzt sehr beschäftigt.	मैं अब बहुत व्यस्त हूँ।
+I'm very discrete.	Ich bin sehr diskret.	मैं बहुत ख़ामोश हूँ।
+I'm very reserved.	Ich bin sehr reserviert.	मैं बहुत आलोचनात्मक हूँ।
+I'm watching that.	Ich beobachte das.	मैं वह देख रहा हूँ।
