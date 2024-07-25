@@ -17143,3 +17143,13 @@ I'm now in prison.	Ich bin jetzt im Gefängnis.	मैं अब जेल म�
 I'm now your boss.	Ich bin jetzt dein Chef.	मैं अब तुम्हारा बॉस हूं।
 I'm old-fashioned.	Ich bin altmodisch.	मैं पुराने दौर का हूं।
 I'm on cloud nine.	Ich bin überglücklich.	मैं बहुत खुश हूं।
+I'm on my way now.	Ich bin jetzt unterwegs.	मैं अब रास्ते पर हूँ।
+I'm on my way out.	Ich bin auf dem Weg nach draußen.	मैं बाहर जा रहा हूँ।
+I'm on page three.	Ich bin auf Seite drei.	मैं पृष्ठ तीन पर हूँ।
+I'm only eighteen.	Ich bin erst achtzehn.	मैं सिर्फ़ अठारह हूँ।
+I'm only thirteen.	Ich bin erst dreizehn.	मैं सिर्फ़ तेरह हूँ।
+I'm out of breath.	Ich bin außer Atem.	मुझसे सांस फूल गई है।
+I'm over eighteen.	Ich bin über achtzehn.	मैं अठारह से अधिक की उम्र का हूँ।
+I'm quite wealthy.	Ich bin ziemlich wohlhabend.	मैं काफी धनवान हूँ।
+I'm really hungry.	Ich bin wirklich hungrig.	मुझे सचमुच भूख लगी है।
+I'm really lonely.	Ich bin wirklich einsam.	मैं सचमुच अकेला हूँ।
