@@ -793,3 +793,10 @@ We'll win.	Wir werden gewinnen.	हम जीतेंगे।
 We're hot.	Uns ist heiß.	हमें गरमी है।
 We're sad.	Wir sind traurig.	हम उदास हैं।
 We're shy.	Wir sind schüchtern.	हम शर्मीले हैं।
+We've won!	Wir haben gewonnen!	हमने जीत ली है!
+Well done.	Gut gemacht.	अच्छा काम किया।
+What's on?	Was ist los?	क्या हो रहा है?
+What's up?	Was ist los?	क्या हो रहा है?
+Who cares?	Wen interessiert's?	किसे फर्क पड़ता है?
+Who drove?	Wer ist gefahren?	किसने ड्राइव किया?
+Who is he?	Wer ist er?	वह कौन है?
