@@ -8178,3 +8178,6 @@ Be very careful. (Different meaning)	Seid sehr sorgfältig.	बहुत सा�
 Bears hibernate.	Bären halten Winterschlaf.	भालू शीतकालीन निद्रा करते हैं।
 Bees make honey.	Bienen machen Honig.	मधु बनाती हैं।
 Behave yourself.	Benehme dich.	अच्छे से व्यवहार करें।
+Bite the bullet.	Überwinde deine Ängste.	अपने डर को परास्त करो।
+Black suits you.	Schwarz steht dir.	काला तुम पर अच्छा लगता है।
+Boil some water.	Koche ein bisschen Wasser.	थोड़ा पानी उबालो।
