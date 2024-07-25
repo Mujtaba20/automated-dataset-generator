@@ -10134,3 +10134,13 @@ Times are tough.	Die Zeiten sind hart.	समय कठिन हैं।
 To each his own.	Jedem das Seine.	हर किसी का अपना अपना।
 Today is Monday.	Heute ist Montag.	आज सोमवार है।
 Tom accelerated.	Tom beschleunigte.	टॉम तेजी से बढ़ा।
+Tom acted alone.	Tom handelte allein.	टॉम अकेले काम किया।
+Tom acted drunk.	Tom handelte betrunken.	टॉम नशे में काम किया।
+Tom acts scared.	Tom wirkt ängstlich.	टॉम डरा हुआ लगता है।
+Tom added water.	Tom fügte Wasser hinzu.	टॉम ने पानी डाला।
+Tom admitted it.	Tom gab es zu.	टॉम ने इसे स्वीकार किया।
+Tom almost died.	Tom wäre fast gestorben.	टॉम लगभग मर गया था।
+Tom already ate.	Tom hat bereits gegessen.	टॉम ने पहले ही खाया था।
+Tom also dances.	Tom tanzt auch.	टॉम भी नृत्य करता है।
+Tom also saw it.	Tom hat es auch gesehen.	टॉम ने भी देखा।
+Tom also smiled.	Tom hat auch gelächelt.	तोम ने भी मुस्काया।
