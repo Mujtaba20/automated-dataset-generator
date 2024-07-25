@@ -3668,3 +3668,8 @@ You may swim.	Du darfst schwimmen.	तुम तैर सकते हो।
 You must eat.	Du musst essen.	तुम्हें खाना चाहिए।
 You promised.	Du hast versprochen.	तुमने वादा किया।
 You must eat. - 2	Du musst speisen.	तुम्हें भोजन करना चाहिए।
+You scare me.	Sie machen mir Angst.	आप मुझे डराते हो।
+You stay put.	Du bleibst hier.	तुम यहीं रुको।
+You survived.	Sie haben überlebt.	आप जीवित रहे।
+You'll do it.	Du wirst es tun.	तुम यह करोगे।
+You're a spy.	Du bist ein Spion.	तुम एक जासूस हो।
