@@ -5706,3 +5706,12 @@ Everyone stood.	Jeder stand.	सब खड़े थे।
 Fishing is fun.	Angeln ist lustig.	मछली पकड़ना मजेदार है।
 Flies lay eggs.	Fliegen legen Eier.	मक्खी अंडे देती है।
 Form two lines.	Bilden Sie zwei Linien.	दो पंक्तियाँ बनाएं।
+Get everything.	Bekomme alles.	सब कुछ पाओ।
+Get in the car.	Steig ins Auto.	गाड़ी में चढ़ो।
+Get me a drink.	Hol mir ein Getränk.	मुझे एक पेय मिलाओ।
+Get me a towel.	Gib mir ein Handtuch.	मुझे एक तौलिया दो।
+Get me my food.	Hol mir mein Essen.	मेरा खाना मुझे दो।
+Get off my car.	Steig von meinem Auto aus.	मेरी गाड़ी से उतरो।
+Get off of Tom.	Hör auf Tom.	टॉम से हटो।
+Get on in here.	Komm rein.	अंदर आ जाओ।
+Get on the bus.	Steig in den Bus.	बस में चढ़ जाओ।
