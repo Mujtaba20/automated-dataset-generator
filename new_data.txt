@@ -18174,3 +18174,11 @@ They will survive.	Sie werden überleben.	वे जीवित रहेंग
 They wouldn't lie.	Sie würden nicht lügen.	वे झूठ नहीं बोलेंगे।
 They'll be afraid.	Sie werden Angst haben.	उन्हें डरा होगा।
 They'll like that.	Das wird ihnen gefallen.	उन्हें यह पसंद आएगा।
+They'll love that.	Sie werden das lieben.	वे इसे पसंद करेंगे।
+They'll need help.	Sie werden Hilfe brauchen.	उन्हें मदद की जरूरत होगी।
+They'll negotiate.	Sie werden verhandeln.	वे सम्झौता करेंगे।
+They'll try again.	Sie werden es erneut versuchen.	वे फिरसे कोशिश करेंगे।
+They're Canadians.	Sie sind Kanadier.	वे कनाडियन हैं।
+They're after you.	Sie sind hinter dir her.	वे तुम्हारे पीछे हैं।
+They're beautiful.	Sie sind wunderschön.	वे सुंदर हैं।
+They're both dead.	Sie sind beide tot.	वे दोनों मरे हुए हैं।
