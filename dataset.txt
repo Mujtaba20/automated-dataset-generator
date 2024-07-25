@@ -1,14 +1,4 @@
 
-Tom is my brother.	Tomás ist mein Bruder.	टोमस मेरा भाई है।
-Tom is my brother.	Tom ist mein Bruder.	टॉम मेरा भाई है।
-Tom is my dentist.	Tom ist mein Zahnarzt.	टॉम मेरे दंत चिकित्सक हैं।
-Tom is my destiny.	Tom ist mein Schicksal.	टॉम मेरी किस्मत है।
-Tom is my fiancé.	Tom ist mein Verlobter.	टॉम मेरे मंगेतर हैं।
-Tom is my stepdad.	Tom ist mein Stiefpapa.	टॉम मेरे सौतेले पिता हैं।
-Tom is my stepson.	Tom ist mein Stiefsohn.	टॉम मेरे सौतेले बेटे हैं।
-Tom is my student.	Tom ist mein Schüler.	टॉम मेरे छात्र हैं।
-Tom is my teacher.	Tom ist mein Lehrer.	टॉम मेरे शिक्षक हैं।
-Tom is mysterious.	Tom ist mysteriös.	टॉम रहस्यमय है।
 Tom is never here.	Tom ist nie hier.	टॉम यहाँ कभी नहीं है।
 Tom is never late.	Tom kommt nie zu spät.	टॉम कभी बहुत देर से नहीं आता।
 Tom is nice to me.	Tom ist freundlich zu mir.	टॉम मेरे अनुकूल है।

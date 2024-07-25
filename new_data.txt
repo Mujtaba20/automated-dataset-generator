@@ -18697,3 +18697,12 @@ Tom is methodical.	Tom ist methodisch.	टॉम व्यवस्थित ह
 Tom is meticulous.	Tom ist gewissenhaft.	टॉम सूक्ष्मतापूर्ण है।
 Tom is meticulous. Diff meaning 1	Tom ist akribisch.	टॉम सरल है।
 Tom is motionless.	Tom ist regungslos.	टॉम अचल है।
+Tom is my brother.	Tom ist mein Bruder.	टॉम मेरा भाई है।
+Tom is my dentist.	Tom ist mein Zahnarzt.	टॉम मेरा डेंटिस्ट है।
+Tom is my destiny.	Tom ist mein Schicksal.	टॉम मेरी किस्मत है।
+Tom is my fiancé.	Tom ist mein Verlobter.	टॉम मेरा दामाद है।
+Tom is my stepdad.	Tom ist mein Stiefvater.	टॉम मेरे स्टेपडैड हैं।
+Tom is my stepson.	Tom ist mein Stiefsohn.	टॉम मेरा संतान है।
+Tom is my student.	Tom ist mein Schüler.	टॉम मेरा छात्र है।
+Tom is my teacher.	Tom ist mein Lehrer.	टॉम मेरा अध्यापक है।
+Tom is mysterious.	Tom ist mysteriös.	टॉम रहस्यमय है।
