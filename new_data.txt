@@ -15517,3 +15517,11 @@ Are you a tourist?	Bist du ein Tourist?	क्या आप एक पर्य�
 Are you a vampire?	Bist du ein Vampir?	क्या आप एक ड्राकुला हैं?
 Are you all alone?	Bist du ganz allein?	क्या तुम पूरी तरह से अकेले हो?
 Are you all right?	Geht es dir gut?	क्या सब ठीक है?
+Are you alone now?	Bist du jetzt alleine?	क्या तुम अब अकेले हो?
+Are you ambitious?	Bist du ehrgeizig?	क्या तुम उत्साही हो?
+Are you bilingual?	Bist du zweisprachig?	क्या तुम दो भाषा जानते हो?
+Are you breathing?	Atmest du?	क्या तुम सांस ले रहे हो?
+Are you coming in?	Kommst du rein?	क्या तुम अंदर आ रहे हो?
+Are you competent?	Bist du kompetent?	क्या तुम पात्र हो?
+Are you confident?	Bist du selbstbewusst?	क्या आप आत्मविश्वासी हैं?
+Are you depressed?	Bist du deprimiert?	क्या आप निराश हैं?
