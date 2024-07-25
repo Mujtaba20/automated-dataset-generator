@@ -4488,3 +4488,13 @@ Is that a cat?	Ist das eine Katze?	क्या वह एक बिल्ली
 Is that a lot?	Ist das viel?	क्या वह बहुत है?
 Is that a wig?	Ist das eine Perücke?	क्या वह एक विग है?
 Is that a yes?	Ist das ein Ja?	क्या यह एक हां है?
+Is that blood?	Ist das Blut?	क्या वह खून है?
+Is that legal?	Ist das legal?	क्या यह कानूनी है?
+Is that sugar?	Ist das Zucker?	क्या वह चीनी है?
+Is that sweet?	Ist das süß?	क्या यह मिठा है?
+Is that weird?	Ist das seltsam?	क्या वह अजीब है?
+Is that yours?	Ist das deins?	क्या वह तुम्हारा है?
+Is there more?	Gibt es mehr?	क्या और है?
+Is this Tom's?	Ist das Toms?	क्या यह टॉम्स का है?
+Is this blood?	Ist das Blut?	क्या यह रक्त है?
+Is this legal?	Ist das legal?	क्या यह कानूनी है?
