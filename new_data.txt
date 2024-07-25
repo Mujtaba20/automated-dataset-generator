@@ -17644,3 +17644,10 @@ Now I feel guilty.	Jetzt fühle ich mich schuldig.	अब मुझे अपर
 Now I realize why.	Jetzt merke ich warum.	अब मुझे पता चला क्यों।
 Now I'm intrigued.	Jetzt bin ich fasziniert.	अब मेरे में कौतूहल है।
 Now it's up to me.	Jetzt liegt es an mir.	अब यह मेरे हाथ में है।
+Now pay attention.	Jetzt aufpassen.	अब ध्यान दो।
+OK, I'll order it.	OK, ich werde es bestellen.	ठीक है, मैं इसे आदेश देंगा।
+OK, I'm persuaded.	OK, ich bin überzeugt.	ठीक है, मैं आमंत्रित हूँ।
+OK, that's enough.	OK, das reicht.	ठीक है, बस करो।
+OK, where were we?	OK, wo waren wir?	ठीक है, हम कहाँ थे?
+Now pay attention. Focus on the details.	Nun achte auf die Details.	अब विवरणों पर ध्यान केंद्रित करो।
+OK, I'll place the order without delay.	OK, ich werde die Bestellung umgehend aufgeben.	ठीक है, मैं बिना देर किए आदेश दूंगा।
