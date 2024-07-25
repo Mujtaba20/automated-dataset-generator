@@ -9979,3 +9979,12 @@ The pay is good.	Die Bezahlung ist gut.	वेतन अच्छी है।
 The power's out.	Der Strom ist ausgefallen.	बिजली चली गई है।
 The radio is on.	Das Radio ist an.	रेडियो चालू है।
 The room is hot.	Der Raum ist heiß.	कमरा गरम है।
+The sea is blue.	Das Meer ist blau.	समुद्र नीला है।
+The sky is blue.	Der Himmel ist blau.	आकाश नीला है।
+The soldier ran.	Der Soldat rannte.	सैनिक भागा।
+The soup is hot.	Die Suppe ist heiß.	सूप गरम है।
+The soup's cold.	Die Suppe ist kalt.	सूप ठंडा है।
+The taxi's here.	Das Taxi ist hier.	टैक्सी यहाँ है।
+The war is over.	Der Krieg ist vorbei.	युद्ध समाप्त हो गया है।
+The well is dry.	Der Brunnen ist trocken.	कुआँ सूखा है।
+The wind howled.	Der Wind heulte.	हवा चिललाई।
