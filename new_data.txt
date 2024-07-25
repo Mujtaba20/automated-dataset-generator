@@ -4899,3 +4899,12 @@ They're brown.	Sie sind braun.	वे भूरे हैं।
 They're crazy.	Sie sind verrückt.	वे पागल हैं।
 They're drunk.	Sie sind betrunken.	वे नशे में हैं।
 They're drunk. - Different meaning	Sie sind besoffen.	वे मादक पदार्थ लेकर हैं।
+They're dying.	Sie sterben.	वे मर रहे हैं।
+They're early.	Sie sind früh dran.	वे जल्दी में हैं।
+They're empty.	Sie sind leer.	उनका कोई मायने नहीं है।
+They're fools.	Sie sind Narren.	वे मूर्ख हैं।
+They're going.	Sie gehen.	वे जा रहे हैं।
+They're great.	Sie sind großartig.	वे बहुत बढ़िया हैं।
+They're green.	Sie sind grün.	वे हरी हैं।
+They're happy.	Sie sind glücklich.	वे खुश हैं।
+They're quiet.	Sie sind ruhig.	वे शांत हैं।
