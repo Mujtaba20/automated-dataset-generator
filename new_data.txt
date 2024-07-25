@@ -17329,3 +17329,13 @@ It ruined my life.	Es hat mein Leben ruiniert.	यहने मेरे जी�
 It sounds strange.	Es klingt seltsam.	यह अजीब सुनाई देता है।
 It sounds strange. (different meaning)	Es hört sich komisch an.	यह अजीब सुनाई देता है।
 It stinks in here.	Es stinkt hier.	यहाँ बदबू आ रही है।
+engSentence1	Es erfordert Übung.	इसमें अभ्यास की आवश्यकता है।
+engSentence2	Es war Toms Idee.	यह टॉम की सोच थी।
+engSentence3	Es war eine schlechte Idee.	यह एक बुरा विचार था।
+engSentence4	Es war ein guter Versuch.	यह एक अच्छा प्रयास था।
+engSentence5	Es war ein Vergnügen.	यह एक आनंद था।
+engSentence6	Es war ein warmer Tag.	यह एक गर्म दिन था।
+engSentence7	Es war praktisch.	यह उपयुक्त था।
+engSentence8	Es war bequem.	यह सुविधाजनक था।
+engSentence9	Es war deprimierend.	यह निराशाजनक था।
+engSentence10	Es drückte auf die Stimmung.	यह मनोबल गिराने वाला था।
