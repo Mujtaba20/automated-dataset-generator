@@ -6138,3 +6138,13 @@ I love Harvard.	Ich liebe Harvard.	मुझे हार्वर्ड पस�
 I love almonds.	Ich liebe Mandeln.	मुझे बादाम पसंद हैं।
 I love animals.	Ich liebe Tiere.	मुझे जानवरों से प्यार है।
 I love bananas.	Ich liebe Bananen.	मुझे केले पसंद हैं।
+I love carrots.	Ich liebe Karotten.	मुझे गाजर पसंद है।
+I love cooking.	Ich liebe das Kochen.	मुझे खाना पकाना पसंद है।
+I love dessert.	Ich liebe Nachtisch.	मुझे मिठाई पसंद है।
+I love driving.	Ich liebe es zu fahren.	मुझे ड्राइविंग पसंद है।
+I love flowers.	Ich liebe Blumen.	मुझे फूल पसंद हैं।
+I love his son.	Ich liebe seinen Sohn.	मुझे उसके बेटे पसंद हैं।
+I love it here.	Ich liebe es hier.	मुझे यहाँ पसंद है।
+I love lasagna.	Ich liebe Lasagne.	मुझे लसानिया पसंद है।
+I love lizards.	Ich liebe Eidechsen.	मुझे छिपकली पसंद हैं।
+I love my city.	Ich liebe meine Stadt.	मुझे मेरा शहर पसंद है।
