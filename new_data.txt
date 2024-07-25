@@ -5301,3 +5301,10 @@ We were wrong.	Wir lagen falsch.	हम गलत थे।
 We will fight.	Wir werden kämpfen.	हम लड़ाई लडेंगे।
 We won't lose.	Wir werden nicht verlieren.	हम हार नहीं मानेंगे।
 We wonder why.	Wir fragen uns warum.	हम सोच रहे हैं कि क्यों।
+We'll all die.	Wir werden alle sterben.	हम सभी मर जाएँगे।
+We'll ask Tom.	Wir werden Tom fragen.	हम टॉम से पूछेंगे।
+We'll be busy.	Wir werden beschäftigt sein.	हम व्यस्त रहेंगे।
+We'll be fine.	Wir werden in Ordnung sein.	हम ठीक रहेंगे।
+We'll be here.	Wir werden hier sein.	हम यहाँ होंगे।
+We'll be late.	Wir werden spät sein.	हम देर से आएंगे।
+We'll do that.	Wir werden das tun.	हम उसे करेंगे।
