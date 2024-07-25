@@ -252,3 +252,8 @@ Wake up!	Wach auf!	जागो!
 Wake up.	Wach auf.	जागो।
 Wash up.	Sich waschen.	धोएं।
 We lost.	Wir haben verloren.	हम हार गए।
+Welcome.	Willkommen.	स्वागत है।
+Who ate?	Wer aß?	कौन खाया?
+Who ate? (Different meaning)	Wer hat gegessen?	कौन खाया था?
+Who ran?	Wer lief?	कौन भागा?
+Who ran? (Different meaning)	Wer ist gerannt?	कौन दौड़ा?
