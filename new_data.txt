@@ -7481,3 +7481,13 @@ Tom likes tuna.	Tom mag Thunfisch.	टॉम को ट्यूना पसं
 Tom likes wine.	Tom mag Wein.	टॉम को शराब पसंद है।
 Tom lives here.	Tom lebt hier.	टॉम यहाँ रहता है।
 Tom looked mad.	Tom sah wütend aus.	टॉम गुस्से में लग रहा था।
+Tom looked old.	Tom sah alt aus.	टॉम बुढ़ा लग रहा था।
+Tom looked sad.	Tom sah traurig aus.	टॉम उदास लग रहा था।
+Tom looks busy.	Tom sieht beschäftigt aus.	टॉम व्यस्त लग रहा है।
+Tom looks cold.	Tom sieht kalt aus.	टॉम ठंडा लग रहा है।
+Tom looks cool.	Tom sieht cool aus.	टॉम स्वयं को शांत दिखा।
+Tom looks dead.	Tom sieht tot aus.	टॉम मरा हुआ लग रहा है।
+Tom looks fine.	Tom sieht gut aus.	टॉम ठीक लग रहा है।
+Tom looks good.	Tom sieht gut aus.	टॉम अच्छा लग रहा है।
+Tom looks hurt.	Tom sieht verletzt aus.	टॉम चोट खाया हुआ लग रहा है।
+Tom looks lost.	Tom sieht verloren aus.	टॉम खो गया लग रहा है।
