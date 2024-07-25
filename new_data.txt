@@ -1015,3 +1015,13 @@ I made tea.	Ich habe Tee zubereitet.	मैंने चाय बनायी�
 I met them.	Ich traf sie.	मैंने उन्हें मिला।
 I miss Tom.	Ich vermisse Tom sehr.	मुझे टॉम की बहुत याद आती है।
 I miss you.	Ich vermiss' dich.	मुझे तुम्हारी याद आती है।
+I need Tom.	Ich brauche Tom.	मुझे टॉम की आवश्यकता है।
+I need air.	Ich brauche Luft.	मुझे हवा की आवश्यकता है।
+I need ice.	Ich brauche Eis.	मुझे बर्फ की आवश्यकता है।
+I need you.	Ich brauche dich.	मुझे तुम्हे चाहिए।
+I need you. (different meaning)	Ich brauche Sie.	मुझे आपकी आवश्यकता है।
+I need you. (different meaning 2)	Ich brauche euch.	मुझे तुम चाहिए।
+I panicked.	Ich geriet in Panik.	मैं बेकरार हो गया।
+I pity you.	Ich bemittleide dich.	मुझे तुम पर दया आता है।
+I promised.	Ich habe versprochen.	मैंने वादा किया।
+I ran away.	Ich bin weggelaufen.	मैं भाग गया।
