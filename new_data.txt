@@ -6846,3 +6846,9 @@ Shall we begin?	Wollen wir beginnen?	हम आरंभ करें?
 Shall we dance?	Sollen wir tanzen?	क्या हम नृत्य करें?
 Shall we order?	Sollen wir bestellen?	क्या हम ऑर्डर करें?
 Shall we start?	Sollen wir starten?	क्या हम शुरू करें?
+She adores him.	Sie bewundert ihn.	उसे वह प्रशंसा करती है।
+She called him.	Sie rief ihn an.	उसने उसे बुलाया।
+She came alone.	Sie kam alleine.	वह अकेले आई।
+She can't swim.	Sie kann nicht schwimmen.	वह तैर नहीं सकती।
+She choked him.	Sie würgte ihn.	उसने उसे गला दबा दिया।
+She cooks well.	Sie kocht gut.	वह अच्छे से पकाती है।
