@@ -4328,3 +4328,10 @@ I'll get help.	Ich werde Hilfe holen.	मैं मदद लेता हूँ
 I'll get that.	Das werde ich bekommen.	वह मिलेगा।
 I'll acquire this.	Ich werde das erwerben.	मैं यह प्राप्त कर लूँगा।
 I'll go there.	Ich werde dorthin gehen.	मैं वहाँ जाऊँगा।
+I'll help Tom.	Ich werde Tom helfen.	मैं टॉम की मदद करूँगा।
+I'll help you.	Ich helfe dir.	मैं तुम्हें मदद करूँगा।
+I'll join you.	Ich werde mich dir anschließen.	मैं तुम्हारे साथ शामिल होऊँगा।
+I'll kill him.	Ich werde ihn töten.	मैं उसे मार दूँगा।
+I'll kill you.	Ich werde dich töten.	मैं तुम्हें मार दूँगा।
+I'll miss Tom.	Ich vermisse Tom.	मैं टॉम की याद मिस करूँगा।
+I'll miss you.	Ich werde dich vermissen.	मैं तुम्हें याद करूँगा।
