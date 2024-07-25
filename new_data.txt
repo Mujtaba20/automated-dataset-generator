@@ -11762,3 +11762,9 @@ Don't be so sure.	Sei nicht so sicher.	इतना पक्का मत ह�
 Don't be worried.	Machen Sie sich keine Sorgen.	चिंता मत करो
 Don't bother Tom.	Ärgere Tom nicht.	टॉम को परेशान मत करो
 Don't come again.	Komm nicht wieder.	फिर से मत आना
+Don't deceive me.	Täuschen Sie mich nicht.	मेरे साथ छल करना बंद करें।
+Don't disturb me!	Störe mich nicht!	मुझे परेशान मत करो!
+Don't do it, Tom.	Tu es nicht, Tom.	यह मत करो, टॉम।
+Don't forget Tom.	Vergiss nicht Tom.	तोम को न भूलें।
+Don't get caught.	Nicht geschnappt werden.	फँसे न रहें।
+Don't go so fast!	Geh nicht so schnell!	इतनी तेजी से मत जाओ!
