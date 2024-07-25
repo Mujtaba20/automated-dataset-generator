@@ -8608,3 +8608,10 @@ How could it be?	Wie könnte es sein?	यह कैसे हो सकता �
 How did Tom die?	Wie ist Tom gestorben?	टॉम कैसे मरा?
 How do we begin?	Wie fangen wir an?	हम कैसे शुरू करें?
 How do we do it?	Wie machen wir das?	हम इसे कैसे करें?
+How do you feel?	Wie fühlst du dich?	तुम्हें कैसा लग रहा है?
+How do you know?	Wie weißt du das?	तुम्हें कैसे पता है?
+How interesting!	Wie interessant!	कितना दिलचस्प!
+How is everyone?	Wie geht es allen?	सभी कैसे हैं?
+How is it going?	Wie läuft es?	सब कुछ कैसा चल रहा है?
+How is your dad?	Wie geht es deinem Vater?	तुम्हारे पापा कैसे हैं?
+How kind of you!	Wie nett von dir!	तुम्हारा कितना उदार व्यवहार!
