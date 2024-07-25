@@ -7986,3 +7986,11 @@ Who's your dad?	Wer ist dein Vater?	तुम्हारे पिताजी 
 Who's your mom?	Wer ist deine Mutter?	तुम्हारी माँ कौन है?
 Whose are they?	Wessen sind sie?	ये किसके हैं?
 Why am I going?	Warum gehe ich?	मैं क्यों जा रहा हूँ?
+Why can't I go?	Warum kann ich nicht gehen?	मैं क्यों नहीं जा सकता?
+Why do you ask?	Warum fragst du?	तुम क्यों पूछते हो?
+Why do you lie?	Warum lügst du?	तुम क्यों झूठ बोलते हो?
+Why don't I go?	Warum gehe ich nicht?	मैं क्यों नहीं जा सकता?
+Why is Tom shy?	Warum ist Tom schüchtern?	टॉम शर्मीला क्यों है?
+Why is Tom wet?	Warum ist Tom nass?	टॉम भीगा क्यों है?
+Why is he here?	Warum ist er hier?	वह यहाँ क्यों है?
+Why is it dark?	Warum ist es dunkel?	यह क्यों अंधेरा है?
