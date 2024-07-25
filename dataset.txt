@@ -1,16 +1,4 @@
 
-Did you invite him?	Hast du ihn eingeladen?	क्या आपने उसे आमंत्रित किया?
-Did you invite him?	Habt ihr ihn eingeladen?	क्या आपने उसे आमंत्रित किया?
-Did you invite him?	Haben Sie ihn eingeladen?	क्या आपने उसे आमंत्रित किया?
-Did you lie to Tom?	Hast du Tom angelogen?	क्या आपने लियोन टॉम किया?
-Did you lie to Tom?	Habt ihr Tom angelogen?	क्या आपने लियोन टॉम किया?
-Did you lie to Tom?	Haben Sie Tom angelogen?	क्या आपने लियोन टॉम किया?
-Did you murder Tom?	Hast du Tom ermordet?	क्या आपने टॉम की हत्या कर दी?
-Did you murder Tom?	Habt ihr Tom ermordet?	क्या आपने टॉम की हत्या कर दी?
-Did you murder Tom?	Haben Sie Tom ermordet?	क्या आपने टॉम की हत्या कर दी?
-Did you notify Tom?	Hast du Tom benachrichtigt?	क्या आपने टॉम को सूचित किया?
-Did you notify Tom?	Habt ihr Tom benachrichtigt?	क्या आपने टॉम को सूचित किया?
-Did you notify Tom?	Haben Sie Tom benachrichtigt?	क्या आपने टॉम को सूचित किया?
 Did you poison Tom?	Hast du Tom vergiftet?	क्या आपने टॉम को जहर दिया?
 Did you poison Tom?	Habt ihr Tom vergiftet?	क्या आपने टॉम को जहर दिया?
 Did you poison Tom?	Haben Sie Tom vergiftet?	क्या आपने टॉम को जहर दिया?

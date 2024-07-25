@@ -20383,3 +20383,7 @@ Did you enjoy that?	Hast du das genossen?	क्या तुमने इसे
 Did you find a job?	Hast du einen Job gefunden?	क्या तुमने नौकरी पाई है?
 Did you get a beer?	Hast du ein Bier bekommen?	क्या तुमने बीयर पी है?
 Did you invite Tom?	Hast du Tom eingeladen?	क्या तुमने टॉम को आमंत्रित किया था?
+Did you invite him?	Hast du ihn gebeten?	क्या तुमने उसे आमंत्रित किया?
+Did you lie to Tom?	Hast du Tom betrogen?	क्या तुमने टॉम को धोखा दिया?
+Did you murder Tom?	Hast du Tom umgebracht?	क्या तुमने टॉम की हत्या की?
+Did you notify Tom?	Hast du Tom benachrichtigt?	क्या तुमने टॉम को सूचित किया?
