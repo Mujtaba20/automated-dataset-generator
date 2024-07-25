@@ -1,14 +1,4 @@
 
-This is your fate.	Das ist dein Schicksal.	यह आपका भाग्य है।
-This is your fate.	Das ist Ihr Schicksal.	वह उसकी किस्मत है।
-This is your fate.	Das ist euer Schicksal.	यह आपका भाग्य है।
-This is your stop.	Das ist deine Haltestelle.	यह आपका स्टॉप है।
-This is your wine.	Dies ist dein Wein.	यह आपकी शराब है।
-This isn't French.	Das ist kein Französisch.	यह एक फ्रेंच नहीं है।
-This isn't a game.	Das hier ist kein Spiel.	ये खेल नहीं है।
-This isn't a joke.	Das ist kein Witz.	यह कोई मजाक नहीं है।
-This isn't for me.	Das ist nichts für mich.	यह मेरे लिए नहीं है।
-This isn't for me.	Das ist nicht für mich.	वह मेरे लिए नहीं है।
 This isn't my bag.	Das ist nicht meine Tasche.	यह मेरा बैग नहीं है।
 This isn't my car.	Das ist nicht mein Auto.	यह मेरी कार नहीं है।
 This isn't my key.	Das ist nicht mein Schlüssel.	यह मेरी कुंजी नहीं है।

@@ -18273,3 +18273,10 @@ This is too small.	Das ist zu klein.	यह बहुत छोटा है।
 This is very easy.	Das ist sehr einfach.	यह बहुत आसान है।
 This is very good.	Das ist sehr gut.	यह बहुत अच्छा है।
 This is your book.	Das ist dein Buch.	यह तुम्हारी किताब है।
+This is your fate.	Das ist dein Schicksal.	यह तुम्हारा भाग्य है।
+This is your stop.	Das ist deine Haltestelle.	यह आपका स्थान है।
+This is your wine.	Das ist dein Wein.	यह तुम्हारा शराब है।
+This isn't French.	Das ist nicht Französisch.	यह फ्रांसीसी नहीं है।
+This isn't a game.	Das ist kein Spiel.	यह खेल नहीं है।
+This isn't a joke.	Das ist kein Witz.	यह मजाक नहीं है।
+This isn't for me.	Das ist nicht für mich.	यह मेरे लिए नहीं है।
