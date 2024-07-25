@@ -13121,3 +13121,11 @@ It was so simple.	Es war so einfach.	यह इतना सरल था।
 It was stressful.	Es war stressig.	यह तनावपूर्ण था।
 It was the truth.	Es war die Wahrheit.	यह सच्चाई थी।
 It was too small.	Es war zu klein.	यह बहुत छोटा था।
+It was very cold.	Es war sehr kalt.	यह बहुत ठंडा था।
+It was very cool.	Es war sehr cool.	यह बहुत कूल था।
+It was very dark.	Es war sehr dunkel.	यह बहुत अंधेरा था।
+It was very hard.	Es war sehr hart.	यह बहुत मुश्किल था।
+It was very nice.	Es war sehr nett.	यह बहुत अच्छा था।
+It was very ugly.	Es war sehr hässlich.	यह बहुत बदसूरत था।
+It was your idea.	Es war deine Idee.	यह तुम्हारी विचार थी।
+It was very bad.	Es war sehr schlecht.	यह बहुत बुरा था।
