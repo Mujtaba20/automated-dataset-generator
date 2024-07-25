@@ -4236,3 +4236,13 @@ I saw someone.	Ich sah jemanden.	मैंने किसी को देख�
 I saw the dog.	Ich sah den Hund.	मैंने कुत्ते को देखा।
 I say it's OK.	Ich sage, es ist in Ordnung.	मैं कहता हूँ कि ठीक है।
 I see a crown.	Ich sehe eine Krone.	मैं एक मुकुट देखता हूँ।
+I see a house.	Ich sehe ein Haus.	मैं एक घर देखता हूँ।
+I see a mouse.	Ich sehe eine Maus.	मैं एक चूहा देखता हूँ।
+I see someone.	Ich sehe jemanden.	मैं किसी को देखता हूँ।
+I see the boy.	Ich sehe den Jungen.	मैं लड़का देखता हूँ।
+I seldom sing.	Ich singe selten.	मैं बहुत कम गाता हूँ।
+I slept a lot.	Ich habe viel geschlafen.	मैंने बहुत सोया।
+I smell a rat.	Ich rieche einen Rattenschwanz.	मुझे चूहे की गंध आ रही है।
+I sold a book.	Ich habe ein Buch verkauft.	मैंने एक किताब बेची।
+I support Tom.	Ich unterstütze Tom.	मैं टॉम का समर्थन करता हूँ।
+I support him.	Ich unterstütze ihn.	मैं उसका समर्थन करता हूँ।
