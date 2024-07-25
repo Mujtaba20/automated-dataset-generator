@@ -5891,3 +5891,9 @@ Here they come.	Hier kommen sie.	वे यहाँ आ रहे हैं।
 Here's my card.	Hier ist meine Karte.	यहाँ मेरी कार्ड है।
 Here's the bus.	Hier ist der Bus.	यहाँ बस है।
 Here's the car.	Hier ist das Auto.	यहाँ गाड़ी है।
+Here's the key.	Hier ist der Schlüssel.	यहाँ की चाबी है।
+Here, try this.	Hier, probier das.	यहाँ, इसे आजमाओ।
+Hey, come here.	Hey, komm hierher.	ओहो, यहाँ आओ।
+Hi, come on in.	Hallo, komm rein.	नमस्ते, अंदर आ जाओ।
+Hide the money.	Verstecke das Geld.	पैसा छुपाओ।
+His head ached.	Ihm tat der Kopf weh.	उसका सिर दर्द कर रहा था।
