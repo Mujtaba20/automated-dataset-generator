@@ -6610,3 +6610,9 @@ It's a promise.	Es ist ein Versprechen.	यह एक वादा है।
 It's admirable.	Es ist bewundernswert.	यह सराहनीय है।
 It's all Tom's.	Es gehört alles Tom.	यह सब टॉम का है।
 It's all right.	Es ist in Ordnung.	सब ठीक है।
+It's an ambush!	Es ist ein Hinterhalt.	यह एक घातक संघर्ष है।
+It's an insult.	Es ist eine Beleidigung.	यह एक अपमान है।
+It's beautiful.	Es ist schön.	यह खूबसूरत है।
+It's beyond me.	Es geht über mich hinaus.	यह मेरे समझ से परे है।
+It's brand new.	Es ist nagelneu.	यह ब्रांड न्यू है।
+It's cold here.	Es ist kalt hier.	यहाँ सर्दी है।
