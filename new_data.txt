@@ -11281,3 +11281,7 @@ Who is your dad?	Wer ist dein Vater?	तुम्हारे पिता क�
 Who likes beans?	Wer mag Bohnen?	राजमा किसको पसंद है?
 Who scolded Tom?	Wer hat Tom geschimpft?	तोम पर किसने डाँटा?
 Who stabbed Tom?	Wer hat Tom erstochen?	तोम की छलांग किसने लगाई?
+Who surrendered?	Wer hat sich ergeben?	किसने आत्मसमर्पण किया?
+Who teaches you?	Wer lehrt dich?	तुम्हें कौन पढ़ाता है?
+Who volunteered?	Wer hat sich freiwillig gemeldet?	कौन स्वैच्छिक रूप से उतरा?
+Who's after you?	Wer ist hinter dir her?	तुम्हारे पीछे कौन है?
