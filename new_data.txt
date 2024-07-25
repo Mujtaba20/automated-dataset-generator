@@ -12407,3 +12407,13 @@ I have a request.	Ich habe eine Bitte.	मेरे पास एक अनु�
 I have a wish.	Ich habe einen Wunsch.	मेरे पास एक इच्छा है।
 I have a scooter.	Ich habe einen Roller.	मेरे पास एक स्कूटर है।
 I have a toaster.	Ich habe einen Toaster.	मेरे पास एक टोस्टर है।
+I have a website.	Ich habe eine Webseite.	मेरे पास एक वेबसाइट है।
+I have been busy.	Ich war beschäftigt.	मैं व्यस्त रहता हूँ।
+I have dark hair.	Ich habe dunkle Haare.	मेरे बाल काले हैं।
+I have dark hair. (duplicate, different meaning)	Ich fühle mich düster.	मेरा मन उदास है।
+I have few books.	Ich habe wenige Bücher.	मेरे पास कुछ किताबें हैं।
+I have good news.	Ich habe gute Nachrichten.	मेरे पास अच्छी ख़बर है।
+I have hay fever.	Ich habe Heuschnupfen.	मुझे भारी सर्दी है।
+I have heartburn.	Ich habe Sodbrennen.	मुझे जलन हो रही है।
+I have insurance.	Ich habe Versicherung.	मेरे पास बीमा है।
+I have my orders.	Ich habe meine Befehle.	मेरे पास अपने आदेश हैं।
