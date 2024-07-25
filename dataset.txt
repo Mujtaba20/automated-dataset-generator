@@ -1,14 +1,4 @@
 
-You're a rich man.	Du bist ein reicher Mann.	आप एक अमीर आदमी हैं।
-You're aggressive.	Du bist aggressiv.	आप आक्रामक हैं।
-You're aggressive.	Sie sind aggressiv.	वे आक्रामक हैं।
-You're attractive.	Du bist attraktiv.	आप आकर्षक हैं।
-You're attractive.	Sie sind attraktiv.	आप आकर्षक हैं।
-You're attractive.	Ihr seid attraktiv.	आप आकर्षक हैं।
-You're back again.	Du bist wieder da.	आप वापस आ गए हैं।
-You're back early.	Du bist früh zurückgekehrt.	आप जल्दी लौट आए।
-You're back early.	Sie sind früh zurückgekehrt.	वे जल्दी लौट आए।
-You're back early.	Ihr seid früh zurückgekehrt.	आप जल्दी लौट आए।
 You're being mean.	Du bist gemein.	आप मतलबी हैं।
 You're both crazy.	Ihr habt beide einen an der Klatsche.	आप दोनों ताली पर एक हैं।
 You're both crazy.	Ihr seid beide verrückt.	तुम दोनों पागल हो।

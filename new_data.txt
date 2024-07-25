@@ -20151,3 +20151,8 @@ You're a good man.	Du bist ein guter Mann.	तुम एक अच्छे आ�
 You're a good mom.	Du bist eine gute Mutter.	तुम एक अच्छे माँ हो।
 You're a murderer.	Du bist ein Mörder.	तुम एक पापी हो।
 You're a prisoner.	Du bist ein Gefangener.	तुम एक सज़ाया हुआ हो।
+You're a rich man.	Du bist ein reicher Mann.	तुम एक अमीर आदमी हो।
+You're aggressive.	Du bist aggressiv.	तुम हमेशा गुस्से में रहते हो।
+You're attractive.	Du bist attraktiv.	तुम आकर्षक हो।
+You're back again.	Du bist wieder zurück.	तुम फिर से वापस आ गए हो।
+You're back early.	Du bist früh zurück.	तुम जल्दी वापस आ गए हो।
