@@ -2621,3 +2621,13 @@ I am baffled.	Ich bin verwirrt.	मैं हैरान हूँ।
 I am curious.	Ich bin neugierig.	मैं उत्सुक हूँ।
 I am praying.	Ich bete.	मैं प्रार्थना कर रहा हूँ।
 I apologized.	Ich habe mich entschuldigt.	मैंने माफी मांगी।
+I ate apples.	Ich habe Äpfel gegessen.	मैंने सेब खाए।
+I ate caviar.	Ich habe Kaviar gegessen.	मैंने कैवीयार खाया।
+I bit my lip.	Ich habe mir auf die Lippe gebissen.	मैंने अपने होंठ का काटा।
+I broke that.	Ich habe das kaputtgemacht.	मैंने वह तोड़ा।
+I broke that. (different meaning)	Ich habe das gebrochen.	मैंने उसे तोड़ दिया।
+I burp a lot.	Ich rülpsen viel.	मैं बहुत गुड़गुड़ाता हूँ।
+I called Tom.	Ich habe Tom angerufen.	मैंने टॉम को बुलाया।
+I called Tom. (different meaning)	Ich habe Tom genannt.	मैंने टॉम को नाम दिया।
+I called him.	Ich habe ihn angerufen.	मैंने उसे बुलाया।
+I can manage.	Ich kann es schaffen.	मैं संभाल सकता हूँ।
