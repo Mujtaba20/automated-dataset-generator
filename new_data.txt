@@ -16880,3 +16880,11 @@ I used to be lazy.	Früher war ich faul.	मैं पहले सुस्त 
 I usually do that.	Normalerweise mache ich das.	आमतौर पर मैं ऐसा करता हूँ।
 I usually eat out.	Ich esse normalerweise auswärts.	आमतौर पर मैं बाहर खाता हूँ।
 I want Tom to win.	Ich möchte, dass Tom gewinnt.	मुझे चाहिए कि टॉम जीते।
+I want a lot more.	Ich moechte noch viel mehr.	मुझे और भी ज्यादा चाहिए।
+I want a new bike.	Ich moechte ein neues Fahrrad.	मुझे एक नयी साइकिल चाहिए।
+I want a waterbed.	Ich moechte ein Wasserbett.	मुझे एक पानी का बिस्तर चाहिए।
+I want it to stop.	Ich moechte, dass es aufhoert.	मैं चाहता हूँ कि ये रुके।
+I want more money.	Ich moechte mehr Geld.	मुझे और पैसे चाहिए।
+I want some money.	Ich moechte etwas Geld.	मुझे कुछ पैसे चाहिए।
+I want some paper.	Ich moechte etwas Papier.	मुझे कुछ कागज चाहिए।
+I want some water.	Ich moechte etwas Wasser.	मुझे कुछ पानी चाहिए।
