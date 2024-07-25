@@ -7097,3 +7097,11 @@ This is my cat.	Das ist meine Katze.	यह मेरी बिल्ली ह�
 This is my cat.1	Das ist meine Katze.	यह मेरी पूसी है।
 This is my dad.	Das ist mein Vater.	यह मेरे पापा हैं।
 This is my dog.	Das ist mein Hund.	यह मेरा कुत्ता है।
+This is my job.	Das ist mein Job.	यह मेरा काम है।
+This is on you.	Das liegt an dir.	यह तुमपर है।
+This is simple.	Das ist einfach.	यह सरल है।
+This is stupid.	Das ist dumm.	यह मूर्ख है।
+This is theirs.	Das gehört ihnen.	यह उनका है।
+This isn't bad.	Das ist nicht schlecht.	यह बुरा नहीं है।
+This isn't fun.	Das macht keinen Spaß.	यह मजेदार नहीं है।
+This isn't new.	Das ist nicht neu.	यह नया नहीं है।
