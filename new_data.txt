@@ -19895,3 +19895,11 @@ Who gave you this?	Wer hat dir das gegeben?	तुम्हें यह कि�
 Who invented that?	Wer hat das erfunden?	उसे कौन बनाया?
 Who is that woman?	Wer ist diese Frau?	वह औरत कौन है?
 Who is the father?	Wer ist der Vater?	बाप कौन है?
+Who is this woman?	Wer ist diese Frau?	यह महिला कौन है?
+Who likes insects?	Wer mag Insekten?	कौन कीटाणुओं को पसंद करता है?
+Who made this box?	Wer hat diese Schachtel gemacht?	इस डंडे को किसने बनाया है?
+Who made this pie?	Wer hat diesen Kuchen gemacht?	इस पाई को किसने बनाया है?
+Who ordered pizza?	Wer hat Pizza bestellt?	पिज़्ज़ा आनुरोध किसने किया?
+Who says Tom knew?	Wer sagt, dass Tom wusste?	कौन कहता है कि टॉम जानता था?
+Who sent you that?	Wer hat dir das geschickt?	तुम्हें उसे किसने भेजा?
+Who speaks French?	Wer spricht Französisch?	कौन फ्रेंच बोलता है?

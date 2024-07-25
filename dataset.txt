@@ -1,14 +1,4 @@
 
-Who is this woman?	Wer ist diese Frau?	यह महिला कौन है?
-Who likes insects?	Wer mag Insekten?	कीटों को कौन पसंद करता है?
-Who made this box?	Wer hat diese Kiste hergestellt?	यह बॉक्स किसने बनाया?
-Who made this pie?	Wer hat diesen Kuchen gemacht?	यह केक किसने बनाया?
-Who ordered pizza?	Wer hat hier Pizza bestellt?	यहां पिज्जा का आदेश किसने किया?
-Who says Tom knew?	Wer behauptet, Tom wusste Bescheid?	कौन दावा करता है कि टॉम जानता था?
-Who sent you that?	Wer hat dir das geschickt?	आपको किसने भेजा?
-Who sent you that?	Wer hat Ihnen das geschickt?	आपको किसने भेजा?
-Who speaks French?	Wer spricht französisch?	फ्रेंच कौन बोलता है?
-Who speaks French?	Wer spricht Französisch?	फ्रेंच कौन बोलता है?
 Who swam with Tom?	Wer ist mit Tom geschwommen?	टॉम के साथ कौन झूलता है?
 Who told Tom that?	Wer hat das Tom gesagt?	टॉम ने किसने कहा?
 Who told Tom that?	Wer hat das Tom erzählt?	टॉम को किसने बताया?
