@@ -15180,3 +15180,13 @@ What month is it?	Welcher Monat ist es?	यह कौनसा महीना �
 What shall we do?	Was sollen wir tun?	हमें क्या करना चाहिए?
 What should I do?	Was soll ich tun?	मैं क्या करूँ?
 engSentence		
+What's Tom doing?	Was macht Tom?	टॉम क्या कर रहा है?
+What's Tom found?	Was hat Tom gefunden?	टॉमे ने क्या पाया है?
+What's Tom up to?	Was treibt Tom?	टॉम क्या कर रहा है?
+What's Tom's job?	Was ist Toms Job?	टॉम का क्या काम है?
+What's happening?	Was ist los?	क्या हो रहा है?
+What's it called?	Wie heißt es?	इसे क्या कहा जाता है?
+What's it to you?	Was geht es dich an?	तुम्हें इससे क्या मतलब है?
+What's on TV now?	Was läuft gerade im Fernsehen?	अभी टीवी पर क्या चल रहा है?
+What's she doing?	Was macht sie?	वह क्या कर रही है?
+What's that bird?	Was ist das für ein Vogel?	वह पंछी क्या है?
