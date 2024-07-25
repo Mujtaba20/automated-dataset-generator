@@ -16381,3 +16381,12 @@ I don't cook well.	Ich koche nicht gut.	मुझे अच्छे से ख�
 I don't deny that.	Das bestreite ich nicht.	मैं उसे इनकार नहीं करता।
 I don't drink rum.	Ich trinke keinen Rum.	मैं रम नहीं पीता।
 I don't earn much.	Ich verdiene nicht viel.	मुझे ज्यादा कमाई नहीं होती।
+I don't eat bacon.	Ich esse keinen Speck.	मैं बेकन नहीं खाता।
+I don't eat bread.	Ich esse kein Brot.	मैं रोटी नहीं खाता।
+I don't envy them.	Ich beneide sie nicht.	मैं उनकी इर्ष्या नहीं करता।
+I don't even care.	Es ist mir egal.	मुझे भी कोई फर्क नहीं पड़ता।
+I don't even vote.	Ich wähle nicht einmal.	मैं चुनाव में भी नहीं जाता।
+I don't ever sing.	Ich singe nie.	मैं कभी नहीं गाता।
+I don't feel well.	Mir geht es nicht gut.	मुझे अच्छा नहीं लग रहा है।
+I don't have kids.	Ich habe keine Kinder.	मेरे पास बच्चे नहीं हैं।
+I don't have that.	Das habe ich nicht.	मेरे पास यह नहीं है।
