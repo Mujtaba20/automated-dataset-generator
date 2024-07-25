@@ -9868,3 +9868,11 @@ English Sentence 7
 English Sentence 8		
 English Sentence 9		
 English Sentence 10		
+Stop hitting me.	Hör auf, mich zu schlagen.	मुझे मारना बंद करो।
+Stop texting me.	Hör auf, mir zu schreiben.	मुझे टेक्स्ट न करें।
+Stop right here.	Halten Sie hier an.	यहीं रुकें।
+Stop that woman.	Halt diese Frau.	उस महिला को रोको।
+Stop whimpering.	Hör auf zu wimmern.	रोना बंद करो।
+Summer has come.	Der Sommer ist gekommen.	गर्मी आ गई है।
+Sweep the floor.	Fegen Sie den Boden.	फर्श साफ करो।
+Take Tom inside.	Nimm Tom mit rein.	टॉम को अंदर ले जाओ।
