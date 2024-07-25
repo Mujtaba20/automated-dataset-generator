@@ -399,3 +399,11 @@ Tom died.	Tom verstarb.	टॉम की यातना हो गई।
 Tom fell.	Tom stürzte.	टॉम चौक गया।
 Tom knew.	Tom erkannte.	टॉम जानता था।
 Tom left.	Tom ging.	टॉम चला गया।
+Tom lied.	Tom hat gelogen.	टॉम झूठ बोला।
+Tom lies.	Tom lügt.	टॉम झूठ बोलता है।
+Tom lost.	Tom hat verloren.	टॉम हार गया।
+Tom paid.	Tom hat bezahlt.	टॉम ने भुगतान किया।
+Tom quit.	Tom hat aufgegeben.	टॉम ने छोड़ दिया।
+Tom sang.	Tom sang.	टॉम ने गाया।
+Tom spit.	Tom spuckte aus.	टॉम ने तुकड़े थूके।
+Tom swam.	Tom schwamm.	टॉम ने स्विम किया।
