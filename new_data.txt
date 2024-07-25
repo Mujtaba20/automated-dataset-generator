@@ -16510,3 +16510,12 @@ I have a question.	Ich habe eine Frage.	मेरे पास एक सवा�
 I have a red bike.	Ich habe ein rotes Fahrrad.	मेरे पास एक लाल साइकिल है।
 I have a sailboat.	Ich habe ein Segelboot.	मेरे पास एक पाल नाव है।
 I have a solution.	Ich habe eine Lösung.	मेरे पास एक समाधान है।
+I have an earache.	Ich habe Ohrenschmerzen.	मुझे कान का दर्द है।
+I have an old car.	Ich habe ein altes Auto.	मेरे पास एक पुरानी कार है।
+I have an opinion.	Ich habe eine Meinung.	मेरा कोई राय है।
+I have bad breath.	Ich habe schlechten Atem.	मुझसे करवट की सांस आती है।
+I have been loved.	Ich bin geliebt worden.	मैं प्यार किया गया हूँ।
+I have black eyes.	Ich habe schwarze Augen.	मेरी आँखें काली हैं।
+I have black hair.	Ich habe schwarze Haare.	मेरे पास काले बाल हैं।
+I have brown eyes.	Ich habe braune Augen.	मेरी आँखें भूरी हैं।
+I have brown hair.	Ich habe braune Haare.	मेरे पास भूरे बाल हैं।
