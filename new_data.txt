@@ -15326,3 +15326,9 @@ You are the best.	Du bist spitze.	तुम सबसे अच्छे हो�
 You are to blame.	Du bist schuld.	तुम दोषी हो।
 You are too late.	Du bist zu spät.	तुम बहुत देर से हो।
 You aren't alone.	Du bist nicht einsam.	तुम अकेले नहीं हो।
+You aren't crazy.	Du bist nicht verrückt.	तुम पागल नहीं हो।
+You aren't wrong.	Du hast nicht unrecht.	तुम गलत नहीं हो।
+You blew it, Tom.	Du hast es vermasselt, Tom.	तुमने इसे फुंक मार दिया, टॉम।
+You can all help.	Ihr könnt alle helfen.	तुम सब मदद कर सकते हो।
+You can look now.	Du kannst jetzt schauen.	तुम अब देख सकते हो।
+You can stop now.	Du kannst jetzt aufhören.	तुम अब रुक सकते हो।
