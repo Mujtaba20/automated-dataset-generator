@@ -1,14 +1,4 @@
 
-You aren't thirty.	Du bist keine 30.	आप 30 नहीं हैं।
-You bet I'm angry.	Klar bin ich wütend.	बेशक मैं गुस्से में हूँ।
-You bet I'm angry.	Und ob ich mich ärgere!	और अगर मैं नाराज हो जाता हूं!
-You broke the law.	Du hast gegen das Gesetz verstoßen.	आपने कानून का उल्लंघन किया।
-You came too late.	Du kamst zu spät.	आपको देर हो गई थी।
-You came too late.	Du bist zu spät gekommen.	आपको बहुत देर हो गई।
-You can afford it.	Sie können es sich leisten.	आप इसे बर्दाश्त कर सकते हैं।
-You can afford it.	Du kannst es dir leisten.	आप इसे बर्दाश्त कर सकते हैं।
-You can afford it.	Ihr könnt es euch leisten.	आप इसे बर्दाश्त कर सकते हैं।
-You can answer it.	Du kannst das beantworten.	आप इसका जवाब दे सकते हैं।
 You can cook here.	Hier kann man kochen.	आप यहां खाना बना सकते हैं।
 You can do better.	Das kannst du besser.	आप ऐसा बेहतर कर सकते हैं।
 You can have this.	Du kannst das hier haben.	आप यहां हो सकते हैं।

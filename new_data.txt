@@ -19990,3 +19990,13 @@ You are safe here.	Du bist hier sicher.	यहाँ तुम्हारी �
 You are so stupid.	Du bist so dumm.	तुम इतने मूर्ख हो।
 You are very rich.	Du bist sehr reich.	तुम बहुत धनवान हो।
 You aren't needed.	Du wirst nicht benötigt.	तुम्हें आवश्यक नहीं है।
+You aren't thirty.	Du bist nicht dreißig.	तुमतीस नहीं हो।
+You bet I'm angry.	Du kannst wetten, ich bin wütend.	तुम्हारा बिश्वास है कि मैं गुस्सा हूँ।
+You bet I'm angry. 2	Du setzt darauf, dass ich wütend bin.	तुम्हें गारंटी है कि मैं गुस्सा हूँ।
+You broke the law.	Du hast das Gesetz gebrochen.	तुमने कानून तोड़ा है।
+You came too late.	Du bist zu spät gekommen.	तुम बहुत देर से आये।
+You came too late. 2	Du kamst zu spät.	तुम बहुत देर से पहुँचे।
+You can afford it.	Du kannst es dir leisten.	तुमसे संभव है।
+You can afford it. 2	Du kannst es bezahlen.	तुम इसको खरीद सकते हो।
+You can afford it. 3	Sie können es sich leisten.	आप इसका सामना कर सकते हैं।
+You can answer it.	Du kannst es beantworten.	तुम इसका जवाब दे सकते हो।
