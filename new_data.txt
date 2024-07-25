@@ -19523,3 +19523,10 @@ We don't like you.	Wir mögen dich nicht.	हमें तुम्हारा 
 We don't need him.	Wir brauchen ihn nicht.	हमें उसकी जरुरत नहीं है।
 We don't need you.	Wir brauchen dich nicht.	हमें तुम्हें नहीं चाहिए।
 We finally did it.	Wir haben es endlich getan.	हम ने वह अंत में किया।
+We follow the law.	Wir befolgen das Gesetz.	हम कानून का पालन करते हैं।
+We go there often.	Wir gehen oft dorthin.	हम वहाँ अक्सर जाते हैं।
+We got dead drunk.	Wir wurden sturzbetrunken.	हम मरे हुए नशे में थे।
+We got into a car.	Wir stiegen in ein Auto ein.	हम एक गाड़ी में बैठ गए।
+We got up at dawn.	Wir standen bei Morgendämmerung auf.	हम भोर के समय उठे।
+We had no secrets.	Wir hatten keine Geheimnisse.	हमारे पास कोई राज नहीं थे।
+We have a big dog.	Wir haben einen großen Hund.	हमारे पास एक बड़ा कुत्ता है।

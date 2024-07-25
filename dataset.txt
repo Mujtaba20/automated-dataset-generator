@@ -1,14 +1,4 @@
 
-We follow the law.	Wir halten uns an das Gesetz.	हम कानून से चिपके रहते हैं।
-We go there often.	Wir gehen oft dorthin.	हम अक्सर वहां जाते हैं।
-We got dead drunk.	Wir wurden sturzbetrunken.	हम नशे में थे।
-We got into a car.	Wir stiegen in ein Auto.	हम एक कार में आ गए।
-We got into a car.	Wir sind in ein Auto gestiegen.	हम एक कार में चढ़ गए।
-We got up at dawn.	Wir standen im Morgengrauen auf.	हम भोर में उठे।
-We got up at dawn.	Wir sind im Morgengrauen aufgestanden.	हम भोर में उठे।
-We had no secrets.	Wir hatten keine Geheimnisse.	हमारे पास कोई रहस्य नहीं था।
-We had no secrets.	Wir hatten keine Geheimnisse voreinander.	हमारे पास एक दूसरे के सामने कोई रहस्य नहीं था।
-We have a big dog.	Wir haben einen großen Hund.	हमारे पास एक बड़ा कुत्ता है।
 We have a meeting.	Wir haben ein Meeting.	हमारी एक बैठक है।
 We have a problem.	Wir haben ein Problem.	हमारा एक समस्या है।
 We have a visitor.	Wir haben Besuch.	हमारे पास आगंतुक हैं।
