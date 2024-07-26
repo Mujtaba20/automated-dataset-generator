@@ -26715,3 +26715,9 @@ I took care of that.	Ich habe mich darum gekümmert.	मैंने उसक�
 I took my shirt off.	Ich habe mein Hemd ausgezogen.	मैंने अपनी कमीज़ उतारी।
 I took off my shirt.	Ich habe mein Shirt ausgezogen.	मैंने अपनी सर्ट उतारी।
 I took my shoes off.	Ich habe meine Schuhe ausgezogen.	मैंने अपने जूते उतारे।
+I took off my shoes.	Ich habe meine Schuhe ausgezogen.	मैंने अपने जूते निकाल दिए।
+I took the bus back.	Ich bin mit dem Bus zurückgefahren.	मैंने बस पकड़ी।
+I tore up the paper.	Ich habe das Papier zerrissen.	मैंने कागज फाड़ दिया।
+I tried not to look.	Ich habe versucht, nicht hinzusehen.	मैंने कोशिश की नहीं देखने की।
+I tried really hard.	Ich habe mich wirklich angestrengt.	मैंने वास्तव में कठिन प्रयास किया।
+I tried to help her.	Ich habe versucht, ihr zu helfen.	मैंने उसकी मदद करने की कोशिश की।
