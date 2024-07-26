@@ -30565,3 +30565,8 @@ Did Tom say anything?	Hat Tom etwas gesagt?	क्या टॉमने कु�
 Did Tom see anything?	Hat Tom etwas gesehen?	क्या टॉमने कुछ देखा?
 Did Tom speak French?	Hat Tom Französisch gesprochen?	क्या टॉमने फ्रेंच बोला?
 Did Tom talk to Mary?	Hat Tom mit Maria gesprochen?	क्या टॉमने मेरी से बात की?
+Did Tom tell someone?	Hat Tom jemandem erzählt?	क्या टॉमने किसी को बताया?
+Did Tom tell you why?	Hat Tom dir warum erzählt?	क्या टॉमने तुम्हें बताया क्यों?
+Did Tom threaten you?	Hat Tom dich bedroht?	क्या टॉमने तुम्हें धमकाया?
+Did Tom win the race?	Hat Tom das Rennen gewonnen?	क्या टॉमने रेस जीती?
+Did Tom work for you?	Hat Tom für dich gearbeitet?	क्या टॉमने तुम्हारे लिए काम किया?

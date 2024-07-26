@@ -1,15 +1,4 @@
 
-Did Tom tell someone?	Hat Tom es jemandem gesagt?	क्या टॉम ने किसी को बताया?
-Did Tom tell you why?	Hast du Tom den Grund genannt?	क्या आपने टॉम को कारण दिया?
-Did Tom tell you why?	Habt ihr Tom den Grund genannt?	क्या आपने कारण का उल्लेख किया है?
-Did Tom tell you why?	Haben Sie Tom den Grund genannt?	क्या आपने टॉम को कारण दिया?
-Did Tom threaten you?	Hat Tom dich bedroht?	क्या टॉम ने आपको धमकी दी?
-Did Tom threaten you?	Hat Tom euch bedroht?	क्या टॉम ने आपको धमकी दी?
-Did Tom threaten you?	Hat Tom Sie bedroht?	क्या टॉम ने आपको धमकी दी?
-Did Tom win the race?	Hat Tom das Rennen gewonnen?	क्या टॉम ने दौड़ जीती है?
-Did Tom work for you?	Hat Tom bei euch gearbeitet?	क्या टॉम ने आपके लिए काम किया?
-Did Tom work for you?	Hat Tom bei dir gearbeitet?	क्या टॉम ने आपके लिए काम किया?
-Did Tom work for you?	Hat Tom bei Ihnen gearbeitet?	क्या टॉम ने आपके लिए काम किया?
 Did somebody hit Tom?	Hat jemand Tom geschlagen?	क्या किसी ने टॉम को मारा है?
 Did somebody hit you?	Hat dich jemand geschlagen?	क्या किसी ने आपको मारा है?
 Did something happen?	Ist etwas passiert?	कुछ हुआ?
