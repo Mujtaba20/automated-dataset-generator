@@ -22916,3 +22916,13 @@ That's fair enough.	Das ist fair genug.	यह काफी उचित है�
 That's for suckers.	Das ist für Dummköpfe.	यह उनके लिए है जो बेवकूफ हैं।
 That's good advice.	Das ist ein guter Ratschlag.	यह एक अच्छी सलाह है।
 That's hard to say.	Das ist schwer zu sagen.	यह कहना मुश्किल है।
+That's how life is.	So ist das Leben.	ऐसा ही जीवन है।
+That's interesting.	Das ist interessant.	यह दिलचस्प है।
+That's just as bad.	Das ist genauso schlecht.	वह बस इतना ही बुरा है।
+That's my suitcase.	Das ist mein Koffer.	वह मेरा सूटकेस है।
+That's no surprise.	Das ist keine Überraschung.	यह कोई आश्चर्य नहीं है।
+That's not a tiger.	Das ist kein Tiger.	वह एक बाघ नहीं है।
+That's not allowed.	Das ist nicht erlaubt.	यह अनुमति नहीं है।
+That's not for Tom.	Das ist nicht für Tom.	यह टॉम के लिए नहीं है।
+That's not for you.	Das ist nicht für dich.	यह तुम्हारे लिए नहीं है।
+That's not healthy.	Das ist nicht gesund.	यह स्वस्थ नहीं है।
