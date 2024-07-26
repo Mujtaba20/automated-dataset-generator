@@ -30359,3 +30359,13 @@ Your zipper is open.	Dein Reißverschluss ist offen.	तुम्हारा �
 Yours is over there.	Deins ist da drüben.	तुम्हारा वहाँ है।
 Yours is over there. - Different Meaning	Deins ist dort drüben.	तुम्हारा उस ओर है।
 Yours is over there. - Another Different Meaning	Deins ist weiter da drüben.	तुम्हारा वहाँ ही है।
+Zebras have stripes.	Zebras haben Streifen.	ज़ेब्रा धारित हैं।
+Zucchinis are green.	Zucchini sind grün.	ज़ुकिनी हरी हैं।
+Hi, Tom said shyly.	Hallo, sagte Tom schüchtern.	नमस्ते, टॉम शर्मिंदा होकर बोला।
+A cat has nine lives.	Eine Katze hat neun Leben.	एक बिल्ली के नौ जिंदगी होती हैं।
+A dog is barking now.	Ein Hund bellt jetzt.	एक कुत्ता अब भौक रहा हैं।
+A horse is an animal.	Ein Pferd ist ein Tier.	घोड़ा एक पशु हैं।
+A man must be honest.	Ein Mann muss ehrlich sein.	एक आदमी होशियार होना चाहिए।
+A man must be honest. - Different Meaning	Ein Mensch muss ehrlich sein.	एक व्यक्ति ईमानदार होना चाहिए।
+A piano is expensive.	Ein Klavier ist teuer.	एक पियानो महंगा हैं।
+A squid has ten legs.	Ein Tintenfisch hat zehn Beine.	एक स्क्विड दस पैर हैं।
