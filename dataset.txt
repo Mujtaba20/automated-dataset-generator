@@ -1,16 +1,4 @@
 
-I haven't lied to you.	Ich habe dich nicht angelogen.	मैने तुमसे झूठ नहीं बोला।
-I haven't lied to you.	Ich habe Sie nicht belogen.	मैंने उससे झूठ नहीं बोला।
-I hear someone coming.	Ich höre jemanden kommen.	मैंने किसी को आते सुना।
-I heard Tom screaming.	Ich habe Tom schreien hören.	मैंने टॉम चिल्लाते हुए सुना।
-I heard a nightingale.	Ich habe eine Nachtigall gehört.	मैंने एक नाइटिंगेल सुना।
-I heard it might snow.	Ich habe gehört, es schneit vielleicht.	मैंने सुना है शायद यह बर्फबारी है।
-I heard the bell ring.	Ich hörte es läuten.	मैंने इसे बजते हुए सुना।
-I heard the door open.	Ich hörte, wie sich die Tür öffnete.	मैंने सुना है दरवाजा खोला।
-I heard the door slam.	Ich hörte das Schlagen der Tür.	मैंने दरवाजे की हिट सुनी।
-I heard the good news.	Ich habe die gute Nachricht vernommen.	मैंने अच्छी खबर सुनी।
-I heard the good news.	Ich habe die gute Nachricht gehört.	मैंने अच्छी खबर सुनी।
-I heard the good news.	Ich hörte die gute Nachricht.	मैंने अच्छी खबर सुनी।
 I heard what happened.	Ich habe gehört, was passiert ist.	मैंने सुना कि क्या हुआ।
 I heard you were rich.	Ich habe gehört, du seiest reich.	मैंने सुना है तुम अमीर हो।
 I heard you were rich.	Ich habe gehört, Sie seien reich.	मैंने सुना कि वे अमीर हैं।

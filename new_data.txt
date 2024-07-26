@@ -37517,3 +37517,12 @@ I have to walk slowly.	Ich muss langsam gehen.	मुझे धीरे चल�
 I have very long hair.	Ich habe sehr langes Haar.	मेरे पास बहुत लम्बे बाल हैं।
 I haven't decided yet.	Ich habe noch nicht entschieden.	मैंने अभी तक निर्णय नहीं किया है।
 I haven't got all day.	Ich habe nicht den ganzen Tag.	मेरे पास पूरे दिन का समय नहीं है।
+I haven't lied to you.	Ich habe dich nicht belogen.	मैंने तुमसे कभी झूठ नहीं बोला।
+I hear someone coming.	Ich höre jemanden kommen.	मैं किसी को आने की ध्वनि सुन रहा हूँ।
+I heard Tom screaming.	Ich hörte Tom schreien.	मैंने टॉम को चिल्लाते हुए सुना।
+I heard a nightingale.	Ich hörte eine Nachtigall.	मैंने बुलबुल की ध्वनि सुनी।
+I heard it might snow.	Ich hörte, es könnte schneien.	मैंने सुना कि शायद बर्फ गिर सकती है।
+I heard the bell ring.	Ich hörte die Glocke läuten.	मैंने घंटी बजते हुए सुना।
+I heard the door open.	Ich hörte die Tür öffnen.	मैंने दरवाजे खुलते हुए सुना।
+I heard the door slam.	Ich hörte die Tür zuschlagen.	मैंने दरवाजे को जड़ से बंद करते हुए सुना।
+I heard the good news.	Ich hörte die guten Nachrichten.	मैंने अच्छी खबरें सुनी।
