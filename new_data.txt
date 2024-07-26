@@ -25597,3 +25597,11 @@ He became a pianist.	Er wurde Pianist.	उसने पियानिस्ट 
 He became irritated.	Er wurde gereizt.	उसने चिढ़ाना शुरू कर दिया।
 He began a new life.	Er begann ein neues Leben.	उसने एक नया जीवन शुरू किया।
 He bought a new car.	Er kaufte ein neues Auto.	उसने एक नई कार खरीदी।
+He bought a thimble.	Er kaufte einen Fingerhut.	उसने एक मोजा खरीदा।
+He bought her a dog.	Er kaufte ihr einen Hund.	उसने उसके लिए एक कुत्ता खरीदा।
+He bragged about it.	Er prahlte damit.	उसने इसकी शान में बातें की।
+He broke the window.	Er hat das Fenster zerbrochen.	उसने खिड़की तोड़ दी।
+He burst into tears.	Er brach in Tränen aus.	उसने रोना शुरू कर दिया।
+He called me a taxi.	Er rief mir ein Taxi.	उसने मुझे एक टैक्सी बुलवाई।
+He came home at ten.	Er kam um zehn nach Hause.	वह दस बजे घर आया।
+He can be relied on.	Auf ihn kann man zählen.	उस पर विश्वास किया जा सकता है।
