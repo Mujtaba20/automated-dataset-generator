@@ -1,14 +1,4 @@
 
-I'm the new teacher.	Ich bin der neue Lehrer.	मैं नया शिक्षक हूं।
-I'm the victim here.	Ich bin hier das Opfer.	मैं यहां पीड़ित हूं।
-I'm thinking of you.	Ich denke an dich.	मैं तुम्हे ही याद कर रहा था।
-I'm tired of Boston.	Ich bin Boston leid.	मुझे बोस्टन के लिए खेद है।
-I'm tired of losing.	Ich bin es müde zu verlieren.	मैं हारने के लिए थक गया हूं।
-I'm too old for you.	Ich bin zu alt für dich.	मैं आपके लिये काफी बुढ़ा हूँ।
-I'm traveling alone.	Ich reise alleine.	मैं अकेले यात्रा करता हूं।
-I'm traveling alone.	Ich reise allein.	मैं अकेले यात्रा करता हूं।
-I'm traveling light.	Ich reise mit leichtem Gepäck.	मैं हल्के सामान के साथ यात्रा करता हूं।
-I'm trying to sleep.	Ich versuche zu schlafen.	मैं सोने की कोशिश कर रहा हूँ।
 I'm trying to study.	Ich versuche zu lernen.	मैं सीखने की कोशिश करता हूँ।
 I'm up in the attic.	Ich bin auf dem Dachboden.	मैं अटारी में हूं।
 I'm used to waiting.	Ich bin es gewohnt zu warten.	मुझे इंतजार करने की आदत है।

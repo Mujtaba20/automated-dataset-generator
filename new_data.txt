@@ -27150,3 +27150,12 @@ I'm taller than Tom.	Ich bin größer als Tom.	मैं टॉम से ऊँ
 I'm taller than you.	Ich bin größer als du.	मैं तुमसे ऊँचा हूँ।
 I'm taller than you.1	Ich bin größer als Sie.	मैं आपसे ऊँचा हूँ।
 I'm teaching French.	Ich unterrichte Französisch.	मैं फ्रेंच पढ़ा रहा हूँ।
+I'm the new teacher.	Ich bin der neue Lehrer.	मैं नया शिक्षक हूँ।
+I'm the victim here.	Ich bin hier das Opfer.	मैं यहाँ पीड़ित हूँ।
+I'm thinking of you.	Ich denke an dich.	मैं तुम्हें सोच रहा हूँ।
+I'm tired of Boston.	Ich habe genug von Boston.	मुझे बॉस्टन से तंग आ गया है।
+I'm tired of losing.	Ich bin es leid zu verlieren.	मुझे हारने से थक गया हूँ।
+I'm too old for you.	Ich bin zu alt für dich.	मैं तुम्हारे लिए बहुत बूढ़ा हूँ।
+I'm traveling alone.	Ich reise alleine.	मैं अकेले सफर कर रहा हूँ।
+I'm traveling light.	Ich reise leicht.	मैं हल्के सामान के साथ सफर कर रहा हूँ।
+I'm trying to sleep.	Ich versuche zu schlafen.	मैं सोने की कोशिश कर रहा हूँ।
