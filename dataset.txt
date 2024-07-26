@@ -1,14 +1,4 @@
 
-I know what I like.	Ich weiß, was ich mag.	मुझे पता है कि मुझे क्या पसंद है।
-I know what I said.	Ich weiß, was ich gesagt habe.	मुझे पता है कि मैंने क्या कहा।
-I know what I want.	Ich weiß, was ich will.	मुझे पता है कि मेरी चाहत क्या है।
-I know what I'd do.	Ich weiß, was ich tun würde.	मुझे पता है कि मैं क्या करूंगा।
-I know what he did.	Ich weiß, was er getan hat.	मुझे पता है कि उसने क्या किया।
-I know what he did.	Ich weiß, was er tat.	मुझे पता है कि वह क्या कर रहा था।
-I know what it was.	Ich weiß, was es war.	मुझे पता है कि यह क्या था।
-I know what to say.	Ich weiß, was zu sagen ist.	मुझे पता है कि क्या कहना है।
-I know what you do.	Ich weiß, was du tust.	मुझे पता है कि आप क्या कर रहे हैं।
-I know what's best.	Ich weiß, was am besten ist.	मुझे पता है कि सबसे अच्छा क्या है।
 I know where he is.	Ich weiß, wo er ist.	मुझे पता है कि वह कहाँ है।
 I know where it is.	Ich weiß, wo sie ist.	मुझे पता है कि वह कहाँ है।
 I know where it is.	Ich weiß, wo er ist.	मुझे पता है कि वह कहाँ है।
