@@ -1,14 +1,4 @@
 
-He has a little money.	Er hat ein bisschen Geld.	उसके पास थोड़ा पैसा है।
-He has a little money.	Er hat ein wenig Geld.	उसके पास थोड़ा पैसा है।
-He has a lot of books.	Er hat eine Menge Bücher.	उसके पास बहुत सारी किताबें हैं।
-He has a lot of money.	Er hat viel Geld.	उसके पास बहुत पैसे हैं।
-He has a lot of money.	Er hat einen Haufen Geld.	उसके पास बहुत पैसे हैं।
-He has a perfect body.	Er hat einen perfekten Körper.	उसका एक आदर्श शरीर है।
-He has a strange name.	Er hat einen seltsamen Namen.	उसका एक अजीब नाम है।
-He has absolute power.	Er hat die absolute Macht.	उसके पास पूर्ण शक्ति है।
-He has an eye for art.	Er hat einen Blick für Kunst.	वह कला के लिए एक नज़र है।
-He has just come back.	Er ist gerade zurückgekommen.	वह बस वापस आ गया।
 He has just come home.	Er ist gerade nach Hause gekommen.	वह बस घर आया था।
 He has just left home.	Er hat gerade das Haus verlassen.	वह सिर्फ घर छोड़ दिया।
 He has three brothers.	Er hat drei Brüder.	उसके तीन भाई हैं।

@@ -36733,3 +36733,11 @@ He had to stay in bed.	Er musste im Bett bleiben.	उसे बिस्तर �
 He has a Japanese car.	Er hat ein japanisches Auto.	उसके पास एक जापानी कार है।
 He has a drug allergy.	Er hat eine Medikamentenallergie.	उसको दवा की एलर्जी है।
 He has a large family.	Er hat eine große Familie.	उसका परिवार बड़ा है।
+He has a little money.	Er hat ein bisschen Geld.	उसके पास थोड़े पैसे हैं।
+He has a lot of books.	Er hat viele Bücher.	उसके पास बहुत सारी किताबें हैं।
+He has a lot of money.	Er hat viel Geld.	उसके पास बहुत पैसे हैं।
+He has a perfect body.	Er hat einen perfekten Körper.	उसकी एक पूरी तरह से सही शरीर है।
+He has a strange name.	Er hat einen seltsamen Namen.	उसका एक अजीब नाम है।
+He has absolute power.	Er hat absolute Macht.	उसके पास पूर्ण शक्ति है।
+He has an eye for art.	Er hat ein Auge für Kunst.	उसके पास कला के लिए एक नजर है।
+He has just come back.	Er ist gerade zurückgekommen.	वह अभी वापस आया है।
