@@ -33316,3 +33316,11 @@ She bought a tea set.	Sie kaufte ein Teeservice.	उसने एक चाय �
 She bought him a car.	Sie kaufte ihm ein Auto.	उसने उसे एक कार खरीदी।
 She bought him a dog.	Sie kaufte ihm einen Hund.	उसने उसे एक कुत्ता खरीदा।
 She broke into tears.	Sie brach in Tränen aus.	उसने रोना शुरू कर दिया।
+She burst into tears.	Sie brach in Tränen aus.	उसने रोना शुरू किया।
+She can hardly speak.	Sie kann kaum sprechen.	उसे मुश्किल से बोलना आता है।
+She can speak French.	Sie kann Französisch sprechen.	वह फ्रेंच बोल सकती है।
+She did it carefully.	Sie hat es vorsichtig gemacht.	उसने इसे सावधानी से किया।
+She didn't buy bread.	Sie kaufte kein Brot.	उसने ब्रेड नहीं खरीदा।
+She drives very fast.	Sie fährt sehr schnell.	वह बहुत तेज़ी से चलती है।
+She failed to appear.	Sie erschien nicht.	उसे प्रकट होने में विफलता हुई।
+She fell on her face.	Sie fiel auf ihr Gesicht.	उसने अपने चेहरे पर गिर गई।
