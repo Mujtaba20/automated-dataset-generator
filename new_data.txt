@@ -22623,3 +22623,8 @@ People are strange.	Menschen sind seltsam.	लोग विचित्र ह�
 People are talking.	Die Leute reden.	लोग बात कर रहे हैं।
 People like my mom.	Leute mögen meine Mutter.	लोग मेरी माँ को पसंद करते हैं।
 Pick me up at 2:30.	Hole mich um 2:30 Uhr ab.	2:30 बजे मुझे पहुंचा दो।
+Pick up your trash.	Räumen Sie Ihren Müll auf.	अपने कचरे को उठाओ।
+Please call a taxi.	Bitte rufen Sie ein Taxi an.	कृपया टैक्सी बुलाएं।
+Please call him up.	Bitte ruf ihn an.	कृपया उसे कॉल करें।
+Please call me Tom.	Bitte nenn mich Tom.	कृपया मुझे टॉम कहें।
+Please come inside.	Bitte komm herein.	कृपया अंदर आइए।

@@ -1,14 +1,4 @@
 
-Pick up your trash.	Hebe deinen Müll auf!	अपना कचरा उठाओ!
-Please call a taxi.	Rufen Sie bitte ein Taxi!	कृपया एक टैक्सी बुलाओ!
-Please call him up.	Bitte ruf ihn an.	कृपया उसे फोन करें।
-Please call him up.	Bitte ruft ihn an.	कृपया उसे फोन करें।
-Please call me Tom.	Bitte nennt mich Tom.	कृपया मुझे टॉम कहें।
-Please call me Tom.	Bitte nennen Sie mich Tom.	कृपया मुझे टॉम कहें।
-Please call me Tom.	Sag bitte Tom zu mir.	कृपया मुझे टॉम कहें।
-Please come inside.	Bitte komm herein!	कृपया अंदर आएं!
-Please come inside.	Bitte kommen Sie herein!	कृपया अंदर आएं!
-Please come inside.	Bitte kommt herein!	कृपया अंदर आएं!
 Please do as I say.	Tu bitte, was ich sage!	कृपया मैं क्या कहता हूं!
 Please do that now.	Tun Sie das bitte jetzt!	कृपया अब ऐसा करें!
 Please do that now.	Tue das bitte jetzt!	कृपया अब ऐसा करें!
