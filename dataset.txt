@@ -1,14 +1,4 @@
 
-I clapped my hands.	Ich klatschte.	मैंने ताली बजाई।
-I closed the doors.	Ich machte die Türen zu.	मैंने दरवाजे बंद कर दिए।
-I come from Boston.	Ich komme aus Boston.	मैं बोस्टन से आता हूं।
-I confessed my sin.	Ich beichtete meine Sünde.	मैंने अपना पाप कबूल किया।
-I corrected myself.	Ich korrigierte mich.	मैंने खुद को सही किया।
-I coughed up blood.	Ich hustete Blut.	मैंने खून खाया।
-I could do nothing.	Ich konnte nichts tun.	मैं कुछ नहीं कर सकता था।
-I could go to jail.	Ich könnte ins Gefängnis gehen.	मैं जेल जा सकता था।
-I could not refuse.	Ich konnte nicht ablehnen.	मैं मना नहीं कर सका।
-I couldn't breathe.	Ich konnte nicht atmen.	मैं सांस नहीं ले सकता।
 I couldn't deny it.	Ich konnte es nicht leugnen.	मैं इससे इनकार नहीं कर सकता।
 I couldn't deny it.	Ich konnte es nicht abstreiten.	मैं इससे इनकार नहीं कर सकता।
 I couldn't help it.	Ich konnte nichts dagegen tun.	मैं इसके बारे में कुछ नहीं कर सकता था।

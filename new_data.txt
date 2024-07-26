@@ -21124,3 +21124,13 @@ I can't stand rats.	Ich kann keine Ratten ertragen.	मैं चूहों �
 I can't stand that.	Ich kann das nicht ab!	मैं उसे सहन नहीं कर सकता।
 I changed my shirt.	Ich habe mein Hemd gewechselt.	मैंने अपनी कमीज़ बदल दी।
 I checked it twice.	Ich habe es zweimal überprüft.	मैंने इसे दो बार जांचा।
+I clapped my hands.	Ich klatschte in die Hände.	मैंने हाथ पीटे।
+I closed the doors.	Ich schloss die Türen.	मैंने दरवाज़े बंद कर दिए।
+I come from Boston.	Ich komme aus Boston.	मैं बोस्टन से आया हूँ।
+I confessed my sin.	Ich gestand meine Sünde.	मैंने अपना पाप स्वीकार किया।
+I corrected myself.	Ich habe mich korrigiert.	मैंने अपने आप को सुधार लिया।
+I coughed up blood.	Ich hustete Blut hoch.	मैंने खून खांसा।
+I could do nothing.	Ich konnte nichts tun.	मैं कुछ नहीं कर सकता था।
+I could go to jail.	Ich könnte ins Gefängnis gehen.	मैं जेल जा सकता था।
+I could not refuse.	Ich konnte nicht ablehnen.	मैंने मना नहीं किया।
+I couldn't breathe.	Ich konnte nicht atmen.	मैं साँस नहीं ले सका।
