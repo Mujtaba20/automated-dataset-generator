@@ -1,14 +1,4 @@
 
-How wide is this river?	Wie breit ist dieser Fluss?	यह नदी कितनी चौड़ी है?
-How will you stop them?	Wie willst du sie aufhalten?	आप उन्हें कैसे रोकना चाहते हैं?
-How would you help Tom?	Wie würdest du Tom helfen?	आप टॉम की मदद कैसे करेंगे?
-How're they doing that?	Wie machen sie das?	आप उसे कैसे करते हैं?
-How's your mother, Tom?	Wie geht es deiner Mutter, Tom?	आपकी माँ, टॉम कैसी है?
-Hunting season is over.	Die Jagdsaison ist vorbei.	शिकार का मौसम खत्म हो गया है।
-I accept this proposal.	Ich nehme diesen Vorschlag an.	मैं इस सुझाव को स्वीकार करता हूं।
-I accept this proposal.	Ich nehme diesen Antrag an.	मैं इस आवेदन को स्वीकार करता हूं।
-I actually saw a ghost.	Ich habe tatsächlich ein Gespenst gesehen.	मैंने वास्तव में एक भूत देखा।
-I admire your ambition.	Ich bewundere deinen Ehrgeiz.	मैं आपकी महत्वाकांक्षा की प्रशंसा करता हूं।
 I admire your optimism.	Ich bewundere deinen Optimismus.	मैं आपके आशावाद की प्रशंसा करता हूं।
 I admire your optimism.	Ich bewundere Ihren Optimismus.	मैं आपके आशावाद की प्रशंसा करता हूं।
 I admire your optimism.	Ich bewundere euren Optimismus.	मैं आपके आशावाद की प्रशंसा करता हूं।
