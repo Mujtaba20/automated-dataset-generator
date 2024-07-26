@@ -25244,3 +25244,10 @@ Come back in a week.	Kommen Sie in einer Woche zurück.	एक हफ्ते �
 Come sit next to me.	Komm setzen Sie sich neben mich.	मेरे पास आकर बैठिए।
 Competition is good.	Wettbewerb ist gut.	प्रतियोगिता अच्छी है।
 Contact me tomorrow.	Kontaktieren Sie mich morgen.	कल मुझसे संपर्क करें।
+Could it be a virus?	Könnte es ein Virus sein?	क्या यह वायरस हो सकता है?
+Could you elaborate?	Könnten Sie es näher erläutern?	क्या आप विस्तार से व्याख्या कर सकते हैं?
+Could you sign here?	Könnten Sie hier unterschreiben?	क्या आप यहाँ हस्ताक्षर कर सकते हैं?
+Could you sign this?	Könnten Sie das unterschreiben?	क्या आप इसे हस्ताक्षर कर सकते हैं?
+Cyprus is an island.	Zypern ist eine Insel.	साइप्रस एक द्वीप है।
+Death is inevitable.	Der Tod ist unvermeidlich.	मौत अटल है।
+Delete that picture.	Löschen Sie dieses Bild.	उस चित्र को हटाएं।

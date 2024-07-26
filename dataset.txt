@@ -1,15 +1,4 @@
 
-Could it be a virus?	Könnte es sich um ein Virus handeln?	क्या यह एक वायरस हो सकता है?
-Could you elaborate?	Könnten Sie das näher ausführen?	क्या आप इसे और अधिक विस्तार से कर सकते हैं?
-Could you sign here?	Können Sie hier unterschreiben?	क्या यहाँ हस्ताक्षर करेंगे?
-Could you sign this?	Kannst du das hier unterschreiben?	क्या आप इस पर हस्ताक्षर कर सकते हैं?
-Could you sign this?	Können Sie das hier unterschreiben?	क्या आप इस पर हस्ताक्षर कर सकते हैं?
-Cyprus is an island.	Zypern ist eine Insel.	साइप्रस एक द्वीप है।
-Death is inevitable.	Der Tod ist unvermeidlich.	मृत्यु अपरिहार्य है।
-Death is inevitable.	Der Tod ist unausweichlich.	मृत्यु अपरिहार्य है।
-Delete that picture.	Lösche das Bild.	चित्र हटाएं।
-Delete that picture.	Löscht das Bild.	तस्वीर हटाता है।
-Delete that picture.	Löschen Sie das Bild.	छवि हटाएं।
 Demand is very high.	Der Bedarf ist sehr hoch.	जरूरत बहुत अधिक है।
 Destroy this temple.	Zerstört diesen Tempel.	इस मंदिर को नष्ट करें।
 Destroy this temple.	Zerstöre diesen Tempel.	इस मंदिर को नष्ट करें।
