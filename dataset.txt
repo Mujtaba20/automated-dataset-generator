@@ -1,15 +1,4 @@
 
-Demand is very high.	Der Bedarf ist sehr hoch.	जरूरत बहुत अधिक है।
-Destroy this temple.	Zerstört diesen Tempel.	इस मंदिर को नष्ट करें।
-Destroy this temple.	Zerstöre diesen Tempel.	इस मंदिर को नष्ट करें।
-Did I embarrass you?	Habe ich dich in Verlegenheit gebracht?	क्या मैंने आपको शर्मिंदा किया?
-Did I embarrass you?	Habe ich Sie in Verlegenheit gebracht?	क्या मैंने उन्हें शर्मिंदा किया?
-Did I lock the door?	Habe ich die Tür abgeschlossen?	क्या मैंने दरवाजा पूरा किया?
-Did I mess up again?	Habe ich wieder Mist gebaut?	क्या मैंने फिर से बकवास बनाया?
-Did I miss anything?	Habe ich etwas verpasst?	क्या मुझसे कुछ छूटा?
-Did I pass the test?	Habe ich den Test bestanden?	क्या मैंने परीक्षण पास किया?
-Did I pass the test?	Habe ich die Prüfung bestanden?	क्या मैंने परीक्षा पास की?
-Did I pass the test?	Habe ich bestanden?	क्या मैंने पास किया?
 Did I touch a nerve?	Habe ich eine empfindliche Stelle getroffen?	क्या मैंने एक संवेदनशील क्षेत्र मारा?
 Did I touch a nerve?	Habe ich einen empfindlichen Nerv getroffen?	क्या मैंने एक संवेदनशील तंत्रिका मारा?
 Did I touch a nerve?	Habe ich da eine empfindliche Stelle getroffen?	क्या मैंने एक संवेदनशील क्षेत्र मारा?

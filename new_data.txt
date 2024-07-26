@@ -25251,3 +25251,10 @@ Could you sign this?	Könnten Sie das unterschreiben?	क्या आप इस
 Cyprus is an island.	Zypern ist eine Insel.	साइप्रस एक द्वीप है।
 Death is inevitable.	Der Tod ist unvermeidlich.	मौत अटल है।
 Delete that picture.	Löschen Sie dieses Bild.	उस चित्र को हटाएं।
+Demand is very high.	Die Nachfrage ist sehr hoch.	मांग बहुत अधिक है।
+Destroy this temple.	Zerstöre diesen Tempel.	इस मंदिर को तोड़ दो।
+Did I embarrass you?	Habe ich dich verlegen gemacht?	क्या मैंने तुम्हें शर्मिंदा किया?
+Did I lock the door?	Habe ich die Tür abgeschlossen?	क्या मैंने दरवाजा बंद किया था?
+Did I mess up again?	Habe ich wieder etwas durcheinander gebracht?	क्या मैंने फिर से गड़बड़ कर दी?
+Did I miss anything?	Habe ich etwas verpasst?	क्या मैंने कुछ छूट दिया?
+Did I pass the test?	Habe ich das Examen bestanden?	क्या मैंने टेस्ट पास किया है?
