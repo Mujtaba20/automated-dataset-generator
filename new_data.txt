@@ -30267,3 +30267,9 @@ You'll feel at home.	Du wirst dich wie zu Hause fühlen.	तुम घर जै
 You'll find it easy.	Du wirst es einfach finden.	तुम्हें यह आसान लगेगा।
 You'll never change.	Du wirst dich nie ändern.	तुम कभी नहीं बदलोगे।
 You'll never see it.	Du wirst es nie sehen.	तुम कभी यह नहीं देखोगे।
+You'll pay for that.	Du wirst dafür bezahlen.	तुम इसके लिए भुगतोगे।
+You'll pay for this.	Du wirst dafür bezahlen.	तुम इसके लिए भुगतोगे।
+You'll see it again.	Du wirst es wieder sehen.	तुम इसे फिर से देखोगे।
+You're a bad person.	Du bist eine schlechte Person.	तुम एक बुरे इंसान हो।
+You're a bright boy.	Du bist ein heller Junge.	तुम एक तेज लड़का हो।
+You're a funny girl.	Du bist ein lustiges Mädchen.	तुम एक मजेदार लड़की हो।

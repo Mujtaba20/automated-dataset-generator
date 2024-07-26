@@ -1,14 +1,4 @@
 
-You'll pay for that.	Dafür wirst du bezahlen!	आप इसके लिए भुगतान करेंगे!
-You'll pay for that.	Dafür werden Sie bezahlen!	आप इसके लिए भुगतान करेंगे!
-You'll pay for that.	Dafür werdet ihr bezahlen!	आप इसके लिए भुगतान करेंगे!
-You'll pay for this.	Dafür wirst du bezahlen!	आप इसके लिए भुगतान करेंगे!
-You'll pay for this.	Dafür werden Sie bezahlen!	आप इसके लिए भुगतान करेंगे!
-You'll pay for this.	Dafür werdet ihr bezahlen!	आप इसके लिए भुगतान करेंगे!
-You'll see it again.	Du wirst es wieder sehen.	आप इसे फिर से देखेंगे।
-You're a bad person.	Sie sind ein schlechter Mensch.	आप एक बुरे इंसान हैं।
-You're a bright boy.	Du bist ein kluger Junge.	आप एक चतुर लड़के हैं।
-You're a funny girl.	Du bist ein lustiges Mädchen.	आप एक मजेदार लड़की हैं।
 You're a part of me.	Du bist ein Teil von mir.	तुम मेरा एक हिस्सा हो।
 You're a workaholic.	Du bist ein Arbeitshai.	आप एक कामकाजी शार्क हैं।
 You're a workaholic.	Du bist arbeitswütig.	आप उत्साही हैं।
