@@ -25657,3 +25657,13 @@ He has a nose bleed.	Er hat Nasenbluten.	उसकी नाक से खून
 He has a round face.	Er hat ein rundes Gesicht.	उसका गोल चेहरा है।
 He has a second job.	Er hat einen Zweitjob.	उसकी दूसरी नौकरी है।
 He has a warm heart.	Er hat ein warmes Herz.	उसका गर्म दिल है।
+He has acted wisely.	Er hat klug gehandelt.	उसने समझदारी से काम किया है।
+He has big problems.	Er hat große Probleme.	उसके पास बड़ी समस्याएं हैं।
+He has enough money.	Er hat genug Geld.	उसके पास पर्याप्त धन है।
+He has gone too far.	Er ist zu weit gegangen.	वह बहुत आगे चल गया है।
+He has his own room.	Er hat sein eigenes Zimmer.	उसका अपना कमरा है।
+He has lost his job.	Er hat seinen Job verloren.	उसने अपनी नौकरी खो दी है।
+He has many friends.	Er hat viele Freunde.	उसके बहुत सारे दोस्त हैं।
+He has many talents.	Er hat viele Talente.	उसके पास कई प्रतिभाएं हैं।
+He has two Picassos.	Er hat zwei Picassos.	उसके पास दो पिकासो हैं।
+He hates air travel.	Er hasst Flugreisen.	उसे हवाई यात्रा से नफरत है।
