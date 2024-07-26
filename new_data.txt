@@ -22680,3 +22680,12 @@ Shall we stop soon?	Sollen wir bald anhalten?	क्या हम जल्द�
 Shaving takes time.	Das Rasieren braucht Zeit.	शेविंग में समय लगता है।
 She almost drowned.	Sie ist fast ertrunken.	उसने लगभग डूबने का सामना किया।
 She always says no.	Sie sagt immer nein.	वह हमेशा ना कहती है।
+She ate her dinner.	Sie aß ihr Abendessen.	उसने अपनी रात का खाना खाया।
+She began to sweat.	Sie begann zu schwitzen.	उसने पसीना छोड़ना शुरू किया।
+She blew her lines.	Sie vermasselte ihre Linien.	उसने अपनी पंक्ति का स्पष्टीकरण गंवा दिया।
+She bought chicken.	Sie kaufte Hähnchen.	उसने मुर्गा खरीदा।
+She broke my heart.	Sie brach mir das Herz.	उसने मेरे दिल को तोड़ दिया।
+She came to my aid.	Sie kam mir zu Hilfe.	उसने मेरी मदद के लिए आया।
+She came to see me.	Sie kam mich besuchen.	वह मुझसे मिलने आई।
+She cannot stop it.	Sie kann es nicht stoppen.	वह इसे रोक नहीं सकती।
+She cannot stop me.	Sie kann mich nicht aufhalten.	वह मुझे नहीं रोक सकती।
