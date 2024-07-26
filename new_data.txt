@@ -38881,3 +38881,12 @@ My mother is Canadian.	Meine Mutter ist Kanadierin.	मेरी माँ क�
 My mother loves music.	Meine Mutter liebt Musik.	मेरी माँ को संगीत से प्यार है।
 My mother was furious.	Meine Mutter war wütend.	मेरी माँ बहुत नाराज थी।
 My neck is a bit sore.	Mein Nacken ist ein wenig wund.	मेरी गर्दन थोड़ी चुभनेवाली है।
+My parents don't know.	Meine Eltern haben keine Ahnung.	मेरे माता-पिता नहीं पता।
+My phone doesn't work.	Mein Telefon funktioniert nicht.	मेरा फोन काम नहीं कर रहा है।
+My phone is vibrating.	Mein Telefon vibriert.	मेरा फोन गूंज रहा है।
+My prayers were heard.	Meine Gebete wurden erhört.	मेरी प्रार्थनाएँ सुनी गई थी।
+My right hand is numb.	Meine rechte Hand ist taub.	मेरा दाहिना हाथ सुन्न है।
+My room is just below.	Mein Zimmer ist direkt unten.	मेरा कमरा सीधे नीचे है।
+My room is very small.	Mein Zimmer ist sehr klein.	मेरा कमरा बहुत छोटा है।
+My shoes are worn out.	Meine Schuhe sind abgenutzt.	मेरे जूते घिस गए हैं।
+My shopping bag broke.	Meine Einkaufstasche ist kaputtgegangen.	मेरी खरीदारी की थैली टूट गई।
