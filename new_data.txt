@@ -26045,3 +26045,13 @@ I answered the door.	Ich habe die Tür geöffnet.	मैंने दरवा�
 I arrived in London.	Ich bin in London angekommen.	मैं लंदन पहुँच गया।
 I arrived on Monday.	Ich bin am Montag angekommen.	मैं सोमवार को पहुँचा।
 I arrived too early.	Ich bin zu früh angekommen.	मैं बहुत जल्दी पहुँच गया।
+I asked Tom to come.	Ich bat Tom zu kommen.	मैंने टॉम से आने के लिए कहा।
+I asked Tom to help.	Ich bat Tom um Hilfe.	मैंने टॉम से मदद के लिए कहा।
+I asked Tom to sing.	Ich bat Tom zu singen.	मैंने टॉम से गाने के लिए कहा।
+I asked Tom to stop.	Ich bat Tom aufzuhören.	मैंने टॉम से रोकने को कहा।
+I asked Tom to wait.	Ich bat Tom zu warten.	मैंने टॉम से रुकने के लिए कहा।
+I ate a hasty lunch.	Ich aß ein hastiges Mittagessen.	मैंने एक जल्दबाजी से लंच किया।
+I beat him at chess.	Ich besiegte ihn im Schach.	मैंने उसे शतरंज में हराया।
+I believe Tom knows.	Ich glaube, Tom weiß.	मुझे लगता है कि टॉम को पता है।
+I believe in ghosts.	Ich glaube an Geister.	मुझे भूत-प्रेत में विश्वास है।
+I believe that's it.	Ich glaube das ist es.	मुझे लगता है कि यही है।

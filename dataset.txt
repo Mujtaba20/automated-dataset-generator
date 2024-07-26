@@ -1,14 +1,4 @@
 
-I asked Tom to come.	Ich bat Tom zu kommen.	मैंने टॉम को आने के लिए कहा।
-I asked Tom to help.	Ich bat Tom um seine Hilfe.	मैंने टॉम से उसकी मदद मांगी।
-I asked Tom to sing.	Ich bat Tom zu singen.	मैंने टॉम को गाने के लिए कहा।
-I asked Tom to stop.	Ich bat Tom aufzuhören.	मैंने टॉम को रुकने के लिए कहा।
-I asked Tom to wait.	Ich bat Tom, zu warten.	मैंने टॉम को इंतजार करने के लिए कहा।
-I ate a hasty lunch.	Ich aß hastig das Mittagessen.	मैंने जल्दबाजी में दोपहर का भोजन किया।
-I beat him at chess.	Ich habe ihn im Schach geschlagen.	मैंने उसे शतरंज में मारा।
-I believe Tom knows.	Ich glaube, Tom weiß es.	मुझे लगता है कि टॉम जानता है।
-I believe in ghosts.	Ich glaube an Gespenster.	मैं भूतों में विश्वास करता हूं।
-I believe that's it.	Ich glaube, das ist es.	मुझे लगता है कि यह है।
 I bet you know this.	Ich wette, du kennst das.	मुझे यकीन है कि आप जानते हैं।
 I bet you know this.	Ich wette, du weißt das.	मुझे यकीन है कि आप जानते हैं।
 I bet you know this.	Ich wette, Sie wissen das.	मुझे यकीन है कि आप जानते हैं।
