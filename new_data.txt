@@ -26504,3 +26504,13 @@ I love to play golf.	Ich liebe es, Golf zu spielen.	मुझे गोल्फ
 I love working here.	Ich liebe es, hier zu arbeiten.	मुझे यहाँ काम करना पसंद है।
 I love you for that.	Ich liebe dich dafür.	मैं तुम्हें उसके लिए पसंद करता हूँ।
 I love your cooking.	Ich liebe dein Kochen.	मुझे तुम्हारी रसोई पसंद है।
+I made Tom go there.	Ich ließ Tom dorthin gehen.	मैंने टॉम को वहाँ जाने के लिए किया।
+I made a suggestion.	Ich habe einen Vorschlag gemacht.	मैंने एक सुझाव दिया।
+I made a wrong turn.	Ich machte eine falsche Abzweigung.	मैंने गलत मोड़ लिया।
+I made that for Tom.	Ich habe das für Tom gemacht.	मैंने टॉम के लिए वह बनाया।
+I made that for you.	Ich habe das für dich gemacht.	मैंने यह तुम्हारे लिए बनाया।
+I made this for Tom.	Ich habe das für Tom gemacht.	मैंने टॉम के लिए यह बनाया।
+I made this for you.	Ich habe das für dich gemacht.	मैंने यह तुम्हारे लिए बनाया।
+I made three errors.	Ich habe drei Fehler gemacht.	मैंने तीन ग़लतियाँ की।
+I make €100 a day.	Ich verdiene €100 am Tag.	मैं रोज €100 कमाता हूँ।
+I managed to get in.	Es gelang mir hereinzukommen.	मुझे प्रवेश करने में सफलता मिली।

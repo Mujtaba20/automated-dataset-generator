@@ -1,15 +1,4 @@
 
-I made Tom go there.	Ich habe Tom dorthin gehen lassen.	मैंने टॉम को वहां जाने दिया।
-I made a suggestion.	Ich habe einen Vorschlag gemacht.	मैंने एक सुझाव दिया।
-I made a wrong turn.	Ich bin falsch abgebogen.	मैं गलत हो गया।
-I made that for Tom.	Ich habe das für Tom gemacht.	मैंने टॉम के लिए ऐसा किया।
-I made that for you.	Ich habe das für dich gemacht.	मैंने तुम्हारे लिए ऐसा किया।
-I made this for Tom.	Ich habe das für Tom gemacht.	मैंने टॉम के लिए ऐसा किया।
-I made this for you.	Ich habe das für dich gemacht.	मैंने तुम्हारे लिए ऐसा किया।
-I made three errors.	Ich habe drei Fehler gemacht.	मैंने तीन गलतियाँ कीं।
-I make €100 a day.	Ich verdiene 100 Euro pro Tag.	मैं एक दिन में 100 यूरो कमाता हूं।
-I managed to get in.	Es gelang mir hineinzukommen.	मैं अंदर जाने में कामयाब रहा।
-I managed to get in.	Ich schaffte es, hineinzukommen.	मैं अंदर जाने में कामयाब रहा।
 I may not have time.	Kann sein, dass ich keine Zeit habe.	शायद मेरे पास समय नहीं है।
 I mean it this time.	Ich meine es diesmal ernst.	मैं इस बार गंभीर हूं।
 I meant to call you.	Ich wollte Sie anrufen.	मैं उसे फोन करना चाहता था।
