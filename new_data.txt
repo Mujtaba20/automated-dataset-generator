@@ -39174,3 +39174,10 @@ She's a stubborn girl.	Sie ist ein starrköpfiges Mädchen.	वह एक ज़
 She's eating an apple.	Sie isst einen Apfel.	वह एक सेब खा रही है।
 She's eight years old.	Sie ist acht Jahre alt.	वह आठ साल की है।
 She's in the restroom.	Sie ist auf der Toilette.	वह शौचालय में है।
+She's missed the boat.	Sie hat das Boot verpasst.	उसने जहाज छोड़ दिया है।
+She's my older sister.	Sie ist meine ältere Schwester.	वह मेरी बड़ी बहन है।
+She's not a good cook.	Sie ist keine gute Köchin.	वह अच्छी रसोइया नहीं है।
+She's smaller than me.	Sie ist kleiner als ich.	वह मेरे से छोटी है।
+She's still under age.	Sie ist immer noch minderjährig.	वह अभी भी अरदासही है।
+She's sure to succeed.	Sie wird sicherlich Erfolg haben.	उसके सफल होने की पूरी सुनिश्चितता है।
+She's taller than him.	Sie ist größer als er.	वह उससे ऊँची है।

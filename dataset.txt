@@ -1,14 +1,4 @@
 
-She's missed the boat.	Der Zug ist abgefahren.	ट्रेन छोड़ दी।
-She's my older sister.	Sie ist meine ältere Schwester.	वह मेरी बड़ी बहन है।
-She's not a good cook.	Sie ist keine gute Köchin.	वह एक अच्छा कुक नहीं है।
-She's smaller than me.	Sie ist kleiner als ich.	वह मुझसे छोटा है।
-She's still under age.	Sie ist noch minderjährig.	वह अभी भी नाबालिग है।
-She's still under age.	Sie ist noch unmündig.	यह अभी भी कम है।
-She's sure to succeed.	Sie wird es sicher schaffen.	वह निश्चित रूप से यह करेगी।
-She's sure to succeed.	Sie wird auf jeden Fall Erfolg haben.	यह निश्चित रूप से सफल होगा।
-She's sure to succeed.	Sie wird sicher erfolgreich sein.	यह निश्चित रूप से सफल होगा।
-She's taller than him.	Sie ist größer als er.	यह उससे बड़ा है।
 Shift into third gear.	Den dritten Gang einlegen!	तीसरा गियर ले लो!
 Should I really do it?	Soll ich das wirklich tun?	क्या मुझे वास्तव में ऐसा करना चाहिए?
 Should I take the bus?	Soll ich den Bus nehmen?	क्या मुझे बस लेनी चाहिए?
