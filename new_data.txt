@@ -37630,3 +37630,11 @@ I learned a new trick.	Ich habe einen neuen Trick gelernt.	मैंने ए�
 I learned it by heart.	Ich habe es auswendig gelernt.	मैंने दिल से याद किया।
 I learned it from him.	Ich habe es von ihm gelernt.	मैंने उससे यह सिखा।
 I learned it from him. - 2	Ich habe es von ihm erfahren.	मैंने उससे यह जाना।
+I learned it from you.	Ich habe es von dir gelernt.	मैंने यह तुमसे सीखा है।
+I learned quite a bit.	Ich habe eine Menge gelernt.	मैंने काफी कुछ सीखा है।
+I leave in three days.	Ich gehe in drei Tagen weg.	मैं तीन दिनों में चला जाऊँगा।
+I left my car running.	Ich ließ mein Auto laufen.	मैंने अपनी कार चलती हुई छोड़ दी।
+I lied to protect you.	Ich habe gelogen, um dich zu schützen.	मैंने आपकी सुरक्षा के लिए झूठ बोला।
+I like French cooking.	Ich mag französisches Kochen.	मुझे फ्रेंच पकाना अच्छा लगता है।
+I like Korean cuisine.	Ich mag koreanische Küche.	मुझे कोरियाई खाना पसंद है।
+I like Tom's approach.	Ich mag Toms Ansatz.	मुझे टॉम का दृष्टिकोण पसंद है।

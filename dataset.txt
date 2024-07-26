@@ -1,14 +1,4 @@
 
-I learned it from you.	Ich habe das von dir gelernt.	मैंने सीखा कि आप से।
-I learned quite a bit.	Ich habe einiges gelernt.	मैंने बहुत कुछ सीखा।
-I leave in three days.	Ich reise in drei Tagen ab.	मैं तीन दिनों में छोड़ देता हूं।
-I left my car running.	Ich habe meinen Wagen laufenlassen.	मैंने अपनी कार चलाने दी।
-I lied to protect you.	Ich log, um dich zu beschützen.	मैं आपकी रक्षा के लिए लॉग इन करता हूं।
-I lied to protect you.	Ich log, um euch zu beschützen.	मैं आपकी रक्षा के लिए लॉग इन करता हूं।
-I lied to protect you.	Ich log, um Sie zu beschützen.	मैं उनकी रक्षा के लिए लॉग इन करता हूं।
-I like French cooking.	Ich bin ein Freund der französischen Küche.	मैं फ्रांसीसी व्यंजनों का दोस्त हूं।
-I like Korean cuisine.	Ich mag koreanische Küche.	मुझे कोरियाई भोजन पसंद है।
-I like Tom's approach.	Toms Herangehensweise gefällt mir.	मुझे टॉम का दृष्टिकोण पसंद है।
 I like being with Tom.	Ich bin gerne mit Tom.	मुझे टॉम के साथ रहना पसंद है।
 I like being with Tom.	Ich bin gern bei Tom.	मुझे टॉम के साथ रहना पसंद है।
 I like being with you.	Ich bin gern mit dir zusammen.	मैं आपके साथ रहना पसंद करूंगा।
