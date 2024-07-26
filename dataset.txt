@@ -1,14 +1,4 @@
 
-This isn't Australia.	Das ist nicht Australien.	यह ऑस्ट्रेलिया नहीं है।
-This isn't Tom's car.	Das ist nicht Toms Auto.	यह टॉम की कार नहीं है।
-This isn't a new car.	Das ist kein neues Auto.	यह एक नई कार नहीं है।
-This isn't about Tom.	Hier geht es nicht um Tom.	यह टॉम के बारे में नहीं है।
-This isn't about you.	Es geht nicht um dich.	यह आपके बारे में नहीं है।
-This isn't my wallet.	Das ist nicht mein Portemonnaie.	यह मेरा बटुआ नहीं है।
-This isn't necessary.	Das ist nicht nötig.	यह जरूरी नहीं है।
-This isn't necessary.	Das ist unnötig.	यह अनावश्यक है।
-This knife cuts well.	Dieses Messer schneidet gut.	यह चाकू अच्छी तरह से कट जाता है।
-This letter's for me.	Dieser Brief ist für mich.	यह पत्र मेरे लिए है।
 This makes her angry.	Das macht sie wütend.	इससे उसे गुस्सा आता है।
 This makes me so mad.	Das bringt mich so in Rage!	यह मुझे गुस्से में लाता है!
 This makes me so sad.	Das betrübt mich wirklich.	यह वास्तव में मुझे दुखी करता है।
