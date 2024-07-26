@@ -1,14 +1,4 @@
 
-It is a long story.	Das ist eine lange Geschichte.	यह एक लंबी कहानी है।
-It is almost three.	Es ist fast drei.	यह लगभग तीन है।
-It is already dark.	Es ist schon dunkel.	यह पहले से ही अंधेरा है।
-It is cloudy today.	Es ist heute bewölkt.	आज बादल भरा मौसम है।
-It is cloudy today.	Es ist heute wolkig.	यह आज बादल है।
-It is dark outside.	Es ist dunkel draußen.	बाहर अंधेरा है।
-It is his decision.	Das ist seine Entscheidung.	वह उसका निर्णय है।
-It is his decision.	Es ist seine Entscheidung.	यह उसका निर्णय है।
-It is of great use.	Es ist sehr nützlich.	यह बहुत उपयोगी है।
-It is of great use.	Es ist von großem Nutzen.	यह बहुत लाभ है।
 It is raining hard.	Es regnet wie aus Eimern.	बाल्टी से बारिश होती है।
 It is raining hard.	Es schüttet.	यह डालता है।
 It is too long ago.	Es ist zu lange her.	यह बहुत पहले था।

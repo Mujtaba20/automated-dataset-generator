@@ -22214,3 +22214,11 @@ It hurt really bad.	Es tat wirklich weh.	यह वास्तव में ब
 It caused significant pain.	Es verursachte erheblichen Schmerz.	इसने महत्वपूर्ण दर्द का कारण बनाया।
 It is Monday today.	Heute ist Montag.	आज सोमवार है।
 It is a black hole.	Es ist ein schwarzes Loch.	यह एक काले गड्ढे है।
+It is a long story.	Es ist eine lange Geschichte.	यह एक लंबी कहानी है।
+It is almost three.	Es ist fast drei.	यह लगभग तीन है।
+It is already dark.	Es ist schon dunkel.	यह पहले से ही अंधेरा है।
+It is cloudy today.	Es ist heute bewölkt.	आज बादलगी है।
+It is dark outside.	Es ist draußen dunkel.	बाहर अंधेरा है।
+It is his decision.	Es ist seine Entscheidung.	यह उसका फैसला है।
+It is of great use.	Es ist von großem Nutzen.	यह बहुत उपयोगी है।
+It is of great use. (Different meaning)	Es ist sehr nützlich.	यह अत्यधिक प्रयोगी है।
