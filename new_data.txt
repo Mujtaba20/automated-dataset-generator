@@ -21746,3 +21746,12 @@ I was only joking.	Ich habe nur Scherze gemacht.	मैं सिर्फ म�
 I got married here.	Ich habe hier geheiratet.	मैंने यहाँ शादी की थी।
 I was married once.	Ich war einmal verheiratet.	मैंने एक बार शादी की थी।
 I was also anxious.	Ich war auch nervös.	मैं भी चिंतित था।
+I was only kidding.	Ich habe nur Spaß gemacht.	मैं सिर्फ मजाक कर रहा था।
+I was pretty drunk.	Ich war ziemlich betrunken.	मैं बहुत नशे में था।
+I was proud of you.	Ich war stolz auf dich.	मैं आप पर गर्वित था।
+I was proud of you. (Different meaning)	Ich war stolz auf dich.	मैं तुम पर नाज़ कर रहा था।
+I was really bored.	Mir war wirklich langweilig.	मुझे सचमुच बोर हो रहा था।
+I was scared stiff.	Ich hatte eine Riesenangst.	मैं जीभरके डरा हुआ था।
+I was the only man.	Ich war der einzige Mann.	मैं एकमात्र आदमी था।
+I was up all night.	Ich war die ganze Nacht wach.	मैं पूरी रात जागा रहा था।
+I was very careful.	Ich war sehr vorsichtig.	मैं बहुत सावधान था।
