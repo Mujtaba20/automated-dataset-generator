@@ -31908,3 +31908,12 @@ I like to be at home.	Ich bin gerne zu Hause.	मुझे घर पर रह�
 I like to drink milk.	Ich trinke gerne Milch.	मुझे दूध पीना पसंद है।
 I like to drink wine.	Ich trinke gerne Wein.	मुझे शराब पीना पसंद है।
 I like to dance.	Ich tanze gerne.	मुझे नृत्य करना पसंद है।
+I like to eat apples.	Ich esse gerne Äpfel.	मुझे सेब खाना पसंद है।
+I like to play poker.	Ich spiele gerne Poker.	मुझे पोकर खेलना पसंद है।
+I like to read books.	Ich lese gerne Bücher.	मुझे किताबें पढ़ना पसंद है।
+I like to read jokes.	Ich lese gerne Witze.	मुझे जोक्स पढ़ना पसंद है।
+I like to sing songs.	Ich singe gerne Lieder.	मुझे गाने गाना पसंद है।
+I like to tell jokes.	Ich erzähle gerne Witze.	मुझे जोक्स सुनाना पसंद है।
+I like to win prizes.	Ich gewinne gerne Preise.	मुझे पुरस्कार जीतना पसंद है।
+I like to write here.	Ich schreibe gerne hier.	मुझे यहाँ लिखना पसंद है।
+I like walking alone.	Ich gehe gerne alleine spazieren.	मुझे अकेले चलना पसंद है।
