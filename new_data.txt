@@ -31442,3 +31442,12 @@ I broke my right leg.	Ich habe mein rechtes Bein gebrochen.	मैंने अ�
 I broke your ashtray.	Ich habe deinen Aschenbecher kaputtgemacht.	मैंने तुम्हारा अश्ट्रे तोड़ दिया।
 I brought some pizza.	Ich habe etwas Pizza mitgebracht.	मैंने कुछ पिज्जा लाया।
 I brought you a gift.	Ich habe dir ein Geschenk mitgebracht.	मैंने तुम्हें एक उपहार लाया।
+I built this for you.	Ich habe das für dich gebaut.	मैंने यह तुम्हारे लिए बनाया।
+I burnt my fingertip.	Ich habe meinen Finger verbrannt.	मैंने अपने हाथ की अंगुली को जलाया।
+I came here with Tom.	Ich bin mit Tom hierher gekommen.	मैं यहाँ टॉम के साथ आया हूँ।
+I can barely breathe.	Ich kann kaum atmen.	मैं मुश्किल से सांस ले सकता हूँ।
+I can do that myself.	Das kann ich selbst machen.	मैं यह स्वयं कर सकता हूँ।
+I can do this myself.	Das kann ich selbst tun.	मैं यह स्वयं कर सकता हूँ।
+I can drive Tom home.	Ich kann Tom nach Hause fahren.	मैं टॉम को घर छोड़ सकता हूँ।
+I can explain it all.	Ich kann alles erklären.	मैं सब कुछ समझा सकता हूँ।
+I can give it a shot.	Ich kann es mal ausprobieren.	मैं इसे एक कोशिश दे सकता हूँ।

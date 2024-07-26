@@ -1,14 +1,4 @@
 
-I built this for you.	Das hier habe ich für dich gebaut.	मैंने यह आपके लिए बनाया है।
-I burnt my fingertip.	Ich verbrannte mir die Fingerkuppe.	मैंने अपनी उंगलियों को जला दिया।
-I burnt my fingertip.	Ich habe mir die Fingerkuppe verbrannt.	मैंने अपनी उंगलियों को जला दिया।
-I came here with Tom.	Ich bin mit Tom hierher gekommen.	मैं यहां टॉम के साथ आया था।
-I can barely breathe.	Ich kann kaum atmen.	मैं मुश्किल से सांस ले सकता हूं।
-I can do that myself.	Ich kann das selbst machen.	इसे स्वयं मेरे द्वारा किया जा सकता है।
-I can do this myself.	Ich kann das selbst.	इसे स्वयं मेरे द्वारा किया जा सकता है।
-I can drive Tom home.	Ich kann Tom nach Hause fahren.	मैं घर जा सकता हूँ टॉम।
-I can explain it all.	Ich kann es alles erklären.	मैं इसे सब कुछ समझा सकता हूं।
-I can give it a shot.	Ich kann es mal versuchen.	मैं यह कोशिश कर सकता था।
 I can hardly breathe.	Ich kann kaum atmen.	मैं मुश्किल से सांस ले सकता हूं।
 I can hear something.	Ich höre etwas.	मैं कुछ सुनता हूं।
 I can live with that.	Ich kann damit leben.	मेरे द्वारा इसके साथ जीवनयापन किया जा सकता है।
