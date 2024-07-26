@@ -36397,3 +36397,8 @@ Do you like to travel?	Mögen Sie es zu reisen?	क्या आपको या
 Do you live in Boston?	Wohnst du in Boston?	क्या आप बॉस्टन में रहते हैं?
 Do you live near here?	Lebst du in der Nähe von hier?	क्या आप यहां के पास रहते हैं?
 Do you love me or not?	Liebst du mich oder nicht?	क्या तुम मुझसे प्यार करते हो या नहीं?
+Do you miss me at all?	Fehle ich dir überhaupt?	क्या तुम मुझे हरगिज याद करते हो?
+Do you miss your wife?	Vermisst du deine Frau?	क्या तुम अपनी पत्नी की याद में हो?
+Do you need a cushion?	Brauchst du ein Kissen?	क्या आपको एक तकिया चाहिए?
+Do you need more time?	Brauchst du mehr Zeit?	क्या आपको और समय चाहिए?
+Do you need the phone?	Brauchst du das Telefon?	क्या आपको फ़ोन की ज़रूरत है?

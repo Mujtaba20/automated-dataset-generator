@@ -1,15 +1,4 @@
 
-Do you miss me at all?	Vermisst du mich überhaupt?	क्या आप मुझे याद करते हैं?
-Do you miss me at all?	Fehle ich dir überhaupt?	क्या आप आपको याद करते हैं?
-Do you miss your wife?	Vermisst du deine Frau?	क्या आप अपनी पत्नी को याद करते हैं?
-Do you need a cushion?	Brauchst du ein Kissen?	क्या आपको एक तकिया की आवश्यकता है?
-Do you need a cushion?	Braucht ihr ein Kissen?	क्या आपको एक तकिया की आवश्यकता है?
-Do you need a cushion?	Brauchen Sie ein Kissen?	क्या आपको एक तकिया की आवश्यकता है?
-Do you need more time?	Brauchst du mehr Zeit?	क्या आपको अधिक समय की आवश्यकता है?
-Do you need more time?	Brauchen Sie mehr Zeit?	क्या आपको अधिक समय की आवश्यकता है?
-Do you need the phone?	Braucht ihr das Telefon?	क्या आपको फोन की आवश्यकता है?
-Do you need the phone?	Brauchen Sie das Telefon?	क्या आपको फोन की आवश्यकता है?
-Do you need the phone?	Brauchst du das Telefon?	क्या आपको फोन की आवश्यकता है?
 Do you need this book?	Brauchst du dieses Buch?	क्या आपको इस पुस्तक की आवश्यकता है?
 Do you not like girls?	Magst du keine Mädchen?	क्या आपको लड़कियां पसंद नहीं हैं?
 Do you own a computer?	Besitzt du einen Computer?	आपका कंप्यूटर है?
