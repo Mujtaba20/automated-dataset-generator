@@ -33742,3 +33742,12 @@ There is no solution.	Es gibt keine Lösung.	कोई समाधान नह
 There is one problem.	Es gibt ein Problem.	एक समस्या है।
 There isn't any hope.	Es gibt keine Hoffnung.	कोई आशा नहीं है।
 There isn't any soap.	Es gibt keine Seife.	कोई साबुन नहीं है।
+There were no knives.	Es gab keine Messer.	कोई चाकू नहीं थे।
+There were two cakes.	Es gab zwei Kuchen.	दो केक थे।
+There were witnesses.	Es gab Zeugen.	गवाह थे।
+There's a car coming.	Es kommt ein Auto.	एक कार आ रही है।
+There's a difference.	Es gibt einen Unterschied.	एक फर्क है।
+There's no beer here.	Hier gibt es kein Bier.	यहाँ कोई बीयर नहीं है।
+There's no food left.	Es ist kein Essen mehr da.	खाना नहीं बचा है।
+There's no giving up.	Es gibt kein Aufgeben.	हार मानने का कोई विकल्प नहीं है।
+There's no hot water.	Es gibt kein heißes Wasser.	गर्म पानी नहीं है।
