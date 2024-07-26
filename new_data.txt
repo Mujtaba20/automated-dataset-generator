@@ -37977,3 +37977,13 @@ I wanted to be famous.	Ich wollte berühmt sein.	मैं प्रसिद्
 I wanted to eat pizza.	Ich wollte Pizza essen.	मैं पिज्जा खाना चाहता था
 I wanted to get drunk.	Ich wollte betrunken werden.	मैं मदहोश होना चाहता था
 I wanted to go abroad.	Ich wollte ins Ausland gehen.	मैं विदेश जाना चाहता था
+I wanted to marry him.	Ich wollte ihn heiraten.	मैं उससे शादी करना चाहता था।
+I wanted to play golf.	Ich wollte Golf spielen.	मैं गोल्फ खेलना चाहता था।
+I wanted to stay home.	Ich wollte zu Hause bleiben.	मैं घर पर रहना चाहता था।
+I was Tom's secretary.	Ich war Toms Sekretär.	मैं टॉम के सचिव था।
+I was a healthy child.	Ich war ein gesundes Kind.	मैं एक स्वस्थ बच्चा था।
+I was a little afraid.	Ich hatte ein wenig Angst.	मैं थोड़ा डरा हुआ था।
+I was a nervous wreck.	Ich war ein Nervenwrack.	मैं एक तनावग्रस्त व्यक्ति था।
+I was aching all over.	Ich hatte überall Schmerzen.	मेरे पूरे शरीर में दर्द था।
+I was alone, studying.	Ich war allein und habe studiert.	मैं अकेला था, पढ़ाई कर रहा था।
+I was angry at myself.	Ich war wütend auf mich selbst.	मैं अपने पर गुस्सा था।
