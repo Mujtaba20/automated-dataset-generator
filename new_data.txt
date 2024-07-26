@@ -24734,3 +24734,10 @@ Whose baby is that?	Wessen Baby ist das?	वह बच्चा किसका 
 Whose baby is this?	Wem gehört das Baby?	यह बच्चा किसका है?
 Whose beer is this?	Wem gehört das Bier?	यह बीयर किसकी है?
 Whose bike is this?	Wem gehört das Fahrrad?	यह साइकिल किसकी है?
+Whose book is that?	Wessen Buch ist das?	वह किसकी किताब है?
+Whose book is this?	Wessen Buch ist das hier?	यह किसकी किताब है?
+Whose coat is that?	Wessen Mantel ist das?	वह किसकी कोट है?
+Whose food is this?	Wessen Essen ist das hier?	यह किसका भोजन है?
+Whose friend is he?	Wer ist sein Freund?	वह किसका दोस्त है?
+Whose is that book?	Wem gehört dieses Buch?	वह किसकी किताब है?
+Whose is this book?	Wem gehört dieses Buch hier?	यह किसकी किताब है?

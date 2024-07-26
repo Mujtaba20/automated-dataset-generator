@@ -1,14 +1,4 @@
 
-Whose book is that?	Wessen Buch ist das?	यह पुस्तक किसकी है?
-Whose book is this?	Wessen Buch ist das?	यह पुस्तक किसकी है?
-Whose book is this?	Wem gehört das Buch?	यह कौन है?
-Whose coat is that?	Wem gehört dieser Mantel?	यह कोट किसका है?
-Whose coat is that?	Wem gehört diese Jacke?	इस जैकेट का मालिक कौन है?
-Whose food is this?	Wessen Essen ist das hier?	यहाँ किसका भोजन है?
-Whose friend is he?	Wessen Freund ist er?	वह किसका दोस्त है?
-Whose is that book?	Wessen Buch ist das?	यह पुस्तक किसकी है?
-Whose is this book?	Wessen Buch ist das?	यह पुस्तक किसकी है?
-Whose is this book?	Von wem ist dieses Buch?	यह पुस्तक किससे है?
 Whose is this food?	Wem gehört das Essen hier?	यहाँ भोजन कौन है?
 Whose land is this?	Wem gehört dieses Land?	यह देश किसका है?
 Whose ring is that?	Wessen Ring ist das?	वह किसकी अंगूठी है?
