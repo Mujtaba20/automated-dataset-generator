@@ -21032,3 +21032,11 @@ I admire them both.	Ich bewundere sie beide.	मैं उन्हें दो
 I admit my mistake.	Ich gebe meinen Fehler zu.	मैं अपनी गलती स्वीकार करता हूँ।
 I advise customers.	Ich berate Kunden.	मैं ग्राहकों को सलाह देता हूँ।
 I agree completely.	Ich stimme vollkommen zu.	मैं पूरी तरह सहमत हूँ।
+I agreed to buy it.	Ich habe zugestimmt, es zu kaufen.	मैंने इसे खरीदने के लिए सहमत हो गया।
+I almost forgot it.	Ich habe es fast vergessen.	मैंने यह लगभग भूल गया था।
+I almost never cry.	Ich weine fast nie.	मैं लगभग कभी रोता नहीं हूँ।
+I almost never lie.	Ich lüge fast nie.	मैं लगभग कभी झूठ नहीं बोलता हूँ।
+I already did that.	Das habe ich bereits getan.	मैंने वह पहले ही कर दिया था।
+I already know Tom.	Ich kenne Tom bereits.	मैं तोम को पहले से जानता हूँ।
+I already miss Tom.	Ich vermisse Tom schon.	मैं तोम को पहले से ही याद कर रहा हूँ।
+I already said yes.	Ich habe bereits Ja gesagt.	मैंने पहले ही हाँ कह दी थी।
