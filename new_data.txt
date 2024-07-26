@@ -28378,3 +28378,11 @@ They're doing great.	Sie machen großartige Arbeit.	वे बहुत अच�
 They're good people.	Sie sind gute Menschen.	वे अच्छे इंसान हैं।
 They're ignoring us.	Sie ignorieren uns.	वे हमें ध्यान नहीं दे रहे हैं।
 They're in the well.	Sie sind im Brunnen.	वे भूजल में हैं।
+They're inseparable.	Sie sind unzertrennlich.	वे अविभाज्य हैं।
+They're like family.	Sie sind wie Familie.	वे परिवार के तरह हैं।
+They're lying to us.	Sie belügen uns.	वे हमें झूठ बोल रहे हैं।
+They're mocking you.	Sie machen sich über dich lustig.	वे तुम्हारे मजाक उड़ा रहे हैं।
+They're normal kids.	Sie sind normale Kinder.	वे सामान्य बच्चे हैं।
+They're not farmers.	Sie sind keine Bauern.	वे किसान नहीं हैं।
+They're not like us.	Sie sind nicht wie wir.	वे हमारे जैसे नहीं हैं।
+They're not looking.	Sie schauen nicht.	वे नहीं देख रहे हैं।
