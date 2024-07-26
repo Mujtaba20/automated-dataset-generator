@@ -32220,3 +32220,10 @@ I want to watch this.	Ich möchte das anschauen.	मैं यह देखन�
 I want to work again.	Ich möchte wieder arbeiten.	मैं फिरसे काम करना चाहता हूँ।
 I want what you want.	Ich möchte, was du möchtest.	मैं चाहता हूँ जो तुम चाहते हो।
 I want you to behave.	Ich möchte, dass du dich benimmst.	मैं चाहता हूँ कि तुम व्यवहार करें।
+I want you to listen.	Ich möchte, dass du zuhörst.	मुझे चाहिए कि तुम सुनो।
+I want you to use it.	Ich möchte, dass du es benutzt.	मुझे चाहिए कि तुम इस्तेमाल करो।
+I wanted them to win.	Ich wollte, dass sie gewinnen.	मैं चाहता था कि वे जीतें।
+I wanted to call Tom.	Ich wollte Tom anrufen.	मैं टॉम को कॉल करना चाहता था।
+I wanted to go there.	Ich wollte dorthin gehen.	मैं वहाँ जाना चाहता था।
+I wanted to help Tom.	Ich wollte Tom helfen.	मैं टॉम की मदद करना चाहता था।
+I wanted to help you.	Ich wollte dir helfen.	मैं तुम्हारी मदद करना चाहता था।

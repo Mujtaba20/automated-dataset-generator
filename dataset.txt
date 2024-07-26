@@ -1,14 +1,4 @@
 
-I want you to listen.	Ich möchte, dass du zuhörst.	मैं चाहता हूं कि आप सुनें।
-I want you to use it.	Ich möchte, dass du es benutzt.	मैं चाहता हूं कि आप इसका उपयोग करें।
-I wanted them to win.	Ich wünschte, dass sie gewinnen.	काश आप जीत गए।
-I wanted to call Tom.	Ich wollte Tom anrufen.	मैं टॉम को फोन करना चाहता था।
-I wanted to go there.	Ich wollte dort hingehen.	मैं वहां जाना चाहता था।
-I wanted to go there.	Ich wollte dorthin gehen.	मैं वहां जाना चाहता था।
-I wanted to help Tom.	Ich wollte Tom helfen.	मैं टॉम की मदद करना चाहता था।
-I wanted to help you.	Ich wollte dir helfen.	मैं आपकी मदद करना चाहता था।
-I wanted to help you.	Ich wollte euch helfen.	मैं आपकी मदद करना चाहता था।
-I wanted to help you.	Ich wollte Ihnen helfen.	मैं उनकी मदद करना चाहता था।
 I wanted to hire Tom.	Ich wollte Tom engagieren.	मैं टॉम को किराए पर लेना चाहता था।
 I wanted to hire Tom.	Ich wollte Tom damit beauftragen.	मैं इसके साथ टॉम को काम पर रखना चाहता था।
 I wanted to hurt Tom.	Ich wollte Tom weh tun.	मैं टॉम को चोट पहुंचाना चाहता था।
