@@ -32073,3 +32073,13 @@ I saw a sleeping dog.	Ich sah einen schlafenden Hund.	मैंने एक स
 I saw her a week ago.	Ich habe sie vor einer Woche gesehen.	मैंने उसे एक हफ्ते पहले देखा।
 I saw it on the news.	Ich habe es in den Nachrichten gesehen.	मैंने इसे समाचारों में देखा।
 I saw nothing at all.	Ich habe überhaupt nichts gesehen.	मैंने बिल्कुल कुछ नहीं देखा।
+I saw them yesterday.	Ich habe sie gestern gesehen.	मैंने कल उन्हें देखा।
+I saw you look at it.	Ich habe gesehen, wie du es angesehen hast.	मैंने देखा कि तुमने उसे देखा।
+I see Tom trusts you.	Ich sehe, dass Tom dir vertraut.	मैं देखता हूँ कि टॉम तुम पर भरोसा करता है।
+I see we're all here.	Ich sehe, wir sind alle hier.	मुझे लगता है कि हम सभी यहां हैं।
+I sent Tom a present.	Ich habe Tom ein Geschenk gesandt.	मैंने टॉम को एक उपहार भेजा।
+I sent Tom back home.	Ich habe Tom nach Hause geschickt.	मैंने टॉम को घर भेज दिया।
+I share your opinion.	Ich teile deine Meinung.	मैं आपकी राय साझा करता हूं।
+I should go help Tom.	Ich sollte Tom helfen gehen.	मुझे टॉम की मदद करने जाना चाहिए।
+I should go with Tom.	Ich sollte mit Tom gehen.	मुझे टॉम के साथ जाना चाहिए।
+I should go with you.	Ich sollte mit dir gehen.	मुझे तुम्हारे साथ जाना चाहिए।
