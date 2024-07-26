@@ -28104,3 +28104,11 @@ That's an imitation.	Das ist eine Nachahmung.	यह एक उत्कृष�
 That's an old trick.	Das ist ein alter Trick.	यह एक पुरानी चाल है।
 That's child's play.	Das ist Kinderspiel.	यह बच्चों का खेल है।
 That's common sense.	Das ist gesunder Menschenverstand.	यह सामान्य बुद्धि है।
+That's discouraging.	Das ist entmutigend.	यह निराशाजनक है।
+That's embarrassing.	Das ist peinlich.	यह शर्मनाक है।
+That's fine with me.	Das ist in Ordnung für mich.	मुझे ठीक है।
+That's good for you.	Das ist gut für dich.	तुम्हारे लिए अच्छा है।
+That's good to know.	Das ist gut zu wissen.	यह जानकर अच्छा लगा।
+That's his business.	Das ist seine Angelegenheit.	यह उसका काम है।
+That's how I did it.	So habe ich es gemacht.	ऐसे ही मैंने किया।
+That's how I see it.	So sehe ich es.	ऐसे ही मैं इसे देखता हूँ।
