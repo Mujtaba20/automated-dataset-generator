@@ -1,15 +1,4 @@
 
-Tom bridled the horse.	Tom zäumte das Pferd.	टॉम ने घोड़े को उकसाया।
-Tom broke his new toy.	Tom hat sein neues Spielzeug kaputtgemacht.	टॉम ने अपना नया खिलौना तोड़ दिया।
-Tom broke his promise.	Tom hat sein Versprechen gebrochen.	टॉम ने अपना वादा तोड़ दिया।
-Tom broke out of jail.	Tom ist aus dem Gefängnis ausgebrochen.	टॉम जेल से बाहर हो गया।
-Tom broke out of jail.	Tom brach aus dem Gefängnis aus.	टॉम जेल से बाहर हो गया।
-Tom brushed his horse.	Tom striegelte sein Pferd.	टॉम ने अपने घोड़े को हिला दिया।
-Tom brushed his teeth.	Tom putzte sich die Zähne.	टॉम ने अपने दांत डूब गए।
-Tom built a birdhouse.	Tom baute ein Vogelhaus.	टॉम ने एक पक्षी का घर बनाया।
-Tom built a birdhouse.	Tom hat ein Vogelhaus gebaut.	टॉम ने एक पक्षी का घर बनाया।
-Tom burned the letter.	Tom hat den Brief verbrannt.	टॉम ने पत्र जला दिया।
-Tom burned the letter.	Tom verbrannte den Brief.	टॉम ने पत्र जला दिया।
 Tom buttoned his coat.	Tom knöpfte sich den Mantel zu.	टॉम ने कोट को बटन किया।
 Tom called me at home.	Tom hat mich zu Hause angerufen.	टॉम ने मुझे घर पर बुलाया।
 Tom called me by name.	Tom hat mich bei meinem Namen genannt.	टॉम ने मुझे अपना नाम पुकारा।

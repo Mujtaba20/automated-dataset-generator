@@ -39877,3 +39877,11 @@ Tom bought some bread.	Tom kaufte etwas Brot.	टॉम ने कुछ रो�
 Tom bought some candy.	Tom kaufte etwas Süßigkeiten.	टॉम ने कुछ मिठाई खरीदी।
 Tom breakfasted alone.	Tom frühstückte alleine.	टॉम ने अकेले नाश्ता किया।
 Tom bribed the guards.	Tom bestach die Wachen.	टॉम ने गार्ड को रिश्वत दी।
+Tom bridled the horse.	Tom sattelte das Pferd.	टॉम ने घोड़े को बिटी लगाई।
+Tom broke his new toy.	Tom brach sein neues Spielzeug.	टॉम ने अपने नए खिलौने को तोड़ दिया।
+Tom broke his promise.	Tom brach sein Versprechen.	टॉम ने अपना वादा तोड़ दिया।
+Tom broke out of jail.	Tom brach aus dem Gefängnis aus.	टॉम जेल से भाग गया।
+Tom brushed his horse.	Tom bürstete sein Pferd.	टॉम ने अपने घोड़े को ब्रश किया।
+Tom brushed his teeth.	Tom putzte sich die Zähne.	टॉम ने अपने दांत साफ़ किए।
+Tom built a birdhouse.	Tom errichtete ein Vogelhaus.	टॉम ने एक पंछी घर बनाया।
+Tom burned the letter.	Tom verbrannte den Brief.	टॉम ने पत्र जला दिया।
