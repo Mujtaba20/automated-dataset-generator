@@ -26371,3 +26371,12 @@ I hope Tom is alive.	Ich hoffe, Tom ist am Leben.	मुझे आशा है 
 I hope Tom is right.	Ich hoffe, Tom hat Recht.	मुझे आशा है कि टॉम सही है।
 I hope Tom is tough.	Ich hoffe, Tom ist hart.	मुझे आशा है कि टॉम मजबूत है।
 I hope Tom likes me.	Ich hoffe, Tom mag mich.	मुझे आशा है कि टॉम को मुझसे पसंद है।
+I hope Tom says yes.	Ich hoffe, dass Tom ja sagt.	मुझे आशा है कि टॉम हाँ कहें।
+I hope he isn't ill.	Ich hoffe, dass er nicht krank ist.	मुझे उम्मीद है कि वह बीमार नहीं है।
+I hope he will come.	Ich hoffe, dass er kommen wird.	मुझे आशा है कि वह आएगा।
+I hope it's not Tom.	Ich hoffe, es ist nicht Tom.	मैं आशा करता हूं कि यह टॉम नहीं है।
+I hope that you die.	Ich hoffe, dass du stirbst.	मैं आशा करता हूं कि तुम मर जाओ।
+I hope you can come.	Ich hoffe, du kannst kommen.	मुझे आशा है कि तुम आ सकते हो।
+I hope you have fun.	Ich hoffe, du hast Spaß.	मुझे उम्मीद है कि तुम मज़े करो।
+I hope Tom says yes. 2	Ich hoffe, Tom sagt ja.	मुझे कामना है कि टॉम हाँ कहे।
+I hope you can come. 2	Ich hoffe, du kommst.	मुझे आशा है कि तुम आ सको।
