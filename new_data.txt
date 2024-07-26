@@ -25499,3 +25499,13 @@ Everybody was happy.	Jeder war glücklich.	सब खुश थे।
 Everybody was tired.	Jeder war müde.	सब थके हुए थे।
 Everybody's smiling.	Alle lächeln.	सब मुस्कुरा रहे हैं।
 Everybody's talking.	Jeder redet.	सब बात कर रहे हैं।
+Everybody's worried.	Jeder macht sich Sorgen.	सभी परेशान हैं।
+Everyone is singing.	Jeder singt.	सभी गा रहे हैं।
+Everyone is special.	Jeder ist besonders.	हर कोई विशेष है।
+Everyone knows that.	Jeder weiß das.	सबको पता है।
+Everyone lies to me.	Alle lügen mich an.	सभी मेरे साथ झूठ बोलते हैं।
+Everyone likes them.	Jeder mag sie.	सभी को वो पसंद है।
+Everyone was hungry.	Alle waren hungrig.	सभी भूखे थे।
+Everyone was killed.	Alle wurden getötet.	सभी को मार दिया गया था।
+Everyone's doing it.	Alle machen es.	सभी यह कर रहे हैं।
+Everyone's laughing.	Alle lachen.	सब हँस रहे हैं।
