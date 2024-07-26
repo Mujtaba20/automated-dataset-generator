@@ -28478,3 +28478,12 @@ This is unfortunate.	Das ist bedauerlich.	यह दुर्भाग्यप�
 This is very simple.	Das ist sehr einfach.	यह बहुत ही सरल है।
 This is what I need.	Das ist was ich brauche.	यह वह है जिसकी मुझे आवश्यकता है।
 This is what I want.	Das ist was ich will.	इसी चीज की मुझे चाह है।
+This is your chance.	Das ist deine Gelegenheit.	यह तुम्हारा अवसर है।
+This isn't a secret.	Das ist kein Geheimnis.	यह एक रहस्य नहीं है।
+This isn't about me.	Es geht nicht um mich.	यह मेरे बारे में नहीं है।
+This isn't about us.	Es geht nicht um uns.	यह हमारे बारे में नहीं है।
+This isn't for sale.	Das steht nicht zum Verkauf.	यह बेचने के लिए नहीं है।
+This isn't like you.	Das bist du nicht.	यह तुम जैसा नहीं है।
+This isn't my money.	Das ist nicht mein Geld.	यह मेरे पैसे नहीं हैं।
+This isn't over yet.	Das ist noch nicht vorbei.	यह अभी खत्म नहीं हुआ है।
+This isn't worth it.	Es lohnt sich nicht.	यह योग्य नहीं है।

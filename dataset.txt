@@ -1,14 +1,4 @@
 
-This is your chance.	Das ist deine Chance.	यह आपका मौका है।
-This is your chance.	Das ist Ihre Chance.	यह तुम्हारा मौका है।
-This isn't a secret.	Das ist kein Geheimnis.	यह कोई रहस्य नहीं है।
-This isn't about me.	Hier geht es nicht um mich.	यह मेरे बारे में नहीं है।
-This isn't about us.	Hier geht es nicht um uns.	यह हमारे बारे में नहीं है।
-This isn't for sale.	Das ist nicht verkäuflich.	यह बिक्री के लिए नहीं है।
-This isn't like you.	Das ist dir nicht ähnlich.	यह आपके समान नहीं है।
-This isn't my money.	Das ist nicht mein Geld.	यह मेरा पैसा नहीं है।
-This isn't over yet.	Das ist noch nicht vorbei.	यह अभी खत्म नहीं हुआ है।
-This isn't worth it.	Das ist es nicht wert.	यह इसके लायक नहीं है।
 This lady is Indian.	Diese Dame ist Inderin.	यह महिला भारतीय है।
 This makes me happy.	Das macht mich glücklich.	कि मुझे खुश करता है।
 This makes no sense.	Das macht keinen Sinn.	इसका कोई मतलब नहीं है।
