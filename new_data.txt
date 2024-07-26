@@ -37558,3 +37558,12 @@ I just don't love Tom.	Ich liebe Tom einfach nicht.	मैं टॉम से �
 I just heard from Tom.	Ich habe gerade von Tom gehört.	मैंने अभी टॉम से सुना है।
 I just need some rest.	Ich brauche einfach etwas Ruhe.	मुझे बस थोड़ी आराम की आवश्यकता है।
 I just now found this.	Ich habe das gerade gefunden.	मैंने अभी यह पाया है।
+I just saw a huge owl.	Ich habe gerade eine riesige Eule gesehen.	मैंने अभी एक बड़े उल्लू को देखा।
+I just saw an opossum.	Ich habe gerade ein Beuteltier gesehen.	मैंने अभी एक ओपॉसम देखा।
+I just spoke with Tom.	Ich habe gerade mit Tom gesprochen.	मैंने अभी टॉम से बात की।
+I just started crying.	Ich habe gerade angefangen zu weinen.	मैंने अभी रोना शुरू किया।
+I just stubbed my toe.	Ich habe mir gerade den Zeh gestoßen.	मैंने अभी अपने पैर के अंगूठे को टकराया।
+I just want the facts.	Ich möchte nur die Fakten.	मुझे सिर्फ तथ्य चाहिए।
+I just want your love.	Ich möchte nur deine Liebe.	मुझे सिर्फ तुम्हारा प्यार चाहिए।
+I just want your love. (Different meaning)	Ich will nur deine Zuneigung.	मैं सिर्फ तुम्हारा प्यार चाहता हूँ।
+I just went into debt.	Ich bin gerade in Schulden geraten.	मैंने अभी कर्ज में पड़ा।
