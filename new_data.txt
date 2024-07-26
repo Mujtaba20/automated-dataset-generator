@@ -31054,3 +31054,13 @@ He is angry with you.	Er ist wütend auf dich.	वह आपसे नारा�
 He is as tall as her.	Er ist so groß wie sie.	वह उसके जैसा ऊँचा है।
 He is away from home.	Er ist fern von Zuhause.	वह घर से दूर है।
 He is bad at driving.	Er ist schlecht im Fahren.	उसकी ड्राइविंग बुरी है।
+He is close to sixty.	Er ist fast sechzig.	वह साठ के करीब है।
+He is doing his work.	Er macht seine Arbeit.	वह अपना काम कर रहा है।
+He is far from happy.	Er ist weit von glücklich.	वह खुशी से दूर है।
+He is five feet tall.	Er ist fünf Fuß groß.	वह पांच फीट लंबा है।
+He is free from care.	Er ist sorgenfrei.	वह चिंता से मुक्त है।
+He is friendly to me.	Er ist freundlich zu mir.	वह मुझसे दोस्ताना है।
+He is full of energy.	Er ist voller Energie.	वह ऊर्जा से भरा हुआ है।
+He is getting better.	Er wird besser.	वह बेहतर हो रहा है।
+He is getting better. - Different Meaning	Er kommt besser klar.	वह बेहतर समझ रहा है।
+He is getting better. - Different Meaning 2	Er wird gesünder.	वह ठीक हो रहा है।

@@ -1,14 +1,4 @@
 
-He is close to sixty.	Er ist knapp sechzig.	वह सिर्फ साठ है।
-He is doing his work.	Er erledigt seine Arbeit.	वह अपना काम करता है।
-He is far from happy.	Er ist überhaupt nicht glücklich.	वह बिल्कुल भी खुश नहीं है।
-He is five feet tall.	Er ist einen Meter zweiundfünfzig groß.	यह दो पचास का मीटर है।
-He is free from care.	Er hat keine Sorgen.	उसे कोई चिंता नहीं है।
-He is friendly to me.	Er ist freundlich zu mir.	वह मेरे अनुकूल है।
-He is full of energy.	Er ist voller Energie.	यह ऊर्जा से भरा है।
-He is getting better.	Er ist auf dem Wege der Besserung.	वह सुधार के रास्ते पर है।
-He is getting better.	Langsam geht es ihm besser.	धीरे -धीरे वह बेहतर है।
-He is getting better.	Langsam wird er besser.	धीरे -धीरे वह बेहतर हो जाता है।
 He is good at diving.	Er kann gut tauchen.	वह अच्छी तरह से गोता लगा सकता है।
 He is good at soccer.	Er spielt gut Fußball.	वह अच्छी तरह से फुटबॉल खेलता है।
 He is good at soccer.	Er ist gut im Fußball.	वह फुटबॉल में अच्छा है।
