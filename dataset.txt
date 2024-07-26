@@ -1,16 +1,4 @@
 
-Did you give it to Tom?	Hast du Tom das gegeben?	क्या आपने टॉम दिया?
-Did you give it to Tom?	Habt ihr Tom das gegeben?	क्या आपने टॉम दिया?
-Did you give it to Tom?	Haben Sie Tom das gegeben?	क्या आपने टॉम दिया?
-Did you go and see Tom?	Hast du Tom besucht?	क्या आपने टॉम का दौरा किया?
-Did you go and see Tom?	Habt ihr Tom besucht?	क्या आपने टॉम का दौरा किया?
-Did you go and see Tom?	Haben Sie Tom besucht?	क्या आपने टॉम का दौरा किया?
-Did you guys hear that?	Habt ihr da das gehört?	आपको लगता है कि सुना?
-Did you guys hear that?	Leute, habt ihr das gehört?	लोग, क्या आपने सुना है?
-Did you have breakfast?	Habt ihr schon gefrühstückt?	क्या आपने पहले से ही नाश्ता किया था?
-Did you hear about Tom?	Hast du das von Tom gehört?	क्या आपने टॉम से सुना है?
-Did you hear about Tom?	Habt ihr das von Tom gehört?	क्या आपने टॉम से सुना है?
-Did you hear about Tom?	Haben Sie das von Tom gehört?	क्या आपने टॉम से सुना है?
 Did you hear something?	Hast du etwas gehört?	क्या आपने कुछ सुना?
 Did you hear the click?	Haben Sie das Klicken gehört?	क्या आपने क्लिक सुना?
 Did you hear the noise?	Hast du das Geräusch gehört?	क्या आपने आवाज सुनी?
