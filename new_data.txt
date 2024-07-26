@@ -32195,3 +32195,11 @@ I used to drink beer.	Früher habe ich Bier getrunken.	मैंने पहल
 I used to live there.	Ich habe dort gelebt.	मैं वहाँ रहता था।
 I used to swim a lot.	Ich schwamm früher viel.	मैंने पहले बहुत सारा तैराकी था।
 I usually go on foot.	Ich gehe normalerweise zu Fuß.	मैं आम तौर पर पैदल जाता हूं।
+I waited for a reply.	Ich wartete auf eine Antwort.	मैंने एक जवाब के लिए प्रतीक्षा की।
+I waited three hours.	Ich habe drei Stunden gewartet.	मैंने तीन घंटे इंतजार किया।
+I wake up very early.	Ich wache sehr früh auf.	मैं बहुत जल्दी उठ जाता हूं।
+I walked up the hill.	Ich bin den Hügel hochgegangen.	मैं पहाड़ पर चढ़ा गया।
+I want a new kitchen.	Ich möchte eine neue Küche.	मुझे एक नया रसोईघर चाहिए।
+I want an MP3 player!	Ich möchte einen MP3-Player!	मुझे एक एमपी 3 प्लेयर चाहिए!
+I want my phone back.	Ich will mein Handy zurück.	मुझे अपना फोन वापस चाहिए।
+I want one like that.	Ich möchte einen wie diesen.	मुझे उस तरह का एक चाहिए।
