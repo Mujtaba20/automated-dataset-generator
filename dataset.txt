@@ -1,14 +1,4 @@
 
-This is not my car.	Dies ist nicht mein Wagen.	यह मेरी कार नहीं है।
-This is not my day.	Heute ist nicht mein Tag.	आज का दिन मेरा नहीं है।
-This is not normal.	Das ist nicht normal.	यह सामान्य नहीं है।
-This is plagiarism.	Das ist Diebstahl geistigen Eigentums.	यह बौद्धिक संपदा की चोरी है।
-This is really bad.	Das ist sehr schlecht.	यह तो बड़ी बुरी बात है।
-This is really bad.	Das ist wirklich schlecht.	यह वास्तव में बुरा है।
-This is really big.	Das hier ist ganz schön groß.	यह बहुत बड़ा है।
-This is really sad.	Das ist echt traurig.	यह वास्तव में दुखद है।
-This is remarkable.	Das ist bemerkenswert.	यह उल्लेखनीय है।
-This is ridiculous.	Das ist lächerlich.	यह हास्यास्पद है।
 This is so awkward.	Das ist so misslich.	यह बहुत बुरा है।
 This is surprising.	Das ist überraschend.	यह आश्चर्यजनक है।
 This is surprising.	Dies ist überraschend.	यह आश्चर्य की बात है।

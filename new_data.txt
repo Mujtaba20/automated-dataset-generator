@@ -23229,3 +23229,12 @@ This is news to me.	Das ist neu für mich.	यह मेरे लिए खब�
 This is not a game.	Das ist kein Spiel.	यह खेल नहीं है।
 This is not enough.	Das ist nicht genug.	यह काफ़ी नहीं है।
 This is not for me.	Das ist nicht für mich.	यह मेरे लिए नहीं है।
+This is not my car.	Das ist nicht mein Auto.	यह मेरी कार नहीं है।
+This is not my day.	Das ist nicht mein Tag.	यह मेरा दिन नहीं है।
+This is not normal.	Das ist nicht normal.	यह सामान्य नहीं है।
+This is plagiarism.	Das ist ein Plagiat.	यह अनुरूपण है।
+This is really bad.	Das ist wirklich schlecht.	यह सच में बुरा है।
+This is really big.	Das ist wirklich groß.	यह वास्तव में बड़ा है।
+This is really sad.	Das ist wirklich traurig.	यह सच में दुखद है।
+This is remarkable.	Das ist bemerkenswert.	यह ग़ायब है।
+This is ridiculous.	Das ist lächerlich.	यह निरर्थक है।
