@@ -27651,3 +27651,11 @@ My neck still hurts.	Mein Hals schmerzt noch.	मेरा गला अभी �
 My neighbor is nice.	Mein Nachbar ist nett.	मेरा पड़ोसी अच्छा है।
 My new shoes squeak.	Meine neuen Schuhe quietschen.	मेरे नए जूते चींगनी करते हैं।
 My niece is a nurse.	Meine Nichte arbeitet als Krankenschwester.	मेरी भांजी एक नर्स है।
+My nose is bleeding.	Meine Nase blutet.	मेरी नाक से खून निकल रहा है।
+My notebook is pink.	Mein Notizbuch ist rosa.	मेरा नोटबुक गुलाबी है।
+My opponent was Tom.	Mein Gegner war Tom.	मेरा प्रतिद्वंद्वी टॉम था।
+My parents are dead.	Meine Eltern sind tot.	मेरे माता-पिता मर गए हैं।
+My phone is ringing.	Mein Telefon klingelt.	मेरा फ़ोन रिंगिंग कर रहा है।
+My phone was broken.	Mein Telefon war kaputt.	मेरा फ़ोन टूट गया था।
+My room is upstairs.	Mein Zimmer ist oben.	मेरा कमरा ऊपर है।
+My room key, please.	Mein Zimmerschlüssel, bitte.	मेरे कमरे की चाबी, कृपया।

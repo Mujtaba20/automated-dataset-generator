@@ -1,14 +1,4 @@
 
-My nose is bleeding.	Meine Nase blutet.	मेरी नाक से खून बह रहा है।
-My notebook is pink.	Mein Notizbuch ist rosa.	मेरी नोटबुक गुलाबी है।
-My notebook is pink.	Mein Notebook ist rosa.	मेरी नोटबुक गुलाबी है।
-My opponent was Tom.	Mein Gegner war Tom.	मेरा प्रतिद्वंद्वी टॉम था।
-My parents are dead.	Meine Eltern sind tot.	मेरे माता -पिता मर चुके हैं।
-My phone is ringing.	Mein Telefon klingelt.	मेरा फोन बज रहा है।
-My phone was broken.	Mein Telefon war kaputt.	मेरा फोन टूट गया था।
-My room is upstairs.	Mein Zimmer ist oben.	मेरा कमरा ऊपर है।
-My room key, please.	Den Zimmerschlüssel, bitte.	कमरे की कुंजी, कृपया।
-My room key, please.	Meinen Zimmerschlüssel, bitte.	कृपया मेरे कमरे की चाबी।
 My room number is 5.	Ich habe die Zimmernummer 5.	मेरे पास कमरा नंबर 5 है।
 My shirt was ruined.	Mein Hemd war ruiniert.	मेरी शर्ट बर्बाद हो गई।
 My sister has a job.	Meine Schwester hat einen Job.	मेरी बहन के पास नौकरी है।
