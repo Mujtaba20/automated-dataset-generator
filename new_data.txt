@@ -36588,3 +36588,11 @@ Everyone is different.	Jeder ist anders.	सभी अलग हैं।
 Everyone looked happy.	Alle sahen glücklich aus.	सभी खुश लग रहे थे।
 Everyone noticed that.	Jeder hat das bemerkt.	सभी ने यह देखा।
 Everyone was confused.	Alle waren verwirrt.	सभी उलझन में थे।
+Everyone was drinking.	Alle haben getrunken.	सभी पी रहे थे।
+Everyone's doing that.	Alle machen das.	सभी वह कर रहे हैं।
+Everything is working.	Alles funktioniert.	सब कुछ काम कर रहा है।
+Everything looks fine.	Alles sieht gut aus.	सब कुछ अच्छा लग रहा है।
+Everything looks good.	Alles sieht gut aus.	सब कुछ अच्छी तरह से दिखता है।
+Everything was stolen.	Alles wurde gestohlen.	सब कुछ चुराया गया था।
+Everything went black.	Alles wurde schwarz.	सब कुछ काला हो गया।
+Everything's changing.	Alles ändert sich.	सब कुछ बदल रहा है।
