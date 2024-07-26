@@ -1,14 +1,4 @@
 
-Tom picked Mary up.	Tom holte Maria ab.	टॉम ने मारिया को उठाया।
-Tom picked Mary up.	Tom hob Maria hoch.	टॉम ने मारिया को उठाया।
-Tom pinched my arm.	Tom kniff mich in den Arm.	टॉम ने मुझे अपनी बांह में चुटकी ली।
-Tom plays football.	Tom spielt Fußball.	टॉम फुटबॉल खेलता है।
-Tom plays the harp.	Tom spielt Harfe.	टॉम हार्प खेलता है।
-Tom probably knows.	Tom weiß es vermutlich.	टॉम शायद जानता है।
-Tom proposed to me.	Tom hat mir einen Heiratsantrag gemacht.	टॉम ने मुझे शादी का प्रस्ताव दिया।
-Tom pulled a lever.	Tom zog an einem Hebel.	टॉम ने एक लीवर पर खींच लिया।
-Tom pulled my hair.	Tom hat mich an den Haaren gezogen.	टॉम ने मुझे मेरे बालों पर खींच लिया।
-Tom pushed past me.	Tom schob mich beiseite und ging.	टॉम ने मुझे एक तरफ धकेल दिया और चला गया।
 Tom raised his arm.	Tom hob seinen Arm.	टॉम ने अपना हाथ उठाया।
 Tom raised his hat.	Tom lüftete seinen Hut.	टॉम ने अपनी टोपी को हवादार किया।
 Tom raises orchids.	Tom züchtet Orchideen.	टॉम ब्रीड ऑर्किड।

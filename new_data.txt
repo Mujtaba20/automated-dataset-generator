@@ -23923,3 +23923,12 @@ Tom obviously lied.	Tom hat offensichtlich gelogen.	टॉम स्पष्ट
 Tom only eats meat.	Tom isst nur Fleisch.	टॉम सिर्फ मांस खाता है।
 Tom ordered a beer.	Tom bestellte ein Bier.	टॉम ने एक बीयर आदेश दिया।
 Tom owns a theater.	Tom besitzt ein Theater.	टॉम के पास एक थिएटर है।
+Tom picked Mary up.	Tom hat Mary aufgehoben.	टॉम ने मेरी को चुना।
+Tom pinched my arm.	Tom hat meinen Arm gekniffen.	टॉम ने मेरे हाथ को मारा।
+Tom plays football.	Tom spielt Fußball.	टॉम फुटबॉल खेलता है।
+Tom plays the harp.	Tom spielt die Harfe.	टॉम हार्प बजाता है।
+Tom probably knows.	Tom weiß wahrscheinlich.	शायद टॉम जानता है।
+Tom proposed to me.	Tom hat mir einen Antrag gemacht.	टॉम ने मुझसे प्रस्तावित किया।
+Tom pulled a lever.	Tom hat einen Hebel gezogen.	टॉम ने एक लेवर खींचा।
+Tom pulled my hair.	Tom hat an meinen Haaren gezogen.	टॉम ने मेरे बाल खींचे।
+Tom pushed past me.	Tom ist an mir vorbeigedrängt.	टॉम ने मेरे पास धक्के दिए।
