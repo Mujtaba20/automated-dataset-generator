@@ -30895,3 +30895,11 @@ Give me those gloves.	Gib mir die Handschuhe.	मुझे वो दस्त�
 Give me your address.	Gib mir deine Adresse.	मुझे अपना पता दो।
 Give that back to me.	Geben Sie mir das zurück.	मुझे वह वापस करें।
 Give the keys to Tom.	Gib die Schlüssel Tom.	चाबियाँ टॉम को दे दो।
+Give us five minutes.	Gib uns fünf Minuten.	पाँच मिनट दो.
+Go ahead and ask Tom.	Geh weiter und frage Tom.	आगे बढ़ो और अपने टॉम से पूछो।
+Go and open the door.	Geh und öffne die Tür.	जाओ और दरवाज़ा खोलो।
+Go and see who it is.	Geh und schau, wer es ist.	जाओ और देखो कि यह कौन है।
+Go back to your room.	Geh zurück in dein Zimmer.	अपने कमरे में वापस जाओ।
+Go back to your seat.	Geh zurück zu deinem Platz.	अपनी सीट पर वापस जाओ।
+Go back to your work.	Geh zurück zu deiner Arbeit.	अपने काम पर वापस जाओ।
+Go get your passport.	Hol dir deinen Pass.	अपना पासपोर्ट लेने जाओ।
