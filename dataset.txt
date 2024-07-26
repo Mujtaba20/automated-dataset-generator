@@ -1,14 +1,4 @@
 
-Tom scanned the room.	Tom blickte sich im Zimmer um.	टॉम ने कमरे में चारों ओर देखा।
-Tom scored 30 points.	Tom erzielte 30 Punkte.	टॉम ने 30 अंक बनाए।
-Tom seemed conceited.	Tom wirkte arrogant.	टॉम अभिमानी लग रहा था।
-Tom seemed surprised.	Tom schien überrascht zu sein.	टॉम आश्चर्यचकित लग रहा था।
-Tom seemed to be ill.	Tom schien krank zu sein.	टॉम बीमार लग रहा था।
-Tom seems determined.	Tom scheint entschlossen.	टॉम दृढ़ लगता है।
-Tom seems distressed.	Tom scheint verzweifelt zu sein.	टॉम हताश लगता है।
-Tom seems frustrated.	Tom scheint frustriert zu sein.	टॉम निराश लगता है।
-Tom seems quite busy.	Tom scheint ganz schön viel zu tun zu haben.	टॉम को बहुत कुछ करना है।
-Tom seems to be rich.	Tom scheint reich zu sein.	टॉम अमीर लगता है।
 Tom seems to be sick.	Tom sieht krank aus.	टॉम बीमार लग रहा है।
 Tom seems unreliable.	Tom scheint unzuverlässig zu sein.	टॉम अविश्वसनीय लगता है।
 Tom seems very happy.	Tom scheint sehr glücklich zu sein.	टॉम बहुत खुश लग रहा है।

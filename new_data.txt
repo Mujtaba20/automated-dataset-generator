@@ -34819,3 +34819,13 @@ Tom says he was busy.	Tom sagt, dass er beschäftigt war.	टॉम कहता
 Tom says he's hungry.	Tom sagt, dass er hungrig ist.	टॉम कहता है कि वह भूखा है।
 Tom says he's unsure.	Tom sagt, dass er unsicher ist.	टॉम कहता है कि वह अनिश्चित है।
 Tom says you're cute.	Tom sagt, du bist niedlich.	टॉम कहता है कि तुम प्यारी हो।
+Tom scanned the room.	Tom scannte den Raum.	टॉम ने कमरे को स्कैन किया।
+Tom scored 30 points.	Tom erzielte 30 Punkte.	टॉम को 30 अंक मिले।
+Tom seemed conceited.	Tom schien eingebildet.	टॉम अहंकारी लगा।
+Tom seemed surprised.	Tom schien überrascht.	टॉम हैरान लगा।
+Tom seemed to be ill.	Tom schien krank zu sein.	लगता है कि टॉम बीमार है।
+Tom seems determined.	Tom scheint entschlossen.	लगता है कि टॉम निर्धारित है।
+Tom seems distressed.	Tom scheint verzweifelt.	टॉम परेशान लगता है।
+Tom seems frustrated.	Tom scheint frustriert.	लगता है कि टॉम परेशान है।
+Tom seems quite busy.	Tom scheint ziemlich beschäftigt zu sein.	लगता है कि टॉम काफी व्यस्त है।
+Tom seems to be rich.	Tom scheint reich zu sein.	टॉम धनवान होने लगा है।
