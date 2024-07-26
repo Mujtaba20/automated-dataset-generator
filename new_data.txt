@@ -22766,3 +22766,10 @@ She was all smiles.	Sie strahlte über das ganze Gesicht.	उसका पूर
 She was born blind.	Sie wurde blind geboren.	उसे अंधा होकर पैदा हुआ।
 She was born blind. (Different meaning)	Sie war von Geburt an blind.	उसका जन्म से ही अंधा था।
 She was born lucky.	Sie wurde glücklich geboren.	वह भाग्यशाली जन्मी थी।
+She was in a hurry.	Sie hatte es eilig.	उसे जल्दी थी।
+She was laughed at.	Sie wurde ausgelacht.	उसके मजाक उड़ाया गया था।
+She was making tea.	Sie machte Tee.	उसने चाय बना रही थी।
+She will come soon.	Sie wird bald kommen.	वह जल्द ही आएगी।
+She's Tom's sister.	Sie ist Toms Schwester.	वह टॉम की बहन है।
+She's a big teaser.	Sie ist eine große Neckerin.	वह एक बड़ी मजाकिया है।
+She's a smart girl.	Sie ist ein kluges Mädchen.	वह एक होशियार लड़की है।
