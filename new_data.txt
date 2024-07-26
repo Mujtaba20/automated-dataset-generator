@@ -26154,3 +26154,10 @@ I couldn't call you.	Ich konnte dich nicht anrufen.	मैं तुम्हे
 I couldn't hear Tom.	Ich konnte Tom nicht hören.	मैं टॉम को नहीं सुन सका।
 I couldn't stand it.	Ich konnte es nicht ertragen.	मैं इसे सह नहीं सका।
 I couldn't stop Tom.	Ich konnte Tom nicht aufhalten.	मैं टॉम को रोक नहीं सका।
+I counted up to 200.	Ich zählte bis 200 hoch.	मैंने 200 तक गिना।
+I cried all morning.	Ich habe den ganzen Morgen geweint.	मैंने पूरे सुबह रोया।
+I did it on purpose.	Ich habe es mit Absicht gemacht.	मैंने यह जानबूझकर किया।
+I did no such thing.	Ich habe nichts Derartiges getan.	मैंने ऐसी कोई चीज नहीं की।
+I didn't expect you.	Ich hatte nicht mit dir gerechnet.	मैंने तुमसे उम्मीद नहीं रखी थी।
+I didn't forget you.	Ich habe dich nicht vergessen.	मैंने तुम्हें भूला नहीं।
+I didn't have a job.	Ich hatte keinen Job.	मेरे पास नौकरी नहीं थी।
