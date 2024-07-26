@@ -1,14 +1,4 @@
 
-There is no salt left.	Es ist kein Salz mehr da.	अब कोई नमक नहीं है।
-There is nothing here.	Hier ist nichts.	यहाँ कुछ भी नहीं है।
-There is someone here.	Hier ist jemand.	यहाँ कोई है।
-There was an accident.	Es gab einen Unfall.	वहाँ एक दुर्घटना थी।
-There was no one home.	Es war niemand zu Hause.	यह घर पर कोई नहीं था।
-There was no response.	Es gab keine Antwort.	कोई जवाब नहीं था।
-There was one witness.	Es gab einen Zeugen.	एक गवाह था।
-There's a big problem.	Es gibt da ein großes Problem.	एक बड़ी समस्या है।
-There's a grease spot.	Da ist ein Fettfleck.	एक वसा का दाग है।
-There's a little wind.	Es weht ein leichter Wind.	एक हल्की हवा चलती है।
 There's a yellow rose.	Da ist eine gelbe Rose.	एक पीला गुलाब है।
 There's no free lunch.	Da gibt es kein kostenloses Mittagessen.	दुनिया में कोई भी चीज मुफ्त में नहीं मिलती।
 There's no going back.	Es gibt kein Zurück.	कोई पीठ नहीं है।

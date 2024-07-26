@@ -39580,3 +39580,13 @@ There is a better way.	Es gibt einen besseren Weg.	एक बेहतर रा
 There is no milk left.	Es ist keine Milch mehr übrig.	दूध नहीं बचा है।
 There is no one there.	Da ist niemand.	वहाँ कोई नहीं है।
 There is no other way.	Es gibt keinen anderen Weg.	कोई और रास्ता नहीं है।
+There is no salt left.	Es ist kein Salz übrig.	नमक नहीं बचा है।
+There is nothing here.	Hier ist nichts.	यहाँ कुछ नहीं है।
+There is someone here.	Hier ist jemand.	यहाँ कोई है।
+There was an accident.	Es gab einen Unfall.	एक दुर्घटना हुई थी।
+There was no one home.	Niemand war zu Hause.	कोई घर पर नहीं था।
+There was no response.	Es gab keine Antwort.	कोई प्रतिक्रिया नहीं थी।
+There was one witness.	Es gab einen Zeugen.	एक गवाह था।
+There's a big problem.	Es gibt ein großes Problem.	एक बड़ी समस्या है।
+There's a grease spot.	Es gibt einen Fettfleck.	एक तेल का दाग है।
+There's a little wind.	Es gibt etwas Wind.	थोड़ी हवा चल रही है।
