@@ -35054,3 +35054,12 @@ Tom will notify Mary.	Tom wird Mary benachrichtigen.	टॉम मैरी क�
 Tom will protect you.	Tom wird dich beschützen.	टॉम तुम्हें सुरक्षित रखेगा।
 Tom will regret this.	Tom wird dies bereuen.	टॉम इसे पछताएगा।
 engSentence	{'Tom won a gold medal.': 'Tom hat eine Goldmedaille gewonnen.', 'Tom won the marathon.': 'Tom gewann den Marathon.', "Tom won't come today.": 'Tom wird heute nicht kommen.', "Tom won't let you go.": 'Tom wird dich nicht gehen lassen.', "Tom won't understand.": 'Tom wird nicht verstehen.', 'Tom wore a Santa hat.': 'Tom trug eine Nikolausmütze.', 'Tom wore a straw hat.': 'Tom trug einen Strohhut.', 'Tom wore black jeans.': 'Tom trug schwarze Jeans.'}	{'Tom won a gold medal.': 'टॉम ने सोने का पदक जीता।', 'Tom won the marathon.': 'टॉम ने मैराथन जीता।', "Tom won't come today.": 'टॉम आज नहीं आएगा।', "Tom won't let you go.": 'टॉम आपको जाने नहीं देगा।', "Tom won't understand.": 'टॉम समझेगा नहीं।', 'Tom wore a Santa hat.': 'टॉम ने एक सांता की टोपी पहनी।', 'Tom wore a straw hat.': 'टॉम ने एक स्ट्रॉ हैट पहना।', 'Tom wore black jeans.': 'टॉम ने काली जीन्स पहनी।'}
+Tom worked all night.	Tom hat die ganze Nacht gearbeitet.	टॉम ने पूरी रात काम किया।
+Tom worked in Boston.	Tom arbeitete in Boston.	टॉम बोस्टन में काम किया।
+Tom worked very hard.	Tom hat sehr hart gearbeitet.	टॉम ने बहुत मेहनत की।
+Tom worked with Mary.	Tom hat mit Mary gearbeitet.	टॉम ने मेरी के साथ काम किया।
+Tom works for a bank.	Tom arbeitet für eine Bank.	टॉम एक बैंक के लिए काम करता है।
+Tom works long hours.	Tom arbeitet lange Stunden.	टॉम लंबी घंटों तक काम करता है।
+Tom works on Sundays.	Tom arbeitet an Sonntagen.	टॉम रविवार को काम करता है।
+Tom worries too much.	Tom macht sich zu viele Sorgen.	टॉम बहुत चिंता करता है।
+Tom would fight back.	Tom würde zurückschlagen.	टॉम वापस लड़ाई लड़ना चाहेगा।

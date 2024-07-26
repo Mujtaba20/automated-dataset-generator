@@ -1,14 +1,4 @@
 
-Tom worked all night.	Tom hat die ganze Nacht gearbeitet.	टॉम ने पूरी रात काम किया।
-Tom worked in Boston.	Tom hat in Boston gearbeitet.	टॉम ने बोस्टन में काम किया।
-Tom worked very hard.	Tom arbeitete sehr hart.	टॉम ने बहुत मेहनत की।
-Tom worked very hard.	Tom hat sehr hart gearbeitet.	टॉम ने बहुत मेहनत की।
-Tom worked with Mary.	Tom hat mit Maria zusammengearbeitet.	टॉम ने मारिया के साथ काम किया।
-Tom works for a bank.	Tom arbeitet bei einer Bank.	टॉम एक बैंक में काम करता है।
-Tom works long hours.	Tom hat eine lange Arbeitszeit.	टॉम के पास लंबे समय तक काम करने का समय है।
-Tom works on Sundays.	Tom arbeitet sonntags.	टॉम रविवार को काम करता है।
-Tom worries too much.	Tom macht sich zu viele Sorgen.	टॉम बहुत चिंतित है।
-Tom would fight back.	Tom würde zurückschlagen.	टॉम ने वापस हरा दिया।
 Tom wouldn't approve.	Tom wollte einfach nicht zustimmen.	टॉम बस सहमत नहीं करना चाहता था।
 Tom wouldn't approve.	Tom würde nicht zustimmen.	टॉम सहमत नहीं होगा।
 Tom wouldn't give in.	Tom wollte nicht nachgeben.	टॉम अंदर नहीं देना चाहता था।
