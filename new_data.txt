@@ -23287,3 +23287,11 @@ Tie your shoelaces.	Binden Sie Ihre Schnürsenkel.	अपनी जूते क
 Tighten the screws.	Zieh die Schrauben fest.	स्क्रू को ढीला न करें।
 Tighten this screw.	Ziehen Sie diese Schraube an.	इस स्क्रू को मजबूत करें।
 Tighten this screw.1	Diese Schraube festziehen.	इस स्क्रू को कसकर बंधे।
+Times have changed.	Die Zeiten haben sich geändert.	समय बदल गया है।
+Today is a holiday.	Heute ist ein Feiertag.	आज छुट्टी है।
+Today is a hot day.	Heute ist ein heißer Tag.	आज एक गर्म दिन है।
+Tom abandoned hope.	Tom hat die Hoffnung aufgegeben.	टॉम ने उम्मीद छोड़ दी।
+Tom abandoned them.	Tom hat sie im Stich gelassen.	टॉम ने उन्हें छोड़ दिया।
+Tom agreed with me.	Tom stimmte mir zu.	टॉम मेरे साथ सहमत था।
+Tom agrees with me.	Tom stimmt mir zu.	टॉम मेरे साथ सहमत है।
+Tom almost drowned.	Tom wäre beinahe ertrunken.	टॉम लगभग डूब गया था।
