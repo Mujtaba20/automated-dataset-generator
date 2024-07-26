@@ -1,15 +1,4 @@
 
-Better safe than sorry.	Sicher ist sicher.	माफी से अधिक सुरक्षित।
-Blue looks good on you.	Blau steht dir gut.	नीला आपको सूट करता है।
-Blue looks good on you.	Blau steht euch gut.	नीला आपके लिए अच्छा है।
-Blue looks good on you.	Blau steht Ihnen gut.	नीला आपके लिए अच्छा है।
-Bosses are people, too.	Chefs sind auch nur Menschen.	बॉस केवल लोग हैं।
-Boston is a great city.	Boston ist eine großartige Stadt.	बोस्टन एक महान शहर है।
-Boston is a great town.	Boston ist eine herrliche Stadt.	बोस्टन एक अद्भुत शहर है।
-Boston is our home now.	Boston ist jetzt unser Zuhause.	बोस्टन अब हमारा घर है।
-Bring me a moist towel.	Bring mir ein feuchtes Handtuch.	मुझे एक नम तौलिया ले आओ।
-Bring me the magazines.	Bringe mir die Zeitschriften.	मुझे पत्रिकाएँ ले आओ।
-Bring me the magazines.	Bringen Sie mir die Zeitschriften.	मुझे पत्रिकाएँ ले आओ।
 Bring me the newspaper.	Bring mir die Zeitung.	मुझे अखबार ले आओ।
 Bring me today's paper.	Bring mir die Zeitung von heute.	मुझे आज का अखबार ले आओ।
 Bring the bill, please.	Bringen Sie bitte die Rechnung.	कृपया बिल लाओ।
