@@ -24475,3 +24475,10 @@ What a strange dog!	Was für ein seltsamer Hund!	कितना अजीब �
 What a strange guy!	Was für ein seltsamer Typ!	कितना अजीब आदमी!
 What a strange man!	Was für ein seltsamer Mann!	कितना अजीब आदमी!
 What a strong wind!	Was für ein starker Wind!	कितनी तेज़ हवा!
+What am I here for?	Wofür bin ich hier?	मैं यहाँ क्यों हूँ?
+What an idiot I am!	Was für ein Idiot bin ich!	मैं कितना मूर्ख हूँ!
+What an ugly dress!	Was für ein hässliches Kleid!	कितना बदसूरत ड्रेस है!
+What are my orders?	Was sind meine Befehle?	मेरे आदेश क्या हैं?
+What are the facts?	Was sind die Fakten?	सच्चाइयां क्या हैं?
+What are the rules?	Was sind die Regeln?	नियम क्या हैं?
+What are these for?	Wofür sind diese?	ये किस लिए हैं?
