@@ -20853,3 +20853,13 @@ He stood behind me.	Er stand hinter mir.	वह मेरे पीछे था
 He stopped smoking.	Er hörte auf zu rauchen.	उसने धूम्रपान छोड़ दिया।
 He stopped talking.	Er hörte auf zu reden.	उसने बात करना बंद कर दिया।
 He teaches English.	Er unterrichtet Englisch.	वह अंग्रेजी पढ़ाता है।
+He thrust me aside.	Er stieß mich beiseite.	उसने मुझे अलग कर दिया।
+He took a big risk.	Er hat ein großes Risiko eingegangen.	उसने एक बड़ी जोखिम उठाया।
+He took a week off.	Er nahm sich eine Woche frei.	उसने एक सप्ताह छुट्टी ली।
+He touched my hand.	Er berührte meine Hand.	उसने मेरा हाथ छुआ।
+He used a fake I.D.	Er benutzte einen gefälschten Ausweis.	उसने एक जाली पहचानपत्र का उपयोग किया।
+He waited his turn.	Er hat auf seine Wende gewartet.	उसने अपनी बारी का इंतजार किया।
+He walks to school.	Er geht zur Schule.	वह स्कूल जाता है।
+He wants a new car.	Er möchte ein neues Auto.	उसे एक नई कार चाहिए।
+He wants affection.	Er möchte Zuneigung.	उसे प्यार चाहिए।
+He wants an iPad 4.	Er möchte ein iPad 4.	उसे एक iPad 4 चाहिए।
