@@ -37949,3 +37949,11 @@ I want to go downtown.	Ich will in die Innenstadt gehen.	मैं शहर क
 I want to go with Tom.	Ich will mit Tom gehen.	मैं टॉम के साथ जाना चाहता हूँ।
 I want to go with you.	Ich will mit dir gehen.	मैं तुम्हारे साथ जाना चाहता हूँ।
 I want to leave early.	Ich möchte früh gehen.	मैं जल्दी जाना चाहता हूँ।
+I want to lose weight.	Ich will Gewicht verlieren.	मैं वजन कम करना चाहता/चाहती हूँ।
+I want to participate.	Ich will daran teilnehmen.	मैं इसमें भाग लेना चाहता हूँ।
+I want to say goodbye.	Ich möchte mich verabschieden.	मैं अलविदा कहना चाहता हूँ।
+I want to see Tom now.	Ich möchte jetzt Tom sehen.	मैं अब तोम को देखना चाहता हूँ।
+I want to sing a song.	Ich möchte ein Lied singen.	मैं एक गाना गाने का मन कर रहा हूँ।
+I want to stay longer.	Ich möchte länger bleiben.	मैं और लंबे समय तक रुकना चाहता हूँ।
+I want to talk to Tom.	Ich möchte mit Tom sprechen.	मैं टॉम से बात करना चाहता हूँ।
+I want to talk to her.	Ich möchte mit ihr sprechen.	मैं उससे बात करना चाहता हूँ।

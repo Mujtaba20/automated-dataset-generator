@@ -1,14 +1,4 @@
 
-I want to lose weight.	Ich will abnehmen.	मैं अपना वजन कम करना चाहता हूँ।
-I want to lose weight.	Ich möchte abnehmen.	मैं वजन कम करना चाहता हूं।
-I want to participate.	Ich möchte mitmachen.	मैं भाग लेना चाहता हूं।
-I want to participate.	Ich möchte teilnehmen.	मैं भाग लेना चाहता हूं।
-I want to say goodbye.	Ich möchte mich verabschieden.	मैं अलविदा कहना चाहता हूं।
-I want to see Tom now.	Ich will jetzt Tom sehen.	मैं अब टॉम देखना चाहता हूं।
-I want to sing a song.	Ich möchte ein Lied singen.	मैं एक गीत गाना चाहता हूं।
-I want to stay longer.	Ich will länger bleiben.	मैं अधिक समय तक रहना चाहता हूं।
-I want to talk to Tom.	Ich will mit Tom reden.	मैं टॉम से बात करना चाहता हूं।
-I want to talk to her.	Ich will mit ihr sprechen.	मैं उससे बात करना चाहता हूं।
 I want to talk to him.	Ich will mit ihm sprechen.	मुझे उससे बात करनी है।
 I want to talk to you.	Ich möchte dich sprechen.	मैं आप से बात करना चाहता हूँ।
 I want to try this on.	Das will ich mal anprobieren.	मैं इस पर कोशिश करना चाहता हूं।
