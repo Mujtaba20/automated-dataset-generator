@@ -36570,3 +36570,11 @@ Eight plus two is ten.	Acht plus zwei ist zehn.	आठ प्लस दो द�
 Europe is a continent.	Europa ist ein Kontinent.	यूरोप एक महाद्वीप है।
 Even Tom spoke French.	Auch Tom sprach Französisch.	तोम भी फ्रेंच बोलते थे।
 Even the dog ran away.	Sogar der Hund ist weggelaufen.	यहाँ तक कि कुत्ता भी भाग गया।
+Every dog has his day.	Jeder Hund hat seinen Tag.	हर कुत्ते का दिन होता है।
+Everybody has secrets.	Jeder hat Geheimnisse.	हर किसी के पास राज होते हैं।
+Everybody likes money.	Jeder mag Geld.	हर को धन पसंद है।
+Everybody looked sick.	Jeder sah krank aus.	सभी बीमार लग रहे थे।
+Everybody loves music.	Alle lieben Musik.	सभी को संगीत पसंद है।
+Everybody ran outside.	Alle rannten nach draußen.	सभी बाहर भागे।
+Everybody's different.	Jeder ist anders.	सभी अलग हैं।
+Everyone believed you.	Jeder hat dir geglaubt.	सभी ने तुम्हें विश्वास किया।
