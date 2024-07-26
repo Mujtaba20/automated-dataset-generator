@@ -40186,3 +40186,12 @@ Tom is a draft dodger.	Tom ist ein Wehrdienstverweigerer.	टॉम एक ड�
 Tom is a faith healer.	Tom ist ein Glaubensheiler.	टॉम एक धार्मिक चिकित्सक है।
 Tom is a good athlete.	Tom ist ein guter Athlet.	टॉम एक अच्छे खिलाड़ी है।
 Tom is a good captain.	Tom ist ein guter Kapitän.	टॉम एक अच्छे कप्तान है।
+Tom is a good drummer.	Tom ist ein guter Schlagzeuger.	टॉम एक अच्छे ड्रमर है।
+Tom is a good painter.	Tom ist ein guter Maler.	टॉम एक अच्छे चित्रकार है।
+Tom is a good speaker.	Tom ist ein guter Redner.	टॉम एक अच्छे वक्ता है।
+Tom is a good student.	Tom ist ein guter Schüler.	टॉम एक अच्छे छात्र है।
+Tom is a good surgeon.	Tom ist ein guter Chirurg.	टॉम एक अच्छे सर्जन है।
+Tom is a good swimmer.	Tom ist ein guter Schwimmer.	टॉम एक अच्छे स्विमर है।
+Tom is a good teacher.	Tom ist ein guter Lehrer.	टॉम एक अच्छे शिक्षक है।
+Tom is a great father.	Tom ist ein toller Vater.	टॉम एक महान पिता है।
+Tom is a great person.	Tom ist eine großartige Person.	टॉम एक शानदार इंसान है।

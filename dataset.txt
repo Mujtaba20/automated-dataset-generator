@@ -1,14 +1,4 @@
 
-Tom is a good drummer.	Tom ist ein guter Drummer.	टॉम एक अच्छा ड्रमर है।
-Tom is a good drummer.	Tom ist ein guter Schlagzeuger.	टॉम एक अच्छा ड्रमर है।
-Tom is a good painter.	Tom ist ein guter Maler.	टॉम एक अच्छा चित्रकार है।
-Tom is a good speaker.	Tom ist ein guter Redner.	टॉम एक अच्छा वक्ता है।
-Tom is a good student.	Tom ist ein guter Schüler.	टॉम एक अच्छा छात्र है।
-Tom is a good surgeon.	Tom ist ein guter Chirurg.	टॉम एक अच्छा सर्जन है।
-Tom is a good swimmer.	Tom ist ein guter Schwimmer.	टॉम एक अच्छा तैराक है।
-Tom is a good teacher.	Tom ist ein guter Lehrer.	टॉम एक अच्छे शिक्षक हैं।
-Tom is a great father.	Tom ist ein großartiger Vater.	टॉम एक महान पिता हैं।
-Tom is a great person.	Tom ist eine großartige Person.	टॉम एक महान व्यक्ति हैं।
 Tom is a great player.	Tom ist ein großartiger Spieler.	टॉम एक महान खिलाड़ी है।
 Tom is a handsome guy.	Tom ist ein gutaussehender Mann.	टॉम एक अच्छा आदमी है।
 Tom is a handsome man.	Tom ist ein gutaussehender Mann.	टॉम एक अच्छा आदमी है।
