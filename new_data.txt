@@ -32635,3 +32635,13 @@ I've been subpoenaed.	Ich wurde vorgeladen.	मुझे समन दिया 
 I've changed my mind.	Ich habe meine Meinung geändert.	मैंने अपना मन बदल लिया है।
 I've chipped a tooth.	Ich habe mir einen Zahn abgebrochen.	मेरे दांत का टुकड़ा टूट गया है।
 I've come a long way.	Ich habe einen weiten Weg zurückgelegt.	मैंने बहुत दूर तक आना है।
+I've come to get you.	Ich bin gekommen, um dich zu holen.	मैं तुम्हें लेने आया हूँ।
+I've come to see you.	Ich bin gekommen, um dich zu sehen.	मैं तुम्हें देखने आया हूँ।
+I've dated a lunatic.	Ich habe einen Verrückten gedatet.	मैंने एक पागल के साथ डेट किया।
+I've decided to wait.	Ich habe beschlossen zu warten.	मैंने इंतजार करने का निर्णय लिया।
+I've deleted the app.	Ich habe die App gelöscht.	मैंने एप्लिकेशन को हटा दिया है।
+I've done a good job.	Ich habe gute Arbeit geleistet.	मैंने अच्छा काम किया।
+I've found something.	Ich habe etwas gefunden.	मैंने कुछ मिला है।
+I've given up on Tom.	Ich habe bei Tom aufgegeben.	मैंने टॉम को छोड़ दिया है।
+I've given up on you.	Ich habe bei dir aufgegeben.	मैंने तुम्हारे ऊपर हार मान ली है।
+I've got a flat tire.	Ich habe einen platten Reifen.	मेरे पास एक फ्लैट टायर है।
