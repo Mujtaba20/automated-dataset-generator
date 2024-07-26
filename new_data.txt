@@ -24011,3 +24011,13 @@ Tom stopped rowing.	Tom hörte auf zu rudern.	टॉम डुबकी मा�
 Tom studied French.	Tom lernte Französisch.	टॉम ने फ्रेंच सीखा।
 Tom studied abroad.	Tom studierte im Ausland.	टॉम विदेश में पढ़ाई की।
 Tom studies French.	Tom studiert Französisch.	टॉम फ्रेंच पढ़ रहा है।
+Tom suggested that.	Tom schlug das vor.	टॉम ने सुझाव दिया।
+Tom sure talks big.	Tom redet sicher groß.	टॉम बड़ी बातें करता है।
+Tom surprised Mary.	Tom überraschte Maria.	टॉम ने मेरी को अचंभित कर दिया।
+Tom swallowed hard.	Tom schluckte schwer.	टॉम ने मुश्किल से निगला।
+Tom takes vitamins.	Tom nimmt Vitamine.	टॉम विटामिन लेता है।
+Tom talked to Mary.	Tom sprach mit Maria.	टॉम ने मेरी से बात की।
+Tom talks to Mary.	Tom spricht mit Maria.	टॉम मेरी से बात करता है।
+Tom talks too fast.	Tom redet zu schnell.	टॉम बहुत तेज़ बोलता है।
+Tom talks too much.	Tom redet zu viel.	टॉम बहुत बोलता है।
+Tom taught me that.	Tom hat mir das beigebracht.	टॉम ने मुझे यह सिखाया।
