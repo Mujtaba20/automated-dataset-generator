@@ -1,14 +1,4 @@
 
-He is an FBI agent.	Er ist ein FBI-Agent.	वह एक एफबीआई एजेंट है।
-He is good at golf.	Er spielt gut Golf.	वह गोल्फ अच्छी तरह से खेलता है।
-He is having lunch.	Er isst zu Mittag.	वह दोपहर का भोजन करता है।
-He is having lunch.	Er isst gerade zu Mittag.	वह दोपहर को खा रहा है।
-He is my classmate.	Er ist mein Klassenkamerad.	वह मेरा सहपाठी है।
-He is my classmate.	Er ist mein Kommilitone.	वह मेरे साथी छात्र हैं।
-He is my colleague.	Er ist mein Arbeitskollege.	वह मेरे काम के सहयोगी हैं।
-He is my colleague.	Er ist mein Kollege.	वह मेरा सहयोगी है।
-He is no gentleman.	Er ist kein Gentleman.	वह सज्जन नहीं हैं।
-He is not Japanese.	Er ist kein Japaner.	वह जापानी नहीं है।
 He is not a doctor.	Er ist kein Arzt.	वह एक डाक्टर नहीं है।
 He is not a smoker.	Er ist kein Raucher.	वह धूम्रपान करने वाला नहीं है।
 He is not down yet.	Er ist noch nicht unten.	वह अभी तक नीचे नहीं है।

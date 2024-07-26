@@ -20779,3 +20779,10 @@ He is a work horse.	Er ist ein Arbeitstier.	वह मेहनती घोड�
 He is about my age.	Er ist ungefähr in meinem Alter.	वह मेरी उम्र का है।
 He is about thirty.	Er ist ungefähr dreißig.	वह तीस के लगभग है।
 He is always happy.	Er ist immer glücklich.	वह हमेशा खुश रहता है।
+He is an FBI agent.	Er ist ein FBI-Agent.	वह एक एफ़बीआई एजेंट है।
+He is good at golf.	Er ist gut im Golf.	वह गोल्फ में अच्छा है।
+He is having lunch.	Er nimmt sein Mittagessen ein.	उसका लंच भोजन कर रहा है।
+He is my classmate.	Er gehört zu meiner Klasse.	वह मेरे वर्ग का साथी है।
+He is my colleague.	Er arbeitet mit mir.	वह मेरे सहकर्मी है।
+He is no gentleman.	Er ist kein Gentleman.	वह कोई जेंटलमैन नहीं है।
+He is not Japanese.	Er ist nicht Japaner.	वह जापानी नहीं है।
