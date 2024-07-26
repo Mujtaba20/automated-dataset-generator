@@ -33421,3 +33421,11 @@ She's a quiet person.	Sie ist eine ruhige Person.	वह एक शांत इ
 She's as busy as Tom.	Sie ist genauso beschäftigt wie Tom.	वह टॉम की तरह ही व्यस्त है।
 She's double-jointed.	Sie ist doppeltgelenkig.	उसकी जोड़ियां दोगुनी हैं।
 She's eating for two.	Sie isst für zwei.	वह दो लोगों के लिए खा रही है।
+She's gone on a trip.	Sie ist auf eine Reise gegangen.	उसने एक यात्रा पर जा रही है।
+She's my best friend.	Sie ist meine beste Freundin.	वह मेरी सबसे अच्छी दोस्त है।
+She's older than Tom.	Sie ist älter als Tom.	वह टॉम से बड़ी है।
+She's older than him.	Sie ist älter als er.	वह उससे बड़ी है।
+She's scared of dogs.	Sie hat Angst vor Hunden.	उसे कुत्तों से डर लगता है।
+She's very beautiful.	Sie ist sehr schön.	वह बहुत खूबसूरत है।
+She's very emotional.	Sie ist sehr emotional.	वह बहुत भावुक है।
+She's very religious.	Sie ist sehr religiös.	वह बहुत धार्मिक है।

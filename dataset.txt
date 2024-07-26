@@ -1,14 +1,4 @@
 
-She's gone on a trip.	Sie ist auf einer Reise.	वह एक यात्रा पर है।
-She's gone on a trip.	Sie ist auf einem Ausflug.	वह एक यात्रा पर है।
-She's my best friend.	Sie ist meine beste Freundin.	वह मेरी सबसे अच्छी दोस्त है।
-She's older than Tom.	Sie ist älter als Tom.	यह टॉम से पुराना है।
-She's older than him.	Sie ist älter als er.	वह उससे बड़ी है।
-She's scared of dogs.	Sie hat Angst vor Hunden.	वह कुत्तों से डरती है।
-She's very beautiful.	Sie ist sehr schön.	वह बहुत सुंदर है।
-She's very beautiful.	Sie ist sehr hübsch.	वह बहुत सुन्दर है।
-She's very emotional.	Sie ist sehr emotional.	यह बहुत भावुक है।
-She's very religious.	Sie ist sehr religiös.	यह बहुत धार्मिक है।
 She's wearing tights.	Sie trägt Strumpfhosen.	वह चड्डी पहनती है।
 She's wearing tights.	Sie hat Strumpfhosen an.	उसके पास चड्डी है।
 Should I ask her out?	Sollte ich sie mal fragen, ob sie mit mir ausgeht?	क्या मुझे उससे पूछना चाहिए कि क्या वह मेरे साथ बाहर जाती है?
