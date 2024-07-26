@@ -25622,3 +25622,12 @@ He did it for money.	Er hat es für Geld gemacht.	उसने इसे पै�
 He did it willingly.	Er tat es freiwillig.	उसने यह मनस्कता से किया।
 He did the opposite.	Er tat das Gegenteil.	उसने विपरीत किया।
 He didn't know that.	Er wusste das nicht.	उसे उसका पता नहीं था।
+He died a happy man.	Er starb als glücklicher Mann.	उसने एक खुश आदमी की मौत मारा।
+He died a sad death.	Er starb einen traurigen Tod.	उसने एक दुखी मौत मारी।
+He does not like us.	Er mag uns nicht.	उसे हमसे पसंद नहीं है।
+He doesn't know yet.	Er weiß noch nicht.	उसे अभी तक नहीं पता।
+He drives a Ferrari.	Er fährt einen Ferrari.	वह एक फेरारी चलाता है।
+He drives very fast.	Er fährt sehr schnell.	वह बहुत तेज़ी से चलाता है।
+He entered the army.	Er trat in die Armee ein.	उसने सेना में प्रवेश किया।
+He entered the room.	Er betrat den Raum.	उसने कमरे में प्रवेश किया।
+He feels very happy.	Er fühlt sich sehr glücklich.	वह बहुत खुश महसूस करता है।

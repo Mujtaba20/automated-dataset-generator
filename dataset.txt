@@ -1,14 +1,4 @@
 
-He died a happy man.	Er starb als glücklicher Mann.	वह एक खुश आदमी के रूप में मर गया।
-He died a sad death.	Er starb eines traurigen Todes.	वह एक दुखद मौत से मर गया।
-He does not like us.	Er mag uns nicht.	वह हमें पसंद नहीं करता।
-He doesn't know yet.	Er weiß es noch nicht.	वह अभी तक नहीं जानता है।
-He drives a Ferrari.	Er fährt einen Ferrari.	वह एक फेरारी चलाता है।
-He drives very fast.	Er fährt sehr schnell.	वह बहुत जल्दी ड्राइव करता है।
-He entered the army.	Er ging zur Armee.	वह सेना में गया।
-He entered the room.	Er betrat das Zimmer.	वह कमरे में प्रवेश किया।
-He entered the room.	Er betrat den Raum.	वह कमरे में प्रवेश किया।
-He feels very happy.	Er fühlt sich sehr glücklich.	वह बहुत खुश महसूस करता है।
 He felt very lonely.	Er fühlte sich sehr einsam.	उसे बहुत अकेला महसूस हुआ।
 He fired but missed.	Er schoss, verfehlte aber.	उसने गोली मार दी, लेकिन चूक गया।
 He found his master.	Er hat seinen Meister gefunden.	उसने अपना गुरु पाया।
