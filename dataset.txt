@@ -1,14 +1,4 @@
 
-I need a clean shirt.	Ich brauche ein sauberes Hemd.	मुझे एक साफ शर्ट चाहिए।
-I need a good lawyer.	Ich brauche einen guten Anwalt.	मुझे एक अच्छे वकील की जरूरत है।
-I need a little help.	Ich brauche ein wenig Hilfe.	मुझे थोड़ी सहायता की जरूरत है।
-I need a little time.	Ich brauche etwas Zeit.	मुझे थोड़ा वक्त चाहिये।
-I need a lot of them.	Ich brauche viele von denen.	मुझे उनमें से बहुत की जरूरत है।
-I need a lot of them.	Ich benötige ihrer viele.	मुझे उनमें से कई की जरूरत है।
-I need a lot of them.	Ich brauche viele von ihnen.	मुझे उनमें से बहुत चाहिए।
-I need a new bicycle.	Ich brauche ein neues Fahrrad.	मुझे एक नई बाइक चाहिए।
-I need a translation.	Ich brauche eine Übersetzung.	मुझे एक अनुवाद की आवश्यकता है।
-I need a writing pad.	Ich brauche einen Notizblock.	मुझे एक नोटपैड चाहिए।
 I need an answer now.	Ich brauche jetzt eine Antwort.	मुझे अब एक जवाब चाहिए।
 I need authorization.	Ich brauche eine Erlaubnis.	मुझे अनुमति की जरूरत है।
 I need authorization.	Ich brauche eine Genehmigung.	मुझे अनुमोदन चाहिए।

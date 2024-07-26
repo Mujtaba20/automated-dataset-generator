@@ -31989,3 +31989,11 @@ I must say something.	Ich muss etwas sagen.	मुझे कुछ कहना 
 I must use this bike.	Ich muss dieses Fahrrad benutzen.	मुझे इस साइकिल का उपयोग करना चाहिए।
 I nearly blacked out.	Ich bin fast ohnmächtig geworden.	मैं लगभग बेहोश हो गया था।
 I need a bigger bowl.	Ich brauche eine größere Schüssel.	मुझे एक बड़ी कटोरी चाहिए।
+I need a clean shirt.	Ich brauche ein sauberes Hemd.	मुझे एक साफ कमीज़ चाहिए।
+I need a good lawyer.	Ich brauche einen guten Anwalt.	मुझे एक अच्छे वकील की जरूरत है।
+I need a little help.	Ich brauche ein wenig Hilfe.	मुझे थोड़ी मदद चाहिए।
+I need a little time.	Ich brauche etwas Zeit.	मुझे थोड़ा समय चाहिए।
+I need a lot of them.	Ich brauche viele von ihnen.	मुझे उनमें से बहुत सारे चाहिए।
+I need a new bicycle.	Ich brauche ein neues Fahrrad.	मुझे एक नयी साइकिल चाहिए।
+I need a translation.	Ich brauche eine Übersetzung.	मुझे एक अनुवाद चाहिए।
+I need a writing pad.	Ich brauche einen Schreibblock.	मुझे एक लेखन पैड चाहिए।
