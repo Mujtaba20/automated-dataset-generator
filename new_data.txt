@@ -22324,3 +22324,11 @@ It's at the corner.	Es ist an der Ecke.	यह कोने पर है।
 It's badly damaged.	Es ist stark beschädigt.	यह बहुत नुकसान पहुंचा है।
 It's beautiful out.	Es ist wunderschön draußen.	यह बाहर खूबसूरत है।
 It's beyond reason.	Es ist jenseits der Vernunft.	यह तर्क से परे है।
+It's big, isn't it?	Es ist groß, stimmt's?	यह बड़ा है, ना?
+It's cold out here.	Es ist kalt hier draußen.	यहाँ ठंड है।
+It's far from here.	Es ist weit weg von hier.	यह यहाँ से बहुत दूर है।
+It's far from over.	Es ist noch lange nicht vorbei.	यह अभी भी खत्म नहीं हुआ है।
+It's far too small.	Es ist viel zu klein.	यह बहुत छोटा है।
+It's for my family.	Es ist für meine Familie.	यह मेरे परिवार के लिए है।
+It's fun to travel.	Es macht Spaß zu reisen.	यात्रा करना मजेदार है।
+It's getting worse.	Es verschlechtert sich.	हालत और खराब हो रही है।
