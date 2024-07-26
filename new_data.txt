@@ -35201,3 +35201,13 @@ We know you're there.	Wir wissen, du bist da.	हमें पता है क�
 We looked everywhere.	Wir haben überall gesucht.	हमने हर जगह देखी।
 We lost sight of him.	Wir haben ihn aus den Augen verloren.	हमने उसकी नजर मिटा दी।
 We love our children.	Wir lieben unsere Kinder.	हम अपने बच्चों से प्यार करते हैं।
+We make a great team.	Wir bilden ein tolles Team.	हम एक महान टीम बना रहे हैं।
+We meet once a month.	Wir treffen uns einmal im Monat.	हम महीने में एक बार मिलते हैं।
+We met along the way.	Wir trafen uns unterwegs.	हमने रास्ते में मिला।
+We met at the church.	Wir trafen uns in der Kirche.	हमने चर्च में मिला।
+We met last Thursday.	Wir trafen uns letzten Donnerstag.	हमने पिछले गुरुवार को मिला।
+We met the other day.	Wir haben uns neulich getroffen.	हमने कुछ दिन पहले मिला।
+We miss Tom terribly.	Wir vermissen Tom schrecklich.	हम टॉम की बहुत याद आती है।
+We must abandon ship.	Wir müssen das Schiff verlassen.	हमें जहाज छोड़ना चाहिए।
+We must do something.	Wir müssen etwas tun.	हमें कुछ करना होगा।
+We must go to school.	Wir müssen zur Schule gehen.	हमें स्कूल जाना होगा।
