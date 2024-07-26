@@ -1,14 +1,4 @@
 
-I'm going to hurt you.	Ich werde dir weh tun!	तुम्हें दुःख पहुंचेगा!
-I'm going to kill you.	Ich bring dich um.	मैं तुम्हें मार दूँगा।
-I'm going to miss Tom.	Tom wird mir fehlen.	मुझे टॉम याद आ रहा है।
-I'm going to miss you.	Du wirst mir fehlen.	मुझे तुम याद आओगे।
-I'm going to miss you.	Ich werde dich vermissen.	तुम्हारी याद आएगी।
-I'm going to miss you.	Sie werden mir fehlen.	मुझे याद आ रहा है।
-I'm going to stop Tom.	Ich werde Tom stoppen.	मैं टॉम को रोकूंगा।
-I'm going to stop you.	Ich werde dich stoppen.	मैं तुम्हें रोकूंगा।
-I'm going to stop you.	Ich werde dich davon abhalten.	मैं आपको इससे रोकूंगा।
-I'm going to take off.	Ich werde abhauen.	मैं भाग जाऊंगा।
 I'm going to the bank.	Ich gehe zur Bank.	मुझे बैंक जाना है।
 I'm going to the park.	Ich gehe in den Park.	मैं पार्क जा रहा हूँ।
 I'm good at what I do.	Ich verstehe mein Handwerk.	मैं अपने शिल्प को समझता हूं।
