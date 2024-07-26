@@ -24921,3 +24921,8 @@ You need some rest.	Du brauchst etwas Erholung.	आपको थोड़ी आ
 You need to go now.	Du musst jetzt gehen.	आपको अभी जाना चाहिए।
 You need to let go.	Du musst loslassen.	आपको छोड़ देना चाहिए।
 You need to resign.	Du musst kündigen.	आपको इस्तीफा देने की आवश्यकता है।
+You never asked me.	Du hast mich nie gefragt.	तुमने मुझसे कभी नहीं पूछा।
+You only live once.	Du lebst nur einmal.	तुम सिर्फ एक बार जीते हो।
+You ought to study.	Du solltest studieren.	तुम्हें पढ़ाई करनी चाहिए।
+You ruined my life.	Du hast mein Leben ruiniert.	तुमने मेरी जिंदगी बर्बाद कर दी।
+You seem depressed.	Du scheinst deprimiert zu sein.	तुम उदास लगते हो।

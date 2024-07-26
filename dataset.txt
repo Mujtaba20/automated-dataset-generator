@@ -1,16 +1,4 @@
 
-You never asked me.	Du hast mich nie gefragt.	आपने मुझसे कभी नहीं पूछा।
-You never asked me.	Ihr habt mich nie gefragt.	आपने मुझसे कभी नहीं पूछा।
-You never asked me.	Sie haben mich nie gefragt.	आपने मुझसे कभी नहीं पूछा।
-You only live once.	Man lebt nur einmal.	आप सिर्फ एक बार जीते हैं।
-You only live once.	Man lebt nur einmal in der Welt.	आप केवल एक बार दुनिया में रहते हैं।
-You ought to study.	Du solltest lernen.	आपको सीखना चाहिए।
-You ruined my life.	Du hast mein Leben zunichte gemacht.	आपने मेरे जीवन को नष्ट कर दिया है।
-You ruined my life.	Du hast mein Leben zerstört.	आपने मेरे जीवन को नष्ट कर दिया।
-You ruined my life.	Sie haben mein Leben zerstört.	आपने मेरे जीवन को नष्ट कर दिया है।
-You seem depressed.	Du scheinst niedergeschlagen.	तुम नीचे लग रहे हो।
-You seem depressed.	Ihr scheint niedergeschlagen.	आप उदास लग रहे हैं।
-You seem depressed.	Sie scheinen niedergeschlagen.	वे उदास लग रहे हैं।
 You seem very busy.	Du scheinst sehr beschäftigt zu sein.	आप बहुत व्यस्त लग रहे हैं।
 You seem very busy.	Sie scheinen sehr beschäftigt zu sein.	वे बहुत व्यस्त लग रहे हैं।
 You seem very busy.	Ihr scheint sehr beschäftigt zu sein.	आप बहुत व्यस्त लग रहे हैं।
