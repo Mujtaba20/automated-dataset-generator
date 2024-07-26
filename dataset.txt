@@ -1,16 +1,4 @@
 
-Do you like this color?	Magst du diese Farbe?	क्या आपको यह रंग पसंद है?
-Do you like this color?	Mögt ihr diese Farbe?	क्या आपको यह रंग पसंद है?
-Do you like this color?	Mögen Sie diese Farbe?	क्या आपको यह रंग पसंद है?
-Do you like this purse?	Gefällt dir diese Handtasche?	क्या आपको यह हैंडबैग पसंद है?
-Do you like this purse?	Gefällt euch diese Handtasche?	क्या आपको यह हैंडबैग पसंद है?
-Do you like this purse?	Gefällt Ihnen diese Handtasche?	क्या आपको यह हैंडबैग पसंद है?
-Do you like to do that?	Machst du das gerne?	क्या आप ऐसा करना पसंद करते हैं?
-Do you like to do that?	Machen Sie das gerne?	क्या आप ऐसा करना पसंद करते हैं?
-Do you like to do that?	Macht ihr das gerne?	क्या आप ऐसा करना पसंद करते हैं?
-Do you like to do that?	Machen Sie das gern?	क्या आप ऐसा करना पसंद करते हैं?
-Do you like to do that?	Machst du das gern?	क्या आप ऐसा करना पसंद करते हैं?
-Do you like to do that?	Macht ihr das gern?	क्या आप ऐसा करना पसंद करते हैं?
 Do you like to do this?	Machst du das gerne?	क्या आप ऐसा करना पसंद करते हैं?
 Do you like to do this?	Machen Sie das gerne?	क्या आप ऐसा करना पसंद करते हैं?
 Do you like to do this?	Macht ihr das gerne?	क्या आप ऐसा करना पसंद करते हैं?
