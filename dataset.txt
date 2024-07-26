@@ -1,14 +1,4 @@
 
-He has eleven children.	Er hat elf Kinder.	उसके ग्यारह बच्चे हैं।
-He has gone to America.	Er ist nach Amerika gegangen.	वह अमेरिका गया।
-He has gone to Britain.	Er ist nach Großbritannien gegangen.	वह ग्रेट ब्रिटेन गए।
-He has gone to Britain.	Er ist nach Britain gegangen.	वह ब्रिटेन गया।
-He has large blue eyes.	Er hat große, blaue Augen.	उसकी बड़ी, नीली आँखें हैं।
-He has left his family.	Er verließ seine Familie.	उसने अपने परिवार को छोड़ दिया।
-He has left his family.	Er hat seine Familie verlassen.	उसने अपने परिवार को छोड़ दिया।
-He has no real friends.	Er hat keine richtigen Freunde.	उसका कोई असली दोस्त नहीं है।
-He has no specific aim.	Er hat kein bestimmtes Ziel.	उसका कोई विशेष लक्ष्य नहीं है।
-He has only four pesos.	Er hat nur vier Pesos.	उसके पास केवल चार पेसो हैं।
 He has stopped smoking.	Er hörte mit dem Rauchen auf.	उसने धूम्रपान करना बंद कर दिया।
 He has stopped smoking.	Er hat mit dem Rauchen aufgehört.	उसने धूम्रपान करना बंद कर दिया।
 He has three daughters.	Er hat drei Töchter.	उनकी तीन बेटियां हैं।
