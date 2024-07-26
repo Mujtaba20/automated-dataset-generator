@@ -29458,3 +29458,12 @@ Tom works in Boston.	Tom arbeitet in Boston.	टॉम बोस्टन मे
 Tom works in a bank.	Tom arbeitet in einer Bank.	टॉम एक बैंक में काम करता है।
 Tom works in retail.	Tom arbeitet im Einzelhandel.	टॉम खुदरा में काम करता है।
 Tom works very hard.	Tom arbeitet sehr hart.	टॉम बहुत मेहनत करता है।
+Tom would've walked.	Tom wäre gegangen.	टॉम चलता।
+Tom wrote that book.	Tom schrieb das Buch.	टॉम ने वह पुस्तक लिखी।
+Tom wrote this book.	Tom hat dieses Buch geschrieben.	टॉम ने यह पुस्तक लिखी।
+Tom wrote two books.	Tom hat zwei Bücher geschrieben.	टॉम ने दो किताबें लिखीं।
+Tom yelled for help.	Tom schrie um Hilfe.	टॉम ने मदद के लिए चिल्लाया।
+Tom'll be here soon.	Tom wird bald hier sein.	टॉम जल्द ही यहाँ होगा।
+Tom's a big boy now.	Tom ist jetzt ein großer Junge.	टॉम अब एक बड़ा लड़का है।
+Tom's a great actor.	Tom ist ein großartiger Schauspieler.	टॉम एक शानदार अभिनेता है।
+Tom's a likable guy.	Tom ist ein sympathischer Typ.	टॉम एक पसंदीदा आदमी है।
