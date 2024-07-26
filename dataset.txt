@@ -1,14 +1,4 @@
 
-Tom wasn't smoking.	Tom rauchte nicht.	टॉम ने धूम्रपान नहीं किया।
-Tom wasn't thirsty.	Tom hatte keinen Durst.	टॉम की कोई प्यास नहीं थी।
-Tom wasn't thirsty.	Tom war nicht durstig.	टॉम प्यास नहीं था।
-Tom wasn't thirsty.	Tom verspürte keinen Durst.	टॉम को प्यास नहीं लगी।
-Tom wasn't violent.	Tom war nicht gewalttätig.	टॉम हिंसक नहीं था।
-Tom wasn't working.	Tom hat nicht gearbeitet.	टॉम ने काम नहीं किया।
-Tom wasted no time.	Tom verlor keine Zeit.	टॉम ने समय नहीं खोया।
-Tom waved his hand.	Tom winkte.	टॉम लहराया।
-Tom waved the flag.	Tom schwenkte die Fahne.	टॉम ने झंडा लहराया।
-Tom wears contacts.	Tom trägt Kontaktlinsen.	टॉम संपर्क लेंस पहनता है।
 Tom went back home.	Tom kehrte nach Hause zurück.	टॉम घर लौट आया।
 Tom went back home.	Tom fuhr zurück nach Hause.	टॉम ने घर वापस चला गया।
 Tom went back home.	Tom ging zurück nach Hause.	टॉम घर वापस चला गया।

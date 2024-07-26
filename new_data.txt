@@ -24131,3 +24131,11 @@ Tom wasn't nervous.	Tom war nicht nervös.	टॉम घबराया नह�
 Tom wasn't pleased.	Tom war nicht zufrieden.	टॉम खुश नहीं था।
 Tom wasn't running.	Tom lief nicht.	टॉम नहीं भाग रहा था।
 Tom wasn't serious.	Tom war nicht ernst.	टॉम गंभीर नहीं था।
+Tom wasn't smoking.	Tom rauchte nicht.	टॉम सिगरेट नहीं पी रहा था।
+Tom wasn't thirsty.	Tom war nicht durstig.	टॉम प्यासा नहीं था।
+Tom wasn't violent.	Tom war nicht gewalttätig.	टॉम हिंसात्मक नहीं था।
+Tom wasn't working.	Tom arbeitete nicht.	टॉम काम नहीं कर रहा था।
+Tom wasted no time.	Tom verlor keine Zeit.	टॉमने कोई समय बर्बाद नहीं किया।
+Tom waved his hand.	Tom winkte mit der Hand.	टॉमने अपना हाथ हिलाया।
+Tom waved the flag.	Tom schwenkte die Flagge.	टॉमने झंडा हिलाया।
+Tom wears contacts.	Tom trägt Kontaktlinsen.	टॉम लेंस पहनता है।
