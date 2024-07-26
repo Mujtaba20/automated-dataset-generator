@@ -21810,3 +21810,11 @@ I'd like to try it.	Ich würde es gerne ausprobieren.	मुझे इसे आ
 I'd never hurt Tom.	Ich würde Tom niemals verletzen.	मैं कभी टॉम को चोट नहीं पहुंचाऊँगा।
 I'd never hurt you.	Ich würde dich nie verletzen.	मैं कभी तुम्हें चोट नहीं पहुंचाउँगा।
 I'd never say that.	Ich würde das niemals sagen.	मैं कभी वैसा नहीं कहूँगा।
+I'd think about it.	Ich würde darüber nachdenken.	मैं इसके बारे में सोचूंगा।
+I'll accompany you.	Ich werde dich begleiten.	मैं तुम्हारे साथ चलूंगा।
+I'll be in the car.	Ich werde im Auto sein.	मैं गाड़ी में होऊंगा।
+I'll be right back.	Ich bin gleich zurück.	मैं तुरंत वापस आऊंगा।
+I'll bring it back.	Ich bringe es zurück.	मैं इसे वापस ला दूंगा।
+I'll buy a new one.	Ich werde ein neues kaufen.	मैं एक नया खरीदूंगा।
+I'll call the chef.	Ich werde den Koch anrufen.	मैं शेफ को बुलाऊंगा।
+I'll call the cops.	Ich werde die Polizei anrufen.	मैं पुलिस को बुलाऊंगा।
