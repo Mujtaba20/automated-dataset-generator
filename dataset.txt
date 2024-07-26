@@ -1,14 +1,4 @@
 
-Tom isn't from Boston.	Tom ist nicht aus Boston.	टॉम बोस्टन से नहीं है।
-Tom isn't getting one.	Tom bekommt keinen.	टॉम को कोई नहीं मिलता।
-Tom isn't getting one.	Tom bekommt keine.	टॉम को कोई नहीं मिलता है।
-Tom isn't getting one.	Tom bekommt keins.	टॉम को कोई नहीं मिलता है।
-Tom isn't here, is he?	Tom ist nicht hier, oder?	टॉम यहाँ नहीं है, है ना?
-Tom isn't on Facebook.	Tom ist nicht auf Facebook.	टॉम फेसबुक पर नहीं है।
-Tom isn't on Facebook.	Tom ist nicht bei Facebook.	टॉम फेसबुक पर नहीं है।
-Tom isn't really sure.	Tom ist sich nicht wirklich sicher.	टॉम वास्तव में निश्चित नहीं है।
-Tom isn't seeing Mary.	Tom wird Maria nicht treffen.	टॉम मारिया से नहीं मिलेंगे।
-Tom isn't seeing Mary.	Tom sieht Maria nicht.	टॉम मारिया को नहीं देखता।
 Tom isn't so gullible.	Tom ist nicht so leichtgläubig.	टॉम इतना भोला नहीं है।
 Tom isn't that strong.	Tom ist nicht stark.	टॉम मजबूत नहीं है।
 Tom isn't that stupid.	So dumm ist Tom nicht.	टॉम वह बेवकूफ नहीं है।

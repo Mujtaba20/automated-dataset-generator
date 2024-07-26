@@ -40436,3 +40436,9 @@ Tom isn't an outsider.	Tom ist kein Außenseiter.	टॉम पराए नह�
 Tom isn't at home now.	Tom ist jetzt nicht zu Hause.	टॉम अभी घर पर नहीं है।
 Tom isn't coming back.	Tom kommt nicht zurück.	टॉम वापस नहीं आ रहा है।
 Tom isn't coming here.	Tom kommt hier nicht hin.	टॉम यहाँ नहीं आ रहा है।
+Tom isn't from Boston.	Tom ist nicht aus Boston.	टॉम बॉस्टन से नहीं है।
+Tom isn't getting one.	Tom erhält keinen.	टॉम को कोई नहीं मिल रहा है।
+Tom isn't here, is he?	Tom ist nicht hier, oder?	टॉम यहाँ नहीं है, क्या वह है?
+Tom isn't on Facebook.	Tom ist nicht bei Facebook.	टॉम फेसबुक पर नहीं है।
+Tom isn't really sure.	Tom ist sich nicht sicher.	टॉम सचमुच निश्चित नहीं है।
+Tom isn't seeing Mary.	Tom sieht Mary nicht.	टॉम मेरी को नहीं देख रहा है।
