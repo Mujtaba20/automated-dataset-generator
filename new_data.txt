@@ -31001,3 +31001,12 @@ He got all he wanted.	Er hat alles bekommen, was er wollte.	उसने जो 
 He got angry with me.	Er wurde wütend auf mich.	उस ने मुझसे नाराज हो गया।
 He got angry with us.	Er wurde wütend auf uns.	उसने हम सबसे नाराज हो गया।
 He got bored quickly.	Er wurde schnell gelangweilt.	उसे जल्दी बोर हो गया।
+He got his doctorate.	Er hat seinen Doktortitel erhalten.	उसने अपना डॉक्टरेट प्राप्त किया।
+He got married at 22.	Er heiratete mit 22.	उसने 22 साल की उम्र में शादी की।
+He got off the train.	Er stieg aus dem Zug aus.	उसने ट्रेन से उतर लिया।
+He had a hungry look.	Er hatte einen hungrigen Blick.	उसके चेहरे पर भूख की नजर थी।
+He had fifty dollars.	Er hatte fünfzig Dollar.	उसके पास पचास डॉलर थे।
+He had lost all hope.	Er hatte alle Hoffnung verloren.	उसने सभी आशा खो दी थी।
+He hardly ever works.	Er arbeitet kaum.	वह बहुत कम काम करता है।
+He has a black shirt.	Er hat ein schwarzes Hemd.	उसके पास एक काली कमीज है।
+He has a dark secret.	Er hat ein dunkles Geheimnis.	उसका एक काला राज है।
