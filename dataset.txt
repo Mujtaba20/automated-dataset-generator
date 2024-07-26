@@ -1,14 +1,4 @@
 
-I have the dictionary.	Ich habe das Wörterbuch.	मेरे पास शब्दकोश है।
-I have three children.	Ich habe drei Kinder.	मेरे तीन बच्चे हैं।
-I have three ex-wives.	Ich habe drei Ex-Frauen.	मेरे पास तीन पूर्व महिला है।
-I have three siblings.	Ich habe drei Geschwister.	मेरे तीन भाई बहन हूँ।
-I have to do it again.	Ich muss das noch einmal machen.	मुझे फिर से ऐसा करना है।
-I have to do it again.	Ich muss es wieder tun.	मुझे इसे फिर से करना है।
-I have to do that now.	Ich muss das jetzt tun.	मुझे अब ऐसा करना है।
-I have to dry my hair.	Ich muss mir die Haare fönen.	मुझे अपने बाल सूखने हैं।
-I have to feed my cat.	Ich muss meine Katze füttern.	मुझे अपनी बिल्ली को खिलाना है।
-I have to feed my cat.	Ich muss meiner Katze zu fressen geben.	मुझे अपनी बिल्ली को खाने के लिए देना है।
 I have to go shopping.	Ich muss einkaufen gehen.	मुझे खरीदने जाना है।
 I have to go tell Tom.	Ich muss es Tom sagen.	मुझे टॉम कहना है।
 I have to go tell Tom.	Ich muss es Tom erzählen.	मुझे टॉम बताना है।

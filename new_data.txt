@@ -37493,3 +37493,11 @@ I have one in the car.	Ich habe einen im Auto.	मेरे पास गाड�
 I have plenty of time.	Ich habe viel Zeit.	मेरे पास काफी समय है।
 I have studied French.	Ich habe Französisch studiert.	मैंने फ्रेंच पढ़ी है।
 I have terrible pains.	Ich habe schreckliche Schmerzen.	मेरे पास भयानक दर्द है।
+I have the dictionary.	Ich habe das Wörterbuch.	मेरे पास शब्दकोश है।
+I have three children.	Ich habe drei Kinder.	मेरे पास तीन बच्चे हैं।
+I have three ex-wives.	Ich habe drei Ex-Frauen.	मेरी तीन पूर्व पत्नियां हैं।
+I have three siblings.	Ich habe drei Geschwister.	मेरे तीन सहोदर-बहन हैं।
+I have to do it again.	Ich muss es wieder tun.	मुझे इसे फिर से करना है।
+I have to do that now.	Das muss ich jetzt machen.	मुझे अब वह करना है।
+I have to dry my hair.	Ich muss meine Haare trocknen.	मुझे अपने बाल सुखाने हैं।
+I have to feed my cat.	Ich muss meine Katze füttern.	मुझे अपनी बिल्ली को खिलाना है।
