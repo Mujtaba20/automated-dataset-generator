@@ -1,14 +1,4 @@
 
-How far are you going?	Wie weit wirst du gehen?	तुम कितना दूर जाओगे?
-How fast can you walk?	Wie schnell kannst du gehen?	आप कितनी जल्दी जा सकते हैं?
-How fast can you walk?	Wie schnell können Sie gehen?	आप कितनी जल्दी जा सकते हैं?
-How fast can you walk?	Wie schnell könnt ihr gehen?	आप कितनी जल्दी जा सकते हैं?
-How high can you jump?	Wie hoch können Sie springen?	आप कितनी ऊँची कूद सकते हैं?
-How high can you jump?	Wie hoch kannst du springen?	आप कितनी ऊँची कूद सकते हैं?
-How is Tom these days?	Wie geht es Tom gegenwärtig?	वर्तमान में टॉम कैसे कर रहा है?
-How late are you open?	Um wie viel Uhr machen Sie zu?	आप किस समय बंद करते हैं?
-How late are you open?	Um wie viel Uhr schließen Sie?	उनका बंद करने का समय क्या है?
-How long ago was that?	Wie lang ist das her?	वह कब तक था?
 How long ago was this?	Wie lange ist das schon her?	कितने दिन हो गये?
 How long can you stay?	Wie lange kannst du bleiben?	आप कब तक रह सकते हैं?
 How long can you stay?	Wie lange könnt ihr bleiben?	आप कब तक रह सकते हैं?

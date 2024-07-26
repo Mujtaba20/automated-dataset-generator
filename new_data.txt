@@ -37038,3 +37038,9 @@ How do you milk a cow?	Wie melkst du eine Kuh?	गाय को दूध कै
 How do you prove that?	Wie beweist du das?	तुम उसे कैसे साबित करते हो?
 How does the film end?	Wie endet der Film?	फिल्म कैसे समाप्त होती है?
 How far along are you?	Wie weit bist du?	तुम कितने दूर आ गए हो?
+How far are you going?	Wie weit gehst du?	तुम कितनी दूर जा रहे हो?
+How fast can you walk?	Wie schnell kannst du gehen?	तुम कितनी तेज चल सकते हो?
+How high can you jump?	Wie hoch kannst du springen?	तुम कितनी ऊँचाई तक कूद सकते हो?
+How is Tom these days?	Wie geht es Tom diese Tage?	तोम इन दिनों कैसे हैं?
+How late are you open?	Wie lange seid ihr geöffnet?	तुम कितनी देर तक खुले रहते हो?
+How long ago was that?	Wie lange ist das her?	वो कितनी समय पहले था?
