@@ -40728,3 +40728,9 @@ Tom spoke very loudly.	Tom sprach sehr laut.	टॉम बहुत जोर �
 Tom started shivering.	Tom begann zu zittern.	टॉम ठंडी पड़ गया।
 Tom started to giggle.	Tom fing an zu kichern.	टॉम हंसी आना शुरू कर दी।
 Tom started to shiver.	Tom begann zu schaudern.	टॉम ठंडी महसूस करने लगा।
+Tom stayed at a hotel.	Tom blieb in einem Hotel.	टॉम होटल में रुके थे।
+Tom stayed in his car.	Tom blieb in seinem Wagen.	टॉम अपने कार में रहे।
+Tom still has an edge.	Tom hat immer noch einen Vorteil.	टॉम के पास अभी भी एक फायदा है।
+Tom stole my umbrella.	Tom klaute meinen Regenschutz.	टॉमने मेरा छाता चुराया।
+Tom stood in the dark.	Tom stand im Dunkeln.	टॉम अंधेरे में खड़े थे।
+Tom stood on his head.	Tom stand auf seinem Kopf.	टॉम अपने सिर पर खड़ा था।

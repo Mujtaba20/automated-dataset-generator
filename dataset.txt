@@ -1,14 +1,4 @@
 
-Tom stayed at a hotel.	Tom kam in einem Hotel unter.	टॉम एक होटल में आया था।
-Tom stayed in his car.	Tom blieb in seinem Wagen.	टॉम अपनी कार में रहे।
-Tom stayed in his car.	Tom blieb in seinem Auto.	टॉम अपनी कार में रहे।
-Tom still has an edge.	Tom hat immer noch einen Vorteil.	टॉम को अभी भी एक फायदा है।
-Tom stole my umbrella.	Tom hat mir den Schirm geklaut.	टॉम ने मेरी छतरी चुरा ली।
-Tom stole my umbrella.	Tom hat meinen Schirm geklaut.	टॉम ने मेरी छतरी चुरा ली।
-Tom stole my umbrella.	Tom hat meinen Schirm gestohlen.	टॉम ने मेरी स्क्रीन चुरा ली।
-Tom stood in the dark.	Tom stand im Dunkeln.	टॉम अंधेरे में था।
-Tom stood on his head.	Tom stand kopf.	टॉम सिर खड़ा था।
-Tom stood on his head.	Tom stand auf dem Kopf.	टॉम अपने सिर पर खड़ा था।
 Tom stopped breathing.	Tom hörte auf zu atmen.	टॉम ने सांस लेना बंद कर दिया।
 Tom stopped the video.	Tom hielt das Video an.	टॉम ने वीडियो बंद कर दिया।
 Tom stroked his beard.	Tom strich sich über den Bart.	टॉम ने दाढ़ी को मार डाला।
