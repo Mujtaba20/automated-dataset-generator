@@ -1,15 +1,4 @@
 
-He touched my shoulder.	Er berührte meine Schulter.	उसने मेरे कंधे को छुआ।
-He touched my shoulder.	Er berührte mich an der Schulter.	उसने मुझे कंधे पर छुआ।
-He turned a somersault.	Er machte einen Purzelbaum.	उसने एक टम्बल ट्री बनाया।
-He turned on the radio.	Er schaltete das Radio ein.	उन्होंने रेडियो पर स्विच किया।
-He understands physics.	Er versteht Physik.	वह भौतिकी को समझता है।
-He used the dictionary.	Er benutzte das Wörterbuch.	उन्होंने शब्दकोश का इस्तेमाल किया।
-He wanted to go to sea.	Er wollte zur See fahren.	वह समुद्र में जाना चाहता था।
-He wanted to go to sea.	Er wollte ans Meer fahren.	वह समुद्र में जाना चाहता था।
-He wants only the best.	Er will nur das Beste.	वह केवल सबसे अच्छा चाहता है।
-He wants to be like me.	Er will so wie ich werden.	वह मेरे जैसा बनना चाहता है।
-He wants to be like me.	Er wünscht sich, so wie ich zu werden.	वह मेरे जैसा बनना चाहता है।
 He was a brave soldier.	Er war ein tapferer Soldat.	वह एक बहादुर सैनिक था।
 He was a poor musician.	Er war ein armer Musikant.	वह एक गरीब संगीतकार थे।
 He was a poor musician.	Er war ein schlechter Musikant.	वह एक बुरा संगीतकार था।
