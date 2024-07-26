@@ -1,14 +1,4 @@
 
-My dad just called.	Mein Vater hat gerade angerufen.	मेरे पिता ने बस फोन किया।
-My dog is very old.	Mein Hund ist sehr alt.	मेरा कुत्ता बहुत पुराना है।
-My door was closed.	Meine Tür war zu.	मेरा दरवाजा बंद था।
-My dream came true.	Mein Traum wurde wahr.	मेरा सपना सच हो गया।
-My dream came true.	Mein Traum ist wahr geworden.	मेरा सपना सच हो गया।
-My dress is ruined.	Mein Kleid ist ruiniert.	मेरी पोशाक बर्बाद हो गई है।
-My eyes are closed.	Meine Augen sind geschlossen.	मेरी आँखें बंद हैं।
-My eyes are closed.	Meine Augen sind zu.	मेरी आँखें बंद हैं।
-My eyes feel itchy.	Meine Augen krabbeln.	मेरी आँखें क्रॉल करें।
-My family is small.	Meine Familie ist klein.	मेरा परिवार छोटा है।
 My father was busy.	Mein Vater war beschäftigt.	मेरे पिता व्यस्त थे।
 My friend was shot.	Mein Freund wurde angeschossen.	मेरे दोस्त को गोली मार दी गई थी।
 My friend was shot.	Mein Freund wurde durch einen Schuss verletzt.	मेरा दोस्त एक शॉट से घायल हो गया था।

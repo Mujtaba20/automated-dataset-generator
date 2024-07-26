@@ -22510,3 +22510,13 @@ My battery is dead.	Mein Akku ist leer.	मेरा बैटरी मर ग�
 My boots are muddy.	Meine Stiefel sind matschig.	मेरे बूट गंदे हैं।
 My car is a Toyota.	Mein Auto ist ein Toyota.	मेरी गाड़ी एक टोयोटा है।
 My car won't start.	Mein Auto startet nicht.	मेरी गाड़ी नहीं चलेगी।
+My dad just called.	Mein Vater hat gerade angerufen.	मेरे पिताजी ने अभी कॉल किया है।
+My dog is very old.	Mein Hund ist sehr alt.	मेरा कुत्ता बहुत बुढ़ा है।
+My door was closed.	Meine Tür war geschlossen.	मेरे दरवाजे बंद थे।
+My dream came true.	Mein Traum wurde wahr.	मेरा सपना सच हो गया।
+My dream came true. (different meaning)	Mein Traum ist wahr geworden.	मेरा सपना पूरा हुआ।
+My dress is ruined.	Mein Kleid ist ruiniert.	मेरी ड्रेस खराब हो गई है।
+My eyes are closed.	Meine Augen sind geschlossen.	मेरी आंखें बंद हैं।
+My eyes are closed. (different meaning)	Meine Augenärztin ist geschlossen.	मेरी आँखों का इलाज बंद है।
+My eyes feel itchy.	Meine Augen jucken.	मेरी आंखें खुजल रही हैं।
+My family is small.	Meine Familie ist klein.	मेरा परिवार छोटा है।
