@@ -1,15 +1,4 @@
 
-Don't try to stop me.	Versuche nicht, mich aufzuhalten!	मुझे रोकने की कोशिश मत करो!
-Don't try to stop me.	Versuchen Sie nicht, mich aufzuhalten!	मुझे रोकने की कोशिश मत करो!
-Don't wait up for me.	Warten Sie nicht auf mich.	मेरे लिए इंतजार मत करो।
-Don't walk out on me.	Lass mich nicht sitzen.	मुझे बैठने मत दो।
-Don't worry about it!	Keine Sorge.	कोई चिंता नहीं।
-Don't worry about it!	Machen Sie sich darüber keine Sorgen.	इसके बारे में चिंता मत करो।
-Don't worry about it!	Mach dir darüber keine Gedanken!	इसके बारे में चिंता मत करो!
-Don't worry about it!	Mach dir darüber keine Sorgen!	इसकी चिंता मत करें!
-Don't worry about it.	Machen Sie sich darüber keine Sorgen.	इसके बारे में चिंता मत करो।
-Don't worry about it.	Mach dir darüber keine Gedanken!	इसके बारे में चिंता मत करो!
-Don't worry about it.	Mach dir darüber keine Sorgen!	इसकी चिंता मत करें!
 Don't worry about me.	Macht euch keine Sorgen um mich.	मेरे बारे में चिंता मत करो।
 Don't worry about me.	Mach dir keine Sorgen um mich.	मेरे बारे में चिंता मत करो।
 Don't worry about me.	Machen Sie sich keine Sorgen um mich.	मेरे बारे में चिंता मत करो।

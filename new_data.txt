@@ -30808,3 +30808,8 @@ Don't touch anything.	Nichts berühren.	कुछ भी मत छूना।
 Don't touch me again.	Berühren Sie mich nicht wieder.	फिरसे मुझे मत छूना।
 Don't touch my stuff.	Fass meine Sachen nicht an.	मेरी चीज़ों को छूने मत जाओ।
 Don't try to fool me.	Versuche mich nicht zu täuschen.	मुझे बेवकूफ बनाने की कोशिश मत करो।
+Don't try to stop me.	Versuchen Sie nicht, mich aufzuhalten.	मुझे रोकने की कोशिश मत करो।
+Don't wait up for me.	Warten Sie nicht auf mich.	मेरे लिए उपर रुको मत।
+Don't walk out on me.	Geh nicht weg von mir.	मेरे पास से मत चलो।
+Don't worry about it!	Mach dir keine Sorgen darum!	इस बारे में चिंता मत करो!
+Don't worry about it.	Mach dir darüber keine Gedanken.	इस बारे में फिकर मत करो।
