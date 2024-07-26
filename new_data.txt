@@ -36208,3 +36208,9 @@ Can you guess her age?	Kannst du ihr Alter erraten?	क्या तुम उ�
 Can you help me study?	Kannst du mir beim Lernen helfen?	क्या आप मुझे पढ़ाई में मदद कर सकते हैं?
 Can you help me study? (different meaning)	Kannst du mir helfen zu studieren?	क्या आप मुझे पढ़ाई करने में मदद कर सकते हैं?
 Can you hold on a sec?	Kannst du mal kurz warten?	क्या आप एक सेकंड के लिए रुक सकते हैं?
+Can you keep a secret?	Könnt ihr ein Geheimnis für euch behalten?	क्या आप एक गोपनीय रख सकते हैं?
+Can you lend me yours?	Kannst du mir deins leihen?	क्या आप मुझे अपना उधार दे सकते हैं?
+Can you recite a poem?	Kannst du ein Gedicht vortragen?	क्या आप एक कविता पढ़ सकते हैं?
+Can you show it to me?	Kannst du es mir zeigen?	क्या आप मुझे यह दिखा सकते हैं?
+Can you show it to us?	Könnt ihr es uns zeigen?	क्या आप हमें यह दिखा सकते हैं?
+Can you stay with Tom?	Kannst du bei Tom bleiben?	क्या आप टॉम के साथ रह सकते हैं?
