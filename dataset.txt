@@ -1,14 +1,4 @@
 
-He didn't get the joke.	Er hat den Witz nicht verstanden.	वह मजाक को समझ नहीं पाया।
-He didn't say anything.	Er sagte nichts.	उसने कुछ भी नहीं कहा।
-He didn't see anything.	Er sah nichts.	उसने कुछ नहीं देखा।
-He didn't see anything.	Er hat nichts gesehen.	उसने कुछ नहीं देखा।
-He didn't stop talking.	Er hörte nicht auf, zu reden.	उसने बात करना बंद नहीं किया।
-He didn't study at all.	Er hat kein bisschen gelernt.	उसने थोड़ा नहीं सीखा।
-He didn't use to drink.	Früher hat er nicht getrunken.	वह पहले नहीं पीता था।
-He died five years ago.	Er starb vor fünf Jahren.	पांच साल पहले उनकी मृत्यु हो गई।
-He died five years ago.	Er ist vor fünf Jahren gestorben.	पांच साल पहले उनकी मृत्यु हो गई।
-He died of lung cancer.	Er starb an Lungenkrebs.	फेफड़ों के कैंसर से उनकी मृत्यु हो गई।
 He doesn't charge much.	Er verlangt nicht viel Geld.	वह बहुत पैसा नहीं मांगता।
 He doesn't like coffee.	Er mag keinen Kaffee.	उसे कॉफी पसंद नहीं है।
 He doesn't mince words.	Er nimmt kein Blatt vor den Mund.	वह अपने मुंह से एक पत्ती नहीं लेता है।
