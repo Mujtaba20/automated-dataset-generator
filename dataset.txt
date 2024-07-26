@@ -1,15 +1,4 @@
 
-This is Greek to me.	Das kommt mir spanisch vor.	यह मुझे स्पेनिश लगता है।
-This is Tom's camel.	Das hier ist Toms Kamel.	यह टॉम का ऊंट है।
-This is Tom's diary.	Das ist Toms Terminkalender.	यह टॉम का शेड्यूल है।
-This is Tom's grave.	Das hier ist Toms Grab.	यह टॉम की कब्र है।
-This is Tom's knife.	Das ist Toms Messer.	यह टॉम का चाकू है।
-This is a fine ship.	Das ist ein schönes Schiff.	यह एक सुंदर जहाज है।
-This is a gold mine.	Dies ist eine Goldmine.	यह एक सोने की खान है।
-This is a good deal.	Das ist ein guter Handel.	यह एक अच्छा व्यापार है।
-This is a good sign.	Das ist ein gutes Zeichen.	यह एक अच्छा संकेत है।
-This is a great day.	Heute ist ein großer Tag.	आज एक बड़ा दिन है।
-This is a great day.	Das ist ein toller Tag.	यह एक महान दिन है।
 This is a huge loss.	Das ist ein enormer Verlust.	यह एक बहुत बड़ा नुकसान है।
 This is a huge loss.	Das ist ein gewaltiger Verlust.	यह बहुत बड़ा नुकसान है।
 This is a long list.	Das ist eine lange Liste.	यह एक लंबी सूची है।

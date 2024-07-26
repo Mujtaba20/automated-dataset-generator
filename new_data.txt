@@ -28422,3 +28422,13 @@ This drawer's stuck.	Diese Schublade klemmt.	यह दराज अटक ग�
 This dress is cheap.	Dieses Kleid ist günstig.	यह ड्रेस किफ़ायती है।
 This glass is dirty.	Dieses Glas ist schmutzig.	यह ग्लास गंदा है।
 This guy is a loser.	Dieser Typ ist ein Verlierer.	यह आदमी हार गया है।
+This is Greek to me.	Das ist für mich wie chinesisch.	यह मेरे लिए यूनानी है।
+This is Tom's camel.	Das ist Toms Kamel.	यह टॉम का ऊँट है।
+This is Tom's diary.	Das ist Toms Tagebuch.	यह टॉम का डायरी है।
+This is Tom's grave.	Das ist Toms Grab.	यह टॉम का कब्र है।
+This is Tom's knife.	Das ist Toms Messer.	यह टॉम का चाकू है।
+This is a fine ship.	Das ist ein schönes Schiff.	यह एक बढ़िया जहाज है।
+This is a gold mine.	Das ist eine Goldmine.	यह सोने की खदान है।
+This is a good deal.	Das ist ein guter Deal.	यह एक अच्छा सौदा है।
+This is a good sign.	Das ist ein gutes Zeichen.	यह एक अच्छा संकेत है।
+This is a great day.	Das ist ein großartiger Tag.	यह एक महान दिन है।
