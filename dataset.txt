@@ -1,14 +1,4 @@
 
-Tom may not be happy.	Tom ist vielleicht nicht glücklich.	टॉम खुश नहीं हो सकता है।
-Tom may not be there.	Tom ist möglicherweise nicht dort.	टॉम नहीं हो सकता है।
-Tom means us no harm.	Tom hat nicht die Absicht, uns zu schaden.	टॉम हमें नुकसान पहुंचाने का इरादा नहीं है।
-Tom met Mary at work.	Tom hat Maria auf der Arbeit kennengelernt.	टॉम ने काम पर मारिया से मुलाकात की।
-Tom met Mary outside.	Tom traf Mary draußen.	टॉम ने मैरी को बाहर मारा।
-Tom might be at home.	Tom ist vielleicht zu Hause.	टॉम घर पर हो सकता है।
-Tom might be worried.	Unter Umständen ist Tom ja besorgt.	कुछ परिस्थितियों में, टॉम चिंतित है।
-Tom might believe us.	Vielleicht glaubt Tom uns ja.	शायद टॉम हमें विश्वास करता है।
-Tom might've seen us.	Tom könnte uns gesehen haben.	टॉम हमें देख सकता था।
-Tom moaned with pain.	Tom stöhnte vor Schmerzen.	टॉम दर्द में कराह उठे।
 Tom mopped the floor.	Tom wischte den Boden.	टॉम ने जमीन पोंछ दी।
 Tom mopped the floor.	Tom moppte den Boden.	टॉम ने जमीन को दबा दिया।
 Tom moved his cursor.	Tom bewegte den Mauszeiger.	टॉम ने माउस पॉइंटर को स्थानांतरित कर दिया।

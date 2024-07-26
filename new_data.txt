@@ -34699,3 +34699,13 @@ Tom may do that here.	Tom darf das hier machen.	टॉम यहाँ ऐसा
 Tom may get divorced.	Tom könnte geschieden werden.	टॉम तलाक हो सकता है।
 Tom may have come in.	Tom könnte hereingekommen sein.	टॉम आ सकता था।
 Tom may have seen it.	Tom könnte es gesehen haben.	टॉम ने इसे देखा हो सकता है।
+engSentence1	Tom ist vielleicht nicht glücklich.	टॉम शायद खुश नहीं है।
+engSentence2	Tom könnte nicht dort sein.	टॉम शायद वहाँ ना हो।
+engSentence3	Tom meint uns nichts Böses.	टॉम हमें कोई नुकसान नहीं पहुंचाना चाहता।
+engSentence4	Tom traf Mary bei der Arbeit.	टॉम ने काम पर मेरी से मिली।
+engSentence5	Tom traf Mary draußen.	टॉम ने मेरी से बाहर मिला।
+engSentence6	Tom könnte zu Hause sein.	टॉम घर पर हो सकता है।
+engSentence7	Tom könnte besorgt sein.	टॉम चिंतित हो सकता है।
+engSentence8	Tom könnte uns glauben.	टॉम हमें विश्वास कर सकता है।
+engSentence9	Tom könnte uns gesehen haben.	टॉम ने हमें देखा हो सकता है।
+engSentence10	Tom stöhnte vor Schmerz.	टॉम दर्द के साथ कराहट कर रहा था।
