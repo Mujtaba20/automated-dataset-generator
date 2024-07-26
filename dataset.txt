@@ -1,14 +1,4 @@
 
-It's really cool here.	Es ist echt cool hier.	यह वास्तव में यहाँ अच्छा है।
-It's really hot there.	Es ist wirklich heiß dort.	यह वास्तव में वहाँ गर्म है।
-It's really hot there.	Da ist es richtig heiß.	यह वास्तव में गर्म है।
-It's really hot today.	Heute ist es sehr heiß.	आज बहुत गर्मी है.
-It's really important.	Das ist äußerst wichtig.	यह बेहद महत्वपूर्ण है।
-It's really very good.	Das ist wirklich sehr gut.	यह वास्तव में बहुत अच्छा है।
-It's self-explanatory.	Das erklärt sich von selbst.	वह खुद समझाता है।
-It's starting to snow.	Es fängt an zu schneien.	यह बर्फबारी होने लगता है।
-It's still true today.	Das stimmt noch heute.	यह आज भी सच है।
-It's still true today.	Das trifft noch heute zu.	यह आज भी लागू होता है।
 It's time for a break.	Es ist Zeit für eine Pause.	यह एक ब्रेक का समय है।
 It's time for bed now.	Es ist jetzt Schlafenszeit.	यह अब सोते समय है।
 It's time for bed now.	Es ist jetzt Zeit fürs Bett.	अब बिस्तर का समय आ गया है।

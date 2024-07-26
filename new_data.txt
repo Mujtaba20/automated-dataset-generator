@@ -38661,3 +38661,11 @@ It's probably raining.	Es regnet wahrscheinlich.	शायद बारिश �
 It's quite warm today.	Es ist heute ziemlich warm.	आज काफी गर्मी है।
 It's rained all night.	Es hat die ganze Nacht geregnet.	रात भर बारिश हुई थी।
 It's really beautiful.	Es ist wirklich schön.	यह सच में खूबसूरत है।
+It's really cool here.	Es ist hier wirklich cool.	यहाँ सचमुच मजेदार है।
+It's really hot there.	Es ist dort wirklich heiß.	वहाँ सचमुच तपता है।
+It's really hot today.	Heute ist es wirklich heiß.	आज सचमुच गरम है।
+It's really important.	Es ist wirklich wichtig.	यह सचमुच महत्वपूर्ण है।
+It's really very good.	Es ist wirklich sehr gut.	यह सचमुच बहुत अच्छा है।
+It's self-explanatory.	Es erklärt sich von selbst.	यह खुद से समझ में आ जाता है।
+It's starting to snow.	Es fängt an zu schneien.	बर्फ गिरने लगी है।
+It's still true today.	Es stimmt auch heute noch.	आज भी यह सत्य है।
