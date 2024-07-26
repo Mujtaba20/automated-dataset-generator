@@ -1,14 +1,4 @@
 
-We have seen no one.	Wir haben niemanden gesehen.	हमने किसी को नहीं देखा है।
-We have three hours.	Wir haben drei Stunden.	हमारे पास तीन घंटे हैं।
-We have three weeks.	Wir haben drei Wochen.	हमारे पास तीन सप्ताह हैं।
-We have to act fast.	Wir müssen schnell handeln.	हमें जल्दी से काम करना होगा।
-We have to be there.	Wir müssen da sein.	हमें वहां रहना है।
-We have to find Tom.	Wir müssen Tom finden.	हमें टॉम को ढूंढना है।
-We have to find out.	Wir müssen es herausbekommen.	हमें इसे बाहर निकालना होगा।
-We have to fix this.	Wir müssen das hier reparieren.	हमें यहां इसकी मरम्मत करनी होगी।
-We have to help Tom.	Wir müssen Tom helfen.	हमें टॉम की मदद करनी है।
-We have to save Tom.	Wir müssen Tom retten!	हमें टॉम को बचाना है!
 We have to stop Tom.	Wir müssen Tom stoppen.	हमें टॉम को रोकना होगा।
 We have to stop Tom.	Wir müssen Tom aufhalten.	हमें टॉम को रोकना होगा।
 We have to tell Tom.	Wir müssen das Tom erzählen.	हमें टॉम को बताना होगा।

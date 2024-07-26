@@ -29571,3 +29571,13 @@ We have a lot to do.	Wir haben viel zu tun.	हमें बहुत कुछ 
 We have a white cat.	Wir haben eine weiße Katze.	हमारे पास एक सफेद बिल्ली है।
 We have enough food.	Wir haben genug Essen.	हमारे पास पर्याप्त खाने का सामान है।
 We have enough time.	Wir haben genug Zeit.	हमारे पास पर्याप्त समय है।
+We have seen no one.	Wir haben niemanden gesehen.	हमने किसी को नहीं देखा है।
+We have three hours.	Wir haben drei Stunden.	हमारे पास तीन घंटे हैं।
+We have three weeks.	Wir haben drei Wochen.	हमारे पास तीन सप्ताह हैं।
+We have to act fast.	Wir müssen schnell handeln.	हमें जल्दी काम करना होगा।
+We have to be there.	Wir müssen dort sein.	हमें वहाँ होना पड़ेगा।
+We have to find Tom.	Wir müssen Tom finden.	हमें टॉम को ढूंढना होगा।
+We have to find out.	Wir müssen herausfinden.	हमें पता करना होगा।
+We have to fix this.	Wir müssen das reparieren.	हमें यह ठीक करना होगा।
+We have to help Tom.	Wir müssen Tom helfen.	हमें टॉम की मदद करनी होगी।
+We have to save Tom.	Wir müssen Tom retten.	हमें टॉम को बचाना होगा।
