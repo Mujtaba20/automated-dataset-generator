@@ -1,15 +1,4 @@
 
-Several people drowned.	Mehrere Menschen sind ertrunken.	कई लोग डूब गए हैं।
-Several people drowned.	Mehrere Menschen ertranken.	कई लोग डूब गए।
-Shall I carry your bag?	Willst du, dass ich dir deine Tasche trage?	क्या आप चाहते हैं कि मैं आपका बैग पहनूं?
-Shall I close the door?	Soll ich die Tür zumachen?	क्या मुझे दरवाजा बंद करना चाहिए?
-Shall I cut it in half?	Soll ich das in der Mitte durchschneiden?	क्या मुझे इसे बीच में काट देना चाहिए?
-Shall I cut it in half?	Soll ich es mittendurch schneiden?	क्या मुझे इसे बीच में काट देना चाहिए?
-Shall I cut it in half?	Soll ich es halbieren?	क्या मुझे इसे आधा करना चाहिए?
-Shall I cut it in half?	Soll ich das durchschneiden?	क्या मुझे इसे काट देना चाहिए?
-Shall I drive you home?	Soll ich dich nach Hause fahren?	क्या मुझे आपको घर चलाना चाहिए?
-Shall I drive you home?	Soll ich euch nach Hause fahren?	क्या मुझे आपको घर चलाना चाहिए?
-Shall I drive you home?	Soll ich Sie nach Hause fahren?	क्या मुझे आपको घर चलाना चाहिए?
 Shall we go for a walk?	Wollen wir einen Spaziergang machen?	क्या हम टहलना चाहते हैं?
 Shame on you for lying.	Schäm dich, dass du gelogen hast!	आप पर शर्म आती है कि तुम झूठ बोला!
 She also speaks French.	Sie spricht auch Französisch.	वह फ्रेंच भी बोलती है।
