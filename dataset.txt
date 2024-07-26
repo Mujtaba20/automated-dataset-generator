@@ -1,14 +1,4 @@
 
-Tom tends to be lazy.	Tom neigt zur Trägheit.	टॉम जड़ता के लिए जाता है।
-Tom tends to be lazy.	Tom ist schnell zu träge.	टॉम बहुत सुस्त है।
-Tom thinks I'm crazy.	Tom hält mich für verrückt.	टॉम मुझे पागल मानता है।
-Tom thought about it.	Tom dachte darüber nach.	टॉम ने इसके बारे में सोचा।
-Tom told Mary a joke.	Tom erzählte Maria einen Witz.	टॉम ने मारिया को एक मजाक कहा।
-Tom told me a secret.	Tom hat mir ein Geheimnis verraten.	टॉम ने मुझे एक रहस्य दिया।
-Tom told me about it.	Tom hat mir davon erzählt.	टॉम ने मुझे इसके बारे में बताया।
-Tom took a short cut.	Tom nahm eine Abkürzung.	टॉम ने एक संक्षिप्त नाम लिया।
-Tom took a short cut.	Tom hat eine Abkürzung genommen.	टॉम ने एक शॉर्टकट लिया।
-Tom took his tie off.	Tom legte die Krawatte ab.	टॉम ने टाई उतार दी।
 Tom took off his cap.	Tom nahm seine Mütze ab.	टॉम ने अपनी टोपी उतार दी।
 Tom took off his hat.	Tom nahm seinen Hut ab.	टॉम ने अपनी टोपी उतार दी।
 Tom took off his tie.	Tom nahm die Krawatte ab.	टॉम ने टाई उतार दी।

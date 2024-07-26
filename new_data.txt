@@ -34893,3 +34893,11 @@ Tom stuck to his job.	Tom hielt an seiner Arbeit fest.	टॉम अपने �
 Tom talked all night.	Tom hat die ganze Nacht geredet.	टॉम रात भर बातचीत की।
 Tom taught me French.	Tom hat mir Französisch beigebracht.	टॉम ने मुझे फ्रेंच सिखाया।
 Tom tends to be late.	Tom kommt oft zu spät.	टॉम देर से आने की अधिकता दिखाता है।
+Tom tends to be lazy.	Tom neigt dazu, faul zu sein.	टॉम आलसी होने की दिशा में जा रहा है।
+Tom thinks I'm crazy.	Tom denkt, ich bin verrückt.	टॉम समझता है कि मैं पागल हूं।
+Tom thought about it.	Tom dachte darüber nach.	टॉम ने इस पर सोचा।
+Tom told Mary a joke.	Tom erzählte Mary einen Witz.	टॉम ने मैरी को एक मजाक सुनाया।
+Tom told me a secret.	Tom hat mir ein Geheimnis erzählt.	टॉम ने मुझे एक राज़ बताया।
+Tom told me about it.	Tom hat mir davon erzählt.	टॉम ने मुझे इसके बारे में बताया।
+Tom took a short cut.	Tom nahm einen kurzen Weg.	टॉम ने एक छोटी राह ली।
+Tom took his tie off.	Tom zog seine Krawatte aus.	टॉम ने अपनी टाई उतार ली।
