@@ -1,14 +1,4 @@
 
-I'm not hungry now.	Ich habe jetzt keinen Hunger.	मुझे अब भूख नहीं है।
-I'm not hungry yet.	Ich habe noch keinen Hunger.	मैं अभी तक भूखा नहीं हूँ।
-I'm not illiterate.	Ich bin kein Analphabet.	मैं अनपढ़ नहीं हूं।
-I'm not illiterate.	Ich bin keine Analphabetin.	मैं अनपढ़ नहीं हूं।
-I'm not in trouble.	Ich bin nicht in Schwierigkeiten.	मैं परेशानी में नहीं हूं।
-I'm not infallible.	Ich bin nicht unfehlbar.	मैं अचूक नहीं हूं।
-I'm not inflexible.	Ich bin nicht unflexibel.	मैं अनम्य नहीं हूं।
-I'm not interested.	Ich bin nicht interessiert.	मुझे कोई दिलचस्पी नहीं है.
-I'm not interested.	Das interessiert mich nicht.	मुझे कोई दिलचस्पी नहीं है.
-I'm not mad at you.	Ich bin dir nicht böse.	मै आप से गुस्सा नहीं हूं।
 I'm not overweight.	Ich bin nicht übergewichtig.	मैं अधिक वजन नहीं हूं।
 I'm not quite sure.	Ich bin mir nicht ganz sicher.	मैं पूरी तरह से निश्चित नहीं हूं।
 I'm not quite well.	Mir geht's nicht gut.	मैं अच्छा नहीं कर रहा हूँ।

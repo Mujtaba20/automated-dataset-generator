@@ -22000,3 +22000,11 @@ I'm not going back.	Ich gehe nicht zurück.	मैं वापस नहीं 
 I'm not going home.	Ich gehe nicht nach Hause.	मैं घर नहीं जा रहा हूँ।
 I'm not good at it.	Ich bin nicht gut darin.	मैं इसमें अच्छा नहीं हूँ।
 I'm not happy here.	Ich bin nicht glücklich hier.	मैं यहाँ खुश नहीं हूँ।
+I'm not hungry now.	Ich habe jetzt keinen Hunger.	मुझे अभी भूख नहीं है।
+I'm not hungry yet.	Ich bin noch nicht hungrig.	मुझे अभी तक भूख नहीं लगी है।
+I'm not illiterate.	Ich bin nicht ungebildet.	मैं अशिक्षित नहीं हूँ।
+I'm not in trouble.	Ich bin nicht in Schwierigkeiten.	मुझे कोई मुश्किल में नहीं है।
+I'm not infallible.	Ich bin nicht unfehlbar.	मैं अक्षम नहीं हूँ।
+I'm not inflexible.	Ich bin nicht unflexibel.	मैं कठोर नहीं हूँ।
+I'm not interested.	Ich habe kein Interesse.	मुझे उत्साहित नहीं करता।
+I'm not mad at you.	Ich bin nicht wütend auf dich.	मैं तुम पर गुस्सा नहीं हूँ।
