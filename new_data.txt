@@ -22018,3 +22018,10 @@ I'm not that naive.	Ich bin nicht so naiv.	मैं इतना भोला �
 I'm not very brave.	Ich bin nicht sehr tapfer.	मैं बहुत साहसी नहीं हूं।
 I'm not very happy.	Ich bin nicht sehr glücklich.	मैं बहुत खुश नहीं हूं।
 I'm not very smart.	Ich bin nicht sehr klug.	मैं बहुत दिमागी नहीं हूं।
+I'm not very tired.	Ich bin nicht sehr müde.	मैं बहुत थका नहीं हूं।
+I'm not your enemy.	Ich bin nicht dein Feind.	मैं तुम्हारा दुश्मन नहीं हूं।
+I'm not your slave.	Ich bin nicht dein Sklave.	मैं तुम्हारा गुलाम नहीं हूं।
+I'm now very tired.	Ich bin jetzt sehr müde.	मैं अब बहुत थक गया हूं।
+I'm off duty today.	Ich habe heute frei.	आज मेरी ड्यूटी खत्म है।
+I'm older than Tom.	Ich bin älter als Tom.	मैं टॉम से अधिक उम्र का हूं।
+I'm on the balcony.	Ich bin auf dem Balkon.	मैं बालकनी पर हूं।
