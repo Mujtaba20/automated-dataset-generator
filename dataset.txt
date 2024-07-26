@@ -1,14 +1,4 @@
 
-I bought 24 pencils.	Ich habe 24 Bleistifte gekauft.	मैंने 24 पेंसिल खरीदे।
-I bought a new suit.	Ich kaufte mir einen neuen Anzug.	मैंने एक नया सूट खरीदा।
-I bought a new suit.	Ich kaufte ein neues Kostüm.	मैंने एक नई पोशाक खरीदी।
-I bought a sandwich.	Ich kaufte einen Sandwich.	मैंने एक सैंडविच खरीदा।
-I bought a sandwich.	Ich kaufte ein belegtes Brot.	मैंने एक टॉप रोटी खरीदी।
-I bought a sandwich.	Ich habe einen Sandwich gekauft.	मैंने एक सैंडविच खरीदा।
-I bought a sandwich.	Ich habe ein belegtes Brot gekauft.	मैंने एक टॉप रोटी खरीदी।
-I bought an old car.	Ich habe ein altes Auto gekauft.	मैंने एक पुरानी कार खरीदी।
-I bought many books.	Ich kaufte viele Bücher.	मैंने बहुत सारी किताबें खरीदीं।
-I bought many books.	Ich habe viele Bücher gekauft.	मैंने बहुत सारी किताबें खरीदीं।
 I bought milk today.	Ich habe heute Milch gekauft.	मैंने आज दूध खरीदा।
 I bought some bread.	Ich kaufte Brot.	मैंने रोटी खरीदी।
 I broke up with her.	Ich habe mit ihr Schluss gemacht.	मैंने उसका साथ छोड़ दिया।

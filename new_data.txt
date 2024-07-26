@@ -26057,3 +26057,8 @@ I believe in ghosts.	Ich glaube an Geister.	मुझे भूत-प्रे�
 I believe that's it.	Ich glaube das ist es.	मुझे लगता है कि यही है।
 I bet you know this.		
 I bet you're hungry.		
+I bought 24 pencils.	Ich habe 24 Bleistifte gekauft.	मैंने 24 पेंसिल खरीदी।
+I bought a new suit.	Ich habe einen neuen Anzug gekauft.	मैंने एक नया सूट खरीदा।
+I bought a sandwich.	Ich habe ein Sandwich gekauft.	मैंने एक सैंडविच खरीदा।
+I bought an old car.	Ich habe ein altes Auto gekauft.	मैंने एक पुरानी गाड़ी खरीदी।
+I bought many books.	Ich habe viele Bücher gekauft.	मैंने कई किताबें खरीदीं।
