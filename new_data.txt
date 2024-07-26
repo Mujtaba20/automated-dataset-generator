@@ -24378,3 +24378,11 @@ We won't stay long.	Wir werden nicht lange bleiben.	हम ज्यादा �
 We'll all miss you.	Wir werden dich alle vermissen.	हम तुम्हें सब याद करेंगे।
 We'll be home soon.	Wir werden bald zu Hause sein.	हम जल्द ही घर पहुँचेंगे।
 We'll cook for you.	Wir werden für dich kochen.	हम तुम्हारे लिए खाना पकाएंगे।
+We'll decide later.	Wir werden später entscheiden.	हम बाद में निर्णय करेंगे।
+We'll get this one.	Wir werden diesen bekommen.	हम यह लेंगे।
+We'll help you out.	Wir werden dir helfen.	हम तुम्हें मदद करेंगे।
+We'll help you out. - Different Meaning	Wir werden Ihnen helfen.	हम आपकी मदद करेंगे।
+We'll let you know.	Wir werden es dir wissen lassen.	हम तुम्हें बता देंगे।
+We'll let you know. - Different Meaning	Wir werden dich informieren.	हम आपको सूचित कर देंगे।
+We'll look at that.	Wir werden uns das ansehen.	हम इस पर देखेंगे।
+We'll pray for you.	Wir werden für dich beten.	हम आपके लिए प्रार्थना करेंगे।
