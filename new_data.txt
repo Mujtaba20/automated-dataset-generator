@@ -27475,3 +27475,10 @@ It's up to them now.	Es liegt jetzt an ihnen.	अब यह उनपर नि�
 It's up to you, Tom.	Es liegt an dir, Tom.	यह तुम पर है, टॉम।
 It's very beautiful.	Es ist sehr schön.	यह बहुत खूबसूरत है।
 It's very cold here.	Es ist hier sehr kalt.	यहाँ बहुत ठंडा है।
+It's very dangerous.	Es ist sehr gefährlich.	यह बहुत खतरनाक है।
+It's very different.	Es ist sehr unterschiedlich.	यह बहुत अलग है।
+It's very difficult.	Es ist sehr schwierig.	यह बहुत कठिन है।
+It's very effective.	Es ist sehr effektiv.	यह बहुत प्रभावी है।
+It's very hot today.	Es ist heute sehr heiß.	आज बहुत गरम है।
+It's worthless junk.	Es ist wertloser Müll.	यह बेकार कचरा है।
+It's your own fault.	Es ist deine eigene Schuld.	यह तुम्हारी खुद की गलती है।
