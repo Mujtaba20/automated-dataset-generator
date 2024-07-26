@@ -29748,3 +29748,13 @@ Welcome to our home.	Willkommen in unserem Zuhause.	हमारे घर म�
 Welcome to the club.	Willkommen im Club.	क्लब में आपका स्वागत है।
 Were you born there?	Bist du dort geboren?	क्या तुम वहाँ पैदा हुए थे?
 Were you there, too?	Warst du auch dort?	क्या तुम भी वहाँ थे?
+What a bizarre tale!	Was für eine bizarre Geschichte!	कितनी अजीब कहानी है!
+What a lovely dress!	Was für ein schönes Kleid!	कैसा प्यारा ड्रेस है!
+What a pretty woman!	Was für eine hübsche Frau!	कितनी सुंदर महिला है!
+What about this one?	Was ist mit diesem?	इसके बारे में क्या कहोगे?
+What about you, Tom?	Und du, Tom?	तुम्हारे बारे में, टॉम?
+What an absurd idea!	Was für eine absurde Idee!	कितनी बेतुकी विचार है!
+What are my choices?	Was sind meine Optionen?	मेरे विकल्प क्या हैं?
+What are they after?	Was wollen sie?	वे किसके पीछे हैं?
+What are they doing?	Was machen sie?	वे क्या कर रहे हैं?
+What are they up to?	Was haben sie vor?	वे क्या करने की सोच रहे हैं?
