@@ -39215,3 +39215,8 @@ Something is going on.	Es läuft etwas.	कुछ चल रहा है।
 Something isn't right.	Etwas stimmt nicht.	कुछ सही नहीं है।
 Something seems wrong.	Es sieht so aus, als ob etwas nicht stimmt.	कुछ गड़बड़ लग रहा है।
 Something smells good.	Etwas riecht gut.	कुछ अच्छा लग रहा है।
+Something stinks here.	Hier riecht es merkwürdig.	यहाँ बहुत ही बुरा लग रहा है।
+Something's happening.	Etwas läuft ab.	कुछ हो रहा है।
+Something's not right.	Irgendetwas ist hier falsch.	कुछ गलत है।
+Sometimes we get lost.	Ab und zu verlaufen wir uns.	कभी-कभी हम हार जाते हैं।
+Sometimes, people lie.	Manchmal lügen Menschen.	कभी-कभी लोग झूठ बोलते हैं।
