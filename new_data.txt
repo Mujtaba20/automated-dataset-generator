@@ -30878,3 +30878,11 @@ Get out of the water.	Aus dem Wasser kommen.	पानी से बाहर �
 Get ready for school.	Machen Sie sich bereit für die Schule.	स्कूल के लिए तैयार रहिए।
 Get some sleep, okay?	Schlaf ein bisschen, okay?	थोड़ी नींद लो, ठीक है?
 Get that book for me.	Hol mir dieses Buch.	मुझे वह पुस्तक देदो।
+Girls aren't welcome.	Mädchen sind nicht willkommen.	लड़कियां स्वागत नहीं हैं।
+Girls don't like you.	Mädchen mögen dich nicht.	लड़कियां तुम्हें पसंद नहीं करती हैं।
+Give a tissue to Tom.	Gib Tom ein Taschentuch.	टॉम को एक टिश्यू दो।
+Give it a break, Tom.	Gib ihm eine Pause, Tom.	इसे बंद कर दो, टॉम।
+Give it another shot.	Versuch es noch einmal.	इसे एक और मौका दो।
+Give me a break here.	Gib mir hier eine Pause.	मुझे यहाँ एक ब्रेक दो।
+Give me a call later.	Ruf mich später an.	मुझे बाद में कॉल करें।
+Give me a day or two.	Gib mir einen Tag oder zwei.	मुझे एक दिन या दो दिन दो।
