@@ -1,14 +1,4 @@
 
-Did you like the movie?	Hat Ihnen der Film gefallen?	आपको फिल्म पसंद आई?
-Did you like the movie?	Gefiel dir der Film?	आपको फिल्म पसंद आई?
-Did you like this book?	Hat dir das Buch hier gefallen?	क्या आपको यहाँ किताब पसंद थी?
-Did you like this book?	Hat Ihnen das Buch hier gefallen?	क्या आपको यहाँ किताब पसंद थी?
-Did you like this book?	Hat euch das Buch hier gefallen?	क्या आपको यहाँ किताब पसंद थी?
-Did you lock the doors?	Hast du die Türen abgeschlossen?	क्या आपने दरवाजे पूरे किए?
-Did you make the train?	Hast du den Zug noch erwischt?	क्या आपको अभी भी ट्रेन मिली है?
-Did you order the book?	Hast du das Buch bestellt?	क्या आपने पुस्तक का आदेश दिया?
-Did you order the book?	Haben Sie das Buch bestellt?	क्या आपने पुस्तक का आदेश दिया?
-Did you read all of it?	Hast du es ganz gelesen?	क्या आपने इसे पूरी तरह से पढ़ा?
 Did you read it at all?	Hast du es überhaupt gelesen?	क्या आपने इसे भी पढ़ा?
 Did you read it at all?	Haben Sie es überhaupt gelesen?	क्या आपने इसे भी पढ़ा?
 Did you read it at all?	Habt ihr es überhaupt gelesen?	क्या आपने इसे भी पढ़ा?
