@@ -1,14 +1,4 @@
 
-This is a real diamond.	Das ist ein echter Diamant.	यह एक असली हीरा है।
-This is a sacred place.	Dies ist ein heiliger Ort.	यह एक पवित्र स्थान है।
-This is a wooden house.	Dieses ist ein Holzhaus.	यह एक लकड़ी का घर है।
-This is a wooden table.	Dies ist ein Tisch aus Holz.	यह एक लकड़ी की मेज है।
-This is all your fault.	Das ist alles deine Schuld!	ये सब तुम्हारा दोष है!
-This is an ancient law.	Das ist ein altes Gesetz.	यह एक पुराना कानून है।
-This is an improvement.	Das ist eine Verbesserung.	यह एक सुधार है।
-This is an ugly design.	Das ist ein hässliches Design.	यह एक बदसूरत डिजाइन है।
-This is an uphill road.	Das ist eine ansteigende Straße.	यह एक बढ़ती सड़क है।
-This is an uphill road.	Das ist eine Straße, die bergauf geht.	यह एक ऐसी सड़क है जो ऊपर की ओर जाती है।
 This is as far as I go.	Bis hierher und nicht weiter.	यहाँ तक और आगे नहीं।
 This is excellent wine.	Das ist ein hervorragender Wein.	यह एक उत्कृष्ट शराब है।
 This is from Australia.	Das kommt aus Australien.	यह ऑस्ट्रेलिया से आता है।
