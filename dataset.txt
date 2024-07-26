@@ -1,14 +1,4 @@
 
-Tom is going to resign.	Tom wird zurücktreten.	टॉम नीचे कदम रखेगा।
-Tom is going to say no.	Tom wird nein sagen.	टॉम कहेंगे नहीं।
-Tom is good at cooking.	Tom ist ein guter Koch.	टॉम एक अच्छा रसोइया है।
-Tom is good at cooking.	Tom kocht gut.	टॉम अच्छी तरह से खाना बनाता है।
-Tom is good at cooking.	Tom kann gut kochen.	टॉम अच्छी तरह से खाना बना सकता है।
-Tom is good at driving.	Tom ist ein guter Fahrer.	टॉम एक अच्छा ड्राइवर है।
-Tom is good at driving.	Tom kann gut fahren.	टॉम अच्छी तरह से ड्राइव कर सकते हैं।
-Tom is good at his job.	Tom versteht sein Handwerk.	टॉम अपने शिल्प को समझता है।
-Tom is good at it, too.	Tom ist auch gut darin.	टॉम भी इसमें अच्छा है।
-Tom is good at singing.	Tom kann gut singen.	टॉम अच्छी तरह से गा सकता है।
 Tom is good at writing.	Tom kann gut schreiben.	टॉम अच्छा लिख ​​सकता है।
 Tom is growing a beard.	Tom lässt sich einen Bart wachsen.	टॉम की दाढ़ी बढ़ती है।
 Tom is guilty of theft.	Tom ist des Diebstahls schuldig.	टॉम चोरी का दोषी है।
