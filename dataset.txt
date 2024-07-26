@@ -1,14 +1,4 @@
 
-I've studied French.	Ich habe Französisch studiert.	मैंने फ्रेंच का अध्ययन किया।
-Identify yourselves!	Identifizieren Sie sich!	अपनी पहचान बताएं!
-Is 1 a prime number?	Ist 1 eine Primzahl?	1 एक प्रमुख संख्या है?
-Is French difficult?	Ist Französisch schwierig?	क्या फ्रेंच मुश्किल है?
-Is Santa Claus real?	Gibt es den Weihnachtsmann wirklich?	क्या सांता क्लॉस वास्तव में है?
-Is Tom an alcoholic?	Ist Tom Alkoholiker?	क्या टॉम शराबी है?
-Is Tom doing better?	Geht es Tom besser?	क्या टॉम बेहतर है?
-Is Tom going to die?	Muss Tom sterben?	क्या टॉम को मरना है?
-Is Tom good-looking?	Sieht Tom gut aus?	क्या टॉम अच्छा दिखता है?
-Is Tom running away?	Läuft Tom weg?	क्या टॉम भाग रहा है?
 Is Tom still aboard?	Ist Tom noch an Bord?	क्या टॉम अभी भी बोर्ड पर है?
 Is Tom still around?	Ist Tom immer noch da?	क्या टॉम अभी भी वहाँ है?
 Is Tom still asleep?	Schläft Tom noch?	टॉम अभी भी सो रहा है?

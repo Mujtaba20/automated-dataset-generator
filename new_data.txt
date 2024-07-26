@@ -27212,3 +27212,13 @@ I've met you before. (different meaning)	Wir haben uns schon einmal getroffen.	�
 I've said I'm sorry.	Ich habe gesagt, dass es mir leid tut.	मैंने कहा मुझे खेद है।
 I've seen that, too.	Das habe ich auch gesehen.	मैंने भी वह देखा है।
 I've seen you on TV.	Ich habe dich im Fernsehen gesehen.	मैंने तुम्हें टीवी पर देखा है।
+I've studied French.	Ich habe Französisch studiert.	मैंने फ्रेंच पढ़ा है।
+Identify yourselves!	Identifizieren Sie sich!	अपने आप को पहचानें!
+Is 1 a prime number?	Ist 1 eine Primzahl?	क्या 1 एक प्रधान संख्या है?
+Is French difficult?	Ist Französisch schwer?	क्या फ्रेंच कठिन है?
+Is Santa Claus real?	Ist der Weihnachtsmann echt?	क्या सांता क्लॉज़ वास्तव में है?
+Is Tom an alcoholic?	Ist Tom ein Alkoholiker?	क्या टॉम एक शराबी है?
+Is Tom doing better?	Geht es Tom besser?	क्या टॉम बेहतर कर रहा है?
+Is Tom going to die?	Wird Tom sterben?	क्या टॉम मरने जा रहा है?
+Is Tom good-looking?	Ist Tom gut aussehend?	क्या टॉम अच्छे दिखते हैं?
+Is Tom running away?	Läuft Tom weg?	क्या टॉम भाग रहा है?
