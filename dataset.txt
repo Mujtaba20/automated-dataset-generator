@@ -1,14 +1,4 @@
 
-I can't think straight.	Ich kann nicht klar denken.	मैं स्पष्ट रूप से नहीं सोच सकता।
-I can't understand Tom.	Ich kann Tom nicht verstehen.	मैं टॉम को नहीं समझ सकता।
-I can't understand you.	Ich kann dich nicht verstehen.	मैं तुम्हें नहीं समझ सकता हूँ।
-I can't wait that long.	So lange kann ich nicht warten.	मैं उस लंबे समय तक इंतजार नहीं कर सकता।
-I can't work like this.	Ich kann so nicht arbeiten.	मैं इस तरह से काम नहीं कर सकता।
-I cannot lift this box.	Ich kann diesen Behälter nicht heben.	मैं इस कंटेनर को नहीं उठा सकता।
-I cannot understand it.	Ich kann es nicht verstehen.	मैं समझ नहीं सकता।
-I caught an awful cold.	Ich habe mir eine schreckliche Erkältung eingefangen.	मैंने एक भयानक ठंड पकड़ ली।
-I changed my hairstyle.	Ich habe mir eine neue Frisur zugelegt.	मैंने एक नया हेयरस्टाइल खरीदा।
-I chose not to do that.	Ich zog es vor, das nicht zu tun.	मैंने ऐसा नहीं करना पसंद किया।
 I come from the future.	Ich komme aus der Zukunft.	मैं भविष्य से आता हूं।
 I come here every year.	Ich komme jedes Jahr hierher.	मैं हर साल यहां आता हूं।
 I compromised with Tom.	Ich bin mit Tom einen Kompromiss eingegangen.	मैंने टॉम के साथ एक समझौता किया।
