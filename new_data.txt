@@ -39114,3 +39114,12 @@ She is an early riser.	Sie steht früh auf.	वह जल्दी उठती 
 She is away in Kyushu.	Sie ist in Kyushu weg.	वह क्यूशू में दूर है।
 She is close to sixty.	Sie ist fast sechzig.	वह साठ के करीब है।
 She is engaged to him.	Sie ist mit ihm verlobt.	वह उससे विवाहित है।
+She is evidently sick.	Sie ist offensichtlich krank.	उसको स्पष्ट रूप से बीमारी है।
+She is five years old.	Sie ist fünf Jahre alt.	उसकी पांच साल की उम्र है।
+She is free from care.	Sie ist sorglos.	उसे चिंता मुक्त है।
+She is likely to come.	Es ist wahrscheinlich, dass sie kommt.	उसका आना संभव है।
+She is related to him.	Sie steht in Beziehung zu ihm.	वह उससे संबंधित है।
+She is sewing a dress.	Sie näht ein Kleid.	उसकी एक पोशाक सीवने में है।
+She is weak by nature.	Sie ist von Natur aus schwach.	प्राकृतिक रूप से वह कमजोर है।
+She isn't kind to him.	Sie ist nicht nett zu ihm.	वह उसके प्रति मेहरबान नहीं है।
+She likes Russian pop.	Sie mag russischen Pop.	उसको रूसी पॉप पसंद है।

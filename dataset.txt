@@ -1,14 +1,4 @@
 
-She is evidently sick.	Sie ist offensichtlich krank.	वह स्पष्ट रूप से बीमार है।
-She is five years old.	Sie ist fünf Jahre alt.	वह पांच साल का है।
-She is free from care.	Sie hat keine Sorgen.	उसे कोई चिंता नहीं है।
-She is likely to come.	Sie wird wahrscheinlich kommen.	यह शायद आ जाएगा।
-She is likely to come.	Sie wird wohl kommen.	यह आ जाएगा।
-She is related to him.	Sie ist mit ihm verwandt.	वह उससे संबंधित है।
-She is sewing a dress.	Sie näht ein Kleid.	वह एक पोशाक सिलाई करती है।
-She is weak by nature.	Sie ist von Natur aus schwach.	यह स्वाभाविक रूप से कमजोर है।
-She isn't kind to him.	Sie ist unfreundlich zu ihm.	वह उसके प्रति अमित्र है।
-She likes Russian pop.	Sie mag russischen Pop.	वह रूसी पॉप पसंद करती है।
 She likes the teacher.	Sie mag den Lehrer.	वह शिक्षक को पसंद करती है।
 She lives in New York.	Sie lebt in New York.	वह न्यूयॉर्क में रहती है।
 She lives in Yokohama.	Sie wohnt in Yokohama.	वह योकोहामा में रहती है।
