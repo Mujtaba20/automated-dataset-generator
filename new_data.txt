@@ -39086,3 +39086,12 @@ She handed him a book.	Sie übergab ihm ein Buch.	उसने उसे एक 
 She hardly ever works.	Sie arbeitet kaum.	वह बहुत कम काम करती है।
 She has a double chin.	Sie hat ein Doppelkinn.	उसका गला दुहना है।
 She has a few friends.	Sie hat wenige Freunde.	उसके कुछ दोस्त हैं।
+She has a good figure.	Sie hat eine gute Figur.	उसकी अच्छी आकृति है।
+She has a good memory.	Sie hat ein gutes Gedächtnis.	उसकी अच्छी यादें हैं।
+She has a nice figure.	Sie hat eine schöne Figur.	उसकी अच्छी आकृति है।
+She has a pretty doll.	Sie hat eine hübsche Puppe.	उसके पास एक खूबसूरत गुड़िया है।
+She has a slight lisp.	Sie hat ein leichtes Lispeln.	उसका हल्का लिस्प है।
+She has a small waist.	Sie hat eine schmale Taille.	उसकी छोटी कमर है।
+She has been to Paris.	Sie war in Paris.	उसे पेरिस गया हुआ है।
+She has gone shopping.	Sie ist einkaufen gegangen.	उसने खरीदारी की है।
+She has gone to Italy.	Sie ist nach Italien gegangen.	उसने इटली जाना है।

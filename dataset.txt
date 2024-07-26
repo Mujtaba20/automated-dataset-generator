@@ -1,14 +1,4 @@
 
-She has a good figure.	Sie hat eine gute Figur.	उसके पास एक अच्छा फिगर है।
-She has a good memory.	Sie hat ein gutes Gedächtnis.	इसकी अच्छी मेमोरी है।
-She has a nice figure.	Sie hat eine gute Figur.	उसके पास एक अच्छा फिगर है।
-She has a pretty doll.	Sie hat eine schöne Puppe.	उसके पास एक अच्छी गुड़िया है।
-She has a pretty doll.	Sie hat eine hübsche Puppe.	उसके पास एक सुंदर गुड़िया है।
-She has a slight lisp.	Sie lispelt ein bisschen.	वह थोड़ी है।
-She has a small waist.	Sie hat eine schmale Taille.	उसकी एक संकीर्ण कमर है।
-She has been to Paris.	Sie war schon mal in Paris.	वह पहले से ही पेरिस में थी।
-She has gone shopping.	Sie ist einkaufen gegangen.	वह ख़रीदारी करने गयी।
-She has gone to Italy.	Sie ist nach Italien gegangen.	वह इटली गई थी।
 She has gone to Paris.	Sie ging nach Paris.	वह पेरिस गई।
 She has lost all hope.	Sie hat alle Hoffnung aufgegeben.	उसने सारी आशा छोड़ दी है.
 She has two daughters.	Sie hat zwei Töchter.	उसकी दो बेटियां हैं।
