@@ -1,14 +1,4 @@
 
-The line isn't moving.	Es geht in der Warteschlange nicht voran.	कतार प्रगति नहीं कर रही है।
-The list is very long.	Die Liste ist sehr lang.	सूची बहुत लंबी है।
-The lock is beautiful.	Das Schloss ist schön.	महल सुंदर है।
-The man lost all hope.	Der Mann verlor alle Hoffnung.	आदमी ने सभी आशा खो दी।
-The man's name is Tom.	Der Mann heißt Tom.	आदमी को टॉम कहा जाता है।
-The meat has gone bad.	Das Fleisch ist nicht mehr gut.	मांस अब अच्छा नहीं है।
-The meat is expensive.	Das Fleisch ist teuer.	मांस महंगा है।
-The milk has gone bad.	Die Milch ist schlecht geworden.	दूध खराब हो गया है।
-The money disappeared.	Das Geld ist verschwunden.	पैसा गायब हो गया है।
-The money disappeared.	Das Geld verschwand.	पैसा गायब हो गया।
 The moon has come out.	Der Mond ist aufgegangen.	चाँद बढ़ गया है।
 The moon is beautiful.	Es ist ein schöner Mond.	यह एक सुंदर चाँद है।
 The more, the merrier.	Je mehr, desto besser.	जितना ज्यादा उतना अच्छा।

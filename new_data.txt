@@ -39490,3 +39490,12 @@ The king was executed.	Der König wurde hingerichtet.	राजा को फा
 The kitchen was clean.	Die Küche war sauber.	रसोई साफ थी।
 The lake is deep here.	Der See ist hier tief.	यहाँ झील गहरी है।
 The lake is very deep.	Der See ist sehr tief.	झील बहुत गहरी है।
+The line isn't moving.	Die Linie bewegt sich nicht.	लाइन हिल रही नहीं है।
+The list is very long.	Die Liste ist sehr lang.	सूची बहुत लंबी है।
+The lock is beautiful.	Das Schloss ist schön.	ताला सुंदर है।
+The man lost all hope.	Der Mann hat alle Hoffnung verloren.	आदमी ने सभी आशा खो दी है।
+The man's name is Tom.	Der Name des Mannes ist Tom.	आदमी का नाम टॉम है।
+The meat has gone bad.	Das Fleisch ist schlecht geworden.	मांस खराब हो गया है।
+The meat is expensive.	Das Fleisch ist teuer.	मांस महंगा है।
+The milk has gone bad.	Die Milch ist schlecht geworden.	दूध खराब हो गया है।
+The money disappeared.	Das Geld ist verschwunden.	पैसे गायब हो गए हैं।
