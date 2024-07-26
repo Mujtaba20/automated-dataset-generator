@@ -1,16 +1,4 @@
 
-Who else was there?	Wer war sonst noch da?	और कौन था?
-Who gave the order?	Wer hat das veranlasst?	किसने प्रेरित किया?
-Who is visiting us?	Wer besucht uns?	हमसे मिलने कौन है?
-Who is your friend?	Wer ist deine Freundin?	तुम्हारी महिला मित्र कौन है?
-Who is your friend?	Wer ist dein Freund?	आपका दोस्त कौन है?
-Who is your friend?	Wer ist Ihr Freund?	आपका दोस्त कौन है?
-Who is your friend?	Wer ist Ihre Freundin?	तुम्हारी महिला मित्र कौन है?
-Who is your friend?	Wer ist euer Freund?	आपका दोस्त कौन है?
-Who is your friend?	Wer ist eure Freundin?	तुम्हारी महिला मित्र कौन है?
-Who is your lawyer?	Wer ist Ihr Anwalt?	आपका वकील कौन है?
-Who is your lawyer?	Wer ist dein Anwalt?	आपका वकील कौन है?
-Who is your lawyer?	Wer ist euer Anwalt?	आपका वकील कौन है?
 Who is your mother?	Wer ist deine Mutter?	तुम्हारी माँ कौन है?
 Who listens to Tom?	Wer hört Tom zu?	टॉम को कौन सुनता है?
 Who made Tom leave?	Wer hat Tom weggeschickt?	टॉम को किसने भेजा?

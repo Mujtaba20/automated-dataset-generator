@@ -24702,3 +24702,8 @@ Who did the survey?	Wer hat die Umfrage gemacht?	सर्वेक्षण क
 Who did this first?	Wer hat das zuerst gemacht?	कौनने पहले यह किया?
 Who did you expect?	Wen hast du erwartet?	तुम किसे अपेक्षा कर रहे थे?
 Who do you talk to?	Mit wem sprichst du?	तुम किससे बात करते हो?
+Who else was there?	Wer war noch da?	कौन और वहाँ था?
+Who gave the order?	Wer hat den Befehl gegeben?	किसने आदेश दिया?
+Who is visiting us?	Wer besucht uns?	कौन हमें देखने आ रहा है?
+Who is your friend?	Wer ist dein Freund?	तुम्हारा दोस्त कौन है?
+Who is your lawyer?	Wer ist dein Anwalt?	तुम्हारा वकील कौन है?
