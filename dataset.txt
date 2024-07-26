@@ -1,14 +1,4 @@
 
-Is that too little?	Ist das zu wenig?	क्या यह पर्याप्त नहीं है?
-Is that your house?	Ist das dein Haus?	क्या ये आपका घर है?
-Is the book boring?	Ist das Buch langweilig?	क्या पुस्तक उबाऊ है?
-Is the bridge safe?	Ist die Brücke sicher?	क्या पुल सुरक्षित है?
-Is the dog chained?	Ist der Hund angekettet?	क्या कुत्ता जंजीर है?
-Is the horse black?	Ist das Pferd schwarz?	क्या घोड़ा काला है?
-Is there a message?	Gibt es eine Nachricht?	क्या कोई संदेश है?
-Is there a milkman?	Gibt es einen Milchmann?	क्या कोई दूध आदमी है?
-Is there any sugar?	Ist Zucker da?	क्या चीनी है?
-Is this Tom's bike?	Ist das Toms Fahrrad?	क्या टॉम की बाइक है?
 Is this Tom's book?	Ist das Toms Buch?	क्या टॉम की किताब है?
 Is this Tom's room?	Ist das hier Toms Zimmer?	क्या यह टॉम का कमरा है?
 Is this book Tom's?	Gehört dieses Buch Tom?	क्या यह पुस्तक है?

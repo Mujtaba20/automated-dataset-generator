@@ -22148,3 +22148,13 @@ Is that not enough?	Ist das nicht genug?	क्या वह काफी नह
 Is that not normal?	Ist das nicht normal?	क्या यह सामान्य नहीं है?
 Is that real blood?	Ist das echtes Blut?	क्या वह असली खून है?
 Is that really you?	Bist du das wirklich?	क्या वास्तव में तुम हो?
+Is that too little?	Ist das zu wenig?	क्या वह बहुत कम है?
+Is that your house?	Ist das dein Haus?	क्या वह तुम्हारा घर है?
+Is the book boring?	Ist das Buch langweilig?	क्या किताब उबाऊ है?
+Is the bridge safe?	Ist die Brücke sicher?	क्या सेतु सुरक्षित है?
+Is the dog chained?	Ist der Hund angekettet?	क्या कुत्ता जंजीर में बंधा हुआ है?
+Is the horse black?	Ist das Pferd schwarz?	क्या घोड़ा काला है?
+Is there a message?	Gibt es eine Nachricht?	क्या संदेश है?
+Is there a milkman?	Gibt es einen Milchmann?	क्या एक दूधवाला है?
+Is there any sugar?	Gibt es Zucker?	क्या कोई चीनी है?
+Is this Tom's bike?	Ist das Toms Fahrrad?	क्या यह टॉम की साइकिल है?
