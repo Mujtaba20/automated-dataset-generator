@@ -38778,3 +38778,12 @@ Mark the right answer.	Kreuzen Sie die richtige Antwort an.	सही जवा�
 Mary broke up with me.	Mary hat mit mir Schluss gemacht.	मेरी ने मुझसे तोड़ा संबंध।
 Mary could be a model.	Mary könnte ein Model sein.	मेरी एक मॉडल हो सकती है।
 Mary has her problems.	Mary hat ihre Probleme.	मेरी के पास अपने समस्याएँ हैं।
+Mary is Tom's ex-wife.	Mary ist Toms Ex-Frau.	मेरी टॉम की पूर्व पत्नी है।
+Mary is a good mother.	Mary ist eine gute Mutter.	मेरी एक अच्छी माँ है।
+Mary is a hairdresser.	Mary ist Friseurin.	मेरी पर्ची काटने वाली है।
+Mary is a homely girl.	Mary ist ein häusliches Mädchen.	मेरी एक घरेलू लड़की है।
+Mary is a hula dancer.	Mary ist eine Hula-Tänzerin.	मेरी एक हूला नृत्यकारिणी है।
+Mary is a pretty girl.	Mary ist ein hübsches Mädchen.	मेरी एक सुंदर लड़की है।
+Mary is a smart woman.	Mary ist eine kluge Frau.	मेरी एक चालाक महिला है।
+Mary is afraid of men.	Mary hat Angst vor Männern.	मेरी पुरुषों से डरती है।
+Mary is an oncologist.	Mary ist Onkologin.	मेरी एक कैंसर विशेषज्ञ है।

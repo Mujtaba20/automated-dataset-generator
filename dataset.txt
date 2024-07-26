@@ -1,14 +1,4 @@
 
-Mary is Tom's ex-wife.	Mary ist Toms Exfrau.	मैरी टॉम की पूर्व पत्नी हैं।
-Mary is a good mother.	Maria ist eine gute Mutter.	मारिया एक अच्छी माँ है।
-Mary is a hairdresser.	Maria ist Friseurin.	मारिया एक हेयरड्रेसर है।
-Mary is a homely girl.	Mary ist ein häusliches Mädchen.	मैरी एक घर की लड़की है।
-Mary is a hula dancer.	Maria ist eine Hula-Tänzerin.	मारिया एक हुला नर्तक है।
-Mary is a hula dancer.	Maria tanzt Hula.	मारिया नृत्य हुला।
-Mary is a pretty girl.	Maria ist ein hübsches Mädchen.	मारिया एक सुंदर लड़की है।
-Mary is a smart woman.	Maria ist eine kluge Frau.	मारिया एक बुद्धिमान महिला है।
-Mary is afraid of men.	Maria hat Angst vor Männern.	मारिया पुरुषों से डरती है।
-Mary is an oncologist.	Maria ist Onkologin.	मारिया ऑन्कोलॉजिस्ट है।
 Mary is baking a cake.	Maria bäckt einen Kuchen.	मारिया एक केक को काटती है।
 Mary is my girlfriend.	Maria ist meine Freundin.	मारिया मेरी प्रेमिका है।
 Mary is my stepmother.	Maria ist meine Stiefmutter.	मारिया मेरी सौतेली माँ है।
