@@ -26729,3 +26729,13 @@ I tried to tell you.	Ich habe versucht, dir zu sagen.	मैंने कोश�
 I tried to tell you. (altered meaning)	Ich habe versucht, es dir zu sagen.	मैंने कोशिश की कि मैं यह तुम्हें बता सकूँ।
 I trimmed the hedge.	Ich habe die Hecke geschnitten.	मैंने झाड़ी काटी।
 I trust your advice.	Ich vertraue deinem Rat.	मैं तुम्हारे सलाह पर भरोसा करता हूँ।
+I turned off the TV.	Ich habe den Fernseher ausgeschaltet.	मैंने टीवी बंद कर दी।
+I turned on the fan.	Ich habe den Ventilator eingeschaltet.	मैंने पंखा चालू किया।
+I turned the TV off.	Ich habe den Fernseher ausgemacht.	मैंने टीवी बंद किया।
+I understand French.	Ich verstehe Französisch.	मैं फ्रेंच समझता हूँ।
+I used to be skinny.	Ich war früher schlank.	मैं पहले पतला था।
+I used to eat pizza.	Früher habe ich Pizza gegessen.	मैं पिज्जा खाता था।
+I used to live here.	Früher habe ich hier gelebt.	मैं यहाँ रहता था।
+I used to love Mary.	Ich habe Mary geliebt.	मैंने मेरी से प्यार किया था।
+I used to love that.	Ich habe das geliebt.	मैंने उसे पसंद किया था।
+I usually eat a lot.	Ich esse normalerweise viel.	मैं आम तौर पर बहुत खाता हूँ।

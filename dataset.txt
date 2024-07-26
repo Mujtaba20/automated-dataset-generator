@@ -1,14 +1,4 @@
 
-I turned off the TV.	Ich habe den Fernseher ausgeschaltet.	मैंने टीवी बंद कर दिया।
-I turned on the fan.	Ich habe den Ventilator angemacht.	मैंने प्रशंसक को चालू कर दिया।
-I turned the TV off.	Ich habe den Fernseher ausgeschaltet.	मैंने टीवी बंद कर दिया।
-I understand French.	Ich verstehe Französisch.	मैं फ्रेंच समझता हूं।
-I used to be skinny.	Ich war mal dünn.	मैं पतला था।
-I used to eat pizza.	Ich habe sonst immer Pizza gegessen.	अन्यथा मैंने हमेशा पिज्जा खाया।
-I used to live here.	Ich war hier einmal zu Hause.	मैं यहाँ घर पर था।
-I used to love Mary.	Ich habe Maria einmal geliebt.	मैं एक बार मारिया से प्यार करता था।
-I used to love that.	Sonst hat mir das immer sehr gefallen.	अन्यथा मुझे हमेशा यह पसंद आया।
-I usually eat a lot.	Ich esse gewöhnlich viel.	मैं आमतौर पर बहुत खाता हूं।
 I usually eat alone.	Ich esse normalerweise allein.	मैं आमतौर पर अकेले खाता हूं।
 I value your candor.	Ich schätze deine Freimütigkeit.	मैं आपकी स्पष्टता की सराहना करता हूं।
 I value your candor.	Ich schätze eure Freimütigkeit.	मैं आपकी स्पष्टता की सराहना करता हूं।
