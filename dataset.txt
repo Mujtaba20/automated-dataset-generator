@@ -1,14 +1,4 @@
 
-I can't stand raw fish.	Ich kann rohen Fisch nicht ausstehen.	मैं कच्ची मछली खड़ा नहीं कर सकता।
-I can't stand the cold.	Ich kann die Kälte nicht ausstehen.	मैं ठंड में खड़ा नहीं हो सकता।
-I can't stand the cold.	Ich ertrage die Kälte nicht.	मैं ठंड में खड़ा नहीं है।
-I can't stand the cold.	Ich ertrage keine Kälte.	मैं ठंडा नहीं होता।
-I can't stand violence.	Ich kann Gewalt nicht ausstehen.	मैं हिंसा नहीं कर सकता।
-I can't swim very well.	Ich kann nicht besonders gut schwimmen.	मैं बहुत अच्छी तरह से तैर नहीं सकता।
-I can't take that risk.	Das Risiko kann ich nicht in Kauf nehmen.	मैं जोखिम को स्वीकार नहीं कर सकता।
-I can't take that risk.	Das Risiko kann ich nicht eingehen.	मैं जोखिम नहीं ले सकता।
-I can't take that risk.	Das Risiko kann ich nicht auf mich nehmen.	मैं जोखिम नहीं ले सकता।
-I can't talk right now.	Ich kann jetzt nicht reden.	अभी मैं बात नहीं कर सकता हूं।
 I can't think straight.	Ich kann nicht klar denken.	मैं स्पष्ट रूप से नहीं सोच सकता।
 I can't understand Tom.	Ich kann Tom nicht verstehen.	मैं टॉम को नहीं समझ सकता।
 I can't understand you.	Ich kann dich nicht verstehen.	मैं तुम्हें नहीं समझ सकता हूँ।
