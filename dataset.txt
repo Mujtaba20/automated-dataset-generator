@@ -1,14 +1,4 @@
 
-This cloth feels soft.	Dieser Stoff fühlt sich weich an.	यह कपड़ा नरम लगता है।
-This could take hours.	Das könnte Stunden dauern.	इसमें घंटों लग सकते थे।
-This curry is too hot.	Dieses Currygericht ist zu scharf.	यह करी डिश बहुत तेज है।
-This fruit tastes bad.	Diese Frucht schmeckt nicht gut.	यह फल अच्छा नहीं है।
-This fruit tastes bad.	Diese Frucht schmeckt scheußlich.	यह फल छिपा हुआ है।
-This game was put off.	Dieses Spiel wurde verschoben.	इस खेल को स्थगित कर दिया गया था।
-This gift is from Tom.	Dieses Geschenk ist von Tom.	यह उपहार टॉम से है।
-This is Tom's bicycle.	Das ist Toms Fahrrad.	यह टॉम की बाइक है।
-This is a Chinese fan.	Dies ist ein chinesischer Fächer.	यह एक चीनी विषय है।
-This is a Chinese fan.	Dies ist ein chinesischer Fan.	यह एक चीनी प्रशंसक है।
 This is a company car.	Das ist ein Geschäftsauto.	यह एक व्यावसायिक कार है।
 This is a company car.	Das ist ein Firmenwagen.	यह एक कंपनी की कार है।
 This is a crazy world.	Das ist eine verrückte Welt.	यह एक पागल दुनिया है।

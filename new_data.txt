@@ -39715,3 +39715,11 @@ This car handles well.	Dieses Auto fährt gut.	यह कार अच्छा 
 This car has an alarm.	Dieses Auto hat einen Alarm.	इस कार में एक अलार्म है।
 This car needs washed.	Dieses Auto muss gewaschen werden.	इस कार को धोने की आवश्यकता है।
 This chair is plastic.	Dieser Stuhl ist aus Kunststoff.	यह कुर्सी प्लास्टिक की है।
+This cloth feels soft.	Dieser Stoff fühlt sich weich an.	यह कपड़ा मुलायम लगता है।
+This could take hours.	Das könnte Stunden dauern.	यह घंटे ले सकता है।
+This curry is too hot.	Dieses Curry ist zu scharf.	यह करी बहुत गरम है।
+This fruit tastes bad.	Dieses Obst schmeckt schlecht.	यह फल बुरा लगता है।
+This game was put off.	Dieses Spiel wurde verschoben.	यह खेल टाल दिया गया था।
+This gift is from Tom.	Dieses Geschenk ist von Tom.	यह उपहार टॉम से है।
+This is Tom's bicycle.	Das ist Toms Fahrrad.	यह टॉम का साइकिल है।
+This is a Chinese fan.	Das ist ein chinesischer Fächer.	यह एक चीनी पंखा है।
