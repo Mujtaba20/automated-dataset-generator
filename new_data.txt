@@ -29007,3 +29007,13 @@ Tom isn't a student.	Tom ist kein Student.	टॉम एक छात्र न�
 Tom isn't a suspect.	Tom ist kein Verdächtiger.	टॉम एक संदिग्ध नहीं है।
 Tom isn't an artist.	Tom ist kein Künstler.	टॉम कलाकार नहीं है।
 Tom isn't an expert.	Tom ist kein Experte.	टॉम एक विशेषज्ञ नहीं है।
+Tom isn't answering.	Tom antwortet nicht.	टॉम जवाब नहीं दे रहा है।
+Tom isn't at school.	Tom ist nicht in der Schule.	टॉम स्कूल में नहीं है।
+Tom isn't breathing.	Tom atmet nicht.	टॉम सांस नहीं ले रहा है।
+Tom isn't conscious.	Tom ist nicht bei Bewusstsein.	टॉम सचेत नहीं है।
+Tom isn't convinced.	Tom ist nicht überzeugt.	टॉम मनाया नहीं गया है।
+Tom isn't impressed.	Tom ist nicht beeindruckt.	टॉम प्रभावित नहीं है।
+Tom isn't in Boston.	Tom ist nicht in Boston.	टॉम बोस्टन में नहीं है।
+Tom isn't like Mary.	Tom mag Mary nicht.	टॉम मेरी की तरह नहीं है।
+Tom isn't like that.	Tom ist nicht so.	टॉम ऐसा नहीं है।
+Tom isn't listening.	Tom hört nicht zu.	टॉम सुन नहीं रहा है।

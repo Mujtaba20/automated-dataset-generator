@@ -1,14 +1,4 @@
 
-Tom isn't answering.	Tom antwortet nicht.	टॉम जवाब नहीं देता।
-Tom isn't at school.	Tom ist nicht in der Schule.	टॉम स्कूल में नहीं है।
-Tom isn't breathing.	Tom atmet nicht mehr.	टॉम अब सांस नहीं लेता।
-Tom isn't conscious.	Tom ist nicht bei Bewusstsein.	टॉम जागरूकता नहीं है।
-Tom isn't convinced.	Tom ist nicht überzeugt.	टॉम आश्वस्त नहीं है।
-Tom isn't impressed.	Tom ist nicht beeindruckt.	टॉम प्रभावित नहीं है।
-Tom isn't in Boston.	Tom ist nicht in Boston.	टॉम बोस्टन में नहीं है।
-Tom isn't like Mary.	Tom ist nicht wie Maria.	टॉम मारिया की तरह नहीं है।
-Tom isn't like that.	Tom ist nicht so.	टॉम ऐसा नहीं है।
-Tom isn't listening.	Tom hört nicht zu.	टॉम नहीं सुनता।
 Tom isn't my cousin.	Tom ist nicht mein Cousin.	टॉम मेरे चचेरे भाई नहीं हैं।
 Tom isn't my father.	Tom ist nicht mein Vater.	टॉम मेरे पिता नहीं हैं।
 Tom isn't my friend.	Tom ist nicht mein Freund.	टॉम मेरा दोस्त नहीं है।
