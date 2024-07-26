@@ -1,16 +1,4 @@
 
-May I start eating now?	Kann ich jetzt mit dem Essen anfangen?	क्या मैं अब खाना शुरू कर सकता हूं?
-May I start eating now?	Darf ich jetzt mit dem Essen anfangen?	क्या मैं अब खाना शुरू कर सकता हूं?
-May I take off my coat?	Darf ich meinen Mantel ausziehen?	क्या मैं अपना कोट उतार सकता हूं?
-May I take off my coat?	Darf ich meinen Mantel ablegen?	क्या मैं अपना कोट बंद कर सकता हूँ?
-May I turn down the TV?	Darf ich den Fernseher leiser stellen?	क्या मैं टीवी को शांत कर सकता हूं?
-May I watch TV tonight?	Darf ich heute Abend fernsehen?	क्या मैं आज रात टीवी देख सकता हूं?
-Maybe I don't love you.	Vielleicht liebe ich dich gar nicht.	शायद मैं तुमसे प्यार नहीं करता।
-Maybe I don't need Tom.	Vielleicht brauche ich Tom gar nicht.	शायद मुझे टॉम की जरूरत नहीं है।
-Maybe I'll fall asleep.	Vielleicht schlafe ich ein.	शायद मैं सो जाता हूं।
-Maybe Tom can help you.	Vielleicht kann Tom dir helfen.	शायद टॉम आपकी मदद कर सकता है।
-Maybe Tom can help you.	Vielleicht kann Tom euch helfen.	शायद टॉम आपकी मदद कर सकता है।
-Maybe Tom can help you.	Vielleicht kann Tom Ihnen helfen.	शायद टॉम आपकी मदद कर सकता है।
 Maybe Tom has problems.	Vielleicht hat Tom Probleme.	शायद टॉम को समस्याएं हैं।
 Maybe Tom will say yes.	Vielleicht sagt Tom ja.	शायद टॉम कहते हैं हाँ।
 Maybe you should leave.	Vielleicht solltest du dich davonbegeben.	शायद आपको खुद को दूर कर देना चाहिए।
