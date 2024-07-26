@@ -27342,3 +27342,13 @@ It was a great trip.	Es war eine tolle Reise.	यह एक बहुत शा�
 It was a little fun.	Es hat ein wenig Spaß gemacht.	थोड़ी मस्ती थी।
 It was a lot of fun.	Es hat viel Spaß gemacht.	बहुत मजा आया।
 It was a nice party.	Es war eine schöne Party.	यह एक अच्छी पार्टी थी।
+It was a stupid bet.	Es war eine dumme Wette.	यह एक मूर्ख दांव था।
+It was a tough call.	Es war eine schwierige Entscheidung.	यह एक कठिन कॉल था।
+It was a tough exam.	Es war eine schwierige Prüfung.	यह एक कठिन परीक्षा थी।
+It was a true story.	Es war eine wahre Geschichte.	यह एक सच्ची कहानी थी।
+It was all my fault.	Es war alles meine Schuld.	यह सब मेरी गलती थी।
+It was almost funny.	Es war fast lustig.	यह लगभग मजेदार था।
+It was an emergency.	Es war ein Notfall.	यह एक आपातकालीन स्थिति थी।
+It was child's play.	Es war kinderleicht.	यह बच्चों का खेल था।
+It was cold outside.	Es war kalt draußen.	बाहर सर्दी थी।
+It was dark by then.	Dann war es dunkel.	तब अंधेरा हो गया था।
