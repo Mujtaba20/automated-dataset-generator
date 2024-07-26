@@ -37051,3 +37051,7 @@ How long does it take?	Wie lange dauert es?	यह कितना समय ल
 How long was Tom sick?	Wie lange war Tom krank?	टॉम कितने समय तक बीमार था?
 How long will it take?	Wie lange wird es dauern?	यह कितना समय लेगा?
 How long will we have?	Wie lange werden wir haben?	हमारे पास कितना समय होगा?
+How long'll that take?	Wie viel Zeit wird das in Anspruch nehmen?	इसे पूरा करने में कितना समय लगेगा?
+How many do they need?	Wie viele brauchen sie?	उन्हें कितने चाहिए?
+How many does he want?	Wie viele will er?	वह कितने चाहता है?
+How much do I owe you?	Wie viel muss ich Ihnen bezahlen?	मुझे आपको कितना देना है?

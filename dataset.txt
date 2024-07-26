@@ -1,14 +1,4 @@
 
-How long'll that take?	Wie lange dauert das?	इसमें कितना समय लगता है?
-How long'll that take?	Wie lange braucht das?	कितना समय लगता है?
-How many do they need?	Wie viel brauchen sie?	आपको कितना चाहिए?
-How many does he want?	Wie viele möchte er?	वह कितने चाहता है?
-How much do I owe you?	Wie viel schulde ich Ihnen?	मैनें तुम्हारा कितना देना है?
-How much do I owe you?	Wie viel schulde ich dir?	मैनें तुम्हारा कितना देना है?
-How much do I owe you?	Wie viel bin ich dir schuldig?	मैनें तुम्हारा कितना देना है?
-How much do I owe you?	Wie viel schulde ich euch?	मैनें तुम्हारा कितना देना है?
-How much do I owe you?	Wie viel bin ich euch schuldig?	मैनें तुम्हारा कितना देना है?
-How much do I owe you?	Wie viel bin ich Ihnen schuldig?	मैनें तुम्हारा कितना देना है?
 How much do you weigh?	Wie viel wiegst du?	आपका वजन कितना है?
 How much do you weigh?	Wie viel wiegen Sie?	आपका वजन कितना है?
 How much do you weigh?	Wie viel wiegt ihr?	आपका वजन कितना है?
