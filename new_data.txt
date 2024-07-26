@@ -22853,3 +22853,11 @@ That belongs to me.	Das gehört mir.	वह मेरा है।
 That belongs to us.	Das gehört uns.	वह हमारा है।
 That book is small.	Das Buch ist klein.	यह किताब छोटी है।
 That can't be true.	Das kann nicht stimmen.	वह सच नहीं हो सकता।
+That didn't happen.	Das ist nicht passiert.	वह नहीं हुआ।
+That feels amazing.	Das fühlt sich fantastisch an.	वह अद्भुत लगता है।
+That guy annoys me.	Dieser Typ stört mich.	वह व्यक्ति मुझे चिढ़ जाता है।
+That happened here.	Das ist hier passiert.	वह यहाँ हुआ।
+That house is mine.	Das Haus ist mein.	वह मकान मेरा है।
+That is intriguing.	Das ist faszinierend.	यह ख़ासदार है।
+That is not my pen.	Das ist nicht mein Stift.	वह मेरी कलम नहीं है।
+That is our father.	Das ist unser Vater.	वह हमारे पिता है।
