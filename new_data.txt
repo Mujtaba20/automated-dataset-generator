@@ -35771,3 +35771,10 @@ You can use this car.	Du kannst dieses Auto benutzen.	तुम इस कार
 You can wait outside.	Du kannst draußen warten.	तुम बाहर इंतजार कर सकते हैं।
 You can't be serious.	Du kannst nicht ernst sein.	तुम स्थायी नहीं हो सकते।
 You can't be serious?	Du kannst doch nicht ernst sein?	तुम सचमुच सीरियस नहीं हो सकते?
+You can't change Tom.	Du kannst Tom nicht ändern.	तुम टॉम को नहीं बदल सकते।
+You can't drink here.	Du kannst hier nicht trinken.	तुम यहाँ पीने नहीं आ सकते।
+You can't ignore Tom.	Du kannst Tom nicht ignorieren.	तुम टॉम को नजरअंदाज नहीं कर सकते।
+You can't just leave.	Du kannst nicht einfach gehen.	तुम बस ऐसे ही चले नहीं जा सकते।
+You can't park there.	Du kannst dort nicht parken.	तुम वहाँ पार्क नहीं कर सकते।
+You can't prove that.	Du kannst das nicht beweisen.	तुम यह साबित नहीं कर सकते।
+You can't resign now.	Du kannst jetzt nicht zurücktreten.	तुम अब इस्तीफा नहीं दे सकते।

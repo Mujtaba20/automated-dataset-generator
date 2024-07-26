@@ -1,14 +1,4 @@
 
-You can't change Tom.	Du kannst Tom nicht ändern.	आप टॉम नहीं बदल सकते।
-You can't change Tom.	Sie können Tom nicht ändern.	आप टॉम नहीं बदल सकते।
-You can't change Tom.	Man kann Tom nicht ändern.	आप टॉम नहीं बदल सकते।
-You can't drink here.	Du darfst hier nicht trinken.	आप यहां नहीं पी सकते।
-You can't ignore Tom.	Du kannst Tom nicht ignorieren.	आप टॉम को अनदेखा नहीं कर सकते।
-You can't ignore Tom.	Sie können Tom nicht ignorieren.	आप टॉम को अनदेखा नहीं कर सकते।
-You can't just leave.	Du kannst nicht einfach so gehen!	आप बस उस तरह से नहीं जा सकते!
-You can't park there.	Sie dürfen dort nicht parken.	आपको वहां पार्क करने की अनुमति नहीं है।
-You can't prove that.	Du kannst das nicht beweisen.	आप यह साबित नहीं कर सकते।
-You can't resign now.	Du kannst jetzt nicht kündigen.	अब आप नहीं छोड़ सकते।
 You can't smoke here.	Du darfst hier nicht rauchen.	आपको यहां धूम्रपान करने की अनुमति नहीं है।
 You can't start over.	Du kannst nicht von vorn anfangen.	आप शुरू नहीं कर सकते।
 You could've said no.	Du hättest nein sagen können.	आप नहीं कह सकते थे।
