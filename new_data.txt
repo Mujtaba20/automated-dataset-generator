@@ -39294,3 +39294,13 @@ Thanks to both of you. (Different meaning)	Vielen Dank an euch beide.	आप द
 Thanks, but no thanks.	Danke, aber nein danke.	धन्यवाद, लेकिन नहीं धन्यवाद।
 That banana is rotten.	Diese Banane ist faul.	वह केला सड़ गया है।
 That cannot be denied.	Das lässt sich nicht leugnen.	यह इनकार नहीं किया जा सकता।
+That car is quite new.	Dieses Auto ist ziemlich neu.	वह कार काफी नई है।
+That cost him his job.	Das hat ihn seinen Job gekostet.	उसने उससे अपनी नौकरी गवाई।
+That cost him his job. (duplicate)	Das hat ihn seinen Job gekostet.	उसने अपनी नौकरी के लिए वजह देनी पड़ी।
+That could now change.	Das könnte sich jetzt ändern.	अब वह बदल सकता है।
+That could take hours.	Das könnte Stunden dauern.	इसको घंटों में पूरा किया जा सकता है।
+That could take weeks.	Das könnte Wochen dauern.	यह हफ्तों तक का समय ले सकता है।
+That didn't take long.	Das hat nicht lange gedauert.	उसने वक्त ज्यादा नहीं लिया।
+That dog doesn't bite.	Der Hund beißt nicht.	वह कुत्ता काटता नहीं है।
+That dog is so stupid.	Der Hund ist so dumm.	वह कुत्ता बहुत मूर्ख है।
+That guy is an outlaw.	Dieser Kerl ist ein Gesetzloser.	वह आदमी एक बे-कानूनी है।
