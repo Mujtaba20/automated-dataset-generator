@@ -24311,3 +24311,11 @@ We know who did it.	Wir wissen, wer es getan hat.	हमें पता है 
 We live in a house.	Wir leben in einem Haus.	हम एक घर में रहते हैं।
 We live over there.	Wir leben dort drüben.	हम वहाँ रहते हैं।
 We look ridiculous.	Wir sehen lächerlich aus.	हम अनूठे लगते हैं।
+We love each other.	Wir lieben uns gegenseitig.	हम एक-दूसरे से प्यार करते हैं।
+We love our school.	Wir lieben unsere Schule.	हम अपने स्कूल से प्यार करते हैं।
+We love what we do.	Wir lieben, was wir tun.	हमें वह पसंद है जो हम करते हैं।
+We made a decision.	Wir trafen eine Entscheidung.	हमने एक निर्णय लिया।
+We made a good buy.	Wir haben einen guten Kauf getätigt.	हमने एक अच्छा खरीद लिया।
+We made it on time.	Wir haben es rechtzeitig geschafft.	हम वक्त पर पहुंच गए।
+We may be too late.	Wir sind vielleicht zu spät dran.	हम शायद बहुत देर सहीं।
+We missed the exit.	Wir haben die Ausfahrt verpasst.	हमने बाहरी रास्ता छोड़ दिया।
