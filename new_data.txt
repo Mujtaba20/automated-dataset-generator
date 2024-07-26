@@ -30352,3 +30352,10 @@ Your memory is good.	Dein Gedächtnis ist gut.	तुम्हारी या�
 Your mom seems nice.	Deine Mutter scheint nett zu sein.	तुम्हारी माँ अच्छी लगती है।
 Your shoes are here.	Deine Schuhe sind hier.	तुम्हारे जूते यहाँ हैं।
 Your table is ready.	Dein Tisch ist fertig.	तुम्हारी मेज तैयार है।
+Your ticket, please.	Ihre Fahrkarte, bitte.	अपना टिकट, कृपया।
+Your tie is crooked.	Deine Krawatte ist schief.	तुम्हारा टाई टेढ़ी है।
+Your tie looks good.	Deine Krawatte sieht gut aus.	तुम्हारी टाई अच्छी लग रही है।
+Your zipper is open.	Dein Reißverschluss ist offen.	तुम्हारा ज़िपर खुला है।
+Yours is over there.	Deins ist da drüben.	तुम्हारा वहाँ है।
+Yours is over there. - Different Meaning	Deins ist dort drüben.	तुम्हारा उस ओर है।
+Yours is over there. - Another Different Meaning	Deins ist weiter da drüben.	तुम्हारा वहाँ ही है।

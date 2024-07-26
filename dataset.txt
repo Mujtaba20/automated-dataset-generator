@@ -1,27 +1,4 @@
 
-Your ticket, please.	Ihre Fahrkarte, bitte.	अपना टिकट दें।
-Your tie is crooked.	Deine Krawatte sitzt schief.	आपकी टाई गलत है।
-Your tie looks good.	Deine Krawatte sieht gut aus.	आपकी टाई अच्छी लगती है।
-Your zipper is open.	Dein Reißverschluss ist offen.	आपका जिपर खुला है।
-Yours is over there.	Deins ist dort.	तुम्हारा है।
-Yours is over there.	Deins ist da drüben.	तुम्हारा वहाँ पर है।
-Yours is over there.	Deins ist dort drüben.	तुम्हारा वहाँ पर है।
-Yours is over there.	Deine ist da drüben.	तुम्हारा वहाँ पर है।
-Yours is over there.	Deine ist dort drüben.	तुम्हारा वहाँ पर है।
-Yours is over there.	Deiner ist da drüben.	तुम्हारा वहाँ पर है।
-Yours is over there.	Deiner ist dort drüben.	तुम्हारा वहाँ पर है।
-Yours is over there.	Ihrs ist da drüben.	तुम वहाँ पर हो।
-Yours is over there.	Ihrs ist dort drüben.	तुम वहाँ पर हो।
-Yours is over there.	Ihre ist da drüben.	तुम्हारा वहाँ पर है।
-Yours is over there.	Ihre ist dort drüben.	तुम्हारा वहाँ पर है।
-Yours is over there.	Ihrer ist da drüben.	तुम्हारा वहाँ पर है।
-Yours is over there.	Ihrer ist dort drüben.	तुम्हारा वहाँ पर है।
-Yours is over there.	Eures ist da drüben.	तुम्हारा वहाँ पर है।
-Yours is over there.	Eures ist dort drüben.	तुम्हारा वहाँ पर है।
-Yours is over there.	Eure ist da drüben.	तुम्हारा वहाँ पर है।
-Yours is over there.	Eure ist dort drüben.	तुम्हारा वहाँ पर है।
-Yours is over there.	Eurer ist da drüben.	तुम वहाँ पर हो।
-Yours is over there.	Eurer ist dort drüben.	तुम वहाँ पर हो।
 Zebras have stripes.	Zebras haben Streifen.	ज़ेबरा में धारियां हैं।
 Zucchinis are green.	Zucchini sind grün.	तोरी हरी हैं।
 Hi, Tom said shyly.	„Hallo!“ sagte Tom schüchtern.	"""हैलो!"" टॉम ने शर्मीली कहा।"
