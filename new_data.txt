@@ -28034,3 +28034,12 @@ Thanks for the food.	Danke für das Essen.	भोजन के लिए धन�
 Thanks for the help.	Danke für die Hilfe.	मदद के लिए धन्यवाद।
 Thanks for the hint.	Danke für den Hinweis.	संकेत के लिए धन्यवाद।
 Thanks for the hint. (Different meaning)	Danke für die Andeutung.	संकेत के लिए धन्यवाद। (विभिन्न अर्थ)
+Thanks for the info.	Danke für die Info.	सूचना के लिए धन्यवाद।
+Thanks for the lift.	Danke für das Mitnehmen.	उठाने के लिए धन्यवाद।
+Thanks for the meal.	Danke für das Essen.	भोजन के लिए धन्यवाद।
+Thanks for the milk.	Danke für die Milch.	दूध के लिए धन्यवाद।
+Thanks for the ride.	Danke für die Fahrt.	सवारी के लिए धन्यवाद।
+Thanks for the soup.	Danke für die Suppe.	सूप के लिए धन्यवाद।
+That TV is too loud.	Der Fernseher ist zu laut.	वह टीवी बहुत ऊंची ध्वनि पर है।
+That ain't my style.	Das ist nicht mein Stil.	वह मेरी पसंद नहीं है।
+That belongs to Tom.	Das gehört Tom.	वह टॉम के पास है।
