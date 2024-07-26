@@ -1,14 +1,4 @@
 
-Did you hear something?	Hast du etwas gehört?	क्या आपने कुछ सुना?
-Did you hear the click?	Haben Sie das Klicken gehört?	क्या आपने क्लिक सुना?
-Did you hear the noise?	Hast du das Geräusch gehört?	क्या आपने आवाज सुनी?
-Did you just insult me?	Hast du mich gerade beleidigt?	क्या आपने सिर्फ मेरा अपमान किया?
-Did you know my father?	Kanntest du meinen Vater?	क्या आप मेरे पिता को जानते थे?
-Did you know my father?	Kanntet ihr meinen Vater?	क्या आप मेरे पिता को जानते थे?
-Did you know my father?	Kannten Sie meinen Vater?	क्या आप मेरे पिता को जानते थे?
-Did you know my father?	Hast du meinen Vater gekannt?	क्या आप मेरे पिता को जानते थे?
-Did you know my father?	Haben Sie meinen Vater gekannt?	क्या आप मेरे पिता को जानते थे?
-Did you know my father?	Habt ihr meinen Vater gekannt?	क्या आप मेरे पिता को जानते थे?
 Did you like the movie?	Hat Ihnen der Film gefallen?	आपको फिल्म पसंद आई?
 Did you like the movie?	Gefiel dir der Film?	आपको फिल्म पसंद आई?
 Did you like this book?	Hat dir das Buch hier gefallen?	क्या आपको यहाँ किताब पसंद थी?
