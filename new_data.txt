@@ -29268,3 +29268,12 @@ Tom seems impatient.	Tom scheint ungeduldig zu sein.	टॉम को बेस�
 Tom seems insincere.	Tom scheint unaufrichtig zu sein.	टॉम बेईमान लग रहा है।
 Tom seems very busy.	Tom scheint sehr beschäftigt zu sein.	टॉम बहुत व्यस्त लग रहा है।
 Tom seems very calm.	Tom scheint sehr ruhig zu sein.	टॉम बहुत शांत लग रहा है।
+Tom seems very nice.	Tom scheint sehr nett zu sein.	टॉम बहुत अच्छा लगता है।
+Tom seldom gets mad.	Tom wird selten wütend.	टॉम गुस्सा बहुत कम होता है।
+Tom sent money home.	Tom schickte Geld nach Hause.	टॉम ने घर में पैसे भेजे।
+Tom shaved his head.	Tom rasierte seinen Kopf.	टॉम ने अपने सिर की बाल उगल दी।
+Tom should be angry.	Tom sollte wütend sein.	टॉम को गुस्सा होना चाहिए।
+Tom should thank me.	Tom sollte mir danken.	टॉम को मुझसे धन्यवाद करना चाहिए।
+Tom should've known.	Tom hätte es wissen sollen.	टॉम को पता होना चाहिए था।
+Tom shouted at Mary.	Tom schrie Mary an.	टॉम ने मेरी पे चिल्लाया।
+Tom showed it to me.	Tom hat es mir gezeigt.	टॉम ने मुझे दिखाया।
