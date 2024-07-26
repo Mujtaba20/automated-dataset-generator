@@ -1,14 +1,4 @@
 
-I want to be a lawyer.	Ich will Rechtsanwalt werden.	मैं एक वकील बनना चाहता हूं।
-I want to be a lawyer.	Ich will Rechtsanwältin werden.	मैं एक वकील बनना चाहता हूं।
-I want to be an actor.	Ich will Schauspieler werden.	मैं एक अभिनेता बनना चाहता हूं।
-I want to be like Tom.	Ich möchte wie Tom sein.	मैं टॉम की तरह बनना चाहता हूं।
-I want to be with Tom.	Ich möchte mit Tom zusammensein.	मैं टॉम के साथ रहना चाहता हूं।
-I want to be with you.	Ich möchte mit dir zusammensein.	मैं तुम्हारे साथ रहना चाहता हूं।
-I want to believe you.	Ich möchte dir gerne glauben.	मैं आप पर विश्वास करना चाहूंगा।
-I want to believe you.	Ich möchte Ihnen gerne glauben.	मैं आप पर विश्वास करना चाहूंगा।
-I want to believe you.	Ich möchte euch gerne glauben.	मैं आप पर विश्वास करना चाहूंगा।
-I want to buy a house.	Ich will ein Haus kaufen.	मैं एक घर खरीदना चाहता हूं।
 I want to change that.	Ich möchte das ändern.	मैं वह बदलना चाहता हूँ।
 I want to do it again.	Ich möchte es noch einmal machen.	मैं इसे फिर से करना चाहता हूं।
 I want to do it right.	Ich will es richtig machen.	मैं इसे सही करना चाहता हूं।

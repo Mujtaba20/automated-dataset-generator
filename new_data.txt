@@ -37933,3 +37933,10 @@ I want my money today.	Ich möchte mein Geld heute.	मुझे आज मे�
 I want something else.	Ich möchte etwas anderes.	मुझे कुछ और चाहिए।
 I want something more.	Ich möchte etwas mehr.	मुझे और कुछ चाहिए।
 I want that to happen.	Ich möchte, dass das passiert.	मुझे चाहिए कि वह हो।
+I want to be a lawyer.	Ich möchte Anwalt werden.	मैं वकील बनना चाहता हूँ।
+I want to be an actor.	Ich möchte Schauspieler werden.	मैं एक अभिनेता बनना चाहता हूँ।
+I want to be like Tom.	Ich möchte wie Tom sein.	मैं टॉम जैसा बनना चाहता हूँ।
+I want to be with Tom.	Ich möchte bei Tom sein.	मैं टॉम के साथ रहना चाहता हूँ।
+I want to be with you.	Ich möchte bei dir sein.	मैं तुम्हारे साथ रहना चाहता हूँ।
+I want to believe you.	Ich möchte dir glauben.	मैं तुम्हें विश्वास करना चाहता हूँ।
+I want to buy a house.	Ich möchte ein Haus kaufen.	मैं एक घर खरीदना चाहता हूँ।
