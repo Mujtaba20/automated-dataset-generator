@@ -29686,3 +29686,13 @@ We're all right now.	Wir sind jetzt in Ordnung.	हम अब ठीक है�
 We're always hungry.	Wir sind immer hungrig.	हमेशा पेट से भूखे रहते हैं।
 We're among friends.	Wir sind unter Freunden.	हम मित्रों के बीच हैं।
 We're at home today.	Wir sind heute zu Hause.	हम आज घर पे हैं।
+We're being watched.	Wir werden beobachtet.	हमें नजर लगी है।
+We're boiling water.	Wir kochen Wasser.	हम पानी उबाल रहे हैं।
+We're coming inside.	Wir kommen rein.	हम अंदर आ रहे हैं।
+We're desperate now.	Wir sind jetzt verzweifelt.	अब हम निराश हैं।
+We're doing nothing.	Wir tun nichts.	हम कुछ नहीं कर रहे हैं।
+We're eating apples.	Wir essen Äpfel.	हम सेब खा रहे हैं।
+We're finally alone.	Wir sind endlich allein.	अब हम अकेले हैं।
+We're finished here.	Wir sind hier fertig.	यहाँ हम समाप्त हो रहे हैं।
+We're flabbergasted.	Wir sind verblüfft.	हम चौंक गए हैं।
+We're getting there.	Wir kommen dahin.	हम वहाँ पहुंच रहे हैं।
