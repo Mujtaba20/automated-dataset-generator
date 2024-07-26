@@ -41356,3 +41356,9 @@ What's the text about?	Worum geht es im Text?	टेक्स्ट के ब�
 What's this made from?	Woraus ist das gemacht?	यह किससे बना है?
 What's under your bed?	Was verbirgt sich unter deinem Bett?	तुम्हारी पलंग के नीचे क्या छुपा है?
 What's with everybody?	Was ist mit jedem los?	सभी के साथ क्या है?
+What's wrong with Tom?	Was ist los mit Tom?	टॉम के साथ क्या ग़लत है?
+What's wrong with you?	Was ist los mit dir?	तुम्हारे साथ क्या ग़लत है?
+What's your diagnosis?	Was ist Ihre Diagnose?	आपका निदान क्या है?
+What's your father do?	Was macht dein Vater?	तुम्हारे पिताजी क्या करते हैं?
+What's your full name?	Wie ist dein vollständiger Name?	तुम्हारा पूरा नाम क्या है?
+What's your last name?	Was ist dein Nachname?	तुम्हारा अंतिम नाम क्या है?

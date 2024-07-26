@@ -1,14 +1,4 @@
 
-What's wrong with Tom?	Was hat Tom denn?	टॉम के पास क्या है?
-What's wrong with you?	Was ist los mit dir?	तुम्हारे साथ क्या गलत है?
-What's wrong with you?	Was hast du?	तुम्हारे पास क्या है?
-What's wrong with you?	Was hast du denn?	आप के साथ क्या गलत हुआ है?
-What's your diagnosis?	Was ist Ihre Diagnose?	आपका निदान क्या है?
-What's your father do?	Was macht dein Vater?	आपके पिता क्या कर रहें है?
-What's your father do?	Was macht Ihr Vater?	आपके पिता क्या करते है?
-What's your full name?	Wie ist dein vollständiger Name?	आपका पूरा नाम क्या है?
-What's your last name?	Wie heißt du mit Nachnamen?	आपका अंतिम नाम क्या है?
-What's your last name?	Wie lautet dein Nachname?	आपका अंतिम नाम क्या है?
 What's your shoe size?	Welche Schuhgröße hast du?	आपका शूज आकार कितना है?
 What's your shoe size?	Welche Schuhgröße habt ihr?	आपके पास क्या जूता आकार है?
 Whatever you say, Tom.	Was immer du sagst, Tom.	आप जो भी कहते हैं, टॉम।
