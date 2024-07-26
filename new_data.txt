@@ -24319,3 +24319,11 @@ We made a good buy.	Wir haben einen guten Kauf getätigt.	हमने एक �
 We made it on time.	Wir haben es rechtzeitig geschafft.	हम वक्त पर पहुंच गए।
 We may be too late.	Wir sind vielleicht zu spät dran.	हम शायद बहुत देर सहीं।
 We missed the exit.	Wir haben die Ausfahrt verpasst.	हमने बाहरी रास्ता छोड़ दिया।
+We must be careful.	Wir müssen vorsichtig sein.	हमें सावधान रहना चाहिए।
+We must follow Tom.	Wir müssen Tom folgen.	हमें टॉम का पालन करना चाहिए।
+We must talk first.	Wir müssen zuerst reden.	हमें सबसे पहले बातचीत करनी चाहिए।
+We mustn't be late.	Wir dürfen nicht zu spät kommen.	हमें देर से नहीं आना चाहिए।
+We mustn't do that.	Das dürfen wir nicht tun.	हमें ऐसा नहीं करना चाहिए।
+We need each other.	Wir brauchen einander.	हमें एक-दूसरे की आवश्यकता है।
+We need extra help.	Wir brauchen zusätzliche Hilfe.	हमें अतिरिक्त सहायता की आवश्यकता है।
+We need more space.	Wir brauchen mehr Platz.	हमें और जगह की आवश्यकता है।
