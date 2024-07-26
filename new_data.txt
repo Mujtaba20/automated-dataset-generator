@@ -23986,3 +23986,13 @@ Tom sent Mary home.	Tom schickte Maria nach Hause.	टॉम ने मेरी
 Tom sent me a note.	Tom schickte mir eine Notiz.	टॉम ने मुझे एक नोट भेजा।
 Tom shook his head.	Tom schüttelte den Kopf.	टॉम ने सिर हिलाया।
 Tom should be fine.	Tom sollte in Ordnung sein.	टॉम ठीक होना चाहिए।
+Tom should be here.	Tom sollte hier sein.	टॉम यहाँ होना चाहिए।
+Tom showed up late.	Tom kam spät an.	टॉम देर से आया।
+Tom smiled amiably.	Tom lächelte freundlich.	टॉम खुशमिज़ाजी से मुस्कराया।
+Tom smiled at Mary.	Tom lächelte Mary an.	टॉम मेरी को मुस्कायाय।
+Tom sold his house.	Tom verkaufte sein Haus.	टॉम अपना घर बेचा।
+Tom sounds nervous.	Tom klingt nervös.	टॉम घबराया हुआ सुनाई देता है।
+Tom sounds worried.	Tom klingt besorgt.	टॉम परेशान सुनाई देता है।
+Tom speaks quickly.	Tom spricht schnell.	टॉम तेजी से बोलता है।
+Tom staggered home.	Tom taumelte nach Hause.	टॉम घर की ओर लुढ़कते हुए चला गया।
+Tom started crying.	Tom fing an zu weinen.	टॉम रोने लगा।
