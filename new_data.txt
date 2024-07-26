@@ -38840,3 +38840,11 @@ My French is pathetic.	Mein Französisch ist armselig.	मेरा फ्रे
 My French is terrible.	Mein Französisch ist schrecklich.	मेरा फ्रेंच भयानक है।
 My back is killing me.	Mein Rücken bringt mich um.	मेरी पीठ मुझे मार रही है।
 My baggage is missing.	Mein Gepäck ist verschwunden.	मेरा सामान गायब हो गया है।
+My bicycle has a flat.	Mein Fahrrad hat einen Platten.	मेरी साइकिल का टायर फ्लैट हो गया है।
+My bicycle was stolen.	Mein Fahrrad wurde gestohlen.	मेरी साइकिल चुराई गई थी।
+My bills have gone up.	Meine Rechnungen sind gestiegen.	मेरे बिल बढ़ गए हैं।
+My book is very heavy.	Mein Buch ist sehr schwer.	मेरी किताब बहुत भारी है।
+My brother is healthy.	Mein Bruder ist gesund.	मेरा भाई स्वस्थ है।
+My brother swims well.	Mein Bruder schwimmt gut.	मेरा भाई अच्छे से तैरता है।
+My car is not running.	Mein Auto funktioniert nicht.	मेरी कार नहीं चल रही है।
+My car is right there.	Mein Auto ist genau dort.	मेरी कार सही वहाँ है।

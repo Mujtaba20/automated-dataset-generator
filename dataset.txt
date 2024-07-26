@@ -1,14 +1,4 @@
 
-My bicycle has a flat.	Mein Fahrrad hat einen Platten.	मेरी बाइक में एक स्लैब है।
-My bicycle was stolen.	Mein Fahrrad wurde gestohlen.	मेरी बाइक चोरी हो गई।
-My bicycle was stolen.	Mir wurde mein Fahrrad gestohlen.	मेरी बाइक मुझे चोरी हो गई थी।
-My bills have gone up.	Meine Rechnungen sind gestiegen.	मेरे बिल बढ़ गए हैं।
-My book is very heavy.	Mein Buch ist sehr schwer.	मेरी किताब बहुत मुश्किल है।
-My brother is healthy.	Mein Bruder ist gesund.	मेरा भाई स्वस्थ है।
-My brother swims well.	Mein Bruder schwimmt gut.	मेरा भाई अच्छी तरह से तैरता है।
-My car is not running.	Mein Auto fährt nicht.	मेरी कार ड्राइव नहीं करती है।
-My car is not running.	Mein Wagen läuft nicht.	मेरी कार नहीं चल रही है।
-My car is right there.	Mein Auto steht gleich dort drüben.	मेरी कार वहीं पर है।
 My car wouldn't start.	Mein Auto wollte nicht anspringen.	मेरी कार शुरू नहीं करना चाहती थी।
 My car wouldn't start.	Mein Auto sprang nicht an.	मेरी कार शुरू नहीं हुई।
 My cat died yesterday.	Meine Katze ist gestern gestorben.	कल मेरी बिल्ली की मृत्यु हो गई।
