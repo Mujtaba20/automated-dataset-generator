@@ -1,14 +1,4 @@
 
-Peaches taste sweet.	Pfirsiche schmecken süß.	आड़ू का स्वाद मीठा।
-Peanuts aren't nuts.	Erdnüsse sind keine Nüsse.	मूंगफली पागल नहीं हैं।
-People can be cruel.	Menschen können grausam sein.	लोग क्रूर हो सकते हैं।
-People like to talk.	Die Leute reden gern.	लोग बात करना पसंद करते हैं।
-People love freedom.	Das Volk liebt die Freiheit.	लोग स्वतंत्रता से प्यार करते हैं।
-People love freedom.	Die Menschen lieben die Freiheit.	लोग स्वतंत्रता से प्यार करते हैं।
-Perhaps I was wrong.	Vielleicht habe ich mich geirrt.	संभवत: मुझसे गलती हुई।
-Perhaps I was wrong.	Möglicherweise habe ich mich geirrt.	संभवत: मुझसे गलती हुई।
-Perhaps that's true.	Vielleicht stimmt das.	शायद यह सच है।
-Pizza is on the way.	Die Pizza ist unterwegs.	पिज्जा रास्ते में है।
 Play me some Chopin.	Spiel mir Chopin.	मुझे चोपिन खेलो।
 Play me some Chopin.	Spiel mir ein bisschen Chopin vor.	मुझे थोड़ा चोपिन खेलो।
 Please air the room.	Bitte lüfte das Zimmer.	कृपया कमरे को हवादार करें।

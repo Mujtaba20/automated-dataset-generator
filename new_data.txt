@@ -27758,3 +27758,13 @@ Our team won 3 to 1.	Unser Team hat 3 zu 1 gewonnen.	हमारी टीम �
 Our time is limited.	Unsere Zeit ist begrenzt.	हमारा समय सीमित है।
 Our work never ends.	Unsere Arbeit endet nie.	हमारा काम कभी खत्म नहीं होता।
 Paper burns quickly.	Papier brennt schnell.	कागज तेजी से जलता है।
+Peaches taste sweet.	Pfirsiche schmecken süß.	आड़ू मीठे होते हैं।
+Peanuts aren't nuts.	Erdnüsse sind keine Nüsse.	मूंगफली मूंगफली नहीं है।
+People can be cruel.	Menschen können grausam sein.	लोग क्रूर हो सकते हैं।
+People like to talk.	Menschen reden gerne.	लोग बात करने को पसंद करते हैं।
+People love freedom.	Menschen lieben Freiheit.	लोग स्वतंत्रता से प्यार करते हैं।
+People love freedom. (Different meaning)	Die Leute lieben die Freiheit.	लोग स्वतंत्रता पसंद करते हैं।
+Perhaps I was wrong.	Vielleicht habe ich mich geirrt.	शायद मैं गलत था।
+Perhaps I was wrong. (Different meaning)	Vielleicht war ich falsch verstanden.	शायद मैं गलत समझा गया था।
+Perhaps that's true.	Vielleicht ist das wahr.	शायद यह सच है।
+Pizza is on the way.	Pizza ist auf dem Weg.	पिज्जा रास्ते में है।
