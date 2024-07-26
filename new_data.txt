@@ -27590,3 +27590,12 @@ May I interrupt you?	Darf ich dich unterbrechen?	क्या मैं आप�
 May I say something?	Darf ich etwas sagen?	क्या मैं कुछ कह सकता हूँ?
 May I use the phone?	Darf ich das Telefon benutzen?	क्या मैं फ़ोन उपयोग कर सकता हूँ?
 Maybe I fell asleep.	Vielleicht bin ich eingeschlafen.	शायद मैं सो गया था।
+Maybe Tom can do it.	Vielleicht kann Tom es machen.	शायद टॉम कर सकता है।
+Maybe Tom is guilty.	Vielleicht ist Tom schuldig.	शायद टॉम दोषी है।
+Maybe Tom is stupid.	Vielleicht ist Tom dumm.	शायद टॉम बेवकूफ है।
+Maybe Tom likes you.	Vielleicht mag Tom dich.	शायद टॉम आपको पसंद करता है।
+Maybe Tom was right.	Vielleicht hatte Tom recht.	शायद टॉम सही था।
+Maybe Tom was wrong.	Vielleicht lag Tom falsch.	शायद टॉम ग़लत था।
+Maybe we're related.	Vielleicht sind wir verwandt.	शायद हम संबंधित हैं।
+Mercury is a planet.	Merkur ist ein Planet.	बुध ग्रह है।
+Merlin was a wizard.	Merlin war ein Zauberer.	मरलिन एक जादूगर था।
