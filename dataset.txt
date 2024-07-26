@@ -1,14 +1,4 @@
 
-No, I didn't write it.	Nein, ich habe es nicht geschrieben.	नहीं, मैंने इसे नहीं लिखा।
-Nobody appreciates me.	Niemand weiß mich zu schätzen.	कोई भी मेरी सराहना नहीं करता है।
-Nobody can control us.	Niemand kann uns kontrollieren.	कोई भी हमें नियंत्रित नहीं कर सकता।
-Nobody cares about me.	Ich bin allen egal.	मुझे सभी की परवाह नहीं है।
-Nobody does it better.	Niemand macht es besser.	कोई भी इसे बेहतर तरीके से नहीं करता है।
-Nobody else showed up.	Sonst war niemand da.	अन्यथा कोई नहीं था।
-Nobody else showed up.	Sonst kam keiner.	अन्यथा कोई नहीं आया।
-Nobody else was there.	Sonst war niemand da.	अन्यथा कोई नहीं था।
-Nobody encouraged her.	Keiner ermutigte sie.	किसी ने उन्हें प्रोत्साहित नहीं किया।
-Nobody encouraged her.	Niemand hat sie ermutigt.	किसी ने इसे प्रोत्साहित नहीं किया।
 Nobody encouraged him.	Niemand machte ihm Mut.	किसी ने उसे प्रोत्साहित नहीं किया।
 Nobody encouraged him.	Niemand ermutigte ihn.	किसी ने उसे प्रोत्साहित नहीं किया।
 Nobody here does that.	Das macht hier niemand.	यहाँ कोई नहीं करता है।

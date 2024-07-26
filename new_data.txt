@@ -38932,3 +38932,11 @@ No one was in the car.	Niemand war im Auto.	कार में कोई नह
 No one would say that.	Niemand würde das sagen.	कोई नहीं कहेगा।
 No one's denying that.	Niemand leugnet das.	कोई इनकार नहीं कर रहा है।
 No one's stopping you.	Niemand hält dich auf.	कोई तुम्हें रोकने वाला नहीं है।
+No, I didn't write it.	Nein, ich habe es nicht geschrieben.	नहीं, मैंने यह नहीं लिखा था।
+Nobody appreciates me.	Niemand schätzt mich.	कोई मुझे मूल्यांकन नहीं करता।
+Nobody can control us.	Niemand kann uns kontrollieren.	कोई हमें नहीं नियंत्रित कर सकता।
+Nobody cares about me.	Niemand kümmert sich um mich.	कोई मेरे बारे में देखभाल नहीं करता।
+Nobody does it better.	Niemand macht es besser.	कोई बेहतर नहीं करता.
+Nobody else showed up.	Niemand sonst ist aufgetaucht.	और कोई नहीं आया।
+Nobody else was there.	Niemand sonst war da.	और कोई वहाँ नहीं था।
+Nobody encouraged her.	Niemand hat sie ermutigt.	कोई उसे प्रोत्साहित नहीं किया।
