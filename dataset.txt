@@ -1,14 +1,4 @@
 
-Are you in a good mood?	Bist du gut gelaunt?	क्या आप अच्छे मूड में हैं?
-Are you in a good mood?	Bist du guter Laune?	क्या आप अच्छे मूड में हैं
-Are you in a good mood?	Sind Sie guter Laune?	क्या आप अच्छे मूड में हैं?
-Are you in a good mood?	Seid ihr guter Laune?	क्या आप अच्छे मूड में हैं?
-Are you in a good mood?	Hast du gute Laune?	क्या आप अच्छे मूड में हैं?
-Are you in the library?	Bist du in der Bibliothek?	क्या आप लाइब्रेरी में हैं?
-Are you in the library?	Seid ihr in der Bücherei?	क्या आप लाइब्रेरी में हैं?
-Are you laughing at me?	Lachen Sie über mich?	क्या तुम इस समय हंस रहे हो?
-Are you laughing at me?	Lachst du mich aus?	क्या तुम मेरे बारे में हंस रहे हो?
-Are you listening, Tom?	Hörst du zu, Tom?	क्या आप टॉम सुनते हैं?
 Are you looking for me?	Suchst du nach mir?	क्या तुम मुझे खोज रहे हो?
 Are you looking for me?	Suchst du mich?	क्या तुम मुझे खोज रहे हो?
 Are you looking for me?	Suchen Sie mich?	क्या तुम मुझे खोज रहे हो?
