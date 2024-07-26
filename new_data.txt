@@ -36416,3 +36416,8 @@ Do you still love Tom?	Liebst du Tom noch?	क्या तुम अब भी 
 Do you still love him?	Liebst du ihn noch?	क्या तुम अब भी उसे पसंद करते हो?
 Do you think I'm ugly?	Denkst du, ich bin hässlich?	क्या तुम समझते हो कि मैं बुरी दिखती हूँ?
 Do you think I'm ugly? (alternative meaning)	Glaubst du, ich bin unattraktiv?	क्या आपको लगता है कि मैं अप्रिय दिखता हूँ?
+Do you understand Tom?	Verstehst du Tom?	क्या तुम टॉम को समझते हो?
+Do you understand her?	Verstehst du sie?	क्या तुम उसे समझते हो?
+Do you understand now?	Verstehst du jetzt?	क्या तुम अब समझ रहे हो?
+Do you understand why?	Verstehst du warum?	क्या तुम समझते हो क्यों?
+Do you use aftershave?	Benutzt du Aftershave?	क्या आप एफ्टर शेव का इस्तेमाल करते हैं?

@@ -1,14 +1,4 @@
 
-Do you understand Tom?	Verstehst du Tom?	क्या आप टॉम को समझते हैं?
-Do you understand her?	Verstehst du sie?	क्या आप उसे समझते हैं?
-Do you understand her?	Versteht ihr sie?	क्या आप उसे समझते हैं?
-Do you understand her?	Verstehen Sie sie?	क्या आप उन्हें समझते हैं?
-Do you understand now?	Verstehen Sie das jetzt?	क्या आप समझते हैं कि अब?
-Do you understand why?	Verstehst du warum?	क्या आप समझते हैं कि क्यों?
-Do you use aftershave?	Benutzt du Rasierwasser?	क्या आप रेजर का उपयोग करते हैं?
-Do you use aftershave?	Nimmst du Aftershave?	क्या आप आफ्टरशेव लेते हैं?
-Do you use aftershave?	Nehmt ihr Aftershave?	क्या आप आफ्टरशेव लेते हैं?
-Do you use aftershave?	Benutzen Sie Aftershave?	क्या आप आफ्टरशेव का उपयोग करते हैं?
 Do you want Tom there?	Willst du Tom dort haben?	क्या आप टॉम को वहां रखना चाहते हैं?
 Do you want a massage?	Willst du eine Massage?	क्या आपको मैसेज चाहिए?
 Do you want a massage?	Wollen Sie eine Massage?	क्या आपको मैसेज चाहिए?
