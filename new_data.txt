@@ -26306,3 +26306,12 @@ I have a disability.	Ich habe eine Behinderung.	मेरे पास एक �
 I have a family now.	Ich habe jetzt eine Familie.	मेरे पास अब परिवार है।
 I have a girlfriend.	Ich habe eine Freundin.	मेरी कोई गर्लफ्रेंड है।
 I have a high fever.	Ich habe hohes Fieber.	मुझे उच्च बुखार है।
+I have a lawyer now.	Ich habe jetzt einen Anwalt.	मेरे पास अब एक वकील है।
+I have a long beard.	Ich habe einen langen Bart.	मेरे पास एक लंबी दाढ़ी है।
+I have a runny nose.	Ich habe eine laufende Nase.	मुझे बहती नाक है।
+I have a spare room.	Ich habe ein freies Zimmer.	मेरे पास एक खाली कमरा है।
+I have a suggestion.	Ich habe einen Vorschlag.	मेरे पास एक सुझाव है।
+I have another idea.	Ich habe eine andere Idee.	मेरे पास एक और विचार है।
+I have appendicitis.	Ich habe eine Blinddarmentzündung.	मुझे प्राणांतर दर्द है।
+I have bad eyesight.	Ich habe schlechtes Sehvermögen.	मेरी आंखों की दृष्टि खराब है।
+I have been to Rome.	Ich war in Rom.	मैंने रोम घूमा है।
