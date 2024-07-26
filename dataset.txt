@@ -1,14 +1,4 @@
 
-Hey, what happened?	He, was ist passiert?	अरे क्या हुआ?
-Hey, where are you?	Hey, wo bist du?	अरे तुम कहाँ हो?
-Hi, how's it going?	Hallo, wie geht's?	नमस्ते, आप कैसे हैं?
-Hi, my name is Tom.	Hallo! Ich heiße Tom.	नमस्ते!मेरा नाम टॉम है।
-Hi, my name is Tom.	Hi, ich bin Tom.	हाय, मैं टॉम हूं।
-Hide in the closet.	Versteck dich im Schrank!	कोठरी में छिपा!
-Hindsight is 20/20.	Hinterher ist man immer klüger.	बाद में आप हमेशा स्मार्ट होते हैं।
-His doom is sealed.	Sein Schicksal ist besiegelt.	उसकी किस्मत को सील कर दिया जाता है।
-His love grew cold.	Seine Liebe ist erkaltet.	उसका प्यार अच्छा है।
-His name eludes me.	Ich komme einfach nicht auf seinen Namen.	मुझे सिर्फ उसका नाम नहीं मिल सकता।
 His name isn't Tom.	Sein Name ist nicht Tom.	उसका नाम टॉम नहीं है।
 His pace quickened.	Er beschleunigte seine Schritte.	उसने अपने कदमों को तेज किया।
 His socks are gray.	Seine Socken sind grau.	उसके मोजे ग्रे हैं।

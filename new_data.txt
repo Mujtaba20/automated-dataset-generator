@@ -20955,3 +20955,13 @@ Here, look at this.	Schau mal hier.	यहाँ, इसे देखो।
 Hey Tom, what's up?	Hey Tom, was gibt's?	अरे टॉम, क्या चल रहा है?
 Hey look, it's Tom.	Hey, schau mal, das ist Tom.	अरे देखो, वह टॉम है।
 Hey, don't do that!	Hey, das nicht tun!	अरे, वह मत करो!
+Hey, what happened?	Hey, was ist passiert?	हे, क्या हुआ?
+Hey, where are you?	Hey, wo bist du?	हे, तुम कहाँ हो?
+Hi, how's it going?	Hallo, wie läuft es?	हाय, सब कुछ कैसे चल रहा है?
+Hi, my name is Tom.	Hallo, ich heiße Tom.	नमस्ते, मेरा नाम टॉम है।
+Hi, my name is Tom. (Different Meaning)	Hi, mein Name ist Tom.	नमस्ते, मेरा नाम टॉम है।
+Hide in the closet.	Verstecke dich im Schrank.	अलमारी में छुप जाओ।
+Hindsight is 20/20.	Im Rückblick ist alles klar.	पीछे की दृष्टि से सब स्पष्ट होता है।
+His doom is sealed.	Sein Schicksal ist besiegelt.	उसका अंत तय हो गया है।
+His love grew cold.	Seine Liebe erkaltete.	उसका प्यार ठंडा हो गया था।
+His name eludes me.	Sein Name entzieht sich mir.	उसका नाम मेरे लिए एक रहस्य है।
