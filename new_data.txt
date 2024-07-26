@@ -35524,3 +35524,12 @@ Where is the problem?	Wo liegt das Problem?	समस्या कहाँ ह�
 Where is the station?	Wo ist der Bahnhof?	स्टेशन कहाँ है?
 Where is your father?	Wo ist dein Vater?	तुम्हारा पिता कहाँ है?
 Where is your school?	Wo befindet sich deine Schule?	तुम्हारी स्कूल कहाँ है?
+Where should we hide?	Wo sollten wir uns verstecken?	हमें कहाँ छुपना चाहिए?
+Where should we meet?	Wo sollen wir uns treffen?	हमें कहाँ मिलना चाहिए?
+Where were they born?	Wo wurden sie geboren?	उन्हें कहाँ पैदा हुआ था?
+Where were you today?	Wo warst du heute?	तुम आज कहाँ थे?
+Where's Mary's purse?	Wo ist Marys Geldbeutel?	मेरी की बटुवा कहाँ है?
+Where's Tom sleeping?	Wo schläft Tom?	टॉम कहाँ सो रहा है?
+Where's Tom's family?	Wo ist Toms Familie?	टॉम का परिवार कहाँ है?
+Where's Tom's father?	Wo ist Toms Vater?	टॉम के पिता कहाँ हैं?
+Where's Tom's mother?	Wo ist Toms Mutter?	टॉम की माँ कहाँ है?

@@ -1,14 +1,4 @@
 
-Where should we hide?	Wo wollen wir uns verstecken?	हम कहाँ छिपाना चाहते हैं?
-Where should we meet?	Wo sollen wir uns treffen?	हमें कहां मिलना चाहिए?
-Where were they born?	Wo wurden sie geboren?	आपका जन्म कहां हुआ था?
-Where were you today?	Wo warst du heute?	आज तुम कहा थे?
-Where's Mary's purse?	Wo ist Marias Handtasche?	मैरी का हैंडबैग कहाँ है?
-Where's Tom sleeping?	Wo schläft Tom?	टॉम कहाँ सोता है?
-Where's Tom's family?	Wo ist Toms Familie?	टॉम का परिवार कहाँ है?
-Where's Tom's father?	Wo ist Toms Vater?	टॉम का पिता कहाँ है?
-Where's Tom's father?	Wo befindet sich Toms Vater?	टॉम के पिता कहाँ स्थित हैं?
-Where's Tom's mother?	Wo ist Toms Mutter?	टॉम की माँ कहाँ है?
 Where's Tom's office?	Wo ist Toms Büro?	टॉम का कार्यालय कहाँ है?
 Where's Tom's office?	Wo befindet sich Toms Büro?	टॉम का कार्यालय कहाँ स्थित है?
 Where's my breakfast?	Wo ist mein Frühstück?	मेरा नाश्ता कहाँ है?
