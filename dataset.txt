@@ -1,14 +1,4 @@
 
-Get out of my office.	Raus aus meinem Büro!	मेरे कार्यालय से बाहर निकलो!
-Get out of my office.	Verlasse mein Büro!	मेरा कार्यालय छोड़ दो!
-Get out of my office.	Verlassen Sie mein Büro!	मेरा कार्यालय छोड़ दो!
-Get out of the water.	Komm aus dem Wasser.	पानी से बाहर आओ।
-Get out of the water.	Kommen Sie aus dem Wasser.	पानी से बाहर आओ।
-Get ready for school.	Mach dich für die Schule fertig!	स्कूल के लिए तैयार हो जाओ!
-Get ready for school.	Macht euch für die Schule fertig!	स्कूल के लिए तैयार हो जाओ!
-Get some sleep, okay?	Gönn dir etwas Schlaf, ja?	अपने आप को कुछ नींद का इलाज करें, हाँ?
-Get some sleep, okay?	Gönnen Sie sich etwas Schlaf, ja?	अपने आप को कुछ नींद का इलाज करें, हाँ?
-Get that book for me.	Hol mir das Buch.	मुझे किताब ले आओ।
 Girls aren't welcome.	Mädchen sind nicht willkommen.	लड़कियों का स्वागत नहीं है।
 Girls aren't welcome.	Mädchen sind nicht erwünscht.	लड़कियां वांछनीय नहीं हैं।
 Girls don't like you.	Mädchen mögen dich nicht.	लड़कियां आपको पसंद नहीं करती हैं।

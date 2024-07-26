@@ -30873,3 +30873,8 @@ Get me the newspaper.	Hol mir die Zeitung.	मुझे अख़बार ल�
 Get back to the ship. different meaning	Zurück zum Schiff gehen.	जहाज के पास वापस जाओ।
 Get me the newspaper. different meaning	Bring mir die Zeitung.	मुझे अख़बार ले आओ।
 Get it ready at once. different meaning	Mach es sofort fertig.	तुरंत तैयार कर दो।
+Get out of my office.	Verlassen Sie mein Büro.	मेरे कार्यालय से बाहर निकलो।
+Get out of the water.	Aus dem Wasser kommen.	पानी से बाहर निकलो।
+Get ready for school.	Machen Sie sich bereit für die Schule.	स्कूल के लिए तैयार रहिए।
+Get some sleep, okay?	Schlaf ein bisschen, okay?	थोड़ी नींद लो, ठीक है?
+Get that book for me.	Hol mir dieses Buch.	मुझे वह पुस्तक देदो।
