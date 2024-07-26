@@ -39574,3 +39574,9 @@ Their hands were cold.	Ihre Hände waren kalt.	उनके हाथ ठंड�
 Their son grew bigger.	Ihr Sohn wurde größer.	उनका बेटा बड़ा हो गया।
 There are many others.	Es gibt viele andere.	बहुत से और हैं।
 There are no problems.	Es gibt keine Probleme.	कोई समस्या नहीं है।
+There are three of us.	Wir sind drei.	हम तीन हैं।
+There has to be a way.	Es muss einen Weg geben.	किसी न किसी तरह का रास्ता होना चाहिए।
+There is a better way.	Es gibt einen besseren Weg.	एक बेहतर रास्ता है।
+There is no milk left.	Es ist keine Milch mehr übrig.	दूध नहीं बचा है।
+There is no one there.	Da ist niemand.	वहाँ कोई नहीं है।
+There is no other way.	Es gibt keinen anderen Weg.	कोई और रास्ता नहीं है।

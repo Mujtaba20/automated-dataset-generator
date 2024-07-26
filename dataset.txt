@@ -1,14 +1,4 @@
 
-There are three of us.	Wir sind zu dritt.	हम तीन हैं।
-There has to be a way.	Da muss es doch einen Weg geben.	कोई ना कोई तो रास्ता होगा।
-There is a better way.	Es gibt einen besseren Weg.	एक बेहतर रास्ता है।
-There is a better way.	Es gibt eine bessere Möglichkeit.	एक बेहतर विकल्प है।
-There is no milk left.	Die Milch ist alle.	दूध सब है।
-There is no milk left.	Es ist keine Milch mehr da.	अब दूध नहीं है।
-There is no one there.	Da ist niemand.	वहां कोई नहीं है।
-There is no other way.	Es gibt keine andere Möglichkeit.	कोई अन्य संभावना नहीं है।
-There is no other way.	Es geht nicht anders.	और कोई रास्ता नहीं।
-There is no other way.	Anders geht es nicht.	और कोई रास्ता नहीं।
 There is no salt left.	Es ist kein Salz mehr da.	अब कोई नमक नहीं है।
 There is nothing here.	Hier ist nichts.	यहाँ कुछ भी नहीं है।
 There is someone here.	Hier ist jemand.	यहाँ कोई है।
