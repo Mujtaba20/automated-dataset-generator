@@ -1,14 +1,4 @@
 
-Tom doesn't get it.	Tom schnallt das nicht.	टॉम उस पट्टा नहीं करता है।
-Tom doesn't listen.	Tom hört nicht zu.	टॉम नहीं सुनता।
-Tom doesn't use it.	Tom verwendet es nicht.	टॉम इसका उपयोग नहीं करता है।
-Tom drank lemonade.	Tom trank Limonade.	टॉम ने नींबू पानी पिया।
-Tom drank too much.	Tom hat zu viel getrunken.	टॉम बहुत ज्यादा पिया।
-Tom drew a snowman.	Tom zeichnete einen Schneemann.	टॉम ने एक स्नोमैन को आकर्षित किया।
-Tom drives a truck.	Tom fährt einen Lkw.	टॉम एक ट्रक चलाता है।
-Tom drives a truck.	Tom fährt einen Pickup.	टॉम एक पिकअप चलाता है।
-Tom eats out a lot.	Tom isst viel auswärts.	टॉम बहुत दूर खाता है।
-Tom enjoys reading.	Tom liest gerne.	टॉम को पढ़ना पसंद है।
 Tom exhaled slowly.	Tom atmete langsam aus.	टॉम ने धीरे से सांस ली।
 Tom feels homesick.	Tom hat Heimweh.	टॉम होमसिक है।
 Tom fell backwards.	Tom fiel rückwärts.	टॉम पीछे की ओर गिर गया।

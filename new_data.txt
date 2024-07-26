@@ -23430,3 +23430,12 @@ Tom does love Mary.	Tom liebt Mary.	टॉम मेरी से प्या�
 Tom does that well.	Tom macht das gut.	टॉम वो अच्छा करता है।
 Tom does that, too.	Tom macht das auch.	टॉम वो भी करता है।
 Tom doesn't gamble.	Tom spielt nicht.	टॉम जुआ नहीं खेलता।
+Tom doesn't get it.	Tom versteht es nicht.	टॉम इसे समझ नहीं पाता।
+Tom doesn't listen.	Tom hört nicht zu.	टॉम सुनता नहीं।
+Tom doesn't use it.	Tom benutzt es nicht.	टॉम इसका उपयोग नहीं करता।
+Tom drank lemonade.	Tom trank Limonade.	टॉम ने नींबू पानी पिया।
+Tom drank too much.	Tom trank zu viel.	टॉम ने बहुत ज्यादा पी लिया।
+Tom drew a snowman.	Tom zeichnete einen Schneemann.	टॉम ने एक बर्फीला आदमी बनाया।
+Tom drives a truck.	Tom fährt einen Lastwagen.	टॉम ट्रक चलाता है।
+Tom eats out a lot.	Tom isst oft auswärts.	टॉम बहुत बाहर खाता है।
+Tom enjoys reading.	Tom genießt es zu lesen.	टॉम को पढ़ना अच्छा लगता है।
