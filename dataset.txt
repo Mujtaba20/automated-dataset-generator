@@ -1,15 +1,4 @@
 
-May I play the piano?	Darf ich auf dem Klavier spielen?	क्या मैं पियानो पर खेल सकता हूं?
-May I see that again?	Darf ich das nochmal sehen?	क्या मैं फिर से देख सकता हूँ?
-May I sit behind you?	Darf ich hinter dir sitzen?	क्या मैं तुम्हारे पीछे बैठ सकता हूँ?
-May I take your coat?	Darf ich Ihnen den Mantel abnehmen?	क्या मैं आपसे कोट ले सकता हूं?
-May I think about it?	Darf ich darüber nachdenken?	क्या मैं इसके बारे में सोच सकता हूं?
-May I use your phone?	Darf ich Ihr Telefon benutzen?	क्या मैं आपके टेलीफोन का उपयोग कर सकता हूं?
-Maybe Tom is in love.	Vielleicht ist Tom verliebt.	शायद टॉम प्यार में है।
-Maybe she won't come.	Vielleicht kommt sie nicht.	शायद वह नहीं आती है।
-Maybe they're hungry.	Vielleicht haben sie Hunger.	शायद आप भूखे हैं।
-Maybe we should stop.	Vielleicht sollten wir aufhören.	शायद हमें रुकना चाहिए।
-Maybe we should stop.	Vielleicht sollten wir anhalten.	शायद हमें रुकना चाहिए।
 Maybe we should talk.	Vielleicht sollten wir reden.	शायद हमें बात करनी चाहिए।
 Maybe you'll succeed.	Vielleicht werdet ihr es schaffen.	शायद आप इसे बनाएंगे।
 Maybe you'll succeed.	Vielleicht wirst du es schaffen.	शायद आप इसे बनाएंगे।

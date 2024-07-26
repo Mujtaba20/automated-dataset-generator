@@ -33068,3 +33068,13 @@ May I have this book?	Kann ich dieses Buch haben?	क्या मुझे य�
 May I have your name?	Kann ich deinen Namen haben?	क्या मुझे आपका नाम मिल सकता है?
 May I help you ma'am?	Kann ich Ihnen helfen, gnädige Frau?	मैडम, क्या मैं आपकी मदद कर सकता हूँ?
 May I hold your hand?	Darf ich deine Hand halten?	क्या मैं आपका हाथ पकड़ सकता हूँ?
+May I play the piano?	Darf ich Klavier spielen?	क्या मैं पियानो बजा सकता हूँ?
+May I see that again?	Kann ich das noch einmal sehen?	क्या मैं वह फिर से देख सकता हूँ?
+May I sit behind you?	Kann ich mich hinter dich setzen?	क्या मैं तुम्हारे पीछे बैठ सकता हूँ?
+May I take your coat?	Darf ich deinen Mantel nehmen?	क्या मैं आपका कोट ले सकता हूँ?
+May I think about it?	Darf ich darüber nachdenken?	क्या मैं इसके बारे में सोच सकता हूं?
+May I use your phone?	Darf ich dein Handy benutzen?	क्या मैं तुम्हारे फोन का उपयोग कर सकता हूँ?
+Maybe Tom is in love.	Vielleicht ist Tom verliebt.	शायद टॉम प्यार में है।
+Maybe she won't come.	Vielleicht kommt sie nicht.	शायद वह नहीं आएगी।
+Maybe they're hungry.	Vielleicht haben sie Hunger.	शायद उन्हें भूख लगी है।
+Maybe we should stop.	Vielleicht sollten wir aufhören.	शायद हमें रुकना चाहिए।
