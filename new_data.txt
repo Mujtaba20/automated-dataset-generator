@@ -21818,3 +21818,13 @@ I'll bring it back.	Ich bringe es zurück.	मैं इसे वापस ल�
 I'll buy a new one.	Ich werde ein neues kaufen.	मैं एक नया खरीदूंगा।
 I'll call the chef.	Ich werde den Koch anrufen.	मैं शेफ को बुलाऊंगा।
 I'll call the cops.	Ich werde die Polizei anrufen.	मैं पुलिस को बुलाऊंगा।
+I'll call you back.	Ich rufe dich zurück.	मैं तुम्हें वापस करूंगा।
+I'll call you soon.	Ich werde dich bald anrufen.	मैं जल्द ही तुम्हें फोन करूँगा।
+I'll come help you.	Ich komme dir helfen.	मैं तुम्हारी मदद के लिए आऊंगा।
+I'll come tomorrow.	Ich komme morgen.	मैं कल आऊंगा।
+I'll come with Tom.	Ich komme mit Tom.	मैं टॉम के साथ आऊंगा।
+I'll come with you.	Ich komme mit dir.	मैं तुम्हारे साथ आऊंगा।
+I'll do as you say.	Ich werde tun, wie du sagst.	मैं जैसा कहते हो वैसा करूँगा।
+I'll do it for you.	Ich werde es für dich tun.	मैं तुम्हारे लिए यह करूँगा।
+I'll do that later.	Das mache ich später.	मैं बाद में यह करूँगा।
+I'll do that tomorrow.	Das werde ich morgen tun.	मैं कल यह करूँगा।
