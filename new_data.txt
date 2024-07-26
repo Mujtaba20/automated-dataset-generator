@@ -25402,3 +25402,7 @@ Does your wife know?	Weiß deine Frau Bescheid?	क्या तुम्हा�
 Does your wife work?	Arbeitet deine Frau?	क्या तुम्हारी पत्नी काम करती है?
 Doesn't anyone care?	Kümmert sich niemand?	क्या किसी को परवाह नहीं है?
 Don't act surprised.	Tu nicht überrascht.	हैरान मत होना।
+Don't ask for money.	Fragen Sie nicht nach Geld.	पैसे मांगने के लिए मत कहो।
+Don't be a stranger.	Sei kein Fremder.	पराया मत बनो।
+Don't be disgusting.	Nicht widerlich sein.	भद्दा मत बनो।
+Don't be ridiculous!	Sei nicht lächerlich!	बेतुका मत बनो!
