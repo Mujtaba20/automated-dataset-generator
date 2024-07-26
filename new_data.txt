@@ -38890,3 +38890,12 @@ My room is just below.	Mein Zimmer ist direkt unten.	मेरा कमरा �
 My room is very small.	Mein Zimmer ist sehr klein.	मेरा कमरा बहुत छोटा है।
 My shoes are worn out.	Meine Schuhe sind abgenutzt.	मेरे जूते घिस गए हैं।
 My shopping bag broke.	Meine Einkaufstasche ist kaputtgegangen.	मेरी खरीदारी की थैली टूट गई।
+My sister got engaged.	Meine Schwester hat sich verlobt.	मेरी बहन की सगाई हो गई।
+My sister has a piano.	Meine Schwester hat ein Klavier.	मेरी बहन के पास एक पियानो है।
+My sister often cries.	Meine Schwester weint oft.	मेरी बहन अक्सर रोती है।
+My son is just idling.	Mein Sohn macht nur Pause.	मेरा बेटा बस फुरसत का इस्तेमाल कर रहा है।
+My sons have grown up.	Meine Söhne sind erwachsen geworden.	मेरे बेटे बड़े हो गए हैं।
+My suitcase is broken.	Mein Koffer ist kaputt.	मेरा सूटकेस टूट गया है।
+My toe began to bleed.	Mein Zeh fing an zu bluten.	मेरी पैर की अंगूठी खून बहने लगी।
+My uncle runs a hotel.	Mein Onkel führt ein Hotel.	मेरा चाचा होटल चलाते हैं।
+My underpants are wet.	Meine Unterhose ist nass.	मेरा अंदरकामीज़ गीला है।
