@@ -1,14 +1,4 @@
 
-Please leave Tom alone.	Lass Tom bitte in Ruhe!	कृपया टॉम को अकेला छोड़ दें!
-Please leave Tom alone.	Lass Tom bitte allein!	कृपया टॉम को अकेला छोड़ दें!
-Please leave a message.	Hinterlassen Sie bitte eine Nachricht!	कृपया एक संदेश छोड़ें!
-Please leave a message.	Bitte eine Nachricht hinterlassen!	कृपया एक संदेश छोड़ें!
-Please open the bottle.	Bitte öffne die Flasche.	कृपया बोतल खोलें।
-Please open the bottle.	Mach bitte die Flasche auf.	कृपया बोतल खोलें।
-Please open the window.	Bitte öffnen Sie das Fenster.	कृपया खिड़की खोल दें।
-Please open the window.	Bitte mach das Fenster auf.	कृपया खिड़की खोल दें।
-Please pass me the jam.	Reich mir bitte die Marmelade.	कृपया मुझे जाम दें।
-Please polish my shoes.	Putz mir bitte die Schuhe.	कृपया मेरे जूते साफ करें।
 Please push the buzzer.	Bitte drücken Sie auf den Buzzer.	कृपया बजर दबाएं।
 Please remain standing.	Bleibe bitte stehen!	बंद करो!
 Please remain standing.	Bleiben Sie bitte stehen!	बंद करो!
