@@ -36451,3 +36451,11 @@ Does Tom have to stay?	Muss Tom bleiben?	क्या टॉम को रुक
 Does Tom keep a diary?	Schreibt Tom ein Tagebuch?	क्या टॉम डायरी रखता है?
 Does Tom know my name?	Kennt Tom meinen Namen?	क्या टॉम मेरा नाम जानता है?
 Does Tom know who won?	Weiß Tom, wer gewonnen hat?	क्या टॉम को जीतने वाला पता है?
+Does Tom like Vivaldi?	Mag Tom Vivaldi?	क्या टॉम को वाइवल्डी पसंद है?
+Does Tom like bananas?	Mag Tom Bananen?	क्या टॉम को केले पसंद हैं?
+Does Tom like bowling?	Mag Tom Bowling?	क्या टॉम को बोलिंग पसंद है?
+Does Tom like camping?	Mag Tom Camping?	क्या टॉम को कैंपिंग पसंद है?
+Does Tom like his job?	Mag Tom seinen Job?	क्या टॉम को उसका काम पसंद है?
+Does Tom like to swim?	Schwimmt Tom gerne?	क्या टॉम को तैरना पसंद है?
+Does Tom speak French?	Spricht Tom Französisch?	क्या टॉम फ्रेंच बोलता है?
+Does Tom study French?	Studiert Tom Französisch?	क्या टॉम फ्रेंच पढ़ता है?

@@ -1,14 +1,4 @@
 
-Does Tom like Vivaldi?	Mag Tom Vivaldi?	मैग टॉम विवाल्डी?
-Does Tom like bananas?	Mag Tom Bananen?	क्या टॉम केलेन को पसंद है?
-Does Tom like bowling?	Kegelt Tom gerne?	टॉम को झुकना पसंद है?
-Does Tom like camping?	Zeltet Tom gerne?	टॉम को तम्बू पसंद है?
-Does Tom like his job?	Gefällt Tom seine Arbeit?	क्या टॉम अपने काम को पसंद करता है?
-Does Tom like to swim?	Schwimmt Tom gern?	टॉम को तैरना पसंद है?
-Does Tom like to swim?	Schwimmt Tom gerne?	टॉम को तैरना पसंद है?
-Does Tom speak French?	Spricht Tom Französisch?	क्या टॉम फ्रेंच बोलता है?
-Does Tom study French?	Lernt Tom Französisch?	क्या टॉम फ्रेंच सीखता है?
-Does Tom study French?	Studiert Tom Französisch?	क्या टॉम फ्रेंच का अध्ययन करता है?
 Does Tom teach French?	Unterrichtet Tom Französisch?	टॉम फ्रेंच सिखाता है?
 Does Tom teach French?	Lehrt Tom Französisch?	क्या टॉम फ्रेंच सिखाता है?
 Does Tom want to come?	Möchte Tom kommen?	टॉम आना चाहते हैं?
