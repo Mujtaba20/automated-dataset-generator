@@ -33357,3 +33357,12 @@ She is the messenger.	Sie ist die Botin.	वह संदेशवाहक ह�
 She is traveling now.	Sie reist jetzt.	वह अभी यात्रा कर रही है।
 She is wearing a hat.	Sie trägt einen Hut.	वह एक टोपी पहन रही है।
 She knelt beside him.	Sie kniete neben ihm.	उसके पास उसने झुककर बैठ लिया।
+She likes miniskirts.	Sie mag Miniröcke.	उसे मिनीस्कर्ट पसंद है।
+She likes these cats.	Sie mag diese Katzen.	उसे ये बिल्लियां पसंद हैं।
+She lives in comfort.	Sie lebt in Komfort.	उसे आराम से जीना है।
+She looks like a boy.	Sie sieht aus wie ein Junge.	वह एक लड़के जैसी दिखती है।
+She looks very happy.	Sie sieht sehr glücklich aus.	उसे बहुत खुश नजर आती है।
+She looks very young.	Sie sieht sehr jung aus.	वह बहुत युवा लगती है।
+She married a sailor.	Sie hat einen Seemann geheiratet.	उसने एक मछुआरा से शादी की।
+She mended her socks.	Sie hat ihre Socken geflickt.	उसने अपनी जर्रे ठीक की।
+She missed him a lot.	Sie hat ihn sehr vermisst.	उसे उसकी बहुत याद आई।
