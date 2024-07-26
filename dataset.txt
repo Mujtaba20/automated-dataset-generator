@@ -1,14 +1,4 @@
 
-I do agree with Tom.	Ich stimme Tom schon zu.	मैं पहले से ही टॉम से सहमत हूं।
-I do like ice cream.	Ich mag wirklich Eiscreme.	मुझे वास्तव में आइसक्रीम पसंद है।
-I do not deserve it.	Ich verdiene es nicht.	मैं इसके लायक नहीं हूं।
-I do not like music.	Ich mag keine Musik.	मुझे संगीत पसंद नहीं है।
-I do not read books.	Ich lese keine Bücher.	मैं किताबें नहीं पढ़ता।
-I do not understand.	Ich verstehe nicht.	मैं नहीं समझता।
-I do that sometimes.	Ich tu das manchmal.	मैं कभी -कभी ऐसा करता हूं।
-I do the best I can.	Ich tue mein Bestes.	मैं अपनी पूरी कोशिश करूँगा।
-I don't believe you.	Ich glaube dir nicht.	मुझे तुम पर विश्वास नहीं है।
-I don't believe you.	Ich glaube Ihnen nicht.	मुझे आप पर विश्वास नहीं है।
 I don't belong here.	Ich gehöre nicht hierher.	मैं यहाँ का नहीं हूं।
 I don't charge much.	Ich verlange nicht viel.	मैं ज्यादा नहीं पूछता।
 I don't charge much.	Ich verlange nicht viel Geld.	मैं बहुत पैसा नहीं मांगता।

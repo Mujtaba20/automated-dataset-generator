@@ -26176,3 +26176,12 @@ I didn't write back.	Ich habe nicht zurückgeschrieben.	मैंने जव�
 I didn't write that.	Das habe ich nicht geschrieben.	मैंने यह नहीं लिखा।
 I didn't write this.	Das habe ich nicht geschrieben.	मैंने यह नहीं लिखा।
 I disagree with you.	Ich stimme dir nicht zu.	मैं आपके साथ विरोधित नहीं हूँ।
+I do agree with Tom.	Ich stimme Tom zu.	मैं टॉम से सहमत हूँ।
+I do like ice cream.	Ich mag Eiscreme.	मुझे आइसक्रीम पसंद है।
+I do not deserve it.	Ich verdiene es nicht.	मुझे यह योग्य नहीं है।
+I do not like music.	Ich mag keine Musik.	मुझे संगीत पसंद नहीं है।
+I do not read books.	Ich lese keine Bücher.	मैं किताबें नहीं पढ़ता।
+I do not understand.	Ich verstehe nicht.	मुझे समझ में नहीं आया।
+I do that sometimes.	Manchmal mache ich das.	कभी-कभी मैं ऐसा करता हूँ।
+I do the best I can.	Ich gebe mein Bestes.	मैं जितना संभव है, वही करता हूँ।
+I don't believe you.	Ich glaube dir nicht.	मैं तुम्हें विश्वास नहीं करता।
