@@ -1,14 +1,4 @@
 
-You broke the rule.	Du hast die Regel gebrochen.	आपने नियम तोड़ दिया।
-You broke the rule.	Ihr habt die Regel gebrochen.	आपने नियम तोड़ दिया।
-You broke the rule.	Sie haben die Regel gebrochen.	आपने नियम तोड़ दिया।
-You broke your arm.	Du hast dir den Arm gebrochen.	आपने अपना हाथ तोड़ दिया।
-You broke your arm.	Sie haben sich den Arm gebrochen.	आपने अपना हाथ तोड़ दिया।
-You broke your leg.	Du hast dir das Bein gebrochen.	आपने अपना पैर तोड़ दिया।
-You broke your leg.	Sie haben sich das Bein gebrochen.	आपने अपना पैर तोड़ दिया।
-You can believe me.	Ihr könnt mir glauben.	आप मुझपर विश्वास कर सकते हैं।
-You can believe me.	Sie können mir glauben.	आप मुझपर विश्वास कर सकते हैं।
-You can believe me.	Du kannst mir glauben.	मुझ पर विश्वास करो।
 You can do it, Tom.	Du schaffst das, Tom!	आप इसे कर सकते हैं, टॉम!
 You can lean on me.	Du kannst dich auf mich verlassen.	आप मुझ पर भरोसा कर सकते हैं।
 You can lean on me.	Ihr könnt euch auf mich verlassen.	तुम मुझ पर भरोसा कर सकते हो।

@@ -24817,3 +24817,9 @@ You are very smart.	Du bist sehr schlau.	तुम बहुत होशिय�
 You aren't invited.	Sie sind nicht eingeladen.	तुम्हें नहीं बुलाया गया।
 You aren't looking.	Du schaust nicht.	तुम नहीं देख रहे हो।
 You broke my heart.	Du hast mir das Herz gebrochen.	तुमने मेरा दिल तोड़ दिया।
+You broke the rule.	Du hast die Regel gebrochen.	आपने नियम तोड़ा।
+You broke your arm.	Du hast deinen Arm gebrochen.	तुमने अपनी बांह तोड़ी।
+You broke your leg.	Du hast dein Bein gebrochen.	तुमने अपनी टांग तोड़ी।
+You can believe me.	Du kannst mir glauben.	तुम मुझपर विश्वास कर सकते हो।
+You broke the rule. - Alternative meaning in Hindi	Du hast die Regel gebrochen.	तुमने नियम की अवगति की।
+You can believe me. - Alternative meaning in German	Du kannst mir vertrauen.	तुम मुझपर भरोसा कर सकते हो।
