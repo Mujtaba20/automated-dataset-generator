@@ -1,15 +1,4 @@
 
-Please push the buzzer.	Bitte drücken Sie auf den Buzzer.	कृपया बजर दबाएं।
-Please remain standing.	Bleibe bitte stehen!	बंद करो!
-Please remain standing.	Bleiben Sie bitte stehen!	बंद करो!
-Please repeat after me.	Bitte sprich mir nach.	कृपया मुझसे बात करें।
-Please repeat after me.	Bitte sprecht mir nach.	कृपया मुझसे बात करें।
-Please repeat after me.	Bitte sprechen Sie mir nach.	कृपया मुझसे बात करें।
-Please run this script.	Führen Sie einmal dieses Skript aus.	एक बार इस स्क्रिप्ट को सटीक करें।
-Please teach me French.	Bring mir bitte Französisch bei!	कृपया मुझे फ्रेंच सिखाएं!
-Please throw this away.	Bitte wirf das weg!	कृपया इसे दूर फेंक दें!
-Please throw this away.	Bitte werft das weg!	कृपया इसे दूर फेंक दें!
-Please throw this away.	Bitte werfen Sie das weg!	कृपया रास्ता फेंक दो!
 Please turn off the TV.	Bitte schalte den Fernseher aus.	कृपया टीवी बंद करें।
 Please wash your hands.	Sei so lieb und wasch dir die Hände!	इतना अच्छा हो और अपने हाथ धो लो!
 Please write back soon.	Bitte schreib bald zurück.	कृपया जल्दी ही वापस लिखें।
