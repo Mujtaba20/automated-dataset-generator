@@ -1,14 +1,4 @@
 
-The dog ate my shoe.	Der Hund hat meinen Schuh gefressen.	कुत्ते ने मेरा जूता खा लिया।
-The dog bit my hand.	Der Hund biss mir in die Hand.	कुत्ते ने मुझे बिट किया।
-The dog bit the man.	Der Hund biss den Mann.	कुत्ते ने आदमी को थोड़ा सा।
-The dog followed me.	Der Hund folgte mir.	कुत्ते ने मेरा पीछा किया।
-The dog is bleeding.	Der Hund blutet.	कुत्ते को खून बह रहा है।
-The dog is sleeping.	Der Hund schläft.	कुत्ता सोता है।
-The dog needs water.	Der Hund braucht Wasser.	कुत्ते को पानी की जरूरत है।
-The dog seems happy.	Der Hund macht einen zufriedenen Eindruck.	कुत्ता एक संतुष्ट छाप बनाता है।
-The dogs seem happy.	Die Hunde machen einen zufriedenen Eindruck.	कुत्ते एक संतुष्ट छाप बनाते हैं।
-The door is closing.	Die Tür schließt sich.	दरवाजा बंद हो जाता है।
 The door was locked.	Die Tür war verschlossen.	दरवाजा बंद था।
 The door won't open.	Die Tür geht nicht auf.	दरवाजा नहीं खुला।
 The economy is good.	Die Wirtschaftslage ist gut.	आर्थिक स्थिति अच्छी है।

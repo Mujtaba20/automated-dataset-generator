@@ -28196,3 +28196,13 @@ The crops need rain.	Die Ernten brauchen Regen.	फसलों को बार
 The crowd went wild.	Die Menge wurde wild.	भीड़ उत्तेजित हो गई।
 The cup has a crack.	Die Tasse hat einen Riss.	कप में एक दरार है।
 The damage was done.	Der Schaden war angerichtet.	नुकसान हो गया था।
+The dog ate my shoe.	Der Hund aß meinen Schuh.	कुत्ता मेरा जूता खा गया।
+The dog bit my hand.	Der Hund hat meine Hand gebissen.	कुत्ता ने मेरा हाथ काट लिया।
+The dog bit the man.	Der Hund hat den Mann gebissen.	कुत्ता ने आदमी को काटा।
+The dog followed me.	Der Hund folgte mir.	कुत्ता मेरा पीछा किया।
+The dog is bleeding.	Der Hund blutet.	कुत्ता खून बह रहा है।
+The dog is sleeping.	Der Hund schläft.	कुत्ता सो रहा है।
+The dog needs water.	Der Hund braucht Wasser.	कुत्ता पानी की जरूरत है।
+The dog seems happy.	Der Hund scheint glücklich zu sein.	कुत्ता खुश लग रहा है।
+The dogs seem happy.	Die Hunde scheinen glücklich zu sein.	कुत्ते खुश लग रहे हैं।
+The door is closing.	Die Tür schließt sich.	दरवाजा बंद हो रहा है।
