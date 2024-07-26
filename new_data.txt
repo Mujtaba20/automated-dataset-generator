@@ -22284,3 +22284,11 @@ It was unavoidable.	Es war unvermeidbar.	इससे बचा नहीं ज
 It was very simple.	Es war sehr einfach.	यह बहुत सरल था।
 It was very stuffy.	Es war sehr stickig.	यह बहुत घाना था।
 It was worth a try.	Es war einen Versuch wert.	एक प्रयास के लायक था।
+It wasn't my fault.	Es war nicht meine Schuld.	यह मेरी गलती नहीं थी।
+It wasn't personal.	Es war nicht persönlich.	यह व्यक्तिगत नहीं था।
+It wasn't too soon.	Es war nicht zu früh.	यह बहुत जल्दी नहीं था।
+It wasn't very fun.	Es hat nicht viel Spaß gemacht.	यह बहुत मजेदार नहीं था।
+It won't last long.	Es wird nicht lange dauern.	यह लंबे समय तक नहीं चलेगा।
+It won't take long.	Es wird nicht lange dauern.	यह बहुत देर नहीं लेगा।
+It'll be a big day.	Es wird ein großer Tag sein.	यह एक बड़ा दिन होगा।
+It'll be all right.	Es wird schon gut werden.	सब ठीक हो जाएगा।

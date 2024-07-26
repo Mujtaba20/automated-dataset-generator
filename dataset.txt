@@ -1,14 +1,4 @@
 
-It wasn't my fault.	Es war nicht meine Schuld.	यह मेरी गलती नहीं है।
-It wasn't my fault.	Das war nicht meine Schuld.	यह मेरी गलती नहीं थी।
-It wasn't personal.	Es war nichts Persönliches.	यह कुछ भी व्यक्तिगत नहीं था।
-It wasn't too soon.	Es war nicht zu früh.	यह बहुत जल्दी नहीं था।
-It wasn't very fun.	Es hat nicht besonders viel Spaß gemacht.	यह विशेष रूप से मजेदार नहीं था।
-It won't last long.	Es wird nicht lange dauern.	मैं ज्यादा समय नहीं लूंगा।
-It won't last long.	Es wird nicht lange halten.	यह लंबे समय तक नहीं चलेगा।
-It won't take long.	Es wird nicht lange dauern.	मैं ज्यादा समय नहीं लूंगा।
-It'll be a big day.	Das wird ein großer Tag.	यह एक बड़ा दिन होगा।
-It'll be all right.	Es wird gutgehen.	यह अच्छी तरह से चलेगा।
 It'll be dark soon.	Es wird bald dunkel sein.	जल्द ही अंधेरा हो जाएगा।
 It'll be dark soon.	Bald wird es dunkel.	जल्द ही अंधेरा हो जाएगा।
 It'll be over soon.	Es ist bald vorbei.	यह जल्द ही खत्म हो जाएगा।
