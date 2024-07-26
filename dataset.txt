@@ -1,14 +1,4 @@
 
-Did you tell on Tom?	Hast du Tom verpetzt?	क्या आपने टॉम दिया?
-Did you tell on Tom?	Habt ihr Tom verpetzt?	क्या आपने टॉम दिया?
-Did you yell at Tom?	Hast du Tom angeschrien?	क्या आपने टॉम चिल्लाया?
-Did you yell at Tom?	Habt ihr Tom angeschrien?	क्या आपने टॉम चिल्लाया?
-Did you yell at Tom?	Haben Sie Tom angeschrien?	क्या आपने टॉम चिल्लाया?
-Didn't you know Tom?	Kanntest du Tom nicht?	क्या आप टॉम नहीं जानते थे?
-Didn't you know Tom?	Kanntet ihr Tom nicht?	क्या आप टॉम नहीं जानते थे?
-Didn't you know Tom?	Kannten Sie Tom nicht?	क्या आप टॉम नहीं जानते थे?
-Disconnect the plug.	Ziehe den Stecker heraus!	प्लग बाहर खींचो!
-Disconnect the plug.	Ziehen Sie den Stecker!	प्लग बाहर निकालो!
 Divide this in half.	Teile dies in zwei Hälften!	इसे दो हिस्सों में साझा करें!
 Do I curse too much?	Fluche ich zu viel?	क्या मैं बहुत अधिक शाप देता हूं?
 Do I detect sarcasm?	Höre ich da Sarkasmus?	क्या मैं व्यंग्य सुनता हूं?

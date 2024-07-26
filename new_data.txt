@@ -25302,3 +25302,10 @@ Did you play tennis?	Hast du Tennis gespielt?	क्या तुमने ट�
 Did you read it all?	Hast du alles gelesen?	क्या आपने सब पढ़ लिया है?
 Did you take a bath?	Hast du ein Bad genommen?	क्या तुमने स्नान किया है?
 Did you talk to Tom?	Hast du mit Tom geredet?	क्या तुमने टॉम से बात की?
+Did you tell on Tom?	Hast du Tom verpetzt?	क्या तुमने टॉम को बताया?
+Did you yell at Tom?	Hast du Tom angeschrien?	क्या तुमने टॉम पर चिल्लाया?
+Didn't you know Tom?	Hast du Tom nicht gekannt?	क्या तुम्हें टॉम का पता नहीं था?
+Disconnect the plug.	Ziehen Sie den Stecker ab.	प्लग को खींचो।
+Did you tell on Tom? - Different Meaning	Hast du Tom informiert?	क्या तुमने टॉम को सूचित किया?
+Did you yell at Tom? - Different Meaning	Hast du Tom angebrüllt?	क्या तुमने टॉम पर चिल्लाया?
+Didn't you know Tom? - Different Meaning	Hast du Tom nicht erkannt?	क्या तुम्हें टॉम को पहचाना नहीं था?
