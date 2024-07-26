@@ -1,20 +1,4 @@
 
-Why aren't you ready?	Wieso bist du nicht fertig?	आप क्यों खत्म नहीं करते?
-Why aren't you there?	Warum bist du nicht dort?	आप वहां क्यों नहीं हैं?
-Why bother fixing it?	Wozu sich die Mühe machen, es herzurichten?	इसे तैयार करने के लिए क्या परेशानी है?
-Why can't you go now?	Warum kannst du nicht jetzt gehen?	अब आप क्यों नहीं जा सकते?
-Why did Tom buy that?	Wieso hat Tom das gekauft?	टॉम ने ऐसा क्यों खरीदा?
-Why did Tom hesitate?	Warum zögerte Tom?	क्यों झिझकते हैं टॉम?
-Why did Tom run away?	Warum ist Tom weggelaufen?	टॉम क्यों भाग गया?
-Why did you bring it?	Warum hast du es mitgebracht?	आप इसे अपने साथ क्यों लाते थे?
-Why did you bring it?	Warum habt ihr es mitgebracht?	आप इसे अपने साथ क्यों लाते थे?
-Why did you bring it?	Warum haben Sie es mitgebracht?	आप इसे अपने साथ क्यों लाते थे?
-Why did you bring it?	Warum hast du sie mitgebracht?	आप उन्हें अपने साथ क्यों लाते थे?
-Why did you bring it?	Warum haben Sie sie mitgebracht?	तुम क्यों लाया?
-Why did you bring it?	Warum habt ihr sie mitgebracht?	आप उन्हें अपने साथ क्यों लाते थे?
-Why did you bring it?	Warum hast du ihn mitgebracht?	आप इसे अपने साथ क्यों लाते थे?
-Why did you bring it?	Warum haben Sie ihn mitgebracht?	आप उसे क्यों लाए?
-Why did you bring it?	Warum habt ihr ihn mitgebracht?	आप इसे अपने साथ क्यों लाते थे?
 Why did you buy this?	Warum hast du das gekauft?	आपने उसे क्यों खरीदा?
 Why did you buy this?	Warum habt ihr das gekauft?	आपने उसे क्यों खरीदा?
 Why did you buy this?	Warum haben Sie das gekauft?	आपने उसे क्यों खरीदा?

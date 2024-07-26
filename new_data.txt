@@ -35637,3 +35637,11 @@ Why are you studying?	Warum lernst du?	तुम पढ़ाई क्यों
 Why aren't they back?	Warum sind sie nicht zurück?	वे वापस क्यों नहीं आ रहे हैं?
 Why aren't they here?	Warum sind sie nicht hier?	वे यहाँ क्यों नहीं हैं?
 Why aren't you going?	Warum gehst du nicht?	तुम क्यों नहीं जा रहे हो?
+Why aren't you ready?	Warum bist du nicht bereit?	तुम तैयार क्यों नहीं हो?
+Why aren't you there?	Warum bist du nicht da?	तुम वहाँ क्यों नहीं हो?
+Why bother fixing it?	Warum sich die Mühe machen, es zu reparieren?	इसे ठीक करने की परेशानी क्यों करें?
+Why can't you go now?	Warum kannst du jetzt nicht gehen?	तुम अब क्यों नहीं जा सकते?
+Why did Tom buy that?	Warum hat Tom das gekauft?	वह वस्तु खरीदने के लिए टॉम ने क्यों किया?
+Why did Tom hesitate?	Warum hat Tom gezögert?	टॉम ने क्यों हिचकिचाई?
+Why did Tom run away?	Warum ist Tom weggelaufen?	टॉम भाग क्यों गया?
+Why did you bring it?	Warum hast du es gebracht?	तुमने इसे क्यों लाया?
