@@ -37012,3 +37012,8 @@ How can you know that?	Wie kannst du das wissen?	तुम यह कैसे �
 How can you trust Tom?	Wie kannst du Tom vertrauen?	तुम टॉम पर भरोसा कैसे कर सकते हो?
 How could that happen?	Wie konnte das passieren?	यह कैसे हो सकता था?
 How could they forget?	Wie konnten sie das vergessen?	वे यह कैसे भूल सकते हैं?
+How could this happen?	Wie konnte das passieren?	यह कैसे हो सका?
+How could you do that?	Wie konntest du das tun?	तुम ऐसा कैसे कर सकते हो?
+How dare you say that!	Wie kannst du es wagen, das zu sagen!	तुम कैसे कह सकते हो!
+How deep are the cuts?	Wie tief sind die Schnitte?	कटौतियाँ कितनी गहरी हैं?
+How deep is that lake?	Wie tief ist dieser See?	वह झील कितनी गहरी है?
