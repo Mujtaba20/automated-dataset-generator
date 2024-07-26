@@ -36075,3 +36075,8 @@ Are you a taxi driver?	Bist du ein Taxifahrer?	क्या आप एक टै
 Are you afraid of Tom?	Hast du Angst vor Tom?	क्या आप टॉम से डरते हैं?
 Are you an only child?	Bist du ein Einzelkind?	क्या आप एकल बच्चे हैं?
 Are you and Tom close?	Bist du nahe an Tom?	क्या आप और टॉम के करीब हैं?
+Are you angry with me?	Bist du wütend auf mich?	क्या आप मुझसे नाराज़ हैं?
+Are you as tall as me?	Bist du so groß wie ich?	क्या आप मेरे जैसे लंबे हैं?
+Are you back home now?	Bist du jetzt wieder zu Hause?	क्या आप अब घर वापस आ गए हैं?
+Are you being serious?	Meinst du das ernst?	क्या आप सच में ऐसा कर रहे हैं?
+Are you being serious? (alternate meaning)	Nimmst du das ernst?	क्या आप इसे गंभीरता से ले रहे हैं?

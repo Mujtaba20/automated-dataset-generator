@@ -1,14 +1,4 @@
 
-Are you angry with me?	Bist du böse auf mich?	क्या आप मुझसे नाराज हैं?
-Are you as tall as me?	Bist du so groß wie ich?	क्या आप मेरे जितना बड़े हैं?
-Are you back home now?	Bist du jetzt wieder zuhause?	क्या आप अब घर वापस आ गए हैं?
-Are you back home now?	Sind Sie jetzt wieder zuhause?	क्या आप अब घर वापस आ गए हैं?
-Are you being serious?	Meinst du das ernst?	क्या आपका मतलब है कि गंभीरता से?
-Are you being serious?	Meint ihr das ernst?	क्या आपको लगता है कि गंभीरता से?
-Are you being serious?	Meinen Sie das ernst?	क्या आप गंभीर हैं?
-Are you being serious?	Ist das dein Ernst?	क्या आप गंभीर हैं?
-Are you being serious?	Ist das euer Ernst?	क्या आप गंभीर हैं?
-Are you being serious?	Ist das Ihr Ernst?	क्या आप गंभीर हैं?
 Are you busy tomorrow?	Seid ihr morgen beschäftigt?	क्या आप कल व्यस्त हैं?
 Are you coming or not?	Kommst du oder nicht?	तुम्हें साथ आना है या नहीं?
 Are you dating anyone?	Triffst du dich mit jemandem?	क्या आप किसी से मिलते हैं?
