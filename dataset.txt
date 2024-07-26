@@ -1,14 +1,4 @@
 
-He is the tallest boy.	Er ist der größte Junge.	वह सबसे बड़ा लड़का है।
-He is unable to do it.	Er kann es nicht tun.	वह ऐसा नहीं कर सकता।
-He is unable to do it.	Er kann es nicht machen.	वह ऐसा नहीं कर सकता।
-He is unable to do it.	Er ist nicht in der Lage dazu.	वह ऐसा करने में असमर्थ है।
-He is very kind to me.	Er ist sehr freundlich zu mir.	वह मेरे लिए बहुत दोस्ताना है।
-He is very mean to me.	Er ist sehr gemein zu mir.	वह मेरे लिए बहुत मतलबी है।
-He is washing his car.	Er wäscht sein Auto.	वह अपनी कार धो रहा है।
-He is washing the car.	Er wäscht das Auto.	वह कार धोता है।
-He is watching TV now.	Jetzt schaut er fern.	अब वह दूर दिखता है।
-He is weak in English.	Er ist schwach im Englischen.	यह अंग्रेजी में कमजोर है।
 He is wearing glasses.	Er trägt eine Brille.	उसने चश्मा पहना हुआ है।
 He is wearing glasses.	Er hat eine Brille auf.	उसके पास चश्मा है।
 He is writing a novel.	Er schreibt einen Roman.	वह एक उपन्यास लिखते हैं।

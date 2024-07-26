@@ -36802,3 +36802,10 @@ He is such a show off.	Er gibt so an.	वह ऐसा दिखावा कर
 He is sure of winning.	Er ist sicher zu gewinnen.	वह जीतने की पूरी तरह से पक्की है।
 He is tall and strong.	Er ist groß und stark.	वह लंबा और मजबूत है।
 He is teaching Arabic.	Er unterrichtet Arabisch.	वह अरबी सिखा रहा है।
+He is the tallest boy.	Er ist der größte Junge.	वह सबसे लम्बा लड़का है।
+He is unable to do it.	Er kann es nicht tun.	वह इसे करने में असमर्थ है।
+He is very kind to me.	Er ist sehr nett zu mir.	वह मुझसे बहुत अच्छा है।
+He is very mean to me.	Er ist sehr gemein zu mir.	वह मुझसे बहुत ही निर्मम है।
+He is washing his car.	Er wäscht sein Auto.	वह अपनी कार धो रहा है।
+He is watching TV now.	Er sieht jetzt fern.	वह अभी टीवी देख रहा है।
+He is weak in English.	Er ist schwach in Englisch.	वह अंग्रेजी में कमजोर है।
