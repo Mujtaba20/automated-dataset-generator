@@ -1,15 +1,4 @@
 
-I don't play the piano.	Ich spiele nicht Klavier.	मैं पियानो नहीं खेलता।
-I don't quite know yet.	Ich weiß noch nicht genau.	मुझे अभी तक पता नहीं है।
-I don't regret a thing.	Ich bereue nichts.	मुझे कोई अफसोस नहीं है।
-I don't see your point.	Mir ist nicht klar, worauf du hinauswillst.	यह मेरे लिए स्पष्ट नहीं है कि आप क्या करना चाहते हैं।
-I don't sleep in a bed.	Ich schlafe nicht im Bett.	मैं बिस्तर में नहीं सोता।
-I don't smell anything.	Ich rieche nichts.	मैं कुछ भी सूंघता नहीं है।
-I don't speak Japanese.	Ich spreche kein Japanisch.	मैं जापानी नहीं बोलता।
-I don't think it's Tom.	Ich glaube nicht, dass es Tom ist.	मुझे नहीं लगता कि यह टॉम है।
-I don't understand Tom.	Ich verstehe Tom nicht.	मुझे टॉम समझ नहीं आ रहा है।
-I don't understand art.	Ich habe kein Kunstverständnis.	मुझे कला की कोई समझ नहीं है।
-I don't understand art.	Von Kunst habe ich keine Ahnung.	मुझे कला के बारे में कोई पता नहीं है।
 I don't understand you.	Ich verstehe Sie nicht.	मुझे तुम्हारी बात समझ नहीं आती है।
 I don't understand you.	Ich verstehe euch nicht.	मुझे तुम्हारी बात समझ नहीं आती है।
 I don't understand you.	Ich verstehe dich nicht.	मुझे आपकी बात समझ नहीं आई।
