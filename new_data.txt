@@ -24245,3 +24245,11 @@ We can't leave Tom.	Wir können Tom nicht verlassen.	हम टॉम को छ
 We can't leave now.	Wir können jetzt nicht gehen.	हम अब नहीं जा सकते।
 We can't stay here.	Wir können hier nicht bleiben.	हम यहाँ नहीं रह सकते।
 We can't stop here.	Wir können hier nicht aufhören.	हम यहाँ रुक नहीं सकते।
+We can't talk here.	Wir können hier nicht sprechen.	हम यहाँ बात नहीं कर सकते।
+We can't turn back.	Wir können uns nicht umdrehen.	हम पीछे नहीं जा सकते।
+We chartered a bus.	Wir haben einen Bus gechartert.	हमने एक बस किराए पर ली।
+We chatted briefly.	Wir haben kurz geplaudert.	हमने थोड़ी देर तक बातचीत की।
+We did it together.	Wir haben es zusammen gemacht.	हमने यह साथ में किया।
+We didn't complain.	Wir haben uns nicht beschwert.	हमने शिकायत नहीं की।
+We didn't find Tom.	Wir haben Tom nicht gefunden.	हमने टॉम को नहीं ढूंढा।
+We didn't kill Tom.	Wir haben Tom nicht umgebracht.	हमने टॉम को नहीं मारा।
