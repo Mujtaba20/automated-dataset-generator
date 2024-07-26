@@ -31409,3 +31409,11 @@ I am to blame for it.	Ich bin daran schuld.	मैं इसके लिए द
 I am wasting my time.	Ich verschwende meine Zeit.	मैं अपना समय खो रहा हूँ।
 I am weighing myself.	Ich wiege mich.	मैं अपना वजन कर रहा हूँ।
 I answered the phone.	Ich habe ans Telefon gegangen.	मैंने फ़ोन उठाया।
+I apologize for that.	Ich entschuldige mich dafür.	मैं उसके लिए क्षमा प्रार्थना करता हूँ।
+I applied for a visa.	Ich habe mich um ein Visum beworben.	मैंने वीज़ा के लिए आवेदन किया।
+I arrived before Tom.	Ich kam vor Tom an.	मैं टॉम से पहले पहुंच गया।
+I asked Tom to leave.	Ich bat Tom zu gehen.	मैंने टॉम से कहा कि वह चला जाए।
+I asked for a refund.	Ich habe um eine Rückerstattung gebeten.	मैंने वापसी के लिए कहा।
+I asked him his name.	Ich fragte ihn nach seinem Namen.	मैंने उससे उसका नाम पूछा।
+I ate a lot of pizza.	Ich habe viel Pizza gegessen.	मैंने बहुत सारी पिज्जा खाई।
+I ate eggs yesterday.	Ich habe gestern Eier gegessen.	मैंने कल अंडे खाए।

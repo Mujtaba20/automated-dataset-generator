@@ -1,14 +1,4 @@
 
-I apologize for that.	Ich bitte dafür um Verzeihung.	मैं माफी मांगता हूं।
-I applied for a visa.	Ich habe ein Visum beantragt.	मैंने वीजा के लिए आवेदन किया।
-I arrived before Tom.	Ich bin vor Tom angekommen.	मैं टॉम से पहले पहुंचा।
-I asked Tom to leave.	Ich bat Tom zu gehen.	मैंने टॉम को जाने के लिए कहा।
-I asked for a refund.	Ich bat um Rückerstattung.	मैंने प्रतिपूर्ति मांगी।
-I asked for a refund.	Ich habe um Rückerstattung gebeten.	मैंने रिफंड के लिए कहा।
-I asked him his name.	Ich fragte ihn nach seinem Namen.	मैंने उससे उसका नाम मांगा।
-I asked him his name.	Ich fragte ihn, wie er heiße.	मैंने उससे पूछा कि उसे क्या कहा गया था।
-I ate a lot of pizza.	Ich habe viel Pizza gegessen.	मैंने बहुत सारा पिज्जा खाया।
-I ate eggs yesterday.	Ich habe gestern Eier gegessen.	मैंने कल अंडे खाए।
 I ate fish yesterday.	Ich habe gestern Fisch gegessen.	मैंने कल मछली खाया।
 I ate lunch with Tom.	Ich habe mit Tom zusammen zu Mittag gegessen.	मैंने दोपहर के भोजन के लिए टॉम के साथ खाया।
 I ate too much today.	Ich habe heute zu viel gegessen.	मैंने आज बहुत ज्यादा खाया।
