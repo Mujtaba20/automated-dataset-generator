@@ -1,15 +1,4 @@
 
-Just close your eyes.	Schließe einfach mal die Augen!	बस अपनी आंखें बंद कर लो!
-Just do me one favor.	Tu mir nur einen Gefallen.	बस मुझ पर एक एहसान करो।
-Just do me one favor.	Tue mir nur einen Gefallen.	बस मुझ पर एक एहसान करो।
-Just get me the list.	Hol mir einfach die Liste.	बस मुझे सूची प्राप्त करें।
-Just get me the list.	Besorg mir einfach diese Liste.	बस मुझे यह सूची प्राप्त करें।
-Just give it up, Tom.	Gib es einfach auf, Tom.	बस इसे छोड़ दो, टॉम।
-Just go to your room.	Gehe in dein Zimmer!	अपने कमरे में जाओ!
-Just leave Tom alone.	Lass Tom einfach in Ruhe!	बस टॉम को अकेला छोड़ दो!
-Just throw them away.	Wirf die einfach weg.	बस उन्हें फेंक दो।
-Just throw them away.	Werft die einfach weg.	बस इसे फेंक दो।
-Just throw them away.	Werfen Sie die einfach weg.	बस उन्हें फेंक दो।
 Keep the door closed.	Lass die Tür zu.	दरवाजे की अनुमति दें।
 Keep the door locked.	Lass die Tür abgeschlossen.	दरवाजा पूरा होने दो।
 Keep the kids inside.	Die Kinder sollen im Haus bleiben!	बच्चों को घर में रहना चाहिए!
