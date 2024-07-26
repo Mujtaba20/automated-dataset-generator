@@ -1,14 +1,4 @@
 
-We're getting tired.	Wir werden müde.	हम थक जाते हैं।
-We're going hunting.	Wir gehen auf die Jagd.	हम शिकार करते हैं।
-We're going in here.	Wir gehen hier rein.	हम यहां जाते हैं।
-We're going out now.	Wir gehen jetzt aus.	अब हम बाहर जा रहे हैं।
-We're in Boston now.	Im Augenblick sind wir in Boston.	फिलहाल हम बोस्टन में हैं।
-We're in Boston now.	Jetzt sind wir in Boston.	अब हम बोस्टन में हैं।
-We're in the forest.	Wir sind im Wald.	हम जंगल में हैं।
-We're in the garden.	Wir sind im Garten.	हम बगीचे में हैं।
-We're just relaxing.	Wir entspannen uns nur.	हम बस आराम करते हैं।
-We're like brothers.	Wir sind wie Brüder.	हम भाइयों की तरह हैं।
 We're not giving up.	Wir geben nicht auf.	हम हार नहीं मानेंगे।
 We're not going out.	Wir gehen nicht aus.	हम बाहर नहीं जाते।
 We're not in Boston.	Wir sind nicht in Boston.	हम बोस्टन में नहीं हैं।

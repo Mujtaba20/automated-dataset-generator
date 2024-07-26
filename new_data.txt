@@ -29696,3 +29696,12 @@ We're finally alone.	Wir sind endlich allein.	अब हम अकेले ह�
 We're finished here.	Wir sind hier fertig.	यहाँ हम समाप्त हो रहे हैं।
 We're flabbergasted.	Wir sind verblüfft.	हम चौंक गए हैं।
 We're getting there.	Wir kommen dahin.	हम वहाँ पहुंच रहे हैं।
+We're getting tired.	Wir werden müde.	हम थक रहे हैं।
+We're going hunting.	Wir gehen jagen.	हम शिकार करने जा रहे हैं।
+We're going in here.	Wir gehen hier rein.	हम यहाँ जा रहे हैं।
+We're going out now.	Wir gehen jetzt raus.	हम अब बाहर जा रहे हैं।
+We're in Boston now.	Wir sind jetzt in Boston.	हम अब बॉस्टन में हैं।
+We're in the forest.	Wir sind im Wald.	हम जंगल में हैं।
+We're in the garden.	Wir sind im Garten.	हम बगीचे में हैं।
+We're just relaxing.	Wir entspannen uns nur.	हम सिर्फ आराम कर रहे हैं।
+We're like brothers.	Wir sind wie Brüder.	हम भाई की तरह हैं।
