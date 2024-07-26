@@ -1,14 +1,4 @@
 
-What did Tom bring?	Was hat Tom mitgebracht?	टॉम क्या लाया?
-What did Tom drink?	Was hat Tom getrunken?	टॉम ने क्या पी था?
-What did Tom steal?	Was stahl Tom?	क्या स्टील टॉम?
-What did Tom steal?	Was hat Tom gestohlen?	टॉम ने क्या चोरी की है?
-What did Tom write?	Was hat Tom geschrieben?	टॉम ने क्या लिखा?
-What did they find?	Was haben sie gefunden?	आपको क्या मिला?
-What did they want?	Was wollten sie?	वे क्या चाहते थे?
-What did you bring?	Was hast du mitgebracht?	तुम क्या लाए थे?
-What did you bring?	Was haben Sie mitgebracht?	तुम क्या लाए थे?
-What did you bring?	Was habt ihr mitgebracht?	तुम क्या लाए थे?
 What did you drink?	Was hast du getrunken?	आप ने क्या पिया?
 What did you drink?	Was habt ihr getrunken?	आप ने क्या पिया?
 What did you drink?	Was haben Sie getrunken?	आप ने क्या पिया?

@@ -24491,3 +24491,12 @@ What awful weather! (2)	Was für ein schlimmes Wetter!	ये कितना �
 What can I get you?	Was kann ich für dich tun?	मैं आपके लिए क्या कर सकता हूं?
 What could he mean?	Was könnte er meinen?	वह क्या संकेत कर सकता है?
 What did I just do?	Was habe ich gerade gemacht?	मैंने अभी क्या किया है?
+What did Tom bring?	Was hat Tom gebracht?	टॉम ने क्या लाया?
+What did Tom drink?	Was hat Tom getrunken?	टॉम ने क्या पिया?
+What did Tom steal?	Was hat Tom gestohlen?	टॉम ने क्या चुराया?
+What did Tom steal? (different meaning)	Was hat Tom geraubt?	टॉम ने क्या तोड़ा?
+What did Tom write?	Was hat Tom geschrieben?	टॉम ने क्या लिखा?
+What did they find?	Was haben sie gefunden?	वे क्या ढूँढ़ा?
+What did they want?	Was wollten sie?	उन्हें क्या चाहिए था?
+What did you bring?	Was hast du gebracht?	तुमने क्या लाया?
+What did you bring? (different meaning)	Was bringst du?	तुम क्या लाते हो?
