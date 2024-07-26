@@ -1,15 +1,4 @@
 
-Is this seat taken?	Ist der Platz noch frei?	क्या यह सीट मुफ्त में है?
-Is this seat taken?	Ist dieser Platz besetzt?	क्या इस सीट पर किसी का कब्जा है?
-Is this story true?	Stimmt diese Geschichte?	क्या यह कहानी सही है?
-Is this your apple?	Ist das dein Apfel?	क्या आपका सेब है?
-Is this your house?	Ist das dein Haus?	क्या ये आपका घर है?
-Is this your lunch?	Ist das dein Mittagessen?	क्या वह आपका दोपहर का भोजन है?
-Is this your money?	Ist das dein Geld?	क्या वह आपका पैसा है?
-Is this your phone?	Ist das dein Telefon?	क्या वह आपका फोन है?
-Is this your phone?	Ist das Ihr Telefon?	क्या वह आपका फोन है?
-Is this your purse?	Ist das deine Handtasche?	क्या वह आपका हैंडबैग है?
-Is this your purse?	Ist das Ihre Handtasche?	क्या वह आपका हैंडबैग है?
 Is this yours, Tom?	Ist das deiner, Tom?	क्या वह आपका, टॉम है?
 Is tomorrow Monday?	Ist morgen Montag?	सोमवार है?
 Is your gun loaded?	Ist deine Pistole geladen?	क्या आपकी पिस्तौल भरी हुई है?

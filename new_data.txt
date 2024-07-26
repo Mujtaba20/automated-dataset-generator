@@ -22165,3 +22165,11 @@ Is this book yours?	Ist dieses Buch deins?	क्या यह किताब �
 Is this recyclable?	Kann das recycelt werden?	क्या यह पुनर्चक्रण योग्य है?
 Is this room Tom's?	Ist dies Toms Zimmer?	क्या यह टॉम का कमरा है?
 Is this seat empty?	Ist dieser Sitzplatz frei?	क्या यह सीट खाली है?
+Is this seat taken?	Ist dieser Platz besetzt?	क्या यह सीट ली हुई है?
+Is this story true?	Ist diese Geschichte wahr?	क्या यह कहानी सच है?
+Is this your apple?	Ist das dein Apfel?	क्या यह तुम्हारा सेब है?
+Is this your house?	Ist das dein Haus?	क्या यह तुम्हारा घर है?
+Is this your lunch?	Ist das dein Mittagessen?	क्या यह तुम्हारा लंच है?
+Is this your money?	Ist das dein Geld?	क्या यह तुम्हारे पैसे हैं?
+Is this your phone?	Ist das dein Telefon?	क्या यह तुम्हारा फोन है?
+Is this your purse?	Ist das deine Tasche?	क्या यह तुम्हारी पर्स है?
