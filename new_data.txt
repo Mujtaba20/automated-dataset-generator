@@ -27087,3 +27087,11 @@ I'm not incompetent.	Ich bin nicht inkompetent.	मैं अक्षम नह
 I'm not interfering.	Ich mische mich nicht ein.	मैं हस्तक्षेप नहीं कर रहा हूँ।
 I'm not intimidated.	Ich bin nicht eingeschüchtert.	मुझे डराया नहीं जा सकता।
 I'm not mad anymore.	Ich bin nicht mehr wütend.	मैं अब नाराज नहीं हूँ।
+I'm not married yet.	Ich bin noch nicht verheiratet.	मैं अभी तक शादीशुदा नहीं हूं।
+I'm not on the list.	Ich bin nicht auf der Liste.	मैं सूची में नहीं हूँ।
+I'm not one of them.	Ich gehöre nicht zu ihnen.	मैं उनमें से एक नहीं हूं।
+I'm not ready to go.	Ich bin noch nicht bereit zu gehen.	मैं जाने के लिए तैयार नहीं हूं।
+I'm not really busy.	Ich bin nicht wirklich beschäftigt.	मैं वास्तव में व्यस्त नहीं हूं।
+I'm not really sure.	Ich bin mir nicht wirklich sicher.	मुझे वास्तव में सुनिश्चित नहीं है।
+I'm not saying that.	Das sage ich nicht.	मैं यह नहीं कह रहा हूं।
+I'm not so sure now.	Ich bin mir jetzt nicht so sicher.	अब मैं इतना सुनिश्चित नहीं हूं।

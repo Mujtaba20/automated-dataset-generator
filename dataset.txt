@@ -1,14 +1,4 @@
 
-I'm not married yet.	Ich bin noch nicht verheiratet.	मैंने अभी तक शादी नहीं की है।
-I'm not on the list.	Ich stehe nicht auf der Liste.	मैं सूची में नहीं हूं।
-I'm not one of them.	Ich gehöre nicht dazu.	मैं इसका नहीं हूं।
-I'm not one of them.	Ich gehöre nicht zu denen.	मैं उनमें से एक नहीं हूं।
-I'm not ready to go.	Ich bin noch nicht fertig.	मैं अब तक तैयार नहीं हूं।
-I'm not ready to go.	Ich bin noch nicht soweit.	मैं अब तक तैयार नहीं हूं।
-I'm not really busy.	Ich bin wirklich nicht beschäftigt.	मैं वास्तव में व्यस्त नहीं हूं।
-I'm not really sure.	Ich bin mir nicht ganz sicher.	मैं पूरी तरह से निश्चित नहीं हूं।
-I'm not saying that.	Ich sage das nicht.	मैं ऐसा नहीं कहता।
-I'm not so sure now.	Ich bin mir jetzt nicht so sicher.	मुझे अब यकीन नहीं है।
 I'm not telling you.	Das sage ich dir nicht.	मैं आपको यह नहीं बताऊंगा।
 I'm not that hungry.	So hungrig bin ich nicht.	मैं वह भूखा नहीं हूँ।
 I'm not that naïve.	So naiv bin ich nicht.	मैं वह भोला नहीं हूँ।
