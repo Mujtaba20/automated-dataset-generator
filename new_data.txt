@@ -24938,3 +24938,9 @@ You sure are dirty.	Du bist wirklich dreckig.	तुम बिल्कुल �
 You sure eat a lot.	Du isst sicher viel.	तुम बहुत ज्यादा खाते हो।
 You take the money.	Du nimmst das Geld.	तुम पैसे लेते हो।
 You taught me that.	Du hast mir das beigebracht.	तुमने मुझे वह शिक्षा दी थी।
+You taught us that.	Du hast uns das beigebracht.	तुमने हमें यह सिखाया।
+You were in a coma.	Sie waren im Koma.	आप कोमा में थे।
+You were in danger.	Sie waren in Gefahr.	आप खतरे में थे।
+You were my friend.	Du warst mein Freund.	तुम मेरे दोस्त थे।
+You worry too much.	Du machst dir zu viele Gedanken.	तुम बहुत चिंता करते हो।
+You'd better leave.	Du solltest besser gehen.	तुम्हें बेहतर हो तुम जाओ।
