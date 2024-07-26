@@ -1,14 +1,4 @@
 
-Tom married for money.	Tom hat des Geldes wegen geheiratet.	टॉम ने पैसे के लिए शादी की।
-Tom married my sister.	Tom hat meine Schwester geheiratet.	टॉम ने मेरी बहन से शादी की।
-Tom may be doing that.	Tom könnte das tun.	टॉम ऐसा कर सकता था।
-Tom may do that again.	Tom könnte das wieder tun.	टॉम फिर से ऐसा कर सकता था।
-Tom may get suspended.	Tom wird vielleicht suspendiert.	टॉम को निलंबित किया जा सकता है।
-Tom may well be right.	Es ist durchaus möglich, dass Tom recht hat.	यह काफी संभव है कि टॉम सही है।
-Tom might be Canadian.	Tom könnte Kanadier sein.	टॉम कनाडाई हो सकता है।
-Tom might be innocent.	Vielleicht ist Tom unschuldig.	शायद टॉम निर्दोष है।
-Tom might have cancer.	Tom könnte Krebs haben.	टॉम को कैंसर हो सकता है।
-Tom might have cancer.	Tom hat möglicherweise Krebs.	टॉम को कैंसर हो सकता है।
 Tom missed his flight.	Tom hat seinen Flug verpasst.	टॉम अपनी उड़ान से चूक गए।
 Tom missed the target.	Tom hat das Ziel verfehlt.	टॉम ने गोल याद किया।
 Tom misses Mary a lot.	Tom vermisst Mary sehr.	टॉम मैरी को बहुत याद करते हैं।

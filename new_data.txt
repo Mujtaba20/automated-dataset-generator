@@ -40545,3 +40545,13 @@ Tom made me come here.	Tom ließ mich hierher kommen.	टॉम ने मुझ
 Tom made that himself.	Tom machte das selbst.	टॉम ने वह खुद बनाया।
 Tom made three errors.	Tom machte drei Fehler.	टॉम ने तीन गलतियां की।
 Tom managed to escape.	Tom schaffte es zu entkommen.	टॉम को भाग निकलने में कामयाबी मिली।
+Tom married for money.	Tom hat wegen Geld geheiratet.	टॉम ने पैसे के लिए शादी की।
+Tom married my sister.	Tom hat meine Schwester geheiratet.	टॉम ने मेरी बहन से शादी की।
+Tom may be doing that.	Tom könnte das tun.	टॉम वह कर रहा हो सकता है।
+Tom may do that again.	Tom könnte das wieder tun.	टॉम फिर से वह कर सकता है।
+Tom may get suspended.	Tom könnte suspendiert werden.	टॉम को सस्पेंड किया जा सकता है।
+Tom may well be right.	Tom könnte gut Recht haben.	टॉम बिल्कुल सही हो सकता है।
+Tom might be Canadian.	Tom könnte Kanadier sein.	टॉम कनाडियन हो सकता है।
+Tom might be innocent.	Tom könnte unschuldig sein.	टॉम निर्दोष हो सकता है।
+Tom might have cancer.	Tom könnte Krebs haben.	टॉम कैंसर की संभावना हो सकती है।
+Tom might have cancer. - Variation	Tom könnte an Krebs leiden.	टॉम को कैंसर हो सकता है।
