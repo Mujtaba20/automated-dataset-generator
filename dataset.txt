@@ -1,14 +1,4 @@
 
-The food was delicious.	Das Essen war köstlich.	भोजन स्वादिष्ट था।
-The food was very good.	Das Essen war sehr gut.	खाना बहुत अच्छा था।
-The food was wonderful.	Das Essen schmeckte wunderbar.	भोजन का स्वाद अद्भुत था।
-The fruit tastes sweet.	Die Frucht schmeckt süß.	फल का स्वाद मीठा होता है।
-The gate was left open.	Das Tor wurde offen gelassen.	गेट खुला छोड़ दिया गया था।
-The girl has no mother.	Das Mädchen hat keine Mutter.	लड़की की माँ नहीं है।
-The girl sat beside me.	Das Mädchen saß neben mir.	लड़की मेरे बगल में बैठी थी।
-The girl walked slowly.	Das Mädchen lief langsam.	लड़की धीरे -धीरे भाग गई।
-The girl went to sleep.	Das Mädchen ging schlafen.	लड़की सो गई।
-The girl went to sleep.	Das Mädchen schlief ein.	लड़की सो गई।
 The heat is unbearable.	Die Hitze ist unerträglich.	गर्मी असहनीय है।
 The hole is big enough.	Das Loch ist groß genug.	छेद काफी बड़ा है।
 The houses are burning.	Die Häuser brennen.	घर जलते हैं।
