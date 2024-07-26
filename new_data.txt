@@ -23712,3 +23712,13 @@ Tom is really busy.	Tom ist wirklich beschäftigt.	टॉम वास्तव 
 Tom is really cute.	Tom ist wirklich süß.	टॉम सचमुच प्यारा है।
 Tom is really fast.	Tom ist wirklich schnell.	टॉम सचमुच तेज़ है।
 Tom is really good.	Tom ist wirklich gut.	टॉम सचमुच अच्छे हैं।
+Tom is really late.	Tom ist wirklich spät.	टॉम वास्तव में देर से है।
+Tom is really mean.	Tom ist wirklich gemein.	टॉम वास्तव में कठोर है।
+Tom is really nice.	Tom ist wirklich nett.	टॉम वास्तव में अच्छे हैं।
+Tom is really rich.	Tom ist wirklich reich.	टॉम वास्तव में अमीर है।
+Tom is really sick.	Tom ist wirklich krank.	टॉम वास्तव में बीमार है।
+Tom is really slow.	Tom ist wirklich langsam.	टॉम वास्तव में धीमा है।
+Tom is really slow. (2)	Tom bewegt sich wirklich langsam.	टॉम वास्तव में धीमा चलता है।
+Tom is really tall.	Tom ist wirklich groß.	टॉम वास्तव में लंबा है।
+Tom is responsible.	Tom ist verantwortlich.	टॉम जिम्मेदार है।
+Tom is resting now.	Tom ruht jetzt.	टॉम अब आराम कर रहा है।
