@@ -31223,3 +31223,13 @@ He's got lung cancer.	Er hat Lungenkrebs.	उसे फेफड़ों कै
 He's greedy and lazy.	Er ist gierig und faul.	वह लालची और सुस्त है।
 He's in grave danger.	Er ist in großer Gefahr.	वह जीवन और मौत के बीच है।
 He's in the hospital.	Er ist im Krankenhaus.	वह अस्पताल में है।
+He's just an amateur.	Er ist nur ein Amateur.	वह बस एक अमैचुर है।
+He's mad at everyone.	Er ist wütend auf alle.	वह सब पर नाराज़ है।
+He's missed the boat.	Er hat das Boot verpasst.	उसने नौका छोड़ दी।
+He's my half-brother.	Er ist mein Halbbruder.	वह मेरा हाफ़-ब्रदर है।
+He's never satisfied.	Er ist nie zufrieden.	वह कभी संतुष्ट नहीं होता।
+He's offered to help.	Er hat angeboten zu helfen.	उसने सहायता करने का प्रस्ताव दिया है।
+He's right behind me.	Er ist direkt hinter mir.	वह मेरे पीछे सही है।
+He's taking a shower.	Er nimmt eine Dusche.	वह शौच कर रहा है।
+He's the class clown.	Er ist der Klassenclown.	वह क्लास का पगला है।
+He's too old for her.	Er ist zu alt für sie.	वह उसके लिए बहुत पुराना है।
