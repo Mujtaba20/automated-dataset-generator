@@ -41251,3 +41251,10 @@ What did this Tom say?	Was sagte dieser Tom?	यह टॉम ने क्य�
 What did you bring me?	Was hast du mir mitgebracht?	तुमने मुझे क्या लाया?
 What did you do there?	Was hast du dort gemacht?	तुम वहाँ क्या कर रहे थे?
 What did you do to me?	Was hast du mir angetan?	तुमने मेरे साथ क्या किया?
+What did you do today?	Was hast du heute gemacht?	तुमने आज क्या किया?
+What did you do wrong?	Was hast du falsch gemacht?	तुमने क्या गलत किया?
+What did you find out?	Was hast du herausgefunden?	तुमने क्या पता किया?
+What did you just say?	Was hast du gerade gesagt?	तुमने क्या कहा अभी?
+What did you tell Tom?	Was hast du Tom erzählt?	तुमने तोम को क्या बताया?
+What did your mom say?	Was hat deine Mutter gesagt?	तेरी माँ ने क्या कहा?
+What do they do there?	Was machen sie dort?	वहाँ वे क्या करते हैं?
