@@ -24466,3 +24466,12 @@ engSentence7	Was für einen großen Kürbis!	कितना बड़ा कद
 engSentence8	Was für ein Zufall!	कितना ऐतबार!
 engSentence9	Was für eine tolle Party!	कितनी शानदार पार्टी!
 engSentence10	Was für ein langer Flug!	कितना लंबा उड़ान!
+What a lot of pens!	Was für viele Stifte!	कितने सारे पेन!
+What a lovely doll!	Was für eine schöne Puppe!	कितनी प्यारी गुड़िया!
+What a mean fellow!	Was für ein gemeiner Kerl!	कितना कमीना इंसान!
+What a pretty girl!	Was für ein hübsches Mädchen!	कितनी सुंदर लड़की!
+What a small world!	Was für eine kleine Welt!	कितनी छोटी दुनिया!
+What a strange dog!	Was für ein seltsamer Hund!	कितना अजीब कुत्ता!
+What a strange guy!	Was für ein seltsamer Typ!	कितना अजीब आदमी!
+What a strange man!	Was für ein seltsamer Mann!	कितना अजीब आदमी!
+What a strong wind!	Was für ein starker Wind!	कितनी तेज़ हवा!
