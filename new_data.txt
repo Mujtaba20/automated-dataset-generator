@@ -33845,3 +33845,12 @@ They want to kill me.	Sie wollen mich töten.	वे मुझे मारन�
 They want to see you.	Sie möchten dich sehen.	वे तुम्हें देखना चाहते हैं।
 They were both dirty.	Sie waren beide verschmutzt.	वे दोनों मैले थे।
 They were both drunk.	Sie waren beide betrunken.	वे दोनों नशे में थे।
+They were both naked.	Sie waren beide nackt.	वे दोनों नग्न थे।
+They were everywhere.	Sie waren überall.	वे हर जगह थे।
+They were frightened.	Sie waren erschrocken.	उन्हें डर था।
+They were my friends.	Sie waren meine Freunde.	वे मेरे दोस्त थे।
+They weren't invited.	Sie waren nicht eingeladen.	उन्हें नहीं आमंत्रित किया गया था।
+They will understand.	Sie werden verstehen.	वह समझेंगे।
+They won't come back.	Sie werden nicht zurückkommen.	वे वापस नहीं आएंगे।
+They'll be back soon.	Sie werden bald zurück sein.	वे जल्द ही वापस आएंगे।
+They're Tom and Mary.	Sie sind Tom und Mary.	वे टॉम और मेरी हैं।
