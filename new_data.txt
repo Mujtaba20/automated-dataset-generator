@@ -25448,3 +25448,9 @@ engSentence3	Diese Schachtel nicht öffnen.	मेरा डायरी ना 
 engSentence4	Jetzt nicht telefonieren.	उस शब्द का उच्चारण ना करें।
 engSentence5	Die Tür nicht zuschlagen.	तुरंत मन करने वाला कार्य मत करें।
 engSentence6	Die Tür nicht zuschlagen.	इस बॉक्स को मत खोलो।
+Don't smoke in here.	Rauchen Sie hier nicht.	यहाँ धूम्रपान न करें।
+Don't smoke so much.	Rauchen Sie nicht so viel.	इतना धूम्रपान न करें।
+Don't speak so fast.	Sprechen Sie nicht so schnell.	इतनी तेज़ी से न बोलें।
+Don't take too long.	Nehmen Sie nicht zu lange.	ज्यादा समय न लें।
+Don't talk nonsense!	Reden Sie keinen Unsinn!	बकवास मत करो!
+Don't talk nonsense.	Reden Sie keinen Unsinn.	बकवास मत करें।
