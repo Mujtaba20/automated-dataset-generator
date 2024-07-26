@@ -35297,3 +35297,13 @@ We're going tomorrow.	Wir gehen morgen.	हम कल जा रहे हैं
 We're going with you.	Wir gehen mit dir.	हम तुम्हारे साथ जा रहे हैं।
 We're in third place.	Wir sind auf dem dritten Platz.	हम तीसरे स्थान पर हैं।
 We're in trouble now.	Wir stecken jetzt in Schwierigkeiten.	अब हम परेशान हैं।
+We're looking for it.	Wir suchen danach.	हम इसे देख रहे हैं।
+We're not against it.	Wir sind nicht dagegen.	हम उसके विरुद्ध नहीं हैं।
+We're not doing that.	Wir machen das nicht.	हम वह नहीं कर रहे हैं।
+We're not doing that. (Different meaning)	Wir handeln nicht so.	हम वैसा नहीं कर रहे हैं।
+We're not doing that. (Different meaning 2)	Wir sind nicht damit beschäftigt.	हम इसमें नहीं हैं।
+We're not going home.	Wir gehen nicht nach Hause.	हम घर नहीं जा रहे हैं।
+We're not terrorists.	Wir sind keine Terroristen.	हम आतंकवादी नहीं हैं।
+We're not your enemy.	Wir sind nicht dein Feind.	हम तुम्हारे दुश्मन नहीं हैं।
+We're now optimistic.	Wir sind jetzt optimistisch.	हम अब आशावादी हैं।
+We're on the balcony.	Wir sind auf dem Balkon.	हम बालकनी पर हैं।
