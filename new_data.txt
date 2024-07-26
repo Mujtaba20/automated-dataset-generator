@@ -25803,3 +25803,12 @@ He was very nervous.	Er war sehr nervös.	वह बहुत घबराया
 He was very patient.	Er war sehr geduldig.	वह बहुत संयमी था।
 He went out fishing.	Er ging angeln.	वह मछली पकड़ने गया।
 He went to the shop.	Er ging zum Laden.	वह दुकान पर गया।
+He went up Mt. Fuji.	Er stieg den Berg Mt. Fuji hinauf.	उसने एमटी फुजी पर चढ़ाई की।
+He will be punished.	Er wird bestraft werden.	उसे सजा दी जाएगी।
+He will defeat them.	Er wird sie besiegen.	वह उन्हें हराएगा।
+He will do his best.	Er wird sein Bestes geben.	वह अपनी सबसे अच्छी कोशिश करेगा।
+He will not approve.	Er wird nicht zustimmen.	उसे स्वीकृति नहीं होगी।
+He will regret this.	Er wird dies bereuen.	उसे इसे पछताना पड़ेगा।
+He won a gold medal.	Er gewann eine Goldmedaille.	उसने सोने की मेडल जीती।
+He worked very hard.	Er arbeitete sehr hart.	उसने बहुत मेहनत की।
+He works for a bank.	Er arbeitet für eine Bank.	वह एक बैंक में काम करता है।
