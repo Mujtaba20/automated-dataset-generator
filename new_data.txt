@@ -34910,3 +34910,10 @@ Tom took the day off.	Tom nahm sich frei.	टॉम ने दिन भर क�
 Tom touched my elbow.	Tom berührte meinen Ellenbogen.	टॉम ने मेरा कोहनी छुआ।
 Tom tracked the deer.	Tom verfolgte das Reh.	टॉम ने हिरन का पीछा किया।
 Tom treated me badly.	Tom behandelte mich schlecht.	टॉम ने मुझे बुरे तरीके से व्यवहार किया।
+Tom tried not to cry.	Tom versuchte nicht zu weinen.	टॉम रोने से बचने की कोशिश की।
+Tom tried to deny it.	Tom versuchte es zu leugnen.	टॉम ने इसे इनकार करने की कोशिश की।
+Tom tried to kill us.	Tom versuchte uns zu töten.	टॉम ने हमें मारने की कोशिश की।
+Tom tried to kiss me.	Tom versuchte mich zu küssen.	टॉम ने मुझे चुम्मा देने की कोशिश की।
+Tom tried to save me.	Tom versuchte mich zu retten.	टॉम ने मुझे बचाने की कोशिश की।
+Tom turned on the TV.	Tom hat den Fernseher eingeschaltet.	टॉम ने टीवी चालू की।
+Tom turned up the TV.	Tom stellte den Fernseher lauter.	टॉम ने टीवी को अधिक तेजी से बढ़ाया।
