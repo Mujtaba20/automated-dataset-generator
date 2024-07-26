@@ -27918,3 +27918,11 @@ She plays the piano.	Sie spielt Klavier.	वह पियानो बजात�
 She raised her hand.	Sie hob ihre Hand.	उसने अपना हाथ उठाया।
 She reserved a room.	Sie reservierte ein Zimmer.	उसने एक कमरा आरक्षित किया।
 She rubbed her eyes.	Sie rieb sich die Augen.	उसने अपनी आंखें पोंछी।
+She sat next to him.	Sie hat neben ihm gesessen.	उसने उसके पास बैठा।
+She seldom goes out.	Sie geht selten aus.	वह बहुत कम बाहर जाती है।
+She shaved her head.	Sie hat sich den Kopf rasiert.	उसने अपने सिर को बाल कटवा लिए।
+She shaves her legs.	Sie rasiert ihre Beine.	वह अपनी टांगों को छिलती है।
+She sings very well.	Sie singt sehr gut.	वह बहुत अच्छा गाती है।
+She speaks too much.	Sie spricht zu viel.	वह बहुत ज्यादा बोलती है।
+She still buys milk.	Sie kauft immer noch Milch.	वह अभी भी दूध खरीदती है।
+She still loved him.	Sie liebte ihn immer noch.	वह अभी भी उसे प्यार करती थी।
