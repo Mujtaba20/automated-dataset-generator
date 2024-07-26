@@ -1,14 +1,4 @@
 
-I'm leaving it to you.	Das überlasse ich dir.	यह आप पर निर्भर करता है।
-I'm leaving it to you.	Ich überlasse dir das.	मैं तुम्हें छोड़ दूँगा।
-I'm leaving it to you.	Ich überlasse euch das.	मैं आपको छोड़ देता हूं।
-I'm leaving it to you.	Ich überlasse das Ihnen.	मैं उन्हें छोड़ देता हूं।
-I'm looking after Tom.	Ich kümmere mich um Tom.	मैं टॉम का ख्याल रखता हूं।
-I'm looking for a job.	Ich suche eine Arbeitsstelle.	मैं नौकरी की तलाश कर रहा हुँ।
-I'm looking for a job.	Ich bin auf der Suche nach einer Arbeitsstelle.	मुझे एक नौकरी की तलाश है।
-I'm looking for a job.	Ich suche einen Job.	मैं नौकरी की तलाश कर रहा हुँ।
-I'm never coming back.	Ich komme nie wieder zurück.	मैं कभी वापस नहीं आया।
-I'm no longer married.	Ich bin nicht mehr verheiratet.	मैं अब शादी नहीं कर रहा हूँ।
 I'm not Tom's brother.	Ich bin nicht Toms Bruder.	मैं टॉम का भाई नहीं हूं।
 I'm not Tom. I'm John.	Ich bin nicht Tom. Ich bin Johannes.	मैं टॉम नहीं हूँ।मैं जॉन हूँ।
 I'm not a good artist.	Ich bin kein guter Künstler.	मैं एक अच्छा कलाकार नहीं हूं।

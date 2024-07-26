@@ -38232,3 +38232,8 @@ I'm just being honest.	Ich bin nur ehrlich.	मैं सिर्फ सच ब
 I'm just being polite.	Ich bin nur höflich.	मैं सिर्फ शिष्ट बना हूं।
 I'm just doing my job.	Ich mache nur meinen Job.	मैं बस अपना काम कर रहा हूं।
 I'm kind of into that.	Ich stehe irgendwie darauf.	मुझे यह थोड़ा-बहुत अच्छा लगता है।
+I'm leaving it to you.	Ich lasse es bei dir.	मैं तुम पर छोड़ देता हूँ।
+I'm looking after Tom.	Ich kümmere mich um Tom.	मैं टॉम का ध्यान रख रहा हूँ।
+I'm looking for a job.	Ich suche einen Job.	मैं नौकरी ढ़ूंढ रहा हूं।
+I'm never coming back.	Ich komme nie zurück.	मैं कभी वापस नहीं आ रहा।
+I'm no longer married.	Ich bin nicht mehr verheiratet.	मैं अब शादीशुदा नहीं हूँ।
