@@ -32834,3 +32834,12 @@ It will soon be dark.	Es wird bald dunkel werden.	जल्द ही अंध�
 It won't be for long.	Es wird nicht lange dauern.	यह लंबा समय नहीं रहेगा।
 It won't be long now.	Es wird jetzt nicht mehr lange dauern.	अब यह लंबा समय नहीं रहेगा।
 It won't be pleasant.	Es wird nicht angenehm sein.	यह सुखद नहीं होगा।
+It won't be that bad.	Es wird nicht so schlimm sein.	यह इतना बुरा नहीं होगा।
+It worked flawlessly.	Es hat einwandfrei funktioniert.	यह बिना किसी गड़बड़ से काम कर गया।
+It would've been fun.	Es hätte Spaß gemacht.	यह मज़ा आता।
+It'll be spring soon.	Bald wird Frühling sein.	जल्द ही बसंत आ जाएगा।
+It'll cost me my job.	Es wird mich meinen Job kosten.	यह मेरे नौकरी पर पड़ेगा।
+It'll soon be spring.	Es wird bald Frühling sein.	जल्द ही बसंत आने वाला है।
+It'll take some time.	Es wird etwas Zeit brauchen.	इसमें कुछ समय लगेगा।
+It's a beautiful day.	Es ist ein schöner Tag.	यह एक खूबसूरत दिन है।
+It's a beautiful job.	Es ist eine schöne Arbeit.	यह एक खूबसूरत काम है।
