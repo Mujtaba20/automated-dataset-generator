@@ -1,16 +1,4 @@
 
-You can't sit with me.	Du kannst dich nicht zu mir setzen.	तुम मेरे साथ नहीं बैठ सकते।
-You can't stop me now.	Du kannst mich jetzt nicht aufhalten.	अब आप मुझे रोक नहीं सकते।
-You can't tame a wolf.	Einen Wolf kann man nicht zähmen.	आप एक भेड़िया को वश में नहीं कर सकते।
-You can't yell at Tom.	Du kannst nicht Tom anschreien.	आप टॉम पर चिल्ला नहीं सकते।
-You cannot be serious.	Das kann nicht dein Ernst sein.	क्या आप मजाक कर रहे हैं।
-You cannot be serious.	Das kann doch nicht dein Ernst sein.	यह गंभीर नहीं हो सकता।
-You cannot be serious.	Das ist ja wohl nicht dein Ernst.	क्या आप मजाक कर रहे हैं!
-You cannot be serious.	Das soll wohl ein Witz sein.	यह एक मजाक होना चाहिए।
-You could've asked me.	Du hättest mich fragen können.	आप मुझसे पूछ सकते थे।
-You could've run away.	Du hättest weglaufen können.	आप भाग सकते थे।
-You could've run away.	Ihr hättet weglaufen können.	आप भाग सकते थे।
-You could've run away.	Sie hätten weglaufen können.	आप भाग सकते थे।
 You deserve the prize.	Du verdienst den Preis.	आप कीमत कमाते हैं।
 You did all you could.	Du hast getan, was du konntest.	आपने वही किया जो आप कर सकते थे।
 You did all you could.	Sie haben getan, was Sie konnten.	आपने वही किया जो आप कर सकते थे।
