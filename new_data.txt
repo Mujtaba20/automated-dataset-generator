@@ -33157,3 +33157,11 @@ Never come back here.	Komm niemals zurück.	कभी वापस मत आन
 Never come back here. (Different meaning)	Kommen Sie nie wieder hierher.	कभी यहाँ फिर से न लौटें।
 Nightmares are scary.	Alpträume sind gruselig.	भूत-प्रेत सपने डरावने होते हैं।
 Nightmares are scary. (Different meaning)	Alpträume sind beängstigend.	डरावने सपने डरावने होते हैं।
+No man escapes death.	Kein Mensch entkommt dem Tod.	कोई आदमी मौत से नहीं बच सकता।
+No news is good news.	Keine Nachrichten sind gute Nachrichten.	कोई समाचार अच्छी खबर नहीं है।
+No one can deny that.	Niemand kann das leugnen.	कोई इसे इनकार नहीं कर सकता।
+No one else knows it.	Niemand sonst weiß es.	कोई और नहीं जानता है।
+No one else was hurt.	Niemand sonst wurde verletzt.	किसी और को चोट नहीं लगी।
+No one escaped alive.	Niemand entkam lebendig.	कोई भी जीवित बच नहीं सका।
+No one had an answer.	Niemand hatte eine Antwort.	किसी के पास जवाब नहीं था।
+No one here can swim.	Niemand hier kann schwimmen.	यहाँ कोई तैर सकता नहीं है।
