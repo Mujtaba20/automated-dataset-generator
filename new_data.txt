@@ -27703,3 +27703,10 @@ No one really knows.	Niemand weiß es wirklich.	किसी को सच्च
 No one was arrested.	Niemand wurde verhaftet.	किसी को गिरफ्तार नहीं किया गया था।
 No one was watching.	Niemand hat zugeschaut.	किसी ने नहीं देखा था।
 No one will do this.	Niemand wird das tun.	कोई यह नहीं करेगा।
+No one will stop me.	Niemand wird mich aufhalten.	कोई मुझे रोकने नहीं पाएगा।
+No one will survive.	Niemand wird überleben.	कोई बचेगा नहीं।
+No one's interested.	Niemand ist interessiert.	किसी को भी इंटरेस्ट नहीं है।
+No, I don't want to.	Nein, ich will nicht.	नहीं, मुझे नहीं चाहिए।
+No, that's not true.	Nein, das ist nicht wahr.	नहीं, यह सच नहीं है।
+Nobody answered Tom.	Niemand hat Tom geantwortet.	कोई ने टॉम का जवाब नहीं दिया।
+Nobody believed you.	Niemand hat dir geglaubt.	कोई ने तुम्हें नहीं माना।

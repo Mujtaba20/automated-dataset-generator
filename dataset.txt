@@ -1,15 +1,4 @@
 
-No one will stop me.	Niemand wird mich aufhalten.	कोई भी मुझे रोक नहीं पाएगा।
-No one will survive.	Niemand wird überleben.	कोई भी जीवित नहीं रहेगा।
-No one will survive.	Keiner wird überleben.	कोई भी जीवित नहीं रहेगा।
-No one's interested.	Niemanden interessiert’s.	किसी को परवाह नहीं।
-No, I don't want to.	Nein, ich will nicht.	नहीं मुझे नहीं करना।
-No, that's not true.	Nein, das stimmt nicht.	नहीं, यह सही नहीं है।
-No, that's not true.	Nein, das ist nicht wahr.	नहीं, यह सच नहीं है।
-Nobody answered Tom.	Niemand antwortete Tom.	किसी ने टॉम को जवाब नहीं दिया।
-Nobody believed you.	Niemand hat dir geglaubt.	किसी ने भी आप पर विश्वास नहीं किया।
-Nobody believed you.	Niemand hat euch geglaubt.	किसी ने भी आप पर विश्वास नहीं किया।
-Nobody believed you.	Niemand hat Ihnen geglaubt.	किसी ने भी उन पर विश्वास नहीं किया।
 Nobody believes you.	Niemand glaubt dir.	कोई भी आप पर विश्वास नहीं करता है।
 Nobody believes you.	Niemand glaubt euch.	कोई भी आप पर विश्वास नहीं करता है।
 Nobody believes you.	Niemand glaubt Ihnen.	कोई भी उन पर विश्वास नहीं करता है।
