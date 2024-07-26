@@ -21456,3 +21456,13 @@ I like wearing red.	Ich trage gerne Rot.	मुझे लाल रंग पस
 I like what I like.	Ich mag, was ich mag.	मुझे वह पसंद है जो मुझे पसंद है।
 I like working out.	Ich trainiere gerne.	मुझे कसरत करना पसंद है।
 I like your coffee.	Ich mag deinen Kaffee.	मुझे तुम्हारी कॉफ़ी पसंद है।
+I like your family.	Ich mag deine Familie.	मुझे तुम्हारे परिवार पसंद है।
+I like your garden.	Ich mag deinen Garten.	मुझे तुम्हारे बगीचे पसंद है।
+I liked everything.	Ich mochte alles.	मुझे सब कुछ पसंद था।
+I liked that movie.	Ich mochte diesen Film.	मुझे वह फिल्म पसंद थी।
+I liked this movie.	Ich mochte diesen Film.	मुझे यह फिल्म पसंद थी।
+I liked your story.	Ich mochte deine Geschichte.	मुझे तुम्हारी कहानी पसंद थी।
+I liked your story. (Different meaning)	Ich mochte deine Erzählung.	मुझे तुम्हारी कहानी पसंद थी।
+I live in the city.	Ich lebe in der Stadt.	मैं शहर में रहता हूँ।
+I lived in poverty.	Ich lebte in Armut.	मैं गरीबी में रहता था।
+I long for company.	Ich sehne mich nach Gesellschaft.	मुझे कंपनी की तलाश है।

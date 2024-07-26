@@ -1,14 +1,4 @@
 
-I like your family.	Ich mag deine Familie.	मुझे आपका परिवार पसंद है।
-I like your garden.	Ich mag deinen Garten.	मुझे आपका बगीचा पसंद है।
-I liked everything.	Mir hat alles gefallen.	मुझे सब कुछ पसंद आया।
-I liked that movie.	Dieser Film gefiel mir.	मुझे यह फिल्म पसंद आई।
-I liked this movie.	Dieser Film hat mir gefallen.	मुझे यह फिल्म पसंद आई।
-I liked your story.	Deine Geschichte hat mir gefallen.	मुझे आपकी कहानी पसंद आई।
-I liked your story.	Mir hat eure Geschichte gefallen.	मुझे आपकी कहानी पसंद आई।
-I live in the city.	Ich wohne in der Stadt.	मैं शहर में रहता हूँ।
-I lived in poverty.	Ich lebte in Armut.	मैं गरीबी में रहता था।
-I long for company.	Ich sehne mich nach Gesellschaft.	मैं समाज के लिए लंबे समय से।
 I looked around me.	Ich schaute mich um.	मैंने चारों ओर देखा।
 I looked at my dog.	Ich sah meinen Hund an.	मैंने अपने कुत्ते को देखा।
 I looked for a job.	Ich suchte nach einer Arbeit.	मैं काम की तलाश में था।
