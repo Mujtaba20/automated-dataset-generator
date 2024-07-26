@@ -21787,3 +21787,10 @@ I won't assist you.	Ich werde Ihnen nicht helfen.	मैं आपकी मद�
 I won't be coerced.	Ich lasse mich nicht zwingen.	मैं मजबूर नहीं होऊँगा।
 I won't confirm it.	Ich werde es nicht bestätigen.	मैं इसे स्वीकृत नहीं करूँगा।
 I won't follow you.	Ich werde dir nicht folgen.	मैं तुम्हारे पीछे नहीं जाऊँगा।
+I won't get caught.	Ich werde nicht geschnappt.	मुझे पकड़ा नहीं जाने दूंगा।
+I won't lie to you.	Ich werde dir nicht lügen.	मैं तुमसे झूठ नहीं बोलूंगा।
+I won't say a word.	Ich werde kein Wort sagen.	मैं एक शब्द भी नहीं कहूंगा।
+I worked all night.	Ich habe die ganze Nacht gearbeitet.	मैंने पूरी रात काम किया।
+I worked in Boston.	Ich habe in Boston gearbeitet.	मैंने बोस्टन में काम किया।
+I worked on a farm.	Ich arbeitete auf einem Bauernhof.	मैंने एक खेत पर काम किया।
+I would enjoy that.	Ich würde das genießen.	मैं उसका आनंद लेंगा।
