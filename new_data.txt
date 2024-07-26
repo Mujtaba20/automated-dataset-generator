@@ -34258,3 +34258,13 @@ Tom has anger issues.	Tom hat Wutanfälle.	टॉम के पास गुस�
 Tom has bad eyesight.	Tom hat schlechtes Sehvermögen.	टॉम की नजर खराब है।
 Tom has been sedated.	Tom wurde sediert.	टॉम को चिंता किया गया है।
 Tom has been stabbed.	Tom wurde erstochen.	टॉम को चाकू घोंपा गया है।
+Tom has been wounded.	Tom wurde verwundet.	टॉम को चोट लगी है।
+Tom has big problems.	Tom hat große Probleme.	टॉम के पास बड़ी समस्याएं हैं।
+Tom has changed jobs.	Tom hat den Job gewechselt.	टॉम ने नौकरी बदल दी है।
+Tom has children now.	Tom hat jetzt Kinder.	अब टॉम के बच्चे हैं।
+Tom has enough money.	Tom hat genug Geld.	टॉम के पास पर्याप्त पैसा है।
+Tom has gone bananas.	Tom ist ausgerastet.	टॉम पागल हो गया है।
+Tom has gone fishing.	Tom ist angeln gegangen.	टॉम मछली पकड़ने चला गया है।
+Tom has gone too far.	Tom ist zu weit gegangen.	टॉम ने ज्यादा दूर जा दिया है।
+Tom has good hearing.	Tom hat ein gutes Gehör.	टॉम की अच्छी सुनने की शक्ति है।
+Tom has helped a lot.	Tom hat viel geholfen.	टॉम ने बहुत मदद की है।

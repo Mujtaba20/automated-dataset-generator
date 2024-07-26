@@ -1,15 +1,4 @@
 
-Tom has been wounded.	Tom ist verwundet.	टॉम घायल है।
-Tom has big problems.	Tom hat große Probleme.	टॉम को बड़ी समस्याएं हैं।
-Tom has changed jobs.	Tom hat eine andere Arbeit angenommen.	टॉम ने एक और काम स्वीकार कर लिया।
-Tom has children now.	Tom hat jetzt Kinder.	टॉम के अब बच्चे हैं।
-Tom has enough money.	Tom hat genug Geld.	टॉम के पास पर्याप्त पैसा है।
-Tom has gone bananas.	Tom ist übergeschnappt.	टॉम पकड़ा जाता है।
-Tom has gone fishing.	Tom ist angeln gegangen.	टॉम मछली पकड़ने गया है।
-Tom has gone too far.	Tom ist zu weit gegangen.	टॉम बहुत दूर चला गया।
-Tom has good hearing.	Tom hat gute Ohren.	टॉम के कान अच्छे हैं।
-Tom has helped a lot.	Tom hat eine Menge geholfen.	टॉम ने बहुत मदद की।
-Tom has helped a lot.	Tom hat viel geholfen.	टॉम ने बहुत मदद की।
 Tom has his own room.	Tom hat sein eigenes Zimmer.	टॉम का अपना कमरा है।
 Tom has his own room.	Tom hat ein eigenes Zimmer.	टॉम का अपना कमरा है।
 Tom has just arrived.	Tom ist gerade angekommen.	टॉम अभी आ गया है।
