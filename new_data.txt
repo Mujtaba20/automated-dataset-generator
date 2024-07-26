@@ -38101,3 +38101,13 @@ I'd love to know that.	Ich würde gerne das wissen.	मेरे बस मे�
 I'd prefer a sandwich.	Ich hätte lieber ein Sandwich.	मैं एक सैंडविच पसंद करूँगा।
 I'll ask Tom tomorrow.	Ich werde Tom morgen fragen.	मैं कल टॉम से पूछूंगा।
 I'll be busy tomorrow.	Ich werde morgen beschäftigt sein.	कल मैं व्यस्त रहूँगा।
+I'll be on my way now.	Ich werde jetzt gehen.	मैं अब अपने रास्ते पर हूँ।
+I'll be there all day.	Ich werde den ganzen Tag dort sein.	मैं पूरे दिन वहाँ होंगा।
+I'll be there at 2:30.	Ich werde um 2:30 Uhr dort sein.	मैं 2:30 बजे वहाँ होंगा।
+I'll be there by 2:30.	Ich werde bis 2:30 Uhr dort sein.	मैं 2:30 तक वहाँ हो जाऊंगा।
+I'll be there for you.	Ich werde für dich da sein.	मैं तुम्हारे लिए वहाँ होंगा।
+I'll call again later.	Ich werde später nochmal anrufen.	मैं बाद में फिर से कॉल करूँगा।
+I'll call him tonight.	Ich werde ihn heute Abend anrufen.	मैं आज रात उसे कॉल करूँगा।
+I'll call you tonight.	Ich werde dich heute Abend anrufen.	मैं आज रात तुम्हें कॉल करूँगा।
+I'll come and get you.	Ich werde kommen und dich abholen.	मैं आकर तुम्हें लेने आऊँगा।
+I'll cross my fingers.	Ich werde die Daumen drücken.	मैं अपने उंगलियां बांध लूँगा।
