@@ -37434,3 +37434,11 @@ I had a talk with Tom.	Ich habe mit Tom gesprochen.	मैंने टॉम �
 I had a talk with Tom.1	Ich hatte ein Gespräch mit Tom.	मैंने टॉम के साथ चर्चा की।
 I had better ask them.	Ich sollte sie lieber fragen.	मुझे बेहतर है उसे पूछना चाहिए।
 I had dinner with Tom.	Ich hatte Abendessen mit Tom.	मैंने टॉम के साथ रात का खाना खाया।
+I had my money stolen.	Mir wurde mein Geld gestohlen.	मेरे पैसे चोरी हो गए।
+I had my watch stolen.	Mir wurde meine Uhr gestohlen.	मेरी घड़ी चोरी हो गई।
+I had no other choice.	Ich hatte keine andere Wahl.	मेरे पास कोई और विकल्प नहीं था।
+I had nothing to lose.	Ich hatte nichts zu verlieren.	मेरे पास हारने के लिए कुछ नहीं था।
+I had nowhere to hide.	Ich hatte keinen Ort zum Verstecken.	मेरा कहीं छुपने का स्थान नहीं था।
+I had to be very firm.	Ich musste sehr bestimmt sein.	मुझे बहुत दृढ़ होना था।
+I had to stay at home.	Ich musste zu Hause bleiben.	मुझे घर पर रहना पड़ा।
+I happen to live here.	Ich wohne hier zufällig.	मुझे यहाँ रहना हुआ।
