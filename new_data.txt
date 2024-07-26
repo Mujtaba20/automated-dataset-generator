@@ -40718,3 +40718,13 @@ Tom sneezed violently.	Tom hat heftig geniest.	टॉम जोर से ची
 Tom sold all his land.	Tom verkaufte all sein Land.	टॉमने अपनी सारी ज़मीन बेच दी।
 Tom sounded exhausted.	Tom klang erschöpft.	टॉम थका हुआ लग रहा था।
 Tom sounded irritated.	Tom klang gereizt.	टॉम चिढ़ा हुआ लग रहा था।
+Tom sounded surprised.	Tom klang überrascht.	टॉम अचानक सुरप्रिज़ लग रहा था।
+Tom sounds frightened.	Tom klingt verängstigt.	टॉम डरा हुआ दिखाई देता है।
+Tom spared no expense.	Tom scheute keine Kosten.	टॉम ने खर्च से बचा नहीं।
+Tom spilled his drink.	Tom verschüttete sein Getränk.	टॉम ने अपना पेय छलकाया।
+Tom spit on the floor.	Tom spuckte auf den Boden.	टॉम ने ज़मीन पर थूका।
+Tom spoke only French.	Tom sprach nur Französisch.	टॉम सिर्फ फ्रेंच बोलता था।
+Tom spoke very loudly.	Tom sprach sehr laut.	टॉम बहुत जोर से बोला।
+Tom started shivering.	Tom begann zu zittern.	टॉम ठंडी पड़ गया।
+Tom started to giggle.	Tom fing an zu kichern.	टॉम हंसी आना शुरू कर दी।
+Tom started to shiver.	Tom begann zu schaudern.	टॉम ठंडी महसूस करने लगा।
