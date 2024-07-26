@@ -35156,3 +35156,12 @@ We didn't do a thing.	Wir haben nichts getan.	हमने कुछ नही�
 We don't accept tips.	Wir nehmen kein Trinkgeld an.	हम सुझाव स्वीकार नहीं करते।
 We don't belong here.	Wir gehören hier nicht hin.	हम यहाँ के नहीं हैं।
 We don't do anything.	Wir tun nichts.	हम कुछ नहीं करते।
+We don't have a plan.	Wir haben keinen Plan.	हमारे पास कोई सजावट नहीं है।
+We don't have a pool.	Wir haben kein Schwimmbad.	हमारे पास कोई पूल नहीं है।
+We don't want to die.	Wir wollen nicht sterben.	हम मरना नहीं चाहते।
+We elected her mayor.	Wir haben sie zur Bürgermeisterin gewählt.	हमने उसे मेयर चुना।
+We enjoy watching TV.	Wir genießen es, fernzusehen.	हमे टीवी देखने में मजा आता है।
+We feel bad for them.	Wir fühlen uns schlecht für sie.	हमें उनके लिए बुरा लग रहा है।
+We finished the work.	Wir haben die Arbeit beendet.	हमने काम समाप्त कर दिया।
+We had a lovely meal.	Wir hatten eine schöne Mahlzeit.	हमने एक प्यारी मीट की थी।
+We had fun with them.	Wir haben uns mit ihnen amüsiert.	हमारे साथ मज़ा किया।
