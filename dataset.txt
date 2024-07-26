@@ -1,14 +1,4 @@
 
-Tom is a zookeeper.	Tom ist Zoowärter.	टॉम एक चिड़ियाघर हार्डनर है।
-Tom is about to go.	Tom ist im Begriff zu gehen.	टॉम जाने वाला है।
-Tom is almost deaf.	Tom ist fast taub.	टॉम लगभग बहरा है।
-Tom is always busy.	Tom ist immer beschäftigt.	टॉम हमेशा व्यस्त रहता है।
-Tom is always good.	Tom ist immer brav.	टॉम हमेशा अच्छा होता है।
-Tom is always here.	Tom ist immer hier.	टॉम हमेशा यहाँ है।
-Tom is always nice.	Tom ist immer nett.	टॉम हमेशा अच्छा होता है।
-Tom is always sick.	Tom ist immer krank.	टॉम हमेशा बीमार रहता है।
-Tom is an employee.	Tom ist ein Angestellter.	टॉम एक कर्मचारी है।
-Tom is an engineer.	Tom ist Ingenieur.	टॉम एक इंजीनियर है।
 Tom is an evil man.	Tom ist ein böser Mensch.	टॉम एक बुरा इंसान है।
 Tom is an optician.	Tom ist Optiker.	टॉम ऑप्टिशियन है।
 Tom is at his desk.	Tom sitzt an seinem Schreibtisch.	टॉम अपने डेस्क पर बैठता है।

@@ -23611,3 +23611,13 @@ Tom is a tough guy.	Tom ist ein harter Kerl.	टॉम एक मजबूत �
 Tom is a true hero.	Tom ist ein wahrer Held.	टॉम एक सच्चा नायक है।
 Tom is a true poet.	Tom ist ein wahrer Dichter.	टॉम एक सच्चा कवि है।
 Tom is a womanizer.	Tom ist ein Frauenheld.	टॉम एक स्त्रीसम्मोहक है।
+Tom is a zookeeper.	Tom ist ein Tierpfleger.	टॉम एक चिड़ीयाघर जानवर पालने वाला है।
+Tom is about to go.	Tom geht gleich.	टॉम जा रहा है।
+Tom is almost deaf.	Tom ist fast taub.	टॉम लगभग बहरा है।
+Tom is always busy.	Tom ist immer beschäftigt.	टॉम हमेशा व्यस्त रहता है।
+Tom is always good.	Tom ist immer gut.	टॉम हमेशा अच्छा है।
+Tom is always here.	Tom ist immer hier.	टॉम हमेशा यहाँ है।
+Tom is always nice.	Tom ist immer nett.	टॉम हमेशा अच्छा है।
+Tom is always sick.	Tom ist immer krank.	टॉम हमेशा बीमार रहता है।
+Tom is an employee.	Tom ist ein Angestellter.	टॉम कर्मचारी है।
+Tom is an engineer.	Tom ist ein Ingenieur.	टॉम एक इंजीनियर है।
