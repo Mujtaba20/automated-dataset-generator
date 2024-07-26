@@ -25925,3 +25925,9 @@ How did Tom find us?	Wie hat Tom uns gefunden?	टॉम ने हमें क
 How did Tom respond?	Wie hat Tom reagiert?	टॉम ने कैसे प्रतिक्रिया दी?
 How did that happen?	Wie ist das passiert?	यह कैसे हुआ?
 How did the exam go?	Wie ist die Prüfung gelaufen?	परीक्षा कैसे हुई?
+How did this happen?	Wie ist das passiert?	यह कैसे हुआ?
+How did you do this?	Wie hast du das gemacht?	तुमने यह कैसे किया?
+How did you find me?	Wie hast du mich gefunden?	तुमने मुझे कैसे ढूंढा?
+How did you find us?	Wie hast du uns gefunden?	तुमने हमें कैसे ढूंढा?
+How did you like it?	Wie hat es dir gefallen?	तुम्हें यह कैसी लगी?
+How did you like it? (Different meaning)	Wie fandest du es?	तुम्हें यह कैसा लगा?

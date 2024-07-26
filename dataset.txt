@@ -1,14 +1,4 @@
 
-How did this happen?	Wie ist das passiert?	वह कैसे हुआ?
-How did you do this?	Wie haben Sie das gemacht?	आप ने वह कैसे किया?
-How did you find me?	Wie war ich?	मैं कैसा था?
-How did you find us?	Wie hast du uns gefunden?	आप ने हमें कैसे ढूंढ़ा?
-How did you find us?	Wie habt ihr uns gefunden?	आप ने हमें कैसे ढूंढ़ा?
-How did you find us?	Wie haben Sie uns gefunden?	आप ने हमें कैसे ढूंढ़ा?
-How did you like it?	Wie mochtest du es?	आपको यह कैसा लगा?
-How did you like it?	Wie hat es dir gefallen?	आपको यह कैसा लगा?
-How did you like it?	Wie hat es Ihnen gefallen?	आपको यह कैसा लगा?
-How did you like it?	Wie hat es euch gefallen?	आपको यह कैसा लगा?
 How did you lose it?	Wie hast du es verloren?	आपने इसे कैसे खो दिया?
 How did you lose it?	Wie haben Sie es verloren?	आपने इसे कैसे खो दिया?
 How did you lose it?	Wie habt ihr es verloren?	आपने इसे कैसे खो दिया?
