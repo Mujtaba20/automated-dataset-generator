@@ -26521,3 +26521,10 @@ I meant to tell you.	Ich wollte dir sagen.	मैंने तुम्हें
 I meant you no harm.	Ich wollte dir nichts Böses.	मैंने तुम्हें कोई नुकसान नहीं पहुँचाना चाहा।
 I met Tom yesterday.	Ich habe gestern Tom getroffen.	मैंने कल टॉम से मिला।
 I met her by chance.	Ich habe sie zufällig getroffen.	मैंने उसे तकरार से मिला।
+I met him at a club.	Ich traf ihn in einem Club.	मैंने उससे एक क्लब में मिला।
+I met him by chance.	Ich traf ihn durch Zufall.	मैंने उससे भाग्य से मिला।
+I met him yesterday.	Ich habe ihm gestern getroffen.	मैंने कल उससे मिला।
+I might have cancer.	Ich könnte Krebs haben.	मुझे कैंसर हो सकता है।
+I might not like it.	Ich könnte es nicht mögen.	मुझे यह पसंद नहीं आ सकता।
+I miss Boston a lot.	Ich sehne mich sehr nach Boston.	मुझे बोस्टन की याद बहुत आती है।
+I must be going now.	Ich muss jetzt gehen.	मुझे अब चला जाना चाहिए।
