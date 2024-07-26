@@ -1,14 +1,4 @@
 
-Those horses are Tom's.	Die Pferde da gehören Tom.	घोड़े वहां हैं।
-Three people have died.	Drei Menschen sind gestorben.	तीन लोगों की मौत हो गई।
-Three shots were heard.	Es waren drei Schüsse zu hören.	सुने जाने के लिए तीन शॉट थे।
-Time cannot be stopped.	Die Zeit kann nicht angehalten werden.	समय को रोका नहीं जा सकता।
-Time is of the essence.	Die Zeit drängt.	समय समाप्त हो रहा है।
-Time is of the essence.	Es ist Eile geboten.	यह जल्दी में है।
-Time passes by quickly.	Die Zeit vergeht schnell.	समय उड़ता है।
-To me, it is important.	Mir ist es wichtig.	यह मेरे लिए महत्वपूर्ण है।
-To me, it is important.	Es ist wichtig für mich.	यह मेरे लिए महत्वपूर्ण है।
-Today is extremely hot.	Heute ist es extrem heiß.	आज यह बेहद गर्म है।
 Today is your birthday.	Heute ist dein Geburtstag.	आज तुम्हारा जन्मदिन है।
 Today is your birthday.	Heute ist Ihr Geburtstag.	आज उसका जन्मदिन है।
 Today's Tom's birthday.	Tom hat heute Geburtstag.	टॉम का आज उसका जन्मदिन है।
