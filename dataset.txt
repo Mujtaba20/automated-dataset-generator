@@ -1,14 +1,4 @@
 
-I know how this looks.	Ich weiß, wie das aussieht.	मुझे पता है कि यह कैसा दिखता है।
-I know how this works.	Ich weiß, wie das funkioniert.	मुझे पता है कि यह कैसे काम करता है।
-I know how to do that.	Ich weiß, wie man das macht.	मुझे पता है कि कैसे करना है।
-I know how to do that.	Ich weiß, wie das geht.	मुझे पता है कि यह कैसे करना है।
-I know how to do this.	Ich weiß, wie das geht.	मुझे पता है कि यह कैसे करना है।
-I know that I'm right.	Ich weiß, dass ich recht habe.	मुझे पता है कि मैं सही हूं।
-I know that Tom is in.	Ich weiß, dass Tom da ist.	मुझे पता है कि टॉम वहाँ है।
-I know that Tom knows.	Ich weiß, dass Tom es weiß.	मुझे पता है कि टॉम जानता है।
-I know these students.	Ich kenne diese Studenten.	मैं इन छात्रों को जानता हूं।
-I know this will work.	Ich weiß, dass das hier funktionieren wird.	मुझे पता है कि यह यहां काम करेगा।
 I know what I will do.	Ich weiß, was ich machen werde.	मुझे पता है कि मैं क्या करने जा रहा हूं।
 I know what I'm doing.	Ich weiß, was ich tue.	मुझे मालूम है कि मैं क्या कर रहा हूं।
 I know what Tom knows.	Ich weiß, was Tom weiß.	मुझे पता है कि टॉम क्या जानता है।

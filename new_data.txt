@@ -37593,3 +37593,12 @@ I know how Tom thinks.	Ich weiß, wie Tom denkt.	मुझे पता है �
 I know how old Tom is.	Ich weiß, wie alt Tom ist.	मुझे पता है कि टॉम कितने साल का है।
 I know how that feels.	Ich weiß, wie sich das anfühlt.	मुझे पता है कि वह कैसा लगता है।
 I know how that works.	Ich weiß, wie das funktioniert.	मुझे पता है कि यह कैसे काम करता है।
+I know how this looks.	Ich weiß, wie das aussieht.	मुझे पता है कि यह कैसा दिखता है।
+I know how this works.	Ich weiß, wie das funktioniert.	मुझे पता है कि यह कैसे काम करता है।
+I know how to do that.	Ich weiß, wie man das macht.	मुझे पता है कि वह कैसे किया जाता है।
+I know how to do this.	Ich weiß, wie man das macht.	मुझे पता है कि यह कैसे करना है।
+I know that I'm right.	Ich weiß, dass ich Recht habe.	मुझे पता है कि मैं सही हूँ।
+I know that Tom is in.	Ich weiß, dass Tom dabei ist.	मुझे पता है कि टॉम में है।
+I know that Tom knows.	Ich weiß, dass Tom weiß.	मुझे पता है कि टॉम को पता है।
+I know these students.	Ich kenne diese Schüler.	मुझे इन छात्रों का पता है।
+I know this will work.	Ich weiß, dass das funktionieren wird.	मुझे पता है कि यह काम करेगा।
