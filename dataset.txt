@@ -1,16 +1,4 @@
 
-What can you give me?	Was kannst du mir geben?	आपसे मुझे क्या मिल सकता है
-What can you give me?	Was können Sie mir geben?	आपसे मुझे क्या मिल सकता है?
-What can you give me?	Was könnt ihr mir geben?	आपसे मुझे क्या मिल सकता है?
-What can you tell us?	Was kannst du uns erzählen?	आप हमें क्या बता सकते हैं?
-What car did he take?	Welches Auto hat er genommen?	उसने कौन सी कार ली?
-What car did he take?	Welchen Wagen hat er genommen?	उसने कौन सी कार ली?
-What caused the fire?	Was ist die Brandursache?	आग का कारण क्या है?
-What caused the fire?	Was ist die Ursache des Brandes?	आग का कारण क्या है?
-What caused the fire?	Wie kam es zu dem Feuer?	आग कैसे आई?
-What day is it today?	Welchen Tag haben wir heute?	आज कौन सा दिन है?
-What day is it today?	Welcher Tag ist heute?	आज कोन सा दिन हे?
-What day is it today?	Der Wievielte ist heute?	आज कौन सी तारीख़ है?
 What did Bell invent?	Was hat Bell erfunden?	बेल ने क्या आविष्कार किया?
 What did Tom do then?	Was hat Tom dann getan?	फिर टॉम ने क्या किया?
 What did you call me?	Wie hast du mich genannt?	आपने मुझे कैसे बुलाया?

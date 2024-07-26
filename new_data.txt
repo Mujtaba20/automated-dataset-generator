@@ -35363,3 +35363,13 @@ What are your orders?	Was sind deine Befehle?	तुम्हारे आदे
 What are your wishes?	Was sind deine Wünsche?	तुम्हारी इच्छाएं क्या हैं?
 What brings you here?	Was bringt dich hierher?	तुम्हें यहाँ क्या लाया है?
 What are you writing?_1	Was schreibst du?	तुम क्या लिख रहे हो?
+engSentence1	Was kannst du mir geben?	तुम मुझे क्या दे सकते हो?
+engSentence2	Was kannst du mir geben?	तुम मुझे क्या भेज सकते हो?
+engSentence3	Was kannst du mir geben?	तुम मुझे क्या कर सकते हो?
+engSentence4	Was kannst du uns sagen?	तुम हमें क्या बता सकते हो?
+engSentence5	Welches Auto hat er genommen?	उसने कौन सी कार ली थी?
+engSentence6	Welches Auto hat er genommen?	उसने किस कार को चुना?
+engSentence7	Was hat das Feuer verursacht?	आग को किसने पैदा किया?
+engSentence8	Was hat das Feuer verursacht?	आग का क्या कारण था?
+engSentence9	Was hat das Feuer verursacht?	आग कहाँ से आयी थी?
+engSentence10	Welcher Tag ist heute?	आज कौन सा दिन है?
