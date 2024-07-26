@@ -31521,3 +31521,13 @@ I could barely sleep.	Ich konnte kaum schlafen.	मैं मुश्किल 
 I could barely speak.	Ich konnte kaum sprechen.	मैं मुश्किल से बोल पाया।
 I could barely stand.	Ich konnte kaum stehen.	मैं मुश्किल से खड़ा रह सका।
 I could be a suspect.	Ich könnte ein Verdächtiger sein.	मैं एक संदिग्ध हो सकता हूँ।
+I could imagine that.	Das könnte ich mir vorstellen.	मैं सोच सकता था कि।
+I could kill you now.	Ich könnte dich jetzt töten.	मैं अब तुम्हें मार सकता हूँ।
+I could write a book.	Ich könnte ein Buch schreiben.	मैं एक पुस्तक लिख सकता था।
+I couldn't care less.	Es ist mir völlig egal.	मुझे बिल्कुल भी परवाह नहीं।
+I couldn't stop them.	Ich konnte sie nicht aufhalten.	मैं उन्हें रोक नहीं सका।
+I count on your help.	Ich verlasse mich auf deine Hilfe.	मैं तुम्हारे सहाय पर निर्भर करता हूँ।
+I count on your assistance.	Ich zähle auf deine Unterstützung.	मैं तुम्हारे समर्थन पर निर्भर करता हूँ।
+I crossed the bridge.	Ich überquerte die Brücke.	मैंने पुल को पार कर लिया।
+I crossed the street.	Ich überquerte die Straße.	मैंने सड़क को पार कर लिया।
+I crossed the road.	Ich überquerte die Straße.	मैंने सड़क को पार कर लिया।
