@@ -30932,3 +30932,8 @@ Have you lost weight?	Hast du Gewicht verloren?	क्या आपने वज
 Have you measured it?	Hast du es gemessen?	क्या तुमने इसे मापा है?
 Have you measured it?_1	Hast du es überprüft?	क्या तुमने इसे नापा है?
 Have you measured it?_2	Hast du es festgestellt?	क्या तुमने इसे नापा है?
+Have you seen enough?	Haben Sie genug gesehen?	क्या आपने पर्याप्त देखा है?
+Have you seen my pen?	Hast du meinen Stift gesehen?	क्या आपने मेरी कलम देखी है?
+Have you seen my son?	Hast du meinen Sohn gesehen?	क्या आपने मेरे बेटे को देखा है?
+Have you sold it yet?	Hast du es schon verkauft?	क्या आपने इसे अभी तक बेच दिया है?
+He accepted her gift.	Er akzeptierte ihr Geschenk.	उसने उसका उपहार स्वीकार किया।
