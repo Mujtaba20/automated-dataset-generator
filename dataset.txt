@@ -1,14 +1,4 @@
 
-May I borrow this CD?	Könnte ich mir diese CD ausborgen?	क्या मैं इस सीडी को उधार ले सकता हूं?
-May I dance with you?	Darf ich mit dir tanzen?	क्या मैं आपके साथ नृत्य कर सकता हूं?
-May I eat this bread?	Darf ich dieses Brot essen?	क्या मैं यह रोटी खा सकता हूं?
-May I go out to play?	Kann ich raus zum Spielen gehen?	क्या मैं खेलने के लिए बाहर जा सकता हूं?
-May I have a receipt?	Könnte ich bitte eine Quittung haben?	क्या मेरे पास रसीद हो सकती है?
-May I have this book?	Kann ich dieses Buch nehmen?	क्या मैं यह पुस्तक ले सकता हूं?
-May I have this book?	Darf ich dieses Buch haben?	क्या मुझे यह पुस्तक मिल सकती है?
-May I have your name?	Darf ich Ihren Namen erfahren?	क्या मुझे आपका नाम पता चल सकता है?
-May I help you ma'am?	Darf ich Ihnen helfen, gnädige Frau?	क्या मैं आपकी मदद कर सकता हूं, एक दयालु महिला?
-May I hold your hand?	Darf ich deine Hand halten?	क्या मैं आपका हाथ पकड़ सकता हूँ?
 May I play the piano?	Darf ich auf dem Klavier spielen?	क्या मैं पियानो पर खेल सकता हूं?
 May I see that again?	Darf ich das nochmal sehen?	क्या मैं फिर से देख सकता हूँ?
 May I sit behind you?	Darf ich hinter dir sitzen?	क्या मैं तुम्हारे पीछे बैठ सकता हूँ?

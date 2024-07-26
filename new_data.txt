@@ -33059,3 +33059,12 @@ Mary shaves her legs.	Maria rasiert sich die Beine.	मेरी अपनी �
 Mary wore a necklace.	Maria trug eine Halskette.	मेरी ने एक हार पहना।
 Mary's dress is pink.	Marys Kleid ist pink.	मेरी का पोशाक गुलाबी है।
 May I ask a question?	Darf ich eine Frage stellen?	क्या मैं सवाल पूछ सकता हूँ?
+May I borrow this CD?	Darf ich diese CD ausleihen?	क्या मैं इस सीडी को उधार ले सकता हूँ?
+May I dance with you?	Darf ich mit dir tanzen?	क्या मैं आपके साथ नृत्य कर सकता हूँ?
+May I eat this bread?	Darf ich dieses Brot essen?	क्या मैं इस रोटी को खा सकता हूँ?
+May I go out to play?	Darf ich draußen spielen gehen?	क्या मैं बाहर खेलने जा सकता हूँ?
+May I have a receipt?	Kann ich einen Beleg haben?	क्या मुझे रसीद मिल सकती है?
+May I have this book?	Kann ich dieses Buch haben?	क्या मुझे यह किताब मिल सकती है?
+May I have your name?	Kann ich deinen Namen haben?	क्या मुझे आपका नाम मिल सकता है?
+May I help you ma'am?	Kann ich Ihnen helfen, gnädige Frau?	मैडम, क्या मैं आपकी मदद कर सकता हूँ?
+May I hold your hand?	Darf ich deine Hand halten?	क्या मैं आपका हाथ पकड़ सकता हूँ?
