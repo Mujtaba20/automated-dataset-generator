@@ -1,15 +1,4 @@
 
-I can't wait for you.	Ich kann nicht auf dich warten.	मैं तुम्हारे लिए इंतजार नहीं कर सकता।
-I can't wait forever.	Ich kann nicht ewig warten.	मैं हमेशा के लिए इंतजार नहीं कर सकता।
-I can't walk anymore.	Ich kann nicht mehr gehen.	मैं अब और नहीं जा सकता।
-I can't walk anymore.	Ich kann nicht mehr laufen.	मैं अब और नहीं चल सकता।
-I can't work for you.	Ich kann nicht für dich arbeiten.	मैं आपके लिए काम नहीं कर सकता।
-I can't work for you.	Ich kann nicht für Sie arbeiten.	मैं आपके लिए काम नहीं कर सकता।
-I cannot read French.	Ich kann kein Französisch lesen.	मैं फ्रेंच नहीं पढ़ सकता।
-I caused an accident.	Ich habe einen Unfall verursacht.	मैंने एक दुर्घटना का कारण बना।
-I checked everywhere.	Ich habe überall nachgesehen.	मैंने हर जगह जाँच की।
-I chose not to leave.	Ich beschloss, nicht wegzugehen.	मैंने फैसला किया कि वे दूर न जाएं।
-I chose not to leave.	Ich habe mich entschlossen, nicht wegzugehen.	मैंने फैसला किया कि वे दूर न जाएं।
 I cleaned the toilet.	Ich habe die Toilette sauber gemacht.	मैंने शौचालय को साफ किया।
 I cleared up my desk.	Ich habe meinen Schreibtisch aufgeräumt.	मैंने अपनी मेज को साफ किया।
 I collect rare coins.	Ich sammle seltene Münzen.	मैं दुर्लभ सिक्के इकट्ठा करता हूं।

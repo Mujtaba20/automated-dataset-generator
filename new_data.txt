@@ -31503,3 +31503,11 @@ I can't speak French.	Ich kann kein Französisch sprechen.	मैं फ्र�
 I can't speak to Tom.	Ich kann nicht mit Tom sprechen.	मैं टॉम से बात नहीं कर सकता।
 I can't tell you yet.	Ich kann es dir noch nicht sagen.	मैं अभी तक तुम्हें नहीं बता सकता।
 I can't wait all day.	Ich kann nicht den ganzen Tag warten.	मैं पूरे दिन इंतजार नहीं कर सकता।
+I can't wait for you.	Ich kann nicht auf dich warten.	मैं तुम्हारे लिए इंतजार नहीं कर सकता।
+I can't wait forever.	Ich kann nicht für immer warten.	मैं हमेशा तक इंतजार नहीं कर सकता।
+I can't walk anymore.	Ich kann nicht mehr laufen.	मैं अब और नहीं चल सकता।
+I can't work for you.	Ich kann nicht für dich arbeiten.	मैं तुम्हारे लिए काम नहीं कर सकता।
+I cannot read French.	Ich kann kein Französisch lesen.	मैं फ्रेंच नहीं पढ़ सकता।
+I caused an accident.	Ich habe einen Unfall verursacht.	मैंने एक दुर्घटना का कारण बनाया।
+I checked everywhere.	Ich habe überall nachgeschaut.	मैंने हर जगह चेक किया।
+I chose not to leave.	Ich habe mich entschieden, nicht zu gehen.	मैंने छोड़ने का नहीं चुना।
