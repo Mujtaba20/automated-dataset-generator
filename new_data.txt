@@ -28959,3 +28959,13 @@ Tom is still crying.	Tom weint immer noch.	टॉम अब भी रो रह
 Tom is still in bed.	Tom liegt immer noch im Bett.	टॉम अब भी बिस्तर पर हैं।
 Tom is still inside.	Tom ist immer noch drinnen.	टॉम अब भी अंदर हैं।
 Tom is still sleepy.	Tom ist noch schläfrig.	टॉम अभी भी उदासी में हैं।
+Tom is such a loser.	Tom ist so ein Verlierer.	टॉम ऐसा हारने वाला है।
+Tom is such a moron.	Tom ist so ein Idiot.	टॉम एक बेवकूफ है।
+Tom is such a sissy.	Tom ist so ein Weichei.	टॉम एक लज्जाशील व्यक्ति है।
+Tom is sure to come.	Tom wird sicher kommen.	टॉम जरूर आएगा।
+Tom is sweating now.	Tom schwitzt gerade.	टॉम अब पसीना बहा रहा है।
+Tom is swimming now.	Tom schwimmt gerade.	टॉम अब तैर रहा है।
+Tom is the greatest.	Tom ist der Größte.	टॉम सबसे महान है।
+Tom is the murderer.	Tom ist der Mörder.	टॉम हत्यारा है।
+Tom is the new boss.	Tom ist der neue Chef.	टॉम नया बॉस है।
+Tom is the youngest.	Tom ist der Jüngste.	टॉम सबसे छोटा है।
