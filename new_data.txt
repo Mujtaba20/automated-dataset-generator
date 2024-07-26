@@ -23384,3 +23384,12 @@ Tom couldn't do it.	Tom könnte es nicht tun.	टॉम यह करने म�
 Tom couldn't sleep.	Tom konnte nicht schlafen.	टॉम सो नहीं सका।
 Tom couldn't speak.	Tom konnte nicht sprechen.	टॉम बोल नहीं सका।
 Tom cracked a joke.	Tom hat einen Scherz gemacht.	टॉम ने एक जोक मारा।
+Tom cried for help.	Tom schrie um Hilfe.	टॉम ने मदद के लिए रोना शुरू किया।
+Tom cycles to work.	Tom fährt mit dem Fahrrad zur Arbeit.	टॉम कार्य के लिए साइकिल चलाता है।
+Tom danced with me.	Tom tanzte mit mir.	टॉम ने मेरे साथ नृत्य किया।
+Tom denied nothing.	Tom leugnete nichts.	टॉम ने कुछ भी इनकार नहीं किया।
+Tom did a nice job.	Tom machte gute Arbeit.	टॉमने अच्छा काम किया।
+Tom did it for fun.	Tom machte es zum Spaß.	टॉमने मजे के लिए किया।
+Tom did it himself.	Tom hat es alleine gemacht.	टॉमने यह खुद किया।
+Tom did that a lot.	Tom hat das oft gemacht.	टॉमने बहुत सारी बार यह किया।
+Tom did this to me.	Tom hat das mir getan.	टॉमने यह मेरे साथ किया।

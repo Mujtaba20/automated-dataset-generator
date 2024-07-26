@@ -1,14 +1,4 @@
 
-Tom cried for help.	Tom rief um Hilfe.	टॉम ने मदद के लिए बुलाया।
-Tom cycles to work.	Tom fährt mit dem Fahrrad zur Arbeit.	टॉम बाइक से काम करने जाता है।
-Tom danced with me.	Tom tanzte mit mir.	टॉम ने मेरे साथ नृत्य किया।
-Tom denied nothing.	Tom hat nichts abgestritten.	टॉम ने कुछ भी इनकार नहीं किया।
-Tom did a nice job.	Tom hat gute Arbeit geleistet.	टॉम ने अच्छा काम किया।
-Tom did it for fun.	Tom machte es zum Spaß.	टॉम ने इसे मजेदार बना दिया।
-Tom did it himself.	Tom hat es selbst gemacht.	टॉम ने खुद किया।
-Tom did that a lot.	Tom tat dies oft.	टॉम ने अक्सर ऐसा किया।
-Tom did that a lot.	Tom hat das viel gemacht.	टॉम ने बहुत कुछ किया।
-Tom did this to me.	Tom hat mir das angetan.	टॉम ने मेरे साथ ऐसा किया।
 Tom didn't approve.	Tom stimmte nicht zu.	टॉम सहमत नहीं था।
 Tom didn't approve.	Tom hat nicht zugestimmt.	टॉम सहमत नहीं थे।
 Tom didn't deny it.	Tom hat es nicht abgestritten.	टॉम ने इससे इनकार नहीं किया।
