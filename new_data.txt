@@ -26707,3 +26707,11 @@ I think you're nice.	Ich denke, du bist nett.	मुझे लगता है �
 I think you're nuts.	Ich denke, du bist verrückt.	मुझे लगता है कि तुम पागल हो।
 I thought about Tom.	Ich habe an Tom gedacht.	मैंने टॉम के बारे में सोचा।
 I thought about you.	Ich habe an dich gedacht.	मैंने तुम्हारे बारे में सोचा।
+I thought that, too.	Das habe ich auch gedacht.	मैंने भी यह सोचा था।
+I threw my back out.	Ich habe meinen Rücken verrenkt.	मैंने अपनी पीठ को बाहर निकाल दिया।
+I told Tom I'd wait.	Ich habe Tom gesagt, dass ich warten werde.	मैंने टॉम को कहा कि मैं प्रतीक्षा करूँगा।
+I took a wrong turn.	Ich habe eine falsche Abzweigung genommen.	मैंने गलत मोड़ लिया।
+I took care of that.	Ich habe mich darum gekümmert.	मैंने उसका ध्यान रखा।
+I took my shirt off.	Ich habe mein Hemd ausgezogen.	मैंने अपनी कमीज़ उतारी।
+I took off my shirt.	Ich habe mein Shirt ausgezogen.	मैंने अपनी सर्ट उतारी।
+I took my shoes off.	Ich habe meine Schuhe ausgezogen.	मैंने अपने जूते उतारे।
