@@ -1,17 +1,4 @@
 
-These are wonderful.	Diese sind wunderbar.	ये अद्भुत हैं।
-These belong to Tom.	Die gehören Tom.	वे टॉम के हैं।
-These books are new.	Diese Bücher sind neu.	ये किताबें नई हैं।
-These boys are wild.	Diese Jungen sind eine Rasselbande.	ये लड़के एक तेजस्वी गिरोह हैं।
-These must be Tom's.	Das müssen Toms sein.	यह टॉम्स होना चाहिए।
-These shoes hurt me.	In diesen Schuhen tun mir die Füße weh.	मेरे पैर इन जूतों में चोट लगी।
-These things happen.	Sowas passiert.	ऐसा कुछ होता है।
-They are Christians.	Sie sind Christen.	आप ईसाई हैं।
-They are in the way.	Sie sind im Weg.	आप रास्ते में हैं।
-They are my cousins.	Das sind meine Cousins.	ये मेरे चचेरे भाई हैं।
-They are my cousins.	Das sind meine Cousinen.	ये मेरे चचेरे भाई हैं।
-They are my cousins.	Das sind meine Cousins und Cousinen.	ये मेरे चचेरे भाई हैं।
-They are my cousins.	Das sind mein Cousin und meine Cousine.	ये मेरे चचेरे भाई और मेरे चचेरे भाई हैं।
 They are my friends.	Das sind meine Freunde.	ये मेरे दोस्त हैं।
 They are my sisters.	Sie sind meine Schwestern.	वे मेरी बहनें हैं।
 They are unreliable.	Sie sind unzuverlässig.	वे अविश्वसनीय हैं।

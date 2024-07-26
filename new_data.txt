@@ -28289,3 +28289,13 @@ These are not words.	Das sind keine Worte.	ये शब्द नहीं ह�
 These are our books.	Das sind unsere Bücher.	ये हमारी किताबें हैं।
 These are the names.	Das sind die Namen.	ये नाम हैं।
 These are the rules.	Das sind die Regeln.	ये नियम हैं।
+These are wonderful.	Diese sind wunderbar.	ये बहुत अच्छे हैं।
+These belong to Tom.	Diese gehören zu Tom.	ये टॉम के हैं।
+These books are new.	Diese Bücher sind neu.	ये किताबें नई हैं।
+These boys are wild.	Diese Jungen sind wild.	ये लड़के जंगली हैं।
+These must be Tom's.	Diese müssen Toms sein.	ये शायद टॉम के होंगे।
+These shoes hurt me.	Diese Schuhe tun mir weh.	ये जूते मुझे चोट पहुंचाते हैं।
+These things happen.	Dies passiert.	ये चीजें होती रहती हैं।
+They are Christians.	Sie sind Christen.	वे ईसाई हैं।
+They are in the way.	Sie sind im Weg.	वे रास्ते में हैं।
+They are my cousins.	Sie sind meine Cousins.	वे मेरे चचेरे भाई बहन हैं।
