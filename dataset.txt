@@ -1,14 +1,4 @@
 
-Tom hates calculus.	Tom hasst Differential- und Integralrechnung.	टॉम अंतर और अभिन्न गणना से नफरत करता है।
-Tom hates children.	Tom hasst Kinder.	टॉम को बच्चों से नफरत है।
-Tom hates his life.	Tom hasst sein Leben.	टॉम अपने जीवन से नफरत करता है।
-Tom hates his name.	Tom hasst seinen Namen.	टॉम को अपने नाम से नफरत है।
-Tom hates shopping.	Tom hasst es einzukaufen.	टॉम को खरीदारी करनी है।
-Tom hates studying.	Tom hasst Studieren.	टॉम अध्ययन से नफरत करता है।
-Tom helped himself.	Tom half sich selbst.	टॉम ने खुद की मदद की।
-Tom helped himself.	Tom hat sich selbst bedient.	टॉम ने खुद सेवा की।
-Tom helped me move.	Tom hat mir beim Umziehen geholfen.	टॉम ने मुझे बदलने में मदद की।
-Tom hit the target.	Tom hat die Zielscheibe getroffen.	टॉम ने लक्ष्य मारा।
 Tom inhaled deeply.	Tom atmete tief ein.	टॉम ने एक गहरी सांस ली।
 Tom interrupted me.	Tom unterbrach mich.	टॉम ने मुझे बाधित किया।
 Tom is Mary's boss.	Tom ist Marias Chef.	टॉम मारिया का बॉस है।

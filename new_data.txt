@@ -23546,3 +23546,12 @@ Tom has white hair.	Tom hat weißes Haar.	टॉम के बाल सफे�
 Tom has work to do.	Tom hat Arbeit zu erledigen.	टॉम के पास काम करने के लिए काम है।
 Tom has worked out.	Tom hat trainiert.	टॉम ने काम किया है।
 Tom hasn't changed.	Tom hat sich nicht verändert.	टॉम ने कोई बदलाव नहीं किया है।
+Tom hates calculus.	Tom hasst Analysis.	टॉम को केल्कुलस से नफरत है।
+Tom hates children.	Tom hasst Kinder.	टॉम को बच्चों से नाफरत है।
+Tom hates his life.	Tom hasst sein Leben.	टॉम को अपने जीवन से नफरत है।
+Tom hates his name.	Tom hasst seinen Namen.	टॉम को अपने नाम से नफरत है।
+Tom hates shopping.	Tom hasst Einkaufen.	टॉम को खरीदारी से नफरत है।
+Tom hates studying.	Tom hasst das Studieren.	टॉम को पढ़ाई करने से नफरत है।
+Tom helped himself.	Tom half sich selbst.	टॉम ने खुद की मदद की।
+Tom helped me move.	Tom half mir beim Umzug.	टॉम ने मुझे बदलने में मदद की।
+Tom hit the target.	Tom traf das Ziel.	टॉम ने लक्ष्य को मारा।
