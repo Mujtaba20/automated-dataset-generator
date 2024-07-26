@@ -24974,3 +24974,10 @@ You're incompetent.	Du bist unqualifiziert.	तुम अक्षम हो।
 You're interesting.	Du bist spannend.	तुम दिलचस्प हो।
 You're introverted.	Du bist zurückhaltend.	तुम भावुक हो।
 You're just a girl.	Du bist nur ein Mädchen.	तुम सिर्फ एक लड़की हो।
+You're like family.	Du bist wie eine Familie.	तुम परिवार के जैसे हो।
+You're lying again.	Du lügst wieder.	तुम फिर से झूठ बोल रहे हो।
+You're lying to me.	Du lügst mich an.	तुम मुझसे झूठ बोल रहे हो।
+You're lying to me. (Different Meaning)	Du belügst mich.	तुम मुझे धोखा दे रहे हो।
+You're my neighbor.	Du bist mein Nachbar.	तुम मेरे पड़ोसी हो।
+You're my neighbor. (Different Meaning)	Du bist mein Nachbar.	तुम मेरे गाँव के पास हो।
+You're my princess.	Du bist meine Prinzessin.	तुम मेरी राजकुमारी हो।

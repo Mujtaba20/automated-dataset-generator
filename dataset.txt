@@ -1,14 +1,4 @@
 
-You're like family.	Du bist wie Familie.	आप परिवार की तरह हैं।
-You're lying again.	Du lügst schon wieder.	आप फिर से झूठ बोल रहे हैं।
-You're lying to me.	Du lügst mich an.	आप मुझसे झूठ बोल रहे हैं।
-You're lying to me.	Du belügst mich.	आप मुझसे झूठ बोल रहे हैं।
-You're lying to me.	Du lügst mich doch an!	तुम मुझ पर झूठ बोल रहे हो!
-You're my neighbor.	Sie sind mein Nachbar.	तुम मेरे पड़ोसी हो।
-You're my neighbor.	Du bist mein Nachbar.	तुम मेरे पड़ोसी हो।
-You're my neighbor.	Du bist meine Nachbarin.	तुम मेरे पड़ोसी हो।
-You're my neighbor.	Sie sind meine Nachbarin.	तुम मेरे पड़ोसी हो।
-You're my princess.	Du bist meine Prinzessin.	तुम मेरी राजकुमारी हो।
 You're not dressed.	Du bist nicht angezogen.	आप तैयार नहीं हैं।
 You're not dressed.	Sie sind nicht bekleidet.	आप तैयार नहीं हैं।
 You're not dressed.	Ihr seid nicht angezogen.	आप तैयार नहीं हैं।
