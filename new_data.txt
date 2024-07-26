@@ -36761,3 +36761,11 @@ engSentence7	Er ignorierte ihren Rat.	उसने उसकी सलाह क
 engSentence8	Er interpretierte für mich.	उसने मेरे लिए भाषांतरित किया।
 engSentence9	Er ist deutscher Herkunft.	वह जन्म से जर्मन है।
 engSentence10	Er ist deutscher Abstammung.	वह जन्म से जर्मन है।
+He is a heroin addict.	Er ist ein Heroinabhängiger.	वह हेरोइन की आदतवाला है।
+He is a man of action.	Er ist ein Mann der Tat.	वह कार्यशील आदमी है।
+He is a man of reason.	Er ist ein Mann der Vernunft.	वह तर्क का आदमी है।
+He is a man of wealth.	Er ist ein wohlhabender Mann.	वह धनवान आदमी है।
+He is a self-made man.	Er ist ein Selbstgemachter Mann.	वह खुद से बने हुए व्यक्ति है।
+He is a sharp-shooter.	Er ist ein Scharfschütze.	वह तेज निशानेबाज़ है।
+He is a spoiled child.	Er ist ein verwöhntes Kind.	वह एक बिगड़ा हुआ बच्चा है।
+He is a tennis player.	Er ist ein Tennisspieler.	वह एक टेनिस खिलाड़ी है।

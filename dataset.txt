@@ -1,15 +1,4 @@
 
-He is a heroin addict.	Er ist heroinabhängig.	यह हेरोइन -निर्भर है।
-He is a man of action.	Er ist ein Mann der Tat.	वह विलेख का आदमी है।
-He is a man of reason.	Er ist ein Vernunftmensch.	वह एक कारण है।
-He is a man of wealth.	Er ist ein wohlhabender Mann.	वह एक अमीर आदमी है।
-He is a self-made man.	Er ist ein Selfmademan.	वह एक आत्म -मंडली है।
-He is a self-made man.	Er ist jemand, der es aus eigener Kraft geschafft hat.	वह कोई है जिसने इसे अपने दम पर बनाया है।
-He is a self-made man.	Er hat sich hochgearbeitet.	उन्होंने अपने तरीके से काम किया।
-He is a sharp-shooter.	Er ist ein Scharfschütze.	वह एक स्नाइपर है।
-He is a spoiled child.	Er ist ein verzogenes Kind.	वह एक विकृत बच्चा है।
-He is a tennis player.	Er ist Tennisspieler.	वह एक टेनिस खिलाड़ी है।
-He is a tennis player.	Er ist ein Tennisspieler.	वह एक टेनिस खिलाड़ी है।
 He is a very lazy boy.	Er ist ein sehr fauler Junge.	वह बहुत आलसी लड़का है।
 He is above suspicion.	Er ist über jeden Verdacht erhaben.	वह किसी भी संदेह के बारे में उठाया जाता है।
 He is afraid of death.	Er hat Furcht vor dem Tod.	वह मौत से डरता है।
