@@ -1,14 +1,4 @@
 
-Did you buy a new car?	Hast du ein neues Auto gekauft?	क्या आपने एक नई कार खरीदी?
-Did you buy a new car?	Hast du dir ein neues Auto gekauft?	क्या आपने एक नई कार खरीदी?
-Did you buy this book?	Hast du das Buch gekauft?	क्या आपने किताब खरीदी?
-Did you come with Tom?	Kamst du mit Tom?	क्या आप टॉम के साथ आए थे?
-Did you come with Tom?	Bist du mit Tom gekommen?	क्या आप टॉम के साथ आए थे?
-Did you cut the paper?	Hast du das Papier geschnitten?	क्या आपने कागज काट दिया?
-Did you eat breakfast?	Hast du gefrühstückt?	आपने नाश्ता खाया?
-Did you ever call Tom?	Hast du Tom je angerufen?	क्या आपने कभी टॉम कहा है?
-Did you ever call Tom?	Habt ihr Tom je angerufen?	क्या आपने कभी टॉम कहा है?
-Did you ever call Tom?	Haben Sie Tom je angerufen?	क्या आपने कभी टॉम कहा है?
 Did you ever kiss Tom?	Hast du Tom schon einmal geküsst?	क्या तुमने कभी टॉम चूमा है?
 Did you find a doctor?	Hast du einen Arzt gefunden?	क्या आपको एक डॉक्टर मिला?
 Did you get a haircut?	Warst du beim Friseur?	क्या आप हेयरड्रेसर के पास गए हैं?

@@ -36277,3 +36277,10 @@ Did they call my name?	Haben sie meinen Namen gerufen?	क्या उन्ह
 Did you ask the price?	Hast du nach dem Preis gefragt?	क्या तुमने कीमत पूछी थी?
 Did you bring a towel?	Hast du ein Handtuch mitgebracht?	क्या तुमने एक तौलिया लाया था?
 Did you buy Tom a dog?	Hast du Tom einen Hund gekauft?	क्या तुमने टॉम को एक कुत्ता खरीदा था?
+Did you buy a new car?	Hast du ein neues Auto gekauft?	क्या आपने नयी कार खरीदी है?
+Did you buy this book?	Hast du dieses Buch gekauft?	क्या आपने ये किताब खरीदी है?
+Did you come with Tom?	Bist du mit Tom gekommen?	क्या आप टॉम के साथ आए थे?
+Did you cut the paper?	Hast du das Papier geschnitten?	क्या आपने कागज काटा है?
+Did you eat breakfast?	Hast du gefrühstückt?	क्या तुमने नाश्ता किया है?
+Did you ever call Tom?	Hast du jemals Tom angerufen?	क्या आपने कभी भी टॉम को कॉल किया है?
+Did you ever call Tom? - 2	Haben Sie jemals Tom angerufen?	क्या आपने कभी भी टॉम को कॉल किया है?
