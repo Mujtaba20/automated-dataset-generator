@@ -1,14 +1,4 @@
 
-He's open and trusting.	Er ist offen und treuherzig.	वह खुला और वफादार है।
-He's out taking a walk.	Er geht gerade spazieren.	वह टहलने जा रहा है।
-He's probably sleeping.	Er schläft wahrscheinlich gerade.	वह शायद सो रहा है।
-He's rich and powerful.	Er ist reich und mächtig.	वह अमीर और शक्तिशाली है।
-He's smarter than them.	Er ist intelligenter als sie.	वह उससे ज्यादा बुद्धिमान है।
-He's stalling for time.	Er schindet Zeit heraus.	वह समय निकालता है।
-He's strange sometimes.	Er ist manchmal komisch.	कभी -कभी वह अजीब होता है।
-He's stronger than you.	Er ist stärker als du.	यह आपसे ज्यादा मजबूत है।
-He's stronger than you.	Er ist stärker als ihr.	यह उससे ज्यादा मजबूत है।
-He's stronger than you.	Er ist stärker als Sie.	यह उससे ज्यादा मजबूत है।
 He's such a sweetheart.	Er ist so ein Lieber.	वह एक ऐसा प्रिय है।
 He's tall and handsome.	Er ist groß und hübsch.	वह बड़ा और सुंदर है।
 He's tall and handsome.	Er ist groß und sieht gut aus.	यह बड़ा है और अच्छा लग रहा है।
