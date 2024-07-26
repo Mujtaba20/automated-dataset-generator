@@ -22477,3 +22477,13 @@ Mary is a bad girl.	Maria ist ein böses Mädchen.	मेरी एक बुर
 Mary is a waitress.	Maria ist eine Kellnerin.	मेरी एक वेट्रेस है।
 Mary is attractive.	Maria ist attraktiv.	मेरी आकर्षक है।
 Mary is hysterical.	Maria ist hysterisch.	मेरी व्याकुल है।
+Mary loves flowers.	Maria liebt Blumen.	मेरी फूलों से प्यार है।
+Mary sings soprano.	Maria singt Sopran.	मेरी सोप्रैनो गाती है।
+Mary was beautiful.	Maria war schön.	मेरी खूबसूरत थी।
+May God reward you.	Möge Gott dich belohnen.	ईश्वर तुम्हें पुरस्कृत करें।
+May God reward you. (Different Meaning)	Möge Gott dich segnen.	भगवान तुम्हें शुभकामनाएँ दे।
+May I call you Tom?	Darf ich dich Tom nennen?	क्या मैं तुम्हें टॉम कह सकता हूँ?
+May I call you Tom? (Different Meaning)	Kann ich dich anrufen, Tom?	क्या मैं तुम्हें टॉम कह सकता हूँ?
+May I have a drink?	Darf ich einen Drink haben?	क्या मुझे पीने की एक पेय मिल सकती है?
+May I pay by check?	Kann ich mit Scheck bezahlen?	क्या मैं चेक देकर भुगतान कर सकता हूँ?
+May I run with you?	Darf ich mit dir laufen?	क्या मैं तुम्हारे साथ दौड़ सकता हूँ?

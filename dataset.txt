@@ -1,14 +1,4 @@
 
-Mary loves flowers.	Mary liebt Blumen.	मैरी को फूल बहुत पसंद हैं।
-Mary sings soprano.	Maria singt Sopran.	मारिया सोप्रानो गाती है।
-Mary was beautiful.	Maria war schön.	मारिया सुंदर थी।
-May God reward you.	Gott vergelte dir’s!	भगवान इसे पुरस्कृत करें!
-May God reward you.	Möge Gott dir’s vergelten!	भगवान आपको पुरस्कृत करें!
-May I call you Tom?	Darf ich dich Tom nennen?	क्या मैं आपको टॉम कह सकता हूं?
-May I call you Tom?	Kann ich dich Tom nennen?	क्या मैं आपको टॉम कह सकता हूं?
-May I have a drink?	Dürfte ich etwas zu trinken haben?	क्या मुझे पीने के लिए कुछ हो सकता है?
-May I pay by check?	Kann ich mit Scheck zahlen?	क्या मैं चेक के साथ भुगतान कर सकता हूं?
-May I run with you?	Kann ich mit dir laufen?	क्या मैं आपके साथ दौड़ सकता हूं?
 May I sit with you?	Darf ich mich zu dir setzen?	क्या मैं आपके बगल में बैठ सकता हूं?
 May I speak to Tom?	Kann ich mit Tom sprechen?	क्या मैं टॉम से बात कर सकता हूं?
 May I speak to you?	Kann ich dich sprechen?	क्या मैं आपको बोल सकता हूं
