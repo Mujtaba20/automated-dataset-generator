@@ -25931,3 +25931,7 @@ How did you find me?	Wie hast du mich gefunden?	तुमने मुझे क
 How did you find us?	Wie hast du uns gefunden?	तुमने हमें कैसे ढूंढा?
 How did you like it?	Wie hat es dir gefallen?	तुम्हें यह कैसी लगी?
 How did you like it? (Different meaning)	Wie fandest du es?	तुम्हें यह कैसा लगा?
+How did you lose it?	Wie hast du es verloren?	तुमने यह कैसे खो दिया?
+How did you make it?	Wie hast du es gemacht?	तुमने यह कैसे बनाया?
+How did you make it?_1	Wie hast du das geschafft?	तुमने यह कैसे किया?
+How did you make it?_2	Wie bist du darauf gekommen?	तुमने यह कैसे सोचा?

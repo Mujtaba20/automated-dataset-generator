@@ -1,14 +1,4 @@
 
-How did you lose it?	Wie hast du es verloren?	आपने इसे कैसे खो दिया?
-How did you lose it?	Wie haben Sie es verloren?	आपने इसे कैसे खो दिया?
-How did you lose it?	Wie habt ihr es verloren?	आपने इसे कैसे खो दिया?
-How did you make it?	Wie hast du das getan?	आप ने वह कैसे किया?
-How did you make it?	Wie hast du es geschafft?	आपने इसे कैसे प्रबंधित किया?
-How did you make it?	Wie habt ihr es geschafft?	आपने ऐसा कैसे किया?
-How did you make it?	Wie haben Sie es geschafft?	आपने ऐसा कैसे किया?
-How did you make it?	Wie hast du es gemacht?	आपने ऐसा कैसे किया?
-How did you make it?	Wie habt ihr es gemacht?	आपने ऐसा कैसे किया?
-How did you make it?	Wie haben Sie es gemacht?	आपने ऐसा कैसे किया?
 How do I explain it?	Wie erkläre ich es?	मैं इसे कैसे समझाऊं?
 How do magnets work?	Wie funktionieren Magnete?	मैग्नेट कैसे काम करते हैं?
 How do they do that?	Wie machen sie das?	आप उसे कैसे करते हैं?
