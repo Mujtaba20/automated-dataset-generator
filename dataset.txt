@@ -1,15 +1,4 @@
 
-I've got a good idea.	Ich habe eine gute Idee.	मेरे पास एक अच्छा सुझाव है।
-I've got a lot to do.	Ich habe viel zu tun.	मैं बहुत कुछ करना है।
-I've got a pacemaker.	Ich habe einen Herzschrittmacher.	मेरे पास एक पेसमेकर है।
-I've got a toothache.	Ich habe Zahnschmerzen.	मेरे दांत में दर्द है.
-I've got to call Tom.	Ich muss Tom anrufen.	मुझे टॉम को फोन करना है।
-I've got to find Tom.	Ich muss Tom finden.	मुझे टॉम ढूंढना है।
-I've got to help Tom.	Ich muss Tom helfen.	मुझे टॉम की मदद करनी है।
-I've got to help Tom.	Ich muss dem Tom helfen.	मुझे टॉम की मदद करनी है।
-I've got to warn Tom.	Ich muss Tom warnen.	मुझे टॉम को चेतावनी देनी है।
-I've got what I need.	Ich habe, was ich brauche.	मेरे पास वही है जो मुझे चाहिए।
-I've got what I need.	Ich habe, was ich benötige.	मेरे पास वही है जो मुझे चाहिए।
 I've had a busy week.	Ich habe eine geschäftige Woche hinter mir.	मेरे पास एक व्यस्त सप्ताह है।
 I've had a lousy day.	Ich habe einen lausigen Tag hinter mir.	मेरे पीछे एक घटिया दिन है।
 I've had it with Tom.	Ich habe genug von Tom!	मेरे पास टॉम है!

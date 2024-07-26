@@ -32645,3 +32645,12 @@ I've found something.	Ich habe etwas gefunden.	मैंने कुछ मि�
 I've given up on Tom.	Ich habe bei Tom aufgegeben.	मैंने टॉम को छोड़ दिया है।
 I've given up on you.	Ich habe bei dir aufgegeben.	मैंने तुम्हारे ऊपर हार मान ली है।
 I've got a flat tire.	Ich habe einen platten Reifen.	मेरे पास एक फ्लैट टायर है।
+I've got a good idea.	Ich habe eine gute Idee.	मेरे पास एक अच्छी विचार है।
+I've got a lot to do.	Ich habe viel zu tun.	मुझे बहुत करना है।
+I've got a pacemaker.	Ich habe einen Herzschrittmacher.	मेरे पास एक पेसमेकर है।
+I've got a toothache.	Ich habe Zahnschmerzen.	मुझे दांत दर्द है।
+I've got to call Tom.	Ich muss Tom anrufen.	मुझे टॉम को फोन करना है।
+I've got to find Tom.	Ich muss Tom finden.	मुझे टॉम को ढूंढना है।
+I've got to help Tom.	Ich muss Tom helfen.	मुझे टॉम की मदद करनी है।
+I've got to warn Tom.	Ich muss Tom warnen.	मुझे टॉम को चेतावनी देनी है।
+I've got what I need.	Ich habe, was ich brauche.	मेरे पास वह है जो मुझे चाहिए।
