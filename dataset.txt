@@ -1,14 +1,4 @@
 
-I think Tom loves Mary.	Ich glaube, Tom liebt Maria.	मुझे लगता है कि टॉम मारिया से प्यार करता है।
-I think Tom made it up.	Ich denke, Tom hat das frei erfunden.	मुझे लगता है कि टॉम ने आविष्कार किया।
-I think Tom misses you.	Ich glaube, Tom vermisst dich.	मुझे लगता है कि टॉम आपको याद करता है।
-I think Tom misses you.	Ich glaube, Tom vermisst euch.	मुझे लगता है कि टॉम आपको याद करता है।
-I think Tom misses you.	Ich glaube, Tom vermisst Sie.	मुझे लगता है कि टॉम उसे याद करता है।
-I think Tom misses you.	Ich glaube, du fehlst Tom.	मुझे लगता है कि आप टॉम को याद करते हैं।
-I think Tom misses you.	Ich glaube, ihr fehlt Tom.	मुझे लगता है कि आप टॉम को याद कर रहे हैं।
-I think Tom misses you.	Ich glaube, Sie fehlen Tom.	मुझे लगता है कि वे टॉम को याद कर रहे हैं।
-I think Tom wants more.	Ich glaube, Tom möchte mehr.	मुझे लगता है कि टॉम अधिक चाहता है।
-I think Tom was hungry.	Ich glaube, Tom hatte Hunger.	मुझे लगता है कि टॉम भूखा था।
 I think he has done it.	Ich glaube, dass er es getan hat.	मुझे लगता है कि उसने ऐसा किया।
 I think he has done it.	Ich glaube, dass er es gemacht hat.	मुझे लगता है कि उसने ऐसा किया।
 I think he is a doctor.	Ich denke, er ist Arzt.	मुझे लगता है कि वह एक डॉक्टर है।
