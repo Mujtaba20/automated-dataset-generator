@@ -1,14 +1,4 @@
 
-Tom is wearing a hat.	Tom trägt einen Hut.	टॉम एक टोपी पहनता है।
-Tom is wearing a tux.	Tom trägt einen Smoking.	टॉम एक टक्सिडो पहनता है।
-Tom is wearing a wig.	Tom hat eine Perücke auf.	टॉम के पास एक विग है।
-Tom is working on it.	Tom arbeitet daran.	टॉम इस पर काम कर रहा है।
-Tom is writing again.	Tom schreibt wieder.	टॉम फिर से लिखते हैं।
-Tom isn't a Canadian.	Tom ist kein Kanadier.	टॉम एक कनाडाई नहीं है।
-Tom isn't a good boy.	Tom ist kein guter Junge.	टॉम एक अच्छा लड़का नहीं है।
-Tom isn't a magician.	Tom ist kein Magier.	टॉम एक जादूगर नहीं है।
-Tom isn't a reporter.	Tom ist kein Reporter.	टॉम एक रिपोर्टर नहीं है।
-Tom isn't a rich man.	Tom ist kein reicher Mann.	टॉम एक अमीर आदमी नहीं है।
 Tom isn't a stranger.	Tom ist kein Fremder.	टॉम अजनबी नहीं है।
 Tom isn't busy today.	Tom ist heute nicht beschäftigt.	टॉम आज व्यस्त नहीं है।
 Tom isn't doing that.	Tom macht das nicht.	टॉम ऐसा नहीं करता है।

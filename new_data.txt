@@ -34559,3 +34559,13 @@ Tom is very tolerant.	Tom ist sehr tolerant.	टॉम बहुत सहनश
 Tom is walking south.	Tom geht nach Süden.	टॉम दक्षिण में चल रहा है।
 Tom is watching Mary.	Tom beobachtet Maria.	टॉम मेरी को देख रहा है।
 Tom is watching golf.	Tom schaut Golf.	टॉम गोल्फ देख रहा है।
+Tom is wearing a hat.	Tom trägt einen Hut.	टॉम एक टोपी पहन रहा है।
+Tom is wearing a tux.	Tom trägt einen Smoking.	टॉम टैक्सेडो पहन रहा है।
+Tom is wearing a wig.	Tom trägt eine Perücke.	टॉम विग पहन रहा है।
+Tom is working on it.	Tom arbeitet daran.	टॉम इस पर काम कर रहा है।
+Tom is writing again.	Tom schreibt wieder.	टॉम फिर से लिख रहा है।
+Tom isn't a Canadian.	Tom ist kein Kanadier.	टॉम कनाडियन नहीं है।
+Tom isn't a good boy.	Tom ist kein braver Junge.	टॉम अच्छे लड़के नहीं है।
+Tom isn't a magician.	Tom ist kein Magier.	टॉम जादूगर नहीं है।
+Tom isn't a reporter.	Tom ist kein Reporter.	टॉम पत्रकार नहीं है।
+Tom isn't a rich man.	Tom ist kein reicher Mann.	टॉम धनवान आदमी नहीं है।
