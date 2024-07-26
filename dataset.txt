@@ -1,14 +1,4 @@
 
-You're not dressed.	Du bist nicht angezogen.	आप तैयार नहीं हैं।
-You're not dressed.	Sie sind nicht bekleidet.	आप तैयार नहीं हैं।
-You're not dressed.	Ihr seid nicht angezogen.	आप तैयार नहीं हैं।
-You're not helping.	Sie helfen nicht.	वे मदद नहीं करते।
-You're not helping.	Du hilfst nicht.	आप मदद नहीं करते।
-You're not helping.	Ihr helft nicht.	आप मदद नहीं करते।
-You're not like me.	Du bist nicht wie ich.	तुम मेरे जैसे नहीं हो।
-You're not looking.	Du siehst ja gar nicht hin.	आप बिल्कुल नहीं देखते हैं।
-You're not my type.	Du bist nicht mein Fall.	आप मेरे मामले नहीं हैं।
-You're not my type.	Du bist nicht mein Typ.	आप मेरी तरह नहीं हैं।
 You're not special.	Du bist nichts Besonderes.	आप कुछ खास नहीं हैं।
 You're not special.	Sie sind nichts Besonderes.	वे कुछ खास नहीं हैं।
 You're on the list.	Du stehst auf der Liste.	आप सूची में हैं।

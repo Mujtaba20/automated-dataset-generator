@@ -24981,3 +24981,9 @@ You're lying to me. (Different Meaning)	Du belügst mich.	तुम मुझे
 You're my neighbor.	Du bist mein Nachbar.	तुम मेरे पड़ोसी हो।
 You're my neighbor. (Different Meaning)	Du bist mein Nachbar.	तुम मेरे गाँव के पास हो।
 You're my princess.	Du bist meine Prinzessin.	तुम मेरी राजकुमारी हो।
+You're not dressed.	Du bist nicht angezogen.	तुमे कपड़े नहीं पहने हुए हैं।
+You're not helping.	Du hilfst nicht.	तुम मदद नहीं कर रहे हैं।
+You're not like me.	Du bist nicht wie ich.	तुम मेरे जैसे नहीं हो।
+You're not looking.	Du schaust nicht.	तुम नहीं देख रहे हो।
+You're not my type.	Du bist nicht mein Typ.	तुम मेरे प्रकार के नहीं हो।
+You're not my type. (alternate translation)	Du passt nicht zu mir.	तुम मेरे लिए नापसंद हो।
