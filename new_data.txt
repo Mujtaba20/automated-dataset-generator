@@ -32187,3 +32187,11 @@ I tried to catch Tom.	Ich versuchte, Tom zu fangen.	मैंने टॉम �
 I tried to phone you.	Ich habe versucht, dich anzurufen.	मैंने तुम्हें फोन करने की कोशिश की।
 I tried to shoot Tom.	Ich versuchte, Tom zu erschießen.	मैंने टॉम को गोली मारने की कोशिश की।
 I turned off the tap.	Ich habe den Wasserhahn zugedreht.	मैंने नल बंद कर दिया।
+I turned towards Tom.	Ich drehte mich zu Tom.	मैंने टॉम की ओर मुड़ लिया।
+I underestimated Tom.	Ich habe Tom unterschätzt.	मैंने टॉम को कम समझा।
+I understood nothing.	Ich habe nichts verstanden.	मैंने कुछ नहीं समझा।
+I used Tom's hatchet.	Ich habe Toms Beil benutzt.	मैंने टॉम का हचेट उपयोग किया।
+I used to drink beer.	Früher habe ich Bier getrunken.	मैंने पहले बीयर पी थी।
+I used to live there.	Ich habe dort gelebt.	मैं वहाँ रहता था।
+I used to swim a lot.	Ich schwamm früher viel.	मैंने पहले बहुत सारा तैराकी था।
+I usually go on foot.	Ich gehe normalerweise zu Fuß.	मैं आम तौर पर पैदल जाता हूं।
