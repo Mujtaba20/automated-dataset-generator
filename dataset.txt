@@ -1,14 +1,4 @@
 
-I've heard nothing.	Ich habe nichts gehört.	मैंने कुछ नहीं सुना है।
-I've just seen Tom.	Ich habe Tom gerade gesehen.	मैंने सिर्फ टॉम देखा है।
-I've learned a lot.	Ich habe viel gelernt.	मैंने बहुत कुछ सीखा।
-I've lost my watch.	Ich habe meine Uhr verloren.	मैंने अपनी घड़ी खो दी।
-I've never met her.	Ich bin ihr noch nie begegnet.	मैं उससे कभी नहीं मिला।
-I've never met her.	Ich habe sie noch nie getroffen.	मैं उससे कभी नहीं मिला।
-I've never met him.	Ich habe ihn noch nie getroffen.	मैं उससे कभी नहीं मिला।
-I've never met him.	Ich bin ihm noch nie begegnet.	मैं उससे कभी नहीं मिला।
-I've never seen it.	Das habe ich noch nie gesehen.	मैंने पहले कभी नहीं देखा है।
-I've paid the bill.	Ich habe die Rechnung bezahlt.	मैंने बिल का भुगतान किया।
 I've said too much.	Ich habe zu viel gesagt.	मैंने बहुत ज्यादा कहा।
 I've seen Mt. Fuji.	Ich habe den Berg Fuji schon einmal gesehen.	मैंने पहले पहाड़ फूजी को देखा है।
 I've seen Mt. Fuji.	Ich habe den Fuji schon einmal gesehen.	मैंने पहले फ़ूजी को देखा है।

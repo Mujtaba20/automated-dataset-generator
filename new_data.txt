@@ -22095,3 +22095,11 @@ I've got something.	Ich habe etwas.	मेरे पास कुछ है।
 I've got the money.	Ich habe das Geld.	मेरे पास पैसे हैं।
 I've got to go now.	Ich muss jetzt gehen.	अब मुझे जाना है।
 I've got to see it.	Ich muss es sehen.	मुझे इसे देखना है।
+I've heard nothing.	Ich habe nichts gehört.	मैंने कुछ नहीं सुना।
+I've just seen Tom.	Ich habe gerade Tom gesehen.	मैंने अभी तक टॉम को देखा है।
+I've learned a lot.	Ich habe viel gelernt.	मैंने बहुत कुछ सीखा है।
+I've lost my watch.	Ich habe meine Uhr verloren.	मेरी घड़ी खो गई है।
+I've never met her.	Ich habe sie nie getroffen.	मैंने कभी उससे मिला नहीं।
+I've never met him.	Ich habe ihn nie getroffen.	मैंने कभी उससे मिला नहीं।
+I've never seen it.	Ich habe es nie gesehen.	मैंने कभी नहीं देखा है।
+I've paid the bill.	Ich habe die Rechnung bezahlt.	मैंने बिल भर दिया है।
