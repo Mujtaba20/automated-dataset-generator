@@ -23248,3 +23248,11 @@ This is your fault.	Das ist dein Fehler.	यह तुम्हारी गल�
 This isn't a tiger.	Das ist kein Tiger.	यह एक बाघ नहीं है।
 This isn't for Tom.	Das ist nicht für Tom.	यह टॉम के लिए नहीं है।
 This isn't for you.	Das ist nicht für dich.	यह तुम्हारे लिए नहीं है।
+This isn't helping.	Das hilft nicht.	यह मदद नहीं कर रहा है।
+This isn't my home.	Das ist nicht mein Zuhause.	यह मेरा घर नहीं है।
+This isn't unusual.	Das ist nicht ungewöhnlich.	यह असाधारण नहीं है।
+This isn't working.	Das funktioniert nicht.	यह काम नहीं कर रहा है।
+This joke is crude.	Dieser Witz ist grob.	यह मजाक कसीला है।
+This knife is dull.	Dieses Messer ist stumpf.	यह चाकू धीमा है।
+This land is Tom's.	Dieses Land gehört Tom.	यह ज़मीन टॉम की है।
+This money is mine.	Dieses Geld gehört mir.	यह पैसा मेरा है।

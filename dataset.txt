@@ -1,14 +1,4 @@
 
-This isn't helping.	Das hilft nicht.	वह मदद नहीं करता है।
-This isn't my home.	Dies ist nicht mein Haus.	यह मेरा घर नहीं है।
-This isn't unusual.	Das ist nicht ungewöhnlich.	यह असामान्य नहीं है।
-This isn't working.	Das funktioniert nicht.	वह काम नहीं करता।
-This isn't working.	Das haut nicht hin.	यह हिट नहीं है।
-This joke is crude.	Dieser Witz ist ordinär.	यह मजाक साधारण है।
-This knife is dull.	Dieses Messer ist stumpf.	यह चाकू सुस्त है।
-This knife is dull.	Das Messer hier ist stumpf.	यहाँ चाकू सुस्त है।
-This land is Tom's.	Dieses Land gehört Tom.	यह देश टॉम का है।
-This money is mine.	Dieses Geld gehört mir.	यह पैसा मेरा है।
 This one is bigger.	Dieser ist größer.	यह बड़ा है।
 This one is for us.	Dieser ist für uns.	यह हमारे लिए है।
 This one's for you.	Dieses ist für dich.	यह आपके लिए है।
