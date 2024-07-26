@@ -25337,3 +25337,9 @@ Do you have a phone?	Hast du ein Handy?	क्या आपके पास म�
 Do you have a table?	Hast du einen Tisch?	क्या आपके पास एक मेज़ है?
 Do you have any CDs?	Haben Sie CDs?	क्या आपके पास कोई सीडी हैं?
 Do you have any gum?	Hast du Kaugummi?	क्या आपके पास कोई गम है?
+Do you have my book?	Hast du mein Buch?	क्या तुम्हारे पास मेरी किताब है?
+Do you keep a diary?	Führst du ein Tagebuch?	क्या तुम एक डायरी रखते हो?
+Do you know the way?	Kennen Sie den Weg?	क्या तुम रास्ता जानते हो?
+Do you like English?	Magst du Englisch?	क्या आपको अंग्रेजी पसंद है?
+Do you like bananas?	Magst du Bananen?	क्या आपको केले पसंद हैं?
+Do you like bowling?	Magst du Bowling?	क्या तुम्हें बॉलिंग पसंद है?

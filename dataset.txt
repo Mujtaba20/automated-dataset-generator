@@ -1,17 +1,4 @@
 
-Do you have my book?	Hast du mein Buch?	क्या आपके पास मेरी किताब है?
-Do you keep a diary?	Führst du ein Tagebuch?	क्या आप एक डायरी करते हैं?
-Do you know the way?	Kennst du den Weg?	क्या आप रास्ता जानते हैं?
-Do you like English?	Magst du Englisch?	क्या आपको अंग्रेज़ी पसन्द है?
-Do you like English?	Gefällt dir Englisch?	क्या आपको अंग्रेज़ी पसन्द है?
-Do you like English?	Gefällt dir die englische Sprache?	क्या आपको अंग्रेजी भाषा पसंद है?
-Do you like bananas?	Magst du Bananen?	क्या आपको केले पसंद हैं?
-Do you like bananas?	Mögen Sie Bananen?	क्या आपको केले पसंद हैं?
-Do you like bananas?	Mögt ihr Bananen?	क्या आपको केले पसंद हैं?
-Do you like bowling?	Gehst du gerne bowlen?	क्या आप गेंदबाजी करना पसंद करते हैं?
-Do you like bowling?	Magst du Bowling?	क्या आपको गेंदबाजी पसंद है?
-Do you like bowling?	Mögt ihr Bowling?	क्या आपको गेंदबाजी पसंद है?
-Do you like bowling?	Mögen Sie Bowling?	क्या आपको गेंदबाजी पसंद है?
 Do you like cooking?	Kochst du gern?	क्या आपको खाना पकाना अच्छा लगता है?
 Do you like cooking?	Kocht ihr gern?	क्या आपको खाना पकाना अच्छा लगता है?
 Do you like cooking?	Kochen Sie gern?	क्या तुम्हे खाना पकाना पसंद है?
