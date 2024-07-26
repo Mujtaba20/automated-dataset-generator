@@ -25887,3 +25887,13 @@ His dog barks at me.	Sein Hund bellt mich an.	उसका कुत्ता �
 His dream came true.	Sein Traum wurde wahr.	उसका सपना सच हो गया।
 His eyes failed him.	Seine Augen haben ihn im Stich gelassen.	उसकी आंखों ने उसे धोखा दिया।
 His eyesight is bad.	Sein Sehvermögen ist schlecht.	उसकी दृष्टि बुरी है।
+His face brightened.	Sein Gesicht hellte sich auf.	उसका चेहरा उज्जवल हो गया।
+His family is large.	Seine Familie ist groß.	उसका परिवार बड़ा है।
+His heart is broken.	Sein Herz ist gebrochen.	उसके दिल में दरार है।
+His jokes amused me.	Seine Witze haben mich amüsiert.	उसके मजाक मुझे हंसा दिया।
+His novel sold well.	Sein Roman hat sich gut verkauft.	उसका उपन्यास अच्छे से बिका।
+His parents hate me.	Seine Eltern hassen mich.	उसके माता-पिता मुझसे नफरत करते हैं।
+His real name's Tom.	Sein richtiger Name ist Tom.	उसका असली नाम टॉम है।
+His shoes are brown.	Seine Schuhe sind braun.	उसके जूते भूरे हैं।
+His son is a genius.	Sein Sohn ist ein Genie.	उसका बेटा एक उत्तमता है।
+His speech moved us.	Seine Rede bewegte uns.	उसका भाषण हमें गहरा असर डाला।
