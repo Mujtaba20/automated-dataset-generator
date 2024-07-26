@@ -25879,3 +25879,11 @@ Hey, how's it going?	Hey, wie läuft es?	हे, कैसी चल रही �
 Hey, listen to this.	Hey, höre das.	हे, इसे सुनो।
 Hey, what do I know?	Hey, was weiß ich schon?	हे, मुझे क्या पता?
 Hey, you look great.	Hey, du siehst großartig aus.	हे, तुम शानदार दिखते हो।
+Hey, you're not Tom.	Hey, du bist nicht Tom.	हे, तुम टॉम नहीं हो।
+Hey. How's it going?	Hallo. Wie geht's?	हेय। क्या हो रहा है?
+Hi, Tom. Come on in.	Hallo Tom. Komm herein.	नमस्ते, टॉम। अंदर आ जाओ।
+His bicycle is blue.	Sein Fahrrad ist blau.	उसकी साइकिल नीली है।
+His dog barks at me.	Sein Hund bellt mich an.	उसका कुत्ता मुझपर भोंकता है।
+His dream came true.	Sein Traum wurde wahr.	उसका सपना सच हो गया।
+His eyes failed him.	Seine Augen haben ihn im Stich gelassen.	उसकी आंखों ने उसे धोखा दिया।
+His eyesight is bad.	Sein Sehvermögen ist schlecht.	उसकी दृष्टि बुरी है।
