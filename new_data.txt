@@ -39432,3 +39432,12 @@ The boys were injured.	Die Jungen wurden verletzt.	लड़के चोटि�
 The brake didn't work.	Die Bremse hat nicht funktioniert.	ब्रेक काम नहीं किया।
 The bullet missed Tom.	Die Kugel hat Tom verfehlt.	गोली ने टॉम को छूआ नहीं।
 The bus arrived empty.	Der Bus kam leer an.	बस खाली आई।
+The bus has just left.	Der Bus ist gerade losgefahren.	बस अभी अभी जा चुकी है।
+The cake is delicious.	Der Kuchen ist köstlich.	केक स्वादिष्ट है।
+The candle burned out.	Die Kerze ist ausgebrannt.	मोमबत्ती बुझ गई।
+The cat ate the mouse.	Die Katze hat die Maus gefressen.	बिल्ली ने मौसे को खा लिया।
+The cat hissed at Tom.	Die Katze fauchte Tom an.	बिल्ली ने टॉम पर फँसी दी।
+The cellar is flooded.	Der Keller ist überflutet.	गोदाम भरा हुआ है।
+The chairs stack well.	Die Stühle stapeln sich gut.	कुर्सियाँ अच्छे से स्टैक करती हैं।
+The child will be six.	Das Kind wird sechs sein.	बच्चा छह साल का होगा।
+The children are cold.	Die Kinder haben kalt.	बच्चे सर्दी में हैं।

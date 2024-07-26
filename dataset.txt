@@ -1,15 +1,4 @@
 
-The bus has just left.	Der Bus ist gerade abgefahren.	बस अभी बची है।
-The cake is delicious.	Der Kuchen schmeckt herrlich.	केक का स्वाद अद्भुत है।
-The candle burned out.	Die Kerze erlosch.	मोमबत्ती बाहर चली गई।
-The cat ate the mouse.	Die Katze hat die Maus gefressen.	बिल्ली ने माउस खा लिया।
-The cat ate the mouse.	Die Katze fraß die Maus.	बिल्ली ने माउस खा लिया।
-The cat hissed at Tom.	Die Katze fauchte Tom an.	बिल्ली ने टॉम को हिला दिया।
-The cellar is flooded.	Der Keller ist überschwemmt.	तहखाने में बाढ़ आ गई है।
-The chairs stack well.	Die Stühle lassen sich gut aufeinanderstapeln.	कुर्सियों को एक -दूसरे के ऊपर स्टैक किया जा सकता है।
-The child will be six.	Das Kind wird sechs.	बच्चा छह हो जाता है।
-The children are cold.	Den Kindern ist kalt.	बच्चे ठंडे हैं।
-The children are cold.	Die Kinder frieren.	बच्चे फ्रीज करते हैं।
 The children are gone.	Die Kinder sind weg.	बच्चे चले गए हैं।
 The children are safe.	Die Kinder sind in Sicherheit.	बच्चे सुरक्षित हैं।
 The children loved it.	Die Kinder waren entzückt.	बच्चे खुश थे।
