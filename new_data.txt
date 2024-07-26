@@ -27141,3 +27141,12 @@ I'm sure Tom's fine.	Ich bin sicher, dass es Tom gut geht.	मुझे यक�
 I'm sure about that.	Da bin ich mir sicher.	मुझे उसके बारे में पूरा भरोसा है।
 I'm sure about this.	Da bin ich gewiss.	मुझे इसके बारे में पूरा विश्वास है।
 I'm taking Tom home.	Ich bringe Tom nach Hause.	मैं टॉम को घर ले जा रहा हूँ।
+I'm taking this one.	Ich nehme diesen hier.	मैं यह ले रहा हूँ।
+I'm taking this one.1	Ich nehme diesen.	मैं यह ले रहा हूँ।
+I'm taking this one.2	Ich nehme dieses hier.	मैं यह ले रहा हूँ।
+I'm taking you home.	Ich bringe dich nach Hause.	मैं तुम्हें घर ले जा रहा हूँ।
+I'm tall and skinny.	Ich bin groß und dünn.	मैं लंबा और पतला हूँ।
+I'm taller than Tom.	Ich bin größer als Tom.	मैं टॉम से ऊँचा हूँ।
+I'm taller than you.	Ich bin größer als du.	मैं तुमसे ऊँचा हूँ।
+I'm taller than you.1	Ich bin größer als Sie.	मैं आपसे ऊँचा हूँ।
+I'm teaching French.	Ich unterrichte Französisch.	मैं फ्रेंच पढ़ा रहा हूँ।

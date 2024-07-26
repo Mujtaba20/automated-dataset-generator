@@ -1,14 +1,4 @@
 
-I'm taking this one.	Ich nehme das hier.	मैं इसे यहां ले जाता हूं।
-I'm taking this one.	Ich nehme den hier.	मैं इसे यहां ले जाता हूं।
-I'm taking this one.	Ich nehme die hier.	मैं उन्हें यहां ले जाता हूं।
-I'm taking you home.	Ich bringe dich nach Hause.	मैं तुम्हें घर ले जाऊंगा।
-I'm tall and skinny.	Ich bin groß und dünn.	मैं बड़ा और पतला हूं।
-I'm taller than Tom.	Ich bin größer als Tom.	मैं टॉम से बड़ा हूं।
-I'm taller than you.	Ich bin größer als du.	मै तुमसे लम्बा हूॅं।
-I'm taller than you.	Ich bin größer als ihr.	मैं उससे बड़ा हूँ।
-I'm taller than you.	Ich bin größer als Sie.	मैं उससे बड़ा हूँ।
-I'm teaching French.	Ich unterrichte Französisch.	मैं फ्रेंच पढ़ाता हूं।
 I'm the new teacher.	Ich bin der neue Lehrer.	मैं नया शिक्षक हूं।
 I'm the victim here.	Ich bin hier das Opfer.	मैं यहां पीड़ित हूं।
 I'm thinking of you.	Ich denke an dich.	मैं तुम्हे ही याद कर रहा था।
