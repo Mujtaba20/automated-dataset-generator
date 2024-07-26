@@ -39637,3 +39637,10 @@ They know who you are.	Sie wissen, wer du bist.	उन्हें पता ह
 They know who you are. [Different meaning]	Sie wissen, wen du kennst.	उन्हें पता है कि आप किसे जानते हैं।
 They look alike to me.	Sie sehen mir ähnlich.	मुझे लगता है कि वे एक जैसे दिखते हैं।
 They made fun of Mary.	Sie haben sich über Maria lustig gemacht.	उन्होंने मेरी के मजाक उड़ाए।
+They made me go there.	Sie zwangen mich dorthin zu gehen.	उन्होंने मुझे वहाँ जाने के लिए मजबूर किया।
+They may be in danger.	Sie könnten in Gefahr sein.	वे खतरे में हो सकते हैं।
+They meet once a week.	Sie treffen sich einmal pro Woche.	वे हफ्ते में एक बार मिलते हैं।
+They missed the train.	Sie haben den Zug verpasst.	उन्होंने ट्रेन छूट दी।
+They never apologized.	Sie haben sich nie entschuldigt.	उन्होंने कभी माफी नहीं मांगी।
+They never caught Tom.	Sie haben Tom nie erwischt.	उन्होंने कभी टॉम को पकड़ा नहीं।
+They never tell a lie.	Sie sagen niemals eine Lüge.	वे कभी झूठ नहीं बोलते।
