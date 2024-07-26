@@ -1,14 +1,4 @@
 
-I'm not overweight.	Ich bin nicht übergewichtig.	मैं अधिक वजन नहीं हूं।
-I'm not quite sure.	Ich bin mir nicht ganz sicher.	मैं पूरी तरह से निश्चित नहीं हूं।
-I'm not quite well.	Mir geht's nicht gut.	मैं अच्छा नहीं कर रहा हूँ।
-I'm not saying why.	Ich sage nicht warum.	मैं यह नहीं कह रहा हूं कि क्यों।
-I'm not that crazy.	Ich bin nicht verrückt.	मै पागल नही हूँ।
-I'm not that happy.	Ich bin nicht glücklich.	मैं खुश नहीं हूं।
-I'm not that naive.	So naiv bin ich nicht.	मैं वह भोला नहीं हूँ।
-I'm not very brave.	Ich bin nicht sehr mutig.	मैं बहुत बहादुर नहीं हूं।
-I'm not very happy.	Ich bin nicht sehr glücklich.	मैं बहुत खुश नहीं हूं।
-I'm not very smart.	Ich bin nicht sehr schlau.	मैं बहुत स्मार्ट नहीं हूं।
 I'm not very tired.	Ich bin nicht sehr müde.	मैं बहुत थक नहीं गया हूं।
 I'm not your enemy.	Ich bin nicht dein Feind.	मैं तुम्हारा दुश्मन नहीं हूँ।
 I'm not your enemy.	Ich bin nicht euer Feind.	मैं तुम्हारा दुश्मन नहीं हूँ।

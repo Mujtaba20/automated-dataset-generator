@@ -22008,3 +22008,13 @@ I'm not infallible.	Ich bin nicht unfehlbar.	मैं अक्षम नही
 I'm not inflexible.	Ich bin nicht unflexibel.	मैं कठोर नहीं हूँ।
 I'm not interested.	Ich habe kein Interesse.	मुझे उत्साहित नहीं करता।
 I'm not mad at you.	Ich bin nicht wütend auf dich.	मैं तुम पर गुस्सा नहीं हूँ।
+I'm not overweight.	Ich bin nicht übergewichtig.	मैं मोटा नहीं हूं।
+I'm not quite sure.	Ich bin nicht ganz sicher.	मुझे बिल्कुल स्पष्ट नहीं है।
+I'm not quite well.	Mir geht es nicht besonders gut.	मेरा ठीक से है।
+I'm not saying why.	Ich sage nicht warum.	मैं यह नहीं कह रहा कि क्यों।
+I'm not that crazy.	Ich bin nicht so verrückt.	मैं इतना पागल नहीं हूं।
+I'm not that happy.	Ich bin nicht so glücklich.	मैं इतना खुश नहीं हूं।
+I'm not that naive.	Ich bin nicht so naiv.	मैं इतना भोला नहीं हूं।
+I'm not very brave.	Ich bin nicht sehr tapfer.	मैं बहुत साहसी नहीं हूं।
+I'm not very happy.	Ich bin nicht sehr glücklich.	मैं बहुत खुश नहीं हूं।
+I'm not very smart.	Ich bin nicht sehr klug.	मैं बहुत दिमागी नहीं हूं।
