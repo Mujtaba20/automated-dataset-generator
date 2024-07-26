@@ -1,14 +1,4 @@
 
-Tom can drive a car.	Tom kann Auto fahren.	टॉम एक कार चला सकता है।
-Tom can hardly walk.	Tom kann kaum laufen.	टॉम मुश्किल से चल सकता है।
-Tom can't buy a car.	Tom kann kein Auto kaufen.	टॉम एक कार नहीं खरीद सकता।
-Tom can't cook well.	Tom kann nicht gut kochen.	टॉम अच्छी तरह से खाना नहीं बना सकता।
-Tom can't deny that.	Tom kann das nicht abstreiten.	टॉम इस बात से इनकार नहीं कर सकता।
-Tom can't deny this.	Tom kann das nicht abstreiten.	टॉम इस बात से इनकार नहीं कर सकता।
-Tom can't even read.	Tom kann noch nicht einmal lesen.	टॉम भी नहीं पढ़ सकता।
-Tom can't even read.	Tom kann nicht einmal lesen.	टॉम भी नहीं पढ़ सकता।
-Tom can't find Mary.	Tom kann Maria nicht finden.	टॉम मारिया नहीं पा सकता।
-Tom can't handle it.	Tom wird nicht damit fertig.	टॉम तैयार नहीं होता।
 Tom can't leave now.	Tom kann jetzt nicht weg.	टॉम अब दूर नहीं जा सकता।
 Tom can't leave now.	Tom kann jetzt nicht gehen.	टॉम अब नहीं जा सकता।
 Tom can't mean that.	Tom kann das nicht ernst meinen.	टॉम गंभीर नहीं हो सकता।

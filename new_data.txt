@@ -28590,3 +28590,12 @@ Tom came to save me.	Tom kam, um mich zu retten.	टॉम मुझे बच�
 Tom came to see you.	Tom kam, um dich zu sehen.	टॉम तुम्हें देखने आया।
 Tom can answer that.	Tom kann das beantworten.	टॉम उसका जवाब दे सकता है।
 Tom can barely read.	Tom kann kaum lesen.	टॉम मुश्किल से पढ़ सकता है।
+Tom can drive a car.	Tom kann ein Auto fahren.	टॉम कार चला सकता है।
+Tom can hardly walk.	Tom kann kaum laufen.	टॉम मुश्किल से चल सकता है।
+Tom can't buy a car.	Tom kann kein Auto kaufen.	टॉम एक कार नहीं खरीद सकता।
+Tom can't cook well.	Tom kann nicht gut kochen.	टॉम अच्छी तरह से खाना नहीं पका सकता।
+Tom can't deny that.	Tom kann das nicht leugnen.	टॉम उसे इनकार नहीं कर सकता।
+Tom can't deny this.	Tom kann das nicht leugnen.	टॉम इसे इनकार नहीं कर सकता।
+Tom can't even read.	Tom kann nicht einmal lesen.	टॉम तक पढ़ाई भी नहीं कर सकता।
+Tom can't find Mary.	Tom kann Mary nicht finden.	टॉम मेरी को नहीं ढूंढ सकता।
+Tom can't handle it.	Tom kann es nicht handhaben.	टॉम इसे संभाल नहीं सकता।
