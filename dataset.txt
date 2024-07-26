@@ -1,15 +1,4 @@
 
-Tom locked his doors.	Tom verschloss seine Türen.	टॉम ने अपने दरवाजे बंद कर दिए।
-Tom looked concerned.	Tom schaute besorgt.	टॉम चिंतित लग रहा था।
-Tom looked concerned.	Tom schaute besorgt aus.	टॉम चिंतित लग रहा था।
-Tom looked horrified.	Tom sah von Schrecken erfüllt aus.	टॉम भयावहता से पूरा हुआ।
-Tom looked horrified.	Tom sah entsetzt aus.	टॉम भयभीत लग रहा था।
-Tom looked miserable.	Tom sah fertig aus.	टॉम तैयार लग रहा था।
-Tom looked perplexed.	Tom schaute verblüfft.	टॉम चकित लग रहा था।
-Tom looked perplexed.	Tom schaute verwirrt aus.	टॉम उलझन में लग रहा था।
-Tom looked petrified.	Tom sah wie versteinert aus.	टॉम ने पया ही देखा।
-Tom looked terrified.	Tom schaute erschrocken aus.	टॉम चौंका।
-Tom looked terrified.	Tom schaute verängstigt aus.	टॉम भयभीत लग रहा था।
 Tom looked very busy.	Tom sah sehr beschäftigt aus.	टॉम बहुत व्यस्त लग रहा था।
 Tom looked very good.	Tom hat sehr gut ausgesehen.	टॉम बहुत अच्छे लग रहे थे।
 Tom looked very good.	Tom sah sehr gut aus.	टॉम बहुत अच्छे लग रहे थे।

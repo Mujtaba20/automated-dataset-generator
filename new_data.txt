@@ -34648,3 +34648,10 @@ Tom lives in his car.	Tom lebt in seinem Auto.	टॉम अपनी कार 
 Tom lives next to me.	Tom lebt neben mir.	टॉम मेरे पास रहता है।
 Tom lives off campus.	Tom lebt außerhalb des Campus.	टॉम कैंपस के बाहर रहता है।
 Tom loaded the truck.	Tom hat den Lastwagen beladen.	टॉम ने ट्रक लोड किया।
+Tom locked his doors.	Tom hat seine Türen verschlossen.	टॉम ने अपने दरवाजे बंद कर लिए।
+Tom looked concerned.	Tom sah besorgt aus.	टॉम चिंतित दिख रहा था।
+Tom looked horrified.	Tom sah entsetzt aus.	टॉम भौंका हुआ दिख रहा था।
+Tom looked miserable.	Tom sah elend aus.	टॉम दुखी दिख रहा था।
+Tom looked perplexed.	Tom sah verwirrt aus.	टॉम उलझन में दिख रहा था।
+Tom looked petrified.	Tom sah versteinert aus.	टॉम भयानक दिख रहा था।
+Tom looked terrified.	Tom sah entsetzt aus.	टॉम डर गया दिख रहा था।
