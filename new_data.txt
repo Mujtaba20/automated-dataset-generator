@@ -37858,3 +37858,11 @@ I think Tom is usual.	Ich denke, Tom ist wie immer.	मुझे लगता �
 I think Tom is skinny.	Ich denke, Tom ist dünn.	मुझे लगता है कि टॉम पतला है।
 I think Tom is sneaky.	Ich denke, Tom ist hinterlistig.	मुझे लगता है कि टॉम धूर्त है।
 I think Tom is cunning.	Ich denke, Tom ist gerissen.	मुझे लगता है कि टॉम चालाक है।
+I think Tom is thirty.	Ich denke, Tom ist dreißig.	मुझे लगता है कि टॉम तीस बरस का है।
+I think Tom knew Mary.	Ich denke, Tom kannte Mary.	मुझे लगता है कि टॉम को मेरी को पहचानता था।
+I think Tom knows why.	Ich denke, Tom weiß warum.	मुझे लगता है कि टॉम को पता है कीयों।
+I think Tom likes you.	Ich denke, Tom mag dich.	मुझे लगता है कि टॉम तुम्हें पसंद करता है।
+I think Tom said that.	Ich denke, Tom hat das gesagt.	मुझे लगता है कि टॉम ने वो कहा।
+I think Tom should go.	Ich denke, Tom sollte gehen.	मुझे लगता है कि टॉम को जाना चाहिए।
+I think Tom was drunk.	Ich denke, Tom war betrunken.	मुझे लगता है कि टॉम नशे में था।
+I think he won't come.	Ich denke, er wird nicht kommen.	मुझे लगता है कि वह नहीं आएगा।

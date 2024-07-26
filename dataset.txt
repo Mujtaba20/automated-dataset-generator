@@ -1,15 +1,4 @@
 
-I think Tom is thirty.	Ich glaube, Tom ist dreißig.	मुझे लगता है कि टॉम तीस साल का है।
-I think Tom knew Mary.	Ich glaube, Tom kannte Maria.	मुझे लगता है कि टॉम मारिया को जानता था।
-I think Tom knows why.	Ich denke, dass Tom weiß warum.	मुझे लगता है कि टॉम जानता है कि क्यों।
-I think Tom likes you.	Ich denke, Tom mag dich.	मुझे लगता है कि टॉम आपको पसंद करता है।
-I think Tom said that.	Ich glaube, Tom sagte das.	मुझे लगता है कि टॉम ने कहा कि।
-I think Tom said that.	Ich glaube, Tom hat das gesagt.	मुझे लगता है कि टॉम ने कहा कि।
-I think Tom said that.	Ich glaube, das sagte Tom.	मुझे लगता है कि टॉम ने कहा कि।
-I think Tom should go.	Ich finde, Tom sollte gehen.	मुझे लगता है कि टॉम को जाना चाहिए।
-I think Tom was drunk.	Ich glaube, Tom war betrunken.	मुझे लगता है कि टॉम नशे में था।
-I think he won't come.	Ich denke, dass er nicht kommen wird.	मुझे लगता है कि वह नहीं आएगा।
-I think he won't come.	Ich glaube nicht, dass er kommt.	मुझे नहीं लगता कि वह आ रहा है।
 I think highly of him.	Ich halte große Stücke auf ihn.	मैं उस पर बड़े टुकड़े रखता हूं।
 I think it's nonsense.	Ich halte das für Unsinn.	मुझे लगता है कि यह बकवास है।
 I think they know you.	Ich denke, sie kennen dich.	मुझे लगता है कि वे आपको जानते हैं।
