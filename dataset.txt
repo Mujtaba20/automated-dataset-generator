@@ -1,16 +1,4 @@
 
-I didn't want anything.	Ich wollte nichts.	मुझे कुछ नहीं चाहिए था।
-I do a lot of worrying.	Ich mache mir viele Sorgen.	मैं बहुत चिंतित हूं।
-I do not have a sister.	Ich habe keine Schwester.	मेरी कोई बहन नहीं है।
-I do this for a living.	Ich mache das beruflich.	मैं इसे पेशेवर रूप से करता हूं।
-I do whatever Tom asks.	Ich tue, um was mich Tom auch immer bittet.	मैं जो भी टॉम मुझसे पूछता है वह करता हूं।
-I don't agree with Tom.	Ich bin anderer Meinung als Tom.	मैं टॉम से असहमत हूं।
-I don't agree with him.	Ich stimme ihm nicht zu.	मैं उससे सहमत नहीं हूं।
-I don't agree with you.	Ich bin nicht Ihrer Meinung.	मैं सहमत नहीं हूं।
-I don't agree with you.	Ich bin nicht deiner Meinung.	मैं आपकी राय में नहीं हूँ।
-I don't agree with you.	Ich bin nicht eurer Meinung.	मैं आपकी राय नहीं हूँ।
-I don't agree with you.	Ich stimme dir nicht zu.	मैं तुम्हारे साथ सहमत नहीं हूं।
-I don't agree with you.	Ich bin mit dir nicht einverstanden.	मैं तुम्हारे साथ सहमत नहीं हूं।
 I don't always do that.	Ich tue das nicht immer .	मैं हमेशा ऐसा नहीं करता।
 I don't always do this.	Ich mach das nicht immer.	मैं हमेशा ऐसा नहीं करता।
 I don't believe in God.	Ich glaube nicht an Gott.	मैं भगवान में विश्वास नहीं करता।
