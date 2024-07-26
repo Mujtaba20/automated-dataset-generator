@@ -1,14 +1,4 @@
 
-He was elected mayor.	Er wurde zum Bürgermeister gewählt.	वह मेयर चुने गए थे।
-He was fully clothed.	Er war vollständig bekleidet.	वह पूरी तरह से कपड़े पहने हुए था।
-He was in the shower.	Er stand unter der Dusche.	वह शॉवर में था।
-He was not impressed.	Beeindruckt war er nicht.	वह प्रभावित नहीं था।
-He was out of breath.	Er war außer Atem.	वह सांस से बाहर था।
-He was put in prison.	Er wurde ins Gefängnis gesteckt.	उसे जेल में डाल दिया गया।
-He was shot to death.	Er wurde erschossen.	उसे गोली मारी गई।
-He was wearing a tux.	Er trug einen Smoking.	उन्होंने एक टक्सीडो पहना था।
-He wasn't even there.	Er war noch nicht einmal da.	वह वहाँ भी नहीं था।
-He wears an eyepatch.	Er trägt eine Augenklappe.	वह एक आंख का फ्लैप पहनता है।
 He went duck hunting.	Er ging auf Entenjagd.	वह एक बत्तख के शिकार पर चला गया।
 He went to bed early.	Er ging früh ins Bett.	वह जल्दी बिस्तर पर चला गया।
 He will be back soon.	Er wird bald zurück sein.	वह जल्द ही वापस आ जाएगा।
