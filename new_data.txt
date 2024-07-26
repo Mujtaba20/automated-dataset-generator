@@ -37821,3 +37821,12 @@ I should just go home.	Ich sollte einfach nach Hause gehen.	मैं बस घ
 I should learn French.	Ich sollte Französisch lernen.	मुझे फ्रेंच सीखनी चाहिए।
 I should wash my hair.	Ich sollte meine Haare waschen.	मुझे अपने बाल धोने चाहिए।
 I should've done that.	Ich hätte das tun sollen.	मैंने वह कर लेना चाहिए था।
+I should've gone home.	Ich hätte nach Hause gehen sollen.	मुझे घर जाना चाहिए था।
+I should've said that.	Das hätte ich sagen sollen.	मुझे वह कहना चाहिए था।
+I shouldn't have lied.	Ich hätte nicht lügen sollen.	मुझे झूठ नहीं बोलना चाहिए था।
+I signed the contract.	Ich habe den Vertrag unterschrieben.	मैंने समझौता किया।
+I sleep on my stomach.	Ich schlafe auf meinem Bauch.	मैं अपने पेट पर सोता हूँ।
+I slept on my stomach.	Ich habe auf meinem Bauch geschlafen.	मैंने अपने पेट पर सो लिया।
+I sneeze all the time.	Ich niese die ganze Zeit.	मैं हमेशा छींकता हूँ।
+I speak English a lot.	Ich spreche viel Englisch.	मैं बहुत अंग्रेज़ी बोलता हूँ।
+I spoke French to Tom.	Ich habe mit Tom Französisch gesprochen.	मैंने टॉम से फ्रेंच बोला।

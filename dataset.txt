@@ -1,14 +1,4 @@
 
-I should've gone home.	Ich hätte nach Hause gehen sollen.	मुझे घर जाना चाहिए था।
-I should've said that.	Ich hätte das sagen sollen.	मुझे ऐसा कहना चाहिए था।
-I shouldn't have lied.	Ich hätte nicht lügen sollen.	मुझे झूठ नहीं होना चाहिए था।
-I signed the contract.	Ich unterschrieb den Vertrag.	मैंने अनुबंध पर हस्ताक्षर किए।
-I sleep on my stomach.	Ich schlafe auf dem Bauch.	मैं अपने पेट पर सोता हूं।
-I slept on my stomach.	Ich schlief bäuchlings.	मैं उसका पेट सो गया।
-I slept on my stomach.	Ich schlief auf dem Bauch.	मैं अपने पेट पर सो गया।
-I sneeze all the time.	Ich muss andauernd niesen.	मुझे हर समय छींकना पड़ता है।
-I speak English a lot.	Ich spreche viel Englisch.	मैं बहुत सारी अंग्रेजी बोलता हूं।
-I spoke French to Tom.	Ich habe mit Tom Französisch gesprochen.	मैंने टॉम फ्रेंच से बात की।
 I spoke to Tom myself.	Ich habe selbst mit Tom gesprochen.	मैंने खुद टॉम से बात की।
 I spoke to my parents.	Ich habe mit meinen Eltern gesprochen.	मैंने अपने माता -पिता से बात की।
 I stayed home all day.	Ich bin den ganzen Tag zu Hause geblieben.	मैं पूरे दिन घर पर रहा।
