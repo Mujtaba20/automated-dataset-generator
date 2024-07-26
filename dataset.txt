@@ -1,14 +1,4 @@
 
-Tom is a stupid boy.	Tom ist ein dummer Junge.	टॉम एक बेवकूफ लड़का है।
-Tom is a vegetarian.	Tom ist Vegetarier.	टॉम एक शाकाहारी है।
-Tom is a workaholic.	Tom ist arbeitswütig.	टॉम उत्साही है।
-Tom is about my age.	Tom ist ungefähr in meinem Alter.	टॉम मेरी उम्र के बारे में है।
-Tom is about thirty.	Tom ist ungefähr dreißig.	टॉम लगभग तीस है।
-Tom is absent today.	Tom ist heute abwesend.	टॉम आज अनुपस्थित है।
-Tom is afraid of me.	Tom hat Angst vor mir.	टॉम मुझसे डरता है।
-Tom is almost blind.	Tom ist fast blind.	टॉम लगभग अंधा है।
-Tom is almost broke.	Tom ist fast pleite.	टॉम लगभग टूट गया है।
-Tom is almost there.	Tom ist fast da.	टॉम लगभग वहाँ है।
 Tom is already here.	Tom ist schon hier.	टॉम पहले से ही यहाँ है।
 Tom is already home.	Tom ist schon zu Hause.	टॉम पहले से ही घर पर है।
 Tom is already home.	Tom ist bereits zu Hause.	टॉम पहले से ही घर पर है।

@@ -28837,3 +28837,13 @@ Tom is a stonemason.	Tom ist ein Steinmetz.	टॉम एक पत्थर म
 Tom is a strong guy.	Tom ist ein starker Typ.	टॉम एक मजबूत आदमी है।
 Tom is a strong kid.	Tom ist ein starker Junge.	टॉम एक मजबूत बच्चा है।
 Tom is a strong man.	Tom ist ein starker Mann.	टॉम एक मजबूत आदमी है।
+Tom is a stupid boy.	Tom ist ein dummer Junge.	टॉम एक मूर्ख लड़का है।
+Tom is a vegetarian.	Tom ist Vegetarier.	टॉम एक शाकाहारी है।
+Tom is a workaholic.	Tom ist ein Workaholic.	टॉम काम में पागल है।
+Tom is about my age.	Tom ist ungefähr in meinem Alter.	टॉम मेरी उम्र का लगभग है।
+Tom is about thirty.	Tom ist ungefähr dreißig.	टॉम लगभग तीस का है।
+Tom is absent today.	Tom ist heute abwesend.	टॉम आज अनुपस्थित है।
+Tom is afraid of me.	Tom hat Angst vor mir.	टॉम मुझसे डरता है।
+Tom is almost blind.	Tom ist fast blind.	टॉम लगभग अंधा है।
+Tom is almost broke.	Tom ist fast pleite.	टॉम लगभग दरिद्र है।
+Tom is almost there.	Tom ist fast da.	टॉम लगभग वहाँ पहुँच गया है।
