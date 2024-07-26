@@ -28580,3 +28580,13 @@ Tom called me today.	Tom hat mich heute angerufen.	टॉम ने आज म�
 Tom called security.	Tom rief die Sicherheit.	टॉम ने सुरक्षा को बुलाया।
 Tom came about 2:30.	Tom kam gegen 2:30 Uhr.	टॉम लगभग 2:30 बजे आया।
 Tom came by earlier.	Tom kam früher vorbei.	टॉम पहले आया।
+Tom came by himself.	Tom kam allein.	टॉम अपने आप आया।
+Tom came downstairs.	Tom kam die Treppe hinunter.	टॉम नीचे आया।
+Tom came home drunk.	Tom kam betrunken nach Hause.	टॉम नशे में घर आया।
+Tom came home early.	Tom kam früh nach Hause.	टॉम जल्दी घर आया।
+Tom came on his own.	Tom kam von allein.	टॉम अपने आप आया।
+Tom came out on top.	Tom kam als Sieger hervor.	टॉम ऊपर आया।
+Tom came to save me.	Tom kam, um mich zu retten.	टॉम मुझे बचाने आया।
+Tom came to see you.	Tom kam, um dich zu sehen.	टॉम तुम्हें देखने आया।
+Tom can answer that.	Tom kann das beantworten.	टॉम उसका जवाब दे सकता है।
+Tom can barely read.	Tom kann kaum lesen.	टॉम मुश्किल से पढ़ सकता है।

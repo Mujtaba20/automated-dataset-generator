@@ -1,14 +1,4 @@
 
-Tom came by himself.	Tom kam allein.	टॉम अकेले आए।
-Tom came downstairs.	Tom kam die Treppe herunter.	टॉम सीढ़ियों से नीचे आया।
-Tom came home drunk.	Tom kam betrunken nach Hause.	टॉम नशे में घर आया।
-Tom came home early.	Tom kam früh nach Hause.	टॉम जल्दी घर आया।
-Tom came on his own.	Tom kam allein.	टॉम अकेले आए।
-Tom came out on top.	Am Ende lag Tom an der Spitze.	अंत में, टॉम शीर्ष पर था।
-Tom came to save me.	Tom kam, um mich zu retten.	टॉम मुझे बचाने के लिए आया था।
-Tom came to see you.	Tom kam, um dich zu sehen.	टॉम आपको देखने आया था।
-Tom can answer that.	Tom kann das beantworten.	टॉम जवाब दे सकता है।
-Tom can barely read.	Tom kann kaum lesen.	टॉम शायद ही पढ़ सकते हैं।
 Tom can drive a car.	Tom kann Auto fahren.	टॉम एक कार चला सकता है।
 Tom can hardly walk.	Tom kann kaum laufen.	टॉम मुश्किल से चल सकता है।
 Tom can't buy a car.	Tom kann kein Auto kaufen.	टॉम एक कार नहीं खरीद सकता।
