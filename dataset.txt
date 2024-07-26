@@ -1,15 +1,4 @@
 
-Many of you know Tom.	Viele von euch kennen Tom.	आप में से कई लोग टॉम को जानते हैं।
-Many trees fell down.	Viele Bäume sind umgefallen.	कई पेड़ गिर गए हैं।
-Many trees fell down.	Es sind viele Bäume umgestürzt.	कई पेड़ गिर गए हैं।
-Mary designs dresses.	Maria entwirft Kleider.	मारिया कपड़े डिजाइन करता है।
-Mary filed her nails.	Maria feilte sich die Nägel.	मारिया ने अपने नाखून दायर किए।
-Mary had a face-lift.	Maria hat sich die Gesichtshaut straffen lassen.	मारिया ने अपनी त्वचा को तंग कर दिया है।
-Mary has pretty eyes.	Maria hat schöne Augen.	मारिया की सुंदर आँखें हैं।
-Mary hugged her doll.	Maria drückte ihre Puppe an sich.	मारिया ने अपनी गुड़िया को ही दबाया।
-Mary is Tom's cousin.	Mary ist Toms Cousine.	मैरी टॉम के चचेरे भाई हैं।
-Mary is Tom's mother.	Mary ist Toms Mutter.	मैरी टॉम की मां हैं।
-Mary is Tom's mother.	Mary ist die Mutter von Tom.	मैरी टॉम की मां हैं।
 Mary is Tom's sister.	Mary ist Toms Schwester.	मैरी टॉम की बहन है।
 Mary is Tom's sister.	Maria ist die Schwester von Tom.	मारिया टॉम की बहन है।
 Mary is Tom's sister.	Mary ist die Schwester von Tom.	मैरी टॉम की बहन है।
