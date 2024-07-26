@@ -24237,3 +24237,11 @@ We both were tired.	Wir waren beide müde.	हम दोनों थक गए 
 We came to see you.	Wir sind gekommen, um dich zu sehen.	हम तुम्हें देखने आए हैं।
 We can handle that.	Wir können das bewältigen.	हम उसे संभाल सकते हैं।
 We can protect Tom.	Wir können Tom beschützen.	हम टॉम की रक्षा कर सकते हैं।
+We can rely on Tom.	Wir können uns auf Tom verlassen.	हम टॉम पर भरोसा कर सकते हैं।
+We can't afford it.	Wir können es uns nicht leisten.	हमे इसे संभालने की स्तिथि नहीं है।
+We can't do it now.	Wir können es jetzt nicht tun.	हम अब यह नहीं कर सकते।
+We can't help that.	Das kann nicht ändern.	हम उसमें मदद नहीं कर सकते।
+We can't leave Tom.	Wir können Tom nicht verlassen.	हम टॉम को छोड़ नहीं सकते।
+We can't leave now.	Wir können jetzt nicht gehen.	हम अब नहीं जा सकते।
+We can't stay here.	Wir können hier nicht bleiben.	हम यहाँ नहीं रह सकते।
+We can't stop here.	Wir können hier nicht aufhören.	हम यहाँ रुक नहीं सकते।
