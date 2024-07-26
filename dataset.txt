@@ -1,15 +1,4 @@
 
-I think they look good.	Ich denke, sie sehen gut aus.	मुझे लगता है कि वे अच्छे लगते हैं।
-I think this is a fake.	Ich glaube, das ist eine Fälschung.	मुझे लगता है कि यह एक नकली है।
-I think this is enough.	Ich denke, das reicht.	मुझे लगता है कि पर्याप्त है।
-I think this will work.	Ich glaube, das wird funktionieren.	मुझे लगता है कि काम करेगा।
-I think we can do that.	Ich glaube, wir können das tun.	मुझे लगता है कि हम ऐसा कर सकते हैं।
-I think we have enough.	Ich glaube, wir haben genug.	मुझे लगता है कि हमारे पास पर्याप्त है।
-I think we have enough.	Ich glaube, es reicht jetzt.	मुझे लगता है कि यह अब पर्याप्त है।
-I think we should talk.	Ich glaube, wir sollten uns mal unterhalten.	मुझे लगता है कि हमें बात करनी चाहिए।
-I think we'd better go.	Ich glaube, wir gehen besser.	मुझे लगता है कि हम बेहतर हो रहे हैं।
-I think we're safe now.	Ich denke, dass wir jetzt sicher sind.	मुझे लगता है कि हमें अब यकीन है।
-I think we're safe now.	Ich denke, dass wir jetzt in Sicherheit sind.	मुझे लगता है कि हम अब सुरक्षित हैं।
 I think you look great.	Ich finde, du siehst großartig aus.	मुझे लगता है कि आप बहुत अच्छे लगते हैं।
 I think you should sit.	Ich denke, du solltest dich setzen.	मुझे लगता है कि आपको बैठना चाहिए।
 I think you understand.	Ich denke, du verstehst.	मुझे लगता है कि आप समझते हैं।
