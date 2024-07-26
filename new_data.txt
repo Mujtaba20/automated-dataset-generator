@@ -31146,3 +31146,13 @@ He raised a question.	Er stellte eine Frage.	उसने एक सवाल �
 He ran into the room.	Er rannte ins Zimmer.	उसने कमरे में दौड़ा।
 He ran outside naked.	Er lief draußen nackt.	वह नंगे होकर बाहर भाग गया।
 He ran outside naked. 1	Er rannte nackt nach draußen.	वह अनगधी होकर बाहर दौड़ा।
+He ran up the stairs.	Er rannte die Treppe hinauf.	उसने सीढ़ियों पर दौड़ लगाई।
+He rang the doorbell.	Er läutete an der Tür.	उसने घंटी बजाई।
+He rarely gets angry.	Er wird selten wütend.	वह बहुत कम गुस्सा होता है।
+He reads a good deal.	Er liest ziemlich viel.	वह बहुत कुछ पढ़ता है।
+He removed his shirt.	Er zog sein Hemd aus.	उसने अपनी कमीज़ उतारी।
+He returned to Japan.	Er kehrte nach Japan zurück.	उसने जापान वापस लौट आया।
+He ridiculed my idea.	Er verspottete meine Idee.	उसने मेरी विचारों की उपहास की।
+He saw a pretty girl.	Er sah ein hübsches Mädchen.	उसने एक सुंदर लड़की को देखा।
+He says he will come.	Er sagt, er wird kommen.	वह कहता है कि वह आएगा।
+He screamed for help.	Er schrie um Hilfe.	उसने मदद के लिए चिल्लाया।
