@@ -24987,3 +24987,9 @@ You're not like me.	Du bist nicht wie ich.	तुम मेरे जैसे �
 You're not looking.	Du schaust nicht.	तुम नहीं देख रहे हो।
 You're not my type.	Du bist nicht mein Typ.	तुम मेरे प्रकार के नहीं हो।
 You're not my type. (alternate translation)	Du passt nicht zu mir.	तुम मेरे लिए नापसंद हो।
+You're not special.	Du bist nichts Besonderes.	तुम खास नहीं हो।
+You're on the list.	Du stehst auf der Liste.	तुम सूची पर हो।
+You're on your own.	Du bist für dich selbst verantwortlich.	तुम अपने आप पर हो।
+You're persevering.	Du gibst nicht auf.	तुम जिद्दी हो।
+You're predictable.	Du bist vorhersehbar.	तुम पूर्वानुमान योग्य हो।
+You're pretty good.	Du bist ziemlich gut.	तुम काफी अच्छे हो।
