@@ -36300,3 +36300,8 @@ Did you guys see that?	Habt ihr das gesehen?	क्या तुम लोग �
 Did you have to do it?	Musstest du das tun?	क्या तुम्हें इसे करना पड़ा?
 Did you hear the bell?	Hast du die Glocke gehört?	क्या आपने घंटी बजी सुनी?
 Did you know Tom well?	Kanntest du Tom gut?	क्या तुम्हें टॉम को अच्छी तरह से जानते थे?
+Did you know him well?	Hast du ihn gut gekannt?	क्या आप उसे अच्छे से जानते थे?
+Did you like the meal?	Hat dir das Essen geschmeckt?	क्या तुम्हें भोजन पसंद आया?
+Did you like the play?	Hat dir das Stück gefallen?	क्या तुम्हें नाटक पसंद आया?
+Did you not know that?	Wusstest du das nicht?	क्या तुम्हें उसकी जानकारी नहीं थी?
+Did you pass the exam?	Hast du die Prüfung bestanden?	क्या तुमने परीक्षा पास की है?

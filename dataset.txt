@@ -1,17 +1,4 @@
 
-Did you know him well?	Hast du ihn gut gekannt?	क्या आप उसे अच्छी तरह से जानते थे?
-Did you know him well?	Kanntest du ihn gut?	क्या आप उसे अच्छी तरह से जानते थे?
-Did you know him well?	Kannten Sie ihn gut?	क्या आप उसे अच्छी तरह से जानते थे?
-Did you know him well?	Haben Sie ihn gut gekannt?	क्या आप उसे अच्छी तरह से जानते थे?
-Did you like the meal?	Hast du das Essen gemocht?	क्या आपको भोजन पसंद आया?
-Did you like the play?	Hat dir das Theaterstück gefallen?	क्या आपको नाटक पसंद आया?
-Did you not know that?	Wusstest du das nicht?	क्या आप नहीं जानते थे?
-Did you pass the exam?	Hast du die Prüfung bestanden?	क्या आपने परीक्षा पास की?
-Did you pass the exam?	Habt ihr die Prüfung bestanden?	क्या आपने परीक्षा पास की?
-Did you pass the exam?	Haben Sie die Prüfung bestanden?	क्या आपने परीक्षा पास की?
-Did you pass the exam?	Hast du die Klausur bestanden?	क्या आपने परीक्षा पास की?
-Did you pass the exam?	Habt ihr die Klausur bestanden?	क्या आपने परीक्षा पास की?
-Did you pass the exam?	Haben Sie die Klausur bestanden?	क्या आपने परीक्षा पास की?
 Did you read my email?	Hast du meine E-Mail gelesen?	क्या आपने मेरा ईमेल पढ़ा?
 Did you read my email?	Habt ihr meine E-Mail gelesen?	क्या आपने मेरा ईमेल पढ़ा?
 Did you read my email?	Haben Sie meine E-Mail gelesen?	क्या आपने मेरा ईमेल पढ़ा?
