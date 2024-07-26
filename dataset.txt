@@ -1,14 +1,4 @@
 
-Tom can play the piano.	Tom kann Klavier spielen.	टॉम पियानो खेल सकते हैं।
-Tom can read and write.	Tom kann lesen und schreiben.	टॉम पढ़ सकते हैं और लिख सकते हैं।
-Tom can read very well.	Tom kann sehr gut lesen.	टॉम बहुत अच्छी तरह से पढ़ सकते हैं।
-Tom can ride a bicycle.	Tom kann Fahrrad fahren.	टॉम बाइक की सवारी कर सकता है।
-Tom can sing very well.	Tom kann sehr gut singen.	टॉम बहुत अच्छा गा सकता है।
-Tom can swim very fast.	Tom kann sehr schnell schwimmen.	टॉम बहुत जल्दी तैर सकते हैं।
-Tom can swim very well.	Tom kann sehr gut schwimmen.	टॉम बहुत अच्छी तरह से तैर सकता है।
-Tom can understand you.	Tom kann dich verstehen.	टॉम आपको समझ सकता है।
-Tom can't believe Mary.	Tom kann Maria nicht glauben.	टॉम मारिया पर विश्वास नहीं कर सकता।
-Tom can't come with us.	Tom kann nicht mit uns kommen.	टॉम हमारे साथ नहीं आ सकता।
 Tom can't find his hat.	Tom kann seinen Hut nicht finden.	टॉम अपनी टोपी नहीं पा सकते।
 Tom can't have done it.	Tom kann es nicht getan haben.	टॉम ने ऐसा नहीं किया है।
 Tom can't help you now.	Tom kann dir jetzt nicht helfen.	टॉम अब आपकी मदद नहीं कर सकता।
