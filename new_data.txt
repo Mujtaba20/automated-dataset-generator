@@ -29802,3 +29802,9 @@ What is for dessert?	Was gibt es zum Nachtisch?	मिठाई के लिए
 What is in the desk?	Was ist im Schreibtisch?	डेस्क में क्या है?
 What is in this box?	Was ist in dieser Schachtel?	इस बक्से में क्या है?
 What is it now, Tom?	Was ist es jetzt, Tom?	अब क्या है, टॉम?
+What is it you need?	Was möchtest du?	तुम्हें क्या चाहिए?
+What is it you want?	Was willst du?	तुम्हें क्या चाहिए?
+What is on the desk?	Was liegt auf dem Tisch?	डेस्क पर क्या है?
+What is our problem?	Was ist unser Problem?	हमारी समस्या क्या है?
+What is popular now?	Was ist jetzt beliebt?	अब क्या प्रसिद्ध है?
+What is this letter?	Was ist dieser Brief?	यह पत्र क्या है?
