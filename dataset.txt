@@ -1,14 +1,4 @@
 
-I'll have to do that.	Ich werde das tun müssen.	मुझे ऐसा करना होगा।
-I'll help you escape.	Ich werde dir helfen, zu entkommen.	मैं आपको बचने में मदद करूंगा।
-I'll keep it in mind.	Ich werde es in Betracht ziehen.	मैं इस पर विचार करूंगा।
-I'll keep it in mind.	Ich werde es im Auge behalten.	मैं इस पर नजर रखूंगा।
-I'll know what to do.	Ich werde schon wissen, was zu tun ist.	मुझे पहले से ही पता चल जाएगा कि क्या करना है।
-I'll leave you alone.	Ich lass dich in Ruhe.	मैं तुम्हें शांति से छोड़ दूँगा।
-I'll live on welfare.	Ich werde von Sozialhilfe leben.	मैं सामाजिक सहायता से रहूंगा।
-I'll love you always.	Ich werde dich immer lieben.	मुझे हमेशा तुमसे प्यार रहेगा।
-I'll love you always.	Ich werde dich immer lieben!	मुझे हमेशा तुमसे प्यार रहेगा!
-I'll make sure of it.	Ich werde dafür sorgen.	मैं सुनिश्चित करूंगा।
 I'll never leave you.	Ich werde dich nie verlassen.	मैं तुम्हें कभी नहीं छोड़ दुंगा।
 I'll never leave you.	Ich werde euch nie verlassen.	मैं तुम्हें कभी नहीं छोड़ूंगा।
 I'll never leave you.	Ich werde Sie nie verlassen.	मैं उसे कभी नहीं छोड़ूंगा।

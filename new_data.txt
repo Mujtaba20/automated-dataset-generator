@@ -32392,3 +32392,11 @@ I'll go look for Tom.	Ich werde nach Tom suchen.	मैं टॉम की त�
 I'll go search for Tom.	Ich werde nach Tom suchen gehen.	मैं टॉम की तलाश करने जाऊंगा।
 I'll handle the rest.	Ich werde den Rest erledigen.	मैं बाकी का संभाल लूंगा।
 I'll take care of the remaining tasks.	Ich werde mich um die übrigen Aufgaben kümmern.	मैं शेष कार्यों का ध्यान रखूंगा।
+I'll have to do that.	Das werde ich tun müssen.	मुझे वह करना होगा।
+I'll help you escape.	Ich werde dir helfen zu entkommen.	मैं तुम्हें बचने में मदद करूंगा।
+I'll keep it in mind.	Ich werde daran denken.	मैं इसे ध्यान में रखूंगा।
+I'll know what to do.	Ich werde wissen, was zu tun ist.	मुझे पता होगा कि क्या करना है।
+I'll leave you alone.	Ich werde dich in Ruhe lassen.	मैं तुम्हें अकेले रहने दूंगा।
+I'll live on welfare.	Ich werde von Sozialleistungen leben.	मैं कल्याण पर जीता रहूंगा।
+I'll love you always.	Ich werde immer für dich da sein.	मैं हमेशा तुम्हारे साथ रहूंगा।
+I'll make sure of it.	Ich werde dafür sorgen.	मैं इसे सुनिश्चित कर दूंगा।
