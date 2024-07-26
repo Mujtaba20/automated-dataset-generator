@@ -22645,3 +22645,10 @@ Please make my bed.	Bitte mach mein Bett.	कृपया मेरी बिस
 Please shake hands.	Bitte Hände schütteln.	कृपया हाथ मिलाओ।
 Please sing a song.	Bitte sing ein Lied.	कृपया एक गाना गाएं।
 Please step inside.	Bitte treten Sie ein.	कृपया अंदर आइए।
+Please stop crying.	Bitte hör auf zu weinen.	कृपया रोना बंद करो।
+Please take a bath.	Bitte nimm ein Bad.	कृपया स्नान करें।
+Please take a seat.	Bitte nehmen Sie Platz.	कृपया आराम करें।
+Please wait for me.	Bitte warte auf mich.	कृपया मेरा इंतजार करें।
+Prices have jumped.	Die Preise sind gestiegen.	मूल्य बढ़ गए हैं।
+Put away the bread.	Leg das Brot weg.	रोटी को रख दो।
+Put away your toys.	Räumen Sie Ihr Spielzeug weg.	अपने खिलौने सेट करें।
