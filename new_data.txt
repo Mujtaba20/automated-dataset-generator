@@ -38224,3 +38224,11 @@ I'm happy, very happy.	Ich bin glücklich, sehr glücklich.	मैं खुश 
 I'm having dinner now.	Ich esse gerade zu Abend.	मैं अभी खाना खा रहा हूँ।
 I'm having dinner now. (variation)	Ich nehme gerade mein Abendessen ein.	मैं अभी रात का खाना खा रहा हूँ।
 I'm here as a tourist.	Ich bin hier als Tourist.	मैं एक पर्यटक के रूप में यहाँ हूँ।
+I'm here every Monday.	Ich bin hier jeden Montag.	मैं हर सोमवार यहाँ हूँ।
+I'm here for you, Tom.	Ich bin hier für dich, Tom.	मैं यहां तुम्हारे लिए हूं, टॉम।
+I'm here to apologize.	Ich bin hier, um mich zu entschuldigen.	मैं माफी मांगने यहां हूं।
+I'm in love with Mary.	Ich bin in Mary verliebt.	मैं मेरी से प्यार करता हूँ।
+I'm just being honest.	Ich bin nur ehrlich.	मैं सिर्फ सच बोल रहा हू।
+I'm just being polite.	Ich bin nur höflich.	मैं सिर्फ शिष्ट बना हूं।
+I'm just doing my job.	Ich mache nur meinen Job.	मैं बस अपना काम कर रहा हूं।
+I'm kind of into that.	Ich stehe irgendwie darauf.	मुझे यह थोड़ा-बहुत अच्छा लगता है।
