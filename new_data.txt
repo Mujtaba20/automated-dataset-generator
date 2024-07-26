@@ -40042,3 +40042,13 @@ Tom goes to bed early.	Tom geht früh ins Bett.	टॉम जल्दी सो
 Tom got Mary to laugh.	Tom brachte Mary zum Lachen.	टॉम ने मेरी को हंसाया।
 Tom got all emotional.	Tom wurde ganz emotional.	टॉम सभी भावनात्मक हो गया।
 Tom got angry with me.	Tom wurde wütend auf mich.	टॉम मेरे साथ गुस्सा हो गया।
+Tom got angry with us.	Tom wurde wütend auf uns.	टॉम हमसे नाराज़ हो गया।
+Tom got bored quickly.	Tom wurde schnell gelangweilt.	टॉम जल्दी उबाऊं हो गया।
+Tom got hit by a girl.	Tom wurde von einem Mädchen geschlagen.	टॉमे एक लड़की द्वारा लगा।
+Tom got married again.	Tom heiratete wieder.	टॉम फिर से शादी कर ली।
+Tom got off his horse.	Tom stieg von seinem Pferd.	टॉम अपने घोड़े से उतर गया।
+Tom got off scot-free.	Tom kam ungeschoren davon.	टॉम बिना सजा सुने बच गया।
+Tom got off the train.	Tom stieg aus dem Zug aus.	टॉम ट्रेन से उतर गया।
+Tom got over his cold.	Tom überwand seine Erkältung.	टॉम ठंडे से उबेर गया।
+Tom got the lead role.	Tom bekam die Hauptrolle.	टॉमे को मुख्य भूमिका मिली।
+Tom got very confused.	Tom wurde sehr verwirrt.	टॉम बहुत उलझन में आ गया।
