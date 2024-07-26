@@ -23657,3 +23657,12 @@ Tom is his brother.	Tom ist sein Bruder.	टॉम उसका भाई है
 Tom is hyperactive.	Tom ist hyperaktiv.	टॉम हाइपरऐक्टिव है।
 Tom is in his room.	Tom ist in seinem Zimmer.	टॉम अपने कमरे में है।
 Tom is in recovery.	Tom erholt sich.	टॉम बरामदी में है।
+Tom is in the park.	Tom ist im Park.	टॉम पार्क में है।
+Tom is in the room.	Tom ist im Zimmer.	टॉम कमरे में है।
+Tom is in the yard.	Tom ist im Hof.	टॉम यार्ड में है।
+Tom is in your car.	Tom ist in deinem Auto.	टॉम आपकी गाड़ी में है।
+Tom is incompetent.	Tom ist inkompetent.	टॉम अक्षम है।
+Tom is influential.	Tom ist einflussreich.	टॉम प्रभावशाली है।
+Tom is insensitive.	Tom ist unsensibel.	टॉम असंवेदनशील है।
+Tom is intelligent.	Tom ist intelligent.	टॉम बुद्धिमान है।
+Tom is intoxicated.	Tom ist betrunken.	टॉम नशे में है।

@@ -1,14 +1,4 @@
 
-Tom is in the park.	Tom ist im Park.	टॉम पार्क में है।
-Tom is in the room.	Tom ist im Zimmer.	टॉम कमरे में है।
-Tom is in the yard.	Tom ist auf dem Hof.	टॉम यार्ड में है।
-Tom is in your car.	Tom ist in deinem Auto.	टॉम आपकी कार में है।
-Tom is incompetent.	Tom ist inkompetent.	टॉम अक्षम है।
-Tom is incompetent.	Tom ist unfähig.	टॉम असमर्थ है।
-Tom is influential.	Tom ist einflussreich.	टॉम प्रभावशाली है।
-Tom is insensitive.	Tom ist unsensibel.	टॉम असंवेदनशील है।
-Tom is intelligent.	Tom ist intelligent.	टॉम बुद्धिमान है।
-Tom is intoxicated.	Tom ist betrunken.	टॉम नशे में है।
 Tom is introverted.	Tom ist introvertiert.	टॉम अंतर्मुखी है।
 Tom is just my age.	Tom ist genauso alt wie ich.	टॉम उतना ही पुराना है जितना मैं हूं।
 Tom is leaving now.	Tom geht jetzt.	टॉम अब जाता है।
