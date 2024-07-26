@@ -39787,3 +39787,12 @@ This tea is very good.	Dieser Tee ist sehr gut.	यह चाय बहुत �
 This textbook is good.	Dieses Lehrbuch ist gut.	यह पाठ्यपुस्तक अच्छी है।
 This time I'll try it.	Dieses Mal werde ich es versuchen.	इस बार मैं इसे परीक्षण करूँगा।
 This was a great idea.	Das war eine großartige Idee.	यह एक महान विचार था।
+This was a lot of fun.	Das hat viel Spaß gemacht.	यह बहुत मजेदार था।
+This water isn't cold.	Dieses Wasser ist nicht kalt.	यह पानी ठंडा नहीं है।
+This window is broken.	Dieses Fenster ist kaputt.	यह खिड़की टूटी हुई है।
+This wine tastes good.	Dieser Wein schmeckt gut.	यह शराब अच्छी लगती है।
+This works every time.	Dies funktioniert jedes Mal.	यह हर बार काम करता है।
+Those are Tom's shoes.	Das sind Toms Schuhe.	वे टॉम के जूते हैं।
+Those are empty words.	Das sind leere Worte.	वह खाली शब्द हैं।
+Those are my trousers.	Das sind meine Hosen.	वो मेरे पतलून हैं।
+Those are their books.	Das sind ihre Bücher.	वो उनकी किताबें हैं।

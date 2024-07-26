@@ -1,15 +1,4 @@
 
-This was a lot of fun.	Das hat eine Menge Spaß gemacht.	यह बहुत ही मज़ेदार था।
-This water isn't cold.	Dieses Wasser ist nicht kalt.	यह पानी ठंडा नहीं है।
-This window is broken.	Dieses Fenster ist kaputt.	यह खिड़की टूट गई है।
-This wine tastes good.	Dieser Wein schmeckt gut.	यह शराब अच्छा स्वाद लेती है।
-This works every time.	Das funktioniert jedes Mal.	यह हर बार काम करता है।
-This works every time.	Das klappt jedes Mal.	यह हर बार काम करता है।
-Those are Tom's shoes.	Das sind Toms Schuhe.	ये टॉम के जूते हैं।
-Those are empty words.	Das sind nur leere Worte.	ये सिर्फ खाली शब्द हैं।
-Those are my trousers.	Das ist meine Hose.	यह मेरी पैंट है।
-Those are their books.	Das sind ihre Bücher.	ये उनकी किताबें हैं।
-Those are their books.	Das sind deren Bücher.	ये उनकी किताबें हैं।
 Those are your orders.	Das sind deine Bestellungen.	ये आपके आदेश हैं।
 Those are your orders.	Das sind deine Befehle.	ये आपके आज्ञा हैं।
 Those are your orders.	Das sind deine Anordnungen.	ये आपके आदेश हैं।
