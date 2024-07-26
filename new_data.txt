@@ -22803,3 +22803,9 @@ Speak more quietly.	Sprich leiser.	धीरे बोलो।
 Stand back, please.	Tritt zurück, bitte.	पिछे हटें, कृपया।
 Stay here with Tom.	Bleib hier bei Tom.	यहाँ टॉम के साथ रुको।
 Stay where you are.	Bleib, wo du bist.	जहाँ हो, वहीं रहो।
+Step aside, please.	Bitte treten Sie beiseite.	कृपया हट जाएं।
+Stick to the facts.	Bleiben Sie bei den Fakten.	तथ्य पर ध्यान केंद्रित करें।
+Stick to your plan.	Bleib bei deinem Plan.	अपनी योजना पर लगे रहो।
+Stop being so nice.	Hör auf, so nett zu sein.	इतने अच्छे क्यों हो।
+Stop correcting me.	Hör auf, mich zu korrigieren.	मेरो सुधार करना बंद करो।
+Stop dating losers!	Hör auf, Verlierer zu daten!	हारने वालों से डेटिंग करना बंद करो!
