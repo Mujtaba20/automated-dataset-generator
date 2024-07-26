@@ -1,15 +1,4 @@
 
-Are you always busy?	Bist du immer so beschäftigt?	क्या आप हमेशा इतने व्यस्त हैं?
-Are you angry at me?	Bist du mir böse?	क्या आप मुझसे नाराज हैं?
-Are you angry at me?	Seid ihr mir böse?	क्या आप मुझसे नाराज हैं?
-Are you angry at me?	Sind Sie mir böse?	क्या आप मुझसे नाराज हैं?
-Are you at home now?	Bist du jetzt zuhause?	क्या आप अब घर पर हैं?
-Are you avoiding me?	Gehst du mir aus dem Weg?	क्या तम मुझे अवॉयड कर रहे हो?
-Are you avoiding me?	Geht ihr mir aus dem Weg?	क्या आप मुझसे बचते हैं?
-Are you avoiding me?	Gehen Sie mir aus dem Weg?	क्या आप मेरे रास्ते से बाहर जा रहे हैं?
-Are you comfortable?	Hast du es bequem?	क्या आपके पास यह आराम से है?
-Are you comfortable?	Haben Sie es bequem?	क्या आपके पास यह आराम से है?
-Are you comfortable?	Habt ihr es bequem?	क्या आपके पास यह आराम से है?
 Are you coming down?	Kommst du herunter?	क्या आप नीचे आ रहे हैं?
 Are you coming, Tom?	Kommst du, Tom?	क्या आप आ रहे हैं, टॉम?
 Are you enjoying it?	Gefällt euch das?	क्या आपको वह पसंद है?

@@ -25102,3 +25102,10 @@ Are we safe in here?	Sind wir hier sicher?	क्या हम यहाँ स�
 Are you a good cook?	Bist du ein guter Koch?	क्या तुम अच्छे रसोइये हो?
 Are you a policeman?	Bist du ein Polizist?	क्या तुम पुलिसवाला हो?
 Are you about ready?	Bist du etwa bereit?	क्या तुम लगभग तैयार हो?
+Are you always busy?	Bist du immer beschäftigt?	क्या आप हमेशा व्यस्त रहते हैं?
+Are you angry at me?	Bist du wütend auf mich?	क्या आप मुझसे नाराज़ हैं?
+Are you angry at me? - 2	Bist du böse auf mich?	क्या तुम मुझसे घुसा हो?
+Are you at home now?	Bist du jetzt zu Hause?	क्या तुम अभी घर पर हो?
+Are you avoiding me?	Meidest du mich?	क्या आप मुझसे बच रहे हैं?
+Are you avoiding me? - 2	Vermeiden Sie mich?	क्या आप मुझसे दूर रह रहे हैं?
+Are you comfortable?	Fühlst du dich wohl?	क्या आपको आराम मिल रहा है?
