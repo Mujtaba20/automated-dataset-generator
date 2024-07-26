@@ -1,15 +1,4 @@
 
-Today is your birthday.	Heute ist dein Geburtstag.	आज तुम्हारा जन्मदिन है।
-Today is your birthday.	Heute ist Ihr Geburtstag.	आज उसका जन्मदिन है।
-Today's Tom's birthday.	Tom hat heute Geburtstag.	टॉम का आज उसका जन्मदिन है।
-Tom abandoned the idea.	Tom gab die Idee auf.	टॉम ने विचार छोड़ दिया।
-Tom abandoned the plan.	Tom gab den Plan auf.	टॉम ने योजना छोड़ दी।
-Tom accepted our offer.	Tom nahm unser Angebot an.	टॉम ने हमारे प्रस्ताव को स्वीकार कर लिया।
-Tom acted like a child.	Tom führte sich wie ein Kind auf.	टॉम ने एक बच्चे की तरह काम किया।
-Tom acted like a saint.	Tom handelte wie ein Heiliger.	टॉम ने एक संत की तरह काम किया।
-Tom actually said that.	Das hat Tom in der Tat gesagt.	वास्तव में, टॉम ने कहा कि।
-Tom admired my new car.	Tom bewunderte mein neues Auto.	टॉम ने मेरी नई कार की प्रशंसा की।
-Tom admired my new car.	Tom hat mein neues Auto bewundert.	टॉम ने मेरी नई कार की प्रशंसा की।
 Tom agreed reluctantly.	Tom stimmte widerwillig zu.	टॉम अनिच्छा से सहमत हो गया।
 Tom almost always wins.	Tom gewinnt fast immer.	टॉम लगभग हमेशा जीतता है।
 Tom almost got married.	Tom hätte fast geheiratet.	टॉम ने लगभग शादी कर ली।
