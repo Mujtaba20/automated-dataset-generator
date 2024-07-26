@@ -33978,3 +33978,11 @@ This ought to be fun.	Das sollte Spaß machen.	यह मजेदार हो�
 This pen has run dry.	Dieser Stift ist leer gelaufen.	यह कलम सूख गई है।
 This place is boring.	Dieser Ort ist langweilig.	यह स्थान उबाऊ है।
 This place is creepy.	Dieser Ort ist gruselig.	यह स्थान डरावना है।
+This place is packed.	Dieser Ort ist voll.	यह जगह भरी हुई है।
+This plant is edible.	Diese Pflanze ist genießbar.	यह पौधा खाने योग्य है।
+This really happened.	Das ist tatsächlich passiert.	यह वास्तव में हुआ।
+This room is cramped.	Dieser Raum ist beengt.	यह कमरा संकीर्ण है।
+This rug is handmade.	Dieser Teppich ist handgefertigt.	यह गलीचा हैंडमेड है।
+This song sounds sad.	Dieses Lied klingt traurig.	यह गीत दुखी लगता है।
+This sounds familiar.	Das kommt mir bekannt vor.	यह परिचित लग रहा है।
+This sweater is warm.	Dieser Pullover ist warm.	यह स्वेटर गर्म है।
