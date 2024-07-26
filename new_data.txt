@@ -34497,3 +34497,11 @@ Tom is probably dead.	Tom ist wahrscheinlich tot.	टॉम शायद मर 
 Tom is probably lost.	Tom ist wahrscheinlich verloren.	टॉम शायद खो गया है।
 Tom is probably rich.	Tom ist wahrscheinlich reich.	टॉम शायद अमीर है।
 Tom is quite likable.	Tom ist ziemlich sympathisch.	टॉम काफी पसंदीदा है।
+Tom is quite popular.	Tom ist ziemlich beliebt.	टॉम काफी प्रसिद्ध है।
+Tom is quite unhappy.	Tom ist ziemlich unglücklich.	टॉम काफी अद्भुत है।
+Tom is really clever.	Tom ist wirklich clever.	टॉम सच में चालाक है।
+Tom is really sleepy.	Tom ist wirklich müde.	टॉम सच में नींद में है।
+Tom is really strong.	Tom ist wirklich stark.	टॉम सच में मजबूत है।
+Tom is related to me.	Tom steht in Verbindung mit mir.	टॉम मेरे से संबंधित है।
+Tom is sad, isn't he?	Tom ist traurig, oder?	टॉम उदास है, क्या नहीं?
+Tom is scared of you.	Tom hat Angst vor dir.	टॉम तुमसे डरता है।

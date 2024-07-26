@@ -1,14 +1,4 @@
 
-Tom is quite popular.	Tom ist ziemlich beliebt.	टॉम बहुत लोकप्रिय है।
-Tom is quite unhappy.	Tom ist ziemlich unglücklich.	टॉम बहुत दुखी है।
-Tom is really clever.	Tom ist echt schlau.	टॉम वास्तव में स्मार्ट है।
-Tom is really sleepy.	Tom ist ziemlich schläfrig.	टॉम बहुत नींद में है।
-Tom is really strong.	Tom ist wirklich stark.	टॉम वास्तव में मजबूत है।
-Tom is related to me.	Tom ist mit mir verwandt.	टॉम मुझसे संबंधित है।
-Tom is sad, isn't he?	Tom ist traurig, nicht wahr?	टॉम उदास है, है ना?
-Tom is scared of you.	Tom hat Angst vor dir.	टॉम आपसे डरता है।
-Tom is scared of you.	Tom hat Angst vor euch.	टॉम आपसे डरता है।
-Tom is scared of you.	Tom hat Angst vor Ihnen.	टॉम उनसे डरता है।
 Tom is schizophrenic.	Tom ist schizophren.	टॉम सिज़ोफ्रेनिक है।
 Tom is scolding Mary.	Tom schilt Mary aus.	टॉम मैरी लिखते हैं।
 Tom is scolding Mary.	Tom schimpft Maria aus.	टॉम ने मारिया को डांटा।
