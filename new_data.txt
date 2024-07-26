@@ -32039,3 +32039,11 @@ I owe Tom an apology.	Ich schulde Tom eine Entschuldigung.	मुझे टॉ�
 I owe a lot of money.	Ich schulde viel Geld.	मुझे बहुत सारा पैसा देना है।
 I owe him 50,000 yen.	Ich schulde ihm 50.000 Yen.	मुझे उसे 50,000 येन देना है।
 I owe you an apology.	Ich schulde dir eine Entschuldigung.	मुझे तुम्हें माफ़ी मांगनी है।
+I paid $200 in taxes.	Ich zahlte $200 Steuern.	मैंने $200 कर दिए।
+I paid him the money.	Ich zahlte ihm das Geld.	मैंने उसे पैसे दिए।
+I plan to skip lunch.	Ich plane das Mittagessen auszulassen.	मुझे दोपहर का भोजन छोडने की योजना है।
+I prefer it that way.	Ich ziehe es so vor.	मैं उसी तरीके से चाहता हूँ।
+I put on my trousers.	Ich zog meine Hose an.	मैंने अपने पतलून पहनी।
+I put up my umbrella.	Ich spannte meinen Regenschirm auf.	मैंने अपना छाता खोल दिया।
+I ran away from home.	Ich lief von zu Hause weg.	मैं घर से भाग आया।
+I ran back to my car.	Ich rannte zurück zu meinem Auto.	मैं अपनी गाड़ी की ओर वापस भागा।
