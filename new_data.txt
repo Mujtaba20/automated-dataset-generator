@@ -30983,3 +30983,11 @@ He didn't fear death.	Er fürchtete den Tod nicht.	उसे मौत से �
 He didn't get caught.	Er wurde nicht erwischt.	उसे पकड़ा नहीं गया।
 He didn't say a word.	Er sagte kein Wort.	उसने एक शब्द नहीं कहा।
 He didn't say a word.[different meaning]	Er schwieg.	उसने एक शब्द नहीं कहा।
+He died one year ago.	Er ist vor einem Jahr gestorben.	उसने एक साल पहले मर गया था।
+He doesn't get jokes.	Er versteht keine Witze.	उसे मजाक समझ में नहीं आते।
+He doesn't like fish.	Er mag keinen Fisch.	उसे मछली पसंद नहीं है।
+He doesn't sing well.	Er singt nicht gut.	उसका अच्छी तरह से गाना नहीं है।
+He doesn't tell lies.	Er erzählt keine Lügen.	वह झूठ नहीं बोलता।
+He doesn't want kids.	Er will keine Kinder.	उसे बच्चे नहीं चाहिए।
+He easily gets angry.	Er wird leicht wütend.	वह आसानी से गुस्सा हो जाता है।
+He emptied his glass.	Er leerte sein Glas.	उसने अपनी गिलास खाली की।
