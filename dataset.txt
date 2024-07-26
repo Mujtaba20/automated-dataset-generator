@@ -1,14 +1,4 @@
 
-Tom neglected his work.	Tom vernachlässigte seine Arbeit.	टॉम ने अपने काम की उपेक्षा की।
-Tom never eats spinach.	Tom isst nie Spinat.	टॉम कभी पालक नहीं खाता।
-Tom never forgave Mary.	Tom hat Maria nie vergeben.	टॉम ने कभी भी मारिया को माफ नहीं किया।
-Tom never got an award.	Tom hat nie einen Preis bekommen.	टॉम को कभी कीमत नहीं मिली।
-Tom never got an award.	Tom hat nie eine Auszeichnung bekommen.	टॉम को कभी पुरस्कार नहीं मिला।
-Tom never lies to Mary.	Tom log Maria nie an.	टॉम लॉग मारिया कभी नहीं।
-Tom never made it home.	Tom kam nie zu Hause an.	टॉम कभी घर नहीं पहुंचे।
-Tom never mentioned it.	Tom hat das nie erwähnt.	टॉम ने कभी उल्लेख नहीं किया।
-Tom never said goodbye.	Tom verabschiedete sich nie.	टॉम ने कभी अलविदा नहीं कहा।
-Tom never spoke French.	Tom sprach nie Französisch.	टॉम ने कभी फ्रेंच नहीं बोला।
 Tom never told me that.	Tom hat mir das nie gesagt.	टॉम ने मुझे कभी नहीं बताया।
 Tom never trusted Mary.	Tom hat Maria nie vertraut.	टॉम ने कभी भी मारिया पर भरोसा नहीं किया।
 Tom never visited Mary.	Tom hat Maria nie besucht.	टॉम ने कभी मारिया का दौरा नहीं किया।
