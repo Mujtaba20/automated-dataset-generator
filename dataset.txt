@@ -1,14 +1,4 @@
 
-Tom is patient with me.	Tom ist geduldig mit mir.	टॉम मेरे साथ धैर्यवान है।
-Tom is picking flowers.	Tom pflückt Blumen.	टॉम ने फूल चुना।
-Tom is picking oranges.	Tom pflückt Orangen.	टॉम ने संतरे को चुना।
-Tom is playing outside.	Tom spielt draußen.	टॉम बाहर खेलता है।
-Tom is preparing lunch.	Tom bereitet das Mittagessen zu.	टॉम दोपहर का भोजन तैयार करता है।
-Tom is probably asleep.	Tom schläft wahrscheinlich.	टॉम शायद सोता है।
-Tom is probably hungry.	Tom ist vermutlich hungrig.	टॉम शायद भूखा है।
-Tom is quiet, isn't he?	Tom ist still, nicht wahr?	टॉम चुप है, है ना?
-Tom is quite competent.	Tom ist recht kompetent.	टॉम काफी सक्षम है।
-Tom is quite courteous.	Tom ist recht höflich.	टॉम काफी विनम्र है।
 Tom is quite drunk now.	Tom ist jetzt ziemlich betrunken.	टॉम अब बहुत नशे में है।
 Tom is quite forgetful.	Tom ist ziemlich vergesslich.	टॉम बहुत भुलक्कड़ है।
 Tom is quite sarcastic.	Tom ist ziemlich sarkastisch.	टॉम बहुत व्यंग्यात्मक है।
