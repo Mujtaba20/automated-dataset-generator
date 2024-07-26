@@ -1,17 +1,4 @@
 
-Do you play baseball?	Spielst du Baseball?	क्या आप बेसबॉल खेलते हैं?
-Do you play baseball?	Spielt ihr Baseball?	क्या आप बेसबॉल खेलते हैं?
-Do you play baseball?	Spielen Sie Baseball?	क्या आप बेसबॉल खेलते हैं?
-Do you remember that?	Erinnerst du dich an das?	क्या आपको वो याद है?
-Do you remember this?	Erinnerst du dich an das?	क्या आपको वो याद है?
-Do you remember this?	Erinnern Sie sich an das?	क्या आपको वो याद है?
-Do you remember this?	Erinnert ihr euch an das?	क्या आपको वो याद है?
-Do you remember this?	Erinnerst du dich an den?	क्या आपको वो याद है?
-Do you remember this?	Erinnern Sie sich an den?	क्या आपको वो याद है?
-Do you remember this?	Erinnert ihr euch an den?	क्या आपको वो याद है?
-Do you remember this?	Erinnerst du dich an die?	क्या आपको वो याद है?
-Do you remember this?	Erinnern Sie sich an die?	क्या आपको वो याद है?
-Do you remember this?	Erinnert ihr euch an die?	क्या आपको वो याद है?
 Do you run every day?	Läufst du jeden Tag?	क्या आप हर दिन चलते हैं?
 Do you run every day?	Laufen Sie jeden Tag?	क्या आप हर दिन चलते हैं?
 Do you run every day?	Lauft ihr jeden Tag?	क्या आप हर दिन चल रहे हैं?

@@ -30709,3 +30709,7 @@ Do you need a second?	Brauchst du eine Sekunde?	क्या तुम्हे�
 Do you need our help?	Benötigen Sie unsere Hilfe?	क्या आपको हमारी सहायता की आवश्यकता है?
 Do you need the book?	Brauchst du das Buch?	क्या तुम्हें किताब की आवश्यकता है?
 Do you need the keys?	Brauchst du die Schlüssel?	क्या तुम्हें चाबियाँ चाहिए?
+Do you play baseball?	Spielst du Baseball?	क्या आप बेसबॉल खेलते हैं?
+Do you remember that?	Erinnerst du dich daran?	क्या तुम्हें याद है वह?
+Do you remember this?	Erinnerst du dich daran?	क्या तुम्हें याद है यह?
+Do you remember this? - 2	Erinnerst du dich an das?	क्या तुम्हें यह याद है?
