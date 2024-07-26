@@ -1,15 +1,4 @@
 
-Someone took my stuff.	Jemand nahm meine Sachen.	किसी ने मेरी चीजें ली।
-Something has changed.	Etwas hat sich geändert.	कुछ बदल गया है।
-Something has changed.	Etwas ist anders.	कुछ अलग है।
-Something has changed.	Etwas hat sich verändert.	कुछ बदल गया है।
-Something is changing.	Etwas verändert sich gerade.	कुछ बदल रहा है।
-Something is going on.	Es ist etwas im Gange.	यह प्रगति पर है।
-Something isn't right.	Irgendwas stimmt nicht.	कुछ गड़बड़ है।
-Something seems wrong.	Irgendetwas scheint falsch zu sein.	कुछ गलत लगता है।
-Something seems wrong.	Irgendwas scheint falsch zu sein.	कुछ गलत लगता है।
-Something smells good.	Irgendetwas riecht hier gut.	यहाँ कुछ अच्छी खुशबू आ रही है।
-Something smells good.	Irgendwas riecht hier gut.	यहाँ कुछ अच्छी खुशबू आ रही है।
 Something stinks here.	Hier stinkt irgendetwas.	यहाँ कुछ बदबू आ रही है।
 Something stinks here.	Irgendetwas stinkt hier.	यहाँ कुछ बदबू आ रही है।
 Something's happening.	Irgendetwas passiert gerade.	कुछ हो रहा है।

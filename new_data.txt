@@ -39208,3 +39208,10 @@ Someone asked for you.	Jemand hat nach dir gefragt.	किसी ने तु�
 Someone open the door.	Jemand öffne die Tür.	कोई दरवाज़ा खोलो।
 Someone stole my cash.	Jemand hat mein Bargeld gestohlen.	किसी ने मेरे पैसे चुराए।
 Someone took my place.	Jemand hat meinen Platz eingenommen.	किसी ने मेरी जगह ले ली।
+Someone took my stuff.	Jemand hat meine Sachen genommen.	किसी ने मेरी चीजें ले लीं।
+Something has changed.	Irgendetwas hat sich verändert.	कुछ बदला है।
+Something is changing.	Etwas verändert sich.	कुछ बदल रहा है।
+Something is going on.	Es läuft etwas.	कुछ चल रहा है।
+Something isn't right.	Etwas stimmt nicht.	कुछ सही नहीं है।
+Something seems wrong.	Es sieht so aus, als ob etwas nicht stimmt.	कुछ गड़बड़ लग रहा है।
+Something smells good.	Etwas riecht gut.	कुछ अच्छा लग रहा है।
