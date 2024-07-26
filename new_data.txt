@@ -34849,3 +34849,11 @@ Tom should leave now.	Tom sollte jetzt gehen.	टॉम को अब चलन�
 Tom should thank you.	Tom sollte dir danken.	टॉम को आपका धन्यवाद करना चाहिए।
 Tom should've called.	Tom hätte anrufen sollen.	टॉम को कॉल करना चाहिए था।
 Tom showed me around.	Tom hat mir die Gegend gezeigt.	टॉम ने मुझे आस-पास घुमाया।
+Tom signed the check.	Tom unterschrieb den Scheck.	टॉमने चेक पर हस्ताक्षर किए।
+Tom sings quite well.	Tom singt ziemlich gut.	टॉम अच्छे से गाता है।
+Tom sipped his drink.	Tom nippte an seinem Getränk.	टॉमने अपनी ड्रिंक पी ली।
+Tom slammed the door.	Tom knallte die Tür zu.	टॉमने दरवाजा जड़ से बंद किया।
+Tom slept in the car.	Tom schlief im Wagen.	टॉम गाड़ी में सो गया।
+Tom slept on the bus.	Tom schlief im Bus.	टॉम बस पर सो गया।
+Tom slept peacefully.	Tom schlief friedlich.	टॉम शांतिपूर्वक सो गया।
+Tom slept restlessly.	Tom schlief unruhig.	टॉम बेचैनी से सो रहा था।
