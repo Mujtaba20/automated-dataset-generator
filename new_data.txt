@@ -30514,3 +30514,12 @@ Can you program in C?	Kannst du in C programmieren?	क्या तुम C म
 Can you ride a horse?	Kannst du reiten?	क्या तुम घोड़े पर सवारी कर सकते हो?
 Can you speak French?	Könnt ihr Französisch sprechen?	क्या तुम फ्रेंच बोल सकते हों?
 Can you take a break?	Kannst du eine Pause machen?	क्या तुम रुक सकते हो?
+Can't we go with Tom?	Können wir nicht mit Tom gehen?	हम टॉम के साथ नहीं जा सकते?
+Cats don't like dogs.	Katzen mögen keine Hunde.	बिल्लियाँ कुत्तों को पसंद नहीं करतीं।
+Cats have nine lives.	Katzen haben neun Leben.	बिल्लियों के नौ जीवन होते हैं।
+Cattle feed on grass.	Das Vieh frisst Gras.	पशु घास खाते हैं।
+Changes came quickly.	Veränderungen kamen schnell.	परिवर्तन जल्दी आए।
+Children need loving.	Kinder brauchen Liebe.	बच्चों को प्यार की आवश्यकता है।
+Clean up the kitchen.	Räum die Küche auf.	रसोई साफ करो।
+Colds are contagious.	Erkältungen sind ansteckend.	ठंडी लगने वाली बीमारी संक्रामक होती है।
+Come and help me out.	Komm und hilf mir.	आकर मेरी मदद करो।
