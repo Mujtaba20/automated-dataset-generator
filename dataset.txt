@@ -1,14 +1,4 @@
 
-There is nothing to it.	Das braucht nicht viel.	यह ज्यादा जरूरत नहीं है।
-There was an explosion.	Es gab eine Explosion.	एक विस्फोट था।
-There was dead silence.	Es herrschte tödliches Schweigen.	घातक चुप्पी थी।
-There was dead silence.	Es herrschte Totenstille.	मौत की चुप्पी थी।
-There was no emergency.	Es gab keinen Notfall.	कोई आपातकाल नहीं था।
-There was nobody there.	Es war niemand da.	वहां कोई नहीं था।
-There's a hole in this.	Das hat ein Loch.	वह एक छेद है।
-There's a lot at stake.	Es steht viel auf dem Spiel.	दांव पर बहुत कुछ है।
-There's a storm coming.	Ein Sturm zieht auf.	एक तूफान आ रहा है।
-There's a storm coming.	Ein Unwetter ist im Anzug.	एक तूफान एक सूट में है।
 There's a waiting list.	Es gibt eine Warteliste.	एक प्रतीक्षा सूची है।
 There's another reason.	Es gibt noch einen Grund.	एक और कारण है।
 There's no alternative.	Es gibt keine Alternative.	यहां कोई विकल्प नहीं है।
