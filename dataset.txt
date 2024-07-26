@@ -1,14 +1,4 @@
 
-Tom started drawing.	Tom fing an zu zeichnen.	टॉम ने आकर्षित करना शुरू कर दिया।
-Tom started packing.	Tom machte sich ans Packen.	टॉम ने पैकिंग शुरू कर दी।
-Tom started reading.	Tom fing an zu lesen.	टॉम ने पढ़ना शुरू कर दिया।
-Tom started reading.	Tom fing zu lesen an.	टॉम ने पढ़ना शुरू कर दिया।
-Tom started shaking.	Tom fing an zu zittern.	टॉम कांपने लगा।
-Tom started smiling.	Tom fing an zu lächeln.	टॉम मुस्कुराने लगा।
-Tom started snoring.	Tom begann zu schnarchen.	टॉम ने खर्राटे शुरू कर दिए।
-Tom started snoring.	Tom fing an zu schnarchen.	टॉम ने खर्राटे शुरू कर दिए।
-Tom started the car.	Tom startete den Wagen.	टॉम ने कार शुरू की।
-Tom started to sing.	Tom fing an zu singen.	टॉम ने गाना शुरू किया।
 Tom started yelling.	Tom begann zu schreien.	टॉम चिल्लाने लगा।
 Tom stirred his tea.	Tom rührte seinen Tee um.	टॉम ने अपनी चाय को स्थानांतरित कर दिया।
 Tom stole my wallet.	Tom hat mir meinen Geldbeutel gestohlen.	टॉम ने मेरा बटुआ चुरा लिया।

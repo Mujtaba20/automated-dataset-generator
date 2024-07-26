@@ -29287,3 +29287,13 @@ Tom smiled politely.	Tom lächelte höflich.	टॉमने शिष्ट र
 Tom speaks too fast.	Tom spricht zu schnell.	टॉम बहुत तेज़ी से बोलता है।
 Tom spoke very well.	Tom sprach sehr gut.	टॉमने बहुत अच्छे से बोला।
 Tom started dancing.	Tom begann zu tanzen.	टॉमने नृत्य करना शुरू किया।
+Tom started drawing.	Tom begann zu zeichnen.	टॉम ड्रइंग शुरू कर दी।
+Tom started packing.	Tom begann zu packen.	टॉम पैक करना शुरू कर दिया।
+Tom started reading.	Tom begann zu lesen.	टॉम पढ़ना शुरू कर दिया।
+Tom started reading. - Different meaning	Tom fing an zu lesen.	टॉम ने पढ़ना शुरू किया।
+Tom started shaking.	Tom begann zu zittern.	टॉम कांपना शुरू कर दिया।
+Tom started smiling.	Tom fing an zu lächeln.	टॉम मुस्कान देने लगा।
+Tom started snoring.	Tom begann zu schnarchen.	टॉम खराते लेना शुरू कर दिया।
+Tom started snoring. - Different meaning	Tom begann zu schlafen.	टॉम सोने लगा।
+Tom started the car.	Tom startete das Auto.	टॉम ने कार चालू की।
+Tom started to sing.	Tom fing an zu singen.	टॉम गाना गाने लगा।
