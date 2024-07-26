@@ -26943,3 +26943,11 @@ I'll go in a minute.	Ich gehe in einer Minute.	मैं एक मिनट म
 I'll go take a look.	Ich werde mir das ansehen gehen.	मैं जा कर देख लूँगा।
 I'll go to the park.	Ich gehe in den Park.	मैं पार्क जाऊँगा।
 I'll have no choice.	Ich werde keine Wahl haben.	मेरे पास कोई विकल्प नहीं होगा।
+I'll have skim milk.	Ich werde fettarme Milch haben.	मैं कम दूध पीऊँगा।
+I'll join you later.	Ich werde später zu dir stoßen.	मैं बाद में तुम्हारे साथ शामिल होऊँगा।
+I'll lend it to you.	Ich werde es dir leihen.	मैं तुम्हें उसे उधार दूँगा।
+I'll look after Tom.	Ich werde auf Tom aufpassen.	मैं टॉम की देखभाल करूँगा।
+I'll look after you.	Ich werde mich um dich kümmern.	मैं तुम्हारा ख्याल रखूँगा।
+I'll look into that.	Ich werde das prüfen.	मैं इस पर जाँच करूँगा।
+I'll make Tom do it.	Ich werde Tom dazu bringen, es zu tun.	मैं टॉम से यह करवा लूँगा।
+I'll make it simple.	Ich werde es einfach machen.	मैं इसे सरल बना दूँगा।
