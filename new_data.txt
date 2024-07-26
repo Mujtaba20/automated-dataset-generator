@@ -31610,3 +31610,13 @@ I don't need anybody.	Ich brauche niemanden.	मुझे किसी की �
 I don't need glasses.	Ich brauche keine Brille.	मुझे चश्मा की आवश्यकता नहीं है।
 I don't normally lie.	Normalerweise lüge ich nicht.	मैं सामान्यत: झूठ नहीं बोलता।
 I don't recognize it.	Ich erkenne es nicht.	मैं इसे पहचान नहीं पा रहा हूँ।
+I don't remember you.	Ich erinnere mich nicht an dich.	मैं तुम्हे नहीं याद करता।
+I don't see anything.	Ich sehe nichts.	मैं कुछ नहीं देखता।
+I don't speak French.	Ich spreche kein Französisch.	मैं फ्रेंच नहीं बोलता।
+I don't speak German.	Ich spreche kein Deutsch.	मैं जर्मन नहीं बोलता।
+I don't speak to Tom.	Ich spreche nicht mit Tom.	मैं टॉम से नहीं बोलता।
+I don't study French.	Ich studiere kein Französisch.	मैं फ्रेंच नहीं पढ़ता।
+I don't trust anyone.	Ich vertraue niemandem.	मैं किसी पर भरोसा नहीं करता।
+I don't use Facebook.	Ich benutze kein Facebook.	मैं फेसबुक नहीं उपयोग करता।
+I don't want a drink.	Ich möchte keinen Drink.	मैं पीने का कोई इच्छा नहीं है।
+I don't want a horse.	Ich möchte kein Pferd.	मुझे कोई घोड़ा नहीं चाहिए।

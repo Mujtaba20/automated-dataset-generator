@@ -1,14 +1,4 @@
 
-I don't remember you.	Ich erinnere mich nicht an dich.	मुझे आपको याद नहीं है।
-I don't see anything.	Ich sehe nichts.	मुझे कुछ समझ नहीं आता।
-I don't speak French.	Ich spreche kein Französisch.	मैं फ्रेंच में बात नहीं कर पाता हूं।
-I don't speak German.	Ich spreche nicht Deutsch.	मुझे जर्मन नहीं आती।
-I don't speak to Tom.	Ich rede nicht mit Tom.	मैं टॉम से बात नहीं कर रहा हूं।
-I don't study French.	Ich studiere kein Französisch.	मैं फ्रेंच का अध्ययन नहीं करता।
-I don't trust anyone.	Ich vertraue niemandem.	मुझे किसी पर भरोसा नहीं है।
-I don't use Facebook.	Ich benutze kein Facebook.	मैं फेसबुक का उपयोग नहीं करता।
-I don't want a drink.	Ich will keinen Drink.	मुझे ड्रिंक नहीं चाहिए।
-I don't want a horse.	Ich will kein Pferd.	मुझे घोड़ा नहीं चाहिए।
 I don't want charity.	Ich will keine Wohltätigkeit.	मैं चैरिटी नहीं चाहता।
 I don't want charity.	Ich will keine Almosen.	मुझे भिक्षा नहीं चाहिए।
 I don't want to cook.	Ich will nicht kochen.	मैं खाना बनाना नहीं चाहता।
