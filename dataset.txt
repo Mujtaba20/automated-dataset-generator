@@ -1,14 +1,4 @@
 
-We'll wait a while.	Wir werden eine Weile warten.	हम थोड़ी देर इंतजार करेंगे।
-We'll wait a while.	Wir warten einen Moment.	हम एक पल का इंतजार कर रहे हैं।
-We're Tom's family.	Wir sind Toms Familie.	हम टॉम का परिवार हैं।
-We're a big family.	Wir sind eine große Familie.	हम एक बड़ा परिवार हैं।
-We're all students.	Wir sind alle Studenten.	हम सभी छात्र हैं।
-We're all students.	Wir sind alle Schüler.	हम सभी छात्र हैं।
-We're almost broke.	Wir sind fast pleite.	हम लगभग टूट गए हैं।
-We're almost there.	Wir sind gleich da.	हम बस पहुँच गए।
-We're always right.	Wir haben immer recht.	हम हमेशा सही होते हैं।
-We're closed today.	Wir haben heute geschlossen.	हम आज बंद हो गए।
 We're conservative.	Wir sind konservativ.	हम रूढ़िवादी हैं।
 We're contributing.	Wir leisten einen Beitrag.	हम एक योगदान देते हैं।
 We're contributing.	Wir leisten Beiträge.	हम योगदान देते हैं।

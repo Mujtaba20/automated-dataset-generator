@@ -24386,3 +24386,11 @@ We'll let you know.	Wir werden es dir wissen lassen.	हम तुम्हे�
 We'll let you know. - Different Meaning	Wir werden dich informieren.	हम आपको सूचित कर देंगे।
 We'll look at that.	Wir werden uns das ansehen.	हम इस पर देखेंगे।
 We'll pray for you.	Wir werden für dich beten.	हम आपके लिए प्रार्थना करेंगे।
+We'll wait a while.	Wir werden eine Weile warten.	हम थोड़ी देर रुकेंगे।
+We're Tom's family.	Wir sind Toms Familie.	हम टॉम के परिवार हैं।
+We're a big family.	Wir sind eine große Familie.	हम एक बड़े परिवार हैं।
+We're all students.	Wir sind alle Studenten.	हम सभी छात्र हैं।
+We're almost broke.	Wir sind fast pleite.	हम लगभग दिवालिया हो गए हैं।
+We're almost there.	Wir sind fast da.	हम लगभग पहुंच गए हैं।
+We're always right.	Wir haben immer Recht.	हमेशा हम सही होते हैं।
+We're closed today.	Wir sind heute geschlossen.	आज हम बंद हैं।
