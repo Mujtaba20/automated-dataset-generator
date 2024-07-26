@@ -24077,3 +24077,12 @@ Tom was born there.	Tom wurde dort geboren.	टॉम वहाँ पैदा 
 Tom was courageous.	Tom war mutig.	टॉम बहादुर था।
 Tom was dead wrong.	Tom lag völlig falsch.	टॉम पूरी तरह गलत था।
 Tom was dehydrated.	Tom war dehydriert.	टॉम पानी की कमी महसूस कर रहा था।
+Tom was devastated.	Tom war am Boden zerstört.	टॉम निराश था।
+Tom was distracted.	Tom war abgelenkt.	टॉम ध्यान भटक गया था।
+Tom was distressed.	Tom war bekümmert.	टॉम परेशान था।
+Tom was downstairs.	Tom war unten.	टॉम नीचे था।
+Tom was dumbstruck.	Tom war sprachlos.	टॉम दंग रह गया था।
+Tom was found dead.	Tom wurde tot aufgefunden.	टॉम मरे हुए पाया गया था।
+Tom was half right.	Tom hatte teilweise recht.	टॉम आधी सही था।
+Tom was home alone.	Tom war allein zu Hause.	टॉम अकेले घर पर था।
+Tom was humiliated.	Tom wurde gedemütigt.	टॉम का अपमान हुआ।
