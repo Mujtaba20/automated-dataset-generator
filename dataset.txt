@@ -1,14 +1,4 @@
 
-Tom prefers brown rice.	Tom bevorzugt Naturreis.	टॉम नेचर राइस पसंद करते हैं।
-Tom pressed the button.	Tom drückte auf den Knopf.	टॉम ने बटन दबाया।
-Tom puffed on his pipe.	Tom paffte seine Pfeife.	टॉम ने अपने पाइप को पफ किया।
-Tom pulled the trigger.	Tom drückte ab.	टॉम ने दबाया।
-Tom pulled the trigger.	Tom zog ab.	टॉम ने खींच लिया।
-Tom pumped up the tire.	Tom pumpte den Reifen auf.	टॉम ने टायर को पंप किया।
-Tom pumped up the tire.	Tom hat den Reifen aufgepumpt.	टॉम ने टायर फुलाया है।
-Tom put down the phone.	Tom legte den Hörer auf.	टॉम ने श्रोता पर डाल दिया।
-Tom put gas in the car.	Tom füllte das Auto mit Benzin.	टॉम ने कार को गैसोलीन से भर दिया।
-Tom put gas in the car.	Tom betankte das Auto.	टॉम ने कार को ईंधन दिया।
 Tom put his clothes on.	Tom hat sich angezogen.	टॉम ने कपड़े पहने हैं।
 Tom put his glasses on.	Tom setzte seine Brille auf.	टॉम ने अपने चश्मे पर डाल दिया।
 Tom put his glasses on.	Tom setzte sich die Brille auf.	टॉम ने चश्मे पर डाल दिया।
