@@ -1,14 +1,4 @@
 
-I like this blue dress.	Mir gefällt dieses blaue Kleid.	मुझे यह नीली पोशाक पसंद है।
-I like to chew tobacco.	Ich kaue gerne Tabak.	मुझे तंबाकू चबाना पसंद है।
-I like to go to school.	Ich gehe gerne zur Schule.	मुझे स्कूल जाना पसंद है।
-I like to grow flowers.	Ich züchte gerne Blumen.	मुझे फूलों का प्रजनन करना पसंद है।
-I like to ride my bike.	Ich fahre gern Rad.	मुझे अपनी बाइक की सवारी करना पसंद है।
-I like to speak French.	Ich spreche gerne Französisch.	मुझे फ्रेंच बोलना पसंद है।
-I like to study French.	Ich lerne gerne Französisch.	मुझे फ्रेंच सीखना पसंद है।
-I like to travel alone.	Ich reise gern allein.	मुझे अकेले यात्रा करना पसंद है।
-I like to wear a watch.	Ich trage gerne eine Armbanduhr.	मुझे कलाई घड़ी पहनना पसंद है।
-I like vampire stories.	Ich mag Vampirgeschichten.	मुझे पिशाच की कहानियां पसंद हैं।
 I like watching movies.	Ich sehe mir gern Filme an.	मुझे फिल्में देखना पसंद है।
 I like watching people.	Ich beobachte gern Leute.	मुझे लोगों को देखना पसंद है।
 I liked Tom right away.	Tom hat mir gleich gefallen.	मुझे तुरंत टॉम पसंद आया।
