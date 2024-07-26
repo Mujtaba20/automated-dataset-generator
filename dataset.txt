@@ -1,15 +1,4 @@
 
-Why did you help me?	Warum hast du mir geholfen?	आपने मेरी मदद क्यों की?
-Why did you help me?	Warum habt ihr mir geholfen?	आपने मेरी मदद क्यों की?
-Why did you help me?	Warum haben Sie mir geholfen?	आपने मेरी मदद क्यों की?
-Why did you kiss me?	Warum hast du mich geküsst?	तुम मुझे चूम क्यों किया?
-Why did you kiss me?	Warum haben Sie mich geküsst?	तुम मुझे चूम क्यों किया?
-Why did you kiss me?	Warum habt ihr mich geküsst?	तुम मुझे चूम क्यों किया?
-Why did you sell it?	Warum hast du es verkauft?	आपने इसे क्यों बेचा?
-Why did you stop by?	Warum bist du vorbeigekommen?	आप क्यों आए?
-Why didn't Tom come?	Warum ist Tom nicht gekommen?	टॉम क्यों नहीं आया?
-Why didn't Tom stop?	Warum ist Tom nicht stehengeblieben?	टॉम क्यों नहीं रुका?
-Why didn't Tom stop?	Warum blieb Tom nicht stehen?	टॉम क्यों नहीं रुका?
 Why didn't you call?	Warum hast du nicht angerufen?	तुमने मुझे काल क्यों नहीं किया?
 Why didn't you call?	Warum habt ihr nicht angerufen?	आपने फोन क्यों नहीं किया?
 Why didn't you call?	Warum haben Sie nicht angerufen?	आपने फोन क्यों नहीं किया?

@@ -30041,3 +30041,9 @@ Why did you call me?	Warum hast du mich angerufen?	तुमने मुझे 
 Why did you do that?	Warum hast du das getan?	तुमने ऐसा क्यों किया?
 Why did you do that? (Different Meaning)	Warum hast du das gemacht?	तुमने ऐसा क्यों किया?
 Why did you dump me?	Warum hast du mich abserviert?	तुने मुझे क्यों छोड़ दिया?
+Why did you help me?	Warum hast du mir geholfen?	तुमने मुझे क्यों मदद की?
+Why did you kiss me?	Warum hast du mich geküsst?	तुमने मुझे क्यों चुमा?
+Why did you sell it?	Warum hast du es verkauft?	तुमने यह क्यों बेचा?
+Why did you stop by?	Warum hast du angehalten?	तुमने क्यों ठहरा दिया?
+Why didn't Tom come?	Warum ist Tom nicht gekommen?	तोम क्यों नहीं आया?
+Why didn't Tom stop?	Warum hat Tom nicht aufgehört?	तोम ने क्यों नहीं रुका?
