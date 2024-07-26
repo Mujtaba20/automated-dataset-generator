@@ -31938,3 +31938,11 @@ I looked for the key.	Ich suchte nach dem Schlüssel.	मैंने चाब�
 I lost consciousness.	Ich verlor das Bewusstsein.	मैं होश खो गया।
 I lost my sunglasses.	Ich verlor meine Sonnenbrille.	मैंने अपनी धूप की चश्मा खो दी।
 I lost track of time.	Ich verlor das Zeitgefühl.	मैंने समय का पता खो दिया।
+I love French coffee.	Ich liebe französischen Kaffee.	मुझे फ्रेंच कॉफ़ी पसंद है।
+I love French movies.	Ich liebe französische Filme.	मुझे फ्रेंच फिल्में पसंद हैं।
+I love green peppers.	Ich liebe grüne Paprika.	मुझे हरी मिर्च पसंद है।
+I love these gadgets.	Ich liebe diese Geräte.	मुझे ये गैजेट्स पसंद हैं।
+I love to read books.	Ich liebe es, Bücher zu lesen.	मुझे किताबें पढ़ना पसंद है।
+I love watching golf.	Ich liebe es, Golf zu beobachten.	मुझे गोल्फ देखना पसंद है।
+I love you very much.	Ich liebe dich sehr.	मैं तुमसे बहुत प्यार करता हूँ।
+I love your daughter.	Ich liebe deine Tochter.	मुझे तुम्हारी बेटी पसंद है।
