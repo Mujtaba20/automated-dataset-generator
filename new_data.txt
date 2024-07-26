@@ -22997,3 +22997,11 @@ The game is rigged.	Das Spiel ist manipuliert.	खेल सेट किया 
 The girl is lonely.	Das Mädchen ist einsam.	लड़की अकेली है।
 The girls gossiped.	Die Mädchen tratschten.	लड़कियां गप्पें करती थीं।
 The glass is clean.	Das Glas ist sauber.	कांच साफ है।
+The glass is dirty.	Das Glas ist schmutzig.	गिलास गंदा है।
+The glass is empty.	Das Glas ist leer.	गिलास खाली है।
+The house caved in.	Das Haus ist eingestürzt.	घर गिर गया।
+The house is empty.	Das Haus ist leer.	घर खाली है।
+The ice has melted.	Das Eis ist geschmolzen.	बर्फ पिघल गई है।
+The ice is melting.	Das Eis schmilzt.	बर्फ गल रही है।
+The idea isn't bad.	Die Idee ist nicht schlecht.	विचार बुरा नहीं है।
+The idea isn't new.	Die Idee ist nicht neu.	विचार नया नहीं है।

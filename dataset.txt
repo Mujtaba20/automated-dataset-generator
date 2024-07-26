@@ -1,14 +1,4 @@
 
-The glass is dirty.	Das Glas ist schmutzig.	कांच गंदा है।
-The glass is empty.	Das Glas ist leer.	कांच खाली है।
-The house caved in.	Das Haus ist eingestürzt.	घर ढह गया है।
-The house caved in.	Das Haus stürzte ein.	घर ढह गया।
-The house is empty.	Das Haus ist leer.	घर खाली है।
-The ice has melted.	Das Eis ist geschmolzen.	बर्फ पिघल गई है।
-The ice is melting.	Das Eis schmilzt.	बर्फ पिघल रही है।
-The ice is melting.	Das Eis taut ab.	बर्फ पिघलना।
-The idea isn't bad.	Die Idee ist nicht schlecht.	विचार बुरा नहीं है।
-The idea isn't new.	Die Idee ist nicht neu.	विचार नया नहीं है।
 The knife is dirty.	Das Messer ist schmutzig.	चाकू गंदा है।
 The law is the law.	Gesetz ist Gesetz.	कानून कानून है।
 The light is green.	Die Ampel ist grün.	ट्रैफिकलाइट हरा है।
