@@ -34060,3 +34060,11 @@ Tom bought a new car.	Tom kaufte ein neues Auto.	टॉम ने एक नई 
 Tom bought a red car.	Tom kaufte ein rotes Auto.	टॉम ने एक लाल रंग की कार खरीदी।
 Tom bought me a book.	Tom kaufte mir ein Buch.	टॉम ने मेरे लिए एक किताब खरीदी।
 Tom bought me a kite.	Tom kaufte mir einen Drachen.	टॉम ने मुझे एक पतंग खरीदी।
+Tom bragged about it.	Tom prahlte darüber.	टॉम ने इसके बारे में डींग की।
+Tom breaks the rules.	Tom bricht die Regeln.	टॉम नियम तोड़ता है।
+Tom broke into tears.	Tom brach in Tränen aus.	टॉम रोने लगा।
+Tom broke up with me.	Tom hat mit mir Schluss gemacht.	टॉम ने मुझसे ब्रेकअप किया।
+Tom bumped into Mary.	Tom lief Mary über den Weg.	टॉम ने मैरी से टकराया।
+Tom burst into tears.	Tom platzte in Tränen aus.	टॉम रोने लगा।
+Tom called me a taxi.	Tom rief mir ein Taxi.	टॉम ने मुझे एक टैक्सी बुलाई।
+Tom came home by bus.	Tom kam mit dem Bus nach Hause.	टॉम बस से घर आया।
