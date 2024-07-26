@@ -1,19 +1,4 @@
 
-I've never played golf.	Ich habe nie Golf gespielt.	मैंने कभी गोल्फ नहीं खेला।
-I've never taken drugs.	Ich habe noch nie Drogen genommen.	मैंने पहले कभी ड्रग्स नहीं ली है।
-I've never told anyone.	Ich habe niemandem je davon erzählt.	मैंने कभी किसी को इसके बारे में बताया है।
-I've never told anyone.	Ich habe nie jemandem davon erzählt.	मैंने इसके बारे में कभी किसी को नहीं बताया।
-I've never trusted Tom.	Ich habe Tom nie über den Weg getraut.	मैंने कभी टॉम की हिम्मत नहीं की।
-I've only seen it once.	Ich habe ihn nur einmal gesehen.	मैंने केवल उसे एक बार देखा।
-I've only seen it once.	Ich habe es nur ein Mal gesehen.	मैंने इसे केवल एक बार देखा।
-I've only used it once.	Ich habe es nur einmal benutzt.	मैंने केवल एक बार इसका इस्तेमाल किया।
-I've opened the window.	Ich habe das Fenster geöffnet.	मैंने खिड़की खोली।
-I've really missed you.	Ihr habt mir echt gefehlt.	मैंने वास्तव में आपको याद किया।
-I've really missed you.	Ich habe dich echt vermisst.	मैंने वास्तव में आपको याद किया।
-I've really missed you.	Ich habe euch echt vermisst.	मैंने वास्तव में आपको याद किया।
-I've really missed you.	Ich habe Sie echt vermisst.	मैं वास्तव में उसे याद किया।
-I've really missed you.	Du hast mir echt gefehlt.	मैंने वास्तव में आपको याद किया।
-I've really missed you.	Sie haben mir echt gefehlt.	मैंने वास्तव में आपको याद किया।
 I've removed the comma.	Ich habe das Komma entfernt.	मैंने अल्पविराम को हटा दिया।
 I've ruined everything.	Ich habe alles zunichte gemacht.	मैंने सब कुछ नष्ट कर दिया है।
 I've worn out my shoes.	Ich habe meine Schuhe ausgelatscht.	मैंने अपने जूते निकाल दिए।
