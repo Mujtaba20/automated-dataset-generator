@@ -37899,3 +37899,12 @@ I threw away my shoes.	Ich habe meine Schuhe weggeworfen.	मैंने अप
 I told Tom I was fine.	Ich habe Tom gesagt, dass es mir gut geht.	मैंने टॉम को बताया कि मैं ठीक हूँ।
 I told Tom everything.	Ich habe Tom alles erzählt.	मैंने टॉम को सब कुछ बताया।
 I told Tom to do that.	Ich habe Tom gesagt, das zu tun.	मैंने टॉम से कहा वह करने के लिए।
+I told Tom to go home.	Ich sagte Tom, nach Hause zu gehen.	मैंने टॉम से कहा कि घर जाएं।
+I told her what to do.	Ich sagte ihr, was zu tun ist.	मैंने उसे बताया कि क्या करना है।
+I told him everything.	Ich habe ihm alles gesagt.	मैंने उसे सब कुछ बता दिया।
+I told him what to do.	Ich sagte ihm, was zu tun ist.	मैंने उसे बताया कि क्या करना है।
+I took it for granted.	Ich nahm es als selbstverständlich hin.	मैंने यह स्वीकार किया।
+I tossed Tom the ball.	Ich warf Tom den Ball zu.	मैंने टॉम को गेंद फेंकी।
+I tried to be careful.	Ich versuchte vorsichtig zu sein.	मैंने सावधान रहने की कोशिश की।
+I tried to stay awake.	Ich habe versucht wach zu bleiben.	मैंने जागरूक रहने की कोशिश की।
+I turned the doorknob.	Ich drehte den Türknauf.	मैंने दरवाजे का हैंडल घुमाया।
