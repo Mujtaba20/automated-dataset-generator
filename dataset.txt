@@ -1,15 +1,4 @@
 
-He achieved his goal.	Er erreichte sein Ziel.	वह अपने लक्ष्य तक पहुंच गया।
-He achieved his goal.	Er hat sein Ziel erreicht.	वह अपने लक्ष्य तक पहुंच गया।
-He acted as my guide.	Er war mein Führer.	वह मेरा मार्गदर्शक था।
-He aimed at the bird.	Er zielte auf den Vogel.	उसने पक्षी को लक्षित किया।
-He always plays well.	Er spielt immer gut.	वह हमेशा अच्छा खेलता है।
-He always works hard.	Er ist immer tüchtig.	वह हमेशा कुशल होता है।
-He and I are cousins.	Er und ich sind Cousins.	वह और मैं चचेरे भाई हैं।
-He and I are friends.	Er und ich sind Freunde.	वह और मैं दोस्त हैं।
-He and I are friends.	Er und ich, wir sind Freunde.	वह और मैं, हम दोस्त हैं।
-He applied for a job.	Er bewarb sich um eine Arbeit.	उन्होंने काम के लिए आवेदन किया।
-He applied for a job.	Er hat sich um eine Arbeit beworben.	उन्होंने काम के लिए आवेदन किया।
 He arrived too early.	Er ist zu früh angekommen.	वह बहुत जल्दी आ गया।
 He asked for my help.	Er bat mich um Hilfe.	उसने मुझसे मदद मांगी।
 He asked me for help.	Er hat mich um Hilfe gebeten.	उसने मुझसे मदद मांगी।

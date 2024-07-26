@@ -30937,3 +30937,11 @@ Have you seen my pen?	Hast du meinen Stift gesehen?	क्या आपने �
 Have you seen my son?	Hast du meinen Sohn gesehen?	क्या आपने मेरे बेटे को देखा है?
 Have you sold it yet?	Hast du es schon verkauft?	क्या आपने इसे अभी तक बेच दिया है?
 He accepted her gift.	Er akzeptierte ihr Geschenk.	उसने उसका उपहार स्वीकार किया।
+He achieved his goal.	Er erreichte sein Ziel.	उसने अपना लक्ष्य प्राप्त किया।
+He acted as my guide.	Er fungierte als mein Führer.	उसने मेरे मार्गदर्शक के रूप में काम किया।
+He aimed at the bird.	Er zielte auf den Vogel.	उसने पंछी का लक्ष्य रखा।
+He always plays well.	Er spielt immer gut.	वह हमेशा अच्छे ढंग से खेलता है।
+He always works hard.	Er arbeitet immer hart.	वह हमेशा मेहनत करता है।
+He and I are cousins.	Er und ich sind Cousins.	वह और मैं भाई बहन हैं।
+He and I are friends.	Er und ich sind Freunde.	वह और मैं दोस्त हैं।
+He applied for a job.	Er bewarb sich um einen Job.	उसने नौकरी के लिए आवेदन किया।
