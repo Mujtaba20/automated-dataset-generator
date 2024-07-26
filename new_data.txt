@@ -29116,3 +29116,12 @@ Tom looks very pale.	Tom sieht sehr blass aus.	टॉम बहुत पील�
 Tom looks very sick.	Tom sieht sehr krank aus.	टॉम बहुत बीमार लग रहा है।
 Tom lost his memory.	Tom hat sein Gedächtnis verloren.	टॉम ने अपनी याददाश्त खो दी।
 Tom lost his temper.	Tom hat seinen Ärger verloren.	टॉम ने अपना क्रोध खो दिया।
+Tom lost his wallet.	Tom hat seine Brieftasche verloren.	टॉम ने अपना पर्स खो दिया।
+Tom loved to gamble.	Tom liebte es zu spielen.	टॉम जुआ खेलने को पसंद करता था।
+Tom loved to travel.	Tom liebte es zu reisen.	टॉम को घूमने जाना बहुत पसंद था।
+Tom loves Australia.	Tom liebt Australien.	टॉम को ऑस्ट्रेलिया से प्यार है।
+Tom loves attention.	Tom liebt Aufmerksamkeit.	टॉम को ध्यान से प्यार है।
+Tom loves going out.	Tom geht gerne aus.	टॉम बाहर जाने को पसंद करता है।
+Tom loves squirrels.	Tom liebt Eichhörnchen.	टॉम को गिलहरियों से प्यार है।
+Tom loves to gamble.	Tom liebt es zu zocken.	टॉम जुआ खेलने को पसंद करता है।
+Tom loves to gossip.	Tom liebt es zu tratschen.	टॉम गपशप करने को पसंद करता है।
