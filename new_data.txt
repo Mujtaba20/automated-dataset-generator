@@ -27408,3 +27408,11 @@ It's a huge mistake.	Es ist ein riesiger Fehler.	यह एक बड़ी ग�
 It's a large amount.	Es ist ein großer Betrag.	यह एक बड़ी मात्रा है।
 It's a magnetic key.	Es ist ein magnetischer Schlüssel.	यह एक चुंबकीय कुंजी है।
 It's a minor glitch.	Es ist ein kleiner Fehler.	यह एक छोटी सी चूक है।
+It's a pretty house.	Es ist ein hübsches Haus.	यह एक सुंदर घर है।
+It's a real bargain.	Es ist ein echtes Schnäppchen.	यह एक वास्तविक मोल है।
+It's a very hot day.	Es ist ein sehr heißer Tag.	यह एक बहुत गर्म दिन है।
+It's about this big.	Es ist ungefähr so groß.	यह इस तरह का है।
+It's all your fault.	Es liegt ganz an dir.	सब कुछ तुम्हारे ऊपर है।
+It's almost October.	Es ist fast Oktober.	यह लगभग अक्टूबर है।
+It's almost perfect.	Es ist fast perfekt.	यह लगभग पूर्ण है।
+It's already eleven.	Es ist bereits elf.	यह पहले से ही ग्यारह बज चुके है।
