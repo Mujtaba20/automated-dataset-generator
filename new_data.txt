@@ -35725,3 +35725,10 @@ Will you go with Tom?	Wirst du mit Tom gehen?	क्या तुम टॉम �
 Will you help us now?	Wirst du uns jetzt helfen?	क्या तुम अब हमें मदद करेंगे?
 Will you wait for me?	Wirst du auf mich warten?	क्या तुम मेरे लिए इंतजार करोगे?
 Women don't like Tom.	Frauen mögen Tom nicht.	महिलाएँ टॉम को पसंद नहीं करतीं।
+Would it be possible?	Wäre es möglich?	क्या यह संभव हो सकता है?
+Would you check this?	Würden Sie das prüfen?	क्या आप इसे जांचेंगे?
+Would you forgive me?	Würden Sie mir verzeihen?	क्या आप मुझे क्षमा करेंगे?
+Would you like bread?	Möchten Sie Brot?	क्या आपको रोटी पसंद है?
+Would you like to go?	Möchten Sie gehen?	क्या आप जाना चाहेंगे?
+Would you prefer tea?	Würdest du lieber Tee haben?	क्या आप चाय पसंद करेंगे?
+Would you step aside?	Würdest du zur Seite treten?	क्या आप एक कदम पीछे करेंगे?

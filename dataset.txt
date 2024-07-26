@@ -1,14 +1,4 @@
 
-Would it be possible?	Wäre das möglich?	क्या यह संभव होगा?
-Would you check this?	Würdest du das nachprüfen?	क्या आप इसकी जाँच करेंगे?
-Would you check this?	Würden Sie das nachprüfen?	क्या आप इसकी जाँच करेंगे?
-Would you check this?	Würdet ihr das nachprüfen?	क्या आप इसकी जाँच करेंगे?
-Would you forgive me?	Kannst du mir jemals verzeihen?	क्या आप कभी मुझे माफ कर सकते हैं?
-Would you forgive me?	Kannst du mir vergeben?	आप मुझे माफ कर सकते हैं?
-Would you like bread?	Möchten Sie Brot?	क्या आप रोटी पसंद करेंगे?
-Would you like to go?	Möchtest du gehen?	क्या आप जाना चाहते हैं?
-Would you prefer tea?	Würdest du Tee lieber mögen?	आप चाय लेंगे?
-Would you step aside?	Könnten Sie zur Seite treten?	क्या आप एक तरफ कदम रख सकते हैं?
 Write down each word.	Schreiben Sie jedes Wort auf.	हर शब्द लिखें।
 Write your full name.	Schreiben Sie Ihren vollen Namen!	अपना पूरा नाम लिखें!
 Yesterday was Monday.	Gestern war Montag.	कल सोमवार था।
