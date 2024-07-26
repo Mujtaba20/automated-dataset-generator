@@ -1,14 +1,4 @@
 
-He likes potato salad.	Er mag Kartoffelsalat.	उसे आलू का सलाद पसंद है।
-He likes potato salad.	Er isst gerne Kartoffelsalat.	वह आलू का सलाद खाना पसंद करता है।
-He likes soccer a lot.	Er ist ein großer Fußballfreund.	वह एक बड़ा फुटबॉल दोस्त है।
-He likes taking walks.	Er geht gerne spazieren.	वह टहलने के लिए जाना पसंद करता है।
-He lived a happy life.	Er führte ein glückliches Leben.	उन्होंने एक खुशहाल जीवन का नेतृत्व किया।
-He lived to be ninety.	Er wurde neunzig Jahre alt.	वह नब्बे साल का था।
-He lives in Tokyo now.	Er wohnt jetzt in Tokio.	वह अब टोक्यो में रहता है।
-He lives off the grid.	Er lebt unabhängig von den öffentlichen Versorgungsnetzen.	वह सार्वजनिक देखभाल नेटवर्क से स्वतंत्र रूप से रहता है।
-He lives with his mom.	Er lebt mit seiner Mutter zusammen.	वह अपनी माँ के साथ रहता है।
-He lives with his mom.	Er wohnt bei seiner Mutter.	वह अपनी माँ के साथ रहता है।
 He looked for the key.	Er suchte den Schlüssel.	वह चाबी की तलाश में था।
 He looked quite tired.	Er sah ziemlich müde aus.	वह बहुत थका हुआ लग रहा था।
 He looks like a horse.	Er sieht aus wie ein Pferd.	वह घोड़े की तरह दिखता है।

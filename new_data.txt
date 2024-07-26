@@ -36825,3 +36825,11 @@ He let go of the rope.	Er ließ das Seil los.	उसने रस्सी क�
 He lied about his age.	Er hat über sein Alter gelogen.	उसने अपनी उम्र के बारे में झूठ बोला।
 He likes Italian food.	Er mag italienisches Essen.	उसे इटैलियन भोजन पसंद है।
 He likes ham and eggs.	Er mag Schinken und Eier.	उसे हैम और अंडे पसंद हैं।
+He likes potato salad.	Er mag Kartoffelsalat gerne.	उसे आलू सलाद बहुत पसंद है।
+He likes soccer a lot.	Er mag Fußball sehr gerne.	उसे फुटबॉल बहुत पसंद है।
+He likes taking walks.	Er geht gerne spazieren.	उसे सैर करना पसंद है।
+He lived a happy life.	Er führte ein glückliches Leben.	उसने खुशहाल जीवन जिया।
+He lived to be ninety.	Er wurde neunzig Jahre alt.	उसने नब्बे साल की उम्र तक जीवन बिताया।
+He lives in Tokyo now.	Er lebt jetzt in Tokio.	वह अब टोक्यो में रहता है।
+He lives off the grid.	Er lebt autark.	वह तार और रेखा के बिना जीता है।
+He lives with his mom.	Er wohnt bei seiner Mutti.	वह अपनी माँ के साथ रहता है।
