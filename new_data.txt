@@ -38653,3 +38653,11 @@ It's not why I'm here.	Das ist nicht der Grund, warum ich hier bin.	मैं �
 It's not worth a dime.	Es ist keinen Cent wert.	यह किसी पैसे के लायक नहीं है।
 It's obvious Tom lied.	Es ist offensichtlich, dass Tom gelogen hat.	यह स्पष्ट है कि टॉम झूठ बोला।
 It's obviously a typo.	Es ist offensichtlich ein Tippfehler.	यह स्पष्ट एक टाइपो है।
+It's one of our rules.	Es ist eine unserer Regeln.	यह हमारे नियमों में से एक है।
+It's our duty to help.	Es ist unsere Pflicht zu helfen.	हमें मदद करना हमारी जिम्मेदारी है।
+It's perfectly normal.	Es ist völlig normal.	यह पूरी तरह से सामान्य है।
+It's probably haunted.	Es ist wahrscheinlich verhext.	यह संभवत: प्रेतात्माओं से भरा है।
+It's probably raining.	Es regnet wahrscheinlich.	शायद बारिश हो रही है।
+It's quite warm today.	Es ist heute ziemlich warm.	आज काफी गर्मी है।
+It's rained all night.	Es hat die ganze Nacht geregnet.	रात भर बारिश हुई थी।
+It's really beautiful.	Es ist wirklich schön.	यह सच में खूबसूरत है।

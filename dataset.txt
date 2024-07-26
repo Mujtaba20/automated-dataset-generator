@@ -1,14 +1,4 @@
 
-It's one of our rules.	Das ist eine unserer Regeln.	यह हमारे नियमों में से एक है।
-It's our duty to help.	Es ist unsere Pflicht zu helfen.	मदद करना हमारा कर्तव्य है।
-It's our duty to help.	Wir haben die Pflicht zu helfen.	हमारे पास मदद करने का कर्तव्य है।
-It's perfectly normal.	Das ist völlig normal.	यह पूरी तरह से सामान्य है।
-It's probably haunted.	Da spukt es wahrscheinlich.	यह शायद हंटिंग करता है।
-It's probably haunted.	Wahrscheinlich spukt es da.	यह शायद हंटिंग करता है।
-It's probably raining.	Es regnet wahrscheinlich.	शायद बारिश हो रही है।
-It's quite warm today.	Es ist heute recht warm.	यह आज काफी गर्म है।
-It's rained all night.	Es hat die ganze Nacht geregnet.	पूरी रात बारिश हुई।
-It's really beautiful.	Das ist wirklich schön.	यह वास्तव में अच्छा है।
 It's really cool here.	Es ist echt cool hier.	यह वास्तव में यहाँ अच्छा है।
 It's really hot there.	Es ist wirklich heiß dort.	यह वास्तव में वहाँ गर्म है।
 It's really hot there.	Da ist es richtig heiß.	यह वास्तव में गर्म है।
