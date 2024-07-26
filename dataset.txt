@@ -1,14 +1,4 @@
 
-How deep is the hole?	Wie tief ist das Loch?	छेद कितना गहरा है?
-How deep is the lake?	Wie tief ist der See?	झील कितनी गहरी है?
-How did Tom find out?	Wie hat es Tom herausbekommen?	टॉम ने इसे कैसे निकाला?
-How did Tom find out?	Wie hat Tom das herausbekommen?	टॉम ने इसे कैसे निकाला?
-How did Tom find out?	Wie hat Tom das erfahren?	टॉम को कैसे पता चला?
-How did Tom find you?	Wie hat Tom dich gefunden?	टॉम ने आपको कैसे पाया?
-How did Tom find you?	Wie hat Tom euch gefunden?	टॉम ने आपको कैसे पाया?
-How did Tom find you?	Wie hat Tom Sie gefunden?	टॉम ने उसे कैसे पाया?
-How did Tom get hurt?	Wie wurde Tom verletzt?	टॉम कैसे घायल हो गया?
-How did the party go?	Wie war die Party?	पार्टी कैसी थी?
 How did they do that?	Wie haben sie das gemacht?	आप ने वह कैसे किया?
 How did they do that?	Wie haben die das gemacht?	उन्होंने ऐसा कैसे किया?
 How did they do this?	Wie haben sie das gemacht?	आप ने वह कैसे किया?

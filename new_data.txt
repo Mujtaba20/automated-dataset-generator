@@ -31289,3 +31289,9 @@ How can you stand it?	Wie kannst du es aushalten?	तुम इसे कैस�
 How come you're late?	Warum bist du spät dran?	तुम देर कैसे हो गए?
 How could I hate Tom?	Wie könnte ich Tom hassen?	मैं टॉम से नफरत कैसे कर सकता?
 How could I help you?	Wie könnte ich Ihnen helfen?	मैं आपकी कैसे मदद कर सकता हूँ?
+How deep is the hole?	Wie tief ist das Loch?	गड्ढे कितनी गहरी है?
+How deep is the lake?	Wie tief ist der See?	झील कितनी गहरी है?
+How did Tom find out?	Wie hat Tom es herausgefunden?	टॉमे ने कैसे पता लगाया?
+How did Tom find you?	Wie hat Tom dich gefunden?	टॉमे ने तुम्हें कैसे ढूंढा?
+How did Tom get hurt?	Wie hat sich Tom verletzt?	टॉमे को कैसे चोट आई?
+How did the party go?	Wie ist die Party verlaufen?	पार्टी कैसी रही?
