@@ -1,14 +1,4 @@
 
-That's over my head.	Das ist mir zu hoch.	यह मेरे लिए बहुत अधिक है।
-That's over my head.	Das übersteigt meinen Horizont.	यह मेरे क्षितिज से अधिक है।
-That's quite absurd.	Das ist völlig absurd.	यह पूरी तरह से बेतुका है।
-That's quite absurd.	Das ist ziemlich lächerlich.	यह बहुत हास्यास्पद है।
-That's quite absurd.	Das ist ziemlich blödsinnig.	यह बहुत बेवकूफ है।
-That's really funny.	Das ist wirklich lustig.	यह वास्तव में मज़ेदार है।
-That's really sweet.	Das ist wirklich reizend.	यह वास्तव में प्यारा है।
-That's really sweet.	Das ist wirklich süß.	यह वास्तव में प्यारा है।
-That's really sweet.	Der ist wirklich süß.	यह वास्तव में प्यारा है।
-That's really sweet.	Die ist wirklich süß.	यह वास्तव में प्यारा है।
 That's really weird.	Das ist wirklich verrückt.	यह वास्तव में पागल है।
 That's self-evident.	Das ist eine Binsenwahrheit.	यह एक सच्चाई है।
 That's sweet of you.	Das ist reizend von dir.	वह आपको बहुत प्यारा है।

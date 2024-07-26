@@ -28128,3 +28128,7 @@ That's not possible.	Das geht nicht.	यह संभावना नहीं �
 That's not the case.	Das trifft nicht zu.	यह गलत है।
 That's not your cup.	Das ist nicht dein Ding.	यह तुम्हारी चाय कप नहीं है।
 That's our new boss.	Das ist unser neuer Vorgesetzter.	यह हमारा नया मालिक है।
+That's over my head.	Das geht über meinen Kopf hinaus.	वह मेरे समझ से ऊपर है।
+That's quite absurd.	Das ist ziemlich absurd.	यह काफी बेतुका है।
+That's really funny.	Das ist wirklich lustig.	यह सच में मजेदार है।
+That's really sweet.	Das ist wirklich süß.	यह सच में प्यारा है।
