@@ -1,15 +1,4 @@
 
-Tom is going be OK.	Tom wird okay sein.	टॉम ठीक हो जाएगा।
-Tom is gravely ill.	Tom ist schwer krank.	टॉम गंभीर रूप से बीमार है।
-Tom is happier now.	Tom ist jetzt glücklicher.	टॉम अब खुश है।
-Tom is happy again.	Tom ist wieder glücklich.	टॉम फिर से खुश है।
-Tom is her brother.	Tom ist ihr Bruder.	टॉम उसका भाई है।
-Tom is his brother.	Tom ist sein Bruder.	टॉम उसका भाई है।
-Tom is hyperactive.	Tom ist hyperaktiv.	टॉम हाइपरएक्टिव है।
-Tom is in his room.	Tom ist in seinem Zimmer.	टॉम अपने कमरे में है।
-Tom is in his room.	Tom ist auf seinem Zimmer.	टॉम अपने कमरे में है।
-Tom is in recovery.	Tom ist auf dem Weg der Besserung.	टॉम सुधार के रास्ते पर है।
-Tom is in recovery.	Tom ist auf dem Wege der Besserung.	टॉम सुधार के रास्ते पर है।
 Tom is in the park.	Tom ist im Park.	टॉम पार्क में है।
 Tom is in the room.	Tom ist im Zimmer.	टॉम कमरे में है।
 Tom is in the yard.	Tom ist auf dem Hof.	टॉम यार्ड में है।

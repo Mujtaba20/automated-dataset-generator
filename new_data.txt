@@ -23648,3 +23648,12 @@ Tom is fishing now.	Tom angelt jetzt.	टॉम अब मछली पकड़
 Tom is former NYPD.	Tom ist ehemaliger NYPD.	टॉम पूर्व एनवाईपीडी है।
 Tom is from Boston.	Tom kommt aus Boston.	टॉम बोस्टन से है।
 Tom is getting fat.	Tom wird fett.	टॉम मोटा हो रहा है।
+Tom is going be OK.	Tom wird in Ordnung sein.	टॉम ठीक हो जाएगा।
+Tom is gravely ill.	Tom ist schwer krank.	टॉम गंभीर रूप से बीमार है।
+Tom is happier now.	Tom ist jetzt glücklicher.	टॉम अब खुश है।
+Tom is happy again.	Tom ist wieder glücklich.	टॉम फिर से खुश है।
+Tom is her brother.	Tom ist ihr Bruder.	टॉम उसका भाई है।
+Tom is his brother.	Tom ist sein Bruder.	टॉम उसका भाई है।
+Tom is hyperactive.	Tom ist hyperaktiv.	टॉम हाइपरऐक्टिव है।
+Tom is in his room.	Tom ist in seinem Zimmer.	टॉम अपने कमरे में है।
+Tom is in recovery.	Tom erholt sich.	टॉम बरामदी में है।
