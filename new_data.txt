@@ -40481,3 +40481,9 @@ Tom knows who you are.	Tom weiß, wer du bist.	टॉम को पता है
 Tom knows you're here.	Tom weiß, dass du hier bist.	टॉम को पता है कि तुम यहाँ हो।
 Tom lacks flexibility.	Tom fehlt es an Flexibilität.	टॉम को लचीलापन की कमी है।
 Tom lacks imagination.	Tom fehlt es an Vorstellungskraft.	टॉम की कल्पनाशक्ति की कमी है।
+Tom lacks persistence.	Tom fehlt Ausdauer.	टॉम को टहलकी आवश्यकता है।
+Tom laid down the gun.	Tom legte die Waffe nieder.	टॉम ने बंदूक को रखा।
+Tom laughed nervously.	Tom lachte nervös.	टॉम घबराकर हंसा।
+Tom led a simple life.	Tom führte ein einfaches Leben.	टॉम ने एक सरल जीवन जिया।
+Tom left for a second.	Tom ging für einen Moment weg.	टॉम एक पल के लिए चला गया।
+Tom left home at 2:30.	Tom hat das Haus um 2:30 Uhr verlassen.	टॉम ने 2:30 बजे घर छोड़ दिया।

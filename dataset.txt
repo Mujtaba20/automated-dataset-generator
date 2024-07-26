@@ -1,14 +1,4 @@
 
-Tom lacks persistence.	Es mangelt Tom an Durchhaltevermögen.	टॉम में दृढ़ता की कमी है।
-Tom laid down the gun.	Tom legte die Pistole nieder.	टॉम ने पिस्तौल को नीचे रखा।
-Tom laughed nervously.	Tom lachte nervös.	टॉम घबराकर हँसे।
-Tom led a simple life.	Tom führte ein einfaches Leben.	टॉम ने एक साधारण जीवन का नेतृत्व किया।
-Tom left for a second.	Tom ging kurz.	टॉम संक्षेप में चला गया।
-Tom left home at 2:30.	Tom ging um halb drei von zu Hause weg.	टॉम पिछले दो बजे घर से चले गए।
-Tom left home at 2:30.	Tom ging um 2.30 Uhr von zu Hause weg.	टॉम दोपहर 2.30 बजे घर से चले गए।
-Tom left home at 2:30.	Tom ging um 2.30 Uhr aus dem Haus.	टॉम दोपहर 2.30 बजे घर से बाहर चला गया।
-Tom left home at 2:30.	Tom verließ das Haus um 2.30 Uhr.	टॉम ने 2.30 बजे घर छोड़ दिया।
-Tom left home at 2:30.	Tom verließ um 2.30 Uhr das Haus.	टॉम ने 2.30 बजे घर छोड़ दिया।
 Tom left the water on.	Tom hat das Wasser laufenlassen.	टॉम ने पानी को चलाने दिया।
 Tom left the water on.	Tom hat das Wasser angelassen.	टॉम ने पानी छोड़ दिया है।
 Tom left this for you.	Tom hat dir das hier dagelassen.	टॉम ने आपको यह छोड़ दिया।
