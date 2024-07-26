@@ -1,15 +1,4 @@
 
-I'll be busy next week.	Nächste Woche bin ich beschäftigt.	मैं अगले सप्ताह व्यस्त हूं।
-I'll be busy next week.	Ich werde nächste Woche beschäftigt sein.	मैं अगले सप्ताह व्यस्त रहूंगा।
-I'll be going with you.	Ich werde mit dir gehen.	मैं आपके साथ जाउंगा।
-I'll be happy to do it.	Ich werde es gerne machen.	मुझे यह करने में खुशी होगी।
-I'll be in the kitchen.	Ich bin in der Küche.	मैं रसोई घर में हूँ।
-I'll be in the library.	Ich bin in der Bibliothek.	मैं पुस्तकालय में हूँ।
-I'll be in the library.	Ich bin dann in der Bibliothek.	फिर मैं लाइब्रेरी में हूं।
-I'll be reading a book.	Ich werde ein Buch lesen.	मैं एक किताब पढ़ूंगा।
-I'll be really careful.	Ich werde wirklich vorsichtig sein.	मैं वास्तव में सावधान रहूंगा।
-I'll be right with you.	Ich bin gleich bei dir.	मैं तुरंत तुम्हारे साथ हूँ।
-I'll be right with you.	Ich bin gleich bei Ihnen.	मैं तुरंत तुम्हारे साथ हूँ।
 I'll be taking the car.	Ich werde das Auto nehmen.	मैं कार ले जाऊंगा।
 I'll be there tomorrow.	Ich werde morgen da sein.	मैं कल वहाँ रहूँगा।
 I'll be there tomorrow.	Ich werde morgen dort sein.	मैं कल वहाँ रहूँगा।
