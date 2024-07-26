@@ -1,14 +1,4 @@
 
-I don't want charity.	Ich will keine Wohltätigkeit.	मैं चैरिटी नहीं चाहता।
-I don't want charity.	Ich will keine Almosen.	मुझे भिक्षा नहीं चाहिए।
-I don't want to cook.	Ich will nicht kochen.	मैं खाना बनाना नहीं चाहता।
-I don't want to know.	Ich will es gar nicht wissen.	मैं इसे जानना नहीं चाहता।
-I don't want to know.	Ich will es nicht wissen.	मुझे नही जानना है।
-I don't want to look.	Ich möchte nicht schauen.	मैं नहीं देखना चाहता।
-I don't want to look.	Ich will nicht hinsehen.	मैं नहीं देखना चाहता।
-I don't want to play.	Ich will nicht spielen.	मैं खेलना नहीं चाहता।
-I don't want to rest.	Ich will mich nicht ausruhen.	मैं आराम नहीं करना चाहता।
-I don't want to stay.	Ich will nicht bleiben.	मैं नहीं रहना चाहता।
 I don't want to stop.	Ich will nicht aufhören.	मैं रुकना नहीं चाहता।
 I don't want to stop.	Ich will nicht anhalten.	मैं रुकना नहीं चाहता।
 I don't want to talk.	Ich will nicht reden.	मैं बात नहीं करना चाहूता हूं।

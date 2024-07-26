@@ -31620,3 +31620,10 @@ I don't trust anyone.	Ich vertraue niemandem.	मैं किसी पर भ�
 I don't use Facebook.	Ich benutze kein Facebook.	मैं फेसबुक नहीं उपयोग करता।
 I don't want a drink.	Ich möchte keinen Drink.	मैं पीने का कोई इच्छा नहीं है।
 I don't want a horse.	Ich möchte kein Pferd.	मुझे कोई घोड़ा नहीं चाहिए।
+I don't want charity.	Ich möchte keine Wohltätigkeit.	मुझे दान नहीं चाहिए।
+I don't want to cook.	Ich möchte nicht kochen.	मैं खाना बनाना नहीं चाहता।
+I don't want to know.	Ich will nicht wissen.	मुझे जानकारी नहीं चाहिए।
+I don't want to look.	Ich möchte nicht schauen.	मैं देखना नहीं चाहता।
+I don't want to play.	Ich möchte nicht spielen.	मैं खेलना नहीं चाहता।
+I don't want to rest.	Ich will nicht ruhen.	मैं आराम नहीं करना चाहता।
+I don't want to stay.	Ich möchte nicht bleiben.	मैं रुकना नहीं चाहता।
