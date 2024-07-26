@@ -29636,3 +29636,12 @@ We reached our goal.	Wir haben unser Ziel erreicht.	हमने अपना �
 We rented a rowboat.	Wir haben ein Ruderboot gemietet.	हमने एक रोविंग नाव किराए पर ली।
 We sat in the front.	Wir saßen vorne.	हम आगे बैठे थे।
 We sat in the shade.	Wir saßen im Schatten.	हम छाया में बैठे थे।
+We sat on the grass.	Wir saßen im Gras.	हम घास पर बैठे थे।
+We sat side by side.	Wir saßen nebeneinander.	हम साथ-साथ बैठे थे।
+We saved you a seat.	Wir haben dir einen Platz gesichert.	हमने आपके लिए एक सीट बचाई थी।
+We season with salt.	Wir würzen mit Salz.	हम नमक से स्वाद देते हैं।
+We should get going.	Wir sollten losgehen.	हमें चलना चाहिए।
+We should head home.	Wir sollten nach Hause gehen.	हमें घर की ओर चलना चाहिए।
+We should turn back.	Wir sollten umkehren.	हमें पीछे मुड़ना चाहिए।
+We talked until two.	Wir haben bis zwei Uhr geredet.	हम दो बजे तक बात की।
+We thought you knew.	Wir dachten, du wusstest.	हमें लगा तुम्हें पता था।
