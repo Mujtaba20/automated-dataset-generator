@@ -1,14 +1,4 @@
 
-I'm a little tipsy.	Ich bin leicht angetrunken.	मैं थोड़ा नशे में हूं।
-I'm a little tired.	Ich bin ein bisschen müde.	मैं थोड़ा थक गया हूँ।
-I'm a little tired.	Ich bin ein wenig müde.	मैं थोड़ा थक गया हूँ।
-I'm a little tired.	Ich bin etwas müde.	मैं थोड़ा थक गया हूं।
-I'm a little tired.	Ich fühle mich ein wenig müde.	मैं थोड़ा थका हुआ महसूस करता हूं।
-I'm a little upset.	Ich bin etwas verärgert.	मैं थोड़ा परेशान हूं।
-I'm a lousy singer.	Ich bin ein lausiger Sänger.	मैं एक घटिया गायक हूं।
-I'm a photographer.	Ich bin Fotograf.	मैं तस्वीर हूँ।
-I'm a screenwriter.	Ich bin Drehbuchautor.	मैं एक पटकथा लेखक हूं।
-I'm a slow learner.	Ich lerne langsam.	मैं धीरे -धीरे सीख रहा हूं।
 I'm a student here.	Ich bin hier Student.	मैं यहां एक छात्र हूं।
 I'm a teacher, too.	Ich bin auch Lehrer.	मैं एक शिक्षक भी हूं।
 I'm a tourist, too.	Ich bin auch ein Tourist.	मैं भी एक पर्यटक हूं।

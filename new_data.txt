@@ -21891,3 +21891,10 @@ I'm a good student.	Ich bin ein guter Schüler.	मैं एक अच्छा
 I'm a good teacher.	Ich bin ein guter Lehrer.	मैं एक अच्छा शिक्षक हूँ।
 I'm a little child.	Ich bin ein kleines Kind.	मैं एक छोटा बच्चा हूँ।
 I'm a little early.	Ich bin etwas früh.	मैं थोड़ा जल्दी से पहले हूँ।
+I'm a little tipsy.	Ich bin ein wenig beschwipst.	मैं थोड़ा सैलाब हूँ।
+I'm a little tired.	Ich bin ein wenig erschöpft.	मैं थोड़ा थका हुआ हूँ।
+I'm a little upset.	Ich bin ein wenig verärgert.	मैं थोड़ा उदास हूँ।
+I'm a lousy singer.	Ich bin eine miese Sängerin.	मैं एक बेकार गायक हूँ।
+I'm a photographer.	Ich bin Fotograf.	मैं फोटोग्राफर हूँ।
+I'm a screenwriter.	Ich bin Drehbuchautor.	मैं एक स्क्रीनराइटर हूं।
+I'm a slow learner.	Ich lerne langsam.	मैं धीरे सीखनेवाला हूँ।
