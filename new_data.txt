@@ -36652,3 +36652,8 @@ Have you eaten dinner?	Haben Sie zu Abend gegessen?	क्या आपने �
 Have you ever done it?	Hast du es jemals gemacht?	क्या तुमने कभी किया है?
 Have you finished yet?	Haben Sie abgeschlossen?	क्या आपने अभी तक समाप्त किया है?
 Have you forgiven Tom?	Haben Sie Tom vergeben?	क्या आपने टॉम क्षमा की है?
+Have you seen my wife?	Hast du meine Frau gesehen?	क्या तुमने मेरी पत्नी को देखा है?
+Have you told anybody?	Hast du es jemandem gesagt?	क्या तुमने किसी को बताया है?
+Have you told him yet?	Hast du es ihm schon gesagt?	क्या तुमने उसे अभी तक बताया है?
+Have you tried it yet?	Hast du es schon probiert?	क्या तुमने इसे अभी तक प्रयास किया है?
+Haven't we met before?	Haben wir uns nicht schon mal getroffen?	क्या हम पहले मिल चुके हैं?

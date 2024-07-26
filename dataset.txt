@@ -1,14 +1,4 @@
 
-Have you seen my wife?	Hast du meine Frau gesehen?	क्या तुमने मेरी पत्नी को देखा
-Have you told anybody?	Hast du es jemandem erzählt?	क्या आपने किसी को बताया
-Have you told anybody?	Haben Sie es jemandem erzählt?	क्या आपने किसी को बताया?
-Have you told anybody?	Habt ihr es jemandem erzählt?	क्या आपने किसी को बताया?
-Have you told him yet?	Hast du’s ihm schon gesagt?	क्या आपने पहले ही उसे बताया है?
-Have you tried it yet?	Hast du es schon versucht?	क्या आपने पहले ही कोशिश की है?
-Have you tried it yet?	Habt ihr es schon versucht?	क्या आपने पहले ही कोशिश की है?
-Have you tried it yet?	Haben Sie es schon versucht?	क्या आपने पहले ही कोशिश की है?
-Haven't we met before?	Haben wir uns nicht schon einmal getroffen?	क्या हम कभी नहीं मिले हैं?
-Haven't we met before?	Sind wir uns nicht schon einmal begegnet?	क्या हम कभी नहीं मिले हैं?
 Haven't you eaten yet?	Hast du noch nichts gegessen?	क्या आपने अभी तक कुछ खाया है?
 He abandoned all hope.	Er gab alle Hoffnung auf.	उन्होंने पूरी उम्मीद छोड़ दी।
 He abandoned all hope.	Er ließ alle Hoffnung fahren.	उन्होंने सभी आशाओं को आशा दी।
