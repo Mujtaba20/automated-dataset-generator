@@ -30369,3 +30369,7 @@ A man must be honest.	Ein Mann muss ehrlich sein.	एक आदमी होश�
 A man must be honest. - Different Meaning	Ein Mensch muss ehrlich sein.	एक व्यक्ति ईमानदार होना चाहिए।
 A piano is expensive.	Ein Klavier ist teuer.	एक पियानो महंगा हैं।
 A squid has ten legs.	Ein Tintenfisch hat zehn Beine.	एक स्क्विड दस पैर हैं।
+Add more water to it.	Mehr Wasser hinzufügen.	इसमें और पानी डालें।
+Admit it, we're lost.	Geb es zu, wir sind verloren.	स्वीकार करो, हम खो गए हैं।
+All I have is a book.	Alles, was ich habe, ist ein Buch.	मेरे पास केवल एक किताब है।
+All my friends do it.	Alle meine Freunde machen es.	मेरे सभी दोस्त ऐसा करते हैं।
