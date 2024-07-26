@@ -1,16 +1,4 @@
 
-I think it'll snow.	Ich glaube, es wird schneien.	मुझे लगता है कि यह बर्फ होगा।
-I think it's great.	Ich finde es toll.	मुझे लगता है कि वो ठीक है।
-I think that'll do.	Ich denke, das wird es tun.	मुझे लगता है यह होगा।
-I think that's Tom.	Ich denke, das ist Tom.	मुझे लगता है कि टॉम है।
-I think we can win.	Ich denke, wir können gewinnen.	मुझे लगता है कि हम जीत सकते हैं।
-I think we made it.	Ich denke, wir haben es geschafft.	मुझे लगता है कि हमने यह किया।
-I think we're done.	Ich glaube, wir sind fertig.	मुझे लगता है कि हम कर रहे हैं।
-I think we're even.	Ich glaube, wir sind quitt.	मुझे लगता है कि हम क्विट हैं।
-I think we're fine.	Ich denke, es geht uns gut.	मुझे लगता है कि हम ठीक हैं।
-I think you did it.	Ich glaube, du hast das getan.	मुझे लगता है कि आपने ऐसा किया।
-I think you did it.	Ich glaube, Sie haben das getan.	मुझे लगता है कि आपने ऐसा किया।
-I think you did it.	Ich glaube, ihr habt das getan.	मुझे लगता है कि आपने ऐसा किया।
 I think you're fat.	Ich halte dich für fett.	मुझे लगता है कि आप मोटे हैं।
 I think you're hot.	Ich finde dich heiß.	मुझे लगता है कि तुम गर्म हो।
 I thought about it.	Ich habe darüber nachgedacht.	मैंने इसके बारे में सोचा था।

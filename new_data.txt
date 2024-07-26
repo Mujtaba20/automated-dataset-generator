@@ -21643,3 +21643,13 @@ I think he's happy.	Ich denke, er ist glücklich.	मुझे लगता ह�
 I think he's lying.	Ich denke, er lügt.	मुझे लगता है कि वह झूठ बोल रहा है।
 I think he's right.	Ich denke, er hat recht.	मुझे लगता है कि वह सही है।
 I think it matters.	Ich denke, es spielt eine Rolle.	मुझे लगता है कि यह मायने रखता है।
+I think it'll snow.	Ich denke, es wird schneien.	मुझे लगता है कि यह बर्फ गिरेगी।
+I think it's great.	Ich denke, es ist großartig.	मुझे लगता है कि यह शानदार है।
+I think that'll do.	Ich denke, das wird genügen.	मुझे लगता है कि यह काफी होगा।
+I think that's Tom.	Ich denke, das ist Tom.	मुझे लगता है कि वह टॉम है।
+I think we can win.	Ich denke, wir können gewinnen.	मुझे लगता है कि हम जीत सकते हैं।
+I think we made it.	Ich denke, wir haben es geschafft.	मुझे लगता है कि हमने यह कर लिया है।
+I think we're done.	Ich denke, wir sind fertig.	मुझे लगता है कि हमने खत्म कर दिया है।
+I think we're even.	Ich denke, wir sind quitt.	मुझे लगता है कि हम बराबर हैं।
+I think we're fine.	Ich denke, uns geht es gut.	मुझे लगता है कि हम ठीक हैं।
+I think you did it.	Ich denke, du hast es geschafft.	मुझे लगता है कि तुमने यह किया है।
