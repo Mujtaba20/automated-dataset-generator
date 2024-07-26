@@ -24335,3 +24335,11 @@ We need to do this.	Wir müssen das tun.	हमें यह करना है
 We need volunteers.	Wir brauchen Freiwillige.	हमें स्वयंसेवकों की आवश्यकता है।
 We ran in the park.	Wir sind im Park gelaufen.	हम पार्क में दौड़े।
 We ran out of food.	Uns ist das Essen ausgegangen.	हमारा खाना खत्म हो गया।
+We really need you.	Wir brauchen dich wirklich.	हमें वास्तव में तुम्हें चाहिए।
+We saw this coming.	Wir haben das kommen sehen.	हमने यह आते हुए देखा।
+We saw you come in.	Wir haben dich hereinkommen gesehen.	हमने देखा कि आप अंदर आते हुए हैं।
+We sell everything.	Wir verkaufen alles.	हम सब कुछ बेचते हैं।
+We should call Tom.	Wir sollten Tom anrufen.	हमें टॉम को कॉल करना चाहिए।
+We should help Tom.	Wir sollten Tom helfen.	हमें टॉम की मदद करनी चाहिए।
+We should sit down.	Wir sollten uns setzen.	हमें बैठ जाना चाहिए।
+We slept in a tent.	Wir haben in einem Zelt geschlafen.	हमने तंबू में सोया।
