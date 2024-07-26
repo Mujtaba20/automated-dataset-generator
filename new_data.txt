@@ -31339,3 +31339,11 @@ How much is this tie?	Wie viel kostet diese Krawatte?	यह टाई कित
 How much worse is it?	Wie viel schlimmer ist es?	यह कितना बुरा है?
 How old are the kids?	Wie alt sind die Kinder?	बच्चे कितने साल के हैं?
 How old are you, Tom?	Wie alt bist du, Tom?	तुम कितने साल के हो, टॉम?
+How old could Tom be?	Wie alt könnte Tom sein?	टॉम कितने साल के हो सकते हैं?
+How old is your wife?	Wie alt ist deine Frau?	आपकी पत्नी कितनी उम्र की है?
+How old was Tom then?	Wie alt war Tom damals?	टॉम उस समay कितने साल के थे?
+How was Tom murdered?	Wie wurde Tom ermordet?	टॉम को कैसे हत्या की गई थी?
+How was school today?	Wie war die Schule heute?	आज स्कूल कैसा था?
+How was today's game?	Wie war das Spiel heute?	आज का खेल कैसा था?
+How was today's test?	Wie war der Test heute?	आज का परीक्षण कैसा था?
+How was your weekend?	Wie war dein Wochenende?	आपकी वीकेंड कैसा रहा?

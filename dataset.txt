@@ -1,16 +1,4 @@
 
-How old could Tom be?	Wie alt könnte Tom sein?	टॉम कितना पुराना हो सकता है?
-How old is your wife?	Wie alt ist deine Frau?	आपकी पत्नी कितनी पुरानी है?
-How old is your wife?	Wie alt ist Ihre Frau?	आपकी पत्नी कितनी पुरानी है?
-How old was Tom then?	Wie alt war Tom damals?	तब टॉम वापस कितना था?
-How was Tom murdered?	Wie wurde Tom ermordet?	टॉम की हत्या कैसे की गई?
-How was Tom murdered?	Auf welche Weise wurde Tom ermordet?	टॉम की हत्या कैसे की गई?
-How was school today?	Wie war es heute in der Schule?	आज स्कूल में यह कैसा था?
-How was today's game?	Wie war das Spiel heute?	आज खेल कैसा था?
-How was today's test?	Wie war der Test heute?	आज परीक्षण कैसा था?
-How was your weekend?	Wie war dein Wochenende?	आपका सप्ताहांत कैसा था?
-How was your weekend?	Wie war euer Wochenende?	आपका सप्ताहांत कैसा था?
-How was your weekend?	Wie war Ihr Wochenende?	आपका सप्ताहांत कैसा था?
 How well do you sing?	Wie gut kannst du singen?	आप कितनी अच्छी तरह गा सकते हैं?
 How well do you sing?	Wie gut könnt ihr singen?	आप कितनी अच्छी तरह गा सकते हैं?
 How well do you sing?	Wie gut können Sie singen?	आप कितनी अच्छी तरह गा सकते हैं?
