@@ -1,14 +1,4 @@
 
-What's Tom wearing?	Was trägt Tom gerade?	टॉम क्या पहन रहा है?
-What's Tom wearing?	Was hat Tom an?	टॉम पर क्या है?
-What's Tom writing?	Was schreibt Tom?	टॉम क्या लिखता है?
-What's a porcupine?	Was ist ein Stachelschwein?	एक साही क्या है?
-What's a stem cell?	Was ist eine Stammzelle?	स्टेम सेल क्या है?
-What's bugging you?	Was ist dir für eine Laus über die Leber gelaufen?	आपने अपने जिगर के ऊपर किस तरह का जूंगी?
-What's for dessert?	Was gibt es zum Nachtisch?	मिठाई के लिए क्या है?
-What's in the file?	Was ist in der Datei?	फ़ाइल में क्या है?
-What's in the file?	Was ist in der Akte?	फ़ाइल में क्या है?
-What's in this bag?	Was ist in dieser Tasche?	इस बैग में क्या है?
 What's in this box?	Was ist in dieser Kiste?	इस बॉक्स में क्या है?
 What's in this box?	Was ist in dieser Schachtel?	इस बॉक्स में क्या है?
 What's in your car?	Was ist in deinem Auto?	आपकी कार में क्या है?

@@ -24569,3 +24569,11 @@ What's Tom good at?	Worin ist Tom gut?	टॉम किस में अच्�
 What's Tom reading?	Was liest Tom?	टॉम क्या पढ़ रहा है?
 What's Tom selling?	Was verkauft Tom?	टॉम क्या बेच रहा है?
 What're you saying? [Different meaning]	Was meinst du?	तुम क्या कहना चाह रहे हो?
+What's Tom wearing?	Was trägt Tom?	टॉम के पास क्या पहना है?
+What's Tom writing?	Was schreibt Tom?	टॉम क्या लिख रहा है?
+What's a porcupine?	Was ist ein Stachelschwein?	एक सहयित क्या है?
+What's a stem cell?	Was ist eine Stammzelle?	एक स्टेम सेल क्या है?
+What's bugging you?	Was belästigt dich?	तुम्हें क्या परेशान कर रहा है?
+What's for dessert?	Was gibt es zum Nachtisch?	डेजर्ट में क्या है?
+What's in the file?	Was ist in der Datei?	फाइल में क्या है?
+What's in this bag?	Was ist in dieser Tasche?	इस बैग में क्या है?
