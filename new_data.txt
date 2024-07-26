@@ -35037,3 +35037,9 @@ Tom went sightseeing.	Tom ging auf Besichtigungstour.	टॉम दर्शन 
 Tom went there alone.	Tom ging allein dorthin.	टॉम वहाँ अकेला गया।
 Tom went to the bank.	Tom ging zur Bank.	टॉम बैंक गया।
 Tom wiggled his toes.	Tom wackelte mit seinen Zehen.	टॉम ने अपने पैरों को हिलाया।
+Tom will arrive soon.	Tom wird bald ankommen.	टॉम जल्दी ही पहुंचेगा।
+Tom will be punished.	Tom wird bestraft werden.	टॉम को सजा देने वाले हैं।
+Tom will be so happy.	Tom wird so glücklich sein.	टॉम बहुत खुश होगा।
+Tom will be so proud.	Tom wird sehr stolz sein.	टॉम बहुत गर्वित होगा।
+Tom will be thrilled.	Tom wird begeistert sein.	टॉम उत्साहित होगा।
+Tom will contact you.	Tom wird mit dir in Kontakt treten.	टॉम आपसे संपर्क करेगा।
