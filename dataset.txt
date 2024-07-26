@@ -1,16 +1,4 @@
 
-Tom kissed his cousin.	Tom küsste seine Cousine.	टॉम ने अपने चचेरे भाई को चूमा।
-Tom knew I'd be there.	Tom wusste, dass ich da sein würde.	टॉम जानता था कि मैं वहां रहूंगा।
-Tom knew it was wrong.	Tom wusste, dass es falsch war.	टॉम जानता था कि यह गलत था।
-Tom knows Boston well.	Tom kennt sich gut in Boston aus.	बोस्टन में टॉम अच्छी तरह से जानता है।
-Tom knows I like Mary.	Tom weiß, dass ich Maria leiden mag.	टॉम जानता है कि मैं मैरी को पीड़ित कर सकता हूं।
-Tom knows I'm at home.	Tom weiß, dass ich zu Hause bin.	टॉम जानता है कि मैं घर पर हूं।
-Tom knows how to cook.	Tom weiß, wie man kocht.	टॉम खाना बनाना जानता है।
-Tom knows how to dive.	Tom kann tauchen.	टॉम गोता लगा सकते हैं।
-Tom knows how to swim.	Tom kann schwimmen.	टॉम तैर सकते हैं।
-Tom knows some French.	Tom kann etwas Französisch.	टॉम में थोड़ा फ्रेंच हो सकता है।
-Tom knows some French.	Tom spricht etwas Französisch.	टॉम थोड़ा फ्रेंच बोलता है।
-Tom knows some French.	Tom spricht ein wenig Französisch.	टॉम थोड़ा फ्रेंच बोलता है।
 Tom knows what to say.	Tom weiß, was er zu sagen hat.	टॉम जानता है कि उसे क्या कहना है।
 Tom knows what we did.	Tom weiß, was wir getan haben.	टॉम जानता है कि हमने क्या किया।
 Tom knows what's good.	Tom weiß, was gut ist.	टॉम जानता है कि क्या अच्छा है।

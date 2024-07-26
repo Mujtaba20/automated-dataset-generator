@@ -40462,3 +40462,13 @@ Tom kept his distance.	Tom hielt Abstand.	टॉम ने अपनी दू�
 Tom killed his mother.	Tom tötete seine Mutter.	टॉम ने अपनी मां को मार दिया।
 Tom killed the dragon.	Tom tötete den Drachen.	टॉम ने ड्रैगन को मार दिया।
 Tom kind of went nuts.	Tom ist irgendwie verrückt geworden.	टॉम थोड़ा पागल हो गया।
+Tom kissed his cousin.	Tom küsste seinen Cousin.	टॉम ने अपने चचेरे भाई को चुम्बन दिया।
+Tom knew I'd be there.	Tom wusste, dass ich dort sein würde.	टॉम को पता था कि मैं वहाँ होऊँगा।
+Tom knew it was wrong.	Tom wusste, dass es falsch war.	टॉम को पता था कि यह गलत था।
+Tom knows Boston well.	Tom kennt Boston gut.	टॉम को बॉस्टन अच्छी तरह से पता है।
+Tom knows I like Mary.	Tom weiß, dass ich Mary mag.	टॉम को पता है कि मुझे मेरी पसंद है।
+Tom knows I'm at home.	Tom weiß, dass ich zu Hause bin.	टॉम को पता है कि मैं घर पर हूँ।
+Tom knows how to cook.	Tom weiß, wie man kocht.	टॉम को खाना पकाने का तरीका पता है।
+Tom knows how to dive.	Tom weiß, wie man taucht.	टॉम को डाइव करने का तरीका पता है।
+Tom knows how to swim.	Tom weiß, wie man schwimmt.	टॉम को तैरने का तरीका पता है।
+Tom knows some French.	Tom kann etwas Französisch.	टॉम को कुछ फ्रेंच आता है।
