@@ -37026,3 +37026,10 @@ How did you come here?	Wie bist du hierher gekommen?	तुम यहाँ क�
 How did you get those?	Wie hast du die bekommen?	तुम वो कैसे मिले?
 How did you guys meet?	Wie habt ihr euch getroffen?	तुम लोग कैसे मिले थे?
 How do I get downtown?	Wie komme ich in die Innenstadt?	मैं शहर के बीच कैसे पहुंचूँ?
+How do I look tonight?	Wie sehe ich heute Abend aus?	आज रात मैं कैसा दिखता हूँ?
+How do you feel today?	Wie fühlst du dich heute?	तुम आज कैसा महसूस कर रहे हो?
+How do you feel today? 1	Wie geht es dir heute?	तुम आज कैसे हो?
+How do you feel today? 2	Wie empfindest du heute?	तुम आज कैसा अनुभव कर रहे हो?
+How do you go to work?	Wie kommst du zur Arbeit?	तुम काम कैसे जाते हो?
+How do you kids do it?	Wie machen es deine Kinder?	तुम्हारे बच्चे इसे कैसे करते हैं?
+How do you make a box?	Wie machst du eine Schachtel?	तुम एक बक्सा कैसे बनाते हो?

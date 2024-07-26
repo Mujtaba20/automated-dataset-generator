@@ -1,14 +1,4 @@
 
-How do I look tonight?	Wie sehe ich heute aus?	आज मैं कैसे देखूं?
-How do you feel today?	Wie fühlen Sie sich heute?	आज आप कैसा महसूस कर रहे हैं?
-How do you feel today?	Wie geht es dir heute?	आज आप कैसे हैं?
-How do you feel today?	Wie fühlst du dich heute?	आज आप कैसा महसूस कर रहे हैं?
-How do you feel today?	Wie geht es Ihnen heute?	आज आप कैसे हैं?
-How do you feel today?	Wie geht es euch heute?	आज आप कैसे हैं?
-How do you go to work?	Wie kommst du zur Arbeit?	आप काम पर कैसे पहुंचते हैं?
-How do you kids do it?	Wie macht ihr Kinder das nur?	आप उसे कैसे करते हैं?
-How do you make a box?	Wie macht man eine Kiste?	आप एक बॉक्स कैसे बनाते हैं?
-How do you make a box?	Wie macht man einen Karton?	आप एक बॉक्स कैसे बनाते हैं?
 How do you make money?	Wie verdienst du dein Geld?	आप पैसे कैसे कमाते हैं?
 How do you make money?	Wie verdient ihr euer Geld?	आप अपना पैसा कैसे कमाते हैं?
 How do you make money?	Wie verdienen Sie Ihr Geld?	आप अपना पैसा कैसे कमाते हैं?
