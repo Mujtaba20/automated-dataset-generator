@@ -31369,3 +31369,13 @@ I almost didn't attend the party.	Ich habe die Party fast nicht besucht.	मै�
 I already apologized.	Ich habe mich bereits entschuldigt.	मैंने पहले ही माफी मांगी थी।
 I already called him.	Ich habe ihn bereits angerufen.	मैंने उसे पहले ही फोन किया था।
 I already have a kid.	Ich habe bereits ein Kind.	मेरे पास पहले से ही एक बच्चा है।
+I already tried that.	Ich habe das bereits ausprobiert.	मैंने पहले ही उसे ट्राई किया था।
+I also have a sister.	Ich habe auch eine Schwester.	मेरे पास भी एक बहन है।
+I also like painting.	Ich male auch gerne.	मुझे चित्रकला भी पसंद है।
+I always believe you.	Ich glaube immer an dich.	मैं हमेशा तुम्हारा विश्वास करता हूँ।
+I always feel hungry.	Ich bin immer hungrig.	मुझे हमेशा भूख लगती है।
+I always feel sleepy.	Ich bin immer müde.	मुझे हमेशा नींद आती है।
+I am a stranger here.	Ich bin ein Fremder hier.	मैं यहाँ पर एक अजनबी हूँ।
+I am afraid of bears.	Ich habe Angst vor Bären.	मुझे भालू से डर लगता है।
+I am afraid of dying.	Ich habe Angst zu sterben.	मुझे मरने से डर लगता है।
+I am an entrepreneur.	Ich bin ein Unternehmer.	मैं एक उद्यमिता हूँ।
