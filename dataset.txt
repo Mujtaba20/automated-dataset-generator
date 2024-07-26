@@ -1,15 +1,4 @@
 
-How close were you?	Wie nahe standet ihr euch?	आप कितने करीब हैं?
-How close were you?	Wie nahe standen Sie sich?	आप कितने करीब थे?
-How could I resist?	Wie könnte ich da widerstehen?	मैं कैसे विरोध कर सकता था?
-How could Tom know?	Woher wusste Tom das?	टॉम को यह कैसे पता चला?
-How did he find us?	Wie hat er uns gefunden?	उसने हमें कैसे पाया?
-How do I get there?	Wie komme ich dahin?	मैं वहां किस प्रकार पहुंचा?
-How do I thank you?	Wie kann ich dir danken?	मैं तुम्हारा धन्यवाद कैसे कर सकता हूं?
-How do we stop Tom?	Wie können wir Tom stoppen?	हम टॉम को कैसे रोक सकते हैं?
-How do we stop Tom?	Wie können wir Tom aufhalten?	हम टॉम को कैसे रोक सकते हैं?
-How do you do that?	Wie machst du das?	तुमने ये कैसे किया?
-How do you do that?	Wie geht das?	यह कैसे काम करता है?
 How do you do this?	Wie machst du das?	तुमने ये कैसे किया?
 How do you do this?	Wie geht das?	यह कैसे काम करता है?
 How do you like it?	Wie gefällt es dir?	आप इसे कैसे पसंद करते हैं?
