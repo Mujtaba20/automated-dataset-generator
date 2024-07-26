@@ -39105,3 +39105,12 @@ She ironed his shirts.	Sie bügelte seine Hemden.	उसने उसके क�
 She is a good swimmer.	Sie ist eine gute Schwimmerin.	वह एक अच्छी स्विमर है।
 She is about to leave.	Sie steht kurz vor der Abreise.	वह जाने वाली है।
 She is about your age.	Sie ist ungefähr in deinem Alter.	वह तुम्हारी उम्र की लगभग है।
+She is afraid of cats.	Sie hat Angst vor Katzen.	उसे बिल्लियों से डर लगता है।
+She is afraid of dogs.	Sie hat Angst vor Hunden.	उसे कुत्तों से डर लगता है।
+She is aged seventeen.	Sie ist siebzehn Jahre alt.	उसकी उम्र सत्रह साल है।
+She is always smiling.	Sie lächelt immer.	वह हमेशा मुस्कुराती है।
+She is always smoking.	Sie raucht immer.	वह हमेशा सिगरेट पीती है।
+She is an early riser.	Sie steht früh auf.	वह जल्दी उठती है।
+She is away in Kyushu.	Sie ist in Kyushu weg.	वह क्यूशू में दूर है।
+She is close to sixty.	Sie ist fast sechzig.	वह साठ के करीब है।
+She is engaged to him.	Sie ist mit ihm verlobt.	वह उससे विवाहित है।
