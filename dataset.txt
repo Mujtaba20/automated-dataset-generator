@@ -1,14 +1,4 @@
 
-Tom seldom eats fruit.	Tom isst selten Obst.	टॉम शायद ही कभी फल खाते हैं।
-Tom seldom gets angry.	Tom wird selten böse.	टॉम शायद ही कभी बुराई करता है।
-Tom seldom watches TV.	Tom sieht selten fern.	टॉम शायद ही कभी दूर देखता है।
-Tom seldom went there.	Tom ging nur selten dorthin.	टॉम शायद ही वहां गया था।
-Tom sent for a doctor.	Tom ließ einen Arzt rufen.	टॉम के पास एक डॉक्टर था।
-Tom sent me a present.	Tom schickte mir ein Geschenk.	टॉम ने मुझे एक उपहार भेजा।
-Tom set the bird free.	Tom ließ den Vogel frei.	टॉम ने बर्ड रिलीज़ किया।
-Tom set the bird free.	Tom hat den Vogel freigelassen.	टॉम ने बर्ड रिलीज़ किया।
-Tom should be at home.	Tom sollte zuhause sein.	टॉम घर पर होना चाहिए।
-Tom should be charged.	Tom sollte zur Kasse gebeten werden.	टॉम को चेकआउट करने के लिए कहा जाना चाहिए।
 Tom should talk to me.	Tom sollte mit mir reden.	टॉम को मुझसे बात करनी चाहिए।
 Tom should thank Mary.	Tom sollte Mary danken.	टॉम को मैरी को धन्यवाद देना चाहिए।
 Tom should've said no.	Tom hätte ablehnen sollen.	टॉम को अस्वीकार करना चाहिए था।

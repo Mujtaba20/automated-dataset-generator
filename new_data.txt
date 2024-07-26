@@ -40691,3 +40691,12 @@ Tom seems to be lying.	Tom scheint zu lügen.	टॉम झूठ बोल र�
 Tom seems to be tired.	Tom scheint müde zu sein.	टॉम थका हुआ लग रहा है।
 Tom seems to have won.	Tom scheint gewonnen zu haben.	टॉम जीत गया लग रहा है।
 Tom seems unconvinced.	Tom scheint nicht überzeugt zu sein.	टॉम अविश्वसनीय लग रहा है।
+Tom seldom eats fruit.	Tom isst selten Obst.	टॉम धीरे-धीरे फल खाता है।
+Tom seldom gets angry.	Tom wird selten wütend.	टॉम अक्सर गुस्सा नहीं होता।
+Tom seldom watches TV.	Tom schaut selten fern.	टॉम धीरे-धीरे टीवी देखता है।
+Tom seldom went there.	Tom ging selten dorthin.	टॉम वहाँ नदार गया।
+Tom sent for a doctor.	Tom hat einen Arzt gerufen.	टॉम ने डॉक्टर को बुलाया।
+Tom sent me a present.	Tom schickte mir ein Geschenk.	टॉम ने मुझे एक उपहार भेजा।
+Tom set the bird free.	Tom ließ den Vogel frei.	टॉम ने पंछी को आज़ाद कर दिया।
+Tom should be at home.	Tom sollte zu Hause sein.	टॉम को घर पर होना चाहिए।
+Tom should be charged.	Tom sollte angeklagt werden.	टॉम को आरोप लगाना चाहिए।
