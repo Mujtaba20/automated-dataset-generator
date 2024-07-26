@@ -40951,3 +40951,11 @@ Tom's hair is growing.	Toms Haar wächst.	टॉम के बाल बढ़ �
 Tom's hands are dirty.	Toms Hände sind schmutzig.	टॉम के हाथ गंदे हैं।
 Tom's hands are small.	Toms Hände sind klein.	टॉम के हाथ छोटे हैं।
 Tom's horse reared up.	Toms Pferd bäumte sich auf.	टॉम का घोड़ा ऊपर उठ गया।
+Tom's mother has died.	Toms Mutter ist gestorben.	टॉम की मां की मौत हो गई है।
+Tom's not a good liar.	Tom ist kein guter Lügner.	टॉम अच्छा झूठा नहीं है।
+Tom's plan won't work.	Toms Plan wird nicht funktionieren.	टॉम की योजना काम नहीं करेगी।
+Tom's radio is broken.	Toms Radio ist kaputt.	टॉम का रेडियो टूट गया है।
+Tom's shirt is drying.	Toms Hemd trocknet.	टॉम की कमीज सुख रही है।
+Tom's shoes are dirty.	Toms Schuhe sind schmutzig.	टॉम के जूते गंदे हैं।
+Tom's socks are dirty.	Toms Socken sind schmutzig.	टॉम के मोजे गंदे हैं।
+Tom's speech bored me.	Toms Rede hat mich gelangweilt.	टॉम का भाषण मुझे बोर कर दिया।

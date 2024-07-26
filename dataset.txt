@@ -1,14 +1,4 @@
 
-Tom's mother has died.	Toms Mutter ist gestorben.	टॉम की मां की मृत्यु हो गई।
-Tom's not a good liar.	Tom ist kein guter Lügner.	टॉम एक अच्छा झूठा नहीं है।
-Tom's plan won't work.	Toms Plan wird nicht aufgehen.	टॉम की योजना काम नहीं करेगी।
-Tom's radio is broken.	Toms Radio ist kaputt.	टॉम्स रेडियो टूट गया है।
-Tom's shirt is drying.	Toms Hemd trocknet.	टॉम की शर्ट सूख जाती है।
-Tom's shirt is drying.	Toms Hemd trocknet gerade.	टॉम की शर्ट सूख रही है।
-Tom's shoes are dirty.	Toms Schuhe sind schmutzig.	टॉम के जूते गंदे हैं।
-Tom's socks are dirty.	Toms Socken sind dreckig.	टॉम्स मोजे गंदे हैं।
-Tom's socks are dirty.	Toms Socken sind schmutzig.	टॉम्स मोजे गंदे हैं।
-Tom's speech bored me.	Toms Rede langweilte mich.	टॉम के भाषण ने मुझे ऊबाया।
 Tom's stomach growled.	Toms Magen knurrte.	टॉम का पेट बढ़ता है।
 Tom's strategy worked.	Toms Strategie hat funktioniert.	टॉम की रणनीति ने काम किया।
 Tom's very, very good.	Tom ist sehr, sehr gut.	टॉम बहुत, बहुत अच्छा है।
