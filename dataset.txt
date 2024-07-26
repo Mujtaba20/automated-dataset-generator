@@ -1,14 +1,4 @@
 
-I've just been mugged.	Ich wurde gerade überfallen.	मुझे बस हमला किया गया था।
-I've just been mugged.	Ich wurde gerade ausgeraubt.	मुझे बस लूट लिया गया था।
-I've just eaten lunch.	Ich habe gerade zu Mittag gegessen.	मैंने अभी दोपहर को खाया।
-I've just gotten home.	Ich bin gerade erst heimgekommen.	मैं अभी घर पहुँचा हूँ।
-I've just gotten home.	Ich bin gerade erst nach Hause gekommen.	मैं अभी घर आया हूँ।
-I've just gotten home.	Ich bin gerade erst heimgekehrt.	मैं अभी लौट आया हूं।
-I've lost my passport.	Ich habe meinen Pass verloren!	मेरा पासपोर्ट खो गया है!
-I've lost my strength.	Ich habe meine Kraft verloren.	मैंने अपनी ताकत खो दी।
-I've made a discovery.	Ich habe eine Entdeckung gemacht.	मैंने एक खोज की।
-I've made my decision.	Ich habe mich entschieden.	मैंने तय कर लिया है।
 I've never beaten Tom.	Ich habe Tom noch nie geschlagen.	मैंने कभी टॉम को नहीं हराया।
 I've never heard that.	Das habe ich noch nie gehört.	मैंने पहले कभी नहीं सुना है।
 I've never hit anyone.	Ich habe nie jemanden geschlagen.	मैंने कभी किसी को नहीं मारा।

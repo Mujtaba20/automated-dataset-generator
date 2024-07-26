@@ -38363,3 +38363,10 @@ I've got nothing left.	Ich habe nichts mehr übrig.	मेरे पास क�
 I've got the car keys.	Ich habe die Autoschlüssel.	मेरे पास कार की कुंजियाँ हैं।
 I've had a good sleep.	Ich habe gut geschlafen.	मैंने अच्छी नींद की है।
 I've heard everything.	Ich habe alles gehört.	मैंने सब कुछ सुन लिया है।
+I've just been mugged.	Ich bin gerade ausgeraubt worden.	मुझपर अभी चोरी की गई।
+I've just eaten lunch.	Ich habe gerade zu Mittag gegessen.	मैंने अभी लंच किया है।
+I've just gotten home.	Ich bin gerade angekommen.	मैंने अभी घर आया है।
+I've lost my passport.	Ich habe meinen Reisepass verloren.	मेरा पासपोर्त खो गया है।
+I've lost my strength.	Ich habe meine Kraft verloren.	मेरा बल गया है।
+I've made a discovery.	Ich habe eine Entdeckung gemacht.	मैंने एक खोज की है।
+I've made my decision.	Ich habe meine Entscheidung getroffen.	मैंने अपना फैसला कर लिया है।
