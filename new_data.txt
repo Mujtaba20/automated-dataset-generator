@@ -34068,3 +34068,11 @@ Tom bumped into Mary.	Tom lief Mary über den Weg.	टॉम ने मैरी
 Tom burst into tears.	Tom platzte in Tränen aus.	टॉम रोने लगा।
 Tom called me a taxi.	Tom rief mir ein Taxi.	टॉम ने मुझे एक टैक्सी बुलाई।
 Tom came home by bus.	Tom kam mit dem Bus nach Hause.	टॉम बस से घर आया।
+Tom came home filthy.	Tom kam schmutzig nach Hause.	टॉम घर गंदा आया।
+Tom came to see Mary.	Tom kam, um Maria zu sehen.	टॉम मेरी से मिलने आया।
+Tom came to visit us.	Tom kam uns besuchen.	टॉम ने हमें देखने आया।
+Tom can be relied on.	Man kann sich auf Tom verlassen.	टॉम पर भरोसा किया जा सकता है।
+Tom can fix anything.	Tom kann alles reparieren.	टॉम कुछ भी ठीक कर सकता है।
+Tom can play a flute.	Tom kann eine Flöte spielen.	टॉम बासरी बजा सकता है।
+Tom can ride a horse.	Tom kann ein Pferd reiten.	टॉम घोड़े पर सवारी कर सकता है।
+Tom can speak French.	Tom kann Französisch sprechen.	टॉम फ्रेंच बोल सकता है।

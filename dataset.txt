@@ -1,14 +1,4 @@
 
-Tom came home filthy.	Tom kam schmutzig nach Hause.	टॉम गंदे घर आया।
-Tom came to see Mary.	Tom kam, um Maria zu sehen.	टॉम मारिया को देखने आया था।
-Tom came to visit us.	Tom kam uns besuchen.	टॉम हमसे मिलने आया था।
-Tom can be relied on.	Du kannst dich auf Tom verlassen.	आप टॉम पर भरोसा कर सकते हैं।
-Tom can fix anything.	Tom kann alles reparieren.	टॉम सब कुछ मरम्मत कर सकता है।
-Tom can play a flute.	Tom kann Flöte spielen.	टॉम बांसुरी बजा सकते हैं।
-Tom can ride a horse.	Tom kann reiten.	टॉम सवारी कर सकते हैं।
-Tom can speak French.	Tom spricht Französisch.	टॉम फ्रेंच बोलता है।
-Tom can speak French.	Tom kann Französisch sprechen.	टॉम फ्रेंच बोल सकते हैं।
-Tom can speak French.	Tom kann Französisch.	टॉम फ्रेंच कर सकते हैं।
 Tom can't answer now.	Tom kann jetzt nicht antworten.	टॉम अब जवाब नहीं दे सकता।
 Tom can't explain it.	Tom kann es nicht erklären.	टॉम इसे समझा नहीं सकता।
 Tom can't find a job.	Tom kann keine Arbeit finden.	टॉम को कोई काम नहीं मिल रहा है।
