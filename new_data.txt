@@ -22364,3 +22364,12 @@ It's pretty simple.	Es ist ziemlich einfach.	यह काफी सरल ह�
 It's pretty simple. - 2	Es ist ziemlich simpel.	यह काफी सरल है।
 It's probably true.	Es ist wahrscheinlich wahr.	शायद सच है।
 It's raining again!	Es regnet wieder!	फिर से बारिश हो रही है!
+It's raining there.	Dort regnet es.	वहाँ बारिश हो रही है।
+It's raining today.	Heute regnet es.	आज बारिश हो रही है।
+It's rather ironic.	Es ist ziemlich ironisch.	यह काफी विडंबना है।
+It's rather unique.	Es ist eher einzigartig.	यह काफी अद्वितीय है।
+It's really boring.	Es ist wirklich langweilig.	यह बिल्कुल उबाऊ है।
+It's really simple.	Es ist wirklich einfach.	यह वास्तव में सरल है।
+It's rude to stare.	Es ist unhöflich zu starren.	घूरना अकड़ना है।
+It's sad, but true.	Es ist traurig, aber wahr.	यह दुखद है, लेकिन सच है।
+It's snowing again.	Es schneit wieder.	फिरसे बर्फ गिर रही है।

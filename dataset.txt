@@ -1,14 +1,4 @@
 
-It's raining there.	Es regnet dort.	वहां बारिश होती है।
-It's raining today.	Heute regnet es.	आज बारिश हो रही है।
-It's rather ironic.	Es ist ziemlich ironisch.	यह बहुत विडंबना है।
-It's rather unique.	Das ist ziemlich einzigartig.	यह बहुत अनोखा है।
-It's really boring.	Das ist wirklich langweilig.	यह वास्तव में उबाऊ है।
-It's really simple.	Es ist wirklich einfach.	यह वास्तव में आसान है।
-It's rude to stare.	Es ist unhöflich zu starren.	यह घूरने के लिए असभ्य है।
-It's sad, but true.	Traurig, aber wahr!	दुख की बात है लेकिन सच है!
-It's sad, but true.	Es ist traurig, aber wahr.	यह दुख की बात है लेकिन सच है।
-It's snowing again.	Es schneit schon wieder.	फिर से बर्फबारी हो रही है।
 It's snowing there.	Es schneit dort.	वहां बर्फबारी हो रही है।
 It's snowing today.	Heute schneit es.	आज बर्फबारी हो रही है।
 It's snowing today.	Es schneit heute.	आज बर्फबारी हो रही है।
