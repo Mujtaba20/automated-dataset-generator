@@ -24040,3 +24040,12 @@ Tom tried to leave.	Tom versuchte zu gehen.	टॉम ने छोड़ने 
 Tom tried to sleep.	Tom versuchte zu schlafen.	टॉम ने सोने का प्रयास किया।
 Tom turned quickly.	Tom drehte sich schnell um.	टॉम तेजी से मोड़ लिया।
 Tom turned scarlet.	Tom wurde scharlachrot.	टॉम बहुत लाल हो गया।
+Tom turned serious.	Tom wurde ernst.	टॉम गंभीर हो गया।
+Tom turned the key.	Tom drehte den Schlüssel.	टॉम ने कुंजी घुमाई।
+Tom understands me.	Tom versteht mich.	टॉम मुझे समझता है।
+Tom used a fake ID.	Tom benutzte einen gefälschten Ausweis.	टॉम ने एक नकली पहचान-पत्र का उपयोग किया।
+Tom visited Boston.	Tom besuchte Boston.	टॉम बॉस्टन गया।
+Tom voted for Mary.	Tom stimmte für Mary.	टॉम ने मेरी के लिए वोट डाला।
+Tom waited outside.	Tom wartete draußen.	टॉम बाहर इंतजार कर रहा था।
+Tom wakes up early.	Tom wacht früh auf.	टॉम जल्दी उठ जाता है।
+Tom walked quietly.	Tom ging leise.	टॉम शांति से चला।
