@@ -37442,3 +37442,11 @@ I had nowhere to hide.	Ich hatte keinen Ort zum Verstecken.	मेरा कह�
 I had to be very firm.	Ich musste sehr bestimmt sein.	मुझे बहुत दृढ़ होना था।
 I had to stay at home.	Ich musste zu Hause bleiben.	मुझे घर पर रहना पड़ा।
 I happen to live here.	Ich wohne hier zufällig.	मुझे यहाँ रहना हुआ।
+I hardly ever do that.	Ich mache das kaum je.	मैं अभी भी वैसा ही कर सकता हूँ।
+I hate class reunions.	Ich hasse Klassentreffen.	मुझे कक्षा दोहराव से नफरत है।
+I hate guys like that.	Ich hasse Jungs wie ihn.	मुझे उस तरह के लोग नफरत है।
+I hated history class.	Ich habe den Geschichtsunterricht gehasst.	मुझे इतिहास की कक्षा से नफरत थी।
+I have a Japanese car.	Ich habe ein japanisches Auto.	मेरे पास एक जापानी कार है।
+I have a bad headache.	Ich habe starke Kopfschmerzen.	मुझे गंभीर सरदर्द है।
+I have a crush on you.	Ich habe einen Schwarm für dich.	मुझे तुमसे प्यार है।
+I have a gift for you.	Ich habe ein Geschenk für dich.	मेरे पास तुम्हारे लिए एक उपहार है।
