@@ -28280,3 +28280,12 @@ There were two left.	Es waren noch zwei übrig.	दो बचे थे।
 There's a condition.	Es gibt eine Bedingung.	एक शर्त है।
 There's a lot to do.	Es gibt viel zu tun.	करने के लिए बहुत काम है।
 There's no elevator.	Es gibt keinen Fahrstuhl.	कोई लिफ्ट नहीं है।
+There's no evidence.	Es gibt keine Beweise.	यहां कोई सबूत नहीं है।
+There's no one here.	Hier ist niemand.	यहां कोई नहीं है।
+There's no one home.	Es ist niemand zuhause.	यहां कोई नहीं है।
+There's no one left.	Niemand ist übrig.	कोई बचा नहीं है।
+There's your friend.	Da ist dein Freund.	तुम्हारा दोस्त है।
+These are not words.	Das sind keine Worte.	ये शब्द नहीं हैं।
+These are our books.	Das sind unsere Bücher.	ये हमारी किताबें हैं।
+These are the names.	Das sind die Namen.	ये नाम हैं।
+These are the rules.	Das sind die Regeln.	ये नियम हैं।

@@ -1,14 +1,4 @@
 
-There's no evidence.	Es gibt keinen Beweis.	कोई साक्ष्य नहीं है।
-There's no evidence.	Es gibt keine Beweise.	कोई साक्ष्य नहीं है।
-There's no one here.	Es ist niemand hier.	यह यहां कोई नहीं है।
-There's no one home.	Es ist niemand zu Hause.	कोई भी घर पर नहीं है।
-There's no one left.	Es ist niemand übrig.	किसी को नहीं बचा है।
-There's your friend.	Da ist dein Freund.	आपका दोस्त है।
-These are not words.	Das sind keine Wörter.	ये शब्द नहीं हैं।
-These are our books.	Das sind unsere Bücher.	ये हमारी किताबें हैं।
-These are the names.	Dies sind die Namen.	ये नाम हैं।
-These are the rules.	Dies sind die Regeln.	ये नियम हैं।
 These are wonderful.	Diese sind wunderbar.	ये अद्भुत हैं।
 These belong to Tom.	Die gehören Tom.	वे टॉम के हैं।
 These books are new.	Diese Bücher sind neu.	ये किताबें नई हैं।
