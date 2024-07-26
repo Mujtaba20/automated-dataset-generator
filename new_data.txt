@@ -40308,3 +40308,12 @@ Tom is going to watch.	Tom wird zuhören.	टॉम देखने जा र�
 Tom is good at French.	Tom ist gut in Französisch.	टॉम फ्रेंच में अच्छा है।
 Tom is good at diving.	Tom kann gut tauchen.	टॉम डाइविंग में अच्छा है।
 Tom is good at skiing.	Tom ist gut im Skifahren.	टॉम स्की करने में अच्छा है।
+Tom is good at soccer.	Tom ist gut im Fußball.	टॉम फुटबॉल में अच्छा है।
+Tom is good at tennis.	Tom ist gut im Tennis.	टॉम टेनिस में अच्छा है।
+Tom is good with kids.	Tom ist gut mit Kindern.	टॉम बच्चों के साथ अच्छा है।
+Tom is good, isn't he?	Tom ist gut, nicht wahr?	टॉम अच्छा है, ना?
+Tom is hard to please.	Tom ist schwer zufriedenzustellen.	टॉम को खुश करना मुश्किल है।
+Tom is here, isn't he?	Tom ist hier, oder?	टॉम यहाँ है, ना?
+Tom is in a good mood.	Tom ist gut gelaunt.	टॉम अच्छे मूड में है।
+Tom is hard to please. (Different meaning)	Tom ist anspruchsvoll.	टॉम को खुश करना मुश्किल है। (भिन्न अर्थ)
+Tom is in a good mood. (Different meaning)	Tom ist in einer guten Stimmung.	टॉम अच्छे मूड में है। (भिन्न अर्थ)

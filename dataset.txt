@@ -1,14 +1,4 @@
 
-Tom is good at soccer.	Tom spielt gut Fußball.	टॉम अच्छी तरह से फुटबॉल खेलता है।
-Tom is good at tennis.	Tom spielt gut Tennis.	टॉम टेनिस को अच्छी तरह से खेलता है।
-Tom is good with kids.	Tom kann gut mit Kindern umgehen.	टॉम बच्चों को अच्छी तरह से संभाल सकता है।
-Tom is good, isn't he?	Tom ist brav, oder?	टॉम अच्छा है, है ना?
-Tom is hard to please.	Tom ist schwer zufriedenzustellen.	टॉम को संतुष्ट करना मुश्किल है।
-Tom is hard to please.	Es ist schwer, es Tom recht zu machen.	टॉम को सही बनाना मुश्किल है।
-Tom is here, isn't he?	Tom ist hier, oder etwa nicht?	टॉम यहाँ है या नहीं?
-Tom is in a good mood.	Tom ist guter Dinge.	टॉम अच्छी आत्माओं में है।
-Tom is in a good mood.	Tom hat gute Laune.	टॉम अच्छे मूड में है।
-Tom is in a good mood.	Tom ist guter Laune.	टॉम अच्छे मूड में है।
 Tom is in big trouble.	Tom ist in großen Schwierigkeiten.	टॉम बड़ी कठिनाइयों में है।
 Tom is in college now.	Tom ist jetzt auf dem College.	टॉम अब कॉलेज में है।
 Tom is in front of me.	Tom befindet sich vor mir.	टॉम मेरे सामने है।
