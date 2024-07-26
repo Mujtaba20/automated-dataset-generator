@@ -32054,3 +32054,13 @@ I really like trains.	Ich mag Züge wirklich.	मुझे ट्रेनें
 I really ought to go.	Ich sollte wirklich gehen.	मुझे सच्चे रूप से जाना चाहिए।
 I really want a beer.	Ich möchte wirklich ein Bier.	मुझे वास्तव में एक बीयर चाहिए।
 I recognize that guy.	Ich erkenne diesen Typen.	मैं उस आदमी को पहचानता हूँ।
+I refused, of course.	Ich habe natürlich abgelehnt.	मैंने निस्संदेह इंकार किया।
+I regret coming here.	Ich bereue es, hierher gekommen zu sein.	मुझे यहाँ आकर पछतावा हो रहा है।
+I regret going there.	Es tut mir leid, dorthin gegangen zu sein.	मुझे वहाँ जाने का अफसोस है।
+I regret kissing Tom.	Ich bereue es, Tom zu küssen.	मुझे टॉम को चुमने का अफसोस है।
+I regret what I said.	Ich bereue, was ich gesagt habe.	मुझे वह जो मैंने कहा है उस पर पछतावा हो रहा है।
+I rejected the offer.	Ich habe das Angebot abgelehnt.	मैंने यह प्रस्ताव ठुकरा दिया।
+I rejected the offer. - Different meaning	Das Angebot wurde von mir abgelehnt.	प्रस्ताव को मैंने अस्वीकृत किया।
+I reluctantly agreed.	Ich stimmte widerwillig zu.	मैंने अनिच्छापूर्वक सहमति दी।
+I respect your views.	Ich respektiere deine Meinung.	मैं आपके विचार का सम्मान करता हूँ।
+I said don't do that.	Ich habe gesagt, mach das nicht.	मैंने कहा, ऐसा मत करो।
