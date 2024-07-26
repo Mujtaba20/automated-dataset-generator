@@ -22589,3 +22589,12 @@ Nobody wants a war.	Niemand will einen Krieg.	किसी को भी यु�
 Nobody was injured.	Niemand wurde verletzt.	किसी को चोट नहीं आई थी।
 Nobody watches her.	Niemand beobachtet sie.	कोई भी उसे नहीं देख रहा है।
 Nobody will notice.	Niemand wird es bemerken.	कोई भी ध्यान नहीं देगा।
+Not a soul is here.	Keine Seele ist hier.	यहाँ कोई आत्मा नहीं है।
+Nothing is forever.	Nichts ist für immer.	कोई चीज हमेशा के लिए नहीं है।
+Nothing is missing.	Es fehlt nichts.	कुछ नहीं है।
+Nothing is perfect.	Nichts ist perfekt.	कुछ भी पूरी तरह से सही नहीं है।
+Nothing is working.	Nichts funktioniert.	कुछ काम नहीं कर रहा है।
+Nothing went wrong.	Nichts ist schiefgegangen.	कुछ गलत नहीं हुआ।
+Nothing's going on.	Es passiert nichts.	कुछ नहीं हो रहा है।
+Now I'm wide awake.	Jetzt bin ich hellwach.	अब मैं पूरी तरह से जाग गया हूँ।
+Now everyone knows.	Jetzt weiß jeder.	अब हर कोई जानता है।
