@@ -35269,3 +35269,12 @@ We were expecting it.	Wir haben es erwartet.	हम इसे उम्मीद
 We were just friends.	Wir waren nur Freunde.	हम बस दोस्त थे।
 We were one too many.	Wir waren einer zu viel.	हम एक अधिक थे।
 engSentence	Wir arbeiten in einer Fabrik.	हम कारख़ाने में काम करते हैं।
+We'd better get away.	Wir sollten besser weggehen.	हमें बेहतर होगा कि हम दूर जाएं।
+We'd given up on you.	Wir haben dir aufgegeben.	हमने तुम पर हार मान ली है।
+We'll always be here.	Wir werden immer hier sein.	हम हमेशा यहाँ रहेंगे।
+We'll be leaving now.	Wir werden jetzt gehen.	हम अब जा रहे हैं।
+We'll do it together.	Wir werden es gemeinsam tun.	हम इसे एक साथ करेंगे।
+We'll do it tomorrow.	Wir werden es morgen machen.	हम कल इसे करेंगे।
+We'll eat on the way.	Wir werden unterwegs essen.	हम रास्ते में खाएंगे।
+We'll find the truth.	Wir werden die Wahrheit finden.	हम सच्चाई निकालेंगे।
+We'll give it a shot.	Wir werden es versuchen.	हम एक कोशिश करेंगे।
