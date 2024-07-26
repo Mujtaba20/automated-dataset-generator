@@ -34672,3 +34672,10 @@ Tom lost his balance.	Tom verlor sein Gleichgewicht.	टॉम ने अपन�
 Tom lost his car key.	Tom hat seinen Autoschlüssel verloren.	टॉम ने अपनी कार की चाबी खो दी।
 Tom lost his friends.	Tom hat seine Freunde verloren.	टॉम ने अपने दोस्तों को खो दिया।
 Tom lost his glasses.	Tom verlor seine Brille.	टॉम ने अपने चश्मे खो दिए।
+Tom lost his hearing.	Tom hat sein Gehör verloren.	टॉम अपने कान खो चुके थे।
+Tom loved Mary a lot.	Tom liebte Maria sehr.	टॉम ने मेरी को बहुत पसंद किया।
+Tom loved doing that.	Tom liebte es, das zu tun.	टॉम को उसे करना पसंद था।
+Tom loved his garden.	Tom liebte seinen Garten.	टॉम ने अपने बगीचे को पसंद किया।
+Tom loved your ideas.	Tom liebte deine Ideen.	टॉम ने तुम्हारे विचारों को पसंद किया।
+Tom loves doing this.	Tom liebt es, das zu tun.	टॉम इसे करने से प्यार करता है।
+Tom loves his family.	Tom liebt seine Familie.	टॉम अपने परिवार से प्यार करता है।

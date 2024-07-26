@@ -1,14 +1,4 @@
 
-Tom lost his hearing.	Tom ist taub geworden.	टॉम बहरा हो गया है।
-Tom lost his hearing.	Tom hat den Gehörsinn verloren.	टॉम ने अपनी सुनवाई की भावना खो दी है।
-Tom loved Mary a lot.	Tom liebte Maria sehr.	टॉम ने मारिया को बहुत प्यार किया।
-Tom loved doing that.	Tom liebte es, das zu tun.	टॉम को ऐसा करना बहुत पसंद था।
-Tom loved his garden.	Tom liebte seinen Garten.	टॉम अपने बगीचे से प्यार करता था।
-Tom loved your ideas.	Deine Ideen haben Tom sehr gefallen.	आपके विचारों को वास्तव में टॉम पसंद आया।
-Tom loves doing this.	Tom liebt das.	टॉम को वह पसंद है।
-Tom loves doing this.	Tom liebt es, das zu tun.	टॉम को ऐसा करना बहुत पसंद है।
-Tom loves doing this.	Tom macht das für sein Leben gern.	टॉम अपने जीवन के लिए ऐसा करना पसंद करते हैं।
-Tom loves his family.	Tom liebt seine Familie.	टॉम अपने परिवार से प्यार करता है।
 Tom loves nightclubs.	Tom geht sehr gerne in Nachtlokale.	टॉम को नाइटलॉक में जाना पसंद है।
 Tom lowered his eyes.	Tom senkte den Blick.	टॉम ने टकटकी को कम कर दिया।
 Tom lowered his gaze.	Tom senkte seinen Blick.	टॉम ने अपनी टकटकी को कम कर दिया।
