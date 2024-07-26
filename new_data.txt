@@ -37915,3 +37915,13 @@ I used my imagination. (different meaning)	Ich habe meine Vorstellungskraft genu
 I used to be a dancer.	Früher war ich Tänzer.	मैं पहले एक नृत्यकारी था।
 I used to be like Tom.	Ich war wie Tom.	मैं टॉम के जैसा था।
 I used to be like you.	Ich war wie du.	मैं तुम्हारे जैसा होता था।
+I used to be very fat.	Ich war früher sehr dick.	मैं पहले बहुत मोटा था।
+I used to hate Boston.	Früher hasste ich Boston.	मुझे पहले बॉस्टन से नफरत थी।
+I usually get up late.	Normalerweise stehe ich spät auf.	मैं आम तौर पर देर से उठता हूँ।
+I usually wear a suit.	Ich trage normalerweise einen Anzug.	मैं आम तौर पर सूट पहनता हूँ।
+I walked about 1 mile.	Ich bin etwa 1 Meile gelaufen.	मैंने लगभग 1 मील तक चला।
+I want Tom to be safe.	Ich möchte, dass Tom sicher ist.	मैं चाहता हूँ कि टॉम सुरक्षित रहे।
+I want Tom to do that.	Ich möchte, dass Tom das tut.	मैं चाहता हूँ कि टॉम वैसा ही करे।
+I want Tom to go home.	Ich möchte, dass Tom nach Hause geht.	मैं चाहता हूँ कि टॉम घर जाए।
+I want Tom to succeed.	Ich möchte, dass Tom erfolgreich ist.	मैं चाहता हूँ कि टॉम सफल हो।
+I want a book to read.	Ich möchte ein Buch zum Lesen.	मुझे एक किताब पढ़नी है।
