@@ -29082,3 +29082,11 @@ Tom likes them both.	Tom mag beides.	टॉम को दोनों पसं�
 Tom likes to travel.	Tom reist gerne.	टॉम को यात्रा करना पसंद है।
 Tom likes traveling.	Tom mag es zu reisen.	टॉम को यात्रा करना पसंद है।
 Tom likes traveling. (Different meaning)	Tom genießt Reisen.	टॉम को घूमना पसंद है।
+Tom likes you a lot.	Tom mag dich sehr.	टॉम तुम्हें बहुत पसंद करता है।
+Tom listens to Mary.	Tom hört Mary zu.	टॉम मेरी की बातें सुनता है।
+Tom lit a cigarette.	Tom zündete eine Zigarette an.	टॉम ने एक सिगरेट जलाई।
+Tom lit the candles.	Tom zündete die Kerzen an.	टॉम ने मोमबत्तियों को जलाया।
+Tom lived in Boston.	Tom lebte in Boston.	टॉम बोस्टन में रहता था।
+Tom lives in Boston.	Tom lebt in Boston.	टॉम बॉस्टन में रहता है।
+Tom lives in a cave.	Tom lebt in einer Höhle.	टॉम गुफा में रहता है।
+Tom lives in a slum.	Tom lebt in einem Armenviertel.	टॉम एक झोपड़ी में रहता है।

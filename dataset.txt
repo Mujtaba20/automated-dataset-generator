@@ -1,16 +1,4 @@
 
-Tom likes you a lot.	Tom mag dich sehr.	टॉम आपको बहुत पसंद करता है।
-Tom listens to Mary.	Tom hört auf Maria.	टॉम मारिया को सुनता है।
-Tom lit a cigarette.	Tom hat sich eine Zigarette angesteckt.	टॉम ने एक सिगरेट संक्रमित किया है।
-Tom lit the candles.	Tom zündete die Kerzen an.	टॉम ने मोमबत्तियाँ जलाईं।
-Tom lived in Boston.	Tom lebte in Boston.	टॉम बोस्टन में रहते थे।
-Tom lives in Boston.	Tom wohnt in Boston.	टॉम बोस्टन में रहता है।
-Tom lives in a cave.	Tom wohnt in einer Höhle.	टॉम एक गुफा में रहता है।
-Tom lives in a slum.	Tom lebt in einem Elendsviertel.	टॉम एक दुख जिले में रहता है।
-Tom lives in a slum.	Tom lebt in einem Slum.	टॉम एक झुग्गी में रहता है।
-Tom lives in a slum.	Tom wohnt in einem Slum.	टॉम एक झुग्गी में रहता है।
-Tom lives in a slum.	Tom wohnt in einem Elendsviertel.	टॉम एक दुख जिले में रहता है।
-Tom lives in a slum.	Tom lebt in einem Armenviertel.	टॉम एक गरीब जिले में रहता है।
 Tom lives near Mary.	Tom wohnt in Marias Nähe.	टॉम मारिया की निकटता में रहता है।
 Tom lives near here.	Tom wohnt hier in der Nähe.	टॉम पास में रहता है।
 Tom lives next door.	Tom wohnt nebenan.	टॉम अगले दरवाजे पर रहता है।
