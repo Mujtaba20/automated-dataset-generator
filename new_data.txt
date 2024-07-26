@@ -29474,3 +29474,13 @@ Tom's hair is thick.	Toms Haare sind dick.	टॉम के बाल घने 
 Tom's hallucinating.	Tom hat Halluzinationen.	टॉम कल्पना कर रहा है।
 Tom's house is tidy.	Toms Haus ist ordentlich.	टॉम का घर साफ-सुथरा है।
 Tom's mother's dead.	Toms Mutter ist tot.	टॉम की मां मर गई है।
+Tom's not breathing.	Tom atmet nicht.	टॉम सांस नहीं ले रहा है।
+Tom's older than me.	Tom ist älter als ich.	टॉम मेरे से बड़ा है।
+Tom's plane crashed.	Toms Flugzeug ist abgestürzt.	टॉम की विमान दुर्घटना हो गई।
+Tom's pulse is fast.	Toms Puls ist schnell.	टॉम का नाडी तेज चल रही है।
+Tom's room is dirty.	Toms Zimmer ist schmutzig.	टॉम का कमरा गंदा है।
+Tom's room is messy.	Toms Zimmer ist unordentlich.	टॉम का कमरा अश्योधित है।
+Tom's very effusive.	Tom ist sehr überschwänglich.	टॉम बहुत उत्साही है।
+Tom, do you like me?	Tom, magst du mich?	टॉम, क्या आप मुझसे पसंद करते हैं?
+Tom, how's it going?	Tom, wie läuft es?	टॉम, सब कुछ कैसे चल रहा है?
+Tonight sounds good.	Heute Abend klingt gut.	आज रात अच्छा लग रहा है।
