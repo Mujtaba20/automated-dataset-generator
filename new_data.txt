@@ -28722,3 +28722,13 @@ Tom had an accident.	Tom hatte einen Unfall.	टॉम के साथ एक �
 Tom had fun with it.	Tom hatte Spaß damit.	टॉम ने इसके साथ मजे किए।
 Tom had other plans.	Tom hatte andere Pläne.	टॉम के पास अन्य योजनाएं थीं।
 Tom had to go there.	Tom musste dorthin gehen.	टॉम को वहाँ जाना था।
+Tom has 12 siblings.	Tom hat 12 Geschwister.	टॉम के 12 भाई-बहन हैं।
+Tom has Alzheimer's.	Tom hat Alzheimer.	टॉम को अल्जाइमर है।
+Tom has a bad heart.	Tom hat ein schwaches Herz.	टॉम का दिल खराब है।
+Tom has a bald spot.	Tom hat eine kahle Stelle.	टॉम के बालों के गंजे हैं।
+Tom has a beard now.	Tom hat jetzt einen Bart.	अब टॉम के दाढ़ी है।
+Tom has a big mouth.	Tom hat ein großes Mundwerk.	टॉम की बड़ी बातें हैं।
+Tom has a black car.	Tom hat ein schwarzes Auto.	टॉम का काली कार है।
+Tom has a black dog.	Tom hat einen schwarzen Hund.	टॉम का काला कुत्ता है।
+Tom has a black eye.	Tom hat ein blaues Auge.	टॉम का काला आंख है।
+Tom has a cleft lip.	Tom hat eine gespaltene Lippe.	टॉम की गिलास जैसी होती है।
