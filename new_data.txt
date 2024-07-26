@@ -22706,3 +22706,13 @@ She has no enemies.	Sie hat keine Feinde.	उसके दुश्मन नह
 She has no manners.	Sie hat keine Manieren.	उसके पास कोई शिष्टाचार नहीं है।
 She has seven sons.	Sie hat sieben Söhne.	उसके सात पुत्र हैं।
 She has short hair.	Sie hat kurze Haare.	उसके बाल छोटे हैं।
+She has small feet.	Sie hat kleine Füße.	उसके पैर छोटे हैं।
+She has three kids.	Sie hat drei Kinder.	उसके पास तीन बच्चे हैं।
+She heard him sing.	Sie hörte ihm singen.	उसने उसे गाते हुए सुना।
+She heard him sing. 2	Sie hörte ihn singen.	उसने उसे गाते हुए सुना।
+She invited him in.	Sie lud ihn ein.	उसने उसे अंदर बुलाया।
+She is a poor cook.	Sie ist eine schlechte Köchin.	वह एक बुरी रसोइया है।
+She is a poor cook. 2	Sie kann nicht gut kochen.	उसका पकाने का प्रयास नकामयाब रहता है।
+She is a sorceress.	Sie ist eine Hexe.	वह एक जादूगर्नी है।
+She is always busy.	Sie ist immer beschäftigt.	वह हमेशा व्यस्त रहती है।
+She is an American.	Sie ist eine Amerikanerin.	वह एक अमेरिकी है।
