@@ -28318,3 +28318,13 @@ They cannot stop me.	Sie können mich nicht aufhalten.	उन्हें मु
 They cannot stop us.	Sie können uns nicht aufhalten.	उन्हें हमें रोक नहीं सकते।
 They did not listen.	Sie haben nicht zugehört.	उन्होंने सुना नहीं।
 They didn't help me.	Sie haben mir nicht geholfen.	उन्होंने मुझे मदद नहीं की।
+They didn't hurt me.	Sie haben mich nicht verletzt.	उन्होंने मुझे चोट नहीं पहुंचाई।
+They didn't say why.	Sie haben nicht gesagt warum.	उन्होंने नहीं कहा क्यों।
+They died in battle.	Sie starben im Kampf.	उन्होंने युद्ध में मरना।
+They don't eat meat.	Sie essen kein Fleisch.	वे मांस नहीं खाते।
+They don't have one.	Sie haben keinen.	उनके पास एक नहीं है।
+They don't know yet.	Sie wissen es noch nicht.	उन्हें अभी तक नहीं पता है।
+They don't like Tom.	Sie mögen Tom nicht.	उन्हें टॉम पसंद नहीं है।
+They don't like you.	Sie mögen dich nicht.	उन्हें तुम्हारी पसंद नहीं है।
+They don't want you.	Sie wollen dich nicht.	उन्हें तुम्हें नहीं चाहिए।
+They handcuffed Tom.	Sie legten Tom Handschellen an.	उन्होंने टॉम को हैंडकफ किया।

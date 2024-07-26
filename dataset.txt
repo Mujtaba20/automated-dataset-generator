@@ -1,14 +1,4 @@
 
-They didn't hurt me.	Sie taten mir nicht weh.	उन्होंने मुझे चोट नहीं पहुंचाई।
-They didn't say why.	Sie sagten nicht, warum.	आपने क्यों नहीं कहा।
-They died in battle.	Sie starben auf dem Schlachtfeld.	युद्ध के मैदान में उनकी मृत्यु हो गई।
-They don't eat meat.	Sie essen kein Fleisch.	आप मांस नहीं खाते हैं।
-They don't have one.	Sie haben keins.	आपके पास कोई नहीं है।
-They don't know yet.	Sie wissen es noch nicht.	आप अभी तक नहीं जानते हैं।
-They don't like Tom.	Sie mögen Tom nicht.	आपको टॉम पसंद नहीं है।
-They don't like you.	Sie mögen dich nicht.	वे आपको पसंद नहीं करते।
-They don't want you.	Sie wollen dich nicht.	आप नहीं चाहते हैं।
-They handcuffed Tom.	Sie haben Tom in Handschellen gelegt.	आप टॉम को हथकड़ी में डालते हैं।
 They have been busy.	Sie waren beschäftigt.	वे व्यस्त थे।
 They have few books.	Sie haben wenige Bücher.	आपके पास कुछ किताबें हैं।
 They have no choice.	Sie haben keine Wahl.	उनके पास कोई विकल्प नहीं है।
