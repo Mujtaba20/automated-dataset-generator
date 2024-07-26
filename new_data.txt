@@ -21509,3 +21509,11 @@ I miss my children.	Ich vermisse meine Kinder.	मुझे अपने बच�
 I missed my flight.	Ich habe meinen Flug verpasst.	मैंने अपनी उड़ान छूट दी।
 I missed the train.	Ich habe den Zug verpasst.	मैंने ट्रेन छूट दी।
 I missed you a lot.	Ich habe dich sehr vermisst.	मुझे तुम्हारी बहुत याद आती थी।
+I moved last month.	Ich bin letzten Monat umgezogen.	मैं पिछले महीने बदल गया।
+I mowed Tom's lawn.	Ich habe Toms Rasen gemäht.	मैंने टॉम के लॉन को काट लिया।
+I must be dreaming.	Ich muss träumen.	मुझे सपना देख रहा होना चाहिए।
+I must concentrate.	Ich muss mich konzentrieren.	मुझे ध्यान केंद्रित करना चाहिए।
+I must do it again.	Ich muss es wieder tun.	मुझे इसे फिर से करना होगा।
+I must make a call.	Ich muss anrufen.	मुझे कॉल करना होगा।
+I need Tom's money.	Ich brauche Toms Geld.	मुझे टॉम के पैसे चाहिए।
+I need a chauffeur.	Ich brauche einen Chauffeur.	मुझे एक ड्राइवर चाहिए।
