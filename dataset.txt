@@ -1,15 +1,4 @@
 
-Write down each word.	Schreiben Sie jedes Wort auf.	हर शब्द लिखें।
-Write your full name.	Schreiben Sie Ihren vollen Namen!	अपना पूरा नाम लिखें!
-Yesterday was Monday.	Gestern war Montag.	कल सोमवार था।
-Yesterday was Sunday.	Gestern war Sonntag.	कल रविवार था।
-Yesterday was cloudy.	Gestern war es bewölkt.	कल यह बादल था।
-You almost killed me.	Du hättest mich fast umgebracht.	आपने मुझे लगभग मार डाला।
-You almost killed me.	Sie hätten mich fast umgebracht.	उन्होंने मुझे लगभग मार डाला।
-You almost killed me.	Ihr hättet mich fast umgebracht.	आपने मुझे लगभग मार डाला।
-You almost missed me.	Du hast mich fast verpasst.	आपने मुझे लगभग याद किया।
-You almost missed me.	Ihr habt mich fast verpasst.	आपने मुझे लगभग याद किया।
-You almost missed me.	Sie haben mich fast verpasst.	उन्होंने मुझे लगभग याद किया।
 You always lie to me.	Du lügst mich immer an.	तुम हमेशा मुझ पर झूठ बोलते हो।
 You always lie to me.	Ihr lügt mich immer an.	तुम हमेशा मुझसे झूठ बोलते हो।
 You always lie to me.	Sie lügen mich immer an.	वे हमेशा मुझ पर झूठ बोलते हैं।

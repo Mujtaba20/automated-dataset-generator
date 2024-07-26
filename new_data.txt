@@ -35732,3 +35732,12 @@ Would you like bread?	Möchten Sie Brot?	क्या आपको रोटी 
 Would you like to go?	Möchten Sie gehen?	क्या आप जाना चाहेंगे?
 Would you prefer tea?	Würdest du lieber Tee haben?	क्या आप चाय पसंद करेंगे?
 Would you step aside?	Würdest du zur Seite treten?	क्या आप एक कदम पीछे करेंगे?
+Write down each word.	Schreiben Sie jedes Wort auf.	हर शब्द लिखें।
+Write your full name.	Schreiben Sie Ihren vollständigen Namen.	अपना पूरा नाम लिखें।
+Yesterday was Monday.	Gestern war Montag.	कल सोमवार था।
+Yesterday was Sunday.	Gestern war Sonntag.	कल रविवार था।
+Yesterday was cloudy.	Gestern war bewölkt.	कल मेघवाला था।
+You almost killed me.	Sie haben mich fast umgebracht.	तुमने मुझे लगभग मार डाला था।
+You almost killed me. (Different meaning)	Du hast mich fast vor Schrecken sterben lassen.	तुमने मुझे डर के मारे आदमी कर दिया था।
+You almost missed me.	Sie haben mich fast verpasst.	तुमने मुझे लगभग छोड़ दिया।
+You almost missed me. (Different meaning)	Du hast mich fast übersehen.	तुमने मुझे लगभग नहीं देखा।
