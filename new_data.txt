@@ -26974,3 +26974,12 @@ I'll update it soon.	Ich werde es bald aktualisieren.	मैं इसे जल
 I'm Tom's assistant.	Ich bin Toms Assistent.	मैं टॉम का सहायक हूँ।
 I'm Tom's bodyguard.	Ich bin Toms Leibwächter.	मैं टॉम का बॉडीगार्ड हूँ।
 I'm a beginner, too.	Ich bin auch Anfänger.	मैं भी एक शुरुआत करने वाला हूँ।
+I'm a good listener.	Ich bin ein guter Zuhörer.	मैं एक अच्छा सुनने वाला हूं।
+I'm a light sleeper.	Ich bin ein leichter Schläfer.	मैं एक हल्के से नींद वाला हूँ।
+I'm a little hungry.	Ich bin ein wenig hungrig.	मुझे थोड़ी भूख लगी है।
+I'm a lousy swimmer.	Ich bin ein miserabler Schwimmer.	मैं एक घटिया तैराक हूं।
+I'm a married woman.	Ich bin eine verheiratete Frau.	मैं एक शादीशुदा महिला हूं।
+I'm a perfectionist.	Ich bin ein Perfektionist.	मैं एक समग्रतावादी हूं।
+I'm a quick learner.	Ich lerne schnell.	मैं तेजी से सीखने वाला हूं।
+I'm a tattoo artist.	Ich bin ein Tätowierkünstler.	मैं एक टैटू कलाकार हूं।
+I'm a tennis player.	Ich bin ein Tennisspieler.	मैं एक टेनिस खिलाड़ी हूं।
