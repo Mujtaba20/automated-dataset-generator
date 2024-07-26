@@ -37612,3 +37612,11 @@ I know what it's like.	Ich weiß, wie es ist.	मुझे पता है क�
 I know what they said.	Ich weiß, was sie gesagt haben.	मैं जानता हूँ कि उन्होंने क्या कहा।
 I know what they want.	Ich weiß, was sie wollen.	मैं जानता हूँ कि वे क्या चाहते हैं।
 I know what we can do.	Ich weiß, was wir tun können.	मुझे पता है कि हम क्या कर सकते हैं।
+I know where he lives.	Ich weiß, wo er lebt.	मुझे पता है कि वह कहाँ रहता है।
+I know where they are.	Ich weiß, wo sie sind.	मुझे पता है कि वे कहाँ हैं।
+I know where you live.	Ich weiß, wo du lebst.	मुझे पता है कि तुम कहाँ रहते हो।
+I know who killed Tom.	Ich weiß, wer Tom getötet hat.	मुझे पता है कि ने तोम को मारा है।
+I know why Tom is sad.	Ich weiß, warum Tom traurig ist.	मुझे पता है कि तोम उदास क्यों है।
+I know you don't care.	Ich weiß, dass es dir nicht wichtig ist.	मुझे पता है कि तुम्हें मायने नहीं रखता।
+I know you meant well.	Ich weiß, dass du es gut gemeint hast.	मुझे पता है कि तुम अच्छा चाहते थे।
+I know you understand.	Ich weiß, dass du verstehst.	मुझे पता है कि तुम समझते हो।

@@ -1,14 +1,4 @@
 
-I know where he lives.	Ich weiß, wo er wohnt.	मुझे पता है कि वह कहाँ रहता है।
-I know where they are.	Ich weiß, wo sie sind.	मुझे पता है कि वे कहाँ हैं।
-I know where you live.	Ich weiß, wo du wohnst.	मुझे पता है तुम कहां रहते हो।
-I know who killed Tom.	Ich weiß, wer Tom ermordet hat.	मुझे पता है कि टॉम की हत्या किसने की।
-I know why Tom is sad.	Ich weiß, warum Tom traurig ist.	मुझे पता है कि टॉम दुखी क्यों है।
-I know you don't care.	Ich weiß, das ist dir wurscht.	मुझे पता है कि आपके लिए कोई फर्क नहीं पड़ता।
-I know you meant well.	Ich weiß, Sie haben es gut gemeint.	मुझे पता है कि आप अच्छी तरह से मतलब रखते हैं।
-I know you meant well.	Ich weiß, du hast es gut gemeint.	मुझे पता है कि आप अच्छी तरह से मतलब रखते हैं।
-I know you meant well.	Ich weiß, ihr habt es gut gemeint.	मुझे पता है कि आप इसका मतलब अच्छी तरह से करते हैं।
-I know you understand.	Ich weiß, dass du verstehst.	मुझे पता है कि आप समझते हैं।
 I know you'll love it.	Ich weiß, du wirst es lieben.	मुझे पता है कि आप इसे पसंद करेंगे।
 I know you're in here.	Ich weiß, dass du hier drinnen bist.	मुझे पता है कि आप यहां हैं।
 I know you're shocked.	Ich weiß, dass du schockiert bist.	मुझे पता है कि आप हैरान हैं।
