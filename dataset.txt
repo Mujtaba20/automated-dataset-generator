@@ -1,14 +1,4 @@
 
-That hat becomes you.	Dieser Hut steht dir gut.	यह टोपी आपको अच्छी तरह से सूट करती है।
-That is just her way.	Das ist einfach ihre Art.	यह सिर्फ आपकी तरह है।
-That is not my fault.	Das ist nicht meine Schuld.	मेरी गलती नहीं है।
-That is the bus stop.	Das ist die Bushaltestelle.	यह बस स्टॉप है।
-That isn't Tom's car.	Das ist nicht Toms Auto.	यह टॉम की कार नहीं है।
-That isn't clear yet.	Das ist noch nicht klar.	यह अभी तक स्पष्ट नहीं है।
-That isn't necessary.	Das ist nicht nötig.	यह जरूरी नहीं है।
-That isn't the issue.	Darum geht es nicht.	यह नहीं है कि इसके बारे में क्या है।
-That knife cuts well.	Dieses Messer schneidet gut.	यह चाकू अच्छी तरह से कट जाता है।
-That looks expensive.	Das sieht teuer aus.	यह महंगा लग रहा है।
 That man has one box.	Der Mann hat eine Schachtel.	आदमी के पास एक बॉक्स है।
 That man has one box.	Der Mann hat eine einzelne Schachtel.	आदमी के पास एक ही बॉक्स है।
 That meat is chicken.	Dieses Fleisch ist Hühnchenfleisch.	यह मांस चिकन मांस है।

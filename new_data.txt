@@ -33508,3 +33508,13 @@ That car is very new.	Das Auto ist sehr neu.	वह गाड़ी बहुत �
 That child got bored.	Das Kind wurde gelangweilt.	उस बच्चे को बोरीयाट आ गई।
 That doesn't help me.	Das hilft mir nicht.	वह मेरी मदद नहीं करता।
 That door won't open.	Diese Tür wird sich nicht öffnen.	वह दरवाजा नहीं खुलेगा।
+That hat becomes you.	Dieser Hut steht dir gut.	वह टोपी आपको भला लगती है।
+That is just her way.	Das ist einfach ihre Art.	वह बस उसकी आदत है।
+That is not my fault.	Das ist nicht meine Schuld.	वह मेरी गलती नहीं है।
+That is the bus stop.	Das ist die Bushaltestelle.	वह बस स्टॉप है।
+That isn't Tom's car.	Das ist nicht Toms Auto.	वह टॉम की गाड़ी नहीं है।
+That isn't clear yet.	Das ist noch nicht klar.	वह अभी भी स्पष्ट नहीं है।
+That isn't necessary.	Das ist nicht notwendig.	वह जरूरी नहीं है।
+That isn't the issue.	Das ist nicht das Problem.	वह समस्या नहीं है।
+That knife cuts well.	Dieses Messer schneidet gut.	वह चाकू अच्छे से काटता है।
+That looks expensive.	Das sieht teuer aus.	वह महंगा लग रहा है।
