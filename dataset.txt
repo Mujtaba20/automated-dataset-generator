@@ -1,15 +1,4 @@
 
-When will you start?	Wann fängst du an?	आप कब शुरु कर रहे हैं?
-Where are my gloves?	Wo sind meine Handschuhe?	मेरे दस्ताने कहाँ हैं?
-Where are my things?	Wo sind meine Sachen?	मेरी बातें कहाँ हैं?
-Where are the files?	Wo sind die Dateien?	फाइलें कहाँ हैं?
-Where are the files?	Wo sind die Akten?	फाइलें कहाँ हैं?
-Where are the women?	Wo sind die Frauen?	महिलाएं कहाँ हैं?
-Where are those two?	Wo sind die beiden?	दोनों कहाँ हैं?
-Where are you bound?	Wohin bist du unterwegs?	आप कहां जा रहे हैं?
-Where are you going?	Wohin gehst du?	आप कहां जा रहे हैं?
-Where are you going?	Wo gehst du hin?	आप कहां जा रहे हैं?
-Where are you going?	Wohin geht ihr?	आप कहां जा रहे हैं?
 Where are you today?	Wo sind Sie heute?	आप आज कहां हो?
 Where are your cats?	Wo sind deine Katzen?	आपकी बिल्लियाँ कहाँ हैं?
 Where are your dogs?	Wo sind deine Hunde?	आपके कुत्ते कहाँ हैं?

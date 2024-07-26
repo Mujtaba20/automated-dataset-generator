@@ -29892,3 +29892,11 @@ When is school over?	Wann endet die Schule?	स्‍कूल कब समा�
 When is your flight?	Wann ist dein Flug?	तुम्हारी उड़ान कब है?
 When will we arrive?	Wann werden wir ankommen?	हम कब पहुंचेंगे?
 When will you leave?	Wann gehst du weg?	तुम कब जा रहे हो?
+When will you start?	Wann wirst du anfangen?	तुम कब शुरू करोगे?
+Where are my gloves?	Wo sind meine Handschuhe?	मेरे दस्ताने कहां हैं?
+Where are my things?	Wo sind meine Sachen?	मेरी चीज़ें कहां हैं?
+Where are the files?	Wo sind die Dateien?	फ़ाइलें कहां हैं?
+Where are the women?	Wo sind die Frauen?	महिलाएँ कहां हैं?
+Where are those two?	Wo sind die beiden?	वे दो कहां हैं?
+Where are you bound?	Wohin gehst du?	तुम कहां जा रहे हो?
+Where are you going?	Wohin gehst du?	तुम कहां जा रहे हो?
