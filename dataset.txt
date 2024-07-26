@@ -1,15 +1,4 @@
 
-I want to thank you.	Ich möchte dir danken.	मुझे आपको धन्यवाद कहना है।
-I want to use these.	Ich möchte diese benutzen.	मैं इसका उपयोग करना चाहता हूं।
-I want to visit Tom.	Ich will Tom besuchen.	मैं टॉम जाना चाहता हूं।
-I want to visit you.	Ich will dich besuchen.	मैं आपके पास आना चाहता हूं।
-I want to visit you.	Ich will euch besuchen.	मैं आपके पास आना चाहता हूं।
-I want to visit you.	Ich will Sie besuchen.	मैं उससे मिलने जाना चाहता हूं।
-I want what Tom has.	Ich will das, was Tom hat.	मैं चाहता हूं कि टॉम के पास क्या है।
-I want you out here.	Ich will dich hier draußen haben.	मैं तुम्हें यहाँ से बाहर करना चाहता हूँ।
-I want you to dance.	Ich will, dass du tanzt.	मैं चाहता हूं कि आप नृत्य करें।
-I want your opinion.	Ich möchte Ihre Meinung dazu.	मुझे आपकी राय चाहिए।
-I want your opinion.	Ich möchte deine Meinung wissen.	मैं आपकी राय जानना चाहता हूं।
 I wanted an apology.	Ich wollte eine Entschuldigung.	मैं एक माफी चाहता था।
 I wanted her to win.	Ich wollte, dass sie gewinnt.	मैं चाहता था कि वह जीत जाए।
 I wanted to be free.	Ich wollte frei sein.	मैं मुक्त होना चाहता था।

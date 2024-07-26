@@ -26781,3 +26781,11 @@ I want to sleep now.	Ich möchte jetzt schlafen.	मैं अब सोना �
 I want to start now.	Ich möchte jetzt starten.	मैं अब शुरू करना चाहता हूँ।
 I want to stay here.	Ich möchte hier bleiben.	मैं यहाँ ठहरना चाहता हूँ।
 I want to thank Tom.	Ich möchte Tom danken.	मैं टॉम का आभारी हूँ।
+I want to thank you.	Ich möchte mich bei dir bedanken.	मैं तुम्हें धन्यवाद देना चाहता हूँ।
+I want to use these.	Ich möchte diese benutzen.	मैं इनका उपयोग करना चाहता हूँ।
+I want to visit Tom.	Ich möchte Tom besuchen.	मैं टॉम को देखना चाहता हूँ।
+I want to visit you.	Ich möchte dich besuchen.	मैं तुम्हें देखना चाहता हूँ।
+I want what Tom has.	Ich möchte, was Tom hat.	मैं जो टॉम के पास है वह चाहता हूँ।
+I want you out here.	Ich möchte, dass du hier rauskommst.	मैं चाहता हूँ कि तुम यहाँ बाहर निकलो।
+I want you to dance.	Ich möchte, dass du tanzt.	मैं चाहता हूँ कि तुम नृत्य करो।
+I want your opinion.	Ich möchte deine Meinung.	मुझे तुम्हारे विचार चाहिए।
