@@ -1,15 +1,4 @@
 
-Have you eaten dinner?	Habt ihr schon zu Abend gegessen?	क्या आपने पहले ही रात का खाना खाया है?
-Have you eaten dinner?	Hast du schon zu Abend gegessen?	क्या आपने पहले ही डिनर किया है?
-Have you eaten dinner?	Haben Sie schon zu Abend gegessen?	क्या आपने पहले ही रात का खाना खाया है?
-Have you ever done it?	Hast du es jemals gemacht?	क्या तुमने पहले कभी ऐसा किया है?
-Have you finished yet?	Bist du schon fertig?	क्या आपका काम समाप्त हो गया?
-Have you finished yet?	Seid ihr schon fertig?	क्या आप तैयार हैं?
-Have you finished yet?	Sind Sie schon fertig?	क्या आप तैयार हैं?
-Have you finished yet?	Hast du es schon gemacht?	क्या आपने पहले ही ऐसा किया है?
-Have you forgiven Tom?	Hast du Tom verziehen?	क्या आपने टॉम को माफ कर दिया?
-Have you forgiven Tom?	Habt ihr Tom verziehen?	क्या आपने टॉम को माफ कर दिया?
-Have you forgiven Tom?	Haben Sie Tom verziehen?	क्या आपने टॉम को माफ कर दिया?
 Have you seen my wife?	Hast du meine Frau gesehen?	क्या तुमने मेरी पत्नी को देखा
 Have you told anybody?	Hast du es jemandem erzählt?	क्या आपने किसी को बताया
 Have you told anybody?	Haben Sie es jemandem erzählt?	क्या आपने किसी को बताया?

@@ -36648,3 +36648,7 @@ Have the guests eaten?	Haben die Gäste gegessen?	क्या मेहमा�
 Have they arrived yet?	Sind sie schon angekommen?	क्या वे अभी तक पहुंचे हैं?
 Have you been smoking?	Haben Sie geraucht?	क्या आपने धूम्रपान किया है?
 Have you confirmed it?	Haben Sie es bestätigt?	क्या आपने इसे पुष्टि की है?
+Have you eaten dinner?	Haben Sie zu Abend gegessen?	क्या आपने रात का खाना खाया है?
+Have you ever done it?	Hast du es jemals gemacht?	क्या तुमने कभी किया है?
+Have you finished yet?	Haben Sie abgeschlossen?	क्या आपने अभी तक समाप्त किया है?
+Have you forgiven Tom?	Haben Sie Tom vergeben?	क्या आपने टॉम क्षमा की है?
