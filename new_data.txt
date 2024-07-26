@@ -27659,3 +27659,11 @@ My phone is ringing.	Mein Telefon klingelt.	मेरा फ़ोन रिं�
 My phone was broken.	Mein Telefon war kaputt.	मेरा फ़ोन टूट गया था।
 My room is upstairs.	Mein Zimmer ist oben.	मेरा कमरा ऊपर है।
 My room key, please.	Mein Zimmerschlüssel, bitte.	मेरे कमरे की चाबी, कृपया।
+My room number is 5.	Meine Zimmernummer ist 5.	मेरा कमरा नंबर 5 है।
+My shirt was ruined.	Mein Hemd wurde ruiniert.	मेरी कमीज खराब हो गई थी।
+My sister has a job.	Meine Schwester hat einen Job.	मेरी बहन के पास एक नौकरी है।
+My sister is famous.	Meine Schwester ist berühmt.	मेरी बहन प्रसिद्ध है।
+My sister is pretty.	Meine Schwester ist hübsch.	मेरी बहन सुंदर है।
+My sister likes Tom.	Meine Schwester mag Tom.	मेरी बहन को टॉम पसंद है।
+My tea is too sweet.	Mein Tee ist zu süß.	मेरी चाय बहुत मीठी है।
+My teachers like me.	Meine Lehrer mögen mich.	मेरे शिक्षक मुझे पसंद करते हैं।
