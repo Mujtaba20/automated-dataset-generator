@@ -34249,3 +34249,12 @@ Tom has a nice smile.	Tom hat ein schönes Lächeln.	टॉम की अच्�
 Tom has a nice voice.	Tom hat eine schöne Stimme.	टॉम की अच्छी आवाज़ है।
 Tom has a second job.	Tom hat einen Zweitjob.	टॉम के पास दूसरा नौकरी है।
 Tom has a sharp mind.	Tom hat einen scharfen Verstand.	टॉम का तेज बुद्धि है।
+Tom has a short fuse.	Tom hat einen kurzen Zünder.	टॉम का एक छोटा फ्यूज है।
+Tom has a silk scarf.	Tom hat einen Seidenschal.	टॉम के पास एक रेशमी स्कार्फ है।
+Tom has a stiff neck.	Tom hat einen steifen Nacken.	टॉम का गर्दन सख्त है।
+Tom has acted wisely.	Tom hat klug gehandelt.	टॉम ने बुद्धिमानी से काम किया है।
+Tom has already left.	Tom ist bereits gegangen.	टॉम चला गया है।
+Tom has anger issues.	Tom hat Wutanfälle.	टॉम के पास गुस्से की समस्या है।
+Tom has bad eyesight.	Tom hat schlechtes Sehvermögen.	टॉम की नजर खराब है।
+Tom has been sedated.	Tom wurde sediert.	टॉम को चिंता किया गया है।
+Tom has been stabbed.	Tom wurde erstochen.	टॉम को चाकू घोंपा गया है।

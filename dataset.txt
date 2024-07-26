@@ -1,14 +1,4 @@
 
-Tom has a short fuse.	Tom platzt schnell die Hutschnur.	टॉम जल्दी से टोपी फट गया।
-Tom has a silk scarf.	Tom hat einen Seidenschal.	टॉम के पास एक रेशम का दुपट्टा है।
-Tom has a stiff neck.	Tom hat einen steifen Nacken.	टॉम में एक कठोर गर्दन है।
-Tom has acted wisely.	Tom hat sich vernünftig benommen.	टॉम ने समझदारी से व्यवहार किया।
-Tom has already left.	Tom ist schon gegangen.	टॉम पहले ही छोड़ चुके हैं।
-Tom has anger issues.	Tom hat Wutprobleme.	टॉम को क्रोध की समस्या है।
-Tom has bad eyesight.	Tom hat schlechte Augen.	टॉम की बुरी आँखें हैं।
-Tom has bad eyesight.	Tom kann schlecht gucken.	टॉम बुरा लग सकता है।
-Tom has been sedated.	Tom ist ruhiggestellt worden.	टॉम को स्थिर कर दिया गया है।
-Tom has been stabbed.	Tom wurde erstochen.	टॉम को चाकू मार दिया गया था।
 Tom has been wounded.	Tom ist verwundet.	टॉम घायल है।
 Tom has big problems.	Tom hat große Probleme.	टॉम को बड़ी समस्याएं हैं।
 Tom has changed jobs.	Tom hat eine andere Arbeit angenommen.	टॉम ने एक और काम स्वीकार कर लिया।
