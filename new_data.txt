@@ -28055,3 +28055,12 @@ That is a good idea.	Das ist eine gute Idee.	वह एक अच्छा व�
 That is not a tiger.	Das ist kein Tiger.	वह बाघ नहीं है।
 That is not my line.	Das ist nicht mein Zitat.	वह मेरी पंक्ति नहीं है।
 engSentence	{'That is unavoidable.': 'Das ist unvermeidlich.', "That isn't my fault.": 'Das ist nicht mein Fehler.', "That isn't our goal.": 'Das ist nicht unser Ziel.', "That isn't the plan.": 'Das ist nicht der Plan.', 'That joke was funny.': 'Der Witz war lustig.', 'That looks like Tom.': 'Das sieht aus wie Tom.', 'That looks like tea.': 'Das sieht aus wie Tee.', 'That makes me angry.': 'Das macht mich wütend.', 'That makes me happy.': 'Das macht mich glücklich.', 'That makes us happy.': 'Das macht uns glücklich.'}	{'That is unavoidable.': 'यह अटल है।', "That isn't my fault.": 'यह मेरी गलती नहीं है।', "That isn't our goal.": 'यह हमारा लक्ष्य नहीं है।', "That isn't the plan.": 'यह योजना नहीं है।', 'That joke was funny.': 'वह जोक हंसी आने वाला था।', 'That looks like Tom.': 'वह टॉम जैसा लग रहा है।', 'That looks like tea.': 'वह चाय जैसा लग रहा है।', 'That makes me angry.': 'वह मुझे गुस्सा दिलाता है।', 'That makes me happy.': 'वह मुझे खुश करता है।', 'That makes us happy.': 'वह हमें खुश करता है।'}
+That may not happen.	Das könnte nicht passieren.	वह हो सकता है न हो।
+That ought to do it.	Das sollte es tun.	वह कर लेना चाहिए।
+That rarely happens.	Das passiert selten.	वह बहुत कम हो रहा है।
+That sounds amazing.	Das klingt fantastisch.	वह शानदार लग रहा है।
+That sounds awesome.	Das klingt großartig.	वह भव्य लग रहा है।
+That student is Tom.	Dieser Schüler ist Tom.	वह छात्र टॉम है।
+That was depressing.	Das war deprimierend.	वह निराशाजनक था।
+That was disgusting.	Das war ekelhaft.	वह घिनौना था।
+That was impressive.	Das war beeindruckend.	वह प्रभावशाली था।

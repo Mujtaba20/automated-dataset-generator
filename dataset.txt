@@ -1,14 +1,4 @@
 
-That may not happen.	Das passiert vielleicht nicht.	ऐसा नहीं हो सकता है।
-That ought to do it.	Das sollte genügen.	यह पर्याप्त होना चाहिए।
-That rarely happens.	Das kommt selten vor.	यह शायद ही कभी होता है।
-That sounds amazing.	Das klingt phantastisch.	यह सुनने में शानदार है।
-That sounds awesome.	Das klingt großartig.	वह बहुत अच्छा लगता है।
-That student is Tom.	Dieser Student ist Tom.	यह छात्र टॉम है।
-That was depressing.	Das war bedrückend.	वह निराशाजनक था।
-That was depressing.	Das war deprimierend.	वह निराशाजनक था।
-That was disgusting.	Das war widerlich.	यह घृणित था।
-That was impressive.	Das war beeindruckend.	यह प्रभावशाली था।
 That was months ago.	Das war vor vielen Monaten.	वह कई महीने पहले था।
 That was my mistake.	Das war mein Fehler.	यह मेरी गलती थी।
 That was really bad.	Das war wirklich schlecht.	यह वास्तव में बुरा था।
