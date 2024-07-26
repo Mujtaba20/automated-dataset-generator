@@ -1,14 +1,4 @@
 
-Tom is here with me.	Tom ist hier bei mir.	टॉम यहाँ मेरे साथ है।
-Tom is here with us.	Tom ist hier bei uns.	टॉम हमारे साथ यहाँ है।
-Tom is housesitting.	Tom hütet das Haus.	टॉम घर रखता है।
-Tom is in Australia.	Tom ist in Australien.	टॉम ऑस्ट्रेलिया में है।
-Tom is in a meeting.	Tom ist in einer Besprechung.	टॉम एक बैठक में है।
-Tom is in bad shape.	Tom ist in schlechter Verfassung.	टॉम खराब आकार में है।
-Tom is in the attic.	Tom ist auf dem Dachboden.	टॉम अटारी में है।
-Tom is in the house.	Tom ist im Haus.	टॉम घर में है।
-Tom is in the lobby.	Tom ist in der Lobby.	टॉम लॉबी में है।
-Tom is in the lobby.	Tom ist im Foyer.	टॉम फ़ोयर में है।
 Tom is insufferable.	Tom ist unerträglich.	टॉम असहनीय है।
 Tom is irresistible.	Tom ist unwiderstehlich.	टॉम अप्रतिरोध्य है।
 Tom is jumping rope.	Tom springt über das Seil.	टॉम रस्सी पर कूदता है।

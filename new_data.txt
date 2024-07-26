@@ -28893,3 +28893,12 @@ Tom is having lunch.	Tom isst zu Mittag.	टॉम लंच कर रहे �
 Tom is helping Mary.	Tom hilft Maria.	टॉम मेरी की मदद कर रहे हैं।
 Tom is here already.	Tom ist schon hier.	टॉम पहले से यहां हैं।
 Tom is here for you.	Tom ist hier für dich.	टॉम तुम्हारे लिए यहां है।
+Tom is here with me.	Tom ist hier bei mir.	टॉम यहाँ मेरे साथ है।
+Tom is here with us.	Tom ist hier bei uns.	टॉम यहाँ हमारे साथ है।
+Tom is housesitting.	Tom passt auf das Haus auf.	टॉम घर की देखभाल कर रहा है।
+Tom is in Australia.	Tom ist in Australien.	टॉम ऑस्ट्रेलिया में है।
+Tom is in a meeting.	Tom ist in einem Meeting.	टॉम की एक बैठक में है।
+Tom is in bad shape.	Tom ist schlecht drauf.	टॉम बुरी तरह से है।
+Tom is in the attic.	Tom ist auf dem Dachboden.	टॉम छत के ऊपर है।
+Tom is in the house.	Tom ist im Haus.	टॉम घर में है।
+Tom is in the lobby.	Tom ist in der Lobby.	टॉम लॉबी में है।
