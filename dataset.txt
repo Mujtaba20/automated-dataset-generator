@@ -1,15 +1,4 @@
 
-Tom and Mary miss John.	Tom und Maria vermissen Johannes.	टॉम और मारिया मिस जॉन।
-Tom and Mary need help.	Tom und Maria brauchen Hilfe.	टॉम और मारिया को मदद की जरूरत है।
-Tom and Mary quarreled.	Tom und Maria stritten sich.	टॉम और मारिया ने तर्क दिया।
-Tom and Mary told John.	Tom und Maria sagten es Johannes.	टॉम और मारिया ने कहा कि यह जोहान्स।
-Tom and Mary told John.	Tom und Maria haben es Johannes gesagt.	टॉम और मारिया ने कहा कि यह जॉन।
-Tom and Mary were busy.	Tom und Maria waren beschäftigt.	टॉम और मारिया व्यस्त थे।
-Tom and Mary were here.	Tom und Maria waren hier.	टॉम और मारिया यहाँ थे।
-Tom answered in detail.	Tom hat detailliert geantwortet.	टॉम ने विस्तार से जवाब दिया।
-Tom answered in detail.	Tom hat ausführlich geantwortet.	टॉम ने विस्तार से जवाब दिया।
-Tom answered in detail.	Tom antwortete detailliert.	टॉम ने विस्तार से जवाब दिया।
-Tom answered in detail.	Tom antwortete ausführlich.	टॉम ने विस्तार से जवाब दिया।
 Tom answered the phone.	Tom nahm den Anruf an.	टॉम ने कॉल स्वीकार किया।
 Tom apologized to Mary.	Tom bat Maria um Entschuldigung.	टॉम ने मारिया को माफी मांगने के लिए कहा।
 Tom appears astonished.	Tom scheint erstaunt zu sein.	टॉम चकित हो रहा है।
