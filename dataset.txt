@@ -1,14 +1,4 @@
 
-I don't have a brother.	Ich habe keinen Bruder.	मेरा कोई भाई नहीं है।
-I don't have a car yet.	Ich habe noch kein Auto.	मेरे पास अभी तक कार नहीं है।
-I don't have a job now.	Ich habe jetzt keine Arbeit.	मेरे पास अब कोई काम नहीं है।
-I don't have a problem.	Ich habe kein Problem.	मुझे कोई दिक्कत नहीं है।
-I don't have an answer.	Ich habe keine Antwort.	मेरे पास कोई उत्तर नहीं है।
-I don't have an office.	Ich habe kein Büro.	मेरे पास एक कार्यालय नहीं है।
-I don't have any money.	Ich habe kein Geld.	मेरे पास पैसे नहीं है।
-I don't have any money.	Ich hab keinen Pfennig.	मेरे पास एक पैसा नहीं है।
-I don't have any money.	Ich habe keine müde Mark.	मेरे पास कोई थका हुआ निशान नहीं है।
-I don't have any money.	Ich habe keinen roten Heller.	मेरे पास लाल चमक नहीं है।
 I don't have any water.	Ich habe kein Wasser.	मेरे पास कोई पानी नहीं है।
 I don't have much time.	Ich habe nicht viel Zeit.	मेंरे पास ज्यादा समय नहीं है।
 I don't have the money.	Ich habe das Geld nicht.	मेरे पास पेसे नहीं हैं।
