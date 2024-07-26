@@ -40222,3 +40222,11 @@ Tom is a troublemaker.	Tom ist ein Unruhestifter.	टॉम समस्या �
 Tom is a truck driver.	Tom ist ein Lastwagenfahrer.	टॉम ट्रक चालक है।
 Tom is a very shy boy.	Tom ist ein sehr schüchterner Junge.	टॉम एक बहुत शर्मीला लड़का है।
 Tom is a very shy guy.	Tom ist ein sehr schüchterner Kerl.	टॉम एक बहुत शर्मीला आदमी है।
+Tom is a witch doctor.	Tom ist ein Hexenarzt.	टॉम एक जादuू डॉक्टर है।
+Tom is a yoga teacher.	Tom ist ein Yogalehrer.	टॉम एक योग शिक्षक है।
+Tom is about to leave.	Tom steht kurz davor zu gehen.	टॉम जाने वाला है।
+Tom is about your age.	Tom ist ungefähr in deinem Alter.	टॉम तुम्हारे उम्र के बराबर है।
+Tom is acting strange.	Tom verhält sich seltsam.	टॉम अजीब से व्यवहार कर रहा है।
+Tom is afraid of Mary.	Tom fürchtet sich vor Mary.	टॉम को मेरी से डर लगता है।
+Tom is afraid of cats.	Tom hat Angst vor Katzen.	टॉम बिल्लियों से डरता है।
+Tom is afraid of dogs.	Tom fürchtet sich vor Hunden.	टॉम कुत्तों से डरता है।

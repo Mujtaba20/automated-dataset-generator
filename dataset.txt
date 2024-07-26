@@ -1,14 +1,4 @@
 
-Tom is a witch doctor.	Tom ist Medizinmann.	टॉम एक दवा आदमी है।
-Tom is a witch doctor.	Tom ist ein Schamane.	टॉम एक शमन है।
-Tom is a yoga teacher.	Tom ist Yogalehrer.	टॉम एक योग शिक्षक है।
-Tom is about to leave.	Tom will gleich gehen.	टॉम तुरंत जाना चाहता है।
-Tom is about your age.	Tom ist ungefähr in deinem Alter.	टॉम आपकी उम्र के बारे में है।
-Tom is acting strange.	Tom verhält sich merkwürdig.	टॉम अजीब व्यवहार करता है।
-Tom is afraid of Mary.	Tom hat Angst vor Maria.	टॉम मारिया से डरता है।
-Tom is afraid of Mary.	Tom fürchtet sich vor Maria.	टॉम मारिया से डरता है।
-Tom is afraid of cats.	Tom hat Angst vor Katzen.	टॉम बिल्लियों से डरता है।
-Tom is afraid of dogs.	Tom hat Angst vor Hunden.	टॉम कुत्तों से डरता है।
 Tom is all by himself.	Tom ist ganz allein.	टॉम सब अकेला है।
 Tom is already asleep.	Tom schläft schon.	टॉम पहले से ही सो रहा है।
 Tom is already inside.	Tom ist schon drinnen.	टॉम पहले से ही अंदर है।
