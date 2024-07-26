@@ -37925,3 +37925,11 @@ I want Tom to do that.	Ich möchte, dass Tom das tut.	मैं चाहता 
 I want Tom to go home.	Ich möchte, dass Tom nach Hause geht.	मैं चाहता हूँ कि टॉम घर जाए।
 I want Tom to succeed.	Ich möchte, dass Tom erfolgreich ist.	मैं चाहता हूँ कि टॉम सफल हो।
 I want a book to read.	Ich möchte ein Buch zum Lesen.	मुझे एक किताब पढ़नी है।
+I want a large family.	Ich möchte eine große Familie.	मुझे एक बड़े परिवार की चाहत है।
+I want an explanation.	Ich möchte eine Erklärung.	मुझे एक स्पष्टीकरण चाहिए।
+I want more than that.	Ich möchte mehr als das.	मुझे उससे अधिक चाहिए।
+I want my family back.	Ich möchte meine Familie zurück.	मुझे मेरे परिवार को वापस चाहिए।
+I want my money today.	Ich möchte mein Geld heute.	मुझे आज मेरे पैसे चाहिए।
+I want something else.	Ich möchte etwas anderes.	मुझे कुछ और चाहिए।
+I want something more.	Ich möchte etwas mehr.	मुझे और कुछ चाहिए।
+I want that to happen.	Ich möchte, dass das passiert.	मुझे चाहिए कि वह हो।

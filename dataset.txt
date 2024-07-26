@@ -1,14 +1,4 @@
 
-I want a large family.	Ich will eine große Familie.	मुझे एक बड़ा परिवार चाहिए।
-I want an explanation.	Ich will eine Erklärung.	मुझे एक स्पष्टीकरण चाहिए।
-I want an explanation.	Ich möchte eine Erklärung.	मुझे एक स्पष्टीकरण चाहिए।
-I want more than that.	Ich will mehr.	मैं और अधिक चाहता हूँ।
-I want my family back.	Ich will meine Familie zurück.	मुझे अपना परिवार वापस चाहिए।
-I want my money today.	Heute will ich mein Geld.	आज मुझे अपना पैसा चाहिए।
-I want my money today.	Ich will mein Geld heute.	मुझे आज अपना पैसा चाहिए।
-I want something else.	Ich möchte etwas anderes.	मुझे कुछ और चाहिए।
-I want something more.	Ich will noch etwas haben.	मुझे कुछ और चाहिए।
-I want that to happen.	Ich will, dass das passiert.	मैं चाहता हूं कि ऐसा हो।
 I want to be a lawyer.	Ich will Rechtsanwalt werden.	मैं एक वकील बनना चाहता हूं।
 I want to be a lawyer.	Ich will Rechtsanwältin werden.	मैं एक वकील बनना चाहता हूं।
 I want to be an actor.	Ich will Schauspieler werden.	मैं एक अभिनेता बनना चाहता हूं।
