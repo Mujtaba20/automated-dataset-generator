@@ -1,14 +1,4 @@
 
-He was a brave soldier.	Er war ein tapferer Soldat.	वह एक बहादुर सैनिक था।
-He was a poor musician.	Er war ein armer Musikant.	वह एक गरीब संगीतकार थे।
-He was a poor musician.	Er war ein schlechter Musikant.	वह एक बुरा संगीतकार था।
-He was a real drunkard.	Er war ein richtiger Trunkenbold.	वह एक असली नशे में था।
-He was a real drunkard.	Er war ein richtiger Säufer.	वह एक असली शराबी था।
-He was a wonderful man.	Er war ein wunderbarer Mann.	वह एक अद्भुत आदमी था।
-He was frozen to death.	Er ist erfroren.	वह जमे हुए है।
-He was giving a speech.	Er hielt eine Rede.	उन्होंने एक भाषण दिया।
-He was happily married.	Er war glücklich verheiratet.	वह खुशी से शादीशुदा था।
-He was in good spirits.	Er hatte gute Laune.	वह अच्छे मूड में था।
 He was obviously drunk.	Er war offensichtlich betrunken.	वह स्पष्ट रूप से नशे में था।
 He was petting the dog.	Er streichelte den Hund.	उसने कुत्ते को मार डाला।
 He was saved by a hair.	Er wurde um Haaresbreite gerettet.	यह बालों की चौड़ाई से बचाया गया था।
