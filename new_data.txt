@@ -24515,3 +24515,13 @@ What does she have?	Was hat sie?	उसके पास क्या है?
 What does that say?	Was sagt das?	वह क्या कह रहा है?
 What does this say?	Was sagt das hier?	यह क्या कह रहा है?
 What don't we know?	Was wissen wir nicht?	हमें क्या नहीं पता?
+What don't you get?	Was verstehst du nicht?	तुम्हें क्या समझ नहीं आ रहा है?
+What else can I do?	Was kann ich noch tun?	मैं और क्या कर सकता हूँ?
+What good are they?	Was nützen sie?	वे किस काम के हैं?
+What good are they? (Different meaning)	Was ist mit ihnen los?	उन्हें क्या हुआ है?
+What happened here?	Was ist hier passiert?	यहाँ क्या हुआ?
+What happened here? (Different meaning)	Was ist geschehen?	यहाँ क्या हुआ था?
+What happened next?	Was passierte als Nächstes?	आगे क्या हुआ?
+What happened then?	Was ist dann passiert?	तब क्या हुआ?
+What have I missed?	Was habe ich verpasst?	मुझसे क्या छूट गया है?
+What have you done?	Was hast du getan?	तुमने क्या किया है?

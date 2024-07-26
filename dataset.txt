@@ -1,16 +1,4 @@
 
-What don't you get?	Was verstehst du nicht?	क्या है जो आप समझ नहीं रहे?
-What else can I do?	Was kann ich sonst noch tun?	और क्या किया जा सकता है?
-What good are they?	Zu was sind die gut?	वे क्या अच्छे हैं?
-What good are they?	Was nützen sie?	क्या उपयोग करें?
-What happened here?	Was ist hier geschehen?	यहां क्या हुआ?
-What happened here?	Was ist hier passiert?	यहां क्या हुआ?
-What happened next?	Was ist dann geschehen?	तब क्या हुआ?
-What happened then?	Was ist dann passiert?	फिर क्या हुआ?
-What have I missed?	Was habe ich verpasst?	मुझे क्या याद आया?
-What have you done?	Was hast du gemacht?	आपने क्या किया?
-What have you done?	Was haben Sie gemacht?	क्या कर डाले?
-What have you done?	Was hast du getan?	क्या कर डाले?
 What if he's wrong?	Was, wenn er sich irrt?	क्या होगा अगर वह गलत है?
 What is Tom eating?	Was isst Tom gerade?	टॉम अभी क्या खा रहा है?
 What is Tom to you?	Was ist Tom für dich?	आपके लिए टॉम क्या है?
