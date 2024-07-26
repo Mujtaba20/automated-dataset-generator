@@ -25776,3 +25776,11 @@ He seems to know us.	Er scheint uns zu kennen.	उसे लगता है क
 He set off to Paris.	Er machte sich auf den Weg nach Paris.	वह पेरिस की ओर रवाना हुआ।
 He shined his shoes.	Er polierte seine Schuhe.	उसने अपने जूते चमकाए।
 He should thank you.	Er sollte dir danken.	उसे तुम्हारा धन्यवाद करना चाहिए।
+He showed me around.	Er hat mir die Umgebung gezeigt.	उसने मुझे आस-पास घुमाया।
+He signed the check.	Er hat den Scheck unterschrieben.	वहने चेक का साइन किया।
+He slept in the car.	Er hat im Auto geschlafen.	वहने गाड़ीमैं सोया।
+He started swearing.	Er fing an zu fluchen.	वह गाली देने लगा।
+He stuck to his job.	Er hielt an seiner Arbeit fest.	उसने अपने काम में अटल रहा।
+He told me about it.	Er erzählte mir davon.	उसने मुझे इसके बारे में बताया।
+He took a short cut.	Er nahm eine Abkürzung.	उसने छोटा रास्ता लिया।
+He took off his hat.	Er nahm seinen Hut ab.	उसने अपनी टोपी उतार दी।
