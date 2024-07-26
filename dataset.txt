@@ -1,14 +1,4 @@
 
-Did you work yesterday?	Hast du gestern gearbeitet?	क्या तुमने कल काम किया था?
-Didn't anyone help you?	Hat dir keiner geholfen?	क्या किसी ने आपकी मदद की है?
-Didn't anyone help you?	Hat Ihnen keiner geholfen?	क्या किसी ने आपकी मदद की है?
-Didn't anyone help you?	Hat euch keiner geholfen?	क्या किसी ने आपकी मदद की है?
-Didn't you talk to Tom?	Hast du nicht mit Tom gesprochen?	क्या आपने टॉम से बात नहीं की?
-Didn't you win the bet?	Hast du die Wette nicht gewonnen?	क्या आपने दांव नहीं जीता?
-Dinner is almost ready.	Das Abendessen ist fast fertig.	रात का खाना लगभग समाप्त हो गया है।
-Dinner is ready to eat.	Das Abendessen ist fertig.	रात के भोजन तैयार है।
-Do I look happy to you?	Sehe ich für dich glücklich aus?	क्या मैं आपके लिए खुश हूं?
-Do I need an operation?	Muss ich operiert werden?	क्या मुझे संचालित किया जाना है?
 Do I owe you something?	Schulde ich dir etwas?	क्या मैं आपको कुछ देना चाहता हूं?
 Do I owe you something?	Bin ich dir etwas schuldig?	क्या मैं आपको कुछ देना चाहता हूं?
 Do I owe you something?	Schulde ich Ihnen etwas?	क्या मैं आपको कुछ देना चाहता हूं?
