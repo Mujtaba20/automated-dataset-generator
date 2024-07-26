@@ -1,14 +1,4 @@
 
-We changed everything.	Wir haben alles verändert.	हमने सब कुछ बदल दिया है।
-We changed everything.	Wir haben alles geändert.	हमने सब कुछ बदल दिया है।
-We changed everything.	Wir veränderten alles.	हमने सब कुछ बदल दिया।
-We changed everything.	Wir änderten alles.	हमने सब कुछ बदल दिया।
-We could go there now.	Wir könnten jetzt dorthin gehen.	हम अब वहां जा सकते थे।
-We could go there now.	Wir könnten jetzt dorthin.	हम अब वहां जा सकते थे।
-We could go there now.	Wir könnten jetzt dorthin fahren.	हम अब वहां जा सकते थे।
-We could make a salad.	Wir könnten einen Salat zubereiten.	हम एक सलाद तैयार कर सकते थे।
-We defeated the enemy.	Wir bezwangen den Feind.	हमने दुश्मन पर विजय प्राप्त की।
-We did that yesterday.	Das haben wir gestern gemacht.	हमने कल किया था।
 We didn't do anything.	Wir haben nichts getan.	हमने कुछ नहीं किया।
 We didn't go anywhere.	Wir sind nirgends hingegangen.	हम कहीं नहीं गए।
 We didn't go anywhere.	Wir sind nirgendwohin gegangen.	हम कहीं नहीं गए।

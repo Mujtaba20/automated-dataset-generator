@@ -41013,3 +41013,8 @@ We can't promise that.	Wir können das nicht versprechen.	हम वादा �
 We can't tow this car.	Wir können dieses Auto nicht abschleppen.	हम यह गाड़ी नहीं खींच सकते।
 We captured the thief.	Wir haben den Dieb gefangen genommen.	हमने चोर को पकड़ लिया।
 We caught three foxes.	Wir haben drei Füchse gefangen.	हमने तीन लोमड़ियां पकड़ीं।
+We changed everything.	Wir haben alles gewechselt.	हमने सब को बदल दिया।
+We could go there now.	Wir könnten jetzt dorthin fahren.	हम अब वहाँ जा सकते हैं।
+We could make a salad.	Wir könnten einen Salat machen.	हम एक सलाद बना सकते हैं।
+We defeated the enemy.	Wir haben den Feind besiegt.	हमनें दुश्मन को पराजित किया।
+We did that yesterday.	Das haben wir gestern gemacht.	हमने कल वह किया था।
