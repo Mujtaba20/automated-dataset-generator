@@ -33803,3 +33803,12 @@ They knew each other.	Sie kannten sich.	उन्हें एक-दूसर�
 They know everything.	Sie wissen alles.	उन्हें सब कुछ पता है।
 They know we're here.	Sie wissen, dass wir hier sind.	उन्हें पता है कि हम यहाँ हैं।
 They laughed quietly.	Sie lachten leise.	उन्होंने धीरे-धीरे हँसी।
+They left without me.	Sie gingen ohne mich.	उन्होंने मुझे छोड़ दिया।
+They live downstairs.	Sie leben unten.	वे नीचे रहते हैं।
+They live in a house.	Sie leben in einem Haus.	वे एक घर में रहते हैं।
+They lived in Boston.	Sie lebten in Boston.	उन्होंने बोस्टन में रहा।
+They look very tired.	Sie sehen sehr müde aus.	वे बहुत थके हुए लगते हैं।
+They lost everything.	Sie haben alles verloren.	उन्होंने सब कुछ हार दिया।
+They lost the battle.	Sie haben die Schlacht verloren.	उन्होंने युद्ध हार दिया।
+They love each other.	Sie lieben sich gegenseitig.	वे एक-दूसरे से प्यार करते हैं।
+They made fun of him.	Sie haben sich über ihn lustig gemacht.	उन्होंने उसका मजाक उड़ाया।

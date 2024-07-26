@@ -1,14 +1,4 @@
 
-They left without me.	Sie sind ohne mich gegangen.	तुम मेरे बिना चले गए।
-They live downstairs.	Sie wohnen unter uns.	आप हमारे बीच रहते हैं।
-They live downstairs.	Sie wohnen weiter unten.	आप नीचे रहते हैं।
-They live in a house.	Sie wohnen in einem Haus.	आप एक घर में रहते हैं।
-They lived in Boston.	Sie lebten in Boston.	वे बोस्टन में रहते थे।
-They look very tired.	Sie sehen sehr müde aus.	वे बहुत थके हुए दिखते हैं।
-They lost everything.	Sie haben alles verloren.	आपने सब कुछ खो दिया है।
-They lost the battle.	Sie haben den Kampf verloren.	आपने लड़ाई खो दी है।
-They love each other.	Sie lieben einander.	वे एक दूसरे से प्यार करते है।
-They made fun of him.	Sie machten sich über ihn lustig.	उन्होंने उसका मजाक उड़ाया।
 They made me captain.	Ich wurde zum Kapitän ernannt.	मुझे कैप्टन नियुक्त किया गया था।
 They may not be home.	Sie werden vielleicht nicht zu Hause sein.	आप घर पर नहीं हो सकते।
 They may not be home.	Sie sind vielleicht nicht zu Hause.	आप घर पर नहीं हो सकते।
