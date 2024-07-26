@@ -1,14 +1,4 @@
 
-I can hardly breathe.	Ich kann kaum atmen.	मैं मुश्किल से सांस ले सकता हूं।
-I can hear something.	Ich höre etwas.	मैं कुछ सुनता हूं।
-I can live with that.	Ich kann damit leben.	मेरे द्वारा इसके साथ जीवनयापन किया जा सकता है।
-I can live with this.	Ich kann damit leben.	मेरे द्वारा इसके साथ जीवनयापन किया जा सकता है।
-I can read your mind.	Ich kann deine Gedanken lesen.	मैं आपके विचार पढ़ सकता हूं।
-I can sleep anywhere.	Ich kann überall schlafen.	मैं कहीं भी सो सकता हूं।
-I can swim very fast.	Ich kann sehr schnell schwimmen.	मैं बहुत जल्दी तैर सकता हूं।
-I can take the train.	Ich kann mit dem Zug fahren.	मैं ट्रेन ले सकता हूं।
-I can type very fast.	Ich kann sehr schnell tippen.	मैं बहुत जल्दी टाइप कर सकता हूं।
-I can understand Tom.	Ich kann Tom verstehen.	मैं टॉम को समझ सकता हूं।
 I can understand you.	Ich kann dich verstehen.	मैं आपको समझ सकता हूं।
 I can wait no longer.	Ich kann nicht länger warten.	मैं अब और इंतजार नहीं कर सकता।
 I can wait no longer.	Ich kann nicht mehr warten.	मुझसे और इंतज़ार नहीं होता।

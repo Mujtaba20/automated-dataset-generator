@@ -31451,3 +31451,13 @@ I can do this myself.	Das kann ich selbst tun.	मैं यह स्वयं 
 I can drive Tom home.	Ich kann Tom nach Hause fahren.	मैं टॉम को घर छोड़ सकता हूँ।
 I can explain it all.	Ich kann alles erklären.	मैं सब कुछ समझा सकता हूँ।
 I can give it a shot.	Ich kann es mal ausprobieren.	मैं इसे एक कोशिश दे सकता हूँ।
+I can hardly breathe.	Ich kann kaum atmen.	मैं मुश्किल से सांस ले सकता हूँ।
+I can hear something.	Ich kann etwas hören.	मैं कुछ सुन सकता हूँ।
+I can live with that.	Ich kann damit leben.	मैं उसके साथ रह सकता हूँ।
+I can live with this.	Ich kann damit leben.	मैं इसके साथ रह सकता हूँ।
+I can read your mind.	Ich kann deine Gedanken lesen.	मैं तुम्हारे मन की भाषा पढ़ सकता हूँ।
+I can sleep anywhere.	Ich kann überall schlafen.	मैं कहीं भी सो सकता हूँ।
+I can swim very fast.	Ich kann sehr schnell schwimmen.	मैं बहुत तेज़ी से तैर सकता हूँ।
+I can take the train.	Ich kann den Zug nehmen.	मैं ट्रेन ले सकता हूँ।
+I can type very fast.	Ich kann sehr schnell tippen.	मैं बहुत तेजी से टाइप कर सकता हूँ।
+I can understand Tom.	Ich kann Tom verstehen.	मैं टॉम को समझ सकता हूँ।
