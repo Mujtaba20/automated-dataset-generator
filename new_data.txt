@@ -33900,3 +33900,11 @@ This door won't shut.	Diese Tür wird sich nicht schließen.	यह दरवा
 This feels like silk.	Das fühlt sich an wie Seide.	यह रेशम जैसा लगता है।
 This fish smells bad.	Dieser Fisch riecht schlecht.	यह मछली बुरी भागती है।
 This gift is for you.	Dieses Geschenk gehört euch.	यह उपहार तुम्हारी है।
+This happened before.	Dies ist zuvor passiert.	यह पहले हुआ।
+This has got to stop.	Das muss aufhören.	यह रुकना चाहिए।
+This has my approval.	Das hat meine Zustimmung.	यह मेरी स्वीकृति है।
+This hat cost me $10.	Dieser Hut hat mich 10 Dollar gekostet.	इस टोपी ने मुझे 10 डॉलर का खर्चा करवाया।
+This hat isn't Tom's.	Dieser Hut gehört nicht Tom.	यह टॉम की नहीं है।
+This ink is the best.	Diese Tinte ist die beste.	यह सबसे अच्छा स्याही है।
+This house is famous.	Dieses Haus ist berühmt.	यह घर प्रसिद्ध है।
+This is Tom's canary.	Das ist Toms Kanarienvogel.	यह टॉम की सुगन्धा है।
