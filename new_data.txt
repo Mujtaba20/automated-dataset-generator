@@ -34383,3 +34383,11 @@ Tom is a veteran cop.	Tom ist ein erfahrener Polizist.	टॉम एक वि�
 Tom is a veteran now.	Tom ist jetzt ein Veteran.	टॉम अब एक प्रौद्योगिक है।
 Tom is a voice actor.	Tom ist ein Synchronsprecher.	टॉम एक आवाज अभिनेता है।
 Tom is a wealthy man.	Tom ist ein wohlhabender Mann.	टॉम एक धनवान आदमी है।
+Tom is a woman hater.	Tom ist ein Frauenhasser.	टॉम महिलाओं से नफरत करता है।
+Tom is a young adult.	Tom ist ein junger Erwachsener.	टॉम एक युवा वयस्क है।
+Tom is about my size.	Tom ist ungefähr meine Größe.	टॉम मेरे आकार का है।
+Tom is afraid of you.	Tom hat Angst vor dir.	टॉम तुमसे डरता है।
+Tom is almost thirty.	Tom ist fast dreißig.	टॉम लगभग तीस का है।
+Tom is already awake.	Tom ist bereits wach.	टॉम पहले से ही जागा हुआ है।
+Tom is already there.	Tom ist bereits dort.	टॉम पहले से ही वहां है।
+Tom is always absent.	Tom ist immer abwesend.	टॉम हमेशा गैरहाजिर रहता है।

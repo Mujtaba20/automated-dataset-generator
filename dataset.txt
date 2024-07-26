@@ -1,14 +1,4 @@
 
-Tom is a woman hater.	Tom ist ein Frauenhasser.	टॉम महिलाओं से घृणा है।
-Tom is a young adult.	Tom ist ein junger Erwachsener.	टॉम एक युवा वयस्क है।
-Tom is about my size.	Tom ist etwa so groß wie ich.	टॉम मेरे आकार के बारे में है।
-Tom is afraid of you.	Tom hat vor Ihnen Angst.	टॉम उनसे डरता है।
-Tom is afraid of you.	Tom hat vor dir Angst.	टॉम आपसे डरता है।
-Tom is almost thirty.	Tom geht auf die Dreißig zu.	टॉम तीस के पास पहुंचता है।
-Tom is already awake.	Tom ist schon wach.	टॉम पहले से ही जाग रहा है।
-Tom is already there.	Tom ist schon da.	टॉम पहले से ही है।
-Tom is already there.	Tom ist bereits dort.	टॉम पहले से ही है।
-Tom is always absent.	Tom ist immer abwesend.	टॉम हमेशा अनुपस्थित रहता है।
 Tom is always crying.	Tom weint immer.	टॉम हमेशा रोता है।
 Tom is always honest.	Tom ist immer ehrlich.	टॉम हमेशा ईमानदार होता है।
 Tom is always hungry.	Tom hat immer Hunger.	टॉम हमेशा भूखा रहता है।
