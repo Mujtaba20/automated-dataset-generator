@@ -38617,3 +38617,13 @@ It's already too late.	Es ist schon zu spät.	यह पहले से ही 
 It's always like that.	Es ist immer so.	हमेशा ऐसा ही होता है।
 It's amazingly simple.	Es ist erstaunlich einfach.	यह अद्भुत रूप से सरल है।
 It's bad for business.	Es ist schlecht für das Geschäft.	व्यापार के लिए यह बुरा है।
+It's been a hard year.	Es war ein schweres Jahr.	यह एक कठिन साल रहा है।
+It's been a long time.	Es ist eine lange Zeit vergangen.	बहुत देर हो गई है।
+It's been a long week.	Es war eine lange Woche.	यह एक लंबा सप्ताह था।
+It's common knowledge.	Es ist Allgemeinwissen.	यह आम ज्ञान है।
+It's driving me crazy.	Es macht mich verrückt.	मुझे पागल बना रहा है।
+It's easy to hear you.	Es ist leicht, dich zu hören.	तुम्हें सुनना आसान है।
+It's expensive though.	Es ist jedoch teuer.	परंतु यह महंगा है।
+It's from your family.	Es ist von deiner Familie.	यह तुम्हारे परिवार से है।
+It's going to be fine.	Es wird in Ordnung sein.	सब ठीक होने वाला है।
+It's going to be good.	Es wird gut sein.	यह अच्छा होगा।
