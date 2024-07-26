@@ -1,18 +1,4 @@
 
-Your family needs you.	Deine Familie braucht dich.	आपके परिवार को आपकी जरूरत है।
-Your family needs you.	Ihre Familie braucht Sie.	उसके परिवार को उनकी जरूरत है।
-Your family needs you.	Eure Familie braucht euch.	आपके परिवार को आपकी जरूरत है।
-Your father loves you.	Dein Vater liebt dich.	आपके पिता आपसे प्यार करते हैं।
-Your father loves you.	Dein Vater hat dich lieb.	आपके पिता आपसे प्यार करते हैं।
-Your father wants you.	Dein Vater will dich.	आपके पिता आपको चाहते हैं।
-Your friend left town.	Dein Freund verließ die Stadt.	आपके दोस्त ने शहर छोड़ दिया।
-Your friends are late.	Deine Freunde sind spät dran.	आपके दोस्त देर से हैं।
-Your hair is too long.	Ihre Haare sind zu lang.	आपके बाल बहुत लंबे हैं।
-Your hair is too long.	Deine Haare sind zu lang.	आपके बाल बहुत लंबे हैं।
-Your hair is too long.	Dein Haar ist zu lang.	आपके बाल बहुत लंबे हैं।
-Your hair is too long.	Ihr habt zu lange Haare.	आपके बहुत लंबे बाल हैं।
-Your hair is too long.	Sie haben zu lange Haare.	आपके बहुत लंबे बाल हैं।
-Your hair is too long.	Du hast zu lange Haare.	आपके बाल बहुत लंबे हैं।
 Your hair looks great.	Deine Haare sehen großartig aus.	आपके बाल बहुत अच्छे लगते हैं।
 Your hair's beautiful.	Du hast schöne Haare.	आपके बाल सुंदर हैं।
 Your haircut was fine.	Dein Haarschnitt war gut.	आपका बाल कटवाने अच्छा था।
