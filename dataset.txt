@@ -1,14 +1,4 @@
 
-What's your problem?	Was haben Sie für ein Problem?	आपकी समस्या क्या है?
-What's your problem?	Gibt's ein Problem?	कोई प्रॉब्लम है क्या?
-What's your problem?	Was ist dein Problem?	आपकी समस्या क्या है?
-What's your problem?	Wo liegt das Problem bei dir?	आपके साथ समस्या कहां है?
-When are you coming?	Wann kommen Sie?	आप कब आओगें?
-When can I call you?	Wann kann ich dich anrufen?	मैं तुम्हे कब कॉल कर सकता हूँ?
-When can we move in?	Wann können wir einziehen?	हम कब आगे बढ़ सकते हैं?
-When did they leave?	Wann sind sie gegangen?	आप कब गए?
-When did they leave?	Wann sind die gegangen?	वे कब गए?
-When did this occur?	Wann ist das geschehen?	वह कब हुआ?
 When did you arrive?	Wann bist du angekommen?	जब तुम आए?
 When did you buy it?	Wann hast du es gekauft?	आपने इसे कब खरीदा था?
 When did you buy it?	Wann habt ihr es gekauft?	आपने इसे कब खरीदा था?

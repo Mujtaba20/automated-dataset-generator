@@ -29867,3 +29867,9 @@ What's your address?	Was ist deine Adresse?	तुम्हारा पता �
 What's your day off?	Wann hast du frei?	तुम्हारा आज को छुट्टी है?
 What's your message?	Was ist deine Nachricht?	तुम्हारा संदेश क्या है?
 What's your opinion?	Was ist deine Meinung?	तुम्हारा क्या विचार है?
+What's your problem?	Was ist dein Problem?	तुम्हारी समस्या क्या है?
+When are you coming?	Wann kommst du?	तुम कब आ रहे हो?
+When can I call you?	Wann kann ich dich anrufen?	मैं तुम्हें कब कॉल कर सकता हूँ?
+When can we move in?	Wann können wir einziehen?	हम कब घर बदल सकते हैं?
+When did they leave?	Wann sind sie gegangen?	उन्होंने कब छोड़ दिया?
+When did this occur?	Wann ist das passiert?	यह कब हुआ?
