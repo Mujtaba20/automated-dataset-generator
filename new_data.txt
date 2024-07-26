@@ -31531,3 +31531,12 @@ I count on your assistance.	Ich zähle auf deine Unterstützung.	मैं त�
 I crossed the bridge.	Ich überquerte die Brücke.	मैंने पुल को पार कर लिया।
 I crossed the street.	Ich überquerte die Straße.	मैंने सड़क को पार कर लिया।
 I crossed the road.	Ich überquerte die Straße.	मैंने सड़क को पार कर लिया।
+I cut myself shaving.	Ich habe mich beim Rasieren geschnitten.	मैंने अपने बाल साफ करने के दौरान खुद को काट दिया।
+I did it a few times.	Ich habe es ein paar Mal gemacht.	मैंने यह कुछ बार किया।
+I did it without you.	Ich habe es ohne dich gemacht.	मैंने तुम्हारे बिना यह किया।
+I did thirty pushups.	Ich habe dreißig Liegestütze gemacht.	मैंने तीस लंगड़ों की मर्यादा की।
+I did what was right.	Ich habe das Richtige getan.	मैंने जो सही था वह किया।
+I didn't believe Tom.	Ich glaubte Tom nicht.	मैंने टॉम पर भरोसा नहीं किया।
+I didn't do anything.	Ich habe nichts gemacht.	मैंने कुछ नहीं किया।
+I didn't follow that.	Dem bin ich nicht gefolgt.	मैंने उस पर ध्यान नहीं दिया।
+I didn't get a reply.	Ich habe keine Antwort bekommen.	मुझे कोई जवाब नहीं मिला।
