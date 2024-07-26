@@ -1,14 +1,4 @@
 
-I want to help you.	Ich will dir helfen.	मेरी आपकी मदद करने की इच्छा है।
-I want to help you.	Ich will Ihnen helfen.	मेरी आपकी मदद करने की इच्छा है।
-I want to join you.	Ich möchte mich dir anschließen.	मैं आपके साथ आना चाहता हूँ।
-I want to kill Tom.	Ich möchte Tom umbringen.	मैं टॉम को मारना चाहता हूं।
-I want to kiss you.	Ich möchte dich küssen.	मैं तुम्हें चुमना चाहता हूं।
-I want to know how.	Ich möchte wissen, wie.	मैं जानना चाहता हूं कि कैसे।
-I want to know why.	Ich möchte wissen, warum.	मैं जानना चाहता हूं क्यो।
-I want to know why.	Ich will wissen, warum.	मैं जानना चाहता हूं क्यो।
-I want to meet Tom.	Ich möchte Tom treffen.	मैं टॉम से मिलना चाहता हूं।
-I want to see more.	Ich möchte mehr sehen.	मुझे और ज्यादा देखने की इच्छा है।
 I want to see that.	Ich möchte das sehen.	मुझे यह देखना है।
 I want to see this.	Ich möchte das sehen.	मुझे यह देखना है।
 I want to stop Tom.	Ich möchte Tom stoppen.	मैं टॉम को रोकना चाहता हूं।

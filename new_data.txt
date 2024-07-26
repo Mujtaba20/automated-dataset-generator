@@ -21694,3 +21694,11 @@ I want to be loved.	Ich möchte geliebt werden.	मुझे प्यार च
 I want to be there.	Ich möchte dort sein.	मुझे वहाँ जाना है।
 I want to eat this.	Ich möchte das essen.	मुझे यह खाना है।
 I want to find Tom.	Ich möchte Tom finden.	मैं टॉम को ढूंढना चाहता हूँ।
+I want to help you.	Ich möchte dir helfen.	मैं तुम्हें मदद करना चाहता हूँ।
+I want to join you.	Ich möchte mich dir anschließen.	मैं तुम्हारे साथ शामिल होना चाहता हूँ।
+I want to kill Tom.	Ich möchte Tom töten.	मैं टॉम को मारना चाहता हूँ।
+I want to kiss you.	Ich möchte dich küssen.	मैं तुम्हें चूमना चाहता हूँ।
+I want to know how.	Ich möchte wissen, wie.	मैं जानना चाहता हूँ कि कैसे।
+I want to know why.	Ich möchte wissen, warum.	मैं जानना चाहता हूँ कि क्यों।
+I want to meet Tom.	Ich möchte Tom treffen.	मैं टॉम से मिलना चाहता हूँ।
+I want to see more.	Ich möchte mehr sehen.	मैं और देखना चाहता हूँ।
