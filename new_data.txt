@@ -26917,3 +26917,12 @@ I'll call back soon.	Ich rufe bald zurück.	मैं जल्दी ही व
 I'll call him later.	Ich werde ihn später anrufen.	मैं उसे बाद में कॉल करूँगा।
 I'll call you a cab.	Ich rufe dir ein Taxi.	मैं तुम्हारे लिए एक कैब बुलाऊंगा।
 I'll check the list.	Ich werde die Liste überprüfen.	मैं सूची की जाँच करूँगा।
+I'll close the door.		
+I'll come back soon.		
+I'll deal with this.		
+I'll do it tomorrow.		
+I'll do it with you.		
+I'll do that myself.		
+I'll do the talking.		
+I'll do this myself.		
+I'll do what I want.		

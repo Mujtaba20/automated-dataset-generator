@@ -1,14 +1,4 @@
 
-I'll close the door.	Ich werde die Türe schließen.	मैं दरवाजा बंद कर दूंगा।
-I'll come back soon.	Ich komme bald wieder.	मैं जल्द ही वापस आऊँगा।
-I'll deal with this.	Ich erledige das.	मैं यह करता हुं।
-I'll do it tomorrow.	Ich mach’s morgen.	मैं इसे कल करूंगा।
-I'll do it tomorrow.	Ich kümmere mich morgen drum.	मैं कल इसका ध्यान रखूंगा।
-I'll do it with you.	Ich werde es mit dir machen.	मैं इसे तुम्हारे साथ करूँगा।
-I'll do that myself.	Ich werde das selber machen.	मैं खुद ऐसा करूंगा।
-I'll do the talking.	Ich übernehme das Reden.	मैं बात करता हूं।
-I'll do this myself.	Ich werde das selber machen.	मैं खुद ऐसा करूंगा।
-I'll do what I want.	Ich werde machen, was ich will.	मैं वही करूंगा जो मुझे चाहिए।
 I'll drive you home.	Ich werde dich mit dem Auto nach Hause bringen.	मैं तुम्हें कार से घर ले जाऊंगा।
 I'll drive you home.	Ich werde dich nach Hause fahren.	मैं तुम्हें घर चलाऊंगा।
 I'll drive you home.	Ich werde dich nachhause fahren.	मैं तुम्हें घर चलाऊंगा।
