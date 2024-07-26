@@ -38602,3 +38602,11 @@ It's a riveting story.	Es ist eine fesselnde Geschichte.	यह एक रोच
 It's a slippery slope.	Es ist ein glatter Hang.	यह एक चिकनी सी ढाल है।
 It's a social problem.	Es ist ein gesellschaftliches Problem.	यह एक सामाजिक समस्या है।
 It's a tough question.	Es ist eine schwierige Frage.	यह एक कठिन सवाल है।
+It's a trap, isn't it?	Es ist eine Falle, oder?	यह एक फंदा है, ना?
+It's a very clear day.	Es ist ein sehr klarer Tag.	यह एक बहुत साफ दिन है।
+It's a very good plan.	Es ist ein sehr guter Plan.	यह एक बहुत अच्छा योजना है।
+It's a very sad story.	Es ist eine sehr traurige Geschichte.	यह एक बहुत दुखद कहानी है।
+It's a waste of money.	Das ist Geldverschwendung.	यह पैसे की बर्बादी है।
+It's a welcome change.	Es ist eine willkommene Veränderung.	यह स्वागत सुधार है।
+It's about to explode!	Es steht kurz vor der Explosion!	यह फटने वाला है!
+It's all quite simple.	Es ist alles ziemlich einfach.	यह सब काफी सरल है।
