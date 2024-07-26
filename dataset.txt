@@ -1,14 +1,4 @@
 
-Someone made a mistake.	Jemand hat einen Fehler gemacht.	किसी ने गलती की।
-Someone might get hurt.	Jemand könnte vielleicht verletzt werden.	किसी को चोट लग सकती है।
-Someone stole my money.	Es hat einer mein Geld geklaut.	एक ने मेरा पैसा चुरा लिया।
-Someone stole my stuff.	Jemand hat mir meine Sachen geklaut.	किसी ने मेरे लिए मेरी चीजें चुरा ली।
-Someone stole my watch.	Mir hat jemand die Uhr gestohlen.	किसी ने मेरी घड़ी चुरा ली।
-Someone's spying on me.	Jemand bespitzelt mich.	कोई मुझे जगाता है।
-Something has happened.	Es ist etwas passiert.	कुछ हुआ।
-Something must be done!	Es muss etwas getan werden!	कुछ तो किया जाना चाहिए!
-Something's wrong here.	Irgendwas stimmt hier nicht!	यहां कुछ गड़बड़ है!
-Something's wrong here.	Hier stimmt etwas nicht.	यहां कुछ गड़बड़ है.
 Sometimes that happens.	Das kommt manchmal vor.	यह कभी -कभी होता है।
 Sometimes that happens.	Das passiert manchmal.	ऐसा कभी -कभी होता है।
 Sometimes that happens.	Das ereignet sich gelegentlich.	यह कभी -कभी होता है।
