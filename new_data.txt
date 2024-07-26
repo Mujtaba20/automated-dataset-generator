@@ -29725,3 +29725,12 @@ We're playing cards.	Wir spielen Karten.	हम कार्ड खेल रह
 We're short on time.	Wir haben wenig Zeit.	हमारे पास कम समय है।
 We're still friends.	Wir sind immer noch Freunde.	हम अभी भी दोस्त हैं।
 We're still looking.	Wir suchen immer noch.	हम अभी भी खोज रहे हैं।
+We're still talking.	Wir reden immer noch.	हम अभी भी बात कर रहे हैं।
+We're still working.	Wir arbeiten immer noch.	हम अभी भी काम कर रहे हैं।
+We're the same size.	Wir sind die gleiche Größe.	हम एक जैसे आकार के हैं।
+We're unimaginative.	Wir sind einfallslos.	हम कामचोर हैं।
+We're very flexible.	Wir sind sehr flexibel.	हम बहुत ही लचीले हैं।
+We're very grateful.	Wir sind sehr dankbar.	हम बहुत ही कृतज्ञ हैं।
+We're working on it.	Wir arbeiten daran.	हम इस पर काम कर रहे हैं।
+We've adopted a boy.	Wir haben einen Jungen adoptiert.	हमने एक लड़के को गोद लिया है।
+We've all done that.	Wir haben das alle gemacht.	हम सभी ने वह किया है।
