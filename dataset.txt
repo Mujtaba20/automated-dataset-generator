@@ -1,14 +1,4 @@
 
-You may borrow my car.	Du darfst dir meinen Wagen leihen.	आप मेरी कार उधार ले सकते हैं।
-You may borrow my car.	Sie dürfen sich meinen Wagen leihen.	आप मेरी कार उधार ले सकते हैं।
-You may borrow my car.	Ihr dürft euch meinen Wagen leihen.	आप मेरी कार उधार ले सकते हैं।
-You may keep the book.	Du darfst das Buch behalten.	आप पुस्तक रख सकते हैं।
-You may see Tom there.	Sie könnten Tom dort sehen.	आप टॉम को वहां देख सकते थे।
-You may take the book.	Du kannst das Buch haben.	आपके पास पुस्तक हो सकती है।
-You may take the book.	Sie können das Buch haben.	आपके पास पुस्तक हो सकती है।
-You might not find it.	Vielleicht können Sie es nicht finden.	शायद आप इसे नहीं पा सकते हैं।
-You must come with me.	Du musst mit mir kommen.	आपको मेरे साथ आना है।
-You must do your best.	Du musst dein Bestes geben.	आपको अपना सर्वश्रेष्ठ प्रदर्शन करना होगा।
 You must do your duty.	Du musst deine Pflicht erfüllen.	आपको अपना कर्तव्य पूरा करना होगा।
 You must go to school.	Du musst zur Schule gehen.	आपको स्कूल जाना है।
 You must go to school.	Ihr müsst zur Schule gehen.	आपको स्कूल जाना है।
