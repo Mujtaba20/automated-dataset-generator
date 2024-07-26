@@ -1,14 +1,4 @@
 
-You don't need to go.	Du brauchst nicht zu gehen.	आपको जाने की जरूरत नहीं है।
-You don't need to go.	Ihr braucht nicht zu gehen.	आपको जाने की जरूरत नहीं है।
-You don't need to go.	Sie brauchen nicht zu gehen.	आपको जाने की जरूरत नहीं है।
-You don't talk a lot.	Du redest aber nicht viel.	लेकिन आप ज्यादा बात नहीं करते।
-You don't understand.	Sie verstehen nicht.	आपको समझ में नहीं आता है।
-You don't understand.	Du verstehst nicht.	आपको समझ में नहीं आता है।
-You don't waste time.	Du verschwendest keine Zeit.	आप समय बर्बाद नहीं करते हैं।
-You don't waste time.	Sie verschwenden keine Zeit.	वे समय बर्बाद नहीं करते हैं।
-You don't waste time.	Ihr verschwendet keine Zeit.	आप समय बर्बाद नहीं करते हैं।
-You got away with it.	Ihr seid damit davongekommen.	आप इसके साथ दूर हो गए।
 You guys are amazing.	Ihr seid unglaublich.	आप अनोखे हो।
 You guys are awesome!	Ihr seid super!	आप कमाल हैं!
 You have a good plan.	Du hast einen guten Plan.	आपके पास एक अच्छी योजना है।

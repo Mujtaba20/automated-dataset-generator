@@ -35791,3 +35791,8 @@ You don't have to go.	Du brauchst nicht zu gehen.	तुम्हें जा�
 You don't impress me.	Du machst keinen Eindruck auf mich.	तुम मुझपर कोई असर नहीं डालते।
 You don't like music.	Du magst keine Musik.	तुम्हे संगीत पसंद नहीं है।
 You don't look happy.	Du siehst nicht glücklich aus.	तुम खुश नहीं दिखते।
+You don't need to go.	Du brauchst nicht zu gehen.	तुम्हें जाने की आवश्यकता नहीं है।
+You don't talk a lot.	Du redest nicht viel.	तुम बहुत बात नहीं करते हैं।
+You don't understand.	Du verstehst nicht.	तुम्हे समझ में नहीं आता।
+You don't waste time.	Du verlierst keine Zeit.	तुम समय नहीं गया करते।
+You got away with it.	Du bist damit davongekommen.	तुमने इसके साथ बच गए।
