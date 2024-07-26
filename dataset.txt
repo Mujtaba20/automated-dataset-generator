@@ -1,14 +1,4 @@
 
-Why is that a problem?	Warum ist das ein Problem?	वह एक समस्या क्यों है?
-Why is that important?	Warum ist das wichtig?	वह महत्वपूर्ण क्यों है?
-Why is the train late?	Warum ist der Zug verspätet?	ट्रेन देर से क्यों है?
-Why is the train late?	Warum ist die Bahn verspätet?	ट्रेन देर से क्यों है?
-Why is this important?	Warum ist das wichtig?	वह महत्वपूर्ण क्यों है?
-Why isn't Tom at home?	Warum ist Tom nicht zu Hause?	टॉम घर पर क्यों नहीं है?
-Why isn't Tom helping?	Warum hilft Tom nicht?	टॉम मदद क्यों नहीं करता है?
-Why must you tease me?	Wieso musst du mich aufziehen?	आपको मुझे क्यों खोलना है?
-Why wait until Monday?	Warum bis Montag warten?	सोमवार तक इंतजार क्यों?
-Why was Tom in Boston?	Warum war Tom in Boston?	बोस्टन में टॉम क्यों था?
 Why was Tom suspended?	Warum wurde Tom suspendiert?	टॉम को निलंबित क्यों किया गया था?
 Why wasn't I informed?	Warum bin ich nicht unterrichtet worden?	मुझे क्यों नहीं सिखाया गया?
 Why won't Tom help us?	Warum wird Tom uns nicht helfen?	टॉम हमारी मदद क्यों नहीं करेगा?
