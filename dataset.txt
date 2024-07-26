@@ -1,14 +1,4 @@
 
-Please write it down.	Bitte schreiben Sie es auf.	कृपया इसे लिखिए।
-Please write it down.	Schreiben Sie das bitte mit.	कृपया लिखें।
-Promise me one thing.	Versprich mir Eines!	मुझसे वादा करो!
-Put down your pencil.	Legt euren Bleistift hin.	अपनी पेंसिल रखें।
-Put down your pencil.	Leg deinen Bleistift hin.	अपनी पेंसिल रखो।
-Put it in the drawer.	Lege es in das Schubfach.	इसे दराज में रखो।
-Put it in the drawer.	Tu’s in die Schublade!	दराज करो!
-Put your wig back on.	Setz deine Perücke wieder auf.	फिर से अपने विग पर रखो।
-Rabbits like carrots.	Kaninchen mögen Karotten.	गाजर की तरह खरगोश।
-Rabbits like carrots.	Kaninchen mögen Möhren.	गाजर की तरह खरगोश।
 Rabbits love carrots.	Kaninchen lieben Karotten.	खरगोश गाजर से प्यार करते हैं।
 Rabbits love carrots.	Kaninchen lieben Möhren.	खरगोश गाजर से प्यार करते हैं।
 Raise your left hand.	Heben Sie die linke Hand!	अपना बाएं हाथ उठाओ!

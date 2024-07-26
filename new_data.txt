@@ -33285,3 +33285,11 @@ Please telephone him.	Bitte wählen Sie ihn an.	कृपया उसे कॉ
 Please think it over.	Bitte überprüfen Sie es noch einmal.	कृपया इसे फिर से सोचें।
 Please turn the page.	Bitte drehen Sie die Seite um.	कृपया पेज पलटें।
 Please wait a moment.	Bitte warten Sie einen Moment.	कृपया एक पल प्रतीक्षा करें।
+Please write it down.	Bitte schreiben Sie es auf.	कृपया इसे लिखें।
+Promise me one thing.	Versprechen Sie mir eine Sache.	मुझसे एक बात का वादा करो।
+Put down your pencil.	Legen Sie Ihren Bleistift hin.	अपनी पेंसिल रख दो।
+Put it in the drawer.	Leg es in die Schublade.	इसे द्रावर में रखो।
+Put your wig back on.	Setzen Sie Ihre Perücke wieder auf.	अपनी विग पुन: पहनें।
+Rabbits like carrots.	Hasen mögen Karotten.	खरगोश गाजर पसंद करते हैं।
+Put it in the drawer. - different meaning	Leg es in die Schublade.	उसे ड्रॉयर में रखें।
+Rabbits like carrots. - different meaning	Kaninchen lieben Möhren.	खरगोश गाजरों को पसंद करते हैं।
