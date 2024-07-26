@@ -1,14 +1,4 @@
 
-The knife is dirty.	Das Messer ist schmutzig.	चाकू गंदा है।
-The law is the law.	Gesetz ist Gesetz.	कानून कानून है।
-The light is green.	Die Ampel ist grün.	ट्रैफिकलाइट हरा है।
-The light went out.	Das Licht ging aus.	प्रकाश बाहर चला गया।
-The lights are out.	Das Licht ist aus.	प्रकाश खत्म हो गया है।
-The lock is broken.	Das Schloss ist kaputt.	ताला टूटा हुआ है.
-The meat is frozen.	Das Fleisch ist gefroren.	मांस जमे हुए है।
-The men are coming.	Die Männer kommen.	पुरुष आते हैं।
-The men go to work.	Die Männer gehen zur Arbeit.	पुरुष काम पर जाते हैं।
-The moon is bright.	Der Mond ist hell.	चंद्रमा उज्ज्वल है।
 The mouse squealed.	Die Maus piepste.	माउस बीप किया।
 The movie was good.	Der Film war gut!	मूवी अच्छी थी!
 The night was cool.	Die Nacht war kühl.	रात ठंडी थी।

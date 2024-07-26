@@ -23005,3 +23005,13 @@ The ice has melted.	Das Eis ist geschmolzen.	बर्फ पिघल गई �
 The ice is melting.	Das Eis schmilzt.	बर्फ गल रही है।
 The idea isn't bad.	Die Idee ist nicht schlecht.	विचार बुरा नहीं है।
 The idea isn't new.	Die Idee ist nicht neu.	विचार नया नहीं है।
+The knife is dirty.	Das Messer ist schmutzig.	चाकू गंदा है।
+The law is the law.	Das Gesetz ist das Gesetz.	कानून कानून है।
+The light is green.	Das Licht ist grün.	रोशनी हरा है।
+The light went out.	Das Licht ging aus.	रोशनी बंद हो गई।
+The lights are out.	Die Lichter sind aus.	लाइटें बंद हैं।
+The lock is broken.	Das Schloss ist gebrochen.	ताला टूट गया है।
+The meat is frozen.	Das Fleisch ist gefroren.	मांस जमा हुआ है।
+The men are coming.	Die Männer kommen.	लोग आ रहे हैं।
+The men go to work.	Die Männer gehen zur Arbeit.	लोग काम पर जाते हैं।
+The moon is bright.	Der Mond ist hell.	चाँद उज्ज्वल है।
