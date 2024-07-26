@@ -23950,3 +23950,12 @@ Tom runs a charity.	Tom leitet eine Wohltätigkeitsorganisation.	टॉम ए�
 Tom runs very fast.	Tom rennt sehr schnell.	टॉम बहुत तेज़ी से दौड़ रहा है।
 Tom rushed past me.	Tom ist an mir vorbeigeeilt.	टॉम ने मेरे पास जल्दी से गुज़र दिया।
 Tom said I was fat.	Tom sagte, ich sei dick.	टॉमने कहा कि मैं मोटा हूँ।
+Tom said goodnight.	Tom sagte gute Nacht.	टॉम ने शुभ रात्रि कहा।
+Tom said he'd come.	Tom sagte, er würde kommen.	टॉम ने कहा कि वह आएगा।
+Tom said he'd wait.	Tom sagte, er würde warten.	टॉम ने कहा कि वह इंतजार करेगा।
+Tom said he's fine.	Tom sagte, es gehe ihm gut.	टॉम ने कहा कि वह ठीक है।
+Tom said something.	Tom sagte etwas.	टॉम ने कुछ कहा।
+Tom said that, too.	Tom sagte das auch.	टॉम ने वह भी कहा।
+Tom salted his egg.	Tom salzte sein Ei.	टॉम ने अपने अंडे पर नमक लगाया।
+Tom sang at church.	Tom sang in der Kirche.	टॉम ने स्थानीय चर्च में गाया।
+Tom sang with Mary.	Tom sang mit Mary.	टॉम ने मेरी के साथ गाया।
