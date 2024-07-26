@@ -36104,3 +36104,10 @@ Are you homesick, too?	Bist du auch heimwehkrank?	क्या आप भी घ
 Are you in Boston now?	Bist du jetzt in Boston?	क्या आप अभी बॉस्टन में हैं?
 Are you in a bad mood?	Bist du schlecht gelaunt?	क्या आप बुरे मौसम में हैं?
 Are you in a bad mood? (Different meaning)	Bist du unleidlich?	क्या आप क्रोधित हैं?
+Are you looking at me?	Schauen Sie mich an?	क्या आप मुझे देख रहे हैं?
+Are you playing chess?	Spielst du Schach?	क्या आप शतरंज खेल रहे हैं?
+Are you scared of Tom?	Hast du Angst vor Tom?	क्या आप टॉम से डरते हैं?
+Are you seeing anyone?	Siehst du jemanden?	क्या आप किसी को देख रहे हैं?
+Are you sleeping, Tom?	Schläfst du, Tom?	क्या तुम सो रहे हो, टॉम?
+Are you still at home?	Bist du noch zu Hause?	क्या आप अब भी घर पर हैं?
+Are you still jealous?	Bist du immer noch eifersüchtig?	क्या आप अब भी जलन रहे हैं?

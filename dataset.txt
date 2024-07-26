@@ -1,14 +1,4 @@
 
-Are you looking at me?	Siehst du mich an?	क्या तुम मुझे देखते हो
-Are you playing chess?	Spielst du Schach?	क्या तुम शतरंज खेलते हो?
-Are you scared of Tom?	Bist du von Tom erschreckt worden?	क्या आप टॉम से भयभीत थे?
-Are you seeing anyone?	Bist du mit jemandem zusammen?	आप किसी के साथ हैं
-Are you sleeping, Tom?	Bist du eingeschlafen, Tom?	क्या आप सो गए, टॉम?
-Are you sleeping, Tom?	Schläfst du, Tom?	क्या आप सोते हैं, टॉम?
-Are you still at home?	Bist du noch zu Hause?	क्या आप अभी भी घर हैं?
-Are you still jealous?	Bist du noch eifersüchtig?	क्या आप अभी भी ईर्ष्या कर रहे हैं?
-Are you still jealous?	Sind Sie noch eifersüchtig?	क्या आप अभी भी ईर्ष्या कर रहे हैं?
-Are you still jealous?	Seid ihr noch eifersüchtig?	क्या आप अभी भी ईर्ष्या कर रहे हैं?
 Are you still married?	Bist du noch verheiratet?	क्या आप अभी भी शादीशुदा हो?
 Are you still thirsty?	Hast du noch Durst?	क्या आप अभी भी प्यास हैं?
 Are you still thirsty?	Habt ihr noch Durst?	क्या आपको अभी भी प्यास है?
