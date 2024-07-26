@@ -26578,3 +26578,12 @@ I never trusted Tom.	Ich habe Tom nie vertraut.	मैंने कभी भी
 I never wanted this.	Ich wollte das nie.	मैंने इसे कभी नहीं चाहा।
 I no longer need it.	Ich brauche das nicht mehr.	मुझे अब यह आवश्यक नहीं है।
 I noticed that, too.	Das habe ich auch bemerkt.	मैंने भी यह देखा।
+I obey instructions	Ich befolge Anweisungen.	मैं हुक्मों का पालन करता हूँ।
+I offered it to Tom	Ich habe es Tom angeboten.	मैंने इसे टॉम को दिया।
+I often catch colds	Ich bekomme oft Erkältungen.	मुझे अक्सर ठंडी लगती है।
+I often eat chicken	Ich esse oft Hühnchen.	मैं अक्सर मुर्गा खाता हूँ।
+I often read in bed	Ich lese oft im Bett.	मैं बिस्तर पर अक्सर पढ़ता हूँ।
+I only just met Tom	Ich habe Tom erst kennengelernt.	मैंने सिर्फ अभी टॉम से मिला है।
+I only met him once	Ich habe ihn nur einmal getroffen.	मैंने उससे सिर्फ एक बार मिला।
+I only need one cat	Ich brauche nur eine Katze.	मुझे सिर्फ एक बिल्ली की ज़रूरत है।
+I only saw Tom once	Ich habe Tom nur einmal gesehen.	मैंने सिर्फ एक बार टॉम को देखा था।

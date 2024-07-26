@@ -1,14 +1,4 @@
 
-I obey instructions.	Ich befolge die Anweisungen.	मैं निर्देशों का पालन करता हूं।
-I offered it to Tom.	Ich habe es Tom angeboten.	मैंने टॉम की पेशकश की।
-I often catch colds.	Ich bin öfters erkältet.	मुझे अक्सर ठंड होती है।
-I often eat chicken.	Ich esse oft Huhn.	मैं अक्सर चिकन खाता हूं।
-I often read in bed.	Ich lese oft im Bett.	मैं अक्सर बिस्तर में पढ़ता हूं।
-I only just met Tom.	Ich habe Tom gerade erst getroffen.	मैं सिर्फ टॉम से मिला।
-I only just met Tom.	Ich habe Tom gerade erst kennengelernt.	मुझे सिर्फ टॉम का पता चला।
-I only met him once.	Ich habe ihn lediglich einmal getroffen.	मैंने केवल एक बार उसे मारा।
-I only need one cat.	Ich brauche nur eine Katze.	मुझे केवल एक बिल्ली की जरूरत है।
-I only saw Tom once.	Ich habe Tom nur einmal gesehen.	मैंने केवल टॉम को एक बार देखा था।
 I only saw him once.	Ich habe ihn nur einmal gesehen.	मैंने केवल उसे एक बार देखा।
 I only speak French.	Ich spreche nur Französisch.	मैं केवल फ्रेंच बोलता हूं।
 I only wish to help.	Ich will nur helfen.	मैं सिर्फ मदद करना चाहता हूं।
