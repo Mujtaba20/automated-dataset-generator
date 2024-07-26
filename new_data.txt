@@ -25082,3 +25082,13 @@ Anyone can see that.	Jeder kann das sehen.	कोई भी वह देख स
 Anybody can do this.	Jeder kann das machen.	कोई भी यह कर सकता है।
 Anybody want a beer?	Möchte jemand ein Bier?	क्या कोई बीयर चाहेगा?
 Anybody want a lift?	Möchte jemand eine Mitfahrgelegenheit?	क्या कोई लिफ़्ट चाहेगा?
+Anything's possible.	Alles ist möglich.	कुछ भी संभव है।
+Are all swans white?	Sind alle Schwäne weiß?	क्या सभी हंस सफेद हैं?
+Are seats available?	Sind Plätze verfügbar?	क्या सीटें उपलब्ध हैं?
+Are the rumors true?	Stimmen die Gerüchte?	क्या अफ़वाहें सच हैं?
+Are there survivors?	Gibt es Überlebende?	क्या वहाँ सर्वाइवर्स हैं?
+Are these all Tom's?	Sind das alles von Tom?	क्या ये सब टॉम के हैं?
+Are these all yours?	Sind das alles deine?	क्या ये सब तेरी हैं?
+Are they still here?	Sind sie noch hier?	क्या वे अभी भी यहाँ हैं?
+Are those new shoes?	Sind das neue Schuhe?	क्या वो नए जूते हैं?
+Are those your bags?	Sind das deine Taschen?	क्या वो तुम्हारी बस्ते हैं?
