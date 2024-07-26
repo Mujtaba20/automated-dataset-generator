@@ -40700,3 +40700,12 @@ Tom sent me a present.	Tom schickte mir ein Geschenk.	टॉम ने मुझ
 Tom set the bird free.	Tom ließ den Vogel frei.	टॉम ने पंछी को आज़ाद कर दिया।
 Tom should be at home.	Tom sollte zu Hause sein.	टॉम को घर पर होना चाहिए।
 Tom should be charged.	Tom sollte angeklagt werden.	टॉम को आरोप लगाना चाहिए।
+Tom should talk to me.	Tom sollte mit mir sprechen.	टॉम को मुझसे बात करनी चाहिए।
+Tom should thank Mary.	Tom sollte Maria danken.	टॉम को मेरी का धन्यवाद करना चाहिए।
+Tom should've said no.	Tom hätte nein sagen sollen.	टॉम को नहीं कहना चाहिए था।
+Tom shouldn't be here.	Tom sollte hier nicht sein.	टॉम यहाँ नहीं होना चाहिए।
+Tom sighed profoundly.	Tom seufzte tief.	टॉम गहराई से सांस ली।
+Tom signed the papers.	Tom unterzeichnete die Papiere.	टॉम ने कागजात पर हस्ताक्षर किए।
+Tom sipped his coffee.	Tom nippte an seinem Kaffee.	टॉम ने अपने कॉफ़ी को एकत्र करते हुए पिया।
+Tom slept in the barn.	Tom schlief im Stall.	टॉम बाड़ी में सो रहा था।
+Tom slept on the sofa.	Tom schlief auf dem Sofa.	टॉम सोफ़ा पर सो गया।
