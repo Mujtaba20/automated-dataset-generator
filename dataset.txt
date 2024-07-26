@@ -1,14 +1,4 @@
 
-I'll give you a book.	Ich werde dir ein Buch geben.	मैं आपको एक किताब दूंगा।
-I'll give you my car.	Ich gebe dir mein Auto.	मैं तुम्हें अपनी कार दे दूँगा।
-I'll gladly help you.	Ich werde dir mit Freude behilflich sein.	मैं आपकी खुशी के साथ मदद करूंगा।
-I'll gladly help you.	Ich werde euch mit Freude behilflich sein.	मैं आपकी खुशी के साथ मदद करूंगा।
-I'll gladly help you.	Ich werde Ihnen mit Freude behilflich sein.	मैं आपकी खुशी के साथ मदद करूंगा।
-I'll go let Tom know.	Ich gehe dann und sage Tom, was Sache ist.	फिर मैं जाता हूं और कहता हूं कि टॉम क्या चल रहा है।
-I'll go look for Tom.	Ich werde Tom suchen.	मैं टॉम के लिए देखूंगा।
-I'll go look for Tom.	Ich werde nach Tom Ausschau halten.	मैं टॉम की तलाश करूंगा।
-I'll handle the rest.	Ich kümmere mich um den Rest.	मैं बाकी का ख्याल रखता हूं।
-I'll have my revenge.	Ich werde mich rächen.	मैं बदला लूंगा।
 I'll have to do that.	Ich werde das tun müssen.	मुझे ऐसा करना होगा।
 I'll help you escape.	Ich werde dir helfen, zu entkommen.	मैं आपको बचने में मदद करूंगा।
 I'll keep it in mind.	Ich werde es in Betracht ziehen.	मैं इस पर विचार करूंगा।

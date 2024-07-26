@@ -32382,3 +32382,13 @@ I'll get back to you.	Ich werde auf dich zurückkommen.	मैं आपको �
 I'll get rid of them.	Ich werde sie loswerden.	मैं उन्हें खत्म कर दूंगा।
 I'll get right on it.	Ich werde sofort daran arbeiten.	मैं तुरंत इस पर काम करुंगा।
 I'll get this to Tom.	Ich werde das zu Tom bringen.	मैं यह टॉम को दूंगा।
+I'll give you a book.	Ich werde dir ein Buch geben.	मैं तुम्हें एक किताब दूंगा।
+I'll give you my car.	Ich werde dir mein Auto geben.	मैं तुम्हें अपनी कार दूंगा।
+I'll gladly help you.	Ich werde dir gerne helfen.	मैं खुशी से तुम्हें मदद करूँगा।
+I'll gladly assist you.	Ich werde dir gerne unterstützen.	मैं खुशी से तुम्हारी सहायता करूँगा।
+I'll happily support you.	Ich werde dich gerne unterstützen.	मैं खुशी से तुम्हारा साथ देने का सहारा करूँगा।
+I'll go let Tom know.	Ich werde Tom Bescheid geben.	मैं जाऊंगा ताकि टॉम को पता चले।
+I'll go look for Tom.	Ich werde nach Tom suchen.	मैं टॉम की तलाश में जाऊंगा।
+I'll go search for Tom.	Ich werde nach Tom suchen gehen.	मैं टॉम की तलाश करने जाऊंगा।
+I'll handle the rest.	Ich werde den Rest erledigen.	मैं बाकी का संभाल लूंगा।
+I'll take care of the remaining tasks.	Ich werde mich um die übrigen Aufgaben kümmern.	मैं शेष कार्यों का ध्यान रखूंगा।
