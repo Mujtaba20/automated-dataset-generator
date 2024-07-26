@@ -28150,3 +28150,9 @@ That's very serious.	Das ist sehr ernst.	यह बहुत गंभीर ह
 That's very strange.	Das ist sehr seltsam.	यह बहुत ही अजीब है।
 That's what I heard.	Das habe ich gehört.	यही सुना है।
 That's what I think.	Das ist, was ich denke.	यही मेरा ख्याल है।
+That's what I'll do.	Das werde ich tun.	वही मैं करूँगा।
+That's what love is.	Das ist Liebe.	यही प्यार है।
+That's what they do.	Das ist, was sie tun.	वही वे करते हैं।
+That's what we want.	Das ist, was wir wollen.	वही हम चाहते हैं।
+That's where I live.	Da lebe ich.	वहीं मैं रहता हूँ।
+That's where Tom is.	Da ist Tom.	वहीं टॉम है।
