@@ -32261,3 +32261,12 @@ I was looking at her.	Ich betrachtete sie.	मैं उसे देख रह�
 I was notified today.	Ich wurde heute benachrichtigt.	मुझे आज सूचित किया गया था।
 I was out for a walk.	Ich war spazieren.	मैं टहलने गया था।
 I was playing tennis.	Ich spielte Tennis.	मैं टेनिस खेल रहा था।
+I was reading a book.	Ich las ein Buch.	मैं किताब पढ़ रहा था।
+I was really pleased.	Ich war wirklich zufrieden.	मैं सचमुच खुश था।
+I was somewhere else.	Ich war woanders.	मैं कहीं और था।
+I was stung by a bee.	Ich wurde von einer Biene gestochen.	मुझे एक मधुमक्खी ने काटा था।
+I was the only woman.	Ich war die einzige Frau.	मैं एकमात्र महिला थी।
+I was tired and cold.	Ich war müde und kalt.	मैं थका हुआ और ठंडा था।
+I was totally wasted.	Ich war völlig verschwendet.	मैं पूरी तरह से बर्बाद था।
+I was trying to help.	Ich versuchte zu helfen.	मैं मदद करने की कोशिश कर रहा था।
+I was trying to help in a different way.	Ich versuchte auf andere Weise zu helfen.	मैं किसी अलग तरीके से मदद करने की कोशिश कर रहा था।
