@@ -39199,3 +39199,4 @@ Shut the door quickly.	Schließen Sie die Tür schnell.	जल्दी से �
 Shut the door, please.	Bitte die Tür zumachen.	कृपया दरवाजा बंद करें।
 Sign it at the bottom.	Unterschreiben Sie es unten.	नीचे हस्ताक्षर करें।
 Simplicity is the key.	Einfachheit ist der Schlüssel.	सरलता महत्वपूर्ण है।
+engSentence		
