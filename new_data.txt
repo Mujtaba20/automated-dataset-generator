@@ -37380,3 +37380,12 @@ I feel a bit nauseous.	Mir ist ein wenig übel.	मुझे थोड़ा स
 I feel like a new man.	Ich fühle mich wie ein neuer Mensch.	मैं नए इंसान की तरह महसूस कर रहा हूं।
 I feel like an amoeba.	Ich fühle mich wie eine Amöbe.	मैं जैव कण की तरह महसूस कर रहा हूं।
 I feel perfectly fine.	Ich fühle mich absolut wohl.	मैं पूरी तरह से ठीक महसूस कर रहा हूं।
+I feel so embarrassed.	Ich fühle mich so peinlich berührt.	मैं इतना शर्मिंदा महसूस करता हूँ।
+I feel somewhat upset.	Ich fühle mich etwas verärgert.	मुझे कुछ परेशान महसूस हो रहा है।
+I feel terrible today.	Ich fühle mich heute furchtbar.	आज मुझे भयानक लग रहा है।
+I feel very safe here.	Ich fühle mich hier sehr sicher.	मैं यहाँ बहुत सुरक्षित महसूस करता हूँ।
+I fell down the steps.	Ich bin die Stufen hinuntergefallen.	मैं सीढ़ियों से नीचे गिर गया।
+I fell into the water.	Ich bin ins Wasser gefallen.	मैं पानी में गिर गया।
+I fell off the ladder.	Ich bin von der Leiter gefallen.	मैं सीढ़ी से गिर गया।
+I felt a little stiff.	Ich fühlte mich ein wenig steif.	मैं थोड़ा कठोर महसूस किया।
+I felt bad afterwards.	Ich fühlte mich danach schlecht.	बाद में मुझे बुरा लगा।
