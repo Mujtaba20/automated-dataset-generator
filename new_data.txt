@@ -32784,3 +32784,11 @@ It isn't that simple.	Es ist nicht so einfach.	यह इतना सरल न
 It looks good on you.	Es sieht gut an dir aus.	तुम्हारे ऊपर अच्छा लग रहा है।
 It looks hot outside.	Es sieht draußen heiß aus.	बाहर गरम लग रहा है।
 It looks like a duck.	Es sieht aus wie eine Ente.	यह बत्तख की तरह दिखता है।
+It looks like an egg.	Es sieht aus wie ein Ei.	यह एक अंडे जैसा दिखता है।
+It looks really good.	Es sieht wirklich gut aus.	यह वास्तव में अच्छा लग रहा है।
+It made me very rich.	Es machte mich sehr reich.	यह मुझे बहुत अमीर बना दिया।
+It made people smile.	Es brachte die Leute zum Lächeln.	यह लोगों को हंसने पर मजबूर कर दिया।
+It makes me feel sad.	Es macht mich traurig.	यह मुझे उदास करता है।
+It makes me so angry.	Es macht mich so wütend.	यह मुझे इतना गुस्सा दिलाता है।
+It may rain tomorrow.	Es kann morgen regnen.	कल बारिश हो सकती है।
+It meant a lot to me.	Es bedeutete mir viel.	यह मेरे लिए बहुत कुछ था।
