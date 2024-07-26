@@ -25118,3 +25118,10 @@ Are you from Boston?	Kommen Sie aus Boston?	क्या आप बॉस्ट�
 Are you going to go?	Wirst du gehen?	क्या तुम जाने वाले हो?
 Are you guys crying?	Weint ihr?	क्या तुम लोग रो रहे हो?
 Are you guys hungry?	Seid ihr hungrig?	क्या तुम लोग भूखे हो?
+Are you ignoring me?	Ignorierst du mich?	क्या तुम मुझे नजरअंदाज कर रहे हो?
+Are you imaginative?	Bist du einfallsreich?	क्या तुमकोई कल्पनाशील हो?
+Are you in pain now?	Hast du jetzt Schmerzen?	क्या तुम अभी दर्द में हो?
+Are you independent?	Bist du unabhängig?	क्या तुम स्वतंत्र हो?
+Are you lying to me?	Lügst du mich an?	क्या तुम मुझसे झूठ बोल रहे हो?
+Are you married now?	Bist du jetzt verheiratet?	क्या तुम अब शादीशुदा हो?
+Are you imaginative? - 2	Bist du einfallsreich?	क्या तुमकोई कल्पनाशील हो?

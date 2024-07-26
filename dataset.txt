@@ -1,14 +1,4 @@
 
-Are you ignoring me?	Ignorierst du mich?	क्या आप मुझे अनदेखा कर रहे हैं?
-Are you imaginative?	Bist du fantasievoll?	क्या आप कल्पनाशील हैं
-Are you imaginative?	Hast du Phantasie?	क्या आपके पास कल्पना है
-Are you imaginative?	Habt ihr Phantasie?	क्या आपके पास कल्पना है?
-Are you imaginative?	Haben Sie Phantasie?	क्या आपके पास कल्पना है?
-Are you in pain now?	Haben Sie jetzt Schmerzen?	क्या अब आप दर्द में हैं?
-Are you independent?	Bist du unabhängig?	क्या आप स्वतंत्र हैं?
-Are you lying to me?	Lügst du mich an?	क्या तुम मुझसे झूठ बोल रहे हो?
-Are you married now?	Sind Sie jetzt verheiratet?	क्या अभी आप शादीशुदा हैं?
-Are you married now?	Bist du jetzt verheiratet?	क्या अभी आप शादीशुदा हैं?
 Are you on Facebook?	Sind Sie auf Facebook?	क्या आप Facebook पर हैं?
 Are you on Facebook?	Seid ihr auf Facebook?	क्या आप Facebook पर हैं?
 Are you on Facebook?	Bist du auf Facebook?	क्या आप Facebook पर हैं?
