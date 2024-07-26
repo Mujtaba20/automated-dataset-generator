@@ -1,14 +1,4 @@
 
-I know what I would do.	Ich weiß, was ich tun würde.	मुझे पता है कि मैं क्या करूंगा।
-I know what I'm saying.	Ich weiß, was ich sage.	मुझे पता है कि मैं क्या कह रहा हूं।
-I know what Tom can do.	Ich weiß, was Tom kann.	मुझे पता है कि टॉम क्या कर सकता है।
-I know what Tom wanted.	Ich wusste, was Tom wollte.	मुझे पता था कि टॉम क्या चाहता है।
-I know what it's about.	Ich weiß, worum es geht.	मुझे पता है कि यह किस बारे में है।
-I know what's at stake.	Ich weiß, was auf dem Spiel steht.	मुझे पता है कि दांव पर क्या है।
-I know what's expected.	Ich kenne die Erwartungen.	मैं उम्मीदों को जानता हूं।
-I know what's going on.	Ich weiß, was los ist.	मुझे पता है कि क्या चल रहा है।
-I know where I'm going.	Ich weiß, wohin ich gehe.	मुझे पता है कि कहाँ जाना है।
-I know where Tom lived.	Ich weiß, wo Tom gewohnt hat.	मुझे पता है कि टॉम कहाँ रहता था।
 I know where Tom lives.	Ich weiß, wo Tom lebt.	मुझे पता है कि टॉम कहाँ रहता है।
 I know where Tom lives.	Ich weiß, wo Tom wohnt.	मुझे पता है कि टॉम कहाँ रहता है।
 I know where Tom works.	Ich weiß, wo Tom arbeitet.	मुझे पता है कि टॉम कहाँ काम करता है।
