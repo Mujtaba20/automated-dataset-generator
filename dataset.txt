@@ -1,17 +1,4 @@
 
-What are the symptoms?	Was sind die Symptome?	क्या लक्षण हैं?
-What are these things?	Was sind diese Dinge?	ये चीजें क्या हैं?
-What are they made of?	Woraus sind sie hergestellt?	आप किससे बने हैं?
-What are they selling?	Was verkaufen sie?	आप क्या बेचते हैं?
-What are you doing up?	Warum bist du auf?	तुम क्यों हो
-What are you drinking?	Was trinkt ihr?	आप क्या पी रहे हैं?
-What are you drinking?	Was trinkst du gerade?	अभी आप क्या पी रहे हैं?
-What are you going as?	Als was gehst du?	आप किस चरित्र का प्रतिनिधित्व करते हैं?
-What are you here for?	Warum bist du hier?	तुम यहां क्यों हो?
-What are you implying?	Was willst du damit sagen?	तुम्हारा इससे क्या मतलब है?
-What are you implying?	Was willst du mir damit unterstellen?	आप इसके साथ क्या मान लेना चाहते हैं?
-What are you implying?	Was wollt ihr damit sagen?	आप कहना क्या चाहते हैं?
-What are you implying?	Was wollen Sie damit sagen?	आप क्या कहने की कोशिश कर रहे हैं?
 What are you learning?	Was lernst du?	आप क्या सीख रहे हैं?
 What are you studying?	Was studierst du?	आप क्या पढ़ रहे हैं?
 What are you thinking?	Was denkst du?	आप क्या सोचते हैं?

@@ -41220,3 +41220,12 @@ What a waste of water!	Was für eine Verschwendung von Wasser!	पानी क�
 What about this dress?	Was ist mit diesem Kleid?	इस ड्रेस के बारे में क्या है?
 What am I going to do?	Was soll ich tun?	मैं क्या करूँ?
 What an exciting game!	Was für ein aufregendes Spiel!	कितना उत्तेजक खेल है!
+What are the symptoms?	Was sind die Symptome?	लक्षण क्या हैं?
+What are these things?	Was sind diese Dinge?	ये चीजें क्या हैं?
+What are they made of?	Woraus sind sie gemacht?	वे किससे बने हैं?
+What are they selling?	Was verkaufen sie?	वे क्या बेच रहे हैं?
+What are you doing up?	Was machst du oben?	तुम ऊपर क्या कर रहे हो?
+What are you drinking?	Was trinkst du?	तुम क्या पी रहे हो?
+What are you going as?	Wofür gehst du?	तुम किस रूप में जा रहे हो?
+What are you here for?	Wofür bist du hier?	तुम यहाँ क्यों हो?
+What are you implying?	Was willst du damit sagen?	तुम क्या सूचना दे रहे हो?
