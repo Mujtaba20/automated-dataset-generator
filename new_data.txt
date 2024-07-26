@@ -35221,3 +35221,13 @@ We need some privacy.	Wir brauchen etwas Privatsphäre.	हमें कुछ �
 We need to leave now.	Wir müssen jetzt gehen.	हमें अब जाना चाहिए।
 We need to stop them.	Wir müssen sie aufhalten.	हमें उन्हें रोकने की आवश्यकता है।
 We needed Tom's help.	Wir brauchten Toms Hilfe.	हमें टॉम की मदद की जरूरत थी।
+We needed to do that.	Wir mussten das tun.	हमें वह करना चाहिए था।
+We never expected it.	Wir haben es nie erwartet.	हमें कभी ऐसा नहीं था.
+We now work together.	Wir arbeiten jetzt zusammen.	अब हम साथ मिलकर काम करते हैं।
+We ran after the cat.	Wir liefen der Katze hinterher.	हम बिल्ली के पीछे भागे।
+We ran down the hill.	Wir sind den Hügel hinuntergerannt.	हम पहाड़ी से नीचे भागे।
+We really don't know.	Wir wissen wirklich nicht.	हमें सच्ची में पता नहीं है।
+We really have to go.	Wir müssen wirklich gehen.	हमें सच्ची में जाना है।
+We regret doing that.	Wir bereuen das zu tun.	हमें उसे करने का पछतावा है।
+We require your help.	Wir benötigen deine Hilfe.	हमें तुम्हारी मदद चाहिए।
+We regret doing that.1	Wir bedauern, das getan zu haben.	हमें उसे करने पर खेद है।

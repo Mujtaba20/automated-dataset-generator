@@ -1,16 +1,4 @@
 
-We needed to do that.	Wir haben das tun müssen.	हमें ऐसा करना था।
-We never expected it.	Wir haben es nie erwartet.	हमने कभी इसकी उम्मीद नहीं की थी।
-We now work together.	Wir arbeiten jetzt zusammen.	अब हम एक साथ काम कर रहे हैं।
-We ran after the cat.	Wir liefen der Katze nach.	हम बिल्ली के पास भाग गए।
-We ran down the hill.	Wir rannten den Hügel hinunter.	हम पहाड़ी से नीचे भाग गए।
-We really don't know.	Wir wissen es wirklich nicht.	हम वास्तव में नहीं जानते।
-We really have to go.	Wir müssen wirklich gehen.	हमें वास्तव में जाना है।
-We regret doing that.	Es tut uns leid, dass wir das getan haben.	हमें खेद है कि हमने ऐसा किया।
-We regret doing that.	Es reut uns, das getan zu haben.	यह हमें ऐसा करने के लिए मानता है।
-We require your help.	Wir brauchen Ihre Hilfe.	हमे आपकी मदद की जरूरत है।
-We require your help.	Wir brauchen deine Hilfe.	हमे आपकी मदद की जरूरत है।
-We require your help.	Wir brauchen eure Hilfe.	हमे आपकी मदद की जरूरत है।
 We sang as we walked.	Wir sangen beim Wandern.	हमने लंबी पैदल यात्रा करते हुए गाया।
 We sang while hiking.	Wir sangen beim Wandern.	हमने लंबी पैदल यात्रा करते हुए गाया।
 We saw the car start.	Wir sahen, wie der Wagen losfuhr.	हमने देखा कि कार चला गया।
