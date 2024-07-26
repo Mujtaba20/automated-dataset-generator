@@ -36849,3 +36849,11 @@ He must be over fifty.	Er muss über fünfzig sein.	वह पचास से �
 He must be over sixty.	Er muss über sechzig sein.	वह साठ से अधिक वर्ष का होना चाहिए।
 He must be very happy.	Er muss sehr glücklich sein.	वह बहुत खुश होना चाहिए।
 He offered to help me.	Er bot an, mir zu helfen.	उसने मदद करने की पेशकश की।
+He often helps others.	Er unterstützt oft andere.	वह अक्सर दूसरों का सहारा लेता है।
+He often plays guitar.	Er spielt oft Gitarre.	वह अक्सर गिटार बजाता है।
+He owns a lot of land.	Er hat viel Land im Besitz.	उसके पास बहुत सारी जमीन है।
+He picked up his toys.	Er sammelte seine Spielzeuge auf.	उसने अपने खिलौने उठाए।
+He picked up the book.	Er hob das Buch auf.	उसने किताब उठाई।
+He presented his card.	Er legte seine Karte vor.	उसने अपनी कार्ड प्रस्तुत की।
+He ran away from home.	Er lief von zu Hause weg.	उसने घर से भाग लिया।
+He reads a great deal.	Er liest sehr viel.	वह बहुत कुछ पढ़ता है।
