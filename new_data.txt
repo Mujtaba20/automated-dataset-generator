@@ -29850,3 +29850,12 @@ What's so important?	Was ist so wichtig?	इतना महत्वपूर�
 What's stopping you?	Was hindert dich?	तुम्हें क्यों रोक रहा है?
 What's the big deal?	Was ist das große Ding?	इसमें बड़ा क्या है?
 What's the big idea?	Was ist die große Idee?	बड़ा विचार क्या है?
+What's the bus fare?	Was kostet der Busfahrpreis?	बस किराया क्या है?
+What's the password?	Was ist das Passwort?	पासवर्ड क्या है?
+What's the pay like?	Wie ist die Bezahlung?	वेतन कैसे है?
+What's the time now?	Wie spät ist es jetzt?	अभी क्या समय है?
+What's there to eat?	Was gibt es zu essen?	खाने के लिए क्या है?
+What's there to say?	Was gibt es zu sagen?	क्या कहने का मतलब है?
+What's this key for?	Wofür ist dieser Schlüssel?	यह कुंजी किसके लिए है?
+What's this made of?	Woraus ist das gemacht?	यह किससे बना है?
+What's today's date?	Was ist das Datum von heute?	आज की तारीख क्या है?

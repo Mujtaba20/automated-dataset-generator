@@ -1,14 +1,4 @@
 
-What's the bus fare?	Wie teuer ist der Busfahrschein?	बस टिकट कितना महंगा है?
-What's the password?	Wie lautet das Passwort?	पासवर्ड क्या है?
-What's the pay like?	Wie ist die Bezahlung?	भुगतान कैसा है?
-What's the time now?	Wie spät ist es jetzt?	अब समय क्या है?
-What's there to eat?	Was ist denn zum Essen da?	खाने के लिए क्या है?
-What's there to say?	Was gibt es zu sagen?	वहां कहने के लिए क्या है?
-What's this key for?	Wofür dient dieser Schlüssel?	यह कुंजी किस लिए काम करती है?
-What's this made of?	Woraus besteht das?	वह किस चीज से बना है?
-What's today's date?	Welches Datum ist heute?	आज कौन सी तारीख है?
-What's today's date?	Der Wievielte ist heute?	आज कौन सी तारीख़ है?
 What's today's menu?	Was ist das heutige Menü?	आज का मेनू क्या है?
 What's today's plan?	Was steht heute auf dem Plan?	आज योजना पर क्या है?
 What's today's plan?	Was ist für heute geplant?	आज के लिए क्या योजना है?
