@@ -1,14 +1,4 @@
 
-Where're the shoes?	Wo sind die Schuhe?	जूते कहाँ हैं?
-Where're you going?	Wohin gehst du?	आप कहां जा रहे हैं?
-Where's Tom anyway?	Wo ist Tom überhaupt?	वैसे भी टॉम कहाँ है?
-Where's Tom hiding?	Wo versteckt sich Tom?	टॉम कहाँ छिपा है?
-Where's my brother?	Wo ist mein Bruder?	मेरा भाई कहाँ है?
-Where's my husband?	Wo ist mein Ehemann?	मेरे पति कहां हैं?
-Where's my husband?	Wo ist mein Gatte?	मेरे पति कहां हैं?
-Where's my husband?	Wo ist mein Mann?	मेरे पति कहां हैं?
-Where's my uniform?	Wo ist meine Uniform?	मेरी वर्दी कहाँ है?
-Where's the bakery?	Wo ist die Bäckerei?	बैकरी कहाँ है?
 Where's the bucket?	Wo ist der Eimer?	बाल्टी कहाँ है?
 Where's the butter?	Wo ist die Butter?	मक्खन कहाँ है?
 Where's the church?	Wo ist die Kirche?	चर्च कहाँ है?

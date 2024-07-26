@@ -24660,3 +24660,11 @@ Where was he going?	Wohin ging er?	वह कहाँ जा रहा था?
 Where was your son?	Wo war dein Sohn?	तुम्हारा बेटा कहाँ था?
 Where will we meet?	Wo werden wir uns treffen?	हम कहाँ मिलेंगे?
 Where would Tom go?	Wohin würde Tom gehen?	टॉम कहाँ जाएगा?
+Where're the shoes?	Wo sind die Schuhe?	जूते कहां हैं?
+Where're you going?	Wohin gehst du?	तुम कहाँ जा रहे हो?
+Where's Tom anyway?	Wo ist Tom sowieso?	वैसे तोम कहां है?
+Where's Tom hiding?	Wo versteckt sich Tom?	तोम कहाँ छिपा है?
+Where's my brother?	Wo ist mein Bruder?	मेरा भाई कहां है?
+Where's my husband?	Wo ist mein Ehemann?	मेरे पति कहां हैं?
+Where's my uniform?	Wo ist meine Uniform?	मेरी यूनिफॉर्म कहाँ है?
+Where's the bakery?	Wo ist die Bäckerei?	बेकरी कहां है?
