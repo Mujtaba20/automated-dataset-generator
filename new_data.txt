@@ -27318,3 +27318,11 @@ It makes me nervous.	Es macht mich nervös.	यह मुझे घबरात�
 It may be all right.	Es könnte in Ordnung sein.	शायद सब ठीक हो।
 It may be important.	Es könnte wichtig sein.	यह महत्वपूर्ण हो सकता है।
 It may take a while.	Es könnte eine Weile dauern.	यह कुछ समय ले सकता है।
+It may well be true.	Es könnte gut sein.	यह सच हो सकता है।
+It never snows here.	Es schneit hier nie.	यहाँ कभी भी बर्फ नहीं गिरती।
+It often rains here.	Hier regnet es oft.	यहाँ यहाँ अक्सर बारिश होती है।
+It often snows here.	Es schneit hier oft.	यहाँ अक्सर बर्फ गिरती है।
+It pays to tip well.	Es lohnt sich, gut zu tippen.	अच्छा टिप देना फायदेमंद होता है।
+It rained all night.	Es hat die ganze Nacht geregnet.	रातभर बारिश हुई थी।
+It rained yesterday.	Gestern hat es geregnet.	कल बारिश हुई थी।
+It serves you right.	Das hast du verdient.	तुम्हारा यह सही है।

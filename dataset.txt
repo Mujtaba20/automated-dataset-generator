@@ -1,21 +1,4 @@
 
-It may well be true.	Es mag wohl wahr sein.	यह सच हो सकता है।
-It may well be true.	Es ist gut möglich.	यह संभव है।
-It never snows here.	Es schneit hier nie.	यहाँ कभी बर्फ नहीं हुई।
-It often rains here.	Es regnet hier oft.	अक्सर यहां बारिश होती है।
-It often snows here.	Es schneit hier häufig.	अक्सर यहां बर्फबारी होती है।
-It pays to tip well.	Wer gut schmiert, fährt gut.	जो लोग अच्छी तरह से धब्बा करते हैं, वे अच्छी तरह से ड्राइव करते हैं।
-It rained all night.	Es hat die ganze Nacht geregnet.	पूरी रात बारिश हुई।
-It rained yesterday.	Gestern regnete es.	कल बारिश हुई।
-It rained yesterday.	Gestern hat es geregnet.	कल बारिश हुई थी।
-It serves you right.	Das geschieht dir recht.	जो आपको सही परोसता है।
-It serves you right.	Das hast du verdient.	तुम इसके लायक हो।
-It serves you right.	Das hast du jetzt davon!	अब आपके पास है!
-It serves you right.	Das habt ihr jetzt davon!	अब आपके पास है!
-It serves you right.	Das haben Sie jetzt davon!	अब आपके पास है!
-It serves you right.	Das geschieht Ihnen recht!	आपके साथ ऐसा होता है!
-It serves you right.	Das geschieht euch recht!	आपके साथ ऐसा होता है!
-It serves you right.	Es geschieht dir recht.	आपकी अच्छी सेवा करता है।
 It shouldn't matter.	Das sollte egal sein.	इससे कोई फर्क नहीं पड़ता।
 It smells delicious.	Es riecht köstlich.	इससे बहुत अच्छी खुशबू आती है।
 It snowed all night.	Es hat die ganze Nacht geschneit.	पूरी रात बर्फबारी हुई।
