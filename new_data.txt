@@ -27824,3 +27824,9 @@ Put that knife away.	Leg dieses Messer weg.	उस चाकू को दूर
 Put that on my bill.	Schreib das auf meine Rechnung.	उसे मेरी बिल पर डाल दो।
 Put the bracelet on.	Leg das Armband an.	कंगन पहनो।
 Put your books away.	Bring deine Bücher weg.	अपनी किताबें ले आओ।
+Put your glasses on.	Legen Sie Ihre Brille auf.	अपनी चश्मा रखें।
+Question everything.	Frage alles.	सब कुछ सवाल करो।
+Quick. Look outside!	Schnell. Schau nach draußen!	तेजी से बाहर देखो!
+Quote me an example.	Zitiere mir ein Beispiel.	मुझे एक उदाहरण दें।
+Rambo doesn't exist.	Es gibt keinen Rambo.	रैम्बो मौजूद नहीं है।
+Read the book aloud.	Lies das Buch laut vor.	पुस्तक को बोलकर पढ़ें।

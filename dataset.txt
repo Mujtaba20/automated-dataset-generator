@@ -1,14 +1,4 @@
 
-Put your glasses on.	Setz deine Brille auf!	अपना चश्मा सेट करें!
-Put your glasses on.	Setzen Sie Ihre Brille auf!	अपने चश्मे पर रखो!
-Question everything.	Hinterfrage alles!	हर बात पर सवाल!
-Question everything.	Hinterfragen Sie alles!	हर बात पर सवाल!
-Question everything.	Hinterfragt alles!	सब कुछ पूछो!
-Quick. Look outside!	Schnell! Sieh nach draußen!	तेज़!बाहर देखो!
-Quote me an example.	Geben Sie mir ein Beispiel an.	मुझे एक उदाहरण दे।
-Rambo doesn't exist.	Rambo gibt es nicht.	कोई रैम्बो नहीं है।
-Rambo doesn't exist.	Rambo existiert nicht.	रेम्बो मौजूद नहीं है।
-Read the book aloud.	Lies das Buch vor.	किताब पढ़ी।
 Remember everything.	Merk dir alles.	हर चीज याद रखो।
 Respect your elders.	Habe Achtung vor Älteren.	पुराने लोगों पर ध्यान दें।
 Respect your elders.	Habe Achtung vor Leuten, die älter sind als du.	उन लोगों पर ध्यान दें जो आपसे बड़े हैं।
