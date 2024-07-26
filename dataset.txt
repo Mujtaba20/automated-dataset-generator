@@ -1,14 +1,4 @@
 
-It'll work for sure.	Es funktioniert bestimmt.	यह निश्चित रूप से काम करेगा।
-It's Saturday today.	Heute ist Samstag.	आज शनिवार है.
-It's Tom's birthday.	Tom hat Geburtstag.	टॉम का जन्मदिन है।
-It's Tom's decision.	Es ist Toms Entscheidung.	यह टॉम का निर्णय है।
-It's Tom's decision.	Das ist Toms Entscheidung.	यह टॉम का निर्णय है।
-It's Tom's favorite.	Es ist Toms liebstes.	यह टॉम का पसंदीदा है।
-It's Tom's favorite.	Er ist Toms liebster.	वह टॉम का सबसे प्रिय है।
-It's Tom's favorite.	Sie ist Toms liebste.	वह टॉम की पसंदीदा है।
-It's a big hospital.	Es ist ein großes Krankenhaus.	यह एक बड़ा अस्पताल है।
-It's a brain-teaser.	Das ist eine Knobelaufgabe.	यह एक पहेली कार्य है।
 It's a dreary place.	Es ist ein trostloser Ort.	यह एक धूमिल जगह है।
 It's a fact of life.	Es ist eine Tatsache des Lebens.	यह एक जीवन की सच्चाई है।
 It's a family trait.	Das liegt in der Familie.	यह परिवार में सामान्य बात है।

@@ -27393,3 +27393,10 @@ It'll come in handy.	Das wird nützlich sein.	यह काम आएगा।
 It'll rain for sure.	Es wird sicher regnen.	यकीनन बारिश होगी।
 It'll rain tomorrow.	Es wird morgen regnen.	कल बारिश होगी।
 It'll snow tomorrow.	Es wird morgen schneien.	कल बर्फ गिरेगा।
+It'll work for sure.	Es wird auf jeden Fall funktionieren.	यह निश्चित रूप से काम करेगा।
+It's Saturday today.	Heute ist Samstag.	आज शनिवार है।
+It's Tom's birthday.	Es ist Toms Geburtstag.	यह टॉम का जन्मदिन है।
+It's Tom's decision.	Es ist Toms Entscheidung.	यह टॉम का निर्णय है।
+It's Tom's favorite.	Das ist Toms Lieblings-.	यह टॉम की पसंद है।
+It's a big hospital.	Es ist ein großes Krankenhaus.	यह एक बड़ा अस्पताल है।
+It's a brain-teaser.	Es ist eine Denksportaufgabe.	यह एक दिमागी विचारक है।
