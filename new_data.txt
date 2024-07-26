@@ -23915,3 +23915,11 @@ Tom never met Mary.	Tom hat Mary nie getroffen.	टॉमने मेरी स
 Tom never said yes.	Tom hat nie Ja gesagt.	टॉमने कभी हाँ नहीं कहा।
 Tom never saw Mary.	Tom hat Mary nie gesehen.	टॉमने मेरी को कभी नहीं देखा।
 Tom never was lazy.	Tom war nie faul.	टॉम कभी आलसी नहीं था।
+Tom never was mean.	Tom war nie gemein.	टॉम कभी दयालु नहीं था।
+Tom never was poor.	Tom war nie arm.	टॉम कभी गरीब नहीं था।
+Tom never was rich.	Tom war nie reich.	टॉम कभी अमीर नहीं था।
+Tom nodded quickly.	Tom nickte schnell.	टॉम जल्दी से शिर झुकाया।
+Tom obviously lied.	Tom hat offensichtlich gelogen.	टॉम स्पष्ट रूप से झूठ बोला।
+Tom only eats meat.	Tom isst nur Fleisch.	टॉम सिर्फ मांस खाता है।
+Tom ordered a beer.	Tom bestellte ein Bier.	टॉम ने एक बीयर आदेश दिया।
+Tom owns a theater.	Tom besitzt ein Theater.	टॉम के पास एक थिएटर है।
