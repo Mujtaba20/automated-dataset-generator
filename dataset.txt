@@ -1,14 +1,4 @@
 
-Tom never drinks beer.	Tom trinkt nie Bier.	टॉम कभी बीयर नहीं पीता।
-Tom never drinks wine.	Tom trinkt nie Wein.	टॉम कभी शराब नहीं पीता।
-Tom never got married.	Tom hat nie geheiratet.	टॉम ने कभी शादी नहीं की।
-Tom never hurt a soul.	Tom hat nie einer Seele etwas zuleide getan.	टॉम ने कभी आत्मा को कुछ नहीं मारा।
-Tom never kissed Mary.	Tom küsste Maria nie.	टॉम ने मारिया को चूमा।
-Tom never looked back.	Tom schaute nie zurück.	टॉम ने कभी पीछे मुड़कर नहीं देखा।
-Tom never said a word.	Tom sagte nie ein Wort.	टॉम ने कभी एक शब्द नहीं कहा।
-Tom never told anyone.	Tom hat es nie jemandem erzählt.	टॉम ने कभी किसी को नहीं बताया।
-Tom never wears a hat.	Tom trägt nie einen Hut.	टॉम कभी टोपी नहीं पहनता।
-Tom never wears a hat.	Tom hat nie einen Hut auf.	टॉम के पास कभी टोपी नहीं है।
 Tom never wears a tie.	Tom hat nie eine Krawatte an.	टॉम के पास कभी टाई नहीं है।
 Tom never wears a tie.	Tom trägt niemals Krawatte.	टॉम कभी टाई नहीं पहनता।
 Tom never would agree.	Tom würde nie zustimmen.	टॉम कभी सहमत नहीं होगा।

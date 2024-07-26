@@ -40574,3 +40574,12 @@ Tom needs new clothes.	Tom braucht neue Kleidung.	टॉम को नए कप
 Tom needs put in jail.	Tom muss ins Gefängnis gebracht werden.	टॉम को जेल में डाल देना चाहिए।
 Tom needs urgent help.	Tom braucht dringend Hilfe.	टॉम को तत्काल सहायता की ज़रूरत है।
 Tom nervously entered.	Tom betrat nervös.	टॉम चिढ़चिढ़ाकर आया।
+Tom never drinks beer.	Tom trinkt nie Bier.	टॉम कभी बियर नहीं पीता।
+Tom never drinks wine.	Tom trinkt nie Wein.	टॉम कभी शराब नहीं पीता।
+Tom never got married.	Tom hat nie geheiratet.	टॉम कभी शादी नहीं की।
+Tom never hurt a soul.	Tom hat niemals jemandem wehgetan.	टॉमने किसी को कभी नुकसान नहीं पहुंचाया।
+Tom never kissed Mary.	Tom hat Maria nie geküsst.	टॉमने मेरी को कभी चुम्मा नहीं दिया।
+Tom never looked back.	Tom hat nie zurückgeschaut.	टॉमने कभी पीछे नहीं देखा।
+Tom never said a word.	Tom hat nie ein Wort gesagt.	टॉमने कभी एक शब्द नहीं कहा।
+Tom never told anyone.	Tom hat niemandem je erzählt.	टॉमने किसी को कभी नहीं बताया।
+Tom never wears a hat.	Tom trägt nie einen Hut.	टॉम कभी टोपी नहीं पहनता।
