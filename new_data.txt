@@ -21395,3 +21395,9 @@ I know what it was.	Ich weiß, was es war.	मुझे पता है कि 
 I know what to say.	Ich weiß, was ich sagen soll.	मुझे पता है कि क्या कहना है।
 I know what you do.	Ich weiß, was du tust.	मैं जानता हूँ कि तुम क्या करते हो।
 I know what's best.	Ich weiß, was am besten ist.	मुझे पता है कि क्या अच्छा है।
+I know where he is.	Ich weiß, wo er ist.	मुझे पता है वह कहाँ है।
+I know where it is.	Ich weiß, wo es ist.	मुझे पता है यह कहाँ है।
+I know where to go.	Ich weiß, wohin ich gehen soll.	मुझे पता है कहाँ जाना है।
+I know who you are.	Ich weiß, wer du bist.	मुझे पता है तुम कौन हो।
+I know why that is.	Ich weiß, warum das so ist.	मुझे पता है यह क्यूं है।
+I know you have it.	Ich weiß, dass du es hast.	मुझे पता है तुम्हारे पास है।
