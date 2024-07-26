@@ -1,14 +1,4 @@
 
-This soup is too spicy.	Diese Suppe ist zu scharf.	यह सूप बहुत तेज है।
-This spoon is for soup.	Dieser Löffel ist für Suppe gedacht.	यह चम्मच सूप के लिए है।
-This table is handmade.	Dieser Tisch ist eine Handarbeit.	यह तालिका एक मैनुअल काम है।
-This table is reserved.	Dieser Tisch ist reserviert.	यह तालिका आरक्षित है।
-This table is wobbling.	Dieser Tisch wackelt.	यह तालिका wobbles।
-This task is difficult.	Diese Aufgabe ist schwierig.	यह कार्य मुश्किल है।
-This task is difficult.	Diese Aufgabe ist schwer.	यह कार्य मुश्किल है।
-This tea is too bitter.	Dieser Tee ist zu bitter.	यह चाय बहुत कड़वी है।
-This thin book is mine.	Dieses dünne Buch ist meins.	यह पतली किताब मेरी है।
-This time it's serious.	Dieses Mal ist es ernst.	इस बार यह गंभीर है।
 This view is fantastic.	Dieser Ausblick ist fantastisch.	यह दृश्य शानदार है।
 This was a big mistake.	Das war ein großer Fehler.	यह एक बड़ी गलती थी।
 This was a long letter.	Das war ein langer Brief.	वह एक लंबा पत्र था।
