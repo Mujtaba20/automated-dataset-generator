@@ -36032,3 +36032,12 @@ All lawyers are liars.	Alle Anwälte sind Lügner.	सभी वकील झू
 All of us were silent.	Wir alle waren still.	हम सभी चुप थे।
 All our money is gone.	All unser Geld ist weg.	हमारे पैसे सब खत्म हो गए हैं।
 All right, I'll do it.	In Ordnung, ich werde es tun.	ठीक है, मैं कर दूँगा।
+All the boys ran away.	Alle Jungen sind weggelaufen.	सभी लड़के भाग गए।
+All the eggs went bad.	Alle Eier wurden schlecht.	सभी अंडे खराब हो गए।
+All the food was gone.	Das ganze Essen war weg.	सभी भोजन चला गया था।
+All the girls laughed.	Alle Mädchen lachten.	सभी लड़कियाँ हँसी।
+All the money is gone.	Das ganze Geld ist weg.	सभी पैसे गए हैं।
+All this is new to me.	All dies ist für mich neu.	यह सभी मेरे लिए नया है।
+All three of us agree.	Alle drei von uns stimmen zu.	हम तीनों सहमत हैं।
+All we can do is hope.	Alles, was wir tun können, ist hoffen.	हम कुछ कर सकते हैं उम्मीद कर सकते हैं।
+All we can do is wait.	Alles, was wir tun können, ist warten.	हम कुछ कर सकते हैं बस इंतजार कर सकते हैं।
