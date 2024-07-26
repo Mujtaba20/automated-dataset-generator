@@ -36867,3 +36867,11 @@ He says he won't come.	Er sagt, er wird nicht kommen.	उसने कहा क
 He scratched his head.	Er kratzte sich am Kopf.	उसने अपने सिर पर खुजली की।
 He seems not to agree.	Er scheint nicht zuzustimmen.	लगता है कि वह सहमत नहीं है।
 He seems to be asleep.	Er scheint zu schlafen.	लगता है कि वह सोने की हालत में है।
+He seems to be honest.	Er scheint ehrlich zu sein.	वह ईमानदार लगता है।
+He showed her the way.	Er zeigte ihr den Weg.	उसने उसे रास्ता दिखाया।
+He slipped on the ice.	Er rutschte auf dem Eis aus.	उसने बर्फ पर गिर गया।
+He speaks poor French.	Er spricht schlechtes Französisch.	वह खराब फ्रेंच बोलता है।
+He speaks really well.	Er spricht wirklich gut.	वह वास्तव में अच्छी तरह से बोलता है।
+He speaks with a lisp.	Er spricht mit einem Lispeln.	वह लिस्प के साथ बोलता है।
+He sprained his ankle.	Er hat sich den Knöchel verstaucht.	उसने अपने पैर की टंगन खींच ली।
+He sprained his ankle. (a different meaning)	Er knickte mit dem Knöchel um.	उसने अपने पैर को झकझोर लिया।
