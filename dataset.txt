@@ -1,15 +1,4 @@
 
-Is this yours, Tom?	Ist das deiner, Tom?	क्या वह आपका, टॉम है?
-Is tomorrow Monday?	Ist morgen Montag?	सोमवार है?
-Is your gun loaded?	Ist deine Pistole geladen?	क्या आपकी पिस्तौल भरी हुई है?
-Is your gun loaded?	Ist Ihre Pistole geladen?	क्या आपकी पिस्तौल भरी हुई है?
-Is your room clean?	Ist dein Zimmer sauber?	क्या आपका कमरा साफ है?
-Is your room clean?	Ist Ihr Zimmer sauber?	क्या आपका कमरा साफ है?
-Is your room clean?	Ist euer Zimmer sauber?	क्या आपका कमरा साफ है?
-Isn't Tom handsome?	Ist Tom nicht schön?	क्या टॉम ब्यूटीफुल नहीं है?
-Isn't Tom with you?	Ist Tom nicht bei dir?	क्या आपके साथ टॉम नहीं है?
-Isn't his name Tom?	Heißt er nicht Tom?	क्या इसका मतलब टॉम नहीं है?
-Isn't his name Tom?	Ist sein Name nicht Tom?	क्या उसका नाम टॉम नहीं है?
 Isn't it delicious?	Ist es nicht lecker?	क्या यह स्वादिष्ट नहीं है?
 Isn't it delicious?	Ist es nicht köstlich?	क्या यह स्वादिष्ट नहीं है?
 Isn't she a doctor?	Ist sie nicht Ärztin?	क्या वह डॉक्टर नहीं है?

@@ -22173,3 +22173,10 @@ Is this your lunch?	Ist das dein Mittagessen?	क्या यह तुम्�
 Is this your money?	Ist das dein Geld?	क्या यह तुम्हारे पैसे हैं?
 Is this your phone?	Ist das dein Telefon?	क्या यह तुम्हारा फोन है?
 Is this your purse?	Ist das deine Tasche?	क्या यह तुम्हारी पर्स है?
+Is this yours, Tom?	Ist das dein, Tom?	क्या यह तुम्हारा है, टॉम?
+Is tomorrow Monday?	Ist morgen Montag?	कल सोमवार है क्या?
+Is your gun loaded?	Ist deine Waffe geladen?	क्या आपका बंदूक लोडेड है?
+Is your room clean?	Ist dein Zimmer sauber?	क्या आपका कमरा साफ है?
+Isn't Tom handsome?	Ist Tom nicht hübsch?	क्या टॉम हस्से नहीं है?
+Isn't Tom with you?	Ist Tom nicht bei dir?	क्या टॉम तुम्हारे साथ नहीं है?
+Isn't his name Tom?	Ist sein Name nicht Tom?	क्या उसका नाम टॉम नहीं है?
