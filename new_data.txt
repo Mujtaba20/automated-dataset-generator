@@ -21447,3 +21447,12 @@ I like this camera.	Ich mag diese Kamera.	मुझे यह कैमरा �
 I like this school.	Ich mag diese Schule.	मुझे यह स्कूल पसंद है।
 I like this statue.	Ich mag diese Statue.	मुझे यह मूर्ति पसंद है।
 I like those shoes.	Ich mag diese Schuhe.	मुझे वे जूते पसंद हैं।
+I like to be early.	Ich mag es früh zu sein.	मुझे जल्दी होना अच्छा लगता है।
+I like to watch TV.	Ich schaue gerne fern.	मुझे टीवी देखना पसंद है।
+I like tomato soup.	Ich mag Tomatensuppe.	मुझे टमाटर सूप पसंद है।
+I like watching TV.	Ich schaue gerne fern.	मुझे टीवी देखना पसंद है।
+I like watching TV. - 2	Ich genieße es, fernzusehen.	मुझे टीवी देखना अच्छा लगता है।
+I like wearing red.	Ich trage gerne Rot.	मुझे लाल रंग पसंद है।
+I like what I like.	Ich mag, was ich mag.	मुझे वह पसंद है जो मुझे पसंद है।
+I like working out.	Ich trainiere gerne.	मुझे कसरत करना पसंद है।
+I like your coffee.	Ich mag deinen Kaffee.	मुझे तुम्हारी कॉफ़ी पसंद है।
