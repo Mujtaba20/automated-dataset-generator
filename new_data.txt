@@ -40400,3 +40400,13 @@ Tom is very efficient.	Tom ist sehr effizient.	टॉम बहुत कुश�
 Tom is very energetic.	Tom ist sehr energiegeladen.	टॉम बहुत ऊर्जावान है।
 Tom is very forgetful.	Tom ist sehr vergesslich.	टॉम बहुत भूलनेवाला है।
 Tom is very impatient.	Tom ist sehr ungeduldig.	टॉम बहुत अप्रतीक्षा करके है।
+Tom is very important.	Tom ist sehr wichtig.	टॉम बहुत महत्वपूर्ण है।
+Tom is very impressed.	Tom ist sehr beeindruckt.	टॉम बहुत प्रभावित है।
+Tom is very impulsive.	Tom ist sehr impulsiv.	टॉम बहुत उतावला है।
+Tom is very inventive.	Tom ist sehr einfallsreich.	टॉम बहुत जुगाड़ू है।
+Tom is very motivated.	Tom ist sehr motiviert.	टॉम बहुत प्रेरित है।
+Tom is very obnoxious.	Tom ist sehr unausstehlich.	टॉम बहुत अशोभनीय है।
+Tom is very organized.	Tom ist sehr organisiert.	टॉम बहुत व्यवस्थित है।
+Tom is very religious.	Tom ist sehr religiös.	टॉम बहुत धार्मिक है।
+Tom is very sarcastic.	Tom ist sehr sarkastisch.	टॉम बहुत तानात्मक है।
+Tom is very sensitive.	Tom ist sehr sensibel.	टॉम बहुत संवेदनशील है।

@@ -1,14 +1,4 @@
 
-Tom is very important.	Tom ist sehr wichtig.	टॉम बहुत महत्वपूर्ण है।
-Tom is very impressed.	Tom ist sehr beeindruckt.	टॉम बहुत प्रभावित है।
-Tom is very impulsive.	Tom ist sehr impulsiv.	टॉम बहुत आवेगी है।
-Tom is very inventive.	Tom ist sehr erfinderisch.	टॉम बहुत आविष्कारशील है।
-Tom is very motivated.	Tom ist sehr motiviert.	टॉम बहुत प्रेरित है।
-Tom is very obnoxious.	Tom ist ziemlich unausstehlich.	टॉम काफी स्पष्ट है।
-Tom is very organized.	Tom ist sehr organisiert.	टॉम बहुत संगठित है।
-Tom is very religious.	Tom ist sehr religiös.	टॉम बहुत धार्मिक है।
-Tom is very sarcastic.	Tom ist sehr sarkastisch.	टॉम बहुत व्यंग्यात्मक है।
-Tom is very sensitive.	Tom ist sehr sensibel.	टॉम बहुत संवेदनशील है।
 Tom is very skeptical.	Tom ist sehr skeptisch.	टॉम बहुत उलझन में है।
 Tom is very talkative.	Tom ist sehr geschwätzig.	टॉम बहुत चटपटा है।
 Tom is very tired now.	Tom ist jetzt sehr müde.	टॉम अब बहुत थक गया है।
