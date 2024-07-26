@@ -1,14 +1,4 @@
 
-Who wrote that book?	Wer hat dieses Buch geschrieben?	यह पुस्तक किसने लिखी?
-Who wrote that book?	Wer schrieb dieses Buch?	यह पुस्तक किसने लिखी?
-Who wrote that poem?	Wer schrieb dieses Gedicht?	यह कविता किसने लिखी?
-Who wrote the Bible?	Wer hat die Bibel geschrieben?	बाइबल किसने लिखी?
-Who wrote this book?	Wer hat dieses Buch geschrieben?	यह पुस्तक किसने लिखी?
-Who wrote this book?	Wer schrieb dieses Buch?	यह पुस्तक किसने लिखी?
-Who wrote this poem?	Wer schrieb dieses Gedicht?	यह कविता किसने लिखी?
-Who wrote this poem?	Wer hat dieses Gedicht verfasst?	यह कविता किसने लिखी?
-Who wrote this poem?	Wer hat dieses Gedicht geschrieben?	यह कविता किसने लिखी?
-Who wrote this poem?	Wer verfasste dieses Gedicht?	यह कविता किसने लिखी?
 Who's Tom afraid of?	Vor wem hat Tom Angst?	टॉम किससे डरता है?
 Who's already awake?	Wer ist schon wach?	कौन पहले से ही जाग रहा है?
 Who's going with me?	Wer kommt mit mir?	मेरे साथ कौन आ रहा है?

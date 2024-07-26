@@ -29983,3 +29983,8 @@ Who stole the apple?	Wer hat den Apfel gestohlen?	सेब किसने च�
 Who thought this up?	Wer hat sich das ausgedacht?	इसे किसने सोचा?
 Who wants ice cream?	Wer möchte Eiscreme?	किसे आइसक्रीम चाहिए?
 Who won the contest?	Wer hat den Wettbewerb gewonnen?	कौन ने प्रतियोगिता जीती?
+Who wrote that book?	Wer hat dieses Buch geschrieben?	उस किताब को किसने लिखा है?
+Who wrote that poem?	Wer hat dieses Gedicht geschrieben?	उस कविता को किसने लिखा है?
+Who wrote the Bible?	Wer hat die Bibel geschrieben?	बाइबल को किसने लिखा है?
+Who wrote this book?	Wer hat dieses Buch verfasst?	यह किताब किसने लिखी है?
+Who wrote this poem?	Wer hat dieses Gedicht verfasst?	यह कविता किसने लिखी है?
