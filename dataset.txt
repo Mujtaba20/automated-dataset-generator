@@ -1,15 +1,4 @@
 
-Do you know the reason?	Weißt du, warum?	आप जानते हैं क्यों?
-Do you know the reason?	Kennst du den Grund?	क्या आप इसका कारण जानते हैं?
-Do you know these guys?	Kennst du die?	क्या तुम मुझसे परिचित हो?
-Do you know what it is?	Weißt du, was es ist?	क्या आप जानते हैं कि यह क्या है!
-Do you know who he was?	Weißt du, wer er war?	क्या आप जानते हैं कि वह कौन था?
-Do you know who she is?	Weißt du, wer sie ist?	क्या आप जानते है कि वह कौन है?
-Do you know who we are?	Weißt du, wer wir sind?	क्या आप जानते हैं कि हम कौन हैं?
-Do you know who we are?	Wisst ihr, wer wir sind?	क्या आप जानते हैं कि हम कौन हैं?
-Do you know who we are?	Wissen Sie, wer wir sind?	क्या आप जानते हैं कि हम कौन हैं?
-Do you like black cats?	Mögen Sie schwarze Katzen?	क्या आपको काली बिल्लियाँ पसंद हैं?
-Do you like black cats?	Magst du schwarze Katzen?	क्या आपको काली बिल्लियाँ पसंद हैं?
 Do you like doing that?	Machst du das gerne?	क्या आप ऐसा करना पसंद करते हैं?
 Do you like doing that?	Machen Sie das gerne?	क्या आप ऐसा करना पसंद करते हैं?
 Do you like doing that?	Macht ihr das gerne?	क्या आप ऐसा करना पसंद करते हैं?
