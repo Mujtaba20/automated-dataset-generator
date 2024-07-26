@@ -1,14 +1,4 @@
 
-I can't face Tom today.	Ich kann Tom heute nicht gegenübertreten.	मैं आज टॉम का सामना नहीं कर सकता।
-I can't find my wallet.	Ich kann meine Brieftasche nicht finden.	मुझे अपना बटुआ नहीं मिल रहा है।
-I can't find my wallet.	Ich kann mein Portemonnaie nicht finden.	मुझे अपना बटुआ नहीं मिल रहा है।
-I can't find the knife.	Ich kann das Messer nicht finden.	मुझे चाकू नहीं मिल रहा है।
-I can't get used to it.	Ich kann mich nicht daran gewöhnen.	मुझे इसकी आदत नहीं है।
-I can't give Tom these.	Die kann ich Tom nicht geben.	मैं उन्हें टॉम नहीं दे सकता।
-I can't give it to Tom.	Ich kann es Tom nicht geben.	मैं इसे टॉम नहीं दे सकता।
-I can't give it to you.	Ich kann es dir nicht geben.	मैं इसे आपको नहीं दे सकता।
-I can't give it to you.	Ich kann es euch nicht geben.	मैं इसे आपको नहीं दे सकता।
-I can't give it to you.	Ich kann es Ihnen nicht geben.	मैं इसे आपको नहीं दे सकता।
 I can't give you these.	Die kann ich dir nicht geben.	मैं इसे आपको नहीं दे सकता।
 I can't give you these.	Die kann ich Ihnen nicht geben.	मैं उन्हें नहीं दे सकता।
 I can't give you these.	Die kann ich euch nicht geben.	मैं इसे आपको नहीं दे सकता।
