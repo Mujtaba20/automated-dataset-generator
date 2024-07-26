@@ -1,14 +1,4 @@
 
-I'm free on Monday.	Am Montag habe ich Zeit.	मेरे पास सोमवार को समय है।
-I'm free on Sunday.	Ich habe am Sonntag Zeit.	मेरे पास रविवार को समय है।
-I'm free on Sunday.	Am Sonntag bin ich frei.	मैं रविवार को स्वतंत्र हूं।
-I'm from Australia.	Ich komme aus Australien.	मैं ऑस्ट्रेलिया से हूँ।
-I'm from Singapore.	Ich komme aus Singapur.	मैं सिंगापुर से आता हूं।
-I'm getting better.	Es geht mir schon besser.	मैं पहले से ही बेहतर महसूस कर रहा हूं।
-I'm getting hungry.	Ich kriege langsam Hunger.	मैं धीरे -धीरे भूखा हो रहा हूं।
-I'm getting hungry.	Ich bekomme langsam Hunger.	मैं धीरे -धीरे भूखा हो रहा हूं।
-I'm giving it back.	Ich gebe es zurück.	मैं इसे वापस देता हूं।
-I'm glad I'm a man.	Ich bin froh, ein Mann zu sein.	मुझे खुशी है कि मैं एक आदमी बनकर खुश हूं।
 I'm glad you agree.	Ich bin froh, dass du zustimmst.	मुझे खुशी है कि आप सहमत हैं।
 I'm going downtown.	Ich gehe in die Stadt.	मैं शहर जाता हूं।
 I'm going for help.	Ich hole Hilfe.	मुझे मदद मिलती है।

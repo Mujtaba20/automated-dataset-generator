@@ -21938,3 +21938,11 @@ I'm drinking juice.	Ich trinke Saft.	मैं जूस पी रहा हू
 I'm drinking water.	Ich trinke Wasser.	मैं पानी पी रहा हूँ।
 I'm eating a donut.	Ich esse einen Donut.	मैं एक डोनट खा रहा हूँ।
 I'm fairly certain.	Ich bin ziemlich sicher.	मुझे खाते वक्त आधा सोना आ जाता है।
+I'm free on Monday.	Ich bin am Montag frei.	मैं सोमवार को फ्री हूँ।
+I'm free on Sunday.	Ich bin am Sonntag frei.	मैं इश्वर को फ्री हूँ।
+I'm from Australia.	Ich komme aus Australien.	मैं ऑस्ट्रेलिया से हूँ।
+I'm from Singapore.	Ich komme aus Singapur.	मैं सिंगापुर से हूँ।
+I'm getting better.	Es geht mir besser.	मैं ठीक हो रहा हूँ।
+I'm getting hungry.	Ich werde hungrig.	मैं पेट भर रहा हूँ।
+I'm giving it back.	Ich gebe es zurück.	मैं इसे वापस दे रहा हूँ।
+I'm glad I'm a man.	Ich bin froh, ein Mann zu sein.	मुझे खुशी है कि मैं एक आदमी हूँ।
