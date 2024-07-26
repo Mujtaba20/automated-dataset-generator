@@ -1,14 +1,4 @@
 
-Tom brought me food.	Tom hat mir etwas zu essen mitgebracht.	टॉम मुझे खाने के लिए कुछ ले आया।
-Tom built a shelter.	Tom hat einen Unterschlupf gebaut.	टॉम ने एक आश्रय का निर्माण किया।
-Tom called for help.	Tom rief um Hilfe.	टॉम ने मदद के लिए बुलाया।
-Tom called me a cab.	Tom rief mir ein Taxi.	टॉम ने मुझे टैक्सी कहा।
-Tom called me a cab.	Tom hat mir ein Taxi gerufen.	टॉम ने मुझे टैक्सी कहा।
-Tom called me names.	Tom hat mir alle möglichen Schimpfwörter an den Kopf geworfen.	टॉम ने मेरे सिर पर सभी प्रकार के शपथ शब्द फेंक दिए।
-Tom called me today.	Tom hat mich heute angerufen.	टॉम ने आज मुझे बुलाया।
-Tom called security.	Tom hat den Sicherheitsdienst gerufen.	टॉम ने सुरक्षा सेवा को बुलाया।
-Tom came about 2:30.	Tom kam gegen 2:30 Uhr.	टॉम 2:30 बजे के आसपास आया था।
-Tom came by earlier.	Tom kam vorhin vorbei.	टॉम पहले आया था।
 Tom came by himself.	Tom kam allein.	टॉम अकेले आए।
 Tom came downstairs.	Tom kam die Treppe herunter.	टॉम सीढ़ियों से नीचे आया।
 Tom came home drunk.	Tom kam betrunken nach Hause.	टॉम नशे में घर आया।

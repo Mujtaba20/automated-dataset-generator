@@ -28571,3 +28571,12 @@ Tom blamed it on me.	Tom gab mir die Schuld daran.	टॉम ने इसे �
 Tom bought a webcam.	Tom kaufte eine Webcam.	टॉम ने वेबकैम खरीदी।
 Tom broke the rules.	Tom brach die Regeln.	टॉम ने नियम तोड़ दिए।
 Tom brought flowers.	Tom brachte Blumen.	टॉम ने फूल लाए।
+Tom brought me food.	Tom brachte mir Essen.	टॉम ने मुझे भोजन लाया।
+Tom built a shelter.	Tom baute einen Unterschlupf.	टॉम ने एक शरणार्थी बनाया।
+Tom called for help.	Tom rief nach Hilfe.	टॉम ने मदद के लिए कॉल किया।
+Tom called me a cab.	Tom rief mir ein Taxi.	टॉम ने मुझे एक कैब बुलाया।
+Tom called me names.	Tom nannte mich Namen.	टॉम ने मुझे नाम दिए।
+Tom called me today.	Tom hat mich heute angerufen.	टॉम ने आज मुझे बुलाया।
+Tom called security.	Tom rief die Sicherheit.	टॉम ने सुरक्षा को बुलाया।
+Tom came about 2:30.	Tom kam gegen 2:30 Uhr.	टॉम लगभग 2:30 बजे आया।
+Tom came by earlier.	Tom kam früher vorbei.	टॉम पहले आया।
