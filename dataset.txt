@@ -1,14 +1,4 @@
 
-Do you have diabetes?	Hast du Diabetes?	क्या आपको मधुमेह है?
-Do you have diabetes?	Habt ihr Diabetes?	क्या आपको मधुमेह है?
-Do you have diabetes?	Haben Sie Diabetes?	क्या आपको मधुमेह है?
-Do you have my money?	Hast du mein Geld?	क्या आपके पास मेरे पैसे हैं?
-Do you have red wine?	Hast du Rotwein?	क्या आपके पास रेड वाइन है?
-Do you have red wine?	Habt ihr Rotwein?	क्या आपके पास रेड वाइन है?
-Do you have red wine?	Haben Sie Rotwein?	क्या आपके पास रेड वाइन है?
-Do you have the book?	Hast du das Buch?	क्या आपके पास किताब है?
-Do you have the keys?	Hast du die Schlüssel?	क्या आपके पास चाबी है?
-Do you jog every day?	Gehst du jeden Tag joggen?	क्या आप हर दिन जॉगिंग करते हैं?
 Do you know Tom well?	Kennst du Tom gut?	क्या आप टॉम को अच्छी तरह से जानते हैं?
 Do you know Tom well?	Kennt ihr Tom gut?	क्या आप टॉम को अच्छी तरह से जानते हैं?
 Do you know Tom well?	Kennen Sie Tom gut?	क्या आप टॉम को अच्छी तरह से जानते हैं?

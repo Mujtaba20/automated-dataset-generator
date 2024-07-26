@@ -30673,3 +30673,9 @@ Do you have any pets?	Hast du Haustiere?	क्या तुम्हारे �
 Do you have any tape?	Hast du Band?	क्या आपके पास कोई टेप है?
 Do you have blankets?	Habt ihr Bettdecken?	क्या तुम्हारे पास कंबल हैं?
 Do you have children?	Hast du Kinder?	क्या आपके यहाँ बच्चे हैं?
+Do you have diabetes?	Hast du Diabetes?	क्या आपको मधुमेह है?
+Do you have my money?	Hast du mein Geld?	क्या आपके पास मेरे पैसे हैं?
+Do you have red wine?	Hast du Rotwein?	क्या आपके पास लाल वाइन है?
+Do you have the book?	Hast du das Buch?	क्या आपके पास किताब है?
+Do you have the keys?	Hast du die Schlüssel?	क्या आपके पास चाबियां हैं?
+Do you jog every day?	Joggen Sie jeden Tag?	क्या आप हर दिन जॉग करते हैं?
