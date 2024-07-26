@@ -1,14 +1,4 @@
 
-Tom wanted revenge.	Tom wollte Rache.	टॉम बदला लेना चाहता था।
-Tom wanted revenge.	Tom wollte Vergeltung.	टॉम जवाबी कार्रवाई करना चाहता था।
-Tom wanted to live.	Tom wollte leben.	टॉम जीना चाहता था।
-Tom wanted to stay.	Tom wollte bleiben.	टॉम रहना चाहता था।
-Tom wanted to work.	Tom wollte arbeiten.	टॉम काम करना चाहता था।
-Tom wants an apple.	Tom möchte einen Apfel.	टॉम एक सेब चाहता है।
-Tom wants an apple.	Tom will einen Apfel haben.	टॉम एक सेब चाहते हैं।
-Tom wants children.	Tom will Kinder.	टॉम बच्चे चाहते हैं।
-Tom wants our help.	Tom braucht unsere Hilfe.	टॉम को हमारी मदद चाहिए।
-Tom wants this one.	Tom will das hier.	टॉम यह चाहता है।
 Tom wants to dance.	Tom will tanzen.	टॉम नृत्य करना चाहता है।
 Tom wants to do it.	Tom will es machen.	टॉम इसे करना चाहता है।
 Tom wants to drive.	Tom möchte fahren.	टॉम ड्राइव करना चाहता है।

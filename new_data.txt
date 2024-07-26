@@ -24049,3 +24049,11 @@ Tom voted for Mary.	Tom stimmte für Mary.	टॉम ने मेरी के 
 Tom waited outside.	Tom wartete draußen.	टॉम बाहर इंतजार कर रहा था।
 Tom wakes up early.	Tom wacht früh auf.	टॉम जल्दी उठ जाता है।
 Tom walked quietly.	Tom ging leise.	टॉम शांति से चला।
+Tom wanted revenge.	Tom wollte Rache.	टॉम बदला चाहता था।
+Tom wanted to live.	Tom wollte leben.	टॉम जीना चाहता था।
+Tom wanted to stay.	Tom wollte bleiben.	टॉम रुकना चाहता था।
+Tom wanted to work.	Tom wollte arbeiten.	टॉम काम करना चाहता था।
+Tom wants an apple.	Tom möchte einen Apfel.	टॉम को एक सेब चाहिए।
+Tom wants children.	Tom möchte Kinder.	टॉम को बच्चे चाहिए।
+Tom wants our help.	Tom möchte unsere Hilfe.	टॉम हमारी मदद चाहता है।
+Tom wants this one.	Tom möchte dieses.	टॉम चाहता है ये वाला।
