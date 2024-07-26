@@ -1,14 +1,4 @@
 
-I'll think about it.	Ich werde daran denken.	मैं इसे याद रखूंगा।
-I'll think about it.	Ich werde darüber nachdenken.	मैं इसके बारे में सोचूंगा।
-I'll think about it.	Ich werde das überdenken.	मैं उस पर पुनर्विचार करूँगा।
-I'll think about it.	Ich überleg’s mir.	मैं इसके बारे में सोचूंगा।
-I'll update it soon.	Ich werde das bald aktualisieren.	मैं जल्द ही इसे अपडेट करूंगा।
-I'm Tom's assistant.	Ich bin Toms Assistent.	मैं टॉम का सहायक हूं।
-I'm Tom's assistant.	Ich bin Toms Assistentin.	मैं टॉम का सहायक हूं।
-I'm Tom's bodyguard.	Ich bin Toms Leibwächter.	मैं टॉम का अंगरक्षक हूं।
-I'm Tom's bodyguard.	Ich bin Toms Leibwächterin.	मैं टॉम का अंगरक्षक हूं।
-I'm a beginner, too.	Auch ich bin ein Anfänger.	मैं भी एक शुरुआत कर रहा हूं।
 I'm a good listener.	Ich bin ein guter Zuhörer.	मैं एक अच्छा श्रोता हूं।
 I'm a good listener.	Ich bin eine gute Zuhörerin.	मैं एक अच्छा श्रोता हूं।
 I'm a light sleeper.	Ich habe einen leichten Schlaf.	मुझे थोड़ी नींद है।

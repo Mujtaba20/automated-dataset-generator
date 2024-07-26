@@ -26969,3 +26969,8 @@ I'll take that risk.	Ich werde dieses Risiko eingehen.	मैं वह जो�
 I'll take this coat.	Ich nehme diesen Mantel.	मैं यह कोट लेंगा।
 I'll take you there.	Ich bringe dich dorthin.	मैं तुम्हें वहाँ ले जाऊंगा।
 I'll tell you later.	Ich werde es dir später sagen.	मैं तुम्हें बाद में बताऊंगा।
+I'll think about it.	Ich werde darüber nachdenken.	मैं इस पर विचार करूंगा।
+I'll update it soon.	Ich werde es bald aktualisieren.	मैं इसे जल्द ही अपडेट कर दूंगा।
+I'm Tom's assistant.	Ich bin Toms Assistent.	मैं टॉम का सहायक हूँ।
+I'm Tom's bodyguard.	Ich bin Toms Leibwächter.	मैं टॉम का बॉडीगार्ड हूँ।
+I'm a beginner, too.	Ich bin auch Anfänger.	मैं भी एक शुरुआत करने वाला हूँ।
