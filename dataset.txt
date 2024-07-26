@@ -1,14 +1,4 @@
 
-Tom doesn't complain.	Tom beklagt sich nicht.	टॉम शिकायत नहीं करता है।
-Tom doesn't do drugs.	Tom nimmt keine Drogen.	टॉम ड्रग्स नहीं लेता है।
-Tom doesn't eat meat.	Tom isst kein Fleisch.	टॉम मांस नहीं खाता।
-Tom doesn't eat much.	Tom isst nicht viel.	टॉम ज्यादा नहीं खाता है।
-Tom doesn't eat pork.	Tom isst kein Schweinefleisch.	टॉम पोर्क नहीं खाता है।
-Tom doesn't get paid.	Tom wird nicht bezahlt.	टॉम का भुगतान नहीं किया जाता है।
-Tom doesn't get this.	Tom versteht das nicht.	टॉम को समझ में नहीं आता है।
-Tom doesn't hate you.	Tom hasst dich nicht.	टॉम आपसे नफरत नहीं करता है।
-Tom doesn't hate you.	Tom hasst Sie nicht.	टॉम उनसे नफरत नहीं करता है।
-Tom doesn't hate you.	Tom hasst euch nicht.	टॉम अपने आप से नफरत नहीं करते।
 Tom doesn't have one.	Tom hat keinen.	टॉम के पास कोई नहीं है।
 Tom doesn't have one.	Tom hat keine.	टॉम के पास कोई नहीं है।
 Tom doesn't have one.	Tom hat keines.	टॉम के पास कोई नहीं है।

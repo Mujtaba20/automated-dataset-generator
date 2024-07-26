@@ -34149,3 +34149,12 @@ Tom died a day later.	Tom starb einen Tag später.	टॉम एक दिन �
 Tom died a happy man.	Tom starb als glücklicher Mensch.	टॉम एक खुश इंसान था जब वह मरा।
 Tom does sloppy work.	Tom macht schlampige Arbeit.	टॉम गंदा काम करता है।
 Tom does study a lot.	Tom lernt viel.	टॉम बहुत पढ़ता है।
+Tom doesn't complain.	Tom beschwert sich nicht.	टॉम शिकायत नहीं करता।
+Tom doesn't do drugs.	Tom nimmt keine Drogen.	टॉम ड्रग्स नहीं करता।
+Tom doesn't eat meat.	Tom isst kein Fleisch.	टॉम मांस नहीं खाता।
+Tom doesn't eat much.	Tom isst nicht viel.	टॉम ज्यादा नहीं खाता।
+Tom doesn't eat pork.	Tom isst kein Schweinefleisch.	टॉम सूअर का मांस नहीं खाता।
+Tom doesn't get paid.	Tom bekommt kein Gehalt.	टॉम को वेतन नहीं मिलता।
+Tom doesn't get this.	Tom versteht das nicht.	टॉम इसे समझ नहीं पाता।
+Tom doesn't hate you.	Tom hasst dich nicht.	टॉम आपसे नफरत नहीं करता।
+Tom doesn't hate you.(Different meaning)	Tom mag dich nicht.	टॉम आपसे नफरत नहीं करता।
