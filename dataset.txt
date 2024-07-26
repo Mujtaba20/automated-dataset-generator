@@ -1,14 +1,4 @@
 
-The plate is dirty.	Der Teller ist schmutzig.	प्लेट गंदी है।
-The pond is frozen.	Der Teich ist zugefroren.	तालाब जमे हुए है।
-The printer jammed.	Der Drucker hatte einen Papierstau.	प्रिंटर में एक पेपर जाम था।
-The race was fixed.	Das Rennen war manipuliert.	दौड़ में हेरफेर किया गया था।
-The road is closed.	Die Straße ist gesperrt.	सड़क बंद है।
-The rock feels wet.	Der Fels fühlt sich nass an.	चट्टान गीली लगती है।
-The room was empty.	Das Zimmer war leer.	कमरा खाली था।
-The room was quiet.	Es war still im Zimmer.	यह कमरे में शांत था।
-The server is down.	Der Server ist ausgefallen.	सर्वर विफल रहा।
-The ship is at sea.	Das Schiff befindet sich auf See.	जहाज समुद्र में है।
 The shirts are dry.	Die Hemden sind trocken.	शर्ट सूखे हैं।
 The signal was red.	Das Signal war rot.	संकेत लाल था।
 The sky brightened.	Der Himmel hellte sich auf.	आकाश उज्ज्वल हो गया।

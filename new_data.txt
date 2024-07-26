@@ -23025,3 +23025,13 @@ The pan is too hot.	Die Pfanne ist zu heiß.	पेन बहुत गरम �
 The paper is white.	Das Papier ist weiß.	कागज सफेद है।
 The park was empty.	Der Park war leer.	पार्क खाली था।
 The parrot is dead.	Der Papagei ist tot.	तोता मर गया है।
+The plate is dirty.	Der Teller ist schmutzig.	प्लेट गंदी है।
+The pond is frozen.	Der Teich ist gefroren.	झील जमी हुई है।
+The printer jammed.	Der Drucker ist eingeklemmt.	प्रिंटर संक्रमित हो गया है।
+The race was fixed.	Das Rennen wurde manipuliert.	रेस ठीक की गई थी।
+The road is closed.	Die Straße ist gesperrt.	सड़क बंद है।
+The rock feels wet.	Der Stein fühlt sich nass an.	पत्थर भीगा हुआ महसूस होता है।
+The room was empty.	Das Zimmer war leer.	कमरा खाली था।
+The room was quiet.	Das Zimmer war ruhig.	कमरा शांत था।
+The server is down.	Der Server ist ausgefallen.	सर्वर डाउन है।
+The ship is at sea.	Das Schiff ist auf See.	जहाज समुंदर में है।
