@@ -40062,3 +40062,12 @@ Tom gritted his teeth.	Tom knirschte mit den Zähnen.	टॉम ने दां
 Tom groomed his horse.	Tom pflegte sein Pferd.	टॉम ने अपने घोड़े की देखभाल की।
 Tom guessed my weight.	Tom errat mein Gewicht.	टॉम ने मेरा वजन मान लिया।
 Tom had a brain tumor.	Tom hatte einen Gehirntumor.	टॉम के पास एक मस्तिष्क गाँठ थी।
+Tom had a bright idea.	Tom hatte eine gute Idee.	टॉम के पास एक उज्जवल विचार था।
+Tom had a good reason.	Tom hatte einen guten Grund.	टॉम के पास एक अच्छा कारण था।
+Tom had a heat stroke.	Tom hatte einen Hitzschlag.	टॉम को लूगर लग गई थी।
+Tom had a hectic week.	Tom hatte eine hektische Woche.	टॉम के पास एक व्यस्त सप्ताह था।
+Tom had a sore throat.	Tom hatte Halsschmerzen.	टॉम को गले में खराश थी।
+Tom had his palm read.	Tom ließ sich die Hand lesen.	टॉम ने अपनी हथेली पढ़वाई।
+Tom had no money left.	Tom hatte kein Geld mehr übrig.	टॉम के पास अब कोई पैसा नहीं था।
+Tom had nothing to do.	Tom hatte nichts zu tun.	टॉम के पास कुछ करने के लिए नहीं था।
+Tom had three of them.	Tom hatte drei von ihnen.	टॉम के पास तीन उनकी थीं।
