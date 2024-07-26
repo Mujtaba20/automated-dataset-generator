@@ -1,14 +1,4 @@
 
-Do you want in on this?	Willst du dabei sein?	क्या आप वहां रहना चाहते हैं?
-Do you want me to come?	Willst Du, dass ich komme?	क्या तुम्हारी इच्छा है कि मैं आऊं?
-Do you want me to sing?	Möchtest du, dass ich singe?	क्या आप मुझे गाना चाहते हैं?
-Do you want me to stop?	Willst du, dass ich aufhöre?	क्या आप रुकना चाहते हैं?
-Do you want me to wait?	Möchten Sie, dass ich warte?	क्या आप इंतजार करना चाहते हैं?
-Do you want me to wait?	Wollt ihr, dass ich warte?	क्या आप इंतजार करना चाहते हैं?
-Do you want me to wait?	Wollen Sie, dass ich warte?	क्या आप इंतजार करना चाहते हैं?
-Do you want me to wait?	Willst du, dass ich warte?	क्या आप इंतजार करना चाहते हैं?
-Do you want more pasta?	Wollt ihr mehr Pasta?	क्या आप अधिक पास्ता चाहते हैं?
-Do you want my opinion?	Möchtest du meine Meinung hören?	क्या आप मेरी राय सुनना चाहते हैं?
 Do you want some candy?	Möchtest du etwas Süßes?	क्या आप कुछ मीठा चाहते हैं?
 Do you want this shirt?	Willst du dieses Hemd?	क्या आप यह शर्ट चाहते हैं?
 Do you want this shirt?	Möchtest du dieses Hemd haben?	क्या आप यह शर्ट रखना चाहेंगे?
