@@ -35135,3 +35135,12 @@ We can do a lot more.	Wir können noch viel mehr tun.	हम बहुत कु
 We can give it a try.	Wir können es versuchen.	हम एक कोशिश कर सकते हैं।
 We can order a pizza.	Wir können eine Pizza bestellen.	हम पिज्जा ऑर्डर कर सकते हैं।
 We can talk about it.	Wir können darüber sprechen.	हम इसके बारे में बात कर सकते हैं।
+We can work this out.	Wir können das schaffen.	हम इसे हल कर सकते हैं।
+We can't afford that.	Das können wir uns nicht leisten.	हम उसका खर्च नहीं कर सकते।
+We can't afford this.	Wir können uns das nicht leisten.	हम इसे अभी नहीं कर सकते।
+We can't do that now.	Das können wir jetzt nicht machen.	हम ऐसा अभी नहीं कर सकते।
+We can't forget that.	Wir können das nicht vergessen.	हम वह भूल नहीं सकते।
+We can't give up now.	Wir können jetzt nicht aufgeben.	हम अब हार नहीं मान सकते।
+We can't let Tom die.	Wir dürfen Tom nicht sterben lassen.	हम टॉम को मरने नहीं दे सकते।
+We can't outrun them.	Wir können sie nicht überholen.	हम उनको पीछे नहीं छोड़ सकते।
+We can't protect Tom.	Wir können Tom nicht beschützen.	हम टॉम की रक्षा नहीं कर सकते।
