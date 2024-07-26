@@ -1,14 +1,4 @@
 
-The automobile stopped.	Das Auto hielt an.	कार रुक गई।
-The baby is called Tom.	Das Baby heißt Tom.	बच्चे को टॉम कहा जाता है।
-The back door was open.	Die Hintertür stand offen.	पीछे का दरवाजा खुला था।
-The baggage is insured.	Das Gepäck ist versichert.	सामान का बीमा किया जाता है।
-The barn door was open.	Das Scheunentor war offen.	खलिहान गेट खुला था।
-The bell rings at noon.	Die Glocke läutet zu Mittag.	दोपहर में घंटी बजती है।
-The boy almost drowned.	Der Junge wäre fast ertrunken.	लड़का लगभग डूब गया होगा।
-The boy almost drowned.	Der Junge wäre beinahe ertrunken.	लड़का लगभग डूब गया।
-The boy is very honest.	Der Junge ist sehr ehrlich.	लड़का बहुत ईमानदार है।
-The boy sat on a chair.	Der Junge saß auf einem Stuhl.	लड़का एक कुर्सी पर बैठा था।
 The boy started to sob.	Der Junge fing an zu schluchzen.	लड़का छटपटाहट शुरू कर दिया।
 The brakes didn't work.	Die Bremsen funktionierten nicht.	ब्रेक काम नहीं किया।
 The brakes didn't work.	Die Bremsen versagten.	ब्रेक विफल रहे।
