@@ -31736,3 +31736,10 @@ I have a red bicycle.	Ich habe ein rotes Fahrrad.	मेरे पास एक 
 I have a reservation.	Ich habe eine Reservierung.	मेरे पास एक आरक्षण है।
 I have a reservation. - Different Meaning	Ich habe eine Buchung.	मेरे पास एक बुकिंग है।
 I have a sharp knife.	Ich habe ein scharfes Messer.	मेरे पास एक तेज चाकू है।
+I have a slight cold.	Ich habe eine leichte Erkältung.	मुझे हल्का जुकाम है।
+I have a small fever.	Ich habe leichtes Fieber.	मुझे थोड़ा बुखार है।
+I have a sore throat.	Ich habe Halsschmerzen.	मुझे गले में दर्द है।
+I have a sore throat. (diff. meaning)	Ich habe Halsweh.	मुझे गले की खराश है।
+I have a stepbrother.	Ich habe einen Stiefbruder.	मेरे पास एक सौतेला भाई है।
+I have a stomachache.	Ich habe Bauchschmerzen.	मुझे पेट दर्द है।
+I have a stomachache. (diff. meaning)	Mir ist schlecht.	मुझे उल्टी आ रही है।

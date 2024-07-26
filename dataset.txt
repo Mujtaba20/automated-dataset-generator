@@ -1,15 +1,4 @@
 
-I have a slight cold.	Ich habe eine leichte Erkältung.	मुझे हल्की ठंड है।
-I have a small fever.	Ich habe leichtes Fieber.	मुझे आसान बुखार है।
-I have a sore throat.	Ich habe Halsweh.	मेरे गले में खराश है।
-I have a sore throat.	Ich habe Halsschmerzen.	मेरे गले में खराश है।
-I have a sore throat.	Ich habe einen wunden Hals.	मेरे पास एक गले में खराश है।
-I have a stepbrother.	Ich habe einen Stiefbruder.	मेरे पास एक सौतेला भाई है।
-I have a stomachache.	Ich leide unter Bauchschmerzen.	मैं पेट में दर्द से पीड़ित हूं।
-I have a stomachache.	Ich habe Bauchschmerzen.	मुझे पेट में दर्द है।
-I have a stomachache.	Mein Bauch schmerzt.	मेरा पेट दर्द करता है।
-I have a stomachache.	Ich habe Bauchweh.	मेरे पेट में दर्द है।
-I have a stomachache.	Ich habe Magenschmerzen.	मेरे पेट में दर्द है।
 I have a sweet tooth.	Ich bin eine Naschkatze.	मैं एक मीठा दाँत हूं।
 I have a sweet tooth.	Ich habe einen süßen Zahn.	मुझे मीठा बहुत पसंद है।
 I have a sweet-tooth.	Ich bin eine Naschkatze.	मैं एक मीठा दाँत हूं।
