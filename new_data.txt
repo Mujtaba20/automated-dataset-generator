@@ -36751,3 +36751,13 @@ He has too much pride.	Er hat zu viel Stolz.	उसमें बहुत अभ
 He hasn't arrived yet.	Er ist noch nicht angekommen.	वह अभी तक नहीं पहुंचा है।
 He hates his neighbor.	Er hasst seinen Nachbarn.	उसे अपने पड़ोसी से नफ़रत है।
 He hit me in the face.	Er hat mich ins Gesicht geschlagen.	उसने मुझे चेहरे पर मारा।
+engSentence1	Er schlug mich auf den Kopf.	उसने मुझे सिर पर मारा।
+engSentence2	Er traf mich auf den Kopf.	उसने मुझे सिर पर मारा।
+engSentence3	Er hat mich auf den Kopf geschlagen.	उसने मुझे सिर पर मारा।
+engSentence4	Er traf mich auf den Kopf.	उसने मुझे सिर पर मारा।
+engSentence5	Er traf ins Schwarze.	उसने बुल्स-आई में मारा।
+engSentence6	Er verletzte seine linke Hand.	उसने अपने बाएं हाथ को चोट पहुंचाई।
+engSentence7	Er ignorierte ihren Rat.	उसने उसकी सलाह को नजरअंदाज किया।
+engSentence8	Er interpretierte für mich.	उसने मेरे लिए भाषांतरित किया।
+engSentence9	Er ist deutscher Herkunft.	वह जन्म से जर्मन है।
+engSentence10	Er ist deutscher Abstammung.	वह जन्म से जर्मन है।
