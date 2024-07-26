@@ -39669,3 +39669,13 @@ They watched intently.	Sie beobachteten aufmerksam.	उन्होंने ध
 They were never alone.	Sie waren nie allein.	वे कभी अकेले नहीं थे।
 They were not pleased.	Sie waren nicht zufrieden.	उन्हें खुशी नहीं हुई।
 They were really cold.	Ihnen war wirklich kalt.	उन्हें सच्ची में ठंड लग रही थी।
+They were unimpressed.	Sie waren unbeeindruckt.	उन्हें प्रभावित नहीं किया गया था।
+They were very hungry.	Sie waren sehr hungrig.	उन्हें बहुत भूख लगी थी।
+They weren't bluffing.	Sie haben nicht geblufft.	उन्होंने झूठ नहीं बोला था।
+They will never agree.	Sie werden niemals zustimmen.	वे कभी सहमत नहीं होंगे।
+They won't believe me.	Sie werden mir nicht glauben.	वे मुझ पर विश्वास नहीं करेंगे।
+They'll look after me.	Sie werden sich um mich kümmern.	वे मेरा ध्यान रखेंगे।
+They'll love that one.	Sie werden das lieben.	उन्हें वह पसंद आएगा।
+They'll never make it.	Sie werden es nie schaffen.	वे कभी नहीं कर पाएंगे।
+They'll understand us.	Sie werden uns verstehen.	वे हमें समझेंगे।
+They're able students.	Sie sind fähige Schüler.	वे सक्षम छात्र हैं।

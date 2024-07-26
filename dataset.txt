@@ -1,14 +1,4 @@
 
-They were unimpressed.	Sie waren unbeeindruckt.	वे अप्रभावित थे।
-They were very hungry.	Sie hatten großen Hunger.	वे भूखे थे।
-They weren't bluffing.	Sie haben keine Vortäuschungen gemacht.	आपने कोई ढोंग नहीं किया है।
-They will never agree.	Sie werden niemals zustimmen.	आप कभी सहमत नहीं होंगे।
-They won't believe me.	Die werden mir nicht glauben.	वे मुझ पर विश्वास नहीं करेंगे।
-They'll look after me.	Sie werden sich um mich kümmern.	तुम मेरा ख्याल रखोगे।
-They'll love that one.	Dieses werden sie gernhaben.	आपको ऐसा करने में खुशी होगी।
-They'll never make it.	Sie werden es nie schaffen.	आप इसे कभी नहीं बनाएंगे।
-They'll understand us.	Sie werden uns verstehen.	आप हमें समझेंगे।
-They're able students.	Sie sind fähige Studenten.	आप सक्षम छात्र हैं।
 They're afraid of Tom.	Sie haben Angst vor Tom.	आप टॉम से डरते हैं।
 They're afraid of him.	Sie haben Angst vor ihm.	आप उससे डरते हैं।
 They're eating apples.	Sie essen Äpfel.	आप सेब खाते हैं।
