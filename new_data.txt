@@ -38273,3 +38273,12 @@ I'm not satisfied yet.	Ich bin noch nicht zufrieden.	मैं अब भी स
 I'm not scared at all.	Ich habe überhaupt keine Angst.	मुझे बिल्कुल भी डर नहीं है।
 I'm not scared of Tom.	Ich habe keine Angst vor Tom.	मुझे टॉम से डर नहीं है।
 I'm not sure about it.	Ich bin mir unsicher.	मुझे इसके बारे में सबकुछ ठीक समझ में नहीं आता।
+I'm not sure actually.	Ich bin mir eigentlich nicht sicher.	मुझे वास्तव में नहीं पता।
+I'm not taking credit.	Ich nehme keine Anerkennung an.	मैं साइकेल नहीं उठाता।
+I'm not that gullible.	Ich bin nicht so leichtgläubig.	मैं वैसा मूर्ख नहीं हूँ।
+I'm not too surprised.	Ich bin nicht allzu überrascht.	मैं बहुत ही चौंका नहीं हूँ।
+I'm not uncomfortable.	Ich fühle mich nicht unwohl.	मैं असहज महसूस नहीं कर रहा हूँ।
+I'm not very athletic.	Ich bin nicht sehr sportlich.	मैं बहुत ही खिलाड़ी नहीं हूँ।
+I'm not wearing socks.	Ich trage keine Socken.	मैं मोजे नहीं पहन रहा हूँ।
+I'm not young anymore.	Ich bin nicht mehr jung.	मैं अब जवान नहीं हूँ।
+I'm not your daughter.	Ich bin nicht deine Tochter.	मैं तुम्हारी बेटी नहीं हूँ।
