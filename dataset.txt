@@ -1,15 +1,4 @@
 
-You've got my helmet.	Du hast meinen Helm.	आपके पास मेरा हेलमेट है।
-You've got to go now.	Du musst jetzt gehen.	अब आपको जाना होगा।
-You've got willpower.	Sie haben Willensstärke.	आपके पास इच्छाशक्ति है।
-You've got willpower.	Ihr habt Willensstärke.	आपके पास इच्छाशक्ति है।
-You've got willpower.	Du hast Willensstärke.	आपके पास इच्छाशक्ति है।
-You've gotten better.	Du bist besser geworden.	आप बेहतर हो गए।
-You've gotten better.	Ihr habt euch gebessert.	आपने सुधार किया।
-You've gotten better.	Sie sind besser geworden.	वे बेहतर हो गए।
-You've hurt me a lot.	Du hast mir sehr weh getan.	आपने वास्तव में मुझे चोट पहुंचाई है।
-You've hurt me a lot.	Sie haben mir sehr weh getan.	उन्होंने मुझे बहुत चोट पहुंचाई।
-You've hurt me a lot.	Ihr habt mir sehr weh getan.	आपने मुझे बहुत चोट पहुंचाई।
 You've misunderstood.	Das hast du missverstanden.	आपने गलत समझा।
 You've never hurt me.	Du hast mir nie wehgetan.	आपने मुझे कभी चोट नहीं पहुंचाई।
 You've put on weight.	Sie haben zugenommen.	आप बढ़ गए हैं।
