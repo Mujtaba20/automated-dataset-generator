@@ -1,14 +1,4 @@
 
-That man has one box.	Der Mann hat eine Schachtel.	आदमी के पास एक बॉक्स है।
-That man has one box.	Der Mann hat eine einzelne Schachtel.	आदमी के पास एक ही बॉक्स है।
-That meat is chicken.	Dieses Fleisch ist Hühnchenfleisch.	यह मांस चिकन मांस है।
-That must be my book.	Das muss mein Buch sein.	यह मेरी किताब है।
-That news got around.	Die Nachricht sprach sich herum.	खबर के आसपास बात की।
-That ship has sailed.	Der Zug ist abgefahren.	ट्रेन छोड़ दी।
-That sounds exciting.	Das klingt aufregend.	रोमांचक लगता है।
-That sounds horrible.	Das klingt entsetzlich.	यह सुनने में भयानक है।
-That sounds like Tom.	Das klingt nach Tom.	यह टॉम की तरह लगता है।
-That sounds like fun.	Das klingt nach Spaß.	यह मजेदार लगता है।
 That sounds sensible.	Das klingt vernünftig.	यह उचित लगता है।
 That sounds terrible.	Das hört sich grausam an.	यह क्रूर लगता है।
 That sounds terrible.	Das klingt furchtbar.	यह सुनने में भयानक है।

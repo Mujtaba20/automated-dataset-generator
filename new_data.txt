@@ -33518,3 +33518,12 @@ That isn't necessary.	Das ist nicht notwendig.	वह जरूरी नही�
 That isn't the issue.	Das ist nicht das Problem.	वह समस्या नहीं है।
 That knife cuts well.	Dieses Messer schneidet gut.	वह चाकू अच्छे से काटता है।
 That looks expensive.	Das sieht teuer aus.	वह महंगा लग रहा है।
+That man has one box.	Jener Mann besitzt eine Schachtel.	उस व्यक्ति के पास एक डिब्बा है।
+That meat is chicken.	Dieses Fleisch ist Hähnchen.	वह मांस मुर्गा है।
+That must be my book.	Das muss mein Buch sein.	वह मेरी किताब होनी चाहिए।
+That news got around.	Diese Nachricht hat sich verbreitet.	वह खबर सारे जगह पहुंच गई है।
+That ship has sailed.	Dieses Schiff ist abgefahren.	वह जहाज चला गया है।
+That sounds exciting.	Das klingt aufregend.	वह बहुत रोमांचक लग रहा है।
+That sounds horrible.	Das klingt furchtbar.	वह भयानक सुनाई दे रहा है।
+That sounds like Tom.	Das hört sich nach Tom an.	वह टॉम की तरह लग रहा है।
+That sounds like fun.	Das klingt nach Spaß.	वह मज़ेदार लग रहा है।
