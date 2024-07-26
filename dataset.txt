@@ -1,14 +1,4 @@
 
-Women like to talk.	Frauen reden gerne.	महिलाओं को बात करना पसंद है।
-Won't you sit down?	Willst du dich nicht setzen?	क्या आप बैठना नहीं चाहते
-Won't you sit down?	Wollt ihr euch nicht setzen?	क्या आप बैठना नहीं चाहते हैं?
-Won't you sit down?	Wollen Sie sich nicht setzen?	क्या आप बैठना नहीं चाहते हैं?
-Would he like that?	Gefiele ihm das?	क्या उसे ऐसा पसंद आया?
-Would that be wise?	Wäre das denn klug?	क्या यह स्मार्ट होगा?
-Would you like ice?	Möchtest du Eis?	क्या आप आइसक्रीम चाहते हैं?
-Would you like ice?	Möchtet ihr Eis?	क्या आप आइसक्रीम पसंद करेंगे?
-Would you like ice?	Möchten Sie Eis?	क्या आप बर्फ पसंद करेंगे?
-Write it in pencil.	Schreib es mit Bleistift!	इसे पेंसिल के साथ लिखें!
 Write me a message.	Schreibe mir eine Nachricht!	मुझे एक संदेश लिखें!
 Write me a message.	Schreiben Sie mir eine Nachricht!	मुझे एक संदेश लिखें!
 Write me a message.	Schreibt mir eine Nachricht!	मुझे एक संदेश लिखें!

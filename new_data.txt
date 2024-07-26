@@ -24797,3 +24797,13 @@ Will it hurt a lot?	Wird es sehr wehtun?	क्या यह बहुत तक
 Will it rain today?	Wird es heute regnen?	क्या आज बारिश होगी?
 Will you help them?	Wirst du ihnen helfen?	क्या तुम उनकी मदद करोगे?
 Wish you were here.	Wünschte du wärst hier.	काश तुम यहाँ होते।
+Women like to talk.	Frauen reden gerne.	महिलाएं बात करने का शौक रखती हैं।
+Won't you sit down?	Würden Sie sich bitte setzen?	क्या आप बैठेंगे?
+Won't you sit down?1	Würden Sie sich bitte setzen?	क्या आप बैठेंगे?
+Won't you sit down?2	Könnten Sie sich setzen?	क्या आप बैठ सकते हैं?
+Would he like that?	Würde er das mögen?	क्या उसे वह पसंद होगा?
+Would that be wise?	Wäre das klug?	क्या यह बुद्धिमानी होगी?
+Would you like ice?	Möchten Sie Eis?	क्या आपको बर्फ पसंद है?
+Would you like ice?1	Wünschen Sie Eis?	क्या आपको बर्फ पसंद है?
+Would you like ice?2	Möchtest du Eis?	क्या तुम्हें बर्फ चाहिए?
+Write it in pencil.	Schreiben Sie es mit einem Bleistift.	इसे पेंसिल में लिखें।
