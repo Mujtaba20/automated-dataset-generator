@@ -25035,3 +25035,11 @@ You've lost weight.	Du hast Gewicht verloren.	तुमने वजन घट�
 You've made my day.	Du hast meinen Tag gemacht.	तुमने मेरा दिन बना दिया।
 Your bath is ready.	Dein Bad ist bereit.	तुम्हारा स्नान तैयार है।
 Your bath is ready. (Different meaning)	Ihr Bad ist fertig.	तुम्हारा स्नान तैयार है। (अलग अर्थ)
+Your breath stinks.	Dein Atem stinkt.	तुम्हारी साँस महकती है।
+Your kids are cute.	Deine Kinder sind niedlich.	तुम्हारे बच्चे प्यारे हैं।
+Your lips are blue.	Deine Lippen sind blau.	तुम्हारे होंठ नीले हैं।
+Your room is dirty.	Dein Zimmer ist schmutzig.	तुम्हारा कमरा गंदा है।
+Your secret's safe.	Dein Geheimnis ist sicher.	तुम्हारा राज़ सुरक्षित है।
+Trust me, he said.	Vertrau mir, sagte er.	मुझपर विश्वास करो, उसने कहा।
+"Who cares? ""I do."""	"Wen interessiert das?" "Ich schon."	"किसे फर्क पड़ता है?" "मुझे पड़ता है।"
+A cold wind blew in.	Ein kalter Wind wehte herein.	एक ठंडी हवा चली आई।
