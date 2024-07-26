@@ -20839,3 +20839,11 @@ He remained silent.	Er blieb still.	वह चुप रहा।
 He seems to be ill.	Er scheint krank zu sein.	लगता है कि वह बीमार है।
 He shaved his head.	Er hat seinen Kopf rasiert.	उसने अपने सिर की बाल काट लिए।
 He should be angry.	Er sollte wütend sein.	उसे गुस्सा होना चाहिए।
+He should thank me.	Er sollte mir danken.	उसे मुझसे धन्यवाद करना चाहिए।
+He showed it to me.	Er hat es mir gezeigt.	उसने मुझे दिखाया।
+He sings very well.	Er singt sehr gut.	वह बहुत अच्छे से गाता है।
+He skipped a grade.	Er hat eine Klasse übersprungen.	उसने एक ग्रेड छोड़ दी।
+He speaks too fast.	Er spricht zu schnell.	वह बहुत तेज़ी से बोलता है।
+He spoke very well.	Er hat sehr gut gesprochen.	उसने बहुत अच्छे से बोला।
+He started singing.	Er fing an zu singen.	उसने गाना शुरू किया।
+He started to sing.	Er begann zu singen.	वह गाने की शुरुआत की।

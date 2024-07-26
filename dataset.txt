@@ -1,14 +1,4 @@
 
-He should thank me.	Er sollte mir danken.	उसे धन्यवाद देना चाहिए।
-He showed it to me.	Er hat es mir gezeigt.	उसने मुझे यह दिखाया।
-He sings very well.	Er singt sehr schön.	वह बहुत अच्छी तरह से गाता है।
-He skipped a grade.	Er hat eine Klasse übersprungen.	उसने एक कक्षा को छोड़ दिया।
-He speaks too fast.	Er spricht zu schnell.	वह बहुत जल्दी बोलता है।
-He spoke very well.	Er sprach sehr gut.	उन्होंने बहुत अच्छी बात की।
-He started singing.	Er fing an zu singen.	उन्होंने गाना शुरू किया।
-He started singing.	Er begann zu singen.	उन्होंने गाना शुरू किया।
-He started to sing.	Er fing an zu singen.	उन्होंने गाना शुरू किया।
-He started to sing.	Er begann zu singen.	उन्होंने गाना शुरू किया।
 He still loves her.	Er liebt sie noch.	वह अभी भी उससे प्यार करता है।
 He still loves her.	Er liebt sie noch immer.	वह अभी भी उससे प्यार करता है।
 He still loves her.	Er liebt sie immer noch.	वह अभी भी उससे प्यार करता है।
