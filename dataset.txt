@@ -1,14 +1,4 @@
 
-It shouldn't matter.	Das sollte egal sein.	इससे कोई फर्क नहीं पड़ता।
-It smells delicious.	Es riecht köstlich.	इससे बहुत अच्छी खुशबू आती है।
-It snowed all night.	Es hat die ganze Nacht geschneit.	पूरी रात बर्फबारी हुई।
-It snowed yesterday.	Gestern hat es geschneit.	कल यह बर्फबारी हुई।
-It tastes very good.	Es schmeckt sehr gut.	इसका स्वाद बहुत अच्छा है।
-It took all evening.	Es dauerte den ganzen Abend.	पूरी शाम ले गई।
-It took all evening.	Es hat den ganzen Abend gedauert.	पूरी शाम ले गई।
-It uses solar power.	Es läuft mit Sonnenenergie.	यह सौर ऊर्जा के साथ चलता है।
-It uses solar power.	Es nutzt Sonnenenergie.	यह सौर ऊर्जा का उपयोग करता है।
-It was a blow to us.	Das war ein Schlag für uns.	यह हमारे लिए एक झटका था।
 It was a busy night.	Es war eine geschäftige Nacht.	यह एक व्यस्त रात थी।
 It was a compromise.	Es war ein Kompromiss.	यह एक समझौता था।
 It was a dark night.	Es war eine stockdunkle Nacht.	यह एक छड़ी अंधेरी रात थी।

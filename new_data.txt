@@ -27326,3 +27326,11 @@ It pays to tip well.	Es lohnt sich, gut zu tippen.	अच्छा टिप द
 It rained all night.	Es hat die ganze Nacht geregnet.	रातभर बारिश हुई थी।
 It rained yesterday.	Gestern hat es geregnet.	कल बारिश हुई थी।
 It serves you right.	Das hast du verdient.	तुम्हारा यह सही है।
+It shouldn't matter.	Es sollte nicht wichtig sein.	यह महत्वपूर्ण नहीं होना चाहिए।
+It smells delicious.	Es riecht köstlich.	यह स्वादिष्ट लग रहा है।
+It snowed all night.	Es schneite die ganze Nacht.	पूरी रात बर्फ गिरी थी।
+It snowed yesterday.	Es hat gestern geschneit.	कल बर्फ गिरी थी।
+It tastes very good.	Es schmeckt sehr gut.	यह बहुत अच्छा है।
+It took all evening.	Es hat den ganzen Abend gedauert.	इसने पूरे शाम का समय लिया।
+It uses solar power.	Es verwendet Solarenergie.	यह सौर ऊर्जा का उपयोग करता है।
+It was a blow to us.	Es war ein Schlag für uns.	यह हमारे लिए एक झटका था।
