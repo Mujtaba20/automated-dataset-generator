@@ -39849,3 +39849,12 @@ Tom arrived very late.	Tom kam sehr spät an.	टॉम बहुत देर �
 Tom arrived yesterday.	Tom ist gestern angekommen.	टॉम कल आया था।
 Tom asked for a raise.	Tom bat um eine Gehaltserhöhung.	टॉम ने एक बढ़ोत्तरी के लिए पूछा।
 Tom asked for my help.	Tom bat um meine Hilfe.	टॉम ने मेरी मदद के लिए पूछा।
+Tom asked me for help.	Tom bat mich um Hilfe.	टॉम ने मुझसे मदद के लिए कहा।
+Tom asked me to dance.	Tom bat mich zu tanzen.	टॉम ने मुझसे नाचने के लिए कहा।
+Tom asked me to do it.	Tom bat mich, es zu tun.	टॉम ने मुझसे यह करने के लिए कहा।
+Tom assumed the worst.	Tom ging vom Schlimmsten aus.	टॉम ने सबसे खराब का अनुमान लगाया।
+Tom ate a quick lunch.	Tom aß ein schnelles Mittagessen.	टॉम ने तेजी से दोपहर का भोजन किया।
+Tom ate all the bacon.	Tom aß den gesamten Speck.	टॉम ने सभी बेकन खाया।
+Tom ate all the bread.	Tom aß alles Brot.	टॉम ने सभी रोटियाँ खाई।
+Tom ate lunch at home.	Tom aß zu Mittag zu Hause.	टॉम ने घर पर दोपहर का भोजन किया।
+Tom ate three cookies.	Tom aß drei Kekse.	टॉम ने तीन कुकीज़ खायी।
