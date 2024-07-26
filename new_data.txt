@@ -37707,3 +37707,12 @@ I must be leaving now.	Ich muss jetzt gehen.	मुझे अब निकलन
 I must get some sleep.	Ich muss schlafen.	मुझे थोड़ी नींद लेनी चाहिए।
 I must have dreamt it.	Ich muss davon geträumt haben.	मुझे इसका सपने में आना चाहिए।
 I must hurry to class.	Ich muss mich beeilen, um zum Unterricht zu kommen.	मुझे कक्षा के लिए जल्दी करनी चाहिए।
+I must know the truth.	Ich muss die Wahrheit wissen.	मुझे सच जानना चाहिए।
+I must repay my debts.	Ich muss meine Schulden zurückzahlen.	मुझे अपने कर्ज चुकाने होंगे।
+I must repay the debt.	Ich muss die Schuld begleichen.	मुझे कर्ज चुकाना है।
+I need Tom on my team.	Ich brauche Tom in meinem Team.	मुझे टॉम की जरूरत है मेरी टीम में।
+I need a bigger chair.	Ich brauche einen größeren Stuhl.	मुझे एक बड़ी कुर्सी की जरूरत है।
+I need a box of nails.	Ich brauche eine Schachtel Nägel.	मुझे एक डिब्बा में कीलों की जरूरत है।
+I need a lot of books.	Ich brauche viele Bücher.	मुझे कई किताबों की जरूरत है।
+I need a new computer.	Ich brauche einen neuen Computer.	मुझे एक नया कंप्यूटर चाहिए।
+I need a new mattress.	Ich brauche eine neue Matratze.	मुझे एक नई गद्दी की जरूरत है।
