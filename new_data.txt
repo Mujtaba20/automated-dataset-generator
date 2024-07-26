@@ -31092,3 +31092,12 @@ He is very depressed.	Er ist sehr deprimiert.	वह बहुत उदास �
 He is wearing gloves.	Er trägt Handschuhe.	वह दस्ताने पहन रहा है।
 He is writing a book.	Er schreibt ein Buch.	वह एक किताब लिख रहा है।
 He is young at heart.	Er ist jung im Herzen.	वह दिल से जवान है।
+He isn't here, is he?	Er ist nicht hier, oder?	वह यहाँ नहीं है, क्या?
+He jumped out of bed.	Er sprang aus dem Bett.	उसने बिस्तर से कूद दिया।
+He knew it all along.	Er wusste die ganze Zeit davon.	उसने सबकुछ जान लिया था।
+He knows how to dive.	Er weiß, wie man taucht.	उसे डाइव करना आता है।
+He knows how to swim.	Er weiß, wie man schwimmt.	उसे तैरना आता है।
+He knows many people.	Er kennt viele Leute.	उन्हें बहुत से लोगों को जानते हैं।
+He knows who you are.	Er weiß, wer du bist.	उसे पता है तुम kaun ho.
+He laid down the gun.	Er legte die Waffe hin.	उसने बंदूक रख दी।
+He laughed nervously.	Er lachte nervös.	उसने चिंतित होकर हँसा।
