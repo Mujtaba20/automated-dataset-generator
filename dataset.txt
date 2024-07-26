@@ -1,14 +1,4 @@
 
-Are you speaking to me?	Sprichst du zu mir?	क्या आप मुझसे बात कर रहे हैं?
-Are you speaking to me?	Redest du mit mir?	क्या आप मुझसे बात कर रहे हैं?
-Are you speaking to me?	Reden Sie mit mir?	क्या आप मुझसे बात करते हैं?
-Are you speaking to me?	Redet ihr mit mir?	क्या आप मुझसे बात करते हैं?
-Are you speaking to me?	Sprechen Sie mit mir?	मुझसे बात करो?
-Are you still together?	Seid ihr noch zusammen?	क्या आप अभी भी एक साथ हैं?
-Are you sure you're OK?	Geht es dir auch ganz bestimmt gut?	क्या आप निश्चित रूप से अच्छा कर रहे हैं?
-Are you threatening me?	Drohst du mir?	क्या आप मुझे धमका रहे हैं?
-Are you threatening me?	Drohen Sie mir?	क्या आप मुझे धमकी देते हैं?
-Are you threatening me?	Droht ihr mir?	क्या आप मुझे धमकी देते हैं?
 Are you very forgetful?	Bist du sehr vergesslich?	क्या आप बहुत भुलक्कड़ हैं?
 Are you wearing gloves?	Trägst du Handschuhe?	क्या आप दस्ताने पहने हुए हैं?
 Are you wearing makeup?	Hast du Make-up an?	क्या आपके पास मेकअप है?
