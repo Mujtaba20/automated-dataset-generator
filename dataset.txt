@@ -1,14 +1,4 @@
 
-You look contented.	Du siehst zufrieden aus.	आप सामग्री दिखते हैं।
-You look contented.	Ihr seht zufrieden aus.	आप संतुष्ट दिखते हैं।
-You look contented.	Sie sehen zufrieden aus.	आप संतुष्ट दिखते हैं।
-You look different.	Du schaust anders aus.	तुम अलग दिख रहे हो।
-You look exhausted.	Du siehst erschöpft aus.	आप थके हुए लगते हैं।
-You look fine, Tom.	Du siehst gut aus, Tom.	तुम अच्छे लगते हो, टॉम।
-You look satisfied.	Sie sehen zufrieden aus.	आप संतुष्ट दिखते हैं।
-You look surprised.	Du siehst überrascht aus.	आप हैरान लग रहे हैं।
-You look surprised.	Sie sehen überrascht aus.	आप हैरान लग रहे हैं।
-You look very busy.	Du siehst sehr beschäftigt aus.	बहुत बिजी लग रही हो।
 You look very good.	Du siehst sehr gut aus.	आप बहुत अछे लगते है।
 You look very good.	Sie sehen sehr gut aus.	आप बहुत अछे लगते है।
 You look very nice.	Du siehst sehr gut aus.	आप बहुत अछे लगते है।
