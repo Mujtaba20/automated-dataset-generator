@@ -1,14 +1,4 @@
 
-Is Tom an eyewitness?	Ist Tom ein Augenzeuge?	क्या टॉम एक प्रत्यक्षदर्शी है?
-Is Tom at school now?	Ist Tom jetzt in der Schule?	क्या अब स्कूल में टॉम है?
-Is Tom at your place?	Ist Tom bei dir?	क्या आपके साथ टॉम है?
-Is Tom at your place?	Ist Tom bei Ihnen?	क्या आपके साथ टॉम है?
-Is Tom at your place?	Ist Tom bei euch?	क्या आपके साथ टॉम है?
-Is Tom available now?	Ist Tom jetzt verfügbar?	क्या अब टॉम उपलब्ध है?
-Is Tom available now?	Steht Tom jetzt zur Verfügung?	क्या अब टॉम उपलब्ध है?
-Is Tom going to jail?	Kommt Tom ins Gefängnis?	क्या टॉम जेल में आता है?
-Is Tom going to live?	Wird Tom leben?	क्या टॉम जीवित रहेगा?
-Is Tom going to live?	Wird Tom am Leben bleiben?	क्या टॉम जीवित रहेगा?
 Is Tom in Boston now?	Ist Tom jetzt in Boston?	क्या टॉम अब बोस्टन में है?
 Is Tom in the garden?	Ist Tom im Garten?	बगीचे में टॉम है?
 Is Tom in your class?	Ist Tom in deinem Kurs?	क्या आपके पाठ्यक्रम में टॉम है?

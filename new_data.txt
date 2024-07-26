@@ -32685,3 +32685,9 @@ Irritating, isn't it?	Ärgerlich, nicht wahr?	यह चिढ़ है, ना
 Is Boston a big city?	Ist Boston eine große Stadt?	क्या बॉस्टन एक बड़ा शहर है?
 Is Mary Tom's mother?	Ist Mary Toms Mutter?	क्या मेरी टॉम की माँ है?
 Is Tom a good person?	Ist Tom ein guter Mensch?	क्या टॉम एक अच्छा आदमी है?
+Is Tom an eyewitness?	Ist Tom ein Augenzeuge?	क्या टॉम एक साक्षी है?
+Is Tom at school now?	Ist Tom jetzt in der Schule?	क्या टॉम अभी स्कूल में है?
+Is Tom at your place?	Ist Tom bei dir?	क्या टॉम तुम्हारे पास है?
+Is Tom available now?	Ist Tom jetzt verfügbar?	क्या टॉम अब उपलब्ध है?
+Is Tom going to jail?	Geht Tom ins Gefängnis?	क्या टॉम को जेल जाना है?
+Is Tom going to live?	Wird Tom leben?	क्या टॉम जीवित रहेगा?
