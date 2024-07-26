@@ -23331,3 +23331,13 @@ Tom blocked my way.	Tom versperrte meinen Weg.	टॉमने मेरी र�
 Tom bought a condo.	Tom kaufte eine Wohnung.	टॉमने एक कंडो खरीदी।
 Tom bought a table.	Tom kaufte einen Tisch.	टॉमने एक मेज़ खरीदी।
 Tom bought flowers.	Tom kaufte Blumen.	टॉमने फूल खरीदे।
+Tom bowed his head.	Tom senkte den Kopf.	टॉम ने अपना सिर झुकाया।
+Tom bowed politely.	Tom verbeugte sich höflich.	टॉम ने शिष्टता पूर्वक झुकाया।
+Tom broke his nose.	Tom brach sich die Nase.	टॉम ने अपने नाक तोड़ ली।
+Tom broke his word.	Tom brach sein Versprechen.	टॉम ने अपना वादा तोड़ दिया।
+Tom broke my heart.	Tom brach mein Herz.	टॉम ने मेरे दिल को तोड़ दिया।
+Tom broke that one.	Tom hat das zerbrochen.	टॉम ने उसे तोड़ दिया।
+Tom burned himself.	Tom hat sich verbrannt.	टॉम ने अपने आप को जलाया।
+Tom called in sick.	Tom rief krank an.	टॉम ने बीमार होकर फोन किया।
+Tom called me back.	Tom hat mich zurückgerufen.	टॉम ने मुझे वापस फोन किया।
+Tom came back soon.	Tom kam bald wieder.	टॉम बहुत जल्द वापस आ गया।
