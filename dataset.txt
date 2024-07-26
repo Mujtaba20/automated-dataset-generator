@@ -1,15 +1,4 @@
 
-Don't take it personal.	Nimm es nicht persönlich.	इसे व्यक्तिगत रूप से न लें।
-Don't take it personal.	Nimm's nicht persönlich.	इसे व्यक्तिगत रूप से न लें।
-Don't take it to heart.	Nimm's dir nicht so zu Herzen.	इसे दिल से मत लो।
-Don't talk to them now.	Sprich sie jetzt nicht an!	अब उससे बात मत करो!
-Don't tell anyone that.	Sag es keinem!	सभी को न बताएं!
-Don't tell anyone this.	Erzähl es keinem!	कोई भी इसे नहीं बताता!
-Don't tell anyone this.	Sage niemandem etwas davon!	कोई भी इसके बारे में नहीं बताता!
-Don't tell me, show me.	Erzähl mir nichts – zeig’s her!	मुझे कुछ भी मत बताओ - इसे दिखाओ!
-Don't tell your mother.	Sage es nicht deiner Mutter!	अपनी माँ को मत बताओ!
-Don't touch the button.	Fass den Knopf nicht an.	बटन न लें।
-Don't touch the button.	Nicht den Knopf anfassen!	बटन को मत छुओ!
 Don't try that at home.	Versuchen Sie das nicht zu Hause!	घर पर कोशिश मत करो!
 Don't try this at home.	Versuche das nicht zu Hause!	घर पर कोशिश मत करो!
 Don't try this at home.	Mach das nicht zu Hause nach!	घर पर ऐसा मत करो!
