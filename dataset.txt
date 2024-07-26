@@ -1,14 +1,4 @@
 
-You're unambitious.	Du hast keinen Ehrgeiz.	आपकी कोई महत्वाकांक्षा नहीं है।
-You're unambitious.	Sie haben keinen Ehrgeiz.	आपकी कोई महत्वाकांक्षा नहीं है।
-You're unambitious.	Ihr habt keinen Ehrgeiz.	आपकी कोई महत्वाकांक्षा नहीं है।
-You're unnecessary.	Du bist entbehrlich.	आप अनावश्यक हैं।
-You're very humble.	Du bist sehr bescheiden.	आप बहुत विनम्र हैं।
-You're very humble.	Ihr seid sehr bescheiden.	आप बहुत विनम्र हैं।
-You're very humble.	Sie sind sehr bescheiden.	वे बहुत विनम्र हैं।
-You're very lonely.	Du bist sehr einsam.	आप बहुत अकेले हैं।
-You're very modest.	Du bist sehr bescheiden.	आप बहुत विनम्र हैं।
-You're very pretty.	Du bist sehr schön.	आप बहुत खूबसूरत हो।
 You're with me, OK?	Du kommst mit mir. Einverstanden?	आप मेरे साथ आओ।मान गया?
 You've already won.	Du hast schon gewonnen.	आप पहले ही जीत चुके हैं।
 You've been warned.	Du bist gewarnt worden.	आपको चेतावनी दी गई है।

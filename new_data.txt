@@ -25012,3 +25012,9 @@ You're the teacher.	Du bist der Lehrer.	तुम शिक्षक हो।
 You're too nervous.	Du bist zu nervös.	तुम बहुत घबराए हो।
 You're turning red.	Du wirst rot.	तुम लाल हो रहे हो।
 You're turning red. (Different Meaning)	Du verfärbst dich rot.	तुम लाल हो जाओ।
+You're unambitious.	Du bist unambitioniert.	तुम अप्रेरित हो।
+You're unnecessary.	Du bist überflüssig.	तुम अक्षम हो।
+You're very humble.	Du bist sehr bescheiden.	तुम बहुत विनम्र हो।
+You're very lonely.	Du bist sehr einsam.	तुम बहुत अकेले हो।
+You're very modest.	Du bist sehr bescheiden.	तुम बहुत विनम्र हो।
+You're very pretty.	Du bist sehr hübsch.	तुम बहुत सुंदर हो।
