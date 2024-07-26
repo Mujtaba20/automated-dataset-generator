@@ -27965,3 +27965,8 @@ She's wearing a hat.	Sie trägt einen Hut.	उसने एक टोपी प�
 Sheep feed on grass.	Schafe fressen Gras.	भेड़ घास खाती है।
 Show me another bag.	Zeigen Sie mir eine andere Tasche.	मुझे एक और थैला दिखाइए।
 Show me the picture.	Zeigen Sie mir das Bild.	मुझे तस्वीर दिखाओ।
+Shut the door tight.	Schließe die Tür fest.	दरवाजा मजबूती से बंद करें।
+Shut up and kiss me.	Sei ruhig und küsse mich.	चुप रहो और मुझे चुम्मा दो।
+Shut your big mouth.	Halte deinen großen Mund.	अपना बड़ा मुँह बंद करो।
+Sign the guest book.	Unterschreiben Sie das Gästebuch.	मेहमानों की किताब पर हस्ताक्षर करें।
+Slice the cucumbers.	Die Gurken schneiden.	खीरे काट लो।
