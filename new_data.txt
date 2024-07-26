@@ -21269,3 +21269,12 @@ I have a fish tank.	Ich habe ein Aquarium.	मेरे पास एक मछ�
 I have a flat tire.	Ich habe einen platten Reifen.	मेरे पास एक फ्लैट टायर है।
 I have a glass eye.	Ich habe ein Glasauge.	मेरे पास एक काँच की आंख है।
 I have a good idea.	Ich habe eine gute Idee.	मेरे पास एक अच्छी विचार है।
+I have a great job.	Ich habe einen tollen Job.	मेरे पास एक महान नौकरी है।
+I have a green car.	Ich habe ein grünes Auto.	मेरे पास एक हरा कार है।
+I have a head cold.	Ich habe eine Erkältung.	मुझे सर्दी है।
+I have a list here.	Ich habe hier eine Liste.	मेरे पास यहाँ एक सूची है।
+I have a lot to do.	Ich habe viel zu tun.	मेरे पास बहुत काम है।
+I have a pain here.	Ich habe hier Schmerzen.	मुझे यहाँ दर्द है।
+I have a small car.	Ich habe ein kleines Auto.	मेरे पास एक छोटी कार है।
+I have a sore head.	Ich habe Kopfschmerzen.	मेरे सर में दर्द है।
+I have a toothache.	Ich habe Zahnschmerzen.	मुझे दांत में दर्द है।
