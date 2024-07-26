@@ -36180,3 +36180,7 @@ Can I open the window?	Kann ich das Fenster öffnen?	क्या मैं ख�
 Can I play some music?	Kann ich etwas Musik spielen?	क्या मैं कुछ संगीत बजा सकता हूँ?
 Can I play you a song?	Kann ich dir ein Lied vorspielen?	क्या मैं तुम्हें एक गाना गा सकता हूँ?
 Can I see you tonight?	Kann ich dich heute Abend sehen?	क्या मैं आपसे आज रात मिल सकता हूँ?
+Can I spend the night?	Kann ich die Nacht hier verbringen?	क्या मैं रात बिता सकता हूँ?
+Can I turn off the TV?	Kann ich den Fernseher ausschalten?	क्या मैं टीवी बंद कर सकता हूँ?
+Can I use your pencil?	Kann ich deinen Bleistift benutzen?	क्या मैं आपका पेंसिल उपयोग कर सकता हूँ?
+Can Tom come tomorrow?	Kann Tom morgen kommen?	क्या टॉम कल आ सकता है?
