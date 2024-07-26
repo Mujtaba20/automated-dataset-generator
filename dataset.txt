@@ -1,14 +1,4 @@
 
-Tom doesn't drink beer.	Tom trinkt kein Bier.	टॉम बीयर नहीं पीता है।
-Tom doesn't drink much.	Tom trinkt nicht viel.	टॉम ज्यादा नहीं पीता है।
-Tom doesn't fear death.	Tom fürchtet sich nicht vor dem Tod.	टॉम मौत से नहीं डरता।
-Tom doesn't fear death.	Tom fürchtet sich nicht vorm Tod.	टॉम मौत से नहीं डरता।
-Tom doesn't have a car.	Tom hat kein Auto.	टॉम के पास कोई कार नहीं है।
-Tom doesn't have a cat.	Tom hat keine Katze.	टॉम के पास कोई बिल्ली नहीं है।
-Tom doesn't have a dad.	Tom hat keinen Vater.	टॉम का कोई पिता नहीं है।
-Tom doesn't have a key.	Tom hat keinen Schlüssel.	टॉम की कोई कुंजी नहीं है।
-Tom doesn't have to go.	Tom muss nicht gehen.	टॉम को जाना नहीं है।
-Tom doesn't know where.	Tom weiß nicht, wo.	टॉम को पता नहीं है कि कहां है।
 Tom doesn't like chess.	Tom mag Schach nicht.	टॉम को शतरंज पसंद नहीं है।
 Tom doesn't like chess.	Tom mag kein Schach.	टॉम को शतरंज पसंद नहीं है।
 Tom doesn't like women.	Tom mag keine Frauen.	टॉम महिलाओं को पसंद नहीं करता है।
