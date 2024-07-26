@@ -29169,3 +29169,13 @@ Tom never confessed.	Tom hat nie gebeichtet.	टॉम कभी इतिरा
 Tom never does that.	Tom tut das nie.	टॉम ऐसा कभी नहीं करता।
 Tom never exercises.	Tom trainiert nie.	टॉम कभी अभ्यास नहीं करता।
 Tom never gets sick.	Tom wird nie krank.	टॉम कभी बीमार नहीं होता।
+Tom never kisses me.	Tom küsst mich nie.	टॉम मुझसे कभी नहीं चुम्मा नहीं लेता।
+Tom never knew that.	Tom wusste das nie.	टॉम कभी नहीं जाना।
+Tom never lost hope.	Tom hat nie die Hoffnung verloren.	टॉमने कभी उम्मीद नहीं हारी।
+Tom never loved you.	Tom hat dich nie geliebt.	टॉमने कभी तुमसे प्यार नहीं किया।
+Tom never recovered.	Tom hat sich nie erholt.	टॉम कभी ठीक नहीं हुआ।
+Tom never said that.	Tom hat das nie gesagt.	टॉमने कभी ऐसा नहीं कहा।
+Tom never showed up.	Tom ist nie aufgetaucht.	टॉमकभी नहीं दिखा।
+Tom never wears red.	Tom trägt nie Rot.	टॉम कभी लाल कपड़े नहीं पहनता।
+Tom nodded approval.	Tom nickte zustimmend.	टॉमने स्वीकृति दी।
+Tom nodded silently.	Tom nickte schweigend.	टॉम चुपचाप सिर हिलाया।
