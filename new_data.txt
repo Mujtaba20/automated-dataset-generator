@@ -35307,3 +35307,11 @@ We're not terrorists.	Wir sind keine Terroristen.	हम आतंकवाद�
 We're not your enemy.	Wir sind nicht dein Feind.	हम तुम्हारे दुश्मन नहीं हैं।
 We're now optimistic.	Wir sind jetzt optimistisch.	हम अब आशावादी हैं।
 We're on the balcony.	Wir sind auf dem Balkon.	हम बालकनी पर हैं।
+We're out of formula.	Wir haben keine Formel mehr.	हमारे पास सूत्र समाप्त हो गया है।
+We're planting seeds.	Wir pflanzen Samen.	हम बीज बो रहे हैं।
+We're protecting you.	Wir schützen dich.	हम आपको सुरक्षित रख रहे हैं।
+We're ready to leave.	Wir sind bereit zu gehen.	हमे जाने के लिए तैयार हैं।
+We're ready, I think.	Wir sind bereit, glaube ich.	मुझे लगता है हम तैयार हैं।
+We're really married.	Wir sind wirklich verheiratet.	हम सच्चे में शादीशुदा हैं।
+We're soccer players.	Wir sind Fußballspieler.	हम फुटबॉल खिलाड़ी हैं।
+We're sorry about it.	Es tut uns leid dafür.	हमें इस बारे में खेद है।
