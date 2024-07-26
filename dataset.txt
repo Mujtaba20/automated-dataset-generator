@@ -1,14 +1,4 @@
 
-I am better than you.	Ich bin besser als du.	मैं आप से बेहतर हुँ।
-I am building a wall.	Ich baue eine Mauer.	मैं एक दीवार का निर्माण करता हूं।
-I am counting on you.	Ich verlasse mich auf dich.	मैं तुम पर भरोसा कर रहा हूँ।
-I am counting on you.	Ich zähle auf dich.	मैं तुम पर भरोसा करता हुँ।
-I am counting on you.	Ich zähle auf Sie.	मैं तुम पर भरोसा करता हुँ।
-I am counting on you.	Ich zähle auf euch.	मैं तुम पर भरोसा करता हुँ।
-I am driving a truck.	Ich fahre einen Lastwagen.	मैं एक ट्रक चलाता हूं।
-I am eating an apple.	Ich esse einen Apfel.	मैं सेब खाता हूं।
-I am fan of football.	Ich bin Fußballbegeisterter.	मैं एक फुटबॉल उत्साही हूं।
-I am fond of reading.	Ich lese gerne.	मुझे पढ़ना पसंद है।
 I am getting dressed.	Ich ziehe mich an.	मैं तैयार हो गया।
 I am getting dressed.	Ich kleide mich an.	मैं स्वयं परिधान पहनता हूं।
 I am glad to see her.	Ich bin froh, sie zu sehen.	मैं तुम्हें देख कर खुश हूँ।

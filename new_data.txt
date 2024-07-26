@@ -31379,3 +31379,10 @@ I am a stranger here.	Ich bin ein Fremder hier.	मैं यहाँ पर �
 I am afraid of bears.	Ich habe Angst vor Bären.	मुझे भालू से डर लगता है।
 I am afraid of dying.	Ich habe Angst zu sterben.	मुझे मरने से डर लगता है।
 I am an entrepreneur.	Ich bin ein Unternehmer.	मैं एक उद्यमिता हूँ।
+I am better than you.	Ich bin besser als du.	मैं तुमसे बेहतर हूँ।
+I am building a wall.	Ich baue eine Mauer.	मैं एक दीवार बना रहा हूँ।
+I am counting on you.	Ich zähle auf dich.	मैं तुम पर निर्भर हूँ।
+I am driving a truck.	Ich fahre einen Lastwagen.	मैं ट्रक चला रहा हूँ।
+I am eating an apple.	Ich esse einen Apfel.	मैं एक सेब खा रहा हूँ।
+I am fan of football.	Ich bin Fußballfan.	मैं फुटबॉल का प्रशंसक हूँ।
+I am fond of reading.	Ich lese gerne.	मुझे पढ़ने का शौक है।
