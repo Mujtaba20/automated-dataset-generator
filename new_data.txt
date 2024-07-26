@@ -31165,3 +31165,11 @@ He showed me the way.	Er zeigte mir den Weg.	उसने मुझे रास
 He sketched an apple.	Er skizzierte einen Apfel.	उसने एक सेब का ड्राइंग बनाया।
 He slipped me a note.	Er steckte mir einen Zettel zu.	उसने मुझे एक नोट दिया।
 He spoke very loudly.	Er sprach sehr laut.	वह बहुत जोर से बोला।
+He suddenly fell ill.	Er fiel plötzlich krank.	उसे अचानक बीमार पड़ने लगा।
+He survived his wife.	Er überlebte seine Frau.	उसने अपनी पत्नी को बचा लिया।
+He talked to himself.	Er unterhielt sich mit sich selbst.	उसने खुद से बात की।
+He talks to me a lot.	Er spricht viel mit mir.	वह मुझसे बहुत बात करता है।
+He tells a good joke.	Er erzählt einen guten Witz.	उसने एक अच्छा जोक कहा।
+He thinks I love her.	Er denkt, ich liebe sie.	वह समझता है कि मैं उसे प्यार करता हूँ।
+He told him to study.	Er sagte ihm, dass er studieren soll.	उसने उससे कहा कि वह पढ़ाई करे।
+He told me the truth.	Er sagte mir die Wahrheit.	उसने मुझे सच्चाई बताई।
