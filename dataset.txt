@@ -1,14 +1,4 @@
 
-I can get it from Tom.	Ich kann es von Tom bekommen.	मैं इसे टॉम से प्राप्त कर सकता हूं।
-I can get it from Tom.	Ich kann sie von Tom bekommen.	मैं उसे टॉम से प्राप्त कर सकता हूं।
-I can hardly hear you.	Ich kann dich kaum verstehen.	मैं शायद ही आपको समझ सकता हूं।
-I can hardly hear you.	Ich kann Sie kaum verstehen.	मैं शायद ही उसे समझ सकता हूं।
-I can hardly hear you.	Ich kann Sie kaum hören.	मैं शायद ही उसे सुन सकता हूं।
-I can hardly hear you.	Ich kann euch kaum hören.	मैं शायद ही आपको सुन सकता हूं।
-I can hardly stand it.	Ich kann es kaum ertragen.	मैं शायद ही इसे खड़ा कर सकता हूं।
-I can hardly stand it.	Ich kann es kaum aushalten.	मैं शायद ही इसे खड़ा कर सकता हूं।
-I can open the window.	Ich kann das Fenster öffnen.	मैं खिड़की खोल सकता हूं।
-I can open the window.	Ich kann das Fenster aufmachen.	मैं खिड़की खोल सकता हूं।
 I can plead ignorance.	Ich kann mich auf Unkenntnis berufen.	मैं अज्ञान पर भरोसा कर सकता हूं।
 I can plead ignorance.	Ich kann mich auf Unwissenheit berufen.	मैं अज्ञान पर भरोसा कर सकता हूं।
 I can prove it to you.	Ich kann es dir beweisen.	मैं इसे आपको साबित कर सकता हूं।

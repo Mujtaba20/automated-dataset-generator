@@ -37141,3 +37141,7 @@ I can do magic tricks.	Ich kann Zaubertricks machen.	मैं जादu के
 I can do without this.	Ich kann darauf verzichten.	मुझे इसके बिना भी कर लेना चाहिए।
 I can barely stand up.1	Ich kann mich kaum aufrecht halten.	मैं मुश्किल से खोड़ा उठ सकता हूँ।
 I can do it by myself.1	Ich schaffe es alleine.	मैं खुद ही कर लूंगा।
+I can get it from Tom.	Ich kann es von Tom erhalten.	मैं तोम से यह प्राप्त कर सकता हूँ।
+I can hardly hear you.	Ich kann dich fast nicht hören.	मैं तुम्हें लगभग सुन नहीं सकता।
+I can hardly stand it.	Es ist kaum zum Aushalten für mich.	मुझसे यह सहन करना मुश्किल है।
+I can open the window.	Ich kann das Fenster öffnen.	मैं खिड़की खोल सकता हूँ।
