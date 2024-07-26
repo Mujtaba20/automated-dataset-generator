@@ -1,15 +1,4 @@
 
-You should leave now.	Du solltest nun gehen.	अब आपको जाना चाहिए।
-You should marry Tom.	Du solltest Tom heiraten.	आपको टॉम से शादी करनी चाहिए।
-You should phone Tom.	Du solltest Tom anrufen.	आपको टॉम को फोन करना चाहिए।
-You should phone Tom.	Sie sollten Tom anrufen.	आपको टॉम को फोन करना चाहिए।
-You should phone Tom.	Ihr solltet Tom anrufen.	आपको टॉम को फोन करना चाहिए।
-You should play golf.	Du solltest Golf spielen.	आपको गोल्फ खेलना चाहिए।
-You should read more.	Du solltest mehr lesen.	आपको और पढ़ना चाहिए।
-You should read this.	Du solltest das lesen.	आपको वह पढ़ना चाहिए।
-You should stop that.	Du solltest damit aufhören.	तुम्हें रुकना चाहिए।
-You should try it on.	Du solltest es mal anprobieren!	आपको इस पर कोशिश करनी चाहिए!
-You should try it on.	Sie sollten es mal anprobieren!	आपको इस पर कोशिश करनी चाहिए!
 You should win today.	Du solltest heute gewinnen.	आपको आज जीतना चाहिए।
 You should work hard.	Du musst fleißig arbeiten.	आपको मेहनत करना होगी।
 You should work hard.	Ihr solltet hart arbeiten.	आपको कड़ी मेहनत करनी चाहिए।

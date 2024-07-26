@@ -35866,3 +35866,13 @@ You seem pretty busy.	Du machst einen ziemlich beschäftigten Eindruck.	तु�
 You should apologize.	Einen Entschuldigung ist angebracht.	तुम्हें इसके लिए माफ़ी मांगनी चाहिए।
 You should know that.	Du solltest das wissen.	तुम्हें यह जानना चाहिए।
 You should know this.	Das sollte man wissen.	इसे जानना चाहिए।
+You should leave now.	Du solltest jetzt gehen.	तुम्हें अब चले जाना चाहिए।
+You should marry Tom.	Du solltest Tom heiraten.	तुम्हें टॉम से शादी करनी चाहिए।
+You should phone Tom.	Du solltest Tom anrufen.	तुम्हें टॉम को फोन करना चाहिए।
+You should phone Tom. - Revised	Sie sollten Tom anrufen.	आपको टॉम को फोन करना चाहिए।
+You should phone Tom. - Updated	Ihr solltet Tom anrufen.	आपको टॉम को फोन करना चाहिए।
+You should play golf.	Du solltest Golf spielen.	तुम्हें गोल्फ खेलना चाहिए।
+You should read more.	Du solltest mehr lesen.	तुम्हें अधिक पढ़ना चाहिए।
+You should read this.	Du solltest das lesen.	तुम्हें यह पढ़ना चाहिए।
+You should stop that.	Du solltest das stoppen.	तुम्हें उसे रोकना चाहिए।
+You should try it on.	Du solltest es anprobieren.	तुम्हें इसे पहनकर देखना चाहिए।
