@@ -25270,3 +25270,9 @@ Did Tom hurt anyone?	Hat Tom jemanden verletzt?	क्या टॉमने क
 Did Tom leave early?	Ist Tom früh gegangen?	क्या टॉम जल्दी चला गया?
 Did Tom lie to Mary?	Hat Tom Maria angelogen?	क्या टॉमने मेरी से झूठ बोला?
 Did Tom like Boston?	Hat Tom Boston gemocht?	क्या टॉमने बोस्टन पसंद किया?
+Did Tom purchase it?	Hat Tom es gekauft?	क्या टॉमने यह खरीदा है?
+Did Tom talk to you?	Hat Tom mit dir gesprochen?	क्या टॉमने तुमसे बात की है?
+Did Tom tell anyone?	Hat Tom es jemandem gesagt?	क्या टॉमकिसी को बताया?
+Did Tom yell at you?	Hat Tom dich angeschrien?	क्या टॉमने तुमसे चिल्लाया?
+Did anybody see you?	Hat dich jemand gesehen?	क्या किसीने तुम्हें देखा है?
+Did anyone tell Tom?	Hat es jemand Tom gesagt?	क्या किसीने टॉमको बताया?

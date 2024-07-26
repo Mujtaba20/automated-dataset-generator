@@ -1,14 +1,4 @@
 
-Did Tom purchase it?	Hat Tom das erworben?	क्या टॉम ने उसे हासिल किया?
-Did Tom talk to you?	Hat Tom mit dir gesprochen?	क्या टॉम ने आपसे बात की?
-Did Tom talk to you?	Hat Tom mit euch gesprochen?	क्या टॉम ने आपसे बात की है?
-Did Tom talk to you?	Hat Tom mit Ihnen gesprochen?	क्या टॉम ने आपसे बात की?
-Did Tom tell anyone?	Hat Tom es jemandem gesagt?	क्या टॉम ने किसी को बताया?
-Did Tom yell at you?	Hat Tom dich angeschrien?	क्या टॉम आप पर चिल्लाया है?
-Did Tom yell at you?	Hat Tom euch angeschrien?	क्या टॉम आप पर चिल्लाया है?
-Did Tom yell at you?	Hat Tom Sie angeschrien?	क्या टॉम उस पर चिल्लाया है?
-Did anybody see you?	Hat euch irgendwer gesehen?	क्या किसी ने आपको देखा?
-Did anyone tell Tom?	Hat es jemand Tom gesagt?	क्या किसी ने कहा है?
 Did everybody leave?	Sind alle gegangen?	क्या सब लोग गए?
 Did they come today?	Sind sie heute gekommen?	क्या आप आज आए थे?
 Did they understand?	Haben sie es verstanden?	क्या आपको यह समझ में आया?
