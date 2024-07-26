@@ -23077,3 +23077,11 @@ There's still time.	Es ist noch Zeit.	अभी भी समय है।
 These are my books.	Dies sind meine Bücher.	ये मेरी किताबें हैं।
 These are our kids.	Das sind unsere Kinder.	ये हमारे बच्चे हैं।
 These aren't words.	Das sind keine Worte.	ये शब्द नहीं हैं।
+These belong to me.	Diese gehören mir.	ये मेरे हैं।
+These came for you.	Diese kamen für dich.	ये तुम्हारे लिए आए।
+These cars are big.	Diese Autos sind groß.	ये कारें बड़ी हैं।
+These dogs are big.	Diese Hunde sind groß.	ये कुत्ते बड़े हैं।
+They abandoned Tom.	Sie haben Tom verlassen.	उन्होंने टॉम को छोड़ दिया।
+They adopted a kid.	Sie haben ein Kind adoptiert.	उन्होंने एक बच्चे को गोद लिया।
+They all have come.	Sie sind alle gekommen.	सभी आ चुके हैं।
+They all looked up.	Sie alle schauten nach oben.	सभी ऊपर देख रहे थे।
