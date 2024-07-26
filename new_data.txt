@@ -26129,3 +26129,13 @@ I can't see anybody.	Ich sehe niemanden.	मैं किसी को भी �
 I can't see you now.	Ich kann dich jetzt nicht sehen.	मैं अभी तुम्हें नहीं देख सकता।
 I can't stop crying.	Ich kann nicht aufhören zu weinen.	मैं रोना नहीं रुक सकता।
 I can't swim at all.	Ich kann überhaupt nicht schwimmen.	मैं बिल्कुल तैरने में सक्षम नहीं हूँ।
+I can't swim either.	Ich kann auch nicht schwimmen.	मैं भी तैर नहीं सकता।
+I can't talk to Tom.	Ich kann nicht mit Tom reden.	मैं टॉम से नहीं बात कर सकता।
+I cannot follow you.	Ich kann dir nicht folgen.	मैं तुम्हारा पीछा नहीं कर सकता।
+I caught three fish.	Ich habe drei Fische gefangen.	मैंने तीन मछलियाँ पकड़ीं।
+I certainly hope so.	Ich hoffe wirklich, dass dem so ist.	मुझे निश्चित रूप से उम्मीद है।
+I cleaned the house.	Ich habe das Haus geputzt.	मैंने घर को साफ किया।
+I cleared the table.	Ich habe den Tisch abgeräumt.	मैंने मेज साफ की।
+I collect postcards.	Ich sammle Postkarten.	मैं पोस्टकार्ड एकत्र करता हूँ।
+I come home at 2:30.	Ich komme um 2:30 Uhr nach Hause.	मैं 2:30 बजे घर आता हूँ।
+I completely forgot.	Ich habe vollständig vergessen.	मैं पूरी तरह भूल गया।
