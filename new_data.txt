@@ -36194,3 +36194,9 @@ Can we lock this door?	Können wir diese Tür abschließen?	क्या हम 
 Can we meet on Monday?	Können wir uns am Montag treffen?	क्या हम सोमवार को मिल सकते हैं?
 Can we meet somewhere?	Können wir uns irgendwo treffen?	क्या हम किसी जगह मिल सकते हैं?
 Can we take Tom alive?	Können wir Tom lebend nehmen?	क्या हम टॉम को जिंदा ले सकते हैं?
+Can we try this again?	Können wir das noch einmal versuchen?	क्या हम फिर से यह कर सकते हैं?
+Can you call for help?	Kannst du um Hilfe rufen?	क्या आप मदद के लिए कॉल कर सकते हैं?
+Can you come tomorrow?	Kannst du morgen kommen?	क्या तुम कल आ सकते हो?
+Can you do handstands?	Kannst du Handstände machen?	क्या आप हैंडस्टैंड कर सकते हैं?
+Can you do me a favor?	Kannst du mir einen Gefallen tun?	क्या आप मेरे लिए एक इच्छापूर्ण कार्य कर सकते हैं?
+Can you do that again?	Kannst du das nochmal machen?	क्या तुम उसे फिर से कर सकते हो?
