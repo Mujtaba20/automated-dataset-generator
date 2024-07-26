@@ -37277,3 +37277,13 @@ I don't have a pencil.	Ich habe keinen Bleistift.	मेरे पास एक 
 I don't have a sister.	Ich habe keine Schwester.	मेरी एक बहन नहीं है।
 I don't have a system.	Ich habe kein System.	मेरे पास कोई सिस्टम नहीं है।
 I don't have a ticket.	Ich habe keine Fahrkarte.	मेरे पास टिकट नहीं है।
+I don't have an alibi.	Ich habe kein Alibi.	मेरे पास कोई गवाही नहीं है।
+I don't have any cash.	Ich habe kein Bargeld.	मेरे पास कोई नकद नहीं है।
+I don't have any cats.	Ich habe keine Katzen.	मेरे पास कोई बिल्लियाँ नहीं हैं।
+I don't have any cows.	Ich habe keine Kühe.	मेरे पास कोई गाएं नहीं हैं।
+I don't have any debt.	Ich habe keine Schulden.	मेरे पास कोई ऋण नहीं है।
+I don't have any kids.	Ich habe keine Kinder.	मेरे पास कोई बच्चे नहीं हैं।
+I don't have any pens.	Ich habe keine Stifte.	मेरे पास कोई पेन नहीं है।
+I don't have anything.	Ich habe nichts.	मेरे पास कुछ नहीं है।
+I don't have children.	Ich habe keine Kinder.	मेरे पास बच्चे नहीं हैं।
+I don't have freckles.	Ich habe keine Sommersprossen.	मेरे पास मुझपे कोई तिलक नहीं है।

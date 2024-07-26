@@ -1,14 +1,4 @@
 
-I don't have an alibi.	Ich habe kein Alibi.	मेरे पास एक एलबी नहीं है।
-I don't have any cash.	Ich habe kein Bargeld.	मेरे पास कोई नकदी नहीं है।
-I don't have any cats.	Ich habe keine Katzen.	मेरे पास कोई बिल्ली नहीं है।
-I don't have any cows.	Ich habe keine Kühe.	मेरे पास कोई गाय नहीं है।
-I don't have any debt.	Ich habe keine Schulden.	मेरे पास कोई ऋण नहीं है।
-I don't have any kids.	Ich habe keine Kinder.	मुझे बच्चे नहीं है।
-I don't have any pens.	Ich habe keine Stifte.	मेरे पास कोई पेन नहीं है।
-I don't have anything.	Ich habe nichts.	मेरे पास कुछ भी नहीं है।
-I don't have children.	Ich habe keine Kinder.	मुझे बच्चे नहीं है।
-I don't have freckles.	Ich habe keine Sommersprossen.	मेरे पास कोई झाई नहीं है।
 I don't have the time.	Ich habe keine Zeit dafür.	मेरे पास उसके लिए कोई समय नहीं है।
 I don't have time now.	Ich habe jetzt keine Zeit.	मेरे पास अब समय नहीं है।
 I don't have time now.	Ich habe nun keine Zeit.	मेरे पास अब समय नहीं है।
