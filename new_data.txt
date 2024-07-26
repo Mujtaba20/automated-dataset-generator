@@ -24812,3 +24812,8 @@ You are impossible.	Du bist unmöglich.	तुम असंभाव्य ह�
 You are overworked.	Du bist überarbeitet.	आप परिश्रमित हैं।
 You are the doctor.	Sie sind Ärztin.	तुम डॉक्टर हो।
 You are under oath.	Du stehst unter Eid.	तुम शपथ के तहत हो।
+You are very brave.	Sie sind sehr tapfer.	तुम बहुत बहादुर हो।
+You are very smart.	Du bist sehr schlau.	तुम बहुत होशियार हो।
+You aren't invited.	Sie sind nicht eingeladen.	तुम्हें नहीं बुलाया गया।
+You aren't looking.	Du schaust nicht.	तुम नहीं देख रहे हो।
+You broke my heart.	Du hast mir das Herz gebrochen.	तुमने मेरा दिल तोड़ दिया।

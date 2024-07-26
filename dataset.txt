@@ -1,14 +1,4 @@
 
-You are very brave.	Du bist sehr tapfer.	आप बहुत बहादुर हैं।
-You are very brave.	Ihr seid sehr mutig.	आप बहुत बहादुर हैं।
-You are very brave.	Sie sind sehr mutig.	वे बहुत बहादुर हैं।
-You are very brave.	Du bist sehr mutig.	आप बहुत बहादुर हैं।
-You are very brave.	Sie sind sehr tapfer.	वे बहुत बहादुर हैं।
-You are very smart.	Ihr seid sehr klug.	आप बहुत तेज हैं।
-You aren't invited.	Du bist nicht eingeladen.	आपको आमंत्रित नहीं किया जाता है।
-You aren't invited.	Sie sind nicht eingeladen.	आपको आमंत्रित नहीं किया जाता है।
-You aren't looking.	Du schaust nicht hin.	तुम नहीं देखो।
-You broke my heart.	Du hast mir das Herz gebrochen.	तुमने मेरा दिल तोड़ दिया।
 You broke the rule.	Du hast die Regel gebrochen.	आपने नियम तोड़ दिया।
 You broke the rule.	Ihr habt die Regel gebrochen.	आपने नियम तोड़ दिया।
 You broke the rule.	Sie haben die Regel gebrochen.	आपने नियम तोड़ दिया।
