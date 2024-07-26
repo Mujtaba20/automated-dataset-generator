@@ -38048,3 +38048,11 @@ I wish that were true.	Ich wünschte, das wäre wahr.	मैं चाहता 
 I wish we'd done that.	Ich wünschte, wir hätten das gemacht.	मैं चाहता था कि हमने वह किया होता।
 I wish you could stay.	Ich wünschte, du könntest bleiben.	मैं चाहता हूँ कि तुम रुक सको।
 I wish you were wrong.	Ich wünschte, du hättest unrecht.	मैं चाहता हूँ कि तुम गलत हो।
+I wish you'd trust me.	Ich wünschte, du würdest mir vertrauen.	मुझ पर भरोसा करते हो।
+I won fair and square.	Ich habe fair und ehrlich gewonnen.	मैंने ईमानदारी से और संजीवनी भावना के साथ जीती।
+I won't do that again.	Ich werde das nicht noch einmal tun.	मैं यह फिर से नहीं करूँगा।
+I won't do this again.	Ich werde das nicht wieder tun.	मैं यह फिर से नहीं करूँगा।
+I won't get into that.	Ich werde mich nicht darauf einlassen.	मैं उसमें पड़ने नहीं दूँगा।
+I won't go back there.	Ich werde nicht dorthin zurückgehen.	मैं वहाँ वापस नहीं जाऊंगा।
+I won't let you do it.	Ich werde dich nicht lassen, es zu tun.	मैं तुम्हें यह करने नहीं दूँगा।
+I won't pay this bill.	Ich werde diese Rechnung nicht bezahlen.	मैं इस बिल का भुगतान नहीं करूँगा।
