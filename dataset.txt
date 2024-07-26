@@ -1,14 +1,4 @@
 
-Tom has a Japanese car.	Tom hat ein japanisches Auto.	टॉम की एक जापानी कार है।
-Tom has a bad headache.	Tom hat starke Kopfschmerzen.	टॉम में गंभीर सिरदर्द हैं।
-Tom has a crush on you.	Tom ist in dich verliebt.	टॉम आपके साथ प्यार में है।
-Tom has a drug problem.	Tom hat ein Drogenproblem.	टॉम को एक दवा की समस्या है।
-Tom has a good job now.	Tom hat jetzt eine gute Arbeit.	टॉम के पास अब अच्छी नौकरी है।
-Tom has a half-brother.	Tom hat einen Halbbruder.	टॉम में एक आधा -ब्रोथर है।
-Tom has a little money.	Tom hat ein bisschen Geld.	टॉम के पास थोड़ा पैसा है।
-Tom has a lot of books.	Tom hat eine Menge Bücher.	टॉम के पास बहुत सारी किताबें हैं।
-Tom has a lot of debts.	Tom hat viele Schulden.	टॉम के कई ऋण हैं।
-Tom has a lot of money.	Tom hat viel Geld.	टॉम के पास बहुत पैसा है।
 Tom has a lot to learn.	Tom hat viel zu lernen.	टॉम को सीखने के लिए बहुत कुछ है।
 Tom has a pickup truck.	Tom hat einen Pick-up.	टॉम के पास एक पिक-अप है।
 Tom has a pocket watch.	Tom hat eine Taschenuhr.	टॉम के पास एक पॉकेट वॉच है।
