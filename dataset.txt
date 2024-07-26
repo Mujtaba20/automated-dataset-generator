@@ -1,14 +1,4 @@
 
-Who's Tom afraid of?	Vor wem hat Tom Angst?	टॉम किससे डरता है?
-Who's already awake?	Wer ist schon wach?	कौन पहले से ही जाग रहा है?
-Who's going with me?	Wer kommt mit mir?	मेरे साथ कौन आ रहा है?
-Who's on duty today?	Wer hat heute Dienst?	आज किसकी सेवा है?
-Who's that cute guy?	Wer ist denn der süße Junge da?	वहाँ मीठा लड़का कौन है?
-Who's that stranger?	Wer ist dieser Fremde?	यह अजनबी कौन है?
-Who's that with Tom?	Wer ist mit Tom?	टॉम के साथ कौन है?
-Who's the pizza for?	Wer hat hier Pizza bestellt?	यहां पिज्जा का आदेश किसने किया?
-Who's this hot babe?	Wer ist diese hübsche Kleine?	यह बहुत कम कौन है?
-Whose child is this?	Wem gehört dieses Kind?	यह बच्चा किसका है?
 Whose fault is that?	Wessen Schuld ist das?	वह किसका अपराध है?
 Whose fault is that?	Wer ist daran schuld?	किसे दोष दिया जाएं?
 Whose house is that?	Wessen Haus ist das?	वह किसका घर है?

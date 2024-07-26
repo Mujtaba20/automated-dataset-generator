@@ -29988,3 +29988,13 @@ Who wrote that poem?	Wer hat dieses Gedicht geschrieben?	उस कविता 
 Who wrote the Bible?	Wer hat die Bibel geschrieben?	बाइबल को किसने लिखा है?
 Who wrote this book?	Wer hat dieses Buch verfasst?	यह किताब किसने लिखी है?
 Who wrote this poem?	Wer hat dieses Gedicht verfasst?	यह कविता किसने लिखी है?
+Who's Tom afraid of?	Vor wem hat Tom Angst?	टॉम किसे डरता है?
+Who's already awake?	Wer ist schon wach?	कौन पहले से जाग रहा है?
+Who's going with me?	Wer kommt mit mir?	मेरे साथ कौन जा रहा है?
+Who's on duty today?	Wer hat heute Dienst?	आज ड्यूटी पर कौन है?
+Who's that cute guy?	Wer ist dieser süße Kerl?	वह कौन हैं यह प्यारा लड़का?
+Who's that stranger?	Wer ist dieser Fremde?	वह अजनबी कौन है?
+Who's that with Tom?	Wer ist das mit Tom?	टॉम के साथ वह कौन है?
+Who's the pizza for?	Für wen ist die Pizza?	पिज़्ज़ा किसके लिए है?
+Who's this hot babe?	Wer ist dieses heiße Babe?	यह गर्म लड़की कौन है?
+Whose child is this?	Wessen Kind ist das?	यह किसका बच्चा है?
