@@ -1,14 +1,4 @@
 
-He is a good carpenter.	Er ist ein guter Zimmermann.	वह एक अच्छा बढ़ई है।
-He is a good violinist.	Er ist ein guter Violinist.	वह एक अच्छा वायलिन वादक है।
-He is a real gentleman.	Er ist ein echter Gentleman.	वह एक असली सज्जन हैं।
-He is a strange person.	Er ist ein seltsamer Mensch.	वह एक अजीब व्यक्ति है।
-He is a true gentleman.	Er ist ein wahrer Gentleman.	वह एक असली सज्जन हैं।
-He is a very smart boy.	Er ist ein sehr intelligenter Junge.	वह बहुत बुद्धिमान लड़का है।
-He is afraid of Father.	Er fürchtet sich vor Vater.	वह अपने पिता से डरता है।
-He is afraid of snakes.	Er hat Angst vor Schlangen.	वह सांपों से डरता है।
-He is allergic to dust.	Er ist auf Staub allergisch.	उसे धूल से एलर्जी है।
-He is always on the go.	Er ist immer beschäftigt.	वह हमेशा व्यस्त रहता है।
 He is an active person.	Er ist eine lebhafte Person.	वह एक जीवंत व्यक्ति है।
 He is an active person.	Er ist ein aktiver Mensch.	वह एक सक्रिय व्यक्ति है।
 He is an office worker.	Er ist ein Büroangestellter.	वह एक कार्यालय कार्यकर्ता है।
