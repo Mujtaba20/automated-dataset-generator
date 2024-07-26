@@ -21195,3 +21195,13 @@ I enjoy doing this.	Ich habe Spaß daran, das zu tun.	मुझे यह कर
 I enjoy eating out.	Mir gefällt essen zu gehen.	मुझे बाहर खाने में मज़ा आता है।
 I enjoyed it a lot.	Ich habe es sehr genossen.	मैंने इसे बहुत मज़ा किया।
 I enjoyed swimming.	Ich habe es genossen zu schwimmen.	मुझे तैरने में मज़ा आया।
+I entered the cave.	Ich betrat die Höhle.	मैं गुफा में प्रवेश किया।
+I envy you so much.	Ich beneide dich so sehr.	मैं तुम्हें बहुत ईर्ष्या करता हूँ।
+I expect your help.	Ich erwarte deine Hilfe.	मैं तुम्हारी मदद की उम्मीद करता हूँ।
+I failed chemistry.	Ich habe Chemie nicht bestanden.	मैंने रसायन विज्ञान में असफलता प्राप्त की।
+I failed miserably.	Ich bin kläglich gescheitert.	मैंने बिल्कुल असफल हुआ।
+I feared the worst.	Ich fürchtete das Schlimmste.	मैंने सबसे खराब का डर था।
+I feel bad for Tom.	Es tut mir leid für Tom.	मुझे टॉम के लिए दुःख है।
+I feel like crying.	Ich fühle mich wie weinen.	मुझे रोने की भावना है।
+I feel very chilly.	Mir ist sehr kalt.	मुझे बहुत ठंड लग रही है।
+I feel very guilty.	Ich fühle mich sehr schuldig.	मुझे बहुत अपराधी महसूस हो रहा है।
