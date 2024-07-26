@@ -1,14 +1,4 @@
 
-Tom remained standing.	Tom blieb stehen.	टॉम रुक गया।
-Tom remains in Boston.	Tom bleibt in Boston.	टॉम बोस्टन में रहता है।
-Tom remains obstinate.	Tom bleibt stur.	टॉम जिद्दी रहता है।
-Tom removed his shirt.	Tom legte sein Hemd ab.	टॉम ने अपनी शर्ट उतार दी।
-Tom removed his socks.	Tom zog seine Socken aus.	टॉम ने अपने मोजे निकाले।
-Tom requested seafood.	Tom bat um Meeresfrüchte.	टॉम ने समुद्री भोजन मांगा।
-Tom ridiculed my idea.	Tom hat meine Idee verspottet.	टॉम ने मेरे विचार का मजाक उड़ाया।
-Tom ruined my weekend.	Tom hat mein Wochenende ruiniert.	टॉम ने मेरा सप्ताहांत बर्बाद कर दिया।
-Tom said Mary is fine.	Tom sagte, Maria geht es gut.	टॉम ने कहा कि मारिया अच्छा कर रही है।
-Tom said he disagrees.	Tom sagte, er sei anderer Meinung.	टॉम ने कहा कि वह असहमत है।
 Tom said he felt fine.	Tom sagte, er fühle sich gut.	टॉम ने कहा कि उन्हें अच्छा लगा।
 Tom said he felt fine.	Tom sagte, dass er sich gut fühle.	टॉम ने कहा कि वह अच्छा लगता है।
 Tom said he has to go.	Tom sagte, er muss gehen.	टॉम ने कहा कि उन्हें जाना है।

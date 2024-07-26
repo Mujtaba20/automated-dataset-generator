@@ -40636,3 +40636,13 @@ Tom reeked of alcohol.	Tom roch nach Alkohol.	टॉम शराब की ग�
 Tom refused to let go.	Tom weigerte sich loszulassen.	टॉम छोड़ने से इनकार किया।
 Tom refused to listen.	Tom weigerte sich zuzuhören.	टॉम सुनने से इनकार कर दिया।
 Tom rejected the idea.	Tom lehnte die Idee ab.	टॉम ने विचार को अस्वीकार किया।
+Tom remained standing.	Tom blieb stehen.	टॉम खड़ा रहा।
+Tom remains in Boston.	Tom bleibt in Boston.	टॉम बॉस्टन में है।
+Tom remains obstinate.	Tom bleibt stur.	टॉम ज़िद्दी रहता है।
+Tom removed his shirt.	Tom zog sein Hemd aus.	टॉमने अपनी कमीज़ उतारी।
+Tom removed his socks.	Tom zog seine Socken aus.	टॉमने अपने मोज़े उतारे।
+Tom requested seafood.	Tom bat um Meeresfrüchte.	टॉमने सीफ़ूड माँगी।
+Tom ridiculed my idea.	Tom hat meine Idee lächerlich gemacht.	टॉमने मेरी विचारधारा का मज़ाक उड़ाया।
+Tom ruined my weekend.	Tom hat mein Wochenende ruiniert.	टॉमने मेरा वीकएंड बरबाद कर दिया।
+Tom said Mary is fine.	Tom sagte, dass es Mary gut geht.	टॉमनी कहा कि मैरी ठीक है।
+Tom said he disagrees.	Tom sagte, er sei anderer Meinung.	टॉमने कहा कि वह असहमत है।
