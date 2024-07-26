@@ -1,14 +1,4 @@
 
-What else did you eat?	Was hast du sonst noch gegessen?	आपने और क्या खाया?
-What else did you say?	Was hast du sonst noch gesagt?	आपने और क्या कहा?
-What else did you see?	Was hast du sonst noch gesehen?	आपने और क्या देखा?
-What else did you see?	Was haben Sie sonst noch gesehen?	आपने और क्या देखा?
-What else did you see?	Was habt ihr sonst noch gesehen?	आपने और क्या देखा?
-What else do you have?	Was hast du sonst noch?	आपके पास और क्या है?
-What else do you have?	Was haben Sie sonst noch?	आपके पास और क्या है?
-What else do you know?	Was wissen Sie sonst noch?	आप और क्या जानते हैं?
-What else do you know?	Was weißt du sonst noch?	आप और क्या जानते हैं?
-What else do you know?	Was wisst ihr außerdem?	आप और क्या जानते हैं?
 What else do you need?	Was brauchst du sonst noch?	आपको और क्या चाहिए?
 What else do you need?	Was brauchst du noch?	आपको और क्या चाहिए?
 What good would it do?	Was nützte das?	उस ने क्या इस्तेमाल किया?

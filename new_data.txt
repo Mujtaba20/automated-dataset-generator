@@ -41279,3 +41279,8 @@ What else could it be?	Was könnte es noch sein?	यह क्या और ह�
 What else did Tom eat?	Was hat Tom noch gegessen?	टॉम ने क्या और खाया था?
 What else did Tom say?	Was hat Tom noch gesagt?	टॉम ने क्या और कहा?
 What else did you buy?	Was hast du sonst gekauft?	तुमने क्या और खरीदा?
+What else did you eat?	Was hast du sonst gegessen?	तुमने क्या और खाया था?
+What else did you say?	Was hast du noch gesagt?	तुमने क्या और कहा था?
+What else did you see?	Was hast du sonst gesehen?	तुमने क्या और देखा था?
+What else do you have?	Was hast du noch?	तुम्हारे पास क्या है?
+What else do you know?	Was weißt du noch?	तुम्हें क्या और पता है?
