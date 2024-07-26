@@ -1,16 +1,4 @@
 
-You deserve the prize.	Du verdienst den Preis.	आप कीमत कमाते हैं।
-You did all you could.	Du hast getan, was du konntest.	आपने वही किया जो आप कर सकते थे।
-You did all you could.	Sie haben getan, was Sie konnten.	आपने वही किया जो आप कर सकते थे।
-You didn't learn much.	Du hast nicht viel gelernt.	आपने ज्यादा नहीं सीखा।
-You didn't learn much.	Ihr habt nicht viel gelernt.	आपने ज्यादा नहीं सीखा।
-You didn't learn much.	Sie haben nicht viel gelernt.	आपने ज्यादा नहीं सीखा।
-You don't belong here.	Du gehörst nicht hierher.	आप यहाँ नहीं हैं।
-You don't belong here.	Sie gehören nicht hierher.	वे यहाँ नहीं हैं।
-You don't frighten me.	Du machst mir keine Angst!	तुम मुझे चिंता मत करो!
-You don't frighten me.	Sie machen mir keine Angst.	वे मुझे नहीं डराते हैं।
-You don't frighten me.	Du jagst mir keine Angst ein.	आप मुझसे डरते नहीं हैं।
-You don't frighten me.	Ihr ängstigt mich nicht.	तुम मुझे डराओ मत।
 You don't have a clue.	Du hast keine Ahnung.	तुम्हें कोई अंदाजा नहीं है।
 You don't have a clue.	Du hast keinen Schimmer.	आपके पास कोई टिमटिमाना नहीं है।
 You don't have to eat.	Du musst nicht essen.	आपको खाने की जरूरत नहीं है।
