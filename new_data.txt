@@ -41497,3 +41497,11 @@ Why are men like that?	Warum sind Männer so?	आदमी ऐसे क्य�
 Why are men so stupid?	Warum sind Männer so dumm?	आदमी इतने मूर्ख क्यों होते हैं?
 Why are they laughing?	Warum lachen sie?	वे क्यों हंस रहे हैं?
 Why are we doing that?	Warum machen wir das?	हम ऐसा क्यों कर रहे हैं?
+Why are we doing this?	Warum machen wir das?	हम यह क्यों कर रहे हैं?
+Why are we here again?	Warum sind wir wieder hier?	हम यहाँ फिर से क्यों हैं?
+Why are we still here?	Warum sind wir immer noch hier?	हम अभी भी यहाँ क्यों हैं?
+Why are you asking me?	Warum fragst du mich?	तुम मुझसे क्यों पूछ रहे हो?
+Why are you down here?	Warum bist du hier unten?	तुम यहाँ क्यों हो?
+Why are you going out?	Warum gehst du raus?	तुम बाहर क्यों जा रहे हो?
+Why are you guys here?	Warum seid ihr hier?	तुम लोग यहाँ क्यों हो?
+Why are you here, Tom?	Warum bist du hier, Tom?	तुम यहाँ क्यों हो, टॉम?
