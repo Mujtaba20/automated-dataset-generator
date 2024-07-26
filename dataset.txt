@@ -1,15 +1,4 @@
 
-Why do you want it?	Warum willst du das?	आप यह क्यों चाहते हैं?
-Why does Tom do it?	Warum macht Tom das?	टॉम ऐसा क्यों करता है?
-Why does ice float?	Warum schwimmt Eis?	क्यों तैरता है बर्फ?
-Why don't we go in?	Warum gehen wir nicht rein?	हम क्यों नहीं जाते?
-Why don't you come?	Warum kommst du nicht?	आप क्यों नहीं आ रहे हैं?
-Why don't you sing?	Warum singst du nicht?	आप क्यों नहीं गाते?
-Why don't you stop?	Warum hörst du nicht auf?	आप क्यों नहीं रुकते?
-Why don't you stop?	Warum hältst du nicht an.	आप क्यों नहीं रुकते?
-Why don't you work?	Warum arbeitest du nicht?	तुम काम क्यों नहीं कर रहे?
-Why don't you work?	Warum arbeiten Sie nicht?	आप काम क्यों नहीं करते?
-Why don't you work?	Warum arbeitet ihr nicht?	आप काम क्यों नहीं करते?
 Why is Tom excited?	Warum ist Tom aufgeregt?	टॉम क्यों उत्साहित है?
 Why is Tom running?	Warum läuft Tom?	टॉम क्यों चल रहा है?
 Why is Tom so busy?	Warum ist Tom so beschäftigt?	टॉम इतना व्यस्त क्यों है?

@@ -24771,3 +24771,11 @@ engSentence6	Warum liebst du mich?	तुम मुझे प्यार क्
 engSentence7	Warum brauchst du das?	तुम्हें यह क्यों चाहिए?
 engSentence8	Warum brauchst du mich?	तुम मुझे क्यों चाहिए?
 engSentence9	Warum benötigst du mich?	तुम्हें मुझे क्यों चाहिए?
+Why do you want it?	Warum möchtest du es?	तुम्हें इसे क्यों चाहिए?
+Why does Tom do it?	Warum macht Tom es?	टॉम ये क्यों करता है?
+Why does ice float?	Warum schwimmt Eis?	बर्फ पानी पर क्यों तैरती है?
+Why don't we go in?	Warum gehen wir nicht rein?	हम अंदर क्यों नहीं जाते?
+Why don't you come?	Warum kommst du nicht?	तुम क्यों नहीं आते?
+Why don't you sing?	Warum singst du nicht?	तुम गाना क्यों नहीं गाते?
+Why don't you stop?	Warum hörst du nicht auf?	तुम क्यों नहीं रुकते?
+Why don't you work?	Warum arbeitest du nicht?	तुम क्यों काम नहीं करते?
