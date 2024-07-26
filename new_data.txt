@@ -30196,3 +30196,11 @@ You lied to my face.	Du hast mich belogen.	तुमने मेरे सा�
 You look incredible.	Du siehst unglaublich aus.	तुम अविश्वसनीय लगती हो।
 You look like a boy.	Du siehst aus wie ein Junge.	तुम एक लड़के जैसे दिखते हो।
 You look like a cop.	Du siehst aus wie ein Polizist.	तुम एक पुलिसवाले जैसे दिखते हो।
+You look pale today.	Du siehst heute blass aus.	आज तुम फीके लग रहे हो।
+You look really hot.	Du siehst wirklich heiß aus.	तुम सचमुच गर्म लग रहे हो।
+You look very bored.	Du siehst sehr gelangweilt aus.	तुम बहुत उबाऊ लग रहे हो।
+You look very happy.	Du siehst sehr glücklich aus.	तुम बहुत खुश लग रहे हो।
+You look very tired.	Du siehst sehr müde aus.	तुम बहुत थके हुए लग रहे हो।
+You lost an earring.	Du hast eine Ohrring verloren.	तुमने एक कान की बाली खो दी।
+You may come in now.	Du kannst jetzt reinkommen.	तुम अब अंदर आ सकते हो।
+You may go anywhere.	Du kannst überall hingehen.	तुम कहीं भी जा सकते हो।

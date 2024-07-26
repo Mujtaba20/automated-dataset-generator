@@ -1,14 +1,4 @@
 
-You look pale today.	Du siehst heute blass aus.	आप आज पेल दिखते हैं।
-You look really hot.	Du siehst ziemlich heiß aus.	आप बहुत गर्म लग रहे हैं।
-You look very bored.	Du siehst ziemlich gelangweilt aus.	आप बहुत ऊब दिखते हैं।
-You look very happy.	Du siehst sehr glücklich aus.	तुम बहुत खुश दिख रहे हो।
-You look very tired.	Du siehst sehr müde aus.	आप बहुत थके हुए लगते हो।
-You look very tired.	Sie sehen sehr müde aus.	वे बहुत थके हुए दिखते हैं।
-You lost an earring.	Du hast einen Ohrring verloren.	आपने एक बाली खो दी है।
-You lost an earring.	Sie haben einen Ohrring verloren.	आपने एक बाली खो दी है।
-You may come in now.	Du kannst jetzt reinkommen.	अब आप आ सकते हैं।
-You may go anywhere.	Man kann überall hingehen.	आप कहीं भी जा सकते हैं।
 You may go home now.	Du darfst jetzt nach Hause gehen.	अब आप घर जा सकते हैं।
 You may laugh at me.	Du kannst über mich lachen.	तुम मुझ पर हंस सकते हो।
 You may not come in.	Du darfst nicht reinkommen.	आप अंदर नहीं जा सकते।
