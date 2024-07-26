@@ -33078,3 +33078,4 @@ Maybe Tom is in love.	Vielleicht ist Tom verliebt.	शायद टॉम प्
 Maybe she won't come.	Vielleicht kommt sie nicht.	शायद वह नहीं आएगी।
 Maybe they're hungry.	Vielleicht haben sie Hunger.	शायद उन्हें भूख लगी है।
 Maybe we should stop.	Vielleicht sollten wir aufhören.	शायद हमें रुकना चाहिए।
+engSentence	{'Maybe we should talk.': 'Vielleicht sollten wir reden.', "Maybe you'll succeed.": 'Vielleicht wirst du Erfolg haben.'}	{'Maybe we should talk.': 'शायद हमें बात करनी चाहिए।', "Maybe you'll succeed.": 'शायद तुम्हारी सफलता हो।'}

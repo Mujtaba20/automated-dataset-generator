@@ -1,14 +1,4 @@
 
-Maybe we should talk.	Vielleicht sollten wir reden.	शायद हमें बात करनी चाहिए।
-Maybe you'll succeed.	Vielleicht werdet ihr es schaffen.	शायद आप इसे बनाएंगे।
-Maybe you'll succeed.	Vielleicht wirst du es schaffen.	शायद आप इसे बनाएंगे।
-Maybe you'll succeed.	Vielleicht hast du Erfolg.	शायद आप सफल हैं।
-Maybe you'll succeed.	Vielleicht haben Sie Erfolg.	शायद आप सफल हैं।
-Maybe you'll succeed.	Vielleicht habt ihr Erfolg.	शायद आप सफल हैं।
-Maybe you'll succeed.	Vielleicht werden Sie es schaffen.	शायद आप इसे बनाएंगे।
-Maybe you'll succeed.	Vielleicht schaffst du es.	शायद आप इसे कर सकते हैं।
-Maybe you'll succeed.	Vielleicht schafft ihr es.	शायद आप इसे कर सकते हैं।
-Maybe you'll succeed.	Vielleicht schaffen Sie es.	शायद वे ऐसा कर सकते हैं।
 Meet me in the lobby.	Wir treffen uns in der Eingangshalle.	हम प्रवेश हॉल में मिलते हैं।
 Men are all the same.	Alle Männer sind gleich.	सभी पुरुष समान हैं।
 Milk makes us strong.	Milch macht uns stark.	दूध हमें मजबूत बनाता है।
