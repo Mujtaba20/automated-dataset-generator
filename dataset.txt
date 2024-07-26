@@ -1,14 +1,4 @@
 
-Tom is my ex-boyfriend.	Tom ist mein Exfreund.	टॉम मेरे पूर्व -बॉयफ्रेंड हैं।
-Tom is my half brother.	Tom ist mein Halbbruder.	टॉम मेरा आधा -ब्रोथर है।
-Tom is my half-brother.	Tom ist mein Halbbruder.	टॉम मेरा आधा -ब्रोथर है।
-Tom is my only brother.	Tom ist mein einziger Bruder.	टॉम मेरा एकमात्र भाई है।
-Tom is my sister's boy.	Tom ist der Junge meiner Schwester.	टॉम मेरी बहन का लड़का है।
-Tom is my son's friend.	Tom ist der Freund meines Sohnes.	टॉम मेरे बेटे का दोस्त है।
-Tom is naive, isn't he?	Tom ist naiv, nicht wahr?	टॉम भोली है, है ना?
-Tom is never satisfied.	Tom ist nie zufrieden.	टॉम कभी संतुष्ट नहीं होता।
-Tom is nice and polite.	Tom ist nett und höflich.	टॉम अच्छा और विनम्र है।
-Tom is no good for you.	Tom ist kein Umgang für dich.	टॉम आपके लिए नहीं हैं।
 Tom is no longer a boy.	Tom ist kein Junge mehr.	टॉम अब लड़का नहीं है।
 Tom is no longer alive.	Tom lebt nicht mehr.	टॉम अब नहीं रहता है।
 Tom is no longer alive.	Tom ist nicht mehr am Leben.	टॉम अब जीवित नहीं है।
