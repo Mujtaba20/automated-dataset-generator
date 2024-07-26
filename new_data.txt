@@ -36520,3 +36520,12 @@ Don't forget your bag.	Vergiss nicht deine Tasche.	अपना बैग मत
 Don't get sentimental.	Werde nicht sentimental.	भावुक न हो।
 Don't give me a thing.	Gib mir nichts.	मुझे कुछ न दो।
 Don't give up halfway.	Gib nicht halb auf.	आधे में हार मत मानो।
+Don't give up on love.	Gib die Liebe nicht auf.	प्यार पर हार न मानो।
+Don't go near the dog.	Geh nicht zum Hund.	कुत्ते के पास न जाओ।
+Don't go out with Tom.	Geh nicht mit Tom raus.	टॉम के साथ बाहर न जाओ।
+Don't go too far away.	Geh nicht zu weit weg.	बहुत दूर न जाओ।
+Don't hesitate to ask.	Zögern Sie nicht zu fragen.	पूछने में हिचकिचाहट न करें।
+Don't keep me waiting.	Lass mich nicht warten.	मुझे इंतजार में न रखें।
+Don't kill me, please.	Töte mich nicht, bitte.	कृपया मुझे मत मारो।
+Don't leave me behind!	Lass mich nicht zurück!	मुझे पीछे न छोड़ो!
+Don't leave the TV on.	Lass den Fernseher nicht an.	टीवी चालू मत छोड़ो।
