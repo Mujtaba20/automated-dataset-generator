@@ -30149,3 +30149,11 @@ You didn't even cry.	Du hast nicht einmal geweint.	तुमने नहीं 
 You didn't even try.	Du hast es nicht einmal versucht.	तुमने नहीं कोशिश की।
 You disappointed me.	Du hast mich enttäuscht.	तुमने मुझे निराश किया।
 You do have a point.	Du hast recht.	तुम्हारा यह सिद्धांत सही है।
+You don't know that.	Du weißt das nicht.	तुम्हें वह नहीं पता।
+You don't know them.	Du kennst sie nicht.	तुम्हें उन्हें नहीं पता।
+You don't know them. - Different Meaning	Du weißt nicht, wer sie sind.	तुम्हें नहीं पता कि वे कौन हैं।
+You don't look sick.	Du siehst nicht krank aus.	तुम बीमार नहीं लगते।
+You don't look well.	Du siehst nicht gut aus.	तुम अच्छे नहीं लगते।
+You don't look well. - Different Meaning	Du scheinst nicht in Ordnung zu sein.	तुम्हें अच्छा नहीं लग रहा है।
+You don't need that.	Du brauchst das nicht.	तुम्हें वह नहीं चाहिए।
+You don't need that. - Different Meaning	Du musst das nicht haben.	तुम्हें उसकी जरुरत नहीं है।

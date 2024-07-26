@@ -1,14 +1,4 @@
 
-You don't know that.	Das weißt du doch gar nicht.	आप यह भी नहीं जानते हैं।
-You don't know them.	Du kennst sie nicht.	तुम उसे नहीं जानते।
-You don't know them.	Ihr kennt sie nicht.	आप उन्हें नहीं जानते।
-You don't know them.	Sie kennen sie nicht.	आप उन्हें नहीं जानते।
-You don't look sick.	Du siehst nicht krank aus.	आप बीमार नहीं दिखते।
-You don't look well.	Du siehst nicht gut aus.	आप अच्छे नहीं दिखते।
-You don't look well.	Sie sehen nicht gut aus.	वे अच्छे नहीं दिखते।
-You don't look well.	Ihr seht nicht gut aus.	आप अच्छे नहीं दिखते।
-You don't need that.	Das brauchst du nicht.	आप की जरूरत नहीं।
-You don't need that.	Das brauchen Sie nicht.	आपको इसकी आवश्यकता नहीं है।
 You don't need this.	Das brauchst du nicht.	आप की जरूरत नहीं।
 You don't need this.	Das brauchen Sie nicht.	आपको इसकी आवश्यकता नहीं है।
 You don't want that.	Das willst du nicht.	आपको उसकी चाहत नहीं है।
