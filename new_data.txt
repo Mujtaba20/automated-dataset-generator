@@ -21419,3 +21419,13 @@ I like L.A. better.	Ich mag L.A. lieber.	मुझे L.A. अच्छा ल�
 I like Tom already.	Ich mag Tom schon.	मुझे तोम पहले से पसंद है।
 I like Tom's smile.	Ich mag Toms Lächeln.	मुझे टॉम की मुस्कान पसंद है।
 I like Tom's voice.	Ich mag Toms Stimme.	मुझे टॉम की आवाज़ पसंद है।
+I like all of them.	Ich mag sie alle.	मुझे सभी पसंद हैं।
+I like apples best.	Ich mag Äpfel am liebsten.	मुझे सेब सबसे अच्छे लगते हैं।
+I like being alone.	Ich mag es allein zu sein.	मुझे अकेले रहना पसंद है।
+I like candlelight.	Ich mag Kerzenlicht.	मुझे मोमबत्ती की रोशनी पसंद है।
+I like candlelight. (Different meaning)	Ich mag Kerzenlicht.	मुझे लकड़ी की प्रज्ज्वलन से कलह का मोह पसंद है।
+I like comic books.	Ich mag Comics.	मुझे कॉमिक बुक्स पसंद हैं।
+I like cranberries.	Ich mag Preiselbeeren.	मुझे क्रैनबेरी पसंद हैं।
+I like disco music.	Ich mag Disco-Musik.	मुझे डिस्को संगीत पसंद है।
+I like eating here.	Ich esse gerne hier.	मुझे यहाँ खाना खाना पसंद है।
+I like green beans.	Ich mag grüne Bohnen.	मुझे हरी बीन्स पसंद हैं।
