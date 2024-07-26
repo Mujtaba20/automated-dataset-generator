@@ -1,14 +1,4 @@
 
-I'm not wearing this.	Das ziehe ich nicht an!	मैं इसे नहीं डालता!
-I'm not your brother.	Ich bin nicht dein Bruder.	मैं तुम्हारा भाई नहीं हूँ।
-I'm not your teacher.	Ich bin nicht dein Lehrer.	मैं आपका शिक्षक नहीं हूं।
-I'm not your teacher.	Ich bin nicht euer Lehrer.	मैं आपका शिक्षक नहीं हूँ।
-I'm not your teacher.	Ich bin nicht Ihr Lehrer.	मैं आपका शिक्षक नहीं हूं।
-I'm nothing like you.	Ich bin kein bisschen wie du.	मैं तुम्हारे जैसा नहीं हूँ।
-I'm now in Australia.	Ich bin jetzt in Australien.	मैं अब ऑस्ट्रेलिया में हूं।
-I'm often in trouble.	Ich bin oft in Schwierigkeiten.	मैं अक्सर परेशानी में होता हूं।
-I'm perfectly normal.	Ich bin ganz normal.	मैं बहुत सामान्य हूं।
-I'm planning to come.	Ich habe vor zu kommen.	मैं पाने की योजना बना रहा हूं।
 I'm pressing charges.	Ich werde eine Anzeige erstatten.	मैं एक शिकायत दर्ज करूंगा।
 I'm proud of you all.	Ich bin stolz auf euch alle.	मुझे आप सभी पर गर्व है।
 I'm proud of you all.	Ich bin stolz auf Sie alle.	मुझे उन सभी पर गर्व है।
