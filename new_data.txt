@@ -22973,3 +22973,9 @@ The car hit a tree.	Das Auto traf einen Baum.	कार एक पेड़ स�
 The case is closed.	Der Fall ist geschlossen.	मामला बंद है।
 The clock is wrong.	Die Uhr ist falsch.	घड़ी ग़लत है।
 The coffee's ready.	Der Kaffee ist fertig.	कॉफ़ी तैयार है।
+The concert's over.	Das Konzert ist vorbei.	कॉन्सर्ट खत्म हो गया है।
+The crow flew away.	Der Rabe flog davon.	कौवा उड़ चला।
+The disco is empty.	Das Disco ist leer.	डिस्को खाली है।
+The dog is barking.	Der Hund bellt.	कुत्ता भौंक रहा है।
+The dog is jumping.	Der Hund springt.	कुत्ता कूद रहा है।
+The dog is panting.	Der Hund hechelt.	कुत्ता सांस फूल रहा है।

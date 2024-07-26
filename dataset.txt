@@ -1,14 +1,4 @@
 
-The concert's over.	Das Konzert ist aus.	कॉन्सर्ट खत्म हो गया है।
-The crow flew away.	Die Krähe ist fortgeflogen.	कौवा बह गया है।
-The crow flew away.	Diese Krähe ist weggeflogen.	यह कौवा बह गया है।
-The crow flew away.	Die Krähe flog weg.	कौवा उड़ गया।
-The crow flew away.	Die Krähe flog davon.	कौवा उड़ गया।
-The crow flew away.	Die Krähe flog von dannen.	तब से कौवा ने उड़ान भरी।
-The disco is empty.	Die Disko ist leer.	डिस्को खाली है।
-The dog is barking.	Der Hund bellt.	कुत्ता भौंकता है।
-The dog is jumping.	Der Hund springt.	कुत्ता कूदता है।
-The dog is panting.	Der Hund hechelt.	कुत्ता पैंट।
 The dog looks sick.	Der Hund sieht krank aus.	कुत्ता बीमार दिखता है।
 The dog seems sick.	Der Hund scheint krank zu sein.	कुत्ता बीमार लगता है।
 The dog seems sick.	Der Hund sieht krank aus.	कुत्ता बीमार दिखता है।
