@@ -27457,3 +27457,12 @@ It's part of my job.	Es gehört zu meinem Job.	यह मेरे काम क
 It's pretty unusual.	Es ist ziemlich ungewöhnlich.	यह काफी असामान्य है।
 It's really awesome.	Es ist wirklich fantastisch.	यह सच में बेहतरीन है।
 It's really serious.	Es ist wirklich ernst.	यह सचमुच गंभीर है।
+It's slightly windy.	Es ist leicht windig.	थोड़ी मात्रा में हवाई.
+It's snowing harder.	Es schneit stärker.	ज्यादा बर्फ गिर रही है.
+It's so complicated.	Es ist so kompliziert.	यह इतना जटिल है।
+It's starting again.	Es beginnt wieder.	यह फिर से शुरू हो रहा है।
+It's still possible.	Es ist immer noch möglich.	यह अभी भी संभव है।
+It's that important.	Es ist so wichtig.	वह महत्वपूर्ण है।
+It's the same thing.	Es ist dasselbe.	यही बात है।
+It's time consuming.	Es ist zeitaufwendig.	यह समय लेने वाला है।
+It's time for lunch.	Es ist Zeit zum Mittagessen.	यह लंच का समय है।

@@ -1,14 +1,4 @@
 
-It's slightly windy.	Es weht ein leichter Wind.	एक हल्की हवा चलती है।
-It's snowing harder.	Der Schneefall wird stärker.	बर्फबारी मजबूत हो जाती है।
-It's so complicated.	Es ist so kompliziert.	यह बहुत जटिल है।
-It's starting again.	Es fängt wieder an.	यह फिर से शुरू होता है।
-It's still possible.	Es ist noch möglich.	यह अभी भी संभव है।
-It's still possible.	Es ist immer noch möglich.	यह अभी भी संभव है।
-It's that important.	Das ist wichtig.	यह महत्वपूर्ण है।
-It's the same thing.	Das läuft aufs Gleiche hinaus.	यह उसी समय तक चलता है।
-It's time consuming.	Es ist zeitaufwendig.	यह समय है।
-It's time for lunch.	Es ist Zeit zum Mittagessen.	यह दिन के भोजन का समय है।
 It's time to get up.	Es ist Zeit, aufzustehen.	उठने का समय आ गया है।
 It's time-consuming.	Es ist zeitaufwendig.	यह समय है।
 It's too hot for me.	Es ist zu heiß für mich.	यह मेरे लिए बहुत गर्म है।
