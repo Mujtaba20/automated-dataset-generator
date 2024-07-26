@@ -1,14 +1,4 @@
 
-I am to go to Paris.	Ich soll nach Paris fahren.	मुझे पेरिस जाना चाहिए।
-I am too busy to go.	Ich bin zu beschäftigt, um zu gehen.	मैं जाने में बहुत व्यस्त हूं।
-I am very dangerous.	Ich bin sehr gefährlich.	मैं बहुत खतरनाक हूं।
-I am writing an SMS.	Ich schreibe eine Kurznachricht.	मैं एक छोटा संदेश लिखता हूं।
-I answered the door.	Ich öffnete die Tür.	मैंने दरवाजा खोला।
-I answered the door.	Ich ging an die Tür.	मैं दरवाजे पर गया।
-I arrived in London.	Ich bin in London angekommen.	मैं लंदन पहुंचा।
-I arrived in London.	Ich kam in London an.	मैं लंदन पहुंचा।
-I arrived on Monday.	Ich bin am Montag angekommen.	मैं सोमवार को पहुंचा।
-I arrived too early.	Ich kam zu früh an.	मैं बहुत जल्दी आ गया।
 I asked Tom to come.	Ich bat Tom zu kommen.	मैंने टॉम को आने के लिए कहा।
 I asked Tom to help.	Ich bat Tom um seine Hilfe.	मैंने टॉम से उसकी मदद मांगी।
 I asked Tom to sing.	Ich bat Tom zu singen.	मैंने टॉम को गाने के लिए कहा।

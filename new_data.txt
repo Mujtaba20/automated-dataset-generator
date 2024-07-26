@@ -26037,3 +26037,11 @@ I am right for once.	Ich habe einmal Recht.	मैं एक बार सही
 I am sad to hear it.	Es tut mir leid, das zu hören.	मुझे यह सुनकर दुख हुआ।
 I am short of money.	Mir fehlt das Geld.	मेरे पास पैसा नहीं है।
 I am the chosen one.	Ich bin der Auserwählte.	मैं चुनी हुई हूँ।
+I am to go to Paris.	Ich soll nach Paris gehen.	मुझे पेरिस जाना है।
+I am too busy to go.	Ich bin zu beschäftigt, um zu gehen.	मैं जाने के लिए बहुत व्यस्त हूँ।
+I am very dangerous.	Ich bin sehr gefährlich.	मैं काफी खतरनाक हूँ।
+I am writing an SMS.	Ich schreibe eine SMS.	मैं एसएमएस लिख रहा हूँ।
+I answered the door.	Ich habe die Tür geöffnet.	मैंने दरवाज़ा खोल दिया।
+I arrived in London.	Ich bin in London angekommen.	मैं लंदन पहुँच गया।
+I arrived on Monday.	Ich bin am Montag angekommen.	मैं सोमवार को पहुँचा।
+I arrived too early.	Ich bin zu früh angekommen.	मैं बहुत जल्दी पहुँच गया।
