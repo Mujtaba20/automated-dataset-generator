@@ -40346,3 +40346,10 @@ Tom is nice, isn't he?	Tom ist nett, oder?	टॉम अच्छे हैं, 
 Tom is nicer than you.	Tom ist netter als du.	टॉम तुमसे अधिक प्यारा है।
 Tom is no longer here.	Tom ist nicht mehr hier.	टॉम अब यहाँ नहीं है।
 Tom is now in trouble.	Tom steckt jetzt in Schwierigkeiten.	टॉम अब मुश्किल में है।
+Tom is now on his own.	Tom ist jetzt auf sich allein gestellt.	टॉम अब अपने आप पर है।
+Tom is nuts, isn't he?	Tom ist verrückt, oder?	टॉम पागल है, क्या?
+Tom is off duty today.	Tom hat heute dienstfrei.	टॉम आज ड्यूटी से मुक्त है।
+Tom is on his own now.	Tom ist jetzt allein.	टॉम अब अकेला है।
+Tom is our best pilot.	Tom ist unser bester Pilot.	टॉम हमारे सबसे अच्छे पायलट हैं।
+Tom is out to get you.	Tom ist drauf aus, dich zu kriegen.	टॉम तुम्हें पाने के लिए बाहर हैं।
+Tom is playing soccer.	Tom spielt Fußball.	टॉम फुटबॉल खेल रहा है।
