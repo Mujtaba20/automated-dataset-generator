@@ -33281,3 +33281,7 @@ Please spare my life.	Bitte verschone mein Leben.	मेरी जिंदग�
 Please speak English.	Bitte sprechen Sie Englisch.	कृपया अंग्रेज़ी बोलें।
 Please stop laughing.	Bitte hör auf zu lachen.	कृपया हंसना बंद करो।
 Please shut the door. (Different meaning)	Bitte die Tür zuknallen.	कृपया दरवाज़ा ज़ोर से बंद करें।
+Please telephone him.	Bitte wählen Sie ihn an.	कृपया उसे कॉल करें।
+Please think it over.	Bitte überprüfen Sie es noch einmal.	कृपया इसे फिर से सोचें।
+Please turn the page.	Bitte drehen Sie die Seite um.	कृपया पेज पलटें।
+Please wait a moment.	Bitte warten Sie einen Moment.	कृपया एक पल प्रतीक्षा करें।

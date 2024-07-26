@@ -1,15 +1,4 @@
 
-Please telephone him.	Bitte ruf ihn an.	कृपया उसे फोन करें।
-Please telephone him.	Bitte ruft ihn an.	कृपया उसे फोन करें।
-Please telephone him.	Bitte rufen Sie ihn an.	कृपया उसे फोन करें।
-Please think it over.	Bitte denk darüber nach.	कृपया इसके बारे में सोंचे।
-Please think it over.	Bitte denken Sie darüber nach.	कृपया इसके बारे में सोंचे।
-Please think it over.	Bitte überleg es dir.	कृपया इसके बारे में सोंचे।
-Please think it over.	Überlegen Sie es sich bitte.	कृपया इसके बारे में सोंचे।
-Please turn the page.	Bitte wenden!	कृपया संपर्क करें!
-Please turn the page.	Bitte umblättern!	कृपया पृष्ठ चालू करें!
-Please wait a moment.	Warten Sie bitte einen Moment!	कृपया कुछ देर इंतज़ार करें!
-Please wait a moment.	Warte bitte einen Moment.	कृपया कुछ देर इंतज़ार करें।
 Please write it down.	Bitte schreiben Sie es auf.	कृपया इसे लिखिए।
 Please write it down.	Schreiben Sie das bitte mit.	कृपया लिखें।
 Promise me one thing.	Versprich mir Eines!	मुझसे वादा करो!
