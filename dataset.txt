@@ -1,19 +1,4 @@
 
-Tell me how you feel.	Erzähl mir, wie du dich fühlst.	मुझे बताओ आपको कैसा लगता है।
-Tell me what you saw.	Erzähl, was du gesehen hast.	बताओ तुमने क्या देखा।
-Tell me what you saw.	Erzähle, was du gesehen hast.	बताओ तुमने क्या देखा।
-Tell me what you see.	Sag mir, was du siehst!	मुझे बताओ आपने क्या देखा!
-Tell me what you see.	Sagen Sie mir, was Sie sehen!	मुझे बताओ आपने क्या देखा!
-Thank God I survived.	Gott sei Dank, dass ich noch lebe!	भगवान का शुक्र है कि मैं अभी भी जी रहा हूँ!
-Thank you again, Tom.	Danke nochmal, Tom.	धन्यवाद फिर से, टॉम।
-Thank you for asking.	Danke für die Nachfrage.	पूछने के लिए धन्यवाद।
-Thank you for coming.	Danke, dass du gekommen bist.	आने के लिए धन्यवाद।
-Thank you for coming.	Danke, dass Sie gekommen sind.	आने के लिए धन्यवाद।
-Thank you for coming.	Danke, dass ihr gekommen seid.	आने के लिए धन्यवाद।
-Thank you for coming.	Danke fürs Kommen.	आने के लिए धन्यवाद।
-Thank you for coming.	Danke, dass du gekommen bist!	आने के लिए धन्यवाद!
-Thank you for coming.	Danke, dass Sie gekommen sind!	आने के लिए धन्यवाद!
-Thank you for coming.	Danke, dass ihr gekommen seid!	आने के लिए धन्यवाद!
 Thank you for trying.	Danke, dass Sie es versuchen.	इसे आज़माने के लिए धन्यवाद।
 Thank you for trying.	Danke, dass du es wenigstens versucht hast.	कम से कम इसे आज़माने के लिए धन्यवाद।
 Thank you for trying.	Danke, dass Sie es versucht haben.	इसे आज़माने के लिए धन्यवाद।

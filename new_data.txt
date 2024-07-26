@@ -33477,3 +33477,10 @@ Take the garbage out.	Bring den Müll raus.	कूड़ा बाहर ले 
 Tell Mary I love her.	Sag Mary, dass ich sie liebe.	मेरी से कहो कि मैं उसे पसंद करता हूँ।
 Tell Tom to be quiet.	Sag Tom, er soll ruhig sein.	टॉम से कहो कि वह चुप रहे।
 Tell me a true story.	Erzähl mir eine wahre Geschichte.	मुझे एक सच्ची कहानी सुनाओ।
+Tell me how you feel.	Sag mir, wie du dich fühlst.	मुझे बताओ कि तुम कैसा महसूस कर रहे हो।
+Tell me what you saw.	Sag mir, was du gesehen hast.	मुझे बताओ तुमने क्या देखा।
+Tell me what you see.	Sag mir, was du siehst.	मुझे बताओ तुम क्या देख रहे हो।
+Thank God I survived.	Gott sei Dank, dass ich überlebt habe.	भगवान का शुक्रिया कि मैं जिंदा बच गया।
+Thank you again, Tom.	Danke noch einmal, Tom.	फिर से धन्यवाद, टॉम।
+Thank you for asking.	Danke, dass du gefragt hast.	पूछने के लिए धन्यवाद।
+Thank you for coming.	Danke, dass du gekommen bist.	आने के लिए धन्यवाद।
