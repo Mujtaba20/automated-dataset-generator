@@ -36041,3 +36041,11 @@ All this is new to me.	All dies ist für mich neu.	यह सभी मेरे
 All three of us agree.	Alle drei von uns stimmen zu.	हम तीनों सहमत हैं।
 All we can do is hope.	Alles, was wir tun können, ist hoffen.	हम कुछ कर सकते हैं उम्मीद कर सकते हैं।
 All we can do is wait.	Alles, was wir tun können, ist warten.	हम कुछ कर सकते हैं बस इंतजार कर सकते हैं।
+Always lock your door.	Immer die Tür abschließen.	हमेशा अपना दरवाजा ताला लगा दो।
+Always tell the truth.	Immer die Wahrheit sagen.	हमेशा सच बोलें।
+Am I allowed to enter?	Darf ich eintreten?	क्या मुझे प्रवेश की अनुमति है?
+Am I driving too fast?	Fahre ich zu schnell?	क्या मैं बहुत तेज़ी से चला रहा हूँ?
+Am I imagining things?	Bilde ich mir das ein?	क्या मैं चीजों को कल्पना कर रहा हूँ?
+Am I talking too fast?	Spreche ich zu schnell?	क्या मैं बहुत तेजी से बोल रहा हूँ?
+Am I that transparent?	Bin ich so durchsichtig?	क्या मैं इतना पारदर्शी हूँ?
+America is very large.	Amerika ist sehr groß.	अमेरिका बहुत बड़ा है।
