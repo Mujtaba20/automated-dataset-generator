@@ -32445,3 +32445,13 @@ I'm an eighth grader.	Ich bin in der achten Klasse.	मैं आठवीं �
 I'm an honest person.	Ich bin ein ehrlicher Mensch.	मैं ईमानदार इंसान हूँ।
 I'm as old as Tom is.	Ich bin so alt wie Tom.	मैं उतने ही बुढ़ापे का हूँ जितना टॉम है।
 I'm as tall as he is.	Ich bin so groß wie er.	मैं उसके जैसा लम्बा हूँ।
+I'm at your disposal.	Ich stehe zu Ihrer Verfügung.	मैं आपके डिस्पोजल में हूँ।
+I'm better off alone.	Ich bin alleine besser dran.	मैं अकेले ही बेहतर हूँ।
+I'm blackmailing Tom.	Ich erpresse Tom.	मैं टॉम को जबरदस्ती कर रहा हूँ।
+I'm buying a new car.	Ich kaufe ein neues Auto.	मैं एक नई कार खरीद रहा हूँ।
+I'm cleaning my room.	Ich putze mein Zimmer.	मैं अपने कमरे को साफ कर रहा हूँ।
+I'm closing the door.	Ich schließe die Tür.	मैं दरवाज़े को बंद कर रहा हूँ।
+I'm coming home, Tom.	Ich komme nach Hause, Tom.	मैं घर आ रहा हूँ, टॉम।
+I'm coming on Monday.	Ich komme am Montag.	मैं सोमवार को आ रहा हूँ।
+I'm coming to Boston.	Ich komme nach Boston.	मैं बॉस्टन आ रहा हूँ।
+I'm completely naked.	Ich bin vollkommen nackt.	मैं पूरी तरह से नग्न हूँ।
