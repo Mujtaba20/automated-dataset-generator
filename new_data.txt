@@ -38577,3 +38577,9 @@ It won't be a problem.	Es wird kein Problem sein.	यह कोई समस्�
 It won't be that easy.	Es wird nicht so einfach sein.	यह इतना आसान नहीं होगा।
 It won't be that hard.	Es wird nicht so schwer sein.	यह इतना कठिन नहीं होगा।
 It won't be that long.	Es wird nicht so lange dauern.	यह इतनी देर तक नहीं चलेगा।
+It won't come to that.	Das wird nicht passieren.	ऐसा नहीं होगा।
+It won't happen again.	Das wird nicht wieder vorkommen.	यह फिर से नहीं होगा।
+It won't happen to me.	Es wird mir nicht passieren.	यह मेरे साथ नहीं होगा।
+It won't stop raining.	Es wird weiterregnen.	बारिश नहीं ठहरेगी।
+It won't take so long.	Es wird nicht so lange dauern.	इतने समय तक नहीं लेगा।
+It would be confusing.	Es wäre verwirrend.	यह भ्रांति पैदा करने वाली बात होगी।
