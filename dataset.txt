@@ -1,14 +1,4 @@
 
-It's still snowing.	Es schneit noch immer.	अभी भी बर्फबारी है।
-It's time to leave.	Es ist Zeit zu gehen.	छोडने का वक्त हो गया।
-It's time to leave.	Es ist Zeit aufzubrechen.	यह खोलने का समय है।
-It's time to party.	Zeit zu feiern!	जश्न मनाने का समय!
-It's time to sleep.	Es ist Zeit zu schlafen.	सोने का वक्त हो गया।
-It's time to sleep.	Zeit, ins Bett zu gehen!	बिस्तर पर जाने का व़क्त!
-It's too dangerous.	Es ist zu gefährlich.	यह बहुत खतरनाक है।
-It's too difficult.	Es ist zu schwierig.	यह बहुत मुश्किल है।
-It's too expensive.	Das ist zu teuer!	यह बहुत ही महंगी!
-It's too expensive.	Es ist zu teuer.	बहुत महंगा है.
 It's totally wrong.	Es ist völlig falsch.	यह पूरी तरह से गलत है।
 It's unforgettable.	Es ist unvergesslich.	यह अविस्मरणीय है।
 It's unforgettable.	Das ist unvergesslich.	यह अविस्मरणीय है।

@@ -22380,3 +22380,10 @@ It's started again.	Es hat wieder begonnen.	यह फिर से शुरू
 It's still crowded.	Es ist immer noch voll.	अभी भी भीड़ है।
 It's still immoral.	Es ist immer noch unmoralisch.	यह अभी भी अनैतिक है।
 It's still raining.	Es regnet immer noch.	अभी भी बारिश हो रही है।
+It's still snowing.	Es schneit immer noch.	अभी भी बर्फ गिर रही है।
+It's time to leave.	Es ist Zeit zu gehen.	अब चलने का समय है।
+It's time to party.	Es ist Zeit zu feiern.	अब मौज मनाने का समय है।
+It's time to sleep.	Es ist Zeit zu schlafen.	अब सोने का समय है।
+It's too dangerous.	Es ist zu gefährlich.	यह बहुत खतरनाक है।
+It's too difficult.	Es ist zu schwierig.	यह बहुत कठिन है।
+It's too expensive.	Es ist zu teuer.	यह बहुत महंगा है।
