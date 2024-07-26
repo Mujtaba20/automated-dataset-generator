@@ -1,14 +1,4 @@
 
-This is something new.	Das ist etwas Neues.	यह कुछ नया है।
-This is the Town Hall.	Das ist das Rathaus.	यह टाउन हॉल है।
-This is the easy part.	Das ist der leichte Teil.	यह आसान हिस्सा है।
-This is the hard part.	Das ist das Schwierige daran.	यह मुश्किल बात है।
-This is the last call.	Das ist der letzte Aufruf.	यह अंतिम कॉल है।
-This is the last game.	Das ist das letzte Spiel.	यह आखिरी गेम है।
-This is the last time.	Das ist das letzte Mal.	यह आखिरी बार है।
-This is too expensive!	Das ist zu teuer!	यह बहुत ही महंगी!
-This is too expensive.	Das ist zu teuer.	यह बहुत ही महंगी।
-This is very exciting.	Das ist sehr aufregend.	यह बहुत रोमांचक है।
 This is where we live.	Hier leben wir.	हमारा निवास यहां है।
 This isn't a hospital.	Es ist kein Krankenhaus.	यह अस्पताल नहीं है।
 This isn't about that.	Darum geht es nicht.	यह नहीं है कि इसके बारे में क्या है।
