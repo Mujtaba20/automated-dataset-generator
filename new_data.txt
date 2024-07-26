@@ -38502,3 +38502,13 @@ It is too hot to work.	Es ist zu heiß zum Arbeiten.	काम करने क�
 It is too warm for me.	Es ist mir zu warm.	मेरे लिए यह बहुत गर्म है।
 It is true in a sense.	Es ist in gewisser Weise wahr.	एक दृष्टि में यह सच है।
 It is very cold today.	Es ist heute sehr kalt.	आज बहुत ठंडा है।
+It is what I would do.	Das ist, was ich tun würde.	यह वह है जो मैं करूंगा।
+It isn't at all clear.	Es ist überhaupt nicht klar.	यह बिल्कुल स्पष्ट नहीं है।
+It isn't here anymore.	Es ist hier nicht mehr.	यह यहाँ अब नहीं है।
+It isn't how it seems.	Es ist nicht so, wie es scheint.	यह वैसा नहीं है जैसा दिखता है।
+It isn't much further.	Es ist nicht viel weiter.	यह और भी बहुत दूर नहीं है।
+It isn't worth a dime.	Es ist keinen Pfennig wert.	एक पैसे का भी महत्व नहीं है।
+It made me very happy.	Es hat mich sehr glücklich gemacht.	यह मुझे बहुत खुश किया।
+It made my mother cry.	Es hat meine Mutter zum Weinen gebracht.	इसने मेरी माँ को रुलाया।
+It makes me feel sick.	Es macht mich krank fühlen.	यह मुझे बीमार महसूस कराता है।
+It may save your life.	Es kann Ihr Leben retten.	यह आपकी जिंदगी बचा सकता है।
