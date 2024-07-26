@@ -1,14 +1,4 @@
 
-Do you accept my offer?	Nehmen Sie mein Angebot an?	क्या आप मेरे प्रस्ताव को स्वीकार करते हैं?
-Do you agree with this?	Bist du damit einverstanden?	क्या आप सहमत हैं?
-Do you agree with this?	Sind Sie damit einverstanden?	क्या आप सहमत हैं?
-Do you agree with this?	Seid ihr damit einverstanden?	क्या आप इससे सहमत हैं?
-Do you believe in UFOs?	Glaubst du an UFOs?	क्या आप यूएफओ के बारे में सोचते हैं?
-Do you believe in UFOs?	Glaubst du an Ufos?	क्या आप यूएफओ के बारे में सोचते हैं?
-Do you dream in French?	Träumst du auf Französisch?	क्या आप फ्रेंच में सपने देखते हैं?
-Do you drink green tea?	Trinkst du grünen Tee?	क्या आप ग्रीन टी पीते हैं?
-Do you drink green tea?	Trinken Sie grünen Tee?	क्या आप ग्रीन टी पीते हैं?
-Do you feel better now?	Fühlst du dich jetzt besser?	क्या अब आपको बेहतर महसूस हो रहा है?
 Do you give to charity?	Spenden Sie für wohltätige Zwecke?	क्या आप धर्मार्थ उद्देश्यों के लिए दान करते हैं?
 Do you have a backpack?	Hast du einen Rucksack?	क्या आपके पास एक बैकपैक है?
 Do you have a backpack?	Habt ihr einen Rucksack?	क्या आपके पास एक बैकपैक है?
