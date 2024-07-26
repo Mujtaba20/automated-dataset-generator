@@ -1,15 +1,4 @@
 
-I know you like coffee.	Ich weiß, dass du Kaffee magst.	मुझे पता है कि आपको कॉफी पसंद है।
-I know you like sports.	Ich weiß, dass du Sport magst.	मुझे पता है कि आपको खेल पसंद है।
-I know you'll like Tom.	Ich weiß, dass du Tom mögen wirst.	मुझे पता है कि आप टॉम को पसंद करेंगे।
-I know you're confused.	Ich weiß, dass du verwirrt bist.	मुझे पता है कि आप भ्रमित हैं।
-I know you're in there.	Ich weiß, dass du da drin bist.	मुझे पता है कि आप वहां हैं।
-I know you're in there.	Ich weiß, dass ihr da drin seid.	मुझे पता है कि आप वहां हैं।
-I know you're in there.	Ich weiß, dass Sie da drin sind.	मुझे पता है कि वे वहां हैं।
-I know you're innocent.	Ich weiß, dass du unschuldig bist.	मुझे पता है कि आप निर्दोष हैं।
-I know you're talented.	Ich weiß, dass du Talent hast.	मुझे पता है कि आपके पास प्रतिभा है।
-I know you're talented.	Ich weiß, dass ihr Talent habt.	मुझे पता है कि आपके पास प्रतिभा है।
-I know you're talented.	Ich weiß, dass Sie Talent haben.	मुझे पता है कि आपके पास प्रतिभा है।
 I know your first name.	Ich kenne deinen Vornamen.	मुझे आपका पहला नाम पता है।
 I left my card at home.	Ich habe meine Karte zu Hause vergessen.	मैं घर पर अपना कार्ड भूल गया।
 I left the window open.	Ich habe das Fenster offen gelassen.	मैंने खिड़की खुली छोड़ दी।
