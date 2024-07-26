@@ -39338,3 +39338,12 @@ That was really sweet.	Das war wirklich süß.	वह वास्तव मे�
 That was sweet of you.	Das war freundlich von dir.	वह तुमसे प्यारा था।
 That was unbelievable.	Das war unglaublich.	वह अविश्वसनीय था।
 That was unforgivable.	Das war unverzeihlich.	वह अप्रासंगिक था।
+That was very helpful.	Das war sehr hilfreich.	वह बहुत ही सहायक था।
+That wasn't a mistake.	Das war kein Fehler.	यह गलती नहीं थी।
+That wasn't necessary.	Das war nicht notwendig.	वह आवश्यक नहीं था।
+That wasn't our fault.	Das war nicht unsere Schuld.	वह हमारी गलती नहीं थी।
+That wasn't very good.	Das war nicht sehr gut.	वह बहुत अच्छा नहीं था।
+That wasn't very nice.	Das war nicht sehr nett.	यह बहुत अच्छा नहीं था।
+That water pipe leaks.	Diese Wasserleitung leckt.	वह जल रही है।
+That works every time.	Das funktioniert jedes Mal.	यह हर बार काम करता है।
+That would be logical.	Das wäre logisch.	यह तार्किक होगा।
