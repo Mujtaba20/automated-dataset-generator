@@ -1,14 +1,4 @@
 
-Please wake me at six.	Bitte wecke mich um sechs.	कृपया मुझे छह पर जगाएं।
-Please weigh it again.	Wiege es bitte noch einmal.	कृपया इसे फिर से तौलें।
-Pork has a lot of fat.	In Schwein ist viel Fett.	सुअर में बहुत वसा है।
-Pork has a lot of fat.	Schweinefleisch enthält viel Fett.	पोर्क में बहुत अधिक वसा होता है।
-Prices are still high.	Die Preise sind immer noch hoch.	कीमतें अभी भी अधिक हैं।
-Prices have gone down.	Die Preise sind gefallen.	कीमतें गिर गई हैं।
-Put it in your pocket.	Stecken Sie das in Ihre Tasche!	इसे अपनी जेब में रखो!
-Put it where you like.	Tu es hin wo du willst.	आप जहां चाहते हैं, वहां करें।
-Put the baby to sleep.	Lege das Baby schlafen.	बच्चे को सोते हुए रखो।
-Quit making fun of me.	Hör auf, dich über mich lustig zu machen!	तुम मेरे बारे में मजाकिया बनाना बंद करो!
 Rabbits breed quickly.	Kaninchen vermehren sich rasch.	खरगोश तेजी से गुणा करते हैं।
 Raise your right hand.	Hebe deine rechte Hand.	अपना दाहिना हाथ उठाएं।
 Raise your right hand.	Heben Sie die rechte Hand.	अपना दांया हाथ उठाओ।
