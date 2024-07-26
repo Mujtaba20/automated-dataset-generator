@@ -27947,3 +27947,12 @@ She works all night.	Sie arbeitet die ganze Nacht.	वह पूरी रात
 She works at a bank.	Sie arbeitet in einer Bank.	वह एक बैंक में काम करती है।
 She works in a bank.	Sie arbeitet in einer Bank.	वह एक बैंक में काम करती है।
 She works very hard.	Sie arbeitet sehr hart.	वह बहुत मेहनत करती है।
+She's a blonde girl.	Sie ist ein blondes Mädchen.	वह एक ब्लोंड लड़की है।
+She's a good person.	Sie ist eine gute Person.	वह एक अच्छा इंसान है।
+She's a modern girl.	Sie ist ein modernes Mädchen.	वह एक आधुनिक लड़की है।
+She's a tough woman.	Sie ist eine harte Frau.	वह एक मजबूत महिला है।
+She's a true artist.	Sie ist eine wahre Künstlerin.	वह एक सच्चा कलाकार है।
+She's also a beauty.	Sie ist auch eine Schönheit.	वह भी एक सौंदर्य है।
+She's been poisoned.	Sie wurde vergiftet.	उसे जहर दिया गया है।
+She's getting older.	Sie wird älter.	वह बड़ी हो रही है।
+She's in a bad mood.	Sie ist schlecht gelaunt.	वह बुरे मिजाज में है।
