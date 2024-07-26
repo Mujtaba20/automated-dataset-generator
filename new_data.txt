@@ -41292,3 +41292,12 @@ What has Tom done now?	Was hat Tom diesmal gemacht?	अब टॉम ने क�
 What have we got here?	Was haben wir hier?	हमारे यहाँ क्या है?
 What have you decided?	Was hast du entschieden?	तुमने क्या निर्णय लिया है?
 engSentence	{'What he did was wrong.': 'Was er getan hat, war falsch.', 'What horrible weather!': 'Was für schreckliches Wetter!', 'What if Tom finds out?': 'Was ist, wenn Tom es herausfindet?', 'What is going on here?': 'Was passiert hier?', 'What is the cat up to?': 'Was macht die Katze?'}	{'What he did was wrong.': 'उसने जो किया, वह गलत था।', 'What if Tom was right?': 'अगर टॉम सही था तो?', "What if they're wrong?": 'अगर वे गलत हैं तो?', 'What is going on here?': 'यहाँ क्या हो रहा है?', 'What is the diagnosis?': 'निदान क्या है?'}
+What is the next stop?	Was ist der nächste Halt?	अगला स्टॉप क्या है?
+What is two times two?	Was ist zwei mal zwei?	दो गुना दो क्या है?
+What is your decision?	Was ist deine Entscheidung?	तुम्हारा निर्णय क्या है?
+What is your decision? - 2	Was sind deine Gedanken?	तुम्हारे विचार क्या हैं?
+What language is that?	Welche Sprache ist das?	वह कौनसी भाषा है?
+What language is this?	Welche Sprache ist das?	यह कौनसी भाषा है?
+What made Tom do that?	Was hat Tom dazu gebracht, das zu tun?	टॉम को ऐसा क्यों करना पड़ा?
+What made Tom do that? - 2	Was hat Tom bewegt, das zu tun?	टॉम को उसे ऐसा क्यों करना पड़ा?
+What made her do that?	Was hat sie dazu gebracht, das zu tun?	उसने ऐसा क्यों किया?

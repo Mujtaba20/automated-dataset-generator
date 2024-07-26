@@ -1,14 +1,4 @@
 
-What is the next stop?	Was ist der nächste Halt?	अगला ठहराव कौन सा है?
-What is two times two?	Was ist zwei mal zwei?	दो बार क्या है?
-What is your decision?	Wie hast du entschieden?	आपने कैसे फैसला किया?
-What is your decision?	Wie haben Sie entschieden?	आपने कैसे फैसला किया?
-What is your decision?	Wie habt ihr entschieden?	आपने कैसे फैसला किया?
-What language is that?	Welche Sprache ist das?	यह कौन सी भाषा है?
-What language is this?	Welche Sprache ist das?	यह कौन सी भाषा है?
-What made Tom do that?	Was hat Tom dazu gebracht, das zu tun?	टॉम ने क्या किया?
-What made Tom do that?	Was hat Tom dazu veranlasst?	टॉम ने क्या प्रेरित किया?
-What made her do that?	Was hat sie dazu gebracht, das zu tun?	आपने क्या किया?
 What made you do this?	Was hat dich dazu gebracht?	तुम्हे ऐसा क्यों?
 What made you do this?	Was brachte dich dazu, das zu tun?	आपने क्या किया?
 What makes you so sad?	Was macht dich so traurig?	क्या आपको बहुत दुखी करता है?
