@@ -26837,3 +26837,12 @@ I went to bed early.	Ich ging früh ins Bett.	मैं जल्दी सो�
 I went to visit Tom.	Ich bin gegangen, um Tom zu besuchen.	मैं टॉम को मिलने गया था।
 I will be back soon.	Ich bin bald zurück.	मैं जल्दी वापस आऊँगा।
 I will do it gladly.	Ich werde es gerne tun.	मैं खुशी-खुशी यह करूँगा।
+I will do it myself.	Ich werde es selbst machen.	मैं खुद ही इसे करूंगा।
+I will go if I must.	Ich werde gehen, wenn es sein muss.	अगर मुझे करना होगा तो मैं जाऊंगा।
+I will go on a trip.	Ich werde auf eine Reise gehen.	मैं एक यात्रा पर जाऊंगा।
+I will hit the sack.	Ich gehe schlafen.	मैं सो जाऊंगा।
+I will miss you all.	Ich werde dich alle vermissen.	मुझे तुम सबकी याद आएगी।
+I will not help you.	Ich werde dir nicht helfen.	मैं तुम्हें मदद नहीं करूंगा।
+I will see you home.	Ich werde dich nach Hause bringen.	मैं तुम्हें घर देख कर आऊँगा।
+I will stay at home.	Ich werde zu Hause bleiben.	मैं घर पर रहूंगा।
+I will study German.	Ich werde Deutsch lernen.	मैं जर्मन पढ़ूँगा।
