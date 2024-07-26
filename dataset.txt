@@ -1,14 +1,4 @@
 
-Tom is unimaginative.	Tom hat keine Phantasie.	टॉम की कोई कल्पना नहीं है।
-Tom is uninteresting.	Tom ist uninteressant.	टॉम निर्बाध है।
-Tom is untrustworthy.	Tom ist unzuverlässig.	टॉम अविश्वसनीय है।
-Tom is up to no good.	Tom führt nichts Gutes im Schilde.	टॉम कुछ भी अच्छा नहीं करता है।
-Tom is very annoying.	Tom ist sehr lästig.	टॉम बहुत कष्टप्रद है।
-Tom is very arrogant.	Tom ist ziemlich arrogant.	टॉम बहुत घमंडी है।
-Tom is very athletic.	Tom ist sehr athletisch.	टॉम बहुत एथलेटिक है।
-Tom is very busy now.	Tom ist jetzt sehr beschäftigt.	टॉम अब बहुत व्यस्त हैं।
-Tom is very careless.	Tom ist sehr sorglos.	टॉम बहुत लापरवाह है।
-Tom is very charming.	Tom ist sehr charmant.	टॉम बहुत आकर्षक है।
 Tom is very childish.	Tom ist sehr kindisch.	टॉम बहुत बचकाना है।
 Tom is very creative.	Tom ist sehr kreativ.	टॉम बहुत रचनात्मक है।
 Tom is very discreet.	Tom ist sehr diskret.	टॉम बहुत विवेकपूर्ण है।

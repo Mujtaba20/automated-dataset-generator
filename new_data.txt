@@ -34530,3 +34530,13 @@ Tom is the real hero.	Tom ist der wahre Held.	टॉम असली हीर�
 Tom is the strongest.	Tom ist der stärkste.	टॉम सबसे मज़बूत है।
 Tom is traveling now.	Tom reist jetzt.	टॉम अब यात्रा कर रहा है।
 Tom is under the bed.	Tom liegt unter dem Bett.	टॉम बिस्तर के नीचे है।
+Tom is unimaginative.	Tom ist einfallslos.	टॉम सिराना है।
+Tom is uninteresting.	Tom ist uninteressant.	टॉम दिलचस्प नहीं है।
+Tom is untrustworthy.	Tom ist unzuverlässig.	टॉम अविश्वसनीय है।
+Tom is up to no good.	Tom hat nichts Gutes im Sinn.	टॉम बुरे इरादे में है।
+Tom is very annoying.	Tom ist sehr nervig.	टॉम बहुत परेशान करने वाला है।
+Tom is very arrogant.	Tom ist sehr arrogant.	टॉम बहुत अभिमानी है।
+Tom is very athletic.	Tom ist sehr sportlich.	टॉम बहुत खिलाड़ी है।
+Tom is very busy now.	Tom ist jetzt sehr beschäftigt.	टॉम अब बहुत व्यस्त है।
+Tom is very careless.	Tom ist sehr sorglos.	टॉम बहुत बेपरवाह है।
+Tom is very charming.	Tom ist sehr charmant.	टॉम बहुत करिश्माई है।
