@@ -1,14 +1,4 @@
 
-I like rain and snow.	Ich mag Regen und Schnee.	मुझे बारिश और बर्फ पसंद है।
-I like reading books.	Ich lese gerne Bücher.	मैं किताबें पढ़ना पसंद करता हूं।
-I like silent movies.	Ich mag Stummfilme.	मुझे मूक फिल्में पसंद हैं।
-I like skateboarding.	Ich fahre gerne Skateboard.	मुझे स्केटबोर्ड चलाना पसंद है।
-I like teaching, too.	Ich unterrichte auch gerne.	मुझे भी सिखाना पसंद है।
-I like the food here.	Ich mag das Essen hier.	मुझे यहाँ खाना पसंद है।
-I like to be at home.	Ich bin gern zuhause.	मुझे घर पर रहना पसंद है।
-I like to drink milk.	Ich trinke gerne Milch.	मुझे दूध पीना पसंद है।
-I like to drink wine.	Ich trinke gerne Wein.	मुझे वाइन पीना पसंद है।
-I like to drink wine.	Ich trinke gern Wein.	मुझे वाइन पीना पसंद है।
 I like to eat apples.	Ich esse gerne Äpfel.	मुझे सेब खाना पसंद है।
 I like to play poker.	Ich spiele gern Poker.	मुझे पोकर खेलना पसंद है।
 I like to read books.	Ich lese gerne Bücher.	मैं किताबें पढ़ना पसंद करता हूं।

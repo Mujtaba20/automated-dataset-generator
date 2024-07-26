@@ -31898,3 +31898,13 @@ I like my steak rare.	Ich mag mein Steak blutig.	मुझे मेरा स�
 I like our new coach.	Ich mag unseren neuen Trainer.	मुझे हमारे नए कोच पसंद हैं।
 I like painting, too.	Ich male auch gerne.	मुझे चित्रकला भी पसंद है।
 I like playing chess.	Ich spiele gerne Schach.	मुझे शतरंज खेलना पसंद है।
+I like rain and snow.	Ich mag Regen und Schnee.	मुझे बारिश और बर्फ पसंद है।
+I like reading books.	Ich lese gerne Bücher.	मुझे किताबें पढ़ना पसंद है।
+I like silent movies.	Ich mag stumme Filme.	मुझे चुपचाप फिल्में पसंद हैं।
+I like skateboarding.	Ich mag Skateboarden.	मुझे स्केटबोर्डिंग पसंद है।
+I like teaching, too.	Ich unterrichte auch gerne.	मुझे सिखाना भी पसंद है।
+I like the food here.	Ich mag das Essen hier.	मुझे यहाँ का खाना पसंद है।
+I like to be at home.	Ich bin gerne zu Hause.	मुझे घर पर रहना पसंद है।
+I like to drink milk.	Ich trinke gerne Milch.	मुझे दूध पीना पसंद है।
+I like to drink wine.	Ich trinke gerne Wein.	मुझे शराब पीना पसंद है।
+I like to dance.	Ich tanze gerne.	मुझे नृत्य करना पसंद है।
