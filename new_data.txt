@@ -26962,3 +26962,10 @@ I'll read it to you.	Ich werde es dir vorlesen.	मैं यह तुम्ह
 I'll read this book.	Ich werde dieses Buch lesen.	मैं यह पुस्तक पढ़ूँगा।
 I'll return at 6:30.	Ich werde um 6:30 zurückkehren.	मैं 6:30 बजे वापस आऊँगा।
 I'll see how Tom is.	Ich werde sehen, wie es Tom geht.	मैं देखूँगा कि Tom कैसा है।
+I'll see you Monday.	Ich werde dich am Montag sehen.	मैं तुम्हें सोमवार को देखूंगा।
+I'll see you around.	Ich werde dich sehen.	मैं तुम्हें देखूंगा।
+I'll take it to Tom.	Ich werde es zu Tom bringen.	मैं इसे टॉम के पास ले जाऊंगा।
+I'll take that risk.	Ich werde dieses Risiko eingehen.	मैं वह जोखिम लूंगा।
+I'll take this coat.	Ich nehme diesen Mantel.	मैं यह कोट लेंगा।
+I'll take you there.	Ich bringe dich dorthin.	मैं तुम्हें वहाँ ले जाऊंगा।
+I'll tell you later.	Ich werde es dir später sagen.	मैं तुम्हें बाद में बताऊंगा।
