@@ -39260,3 +39260,8 @@ Tears came to my eyes.	Tränen kamen in meine Augen.	आंसू मेरी �
 Tell Tom I'll be back.	Sag Tom, dass ich zurückkomme.	टॉम को कहो, मैं वापस आऊँगा।
 Tell Tom I'm innocent.	Sag Tom, ich bin unschuldig.	टॉम को बताओ, मैं बेगुनाह हूँ।
 Tell Tom what that is.	Sag Tom, was das ist.	टॉम को बताओ कि वह क्या है।
+Tell Tom what this is.	Sag Tom, was das ist.	टॉम को बताओ कि यह क्या है।
+Tell Tom what's wrong.	Sag Tom, was falsch ist.	टॉम को बताओ क्या गलत है।
+Tell me how he got it.	Sag mir, wie er es bekommen hat.	मुझे बताओ कि उसने यह कैसे प्राप्त किया।
+Tell me it isn't true.	Sag mir, dass es nicht wahr ist.	मुझे बताओ कि यह सच नहीं है।
+Tell me something new.	Sag mir etwas Neues.	मुझे कुछ नया बताओ।

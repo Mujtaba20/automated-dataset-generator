@@ -1,14 +1,4 @@
 
-Tell Tom what this is.	Sag Tom, was das ist!	टॉम कहो कि क्या है!
-Tell Tom what this is.	Sagt Tom, was das ist!	टॉम कहते हैं कि क्या है!
-Tell Tom what this is.	Sagen Sie Tom, was das ist!	टॉम कहो कि क्या है!
-Tell Tom what's wrong.	Sag Tom, was los ist!	कहो टॉम क्या चल रहा है!
-Tell Tom what's wrong.	Sagt Tom, was los ist!	टॉम कहते हैं कि क्या चल रहा है!
-Tell Tom what's wrong.	Sagen Sie Tom, was los ist!	कहो टॉम क्या चल रहा है!
-Tell me how he got it.	Sag mir, wo er das herhat.	मुझे बताओ कि वह कहाँ था।
-Tell me it isn't true.	Sag mir, dass es nicht wahr ist!	मुझे बताओ यह सच नहीं है!
-Tell me it's not true.	Sag mir, dass es nicht wahr ist!	मुझे बताओ यह सच नहीं है!
-Tell me something new.	Erzähl mir was Neues.	मुझे कुछ नया बताओ।
 Tell me what Tom said.	Erzähl mir, was Tom gesagt hat!	मुझे बताओ कि टॉम ने क्या कहा!
 Tell me what happened.	Sag mir, was passiert ist.	मुझे बताओ कि क्या खुशी है।
 Tell me what you know.	Sag mir, was du weißt.	मुझे बताओ कि तुम क्या जानते हो।
