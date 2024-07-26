@@ -38435,3 +38435,12 @@ Is that my toothbrush?	Ist das meine Zahnbürste?	क्या यह मेर�
 Is that peanut butter?	Ist das Erdnussbutter?	क्या वह मूँगफली की मक्खन है?
 Is that something new?	Ist das etwas Neues?	क्या यह कोई नया चीज़ है?
 Is that still my room?	Ist das immer noch mein Zimmer?	क्या यह अभी भी मेरा कमरा है?
+Is that too difficult?	Ist das zu schwer?	क्या यह बहुत कठिन है?
+Is that what Tom said?	Ist das, was Tom gesagt hat?	क्या यह वही है जो टॉम ने कहा?
+Is that what Tom says?	Ist das, was Tom sagt?	क्या यह वही है जो टॉम कहता है?
+Is that what he wants?	Ist das, was er will?	क्या यह वही है जो वह चाहता है?
+Is that what it takes?	Ist das, was es braucht?	क्या इसे लेने में यही समय लगता है?
+Is that what you said?	Ist das, was du gesagt hast?	क्या यह वही है जो तुमने कहा था?
+Is that what you want?	Ist das, was du willst?	क्या यह वही है जो तुम चाहते हो?
+Is that why they died?	Ist das der Grund, warum sie gestorben sind?	क्या यह वह कारण है जिसके कारण उनकी मौत हो गई?
+Is that your new book?	Ist das dein neues Buch?	क्या यह तुम्हारी नई किताब है?
