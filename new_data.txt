@@ -34401,3 +34401,11 @@ Tom is always scared.	Tom hat immer Angst.	टॉम हमेशा डरा �
 Tom is always sleepy.	Tom ist immer müde.	टॉम हमेशा नींद में होता है।
 Tom is an accountant.	Tom ist ein Buchhalter.	टॉम एक लेखा समापनकर्ता है।
 Tom is an art critic.	Tom ist Kunstkritiker.	टॉम कला समीक्षक है।
+Tom is an art dealer.	Tom ist ein Kunsthändler.	टॉम कलाकार व्यापारी है।
+Tom is an honest man.	Tom ist ein ehrlicher Mann.	टॉम ईमानदार आदमी है।
+Tom is an old friend.	Tom ist ein alter Freund.	टॉम पुराना दोस्त है।
+Tom is an only child.	Tom ist ein Einzelkind.	टॉम एक मात्र बच्चा है।
+Tom is angry with me.	Tom ist wütend auf mich.	टॉम मुझसे नाराज़ है।
+Tom is angry with us.	Tom ist wütend auf uns.	टॉम हमारे साथ नाराज़ है।
+Tom is annoying Mary.	Tom nervt Mary.	टॉम मेरी को परेशान कर रहा है।
+Tom is around thirty.	Tom ist ungefähr dreißig.	टॉम तीस के आसपास है।

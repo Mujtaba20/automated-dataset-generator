@@ -1,15 +1,4 @@
 
-Tom is an art dealer.	Tom ist Kunsthändler.	टॉम एक कला डीलर है।
-Tom is an honest man.	Tom ist ein aufrichtiger Mann.	टॉम एक ईमानदार आदमी है।
-Tom is an old friend.	Tom ist ein alter Freund.	टॉम एक पुराना दोस्त है।
-Tom is an only child.	Tom ist ein Einzelkind.	टॉम एक एकल बच्चा है।
-Tom is angry with me.	Tom ist böse auf mich.	टॉम मुझ पर बुराई है।
-Tom is angry with us.	Tom ist sauer auf uns.	टॉम हमसे नाराज है।
-Tom is angry with us.	Tom ist wütend auf uns.	टॉम हमसे नाराज है।
-Tom is annoying Mary.	Tom stört Maria.	टॉम ने मारिया को परेशान किया।
-Tom is annoying Mary.	Tom belästigt Maria.	टॉम ने मारिया से छेड़छाड़ की।
-Tom is around thirty.	Tom ist um die dreißig Jahre alt.	टॉम लगभग तीस साल का है।
-Tom is around thirty.	Tom ist ungefähr dreißig.	टॉम लगभग तीस है।
 Tom is as tall as me.	Tom ist so groß wie ich.	टॉम मेरे जितना बड़ा है।
 Tom is asking for it.	Tom bittet darum.	टॉम इसके लिए पूछता है।
 Tom is asleep in bed.	Tom liegt im Bett und schläft.	टॉम बिस्तर में झूठ बोलता है और सोता है।
