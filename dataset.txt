@@ -1,14 +1,4 @@
 
-You're an optimist.	Du bist ein Optimist.	आप एक आशावादी हैं।
-You're an optimist.	Sie sind ein Optimist.	आप एक आशावादी हैं।
-You're annoying me.	Du nervst mich.	आपने मुझे नाराज़ किया।
-You're avoiding me.	Du meidest mich.	तुमने मेरी उपेक्षा की।
-You're avoiding me.	Sie meiden mich.	वे मुझसे बचते हैं।
-You're avoiding me.	Ihr meidet mich.	तुमने मेरी उपेक्षा की।
-You're both insane.	Ihr seid beide verrückt.	तुम दोनों पागल हो।
-You're charismatic.	Du bist charismatisch.	आप करिश्माई हैं।
-You're charismatic.	Sie sind charismatisch.	वे करिश्माई हैं।
-You're charismatic.	Ihr seid charismatisch.	आप करिश्माई हैं।
 You're cooperating.	Ihr arbeitet mit.	आप के साथ काम।
 You're cooperating.	Sie arbeiten mit.	आप के साथ काम।
 You're cooperating.	Du arbeitest mit.	आप के साथ काम।

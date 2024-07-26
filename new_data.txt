@@ -24960,3 +24960,8 @@ You're a woman now.
 You're all cowards.		
 You're all racists.		
 You're always busy.		
+You're an optimist.	Du bist ein Optimist.	तुम एक आशावादी हो।
+You're annoying me.	Du gehst mir auf die Nerven.	तुम मुझे परेशान कर रहे हो।
+You're avoiding me.	Du meidest mich.	तुम मुझसे बच रहे हो।
+You're both insane.	Ihr seid beide verrückt.	तुम दोनो पागल हो।
+You're charismatic.	Du bist charismatisch.	तुम आकर्षक हो।
