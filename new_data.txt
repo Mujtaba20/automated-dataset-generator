@@ -33108,3 +33108,10 @@ My family is wealthy.	Meine Familie ist wohlhabend.	मेरा परिवा
 My family isn't rich.	Meine Familie ist nicht reich.	मेरा परिवार धनवान नहीं है।
 My family lives here.	Meine Familie lebt hier.	मेरा परिवार यहाँ रहता है।
 My family's not rich.	Meine Familie ist nicht reich.	मेरा परिवार धनवान नहीं है।
+My father became old.	Mein Vater ist alt geworden.	मेरे पिताजी बूढ़े हो गए।
+My father is at home.	Mein Vater ist zu Hause.	मेरे पिताजी घर पर हैं।
+My father isn't home.	Mein Vater ist nicht zu Hause.	मेरे पिताजी घर पर नहीं हैं।
+My father works here.	Mein Vater arbeitet hier.	मेरे पिताजी यहाँ काम करते हैं।
+My father's a doctor.	Mein Vater ist Arzt.	मेरे पिताजी एक डॉक्टर हैं।
+My first car was red.	Mein erstes Auto war rot.	मेरी पहली कार लाल थी।
+My hair is still wet.	Meine Haare sind immer noch nass.	मेरे बाल अभी भी गीले हैं।
