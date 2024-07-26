@@ -31653,3 +31653,12 @@ I feel like partying.	Ich habe Lust zu feiern.	मुझे पार्टी �
 I feel like vomiting.	Mir ist übel.	मुझे उल्टी आ रही है।
 I feel really stupid.	Ich fühle mich wirklich dumm.	मैं सचमुच मूर्ख महसूस कर रहा हूँ।
 I feel sorry for her.	Es tut mir leid für sie.	मुझे उसके लिए दुःख है।
+I feel sorry for him.	Ich fühle mich schlecht für ihn.	मुझे उसके लिए दुःख हो रहा है।
+I feel very betrayed.	Ich fühle mich sehr verraten.	मुझे बहुत धोखा मिला है।
+I feel very feverish.	Ich fühle mich sehr fiebrig.	मुझे बहुत बुखार महसूस हो रहा है।
+I felt like an idiot.	Ich habe mich wie ein Idiot gefühlt.	मैंने मुर्ख की तरह महसूस किया।
+I felt really scared.	Ich habe mich wirklich erschrocken gefühlt.	मैंने सचमुच डर का अहसास किया।
+I felt sorry for Tom.	Ich habe mit Tom Mitleid empfunden.	मैंने टॉम के लिए दुःख महसूस किया।
+I felt very isolated.	Ich habe mich sehr isoliert gefühlt.	मैंने बहुत ही अलगाव महसूस किया।
+I finally understand.	Ich verstehe endlich.	मुझे आखिरकार समझ आ गयी है।
+I forget who said it.	Ich habe vergessen, wer es gesagt hat.	मैं भूल गया कि किसने कहा था।

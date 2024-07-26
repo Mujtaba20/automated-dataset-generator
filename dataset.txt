@@ -1,14 +1,4 @@
 
-I feel sorry for him.	Er tut mir leid.	मुझे माफ़ करें।
-I feel very betrayed.	Ich fühle mich sehr betrogen.	मुझे बहुत धोखा लगता है।
-I feel very feverish.	Ich fühle mich sehr fiebrig.	मुझे बहुत बुखार महसूस होता है।
-I felt like an idiot.	Ich kam mir wie ein Idiot vor.	मुझे एक बेवकूफ की तरह लगा।
-I felt like an idiot.	Ich kam mir wie ein Trottel vor.	मुझे एक मूर्ख की तरह लगा।
-I felt really scared.	Ich hatte große Angst.	मुझे बहुत डर लग रहा था।
-I felt sorry for Tom.	Tom tat mir leid.	मुझे टॉम के लिए खेद महसूस हुआ।
-I felt very isolated.	Ich fühlte mich sehr einsam.	मुझे बहुत अकेला महसूस हुआ।
-I finally understand.	Ich verstehe es endlich.	मैं अंत में समझता हूं।
-I forget who said it.	Ich habe vergessen, wer es gesagt hat.	मैं भूल गया कि यह किसने कहा।
 I forgot his address.	Ich habe seine Anschrift vergessen.	मैं उसका पता भूल गया।
 I forgot his address.	Ich habe seine Adresse vergessen.	मैं उसका पता भूल गया।
 I forgot my password.	Ich habe mein Passwort vergessen.	मैं अपना कूटशब्द भूल गया हूं।
