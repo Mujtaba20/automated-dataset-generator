@@ -33348,3 +33348,12 @@ She is always scared.	Sie hat immer Angst.	वह हमेशा डरी ह�
 She is angry with me.	Sie ist verärgert auf mich.	वह मुझसे नाराज़ है।
 She is getting older.	Sie wird älter.	वह बड़ी हो रही है।
 She is in a bad mood.	Sie hat eine schlechte Stimmung.	उसका मन खराब है।
+She is living abroad.	Sie lebt im Ausland.	वह विदेश में रह रहा है।
+She is making dinner.	Sie macht das Abendessen.	वह रात का खाना बना रही है।
+She is my dream girl.	Sie ist mein Traummädchen.	वह मेरी सपनों की लड़की है।
+She is never on time.	Sie ist nie pünktlich.	वह कभी समय पर नहीं होती है।
+She is out of danger.	Sie ist außer Gefahr.	वह खतरे से बाहर है।
+She is the messenger.	Sie ist die Botin.	वह संदेशवाहक है।
+She is traveling now.	Sie reist jetzt.	वह अभी यात्रा कर रही है।
+She is wearing a hat.	Sie trägt einen Hut.	वह एक टोपी पहन रही है।
+She knelt beside him.	Sie kniete neben ihm.	उसके पास उसने झुककर बैठ लिया।
