@@ -1,14 +1,4 @@
 
-Where is your money?	Wo ist dein Geld?	आपका पैसा कहाँ है?
-Where is your money?	Wo ist euer Geld?	आपका पैसा कहाँ है?
-Where is your money?	Wo ist Ihr Geld?	आपका पैसा कहाँ है?
-Where shall we meet?	Wo wollen wir uns treffen?	हम कहां मिलना चाहते हैं?
-Where shall we meet?	Wo sollen wir uns treffen?	हमें कहां मिलना चाहिए?
-Where should I park?	Wo soll ich parken?	मुझे कहाँ पार्क करना चाहिए?
-Where should Tom go?	Wo soll Tom hin?	टॉम कहाँ जाना चाहिए?
-Where were you born?	Wo bist du geboren?	आपका जन्म कहां हुआ था?
-Where were you born?	Wo sind Sie geboren?	जहां आप पैदा होते हैं?
-Where were you born?	Wo seid ihr geboren?	आपका जन्म कहां हुआ था?
 Where's Tom playing?	Wo spielt Tom?	टॉम कहाँ खेलता है?
 Where's Tom's stuff?	Wo sind Toms Sachen?	टॉम की बातें कहाँ हैं?
 Where's Tom's watch?	Wo ist Toms Uhr?	टॉम्स क्लॉक कहाँ है?

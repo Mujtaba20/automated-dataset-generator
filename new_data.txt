@@ -29925,3 +29925,8 @@ Where is the butter?	Wo ist die Butter?	मक्खन कहाँ है?
 Where is the toilet?	Wo ist die Toilette?	शौचालय कहाँ है?
 Where is your house?	Wo ist dein Haus?	तुम्हारा घर कहाँ है?
 Where is your mommy?	Wo ist deine Mama?	तुम्हारी मम्मी कहाँ है?
+Where is your money?	Wo befindet sich dein Geld?	तुम्हारे पैसे कहाँ हो सकते हैं?
+Where shall we meet?	Wo sollen wir uns treffen?	हम कहाँ मिलेंगे?
+Where should I park?	Wo soll ich parken?	मैं कहाँ पार्किंग करूँ?
+Where should Tom go?	Wohin sollte Tom gehen?	टॉम को कहाँ जाना चाहिए?
+Where were you born?	Wo bist du geboren?	तुम कहाँ पैदा हुए थे?
