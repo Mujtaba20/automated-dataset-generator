@@ -1,16 +1,4 @@
 
-School is over now.	Die Schule ist jetzt vorbei.	स्कूल अब खत्म हो गया है।
-School is over now.	Die Schule ist jetzt aus.	स्कूल अब खत्म हो गया है।
-Schools are closed.	Schulen sind geschlossen.	स्कूल बंद हैं।
-Schools were built.	Es wurden Schulen gebaut.	स्कूल बनाए गए थे।
-Schools were built.	Schulen wurden gebaut.	स्कूल बनाए गए थे।
-Sea water is salty.	Meerwasser ist salzig.	समुद्र का पानी नमकीन है।
-See you guys later.	Bis später, Leute!	बाद में मिलते हैं, लोग!
-See you in October.	Wir sehen uns im Oktober.	हम अक्टूबर में हमें देखेंगे।
-Send it by airmail.	Sende es per Luftpost.	इसे एयरमेल द्वारा भेजें।
-Send it by airmail.	Schick es per Luftpost.	इसे एयरमेल द्वारा भेजें।
-Send it by airmail.	Schicken Sie es per Luftpost.	इसे एयरमेल द्वारा भेजें।
-Send it by airmail.	Senden Sie es per Luftpost!	इसे एयरमेल द्वारा भेजें!
 Send me a postcard.	Schick mir eine Postkarte.	मुझे एक पोस्टकार्ड भेजें।
 Send me a postcard.	Schickt mir eine Postkarte.	मुझे एक पोस्टकार्ड भेजें।
 Send me a postcard.	Schicken Sie mir eine Postkarte.	मुझे एक पोस्टकार्ड भेजें।

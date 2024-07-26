@@ -22667,3 +22667,10 @@ Return immediately.	Kehren Sie sofort zurück.	तुरंत लौटें�
 Run for your lives!	Lauf um dein Leben!	अपनी जान बचाने के लिए भागो!
 Save it till later.	Bewahren Sie es bis später auf.	इसे बाद में बचाओ।
 Save your strength.	Schonen Sie Ihre Kraft.	अपनी ताकत बचाओ।
+School is over now.	Die Schule ist jetzt vorbei.	अब स्कूल खत्म हो गया है।
+Schools are closed.	Die Schulen sind geschlossen.	स्कूल बंद हैं।
+Schools were built.	Schulen wurden gebaut.	स्कूलों का निर्माण किया गया था।
+Sea water is salty.	Meerwasser ist salzig.	समुद्र का पानी नमकीन होता है।
+See you guys later.	Bis später, Leute.	बाद में मिलेंगे।
+See you in October.	Wir sehen uns im Oktober.	अक्टूबर में मिलेंगे।
+Send it by airmail.	Schicken Sie es per Luftpost.	इसे हवाई द्वारा भेजें।
