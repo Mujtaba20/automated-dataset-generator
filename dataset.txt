@@ -1,14 +1,4 @@
 
-Tom plays the piano.	Tom spielt Klavier.	टॉम पियानो बजाता है।
-Tom pointed at Mary.	Tom zeigte auf Maria.	टॉम ने मारिया की ओर इशारा किया।
-Tom pointed to Mary.	Tom zeigte auf Maria.	टॉम ने मारिया की ओर इशारा किया।
-Tom praised his son.	Tom lobte seinen Sohn.	टॉम ने अपने बेटे की प्रशंसा की।
-Tom put Mary to bed.	Tom brachte Maria ins Bett.	टॉम ने मारिया को बिस्तर पर लाया।
-Tom put on an apron.	Tom legte ein Schürze an.	टॉम ने एक एप्रन पर रखा।
-Tom raised his arms.	Tom hob seine Arme hoch.	टॉम ने अपनी बाहें उठाईं।
-Tom raised his hand.	Tom hob die Hand.	टॉम ने अपना हाथ उठाया।
-Tom raised his hand.	Tom meldete sich.	टॉम ने सूचना दी।
-Tom raised the flag.	Tom hisste die Fahne.	टॉम के पास झंडा था।
 Tom ran a red light.	Tom ist über eine rote Ampel gefahren.	टॉम ने एक लाल ट्रैफिक लाइट पर चलाई।
 Tom ran a red light.	Tom ist bei Rot über eine Ampel gefahren.	टॉम ने रेड पर ट्रैफिक लाइट को चलाया।
 Tom ran out of food.	Tom ging das Essen aus.	टॉम भोजन से बाहर चला गया।

@@ -29203,3 +29203,12 @@ Tom planted lettuce.	Tom hat Salat gepflanzt.	टॉम ने लेटुस �
 Tom played football.	Tom hat Fußball gespielt.	टॉम ने फुटबॉल खेला।
 Tom plays the drums.	Tom spielt Schlagzeug.	टॉम ड्रम्स बजाता है।
 Tom plays the organ.	Tom spielt die Orgel.	टॉम ऑर्गन बजाता है।
+Tom plays the piano.	Tom spielt Klavier.	टॉम पियानो बजाता है।
+Tom pointed at Mary.	Tom zeigte auf Mary.	टॉम ने मेरी की ओर इशारा किया।
+Tom pointed to Mary.	Tom deutete auf Mary.	टॉम ने मेरी की ओर देखे इशारा किया।
+Tom praised his son.	Tom lobte seinen Sohn.	टॉम ने अपने बेटे की सराहना की।
+Tom put Mary to bed.	Tom brachte Mary ins Bett.	टॉम ने मेरी को बिस्तर पर रखा।
+Tom put on an apron.	Tom zog eine Schürze an.	टॉम ने अप्रॉन पहना।
+Tom raised his arms.	Tom hob seine Arme.	टॉम ने अपने हाथ ऊपर किए।
+Tom raised his hand.	Tom hob die Hand.	टॉम ने हाथ उठाया।
+Tom raised the flag.	Tom hisste die Flagge.	टॉम ने झांडा उठाया।
