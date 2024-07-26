@@ -1,14 +1,4 @@
 
-She opened the door.	Sie machte die Tür auf.	उसने दरवाजा खोला।
-She opened the door.	Sie öffnete die Tür.	उसने दरवाजा खोला।
-She pawned her gold.	Sie hat ihr Gold verpfändet.	उसने अपना सोना प्रतिज्ञा की।
-She plays the piano.	Sie spielt Klavier.	वह पियानो बजाती है।
-She raised her hand.	Sie hob die Hand.	उसने हाथ उठाया।
-She reserved a room.	Sie hat ein Zimmer reserviert.	उसने एक कमरा आरक्षित किया।
-She reserved a room.	Sie reservierte ein Zimmer.	उसने एक कमरा आरक्षित किया।
-She reserved a room.	Sie buchte ein Zimmer.	उसने एक कमरा बुक किया।
-She reserved a room.	Sie hat ein Zimmer gebucht.	उसने एक कमरा बुक किया।
-She rubbed her eyes.	Sie rieb sich die Augen.	उसने अपनी आँखें रगड़ दीं।
 She sat next to him.	Sie saß neben ihm.	वह उसके बगल में बैठी थी।
 She sat next to him.	Sie setzte sich neben ihn.	वह उसके बगल में बैठी थी।
 She sat next to him.	Sie hat sich neben ihn gesetzt.	वह उसके बगल में बैठ गई।

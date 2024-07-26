@@ -27912,3 +27912,9 @@ She locked the door.	Sie verriegelte die Tür.	उसने दरवाज़�
 She looks very sick.	Sie sieht sehr krank aus.	वह बहुत बीमार लग रही है।
 She made tea for me.	Sie machte mir Tee.	उसने मुझे चाय बनायी।
 She opened her eyes.	Sie schaute mit offenen Augen.	उसने अपनी नजरें खोली।
+She opened the door.	Sie öffnete die Tür.	उसने दरवाजा खोल दिया।
+She pawned her gold.	Sie verpfändete ihr Gold.	उसने अपने सोने की विक्रय की।
+She plays the piano.	Sie spielt Klavier.	वह पियानो बजाती है।
+She raised her hand.	Sie hob ihre Hand.	उसने अपना हाथ उठाया।
+She reserved a room.	Sie reservierte ein Zimmer.	उसने एक कमरा आरक्षित किया।
+She rubbed her eyes.	Sie rieb sich die Augen.	उसने अपनी आंखें पोंछी।
