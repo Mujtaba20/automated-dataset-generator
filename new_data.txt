@@ -22697,3 +22697,12 @@ She does not smoke.	Sie raucht nicht.	वह सिगरेट नहीं प
 She gave it to him.	Sie gab es ihm.	उसने उसे दिया।
 She gave me a doll.	Sie gab mir eine Puppe.	उसने मुझे एक गुड़िया दी।
 She goes to school.	Sie besucht die Schule.	वह पाठशाला जाती है।
+She had no brother.	Sie hatte keinen Bruder.	उसके पास कोई भाई नहीं था।
+She has brown eyes.	Sie hat braune Augen.	उसकी आँखें भूरी हैं।
+She has even teeth.	Sie hat gerade Zähne.	उसके दाँत साफ हैं।
+She has green eyes.	Sie hat grüne Augen.	उसकी आँखें हरी हैं।
+She has more books.	Sie hat mehr Bücher.	उसके पास अधिक किताबें हैं।
+She has no enemies.	Sie hat keine Feinde.	उसके दुश्मन नहीं हैं।
+She has no manners.	Sie hat keine Manieren.	उसके पास कोई शिष्टाचार नहीं है।
+She has seven sons.	Sie hat sieben Söhne.	उसके सात पुत्र हैं।
+She has short hair.	Sie hat kurze Haare.	उसके बाल छोटे हैं।
