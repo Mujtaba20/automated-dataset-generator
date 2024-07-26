@@ -35819,3 +35819,10 @@ You keep out of this.	Du bleibst hier draußen.	तुम इसके बाह
 You stay out of this.	Du bleibst hier raus.	तुम इससे बाहर रहो।
 You killed my father.	Du hast meinen Vater getötet.	तुमने मेरे पिताजी को मार दिया।
 You kiss like a fish.	Du küsst wie ein Fisch.	तुम मछली की तरह चुम्बन लेते हो।
+You knew that, right?	Du wusstest das, oder?	क्या तुम्हें पता था, सही?
+You know I'm married.	Du weißt, dass ich verheiratet bin.	तुम्हें पता है मैं शादीशुदा हूं।
+You know we love you.	Du weißt, dass wir dich lieben.	तुम्हें पता है हम तुमसे प्यार करते हैं।
+You know what I like.	Du weißt, was ich mag.	तुम्हें पता है मुझे क्या पसंद है।
+You know what I mean.	Du weißt, was ich meine.	तुम्हें पता है मेरा मतलब क्या है।
+You know what I want.	Du weißt, was ich will.	तुम्हें पता है मुझे क्या चाहिए।
+You know your rights.	Du kennst deine Rechte.	तुम्हें अपने अधिकार पता है।
