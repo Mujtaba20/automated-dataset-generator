@@ -25730,3 +25730,12 @@ He lives in Cardiff.	Er lebt in Cardiff.	वह कार्डिफ में 
 He lives in comfort.	Er lebt in Komfort.	वह सुख सुविधा में रहता है।
 He lives in his car.	Er lebt in seinem Auto.	वह अपनी कार में रहता है।
 He lives next to me.	Er lebt neben mir.	वह मेरे पास रहता है।
+He lives off campus.	Er lebt außerhalb des Campus.	वह कैंपस के बाहर रहता है।
+He looks suspicious.	Er sieht verdächtig aus.	वह संदेह से दिखता है।
+He looks very tired.	Er wirkt sehr müde.	वह बहुत थका हुआ लग रहा है।
+He loves nightclubs.	Er liebt Nachtclubs.	उसे नाइटक्लब्स से प्यार है।
+He loves the tigers.	Er liebt die Tiger.	उसे बाघों से प्यार है।
+He made a wisecrack.	Er machte einen Scherz.	उसने एक मजाक किया।
+He made me go there.	Er ließ mich dorthin gehen.	उसने मुझे वहाँ जाने के लिए मजबूर किया।
+He made no response.	Er reagierte nicht.	उसने कोई प्रतिक्रिया नहीं दी।
+He made up his mind.	Er hat sich entschlossen.	उसने अपना निश्चय किया।

@@ -1,16 +1,4 @@
 
-He lives off campus.	Er lebt außerhalb der Universität.	वह विश्वविद्यालय के बाहर रहता है।
-He looks suspicious.	Er sieht verdächtig aus.	वह संदिग्ध दिखता है।
-He looks very tired.	Er sieht sehr müde aus.	वह बहुत थक गया है।
-He loves nightclubs.	Er geht sehr gerne in Nachtlokale.	वह नाइटलॉक में जाना पसंद करता है।
-He loves the tigers.	Er liebt die Tiger.	वह बाघों से प्यार करता है।
-He made a wisecrack.	Er machte eine witzige Bemerkung.	उन्होंने एक मजेदार टिप्पणी की।
-He made me go there.	Er hat mich dazu gebracht, dorthin zu gehen.	उसने मुझे वहां जाने दिया।
-He made no response.	Er erwiderte kein Wort.	उसने एक शब्द का जवाब नहीं दिया।
-He made up his mind.	Er entschied sich.	उसने तय किया।
-He made up his mind.	Er traf eine Entscheidung.	उन्होंने एक निर्णय लिया।
-He made up his mind.	Er hat sich entschieden.	उसने तय किया।
-He made up his mind.	Er hat eine Entscheidung getroffen.	उन्होंने एक निर्णय लिया।
 He may have said so.	Das könnte er gesagt haben.	वह ऐसा कह सकता था।
 He may have seen it.	Er könnte es gesehen haben.	वह इसे देख सकता था।
 He may not be happy.	Er ist vielleicht nicht glücklich.	वह खुश नहीं हो सकता है।
