@@ -40176,3 +40176,13 @@ Tom is Mary's stepson.	Tom ist Marys Stiefsohn.	टॉम मेरी का �
 Tom is a big fat liar.	Tom ist ein großer fetter Lügner.	टॉम एक मोटा झूठा है।
 Tom is a bird watcher.	Tom ist ein Vogelbeobachter.	टॉम एक पक्षी देखने वाला है।
 Tom is a brave person.	Tom ist ein tapferer Mensch.	टॉम एक वीर व्यक्ति है।
+Tom is a car mechanic.	Tom ist ein Automechaniker.	टॉम एक कार मैकेनिक है।
+Tom is a car salesman.	Tom ist ein Autoverkäufer.	टॉम एक कार विक्रेता है।
+Tom is a cardiologist.	Tom ist Kardiologe.	टॉम हृदय विशेषज्ञ है।
+Tom is a chain smoker.	Tom ist ein Kettenraucher.	टॉम एक चेन स्मोकर है।
+Tom is a close friend.	Tom ist ein enger Freund.	टॉम एक करीबी दोस्त है।
+Tom is a conservative.	Tom ist konservativ.	टॉम रूढ़िवादी है।
+Tom is a draft dodger.	Tom ist ein Wehrdienstverweigerer.	टॉम एक ड्राफ्ट डॉजर है।
+Tom is a faith healer.	Tom ist ein Glaubensheiler.	टॉम एक धार्मिक चिकित्सक है।
+Tom is a good athlete.	Tom ist ein guter Athlet.	टॉम एक अच्छे खिलाड़ी है।
+Tom is a good captain.	Tom ist ein guter Kapitän.	टॉम एक अच्छे कप्तान है।

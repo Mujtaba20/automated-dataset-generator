@@ -1,14 +1,4 @@
 
-Tom is a car mechanic.	Tom ist Automechaniker.	टॉम एक कार मैकेनिक है।
-Tom is a car salesman.	Tom ist Autoverkäufer.	टॉम एक कार विक्रेता है।
-Tom is a cardiologist.	Tom ist Kardiologe.	टॉम एक कार्डियोलॉजिस्ट है।
-Tom is a chain smoker.	Tom ist ein Kettenraucher.	टॉम एक चेन स्मोकर है।
-Tom is a close friend.	Tom ist ein guter Freund.	टॉम एक अच्छा दोस्त है।
-Tom is a conservative.	Tom ist ein Konservativer.	टॉम एक रूढ़िवादी है।
-Tom is a draft dodger.	Tom ist ein Drückeberger.	टॉम एक विस्थापन है।
-Tom is a faith healer.	Tom ist ein Wunderheiler.	टॉम एक चमत्कारिक हीलर है।
-Tom is a good athlete.	Tom ist ein guter Sportler.	टॉम एक अच्छा एथलीट है।
-Tom is a good captain.	Tom ist ein guter Kapitän.	टॉम एक अच्छे कप्तान हैं।
 Tom is a good drummer.	Tom ist ein guter Drummer.	टॉम एक अच्छा ड्रमर है।
 Tom is a good drummer.	Tom ist ein guter Schlagzeuger.	टॉम एक अच्छा ड्रमर है।
 Tom is a good painter.	Tom ist ein guter Maler.	टॉम एक अच्छा चित्रकार है।
