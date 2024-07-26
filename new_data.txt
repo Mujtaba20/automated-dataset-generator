@@ -25566,3 +25566,12 @@ Go on Tom, drink it. - Different Meaning	Mach weiter, Tom, trink es.	जार�
 Go tell that to Tom.	Geh und sag das Tom.	जाकर टॉम को बताओ।
 God is our strength.	Gott ist unsere Stärke.	भगवान हमारी ताकत है।
 Grief drove her mad.	Trauer trieb sie in den Wahnsinn.	दुख ने उसे पागल कर दिया।
+Guess what Tom said.	Rate mal, was Tom gesagt hat.	तुम्हें यह सोचना पड़ेगा कि टॉम ने क्या कहा।
+Half an hour passed.	Eine halbe Stunde verging.	आधी घंटा बीत गया।
+Hand me that hammer.	Reich mir den Hammer rüber.	मुझे उस हथौड़ा को दे दो।
+Hang in there, guys.	Haltet durch, Leute.	वहाँ टिके रहो, लोग।
+Happy birthday, Tom.	Alles Gute zum Geburtstag, Tom.	तुम्हारा जन्मदिन मुबारक हो, टॉम।
+Has Tom arrived yet?	Ist Tom schon angekommen?	क्या टॉम पहुंच गया है?
+Has Tom calmed down?	Ist Tom runtergekommen?	क्या टॉम शांत हो गया है?
+Has he failed again?	Ist er wieder gescheitert?	क्या वह फिर से विफल हुआ है?
+Have a beer with me.	Trink ein Bier mit mir.	मेरे साथ एक बीयर पियो।
