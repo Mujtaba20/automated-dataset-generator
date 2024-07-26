@@ -1,15 +1,4 @@
 
-I know a shorter route.	Ich kenne einen kürzeren Weg.	मैं एक छोटा रास्ता जानता हूं।
-I know all the details.	Ich kenne alle Einzelheiten.	मैं सभी विवरणों को जानता हूं।
-I know all the details.	Ich kenne alle Details.	मैं सभी विवरणों को जानता हूं।
-I know all their names.	Ich kenne alle ihre Namen.	मैं आपके सभी नामों को जानता हूं।
-I know each one of you.	Ich kenne jeden von euch.	मैं आप में से प्रत्येक को जानता हूं।
-I know how I can do it.	Ich weiß, wie ich es machen kann.	मुझे पता है कि मैं इसे कैसे कर सकता हूं।
-I know how Tom does it.	Ich weiß, wie Thomas das macht.	मुझे पता है कि थॉमस यह कैसे करता है।
-I know how busy Tom is.	Ich weiß, wie beschäftigt Tom ist.	मुझे पता है कि टॉम कितना व्यस्त है।
-I know how old you are.	Ich weiß, wie alt du bist.	मुझे पता है कि आप कितने साल के हैं।
-I know how old you are.	Ich weiß, wie alt ihr seid.	मुझे पता है कि आप कितने साल के हैं।
-I know how old you are.	Ich weiß, wie alt Sie sind.	मुझे पता है कि वे कितने साल के हैं।
 I know how that sounds.	Ich weiß, wie sich das anhört.	मुझे पता है कि यह कैसा लगता है।
 I know how to fix that.	Ich weiß, wie man das reparieren kann.	मुझे पता है कि इसे कैसे ठीक किया जाए।
 I know how to fix this.	Ich kann das reparieren.	मैं मरम्मत कर सकता हूं।
