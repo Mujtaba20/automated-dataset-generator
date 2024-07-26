@@ -36666,3 +36666,12 @@ He acted as our guide.	Er fungierte als unser Führer.	उसने हमार
 He acted like a saint.	Er benahm sich wie ein Heiliger.	उसने एक संत की तरह व्यवहार किया।
 He admired my new car.	Er bewunderte mein neues Auto.	उसने मेरी नई कार की प्रशंसा की।
 He admitted his guilt.	Er gab seine Schuld zu.	उसने अपनी गुनाह को स्वीकार किया।
+He adopted the orphan.	Er nahm das Waisenkind auf.	उसने अनाथ बच्चे को गोद लिया।
+He also speaks French.	Er spricht auch Französisch.	वह फ्रेंच भाषा भी बोलता है।
+He always works a lot.	Er arbeitet immer viel.	वह हमेशा बहुत काम करता है।
+He and I are brothers.	Er und ich sind Brüder.	वह और मैं भाई है।
+He and I are teachers.	Er und ich sind Lehrer.	वह और मैं शिक्षक हैं।
+He and I share a room.	Er und ich teilen ein Zimmer.	वह और मैं एक कमरे को साझा करते हैं।
+He asked me for money.	Er bat mich um Geld.	उसने मुझसे पैसे मांगे।
+He avenged his father.	Er rächte seinen Vater.	उसने अपने पिता का प्रतिशोध लिया।
+He became a policeman.	Er wurde Polizist.	वह पुलिसवाला बन गया।
