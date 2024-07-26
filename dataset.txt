@@ -1,14 +1,4 @@
 
-Are you not getting on?	Steigst du nicht ein?	क्या आप अंदर नहीं जाते?
-Are you pointing at me?	Zeigen Sie auf mich?	क्या आप मुझे इंगित करते हैं?
-Are you ready to start?	Bist du bereit anzufangen?	क्या आप शुरू करने के लिए तैयार हैं?
-Are you recording this?	Nimmst du das hier auf?	क्या आप इसे यहाँ ले जाते हैं?
-Are you related to Tom?	Bist du mit Tom verwandt?	क्या आप टॉम से संबंधित हैं?
-Are you related to Tom?	Seid ihr mit Tom verwandt?	क्या आप टॉम से संबंधित हैं?
-Are you related to Tom?	Sind Sie mit Tom verwandt?	क्या आप टॉम से संबंधित हैं?
-Are you satisfied, Tom?	Bist du zufrieden, Tom?	क्या आप संतुष्ट हैं, टॉम?
-Are you seeing anybody?	Triffst du dich mit jemandem?	क्या आप किसी से मिलते हैं?
-Are you seeing anybody?	Bist du mit jemandem zusammen?	आप किसी के साथ हैं
 Are you speaking to me?	Sprichst du zu mir?	क्या आप मुझसे बात कर रहे हैं?
 Are you speaking to me?	Redest du mit mir?	क्या आप मुझसे बात कर रहे हैं?
 Are you speaking to me?	Reden Sie mit mir?	क्या आप मुझसे बात करते हैं?
