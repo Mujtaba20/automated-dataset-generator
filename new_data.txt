@@ -22269,3 +22269,10 @@ It was just stupid.	Es war einfach dumm.	यह सिर्फ मूर्ख 
 It was mesmerizing.	Es war faszinierend.	यह चौंकाने वाला था।
 It was my decision.	Es war meine Entscheidung.	यह मेरा निर्णय था।
 It was nearly noon.	Es war fast Mittag.	यह लगभग दोपहर का समय था।
+It was pitch-black.	Es war stockdunkel.	यह अदृश्य था।
+It was preventable.	Es war vermeidbar.	यह रोक सका जा सकता था।
+It was quiet again.	Es war wieder ruhig.	यह फिर से शांत था।
+It was quite funny.	Es war ziemlich lustig.	यह काफी हँसी है।
+It was really cold.	Es war wirklich kalt.	यह सच में ठंडा था।
+It was really good.	Es war wirklich gut.	यह सच में अच्छा था।
+It was really dark.	Es war wirklich dunkel.	यह सच में अंधेरा था।
