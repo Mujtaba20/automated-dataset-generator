@@ -1,14 +1,4 @@
 
-Tom ran a red light.	Tom ist über eine rote Ampel gefahren.	टॉम ने एक लाल ट्रैफिक लाइट पर चलाई।
-Tom ran a red light.	Tom ist bei Rot über eine Ampel gefahren.	टॉम ने रेड पर ट्रैफिक लाइट को चलाया।
-Tom ran out of food.	Tom ging das Essen aus.	टॉम भोजन से बाहर चला गया।
-Tom ran out of time.	Tom lief die Zeit davon.	टॉम ने समय दौड़ाया।
-Tom ran three miles.	Tom lief 5 km.	टॉम 5 किमी भाग गया।
-Tom ran up the hill.	Tom rannte den Hügel hinauf.	टॉम पहाड़ी पर भाग गया।
-Tom rarely goes out.	Tom geht kaum aus dem Haus.	टॉम मुश्किल से घर से बाहर जाता है।
-Tom read the letter.	Tom las den Brief.	टॉम ने पत्र पढ़ा।
-Tom recognized Mary.	Tom erkannte Maria.	टॉम ने मारिया को मान्यता दी।
-Tom recognized Mary.	Tom erkannte Maria wieder.	टॉम ने मारिया को फिर से मान्यता दी।
 Tom refuses to sing.	Tom weigert sich zu singen.	टॉम गाने से इनकार करता है।
 Tom refuses to talk.	Tom weigert sich zu reden.	टॉम बोलने से इनकार करता है।
 Tom refuses to work.	Tom weigert sich zu arbeiten.	टॉम काम करने से इनकार करता है।
