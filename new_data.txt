@@ -30438,3 +30438,13 @@ Are you sure of that?	Sind Sie sich da sicher?	क्या आप उस पर
 Are you taking notes?	Machst du Notizen?	क्या तुम नोट्स ले रहे हो?
 Are you with the FBI?	Bist du beim FBI?	क्या तुम FBI के साथ हो?
 Are you with us, Tom?	Bist du bei uns, Tom?	क्या तुम हमारे साथ हो, टॉम?
+Are your hands clean?	Sind deine Hände sauber?	क्या तुम्हारे हाथ साफ हैं?
+Aren't they adorable?	Sind sie nicht bezaubernd?	क्या वे प्यारे नहीं हैं?
+Aren't you a student?	Bist du nicht Student?	क्या तुम छात्र नहीं हो?
+Aren't you coming in?	Kommst du nicht rein?	क्या तुम अंदर नहीं आ रहे हो?
+Aren't you convinced?	Bist du nicht überzeugt?	क्या तुम निर्धारित नहीं हो?
+Aren't you from here?	Bist du nicht von hier?	क्या तुम यहाँ से नहीं हो?
+Aren't you happy now?	Bist du jetzt nicht glücklich?	क्या तुम अब खुश नहीं हो?
+Aren't you in charge?	Bist du nicht verantwortlich?	क्या आप ज़िम्मेदार नहीं हो?
+Aren't you listening?	Hörst du nicht zu?	क्या तुम सुन रहे हो?
+Aren't you tired now?	Bist du jetzt nicht müde?	क्या तुम अब थक गए हो?
