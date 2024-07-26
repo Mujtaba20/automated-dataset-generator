@@ -1,14 +1,4 @@
 
-I just spoke to Tom.	Ich habe gerade mit Tom gesprochen.	मैंने सिर्फ टॉम से बात की।
-I just want to help.	Ich will nur helfen.	मैं सिर्फ मदद करना चाहता हूं।
-I just want to read.	Ich will einfach nur lesen.	मैं सिर्फ पढ़ना चाहता हूं।
-I just want to rest.	Ich will mich einfach nur ausruhen.	मैं बस आराम करना चाहता हूं।
-I just want to talk.	Ich will nur reden.	मुझे बस बात करनी हैं।
-I kind of liked Tom.	Ich mochte Tom irgendwie.	मुझे किसी तरह टॉम पसंद आया।
-I knew Tom was busy.	Ich wusste, dass Tom beschäftigt war.	मुझे पता था कि टॉम व्यस्त था।
-I knew how Tom felt.	Ich wusste, wie Thomas sich fühlte.	मुझे पता था कि थॉमस को कैसा लगा।
-I knew how Tom felt.	Ich wusste, wie sich Tom fühlte.	मुझे पता था कि टॉम कैसा लगा।
-I knew how Tom felt.	Ich wusste, wie Tom zumute war.	मुझे पता था कि टॉम कैसा लगा।
 I knew it was wrong.	Ich wusste, dass es falsch war.	मुझे पता था कि यह गलत था।
 I knew that already.	Ich wusste es schon.	मैं पहले से ही यह जानता था।
 I knew that already.	Das wusste ich schon.	मुझे पता था कि पहले से ही।

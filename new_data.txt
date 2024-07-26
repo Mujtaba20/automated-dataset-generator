@@ -26387,3 +26387,11 @@ I just got promoted.	Ich wurde gerade befördert.	मैं अभी हाल 
 I just had it fixed.	Ich habe es gerade repariert bekommen.	मैंने बस यह ठीक करवा लिया।
 I just had to do it.	Ich musste es einfach tun.	मुझे बस यह करना था।
 I just picked it up.	Ich habe es einfach abgeholt.	मैंने बस यह उठा लिया।
+I just spoke to Tom.	Ich habe gerade mit Tom gesprochen.	मैंने अभी तोम से बात की।
+I just want to help.	Ich möchte nur helfen.	मुझे सिर्फ मदद करनी है।
+I just want to read.	Ich möchte nur lesen.	मुझे सिर्फ पढ़ना है।
+I just want to rest.	Ich möchte mich nur ausruhen.	मुझे सिर्फ आराम करना है।
+I just want to talk.	Ich möchte nur sprechen.	मैं सिर्फ बात करना चाहता हूँ।
+I kind of liked Tom.	Ich mochte Tom irgendwie.	मुझे तोम पसंद था।
+I knew Tom was busy.	Ich wusste, dass Tom beschäftigt war.	मुझे पता था कि टॉम व्यस्त था।
+I knew how Tom felt.	Ich wusste, wie Tom empfand.	मैं जानता था कि टॉम कैसा महसूस कर रहा था।
