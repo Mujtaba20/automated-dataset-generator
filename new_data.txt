@@ -36246,3 +36246,10 @@ Could I use your desk? - 3	Kann ich deinen Schreibtisch verwenden?	क्या 
 Could he be Tom's son?	Könnte er Toms Sohn sein?	क्या वह टॉम का बेटा हो सकता है?
 Could we have a spoon?	Könnten wir einen Löffel haben?	क्या हमें एक चमच मिल सकता है?
 Could you repeat that?	Könnten Sie das wiederholen?	क्या आप उसे दोहरा सकते हैं?
+Could you use my help?	Könntest du meine Unterstützung gebrauchen?	क्या आप मेरी सहायता लेना चाहेंगे?
+Count from one to ten.	Zähle von eins bis zehn.	एक से दस तक गिनो।
+Crows are smart birds.	Krähen sind kluge Vögel.	कौवे बुद्धिमान पक्षी हैं।
+Dance with me, please.	Tanzen Sie bitte mit mir.	कृपया मेरे साथ नृत्य करें।
+Dancing is prohibited.	Das Tanzen ist verboten.	नृत्य प्रतिषिद्ध है।
+Did I really say that?	Habe ich das wirklich gesagt?	क्या मैंने वास्तव में यह कहा था?
+Did Tom ever hurt you?	Hat dich Tom jemals verletzt?	क्या टॉम ने कभी तुम्हें चोट पहुंचाई है?

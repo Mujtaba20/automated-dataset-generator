@@ -1,15 +1,4 @@
 
-Could you use my help?	Könnten Sie meine Hilfe gebrauchen?	क्या आप मेरी मदद का उपयोग कर सकते हैं?
-Could you use my help?	Könntest du meine Hilfe gebrauchen?	क्या आप मेरी मदद का उपयोग कर सकते हैं?
-Could you use my help?	Könntet ihr meine Hilfe gebrauchen?	क्या आप मेरी मदद का उपयोग कर सकते हैं?
-Count from one to ten.	Zähle von eins bis zehn!	एक से दस तक किशोर!
-Crows are smart birds.	Krähen sind schlaue Vögel.	कौवे चतुर पक्षी हैं।
-Dance with me, please.	Tanz bitte mit mir!	कृपया मेरे साथ नाचो!
-Dancing is prohibited.	Tanzen ist verboten.	नृत्य निषिद्ध है।
-Did I really say that?	Habe ich das wirklich gesagt?	क्या मैंने सच में ऐसा कहा?
-Did I really say that?	Habe ich das echt gesagt?	क्या मैंने सच में ऐसा कहा?
-Did Tom ever hurt you?	Hat Tom dir je weh getan?	क्या टॉम ने कभी आपको चोट पहुंचाई है?
-Did Tom ever hurt you?	Hat Tom euch je weh getan?	क्या टॉम ने कभी आपको चोट पहुंचाई है?
 Did Tom forget to pay?	Hat Tom vergessen zu bezahlen?	क्या टॉम भुगतान करना भूल गया?
 Did Tom get any gifts?	Hat Tom irgendwelche Geschenke bekommen?	क्या टॉम को कोई उपहार मिला?
 Did Tom give you that?	Hat Tom dir das gegeben?	क्या टॉम ने आपको वह दिया?
