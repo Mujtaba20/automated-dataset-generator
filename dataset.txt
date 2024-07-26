@@ -1,14 +1,4 @@
 
-Tom isn't so gullible.	Tom ist nicht so leichtgläubig.	टॉम इतना भोला नहीं है।
-Tom isn't that strong.	Tom ist nicht stark.	टॉम मजबूत नहीं है।
-Tom isn't that stupid.	So dumm ist Tom nicht.	टॉम वह बेवकूफ नहीं है।
-Tom isn't the problem.	Tom ist nicht das Problem.	टॉम समस्या नहीं है।
-Tom isn't trustworthy.	Tom ist unzuverlässig.	टॉम अविश्वसनीय है।
-Tom isn't very active.	Tom ist nicht sehr aktiv.	टॉम बहुत सक्रिय नहीं है।
-Tom isn't very bright.	Tom ist nicht allzu helle.	टॉम बहुत उज्ज्वल नहीं है।
-Tom isn't very clever.	Tom ist nicht sehr klug.	टॉम बहुत स्मार्ट नहीं है।
-Tom isn't very polite.	Tom ist ziemlich unhöflich.	टॉम काफी असभ्य है।
-Tom isn't very strong.	Tom ist nicht sehr stark.	टॉम बहुत मजबूत नहीं है।
 Tom isn't your friend.	Tom ist nicht dein Freund.	टॉम आपका दोस्त नहीं है।
 Tom jumped out of bed.	Tom sprang aus dem Bett.	टॉम बिस्तर से बाहर कूद गया।
 Tom just contacted us.	Tom hat sich eben bei uns gemeldet.	टॉम ने हमसे संपर्क किया।

@@ -40442,3 +40442,13 @@ Tom isn't here, is he?	Tom ist nicht hier, oder?	टॉम यहाँ नह�
 Tom isn't on Facebook.	Tom ist nicht bei Facebook.	टॉम फेसबुक पर नहीं है।
 Tom isn't really sure.	Tom ist sich nicht sicher.	टॉम सचमुच निश्चित नहीं है।
 Tom isn't seeing Mary.	Tom sieht Mary nicht.	टॉम मेरी को नहीं देख रहा है।
+Tom isn't so gullible.	Tom ist nicht so leichtgläubig.	टॉम इतना भोला नहीं है।
+Tom isn't that strong.	Tom ist nicht so stark.	टॉम उतना मजबूत नहीं है।
+Tom isn't that stupid.	Tom ist nicht so dumm.	टॉम उतना बेवकूफ नहीं है।
+Tom isn't the problem.	Tom ist nicht das Problem.	टॉम समस्या नहीं है।
+Tom isn't trustworthy.	Tom ist nicht vertrauenswürdig.	टॉम विश्वसनीय नहीं है।
+Tom isn't very active.	Tom ist nicht sehr aktiv.	टॉम बहुत अक्तिव नहीं है।
+Tom isn't very bright.	Tom ist nicht sehr klug.	टॉम बहुत होशियार नहीं है।
+Tom isn't very clever.	Tom ist nicht sehr schlau.	टॉम बहुत चालाक नहीं है।
+Tom isn't very polite.	Tom ist nicht sehr höflich.	टॉम बहुत शिष्ट नहीं है।
+Tom isn't very strong.	Tom ist nicht sehr stark.	टॉम बहुत मजबूत नहीं है।
