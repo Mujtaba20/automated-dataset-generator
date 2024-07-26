@@ -24201,3 +24201,9 @@ Tomorrow is payday.	Morgen ist Zahltag.	कल वेतन दिन है।
 Try to act natural.	Versuch, natürlich zu wirken.	प्राकृतिक ढंग से काम करने की कोशिश करें।
 Try to concentrate.	Versuche dich zu konzentrieren.	ध्यान केंद्रित करने की कोशिश करो।
 Try to remain calm.	Versuch ruhig zu bleiben.	शांत रहने की कोशिश करो।
+Turn off the alarm.	Schalten Sie den Wecker aus.	अलार्म को बंद करें।
+Turn off the light.	Schalten Sie das Licht aus.	रोशनी बंद करें।
+Turn off the radio.	Schalten Sie das Radio aus.	रेडियो बंद करें।
+Turn off the water.	Schalten Sie das Wasser ab.	पानी बंद करें।
+Turn the sound off.	Schalten Sie den Ton aus.	ध्वनि बंद करें।
+Turn the volume up.	Drehen Sie die Lautstärke auf.	वॉल्यूम बढ़ाएं।

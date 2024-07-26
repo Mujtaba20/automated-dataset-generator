@@ -1,15 +1,4 @@
 
-Turn off the alarm.	Schalte den Alarm aus.	अलार्म बंद करें।
-Turn off the alarm.	Schaltet den Alarm aus.	अलार्म बंद करें।
-Turn off the alarm.	Schalten Sie den Alarm aus.	अलार्म बंद करें।
-Turn off the light.	Mach das Licht aus!	बत्ती बंद करें!
-Turn off the radio.	Mach das Radio aus.	रेडियो से बाहर।
-Turn off the water.	Stell das Wasser ab.	पानी डाल दो।
-Turn the sound off.	Stell den Ton ab.	ध्वनि सेट करें।
-Turn the volume up.	Mach lauter.	जोर से बनाओ।
-Turn the volume up.	Macht lauter.	जोर से बनाता है।
-Turn the volume up.	Machen Sie lauter.	इसे जोर से बनाओ।
-Turn the volume up.	Drehe die Lautstärke hoch.	आवाज बढ़ा दो।
 Uranus is a planet.	Der Uranus ist ein Planet.	यूरेनस एक ग्रह है।
 Use your instincts.	Benutze deinen Instinkt!	अपनी वृत्ति का उपयोग करें!
 Wait just a minute.	Nur eine Minute!	एक मिनट रुकिए!
