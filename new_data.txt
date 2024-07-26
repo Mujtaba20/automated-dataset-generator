@@ -21228,3 +21228,11 @@ I gave Mary a book	Ich habe Mary ein Buch gegeben.	मैंने मेरी 
 I gave Tom a shirt	Ich habe Tom ein Hemd gegeben.	मैंने टॉम को एक कमीज़ दी।
 I gave Tom my word	Ich habe Tom mein Wort gegeben.	मैंने टॉम को अपना वादा दिया।
 I gave that to Tom	Ich habe das Tom gegeben.	मैंने उसे टॉम को दिया।
+I gave you my word.	Ich gab dir mein Wort.	मैंने तुम्हें अपना वादा दिया।
+I give you my word.	Ich gebe dir mein Wort.	मैं तुम्हें अपना शब्द देता हूँ।
+I got a lot to say.	Ich habe viel zu sagen.	मेरे पास कहने के लिए बहुत कुछ है।
+I got a new camera.	Ich habe eine neue Kamera.	मेरे पास एक नया कैमरा है।
+I got carried away.	Ich ließ mich hinreißen.	मैं उत्तेजित हो गया।
+I got hit by a car.	Ich wurde von einem Auto angefahren.	मुझपे एक गाड़ी से टक्कर लगी।
+I got my shoes wet.	Ich habe meine Schuhe nass gemacht.	मैंने अपने जूते गीले कर दिए।
+I got off my horse.	Ich stieg von meinem Pferd ab.	मैंने अपने घोड़े से उतर गया।
