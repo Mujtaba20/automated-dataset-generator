@@ -1,14 +1,4 @@
 
-Don't call me anymore.	Rufen Sie mich nicht mehr an.	मुझे अब और मत बुलाओ।
-Don't call me anymore.	Ruf mich nicht mehr an.	मुझे अब कभी फ़ोन मत करना।
-Don't call me anymore.	Ruft mich nicht mehr an.	मुझे अब और मत बुलाओ।
-Don't call the police.	Nicht die Polizei rufen!	पुलिस को फोन मत करो!
-Don't close your eyes.	Nicht die Augen schließen!	अपनी आँखें बंद मत करो!
-Don't close your eyes.	Mach die Augen nicht zu!	अपनी आँखें बंद मत करो!
-Don't close your eyes.	Macht nicht die Augen zu!	अपनी आँखें बंद मत करो!
-Don't close your eyes.	Schließen Sie die Augen nicht!	अपनी आँखें बंद मत करो!
-Don't come any closer.	Komm nicht näher!	करीब मत आओ!
-Don't come any closer.	Kommen Sie nicht näher!	करीब मत जाओ!
 Don't copy my answers.	Schreib nicht bei mir ab!	मेरे साथ मत लिखो!
 Don't delude yourself.	Mach dir nichts vor!	कुछ भी मत करना!
 Don't delude yourself.	Macht euch nichts vor!	बुरा मत मानना!

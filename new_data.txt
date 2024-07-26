@@ -36498,3 +36498,7 @@ sentence7	Beiß dir nicht die Nägel ab.	अपने नाखून मत क
 sentence8	Gib ihr nicht die Schuld daran.	उसके सिर पर मत डालो।
 sentence9	Mach sie nicht dafür verantwortlich.	उसी पर न डालो।
 sentence10	Zerstöre nicht meine Illusionen.	मेरा सपना न तोड़ो।
+Don't call me anymore.	Ruf mich nicht mehr an.	मुझे और नहीं बुलाओ।
+Don't call the police.	Rufe nicht die Polizei an.	पुलिस को मत बुलाओ।
+Don't close your eyes.	Schließe deine Augen nicht.	अपनी आँखें मत बंद करो।
+Don't come any closer.	Kommen Sie nicht näher.	आगे मत आना।
