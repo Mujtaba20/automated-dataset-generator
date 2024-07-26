@@ -24165,3 +24165,11 @@ Tom won't find out.	Tom wird es nicht herausfinden.	टॉम कुछ नह�
 Tom won't go alone.	Tom wird nicht alleine gehen.	टॉम अकेले नहीं जाएगा।
 Tom won't like you.	Tom wird dich nicht mögen.	टॉम तुम्हें पसंद नहीं करेगा।
 Tom won't stop now.	Tom wird jetzt nicht aufhören.	टॉम अब रुकेगा नहीं।
+Tom won't stop you.	Tom wird dich nicht aufhalten.	टॉम आपको रोकने नहीं आएगा।
+Tom works at night.	Tom arbeitet nachts.	टॉम रात को काम करता है।
+Tom works for Mary.	Tom arbeitet für Mary.	टॉम मेरी के लिए काम करता है।
+Tom works too much.	Tom arbeitet zu viel.	टॉम बहुत ज्यादा काम करता है।
+Tom would be proud.	Tom wäre stolz.	टॉम गर्वित होगा।
+Tom wouldn't agree.	Tom würde nicht zustimmen.	टॉम सहमत नहीं होगा।
+Tom wrote a letter.	Tom schrieb einen Brief.	टॉम ने एक पत्र लिखा।
+Tom wrote his will.	Tom schrieb sein Testament.	टॉम ने अपनी इच्छापत्रिका लिखी।
