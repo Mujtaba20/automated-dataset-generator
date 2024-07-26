@@ -1,14 +1,4 @@
 
-I wish you success.	Ich wünsche dir Erfolg.	मैं तुम्हारी सफलता की कामना करता हूं।
-I wish you success.	Ich wünsche Ihnen Erfolg.	मैं तुम्हारी सफलता की कामना करता हूं।
-I wish you success.	Ich wünsche euch Erfolg.	मैं तुम्हारी सफलता की कामना करता हूं।
-I woke up too late.	Ich bin zu spät aufgewacht.	मैं बहुत देर से उठा।
-I won't assist you.	Ich werde dir nicht helfen.	मैं आपकी मदद नहीं करूंगा।
-I won't assist you.	Ich werde euch nicht helfen.	मैं आपकी मदद नहीं करूंगा।
-I won't assist you.	Ich werde Ihnen nicht helfen.	मैं आपकी मदद नहीं करूंगा।
-I won't be coerced.	Ich lasse mich nicht zwingen.	मैं खुद को मजबूर नहीं होने देता।
-I won't confirm it.	Ich werde es nicht bestätigen.	मैं इसकी पुष्टि नहीं करूंगा।
-I won't follow you.	Ich werde dir nicht folgen.	मैं आपका अनुसरण नहीं करूंगा।
 I won't get caught.	Man wird mich nicht erwischen.	मुझे नहीं मिलेगा।
 I won't get caught.	Ich werde nicht geschnappt.	मैं नहीं पकड़ा गया।
 I won't lie to you.	Ich werde dich nicht anlügen.	मैं आपसे झूठ नहीं बोलूंगा।
