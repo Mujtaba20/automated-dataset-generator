@@ -1,14 +1,4 @@
 
-Do you still have time?	Hast du noch Zeit?	क्या आपके पास अभी भी समय है?
-Do you still have time?	Habt ihr noch Zeit?	क्या आपके पास अभी भी समय है?
-Do you still have time?	Haben Sie noch Zeit?	क्या आपके पास अधिक समय है?
-Do you study chemistry?	Studierst du Chemie?	क्या आप रसायन विज्ञान का अध्ययन करते हैं?
-Do you study chemistry?	Studiert ihr Chemie?	क्या आप रसायन विज्ञान का अध्ययन करते हैं?
-Do you study chemistry?	Studieren Sie Chemie?	क्या आप रसायन विज्ञान का अध्ययन करते हैं?
-Do you study every day?	Lernst du jeden Tag?	क्या आप हर दिन सीखते हैं?
-Do you study every day?	Lernt ihr jeden Tag?	क्या आप हर दिन सीखते हैं?
-Do you take MasterCard?	Nehmen Sie MasterCard?	क्या आप मास्टरकार्ड लेते हैं?
-Do you take MasterCard?	Akzeptieren Sie MasterCard?	क्या आप MasterCard स्वीकार करते हैं?
 Do you think I'm blind?	Glaubst du, ich sei blind?	क्या आपको लगता है कि मैं अंधा हूं?
 Do you think I'm blind?	Glaubt ihr, ich sei blind?	क्या आपको लगता है कि मैं अंधा हूं?
 Do you think I'm blind?	Glauben Sie, ich sei blind?	क्या आपको लगता है कि मैं अंधा हूं?
