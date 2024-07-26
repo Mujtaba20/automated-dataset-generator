@@ -38484,3 +38484,13 @@ It didn't really hurt.	Es hat eigentlich nicht wehgetan.	इसने वास�
 It doesn't matter now.	Es spielt jetzt keine Rolle.	अब इसका कोई महत्व नहीं है।
 It frosted last night.	Es hat letzte Nacht gefroren.	कल रात को फ्रोस्ट हुआ था।
 It gave me the creeps.	Es hat mir einen Schauer über den Rücken gejagt.	इसने मुझे डरावना महसूस कराया।
+It happened in Boston.	Es passierte in Boston.	यह बॉस्टन में हुआ।
+It happened last year.	Es geschah letztes Jahr.	यह पिछले साल हुआ।
+It happened naturally.	Es geschah natürlich.	यह स्वाभाविक रूप से हुआ।
+It happened very fast.	Es geschah sehr schnell.	यह बहुत तेज़ी से हुआ।
+It happened yesterday.	Es geschah gestern.	यह कल हुआ।
+It happens frequently.	Es passiert häufig.	यह अक्सर होता है।
+It happens to me, too.	Es passiert auch mir.	यह मेरे साथ भी होता है।
+It has been confirmed.	Es wurde bestätigt.	यह स्थापित हो गया है।
+It has been wonderful.	Es war wunderbar.	यह बहुत शानदार रहा है।
+It is a very sad tale.	Es ist eine sehr traurige Geschichte.	यह एक बहुत ही दुःखद कहानी है।
