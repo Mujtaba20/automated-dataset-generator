@@ -28024,3 +28024,13 @@ Tell me who you saw.	Sag mir, wen du gesehen hast.	मुझे बताओ क
 Tell me you love me.	Sag mir, dass du mich liebst.	मुझसे कहो कि तुम मुझसे प्यार करते हो।
 Tell them the truth.	Sagen Sie ihnen die Wahrheit.	उन्हें सच्चाई बताओ।
 Tell us who you are.	Sag uns, wer du bist.	हमें बताओ कि तum 'हो।
+Thailand is in Asia.	Thailand liegt in Asien.	थाईलैंड एशिया में है।
+Thank you for today.	Danke für heute.	आज के लिए धन्यवाद।
+Thank you very much.	Vielen Dank.	बहुत बहुत धन्यवाद।
+Thanks all the same.	Trotzdem vielen Dank.	अभी भी धन्यवाद।
+Thanks for the book.	Danke für das Buch.	पुस्तक के लिए धन्यवाद।
+Thanks for the cake.	Danke für den Kuchen.	केक के लिए धन्यवाद।
+Thanks for the food.	Danke für das Essen.	भोजन के लिए धन्यवाद।
+Thanks for the help.	Danke für die Hilfe.	मदद के लिए धन्यवाद।
+Thanks for the hint.	Danke für den Hinweis.	संकेत के लिए धन्यवाद।
+Thanks for the hint. (Different meaning)	Danke für die Andeutung.	संकेत के लिए धन्यवाद। (विभिन्न अर्थ)
