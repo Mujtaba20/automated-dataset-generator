@@ -40380,3 +40380,13 @@ Tom is still sleeping.	Tom schläft immer noch.	टॉम अब भी सो �
 Tom is still standing.	Tom steht immer noch.	टॉम अभी भी खड़ा है।
 Tom is still underage.	Tom ist immer noch minderjährig.	टॉम अभी भी कम आयु वाला है।
 Tom is such a killjoy.	Tom ist so ein Spielverderber.	टॉम ऐसा खुशियों का दुखद लेकिन।
+Tom is sure, isn't he?	Tom ist sicher, oder?	टॉम पक्का है, ना?
+Tom is taking a break.	Tom macht eine Pause.	टॉम रुका है।
+Tom is tall, isn't he?	Tom ist groß, oder?	टॉम लंबा है, ना?
+Tom is taller than me.	Tom ist größer als ich.	टॉम मुझसे अधिक लंबा है।
+Tom is terribly funny.	Tom ist furchtbar lustig.	टॉम भयानक मजेदार है।
+Tom is the guilty one.	Tom ist der Schuldige.	टॉम गुनहगार है।
+Tom is the one I want.	Tom ist der, den ich will.	टॉम वह है जिसे मैं चाहता हूँ।
+Tom is thin, isn't he?	Tom ist dünn, oder?	टॉम पतला है, ना?
+Tom is thirty at most.	Tom ist höchstens dreißig.	टॉम अधिकतर तीस का है।
+Tom is tidy, isn't he?	Tom ist ordentlich, oder?	टॉम सजीव है, ना?

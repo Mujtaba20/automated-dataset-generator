@@ -1,14 +1,4 @@
 
-Tom is sure, isn't he?	Tom ist sich sicher, nicht wahr?	टॉम यकीन है, है ना?
-Tom is taking a break.	Tom macht eine Pause.	टॉम एक ब्रेक लेता है।
-Tom is tall, isn't he?	Tom ist groß, nicht wahr?	टॉम बड़ा है, है ना?
-Tom is taller than me.	Tom ist größer als ich.	टॉम मुझसे बड़ा है।
-Tom is terribly funny.	Tom ist furchtbar lustig.	टॉम बहुत मजाकिया है।
-Tom is the guilty one.	Tom ist der Schuldige.	टॉम अपराधी है।
-Tom is the one I want.	Tom ist derjenige, den ich will.	टॉम वह है जो मैं चाहता हूं।
-Tom is thin, isn't he?	Tom ist mager, nicht wahr?	टॉम दुबला है, है ना?
-Tom is thirty at most.	Tom ist höchstens dreißig.	टॉम सबसे तीस पर है।
-Tom is tidy, isn't he?	Tom ist ordentlich, nicht wahr?	टॉम साफ है, है ना?
 Tom is very ambitious.	Tom ist sehr ehrgeizig.	टॉम बहुत महत्वाकांक्षी है।
 Tom is very competent.	Tom ist sehr kompetent.	टॉम बहुत सक्षम है।
 Tom is very conceited.	Tom ist ziemlich eingebildet.	टॉम काफी कल्पना है।
