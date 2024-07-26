@@ -25484,3 +25484,9 @@ Every seat was full.	Jeder Sitz war besetzt.	हर सीट भरी थी�
 Everybody applauded.	Alle haben applaudiert.	सभी तालियां बजाईं।
 Everybody hates Tom.	Jeder hasst Tom.	हर को टॉम से नफ़रत है।
 Everybody knew that.	Jeder wusste das.	सबको पता था।
+Everybody likes Tom.	Jeder mag Tom.	हर कोई टॉम को पसंद करता है।
+Everybody likes her.	Jeder mag sie.	सभी को उसका पसंद है।
+Everybody likes him.	Alle mögen ihn.	सभी को उसकी पसंद है।
+Everybody likes you.	Jeder mag dich.	सभी को आपसे पसंद है।
+Everybody looked up.	Alle schauten nach oben.	सभी ऊपर देख रहे थे।
+Everybody loves Tom.	Jeder liebt Tom.	सब टॉम से प्यार करते हैं।
