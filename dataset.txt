@@ -1,14 +1,4 @@
 
-Tom arrived on Monday.	Tom ist am Montag angekommen.	टॉम सोमवार को पहुंचे।
-Tom arrived too early.	Tom kam zu früh an.	टॉम बहुत जल्दी आ गया।
-Tom arrived too early.	Tom ist zu früh angekommen.	टॉम बहुत जल्दी आ गया।
-Tom arrived very late.	Tom kam sehr spät an.	टॉम बहुत देर से पहुंचे।
-Tom arrived yesterday.	Tom ist gestern angekommen.	टॉम कल पहुंचे।
-Tom arrived yesterday.	Tom kam gestern an.	टॉम कल पहुंचे।
-Tom asked for a raise.	Tom bat um eine Gehaltserhöhung.	टॉम ने वेतन वृद्धि के लिए कहा।
-Tom asked for a raise.	Tom hat um eine Gehaltserhöhung gebeten.	टॉम ने वेतन वृद्धि के लिए कहा।
-Tom asked for my help.	Tom bat mich um Hilfe.	टॉम ने मुझसे मदद मांगी।
-Tom asked for my help.	Tom bat um meine Hilfe.	टॉम ने मेरी मदद मांगी।
 Tom asked me for help.	Tom hat mich um Hilfe gebeten.	टॉम ने मुझसे मदद मांगी।
 Tom asked me to dance.	Tom bat mich um einen Tanz.	टॉम ने मुझसे एक नृत्य मांगा।
 Tom asked me to do it.	Tom bat mich, es zu tun.	टॉम ने मुझे यह करने के लिए कहा।

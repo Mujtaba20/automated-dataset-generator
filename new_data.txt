@@ -39843,3 +39843,9 @@ Tom appears satisfied.	Tom wirkt zufrieden.	टॉम संतुष्ट द�
 Tom appears satisfied. (second meaning)	Tom scheint zufrieden zu sein.	टॉम को संतुष्ट दिखाई दे रहा है।
 Tom applied sunscreen.	Tom trug Sonnencreme auf.	टॉम ने सनस्क्रीन लगाई।
 Tom arrived in a taxi.	Tom kam mit einem Taxi an.	टॉम टैक्सी में आ गया।
+Tom arrived on Monday.	Tom ist am Montag angekommen.	टॉम ने सोमवार को आना था।
+Tom arrived too early.	Tom kam zu früh an.	टॉम बहुत जल्दी पहुंच गया।
+Tom arrived very late.	Tom kam sehr spät an.	टॉम बहुत देर से आया।
+Tom arrived yesterday.	Tom ist gestern angekommen.	टॉम कल आया था।
+Tom asked for a raise.	Tom bat um eine Gehaltserhöhung.	टॉम ने एक बढ़ोत्तरी के लिए पूछा।
+Tom asked for my help.	Tom bat um meine Hilfe.	टॉम ने मेरी मदद के लिए पूछा।
