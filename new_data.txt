@@ -29366,3 +29366,12 @@ Tom was embarrassed.	Tom war verlegen.	टॉम शर्मिंदा था
 Tom was fast asleep.	Tom war tief eingeschlafen.	टॉम गहरी नींद में था।
 Tom was half-asleep.	Tom war halb eingeschlafen.	टॉम आधी नींद में था।
 Tom was heartbroken.	Tom war untröstlich.	टॉम दिल टूटा हुआ था।
+Tom was imaginative.	Tom war einfallsreich.	टॉम कल्पनाशील था।
+Tom was in no hurry.	Tom hatte es nicht eilig.	टॉम में कोई जल्दी नहीं थी।
+Tom was in the army.	Tom war in der Armee.	टॉम सेना में था।
+Tom was in the room.	Tom war im Zimmer.	टॉम कमरे में था।
+Tom was just joking.	Tom hat nur gescherzt.	टॉम बस मजाक कर रहा था।
+Tom was left behind.	Tom wurde zurückgelassen.	टॉम पीछे छोड़ दिया गया था।
+Tom was lost at sea.	Tom war auf See verloren.	टॉम समुद्र में खो गया था।
+Tom was mad at Mary.	Tom war wütend auf Mary.	टॉम मेरी पर नाराज था।
+Tom was misbehaving.	Tom hat sich daneben benommen.	टॉम ग़लत बर्ताव कर रहा था।
