@@ -25677,3 +25677,12 @@ He is a good doctor.	Er ist ein guter Arzt.	वह एक अच्छे चि
 He is a good singer.	Er ist ein guter Sänger.	वह अच्छे गायक है।
 He is a good writer.	Er ist ein guter Schriftsteller.	वह एक अच्छे लेखक है।
 He is a jealous man.	Er ist ein eifersüchtiger Mann.	वह एक जालसाज आदमी है।
+He is a kind person.	Er ist eine nette Person.	वह एक मेहरबान व्यक्ति है।
+He is a lazy fellow.	Er ist ein fauler Kerl.	वह एक सुस्त व्यक्ति है।
+He is a learned man.	Er ist ein gebildeter Mann.	वह एक ज्ञानी आदमी है।
+He is a mean fellow.	Er ist ein gemeiner Kerl.	वह एक कठोर व्यक्ति है।
+He is a naughty boy.	Er ist ein ungezogener Junge.	वह एक नटखट लड़का है।
+He is a nice person.	Er ist eine nette Person.	वह एक अच्छे इंसान है।
+He is a rude person.	Er ist eine unhöfliche Person.	वह एक अकड़ा इंसान है।
+He is a woman hater.	Er hasst Frauen.	वह औरतों से नफरत करता है।
+He is about my size.	Er ist ungefähr meine Größe.	वह मेरे आकार का है।

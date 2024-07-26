@@ -1,14 +1,4 @@
 
-He is a kind person.	Er ist ein netter Mensch.	वह एक अच्छा इंसान है।
-He is a lazy fellow.	Er ist ein Faulpelz.	वह एक आलसी है।
-He is a learned man.	Er ist ein gelehrter Mann.	वह एक सीखा हुआ आदमी है।
-He is a mean fellow.	Er ist ein gemeiner Kerl.	वह एक आम आदमी है।
-He is a naughty boy.	Er ist ein ungezogener Junge.	वह एक शरारती लड़का है।
-He is a nice person.	Er ist ein netter Mensch.	वह एक अच्छा इंसान है।
-He is a rude person.	Er ist ein unhöflicher Mensch.	वह एक असभ्य व्यक्ति है।
-He is a woman hater.	Er ist ein Frauenhasser.	वह महिलाओं से घृणा है।
-He is about my size.	Er ist ungefähr so groß wie ich.	यह मेरे आकार के बारे में है।
-He is about my size.	Er hat ungefähr meine Statur.	यह मेरे कद के बारे में है।
 He is always joking.	Er macht ständig Witze.	वह हमेशा मजाक करता है।
 He is always joking.	Er scherzt immer herum.	वह हमेशा मजाक करता है।
 He is always scared.	Er hat immer Angst.	वह हमेशा डरता है।
