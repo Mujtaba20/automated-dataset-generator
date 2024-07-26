@@ -23162,3 +23162,10 @@ They'll be pleased.	Sie werden erfreut sein.	वे खुश होंगे।
 They'll come to us.	Sie werden zu uns kommen.	वे हमारे पास आएंगे।
 They'll understand.	Sie werden verstehen.	उन्हें समझ आएगी।
 They're all guilty.	Sie sind alle schuldig.	वे सभी दोषी हैं।
+They're carnations.	Sie sind Nelken.	ये कार्नेशन हैं।
+They're coming now.	Sie kommen jetzt.	वे अभी आ रहे हैं।
+They're doing fine.	Es geht ihnen gut.	उन्हें ठीक है।
+They're everywhere.	Sie sind überall.	वे हर जगह हैं।
+They're foreigners.	Sie sind Ausländer.	वे विदेशी हैं।
+They're in the car.	Sie sind im Auto.	वे कार में हैं।
+They're incredible.	Sie sind unglaublich.	वे अविश्वसनीय हैं।
