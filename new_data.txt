@@ -30792,3 +30792,9 @@ Don't make fun of me.	Mach dich nicht über mich lustig.	मेरे मजा�
 Don't make me say it.	Zwing mich nicht dazu, es zu sagen.	मुझे यह कहने के लिए मजबूर मत करो।
 Don't move from here.	Beweg dich nicht von hier weg.	यहाँ से मत हिलिए।
 Don't open this door.	Öffne diese Tür nicht.	इस दरवाजे को मत खोलो।
+Don't open your book.	Öffnen Sie nicht Ihr Buch.	अपनी किताब नहीं खोलें।
+Don't pick your nose.	Nase nicht bohren.	अपनी नाक मत खुजाएं।
+Don't play with fire.	Spiel nicht mit dem Feuer.	आग के साथ न खेलें।
+Don't pull my sleeve.	Zieh nicht an meinem Ärmel.	मेरी आस्तीक न कीचो।
+Don't push your luck.	Fordern Sie nicht Ihr Glück heraus.	अपनी किस्मत को ना चिढ़ाएं।
+Don't push your luck. - 2	Überspannen Sie nicht den Bogen.	अपनी किस्मत को ना चिढ़ाओ।

@@ -1,14 +1,4 @@
 
-Don't open your book.	Öffne dein Buch nicht.	अपनी किताब न खोलें।
-Don't open your book.	Nicht das Buch aufschlagen!	किताब मत खोलो!
-Don't pick your nose.	Bohr nicht in deiner Nase.	अपनी नाक में ड्रिल न करें।
-Don't play with fire.	Spiel nicht mit dem Feuer.	आग से मत खेलो।
-Don't pull my sleeve.	Zupf nicht an meinem Ärmel!	मेरी आस्तीन पर प्लग!
-Don't push your luck.	Lass es nicht darauf ankommen.	इसे निर्भर न होने दें।
-Don't push your luck.	Lasst es nicht darauf ankommen.	इसे निर्भर न होने दें।
-Don't push your luck.	Lassen Sie es nicht darauf ankommen!	वहाँ मत आने दो!
-Don't push your luck.	Fordern Sie nicht das Schicksal heraus!	भाग्य को चुनौती मत करो!
-Don't push your luck.	Fordere nicht dein Glück heraus!	अपनी खुशी को चुनौती न दें!
 Don't shut your eyes.	Schließen Sie Ihre Augen nicht.	अपनी आँखें बंद मत करो।
 Don't shut your eyes.	Nicht die Augen schließen!	अपनी आँखें बंद मत करो!
 Don't spill the soup.	Die Suppe nicht verschütten!	सूप नहीं फैलाओ!
