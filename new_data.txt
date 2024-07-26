@@ -35659,3 +35659,12 @@ Why didn't you do it?	Warum hast du es nicht gemacht?	तुमने यह क
 Why did you move out? (different meaning)	Warum seid ihr umgezogen?	तुमने क्यों घर बदला?
 Why did you pick Tom? (different meaning)	Warum hast du Tom abgeholt?	तुमने टॉम क्यों चुना?
 Why did you run away? (different meaning)	Warum bist du weggelaufen?	तुमने क्यों कूद गए?
+Why do I even bother?	Warum kümmere ich mich überhaupt?	मैं क्यों परेशान हो?
+Why do stars twinkle?	Warum funkeln die Sterne?	तारों क्यों हिलना?
+Why do you come here?	Warum kommst du hierher?	तुम यहाँ क्यों आते हो?
+Why do you have that?	Warum hast du das?	तुम्हारे पास वह क्यों है?
+Why do you have this?	Warum hast du das?	तुम्हारे पास यह क्यों है?
+Why do you need that?	Warum brauchst du das?	तुम्हें वह क्यों चाहिए?
+Why do you need this?	Warum brauchst du das?	तुम्हें यह क्यों चाहिए?
+Why do you permit it?	Warum erlaubst du es?	तुम्हे यह क्यों मन्जूर है?
+Why do you want that?	Warum willst du das?	तुम्हें वह क्यों चाइये?

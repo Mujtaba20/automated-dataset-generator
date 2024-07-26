@@ -1,14 +1,4 @@
 
-Why do I even bother?	Warum mache ich mir überhaupt die Mühe?	मैं परेशानी क्यों लेता हूं?
-Why do stars twinkle?	Warum funkeln die Sterne?	सितारे क्यों चमकते हैं?
-Why do stars twinkle?	Warum flimmern die Sterne?	सितारे झिलमिलाहट क्यों करते हैं?
-Why do you come here?	Warum kommst du hierher?	आप यहां क्यों आते हैं?
-Why do you have that?	Warum hast du das?	आपके पास ऐसा क्यों है?
-Why do you have this?	Warum hast du das?	आपके पास ऐसा क्यों है?
-Why do you need that?	Wozu brauchst du das?	आपको इसके लिए क्या चाहिए?
-Why do you need this?	Wozu brauchst du das?	आपको इसके लिए क्या चाहिए?
-Why do you permit it?	Warum lässt du das zu?	आप इसकी अनुमति क्यों देते हैं?
-Why do you want that?	Warum willst du das?	आप यह क्यों चाहते हैं?
 Why do you want this?	Warum willst du das?	आप यह क्यों चाहते हैं?
 Why do you work here?	Warum arbeitest du hier?	आप यहाँ क्यों काम करते हैं?
 Why does Tom do that?	Warum macht Tom das?	टॉम ऐसा क्यों करता है?
