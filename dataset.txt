@@ -1,14 +1,4 @@
 
-Tom is a self-made man.	Tom ist ein Vom-Tellerwäscher-zum-Millionär-Typ.	टॉम प्लग-वॉशर से एक प्रकार का करोड़पति है।
-Tom is a self-made man.	Tom hat es gewissermaßen vom Tellerwäscher zum Millionär geschafft.	कुछ हद तक, टॉम ने इसे प्लेट वॉशर से एक करोड़पति तक बनाया।
-Tom is a self-made man.	Tom hat sich hochgearbeitet.	टॉम ने काम किया।
-Tom is a self-made man.	Tom hat etwas aus sich gemacht.	टॉम ने कुछ किया।
-Tom is a smooth talker.	Tom ist ein Redekünstler.	टॉम एक भाषण कलाकार है।
-Tom is a smooth talker.	Tom kann jeden bequatschen.	टॉम चैट कर सकते हैं।
-Tom is a soccer player.	Tom ist Fußballer.	टॉम एक फुटबॉलर है।
-Tom is a social worker.	Tom ist Sozialarbeiter.	टॉम एक सामाजिक कार्यकर्ता है।
-Tom is a spoiled child.	Tom ist ein verwöhntes Kind.	टॉम एक खराब बच्चा है।
-Tom is a spoiled child.	Tom ist ein verzogenes Kind.	टॉम एक विकृत बच्चा है।
 Tom is a stranger here.	Tom ist hier fremd.	टॉम यहाँ अजीब है।
 Tom is a stranger here.	Tom ist hier ein Fremder.	टॉम यहाँ एक अजनबी है।
 Tom is a talented chef.	Tom ist ein begnadeter Koch.	टॉम एक प्रतिभाशाली रसोइया है।
