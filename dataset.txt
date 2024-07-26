@@ -1,14 +1,4 @@
 
-Can I check in here?	Kann ich mich hier anmelden?	क्या मैं यहाँ पंजीकरण कर सकता हूँ?
-Can I come with you?	Kann ich mich euch anschließen?	क्या मैं शामिल हो सकता हूँ?
-Can I come with you?	Kann ich mich dir anschließen?	क्या मैं शामिल हो सकता हूँ?
-Can I come with you?	Kann ich mich Ihnen anschließen?	क्या मैं आपसे सहमत हो सकता हूं?
-Can I get a blanket?	Kann ich eine Decke bekommen?	क्या मुझे कंबल मिल सकता है?
-Can I go to bed now?	Darf ich jetzt ins Bett?	क्या मैं अब बिस्तर पर जा सकता हूं?
-Can I have a cookie?	Kann ich einen Keks haben?	क्या मेरे पास एक बिस्किट हो सकता है?
-Can I have a cookie?	Kann ich ein Plätzchen haben?	क्या मेरे पास जगह हो सकती है?
-Can I have a moment?	Hast du kurz Zeit?	क्या आपके पास कम समय है?
-Can I have a moment?	Haben sie kurz Zeit?	क्या आप के पास कुछ वक़्त है?
 Can I say something?	Darf ich etwas sagen?	क्या मैं कुछ कह सकता हूँ?
 Can I say something?	Kann ich etwas sagen?	क्या मैं कुछ कह सकता हूँ?
 Can I see you again?	Kann ich dich nochmal sehen?	क्या मैं आपसे फिर मिल सकता हूं?

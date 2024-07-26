@@ -25188,3 +25188,11 @@ Burn all this stuff.	Verbrenne all diesen Kram.	ये सभी सामान
 But I don't want to.	Aber ich will nicht.	लेकिन मुझे नहीं करना है।
 But I wasn't afraid.	Aber ich hatte keine Angst.	लेकिन मुझे डर नहीं था।
 Can I call you back?	Kann ich dich zurückrufen?	क्या मैं आपको वापस कॉल कर सकता हूँ?
+Can I check in here?	Kann ich hier einchecken?	क्या मैं यहाँ चेक इन कर सकता हूँ?
+Can I come with you?	Kann ich mit dir kommen?	क्या मैं तुम्हारे साथ आ सकता हूँ?
+Can I come with you? (different meaning)	Kann ich mitkommen?	क्या मैं साथ चल सकता हूँ?
+Can I get a blanket?	Kann ich eine Decke bekommen?	क्या मुझे एक कंबल मिल सकती है?
+Can I go to bed now?	Kann ich jetzt ins Bett gehen?	क्या मैं अब सोने जा सकता हूँ?
+Can I have a cookie?	Kann ich einen Keks haben?	क्या मुझे एक कुकी मिल सकती है?
+Can I have a moment?	Kann ich einen Moment haben?	क्या मुझे एक क्षण मिल सकता है?
+Can I have a moment? (different meaning)	Kann ich kurz unterbrechen?	क्या मैं एक क्षण के लिए बोल सकता हूँ?
