@@ -1,15 +1,4 @@
 
-Tom saw us do that.	Tom sah uns das machen.	टॉम ने हमें ऐसा करते देखा।
-Tom says he's busy.	Tom sagt, dass er beschäftigt ist.	टॉम का कहना है कि वह व्यस्त हैं।
-Tom says he's fine.	Tom sagt, es geht ihm gut.	टॉम का कहना है कि वह ठीक है।
-Tom says he's rich.	Tom sagt, er sei reich.	टॉम का कहना है कि वह अमीर हैं।
-Tom scrunched down.	Tom hockte sich hin.	टॉम क्राउड।
-Tom seated himself.	Tom setzte sich.	टॉम बैठ गया।
-Tom seated himself.	Tom setzte sich hin.	टॉम बैठ गया।
-Tom seemed nervous.	Tom schien nervös zu sein.	टॉम नर्वस लग रहा था।
-Tom seemed pleased.	Tom schien erfreut zu sein.	टॉम प्रसन्न लग रहा था।
-Tom seemed worried.	Tom schien besorgt zu sein.	टॉम चिंतित लग रहा था।
-Tom seemed worried.	Tom schien besorgt.	टॉम चिंतित लग रहा था।
 Tom seems harmless.	Tom scheint harmlos zu sein.	टॉम हानिरहित लगता है।
 Tom seems insecure.	Tom wirkt unsicher.	टॉम असुरक्षित दिखता है।
 Tom seems stressed.	Tom scheint gestresst zu sein.	टॉम पर जोर दिया गया लगता है।

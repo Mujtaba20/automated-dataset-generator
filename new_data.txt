@@ -23969,3 +23969,12 @@ Tom saw Mary today.	Tom sah Mary heute.	टॉम ने आज मेरी क
 Tom saw a squirrel.	Tom sah ein Eichhörnchen.	टॉम ने एक गिलहरी को देखा।
 Tom saw everything.	Tom sah alles.	टॉमने सब कुछ देखा।
 Tom saw me do that.	Tom sah mich das tun.	टॉमने मुझे ऐसा करते हुए देखा।
+Tom saw us do that.	Tom sah uns das tun.	टॉम ने हमें ऐसा करते हुए देखा।
+Tom says he's busy.	Tom sagt, er ist beschäftigt.	टॉम कहता है कि वह व्यस्त है।
+Tom says he's fine.	Tom sagt, es geht ihm gut.	टॉम कहता है कि उसे ठीक है।
+Tom says he's rich.	Tom sagt, er ist reich.	टॉम कहता है कि वह धनवान है।
+Tom scrunched down.	Tom kniff die Augen zusammen.	टॉम ने धीरे से गिरावट दी।
+Tom seated himself.	Tom setzte sich.	टॉम ने खुद को बैठाया।
+Tom seemed nervous.	Tom schien nervös zu sein.	लगता है कि टॉम घबराया हुआ था।
+Tom seemed pleased.	Tom schien erfreut zu sein.	लगता है कि टॉम खुश था।
+Tom seemed worried.	Tom schien besorgt zu sein.	लगता है कि टॉम चिंतित था।
