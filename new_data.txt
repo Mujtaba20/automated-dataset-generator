@@ -34757,3 +34757,12 @@ Tom overpowered Mary.	Tom überwältigte Mary.	टॉम ने मेरी क
 Tom owns a toy store.	Tom besitzt ein Spielzeuggeschäft.	टॉम के पास एक खिलौना स्टोर है।
 Tom paid a $300 fine.	Tom zahlte eine Strafe von 300 Dollar.	टॉम ने 300 डॉलर की जुर्माने भरी।
 Tom paid the cashier.	Tom bezahlte die Kassiererin.	टॉम ने कैशियर को भुगतान किया।
+Tom panicked and ran.	Tom geriet in Panik und rannte.	टॉम आफ़त में आ गया और भाग गया।
+Tom parties too much.	Tom feiert zu viel.	टॉम ज्यादा पार्टियां करता है।
+Tom peeled the apple.	Tom schälte den Apfel.	टॉमने सेब को छीला।
+Tom played the piano.	Tom spielte Klavier.	टॉमने पियानो बजाया।
+Tom poisoned himself.	Tom hat sich vergiftet.	टॉमने खुद को जहर दिया।
+Tom popped the trunk.	Tom öffnete den Kofferraumdeckel.	टॉमने ट्रंक खोल दिया।
+Tom probably took it.	Tom hat es wahrscheinlich genommen.	शायद टॉमने यह लिया होगा।
+Tom promised me that.	Tom versprach mir das.	टॉमने मुझसे वादा किया था।
+Tom promised to help.	Tom versprach zu helfen.	टॉमने मदद करने का वादा किया।
