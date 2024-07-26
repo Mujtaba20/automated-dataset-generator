@@ -1,15 +1,4 @@
 
-She is a quiet woman.	Sie ist eine stille Frau.	वह एक मूक महिला है।
-She is able to skate.	Sie kann Schlittschuh laufen.	यह आइस स्केटिंग चला सकता है।
-She is able to skate.	Sie kann Rollschuh laufen.	यह रोलर स्केट चला सकता है।
-She is able to skate.	Sie kann Eis laufen.	यह बर्फ चला सकता है।
-She is always scared.	Sie hat immer Angst.	वह हमेशा डरती है।
-She is angry with me.	Sie ist wütend auf mich.	वह मुझसे नाराज है।
-She is getting older.	Langsam wird sie älter.	धीरे -धीरे यह पुराना हो जाता है।
-She is in a bad mood.	Sie hat schlechte Laune.	वह बुरे मूड में है।
-She is in a bad mood.	Sie ist schlecht gelaunt.	यह बुरे मूड में है।
-She is in a bad mood.	Sie ist schlechter Laune.	यह एक बुरा मूड है।
-She is in a bad mood.	Sie ist in schlechter Stimmung.	यह बुरे मूड में है।
 She is living abroad.	Sie lebt gerade im Ausland.	वह वर्तमान में विदेश में रह रही है।
 She is making dinner.	Sie macht Abendbrot.	वह रात का खाना बनाती है।
 She is my dream girl.	Sie ist meine Traumfrau.	वह मेरी ड्रीम वुमन है।

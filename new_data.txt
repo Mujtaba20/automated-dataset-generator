@@ -33342,3 +33342,9 @@ She heard him scream.	Sie hörte ihn schreien.	उसने उसे चिल�
 She is a blonde girl.	Sie ist ein blondes Mädchen.	वह एक गोरी लड़की है।
 She is a good dancer.	Sie ist eine gute Tänzerin.	वह एक अच्छी नृत्यगुरु है।
 She is a good writer.	Sie ist eine gute Schriftstellerin.	वह एक अच्छी लेखिका है।
+She is a quiet woman.	Sie ist eine ruhige Frau.	वह एक शांत महिला है।
+She is able to skate.	Sie kann Schlittschuh laufen.	उन्हें पहियां चलाना आता है।
+She is always scared.	Sie hat immer Angst.	वह हमेशा डरी हुई होती है।
+She is angry with me.	Sie ist verärgert auf mich.	वह मुझसे नाराज़ है।
+She is getting older.	Sie wird älter.	वह बड़ी हो रही है।
+She is in a bad mood.	Sie hat eine schlechte Stimmung.	उसका मन खराब है।
