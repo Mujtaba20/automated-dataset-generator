@@ -21142,3 +21142,12 @@ I deleted the file.	Ich habe die Datei gelöscht.	मैंने फ़ाइ�
 I demand the truth.	Ich verlange die Wahrheit.	मैं सच्चाई की मांग करता हूँ।
 I detest hypocrisy.	Ich verabscheue Heuchelei.	मैं पाखंड की घृणा करता हूँ।
 I did all the work.	Ich habe alles erledigt.	मैंने सभी कार्य किए।
+I did it willingly.	Ich habe es freiwillig getan.	मैंने यह खुदा-खुद किया।
+I did that already.	Das habe ich schon getan.	मैंने वह पहले कर दिया था।
+I did this for you.	Das habe ich für dich gemacht.	मैंने यह तुम्हारे लिए किया।
+I did what I could.	Ich habe getan, was ich konnte.	मैंने जो कुछ कर सका, वह किया।
+I didn't apologize.	Ich habe mich nicht entschuldigt.	मैंने माफी नहीं मांगी।
+I didn't feel cold.	Mir war nicht kalt.	मुझे ठंड नहीं लगी।
+I didn't get fired.	Ich wurde nicht gefeuert.	मुझे नौकरी से निकाल दिया गया।
+I didn't like that.	Das hat mir nicht gefallen.	मुझे वह पसंद नहीं आया।
+I didn't notice it.	Ich habe es nicht bemerkt.	मुझे इसे ध्यान नहीं आया।

@@ -1,16 +1,4 @@
 
-I did it willingly.	Ich habe das freiwillig getan.	मैंने स्वेच्छा से ऐसा किया।
-I did that already.	Das habe ich schon gemacht.	मैंने पहले ही ऐसा किया है।
-I did this for you.	Ich habe das für dich getan.	मैंने तुम्हारे लिए ऐसा किया।
-I did what I could.	Ich habe getan, was ich konnte.	मैंने वही किया जो मैं कर सकता था।
-I didn't apologize.	Ich entschuldigte mich nicht.	मैंने माफी नहीं मांगी।
-I didn't apologize.	Ich habe mich nicht entschuldigt.	मैंने माफी नहीं मांगी।
-I didn't feel cold.	Mir war nicht kalt.	मैं ठंडा नहीं था।
-I didn't get fired.	Ich bin nicht entlassen worden.	मुझे रिहा नहीं किया गया है।
-I didn't like that.	Ich habe das nicht gemocht.	मुझे वह पसंद नहीं आया।
-I didn't notice it.	Ich habe es nicht bemerkt.	मैंने इस पर ध्यान नहीं दिया है।
-I didn't notice it.	Mir ist es nicht aufgefallen.	मैंने इसे नोटिस नहीं किया।
-I didn't notice it.	Es ist mir nicht aufgefallen.	मैंने इसे नोटिस नहीं किया।
 I didn't tell them.	Ich habe es ihnen nicht gesagt.	मैंने आपको नहीं बताया।
 I didn't want milk.	Ich wollte keine Milch.	मुझे दूध नहीं चाहिए था।
 I didn't want pity.	Ich wollte kein Mitleid.	मैं दया नहीं चाहता था।
