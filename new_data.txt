@@ -27231,3 +27231,13 @@ Is Tom still hungry?	Hat Tom immer noch Hunger?	क्या टॉम अभी
 Is Tom under arrest?	Ist Tom verhaftet?	क्या टॉम गिरफ्तार हो गया है?
 Is Tom with you now?	Ist Tom jetzt bei dir?	क्या टॉम अब तुम्हारे साथ है?
 Is Tom your brother?	Ist Tom dein Bruder?	क्या टॉम तुम्हारा भाई है?
+Is any of this true?	Ist das wahr?	क्या इसमें से कुछ सच है?
+Is anyone listening?	Hört jemand zu?	क्या कोई सुन रहा है?
+Is he looking at me?	Schaut er mich an?	क्या वह मुझे देख रहा है?
+Is his father alive?	Ist sein Vater am Leben?	क्या उसके पिताजी जीवित हैं?
+Is it Japanese food?	Ist es japanisches Essen?	क्या यह जापानी खाना है?
+Is it a big problem?	Ist das ein großes Problem?	क्या यह एक बड़ी समस्या है?
+Is it a coincidence?	Ist es ein Zufall?	क्या यह एक संयोग है?
+Is it far from here?	Ist es weit von hier?	क्या यह यहाँ से दूर है?
+Is it getting worse?	Wird es schlimmer?	क्या यह और खराब हो रहा है?
+Is it going to rain?	Wird es regnen?	क्या बारिश होने वाली है?

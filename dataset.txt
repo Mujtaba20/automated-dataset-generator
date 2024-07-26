@@ -1,14 +1,4 @@
 
-Is any of this true?	Ist irgendetwas davon wahr?	क्या इसका कुछ सच है?
-Is anyone listening?	Hört irgendjemand zu?	क्या कोई सुनता है?
-Is he looking at me?	Schaut er mich an?	क्या वह मुझे देखता है?
-Is his father alive?	Lebt sein Vater noch?	क्या उसके पिता अभी भी रहते हैं?
-Is it Japanese food?	Ist das japanisches Essen?	क्या वह जापानी भोजन है?
-Is it a big problem?	Ist es ein großes Problem?	क्या यह एक बड़ी समस्या है?
-Is it a coincidence?	Ist das ein Zufall?	क्या यह एक संयोग है?
-Is it far from here?	Ist es weit von hier?	क्या यह यहां से दूर है?
-Is it getting worse?	Wird es schlimmer?	क्या यह खराब हो रहा है?
-Is it going to rain?	Wird es regnen?	क्या बारिश होगी?
 Is it going to snow?	Wird es schneien?	क्या यह बर्फ होगा?
 Is it still raining?	Regnet es noch?	क्या अभी भी बारिश हो रही है?
 Is it still raining?	Regnet es immer noch?	क्या अभी भी बारिश हो रही है?
