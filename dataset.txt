@@ -1,15 +1,4 @@
 
-Never do that again.	Mach das nie wieder!	ऐसा फिर कभी न दोहराएं!
-Never trust anybody.	Traue nie jemandem!	किसी पर भरोसा नहीं!
-Never trust anybody.	Traut nie jemandem!	कभी किसी की हिम्मत नहीं है!
-Never trust anybody.	Trauen Sie nie jemandem!	किसी पर भरोसा नहीं!
-Next person, please.	Der Nächste, bitte.	कृपया, कृपया।
-No answer was given.	Es gab keine Antwort.	कोई जवाब नहीं था।
-No man is an island.	Niemand ist eine Insel.	कोई भी एक द्वीप नहीं है।
-No one ate anything.	Niemand aß etwas.	किसी ने कुछ नहीं खाया।
-No one believed him.	Niemand glaubte ihm.	किसी ने उस पर विश्वास नहीं किया।
-No one believes him.	Niemand glaubt ihm.	कोई भी उस पर विश्वास नहीं करता है।
-No one believes him.	Keiner glaubt ihm.	कोई भी उस पर विश्वास नहीं करता है।
 No one believes you.	Niemand glaubt dir.	कोई भी आप पर विश्वास नहीं करता है।
 No one believes you.	Niemand glaubt euch.	कोई भी आप पर विश्वास नहीं करता है।
 No one believes you.	Niemand glaubt Ihnen.	कोई भी उन पर विश्वास नहीं करता है।
