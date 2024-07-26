@@ -35785,3 +35785,9 @@ You deserve the best.	Du verdienst das Beste.	आप सबसे अच्छ�
 You did it all right.	Du hast es richtig gemacht.	तुमने सबकुछ सही किया।
 You didn't answer me.	Du hast mir nicht geantwortet.	तुमने मुझसे जवाब नहीं दिया।
 You didn't invite me.	Du hast mich nicht eingeladen.	तुमने मुझे नहीं बुलाया।
+You didn't miss much.	Du hast nicht viel verpasst.	तुम्हारा बहुत कुछ नहीं चूका।
+You do not look well.	Du siehst nicht gut aus.	तुम्हें अच्छे लग नहीं रहे।
+You don't have to go.	Du brauchst nicht zu gehen.	तुम्हें जाने की आवश्यकता नहीं है।
+You don't impress me.	Du machst keinen Eindruck auf mich.	तुम मुझपर कोई असर नहीं डालते।
+You don't like music.	Du magst keine Musik.	तुम्हे संगीत पसंद नहीं है।
+You don't look happy.	Du siehst nicht glücklich aus.	तुम खुश नहीं दिखते।

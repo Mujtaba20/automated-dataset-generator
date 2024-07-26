@@ -1,14 +1,4 @@
 
-You didn't miss much.	Du hast nicht viel verpasst.	आपको ज्यादा याद नहीं आया।
-You didn't miss much.	Ihr habt nicht viel verpasst.	आपको ज्यादा याद नहीं आया।
-You didn't miss much.	Sie haben nicht viel verpasst.	आपको ज्यादा याद नहीं आया।
-You do not look well.	Du siehst nicht gut aus.	आप अच्छे नहीं दिखते।
-You don't have to go.	Du brauchst nicht zu gehen.	आपको जाने की जरूरत नहीं है।
-You don't have to go.	Du musst nicht gehen.	आपको नहीं जाना है।
-You don't impress me.	Du beeindruckst mich nicht.	आप मुझे प्रभावित नहीं करते।
-You don't impress me.	Du imponierst mir nicht.	आप मुझे प्रभावित नहीं करते।
-You don't like music.	Du magst keine Musik.	आपको संगीत पसंद नहीं है।
-You don't look happy.	Du siehst nicht glücklich aus.	आप खुश नहीं दिखते।
 You don't need to go.	Du brauchst nicht zu gehen.	आपको जाने की जरूरत नहीं है।
 You don't need to go.	Ihr braucht nicht zu gehen.	आपको जाने की जरूरत नहीं है।
 You don't need to go.	Sie brauchen nicht zu gehen.	आपको जाने की जरूरत नहीं है।
