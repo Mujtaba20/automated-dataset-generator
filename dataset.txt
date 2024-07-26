@@ -1,15 +1,4 @@
 
-Don't listen to him.	Höre nicht auf ihn!	उसकी बात मत सुनो!
-Don't lose this key.	Verliere nicht diesen Schlüssel!	इस कुंजी को न खोएं!
-Don't lose this key.	Verliert nicht diesen Schlüssel!	इस कुंजी को न खोएं!
-Don't lose this key.	Verlieren Sie nicht diesen Schlüssel!	इस कुंजी को न खोएं!
-Don't make me angry.	Bring mich hier nicht in Rage!	मुझे यहाँ गुस्से में मत जाओ!
-Don't make me blush.	Bringen Sie mich nicht zum Erröten.	मुझे ब्लश करने के लिए मत लाओ।
-Don't make me do it.	Zwing mich nicht dazu!	यह करने में सक्षम मत बनो!
-Don't make me sorry.	Mach mich nicht traurig.	मुझे दु: खी मत करो।
-Don't mess with Tom.	Leg dich nicht mit Tom an.	टॉम के साथ मत डालो।
-Don't mess with Tom.	Legt euch nicht mit Tom an.	टॉम के साथ मत जाओ।
-Don't mess with Tom.	Legen Sie sich nicht mit Tom an.	टॉम के साथ मत जाओ।
 Don't open the door.	Öffne die Tür nicht.	दरवाजा मत खोलो।
 Don't open the door.	Öffne nicht die Türe.	दरवाजा मत खोलो।
 Don't open this box.	Diese Kiste nicht öffnen!	इस बॉक्स को न खोलें!

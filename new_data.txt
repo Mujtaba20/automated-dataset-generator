@@ -25435,3 +25435,10 @@ Don't interrupt Tom.	Unterbreche Tom nicht.	टॉम को बीच में
 Don't let Tom leave.	Lass Tom nicht gehen.	टॉम को जाने मत दो।
 Don't listen to Tom.	Höre nicht auf Tom.	टॉम की बात मत सुनो।
 Don't listen to her.	Höre nicht auf sie.	उसकी बात मत सुनो।
+Don't listen to him.	Hör nicht auf ihn.	उसकी बात मत सुनो।
+Don't lose this key.	Verliere diesen Schlüssel nicht.	यह चाबी ना गम करो।
+Don't make me angry.	Mach mich nicht wütend.	मुझे गुस्सा मत दिलाओ।
+Don't make me blush.	Bring mich nicht zum Erröten.	मुझे लाल करने मत दो।
+Don't make me do it.	Zwing mich nicht dazu.	मुझे ऐसा करने मत दो।
+Don't make me sorry.	Mach mich nicht traurig.	मुझे दुःखित मत करो।
+Don't mess with Tom.	Ärgere Tom nicht.	टॉम से पंगा न लो।
