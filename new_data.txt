@@ -39517,3 +39517,13 @@ The park was deserted.	Der Park war verlassen.	पार्क अकेला �
 The patient got worse.	Der Patient wurde schlechter.	रोगी बिगड़ गया।
 The pie was delicious.	Der Kuchen war köstlich.	पाई स्वादिष्ट था।
 The pizza tasted good.	Die Pizza schmeckte gut.	पिज्जा अच्छा था।
+The plan was executed.	Der Plan wurde ausgeführt.	योजना कार्यान्वित की गई थी।
+The pleasure was mine.	Das Vergnügen war mein.	खुशी मेरी थी।
+The police are coming.	Die Polizei kommt.	पुलिस आ रही है।
+The pond has dried up.	Der Teich ist ausgetrocknet.	तालाब सूख गया है।
+The pond is very deep.	Der Teich ist sehr tief.	तालाब बहुत गहरा है।
+The price has gone up.	Der Preis ist gestiegen.	मूल्य बढ़ गया है।
+The price is going up.	Der Preis steigt.	मूल्य बढ़ रहा है।
+The printer is jammed.	Der Drucker ist blockiert.	प्रिंटर जाम हो गया है।
+The problem is solved.	Das Problem ist gelöst.	समस्या हल हो गई है।
+The problem isn't Tom.	Das Problem ist nicht Tom.	समस्या टॉम नहीं है।
