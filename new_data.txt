@@ -30760,3 +30760,11 @@ Don't admit anything.	Gestehen Sie nichts ein.	कुछ भी स्वीक�
 Don't argue with Tom.	Diskutiere nicht mit Tom.	टॉम के साथ बहस मत करो।
 Don't be afraid, Tom.	Hab keine Angst, Tom.	डरो मत, टॉम।
 Don't be discouraged.	Lass dich nicht entmutigen.	निराश न हो।
+Don't be so critical.	Sei nicht so kritisch.	इतने संकटपूर्ण मत बनो।
+Don't be so negative.	Sei nicht so negativ.	इतनी नकारात्मक मत बनो।
+Don't be so reserved.	Sei nicht so zurückhaltend.	इतने आलिंगन मत रखो।
+Don't be so stubborn.	Sei nicht so stur.	इतना जिद्दी मत बनो।
+Don't break my heart.	Brich mir nicht das Herz.	मेरा दिल न तोड़ो।
+Don't call me a jerk.	Nenn mich nicht einen Idioten.	मुझे पागल मत कहो।
+Don't disappoint him.	Enttäusche ihn nicht.	उसे निराश मत करो।
+Don't drink anything.	Trink nichts.	कुछ न पियो।
