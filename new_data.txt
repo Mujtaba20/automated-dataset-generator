@@ -34569,3 +34569,9 @@ Tom isn't a good boy.	Tom ist kein braver Junge.	टॉम अच्छे ल�
 Tom isn't a magician.	Tom ist kein Magier.	टॉम जादूगर नहीं है।
 Tom isn't a reporter.	Tom ist kein Reporter.	टॉम पत्रकार नहीं है।
 Tom isn't a rich man.	Tom ist kein reicher Mann.	टॉम धनवान आदमी नहीं है।
+Tom isn't a stranger.	Tom ist kein Fremder.	टॉम अजनबी नहीं है।
+Tom isn't busy today.	Tom ist heute nicht beschäftigt.	टॉम आज व्यस्त नहीं है।
+Tom isn't doing that.	Tom macht das nicht.	टॉम वह नहीं कर रहा है।
+Tom isn't happy here.	Tom ist hier nicht glücklich.	टॉम यहाँ खुश नहीं है।
+Tom isn't helping me.	Tom hilft mir nicht.	टॉम मेरी मदद नहीं कर रहा है।
+Tom isn't mad at you.	Tom ist nicht erzürnt auf dich.	टॉम तुम पर नाराज नहीं है।

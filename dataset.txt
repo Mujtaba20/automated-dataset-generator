@@ -1,15 +1,4 @@
 
-Tom isn't a stranger.	Tom ist kein Fremder.	टॉम अजनबी नहीं है।
-Tom isn't busy today.	Tom ist heute nicht beschäftigt.	टॉम आज व्यस्त नहीं है।
-Tom isn't doing that.	Tom macht das nicht.	टॉम ऐसा नहीं करता है।
-Tom isn't happy here.	Tom ist hier nicht glücklich.	टॉम यहाँ खुश नहीं है।
-Tom isn't helping me.	Tom hilft mir nicht.	टॉम मेरी मदद नहीं करता है।
-Tom isn't mad at you.	Tom ist dir nicht böse.	टॉम आपसे नाराज नहीं है।
-Tom isn't mad at you.	Tom ist euch nicht böse.	टॉम आपसे नाराज नहीं है।
-Tom isn't mad at you.	Tom ist Ihnen nicht böse.	टॉम उनसे नाराज नहीं है।
-Tom isn't mad at you.	Tom ist nicht wütend auf dich.	टॉम आपसे नाराज नहीं है।
-Tom isn't mad at you.	Tom ist nicht wütend auf euch.	टॉम आपसे नाराज नहीं है।
-Tom isn't mad at you.	Tom ist nicht wütend auf Sie.	टॉम उससे नाराज नहीं है।
 Tom isn't my brother.	Tom ist nicht mein Bruder.	टॉम मेरा भाई नहीं है।
 Tom isn't my husband.	Tom ist nicht mein Mann.	टॉम मेरे पति नहीं हैं।
 Tom isn't my husband.	Tom ist nicht mein Ehemann.	टॉम मेरे पति नहीं हैं।
