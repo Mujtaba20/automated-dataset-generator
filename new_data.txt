@@ -35549,3 +35549,12 @@ Where's your uniform?	Wo ist deine Uniform?	तुम्हारी यून�
 Where's your uniform? - 2	Wo ist deine Schuluniform?	तुम्हारी सरक यहाँ है क्या?
 Which book is better?	Welches Buch ist besser?	कौनसी किताब बेहतर है?
 Which is your guitar?	Welche ist deine Gitarre?	तुम्हारी गिटार कौनसी है?
+Which one is cheaper?	Welcher ist billiger?	कौन सस्ता है?
+Which ones are Tom's?	Welche gehören Tom?	तोम के कौन हैं?
+Which shelf is it on?	Auf welchem Regal ist es?	यह किस शेल्फ पर है?
+Which way will we go?	Welchen Weg werden wir gehen?	हम किस दिशा में जाएँगे?
+Who am I speaking to?	Mit wem spreche ich?	मैं किससे बात कर रहा हूँ?
+Who are these people?	Wer sind diese Leute?	ये लोग कौन हैं?
+Who are those people?	Wer sind jene Leute?	वे लोग कौन हैं?
+Who are you angry at?	Über wen bist du wütend?	तुम किस पर गुस्सा हो?
+Who are your enemies?	Wer sind deine Feinde?	तुम्हारे दुश्मन कौन हैं?

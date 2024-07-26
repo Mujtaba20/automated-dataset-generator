@@ -1,14 +1,4 @@
 
-Which one is cheaper?	Was ist günstiger?	सस्ता क्या है?
-Which ones are Tom's?	Welche sind Toms?	कौन से टॉम्स हैं?
-Which shelf is it on?	Auf welchem Regal liegt es?	यह किस शेल्फ पर है?
-Which way will we go?	Welchen Weg gehen wir?	हम किस रास्ते पर जाते हैं?
-Who am I speaking to?	Mit wem spreche ich?	मैं किससे बात करूं?
-Who are these people?	Wer sind diese Leute?	ये लोग हैं कौन?
-Who are these people?	Was sind das für Leute?	वे लोग कौन हैं?
-Who are those people?	Was sind das für Leute?	वे लोग कौन हैं?
-Who are you angry at?	Auf wen bist du wütend?	आप किस पर नाराज हैं?
-Who are your enemies?	Wer sind eure Feinde?	आपके दुश्मन कौन हैं?
 Who are your friends?	Wer sind deine Freunde?	आपके मित्र कौन हैं?
 Who are your friends?	Wer sind eure Freunde?	आपके मित्र कौन हैं?
 Who are your friends?	Wer sind Ihre Freunde?	आपके मित्र कौन हैं?
