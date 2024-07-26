@@ -26278,3 +26278,13 @@ I got what I wanted.	Ich habe bekommen, was ich wollte.	मुझे मिल �
 I got you a present.	Ich habe dir ein Geschenk besorgt.	मैंने तुम्हें एक उपहार दिया।
 I got you something.	Ich habe dir etwas mitgebracht.	मैंने तुम्हें कुछ दिया।
 I got your messages.	Ich habe deine Nachrichten bekommen.	मैंने तुम्हारे संदेश प्राप्त किए हैं।
+I grew up in Boston.	Ich bin in Boston aufgewachsen.	मैं बोस्टन में बड़ा हुआ।
+I guess I'm spoiled.	Ich glaube, ich bin verwöhnt.	मुझे लगता है कि मैं उबला हुआ हूँ।
+I guess Tom is sick.	Ich schätze, Tom ist krank.	मुझे लगता है कि टॉम बीमार है।
+I guess that's good.	Ich denke, das ist gut.	मुझे लगता है कि यह अच्छा है।
+I had a close shave.	Ich hatte einen knappen Ausweg.	मेरे पास एक निकट बाल साफ करने की जरूरत थी।
+I had a great night.	Ich hatte eine tolle Nacht.	मेरी रात बहुत अच्छी थी।
+I had a premonition.	Ich hatte eine Vorahnung.	मुझे पूर्वाभास हो गया था।
+I had a sore throat.	Ich hatte Halsschmerzen.	मुझे गले में खराश थी।
+I had little choice.	Ich hatte wenig Auswahl.	मेरे पास थोड़ी सी विकल्प थी।
+I had my car stolen.	Mein Auto wurde gestohlen.	मेरी गाड़ी चोरी हो गई थी।
