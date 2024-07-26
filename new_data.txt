@@ -38645,3 +38645,11 @@ It's not a fair fight.	Es ist kein fairer Kampf.	यह न्यायसंग
 It's not hard to find.	Es ist nicht schwer zu finden.	यह ढूंढना मुश्किल नहीं है।
 It's not how it seems.	Es ist nicht so, wie es scheint.	ऐसा नहीं है जैसा लगता है।
 It's not quite enough.	Es ist noch nicht ganz genug.	यह पूरी तरह से काफी नहीं है।
+It's not so hot today.	Heute ist es nicht so heiß.	आज इतना गरम नहीं है।
+It's not true anymore.	Es stimmt nicht mehr.	यह अब सत्य नहीं है।
+It's not very durable.	Es ist nicht sehr haltbar.	यह अधिक स्थायी नहीं है।
+It's not what we want.	Es ist nicht das, was wir wollen.	यह वह नहीं है जो हम चाहते हैं।
+It's not why I'm here.	Das ist nicht der Grund, warum ich hier bin.	मैं इसलिए यहाँ नहीं हूँ।
+It's not worth a dime.	Es ist keinen Cent wert.	यह किसी पैसे के लायक नहीं है।
+It's obvious Tom lied.	Es ist offensichtlich, dass Tom gelogen hat.	यह स्पष्ट है कि टॉम झूठ बोला।
+It's obviously a typo.	Es ist offensichtlich ein Tippfehler.	यह स्पष्ट एक टाइपो है।
