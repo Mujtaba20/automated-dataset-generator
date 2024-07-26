@@ -32904,3 +32904,10 @@ It's not my business.	Es ist nicht mein Geschäft.	यह मेरा काम
 It's not my decision.	Es ist nicht meine Entscheidung.	यह मेरा निर्णय नहीं है।
 It's not on the menu.	Es steht nicht auf der Speisekarte.	यह मेनू पर नहीं है।
 It's not predictable.	Es ist nicht vorhersehbar.	यह पूर्वानुमान योग्य नहीं है।
+It's not so bad here.	Es ist hier nicht so schlimm.	यहाँ इतना बुरा नहीं है।
+It's not that simple.	Es ist nicht so einfach.	यह इतना सरल नहीं है।
+It's our only chance.	Es ist unsere einzige Chance.	यह हमारी एकमात्र मौका है।
+It's part of the job.	Es gehört zum Job.	यह काम का हिस्सा है।
+It's perfectly legal.	Es ist vollkommen legal.	यह पूरी तरह से कानूनी है।
+It's raining outside.	Es regnet draußen.	बाहर बारिश हो रही है।
+It's really annoying.	Es ist wirklich ärgerlich.	यह वास्तव में उकसानेवाला है।
