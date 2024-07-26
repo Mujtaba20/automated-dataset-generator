@@ -1,14 +1,4 @@
 
-Tell me where you live.	Sag mir, wo du wohnst.	मुझे बताओ कि तुम कहाँ रहते हो।
-Tell me which you want.	Sag mir, welchen du willst.	मुझे बताओ कि तुम क्या चाहते हो।
-Tell me why you did it.	Sag mir, warum du es getan hast.	मुझे बताओ कि आपने ऐसा क्यों किया।
-Tell me why you did it.	Sagen Sie mir, warum Sie es getan haben.	मुझे बताओ कि आपने ऐसा क्यों किया।
-Tell us about yourself.	Erzähl uns von dir!	हमें अपने बारे में बताओ!
-Tell us how you did it.	Sag uns, wie du es getan hast.	हमें बताएं कि आपने यह कैसे किया।
-Tell us the truth, Tom.	Sag uns die Wahrheit, Tom.	हमें सच बताओ, टॉम।
-Ten minus two is eight.	Zehn minus zwei ist acht.	दस माइनस दो आठ है।
-Ten years have gone by.	Zehn Jahre sind vergangen.	दस साल बीत चुके हैं।
-Tennis is loads of fun.	Tennis macht einen Riesenspaß.	टेनिस बहुत मजेदार है।
 Thank you all the same.	Trotzdem danke!	फिर भी धन्यवाद!
 Thank you ever so much.	Vielen herzlichen Dank!	बहुत बहुत धन्यवाद!
 Thank you for the book.	Danke für das Buch.	पुस्तक के लिए धन्यवाद।
