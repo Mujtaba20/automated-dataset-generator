@@ -1,14 +1,4 @@
 
-Tom is kind-hearted.	Tom ist gutherzig.	टॉम दयालु है।
-Tom is kissing Mary.	Tom küsst Maria.	टॉम चुंबन मारिया।
-Tom is leaving town.	Tom verlässt die Stadt.	टॉम शहर छोड़ देता है।
-Tom is looking good.	Tom sieht gut aus.	टॉम अच्छा लग रहा है।
-Tom is losing blood.	Tom verliert Blut.	टॉम रक्त खो देता है।
-Tom is lying in bed.	Tom liegt im Bett.	टॉम बिस्तर में है।
-Tom is lying to you.	Tom belügt dich.	टॉम आपको झूठ बोलता है।
-Tom is making faces.	Tom schneidet Grimassen.	टॉम ने ग्रिम्स को काट दिया।
-Tom is mentally ill.	Tom ist psychisch krank.	टॉम मानसिक रूप से बीमार है।
-Tom is my classmate.	Tom ist mein Klassenkamerad.	टॉम मेरा सहपाठी है।
 Tom is my colleague.	Tom ist mein Kollege.	टॉम मेरे सहयोगी हैं।
 Tom is narcissistic.	Tom ist selbstverliebt.	टॉम प्यार में है।
 Tom is nervous, too.	Tom ist auch nervös.	टॉम भी नर्वस है।

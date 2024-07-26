@@ -28911,3 +28911,13 @@ Tom is just nervous.	Tom ist nur nervös.	टॉम बस घबराया �
 Tom is kind of cute.	Tom ist irgendwie süß.	टॉम कुछ प्यारा है।
 Tom is kind of tall.	Tom ist irgendwie groß.	टॉम कुछ लंबा है।
 Tom is kind to Mary.	Tom ist nett zu Mary.	टॉम मेरी के प्रति दयालु है।
+Tom is kind-hearted.	Tom ist gutherzig.	टॉम दिल से अच्छा है।
+Tom is kissing Mary.	Tom küsst Maria.	टॉम मेरी को चुम्बन दे रहा है।
+Tom is leaving town.	Tom verlässt die Stadt.	टॉम शहर छोड़  रहा है।
+Tom is looking good.	Tom sieht gut aus.	टॉम अच्छा दिख रहा है।
+Tom is losing blood.	Tom verliert Blut.	टॉम खून खो रहा है।
+Tom is lying in bed.	Tom liegt im Bett.	टॉम बिस्तर पर लेटा है।
+Tom is lying to you.	Tom belügt dich.	टॉम आपसे झूठ बोल रहा है।
+Tom is making faces.	Tom schneidet Grimassen.	टॉम चेहरे बना रहा है।
+Tom is mentally ill.	Tom ist geistig krank.	टॉम मानसिक रूप से अस्वस्थ है।
+Tom is my classmate.	Tom ist mein Klassenkamerad.	टॉम मेरा सहपाठी है।
