@@ -35433,3 +35433,11 @@ What will you do now?	Was werden Sie jetzt tun?	अब आप क्या क�
 What you say is true.	Was du sagst, ist wahr.	जो तुम कहते हो, वह सच है।
 What'll become of me?	Was wird aus mir werden?	मेरा क्या होगा?
 What'll you be doing?	Was wirst du tun?	तुम क्या कर रहे हो?
+What'll you do there?	Was wirst du dort tun?	आप वहाँ क्या करोगे?
+What'll you give Tom?	Was wirst du Tom geben?	तुम टॉम को क्या दोगे?
+What'll you tell Tom?	Was wirst du Tom erzählen?	तुम टॉम को क्या बताओगे?
+What're you doing up?	Was machst du oben?	तुम ऊपर क्या कर रहे हो?
+What're you drinking?	Was trinkst du?	तुम क्या पी रहे हो?
+What're you thinking?	Was denkst du?	तुम क्या सोच रहे हो?
+What're you watching?	Was schaust du?	तुम क्या देख रहे हो?
+What's Tom look like?	Wie sieht Tom aus?	टॉम कैसा दिखता है?

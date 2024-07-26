@@ -1,14 +1,4 @@
 
-What'll you do there?	Was wirst du dort tun?	तुम वहाँ क्या करोगे?
-What'll you give Tom?	Was wirst du Tom geben?	आप टॉम को क्या देंगे?
-What'll you tell Tom?	Was wirst du Tom erzählen?	आप टॉम को क्या बताएंगे?
-What're you doing up?	Was bereitest du vor?	आप क्या तैयारी कर रहे हैं?
-What're you doing up?	Was dekorierst du?	आप क्या सजा रहे हैं?
-What're you drinking?	Was trinkst du?	आप क्या पी रहे हैं?
-What're you thinking?	Was denkst du?	आप क्या सोचते हैं?
-What're you watching?	Was siehst du dir an?	आप क्या देखते हैं?
-What're you watching?	Was beobachtest du?	आप क्या देखते हैं?
-What's Tom look like?	Wie sieht Tom aus?	टॉम कैसा दिखता है?
 What's Tom's address?	Wie lautet Toms Adresse?	टॉम का पता क्या है?
 What's Tom's problem?	Was ist Toms Problem?	टॉम की समस्या क्या है?
 What's bothering you?	Was beunruhigt Sie?	आपको क्या चिंता है?
