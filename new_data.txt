@@ -31828,3 +31828,12 @@ I knew I'd be blamed.	Ich wusste, dass man mir die Schuld geben würde.	मु�
 I knew Tom very well.	Ich kannte Tom sehr gut.	मुझे टॉम अच्छी तरह से पता था।
 I knew Tom's brother.	Ich kannte Toms Bruder.	मुझे टॉम के भाई का पता था।
 I knew it was a joke.	Ich wusste, dass es ein Scherz war.	मुझे पता था कि यह एक हंसी हूँ थी।
+I knew you'd be here.	Ich wusste, du wärest hier.	मैं जानता था कि तुम यहाँ होगे।
+I knew you'd find me.	Ich wusste, du würdest mich finden.	मैं जानता था कि तुम मुझे ढूंढ़ लोगे।
+I knew you'd like it.	Ich wusste, dass es dir gefallen würde.	मुझे पता था कि तुम्हें यह पसंद आएगा।
+I knew you'd make it.	Ich wusste, du würdest es schaffen.	मैं जानता था कि तुम यह कर पाओगे।
+I knew you'd miss me.	Ich wusste, du würdest mich vermissen.	मैं जानता था कि तुम्हें मेरी याद आएगी।
+I know I'll die soon.	Ich weiß, dass ich bald sterben werde.	मुझे पता है कि मैं जल्द ही मर जाऊँगा।
+I know Tom likes you.	Ich weiß, dass Tom dich mag.	मुझे पता है कि टॉम को तुम पसंद हो।
+I know Tom very well.	Ich kenne Tom sehr gut.	मैं टॉम को बहुत अच्छे से जानता हूँ।
+I know Tom was right.	Ich weiß, dass Tom recht hatte.	मुझे पता है कि टॉम सही था।
