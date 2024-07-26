@@ -31775,3 +31775,10 @@ I have some bad news.	Ich habe schlechte Nachrichten.	मेरे पास क
 I have some chickens.	Ich habe einige Hühner.	मेरे पास कुछ मुर्गियां हैं।
 I have thirteen cats.	Ich habe dreizehn Katzen.	मेरे पास तेरह बिल्लियाँ हैं।
 I have three cameras.	Ich habe drei Kameras.	मेरे पास तीन कैमरे हैं।
+I have three cousins.	Ich habe drei Cousins.	मेरे पास तीन चचेरे भाइ हैं।
+I have three options.	Ich habe drei Möglichkeiten.	मेरे पास तीन विकल्प हैं।
+I have throat cancer.	Ich habe Kehlkopfkrebs.	मेरे गले में कैंसर है।
+I have to be careful.	Ich muss vorsichtig sein.	मुझे सावधान रहना है।
+I have to do my best.	Ich muss mein Bestes geben.	मुझे अपनी सबसे अच्छी कोशिश करनी है।
+I have to get moving.	Ich muss in Bewegung kommen.	मुझे चलना होगा।
+I have to get to Tom.	Ich muss zu Tom gelangen.	मुझे टॉम तक पहुँचना है।

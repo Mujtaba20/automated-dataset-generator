@@ -1,14 +1,4 @@
 
-I have three cousins.	Ich habe drei Cousins.	मेरे तीन चचेरे भाई हैं।
-I have three cousins.	Ich habe drei Cousinen.	मेरे तीन चचेरे भाई हैं।
-I have three cousins.	Ich habe drei Vettern.	मेरे तीन चचेरे भाई हैं।
-I have three options.	Ich habe drei Optionen.	मेरे पास तीन विकल्प हैं।
-I have throat cancer.	Ich habe Kehlkopfkrebs.	मुझे स्वरयंत्र कैंसर है।
-I have to be careful.	Ich muss vorsichtig sein.	मुझे सावधान रहना होगा।
-I have to do my best.	Ich muss mein Bestes geben.	मुझे अपना सर्वश्रेष्ठ प्रदर्शन करना है।
-I have to get moving.	Ich muss voranmachen.	मुझे आगे बढ़ना है।
-I have to get to Tom.	Ich muss zu Tom gelangen.	मुझे टॉम के पास जाना है।
-I have to get to Tom.	Ich muss Tom erreichen.	मुझे टॉम तक पहुंचना है।
 I have to go ask Tom.	Ich muss Tom fragen.	मुझे टॉम से पूछना है।
 I have to go do this.	Ich muss gehen und das tun.	मुझे जाना है और ऐसा करना है।
 I have to go get Tom.	Ich muss Tom holen.	मुझे टॉम लाना है।
