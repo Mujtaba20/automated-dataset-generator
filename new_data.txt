@@ -34142,3 +34142,10 @@ Tom didn't mean that.	Tom meinte das nicht.	टॉम का मतलब वह
 Tom didn't notice it.	Tom hat es nicht bemerkt.	टॉम ने इसे ध्यान नहीं दिया।
 Tom didn't notice me.	Tom hat mich nicht bemerkt.	टॉम ने मुझे नहीं देखा।
 Tom didn't stay long.	Tom blieb nicht lange.	टॉम ने लंबे समय तक नहीं ठहरा।
+Tom didn't tell Mary.	Tom hat Mary nicht mitgeteilt.	टॉम ने मेरी को नहीं बताया।
+Tom didn't want that.	Tom wollte das nicht.	टॉम नहीं चाहता था।
+Tom didn't wave back.	Tom hat nicht zurückgewunken.	टॉम ने पीछे से हिलाया नहीं।
+Tom died a day later.	Tom starb einen Tag später.	टॉम एक दिन बाद मर गया।
+Tom died a happy man.	Tom starb als glücklicher Mensch.	टॉम एक खुश इंसान था जब वह मरा।
+Tom does sloppy work.	Tom macht schlampige Arbeit.	टॉम गंदा काम करता है।
+Tom does study a lot.	Tom lernt viel.	टॉम बहुत पढ़ता है।

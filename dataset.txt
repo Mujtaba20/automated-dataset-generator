@@ -1,14 +1,4 @@
 
-Tom didn't tell Mary.	Tom hat Maria nichts gesagt.	टॉम ने कुछ नहीं कहा।
-Tom didn't tell Mary.	Tom verschwieg es Maria.	टॉम मारिया करने में विफल रहा।
-Tom didn't want that.	Tom wollte das nicht.	टॉम ऐसा नहीं चाहते थे।
-Tom didn't wave back.	Tom hat nicht zurückgewinkt.	टॉम ने मना नहीं किया।
-Tom didn't wave back.	Tom winkte nicht zurück.	टॉम ने वेव्स वापस नहीं किया।
-Tom died a day later.	Einen Tag später starb Tom.	एक दिन बाद टॉम की मृत्यु हो गई।
-Tom died a happy man.	Tom starb als glücklicher Mann.	टॉम एक खुश आदमी के रूप में मर गया।
-Tom died a happy man.	Tom ist als glücklicher Mann gestorben.	टॉम एक खुश आदमी के रूप में मर गया।
-Tom does sloppy work.	Tom liefert schlampige Arbeit ab.	टॉम मैला काम करता है।
-Tom does study a lot.	Tom lernt tatsächlich viel.	टॉम वास्तव में बहुत कुछ सीखता है।
 Tom doesn't complain.	Tom beklagt sich nicht.	टॉम शिकायत नहीं करता है।
 Tom doesn't do drugs.	Tom nimmt keine Drogen.	टॉम ड्रग्स नहीं लेता है।
 Tom doesn't eat meat.	Tom isst kein Fleisch.	टॉम मांस नहीं खाता।
