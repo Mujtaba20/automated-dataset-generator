@@ -21091,3 +21091,11 @@ I can help you out.	Ich kann dir helfen.	मैं तुम्हें मद�
 I can imagine that.	Ich kann mir das vorstellen.	मैं इसे कल्पना कर सकता हूँ।
 I can pay you back.	Ich kann dir zurückzahlen.	मैं तुम्हें वापस पैसे दे सकता हूँ।
 I can probably win.	Ich kann wahrscheinlich gewinnen.	मैं संभावना से जीत सकता हूँ।
+I can ride a horse.	Ich kann reiten.	मैं घोड़े पर सवारी कर सकता हूँ।
+I can speak French.	Ich kann Französisch sprechen.	मैं फ्रेंच बोल सकता हूँ।
+I can speak to Tom.	Ich kann mit Tom sprechen.	मैं टॉम से बात कर सकता हूँ।
+I can take the bus.	Ich kann den Bus nehmen.	मैं बस पकड़ सकता हूं।
+I can wait for you.	Ich kann auf dich warten.	मैं तुम्हारा इंतेजार कर सकता हूँ।
+I can't allow that.	Das kann ich nicht erlauben.	मैं उसे अनुमति नहीं दे सकता।
+I can't allow this.	Das kann ich nicht erlauben.	मैं इसे अनुमति नहीं दे सकता।
+I can't believe it!	Ich kann es nicht glauben!	मैं इसे विश्वास नहीं कर सकता!

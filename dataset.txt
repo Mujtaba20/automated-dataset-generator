@@ -1,14 +1,4 @@
 
-I can ride a horse.	Ich kann reiten.	मैं सवारी कर सकता हूँ।
-I can speak French.	Ich kann Französisch sprechen.	मैं फ्रांसीसी बोल सकता हूं।
-I can speak to Tom.	Ich kann mit Tom reden.	मैं टॉम से बात कर सकता हूं।
-I can take the bus.	Ich kann mit dem Bus fahren.	मैं बस ले सकता हूं।
-I can wait for you.	Ich kann auf dich warten.	मैं आप के लिए इंतजार कर सकते हूँ।
-I can wait for you.	Ich kann auf euch warten.	मैं आप के लिए इंतजार कर सकते हूँ।
-I can wait for you.	Ich kann auf Sie warten.	मैं आप के लिए इंतजार कर सकते हूँ।
-I can't allow that.	Das kann ich nicht erlauben.	मैं इसकी अनुमति नहीं दे सकता।
-I can't allow this.	Das kann ich nicht erlauben.	मैं इसकी अनुमति नहीं दे सकता।
-I can't believe it!	Ich kann es nicht glauben!	मैं इस पर विश्वास नहीं कर सकता!
 I can't blame them.	Ich kann ihnen keinen Vorwurf machen.	मैं आपको दोष नहीं दे सकता।
 I can't buy a bike.	Ich kann kein Radel kaufen.	मैं एक बाइक नहीं खरीद सकता।
 I can't buy a bike.	Ich kann kein Fahrrad kaufen.	मैं एक बाइक नहीं खरीद सकता।
