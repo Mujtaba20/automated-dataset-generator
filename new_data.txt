@@ -26262,3 +26262,10 @@ I gave him the book.	Ich gab ihm das Buch.	मैंने उसे कित�
 I get paid tomorrow.	Ich werde morgen bezahlt.	मुझे कल पैसे मिलेंगे।
 I get up very early.	Ich stehe sehr früh auf.	मैं बहुत जल्दी उठता हूँ।
 I give you my heart.	Ich schenke dir mein Herz.	मैं तुम्हें अपना दिल देता हूँ।
+I go to work by bus.	Ich gehe mit dem Bus zur Arbeit.	मैं बस से काम जाता हूँ।
+I go where I please.	Ich gehe, wohin ich will.	मैं जहां चाहूं वहां जाता हूँ।
+I got Tom's message.	Ich habe Toms Nachricht bekommen.	मैंने टॉम का संदेश प्राप्त किया।
+I got a raise today.	Heute habe ich eine Gehaltserhöhung bekommen.	आज मुझे वेतन में वृद्धि मिली।
+I got a weird email.	Ich habe eine seltsame E-Mail erhalten.	मुझे एक अजीब ईमेल मिला।
+I got dumped, again.	Ich wurde wieder abserviert.	फिर से मुझसे रिश्ता तोड़ दिया गया।
+I got even with him.	Ich bin mit ihm quitt.	मैंने उसके साथ समान किया।

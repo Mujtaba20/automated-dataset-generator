@@ -1,15 +1,4 @@
 
-I go to work by bus.	Ich fahre mit dem Bus zur Arbeit.	मैं बस से काम करने के लिए जाता हूँ।
-I go where I please.	Ich gehe, wohin ich will.	मैं जाता हूं जहां मैं जाना चाहता हूं।
-I got Tom's message.	Ich habe Toms Nachricht bekommen.	मुझे टॉम का संदेश मिला।
-I got Tom's message.	Ich habe Thomas seine Nachricht bekommen.	मुझे थॉमस का संदेश मिला।
-I got a raise today.	Ich habe heute eine Gehaltserhöhung bekommen.	मुझे आज वेतन वृद्धि हुई है।
-I got a raise today.	Ich habe heute eine Gehaltserhöhung gekriegt.	मुझे आज वेतन वृद्धि हुई है।
-I got a weird email.	Ich bekam eine seltsame E-Mail.	मुझे एक अजीब ईमेल मिला।
-I got a weird email.	Ich habe eine seltsame E-Mail bekommen.	मुझे एक अजीब ईमेल मिला।
-I got dumped, again.	Mir ist schon wieder der Laufpass gegeben worden.	मुझे पहले ही पासपोर्ट दिया जा चुका है।
-I got even with him.	Ich habe es ihm heimgezahlt.	मैंने उसे घर का भुगतान किया।
-I got even with him.	Ich habe mit ihm abgerechnet.	मैंने उसके साथ बिल किया।
 I got hit by a ball.	Tom wurde von einem Ball getroffen.	टॉम एक गेंद से टकरा गया था।
 I got home at seven.	Ich kam um sieben nach Hause.	मैं सात बजे घर आया।
 I got off the train.	Ich stieg aus dem Zug aus.	मैं ट्रेन से बाहर निकला।
