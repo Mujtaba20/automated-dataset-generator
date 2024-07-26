@@ -1,16 +1,4 @@
 
-I owe Tom a great deal.	Ich habe Tom viel zu verdanken.	मैं टॉम को बहुत पसंद करता हूं।
-I owe you five dollars.	Ich bin dir fünf Dollar schuldig.	मैं $ पांच।
-I paid for it in euros.	Ich habe es in Euro bezahlt.	मैंने यूरो में इसके लिए भुगतान किया।
-I prefer coffee to tea.	Mir ist Kaffee lieber als Tee.	मैं चाय की तुलना में कॉफी पसंद करता हूं।
-I prefer milk to juice.	Ich mag lieber Milch als Saft.	मैं जूस की तुलना में दूध पसंद करता हूं।
-I prefer mineral water.	Ich mag lieber Selters.	मैं सेल्टर्स पसंद करता हूं।
-I prefer rice to bread.	Ich mag lieber Reis als Brot.	मैं रोटी की तुलना में चावल पसंद करता हूं।
-I prefer tea to coffee.	Ich mag lieber Tee als Kaffee.	मैं कॉफी की तुलना में चाय पसंद करता हूं।
-I prefer the black one.	Das Schwarze ist mir lieber.	मैं काला पसंद करता हूं।
-I prefer to work alone.	Ich ziehe es vor, allein zu arbeiten.	मैं अकेले काम करना पसंद करता हूं।
-I prefer to work alone.	Ich arbeite lieber allein.	मैं अकेले काम करना पसंद करता हूं।
-I prefer to work alone.	Ich arbeite am liebsten allein.	मैं अकेले काम करना पसंद करता हूं।
 I prefer working alone.	Ich ziehe es vor, allein zu arbeiten.	मैं अकेले काम करना पसंद करता हूं।
 I prefer working alone.	Ich arbeite lieber allein.	मैं अकेले काम करना पसंद करता हूं।
 I prefer working alone.	Ich ziehe die Alleinarbeit vor.	मैं एकल काम पसंद करता हूं।
