@@ -1,15 +1,4 @@
 
-Tom might have seen us.	Tom könnte uns gesehen haben.	टॉम हमें देख सकता था।
-Tom missed his friends.	Tom vermisste seine Freunde.	टॉम ने अपने दोस्तों को याद किया।
-Tom misses his parents.	Tom vermisst seine Eltern.	टॉम अपने माता -पिता को याद करता है।
-Tom moved to Australia.	Tom ist nach Australien gezogen.	टॉम ऑस्ट्रेलिया चले गए।
-Tom must be very happy.	Tom muss sehr glücklich sein.	टॉम को बहुत खुश होना है।
-Tom must be very tired.	Tom muss sehr erschöpft sein.	टॉम बहुत थक जाना चाहिए।
-Tom must've been lying.	Tom muss gelogen haben.	टॉम ने झूठ बोला होगा।
-Tom needed 30 stitches.	Tom brauchte 30 Stiche.	टॉम को 30 टांके की जरूरत थी।
-Tom needs a dozen eggs.	Tom braucht ein Dutzend Eier.	टॉम को एक दर्जन अंडे चाहिए।
-Tom needs more surgery.	Tom benötigt noch weitere Operationen.	टॉम को अभी भी आगे के संचालन की आवश्यकता है।
-Tom needs more surgery.	Tom braucht noch weitere Operationen.	टॉम को अधिक संचालन की आवश्यकता है।
 Tom neglected his work.	Tom vernachlässigte seine Arbeit.	टॉम ने अपने काम की उपेक्षा की।
 Tom never eats spinach.	Tom isst nie Spinat.	टॉम कभी पालक नहीं खाता।
 Tom never forgave Mary.	Tom hat Maria nie vergeben.	टॉम ने कभी भी मारिया को माफ नहीं किया।
