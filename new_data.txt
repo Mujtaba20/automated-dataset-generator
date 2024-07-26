@@ -21604,3 +21604,13 @@ I saw him run away.	Ich sah ihn weglaufen.	मैंने उसे भाग�
 I saw the man jump.	Ich sah den Mann springen.	मैंने उस आदमी को कूदते हुए देखा।
 I saw the pictures.	Ich habe die Bilder gesehen.	मैंने तस्वीरें देखीं।
 I saw them kissing.	Ich sah sie küssen.	मैंने उन्हें चुंबन देते हुए देखा।
+I saw you with Tom.	Ich habe dich mit Tom gesehen.	मैंने तुम्हें टॉम के साथ देखा।
+I say what I think.	Ich sage, was ich denke.	मैं वह कहता हूं जो मैं सोचता हूँ।
+I see Tom and Mary.	Ich sehe Tom und Mary.	मैं टॉम और मेरी को देखता हूँ।
+I sent Tom a video.	Ich habe Tom ein Video geschickt.	मैंने टॉम को एक वीडियो भेजा।
+I should go to bed.	Ich sollte ins Bett gehen.	मुझे सोने चला जाना चाहिए।
+I should thank Tom.	Ich sollte Tom danken.	मुझे टॉम का आभार स्वीकार करना चाहिए।
+I should visit Tom.	Ich sollte Tom besuchen.	मुझे टॉम को देखना चाहिए।
+I should've stayed.	Ich hätte bleiben sollen.	मैं रुक जाना चाहिए था।
+I showed it to Tom.	Ich habe es Tom gezeigt.	मैंने यह टॉम को दिखाया।
+I shower every day.	Ich dusche jeden Tag.	मैं हर दिन नहाता हूँ।

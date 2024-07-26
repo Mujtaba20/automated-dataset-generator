@@ -1,14 +1,4 @@
 
-I saw you with Tom.	Ich habe dich mit Tom gesehen.	मैंने आपको टॉम के साथ देखा।
-I say what I think.	Ich sage, was ich denke.	मैं कहता हूं कि मुझे क्या लगता है।
-I see Tom and Mary.	Ich werde Tom und Maria sehen.	मैं टॉम और मारिया को देखूंगा।
-I sent Tom a video.	Ich habe Tom ein Video geschickt.	मैंने टॉम को एक वीडियो भेजा।
-I should go to bed.	Ich sollte ins Bett gehen.	मुझे बिस्तर पर जाना चाहिए।
-I should thank Tom.	Ich sollte Tom danken.	मुझे टॉम को धन्यवाद देना चाहिए।
-I should visit Tom.	Ich sollte Tom besuchen.	मुझे टॉम का दौरा करना चाहिए।
-I should've stayed.	Ich hätte bleiben sollen.	मुझे रहना चाहिए था।
-I showed it to Tom.	Ich habe es Tom gezeigt.	मैंने टॉम दिखाया।
-I shower every day.	Ich dusche jeden Tag.	मैं हर दिन स्नान करता हूं।
 I signed the check.	Ich unterschrieb den Scheck.	मैंने चेक पर हस्ताक्षर किए।
 I sleep in my room.	Ich schlafe in meinem Zimmer.	मैं अपने कमरे में सोता हूं।
 I slept in the car.	Ich habe im Auto geschlafen.	मैं कार में सो गया।
