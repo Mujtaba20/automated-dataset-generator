@@ -30244,3 +30244,12 @@ You should eat more. (Different meaning)	Es sollte mehr gegessen werden.	अध�
 You should meet Tom.	Du solltest Tom treffen.	तुम्हें टॉम से मिलना चाहिए।
 You should meet him.	Du solltest ihn treffen.	तुम्हें उससे मिलना चाहिए।
 You should rest now.	Du solltest dich jetzt ausruhen.	तुम्हें अभी आराम करना चाहिए।
+You should thank me.	Du solltest mir danken.	तुम्हें मुझे धन्यवाद देना चाहिए।
+You smell wonderful.	Du riechst wunderbar.	तुम बहुत अच्छे लगते हो।
+You sound surprised.	Du klingst überrascht.	तुम चौंक गए लग रहे हो।
+You sure are pretty.	Du bist wirklich hübsch.	तुम बिल्कुल सुंदर हो।
+You taught me a lot.	Du hast mir viel beigebracht.	तुमने मुझे बहुत कुछ सिखाया।
+You used to like me.	Du mochtest mich früher.	तुम्हें मेरी तरह पसंद था।
+You were both drunk.	Ihr wart beide betrunken.	तुम दोनों नशे में थे।
+You were right, Tom.	Du hattest Recht, Tom.	तुम सही थे, टॉम।
+You were very brave.	Du warst sehr mutig.	तुम बहुत बहादुर थे।

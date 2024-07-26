@@ -1,16 +1,4 @@
 
-You should thank me.	Du solltest mir danken.	आपको मुझे धन्यवाद देना चाहिए।
-You smell wonderful.	Du duftest herrlich.	आप खुशबू।
-You sound surprised.	Du klingst überrascht.	आप आश्चर्यचकित हैं।
-You sure are pretty.	Du bist superhübsch.	आप बहुत बढ़िया है
-You taught me a lot.	Du hast mir viel beigebracht.	आपने मुझे बहुत कुछ सिखाया।
-You used to like me.	Du mochtest mich doch mal.	तुम मुझे पसंद हो।
-You were both drunk.	Ihr wart beide betrunken.	आप दोनों नशे में थे।
-You were both drunk.	Sie waren beide betrunken.	वे दोनों नशे में थे।
-You were right, Tom.	Du hattest recht, Tom.	आप सही थे, टॉम।
-You were very brave.	Du warst sehr tapfer.	आप बहुत बहादुर थे।
-You were very brave.	Ihr wart sehr tapfer.	आप बहुत बहादुर थे।
-You were very brave.	Sie waren sehr tapfer.	वे बहुत बहादुर थे।
 You will need a key.	Du wirst einen Schlüssel brauchen.	आपको एक कुंजी की आवश्यकता होगी।
 You won't die today.	Du wirst nicht heute sterben.	आप आज नहीं मरेंगे।
 You won't die today.	Sie werden nicht heute sterben.	आप आज नहीं मरेंगे।
