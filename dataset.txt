@@ -1,15 +1,4 @@
 
-I'm just being careful.	Ich bin einfach nur vorsichtig.	मैं बस सावधान हूं।
-I'm lactose intolerant.	Ich habe eine Laktoseintoleranz.	मेरे पास एक लैक्टोज असहिष्णुता है।
-I'm lactose intolerant.	Ich habe Laktoseintoleranz.	मेरे पास लैक्टोज असहिष्णुता है।
-I'm listening to music.	Ich höre Musik.	मैं संगीत सुनता हूं।
-I'm listening to music.	Ich höre gerade Musik.	मैं अभी संगीत सुन रहा हूं।
-I'm living in the city.	Ich lebe in der Stadt.	मैं शहर में रहता हूँ।
-I'm lonely without you.	Ich bin einsam ohne dich.	मैं तुम्हारे बिना अकेला हूँ।
-I'm looking for an ATM.	Ich suche einen Geldautomaten.	मुझे ATM जाना है.
-I'm looking for my cat.	Ich suche meine Katze.	मैं अपनी बिल्ली को खोजता हूं।
-I'm looking for my dog.	Ich suche meinen Hund.	मैं अपने कुत्ते की तलाश में हूं।
-I'm looking for my dog.	Ich suche nach meinem Hund.	मैं अपने कुत्ते की तलाश में हूं।
 I'm looking for my hat.	Ich suche meinen Hut.	मैं अपनी टोपी की तलाश में हूं।
 I'm looking for my key.	Ich suche meinen Schlüssel.	मैं अपनी चाबी की तलाश में हूं।
 I'm looking for my pen.	Ich suche meinen Kuli.	मैं अपने culmonated की तलाश कर रहा हूं।
