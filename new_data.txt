@@ -22844,3 +22844,12 @@ Tell me everything.	Sag mir alles.	मुझे सब कुछ बताओ।
 Tell me what to do.	Sag mir, was ich tun soll.	मुझे बताओ मैं क्या करूँ।
 Tell me your names.	Sag mir eure Namen.	मुझे अपने नाम बताओ।
 Tell us what to do.	Sagt uns, was wir tun sollen.	हमें बताओ कि हमें क्या करना चाहिए।
+Thank you for that.	Danke dafür.	उसके लिए धन्यवाद।
+Thank you for this.	Danke dafür.	इसके लिए धन्यवाद।
+Thanks for helping.	Danke für die Hilfe.	मदद के लिए धन्यवाद।
+Thanks for the tip.	Danke für den Tipp.	सुझाव के लिए धन्यवाद।
+Thanks for waiting.	Danke fürs Warten.	रुकने के लिए धन्यवाद।
+That belongs to me.	Das gehört mir.	वह मेरा है।
+That belongs to us.	Das gehört uns.	वह हमारा है।
+That book is small.	Das Buch ist klein.	यह किताब छोटी है।
+That can't be true.	Das kann nicht stimmen.	वह सच नहीं हो सकता।
