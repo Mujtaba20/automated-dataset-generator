@@ -40081,3 +40081,11 @@ Tom has a double chin.	Tom hat ein Doppelkinn.	टॉम के दोहरी 
 Tom has a foreign car.	Tom hat ein ausländisches Auto.	टॉम के पास एक विदेशी कार है।
 Tom has a good chance.	Tom hat eine gute Chance.	टॉम के पास अच्छा मौका है।
 Tom has a good lawyer.	Tom hat einen guten Anwalt.	टॉम के पास एक अच्छा वकील है।
+Tom has a good memory.	Tom hat ein gutes Gedächtnis.	टॉम की अच्छी याददाश्त है।
+Tom has a great smile.	Tom hat ein tolles Lächeln.	टॉम की बड़ी मुस्कान है।
+Tom has a hairy chest.	Tom hat eine behaarte Brust.	टॉम के बालदार सीने हैं।
+Tom has a half-sister.	Tom hat eine Halbschwester.	टॉम की आधी बहन है।
+Tom has a heated pool.	Tom hat einen beheizten Pool.	टॉम के पूल में गर्मी होती है।
+Tom has a loose tooth.	Tom hat einen lockeren Zahn.	टॉम के एक ढीला दांत है।
+Tom has a lot of land.	Tom hat viel Land.	टॉम के पास बहुत सारा ज़मीन है।
+Tom has a lot of time.	Tom hat viel Zeit.	टॉम के पास बहुत समय है।

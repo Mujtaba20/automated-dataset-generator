@@ -1,14 +1,4 @@
 
-Tom has a good memory.	Tom hat ein gutes Gedächtnis.	टॉम में एक अच्छी स्मृति है।
-Tom has a good memory.	Tom hat ein gutes Erinnerungsvermögen.	टॉम के पास अच्छी मेमोरी है।
-Tom has a great smile.	Tom hat ein tolles Lächeln.	टॉम में एक महान मुस्कान है।
-Tom has a hairy chest.	Tom hat eine behaarte Brust.	टॉम में एक बालों वाली छाती है।
-Tom has a half-sister.	Tom hat eine Halbschwester.	टॉम की एक सौतेली बहन है।
-Tom has a heated pool.	Tom hat ein beheiztes Schwimmbecken.	टॉम में एक गर्म स्विमिंग पूल है।
-Tom has a loose tooth.	Tom hat einen wackligen Zahn.	टॉम का एक अस्थिर दांत है।
-Tom has a loose tooth.	Tom hat einen Wackelzahn.	टॉम के पास एक डगमगाना है।
-Tom has a lot of land.	Tom hat eine Menge Land.	टॉम के पास बहुत सारी जमीन है।
-Tom has a lot of time.	Tom hat viel Zeit.	टॉम के पास बहुत समय है।
 Tom has a new bicycle.	Tom hat ein neues Fahrrad.	टॉम के पास एक नई बाइक है।
 Tom has a nice camera.	Tom hat eine schöne Kamera.	टॉम के पास एक अच्छा कैमरा है।
 Tom has a nice camera.	Tom hat einen schönen Fotoapparat.	टॉम के पास एक अच्छा कैमरा है।
