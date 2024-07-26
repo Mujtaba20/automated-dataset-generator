@@ -30599,3 +30599,11 @@ Did you speak to Tom?	Hast du mit Tom gesprochen?	क्या तुमने �
 Did you threaten Tom?	Hast du Tom bedroht?	क्या तुमने टॉम को धमकाया?
 Did you try this key?	Hast du diesen Schlüssel ausprobiert?	क्या तुमने यह कुंजी ताक़त दी?
 Did you two break up?	Habt ihr zwei euch getrennt?	क्या तुम दोनों अलग हो गए?
+Did you two have fun?	Hattest du Spaß zu zweit?	क्या आप दोनों मज़े कर रहे थे?
+Did you use my knife?	Hast du mein Messer benutzt?	क्या तुमने मेरा चाकू इस्तेमाल किया?
+Did you vote for Tom?	Hast du für Tom gestimmt?	क्या तुमने टॉम के लिए वोट डाला?
+Did you wait for Tom?	Hast du auf Tom gewartet?	क्या आपने टॉम का इंतजार किया?
+Didn't I tell you so?	Habe ich es dir nicht gesagt?	क्या मैंने तुम्हें ऐसा नहीं कहा था?
+Did you use my knife? (alternate meaning)	Hast du mein Messer verwendet?	क्या तुमने मेरा चाकू प्रयोग किया?
+Did you vote for Tom? (alternate meaning)	Hast du Tom gewählt?	क्या तुमने टॉम को वोट दिया?
+Did you wait for Tom? (alternate meaning)	Hast du auf Tom gewartet?	क्या तुमने टॉम का इंतजार किया?

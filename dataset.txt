@@ -1,14 +1,4 @@
 
-Did you two have fun?	Hattet ihr beide Spaß?	क्या आप दोनों ने मज़ा लिया?
-Did you use my knife?	Hast du mein Messer benutzt?	क्या आपने मेरे चाकू का इस्तेमाल किया?
-Did you use my knife?	Haben Sie mein Messer benutzt?	क्या आपने मेरे चाकू का इस्तेमाल किया?
-Did you vote for Tom?	Hast du für Tom gestimmt?	क्या आपने टॉम को वोट दिया?
-Did you vote for Tom?	Haben Sie für Tom gestimmt?	क्या आपने टॉम को वोट दिया?
-Did you wait for Tom?	Hast du auf Tom gewartet?	क्या आपने टॉम का इंतजार किया?
-Did you wait for Tom?	Habe ihr auf Tom gewartet?	क्या आप टॉम का इंतजार कर रहे हैं?
-Did you wait for Tom?	Haben Sie auf Tom gewartet?	क्या आपने टॉम का इंतजार किया है?
-Didn't I tell you so?	Hatte ich es Ihnen nicht gesagt?	क्या मैंने आपको नहीं बताया?
-Didn't I tell you so?	Hatte ich es dir nicht gesagt?	क्या मैंने आपको नहीं बताया?
 Didn't that seem odd?	Kam dir das nicht merkwürdig vor?	क्या यह आपको अजीब नहीं लगता था?
 Didn't you hear that?	Haben Sie das nicht gehört?	क्या आपने ऐसा नहीं सुना?
 Didn't you know that?	Hast du das nicht gewusst?	क्या आपको नहीं पता था?
