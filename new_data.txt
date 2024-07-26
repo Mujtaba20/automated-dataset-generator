@@ -37085,3 +37085,13 @@ I am 30 years old now.	Ich bin jetzt 30 Jahre alt.	मैं अब 30 साल
 I am an honest person.	Ich bin eine ehrliche Person.	मैं एक ईमानदार इंसान हूँ।
 I am an office worker.	Ich bin ein Büroangestellter.	मैं एक कार्यालय कर्मचारी हूँ।
 I am blinking my eyes.	Ich blinke mit den Augen.	मैं अपनी आंखें झपका रहा हूँ।
+I am brushing my hair.	Ich bürste mein Haar.	मैं अपने बाल बना रहा हूँ।
+I am crazy about golf.	Ich bin verrückt nach Golf.	मुझे गोल्फ पर दीवानगी है।
+I am doing the dishes.	Ich spüle das Geschirr.	मैं बर्तन धो रहा हूँ।
+I am feeling nauseous.	Mir ist übel.	मुझे उल्टी आ रही है।
+I am friends with her.	Ich bin mit ihr befreundet.	मैं उसके साथ दोस्त हूँ।
+I am glad to help you.	Ich helfe Ihnen gerne.	मुझे आपकी मदद करके खुशी हो रही है।
+I am grateful to them.	Ich bin dankbar für sie.	मैं उनके लिए कृतज्ञ हूँ।
+I am harvesting wheat.	Ich ernte Weizen.	मैं गेंहूं काट रहा हूँ।
+I am heating the room.	Ich heize das Zimmer.	मैं कमरे को गर्म कर रहा हूँ।
+I am here on business.	Ich bin geschäftlich hier.	मैं यहाँ व्यापारिक कार्य के लिए हूँ।
