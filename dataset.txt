@@ -1,14 +1,4 @@
 
-Tom is their leader.	Tom ist ihr Anführer.	टॉम उसके नेता हैं।
-Tom is too trusting.	Tom ist zu vertrauensselig.	टॉम बहुत भरोसेमंद है।
-Tom is truly gifted.	Tom ist wirklich begabt.	टॉम वास्तव में प्रतिभाशाली है।
-Tom is unbelievable.	Tom ist unglaublich.	टॉम अविश्वसनीय है।
-Tom is very bashful.	Tom ist sehr schüchtern.	टॉम बहुत शर्मीला है।
-Tom is very careful.	Tom ist sehr vorsichtig.	टॉम बहुत सावधान है।
-Tom is very curious.	Tom ist sehr neugierig.	टॉम बहुत उत्सुक है।
-Tom is very excited.	Tom ist sehr aufgeregt.	टॉम बहुत उत्साहित है।
-Tom is very foolish.	Tom ist sehr töricht.	टॉम बहुत मूर्ख है।
-Tom is very helpful.	Tom ist sehr hilfsbereit.	टॉम बहुत मददगार है।
 Tom is very nervous.	Tom ist sehr nervös.	टॉम बहुत घबराया हुआ है।
 Tom is very patient.	Thomas ist sehr geduldig.	थॉमस बहुत धैर्यवान है।
 Tom is very popular.	Tom ist sehr beliebt.	टॉम बहुत लोकप्रिय है।

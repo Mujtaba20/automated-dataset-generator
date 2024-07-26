@@ -28969,3 +28969,13 @@ Tom is the greatest.	Tom ist der Größte.	टॉम सबसे महान �
 Tom is the murderer.	Tom ist der Mörder.	टॉम हत्यारा है।
 Tom is the new boss.	Tom ist der neue Chef.	टॉम नया बॉस है।
 Tom is the youngest.	Tom ist der Jüngste.	टॉम सबसे छोटा है।
+Tom is their leader.	Tom ist ihr Anführer.	टॉम उनके नेता है।
+Tom is too trusting.	Tom vertraut zu sehr.	टॉम बहुत भरोसेमंद है।
+Tom is truly gifted.	Tom ist wirklich begabt.	टॉम सचमुच प्रतिभाशाली है।
+Tom is unbelievable.	Tom ist unglaublich.	टॉम अविश्वसनीय है।
+Tom is very bashful.	Tom ist sehr schüchtern.	टॉम बहुत झिजक है।
+Tom is very careful.	Tom ist sehr vorsichtig.	टॉम बहुत सावधान है।
+Tom is very curious.	Tom ist sehr neugierig.	टॉम बहुत जिज्ञासु है।
+Tom is very excited.	Tom ist sehr aufgeregt.	टॉम बहुत उत्साहित है।
+Tom is very foolish.	Tom ist sehr dumm.	टॉम बहुत मूर्ख है।
+Tom is very helpful.	Tom ist sehr hilfreich.	टॉम बहुत सहायक है।
