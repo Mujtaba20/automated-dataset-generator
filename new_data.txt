@@ -41273,3 +41273,9 @@ What does Tom have on?	Was trägt Tom?	टॉम के पास क्या �
 What does Tom owe you?	Was schuldet Tom Ihnen?	टॉम तुमसे क्या कर्ज़ रखता है?
 What does it refer to?	Worauf bezieht es sich?	यह किस पर है?
 What does your dad do?	Was macht dein Vater?	तुम्हारे पिताजी क्या करते हैं?
+What does your son do?	Was macht der Sohn?	तुम्हारे बेटा क्या करता है?
+What doesn't Tom know?	Was weiß Tom nicht?	टॉम को क्या नहीं पता है?
+What else could it be?	Was könnte es noch sein?	यह क्या और हो सकता है?
+What else did Tom eat?	Was hat Tom noch gegessen?	टॉम ने क्या और खाया था?
+What else did Tom say?	Was hat Tom noch gesagt?	टॉम ने क्या और कहा?
+What else did you buy?	Was hast du sonst gekauft?	तुमने क्या और खरीदा?

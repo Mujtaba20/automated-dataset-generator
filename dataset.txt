@@ -1,14 +1,4 @@
 
-What does your son do?	Was macht dein Sohn?	आपका बेटा क्या कर रहा है?
-What does your son do?	Was macht Ihr Sohn?	आपका बेटा क्या करता है?
-What does your son do?	Was macht euer Sohn?	आपका बेटा क्या करता है?
-What doesn't Tom know?	Was weiß Tom nicht?	टॉम क्या नहीं जानता?
-What else could it be?	Was könnte es sonst noch sein?	यह और क्या हो सकता है?
-What else did Tom eat?	Was hat Tom sonst noch gegessen?	टॉम ने और क्या खाया?
-What else did Tom say?	Was hat Tom sonst noch gesagt?	और क्या कहा?
-What else did you buy?	Was hast du sonst noch gekauft?	आपने और क्या खरीदा?
-What else did you buy?	Was habt ihr sonst noch gekauft?	आपने और क्या खरीदा?
-What else did you buy?	Was haben Sie sonst noch gekauft?	आपने और क्या खरीदा?
 What else did you eat?	Was hast du sonst noch gegessen?	आपने और क्या खाया?
 What else did you say?	Was hast du sonst noch gesagt?	आपने और क्या कहा?
 What else did you see?	Was hast du sonst noch gesehen?	आपने और क्या देखा?
