@@ -1,14 +1,4 @@
 
-Is Tom getting better?	Verbessert sich Tom?	क्या टॉम में सुधार होता है?
-Is Tom going to be OK?	Wird Tom in Ordnung sein?	क्या टॉम ठीक होगा?
-Is Tom going with you?	Geht Tom mit dir?	क्या टॉम आपके साथ जाता है?
-Is Tom ready to leave?	Ist Tom bereit zu gehen?	क्या टॉम जाने के लिए तैयार है?
-Is Tom still sleeping?	Schläft Tom noch?	टॉम अभी भी सो रहा है?
-Is Tom still sleeping?	Ist Tom noch am Schlafen?	क्या टॉम अभी भी सो रहा है?
-Is Tom still swimming?	Schwimmt Tom noch?	टॉम अभी भी तैरता है?
-Is all this necessary?	Ist all das nötig?	क्या यह सब आवश्यक है?
-Is all this necessary?	Ist all das denn nötig?	क्या यह सब आवश्यक है?
-Is anyone else hungry?	Hat sonst noch jemand Hunger?	क्या कोई और भूखा है?
 Is anything happening?	Passiert irgendwas?	कुछ भी होता है?
 Is breakfast included?	Ist das Frühstück inbegriffen?	क्या इसमें नाश्ता शामिल है?
 Is everything OK here?	Ist hier alles in Ordnung?	क्या यहाँ सब ठीक है?

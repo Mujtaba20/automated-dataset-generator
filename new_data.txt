@@ -38394,3 +38394,11 @@ Is Tom a good swimmer?	Ist Tom ein guter Schwimmer?	क्या टॉम ए�
 Is Tom a good teacher?	Ist Tom ein guter Lehrer?	क्या टॉम एक अच्छे शिक्षक हैं?
 Is Tom busy right now?	Ist Tom gerade beschäftigt?	क्या टॉम अभी व्यस्त है?
 Is Tom coming with us?	Kommt Tom mit uns?	क्या टॉम हमारे साथ आ रहा है?
+Is Tom getting better?	Wird es Tom besser gehen?	क्या टॉम ठीक हो रहा है?
+Is Tom going to be OK?	Wird Tom in Ordnung sein?	क्या टॉम ठीक जा रहा है?
+Is Tom going with you?	Geht Tom mit dir?	क्या टॉम आपके साथ जा रहा है?
+Is Tom ready to leave?	Ist Tom bereit zu gehen?	क्या टॉम छोड़ने के लिए तैयार है?
+Is Tom still sleeping?	Schläft Tom noch?	क्या टॉम अभी भी सो रहा है?
+Is Tom still swimming?	Schwimmt Tom noch?	क्या टॉम अभी भी तैर रहा है?
+Is all this necessary?	Ist das alles notwendig?	क्या यह सब जरूरी है?
+Is anyone else hungry?	Ist noch jemand hungrig?	क्या किसी और को भूख लगी है?
