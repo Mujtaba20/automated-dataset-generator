@@ -1,15 +1,4 @@
 
-It's now fairly common.	Es ist jetzt ziemlich verbreitet.	यह अब काफी आम है।
-It's now time to leave.	Es ist jetzt Zeit zu gehen.	अब जाने का समय है।
-It's past your bedtime.	Es ist höchste Zeit, dass du ins Bett kommst!	यह उच्च समय है कि आप बिस्तर पर आते हैं!
-It's pouring down rain.	Es gießt in Strömen.	यह पानी।
-It's pretty cold today.	Heute ist es ziemlich kalt.	आज यह बहुत ठंडा है।
-It's raining very hard.	Es regnet in Strömen.	बारिश हो रही है।
-It's rather cold today.	Es ist ziemlich kalt heute.	आज बहुत ठंडा है।
-It's rather impressive.	Das ist ziemlich beeindruckend.	यह बहुत प्रभावशाली है।
-It's really cold today.	Heute ist es tierisch kalt.	आज यह पशु ठंडा है।
-It's really cold today.	Es ist wirklich kalt heute.	आज वास्तव में ठंडा है।
-It's really cold today.	Es ist heute wirklich kalt.	आज वास्तव में ठंडा है।
 It's really quite cold.	Es ist wirklich sehr kalt.	यह वास्तव में बहुत ठंडा है।
 It's relatively simple.	Das ist verhältnismäßig einfach.	यह अपेक्षाकृत सरल है।
 It's snowing in Boston.	In Boston schneit es.	बोस्टन में यह खर्राटे लेता है।
