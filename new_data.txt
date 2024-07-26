@@ -23035,3 +23035,11 @@ The room was empty.	Das Zimmer war leer.	कमरा खाली था।
 The room was quiet.	Das Zimmer war ruhig.	कमरा शांत था।
 The server is down.	Der Server ist ausgefallen.	सर्वर डाउन है।
 The ship is at sea.	Das Schiff ist auf See.	जहाज समुंदर में है।
+The shirts are dry.	Die Hemden sind trocken.	कमीज सूखी हैं।
+The signal was red.	Das Signal war rot.	सिग्नल लाल था।
+The sky brightened.	Der Himmel klarte auf.	आसमान साफ़ हो गया।
+The soldiers fired.	Die Soldaten schossen.	सैनिक गोली चला दी।
+The spider is dead.	Die Spinne ist tot.	मकड़ी मर गई है।
+The spoon is dirty.	Der Löffel ist schmutzig.	चमच गंदा है।
+The stamp came off.	Der Stempel fiel ab.	टिकट निकल गया।
+The stars came out.	Die Sterne kamen heraus.	तारे निकल आए।

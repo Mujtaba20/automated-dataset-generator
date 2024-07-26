@@ -1,14 +1,4 @@
 
-The shirts are dry.	Die Hemden sind trocken.	शर्ट सूखे हैं।
-The signal was red.	Das Signal war rot.	संकेत लाल था।
-The sky brightened.	Der Himmel hellte sich auf.	आकाश उज्ज्वल हो गया।
-The sky brightened.	Der Himmel lichtete sich.	आकाश साफ कर रहा था।
-The soldiers fired.	Die Soldaten feuerten.	सैनिकों ने गोलीबारी की।
-The spider is dead.	Die Spinne ist tot.	मकड़ी मर चुकी है।
-The spoon is dirty.	Der Löffel ist schmutzig.	चम्मच गंदा है।
-The stamp came off.	Die Briefmarke hat sich gelöst.	स्टैम्प ढीला हो गया है।
-The stamp came off.	Die Briefmarke löste sich.	स्टैम्प ढीला हो गया।
-The stars came out.	Die Sterne kamen hervor.	सितारे बाहर आए।
 The store's closed.	Der Laden ist geschlossen.	दुकान बंद है।
 The store's closed.	Der Laden hat zu.	दुकान है।
 The story was true.	Die Geschichte war wahr.	कहानी सच थी।
