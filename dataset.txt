@@ -1,16 +1,4 @@
 
-Tom looks very anxious.	Tom sieht sehr besorgt aus.	टॉम बहुत चिंतित लग रहा है।
-Tom looks very nervous.	Tom sieht sehr nervös aus.	टॉम बहुत घबराया हुआ दिखता है।
-Tom looks very pleased.	Tom sieht sehr zufrieden aus.	टॉम बहुत संतुष्ट दिखता है।
-Tom looks very serious.	Tom sieht sehr ernst aus.	टॉम बहुत गंभीर लग रहा है।
-Tom looks very unhappy.	Tom sieht wirklich unglücklich aus.	टॉम वास्तव में दुखी दिखता है।
-Tom looks very worried.	Tom sieht sehr besorgt aus.	टॉम बहुत चिंतित दिखता है।
-Tom lost all his money.	Tom hat sein ganzes Geld verloren.	टॉम ने अपना सारा पैसा खो दिया है।
-Tom lost all his teeth.	Tom hat seine ganzen Zähne verloren.	टॉम ने अपने सभी दांत खो दिए हैं।
-Tom lost consciousness.	Tom wurde ohnmächtig.	टॉम पास हो गया।
-Tom lost consciousness.	Tom fiel in Ohnmacht.	टॉम बेहोश हो गया।
-Tom lost consciousness.	Tom verlor das Bewusstsein.	टॉम ने चेतना खो दी।
-Tom lost consciousness.	Tom hat das Bewusstsein verloren.	टॉम ने चेतना खो दी है।
 Tom lost his house key.	Tom hat seinen Hausschlüssel verloren.	टॉम ने अपने घर की चाबी खो दी है।
 Tom lost his new watch.	Tom hat seine neue Uhr verloren.	टॉम ने अपनी नई घड़ी खो दी।
 Tom lost track of time.	Tom vergaß die Zeit.	टॉम समय भूल गया।
