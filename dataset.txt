@@ -1,14 +1,4 @@
 
-What's Tom drinking?	Was trinkt Tom da?	टॉम क्या पीता है?
-What's Tom given us?	Was hat Tom uns gegeben?	टॉम ने हमें क्या दिया?
-What's in here, Tom?	Was ist hier drin, Tom?	यहाँ क्या है, टॉम?
-What's in it for me?	Was ist da drin für mich?	मेरे लिए वहाँ क्या है?
-What's in it for us?	Was ist für uns drin?	हमारे लिए क्या है?
-What's in this stew?	Was ist in diesem Eintopf drin?	इस स्टू में क्या है?
-What's it look like?	Wie sieht es aus?	ये कैसा दिखाई देता है?
-What's it made from?	Woraus ist es hergestellt?	यह किस से बना है?
-What's it made from?	Woraus ist es gemacht?	यह किस चीज़ से बना है?
-What's lost is lost.	Verloren ist verloren.	खो गया है।
 What's mine's yours.	Was mein, ist dein.	मेरा क्या है तुम्हारा।
 What's new with you?	Was gibt es Neues bei dir?	तुम नया क्या कर रहे हो?
 What's on your iPod?	Was ist in deinem iPod?	आपके iPod में क्या है?

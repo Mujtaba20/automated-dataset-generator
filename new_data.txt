@@ -29831,3 +29831,12 @@ What'll you live on?	Wovon wirst du leben?	तुम किस पर जीव�
 What're you good at?	Was kannst du gut?	तुम क्या अच्छा कर सकते हो?
 What're you reading?	Was seid ihr am Lesen?	तुम क्या पढ़ रहे हो?
 What're you writing?	Was schreibst du?	तुम क्या लिख रहे हो?
+What's Tom drinking?	Was trinkt Tom?	टॉम क्या पी रहा है?
+What's Tom given us?	Was hat uns Tom gegeben?	हमें टॉम ने क्या दिया है?
+What's in here, Tom?	Was ist hier, Tom?	यहाँ क्या है, टॉम?
+What's in it for me?	Was habe ich davon?	मुझे इसमें क्या मिलेगा?
+What's in it for us?	Was haben wir davon?	हमें इसमें क्या मिलेगा?
+What's in this stew?	Was ist in diesem Eintopf?	इस स्टू में क्या है?
+What's it look like?	Wie sieht es aus?	यह कैसा दिखता है?
+What's it made from?	Woraus besteht es?	यह किससे बना है?
+What's lost is lost.	Was verloren ist, ist verloren.	जो खो गया है, वह खो गया है।
