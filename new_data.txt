@@ -39140,3 +39140,13 @@ She reads after lunch.	Sie liest nach dem Mittagessen.	वह दोपहर �
 She really likes cake.	Sie mag Kuchen wirklich gerne.	उसे केक सच में पसंद है।
 She refused his offer.	Sie hat sein Angebot zurückgewiesen.	उसने उसका प्रस्ताव खारिज किया।
 She returned to Japan.	Sie kehrte nach Japan zurück.	उसने जापान वापस आ गई।
+She screamed for help.	Sie schrie um Hilfe.	उसने मदद के लिए चिल्लाया।
+She seems to be happy.	Sie scheint glücklich zu sein.	उसे खुश लग रहा है।
+She seems to hate you.	Sie scheint dich zu hassen.	उसे तुमसे नफरत लगती है।
+She sings out of tune.	Sie singt falsch.	उसने सुर से बहार गाया।
+She speaks Portuguese.	Sie spricht Portugiesisch.	उसने पुर्तगाली बोली।
+She stayed at a hotel.	Sie blieb in einem Hotel.	उसने होटल में रुकाया।
+She stood on her head.	Sie stand auf dem Kopf.	उसने सिर पर खड़ी रही।
+She talked childishly.	Sie sprach kindisch.	उसने बच्चों की तरह बात की।
+She taught us singing.	Sie unterrichtete uns Singen.	उसने हमें गायन सिखाया।
+She teaches us French.	Sie unterrichtet uns Französisch.	वह हमें फ्रेंच सिखाती है।
