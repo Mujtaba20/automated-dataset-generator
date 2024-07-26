@@ -1,14 +1,4 @@
 
-Tom is extremely busy.	Tom ist äußerst beschäftigt.	टॉम बेहद व्यस्त है।
-Tom is extremely kind.	Tom ist sehr freundlich.	टॉम बहुत दोस्ताना है।
-Tom is extremely lazy.	Tom ist extrem faul.	टॉम बेहद आलसी है।
-Tom is extremely weak.	Tom ist überaus schwach.	टॉम बेहद कमजोर है।
-Tom is fair, isn't he?	Tom ist fair, nicht wahr?	टॉम निष्पक्ष है, है ना?
-Tom is far from happy.	Tom ist überhaupt nicht glücklich.	टॉम बिल्कुल भी खुश नहीं है।
-Tom is fast, isn't he?	Tom ist schnell, oder?	टॉम त्वरित है, है ना?
-Tom is finally asleep.	Tom ist endlich eingeschlafen.	टॉम आखिरकार सो गया है।
-Tom is following Mary.	Tom folgt Maria nach.	टॉम मारिया का अनुसरण करता है।
-Tom is following Mary.	Tom folgt Maria.	टॉम मारिया का अनुसरण करता है।
 Tom is friendly to me.	Tom ist freundlich zu mir.	टॉम मेरे अनुकूल है।
 Tom is from Australia.	Tom kommt aus Australien.	टॉम ऑस्ट्रेलिया से आता है।
 Tom is from this town.	Tom stammt aus dieser Stadt.	टॉम इस शहर से आता है।

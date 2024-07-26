@@ -40285,3 +40285,12 @@ Tom is easy to please.	Tom ist leicht zufriedenzustellen.	टॉम को ख�
 Tom is eating a peach.	Tom isst einen Pfirsich.	टॉम एक आड़ू खा रहा है।
 Tom is eating cookies.	Tom isst Kekse.	टॉम कुकीज़ खा रहा है।
 Tom is eating oysters.	Tom isst Austern.	टॉम संगमरमर खा रहा है।
+Tom is extremely busy.	Tom ist extrem beschäftigt.	टॉम अत्यधिक व्यस्त है।
+Tom is extremely kind.	Tom ist extrem freundlich.	टॉम बहुत अच्छे हैं।
+Tom is extremely lazy.	Tom ist extrem faul.	टॉम बहुत सुस्त है।
+Tom is extremely weak.	Tom ist extrem schwach.	टॉम अत्यंत कमजोर है।
+Tom is fair, isn't he?	Tom ist fair, oder?	टॉम न्यायसंगत है, ना?
+Tom is far from happy.	Tom ist weit von glücklich entfernt.	टॉम खुशी से दूर है।
+Tom is fast, isn't he?	Tom ist schnell, oder?	टॉम तेज है, ना?
+Tom is finally asleep.	Tom schläft endlich.	टॉम अंत में सो रहा है।
+Tom is following Mary.	Tom folgt Maria.	टॉम मेरी का पीछा कर रहा है।
