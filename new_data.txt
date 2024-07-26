@@ -28979,3 +28979,12 @@ Tom is very curious.	Tom ist sehr neugierig.	टॉम बहुत जिज्
 Tom is very excited.	Tom ist sehr aufgeregt.	टॉम बहुत उत्साहित है।
 Tom is very foolish.	Tom ist sehr dumm.	टॉम बहुत मूर्ख है।
 Tom is very helpful.	Tom ist sehr hilfreich.	टॉम बहुत सहायक है।
+Tom is very nervous.	Tom ist sehr nervös.	टॉम बहुत घबराया हुआ है।
+Tom is very patient.	Tom ist sehr geduldig.	टॉम बहुत धीरज़ वाला है।
+Tom is very popular.	Tom ist sehr beliebt.	टॉम बहुत प्रसिद्ध है।
+Tom is very private.	Tom ist sehr privat.	टॉम बहुत निजी है।
+Tom is very selfish.	Tom ist sehr egoistisch.	टॉम बहुत स्वार्थी है।
+Tom is very strange.	Tom ist sehr seltsam.	टॉम बहुत अजीब है।
+Tom is very thirsty.	Tom hat sehr Durst.	टॉम को बहुत प्यास लगी है।
+Tom is very thrifty.	Tom ist sehr sparsam.	टॉम बहुत किफ़ायती है।
+Tom is very unhappy.	Tom ist sehr unglücklich.	टॉम बहुत दुखी है।
