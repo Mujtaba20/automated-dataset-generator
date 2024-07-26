@@ -1,14 +1,4 @@
 
-Tom fought bravely.	Tom kämpfte wacker.	टॉम ने वेकर लड़े।
-Tom found evidence.	Tom hat Beweise gefunden.	टॉम को सबूत मिले हैं।
-Tom found me a job.	Tom hat eine Stelle für mich gefunden.	टॉम ने मेरे लिए नौकरी पाई है।
-Tom found your cap.	Tom hat deine Kappe gefunden.	टॉम ने आपकी टोपी पाई।
-Tom found your cap.	Tom hat deine Mütze gefunden.	टॉम ने आपकी टोपी पाई।
-Tom found your cap.	Tom hat Ihre Mütze gefunden.	टॉम ने उसकी टोपी पाई।
-Tom freed the bird.	Tom ließ den Vogel frei.	टॉम ने बर्ड रिलीज़ किया।
-Tom freed the bird.	Tom hat den Vogel freigelassen.	टॉम ने बर्ड रिलीज़ किया।
-Tom froze to death.	Tom ist erfroren.	टॉम जमे हुए है।
-Tom gave me a book.	Tom gab mir ein Buch.	टॉम ने मुझे एक किताब दी।
 Tom gave me a hint.	Tom gab mir einen Hinweis.	टॉम ने मुझे एक संकेत दिया।
 Tom gave me a wink.	Tom zwinkerte mir zu.	टॉम ने मुझ पर झपकी ली।
 Tom gave me advice.	Tom hat mich beraten.	टॉम ने मुझे सलाह दी।
