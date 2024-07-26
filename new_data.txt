@@ -26647,3 +26647,12 @@ I see you are awake.	Ich sehe, du bist wach.	मैं देख रहा ह�
 I see you are ready.	Ich sehe, du bist bereit.	मैं देख रहा हूँ कि तुम तैयार हो।
 I seldom drink beer.	Ich trinke selten Bier.	मैं शराब बहुत कम पीता हूँ।
 I sent you a letter.	Ich habe dir einen Brief geschickt.	मैंने तुम्हें एक पत्र भेजा है।
+I shower once a day.	Ich dusche einmal am Tag.	मैं एक दिन में एक बार नहाता हूँ।
+I simply don't know.	Ich weiß einfach nicht.	मुझे बस नहीं पता।
+I skipped breakfast.	Ich habe das Frühstück ausgelassen.	मैंने नाश्ता छोड़ दिया।
+I slapped Tom again.	Ich habe Tom wieder geschlagen.	मैंने फिर से टॉम को थप्पड़ मारा।
+I sleep standing up.	Ich schlafe stehend.	मैं खड़ा होकर सोता हूँ।
+I slept like a baby.	Ich habe geschlafen wie ein Baby.	मैं बच्चे की तरह सोया।
+I slept on the boat.	Ich habe auf dem Schiff geschlafen.	मैंने जहाज पर सोया।
+I solved the puzzle.	Ich habe das Rätsel gelöst.	मैंने पहेली का समाधान किया।
+I speak French, too.	Ich spreche auch Französisch.	मैं फ्रेंच भी बोलता हूँ।

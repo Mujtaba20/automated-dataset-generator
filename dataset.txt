@@ -1,14 +1,4 @@
 
-I shower once a day.	Ich dusche einmal täglich.	मैं दिन में एक बार स्नान करता हूं।
-I simply don't know.	Ich weiß es einfach nicht.	मुझे अभी तक पता नहीं है।
-I skipped breakfast.	Ich habe das Frühstück ausgelassen.	मैंने नाश्ता छोड़ दिया।
-I slapped Tom again.	Ich gab Tom noch eine Ohrfeige.	मैंने टॉम को चेहरे पर एक और थप्पड़ दिया।
-I sleep standing up.	Ich schlafe im Stehen.	मैं खड़े होकर सोता हूं।
-I slept like a baby.	Ich schlief wie ein Baby.	मैं एक बच्चे की तरह सोया था।
-I slept on the boat.	Ich schlief auf dem Schiff.	मैं जहाज पर सो गया।
-I slept on the boat.	Ich habe auf dem Boot geschlafen.	मैं नाव पर सो गया।
-I solved the puzzle.	Ich habe das Rätsel gelöst.	मैंने पहेली को हल किया।
-I speak French, too.	Ich spreche auch Französisch.	मैं भी फ्रेंच बोलता हूं।
 I stared at the man.	Ich starrte den Mann an.	मैं आदमी को घूरता रहा।
 I still can't dance.	Ich kann noch immer nicht tanzen.	मैं अभी भी नृत्य नहीं कर सकता।
 I strongly disagree.	Ich bin da völlig anderer Meinung.	मैं पूरी तरह से अलग हूं।
