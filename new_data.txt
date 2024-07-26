@@ -30087,3 +30087,9 @@ Will you go with us?	Wirst du mit uns gehen?	क्या तुम हमार
 Women don't like me.	Frauen mögen mich nicht.	महिलाएं मुझसे पसंद नहीं करतीं।
 Would Tom like that?	Würde Tom das mögen?	क्या Tom को यह पसंद होगा?
 Would you excuse me?	Würdest du mich entschuldigen?	क्या आप मुझे माफ कर देंगे?
+Would you like some?	Möchtest du etwas?	क्या आपको कुछ चाहिए?
+Would you like that?	Möchtest du das?	क्या तुम चाहंगे?
+Wow! What a big box!	Wow! Was für eine große Schachtel!	वाह! कितने बड़े डिब्बे हैं!
+Wow, it's hot today.	Wow, es ist heute heiß.	वाह, आज गरमी है।
+Would you like some? (Different Meaning)	Magst du ein paar?	क्या आप कुछ पसंद करेंगे?
+Would you like that? (Different Meaning)	Möchten Sie das haben?	क्या आप चाहेंगे?

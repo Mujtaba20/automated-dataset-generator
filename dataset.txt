@@ -1,14 +1,4 @@
 
-Would you like some?	Möchtest du einige?	तुम्हें कुछ चाहिए?
-Would you like some?	Möchten Sie einige?	क्या आप लेंगे?
-Would you like that?	Gefiele dir das?	क्या आपको वह पसंद है?
-Would you like that?	Gefiele Ihnen das?	क्या आपको वह पसंद है?
-Would you like that?	Würde euch das gefallen?	क्या तुम्हें वह पसन्द होगा?
-Wow! What a big box!	Meine Güte! Was für eine große Kiste!	हे भगवान!क्या बड़ा बॉक्स!
-Wow! What a big box!	Meine Güte! Was für ein großer Kasten!	हे भगवान!क्या बड़ा बॉक्स!
-Wow! What a big box!	Meine Güte! Was für ein großer Karton!	हे भगवान!क्या बड़ा बॉक्स!
-Wow! What a big box!	Potzdonner! Was ist das für ein großer Kasten!	Potzdonner!क्या बड़ा बॉक्स है!
-Wow, it's hot today.	Puh, ist das heiß heute!	Phew, यह आज गर्म है!
 Write a short essay.	Schreiben Sie einen kurzen Aufsatz.	एक छोटा निबंध लिखें।
 Yes, please do that.	Ja, bitte tu das!	हाँ, कृपया ऐसा करें!
 Yesterday I was ill.	Gestern war ich krank.	मैं कल बीमार था।
