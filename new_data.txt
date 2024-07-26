@@ -23282,3 +23282,8 @@ Those aren't tacos.	Das sind keine Tacos.	वो टाकोस नहीं �
 Those belong to me.	Das gehört mir.	वो मेरे हैं।
 Those colors clash.	Diese Farben stehen im Kontrast zueinander.	वो रंग टकराते हैं।
 Those dogs are big.	Diese Hunde sind groß.	वो कुत्ते बड़े हैं।
+Throw Tom the ball.	Wirf Tom den Ball.	टॉम को गेंद फेंको।
+Tie your shoelaces.	Binden Sie Ihre Schnürsenkel.	अपनी जूते की डोरी बांधो।
+Tighten the screws.	Zieh die Schrauben fest.	स्क्रू को ढीला न करें।
+Tighten this screw.	Ziehen Sie diese Schraube an.	इस स्क्रू को मजबूत करें।
+Tighten this screw.1	Diese Schraube festziehen.	इस स्क्रू को कसकर बंधे।

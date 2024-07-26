@@ -1,14 +1,4 @@
 
-Throw Tom the ball.	Wirf Tom den Ball zu!	टॉम को गेंद फेंक दो!
-Throw Tom the ball.	Wirf den Ball zu Tom!	टॉम को गेंद फेंक दो!
-Tie your shoelaces.	Binde deine Schnürsenkel.	अपने लेस को बांधें।
-Tie your shoelaces.	Binde deine Schuhe zu.	अपने जूते tind।
-Tighten the screws.	Zieh die Schrauben an.	शिकंजा पर रखो।
-Tighten the screws.	Zieht die Schrauben an.	शिकंजा पर रखो।
-Tighten the screws.	Ziehen Sie die Schrauben an.	शिकंजा पर रखो।
-Tighten this screw.	Ziehe diese Schraube an!	इस पेंच पर रखो!
-Tighten this screw.	Drehen Sie diese Schraube fest!	इस पेंच को कस कर!
-Tighten this screw.	Zieh diese Schraube an!	इस पेंच को कस लें!
 Times have changed.	Die Zeiten haben sich geändert.	समय बदल गया है।
 Today is a holiday.	Heute ist ein Feiertag.	आज छुट्टी है।
 Today is a hot day.	Heute ist ein heißer Tag.	आज गर्मी है।
