@@ -35876,3 +35876,12 @@ You should read more.	Du solltest mehr lesen.	तुम्हें अधिक
 You should read this.	Du solltest das lesen.	तुम्हें यह पढ़ना चाहिए।
 You should stop that.	Du solltest das stoppen.	तुम्हें उसे रोकना चाहिए।
 You should try it on.	Du solltest es anprobieren.	तुम्हें इसे पहनकर देखना चाहिए।
+You should win today.	Du solltest heute gewinnen.	तुम्हें आज जीतना चाहिए।
+You should work hard.	Du solltest hart arbeiten.	तुम्हें मेहनत करनी चाहिए।
+You should work hard. (Different Meaning)	Du solltest dich anstrengen.	तुम्हें मेहनत करनी चाहिए।
+You should've called.	Du hättest anrufen sollen.	तुम्हें फ़ोन करना चाहिए था।
+You should've phoned.	Du hättest telefonieren sollen.	तुम्हें फ़ोन कर लेना चाहिए था।
+You shouldn't go out.	Du solltest nicht ausgehen.	तुम्हें बाहर नहीं जाना चाहिए।
+You sound very young.	Du klingst sehr jung.	तुम बहुत जवान लग रहे हो।
+You still owe me one.	Du schuldest mir immer noch eine.	तुम मुझसे अभी भी एक मांगते हो।
+You sure sleep a lot.	Du schläfst sicher viel.	तुम बहुत सोते हो।
