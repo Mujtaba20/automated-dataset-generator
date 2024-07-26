@@ -36374,3 +36374,9 @@ Do you have toothache?	Hast du Zahnschmerzen?	क्या आपको दा�
 Do you have tuna fish?	Haben Sie Thunfisch?	क्या आपके पास टूना मछली है?
 Do you have two books?	Hast du zwei Bücher?	क्या आपके पास दो किताबें हैं?
 Do you hear something?	Hörst du etwas?	क्या आप कुछ सुन रहे हैं?
+Do you know my father?	Kennen Sie meinen Vater?	क्या आप मेरे पिताजी को जानते हैं?
+Do you know that girl?	Kennen Sie dieses Mädchen?	क्या आप उस लड़की को जानते हैं?
+Do you know this song?	Kennen Sie dieses Lied?	क्या आप इस गाने को जानते हैं?
+Do you know who he is?	Wissen Sie, wer er ist?	क्या आप जानते हैं वह कौन है?
+Do you know your size?	Kennen Sie Ihre Größe?	क्या आप अपनी साइज जानते हैं?
+Do you like bean soup?	Mögen Sie Bohnensuppe?	क्या आप राजमा सूप पसंद करते हैं?

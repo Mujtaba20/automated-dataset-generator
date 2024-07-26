@@ -1,14 +1,4 @@
 
-Do you know my father?	Kennst du meinen Vater?	क्या आप मेरे पिता को जानते हैं?
-Do you know my father?	Kennt ihr meinen Vater?	क्या आप मेरे पिता को जानते हैं?
-Do you know my father?	Kennen Sie meinen Vater?	क्या आप मेरे पिता को जानते हैं?
-Do you know that girl?	Kennst du dieses Mädchen?	क्या तुम इस लड़की को जानते हो?
-Do you know this song?	Kennst du das Lied?	क्या आप उस गीत को जानते हैं?
-Do you know this song?	Kennst du dieses Lied?	क्या तुम्हें यह गीत मालूम है?
-Do you know who he is?	Weißt du, wer sie ist?	क्या आप जानते है कि वह कौन है?
-Do you know your size?	Kennen Sie Ihre Größe?	क्या आप अपने आकार को जानते हैं?
-Do you know your size?	Kennen Sie Ihre Konfektionsgröße?	क्या आप अपने कपड़ों का आकार जानते हैं?
-Do you like bean soup?	Magst du Bohnensuppe?	क्या आपको बीन सूप पसंद है?
 Do you like dinosaurs?	Magst du Dinosaurier?	क्या आपको डायनासोर पसंद हैं?
 Do you like dinosaurs?	Mögt ihr Dinosaurier?	क्या आपको डायनासोर पसंद हैं?
 Do you like dinosaurs?	Mögen Sie Dinosaurier?	क्या आपको डायनासोर पसंद हैं?
