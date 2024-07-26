@@ -38822,3 +38822,13 @@ May I turn off the TV?	Darf ich den Fernseher ausschalten?	क्या मै�
 May I use your toilet?	Darf ich deine Toilette benutzen?	क्या मैं आपके शौचालय का उपयोग कर सकता हूँ?
 May comes after April.	Mai kommt nach April.	मई अप्रैल के बाद आता है।
 Maybe I need a lawyer.	Vielleicht brauche ich einen Anwalt.	शायद मुझे वकील की जरुरत है।
+Maybe I threw it away.	Vielleicht habe ich es weggeworfen.	शायद मैंने इसे फेंक दिया।
+Maybe Tom kissed Mary.	Vielleicht hat Tom Mary geküsst.	शायद टॉम ने मैरी को चुम्बन दिया।
+Maybe Tom will say no.	Vielleicht wird Tom nein sagen.	शायद टॉम कहेगा नहीं।
+Maybe it can be fixed.	Vielleicht kann es repariert werden.	शायद यह ठीक हो सकता है।
+Maybe some other time.	Vielleicht ein anderes Mal.	शायद किसी दूसरी बार।
+Maybe they're friends.	Vielleicht sind sie Freunde.	शायद वे दोस्त हैं।
+Maybe we can help Tom.	Vielleicht können wir Tom helfen.	शायद हम टॉम की मदद कर सकते हैं।
+Might I ask your name?	Darf ich nach Ihrem Namen fragen?	क्या मैं आपसे आपका नाम पूछ सकता हूँ?
+Mom didn't mention it.	Mama hat es nicht erwähnt.	माँ ने इसे नहीं कहा।
+Mom is older than Dad.	Mama ist älter als Papa.	माँ पिताजी से अधिक वृद्ध है।
