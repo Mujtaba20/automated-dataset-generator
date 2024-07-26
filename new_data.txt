@@ -22276,3 +22276,11 @@ It was quite funny.	Es war ziemlich lustig.	यह काफी हँसी ह
 It was really cold.	Es war wirklich kalt.	यह सच में ठंडा था।
 It was really good.	Es war wirklich gut.	यह सच में अच्छा था।
 It was really dark.	Es war wirklich dunkel.	यह सच में अंधेरा था।
+It was really nice.	Es war wirklich schön.	यह वास्तव में अच्छा था।
+It was still there.	Es war immer noch da.	वह अब भी वही था।
+It was that simple.	Es war so einfach.	यह उतना ही सरल था।
+It was their fault.	Es war ihre Schuld.	उनकी गलती थी।
+It was unavoidable.	Es war unvermeidbar.	इससे बचा नहीं जा सकता था।
+It was very simple.	Es war sehr einfach.	यह बहुत सरल था।
+It was very stuffy.	Es war sehr stickig.	यह बहुत घाना था।
+It was worth a try.	Es war einen Versuch wert.	एक प्रयास के लायक था।
