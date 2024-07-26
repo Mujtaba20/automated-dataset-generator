@@ -33571,3 +33571,4 @@ That's a wise choice.	Das ist eine kluge Wahl.	वह एक बुद्धि�
 That's a woman's job.	Das ist eine Frauenarbeit.	वह महिला का काम है।
 That's all Tom wants.	Das ist alles, was Tom will.	तोम की चाहत पूरी हो जाती है।
 That's all for today.	Das war alles für heute.	आज के लिए बस इतना ही था।
+engSentence	Das ist für die Vögel.	यह पक्षियों के लिए है।
