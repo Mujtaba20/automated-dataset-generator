@@ -32429,3 +32429,11 @@ I'm a natural blonde.	Ich bin eine natürliche Blondine.	मैं एक प्
 I'm a police officer.	Ich bin Polizist.	मैं पुलिस अधिकारी हूँ।
 I'm a private person.	Ich bin ein privat Person.	मैं एक निजी व्यक्ति हूँ।
 I'm a teacher myself.	Ich bin selbst Lehrer.	मैं खुद एक शिक्षक हूँ।
+I'm afraid of flying.	Ich habe Flugangst.	मुझे उड़ान से डर लगता है।
+I'm against the bill.	Ich bin gegen den Gesetzentwurf.	मैं बिल के खिलाफ हूँ।
+I'm all out of money.	Ich bin pleite.	मेरे पास पैसे नहीं हैं।
+I'm allergic to cats.	Ich bin allergisch gegen Katzen.	मुझे बिल्ली की एलर्जी है।
+I'm allergic to corn.	Ich bin allergisch gegen Mais.	मुझे मक्का की एलर्जी है।
+I'm allergic to dogs.	Ich bin allergisch gegen Hunde.	मुझे कुत्तों की एलर्जी है।
+I'm allergic to dust.	Ich bin allergisch gegen Staub.	मुझे धूल से एलर्जी है।
+I'm allergic to fish.	Ich bin allergisch gegen Fisch.	मुझे मछली की एलर्जी है।

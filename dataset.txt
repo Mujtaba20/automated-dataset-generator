@@ -1,15 +1,4 @@
 
-I'm afraid of flying.	Ich habe Flugangst.	मुझे उड़ने का डर है।
-I'm against the bill.	Ich bin gegen den Gesetzesentwurf.	मैं मसौदा कानून के खिलाफ हूं।
-I'm all out of money.	Ich habe überhaupt kein Geld mehr.	मेरे पास कोई और पैसा नहीं है।
-I'm allergic to cats.	Ich habe eine Katzenallergie.	मुझे बिल्ली की एलर्जी है।
-I'm allergic to cats.	Ich bin gegen Katzen allergisch.	मुझे बिल्लियों से एलर्जी है।
-I'm allergic to corn.	Ich habe eine Maisallergie.	मुझे मकई की एलर्जी है।
-I'm allergic to corn.	Ich bin allergisch gegen Mais.	मुझे मकई से एलर्जी है।
-I'm allergic to dogs.	Ich habe eine Hundeallergie.	मुझे एक कुत्ता एलर्जी है।
-I'm allergic to dust.	Ich habe eine Stauballergie.	मुझे डस्ट एलर्जी है।
-I'm allergic to fish.	Ich bin allergisch gegen Fisch.	मुझे मछली से एलर्जी है।
-I'm allergic to fish.	Ich bin gegen Fisch allergisch.	मुझे मछली से एलर्जी है।
 I'm almost done here.	Ich bin hier fast fertig.	मैं लगभग यहाँ समाप्त हो गया हूँ।
 I'm already a father.	Ich bin schon Vater.	मैं पहले से ही एक पिता हूं।
 I'm already a father.	Ich bin bereits Vater.	मैं पहले से ही एक पिता हूं।
