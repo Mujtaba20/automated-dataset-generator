@@ -37363,3 +37363,12 @@ I don't want to study.	Ich möchte nicht studieren.	मुझे पढ़ाई
 I don't want you here.	Ich möchte dich nicht hier haben.	मैं चाहता नहीं कि तुम यहाँ हो।
 I don't watch much TV.	Ich schaue nicht viel fern.	मैं ज्यादा टीवी नहीं देखता।
 I don't write letters.	Ich schreibe keine Briefe.	मैं पत्र नहीं लिखता।
+I doubt Tom will come.	Ich bezweifle, dass Tom kommen wird.	मुझे यकीन नहीं है कि टॉम आएगा।
+I drank tea yesterday.	Ich trank gestern Tee.	मैंने कल चाय पी थी।
+I drive a convertible.	Ich fahre ein Cabrio.	मैं एक कनवर्टिबल चलाता हूँ।
+I dropped my sandwich.	Ich ließ mein Sandwich fallen.	मैंने अपना सैंडविच गिरा दिया।
+I drove Tom to school.	Ich fuhr Tom zur Schule.	मैंने टॉम को स्कूल छोड़ा।
+I eat fish every week.	Ich esse jede Woche Fisch.	मैं हर हफ्ते मछली खाता हूँ।
+I enjoy playing chess.	Ich spiele gerne Schach.	मुझे शतरंज खेलना अच्छा लगता है।
+I enjoy reading books.	Ich genieße es, Bücher zu lesen.	मुझे किताबें पढ़ना पसंद है।
+I even made Tom laugh.	Ich brachte sogar Tom zum Lachen.	मैंने टॉम को भी हंसाया।
