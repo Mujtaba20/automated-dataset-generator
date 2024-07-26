@@ -34738,3 +34738,13 @@ Tom never stays long.	Tom bleibt nie lange.	टॉम कभी लंबे स
 Tom never was greedy.	Tom war nie gierig.	टॉम कभी लालची नहीं था।
 Tom never was skinny.	Tom war nie dünn.	टॉम कभी पतला नहीं था।
 Tom never was strong.	Tom war nie stark.	टॉम कभी मजबूत नहीं था।
+Tom never was stupid.	Tom war nie dumm.	टॉम कभी मूर्ख नहीं था।
+Tom never wears pink.	Tom trägt nie Rosa.	टॉम कभी गुलाबी नहीं पहनता।
+Tom nodded nervously.	Tom nickte nervös.	टॉम घबराकर सिर हिलाया।
+Tom offered me a job.	Tom bot mir einen Job an.	टॉम ने मुझे नौकरी की पेशकश की।
+Tom often comes late.	Tom kommt oft spät.	टॉम अक्सर देर से आता है।
+Tom often goes there.	Tom geht oft dorthin.	टॉम वहाँ अक्सर जाता है।
+Tom often goes there. - Different Meaning	Tom geht oft dahin.	टॉम वहाँ अक्सर जाता है।
+Tom often helps Mary.	Tom hilft Mary oft.	टॉम अक्सर मेरी की मदद करता है।
+Tom only has one arm.	Tom hat nur einen Arm.	टॉम के पास सिर्फ एक हाथ है।
+Tom opened his mouth.	Tom öffnete den Mund.	टॉम ने मुह खोल दिया।
