@@ -27710,3 +27710,6 @@ No, I don't want to.	Nein, ich will nicht.	नहीं, मुझे नही�
 No, that's not true.	Nein, das ist nicht wahr.	नहीं, यह सच नहीं है।
 Nobody answered Tom.	Niemand hat Tom geantwortet.	कोई ने टॉम का जवाब नहीं दिया।
 Nobody believed you.	Niemand hat dir geglaubt.	कोई ने तुम्हें नहीं माना।
+Nobody believes you.	Niemand hält dich für glaubwürdig.	कोई भी तुम्हे विश्वास नहीं करता।
+Nobody bowed to him.	Niemand verneigte sich vor ihm.	किसी ने उससे नमaskar नहि diya।
+Nobody can help you.	Niemand ist in der Lage dir zu helfen.	कोई भी तुम्हारी मदद नहीं कर सकता।

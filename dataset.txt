@@ -1,17 +1,4 @@
 
-Nobody believes you.	Niemand glaubt dir.	कोई भी आप पर विश्वास नहीं करता है।
-Nobody believes you.	Niemand glaubt euch.	कोई भी आप पर विश्वास नहीं करता है।
-Nobody believes you.	Niemand glaubt Ihnen.	कोई भी उन पर विश्वास नहीं करता है।
-Nobody believes you.	Keiner glaubt dir.	कोई भी आप पर विश्वास नहीं करता है।
-Nobody believes you.	Keiner glaubt euch.	कोई भी आप पर विश्वास नहीं करता है।
-Nobody believes you.	Keiner glaubt Ihnen.	कोई भी उन पर विश्वास नहीं करता है।
-Nobody bowed to him.	Niemand verneigte sich vor ihm.	उसके सामने कोई भी नहीं झुक गया।
-Nobody can help you.	Keiner kann dir helfen.	कोई भी आपकी मदद नहीं कर सकता।
-Nobody can help you.	Keiner kann Ihnen helfen.	कोई भी उनकी सहायता नहीं कर सकता है।
-Nobody can help you.	Keiner kann euch helfen.	कोई भी आपकी मदद नहीं कर सकता।
-Nobody can help you.	Niemand kann dir helfen.	कोई भी आपकी मदद नहीं कर सकता।
-Nobody can help you.	Niemand kann Ihnen helfen.	कोई भी उनकी सहायता नहीं कर सकता है।
-Nobody can help you.	Niemand kann euch helfen.	कोई भी आपकी मदद नहीं कर सकता।
 Nobody can love him.	Niemand kann ihn lieben.	कोई भी उसे प्यार नहीं कर सकता।
 Nobody can stop Tom.	Niemand kann Tom aufhalten.	कोई भी टॉम को रोक नहीं सकता।
 Nobody cares for me.	Niemand kümmert sich um mich.	कोई भी मेरी देखभाल नहीं करता है।
