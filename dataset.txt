@@ -1,16 +1,4 @@
 
-Have you seen the news?	Habt ihr die Nachrichten gesehen?	क्या आपने खबर देखी?
-Have you seen the news?	Hast du die Nachrichten gesehen?	क्या आपने खबर देखी?
-Have you seen the news?	Haben Sie die Nachrichten gesehen?	क्या आपने खबर देखी?
-Have you seen this man?	Haben Sie diesen Mann gesehen?	क्या तुमने इस आदमी को देखा?
-Have you seen this man?	Hast du diesen Mann gesehen?	क्या तुमने इस आदमी को देखा?
-Have you seen this man?	Habt ihr diesen Mann gesehen?	क्या तुमने इस आदमी को देखा?
-Have you set the table?	Hast du den Tisch gedeckt?	क्या आपने टेबल को कवर किया?
-Have you set the table?	Habt ihr den Tisch gedeckt?	क्या आपने टेबल को कवर किया?
-Have you set the table?	Haben Sie den Tisch gedeckt?	क्या आपने टेबल को कवर किया?
-Have you spoken to Tom?	Hast du mit Tom geredet?	क्या आपने टॉम से बात की?
-Have you spoken to Tom?	Haben Sie mit Tom geredet?	क्या आपने टॉम से बात की?
-Have you spoken to Tom?	Habt ihr mit Tom geredet?	क्या आपने टॉम से बात की?
 Have you told your mom?	Hast du das deiner Mutter gesagt?	क्या आपने अपनी माँ को बताया?
 He accepted my present.	Er akzeptierte mein Geschenk.	उसने मेरा उपहार स्वीकार कर लिया।
 He accepted my present.	Er nahm mein Geschenk an.	उसने मेरा उपहार स्वीकार कर लिया।
