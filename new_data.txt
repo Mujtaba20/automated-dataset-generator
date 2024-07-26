@@ -33275,3 +33275,9 @@ Please open your bag.	Bitte öffnen Sie Ihre Tasche.	कृपया अपन�
 Please remain seated.	Bitte bleiben Sie sitzen.	कृपया बैठे रहें।
 Please say something.	Bitte sagen Sie etwas.	कृपया कुछ कहें।
 Please wait outside.	Bitte warten Sie draußen.	कृपया बाहर इंतजार करें।
+Please set the table.	Bitte den Tisch decken.	कृपया मेज सेट करें।
+Please shut the door.	Bitte die Tür schließen.	कृपया दरवाजा बंद करें।
+Please spare my life.	Bitte verschone mein Leben.	मेरी जिंदगी बख्श दें।
+Please speak English.	Bitte sprechen Sie Englisch.	कृपया अंग्रेज़ी बोलें।
+Please stop laughing.	Bitte hör auf zu lachen.	कृपया हंसना बंद करो।
+Please shut the door. (Different meaning)	Bitte die Tür zuknallen.	कृपया दरवाज़ा ज़ोर से बंद करें।

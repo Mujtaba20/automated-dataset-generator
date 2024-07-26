@@ -1,15 +1,4 @@
 
-Please set the table.	Bitte decke den Tisch.	कृपया तालिका को कवर करें।
-Please shut the door.	Mach bitte die Tür zu.	कृपया दरवाज़ा बंद करें।
-Please shut the door.	Schließe bitte die Tür!	कृपया दरवाज़ा बंद करें!
-Please shut the door.	Schließen Sie bitte die Tür!	कृपया दरवाज़ा बंद करें!
-Please shut the door.	Mach bitte die Tür zu!	कृपया दरवाज़ा बंद करें!
-Please spare my life.	Bitte verschone mich!	कृपया मुझे छोड़ दें!
-Please speak English.	Bitte sprich Englisch.	कृपया अंग्रेजी में बात करें.
-Please speak English.	Bitte sprechen Sie Englisch.	कृपया अंग्रेजी में बात करें.
-Please stop laughing.	Bitte hör auf zu lachen.	कृपया हंसना बंद करो।
-Please stop laughing.	Hört bitte auf zu lachen.	कृपया हंसना बंद करो।
-Please stop laughing.	Hören Sie auf zu lachen, bitte.	हंसना बंद करो, कृपया।
 Please telephone him.	Bitte ruf ihn an.	कृपया उसे फोन करें।
 Please telephone him.	Bitte ruft ihn an.	कृपया उसे फोन करें।
 Please telephone him.	Bitte rufen Sie ihn an.	कृपया उसे फोन करें।
