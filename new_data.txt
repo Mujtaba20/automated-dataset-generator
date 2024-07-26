@@ -22395,3 +22395,8 @@ It's very exciting.	Es ist sehr aufregend.	यह बहुत रोमां�
 It's very hot here.	Es ist hier sehr heiß.	यहाँ बहुत गर्मी है।
 It's way too heavy.	Es ist viel zu schwer.	यह बहुत वजनदायक है।
 It's well worth it.	Es ist das Geld wert.	इसमें लागत वास्तव में है।
+It's your decision.	Es liegt an dir.	यह तुम्हारी मर्ज़ी है।
+Italy is in Europe.	Italien ist in Europa.	इटली यूरोप में है।
+Italy isn't Greece.	Italien ist nicht Griechenland.	इटली ग्रीस नहीं है।
+Jam comes in a jar.	Marmelade kommt in einem Glas.	जाम एक जार में आता है।
+Judge for yourself.	Urteile selbst.	खुद ही निर्णय करें।

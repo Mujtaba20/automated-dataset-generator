@@ -1,14 +1,4 @@
 
-It's your decision.	Es ist deine Entscheidung.	यह तुम्हारा निर्णय है।
-It's your decision.	Es ist eure Entscheidung.	यह आपका निर्णय है।
-It's your decision.	Es ist Ihre Entscheidung.	यह आपका निर्णय है।
-Italy is in Europe.	Italien ist in Europa.	इटली यूरोप में है।
-Italy is in Europe.	Italien liegt in Europa.	इटली यूरोप में स्थित है।
-Italy isn't Greece.	Italien ist nicht Griechenland.	इटली ग्रीस नहीं है।
-Jam comes in a jar.	Marmelade gibt es im Glas.	कांच में जाम हैं।
-Jam comes in a jar.	Konfitüre gibt es im Glas.	कांच में एक जाम है।
-Judge for yourself.	Urteile selbst!	खुद का निर्णय!
-Judge for yourself.	Mache dir selbst ein Bild!	खुद एक तस्वीर लें!
 Just do what I say.	Tu einfach, was ich sage!	बस मैं क्या कहता हूँ!
 Just don't drop it.	Lass es bloß nicht fallen!	बस इसे मत छोड़ो!
 Just don't drop it.	Lassen Sie es bloß nicht fallen!	बस इसे मत छोड़ो!
