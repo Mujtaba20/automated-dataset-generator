@@ -1,15 +1,4 @@
 
-I'll do as you advise.	Ich will tun, was du mir rätst.	मैं वही करना चाहता हूं जो आप मुझे सलाह देते हैं।
-I'll do as you advise.	Ich will tun, was Sie mir raten.	मैं वही करना चाहता हूं जो आप मुझे सलाह देते हैं।
-I'll do as you advise.	Ich will tun, was ihr mir ratet.	मैं वही करना चाहता हूं जो आप मुझे सलाह देते हैं।
-I'll do it my own way.	Ich mache es, wie ich es für gut finde.	मैं ऐसा करता हूं क्योंकि मुझे लगता है कि यह अच्छा है।
-I'll do that for sure.	Das mache ich auf jeden Fall.	मैं किसी भी परिस्थिति में ऐसा करूंगा।
-I'll do what Tom says.	Ich werde tun, was Tom sagt.	मैं वही करूंगा जो टॉम कहता है।
-I'll do what you want.	Ich werde tun, was du willst.	मैं वोही करूंगा जो तुम चाहते हो।
-I'll find another job.	Ich werde eine andere Anstellung finden.	मुझे एक अलग नौकरी मिलेगी।
-I'll find out for you.	Ich werde es für dich herausbekommen.	मैं इसे आपके लिए बाहर निकाल दूंगा।
-I'll find out for you.	Ich werde es für Sie herausbekommen.	मैं इसे आपके लिए बाहर निकालूंगा।
-I'll find out for you.	Ich werde es für euch herausbekommen.	मैं इसे आपके लिए बाहर निकालूंगा।
 I'll get some glasses.	Ich hole Gläser.	मुझे चश्मा मिलता है।
 I'll get some glasses.	Ich hole ein paar Gläser.	मुझे कुछ गिलास मिलते हैं।
 I'll get that for you.	Ich werde das für dich holen.	मैं तुम्हारे लिए मिल जाएगा।
