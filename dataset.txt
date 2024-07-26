@@ -1,14 +1,4 @@
 
-Tom will come soon.	Tom wird bald kommen.	टॉम जल्द ही आ जाएगा।
-Tom will cooperate.	Tom wird kooperieren.	टॉम सहयोग करेंगे।
-Tom will find Mary.	Tom wird Mary finden.	टॉम को मैरी मिल जाएगी।
-Tom will like that.	Tom wird das gefallen.	टॉम को वह पसंद आएगा।
-Tom will like this.	Tom wird das mögen.	टॉम को वह पसंद आएगा।
-Tom will need help.	Tom wird Hilfe brauchen.	टॉम को मदद की आवश्यकता होगी।
-Tom will never win.	Tom wird nie gewinnen.	टॉम कभी नहीं जीतेंगे।
-Tom will not do it.	Tom wird das nicht tun.	टॉम ऐसा नहीं करेगा।
-Tom will use force.	Tom wird Gewalt anwenden.	टॉम हिंसा लागू करेगा।
-Tom will work hard.	Tom wird hart arbeiten.	टॉम कड़ी मेहनत करेगा।
 Tom winked at Mary.	Tom hat Maria zugezwinkert.	टॉम ने मारिया पर विंक किया।
 Tom winked at Mary.	Tom zwinkerte Maria zu.	टॉम ने मारिया को भी विंक किया।
 Tom won a free car.	Tom hat ein kostenloses Auto gewonnen.	टॉम ने एक मुफ्त कार जीती है।

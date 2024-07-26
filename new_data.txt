@@ -24146,3 +24146,13 @@ Tom will be bummed.	Tom wird enttäuscht sein.	टॉम निराश हो�
 Tom will be missed.	Tom wird vermisst werden.	टॉम की याद आएगी।
 Tom will call back.	Tom ruft zurück.	टॉम वापस कॉल करेगा।
 Tom will come back.	Tom wird zurückkommen.	टॉम वापस आएगा।
+Tom will come soon.	Tom wird bald kommen.	टॉम जल्दी आएगा।
+Tom will cooperate.	Tom wird kooperieren.	टॉम सहयोग करेगा।
+Tom will find Mary.	Tom wird Mary finden.	टॉम मेरी को खोजेगा।
+Tom will like that.	Tom wird das mögen.	टॉम उसे पसंद करेगा।
+Tom will like this.	Tom wird das mögen.	टॉम यह पसंद करेगा।
+Tom will need help.	Tom wird Hilfe brauchen.	टॉम को मदद की आवश्यकता होगी।
+Tom will never win.	Tom wird nie gewinnen.	टॉम कभी नहीं जीतेगा।
+Tom will not do it.	Tom wird es nicht tun.	टॉम ऐसा नहीं करेगा।
+Tom will use force.	Tom wird Gewalt anwenden.	टॉम बल का उपयोग करेगा।
+Tom will work hard.	Tom wird hart arbeiten.	टॉम मेहनत करेगा।
