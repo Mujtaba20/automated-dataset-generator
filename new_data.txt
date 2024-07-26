@@ -35390,3 +35390,11 @@ What do you remember?	Was erinnerst du dich?	तुम्हें क्या 
 What do you see here?	Was siehst du hier?	तुम यहाँ क्या देख रहे हो?
 What do you want now?	Was möchtest du jetzt?	तुम अब क्या चाहते हो?
 What does Tom do now?	Was macht Tom jetzt?	टॉम अब क्या करता है?
+What does Tom expect?	Was erwartet Tom?	टॉम क्या उम्मीद कर रहा है?
+What does a wolf eat?	Was frisst ein Wolf?	एक भेड़िया क्या खाता है?
+What does it contain?	Was enthält es?	यह क्या सम्मिलित करता है?
+What does it involve?	Was beinhaltet es?	इसमें क्या शामिल है?
+What else can you do?	Was kannst du sonst noch tun?	तुम और क्या कर सकते हो?
+What else do we have?	Was haben wir sonst noch?	हमारे पास और क्या है?
+What floor are we on?	Auf welcher Etage sind wir?	हम किस मंजिल पर हैं?
+What goes on in here?	Was passiert hier?	यहाँ क्या होता है?

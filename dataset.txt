@@ -1,14 +1,4 @@
 
-What does Tom expect?	Was erwartet sich Tom?	टॉम क्या उम्मीद करता है?
-What does a wolf eat?	Was frisst ein Wolf?	एक भेड़िया क्या खाता है?
-What does it contain?	Was ist da drin?	वहाँ क्या है?
-What does it involve?	Was bringt das mit sich?	इसके साथ क्या लाता है?
-What else can you do?	Was kannst du sonst noch?	आप और क्या कर सकते हैं?
-What else can you do?	Was können Sie sonst noch?	आप और क्या कर सकते हैं?
-What else can you do?	Was könnt ihr sonst noch?	आप और क्या कर सकते हैं?
-What else do we have?	Was haben wir sonst noch?	हमारे पास और क्या है?
-What floor are we on?	In welcher Etage sind wir?	हम किस मंजिल पर हैं?
-What goes on in here?	Was geht hier vor?	यहाँ क्या चल रहा है?
 What happened to Tom?	Was ist Tom passiert?	टॉम को क्या हुआ?
 What happened to Tom?	Was ist mit Tom passiert?	टॉम को क्या हुआ?
 What happened to Tom?	Was ist Tom zugestoßen?	टॉम को क्या हुआ?
