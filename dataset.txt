@@ -1,14 +1,4 @@
 
-I am off duty today.	Heute habe ich arbeitsfrei.	आज मेरे पास काम है।
-I am often mistaken.	Ich irre mich oft.	मैं अक्सर गलत हूं।
-I am older than him.	Ich bin älter als er.	मैं उससे बड़ी हूँ।
-I am peeling apples.	Ich schäle Äpfel.	मैं सेब छीलता हूं।
-I am picking apples.	Ich pflücke Äpfel.	मैं सेब चुनता हूं।
-I am playing guitar.	Ich spiele Gitarre.	मैं गिटार बजाता हूं।
-I am poor at tennis.	Ich bin schlecht im Tennis.	मैं टेनिस में बुरा हूँ।
-I am reading a book.	Ich lese gerade ein Buch.	मैं इस समय एक किताब पढ़ रहा हूं।
-I am reading a book.	Ich lese ein Buch.	मैं एक किताब पढ़ रहा हूँ।
-I am reading a play.	Ich lese ein Stück.	मैंने एक टुकड़ा पढ़ा।
 I am ready to start.	Ich bin bereit anzufangen.	मैं शुरू करने के लिए तैयार हूं।
 I am right for once.	Ich liege ausnahmsweise richtig.	मैं असाधारण रूप से सही हूं।
 I am right for once.	Ich habe ausnahmsweise recht.	मैं असाधारण रूप से सही हूं।

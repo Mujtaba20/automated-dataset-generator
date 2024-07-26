@@ -26023,3 +26023,12 @@ I am like my sister.	Ich bin wie meine Schwester.	मैं मेरी बह�
 I am not a Canadian.	Ich bin kein Kanadier.	मैं कनाडियन नहीं हूँ।
 I am not from India.	Ich komme nicht aus Indien.	मैं भारत से नहीं हूँ।
 I am not interested.	Ich habe kein Interesse.	मुझे दिलचस्पी नहीं है।
+I am off duty today.	Ich habe heute frei.	आज मैं काम से फ्री हूँ।
+I am often mistaken.	Ich werde oft missverstanden.	मैं अक्सर गलत समझा जाता हूँ।
+I am older than him.	Ich bin älter als er.	मैं उससे बड़ा हूँ।
+I am peeling apples.	Ich schäle Äpfel.	मैं सेब छील रहा हूँ।
+I am picking apples.	Ich pflücke Äpfel.	मैं सेब तोड़ रहा हूँ।
+I am playing guitar.	Ich spiele Gitarre.	मैं गिटार बजा रहा हूँ।
+I am poor at tennis.	Ich bin schlecht im Tennis.	मैं टेनिस में खराब हूँ।
+I am reading a book.	Ich lese ein Buch.	मैं किताब पढ़ रहा हूँ।
+I am reading a play.	Ich lese ein Stück.	मैं एक नाटक पढ़ रहा हूँ।
