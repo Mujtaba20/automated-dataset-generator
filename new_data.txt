@@ -40240,3 +40240,11 @@ Tom is always helpful.	Tom ist immer hilfsbereit.	टॉम हमेशा म�
 Tom is always nervous.	Tom ist immer nervös.	टॉम हमेशा घबराया हुआ है।
 Tom is always present.	Tom ist immer anwesend.	टॉम हमेशा मौजूद है।
 Tom is always reading.	Tom liest immer.	टॉम हमेशा पढ़ाई कर रहा है।
+Tom is always singing.	Tom singt immer.	टॉम हमेशा गा रहा है।
+Tom is always smoking.	Tom raucht immer.	टॉम हमेशा सिगरेट पी रहा है।
+Tom is always talking.	Tom redet immer.	टॉम हमेशा बात कर रहा है।
+Tom is always working.	Tom arbeitet immer.	टॉम हमेशा काम कर रहा है।
+Tom is an able banker.	Tom ist ein fähiger Banker.	टॉम एक कुशल बैंकर है।
+Tom is an amazing guy.	Tom ist ein erstaunlicher Kerl.	टॉम एक शानदार आदमी है।
+Tom is an entertainer.	Tom ist ein Entertainer.	टॉम मनोरंजनकारी है।
+Tom is an evil person.	Tom ist eine böse Person.	टॉम एक दुष्ट व्यक्ति है।

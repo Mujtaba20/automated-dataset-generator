@@ -1,14 +1,4 @@
 
-Tom is always singing.	Tom singt immer.	टॉम हमेशा गाता है।
-Tom is always smoking.	Tom ist immer am Rauchen.	टॉम हमेशा धूम्रपान कर रहा है।
-Tom is always smoking.	Tom raucht dauernd.	टॉम लगातार धूम्रपान करता है।
-Tom is always smoking.	Tom raucht ständig.	टॉम लगातार धूम्रपान करता है।
-Tom is always talking.	Tom redet ständig.	टॉम लगातार बात करता है।
-Tom is always working.	Tom ist immer am Arbeiten.	टॉम हमेशा काम कर रहा है।
-Tom is an able banker.	Tom ist ein fähiger Bankier.	टॉम एक सक्षम बैंकर है।
-Tom is an amazing guy.	Tom ist ein toller Kerl.	टॉम एक महान लड़का है।
-Tom is an entertainer.	Tom ist Unterhalter.	टॉम मनोरंजनकर्ता है।
-Tom is an evil person.	Tom ist ein böser Mensch.	टॉम एक बुरा इंसान है।
 Tom is an unusual kid.	Tom ist ein ungewöhnliches Kind.	टॉम एक असामान्य बच्चा है।
 Tom is angry with you.	Tom ist wütend auf dich.	टॉम आपसे नाराज है।
 Tom is as big as I am.	Tom ist so groß wie ich.	टॉम मेरे जितना बड़ा है।
