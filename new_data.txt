@@ -34461,3 +34461,13 @@ Tom is irresponsible.	Tom handelt unverantwortlich.	टॉम अजिम्म
 Tom is just a friend.	Tom ist nur ein Freund.	टॉम सिर्फ एक दोस्त है।
 Tom is just adorable.	Tom ist einfach bezaubernd.	टॉम बस प्यारा है।
 Tom is just like you.	Tom ist genauso wie du.	टॉम तुम्हारे जैसा है।
+Tom is just visiting.	Tom ist nur zu Besuch.	टॉम बस दौरा कर रहा है।
+Tom is lean and tall.	Tom ist schlank und groß.	टॉम पतला और लंबा है।
+Tom is likely to win.	Tom wird wahrscheinlich gewinnen.	टॉम जीतने के लिए संभावित है।
+Tom is looking at it.	Tom sieht es an.	टॉम इसपर देख रहा है।
+Tom is looking at me.	Tom sieht mich an.	टॉम मुझे देख रहा है।
+Tom is looking at us.	Tom sieht uns an.	टॉम हमें देख रहा है।
+Tom is looking tired.	Tom wirkt müde.	टॉम थका हुआ लग रहा है।
+Tom is making a list.	Tom erstellt eine Liste.	टॉम सूची बना रहा है।
+Tom is making coffee.	Tom macht Kaffee.	टॉम कॉफ़ी बना रहा है।
+Tom is making dinner.	Tom kocht Abendessen.	टॉम रात का खाना बना रहा है।

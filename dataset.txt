@@ -1,14 +1,4 @@
 
-Tom is just visiting.	Tom ist nur zu Besuch.	टॉम केवल दौरा कर रहा है।
-Tom is lean and tall.	Tom ist groß und schlank.	टॉम लंबा और पतला है।
-Tom is likely to win.	Tom wird wahrscheinlich gewinnen.	टॉम शायद जीत जाएगा।
-Tom is looking at it.	Tom sieht es sich an.	टॉम इसे देखता है।
-Tom is looking at me.	Tom sieht mich an.	टॉम मुझे देखता है।
-Tom is looking at us.	Tom sieht uns an.	टॉम हमें देखता है।
-Tom is looking tired.	Tom sieht müde aus.	टॉम थक गया दिखता है।
-Tom is making a list.	Tom macht eine Liste.	टॉम एक सूची बनाता है।
-Tom is making coffee.	Tom gießt gerade Kaffee auf.	टॉम कॉफी डाल रहा है।
-Tom is making dinner.	Tom macht gerade Abendessen.	टॉम वर्तमान में डिनर कर रहा है।
 Tom is my first name.	Tom ist mein Vorname.	टॉम मेरा पहला नाम है।
 Tom is my stepfather.	Tom ist mein Stiefpapa.	टॉम मेरे सौतेले पिता हैं।
 Tom is my stepfather.	Tom ist mein Stiefvater.	टॉम मेरे सौतेले पिता हैं।
