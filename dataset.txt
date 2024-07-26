@@ -1,14 +1,4 @@
 
-The baby is screaming.	Der Säugling schreit.	शिशु चिल्लाता है।
-The baby smiled at me.	Das Baby lächelte mich an.	बच्चा मुझे देखकर मुस्कुराया।
-The bear ate an apple.	Der Bär fraß einen Apfel.	भालू ने एक सेब खाया।
-The bed is still warm.	Das Bett ist noch warm.	बिस्तर अभी भी गर्म है।
-The birds are singing.	Die Vögel singen.	पक्षी गा रहे हैं।
-The birds were hungry.	Die Vögel waren hungrig.	पक्षी भूखे थे।
-The black one is mine.	Der Schwarze gehört mir.	काला एक मेरा है।
-The bookstore is open.	Der Buchladen ist geöffnet.	बुकस्टोर खुला है।
-The bookstore is open.	Die Buchhandlung ist geöffnet.	बुकस्टोर खुला है।
-The bottle was broken.	Die Flasche war kaputt.	बोतल टूट गई थी।
 The box was too heavy.	Die Kiste war zu schwer.	बॉक्स बहुत भारी था।
 The box was too heavy.	Der Karton war zu schwer.	बॉक्स बहुत भारी था।
 The boy bought a book.	Der Junge hat ein Buch gekauft.	लड़के ने एक किताब खरीदी।

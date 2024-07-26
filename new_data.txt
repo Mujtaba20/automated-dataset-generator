@@ -39415,3 +39415,12 @@ The airplane is ready.	Das Flugzeug ist bereit.	हवाई जहाज तै
 The airport is closed.	Der Flughafen ist geschlossen.	हवाई अड्डा बंद है।
 The antelope ran away.	Die Antilope ist weggelaufen.	उदयू भाग गया।
 The baby cried loudly.	Das Baby weinte laut.	शिशु जोर-शोर से रो रहा था।
+The baby is screaming.	Das Baby schreit.	बच्चा चिल्ला रहा है।
+The baby smiled at me.	Das Baby lächelte mich an.	शिशु ने मुझे मुस्कुराया।
+The bear ate an apple.	Der Bär aß einen Apfel.	भालू ने एक सेब खाया।
+The bed is still warm.	Das Bett ist immer noch warm.	बिस्तर अभी भी गर्म है।
+The birds are singing.	Die Vögel singen.	पंछी गा रहे हैं।
+The birds were hungry.	Die Vögel hatten Hunger.	पंछी भूखे थे।
+The black one is mine.	Der Schwarze gehört mir.	काला मेरा है।
+The bookstore is open.	Das Buchgeschäft ist offen.	किताबें खुली हैं।
+The bottle was broken.	Die Flasche war kaputt.	बोतल टूट गई थी।
