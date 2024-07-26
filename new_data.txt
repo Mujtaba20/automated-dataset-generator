@@ -27988,3 +27988,13 @@ Sorry to bother you.	Entschuldigung, dass ich störe.	आपको परेश�
 Sorry, I can't help.	Entschuldigung, ich kann nicht helfen.	माफ़ कीजिए, मैं मदद नहीं कर सकता।
 Step into the light.	Tritt ins Licht.	रोशनी में कदम रखो।
 Step into the light. (Different meaning)	Schritt ins Rampenlicht.	प्रकाश में कदम रखो।
+Stop being so naive.	Hör auf, so naiv zu sein.	इतना भोला मत बनो।
+Stop being so picky.	Hör auf, so wählerisch zu sein.	तनिक टिड्डा ना बनो।
+Stop calling me Tom.	Hör auf, mich Tom zu nennen.	मुझे टॉम ना कहो।
+Stop criticizing me.	Hör auf, mich zu kritisieren.	मुझे आलोचना नहीं करो।
+Stop fooling around!	Hör auf, herumzualbern!	मजाक न करो!
+Stop messing around.	Hör auf, herumzumachen.	बकवास बंद करो।
+Stop messing around. - different meaning	Hör auf, herumzupfuschen.	बेहलावाद बंद करो।
+Stop picking on Tom.	Hör auf, Tom zu ärgern.	टॉम पर तंग ना करो।
+Stop playing around.	Hör auf herumzuspielen.	बिना काम के फुरसत मत लो।
+Stop that right now.	Hör sofort damit auf.	अभी वो बंद करो।
