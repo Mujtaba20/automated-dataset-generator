@@ -1,14 +1,4 @@
 
-Tom has three bicycles.	Tom hat drei Fahrräder.	टॉम में तीन बाइक हैं।
-Tom has three bicycles.	Tom hat drei Räder.	टॉम के तीन पहिए हैं।
-Tom has three brothers.	Tom hat drei Brüder.	टॉम के तीन भाई हैं।
-Tom has three children.	Tom hat drei Kinder.	टॉम के तीन बच्चे हैं।
-Tom has three ex-wives.	Tom hat drei Exfrauen.	टॉम के पास तीन पूर्व -वोमेन हैं।
-Tom has three kids now.	Tom hat jetzt drei Kinder.	टॉम के अब तीन बच्चे हैं।
-Tom has to be punished.	Tom muss bestraft werden.	टॉम को दंडित किया जाना चाहिए।
-Tom has to do that now.	Tom muss das jetzt machen.	टॉम को अब ऐसा करना है।
-Tom has to go home now.	Tom muss jetzt nach Hause.	टॉम को अब घर जाना है।
-Tom has to go home now.	Tom muss jetzt nach Hause gehen.	टॉम को अब घर जाना है।
 Tom has to go see Mary.	Tom muss Maria besuchen.	टॉम को मारिया का दौरा करना है।
 Tom has to stay in bed.	Tom muss im Bett bleiben.	टॉम को बिस्तर पर रहना पड़ता है।
 Tom has too many books.	Tom hat zu viele Bücher.	टॉम के पास बहुत सारी किताबें हैं।
