@@ -23238,3 +23238,13 @@ This is really big.	Das ist wirklich groß.	यह वास्तव में 
 This is really sad.	Das ist wirklich traurig.	यह सच में दुखद है।
 This is remarkable.	Das ist bemerkenswert.	यह ग़ायब है।
 This is ridiculous.	Das ist lächerlich.	यह निरर्थक है।
+This is so awkward.	Das ist so peinlich.	यह इतना अजीब है।
+This is surprising.	Das ist überraschend.	यह चौंका देने वाला है।
+This is surprising. (Different meaning)	Das ist erstaunlich.	यह चौंकाने वाली बात है।
+This is very fresh.	Das ist sehr frisch.	यह बहुत ताज़ा है।
+This is very salty.	Das ist sehr salzig.	यह बहुत नमकीन है।
+This is your doing.	Das ist dein Werk.	यह तुम्हारी कृति है।
+This is your fault.	Das ist dein Fehler.	यह तुम्हारी गलती है।
+This isn't a tiger.	Das ist kein Tiger.	यह एक बाघ नहीं है।
+This isn't for Tom.	Das ist nicht für Tom.	यह टॉम के लिए नहीं है।
+This isn't for you.	Das ist nicht für dich.	यह तुम्हारे लिए नहीं है।

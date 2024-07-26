@@ -1,15 +1,4 @@
 
-This is so awkward.	Das ist so misslich.	यह बहुत बुरा है।
-This is surprising.	Das ist überraschend.	यह आश्चर्यजनक है।
-This is surprising.	Dies ist überraschend.	यह आश्चर्य की बात है।
-This is very fresh.	Das ist sehr frisch.	यह बहुत ताजा है।
-This is very salty.	Das ist sehr salzig.	यह बहुत नमकीन है।
-This is your doing.	Das ist dein Tun.	यह आपका काम है।
-This is your fault.	Das ist deine Schuld.	यह आपकी गलती है।
-This isn't a tiger.	Das ist kein Tiger.	यह बाघ नहीं है।
-This isn't for Tom.	Das ist nicht für Tom.	यह टॉम के लिए नहीं है।
-This isn't for you.	Das ist nichts für dich.	यह आपके लिए कुछ भी नहीं है।
-This isn't for you.	Das ist nicht für dich	यह आपके लिए नहीं हे
 This isn't helping.	Das hilft nicht.	वह मदद नहीं करता है।
 This isn't my home.	Dies ist nicht mein Haus.	यह मेरा घर नहीं है।
 This isn't unusual.	Das ist nicht ungewöhnlich.	यह असामान्य नहीं है।
