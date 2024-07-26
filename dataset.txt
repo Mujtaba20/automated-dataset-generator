@@ -1,14 +1,4 @@
 
-The honeymoon is over.	Die Flitterwochen sind vorüber.	हनीमून खत्म हो गया है।
-The hotel burned down.	Das Hotel brannte ab.	होटल जल गया।
-The house caught fire.	Das Haus ist in Brand geraten.	घर में आग लग गई है।
-The hunter shot a fox.	Der Jäger hat einen Fuchs geschossen.	शिकारी ने एक लोमड़ी को गोली मार दी।
-The ice is very thick.	Das Eis ist sehr dick.	बर्फ बहुत मोटी है।
-The kids are sleeping.	Die Kinder schlafen.	बच्चे सोते हैं।
-The king was executed.	Der König wurde hingerichtet.	राजा को मार दिया गया था।
-The kitchen was clean.	Die Küche war sauber.	रसोई साफ थी।
-The lake is deep here.	Der See ist an dieser Stelle tief.	इस बिंदु पर झील गहरी है।
-The lake is very deep.	Der See ist sehr tief.	झील बहुत गहरी है।
 The line isn't moving.	Es geht in der Warteschlange nicht voran.	कतार प्रगति नहीं कर रही है।
 The list is very long.	Die Liste ist sehr lang.	सूची बहुत लंबी है।
 The lock is beautiful.	Das Schloss ist schön.	महल सुंदर है।

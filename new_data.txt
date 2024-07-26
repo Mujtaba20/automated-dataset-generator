@@ -39480,3 +39480,13 @@ The goal was achieved.	Das Ziel wurde erreicht.	लक्ष्य पाया 
 The goldfish is alive.	Der Goldfisch lebt.	सोना मछली जीवित है।
 The guitar is in tune.	Die Gitarre ist gestimmt.	गिटार सुर में है।
 The heart is a muscle.	Das Herz ist ein Muskel.	दिल एक पेशी है।
+The honeymoon is over.	Die Flitterwochen sind vorbei.	हनीमून लगभग खत्म हो चुका है।
+The hotel burned down.	Das Hotel ist abgebrannt.	होटल जल गया।
+The house caught fire.	Das Haus hat Feuer gefangen.	घर में आग लग गयी।
+The hunter shot a fox.	Der Jäger hat einen Fuchs erschossen.	शिकारी ने एक लोमड़ी को गोली मारी।
+The ice is very thick.	Das Eis ist sehr dick.	बर्फ बहुत मोटी है।
+The kids are sleeping.	Die Kinder schlafen.	बच्चे सो रहे हैं।
+The king was executed.	Der König wurde hingerichtet.	राजा को फांसी चढ़ा दी गई थी।
+The kitchen was clean.	Die Küche war sauber.	रसोई साफ थी।
+The lake is deep here.	Der See ist hier tief.	यहाँ झील गहरी है।
+The lake is very deep.	Der See ist sehr tief.	झील बहुत गहरी है।
