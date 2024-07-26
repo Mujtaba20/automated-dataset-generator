@@ -38512,3 +38512,11 @@ It made me very happy.	Es hat mich sehr glücklich gemacht.	यह मुझे 
 It made my mother cry.	Es hat meine Mutter zum Weinen gebracht.	इसने मेरी माँ को रुलाया।
 It makes me feel sick.	Es macht mich krank fühlen.	यह मुझे बीमार महसूस कराता है।
 It may save your life.	Es kann Ihr Leben retten.	यह आपकी जिंदगी बचा सकता है।
+It might be a wedding.	Es könnte eine Hochzeit sein.	यह शादी हो सकती है।
+It might be important.	Es könnte wichtig sein.	यह महत्वपूर्ण हो सकता है।
+It might prove useful.	Es könnte nützlich sein.	यह उपयोगी साबित हो सकता है।
+It only happened once.	Es geschah nur einmal.	यह केवल एक बार हुआ।
+It really tastes good.	Es schmeckt wirklich gut.	यह सच में अच्छा लगता है।
+It reminded me of you.	Es erinnerte mich an dich.	यह मुझे तुम्हारी याद दिलाता है।
+It runs in the family.	Es liegt in der Familie.	यह परिवार में चलता है।
+It scares me to death.	Es erschreckt mich zu Tode.	यह मुझे मौत के डर से डराता है।
