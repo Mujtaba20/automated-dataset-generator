@@ -1,14 +1,4 @@
 
-Tom sliced the carrots.	Tom schnitt die Karotten.	टॉम ने गाजर को काट दिया।
-Tom slipped on the ice.	Tom rutschte auf dem Eis aus.	टॉम बर्फ पर फिसल गया।
-Tom slit Mary's throat.	Tom schlitzte Mary die Kehle auf.	टॉम ने गला घटा दिया।
-Tom slit Mary's throat.	Tom hat Mary die Kehle aufgeschlitzt.	टॉम स्लिट मैरी का गला।
-Tom solved the mystery.	Tom hat das Rätsel gelöst.	टॉम ने पहेली को हल किया।
-Tom speaks French well.	Tom spricht gut Französisch.	टॉम फ्रेंच अच्छी तरह से बोलता है।
-Tom speaks good French.	Tom spricht gut Französisch.	टॉम फ्रेंच अच्छी तरह से बोलता है।
-Tom speaks poor French.	Tom spricht schlecht Französisch.	टॉम फ्रेंच बुरी तरह से बोलता है।
-Tom speaks very slowly.	Tom spricht sehr langsam.	टॉम बहुत धीरे -धीरे बोलता है।
-Tom speaks with a lisp.	Tom lispelt.	टॉम लिस्पेल्ट।
 Tom spilled his coffee.	Tom hat seinen Kaffee verschüttet.	टॉम ने अपनी कॉफी बिखेर दी।
 Tom split up with Mary.	Tom hat sich von Mary getrennt.	टॉम मैरी से अलग हो गए।
 Tom spoke French to me.	Tom sprach mit mir Französisch.	टॉम ने मुझसे फ्रेंच से बात की।
