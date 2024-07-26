@@ -1,14 +1,4 @@
 
-The noise is deafening.	Der Lärm ist ohrenbetäubend.	शोर बहरा है।
-The noise woke them up.	Der Lärm weckte sie.	शोर ने उसे जगाया।
-The old barn collapsed.	Die alte Scheune ist eingestürzt.	पुराना खलिहान ढह गया है।
-The old book was moldy.	Das alte Buch war schimmelig.	पुरानी किताब मोल्डी थी।
-The old book was moldy.	Das alte Buch war schimmlig.	पुरानी किताब मोल्डी थी।
-The pain is unbearable.	Die Schmerzen sind unerträglich.	दर्द असहनीय है।
-The pain was agonizing.	Der Schmerz war unerträglich.	दर्द असहनीय था।
-The painter died young.	Der Maler starb jung.	चित्रकार युवा मर गया।
-The phone kept ringing.	Das Telefon hörte nicht auf zu klingeln.	फोन बजना बंद नहीं हुआ।
-The phone kept ringing.	Das Telefon läutete ständig.	फोन हर समय बजता रहा।
 The piano is expensive.	Das Klavier ist teuer.	पियानो महंगा है।
 The piano is expensive.	Das Piano ist teuer.	पियानो महंगा है।
 The pig is growing fat.	Das Schwein wird fett.	सुअर मोटा हो जाता है।
