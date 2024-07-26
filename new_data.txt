@@ -21221,3 +21221,10 @@ I felt very sleepy.	Ich fühlte mich sehr schläfrig.	मुझे बहुत 
 I flirted with Tom.	Ich habe mit Tom geflirtet.	मैंने टॉम के साथ टैंसन किया।
 I followed the bus.	Ich bin dem Bus gefolgt.	मैंने बस का पीछा किया।
 I forgot my pencil.	Ich habe meinen Bleistift vergessen.	मैंने अपनी पेंशिल भूल गया।
+I found some money	Ich habe etwas Geld gefunden.	मैंने कुछ पैसे पाए।
+I found your diary	Ich habe dein Tagebuch aufgespürt.	मैंने तुम्हारा डायरी तक पहुंचा।
+I fractured my arm	Ich habe meinen Arm gebrochen.	मेरी भुजा टूट गई।
+I gave Mary a book	Ich habe Mary ein Buch gegeben.	मैंने मेरी को एक किताब दी।
+I gave Tom a shirt	Ich habe Tom ein Hemd gegeben.	मैंने टॉम को एक कमीज़ दी।
+I gave Tom my word	Ich habe Tom mein Wort gegeben.	मैंने टॉम को अपना वादा दिया।
+I gave that to Tom	Ich habe das Tom gegeben.	मैंने उसे टॉम को दिया।

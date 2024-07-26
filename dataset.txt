@@ -1,14 +1,4 @@
 
-I found some money.	Ich habe Geld gefunden.	मुझे पैसे मिले।
-I found your diary.	Ich habe dein Tagebuch gefunden.	मुझे आपकी डायरी मिली।
-I found your diary.	Ich habe Ihr Tagebuch gefunden.	मुझे उसकी डायरी मिली।
-I found your diary.	Ich habe deinen Terminkalender gefunden.	मुझे आपका शेड्यूल मिला।
-I found your diary.	Ich habe Ihren Terminkalender gefunden.	मुझे आपका शेड्यूल मिला।
-I fractured my arm.	Ich habe mir den Arm gebrochen.	मेरी बाज़ू टूट गई है.
-I gave Mary a book.	Ich gab Maria ein Buch.	मैंने मारिया को एक किताब दी।
-I gave Tom a shirt.	Ich gab Tom ein Leiberl.	मैंने टॉम को एक शरीर दिया।
-I gave Tom my word.	Ich habe Tom mein Wort gegeben.	मैंने टॉम को अपना वचन दिया।
-I gave that to Tom.	Das habe ich Tom gegeben.	मैंने टॉम दिया।
 I gave you my word.	Ich habe dir ja mein Wort gegeben.	मैंने आपको अपना शब्द दिया।
 I gave you my word.	Ich habe es dir versprochen.	मैंने आपको वचन दिया था।
 I give you my word.	Ich gebe dir mein Wort.	मेरा आपसे वचन है।
