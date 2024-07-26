@@ -1,16 +1,4 @@
 
-He's a baseball player.	Er ist ein Baseballspieler.	वह एक बेसबॉल खिलाड़ी है।
-He's a baseball player.	Er ist Baseballspieler.	वह बेसबॉल खिलाड़ी है।
-He's a devout Catholic.	Er ist ein ergebener Katholik.	वह एक समर्पित कैथोलिक है।
-He's a man of his word.	Er ist ein Mann seines Wortes.	वह अपने वचन का आदमी है।
-He's a singing teacher.	Er ist Gesangslehrer.	वह एक गायन शिक्षक हैं।
-He's a terrible driver.	Er ist ein schrecklicher Fahrer.	वह एक भयानक चालक है।
-He's a very clever boy.	Er ist ein sehr pfiffiger Junge.	वह बहुत स्मार्ट लड़का है।
-He's a weak-willed man.	Er ist ein willensschwacher Mann.	वह एक कमजोर आदमी है।
-He's acting on his own.	Er handelt auf eigene Faust.	वह अपने दम पर काम करता है।
-He's addicted to drugs.	Er ist drogenabhängig.	यह दवाओं पर निर्भर करता है।
-He's addicted to drugs.	Er ist rauschgiftsüchtig.	वह अचूक है।
-He's addicted to drugs.	Er ist drogensüchtig.	वह ड्रग्स का आदी है।
 He's afraid of the sea.	Er hat Angst vor dem Meer.	वह समुद्र से डरता है।
 He's afraid of the sea.	Er hat Angst vorm Meer.	वह समुद्र से डरता है।
 He's afraid of the sea.	Er fürchtet sich vor dem Meer.	वह समुद्र से डरता है।
