@@ -1,14 +1,4 @@
 
-Does Tom go out a lot?	Geht Tom viel aus?	क्या टॉम बहुत बाहर जाता है?
-Does Tom go out a lot?	Geht Tom viel fort?	क्या टॉम बहुत जाता है?
-Does Tom go out a lot?	Geht Tom oft aus?	क्या टॉम अक्सर बाहर जाता है?
-Does Tom have a fever?	Hat Tom Fieber?	टॉम फाइवर है?
-Does Tom have a hobby?	Hat Tom ein Hobby?	क्या टॉम का शौक है?
-Does Tom have a knife?	Hat Tom ein Messer?	क्या टॉम के पास चाकू है?
-Does Tom have to stay?	Muss Tom bleiben?	क्या टॉम को रहना है?
-Does Tom keep a diary?	Führt Tom ein Tagebuch?	क्या टॉम एक डायरी का नेतृत्व करता है?
-Does Tom know my name?	Kennt Tom meinen Namen?	क्या टॉम मेरा नाम जानता है?
-Does Tom know who won?	Weiß Tom, wer gewonnen hat?	क्या टॉम को पता है कि कौन जीता?
 Does Tom like Vivaldi?	Mag Tom Vivaldi?	मैग टॉम विवाल्डी?
 Does Tom like bananas?	Mag Tom Bananen?	क्या टॉम केलेन को पसंद है?
 Does Tom like bowling?	Kegelt Tom gerne?	टॉम को झुकना पसंद है?

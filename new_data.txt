@@ -36443,3 +36443,11 @@ Do your parents smoke?	Rauchen Ihre Eltern?	क्या आपके मात�
 Does Tom drink coffee?	Trinkt Tom Kaffee?	क्या टॉम कॉफ़ी पीता है?
 Does Tom dye his hair?	Färbt Tom sich die Haare?	क्या टॉम अपने बाल को द्वारा रंगता है?
 Does Tom ever do that?	Macht Tom das jemals?	क्या टॉम कभी ऐसा करता है?
+Does Tom go out a lot?	Geht Tom oft aus?	क्या टॉम अक्सर घर छोड़ता है?
+Does Tom have a fever?	Hat Tom Fieber?	क्या टॉम को बुखार है?
+Does Tom have a hobby?	Hat Tom ein Hobby?	क्या टॉम का कोई शौक है?
+Does Tom have a knife?	Hat Tom ein Messer?	क्या टॉम के पास एक चाकू है?
+Does Tom have to stay?	Muss Tom bleiben?	क्या टॉम को रुकना पड़ेगा?
+Does Tom keep a diary?	Schreibt Tom ein Tagebuch?	क्या टॉम डायरी रखता है?
+Does Tom know my name?	Kennt Tom meinen Namen?	क्या टॉम मेरा नाम जानता है?
+Does Tom know who won?	Weiß Tom, wer gewonnen hat?	क्या टॉम को जीतने वाला पता है?
