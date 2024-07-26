@@ -26325,3 +26325,12 @@ I have lots of time.	Ich habe viel Zeit.	मेरे पास बहुत स
 I have many enemies.	Ich habe viele Feinde.	मेरे कई दुश्मन हैं।
 I have many friends.	Ich habe viele Freunde.	मेरे कई दोस्त हैं।
 I have no allergies.	Ich habe keine Allergien.	मेरे पास कोई एलर्जी नहीं है।
+I have no free time.	Ich habe keine freie Zeit.	मेरे पास कोई फ्री टाइम नहीं है।
+I have no neighbors.	Ich habe keine Nachbarn.	मेरे पड़ोसी नहीं हैं।
+I have no objection.	Ich habe keinen Einwand.	मेरे पास कोई आपत्ति नहीं है।
+I have no opponents.	Ich habe keine Gegner.	मेरे प्रतिद्वंद्वी नहीं हैं।
+I have nothing else.	Ich habe nichts anderes.	मेरे पास कुछ और नहीं है।
+I have one of those.	Ich habe eins davon.	मेरे पास उनमें से एक है।
+I have one question.	Ich habe eine Frage.	मेरे पास एक सवाल है।
+I have only one dog.	Ich habe nur einen Hund.	मेरे पास केवल एक कुत्ता है।
+I have tennis elbow.	Ich habe Tennisellenbogen.	मेरे पास टेनिस कोंधी है।
