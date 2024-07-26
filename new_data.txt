@@ -39905,3 +39905,8 @@ Tom can't drive a car.	Tom kann kein Auto fahren.	टॉम कार नही�
 Tom can't forget Mary.	Tom kann Mary nicht vergessen.	टॉम मेरी को भूल नहीं सकता।
 Tom can't go anywhere.	Tom kann nirgendwo hingehen.	टॉम कहीं नहीं जा सकता।
 Tom can't read French.	Tom kann kein Französisch lesen.	टॉम फ्रेंच नहीं पढ़ सकता।
+Tom can't swim at all.	Tom kann überhaupt nicht schwimmen.	टॉम को पूरी तरह से तैरना नहीं आता।
+Tom carved the turkey.	Tom schnitzte den Truthahn.	टॉम ने टर्की को काटा।
+Tom caught a big fish.	Tom hat einen großen Fisch gefangen.	टॉमने एक बड़ी मछली पकड़ी।
+Tom caught three fish.	Tom fing drei Fische.	टॉमने तीन मछलियाँ पकड़ी।
+Tom chased after Mary.	Tom hat Mary gejagt.	टॉमने मैरी का पीछा किया।
