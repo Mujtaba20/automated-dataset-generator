@@ -1,15 +1,4 @@
 
-You've got my phone.	Du hast mein Telefon.	आपके पास मेरा फोन है।
-You've got my phone.	Ihr habt mein Telefon.	आपके पास मेरा फोन है।
-You've got my phone.	Sie haben mein Telefon.	आपके पास मेरा फोन है।
-You've got problems.	Du hast Probleme.	आपको समस्याएं हैं।
-You've got problems.	Ihr habt Probleme.	आपको समस्याएं हैं।
-You've got problems.	Sie haben Probleme.	आपको समस्याएं हैं।
-You've got the idea.	Du hast den Nagel auf den Kopf getroffen.	आपने सिर पर कील मारा है।
-You've had your fun.	Du hattest deinen Spaß.	तुमने आनंद किया।
-You've hurt me, too.	Du hast mich auch verletzt.	आपने मुझे भी चोट पहुंचाई।
-You've hurt me, too.	Ihr habt mich auch verletzt.	आपने मुझे भी चोट पहुंचाई।
-You've hurt me, too.	Sie haben mich auch verletzt.	आपने मुझे भी चोट पहुंचाई।
 You've made Tom cry.	Du hast Tom zum Weinen gebracht.	आपने टॉम को रोया।
 You've made Tom cry.	Sie haben Tom zum Weinen gebracht.	आपने टॉम को रोया।
 You've made Tom cry.	Ihr habt Tom zum Weinen gebracht.	आपने टॉम को रोया।

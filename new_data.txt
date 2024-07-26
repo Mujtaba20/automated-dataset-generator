@@ -30335,3 +30335,8 @@ You've been injured.	Du wurdest verletzt.	तुम्हें चोट आ �
 You've been spotted.	Du wurdest gesichtet.	तुम्हें देख लिया गया।
 You've eaten enough.	Du hast genug gegessen.	तुमने काफी खा लिया है।
 You've gone too far.	Du bist zu weit gegangen.	तुमने बहुत आगे बढ़ लिया है।
+You've got my phone.	Du hast mein Handy.	तुम्हारे पास मेरा फोन है।
+You've got problems.	Du hast Probleme.	तुम्हारी परेशानियां हैं।
+You've got the idea.	Du hast die Idee.	तुम्हें विचार है।
+You've had your fun.	Du hattest deinen Spaß.	तुम्हारा मज़ा आ गया।
+You've hurt me, too.	Du hast mich auch verletzt.	तुमने मुझे भी चोट पहुंचाई है।
