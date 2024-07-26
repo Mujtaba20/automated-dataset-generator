@@ -40750,3 +40750,13 @@ Tom taught me to read.	Tom hat mir das Lesen beigebracht.	टॉम ने म�
 Tom taught me how to swim.	Tom hat mir das Schwimmen beigebracht.	टॉम ने मुझे तैरना सिखाया।
 Tom teaches me French.	Tom unterrichtet mich in Französisch.	टॉम मुझे फ्रेंच सिखाता है।
 Tom teaches us French.	Tom unterrichtet uns Französisch.	टॉम हमें फ्रेंच सिखाता है।
+Tom tells a good joke.	Tom erzählt einen guten Witz.	टॉम एक अच्छे जोक कहता है।
+Tom thanked all of us.	Tom bedankte sich bei uns allen.	टॉम ने हम सभी का आभारी था।
+Tom thinks I'm a wimp.	Tom denkt, dass ich ein Schwächling bin.	टॉम सोचता है कि मैं कमजोर हूँ।
+Tom thinks Mary knows.	Tom denkt, dass Mary Bescheid weiß.	टॉम सोचता है कि मेरी को पता है।
+Tom thinks he's funny.	Tom denkt, er ist lustig.	टॉम सोचता है कि वह मजेदार है।
+Tom thinks he's ready.	Tom denkt, er ist bereit.	टॉम सोचता है कि वह तैयार है।
+Tom thinks it's great.	Tom denkt, dass es großartig ist.	टॉम सोचता है कि यह शानदार है।
+Tom thought otherwise.	Tom dachte anders.	टॉम ने अलग सोचा।
+Tom threw Mary a rope.	Tom warf Mary ein Seil.	टॉम ने मेरी को रस्सी फेंकी।
+Tom threw me an apple.	Tom warf mir einen Apfel.	टॉम ने मुझे एक सेब फेंका।
