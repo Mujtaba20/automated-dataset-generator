@@ -40662,3 +40662,12 @@ Tom sat near the fire.	Tom saß in der Nähe des Feuers.	टॉम आगे क
 Tom saved Mary a seat.	Tom speicherte Mary einen Sitzplatz.	टॉम ने मेरी के लिए एक स्थान बचाया।
 Tom saved Mary's life.	Tom rettete Marys Leben.	टॉम ने मेरी की जान बचाई।
 Tom saw Mary swimming.	Tom sah Mary schwimmen.	टॉम ने मेरी को तैरते हुए देखा।
+Tom says he does that.	Tom sagt, dass er das tut.	टॉम कहता है कि वह ऐसा करता है।
+Tom says he knows you.	Tom sagt, dass er dich kennt.	टॉम कहता है कि वह तुम्हें जानता है।
+Tom says you're lying.	Tom sagt, du lügst.	टॉम कहता है कि तुम झूठ बोल रहे हो।
+Tom scratched himself.	Tom hat sich gekratzt.	टॉम ने खुद को खुराला।
+Tom screamed for help.	Tom schrie um Hilfe.	टॉम ने मदद के लिए चिल्लाया।
+Tom screamed with joy.	Tom schrie vor Freude.	टॉम खुशी में चिल्लाया।
+Tom scrubbed his feet.	Tom schrubbte seine Füße.	टॉम ने अपने पैरों को स्क्रब किया।
+Tom searched the room.	Tom durchsuchte den Raum.	टॉम ने कमरा खोजा।
+Tom seemed really sad.	Tom schien wirklich traurig zu sein.	टॉम सचमुच बहुत उदास लग रहा था।
