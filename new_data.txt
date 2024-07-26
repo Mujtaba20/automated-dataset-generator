@@ -23127,3 +23127,11 @@ They make me laugh.	Sie bringen mich zum Lachen.	वे मुझे हंस�
 They mean business.	Sie meinen es ernst.	उन्हें व्यवसाय की समझ है।
 They met in secret.	Sie trafen sich heimlich.	वे गुप्त में मिले।
 They must be happy.	Sie müssen glücklich sein.	वे खुश होंगे।
+They need a lawyer.	Sie brauchen einen Anwalt.	उन्हें वकील की आवश्यकता है।
+They need our help.	Sie brauchen unsere Hilfe.	उनको हमारी मदद की जरूरत है।
+They never existed.	Sie haben nie existiert.	उन्होंने कभी अस्तित्व में नहीं रहा।
+They never gave up.	Sie haben nie aufgegeben.	उन्होंने कभी हार नहीं मानी।
+They never give up.	Sie geben niemals auf.	उन्होंने कभी हार नहीं माननी।
+They never said no.	Sie haben nie nein gesagt.	उन्होंने कभी नहीं कहा।
+They never stopped.	Sie haben nie aufgehört.	उन्होंने कभी रुकना नहीं दिया।
+They really did it.	Sie haben es wirklich getan.	उन्होंने सच में यह किया।

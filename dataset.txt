@@ -1,14 +1,4 @@
 
-They need a lawyer.	Sie brauchen einen Anwalt.	आपको एक वकील की जरूरत है।
-They need a lawyer.	Sie benötigen einen Rechtsanwalt.	आपको एक वकील की जरूरत है।
-They need our help.	Sie brauchen unsere Hilfe.	आपको हमारी मदद चाहिए।
-They never existed.	Die hat es nie gegeben.	यह कभी अस्तित्व में नहीं था।
-They never gave up.	Sie gaben nie auf.	उन्होंने कभी हार नहीं मानी।
-They never give up.	Sie geben nie auf.	वे कभी हार नहीं मानते।
-They never said no.	Sie sagten nie nein.	आपने कभी नहीं कहा।
-They never stopped.	Sie hörten nie auf.	वे कभी नहीं रुके।
-They never stopped.	Sie hielten nie an.	वे कभी नहीं रुके।
-They really did it.	Sie haben es wirklich getan.	आपने वास्तव में ऐसा किया।
 They say he's sick.	Sie sagen, dass er krank ist.	आप कहते हैं कि वह बीमार है।
 They say he's sick.	Sie sagen, er sei krank.	आप कहते हैं कि वह बीमार है।
 They spoke briefly.	Sie sprachen kurz.	आपने संक्षेप में बात की।
