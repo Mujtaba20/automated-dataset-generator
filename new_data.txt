@@ -20941,3 +20941,10 @@ Here are my papers.	Hier sind meine Papiere.	यहाँ मेरे पेप
 Here are our books.	Hier sind unsere Bücher.	यहाँ हमारी किताबें हैं।
 Here are the facts.	Hier sind die Fakten.	यहाँ तथ्य हैं।
 Here are the rules.	Hier sind die Regeln.	यहाँ नियम हैं।
+Here are your keys.	Hier sind deine Schlüssel.	यहाँ तुम्हारे कुंजी हैं।
+Here comes the bus!	Hier kommt der Bus!	बस यहाँ आ रही है!
+Here is my address.	Hier ist meine Adresse.	यहाँ मेरा पता है।
+Here is my baggage.	Hier ist mein Gepäck.	यहाँ मेरा सामान है।
+Here is my bicycle.	Hier ist mein Fahrrad.	यहाँ मेरी साईकल है।
+Here's my passport.	Hier ist mein Reisepass.	यहाँ मेरा पासपोर्ट है।
+Here's one for you.	Hier ist eins für dich.	यहाँ एक तुम्हारे लिए है।

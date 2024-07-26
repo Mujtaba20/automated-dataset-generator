@@ -1,14 +1,4 @@
 
-Here are your keys.	Hier sind eure Schlüssel.	यहाँ आपकी चाबियां हैं।
-Here are your keys.	Hier sind Ihre Schlüssel.	यहाँ उनकी चाबियां हैं।
-Here are your keys.	Hier sind deine Schlüssel.	यहाँ आपकी चाबियां हैं।
-Here comes the bus!	Da kommt der Bus!	बस आ रही है!
-Here is my address.	Hier ist meine Adresse.	यहाँ मेरी एड्रेस है।
-Here is my baggage.	Hier ist mein Gepäck.	यहाँ मेरा सामान है।
-Here is my bicycle.	Hier ist mein Rad.	यहाँ मेरी बाइक है।
-Here is my bicycle.	Hier ist mein Fahrrad.	यहाँ मेरी बाइक है।
-Here's my passport.	Hier ist mein Pass.	यहाँ मेरा पासपोर्ट है।
-Here's one for you.	Hier ist eins für dich.	यहाँ आपके लिए एक है।
 Here's the address.	Hier ist die Adresse.	यहाँ पता है।
 Here's the address.	Hier ist die Anschrift.	यहाँ पता है।
 Here's your change.	Hier ist Ihr Wechselgeld.	यहां आपके बदलाव हैं।
