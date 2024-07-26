@@ -25430,3 +25430,8 @@ Don't get in my way.
 Don't get mad at me.		
 Don't give up on me.		
 Don't go down there.		
+Don't go in my room.	Gehe nicht in mein Zimmer.	मेरे कमरे में मत जाओ।
+Don't interrupt Tom.	Unterbreche Tom nicht.	टॉम को बीच में मत बोलो।
+Don't let Tom leave.	Lass Tom nicht gehen.	टॉम को जाने मत दो।
+Don't listen to Tom.	Höre nicht auf Tom.	टॉम की बात मत सुनो।
+Don't listen to her.	Höre nicht auf sie.	उसकी बात मत सुनो।

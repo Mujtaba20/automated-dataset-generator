@@ -1,15 +1,4 @@
 
-Don't go in my room.	Geh nicht in mein Zimmer!	मेरे कमरे में मत जाओ!
-Don't go in my room.	Gehen Sie nicht in mein Zimmer!	मेरे कमरे में मत जाओ!
-Don't go in my room.	Gehe nicht in mein Zimmer!	मेरे कमरे में मत जाओ!
-Don't interrupt Tom.	Unterbrich Tom nicht!	दखलअंदाज़ी न करें!
-Don't let Tom leave.	Lass Tom nicht gehen.	टॉम को मत जाने दो।
-Don't let Tom leave.	Lass Tom nicht weg.	टॉम को छोड़ने न दें।
-Don't listen to Tom.	Hör nicht auf Tom.	टॉम को मत सुनो।
-Don't listen to her.	Hör nicht auf sie!	आप की बात मत सुनो!
-Don't listen to her.	Hör nicht auf sie.	आप की बात मत सुनो।
-Don't listen to her.	Hört nicht auf sie.	आप की बात मत सुनो।
-Don't listen to her.	Hören Sie nicht auf sie.	आप की बात मत सुनो।
 Don't listen to him.	Höre nicht auf ihn!	उसकी बात मत सुनो!
 Don't lose this key.	Verliere nicht diesen Schlüssel!	इस कुंजी को न खोएं!
 Don't lose this key.	Verliert nicht diesen Schlüssel!	इस कुंजी को न खोएं!
