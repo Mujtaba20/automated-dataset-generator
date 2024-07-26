@@ -1,14 +1,4 @@
 
-I need to go to work.	Ich muss zur Arbeit.	मुझे काम करने के लिए जाना है।
-I need to read a lot.	Ich muss viel lesen.	मुझे बहुत कुछ पढ़ना है।
-I need to study math.	Ich muss Mathe studieren.	मुझे गणित का अध्ययन करना है।
-I need to study math.	Ich muss für Mathe lernen.	मुझे गणित के लिए सीखना है।
-I need you to listen.	Du musst mir zuhören.	आपको मेरी बात सुननी होगी।
-I never asked for it.	Ich habe nie darum gebeten.	मैंने इसके लिए कभी नहीं कहा।
-I never asked for it.	Ich habe das nie verlangt.	मैंने ऐसा कभी नहीं पूछा।
-I never betrayed you.	Ich habe dich nie verraten.	मैंने आपको कभी धोखा नहीं दिया।
-I never doubted that.	Das habe ich nie bezweifelt.	मैंने कभी संदेह नहीं किया।
-I never drink coffee.	Ich trinke nie Kaffee.	मैं कभी कॉफी नहीं पीता।
 I never even saw you.	Ich habe dich überhaupt nicht gesehen.	मैंने आपको बिल्कुल नहीं देखा।
 I never gave up hope.	Ich gab niemals die Hoffnung auf.	मैंने कभी उम्मीद नहीं छोड़ी।
 I never go to church.	Ich gehe nie zur Kirche.	मैं कभी चर्च नहीं जाता।

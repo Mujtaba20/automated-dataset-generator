@@ -32005,3 +32005,11 @@ I need some guidance.	Ich brauche etwas Anleitung.	मुझे कुछ मा
 I need that medicine.	Ich brauche das Medikament.	मुझे वह दवा चाहिए।
 I need time to think.	Ich brauche Zeit zum Nachdenken.	मुझे समय चाहिए सोचने के लिए।
 I need to buy stamps.	Ich muss Briefmarken kaufen.	मुझे टिकट खरीदने की जरूरत है।
+I need to go to work.	Ich muss zur Arbeit gehen.	मुझे काम पर जाना है।
+I need to read a lot.	Ich muss viel lesen.	मुझे बहुत पढ़ना है।
+I need to study math.	Ich muss Mathematik studieren.	मुझे गणित पढ़ना है।
+I need you to listen.	Ich brauche, dass du zuhörst.	मुझे चाहिए कि तुम सुनो।
+I never asked for it.	Ich habe nie danach gefragt.	मैंने कभी इसके लिए नहीं मांगा।
+I never betrayed you.	Ich habe dich nie verraten.	मैंने कभी तुम्हें धोखा नहीं दिया।
+I never doubted that.	Ich habe daran nie gezweifelt.	मैंने उस पर कभी संदेह नहीं किया।
+I never drink coffee.	Ich trinke nie Kaffee.	मैं कभी कॉफ़ी नहीं पीता।
