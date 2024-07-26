@@ -29794,3 +29794,11 @@ What frightened Tom?	Was hat Tom erschreckt?	टॉम को क्या ड�
 What good are those?	Was nützen die?	वे कितने अच्छे हैं?
 What happened there?	Was geschah dort?	वहाँ क्या हुआ?
 What happened today?	Was ist heute passiert?	आज क्या हुआ?
+What have they done?	Was haben sie getan?	उन्होंने क्या किया है?
+What have you eaten?	Was hast du gegessen?	तुमने क्या खाया है?
+What have you taken?	Was hast du genommen?	तुमने क्या लिया है?
+What if Tom says no?	Was ist, wenn Tom Nein sagt?	अगर टॉम कहता है तो?
+What is for dessert?	Was gibt es zum Nachtisch?	मिठाई के लिए क्या है?
+What is in the desk?	Was ist im Schreibtisch?	डेस्क में क्या है?
+What is in this box?	Was ist in dieser Schachtel?	इस बक्से में क्या है?
+What is it now, Tom?	Was ist es jetzt, Tom?	अब क्या है, टॉम?

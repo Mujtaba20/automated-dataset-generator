@@ -1,14 +1,4 @@
 
-What have they done?	Was haben sie getan?	क्या कर डाले?
-What have you eaten?	Was habt ihr gegessen?	आपने क्या खाया?
-What have you taken?	Was hast du genommen?	आप क्या लेंगे?
-What if Tom says no?	Was, wenn Tom dagegen ist?	क्या होगा अगर टॉम इसके खिलाफ है?
-What is for dessert?	Was ist der Nachtisch?	मिठाई क्या है?
-What is for dessert?	Was gibt’s zum Nachtisch?	मिठाई क्या है?
-What is in the desk?	Was befindet sich in dem Schreibtisch?	डेस्क में क्या है?
-What is in the desk?	Was ist in dem Schreibtisch?	डेस्क में क्या है?
-What is in this box?	Was befindet sich in dieser Kiste?	इस बॉक्स में क्या है?
-What is it now, Tom?	Was ist jetzt schon wieder, Tom?	फिर से क्या है, टॉम?
 What is it you need?	Was brauchen Sie?	आपको किस चीज़ की जरूरत है?
 What is it you need?	Was brauchst du?	आपको किस चीज़ की जरूरत है?
 What is it you need?	Was braucht ihr?	आपको किस चीज़ की जरूरत है?
