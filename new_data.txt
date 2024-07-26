@@ -31889,3 +31889,12 @@ I like bright colors.	Ich mag kräftige Farben.	मुझे चमकदार 
 I like canned fruits.	Ich mag Konservenfrüchte.	मुझे सजीव फल पसंद हैं।
 I like chopping wood.	Ich mag es, Holz zu hacken.	मुझे लकड़ी काटना पसंद है।
 I like coffee better.	Ich mag Kaffee lieber.	मुझे कॉफ़ी अच्छी लगती है।
+I like country music.	Ich mag Country-Musik.	मुझे देशी संगीत पसंद है।
+I like her dark eyes.	Ich mag ihre dunklen Augen.	मुझे उसकी गहरी आंखें पसंद हैं।
+I like her very much.	Ich mag sie sehr.	मुझे उसे बहुत पसंद है।
+I like horror movies.	Ich mag Horrorfilme.	मुझे हॉरर फिल्में पसंद हैं।
+I like how you think.	Mir gefällt, wie du denkst.	मुझे ये पसंद है कि तुम कैसे सोचते हो।
+I like my steak rare.	Ich mag mein Steak blutig.	मुझे मेरा स्टेक नर्स किया हुआ पसंद है।
+I like our new coach.	Ich mag unseren neuen Trainer.	मुझे हमारे नए कोच पसंद हैं।
+I like painting, too.	Ich male auch gerne.	मुझे चित्रकला भी पसंद है।
+I like playing chess.	Ich spiele gerne Schach.	मुझे शतरंज खेलना पसंद है।

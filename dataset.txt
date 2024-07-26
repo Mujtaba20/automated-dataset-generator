@@ -1,15 +1,4 @@
 
-I like country music.	Ich mag Country.	मुझे देश पसंद है।
-I like her dark eyes.	Ich mag ihre dunklen Augen.	मुझे उसकी गहरी आँखें पसंद हैं।
-I like her very much.	Ich mag sie sehr.	मैं सच्च में उसे पसंद करता हुँ।
-I like her very much.	Ich mag sie sehr gerne.	मैं उसे बहुत पसंद करता हूँ।
-I like horror movies.	Ich mag Horrorfilme.	मुझे हॉरर फिल्में पसंद हैं।
-I like how you think.	Ich mag wie du denkst.	मुझे पसंद है कि आप कैसे सोचते हैं।
-I like my steak rare.	Ich mag mein Steak leicht angebraten.	मुझे अपना स्टेक थोड़ा तला हुआ पसंद है।
-I like our new coach.	Ich mag unseren neuen Betreuer.	मुझे हमारा नया पर्यवेक्षक पसंद है।
-I like painting, too.	Ich male auch gerne.	मुझे भी पेंट करना पसंद है।
-I like playing chess.	Ich spiele gerne Schach.	मुझे शतरंज खेलना पसंद है।
-I like playing chess.	Ich spiele gern Schach.	मुझे शतरंज खेलना पसंद है।
 I like rain and snow.	Ich mag Regen und Schnee.	मुझे बारिश और बर्फ पसंद है।
 I like reading books.	Ich lese gerne Bücher.	मैं किताबें पढ़ना पसंद करता हूं।
 I like silent movies.	Ich mag Stummfilme.	मुझे मूक फिल्में पसंद हैं।
