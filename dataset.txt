@@ -1,14 +1,4 @@
 
-I want to live forever.	Ich will für immer leben.	मैं हमेशा के लिए जीना चाहता हूं।
-I want to see it again.	Ich möchte es wiedersehen.	मैं इसे फिर से देखना चाहता हूं।
-I want to see it again.	Ich möchte es nochmal sehen.	मैं इसे फिर से देखना चाहता हूं।
-I want to speak French.	Ich will Französisch sprechen.	मैं फ्रेंच बोलना चाहता हूं।
-I want to speak to Tom.	Ich möchte mit Tom sprechen.	मैं टॉम से बात करना चाहता हूं।
-I want to speak to Tom.	Ich möchte gerne mit Tom sprechen.	मैं टॉम से बात करना चाहूंगा।
-I want to study French.	Ich will Französisch lernen.	मैं फ्रेंच सीखना चाहता हूं।
-I want to study French.	Ich möchte Französisch studieren.	मैं फ्रेंच का अध्ययन करना चाहता हूं।
-I want to study abroad.	Ich will im Ausland studieren.	मैं विदेश में अध्ययन करना चाहता हूं।
-I want to surprise him.	Ich will ihn überraschen.	मैं उसे आश्चर्यचकित करना चाहता हूं।
 I want to take a break.	Ich möchte eine Pause machen.	मैं एक ब्रेक लेना चाहता हूं।
 I want to wait for Tom.	Ich will auf Tom warten.	मैं टॉम का इंतजार करना चाहता हूं।
 I want to wash my hair.	Ich möchte mir die Haare waschen.	मैं अपने बाल धोना चाहता हूं।
