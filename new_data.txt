@@ -35315,3 +35315,12 @@ We're ready, I think.	Wir sind bereit, glaube ich.	मुझे लगता ह
 We're really married.	Wir sind wirklich verheiratet.	हम सच्चे में शादीशुदा हैं।
 We're soccer players.	Wir sind Fußballspieler.	हम फुटबॉल खिलाड़ी हैं।
 We're sorry about it.	Es tut uns leid dafür.	हमें इस बारे में खेद है।
+We're still the best.	Wir sind immer noch die Besten.	हम अभी भी सबसे अच्छे हैं।
+We're still together.	Wir sind immer noch zusammen.	हम अभी भी साथ हैं।
+We're studying music.	Wir studieren Musik.	हम संगीत पढ़ रहे हैं।
+We're the new owners.	Wir sind die neuen Besitzer.	हम नए मालिक हैं।
+We're too vulnerable.	Wir sind zu verletzlich.	हम बहुत ही अत्यधिक छूट देने वाले हैं।
+We're very different.	Wir sind sehr unterschiedlich.	हम बहुत अलग हैं।
+We're very skeptical.	Wir sind sehr skeptisch.	हम बहुत संदेहात्मक हैं।
+We've arrived safely.	Wir sind sicher angekommen.	हम सुरक्षित रूप से पहुंच गए हैं।
+We've got a question.	Wir haben eine Frage.	हमारे पास एक सवाल है।
