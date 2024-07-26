@@ -1,14 +1,4 @@
 
-Tom gave me a hint.	Tom gab mir einen Hinweis.	टॉम ने मुझे एक संकेत दिया।
-Tom gave me a wink.	Tom zwinkerte mir zu.	टॉम ने मुझ पर झपकी ली।
-Tom gave me advice.	Tom hat mich beraten.	टॉम ने मुझे सलाह दी।
-Tom gets up at six.	Tom steht um sechs auf.	टॉम छह से उठता है।
-Tom gives us money.	Tom gibt uns Geld.	टॉम हमें पैसे देता है।
-Tom goes to school.	Tom geht zur Schule.	टॉम स्कूल जाता है।
-Tom goes to school.	Tom geht in die Schule.	टॉम स्कूल जाता है।
-Tom got Mary drunk.	Tom hat Maria betrunken gemacht.	टॉम ने मारिया को नशे में बनाया।
-Tom got in the car.	Tom stieg in den Wagen.	टॉम कार में आ गया।
-Tom got me a watch.	Tom besorgte mir eine Uhr.	टॉम मुझे एक घड़ी मिल गई।
 Tom got on the bus.	Tom stieg in den Bus ein.	टॉम बस में मिला।
 Tom got out of bed.	Tom stand auf.	टॉम उठ गया।
 Tom got paid today.	Tom wurde heute bezahlt.	टॉम को आज भुगतान किया गया था।

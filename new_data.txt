@@ -23455,3 +23455,12 @@ Tom found your cap.	Tom fand dein Cap.	टॉमने तुम्हारी 
 Tom freed the bird.	Tom ließ den Vogel frei.	टॉमने उस चिड़ीया को छोड़ दिया।
 Tom froze to death.	Tom erstarrte zu Tode.	टॉम मरने के लिए जम गया।
 Tom gave me a book.	Tom gab mir ein Buch.	टॉमने मुझे एक पुस्तक दी।
+Tom gave me a hint.	Tom gab mir einen Hinweis.	टॉम ने मुझे एक संकेत दिया।
+Tom gave me a wink.	Tom zwinkerte mir zu.	टॉम ने मुझे एक इशारा किया।
+Tom gave me advice.	Tom gab mir einen Rat.	टॉम ने मुझे सलाह दी।
+Tom gets up at six.	Tom steht um sechs Uhr auf.	टॉम छह बजे उठता है।
+Tom gives us money.	Tom gibt uns Geld.	टॉम हमें पैसे देता है।
+Tom goes to school.	Tom geht zur Schule.	टॉम स्कूल जाता है।
+Tom got Mary drunk.	Tom hat Mary betrunken gemacht.	टॉम ने मैरी को नशे में कर दिया।
+Tom got in the car.	Tom stieg ins Auto.	टॉम गाड़ी में बैठ गया।
+Tom got me a watch.	Tom hat mir eine Uhr besorgt.	टॉम ने मुझे एक घड़ी दी।
