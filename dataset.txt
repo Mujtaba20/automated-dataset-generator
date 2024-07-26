@@ -1,15 +1,4 @@
 
-What are you baking?	Was bäckst du?	आप क्या पका रहे हैं?
-What are you baking?	Was backen Sie?	आप क्या सेंकते हैं?
-What are you eating?	Was isst du?	आप क्या खाते हैं?
-What are you having?	Was nimmst du?	आप क्या लेते हैं?
-What are you making?	Was fertigst du an?	आप क्या खत्म करते हैं?
-What are you making?	Was bastelst du?	आप क्या कर सकते हो?
-What are you saying?	Was sagst du?	आप क्या कह रहे हैं?
-What are your names?	Was sind eure Namen?	आपका नाम क्या हैं?
-What are your plans?	Welche Pläne habt ihr gefasst?	आपने क्या योजनाएं बनाई हैं?
-What are your plans?	Welche Pläne haben Sie gefasst?	आपने क्या योजनाएं बनाई हैं?
-What are your plans?	Welche Pläne hast du gefasst?	आपने क्या योजनाएं बनाई हैं?
 What can we do next?	Was können wir als nächstes tun?	हम आगे क्या कर सकते हैं?
 What caused the war?	Was war der Auslöser des Krieges?	युद्ध का ट्रिगर क्या था?
 What color are they?	Was für eine Farbe haben sie?	आपके पास क्या रंग है?

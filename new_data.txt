@@ -29758,3 +29758,10 @@ What are my choices?	Was sind meine Optionen?	मेरे विकल्प �
 What are they after?	Was wollen sie?	वे किसके पीछे हैं?
 What are they doing?	Was machen sie?	वे क्या कर रहे हैं?
 What are they up to?	Was haben sie vor?	वे क्या करने की सोच रहे हैं?
+What are you baking?	Was backst du?	तुम क्या बेकिंग कर रहे हो?
+What are you eating?	Was isst du?	तुम क्या खा रहे हो?
+What are you having?	Was hast du?	तुम क्या रखा है?
+What are you making?	Was kreierst du?	तुम क्या तैयारी कर रहे हो?
+What are you saying?	Was sagst du?	तुम क्या कह रहे हो?
+What are your names?	Wie heißen Sie?	तुम्हारे नाम क्या हैं?
+What are your plans?	Was plant ihr?	तुम्हारे योजनाएं क्या हैं?
