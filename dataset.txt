@@ -1,14 +1,4 @@
 
-Tom lost his house key.	Tom hat seinen Hausschlüssel verloren.	टॉम ने अपने घर की चाबी खो दी है।
-Tom lost his new watch.	Tom hat seine neue Uhr verloren.	टॉम ने अपनी नई घड़ी खो दी।
-Tom lost track of time.	Tom vergaß die Zeit.	टॉम समय भूल गया।
-Tom loved it in Boston.	Tom liebte es in Boston.	टॉम ने इसे बोस्टन में प्यार किया।
-Tom loves his children.	Tom liebt seine Kinder.	टॉम अपने बच्चों से प्यार करता है।
-Tom loves taking trips.	Tom verreist gerne.	टॉम को यात्रा करना पसंद है।
-Tom loves taking trips.	Tom fährt gerne weg.	टॉम को ड्राइव करना पसंद है।
-Tom loves what he does.	Tom liebt, was er macht.	टॉम प्यार करता है कि वह क्या करता है।
-Tom made a big mistake.	Tom machte einen großen Fehler.	टॉम ने एक बड़ी गलती की।
-Tom made a big mistake.	Tom hat einen großen Fehler gemacht.	टॉम ने एक बड़ी गलती की।
 Tom made a good choice.	Tom hat eine gute Wahl getroffen.	टॉम ने एक अच्छा विकल्प बनाया।
 Tom made a good speech.	Tom hielt eine gute Rede.	टॉम ने एक अच्छा भाषण दिया।
 Tom made a paper plane.	Tom machte einen Papierflieger.	टॉम ने एक पेपर प्लेन बनाया।
