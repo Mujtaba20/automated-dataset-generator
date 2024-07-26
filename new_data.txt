@@ -41443,3 +41443,9 @@ Which side are you on?	Auf welcher Seite stehst du?	तुम किस तर�
 Which theater is that?	Welches Theater ist das?	वह कौनसा थिएटर है?
 Who am I talking with?	Mit wem spreche ich?	मैं किससे बात कर रहा हूँ?
 Who are you afraid of?	Vor wem hast du Angst?	तुम किससे डरते हो?
+Who asked Tom to come?	Wer hat Tom gebeten zu kommen?	किसने टॉम से कहा कि आएं?
+Who asked you to help?	Wer hat dich um Hilfe gebeten?	किसने आपसे मदद करने के लिए कहा?
+Who broke this window?	Wer hat dieses Fenster zerbrochen?	किसने यह खिड़की तोड़ी?
+Who built the snowman?	Wer hat den Schneemann gebaut?	स्नोमैन कौन बनाया?
+Who called the police?	Wer hat die Polizei angerufen?	किसने पुलिस को बुलाया?
+Who closed the window?	Wer hat das Fenster geschlossen?	किसने खिड़की बंद की?

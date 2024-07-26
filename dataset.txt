@@ -1,14 +1,4 @@
 
-Who asked Tom to come?	Wer hat Tom gesagt, dass er kommen soll?	किसने कहा कि टॉम उसे आना चाहिए?
-Who asked you to help?	Wer hat dich um Hilfe gebeten?	किसने आपसे मदद मांगी?
-Who asked you to help?	Wer hat euch um Hilfe gebeten?	किसने आपसे मदद मांगी?
-Who asked you to help?	Wer hat Sie um Hilfe gebeten?	किसने मदद मांगी?
-Who broke this window?	Wer hat dieses Fenster kaputt gemacht?	इस खिड़की को किसने तोड़ दिया?
-Who built the snowman?	Wer hat den Schneemann gemacht?	स्नोमैन किसने बनाया?
-Who built the snowman?	Wer hat den Schneemann gebaut?	स्नोमैन किसने बनाया?
-Who called the police?	Wer hat die Polizei gerufen?	पुलिस को किसने बुलाया?
-Who closed the window?	Wer hat das Fenster geschlossen?	किसने खिड़की बंद की?
-Who closed the window?	Wer hat das Fenster zugemacht?	किसने खिड़की बंद की?
 Who did you come with?	Mit wem bist du gekommen?	आप किसके साथ आए थे?
 Who did you come with?	Mit wem sind Sie gekommen?	आप किसके साथ आए थे?
 Who did you come with?	Mit wem seid ihr gekommen?	आप किसके साथ आए थे?
