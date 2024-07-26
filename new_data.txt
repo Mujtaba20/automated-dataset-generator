@@ -25686,3 +25686,13 @@ He is a nice person.	Er ist eine nette Person.	वह एक अच्छे इ
 He is a rude person.	Er ist eine unhöfliche Person.	वह एक अकड़ा इंसान है।
 He is a woman hater.	Er hasst Frauen.	वह औरतों से नफरत करता है।
 He is about my size.	Er ist ungefähr meine Größe.	वह मेरे आकार का है।
+He is always joking.	Er macht immer Witze.	वह हमेशा मजाक करता है।
+He is always joking.1	Er scherzt immer.	वह हमेशा हंसता है।
+He is always scared.	Er hat immer Angst.	वह हमेशा डरता है।
+He is an honest man.	Er ist ein ehrlicher Mann.	वह ईमानदार आदमी है।
+He is angry with me.	Er ist wütend auf mich.	वह मुझसे नाराज़ है।
+He is at home today.	Er ist heute zu Hause.	वह आज घर पर है।
+He is at the office.	Er ist im Büro.	वह कार्यालय में है।
+He is doing penance.	Er büßt.	वह पश्चाताप कर रहा है।
+He is doing penance.1	Er betreibt Buße.	वह कष्ट कर रहा है।
+He is far from rich.	Er ist weit weg vom Reichtum.	वह धनी से दूर है।

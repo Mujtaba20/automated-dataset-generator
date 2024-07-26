@@ -1,14 +1,4 @@
 
-He is always joking.	Er macht ständig Witze.	वह हमेशा मजाक करता है।
-He is always joking.	Er scherzt immer herum.	वह हमेशा मजाक करता है।
-He is always scared.	Er hat immer Angst.	वह हमेशा डरता है।
-He is an honest man.	Er ist ein ehrlicher Mensch.	वह एक ईमानदार व्यक्ति है।
-He is angry with me.	Er ist wütend auf mich.	वह मुझसे नाराज है।
-He is at home today.	Er ist heute zu Hause.	वह आज घर पर है।
-He is at the office.	Er ist im Büro.	वह कार्यालय में है।
-He is doing penance.	Er tut Buße.	वह तपस्या करता है।
-He is doing penance.	Er streut sich Asche aufs Haupt.	वह सिर पर राख करता है।
-He is far from rich.	Er ist alles andere als reich.	वह कुछ भी है लेकिन अमीर है।
 He is good at rugby.	Er ist gut im Rugby.	वह रग्बी में अच्छा है।
 He is good at rugby.	Er spielt gut Rugby.	वह रग्बी अच्छी तरह से खेलता है।
 He is having dinner.	Er isst zu Abend.	वह रात का खाना खाता है।
