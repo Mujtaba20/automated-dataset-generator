@@ -1,14 +1,4 @@
 
-You're very talented.	Du bist sehr talentiert.	आप बहुत प्रतिभाशाली हैं।
-You're very talented.	Sie sind sehr begabt.	वे बहुत प्रतिभाशाली हैं।
-You're wasting water.	Du vergeudest Wasser.	आपने पानी का पूर्वाभ्यास किया।
-You're wasting water.	Sie verschwenden Wasser.	वे पानी बर्बाद करते हैं।
-You've been deceived.	Ihr seid reingelegt worden.	आपको अंदर रखा गया है।
-You've done it again.	Du hast es schon wieder getan!	आपने इसे फिर से किया है!
-You've done it again.	Ihr habt es schon wieder getan!	आपने इसे फिर से किया है!
-You've done it again.	Sie haben es schon wieder getan!	आपने इसे फिर से किया है!
-You've gained weight.	Du hast zugenommen.	आप वजन डालते हैं।
-You've got a problem.	Du hast ein Problem.	आपको एक समस्या है।
 You've got my helmet.	Du hast meinen Helm.	आपके पास मेरा हेलमेट है।
 You've got to go now.	Du musst jetzt gehen.	अब आपको जाना होगा।
 You've got willpower.	Sie haben Willensstärke.	आपके पास इच्छाशक्ति है।

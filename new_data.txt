@@ -35974,3 +35974,9 @@ You're unpredictable.	Du bist unvorhersehbar.	तुम बेतहाशा �
 You're untrustworthy.	Du bist unzuverlässig.	तुम अनापत्ति
 You're very arrogant.	Du bist sehr arrogant.	तुम बहुत घमंडी हो
 You're very generous.	Du bist sehr großzügig.	तुम बहुत उदार हो
+You're very talented.	Du bist sehr talentiert.	तुम बहुत प्रतिभाशाली हो।
+You're wasting water.	Du verschwendest Wasser.	तुम पानी बर्बाद कर रहे हो।
+You've been deceived.	Du bist betrogen worden.	तुम धोखा खा गए हो।
+You've done it again.	Du hast es wieder getan.	तुमने फिरसे यह किया है।
+You've gained weight.	Du hast zugenommen.	तुमने वजन बढ़ा लिया है।
+You've got a problem.	Du hast ein Problem.	तुम्हारे पास समस्या है।
