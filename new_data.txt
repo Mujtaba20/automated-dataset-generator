@@ -30617,3 +30617,10 @@ Didn't you notice it? (Different meaning 3)	Hast du das nicht bemerkt?	क्य
 Digging is hard work.	Grabarbeit ist harte Arbeit.	खोदना कठिन काम है।
 Dinner was delicious.	Das Abendessen war köstlich.	रात का खाना बहुत स्वादिष्ट था।
 Dinner was expensive.	Das Abendessen war teuer.	रात का खाना महंगा था।
+Dinner's in the oven.	Das Abendessen ist im Ofen.	रात का खाना ओवन में है।
+Do I have to I hurry?	Muss ich mich beeilen?	क्या मुझे जल्दी करनी है?
+Do I have to pay you?	Muss ich dich bezahlen?	क्या मुझे तुम्हें पैसे देने हैं?
+Do Tom and Mary know?	Wissen Tom und Mary Bescheid?	क्या टॉम और मेरी को पता है?
+Do black holes exist?	Existieren Schwarze Löcher?	क्या काले गड्ढे मौजूद हैं?
+Do come and visit us.	Komm und besuche uns.	हमें जरूर मिलने आना।
+Do come by all means.	Kommen Sie auf jeden Fall vorbei.	ज़रूर आना।
