@@ -25205,3 +25205,8 @@ Can he speak French?	Kann er Französisch sprechen?	क्या वह फ्�
 Can someone help me?	Kann jemand mir helfen?	क्या कोई मुझे मदद कर सकता है?
 Can we believe that?	Können wir das glauben?	क्या हम उस पर विश्वास कर सकते हैं?
 Can we believe them?	Können wir ihnen glauben?	क्या हम उन पर विश्वास कर सकते हैं?
+Can we count on you?	Können wir auf dich zählen?	क्या हम आप पर निर्भर कर सकते हैं?
+Can we just go home?	Können wir einfach nach Hause gehen?	क्या हम बस घर जा सकते हैं?
+Can you bake a cake?	Kannst du einen Kuchen backen?	क्या आप एक केक बना सकते हैं?
+Can you contact Tom?	Kannst du Tom kontaktieren?	क्या आप टॉम से संपर्क कर सकते हैं?
+Can you cook a meal?	Kannst du eine Mahlzeit kochen?	क्या आप एक भोजन पका सकते हैं?
