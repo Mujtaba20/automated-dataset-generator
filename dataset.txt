@@ -1,15 +1,4 @@
 
-Close the door, please.	Schließ bitte die Tür.	कृपया दरवाज़ा बंद करें।
-Close the door, please.	Schließt bitte die Tür.	कृपया दरवाज़ा बंद करें।
-Close the door, please.	Bitte schließen Sie die Tür.	कृपया दरवाज़ा बंद करें।
-Close the door, please.	Bitte schließ die Tür.	कृपया दरवाज़ा बंद करें।
-Close the door, please.	Mach bitte die Tür zu.	कृपया दरवाज़ा बंद करें।
-Close the refrigerator.	Mach den Kühlschrank zu.	रेफ्रिजरेटर को बंद करें।
-Come and dance with me.	Komm und tanz mit mir!	आओ और मेरे साथ नाचो!
-Come here and sit down.	Komm hierher und setz dich hin.	यहाँ आओ और बैठ जाओ।
-Come on, I'll show you.	Komm! Ich zeig’s dir.	आना!मैं इसे आपको दिखाता हूं।
-Come on, I'll show you.	Kommen Sie! Ich zeig’s Ihnen.	आना!मैं उन्हें दिखाता हूं।
-Come on, I'll show you.	Kommt! Ich zeig’s euch.	आता है!मैं आपको दिखाता हूँ।
 Come on, give it a try.	Komm jetzt, probier’s doch!	अब आओ, इसे आज़माओ!
 Come on, give it to me.	Nun gib es schon her!	अब इसे छोड़ दो!
 Come on, you can do it.	Hör mal, das kannst du doch!	सुनो, तुम कर सकते हो!
