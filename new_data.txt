@@ -29431,3 +29431,12 @@ Tom will come early.	Tom wird früh kommen.	टॉम जल्दी आएग�
 Tom will come later.	Tom wird später kommen.	टॉम बाद में आएगा।
 Tom will follow you.	Tom wird dir folgen.	टॉम तुम्हारा पीछा करेगा।
 Tom will go as well.	Tom wird auch gehen.	टॉम भी जाएगा।
+Tom will leave soon.	Tom wird bald gehen.	टॉम जल्दी जाएगा।
+Tom will look at it.	Tom wird es betrachten.	टॉम इस पर देखेगा।
+Tom will never know.	Tom wird nie wissen.	टॉम कभी नहीं जानेगा।
+Tom will never stop.	Tom wird niemals aufhören.	टॉम कभी नहीं रुकेगा।
+Tom will not starve.	Tom wird nicht hungern.	टॉम भूखा नहीं मरेगा।
+Tom will soon leave.	Tom wird bald gehen.	टॉम जल्दी जाएगा।
+Tom will understand.	Tom wird verstehen.	टॉम समझेगा।
+Tom wiped the table.	Tom wischte den Tisch ab.	टॉम ने मेज साफ की।
+Tom wishes he'd won.	Tom wünscht, er hätte gewonnen.	टॉम की इच्छा है कि उसने जीता होता।

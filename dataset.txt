@@ -1,14 +1,4 @@
 
-Tom will leave soon.	Tom wird bald gehen.	टॉम जल्द ही जाएगा।
-Tom will leave soon.	Tom reist bald ab.	टॉम जल्द ही चले जाएंगे।
-Tom will look at it.	Tom wird es sich anschauen.	टॉम इसे देखेंगे।
-Tom will never know.	Tom wird es nie wissen.	टॉम कभी नहीं जान पाएंगे।
-Tom will never stop.	Tom wird nie aufhören.	टॉम कभी नहीं रुकेंगे।
-Tom will not starve.	Tom wird nicht verhungern.	टॉम भूखा नहीं होगा।
-Tom will soon leave.	Tom reist bald ab.	टॉम जल्द ही चले जाएंगे।
-Tom will understand.	Tom möchte verstehen.	टॉम समझना चाहता है।
-Tom wiped the table.	Tom wischte den Tisch ab.	टॉम ने मेज को मिटा दिया।
-Tom wishes he'd won.	Tom wünscht sich, er hätte gewonnen.	टॉम की इच्छा है कि वह जीता।
 Tom woke up at 6:30.	Tom wachte um halb sieben auf.	टॉम पिछले नौ में आधा हो गया।
 Tom woke up at 6:30.	Tom erwachte um 6.30 Uhr.	टॉम सुबह 6.30 बजे जाग गए।
 Tom won first prize.	Tom hat den ersten Preis gewonnen.	टॉम ने पहला पुरस्कार जीता।
