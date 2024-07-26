@@ -1,14 +1,4 @@
 
-I bought a basketball.	Ich habe einen Basketball gekauft.	मैंने एक बास्केटबॉल खरीदा।
-I bought a dictionary.	Ich habe ein Wörterbuch gekauft.	मैंने एक शब्दकोश खरीदा।
-I bought a dictionary.	Ich habe mir ein Wörterbuch gekauft.	मैंने एक शब्दकोश खरीदा।
-I bought a few stamps.	Ich kaufte ein paar Briefmarken.	मैंने कुछ टिकट खरीदे।
-I bought a few stamps.	Ich habe ein paar Briefmarken gekauft.	मैंने कुछ टिकट खरीदे।
-I bought a glass vase.	Ich habe eine Glasvase gekauft.	मैंने एक ग्लास फूलदान खरीदा।
-I bought a used truck.	Ich kaufte mir einen gebrauchten LKW.	मैंने एक इस्तेमाल किया ट्रक खरीदा।
-I bought it yesterday.	Ich habe es gestern gekauft.	मैंने इसे कल खरीदा।
-I bought this for you.	Ich kaufte das für dich.	मैंने तुम्हारे लिए खरीदा था।
-I broke my leg skiing.	Ich hab mir beim Skifahren das Bein gebrochen.	स्कीइंग करते समय मैंने अपना पैर तोड़ दिया।
 I brought you flowers.	Ich habe dir Blumen mitgebracht.	मैं तुम्हें अपने साथ फूल ले आया।
 I brought you flowers.	Ich habe euch Blumen mitgebracht.	मैं तुम्हें अपने साथ फूल ले आया।
 I brought you flowers.	Ich habe Ihnen Blumen mitgebracht.	मैं उन्हें अपने साथ फूल ले आया।

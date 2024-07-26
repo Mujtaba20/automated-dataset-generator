@@ -37117,3 +37117,13 @@ I believe Tom can win.	Ich glaube, Tom kann gewinnen.	मुझे लगता 
 I believe in miracles.	Ich glaube an Wunder.	मैं चमत्कारों में विश्वास रखता हूँ।
 I believe it's a myth.	Ich glaube, es ist ein Mythos.	मुझे लगता है कि यह एक पौराणिक कथा है।
 I bet you know French.	Ich wette, du sprichst Französisch.	मैं आपसे बहुमत लगाता हूँ कि आप फ्रेंच बोलते हो।
+engSentence1	Ich habe einen Basketball gekauft.	मैंने एक बास्केटबॉल खरीदा।
+engSentence2	Ich habe ein Wörterbuch gekauft.	मैंने एक शब्दकोश खरीदा।
+engSentence3	Ich habe ein Lexikon gekauft.	मैंने एक शब्दकोश खरीदा।
+engSentence4	Ich habe ein paar Briefmarken gekauft.	मैंने कुछ टिकट खरीदे।
+engSentence5	Ich habe ein paar Marken gekauft.	मैंने कुछ टिकट खरीदे।
+engSentence6	Ich habe eine Glasvase gekauft.	मैंने एक कांच का फूलदान खरीदा।
+engSentence7	Ich habe einen gebrauchten Lastwagen gekauft.	मैंने एक पुराना ट्रक खरीदा।
+engSentence8	Ich habe es gestern gekauft.	मैंने यह कल खरीदा था।
+engSentence9	Ich habe das für dich gekauft.	मैंने यह तुम्हारे लिए खरीदा।
+engSentence10	Ich habe mir beim Skifahren das Bein gebrochen.	मैंने स्की के दौरान अपनी टांग तोड़ दी।
