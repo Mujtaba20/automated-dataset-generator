@@ -1,18 +1,4 @@
 
-What is that smell?	Was ist das für ein Geruch?	वह किस तरह की गंध है?
-What is that thing?	Was ist das Ding?	क्या बात है?
-What is this about?	Um was geht es hierbei?	इसके बारे में क्या है?
-What is this thing?	Was ist dieses Ding?	क्या बात है?
-What makes you cry?	Warum weinst du?	क्यों रो रही हो?
-What month is this?	Welchen Monat haben wir?	आप पढ़ाई कब करते हो?
-What more can I do?	Was kann ich sonst noch tun?	और क्या किया जा सकता है?
-What more is there?	Was gibt’s noch?	अब क्या शेष है?
-What motivated you?	Was trieb dich an?	आपको क्या चलाया?
-What motivated you?	Was trieb euch an?	आपको क्या चलाया?
-What motivated you?	Was trieb Sie an?	उसे क्या किया?
-What motivated you?	Was hat euch angetrieben?	आपने क्या किया?
-What motivated you?	Was hat dich angetrieben?	आपको क्या चलाया?
-What motivated you?	Was hat Sie angetrieben?	आपने क्या ड्राइव किया?
 What should I wear?	Was soll ich anziehen?	मुझे क्या पहनना चाहिए?
 What should Tom do?	Was sollte Tom tun?	टॉम को क्या करना चाहिए?
 What spices do use?	Was für Gewürze benutzt du?	आप किन मसालों का उपयोग करते हैं?

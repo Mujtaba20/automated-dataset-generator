@@ -24532,3 +24532,12 @@ What is hemoglobin?	Was ist Hämoglobin?	हीमोग्लोबिन क�
 What is in the box?	Was ist in der Box?	बक्से में क्या है?
 What is it made of?	Woraus ist es gemacht?	यह किससे बना है?
 What is over there?	Was ist da drüben?	वहाँ क्या है?
+What is that smell?	Was ist das für ein Geruch?	वह क्या गंध है?
+What is that thing?	Was ist das für ein Ding?	वह क्या वस्तु है?
+What is this about?	Worum geht es hier?	यह किस बारे में है?
+What is this thing?	Was ist das für ein Ding?	यह क्या वस्तु है?
+What makes you cry?	Was lässt dich weinen?	तुम्हें रोने पर मजबूर क्यों करता है?
+What month is this?	Welcher Monat ist das?	यह कौनसा महीना है?
+What more can I do?	Was kann ich noch tun?	मैं क्या और कर सकता हूं?
+What more is there?	Was gibt es noch?	और क्या है?
+What motivated you?	Was hat dich motiviert?	तुम्हें क्या प्रेरित किया?
