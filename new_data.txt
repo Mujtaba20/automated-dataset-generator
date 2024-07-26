@@ -29765,3 +29765,12 @@ What are you making?	Was kreierst du?	तुम क्या तैयारी 
 What are you saying?	Was sagst du?	तुम क्या कह रहे हो?
 What are your names?	Wie heißen Sie?	तुम्हारे नाम क्या हैं?
 What are your plans?	Was plant ihr?	तुम्हारे योजनाएं क्या हैं?
+What can we do next?	Was können wir als nächstes tun?	हम अगला क्या कर सकते हैं?
+What caused the war?	Was hat den Krieg verursacht?	युद्ध किसने पैदा किया?
+What color are they?	Welche Farbe haben sie?	वे किस रंग के हैं?
+What color are they? - different meaning	Welche Farbe sind sie tragen?	वे किस रंग के कपड़े पहनते हैं?
+What did I do wrong?	Was habe ich falsch gemacht?	मैंने क्या गलत किया?
+What did Tom get me?	Was hat Tom mir gebracht?	टॉम ने मुझे क्या दिया?
+What did he ask you?	Was hat er dich gefragt?	उसने तुमसे क्या पूछा?
+What did he look up?	Was hat er nachgeschlagen?	उसने पूछा क्या?
+What did you answer?	Was hast du geantwortet?	तुमने क्या जवाब दिया?
