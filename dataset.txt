@@ -1,14 +1,4 @@
 
-Do you write in Arabic?	Kannst du arabisch schreiben?	क्या आप अरबी लिख सकते हैं?
-Do you write in French?	Schreibst du auf Französisch?	क्या आप फ्रेंच में लिखते हैं?
-Does Tom drive to work?	Fährt Tom zur Arbeit?	क्या टॉम काम करने के लिए ड्राइव करता है?
-Does Tom have a secret?	Hat Tom ein Geheimnis?	क्या टॉम के पास एक रहस्य है?
-Does Tom have a sister?	Hat Tom eine Schwester?	क्या टॉम की एक बहन है?
-Does Tom have a tattoo?	Hat Tom eine Tätowierung?	क्या टॉम में एक टैटू है?
-Does Tom have a tattoo?	Ist Tom tätowiert?	क्या टॉम टैटू है?
-Does Tom have children?	Hat Tom Kinder?	क्या टॉम के बच्चे हैं?
-Does Tom know about it?	Weiß Tom davon?	क्या टॉम इसके बारे में जानता है?
-Does Tom know anything?	Weiß Tom etwas?	क्या टॉम कुछ जानता है?
 Does Tom know you know?	Weiß Tom, dass du es weißt?	टॉम जानता है कि आप जानते हैं?
 Does Tom like baseball?	Mag Tom Baseball?	क्या टॉम बेसबॉल पसंद करता है?
 Does Tom like broccoli?	Mag Tom Broccoli?	मैग टॉम ब्रोकोली?
