@@ -33121,3 +33121,13 @@ My headache has gone.	Mein Kopf tut nicht mehr weh.	मेरा सिरदर
 My heart is pounding.	Mein Herz klopft.	मेरा दिल धड़क रहा है।
 My home is my castle.	Mein Zuhause ist meine Festung.	मेरा घर मेरी किला है।
 My home is your home.	Mein Zuhause ist dein Zuhause.	मेरा घर तुम्हारा घर है।
+My house burned down	Mein Haus ist abgebrannt.	मेरा घर जल गया।
+My house was on fire	Mein Haus stand in Flammen.	मेरे घर में आग लगी थी।
+My jeans have shrunk	Meine Jeans sind eingelaufen.	मेरे जीन्स श्रिंक हो गये हैं।
+My left hand is numb	Meine linke Hand ist taub.	मेरा बायां हाथ सुन्न हो गयी है।
+My life is in danger	Mein Leben ist in Gefahr.	मेरी जिंदगी ख़तरे में है।
+My life is so boring	Mein Leben ist so langweilig.	मेरी जिंदगी इतनी उबाऊ है।
+My memory is failing	Mein Gedächtnis schwindet.	मेरी यादाश्त कमज़ोर हो रही है।
+My mother can't come	Meine Mutter kann nicht kommen.	मेरी माँ नहीं आ सकती।
+My mother cooks well	Meine Mutter kocht gut.	मेरी माँ अच्छे खाना बनाती है।
+My mother is a nurse	Meine Mutter ist Krankenschwester.	मेरी माँ नर्स हैं।

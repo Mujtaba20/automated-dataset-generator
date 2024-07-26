@@ -1,14 +1,4 @@
 
-My house burned down.	Mein Haus ist abgebrannt.	मेरा घर जल गया।
-My house was on fire.	Mein Haus brannte.	मेरा घर जल गया।
-My jeans have shrunk.	Meine Jeans sind eingelaufen.	मेरी जींस अंदर भाग गई है।
-My left hand is numb.	Meine linke Hand ist taub.	मेरा बाएं हाथ बहरा है।
-My life is in danger.	Mein Leben ist in Gefahr.	मेरा जीवन खतरे में है।
-My life is so boring.	Mein Leben ist so langweilig.	मेरा जीवन बहुत उबाऊ है।
-My memory is failing.	Mein Gedächtnis lässt mich im Stich.	मेरी स्मृति मुझे निराश करती है।
-My mother can't come.	Meine Mutter kann nicht kommen.	मेरी माँ नहीं आ सकती।
-My mother cooks well.	Meine Mutter kocht gut.	मेरी माँ अच्छी तरह से पकती है।
-My mother is a nurse.	Meine Mutter ist Krankenschwester.	मेरी मां एक नर्स है।
 My mother is at home.	Meine Mutter ist zu Hause.	मेरी माँ घर पर है।
 My motorcycle is new.	Mein Motorrad ist neu.	मेरी मोटरसाइकिल नई है।
 My old dress is blue.	Mein altes Kleid ist blau.	मेरी पुरानी पोशाक नीली है।
