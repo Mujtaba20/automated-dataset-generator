@@ -1,14 +1,4 @@
 
-How was the math test?	Wie war der Mathetest?	गणित की परीक्षा कैसी थी?
-How was the math test?	Wie war die Mathearbeit?	गणित का काम कैसा था?
-How was the math test?	Wie war die Matheprüfung?	गणित की परीक्षा कैसी थी?
-How was the math test?	Wie war die Matheklausur?	गणित प्रमुख कैसा था?
-How was the reception?	Wie war der Empfang?	रिसेप्शन कैसा था?
-How was your birthday?	Wie war dein Geburtstag?	कैसे अपका जन्मदिन था?
-How will you help Tom?	Wie willst du Tom helfen?	आप टॉम की मदद कैसे करना चाहते हैं?
-How're you doing, Tom?	Wie geht es dir, Tom?	आप कैसे हैं, टॉम?
-I accept your apology.	Ich nehme deine Entschuldigung an.	मुझे आपकी माफी मंज़ूर है।
-I accept your apology.	Ich akzeptiere Ihre Entschuldigung.	मुझे आपकी माफी मंज़ूर है।
 I admire your bravery.	Ich bewundere deine Tapferkeit.	मैं आपकी बहादुरी की प्रशंसा करता हूं।
 I admire your bravery.	Ich bewundere Ihre Tapferkeit.	मैं आपकी बहादुरी की प्रशंसा करता हूं।
 I admire your bravery.	Ich bewundere eure Tapferkeit.	मैं आपकी बहादुरी की प्रशंसा करता हूं।

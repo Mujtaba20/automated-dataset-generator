@@ -37063,3 +37063,9 @@ How old is this piano?	Wie alt ist dieses Klavier?	यह पियानो क
 How old is this stuff?	Wie alt ist dieser Kram?	यह सामान कितने वर्ष का है?
 How old is your uncle?	Wie alt ist dein Onkel?	तुम्हारे चाचा कितने साल के हैं?
 How old were you then?	Wie alt waren Sie zu der Zeit?	तब तुम कितने वर्ष की थे?
+How was the math test?	Wie lief der Mathe-Test?	मैथ टेस्ट कैसा था?
+How was the reception?	Wie war der Empfang?	रिसेप्शन कैसा था?
+How was your birthday?	Wie war dein Geburtstag?	तुम्हारा जन्मदिन कैसा था?
+How will you help Tom?	Wie wirst du Tom helfen?	तुम टॉम की मदद कैसे करोगे?
+How're you doing, Tom?	Wie geht's dir, Tom?	तोम, तुम कैसे हो?
+I accept your apology.	Ich akzeptiere deine Entschuldigung.	मैं तुम्हारी माफी स्वीकार करता हूँ.
