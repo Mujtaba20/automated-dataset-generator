@@ -31969,3 +31969,13 @@ I messed up big time.	Ich habe es total vermasselt.	मैंने बहुत
 I met Mary yesterday.	Gestern habe ich Maria getroffen.	कल मैंने मेरी से मिली।
 I met Tom at a party.	Ich habe Tom auf einer Party getroffen.	मैंने एक पार्टी में टॉम से मिला।
 I met Tom in college.	Ich traf Tom am College.	कॉलेज में मैंने टॉम से मिला।
+I met Tom on the way.	Ich traf Tom auf dem Weg.	मैंने वहाँ टॉम से मिला।
+I met a friend there.	Ich traf einen Freund dort.	मैंने वहाँ एक दोस्त से मिला।
+I met him about noon.	Ich traf ihn gegen Mittag.	मैंने उससे दोपहर के बारे में मिला।
+I met him in January.	Ich traf ihn im Januar.	मैंने उससे जनवरी में मिला।
+I might vote for Tom.	Ich könnte für Tom stimmen.	मैं टॉम के लिए वोट कर सकता हूँ।
+I might vote for Tom. (Different meaning)	Ich könnte Tom wählen.	मैं टॉम को चुन सकता हूँ।
+I miss Tom's cooking.	Ich vermisse Toms Kochkünste.	मुझे टॉम के पकाने की कला की याद आती है।
+I miss you very much.	Ich vermisse dich sehr.	मुझे तुम्हारी बहुत याद आती है।
+I miss you very much. (Different meaning)	Mir fehltst du sehr.	मुझे तुम्हें बहुत याद कर रहा है।
+I missed you and Tom.	Ich habe dich und Tom vermisst.	मुझे तुम्हारी और टॉम की याद आई।
