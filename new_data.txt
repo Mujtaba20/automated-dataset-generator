@@ -34275,3 +34275,12 @@ Tom has lost control.	Tom hat die Kontrolle verloren.	टॉम ने निय
 Tom has lost his job.	Tom hat seinen Job verloren.	टॉम ने अपनी नौकरी गवा दी है।
 Tom has lots of time.	Tom hat viel Zeit.	टॉम के पास बहुत समय है।
 Tom has many enemies.	Tom hat viele Feinde.	टॉम के कई दुश्मन हैं।
+Tom has many friends.	Tom hat viele Freunde.	टॉम के बहुत सारे दोस्त हैं।
+Tom has many talents.	Tom hat viele Talente.	टॉम के कई प्रतिभाएँ हैं।
+Tom has no allergies.	Tom hat keine Allergien.	टॉम को कोई एलर्जी नहीं है।
+Tom has no authority.	Tom hat keine Autorität.	टॉम का कोई अधिकार नहीं है।
+Tom has no neighbors.	Tom hat keine Nachbarn.	टॉम के कोई पड़ोसी नहीं हैं।
+Tom has one of those.	Tom hat so etwas.	उसमें से एक टॉम का है।
+Tom has quit smoking.	Tom hat mit dem Rauchen aufgehört.	टॉम ने सिगरेट पीना छोड़ दिया है।
+Tom has seen it, too.	Tom hat es auch gesehen.	टॉम ने भी उसे देखा है।
+Tom has strong hands.	Tom hat kräftige Hände.	टॉम के सशक्त हाथ हैं।

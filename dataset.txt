@@ -1,14 +1,4 @@
 
-Tom has many friends.	Tom hat viele Freunde.	टॉम के कई दोस्त हैं।
-Tom has many talents.	Tom hat viele Talente.	टॉम के पास कई प्रतिभाएं हैं।
-Tom has no allergies.	Tom hat keine Allergien.	टॉम को कोई एलर्जी नहीं है।
-Tom has no authority.	Tom hat keine Autorität.	टॉम का कोई अधिकार नहीं है।
-Tom has no neighbors.	Tom hat keine Nachbarn.	टॉम के पास कोई पड़ोसी नहीं है।
-Tom has one of those.	Tom hat einen von denen.	टॉम उनमें से एक है।
-Tom has quit smoking.	Tom hat mit dem Rauchen aufgehört.	टॉम ने धूम्रपान करना बंद कर दिया।
-Tom has seen it, too.	Tom hat es auch gesehen.	टॉम ने भी इसे देखा।
-Tom has strong hands.	Tom hat kräftige Hände.	टॉम के मजबूत हाथ हैं।
-Tom has strong hands.	Tom hat starke Hände.	टॉम के मजबूत हाथ हैं।
 Tom has things to do.	Tom hat Dinge zu tun.	टॉम के पास करने के लिए चीजें हैं।
 Tom has three nieces.	Tom hat drei Nichten.	टॉम में तीन भतीजी हैं।
 Tom has three uncles.	Tom hat drei Onkel.	टॉम के तीन चाचा हैं।
