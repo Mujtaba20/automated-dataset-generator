@@ -33794,3 +33794,12 @@ They found something.	Sie haben etwas gefunden.	उन्होंने कु�
 They get along great.	Sie kommen gut miteinander aus.	उन्हें एक दूसरे से अच्छा समझते हैं।
 They grew frustrated.	Sie wurden frustriert.	उनका इतराया।
 They grow fruit here.	Hier wachsen Früchte.	यहाँ फल उगते हैं।
+They had fun with us.	Sie haben sich mit uns amüsiert.	उन्होंने हमारे साथ मज़ा किया।
+They had no children.	Sie hatten keine Kinder.	उनके पास कोई बच्चे नहीं थे।
+They hate each other.	Sie hassen sich gegenseitig.	वे एक-दूसरे से नफरत करते हैं।
+They have lost a lot.	Sie haben viel verloren.	उन्होंने बहुत कुछ खो दिया है।
+They headed westward.	Sie fuhren nach Westen.	वे पश्चिम की ओर तिरछे हो गए।
+They knew each other.	Sie kannten sich.	उन्हें एक-दूसरे को पहचाना।
+They know everything.	Sie wissen alles.	उन्हें सब कुछ पता है।
+They know we're here.	Sie wissen, dass wir hier sind.	उन्हें पता है कि हम यहाँ हैं।
+They laughed quietly.	Sie lachten leise.	उन्होंने धीरे-धीरे हँसी।
