@@ -31928,3 +31928,13 @@ I liked your comment. (Different Meaning)	Ich mochte deinen Kommentar.	मुझ
 I listened carefully.	Ich habe aufmerksam zugehört.	मैंने ध्यान से सुना।
 I live a simple life.	Ich lebe ein einfaches Leben.	मैं एक सरल जीवन जीता हूँ।
 I live and work here.	Ich lebe und arbeite hier.	मैं यहाँ रहता और काम करता हूँ।
+I live in a big city.	Ich lebe in einer großen Stadt.	मैं एक बड़े शहर में रहता हूँ।
+I live in this hotel.	Ich lebe in diesem Hotel.	मैं इस होटल में रहता हूँ।
+I look forward to it.	Ich freue mich darauf.	मैं इसके लिए उत्साहित हूँ।
+I looked at my notes.	Ich schaute mir meine Notizen an.	मैंने अपने नोट्स देखे।
+I looked back at Tom.	Ich sah mich nach Tom um.	मैंने टॉम की तरफ देखा।
+I looked for my room.	Ich suchte nach meinem Zimmer.	मैंने अपने कमरे की तलाश की।
+I looked for the key.	Ich suchte nach dem Schlüssel.	मैंने चाबी की तलाश की।
+I lost consciousness.	Ich verlor das Bewusstsein.	मैं होश खो गया।
+I lost my sunglasses.	Ich verlor meine Sonnenbrille.	मैंने अपनी धूप की चश्मा खो दी।
+I lost track of time.	Ich verlor das Zeitgefühl.	मैंने समय का पता खो दिया।

@@ -1,14 +1,4 @@
 
-I live in a big city.	Ich wohne in einer großen Stadt.	मैं एक बड़े शहर में रहता हूं।
-I live in this hotel.	Ich wohne in diesem Hotel.	मैं इस होटल में रहता हूं।
-I look forward to it.	Ich freue mich darauf.	मुझे इसकी आशा है।
-I looked at my notes.	Ich betrachtete meine Notizen.	मैंने अपने नोट्स को देखा।
-I looked back at Tom.	Ich drehte mich nach Tom um.	मैं टॉम की ओर मुड़ा।
-I looked for my room.	Ich suchte mein Zimmer.	मैं अपने कमरे की तलाश में था।
-I looked for the key.	Ich suchte den Schlüssel.	मैं चाबी की तलाश कर रहा था।
-I lost consciousness.	Ich verlor das Bewusstsein.	मैंने चेतना खो दी।
-I lost my sunglasses.	Ich habe meine Sonnenbrille verloren.	मैंने अपने धूप का चश्मा खो दिया।
-I lost track of time.	Ich habe völlig die Zeit vergessen.	मैं पूरी तरह से समय भूल गया।
 I love French coffee.	Ich liebe französischen Kaffee.	मुझे फ्रेंच कॉफी बहुत पसंद है।
 I love French movies.	Ich liebe französische Filme.	मुझे फ्रेंच फिल्में बहुत पसंद हैं।
 I love green peppers.	Ich liebe grüne Paprika.	मुझे हरी मिर्च बहुत पसंद है।
