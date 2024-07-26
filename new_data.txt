@@ -35652,3 +35652,10 @@ Why did you kiss Tom?	Warum hast du Tom geküsst?	तुमने टॉम क�
 Why did you buy this? (different meaning)	Warum kaufst du das?	तुम यह क्यों खरीद रहे हो?
 Why did you go there? (different meaning)	Warum gehst du dorthin?	तुम वहाँ क्यों जा रहे हो?
 Why did you kill Tom? (different meaning)	Warum wirst du Tom töten?	तुम टॉम को क्यों मारने वाले हो?
+Why did you move out?	Warum bist du ausgezogen?	तुम क्यों बाहर चले गए?
+Why did you pick Tom?	Warum hast du Tom ausgewählt?	तुमने टॉम को क्यों चुना?
+Why did you run away?	Warum bist du weggelaufen?	तुमने क्यों भाग लिया?
+Why didn't you do it?	Warum hast du es nicht gemacht?	तुमने यह क्यों नहीं किया?
+Why did you move out? (different meaning)	Warum seid ihr umgezogen?	तुमने क्यों घर बदला?
+Why did you pick Tom? (different meaning)	Warum hast du Tom abgeholt?	तुमने टॉम क्यों चुना?
+Why did you run away? (different meaning)	Warum bist du weggelaufen?	तुमने क्यों कूद गए?

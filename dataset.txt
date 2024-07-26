@@ -1,19 +1,4 @@
 
-Why did you move out?	Warum bist du ausgezogen?	आपने क्यों उतार दिया?
-Why did you move out?	Warum seid ihr ausgezogen?	आप बाहर क्यों गए?
-Why did you move out?	Warum sind Sie ausgezogen?	आप बाहर क्यों गए?
-Why did you pick Tom?	Warum hast du Tom genommen?	आप टॉम क्यों ले गए?
-Why did you pick Tom?	Warum habt ihr Tom genommen?	आप टॉम क्यों ले गए?
-Why did you pick Tom?	Warum haben Sie Tom genommen?	आप टॉम क्यों ले गए?
-Why did you run away?	Warum bist du weggelaufen?	आप क्यों भाग गए?
-Why did you run away?	Warum seid ihr weggelaufen?	आप क्यों भाग गए?
-Why did you run away?	Warum sind Sie weggelaufen?	आप क्यों भाग गए?
-Why didn't you do it?	Warum hast du das nicht getan?	आपने ऐसा क्यों नहीं किया?
-Why didn't you do it?	Warum habt ihr das nicht getan?	आपने ऐसा क्यों नहीं किया?
-Why didn't you do it?	Warum haben Sie das nicht getan?	आपने ऐसा क्यों नहीं किया?
-Why didn't you do it?	Warum hast du das nicht gemacht?	आपने ऐसा क्यों नहीं किया?
-Why didn't you do it?	Warum habt ihr das nicht gemacht?	आपने ऐसा क्यों नहीं किया?
-Why didn't you do it?	Warum haben Sie das nicht gemacht?	आपने ऐसा क्यों नहीं किया?
 Why do I even bother?	Warum mache ich mir überhaupt die Mühe?	मैं परेशानी क्यों लेता हूं?
 Why do stars twinkle?	Warum funkeln die Sterne?	सितारे क्यों चमकते हैं?
 Why do stars twinkle?	Warum flimmern die Sterne?	सितारे झिलमिलाहट क्यों करते हैं?
