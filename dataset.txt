@@ -1,14 +1,4 @@
 
-Is it an emergency?	Ist es ein Notfall?	क्या यह आपातकालीन स्थिति है?
-Is it cold outside?	Ist es draußen kalt?	बाहर ठंड है?
-Is it five already?	Ist es schon fünf?	क्या यह पहले से ही पांच है?
-Is it large enough?	Ist es groß genug?	क्या यह काफी बड़ा है?
-Is it made of iron?	Ist das aus Eisen?	क्या वह लोहे से बना है?
-Is it that serious?	Ist es etwas Ernstes?	क्या यह कुछ गंभीर है?
-Is it worth fixing?	Lohnt sich eine Reparatur?	क्या यह मरम्मत के लायक है?
-Is she coming, too?	Kommt sie auch?	क्या वह भी आ रही है?
-Is she coming, too?	Kommt sie auch mit?	क्या वह भी आपके साथ आती है?
-Is she your mother?	Ist das deine Mutter?	क्या यह आपकी माँ है?
 Is she your sister?	Ist sie deine Schwester?	क्या वह आपकी बहन है?
 Is something wrong?	Stimmt etwas nicht?	कुछ गड़बड़ है क्या?
 Is that a question?	Ist das eine Frage?	यही एक सवाल है?

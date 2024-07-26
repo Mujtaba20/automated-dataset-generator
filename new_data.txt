@@ -22129,3 +22129,12 @@ Is he your teacher?	Ist er dein Lehrer?	क्या वह तुम्हा�
 Is it a compliment?	Ist es ein Kompliment?	क्या यह एक सराहना है?
 Is it a nice place?	Ist es ein schöner Ort?	क्या यह एक अच्छा स्थान है?
 Is it all paid for?	Ist alles bezahlt?	क्या सबकुछ भुगतान हो गया है?
+Is it an emergency?	Ist es ein Notfall?	क्या यह एक आपातकालीन स्थिति है?
+Is it cold outside?	Ist es draußen kalt?	क्या बाहर ठंडा है?
+Is it five already?	Ist es schon fünf?	क्या पांच बज गए हैं?
+Is it large enough?	Ist es groß genug?	क्या यह पर्याप्त बड़ा है?
+Is it made of iron?	Ist es aus Eisen?	क्या यह लोहे से बना है?
+Is it that serious?	Ist das so ernst?	क्या यह इतना गंभीर है?
+Is it worth fixing?	Lohnt es sich zu reparieren?	क्या यह ठीक करने लायक है?
+Is she coming, too?	Kommt sie auch?	क्या वह भी आ रही है?
+Is she your mother?	Ist sie deine Mutter?	क्या वह तुम्हारी माँ है?
