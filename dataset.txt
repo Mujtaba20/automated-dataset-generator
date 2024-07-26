@@ -1,14 +1,4 @@
 
-Tom ran away from Mary.	Tom ist vor Mary davongerannt.	टॉम मैरी से पहले भाग गया।
-Tom ran away from home.	Tom ist von zu Hause weggelaufen.	टॉम घर से भाग गया।
-Tom ran into the house.	Tom rannte ins Haus.	टॉम घर में भाग गया।
-Tom rarely wears a hat.	Tom hat kaum einmal einen Hut auf.	टॉम को शायद ही कभी टोपी है।
-Tom rarely wears a tie.	Tom trägt selten Krawatte.	टॉम शायद ही कभी टाई पहनता है।
-Tom reads all the time.	Tom liest ständig.	टॉम हर समय पढ़ता है।
-Tom really fooled Mary.	Tom hat Mary ganz schön drangekriegt.	टॉम गॉट मैरी को बहुत कुछ मिला।
-Tom really misses Mary.	Tom vermisst Mary sehr.	टॉम मैरी को बहुत याद करते हैं।
-Tom refused to give up.	Tom weigerte sich, aufzugeben.	टॉम ने हार मानने से इनकार कर दिया।
-Tom refused to help me.	Tom weigerte sich, mir zu helfen.	टॉम ने मेरी मदद करने से इनकार कर दिया।
 Tom refused to help us.	Tom weigerte sich, uns zu helfen.	टॉम ने हमारी मदद करने से इनकार कर दिया।
 Tom regretted laughing.	Tom bereute es, gelacht zu haben.	टॉम ने हंसते हुए पछतावा किया।
 Tom rejected our offer.	Tom hat unser Angebot abgelehnt.	टॉम ने हमारे प्रस्ताव को खारिज कर दिया।
