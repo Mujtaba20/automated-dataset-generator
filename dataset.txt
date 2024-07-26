@@ -1,14 +1,4 @@
 
-Does Tom know you know?	Weiß Tom, dass du es weißt?	टॉम जानता है कि आप जानते हैं?
-Does Tom like baseball?	Mag Tom Baseball?	क्या टॉम बेसबॉल पसंद करता है?
-Does Tom like broccoli?	Mag Tom Broccoli?	मैग टॉम ब्रोकोली?
-Does Tom like it there?	Gefällt es Tom dort?	क्या टॉम इसे पसंद करता है?
-Does Tom like tomatoes?	Mag Tom Tomaten?	टमाटर पसंद करता है?
-Does Tom need a lawyer?	Braucht Tom einen Anwalt?	क्या टॉम को वकील की जरूरत है?
-Does Tom need anything?	Braucht Tom irgendetwas?	क्या टॉम को कुछ चाहिए?
-Does Tom need our help?	Braucht Tom unsere Hilfe?	क्या टॉम को हमारी मदद की जरूरत है?
-Does Tom often eat out?	Geht Tom öfters essen?	क्या टॉम अक्सर खाते हैं?
-Does Tom often eat out?	Geht Tom öfters auswärts essen?	क्या टॉम अक्सर बाहर खाता है?
 Does Tom play baseball?	Spielt Tom Baseball?	क्या टॉम बेसबॉल खेलता है?
 Does Tom play football?	Spielt Tom Fußball?	क्या टॉम फुटबॉल खेलता है?
 Does Tom run every day?	Läuft Tom jeden Tag?	क्या टॉम हर दिन चल रहा है?
