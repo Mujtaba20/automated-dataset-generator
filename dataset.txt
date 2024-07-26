@@ -1,14 +1,4 @@
 
-Why do you ask that?	Warum fragen Sie das?	तुम एेसा क्यों पूछते हो?
-Why do you hesitate?	Warum zögerst du?	आप संकोच क्यों करते हैं?
-Why do you like Tom?	Warum magst du Tom?	आपको टॉम क्यों पसंद है?
-Why do you love Tom?	Warum liebst du Tom?	आप टॉम से प्यार क्यों करते हैं?
-Why do you say that?	Warum sagst du das?	तुम ऐसा क्यों कह रहे हो?
-Why do you want Tom?	Warum willst du Tom?	आप टॉम क्यों चाहते हैं?
-Why don't I do that?	Warum mache ich das nicht?	मैं ऐसा क्यों नहीं करता?
-Why don't we go out?	Warum gehen wir nicht raus?	हम बाहर क्यों नहीं जाते?
-Why don't we go out?	Warum gehen wir nicht aus?	हम बाहर क्यों नहीं जाते?
-Why don't you do it?	Warum tust du es nicht?	आप ऐसा क्यों नहीं करते?
 Why don't you drive?	Warum fährst du nicht?	आप ड्राइव क्यों नहीं करते?
 Why is Tom not here?	Warum ist Tom nicht hier?	टॉम यहाँ क्यों नहीं है?
 Why is Tom out here?	Warum ist Tom hier draußen?	टॉम यहाँ क्यों है?

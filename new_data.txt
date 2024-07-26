@@ -30054,3 +30054,12 @@ Why do I have to go?	Warum muss ich gehen?	मुझे जाने क्य�
 Why do they do that?	Warum machen sie das?	वे ऐसा क्यों करते हैं?
 Why do they do this?	Warum machen sie das?	वे यह क्यों करते हैं?
 Why do they want me?	Warum wollen sie mich?	वे मुझे क्यों चाहते हैं?
+Why do you ask that?	Warum fragst du das?	तुम ऐसा क्यों पूछते हो?
+Why do you hesitate?	Warum zögerst du?	तुम क्यों हिचकिचाते हो?
+Why do you like Tom?	Warum magst du Tom?	तुम टॉम को क्यों पसंद करते हो?
+Why do you love Tom?	Warum liebst du Tom?	तुम टॉम से प्यार क्यों करते हो?
+Why do you say that?	Warum sagst du das?	तुम ऐसा क्यों कहते हो?
+Why do you want Tom?	Warum möchtest du Tom?	तुम्हें टॉम की क्यों चाहिए?
+Why don't I do that?	Warum mache ich das nicht?	मैं ऐसा क्यों नहीं करता?
+Why don't we go out?	Warum gehen wir nicht raus?	हम बाहर क्यों नहीं जा सकते?
+Why don't you do it?	Warum machst du es nicht?	तुम यह क्यों नहीं करते?
