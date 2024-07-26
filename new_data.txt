@@ -31743,3 +31743,11 @@ I have a sore throat. (diff. meaning)	Ich habe Halsweh.	मुझे गले �
 I have a stepbrother.	Ich habe einen Stiefbruder.	मेरे पास एक सौतेला भाई है।
 I have a stomachache.	Ich habe Bauchschmerzen.	मुझे पेट दर्द है।
 I have a stomachache. (diff. meaning)	Mir ist schlecht.	मुझे उल्टी आ रही है।
+I have a sweet tooth.	Ich stehe auf Süßes.	मेरा मीठे के प्रति शौक है।
+I have a sweet-tooth.	Ich liebe Süßigkeiten.	मुझे मिठाई पसंद है।
+I have a twin sister.	Ich habe eine Zwillingsschwester.	मेरी एक बहन है।
+I have a wooden comb.	Ich habe einen hölzernen Kamm.	मेरे पास एक लकड़ी का कंघा है।
+I have an invitation.	Ich habe eine Einladung.	मेरे पास निमंत्रण है।
+I have back problems.	Ich habe Rückenprobleme.	मेरी पीठ में समस्या है।
+I have been in Paris.	Ich war in Paris.	मैंने पेरिस में रहा है।
+I have blue jeans on.	Ich trage blaue Jeans.	मेरा नीला जीन्स पहना हुआ है।

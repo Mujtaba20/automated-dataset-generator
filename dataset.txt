@@ -1,15 +1,4 @@
 
-I have a sweet tooth.	Ich bin eine Naschkatze.	मैं एक मीठा दाँत हूं।
-I have a sweet tooth.	Ich habe einen süßen Zahn.	मुझे मीठा बहुत पसंद है।
-I have a sweet-tooth.	Ich bin eine Naschkatze.	मैं एक मीठा दाँत हूं।
-I have a sweet-tooth.	Ich habe einen süßen Zahn.	मुझे मीठा बहुत पसंद है।
-I have a twin sister.	Ich habe eine Zwillingsschwester.	मेरी एक जुड़वां बहन है।
-I have a wooden comb.	Ich habe einen Holzkamm.	मेरे पास एक लकड़ी का रिज है।
-I have an invitation.	Ich habe eine Einladung.	मेरा निमंत्रण है।
-I have back problems.	Ich habe Rückenprobleme.	मुझे पीठ की समस्या है।
-I have been in Paris.	Ich war in Paris.	मैं पेरिस में था।
-I have blue jeans on.	Ich trage eine blaue Nietenhose.	मैं नीली रिवेट पैंट पहनता हूं।
-I have blue jeans on.	Ich habe eine blaue Nietenhose an.	मेरे पास एक नीली रिवेट ट्राउजर है।
 I have caught a cold.	Ich habe mich erkältet.	मुझे सर्दी हो गई है।
 I have caught a cold.	Ich habe mir eine Erkältung eingefangen.	मैं एक ठंड पकड़ा।
 I have class tonight.	Ich habe heute Abend Unterricht.	मेरे पास आज रात सबक है।
