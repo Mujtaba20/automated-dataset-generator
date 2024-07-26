@@ -24173,3 +24173,13 @@ Tom would be proud.	Tom wäre stolz.	टॉम गर्वित होगा�
 Tom wouldn't agree.	Tom würde nicht zustimmen.	टॉम सहमत नहीं होगा।
 Tom wrote a letter.	Tom schrieb einen Brief.	टॉम ने एक पत्र लिखा।
 Tom wrote his will.	Tom schrieb sein Testament.	टॉम ने अपनी इच्छापत्रिका लिखी।
+Tom yelled at Mary.	Tom hat Mary angeschrien.	टॉम ने मेरी पर चिल्लाया।
+Tom's a big coward.	Tom ist ein großer Feigling.	टॉम डरपोक है।
+Tom's bus was late.	Toms Bus hatte Verspätung.	टॉम की बस देर से आई।
+Tom's car is dirty.	Toms Auto ist schmutzig.	टॉम की गाड़ी गंदी है।
+Tom's dog bit Mary.	Toms Hund hat Mary gebissen.	टॉम का कुत्ता मेरी को काटा।
+Tom's dog is brown.	Toms Hund ist braun.	टॉम का कुत्ता भूरा है।
+Tom's dog is white.	Toms Hund ist weiß.	टॉम का कुत्ता सफेद है।
+Tom's dog lay down.	Toms Hund hat sich hingelegt.	टॉम का कुत्ता लेट गया।
+Tom's eyes are red.	Toms Augen sind rot.	टॉम की आंखें लाल हैं।
+Tom's eyes widened.	Toms Augen weiteten sich.	टॉम की आंखें फैल गईं।
