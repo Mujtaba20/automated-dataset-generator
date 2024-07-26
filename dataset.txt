@@ -1,14 +1,4 @@
 
-You've got to go home.	Ihr müsst nach Hause.	आपको घर जाना है।
-You've got to go home.	Sie müssen nach Hause.	आपको घर जाना है।
-You've got to go home.	Du musst nach Hause.	आपको घर जाना है।
-You've got to help me.	Du musst mir helfen!	तुम्हें मेरी मदद करनी पड़ेगी!
-You've got to help me.	Sie müssen mir helfen!	तुम्हें मेरी मदद करनी पड़ेगी!
-You've got to help us.	Du musst uns helfen.	आपको हमारी मदद करनी होगी।
-You've got to help us.	Ihr müsst uns helfen.	आपको हमारी मदद करनी होगी।
-You've got to help us.	Sie müssen uns helfen.	आपको हमारी मदद करनी होगी।
-You've hardly changed.	Du hast dich kaum verändert.	आप शायद ही बदल गए।
-You've made a mistake.	Du hast einen Fehler gemacht.	आपने एक गलती कर दी।
 You've really changed.	Du hast dich wirklich verändert.	आप वास्तव में बदल गए।
 Your French isn't bad.	Dein Französisch ist nicht schlecht.	आपका फ्रेंच बुरा नहीं है।
 Your French isn't bad.	Euer Französisch ist nicht schlecht.	आपका फ्रेंच बुरा नहीं है।
