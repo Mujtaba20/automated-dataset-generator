@@ -1,15 +1,4 @@
 
-Tom sat in the shade.	Tom saß im Schatten.	टॉम छाया में बैठ गया।
-Tom sat on the bench.	Tom saß auf der Bank.	टॉम बेंच पर बैठ गया।
-Tom sat on the couch.	Tom saß auf der Couch.	टॉम सोफे पर बैठ गया।
-Tom sat on the couch.	Tom saß auf dem Kanapee.	टॉम कैनापी पर बैठ गया।
-Tom sat on the couch.	Tom saß auf dem Sofa.	टॉम सोफे पर बैठ गया।
-Tom sat on the couch.	Tam saß auf dem Chaiselongue.	टैम चैसेलॉन्ग पर बैठ गया।
-Tom sat on the floor.	Tom setzte sich auf den Fußboden.	टॉम फर्श पर बैठ गया।
-Tom sat on the table.	Tom setzte sich auf den Tisch.	टॉम मेज पर बैठ गया।
-Tom sat under a tree.	Tom saß unter einem Baum.	टॉम एक पेड़ के नीचे बैठ गया।
-Tom saw Mary do that.	Tom sah, dass Maria das tat.	टॉम ने देखा कि मैरी ने किया।
-Tom saw Mary do that.	Tom sah Maria das tun.	टॉम ने मारिया को ऐसा करते देखा।
 Tom saw Mary running.	Tom sah Maria laufen.	टॉम ने मारिया को दौड़ते देखा।
 Tom saw Mary waiting.	Tom sah Maria warten.	टॉम ने मारिया को इंतजार किया।
 Tom saw the pictures.	Tom sah die Bilder.	टॉम ने तस्वीरें देखीं।

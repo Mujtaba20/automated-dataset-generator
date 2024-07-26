@@ -34802,3 +34802,10 @@ Tom said he was busy.	Tom sagte, er sei beschäftigt.	टॉम ने कहा
 Tom said he's hungry.	Tom sagte, er hat Hunger.	टॉम ने कहा कि उसे भूख लगी है।
 Tom said very little.	Tom sagte sehr wenig.	टॉम ने बहुत कम कहा।
 Tom sang out of tune.	Tom sang falsch.	टॉम ने सुर से बहार गाया।
+Tom sat in the shade.	Tom saß im Schatten.	टॉम छाया में बैठा था।
+Tom sat on the bench.	Tom saß auf der Bank.	टॉम बेंच पर बैठा था।
+Tom sat on the couch.	Tom saß auf dem Sofa.	टॉम सोफ़ा पर बैठा था।
+Tom sat on the floor.	Tom saß auf dem Boden.	टॉम ज़मीन पर बैठा था।
+Tom sat on the table.	Tom saß auf dem Tisch.	टॉम टेबल पर बैठा था।
+Tom sat under a tree.	Tom saß unter einem Baum.	टॉम एक पेड़ के नीचे बैठा था।
+Tom saw Mary do that.	Tom sah Mary das tun.	टॉम ने मेरी को वैसा करते देखा।
