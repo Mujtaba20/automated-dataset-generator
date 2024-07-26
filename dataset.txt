@@ -1,14 +1,4 @@
 
-Are you watching me?	Spionierst du mir nach?	क्या आप मेरी जासूसी करते हैं?
-Are you watching me?	Überwachst du mich?	क्या आप मेरी निगरानी करते हैं
-Are you working now?	Arbeitest du jetzt gerade?	क्या आप वर्तमान में अभी काम कर रहे हैं?
-Aren't you Canadian?	Seid ihr nicht Kanadier?	क्या आप कनाडाई नहीं हैं?
-Aren't you Canadian?	Bist du nicht Kanadier?	क्या आप कनाडाई नहीं हैं?
-Aren't you a priest?	Sind Sie nicht Priester?	क्या आप पुजारी नहीं हैं?
-Aren't you brothers?	Seid ihr nicht Brüder?	क्या आप भाई नहीं हैं?
-Aren't you going in?	Gehst du nicht hinein?	तुम अंदर मत जाओ
-Aren't you new here?	Bist du nicht neu hier?	क्या आप यहाँ नए नहीं हैं?
-Aren't you new here?	Seid ihr nicht neu hier?	क्या आप यहाँ नए नहीं हैं?
 Aren't you students?	Seid ihr nicht Schüler?	क्या आप छात्र नहीं हैं?
 Ask Tom how Mary is.	Frag Tom, wie Maria ist.	टॉम से पूछें कि मारिया कैसा है।
 Ask Tom to help you.	Bitte Tom darum, dass er dir hilft!	कृपया टॉम कि वह आपकी मदद करता है!

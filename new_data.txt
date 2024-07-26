@@ -25144,3 +25144,13 @@ Are you two friends?	Seid ihr zwei Freunde?	क्या आप दोनों 
 Are you up for that?	Bist du dafür bereit?	क्या आप उसके लिए तैयार हैं?
 Are you very hungry?	Bist du sehr hungrig?	क्या आप बहुत भूखे हैं?
 Are you watching it?	Schaust du es?	क्या तुम यह देख रहे हो?
+Are you watching me?	Beobachtest du mich?	क्या आप मुझे देख रहे हैं?
+Are you watching me? (different meaning)	Schaust du mich an?	क्या आप मुझे नजरंदाज कर रहे हैं?
+Are you working now?	Arbeitest du jetzt?	क्या आप अब काम कर रहे हैं?
+Aren't you Canadian?	Bist du nicht Kanadier?	क्या आप कनाडियन नहीं हैं?
+Aren't you Canadian? (different meaning)	Du bist doch nicht Kanadier?	क्या आप असली कनाडियन नहीं हैं?
+Aren't you a priest?	Bist du nicht ein Priester?	क्या आप पादरी नहीं हैं?
+Aren't you brothers?	Seid ihr nicht Brüder?	क्या आप भाई नहीं हैं?
+Aren't you going in?	Gehst du nicht rein?	क्या तुम अंदर नहीं जा रहे हो?
+Aren't you new here?	Bist du nicht neu hier?	क्या तुम यहाँ नये हो?
+Aren't you new here? (different meaning)	Bist du nicht neu dabei?	क्या तुम यहाँ पहली बार हो?
