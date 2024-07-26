@@ -1,15 +1,4 @@
 
-Give me three minutes.	Gib mir drei Minuten!	मुझे तीन मिनट दे दो!
-Give me your car keys.	Gib mir deine Autoschlüssel!	मुझे अपनी कार की चाबी दे दो!
-Give me your car keys.	Geben Sie mir Ihre Autoschlüssel!	मुझे अपनी कार की चाबी दे दो!
-Give me your sandwich.	Gib mir dein Sandwich.	मुझे अपना सैंडविच दे दो।
-Give this book to Tom.	Gib dieses Buch Tom.	इस पुस्तक को टॉम दें।
-Give us three minutes.	Gib uns drei Minuten.	हमें तीन मिनट दें।
-Give us three minutes.	Geben Sie uns drei Minuten.	हमें तीन मिनट दें।
-Give us three minutes.	Gebt uns drei Minuten.	हमें तीन मिनट दें।
-Glad to see you again.	Schön, dich wiederzusehen!	आप को दुबारा देखकर अच्छा लगा!
-Glad to see you again.	Ich freue mich, dich wiederzusehen!	मैं तुम्हें फिर से देख कर खुश हूं!
-Glad to see you again.	Es freut mich, dich wiederzusehen!	मुझे तुम्हें फिर से देख कर खुशी है!
 Go to the living room.	Geh ins Wohnzimmer.	लिविंग रूम में जाओ।
 God created the world.	Gott erschuf die Welt.	भगवान ने दुनिया का निर्माण किया।
 God created the world.	Gott hat die Welt erschaffen.	भगवान ने दुनिया का निर्माण किया।

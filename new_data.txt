@@ -36621,3 +36621,10 @@ Give it to me, please.	Gib es mir bitte.	कृपया मुझे यह द
 Give me a little time.	Gib mir etwas Zeit.	मुझे थोड़ा समय दो।
 Give me just a little.	Gib mir nur ein bisschen.	मुझे बस थोड़ा दो।
 Give me my money back.	Gib mir mein Geld zurück.	मेरे पैसे वापस करो।
+Give me three minutes.	Gib mir drei Minuten.	मुझे तीन मिनट दे।
+Give me your car keys.	Gib mir deine Autoschlüssel.	मुझे अपनी कार की चाबियां दो।
+Give me your sandwich.	Gib mir dein Sandwich.	मुझे अपना सैंडविच दे।
+Give this book to Tom.	Gib dieses Buch Tom.	इस किताब को टॉम को दे।
+Give us three minutes.	Gib uns drei Minuten.	हमें तीन मिनट दें।
+Glad to see you again.	Freut mich, dich wiederzusehen.	आपको फिरसे देखकर खुशी हुई।
+Delighted to meet you again.	Freut mich, Sie wiederzusehen.	आपसे फिरसे मिलकर खुशी हुई।
