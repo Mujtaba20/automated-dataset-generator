@@ -1,14 +1,4 @@
 
-Shall we take a taxi?	Sollen wir mit dem Taxi fahren?	क्या हमें टैक्सी लेनी चाहिए?
-Sharing is important.	Teilen ist wichtig.	साझा करना महत्वपूर्ण है।
-She became a postman.	Sie ist Briefträgerin geworden.	वह एक डाकिया बन गई है।
-She bought a chicken.	Sie kaufte ein Huhn.	उसने एक चिकन खरीदा।
-She bought a new car.	Sie hat sich ein neues Auto gekauft.	उसने एक नई कार खरीदी।
-She bought a tea set.	Sie kaufte ein Teeservice.	उसने एक चाय सेवा खरीदी।
-She bought a tea set.	Sie hat ein Teeservice gekauft.	उसने एक चाय सेवा खरीदी।
-She bought him a car.	Sie hat ihm ein Auto gekauft.	उसने उसे एक कार खरीदी।
-She bought him a dog.	Sie hat ihm einen Hund gekauft.	उसने उसे एक कुत्ता खरीदा।
-She broke into tears.	Sie brach in Tränen aus.	वह आँसू में टूट गई।
 She burst into tears.	Sie brach in Tränen aus.	वह आँसू में टूट गई।
 She can hardly speak.	Sie kann kaum sprechen.	वह मुश्किल से बोल सकती है।
 She can speak French.	Sie spricht Französisch.	वह फ़्रेंच बोलती है।

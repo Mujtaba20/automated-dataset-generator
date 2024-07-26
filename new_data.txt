@@ -33307,3 +33307,12 @@ Send it in duplicate.	Senden Sie es doppelt.	डुप्लीकेट मे�
 Send this by airmail.	Senden Sie dies per Luftpost.	यह हवाई द्वारा भेजें।
 Shake hands with him.	Geben Sie ihm die Hand.	उसके साथ हाथ मिलाओ।
 Shall we go together?	Wollen wir zusammen gehen?	क्या हम साथ जाएँ?
+Shall we take a taxi?	Sollen wir ein Taxi nehmen?	क्या हम टैक्सी लें?
+Sharing is important.	Teilen ist wichtig.	साझा करना महत्वपूर्ण है।
+She became a postman.	Sie wurde eine Postbotin.	उसने डाकिया बन गई।
+She bought a chicken.	Sie kaufte ein Huhn.	उसने एक मुर्गा खरीदा।
+She bought a new car.	Sie kaufte ein neues Auto.	उसने एक नई कार खरीदी।
+She bought a tea set.	Sie kaufte ein Teeservice.	उसने एक चाय का सेट खरीदा।
+She bought him a car.	Sie kaufte ihm ein Auto.	उसने उसे एक कार खरीदी।
+She bought him a dog.	Sie kaufte ihm einen Hund.	उसने उसे एक कुत्ता खरीदा।
+She broke into tears.	Sie brach in Tränen aus.	उसने रोना शुरू कर दिया।
