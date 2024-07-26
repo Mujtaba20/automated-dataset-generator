@@ -34520,3 +34520,13 @@ Tom is still outside.	Tom ist immer noch draußen.	टॉम अब भी ब�
 Tom is still smoking.	Tom raucht immer noch.	टॉम अब भी सिगरेट पी रहा है।
 Tom is studying hard.	Tom lernt fleißig.	टॉम मेहनत से पढ़ाई कर रहा है।
 Tom is such a coward.	Tom ist so feige.	टॉम बहुत कायर है।
+Tom is taking a bath.	Tom nimmt ein Bad.	टॉम स्नान कर रहा है।
+Tom is taking a rest.	Tom macht eine Pause.	टॉम विश्राम कर रहा है।
+Tom is taking a walk.	Tom macht einen Spaziergang.	टॉम टहलने जा रहा है।
+Tom is tall and thin.	Tom ist groß und dünn.	टॉम लंबा और पतला है।
+Tom is temperamental.	Tom ist launisch.	टॉम कट्टरपंथी है।
+Tom is the one I saw.	Tom ist derjenige, den ich gesehen habe.	टॉम वह है जिसे मैंने देखा।
+Tom is the real hero.	Tom ist der wahre Held.	टॉम असली हीरो है।
+Tom is the strongest.	Tom ist der stärkste.	टॉम सबसे मज़बूत है।
+Tom is traveling now.	Tom reist jetzt.	टॉम अब यात्रा कर रहा है।
+Tom is under the bed.	Tom liegt unter dem Bett.	टॉम बिस्तर के नीचे है।

@@ -1,14 +1,4 @@
 
-Tom is taking a bath.	Tom nimmt ein Bad.	टॉम स्नान करता है।
-Tom is taking a rest.	Tom ruht sich aus.	टॉम टिकी हुई है।
-Tom is taking a walk.	Tom macht gerade einen Spaziergang.	टॉम टहल रहा है।
-Tom is tall and thin.	Tom ist groß und dünn.	टॉम लंबा और पतला है।
-Tom is temperamental.	Tom ist launisch.	टॉम मूडी है।
-Tom is the one I saw.	Tom ist derjenige, den ich gesehen habe.	टॉम वह है जिसे मैंने देखा था।
-Tom is the real hero.	Tom ist der wahre Held.	टॉम असली हीरो है।
-Tom is the strongest.	Tom ist der Stärkste.	टॉम सबसे मजबूत है।
-Tom is traveling now.	Tom ist jetzt auf Reisen.	टॉम अब यात्रा कर रहा है।
-Tom is under the bed.	Tom ist unter dem Bett.	टॉम बिस्तर के नीचे है।
 Tom is unimaginative.	Tom hat keine Phantasie.	टॉम की कोई कल्पना नहीं है।
 Tom is uninteresting.	Tom ist uninteressant.	टॉम निर्बाध है।
 Tom is untrustworthy.	Tom ist unzuverlässig.	टॉम अविश्वसनीय है।
