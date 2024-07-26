@@ -21614,3 +21614,13 @@ I should visit Tom.	Ich sollte Tom besuchen.	मुझे टॉम को द�
 I should've stayed.	Ich hätte bleiben sollen.	मैं रुक जाना चाहिए था।
 I showed it to Tom.	Ich habe es Tom gezeigt.	मैंने यह टॉम को दिखाया।
 I shower every day.	Ich dusche jeden Tag.	मैं हर दिन नहाता हूँ।
+I signed the check.	Ich habe den Scheck unterschrieben.	मैंने चेक पर हस्ताक्षर किए।
+I sleep in my room.	Ich schlafe in meinem Zimmer.	मैं अपने कमरे में सोता हूँ।
+I slept in the car.	Ich habe im Auto geschlafen.	मैंने कार में सोया था।
+I slept nine hours.	Ich habe neun Stunden geschlafen.	मैंने नौ घंटे सोए थे।
+I soon fell asleep.	Ich bin bald eingeschlafen.	मैं जल्दी ही नींद में पड़ गया।
+I sort of like him.	Ich mag ihn irgendwie.	मुझे उससे कुछ आलग सा पसंद है।
+I started to worry.	Ich begann mich zu sorgen.	मैं चिंतित होने लगा।
+I still don't know.	Ich weiß immer noch nicht.	मुझे अभी भी नहीं पता।
+I still want to go.	Ich will immer noch gehen.	मुझे अभी भी जाना है।
+I stood up for Tom.	Ich habe mich für Tom eingesetzt.	मैंने टॉम के लिए खड़ा हो गया।
