@@ -1,14 +1,4 @@
 
-It rarely snows here.	Hier schneit es selten.	यह शायद ही कभी यहाँ खर्राटे लेता है।
-It requires practice.	Das erfordert Übung.	इसके लिए अभ्यास की आवश्यकता है।
-It seems interesting.	Scheint interessant zu sein.	दिलचस्प लगता है।
-It sounds good to me.	Das klingt gut.	यह अच्छा रहेगा.
-It tasted good to me.	Es schmeckte mir gut.	यह मेरे लिए अच्छा चखा।
-It took half an hour.	Es dauerte eine halbe Stunde.	आधा घंटा लगा।
-It was a big mistake.	Das war ein großer Fehler.	यह एक बड़ी गलती थी।
-It was a false alarm.	Es war ein Fehlalarm.	यह एक झूठा अलार्म था।
-It was a good answer.	Das war eine gute Antwort.	यह एक अच्छा जवाब था।
-It was a long letter.	Es war ein langer Brief.	यह एक लंबा पत्र था।
 It was a perfect fit.	Es hat genau gepasst.	यह बिल्कुल फिट है।
 It was a perfect fit.	Sie hat genau gepasst.	यह बिल्कुल फिट है।
 It was a perfect fit.	Er hat genau gepasst.	यह बिल्कुल फिट है।

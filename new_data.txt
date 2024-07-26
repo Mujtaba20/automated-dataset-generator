@@ -32800,3 +32800,13 @@ It never pays to lie.	Es lohnt sich nie zu lügen.	झूठ बोलने क
 It no longer matters.	Es ist nicht mehr wichtig.	इसका महत्व नहीं रहता है।
 It only costs $10.00!	Es kostet nur $10.00!	यह केवल $10.00 में खर्च होता है!
 It pays to be polite.	Es lohnt sich, höflich zu sein.	शिष्ट रहने के लायक है।
+It rarely snows here.	Es schneit hier selten.	यहाँ बहुत कम बर्फ गिरती है।
+It requires practice.	Es erfordert Übung.	इसे अभ्यास की आवश्यकता है।
+It seems interesting.	Es scheint interessant zu sein.	यह दिखाई देता है कि रोचक है।
+It sounds good to me.	Es klingt gut für mich.	यह मेरे लिए अच्छा लगता है।
+It tasted good to me.	Es hat mir gut geschmeckt.	मुझे इसका स्वाद अच्छा लगा।
+It took half an hour.	Es dauerte eine halbe Stunde.	इसमें आधी घंटे लगी।
+It was a big mistake.	Es war ein großer Fehler.	यह एक बड़ी गलती थी।
+It was a false alarm.	Es war ein Fehlalarm.	यह झूठा चिल्लाहट था।
+It was a good answer.	Es war eine gute Antwort.	यह एक अच्छा जवाब था।
+It was a long letter.	Es war ein langer Brief.	यह एक लंबा पत्र था।
