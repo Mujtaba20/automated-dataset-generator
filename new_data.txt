@@ -27203,3 +27203,12 @@ I've lost a filling.	Ich habe eine Füllung verloren.	मैंने एक भ
 I've lost my pencil.	Ich habe meinen Bleistift verloren.	मैंने अपना पेंसिल खो दिया है।
 I've lost my ticket.	Ich habe mein Ticket verloren.	मैंने अपना टिकट खो दिया है।
 I've lost my wallet.	Ich habe mein Portemonnaie verloren.	मैंने अपनी बटुआ खो दी है।
+I've lost something.	Ich habe etwas verloren.	मुझसे कुछ खो गया है।
+I've made Tom angry.	Ich habe Tom wütend gemacht.	मैंने टॉम को गुस्सा दिलाया।
+I've made a mistake.	Ich habe einen Fehler gemacht.	मुझसे गलती हो गई।
+I've made a mistake. (different meaning)	Ich habe einen Fehler begangen.	मैंने एक गलती की है।
+I've met you before.	Ich habe dich schon einmal getroffen.	मैंने तुम्हें पहले मिला था।
+I've met you before. (different meaning)	Wir haben uns schon einmal getroffen.	मैंने तुम्हें पहले देखा है।
+I've said I'm sorry.	Ich habe gesagt, dass es mir leid tut.	मैंने कहा मुझे खेद है।
+I've seen that, too.	Das habe ich auch gesehen.	मैंने भी वह देखा है।
+I've seen you on TV.	Ich habe dich im Fernsehen gesehen.	मैंने तुम्हें टीवी पर देखा है।
