@@ -1,16 +1,4 @@
 
-You know your stuff.	Du weißt Bescheid.	आपको पता है।
-You know your stuff.	Du kennst dich aus.	आप अपना रास्ता जानते हैं।
-You know, don't you?	Du weißt schon, oder?	आप पहले से ही जानते हैं, है ना?
-You lied to my face.	Du hast mir ins Gesicht gelogen.	तुमने मेरे चेहरे पर झूठ बोला।
-You lied to my face.	Sie haben mir ins Gesicht gelogen.	उन्होंने मेरे चेहरे पर झूठ बोला।
-You lied to my face.	Ihr habt mir ins Gesicht gelogen.	तुमने मेरे चेहरे पर झूठ बोला।
-You look incredible.	Du siehst unglaublich aus!	आपका रूप अविश्वसनीय है!
-You look incredible.	Sie sehen unglaublich aus!	आपका रूप अविश्वसनीय है!
-You look like a boy.	Du siehst aus wie ein Junge.	आप एक लड़के की तरह दिखते हैं।
-You look like a cop.	Du siehst aus, als wärst du ein Polizist.	आपको लगता है कि आप एक पुलिसकर्मी हैं।
-You look like a cop.	Sie sehen wie ein Polizist aus.	आप एक पुलिस अधिकारी की तरह दिखते हैं।
-You look like a cop.	Du siehst wie ein Polizist aus.	आप एक पुलिस अधिकारी की तरह दिखते हैं।
 You look pale today.	Du siehst heute blass aus.	आप आज पेल दिखते हैं।
 You look really hot.	Du siehst ziemlich heiß aus.	आप बहुत गर्म लग रहे हैं।
 You look very bored.	Du siehst ziemlich gelangweilt aus.	आप बहुत ऊब दिखते हैं।

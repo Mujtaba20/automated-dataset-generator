@@ -30190,3 +30190,9 @@ You know how Tom is.	Du weißt, wie Tom ist.	तुम्हें पता ह
 You know what to do.	Du weißt, was zu tun ist.	तुम्हें पता है कि क्या करना है।
 You know who I mean.	Du weißt, wen ich meine.	तुम्हें पता है मैं किसका मतलब कर रहा हूँ।
 You know why I left.	Du weißt, warum ich gegangen bin.	तुम जानते हो, मैंने क्यों छोड़ दिया।
+You know your stuff.	Du weißt, was du tust.	तुम्हें पता है, तुम क्या कर रहे हो।
+You know, don't you?	Du weißt es, nicht wahr?	तुम जानते हो, ना?
+You lied to my face.	Du hast mich belogen.	तुमने मेरे सामने झूठ बोला।
+You look incredible.	Du siehst unglaublich aus.	तुम अविश्वसनीय लगती हो।
+You look like a boy.	Du siehst aus wie ein Junge.	तुम एक लड़के जैसे दिखते हो।
+You look like a cop.	Du siehst aus wie ein Polizist.	तुम एक पुलिसवाले जैसे दिखते हो।
