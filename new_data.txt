@@ -23256,3 +23256,13 @@ This joke is crude.	Dieser Witz ist grob.	यह मजाक कसीला �
 This knife is dull.	Dieses Messer ist stumpf.	यह चाकू धीमा है।
 This land is Tom's.	Dieses Land gehört Tom.	यह ज़मीन टॉम की है।
 This money is mine.	Dieses Geld gehört mir.	यह पैसा मेरा है।
+This one is bigger.	Dieser ist größer.	यह बड़ा है।
+This one is for us.	Dies ist für uns.	यह हमारे लिए है।
+This one's for you.	Das ist für dich.	यह तुम्हारे लिए है।
+This one's from me.	Das kommt von mir.	यह मेरे द्वारा है।
+This one's no good.	Dies ist nichts wert.	ये अच्छा नहीं है।
+This ought to help.	Das sollte helfen.	यह मदद करना चाहिए।
+This pencil is red.	Dieser Bleistift ist rot.	यह पेन्सिल लाल है।
+This pizza is cold.	Diese Pizza ist kalt.	यह पिज्जा ठंडा है।
+This room is quiet.	Dieser Raum ist ruhig.	यह कमरा शांत है।
+This seems to help.	Das scheint zu helfen.	यह मदद करने लगता है।

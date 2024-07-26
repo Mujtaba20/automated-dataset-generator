@@ -1,14 +1,4 @@
 
-This one is bigger.	Dieser ist größer.	यह बड़ा है।
-This one is for us.	Dieser ist für uns.	यह हमारे लिए है।
-This one's for you.	Dieses ist für dich.	यह आपके लिए है।
-This one's from me.	Dieser ist von mir.	यह मुझसे है।
-This one's no good.	Dieser ist nicht gut.	यह अच्छा नहीं है।
-This ought to help.	Das dürfte helfen.	यह मदद करनी चाहिए।
-This pencil is red.	Dieser Stift ist rot.	यह पेन लाल है।
-This pizza is cold.	Diese Pizza ist kalt.	यह पिज्जा ठंडा है।
-This room is quiet.	Dieser Raum ist ruhig.	यह कमरा शांत है।
-This seems to help.	Es scheint zu helfen.	यह मदद करने के लिए लगता है।
 This should be fun.	Das wird ein Spaß!	वह आनंदवर्धक होगा!
 This soil is moist.	Der Erdboden ist feucht.	पृथ्वी नम है।
 This story is true.	Diese Geschichte stimmt.	यह कहानी सही है।
