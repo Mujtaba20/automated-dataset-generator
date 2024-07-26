@@ -22581,3 +22581,11 @@ Nobody believes me.	Niemand glaubt mir.	कोई मुझपर विश्�
 No one can help me.	Niemand kann mir helfen.	कोई मेरी मदद नहीं कर सकता।
 Nobody can stop me!	Niemand kann mich aufhalten!	कोई मुझे रोक नहीं सकता!
 Nobody got injured.	Niemand wurde verletzt.	किसी को चोट नहीं आई।
+Nobody here smokes.	Hier raucht niemand.	यहाँ कोई धूम्रपान नहीं करता।
+Nobody noticed Tom.	Niemand hat Tom bemerkt.	किसी ने भी टॉम को ध्यान नहीं दिया।
+Nobody volunteered.	Niemand hat sich freiwillig gemeldet.	कोई स्वयंसेवक नहीं था।
+Nobody walks in LA.	Niemand geht in LA spazieren.	LA में कोई भी नहीं चलता है।
+Nobody wants a war.	Niemand will einen Krieg.	किसी को भी युद्ध नहीं चाहिए।
+Nobody was injured.	Niemand wurde verletzt.	किसी को चोट नहीं आई थी।
+Nobody watches her.	Niemand beobachtet sie.	कोई भी उसे नहीं देख रहा है।
+Nobody will notice.	Niemand wird es bemerken.	कोई भी ध्यान नहीं देगा।
