@@ -1,14 +1,4 @@
 
-How much did that cost?	Was hat es gekostet?	इसमें क्या खर्च हुआ?
-How much did this cost?	Was hat es gekostet?	इसमें क्या खर्च हुआ?
-How much did you bring?	Wie viel hast du mitgebracht?	आप अपने साथ कितना लाया?
-How much did you bring?	Wie viel haben Sie mitgebracht?	आप कितना लाए?
-How much did you bring?	Wie viel habt ihr mitgebracht?	आप कितना लाए?
-How much did you drink?	Wie viel hast du getrunken?	आपने कितना पीया?
-How much do we pay Tom?	Wie viel zahlen wir Tom?	हम टॉम को कितना भुगतान करते हैं?
-How much do you owe me?	Wie viel schuldest du mir?	तुम मुझ पर कितना बकाया हो
-How much have we spent?	Wie viel haben wir ausgegeben?	हमने कितना खर्च किया?
-How much is that worth?	Wie viel ist das wert?	वह कितना मूल्य है?
 How much is the ticket?	Was kostet die Fahrkarte?	किराया क्या है?
 How much is the ticket?	Wie viel kostet das Ticket?	टिकट कितनी है?
 How much is this clock?	Wie viel kostet diese Uhr?	इस घड़ी की लागत कितनी है?
