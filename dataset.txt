@@ -1,18 +1,4 @@
 
-Did you see him go out?	Hast du ihn rausgehen gesehen?	क्या आपने उसे बाहर जाते देखा
-Did you see him go out?	Haben Sie ihn rausgehen gesehen?	क्या आपने उसे बाहर जाते देखा?
-Did you see him go out?	Hast du ihn rausgehen sehen?	क्या तुमने उसे बाहर जाते देखा
-Did you see him go out?	Haben Sie ihn rausgehen sehen?	क्या आपने उसे बाहर जाते देखा?
-Did you see him go out?	Habt ihr ihn rausgehen sehen?	क्या तुमने उसे बाहर जाते देखा
-Did you speak with Tom?	Hast du mit Tom gesprochen?	क्या आपने टॉम से बात की?
-Did you speak with Tom?	Haben Sie mit Tom gesprochen?	क्या आपने टॉम से बात की?
-Did you speak with Tom?	Habt ihr mit Tom gesprochen?	क्या आपने टॉम से बात की?
-Did you taste the rice?	Hast du den Reis probiert?	क्या आपने चावल की कोशिश की?
-Did you taste the rice?	Habt ihr den Reis probiert?	क्या आपने चावल की कोशिश की?
-Did you taste the rice?	Hast du den Reis gekostet?	क्या आपने चावल का खर्च किया?
-Did you taste the rice?	Habt ihr den Reis gekostet?	क्या आपने चावल का खर्च किया?
-Did you taste the rice?	Haben Sie den Reis gekostet?	क्या आपने चावल का खर्च किया?
-Did you taste the rice?	Haben Sie den Reis probiert?	क्या आपने चावल की कोशिश की?
 Did you think about it?	Haben Sie darüber nachgedacht?	क्या आपने इसके बारे में सोचा?
 Did you understand Tom?	Hast du Tom verstanden?	क्या आप टॉम को समझते थे?
 Did you understand Tom?	Habt ihr Tom verstanden?	क्या आप टॉम को समझते थे?
