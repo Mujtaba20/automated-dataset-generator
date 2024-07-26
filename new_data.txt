@@ -27466,3 +27466,12 @@ It's that important.	Es ist so wichtig.	वह महत्वपूर्ण �
 It's the same thing.	Es ist dasselbe.	यही बात है।
 It's time consuming.	Es ist zeitaufwendig.	यह समय लेने वाला है।
 It's time for lunch.	Es ist Zeit zum Mittagessen.	यह लंच का समय है।
+It's time to get up.	Es ist Zeit aufzustehen.	उठने का समय है।
+It's time-consuming.	Es kostet Zeit.	यह समय लेने वाला है।
+It's too hot for me.	Es ist mir zu heiß.	मेरे लिए बहुत गरम है।
+It's too hot inside.	Es ist drinnen zu heiß.	अंदर बहुत गरम है।
+It's totally normal.	Es ist völlig normal.	यह पूरी तरह से सामान्य है।
+It's up to them now.	Es liegt jetzt an ihnen.	अब यह उनपर निर्भर करता है।
+It's up to you, Tom.	Es liegt an dir, Tom.	यह तुम पर है, टॉम।
+It's very beautiful.	Es ist sehr schön.	यह बहुत खूबसूरत है।
+It's very cold here.	Es ist hier sehr kalt.	यहाँ बहुत ठंडा है।
