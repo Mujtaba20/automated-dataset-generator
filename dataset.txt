@@ -1,14 +1,4 @@
 
-I need to do something.	Ich muss etwas tun.	मुझे कुछ करना पड़ेगा।
-I need to feed the dog.	Ich muss dem Hund zu fressen geben.	मुझे कुत्ते को खाने के लिए देना है।
-I need to get some air.	Ich brauche etwas frische Luft.	मुझे कुछ ताजी हवा चाहिए।
-I need to hit the sack.	Ich muss mich hinhauen.	मुझे खुद को मारना है।
-I need to hit the sack.	Ich muss mich aufs Ohr hauen.	मुझे खुद को कान पर काटना है।
-I need to learn French.	Ich muss Französisch lernen.	मुझे फ्रेंच सीखना है।
-I need to let Tom know.	Ich muss Tom Bescheid geben.	मुझे टॉम को बताना होगा।
-I need to pay the rent.	Ich muss die Miete zahlen.	मुझे किराए का भुगतान करना होगा।
-I need to wash my hair.	Ich muss mir die Haare waschen.	मुझे अपने बाल धोने हैं।
-I needed time to think.	Ich brauchte Bedenkzeit.	मुझे इसके बारे में सोचने की जरूरत थी।
 I never agree with him.	Ich bin nie einverstanden mit ihm.	मैं उससे कभी सहमत नहीं हूं।
 I never agreed to that.	Ich habe dem nie zugestimmt.	मैं कभी सहमत नहीं हुआ।
 I never asked for this.	Ich habe nie darum gebeten.	मैंने इसके लिए कभी नहीं कहा।
