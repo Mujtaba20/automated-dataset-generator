@@ -22871,3 +22871,11 @@ That made me laugh.	Das brachte mich zum Lachen.	वह मुझे हंस�
 That makes me sick.	Das macht mich krank.	वह मुझे बीमार कर देता है।
 That man ate bread.	Der Mann aß Brot.	उस आदमी ने रोटी खायी।
 That might be true.	Das könnte wahr sein.	यह सच हो सकता है।
+That never changes.	Das ändert sich nie.	यह कभी नहीं बदलता।
+That never happens.	Das passiert nie.	ऐसा कभी नहीं होता।
+That ought to help.	Das sollte helfen.	यह मदद करना चाहिए।
+That seat is taken.	Dieser Sitz ist besetzt.	वह सीट ली गई है।
+That sounds stupid.	Das hört sich dumm an.	वह बवकूफी ध्वनि लगती है।
+That surprised Tom.	Das hat Tom überrascht.	उसने टॉम को हैरान कर दिया।
+That was a mistake.	Das war ein Fehler.	वह एक गलती थी।
+That was delicious.	Das war lecker.	वह बहुत ताजगी थी।
