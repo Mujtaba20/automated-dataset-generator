@@ -26863,3 +26863,11 @@ I won't answer that.	Das werde ich nicht beantworten.	मैं उसका ज
 I won't forget that.	Das werde ich nicht vergessen.	मैं उसे नहीं भूलूंगा।
 I won't forget this.	Das werde ich nicht vergessen.	मैं ये नहीं भूलूंगा।
 I won't get a raise.	Ich werde keine Gehaltserhöhung bekommen.	मुझे वेतन में वृद्धि नहीं मिलेगी।
+I won't go shopping.	Ich werde nicht einkaufen gehen.	मैं खरीदारी नहीं करूँगा।
+I won't leave early.	Ich werde nicht früh gehen.	मैं जल्दी नहीं निकलूंगा।
+I won't stay silent.	Ich werde nicht schweigen.	मैं चुप नहीं रहूंगा।
+I won't talk to you.	Ich werde nicht mit dir sprechen.	मैं तुमसे नहीं बोलूंगा।
+I won't tell a soul.	Ich werde niemandem ein Wort sagen.	मैं किसी को भी कुछ नहीं बताऊँगा।
+I won't tell anyone.	Ich werde es niemandem sagen.	मैं किसी को भी नहीं बताऊँगा।
+I wonder who she is.	Ich frage mich, wer sie ist.	मैं हैरान हूँ कि वह कौन है।
+I work as a teacher.	Ich arbeite als Lehrer.	मैं एक शिक्षक के रूप में काम करता हूँ।
