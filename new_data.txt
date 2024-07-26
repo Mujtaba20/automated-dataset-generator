@@ -37576,3 +37576,10 @@ I knew you would come.	Ich wusste, dass du kommen würdest.	मुझे पत�
 I knew you'd be happy.	Ich wusste, dass du glücklich sein würdest.	मुझे पता था कि तुम खुश होगे।
 I knew you'd go there.	Ich wusste, dass du dorthin gehen würdest.	मुझे पता था कि तुम वहाँ जाओगे।
 I knew you'd like Tom.	Ich wusste, dass du Tom mögen würdest.	मुझे पता था कि तुम्हें टॉम पसंद आएगा।
+I knew you'd say that.	Ich wusste, dass du das sagen würdest.	मुझे पता था कि तुम ऐसा कहोगे।
+I know I deserve this.	Ich weiß, dass ich das verdiene.	मुझे पता है कि मुझे यह योग्य है।
+I know Tom helped you.	Ich weiß, dass Tom dir geholfen hat.	मुझे पता है कि टॉम ने तुम्हारी मदद की है।
+I know Tom is thirsty.	Ich weiß, dass Tom durstig ist.	मुझे पता है कि टॉम प्यासा है।
+I know Tom is wealthy.	Ich weiß, dass Tom wohlhabend ist.	मुझे पता है कि टॉम धनवान है।
+I know Tom likes Mary.	Ich weiß, dass Tom Mary mag.	मुझे पता है कि टॉम को मेरी पसंद है।
+I know Tom loves Mary.	Ich weiß, dass Tom Mary liebt.	मुझे पता है कि टॉम मेरी से प्यार करता है।

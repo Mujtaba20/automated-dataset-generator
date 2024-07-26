@@ -1,15 +1,4 @@
 
-I knew you'd say that.	Ich wusste, dass du das sagen würdest.	मुझे पता था कि आप कहेंगे।
-I know I deserve this.	Ich weiß, dass ich das verdiene.	मुझे पता है कि मैं वह कमाता हूं।
-I know Tom helped you.	Ich weiß, dass Tom euch geholfen hat.	मुझे पता है कि टॉम ने आपकी मदद की।
-I know Tom helped you.	Ich weiß, dass Tom dir geholfen hat.	मुझे पता है कि टॉम ने आपकी मदद की।
-I know Tom helped you.	Ich weiß, dass Tom Ihnen geholfen hat.	मुझे पता है कि टॉम ने उनकी मदद की।
-I know Tom is thirsty.	Ich weiß, dass Tom Durst hat.	मुझे पता है कि टॉम प्यास है।
-I know Tom is wealthy.	Ich weiß, dass Tom reich ist.	मुझे पता है कि टॉम अमीर है।
-I know Tom is wealthy.	Ich weiß, dass Tom wohlhabend ist.	मुझे पता है कि टॉम अमीर है।
-I know Tom likes Mary.	Ich weiß, Tom mag Maria.	मुझे पता है कि टॉम को मारिया पसंद है।
-I know Tom loves Mary.	Ich weiß, Tom liebt Maria.	मुझे पता है कि टॉम मारिया से प्यार करता है।
-I know Tom loves Mary.	Ich weiß, dass Tom Maria liebt.	मुझे पता है कि टॉम मारिया प्यार करती है।
 I know Tom misses you.	Ich weiß, dass Tom dich vermisst.	मुझे पता है कि टॉम आपको याद करता है।
 I know Tom's children.	Ich kenne Toms Kinder.	मैं टॉम के बच्चों को जानता हूं।
 I know a lot about it.	Ich weiß eine Menge darüber.	मैं इसके बारे में बहुत कुछ जानता हूं।
