@@ -1,14 +1,4 @@
 
-It's a dreary place.	Es ist ein trostloser Ort.	यह एक धूमिल जगह है।
-It's a fact of life.	Es ist eine Tatsache des Lebens.	यह एक जीवन की सच्चाई है।
-It's a family trait.	Das liegt in der Familie.	यह परिवार में सामान्य बात है।
-It's a free country.	Das ist ein freies Land.	यह एक स्वतंत्र देश है।
-It's a huge mistake.	Das ist ein Riesenfehler.	यह एक बहुत बड़ी त्रुटि है।
-It's a large amount.	Das ist eine hohe Summe.	यह एक उच्च राशि है।
-It's a large amount.	Das ist eine große Summe.	यह एक बड़ी राशि है।
-It's a large amount.	Das ist ein großer Betrag.	यह एक बड़ी राशि है।
-It's a magnetic key.	Es ist ein Magnetschlüssel.	यह एक चुंबकीय कुंजी है।
-It's a minor glitch.	Es handelt sich um eine kleine Störung.	यह एक छोटा विकार है।
 It's a pretty house.	Das ist ein schönes Haus.	यह एक अच्छा घर है।
 It's a real bargain.	Das ist ein Schnäppchen.	यह एक सौदा है।
 It's a very hot day.	Es ist ein sehr heißer Tag.	यह बहुत गर्म दिन है।

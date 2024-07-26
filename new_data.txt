@@ -27400,3 +27400,11 @@ It's Tom's decision.	Es ist Toms Entscheidung.	यह टॉम का निर
 It's Tom's favorite.	Das ist Toms Lieblings-.	यह टॉम की पसंद है।
 It's a big hospital.	Es ist ein großes Krankenhaus.	यह एक बड़ा अस्पताल है।
 It's a brain-teaser.	Es ist eine Denksportaufgabe.	यह एक दिमागी विचारक है।
+It's a dreary place.	Es ist ein trister Ort.	यह एक उदास स्थान है।
+It's a fact of life.	Es ist eine Tatsache des Lebens.	यह जीवन का तथ्य है।
+It's a family trait.	Es ist eine Familienanlage.	यह परिवार की विशेषता है।
+It's a free country.	Es ist ein freies Land.	यह एक स्वतंत्र देश है।
+It's a huge mistake.	Es ist ein riesiger Fehler.	यह एक बड़ी गलती है।
+It's a large amount.	Es ist ein großer Betrag.	यह एक बड़ी मात्रा है।
+It's a magnetic key.	Es ist ein magnetischer Schlüssel.	यह एक चुंबकीय कुंजी है।
+It's a minor glitch.	Es ist ein kleiner Fehler.	यह एक छोटी सी चूक है।
