@@ -32359,3 +32359,10 @@ I'll be very careful.	Ich werde sehr vorsichtig sein.	मैं बहुत स
 I'll be watching you.	Ich werde dich beobachten.	मैं तुम्हें ध्यान से देख रहा हूँ।
 I'll be your teacher.	Ich werde dein Lehrer sein.	मैं आपका शिक्षक बनूँगा।
 I'll buy you a drink.	Ich kaufe dir ein Getränk.	मैं तुम्हें एक पेय पर केन्द्रित करूँगा।
+I'll call back later.	Ich rufe später zurück.	मैं बाद में वापस करूंगा।
+I'll call the police.	Ich werde die Polizei anrufen.	मैं पुलिस को बुलाऊंगा।
+I'll call you a taxi.	Ich rufe dir ein Taxi.	मैं तुम्हें टैक्सी बुलाऊंगा।
+I'll catch you later.	Ich erwische dich später.	मैं बाद में तुम्हे पकड़ लूंगा।
+I'll come back later.	Ich komme später zurück.	मैं बाद में वापस आऊंगा।
+I'll come by bicycle.	Ich komme mit dem Fahrrad.	मैं साइकिल से आऊंगा।
+I'll do that at 2:30.	Ich werde das um 2:30 Uhr machen.	मैं उसे 2:30 बजे करूंगा।
