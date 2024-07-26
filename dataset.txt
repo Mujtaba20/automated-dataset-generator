@@ -1,15 +1,4 @@
 
-You're quite drunk.	Du bist ziemlich blau.	आप बहुत नीले हैं।
-You're quite drunk.	Ihr seid ziemlich besoffen.	आप बहुत नशे में हैं।
-You're quite drunk.	Sie sind ziemlich betrunken.	वे बहुत नशे में हैं।
-You're quite right.	Du hast völlig recht.	आप बिल्कुल सही कह रहे हैं।
-You're quite smart.	Du bist sehr geschickt.	आप बहुत चतुर हैं।
-You're quite smart.	Du bist sehr pfiffig.	आप बहुत तेज हैं।
-You're quite smart.	Du bist sehr klug.	आप बहुत तेज हैं।
-You're really cute.	Du bist ziemlich süß.	तुम बहुत प्यारे हो।
-You're replaceable.	Du bist ersetzbar.	आपको बदला जा सकता है।
-You're replaceable.	Ihr seid ersetzbar.	आपको बदला जा सकता है।
-You're replaceable.	Sie sind ersetzbar.	आपको बदला जा सकता है।
 You're so pathetic.	Du bist so erbärmlich!	तुम बहुत दयनीय हो!
 You're so romantic.	Du bist so romantisch!	तुम बहुत प्रेम प्रसन्ग्युक्त हो!
 You're soaking wet.	Du bist klatschnass.	आप गपशप कर रहे हैं।

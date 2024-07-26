@@ -24993,3 +24993,8 @@ You're on your own.	Du bist für dich selbst verantwortlich.	तुम अपन
 You're persevering.	Du gibst nicht auf.	तुम जिद्दी हो।
 You're predictable.	Du bist vorhersehbar.	तुम पूर्वानुमान योग्य हो।
 You're pretty good.	Du bist ziemlich gut.	तुम काफी अच्छे हो।
+You're quite drunk.	Du bist ziemlich betrunken.	तुम बहुत नशे में हो।
+You're quite right.	Da hast du völlig recht.	आप बिल्कुल सही हैं।
+You're quite smart.	Du bist ziemlich schlau.	तुम बहुत होशियार हो।
+You're really cute.	Du bist wirklich süß.	तुम सचमुच प्यारे हो।
+You're replaceable.	Du bist ersetzbar.	आप प्रतिस्थापनीय हैं।
