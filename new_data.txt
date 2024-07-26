@@ -26062,3 +26062,13 @@ I bought a new suit.	Ich habe einen neuen Anzug gekauft.	मैंने एक 
 I bought a sandwich.	Ich habe ein Sandwich gekauft.	मैंने एक सैंडविच खरीदा।
 I bought an old car.	Ich habe ein altes Auto gekauft.	मैंने एक पुरानी गाड़ी खरीदी।
 I bought many books.	Ich habe viele Bücher gekauft.	मैंने कई किताबें खरीदीं।
+I bought milk today.	Ich habe heute Milch gekauft.	मैंने आज दूध खरीदा।
+I bought some bread.	Ich habe etwas Brot gekauft.	मैंने कुछ रोटी खरीदी।
+I broke up with her.	Ich habe mit ihr Schluss gemacht.	मैंने उसके साथ तोड़ दिया।
+I built a new house.	Ich habe ein neues Haus gebaut.	मैंने एक नया घर बनाया।
+I built a treehouse.	Ich habe ein Baumhaus gebaut.	मैंने एक पेड़ का घर बनाया।
+I came at about six.	Ich kam gegen sechs Uhr.	मैं लगभग छह बजे आया।
+I came by to say hi.	Ich kam vorbei, um hallo zu sagen.	मैं बात करने आया था।
+I came home at 2:30.	Ich kam um halb drei nach Hause.	मैं दो बजे तक घर पहुंच गया।
+I came to thank you.	Ich kam, um dir zu danken.	मैं आपका धन्यवाद करने आया था।
+I can come at three.	Ich kann um drei Uhr kommen.	मैं तीन बजे आ सकता हूँ।
