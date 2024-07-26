@@ -33585,3 +33585,13 @@ engSentence7	Das ist wirklich dumm.	यह सचमुच मूर्ख ह�
 engSentence8	Das ist eine echte Dummheit.	यह वास्तव में एक मूर्खता है।
 engSentence9	Das ist die Herausforderung.	यह चुनौती है।
 engSentence10	Das ist das Haupttor.	यह मुख्य द्वार है।
+That's the way he is.	So ist er.	वह ऐसा है।
+That's the way it is.	So ist es.	यही है।
+That's too dangerous.	Das ist zu gefährlich.	यह बहुत खतरनाक है।
+That's too expensive.	Das ist zu teuer.	यह बहुत महंगा है।
+That's totally wrong.	Das ist völlig falsch.	यह पूरी तरह से गलत है।
+That's very childish.	Das ist sehr kindisch.	यह बहुत बच्चों जैसा है।
+That's very generous.	Das ist sehr großzügig.	यह बहुत उदार है।
+That's very possible.	Das ist sehr möglich.	यह बहुत संभावित है।
+That's very unlikely.	Das ist sehr unwahrscheinlich.	यह बहुत असंभावित है।
+That's what I'd want.	Das wäre was ich wollen würde.	यही वह है जो मैं चाहता हूँ।
