@@ -21366,3 +21366,13 @@ I know Boston well. - Different meaning	Ich weiß, wo Boston gut ist.	मुझ�
 I know I'm adopted.	Ich weiß, dass ich adoptiert bin.	मुझे पता है कि मैं गोद लिया गया हूँ।
 I know Tom is deaf.	Ich weiß, dass Tom taub ist.	मुझे पता है कि टॉम बहरा है।
 I know Tom is fast.	Ich weiß, dass Tom schnell ist.	मुझे पता है कि टॉम तेज़ है।
+I know Tom is fine.	Ich weiß, dass Tom in Ordnung ist.	मुझे पता है कि टॉम ठीक है।
+I know Tom is home.	Ich weiß, dass Tom zuhause ist.	मुझे पता है कि टॉम घर पर है।
+I know Tom is rich.	Ich weiß, dass Tom reich ist.	मुझे पता है कि टॉम अमीर है।
+I know Tom is weak.	Ich weiß, dass Tom schwach ist.	मुझे पता है कि टॉम कमजोर है।
+I know Tom's voice.	Ich kenne Toms Stimme.	मुझे टॉम की आवाज़ पता है।
+I know Tom's widow.	Ich kenne Toms Witwe.	मुझे टॉम की विधवा पता है।
+I know all of them.	Ich kenne sie alle.	मुझे सभी को पता है।
+I know her by name.	Ich kenne sie mit Namen.	मैं उसका नाम जानता हूँ।
+I know him by name.	Ich kenne ihn mit Namen.	मैं उसका नाम जानता हूँ।
+I know his address.	Ich kenne seine Adresse.	मैं उसका पता जानता हूँ।

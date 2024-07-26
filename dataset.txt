@@ -1,15 +1,4 @@
 
-I know Tom is fine.	Ich weiß, Tom geht es gut.	मुझे पता है कि टॉम अच्छा कर रहा है।
-I know Tom is home.	Ich weiß, dass Tom zu Hause ist.	मुझे पता है कि टॉम घर पर है।
-I know Tom is rich.	Ich weiß, Tom ist reich.	मुझे पता है कि टॉम अमीर है।
-I know Tom is weak.	Ich weiß, dass Tom schwach ist.	मुझे पता है कि टॉम कमजोर है।
-I know Tom's voice.	Ich kenne Toms Stimme.	मुझे टॉम की आवाज पता है।
-I know Tom's widow.	Ich kenne Toms Witwe.	मैं टॉम की विधवा को जानता हूं।
-I know all of them.	Ich kenne sie alle.	मैं उन सभी को जानता हूं।
-I know her by name.	Ich kenne sie dem Namen nach.	मैं इसे नाम से जानता हूं।
-I know him by name.	Ich kenne ihn dem Namen nach.	मैं इसे नाम के अनुसार जानता हूं।
-I know his address.	Ich weiß seine Adresse.	मुझे उसका पता पता है।
-I know his address.	Ich kenne seine Adresse.	मुझे उसका पता पता है।
 I know how to swim.	Ich kann schwimmen.	मैं तैर सकता हूं।
 I know it for sure.	Ich weiß es ganz sicher.	मुझे सुनिश्चित रुप से पता है।
 I know my daughter.	Ich kenne meine Tochter.	मैं अपनी बेटी को जानता हूं।
