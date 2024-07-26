@@ -1,14 +1,4 @@
 
-How tall is that tower?	Wie hoch ist dieser Turm?	यह टॉवर कितना ऊँचा है?
-How thick is the board?	Wie dick ist das Brett?	बोर्ड कितना मोटा है?
-How thick is the board?	Welche Dicke hat das Brett?	बोर्ड में क्या मोटाई है?
-How was your afternoon?	Wie war dein Nachmittag?	आपकी दोपहर कैसी थी?
-How was your afternoon?	Wie war euer Nachmittag?	आपकी दोपहर कैसी थी?
-How was your afternoon?	Wie war Ihr Nachmittag?	आपकी दोपहर कैसी थी?
-How was your day today?	Wie war heute dein Tag?	आपका दिन कैसा रहा?
-How was your first day?	Wie war dein erster Tag?	आपका पहला दिन कैसा था?
-How was your first day?	Wir war Ihr erster Tag?	हम आपके पहले दिन थे?
-How was your first day?	Wie war euer erster Tag?	आपका पहला दिन कैसा था?
 How was your honeymoon?	Wie waren eure Flitterwochen?	आपके हनीमून कैसे थे?
 How was your interview?	Wie ist dein Vorstellungsgespräch gelaufen?	आपका साक्षात्कार कैसे हुआ?
 How was your interview?	Wie war dein Interview?	आपका साक्षात्कार कैसा था?
