@@ -33024,3 +33024,13 @@ engSentence7	Schau dir dieses Bild an.	उस चित्र को देख�
 engSentence8	Schau, bevor du springst.	आगे देखो तब लो।
 engSentence9	Sieh, bevor du springst.	लांचने से पहले देखो।
 engSentence10	Betrachte, bevor du springst.	लांचने से पहले देखो।
+Look out your window.	Schau aus dem Fenster.	अपनी खिड़की की तरफ देखें।
+Look what I've found.	Schau, was ich gefunden habe.	देखो मैंने क्या पाया है।
+Look what I've found. - Different Meaning	Schau mal, was ich entdeckt habe.	देखो मैंने क्या खोज लिया है।
+Love is blinding you.	Liebe blendet dich.	प्यार आपको अंधा बनाता है।
+Love knows no limits.	Liebe kennt keine Grenzen.	प्यार किसी सीमाओं से परे होता है।
+Love me, love my dog.	Liebe mich, liebe meinen Hund.	मुझसे प्यार करो, मेरे कुत्ते से प्यार करो।
+Love will find a way.	Die Liebe wird einen Weg finden.	प्यार एक रास्ता निकालेगा।
+Make him work for it.	Lass ihn dafür arbeiten.	उसे उसके लिए काम करने दो।
+Make yourself useful.	Mache dich nützlich.	अपने आप को उपयोगी बनाओ।
+Many lives were lost.	Viele Leben gingen verloren.	कई जानें गईं।
