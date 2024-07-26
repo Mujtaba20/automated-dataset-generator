@@ -21966,3 +21966,12 @@ I'm having a blast.	Mir macht es viel Spaß.	मैं मज़े कर रह�
 I'm here to listen.	Ich bin hier, um zuzuhören.	मैं सुनने के लिए यहाँ हूँ।
 I'm here, aren't I?	Ich bin hier, oder?	मैं यहाँ हूँ, ना?
 I'm holding a book.	Ich halte ein Buch.	मैं एक किताब पकड़ रहा हूँ।
+I'm impressed, Tom.	Ich bin beeindruckt, Tom.	मुझे टॉम पर भारी प्रभाव पड़ा।
+I'm in a good mood.	Ich bin gut gelaunt.	मैं अच्छे मूड में हूँ।
+I'm in bed reading.	Ich liege im Bett und lese.	मैं बिस्तर पर पढ़ रहा हूँ।
+I'm in big trouble.	Ich stecke in großen Schwierigkeiten.	मुझे बड़ी मुसीबत में फंस गया है।
+I'm in charge here.	Ich bin hier der Verantwortliche.	मैं यहाँ प्रबंधन करता हूँ।
+I'm in the bathtub.	Ich sitze in der Badewanne.	मैं नहाने की टब में बैठा हूँ।
+I'm in trouble now.	Jetzt habe ich Ärger.	मुझे अब समस्या हो गई है।
+I'm just a teacher.	Ich bin nur ein Lehrer.	मैं सिर्फ एक शिक्षक हूँ।
+I'm just a tourist.	Ich bin nur ein Tourist.	मैं सिर्फ एक पर्यटक हूँ।

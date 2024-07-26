@@ -1,15 +1,4 @@
 
-I'm impressed, Tom.	Ich bin beeindruckt, Tom.	मैं प्रभावित हूं, टॉम।
-I'm in a good mood.	Ich bin gut gelaunt.	मैं एक अच्छे मूड मे हूं।
-I'm in a good mood.	Ich bin guter Laune.	मैं एक अच्छे मूड में हूँ।
-I'm in bed reading.	Ich lese gerade im Bett.	मैं अभी बिस्तर में पढ़ रहा हूं।
-I'm in big trouble.	Ich stecke in großen Schwierigkeiten.	मुझे बहुत मुश्किलें हैं।
-I'm in charge here.	Ich habe hier die Leitung inne.	मेरे यहाँ लाइन है।
-I'm in the bathtub.	Ich bin in der Wanne.	मैं टब में हूं।
-I'm in trouble now.	Jetzt stecke ich in der Patsche.	अब मैं मुसीबत में डाल दिया।
-I'm just a teacher.	Ich bin nur ein Lehrer.	मैं सिर्फ एक शिक्षक हूं।
-I'm just a tourist.	Ich bin nur ein Tourist.	मैं सिर्फ एक पर्यटक हूं।
-I'm just a tourist.	Ich bin nur ein Urlaubsreisender.	मैं सिर्फ एक छुट्टी यात्री हूं।
 I'm just beginning.	Ich fange gerade erst an.	मैं अभी शुरू कर रहा हूं।
 I'm late for lunch.	Ich komme zum Mittagessen zu spät.	मुझे दोपहर के भोजन के लिए बहुत देर हो चुकी है।
 I'm late, aren't I?	Ich bin zu spät, oder?	मुझे बहुत देर हो चुकी है, है ना?
