@@ -41258,3 +41258,10 @@ What did you just say?	Was hast du gerade gesagt?	तुमने क्या �
 What did you tell Tom?	Was hast du Tom erzählt?	तुमने तोम को क्या बताया?
 What did your mom say?	Was hat deine Mutter gesagt?	तेरी माँ ने क्या कहा?
 What do they do there?	Was machen sie dort?	वहाँ वे क्या करते हैं?
+What do we do with it?	Was machen wir damit?	हम इसके साथ क्या करें?
+What do we have to do?	Was müssen wir tun?	हमें क्या करना है?
+What do you all think?	Was denkt ihr alle?	तुम सभी क्या सोचते हो?
+What do you call this?	Wie nennst du das?	तुम इसे क्या कहते हो?
+What do you guys have?	Was habt ihr Jungs?	तुम्हारे पास क्या है?
+What do you guys want?	Was wollt ihr Jungs?	तुम लोग क्या चाहते हो?
+What do you have here?	Was hast du hier?	तुम्हारे पास यहाँ क्या है?
