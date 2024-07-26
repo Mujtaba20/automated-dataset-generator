@@ -1,18 +1,4 @@
 
-I don't miss Tom a bit.	Ich vermisse Tom kein bisschen.	मैं टॉम को थोड़ा याद नहीं करता।
-I don't need a haircut.	Ich brauche mir nicht die Haare schneiden zu lassen.	मुझे अपने बालों को काटने की जरूरत नहीं है।
-I don't need money now.	Ich brauche jetzt kein Geld.	मुझे अब किसी भी पैसे की जरूरत नहीं है।
-I don't need reminding.	Ich brauche keine Erinnerung.	मुझे मेमोरी की जरूरत नहीं है।
-I don't need reminding.	Es ist nicht nötig, mich zu erinnern.	यह याद रखना आवश्यक नहीं है।
-I don't need your help.	Ich brauche deine Hilfe nicht.	मुझे आपकी मदद नहीं चाहिए।
-I don't need your help.	Ich brauche eure Hilfe nicht.	मुझे आपकी मदद की जरूरत नहीं है।
-I don't need your help.	Ich brauche Ihre Hilfe nicht.	मुझे आपकी मदद की जरूरत नहीं है।
-I don't need your pity.	Ich brauche dein Mitleid nicht.	मुझे आपकी दया की आवश्यकता नहीं है।
-I don't need your pity.	Dein Mitleid brauche ich nicht.	मुझे आपकी दया की आवश्यकता नहीं है।
-I don't need your pity.	Euer Mitleid brauche ich nicht.	मुझे आपकी दया की आवश्यकता नहीं है।
-I don't need your pity.	Ihr Mitleid brauche ich nicht.	मुझे आपकी दया की आवश्यकता नहीं है।
-I don't need your pity.	Ich brauche euer Mitleid nicht.	मुझे आपकी दया की आवश्यकता नहीं है।
-I don't need your pity.	Ich brauche Ihr Mitleid nicht.	मुझे आपकी दया की आवश्यकता नहीं है।
 I don't play the piano.	Ich spiele nicht Klavier.	मैं पियानो नहीं खेलता।
 I don't quite know yet.	Ich weiß noch nicht genau.	मुझे अभी तक पता नहीं है।
 I don't regret a thing.	Ich bereue nichts.	मुझे कोई अफसोस नहीं है।
