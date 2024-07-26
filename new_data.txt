@@ -27416,3 +27416,11 @@ It's all your fault.	Es liegt ganz an dir.	सब कुछ तुम्हा�
 It's almost October.	Es ist fast Oktober.	यह लगभग अक्टूबर है।
 It's almost perfect.	Es ist fast perfekt.	यह लगभग पूर्ण है।
 It's already eleven.	Es ist bereits elf.	यह पहले से ही ग्यारह बज चुके है।
+It's an inside joke.	Es ist ein Witz unter uns.	यह अंदर का चुटकुला है।
+It's an older model.	Es ist ein älteres Modell.	यह एक पुराना मॉडल है।
+It's as cold as ice.	Es ist eiskalt.	यह बर्फ की तरह ठंडा है।
+It's been wonderful.	Es war wunderbar.	यह बहुत शानदार रहा है।
+It's cold out there.	Es ist kalt draußen.	वहाँ ठंड है।
+It's dangerous here.	Es ist gefährlich hier.	यहाँ खतरनाक है।
+It's extremely ugly.	Es ist extrem hässlich.	यह बहुत ही बदसूरत है।
+It's familiar to me.	Es ist mir vertraut.	यह मुझे परिचित है।
