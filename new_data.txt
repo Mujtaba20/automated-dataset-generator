@@ -27169,3 +27169,11 @@ I'm very happy here.	Ich bin hier sehr glücklich.	मैं यहाँ बह
 I'm very hungry now.	Ich bin jetzt sehr hungrig.	मुझे अब बहुत भूख लगी है।
 I'm very methodical.	Ich bin sehr methodisch.	मैं बहुत व्यवस्थित हूँ।
 I'm very optimistic.	Ich bin sehr optimistisch.	मैं बहुत आशावादी हूँ।
+I'm very sleepy now.	Ich bin jetzt sehr müde.	मुझे अब बहुत नींद आ रही है।
+I'm very successful.	Ich bin sehr erfolgreich.	मैं बहुत सफल हूँ।
+I'm waiting for Tom.	Ich warte auf Tom.	मैं टॉम के लिए इंतजार कर रहा हूँ।
+I'm waiting for you.	Ich warte auf dich.	मैं तुम्हारे लिए इंतजार कर रहा हूँ।
+I'm waiting outside.	Ich warte draußen.	मैं बाहर इंतजार कर रहा हूँ।
+I'm watching TV now.	Ich schaue jetzt fern.	मैं अभी टीवी देख रहा हूँ।
+I'm working on that.	Ich arbeite daran.	मैं उस पर काम कर रहा हूँ।
+I'm worried for you.	Ich mache mir Sorgen um dich.	मैं तुम्हें लेकर चिंतित हूँ।
