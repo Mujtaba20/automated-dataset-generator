@@ -1,15 +1,4 @@
 
-Tom didn't get paid.	Tom wurde nicht bezahlt.	टॉम को भुगतान नहीं किया गया था।
-Tom didn't go alone.	Tom ging nicht allein.	टॉम अकेला नहीं गया।
-Tom didn't hit Mary.	Tom hat Maria nicht geschlagen.	टॉम ने मारिया को नहीं हराया।
-Tom didn't remember.	Tom wusste es nicht mehr.	टॉम अब और नहीं जानते थे।
-Tom didn't say much.	Tom sagte nicht viel.	टॉम ने बहुत कुछ नहीं कहा।
-Tom didn't say much.	Tom hat nicht viel gesagt.	टॉम ने बहुत कुछ नहीं कहा।
-Tom didn't say that.	Das hat Tom gar nicht gesagt.	टॉम ने भी ऐसा नहीं कहा।
-Tom didn't see Mary.	Tom hat Mary nicht gesehen.	टॉम ने मैरी को नहीं देखा।
-Tom didn't see Mary.	Tom hat sich nicht mit Mary getroffen.	टॉम मैरी के साथ नहीं मिले।
-Tom didn't think so.	Tom war nicht dieser Meinung.	टॉम इस राय का नहीं था।
-Tom didn't think so.	Tom war anderer Auffassung.	टॉम अलग था।
 Tom died in my arms.	Tom starb in meinen Armen.	टॉम मेरी बाहों में मर गया।
 Tom died peacefully.	Tom ist friedlich gestorben.	टॉम की शांति से मृत्यु हो गई।
 Tom died tragically.	Tom kam auf tragische Weise ums Leben.	टॉम की दुखद रूप से मृत्यु हो गई।

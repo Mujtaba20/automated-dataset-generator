@@ -28632,3 +28632,11 @@ Tom did a lousy job.	Tom hat einen miserablen Job gemacht.	टॉम ने ए�
 Tom did really well.	Tom hat wirklich gut gemacht.	टॉम ने सचमुच अच्छा किया।
 Tom didn't disagree.	Tom war nicht anderer Meinung.	टॉम असहमत नहीं था।
 Tom didn't even try.	Tom hat es nicht einmal versucht.	टॉम ने तो कोशिश भी नहीं की।
+Tom didn't get paid.	Tom wurde nicht bezahlt.	टॉम को पैसे नहीं मिले।
+Tom didn't go alone.	Tom ist nicht alleine gegangen.	टॉम अकेले नहीं गया।
+Tom didn't hit Mary.	Tom hat Mary nicht geschlagen.	टॉमने मेरी को मारा नहीं।
+Tom didn't remember.	Tom hat sich nicht erinnert.	टॉम को याद नहीं आया।
+Tom didn't say much.	Tom hat nicht viel gesagt.	टॉमने ज्यादा नहीं कहा।
+Tom didn't say that.	Tom hat das nicht gesagt.	टॉमने यह नहीं कहा।
+Tom didn't see Mary.	Tom hat Mary nicht gesehen.	टॉमने मेरी को नहीं देखा।
+Tom didn't think so.	Tom hat das nicht so gedacht.	टॉमने ऐसा नहीं सोचा।
