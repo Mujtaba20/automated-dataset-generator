@@ -31461,3 +31461,13 @@ I can swim very fast.	Ich kann sehr schnell schwimmen.	मैं बहुत �
 I can take the train.	Ich kann den Zug nehmen.	मैं ट्रेन ले सकता हूँ।
 I can type very fast.	Ich kann sehr schnell tippen.	मैं बहुत तेजी से टाइप कर सकता हूँ।
 I can understand Tom.	Ich kann Tom verstehen.	मैं टॉम को समझ सकता हूँ।
+I can understand you.	Ich kann dich verstehen.	मैं तुम्हें समझ सकता हूँ।
+I can wait no longer.	Ich kann nicht länger warten.	मैं और इंतज़ार नहीं कर सकता।
+I can wait no longer.2	Ich kann nicht mehr warten.	मुझसे और इंतज़ार नहीं होता।
+I can't afford a car.	Ich kann mir kein Auto leisten.	मैं एक कार का खर्च नहीं कर सकता।
+I can't believe that.	Ich kann das nicht glauben.	मैं उस पर विश्वास नहीं कर सकता।
+I can't believe that.2	Ich glaube das nicht.	मैं ऐसे विश्वास नहीं कर सकता।
+I can't confirm that.	Ich kann das nicht bestätigen.	मैं इसे पुष्टि नहीं कर सकता।
+I can't confirm this.	Ich kann das nicht bestätigen.	मुझे यह पुष्टि नहीं करनी है।
+I can't convince Tom.	Ich kann Tom nicht überzeugen.	मैं टॉम को मना नहीं सकता।
+I can't dance either.	Ich kann auch nicht tanzen.	मैं भी नाच नहीं सकता।
