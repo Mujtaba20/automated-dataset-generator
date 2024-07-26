@@ -1,17 +1,4 @@
 
-I thought Tom was dead.	Ich dachte, Tom wäre tot.	मुझे लगा कि टॉम मर चुका है।
-I thought Tom was sick.	Ich dachte, Tom wäre krank.	मुझे लगा कि टॉम बीमार था।
-I thought she was cute.	Ich fand sie süß.	मैंने उसे प्यारा पाया।
-I thought we said 2:30.	Ich dachte, wir hätten 2:30 Uhr gesagt.	मुझे लगा कि हमने 2:30 ए.एम.
-I thought you had kids.	Ich dachte, du hättest Kinder.	मुझे लगा कि आपके बच्चे हैं।
-I thought you hated me.	Ich dachte, du würdest mich hassen.	मुझे लगा कि आप मुझसे नफरत करेंगे।
-I thought you knew Tom.	Ich dachte, du kanntest Tom.	मुझे लगा कि आप टॉम को जानते हैं।
-I thought you liked me.	Ich dachte, du mochtest mich.	मुझे लगा तुम मुझे पसंद करते थे।
-I thought you loved it.	Ich dachte, du hast es geliebt.	मुझे लगा कि आप इसे प्यार करते हैं।
-I thought you loved me.	Ich habe gedacht, du liebst mich.	मुझे लगता था तुम्हें मुझसे प्यार है।
-I thought you loved me.	Ich dachte, du liebest mich.	मुझे लगता था तुम्हें मुझसे प्यार है।
-I thought you loved me.	Ich dachte, du würdest mich lieben.	मुझे लगा कि आप मुझे प्यार करेंगे।
-I thought you loved me.	Ich dachte, du liebtest mich.	मुझे लगता था तुम्हें मुझसे प्यार है।
 I threw up three times.	Ich habe dreimal gekotzt.	मैंने तीन बार उल्टी की।
 I told Tom I was tired.	Ich sagte Tom, ich sei müde.	मैंने कहा कि टॉम मैं थक गया था।
 I told Tom Mary was OK.	Ich habe Tom gesagt, dass mit Maria alles in Ordnung sei.	मैंने कहा कि टॉम ने मारिया के साथ सब कुछ ठीक किया था।
