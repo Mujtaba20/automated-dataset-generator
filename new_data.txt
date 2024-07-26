@@ -22742,3 +22742,9 @@ She looks confused.	Sie sieht verwirrt aus.	वह भ्रमित लग र
 She looks lonesome.	Sie sieht einsam aus.	वह अकेली लग रही है।
 She loves antiques.	Sie liebt Antiquitäten.	वह प्राचीन वस्तुओं से प्रेम करती है।
 She loves children.	Sie liebt Kinder.	उसे बच्चों से प्यार है।
+She loves shopping.	Sie liebt einkaufen.	उसे खरीदारी करना पसंद है।
+She made him do it.	Sie zwang ihn, es zu tun.	उसने उससे करने के लिए कहा।
+She made him happy.	Sie machte ihn glücklich.	उसने उसे खुश किया।
+She made me a cake.	Sie machte mir einen Kuchen.	उसने मुझे एक केक बनाया।
+She made me a star.	Sie machte mich zu einem Star.	उसने मुझे एक सितारा बनाया।
+She makes me happy.	Sie macht mich glücklich.	उसने मुझे खुश किया।

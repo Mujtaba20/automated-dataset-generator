@@ -1,14 +1,4 @@
 
-She loves shopping.	Sie kauft sehr gerne ein.	वह खरीदना पसंद करती है।
-She made him do it.	Sie zwang ihn, es zu tun.	उसने उसे ऐसा करने के लिए मजबूर किया।
-She made him happy.	Sie machte ihn glücklich.	उसने उसे खुश कर दिया।
-She made him happy.	Sie hat ihn glücklich gemacht.	उसने उसे खुश कर दिया।
-She made me a cake.	Sie buk mir einen Kuchen.	उसने मुझे एक केक दिया।
-She made me a cake.	Sie hat mir einen Kuchen gebacken.	उसने मेरे लिए एक केक पकाया।
-She made me a cake.	Sie hat mir einen Kuchen gemacht.	उसने मुझे एक केक बनाया।
-She made me a cake.	Sie machte mir einen Kuchen.	उसने मुझे एक केक बनाया।
-She made me a star.	Sie hat aus mir einen Star gemacht.	उसने मुझे एक स्टार बना दिया।
-She makes me happy.	Sie macht mich glücklich.	वह मुझसे खुश करती है।
 She needs our help.	Sie braucht unsere Hilfe.	उसे हमारी मदद की ज़रूरत है।
 She owns few books.	Sie besitzt nicht viele Bücher.	उसके पास कई किताबें नहीं हैं।
 She owns few books.	Sie besitzt nur wenige Bücher.	उसकी केवल कुछ किताबें हैं।
