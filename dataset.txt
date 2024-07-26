@@ -1,14 +1,4 @@
 
-I'm glad you're back.	Ich freue mich, dass du wieder da bist!	मुझे खुशी है कि आप वापस आ गए हैं!
-I'm glad you're glad.	Ich freue mich, dass du dich freust.	मुझे खुशी है कि आप खुश हैं।
-I'm glad you're glad.	Ich freue mich, dass ihr euch freut.	मुझे खुशी है कि आप खुश हैं।
-I'm glad you're glad.	Ich freue mich, dass Sie sich freuen.	मुझे खुशी है कि आप खुश हैं।
-I'm glad you're here.	Ich bin froh, dass du hier bist.	मुझे खुशी है कि आप यहां हैं।
-I'm glad you're here.	Ich bin froh, dass ihr hier seid.	मुझे खुशी है कि आप यहां हैं।
-I'm glad you're here.	Ich bin froh, dass Sie hier sind.	मुझे खुशी है कि आप यहां हैं।
-I'm glad you're safe.	Ich bin froh, dass du in Sicherheit bist.	मुझे खुशी है कि आप सुरक्षित हैं।
-I'm glad you're safe.	Ich bin froh, dass Sie in Sicherheit sind.	मुझे खुशी है कि आप सुरक्षित हैं।
-I'm glad you're safe.	Ich bin froh, dass ihr in Sicherheit seid.	मुझे खुशी है कि आप सुरक्षित हैं।
 I'm going to be fine.	Mir wird es gut gehen.	मै ठीक रहूंगी।
 I'm going to be late.	Ich werde zu spät kommen.	मुझे देर हो जाएगी।
 I'm going to bed now.	Ich gehe jetzt ins Bett.	अब मैं सोने जा रहा हूं।

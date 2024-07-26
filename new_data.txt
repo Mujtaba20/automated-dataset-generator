@@ -32486,3 +32486,7 @@ I'm glad you approve.	Ich freue mich, dass du zustimmst.	मुझे खुश�
 I'm glad you like it.	Es freut mich, dass es dir gefällt.	मुझे खुशी है कि तुम्हें यह पसंद है।
 I'm glad you made it.	Ich freue mich, dass du es geschafft hast.	मुझे खुशी है कि तुमने इसे कर लिया।
 I'm glad you noticed.	Ich bin froh, dass du es bemerkt hast.	मुझे खुशी है कि तुमने ध्यान दिया।
+I'm glad you're back.	Ich freue mich, dass du zurück bist.	मुझे खुशी है कि तुम वापस आ गए हो।
+I'm glad you're glad.	Ich freue mich, dass du froh bist.	मुझे खुशी है कि तुम खुश हो।
+I'm glad you're here.	Ich freue mich, dass du hier bist.	मुझे खुशी है कि तुम यहाँ हो।
+I'm glad you're safe.	Ich freue mich, dass du sicher bist.	मुझे खुशी है कि तुम सुरक्षित हो।
