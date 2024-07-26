@@ -28668,3 +28668,11 @@ Tom drives me crazy.	Tom macht mich verrückt.	टॉम मुझे पाग�
 Tom drives too fast.	Tom fährt zu schnell.	टॉम बहुत तेज चलता है।
 Tom drove to school.	Tom fuhr zur Schule.	टॉम स्कूल जा रहा था।
 Tom drove very fast.	Tom fuhr sehr schnell.	टॉम बहुत तेज़ी से चलाया।
+Tom eats like a pig.	Tom isst wie ein Schwein.	टॉम सूअर की तरह खाता है।
+Tom encouraged Mary.	Tom ermutigte Mary.	टॉम ने मेरी को प्रोत्साहित किया।
+Tom enjoyed cycling.	Tom genoss das Radfahren.	टॉम ने साइकिल चलाने का मजा लिया।
+Tom exhaled quietly.	Tom atmete leise aus.	टॉम ने चुपचाप साँस छोड़ी।
+Tom faces a dilemma.	Tom steht vor einem Dilemma.	टॉम का सामना एक दुविधा से है।
+Tom failed the test.	Tom hat die Prüfung nicht bestanden.	टॉम को परीक्षा में असफलता मिली।
+Tom faked his death.	Tom täuschte seinen Tod vor.	टॉम ने अपनी मौत झूठलाई।
+Tom fed the pigeons.	Tom fütterte die Tauben.	टॉम ने कबूतरों को खिलाया।
