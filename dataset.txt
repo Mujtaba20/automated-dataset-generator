@@ -1,14 +1,4 @@
 
-I don't want to get up.	Ich will nicht aufstehen.	मैं उठना नहीं चाहता।
-I don't want to go out.	Ich will nicht ausgehen.	मैं बाहर नहीं जाना चाहता।
-I don't want to see it.	Ich will das nicht sehen.	मैं इसे देखना नहीं चाहता।
-I don't want you to go.	Ich will nicht, dass du gehst.	मैं नहीं चाहता कि आप छोड़ दें।
-I don't want your gold.	Ich brauch dein Gold nicht.	मुझे आपके सोने की जरूरत नहीं है।
-I don't want your help.	Ich will deine Hilfe nicht.	मुझे आपकी मदद नहीं चाहिए।
-I don't want your pity.	Ich brauche dein Mitleid nicht.	मुझे आपकी दया की आवश्यकता नहीं है।
-I don't want your pity.	Ich will dein Mitleid nicht.	मुझे आपकी दया नहीं है।
-I don't want your pity.	Ich will euer Mitleid nicht.	मुझे आपकी दया नहीं है।
-I don't want your pity.	Ich will Ihr Mitleid nicht.	मुझे उसकी दया नहीं चाहिए।
 I don't work in Boston.	Ich arbeite nicht in Boston.	मैं बोस्टन में काम नहीं करता।
 I don't work like that.	So arbeite ich nicht.	यह नहीं है कि मैं कैसे काम करता हूं।
 I don't worry about it.	Ich mach mir darüber keine Gedanken.	मुझे इसकी चिंता नहीं है।
