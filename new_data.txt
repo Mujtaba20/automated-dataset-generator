@@ -39963,3 +39963,13 @@ Tom didn't name names.	Tom hat keine Namen genannt.	टॉमने किसी
 Tom didn't pick it up.	Tom hat es nicht aufgehoben.	टॉमने उसे नहीं उठाया।
 Tom didn't say a word.	Tom hat kein Wort gesagt.	टॉमने एक शब्द भी नहीं कहा।
 Tom didn't swim today.	Tom ist heute nicht geschwommen.	टॉमने आज तैराक नहीं किया।
+Tom didn't trust Mary.	Tom vertraute Mary nicht.	टॉम ने मेरी पर भरोसा नहीं किया।
+Tom didn't understand.	Tom hat es nicht verstanden.	टॉम ने समझा नहीं।
+Tom didn't wake me up.	Tom hat mich nicht geweckt.	टॉम ने मुझे जगाया नहीं।
+Tom didn't want to go.	Tom wollte nicht gehen.	टॉम जाना नहीं चाहता था।
+Tom didn't write back.	Tom hat nicht zurückgeschrieben.	टॉम ने वापस लिखा नहीं।
+Tom died October 20th.	Tom starb am 20. Oktober.	टॉम की मौत 20 अक्टूबर को हुई।
+Tom died early Monday.	Tom starb früh am Montag.	टॉम ने सोमवार को सुबह में ही मर गया।
+Tom died in Australia.	Tom starb in Australien.	टॉम ने ऑस्ट्रेलिया में मर गया।
+Tom died in his sleep.	Tom starb im Schlaf.	टॉम सोते समय मर गया।
+Tom died in the blast.	Tom starb bei der Explosion.	टॉम ब्लास्ट में मर गया।

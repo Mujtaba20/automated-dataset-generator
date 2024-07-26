@@ -1,15 +1,4 @@
 
-Tom didn't trust Mary.	Tom traute Maria nicht.	टॉम ने मारिया पर भरोसा नहीं किया।
-Tom didn't understand.	Tom verstand es nicht.	टॉम को यह समझ में नहीं आया।
-Tom didn't wake me up.	Tom hat mich nicht geweckt.	टॉम ने मुझे जगाया नहीं।
-Tom didn't want to go.	Tom wollte nicht gehen.	टॉम नहीं जाना चाहता था।
-Tom didn't write back.	Tom hat nicht zurückgeschrieben.	टॉम ने नहीं लिखा।
-Tom died October 20th.	Tom starb am 20. Oktober.	टॉम की मृत्यु 20 अक्टूबर को हुई।
-Tom died early Monday.	Tom starb am frühen Montag.	सोमवार तड़के टॉम की मृत्यु हो गई।
-Tom died in Australia.	Tom starb in Australien.	ऑस्ट्रेलिया में टॉम की मृत्यु हो गई।
-Tom died in his sleep.	Tom starb im Schlaf.	टॉम की नींद में मृत्यु हो गई।
-Tom died in the blast.	Tom starb in der Explosion.	विस्फोट में टॉम की मृत्यु हो गई।
-Tom died in the blast.	Tom kam bei der Explosion ums Leben.	विस्फोट में टॉम की मृत्यु हो गई।
 Tom died last October.	Tom ist letzten Oktober gestorben.	पिछले अक्टूबर में टॉम का निधन हो गया।
 Tom died of pneumonia.	Tom starb an einer Lungenentzündung.	टॉम की मृत्यु निमोनिया से हुई।
 Tom died the next day.	Tom ist am nächsten Tag gestorben.	अगले दिन टॉम की मृत्यु हो गई।
