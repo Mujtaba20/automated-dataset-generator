@@ -27385,3 +27385,11 @@ It wasn't real love.	Es war keine echte Liebe.	यह असली प्या�
 It wasn't that hard.	Es war nicht so schwer.	यह इतना कठिन नहीं था।
 It wasn't very good.	Es war nicht sehr gut.	यह बहुत अच्छा नहीं था।
 It works every time.	Es funktioniert jedes Mal.	यह हर बार काम करता है।
+It would be perfect.	Es wäre perfekt.	यह पूर्ण होगा।
+It'll be a good day.	Es wird ein guter Tag sein.	यह एक अच्छा दिन होगा।
+It'll be a long day.	Es wird ein langer Tag sein.	यह एक लम्बा दिन होगा।
+It'll be our secret.	Es wird unser Geheimnis sein.	यह हमारा रहस्य होगा।
+It'll come in handy.	Das wird nützlich sein.	यह काम आएगा।
+It'll rain for sure.	Es wird sicher regnen.	यकीनन बारिश होगी।
+It'll rain tomorrow.	Es wird morgen regnen.	कल बारिश होगी।
+It'll snow tomorrow.	Es wird morgen schneien.	कल बर्फ गिरेगा।

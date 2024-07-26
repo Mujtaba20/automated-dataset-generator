@@ -1,15 +1,4 @@
 
-It would be perfect.	Das wäre perfekt.	ये बिल्कुल सही होगा।
-It'll be a good day.	Es wird ein guter Tag sein.	यह एक अच्छा दिन होगा।
-It'll be a long day.	Es wird ein langer Tag sein.	यह एक लंबा दिन होगा।
-It'll be our secret.	Das wird unser Geheimnis sein.	यह हमारा रहस्य होगा।
-It'll come in handy.	Den wird man gut gebrauchen können.	आप इसे अच्छी तरह से उपयोग कर पाएंगे।
-It'll come in handy.	Die wird man gut gebrauchen können.	आप उन्हें अच्छी तरह से उपयोग कर पाएंगे।
-It'll rain for sure.	Es wird auf jeden Fall regnen.	निश्चित रूप से बारिश होगी।
-It'll rain tomorrow.	Morgen wird es regnen.	कल बरसात होगी।
-It'll snow tomorrow.	Morgen wird es schneien.	कल यह बर्फ होगा।
-It'll snow tomorrow.	Es wird morgen schneien.	कल बर्फ हो जाएगा।
-It'll snow tomorrow.	Morgen soll es schneien.	कल बर्फ होना चाहिए।
 It'll work for sure.	Es funktioniert bestimmt.	यह निश्चित रूप से काम करेगा।
 It's Saturday today.	Heute ist Samstag.	आज शनिवार है.
 It's Tom's birthday.	Tom hat Geburtstag.	टॉम का जन्मदिन है।
