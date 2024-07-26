@@ -1,15 +1,4 @@
 
-Tom watered the roses.	Tom goss die Rosen.	टॉम ने गुलाब डाला।
-Tom wears an eyepatch.	Tom trägt eine Augenklappe.	टॉम एक आंख का फ्लैप पहनता है।
-Tom wears glasses now.	Tom trägt jetzt eine Brille.	टॉम अब चश्मा पहनता है।
-Tom weeded the garden.	Tom jätete den Garten.	टॉम जेट द गार्डन।
-Tom went back outside.	Tom ging zurück nach draußen.	टॉम बाहर वापस चला गया।
-Tom went duck hunting.	Tom ging auf Entenjagd.	टॉम एक बत्तख के शिकार पर चला गया।
-Tom went for a doctor.	Tom ging zum Arzt.	टॉम डॉक्टर के पास गया।
-Tom went for a stroll.	Tom ist spazieren gegangen.	टॉम टहलने के लिए चला गया।
-Tom went home at 6:30.	Tom ging um 6:30 nach Hause.	टॉम सुबह 6:30 बजे घर गया।
-Tom went home by taxi.	Tom fuhr mit dem Taxi nach Hause.	टॉम ने टैक्सी से घर चलाया।
-Tom went home by taxi.	Tom ist mit dem Taxi nach Hause gefahren.	टॉम टैक्सी से घर गया।
 Tom went home on foot.	Tom ist zu Fuß nach Hause gegangen.	टॉम पैदल घर गया।
 Tom went to bed early.	Tom ging früh ins Bett.	टॉम जल्दी बिस्तर पर चला गया।
 Tom will be exhausted.	Tom wird erschöpft sein.	टॉम थक जाएगा।

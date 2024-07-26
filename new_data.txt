@@ -40888,3 +40888,13 @@ Tom wasn't very tired.	Tom war nicht sehr müde.	टॉम बहुत थक�
 Tom watched Mary swim.	Tom hat Mary schwimmen beobachtet.	टॉम ने मेरी को तैरते हुए देखा।
 Tom watched Mary work.	Tom hat Mary bei der Arbeit zugesehen.	टॉम ने मेरी को काम करते हुए देखा।
 Tom watered his horse.	Tom hat sein Pferd getränkt.	टॉम ने अपने घोड़े को पानी पिलाया।
+Tom watered the roses.	Tom hat die Rosen gewässert.	टॉम ने गुलाबों को पानी दिया।
+Tom wears an eyepatch.	Tom trägt eine Augenklappe.	टॉम एक आँख के लिए पैच पहनता है।
+Tom wears glasses now.	Tom trägt jetzt eine Brille.	टॉम अब चश्मा पहनता है।
+Tom weeded the garden.	Tom hat den Garten von Unkraut befreit.	टॉम ने बगीचे की गांधक किया।
+Tom went back outside.	Tom ging wieder nach draußen.	टॉम बाहर वापस गया।
+Tom went duck hunting.	Tom ging Entenjagd.	टॉम बतख शिकार करने गया।
+Tom went for a doctor.	Tom ging zu einem Arzt.	टॉम डॉक्टर के पास गया।
+Tom went for a stroll.	Tom machte einen Spaziergang.	टॉम एक सैर पर गया।
+Tom went home at 6:30.	Tom ging um 6:30 Uhr nach Hause.	टॉम 6:30 बजे घर चला गया।
+Tom went home by taxi.	Tom ging mit dem Taxi nach Hause.	टॉम ने टैक्सी से घर जाना।
