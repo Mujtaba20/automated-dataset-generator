@@ -37646,3 +37646,12 @@ I like dogs very much.	Ich liebe Hunde über alles.	मुझे कुत्त
 I like how Tom thinks.	Ich mag Toms Denkweise.	मुझे वह अच्छा लगता है कि टॉम कैसे सोचता है।
 I like milk and bread.	Ich mag Milch und Brot.	मुझे दूध और रोटी पसंद है।
 I like milk in my tea.	Ich trinke Tee gerne mit Milch.	मुझे चाय में दूध पसंद है।
+I like playing sports.	Ich spiele gerne Sport.	मुझे खेलना पसंद है।
+I like playing tennis.	Ich spiele gerne Tennis.	मुझे टेनिस खेलना पसंद है।
+I like skating better.	Ich mag das Skaten lieber.	मुझे इससे अच्छा स्केटिंग करना पसंद है।
+I like that it's soft.	Ich mag, dass es weich ist.	मुझे यह पसंद है कि यह मुलायम है।
+I like that young man.	Ich mag diesen jungen Mann.	मुझे वह जवान आदमी अच्छा लगता है।
+I like the theme song.	Ich mag das Titellied.	मुझे इस थीम गाना पसंद है।
+I like their pictures.	Mir gefallen ihre Bilder.	मुझे उनकी तस्वीरें पसंद हैं।
+I like this book best.	Ich mag dieses Buch am besten.	मुझे यह किताब सबसे अच्छी लगती है।
+I like this love song.	Ich mag dieses Liebeslied.	मुझे यह प्यार भरा गाना पसंद है।
