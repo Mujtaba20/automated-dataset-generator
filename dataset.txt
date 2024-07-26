@@ -1,14 +1,4 @@
 
-Tom caught a trout.	Tom hat eine Forelle gefangen.	टॉम ने एक ट्राउट पकड़ा है।
-Tom claimed he won.	Tom behauptet, dass er gewonnen hat.	टॉम का दावा है कि वह जीत गया।
-Tom comforted Mary.	Tom tröstete Maria.	टॉम ने मारिया को आराम दिया।
-Tom contacted Mary.	Tom wandte sich an Mary.	टॉम ने मैरी की ओर रुख किया।
-Tom contacted Mary.	Tom setzte sich mit Mary in Verbindung.	टॉम मैरी के संपर्क में आ गया।
-Tom convinced Mary.	Tom überzeugte Maria.	टॉम ने मारिया को आश्वस्त किया।
-Tom cooks for Mary.	Tom kocht für Mary.	मैरी के लिए टॉम कुक।
-Tom cooks with gas.	Tom kocht mit Gas.	टॉम गैस के साथ खाना बनाती है।
-Tom coughed loudly.	Tom hustete laut.	टॉम ने ज़ोर से खाँस दिया।
-Tom could be alone.	Tom konnte allein sein.	टॉम अकेला हो सकता है।
 Tom could get sick.	Tom könnte krank werden.	टॉम बीमार हो सकता है।
 Tom could help you.	Tom könnte dir helfen.	टॉम आपकी मदद कर सकता था।
 Tom could help you.	Tom könnte euch helfen.	टॉम आपकी मदद कर सकता था।

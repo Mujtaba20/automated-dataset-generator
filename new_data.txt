@@ -23368,3 +23368,12 @@ Tom carried a cane.	Tom trug einen Stock.	टॉम ने एक डंडा �
 Tom caught a mouse.	Tom fing eine Maus.	टॉम ने एक चूहा पकड़ा।
 Tom caught a shark.	Tom fing einen Hai.	टॉम ने एक शार्क पकड़ा।
 Tom caught a thief.	Tom fing einen Dieb.	टॉम ने एक चोर पकड़ा।
+Tom caught a trout.	Tom fing eine Forelle.	टॉम ने एक ट्राउट पकड़ा।
+Tom claimed he won.	Tom behauptete, er habe gewonnen.	टॉम ने दावा किया कि उसने जीत ली।
+Tom comforted Mary.	Tom tröstete Maria.	टॉम ने मेरी को सांत्वना दी।
+Tom contacted Mary.	Tom hat Mary kontaktiert.	टॉम ने मेरी से संपर्क किया।
+Tom convinced Mary.	Tom überzeugte Maria.	टॉम ने मेरी को मनाया।
+Tom cooks for Mary.	Tom kocht für Maria.	टॉम मेरी के लिए खाना पकाता है।
+Tom cooks with gas.	Tom kocht mit Gas.	टॉम गैस के साथ पकाता है।
+Tom coughed loudly.	Tom hustete laut.	टॉम जोर से खांसा।
+Tom could be alone.	Tom könnte alleine sein.	टॉम अकेला हो सकता है।
