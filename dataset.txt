@@ -1,14 +1,4 @@
 
-Where is the laundry?	Wo ist die Wäsche?	कपड़े धोने कहाँ है?
-Where is the library?	Wo ist die Bibliothek?	लाइब्रेरी कहाँ है?
-Where is the mailbox?	Wo ist der Briefkasten?	डाक पेटी कहां है?
-Where is the problem?	Wo ist das Problem?	समस्या कहाँ है?
-Where is the station?	Wo ist der Bahnhof?	रेलवे स्टेशन कहां है?
-Where is the station?	Wo ist die Haltestelle?	बस स्टॉप कहाँ है?
-Where is your father?	Wo ist euer Vater?	अपके पिता कहाँ हैं?
-Where is your school?	Wo ist deine Schule?	तुम्हारा विद्यालय कहाँ है?
-Where is your school?	Wo ist eure Schule?	तुम्हारा विद्यालय कहाँ है?
-Where is your school?	Wo ist Ihre Schule?	तुम्हारा विद्यालय कहाँ है?
 Where should we hide?	Wo wollen wir uns verstecken?	हम कहाँ छिपाना चाहते हैं?
 Where should we meet?	Wo sollen wir uns treffen?	हमें कहां मिलना चाहिए?
 Where were they born?	Wo wurden sie geboren?	आपका जन्म कहां हुआ था?

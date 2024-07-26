@@ -35517,3 +35517,10 @@ Where have they gone?	Wo sind sie hingegangen?	वे कहाँ गए है
 Where is my umbrella?	Wo ist mein Regenschirm?	मेरा छाता कहाँ है?
 Where is the concert?	Wo ist das Konzert?	संगीत समारोह कहाँ है?
 Where is the embassy?	Wo ist die Botschaft?	सफिर कहाँ है?
+Where is the laundry?	Wo ist die Wäscherei?	धोबीघर कहाँ है?
+Where is the library?	Wo ist die Bibliothek?	लाइब्रेरी कहाँ है?
+Where is the mailbox?	Wo ist der Briefkasten?	मेलबॉक्स कहाँ है?
+Where is the problem?	Wo liegt das Problem?	समस्या कहाँ है?
+Where is the station?	Wo ist der Bahnhof?	स्टेशन कहाँ है?
+Where is your father?	Wo ist dein Vater?	तुम्हारा पिता कहाँ है?
+Where is your school?	Wo befindet sich deine Schule?	तुम्हारी स्कूल कहाँ है?
