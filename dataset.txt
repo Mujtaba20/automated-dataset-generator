@@ -1,14 +1,4 @@
 
-It's free of charge.	Es kostet nichts.	इसकी लागत कुछ भी नहीं है।
-It's getting bigger.	Es wird größer.	यह बड़ा हो जाता है।
-It's getting bigger.	Es wächst an.	ए बड़ता है।
-It's getting cloudy.	Wolken ziehen auf.	बादल इकट्ठा हो रहे हैं।
-It's getting cloudy.	Es wird bewölkt.	बादल छाऐ हैं।
-It's getting cloudy.	Es zieht sich zu.	यह हो जाता है।
-It's getting colder.	Es wird kälter.	यह और ठंडा हो रहा है।
-It's getting larger.	Es wird größer.	यह बड़ा हो जाता है।
-It's going to be OK.	Das wird okay sein.	यह ठीक होगा।
-It's going to break.	Es bricht!	यह टूट जाता है!
 It's good, isn't it?	Es ist gut, oder?	यह अच्छा है, है ना?
 It's happened to me.	Das ist mir geschehen.	मेरे साथ ऐसा हुआ।
 It's hard, isn't it?	Das ist schwer, oder?	यह कठिन है, है ना?

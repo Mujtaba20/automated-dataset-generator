@@ -27424,3 +27424,10 @@ It's cold out there.	Es ist kalt draußen.	वहाँ ठंड है।
 It's dangerous here.	Es ist gefährlich hier.	यहाँ खतरनाक है।
 It's extremely ugly.	Es ist extrem hässlich.	यह बहुत ही बदसूरत है।
 It's familiar to me.	Es ist mir vertraut.	यह मुझे परिचित है।
+It's free of charge.	Es ist kostenlos.	यह मुफ्त है।
+It's getting bigger.	Es wird größer.	यह बड़ा हो रहा है।
+It's getting cloudy.	Es wird bewölkt.	यह बादलदूं हो रहा है।
+It's getting colder.	Es wird kälter.	यह ठंडा हो रहा है।
+It's getting larger.	Es wird größer.	यह बड़ा हो रहा है।
+It's going to be OK.	Alles wird gut.	सब ठीक हो जाएगा।
+It's going to break.	Es wird brechen.	यह टूटने जा रहा है।
