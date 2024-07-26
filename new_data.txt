@@ -30330,3 +30330,8 @@ You're wasting ammo.	Du vergeudest Munition.	तुम गोली सर्व
 You're wasting time.	Du verschwendest Zeit.	आप समय व्यर्थ कर रहे हैं।
 You're way too late.	Du bist viel zu spät.	तुम इतनी देर से क्यों आए?
 You're with friends.	Du bist bei Freunden.	आप दोस्तों के साथ हैं।
+You're working hard.	Du bist fleißig.	तुम महानत कर रहे हो।
+You've been injured.	Du wurdest verletzt.	तुम्हें चोट आ गई है।
+You've been spotted.	Du wurdest gesichtet.	तुम्हें देख लिया गया।
+You've eaten enough.	Du hast genug gegessen.	तुमने काफी खा लिया है।
+You've gone too far.	Du bist zu weit gegangen.	तुमने बहुत आगे बढ़ लिया है।

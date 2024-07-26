@@ -1,14 +1,4 @@
 
-You're working hard.	Du arbeitest emsig.	आप व्यस्त काम करते हैं।
-You're working hard.	Sie arbeiten eifrig.	आप उत्सुकता से काम करते हैं।
-You're working hard.	Ihr arbeitet schwer.	आप कड़ी मेहनत करें।
-You've been injured.	Du bist verletzt gewesen.	आपको चोट लगी थी।
-You've been spotted.	Sie wurden entdeckt.	उन्हें खोजा गया।
-You've been spotted.	Man hat Sie entdeckt.	उन्हें खोजा गया।
-You've eaten enough.	Du hast genug gegessen.	आपने काफी खाया।
-You've eaten enough.	Ihr habt genug gegessen.	आपने काफी खाया।
-You've eaten enough.	Sie haben genug gegessen.	आपने काफी खाया।
-You've gone too far.	Du bist zu weit gegangen.	आप बहुत दूर चले गए हैं।
 You've got my phone.	Du hast mein Telefon.	आपके पास मेरा फोन है।
 You've got my phone.	Ihr habt mein Telefon.	आपके पास मेरा फोन है।
 You've got my phone.	Sie haben mein Telefon.	आपके पास मेरा फोन है।
