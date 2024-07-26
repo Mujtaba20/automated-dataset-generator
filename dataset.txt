@@ -1,14 +1,4 @@
 
-I came with my friends.	Ich bin mit meinen Freunden gekommen.	मैं अपने दोस्तों के साथ आया था।
-I can be very flexible.	Ich kann sehr flexibel sein.	मैं बहुत लचीला हो सकता हूं।
-I can buy that for you.	Ich kann das für dich kaufen.	मैं आपके लिए खरीद सकता हूं।
-I can buy that for you.	Ich kann das für euch kaufen.	मैं आपके लिए खरीद सकता हूं।
-I can buy that for you.	Ich kann das für Sie kaufen.	मैं आपके लिए खरीद सकता हूं।
-I can fix that for you.	Ich kann dir das reparieren.	मैं आपकी मरम्मत कर सकता हूं।
-I can fix that for you.	Ich kann euch das reparieren.	मैं आपकी मरम्मत कर सकता हूं।
-I can fix that for you.	Ich kann Ihnen das reparieren.	मैं मरम्मत कर सकता हूं।
-I can handle it myself.	Ich werde allein damit fertig.	मैं इसे अकेले करने जा रहा हूं।
-I can hear Tom's voice.	Ich kann Toms Stimme hören.	मैं टॉम की आवाज सुन सकता हूं।
 I can manage on my own.	Ich komme schon selber klar.	मैं अपने आप को संभाल सकता हूँ।
 I can teach you guitar.	Ich kann dir das Gitarrenspiel beibringen.	मैं आपको गिटार गेम सिखा सकता हूं।
 I can teach you things.	Ich kann dir Dinge beibringen.	मैं आपको चीजें सिखा सकता हूं।
