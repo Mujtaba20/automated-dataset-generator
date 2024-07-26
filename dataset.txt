@@ -1,14 +1,4 @@
 
-There's a waiting list.	Es gibt eine Warteliste.	एक प्रतीक्षा सूची है।
-There's another reason.	Es gibt noch einen Grund.	एक और कारण है।
-There's no alternative.	Es gibt keine Alternative.	यहां कोई विकल्प नहीं है।
-There's no class today.	Wir haben heute keine Schule.	आज हमारे पास कोई स्कूल नहीं है।
-There's no class today.	Wir haben heute keinen Unterricht.	आज हमारे पास कोई सबक नहीं है।
-There's no class today.	Heute ist kein Unterricht.	आज सबक नहीं है।
-There's no explanation.	Es gibt keine Erklärung.	कोई स्पष्टीकरण नहीं है।
-There's no great hurry.	Das hat überhaupt keine Eile.	इसकी कोई जल्दी नहीं है।
-There's no speed limit.	Es gibt keine Geschwindigkeitsbegrenzung.	कोई गति सीमा नहीं है।
-There's some milk left.	Es ist noch Milch da.	अभी भी दूध है।
 These are Tom's gloves.	Das sind Toms Handschuhe.	ये टॉम के दस्ताने हैं।
 These are for you, Tom.	Die sind für dich, Tom.	वे आपके लिए हैं, टॉम।
 These are marshmallows.	Das hier ist Mäusespeck.	यह माउस है।
