@@ -33079,3 +33079,13 @@ Maybe she won't come.	Vielleicht kommt sie nicht.	शायद वह नही�
 Maybe they're hungry.	Vielleicht haben sie Hunger.	शायद उन्हें भूख लगी है।
 Maybe we should stop.	Vielleicht sollten wir aufhören.	शायद हमें रुकना चाहिए।
 engSentence	{'Maybe we should talk.': 'Vielleicht sollten wir reden.', "Maybe you'll succeed.": 'Vielleicht wirst du Erfolg haben.'}	{'Maybe we should talk.': 'शायद हमें बात करनी चाहिए।', "Maybe you'll succeed.": 'शायद तुम्हारी सफलता हो।'}
+Meet me in the lobby.	Triff mich in der Lobby.	लॉबी में मिलो मुझसे।
+Men are all the same.	Männer sind alle gleich.	सभी पुरुष एक समान हैं।
+Milk makes us strong.	Milch macht uns stark.	दूध हमें मजबूत बनाता है।
+Misery loves company.	Armut liebt Gesellschaft.	दुःख के संगी होते हैं।
+Money can't buy life.	Geld kann kein Leben kaufen.	पैसा जीवन नहीं खरीद सकता।
+Money changes people.	Geld verändert Menschen.	पैसे लोगों को बदल देते हैं।
+Monkeys love bananas.	Affen lieben Bananen.	बंदरों को केला पसंद है।
+Most people hate war.	Die meisten Menschen hassen Krieg.	ज्यादातर लोग युद्ध से नफरत करते हैं।
+Most people think so.	Die meisten Menschen denken so.	अधिकांश लोग ऐसा सोचते हैं।
+My apartment is near.	Meine Wohnung ist in der Nähe.	मेरा अपार्टमेंट पास है।
