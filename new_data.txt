@@ -31261,3 +31261,13 @@ Hi! Do you work here?	Hallo! Arbeiten Sie hier?	नमस्ते! क्या
 Hi, how're you doing?	Hallo, wie geht's?	नमस्ते, तुम कैसे हो?
 His aunt looks young.	Seine Tante sieht jung aus.	उसकी चाची जवान दिखती है।
 His blood is boiling.	Sein Blut kocht.	उसका खून उबल रहा है।
+His face turned pale.	Sein Gesicht wurde blass.	उसका चेहरा माथे रंग कर गया।
+His feet were asleep.	Seine Füße waren eingeschlafen.	उसके पैर सो गए थे।
+His hands feel rough.	Seine Hände fühlen sich rau an.	उसके हाथ कड़के महसूस होते हैं।
+His hands were empty.	Seine Hände waren leer.	उसके हाथ खाली थे।
+His memory amazes me.	Sein Gedächtnis erstaunt mich.	उसकी यादें मुझे चौंका देती हैं।
+His mother was right.	Seine Mutter hatte recht.	उसकी माँ सही थी।
+His mother was correct.	Seine Mutter war korrekt.	उसकी माँ सही थी।
+His nose is bleeding.	Seine Nase blutet.	उसकी नाक से खून निकल रहा है।
+His roof was damaged.	Sein Dach war beschädigt.	उसकी छत को नुकसान हुआ था।
+His teeth were white.	Seine Zähne waren weiß.	उसके दांत सफेद थे।
