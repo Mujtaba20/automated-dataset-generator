@@ -1,14 +1,4 @@
 
-It's not at all easy.	Das ist alles andere als leicht.	यह कुछ भी है लेकिन आसान है।
-It's not at all easy.	Es ist gar nicht leicht.	यह बिल्कुल आसान नहीं है।
-It's not at all easy.	Das ist ganz und gar nicht leicht.	यह बिल्कुल आसान नहीं है।
-It's not complicated.	Es ist nicht kompliziert.	यह जटिल नहीं है।
-It's not deep enough.	Es ist nicht tief genug.	यह पर्याप्त गहरा नहीं है।
-It's not easy for me.	Es fällt mir nicht leicht.	यह मेरे लिए कठिन है।
-It's not my business.	Das ist nicht meine Angelegenheit.	यह मेरा मामला नहीं है।
-It's not my decision.	Das ist nicht meine Entscheidung.	यह मेरा निर्णय नहीं है।
-It's not on the menu.	Das steht nicht auf der Speisekarte.	यह मेनू पर नहीं है।
-It's not predictable.	Das ist nicht vorhersehbar.	यह अनुमानित नहीं है।
 It's not so bad here.	Es ist gar nicht so schlecht hier.	यह यहाँ बुरा नहीं है।
 It's not that simple.	So einfach ist es nicht.	यह इतना आसान नहीं है।
 It's our only chance.	Das ist unsere einzige Chance.	यह हमारा एकमात्र मौका है।

@@ -32896,3 +32896,11 @@ It's not a good idea.	Das ist keine gute Idee.	यह अच्छा विच�
 It's not a good time.	Es ist keine gute Zeit.	यह सही समय नहीं है।
 It's not about money.	Es geht nicht um Geld.	यह पैसे के बारे में नहीं है।
 It's not always easy.	Es ist nicht immer einfach.	यह हमेशा आसान नहीं है।
+It's not at all easy.	Es ist überhaupt nicht einfach.	यह बिल्कुल आसान नहीं है।
+It's not complicated.	Es ist nicht kompliziert.	यह जटिल नहीं है।
+It's not deep enough.	Es ist nicht tief genug.	यह पर्याप्त गहरा नहीं है।
+It's not easy for me.	Es ist nicht einfach für mich.	मेरे लिए यह आसान नहीं है।
+It's not my business.	Es ist nicht mein Geschäft.	यह मेरा काम नहीं है।
+It's not my decision.	Es ist nicht meine Entscheidung.	यह मेरा निर्णय नहीं है।
+It's not on the menu.	Es steht nicht auf der Speisekarte.	यह मेनू पर नहीं है।
+It's not predictable.	Es ist nicht vorhersehbar.	यह पूर्वानुमान योग्य नहीं है।
