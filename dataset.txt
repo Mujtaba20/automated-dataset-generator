@@ -1,14 +1,4 @@
 
-I am talking with Tom.	Ich spreche mit Tom.	मैं टॉम से बात कर रहा हूं।
-I am teaching English.	Ich unterrichte Englisch.	मैं अँग्रेजी पढ़ता हूँ।
-I am tired of my work.	Ich bin müde von meiner Arbeit.	मैं अपने काम से थक गया हूं।
-I am tired of my work.	Ich bin meiner Arbeit müde.	मैं अपने काम से थक गया हूं।
-I am too tired to run.	Ich bin zu müde zum Laufen.	मैं दौड़ने के लिए बहुत थक गया हूं।
-I am totally confused.	Ich bin ganz durcheinander.	मैं पूरी तरह से भ्रमित हूं।
-I am totally confused.	Ich bin völlig verwirrt.	मैं पूरी तरह से भ्रमित हूं।
-I am writing a letter.	Ich schreibe einen Brief.	मैं एक पत्र लिखता हूं।
-I anticipated trouble.	Ich erwartete Ärger.	मुझे परेशानी की उम्मीद है।
-I asked where Tom was.	Ich fragte, wo Tom sei.	मैंने पूछा कि टॉम कहाँ था।
 I assume you're angry.	Ich nehme an, du bist wütend.	मुझे लगता है कि आप नाराज हैं।
 I assume you're angry.	Ich nehme an, Sie sind verärgert.	मुझे लगता है कि आप परेशान हैं।
 I ate with my parents.	Ich aß mit meinen Eltern.	मैंने अपने माता -पिता के साथ खाया।

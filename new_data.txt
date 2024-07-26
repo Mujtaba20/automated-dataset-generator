@@ -37102,3 +37102,11 @@ I am not coming today.	Ich komme heute nicht.	मैं आज नहीं आ 
 I am poor at swimming.	Ich bin schlecht im Schwimmen.	मेरा तैरना खराब है।
 I am shorter than you.	Ich bin kleiner als du.	मैं तुमसे छोटा हूँ।
 I am taller than you.	Ich bin größer als du.	मैं तुमसे लम्बा हूँ।
+I am talking with Tom.	Ich spreche mit Tom.	मैं टॉम के साथ बात कर रहा हूँ।
+I am teaching English.	Ich unterrichte Englisch.	मैं अंग्रेज़ी पढ़ा रहा हूँ।
+I am tired of my work.	Ich bin müde von meiner Arbeit.	मुझे मेरे काम से ऊब गया है।
+I am too tired to run.	Ich bin zu müde zum Laufen.	मैं भागने के लिए बहुत थक गया हूँ।
+I am totally confused.	Ich bin völlig verwirrt.	मैं पूरी तरह से उलझन में हूँ।
+I am writing a letter.	Ich schreibe einen Brief.	मैं एक पत्र लिख रहा हूँ।
+I anticipated trouble.	Ich erwartete Ärger.	मैं मुसीबत की उम्मीद कर रहा था।
+I asked where Tom was.	Ich habe gefragt, wo Tom war.	मैंने पूछा कि टॉम कहाँ था।
