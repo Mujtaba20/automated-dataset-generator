@@ -38593,3 +38593,12 @@ It's a bad investment.	Es ist eine schlechte Investition.	यह एक खर�
 It's a beautiful flag.	Es ist eine schöne Flagge.	यह एक खूबसूरत झंडा है।
 It's a beautiful song.	Es ist ein schönes Lied.	यह एक सुंदर गाना है।
 It's a common mistake.	Es ist ein häufiger Fehler.	यह एक सामान्य गलती है।
+It's a fine day today.	Es ist ein schöner Tag heute.	आज एक अच्छा दिन है।
+It's a matter of time.	Es ist eine Frage der Zeit.	यह समय का मामला है।
+It's a necessary evil.	Es ist ein notwendiges Übel.	यह एक आवश्यक बुराई है।
+It's a nice day today.	Es ist ein schöner Tag heute.	यह आज एक अच्छा दिन है।
+It's a quarter to two.	Es ist Viertel vor zwei.	यह दो बजे का चौथाई है।
+It's a riveting story.	Es ist eine fesselnde Geschichte.	यह एक रोचक कहानी है।
+It's a slippery slope.	Es ist ein glatter Hang.	यह एक चिकनी सी ढाल है।
+It's a social problem.	Es ist ein gesellschaftliches Problem.	यह एक सामाजिक समस्या है।
+It's a tough question.	Es ist eine schwierige Frage.	यह एक कठिन सवाल है।
