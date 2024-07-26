@@ -23266,3 +23266,11 @@ This pencil is red.	Dieser Bleistift ist rot.	यह पेन्सिल ल�
 This pizza is cold.	Diese Pizza ist kalt.	यह पिज्जा ठंडा है।
 This room is quiet.	Dieser Raum ist ruhig.	यह कमरा शांत है।
 This seems to help.	Das scheint zu helfen.	यह मदद करने लगता है।
+This should be fun.	Das sollte Spaß machen.	यह मजेदार होना चाहिए।
+This soil is moist.	Dieser Boden ist feucht.	यह मिट्टी गीली है।
+This story is true.	Diese Geschichte ist wahr.	यह कहानी सच है।
+This time I'll pay.	Dieses Mal werde ich bezahlen.	इस बार मैं भुगतान करूंगा।
+This was avoidable.	Dies war vermeidbar.	यह टाल सका जा सकता था।
+This was very hard.	Das war sehr schwer.	यह बहुत कठिन था।
+This was your idea.	Das war deine Idee.	यह तुम्हारा विचार था।
+This will be great.	Das wird großartig sein.	यह शानदार होगा।
