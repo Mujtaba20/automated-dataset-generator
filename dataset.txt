@@ -1,14 +1,4 @@
 
-You don't have a clue.	Du hast keine Ahnung.	तुम्हें कोई अंदाजा नहीं है।
-You don't have a clue.	Du hast keinen Schimmer.	आपके पास कोई टिमटिमाना नहीं है।
-You don't have to eat.	Du musst nicht essen.	आपको खाने की जरूरत नहीं है।
-You don't have to lie.	Du brauchst nicht zu lügen.	आपको झूठ बोलने की जरूरत नहीं है।
-You don't have to lie.	Ihr braucht nicht zu lügen.	आपको झूठ बोलने की जरूरत नहीं है।
-You don't have to lie.	Sie brauchen nicht zu lügen.	आपको झूठ बोलने की जरूरत नहीं है।
-You don't have to lie.	Du musst nicht lügen.	आपको झूठ नहीं बोलना है।
-You don't have to lie.	Ihr müsst nicht lügen.	आपको झूठ नहीं बोलना है।
-You don't have to lie.	Sie müssen nicht lügen.	आपको झूठ नहीं बोलना है।
-You don't need a list.	Du brauchst keine Liste.	आपको एक सूची की आवश्यकता नहीं है।
 You don't sound happy.	Du klingst nicht sehr glücklich.	आप बहुत खुश नहीं हैं।
 You don't sound happy.	Sie klingen nicht sehr glücklich.	वे बहुत खुश नहीं लगते।
 You don't work for me.	Du arbeitest nicht für mich.	तुम मेरे लिए काम नहीं करते।
