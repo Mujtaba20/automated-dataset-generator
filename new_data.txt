@@ -33971,3 +33971,10 @@ This milk tastes odd.	Diese Milch schmeckt seltsam.	यह दूध अजी�
 This movie is boring.	Dieser Film ist langweilig.	यह फिल्म बोरिंग है।
 This must be changed.	Das muss geändert werden.	यह बदला जाना चाहिए।
 This must be my book.	Das muss mein Buch sein.	यह मेरी किताब होगी।
+This needs to change.	Das muss sich ändern.	यह बदलने की जरूरत है।
+This novel is boring.	Dieser Roman ist langweilig.	यह उपन्यास उबाऊ है।
+This one is prettier.	Dieser ist hübscher.	यह एक सुंदर है।
+This ought to be fun.	Das sollte Spaß machen.	यह मजेदार होना चाहिए।
+This pen has run dry.	Dieser Stift ist leer gelaufen.	यह कलम सूख गई है।
+This place is boring.	Dieser Ort ist langweilig.	यह स्थान उबाऊ है।
+This place is creepy.	Dieser Ort ist gruselig.	यह स्थान डरावना है।
