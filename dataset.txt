@@ -1,14 +1,4 @@
 
-I'm driving you home.	Ich fahre dich nach Hause.	मैं तुम्हें घर चलाऊंगा।
-I'm driving you home.	Ich fahre euch nach Hause.	मैं तुम्हें घर चलाता हूँ।
-I'm driving you home.	Ich fahre Sie nach Hause.	मैं उसे घर चलाता हूं।
-I'm dying to see you.	Ich verzehre mich danach, dich zu sehen.	मैं आपको देखने के लिए खुद का उपभोग करता हूं।
-I'm dying to see you.	Ich kann es nicht erwarten, euch zu treffen.	मैं आपसे मिलने की उम्मीद नहीं कर सकता।
-I'm dying to see you.	Ich sterbe vor Verlangen, Sie zu sehen.	मैं उन्हें देखने के लिए कहने से पहले मर जाता हूं।
-I'm eating breakfast.	Ich frühstücke.	मैंने नाश्ता कर लिया है।
-I'm eating ice cream.	Ich esse Eiscreme.	मैं आइसक्रीम खाता हूँ।
-I'm emailing Tom now.	Ich schicke Tom gerade eine E-Mail.	मैं टॉम को एक ईमेल भेज रहा हूं।
-I'm excited about it.	Ich bin davon begeistert.	मैं रोमांचित हूं।
 I'm fed up with math.	Ich hab die Nase voll von Mathe.	मेरी नाक गणित से भरी है।
 I'm feeling fine now.	Ich fühle mich jetzt wohl.	मुझे अब अच्छा लग रहा है।
 I'm feeling stressed.	Ich fühle mich gestresst.	मैं अत्यधिक थका हुआ हूँ।

@@ -32460,3 +32460,9 @@ I'm doing it for Tom.	Ich mache das für Tom.	मैं यह टॉम के 
 I'm doing it for you.	Ich mache es für dich.	मैं तुम्हारे लिए कर रहा हूँ।
 I'm doing my laundry.	Ich mache meine Wäsche.	मैं अपनी धोबी कर रहा हूं।
 I'm doing well today.	Ich mache heute gut.	आज मैं अच्छा कर रहा हूँ।
+I'm driving you home.	Ich fahre dich nach Hause.	मैं तुम्हें घर ले जा रहा हूँ।
+I'm dying to see you.	Ich sterbe, um dich zu sehen.	मैं तुम्हें देखने के लिए तरस रहा हूँ।
+I'm eating breakfast.	Ich esse Frühstück.	मैं नाश्ता कर रहा हूँ।
+I'm eating ice cream.	Ich esse Eiscreme.	मैं आइस क्रीम खा रहा हूँ।
+I'm emailing Tom now.	Ich maile jetzt Tom.	मैं अभी टॉम को ईमेल कर रहा हूँ।
+I'm excited about it.	Ich bin darauf aufgeregt.	मुझे इसके बारे में उत्साहित है।
