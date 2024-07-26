@@ -1,14 +1,4 @@
 
-I want to look rich.	Ich möchte reich aussehen.	मैं अमीर दिखना चाहता हूं।
-I want to look rich.	Ich möchte einen vermögenden Eindruck machen.	मैं एक अमीर छाप बनाना चाहता हूं।
-I want to marry her.	Ich will sie heiraten.	मैं उससे शादी करना चाहता हूं।
-I want to marry you.	Ich will dich heiraten.	मैं तुमसे शादी करना चाहता हूँ।
-I want to play, too.	Ich will auch spielen.	मैं भी खेलना चाहता हूं।
-I want to scare Tom.	Ich will Tom Angst machen.	मैं टॉम को डराना चाहता हूं।
-I want to sleep now.	Ich möchte jetzt schlafen.	मैं अब सोना चाहता हूं।
-I want to start now.	Ich möchte jetzt anfangen.	मैं अब शुरू करना चाहता हूं।
-I want to stay here.	Ich will hier bleiben.	मैं यहा रहना चाहता हूं।
-I want to thank Tom.	Ich möchte Tom danken.	मैं टॉम को धन्यवाद देना चाहता हूं।
 I want to thank you.	Ich möchte dir danken.	मुझे आपको धन्यवाद कहना है।
 I want to use these.	Ich möchte diese benutzen.	मैं इसका उपयोग करना चाहता हूं।
 I want to visit Tom.	Ich will Tom besuchen.	मैं टॉम जाना चाहता हूं।

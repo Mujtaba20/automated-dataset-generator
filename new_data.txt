@@ -26772,3 +26772,12 @@ I want to keep that.	Ich möchte das behalten.	मुझे वह रखना 
 I want to live here.	Ich möchte hier leben.	मैं यहाँ रहना चाहता हूँ।
 I want to get drunk. (different meaning)	Ich möchte malzbier trinken.	मैं माल्ट बीयर पीना चाहता हूँ।
 I want to keep this. (different meaning)	Ich möchte das hier aufbewahren.	मैं यह रखना चाहता हूँ।
+I want to look rich.	Ich möchte wohlhabend aussehen.	मैं अमीर दिखना चाहता हूँ।
+I want to marry her.	Ich möchte sie heiraten.	मैं उससे शादी करना चाहता हूँ।
+I want to marry you.	Ich möchte dich heiraten.	मैं तुमसे शादी करना चाहता हूँ।
+I want to play, too.	Ich möchte auch spielen.	मैं भी खेलना चाहता हूँ।
+I want to scare Tom.	Ich möchte Tom erschrecken.	मैं टॉम को डराना चाहता हूँ।
+I want to sleep now.	Ich möchte jetzt schlafen.	मैं अब सोना चाहता हूँ।
+I want to start now.	Ich möchte jetzt starten.	मैं अब शुरू करना चाहता हूँ।
+I want to stay here.	Ich möchte hier bleiben.	मैं यहाँ ठहरना चाहता हूँ।
+I want to thank Tom.	Ich möchte Tom danken.	मैं टॉम का आभारी हूँ।
