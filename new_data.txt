@@ -21278,3 +21278,13 @@ I have a pain here.	Ich habe hier Schmerzen.	मुझे यहाँ दर्
 I have a small car.	Ich habe ein kleines Auto.	मेरे पास एक छोटी कार है।
 I have a sore head.	Ich habe Kopfschmerzen.	मेरे सर में दर्द है।
 I have a toothache.	Ich habe Zahnschmerzen.	मुझे दांत में दर्द है।
+I have a white cat.	Ich habe eine weiße Katze.	मेरे पास एक सफ़ेद बिल्ली है।
+I have an umbrella.	Ich habe einen Regenschirm.	मेरे पास एक छाता है।
+I have blonde hair.	Ich habe blonde Haare.	मेरे पास सुनहरे बाल हैं।
+I have few friends.	Ich habe wenige Freunde.	मेरे कुछ दोस्त हैं।
+I have greasy skin.	Ich habe fettige Haut.	मेरी त्वचा तैलीय है।
+I have lost my cap.	Ich habe meine Mütze verloren.	मेरी टोपी खो गई है।
+I have lost my key.	Ich habe meinen Schlüssel verloren.	मेरा कुंजी खो गया है।
+I have lost my pen.	Ich habe meinen Stift verloren.	मेरी पेन खो गई है।
+I have many photos.	Ich habe viele Fotos.	मेरे पास कई फोटो हैं।
+I have my own room.	Ich habe mein eigenes Zimmer.	मेरे पास अपना खुद का कमरा है।

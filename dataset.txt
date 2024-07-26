@@ -1,15 +1,4 @@
 
-I have a white cat.	Ich habe eine weiße Katze.	मेरे पास एक सफेद बिल्ली है।
-I have an umbrella.	Ich habe einen Regenschirm.	मुझे एक छाता है।
-I have blonde hair.	Ich habe blondes Haar.	मेरा बाल सुनहला है।
-I have few friends.	Ich habe wenige Freunde.	मेरे कुछ दोस्त हैं।
-I have greasy skin.	Ich habe fettige Haut.	मेरी चिकना त्वचा है।
-I have lost my cap.	Ich habe meine Mütze verloren.	मैंने अपनी टोपी खो दी।
-I have lost my key.	Ich habe meinen Schlüssel verloren.	मेरी चाबियां खो गई हैं.
-I have lost my pen.	Ich habe meinen Füller verloren.	मैंने अपना भराव खो दिया।
-I have many photos.	Ich habe viele Fotos.	मेरे पास बहुत सारी तस्वीरें हैं।
-I have my own room.	Ich habe mein eigenes Zimmer.	मेरे पास मेरा अपना कमरा है।
-I have my own room.	Ich habe ein eigenes Zimmer.	मेरे पास मेरा अपना कमरा है।
 I have my passport.	Ich habe meinen Pass.	मेरे पास मेरा पासपोर्ट है।
 I have no children.	Ich habe keine Kinder.	मुझे बच्चे नहीं है।
 I have no patience.	Ich bin nicht geduldig.	मैं धैर्यवान नहीं हूं।
