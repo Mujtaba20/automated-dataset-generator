@@ -26403,3 +26403,13 @@ I knew when to quit.	Ich wusste, wann aufzuhören.	मैंने पता थ
 I knew you'd be mad.	Ich wusste, du wirst wütend sein.	मैंने जान लिया कि तुम गुस्सा होगा।
 I knew you'd get it.	Ich wusste, du wirst es bekommen.	मैंने जान लिया कि तुम इसे समझ जाओगे।
 I knew your brother.	Ich kannte deinen Bruder.	मैं तुम्हारे भाई को जानता था।
+I know Tom has died.	Ich weiß, dass Tom gestorben ist.	मुझे पता है कि टॉम की मौत हो गई है।
+I know Tom is a spy.	Ich weiß, dass Tom ein Spion ist.	मुझे पता है कि टॉम एक जासूस है।
+I know Tom is happy.	Ich weiß, dass Tom glücklich ist.	मुझे पता है कि टॉम खुश है।
+I know Tom is tired.	Ich weiß, dass Tom müde ist.	मुझे पता है कि टॉम थका हुआ है।
+I know Tom likes me.	Ich weiß, dass Tom mich mag.	मुझे पता है कि टॉम मुझे पसंद करता है।
+I know Tom loves me.	Ich weiß, dass Tom mich liebt.	मुझे पता है कि टॉम मुझसे प्यार करता है।
+I know Tom's family.	Ich kenne Toms Familie.	मुझे पता है टॉम का परिवार।
+I know Tom's father.	Ich kenne Toms Vater.	मुझे पता है टॉम के पिता।
+I know Tom's secret.	Ich kenne Toms Geheimnis.	मुझे पता है टॉम का रहस्य।
+I know Tom's sister.	Ich kenne Toms Schwester.	मुझे पता है टॉम की बहन।

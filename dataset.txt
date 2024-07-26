@@ -1,14 +1,4 @@
 
-I know Tom has died.	Ich weiß, dass Tom gestorben ist.	मुझे पता है कि टॉम की मृत्यु हो गई है।
-I know Tom is a spy.	Ich weiß, dass Tom ein Spion ist.	मुझे पता है कि टॉम एक जासूस है।
-I know Tom is happy.	Ich weiß, Tom ist glücklich.	मुझे पता है कि टॉम खुश है।
-I know Tom is tired.	Ich weiß, dass Tom müde ist.	मुझे पता है कि टॉम थक गया है।
-I know Tom likes me.	Ich weiß, Tom mag mich.	मुझे पता है कि टॉम मुझे पसंद करता है।
-I know Tom loves me.	Ich weiß, dass Tom mich liebt.	मुझे पता है कि टॉम मुझसे प्यार करता है।
-I know Tom's family.	Ich kenne Toms Familie.	मैं टॉम के परिवार को जानता हूं।
-I know Tom's father.	Ich kenne Toms Vater.	मैं टॉम के पिता को जानता हूं।
-I know Tom's secret.	Ich kenne Toms Geheimnis.	मैं टॉम का रहस्य जानता हूं।
-I know Tom's sister.	Ich kenne Toms Schwester.	मैं टॉम की बहन को जानता हूं।
 I know both of them.	Ich kenne sie beide.	मैं उन दोनों को जानता हूं।
 I know how it feels.	Ich weiß, wie sich das anfühlt.	मुझे पता है यह कैसा लगता है।
 I know how it works.	Ich weiß, wie das funkioniert.	मुझे पता है कि यह कैसे काम करता है।
