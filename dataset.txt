@@ -1,15 +1,4 @@
 
-He cannot be relied on.	Er ist nicht verlässlich.	वह विश्वसनीय नहीं है।
-He cannot have said so.	Das kann er nicht gesagt haben.	वह ऐसा नहीं कह सकता है।
-He climbs trees easily.	Er klettert mit Leichtigkeit auf Bäume.	वह आसानी से पेड़ों पर चढ़ता है।
-He comes from Hangzhou.	Er kommt aus Hangzhou.	वह हांग्जो से आता है।
-He confessed his crime.	Er gestand sein Verbrechen.	उसने अपने अपराध को कबूल कर लिया।
-He confessed his guilt.	Er gestand seine Schuld.	उसने अपने अपराध को स्वीकार किया।
-He confessed his guilt.	Er bekannte sich schuldig.	उसने खुद को दोषी ठहराया।
-He deceived his friend.	Er betrog seinen Freund.	उसने अपने दोस्त को धोखा दिया।
-He declined to comment.	Er lehnte einen Kommentar ab.	उन्होंने एक टिप्पणी से इनकार कर दिया।
-He declined to comment.	Er lehnte es ab, sich zu äußern.	उन्होंने टिप्पणी करने से इनकार कर दिया।
-He declined to comment.	Er lehnte es ab, einen Kommentar abzugeben.	उन्होंने एक टिप्पणी करने से इनकार कर दिया।
 He delivers newspapers.	Er stellt Zeitungen zu.	वह समाचार पत्र भेजता है।
 He demanded better pay.	Er verlangte bessere Bezahlung.	उन्होंने बेहतर भुगतान मांगा।
 He did badly at school.	Er war schlecht in der Schule.	वह स्कूल में बुरा था।
