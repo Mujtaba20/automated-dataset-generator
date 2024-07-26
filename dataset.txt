@@ -1,14 +1,4 @@
 
-I'm very disappointed.	Ich bin ziemlich enttäuscht.	मैं बहुत निराश हूं।
-I'm very disappointed.	Ich bin sehr enttäuscht.	मैं बहुत निराश हूँ।
-I'm very discontented.	Ich bin sehr unzufrieden.	मैं बहुत असंतुष्ट हूं।
-I'm very good at math.	Mathematik ist meine Stärke.	गणित मेरी ताकत है।
-I'm very hungry today.	Ich bin heute sehr hungrig.	मैं आज बहुत भूखा हूं।
-I'm very hungry today.	Ich habe heute großen Hunger.	मैं आज भूखा हूं।
-I'm very proud of Tom.	Ich bin sehr stolz auf Tom.	मुझे टॉम पर बहुत गर्व है।
-I'm very proud of you.	Ich bin sehr stolz auf dich.	मुझे तुम पर गर्व है।
-I'm very proud of you.	Ich bin sehr stolz auf euch.	मुझे तुम पर गर्व है।
-I'm very proud of you.	Ich bin sehr stolz auf Sie.	मुझे उस पर बहुत गर्व है।
 I'm waiting out front.	Ich warte vorne.	मैं सामने इंतजार कर रहा हूं।
 I'm watching the news.	Ich sehe gerade die Nachrichten.	मैं वर्तमान में समाचार देख रहा हूं।
 I'm working in Boston.	Ich arbeite in Boston.	मैं बोस्टन में काम करता हूं।

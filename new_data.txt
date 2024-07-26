@@ -38323,3 +38323,9 @@ I'm used to the noise.	Ich bin den Lärm gewohnt.	मैं शोर के आ
 I'm used to the smell.	Ich bin den Geruch gewohnt.	मैं खुशबू के आदि हूँ।
 I'm very broad-minded.	Ich bin sehr aufgeschlossen.	मैं बहुत खुले विचार-धारा वाला हूँ।
 I'm very conservative.	Ich bin sehr konservativ.	मैं बहुत पारंपरिक हूँ।
+I'm very disappointed.	Ich bin sehr enttäuscht.	मैं बहुत निराश हूं।
+I'm very discontented.	Ich bin sehr unzufrieden.	मैं बहुत असंतुष्ट हूं।
+I'm very good at math.	Ich bin sehr gut in Mathe.	मैं गणित में बहुत अच्छे हूं।
+I'm very hungry today.	Ich bin heute sehr hungrig.	आज मुझे बहुत भूख लगी है।
+I'm very proud of Tom.	Ich bin sehr stolz auf Tom.	मैं टॉम पर बहुत गर्वित हूं।
+I'm very proud of you.	Ich bin sehr stolz auf dich.	मैं तुम पर बहुत गर्वित हूं।
