@@ -31361,3 +31361,11 @@ I abandoned my plans.	Ich habe meine Pläne aufgegeben.	मैंने अप�
 I admire his courage.	Ich bewundere seinen Mut.	मैं उसकी साहस की सराहना करता हूँ।
 I admire your talent.	Ich schätze dein Talent.	मैं तुम्हारी प्रतिभा की प्रशंसा करता हूँ।
 I agree in principle.	Ich stimme grundsätzlich zu.	मैं सिद्धांत में सहमत हूँ।
+I agree to your plan.	Ich stimme Ihrem Plan zu.	मैं आपकी योजना से सहमत हूँ।
+I aim to be a writer.	Ich plane, Schriftsteller zu werden.	मेरा लक्ष्य एक लेखक बनना है।
+I almost kissed Mary.	Ich habe Mary fast geküsst.	मैंने मेरी को लगभग चुम्मा दे दिया।
+I almost never drink.	Ich trinke fast nie.	मैं लगभग कभी नहीं पीता हूँ।
+I almost didn't attend the party.	Ich habe die Party fast nicht besucht.	मैंने मुझे पार्टी लगभग नहीं जाया।
+I already apologized.	Ich habe mich bereits entschuldigt.	मैंने पहले ही माफी मांगी थी।
+I already called him.	Ich habe ihn bereits angerufen.	मैंने उसे पहले ही फोन किया था।
+I already have a kid.	Ich habe bereits ein Kind.	मेरे पास पहले से ही एक बच्चा है।
