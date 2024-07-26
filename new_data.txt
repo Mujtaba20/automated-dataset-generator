@@ -28535,3 +28535,13 @@ Today's the big day.	Heute ist der große Tag.	आज बड़ा दिन ह
 Tokyo is a big city.	Tokio ist eine große Stadt.	टोक्यो एक बड़े शहर है।
 Tom abused my trust.	Tom hat mein Vertrauen missbraucht.	टॉमने मेरा भरोसा टूटा।
 Tom acted foolishly.	Tom hat töricht gehandelt.	टॉम ने मूर्खता से किया।
+Tom advised caution.	Tom riet zur Vorsicht.	टॉम चेतावनी दी।
+Tom always helps us.	Tom hilft uns immer.	टॉम हमेशा हमारी मदद करता है।
+Tom and I are broke.	Tom und ich sind pleite.	टॉम और मैं गरीब हैं।
+Tom and I are happy.	Tom und ich sind glücklich.	टॉम और मैं खुश हैं।
+Tom and I are twins.	Tom und ich sind Zwillinge.	टॉम और मैं जुड़वां हैं।
+Tom and I both work.	Tom und ich arbeiten beide.	टॉम और मैं दोनों काम करते हैं।
+Tom and I have jobs.	Tom und ich haben Jobs.	टॉम और मैं नौकरियां हैं।
+Tom and Mary agreed.	Tom und Mary stimmten zu.	टॉम और मेरी सहमत हो गए।
+Tom and Mary hugged.	Tom und Mary umarmten sich.	टॉम और मेरी गले लग गए।
+Tom and Mary kissed.	Tom und Mary küssten sich.	टॉम और मेरी मुह छुम लिया।
