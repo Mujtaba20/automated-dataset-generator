@@ -27525,3 +27525,12 @@ Let the matter drop.	Lassen Sie die Sache fallen.	चलो मुद्दा �
 Let's all calm down.	Lasst uns alle ruhig bleiben.	आओ सब शांत हों।
 Let's call a doctor.	Lassen Sie einen Arzt rufen.	एक डॉक्टर को बुलाएं।
 Let's call it a day.	Lassen Sie uns den Tag beenden.	आओ इसे एक दिन कहें।
+Let's check the map.	Lass uns die Karte überprüfen.	हम पहले नक्शा देखें।
+Let's do that again.	Lass uns das noch einmal machen.	यह फिर से करते हैं।
+Let's do that first.	Lass uns das zuerst machen.	सबसे पहले यह करें।
+Let's do that later.	Lass uns das später machen.	वह बाद में करें।
+Let's do the dishes.	Lass uns das Geschirr machen.	हम बर्तन धो दें।
+Let's do this again.	Lass uns das noch einmal machen.	यह फिर से करते हैं।
+Let's do this later.	Lasst uns das später machen.	यह बाद में करें।
+Let's end this fast.	Lass uns das schnell beenden.	इसे जल्दी खत्म करें।
+Let's give it a try.	Lass es uns versuchen.	हम इसे प्रयास करें।
