@@ -1,14 +1,4 @@
 
-The test was very easy.	Die Prüfung war ganz leicht.	परीक्षा बहुत आसान थी।
-The toilet is upstairs.	Die Toilette ist oben.	शौचालय ऊपर है।
-The train came on time.	Der Zug kam pünktlich an.	ट्रेन समय पर आ गई।
-The train gained speed.	Der Zug nahm Geschwindigkeit auf.	ट्रेन ने गति उठाई।
-The train is very fast.	Der Zug ist sehr schnell.	ट्रेन बहुत जल्दी है।
-The train was derailed.	Der Zug entgleiste.	ट्रेन पटरी से उतर गई।
-The water is beautiful.	Das Wasser ist wundervoll.	पानी अद्भुत है।
-The weather stayed bad.	Das Wetter blieb schlecht.	मौसम खराब रहा।
-The weather turned bad.	Das Wetter verschlechterte sich.	मौसम खराब हो गया।
-The wheel doesn't turn.	Das Rad dreht sich nicht.	बाइक नहीं मुड़ती है।
 The wind is cold today.	Heute weht ein kalter Wind.	आज एक ठंडी हवा चलती है।
 The wind is cold today.	Der Wind ist heute kalt.	आज हवा ठंडी है।
 The wine was excellent.	Der Wein war ausgezeichnet.	शराब उत्कृष्ट थी।
