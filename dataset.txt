@@ -1,14 +1,4 @@
 
-The economy is bad.	Der Wirtschaft geht es schlecht.	अर्थव्यवस्था खराब है।
-The flame went out.	Die Flamme erlosch.	लौ बाहर चली गई।
-The floor is dirty.	Der Fußboden ist schmutzig.	फर्श गंदा है।
-The floor was cold.	Der Boden war kalt.	फर्श ठंडा था।
-The fog has lifted.	Der Nebel hat sich gelichtet.	कोहरा साफ हो गया है।
-The fruit went bad.	Das Obst wurde schlecht.	फल खराब था।
-The game is rigged.	Das Spiel ist manipuliert.	खेल में हेरफेर किया जाता है।
-The girl is lonely.	Das Mädchen ist einsam.	लड़की अकेली है।
-The girls gossiped.	Die Mädchen tratschten.	लड़कियों ने गपशप किया।
-The glass is clean.	Das Glas ist sauber.	कांच साफ है।
 The glass is dirty.	Das Glas ist schmutzig.	कांच गंदा है।
 The glass is empty.	Das Glas ist leer.	कांच खाली है।
 The house caved in.	Das Haus ist eingestürzt.	घर ढह गया है।

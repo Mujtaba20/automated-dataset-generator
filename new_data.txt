@@ -22987,3 +22987,13 @@ The door is locked.	Die Tür ist verschlossen.	दरवाजा बंद ह�
 The doorknob broke.	Der Türknauf ist gebrochen.	दरवाजे का हैंडल टूट गया।
 The dress is green.	Das Kleid ist grün.	ड्रेस हरी है।
 The earth is round.	Die Erde ist rund.	पृथ्वी गोल है।
+The economy is bad.	Die Wirtschaft ist schlecht.	अर्थव्यवस्था बुरी है।
+The flame went out.	Die Flamme erlosch.	शमा बुझ गई।
+The floor is dirty.	Der Boden ist schmutzig.	फर्श गंदा है।
+The floor was cold.	Der Boden war kalt.	फर्श ठंडा था।
+The fog has lifted.	Der Nebel hat sich gelichtet.	कोहरा उठ गया है।
+The fruit went bad.	Das Obst wurde schlecht.	फल खराब हो गया था।
+The game is rigged.	Das Spiel ist manipuliert.	खेल सेट किया गया है।
+The girl is lonely.	Das Mädchen ist einsam.	लड़की अकेली है।
+The girls gossiped.	Die Mädchen tratschten.	लड़कियां गप्पें करती थीं।
+The glass is clean.	Das Glas ist sauber.	कांच साफ है।
