@@ -21099,3 +21099,10 @@ I can wait for you.	Ich kann auf dich warten.	मैं तुम्हारा
 I can't allow that.	Das kann ich nicht erlauben.	मैं उसे अनुमति नहीं दे सकता।
 I can't allow this.	Das kann ich nicht erlauben.	मैं इसे अनुमति नहीं दे सकता।
 I can't believe it!	Ich kann es nicht glauben!	मैं इसे विश्वास नहीं कर सकता!
+I can't blame them.	Ich kann sie nicht beschuldigen.	मैं उन्हें दोष नहीं दे सकता।
+I can't buy a bike.	Ich kann kein Fahrrad kaufen.	मैं एक बाइक नहीं खरीद सकता।
+I can't confirm it.	Ich kann es nicht bestätigen.	मैं इसे पुष्टि नहीं कर सकता।
+I can't control it.	Ich kann es nicht kontrollieren.	मैं इसे नियंत्रित नहीं कर सकता।
+I can't discuss it.	Ich kann es nicht besprechen.	मैं इसका चर्चा नहीं कर सकता।
+I can't drink milk.	Ich kann keine Milch trinken.	मैं दूध नहीं पी सकता।
+I can't exclude it.	Ich kann es nicht ausschließen.	मैं इसे बाहर नहीं कर सकता।
