@@ -1,14 +1,4 @@
 
-My window was open.	Mein Fenster stand offen.	मेरी खिड़की खुली थी।
-Need anything else?	Darf es noch etwas sein?	और कुछ?
-Never ever give up.	Gib niemals auf!	कभी हार न मानना!
-Never give up hope.	Gib niemals die Hoffnung auf!	उम्मीद कभी नहीं खोना!
-No one believed me.	Niemand glaubte mir.	किसी ने भी मुझ पर विश्वास नहीं किया।
-No one believed us.	Niemand hat uns geglaubt.	किसी ने भी हमें विश्वास नहीं किया।
-No one believes me.	Niemand glaubt mir.	कोई भी मुझ पर विश्वास नहीं करता है।
-No one believes me.	Keiner glaubt mir.	कोई भी मुझ पर विश्वास नहीं करता है।
-No one can help us.	Es kann uns niemand helfen.	कोई भी हमारी मदद नहीं कर सकता।
-No one can stop me.	Es kann mich niemand aufhalten.	मुझे कोई नहीं रोक सकता।
 No one can stop us.	Niemand kann uns aufhalten.	कोई भी हमें रोक नहीं सकता।
 No one can stop us.	Uns kann niemand aufhalten.	कोई भी हमें रोक नहीं सकता।
 No one looks happy.	Keiner macht ein glückliches Gesicht.	कोई भी खुश चेहरा नहीं बनाता है।

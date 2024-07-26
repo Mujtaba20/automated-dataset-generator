@@ -22558,3 +22558,12 @@ My wife hates cats.	Meine Frau hasst Katzen.	मेरी पत्नी बि
 My wife is cooking.	Meine Frau kocht.	मेरी पत्नी पका रही है।
 My wife loves cats.	Meine Frau liebt Katzen.	मेरी पत्नी बिल्लियों से प्यार करती है।
 My wife's pregnant.	Meine Frau ist schwanger.	मेरी पत्नी गर्भवती है।
+My window was open.	Mein Fenster war offen.	मेरी खिड़की खुली हुई थी।
+Need anything else?	Brauchen Sie noch etwas?	कुछ और चाहिए?
+Never ever give up.	Gib niemals auf.	कभी हार मत मानो।
+Never give up hope.	Gib die Hoffnung niemals auf.	आशा मत छोड़ो कभी।
+No one believed me.	Niemand hat mir geglaubt.	कोई मुझपर विश्वास नहीं किया।
+No one believed us.	Niemand hat uns geglaubt.	कोई हमें नहीं मानता था।
+No one believes me.	Niemand glaubt mir.	कोई मुझपर विश्वास नहीं करता।
+No one can help us.	Niemand kann uns helfen.	कोई हमारी मदद नहीं कर सकता।
+No one can stop me.	Niemand kann mich aufhalten.	कोई मुझे रोक नहीं सकता।
