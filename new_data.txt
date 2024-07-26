@@ -29384,3 +29384,12 @@ Tom was put in jail.	Tom wurde ins Gefängnis gesteckt.	टॉम को जे�
 Tom was quite drunk.	Tom war ziemlich betrunken.	टॉम काफी पिया हुआ था।
 Tom was quite upset.	Tom war ziemlich aufgebracht.	टॉम काफ़ी उदास था।
 Tom was real hungry.	Tom war wirklich hungrig.	टॉम सचमुच भूखा था।
+Tom was really good.	Tom war wirklich gut.	टॉम वास रियली गुड।
+Tom was really sick.	Tom war wirklich krank.	टॉम वास रियली बीमार।
+Tom was so confused.	Tom war so verwirrt.	टॉम था इतना उलझा हुआ।
+Tom was soaking wet.	Tom war klatschnass.	टॉम भीगा हुआ था।
+Tom was suffocating.	Tom erstickte.	टॉम को दुर्गंध आ रही थी।
+Tom was thoughtless.	Tom war unüberlegt.	टॉम अविचारी था।
+Tom was throwing up.	Tom hat erbrochen.	टॉम उल्टी कर रहा था।
+Tom was traumatized.	Tom war traumatisiert.	टॉम को विक्षिप्त किया गया था।
+Tom was turned down.	Tom wurde abgelehnt.	टॉम को इनकार कर दिया गया था।
