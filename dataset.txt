@@ -1,15 +1,4 @@
 
-Don't shut your eyes.	Schließen Sie Ihre Augen nicht.	अपनी आँखें बंद मत करो।
-Don't shut your eyes.	Nicht die Augen schließen!	अपनी आँखें बंद मत करो!
-Don't spill the soup.	Die Suppe nicht verschütten!	सूप नहीं फैलाओ!
-Don't talk like that.	Rede nicht so.	ऐसे बात मत करो।
-Don't talk like that.	Redet nicht so.	इस तरह से बात मत करो।
-Don't talk like that.	Reden Sie nicht so.	इस तरह से बात मत करो।
-Don't tell my mother.	Sagen Sie nichts meiner Mutter!	मेरी माँ का कुछ नहीं कहो!
-Don't think about it.	Denk nicht darüber nach.	इसके बारे मत सोचें।
-Don't throw that out.	Schmeiß das nicht weg!	उस दूर मत फेंको!
-Don't throw that out.	Schmeißt das nicht weg!	इसे दूर मत फेंको!
-Don't throw that out.	Schmeißen Sie das nicht weg!	उस दूर मत फेंको!
 Don't touch anything.	Fass nichts an!	कुछ भी नहीं है!
 Don't touch anything.	Rühre nichts an!	कुछ भी हिलाओ!
 Don't touch anything.	Fassen Sie nichts an!	कुछ भी पकड़ो मत!
