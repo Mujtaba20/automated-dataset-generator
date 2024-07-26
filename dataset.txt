@@ -1,15 +1,4 @@
 
-Please come over here.	Kommen Sie bitte mal herüber.	कृपया आओ।
-Please come over here.	Komm bitte mal her.	कृपया यहाँ आये।
-Please deal the cards.	Teil bitte die Karten aus.	कृपया कार्ड बाहर भाग लें।
-Please do it this way.	Mache es so, bitte.	कृपया इस तरह से करें, कृपया।
-Please do that for me.	Tue es bitte für mich.	कृपया इसे मेरे लिए करें।
-Please do this for me.	Tue es bitte für mich!	कृपया इसे मेरे लिए करें!
-Please don't hurt Tom.	Tu Tom bitte nichts!	कुछ भी मत करना!
-Please don't hurt Tom.	Tun Sie Tom bitte nichts!	कृपया कुछ नहीं करो!
-Please don't judge me.	Bitte urteile nicht über mich!	कृपया मेरे बारे में फैसला मत करो!
-Please don't judge me.	Bitte urteilt nicht über mich!	कृपया मुझे जज न करें!
-Please don't judge me.	Bitte urteilen Sie nicht über mich!	कृपया मेरे बारे में फैसला मत करो!
 Please don't leave me.	Bitte verlass mich nicht!	कृपया मुझे मत छोड़ो!
 Please don't quote me.	Bitte zitieren Sie mich nicht.	कृपया मुझे उद्धृत न करें।
 Please don't say that.	Bitte sag das nicht!	कृपया ऐसा मत कहो!

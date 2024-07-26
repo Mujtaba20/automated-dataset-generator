@@ -38986,3 +38986,10 @@ Please allow me to go.	Bitte erlauben Sie mir zu gehen.	कृपया मु�
 Please call me a taxi.	Bitte rufen Sie mir ein Taxi.	कृपया मुझे एक टैक्सी बुलाएं।
 Please close the door.	Bitte schließen Sie die Tür.	कृपया दरवाज़ा बंद करें।
 Please come back home.	Bitte komm nach Hause zurück.	कृपया घर वापस आ जाओ।
+Please come over here.	Bitte kommen Sie hierher.	कृपया यहाँ आइए।
+Please deal the cards.	Bitte geben Sie die Karten aus.	कृपया कार्ड बाँटें।
+Please do it this way.	Bitte machen Sie es auf diese Weise.	कृपया इस तरह से करें।
+Please do that for me.	Bitte mach das für mich.	कृपया उसे मेरे लिए करें।
+Please do this for me.	Bitte mach das für mich.	कृपया यह मेरे लिए करो।
+Please don't hurt Tom.	Bitte verletzen Sie Tom nicht.	कृपया टॉम को चोट न लगाएं।
+Please don't judge me.	Bitte beurteilen Sie mich nicht.	कृपया मुझे न जज करें।
