@@ -1,14 +1,4 @@
 
-The TV doesn't work.	Der Fernseher geht nicht.	टेलीविज़न काम नहीं करता है.
-The TV doesn't work.	Der Fernseher funktioniert nicht.	टीवी काम नहीं करता है.
-The air became warm.	Die Luft erwärmte sich.	हवा गर्म हो गई।
-The answer is right.	Die Antwort ist richtig.	उत्तर सही है।
-The answer was easy.	Die Antwort war leicht.	जवाब आसान था।
-The apple isn't red.	Der Apfel ist nicht rot.	सेब लाल नहीं है।
-The apples are ripe.	Die Äpfel sind reif.	सेब पके हुए हैं।
-The auction is over.	Die Auktion ist vorbei.	नीलामी खत्म हो गई है।
-The audience gasped.	Die Zuschauer hielten den Atem an.	दर्शकों ने अपनी सांस ली।
-The battery is dead.	Die Batterie ist leer.	बैटरी खत्म हो चुकी है.
 The bell is ringing.	Die Glocke läutet.	घंटी बजती है।
 The bicycle is mine.	Das Fahrrad ist das Meinige.	बाइक मेरी है।
 The bicycle is mine.	Das Fahrrad ist meins.	बाइक मेरी है।

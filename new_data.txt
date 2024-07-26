@@ -28161,3 +28161,12 @@ That's why Tom came.	Das ist der Grund, warum Tom kam.	यही कारण �
 That's why Tom quit.	Das ist der Grund, warum Tom aufgehört hat.	यही कारण है कि टॉम ने छोड़ दिया।
 That's your funeral.	Das ist dein Begräbnis.	यह तुम्हारा अंतिम संस्कार है।
 That's your problem.	Das ist dein Problem.	यह तुम्हारी समस्या है।
+The TV doesn't work.	Der Fernseher funktioniert nicht.	टीवी काम नहीं कर रहा है।
+The air became warm.	Die Luft wurde warm.	हवा गर्म हो गई।
+The answer is right.	Die Antwort ist richtig.	जवाब सही है।
+The answer was easy.	Die Antwort war einfach.	जवाब आसान था।
+The apple isn't red.	Der Apfel ist nicht rot.	सेब लाल नहीं है।
+The apples are ripe.	Die Äpfel sind reif.	सेब पके हुए हैं।
+The auction is over.	Die Auktion ist vorbei.	नीलामी खत्म हो गई है।
+The audience gasped.	Das Publikum keuchte.	दर्शक फूंकी लेते हैं।
+The battery is dead.	Die Batterie ist leer.	बैटरी मर गई है।
