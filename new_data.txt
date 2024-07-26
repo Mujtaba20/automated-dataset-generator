@@ -39698,3 +39698,10 @@ They're up to no good.	Sie haben nichts Gutes vor.	वे कोई अच्छ
 They've been arrested.	Sie wurden verhaftet.	उन्हें गिरफ्तार कर लिया गया है।
 They've changed a lot.	Sie haben sich sehr verändert.	उन्होंने बहुत बदल लिया है।
 They've still got Tom.	Sie haben immer noch Tom.	उनके पास अभी भी टॉम है।
+Think before you leap.	Denke, bevor du springst.	फेंकने से पहले सोचें।
+Think of your brother.	Denke an deinen Bruder.	अपने भाई के बारे में सोचिए।
+Think outside the box.	Denke außerhalb der Box.	बाहर सोचें।
+This I can agree with.	Damit kann ich einverstanden sein.	मैं इस से सहमत हूं।
+This all sounds great.	Das klingt alles großartig.	यह सब शानदार लगता है।
+This bag is not small.	Diese Tasche ist nicht klein.	यह बैग छोटी नहीं है।
+This bag is too heavy.	Diese Tasche ist zu schwer.	यह बैग बहुत भारी है।

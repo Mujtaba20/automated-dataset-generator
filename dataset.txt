@@ -1,14 +1,4 @@
 
-Think before you leap.	Erst denken, dann lenken.	पहले सोचो, फिर स्टीयर।
-Think of your brother.	Denk an deinen Bruder.	अपने भाई के बारे में सोचो।
-Think of your brother.	Denk an deinen Bruder!	अपने भाई के बारे में सोचो!
-Think outside the box.	Schaue über den Tellerrand hinaus!	बॉक्स के बाहर देखो!
-Think outside the box.	Du musst über den eigenen Tellerrand hinausschauen!	आपको अपने खुद के बॉक्स के बाहर देखना होगा!
-This I can agree with.	Damit kann ich mich einverstanden erklären.	मैं इससे सहमत हो सकता हूं।
-This all sounds great.	Das alles hört sich toll an.	यह सब बहुत अच्छा लगता है।
-This bag is not small.	Diese Tasche ist nicht klein.	यह बैग छोटा नहीं है।
-This bag is too heavy.	Diese Tasche ist zu schwer.	यह बैग बहुत भारी है।
-This bag is too heavy.	Dieser Sack ist zu schwer.	यह बोरी बहुत भारी है।
 This bicycle is Tom's.	Dieses Fahrrad gehört Tom.	यह बाइक टॉम की है।
 This blouse is cotton.	Diese Bluse ist aus Baumwolle.	यह ब्लाउज कपास से बना है।
 This book is very new.	Dieses Buch ist ganz neu.	यह पुस्तक बिल्कुल नई है।
