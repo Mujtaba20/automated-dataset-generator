@@ -29598,3 +29598,11 @@ We know who you are.	Wir wissen, wer du bist.	हमें पता है क�
 We know who you are.1	Wir kennen deine Identität.	हमें पता है कि तुम कौन हो।
 We know you have it.	Wir wissen, dass du es hast.	हमें पता है कि तुम्हारे पास है।
 We know you have it.1	Wir wissen, dass es dir gehört.	हमें पता है कि यह तुम्हारा है।
+We laughed about it.	Wir haben darüber gelacht.	हम उसके बारे में हंसी मिली।
+We liked each other.	Wir mochten uns.	हम एक-दूसरे को पसंद करते थे।
+We love coming here.	Wir lieben es, hierher zu kommen.	हमें यहाँ आना पसंद है।
+We love this school.	Wir lieben diese Schule.	हमें यह विद्यालय पसंद है।
+We made our demands.	Wir haben unsere Forderungen gestellt.	हमने अपनी मांगें पूरी की।
+We make a good team.	Wir bilden ein gutes Team.	हम एक अच्छी टीम बनाते हैं।
+We may as well wait.	Wir können genauso gut warten.	हमें इंतज़ार करना हो सकता है।
+We met in Australia.	Wir trafen uns in Australien.	हम ऑस्ट्रेलिया में मिले।
