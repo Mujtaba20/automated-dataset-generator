@@ -1,14 +1,4 @@
 
-You know I love you.	Du weißt, dass ich dich liebe.	आप जानते है मैं आपको प्यार करता हूँ।
-You know how Tom is.	Du kennst ja Tom.	आप टॉम जानते हैं।
-You know how Tom is.	Du weißt ja, wie Tom ist.	आप जानते हैं कि टॉम कैसा है।
-You know what to do.	Du weißt, was zu tun ist.	तुम जानते हो कि तुम्हें क्या करना है।
-You know who I mean.	Du weißt, wen ich meine.	आप जानते हैं कि मेरा मतलब कौन है।
-You know who I mean.	Sie wissen, wen ich meine.	आप जानते हैं कि मेरा मतलब कौन है।
-You know who I mean.	Ihr wisst, wen ich meine.	आप जानते हैं कि मेरा मतलब कौन है।
-You know why I left.	Du weißt, warum ich gegangen bin.	आप जानते हैं कि मैं क्यों गया।
-You know why I left.	Sie wissen, warum ich gegangen bin.	आप जानते हैं कि मैं क्यों गया।
-You know why I left.	Ihr wisst, warum ich gegangen bin.	आप जानते हैं कि मैं क्यों गया।
 You know your stuff.	Du weißt Bescheid.	आपको पता है।
 You know your stuff.	Du kennst dich aus.	आप अपना रास्ता जानते हैं।
 You know, don't you?	Du weißt schon, oder?	आप पहले से ही जानते हैं, है ना?
