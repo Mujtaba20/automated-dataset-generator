@@ -1,15 +1,4 @@
 
-He is probably dead.	Er ist wahrscheinlich tot.	वह शायद मर चुका है।
-He is really clever.	Er sind wirklich schlau.	वह वास्तव में स्मार्ट है।
-He is taking a walk.	Er macht gerade einen Spaziergang.	वह सिर्फ टहलने जा रहा है।
-He is too sensitive.	Er ist zu empfindlich.	यह बहुत संवेदनशील है।
-He is very busy now.	Er ist jetzt sehr beschäftigt.	वह अब बहुत व्यस्त है।
-He is very handsome.	Er ist sehr attraktiv.	वह बहुत आकर्षक है।
-He is very sociable.	Er ist sehr gesellig.	वह बहुत ही मिलनसार है।
-He is very talented.	Er ist sehr talentiert.	वह बहुत प्रतिभावान है।
-He is washing a car.	Er wäscht ein Auto.	वह एक कार धोता है।
-He is wearing a hat.	Er trägt einen Hut.	वह एक टोपी पहनता है।
-He is wearing a hat.	Er hat einen Hut auf.	उसकी टोपी है।
 He kept his promise.	Er hielt sein Versprechen.	उसने अपना वादा निभाया।
 He kissed her again.	Er küsste sie erneut.	उसने उसे फिर से चूमा।
 He knows how to bet.	Er weiß, wie man wettet.	वह जानता है कि कैसे शर्त लगाना है।

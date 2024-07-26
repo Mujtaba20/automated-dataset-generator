@@ -25703,3 +25703,13 @@ He is kind at heart.	Er ist im Herzen freundlich.	उसका दिल अच�
 He is my old friend.	Er ist mein alter Freund.	वह मेरा पुराना दोस्त है।
 He is overconfident.	Er ist übermütig.	वह अत्यधिक आत्मविश्वास वाला है।
 He is playing music.	Er spielt Musik.	वह संगीत बजा रहा है।
+He is probably dead.	Er ist wahrscheinlich tot.	शायद वह मर गया है।
+He is really clever.	Er ist wirklich klug.	वह सचमुच चालाक है।
+He is taking a walk.	Er macht einen Spaziergang.	वह सैर पर जा रहा है।
+He is too sensitive.	Er ist zu sensibel.	वह बहुत ही संवेदनशील है।
+He is very busy now.	Er ist jetzt sehr beschäftigt.	वह अब बहुत व्यस्त है।
+He is very handsome.	Er ist sehr hübsch.	वह बहुत ही खूबसूरत है।
+He is very sociable.	Er ist sehr gesellig.	वह बहुत ही सामाजिक है।
+He is very talented.	Er ist sehr talentiert.	वह बहुत ही प्रतिभाशाली है।
+He is washing a car.	Er wäscht ein Auto.	वह गाड़ी धो रहा है।
+He is wearing a hat.	Er trägt einen Hut.	वह टोपी पहन रहा है।
