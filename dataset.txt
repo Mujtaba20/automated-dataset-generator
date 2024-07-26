@@ -1,14 +1,4 @@
 
-Tom is as busy as I am.	Tom ist genauso beschäftigt wie ich.	टॉम उतना ही व्यस्त है जितना मैं हूं।
-Tom is as busy as ever.	Tom ist nach wie vor beschäftigt.	टॉम अभी भी व्यस्त है।
-Tom is as lazy as ever.	Tom ist so faul wie immer.	टॉम हमेशा की तरह आलसी है।
-Tom is as tall as I am.	Tom ist so groß wie ich.	टॉम मेरे जितना बड़ा है।
-Tom is as tall as Mary.	Tom ist so groß wie Mary.	टॉम मैरी जितना बड़ा है।
-Tom is awkward and shy.	Tom ist ungeschickt und schüchtern.	टॉम अजीब और शर्मीला है।
-Tom is blind, isn't he?	Tom ist blind, nicht wahr?	टॉम ब्लाइंड है, है ना?
-Tom is bound to forget.	Tom wird das definitiv vergessen.	टॉम निश्चित रूप से यह भूल जाएगा।
-Tom is broke, isn't he?	Tom ist pleite, nicht wahr?	टॉम दिवालिया है, है ना?
-Tom is building a wall.	Tom baut eine Mauer.	टॉम एक दीवार बनाता है।
 Tom is climbing a tree.	Tom klettert auf einen Baum.	टॉम एक पेड़ पर चढ़ता है।
 Tom is climbing a tree.	Tom erklettert einen Baum.	टॉम एक पेड़ पर चढ़ गया।
 Tom is close to thirty.	Tom geht auf die Dreißig zu.	टॉम तीस के पास पहुंचता है।
