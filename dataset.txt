@@ -1,14 +1,4 @@
 
-You're uninteresting.	Du bist uninteressant.	आप निर्बाध हैं।
-You're uninteresting.	Ihr seid uninteressant.	आप निर्बाध हैं।
-You're uninteresting.	Sie sind uninteressant.	वे निर्बाध हैं।
-You're unpredictable.	Du bist unvorhersehbar.	आप अप्रत्याशित हैं।
-You're unpredictable.	Sie sind unvorhersehbar.	आप अप्रत्याशित हैं।
-You're untrustworthy.	Du bist unzuverlässig.	आप अविश्वसनीय हैं।
-You're untrustworthy.	Ihr seid unzuverlässig.	आप अविश्वसनीय हैं।
-You're untrustworthy.	Sie sind unzuverlässig.	वे अविश्वसनीय हैं।
-You're very arrogant.	Sie sind sehr arrogant.	वे बहुत घमंडी हैं।
-You're very generous.	Du bist sehr großzügig.	तुम बहुत उदार हो।
 You're very talented.	Du bist sehr talentiert.	आप बहुत प्रतिभाशाली हैं।
 You're very talented.	Sie sind sehr begabt.	वे बहुत प्रतिभाशाली हैं।
 You're wasting water.	Du vergeudest Wasser.	आपने पानी का पूर्वाभ्यास किया।

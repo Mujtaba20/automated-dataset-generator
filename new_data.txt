@@ -35969,3 +35969,8 @@ You're the historian.	Du bist die Geschichtsschreiberin.	तुम इतिह�
 You're the scapegoat.	Du bist das Sündenbock.	तुम परिस्थितिक हो।
 You're totally right.	Du hast völlig recht.	तुम पूरी तरह से ठीक हो।
 You're unimaginative.	Du bist phantasielos.	तुमको कल्पनाशीलता की कमी है।
+You're uninteresting.	Du bist uninteressant.	तुम अनिर्दिष्ट
+You're unpredictable.	Du bist unvorhersehbar.	तुम बेतहाशा हो
+You're untrustworthy.	Du bist unzuverlässig.	तुम अनापत्ति
+You're very arrogant.	Du bist sehr arrogant.	तुम बहुत घमंडी हो
+You're very generous.	Du bist sehr großzügig.	तुम बहुत उदार हो
