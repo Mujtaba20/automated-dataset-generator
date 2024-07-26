@@ -39770,3 +39770,11 @@ This meat cuts easily.	Dieses Fleisch lässt sich leicht schneiden.	यह म�
 This milk tastes sour.	Diese Milch schmeckt sauer.	यह दूध खट्टा है।
 This news is official.	Diese Nachricht ist offiziell.	यह खबर आधिकारिक है।
 This newspaper is old.	Diese Zeitung ist alt.	यह अख़बार पुराना है।
+This one's on us, Tom.	Das geht auf uns, Tom.	टॉम, यह हमारी ओर से है।
+This pear smells nice.	Diese Birne riecht gut.	यह नाशपाती अच्छी महक है।
+This proves my theory.	Dies beweist meine Theorie.	यह मेरे सिद्धांत को साबित करता है।
+This room is for VIPs.	Dieser Raum ist für VIPs.	यह कक्ष वीआईपी के लिए है।
+This room is for rent.	Dieser Raum ist zu vermieten.	यह कक्ष किराए पर है।
+This sentence is fine.	Dieser Satz ist in Ordnung.	यह वाक्य ठीक है।
+This should be enough.	Das sollte genug sein.	यह काफी होना चाहिए।
+This should be washed.	Das sollte gewaschen werden.	यह धो दिया जाना चाहिए।
