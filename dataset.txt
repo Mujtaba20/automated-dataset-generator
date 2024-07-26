@@ -1,14 +1,4 @@
 
-Tom loved teaching.	Tom liebte es zu unterrichten.	टॉम को सिखाना बहुत पसंद था।
-Tom loved teaching.	Tom gab für sein Leben gern Unterricht.	टॉम को अपने जीवन के लिए सबक देना पसंद था।
-Tom loves children.	Tom liebt Kinder.	टॉम बच्चों से प्यार करता है।
-Tom loves children.	Tom hat ein Herz für Kinder.	टॉम में बच्चों के लिए एक दिल है।
-Tom loves football.	Tom liebt Fußball.	टॉम को फुटबॉल बहुत पसंद है।
-Tom loves his pony.	Tom liebt sein Pony.	टॉम अपनी टट्टू से प्यार करता है।
-Tom loves his wife.	Tom liebt seine Frau.	टॉम अपनी पत्नी से प्यार करता है।
-Tom loves his work.	Tom liebt seine Arbeit.	टॉम अपने काम से प्यार करता है।
-Tom loves partying.	Tom ist ein Partylöwe.	टॉम एक पार्टी है।
-Tom loves swimming.	Tom schwimmt sehr gern.	टॉम को तैरना पसंद है।
 Tom loves to party.	Tom feiert gerne.	टॉम को जश्न मनाना पसंद है।
 Tom made Mary stop.	Tom veranlasste Maria zum Aufhören.	टॉम ने मारिया को रोकने के लिए प्रेरित किया।
 Tom made Mary stop.	Tom brachte Maria dazu, aufzuhören.	टॉम ने मारिया को रोक दिया।

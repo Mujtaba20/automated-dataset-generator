@@ -23861,3 +23861,11 @@ Tom looks terrific.	Tom sieht fantastisch aus.	टॉम बहुत भव्�
 Tom lost his house.	Tom hat sein Haus verloren.	टॉम ने अपना घर खो दिया।
 Tom lost his sight.	Tom hat seinen Blick verloren.	टॉम को उसकी दृष्टि खो दी।
 Tom lost his voice.	Tom hat seine Stimme verloren.	टॉम ने अपनी आवाज़ खो दी।
+Tom loved teaching.	Tom genoss es zu lehren.	टॉम को शिक्षा देना पसंद था।
+Tom loves children.	Tom mag Kinder gerne.	टॉम को बच्चे पसंद हैं।
+Tom loves football.	Tom liebt Fußball.	टॉम को फुटबॉल पसंद है।
+Tom loves his pony.	Tom liebt sein Pony.	टॉम अपने पोनी से प्यार करता है।
+Tom loves his wife.	Tom liebt seine Frau.	टॉम अपनी पत्नी से प्यार करता है।
+Tom loves his work.	Tom liebt seine Arbeit.	टॉम अपने काम से प्रेम करता है।
+Tom loves partying.	Tom liebt Partys.	टॉम पार्टी करने से प्यार करता है।
+Tom loves swimming.	Tom liebt schwimmen.	टॉम को तैरने का शौक है।
