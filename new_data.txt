@@ -41034,3 +41034,12 @@ We don't speak French.	Wir sprechen kein Französisch.	हम फ्रेंच
 We don't study French.	Wir lernen kein Französisch.	हम फ्रेंच नहीं पढ़ रहे हैं।
 We don't want to know.	Wir wollen es nicht wissen.	हम जानना नहीं चाहते।
 We eat a lot of bread.	Wir essen viel Brot.	हम बहुत सारा रोटी खाते हैं।
+We feel for your loss.	Wir fühlen mit Ihrem Verlust.	हम आपके नुकसान का आभास करते हैं।
+We fight all the time.	Wir streiten die ganze Zeit.	हम हमेशा लड़ते हैं।
+We gave it to the man.	Wir gaben es dem Mann.	हमने उसे आदमी को दिया।
+We got an early start.	Wir haben früh angefangen.	हमने जल्दी शुरू किया।
+We had a little water.	Wir hatten etwas Wasser.	हमारे पास थोड़ा पानी था।
+We had an early lunch.	Wir hatten ein frühes Mittagessen.	हमने जल्दी दोपहर का भोजन किया।
+We had bacon and eggs.	Wir hatten Speck und Eier.	हमने बेकन और अंडे खाए।
+We had some questions.	Wir hatten einige Fragen.	हमारे पास कुछ सवाल थे।
+We have a big problem.	Wir haben ein großes Problem.	हमारी पास एक बड़ी समस्या है।
