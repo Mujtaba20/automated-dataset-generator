@@ -20965,3 +20965,12 @@ Hindsight is 20/20.	Im Rückblick ist alles klar.	पीछे की दृष�
 His doom is sealed.	Sein Schicksal ist besiegelt.	उसका अंत तय हो गया है।
 His love grew cold.	Seine Liebe erkaltete.	उसका प्यार ठंडा हो गया था।
 His name eludes me.	Sein Name entzieht sich mir.	उसका नाम मेरे लिए एक रहस्य है।
+His name isn't Tom.	Sein Name ist nicht Tom.	उसका नाम टॉम नहीं है।
+His pace quickened.	Sein Tempo erhöhte sich.	उसकी गति तेज हो गई।
+His socks are gray.	Seine Socken sind grau.	उसके मोजे भूरे हैं।
+His wife is French.	Seine Frau ist Französin.	उसकी पत्नी फ्रांसीसी है।
+Horses are animals.	Pferde sind Tiere.	घोड़े जानवर हैं।
+How about some tea?	Wie wäre es mit etwas Tee?	थोड़ा चाय कैसा रहेगा?
+How about this one?	Was ist mit diesem hier?	इसके बारे में क्या कहो?
+How about tomorrow?	Was ist mit morgen?	कल कैसे रहेगा?
+How are the others?	Wie geht es den anderen?	दूसरों कैसे हैं?

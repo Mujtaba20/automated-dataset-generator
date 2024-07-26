@@ -1,14 +1,4 @@
 
-His name isn't Tom.	Sein Name ist nicht Tom.	उसका नाम टॉम नहीं है।
-His pace quickened.	Er beschleunigte seine Schritte.	उसने अपने कदमों को तेज किया।
-His socks are gray.	Seine Socken sind grau.	उसके मोजे ग्रे हैं।
-His wife is French.	Seine Frau ist Französin.	उनकी पत्नी एक फ्रांसीसी महिला है।
-Horses are animals.	Pferde sind Tiere.	घोड़े जानवर हैं।
-How about some tea?	Hättest du Lust auf einen Tee?	क्या आप चाय पसंद करेंगे?
-How about this one?	Wie wäre es mit diesem?	इस बारे में कैसा है?
-How about tomorrow?	Was ist mit morgen?	कल के बारे में क्या?
-How about tomorrow?	Wie wär’s mit morgen?	कल के बारे में क्या ख़याल है?
-How are the others?	Wie geht's den Anderen?	अन्य कैसे हैं?
 How are you coming?	Wie kommst du hierher?	आप यहाँ कैसे आते हैं?
 How are you coming?	Mit was kommst du?	आप क्या करते हैं?
 How bad is smoking?	Wie schädlich ist das Rauchen?	धूम्रपान कितना हानिकारक है?
