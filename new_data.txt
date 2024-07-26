@@ -26413,3 +26413,12 @@ I know Tom's family.	Ich kenne Toms Familie.	मुझे पता है ट�
 I know Tom's father.	Ich kenne Toms Vater.	मुझे पता है टॉम के पिता।
 I know Tom's secret.	Ich kenne Toms Geheimnis.	मुझे पता है टॉम का रहस्य।
 I know Tom's sister.	Ich kenne Toms Schwester.	मुझे पता है टॉम की बहन।
+I know both of them.	Ich kenne beide.	मुझे दोनों को पहचानता हूँ।
+I know how it feels.	Ich weiß, wie es sich anfühlt.	मुझे पता है कैसा महसूस होता है।
+I know how it works.	Ich weiß, wie es funktioniert.	मुझे पता है कैसे यह काम करता है।
+I know how to do it.	Ich weiß, wie man es macht.	मुझे पता है कैसे करना है।
+I know it very well.	Ich kenne es sehr gut.	मुझे यह बहुत अच्छे से पता है।
+I know it's illegal.	Ich weiß, dass es illegal ist.	मुझे पता है कि यह गैरकानूनी है।
+I know none of them.	Ich kenne keinen von ihnen.	मुझे उनमें से किसी को नहीं पता।
+I know that I'm fat.	Ich weiß, dass ich dick bin.	मुझे पता है कि मैं मोटा हूँ।
+I know that already.	Das weiß ich schon.	मुझे यह पहले से पता है।
