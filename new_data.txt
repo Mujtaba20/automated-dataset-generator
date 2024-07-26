@@ -23897,3 +23897,13 @@ Tom missed his bus.	Tom hat seinen Bus verpasst.	टॉमने अपनी �
 Tom mowed the lawn.	Tom hat den Rasen gemäht.	टॉमने घास काटी।
 Tom must be hungry.	Tom muss hungrig sein.	टॉम को भूख लगी होगी।
 Tom must be lonely.	Tom muss einsam sein.	टॉम अकेला होगा।
+Tom must do it now.	Tom muss es jetzt tun.	टॉम को अब यह करना चाहिए।
+Tom must find work.	Tom muss Arbeit finden.	टॉम को काम ढूंढना चाहिए।
+Tom must leave now.	Tom muss jetzt gehen.	टॉम को अब चला जाना चाहिए।
+Tom nearly fainted.	Tom wäre beinahe in Ohnmacht gefallen.	टॉम लगभग बेहोश हो गया।
+Tom needs a friend.	Tom braucht einen Freund.	टॉम को एक दोस्त की आवश्यकता है।
+Tom needs a helmet.	Tom braucht einen Helm.	टॉम को हेलमेट की आवश्यकता है।
+Tom needs a ladder.	Tom braucht eine Leiter.	टॉम को सीढ़ी की आवश्यकता है।
+Tom needs a lawyer.	Tom braucht einen Anwalt.	टॉम को वकील की आवश्यकता है।
+Tom needs help now.	Tom braucht jetzt Hilfe.	टॉम को अब मदद की आवश्यकता है।
+Tom needs our help.	Tom braucht unsere Hilfe.	टॉम को हमारी मदद की आवश्यकता है।

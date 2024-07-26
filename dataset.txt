@@ -1,14 +1,4 @@
 
-Tom must do it now.	Tom muss es jetzt tun.	टॉम को अब यह करना है।
-Tom must find work.	Tom muss Arbeit finden.	टॉम को काम ढूंढना है।
-Tom must leave now.	Tom muss jetzt gehen.	टॉम को अब जाना है।
-Tom nearly fainted.	Tom wäre beinahe in Ohnmacht gefallen.	टॉम लगभग बेहोश हो गया।
-Tom needs a friend.	Tom braucht einen Freund.	टॉम को एक दोस्त की जरूरत है।
-Tom needs a helmet.	Tom braucht einen Helm.	टॉम को एक हेलमेट की जरूरत है।
-Tom needs a ladder.	Tom braucht eine Leiter.	टॉम को एक सीढ़ी की जरूरत है।
-Tom needs a lawyer.	Tom braucht einen Anwalt.	टॉम को एक वकील की जरूरत है।
-Tom needs help now.	Tom braucht jetzt Hilfe.	टॉम को अब मदद की जरूरत है।
-Tom needs our help.	Tom braucht unsere Hilfe.	टॉम को हमारी मदद चाहिए।
 Tom needs you here.	Tom braucht dich hier.	टॉम को आपको यहाँ चाहिए।
 Tom needs you here.	Tom braucht Sie hier.	टॉम को यहां उनकी जरूरत है।
 Tom needs you here.	Tom braucht euch hier.	टॉम को आपको यहाँ चाहिए।
