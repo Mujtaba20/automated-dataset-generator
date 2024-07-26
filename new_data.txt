@@ -38871,3 +38871,13 @@ My house is very cold.	Mein Haus ist sehr kalt.	मेरा घर बहुत
 My husband is at work.	Mein Mann ist bei der Arbeit.	मेरे पति काम पे हैं।
 My instinct was right.	Mein Instinkt war richtig.	मेरी अंतर्दृष्टि सही थी।
 My instinct was right. (Different meaning)	Mein Spürsinn hat mich nicht getäuscht.	मेरा अहसास सही था।
+My left arm is asleep.	Mein linker Arm schläft.	मेरा बाएं हाथ सो गया है।
+My life was in danger.	Mein Leben war in Gefahr.	मेरी जिंदगी खतरे में थी।
+My list is quite long.	Meine Liste ist ziemlich lang.	मेरी सूची काफी लंबी है।
+My mom helps me a lot.	Meine Mutter hilft mir viel.	मेरी माँ मुझे काफी मदद करती है।
+My mama is proud of me.	Meine Mama ist stolz auf mich.	मेरी मम्मी मुझ पर गर्वित है।
+My mom made it for me.	Meine Mutter hat es für mich gemacht.	मेरी माँ ने यह मेरे लिए बनाया।
+My mother is Canadian.	Meine Mutter ist Kanadierin.	मेरी माँ कनेडियन है।
+My mother loves music.	Meine Mutter liebt Musik.	मेरी माँ को संगीत से प्यार है।
+My mother was furious.	Meine Mutter war wütend.	मेरी माँ बहुत नाराज थी।
+My neck is a bit sore.	Mein Nacken ist ein wenig wund.	मेरी गर्दन थोड़ी चुभनेवाली है।
