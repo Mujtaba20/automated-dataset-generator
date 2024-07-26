@@ -37209,3 +37209,12 @@ I cried earlier today.	Ich habe heute früher geweint.	मैंने आज �
 I cut across the park.	Ich habe den Park durchquert.	मैंने पार्क को काट दिया।
 I did nothing all day.	Ich habe den ganzen Tag nichts gemacht.	मैंने पूरा दिन कुछ नहीं किया।
 I did nothing illegal.	Ich habe nichts Illegales getan.	मैंने कुछ भी ग़ैरकानूनी नहीं किया।
+I did some quick math.	Ich habe schnell gerechnet.	मैंने जल्दी से गणना की।
+I did something wrong.	Ich habe etwas falsch gemacht.	मैंने कुछ गलत किया।
+I did that on purpose.	Das habe ich absichtlich gemacht.	मैंने उसे जानबूझकर किया।
+I did that right away.	Das habe ich sofort gemacht.	मैंने वह तुरंत किया।
+I did the right thing.	Ich habe das Richtige getan.	मैंने सही काम किया।
+I did what I was told.	Ich habe gemacht, was mir gesagt wurde.	मैंने वह किया जिसे मुझे कहा गया था।
+I didn't actually cry.	Ich habe eigentlich nicht geweint.	वास्तविक रूप से मैंने रो नहीं था।
+I didn't ask for help.	Ich habe nicht um Hilfe gebeten.	मैंने मदद के लिए नहीं कहा।
+I didn't believe them.	Ich habe ihnen nicht geglaubt.	मैंने उन्हें विश्वास नहीं किया।

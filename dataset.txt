@@ -1,14 +1,4 @@
 
-I did some quick math.	Ich rechnete schnell nach.	मैंने जल्दी से गणना की।
-I did something wrong.	Ich habe etwas falsch gemacht.	मैंने कुछ गलत कर दिया।
-I did that on purpose.	Das habe ich mit Absicht getan.	मैंने ऐसा किया था।
-I did that right away.	Ich habe das sofort gemacht.	मैंने तुरंत ऐसा किया।
-I did that right away.	Ich habe das sofort getan.	मैंने तुरंत ऐसा किया।
-I did the right thing.	Ich habe das Richtige getan.	मैंने सही काम किया।
-I did what I was told.	Ich habe getan, was man mir gesagt hat.	मैंने वही किया जो मुझे बताया गया था।
-I didn't actually cry.	Ich habe gar nicht geweint.	मैं बिल्कुल भी नहीं रोया।
-I didn't ask for help.	Ich habe nicht um Hilfe gebeten.	मैंने मदद नहीं मांगी।
-I didn't believe them.	Ich glaubte ihnen nicht.	मैं उन पर विश्वास नहीं करता था।
 I didn't buy anything.	Ich habe nichts gekauft.	मैंने कुछ भी नहीं खरीदा था।
 I didn't buy that car.	Ich habe dieses Auto nicht gekauft.	मैंने यह कार नहीं खरीदी।
 I didn't buy that car.	Ich habe diesen Wagen nicht gekauft.	मैंने यह कार नहीं खरीदी।
