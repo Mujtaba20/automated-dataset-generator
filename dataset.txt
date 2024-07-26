@@ -1,14 +1,4 @@
 
-Tom is coming with me.	Tom wird mich begleiten.	टॉम मेरे साथ जाएगा।
-Tom is coming with us.	Tom kommt mit uns.	टॉम हमारे साथ आता है।
-Tom is consoling Mary.	Tom tröstet Maria.	टॉम कंसोल मारिया।
-Tom is cooking dinner.	Tom bereitet gerade das Abendessen zu.	टॉम रात का खाना तैयार कर रहा है।
-Tom is coughing again.	Tom hustet schon wieder.	टॉम खांसी फिर से।
-Tom is cute, isn't he?	Tom ist süß, nicht wahr?	टॉम प्यारा है, है ना?
-Tom is dead, isn't he?	Tom ist tot, oder?	टॉम मर चुका है, है ना?
-Tom is digging a hole.	Tom gräbt ein Loch.	टॉम एक छेद खोदता है।
-Tom is digging a hole.	Tom hebt ein Loch aus.	टॉम एक छेद उठाता है।
-Tom is doing his work.	Tom kümmert sich um seine Arbeit.	टॉम अपने काम का ख्याल रखता है।
 Tom is doing well now.	Tom geht es jetzt gut.	टॉम अब अच्छा कर रहा है।
 Tom is donating blood.	Tom spendet Blut.	टॉम रक्त दान करता है।
 Tom is double-jointed.	Tom ist sehr gelenkig.	टॉम बहुत लचीला है।

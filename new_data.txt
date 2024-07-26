@@ -40266,3 +40266,12 @@ Tom is calm, isn't he?	Tom ist ruhig, oder?	टॉम शांत है, न�
 Tom is claustrophobic.	Tom leidet an Platzangst.	टॉम को स्थानभीति है।
 Tom is clearly insane.	Tom ist offensichtlich wahnsinnig.	टॉम स्पष्ट रूप से पागल है।
 Tom is coming for you.	Tom kommt zu dir.	टॉम तुम्हारे पास आ रहा है।
+Tom is coming with me.	Tom kommt mit mir.	टॉम मेरे साथ आ रहा है।
+Tom is coming with us.	Tom kommt mit uns.	टॉम हमारे साथ आ रहा है।
+Tom is consoling Mary.	Tom tröstet Mary.	टॉम मेरी को संबोधित कर रहा है।
+Tom is cooking dinner.	Tom kocht das Abendessen.	टॉम रात का खाना पका रहा है।
+Tom is coughing again.	Tom hustet wieder.	टॉम फिर से खांस रहा है।
+Tom is cute, isn't he?	Tom ist niedlich, nicht wahr?	टॉम प्यारा है, ना?
+Tom is dead, isn't he?	Tom ist tot, oder?	टॉम मर गया है, ना?
+Tom is digging a hole.	Tom gräbt ein Loch.	टॉम एक गड्ढा खोद रहा है।
+Tom is doing his work.	Tom macht seine Arbeit.	टॉम अपना काम कर रहा है।
