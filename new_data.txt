@@ -35418,3 +35418,10 @@ What is two plus two?	Was ist zwei plus zwei?	दो और दो का क्
 What is your address?	Was ist deine Adresse?	आपका पता क्या है?
 What keeps you going?	Was treibt dich an?	तुम्हें क्यों जारी रखता है?
 What makes you happy?	Was macht dich glücklich?	तुम्हें खुश क्यों करता है?
+What makes you smile?	Was bringt dich zum Lächeln?	तुम्हें हँसने पर क्या आता है?
+What page are you on?	Auf welcher Seite bist du?	तुम किस पेज पर हो?
+What really happened?	Was ist wirklich passiert?	सच में क्या हुआ?
+What shall I do next?	Was soll ich als Nächstes tun?	मैं अगला क्या करूँ?
+What should I do now?	Was sollte ich jetzt tun?	मैं अब क्या करूँ?
+What time is sunrise?	Um wie viel Uhr ist Sonnenaufgang?	सूर्योदय किस समय है?
+What was Tom wearing?	Was hat Tom angehabt?	टॉम ने क्या पहना हुआ था?
