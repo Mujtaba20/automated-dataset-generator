@@ -27368,3 +27368,12 @@ It was rather funny.	Es war eher lustig.	यह काफी मजेदार 
 It was really cheap.	Es war wirklich günstig.	यह वास्तव में सस्ता था।
 It was really close.	Es war wirklich nah.	यह वास्तव में करीब था।
 It was really scary.	Es war wirklich beängstigend.	यह वास्तव में डरावना था।
+It was really sweet.	Es war wirklich süß.	यह वास्तव में मीठा था।
+It was really windy.	Es war wirklich windig.	यह वास्तव में हवाई था।
+It was seven thirty.	Es war halb acht.	यह सात तीस बजे था।
+It was so beautiful.	Es war so schön.	यह इतना सुंदर था।
+It was such a shock.	Es war ein solcher Schock.	यह एक ऐसा झटका था।
+It was unbelievable.	Es war unglaublich.	यह अविश्वसनीय था।
+It was unpardonable.	Es war unverzeihlich.	यह क्षमानीय नहीं था।
+It was very helpful.	Es war sehr hilfreich.	यह बहुत ही उपयोगी था।
+It was very strange.	Es war sehr seltsam.	यह बहुत ही अजीब था।
