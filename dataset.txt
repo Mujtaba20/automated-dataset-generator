@@ -1,15 +1,4 @@
 
-Do you have a picture?	Hast du ein Bild?	क्या आपके पास कोई चित्र है?
-Do you have a vacancy?	Haben Sie noch Zimmer frei?	क्या आपके पास एक मुफ्त कमरा है?
-Do you have a website?	Habt ihr eine Website?	क्या आपकी कोई वेबसाइट है?
-Do you have a website?	Haben Sie eine Website?	क्या आपकी कोई वेबसाइट है?
-Do you have any money?	Hast du Geld?	क्या तुम्हारे पास पैसे हैं?
-Do you have any proof?	Hast du einen Beweis?	क्या आपके पास कोई सबूत है?
-Do you have any sugar?	Hast du Zucker?	क्या आपके पास चीनी है
-Do you have any sugar?	Habt ihr Zucker?	क्या आपके पास चीनी है?
-Do you have any sugar?	Haben Sie Zucker?	क्या आपके पास चीनी है?
-Do you have any water?	Haben Sie etwas Wasser?	क्या आपके पास कुछ पानी है?
-Do you have any water?	Hast du etwas Wasser?	क्या आपके पास कुछ पानी है?
 Do you have some milk?	Habt ihr Milch?	क्या आपके पास दूध है?
 Do you have some wine?	Hast du etwas Wein?	क्या आपके पास कुछ शराब है?
 Do you have the money?	Hast du das Geld?	क्या तुम्हारे पास पैसा है?

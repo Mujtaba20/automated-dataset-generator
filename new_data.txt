@@ -36359,3 +36359,10 @@ Do you have a bicycle?	Haben Sie ein Fahrrad?	क्या आपके पा�
 Do you have a brother?	Hast du einen Bruder?	क्या आपके पास एक भाई है?
 Do you have a husband?	Haben Sie einen Ehemann?	क्या आपके पास एक पति है?
 Do you have a lighter?	Hast du ein Feuerzeug?	क्या आपके पास एक लाइटर है?
+Do you have a picture?	Hast du ein Bild?	क्या आपके पास एक तस्वीर है?
+Do you have a vacancy?	Hast du eine freie Stelle?	क्या आपके पास खाली जगह है?
+Do you have a website?	Hast du eine Webseite?	क्या आपके पास एक वेबसाइट है?
+Do you have any money?	Hast du etwas Geld?	क्या आपके पास कोई पैसे हैं?
+Do you have any proof?	Hast du einen Beweis?	क्या आपके पास कोई सबूत है?
+Do you have any sugar?	Hast du etwas Zucker?	क्या आपके पास चीनी है?
+Do you have any water?	Hast du etwas Wasser?	क्या आपके पास पानी है?
