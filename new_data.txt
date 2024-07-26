@@ -25517,3 +25517,11 @@ Everything is quiet.	Alles ist ruhig.	सब शांत है।
 Everything is ready.	Alles ist fertig.	सब तैयार है।
 Everything seems OK.	Alles scheint in Ordnung zu sein.	सब ठीक लगता है।
 Everything was lost.	Alles war verloren.	सब खो गया था।
+Everything's better.	Alles ist besser.	सब अच्छा है।
+Everything's normal.	Alles ist normal.	सब सामान्य है।
+Excuse me, I'm lost.	Entschuldigung, ich habe mich verlaufen.	क्षमा करें, मैं खो गया हूँ।
+Feel free to say no.	Sie können ruhig nein sagen.	ना कहने के लिए अवश्य प्रस्तावित रहें।
+Few people think so.	Wenige Leute denken so.	कुछ लोग ऐसा सोचते हैं।
+Fish is cheap today.	Fisch ist heute billig.	आज मछली सस्ती है।
+Food is running out.	Das Essen geht zur Neige.	खाना खत्म हो रहा है।
+Football is a sport.	Fußball ist ein Sport.	फुटबॉल एक खेल है।
