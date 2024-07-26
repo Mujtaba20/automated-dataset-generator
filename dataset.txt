@@ -1,15 +1,4 @@
 
-Do you give to charity?	Spenden Sie für wohltätige Zwecke?	क्या आप धर्मार्थ उद्देश्यों के लिए दान करते हैं?
-Do you have a backpack?	Hast du einen Rucksack?	क्या आपके पास एक बैकपैक है?
-Do you have a backpack?	Habt ihr einen Rucksack?	क्या आपके पास एक बैकपैक है?
-Do you have a backpack?	Haben Sie einen Rucksack?	क्या आपके पास एक बैकपैक है?
-Do you have a computer?	Besitzt du einen Computer?	आपका कंप्यूटर है?
-Do you have a daughter?	Hast du eine Tochter?	क्या आपकी कोई बेटी है?
-Do you have a daughter?	Haben Sie eine Tochter?	क्या आपकी कोई बेटी है?
-Do you have a daughter?	Habt ihr eine Tochter?	क्या आपकी कोई बेटी है?
-Do you have a favorite?	Hast du einen Favoriten?	आपका कोई पसंदीदा है?
-Do you have a headache?	Hast du Kopfschmerzen?	क्या आपको सिरदर्द है?
-Do you have a headache?	Hast du Kopfweh?	क्या आपको सिरदर्द है?
 Do you have a nickname?	Hast du einen Spitznamen?	क्या आपका एक उपनाम है?
 Do you have a question?	Hast du eine Frage?	क्या आपका कोई प्रश्न है?
 Do you have a shoehorn?	Hast du einen Schuhanzieher?	क्या आपके पास एक जूता खींचने वाला है?
