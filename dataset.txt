@@ -1,19 +1,4 @@
 
-Did they ever find Tom?	Wurde Tom je gefunden?	क्या टॉम कभी पाया गया था?
-Did they ever find Tom?	Ist Tom je gefunden worden?	क्या टॉम कभी पाया गया है?
-Did you bring a weapon?	Hast du eine Waffe mitgebracht?	क्या आप अपने साथ एक हथियार लाते थे?
-Did you bring a weapon?	Haben Sie eine Waffe mitgebracht?	क्या आप अपने साथ एक हथियार लाते थे?
-Did you bring a weapon?	Habt ihr eine Waffe mitgebracht?	क्या आप अपने साथ एक हथियार लाते थे?
-Did you bring the book?	Hast du das Buch mitgebracht?	क्या आप पुस्तक को अपने साथ लाए?
-Did you bring the book?	Haben Sie das Buch mitgebracht?	क्या आप पुस्तक को अपने साथ लाए?
-Did you bring the book?	Habt ihr das Buch mitgebracht?	क्या आप पुस्तक को अपने साथ लाए?
-Did you eat my cookies?	Hast du meine Kekse gegessen?	क्या तुमने मेरी कुकीज़ खाई?
-Did you enjoy the film?	Hast du den Film gemocht?	आपको फिल्म पसंद आई?
-Did you enjoy the film?	Hat Ihnen der Film gefallen?	आपको फिल्म पसंद आई?
-Did you enjoy the film?	Hat euch der Film gefallen?	आपको फिल्म पसंद आई?
-Did you enjoy the film?	Hat dir der Film Freude gemacht?	क्या फिल्म ने आपका आनंद लिया?
-Did you enjoy the film?	Hat Ihnen der Film Freude gemacht?	क्या फिल्म ने आपका आनंद लिया?
-Did you enjoy the film?	Hat euch der Film Freude gemacht?	क्या फिल्म ने आपका आनंद लिया?
 Did you enjoy the game?	Hat dir das Spiel gefallen?	क्या आपको खेल पसंद था?
 Did you enjoy the game?	Hat dir das Spiel Spaß gemacht?	क्या आपने खेल का आनंद लिया?
 Did you enjoy the view?	Hat dir die Aussicht gefallen?	क्या आपको दृश्य पसंद था?
