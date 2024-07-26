@@ -1,15 +1,4 @@
 
-Who washed the car?	Wer hat das Auto gewaschen?	कार को किसने धोया?
-Who would buy this?	Wer würde das kaufen?	वह कौन खरीदेगा?
-Who wrote the book?	Wer hat das Buch geschrieben?	किताब किसने लिखी?
-Who wrote the book?	Wer schrieb das Buch?	किताब किसने लिखी?
-Who's Tom visiting?	Wen besucht Tom?	टॉम का दौरा कौन करता है?
-Who's Tom's father?	Wer ist Toms Vater?	टॉम का पिता कौन है?
-Who's absent today?	Wer ist heute nicht anwesend?	आज कौन मौजूद नहीं है?
-Who's overreacting?	Wer überdreht hier?	यहाँ कौन पलट रहा है?
-Who's that old man?	Wer ist dieser alte Mann?	यह बूढ़ा आदमी कौन है?
-Who's upstairs now?	Wer ist jetzt oben?	अब कौन है?
-Who's upstairs now?	Wer ist jetzt im oberen Stock?	अब ऊपरी मंजिल पर कौन है?
 Who's visiting Tom?	Wer besucht Tom?	टॉम का दौरा कौन करता है?
 Who's volunteering?	Wer meldet sich freiwillig?	स्वेच्छा से कौन रिपोर्ट करेगा?
 Who's your teacher?	Wer ist euer Lehrer?	आपके शिक्षक कौन है?

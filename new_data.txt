@@ -24716,3 +24716,13 @@ Who owns this land?	Wem gehört dieses Land?	इस भूमि का मा�
 Who owns this ship?	Wem gehört dieses Schiff?	इस जहाज का मालिक कौन है?
 Who took the money?	Wer hat das Geld genommen?	किसने पैसे लिए?
 Who was in the car?	Wer war im Auto?	कार में कौन था?
+Who washed the car?	Wer hat das Auto gewaschen?	किसने कार धोई?
+Who would buy this?	Wer würde das kaufen?	कौन यह खरीदेगा?
+Who wrote the book?	Wer hat das Buch geschrieben?	किसने किताब लिखी है?
+Who wrote the book? (Different meaning)	Wer hat das Buch verfasst?	किताब किसने लिखी है?
+Who's Tom visiting?	Wen besucht Tom?	तोम किसे मिलने गया है?
+Who's Tom's father?	Wer ist Toms Vater?	तोम के पिता कौन हैं?
+Who's absent today?	Wer fehlt heute?	आज कौन अनुपस्थित है?
+Who's overreacting?	Wer reagiert über?	किसका अत्यधिक प्रतिक्रिया हो रहा है?
+Who's that old man?	Wer ist dieser alte Mann?	वह बुढ़ा आदमी कौन है?
+Who's upstairs now?	Wer ist jetzt oben?	ऊपर कौन है अभी?
