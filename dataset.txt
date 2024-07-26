@@ -1,17 +1,4 @@
 
-You are quite a man.	Du bist ein echter Kerl.	आप एक असली आदमी हैं।
-You are quite a man.	Sie sind ein echter Kerl.	वे एक असली आदमी हैं।
-You are such a liar!	Du bist so ein Lügner!	तुम झूठे हो!
-You are such a liar!	Du bist so ein Lügenbold!	तुम ऐसे झूठ हो!
-You are such a liar.	Du bist so ein Lügenbold!	तुम ऐसे झूठ हो!
-You aren't Canadian.	Du bist kein Kanadier.	आप कनाडाई नहीं हैं।
-You aren't Canadian.	Du bist keine Kanadierin.	आप कनाडाई नहीं हैं।
-You aren't Canadian.	Sie sind kein Kanadier.	आप कनाडाई नहीं हैं।
-You aren't Canadian.	Sie sind keine Kanadierin.	आप कनाडाई नहीं हैं।
-You aren't Canadian.	Sie sind keine Kanadier.	वे एक कनाडाई नहीं हैं।
-You aren't Canadian.	Sie sind keine Kanadierinnen.	वे कनाडाई नहीं हैं।
-You aren't Canadian.	Ihr seid keine Kanadier.	आप कनाडाई नहीं हैं।
-You aren't Canadian.	Ihr seid keine Kanadierinnen.	आप कनाडाई नहीं हैं।
 You aren't thinking.	Du überlegst überhaupt nicht.	आप इसके बारे में बिल्कुल नहीं सोचते हैं।
 You aren't thinking.	Du denkst nicht nach.	आपको नहीं लगता।
 You aren't watching.	Du siehst nicht zu.	आप नहीं देखते।

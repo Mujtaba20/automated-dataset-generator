@@ -30102,3 +30102,8 @@ You are a professor.	Sie sind Professor.	आप प्रोफेसर है�
 You are always late.	Du kommst immer zu spät.	तुम हमेशा देर से आते हो।
 You are lying to me.	Du lügst mich an.	तुम मुझसे झूठ बोल रहे हो।
 I am feeling better now.	Ich fühle mich jetzt besser.	मुझे अब बेहतर लग रहा है।
+You are quite a man.	Du bist ein echter Mann.	तुम काफी आदमी हो।
+You are such a liar!	Du bist so ein Lügner!	तुम इतने झूठे हो!
+You are such a liar.	Du bist ein solcher Lügner.	तुम ऐसे झूठे हो।
+You aren't Canadian.	Du bist nicht kanadisch.	तुम कनाडियन नहीं हो।
+You are not Canadian.	Sie sind nicht Kanadier.	तुम कनाडियन नहीं हो।
