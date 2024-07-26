@@ -35746,3 +35746,9 @@ You are a bad person.	Du bist eine schlechte Person.	तुम एक बुर�
 You are a workaholic.	Du bist ein Workaholic.	तुम एक कामवाला हो।
 You are confusing me.	Du verwirrst mich.	तुम मुझे गलतफहमी में डाल रहे हो।
 You always lie to me. - Second Meaning	Du täuschst mich immer.	तुम हमेशा मुझे धोखा देते हो।
+You are irresistible.	Du bist unwiderstehlich.	तुम लुभानेवाले हो।
+You are not Japanese.	Du bist nicht japanisch.	आप जापानी नहीं हैं।
+You are not a coward.	Du bist kein Feigling.	तुम डरपोक नहीं हो।
+You are now an adult.	Du bist jetzt erwachsen.	आप अब एक वयस्क हैं।
+You are the only one.	Du bist der Einzige.	तुम एकमात्र हो।
+You are under arrest.	Du stehst unter Arrest.	तुम गिरफ्तार हैं।

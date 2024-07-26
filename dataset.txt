@@ -1,14 +1,4 @@
 
-You are irresistible.	Du bist unwiderstehlich.	आप अति सम्मोहक हो।
-You are not Japanese.	Du bist kein Japaner.	आप जापानी नहीं हैं।
-You are not Japanese.	Ihr seid keine Japaner.	आप जापानी नहीं हैं।
-You are not Japanese.	Sie sind kein Japaner.	आप जापानी नहीं हैं।
-You are not a coward.	Du bist kein Feigling.	आप कायर नहीं हैं।
-You are not a coward.	Sie sind kein Feigling.	आप कायर नहीं हैं।
-You are now an adult.	Du bist jetzt ein erwachsener Mensch.	अब आप एक वयस्क हैं।
-You are the only one.	Du bist der Einzige.	केवल आप ही हो।
-You are under arrest.	Sie sind verhaftet.	आप हिरासत में हो।
-You are under arrest.	Sie stehen unter Arrest.	वे गिरफ्तारी के अधीन हैं।
 You are welcome here.	Du bist hier willkommen.	आपका यहाँ स्वागत है।
 You are what you are.	Du bist, was du bist.	आप जो हैं सो हैं।
 You are what you eat.	Du bist, was du isst.	आप क्या खा रहे हैं।
