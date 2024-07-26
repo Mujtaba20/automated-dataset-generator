@@ -32600,3 +32600,12 @@ I'm sure Tom is fine.	Ich bin sicher, dass es Tom gut geht.	मुझे वि�
 I'm sure that's true.	Ich bin sicher, dass das wahr ist.	मुझे यकीन है कि यह सच है।
 I'm sure they'll win.	Ich bin sicher, dass sie gewinnen werden.	मुझे यकीन है कि वे जीतेंगे।
 I'm surprised at you.	Ich bin überrascht von dir.	मुझे तुम पर हैरानी हुई।
+I'm surprised myself.	Ich bin selbst überrascht.	मैं अपने आप हैरान हूँ।
+I'm taking it to Tom.	Ich bringe es zu Tom.	मैं इसे टॉम के पास लेकर जा रहा हूँ।
+I'm the one you want.	Ich bin derjenige, den du willst.	मैं हूँ वह जिसे तुम चाहते हो।
+I'm thirty years old.	Ich bin dreißig Jahre alt.	मैं तीस साल की हो गई हूँ।
+I'm through with you.	Ich bin mit dir fertig.	मैं तुम्हारे साथ समाप्त हो चुका हूँ।
+I'm tired of arguing.	Ich bin es leid zu streiten.	मुझे झगड़ा करना उबाना है।
+I'm tired of reading.	Ich bin es leid zu lesen.	मुझे पढ़ने की थक गई है।
+I'm tired of waiting.	Ich bin es leid zu warten.	मुझे इंतजार करने से थक गई है।
+I'm tired of writing.	Ich bin es leid zu schreiben.	मुझे लिखना उबाना है।

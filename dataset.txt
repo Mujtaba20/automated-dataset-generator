@@ -1,16 +1,4 @@
 
-I'm surprised myself.	Ich bin selbst überrascht.	मैं खुद हैरान हूं।
-I'm taking it to Tom.	Ich bringe es Tom.	मैं इसे टॉम लाता हूं।
-I'm the one you want.	Ich bin derjenige, den du willst.	मैं वह हूं जो आप चाहते हैं।
-I'm thirty years old.	Ich bin dreißig.	मैं तीस हूं।
-I'm thirty years old.	Ich bin dreißig Jahre alt.	मैं तीस वर्ष का हूँ।
-I'm through with you.	Ich bin fertig mit dir.	मेरा आपके साथ पूरा हुआ।
-I'm tired of arguing.	Ich bin es müde, zu streiten.	मैं बहस करने के लिए थक गया हूं।
-I'm tired of reading.	Ich bin des Lesens müde.	मैं पढ़कर थक गया हूं।
-I'm tired of waiting.	Ich habe keine Lust mehr zu warten.	मुझे अब और इंतजार करने का मन नहीं है।
-I'm tired of writing.	Ich habe genug vom Schreiben.	मेरे पास पर्याप्त लेखन है।
-I'm tired of writing.	Ich habe das Schreiben satt.	मेरे पास पूर्ण लेखन है।
-I'm tired of writing.	Ich bin des Schreibens müde.	मैं लिखकर थक गया हूं।
 I'm too old for that.	Ich bin zu alt dafür.	मैं उसके लिए बहुत बूढ़ा हूं।
 I'm too old for this.	Ich bin zu alt dafür.	मैं उसके लिए बहुत बूढ़ा हूं।
 I'm too old for this.	Dafür bin ich zu alt.	मैं उसके लिए बहुत बूढ़ा हूं।
