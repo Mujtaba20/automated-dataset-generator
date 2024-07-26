@@ -1,14 +1,4 @@
 
-This well is very deep.	Dieser Brunnen ist sehr tief.	यह फव्वारा बहुत गहरा है।
-This window won't open.	Dieses Fenster lässt sich nicht öffnen.	यह खिड़की नहीं खोली जा सकती है।
-This wine is very good.	Dieser Wein ist sehr gut.	यह शराब बहुत अच्छी है।
-This wine tastes awful.	Dieser Wein schmeckt fürchterlich.	यह शराब भयानक स्वाद लेती है।
-This word is new to me.	Dieses Wort ist neu für mich.	यह शब्द मेरे लिए नया है।
-This work is beyond me.	Diese Arbeit überfordert mich.	यह काम मुझे अभिभूत करता है।
-This writer is Russian.	Dieser Schriftsteller ist Russe.	यह लेखक रूसी है।
-Those are your enemies.	Das da sind eure Feinde.	ये आपके दुश्मन हैं।
-Those books are theirs.	Diese Bücher gehören ihnen.	ये किताबें उनकी हैं।
-Those glasses suit you.	Die Brille steht dir gut.	चश्मा आप पर अच्छा लगता है।
 Those horses are Tom's.	Die Pferde da gehören Tom.	घोड़े वहां हैं।
 Three people have died.	Drei Menschen sind gestorben.	तीन लोगों की मौत हो गई।
 Three shots were heard.	Es waren drei Schüsse zu hören.	सुने जाने के लिए तीन शॉट थे।
