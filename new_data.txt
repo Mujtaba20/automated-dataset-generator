@@ -35477,3 +35477,10 @@ When did you ask Tom?	Wann hast du Tom gefragt?	तुमने टॉम से
 When does life begin?	Wann beginnt das Leben?	जीवन कब शुरू होता है?
 When is good for you?	Wann passt es dir?	तुम्हारे लिए कब ठीक है?
 When was it finished?	Wann war es fertig?	यह कब समाप्त हुआ था?
+When will that occur?	Wann wird das passieren?	वह कब होगा?
+When will we go back?	Wann werden wir zurückgehen?	हम कब वापस जाएँगे?
+When will we go home?	Wann werden wir nach Hause gehen?	हम कब घर जाएँगे?
+When will you arrive?	Wann wirst du ankommen?	तुम कब पहुँचोगे?
+When will you go out?	Wann gehst du raus?	तुम कब बाहर जाओगे?
+When will you return?	Wann wirst du zurückkommen?	तुम कब वापस आओगे?
+When's dinner served?	Wann ist das Abendessen bereit?	डिनर कब परोसा जाएगा?

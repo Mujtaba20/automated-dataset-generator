@@ -1,14 +1,4 @@
 
-When will that occur?	Wann wird das passieren?	ऐसा कब होगा?
-When will we go back?	Wann gehen wir zurück?	हम कब वापस जाएंगे?
-When will we go home?	Wann gehen wir nach Hause?	हम घर कब जाते हैं?
-When will you arrive?	Wann wirst du ankommen?	आप कब आओगे?
-When will you go out?	Wann wirst du rausgehen?	आप कब बाहर जाएंगे
-When will you return?	Wann kommst du zurück?	आप कब वापस आ रहे हैं?
-When will you return?	Wann wirst du zurück kommen?	आप कब लौटेंगे?
-When will you return?	Wann werdet ihr zurückkehren?	तुम कब वापस आओगे?
-When's dinner served?	Wann wird das Abendessen serviert?	रात का खाना कब परोसा जाता है?
-When's dinner served?	Wann wird das Abendessen aufgetragen?	रात का खाना कब लगाया जाता है?
 When's your birthday?	Wann ist dein Geburtstag?	आपका जन्मदिन कब है?
 When's your birthday?	Wann haben Sie Geburtstag?	आपका जन्मदिन कब है?
 Where are Tom's keys?	Wo sind Toms Schlüssel?	टॉम की कुंजी कहाँ हैं?
