@@ -29945,3 +29945,11 @@ Where's your mother?	Wo ist deine Mutter?	तुम्हारी माँ क
 Where's your school?	Wo ist deine Schule?	तुम्हारी स्कूल कहाँ है?
 Where's your sister?	Wo ist deine Schwester?	तुम्हारी बहन कहाँ है?
 Where's your weapon?	Wo ist deine Waffe?	तुम्हारा हथियार कहाँ है?
+Which beer is yours?	Welches Bier ist deins?	तुम्हारा कौन सा बियर है?
+Which book is yours?	Welches Buch ist deins?	तुम्हारी कौन सी किताब है?
+Which of you did it?	Wer von euch hat es gemacht?	तुम्हारे बीच से किसने किया?
+Which team will win?	Welches Team wird gewinnen?	कौन सी टीम जीतेगी?
+White bread, please.	Weißbrot, bitte.	सफेद रोटी, कृपया।
+Who am I addressing?	Wen spreche ich an?	मैं किसे बोल रहा हूँ?
+Who am I forgetting?	Wen vergesse ich?	मैं किसे भूल रहा हूँ?
+Who am I talking to?	Mit wem spreche ich?	मैं किससे बात कर रहा हूँ?

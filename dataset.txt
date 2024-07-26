@@ -1,14 +1,4 @@
 
-Which beer is yours?	Welches ist dein Bier?	आपकी बीयर क्या है?
-Which beer is yours?	Welches ist Ihr Bier?	आपकी बीयर क्या है?
-Which book is yours?	Welches Buch ist deins?	आपकी कौन सी किताब है?
-Which book is yours?	Welches Buch ist Ihres?	आपकी कौन सी किताब है?
-Which of you did it?	Wer von euch hat das getan?	आप में से किसने किया?
-Which team will win?	Welche Mannschaft wird gewinnen?	कौन सी टीम जीत जाएगी?
-White bread, please.	Weißbrot, bitte.	सफेद रोटी, कृपया।
-Who am I addressing?	Mit wem habe ich die Ehre?	मेरे पास किसके साथ है?
-Who am I forgetting?	Vergesse ich jemanden?	क्या मैं किसी को भूल जाता हूं?
-Who am I talking to?	Mit wem spreche ich?	मैं किससे बात करूं?
 Who are they really?	Wer sind sie wirklich?	आप वास्तव में कौन हैं?
 Who are those women?	Wer sind diese Frauen?	ये महिलाएं कौन हैं?
 Who baked this cake?	Wer hat diesen Kuchen gebacken?	इस केक को किसने बेक किया?
