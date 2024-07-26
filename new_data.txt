@@ -25076,3 +25076,9 @@ Am I older than you? (different meaning)	Bin ich dir schon begegnet?	क्य�
 America is very big.	Amerika ist sehr groß.	अमेरिका बहुत बड़ा है।
 Answer me right now.	Antworte mir sofort.	अभी मुझे जवाब दो।
 Answer my questions.	Beantworte meine Fragen.	मेरे सवालों का जवाब दो।
+Answer the question.	Beantworte die Frage.	सवाल का जवाब दो।
+Anybody can do that.	Jeder kann das tun.	कोई भी यह कर सकता है।
+Anyone can see that.	Jeder kann das sehen.	कोई भी वह देख सकता है।
+Anybody can do this.	Jeder kann das machen.	कोई भी यह कर सकता है।
+Anybody want a beer?	Möchte jemand ein Bier?	क्या कोई बीयर चाहेगा?
+Anybody want a lift?	Möchte jemand eine Mitfahrgelegenheit?	क्या कोई लिफ़्ट चाहेगा?
