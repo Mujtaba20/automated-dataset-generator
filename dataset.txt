@@ -1,15 +1,4 @@
 
-Tom tried the shoes on.	Tom hat die Schuhe anprobiert.	टॉम ने जूते की कोशिश की।
-Tom tried to be polite.	Tom gab sich Mühe, höflich zu sein.	टॉम विनम्र होने के लिए परेशान।
-Tom tried to intervene.	Tom wollte eingreifen.	टॉम हस्तक्षेप करना चाहता था।
-Tom tried to keep calm.	Tom versuchte, die Ruhe zu bewahren.	टॉम ने शांत रखने की कोशिश की।
-Tom tried to keep calm.	Tom hat versucht, die Ruhe zu bewahren.	टॉम ने शांत रखने की कोशिश की।
-Tom tried to kill Mary.	Tom versuchte, Mary zu töten.	टॉम ने मैरी को मारने की कोशिश की।
-Tom tried to kiss Mary.	Tom wollte Maria küssen.	टॉम मारिया को चूमना चाहता था।
-Tom tried to save Mary.	Tom hat versucht, Maria zu retten.	टॉम ने मारिया को बचाने की कोशिश की।
-Tom tried to save Mary.	Tom hat Maria zu retten versucht.	टॉम ने मारिया को बचाने की कोशिश की।
-Tom tried to stay calm.	Tom versuchte, die Ruhe zu bewahren.	टॉम ने शांत रखने की कोशिश की।
-Tom tried to stay calm.	Tom versuchte, ruhig zu bleiben.	टॉम ने शांत रहने की कोशिश की।
 Tom tried to warn Mary.	Tom versuchte, Maria zu warnen.	टॉम ने मारिया को चेतावनी देने की कोशिश की।
 Tom trusts his doctors.	Tom vertraut seinen Ärzten.	टॉम अपने डॉक्टरों पर भरोसा करता है।
 Tom understands French.	Tom versteht Französisch.	टॉम फ्रेंच समझता है।
