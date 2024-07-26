@@ -24610,3 +24610,12 @@ When is school out?	Wann ist die Schule aus?	स्कूल कब खत्म
 When may I go home?	Wann darf ich nach Hause gehen?	मैं कब घर जा सकता हूँ?
 When were you born?	Wann bist du geboren?	तुम कब पैदा हुए थे?
 When do we want it? - Repeated Meaning	Wann benötigen wir es?	हमें इसकी कब जरुरत है?
+When will it begin?	Wann wird es beginnen?	यह कब शुरू होगा?
+When will you call?	Wann wirst du anrufen?	तुम कब फोन करोगे?
+When will you come?	Wann wirst du kommen?	तुम कब आओगे?
+When's the big day?	Wann ist der große Tag?	बड़ा दिन कब है?
+When's the funeral?	Wann ist die Beerdigung?	अंतिम संस्कार कब होगा?
+When's the wedding?	Wann ist die Hochzeit?	शादी कब है?
+Where are my books?	Wo sind meine Bücher?	मेरी किताबें कहाँ हैं?
+Where are my boots?	Wo sind meine Stiefel?	मेरी बूट्स कहाँ हैं?
+Where are the boys?	Wo sind die Jungen?	लड़के कहाँ हैं?
