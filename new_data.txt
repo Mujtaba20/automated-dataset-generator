@@ -21160,3 +21160,10 @@ I do have a theory.	Ich habe eine Theorie.	मेरे पास एक सि�
 I do what I'm told.	Ich tue, was mir gesagt wird.	मैं वह करता हूं जो मुझे कहा जाता है।
 I don't always win.	Ich gewinne nicht immer.	मैं हमेशा जीतता नहीं।
 I don't believe it.	Ich glaube es nicht.	मैं इस पर विश्वास नहीं करता।
+I don't deserve it.	Ich verdiene es nicht.	मुझे यह नहीं मिलना चाहिए।
+I don't doubt that.	Ich bezweifle das nicht.	मुझे ऐसा नहीं लगता।
+I don't drink beer.	Ich trinke kein Bier.	मैं बीयर नहीं पीता.
+I don't drink wine.	Ich trinke keinen Wein.	मैं शराब नहीं पीता.
+I don't eat apples.	Ich esse keine Äpfel.	मैं सेब नहीं खाता.
+I don't fear death.	Ich fürchte mich nicht vor dem Tod.	मैं मौत से नहीं डरता.
+I don't follow you.	Ich folge dir nicht.	मैं तुम्हें नहीं पहचानता।

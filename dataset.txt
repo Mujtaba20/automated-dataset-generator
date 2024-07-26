@@ -1,15 +1,4 @@
 
-I don't deserve it.	Das habe ich nicht verdient.	मैं इसके लायक नहीं था।
-I don't doubt that.	Das bezweifele ich gar nicht.	मुझे संदेह नहीं है कि।
-I don't doubt that.	Das bezweifele ich nicht.	मुझे संदेह नहीं है कि।
-I don't drink beer.	Ich trinke kein Bier.	मैं बियर नहीं पीता।
-I don't drink wine.	Ich trinke keinen Wein.	मैं शराब नहीं पीता।
-I don't eat apples.	Ich esse keine Äpfel.	मैं सेब नहीं खाता।
-I don't fear death.	Ich habe keine Angst vor dem Tod.	मैं मौत से नहीं डरता।
-I don't fear death.	Ich fürchte mich nicht vor den Tod.	मैं मौत से नहीं डरता।
-I don't follow you.	Ich kann dir nicht folgen.	मैं आप का पालन नहीं कर सकता।
-I don't follow you.	Ich kann Ihnen nicht folgen.	मैं उनका अनुसरण नहीं कर सकता।
-I don't follow you.	Ich kann euch nicht folgen.	मैं आपका अनुसरण नहीं कर सकता।
 I don't have a car.	Ich habe kein Auto.	मेरे पास एक कार नहीं है।
 I don't have a dog.	Ich habe keinen Hund.	मेरे पास एक कुत्ता नहीं है।
 I don't have a job.	Ich habe keine Arbeit.	मेरे पास काम नहीं है।
