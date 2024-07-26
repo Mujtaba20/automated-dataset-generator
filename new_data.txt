@@ -33469,3 +33469,11 @@ Stop doing that, Tom.	Hör auf, das zu tun, Tom.	उसे करना बं�
 Stop pulling my hair.	Hör auf, an meinem Haar zu ziehen.	मेरे बाल खींचना बंद करो।
 Sumatra is an island.	Sumatra ist eine Insel.	सुमात्रा एक द्वीप है।
 Swimming is my hobby.	Schwimmen ist mein Hobby.	तैराकी मेरा शौक है।
+Take Tom out of here.	Nimm Tom von hier weg.	टॉम को यहाँ से बाहर ले जाओ।
+Take a look at these.	Schau dir das mal an.	इन्हें देखो।
+Take a look in there.	Schau dort nach.	वहाँ देखो।
+Take off your jacket.	Zieh deine Jacke aus.	अपनी जैकेट उतारो।
+Take the garbage out.	Bring den Müll raus.	कूड़ा बाहर ले जाओ।
+Tell Mary I love her.	Sag Mary, dass ich sie liebe.	मेरी से कहो कि मैं उसे पसंद करता हूँ।
+Tell Tom to be quiet.	Sag Tom, er soll ruhig sein.	टॉम से कहो कि वह चुप रहे।
+Tell me a true story.	Erzähl mir eine wahre Geschichte.	मुझे एक सच्ची कहानी सुनाओ।

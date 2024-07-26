@@ -1,16 +1,4 @@
 
-Take Tom out of here.	Bring Tom von hier weg.	टॉम को यहाँ से दूर ले आओ।
-Take a look at these.	Wirf einen Blick darauf.	इस पर एक नज़र मारो।
-Take a look in there.	Schau mal da rein.	वहाँ एक नज़र डालो।
-Take off your jacket.	Ziehen Sie die Jacke aus.	जैकेट को खींचो।
-Take off your jacket.	Zieh deine Jacke aus.	अपने जैकेट उतारे।
-Take the garbage out.	Schaff den Müll raus.	कचरा बाहर निकालो।
-Tell Mary I love her.	Sage Maria, dass ich sie liebe!	मारिया कहो कि मैं उससे प्यार करता हूँ!
-Tell Mary I love her.	Sagen Sie Maria, dass ich sie liebe!	मारिया कहो कि मैं उससे प्यार करता हूँ!
-Tell Tom to be quiet.	Sag Tom, dass er ruhig sein soll.	टॉम कहो कि उसे शांत होना चाहिए।
-Tell me a true story.	Erzähl mir eine wahre Geschichte.	मुझे एक वास्तविक कहानी बताओ।
-Tell me a true story.	Erzählt mir eine wahre Geschichte.	मुझे एक वास्तविक कहानी बताओ।
-Tell me a true story.	Erzählen Sie mir eine wahre Geschichte.	मुझे एक वास्तविक कहानी बताओ।
 Tell me how you feel.	Erzähl mir, wie du dich fühlst.	मुझे बताओ आपको कैसा लगता है।
 Tell me what you saw.	Erzähl, was du gesehen hast.	बताओ तुमने क्या देखा।
 Tell me what you saw.	Erzähle, was du gesehen hast.	बताओ तुमने क्या देखा।
