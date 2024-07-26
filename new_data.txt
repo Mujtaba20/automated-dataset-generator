@@ -41043,3 +41043,11 @@ We had an early lunch.	Wir hatten ein frühes Mittagessen.	हमने जल�
 We had bacon and eggs.	Wir hatten Speck und Eier.	हमने बेकन और अंडे खाए।
 We had some questions.	Wir hatten einige Fragen.	हमारे पास कुछ सवाल थे।
 We have a big problem.	Wir haben ein großes Problem.	हमारी पास एक बड़ी समस्या है।
+We have a lot of food.	Wir haben viel Essen.	हमारे पास बहुत सारा खाने का सामान है।
+We have a lot of time.	Wir haben viel Zeit.	हमारे पास बहुत समय है।
+We have a new problem.	Wir haben ein neues Problem.	हमारे पास एक नयी समस्या है।
+We have no complaints.	Wir haben keine Beschwerden.	हमें कोई शिकायत नहीं है।
+We have one advantage.	Wir haben einen Vorteil.	हमारा एक फायदा है।
+We have three minutes.	Wir haben drei Minuten.	हमारे पास तीन मिनट हैं।
+We have three of them.	Wir haben drei davon.	हमें उनमें से तीन हैं।
+We have to stay alert.	Wir müssen wachsam bleiben.	हमें चौकन्ना रहना है।

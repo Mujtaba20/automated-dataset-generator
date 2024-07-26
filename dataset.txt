@@ -1,14 +1,4 @@
 
-We have a lot of food.	Wir haben viel Essen.	हमारे पास बहुत सारा भोजन है।
-We have a lot of food.	Wir haben viel zu essen.	हमारे पास खाने के लिए बहुत कुछ है।
-We have a lot of time.	Wir haben viel Zeit.	हमारे पास बहुत समय है।
-We have a new problem.	Wir haben ein neues Problem.	हमें एक नई समस्या है।
-We have no complaints.	Wir haben keine Beschwerden.	हमें कोई शिकायत नहीं है।
-We have one advantage.	Wir haben einen Vorteil.	हमें एक फायदा है।
-We have three minutes.	Wir haben drei Minuten.	हमारे पास तीन मिनट हैं।
-We have three of them.	Wir haben drei davon.	हमारे पास उनमें से तीन हैं।
-We have three of them.	Davon haben wir drei.	हमारे पास उनमें से तीन हैं।
-We have to stay alert.	Wir müssen wachsam bleiben.	हमें सतर्क रहना होगा।
 We have to trust them.	Wir müssen ihnen vertrauen.	हमें उन पर भरोसा करना होगा।
 We have to try harder.	Wir müssen uns mehr anstrengen.	हमें और अधिक प्रयास करना होगा।
 We haven't even tried.	Wir haben es nicht einmal versucht.	हमने इसकी कोशिश भी नहीं की।
