@@ -1,14 +1,4 @@
 
-My car wouldn't start.	Mein Auto wollte nicht anspringen.	मेरी कार शुरू नहीं करना चाहती थी।
-My car wouldn't start.	Mein Auto sprang nicht an.	मेरी कार शुरू नहीं हुई।
-My cat died yesterday.	Meine Katze ist gestern gestorben.	कल मेरी बिल्ली की मृत्यु हो गई।
-My cat sleeps all day.	Meine Katze schläft den ganzen Tag.	मेरी बिल्ली पूरे दिन सोती है।
-My cat will love this.	Meine Katze wird begeistert davon sein.	मेरी बिल्ली इसके बारे में उत्साहित होगी।
-My children are twins.	Meine Kinder sind Zwillinge.	मेरे बच्चे जुड़वाँ हैं।
-My dad is very strict.	Mein Vater ist sehr streng.	मेरे पिता बहुत सख्त हैं।
-My decision was final.	Meine Entscheidung war endgültig.	मेरा निर्णय अंतिम था।
-My dog didn't do that.	Mein Hund hat das nicht getan.	मेरे कुत्ते ने ऐसा नहीं किया।
-My eye has swollen up.	Mein Auge ist angeschwollen.	मेरी आंख सूज गई है।
 My father is a doctor.	Mein Vater ist Arzt.	मेरे पापा डॉक्टर हैं।
 My father is a doctor.	Mein Vater ist ein Doktor.	मेरे पापा डॉक्टर हैं।
 My father is busy now.	Mein Vater ist gerade beschäftigt.	मेरे पिता अभी व्यस्त हैं।

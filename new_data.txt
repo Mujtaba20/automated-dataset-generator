@@ -38848,3 +38848,12 @@ My brother is healthy.	Mein Bruder ist gesund.	मेरा भाई स्व�
 My brother swims well.	Mein Bruder schwimmt gut.	मेरा भाई अच्छे से तैरता है।
 My car is not running.	Mein Auto funktioniert nicht.	मेरी कार नहीं चल रही है।
 My car is right there.	Mein Auto ist genau dort.	मेरी कार सही वहाँ है।
+My car wouldn't start.	Mein Auto würde nicht starten.	मेरी कार नहीं जली।
+My cat died yesterday.	Meine Katze ist gestern gestorben.	मेरी बिल्ली कल मर गई थी।
+My cat sleeps all day.	Meine Katze schläft den ganzen Tag.	मेरी बिल्ली पूरे दिन सोती है।
+My cat will love this.	Meine Katze wird das lieben.	मेरी बिल्ली इसे पसंद करेगी।
+My children are twins.	Meine Kinder sind Zwillinge.	मेरे बच्चे जुड़वा हैं।
+My dad is very strict.	Mein Vater ist sehr streng.	मेरे पिताजी बहुत कड़ी मेहनत करते हैं।
+My decision was final.	Meine Entscheidung war endgültig.	मेरा निर्णय अंतिम था।
+My dog didn't do that.	Mein Hund hat das nicht getan.	मेरा कुत्ता ऐसा नहीं करता था।
+My eye has swollen up.	Mein Auge ist angeschwollen.	मेरी आंख सूज गई है।
