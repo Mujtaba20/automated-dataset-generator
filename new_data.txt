@@ -41265,3 +41265,11 @@ What do you call this?	Wie nennst du das?	तुम इसे क्या क�
 What do you guys have?	Was habt ihr Jungs?	तुम्हारे पास क्या है?
 What do you guys want?	Was wollt ihr Jungs?	तुम लोग क्या चाहते हो?
 What do you have here?	Was hast du hier?	तुम्हारे पास यहाँ क्या है?
+What do you people do?	Was machen Sie Leute?	तुम लोग क्या करते हो?
+What do you think now?	Was denkst du jetzt?	तुम अब क्या सोचते हो?
+What do you want here?	Was möchtest du hier?	तुम यहाँ क्या चाहते हो?
+What do you want, Tom?	Was möchtest du, Tom?	तोम, तुम क्या चाहते हो?
+What does Tom have on?	Was trägt Tom?	टॉम के पास क्या है?
+What does Tom owe you?	Was schuldet Tom Ihnen?	टॉम तुमसे क्या कर्ज़ रखता है?
+What does it refer to?	Worauf bezieht es sich?	यह किस पर है?
+What does your dad do?	Was macht dein Vater?	तुम्हारे पिताजी क्या करते हैं?
