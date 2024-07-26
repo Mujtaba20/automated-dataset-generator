@@ -30750,3 +30750,13 @@ Does Tom like school?	Mag Tom Schule?	क्या टॉम को स्कू
 Does Tom play soccer?	Spielt Tom Fußball?	क्या टॉम फुटबॉल खेलता है?
 Does Tom play tennis?	Spielt Tom Tennis?	क्या टॉम टेनिस खेलता है?
 Does Tom want coffee?	Möchte Tom Kaffee?	क्या टॉम कोफ़ी चाहता है?
+Does Tom work at all?	Arbeitet Tom überhaupt?	क्या टॉम काम करता है?
+Does that make sense?	Macht das Sinn?	क्या यह समझ में आता है?
+Does this make sense?	Macht das Sinn?	क्या यह समझ में आता है?
+Does this thing work?	Funktioniert dieses Ding?	क्या यह चीज़ काम करती है?
+Dolphins are curious.	Delfine sind neugierig.	डॉल्फ़िन कर्युरियस हैं।
+Dolphins are mammals.	Delfine sind Säugetiere.	डॉल्फ़िन प्राणी हैं।
+Don't admit anything.	Gestehen Sie nichts ein.	कुछ भी स्वीकार मत करो।
+Don't argue with Tom.	Diskutiere nicht mit Tom.	टॉम के साथ बहस मत करो।
+Don't be afraid, Tom.	Hab keine Angst, Tom.	डरो मत, टॉम।
+Don't be discouraged.	Lass dich nicht entmutigen.	निराश न हो।

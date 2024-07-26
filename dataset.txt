@@ -1,15 +1,4 @@
 
-Does Tom work at all?	Arbeitet Tom überhaupt etwas?	क्या टॉम कुछ भी काम करता है?
-Does that make sense?	Ergibt das Sinn?	समझ आया?
-Does this make sense?	Ist das sinnvoll?	इसका कोई मतलब भी है क्या?
-Does this thing work?	Funktioniert das?	क्या यह काम करता है?
-Dolphins are curious.	Delphine sind neugierig.	डेल्फिन उत्सुक हैं।
-Dolphins are mammals.	Delfine sind Säugetiere.	डॉल्फ़िन स्तनधारी हैं।
-Don't admit anything.	Gib nichts zu!	कुछ नहीं दो!
-Don't argue with Tom.	Streite nicht mit Tom!	टॉम के साथ बहस मत करो!
-Don't be afraid, Tom.	Hab keine Angst, Tom!	डरो मत, टॉम!
-Don't be discouraged.	Verliere nicht den Mut!	साहस मत खोना!
-Don't be discouraged.	Verzage nicht!	यह नहीं मिला!
 Don't be so critical.	Sei nicht so kritisch.	इतना महत्वपूर्ण मत बनो।
 Don't be so negative.	Sei nicht so negativ.	इतना नकारात्मक मत बनो।
 Don't be so reserved.	Sei nicht so reserviert.	इतना आरक्षित मत बनो।
