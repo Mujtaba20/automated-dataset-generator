@@ -1,14 +1,4 @@
 
-You're too trusting.	Du bist zu vertrauensselig.	आप बहुत भरोसेमंद हैं।
-You're unbelievable.	Sie sind unglaublich.	आप अविश्वसनीय हैं।
-You're unbelievable.	Du bist unglaublich!	तुम कमाल हो!
-You're under arrest.	Sie sind verhaftet!	आप हिरासत में हो!
-You're very helpful.	Du bist eine große Hilfe.	आप एक महान मदद हैं।
-You're very helpful.	Sie sind sehr hilfsbereit.	वे बहुत मददगार हैं।
-You're very helpful.	Du bist sehr hilfsbereit.	आप बहुत मददगार हैं।
-You're very patient.	Du bist sehr geduldig.	आप बहुत धैर्यवान हैं।
-You're very selfish.	Du bist sehr egoistisch.	आप बहुत स्वार्थी हैं।
-You're very unusual.	Du bist sehr ungewöhnlich.	आप बहुत असामान्य हैं।
 You're wasting ammo.	Du vergeudest Munition.	आपने गोला बारूद का नमूना लिया।
 You're wasting ammo.	Sie verschwenden Munition.	वे गोला बारूद बर्बाद करते हैं।
 You're wasting time.	Du verschwendest deine Zeit.	आप अपना समय बर्बाद करते हैं।

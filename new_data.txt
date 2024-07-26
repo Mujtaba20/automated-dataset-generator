@@ -30317,3 +30317,12 @@ You're still my son.	Du bist immer noch mein Sohn.	तुम अभी भी �
 You're the only one.	Du bist der Einzige.	तुम ही एकमात्र हो।
 You're the sweetest.	Du bist der Süßeste.	तुम सबसे प्यारे हो।
 You're too generous.	Du bist zu großzügig.	तुम बहुत उदार हो।
+You're too trusting.	Du bist zu vertrauensvoll.	आप बहुत विश्वासपूर्ण हैं।
+You're unbelievable.	Du bist unglaublich.	आप अविश्वसनीय हैं।
+You're unbelievable. (alternate meaning)	Du bist unglaublich gut.	आप अविश्वसनीय हैं।
+You're under arrest.	Sie sind verhaftet.	आप गिरफ्तार हैं।
+You're very helpful.	Du bist sehr hilfreich.	आप बहुत सहायक हैं।
+You're very helpful. (alternate meaning)	Du bist sehr unterstützend.	आप बहुत सहायक हैं।
+You're very patient.	Du bist sehr geduldig.	आप बहुत सब्रशील हैं।
+You're very selfish.	Du bist sehr egoistisch.	आप बहुत अकेलापन से भरा हुआ है।
+You're very unusual.	Du bist sehr ungewöhnlich.	आप बहुत असामान्य हैं।
