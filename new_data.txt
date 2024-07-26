@@ -36172,3 +36172,11 @@ Can I ask you a favor?	Darf ich dich um einen Gefallen bitten?	क्या म�
 Can I borrow your car?	Kann ich dein Auto leihen?	क्या मैं तुम्हारी कार को उधार लेने के सकता हूँ?
 Can I buy you a drink?	Kann ich dir ein Getränk kaufen?	क्या मैं तुझे पेय कर सकता हूँ?
 Can I copy your notes?	Kann ich deine Notizen kopieren?	क्या मैं तुम्हारी टिप्पणियाँ कॉपी कर सकता हूँ?
+Can I eat that orange?	Kann ich diese Orange essen?	क्या मैं उस संतरे को खा सकता हूँ?
+Can I eat this orange?	Kann ich diesen Apfel essen?	क्या मैं इस संतरे को खा सकता हूँ?
+Can I get you a drink?	Kann ich dir ein Getränk holen?	क्या मैं आपके लिए कोई पेय ला सकता हूँ?
+Can I leave a message?	Kann ich eine Nachricht hinterlassen?	क्या मैं संदेश छोड़ सकता हूँ?
+Can I open the window?	Kann ich das Fenster öffnen?	क्या मैं खिड़की खोल सकता हूँ?
+Can I play some music?	Kann ich etwas Musik spielen?	क्या मैं कुछ संगीत बजा सकता हूँ?
+Can I play you a song?	Kann ich dir ein Lied vorspielen?	क्या मैं तुम्हें एक गाना गा सकता हूँ?
+Can I see you tonight?	Kann ich dich heute Abend sehen?	क्या मैं आपसे आज रात मिल सकता हूँ?
