@@ -23695,3 +23695,12 @@ Tom is on vacation.	Tom ist im Urlaub.	टॉम अब अवकाश पर �
 Tom is out hunting.	Tom ist draußen auf der Jagd.	टॉम बाहर शिकार पर है।
 Tom is out of work.	Tom ist arbeitslos.	टॉम जर्मन मुक्त है।
 Tom is in the meeting.	Tom ist im Meeting.	टॉम बैठक में है।
+Tom is past thirty.	Tom ist über dreißig.	टॉम तीस गया है।
+Tom is pessimistic.	Tom ist pessimistisch.	टॉम नकारात्मक है।
+Tom is quite crazy.	Tom ist ziemlich verrückt.	टॉम काफी पागल है॥
+Tom is quite drunk.	Tom ist ziemlich betrunken.	टॉम काफी नशे में है।
+Tom is quite funny.	Tom ist ziemlich lustig.	टॉम काफी मजेदार है।
+Tom is quite fussy.	Tom ist ziemlich pingelig.	टॉम काफी चिडचिड़ा है।
+Tom is quite happy.	Tom ist ziemlich glücklich.	टॉम काफी खुश है।
+Tom is quite moody.	Tom ist ziemlich launisch.	टॉम काफी भावुक है।
+Tom is quite picky.	Tom ist ziemlich wählerisch.	टॉम काफी चुनौतीपूर्ण है।

@@ -1,14 +1,4 @@
 
-Tom is past thirty.	Tom ist jenseits der Dreißig.	टॉम तीस से परे है।
-Tom is pessimistic.	Tom ist pessimistisch.	टॉम निराशावादी है।
-Tom is quite crazy.	Tom ist ziemlich verrückt.	टॉम बहुत पागल है।
-Tom is quite drunk.	Tom ist ziemlich betrunken.	टॉम बहुत नशे में है।
-Tom is quite funny.	Tom ist ziemlich lustig.	टॉम बहुत मजाकिया है।
-Tom is quite fussy.	Tom ist relativ wählerisch.	टॉम अपेक्षाकृत चुस्त है।
-Tom is quite happy.	Tom ist ziemlich glücklich.	टॉम बहुत खुश है।
-Tom is quite moody.	Tom ist ziemlich launisch.	टॉम सुंदर मूडी है।
-Tom is quite moody.	Tom ist recht launenhaft.	टॉम काफी मूडी है।
-Tom is quite picky.	Tom ist ziemlich wählerisch.	टॉम बहुत पिकी है।
 Tom is quite right.	Tom hat völlig recht.	टॉम बिल्कुल सही है।
 Tom is quite young.	Tom ist ziemlich jung.	टॉम बहुत युवा है।
 Tom is quite young.	Tom ist recht jung.	टॉम काफी युवा है।
