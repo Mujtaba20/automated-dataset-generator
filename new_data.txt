@@ -30529,3 +30529,12 @@ Come back in a month.	Komm in einem Monat zurück.	एक महीने मे
 Come back in an hour.	Komm in einer Stunde wieder.	एक घंटे में वापस आना।
 Come fishing with me.	Komm mit mir angeln.	मेरे साथ मछली पकड़ने चला आ।
 Come home before six.	Komm vor sechs Uhr nach Hause.	छे बजे से पहले घर आ जाओ।
+Come in and sit down.	Komm rein und setz dich.	अंदर आइए और बैठिए।
+Come on out of there.	Kommen Sie dort heraus.	वहां से बाहर आइए।
+Come with me, please.	Komm bitte mit mir.	मेरे साथ आइए, कृपया।
+Context is important.	Kontext ist wichtig.	संदर्भ महत्वपूर्ण है।
+Cotton absorbs water.	Baumwolle absorbiert Wasser.	कपास पानी सोखता है।
+Could I change rooms?	Könnte ich das Zimmer wechseln?	क्या मैं कमरे बदल सकता हूँ?
+Could I get some tea?	Könnte ich etwas Tee bekommen?	क्या मुझे थोड़ी चाय मिल सकती है?
+Could we have a fork?	Könnten wir eine Gabel haben?	क्या हमें एक कांटा मिल सकता है?
+Could you help a bit?	Könnten Sie bitte helfen?	क्या आप थोड़ी मदद कर सकते हैं?
