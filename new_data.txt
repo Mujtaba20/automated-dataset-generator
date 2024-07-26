@@ -34901,3 +34901,12 @@ Tom told me a secret.	Tom hat mir ein Geheimnis erzählt.	टॉम ने म�
 Tom told me about it.	Tom hat mir davon erzählt.	टॉम ने मुझे इसके बारे में बताया।
 Tom took a short cut.	Tom nahm einen kurzen Weg.	टॉम ने एक छोटी राह ली।
 Tom took his tie off.	Tom zog seine Krawatte aus.	टॉम ने अपनी टाई उतार ली।
+Tom took off his cap.	Tom nahm seine Mütze ab.	टॉम ने अपनी कैप उतार ली।
+Tom took off his hat.	Tom zog seinen Hut aus.	टॉम ने अपनी टोपी उतार ली।
+Tom took off his tie.	Tom löste seine Krawatte.	टॉम ने अपना टाई खोल दी।
+Tom took off running.	Tom lief los.	टॉम भागने लगा।
+Tom took out his gun.	Tom holte seine Waffe heraus.	टॉम ने अपनी बंदूक निकाली।
+Tom took the day off.	Tom nahm sich frei.	टॉम ने दिन भर का छुट्टी लिया।
+Tom touched my elbow.	Tom berührte meinen Ellenbogen.	टॉम ने मेरा कोहनी छुआ।
+Tom tracked the deer.	Tom verfolgte das Reh.	टॉम ने हिरन का पीछा किया।
+Tom treated me badly.	Tom behandelte mich schlecht.	टॉम ने मुझे बुरे तरीके से व्यवहार किया।
