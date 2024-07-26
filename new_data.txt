@@ -31567,3 +31567,10 @@ I don't believe this.	Das glaube ich nicht.	मुझे इस पर विश
 I don't care for him.	Mir ist er egal.	मुझे उसकी परवाह नहीं है।
 I don't deserve this.	Das verdiene ich nicht.	मुझे ऐसा नहीं मिलना चाहिए।
 I don't discriminate.	Ich diskriminiere nicht.	मैं भेदभाव नहीं करता।
+I don't do that well.	Das mache ich nicht gut.	मैं वह अच्छे से नहीं करता।
+I don't feel cheated.	Ich fühle mich nicht betrogen.	मुझे धोखा नहीं लगता।
+I don't feel like it.	Ich habe keine Lust dazu.	मुझे ऐसा महसूस नहीं हो रहा है।
+I don't feel so good.	Ich fühle mich nicht so gut.	मैं इतना अच्छा महसूस नहीं कर रहा हूँ।
+I don't get out much.	Ich gehe nicht viel raus.	मैं बहुत बाहर नहीं निकलता।
+I don't get the joke.	Ich verstehe den Witz nicht.	मुझे मजाक समझ नहीं आता।
+I don't go to school.	Ich gehe nicht zur Schule.	मैं स्कूल नहीं जाता।

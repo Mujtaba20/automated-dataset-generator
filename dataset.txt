@@ -1,14 +1,4 @@
 
-I don't do that well.	Ich mache das nicht gut.	मैं ऐसा नहीं करता।
-I don't feel cheated.	Ich fühle mich nicht übers Ohr gehauen.	मुझे लगता है कि यह नहीं है।
-I don't feel cheated.	Ich komme mir nicht angeschwindelt vor.	मुझे ऐसा नहीं लगता।
-I don't feel like it.	Ich fühle mich nicht danach.	मुझे ऐसा नहीं लगता।
-I don't feel like it.	Mir ist nicht danach.	मुझे ऐसा नहीं लगता।
-I don't feel like it.	Ich habe keine Lust dazu.	मुझे ऐसा नहीं लगता।
-I don't feel so good.	Ich fühle mich nicht so gut.	मेरी तबियत ठीक नहीं है.
-I don't get out much.	Ich komme nicht viel raus.	मैं ज्यादा नहीं निकला।
-I don't get the joke.	Ich habe den Witz nicht verstanden.	मुझे मजाक समझ नहीं आया।
-I don't go to school.	Ich gehe nicht in die Schule.	मैं विद्यालय नहीं जाता हूं।
 I don't have a fever.	Ich habe kein Fieber.	मुझे कोई बुखार नहीं है।
 I don't have a horse.	Ich habe kein Pferd.	मेरे पास घोड़ा नहीं है।
 I don't have a phone.	Ich habe kein Telefon.	मेरे पास फोन नहीं है।
