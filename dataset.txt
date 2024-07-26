@@ -1,15 +1,4 @@
 
-I want to see that.	Ich möchte das sehen.	मुझे यह देखना है।
-I want to see this.	Ich möchte das sehen.	मुझे यह देखना है।
-I want to stop Tom.	Ich möchte Tom stoppen.	मैं टॉम को रोकना चाहता हूं।
-I want to try this.	Ich möchte das versuchen.	मैं कोशिश करना चाहता हूँ।
-I want to use this.	Ich möchte das benutzen.	मैं इसका उपयोग करना चाहता हूं।
-I want what's mine.	Ich will, was mir gehört.	मैं चाहता हूं कि मेरा क्या है।
-I want you to come.	Ich möchte, dass du kommst.	मैं चाहता हूं कि आप आएं।
-I want you to sing.	Ich will, dass du singst.	मैं चाहता हूं कि आप गाते हो।
-I want you to stay.	Ich möchte, dass du dableibst.	मैं चाहता हूं कि आप नीचे जाएं।
-I want you to stay.	Ich möchte, dass Sie dableiben.	मैं चाहता हूं कि आप रुक जाएं।
-I want you to stay.	Ich möchte, dass ihr dableibt.	मैं चाहता हूं कि आप नीचे जाएं।
 I want you to stop.	Ich möchte, dass du aufhörst.	मैं चाहता हूं कि आप रुकें।
 I want you to wait.	Ich will, dass du wartest.	मैं चाहता हूं कि आप इंतजार करें।
 I want you to wait.	Ich will, dass ihr wartet.	मैं चाहता हूं कि आप इंतजार करें।

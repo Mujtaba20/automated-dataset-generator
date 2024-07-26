@@ -21702,3 +21702,12 @@ I want to know how.	Ich möchte wissen, wie.	मैं जानना चाह
 I want to know why.	Ich möchte wissen, warum.	मैं जानना चाहता हूँ कि क्यों।
 I want to meet Tom.	Ich möchte Tom treffen.	मैं टॉम से मिलना चाहता हूँ।
 I want to see more.	Ich möchte mehr sehen.	मैं और देखना चाहता हूँ।
+I want to see that.	Ich möchte das sehen.	मैं उसे देखना चाहता हूँ।
+I want to see this.	Ich will das sehen.	मैं इसे देखना चाहता हूँ।
+I want to stop Tom.	Ich will Tom stoppen.	मैं टॉम को रोकना चाहता हूँ।
+I want to try this.	Ich möchte das ausprobieren.	मैं यह आजमाना चाहता हूँ।
+I want to use this.	Ich möchte das benutzen.	मैं इसका उपयोग करना चाहता हूँ।
+I want what's mine.	Ich will, was mir gehört.	मैं चाहता हूँ जो मेरा है।
+I want you to come.	Ich möchte, dass du kommst.	मैं चाहता हूँ कि तुम आओ।
+I want you to sing.	Ich will, dass du singst.	मैं चाहता हूँ कि तुम गाओ।
+I want you to stay.	Ich möchte, dass du bleibst.	मैं चाहता हूँ कि तुम रुको।
