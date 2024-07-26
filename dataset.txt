@@ -1,14 +1,4 @@
 
-My brother is a vet.	Mein Bruder ist Tierarzt.	मेरा भाई एक पशुचिकित्सा है।
-My cake didn't rise.	Mein Kuchen ist nicht aufgegangen.	मेरा केक काम नहीं करता था।
-My car's over there.	Mein Auto ist dort drüben.	मेरी कार वहाँ है।
-My cat loves catnip.	Meine Katze liebt Katzenminze.	मेरी बिल्ली कैटनीप से प्यार करती है।
-My cat loves shrimp.	Meine Katze liebt Garnelen.	मेरी बिल्ली को झींगा बहुत पसंद है।
-My children need me.	Meine Kinder brauchen mich.	मेरे बच्चों को मेरी जरूरत है।
-My computer crashed.	Mein Computer ist abgestürzt.	मेरा कंप्यूटर क्रैश हो गया।
-My country needs me.	Mein Land braucht mich.	मेरे देश को मेरी जरूरत है।
-My dad will kill me.	Mein Vater wird mich umbringen.	मेरे पिता मुझे मार देंगे।
-My dog needs a walk.	Mein Hund muss mal Gassi gehen.	मेरे कुत्ते को टहलने जाना है।
 My family loved Tom.	Meine Familie liebte Tom.	मेरा परिवार टॉम से प्यार करता था।
 My feet are swollen.	Meine Füße sind geschwollen.	मेरे पैर सूजे हुए हैं।
 My film has run out.	Mein Film ist zu Ende.	मेरी फिल्म खत्म हो गई है।

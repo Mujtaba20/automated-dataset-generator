@@ -27608,3 +27608,13 @@ engSentence6	Mein Rücken tut immer noch weh.	मेरी पीठ अब भ�
 engSentence7	Mein Rücken tut immer noch weh.	मेरी पीठ अब भी दर्द कर रही है।
 engSentence8	Meine Stiefel waren schlammig.	मेरी जूते गंदे थे।
 engSentence9	Mein Chef ist Kanadier.	मेरे बॉस कनेडियन हैं।
+My brother is a vet.	Mein Bruder ist Tierarzt.	मेरा भाई एक वेट है।
+My cake didn't rise.	Mein Kuchen ist nicht aufgegangen.	मेरा केक उभरा नहीं।
+My car's over there.	Mein Auto ist dort drüben.	मेरी कार उस ओर है।
+My cat loves catnip.	Meine Katze liebt Katzenminze.	मेरी बिल्ली को कटनीप पसंद है।
+My cat loves shrimp.	Meine Katze liebt Garnelen.	मेरी बिल्ली को झींगा पसंद है।
+My children need me.	Meine Kinder brauchen mich.	मेरे बच्चों को मुझे चाहिए।
+My computer crashed.	Mein Computer ist abgestürzt.	मेरा कंप्यूटर क्रैश हो गया।
+My country needs me.	Mein Land braucht mich.	मेरे देश को मुझे चाहिए।
+My dad will kill me.	Mein Vater wird mich umbringen.	मेरे पिताजी मुझे मार दालेंगे।
+My dog needs a walk.	Mein Hund braucht einen Spaziergang.	मेरे कुत्ते को सैर की आवश्यकता है।
