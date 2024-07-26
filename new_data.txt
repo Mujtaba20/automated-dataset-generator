@@ -33384,3 +33384,12 @@ She really hates him.	Sie hasst ihn wirklich.	उसे उससे वास�
 She sang pretty well.	Sie sang recht gut.	उसने काफी अच्छा गाया।
 She sat on the bench.	Sie saß auf der Bank.	उसने बेंच पर बैठा।
 She seems to be sick.	Sie scheint krank zu sein.	लगता है कि वह बीमार है।
+She sells vegetables.	Sie verkauft Gemüse.	उसने सब्जियां बेची।
+She sent me a letter.	Sie hat mir einen Brief geschickt.	उसने मुझे एक पत्र भेजा।
+She served me coffee.	Sie hat mir Kaffee serviert.	उसने मुझे कॉफ़ी पिलाई।
+She slammed the door.	Sie knallte die Tür zu.	उसने दरवाजा ज़ोर से बंद किया।
+She slapped his face.	Sie schlug ihm ins Gesicht.	उसने उसके चेहरे पर थप्पड़ मारा।
+She sold him her car.	Sie hat ihm ihr Auto verkauft.	उसने उसको अपनी कार बेची।
+She spoke impolitely.	Sie sprach unhöflich.	उसने अशिष्टता से बात की।
+She spoke up for him.	Sie hat sich für ihn eingesetzt.	उसने उसके लिए बोला।
+She stole my clothes!	Sie hat meine Kleidung gestohlen!	उसने मेरे कपड़े चुराए!
