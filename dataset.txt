@@ -1,14 +1,4 @@
 
-Tom looks up to you.	Tom schaut zu dir auf.	टॉम आपको देखता है।
-Tom looks very good.	Tom sieht sehr gut aus.	टॉम बहुत अच्छा लग रहा है।
-Tom looks very pale.	Tom sieht sehr blass aus.	टॉम बहुत पीला दिखता है।
-Tom looks very sick.	Tom sieht ziemlich krank aus.	टॉम बहुत बीमार लग रहा है।
-Tom lost his memory.	Tom hat sein Gedächtnis verloren.	टॉम ने अपनी याददाश्त खो दी है।
-Tom lost his memory.	Tom verlor sein Gedächtnis.	टॉम ने अपनी याददाश्त खो दी।
-Tom lost his memory.	Tom hat das Gedächtnis verloren.	टॉम ने मेमोरी खो दी है।
-Tom lost his temper.	Toms Temperament ist mit ihm durchgegangen.	टॉम का स्वभाव उसके साथ चला गया।
-Tom lost his temper.	Tom hat seine Geduld verloren.	टॉम ने अपना धैर्य खो दिया है।
-Tom lost his temper.	Tom verlor seine Geduld.	टॉम ने अपना धैर्य खो दिया।
 Tom lost his wallet.	Tom hat seinen Geldbeutel verloren.	टॉम ने अपना बटुआ खो दिया।
 Tom loved to gamble.	Tom liebte das Glücksspiel.	टॉम ने जुआ प्यार किया।
 Tom loved to travel.	Tom reiste für sein Leben gern.	टॉम को अपने जीवन के लिए यात्रा करना पसंद था।

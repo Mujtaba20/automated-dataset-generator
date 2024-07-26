@@ -29110,3 +29110,9 @@ Tom looks flustered.	Tom wirkt aufgeregt.	टॉम फुसफुसाया 
 Tom looks irritated.	Tom wirkt gereizt.	टॉम चिड़चिड़ा हुआ लग रहा है।
 Tom looks like John.	Tom sieht aus wie John.	टॉम जॉन जैसा दिखता है।
 Tom looks undecided.	Tom wirkt unentschlossen.	टॉम अनिश्चित लग रहा है।
+Tom looks up to you.	Tom sieht zu dir auf.	टॉम तुम्हारी ओर देख रहा है।
+Tom looks very good.	Tom sieht sehr gut aus.	टॉम बहुत अच्छा लग रहा है।
+Tom looks very pale.	Tom sieht sehr blass aus.	टॉम बहुत पीला लग रहा है।
+Tom looks very sick.	Tom sieht sehr krank aus.	टॉम बहुत बीमार लग रहा है।
+Tom lost his memory.	Tom hat sein Gedächtnis verloren.	टॉम ने अपनी याददाश्त खो दी।
+Tom lost his temper.	Tom hat seinen Ärger verloren.	टॉम ने अपना क्रोध खो दिया।
