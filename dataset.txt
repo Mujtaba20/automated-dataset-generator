@@ -1,15 +1,4 @@
 
-Did Tom move to Boston?	Ist Tom nach Boston gezogen?	क्या टॉम बोस्टन चले गए हैं?
-Did Tom really do that?	Hat Tom das wirklich getan?	क्या टॉम ने वास्तव में ऐसा किया?
-Did Tom say who did it?	Hat Tom gesagt, wer das getan hat?	क्या टॉम ने कहा कि किसने किया?
-Did Tom seem OK to you?	Hat Tom auf dich den Eindruck gemacht, dass es ihm gutgeht?	क्या टॉम ने आपको यह आभास दिया है कि वह ठीक है?
-Did Tom swim yesterday?	War Tom gestern schwimmen?	क्या टॉम कल तैराकी कर रहा था?
-Did Tom tell the truth?	Hat Tom die Wahrheit gesagt?	क्या टॉम ने सच कहा है?
-Did anybody follow you?	Ist dir jemand gefolgt?	क्या किसी ने आपका अनुसरण किया?
-Did it actually happen?	Ist es wirklich passiert?	क्या यह वास्तव में हुआ था?
-Did the phone wake you?	Hat das Telefon dich geweckt?	क्या फोन ने आपको जगाया?
-Did the phone wake you?	Hat das Telefon euch geweckt?	क्या फोन ने आपको जगाया?
-Did the phone wake you?	Hat das Telefon Sie geweckt?	क्या फोन ने आपको जगाया?
 Did they ever find Tom?	Wurde Tom je gefunden?	क्या टॉम कभी पाया गया था?
 Did they ever find Tom?	Ist Tom je gefunden worden?	क्या टॉम कभी पाया गया है?
 Did you bring a weapon?	Hast du eine Waffe mitgebracht?	क्या आप अपने साथ एक हथियार लाते थे?
