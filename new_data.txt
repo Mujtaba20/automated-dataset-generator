@@ -31804,3 +31804,9 @@ I heard you laughing.	Ich habe dich lachen gehört.	मैंने तुम्
 I hit it really hard.	Ich habe es wirklich hart getroffen.	मैंने उसे वास्तव में कड़ा हिट किया।
 I hit on a good idea.	Ich bin auf eine gute Idee gekommen.	मैंने एक अच्छी विचार का हिट किया।
 I hope it's not true.	Ich hoffe, es ist nicht wahr.	मुझे आशा है कि यह सच न हो।
+I hope it's worth it.	Ich hoffe, es lohnt sich.	मुझे आशा है कि यह लायक हो।
+I hope that's a joke.	Ich hoffe, das ist ein Witz.	मुझे आशा है कि यह मजाक है।
+I hope that's enough.	Ich hoffe, das ist genug.	मुझे आशा है कि यह काफी है।
+I hope you know that.	Ich hoffe, du weißt das.	मेरी आशा है कि तुम्हें पता है।
+I hope you're hungry.	Ich hoffe, du bist hungrig.	मेरी आशा है कि तुम भूखे हो।
+I hugged her tightly.	Ich umarmte sie fest.	मैंने उसे मजबूती से गले लगाया।
