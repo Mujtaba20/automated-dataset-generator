@@ -35239,3 +35239,13 @@ We sell orange juice.	Wir verkaufen Orangensaft.	हम संतरे का �
 We should set a trap.	Wir sollten eine Falle stellen.	हमें झपट करना चाहिए।
 We should try harder.	Wir sollten härter versuchen.	हमें कठिन प्रयास करना चाहिए।
 We shouldn't've come.	Wir hätten nicht kommen sollen.	हमें नहीं आना चाहिए था।
+We take it seriously.	Wir nehmen es ernst.	हम इसे गंभीरता से लेते हैं।
+We talked about boys.	Wir sprachen über Jungs.	हम लड़कों के बारे में बात करते थे।
+We talked about work.	Wir sprachen über Arbeit.	हम काम के बारे में बात की।
+We talked about work. - 2	Wir diskutierten über die Arbeit.	हमने काम के बारे में चर्चा की।
+We took a wrong turn.	Wir haben einen Fehler gemacht.	हमने गलत मुड़ाया था।
+We traveled together.	Wir reisten zusammen.	हम साथ यात्रा किया।
+We traveled together. - 2	Wir waren gemeinsam unterwegs.	हमने एक साथ यात्रा की।
+We tried really hard.	Wir haben uns wirklich bemüht.	हमने सचमुच बहुत प्रयास किए।
+We tried really hard. - 2	Wir haben es wirklich versucht.	हमने वास्तव में बहुत कोशिश की।
+We tried to call you.	Wir haben versucht, dich anzurufen.	हमने कोशिश की तुम्हें कॉल करने की।
