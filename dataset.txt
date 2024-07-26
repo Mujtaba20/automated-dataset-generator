@@ -1,14 +1,4 @@
 
-I'm Tom's roommate.	Ich bin Toms Mitbewohner.	मैं टॉम का रूममेट हूं।
-I'm a bit confused.	Ich bin ein bisschen verwirrt.	मैं कुछ उलझन में हूं।
-I'm a city dweller.	Ich bin Städter.	मैं एक शहर हूं।
-I'm a fast learner.	Ich lerne schnell.	मैं जल्दी से सीखता हूं।
-I'm a fast swimmer.	Ich bin ein schneller Schwimmer.	मैं एक त्वरित तैराक हूं।
-I'm a good guesser.	Ich kann gut raten.	मैं अच्छी तरह से अनुमान लगा सकता हूं।
-I'm a good student.	Ich bin ein guter Student.	मैं एक अच्छा छात्र हूँ।
-I'm a good teacher.	Ich bin ein guter Lehrer.	मैं एक अच्छा शिक्षक हूं।
-I'm a little child.	Ich bin ein kleines Kind.	मैं एक छोटा बच्चा हूँ।
-I'm a little early.	Ich bin ein bisschen früh.	मैं थोड़ी जल्दी हूँ।
 I'm a little tipsy.	Ich bin leicht angetrunken.	मैं थोड़ा नशे में हूं।
 I'm a little tired.	Ich bin ein bisschen müde.	मैं थोड़ा थक गया हूँ।
 I'm a little tired.	Ich bin ein wenig müde.	मैं थोड़ा थक गया हूँ।

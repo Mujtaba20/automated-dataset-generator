@@ -21881,3 +21881,13 @@ I'm Tom's fiancée.	Ich bin Toms Verlobte.	मैं टॉम की मंग�
 I'm Tom's guardian.	Ich bin Toms Vormund.	मैं टॉम का प्रेषक हूँ।
 I'm Tom's landlord.	Ich bin Toms Vermieter.	मैं टॉम का मालिक हूं।
 I'm Tom's neighbor.	Ich bin Toms Nachbar.	मैं टॉम के पड़ोसी हूं।
+I'm Tom's roommate.	Ich bin Toms Mitbewohner.	मैं टॉम का रूममेट हूँ।
+I'm a bit confused.	Ich bin ein bisschen verwirrt.	मुझे थोड़ा सा भ्रम है।
+I'm a city dweller.	Ich bin Stadtbewohner.	मैं शहरवासी हूँ।
+I'm a fast learner.	Ich bin ein schneller Lerner.	मैं तेज़ सीखने वाला हूँ।
+I'm a fast swimmer.	Ich bin ein schneller Schwimmer.	मैं एक तेज तैराक हूँ।
+I'm a good guesser.	Ich bin ein guter Rater.	मैं अच्छा अनुमान लगाने वाला हूँ।
+I'm a good student.	Ich bin ein guter Schüler.	मैं एक अच्छा छात्र हूँ।
+I'm a good teacher.	Ich bin ein guter Lehrer.	मैं एक अच्छा शिक्षक हूँ।
+I'm a little child.	Ich bin ein kleines Kind.	मैं एक छोटा बच्चा हूँ।
+I'm a little early.	Ich bin etwas früh.	मैं थोड़ा जल्दी से पहले हूँ।
