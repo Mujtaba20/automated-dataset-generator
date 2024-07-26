@@ -33089,3 +33089,12 @@ Monkeys love bananas.	Affen lieben Bananen.	बंदरों को केल�
 Most people hate war.	Die meisten Menschen hassen Krieg.	ज्यादातर लोग युद्ध से नफरत करते हैं।
 Most people think so.	Die meisten Menschen denken so.	अधिकांश लोग ऐसा सोचते हैं।
 My apartment is near.	Meine Wohnung ist in der Nähe.	मेरा अपार्टमेंट पास है।
+My arm is killing me.	Mein Arm tötet mich.	मेरी बांह मुझे मार रही है।
+My bag is very heavy.	Meine Tasche ist sehr schwer.	मेरा बैग बहुत भारी है।
+My birthday is today.	Mein Geburtstag ist heute.	मेरा जन्मदिन आज है।
+My boss is very nice.	Mein Chef ist sehr nett.	मेरा बॉस बहुत अच्छा है।
+My brother is stupid.	Mein Bruder ist dumm.	मेरा भाई मूर्ख है।
+My camera is a Nikon.	Meine Kamera ist eine Nikon.	मेरा कैमरा एक नाइकॉन है।
+My car is over there.	Mein Auto ist da drüben.	मेरी गाड़ी वहाँ है।
+My car's in the shop.	Mein Auto ist in der Werkstatt.	मेरी कार दुकान में है।
+My children are sick.	Meine Kinder sind krank.	मेरे बच्चे बीमार हैं।
