@@ -34946,3 +34946,13 @@ Tom wants to eat now.	Tom möchte jetzt essen.	टॉम अब खाना च
 Tom wants to go home.	Tom möchte nach Hause gehen.	टॉम घर जाना चाहता है।
 Tom wants to go, too.	Tom möchte auch gehen.	टॉम भी जाना चाहता है।
 Tom wants to keep it.	Tom möchte es behalten.	टॉम यह रखना चाहता है।
+Tom wants to kill me.	Tom will mich töten.	टॉम मुझे मारना चाहता है।
+Tom wants to see you.	Tom will dich sehen.	टॉम तुम्हें देखना चाहता है।
+Tom wants to stop us.	Tom will uns stoppen.	टॉम हमें रोकना चाहता है।
+Tom wants to take it.	Tom will es nehmen.	टॉम इसे लेना चाहता है।
+Tom wants us to wait.	Tom will, dass wir warten.	टॉम चाहता है कि हम इंतजार करें।
+Tom wants you to eat.	Tom möchte, dass du isst.	टॉम चाहता है कि तुम खाओ।
+Tom was a bad person.	Tom war eine schlechte Person.	टॉम एक बुरा आदमी था।
+Tom was a journalist.	Tom war ein Journalist.	टॉम एक पत्रकार था।
+Tom was a lumberjack.	Tom war ein Holzfäller.	टॉम एक लकड़हारा था।
+Tom was all worn out.	Tom war völlig erschöpft.	टॉम पूरी तरह से थक गया था।

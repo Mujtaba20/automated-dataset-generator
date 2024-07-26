@@ -1,14 +1,4 @@
 
-Tom wants to kill me.	Tom will mich töten.	टॉम मुझे मारना चाहता है।
-Tom wants to see you.	Tom will dich sehen.	टॉम आपको देखना चाहता है।
-Tom wants to stop us.	Tom will uns aufhalten.	टॉम हमें रोकना चाहता है।
-Tom wants to take it.	Tom will es nehmen.	टॉम इसे लेना चाहता है।
-Tom wants us to wait.	Tom will, dass wir warten.	टॉम चाहता है कि हम इंतजार करें।
-Tom wants you to eat.	Tom will, dass du isst.	टॉम आपको खाना चाहता है।
-Tom was a bad person.	Tom war ein schlechter Mensch.	टॉम एक बुरा इंसान था।
-Tom was a journalist.	Tom war Journalist.	टॉम एक पत्रकार थे।
-Tom was a lumberjack.	Tom war Holzfäller.	टॉम एक लंबरजैक था।
-Tom was all worn out.	Tom war völlig erschöpft.	टॉम पूरी तरह से थक गया था।
 Tom was almost blind.	Tom war fast blind.	टॉम लगभग अंधा था।
 Tom was always happy.	Tom war immer glücklich.	टॉम हमेशा खुश था।
 Tom was always there.	Tom war immer da .	टॉम हमेशा वहाँ था।
