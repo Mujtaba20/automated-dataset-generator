@@ -24301,3 +24301,13 @@ We just ate dinner.	Wir haben gerade zu Abend gegessen.	हमने अभी �
 We knew you'd come.	Wir wussten, dass du kommst.	हमें पता था कि तुम आओगे।
 We know about that.	Wir wissen darüber Bescheid.	हम उसके बारे में जानते हैं।
 We know each other.	Wir kennen uns.	हम एक दूसरे को जानते हैं।
+We know everything.	Wir wissen alles.	हम सब कुछ जानते हैं।
+We know how Tom is.	Wie Tom ist, wissen wir.	हमें पता है कि टॉम कैसा है।
+We know our rights.	Wir kennen unsere Rechte.	हमें अपने अधिकारों का पता है।
+We know the reason.	Wir kennen den Grund.	हमें कारण पता है।
+We know what to do.	Wir wissen, was zu tun ist.	हमें पता है कि क्या करना है।
+We know what works.	Wir wissen, was funktioniert.	हमें पता है कि क्या काम करता है।
+We know who did it.	Wir wissen, wer es getan hat.	हमें पता है कि कौन कर रहा था।
+We live in a house.	Wir leben in einem Haus.	हम एक घर में रहते हैं।
+We live over there.	Wir leben dort drüben.	हम वहाँ रहते हैं।
+We look ridiculous.	Wir sehen lächerlich aus.	हम अनूठे लगते हैं।
