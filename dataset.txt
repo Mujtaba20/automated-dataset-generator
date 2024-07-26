@@ -1,16 +1,4 @@
 
-Look at that mountain.	Schaue auf diesen Berg.	इस पहाड़ को देखो।
-Look at the next page.	Schau auf die nächste Seite.	अगले पृष्ठ को देखें।
-Look at the price tag.	Sieh mal aufs Preisschild!	मूल्य टैग को देखो!
-Look how happy Tom is.	Sieh nur, wie glücklich Tom ist!	बस देखें कि टॉम कितना खुश है!
-Look what we've found.	Guck mal, was wir gefunden haben!	देखो हमें क्या मिला!
-Look what we've found.	Guckt mal, was wir gefunden haben!	देखो हमें क्या मिला!
-Look what we've found.	Gucken Sie mal, was wir gefunden haben!	हमें जो मिला, उस पर एक नज़र डालें!
-Look what you've done.	Sieh, was du getan hast!	देखिए आपने क्या किया!
-Look what you've done.	Seht, was ihr getan habt!	देखिए आपने क्या किया!
-Look what you've done.	Sehen Sie sich an, was Sie getan haben!	आपने जो किया, उस पर एक नज़र डालें!
-Look what you've done.	Sieh, was du angerichtet hast!	देखो आपने क्या कर दिया।
-Look what you've done.	Schau mal, was du angerichtet hast!	देखो आपने क्या कर दिया।
 Loud music bothers me.	Laute Musik geht mir auf den Geist.	तेज़ संगीत मुझे परेशान करता है.
 Loud music bothers me.	Laute Musik stört mich.	तेज़ संगीत मुझे परेशान करता है.
 Make yourself at home.	Fühlen Sie sich wie zu Hause.	इसे अपना घर समझें.

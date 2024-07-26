@@ -38764,3 +38764,9 @@ Listen to your father.	Horch auf deinen Erzeuger.	तेरे पिताज�
 Listen to your mother.	Hör auf deine Mutter.	अपनी माँ की सुनो।
 Logging is prohibited.	Holzfällen ist verboten.	लॉगिंग प्रतिषेधित है।
 Look at that building.	Schau dir dieses Gebäude an.	उस इमारत को देखो।
+Look at that mountain.	Schau dir diesen Berg an.	उस पहाड़ की ओर देखो।
+Look at the next page.	Schau auf die nächste Seite.	अगले पृष्ठ पर देखें।
+Look at the price tag.	Schau auf das Preisschild.	मूल्य चिह्न पर देखें।
+Look how happy Tom is.	Schau, wie glücklich Tom ist.	देखो, तोम कितना खुश है।
+Look what we've found.	Schau mal, was wir gefunden haben.	देखो क्या मिला है।
+Look what you've done.	Schau, was du getan hast.	देखो, तुमने क्या किया है।
