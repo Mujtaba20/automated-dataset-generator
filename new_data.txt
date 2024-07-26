@@ -31765,3 +31765,13 @@ I have my own theory.	Ich habe meine eigene Theorie.	मेरे पास अ�
 I have no more ideas.	Ich habe keine weiteren Ideen.	मेरे पास अब और कोई विचार नहीं है।
 I have no use for it.	Ich habe keine Verwendung dafür.	मुझे इसका कोई उपयोग नहीं है।
 I have nowhere to go.	Ich habe keinen Ort, wohin ich gehen kann.	मेरे पास कहीं जाने के लिए कोई स्थान नहीं है।
+I have perfect pitch.	Ich habe perfektes Gehör.	मेरे पास परफेक्ट पिच है।
+I have poor eyesight.	Ich habe schlechte Augen.	मेरी आँखों की दृष्टि खराब है।
+I have read the book.	Ich habe das Buch gelesen.	मैंने पुस्तक पढ़ी है।
+I have seen him once.	Ich habe ihn einmal gesehen.	मैंने उसे एक बार देखा है।
+I have seen it a lot.	Ich habe es oft gesehen.	मैंने इसे बहुत बार देखा है।
+I have so many ideas.	Ich habe so viele Ideen.	मेरे पास इतने सारे विचार हैं।
+I have some bad news.	Ich habe schlechte Nachrichten.	मेरे पास कुछ बुरी खबरें हैं।
+I have some chickens.	Ich habe einige Hühner.	मेरे पास कुछ मुर्गियां हैं।
+I have thirteen cats.	Ich habe dreizehn Katzen.	मेरे पास तेरह बिल्लियाँ हैं।
+I have three cameras.	Ich habe drei Kameras.	मेरे पास तीन कैमरे हैं।

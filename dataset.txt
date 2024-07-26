@@ -1,14 +1,4 @@
 
-I have perfect pitch.	Ich habe das absolute Gehör.	मैंने बिल्कुल सुना है।
-I have poor eyesight.	Ich sehe schlecht.	मैं बुरी तरह से देखता हूं।
-I have read the book.	Ich habe das Buch gelesen.	मैंने किताब को पढ़ लिया है।
-I have seen him once.	Ich habe ihn einmal gesehen.	मैंने उसे एक बार देखा।
-I have seen it a lot.	Ich habe so etwas oft gesehen.	मैंने अक्सर ऐसा कुछ देखा है।
-I have so many ideas.	Ich habe so viele Ideen.	मेरे पास बहुत सारे विचार हैं।
-I have some bad news.	Ich habe schlechte Nachrichten.	मेरे पास बुरी खबर है।
-I have some chickens.	Ich habe ein paar Hühner.	मेरे पास कुछ मुर्गियां हैं।
-I have thirteen cats.	Ich habe dreizehn Katzen.	मेरे पास तेरह बिल्लियाँ हैं।
-I have three cameras.	Ich habe drei Kameras.	मेरे पास तीन कैमरे हैं।
 I have three cousins.	Ich habe drei Cousins.	मेरे तीन चचेरे भाई हैं।
 I have three cousins.	Ich habe drei Cousinen.	मेरे तीन चचेरे भाई हैं।
 I have three cousins.	Ich habe drei Vettern.	मेरे तीन चचेरे भाई हैं।
