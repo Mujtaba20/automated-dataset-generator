@@ -1,14 +1,4 @@
 
-He is good at baseball.	Er spielt sehr gut Baseball.	वह बेसबॉल बहुत अच्छी तरह से खेलता है।
-He is good at baseball.	Er kann sehr gut Baseball spielen.	वह बेसबॉल बहुत अच्छी तरह से खेल सकता है।
-He is good at football.	Er spielt gut Fußball.	वह अच्छी तरह से फुटबॉल खेलता है।
-He is good for nothing.	Er ist zu nichts zu gebrauchen.	इसका उपयोग करने के लिए कुछ भी नहीं है।
-He is good for nothing.	Er ist ein Taugenichts.	यह एक अच्छा -फ़ोर -नथिंग है।
-He is good for nothing.	Er ist ein Nichtsnutz.	वह एक नॉन -प्रोटेक्शन है।
-He is having lunch now.	Er isst gerade zu Mittag.	वह दोपहर को खा रहा है।
-He is in great trouble.	Er ist in großen Schwierigkeiten.	वह बड़ी कठिनाइयों में है।
-He is in love with her.	Er ist verliebt in sie.	एह उसे प्यार करता है।
-He is playing outdoors.	Er spielt draußen.	वह बाहर खेलता है।
 He is poor, but honest.	Er ist arm, aber ehrlich.	वह गरीब है, लेकिन ईमानदार है।
 He is practically dead.	Er ist praktisch schon tot.	वह व्यावहारिक रूप से मर चुका है।
 He is practically dead.	Er ist so gut wie tot.	यह मृत जितना अच्छा है।
