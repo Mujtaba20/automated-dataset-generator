@@ -1,14 +1,4 @@
 
-Are you a student here?	Bist du hier Schüler?	क्या आप यहाँ एक छात्र हैं?
-Are you about to do it?	Wirst du es bald tun?	क्या आप इसे जल्द ही करेंगे?
-Are you afraid of dogs?	Hast du Angst vor Hunden?	क्या आप कुत्तों से डरते हैं?
-Are you afraid of dogs?	Habt ihr Angst vor Hunden?	क्या आप कुत्तों से डरते हैं?
-Are you afraid of dogs?	Haben Sie Angst vor Hunden?	क्या आप कुत्तों से डरते हैं?
-Are you afraid of mice?	Hast du Angst vor Mäusen?	क्या आप चूहों से डरते हैं?
-Are you afraid of rats?	Hast du Angst vor Ratten?	क्या आप चूहों से डरते हैं?
-Are you angry with Tom?	Bist du böse auf Tom?	क्या आप टॉम पर बुराई कर रहे हैं?
-Are you at Tom's place?	Bist du bei Tom?	क्या आप टॉम में हैं?
-Are you blowing me off?	Willst du mich verjagen?	क्या आप मेरा पीछा करना चाहते हैं
 Are you both bachelors?	Seid ihr beide Junggesellen?	क्या आप दोनों कुंवारे हैं?
 Are you both bachelors?	Sind Sie beide Junggesellen?	क्या आप दोनों कुंवारे हैं?
 Are you coming with me?	Kommst du mit mir?	क्या तुम मेरे साथ आ रहे हो?
