@@ -32203,3 +32203,11 @@ I want a new kitchen.	Ich möchte eine neue Küche.	मुझे एक नय�
 I want an MP3 player!	Ich möchte einen MP3-Player!	मुझे एक एमपी 3 प्लेयर चाहिए!
 I want my phone back.	Ich will mein Handy zurück.	मुझे अपना फोन वापस चाहिए।
 I want one like that.	Ich möchte einen wie diesen.	मुझे उस तरह का एक चाहिए।
+I want some of those.	Ich will einige von denen.	मुझे उनमें से कुछ चाहिए।
+I want some potatoes.	Ich möchte einige Kartoffeln.	मुझे कुछ आलू चाहिए।
+I want the other one.	Ich möchte das andere.	मैं दूसरा चाहता हूँ।
+I want to be a nurse.	Ich möchte Krankenschwester werden.	मैं नर्स बनना चाहता हूँ।
+I want to be careful.	Ich möchte vorsichtig sein.	मैं सावधान रहना चाहता हूँ।
+I want to experiment.	Ich will experimentieren.	मुझे प्रयोग करना है।
+I want to forget her.	Ich will sie vergessen.	मैं उसे भूलना चाहता हूँ।
+I want to go sailing.	Ich möchte segeln gehen.	मैं जहाज पर जाना चाहता हूँ।
