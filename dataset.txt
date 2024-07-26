@@ -1,14 +1,4 @@
 
-Your shoes are untied.	Deine Schnürsenkel sind offen.	आपके लेस खुले हैं।
-Your shoes are untied.	Ihre Schnürsenkel sind offen.	आपके लेस खुले हैं।
-Your time is over now.	Deine Zeit ist jetzt vorbei.	आपका समय अब ​​खत्म हो गया है।
-Your timing's perfect.	Du kommst genau zur rechten Zeit.	आप सही समय पर सही आते हैं।
-Your watch gains time.	Deine Uhr geht vor.	आपकी घड़ी चल रही है।
-Zero comes before one.	Die Null kommt vor der Eins.	शून्य एक से पहले आता है।
-"Who is it? ""It's me."""	"Wer ist da? ""Ich bin's."""	"वहाँ कौन है?""यह मैं हूं।"""
-A bear can climb trees.	Ein Bär kann auf Bäume klettern.	एक भालू पेड़ों पर चढ़ सकता है।
-A cat was on the table.	Auf dem Tisch war eine Katze.	मेज पर एक बिल्ली थी।
-A child needs a mother.	Ein Kind braucht eine Mutter.	एक बच्चे को माँ की जरूरत है।
 A fox is a wild animal.	Füchse sind Wildtiere.	लोमड़ी जंगली जानवर हैं।
 A good idea came to me.	Mir kam eine gute Idee.	मुझे एक अच्छा विचार मिला।
 A good idea came to me.	Ich hatte eine gute Idee.	मेरे पास एक अच्छा विचार था।
