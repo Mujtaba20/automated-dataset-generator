@@ -39056,3 +39056,10 @@ She acted in the play.	Sie spielte im Stück mit.	उसने नाटक म�
 She almost passed out.	Sie wäre fast ohnmächtig geworden.	उसे लगभग बेहोशी आ गई।
 She altered her plans.	Sie hat ihre Pläne geändert.	उसने अपनी योजनाएं बदल दी।
 She always looks pale.	Sie sieht immer blass aus.	वह हमेशा पीली दिखती है।
+She and I are cousins.	Sie und ich sind Cousinen.	वह और मैं भाई-बहन हैं।
+She answered in tears.	Sie antwortete unter Tränen.	उसने आंसुओं में जवाब दिया।
+She arrived too early.	Sie kam zu früh an.	वह बहुत जल्दी पहुंच गई।
+She asked for my help.	Sie bat um meine Hilfe.	उसने मेरी मदद मांगी।
+She asked me for help.	Sie bat mich um Hilfe.	उसने मुझसे मदद मांगी।
+She attempted suicide.	Sie versuchte Selbstmord.	उसने खुदखुशी की कोशिश की।
+She baked three cakes.	Sie hat drei Kuchen gebacken.	उसने तीन केक पकाए।
