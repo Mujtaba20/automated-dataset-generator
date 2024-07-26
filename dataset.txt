@@ -1,14 +1,4 @@
 
-How much did you win?	Wie viel hast du gewonnen?	आपने कितना जीता?
-How much did you win?	Wie viel haben Sie gewonnen?	आपने कितना जीता?
-How much did you win?	Wie viel habt ihr gewonnen?	आपने कितना जीता?
-How much do you want?	Wie viel möchtest du haben?	आप कितना चाहते हैं?
-How much is an apple?	Wie teuer ist ein Apfel?	सेब कितना महंगा है?
-How much is this pen?	Wie viel kostet dieser Stift?	इस कलम की लागत कितनी है?
-How much is this tie?	Wie viel kostet diese Krawatte?	इस टाई की लागत कितनी है?
-How much worse is it?	Wie viel schlimmer ist es?	यह कितना बुरा है?
-How old are the kids?	Wie alt sind die Kinder?	बच्चे कितने साल के हैं?
-How old are you, Tom?	Wie alt bist du, Tom?	आप कितने साल के हैं, टॉम?
 How old could Tom be?	Wie alt könnte Tom sein?	टॉम कितना पुराना हो सकता है?
 How old is your wife?	Wie alt ist deine Frau?	आपकी पत्नी कितनी पुरानी है?
 How old is your wife?	Wie alt ist Ihre Frau?	आपकी पत्नी कितनी पुरानी है?

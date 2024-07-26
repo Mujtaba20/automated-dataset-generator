@@ -31331,3 +31331,11 @@ How much can we take?	Wie viel können wir nehmen?	हम कितना ले
 How much can you pay?	Wie viel kannst du bezahlen?	तुम कितना दे सकते हो?
 How much did we lose?	Wie viel haben wir verloren?	हमने कितना खो दिया?
 How much did you pay?	Wie viel hast du bezahlt?	तुमने कितना भुगतान किया?
+How much did you win?	Wie viel hast du gewonnen?	तुमने कितना जीता?
+How much do you want?	Wie viel willst du?	तुम्हें कितना चाहिए?
+How much is an apple?	Wie viel kostet ein Apfel?	एक सेब कितना है?
+How much is this pen?	Wie viel kostet dieser Stift?	यह कलम कितनी है?
+How much is this tie?	Wie viel kostet diese Krawatte?	यह टाई कितनी है?
+How much worse is it?	Wie viel schlimmer ist es?	यह कितना बुरा है?
+How old are the kids?	Wie alt sind die Kinder?	बच्चे कितने साल के हैं?
+How old are you, Tom?	Wie alt bist du, Tom?	तुम कितने साल के हो, टॉम?
