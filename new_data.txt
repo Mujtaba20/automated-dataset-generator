@@ -40126,3 +40126,12 @@ Tom has had a bad day.	Tom hat einen schlechten Tag gehabt.	टॉम का ए
 Tom has joined a gang.	Tom ist einer Gang beigetreten.	टॉम ने गैंग में शामिल हो गया है।
 Tom has left for good.	Tom ist für immer gegangen.	टॉम ने शांतिपूर्वक छोड़ दिया है।
 Tom has left the city.	Tom hat die Stadt verlassen.	टॉम ने शहर छोड़ दिया है।
+Tom has lost his keys.	Tom hat seine Schlüssel verloren.	टॉम ने अपनी चाबियां खो दी हैं।
+Tom has lost his mind.	Tom hat seinen Verstand verloren.	टॉम ने अपना मन खो दिया है।
+Tom has lots of money.	Tom hat viel Geld.	टॉम के पास बहुत सारे पैसे हैं।
+Tom has many problems.	Tom hat viele Probleme.	टॉम के कई समस्याएं हैं।
+Tom has no complaints.	Tom hat keine Beschwerden.	टॉम को कोई शिकायत नहीं है।
+Tom has no principles.	Tom hat keine Prinzipien.	टॉम के कोई सिद्धांत नहीं हैं।
+Tom has nothing to do.	Tom hat nichts zu tun.	टॉम को कुछ करने के लिए कुछ नहीं है।
+Tom has paid the bill.	Tom hat die Rechnung bezahlt.	टॉमने बिल भर दिया है।
+Tom has perfect pitch.	Tom hat perfektes Gehör.	टॉम का सही स्वर स्मरण है।

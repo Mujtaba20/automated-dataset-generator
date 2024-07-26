@@ -1,14 +1,4 @@
 
-Tom has lost his keys.	Tom hat seine Schlüssel verloren.	टॉम ने अपनी चाबी खो दी।
-Tom has lost his mind.	Tom hat den Verstand verloren.	टॉम ने मन खो दिया।
-Tom has lost his mind.	Tom ist von Sinnen.	टॉम इंद्रियों का है।
-Tom has lots of money.	Tom hat viel Geld.	टॉम के पास बहुत पैसा है।
-Tom has many problems.	Tom hat viele Probleme.	टॉम को कई समस्याएं हैं।
-Tom has no complaints.	Tom hat keine Klagen.	टॉम को कोई शिकायत नहीं है।
-Tom has no principles.	Tom hat keine Prinzipien.	टॉम के पास कोई सिद्धांत नहीं है।
-Tom has nothing to do.	Tom hat nichts zu tun.	टॉम के पास कुछ नहीं करना है।
-Tom has paid the bill.	Tom hat die Rechnung bezahlt.	टॉम ने चालान का भुगतान किया।
-Tom has perfect pitch.	Tom hat das absolute Gehör.	टॉम की पूर्ण सुनवाई है।
 Tom has perfect teeth.	Tom hat makellose Zähne.	टॉम के पास निर्दोष दांत हैं।
 Tom has poor eyesight.	Tom hat schlechte Augen.	टॉम की आंखें बुरी हैं।
 Tom has poor eyesight.	Tom kann nicht gut sehen.	टॉम अच्छी तरह से नहीं देख सकता।
