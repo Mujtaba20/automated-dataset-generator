@@ -25812,3 +25812,11 @@ He will regret this.	Er wird dies bereuen.	उसे इसे पछतान�
 He won a gold medal.	Er gewann eine Goldmedaille.	उसने सोने की मेडल जीती।
 He worked very hard.	Er arbeitete sehr hart.	उसने बहुत मेहनत की।
 He works for a bank.	Er arbeitet für eine Bank.	वह एक बैंक में काम करता है।
+He works in the lab.	Er arbeitet im Labor.	वह प्रयोगशाला में काम करता है।
+He works long hours.	Er arbeitet lange Stunden.	वह लंबी घंटों तक काम करता है।
+He wouldn't give in.	Er würde nicht aufgeben.	वह हार नहीं मानेगा।
+He wrote one letter.	Er schrieb einen Brief.	उसने एक पत्र लिखा।
+He wrote the report.	Er schrieb den Bericht.	उसने रिपोर्ट लिखी।
+He yelled with pain.	Er schrie vor Schmerz.	उसने दर्द से चीखा।
+He'll be here again.	Er wird wieder hier sein.	वह फिर से यहाँ होगा।
+He'll get well soon.	Er wird sich bald erholen.	उसका जल्द स्वस्थ हो जाएगा।
