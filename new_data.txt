@@ -25454,3 +25454,13 @@ Don't speak so fast.	Sprechen Sie nicht so schnell.	इतनी तेज़ी
 Don't take too long.	Nehmen Sie nicht zu lange.	ज्यादा समय न लें।
 Don't talk nonsense!	Reden Sie keinen Unsinn!	बकवास मत करो!
 Don't talk nonsense.	Reden Sie keinen Unsinn.	बकवास मत करें।
+Don't tell Tom that.	Sag Tom das nicht.	टॉम को वह मत बताओ।
+Don't tell your dad.	Sag deinem Vater das nicht.	अपने पापा को मत बताओ।
+Don't trust anybody.	Vertraue niemandem.	किसी पर भरोसा मत करो।
+Don't trust anybody. (second meaning)	Traue keinem Menschen.	किसी को विश्वास मत करो।
+Don't trust anybody. (third meaning)	Vertraue keiner Seele.	किसी पर भरोसा मत करो।
+Don't use that word.	Verwende dieses Wort nicht.	उस शब्द का उपयोग मत करो।
+Don't waste my time.	Verschwende nicht meine Zeit.	मेरा समय बर्बाद मत करो।
+Don't you feel cold?	Fühlst du dich nicht kalt?	क्या तुम्हें ठंड नहीं लग रही है?
+Don't you feel cold? (second meaning)	Frierst du nicht?	क्या तुम्हें सर्दी नहीं लगती?
+Don't you know that?	Weißt du das nicht?	क्या तुम्हें यह नहीं पता?
