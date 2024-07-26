@@ -32675,3 +32675,13 @@ I've read both books.	Ich habe beide Bücher gelesen.	मैंने दोन�
 I've read the report.	Ich habe den Bericht gelesen.	मैंने रिपोर्ट पढ़ी है।
 I've run out of milk.	Mir ist die Milch ausgegangen.	मेरे पास दूध खत्म हो गया है।
 I've thought of that.	Ich habe daran gedacht.	मैंने उस बारे में सोचा था।
+I've won first prize!	Ich habe den ersten Preis gewonnen!	मैंने पहला पुरस्कार जीत लिया है!
+I, too, am a teacher.	Ich bin auch Lehrer.	मैं भी एक शिक्षक हूँ।
+Ice melts in the sun.	Eis schmilzt in der Sonne.	बर्फ सूरज में पिघलती है।
+Iceland is an island.	Island ist eine Insel.	आइसलैंड एक द्वीप है।
+If Tom goes, I won't.	Wenn Tom geht, werde ich nicht.	अगर टॉम जाता है, तो मैं नहीं जाॅगा।
+If only he had known!	Wenn er nur gewusst hätte!	अगर उसे बस पता होता!
+Irritating, isn't it?	Ärgerlich, nicht wahr?	यह चिढ़ है, ना?
+Is Boston a big city?	Ist Boston eine große Stadt?	क्या बॉस्टन एक बड़ा शहर है?
+Is Mary Tom's mother?	Ist Mary Toms Mutter?	क्या मेरी टॉम की माँ है?
+Is Tom a good person?	Ist Tom ein guter Mensch?	क्या टॉम एक अच्छा आदमी है?
