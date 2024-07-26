@@ -26479,3 +26479,10 @@ I like to come here.	Ich komme gerne hierher.	मुझे यहाँ आन�
 I like to play golf.	Ich spiele gerne Golf.	मुझे गोल्फ खेलना पसंद है।
 I like where I live.	Ich mag, wo ich lebe.	मुझे वहाँ रहना पसंद है।
 I like wild flowers.	Ich mag wilde Blumen.	मुझे जंगली फूल पसंद हैं।
+I like working here.	Ich arbeite gerne hier.	मुझे यहाँ काम करना पसंद है।
+I like your article.	Mir gefällt dein Artikel.	मुझे आपका लेख पसंद है।
+I like your glasses.	Mir gefallen deine Brille.	मुझे तुम्हारी चश्में पसंद हैं।
+I like your website.	Mir gefällt deine Webseite.	मुझे तुम्हारी वेबसाइट पसंद है।
+I liked Tom's video.	Ich mochte Toms Video.	मैंने टॉम के वीडियो को पसंद किया।
+I liked your speech.	Ich mochte deine Ansprache.	मुझे तुम्हारे भाषण की अच्छी लगी।
+I live in Australia.	Ich lebe in Australien.	मैं ऑस्ट्रेलिया में रहता हूँ।
