@@ -30556,3 +30556,12 @@ Did Tom forgive Mary?	Hat Tom Maria vergeben?	क्या टॉमने म�
 Did Tom get a chance?	Hat Tom eine Chance bekommen?	क्या टॉम को मौका मिला?
 Did Tom go to Boston?	Ist Tom nach Boston gegangen?	क्या टॉम बॉस्टन गया था?
 Did Tom hurt himself?	Hat Tom sich verletzt?	क्या टॉमने खुद को चोट पहुंचाई?
+Did Tom kill himself?	Hat Tom sich selbst umgebracht?	क्या टॉमने खुद को मार दिया?
+Did Tom make you cry?	Hat Tom dich zum Weinen gebracht?	क्या टॉमने तुम्हें रोने पर मजबूर किया?
+Did Tom make you cry? (different meaning)	Hat Tom dich weinen lassen?	क्या टॉमने तुम्हें रोने दिया?
+Did Tom really dance?	Hat Tom wirklich getanzt?	क्या टॉमने सचमुच नाचा?
+Did Tom really smile?	Hat Tom wirklich gelächelt?	क्या टॉमने सचमुच मुस्कान की थी?
+Did Tom say anything?	Hat Tom etwas gesagt?	क्या टॉमने कुछ कहा?
+Did Tom see anything?	Hat Tom etwas gesehen?	क्या टॉमने कुछ देखा?
+Did Tom speak French?	Hat Tom Französisch gesprochen?	क्या टॉमने फ्रेंच बोला?
+Did Tom talk to Mary?	Hat Tom mit Maria gesprochen?	क्या टॉमने मेरी से बात की?

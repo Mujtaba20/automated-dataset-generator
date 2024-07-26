@@ -1,14 +1,4 @@
 
-Did Tom kill himself?	Hat Tom sich umgebracht?	क्या टॉम ने खुद को मार दिया?
-Did Tom make you cry?	Hat Tom dich zum Weinen gebracht?	क्या टॉम ने आपको रोया?
-Did Tom make you cry?	Hat Tom euch zum Weinen gebracht?	क्या टॉम ने आपको रोया?
-Did Tom make you cry?	Hat Tom Sie zum Weinen gebracht?	क्या टॉम ने उसे रोया?
-Did Tom really dance?	Hat Tom wirklich getanzt?	क्या टॉम ने वास्तव में नृत्य किया?
-Did Tom really smile?	Hat Tom wirklich gelächelt?	क्या टॉम वास्तव में मुस्कुराता था?
-Did Tom say anything?	Hat Tom irgendwas gesagt?	क्या टॉम ने कुछ कहा?
-Did Tom see anything?	Hat Tom etwas gesehen?	क्या टॉम ने कुछ देखा है?
-Did Tom speak French?	Hat Tom Französisch gesprochen?	क्या टॉम ने फ्रेंच बोला?
-Did Tom talk to Mary?	Hat Tom mit Mary gesprochen?	क्या टॉम ने मैरी से बात की?
 Did Tom tell someone?	Hat Tom es jemandem gesagt?	क्या टॉम ने किसी को बताया?
 Did Tom tell you why?	Hast du Tom den Grund genannt?	क्या आपने टॉम को कारण दिया?
 Did Tom tell you why?	Habt ihr Tom den Grund genannt?	क्या आपने कारण का उल्लेख किया है?
