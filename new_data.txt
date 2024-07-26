@@ -39071,3 +39071,10 @@ She can play the drum.	Sie kann das Schlagzeug spielen.	वह ढोल बज�
 She can sew very well.	Sie kann sehr gut nähen.	उसकी कदाई बहुत अच्छी है।
 She can't drive a car.	Sie kann kein Auto fahren.	वह गाड़ी नहीं चला सकती।
 She committed a crime.	Sie hat ein Verbrechen begangen.	उसने एक गुनाह किया।
+She decided not to go.	Sie entschied sich nicht zu gehen.	उसने जाने का निर्णय नहीं लिया।
+She decided to resign.	Sie hat beschlossen, zurückzutreten.	उसने सोचा किन किसी कारण से इस्तीफा देने का निर्णय लिया।
+She did it on purpose.	Sie hat es absichtlich gemacht.	उसने यह जानबूझकर किया।
+She didn't say a word.	Sie sagte kein Wort.	उसने एक शब्द भी नहीं कहा।
+She felt like dancing.	Sie hatte Lust zu tanzen.	उसे नृत्य करने का मन था।
+She followed him home.	Sie ist ihm nach Hause gefolgt.	उसने इसलिए उसके पीछे घर चला गया।
+She gave me a present.	Sie schenkte mir ein Geschenk.	उसने मुझे एक उपहार दिया।
