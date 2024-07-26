@@ -1,14 +1,4 @@
 
-Do you like this city?	Magst du diese Stadt?	क्या आपको यह शहर पसंद है?
-Do you like to travel?	Reist du gern?	क्या आपको यात्रा का आनंद मिलता है?
-Do you like to travel?	Reist ihr gern?	क्या आप यात्रा करना पसंद करते हैं?
-Do you like to travel?	Reisen Sie gern?	क्या आप यात्रा करना पसंद करते हैं?
-Do you like to travel?	Verreisen Sie gerne?	क्या आप यात्रा करना पसंद करते हैं?
-Do you live in Boston?	Lebst du in Boston?	क्या आप बोस्टन में रहते हैं?
-Do you live near here?	Wohnen Sie hier in der Gegend?	क्या आप यहां क्षेत्र में रहते हैं?
-Do you live near here?	Wohnen Sie hier in der Nähe?	क्या आप आस पास रहते हो?
-Do you live near here?	Wohnst du hier in der Gegend?	क्या आप यहां क्षेत्र में रहते हैं?
-Do you love me or not?	Liebst du mich oder nicht?	तुम मुझे प्यार करते हो या नहीं?
 Do you miss me at all?	Vermisst du mich überhaupt?	क्या आप मुझे याद करते हैं?
 Do you miss me at all?	Fehle ich dir überhaupt?	क्या आप आपको याद करते हैं?
 Do you miss your wife?	Vermisst du deine Frau?	क्या आप अपनी पत्नी को याद करते हैं?

@@ -36392,3 +36392,8 @@ Do you like sweet tea?	Magst du süßen Tee?	क्या आप मीठी �
 Do you like that song?	Magst du das Lied?	क्या आप उस गाना पसंद करते हैं?
 Do you like the piano?	Magst du das Klavier?	क्या आप पियानो पसंद करते हैं?
 Do you like this book?	Magst du dieses Buch?	क्या आप यह किताब पसंद करते हैं?
+Do you like this city?	Magst du diese Stadt?	क्या आपको यह शहर पसंद है?
+Do you like to travel?	Mögen Sie es zu reisen?	क्या आपको यात्रा करना पसंद है?
+Do you live in Boston?	Wohnst du in Boston?	क्या आप बॉस्टन में रहते हैं?
+Do you live near here?	Lebst du in der Nähe von hier?	क्या आप यहां के पास रहते हैं?
+Do you love me or not?	Liebst du mich oder nicht?	क्या तुम मुझसे प्यार करते हो या नहीं?
