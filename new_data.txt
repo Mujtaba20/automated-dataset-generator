@@ -33891,3 +33891,12 @@ This camera is cheap.	Diese Kamera ist billig.	यह कैमरा सस्�
 This car is like new.	Dieses Auto ist wie neu.	यह गाड़ी नयी जैसी है।
 This car won't start.	Dieses Auto startet nicht.	यह गाड़ी नहीं चलेगी।
 This cat is not ours.	Diese Katze gehört nicht uns.	यह बिल्ली हमारी नहीं है।
+This cat is very fat.	Diese Katze ist sehr fett.	यह बिल्ली बहुत मोटी है।
+This clock is broken.	Diese Uhr ist kaputt.	यह घड़ी टूटी हुई है।
+This dog barks a lot.	Dieser Hund bellt viel.	यह कुत्ता बहुत भौकता है।
+This dog isn't Tom's.	Dieser Hund gehört nicht Tom.	यह कुत्ता टॉम का नहीं है।
+This door won't open.	Diese Tür wird sich nicht öffnen.	यह दरवाज़ा नहीं खुलेगा।
+This door won't shut.	Diese Tür wird sich nicht schließen.	यह दरवाज़ा नहीं बंद होगा।
+This feels like silk.	Das fühlt sich an wie Seide.	यह रेशम जैसा लगता है।
+This fish smells bad.	Dieser Fisch riecht schlecht.	यह मछली बुरी भागती है।
+This gift is for you.	Dieses Geschenk gehört euch.	यह उपहार तुम्हारी है।

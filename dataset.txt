@@ -1,14 +1,4 @@
 
-This cat is very fat.	Diese Katze ist sehr fett.	यह बिल्ली बहुत मोटी है।
-This clock is broken.	Diese Uhr ist kaputt.	यह घड़ी टूट गई है।
-This dog barks a lot.	Dieser Hund ist ein Kläffer.	यह कुत्ता एक पीतल है।
-This dog isn't Tom's.	Das ist nicht Toms Hund.	यह टॉम का कुत्ता नहीं है।
-This door won't open.	Diese Tür geht nicht auf.	यह दरवाजा नहीं खुलता है।
-This door won't shut.	Diese Tür schließt nicht.	यह दरवाजा बंद नहीं होता है।
-This feels like silk.	Das fühlt sich wie Seide an.	यह रेशम की तरह लगता है।
-This fish smells bad.	Dieser Fisch riecht schlecht.	इस मछली से बदबू आ रही है।
-This gift is for you.	Das ist ein Geschenk für dich.	यह आपके लिए उपहार है।
-This gift is for you.	Es ist ein Geschenk für dich.	यह आपके लिए एक उपहार है।
 This happened before.	Das ist schon mal passiert.	पहले भी हुआ है।
 This has got to stop.	Das muss aufhören.	इसे रोकना है।
 This has got to stop.	Das hier muss aufhören.	इसे रोकना है।
