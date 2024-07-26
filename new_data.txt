@@ -24411,3 +24411,12 @@ We're ignoring Tom.	Wir ignorieren Tom.	हम टॉम को नजरअं�
 We're just friends.	Wir sind nur Freunde.	हम सिर्फ मित्र हैं।
 We're just friends?	Sind wir nur Freunde?	क्या हम सिर्फ दोस्त हैं?
 We're making money.	Wir verdienen Geld.	हम पैसे कमा रहे हैं।
+We're not dead yet.	Wir sind noch nicht tot.	हम अभी मरे नहीं हैं।
+We're not doing it.	Wir machen das nicht.	हम यह नहीं कर रहे हैं।
+We're not done yet.	Wir sind noch nicht fertig.	हम अभी तक पूरा नहीं हुए।
+We're not fighting.	Wir kämpfen nicht.	हम लड़ाई नहीं कर रहे हैं।
+We're not finished.	Wir sind noch nicht fertig.	हमारी काम हो गई है।
+We're not open yet.	Wir sind noch nicht offen.	हम अभी तक खुले नहीं हैं।
+We're not partners.	Wir sind keine Partner.	हम साझेदार नहीं हैं।
+We're not soldiers.	Wir sind keine Soldaten.	हम सैनिक नहीं हैं।
+We're not speaking.	Wir sprechen nicht.	हम बोल रहे हैं।

@@ -1,14 +1,4 @@
 
-We're not dead yet.	Noch sind wir nicht tot.	हम अभी तक मृत नहीं हैं।
-We're not doing it.	Wir machen es nicht.	हम ऐसा नहीं करते।
-We're not done yet.	Wir sind noch nicht fertig.	हम अभी तक समाप्त नहीं हुए हैं।
-We're not fighting.	Wir kämpfen nicht.	हम नहीं लड़ते।
-We're not finished.	Wir sind noch nicht fertig.	हम अभी तक समाप्त नहीं हुए हैं।
-We're not open yet.	Wir haben noch nicht geöffnet.	हमने अभी तक नहीं खोला है।
-We're not open yet.	Wir haben noch nicht auf.	हमारे पास अभी तक नहीं है।
-We're not partners.	Wir sind kein Paar.	हम एक जोड़े नहीं हैं।
-We're not soldiers.	Wir sind keine Soldaten.	हम सैनिक नहीं हैं।
-We're not speaking.	Wir reden nicht mehr miteinander.	हम अब एक -दूसरे से बात नहीं करते हैं।
 We're not stopping.	Wir hören nicht auf.	हम नहीं रुकते।
 We're not students.	Wir sind keine Studenten.	हम छात्र नहीं हैं।
 We're not watching.	Wir sehen nicht zu.	हम नहीं देखते।
