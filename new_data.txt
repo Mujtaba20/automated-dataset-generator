@@ -29553,3 +29553,13 @@ We didn't play well.	Wir haben nicht gut gespielt.	हमने अच्छे 
 We didn't talk long.	Wir haben nicht lange gesprochen.	हमने लंबे समय तक नहीं बात की।
 We dislike violence.	Wir mögen keine Gewalt.	हम हिंसा से नफरत करते हैं।
 We don't have a car.	Wir haben kein Auto.	हमारे पास कोई कार नहीं है।
+We don't have a lab.	Wir haben kein Labor.	हमारे पास कोई प्रयोगशाला नहीं है।
+We don't have sugar.	Wir haben keinen Zucker.	हमारे पास चीनी नहीं है।
+We don't have to go.	Wir müssen nicht gehen.	हमें जाने की जरूरत नहीं है।
+We don't hire women.	Wir stellen keine Frauen ein.	हम महिलाएं नहीं रखते।
+We don't need money.	Wir brauchen kein Geld.	हमें पैसे की जरूरत नहीं है।
+We don't talk a lot.	Wir reden nicht viel.	हम बहुत ज्यादा नहीं बोलते।
+We enjoyed swimming.	Wir haben das Schwimmen genossen.	हमने तैराकी का आनंद लिया।
+We grew up together.	Wir sind zusammen aufgewachsen.	हम साथ बड़े हुए।
+We had a rough time.	Wir hatten eine schwierige Zeit.	हमारे साथ कठिन समय था।
+We had an agreement.	Wir hatten eine Vereinbarung.	हमें एक समझौता था।
