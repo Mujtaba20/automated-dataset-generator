@@ -39644,3 +39644,13 @@ They missed the train.	Sie haben den Zug verpasst.	उन्होंने ट�
 They never apologized.	Sie haben sich nie entschuldigt.	उन्होंने कभी माफी नहीं मांगी।
 They never caught Tom.	Sie haben Tom nie erwischt.	उन्होंने कभी टॉम को पकड़ा नहीं।
 They never tell a lie.	Sie sagen niemals eine Lüge.	वे कभी झूठ नहीं बोलते।
+They offered it to me.	Sie haben es mir angeboten.	उन्होंने इसे मुझे पेशकश की।
+They refused to fight.	Sie weigerten sich zu kämpfen.	उन्होंने लड़ने से इंकार किया।
+They remained friends.	Sie blieben Freunde.	वे दोस्त रहे।
+They sat side by side.	Sie saßen nebeneinander.	वे एक-दूसरे के पास बैठे थे।
+They sat side by side. (Different meaning)	Sie saßen seitlich aneinander.	वे एक-दूसरे के पास बैठे थे। (विभिन्न अर्थ)
+They saw us yesterday.	Sie sahen uns gestern.	उन्होंने हमें कल देखा।
+They say I'm retarded.	Sie sagen, ich bin zurückgeblieben.	वे कहते हैं कि मैं समझौता हूँ।
+They scorned the liar.	Sie verachteten den Lügner.	उन्होंने झूठे को ठुकराया।
+They settled in Japan.	Sie ließen sich in Japan nieder.	उन्होंने जापान में बस गए।
+They shared the money.	Sie teilten das Geld.	उन्होंने पैसे बाँटे।
