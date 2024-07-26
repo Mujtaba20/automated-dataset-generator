@@ -1,14 +1,4 @@
 
-I think I'm handsome.	Ich glaube, dass ich gut aussehend bin.	मुझे लगता है कि मैं सुंदर हूं।
-I think I'm handsome.	Ich glaube, dass ich gut aussehe.	मुझे लगता है कि मैं अच्छा दिखता हूं।
-I think I'm likeable.	Ich denke schon, dass man mich gern haben kann.	मुझे लगता है कि आप मेरे पास हो सकते हैं।
-I think Tom can help.	Ich glaube, Tom kann helfen.	मुझे लगता है कि टॉम मदद कर सकता है।
-I think Tom did that.	Ich glaube, Tom hat das getan.	मुझे लगता है कि टॉम ने ऐसा किया।
-I think Tom did this.	Ich glaube, Tom hat das gemacht.	मुझे लगता है कि टॉम ने ऐसा किया।
-I think Tom did well.	Ich finde, Tom hat das gut gemacht.	मुझे लगता है कि टॉम ने इसे अच्छा किया।
-I think Tom hates me.	Ich glaube, Tom hasst mich.	मुझे लगता है कि टॉम मुझसे नफरत करता है।
-I think Tom is alive.	Ich glaube, Tom lebt noch.	मुझे लगता है कि टॉम अभी भी जीवित है।
-I think Tom is awake.	Ich glaube, Tom ist wach.	मुझे लगता है कि टॉम जाग रहा है।
 I think Tom is bored.	Ich glaube, Tom langweilt sich.	मुझे लगता है कि टॉम ऊब गया है।
 I think Tom is brave.	Ich finde, Tom hat Mut.	मुझे लगता है कि टॉम में साहस है।
 I think Tom is drunk.	Ich glaube, Tom ist betrunken.	मुझे लगता है कि टॉम नशे में है।

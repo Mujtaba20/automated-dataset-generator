@@ -32119,3 +32119,12 @@ I think I'll do that.	Ich denke, ich werde das tun.	मुझे लगता �
 I think I'll go home.	Ich denke, ich gehe nach Hause.	मुझे लगता है कि मैं घर जाऊंगा।
 I think I'll make it.	Ich denke, ich werde es schaffen.	मुझे लगता है कि मैं इसे कर पाऊंगा।
 I think I'll take it.	Ich denke, ich werde es nehmen.	मुझे लगता है कि मैं इसे लूंगा।
+I think I'm handsome.	Ich denke, ich bin hübsch.	मुझे लगता है कि मैं सुंदर हूं।
+I think I'm likeable.	Ich denke, ich bin sympathisch.	मुझे लगता है कि मैं पसंद की जाती हूँ।
+I think Tom can help.	Ich denke, Tom kann helfen.	मुझे लगता है कि टॉम मदद कर सकता है।
+I think Tom did that.	Ich denke, Tom hat das getan.	मुझे लगता है कि टॉमने वह किया।
+I think Tom did this.	Ich denke, Tom hat dies gemacht.	मुझे लगता है कि टॉमने यह किया।
+I think Tom did well.	Ich denke, Tom hat gut gemacht.	मुझे लगता है कि टॉमने अच्छा किया।
+I think Tom hates me.	Ich denke, Tom hasst mich.	मुझे लगता है कि टॉम मुझे नफरत करता है।
+I think Tom is alive.	Ich denke, Tom ist lebendig.	मुझे लगता है कि टॉम जिंदा है।
+I think Tom is awake.	Ich denke, Tom ist wach.	मुझे लगता है कि टॉम जागा है।
