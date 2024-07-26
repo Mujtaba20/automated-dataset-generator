@@ -1,18 +1,4 @@
 
-Did I touch a nerve?	Habe ich eine empfindliche Stelle getroffen?	क्या मैंने एक संवेदनशील क्षेत्र मारा?
-Did I touch a nerve?	Habe ich einen empfindlichen Nerv getroffen?	क्या मैंने एक संवेदनशील तंत्रिका मारा?
-Did I touch a nerve?	Habe ich da eine empfindliche Stelle getroffen?	क्या मैंने एक संवेदनशील क्षेत्र मारा?
-Did I touch a nerve?	Habe ich da einen Nerv getroffen?	क्या मैंने वहां एक तंत्रिका मारा?
-Did Tom ask you out?	Wollte Tom mit dir ausgehen?	क्या टॉम आपके साथ बाहर जाना चाहता था?
-Did Tom believe you?	Hat Tom dir geglaubt?	क्या टॉम ने आप पर विश्वास किया?
-Did Tom believe you?	Hat Tom euch geglaubt?	क्या टॉम ने आप पर विश्वास किया है?
-Did Tom believe you?	Hat Tom Ihnen geglaubt?	क्या टॉम ने आप पर विश्वास किया?
-Did Tom contact you?	Hat Tom sich mit dir in Verbindung gesetzt?	क्या टॉम ने आपसे संपर्क किया?
-Did Tom contact you?	Hat Tom sich mit euch in Verbindung gesetzt?	क्या टॉम ने आपसे संपर्क किया?
-Did Tom contact you?	Hat Tom sich mit Ihnen in Verbindung gesetzt?	क्या टॉम ने आपसे संपर्क किया?
-Did Tom contact you?	Hat Tom dich kontaktiert?	क्या टॉम ने आपसे संपर्क किया?
-Did Tom contact you?	Hat Tom euch kontaktiert?	क्या टॉम ने आपसे संपर्क किया?
-Did Tom contact you?	Hat Tom Sie kontaktiert?	क्या टॉम ने आपसे संपर्क किया?
 Did Tom do anything?	Hat Tom irgendwas getan?	क्या टॉम ने कुछ किया?
 Did Tom forgive you?	Hat dir Tom verziehen?	क्या टॉम ने आपको माफ कर दिया?
 Did Tom forgive you?	Hat euch Tom verziehen?	क्या टॉम ने आपको माफ कर दिया?

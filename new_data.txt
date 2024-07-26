@@ -25258,3 +25258,7 @@ Did I lock the door?	Habe ich die Tür abgeschlossen?	क्या मैंन�
 Did I mess up again?	Habe ich wieder etwas durcheinander gebracht?	क्या मैंने फिर से गड़बड़ कर दी?
 Did I miss anything?	Habe ich etwas verpasst?	क्या मैंने कुछ छूट दिया?
 Did I pass the test?	Habe ich das Examen bestanden?	क्या मैंने टेस्ट पास किया है?
+Did I touch a nerve?	Habe ich einen Nerv berührt?	क्या मैंने किसी तार को हिला दिया?
+Did Tom ask you out?	Hat Tom dich ausgefragt?	क्या टॉम ने तुमसे पूछा?
+Did Tom believe you?	Hat Tom dir geglaubt?	क्या टॉम ने तुम्हें माना?
+Did Tom contact you?	Hat Tom Kontakt mit dir aufgenommen?	क्या टॉम ने तुमसे संपर्क किया?
