@@ -23492,3 +23492,12 @@ Tom has a daughter.	Tom hat eine Tochter.	टॉम की एक बेटी �
 Tom has a good job.	Tom hat einen guten Job.	टॉम का अच्छा काम है।
 Tom has a grandson.	Tom hat einen Enkel.	टॉम का एक पोता है।
 Tom has a hangover.	Tom hat einen Kater.	टॉम को हैंगओवर है।
+Tom has a headache.	Tom hat Kopfschmerzen.	टॉम को सिरदर्द है।
+Tom has a mustache.	Tom hat einen Schnurrbart.	टॉम के पास मूंछ है।
+Tom has a nice car.	Tom hat ein schönes Auto.	टॉम के पास एक अच्छी कार है।
+Tom has a ponytail.	Tom hat einen Pferdeschwanz.	टॉम के पास जुड़ी है।
+Tom has a potbelly.	Tom hat einen Bauchansatz.	टॉम के पेट में चर्बी है।
+Tom has a question.	Tom hat eine Frage.	टॉम का सवाल है।
+Tom has a six-pack.	Tom hat ein Sixpack.	टॉम के पेट पर छह पैक है।
+Tom has a squirrel.	Tom hat ein Eichhörnchen.	टॉम के पास एक गिलहरी है।
+Tom has a tricycle.	Tom hat ein Dreirad.	टॉम के पास एक तीन पहिये वाली साइकिल है।

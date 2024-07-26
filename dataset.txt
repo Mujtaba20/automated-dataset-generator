@@ -1,14 +1,4 @@
 
-Tom has a headache.	Tom hat Kopfweh.	टॉम को सिरदर्द है।
-Tom has a headache.	Tom hat Kopfschmerzen.	टॉम को सिरदर्द है।
-Tom has a mustache.	Tom hat einen Schnurrbart.	टॉम में मूंछें हैं।
-Tom has a nice car.	Tom hat ein schönes Auto.	टॉम के पास एक अच्छी कार है।
-Tom has a ponytail.	Tom hat einen Pferdeschwanz.	टॉम के पास एक पोनीटेल है।
-Tom has a potbelly.	Tom hat eine Wampe.	टॉम के पास एक WAMP है।
-Tom has a question.	Tom hat eine Frage.	टॉम का एक सवाल है।
-Tom has a six-pack.	Tom hat einen Waschbrettbauch.	टॉम के पास एक वॉशबोर्ड पेट है।
-Tom has a squirrel.	Tom hat ein Eichhörnchen.	टॉम के पास एक गिलहरी है।
-Tom has a tricycle.	Tom hat ein Dreirad.	टॉम में एक तिपहिया है।
 Tom has an earache.	Tom hat Ohrenschmerzen.	टॉम को कान का दर्द है।
 Tom has been fired.	Tom wurde gefeuert.	टॉम को निकाल दिया गया।
 Tom has been found.	Tom ist gefunden worden.	टॉम मिला है।
