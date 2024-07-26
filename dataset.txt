@@ -1,14 +1,4 @@
 
-Is today your birthday?	Ist heute dein Geburtstag?	क्या आज आपका जन्मदिन है?
-Is today your birthday?	Ist heute Ihr Geburtstag?	क्या आज आपका जन्मदिन है?
-Is your mother at home?	Ist deine Mutter zu Hause?	क्या आपकी मां घर पर है?
-Is your mother at home?	Ist deine Mutter daheim?	क्या आपकी मां घर पर है?
-Is your mother at home?	Ist Ihre Mutter zu Hause?	क्या आपकी मां घर पर है?
-Is your mother at home?	Ist eure Mutter zu Hause?	क्या आपकी मां घर पर है?
-Isn't Tom your brother?	Ist Tom nicht dein Bruder?	क्या टॉम आपका भाई नहीं है?
-Isn't that good enough?	Ist das nicht gut genug?	क्या यह अच्छा नहीं है?
-Isn't that just a myth?	Ist das nicht nur eine Legende?	क्या यह सिर्फ एक किंवदंती नहीं है?
-Isn't that what I said?	Ist das nicht, was ich gesagt habe?	ऐसा नहीं है कि मैंने क्या कहा?
 It all makes sense now.	Es ergibt jetzt alles Sinn.	अब सब कुछ समझ में आता है।
 It all seems pointless.	Es scheint alles sinnlos zu sein.	यह सब संवेदनहीन लगता है।
 It appears I was wrong.	Es sieht so aus, als ob ich im Unrecht war.	ऐसा लग रहा है कि मैं गलत था।
