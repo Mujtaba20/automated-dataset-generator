@@ -1,14 +1,4 @@
 
-Tom broke his left arm.	Tom hat sich den linken Arm gebrochen.	टॉम ने अपनी बाईं बांह को तोड़ दिया।
-Tom broke his left arm.	Tom brach sich den linken Arm.	टॉम ने अपनी बाईं बांह को तोड़ दिया।
-Tom broke three dishes.	Tom zerbrach drei Teller.	टॉम ने तीन प्लेटें तोड़ दीं।
-Tom broke up with Mary.	Tom hat mit Maria Schluss gemacht.	टॉम मारिया के साथ टूट गया।
-Tom burst out laughing.	Tom lachte laut los.	टॉम जोर से हँसे।
-Tom burst out laughing.	Tom brach in Gelächter aus.	टॉम हँसी में टूट गया।
-Tom burst out laughing.	Tom brach in Lachen aus.	टॉम हँसी में टूट गया।
-Tom buttoned his shirt.	Tom knöpfte sein Hemd zu.	टॉम ने उसकी शर्ट को बटन किया।
-Tom called Mary a liar.	Tom nannte Mary eine Lügnerin.	टॉम ने मैरी को झूठा कहा।
-Tom called Mary a liar.	Tom bezeichnete Mary als Lügnerin.	टॉम ने मैरी को झूठा बताया।
 Tom called Mary a taxi.	Tom rief Maria ein Taxi.	टॉम ने मारिया को टैक्सी कहा।
 Tom called Mary a taxi.	Tom nannte Maria ein Taxi.	टॉम ने मारिया को टैक्सी कहा।
 Tom called me a coward.	Tom hat mich einen Feigling genannt.	टॉम ने मुझे कायर कहा।
