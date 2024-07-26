@@ -36312,3 +36312,11 @@ Did you say thank you?	Hast du danke gesagt?	क्या आपने धन्
 Did you read my email? (Different meaning)	Hast du meinen Brief gelesen?	क्या आपने मेरे पत्र का विशेष रूप से ध्यान देकर पढ़ा?
 Did you recognize Tom? (Different meaning)	Hast du Tom erkannt?	क्या आपने टॉम को शानदार मुकाम पर पहचाना?
 Did you say something? (Different meaning)	Hast du irgendetwas gesagt?	क्या आपने कुछ बहुत महत्वपूर्ण कहा?
+Did you say yes or no?	Hast du ja oder nein gesagt?	क्या तुमने हाँ या नहीं कहा?
+Did you see Tom leave?	Hast du gesehen, wie Tom gegangen ist?	क्या तुमने टॉम को जाते हुए देखा?
+Did you see Tom leave? (different meaning)	Sahst du Tom gehen?	क्या तुमने टॉम को चले जाते देखा?
+Did you see Tom today?	Hast du heute Tom gesehen?	क्या तुमने टॉम को आज देखा?
+Did you see Tom today? (different meaning)	Hast du Tom heute gesehen?	क्या तुमने टॉम को दिन देखा?
+Did you see her there?	Hast du sie dort gesehen?	क्या तुमने उसे वहाँ देखा?
+Did you see my camera?	Hast du meine Kamera gesehen?	क्या तुमने मेरी कैमरा देखी है?
+Did you see my father?	Hast du meinen Vater gesehen?	क्या तुमने मेरे पिताजी को देखा?

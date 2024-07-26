@@ -1,14 +1,4 @@
 
-Did you say yes or no?	Hast du „ja“ gesagt oder „nein“ ?	"क्या आपने ""हाँ"" या ""नहीं"" कहा था?"
-Did you see Tom leave?	Hast du Tom gehen sehen?	क्या आपने टॉम को देखा?
-Did you see Tom leave?	Habt ihr Tom gehen sehen?	क्या आपने टॉम को देखा?
-Did you see Tom leave?	Haben Sie Tom gehen sehen?	क्या आपने टॉम को देखा?
-Did you see Tom today?	Hast du Tom heute gesehen?	क्या आपने आज टॉम को देखा?
-Did you see Tom today?	Habt ihr Tom heute gesehen?	क्या आपने आज टॉम को देखा?
-Did you see Tom today?	Haben Sie Tom heute gesehen?	क्या आपने आज टॉम को देखा?
-Did you see her there?	Hast du sie dort gesehen?	क्या आपने उन्हें वहां देखा?
-Did you see my camera?	Hast du meinen Fotoapparat gesehen?	क्या आपने मेरा कैमरा देखा?
-Did you see my father?	Hast du meinen Vater gesehen?	क्या तुमने मेरे पिता को देखा?
 Did you see the knife?	Haben Sie das Messer gesehen?	क्या आपने चाकू देखा?
 Did you sign anything?	Hast du irgendetwas unterschrieben?	क्या आपने कुछ हस्ताक्षर किए?
 Did you sign anything?	Haben Sie irgendetwas unterschrieben?	क्या आपने कुछ हस्ताक्षर किए?
