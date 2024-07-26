@@ -1,15 +1,4 @@
 
-What's in that bottle?	Was ist in der Flasche da?	बोतल में क्या है?
-What's in that closet?	Was ist in dem Schrank da?	कोठरी में क्या है?
-What's in this closet?	Was ist in dem Schrank?	कोठरी में क्या है?
-What's in this drawer?	Was ist in dieser Schublade?	इस दराज में क्या है?
-What's in those boxes?	Was ist in den Kisten da?	बक्से में क्या है?
-What's in those boxes?	Was ist in den Kartons da?	बक्से में क्या है?
-What's in your pocket?	Was hast du in deiner Tasche?	आपकी जेब में क्या है?
-What's it going to be?	Was wird es sein?	यह क्या हो जाएगा?
-What's more important?	Was ist wichtiger?	अधिक महत्वपूर्ण क्या है?
-What's my room number?	Welche ist meine Zimmernummer?	मेरा कमरा नंबर कौन सा है?
-What's my room number?	Was ist meine Zimmernummer?	मेरा कमरा नंबर क्या है?
 What's that scar from?	Woher stammt diese Narbe?	यह निशान कहाँ से आता है?
 What's the date today?	Der Wievielte ist heute?	आज कौन सी तारीख़ है?
 What's the difference?	Was ist der Unterschied?	क्या अंतर है?

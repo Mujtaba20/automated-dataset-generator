@@ -41339,3 +41339,12 @@ What's Tom hiding for?	Wofür versteckt sich Tom?	टॉम क्यों छ�
 What's Tom looking at?	Worauf schaut Tom?	टॉम क्या देख रहा है?
 What's happening here?	Was passiert hier?	यहाँ क्या हो रहा है?
 What's his name again?	Wie heißt er nochmal?	उसका नाम फिर से क्या है?
+What's in that bottle?	Was ist in dieser Flasche?	उस बोतल में क्या है?
+What's in that closet?	Was ist in diesem Schrank?	उस अलमारी में क्या है?
+What's in this closet?	Was ist in diesem Schrank?	इस अलमारी में क्या होगा?
+What's in this drawer?	Was ist in dieser Schublade?	इस ड्रॉयर में क्या है?
+What's in those boxes?	Was ist in diesen Kisten?	उन बक्सों में क्या है?
+What's in your pocket?	Was ist in deiner Tasche?	तुम्हारी जेब में क्या है?
+What's it going to be?	Was wird es sein?	यह क्या होने वाला है?
+What's more important?	Was ist wichtiger?	क्या और भी महत्वपूर्ण है?
+What's my room number?	Was ist meine Zimmernummer?	मेरी कमरे की संख्या क्या है?
