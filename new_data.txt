@@ -28459,3 +28459,12 @@ This is my computer.	Das ist mein Computer.	यह मेरा कंप्य�
 This is my daughter.	Das ist meine Tochter.	यह मेरी बेटी है।
 This is my decision.	Das ist meine Entscheidung.	यह मेरा निर्णय है।
 This is my father's.	Das gehört meinem Vater.	यह मेरे पिताजी का है।
+This is my home now.	Das ist jetzt mein Zuhause.	यह अब मेरा घर है।
+This is my own bike.	Das ist mein eigenes Fahrrad.	यह मेरी खुद की बाइक है।
+This is my question.	Das ist meine Frage.	यह मेरा सवाल है।
+This is my umbrella.	Das ist mein Regenschirm.	यह मेरी छाता है।
+This is not a drill.	Das ist keine Übung.	यह कोई अभ्यास नहीं है।
+This is not a tiger.	Das ist kein Tiger.	यह एक बाघ नहीं है।
+This is not for you.	Das ist nicht für dich.	यह तुम्हारे लिए नहीं है।
+This is not my home.	Das ist nicht mein Zuhause.	यह मेरा घर नहीं है।
+This is one of mine.	Das ist eine meiner Sachen.	यह मेरे बीच की एक है।
