@@ -1,14 +1,4 @@
 
-Tom isn't my uncle.	Tom ist nicht mein Onkel.	टॉम मेरे चाचा नहीं हैं।
-Tom isn't on drugs.	Tom steht nicht unter Drogen.	टॉम ड्रग्स के अधीन नहीं है।
-Tom isn't sleeping.	Tom schläft nicht.	टॉम सोता नहीं है।
-Tom isn't stopping.	Tom hört nicht auf.	टॉम बंद नहीं करता है।
-Tom isn't sure yet.	Tom ist sich noch nicht sicher.	टॉम अभी तक निश्चित नहीं है।
-Tom isn't watching.	Tom sieht nicht zu.	टॉम नहीं देखता।
-Tom just came home.	Tom ist gerade nach Hause gekommen.	टॉम अभी घर आया है।
-Tom just collapsed.	Tom ist gerade zusammengebrochen.	टॉम अभी ढह गया है।
-Tom just dumped me.	Tom hat gerade mit mir Schluss gemacht.	टॉम बस मेरे साथ टूट गया।
-Tom just texted me.	Tom hat mir gerade eine SMS geschickt.	टॉम ने मुझे सिर्फ एक एसएमएस भेजा है।
 Tom keeps his word.	Tom hält sein Wort.	टॉम ने अपना वचन धारण किया।
 Tom kept on crying.	Tom hörte nicht auf zu weinen.	टॉम ने रोना बंद नहीं किया।
 Tom kept on crying.	Tom weinte weiter.	टॉम जारी रहा।

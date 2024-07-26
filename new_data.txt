@@ -23786,3 +23786,13 @@ Tom isn't in there.	Tom ist nicht drin.	टॉम वहां में नह�
 Tom isn't innocent.	Tom ist nicht unschuldig.	टॉम बेगुनाह नहीं है।
 Tom isn't like you.	Tom ist nicht wie du.	टॉम तुम जैसा नहीं है।
 Tom isn't my enemy.	Tom ist nicht mein Feind.	टॉम मेरा दुश्मन नहीं है।
+Tom isn't my uncle.	Tom ist nicht mein Onkel.	टॉम मेरा मामा नहीं है।
+Tom isn't on drugs.	Tom nimmt keine Drogen.	टॉम ड्रग्स पर नहीं है।
+Tom isn't sleeping.	Tom schläft nicht.	टॉम सो नहीं रहा है।
+Tom isn't stopping.	Tom hört nicht auf.	टॉम रुकने का सोच नहीं रहा है।
+Tom isn't sure yet.	Tom ist sich noch nicht sicher.	टॉम अभी भी निश्चित नहीं है।
+Tom isn't watching.	Tom schaut nicht.	टॉम नहीं देख रहा है।
+Tom just came home.	Tom ist gerade nach Hause gekommen.	टॉम अभी घर आया है।
+Tom just collapsed.	Tom ist gerade zusammengebrochen.	टॉम अभी गिर गया।
+Tom just dumped me.	Tom hat mich gerade abserviert.	टॉम ने मुझे अभी ठुकरा दिया।
+Tom just texted me.	Tom hat mir gerade eine Nachricht geschickt.	टॉम ने मुझे अभी मैसेज किया है।
