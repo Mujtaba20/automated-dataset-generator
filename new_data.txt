@@ -27302,3 +27302,10 @@ It is nothing to me.	Es bedeutet mir nichts.	मुझे इसका कुछ
 It is only too true.	Es ist nur allzu wahr.	यह सत्य केवल बहुत है।
 It is too expensive.	Es ist zu teuer.	यह बहुत महंगा है।
 It is white as snow.	Es ist weiß wie Schnee.	यह बर्फ जैसा सफेद है।
+It isn't a hospital.	Es ist kein Krankenhaus.	यह एक अस्पताल नहीं है।
+It isn't a prophecy.	Es ist keine Prophezeiung.	यह कोई भविष्यवाणी नहीं है।
+It isn't about that.	Es geht nicht darum.	यह उसके बारे में नहीं है।
+It isn't contagious.	Es ist nicht ansteckend.	यह संक्रामक नहीं है।
+It isn't hard to do.	Es ist nicht schwer zu tun.	यह करना मुश्किल नहीं है।
+It just didn't work.	Es hat einfach nicht funktioniert.	यह बस काम नहीं करता था।
+It looks almost new.	Es sieht fast wie neu aus.	यह लगभग नया लग रहा है।
