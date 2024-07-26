@@ -37344,3 +37344,13 @@ I don't speak Swedish.	Ich spreche kein Schwedisch.	मैं स्वीडि
 I don't think I snore.	Ich glaube nicht, dass ich schnarche.	मुझे लगता नहीं कि मैं खर्राता हूँ।
 I don't understand it.	Ich verstehe es nicht.	मुझे इसे समझ नहीं आता।
 I don't wanna go back.	Ich will nicht zurückgehen.	मैं वापस नहीं जाना चाहता।
+I don't want Tom here.	Ich will Tom hier nicht haben.	मुझे यहाँ टॉम नहीं चाहिए।
+I don't want a banana.	Ich möchte keine Banane.	मुझे केला नहीं चाहिए।
+I don't want an apple.	Ich möchte keinen Apfel.	मुझे सेब नहीं चाहिए।
+I don't want any help.	Ich will keine Hilfe.	मुझे कोई मदद नहीं चाहिए।
+I don't want any more.	Ich will nicht mehr.	मुझे और नहीं चाहिए।
+I don't want sympathy.	Ich will kein Mitleid.	मुझे सहानुभूति नहीं चाहिए।
+I don't want that one.	Ich will das nicht.	मुझे वह नहीं चाहिए।
+I don't want the ring.	Ich will den Ring nicht.	मुझे अंगूठी नहीं चाहिए।
+I don't want this one.	Ich will das hier nicht.	मुझे यह नहीं चाहिए।
+I don't want to dance.	Ich möchte nicht tanzen.	मुझे नाचना नहीं है।
