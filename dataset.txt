@@ -1,14 +1,4 @@
 
-I have too many bags.	Ich habe zu viele Taschen.	मेरे पास बहुत सारे बैग हैं।
-I have two daughters.	Ich habe zwei Töchter.	मेरी दो बेटियाँ हैं।
-I have what you want.	Ich habe, was du willst.	मेरे पास वही है जो आप चाहते हैं।
-I haven't got a clue.	Ich hab keinen Schimmer.	मेरे पास कोई टिमटिमाना नहीं है।
-I haven't got it yet.	Ich habe es noch nicht bekommen.	मुझे अभी तक यह नहीं मिला है।
-I haven't had dinner.	Ich hatte nichts zum Abendessen.	मेरे पास रात के खाने के लिए कुछ नहीं था।
-I hear Tom does that.	Es heißt, Tom tue das.	यह कहा जाता है कि टॉम ऐसा करते हैं।
-I heard you coughing.	Ich habe dich husten gehört.	मैंने तुम्हें खांसी सुनी।
-I heard you coughing.	Ich habe Sie husten gehört.	मैंने उसकी खांसी सुनी।
-I heard you coughing.	Ich habe euch husten gehört.	मैंने तुम्हें खांसी सुनी।
 I heard you did well.	Ich habe gehört, du hast gut abgeschnitten.	मैंने सुना है कि आप अच्छी तरह से काटते हैं।
 I heard you did well.	Ich habe gehört, Sie haben gut abgeschnitten.	मैंने सुना है कि आप अच्छी तरह से काटते हैं।
 I heard you laughing.	Ich habe dich lachen gehört.	मैंने तुम्हें हंसते हुए सुना।

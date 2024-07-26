@@ -31791,3 +31791,11 @@ I have to prioritize.	Ich muss priorisieren.	मुझे प्राथमि�
 I have to rent a car.	Ich muss ein Auto mieten.	मुझे एक कार किराए पर लेनी है।
 I have to wear boots.	Ich muss Stiefel tragen.	मुझे बूट पहनना है।
 I have to work today.	Ich muss heute arbeiten.	मुझे आज काम करना है।
+I have too many bags.	Ich habe zu viele Taschen.	मेरे पास बहुत सारी बस्ती हैं।
+I have two daughters.	Ich habe zwei Töchter.	मेरे पास दो बेटियां हैं।
+I have what you want.	Ich habe, was du willst.	मेरे पास वह है जिसे तुम चाहते हो।
+I haven't got a clue.	Ich habe keine Ahnung.	मुझे कोई संकेत नहीं मिला है।
+I haven't got it yet.	Ich habe es noch nicht bekommen.	मुझे अभी तक यह नहीं मिला है।
+I haven't had dinner.	Ich habe noch nicht zu Abend gegessen.	मुझे अभी तक रात का खाना नहीं मिला है।
+I hear Tom does that.	Ich höre, dass Tom das tut.	मुझे सुनाई दे रहा है कि टॉम वैसा करता है।
+I heard you coughing.	Ich habe dich husten gehört.	मैंने तुम्हें खांसते हुए सुना।
