@@ -1,14 +1,4 @@
 
-Tom waited expectantly.	Tom harrte voller Erwartung aus.	टॉम हैरटे उम्मीद से भरे हुए हैं।
-Tom waited expectantly.	Tom harrte erwartungsvoll aus.	टॉम हैर्टे समाप्त हो गए।
-Tom waited for an hour.	Tom wartete eine Stunde.	टॉम एक घंटे तक इंतजार कर रहा था।
-Tom waited impatiently.	Tom wartete ungeduldig.	टॉम अधीरता से इंतजार कर रहा था।
-Tom waited impatiently.	Tom wartete mit Ungeduld.	टॉम अधीरता के साथ इंतजार कर रहा था।
-Tom walked in the room.	Tom betrat das Zimmer.	टॉम कमरे में प्रवेश किया।
-Tom walked in the room.	Tom ging in das Zimmer.	टॉम कमरे में चला गया।
-Tom walked in the room.	Tom schritt ins Zimmer.	टॉम कमरे में कदम।
-Tom walked three miles.	Tom ging fünf Kilometer.	टॉम पांच किलोमीटर चला गया।
-Tom walked to the gate.	Tom ging ans Tor.	टॉम गेट पर गया।
 Tom walked very slowly.	Tom ging sehr langsam.	टॉम बहुत धीरे -धीरे चला गया।
 Tom walked very slowly.	Toms schritt sehr gemächlich dahin.	टॉम का कदम बहुत इत्मीनान से है।
 Tom wanted Mary to win.	Tom wollte, dass Mary gewinnt.	टॉम मैरी जीतना चाहती थी।
