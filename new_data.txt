@@ -29817,3 +29817,10 @@ What time is dinner?	Um wie viel Uhr ist das Abendessen?	रात का खा
 What time is it now?	Wie spät ist es jetzt?	अभी कितने बजे हैं?
 What time is sunset?	Wann ist Sonnenuntergang?	सूर्यास्त कितने बजे है?
 What was I thinking?	Was habe ich mir dabei gedacht?	मैं क्या सोच रहा था?
+What was Tom's plan?	Was war Toms Plan?	टॉम की क्या योजना थी?
+What was that noise?	Was war das für ein Lärm?	वह शोर क्या था?
+What was that sound?	Was war das für ein Geräusch?	वह ध्वनि क्या थी?
+What was the result?	Was war das Ergebnis?	परिणाम क्या था?
+What was your major?	Was war dein Hauptfach?	तुम्हारा मुख्य विषय क्या था?
+What was your score?	Was war deine Punktzahl?	तुम्हारा स्कोर क्या था?
+What would you like?	Was würden Sie gerne haben?	तुम क्या पसंद करोगे?
