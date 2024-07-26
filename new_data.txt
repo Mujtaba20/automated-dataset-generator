@@ -26606,3 +26606,13 @@ I ran like the wind.	Ich rannte wie der Wind.	मैं हवा की तर�
 I ran out of breath.	Mir ging die Puste aus.	मेरी सांस रुक गई।
 I rang the doorbell.	Ich läutete an der Türklingel.	मैंने दरवाजे का बेल बजाया।
 I rarely wear a tie.	Ich trage selten eine Krawatte.	मैं शादिक एक टाई पहनता हूँ।
+I read Tom's letter.	Ich habe den Brief von Tom gelesen.	मैंने टॉम का पत्र पढ़ा।
+I read a book today.	Ich habe heute ein Buch gelesen.	मैंने आज एक किताब पढ़ी।
+I read it in a book.	Ich habe es in einem Buch gelesen.	मैंने यह एक किताब में पढ़ा।
+I really don't know.	Ich weiß es wirklich nicht.	मुझे सच में नहीं पता।
+I really don't sing.	Ich singe wirklich nicht.	मैं सच में नहीं गाता।
+I really have to go.	Ich muss wirklich gehen.	मुझे सच में जाना है।
+I really missed you.	Ich habe dich wirklich vermisst.	मुझे तुम्हारी याद बहुत आई।
+I really need a hug.	Ich brauche wirklich eine Umarmung.	मुझे वास्तव में एक गले की ज़ोर की ज़रूरत है।
+I really need a job.	Ich brauche wirklich einen Job.	मुझे वास्तव में नौकरी की आवश्यकता है।
+I really want to go.	Ich möchte wirklich gehen.	मैं सच में जाना चाहता हूँ।
