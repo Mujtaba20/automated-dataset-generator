@@ -1,14 +1,4 @@
 
-Tom knew where to go.	Tom wusste, wohin er gehen musste.	टॉम जानता था कि उसे कहाँ जाना है।
-Tom knows I like him.	Tom weiß, dass ich ihn mag.	टॉम जानता है कि मैं उसे पसंद करता हूं।
-Tom knows Mary knows.	Tom weiß, dass Mary weiß.	टॉम जानता है कि मैरी जानती है।
-Tom knows about that.	Tom weiß davon.	टॉम इसके बारे में जानता है।
-Tom knows everything.	Tom weiß alles.	टॉम सब कुछ जानता है।
-Tom knows he's right.	Tom weiß, dass er Recht hat.	टॉम जानता है कि वह सही है।
-Tom knows he's right.	Tom weiß, dass er recht hat.	टॉम जानता है कि वह सही है।
-Tom knows his rights.	Tom kennt seine Rechte.	टॉम अपने अधिकारों को जानता है।
-Tom knows the answer.	Tom kennt die Antwort.	टॉम का जवाब पता है।
-Tom knows the family.	Tom kennt die Familie.	टॉम परिवार को जानता है।
 Tom knows the secret.	Tom weiß das Geheimnis.	टॉम गुप्त जानता है।
 Tom knows the system.	Tom kennt das System.	टॉम सिस्टम जानता है।
 Tom knows this place.	Tom kennt diesen Ort.	टॉम इस जगह को जानता है।

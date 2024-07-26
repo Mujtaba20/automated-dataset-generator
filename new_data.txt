@@ -34604,3 +34604,12 @@ Tom kept his promise.	Tom hielt sein Versprechen.	टॉम ने अपना 
 Tom kissed my cousin.	Tom küsste meine Cousine.	टॉम ने मेरी चचेरी को चुम्मा दिया।
 Tom knew I was ready.	Tom wusste, dass ich bereit war.	टॉम को मालूम था कि मैं तैयार था।
 Tom knew what to say.	Tom wusste, was er sagen soll.	टॉम को पता था कि क्या कहना है।
+Tom knew where to go.	Tom wusste, wohin er gehen sollte.	टॉम को पता था कि जाना कहां है।
+Tom knows I like him.	Tom weiß, dass ich ihn mag.	टॉम को पता है कि मुझे वह पसंद है।
+Tom knows Mary knows.	Tom weiß, dass Mary weiß.	टॉम को पता है कि मेरी को पता है।
+Tom knows about that.	Tom weiß darüber Bescheid.	टॉम को उसके बारे में पता है।
+Tom knows everything.	Tom weiß alles.	टॉम को सब कुछ पता है।
+Tom knows he's right.	Tom weiß, dass er recht hat.	टॉम को पता है कि वह सही है।
+Tom knows his rights.	Tom kennt seine Rechte.	टॉम को अपना हक पता है।
+Tom knows the answer.	Tom kennt die Antwort.	टॉम को जवाब पता है।
+Tom knows the family.	Tom kennt die Familie.	टॉम को परिवार पता है।
