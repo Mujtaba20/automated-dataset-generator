@@ -1,14 +1,4 @@
 
-I want to do it myself.	Ich will es selbst machen.	मैं इसे खुद करना चाहता हूं।
-I want to eat with Tom.	Ich möchte mit Tom essen.	मैं टॉम के साथ खाना चाहता हूं।
-I want to go to Boston.	Ich will nach Boston gehen.	मैं बोस्टन जाना चाहता हूं।
-I want to go to Boston.	Ich will nach Boston fahren.	मैं बोस्टन जाना चाहता हूं।
-I want to go to school.	Ich will zur Schule gehen.	मैं स्कूल के लिए जाना चाहता हूँ।
-I want to learn French.	Ich will Französisch lernen.	मैं फ्रेंच सीखना चाहता हूं।
-I want to learn French.	Ich möchte Französisch lernen.	मैं फ्रेंच सीखना चाहता हूं।
-I want to learn guitar.	Ich möchte Gitarre lernen.	मैं गिटार सीखना चाहता हूं।
-I want to leave school.	Ich will von der Schule abgehen.	मैं स्कूल छोड़ना चाहता हूं।
-I want to leave school.	Ich will mit der Schule aufhören.	मैं स्कूल को रोकना चाहता हूं।
 I want to live forever.	Ich will für immer leben.	मैं हमेशा के लिए जीना चाहता हूं।
 I want to see it again.	Ich möchte es wiedersehen.	मैं इसे फिर से देखना चाहता हूं।
 I want to see it again.	Ich möchte es nochmal sehen.	मैं इसे फिर से देखना चाहता हूं।
