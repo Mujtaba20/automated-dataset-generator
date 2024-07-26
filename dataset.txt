@@ -1,14 +1,4 @@
 
-Tom rides a bicycle.	Tom fährt Fahrrad.	टॉम एक बाइक की सवारी करता है।
-Tom rubbed his eyes.	Tom rieb sich die Augen.	टॉम ने अपनी आँखें रगड़ दीं।
-Tom rubbed his face.	Tom rieb sich sein Gesicht.	टॉम ने अपना चेहरा रगड़ा।
-Tom rubbed his face.	Tom rieb sich das Gesicht.	टॉम ने अपना चेहरा रगड़ा।
-Tom rubbed his nose.	Tom rieb sich die Nase.	टॉम ने अपनी नाक रगड़ दी।
-Tom rushed upstairs.	Tom eilte die Treppe hinauf.	टॉम ने सीढ़ियों से झपकी ली।
-Tom rushed upstairs.	Tom eilte nach oben.	टॉम ने जल्दबाजी की।
-Tom said he's bored.	Tom sagte, er langweile sich.	टॉम ने कहा कि वह ऊब गया था।
-Tom said he's broke.	Tom sagte, er ist pleite.	टॉम ने कहा कि वह टूट गया है।
-Tom said it was bad.	Tom sagte, es sei schlecht.	टॉम ने कहा कि यह बुरा था।
 Tom said this to me.	Tom sagte das zu mir.	टॉम ने कहा कि मेरे लिए।
 Tom said to ask you.	Tom sagte, ich soll dich fragen.	टॉम ने कहा कि मुझे आपसे पूछना चाहिए।
 Tom said you'd come.	Tom sagte, du würdest kommen.	टॉम ने कहा कि तुम आओगे।

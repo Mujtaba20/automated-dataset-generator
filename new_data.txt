@@ -29230,3 +29230,11 @@ Tom remained seated.	Tom blieb sitzen.	टॉम बैठे रहे।
 Tom remained silent.	Tom blieb still.	टॉम चुप रहा।
 Tom reserved a seat.	Tom reservierte einen Sitzplatz.	टॉम ने एक सीट आरक्षित की।
 Tom resumed reading.	Tom setzte das Lesen fort.	टॉम ने पढ़ाई फिर से शुरू की।
+Tom rides a bicycle.	Tom fährt Fahrrad.	टॉम साइकिल चलाता है।
+Tom rubbed his eyes.	Tom rieb sich die Augen.	टॉम ने अपनी आंखें पोंछी।
+Tom rubbed his face.	Tom rieb sich das Gesicht.	टॉम ने अपना चेहरा पोंछा।
+Tom rubbed his nose.	Tom rieb sich die Nase.	टॉम ने अपना नाक पोंछी।
+Tom rushed upstairs.	Tom hastete die Treppe hinauf.	टॉम ऊपर भागा।
+Tom said he's bored.	Tom sagte, er ist gelangweilt.	टॉम ने कहा कि उसका बोर हो रहा है।
+Tom said he's broke.	Tom sagte, er ist pleite.	टॉम ने कहा कि वह टूट गया है।
+Tom said it was bad.	Tom sagte, es war schlecht.	टॉम ने कहा कि यह खराब था।
