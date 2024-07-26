@@ -1,14 +1,4 @@
 
-Give me that iron ball.	Gib mir die Eisenkugel dort!	मुझे वहां आयरन बॉल दे दो!
-Give me that iron ball.	Geben Sie mir die Eisenkugel dort!	मुझे वहां आयरन बॉल दे दो!
-Give me the green book.	Gib mir das grüne Buch!	मुझे ग्रीन बुक दे दो!
-Give me the green book.	Geben Sie mir das grüne Buch!	मुझे ग्रीन बुक दे दो!
-Give me the microphone.	Gib mir das Mikrofon.	मुझे माइक्रोफोन दें।
-Give me the microphone.	Geben Sie mir das Mikrofon.	मुझे माइक्रोफोन दें।
-Give me the microphone.	Gebt mir das Mikrofon.	मुझे माइक्रोफोन दें।
-Give my regards to Tom.	Grüße Tom von mir!	मेरी तरफ से बधाई!
-Give my regards to Tom.	Grüßen Sie Tom von mir!	मेरी तरफ से बधाई!
-Go home. Get some rest.	Geh nach Hause! Ruhe dich etwas aus!	घर जाओ!थोड़ी देर के लिए आराम करो!
 Go put your pajamas on.	Geh dir deinen Pyjama anziehen!	अपने पजामा में जाओ!
 Go put your pajamas on.	Geh dir dein Pyjama anziehen!	अपने पजामा में जाओ!
 Go put your pajamas on.	Gehen Sie sich Ihren Pyjama anziehen!	अपने पजामा में जाओ!
