@@ -28676,3 +28676,11 @@ Tom faces a dilemma.	Tom steht vor einem Dilemma.	टॉम का सामन�
 Tom failed the test.	Tom hat die Prüfung nicht bestanden.	टॉम को परीक्षा में असफलता मिली।
 Tom faked his death.	Tom täuschte seinen Tod vor.	टॉम ने अपनी मौत झूठलाई।
 Tom fed the pigeons.	Tom fütterte die Tauben.	टॉम ने कबूतरों को खिलाया।
+Tom felled the tree.	Tom fällte den Baum.	टॉम ने पेड़ काट डाला।
+Tom felt frustrated.	Tom fühlte sich frustriert.	टॉम को निराश महसूस हुआ।
+Tom felt humiliated.	Tom fühlte sich gedemütigt.	टॉम को अपमानित महसूस हुआ।
+Tom felt unprepared.	Tom fühlte sich unvorbereitet.	टॉम को तैयार नहीं महसूस हुआ।
+Tom felt very tired.	Tom fühlte sich sehr müde.	टॉम बहुत थका हुआ महसूस किया।
+Tom finished eating.	Tom hat aufgegessen.	टॉम ने खाना खतम किया।
+Tom finished second.	Tom beendete als Zweiter.	टॉम दूसरा आया।
+Tom folded his arms.	Tom verschränkte die Arme.	टॉम ने अपने हाथ जोड़ लिए।

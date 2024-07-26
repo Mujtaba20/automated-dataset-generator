@@ -1,14 +1,4 @@
 
-Tom felled the tree.	Tom fällte den Baum.	टॉम पेड़ से गिर गया।
-Tom felt frustrated.	Thomas fühle sich entmutigt.	थॉमस को हतोत्साहित महसूस होता है।
-Tom felt frustrated.	Thomas fühlte sich niedergeschlagen.	थॉमस को उदास लगा।
-Tom felt humiliated.	Tom fühlte sich gedemütigt	टॉम ने अपमानित महसूस किया
-Tom felt unprepared.	Tom fühlte sich schlecht vorbereitet.	टॉम ने खराब तरीके से तैयार महसूस किया।
-Tom felt very tired.	Tom fühlte sich sehr müde.	टॉम बहुत थक गया।
-Tom finished eating.	Tom hat zu Ende gegessen.	टॉम ने खाया है।
-Tom finished second.	Tom wurde Zweiter.	टॉम दूसरे स्थान पर रहे।
-Tom finished second.	Tom war als Zweiter fertig.	टॉम दूसरे स्थान पर था।
-Tom folded his arms.	Tom verschränkte seine Arme.	टॉम ने अपनी बाहें पार कीं।
 Tom forced me to go.	Tom zwang mich zu gehen.	टॉम ने मुझे जाने के लिए मजबूर किया।
 Tom found a new job.	Tom fand einen neuen Job.	टॉम को एक नई नौकरी मिली।
 Tom found me a taxi.	Tom suchte mir ein Taxi.	टॉम ने टैक्सी की तलाश की।
