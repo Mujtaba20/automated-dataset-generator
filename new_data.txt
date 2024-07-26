@@ -23222,3 +23222,10 @@ This is most of it.	Das ist größerer Teil davon.	यह इसका अधि
 This is my bicycle.	Das ist mein Fahrrad.	यह मेरी साइकिल है।
 This is my brother.	Das ist mein Bruder.	यह मेरा भाई है।
 This is my husband.	Das ist mein Mann.	यह मेरा पति है।
+This is my kitchen.	Das ist meine Küche.	यह मेरा रसोईघर है।
+This is my new car.	Das ist mein neues Auto.	यह मेरी नई गाड़ी है।
+This is my problem.	Das ist mein Problem.	यह मेरी समस्या है।
+This is news to me.	Das ist neu für mich.	यह मेरे लिए खबर है।
+This is not a game.	Das ist kein Spiel.	यह खेल नहीं है।
+This is not enough.	Das ist nicht genug.	यह काफ़ी नहीं है।
+This is not for me.	Das ist nicht für mich.	यह मेरे लिए नहीं है।

@@ -1,14 +1,4 @@
 
-This is my kitchen.	Das ist meine Küche.	यह मेरा रसोईघर है।
-This is my new car.	Das ist mein neues Auto.	यह मेरी नई कार है।
-This is my problem.	Das ist mein Problem.	यह मेरी समस्या है।
-This is news to me.	Das ist mir neu.	यह मेरे लिए नया है।
-This is not a game.	Das hier ist kein Spiel.	ये खेल नहीं है।
-This is not enough.	Das reicht nicht.	वह काफी नहीं है।
-This is not enough.	Das ist nicht genug.	वह काफी नहीं है।
-This is not enough.	Das reicht nicht aus.	वह काफी नहीं है।
-This is not for me.	Das ist nichts für mich.	यह मेरे लिए नहीं है।
-This is not for me.	Das ist nicht für mich.	वह मेरे लिए नहीं है।
 This is not my car.	Dies ist nicht mein Wagen.	यह मेरी कार नहीं है।
 This is not my day.	Heute ist nicht mein Tag.	आज का दिन मेरा नहीं है।
 This is not normal.	Das ist nicht normal.	यह सामान्य नहीं है।
