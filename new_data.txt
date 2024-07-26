@@ -34839,3 +34839,13 @@ Tom sells vegetables.	Tom verkauft Gemüse.	टॉम सब्जियाँ �
 Tom sent Mary a card.	Tom hat Mary eine Karte geschickt.	टॉम ने मेरी को एक कार्ड भेजा।
 Tom served me coffee.	Tom hat mir Kaffee serviert.	टॉम ने मुझे कॉफ़ी पिलाई।
 Tom served us coffee.	Tom hat uns Kaffee serviert.	टॉम ने हमें कॉफ़ी पिलाई।
+Tom shined his shoes.	Tom putzte seine Schuhe.	टॉम ने अपने जूते चमकाए।
+Tom shot three times.	Tom schoss dreimal.	टॉम ने तीन बार गोली चलाई।
+Tom should apologize.	Tom sollte sich entschuldigen.	टॉम को माफी मांगनी चाहिए।
+Tom should be in bed.	Tom sollte im Bett sein.	टॉम को बिस्तर में होना चाहिए।
+Tom should know that.	Tom sollte das wissen.	टॉम को यह मालूम होना चाहिए।
+Tom should know this.	Tom sollte das wissen.	टॉम को इसे जानना चाहिए।
+Tom should leave now.	Tom sollte jetzt gehen.	टॉम को अब चलना चाहिए।
+Tom should thank you.	Tom sollte dir danken.	टॉम को आपका धन्यवाद करना चाहिए।
+Tom should've called.	Tom hätte anrufen sollen.	टॉम को कॉल करना चाहिए था।
+Tom showed me around.	Tom hat mir die Gegend gezeigt.	टॉम ने मुझे आस-पास घुमाया।
