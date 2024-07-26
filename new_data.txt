@@ -35018,3 +35018,13 @@ Tom washed his hands.	Tom wusch sich die Hände.	टॉम ने अपने �
 Tom wasn't a soldier.	Tom war kein Soldat.	टॉम एक सैनिक नहीं था।
 Tom wasn't a teacher.	Tom war kein Lehrer.	टॉम एक शिक्षक नहीं था।
 Tom wasn't behind me.	Tom war nicht hinter mir.	टॉम मेरे पीछे नहीं था।
+Tom wasn't even hurt.	Tom war nicht einmal verletzt.	टॉम को छोटा नहीं हुआ था।
+Tom wasn't like that.	Tom war nicht so.	टॉम ऐसा नहीं था।
+Tom wasn't listening.	Tom hörte nicht zu.	टॉम सुन रहा नहीं था।
+Tom wasn't surprised.	Tom war nicht überrascht.	टॉम हैरान नहीं था।
+Tom wasn't very busy.	Tom war nicht sehr beschäftigt.	टॉम बहुत व्यस्त नहीं था।
+Tom wasn't very good.	Tom war nicht sehr gut.	टॉम बहुत अच्छा नहीं था।
+Tom wasn't very sick.	Tom war nicht sehr krank.	टॉम बहुत अधिक बीमार नहीं था।
+Tom wasn't with Mary.	Tom war nicht mit Mary.	टॉम मेरी के साथ नहीं था।
+Tom wastes his money.	Tom verschwendet sein Geld.	टॉम अपने पैसे बर्बाद करता है।
+Tom watched Mary eat.	Tom beobachtete, wie Mary aß.	टॉम ने मेरी को खाते हुए देखा।
