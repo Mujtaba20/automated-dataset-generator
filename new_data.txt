@@ -32047,3 +32047,10 @@ I put on my trousers.	Ich zog meine Hose an.	मैंने अपने पत
 I put up my umbrella.	Ich spannte meinen Regenschirm auf.	मैंने अपना छाता खोल दिया।
 I ran away from home.	Ich lief von zu Hause weg.	मैं घर से भाग आया।
 I ran back to my car.	Ich rannte zurück zu meinem Auto.	मैं अपनी गाड़ी की ओर वापस भागा।
+I ran like lightning.	Ich rannte wie der Blitz.	मैं बिजली की तरह भागा।
+I really do like you.	Ich mag dich wirklich.	मुझे तुम्हारा सच्चे रूप से पसंद है।
+I really like my job.	Ich mag meinen Job wirklich.	मुझे मेरा काम सच्चे रूप से पसंद है।
+I really like trains.	Ich mag Züge wirklich.	मुझे ट्रेनें सच्चे रूप से पसंद हैं।
+I really ought to go.	Ich sollte wirklich gehen.	मुझे सच्चे रूप से जाना चाहिए।
+I really want a beer.	Ich möchte wirklich ein Bier.	मुझे वास्तव में एक बीयर चाहिए।
+I recognize that guy.	Ich erkenne diesen Typen.	मैं उस आदमी को पहचानता हूँ।
