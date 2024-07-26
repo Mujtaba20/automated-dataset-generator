@@ -27293,3 +27293,12 @@ It could take hours.	Es könnte Stunden dauern.	यह घंटे तक ल�
 It didn't cost much.	Es hat nicht viel gekostet.	इसका मूल्य पर्याप्त नहीं था।
 It doesn't worry me.	Es beunruhigt mich nicht.	यह मुझे चिंता नहीं है।
 It expires tomorrow.	Es läuft morgen ab.	यह कल समाप्त हो जाएगा।
+It finally happened.	Es ist endlich passiert.	यह आखिरकार हो गया।
+It happened so fast.	Es ging so schnell.	यह इतनी तेज़ी से हुआ।
+It has snowed a bit.	Es hat ein bisschen geschneit.	थोड़ी सी बर्फ गिरी है।
+It is a little cold.	Es ist ein wenig kalt.	थोड़ी सी ठंड है।
+It is freezing cold.	Es ist eiskalt.	यह जमकर ठंड है।
+It is nothing to me.	Es bedeutet mir nichts.	मुझे इसका कुछ मतलब नहीं है।
+It is only too true.	Es ist nur allzu wahr.	यह सत्य केवल बहुत है।
+It is too expensive.	Es ist zu teuer.	यह बहुत महंगा है।
+It is white as snow.	Es ist weiß wie Schnee.	यह बर्फ जैसा सफेद है।
