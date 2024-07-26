@@ -28094,3 +28094,13 @@ That's a new record.	Das ist ein neuer Rekord.	यह एक नया रिक
 That's a nice story.	Das ist eine schöne Geschichte.	यह एक अच्छी कहानी है।
 That's a no-brainer.	Das ist eine Selbstverständlichkeit.	यह बिना सोचे समझे का काम है।
 That's a tall order.	Das ist eine große Herausforderung.	यह एक लंबा आदेश है।
+That's all I can do.	Das ist alles, was ich tun kann.	यही मैं कर सकता हूँ।
+That's all I've got.	Das ist alles, was ich habe.	यही मेरे पास है।
+That's all nonsense.	Das ist alles Unsinn.	यह सब बकवास है।
+That's all they had.	Das ist alles, was sie hatten.	उनके पास सब कुछ था।
+That's all you need.	Das ist alles, was du brauchst.	यही तुम्हें चाहिए।
+That's an exception.	Das ist eine Ausnahme.	यह एक अपवाद है।
+That's an imitation.	Das ist eine Nachahmung.	यह एक उत्कृष्टि है।
+That's an old trick.	Das ist ein alter Trick.	यह एक पुरानी चाल है।
+That's child's play.	Das ist Kinderspiel.	यह बच्चों का खेल है।
+That's common sense.	Das ist gesunder Menschenverstand.	यह सामान्य बुद्धि है।
