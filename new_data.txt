@@ -31434,3 +31434,11 @@ I bought a small car.	Ich habe ein kleines Auto gekauft.	मैंने एक 
 I bought an old lamp.	Ich habe eine alte Lampe gekauft.	मैंने एक पुरानी बत्ती खरीदी।
 I bought an umbrella.	Ich habe einen Regenschirm gekauft.	मैंने एक छाता खरीदा।
 I bought fresh bread.	Ich habe frisches Brot gekauft.	मैंने ताजा रोटी खरीदी।
+I bought her a clock.	Ich habe ihr eine Uhr gekauft.	मैंने उसे एक घड़ी खरीदी।
+I bought her a watch.	Ich habe ihr eine Armbanduhr gekauft.	मैंने उसे एक घड़ी खरीदी।
+I bought it from Tom.	Ich habe es von Tom gekauft.	मैंने इसे टॉम से खरीदा।
+I broke a vase today.	Ich habe heute eine Vase zerbrochen.	आज मैंने एक फूलदान तोड़ दिया।
+I broke my right leg.	Ich habe mein rechtes Bein gebrochen.	मैंने अपनी दाईं टांग तोड़ दी।
+I broke your ashtray.	Ich habe deinen Aschenbecher kaputtgemacht.	मैंने तुम्हारा अश्ट्रे तोड़ दिया।
+I brought some pizza.	Ich habe etwas Pizza mitgebracht.	मैंने कुछ पिज्जा लाया।
+I brought you a gift.	Ich habe dir ein Geschenk mitgebracht.	मैंने तुम्हें एक उपहार लाया।
