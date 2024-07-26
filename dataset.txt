@@ -1,14 +1,4 @@
 
-Go to the living room.	Geh ins Wohnzimmer.	लिविंग रूम में जाओ।
-God created the world.	Gott erschuf die Welt.	भगवान ने दुनिया का निर्माण किया।
-God created the world.	Gott hat die Welt erschaffen.	भगवान ने दुनिया का निर्माण किया।
-God made the universe.	Gott erschuf das All.	भगवान ने इसे बनाया।
-Goodbye and good luck.	Tschüss und viel Glück!	अलविदा और शुभकामनाएँ!
-Goodbye till tomorrow.	Auf Wiedersehen, bis morgen.	कल तक अलविदा।
-Goodbye till tomorrow.	Tschüss, bis morgen.	अलविदा कल मिलते हैं।
-Guess what he told me.	Rate mal, was er mir erzählt hat.	उसने मुझे जो बताया वह दर।
-Guess what he told me.	Ratet mal, was er mir erzählt hat.	लगता है कि उसने मुझे क्या बताया।
-Guess what he told me.	Raten Sie mal, was er mir erzählt hat.	लगता है कि उसने मुझे क्या बताया।
 Guess where I've been.	Rate mal, wo ich gewesen bin.	जहां मैं था, दर।
 Guess who I saw today.	Rate mal, wen ich heute gesehen habe!	दर जो मैंने आज देखी!
 Guys, we need to talk.	Hey Ihr, lasst uns reden.	अरे तुम, चलो बात करते हैं।

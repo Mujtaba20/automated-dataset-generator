@@ -36628,3 +36628,9 @@ Give this book to Tom.	Gib dieses Buch Tom.	इस किताब को टॉ
 Give us three minutes.	Gib uns drei Minuten.	हमें तीन मिनट दें।
 Glad to see you again.	Freut mich, dich wiederzusehen.	आपको फिरसे देखकर खुशी हुई।
 Delighted to meet you again.	Freut mich, Sie wiederzusehen.	आपसे फिरसे मिलकर खुशी हुई।
+Go to the living room.	Gehen Sie ins Wohnzimmer.	लिविंग रूम में जाओ।
+God created the world.	Gott hat die Welt erschaffen.	भगवान ने दुनिया बनाई।
+God made the universe.	Gott schuf das Universum.	भगवान ने ब्रह्मांड बनाया।
+Goodbye and good luck.	Auf Wiedersehen und viel Glück.	अलविदा और शुभकामनाएं।
+Goodbye till tomorrow.	Auf Wiedersehen bis morgen.	कल तक अलविदा।
+Guess what he told me.	Rate mal, was er mir gesagt hat.	अनमोल, उसने मुझे क्या कहा चोटी?
