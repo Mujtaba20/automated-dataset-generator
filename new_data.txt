@@ -22935,3 +22935,13 @@ That's our problem.	Das ist unser Problem.	वह हमारी समस्�
 That's really cool.	Das ist wirklich cool.	यह वास्तव में कूल है।
 That's really cute.	Das ist wirklich süß.	यह वास्तव में प्यारा है।
 That's really good.	Das ist wirklich gut.	यह सच्चे में अच्छा है।
+That's so annoying.	Das ist so ärgerlich.	यह काफी सुरक्षित है।
+That's so juvenile.	Das ist so unreif.	वह बहुत ही किशोरावस्था है।
+That's so pathetic.	Das ist so erbärmlich.	यह काफी दयालु है।
+That's still Tom's.	Das gehört immer noch Tom.	वह अभी भी टॉम का है।
+That's the biggest.	Das ist das Größte.	वह सबसे बड़ा है।
+That's the message.	Das ist die Botschaft.	यह संदेश है।
+That's the trigger.	Das ist der Auslöser.	वह ट्रिगर है।
+That's unavoidable.	Das ist unvermeidbar.	यह अटल है।
+That's unfortunate.	Das ist bedauerlich.	यह दुर्भाग्यजनक है।
+That's unimportant.	Das ist unwichtig.	यह अमहत्वपूर्ण है।
