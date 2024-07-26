@@ -1,14 +1,4 @@
 
-Are you going to come?	Wirst du kommen?	क्या आप आएंगे?
-Are you going to sing?	Wirst du singen?	क्या आप गाएंगे?
-Are you going with me?	Gehst du mit mir?	क्या तुम मेरे साथ चल रहे हो?
-Are you going with us?	Gehst du mit uns?	क्या आप हमारे साथ जा रहे हैं?
-Are you homesick, too?	Hast du auch Heimweh?	क्या आपके पास भी होमिकनेस है?
-Are you in Boston now?	Bist du jetzt in Boston?	क्या अब आप बोस्टन में हैं?
-Are you in a bad mood?	Hast du schlechte Laune?	क्या आप बुरे मूड में हैं?
-Are you in a bad mood?	Bist du schlechter Laune?	क्या आप एक बुरे मूड हैं
-Are you in a bad mood?	Sind Sie schlechter Laune?	क्या आप एक बुरे मूड हैं?
-Are you in a bad mood?	Seid ihr schlechter Laune?	क्या आप एक बुरे मूड हैं?
 Are you looking at me?	Siehst du mich an?	क्या तुम मुझे देखते हो
 Are you playing chess?	Spielst du Schach?	क्या तुम शतरंज खेलते हो?
 Are you scared of Tom?	Bist du von Tom erschreckt worden?	क्या आप टॉम से भयभीत थे?

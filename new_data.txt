@@ -36096,3 +36096,11 @@ Are you free tomorrow? (Different meaning 2)	Stehst du morgen zur Verfügung?	�
 Are you from the bank?	Bist du von der Bank?	क्या तुम बैंक से हो?
 Are you from the bank? (Different meaning)	Kommst du von der Bank?	क्या तुम बैंक से आए हो?
 Are you getting tired?	Wirst du müde?	क्या तुम थक रहे हो?
+Are you going to come?	Wirst du kommen?	क्या आप आने वाले हैं?
+Are you going to sing?	Wirst du singen?	क्या आप गाना गा रहे हैं?
+Are you going with me?	Gehst du mit mir?	क्या तुम मेरे साथ जा रहे हो?
+Are you going with us?	Gehst du mit uns?	क्या तुम हमारे साथ जा रहे हो?
+Are you homesick, too?	Bist du auch heimwehkrank?	क्या आप भी घर की यादें बहुत करते हैं?
+Are you in Boston now?	Bist du jetzt in Boston?	क्या आप अभी बॉस्टन में हैं?
+Are you in a bad mood?	Bist du schlecht gelaunt?	क्या आप बुरे मौसम में हैं?
+Are you in a bad mood? (Different meaning)	Bist du unleidlich?	क्या आप क्रोधित हैं?
