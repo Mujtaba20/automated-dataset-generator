@@ -31592,3 +31592,12 @@ I don't like cooking.	Ich koche nicht gern.	मुझे पकाना पस�
 I don't like doctors.	Ich mag keine Ärzte.	मुझे डॉक्टर्स पसंद नहीं हैं।
 I don't like her hat.	Ich mag ihren Hut nicht.	मुझे उसकी टोपी पसंद नहीं है।
 I don't like it here.	Mir gefällt es hier nicht.	मुझे यहाँ पसंद नहीं है।
+I don't like running.	Ich mag kein Laufen.	मुझे दौड़ना पसंद नहीं है।
+I don't like silence.	Ich mag keine Stille.	मुझे चुप्पी पसंद नहीं है।
+I don't like spiders.	Ich mag keine Spinnen.	मुझे मकड़ीयों से पसंद नहीं है।
+I don't like this CD.	Ich mag diese CD nicht.	मुझे इस CD पसंद नहीं है।
+I don't like to cook.	Ich koche nicht gerne.	मुझे पकाना पसंद नहीं है।
+I don't like to fail.	Ich mag es nicht zu versagen.	मुझे असफलता पसंद नहीं है।
+I don't like to lose.	Ich mag nicht verlieren.	मुझे हारना पसंद नहीं है।
+I don't like to sing.	Ich singe nicht gerne.	मुझे गाना पसंद नहीं है।
+I don't like to walk.	Ich gehe nicht gerne.	मुझे चलना पसंद नहीं है।

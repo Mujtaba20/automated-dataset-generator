@@ -1,14 +1,4 @@
 
-I don't like running.	Ich laufe nicht gern.	मुझे दौड़ना पसंद नहीं।
-I don't like silence.	Stille behagt mir nicht.	मुझे चुप्पी पसंद नहीं है।
-I don't like spiders.	Ich mag keine Spinnen.	मुझे मकड़ियों पसंद नहीं हैं।
-I don't like this CD.	Diese CD gefällt mir nicht.	मुझे यह सीडी पसंद नहीं है।
-I don't like to cook.	Ich koche nicht gerne.	मुझे खाना पसंद नहीं है।
-I don't like to cook.	Ich koche nicht gern.	मुझे खाना पकाना पसंद नहीं।
-I don't like to fail.	Ich scheitere nicht gern.	मुझे असफल होना पसंद नहीं है।
-I don't like to lose.	Ich verliere nicht gern.	मुझे हारना पसंद नहीं है।
-I don't like to sing.	Ich singe nicht gern.	मुझे गाना पसंद नहीं है।
-I don't like to walk.	Ich laufe nicht gerne.	मुझे दौड़ना पसंद नहीं है।
 I don't like to work.	Ich arbeite nicht gerne.	मुझे काम करना पसंद नहीं है।
 I don't like waiting.	Ich warte nicht gerne.	मुझे इंतजार करना पसंद नहीं है।
 I don't like writing.	Ich schreibe nicht gern.	मुझे लिखना पसंद नहीं है।
