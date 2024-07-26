@@ -24694,3 +24694,11 @@ Who allowed him in?	Wer hat ihn reingelassen?	किसने उसे अं�
 Who are the others?	Wer sind die anderen?	दूसरे कौन-कौन हैं?
 Who are those guys?	Wer sind diese Typen?	वे व्यक्ति कौन हैं?
 Who are we meeting?	Wen treffen wir?	हम किससे मिलने जा रहे हैं?
+Who are you really?	Wer bist du wirklich?	तुम सच में कौन हो?
+Who ate the cheese?	Wer hat den Käse gegessen?	कौनने पनीर खाया?
+Who broke the vase?	Wer hat die Vase zerbrochen?	फूलदान किसने तोड़ दिया?
+Who can prevent it?	Wer kann es verhindern?	इसे कौन रोक सकता है?
+Who did the survey?	Wer hat die Umfrage gemacht?	सर्वेक्षण किसने किया?
+Who did this first?	Wer hat das zuerst gemacht?	कौनने पहले यह किया?
+Who did you expect?	Wen hast du erwartet?	तुम किसे अपेक्षा कर रहे थे?
+Who do you talk to?	Mit wem sprichst du?	तुम किससे बात करते हो?

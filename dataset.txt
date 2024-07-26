@@ -1,14 +1,4 @@
 
-Who are you really?	Wer bist du wirklich?	आप वास्तव में कौन हैं?
-Who ate the cheese?	Wer hat den Käse gegessen?	पनीर किसने खाया?
-Who broke the vase?	Wer hat die Vase zerbrochen?	फूलदान को किसने तोड़ दिया?
-Who can prevent it?	Wer kann das verhindern?	इसे कौन रोक सकता है?
-Who did the survey?	Wer hat die Umfrage durchgeführt?	किसने सर्वेक्षण किया?
-Who did this first?	Wer hat das zuerst getan?	पहले किसने किया?
-Who did you expect?	Wen haben Sie erwartet?	आपको किसकी उम्मीद थी?
-Who did you expect?	Wen hast du erwartet?	आपको किसकी उम्मीद थी?
-Who did you expect?	Wen habt ihr erwartet?	आपको किसकी उम्मीद थी?
-Who do you talk to?	Mit wem sprichst du?	आप बात करने वाले कौन होते हो?
 Who else was there?	Wer war sonst noch da?	और कौन था?
 Who gave the order?	Wer hat das veranlasst?	किसने प्रेरित किया?
 Who is visiting us?	Wer besucht uns?	हमसे मिलने कौन है?
