@@ -41205,3 +41205,11 @@ What Tom says is true.	Was Tom sagt, ist wahr.	जो टॉम कहता ह
 What a beautiful baby!	Was für ein schönes Baby!	कितना सुंदर बच्चा है!
 What a beautiful city!	Was für eine schöne Stadt!	कितना सुंदर शहर है!
 What a beautiful town!	Was für eine schöne Stadt!	कितना सुंदर गाँव है!
+What a beautiful view!	Was für eine wunderschöne Aussicht!	कितना सुंदर दृश्य है!
+What a disappointment!	Was für eine Enttäuschung!	कितना निराशाजनक है!
+What a dreadful color!	Was für eine furchtbare Farbe!	कितना भयानक रंग है!
+What a fantastic idea!	Was für eine fantastische Idee!	कितना शानदार विचार है!
+What a fool I've been!	Was für ein Narr ich war!	मैं कितना बेवकूफ था!
+What a generous offer!	Was für ein großzügiges Angebot!	कितना उदार प्रस्ताव है!
+What a lovely morning!	Was für ein schöner Morgen!	कितना प्यारा सुबह है!
+What a lovely thought!	Was für ein schöner Gedanke!	कितना प्यारा विचार है!
