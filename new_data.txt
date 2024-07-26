@@ -32101,3 +32101,13 @@ I sometimes watch TV.	Manchmal sehe ich fern.	कभी-कभी मैं ट�
 I sort of understand.	Ich verstehe so einigermaßen.	मुझे समझ आया।
 I started this topic.	Ich habe dieses Thema begonnen.	मैंने यह विषय शुरू किया।
 I still don't see it.	Ich sehe es immer noch nicht.	मुझे अब भी नहीं दिखाई देता।
+I still teach French.	Ich unterrichte immer noch Französisch.	मैं अब भी फ्रांसीसी पढ़ाता हूं।
+I still write poetry.	Ich schreibe immer noch Gedichte.	मैं अब भी कविताएँ लिखता हूँ।
+I studied last night.	Ich habe gestern Abend gelernt.	मैंने कल रात पढ़ाई की।
+I suppose he'll come.	Ich denke, er wird kommen.	मुझे लगता है कि वह आएगा।
+I talked about music.	Ich habe über Musik gesprochen.	मैंने संगीत के बारे में बात की।
+I tell you the truth.	Ich sage dir die Wahrheit.	मैं तुम्हें सच्चाई बताता हूँ।
+I thank you for that.	Ich danke dir dafür.	उसके लिए मैं आपका धन्यवाद करता हूँ।
+I think I can fix it.	Ich denke, ich kann es reparieren.	मुझे लगता है कि मैं इसे ठीक कर सकता हूँ।
+I think I could help.	Ich denke, ich könnte helfen.	मुझे लगता है कि मैं मदद कर सकता हूँ।
+I think I get it now.	Ich glaube, ich verstehe es jetzt.	मुझे लगता है कि अब मुझे समझ आ गई है।

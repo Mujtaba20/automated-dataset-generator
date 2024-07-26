@@ -1,14 +1,4 @@
 
-I still teach French.	Ich unterrichte immer noch Französisch.	मैं अभी भी फ्रेंच सिखाता हूं।
-I still write poetry.	Ich schreibe noch immer Gedichte.	मैं अभी भी कविताएँ लिखता हूं।
-I studied last night.	Ich studierte letzte Nacht.	मैंने कल रात अध्ययन किया।
-I suppose he'll come.	Er wird wohl kommen.	वह आएगा।
-I talked about music.	Ich habe über Musik gesprochen.	मैंने संगीत के बारे में बात की।
-I tell you the truth.	Ich sage dir die Wahrheit.	में सही बोल रहा हु।
-I thank you for that.	Ich danke dir dafür.	मैं आपको इसके लिए धन्यवाद देता हूं।
-I think I can fix it.	Ich glaube, ich kann das reparieren.	मुझे लगता है कि मैं इसकी मरम्मत कर सकता हूं।
-I think I could help.	Ich denke, ich könnte helfen.	मुझे लगता है कि मैं मदद कर सकता हूं।
-I think I get it now.	Ich glaube, ich habe es jetzt kapiert.	मुझे लगता है कि मुझे अब मिल गया है।
 I think I understand.	Ich glaube, dass ich es verstehe.	मुझे लगता है कि मैं इसे समझता हूं।
 I think I understood.	Ich glaube, ich habe verstanden.	मुझे लगता है कि मैं समझ गया।
 I think I'll be fine.	Ich glaube, es wird mir gut gehen.	मुझे लगता है कि मैं ठीक हूं।
