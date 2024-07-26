@@ -33831,3 +33831,11 @@ They started running.	Sie fingen an zu rennen.	उन्होंने दौ�
 They started talking.	Sie begannen zu sprechen.	उन्होंने बातचीत शुरू की।
 They stopped hugging.	Sie hörten auf zu umarmen.	उन्होंने गले लगाना बंद कर दिया।
 They stopped running.	Sie hörten auf zu rennen.	उन्होंने दौड़ना बंद कर दिया।
+They stopped singing.	Sie hörten auf zu singen.	उन्होंने गाना बंद कर दिया।
+They stopped talking.	Sie hörten auf zu reden.	उन्होंने बात करना बंद कर दिया।
+They stopped walking.	Sie hörten auf zu gehen.	वे चलना बंद कर दिया।
+They talked politics.	Sie sprachen über Politik.	उन्होंने राजनीति की बात की।
+They took a big risk.	Sie gingen ein großes Risiko ein.	उन्होंने एक बड़ा जोखिम लिया।
+They took the subway.	Sie fuhren mit der U-Bahn.	उन्होंने मेट्रो ली।
+They understood that.	Sie verstanden das.	उन्हें समझ आया।
+They used that table.	Sie benutzten diesen Tisch.	उन्होंने उसी मेज़ का इस्तेमाल किया।

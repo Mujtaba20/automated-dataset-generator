@@ -1,14 +1,4 @@
 
-They stopped singing.	Sie hörten auf zu singen.	उन्होंने गाना बंद कर दिया।
-They stopped talking.	Sie hörten auf zu reden.	उन्होंने बात करना बंद कर दिया।
-They stopped walking.	Sie blieben stehen.	वे रुक गये।
-They talked politics.	Sie sprachen über Politik.	आपने राजनीति के बारे में बात की।
-They took a big risk.	Sie nahmen ein großes Risiko in Kauf.	उन्होंने एक बड़ा जोखिम स्वीकार किया।
-They took the subway.	Sie nahmen die U-Bahn.	उन्होंने मेट्रो ले लिया।
-They took the subway.	Sie fuhren mit der Untergrundbahn.	वे भूमिगत के साथ चले गए।
-They understood that.	Sie haben das verstanden.	आप समझ गए।
-They used that table.	Sie haben diesen Tisch verwendet.	आपने इस तालिका का उपयोग किया।
-They used that table.	Sie haben den Tisch dort verwendet.	आपने वहां टेबल का इस्तेमाल किया।
 They walked upstairs.	Sie gingen die Treppe hinauf.	वे सीढ़ियों से ऊपर गए।
 They walked upstairs.	Sie gingen treppauf.	वे सीढ़ियों से चले गए।
 They walked upstairs.	Sie gingen nach oben.	वे ऊपर गए।
