@@ -31601,3 +31601,12 @@ I don't like to fail.	Ich mag es nicht zu versagen.	मुझे असफलत
 I don't like to lose.	Ich mag nicht verlieren.	मुझे हारना पसंद नहीं है।
 I don't like to sing.	Ich singe nicht gerne.	मुझे गाना पसंद नहीं है।
 I don't like to walk.	Ich gehe nicht gerne.	मुझे चलना पसंद नहीं है।
+I don't like to work.	Ich mag es nicht zu arbeiten.	मुझे काम करना पसंद नहीं है।
+I don't like waiting.	Ich mag nicht warten.	मुझे प्रतीक्षा करना पसंद नहीं है।
+I don't like writing.	Ich mag nicht schreiben.	मुझे लिखना पसंद नहीं है।
+I don't mind waiting.	Es macht mir nichts aus zu warten.	मुझे इंतजार करने में कोई बात नहीं है।
+I don't need a break.	Ich brauche keine Pause.	मुझे एक ब्रेक की आवश्यकता नहीं है।
+I don't need anybody.	Ich brauche niemanden.	मुझे किसी की आवश्यकता नहीं है।
+I don't need glasses.	Ich brauche keine Brille.	मुझे चश्मा की आवश्यकता नहीं है।
+I don't normally lie.	Normalerweise lüge ich nicht.	मैं सामान्यत: झूठ नहीं बोलता।
+I don't recognize it.	Ich erkenne es nicht.	मैं इसे पहचान नहीं पा रहा हूँ।

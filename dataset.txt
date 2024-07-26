@@ -1,15 +1,4 @@
 
-I don't like to work.	Ich arbeite nicht gerne.	मुझे काम करना पसंद नहीं है।
-I don't like waiting.	Ich warte nicht gerne.	मुझे इंतजार करना पसंद नहीं है।
-I don't like writing.	Ich schreibe nicht gern.	मुझे लिखना पसंद नहीं है।
-I don't mind waiting.	Es stört mich nicht zu warten.	यह मुझे इंतजार करने के लिए परेशान नहीं करता है।
-I don't need a break.	Ich brauche keine Pause.	मुझे ब्रेक की जरूरत नहीं है।
-I don't need anybody.	Ich brauche niemanden.	मुझे किसी की जरूरत नहीं है।
-I don't need glasses.	Ich brauche keine Brille.	मुझे चश्मे की जरूरत नहीं है।
-I don't normally lie.	Ich lüge normalerweise nicht.	मैं आमतौर पर झूठ नहीं बोलता।
-I don't recognize it.	Ich erkenne es nicht.	मैं इसे नहीं पहचानता।
-I don't recognize it.	Ich erkenne ihn nicht.	मैं उसे नहीं पहचानता।
-I don't recognize it.	Ich erkenne sie nicht.	मैं उन्हें नहीं पहचानता।
 I don't remember you.	Ich erinnere mich nicht an dich.	मुझे आपको याद नहीं है।
 I don't see anything.	Ich sehe nichts.	मुझे कुछ समझ नहीं आता।
 I don't speak French.	Ich spreche kein Französisch.	मैं फ्रेंच में बात नहीं कर पाता हूं।
