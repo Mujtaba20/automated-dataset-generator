@@ -25945,3 +25945,13 @@ How do you spell it?	Wie buchstabiert man das?	इसे तुम कैसे 
 How does he do this?	Wie macht er das?	वह यह कैसे करता है?
 How does that sound?	Wie klingt das?	यह कैसा लग रहा है?
 How does that sound? [different meaning]	Wie klingt das?	ये कैसा लग रहा है?
+How does this sound?	Wie klingt das?	यह कैसा लग रहा है?
+How else can he act?	Wie kann er sonst handeln?	वह और कैसे कार्य कर सकता है?
+How far away are we?	Wie weit sind wir weg?	हम कितनी दूर हैं?
+How is it at school?	Wie ist es in der Schule?	स्कूल में कैसा है?
+How is married life?	Wie ist das verheiratete Leben?	शादीशुदा जीवन कैसा है?
+How is that spelled?	Wie wird das buchstabiert?	वह कैसे वर्तनी होता है?
+How is your brother?	Wie geht es deinem Bruder?	तुम्हारे भाई कैसे हैं?
+How long ago was it?	Wie lange ist es her?	यह कितने समय पहले था?
+How long do we have?	Wie lange haben wir?	हमारे पास कितना समय है?
+How many were there?	Wie viele waren da?	वहाँ कितने थे?
