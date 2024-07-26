@@ -27518,3 +27518,10 @@ Let me eat in peace.	Lass mich in Ruhe essen.	मुझे शांति स�
 Let me go just once.	Lass mich nur einmal gehen.	मुझे एक बार जाने दो।
 Let me have a taste.	Lass mich kosten.	मुझे एक टेस्ट दें।
 Let me look into it.	Lass mich das überprüfen.	मुझे इसे देखने दो।
+Let me pay my share.	Lass mich meinen Anteil bezahlen.	मुझे मेरा हिस्सा चुकाने दे।
+Let me try it again.	Lass mich es noch einmal versuchen.	मुझे फिरसे कोशिश करने दे।
+Let me win for once.	Lass mich einmal gewinnen.	मुझे एक बार जीतने दे।
+Let the matter drop.	Lassen Sie die Sache fallen.	चलो मुद्दा छोड़ो।
+Let's all calm down.	Lasst uns alle ruhig bleiben.	आओ सब शांत हों।
+Let's call a doctor.	Lassen Sie einen Arzt rufen.	एक डॉक्टर को बुलाएं।
+Let's call it a day.	Lassen Sie uns den Tag beenden.	आओ इसे एक दिन कहें।
