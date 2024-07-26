@@ -38805,3 +38805,12 @@ May I borrow your pen?	Kann ich deinen Stift ausleihen?	क्या मैं �
 May I have a glass of water?	Kann ich ein Glas Wasser haben?	क्या मुझे एक गिलास पानी मिल सकता है?
 May I come right over?	Darf ich gleich kommen?	क्या मैं तुरंत आ सकता हूँ?
 May I do it right now?	Kann ich es jetzt machen?	क्या मैं अभी इसे कर सकता हूँ?
+May I eat that orange?	Darf ich diese Orange essen?	क्या मैं उस संतरे को खा सकता हूँ?
+May I eat this orange?	Darf ich diese Orange essen?	क्या मैं इस संतरे को खा सकता हूँ?
+May I escort you home?	Darf ich dich nach Hause begleiten?	क्या मैं तुझे घर छोड़ सकता हूँ?
+May I go to the river?	Darf ich zum Fluss gehen?	क्या मैं नदी के पास जा सकता हूँ?
+May I have this dance?	Darf ich diesen Tanz haben?	क्या मैं इस नृत्य को कर सकता हूँ?
+May I leave a message?	Darf ich eine Nachricht hinterlassen?	क्या मैं एक संदेश छोड़ सकता हूँ?
+May I lie on the sofa?	Darf ich auf dem Sofa liegen?	क्या मैं सोफ़े पर लेट सकता हूँ?
+May I open the window?	Darf ich das Fenster öffnen?	क्या मैं खिड़की खोल सकता हूँ?
+May I show you around?	Darf ich Ihnen die Gegend zeigen?	क्या मैं आपको दिखाऊँ?

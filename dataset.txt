@@ -1,14 +1,4 @@
 
-May I eat that orange?	Darf ich die Apfelsine da essen?	क्या मैं सेब खा सकता हूं?
-May I eat this orange?	Darf ich diese Orange essen?	क्या मैं यह नारंगी खा सकता हूं?
-May I eat this orange?	Darf ich diese Apfelsine essen?	क्या मैं यह सेब खा सकता हूं?
-May I escort you home?	Darf ich Sie nach Hause begleiten?	क्या मैं आपके साथ घर जा सकता हूं?
-May I go to the river?	Darf ich zum Fluss gehen?	क्या मैं नदी में जा सकता हूँ?
-May I have this dance?	Darf ich um diesen Tanz bitten?	क्या मैं इस नृत्य के लिए पूछ सकता हूँ?
-May I leave a message?	Kann ich eine Nachricht hinterlassen?	क्या मैं एक संदेश छोड़ सकता हूं?
-May I lie on the sofa?	Kann ich mich auf das Sofa legen?	क्या मैं सोफे पर झूठ बोल सकता हूं?
-May I open the window?	Darf ich das Fenster öffnen?	क्या मैं खिड़की खोल दूं?
-May I show you around?	Darf ich Sie herumführen?	क्या मैं उन्हें चारों ओर ले जा सकता हूं?
 May I sit in the back?	Darf ich hinten sitzen?	क्या मैं पीठ में बैठ सकता हूँ?
 May I sit next to you?	Darf ich neben dir sitzen?	क्या मैं आपके बगल में बैठ सकता हूं?
 May I sit next to you?	Darf ich neben Ihnen sitzen?	क्या मैं आपके बगल में बैठ सकता हूं?
