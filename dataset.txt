@@ -1,14 +1,4 @@
 
-I can't stand cowards.	Ich kann Feiglinge nicht ausstehen.	मैं काउलिंग को खड़ा नहीं कर सकता।
-I can't stand fishing.	Ich kann Angeln nicht ausstehen.	मैं मछली पकड़ने के लिए खड़ा नहीं हो सकता।
-I can't stay for long.	Ich kann nicht lange bleiben.	मैं लंबे समय तक नहीं रह सकता।
-I can't steal for you.	Ich kann nicht für dich stehlen.	मैं तुम्हारे लिए चोरी नहीं कर सकता।
-I can't steal for you.	Ich kann für Sie keinen Diebstahl begehen.	मैं आपके लिए चोरी नहीं कर सकता।
-I can't stop coughing.	Ich kann nicht aufhören zu husten.	मैं खांसी बंद नहीं कर सकता।
-I can't stop laughing.	Ich kann nicht aufhören zu lachen.	मैं हंसी रोक नहीं पा रहा।
-I can't stop sneezing.	Ich kann nicht aufhören zu niesen.	मैं छींकना बंद नहीं कर सकता।
-I can't study at home.	Ich kann nicht zu Hause lernen.	मैं घर पर नहीं सीख सकता।
-I can't take the heat.	Ich kann die Hitze nicht ertragen.	मैं गर्मी को सहन नहीं कर सकता।
 I can't talk to girls.	Ich kann nicht mit Mädchen reden.	मैं लड़कियों से बात नहीं कर सकता।
 I can't talk to women.	Ich kann mit Frauen kein Gespräch führen.	मैं महिलाओं के साथ बातचीत नहीं कर सकता।
 I can't talk to women.	Ich kann mich mit Frauen nicht unterhalten.	मैं महिलाओं से बात नहीं कर सकती।

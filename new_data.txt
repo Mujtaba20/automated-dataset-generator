@@ -37177,3 +37177,12 @@ I can't see very well.	Ich kann nicht sehr gut sehen.	मैं बहुत अ
 I can't see who it is.	Ich kann nicht sehen, wer es ist.	मैं यह नहीं देख सकता कि यह कौन है।
 I can't sell you that.	Ich kann dir das nicht verkaufen.	मैं तुम्हें यह नहीं बेच सकता।
 I can't show you this.	Ich kann dir das nicht zeigen.	मैं तुम्हें यह नहीं दिखा सकता।
+I can't stand cowards.	Ich kann Feiglinge nicht ertragen.	मैं कायरों का सामना नहीं कर सकता।
+I can't stand fishing.	Ich kann das Angeln nicht ertragen.	मैं मछली पकड़ने का सामना नहीं कर सकता।
+I can't stay for long.	Ich kann nicht lange bleiben.	मैं लंबे समय तक नहीं रुक सकता।
+I can't steal for you.	Ich kann nicht für dich stehlen.	मैं तुम्हारे लिए चोरी नहीं कर सकता।
+I can't stop coughing.	Ich kann nicht aufhören zu husten.	मैं खांसना बंद नहीं कर सकता।
+I can't stop laughing.	Ich kann nicht aufhören zu lachen.	मैं हंसना बंद नहीं कर सकता।
+I can't stop sneezing.	Ich kann nicht aufhören zu niesen.	मैं छींकना बंद नहीं कर सकता।
+I can't study at home.	Ich kann nicht zu Hause studieren.	मैं घर पर पढ़ाई नहीं कर सकता।
+I can't take the heat.	Ich kann die Hitze nicht ertragen.	मैं गर्मी सह नहीं सकता।
