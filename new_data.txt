@@ -21412,3 +21412,10 @@ I know your sister.	Ich kenne deine Schwester.	मैं तुम्हार�
 I lack imagination.	Mir fehlt Vorstellungskraft.	मुझे कल्पना की कमी है।
 I lay awake in bed.	Ich liege wach im Bett.	मैं बिस्तर पर जागता रहता हूँ।
 I left Tom in 2013.	Ich habe Tom im Jahr 2013 verlassen.	मैंने 2013 में टॉम को छोड़ दिया था।
+I left it unlocked.	Ich habe es unverschlossen gelassen.	मैंने इसे अनलॉक कर दिया।
+I left the country.	Ich habe das Land verlassen.	मैंने देश छोड़ दिया।
+I like Boston, too.	Ich mag auch Boston.	मुझे बोस्टन भी पसंद है।
+I like L.A. better.	Ich mag L.A. lieber.	मुझे L.A. अच्छा लगता है।
+I like Tom already.	Ich mag Tom schon.	मुझे तोम पहले से पसंद है।
+I like Tom's smile.	Ich mag Toms Lächeln.	मुझे टॉम की मुस्कान पसंद है।
+I like Tom's voice.	Ich mag Toms Stimme.	मुझे टॉम की आवाज़ पसंद है।

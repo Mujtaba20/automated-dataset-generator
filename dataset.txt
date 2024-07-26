@@ -1,14 +1,4 @@
 
-I left it unlocked.	Ich ließ es unverschlossen.	मैंने इसे अनलॉक कर दिया।
-I left the country.	Ich habe das Land verlassen.	मैंने देश छोड़ दिया।
-I like Boston, too.	Ich mag Boston auch.	मुझे बोस्टन भी पसंद है।
-I like L.A. better.	L.A. mag ich lieber.	L.A. मैं पसंद करता हूं।
-I like Tom already.	Ich mag Tom jetzt schon.	मुझे पहले से ही टॉम पसंद है।
-I like Tom's smile.	Ich mag Toms Lächeln.	मुझे टॉम की मुस्कान पसंद है।
-I like Tom's voice.	Ich mag Toms Stimme.	मुझे टॉम की आवाज पसंद है।
-I like Tom's voice.	Mir gefällt Toms Stimme.	मुझे टॉम की आवाज पसंद है।
-I like Tom's voice.	Toms Stimme mag ich.	मुझे टॉम की आवाज पसंद है।
-I like Tom's voice.	Toms Stimme gefällt mir.	मुझे टॉम की आवाज पसंद है।
 I like all of them.	Ich mag sie alle.	मुझे वो सब पसद है।
 I like apples best.	Am liebsten mag ich Äpfel.	मैं सेब पसंद करना पसंद करता हूं।
 I like being alone.	Ich bin gerne allein.	मुझे अकेला रहना पसंद है।
