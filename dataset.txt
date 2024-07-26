@@ -1,14 +1,4 @@
 
-Tom hasn't decided yet.	Tom hat sich noch nicht entschieden.	टॉम ने अभी तक फैसला नहीं किया है।
-Tom hasn't done enough.	Tom hat nicht genug getan.	टॉम ने पर्याप्त नहीं किया।
-Tom hasn't done it yet.	Tom hat es noch nicht getan.	टॉम ने अभी तक ऐसा नहीं किया है।
-Tom hasn't done it yet.	Tom hat’s noch nicht getan.	टॉम ने अभी तक ऐसा नहीं किया है।
-Tom hasn't paid us yet.	Tom hat uns noch nicht bezahlt.	टॉम ने अभी तक हमें भुगतान नहीं किया है।
-Tom hates being rushed.	Tom hasst es, wenn man ihn hetzt.	जब आप उसे जल्दी करते हैं तो टॉम इसे नफरत करता है।
-Tom hates his neighbor.	Tom hasst seinen Nachbarn.	टॉम अपने पड़ोसियों से नफरत करता है।
-Tom hates these things.	Tom hasst diese Sachen.	टॉम इन चीजों से नफरत करता है।
-Tom heard Mary sobbing.	Tom hörte Maria schluchzen.	टॉम ने मारिया स्नेज़ को सुना।
-Tom heard Mary talking.	Tom hörte Maria reden.	टॉम ने मारिया को बात करते हुए सुना।
 Tom heard Mary yelling.	Tom hörte Maria schreien.	टॉम ने मारिया चिल्लाते हुए सुना।
 Tom heard Mary yelling.	Tom hat Maria schreien hören.	टॉम ने मारिया चिल्लाते हुए सुना।
 Tom heard Mary's voice.	Tom vernahm Marias Stimme.	टॉम ने मैरी की आवाज सुनी।
