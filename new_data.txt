@@ -21711,3 +21711,11 @@ I want what's mine.	Ich will, was mir gehört.	मैं चाहता हू�
 I want you to come.	Ich möchte, dass du kommst.	मैं चाहता हूँ कि तुम आओ।
 I want you to sing.	Ich will, dass du singst.	मैं चाहता हूँ कि तुम गाओ।
 I want you to stay.	Ich möchte, dass du bleibst.	मैं चाहता हूँ कि तुम रुको।
+I want you to stop.	Ich möchte, dass du aufhörst.	मुझे चाहिए कि तुम रुको।
+I want you to wait.	Ich möchte, dass du wartest.	मुझे चाहिए कि तुम इंतज़ार करो।
+I want you with me.	Ich möchte dich bei mir haben.	मुझे चाहिए कि तुम मेरे साथ हो।
+I wanted red shoes.	Ich wollte rote Schuhe.	मुझे लाल जूते चाहिए थे।
+I wanted to say no.	Ich wollte nein sagen.	मैंने ना कहना चाहा था।
+I was a chubby kid.	Ich war ein pummeliges Kind.	मैं एक मोटे बच्चा था।
+I was almost right.	Ich hatte so gut wie recht.	मैं लगभग सही था।
+I was asked to lie.	Man bat mich, zu lügen.	मुझसे झूठ बोलने के लिए कहा गया था।
