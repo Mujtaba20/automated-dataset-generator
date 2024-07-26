@@ -1,16 +1,4 @@
 
-What was your name?	Wie war noch mal dein Name?	आपका नाम फिर से कैसा था?
-What were you told?	Was hat man dir gesagt?	आपने क्या बताया?
-What were you told?	Was hat man euch gesagt?	आपने क्या बताया?
-What were you told?	Was hat man Ihnen gesagt?	आपने क्या बताया?
-What were you told?	Was wurde dir gesagt?	आपको क्या बताया गया था?
-What were you told?	Was wurde euch gesagt?	आपको क्या बताया गया था?
-What were you told?	Was wurde Ihnen gesagt?	आपको क्या बताया गया था?
-What will you have?	Was bekommst du?	आपको क्या मिल रहा है?
-What will you make?	Was wirst du machen?	आप क्या करने जा रहे हैं?
-What will you wear?	Was ziehst du an?	आप क्या पहनेंगे?
-What will you wear?	Was ziehen Sie an?	आप क्या आकर्षित करते हैं?
-What will you wear?	Was zieht ihr an?	आप क्या आकर्षित करते हैं?
 What'll Tom do now?	Was wird Tom jetzt tun?	टॉम अब क्या करेगा?
 What'll happen now?	Was wird jetzt passieren?	अब क्या हो?
 What'll it be like?	Wie wird es sein?	यह कैसे होने जा रहा है?

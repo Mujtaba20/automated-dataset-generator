@@ -24548,3 +24548,9 @@ What station is it?	Welcher Bahnhof ist das?	यह कौन सा स्थ�
 What vile behavior!	Welches abscheuliche Verhalten!	कितना घिनौना व्यवहार!
 What was Tom up to?	Was hatte Tom vor?	टॉम क्या कर रहा था?
 What was discussed?	Worüber wurde gesprochen?	क्या चर्चा हुई थी?
+What was your name?	Wie war dein Name?	तुम्हारा नाम क्या था?
+What were you told?	Was wurde dir gesagt?	तुम्हें क्या कहा गया था?
+What were you told? (different meaning)	Was hast du gehört?	तुम्हें क्या सुनाया गया था?
+What will you have?	Was wirst du haben?	तुम्हारे पास क्या होगा?
+What will you make?	Was wirst du machen?	तुम क्या बनाओगे?
+What will you wear?	Was wirst du tragen?	तुम क्या पहनोगे?
