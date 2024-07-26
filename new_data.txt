@@ -32171,3 +32171,12 @@ I thought I was dead.	Ich dachte, ich sei tot.	मुझे लगा मैं 
 I thought Tom did it.	Ich dachte, Tom hat es gemacht.	मुझे लगा टॉम ने यह किया।
 I thought about that.	Ich habe darüber nachgedacht.	मैंने उसके बारे में सोचा।
 I thought you'd left.	Ich dachte, du wärst gegangen.	मुझे लगा तुम चले गए हो।
+I told Tom the story.	Ich habe Tom die Geschichte erzählt.	मैंने टॉम को कहानी बताई।
+I told Tom the truth.	Ich habe Tom die Wahrheit gesagt.	मैंने टॉम को सच कहा।
+I told her not to go.	Ich habe ihr gesagt, nicht zu gehen.	मैंने उसे कहा कि न जाए।
+I told you the truth.	Ich habe dir die Wahrheit gesagt.	मैंने तुम्हें सच कहा।
+I took Tom's picture.	Ich habe ein Bild von Tom gemacht.	मैंने टॉम की तस्वीर ली।
+I took that from Tom.	Ich habe das von Tom genommen.	मैंने वह टॉम से लिया।
+I took the wrong bus.	Ich bin in den falschen Bus gestiegen.	मैंने गलत बस में चढ़ लिया।
+I totally understand.	Ich verstehe vollkommen.	मैं पूरी तरह समझता हूँ।
+I traveled by myself.	Ich bin alleine gereist.	मैंने अकेले सफ़र किया।
