@@ -1,14 +1,4 @@
 
-Tom has a small garden.	Tom hat einen kleinen Garten.	टॉम में एक छोटा बगीचा है।
-Tom has a special gift.	Tom hat eine besondere Gabe.	टॉम के पास एक विशेष उपहार है।
-Tom has a time machine.	Tom hat eine Zeitmaschine.	टॉम के पास एक टाइम मशीन है।
-Tom has a twin brother.	Tom hat einen Zwillingsbruder.	टॉम का एक जुड़वां भाई है।
-Tom has athlete's foot.	Tom hat Fußpilz.	टॉम के पास एथलीट का पैर है।
-Tom has autographed it.	Tom hat es signiert.	टॉम ने इस पर हस्ताक्षर किए।
-Tom has been acquitted.	Tom ist freigesprochen worden.	टॉम को बरी कर दिया गया है।
-Tom has been in prison.	Tom hat im Gefängnis gesessen.	टॉम जेल में बैठ गया।
-Tom has big, blue eyes.	Tom hat große, blaue Augen.	टॉम की बड़ी, नीली आँखें हैं।
-Tom has bushy eyebrows.	Tom hat buschige Augenbrauen.	टॉम की बुश भौंहें हैं।
 Tom has cerebral palsy.	Tom hat cerebrale Kinderlähmung.	टॉम में सेरेब्रल पक्षाघात है।
 Tom has cerebral palsy.	Tom hat die Littlesche Krankheit.	टॉम को लिटलचे की बीमारी है।
 Tom has cerebral palsy.	Tom hat infantile Cerebralparese.	टॉम में शिशु सेरेब्रल पाल्सी है।
