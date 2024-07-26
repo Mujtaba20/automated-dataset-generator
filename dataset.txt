@@ -1,15 +1,4 @@
 
-No one believes you.	Niemand glaubt dir.	कोई भी आप पर विश्वास नहीं करता है।
-No one believes you.	Niemand glaubt euch.	कोई भी आप पर विश्वास नहीं करता है।
-No one believes you.	Niemand glaubt Ihnen.	कोई भी उन पर विश्वास नहीं करता है।
-No one believes you.	Keiner glaubt dir.	कोई भी आप पर विश्वास नहीं करता है।
-No one believes you.	Keiner glaubt euch.	कोई भी आप पर विश्वास नहीं करता है।
-No one believes you.	Keiner glaubt Ihnen.	कोई भी उन पर विश्वास नहीं करता है।
-No one came up here.	Hier herauf kam niemand.	यहां कोई नहीं आया।
-No one came with me.	Niemand kam mit mir.	मेरे साथ कोई नहीं आया।
-No one came with me.	Niemand ist mit mir gekommen.	मेरे साथ कोई नहीं आया।
-No one can help Tom.	Niemand kann Tom helfen.	कोई भी टॉम की मदद नहीं कर सकता।
-No one can help Tom.	Keiner kann Tom helfen.	कोई भी टॉम की मदद नहीं कर सकता।
 No one can help you.	Keiner kann dir helfen.	कोई भी आपकी मदद नहीं कर सकता।
 No one can help you.	Keiner kann Ihnen helfen.	कोई भी उनकी सहायता नहीं कर सकता है।
 No one can help you.	Keiner kann euch helfen.	कोई भी आपकी मदद नहीं कर सकता।

@@ -27685,3 +27685,7 @@ No man is an island.	Kein Mensch ist eine Insel.	कोई व्यक्ति
 No one ate anything.	Niemand hat etwas gegessen.	कोई कुछ नहीं खाया।
 No one believed him.	Niemand glaubte ihm.	किसी ने उसकी बात नहीं मानी।
 No one believes him.	Niemand glaubt ihm.	कोई उसे नहीं मानता।
+No one believes you.	Niemand glaubt dir.	कोई नहीं मानता तुम्हें।
+No one came up here.	Niemand kam hierher.	यहाँ कोई नहीं आया।
+No one came with me.	Niemand kam mit mir.	किसी ने मेरे साथ नहीं आया।
+No one can help Tom.	Niemand kann Tom helfen.	कोई तोम की मदद नहीं कर सकता।
