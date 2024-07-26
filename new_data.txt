@@ -35900,3 +35900,9 @@ You'd better come in.	Du solltest reinkommen.	तुम्हें बेहत
 You'd better go home.	Geh lieber nach Hause.	तुम्हें घर जाना बेहतर है।
 You'll be very sorry.	Du wirst es sehr bereuen.	तुम बहुत पछताओगे।
 You'll die out there.	Du wirst dort sterben.	तुम वहाँ मरोगे।
+You'll get over this.	Du wirst darüber hinwegkommen.	तुम इसे पार कर जाओगे।
+You'll get pneumonia.	Du wirst Lungenentzündung bekommen.	तुमें निमोनिया हो जाएगा।
+You'll get well soon.	Du wirst bald gesund werden.	तुम जल्द ही ठीक हो जाओगे।
+You'll never make it.	Du wirst es niemals schaffen.	तुम कभी नहीं कर पाओगे।
+You'll never stop me.	Du wirst mich nie aufhalten.	तुम मुझे कभी नहीं रोक सकते।
+You'll soon find out.	Du wirst bald herausfinden.	तुम जल्द ही पता कर लोगे।

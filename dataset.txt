@@ -1,17 +1,4 @@
 
-You'll get over this.	Du wirst darüber hinwegkommen.	तुम इसे खत्म कर दोगे।
-You'll get over this.	Sie werden darüber hinwegkommen.	तुम इसे खत्म कर दोगे।
-You'll get pneumonia.	Du wirst dir eine Lungenentzündung holen.	आपको निमोनिया मिलेगा।
-You'll get well soon.	Du wirst bald wieder gesund sein.	आप जल्द ही फिर से स्वस्थ हो जाएंगे।
-You'll get well soon.	Es wird dir bald besser gehen.	यह जल्द ही आपके लिए बेहतर होगा।
-You'll never make it.	Du wirst das nie schaffen.	आप ऐसा कभी नहीं करेंगे।
-You'll never stop me.	Du wirst mich nie aufhalten.	आप मुझे कभी नहीं रोकेंगे।
-You'll never stop me.	Ihr werdet mich nie aufhalten.	आप मुझे कभी नहीं रोकेंगे।
-You'll never stop me.	Sie werden mich nie aufhalten.	आप मुझे कभी नहीं रोकेंगे।
-You'll soon find out.	Das wirst du bald herausfinden.	आपको जल्द ही पता चलेगा।
-You'll soon find out.	Du wirst es bald herausbekommen.	आप इसे जल्द ही बाहर निकाल देंगे।
-You'll soon find out.	Sie werden es bald herausbekommen.	आप इसे जल्द ही बाहर निकाल देंगे।
-You'll soon find out.	Ihr werdet es bald herausbekommen.	आप जल्द ही इसे बाहर निकाल देंगे।
 You're a filthy liar!	Du bist ein dreckiger Lügner!	आप एक गंदे झूठे हैं!
 You're a filthy liar!	Sie sind ein dreckiger Lügner!	आप एक गंदे झूठे हैं!
 You're a good driver.	Du bist ein guter Fahrer.	आप एक अच्छे ड्राइवर हैं।
