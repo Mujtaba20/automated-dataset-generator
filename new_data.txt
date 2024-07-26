@@ -25348,3 +25348,10 @@ Do you like dancing?	Magst du tanzen?	क्या आपको नृत्य 
 Do you like driving?	Fährst du gerne?	क्या तुम्हें ड्राइविंग पसंद है?
 Do you like it here?	Gefällt es dir hier?	क्या तुम्हें यहाँ पसंद है?
 Do you like it then?	Magst du es dann?	क्या तब तक तुम्हें यह पसंद है?
+Do you like me, too?	Magst du mich auch?	क्या आप मुझसे भी प्यार करते हैं?
+Do you like mussels?	Magst du Miesmuscheln?	क्या आप मच्छली पसंद करते हैं?
+Do you like my hair?	Magst du meine Haare?	क्या आप मेरे बाल पसंद करते हैं?
+Do you like oranges?	Magst du Orangen?	क्या आप संतरे पसंद करते हैं?
+Do you like running?	Magst du Laufen?	क्या आप दौड़ने की पसंद करते हैं?
+Do you like singing?	Magst du Singen?	क्या आप गाने की फ़िक्र करते हैं?
+Do you like spinach?	Magst du Spinat?	क्या आप पालक पसंद करते हैं?

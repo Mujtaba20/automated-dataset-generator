@@ -1,14 +1,4 @@
 
-Do you like me, too?	Magst du mich auch?	क्या तुम भी मुझे पसंद करते हो?
-Do you like mussels?	Magst du Miesmuscheln?	क्या आपको मसल्स पसंद हैं?
-Do you like my hair?	Gefällt dir mein Haar?	क्या तुम्हे मेरे बाल पसन्द है?
-Do you like oranges?	Mögen Sie Orangen?	क्या तुम्हें संतरे पसंद हैं?
-Do you like oranges?	Magst du Apfelsinen?	क्या तुम्हें सेब पसंद है?
-Do you like running?	Magst du laufen?	क्या आपको भागना पसंद है
-Do you like running?	Laufen Sie gern?	आप दौड़ना पसंद करते हैं?
-Do you like singing?	Singst du gerne?	तुम्हें गायन पसंद है?
-Do you like singing?	Singst du gern?	क्या आपको गाना पसंद है?
-Do you like spinach?	Magst du Spinat?	क्या आपको पालक पसंद है?
 Do you like surfing?	Surfst du gerne?	क्या आप सर्फ करना पसंद करते हैं?
 Do you like surfing?	Surfen Sie gerne?	क्या आप सर्फ करना पसंद करते हैं?
 Do you like surfing?	Surft ihr gerne?	क्या आप सर्फ करना पसंद करते हैं?
