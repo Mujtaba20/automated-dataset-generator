@@ -38170,3 +38170,13 @@ I'm a terrible dancer.	Ich bin eine furchtbare Tänzerin.	मैं एक भ�
 I'm about ready to go.	Ich bin gleich fertig zu gehen.	मैं जल्द ही जाने के लिए तैयार हूँ।
 I'm afraid of heights.	Ich fürchte mich vor Höhen.	मुझे ऊँचाइयों से डर लगता है।
 I'm afraid of my boss.	Ich habe Angst vor meinem Chef.	मुझे मेरे बॉस से डर लगता है।
+I'm almost never late.	Ich bin fast nie zu spät.	मैं लगभग कभी भी देर से नहीं आता।
+I'm almost sure of it.	Ich bin mir dessen fast sicher.	मुझे यकीन है कि यह लगभग है।
+I'm always optimistic.	Ich bin immer optimistisch.	मैं हमेशा आशावादी हूँ।
+I'm as busy as Tom is.	Ich bin genauso beschäftigt wie Tom.	मैं उसी तरह से व्यस्त हूँ जैसे टॉम है।
+I'm at the restaurant.	Ich bin im Restaurant.	मैं रेस्तरां में हूँ।
+I'm being blackmailed.	Ich werde erpresst.	मुझपर ब्लैकमेल किया जा रहा है।
+I'm brushing my teeth.	Ich putze meine Zähne.	मैं अपने दांत साफ कर रहा हूँ।
+I'm busy all the time.	Ich bin die ganze Zeit beschäftigt.	मैं हमेशा व्यस्त रहता हूँ।
+I'm certain I saw Tom.	Ich bin sicher, dass ich Tom gesehen habe.	मुझे यकीन है कि मैंने टॉम को देखा है।
+I'm charging my phone.	Ich lade mein Handy auf.	मैं अपना फोन चार्ज कर रहा हूँ।
