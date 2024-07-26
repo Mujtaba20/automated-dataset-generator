@@ -34042,3 +34042,13 @@ Tom ate a gummy bear.	Tom aß einen Gummibär.	टॉम ने एक गमी
 Tom baked three pies.	Tom backte drei Kuchen.	टॉम ने तीन पाइ बेक किए।
 Tom baked three pies. Duplicate sentence meaning: Tom prepared three desserts.	Tom bereitete drei Desserts zu.	टॉम ने तीन मिठाइयां तैयार की।
 Tom beat me at chess.	Tom schlug mich im Schach.	टॉम ने शतरंज में मुझसे जीत हासिल की।
+Tom became a pianist.	Tom wurde Pianist.	टॉम एक संगीतविद् बन गया।
+Tom became an artist.	Tom wurde Künstler.	टॉम एक कलाकार बन गया।
+Tom became irritated.	Tom wurde gereizt.	टॉम झिझकने लगा।
+Tom became very busy.	Tom wurde sehr beschäftigt.	टॉम बहुत व्यस्त हो गया।
+Tom became very cold.	Tom wurde sehr kalt.	टॉम बहुत ठंडा हो गया।
+Tom became very rich.	Tom wurde sehr reich.	टॉम बहुत अमीर हो गया।
+Tom became very sick.	Tom wurde sehr krank.	टॉम बहुत बीमार हो गया।
+Tom became very weak.	Tom wurde sehr schwach.	टॉम बहुत कमजोर हो गया।
+Tom began hesitantly.	Tom begann zögerlich.	टॉम संदेहपूर्वक शुरू किया।
+Tom begged for mercy.	Tom bettelte um Gnade.	टॉम ने दया के लिए विनती की।
