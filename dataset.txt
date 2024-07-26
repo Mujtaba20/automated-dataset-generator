@@ -1,14 +1,4 @@
 
-Tom is a communist.	Tom ist ein Kommunist.	टॉम एक कम्युनिस्ट है।
-Tom is a daredevil.	Tom ist ein Draufgänger.	टॉम एक साहसी है।
-Tom is a detective.	Tom ist Detektiv.	टॉम एक जासूस है।
-Tom is a gentleman.	Tom ist ein Gentleman.	टॉम एक सज्जन हैं।
-Tom is a good chef.	Tom ist ein guter Koch.	टॉम एक अच्छा रसोइया है।
-Tom is a good cook.	Tom ist ein guter Koch.	टॉम एक अच्छा रसोइया है।
-Tom is a good cook.	Tom kann gut kochen.	टॉम अच्छी तरह से खाना बना सकता है।
-Tom is a good poet.	Tom ist ein guter Dichter.	टॉम एक अच्छे कवि हैं।
-Tom is a good shot.	Tom ist ein guter Schütze.	टॉम एक अच्छा शूटर है।
-Tom is a great guy.	Tom ist ein toller Typ.	टॉम एक महान लड़का है।
 Tom is a great man.	Tom ist ein großartiger Mann.	टॉम एक महान व्यक्ति है।
 Tom is a grown man.	Tom ist ein erwachsener Mann.	टॉम एक वयस्क व्यक्ति है।
 Tom is a happy boy.	Tom ist ein fröhlicher Junge.	टॉम एक खुश लड़का है।

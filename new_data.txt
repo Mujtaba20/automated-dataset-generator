@@ -23574,3 +23574,12 @@ Tom is a brave man.	Tom ist ein mutiger Mann.	टॉम एक बहादु�
 Tom is a carpenter.	Tom ist ein Tischler.	टॉम एक बढ़ई है।
 Tom is a cat lover.	Tom ist ein Katzenliebhaber.	टॉम बिल्ली के प्रेमी हैं।
 Tom is a chauffeur.	Tom ist Chauffeur.	टॉम एक ड्राइवर है।
+Tom is a communist.	Tom ist ein Kommunist.	टॉम एक कम्युनिस्ट है।
+Tom is a daredevil.	Tom ist ein Draufgänger.	टॉम एक दिल दहला देने वाला है।
+Tom is a detective.	Tom ist ein Detektiv.	टॉम एक जासूस है।
+Tom is a gentleman.	Tom ist ein Gentleman.	टॉम एक जेंटलमैन है।
+Tom is a good chef.	Tom ist ein guter Koch.	टॉम एक अच्छे चेफ हैं।
+Tom is a good cook.	Tom ist ein guter Koch.	टॉम एक अच्छे पकाने का कार्य करता है।
+Tom is a good poet.	Tom ist ein guter Dichter.	टॉम एक अच्छे कवि हैं।
+Tom is a good shot.	Tom ist ein guter Schuss.	टॉम एक अच्छे शूटर है।
+Tom is a great guy.	Tom ist ein großartiger Typ.	टॉम एक शानदार आदमी है।
