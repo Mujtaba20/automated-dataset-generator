@@ -1,14 +1,4 @@
 
-I locked myself out.	Ich sperrte mich selbst aus.	मैंने खुद को अवरुद्ध कर दिया।
-I looked everywhere.	Ich habe überall nachgesehen.	मैंने हर जगह जाँच की।
-I lost my composure.	Ich verlor die Beherrschung.	मैंने नियंत्रण खो दिया।
-I lost sight of Tom.	Ich habe Tom aus den Augen verloren.	मैंने टॉम की दृष्टि खो दी।
-I love Chinese food.	Ich mag chinesisches Essen.	मुझे चीनी भोजन पसंद है।
-I love blackberries.	Ich mag Brombeeren.	मुझे ब्लैकबेरी पसंद है।
-I love both of them.	Ich habe sie beide lieb.	मैं उन दोनों को प्यार करता हूँ।
-I love potato salad.	Ich mag Kartoffelsalat.	मुझे आलू का सलाद पसंद है।
-I love strawberries.	Ich liebe Erdbeeren.	मुझे स्ट्रॉबेरी से प्यार है।
-I love that picture.	Ich liebe das Bild.	मुझे यह तस्वीर पसंद है।
 I love this company.	Ich liebe diese Firma.	मुझे यह कंपनी बहुत पसंद है।
 I love this picture.	Ich liebe dieses Foto.	मैं इस तस्वीर को प्यार करता हुँ।
 I love this picture.	Ich liebe dieses Photo.	मैं इस तस्वीर को प्यार करता हुँ।

@@ -26486,3 +26486,13 @@ I like your website.	Mir gefällt deine Webseite.	मुझे तुम्ह�
 I liked Tom's video.	Ich mochte Toms Video.	मैंने टॉम के वीडियो को पसंद किया।
 I liked your speech.	Ich mochte deine Ansprache.	मुझे तुम्हारे भाषण की अच्छी लगी।
 I live in Australia.	Ich lebe in Australien.	मैं ऑस्ट्रेलिया में रहता हूँ।
+I locked myself out.	Ich habe mich ausgesperrt.	मैंने अपने आप को बाहर ताला लगा दिया।
+I looked everywhere.	Ich habe überall geguckt.	मैंने हर जगह देखी।
+I lost my composure.	Ich habe die Fassung verloren.	मैंने अपनी संयम हार दी।
+I lost sight of Tom.	Ich habe Tom aus den Augen verloren.	मैंने टॉम की दृष्टि खो दी।
+I love Chinese food.	Ich liebe chinesisches Essen.	मुझे चाइनीज खाना पसंद है।
+I love blackberries.	Ich liebe Brombeeren.	मुझे ब्लैकबेरी पसंद है।
+I love both of them.	Ich liebe beide.	मुझे दोनों पसंद हैं।
+I love potato salad.	Ich liebe Kartoffelsalat.	मुझे आलू सलाद पसंद है।
+I love strawberries.	Ich liebe Erdbeeren.	मुझे स्ट्रॉबेरी पसंद है।
+I love that picture.	Ich liebe dieses Bild.	मुझे वह चित्र पसंद है।
