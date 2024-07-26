@@ -30231,3 +30231,8 @@ You need to wake up. (another meaning)	Du musst wach werden.	तुम्हे�
 You never helped me.	Du hast mir nie geholfen.	तुमने मुझे कभी मदद नहीं की।
 You ought to go now.	Du solltest jetzt gehen.	तुम्हें अब जाना चाहिए।
 You ran a red light.	Du bist über eine rote Ampel gefahren.	तुमने लाल रोशनी पार की।
+You really annoy me.	Du ärgerst mich wirklich.	तुम मुझे सचमुच परेशान करते हो।
+You really are good.	Du bist wirklich gut.	तुम पर काफी अच्छा असर पड़ता है।
+You reek of alcohol.	Du stinkst nach Alkohol.	तुम शराब से भरपूर हो।
+You saved our lives.	Du hast unser Leben gerettet.	तुम हमारी जिंदगी की भविष्यवाणी कर सकते हैं।
+You seem unreliable.	Du scheinst unzuverlässig zu sein.	तुम अस्थायी लगते हो।
