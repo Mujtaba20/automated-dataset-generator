@@ -25476,3 +25476,11 @@ Eat more vegetables.	Iss mehr Gemüse.	और सब्जियां खाओ
 Eat your vegetables.	Iss dein Gemüse.	अपने सब्जियों को खाओ।
 Elephants eat grass.	Elefanten fressen Gras.	हाथी घास खाते हैं।
 Enjoy your holidays.	Viel Spaß im Urlaub.	अपने हॉलिडे का आनंद लें।
+Enjoy your vacation.	Genieße deinen Urlaub.	अपनी छुट्टियों का आनंद लें।
+Europe is in crisis.	Europa befindet sich in einer Krise.	यूरोप संकट में है।
+Even Tom knows that.	Selbst Tom weiß das.	तोम भी वह जानता है।
+Every minute counts.	Jede Minute zählt.	हर पल मायने रखता है।
+Every seat was full.	Jeder Sitz war besetzt.	हर सीट भरी थी।
+Everybody applauded.	Alle haben applaudiert.	सभी तालियां बजाईं।
+Everybody hates Tom.	Jeder hasst Tom.	हर को टॉम से नफ़रत है।
+Everybody knew that.	Jeder wusste das.	सबको पता था।
