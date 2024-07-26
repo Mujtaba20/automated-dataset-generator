@@ -1,14 +1,4 @@
 
-He's very studious.	Er ist sehr eifrig.	वह बहुत उत्सुक है।
-He's very talented.	Er ist sehr talentiert.	वह बहुत प्रतिभावान है।
-He's wearing a hat.	Er trägt einen Hut.	वह एक टोपी पहनता है।
-He's wearing a hat.	Er hat einen Hut auf.	उसकी टोपी है।
-He's working on it.	Er arbeitet daran.	वह इस पर काम कर रहा है।
-Help is on its way.	Hilfe ist unterwegs.	मदद पहुंचने ही वाली है।
-Help is on its way.	Hilfe ist schon im Anmarsch.	मदद पहले से ही आगे बढ़ रही है।
-Help is on the way.	Hilfe ist unterwegs.	मदद पहुंचने ही वाली है।
-Help is on the way.	Hilfe ist schon im Anmarsch.	मदद पहले से ही आगे बढ़ रही है।
-Help! I can't swim.	Hilfe! Ich kann nicht schwimmen.	मदद करना!मुझे तैरना नहीं आता.
 Help! I'm drowning!	Hilfe! Ich ertrinke!	मदद करना!मैं डूब रहा हूं!
 Her dress was torn.	Ihr Kleid war zerrissen.	उसकी पोशाक फटी हुई थी।
 Her face was sooty.	Ihr Gesicht war voller Ruß.	उसका चेहरा कालिख से भरा था।

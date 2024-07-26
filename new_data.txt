@@ -20925,3 +20925,10 @@ He's short and fat.	Er ist klein und dick.	वह छोटा और मोट�
 He's still at work.	Er arbeitet immer noch.	वह अभी भी काम पर है।
 He's up to no good.	Er hat nichts Gutes im Sinn.	उसके मन में कोई अच्छी बात नहीं है।
 He's very flexible.	Er ist sehr flexibel.	वह बहुत ही लचीला है।
+He's very studious.	Er ist sehr fleißig.	वह बहुत पढ़ाई में लगा हुआ है।
+He's very talented.	Er ist sehr talentiert.	वह बहुत प्रतिभाशाली है।
+He's wearing a hat.	Er hat einen Hut auf.	वह एक टोपी पहन रहा है।
+He's working on it.	Er arbeitet daran.	वह इस पर काम कर रहा है।
+Help is on its way.	Unterstützung ist auf dem Weg.	सहायता अपनी राह पर है।
+Help is on the way.	Unterstützung ist auf dem Weg.	मदद रास्ते में है।
+Help! I can't swim.	Hilfe! Ich kann nicht schwimmen.	मदद! मैं तैर नहीं सकता।
