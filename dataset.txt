@@ -1,14 +1,4 @@
 
-My watch is waterproof.	Meine Uhr ist wasserdicht.	मेरी घड़ी जलरोधक है।
-My wife died of cancer.	Meine Frau ist an Krebs gestorben.	मेरी पत्नी की कैंसर से मृत्यु हो गई।
-My wife's name is Mary.	Meine Frau heißt Maria.	मेरी पत्नी को मारिया कहा जाता है।
-Never trust a stranger.	Traue nie einem Fremden!	कभी किसी अजनबी पर भरोसा न करें!
-New York is a big city.	New York ist eine große Stadt.	न्यूयॉर्क एक बड़ा शहर है।
-No one can control him.	Niemand kann ihn kontrollieren.	कोई भी उसे नियंत्रित नहीं कर सकता।
-No one can help me now.	Keiner kann mir jetzt helfen.	अब कोई भी मेरी मदद नहीं कर सकता।
-No one can help me now.	Niemand kann mir jetzt helfen.	अब कोई भी मेरी मदद नहीं कर सकता।
-No one can help us now.	Es kann uns jetzt niemand helfen.	अब हमारी मदद नहीं कर सकता।
-No one can replace you.	Niemand kann dich ersetzen.	कोई तुम्हारी जगह नहीं ले सकता।
 No one can stop me now.	Niemand kann mich jetzt aufhalten.	अब मुझे कोई नहीं रोक सकता।
 No one can stop us now.	Niemand kann uns jetzt aufhalten.	अब हमें कोई नहीं रोक सकता।
 No one could deny this.	Niemand konnte das bestreiten.	कोई भी इससे इनकार नहीं कर सकता था।
