@@ -26032,3 +26032,8 @@ I am playing guitar.	Ich spiele Gitarre.	मैं गिटार बजा र
 I am poor at tennis.	Ich bin schlecht im Tennis.	मैं टेनिस में खराब हूँ।
 I am reading a book.	Ich lese ein Buch.	मैं किताब पढ़ रहा हूँ।
 I am reading a play.	Ich lese ein Stück.	मैं एक नाटक पढ़ रहा हूँ।
+I am ready to start.	Ich bin bereit zu beginnen.	मैं शुरू करने के लिए तैयार हूँ।
+I am right for once.	Ich habe einmal Recht.	मैं एक बार सही हूँ।
+I am sad to hear it.	Es tut mir leid, das zu hören.	मुझे यह सुनकर दुख हुआ।
+I am short of money.	Mir fehlt das Geld.	मेरे पास पैसा नहीं है।
+I am the chosen one.	Ich bin der Auserwählte.	मैं चुनी हुई हूँ।
