@@ -40135,3 +40135,10 @@ Tom has no principles.	Tom hat keine Prinzipien.	टॉम के कोई स�
 Tom has nothing to do.	Tom hat nichts zu tun.	टॉम को कुछ करने के लिए कुछ नहीं है।
 Tom has paid the bill.	Tom hat die Rechnung bezahlt.	टॉमने बिल भर दिया है।
 Tom has perfect pitch.	Tom hat perfektes Gehör.	टॉम का सही स्वर स्मरण है।
+Tom has perfect teeth.	Tom hat perfekte Zähne.	टॉम के परिपूर्ण दांत हैं।
+Tom has poor eyesight.	Tom hat eine schlechte Sehkraft.	टॉम की कमजोर नेत्रदृष्टि है।
+Tom has powerful arms.	Tom hat starke Arme.	टॉम के शक्तिशाली हाथ हैं।
+Tom has strange ideas.	Tom hat seltsame Ideen.	टॉम के अजीब विचार हैं।
+Tom has three cameras.	Tom hat drei Kameras.	टॉम के तीन कैमरे हैं।
+Tom has three cousins.	Tom hat drei Cousinen.	टॉम के तीन चचेरे भाई हैं।
+Tom has three of them.	Tom hat drei von ihnen.	टॉम के तीन में से तीन हैं।

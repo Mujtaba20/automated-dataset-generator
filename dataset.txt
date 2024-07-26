@@ -1,14 +1,4 @@
 
-Tom has perfect teeth.	Tom hat makellose Zähne.	टॉम के पास निर्दोष दांत हैं।
-Tom has poor eyesight.	Tom hat schlechte Augen.	टॉम की आंखें बुरी हैं।
-Tom has poor eyesight.	Tom kann nicht gut sehen.	टॉम अच्छी तरह से नहीं देख सकता।
-Tom has powerful arms.	Tom hat kräftige Arme.	टॉम के पास मजबूत हथियार हैं।
-Tom has strange ideas.	Tom hat sonderbare Vorstellungen.	टॉम के पास अजीब विचार हैं।
-Tom has three cameras.	Tom hat drei Kameras.	टॉम में तीन कैमरे हैं।
-Tom has three cameras.	Tom hat drei Fotoapparate.	टॉम के पास तीन फोटो उपकरण हैं।
-Tom has three cousins.	Tom hat drei Cousins.	टॉम के तीन चचेरे भाई हैं।
-Tom has three cousins.	Tom hat drei Vettern.	टॉम के तीन चचेरे भाई हैं।
-Tom has three of them.	Tom hat drei Stück davon.	टॉम में उनमें से तीन हैं।
 Tom has to be stopped.	Tom muss aufgehalten werden.	टॉम को रोका जाना चाहिए।
 Tom has to go to work.	Tom muss arbeiten gehen.	टॉम को काम करना है।
 Tom has to go to work.	Tom muss zur Arbeit.	टॉम को काम पर जाना है।
