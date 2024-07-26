@@ -1,14 +1,4 @@
 
-Tom is friendly to me.	Tom ist freundlich zu mir.	टॉम मेरे अनुकूल है।
-Tom is from Australia.	Tom kommt aus Australien.	टॉम ऑस्ट्रेलिया से आता है।
-Tom is from this town.	Tom stammt aus dieser Stadt.	टॉम इस शहर से आता है।
-Tom is full of energy.	Tom ist voller Energie.	टॉम ऊर्जा से भरा है।
-Tom is getting better.	Tom geht es besser.	टॉम बेहतर है।
-Tom is getting better.	Langsam geht es Tom besser.	धीरे -धीरे टॉम बेहतर है।
-Tom is getting better.	Langsam wird Tom besser.	टॉम धीरे -धीरे बेहतर हो जाता है।
-Tom is getting better.	Tom geht es allmählich besser.	टॉम धीरे -धीरे बेहतर कर रहा है।
-Tom is getting bolder.	Langsam wird Tom mutiger.	टॉम धीरे -धीरे ब्रेवर बन जाता है।
-Tom is getting scared.	Tom bekommt kalte Füße.	टॉम को ठंडे पैर मिलते हैं।
 Tom is going home now.	Tom geht jetzt nach Hause.	टॉम अब घर जा रहा है।
 Tom is going to be OK.	Tom wird okay sein.	टॉम ठीक हो जाएगा।
 Tom is going to do it.	Tom macht das.	टॉम ऐसा करता है।

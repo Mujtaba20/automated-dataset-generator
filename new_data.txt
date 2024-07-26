@@ -40294,3 +40294,10 @@ Tom is far from happy.	Tom ist weit von glücklich entfernt.	टॉम खुश
 Tom is fast, isn't he?	Tom ist schnell, oder?	टॉम तेज है, ना?
 Tom is finally asleep.	Tom schläft endlich.	टॉम अंत में सो रहा है।
 Tom is following Mary.	Tom folgt Maria.	टॉम मेरी का पीछा कर रहा है।
+Tom is friendly to me.	Tom ist freundlich zu mir.	टॉम मुझसे दोस्ताना है।
+Tom is from Australia.	Tom kommt aus Australien.	टॉम ऑस्ट्रेलिया से है।
+Tom is from this town.	Tom kommt aus dieser Stadt.	टॉम इस शहर से है।
+Tom is full of energy.	Tom ist voller Energie.	टॉम ऊर्जा से भरपूर है।
+Tom is getting better.	Tom wird besser.	टॉम सुधर रहा है।
+Tom is getting bolder.	Tom wird mutiger.	टॉम बहादुर हो रहा है।
+Tom is getting scared.	Tom wird ängstlich.	टॉम डर रहा है।
