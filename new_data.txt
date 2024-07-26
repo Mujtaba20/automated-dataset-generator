@@ -24505,3 +24505,13 @@ What did you learn?	Was hast du gelernt?	तुमने क्या सीख�
 What do they think?	Was denken sie?	वे क्या सोचते हैं?
 What do we owe Tom?	Was schulden wir Tom?	हम तोमे किसको उधार देते हैं?
 What do we owe you?	Was schulden wir dir?	हम तुम्हें क्या देते हैं?
+What do women want?	Was wollen Frauen?	महिलाएं क्या चाहती हैं?
+What do you expect?	Was erwartest du?	तुम क्या अपेक्षा करते हो?
+What does Tom have?	Was hat Tom?	टॉम के पास क्या है?
+What does Tom know?	Was weiß Tom?	टॉम को क्या पता है?
+What does Tom need?	Was braucht Tom?	टॉम को क्या चाहिए?
+What does Tom want?	Was will Tom?	टॉम क्या चाहता है?
+What does she have?	Was hat sie?	उसके पास क्या है?
+What does that say?	Was sagt das?	वह क्या कह रहा है?
+What does this say?	Was sagt das hier?	यह क्या कह रहा है?
+What don't we know?	Was wissen wir nicht?	हमें क्या नहीं पता?
