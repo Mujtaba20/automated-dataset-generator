@@ -40794,3 +40794,11 @@ Tom unlocked the cage.	Tom machte den Käfig auf.	टॉम ने चाबी 
 Tom used a slide rule.	Tom benutzte ein Rechenschieber.	टॉम ने एक स्लाइड नियम का उपयोग किया।
 Tom used to date Mary.	Tom datierte immer mit Mary.	टॉम मेरी के साथ डेट करता था।
 Tom used to live here.	Tom hat hier früher gewohnt.	यहीं पर टॉम पहले रहता था।
+Tom used to love that.	Tom pflegte das zu lieben.	टॉम किसी प्रेम करता था।
+Tom visited Australia.	Tom hat Australien besucht.	टॉम ने ऑस्ट्रेलिया का दौरा किया।
+Tom waited in the car.	Tom wartete im Auto.	टॉम गाड़ी में रुका था।
+Tom walked downstairs.	Tom ging die Treppe hinunter.	टॉम सीढ़ियों पर चला गया।
+Tom walks with a cane.	Tom geht mit einem Stock.	टॉम लाठी के साथ चलता है।
+Tom walks with a limp.	Tom geht humpelnd.	टॉम पेटू पर चलता है।
+Tom wanted an apology.	Tom wollte eine Entschuldigung.	टॉम को माफी चाहिए थी।
+Tom wanted to be rich.	Tom wollte reich sein.	टॉम धनवान बनना चाहता था।
