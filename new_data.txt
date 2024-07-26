@@ -36554,3 +36554,11 @@ Don't talk back to me.	Antworte mir nicht zurück.	मुझसे पीछे 
 Don't throw that away.	Werf das nicht weg.	उसे फेंकना बंद करो.
 Don't touch my camera.	Fass meine Kamera nicht an.	मेरे कैमरे को मत छूना.
 Don't touch my guitar.	Rühr meine Gitarre nicht an.	मेरी गिटार को मत छूना.
+Don't touch that book.	Berühren Sie nicht dieses Buch.	उस किताब को छूने मत जाना।
+Don't touch the glass.	Fassen Sie nicht das Glas an.	Glass ko mat chho
+Don't try my patience.	Probiere nicht meine Geduld.	मेरी सहनशीलता का परीक्षण मत करो।
+Don't walk home alone.	Gehen Sie nicht alleine nach Hause.	अकेले घर मत चलो।
+Don't waste your time.	Zeitverschwendung ist vermeidbar.	अपने समय की बेकारी मत करो।
+Don't you feel guilty?	Fühlst du dich nicht schuldig?	क्या तुम्हें गिल्टी महसूस नहीं हो रहा है?
+Don't you have a bike?	Hast du kein Fahrrad?	क्या तुम्हारे पास एक साइकिल नहीं है?
+Don't you like Boston?	Magst du Boston nicht?	क्या तुम्हें बोस्टन पसंद नहीं है?

@@ -1,16 +1,4 @@
 
-Don't touch that book.	Fass das Buch nicht an!	किताब मत लो!
-Don't touch the glass.	Nicht das Glas berühren.	कांच को न छुओ।
-Don't try my patience.	Spiel nicht mit meiner Geduld.	मेरे धैर्य के साथ मत खेलो।
-Don't walk home alone.	Geh nicht allein nach Hause.	अकेले घर मत जाओ।
-Don't waste your time.	Verschwende deine Zeit nicht.	अपना समय बर्बाद मत करो।
-Don't waste your time.	Verschwenden Sie ihre Zeit nicht.	अपना समय बर्बाद मत करो।
-Don't waste your time.	Verschwendet eure Zeit nicht.	अपना समय बर्बाद मत करो।
-Don't you feel guilty?	Fühlst du dich nicht schuldig?	क्या आपको दोषी नहीं लगता?
-Don't you have a bike?	Hast du kein Fahrrad?	क्या आपके पास बाइक नहीं है?
-Don't you like Boston?	Gefällt es Ihnen nicht in Boston?	क्या आपको बोस्टन में यह पसंद नहीं है?
-Don't you like Boston?	Gefällt es euch nicht in Boston?	क्या आपको बोस्टन में यह पसंद नहीं है?
-Don't you like Boston?	Gefällt es dir nicht in Boston?	क्या आपको बोस्टन में यह पसंद नहीं है?
 Don't you like apples?	Magst du keine Äpfel?	क्या आपको सेब पसंद नहीं है?
 Don't you play tennis?	Spielst du kein Tennis?	क्या आप टेनिस नहीं खेलते हैं?
 Don't you want to eat?	Wollen Sie nichts essen?	क्या आप कुछ भी नहीं खाना चाहते हैं?
