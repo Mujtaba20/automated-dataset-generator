@@ -28415,3 +28415,10 @@ This car sells well.	Dieses Auto verkauft sich gut.	इस गाड़ी क�
 This chair is light.	Dieser Stuhl ist leicht.	यह कुर्सी हल्की है।
 This coffee is cold.	Dieser Kaffee ist kalt.	यह कॉफी ठंडी है।
 This could mean war.	Das könnte Krieg bedeuten.	यह युद्ध का मायना रखता है।
+This desk is broken.	Dieser Schreibtisch ist defekt.	यह डेस्क खराब है।
+This dog isn't mine.	Dieser Hund gehört mir nicht.	यह कुत्ता मेरा नहीं है।
+This door is locked.	Diese Tür ist verschlossen.	यह दरवाजा बंद है।
+This drawer's stuck.	Diese Schublade klemmt.	यह दराज अटक गया है।
+This dress is cheap.	Dieses Kleid ist günstig.	यह ड्रेस किफ़ायती है।
+This glass is dirty.	Dieses Glas ist schmutzig.	यह ग्लास गंदा है।
+This guy is a loser.	Dieser Typ ist ein Verlierer.	यह आदमी हार गया है।

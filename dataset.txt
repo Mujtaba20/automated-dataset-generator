@@ -1,15 +1,4 @@
 
-This desk is broken.	Dieser Schreibtisch ist kaputt.	यह डेस्क टूट गया है।
-This desk is broken.	Dieser Schreibtisch ist defekt.	यह डेस्क दोषपूर्ण है।
-This dog isn't mine.	Dieser Hund gehört mir nicht.	यह कुत्ता मेरा नहीं है।
-This door is locked.	Diese Tür ist abgeschlossen.	यह दरवाजा पूरा हो गया है।
-This drawer's stuck.	Diese Schublade klemmt.	यह दराज जाम।
-This dress is cheap.	Dieses Kleid ist billig.	यह पोशाक सस्ती है।
-This dress is cheap.	Dieses Kleid ist preiswert.	यह पोशाक सस्ती है।
-This dress is cheap.	Dieses Kleid ist günstig.	यह पोशाक सस्ती है।
-This glass is dirty.	Dieses Glas ist schmutzig.	यह गिलास गंदा है।
-This guy is a loser.	Dieser Kerl ist ein Verlierer.	यह आदमी एक हारा हुआ है।
-This guy is a loser.	Dieser Kerl ist eine Niete.	यह आदमी एक कीलक है।
 This is Greek to me.	Das kommt mir spanisch vor.	यह मुझे स्पेनिश लगता है।
 This is Tom's camel.	Das hier ist Toms Kamel.	यह टॉम का ऊंट है।
 This is Tom's diary.	Das ist Toms Terminkalender.	यह टॉम का शेड्यूल है।
