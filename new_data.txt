@@ -30698,3 +30698,7 @@ Do you like this car?	Magst du dieses Auto?	क्या आप इस गाड
 Do you like to dance?	Magst du tanzen?	क्या आप नृत्य करना पसंद करते हैं?
 Do you like to party?	Magst du Partys?	क्या आप पार्टी करना पसंद करते हैं?
 Do you like to study?	Magst du es zu lernen?	क्या आप पढ़ाई करना पसंद करते हैं?
+Do you like tomatoes?	Magst du Tomaten?	क्या आप टमाटर पसंद करते हैं?
+Do you like your car?	Magst du dein Auto?	क्या आप अपनी कार पसंद करते हैं?
+Do you mean this one?	Meinst du dieses hier?	क्या तुम इसे मतलब कर रहे हो?
+Do you mean this one? (different meaning)	Ist das deine Absicht?	क्या तुम इसे मतलब कर रहे हो?

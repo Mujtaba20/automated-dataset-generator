@@ -1,16 +1,4 @@
 
-Do you like tomatoes?	Mögt ihr Tomaten?	क्या आपको टमाटर पसंद है?
-Do you like your car?	Gefällt dir dein Auto?	क्या आपको अपनी कार पसंद है?
-Do you like your car?	Gefällt dir dein Wagen?	क्या आपको अपनी कार पसंद है?
-Do you mean this one?	Meinst du diesen?	क्या आपका यह मतलब है
-Do you mean this one?	Meinst du diese?	क्या आपका मतलब है?
-Do you mean this one?	Meinst du dieses?	क्या आपका यह मतलब है
-Do you mean this one?	Meint ihr diesen?	क्या आपको यह लगता है?
-Do you mean this one?	Meint ihr diese?	क्या आपको यह लगता है?
-Do you mean this one?	Meint ihr dieses?	क्या आपको यह लगता है?
-Do you mean this one?	Meinen Sie diesen?	क्या आपका यह मतलब है?
-Do you mean this one?	Meinen Sie diese?	क्या आपका यह मतलब है?
-Do you mean this one?	Meinen Sie dieses?	क्या आपका यह मतलब है?
 Do you meditate, Tom?	Meditierst du, Tom?	क्या आप ध्यान करते हैं, टॉम?
 Do you need a lawyer?	Brauchen Sie einen Anwalt?	क्या आपको एक वकील की जरूरत है?
 Do you need a lawyer?	Brauchst du einen Anwalt?	क्या आपको एक वकील की जरूरत है?
