@@ -28930,3 +28930,13 @@ Tom is not an idiot.	Tom ist kein Idiot.	टॉम मूर्ख नहीं 
 Tom is not to blame.	Tom ist nicht schuld.	टॉम दोषी नहीं है।
 Tom is now a doctor.	Tom ist jetzt Arzt.	टॉम अब डॉक्टर है।
 Tom is now thirteen.	Tom ist jetzt dreizehn.	टॉम अब तेरह साल का है।
+Tom is often absent.	Tom ist oft abwesend.	टॉम अक्सर गैरमौजूद होता है।
+Tom is old and deaf.	Tom ist alt und taub.	टॉम बूढ़ा और बहरा है।
+Tom is on the plane.	Tom ist im Flugzeug.	टॉम विमान में है।
+Tom is our youngest.	Tom ist unser jüngster.	टॉम हमारा सबसे छोटा है।
+Tom is overdoing it.	Tom übertreibt es.	टॉम इसे ज्यादा कर रहा है।
+Tom is overreacting.	Tom übertreibt.	टॉम अधिक प्रतिक्रिया कर रहा है।
+Tom is playing golf.	Tom spielt Golf.	टॉम गोल्फ खेल रहा है।
+Tom is pretty upset.	Tom ist ziemlich verärgert.	टॉम काफी उदास है।
+Tom is quite a poet.	Tom ist ein ziemlicher Dichter.	टॉम काफी कवि है।
+Tom is quite snobby.	Tom ist ziemlich hochnäsig.	टॉम काफी अहंकारी है।
