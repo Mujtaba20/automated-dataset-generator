@@ -40583,3 +40583,12 @@ Tom never looked back.	Tom hat nie zurückgeschaut.	टॉमने कभी �
 Tom never said a word.	Tom hat nie ein Wort gesagt.	टॉमने कभी एक शब्द नहीं कहा।
 Tom never told anyone.	Tom hat niemandem je erzählt.	टॉमने किसी को कभी नहीं बताया।
 Tom never wears a hat.	Tom trägt nie einen Hut.	टॉम कभी टोपी नहीं पहनता।
+Tom never wears a tie.	Tom trägt nie eine Krawatte.	टॉम कभी टाई नहीं पहनता।
+Tom never would agree.	Tom würde niemals zustimmen.	टॉम कभी सहमत नहीं होगा।
+Tom never wrote to me.	Tom hat mir nie geschrieben.	टॉम कभी मुझे लिखा नहीं।
+Tom offered me a beer.	Tom hat mir ein Bier angeboten.	टॉम ने मुझे एक बीयर पेश की।
+Tom often eats in bed.	Tom isst oft im Bett.	टॉम अक्सर बिस्तर में खाता है।
+Tom often skips meals.	Tom lässt oft Mahlzeiten aus.	टॉम अक्सर भोजन छोड़ देता है।
+Tom often teased Mary.	Tom hat Mary oft geärgert.	टॉम ने मेरी को अक्सर चेरा।
+Tom often wears a hat.	Tom trägt oft einen Hut.	टॉम अक्सर टोपी पहनता है।
+Tom opened his window.	Tom hat sein Fenster geöffnet.	टॉम ने अपनी खिड़की खोली।
