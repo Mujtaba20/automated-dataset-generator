@@ -23420,3 +23420,13 @@ Tom died in combat.	Tom starb im Gefecht.	टॉम संघर्ष में
 Tom died in prison.	Tom starb im Gefängnis.	टॉम जेल में मर गया।
 Tom died of cancer.	Tom starb an Krebs.	टॉम कैंसर से मर गया।
 Tom died of hunger.	Tom starb an Hunger.	टॉम भूख से मर गया।
+Tom died of typhus.	Tom starb an Typhus.	टॉम टाइफस से मर गया।
+Tom died yesterday.	Tom ist gestern gestorben.	टॉम कल मर गया।
+Tom died, not Mary.	Tom starb, nicht Mary.	टॉम मर गया, मेरी नहीं।
+Tom died, not Mary. (different meaning)	Tom ist gestorben, nicht Mary.	टॉम मर गया, मेरी नहीं। (विभिन्न अर्थ)
+Tom does good work.	Tom leistet gute Arbeit.	टॉम अच्छा काम करता है।
+Tom does know that.	Tom weiß das.	टॉम जानता है कि।
+Tom does love Mary.	Tom liebt Mary.	टॉम मेरी से प्यार करता है।
+Tom does that well.	Tom macht das gut.	टॉम वो अच्छा करता है।
+Tom does that, too.	Tom macht das auch.	टॉम वो भी करता है।
+Tom doesn't gamble.	Tom spielt nicht.	टॉम जुआ नहीं खेलता।

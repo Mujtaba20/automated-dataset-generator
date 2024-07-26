@@ -1,14 +1,4 @@
 
-Tom died of typhus.	Tom starb am Fleckfieber.	टॉम की मौत दाग बुखार से हुई।
-Tom died yesterday.	Tom ist gestern gestorben.	टॉम की कल मृत्यु हो गई।
-Tom died, not Mary.	Nicht Maria ist gestorben, sondern Tom.	मारिया की मृत्यु नहीं हुई, लेकिन टॉम।
-Tom died, not Mary.	Tom ist gestorben, nicht Maria.	टॉम की मृत्यु हो गई, मारिया नहीं।
-Tom does good work.	Tom leistet gute Arbeit.	टॉम अच्छा काम करता है।
-Tom does know that.	Tom weiß das.	टॉम जानता है कि।
-Tom does love Mary.	Tom liebt Maria wirklich.	टॉम वास्तव में मारिया से प्यार करता है।
-Tom does that well.	Tom ist gut darin.	टॉम इसमें अच्छा है।
-Tom does that, too.	Tom macht das auch.	टॉम भी ऐसा करता है।
-Tom doesn't gamble.	Tom spielt nicht.	टॉम नहीं खेलता।
 Tom doesn't get it.	Tom schnallt das nicht.	टॉम उस पट्टा नहीं करता है।
 Tom doesn't listen.	Tom hört nicht zu.	टॉम नहीं सुनता।
 Tom doesn't use it.	Tom verwendet es nicht.	टॉम इसका उपयोग नहीं करता है।
