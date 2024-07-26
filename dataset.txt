@@ -1,14 +1,4 @@
 
-Please don't do that.	Tu das bitte nicht!	कृपया ऐसा न करें!
-Please don't do this.	Tu das bitte nicht!	कृपया ऐसा न करें!
-Please don't go away.	Bitte gehe nicht!	कृपया मत जाओ!
-Please don't go away.	Bitte geh nicht weg!	कृपया दूर मत जाओ!
-Please don't go away.	Gehen Sie bitte nicht weg!	कृपया दूर मत जाओ!
-Please don't go away.	Bitte gehen Sie nicht!	कृपया न जाएं!
-Please don't hang up.	Bitte lege nicht auf!	कृपया पर मत जाओ!
-Please don't hate me.	Hasse mich bitte nicht!	कृपया मुझसे नफरत मत करो!
-Please don't hate me.	Hassen Sie mich bitte nicht!	कृपया मुझसे नफरत मत करो!
-Please don't hurt me.	Bitte verletz mich nicht.	कृपया मुझे चोट न पहुंचाएं।
 Please don't kill me.	Bitte töte mich nicht.	कृपया मुझे मत मारो।
 Please don't kill me.	Bitte tötet mich nicht.	कृपया मुझे मत मारो।
 Please don't kill me.	Bitte töten Sie mich nicht.	कृपया मुझे मत मारो।

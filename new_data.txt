@@ -33246,3 +33246,11 @@ Please do not buy it.	Bitte kaufe es nicht.	कृपया इसे न खर
 Please do not forget.	Bitte vergiss nicht.	कृपया मत भूलिए।
 Please do not neglect.	Bitte vernachlässige nicht.	कृपया उपेक्षा न करें।
 Please do that again.	Bitte mach das nochmal.	कृपया वह फिरसे करें।
+Please don't do that.	Bitte tue das nicht.	कृपया ऐसा मत करो।
+Please don't do this.	Bitte tu das nicht.	कृपया ऐसा मत करो।
+Please don't go away.	Bitte geh nicht weg.	कृपया जाने मत दो।
+Please don't go away. - 2nd translation	Bitte bleib hier.	कृपया यहाँ रहो।
+Please don't hang up.	Bitte leg nicht auf.	कृपया मत कट दो।
+Please don't hate me.	Bitte hasse mich nicht.	कृपया मुझे नफरत मत करो।
+Please don't hate me. - 2nd translation	Bitte verachte mich nicht.	कृपया मुझसे नराज़ मत हो।
+Please don't hurt me.	Bitte verletze mich nicht.	कृपया मुझे चोट ना लगाएं।
