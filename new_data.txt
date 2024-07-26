@@ -27956,3 +27956,12 @@ She's also a beauty.	Sie ist auch eine Schönheit.	वह भी एक सौ�
 She's been poisoned.	Sie wurde vergiftet.	उसे जहर दिया गया है।
 She's getting older.	Sie wird älter.	वह बड़ी हो रही है।
 She's in a bad mood.	Sie ist schlecht gelaunt.	वह बुरे मिजाज में है।
+She's my first love.	Sie ist meine erste Liebe.	वह मेरा पहला प्यार है।
+She's not penniless.	Sie ist nicht mittellos.	वह गरीब नहीं है।
+She's still a minor.	Sie ist immer noch minderjährig.	वह अब भी अपने आयु सीमा के अंदर है।
+She's strong-willed.	Sie ist willensstark.	वह मजबूत इरादे वाली है।
+She's very innocent.	Sie ist sehr unschuldig.	वह बहुत मासूम है।
+She's wearing a hat.	Sie trägt einen Hut.	उसने एक टोपी पहनी हुई है।
+Sheep feed on grass.	Schafe fressen Gras.	भेड़ घास खाती है।
+Show me another bag.	Zeigen Sie mir eine andere Tasche.	मुझे एक और थैला दिखाइए।
+Show me the picture.	Zeigen Sie mir das Bild.	मुझे तस्वीर दिखाओ।
