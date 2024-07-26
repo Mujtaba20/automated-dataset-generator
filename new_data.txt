@@ -36349,3 +36349,8 @@ Do we know each other?	Kennen wir uns?	क्या हम एक-दूसर�
 Do you agree with Tom?	Stimmst du Tom zu?	क्या तुम टॉम से सहमत हो?
 Do you also like jazz?	Magst du auch Jazz?	क्या आपको जैज़ भी पसंद है?
 Do you believe in God?	Glaubst du an Gott?	क्या आप भगवान में विश्वास करते हैं?
+Do you believe it now?	Glaubst du es jetzt?	क्या आप अब इस पर विश्वास करते हैं?
+Do you believe me now?	Glaubst du mir jetzt?	क्या अब आप मुझपर विश्वास करते हैं?
+Do you find me pretty?	Findest du mich hübsch?	क्या तुम्हें मुझे सुंदर लगता है?
+Do you fly frequently?	Fliegst du häufig?	क्या आप अक्सर उड़ान भरते हैं?
+Do you go there often?	Gehst du oft dorthin?	क्या तुम वहां अक्सर जाते हो?
