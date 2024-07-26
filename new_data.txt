@@ -31874,3 +31874,10 @@ I know who was there. (different meaning)	Ich weiß, wer dort war.	मुझे 
 I know why he did it.	Ich weiß, warum er es getan hat.	मुझे पता है क्यों उसने यह किया।
 I know you can do it.	Ich weiß, du kannst es schaffen.	मुझे पता है तुम कर सकते हो।
 I know you know this.	Ich weiß, du weißt das.	मुझे पता है तुम्हें यह पता है।
+I know you said that.	Ich weiß, du hast das gesagt.	मुझे पता है तुमने ऐसा कहा।
+I know your language.	Ich verstehe deine Sprache.	मुझे तेरी भाषा पता है।
+I leave it up to you.	Ich überlasse es dir.	मैं यह तुम्हारे ऊपर छोड़ देता हूँ।
+I left home at seven.	Ich bin um sieben Uhr von zu Hause gegangen.	मैंने साढ़े सात बजे घर छोड़ दिया।
+I left you a message.	Ich habe dir eine Nachricht hinterlassen.	मैंने तुम्हें एक संदेश छोड़ा है।
+I lent her my camera.	Ich gab ihr meine Kamera ausgeliehen.	मैंने उसे अपनी कैमरा उधार दी।
+I let go of the rope.	Ich ließ das Seil los.	मैंने रस्सी को छोड़ दिया।
