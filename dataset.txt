@@ -1,16 +1,4 @@
 
-Are you very forgetful?	Bist du sehr vergesslich?	क्या आप बहुत भुलक्कड़ हैं?
-Are you wearing gloves?	Trägst du Handschuhe?	क्या आप दस्ताने पहने हुए हैं?
-Are you wearing makeup?	Hast du Make-up an?	क्या आपके पास मेकअप है?
-Aren't they Englishmen?	Sind sie keine Engländer?	क्या आप अंग्रेजी नहीं हैं?
-Aren't they Englishmen?	Sind sie etwa keine Engländer?	क्या आप अंग्रेजी नहीं हैं?
-Aren't you dressed yet?	Bist du noch nicht angezogen?	क्या आप अभी तक तैयार नहीं हैं?
-Aren't you dressed yet?	Seid ihr noch nicht angezogen?	क्या आप अभी तक तैयार नहीं हैं?
-Aren't you dressed yet?	Sind Sie noch nicht angezogen?	क्या आप अभी तक तैयार नहीं हैं?
-Aren't you from Boston?	Bist du nicht aus Boston?	क्या आप बोस्टन से नहीं हैं?
-Aren't you going to go?	Gehst du nicht?	क्या तुम नहीं जाओ?
-Aren't you going to go?	Wirst du nicht gehen?	क्या तुम नहीं जाओगे?
-Aren't you going to go?	Kommst du nicht mit?	क्या आप अपने साथ नहीं आते?
 Aren't you guys coming?	Kommt ihr da nicht mit?	क्या आप अपने साथ नहीं आते?
 Aren't you guys hungry?	Habt ihr keinen Hunger?	क्या तुम्हें भूख नहीं है?
 Aren't you helping Tom?	Hilfst du Tom nicht?	क्या आप टॉम की मदद नहीं करते?
