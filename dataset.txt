@@ -1,16 +1,4 @@
 
-Tomorrow is a day off.	Morgen ist ein freier Tag.	कल एक दिन की छुट्टी है।
-Tomorrow is a new day.	Morgen ist ein neuer Tag.	कल एक नया दिन है।
-Tomorrow's my day off.	Morgen ist mein freier Tag.	कल मेरा दिन बंद है।
-Tomorrow, we'll begin.	Morgen fangen wir an.	हम कल शुरू करेंगे।
-Try some of this cake.	Probier mal etwas von diesem Kuchen.	इस केक से कुछ आज़माएं।
-Turn in your homework.	Gebt eure Hausaufgaben ab!	अपना होमवर्क दें!
-Turn the page, please.	Bitte umblättern!	कृपया पृष्ठ चालू करें!
-Two seats were vacant.	Zwei Stühle waren frei.	दो कुर्सियाँ स्वतंत्र थीं।
-Two seats were vacant.	Zwei Plätze waren frei.	दो स्थान स्वतंत्र थे।
-Wait for your brother.	Warte auf deinen Bruder.	अपने भाई की प्रतीक्षा करें।
-Wait for your brother.	Warten Sie auf Ihren Bruder.	अपने भाई की प्रतीक्षा करें।
-Wait for your brother.	Wartet auf euren Bruder.	अपने भाई की प्रतीक्षा करें।
 War broke out in 1939.	Der Krieg brach 1939 aus.	1939 में युद्ध छिड़ गया।
 War broke out in 1941.	Der Krieg brach 1941 aus.	1941 में युद्ध छिड़ गया।
 Was I asleep for long?	Habe ich lange geschlafen?	क्या मैं लंबे समय तक सोता था?

@@ -40969,3 +40969,12 @@ Tom, are you in there?	Tom, bist du da drin?	टॉम, तुम वहाँ �
 Tom, the pizza's here.	Tom, die Pizza ist da.	टॉम, पिज़्ज़ा यहाँ है।
 Tom, watch your mouth!	Tom, halt den Mund!	टॉम, अपना मुँह देखो!
 Tomorrow is Christmas.	Morgen ist Weihnachten.	कल क्रिसमस है।
+Tomorrow is a day off.	Morgen ist frei.	कल अवकाश है।
+Tomorrow is a new day.	Morgen ist ein neuer Tag.	कल एक नया दिन है।
+Tomorrow's my day off.	Morgen habe ich frei.	कल मेरा आराम का दिन है।
+Tomorrow, we'll begin.	Morgen werden wir anfangen.	कल, हम शुरू करेंगे।
+Try some of this cake.	Probieren Sie etwas von diesem Kuchen.	इस केक का कुछ प्रयास करें।
+Turn in your homework.	Geben Sie Ihre Hausaufgaben ab.	अपने होमवर्क लौटाएं।
+Turn the page, please.	Blättern Sie die Seite um, bitte.	कृपया पृष्ठ बदलें।
+Two seats were vacant.	Zwei Plätze waren leer.	दो सीटें खाली था।
+Wait for your brother.	Warte auf deinen Bruder.	अपने भाई का इंतजार करो।
