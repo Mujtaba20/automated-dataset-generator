@@ -40089,3 +40089,13 @@ Tom has a heated pool.	Tom hat einen beheizten Pool.	टॉम के पूल 
 Tom has a loose tooth.	Tom hat einen lockeren Zahn.	टॉम के एक ढीला दांत है।
 Tom has a lot of land.	Tom hat viel Land.	टॉम के पास बहुत सारा ज़मीन है।
 Tom has a lot of time.	Tom hat viel Zeit.	टॉम के पास बहुत समय है।
+Tom has a new bicycle.	Tom hat ein neues Fahrrad.	टॉम के पास एक नयी साइकिल है।
+Tom has a nice camera.	Tom hat eine schöne Kamera.	टॉम के पास एक अच्छी कैमरा है।
+Tom has a nice camera. (different meaning)	Tom besitzt eine nette Kamera.	टॉम के पास एक अच्छी तस्वीर दिखाई दिया।
+Tom has a nice income.	Tom hat ein gutes Einkommen.	टॉम के पास अच्छी आमदनी है।
+Tom has a poor memory.	Tom hat ein schlechtes Gedächtnis.	टॉम की याददाश्त खराब है।
+Tom has a poor memory. (different meaning)	Tom hat ein armes Gedächtnis.	टॉम की याददाश्त गरीब है।
+Tom has a pretty wife.	Tom hat eine hübsche Frau.	टॉम की एक सुंदर पत्नी है।
+Tom has a private jet.	Tom besitzt einen Privatjet.	टॉम के पास एक निजी जेट है।
+Tom has a private jet. (different meaning)	Tom hat einen privaten Flugzeug.	टॉम के पास निजी हवाई जहाज है।
+Tom has a reservation.	Tom hat eine Reservierung.	टॉम के पास एक रिजर्वेशन है।

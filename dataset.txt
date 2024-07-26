@@ -1,14 +1,4 @@
 
-Tom has a new bicycle.	Tom hat ein neues Fahrrad.	टॉम के पास एक नई बाइक है।
-Tom has a nice camera.	Tom hat eine schöne Kamera.	टॉम के पास एक अच्छा कैमरा है।
-Tom has a nice camera.	Tom hat einen schönen Fotoapparat.	टॉम के पास एक अच्छा कैमरा है।
-Tom has a nice income.	Tom hat ein gutes Einkommen.	टॉम की अच्छी आय है।
-Tom has a poor memory.	Tom hat ein schlechtes Gedächtnis.	टॉम में एक खराब स्मृति है।
-Tom has a poor memory.	Tom hat ein schlechtes Erinnerungsvermögen.	टॉम में खराब स्मृति है।
-Tom has a pretty wife.	Tom hat eine hübsche Frau.	टॉम में एक सुंदर महिला है।
-Tom has a private jet.	Tom hat einen Privatjet.	टॉम के पास एक निजी जेट है।
-Tom has a private jet.	Tom hat ein Privatflugzeug.	टॉम के पास एक निजी विमान है।
-Tom has a reservation.	Tom hat eine Reservierung.	टॉम का आरक्षण है।
 Tom has a rice cooker.	Tom hat einen Reiskocher.	टॉम के पास एक चावल कुकर है।
 Tom has a rose garden.	Tom hat einen Rosengarten.	टॉम के पास एक गुलाब का बगीचा है।
 Tom has a slight cold.	Tom ist leicht erkältet.	टॉम थोड़ा ठंडा है।
