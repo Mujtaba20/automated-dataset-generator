@@ -1,14 +1,4 @@
 
-Tom doesn't have one.	Tom hat keinen.	टॉम के पास कोई नहीं है।
-Tom doesn't have one.	Tom hat keine.	टॉम के पास कोई नहीं है।
-Tom doesn't have one.	Tom hat keines.	टॉम के पास कोई नहीं है।
-Tom doesn't have tea.	Tom hat keinen Tee.	टॉम के पास कोई चाय नहीं है।
-Tom doesn't know why.	Tom weiß nicht warum.	टॉम को पता नहीं क्यों।
-Tom doesn't know yet.	Tom weiß es noch nicht.	टॉम अभी तक नहीं जानता है।
-Tom doesn't know you.	Tom kennt dich nicht.	टॉम आपको नहीं जानता।
-Tom doesn't like you.	Tom mag dich nicht.	टॉम आपको पसंद नहीं करता है।
-Tom doesn't look old.	Tom sieht nicht alt aus.	टॉम बूढ़ा नहीं दिखता।
-Tom doesn't think so.	Tom sieht das anders.	टॉम इसे अलग तरह से देखता है।
 Tom doesn't trust us.	Tom traut uns nicht.	टॉम हम पर भरोसा नहीं करता है।
 Tom doesn't want one.	Tom will keinen.	टॉम नहीं चाहता।
 Tom doesn't want you.	Tom will dich nicht.	टॉम आपको नहीं चाहता।
