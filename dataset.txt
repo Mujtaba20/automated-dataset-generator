@@ -1,14 +1,4 @@
 
-Tom is good company.	Tom ist ein guter Umgang.	टॉम एक अच्छी हैंडलिंग है।
-Tom is good-looking.	Tom sieht gut aus.	टॉम अच्छा लग रहा है।
-Tom is good-natured.	Tom ist gut geartet.	टॉम अच्छी तरह से प्राप्त है।
-Tom is grown up now.	Tom ist jetzt erwachsen.	टॉम अब बड़ा हो गया है।
-Tom is hard at work.	Tom arbeitet hart.	टॉम कड़ी मेहनत करता है।
-Tom is having lunch.	Tom isst zu Mittag.	टॉम दोपहर में खाता है।
-Tom is helping Mary.	Tom hilft Maria.	टॉम मारिया की मदद करता है।
-Tom is here already.	Tom ist schon da.	टॉम पहले से ही है।
-Tom is here for you.	Tom ist hier für dich.	टॉम आपके लिए यहां है।
-Tom is here for you.	Tom ist für dich hier.	टॉम आपके लिए यहां है।
 Tom is here with me.	Tom ist hier bei mir.	टॉम यहाँ मेरे साथ है।
 Tom is here with us.	Tom ist hier bei uns.	टॉम हमारे साथ यहाँ है।
 Tom is housesitting.	Tom hütet das Haus.	टॉम घर रखता है।

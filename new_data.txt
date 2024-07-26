@@ -28884,3 +28884,12 @@ Tom is good at golf.	Tom ist gut im Golf.	टॉम गोल्फ में �
 Tom is good at math.	Tom ist gut in Mathe.	टॉम गणित में अच्छा है।
 Tom is good at that.	Tom ist gut darin.	टॉम उसमें अच्छा है।
 Tom is good at this.	Tom ist gut darin.	टॉम इसमें अच्छा है।
+Tom is good company.	Tom ist gute Gesellschaft.	टॉम अच्छी कंपनी है।
+Tom is good-looking.	Tom sieht gut aus.	टॉम अच्छे दिखते हैं।
+Tom is good-natured.	Tom ist gutmütig.	टॉम अच्छे स्वभाव वाले हैं।
+Tom is grown up now.	Tom ist jetzt erwachsen.	अब टॉम बड़ा हो गया है।
+Tom is hard at work.	Tom arbeitet hart.	टॉम मेहनत में लगा हुआ है।
+Tom is having lunch.	Tom isst zu Mittag.	टॉम लंच कर रहे हैं।
+Tom is helping Mary.	Tom hilft Maria.	टॉम मेरी की मदद कर रहे हैं।
+Tom is here already.	Tom ist schon hier.	टॉम पहले से यहां हैं।
+Tom is here for you.	Tom ist hier für dich.	टॉम तुम्हारे लिए यहां है।
