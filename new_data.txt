@@ -31323,3 +31323,11 @@ How is Tom doing now?	Wie geht es Tom jetzt?	अभी टॉम कैसे �
 How is that possible?	Wie ist das möglich?	वह कैसे संभव है?
 How is this possible?	Wie ist das möglich?	यह कैसे संभव है?
 How long do you have?	Wie lange hast du?	तुम्हारे पास कितनी देर है?
+How long is too long?	Wie lange ist zu lange?	कितनी लंबी है?
+How many did you get?	Wie viele hast du bekommen?	तुमने कितने प्राप्त किए?
+How many do you need?	Wie viele brauchst du?	तुम्हें कितने चाहिए?
+How many people died?	Wie viele Menschen sind gestorben?	कितने लोग मर गए हैं?
+How much can we take?	Wie viel können wir nehmen?	हम कितना ले सकते हैं?
+How much can you pay?	Wie viel kannst du bezahlen?	तुम कितना दे सकते हो?
+How much did we lose?	Wie viel haben wir verloren?	हमने कितना खो दिया?
+How much did you pay?	Wie viel hast du bezahlt?	तुमने कितना भुगतान किया?

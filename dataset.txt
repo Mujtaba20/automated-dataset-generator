@@ -1,16 +1,4 @@
 
-How long is too long?	Wie lange ist zu lang?	कब तक बहुत लंबा है?
-How many did you get?	Wie viele hast du bekommen?	आपको कितने मिले?
-How many do you need?	Wie viel brauchst du?	आपको कितना चाहिए?
-How many people died?	Wie viele Personen sind gestorben?	कितने लोग मारे गए हैं?
-How much can we take?	Wie viel können wir nehmen?	हम कितना ले सकते हैं?
-How much can you pay?	Wie viel kannst du bezahlen?	आप कितना भुगतान कर सकते हैं?
-How much can you pay?	Wie viel können Sie bezahlen?	आप कितना भुगतान कर सकते हैं?
-How much can you pay?	Wie viel könnt ihr bezahlen?	आप कितना भुगतान कर सकते हैं?
-How much did we lose?	Wie viel verloren wir?	हम कितना खो देते हैं?
-How much did you pay?	Wie viel hast du bezahlt?	आपने कितना भुगतान किया था?
-How much did you pay?	Wie viel haben Sie bezahlt?	आपने कितना भुगतान किया था?
-How much did you pay?	Wie viel habt ihr bezahlt?	आपने कितना भुगतान किया था?
 How much did you win?	Wie viel hast du gewonnen?	आपने कितना जीता?
 How much did you win?	Wie viel haben Sie gewonnen?	आपने कितना जीता?
 How much did you win?	Wie viel habt ihr gewonnen?	आपने कितना जीता?
