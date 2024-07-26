@@ -24482,3 +24482,12 @@ What are my orders?	Was sind meine Befehle?	मेरे आदेश क्य�
 What are the facts?	Was sind die Fakten?	सच्चाइयां क्या हैं?
 What are the rules?	Was sind die Regeln?	नियम क्या हैं?
 What are these for?	Wofür sind diese?	ये किस लिए हैं?
+What are those for?	Wofür sind die?	वो किसके लिए हैं?
+What are you after?	Was suchst du?	तुम किसकी पीछा कर रहे हो?
+What are you doing?	Was machst du?	तुम क्या कर रहे हो?
+What are you doing? (2)	Was treibst du?	तुम क्या कर रहे हो?
+What awful weather!	Was für ein schreckliches Wetter!	ये कितना भयानक मौसम है!
+What awful weather! (2)	Was für ein schlimmes Wetter!	ये कितना अजीब मौसम है!
+What can I get you?	Was kann ich für dich tun?	मैं आपके लिए क्या कर सकता हूं?
+What could he mean?	Was könnte er meinen?	वह क्या संकेत कर सकता है?
+What did I just do?	Was habe ich gerade gemacht?	मैंने अभी क्या किया है?
