@@ -1,14 +1,4 @@
 
-He's not my father.	Er ist nicht mein Vater.	वह मेरे पिता नहीं हैं।
-He's not one of us.	Er gehört nicht zu uns.	वह हमारा नहीं है।
-He's old and crazy.	Er ist alt und verrückt.	वह बूढ़ा और पागल है।
-He's self-employed.	Er ist selbständig.	वह स्व -नियोजित है।
-He's short and fat.	Er ist klein und dick.	वह छोटा और मोटा है।
-He's still at work.	Er ist noch auf Arbeit.	वह अभी भी काम पर है।
-He's still at work.	Er ist noch in der Arbeit.	वह अभी भी काम पर है।
-He's still at work.	Er ist immer noch bei der Arbeit.	वह अभी भी काम पर है।
-He's up to no good.	Er führt nichts Gutes im Schilde.	वह कुछ भी अच्छा नहीं करता है।
-He's very flexible.	Er ist sehr flexibel.	यह बहुत लचीला है।
 He's very studious.	Er ist sehr eifrig.	वह बहुत उत्सुक है।
 He's very talented.	Er ist sehr talentiert.	वह बहुत प्रतिभावान है।
 He's wearing a hat.	Er trägt einen Hut.	वह एक टोपी पहनता है।

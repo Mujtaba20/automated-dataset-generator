@@ -20917,3 +20917,11 @@ He's my first love.	Er ist meine erste Liebe.	वह मेरा पहला �
 He's not a bad guy.	Er ist kein böser Kerl.	वह बुरा आदमी नहीं है।
 He's not all there.	Er ist nicht ganz da.	वह पूरी तरह से नहीं है।
 He's not my cousin.	Er ist nicht mein Cousin.	वह मेरा चचेरा भाई नहीं है।
+He's not my father.	Er ist nicht mein Vater.	वह मेरे पिता नहीं है।
+He's not one of us.	Er gehört nicht zu uns.	वह हम में से एक नहीं है।
+He's old and crazy.	Er ist alt und verrückt.	वह बुढ़ा और पागल है।
+He's self-employed.	Er ist selbstständig.	वह आत्मनिर्भर है।
+He's short and fat.	Er ist klein und dick.	वह छोटा और मोटा है।
+He's still at work.	Er arbeitet immer noch.	वह अभी भी काम पर है।
+He's up to no good.	Er hat nichts Gutes im Sinn.	उसके मन में कोई अच्छी बात नहीं है।
+He's very flexible.	Er ist sehr flexibel.	वह बहुत ही लचीला है।
