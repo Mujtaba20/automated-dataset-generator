@@ -1,14 +1,4 @@
 
-Do you like to do this?	Machst du das gerne?	क्या आप ऐसा करना पसंद करते हैं?
-Do you like to do this?	Machen Sie das gerne?	क्या आप ऐसा करना पसंद करते हैं?
-Do you like to do this?	Macht ihr das gerne?	क्या आप ऐसा करना पसंद करते हैं?
-Do you like to do this?	Machen Sie das gern?	क्या आप ऐसा करना पसंद करते हैं?
-Do you like to do this?	Machst du das gern?	क्या आप ऐसा करना पसंद करते हैं?
-Do you like tortellini?	Magst du Tortellini?	क्या आपको टॉर्टेलिनी पसंद है?
-Do you like tortellini?	Isst du gerne Tortellini?	क्या आपको टॉर्टेलिनी खाना पसंद है?
-Do you like white wine?	Magst du Weißwein?	क्या आपको व्हाइट वाइन पसंद है?
-Do you live here alone?	Wohnst du hier allein?	क्या आप यहाँ अकेले रहते हैं?
-Do you live here alone?	Wohnt ihr hier allein?	क्या आप यहाँ अकेले रहते हैं?
 Do you love each other?	Liebt ihr euch?	क्या आप एक दूसरे से प्यार करते हैं?
 Do you mind if I smoke?	Stört es Sie, wenn ich rauche?	यदि मैं धूम्रपान करूं तो आपको आपत्ति होगी?
 Do you need more money?	Brauchst du mehr Geld?	क्या आपको अधिक पैसे की आवश्यकता है?
