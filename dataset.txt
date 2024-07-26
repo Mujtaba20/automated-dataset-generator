@@ -1,14 +1,4 @@
 
-Tom is studying French.	Tom lernt Französisch.	टॉम फ्रेंच सीखता है।
-Tom is such a nice guy.	Tom ist so ein netter Kerl.	टॉम इतना अच्छा लड़का है।
-Tom is such a show off.	Tom ist so ein Angeber.	टॉम एक ऐसा टूटा हुआ है।
-Tom is taking a shower.	Tom duscht.	टॉम शावर।
-Tom is taking a shower.	Tom nimmt ein Duschbad.	टॉम एक शॉवर स्नान करता है।
-Tom is taking pictures.	Tom nimmt Bilder auf.	टॉम तस्वीरें लेता है।
-Tom is taking pictures.	Tom schießt Bilder.	टॉम ने तस्वीरें शूट कीं।
-Tom is taking too long.	Tom braucht zu lange.	टॉम बहुत लंबा समय लेता है।
-Tom is tall and strong.	Tom ist groß und stark.	टॉम बड़ा और मजबूत है।
-Tom is telling a story.	Tom erzählt eine Geschichte.	टॉम एक कहानी बताता है।
 Tom is the class clown.	Tom ist der Klassenclown.	टॉम क्लास क्लाउन है।
 Tom is the lead singer.	Tom ist der Frontsänger.	टॉम फ्रंट गायक हैं।
 Tom is the one we want.	Tom ist derjenige, den wir wollen.	टॉम वह है जिसे हम चाहते हैं।
