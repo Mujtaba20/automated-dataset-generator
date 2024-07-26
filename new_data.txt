@@ -22907,3 +22907,12 @@ That's a good sign.	Das ist ein gutes Zeichen.	यह एक अच्छा स
 That's a man's job.	Das ist eine Männerarbeit.	वह एक पुरुष का काम है।
 That's a nice coat.	Das ist ein schöner Mantel.	यह एक अच्छी कोट है।
 That's a nice song.	Das ist ein schönes Lied.	यह एक अच्छा गाना है।
+That's a total lie.	Das ist eine totale Lüge.	यह पूरी तरह से झूठ है।
+That's all we know.	Das ist alles, was wir wissen.	यही हमें पता है।
+That's an old joke.	Das ist ein alter Witz.	यह एक पुराना मजाक है।
+That's devastating.	Das ist verheerend.	यह विनाशकारी है।
+That's even better.	Das ist sogar besser.	यह फिर भी बेहतर है।
+That's fair enough.	Das ist fair genug.	यह काफी उचित है।
+That's for suckers.	Das ist für Dummköpfe.	यह उनके लिए है जो बेवकूफ हैं।
+That's good advice.	Das ist ein guter Ratschlag.	यह एक अच्छी सलाह है।
+That's hard to say.	Das ist schwer zu sagen.	यह कहना मुश्किल है।
