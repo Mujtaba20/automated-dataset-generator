@@ -24633,3 +24633,9 @@ Where can I purchase it?	Wo kann ich es kaufen?	मैं यह कहाँ �
 Where did I put it?	Wo habe ich es hingelegt?	मैंने यह कहाँ रखा था?
 Where did I place it?	Wo habe ich es hingelegt?	मैंने यह कहाँ रखा था?
 Where did I keep it?	Wo habe ich es hingelegt?	मैंने यह कहाँ रखा था?
+Where did Tom work?	Wo hat Tom gearbeitet?	टॉम कहाँ काम किया?
+Where did you live?	Wo hast du gewohnt?	तुम कहाँ रहते थे?
+Where did you work?	Wo hast du gearbeitet?	तुम कहाँ काम किया?
+Where do I come in?	Wo komme ich ins Spiel?	मैं कहाँ आता हूँ?
+Where do I get off?	Wo muss ich aussteigen?	मुझे कहाँ उतरना है?
+Where do they live?	Wo wohnen sie?	वे कहाँ रहते हैं?

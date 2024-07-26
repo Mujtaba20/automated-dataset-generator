@@ -1,14 +1,4 @@
 
-Where did Tom work?	Wo hat Tom gearbeitet?	टॉम ने कहाँ काम किया?
-Where did you live?	Wo haben Sie gewohnt?	आप कहां रहते थे?
-Where did you work?	Wo hast du gearbeitet?	आप कहाँ काम किये थे?
-Where did you work?	Wo habt ihr gearbeitet?	आप कहाँ काम किये थे?
-Where did you work?	Wo haben Sie gearbeitet?	आप कहाँ काम किये थे?
-Where do I come in?	Was hat das mit mir zu tun?	मेरे साथ क्या करना है?
-Where do I come in?	Und wie bin ich daran beteiligt?	और मैं कैसे शामिल हूं?
-Where do I get off?	Wo muss ich aussteigen?	मुझे कहां से निकलूं?
-Where do I get off?	Wo soll ich aussteigen?	मुझे कहां से निकलूं?
-Where do they live?	Wo leben sie?	आप कहाँ रहते हैं?
 Where do we go now?	Wo gehen wir jetzt hin?	अब हम कहाँ जा रहे हैं?
 Where do we go now?	Wohin gehen wir jetzt?	अब हम कहाँ जाये?
 Where does it hurt?	Wo tut es weh?	कहां दर्द हो रहा है?
