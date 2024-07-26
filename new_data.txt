@@ -26514,3 +26514,10 @@ I made this for you.	Ich habe das für dich gemacht.	मैंने यह त�
 I made three errors.	Ich habe drei Fehler gemacht.	मैंने तीन ग़लतियाँ की।
 I make €100 a day.	Ich verdiene €100 am Tag.	मैं रोज €100 कमाता हूँ।
 I managed to get in.	Es gelang mir hereinzukommen.	मुझे प्रवेश करने में सफलता मिली।
+I may not have time.	Ich habe vielleicht keine Zeit.	मेरे पास समय नहीं हो सकता।
+I mean it this time.	Ich meine es dieses Mal ernst.	मैं इस बार इसे मतलब लेता हूँ।
+I meant to call you.	Ich wollte dich anrufen.	मैंने तुम्हें कॉल करने का इरादा किया था।
+I meant to tell you.	Ich wollte dir sagen.	मैंने तुम्हें बताने का इरादा किया था।
+I meant you no harm.	Ich wollte dir nichts Böses.	मैंने तुम्हें कोई नुकसान नहीं पहुँचाना चाहा।
+I met Tom yesterday.	Ich habe gestern Tom getroffen.	मैंने कल टॉम से मिला।
+I met her by chance.	Ich habe sie zufällig getroffen.	मैंने उसे तकरार से मिला।
