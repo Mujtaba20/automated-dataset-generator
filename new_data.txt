@@ -38339,3 +38339,11 @@ I'm writing about you.	Ich schreibe über dich.	मैं तुम्हार�
 I've already said yes.	Ich habe bereits ja gesagt.	मैंने पहले ही हाँ कह दी है।
 I've already told Tom.	Ich habe Tom bereits gesagt.	मैंने पहले ही टॉम को बता दिया है।
 I've always been here.	Ich war schon immer hier.	मैं हमेशा से यहाँ था।
+I've always been poor.	Ich war schon immer arm.	मैं हमेशा से गरीब रहा हूँ।
+I've always hated Tom.	Ich habe Tom immer gehasst.	मैंने हमेशा से टॉम से नफरत की है।
+I've always hated you.	Ich habe dich immer gehasst.	मैंने हमेशा से तुमसे नफरत की है।
+I've always liked Tom.	Ich mochte Tom immer.	मैंने हमेशा से टॉम को पसंद किया है।
+I've always loved you.	Ich habe dich immer geliebt.	मैंने हमेशा से तुमसे प्यार किया है।
+I've become forgetful.	Ich bin vergesslich geworden.	मैं भूलनेवाला बन गया हूँ।
+I've been a lot worse.	Ich bin viel schlimmer gewesen.	मैंने कहीं बदतर हो जाना था।
+I've been here before.	Ich war schon einmal hier.	मैं पहले यहाँ था।

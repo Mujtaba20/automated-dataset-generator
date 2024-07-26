@@ -1,14 +1,4 @@
 
-I've always been poor.	Ich bin immer arm gewesen.	मैं हमेशा गरीब रहा हूं।
-I've always hated Tom.	Ich habe Tom immer gehasst.	मुझे हमेशा टॉम से नफरत थी।
-I've always hated you.	Ich habe dich schon immer gehasst.	मैं हमेशा आपसे नफरत करता हूं।
-I've always hated you.	Ich habe Sie schon immer gehasst.	मैं हमेशा उससे नफरत करता हूं।
-I've always hated you.	Ich habe euch schon immer gehasst.	मैं हमेशा आपसे नफरत करता हूं।
-I've always liked Tom.	Ich habe Tom immer gemocht.	मुझे हमेशा टॉम पसंद आया।
-I've always loved you.	Ich habe dich immer geliebt.	मैंने हमेशा तुम्हें प्यार किया है।
-I've become forgetful.	Ich bin vergesslich geworden.	मैं भुलक्कड़ हो गया हूं।
-I've been a lot worse.	Es ging mir schon viel schlimmer.	मैं बहुत बुरा था।
-I've been here before.	Ich bin schon einmal hier gewesen.	मैं पहले यहाँ गया था।
 I've been to the bank.	Ich bin zur Bank gegangen.	मैं बैंक गया था।
 I've been to the bank.	Ich war auf der Bank.	मैं बेंच पर था।
 I've been to the mall.	Ich war im Einkaufszentrum.	मैं शॉपिंग सेंटर में था।
