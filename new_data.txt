@@ -33709,3 +33709,11 @@ The speaker is young.	Der Sprecher ist jung.	वक्ता जवान है
 The spear missed Tom.	Der Speer verfehlte Tom.	बर्षा ने टॉम को छूने में चूक लगाई।
 The stakes were high.	Die Einsätze waren hoch.	दांव बड़े थे।
 The students laughed.	Die Schüler lachten.	छात्र हँसे।
+The students like it.	Die Studenten mögen es.	छात्रों को यह पसंद है।
+The suit becomes him.	Der Anzug steht ihm gut.	वहाँ अंगराग बदल गया।
+The sun fades colors.	Die Sonne verblassen Farben.	सूरज रंगों को ढालता है।
+The sun is coming up.	Die Sonne geht auf.	सूरज उग रहा है।
+The taxi has arrived.	Der Taxifahrer ist anwesend.	टैक्सी आ चुकी है।
+The telephone is red.	Das Telefon ist rot.	फ़ोन लाल है।
+The temperature fell.	Die Temperatur fiel.	तापमान गिर गया।
+The test is at 4 p.m.	Der Test ist um 16 Uhr.	परीक्षा शाम 4 बजे है।

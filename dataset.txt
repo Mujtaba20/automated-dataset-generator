@@ -1,14 +1,4 @@
 
-The students like it.	Den Studenten gefällt es.	छात्रों को यह पसंद है।
-The students like it.	Die Studenten mögen es.	छात्रों को यह पसंद है।
-The suit becomes him.	Der Anzug steht ihm.	सूट वह है।
-The sun fades colors.	Die Sonne bleicht Farben.	सूरज रंगों को ब्लीच करता है।
-The sun is coming up.	Die Sonne geht auf.	सूर्य उदय होता है।
-The taxi has arrived.	Das Taxi ist da.	टैक्सी है।
-The taxi has arrived.	Das Taxi ist gekommen.	टैक्सी आ गई।
-The telephone is red.	Das Telefon ist rot.	फोन लाल है।
-The temperature fell.	Die Temperatur fiel ab.	तापमान गिरा।
-The test is at 4 p.m.	Der Test findet um 4 Uhr nachmittags statt.	परीक्षण सुबह 4 बजे होता है।
 The text is too long.	Der Text ist zu lang.	पाठ बहुत लंबा है।
 The theater is empty.	Das Theater ist leer.	थिएटर खाली है।
 The tiger was killed.	Der Tiger wurde getötet.	बाघ को मार दिया गया था।
