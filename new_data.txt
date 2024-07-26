@@ -39166,3 +39166,11 @@ She weighs 120 pounds.	Sie hat ein Gewicht von 120 Pfund.	उसने 120 प�
 She went to bed early.	Sie ging früh ins Bett.	उसने जल्दी सोने का फैसला किया।
 She wept with emotion.	Sie weinte vor Gefühlen.	उसने भावनाओं के साथ रोते हुए देखा।
 She wore a pretty hat.	Sie hatte einen hübschen Hut auf.	उसने एक खूबसूरत टोपी पहनी थी।
+She wore a red blouse.	Sie trug ein rotes Oberteil.	उसने लाल ब्लाउज पहना था।
+She wriggled her toes.	Sie hat mit den Zehen gekrümmt.	उसने अपने पैरों को हिलाया।
+She's a jealous woman.	Sie ist eine eifersüchtige Frau.	वह एक ईर्ष्यापूर्ण महिला है।
+She's a single mother.	Sie ist eine alleinerziehende Mutter.	वह एक एकल माँ है।
+She's a stubborn girl.	Sie ist ein starrköpfiges Mädchen.	वह एक ज़िद्दी लड़की है।
+She's eating an apple.	Sie isst einen Apfel.	वह एक सेब खा रही है।
+She's eight years old.	Sie ist acht Jahre alt.	वह आठ साल की है।
+She's in the restroom.	Sie ist auf der Toilette.	वह शौचालय में है।
