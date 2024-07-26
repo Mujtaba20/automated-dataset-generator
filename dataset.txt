@@ -1,14 +1,4 @@
 
-Nobody understands me.	Niemand versteht mich.	मुझे कोई नहीं समझता है।
-Nobody understands us.	Niemand versteht uns.	कोई भी हमें नहीं समझता है।
-Nobody was helping us.	Niemand hat uns geholfen.	किसी ने हमारी मदद नहीं की।
-Nobody was helping us.	Keiner hat uns geholfen.	किसी ने हमारी मदद नहीं की।
-Nobody was helping us.	Niemand half uns.	किसी ने हमारी मदद नहीं की।
-Nobody was interested.	Niemand war interessiert.	किसी को दिलचस्पी नहीं थी।
-Nobody would say that.	Niemand würde das sagen.	कोई भी ऐसा नहीं कहेगा।
-Nobody's going to die.	Es wird niemand sterben.	कोई भी मर नहीं जाएगा।
-Nobody's laughing now.	Niemand lacht jetzt gerade.	अब कोई हंस नहीं रहा है।
-None of that was true.	Nichts davon stimmte.	इसमें से कोई भी सही नहीं था।
 None of us is perfect.	Niemand von uns ist perfekt.	हम में से कोई भी परफेक्ट नहीं है।
 None of your business.	Das geht dich nichts an.	यह आपकी चिंता नहीं है।
 None of your business.	Das geht euch nichts an.	आपको इसकी परवाह नहीं है।

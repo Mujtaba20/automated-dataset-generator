@@ -38946,3 +38946,11 @@ Nobody is really sure.	Niemand ist sich wirklich sicher.	किसी को स
 Nobody knows his name.	Niemand weiß, wie er heißt.	किसी को उसका नाम नहीं पता है।
 Nobody recognized Tom.	Niemand hat Tom erkannt.	किसी ने टॉम को छिपा नहीं।
 Nobody recognized you.	Niemand hat dich erkannt.	किसी ने तुम्हें पहचाना नहीं।
+Nobody understands me.	Niemand versteht mich.	कोई मुझे समझते नहीं है।
+Nobody understands us.	Niemand versteht uns.	कोई हमें समझता नहीं है।
+Nobody was helping us.	Niemand half uns.	कोई हमें मदद नहीं कर रहा था।
+Nobody was interested.	Niemand hatte Interesse.	किसी को भी दिलचस्पी नहीं थी।
+Nobody would say that.	Niemand würde das sagen.	कोई भी वैसा नहीं कहेगा।
+Nobody's going to die.	Niemand wird sterben.	कोई मरने वाला नहीं है।
+Nobody's laughing now.	Niemand lacht jetzt.	अब किसी को हंसी नहीं आ रही है।
+None of that was true.	Nichts davon war wahr.	उसमें से कोई सच नहीं था।
