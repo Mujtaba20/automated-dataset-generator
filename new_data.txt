@@ -36080,3 +36080,11 @@ Are you as tall as me?	Bist du so groß wie ich?	क्या आप मेर�
 Are you back home now?	Bist du jetzt wieder zu Hause?	क्या आप अब घर वापस आ गए हैं?
 Are you being serious?	Meinst du das ernst?	क्या आप सच में ऐसा कर रहे हैं?
 Are you being serious? (alternate meaning)	Nimmst du das ernst?	क्या आप इसे गंभीरता से ले रहे हैं?
+Are you busy tomorrow?	Bist du morgen beschäftigt?	क्या आप कल व्यस्त हैं?
+Are you coming or not?	Kommen Sie oder nicht?	क्या आप आ रहे हैं या नहीं?
+Are you dating anyone?	Daten Sie jemanden?	क्या आप किसी से डेटिंग कर रहे हैं?
+Are you enjoying this?	Genießt du das?	क्या आप इसे आनंद ले रहे हैं?
+Are you enjoying this? - 2	Machst du das gerne?	क्या आप इसे आनंदित कर रहे हैं?
+Are you enjoying this? - 3	Fällt dir das schwer?	क्या आप इसे आनंद ले रहे हो?
+Are you enjoying this? - 4	Ist das angenehm für dich?	क्या आप इसे आनंद ले रहे हैं?
+Are you feeling tired?	Fühlst du dich müde?	क्या आप थक गए हैं?

@@ -1,14 +1,4 @@
 
-Are you busy tomorrow?	Seid ihr morgen beschäftigt?	क्या आप कल व्यस्त हैं?
-Are you coming or not?	Kommst du oder nicht?	तुम्हें साथ आना है या नहीं?
-Are you dating anyone?	Triffst du dich mit jemandem?	क्या आप किसी से मिलते हैं?
-Are you enjoying this?	Macht dir das Freude?	क्या आप इसका आनंद लेते हैं?
-Are you enjoying this?	Macht Ihnen das Freude?	क्या आप इसका आनंद लेते हैं?
-Are you enjoying this?	Macht euch das Freude?	क्या यह आपको खुश करता है?
-Are you enjoying this?	Hast du Freude daran?	आप इसे पसंद करते हैं?
-Are you enjoying this?	Haben Sie Freude daran?	आप इसे पसंद करते हैं?
-Are you enjoying this?	Habt ihr Freude daran?	आप इसे पसंद करते हैं?
-Are you feeling tired?	Fühlst du dich müde?	क्या आप थके हुए हैं
 Are you finished here?	Bist du hier fertig?	क्या आप यहाँ तैयार हैं?
 Are you fond of music?	Mögen Sie Musik?	क्या आपको संगीत पसंद है?
 Are you free tomorrow?	Hast du morgen Zeit?	क्या कल तुम्हारे पास समय है?
