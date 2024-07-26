@@ -29063,3 +29063,13 @@ Tom laced his shoes.	Tom hat seine Schuhe geschnürt.	टॉम ने अपन
 Tom lay on his back.	Tom lag auf dem Rücken.	टॉम पीठ के बल पर लेटा था।
 Tom left right away.	Tom ist sofort gegangen.	टॉम तुरंत चला गया।
 Tom left without me.	Tom ist ohne mich gegangen.	टॉम बिना मुझे छोड़कर चला गया।
+Tom let the cat out.	Tom lieá die Katze raus.	टॉम ने बिल्ली को बाहर छोड़ दिया।
+Tom let us all down.	Tom hat uns alle im Stich gelassen.	टॉम ने हम सभी को नीचा दिखाया।
+Tom lied to my face.	Tom hat mir ins Gesicht gelogen.	टॉम ने मेरे सामने झूठ बोला।
+Tom liked this idea.	Tom mochte diese Idee.	टॉम को यह विचार पसंद आया।
+Tom likes adventure.	Tom mag Abenteuer.	टॉम को साहसिक गतिविधियाँ पसंद हैं।
+Tom likes attention.	Tom mag Aufmerksamkeit.	टॉम को ध्यान पसंद है।
+Tom likes brunettes.	Tom mag Brünette.	टॉम को भूरी बालों वाली महिलाएँ पसंद हैं।
+Tom likes chemistry.	Tom mag Chemie.	टॉम को रसायन विज्ञान पसंद है।
+Tom likes chocolate.	Tom mag Schokolade.	टॉम को चॉकलेट पसंद है।
+Tom likes good food.	Tom mag gutes Essen.	टॉम को अच्छा खाना पसंद है।

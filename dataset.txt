@@ -1,14 +1,4 @@
 
-Tom let the cat out.	Tom ließ die Katze hinaus.	टॉम ने बिल्ली को छोड़ दिया।
-Tom let us all down.	Tom hat uns alle enttäuscht.	टॉम ने हम सभी को निराश किया।
-Tom lied to my face.	Tom log mir ins Gesicht.	मेरे चेहरे पर टॉम लॉग।
-Tom liked this idea.	Tom gefiel diese Idee.	टॉम को यह विचार पसंद आया।
-Tom likes adventure.	Tom mag Abenteuer.	टॉम को एडवेंचर पसंद है।
-Tom likes attention.	Tom steht gerne im Mittelpunkt.	फोकस टॉम पर है।
-Tom likes brunettes.	Tom mag Brünette.	टॉम को श्यामला पसंद है।
-Tom likes chemistry.	Tom mag Chemie.	टॉम को रसायन विज्ञान पसंद है।
-Tom likes chocolate.	Tom mag Schokolade.	टॉम को चॉकलेट पसंद है।
-Tom likes good food.	Tom ist ein Freund der guten Küche.	टॉम अच्छे व्यंजनों का दोस्त है।
 Tom likes hot curry.	Tom mag scharfes Curry.	टॉम को तेज करी पसंद है।
 Tom likes ice cream.	Tom mag Eiscreme.	टॉम को आइसक्रीम पसंद है।
 Tom likes ice cream.	Tom mag Eis.	टॉम को बर्फ पसंद है।
