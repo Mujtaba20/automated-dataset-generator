@@ -1,14 +1,4 @@
 
-Tom ignored the remark.	Tom ignorierte die Bemerkung.	टॉम ने टिप्पणी को नजरअंदाज कर दिया।
-Tom interpreted for me.	Tom dolmetschte für mich.	टॉम ने मेरे लिए व्याख्या की।
-Tom introduced himself.	Tom stellte sich vor.	टॉम ने अपना परिचय दिया।
-Tom introduced himself.	Tom hat sich vorgestellt.	टॉम ने कल्पना की।
-Tom ironed his clothes.	Tom bügelte seine Kleidung.	टॉम ने अपने कपड़े इस्त्री करते थे।
-Tom ironed his clothes.	Tom hat seine Kleidung gebügelt.	टॉम ने अपने कपड़े इस्त्री करते थे।
-Tom is Mary's gardener.	Tom ist Marias Gärtner.	टॉम मारिया का माली है।
-Tom is Mary's grandson.	Tom ist Marys Enkel.	टॉम मैरी का पोता है।
-Tom is Mary's neighbor.	Tom ist Marias Nachbar.	टॉम मारिया का पड़ोसी है।
-Tom is Mary's only son.	Tom ist Marys einziger Sohn.	टॉम मैरी का इकलौता बेटा है।
 Tom is a binge drinker.	Tom ist ein Komasäufer.	टॉम एक कोमा धावक है।
 Tom is a bit conceited.	Tom ist ein bisschen eingebildet.	टॉम थोड़ी कल्पना है।
 Tom is a bit eccentric.	Tom ist etwas exzentrisch.	टॉम थोड़ा सनकी है।
