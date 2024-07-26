@@ -36857,3 +36857,13 @@ He picked up the book.	Er hob das Buch auf.	उसने किताब उठ�
 He presented his card.	Er legte seine Karte vor.	उसने अपनी कार्ड प्रस्तुत की।
 He ran away from home.	Er lief von zu Hause weg.	उसने घर से भाग लिया।
 He reads a great deal.	Er liest sehr viel.	वह बहुत कुछ पढ़ता है।
+He rested for a while.	Er ruhte eine Weile aus.	उसने थोड़ी देर के लिए आराम किया।
+He robbed an old lady.	Er überfiel eine alte Dame.	उसने एक बूढ़ी महिला को लूटा।
+He rose from his seat.	Er erhob sich von seinem Platz.	उसने अपनी सीट से उठा।
+He said he would come.	Er sagte, er werde kommen.	उसने कहा कि वह आएगा।
+He sat in front of me.	Er saß vor mir.	उसने मेरे सामने बैठा।
+He saved the princess.	Er rettete die Prinzessin.	उसने राजकुमारी को बचाया।
+He says he won't come.	Er sagt, er wird nicht kommen.	उसने कहा कि वह नहीं आएगा।
+He scratched his head.	Er kratzte sich am Kopf.	उसने अपने सिर पर खुजली की।
+He seems not to agree.	Er scheint nicht zuzustimmen.	लगता है कि वह सहमत नहीं है।
+He seems to be asleep.	Er scheint zu schlafen.	लगता है कि वह सोने की हालत में है।
