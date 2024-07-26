@@ -1,14 +1,4 @@
 
-I'm trying to study.	Ich versuche zu lernen.	मैं सीखने की कोशिश करता हूँ।
-I'm up in the attic.	Ich bin auf dem Dachboden.	मैं अटारी में हूं।
-I'm used to waiting.	Ich bin es gewohnt zu warten.	मुझे इंतजार करने की आदत है।
-I'm usually on time.	Ich bin normalerweise pünktlich.	मैं आमतौर पर समय पर हूं।
-I'm very busy today.	Ich bin heute sehr beschäftigt.	मैं आज बहुत व्यस्त हूं।
-I'm very good at it.	Ich bin sehr gut darin.	मैं इसमें बहुत अच्छा हूं।
-I'm very happy here.	Ich bin sehr glücklich hier.	मैं यहाँ बहुत खुश हूँ।
-I'm very hungry now.	Jetzt bin ich sehr hungrig.	अब मुझे बहुत भूख लगी है।
-I'm very methodical.	Ich bin gut organisiert.	मैं सुनियोजित हूँ।
-I'm very optimistic.	Ich bin sehr optimistisch.	मैं बहुत आशावादी हूं।
 I'm very sleepy now.	Jetzt bin ich sehr schläfrig.	अब मुझे बहुत नींद आ रही है।
 I'm very successful.	Ich bin sehr erfolgreich.	मैं बहुत सफल हूं।
 I'm waiting for Tom.	Ich warte auf Tom.	मैं टॉम का इंतजार कर रहा हूं।

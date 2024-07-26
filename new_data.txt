@@ -27159,3 +27159,13 @@ I'm too old for you.	Ich bin zu alt für dich.	मैं तुम्हार�
 I'm traveling alone.	Ich reise alleine.	मैं अकेले सफर कर रहा हूँ।
 I'm traveling light.	Ich reise leicht.	मैं हल्के सामान के साथ सफर कर रहा हूँ।
 I'm trying to sleep.	Ich versuche zu schlafen.	मैं सोने की कोशिश कर रहा हूँ।
+I'm trying to study.	Ich versuche zu studieren.	मैं पढ़ाई करने की कोशिश कर रहा हूं।
+I'm up in the attic.	Ich bin oben auf dem Dachboden.	मैं चौघट के ऊपर हूँ।
+I'm used to waiting.	Ich bin es gewohnt zu warten.	मैं इंतजार करने में आदत डाल चुका हुँ।
+I'm usually on time.	Normalerweise bin ich pünktlich.	मैं आमतौर पर समय पर होता हूं।
+I'm very busy today.	Ich bin heute sehr beschäftigt.	आज मैं बहुत व्यस्त हूँ।
+I'm very good at it.	Ich bin sehr gut darin.	मैं इसमें बहुत अच्छा हूँ।
+I'm very happy here.	Ich bin hier sehr glücklich.	मैं यहाँ बहुत खुश हूँ।
+I'm very hungry now.	Ich bin jetzt sehr hungrig.	मुझे अब बहुत भूख लगी है।
+I'm very methodical.	Ich bin sehr methodisch.	मैं बहुत व्यवस्थित हूँ।
+I'm very optimistic.	Ich bin sehr optimistisch.	मैं बहुत आशावादी हूँ।
