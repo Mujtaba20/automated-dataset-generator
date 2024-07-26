@@ -1,16 +1,4 @@
 
-Are you ready to fly?	Bist du flugfertig?	क्या आप उड़ान भरने के लिए तैयार हैं?
-Are you ready to fly?	Bist du flugbereit?	क्या आप उड़ान भरने के लिए तैयार हैं?
-Are you really a nun?	Bist du wirklich Nonne?	क्या आप वास्तव में नन हैं?
-Are you really a nun?	Sind Sie wirklich Nonne?	क्या आप वास्तव में नन हैं?
-Are you really awake?	Bist du wirklich wach?	क्या आप वास्तव में जाग रहे हैं
-Are you really happy?	Bist du wirklich glücklich?	क्या आप वास्तव में खुश हैं
-Are you scared of me?	Hast du Angst vor mir?	आप मुझे से डर रहे हैं?
-Are you spying on me?	Spionierst du mir nach?	क्या आप मेरी जासूसी करते हैं?
-Are you spying on me?	Spionieren Sie mir hinterher?	क्या आप मेरे बाद जासूसी करते हैं?
-Are you still hungry?	Bist du noch hungrig?	क्या तुम अब भी भूखे हो?
-Are you still hungry?	Sind Sie noch hungrig?	क्या तुम अब भी भूखे हो?
-Are you still hungry?	Seid ihr noch hungrig?	क्या तुम अब भी भूखे हो?
 Are you still in bed?	Bist du noch im Bett?	क्या आप अभी तक बिस्तर में हो?
 Are you still in bed?	Sind Sie noch im Bett?	क्या आप अभी तक बिस्तर में हो?
 Are you still in bed?	Seid ihr noch im Bett?	क्या आप अभी तक बिस्तर में हो?

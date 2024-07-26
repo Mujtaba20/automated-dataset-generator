@@ -30425,3 +30425,10 @@ Are you in the sauna?	Bist du in der Sauna?	क्या आप सौने म
 Are you mentally ill?	Bist du geistig krank?	क्या आप मानसिक रूप से बीमार हैं?
 Are you pregnant yet?	Bist du schon schwanger?	क्या आप अभी गर्भवती हैं?
 Are you ready to eat?	Bist du bereit zu essen?	क्या आप खाने के लिए तैयार हैं?
+Are you ready to fly?	Bist du bereit zu fliegen?	क्या तुम उड़ने के लिए तैयार हो?
+Are you really a nun?	Bist du wirklich eine Nonne?	क्या आप सचमुच एक नन तैयार हो?
+Are you really awake?	Bist du wirklich wach?	क्या आप सचमुच जागरूक हैं?
+Are you really happy?	Bist du wirklich glücklich?	क्या आप सचमुच खुश हो?
+Are you scared of me?	Hast du Angst vor mir?	क्या आप मुझसे डरते हैं?
+Are you spying on me?	Spionierst du mich aus?	क्या आप मुझ पर जासूसी कर रहे हैं?
+Are you still hungry?	Bist du immer noch hungrig?	क्या तुम अब भी भूखे हो?
