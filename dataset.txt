@@ -1,14 +1,4 @@
 
-I can manage on my own.	Ich komme schon selber klar.	मैं अपने आप को संभाल सकता हूँ।
-I can teach you guitar.	Ich kann dir das Gitarrenspiel beibringen.	मैं आपको गिटार गेम सिखा सकता हूं।
-I can teach you things.	Ich kann dir Dinge beibringen.	मैं आपको चीजें सिखा सकता हूं।
-I can't agree with you.	Ich kann Ihnen nicht zustimmen.	मैं आपसे सहमत नहीं हो सकता।
-I can't be without you.	Ich kann nicht ohne dich sein.	मेरे लिए तुम्हारे बिना रहना असंभव है।
-I can't bear this pain.	Ich halte diese Schmerzen nicht aus.	मैं इस दर्द को बर्दाश्त नहीं कर सकता।
-I can't bear this pain.	Ich halte diesen Schmerz nicht aus.	मैं यह दर्द नहीं ले सकता।
-I can't control myself.	Ich kann mich nicht beherrschen.	मैं खुद को नियंत्रित नहीं कर पा रहा।
-I can't do that either.	Ich kann das auch nicht.	मैं नहीं कर सकता।
-I can't do that to Tom.	Das kann ich Tom nicht antun.	मैं टॉम के लिए ऐसा नहीं कर सकता।
 I can't do that to you.	Das kann ich dir nicht antun.	मैं आपके साथ ऐसा नहीं कर सकता।
 I can't do that to you.	Ich kann dir das nicht antun.	मैं आपके साथ ऐसा नहीं कर सकता।
 I can't do that to you.	Das kann ich Ihnen nicht antun.	मैं आपके साथ ऐसा नहीं कर सकता।
