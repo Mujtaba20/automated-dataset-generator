@@ -33293,3 +33293,9 @@ Put your wig back on.	Setzen Sie Ihre Perücke wieder auf.	अपनी वि�
 Rabbits like carrots.	Hasen mögen Karotten.	खरगोश गाजर पसंद करते हैं।
 Put it in the drawer. - different meaning	Leg es in die Schublade.	उसे ड्रॉयर में रखें।
 Rabbits like carrots. - different meaning	Kaninchen lieben Möhren.	खरगोश गाजरों को पसंद करते हैं।
+Rabbits love carrots.	Kaninchen mögen Karotten.	रेबिट्स गाजर प्यार करते हैं।
+Raise your left hand.	Erhebt eure linke Hand.	अपना बांया हाथ ऊपर उठाएं।
+Read the story aloud.	Lies die Geschichte laut vor.	किसी कहानी को पढ़ो।
+Remember these rules.	Denken Sie an diese Regeln.	इन नियमों का ध्यान रखें।
+Resistance is futile.	Widerstand ist zwecklos.	प्रतिरोध निष्फल है।
+Room service, please.	Zimmerservice, bitte.	कमरा सेवा कृपया।

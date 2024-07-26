@@ -1,14 +1,4 @@
 
-Rabbits love carrots.	Kaninchen lieben Karotten.	खरगोश गाजर से प्यार करते हैं।
-Rabbits love carrots.	Kaninchen lieben Möhren.	खरगोश गाजर से प्यार करते हैं।
-Raise your left hand.	Heben Sie die linke Hand!	अपना बाएं हाथ उठाओ!
-Raise your left hand.	Hebe die linke Hand!	बाएं हाथ उठाओ!
-Read the story aloud.	Lies die Geschichte laut vor.	जोर से कहानी पढ़ें।
-Read the story aloud.	Lesen Sie die Geschichte laut vor.	जोर से कहानी पढ़ें।
-Read the story aloud.	Lest die Geschichte laut vor.	जोर से कहानी पढ़ें।
-Remember these rules.	Merke dir diese Regeln!	इन नियमों पर ध्यान दें!
-Resistance is futile.	Widerstand ist zwecklos.	प्रतिरोध व्यर्थ है।
-Room service, please.	Zimmerdienst, bitte!	रूम सर्विस, प्लीज़!
 Say it again, please.	Sag das bitte nochmal.	कृपया उसे फिर से कहें।
 Say it again, please.	Bitte sagt das nochmal.	कृपया उसे फिर से कहें।
 Say it again, please.	Sagen Sie das noch einmal, bitte.	उसे एक बार फिर से बोलो कृपया।
