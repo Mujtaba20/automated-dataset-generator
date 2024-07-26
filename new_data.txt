@@ -30886,3 +30886,10 @@ Give it another shot.	Versuch es noch einmal.	इसे एक और मौक�
 Give me a break here.	Gib mir hier eine Pause.	मुझे यहाँ एक ब्रेक दो।
 Give me a call later.	Ruf mich später an.	मुझे बाद में कॉल करें।
 Give me a day or two.	Gib mir einen Tag oder zwei.	मुझे एक दिन या दो दिन दो।
+Give me another beer.	Gib mir ein weiteres Bier.	मुझे एक और बीयर दो।
+Give me back my book.	Gib mir mein Buch zurück.	मेरी किताब वापस करो।
+Give me back my life.	Gib mir mein Leben zurück.	मेरा जीवन वापस करो।
+Give me back my ring.	Gib mir meinen Ring zurück.	मेरी अंगूठी वापस करो।
+Give me the backpack.	Gib mir den Rucksack.	मुझे बैकपैक दो।
+Give me those gloves.	Gib mir die Handschuhe.	मुझे वो दस्ताने दो।
+Give me your address.	Gib mir deine Adresse.	मुझे अपना पता दो।

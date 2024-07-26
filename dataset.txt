@@ -1,15 +1,4 @@
 
-Give me another beer.	Geben Sie mir noch ein Bier!	मुझे एक और बीयर दो!
-Give me another beer.	Gib mir noch ein Bier!	मुझे एक और बीयर दो!
-Give me back my book.	Gib mir mein Buch zurück.	मुझे अपनी किताब वापस दे दो।
-Give me back my life.	Gib mir mein Leben wieder!	मुझे फिर से अपना जीवन दे दो!
-Give me back my ring.	Gib mir meinen Ring zurück!	मुझे मेरी अंगूठी वापस दे दो!
-Give me the backpack.	Gib mir den Rucksack!	मुझे बैकपैक दे दो!
-Give me the backpack.	Gebt mir den Rucksack!	मुझे बैकपैक दे दो!
-Give me the backpack.	Geben Sie mir den Rucksack!	मुझे बैकपैक दे दो!
-Give me those gloves.	Gib mir diese Handschuhe.	मुझे ये दस्ताने दे दो।
-Give me your address.	Gib mir deine Adresse!	मुझे अपना पता दे!
-Give me your address.	Geben Sie mir Ihre Adresse!	मुझे अपना पता दो!
 Give that back to me.	Gib mir das zurück.	मुझे वापस दो।
 Give that back to me.	Geben Sie mir das zurück.	मुझे वापस दे दो।
 Give that back to me.	Gebt mir das zurück.	मुझे वापस दो।
