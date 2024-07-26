@@ -20693,3 +20693,10 @@ Have you gone nuts?	Bist du verrückt geworden?	क्या तुम पाग
 Have you had lunch?	Habt ihr zu Mittag gegessen?	क्या तुमने दोपहर का भोजन किया है?
 Have you missed me?	Habt ihr mich vermisst?	क्या तुमने मुझे याद किया है?
 Have you read this?	Hast du das gelesen?	क्या तुमने यह पढ़ा है?
+Have you seen this?	Hast du das beobachtet?	क्या आपने यह देखा है?
+He abused my trust.	Er hat mein Vertrauen missbraucht.	उसने मेरा भरोसा टूटा.
+He acted foolishly.	Er handelte töricht.	उसने मूर्खतापूर्ण ढंग से काम किया।
+He advised caution.	Er riet zur Vorsicht.	उसने सावधानी सुझाई।
+He appeared honest.	Er schien ehrlich zu sein.	उसे ईमानदार लगा।
+He appeared hungry.	Er schien hungrig zu sein.	उसे भूख लगी थी।
+He arrived in time.	Er kam rechtzeitig an.	उसने समय पर पहुंच गया।

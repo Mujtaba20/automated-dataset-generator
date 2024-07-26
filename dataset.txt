@@ -1,14 +1,4 @@
 
-Have you seen this?	Hast du das gesehen?	क्या तुमने देखा?
-Have you seen this?	Haben Sie das gesehen?	क्या तुमने देखा?
-Have you seen this?	Habt ihr das gesehen?	क्या तुमने देखा?
-He abused my trust.	Er missbrauchte mein Vertrauen.	उसने मेरे विश्वास का दुरुपयोग किया।
-He acted foolishly.	Er handelte sehr töricht.	उन्होंने बहुत मूर्खतापूर्ण अभिनय किया।
-He advised caution.	Er riet zur Vorsicht.	उन्होंने सावधानी बरतने की सलाह दी।
-He appeared honest.	Er schien ehrlich zu sein.	वह ईमानदार लग रहा था।
-He appeared hungry.	Er schien hungrig zu sein.	वह भूखा लग रहा था।
-He arrived in time.	Er kam rechtzeitig an.	वह समय पर पहुंचे।
-He arrived in time.	Er kam pünktlich an.	वह समय पर पहुंचे।
 He arrived with me.	Er kam mit mir zusammen an.	वह मेरे साथ पहुंचे।
 He asked after you.	Er hat sich nach dir erkundigt.	उसने आपसे आपके बारे में पूछा।
 He asked after you.	Er fragte nach dir.	उसने आपसे पूछा।
