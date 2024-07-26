@@ -1,14 +1,4 @@
 
-Tom just winked at you.	Tom hat dir gerade zugezwinkert.	टॉम ने सिर्फ आप पर पलक झपकते हैं।
-Tom kept staring at me.	Tom sah mich unverwandt an.	टॉम ने मुझे अप्रत्याशित रूप से देखा।
-Tom kept the door open.	Tom ließ die Tür offen.	टॉम ने दरवाजा खुला छोड़ दिया।
-Tom kicked in the door.	Tom trat die Tür ein.	टॉम दरवाजे में प्रवेश किया।
-Tom kissed Mary gently.	Tom küsste Maria sanft.	टॉम ने मारिया को धीरे से चूमा।
-Tom kissed Mary's hand.	Tom gab Maria einen Handkuss.	टॉम ने मारिया को एक हाथ चुंबन दिया।
-Tom kissed Mary's hand.	Tom küsste Maria die Hand.	टॉम ने मारिया का हाथ चूमा।
-Tom kissed Mary's hand.	Tom küsste Marias Hand.	टॉम ने मारिया का हाथ चूमा।
-Tom knew Mary's secret.	Tom kannte Marias Geheimnis.	टॉम मारिया के गुप्त को जानता था।
-Tom knows I'm Canadian.	Tom weiß, dass ich Kanadier bin.	टॉम जानता है कि मैं कनाडाई हूं।
 Tom knows Mary is rich.	Tom weiß, dass Maria reich ist.	टॉम जानता है कि मारिया अमीर है।
 Tom knows how to fight.	Tom weiß, wie man kämpft.	टॉम जानता है कि कैसे लड़ना है।
 Tom knows how you feel.	Tom weiß, wie dir zumute ist.	टॉम जानता है कि आप कैसा महसूस करते हैं।
