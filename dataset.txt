@@ -1,14 +1,4 @@
 
-Tom is a bus driver.	Tom ist Busfahrer.	टॉम एक बस चालक है।
-Tom is a chatterbox.	Tom ist eine Labertasche.	टॉम एक लॉबेट है।
-Tom is a clever boy.	Tom ist ein kluger Junge.	टॉम एक चतुर लड़का है।
-Tom is a con artist.	Tom ist ein Hochstapler.	टॉम एक उच्च फोर्कलिफ्ट है।
-Tom is a daydreamer.	Tom ist ein Tagträumer.	टॉम एक दिवास्वप्न है।
-Tom is a delinquent.	Tom ist ein Straftäter.	टॉम एक अपराधी है।
-Tom is a dishwasher.	Tom ist Tellerwäscher.	टॉम एक प्लेट वॉशर है।
-Tom is a doctor now.	Tom ist jetzt Arzt.	टॉम अब एक डॉक्टर है।
-Tom is a family man.	Tom ist ein Familienmensch.	टॉम एक पारिवारिक व्यक्ति है।
-Tom is a fast eater.	Tom ist ein schneller Esser.	टॉम एक त्वरित भक्षक है।
 Tom is a father now.	Tom ist jetzt Vater.	टॉम अब एक पिता है।
 Tom is a fire eater.	Tom ist Feuerschlucker.	टॉम फायर -स्वालॉवर है।
 Tom is a fishmonger.	Tom ist Fischhändler.	टॉम एक मछली निर्माता है।

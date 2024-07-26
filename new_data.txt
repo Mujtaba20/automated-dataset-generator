@@ -28798,3 +28798,13 @@ Tom is a bad person.	Tom ist eine schlechte Person.	टॉम एक बुर�
 Tom is a big coward.	Tom ist ein großer Feigling.	टॉम एक बड़ा कायर है।
 Tom is a big tipper.	Tom ist ein großzügiger Trinkgeldgeber.	टॉम एक बड़ा टिप देने वाला है।
 Tom is a biochemist.	Tom ist ein Biochemiker.	टॉम एक जैव रसायनज्ञ है।
+Tom is a bus driver.	Tom ist ein Busfahrer.	टॉम एक बस चालक है।
+Tom is a chatterbox.	Tom ist ein Schwätzer.	टॉम एक बक-बक करने वाला है।
+Tom is a clever boy.	Tom ist ein kluger Junge.	टॉम एक चतुर लड़का है।
+Tom is a con artist.	Tom ist ein Trickbetrüger.	टॉम एक धोखाधड़ी है।
+Tom is a daydreamer.	Tom ist ein Tagträumer.	टॉम एक ख़्यालों में खोया हुआ है।
+Tom is a delinquent.	Tom ist ein Straftäter.	टॉम एक ग़लत काम करनेवाला है।
+Tom is a dishwasher.	Tom ist ein Geschirrspüler.	टॉम एक पानी करनेवाला है।
+Tom is a doctor now.	Tom ist jetzt Arzt.	अब टॉम डॉक्टर है।
+Tom is a family man.	Tom ist ein Familienmensch.	टॉम एक परिवार प्रेमी है।
+Tom is a fast eater.	Tom ist ein Schnellesser.	टॉम एक जल्दी खाने वाला है।
