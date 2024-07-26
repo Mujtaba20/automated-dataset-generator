@@ -22520,3 +22520,8 @@ My eyes are closed.	Meine Augen sind geschlossen.	मेरी आंखें �
 My eyes are closed. (different meaning)	Meine Augenärztin ist geschlossen.	मेरी आँखों का इलाज बंद है।
 My eyes feel itchy.	Meine Augen jucken.	मेरी आंखें खुजल रही हैं।
 My family is small.	Meine Familie ist klein.	मेरा परिवार छोटा है।
+My father was busy.	Mein Vater war beschäftigt.	मेरे पिताजी व्यस्त थे।
+My friend was shot.	Mein Freund wurde getroffen.	मेरे दोस्त को चोट लगी थी।
+My garden is small.	Mein Garten ist klein.	मेरा बगीचा छोटा है।
+My hair's too long.	Meine Haare sind zu lang.	मेरे बाल बहुत लम्बे हैं।
+My hands are dirty.	Meine Hände sind schmutzig.	मेरे हाथ गंदे हैं।

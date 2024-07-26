@@ -1,14 +1,4 @@
 
-My father was busy.	Mein Vater war beschäftigt.	मेरे पिता व्यस्त थे।
-My friend was shot.	Mein Freund wurde angeschossen.	मेरे दोस्त को गोली मार दी गई थी।
-My friend was shot.	Mein Freund wurde durch einen Schuss verletzt.	मेरा दोस्त एक शॉट से घायल हो गया था।
-My friend was shot.	Mein Freund wurde durch Schüsse verletzt.	मेरा दोस्त शॉट्स से घायल हो गया था।
-My garden is small.	Mein Garten ist klein.	मेरा बगीचा छोटा है।
-My hair's too long.	Meine Haare sind zu lang.	मेरे बाल बहुत लंबे हैं।
-My hair's too long.	Ich habe zu langes Haar.	मेरे बहुत लंबे बाल हैं।
-My hair's too long.	Mein Haar ist zu lang.	मेरे बाल बहुत लंबे हैं।
-My hands are dirty.	Meine Hände sind dreckig.	मेरे हाथ गंदे है।
-My hands are dirty.	Meine Hände sind schmutzig.	मेरे हाथ गंदे है।
 My hands were full.	Meine Hände waren voll.	मेरे हाथ पूरे थे।
 My house is a mess.	Bei mir zu Hause ist es unordentlich.	घर पर यह गन्दा है।
 My husband is lazy.	Mein Mann ist ein Faulpelz.	मेरे पति एक आलसी हैं।
