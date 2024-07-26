@@ -39590,3 +39590,12 @@ There was one witness.	Es gab einen Zeugen.	एक गवाह था।
 There's a big problem.	Es gibt ein großes Problem.	एक बड़ी समस्या है।
 There's a grease spot.	Es gibt einen Fettfleck.	एक तेल का दाग है।
 There's a little wind.	Es gibt etwas Wind.	थोड़ी हवा चल रही है।
+There's a yellow rose.	Hier ist eine gelbe Rose.	यहाँ एक पीली गुलाब है।
+There's no free lunch.	Es gibt kein kostenloses Mittagessen.	कोई फ्री लंच नहीं है।
+There's no going back.	Es gibt kein Zurück.	पीछे जाने का कोई मौका नहीं है।
+There's no sugar here.	Hier gibt es keinen Zucker.	यहाँ चीनी नहीं है।
+There's no wind today.	Heute gibt es keinen Wind.	आज हवा नहीं चल रही है।
+There's nobody inside.	Drinnen ist niemand.	अंदर कोई नहीं है।
+There's nothing there.	Da ist nichts.	वहाँ कुछ नहीं है।
+There's nothing to do.	Es gibt nichts zu tun.	करने के लिए कुछ नहीं है।
+There's nothing to it.	Es ist kinderleicht.	इसमें कोई बात नहीं है।
