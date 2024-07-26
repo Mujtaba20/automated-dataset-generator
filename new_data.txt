@@ -22453,3 +22453,10 @@ Look at that house.	Schau dir das Haus an.	उस घर को देखो।
 Look at this photo.	Schau dir dieses Foto an.	इस तस्वीर को देखो।
 Look at this stuff.	Schau dir dieses Zeug an.	इस सामान को देखो।
 Look at your hands.	Schau dir deine Hände an.	अपने हाथों को देखो।
+Look in the mirror.	Schau in den Spiegel.	दर्पण में देखो।
+Look up at the sky.	Schau nach oben in den Himmel.	आसमान की ओर देखो।
+Look what I caught.	Schau mal, was ich gefangen habe.	देखो मैंने क्या पकड़ा।
+Look what happened.	Schau was passiert ist.	देखो क्या हुआ।
+Look who's talking!	Schau mal, wer spricht!	देखो कौन बोल रहा है!
+Look! She's coming!	Schau mal! Sie kommt!	देखो! वह आ रही है!
+Look, it's snowing!	Schau, es schneit!	देखो, बर्फ गिर रही है!
