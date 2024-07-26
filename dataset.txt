@@ -1,15 +1,4 @@
 
-I wish you happiness.	Ich wünsche dir Glück.	मेरी शुभकामना है कि भाग्य तुम्हारा साथ दे।
-I wish you happiness.	Ich wünsche euch Glück.	मेरी शुभकामना है कि भाग्य तुम्हारा साथ दे।
-I wish you happiness.	Ich wünsche Ihnen Glück.	मेरी शुभकामना है कि भाग्य तुम्हारा साथ दे।
-I wish you were here.	Schön wär's, wenn du hier wärest.	यदि आप यहां होते तो अच्छा होता।
-I woke up at sunrise.	Ich wachte bei Sonnenaufgang auf.	मैं सूर्योदय के समय उठा।
-I won the gold medal.	Ich habe die Goldmedaille gewonnen.	मैंने स्वर्ण पदक जीता।
-I won't ever give up.	Ich werde nie aufgeben.	मै कभी प्रयत्न नही छोडूंगा।
-I won't let you down.	Ich werde dich nicht herunter lassen.	मैं आपको निराश नहीं करूंगा।
-I won't let you jump.	Ich werde dich nicht springen lassen.	मैं आपको कूदने नहीं दूंगा।
-I won't let you jump.	Ich werde euch nicht springen lassen.	मैं तुम्हें कूदने नहीं दूंगा।
-I won't let you jump.	Ich werde Sie nicht springen lassen.	मैं उसे कूदने नहीं दूंगा।
 I won't pay for that.	Dafür bezahle ich nicht!	मैं उसके लिए भुगतान नहीं करता!
 I won't say anything.	Ich werde nichts sagen.	मैं कुछ नहीं कहूंगा।
 I won't sell my soul.	Ich werde meine Seele nicht verkaufen.	मैं अपनी आत्मा नहीं बेचूंगा।

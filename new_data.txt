@@ -32297,3 +32297,10 @@ I wish I were taller.	Ich wünschte, ich wäre größer.	मैं लंबा 
 I wish Tom were dead.	Ich wünschte, Tom wäre tot.	मैं चाहता था कि टॉम मर जाए।
 I wish this was over.	Ich wünschte, das wäre vorbei.	मैं चाहता था कि यह समाप्त हो।
 I wish you good luck.	Ich wünsche dir viel Glück.	मैं तुम्हें शुभकामनाएं देता हूँ।
+I wish you happiness.	Ich wünsche dir Glückseeligkeit.	मैं आपको खुशियां चाहता हूँ।
+I wish you were here.	Ich wünschte du wärst hier.	मैं चाहता हूँ कि तुम यहाँ होते।
+I woke up at sunrise.	Ich bin bei Sonnenaufgang aufgewacht.	मैं सूर्योदय के समय जागा।
+I won the gold medal.	Ich habe die Goldmedaille gewonnen.	मैंने सोने की पदक जीत ली।
+I won't ever give up.	Ich werde niemals aufgeben.	मैं कभी हार नहीं मानूंगा।
+I won't let you down.	Ich lasse dich nicht im Stich.	मैं तुम्हें निराश नहीं करने दूंगा।
+I won't let you jump.	Ich werde dich nicht springen lassen.	मैं तुम्हें उछालने नहीं दूंगा।
