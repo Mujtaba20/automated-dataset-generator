@@ -39654,3 +39654,13 @@ They say I'm retarded.	Sie sagen, ich bin zurückgeblieben.	वे कहते 
 They scorned the liar.	Sie verachteten den Lügner.	उन्होंने झूठे को ठुकराया।
 They settled in Japan.	Sie ließen sich in Japan nieder.	उन्होंने जापान में बस गए।
 They shared the money.	Sie teilten das Geld.	उन्होंने पैसे बाँटे।
+They should apologize.	Sie sollten sich entschuldigen.	उन्हें माफी मांगनी चाहिए।
+They started shooting.	Sie begannen zu schießen.	उन्होंने शूटिंग शुरू की।
+They started shooting. (different meaning)	Sie begannen zu drehen.	उन्होंने शूटिंग शुरू की।
+They stopped laughing.	Sie hörten auf zu lachen.	उन्होंने हँसना बंद कर दिया।
+They talked all night.	Sie sprachen die ganze Nacht.	उन्होंने पूरी रात बातें की।
+They talked for hours.	Sie sprachen stundenlang.	उन्होंने घंटों तक बातें की।
+They tried everything.	Sie haben alles versucht.	उन्होंने सब कुछ कोशिश की।
+They trust each other.	Sie vertrauen sich gegenseitig.	वे एक-दूसरे पर भरोसा करते हैं।
+They used truth serum.	Sie verwendeten Wahrheitsserum.	उन्होंने सत्य स्राव उपयोग किया।
+They want us to do it.	Sie wollen, dass wir es tun.	उन्हें चाहिए कि हम इसे करें।
