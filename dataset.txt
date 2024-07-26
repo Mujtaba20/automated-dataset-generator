@@ -1,14 +1,4 @@
 
-He likes that book.	Er mag dieses Buch.	वह इस पुस्तक को पसंद करता है।
-He likes this book.	Er mag dieses Buch.	वह इस पुस्तक को पसंद करता है।
-He lit the candles.	Er zündete die Kerzen an.	उसने मोमबत्तियाँ जलाईं।
-He lives in Boston.	Er wohnt in Boston.	वह बोस्टन में रहता है।
-He lives in luxury.	Er lebt im Luxus.	वह लक्जरी में रहता है।
-He lives near here.	Er wohnt hier in der Nähe.	वह पास में रहता है।
-He looks very good.	Er sieht sehr gut aus.	वह बहुत अच्छा लग रहा है।
-He lost everything.	Er hat alles verloren.	उसने सब कुछ खो दिया।
-He lost his temper.	Sein Temperament ist mit ihm durchgegangen.	उसका स्वभाव उसके साथ चला गया।
-He loves attention.	Er liebt Aufmerksamkeit.	वह ध्यान देता है।
 He loves to gossip.	Er mag es zu schwatzen.	वह चैट करना पसंद करता है।
 He loves to gossip.	Er mag es sehr zu schwatzen.	वह बहुत चैट करना पसंद करता है।
 He loves traveling.	Er reist liebend gern.	वह यात्रा करना पसंद करता है।

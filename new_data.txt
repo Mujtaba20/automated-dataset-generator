@@ -20813,3 +20813,13 @@ He learned to swim.	Er lernte schwimmen.	उसने तैरना सीख�
 He lied to my face.	Er hat mir ins Gesicht gelogen.	उसने मेरे सामने झूठ बोला।
 He likes adventure.	Er mag Abenteuer.	उसे साहसिक कार्य पसंद है।
 He likes sweet tea.	Er mag süßen Tee.	उसे मीठी चाय पसंद है।
+He likes that book.	Er mag dieses Buch.	उसे वह पुस्तक पसंद है।
+He likes this book.	Er mag dieses Buch.	उसे यह पुस्तक पसंद है।
+He lit the candles.	Er zündete die Kerzen an.	उसने मोमबत्तियाँ जलाईं।
+He lives in Boston.	Er lebt in Boston.	वह बोस्टन में रहता है।
+He lives in luxury.	Er lebt im Luxus.	वह विलास में रहता है।
+He lives near here.	Er lebt in der Nähe hier.	वह यहाँ के पास रहता है।
+He looks very good.	Er sieht sehr gut aus.	वह बहुत अच्छा लगता है।
+He lost everything.	Er hat alles verloren.	उसने सब कुछ खो दिया।
+He lost his temper.	Er verlor die Fassung.	उसने अपना गुस्सा खो दिया।
+He loves attention.	Er liebt Aufmerksamkeit.	उसे ध्यान पसंद है।
