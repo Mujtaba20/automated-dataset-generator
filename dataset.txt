@@ -1,14 +1,4 @@
 
-This is Tom's locker.	Das ist der Spind von Tom.	यह टॉम का लॉकर है।
-This is Tom's school.	Das ist Toms Schule.	यह टॉम का स्कूल है।
-This is Tom's sister.	Das ist Toms Schwester.	यह टॉम की बहन है।
-This is a crazy idea.	Das ist eine verrückte Idee.	यह एक पागल विचार है।
-This is a good point.	Das ist ein guter Gesichtspunkt.	यह एक अच्छा दृष्टिकोण है।
-This is a good thing.	Das ist eine gute Sache.	यह एक अच्छी बात है।
-This is a great book.	Das ist ein großartiges Buch.	ये बहुत अच्छी पुस्तक है।
-This is a great idea.	Das ist eine tolle Idee.	बढ़िया विचार है।
-This is a lemon tree.	Das ist ein Zitronenbaum.	यह एक नींबू का पेड़ है।
-This is a magic wand.	Das ist ein Zauberstab.	यह एक छड़ी है।
 This is a rental car.	Das ist ein Leihwagen.	यह एक किराये की कार है।
 This is a rental car.	Das ist ein Mietwagen.	यह एक किराये की कार है।
 This is a small book.	Dies ist ein kleines Buch.	यह एक छोटी सी किताब है।

@@ -33908,3 +33908,13 @@ This hat isn't Tom's.	Dieser Hut gehört nicht Tom.	यह टॉम की न�
 This ink is the best.	Diese Tinte ist die beste.	यह सबसे अच्छा स्याही है।
 This house is famous.	Dieses Haus ist berühmt.	यह घर प्रसिद्ध है।
 This is Tom's canary.	Das ist Toms Kanarienvogel.	यह टॉम की सुगन्धा है।
+This is Tom's locker.	Das ist Toms Spind.	यह टॉम का लॉकर है।
+This is Tom's school.	Das ist Toms Schule.	यह टॉम की स्कूल है।
+This is Tom's sister.	Das ist Toms Schwester.	यह टॉम की बहन है।
+This is a crazy idea.	Das ist eine verrückte Idee.	यह एक पागल विचार है।
+This is a good point.	Das ist ein guter Punkt.	यह एक अच्छा बिंदु है।
+This is a good thing.	Das ist eine gute Sache.	यह एक अच्छी चीज़ है।
+This is a great book.	Das ist ein großartiges Buch.	यह एक बहुत अच्छी किताब है।
+This is a great idea.	Das ist eine großartige Idee.	यह एक महान विचार है।
+This is a lemon tree.	Das ist ein Zitronenbaum.	यह नींबू का पेड़ है।
+This is a magic wand.	Das ist ein Zauberstab.	यह एक जादू का छड़ी है।
