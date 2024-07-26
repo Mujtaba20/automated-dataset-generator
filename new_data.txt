@@ -40987,3 +40987,13 @@ Was it cold yesterday?	War es gestern kalt?	क्या कल ठंडा थ
 Was it fun doing that?	Hat es Spaß gemacht, das zu tun?	क्या उसे करने में मजा आया?
 Was it fun to do that?	Hat es Spaß gemacht, das zu tun?	क्या उसे करने में मजा आया?
 Was that another joke?	War das ein weiterer Witz?	क्या वह एक और मजाक था?
+Was the train crowded?	War der Zug überfüllt?	क्या ट्रेन भीड़भाड़ से भरी थी?
+Was the window closed?	War das Fenster geschlossen?	क्या खिड़की बंद थी?
+Wasn't he your friend?	War er nicht dein Freund?	क्या वह तुम्हारा दोस्त नहीं था?
+Wasn't that fantastic?	War das nicht fantastisch?	क्या वह बहुत शानदार नहीं था?
+Water has no calories.	Wasser hat keine Kalorien.	पानी में कोई कैलोरी नहीं है।
+We accepted his offer.	Wir akzeptierten sein Angebot.	हमने उसका प्रस्ताव स्वीकार किया।
+We achieved our goals.	Wir haben unsere Ziele erreicht.	हमने अपने लक्ष्यों को पूरा किया।
+We all agree with you.	Wir stimmen alle mit Ihnen überein.	हम सभी आपके साथ सहमत हैं।
+We all desire success.	Wir alle wünschen uns Erfolg.	हम सभी सफलता की इच्छा करते हैं।
+We all hope for peace.	Wir alle hoffen auf Frieden.	हम सभी शांति की आशा करते हैं।
