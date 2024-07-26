@@ -36402,3 +36402,12 @@ Do you miss your wife?	Vermisst du deine Frau?	क्या तुम अपन�
 Do you need a cushion?	Brauchst du ein Kissen?	क्या आपको एक तकिया चाहिए?
 Do you need more time?	Brauchst du mehr Zeit?	क्या आपको और समय चाहिए?
 Do you need the phone?	Brauchst du das Telefon?	क्या आपको फ़ोन की ज़रूरत है?
+Do you need this book?	Brauchst du dieses Buch?	क्या आपको यह किताब चाहिए?
+Do you not like girls?	Magst du keine Mädchen?	क्या आपले लड़कियों से पसंद नहीं है?
+Do you own a computer?	Besitzt du einen Computer?	क्या आपके पास एक कंप्यूटर है?
+Do you play the drums?	Spielst du Schlagzeug?	क्या आप ड्रम बजाते हैं?
+Do you read the Bible?	Liest du die Bibel?	क्या आप बाइबल पढ़ते हैं?
+Do you really like it?	Magst du es wirklich?	क्या आपको यह सच्चमें पसंद है?
+Do you really love me?	Liebst du mich wirklich?	क्या आप मुझसे सच्चमें प्यार करते हैं?
+Do you really mean it?	Meinst du es wirklich?	क्या आप यह सच्चमें मानते हैं?
+Do you see what I see?	Siehst du was ich sehe?	क्या आप जो मैं देख रहा हूं वह देखते हैं?
