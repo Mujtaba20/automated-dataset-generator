@@ -33131,3 +33131,13 @@ My memory is failing	Mein Gedächtnis schwindet.	मेरी यादाश्
 My mother can't come	Meine Mutter kann nicht kommen.	मेरी माँ नहीं आ सकती।
 My mother cooks well	Meine Mutter kocht gut.	मेरी माँ अच्छे खाना बनाती है।
 My mother is a nurse	Meine Mutter ist Krankenschwester.	मेरी माँ नर्स हैं।
+My mother is at home.	Meine Mutter ist zu Hause.	मेरी माँ घर पर है।
+My motorcycle is new.	Mein Motorrad ist neu.	मेरी मोटरसाइकिल नई है।
+My old dress is blue.	Mein altes Kleid ist blau.	मेरा पुराना ड्रेस नीला है।
+My parents are there.	Meine Eltern sind da.	मेरे माता-पिता वहाँ हैं।
+My pen is out of ink.	Mein Stift ist leer.	मेरा कलम स्याही से खाली है।
+My plan was rejected.	Mein Plan wurde abgelehnt.	मेरी योजना को खारिज कर दिया गया था।
+My school has a band.	Meine Schule hat eine Band.	मेरे स्कूल में एक बैंड है।
+My sister is a moron.	Meine Schwester ist eine Idiotin.	मेरी बहन एक मूर्ख है।
+My sister is a nurse.	Meine Schwester ist eine Krankenschwester.	मेरी बहन एक नर्स है।
+My sister is married.	Meine Schwester ist verheiratet.	मेरी बहन शादीशुदा है।

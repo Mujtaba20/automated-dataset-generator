@@ -1,14 +1,4 @@
 
-My mother is at home.	Meine Mutter ist zu Hause.	मेरी माँ घर पर है।
-My motorcycle is new.	Mein Motorrad ist neu.	मेरी मोटरसाइकिल नई है।
-My old dress is blue.	Mein altes Kleid ist blau.	मेरी पुरानी पोशाक नीली है।
-My parents are there.	Meine Eltern sind da.	मेरे माता -पिता हैं।
-My pen is out of ink.	In meinem Füller ist keine Tinte mehr.	मेरे भराव में और अधिक स्याही नहीं है।
-My plan was rejected.	Mein Plan wurde abgelehnt.	मेरी योजना खारिज कर दी गई।
-My school has a band.	Meine Schule hat eine Band.	मेरे स्कूल में एक बैंड है।
-My sister is a moron.	Meine Schwester ist eine Idiotin.	मेरी बहन एक बेवकूफ है।
-My sister is a nurse.	Meine Schwester ist Krankenschwester.	मेरी बहन एक नर्स है।
-My sister is married.	Meine Schwester ist verheiratet.	मेरी बहन शादीशुदा है।
 My skirt is too long.	Mein Rock ist zu lang.	मेरी स्कर्ट बहुत लंबी है।
 My socks aren't here.	Meine Socken sind nicht hier.	मेरे मोजे यहाँ नहीं हैं।
 My son is not a snob.	Mein Sohn ist kein Snob.	मेरा बेटा स्नोब नहीं है।
