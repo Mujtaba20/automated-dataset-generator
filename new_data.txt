@@ -28449,3 +28449,13 @@ This is grape juice.	Das ist Traubensaft.	यह अंगूर का रस �
 This is her handbag.	Das ist ihre Handtasche.	यह उसकी हैंडबैग है।
 This is holy ground.	Dies ist heiliger Boden.	यह पवित्र भूमि है।
 This is insecticide.	Das ist Insektizid.	यह कीटनाशक है।
+This is interesting.	Das ist interessant.	यह दिलचस्प है।
+This is intolerable.	Das ist unerträglich.	यह असह्य है।
+This is just stupid.	Das ist einfach dumm.	यह बस मूर्ख है।
+This is kind of fun.	Das macht irgendwie Spaß.	यह मजेदार है।
+This is much better.	Das ist viel besser.	यह बहुत बेहतर है।
+This is my city now.	Das ist jetzt meine Stadt.	यह अब मेरा शहर है।
+This is my computer.	Das ist mein Computer.	यह मेरा कंप्यूटर है।
+This is my daughter.	Das ist meine Tochter.	यह मेरी बेटी है।
+This is my decision.	Das ist meine Entscheidung.	यह मेरा निर्णय है।
+This is my father's.	Das gehört meinem Vater.	यह मेरे पिताजी का है।
