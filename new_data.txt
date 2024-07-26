@@ -27582,3 +27582,11 @@ Mary is my daughter.	Mary ist meine Tochter.	मेरी बेटी है �
 Mary is my fiancée.	Mary ist meine Verlobte.	मेरी पत्नी है मेरी.
 Mary is not my type.	Mary ist nicht mein Typ.	मेरी मेरा प्रकार नहीं है।
 Mary is very pretty.	Marie ist sehr hübsch.	मेरी बहुत प्यारी है।
+Mary was an actress.	Maria war eine Schauspielerin.	मेरी एक अभिनेत्री थी।
+May I ask your name?	Darf ich Ihren Namen fragen?	क्या मैं आपका नाम पूछ सकता हूँ?
+May I drink alcohol?	Darf ich Alkohol trinken?	क्या मैं शराब पी सकता हूँ?
+May I eat something?	Darf ich etwas essen?	क्या मैं कुछ खा सकता हूँ?
+May I interrupt you?	Darf ich dich unterbrechen?	क्या मैं आपको बाधित कर सकता हूँ?
+May I say something?	Darf ich etwas sagen?	क्या मैं कुछ कह सकता हूँ?
+May I use the phone?	Darf ich das Telefon benutzen?	क्या मैं फ़ोन उपयोग कर सकता हूँ?
+Maybe I fell asleep.	Vielleicht bin ich eingeschlafen.	शायद मैं सो गया था।

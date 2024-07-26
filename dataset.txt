@@ -1,14 +1,4 @@
 
-Mary was an actress.	Mary war Schauspielerin.	मैरी एक अभिनेत्री थीं।
-May I ask your name?	Darf ich Sie nach Ihrem Namen fragen?	क्या मैं आपसे आपका नाम मांग सकता हूं?
-May I drink alcohol?	Darf ich Alkohol trinken?	क्या मैं शराब पी सकता हूं?
-May I eat something?	Darf ich etwas essen?	क्या मैं कुछ खा सकता हूं?
-May I interrupt you?	Darf ich euch unterbrechen?	क्या मैं आपको बाधित कर सकता हूं?
-May I interrupt you?	Darf ich dich unterbrechen?	क्या मैं आपको बाधित कर सकता हूं?
-May I interrupt you?	Darf ich Sie unterbrechen?	क्या मैं उन्हें बाधित कर सकता हूं?
-May I say something?	Darf ich etwas sagen?	क्या मैं कुछ कह सकता हूँ?
-May I use the phone?	Darf ich das Telefon benutzen?	क्या मैं फोन का उपयोग कर सकता हूं?
-Maybe I fell asleep.	Vielleicht bin ich eingeschlafen.	शायद मैं सो गया।
 Maybe Tom can do it.	Vielleicht kann es Tom machen.	शायद टॉम यह कर सकता है।
 Maybe Tom is guilty.	Vielleicht ist Tom schuldig.	शायद टॉम दोषी है।
 Maybe Tom is stupid.	Vielleicht ist Tom dumm.	शायद टॉम बेवकूफ है।
