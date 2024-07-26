@@ -40802,3 +40802,13 @@ Tom walks with a cane.	Tom geht mit einem Stock.	टॉम लाठी के �
 Tom walks with a limp.	Tom geht humpelnd.	टॉम पेटू पर चलता है।
 Tom wanted an apology.	Tom wollte eine Entschuldigung.	टॉम को माफी चाहिए थी।
 Tom wanted to be rich.	Tom wollte reich sein.	टॉम धनवान बनना चाहता था।
+Tom wanted to meet me.	Tom wollte mich treffen.	टॉम ने मुझसे मिलना चाहा।
+Tom wanted to see you.	Tom wollte dich sehen.	टॉम ने तुम्हें देखना चाहा।
+Tom wanted to succeed.	Tom wollte Erfolg haben.	टॉम को सफलता प्राप्त करनी थी।
+Tom wants me to do it.	Tom möchte, dass ich es tue.	टॉम चाहता है कि मैं यह करूं।
+Tom wants more coffee.	Tom möchte mehr Kaffee.	टॉम को और कॉफ़ी चाहिए।
+Tom wants to be loved.	Tom möchte geliebt werden.	टॉम को प्यार किया जाना चाहिए।
+Tom wants to go alone.	Tom möchte alleine gehen.	टॉम अकेले जाना चाहता है।
+Tom wants to know why.	Tom möchte wissen, warum.	टॉम जानना चाहता है कि क्यों।
+Tom wants to marry me.	Tom will mich heiraten.	टॉम ने मुझसे शादी करनी है।
+Tom wants to meet you.	Tom möchte dich treffen.	टॉम को तुमसे मिलना है।

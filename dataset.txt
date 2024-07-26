@@ -1,15 +1,4 @@
 
-Tom wanted to meet me.	Tom wollte mich treffen.	टॉम मुझसे मिलना चाहता था।
-Tom wanted to see you.	Tom wollte dich sehen.	टॉम आपको देखना चाहता था।
-Tom wanted to succeed.	Tom wollte Erfolg haben.	टॉम सफल होना चाहता था।
-Tom wants me to do it.	Tom will, dass ich es mache.	टॉम चाहता है कि मैं इसे करूं।
-Tom wants more coffee.	Tom möchte noch Kaffee.	टॉम अभी भी कॉफी चाहता है।
-Tom wants to be loved.	Tom möchte geliebt werden.	टॉम प्यार करना चाहता है।
-Tom wants to go alone.	Thomas möchte alleine gehen.	थॉमस अकेले जाना चाहता है।
-Tom wants to know why.	Tom will wissen, warum.	टॉम जानना चाहता है कि क्यों।
-Tom wants to marry me.	Tom will mich heiraten.	टॉम मुझसे शादी करना चाहता है।
-Tom wants to meet you.	Tom will dich kennenlernen.	टॉम आपको जानना चाहता है।
-Tom wants to meet you.	Tom will Sie kennenlernen.	टॉम उसे जानना चाहता है।
 Tom wants to see Mary.	Tom möchte Maria sehen.	टॉम मारिया को देखना चाहता है।
 Tom wants to see that.	Tom will das sehen.	टॉम उसे देखना चाहता है।
 Tom wants us to leave.	Tom möchte, dass wir gehen.	टॉम चाहता है कि हम जाएं।
