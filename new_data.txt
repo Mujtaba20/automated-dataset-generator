@@ -38469,3 +38469,8 @@ Is this your suitcase? (different meaning)	Gehört dir dieser Koffer?	क्य�
 Is this your umbrella?	Ist das dein Regenschirm?	क्या यह तुम्हारी छाता है?
 Is this your umbrella? (different meaning)	Gehört dir dieser Schirm?	क्या यह तुम्हारी छाता है?
 Is tomorrow a holiday?	Ist morgen ein Feiertag?	क्या कल छुट्टी है?
+Is your headache gone?	Sind deine Kopfschmerzen vorbei?	क्या तुम्हारा सिरदर्द गया है?
+Is your watch correct?	Ist deine Uhr richtig?	क्या आपकी घड़ी सही है?
+Isn't it your day off?	Ist es nicht dein freier Tag?	क्या यह तुम्हारा अवकाश नहीं है?
+Isn't life just great?	Ist das Leben nicht großartig?	क्या जिंदगी बस शानदार नहीं है?
+Isn't the answer easy?	Ist die Antwort nicht einfach?	क्या जवाब आसान नहीं है?
