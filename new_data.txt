@@ -36366,3 +36366,11 @@ Do you have any money?	Hast du etwas Geld?	क्या आपके पास �
 Do you have any proof?	Hast du einen Beweis?	क्या आपके पास कोई सबूत है?
 Do you have any sugar?	Hast du etwas Zucker?	क्या आपके पास चीनी है?
 Do you have any water?	Hast du etwas Wasser?	क्या आपके पास पानी है?
+Do you have some milk?	Hast du etwas Milch?	क्या आपके पास कुछ दूध है?
+Do you have some wine?	Hast du etwas Wein?	क्या आपके पास कुछ शराब है?
+Do you have the money?	Hast du das Geld?	क्या आपके पास पैसे हैं?
+Do you have to go now?	Musst du jetzt gehen?	क्या आपको अब जाना है?
+Do you have toothache?	Hast du Zahnschmerzen?	क्या आपको दांत में दर्द है?
+Do you have tuna fish?	Haben Sie Thunfisch?	क्या आपके पास टूना मछली है?
+Do you have two books?	Hast du zwei Bücher?	क्या आपके पास दो किताबें हैं?
+Do you hear something?	Hörst du etwas?	क्या आप कुछ सुन रहे हैं?

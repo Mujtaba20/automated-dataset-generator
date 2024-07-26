@@ -1,15 +1,4 @@
 
-Do you have some milk?	Habt ihr Milch?	क्या आपके पास दूध है?
-Do you have some wine?	Hast du etwas Wein?	क्या आपके पास कुछ शराब है?
-Do you have the money?	Hast du das Geld?	क्या तुम्हारे पास पैसा है?
-Do you have to go now?	Musst du jetzt gehen?	क्या आपको अब जाना है?
-Do you have toothache?	Hast du Zahnschmerzen?	क्या आपको दांत दर्द है?
-Do you have tuna fish?	Haben Sie Thunfisch?	क्या आपके पास टूना है?
-Do you have tuna fish?	Hast du Thunfisch?	क्या आपके पास टूना है?
-Do you have two books?	Hast du zwei Bücher?	क्या आपके पास दो किताबें हैं?
-Do you hear something?	Hörst du etwas?	क्या आप कुछ सुनते हैं?
-Do you hear something?	Hört ihr etwas?	क्या आप कुछ सुनते हैं?
-Do you hear something?	Hören Sie etwas?	क्या आप कुछ सुनते हैं?
 Do you know my father?	Kennst du meinen Vater?	क्या आप मेरे पिता को जानते हैं?
 Do you know my father?	Kennt ihr meinen Vater?	क्या आप मेरे पिता को जानते हैं?
 Do you know my father?	Kennen Sie meinen Vater?	क्या आप मेरे पिता को जानते हैं?
