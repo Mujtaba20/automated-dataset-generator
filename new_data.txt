@@ -34689,3 +34689,13 @@ Tom made fun of Mary.	Tom machte sich über Mary lustig.	टॉम ने मे
 Tom made me go there.	Tom schickte mich dorthin.	टॉम ने मुझे वहां जाने के लिए कहा।
 Tom made no response.	Tom reagierte nicht.	टॉम ने कोई प्रतिक्रिया नहीं दी।
 Tom made some coffee.	Tom machte etwas Kaffee.	टॉम ने कुछ कॉफ़ी बनाई।
+Tom made this for me.	Tom hat das für mich gemacht.	टॉम ने यह मेरे लिए बनाया।
+Tom made up his mind.	Tom hat sich entschieden.	टॉम ने अपने मन बना लिया।
+Tom mailed the check.	Tom hat den Scheck verschickt.	टॉम ने चेक भेज दिया।
+Tom majored in drama.	Tom hat in Drama seinen Schwerpunkt gelegt.	टॉम ने ड्रामा में मेजर किया।
+Tom makes Mary happy.	Tom macht Mary glücklich.	टॉम मेरी को खुश करता है।
+Tom may be in Boston.	Tom könnte in Boston sein.	टॉम बॉस्टन में हो सकता है।
+Tom may do that here.	Tom darf das hier machen.	टॉम यहाँ ऐसा कर सकता है।
+Tom may get divorced.	Tom könnte geschieden werden.	टॉम तलाक हो सकता है।
+Tom may have come in.	Tom könnte hereingekommen sein.	टॉम आ सकता था।
+Tom may have seen it.	Tom könnte es gesehen haben.	टॉम ने इसे देखा हो सकता है।
