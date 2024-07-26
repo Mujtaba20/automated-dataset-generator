@@ -22598,3 +22598,13 @@ Nothing went wrong.	Nichts ist schiefgegangen.	कुछ गलत नहीं 
 Nothing's going on.	Es passiert nichts.	कुछ नहीं हो रहा है।
 Now I'm wide awake.	Jetzt bin ich hellwach.	अब मैं पूरी तरह से जाग गया हूँ।
 Now everyone knows.	Jetzt weiß jeder.	अब हर कोई जानता है।
+Now it is official.	Jetzt ist es offiziell.	अब यह आधिकारिक है।
+Now it's your turn.	Jetzt bist du dran.	अब तुम्हारी बारी है।
+Now it's your turn. 1	Nun bist du an der Reihe.	अब आपकी बारी है।
+Now it's your turn. 2	Jetzt seid Ihr dran.	अब तुम्हारी बारी है।
+Obey your teachers.	Gehorche deinen Lehrern.	अपने शिक्षकों का आज्ञानुसारी रहें।
+Once is not enough.	Einmal reicht nicht aus.	एक बार काफी नहीं है।
+One of us is wrong.	Einer von uns irrt sich.	हम में से एक गलत है।
+Open your suitcase.	Öffne deinen Koffer.	अपना स्याही खोलो।
+Open your suitcase. 1	Mach deinen Koffer auf.	अपना केस खोलो।
+Open your suitcase. 2	Öffnen Sie Ihren Koffer.	अपना सुइटकेस खोलिए।
