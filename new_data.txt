@@ -32499,3 +32499,11 @@ I'm going to go home.	Ich werde nach Hause gehen.	मैं घर जाने 
 I'm going to make it.	Ich werde es schaffen.	मैं इसे करने जा रहा हूँ।
 I'm going to see Tom.	Ich werde Tom sehen.	मैं टॉम से मिलने जा रहा हूँ।
 I'm going to meet Tom.	Ich werde Tom treffen.	मैं टॉम से मिलने जा रहा हूँ।
+I'm going to the gym.	Ich gehe ins Fitnessstudio.	मैं जिम जा रहा हूँ।
+I'm good at Japanese.	Ich bin gut in Japanisch.	मुझसे जापानी में अच्छा काम होता है।
+I'm good at juggling.	Ich bin gut im Jonglieren.	मुझसे जादू में अच्छा काम होता है।
+I'm good with people.	Ich verstehe mich gut mit Menschen.	मैं लोगों के साथ अच्छा हूँ।
+I'm happier than you.	Ich bin glücklicher als du.	मैं आपसे खुश हूँ।
+I'm happy about that.	Ich bin darüber glücklich.	मैं उसके बारे में खुश हूँ।
+I'm happy about this.	Ich bin darüber glücklich.	मैं इसके बारे में खुश हूँ।
+I'm happy to be here.	Ich bin froh, hier zu sein.	मुझे यहाँ होने के लिए खुशी है।
