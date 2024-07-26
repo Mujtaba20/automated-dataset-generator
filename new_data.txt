@@ -22309,3 +22309,10 @@ It's a good school.	Es ist eine gute Schule.	यह एक अच्छा स�
 It's a lot of work.	Es ist viel Arbeit.	यह बहुत सारा काम है।
 It's a pretty flag.	Es ist eine hübsche Flagge.	यह एक सुंदर झंडा है।
 It's a proven fact.	Es ist ein bewiesener Fakt.	यह एक सिद्ध तथ्य है।
+It's a red herring.	Es ist eine falsche Fährte.	यह एक गलत धोखा है।
+It's a stupid idea.	Es ist eine dumme Idee.	यह एक मूर्ख विचार है।
+It's a stupid rule.	Es ist eine dumme Regel.	यह एक मूर्ख नियम है।
+It's a typo. Sorry.	Es ist ein Tippfehler. Entschuldigung.	यह एक टाइपो है। माफ़ कीजिये।
+It's a vague story.	Es ist eine vage Geschichte.	यह एक अस्पष्ट कहानी है।
+It's all our fault.	Es ist alles unsere Schuld.	यह सब हमारी गलती है।
+It's all up to you.	Es liegt ganz bei dir.	यह सब तुम्हारे हाथ में है।
