@@ -23823,3 +23823,11 @@ Tom let the cat in.	Tom ließ die Katze herein.	टॉम ने बिल्ल
 Tom liked the idea.	Tom mochte die Idee.	टॉम को विचार अच्छा लगा।
 Tom likes everyone.	Tom mag alle.	टॉम सभी को पसंद करता है।
 Tom likes it there.	Tom mag es dort.	टॉम को वहाँ पसंद है।
+Tom likes lacrosse.	Tom mag Lacrosse.	टॉम को लैक्रोस पसंद है।
+Tom likes macaroni.	Tom mag Makkaroni.	टॉम को मैकरोनी पसंद है।
+Tom likes my jokes.	Tom mag meine Witze.	टॉम को मेरे चुटकुले पसंद हैं।
+Tom likes potatoes.	Tom mag Kartoffeln.	टॉम को आलू पसंद है।
+Tom likes redheads.	Tom mag Rothaarige.	टॉम को लाल-बालों वाले लोग पसंद हैं।
+Tom likes swimming.	Tom mag schwimmen.	टॉम को तैरना पसंद है।
+Tom likes that one.	Tom mag das.	टॉम को वह पसंद है।
+Tom likes the idea.	Tom mag die Idee.	टॉम को यह विचार पसंद है।

@@ -1,14 +1,4 @@
 
-Tom likes lacrosse.	Tom mag Lacrosse.	टॉम को लैक्रोस पसंद है।
-Tom likes macaroni.	Tom mag Makkaroni.	टॉम मागरोनी।
-Tom likes my jokes.	Tom mag meine Witze.	टॉम को मेरे चुटकुले पसंद हैं।
-Tom likes potatoes.	Tom isst gerne Kartoffeln.	टॉम को आलू खाना पसंद है।
-Tom likes redheads.	Tom mag Rothaarige.	टॉम को रेडहेड पसंद है।
-Tom likes swimming.	Tom schwimmt gern.	टॉम को तैरना पसंद है।
-Tom likes that one.	Tom mag dieses.	टॉम को यह पसंद है।
-Tom likes that one.	Tom mag den.	टॉम को वह पसंद है।
-Tom likes that one.	Tom mag die.	टॉम को वह पसंद है।
-Tom likes the idea.	Tom gefällt die Idee.	टॉम को विचार पसंद है।
 Tom likes the rain.	Tom mag den Regen.	टॉम को बारिश पसंद है।
 Tom likes to argue.	Tom streitet sich gern.	टॉम को बहस करना पसंद है।
 Tom likes to drink.	Tom trinkt gerne.	टॉम को पीना पसंद है।
