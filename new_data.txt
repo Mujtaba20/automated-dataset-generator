@@ -21187,3 +21187,11 @@ I don't want sugar.	Ich möchte keinen Zucker.	मुझे चीनी नह�
 I don't want to go.	Ich möchte nicht gehen.	मुझे जाना नहीं है।
 I drank the coffee.	Ich trank den Kaffee.	मैंने कॉफ़ी पी।
 I dreamt about you.	Ich träumte von dir.	मैंने तुम्हारे बारे में सपना देखा।
+I dropped my apple.	Ich ließ meinen Apfel fallen.	मैंने अपनी सेब गिरा दी।
+I dropped the tray.	Ich ließ das Tablett fallen.	मैंने ट्रे गिरा दिया।
+I ended up winning.	Am Ende habe ich gewonnen.	मैं जीतने में सफल रहा।
+I enjoy doing that.	Ich genieße es, das zu tun.	मुझे उसे करने में मज़ा आता है।
+I enjoy doing this.	Ich habe Spaß daran, das zu tun.	मुझे यह करते हुए मज़ा आता है।
+I enjoy eating out.	Mir gefällt essen zu gehen.	मुझे बाहर खाने में मज़ा आता है।
+I enjoyed it a lot.	Ich habe es sehr genossen.	मैंने इसे बहुत मज़ा किया।
+I enjoyed swimming.	Ich habe es genossen zu schwimmen.	मुझे तैरने में मज़ा आया।

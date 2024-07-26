@@ -1,15 +1,4 @@
 
-I dropped my apple.	Ich habe meinen Apfel fallenlassen.	मैंने अपना सेब गिरा दिया।
-I dropped the tray.	Mir ist das Tablett heruntergefallen.	मैं ट्रे नीचे गिर गया।
-I dropped the tray.	Mir ist das Tablett runtergefallen.	मैं ट्रे नीचे गिर गया।
-I ended up winning.	Am Ende habe ich gewonnen.	अंत में मैं जीत गया।
-I enjoy doing that.	Ich mache das gerne.	मुझे यह करना पसंद है।
-I enjoy doing this.	Ich mache das gerne.	मुझे यह करना पसंद है।
-I enjoy eating out.	Ich gehe gern essen.	मुझे खाना पसंद है।
-I enjoyed it a lot.	Das hat mir großen Spaß gemacht.	मुझे बहुत मज़ा आया।
-I enjoyed swimming.	Schwimmen hat mir Freude gemacht.	मुझे तैराकी का आनंद मिला।
-I enjoyed swimming.	Schwimmen machte mir Freude.	तैराकी ने मेरा आनंद लिया।
-I enjoyed swimming.	Das Schwimmen hat mir Spaß gemacht.	मुझे तैराकी का आनंद मिला।
 I entered the cave.	Ich betrat die Höhle.	मैंने गुफा में प्रवेश किया।
 I envy you so much.	Ich beneide dich sehr.	मैं आपसे बहुत ईर्ष्या करता हूं।
 I expect your help.	Ich erwarte deine Hilfe.	मुझे आपकी मदद की उम्मीद है।
