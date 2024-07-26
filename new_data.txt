@@ -37110,3 +37110,10 @@ I am totally confused.	Ich bin völlig verwirrt.	मैं पूरी तर�
 I am writing a letter.	Ich schreibe einen Brief.	मैं एक पत्र लिख रहा हूँ।
 I anticipated trouble.	Ich erwartete Ärger.	मैं मुसीबत की उम्मीद कर रहा था।
 I asked where Tom was.	Ich habe gefragt, wo Tom war.	मैंने पूछा कि टॉम कहाँ था।
+I assume you're angry.	Ich nehme an, du bist verärgert.	मुझे लगता है कि आप नाराज हैं।
+I ate with my parents.	Ich habe mit meinen Eltern gegessen.	मैंने अपने माता-पिता के साथ खाना खाया।
+I believe I was wrong.	Ich glaube, ich lag falsch.	मेरा मानना है कि मैं गलत था।
+I believe Tom can win.	Ich glaube, Tom kann gewinnen.	मुझे लगता है कि टॉम जीत सकता है।
+I believe in miracles.	Ich glaube an Wunder.	मैं चमत्कारों में विश्वास रखता हूँ।
+I believe it's a myth.	Ich glaube, es ist ein Mythos.	मुझे लगता है कि यह एक पौराणिक कथा है।
+I bet you know French.	Ich wette, du sprichst Französisch.	मैं आपसे बहुमत लगाता हूँ कि आप फ्रेंच बोलते हो।

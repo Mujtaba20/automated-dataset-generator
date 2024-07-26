@@ -1,15 +1,4 @@
 
-I assume you're angry.	Ich nehme an, du bist wütend.	मुझे लगता है कि आप नाराज हैं।
-I assume you're angry.	Ich nehme an, Sie sind verärgert.	मुझे लगता है कि आप परेशान हैं।
-I ate with my parents.	Ich aß mit meinen Eltern.	मैंने अपने माता -पिता के साथ खाया।
-I believe I was wrong.	Ich glaube, ich hatte nicht recht.	मुझे लगता है कि मैं सही नहीं था।
-I believe I was wrong.	Ich glaube, ich lag falsch.	मुझे लगता है कि मैं गलत था।
-I believe Tom can win.	Ich glaube, Tom kann gewinnen.	मुझे लगता है कि टॉम जीत सकता है।
-I believe in miracles.	Ich glaube an Wunder.	मैं आश्चर्य में विश्वास करता हूं।
-I believe it's a myth.	Das halte ich für ein Gerücht.	मुझे लगता है कि यह एक अफवाह है।
-I bet you know French.	Ich wette, du kannst Französisch.	मुझे यकीन है कि आप फ्रेंच कर सकते हैं।
-I bet you know French.	Ich wette, ihr könnt Französisch.	मुझे यकीन है कि आप फ्रेंच कर सकते हैं।
-I bet you know French.	Ich wette, Sie können Französisch.	मुझे यकीन है कि आप फ्रेंच कर सकते हैं।
 I bought a basketball.	Ich habe einen Basketball gekauft.	मैंने एक बास्केटबॉल खरीदा।
 I bought a dictionary.	Ich habe ein Wörterbuch gekauft.	मैंने एक शब्दकोश खरीदा।
 I bought a dictionary.	Ich habe mir ein Wörterbuch gekauft.	मैंने एक शब्दकोश खरीदा।
