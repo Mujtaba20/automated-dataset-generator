@@ -1,14 +1,4 @@
 
-Tom rang the doorbell.	Tom klingelte an der Tür.	टॉम ने दरवाजे की घंटी बजाई।
-Tom rang the doorbell.	Tom hat an der Tür geklingelt.	टॉम ने दरवाजे की घंटी बजाई।
-Tom rarely eats fruit.	Tom isst selten Obst.	टॉम शायद ही कभी फल खाते हैं।
-Tom rarely ever spoke.	Tom hat kaum einmal etwas gesagt.	टॉम ने शायद ही कुछ कहा।
-Tom rarely ever spoke.	Tom hat praktisch nichts gesagt.	टॉम ने व्यावहारिक रूप से कुछ नहीं कहा।
-Tom rarely ever spoke.	Tom hat sich kaum einmal zu Wort gemeldet.	टॉम ने शायद ही कभी बात की।
-Tom rarely ever spoke.	Tom hat kaum einmal das Wort ergriffen.	टॉम ने शायद ही कभी फर्श लिया हो।
-Tom rarely gets angry.	Tom wird selten böse.	टॉम शायद ही कभी बुराई करता है।
-Tom rarely went there.	Tom ging nur selten dorthin.	टॉम शायद ही वहां गया था।
-Tom reacted instantly.	Tom reagierte sofort.	टॉम ने तुरंत प्रतिक्रिया दी।
 Tom read a comic book.	Tom las ein Comicbuch.	टॉम ने एक कॉमिक बुक पढ़ी।
 Tom really hates Mary.	Tom hasst Mary total.	टॉम से मैरी टोटल से नफरत है।
 Tom really likes Mary.	Tom mag Maria wirklich gern.	टॉम वास्तव में मारिया को पसंद करता है।

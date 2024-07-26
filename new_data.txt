@@ -40620,3 +40620,9 @@ Tom ran down the hill.	Tom rannte den Hügel hinunter.	टॉम पहाड़
 Tom ran into the room.	Tom rannte ins Zimmer.	टॉम कमरे में दौड़ा।
 Tom ran into the shop.	Tom rannte in den Laden.	टॉम दुकान में दौड़ा।
 Tom ran up the stairs.	Tom lief die Treppen hoch.	टॉमने सीढ़ियों पर चढ़ाई की।
+Tom rang the doorbell.	Tom läutete an der Türklingel.	टॉम ने दरवाजे की घंटी बजाई।
+Tom rarely eats fruit.	Tom isst selten Obst.	टॉम अक्सर फल नहीं खाता।
+Tom rarely ever spoke.	Tom sprach selten.	टॉम कभी-कभार बोलता था।
+Tom rarely gets angry.	Tom wird selten wütend.	टॉम शांत रहता है।
+Tom rarely went there.	Tom ging selten dorthin.	टॉम वहाँ बहुत कम गया।
+Tom reacted instantly.	Tom reagierte sofort.	टॉम तुरंत प्रतिक्रिया दिया।
