@@ -1,15 +1,4 @@
 
-Tom looks after us.	Tom kümmert sich um uns.	टॉम हमारी देखभाल करता है।
-Tom looks confused.	Tom sieht verwirrt aus.	टॉम उलझन में दिखता है।
-Tom looks dejected.	Tom sieht niedergeschlagen aus.	टॉम नीचे दिखता है।
-Tom looks grateful.	Thomas schaut dankbar aus.	थॉमस कृतज्ञता से दिखता है।
-Tom looks like you.	Tom sieht aus wie du.	टॉम आप की तरह दिखता है।
-Tom looks relieved.	Tom sieht erleichtert aus.	टॉम राहत महसूस करता है।
-Tom looks terrific.	Tom sieht toll aus.	टॉम बहुत अच्छा लग रहा है।
-Tom lost his house.	Tom verlor sein Haus.	टॉम ने अपना घर खो दिया।
-Tom lost his sight.	Tom hat sein Augenlicht verloren.	टॉम ने अपनी दृष्टि खो दी है।
-Tom lost his voice.	Tom hat seine Stimme verloren.	टॉम ने अपनी आवाज खो दी।
-Tom lost his voice.	Tom verlor seine Stimme.	टॉम ने अपनी आवाज खो दी।
 Tom loved teaching.	Tom liebte es zu unterrichten.	टॉम को सिखाना बहुत पसंद था।
 Tom loved teaching.	Tom gab für sein Leben gern Unterricht.	टॉम को अपने जीवन के लिए सबक देना पसंद था।
 Tom loves children.	Tom liebt Kinder.	टॉम बच्चों से प्यार करता है।

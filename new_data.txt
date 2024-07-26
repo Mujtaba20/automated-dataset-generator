@@ -23851,3 +23851,13 @@ Tom looked excited.	Tom sah aufgeregt aus.	टॉम उत्साहित �
 Tom looked outside.	Tom schaute nach draußen.	टॉम बाहर देख रहा था।
 Tom looked pensive.	Tom schaute nachdenklich.	टॉम चिंताग्रस्त दिखा।
 Tom looked worried.	Tom sah besorgt aus.	टॉम चिंतित दिखा।
+Tom looks after us.	Tom kümmert sich um uns.	टॉम हमारा ध्यान रखता है।
+Tom looks confused.	Tom sieht verwirrt aus.	टॉम उलझन में लगता है।
+Tom looks dejected.	Tom wirkt niedergeschlagen.	टॉम उदास लग रहा है।
+Tom looks grateful.	Tom sieht dankbar aus.	टॉम कृतज्ञ है।
+Tom looks like you.	Tom sieht aus wie du.	टॉम आपकी तरह दिखता है।
+Tom looks relieved.	Tom wirkt erleichtert.	टॉम को आराम मिला।
+Tom looks terrific.	Tom sieht fantastisch aus.	टॉम बहुत भव्य लग रहा है।
+Tom lost his house.	Tom hat sein Haus verloren.	टॉम ने अपना घर खो दिया।
+Tom lost his sight.	Tom hat seinen Blick verloren.	टॉम को उसकी दृष्टि खो दी।
+Tom lost his voice.	Tom hat seine Stimme verloren.	टॉम ने अपनी आवाज़ खो दी।
