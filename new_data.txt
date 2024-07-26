@@ -37783,3 +37783,12 @@ I really feel for you.	Ich fühle wirklich mit dir.	मैं वास्तव
 I really like it, too.	Ich mag es auch wirklich.	मुझे यह भी वास्तव में पसंद है।
 I really like puppies.	Ich mag Welpen wirklich.	मुझे पिल्लें वास्तव में पसंद हैं।
 I really like seafood.	Ich mag Meeresfrüchte wirklich.	मुझे सीफूड वास्तव में पसंद है।
+I really love my work.	Ich liebe meine Arbeit wirklich.	मैं अपने काम से सच में प्यार करता हूँ।
+I really love the sun.	Ich liebe die Sonne wirklich.	मैं सच में सूरज से प्यार करता हूँ।
+I really miss my wife.	Ich vermisse meine Frau wirklich.	मुझे अपनी पत्नी की सच में याद आती है।
+I really want to know.	Ich will wirklich wissen.	मुझे सच में जानना है।
+I really want to sing.	Ich will wirklich singen.	मुझे गाना सच में करना है।
+I really want to stay.	Ich will wirklich bleiben.	मैं सच में ठहरना चाहता हूँ।
+I recognized his face.	Ich erkannte sein Gesicht.	मैंने उसके चेहरे को पहचान लिया।
+I recognized the name.	Ich erkannte den Namen.	मैंने नाम को पहचान लिया।
+I remember everything.	Ich erinnere mich an alles.	मुझे सब कुछ याद है।
