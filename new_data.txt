@@ -34709,3 +34709,12 @@ engSentence7	Tom könnte besorgt sein.	टॉम चिंतित हो स�
 engSentence8	Tom könnte uns glauben.	टॉम हमें विश्वास कर सकता है।
 engSentence9	Tom könnte uns gesehen haben.	टॉम ने हमें देखा हो सकता है।
 engSentence10	Tom stöhnte vor Schmerz.	टॉम दर्द के साथ कराहट कर रहा था।
+Tom mopped the floor.	Tom hat den Boden gescheuert.	टॉम ने सीना साफ किया।
+Tom moved his cursor.	Tom hat seinen Cursor bewegt.	टॉम ने अपना कर्सर मूव किया।
+Tom must be homesick.	Tom muss Heimweh haben.	टॉम को घर की याद आ रही होगी।
+Tom must be innocent.	Tom muss unschuldig sein.	टॉम निर्दोष होना चाहिए।
+Tom must be punished.	Tom muss bestraft werden.	टॉम को सजा देनी चाहिए।
+Tom must be well off.	Tom muss gut situiert sein.	टॉम का अच्छा स्थिति में होना चाहिए।
+Tom muttered a curse.	Tom murmelte einen Fluch.	टॉम ने एक श्राप कहा।
+Tom needed attention.	Tom brauchte Aufmerksamkeit.	टॉम को ध्यान की आवश्यकता थी।
+Tom needed the money.	Tom brauchte das Geld.	टॉम को पैसे की आवश्यकता थी।

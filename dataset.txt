@@ -1,15 +1,4 @@
 
-Tom mopped the floor.	Tom wischte den Boden.	टॉम ने जमीन पोंछ दी।
-Tom mopped the floor.	Tom moppte den Boden.	टॉम ने जमीन को दबा दिया।
-Tom moved his cursor.	Tom bewegte den Mauszeiger.	टॉम ने माउस पॉइंटर को स्थानांतरित कर दिया।
-Tom must be homesick.	Tom muss Heimweh haben.	टॉम को होमिक होना चाहिए।
-Tom must be innocent.	Tom muss unschuldig sein.	टॉम निर्दोष होना चाहिए।
-Tom must be punished.	Tom muss bestraft werden.	टॉम को दंडित किया जाना चाहिए।
-Tom must be well off.	Tom muss gut situiert sein.	टॉम को अच्छी तरह से बंद होना है।
-Tom muttered a curse.	Tom murmelte einen Fluch.	टॉम ने एक अभिशाप बड़बड़ाया।
-Tom needed attention.	Tom brauchte Aufmerksamkeit.	टॉम को ध्यान देने की जरूरत थी।
-Tom needed the money.	Tom brauchte das Geld.	टॉम को पैसे की जरूरत थी।
-Tom needed the money.	Tom hat das Geld gebraucht.	टॉम को पैसे की जरूरत थी।
 Tom needs a vacation.	Tom braucht Ferien.	टॉम को छुट्टी की जरूरत है।
 Tom needs help badly.	Tom hat Hilfe dringend nötig.	टॉम को तत्काल मदद की जरूरत है।
 Tom needs his family.	Tom braucht seine Familie.	टॉम को अपने परिवार की जरूरत है।
