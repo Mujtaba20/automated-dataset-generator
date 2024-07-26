@@ -1,14 +1,4 @@
 
-Where should we go?	Wohin sollen wir gehen?	हम कहाँ चलें?
-Where was Tom born?	Wo wurde Tom geboren?	टॉम कहाँ पैदा हुआ था?
-Where was Tom born?	Wo ist Tom geboren?	टॉम कहाँ पैदा हुआ था?
-Where was he going?	Wo ging er hin?	कहाँ गया?
-Where was your son?	Wo war dein Sohn?	आपका बेटा कहाँ था?
-Where was your son?	Wo war euer Sohn?	आपका बेटा कहाँ था?
-Where was your son?	Wo war Ihr Sohn?	उसका बेटा कहाँ था?
-Where will we meet?	Wo wollen wir uns treffen?	हम कहाँ मिलना चाहते हैं?
-Where would Tom go?	Wohin würde Tom gehen?	टॉम कहाँ जाएगा?
-Where would Tom go?	Wohin sollte Tom gehen?	टॉम कहाँ जाना चाहिए?
 Where're the shoes?	Wo sind die Schuhe?	जूते कहाँ हैं?
 Where're you going?	Wohin gehst du?	आप कहां जा रहे हैं?
 Where's Tom anyway?	Wo ist Tom überhaupt?	वैसे भी टॉम कहाँ है?

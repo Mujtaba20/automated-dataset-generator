@@ -24654,3 +24654,9 @@ Where is my pencil?	Wo ist mein Bleistift?	मेरी पेंसिल क�
 Where is the train?	Wo ist der Zug?	ट्रेन कहाँ है?
 Where is the vodka?	Wo ist der Wodka?	वोडका कहाँ है?
 Where is your room?	Wo ist dein Zimmer?	तुम्हारा कमरा कहाँ है?
+Where should we go?	Wohin sollen wir gehen?	हमें कहाँ जाना चाहिए?
+Where was Tom born?	Wo ist Tom geboren?	टॉम का जन्म कहाँ हुआ था?
+Where was he going?	Wohin ging er?	वह कहाँ जा रहा था?
+Where was your son?	Wo war dein Sohn?	तुम्हारा बेटा कहाँ था?
+Where will we meet?	Wo werden wir uns treffen?	हम कहाँ मिलेंगे?
+Where would Tom go?	Wohin würde Tom gehen?	टॉम कहाँ जाएगा?
