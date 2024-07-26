@@ -1,14 +1,4 @@
 
-I feel very hungry.	Ich fühle mich sehr hungrig.	मुझे बहुत भूख लगती है।
-I feel very sleepy.	Ich fühle mich sehr schläfrig.	मुझे बहुत नींद लगती है।
-I feel very strong.	Ich fühle mich sehr stark.	मैं बहुत मजबूत महसूस करता हूं।
-I feel worse today.	Heute geht es mir schlechter.	आज मैं बुरा महसूस करता हूं।
-I fell in the pool.	Ich fiel in den Pool.	मैं पूल में गिर गया।
-I fell in the pool.	Ich fiel ins Becken.	मैं पूल में गिर गया।
-I fell into a hole.	Ich fiel in ein Loch.	मैं एक छेद में गिर गया।
-I fell into a hole.	Ich bin in ein Loch gefallen.	मैं एक छेद में गिर गया।
-I fell off my bike.	Ich bin vom Rad gefallen.	मैं बाइक से गिर गया।
-I felt a deep pain.	Ich fühlte einen heftigen Schmerz.	मुझे एक हिंसक दर्द महसूस हुआ।
 I felt comfortable.	Ich fühlte mich wohl.	मुझे सहज महसूस हुआ।
 I felt comfortable.	Ich habe mich wohl gefühlt.	मुझे सहज महसूस हुआ।
 I felt like crying.	Mir war zum Heulen zumute.	मुझे रोने जैसा लगा।

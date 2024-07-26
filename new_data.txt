@@ -21205,3 +21205,11 @@ I feel bad for Tom.	Es tut mir leid für Tom.	मुझे टॉम के ल�
 I feel like crying.	Ich fühle mich wie weinen.	मुझे रोने की भावना है।
 I feel very chilly.	Mir ist sehr kalt.	मुझे बहुत ठंड लग रही है।
 I feel very guilty.	Ich fühle mich sehr schuldig.	मुझे बहुत अपराधी महसूस हो रहा है।
+I feel very hungry.	Ich fühle mich sehr hungrig.	मुझे बहुत भूख लगी है।
+I feel very sleepy.	Ich fühle mich sehr müde.	मुझे बहुत नींद आ रही है।
+I feel very strong.	Ich fühle mich sehr stark.	मैं बहुत मजबूत महसूस कर रहा हूँ।
+I feel worse today.	Ich fühle mich heute schlechter.	आज मैं और खराब महसूस कर रहा हूँ।
+I fell in the pool.	Ich fiel in den Pool.	मैं पूल में गिर गया।
+I fell into a hole.	Ich fiel in ein Loch.	मैं एक गड्ढे में गिर गया।
+I fell off my bike.	Ich fiel von meinem Fahrrad.	मैंने अपनी साइकिल से गिर गया।
+I felt a deep pain.	Ich fühlte einen tiefen Schmerz.	मैंने एक गहरे दर्द का अनुभव किया।
