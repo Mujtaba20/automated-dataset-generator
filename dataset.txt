@@ -1,14 +1,4 @@
 
-Why are you dancing?	Warum tanzt ihr?	आप नृत्य क्यों करते हैं?
-Why are you dancing?	Warum tanzt du?	आप क्यों नृत्य करते हैं
-Why are you dancing?	Warum tanzen Sie?	आप नृत्य क्यों करते हैं?
-Why are you limping?	Warum humpelst du?	तुम क्यों शौक कर रहे हो
-Why are you pouting?	Warum schmollst du?	आप क्यों कर रहे हैं?
-Why are you singing?	Warum singen Sie?	आप क्यों गाते हैं?
-Why are you smiling?	Warum lächelst du?	तुम क्यों हस रहे हो?
-Why are you smiling?	Warum lächeln Sie?	तुम मुस्कुराते क्यों हो?
-Why are you smiling?	Warum lächelt ihr?	तुम मुस्कुराते क्यों हो?
-Why are you so busy?	Warum bist du so beschäftigt?	आप इतने व्यस्त क्यों हैं?
 Why are you so late?	Warum bist du so spät dran?	आप इतने लेट क्यों हैं?
 Why are you so late?	Warum kommst du so spät?	तुम इतनी देर से क्यों आ रहे हो?
 Why are you so rich?	Warum bist du so reich?	तुम इतने अमीर क्यों हो?

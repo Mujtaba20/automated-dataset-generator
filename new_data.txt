@@ -30015,3 +30015,9 @@ Why are they crying?	Warum weinen sie?	वे क्यों रो रहे �
 Why are we laughing?	Warum lachen wir?	हम क्यों हंस रहे हैं?
 Why are we stopping?	Warum halten wir an?	हम क्यों रुके हैं?
 Why are you at home?	Warum bist du zu Hause?	तुम घर पर क्यों हो?
+Why are you dancing?	Warum tanzt ihr?	तुम क्यों नाच रहे हो?
+Why are you limping?	Warum humpelst du?	तुम क्यों लिम्पिंग कर रहे हो?
+Why are you pouting?	Warum verziehst du das Gesicht?	तुम चेहरा क्यों बना रहे हो?
+Why are you singing?	Warum singst du?	तुम क्यों गा रहे हो?
+Why are you smiling?	Warum strahlst du?	तुम क्यों हंस रहे हो?
+Why are you so busy?	Warum bist du so beschäftigt?	तुम इतने व्यस्त क्यों हो?
