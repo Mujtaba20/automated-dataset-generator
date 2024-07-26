@@ -40868,3 +40868,13 @@ Tom was very confused.	Tom war sehr verwirrt.	टॉम बहुत उलझ�
 Tom was very discreet.	Tom war sehr diskret.	टॉम बहुत सावधान था।
 Tom was very friendly.	Tom war sehr freundlich.	टॉम बहुत दोस्ताना था।
 Tom was very generous.	Tom war sehr großzügig.	टॉम बहुत उदार था।
+Tom was very grateful.	Tom war sehr dankbar.	टॉम बहुत आभारी था।
+Tom was very impolite.	Tom war sehr unhöflich.	टॉम बहुत अशिष्ट था।
+Tom was very relieved.	Tom war sehr erleichtert.	टॉम को बहुत आराम मिला।
+Tom was very stubborn.	Tom war sehr stur.	टॉम बहुत जिद्दी था।
+Tom was visibly upset.	Tom war deutlich verärgert.	टॉम स्पष्ट रूप से परेशान था।
+Tom was wearing jeans.	Tom trug Jeans.	टॉम जीन्स पहने थे।
+Tom washed Mary's car.	Tom wusch Marys Auto.	टॉम ने मैरी की कार धोई।
+Tom wasn't a prisoner.	Tom war kein Gefangener.	टॉम कोई कैदी नहीं था।
+Tom wasn't born blind.	Tom wurde nicht blind geboren.	टॉम अंधा पैदा नहीं हुआ था।
+Tom wasn't dependable.	Tom war nicht verlässlich.	टॉम भरोसेमंद नहीं था।
