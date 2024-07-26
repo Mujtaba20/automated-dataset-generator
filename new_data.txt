@@ -37759,3 +37759,11 @@ I only work part-time.	Ich arbeite nur Teilzeit.	मैं केवल पा�
 I overslept yesterday.	Ich habe gestern verschlafen.	मैंने कल ज्यादा सो लिया।
 I owe her 100,000 yen.	Ich schulde ihr 100.000 Yen.	मुझे उससे 100,000 येन चुकाने हैं।
 I owe you ten dollars.	Ich schulde dir zehn Dollar.	मैं तुम्हें दस डॉलर देता हूँ।
+I paid about 50 bucks.	Ich habe etwa 50 Dollar bezahlt.	मैंने लगभग 50 डॉलर दिए।
+I paid for it already.	Ich habe bereits dafür bezahlt.	मैंने इसके लिए पहले ही भुगतान किया।
+I phone him every day.	Ich rufe ihn jeden Tag an.	मैं उसे हर दिन फोन करता हूँ।
+I pigged out on pizza.	Ich habe mich an Pizza überfressen.	मैंने पिज़्ज़ा पर अत्यधिक भोजन किया।
+I plan on being early.	Ich plane, früh zu kommen.	मैं जल्दी आने की योजना बना रहा हूँ।
+I postponed the event.	Ich habe die Veranstaltung verschoben.	मैंने आयोजन को स्थगित कर दिया।
+I prefer cats to dogs.	Ich bevorzuge Katzen gegenüber Hunden.	मैं कुत्तों की तुलना में बिल्लियों को पसंद करता हूँ।
+I prefer fish to meat.	Ich ziehe Fisch Fleisch vor.	मैं मांस की तुलना में मछली को पसंद करता हूँ।
