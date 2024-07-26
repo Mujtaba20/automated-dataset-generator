@@ -31281,3 +31281,11 @@ How are your parents?	Wie geht es deinen Eltern?	तुम्हारे मा
 How bad was Tom hurt?	Wie schlimm wurde Tom verletzt?	टॉम को कितना चोट लगा?
 How beautiful she is!	Wie schön sie ist!	वह कितनी खूबसूरत है!
 How big is this park?	Wie groß ist dieser Park?	यह पार्क कितना बड़ा है?
+How can this be done?	Wie kann das gemacht werden?	यह कैसे किया जा सकता है?
+How can we stop them?	Wie können wir sie stoppen?	हम उन्हें कैसे रोक सकते हैं?
+How can we thank you?	Wie können wir Ihnen danken?	हम आपका धन्यवाद कैसे कर सकते हैं?
+How can you help Tom?	Wie kannst du Tom helfen?	तुम टॉम की मदद कैसे कर सकते हो?
+How can you stand it?	Wie kannst du es aushalten?	तुम इसे कैसे सह सकते हो?
+How come you're late?	Warum bist du spät dran?	तुम देर कैसे हो गए?
+How could I hate Tom?	Wie könnte ich Tom hassen?	मैं टॉम से नफरत कैसे कर सकता?
+How could I help you?	Wie könnte ich Ihnen helfen?	मैं आपकी कैसे मदद कर सकता हूँ?
