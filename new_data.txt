@@ -22539,3 +22539,13 @@ My mother is angry.	Meine Mutter ist böse.	मेरी माँ नारा�
 My mother loves me.	Meine Mutter liebt mich.	मेरी माँ मुझसे प्यार करती हैं।
 My name's Tom, too.	Mein Name ist auch Tom.	मेरा नाम भी टॉम है।
 My nose is running.	Meine Nase läuft.	मेरी नाक बह रही है।
+My parents are old.	Meine Eltern sind alt.	मेरे माता-पिता बूढ़े हैं।
+My parents love me.	Meine Eltern lieben mich.	मेरे माता-पिता मुझसे प्यार करते हैं।
+My question is why.	Meine Frage ist warum.	मेरा सवाल है कि क्यों।
+My radio is broken.	Mein Radio ist kaputt.	मेरा रेडियो टूट गया है।
+My right leg hurts.	Mein rechtes Bein tut weh.	मेरी दायीं टांग में दर्द है।
+My shirt is orange.	Mein Hemd ist orange.	मेरी कमीज नारंगी है।
+My shoes are brown.	Meine Schuhe sind braun.	मेरे जूते भूरे हैं।
+My socks are dirty.	Meine Socken sind schmutzig.	मेरे जूते गंदे हैं।
+My stomach growled.	Mein Magen knurrte.	मेरे पेट में गुर्राहट हुई।
+My stomach is full.	Mein Magen ist voll.	मेरा पेट भर गया है।

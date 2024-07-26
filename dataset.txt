@@ -1,14 +1,4 @@
 
-My parents are old.	Meine Eltern sind alt.	मेरे माता -पिता बूढ़े हैं।
-My parents love me.	Meine Eltern lieben mich.	मेरे माता -पिता मुझसे प्यार करते हैं।
-My question is why.	Meine Frage ist: „Warum?“	"मेरा सवाल है: ""क्यों?"""
-My radio is broken.	Mein Radio ist kaputt.	मेरा रेडियो टूट गया है।
-My right leg hurts.	Mir tut das rechte Bein weh.	मेरा दाहिना पैर दर्द होता है।
-My shirt is orange.	Mein Hemd ist orange.	मेरी शर्ट नारंगी है।
-My shoes are brown.	Meine Schuhe sind braun.	मेरे जूते भूरे हैं।
-My socks are dirty.	Meine Socken sind dreckig.	मेरे मोजे गंदे हैं।
-My stomach growled.	Mir knurrte der Magen.	पेट ने मुझे उगाया।
-My stomach is full.	Mein Bauch ist voll.	मेरा पेट भरा हुआ है।
 My teeth are white.	Meine Zähne sind weiß.	मेरे दांत सफेद हैं।
 My teeth are white.	Ich habe weiße Zähne.	मेरे सफेद दांत हैं।
 My turn comes next.	Ich bin als Nächster an der Reihe.	यह अगली बात है।
