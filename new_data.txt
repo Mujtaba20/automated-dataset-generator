@@ -22809,3 +22809,11 @@ Stick to your plan.	Bleib bei deinem Plan.	अपनी योजना पर �
 Stop being so nice.	Hör auf, so nett zu sein.	इतने अच्छे क्यों हो।
 Stop correcting me.	Hör auf, mich zu korrigieren.	मेरो सुधार करना बंद करो।
 Stop dating losers!	Hör auf, Verlierer zu daten!	हारने वालों से डेटिंग करना बंद करो!
+Stop joking around.	Hör auf, herumzualbern.	मजाक मत करो।
+Stop looking at me.	Hör auf, mich anzusehen.	मुझे देखना बंद करो।
+Stop me if you can.	Stoppe mich, wenn du kannst.	अगर यहि तुम्हारी सामर्थ्य है तो मुझे रोको।
+Stop or I'll shoot.	Halt ansonsten schieße ich.	रुको वरना मैं गोली मार दूँगा।
+Stop staring at me.	Hör auf, mich anzugaffen.	मुझे घूरना बंद करो।
+Stop that nonsense.	Stoppe diesen Unsinn.	उस बकवास को रोको।
+Stop this nonsense.	Hör mit diesem Unsinn auf.	इस मनोरंजन का कार्य बंद करो।
+Stop where you are.	Bleib stehen, wo du bist.	जहाँ खड़े हो रुको।
