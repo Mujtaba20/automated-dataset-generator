@@ -36135,3 +36135,9 @@ Baby animals are cute.	Baby Tiere sind niedlich.	बच्चे जानवर
 Bad news travels fast.	Schlechte Nachrichten verbreiten sich schnell.	बुरी खबरें जल्दी फैलती हैं।
 Bananas are delicious.	Bananen schmecken lecker.	केले लाज़ा रेज़ होते हैं।
 Barcelona is in Spain.	Barcelona ist in Spanien.	बार्सिलोना स्पेन में है।
+Be back before dinner.	Komm vor dem Abendessen zurück.	खाने से पहले वापस आ जाओ।
+Be careful going down.	Pass auf, wenn du runtergehst.	नीचे जाते समय सावधान रहें।
+Be kind to old people.	Sei nett zu alten Leuten.	बूढ़े लोगों के प्रति दयालु रहें।
+Be polite to everyone.	Sei nett zu allen.	सभी के प्रति शिष्ट रहें।
+Be quiet for a moment.	Ruhe kurz mal.	इक लम्बे समय के लिए खामोश रहें।
+Be quiet for a second.	Sei mal ruhig für eine Sekunde.	इक सेकंड के लिए चुप रहें।
