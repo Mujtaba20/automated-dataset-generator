@@ -41144,3 +41144,12 @@ We'll travel together.	Wir werden zusammen reisen.	हम साथ में �
 We're a little behind.	Wir sind ein bisschen zurück.	हम थोड़ा पीछे हैं।
 We're afraid of death.	Wir haben Angst vor dem Tod.	हम मौत से डरते हैं।
 We're already married.	Wir sind bereits verheiratet.	हम पहले से ही शादीशुदा हैं।
+We're as good as dead.	Wir sind so gut wie tot.	हम मरे हुए जैसे हैं।
+We're both very tired.	Wir sind beide sehr müde.	हम दोनों बहुत थके हुए हैं।
+We're closed tomorrow.	Morgen sind wir geschlossen.	हम कल बंद रहेंगे।
+We're counting on you.	Wir verlassen uns auf dich.	हम तुम पर निर्भर कर रहे हैं।
+We're extremely happy.	Wir sind überaus glücklich.	हम बहुत खुश हैं।
+We're getting married.	Wir heiraten.	हम शादी कर रहे हैं।
+We're going out again.	Wir gehen wieder raus.	हम फिर बाहर जा रहे हैं।
+We're going to Boston.	Wir fahren nach Boston.	हम बॉस्टन जा रहे हैं।
+We're going to go now.	Wir werden jetzt gehen.	हम अब जाने जा रहे हैं।
