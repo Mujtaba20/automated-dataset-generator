@@ -33672,3 +33672,13 @@ The milk tastes sour.	Die Milch schmeckt sauer.	दूध खट्टा है
 The milk turned sour.	Die Milch wurde sauer.	दूध खट्टा हो गया।
 The mist is clearing.	Der Nebel lichtet sich.	धुंध उठ रही है।
 The monkey came down.	Der Affe kam herunter.	बंदर नीचे आया।
+The more, the better.	Je mehr, desto besser.	जितना अधिक, उतना ही अच्छा।
+The noise bothers me.	Der Lärm stört mich.	ध्वनि मुझे परेशान करती है।
+The nuns are singing.	Die Nonnen singen.	नन्हीं सिंगर गा रहे हैं।
+The old man is frail.	Der alte Mann ist schwach.	बूढ़े आदमी कमजोर है।
+The opposite is true.	Das Gegenteil ist wahr.	विपरीत सही है।
+The pantry was empty.	Der Vorratsschrank war leer.	पैंट्री खाली था।
+The party was a flop.	Die Party war ein Reinfall.	पार्टी एक फ्लॉप थी।
+The people are angry.	Die Leute sind wütend.	लोग गुस्से में हैं।
+The phone rang again.	Das Telefon klingelte erneut.	फोन फिर से बजा।
+The photo was a hoax.	Das Foto war eine Fälschung.	तस्वीर गोलमाल थी।
