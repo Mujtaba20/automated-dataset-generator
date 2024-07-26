@@ -33542,3 +33542,13 @@ That was really mean.	Das war wirklich gemein.	वास्तव में व�
 That was so much fun.	Das hat so viel Spaß gemacht.	वह बहुत मज़ेदार था।
 That was the trouble.	Das war das Problem.	वह मुसीबत थी।
 That was unnecessary.	Das war unnötig.	यह अनावश्यक था।
+engSentence1	Das war sehr clever.	वह बहुत होशियार था।
+engSentence2	Das war deine Wahl.	वह आपकी पसंद थी।
+engSentence3	Das war nicht dein Job.	वह आपका काम नहीं था।
+engSentence4	Das wird sich nicht ändern.	वह बदलेगा नहीं।
+engSentence5	Das wäre schade.	यह एक वास्तविक दुःख होगा।
+engSentence6	Das wäre bedauerlich.	यह एक ाहनीय बात होगी।
+engSentence7	Das wäre absurd.	यह बेतुका होगा।
+engSentence8	Das wäre unfair.	यह अन्यायपूर्ण होगा।
+engSentence9	Das wäre unmöglich.	यह असंभव होगा।
+engSentence10	Das wird schwierig sein.	यह कठिन होगा।
