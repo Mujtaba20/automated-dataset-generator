@@ -1,14 +1,4 @@
 
-Who owns this house?	Wem gehört dieses Haus?	इस घर का मालिक कौन है?
-Who owns this truck?	Wessen LKW ist dies?	यह किसका ट्रक है?
-Who owns this villa?	Wem gehört diese Villa?	यह विला किसका है?
-Who should I inform?	Wen sollte ich in Kenntnis setzen?	मुझे किसे सूचित करना चाहिए?
-Who sings that song?	Wer singt dieses Lied?	यह गाना कौन गाता है?
-Who sings this song?	Wer singt dieses Lied?	यह गाना कौन गाता है?
-Who stole the apple?	Wer hat den Apfel gestohlen?	सेब किसने चुरा लिया?
-Who thought this up?	Wer hat sich das ausgedacht?	उसके साथ कौन आया?
-Who wants ice cream?	Wer will Eis?	आइसक्रीम किसे चाहिए?
-Who won the contest?	Wer hat den Wettbewerb gewonnen?	प्रतियोगिता किसने जीती?
 Who wrote that book?	Wer hat dieses Buch geschrieben?	यह पुस्तक किसने लिखी?
 Who wrote that book?	Wer schrieb dieses Buch?	यह पुस्तक किसने लिखी?
 Who wrote that poem?	Wer schrieb dieses Gedicht?	यह कविता किसने लिखी?

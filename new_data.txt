@@ -29973,3 +29973,13 @@ Who knew about this?	Wer wusste davon?	किसे इसके बारे �
 Who let you in here?	Wer hat dich hier reingelassen?	यहाँ आने की अनुमति किसने दी?
 Who might know that?	Wer könnte das wissen?	यह किसे पता हो सकता है?
 Who owns that house?	Wem gehört das Haus?	उस घर का मालिक कौन है?
+Who owns this house?	Wem gehört dieses Haus?	इस घर किसका है?
+Who owns this truck?	Wer besitzt diesen Lastwagen?	इस ट्रक का किसको मालिक है?
+Who owns this villa?	Wer besitzt diese Villa?	इस विला किसका है?
+Who should I inform?	Wen sollte ich informieren?	मुझे किसे सूचित करना चाहिए?
+Who sings that song?	Wer singt das Lied?	वह गाना किसने गाया है?
+Who sings this song?	Wer singt dieses Lied?	यह गाना किसने गाया है?
+Who stole the apple?	Wer hat den Apfel gestohlen?	सेब किसने चुराया?
+Who thought this up?	Wer hat sich das ausgedacht?	इसे किसने सोचा?
+Who wants ice cream?	Wer möchte Eiscreme?	किसे आइसक्रीम चाहिए?
+Who won the contest?	Wer hat den Wettbewerb gewonnen?	कौन ने प्रतियोगिता जीती?
