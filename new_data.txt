@@ -29331,3 +29331,11 @@ Tom took a week off.	Tom hat eine Woche freigenommen.	टॉम ने एक �
 Tom took an aspirin.	Tom hat eine Aspirin genommen.	टॉम ने एक एस्पिरिन ली।
 Tom took my picture.	Tom hat mein Bild gemacht.	टॉम ने मेरी फोटो खींची।
 Tom took this photo.	Tom hat dieses Foto gemacht.	टॉम ने यह फोटो खींची।
+Tom touched my hand.	Tom berührte meine Hand.	टॉम ने मेरे हाथ को छुआ।
+Tom tried to fit in.	Tom versuchte, sich anzupassen.	टॉम ने समाहित होने का प्रयास किया।
+Tom turned the knob.	Tom drehte den Knopf.	टॉम ने मोर को घुमाया।
+Tom understood that.	Tom hat das verstanden.	टॉम ने वह समझ लिया।
+Tom used to be ugly.	Tom war früher hässlich.	टॉम कभी बुरा दिखता था।
+Tom used to do that.	Tom machte das früher.	टॉम पहले ऐसा करता था।
+Tom waited for Mary.	Tom wartete auf Mary.	टॉम ने मेरी का इंतेजार किया।
+Tom waited his turn.	Tom wartete auf seine Reihe.	टॉम ने अपनी बारी का इंतेजार किया।
