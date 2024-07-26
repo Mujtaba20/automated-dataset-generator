@@ -1,14 +1,4 @@
 
-Shift into third gear.	Den dritten Gang einlegen!	तीसरा गियर ले लो!
-Should I really do it?	Soll ich das wirklich tun?	क्या मुझे वास्तव में ऐसा करना चाहिए?
-Should I take the bus?	Soll ich den Bus nehmen?	क्या मुझे बस लेनी चाहिए?
-Should I take the bus?	Sollte ich mit dem Bus fahren?	क्या मुझे बस लेनी चाहिए?
-Should we get started?	Sollen wir anfangen?	क्या हमें शुरू करना चाहिए?
-Should we include Tom?	Sollten wir Tom mit einbeziehen?	क्या हमें टॉम को शामिल करना चाहिए?
-Should we include Tom?	Sollten wir Tom inkludieren?	क्या हमें टॉम को शामिल करना चाहिए?
-Shouldn't we help Tom?	Sollten wir Tom nicht helfen?	क्या हमें टॉम की मदद नहीं करनी चाहिए?
-Show a little respect.	Zeig etwas Respekt.	कुछ सम्मान दिखाओ।
-Show a little respect.	Zeig etwas Achtung.	कुछ सम्मान दिखाओ।
 Show me another watch.	Zeigen Sie mir eine andere Uhr.	मुझे एक और घड़ी दिखाओ।
 Show me another watch.	Zeig mir eine andere Uhr.	मुझे एक और घड़ी दिखाओ।
 Show me how it's done.	Zeig mir mal, wie das gemacht wird!	मुझे दिखाओ कि यह कैसे किया जाता है!

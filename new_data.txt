@@ -39181,3 +39181,10 @@ She's smaller than me.	Sie ist kleiner als ich.	वह मेरे से छ�
 She's still under age.	Sie ist immer noch minderjährig.	वह अभी भी अरदासही है।
 She's sure to succeed.	Sie wird sicherlich Erfolg haben.	उसके सफल होने की पूरी सुनिश्चितता है।
 She's taller than him.	Sie ist größer als er.	वह उससे ऊँची है।
+Shift into third gear.	Schalte in den dritten Gang.	तीसरा गियर लगाएं।
+Should I really do it?	Soll ich es wirklich tun?	क्या मुझे वास्तव में यह करना चाहिए?
+Should I take the bus?	Soll ich den Bus nehmen?	क्या मुझे बस लेनी चाहिए?
+Should we get started?	Sollen wir anfangen?	क्या हमें शुरुआत करनी चाहिए?
+Should we include Tom?	Sollen wir Tom einschließen?	क्या हमें टॉम को शामिल करना चाहिए?
+Shouldn't we help Tom?	Sollten wir Tom nicht helfen?	क्या हमें टॉम की मदद नहीं करनी चाहिए?
+Show a little respect.	Zeige ein wenig Respekt.	थोड़ा सम्मान दिखाओ।
