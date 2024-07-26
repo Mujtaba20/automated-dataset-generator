@@ -26808,3 +26808,11 @@ I was flabbergasted.	Ich war fassungslos.	मैं हक्का बक्क
 I was happy for Tom.	Ich war glücklich für Tom.	मैं टॉम के लिए खुश था।
 I was in a bad mood.	Ich war schlecht gelaunt.	मेरा मन खराब था।
 I was in a bad mood. - Different Meaning	Ich war schlecht drauf.	मुझे बुरा मिजाज था।
+I was in great pain.	Ich hatte starke Schmerzen.	मुझे अधिक दर्द हो रहा था।
+I was in the shower.	Ich war unter der Dusche.	मैं शॉवर में था।
+I was just confused.	Ich war einfach verwirrt.	मैं सिर्फ़ भ्रमित था।
+I was lying earlier.	Ich habe früher gelogen.	मैं पहले झूठ बोल रहा था।
+I was making a cake.	Ich habe einen Kuchen gemacht.	मैं एक केक बना रहा था।
+I was ready for Tom.	Ich war bereit für Tom.	मैं टॉम के लिए तैयार था।
+I was really hungry.	Ich war wirklich hungrig.	मैं सचमुच भूखा था।
+I was really scared.	Ich war wirklich verängstigt.	मुझे सचमुच बहुत डर लग रहा था।
