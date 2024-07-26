@@ -28855,3 +28855,13 @@ Tom is always happy.	Tom ist immer glücklich.	टॉम हमेशा खु�
 Tom is ambidextrous.	Tom ist beidhändig.	टॉम उभयहाती है।
 Tom is an FBI agent.	Tom ist ein FBI-Agent.	टॉम एफबीआई एजेंट है।
 Tom is an adult now.	Tom ist jetzt erwachsen.	टॉम अब वयस्क है।
+Tom is an architect.	Tom ist Architekt.	टॉम एक आर्किटेक्ट है।
+Tom is an extrovert.	Tom ist extrovertiert.	टॉम एक बाहरी है।
+Tom is an introvert.	Tom ist introvertiert.	टॉम एक अंतर्मुखी है।
+Tom is an old miser.	Tom ist ein alter Geizhals.	टॉम एक बुड्ढा कंजूस है।
+Tom is back in town.	Tom ist zurück in der Stadt.	टॉम शहर में वापस आ गया है।
+Tom is bad-tempered.	Tom ist schlecht gelaunt.	टॉम का गुस्सा अच्छा नहीं होता।
+Tom is barely alive.	Tom ist kaum am Leben.	टॉम केवल जीवित है।
+Tom is brewing beer.	Tom braut Bier.	टॉम बियर उबाल रहा है।
+Tom is calling back.	Tom ruft zurück.	टॉम वापस फोन कर रहा है।
+Tom is cantankerous.	Tom ist mürrisch.	टॉम कठिन मन वाला है।

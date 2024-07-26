@@ -1,15 +1,4 @@
 
-Tom is an architect.	Tom ist Architekt.	टॉम एक वास्तुकार है।
-Tom is an extrovert.	Tom ist extrovertiert.	टॉम बहिर्मुखी है।
-Tom is an introvert.	Tom ist introvertiert.	टॉम अंतर्मुखी है।
-Tom is an old miser.	Tom ist ein alter Geizhals.	टॉम एक पुराना कंजूस है।
-Tom is back in town.	Tom ist wieder in der Stadt.	टॉम शहर में वापस आ गया है।
-Tom is bad-tempered.	Tom ist schlecht gelaunt.	टॉम एक बुरे मूड में है।
-Tom is barely alive.	Tom ist kaum noch am Leben.	टॉम शायद ही जीवित है।
-Tom is brewing beer.	Tom braut Bier.	टॉम ब्राइड बीयर।
-Tom is calling back.	Tom ruft zurück.	टॉम वापस बुलाता है।
-Tom is cantankerous.	Tom ist knurrig.	टॉम बढ़ता है।
-Tom is cantankerous.	Tom ist grantig.	टॉम क्रोधी है।
 Tom is coming today.	Tom kommt heute.	टॉम आज आता है।
 Tom is cooking eggs.	Tom kocht Eier.	टॉम अंडे पकाते हैं।
 Tom is disappointed.	Tom ist enttäuscht.	टॉम निराश है।
