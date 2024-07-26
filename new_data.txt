@@ -36012,3 +36012,13 @@ Your skin is so soft.	Deine Haut ist so weich.	तुम्हारी त्�
 Your son is an angel.	Dein Sohn ist wie ein Engel.	तुम्हारा बेटा एक फ़रिश्ता है।
 Your story is boring.	Deine Geschichte ist langweilig.	तुम्हारी कहानी उबाऊ है।
 "Says who? ""Says me."""	"Wer sagt das?" "Ich sage das."	"किसने कहा?" "मैंने कहा।"
+A cat has seven lives.	Eine Katze hat sieben Leben.	एक बिल्ली के सात जिंदगी होती है।
+A cow has a long tail.	Eine Kuh hat einen langen Schwanz.	एक गाय की पूँछ लम्बी होती है।
+A dog is following us.	Ein Hund folgt uns.	एक कुत्ता हमारे पीछे जा रहा है।
+A dolphin is a mammal.	Ein Delfin ist ein Säugetier.	एक डॉल्फिन एक स्तनधारी है।
+A guard's been killed.	Ein Wächter wurde getötet.	एक गार्ड मारा गया है।
+A guard's been killed. - different meaning	Ein Schutz wurde beseitigt.	एक गार्ड हटा दिया गया।
+A house is not a home.	Ein Haus ist kein Zuhause.	एक घर एक घर नहीं होता।
+A little bird told me.	Ein kleiner Vogel hat mir gesagt.	एक छोटा पक्षी मुझे बताया।
+A little bird told me. - different meaning	Ein Geheimnis wurde mir verraten.	एक छोटा पक्षी ने मुझे बताया।
+A man came to see him.	Ein Mann kam, um ihn zu sehen.	एक आदमी उसे देखने आया।
