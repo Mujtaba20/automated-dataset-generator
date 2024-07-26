@@ -30021,3 +30021,8 @@ Why are you pouting?	Warum verziehst du das Gesicht?	तुम चेहरा �
 Why are you singing?	Warum singst du?	तुम क्यों गा रहे हो?
 Why are you smiling?	Warum strahlst du?	तुम क्यों हंस रहे हो?
 Why are you so busy?	Warum bist du so beschäftigt?	तुम इतने व्यस्त क्यों हो?
+Why are you so late?	Warum bist du so spät?	तुम इतने देर क्यों हो?
+Why are you so rich?	Warum bist du so reich?	तुम इतने अमीर क्यों हो?
+Why are you so slow?	Warum bist du so langsam?	तुम इतने धीमे क्यों हो?
+Why are you so sure?	Warum bist du so sicher?	तुम इतने पक्के क्यों हो?
+Why are you so ugly?	Warum bist du so hässlich?	तुम इतने बदसूरत क्यों हो?

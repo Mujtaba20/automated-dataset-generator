@@ -1,14 +1,4 @@
 
-Why are you so late?	Warum bist du so spät dran?	आप इतने लेट क्यों हैं?
-Why are you so late?	Warum kommst du so spät?	तुम इतनी देर से क्यों आ रहे हो?
-Why are you so rich?	Warum bist du so reich?	तुम इतने अमीर क्यों हो?
-Why are you so slow?	Warum bist du so langsam?	तुम इतने धीमे क्यों हो
-Why are you so slow?	Warum seid ihr so langsam?	आप धीमे क्यों हैं?
-Why are you so slow?	Warum sind Sie so langsam?	वे धीमे क्यों हैं?
-Why are you so sure?	Wieso bist du dir so sicher?	आप इतने निश्चित क्यों हैं?
-Why are you so sure?	Wieso seid ihr euch so sicher?	आप इतने निश्चित क्यों हैं?
-Why are you so sure?	Wieso sind Sie sich so sicher?	आप इतने निश्चित क्यों हैं?
-Why are you so ugly?	Warum bist du so hässlich?	आप इतने बदसूरत क्यों हैं?
 Why are you with me?	Warum bist du bei mir?	तुम मेरे साथ क्यों हो
 Why are you yawning?	Warum gähnst du?	तुम क्यों यवन करते हो
 Why are you yelling?	Warum schreien Sie?	आप क्यों चिल्लाते हैं?
