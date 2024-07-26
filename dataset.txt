@@ -1,14 +1,4 @@
 
-Tom is poor, isn't he?	Tom ist arm, nicht wahr?	टॉम गरीब है, है ना?
-Tom is pretty amazing.	Tom ist eine Wucht!	टॉम एक बल है!
-Tom is pretty nervous.	Tom ist ziemlich nervös.	टॉम बहुत घबराया हुआ है।
-Tom is quick to agree.	Tom ist immer schnell einverstanden.	टॉम हमेशा जल्दी से सहमत होता है।
-Tom is quite athletic.	Tom ist ziemlich sportlich.	टॉम बहुत स्पोर्टी है।
-Tom is quite handsome.	Tom sieht ziemlich gut aus.	टॉम बहुत अच्छा लग रहा है।
-Tom is quite outgoing.	Tom ist recht aufgeschlossen.	टॉम काफी खुला है।
-Tom is quite reliable.	Tom ist recht verlässlich.	टॉम काफी विश्वसनीय है।
-Tom is quite reserved.	Tom ist sehr reserviert.	टॉम बहुत आरक्षित है।
-Tom is reading a book.	Tom liest ein Buch.	टॉम एक किताब पढ़ता है।
 Tom is ready to fight.	Tom ist bereit zum Kampf.	टॉम लड़ने के लिए तैयार है।
 Tom is ready to fight.	Tom ist bereit zu kämpfen.	टॉम लड़ने के लिए तैयार है।
 Tom is really popular.	Tom ist wirklich beliebt.	टॉम वास्तव में लोकप्रिय है।

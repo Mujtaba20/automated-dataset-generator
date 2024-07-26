@@ -40353,3 +40353,12 @@ Tom is on his own now.	Tom ist jetzt allein.	टॉम अब अकेला �
 Tom is our best pilot.	Tom ist unser bester Pilot.	टॉम हमारे सबसे अच्छे पायलट हैं।
 Tom is out to get you.	Tom ist drauf aus, dich zu kriegen.	टॉम तुम्हें पाने के लिए बाहर हैं।
 Tom is playing soccer.	Tom spielt Fußball.	टॉम फुटबॉल खेल रहा है।
+Tom is poor, isn't he?	Tom ist arm, nicht wahr?	टॉम गरीब है, ना?
+Tom is pretty amazing.	Tom ist ziemlich erstaunlich.	टॉम बहुत अद्भुत है।
+Tom is pretty nervous.	Tom ist ziemlich nervös.	टॉम बहुत घबराया हुआ है।
+Tom is quick to agree.	Tom ist schnell einverstanden.	टॉम जल्दी सहमत हो जाता है।
+Tom is quite athletic.	Tom ist ziemlich sportlich.	टॉम काफी खिलाड़ी है।
+Tom is quite handsome.	Tom ist ziemlich gutaussehend.	टॉम काफी हैंडसम है।
+Tom is quite outgoing.	Tom ist ziemlich extrovertiert.	टॉम काफी बाहरी निकला हुआ है।
+Tom is quite reliable.	Tom ist ziemlich zuverlässig.	टॉम काफी भरोसेमंद है।
+Tom is quite reserved.	Tom ist ziemlich zurückhaltend.	टॉम काफी आत्मसमर्पण रखता है।
