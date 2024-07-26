@@ -28988,3 +28988,12 @@ Tom is very strange.	Tom ist sehr seltsam.	टॉम बहुत अजीब �
 Tom is very thirsty.	Tom hat sehr Durst.	टॉम को बहुत प्यास लगी है।
 Tom is very thrifty.	Tom ist sehr sparsam.	टॉम बहुत किफ़ायती है।
 Tom is very unhappy.	Tom ist sehr unglücklich.	टॉम बहुत दुखी है।
+Tom is very unlucky.	Tom hat sehr viel Pech.	टॉम बहुत अभागी है।
+Tom is very wealthy.	Tom ist sehr wohlhabend.	टॉम बहुत धनवान है।
+Tom is warm-hearted.	Tom ist warmherzig.	टॉम गर्मजोशी से है।
+Tom is wasting time.	Tom verschwendet Zeit.	टॉम समय बर्बाद कर रहा है।
+Tom is wasting time. (different meaning)	Tom verbringt Zeit sinnlos.	टॉम समय दूसरों के साथ काट रहा है।
+Tom is watching you.	Tom beobachtet dich.	टॉम तुम्हें देख रहा है।
+Tom is wearing blue.	Tom trägt Blau.	टॉम नीला पहन रहा है।
+Tom is welcome here.	Tom ist hier willkommen.	टॉम यहाँ स्वागत है।
+Tom is well off now.	Tom geht es jetzt gut.	टॉम अब बड़ा आराम से है।

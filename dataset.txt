@@ -1,14 +1,4 @@
 
-Tom is very unlucky.	Tom ist sehr unglücklich.	टॉम बहुत दुखी है।
-Tom is very wealthy.	Tom ist sehr wohlhabend.	टॉम बहुत अमीर है।
-Tom is warm-hearted.	Tom ist warmherzig.	टॉम गर्म है।
-Tom is wasting time.	Tom vergeudet seine Zeit.	टॉम ने अपना समय बर्बाद किया।
-Tom is wasting time.	Tom vertut seine Zeit.	टॉम अपने समय के संस्करण।
-Tom is wasting time.	Tom verschwendet seine Zeit.	टॉम ने अपना समय बर्बाद कर दिया।
-Tom is watching you.	Tom beobachtet dich.	टॉम आपको देखता है।
-Tom is wearing blue.	Tom trägt blau.	टॉम नीला पहनता है।
-Tom is welcome here.	Tom ist hier willkommen.	टॉम का यहां स्वागत है।
-Tom is well off now.	Tom ist jetzt wohlhabend.	टॉम अब अमीर है।
 Tom is with the FBI.	Tom ist beim FBI.	टॉम एफबीआई में है।
 Tom is working late.	Tom arbeitet bis spät nachts.	टॉम देर रात तक काम करता है।
 Tom is your brother.	Tom ist dein Bruder.	टॉम तुम्हारा भाई है।
