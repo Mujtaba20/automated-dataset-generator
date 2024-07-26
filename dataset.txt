@@ -1,14 +1,4 @@
 
-The bell is ringing.	Die Glocke läutet.	घंटी बजती है।
-The bicycle is mine.	Das Fahrrad ist das Meinige.	बाइक मेरी है।
-The bicycle is mine.	Das Fahrrad ist meins.	बाइक मेरी है।
-The blouse is clean.	Die Bluse ist sauber.	ब्लाउज साफ है।
-The boy bowed to me.	Der Junge verbeugte sich vor mir.	लड़का मेरे सामने झुक गया।
-The boy has no food.	Der Junge hat nichts zu essen.	लड़के के पास खाने के लिए कुछ नहीं है।
-The boys kept quiet.	Die Jungen blieben still.	लड़के अभी भी रुके थे।
-The boys were quiet.	Die Jungen waren ruhig.	लड़के शांत थे।
-The bus has arrived.	Der Bus ist da.	बस यहाँ है।
-The bush is burning.	Der Busch brennt.	झाड़ी जलती है।
 The butter went bad.	Die Butter ist ranzig geworden.	मक्खन बासी हो गया है।
 The button came off.	Der Knopf löste sich.	बटन ढीला हो गया।
 The car didn't move.	Das Auto bewegte sich nicht.	कार नहीं चलती थी।

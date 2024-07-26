@@ -28170,3 +28170,12 @@ The apples are ripe.	Die Äpfel sind reif.	सेब पके हुए है�
 The auction is over.	Die Auktion ist vorbei.	नीलामी खत्म हो गई है।
 The audience gasped.	Das Publikum keuchte.	दर्शक फूंकी लेते हैं।
 The battery is dead.	Die Batterie ist leer.	बैटरी मर गई है।
+The bell is ringing.	Die Glocke läutet.	घंटी बज रही है।
+The bicycle is mine.	Das Fahrrad ist meins.	साइकिल मेरे पास है।
+The blouse is clean.	Die Bluse ist sauber.	ब्लाउज साफ है।
+The boy bowed to me.	Der Junge verneigte sich vor mir.	लड़का मेरे सामने झुका।
+The boy has no food.	Der Junge hat kein Essen.	लड़के के पास कोई खाना नहीं है।
+The boys kept quiet.	Die Jungs blieben ruhig.	लड़के चुप रहे।
+The boys were quiet.	Die Jungen waren ruhig.	लड़के शांत थे।
+The bus has arrived.	Der Bus ist angekommen.	बस पहुंच गई है।
+The bush is burning.	Der Busch brennt.	झाड़ी जल रही है।
