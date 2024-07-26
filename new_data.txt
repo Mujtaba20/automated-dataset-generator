@@ -22444,3 +22444,12 @@ Let's take the bus.	Lass uns den Bus nehmen.	हम बस में चढ़�
 Let's talk outside.	Lassen Sie uns draußen sprechen.	हम बाहर बात करते हैं।
 Let's wait a while.	Lass uns eine Weile warten.	थोड़ी देर इंतजार करें।
 Let's wait outside.	Lassen Sie uns draußen warten.	हम बाहर इंतजार करें।
+Let's write a book.	Lasst uns ein Buch schreiben.	हमें एक किताब लिखने दें।
+Life is very short.	Das Leben ist sehr kurz.	जिंदगी बहुत छोटी है।
+Lilies smell sweet.	Lilien riechen süß.	लिली मिठी महक होती है।
+Listen, all of you.	Hört zu, ihr alle.	सभी तुम सुनो।
+Look at my new car.	Schau mein neues Auto an.	मेरी नई कार देखो।
+Look at that house.	Schau dir das Haus an.	उस घर को देखो।
+Look at this photo.	Schau dir dieses Foto an.	इस तस्वीर को देखो।
+Look at this stuff.	Schau dir dieses Zeug an.	इस सामान को देखो।
+Look at your hands.	Schau dir deine Hände an.	अपने हाथों को देखो।
