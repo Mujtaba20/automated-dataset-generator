@@ -1,14 +1,4 @@
 
-Tom lives near Mary.	Tom wohnt in Marias Nähe.	टॉम मारिया की निकटता में रहता है।
-Tom lives near here.	Tom wohnt hier in der Nähe.	टॉम पास में रहता है।
-Tom lives next door.	Tom wohnt nebenan.	टॉम अगले दरवाजे पर रहता है।
-Tom lives on a boat.	Tom wohnt auf einem Boot.	टॉम एक नाव पर रहता है।
-Tom locked the door.	Tom schloss die Tür ab.	टॉम ने दरवाजा बंद कर दिया।
-Tom looked appalled.	Tom sah entsetzt aus.	टॉम भयभीत लग रहा था।
-Tom looked confused.	Tom machte einen verwirrten Eindruck.	टॉम ने एक भ्रमित छाप बनाई।
-Tom looked fatigued.	Tom sah erschöpft aus.	टॉम थका हुआ लग रहा था।
-Tom looked hesitant.	Tom sah zögerlich aus.	टॉम हिचकिचाहट लग रहा था।
-Tom looked up at me.	Tom sah zu mir hoch.	टॉम ने मेरी तरफ देखा।
 Tom looked very old.	Tom sah sehr alt aus.	टॉम बहुत बूढ़ा लग रहा था।
 Tom looked very sad.	Tom sah sehr traurig aus.	टॉम बहुत दुखी लग रहा था।
 Tom looks depressed.	Tom scheint deprimiert.	टॉम उदास लगता है।

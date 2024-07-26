@@ -29090,3 +29090,13 @@ Tom lived in Boston.	Tom lebte in Boston.	टॉम बोस्टन में
 Tom lives in Boston.	Tom lebt in Boston.	टॉम बॉस्टन में रहता है।
 Tom lives in a cave.	Tom lebt in einer Höhle.	टॉम गुफा में रहता है।
 Tom lives in a slum.	Tom lebt in einem Armenviertel.	टॉम एक झोपड़ी में रहता है।
+Tom lives near Mary.	Tom wohnt in der Nähe von Mary.	टॉम मेरी के निकट रहता है।
+Tom lives near here.	Tom lebt hier in der Nähe.	टॉम यहाँ के पास रहता है।
+Tom lives next door.	Tom lebt nebenan.	टॉम अगले द्वार पर रहता है।
+Tom lives on a boat.	Tom lebt auf einem Boot.	टॉम नाव पर रहता है।
+Tom locked the door.	Tom hat die Tür abgeschlossen.	टॉम ने दरवाज़े को बंद कर दिया।
+Tom looked appalled.	Tom sah entsetzt aus.	टॉम चौंका हुआ दिखा।
+Tom looked confused.	Tom sah verwirrt aus.	टॉम भ्रामित दिखा।
+Tom looked fatigued.	Tom sah ermüdet aus.	टॉम थका हुआ दिखा।
+Tom looked hesitant.	Tom wirkte zögerlich.	टॉम संदेहात्मक दिखा।
+Tom looked up at me.	Tom schaute zu mir hoch.	टॉम मुझ पर उठकर देखा।
