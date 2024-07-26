@@ -29626,3 +29626,13 @@ We need an iron bar.	Wir brauchen eine Eisenstange.	हमें एक लो�
 We need more coffee.	Wir brauchen mehr Kaffee.	हमें और कॉफ़ी चाहिए।
 We need to act fast.	Wir müssen schnell handeln.	हमें तेजी से काम करना है।
 We need to get help.	Wir brauchen Hilfe zu bekommen.	हमें मदद प्राप्त करनी है।
+We need to help Tom.	Wir müssen Tom helfen.	हमें टॉम की मदद करनी है।
+We never had doubts.	Wir hatten nie Zweifel.	हमें कभी संदेह नहीं हुआ।
+We obeyed the rules.	Wir haben die Regeln befolgt.	हमने नियमों का पालन किया।
+We often play chess.	Wir spielen oft Schach.	हम अक्सर शतरंज खेलते हैं।
+We only kissed once.	Wir haben uns nur einmal geküsst.	हमने सिर्फ एक बार किस्स किया।
+We ran out of money.	Uns ging das Geld aus.	हमारे पास पैसे खत्म हो गए।
+We reached our goal.	Wir haben unser Ziel erreicht.	हमने अपना लक्ष्य प्राप्त किया।
+We rented a rowboat.	Wir haben ein Ruderboot gemietet.	हमने एक रोविंग नाव किराए पर ली।
+We sat in the front.	Wir saßen vorne.	हम आगे बैठे थे।
+We sat in the shade.	Wir saßen im Schatten.	हम छाया में बैठे थे।
