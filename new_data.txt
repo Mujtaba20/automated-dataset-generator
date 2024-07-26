@@ -40812,3 +40812,12 @@ Tom wants to go alone.	Tom möchte alleine gehen.	टॉम अकेले ज�
 Tom wants to know why.	Tom möchte wissen, warum.	टॉम जानना चाहता है कि क्यों।
 Tom wants to marry me.	Tom will mich heiraten.	टॉम ने मुझसे शादी करनी है।
 Tom wants to meet you.	Tom möchte dich treffen.	टॉम को तुमसे मिलना है।
+Tom wants to see Mary.	Tom möchte Maria sehen.	टॉम मेरी को देखना चाहता है।
+Tom wants to see that.	Tom möchte das sehen.	टॉम वह देखना चाहता है।
+Tom wants us to leave.	Tom möchte, dass wir gehen.	टॉम चाहता है कि हम चले जाएं।
+Tom was a bad student.	Tom war ein schlechter Schüler.	टॉम एक बुरा छात्र था।
+Tom was a bit jealous.	Tom war ein bisschen eifersüchtig.	टॉम थोड़ा जलन रहित था।
+Tom was a bit nervous.	Tom war ein bisschen nervös.	टॉम थोड़ा घबराया हुआ था।
+Tom was a blackmailer.	Tom war ein Erpresser.	टॉम एक ब्लैकमेलर था।
+Tom was a drug addict.	Tom war drogenabhängig.	टॉम नशीला था।
+Tom was a good father.	Tom war ein guter Vater.	टॉम एक अच्छे पिता थे।
