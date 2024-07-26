@@ -1,14 +1,4 @@
 
-You're taking over.	Du übernimmst jetzt.	अब आप संभालते हैं।
-You're the biggest.	Du bist der Größte.	तुम सबसे महान हो।
-You're the dreamer.	Du bist der Träumer.	आप सपने देखने वाले हैं।
-You're the dreamer.	Sie sind der Träumer.	आप सपने देखने वाले हैं।
-You're the experts.	Ihr seid vom Fach.	आप विषय से हैं।
-You're the teacher.	Du bist der Lehrer.	आप शिक्षक हैं।
-You're too nervous.	Sie sind zu nervös.	वे बहुत घबराए हुए हैं।
-You're turning red.	Du wirst rot.	आप लाल हो जाते हैं।
-You're turning red.	Sie werden rot.	वे लाल हो जाते हैं।
-You're turning red.	Ihr werdet rot.	आप लाल हो जाते हैं।
 You're unambitious.	Du hast keinen Ehrgeiz.	आपकी कोई महत्वाकांक्षा नहीं है।
 You're unambitious.	Sie haben keinen Ehrgeiz.	आपकी कोई महत्वाकांक्षा नहीं है।
 You're unambitious.	Ihr habt keinen Ehrgeiz.	आपकी कोई महत्वाकांक्षा नहीं है।

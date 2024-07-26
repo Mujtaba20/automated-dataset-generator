@@ -25004,3 +25004,11 @@ You're soaking wet.	Du bist klatschnass.	तुम भीगे हुए हो
 You're still green.	Du bist immer noch unerfahren.	तुम अभी भी अनुभवहीन हो।
 You're still young.	Du bist immer noch jung.	तुम अभी भी युवा हो।
 You're such a liar.	Du bist so ein Lügner.	तुम एक झूठा हो।
+You're taking over.	Du übernimmst.	तुम दाखिल हो रहे हैं।
+You're the biggest.	Du bist der Größte.	तुम सबसे बड़े हो।
+You're the dreamer.	Du bist der Träumer.	तुम सपनेवाला हो।
+You're the experts.	Du bist die Experten.	तुम विशेषज्ञ हो।
+You're the teacher.	Du bist der Lehrer.	तुम शिक्षक हो।
+You're too nervous.	Du bist zu nervös.	तुम बहुत घबराए हो।
+You're turning red.	Du wirst rot.	तुम लाल हो रहे हो।
+You're turning red. (Different Meaning)	Du verfärbst dich rot.	तुम लाल हो जाओ।
