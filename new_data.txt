@@ -41401,3 +41401,7 @@ Where can I buy a map?	Wo kann ich eine Karte kaufen?	मैं कहाँ स
 Where can I buy books?	Wo kann ich Bücher kaufen?	मैं किताबें कहाँ से खरीद सकता हूं?
 Where can I get a map?	Wo kann ich einen Stadtplan bekommen?	मैं कहाँ से एक नक्शा पा सकता हूँ?
 Where can we meet you?	Wo können wir dich treffen?	हम तुम्हें कहाँ मिल सकते हैं?
+Where did Tom see you?	Wo hat Tom dich gesehen?	क्या टॉम ने तुम्हें कहाँ देखा?
+Where did that happen?	Wo ist das passiert?	वह कहाँ हुआ था?
+Where did this happen?	Wo ist das passiert?	यह कहाँ हुआ?
+Where did you see Tom?	Wo hast du Tom gesehen?	तुम ने टॉम को कहाँ देखा था?

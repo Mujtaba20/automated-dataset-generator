@@ -1,15 +1,4 @@
 
-Where did Tom see you?	Wo hat Tom dich gesehen?	टॉम ने आपको कहाँ देखा?
-Where did Tom see you?	Wo hat Tom euch gesehen?	टॉम ने आपको कहाँ देखा?
-Where did Tom see you?	Wo hat Tom Sie gesehen?	टॉम ने उसे कहाँ देखा?
-Where did Tom see you?	Wo sah Tom dich?	टॉम ने आपको कहाँ देखा?
-Where did Tom see you?	Wo sah Tom euch?	टॉम ने आपको कहाँ देखा?
-Where did Tom see you?	Wo sah Tom Sie?	टॉम ने आपको कहाँ देखा?
-Where did that happen?	Wo ist es passiert?	यह कहां हुआ?
-Where did this happen?	Wo ist das passiert?	ऐसा कहाँ हुआ?
-Where did you see Tom?	Wo hast du Tom gesehen?	आपने टॉम को कहाँ देखा?
-Where did you see Tom?	Wo haben Sie Tom gesehen?	आपने टॉम को कहाँ देखा?
-Where did you see Tom?	Wo habt ihr Tom gesehen?	आपने टॉम को कहाँ देखा?
 Where do they do that?	Wo machen sie das?	आप ऐसा कहां करते हैं?
 Where do you live now?	Wo wohnen Sie jetzt?	अब आप कहाँ रहते हैं?
 Where do you work now?	Wo arbeitest du derzeit?	वर्तमान में आप कहां काम कर रहे हैं?
