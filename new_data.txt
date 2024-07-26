@@ -25582,3 +25582,9 @@ Have a nice holiday.	Schönen Urlaub.	अच्छी छुट्टिया�
 Have a nice weekend!	Schönes Wochenende!	अच्छा वीकएंड हो!
 Have a nice weekend.	Schönes Wochenende.	अच्छा वीकएंड हो।
 Have a piece of pie.	Ein Stück Kuchen.	एक टुकड़े पाई हो।
+Have a safe journey.	Haben Sie eine sichere Reise.	सुरक्षित यात्रा करें।
+Have another cookie.	Haben Sie noch einen Keks.	एक और कुकी लो।
+Have dinner with us.	Essen Sie mit uns zu Abend.	हमारे साथ रात का खाना खाओ।
+Have you been there?	Bist du dort gewesen?	क्या तुम वहाँ जा चुके हो?
+Have you had dinner?	Hast du zu Abend gegessen?	क्या तुमने रात का खाना खाया है?
+Have you watched it?	Haben Sie es gesehen?	क्या आपने इसे देखा है?
