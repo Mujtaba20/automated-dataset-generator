@@ -37186,3 +37186,11 @@ I can't stop laughing.	Ich kann nicht aufhören zu lachen.	मैं हंस�
 I can't stop sneezing.	Ich kann nicht aufhören zu niesen.	मैं छींकना बंद नहीं कर सकता।
 I can't study at home.	Ich kann nicht zu Hause studieren.	मैं घर पर पढ़ाई नहीं कर सकता।
 I can't take the heat.	Ich kann die Hitze nicht ertragen.	मैं गर्मी सह नहीं सकता।
+I can't talk to girls.	Ich kann nicht mit Mädchen sprechen.	मुझसे लड़कियों से बात नहीं कर सकता।
+I can't talk to women.	Ich kann nicht mit Frauen sprechen.	मैं महिलाओं से बात नहीं कर सकता।
+I can't tell Tom that.	Ich kann Tom das nicht sagen.	मैं टॉम को वह नहीं बता सकता।
+I can't tell for sure.	Ich kann nicht sicher sagen.	मैं पक्के तौर पर नहीं बता सकती।
+I can't wait any more.	Ich kann nicht länger warten.	मैं और इंतजार नहीं कर सकता।
+I can't work tomorrow.	Ich kann morgen nicht arbeiten.	मैं कल काम नहीं कर सकता।
+I can't work with Tom.	Ich kann nicht mit Tom arbeiten.	मैं टॉम के साथ काम नहीं कर सकता।
+I cannot speak German.	Ich kann kein Deutsch sprechen.	मैं जर्मन नहीं बोल सकता।
