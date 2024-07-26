@@ -1,16 +1,4 @@
 
-Do they have to do it?	Müssen sie es tun?	क्या आपको यह करना है?
-Do they know about us?	Wissen sie von uns?	क्या आप हमारे बारे में जानते हैं?
-Do they live with you?	Leben sie mit dir?	क्या आप अपने साथ रहते हैं?
-Do they live with you?	Wohnen sie bei dir?	क्या आप अपने साथ रहते हैं?
-Do they live with you?	Wohnen sie bei Ihnen?	क्या आप अपने साथ रहते हैं?
-Do they live with you?	Wohnen sie bei euch?	क्या आप अपने साथ रहते हैं?
-Do we know each other?	Kennen wir uns?	क्या हम एक दूसरे को जानते हैं?
-Do you agree with Tom?	Stimmst du Tom zu?	क्या आप सहमत हैं?
-Do you also like jazz?	Magst du auch Jazz?	क्या आपको भी जैज़ पसंद है?
-Do you believe in God?	Glaubst du an Gott?	क्या आप भगवान को मानते हैं?
-Do you believe in God?	Glauben Sie an Gott?	क्या आप भगवान को मानते हैं?
-Do you believe in God?	Glaubt ihr an Gott?	क्या आप भगवान को मानते हैं?
 Do you believe it now?	Glaubst du es nun?	क्या आपको लगता है कि अब?
 Do you believe me now?	Glaubst du mir jetzt?	क्या अब आप मुझ पर विश्वास करते हैं?
 Do you believe me now?	Glauben Sie mir jetzt?	क्या अब आप मुझ पर विश्वास करते हैं?

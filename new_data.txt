@@ -36342,3 +36342,10 @@ Do I really need this?	Brauche ich das wirklich?	क्या मुझे य�
 Do it as you are told.	Mach es, wie du gesagt wurdest.	जैसे तुम्हें कहा गया है, वैसे करो।
 Do not be so critical.	Sei nicht so kritisch.	इतने कठोर ना बनो।
 Do they do that often?	Machen sie das oft?	क्या वे यह अक्सर करते हैं?
+Do they have to do it?	Müssen sie es tun?	क्या उन्हें यह करना है?
+Do they know about us?	Wissen sie über uns?	क्या उन्हें हमारे बारे में पता है?
+Do they live with you?	Leben sie bei dir?	क्या वे तुम्हारे साथ रहते हैं?
+Do we know each other?	Kennen wir uns?	क्या हम एक-दूसरे को जानते हैं?
+Do you agree with Tom?	Stimmst du Tom zu?	क्या तुम टॉम से सहमत हो?
+Do you also like jazz?	Magst du auch Jazz?	क्या आपको जैज़ भी पसंद है?
+Do you believe in God?	Glaubst du an Gott?	क्या आप भगवान में विश्वास करते हैं?
