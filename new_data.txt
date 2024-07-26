@@ -25541,3 +25541,8 @@ Get out of my chair.	Raus aus meinem Stuhl.	मेरी कुर्सी स�
 Get out of my house.	Gehen Sie aus meinem Haus.	मेरे घर से बाहर निकलो।
 Get out your wallet.	Holen Sie Ihre Brieftasche heraus.	अपना बटुआ निकालो।
 Get your clothes on.	Zieh dich an.	अपने कपड़े पहनो।
+Girls talk too much.	Mädchen reden zu viel.	लड़कियाँ बहुत बात करती हैं।
+Give grandma a kiss.	Gib Oma einen Kuss.	दादी को एक चुंबन दो।
+Give him my regards.	Grüß ihn von mir.	मेरा सलाम उसको देना।
+Give it a rest, Tom.	Mach mal Pause, Tom.	रुको तोम, इसे अराम दो।
+Give me another one.	Gib mir ein anderes.	मुझे एक और चाहिए।
