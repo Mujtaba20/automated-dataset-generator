@@ -31881,3 +31881,11 @@ I left home at seven.	Ich bin um sieben Uhr von zu Hause gegangen.	मैंन�
 I left you a message.	Ich habe dir eine Nachricht hinterlassen.	मैंने तुम्हें एक संदेश छोड़ा है।
 I lent her my camera.	Ich gab ihr meine Kamera ausgeliehen.	मैंने उसे अपनी कैमरा उधार दी।
 I let go of the rope.	Ich ließ das Seil los.	मैंने रस्सी को छोड़ दिया।
+I lied to my parents.	Ich habe meinen Eltern gelogen.	मैंने अपने माता-पिता को धोखा दिया।
+I like Tom very much.	Ich mag Tom sehr.	मुझे टॉम बहुत पसंद है।
+I like Tom's haircut.	Ich mag Toms Haarschnitt.	मुझे टॉम के बाल काटने का तरीका पसंद है।
+I like being outside.	Ich mag es draußen zu sein.	मुझे बाहर रहना पसंद है।
+I like bright colors.	Ich mag kräftige Farben.	मुझे चमकदार रंग पसंद हैं।
+I like canned fruits.	Ich mag Konservenfrüchte.	मुझे सजीव फल पसंद हैं।
+I like chopping wood.	Ich mag es, Holz zu hacken.	मुझे लकड़ी काटना पसंद है।
+I like coffee better.	Ich mag Kaffee lieber.	मुझे कॉफ़ी अच्छी लगती है।

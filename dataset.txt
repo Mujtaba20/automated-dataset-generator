@@ -1,14 +1,4 @@
 
-I lied to my parents.	Ich belog meine Eltern.	मैंने अपने माता -पिता को मारा।
-I lied to my parents.	Ich habe meine Eltern angelogen.	मैंने अपने माता -पिता से झूठ बोला।
-I like Tom very much.	Ich habe Tom sehr gern.	मैं टॉम से प्यार करता हूं।
-I like Tom's haircut.	Ich mag Toms Frisur.	मुझे टॉम का हेयरस्टाइल पसंद है।
-I like being outside.	Ich bin gerne draußen.	मुझे बाहर रहना पसंद है।
-I like bright colors.	Ich mag helle Farben.	मुझे चमकीले रंग पसंद हैं।
-I like canned fruits.	Ich mag Obst aus Dosen.	मुझे खुराक से फल पसंद है।
-I like canned fruits.	Ich mag Dosenobst.	मुझे फल पसंद है।
-I like chopping wood.	Ich hacke gerne Holz.	मुझे लकड़ी काटना पसंद है।
-I like coffee better.	Ich mag lieber Kaffee.	मुझे कॉफी पसंद है।
 I like country music.	Ich mag Country.	मुझे देश पसंद है।
 I like her dark eyes.	Ich mag ihre dunklen Augen.	मुझे उसकी गहरी आँखें पसंद हैं।
 I like her very much.	Ich mag sie sehr.	मैं सच्च में उसे पसंद करता हुँ।
