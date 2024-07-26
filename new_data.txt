@@ -27027,3 +27027,11 @@ I'm from the future.	Ich komme aus der Zukunft.	मैं भविष्य स
 I'm game if you are.	Ich bin dabei, wenn du es bist.	मैं खेलने को तैयार हूँ, आप हैं तो।
 I'm getting married.	Ich heirate.	मैं शादी कर रहा हूँ।
 I'm getting nervous.	Ich werde nervös.	मुझे घबराहट हो रही है।
+I'm giving up on it.	Ich gebe es auf.	मैं इस पर हार रहा हूँ।
+I'm glad to be here.	Ich bin froh, hier zu sein.	मैं यहाँ होने पर खुश हूँ।
+I'm glad to see you.	Ich bin froh, dich zu sehen.	मैं तुम्हें देखकर खुश हूँ।
+I'm glad we saw Tom.	Ich bin froh, dass wir Tom gesehen haben.	मुझे ख़ुशी है कि हमने टॉम को देखा।
+I'm going there now.	Ich gehe jetzt dorthin.	मैं अब वहाँ जा रहा हूँ।
+I'm going to Boston.	Ich fahre nach Boston.	मैं बोस्टन जा रहा हूँ।
+I'm going to church.	Ich gehe in die Kirche.	मैं चर्च जा रहा हूँ।
+I'm going to say no.	Ich werde nein sagen.	मैं कहूँगा नहीं।
