@@ -28770,3 +28770,12 @@ Tom has worked hard.	Tom hat hart gearbeitet.	टॉम ने कड़ी म�
 Tom hasn't come yet.	Tom ist noch nicht gekommen.	टॉम अभी तक नहीं आया है।
 Tom hasn't quit yet.	Tom hat noch nicht aufgegeben.	टॉम क्विट नहीं किया है।
 Tom hates Christmas.	Tom hasst Weihnachten.	टॉम नफरत करता है क्रिसमस से।
+Tom hates everybody.	Tom hasst alle.	टॉम सबको नफरत करता है।
+Tom hates the rules.	Tom hasst die Regeln.	टॉम नियमों से नफरत करता है।
+Tom hates your guts.	Tom hasst dein Innerstes.	टॉम तुम्हारे अंदर को नफरत करता है।
+Tom heard a gunshot.	Tom hörte einen Schuss.	टॉम ने गोली की ध्वनि सुनी।
+Tom heard footsteps.	Tom hörte Schritte.	टॉम ने पगपगदंडियों की आवाज सुनी।
+Tom heard the alarm.	Tom hörte den Alarm.	टॉम ने अलार्म सुना।
+Tom heated the milk.	Tom erhitzte die Milch.	टॉम ने दूध गरम किया।
+Tom held his breath.	Tom hielt den Atem an.	टॉम ने सांस रोकी।
+Tom helped the poor.	Tom half den Armen.	टॉम ने गरीबों की मदद की।
