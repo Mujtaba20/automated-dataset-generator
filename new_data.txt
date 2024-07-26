@@ -28142,3 +28142,11 @@ That's the goal now.	Das ist jetzt das Ziel.	वह अब लक्ष्य �
 That's the only way.	Das ist der einzige Weg.	यह ही एकमात्र तरीका है।
 That's too personal.	Das ist zu persönlich.	यह बहुत व्यक्तिगत है।
 That's true as well.	Das ist auch wahr.	यह भी सच है।
+That's unacceptable.	Das ist inakzeptabel.	यह अस्वीकार्य है।
+That's uncalled for.	Das ist unangebracht.	यह बिल्कुल अनुचित है।
+That's very elegant.	Das ist sehr elegant.	यह बहुत ही वैभवपूर्ण है।
+That's very helpful.	Das ist sehr hilfreich.	यह बहुत ही सहायक है।
+That's very serious.	Das ist sehr ernst.	यह बहुत गंभीर है।
+That's very strange.	Das ist sehr seltsam.	यह बहुत ही अजीब है।
+That's what I heard.	Das habe ich gehört.	यही सुना है।
+That's what I think.	Das ist, was ich denke.	यही मेरा ख्याल है।

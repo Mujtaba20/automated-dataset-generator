@@ -1,14 +1,4 @@
 
-That's unacceptable.	Das ist nicht hinzunehmen.	जिसे स्वीकार नहीं किया जा सकता है।
-That's unacceptable.	Das ist unannehmbar.	यह अस्वीकार्य है।
-That's uncalled for.	Das ist unangebracht.	यह अनुचित है।
-That's very elegant.	Das ist sehr elegant.	यह बहुत सुरुचिपूर्ण है।
-That's very helpful.	Das ist sehr nützlich.	यह बहुत उपयोगी है।
-That's very helpful.	Das hilft mir sehr.	यह मुझे बहुत मदद करता है।
-That's very serious.	Das ist sehr ernst.	यह बहुत गंभीर है।
-That's very strange.	Das ist sehr seltsam.	यह बहुत अजीब है।
-That's what I heard.	Das ist, was ich gehört habe.	यही मैंने सुना है।
-That's what I think.	Das ist, was ich denke.	मुझे यह लगता है।
 That's what I'll do.	Das ist es, was ich tun werde.	यही मैं करने जा रहा हूं।
 That's what I'll do.	So mache ich das.	मैं इसे कैसे करता हूं।
 That's what love is.	Das ist Liebe.	यही प्यार है।
