@@ -1,14 +1,4 @@
 
-It looks like snow.	Es sieht nach Schnee aus!	यह बर्फ की तरह लग रहा है!
-It looks like snow.	Es sieht aus, als ob es bald schneien wird.	ऐसा लगता है कि यह जल्द ही बर्फ हो जाएगा।
-It looks like snow.	Es sieht aus wie Schnee.	यह बर्फ जैसा दिखता है।
-It looks very good.	Es sieht sehr gut aus.	यह बहुत अच्छा लग रहा है।
-It might be a trap.	Es könnte vielleicht eine Falle sein.	यह एक जाल हो सकता है।
-It must be removed.	Man muss es beseitigen.	आपको इसे खत्म करना होगा।
-It must be removed.	Man muss sie beseitigen.	आपको उन्हें हटाना होगा।
-It must be removed.	Man muss ihn wegschaffen.	आपको इसे दूर करना होगा।
-It rained for days.	Es hat tagelang geregnet.	दिनों तक बारिश हुई।
-It really happened.	Es ist tatsächlich passiert.	यह वास्तव में हुआ।
 It saved our lives.	Es hat uns das Leben gerettet.	जीवन ने हमें बचाया।
 It seems worthless.	Das scheint nutzlos zu sein.	यह बेकार लगता है।
 It smells like Tom.	Es riecht nach Tom.	यह टॉम की खुशबू आ रही है।

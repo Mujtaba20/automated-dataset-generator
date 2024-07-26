@@ -22229,3 +22229,9 @@ It isn't like that.	Es ist nicht so.	ऐसा नहीं है।
 It keeps happening.	Es passiert immer wieder.	यह बार-बार होता रहता है।
 It looks delicious.	Es sieht köstlich aus.	यह स्वादिष्ट लग रहा है।
 It looks like rain.	Es sieht nach Regen aus.	बारिश की तरह लग रहा है।
+It looks like snow.	Es sieht wie Schnee aus.	ऐसा लग रहा है कि बर्फ हो।
+It looks very good.	Es sieht sehr gut aus.	यह बहुत अच्छा लग रहा है।
+It might be a trap.	Es könnte eine Falle sein.	यह एक फंदा हो सकता है।
+It must be removed.	Es muss beseitigt werden.	यह निकाला जाना चाहिए।
+It rained for days.	Es regnete tagelang.	कई दिनों तक बारिश हुई।
+It really happened.	Es ist wirklich passiert.	यह सच में हुआ।
