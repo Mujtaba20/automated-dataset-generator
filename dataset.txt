@@ -1,14 +1,4 @@
 
-He is poor, but honest.	Er ist arm, aber ehrlich.	वह गरीब है, लेकिन ईमानदार है।
-He is practically dead.	Er ist praktisch schon tot.	वह व्यावहारिक रूप से मर चुका है।
-He is practically dead.	Er ist so gut wie tot.	यह मृत जितना अच्छा है।
-He is proud of his son.	Er ist stolz auf seinen Sohn.	उसे अपने बेटे पर गर्व है।
-He is quite an odd man.	Er ist ein ziemlich seltsamer Mann.	वह एक बहुत ही अजीब आदमी है।
-He is riding a bicycle.	Er fährt Fahrrad.	वह एक बाइक की सवारी करता है।
-He is terrible at math.	Er ist furchtbar schlecht in Mathe.	वह गणित में बहुत बुरा है।
-He is thick as a brick.	Er ist ein Holzkopf.	यह एक लकड़ी का सिर है।
-He is thirsty for fame.	Er dürstet nach Ruhm.	वह प्रसिद्धि के लिए प्यास।
-He is thirsty for fame.	Ihm dürstet es nach Ruhm.	यह प्रसिद्धि के लिए प्यास है।
 He is thirty years old.	Er ist dreißig.	वह तीस का है।
 He is tired of reading.	Er ist des Lesens müde.	वह पढ़कर थक गया है।
 He is tired of reading.	Er ist es müde zu lesen.	वह पढ़ने के लिए थक गया है।
