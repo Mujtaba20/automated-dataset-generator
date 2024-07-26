@@ -1,16 +1,4 @@
 
-Are you still married?	Bist du noch verheiratet?	क्या आप अभी भी शादीशुदा हो?
-Are you still thirsty?	Hast du noch Durst?	क्या आप अभी भी प्यास हैं?
-Are you still thirsty?	Habt ihr noch Durst?	क्या आपको अभी भी प्यास है?
-Are you still thirsty?	Haben Sie noch Durst?	क्या आप अभी भी प्यासे हैं?
-Are you talking to me?	Sprichst du zu mir?	क्या आप मुझसे बात कर रहे हैं?
-Are you the new nanny?	Sind Sie das neue Kindermädchen?	क्या आप नई नानी हैं?
-Are you the new nanny?	Bist du das neue Kindermädchen?	क्या आप नई नानी हैं?
-Are you two musicians?	Seid ihr beiden Musiker?	क्या आप दोनों संगीतकार हैं?
-Are you two musicians?	Seid ihr zwei Musiker?	क्या आप दो संगीतकार हैं?
-Are you working today?	Arbeitest du heute?	आप आज काम करेंगे?
-Are you working today?	Arbeiten Sie heute?	आप आज काम करेंगे?
-Are you working today?	Arbeitet ihr heute?	आप आज काम करेंगे?
 Are your parents here?	Sind deine Eltern hier?	क्या आपके माता -पिता यहाँ हैं?
 Are your parents home?	Sind deine Eltern zu Hause?	तुम्हारे माता - पिता घर पर हैं?
 Aren't they wonderful?	Sind sie nicht wunderbar?	क्या आप अद्भुत नहीं हैं?

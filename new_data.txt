@@ -36111,3 +36111,9 @@ Are you seeing anyone?	Siehst du jemanden?	क्या आप किसी क�
 Are you sleeping, Tom?	Schläfst du, Tom?	क्या तुम सो रहे हो, टॉम?
 Are you still at home?	Bist du noch zu Hause?	क्या आप अब भी घर पर हैं?
 Are you still jealous?	Bist du immer noch eifersüchtig?	क्या आप अब भी जलन रहे हैं?
+Are you still married?	Bist du immer noch verheiratet?	क्या आप अभी तक शादीशुदा हैं?
+Are you still thirsty?	Bist du immer noch durstig?	क्या आप अभी भी प्यासे हैं?
+Are you talking to me?	Sprichst du mit mir?	क्या तुम मेरे साथ बात कर रहे हो?
+Are you the new nanny?	Bist du die neue Kindermädchen?	क्या तुम नई नैनी हो?
+Are you two musicians?	Seid ihr zwei Musiker?	क्या तुम दो संगीतकार हो?
+Are you working today?	Arbeitest du heute?	क्या आप आज काम कर रहे हैं?
