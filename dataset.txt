@@ -1,18 +1,4 @@
 
-Where are you guys?	Wo seid ihr?	आप कहां हैं?
-Where are you hurt?	Wo sind Sie verletzt?	तुम कहाँ घायल हो?
-Where are you, Tom?	Tom, wo bist du?	टॉम, तुम कहाँ हो?
-Where can I buy it?	Wo kann ich das kaufen?	इसे कहां से खरीदा जा सकता है?
-Where can I buy it?	Wo kann ich es kaufen?	मैं इसे कहाँ खरीद सकता हूँ?
-Where did I put it?	Wo habe ich es hingelegt?	मैंने इसे कहां रखा?
-Where did I put it?	Wo habe ich ihn hingelegt?	मैंने उसे कहाँ रखा?
-Where did I put it?	Wo habe ich sie hingelegt?	मैंने उसे कहाँ रखा?
-Where did I put it?	Wo habe ich es hingestellt?	मैंने इसे कहां रखा?
-Where did I put it?	Wo habe ich ihn hingestellt?	मैंने इसे कहां रखा?
-Where did I put it?	Wo habe ich sie hingestellt?	मैंने उन्हें कहां रखा?
-Where did I put it?	Wo habe ich es hingetan?	मैंने इसे कहां रखा?
-Where did I put it?	Wo habe ich ihn hingetan?	मैंने उसे कहाँ रखा?
-Where did I put it?	Wo habe ich sie hingetan?	मैंने उन्हें कहां रखा?
 Where did Tom work?	Wo hat Tom gearbeitet?	टॉम ने कहाँ काम किया?
 Where did you live?	Wo haben Sie gewohnt?	आप कहां रहते थे?
 Where did you work?	Wo hast du gearbeitet?	आप कहाँ काम किये थे?

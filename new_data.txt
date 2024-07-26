@@ -24625,3 +24625,11 @@ Where are the keys?	Wo sind die Schlüssel?	चाबियाँ कहाँ �
 Where are they now?	Wo sind sie jetzt?	वे अब कहाँ हैं?
 Where are you from?	Wo kommst du her?	तुम कहाँ से हो?
 Where are you from? (Different meaning)	Woher stammst du?	तुम कहाँ से आए हो?
+Where are you guys?	Wo seid ihr Jungs?	तुम लोग कहाँ हो?
+Where are you hurt?	Wo bist du verletzt?	तुम्हें कहाँ चोट लगी है?
+Where are you, Tom?	Wo bist du, Tom?	तुम कहाँ हो, टॉम?
+Where can I buy it?	Wo kann ich es kaufen?	मैं यह कहाँ से खरीद सकता हूँ?
+Where can I purchase it?	Wo kann ich es kaufen?	मैं यह कहाँ से खरीद सकता हूँ?
+Where did I put it?	Wo habe ich es hingelegt?	मैंने यह कहाँ रखा था?
+Where did I place it?	Wo habe ich es hingelegt?	मैंने यह कहाँ रखा था?
+Where did I keep it?	Wo habe ich es hingelegt?	मैंने यह कहाँ रखा था?
