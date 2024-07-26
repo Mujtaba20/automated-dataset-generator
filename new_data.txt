@@ -34784,3 +34784,11 @@ Tom ran up the steps.	Tom rannte die Stufen hinauf.	टॉम उपर की �
 Tom rarely complains.	Tom beschwert sich selten.	टॉम शिकायत बहुत कम करता है।
 Tom really likes you.	Tom mag dich wirklich.	टॉम आपसे सचमुच पसंद करता है।
 Tom really needs you.	Tom braucht dich wirklich.	टॉम को वास्तव में तुम्हारी ज़रुरत है।
+Tom recommended Mary.	Tom empfahl Mary.	टॉम ने मेरी की सिफारिश की।
+Tom refused our help.	Tom lehnte unsere Hilfe ab.	टॉम ने हमारी मदद को इनकार किया।
+Tom refused to leave.	Tom weigerte sich zu gehen.	टॉम ने छोड़ने के लिए मना किया।
+Tom relaxed his grip.	Tom lockerte seinen Griff.	टॉम ने अपने गहरे पकड़ को ढीला किया।
+Tom removed his coat.	Tom zog seinen Mantel aus.	टॉम ने अपना कोट उतार दिया।
+Tom renamed the file.	Tom benannte die Datei um.	टॉम ने फ़ाइल का नाम बदल दिया।
+Tom resisted smiling.	Tom widerstand dem Lächeln.	टॉम ने मुस्कान की विरोध किया।
+Tom resumed speaking.	Tom nahm das Sprechen wieder auf.	टॉम ने बोलने का पुनः प्रारंभ किया।
