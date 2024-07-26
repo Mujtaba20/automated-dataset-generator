@@ -23206,3 +23206,13 @@ This house is mine.	Dieses Haus gehört mir.	यह घर मेरा है�
 This is Mary's dog.	Das ist Marias Hund.	यह मेरी कुत्ते की टिड्डी है।
 This is Tom's book.	Das ist Toms Buch.	यह टॉम की किताब है।
 This is Tom's room.	Das ist Toms Zimmer.	यह टॉम का कमरा है।
+This is Tom's wife.	Das ist die Ehefrau von Tom.	यह टॉम की पत्नी है।
+This is a bad sign.	Das ist ein schlechtes Zeichen.	यह एक बुरा संकेत है।
+This is a good car.	Das ist ein gutes Auto.	यह एक अच्छी गाड़ी है।
+This is a hospital.	Das ist ein Krankenhaus.	यह एक अस्पताल है।
+This is a road map.	Das ist eine Straßenkarte.	यह एक सड़क मार्गदर्शिका है।
+This is all I have.	Das ist alles, was ich habe.	यह मेरे पास सब कुछ है।
+This is all I know.	Das ist alles, was ich weiß.	यह मेरे पास सब कुछ है।
+This is almost new.	Das ist fast neu.	यह लगभग नया है।
+This is disturbing.	Das ist beunruhigend.	यह चिंता का कारण है।
+This is how I feel.	So fühle ich mich.	यह मेरे भावनाओं का तरीका है।

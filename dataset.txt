@@ -1,14 +1,4 @@
 
-This is Tom's wife.	Das ist Toms Frau.	यह टॉम की पत्नी है।
-This is a bad sign.	Das ist ein schlechtes Zeichen.	यह एक बुरा संकेत है।
-This is a good car.	Das ist ein gutes Auto.	यह एक अच्छी कार है।
-This is a hospital.	Das hier ist ein Krankenhaus.	यह एक अस्पताल है।
-This is a road map.	Das ist eine Straßenkarte.	यह एक सड़क का नक्शा है।
-This is all I have.	Das ist alles, was ich habe.	मेरे पास यही है।
-This is all I know.	Das ist alles, was ich weiß.	वह सब कुछ है जो मुझे पता है।
-This is almost new.	Das ist fast neu.	यह लगभग नया है।
-This is disturbing.	Das ist beunruhigend.	यह चिंताजनक है।
-This is how I feel.	So empfinde ich.	मुझे ऐसा लगाता है।
 This is impossible.	Das ist unmöglich.	यह असंभव है।
 This is impossible.	Es ist unmöglich.	यह असंभव है।
 This is impossible.	Das kann nicht sein!	यह नहीं हो सकता!
