@@ -39188,3 +39188,9 @@ Should we get started?	Sollen wir anfangen?	क्या हमें शुर�
 Should we include Tom?	Sollen wir Tom einschließen?	क्या हमें टॉम को शामिल करना चाहिए?
 Shouldn't we help Tom?	Sollten wir Tom nicht helfen?	क्या हमें टॉम की मदद नहीं करनी चाहिए?
 Show a little respect.	Zeige ein wenig Respekt.	थोड़ा सम्मान दिखाओ।
+Show me another watch.	Zeigen Sie mir eine andere Uhr.	मुझे एक और घड़ी दिखाओ।
+Show me how it's done.	Zeigen Sie mir, wie es gemacht wird.	मुझे दिखाओ कैसे किया जाता है।
+Show me something new.	Zeigen Sie mir etwas Neues.	मुझे कुछ नया दिखाओ।
+Show me today's paper.	Zeigen Sie mir die Zeitung von heute.	मुझे आज का समाचारपत्र दिखाओ।
+Show me what you have.	Zeigen Sie mir, was Sie haben.	मुझे दिखाओ तुम्हारे पास क्या है।
+Show me your passport.	Zeigen Sie mir Ihren Reisepass.	मुझे अपना पासपोर्ट दिखाओ।

@@ -1,14 +1,4 @@
 
-Show me another watch.	Zeigen Sie mir eine andere Uhr.	मुझे एक और घड़ी दिखाओ।
-Show me another watch.	Zeig mir eine andere Uhr.	मुझे एक और घड़ी दिखाओ।
-Show me how it's done.	Zeig mir mal, wie das gemacht wird!	मुझे दिखाओ कि यह कैसे किया जाता है!
-Show me something new.	Zeig mir etwas Neues.	मुझे कुछ नया दिखाओ।
-Show me today's paper.	Zeig mir die Zeitung von heute.	मुझे आज का अखबार दिखाओ।
-Show me today's paper.	Zeigen Sie mir die Zeitung von heute.	मुझे आज का अखबार दिखाओ।
-Show me today's paper.	Zeigt mir die Zeitung von heute.	मुझे आज का अखबार दिखाता है।
-Show me what you have.	Zeig mir, was du hast.	मुझे दिखाओ तुम्हारे पास क्या है।
-Show me your passport.	Zeigen Sie mir Ihren Reisepass!	मुझे अपना पासपोर्ट दिखाओ!
-Show me your passport.	Zeig mir deinen Reisepass!	मुझे अपना पासपोर्ट दिखाओ!
 Show me your sketches.	Zeig mir deine Skizzen.	मुझे अपने स्केच दिखाओ।
 Show me your sketches.	Zeigen Sie mir Ihre Skizzen.	मुझे अपने स्केच दिखाओ।
 Shut the door quickly.	Schließ schnell die Tür.	दरवाजा जल्दी से स्लाइड करें।
