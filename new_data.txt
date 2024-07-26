@@ -35070,3 +35070,13 @@ Tom writes very well.	Tom schreibt sehr gut.	टॉम बहुत अच्छ
 Tom wrote the report.	Tom schrieb den Bericht.	टॉम ने रिपोर्ट लिखी।
 Tom's car broke down.	Toms Auto ist kaputtgegangen.	टॉम की कार खराब हो गई।
 Tom's car is on fire.	Toms Auto steht in Flammen.	टॉम की कार आग में है।
+Tom's career is over.	Toms Karriere ist vorbei.	टॉम का करियर खत्म हो गया है।
+Tom's cellphone rang.	Toms Handy klingelte.	टॉम का मोबाइल बज रहा था।
+Tom's coffee is good.	Toms Kaffee ist gut.	टॉम की कॉफी अच्छी है।
+Tom's family is here.	Toms Familie ist hier.	टॉम का परिवार यहाँ है।
+Tom's family is rich.	Toms Familie ist reich.	टॉम का परिवार धनवान है।
+Tom's father is rich.	Toms Vater ist reich.	टॉम का पिता धनवान है।
+Tom's grades dropped.	Toms Noten sind gesunken.	टॉम के अंक गिर गए।
+Tom's hands trembled.	Toms Hände zitterten.	टॉम के हाथ कांप रहे थे।
+Tom's lips were blue.	Toms Lippen waren blau.	टॉम के होंठ नीले थे।
+Tom's making his bed.	Tom macht sein Bett.	टॉम अपना बिस्तर बना रहा है।
