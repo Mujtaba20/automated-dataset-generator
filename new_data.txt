@@ -26684,3 +26684,10 @@ I think Tom is here.	Ich denke, Tom ist hier.	मुझे लगता है �
 I think Tom is kind.	Ich denke, Tom ist freundlich.	मुझे लगता है कि टॉम दयालु है।
 I think Tom is rich.	Ich denke, Tom ist reich.	मुझे लगता है कि टॉम धनवान है।
 I think Tom is sick.	Ich denke, Tom ist krank.	मुझे लगता है कि टॉम बीमार है।
+I think Tom is tall.	Ich denke, Tom ist groß.	मुझे लगता है कि टॉम लम्बा है।
+I think Tom is ugly.	Ich denke, Tom ist hässlich.	मुझे लगता है कि टॉम बुरा है।
+I think Tom laughed.	Ich denke, Tom hat gelacht.	मुझे लगता है कि टॉम हंसा।
+I think he is right.	Ich denke, er hat recht.	मुझे लगता है कि वह सही है।
+I think he likes me.	Ich denke, er mag mich.	मुझे लगता है कि वह मुझसे प्यार करता है।
+I think it'd be fun.	Ich denke, es wäre lustig.	मुझे लगता है कि यह मजेदार होगा।
+I think it'll be OK.	Ich denke, es wird in Ordnung sein.	मुझे लगता है कि यह ठीक होगा।

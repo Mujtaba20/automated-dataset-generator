@@ -1,14 +1,4 @@
 
-I think Tom is tall.	Ich halte Tom für groß.	मुझे लगता है कि टॉम बड़ा है।
-I think Tom is ugly.	Ich finde Tom hässlich.	मुझे टॉम बदसूरत लगता है।
-I think Tom laughed.	Ich glaube, Tom hat gelacht.	मुझे लगता है कि टॉम हँसे।
-I think Tom laughed.	Ich glaube, dass Tom gelacht hat.	मुझे लगता है कि टॉम हँसे।
-I think he is right.	Ich glaube, er hat Recht.	मुझे लगता है कि वह सही है।
-I think he is right.	Ich glaube, dass er Recht hat.	मुझे लगता है कि वह सही है।
-I think he is right.	Ich glaube, er hat recht.	मुझे लगता है कि वह सही है।
-I think he likes me.	Ich glaube, er mag mich.	मुझे लगता है वह मुझे पसंद करता है।
-I think it'd be fun.	Ich glaube, das würde Spaß machen.	मुझे लगता है कि यह मजेदार होगा।
-I think it'll be OK.	Ich denke, das geht schon in Ordnung.	मुझे लगता है कि यह ठीक है।
 I think it's a wolf.	Ich denke mal, es ist ein Wolf.	मुझे लगता है कि यह एक भेड़िया है।
 I think it's doable.	Ich denke, es ist machbar.	मुझे लगता है कि यह संभव है।
 I think it's simple.	Ich denke, es ist leicht.	मुझे लगता है कि यह आसान है।
