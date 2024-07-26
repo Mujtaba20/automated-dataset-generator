@@ -35949,3 +35949,11 @@ You're not listening.	Du hörst nicht.	तुम सुन रहे नही�
 You're not one of us.	Du bist nicht einer von uns.	तुम हमारे में से एक नहीं हो।
 You're not safe here.	Du bist hier nicht sicher.	तुम यहाँ सुरक्षित नहीं हो।
 You're not very good.	Du bist nicht sehr gut.	तुम बहुत अच्छे नहीं हो।
+You're on television.	Du bist im Fernsehen.	तुम टेलीविज़न पर हो।
+You're one of us now.	Du bist jetzt einer von uns.	तुम अब हमारे बीच एक हो।
+You're our only hope.	Du bist unsere einzige Hoffnung.	तुम हमारी एकमात्र आशा हो।
+You're out of danger.	Du bist außer Gefahr.	तुम खतरे से बाहर हो।
+You're putting me on.	Du veräppelst mich.	तुम मुझे चक्कर में डाल रहे हो।
+You're quite correct.	Du hast völlig recht.	तुम पूरी तरह सही हो।
+You're really gifted.	Du bist wirklich begabt.	तुम वास्तव में प्रतिभाशाली हो।
+You're really pretty.	Du bist wirklich hübsch.	तुम सच में खूबसूरत हो।
