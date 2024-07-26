@@ -26700,3 +26700,10 @@ I think they saw us.	Ich denke, sie haben uns gesehen.	मुझे लगता
 I think we found it.	Ich denke, wir haben es gefunden.	मुझे लगता है कि हमने यह पाया है।
 I think we'll be OK.	Ich denke, wir werden in Ordnung sein.	मुझे लगता है कि हम ठीक होंगे।
 I think we're ready.	Ich denke, wir sind bereit.	मुझे लगता है कि हम तैयार हैं।
+I think you like me.	Ich denke, du magst mich.	मुझे लगता है कि तुम मुझसे प्यार करते हो।
+I think you're cute.	Ich denke, du bist niedlich.	मुझे लगता है कि तुम मीठे हो।
+I think you're dumb.	Ich denke, du bist dumm.	मुझे लगता है कि तुम बेवकूफ हो।
+I think you're nice.	Ich denke, du bist nett.	मुझे लगता है कि तुम अच्छे हो।
+I think you're nuts.	Ich denke, du bist verrückt.	मुझे लगता है कि तुम पागल हो।
+I thought about Tom.	Ich habe an Tom gedacht.	मैंने टॉम के बारे में सोचा।
+I thought about you.	Ich habe an dich gedacht.	मैंने तुम्हारे बारे में सोचा।

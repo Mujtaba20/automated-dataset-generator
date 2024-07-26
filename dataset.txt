@@ -1,15 +1,4 @@
 
-I think you like me.	Ich glaube, du magst mich.	मैं सोचता हूं कि आप मुझे पसंद करते है।
-I think you're cute.	Ich finde dich süß.	मुझे लगता है कि तुम मीठे हो।
-I think you're dumb.	Ich denke, dass du dumm bist.	मुझे लगता है कि आप मूर्ख हैं।
-I think you're nice.	Ich finde dich nett.	मुझे आप पसंद हो।
-I think you're nice.	Ich finde, ihr seid nett.	मुझे लगता है कि आप अच्छे हैं।
-I think you're nice.	Ich finde, dass Sie nett sind.	मुझे लगता है कि वे अच्छे हैं।
-I think you're nuts.	Ich glaube, du hast einen Dachschaden.	मुझे लगता है कि आपको छत की क्षति है।
-I think you're nuts.	Ich glaube, du bist verrückt.	मुझे लगता है कि तुम पागल हो।
-I thought about Tom.	Ich dachte an Tom.	मैंने टॉम के बारे में सोचा।
-I thought about you.	Ich habe an dich gedacht.	मैंने आप के बारे में सोचा।
-I thought about you.	Ich habe über dich nachgedacht.	मैंने तुम्हारे बारे में सोचा था।
 I thought that, too.	Das dachte ich mir auch.	मैं भी ऐसा सोचा था।
 I threw my back out.	Ich habe mir das Kreuz verrissen.	मैंने क्रॉस पर प्रतिबंध लगा दिया।
 I told Tom I'd wait.	Ich sagte Tom, dass ich warten würde.	मैंने कहा कि टॉम मैं इंतजार करूंगा।
