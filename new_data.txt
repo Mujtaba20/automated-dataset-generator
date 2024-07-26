@@ -32886,3 +32886,13 @@ It's harsh, but fair.	Es ist hart, aber fair.	यह कठोर है, ले
 It's in the basement.	Es ist unten im Keller.	यह basement में है।
 It's just not enough.	Es ist einfach nicht genug.	इसे बस इतना ही कहेंगे।
 It's just over there.	Es ist genau dort drüben.	वह बस वहीं है।
+It's made of leather.	Es ist aus Leder gemacht.	यह चमड़े का बना हुआ है।
+It's much better now.	Es ist jetzt viel besser.	अब यह बहुत बेहतर है।
+It's my CD, isn't it?	Das ist meine CD, oder?	यह मेरी सीडी है, ना?
+It's noisy next door.	Es ist laut nebenan.	पड़ोस में शोर मचा है।
+It's not a bad thing.	Das ist keine schlechte Sache.	यह बुरी बात नहीं है।
+It's not a big thing.	Das ist keine große Sache.	यह बड़ी बात नहीं है।
+It's not a good idea.	Das ist keine gute Idee.	यह अच्छा विचार नहीं है।
+It's not a good time.	Es ist keine gute Zeit.	यह सही समय नहीं है।
+It's not about money.	Es geht nicht um Geld.	यह पैसे के बारे में नहीं है।
+It's not always easy.	Es ist nicht immer einfach.	यह हमेशा आसान नहीं है।

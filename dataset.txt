@@ -1,14 +1,4 @@
 
-It's made of leather.	Das ist aus Leder.	यह चमड़े से बना है।
-It's much better now.	Es ist jetzt viel besser.	यह अब बहुत बेहतर है।
-It's my CD, isn't it?	Das ist meine CD, nicht wahr?	यह मेरी सीडी है, है ना?
-It's noisy next door.	Es ist laut nebenan.	यह अगले दरवाजे पर जोर से है।
-It's not a bad thing.	Das ist nichts Schlechtes.	यह कोई बुरी बात नहीं है।
-It's not a big thing.	Es ist keine große Sache.	यह कोई बड़ी बात नहीं है।
-It's not a good idea.	Das ist keine gute Idee.	यह एक अच्छा विचार नहीं है।
-It's not a good time.	Es passt jetzt nicht.	यह अब फिट नहीं है।
-It's not about money.	Es geht nicht um Geld.	यह पैसे के बारे में नहीं है।
-It's not always easy.	Es ist nicht immer einfach.	यह हमेशा आसान नहीं होता है।
 It's not at all easy.	Das ist alles andere als leicht.	यह कुछ भी है लेकिन आसान है।
 It's not at all easy.	Es ist gar nicht leicht.	यह बिल्कुल आसान नहीं है।
 It's not at all easy.	Das ist ganz und gar nicht leicht.	यह बिल्कुल आसान नहीं है।
