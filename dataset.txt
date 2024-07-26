@@ -1,14 +1,4 @@
 
-How do you know that?	Woher weißt du das?	आपको कैसे मालूम?
-How do you know this?	Woher weißt du das?	आपको कैसे मालूम?
-How do you like that?	Was hältst du davon?	आप इसके बारे में क्या सोचते हैं?
-How do you like that?	Wie findest du das?	आपको वह कैसा लगा?
-How do you stop this?	Wie stoppt man das?	रोकते कैसे हैं?
-How do you stop this?	Wie kann man das stoppen?	आप इसे कैसे रोक सकते हैं?
-How does Tom do that?	Wie macht Tom das nur?	टॉम ऐसा कैसे करता है?
-How does Tom do that?	Wie macht Tom das bloß?	टॉम ऐसा कैसे करता है?
-How does Tom do this?	Wie macht Tom das?	टॉम ऐसा कैसे करता है?
-How does the song go?	Wie geht das Lied?	गीत कैसे काम करता है?
 How fast can you run?	Wie schnell kannst du laufen?	आप कितनी जल्दी चल सकते हैं?
 How fast did Tom run?	Wie schnell rannte Tom?	कितनी जल्दी टॉम चला?
 How fast is too fast?	Wie schnell ist zu schnell?	कितनी तेजी से बहुत तेज है?

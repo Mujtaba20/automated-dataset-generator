@@ -31307,3 +31307,10 @@ How did you meet Tom?	Wie hast du Tom getroffen?	तुमने टॉम स�
 How did you see that?	Wie konntest du es sehen?	तुमने वह कैसे देखा?
 How did you two meet?	Wie habt ihr euch getroffen?	तुम दोनों कैसे मिले?
 How do parents do it?	Wie machen es Eltern?	माता-पिता ऐसे कैसे करते हैं?
+How do you know that?	Wie weißt du das?	तुम्हें ये कैसे पता चला?
+How do you know this?	Wie weißt du das?	तुम्हें ये कैसे पता चला?
+How do you like that?	Wie gefällt dir das?	तुम्हें ये कैसा लगता है?
+How do you stop this?	Wie hören Sie das?	तुम ये कैसे रोकते हो?
+How does Tom do that?	Wie tut Tom das?	टॉम ये कैसे करता है?
+How does Tom do this?	Wie macht Tom das?	टॉम ये कैसे करता है?
+How does the song go?	Wie geht das Lied?	गाना कैसे जाता है?
