@@ -27482,3 +27482,12 @@ It's very effective.	Es ist sehr effektiv.	यह बहुत प्रभा�
 It's very hot today.	Es ist heute sehr heiß.	आज बहुत गरम है।
 It's worthless junk.	Es ist wertloser Müll.	यह बेकार कचरा है।
 It's your own fault.	Es ist deine eigene Schuld.	यह तुम्हारी खुद की गलती है।
+It's your turn, Tom.	Du bist dran, Tom.	यह तोम की बारी है।
+Japanese are Asians.	Japaner sind Asiaten.	जापानी एशियाई हैं।
+Jesus answered them.	Jesus antwortete ihnen.	यसु ने उनका जवाब दिया।
+Jupiter is a planet.	Jupiter ist ein Planet.	बृहस्पति एक ग्रह है।
+Just follow my lead.	Folge einfach meinem Vorbild.	बस मेरे प्रेरणा का पालन करो।
+Just go and ask Tom.	Geh einfach und frag Tom.	बस जाओ और टॉम से पूछो।
+Just go back to bed.	Geh einfach zurück ins Bett.	बस वापस बिस्तर पर जाओ।
+Just leave me alone.	Lass mich einfach allein.	मुझे अकेले छोड़ दो।
+Just leave me alone. - different meaning	Lass mich einfach in Ruhe.	मुझे बस छोड़ दो।
