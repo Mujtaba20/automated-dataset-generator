@@ -24668,3 +24668,13 @@ Where's my brother?	Wo ist mein Bruder?	मेरा भाई कहां ह�
 Where's my husband?	Wo ist mein Ehemann?	मेरे पति कहां हैं?
 Where's my uniform?	Wo ist meine Uniform?	मेरी यूनिफॉर्म कहाँ है?
 Where's the bakery?	Wo ist die Bäckerei?	बेकरी कहां है?
+Where's the bucket?	Wo ist der Eimer?	बाल्टी कहाँ है?
+Where's the butter?	Wo ist die Butter?	मक्खन कहाँ है?
+Where's the church?	Wo ist die Kirche?	चर्च कहाँ है?
+Where's the doctor?	Wo ist der Arzt?	डॉक्टर कहाँ है?
+Where's the mirror?	Wo ist der Spiegel?	आईना कहाँ है?
+Where's the museum?	Wo ist das Museum?	संग्रहालय कहाँ है?
+Where's the toilet?	Wo ist die Toilette?	शौचालय कहाँ है?
+Where's your drink?	Wo ist dein Getränk?	तुम्हारा पेय कहाँ है?
+Where's your money?	Wo ist dein Geld?	तुम्हारे पैसे कहाँ हैं?
+Where's the book?	Wo ist das Buch?	किताब कहाँ है?

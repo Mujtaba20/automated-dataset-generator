@@ -1,15 +1,4 @@
 
-Where's the bucket?	Wo ist der Eimer?	बाल्टी कहाँ है?
-Where's the butter?	Wo ist die Butter?	मक्खन कहाँ है?
-Where's the church?	Wo ist die Kirche?	चर्च कहाँ है?
-Where's the doctor?	Wo ist der Arzt?	डॉक्टर कहां है?
-Where's the mirror?	Wo ist ein Spiegel?	दर्पण कहाँ है?
-Where's the museum?	Wo ist das Museum?	संग्रहालय कहां है?
-Where's the toilet?	Wo ist die Toilette?	टॉयलेट कहां है?
-Where's your drink?	Wo ist dein Getränk?	आपका ड्रिंक कहाँ है?
-Where's your money?	Wo ist dein Geld?	आपका पैसा कहाँ है?
-Where's your money?	Wo ist euer Geld?	आपका पैसा कहाँ है?
-Where's your money?	Wo ist Ihr Geld?	आपका पैसा कहाँ है?
 Where's your phone?	Wo ist dein Telefon?	आपका फोन कहां है?
 Where's your truck?	Wo ist dein Lastwagen?	आपका ट्रक कहाँ है?
 Which bag is yours?	Welche Tüte ist deine?	आपका क्या बैग है?
