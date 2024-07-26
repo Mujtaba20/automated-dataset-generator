@@ -41362,3 +41362,11 @@ What's your diagnosis?	Was ist Ihre Diagnose?	आपका निदान क�
 What's your father do?	Was macht dein Vater?	तुम्हारे पिताजी क्या करते हैं?
 What's your full name?	Wie ist dein vollständiger Name?	तुम्हारा पूरा नाम क्या है?
 What's your last name?	Was ist dein Nachname?	तुम्हारा अंतिम नाम क्या है?
+What's your shoe size?	Was ist Ihre Schuhgröße?	तुम्हारा जूते का साइज़ क्या है?
+Whatever you say, Tom.	Was auch immer du sagst, Tom.	जो भी तुम कहो, टॉम।
+When did Tom find out?	Wann hat Tom es herausgefunden?	तोम को कितने बजे पता चला?
+When did Tom graduate?	Wann hat Tom seinen Abschluss gemacht?	जब टॉम ने स्नातक समाप्त किया था?
+When did Tom say that?	Wann hat Tom das gesagt?	तोमने उसे कब कहा था?
+When did they go home?	Wann sind sie nach Hause gegangen?	उन्होंने घर कब जाना शुरू किया?
+When did you buy that?	Wann haben Sie das gekauft?	तुमने वो कब खरीदी थी?
+When did you find out?	Wann hast du das herausgefunden?	तुम्हने कब वो खोजा?

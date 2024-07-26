@@ -1,15 +1,4 @@
 
-What's your shoe size?	Welche Schuhgröße hast du?	आपका शूज आकार कितना है?
-What's your shoe size?	Welche Schuhgröße habt ihr?	आपके पास क्या जूता आकार है?
-Whatever you say, Tom.	Was immer du sagst, Tom.	आप जो भी कहते हैं, टॉम।
-When did Tom find out?	Wann ist Tom dahintergekommen?	टॉम कब पीछे आया?
-When did Tom graduate?	Wann hat Tom seinen Abschluss gemacht?	टॉम ने कब स्नातक किया?
-When did Tom say that?	Wann hat Tom das gesagt?	टॉम ने ऐसा कब कहा?
-When did they go home?	Wann sind sie nach Hause gegangen?	आप घर कब गए थे?
-When did you buy that?	Wann hast du das gekauft?	आपने उसे कब खरीदा?
-When did you find out?	Wann hast du es herausbekommen?	आपने इसे कब निकाला?
-When did you find out?	Wann haben Sie es herausbekommen?	आपने इसे कब निकाला?
-When did you find out?	Wann habt ihr es herausbekommen?	आपने इसे कब निकाला?
 When did you get back?	Wann bist du zurückgekommen?	आप वापस कब आये?
 When did you get here?	Seit wann seid ihr hier?	आप यहाँ पर कितने समय से हैं?
 When did you get home?	Wann bist du heimgekommen?	तुम घर कब आओगे?
