@@ -28468,3 +28468,13 @@ This is not a tiger.	Das ist kein Tiger.	यह एक बाघ नहीं �
 This is not for you.	Das ist nicht für dich.	यह तुम्हारे लिए नहीं है।
 This is not my home.	Das ist nicht mein Zuhause.	यह मेरा घर नहीं है।
 This is one of mine.	Das ist eine meiner Sachen.	यह मेरे बीच की एक है।
+This is really cute.	Das ist wirklich niedlich.	यह वास्तव में प्यारा है।
+This is really good.	Das ist wirklich gut.	यह वास्तव में अच्छा है।
+This is so romantic.	Das ist so romantisch.	यह वास्तव में रोमांटिक है।
+This is the big one.	Das ist der große.	यह बडा है।
+This is the problem.	Das ist das Problem.	यह समस्या है।
+This is their house.	Das ist ihr Haus.	यह उनका घर है।
+This is unfortunate.	Das ist bedauerlich.	यह दुर्भाग्यपूर्ण है।
+This is very simple.	Das ist sehr einfach.	यह बहुत ही सरल है।
+This is what I need.	Das ist was ich brauche.	यह वह है जिसकी मुझे आवश्यकता है।
+This is what I want.	Das ist was ich will.	इसी चीज की मुझे चाह है।

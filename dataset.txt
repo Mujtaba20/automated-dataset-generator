@@ -1,15 +1,4 @@
 
-This is really cute.	Das ist echt süß.	यह वास्तव में मीठा है।
-This is really good.	Das ist wirklich gut.	वह वास्तव में अच्छा है।
-This is so romantic.	Das ist so romantisch.	यह बहुत रोमांटिक है।
-This is the big one.	Das ist der große.	वह बड़ा है।
-This is the problem.	Das ist das Problem.	यही तो समस्या है।
-This is their house.	Das ist ihr Haus.	यह आपका घर है।
-This is unfortunate.	Das ist unglücklich.	यह दुखी है।
-This is very simple.	Das ist sehr einfach.	यह बहुत आसान है।
-This is what I need.	Das ist es, was ich brauche.	यही मुझे चाहिए।
-This is what I want.	Das ist es, was ich will.	मैं यही चाहता था।
-This is what I want.	Genau das will ich.	ठीक यही मैं चाहता हूं।
 This is your chance.	Das ist deine Chance.	यह आपका मौका है।
 This is your chance.	Das ist Ihre Chance.	यह तुम्हारा मौका है।
 This isn't a secret.	Das ist kein Geheimnis.	यह कोई रहस्य नहीं है।
