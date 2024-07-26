@@ -41465,3 +41465,12 @@ Who planned that trip?	Wer hat diese Reise geplant?	उस यात्रा �
 Who planted this tree?	Wer hat diesen Baum gepflanzt?	इस पेड़ को किसने लगाया है?
 Who should I vote for?	Für wen sollte ich stimmen?	मैं किसको वोट दूँ?
 Who should we believe?	Wem sollten wir glauben?	हमें किसपे विश्वास करना चाहिए?
+Who sold you this car?	Wer hat dir dieses Auto verkauft?	तुम्हें यह कार किसने बेची?
+Who started the fight?	Wer hat den Streit begonnen?	लड़ाई किसने शुरू की?
+Who taught you French?	Wer hat dir Französisch beigebracht?	तुम्हें फ्रेंच किसने सिखाया?
+Who told you about me?	Wer hat dir von mir erzählt?	मेरे बारे में किसने बताया?
+Who wants more coffee?	Wer möchte noch mehr Kaffee?	कौन और कॉफ़ी चाहता है?
+Who wants to go first?	Wer möchte als Erster gehen?	कौन पहले जाना चाहता है?
+Who wants to kill you?	Wer will dich töten?	कौन तुम्हें मारना चाहता है?
+Who will come with me?	Wer kommt mit mir?	कौन मेरे साथ आएगा?
+Who wrote that letter?	Wer hat diesen Brief geschrieben?	उस पत्र की रचना किसने की है?

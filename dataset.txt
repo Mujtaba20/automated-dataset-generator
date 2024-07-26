@@ -1,15 +1,4 @@
 
-Who sold you this car?	Wer hat dir diesen Wagen verkauft?	इस कार को आपको किसने बेच दिया?
-Who started the fight?	Wer hat mit dem Streit angefangen?	विवाद किसने शुरू किया?
-Who taught you French?	Wer hat dir Französisch beigebracht?	आपको फ्रेंच किसने सिखाया?
-Who told you about me?	Wer hat dir von mir erzählt?	आपको मेरे बारे में किसने बताया?
-Who wants more coffee?	Wer will mehr Kaffee?	कौन अधिक कॉफी चाहता है?
-Who wants to go first?	Wer will zuerst gehen?	कौन पहले जाना चाहता है?
-Who wants to kill you?	Wer will dich umbringen?	कौन आपको मारना चाहता है?
-Who will come with me?	Wer kommt mit mir?	मेरे साथ कौन आ रहा है?
-Who will come with me?	Wer wird mit mir kommen?	मेरे साथ कौन आएगा?
-Who wrote that letter?	Wer hat diesen Brief geschrieben?	यह पत्र किसने लिखा था?
-Who wrote that letter?	Wer schrieb diesen Brief?	यह पत्र किसने लिखा था?
 Who wrote these poems?	Wer hat diese Gedichte geschrieben?	ये कविताएँ किसने लिखी?
 Who wrote this letter?	Wer hat diesen Brief geschrieben?	यह पत्र किसने लिखा था?
 Who's Tom living with?	Mit wem lebt Tom zusammen?	टॉम किसके साथ रहता है?
