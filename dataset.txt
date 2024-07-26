@@ -1,14 +1,4 @@
 
-Have you paid the rent?	Hast du die Miete bezahlt?	क्या आपने किराया का भुगतान किया?
-Have you read this yet?	Hast du das schon gelesen?	क्या आपने पहले से ही पढ़ा है?
-Have you read this yet?	Haben Sie das schon gelesen?	क्या आपने पहले से ही पढ़ा है?
-Have you read this yet?	Habt ihr das schon gelesen?	क्या आपने पहले से ही पढ़ा है?
-Have you seen a doctor?	Warst du beim Arzt?	क्या आप डॉक्टर में थे?
-Have you seen a doctor?	Wart ihr beim Arzt?	क्या आप डॉक्टर में हैं?
-Have you seen a doctor?	Waren Sie beim Arzt?	क्या आप डॉक्टर में थे?
-Have you seen me dance?	Hast du mich tanzen sehen?	क्या तुमने मुझे नाचते देखा
-Have you seen me dance?	Hast du mich tanzen gesehen?	क्या तुमने मुझे नाचते देखा
-Have you seen my watch?	Hast du meine Uhr gesehen?	क्या आपने मेरी घड़ी देखी?
 Have you seen the news?	Habt ihr die Nachrichten gesehen?	क्या आपने खबर देखी?
 Have you seen the news?	Hast du die Nachrichten gesehen?	क्या आपने खबर देखी?
 Have you seen the news?	Haben Sie die Nachrichten gesehen?	क्या आपने खबर देखी?
