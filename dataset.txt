@@ -1,14 +1,4 @@
 
-Do you think Tom knows?	Denkst du, Tom weiß es?	क्या आपको लगता है कि टॉम जानता है?
-Do you think in French?	Denkst du auf Französisch?	क्या आप फ्रेंच में सोचते हैं?
-Do you think it likely?	Denkst du, dass so eine Sache möglich ist?	क्या आपको लगता है कि ऐसी बात संभव है?
-Do you think it likely?	Hältst du das für wahrscheinlich?	क्या आपको लगता है कि संभावना है?
-Do you think it likely?	Halten Sie das für wahrscheinlich?	क्या आपको लगता है कि संभावना है?
-Do you think it'll fit?	Denkst du, dass es passen wird?	क्या आपको लगता है कि यह फिट होगा?
-Do you think we'll win?	Glaubst du, dass wir gewinnen?	क्या आपको लगता है कि हम जीतते हैं?
-Do you think we'll win?	Glaubt ihr, dass wir gewinnen?	क्या आपको लगता है कि हम जीतते हैं?
-Do you think we'll win?	Glauben Sie, dass wir gewinnen?	क्या आपको लगता है कि हम जीतते हैं?
-Do you understand that?	Verstehst du das?	क्या तुम समझते हो कि?
 Do you want in on this?	Willst du dabei sein?	क्या आप वहां रहना चाहते हैं?
 Do you want me to come?	Willst Du, dass ich komme?	क्या तुम्हारी इच्छा है कि मैं आऊं?
 Do you want me to sing?	Möchtest du, dass ich singe?	क्या आप मुझे गाना चाहते हैं?
