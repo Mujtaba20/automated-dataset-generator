@@ -36428,3 +36428,9 @@ Do you want it or not?	Willst du es oder nicht?	क्या तुम चाह
 Do you want me to beg?	Willst du, dass ich bettle?	क्या आप चाहते हैं कि मैं मांगूं?
 Do you want some cake?	Möchtest du etwas Kuchen?	क्या आप कुछ केक चाहते हैं?
 Do you want some soup?	Möchtest du etwas Suppe?	क्या आप कुछ सूप चाहते हैं?
+Do you want something?	Möchtest du etwas?	क्या आप कुछ चाहते हैं?
+Do you want to change?	Möchtest du dich ändern?	क्या आप बदलना चाहते हैं?
+Do you want to change?_1	Möchtest du etwas verändern?	क्या आप कुछ बदलना चाहते हैं?
+Do you want to go out?	Möchtest du ausgehen?	क्या आप बाहर जाना चाहते हैं?
+Do you want to resign?	Möchtest du zurücktreten?	क्या आप इस्तीफा देना चाहते हैं?
+Do you want to resign?_1	Möchtest du kündigen?	क्या आप नौकरी छोड़ना चाहते हैं?

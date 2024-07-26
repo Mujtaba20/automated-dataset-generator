@@ -1,16 +1,4 @@
 
-Do you want something?	Haben Sie einen Wunsch?	क्या आपकी इच्छा है?
-Do you want to change?	Möchtest du dich umziehen?	क्या तुम्हें खुद को बदलने का मन है
-Do you want to change?	Möchten Sie sich umziehen?	क्या आप बदलना चाहेंगे?
-Do you want to change?	Möchtet ihr euch umziehen?	क्या तुम्हें खुद को बदलने का मन है?
-Do you want to go out?	Willst du ausgehen?	आप बाहर जाना चाहते हो?
-Do you want to go out?	Willst du hinausgehen?	आप बाहर जाना चाहते हो
-Do you want to resign?	Möchtest du kündigen?	क्या आप छोड़ना चाहेंगे?
-Do you want to resign?	Möchten Sie kündigen?	क्या आप समाप्त करना चाहेंगे?
-Do you want to resign?	Möchtet ihr kündigen?	क्या आप छोड़ना चाहेंगे?
-Do you want to resign?	Habt ihr vor, zurückzutreten?	क्या आप पद छोड़ने की योजना बना रहे हैं?
-Do you want to resign?	Hast du vor, zurückzutreten?	क्या आप पद छोड़ने की योजना बना रहे हैं?
-Do you want to resign?	Haben Sie vor, zurückzutreten?	क्या आप पद छोड़ने की योजना बना रहे हैं?
 Do you want to see it?	Willst du es sehen?	क्या आपकी इसे देखने की इच्छा है?
 Do you want to try it?	Willst du’s mal probieren?	क्या आप इसे करने की कोशिश करना चाहते हैं?
 Do you want to try it?	Willst du’s mal versuchen?	क्या आप इसे करने की कोशिश करना चाहते हैं?
