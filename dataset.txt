@@ -1,14 +1,4 @@
 
-This is a yellow rose.	Dies ist eine gelbe Rose.	यह एक पीला गुलाब है।
-This is all our fault.	Das ist alles unsere Schuld.	यह सब हमारी गलती है।
-This is an apple tree.	Dies ist ein Apfelbaum.	यह एक सेब का पेड़ है।
-This is an epic novel.	Das ist ein Heldenroman.	यह एक हीरो उपन्यास है।
-This is an olive tree.	Das ist ein Olivenbaum.	यह एक जैतून का पेड़ है।
-This is for my friend.	Das ist für meinen Freund.	वह मेरे दोस्त के लिए है।
-This is going too far.	Das geht zu weit!	यह बहुत दूर चला जाता है!
-This is how I made it.	So habe ich das gemacht.	इस तरह मैंने यह किया।
-This is how you do it.	So macht man das.	ऐसे आप इसको करते हैं।
-This is inappropriate.	Das ist unangemessen.	यह अनुचित है।
 This is just too much.	Das ist einfach zu viel.	यह बहुत ज्यादा है।
 This is my dictionary.	Das ist mein Wörterbuch.	यह मेरा शब्दकोश है।
 This is my first time.	Das ist mein erstes Mal.	यह मेरी पहली बार है।

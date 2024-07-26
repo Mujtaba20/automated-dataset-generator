@@ -39731,3 +39731,13 @@ This is a joke, right?	Ist das ein Witz, oder?	यह मजाक है, न�
 This is a large house.	Das ist ein großes Haus.	यह एक बड़ा घर है।
 This is a stupid idea.	Das ist eine dumme Idee.	यह एक मूर्ख विचार है।
 This is a wooden comb.	Das ist ein Holzkamm.	यह एक लकड़ी का कंघा है।
+This is a yellow rose.	Das ist eine gelbe Rose.	यह एक पीली गुलाब है।
+This is all our fault.	Das ist alles unsere Schuld.	यह सभी हमारी गलती है।
+This is an apple tree.	Das ist ein Apfelbaum.	यह एक सेब का पेड़ है।
+This is an epic novel.	Das ist ein epischer Roman.	यह एक महाकाव्य उपन्यास है।
+This is an olive tree.	Das ist ein Olivenbaum.	यह एक जैतून का पेड़ है।
+This is for my friend.	Das ist für meinen Freund.	यह मेरे दोस्त के लिए है।
+This is going too far.	Das geht zu weit.	यह बहुत आगे बढ़ रहा है।
+This is how I made it.	So habe ich es gemacht.	यह मैंने कैसे बनाया।
+This is how you do it.	So machen Sie es.	ऐसे ही तुम्हें करना चाहिए।
+This is inappropriate.	Das ist unangemessen.	यह अनुचित है।
