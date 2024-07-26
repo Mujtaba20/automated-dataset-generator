@@ -1,14 +1,4 @@
 
-I know your father.	Ich kenne deinen Vater.	मैं तुम्हारे पिता को जानता हूं।
-I know your father.	Ich kenne euren Vater.	मैं तुम्हारे पिता को जानता हूं।
-I know your father.	Ich kenne Ihren Vater.	मैं उसके पिता को जानता हूं।
-I know your mother.	Ich kenne deine Mutter.	मैं तुम्हारी माँ को जानता हूं।
-I know your sister.	Ich kenne deine Schwester.	मैं तुम्हारी बहन को जानता हूं।
-I know your sister.	Ich kenne eure Schwester.	मैं तुम्हारी बहन को जानता हूं।
-I know your sister.	Ich kenne Ihre Schwester.	मैं उसकी बहन को जानता हूं।
-I lack imagination.	Es fehlt mir an Vorstellungsvermögen.	मुझे कल्पना की कमी है।
-I lay awake in bed.	Ich lag wach im Bett.	मैं बिस्तर में जाग रहा था।
-I left Tom in 2013.	Ich habe Tom 2013 verlassen.	मैंने 2013 में टॉम को छोड़ दिया।
 I left it unlocked.	Ich ließ es unverschlossen.	मैंने इसे अनलॉक कर दिया।
 I left the country.	Ich habe das Land verlassen.	मैंने देश छोड़ दिया।
 I like Boston, too.	Ich mag Boston auch.	मुझे बोस्टन भी पसंद है।
