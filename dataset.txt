@@ -1,14 +1,4 @@
 
-Tom is going home now.	Tom geht jetzt nach Hause.	टॉम अब घर जा रहा है।
-Tom is going to be OK.	Tom wird okay sein.	टॉम ठीक हो जाएगा।
-Tom is going to do it.	Tom macht das.	टॉम ऐसा करता है।
-Tom is going to watch.	Tom wird zusehen.	टॉम देखेंगे।
-Tom is good at French.	Tom spricht gut Französisch.	टॉम फ्रेंच अच्छी तरह से बोलता है।
-Tom is good at French.	Tom kann gut Französisch.	टॉम फ्रेंच अच्छी तरह से कर सकते हैं।
-Tom is good at French.	Tom ist gut im Französischen.	टॉम फ्रेंच में अच्छा है।
-Tom is good at diving.	Tom kann gut tauchen.	टॉम अच्छी तरह से गोता लगा सकते हैं।
-Tom is good at skiing.	Tom kann gut Ski fahren.	टॉम अच्छी तरह से स्की कर सकते हैं।
-Tom is good at skiing.	Tom kann gut Schi fahren.	टॉम अच्छी तरह से स्की कर सकते हैं।
 Tom is good at soccer.	Tom spielt gut Fußball.	टॉम अच्छी तरह से फुटबॉल खेलता है।
 Tom is good at tennis.	Tom spielt gut Tennis.	टॉम टेनिस को अच्छी तरह से खेलता है।
 Tom is good with kids.	Tom kann gut mit Kindern umgehen.	टॉम बच्चों को अच्छी तरह से संभाल सकता है।

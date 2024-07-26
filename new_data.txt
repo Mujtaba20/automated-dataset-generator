@@ -40301,3 +40301,10 @@ Tom is full of energy.	Tom ist voller Energie.	टॉम ऊर्जा से 
 Tom is getting better.	Tom wird besser.	टॉम सुधर रहा है।
 Tom is getting bolder.	Tom wird mutiger.	टॉम बहादुर हो रहा है।
 Tom is getting scared.	Tom wird ängstlich.	टॉम डर रहा है।
+Tom is going home now.	Tom geht jetzt nach Hause.	टॉम अब घर जा रहा है।
+Tom is going to be OK.	Tom wird okay sein.	टॉम ठीक हो जाएगा।
+Tom is going to do it.	Tom wird es tun.	टॉम यह करने वाला है।
+Tom is going to watch.	Tom wird zuhören.	टॉम देखने जा रहा है।
+Tom is good at French.	Tom ist gut in Französisch.	टॉम फ्रेंच में अच्छा है।
+Tom is good at diving.	Tom kann gut tauchen.	टॉम डाइविंग में अच्छा है।
+Tom is good at skiing.	Tom ist gut im Skifahren.	टॉम स्की करने में अच्छा है।
