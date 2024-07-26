@@ -1,15 +1,4 @@
 
-It's going to collapse.	Es wird gleich einstürzen.	यह तुरंत गिर जाएगा।
-It's going to collapse.	Es wird gleich einfallen.	यह उसी के साथ आएगा।
-It's going to collapse.	Es wird gleich zusammenbrechen.	यह तुरंत गिर जाएगा।
-It's going to get cold.	Es wird kalt werden.	ठंड होने जा रही है।
-It's gone out of style.	Das ist aus der Mode gekommen.	वह फैशन से बाहर हो गया।
-It's good for business.	Das ist gut fürs Geschäft.	यह व्यवसाय के लिए अच्छा है।
-It's great to meet you.	Es ist sehr gut, dich zu treffen.	आपसे मिलना बहुत अच्छा है।
-It's happening tonight.	Es passiert heute Nacht.	यह आज रात होता है।
-It's impossible to fix.	Das kann man nicht reparieren.	आप इसकी मरम्मत नहीं कर सकते।
-It's impossible to fix.	Das kann man nicht mehr reparieren.	आप अब इसकी मरम्मत नहीं कर सकते।
-It's impossible to fix.	Das kann man nicht wiedergutmachen.	आप उसके लिए नहीं बना सकते।
 It's just a precaution.	Das ist nur eine Vorsichtsmaßnahme.	यह सिर्फ एक एहतियात है।
 It's just what happens.	Ach, das kommt vor.	ओह, ऐसा होता है।
 It's like one of those.	Fast wie einer von denen.	लगभग उनमें से एक की तरह।
