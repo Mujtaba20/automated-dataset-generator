@@ -25535,3 +25535,9 @@ Get a ticket for me.	Hol mir eine Fahrkarte.	मेरे लिए एक ट�
 Get down from there.	Komm da runter.	वहां से नीचे आओ।
 Get her out of here.	Holen Sie sie hier raus.	उसे यहां से निकालो।
 Get me another beer.	Hol mir ein anderes Bier.	मुझे एक और बीयर लाओ।
+Get me the evidence.	Hol mir die Beweise.	मुझे सबूत दीजिए।
+Get on with it, Tom.	Mach weiter, Tom.	इसके साथ आगे बढ़ें, टॉम।
+Get out of my chair.	Raus aus meinem Stuhl.	मेरी कुर्सी से उठो।
+Get out of my house.	Gehen Sie aus meinem Haus.	मेरे घर से बाहर निकलो।
+Get out your wallet.	Holen Sie Ihre Brieftasche heraus.	अपना बटुआ निकालो।
+Get your clothes on.	Zieh dich an.	अपने कपड़े पहनो।
