@@ -30804,3 +30804,7 @@ Don't talk like that.	Sprich nicht so.	ऐसे मत बोलो।
 Don't tell my mother.	Erzähle es meiner Mutter nicht.	मेरी माँ को मत बोलना।
 Don't think about it.	Denke nicht darüber nach.	इसके बारे में मत सोचो।
 Don't throw that out.	Wirf das nicht weg.	उसे न फेंको।
+Don't touch anything.	Nichts berühren.	कुछ भी मत छूना।
+Don't touch me again.	Berühren Sie mich nicht wieder.	फिरसे मुझे मत छूना।
+Don't touch my stuff.	Fass meine Sachen nicht an.	मेरी चीज़ों को छूने मत जाओ।
+Don't try to fool me.	Versuche mich nicht zu täuschen.	मुझे बेवकूफ बनाने की कोशिश मत करो।
