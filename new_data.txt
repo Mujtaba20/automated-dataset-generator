@@ -39275,3 +39275,12 @@ Tell us the truth now.	Sag uns jetzt die Wahrheit.	अब हमें सच्
 Thank God it's Friday.	Gott sei Dank, es ist Freitag.	धन्यवाद भगवान, यह शुक्रवार है।
 Thank God nobody died.	Gott sei Dank ist niemand gestorben.	धन्यवाद भगवान, किसी की मौत नहीं हुई।
 Thank you for calling.	Vielen Dank für Ihren Anruf.	कॉल करने के लिए धन्यवाद।
+Thank you for the tea.	Vielen Dank für den Tee.	चाय के लिए धन्यवाद।
+Thank you for writing.	Vielen Dank für das Schreiben.	लिखने के लिए धन्यवाद।
+Thanks for being here.	Danke, dass du hier bist.	यहाँ होने के लिए धन्यवाद।
+Thanks for doing that.	Danke dafür, dass du das getan hast.	उसे करने के लिए धन्यवाद।
+Thanks for doing this.	Danke, dass du das gemacht hast.	यह करने के लिए धन्यवाद।
+Thanks for everything.	Danke für alles.	सब कुछ के लिए धन्यवाद।
+Thanks for meeting me.	Danke, dass du mich getroffen hast.	मुझसे मिलने के लिए धन्यवाद।
+Thanks for the advice.	Danke für den Rat.	सलाह के लिए धन्यवाद।
+Thanks for the invite.	Danke für die Einladung.	निमंत्रण के लिए धन्यवाद।
