@@ -26855,3 +26855,11 @@ I wish I were there.	Ich wünschte, ich wäre dort.	मैं चाहता �
 I wish I were wrong.	Ich wünschte, ich hätte Unrecht.	मैं चाहता हूं कि मेरा गलत हो।
 I wish I were young.	Ich wünschte, ich wäre jung.	मुझे आशा है कि मैं जवान होता।
 I wish Tom was here.	Ich wünschte, Tom wäre hier.	मुझे आशा है कि टॉम यहाँ होता।
+I wish he were here.	Ich wünschte, er wäre hier.	मुझे चाहिए के वह यहाँ होता।
+I wish it were true.	Ich wünschte, es wäre wahr.	मैं चाहता कि यह सच होता।
+I wish to go abroad.	Ich wünsche mir, ins Ausland zu gehen.	मैं इस से विदेश जाना चाहता हूँ।
+I wish you'd listen.	Ich wünschte, du würdest zuhören.	मैं चाहता था कि तुम सुनते।
+I won't answer that.	Das werde ich nicht beantworten.	मैं उसका जवाब नहीं दूंगा।
+I won't forget that.	Das werde ich nicht vergessen.	मैं उसे नहीं भूलूंगा।
+I won't forget this.	Das werde ich nicht vergessen.	मैं ये नहीं भूलूंगा।
+I won't get a raise.	Ich werde keine Gehaltserhöhung bekommen.	मुझे वेतन में वृद्धि नहीं मिलेगी।
