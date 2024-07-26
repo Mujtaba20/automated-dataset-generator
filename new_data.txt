@@ -41196,3 +41196,12 @@ Were you at the party?	Warst du auf der Feier?	क्या तुम पार�
 Were you following me?	Hast du mir gefolgt?	क्या तुम मेरा पीछा कर रहे थे?
 Were you guys serious?	Waren Sie ernst?	क्या आप लोग गंभीर थे?
 Were you on the train?	Warst du im Zug?	क्या तुम ट्रेन पर थे?
+Were you spying on me?	Haben Sie mich beobachtet?	क्या आपने मुझ पर जासूसी की थी?
+Were you up all night?	Warst du die ganze Nacht wach?	क्या आप पूरी रात जागे रहे थे?
+Weren't you listening?	Hast du nicht zugehört?	क्या आप सुन रहे नहीं थे?
+What I need is a beer.	Was ich brauche, ist ein Bier.	मुझे एक बियर चाहिए।
+What Tom said is true.	Was Tom gesagt hat, ist wahr.	जो टॉमने कहा है, वह सच है।
+What Tom says is true.	Was Tom sagt, ist wahr.	जो टॉम कहता है, वह सच है।
+What a beautiful baby!	Was für ein schönes Baby!	कितना सुंदर बच्चा है!
+What a beautiful city!	Was für eine schöne Stadt!	कितना सुंदर शहर है!
+What a beautiful town!	Was für eine schöne Stadt!	कितना सुंदर गाँव है!
