@@ -1,14 +1,4 @@
 
-Take your time with it.	Lass dir dabei Zeit.	पर्याप्त समय लो।
-Take your time with it.	Lasst euch dabei Zeit.	पर्याप्त समय लो।
-Take your time with it.	Lassen Sie sich dabei Zeit.	पर्याप्त समय लो।
-Teach me how it's done.	Bring mir bei, wie man es macht.	मुझे लाना कि यह कैसे करना है।
-Teach me how you do it.	Bring mir bei, wie man es macht.	मुझे लाना कि यह कैसे करना है।
-Teach me how you do it.	Zeig mir, wie das geht!	मुझे दिखाओ कि यह कैसे काम करता है!
-Tell Tom to be careful.	Sag Tom, er soll vorsichtig sein.	टॉम कहो, उसे सावधान रहना चाहिए।
-Tell it to him, not me!	Sag das ihm, nicht mir!	उसे बताओ, मुझे नहीं!
-Tell me about yourself.	Erzählen Sie mir etwas über sich.	मुझे तुम्हारे बारे में कुछ बताओ।
-Tell me more about Tom.	Erzähl mir mehr über Tom!	मुझे टॉम के बारे में और बताओ!
 Tell me where you live.	Sag mir, wo du wohnst.	मुझे बताओ कि तुम कहाँ रहते हो।
 Tell me which you want.	Sag mir, welchen du willst.	मुझे बताओ कि तुम क्या चाहते हो।
 Tell me why you did it.	Sag mir, warum du es getan hast.	मुझे बताओ कि आपने ऐसा क्यों किया।
