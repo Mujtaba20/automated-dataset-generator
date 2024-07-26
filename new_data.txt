@@ -38474,3 +38474,13 @@ Is your watch correct?	Ist deine Uhr richtig?	क्या आपकी घड�
 Isn't it your day off?	Ist es nicht dein freier Tag?	क्या यह तुम्हारा अवकाश नहीं है?
 Isn't life just great?	Ist das Leben nicht großartig?	क्या जिंदगी बस शानदार नहीं है?
 Isn't the answer easy?	Ist die Antwort nicht einfach?	क्या जवाब आसान नहीं है?
+It all depends on you.	Es hängt alles von dir ab.	यह सब आप पर निर्भर करता है।
+It almost made me cry.	Es hat mich fast zum Weinen gebracht.	यह मुझे रोने का मन कर दिया था।
+It can be frustrating.	Es kann frustrierend sein.	यह निराश कर सकता है।
+It could be important.	Es könnte wichtig sein.	यह महत्वपूर्ण हो सकता है।
+It could have been me.	Es hätte ich sein können.	यह मैं हो सकता था।
+It didn't hurt at all.	Es hat überhaupt nicht wehgetan.	इसने बिल्कुल भी दर्द नहीं किया।
+It didn't really hurt.	Es hat eigentlich nicht wehgetan.	इसने वास्तव में दर्द नहीं किया।
+It doesn't matter now.	Es spielt jetzt keine Rolle.	अब इसका कोई महत्व नहीं है।
+It frosted last night.	Es hat letzte Nacht gefroren.	कल रात को फ्रोस्ट हुआ था।
+It gave me the creeps.	Es hat mir einen Schauer über den Rücken gejagt.	इसने मुझे डरावना महसूस कराया।
