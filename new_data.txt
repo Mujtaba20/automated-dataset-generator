@@ -37548,3 +37548,13 @@ I hope you understand.	Ich hoffe, du verstehst.	मुझे आशा है �
 I hope you'll like it.	Ich hoffe, es wird dir gefallen.	मुझे आशा है कि तुम्हें यह पसंद आएगा।
 I hope no one sees us. (Different Meaning)	Ich hoffe, dass wir nicht entdeckt werden.	मुझे आशा है कि कोई हमें नहीं देख पाता।
 I hope you don't mind. (Different Meaning)	Ich hoffe, es stört dich nicht.	मुझे आशा है कि तुम्हें इससे परेशानी नहीं हो।
+I hurt Tom's feelings.	Ich habe Tom's Gefühle verletzt.	मैंने टॉम के भावनाओं को ठेस पहुँचाई।
+I imagine that's true.	Ich stelle mir vor, dass das wahr ist.	मुझे लगता है कि यह सच है।
+I just couldn't do it.	Ich konnte es einfach nicht tun.	मैं बस नहीं कर सका।
+I just couldn't sleep.	Ich konnte einfach nicht schlafen.	मैं सोने के लिए नहीं कर सका।
+I just don't know why.	Ich weiß einfach nicht warum.	मुझे बस नहीं पता क्यों।
+I just don't like you.	Ich mag dich einfach nicht.	मुझे तुम्हारी नापसंद है।
+I just don't love Tom.	Ich liebe Tom einfach nicht.	मैं टॉम से प्यार नहीं करता।
+I just heard from Tom.	Ich habe gerade von Tom gehört.	मैंने अभी टॉम से सुना है।
+I just need some rest.	Ich brauche einfach etwas Ruhe.	मुझे बस थोड़ी आराम की आवश्यकता है।
+I just now found this.	Ich habe das gerade gefunden.	मैंने अभी यह पाया है।
