@@ -1,14 +1,4 @@
 
-Tom is in the shower.	Tom duscht.	टॉम शावर।
-Tom is in the shower.	Tom steht unter der Dusche.	टॉम शॉवर में है।
-Tom is insanely rich.	Tom ist wahnsinnig reich.	टॉम अविश्वसनीय रूप से समृद्ध है।
-Tom is irresponsible.	Tom ist verantwortungslos.	टॉम गैर -जिम्मेदार है।
-Tom is irresponsible.	Tom ist unverantwortlich.	टॉम गैर -जिम्मेदार है।
-Tom is just a friend.	Tom ist bloß ein Freund.	टॉम सिर्फ एक दोस्त है।
-Tom is just adorable.	Tom ist einfach hinreißend.	टॉम बस मनमोहक है।
-Tom is just like you.	Tom ist genau wie du.	टॉम बिल्कुल आप की तरह है।
-Tom is just like you.	Tom ist genau wie Sie.	टॉम बिल्कुल उसके जैसा है।
-Tom is just like you.	Tom ist genau wie ihr.	टॉम बिल्कुल उसके जैसा है।
 Tom is just visiting.	Tom ist nur zu Besuch.	टॉम केवल दौरा कर रहा है।
 Tom is lean and tall.	Tom ist groß und schlank.	टॉम लंबा और पतला है।
 Tom is likely to win.	Tom wird wahrscheinlich gewinnen.	टॉम शायद जीत जाएगा।

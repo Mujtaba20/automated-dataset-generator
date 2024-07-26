@@ -34455,3 +34455,9 @@ Tom is in his office.	Tom ist in seinem Büro.	टॉम अपने कार�
 Tom is in his office. - Different meaning	Tom ist im Büro.	टॉम कार्यालय में है।
 Tom is in the forest.	Tom ist im Wald.	टॉम जंगल में है।
 Tom is in the garden.	Tom ist im Garten.	टॉम बगीचे में है।
+Tom is in the shower.	Tom duscht gerade.	टॉम शॉवर में है।
+Tom is insanely rich.	Tom ist wahnsinnig reich.	टॉम अत्यधिक धनी है।
+Tom is irresponsible.	Tom handelt unverantwortlich.	टॉम अजिम्मेदार है।
+Tom is just a friend.	Tom ist nur ein Freund.	टॉम सिर्फ एक दोस्त है।
+Tom is just adorable.	Tom ist einfach bezaubernd.	टॉम बस प्यारा है।
+Tom is just like you.	Tom ist genauso wie du.	टॉम तुम्हारे जैसा है।
