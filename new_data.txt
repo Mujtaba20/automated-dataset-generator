@@ -24823,3 +24823,10 @@ You broke your leg.	Du hast dein Bein gebrochen.	तुमने अपनी �
 You can believe me.	Du kannst mir glauben.	तुम मुझपर विश्वास कर सकते हो।
 You broke the rule. - Alternative meaning in Hindi	Du hast die Regel gebrochen.	तुमने नियम की अवगति की।
 You can believe me. - Alternative meaning in German	Du kannst mir vertrauen.	तुम मुझपर भरोसा कर सकते हो।
+You can do it, Tom.	Du kannst es schaffen, Tom.	तुम इसे कर सकते हो, टॉम।
+You can lean on me.	Du kannst dich auf mich stützen.	तुम मुझपर टिक सकते हो।
+You can let Tom go.	Du kannst Tom gehen lassen.	तुम टॉम को जाने दे सकते हैं।
+You can rely on me.	Du kannst dich auf mich verlassen.	तुम मुझपर भरोसा कर सकते हो।
+You can smoke here.	Du kannst hier rauchen.	तुम यहाँ सिगरेट पी सकते हो।
+You can let Tom go. (different meaning)	Du kannst Tom freilassen.	तुम टॉम को छोड़ सकते हैं।
+You can smoke here. (different meaning)	Du darfst hier rauchen.	तुम यहाँ सिगरेट पे सकते हो।
