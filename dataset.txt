@@ -1,17 +1,4 @@
 
-I don't like your boss.	Ich mag deinen Chef nicht.	मुझे आपका बॉस पसंद नहीं है।
-I don't like your boss.	Ich mag deine Chefin nicht.	मुझे आपका बॉस पसंद नहीं है।
-I don't like your boss.	Ich mag Ihren Chef nicht.	मुझे आपका बॉस पसंद नहीं है।
-I don't like your boss.	Ich mag Ihre Chefin nicht.	मुझे उसका बॉस पसंद नहीं है।
-I don't like your name.	Ich mag deinen Namen nicht.	मुझे आपका नाम पसंद नहीं है।
-I don't live in Boston.	Ich lebe nicht in Boston.	मैं बोस्टन में नहीं रहता।
-I don't live in Boston.	Ich wohne nicht in Boston.	मैं बोस्टन में नहीं रहता।
-I don't look like that.	Ich sehe nicht so aus.	मैं इस तरह से नहीं देखता।
-I don't mind the noise.	Der Lärm stört mich nicht.	शोर मुझे परेशान नहीं करता है।
-I don't mind the smell.	Der Geruch stört mich nicht.	गंध मुझे परेशान नहीं करती है।
-I don't mind the smell.	Mich stört der Geruch nicht.	गंध मुझे परेशान नहीं करती है।
-I don't mind the smell.	Der Geruch macht mir nichts aus.	गंध मेरे लिए कोई मायने नहीं रखता।
-I don't mind the smell.	Mir macht der Geruch nichts aus.	गंध मेरे लिए कोई मायने नहीं रखता।
 I don't miss Tom a bit.	Ich vermisse Tom kein bisschen.	मैं टॉम को थोड़ा याद नहीं करता।
 I don't need a haircut.	Ich brauche mir nicht die Haare schneiden zu lassen.	मुझे अपने बालों को काटने की जरूरत नहीं है।
 I don't need money now.	Ich brauche jetzt kein Geld.	मुझे अब किसी भी पैसे की जरूरत नहीं है।
