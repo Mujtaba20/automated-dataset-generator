@@ -39631,3 +39631,9 @@ They exchanged hellos.	Sie haben sich Hallo gesagt.	उन्होंने ह
 They found each other.	Sie fanden sich.	उन्होंने एक-दूसरे को पाया।
 They hated each other.	Sie hassten sich.	वो एक-दूसरे से नफ़रत करते थे।
 They have gotten lazy.	Sie sind faul geworden.	उन्होंने सुस्ती दिखाना शुरू कर दिया है।
+They know how to swim.	Sie wissen, wie man schwimmt.	उन्हें यह पता है कि कैसे तैरना है।
+They know their stuff.	Sie kennen ihr Zeug.	उन्हें उनकी चीजों का पता है।
+They know who you are.	Sie wissen, wer du bist.	उन्हें पता है कि तुम कौन हो।
+They know who you are. [Different meaning]	Sie wissen, wen du kennst.	उन्हें पता है कि आप किसे जानते हैं।
+They look alike to me.	Sie sehen mir ähnlich.	मुझे लगता है कि वे एक जैसे दिखते हैं।
+They made fun of Mary.	Sie haben sich über Maria lustig gemacht.	उन्होंने मेरी के मजाक उड़ाए।
