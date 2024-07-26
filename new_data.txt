@@ -34728,3 +34728,13 @@ Tom needs that money.	Tom braucht das Geld.	टॉम को उस धन क�
 Tom needs the ladder.	Tom braucht die Leiter.	टॉम को सीढ़ी की आवश्यकता है।
 Tom never apologized.	Tom hat sich nie entschuldigt.	टॉम कभी माफी नहीं मांगा।
 Tom never drinks tea.	Tom trinkt nie Tee.	टॉम कभी चाय नहीं पीता।
+Tom never forgave me.	Tom hat mir nie vergeben.	टॉम कभी मुझे माफ नहीं किया।
+Tom never got better.	Tom wurde nie besser.	टॉम कभी ठीक नहीं हुआ।
+Tom never got caught.	Tom wurde nie erwischt.	टॉम कभी पकड़ा नहीं गया।
+Tom never had doubts.	Tom hatte nie Zweifel.	टॉम कभी संदेह नहीं थे।
+Tom never liked Mary.	Tom mochte Mary nie.	टॉम को कभी मेरी पसंद नहीं थी।
+Tom never says hello.	Tom sagt nie Hallo.	टॉम कभी नमस्कार नहीं कहता।
+Tom never stays long.	Tom bleibt nie lange.	टॉम कभी लंबे समय तक नहीं रहता।
+Tom never was greedy.	Tom war nie gierig.	टॉम कभी लालची नहीं था।
+Tom never was skinny.	Tom war nie dünn.	टॉम कभी पतला नहीं था।
+Tom never was strong.	Tom war nie stark.	टॉम कभी मजबूत नहीं था।
