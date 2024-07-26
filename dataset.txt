@@ -1,14 +1,4 @@
 
-You are welcome here.	Du bist hier willkommen.	आपका यहाँ स्वागत है।
-You are what you are.	Du bist, was du bist.	आप जो हैं सो हैं।
-You are what you eat.	Du bist, was du isst.	आप क्या खा रहे हैं।
-You are what you eat.	Ihr seid, was ihr esst.	आप क्या खा रहे हैं।
-You are what you eat.	Sie sind, was Sie essen.	वे वही हैं जो वे खाते हैं।
-You are what you eat.	Man ist, was man isst.	आप क्या खा रहे हैं।
-You aren't listening.	Du hörst nicht zu.	आप नहीं सुनते।
-You aren't one of us.	Du bist nicht einer von uns.	आप हम में से एक नहीं हैं।
-You can bank on that.	Du kannst darauf vertrauen.	आप इस पर भरोसा कर सकते हैं।
-You can bank on that.	Worauf du dich verlassen kannst.	आप किस पर भरोसा कर सकते हैं।
 You can come with me.	Du kannst mitkommen.	तुम मेरे साथ आ सकते हो।
 You can come with us.	Du kannst mitkommen.	तुम मेरे साथ आ सकते हो।
 You can come with us.	Du kannst mit uns mitkommen.	तुम हमारे साथ आ सकते हो।

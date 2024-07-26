@@ -35752,3 +35752,11 @@ You are not a coward.	Du bist kein Feigling.	तुम डरपोक नही
 You are now an adult.	Du bist jetzt erwachsen.	आप अब एक वयस्क हैं।
 You are the only one.	Du bist der Einzige.	तुम एकमात्र हो।
 You are under arrest.	Du stehst unter Arrest.	तुम गिरफ्तार हैं।
+You are welcome here.	Du bist hier willkommen.	तुम्हारा स्वागत है यहाँ।
+You are what you are.	Du bist, was du bist.	तुम वह हो जो तुम हो।
+You are what you eat.	Du bist, was du isst.	तुम वह हो जो तुम खाते हो।
+You are what you eat. (Different meaning)	Du wirst, was du isst.	तुम वह हो जो तुम खाते हो।
+You aren't listening.	Du hörst nicht zu.	तुम सुन नहीं रहे हो।
+You aren't one of us.	Du gehörst nicht zu uns.	तुम हमारे में से एक नहीं हो।
+You can bank on that.	Du kannst dich darauf verlassen.	तुम उस पर विश्वास कर सकते हो।
+You can bank on that. (Different meaning)	Du kannst dich darauf verlassen.	तुम इस पर भरोसा कर सकते हो।
