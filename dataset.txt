@@ -1,14 +1,4 @@
 
-I don't have any water.	Ich habe kein Wasser.	मेरे पास कोई पानी नहीं है।
-I don't have much time.	Ich habe nicht viel Zeit.	मेंरे पास ज्यादा समय नहीं है।
-I don't have the money.	Ich habe das Geld nicht.	मेरे पास पेसे नहीं हैं।
-I don't know that song.	Ich kenne dieses Lied nicht.	मैं इस गीत को नहीं जानता।
-I don't know that word.	Ich kenne das Wort nicht.	मैं शब्द नहीं जानता।
-I don't know the truth.	Ich kenne die Wahrheit nicht.	मैं सच्चाई नहीं जानता।
-I don't know this road.	Ich kenne die Straße hier nicht.	मैं यहाँ सड़क नहीं जानता।
-I don't know this song.	Ich kenne dieses Lied nicht.	मैं इस गीत को नहीं जानता।
-I don't know who he is.	Ich weiß nicht, wer er ist.	मुझे नहीं पता कि वह कौन है।
-I don't know who it is.	Ich weiß nicht, wer es ist.	मुझे नहीं पता कि यह कौन है।
 I don't know your name.	Ich weiß nicht, wie du heißt.	मुझे नहीं पता कि आपको क्या कहा जाता है।
 I don't know your name.	Ich weiß nicht, wie Sie heißen.	मुझे नहीं पता कि उन्हें क्या कहा जाता है।
 I don't like champagne.	Champagner mag ich nicht.	मुझे शैंपेन पसंद नहीं है।
