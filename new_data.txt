@@ -22639,3 +22639,9 @@ Please give me one.	Bitte gib mir eins.	कृपया मुझे एक द�
 Please have a seat.	Bitte setzen Sie sich hin.	कृपया आराम कीजिए।
 Please let me know.	Bitte lassen Sie es mich wissen.	कृपया मुझे जानकारी दें।
 Please let us know.	Bitte lassen Sie es uns wissen.	कृपया हमें बताएं।
+Please look for it.	Bitte suchen Sie danach.	कृपया इसे ढूंढ़ें।
+Please make coffee.	Bitte mache Kaffee.	कृपया कॉफ़ी बनाएं।
+Please make my bed.	Bitte mach mein Bett.	कृपया मेरी बिस्तर बनाओ।
+Please shake hands.	Bitte Hände schütteln.	कृपया हाथ मिलाओ।
+Please sing a song.	Bitte sing ein Lied.	कृपया एक गाना गाएं।
+Please step inside.	Bitte treten Sie ein.	कृपया अंदर आइए।
