@@ -1,14 +1,4 @@
 
-He is not a doctor.	Er ist kein Arzt.	वह एक डाक्टर नहीं है।
-He is not a smoker.	Er ist kein Raucher.	वह धूम्रपान करने वाला नहीं है।
-He is not down yet.	Er ist noch nicht unten.	वह अभी तक नीचे नहीं है।
-He is playing golf.	Er spielt Golf.	वह गोल्फ खेलता है।
-He is playing here.	Er spielt hier.	वह यहां खेलता है।
-He is sharp-witted.	Er hat einen scharfen Verstand.	उसका तेज दिमाग है।
-He is so heartless.	Er ist rücksichtslos.	वह निर्मम है।
-He is so heartless.	Er ist so herzlos.	वह इतना हृदयहीन है।
-He is still in bed.	Er ist noch im Bett.	वह अभी भी बिस्तर में है।
-He is sure to come.	Er wird bestimmt kommen.	वह निश्चित रूप से आएगा।
 He is very careful.	Er ist sehr vorsichtig.	वह बहुत सावधान है।
 He is very careful.	Er ist sehr sorgfältig.	यह बहुत सावधान है।
 He is well off now.	Er ist jetzt wohlhabend.	वह अब अमीर है।

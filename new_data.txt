@@ -20786,3 +20786,12 @@ He is my classmate.	Er gehört zu meiner Klasse.	वह मेरे वर्�
 He is my colleague.	Er arbeitet mit mir.	वह मेरे सहकर्मी है।
 He is no gentleman.	Er ist kein Gentleman.	वह कोई जेंटलमैन नहीं है।
 He is not Japanese.	Er ist nicht Japaner.	वह जापानी नहीं है।
+He is not a doctor.	Er ist kein Arzt.	वह डॉक्टर नहीं है।
+He is not a smoker.	Er ist kein Raucher.	वह धूम्रपानी नहीं करता।
+He is not down yet.	Er ist noch nicht unten.	वह अभी तक नीचे नहीं गया है।
+He is playing golf.	Er spielt Golf.	वह गोल्फ खेल रहा है।
+He is playing here.	Er spielt hier.	वह यहाँ खेल रहा है।
+He is sharp-witted.	Er ist scharfsinnig.	वह तेज-दिमाग़ है।
+He is so heartless.	Er ist so herzlos.	वह इतना कठोर है।
+He is still in bed.	Er liegt immer noch im Bett.	वह अभी भी बिस्तर में है।
+He is sure to come.	Er wird sicher kommen.	वह जरूर आएगा।
