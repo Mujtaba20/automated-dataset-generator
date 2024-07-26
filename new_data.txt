@@ -32405,3 +32405,13 @@ I'll never lose hope.	Ich werde niemals die Hoffnung verlieren.	मैं कभ
 I'll phone you later.	Ich werde dich später telefonieren.	मैं तुम्हें बाद में फोन करूंगा।
 I'll prove it to you.	Ich werde es dir zeigen.	मैं तुम्हें यह दिखलाऊँगा।
 I'll see you at 2:30.	Ich werde dich um 2:30 sehen.	मैं तुम्हें 2:30 बजे मिलूंगा।
+I'll see you at home.	Ich sehe dich zu Hause.	मैं तुम्हें घर पर देखूंगा।
+I'll send you a bill.	Ich schicke Ihnen eine Rechnung.	मैं आपको एक बिल भेजूंगा।
+I'll send you a text.	Ich schicke Ihnen eine Nachricht.	मैं आपको एक पाठ भेजूंगा।
+I'll show you around.	Ich zeige Ihnen die Umgebung.	मैं तुम्हें आस-पास दिखाऊंगा।
+I'll stay home today.	Ich bleibe heute Zuhause.	मैं आज घर पर ही रहूंगा।
+I'll take care of it.	Ich werde mich darum kümmern.	मैं इसकी देखभाल करूंगा।
+I'll take the chance.	Ich werde die Gelegenheit nutzen.	मैं मौका लूँगा।
+I'll take the stairs.	Ich werde die Treppen nehmen.	मैं सीढ़ियों को उठूंगा।
+I'll tell the others.	Ich werde es den anderen sagen.	मैं दूसरों को बताऊंगा।
+I'll try to be early.	Ich werde versuchen, früh da zu sein.	मैं जल्दी आने की कोशिश करूंगा।
