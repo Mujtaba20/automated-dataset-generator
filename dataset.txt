@@ -1,14 +1,4 @@
 
-When did you arrive?	Wann bist du angekommen?	जब तुम आए?
-When did you buy it?	Wann hast du es gekauft?	आपने इसे कब खरीदा था?
-When did you buy it?	Wann habt ihr es gekauft?	आपने इसे कब खरीदा था?
-When did you buy it?	Wann haben Sie es gekauft?	आपने इसे कब खरीदा था?
-When did you buy it?	Wann hast du sie gekauft?	आपने इसे कब खरीदा था?
-When did you buy it?	Wann haben Sie sie gekauft?	आपने उन्हें कब खरीदा?
-When did you buy it?	Wann habt ihr sie gekauft?	आपने उन्हें कब खरीदा?
-When did you buy it?	Wann hast du ihn gekauft?	आपने इसे कब खरीदा था?
-When did you buy it?	Wann haben Sie ihn gekauft?	आपने इसे कब खरीदा था?
-When did you buy it?	Wann habt ihr ihn gekauft?	आपने इसे कब खरीदा था?
 When did you get up?	Wann bist du aufgestanden?	आप कब उठे थे?
 When did you retire?	Wann bist du in Pension gegangen?	आप कब रिटायर हुए?
 When did you return?	Wann bist du zurückgekommen?	आप वापस कब आये?

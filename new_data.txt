@@ -29873,3 +29873,6 @@ When can I call you?	Wann kann ich dich anrufen?	मैं तुम्हें
 When can we move in?	Wann können wir einziehen?	हम कब घर बदल सकते हैं?
 When did they leave?	Wann sind sie gegangen?	उन्होंने कब छोड़ दिया?
 When did this occur?	Wann ist das passiert?	यह कब हुआ?
+When did you arrive?	Wann bist du angekommen?	तुम कब पहुंचे?
+When did you buy it?	Wann hast du es gekauft?	तुमने यह कब खरीदा?
+When did you buy it? (different meaning)	Wann hast du es gekauft?	आपने ऐसा क्यों किया?
