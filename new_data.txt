@@ -26798,3 +26798,13 @@ I wanted to hit Tom.	Ich wollte Tom schlagen.	मैं टॉम को मा�
 I wanted to say yes.	Ich wollte Ja sagen.	मैं हाँ कहना चाहता था।
 I wanted to sell it.	Ich wollte es verkaufen.	मैं इसे बेचना चाहता था।
 I was Tom's teacher.	Ich war Toms Lehrer.	मैं टॉम का शिक्षक था।
+I was a quiet child.	Ich war ein ruhiges Kind.	मैं एक शांत बच्चा था।
+I was afraid of Tom.	Ich hatte Angst vor Tom.	मुझे टॉम से डर था।
+I was already tired.	Ich war bereits müde.	मैं पहले से ही थक चुका था।
+I was arrested, too.	Ich wurde auch verhaftet.	मुझे भी गिरफ्तार किया गया था।
+I was aware of that.	Ich war mir dessen bewusst.	मैं उसके बारे में जागरूक था।
+I was born in Kyoto.	Ich wurde in Kyoto geboren.	मैं क्योटो में जन्मा था।
+I was flabbergasted.	Ich war fassungslos.	मैं हक्का बक्का रह गया था।
+I was happy for Tom.	Ich war glücklich für Tom.	मैं टॉम के लिए खुश था।
+I was in a bad mood.	Ich war schlecht gelaunt.	मेरा मन खराब था।
+I was in a bad mood. - Different Meaning	Ich war schlecht drauf.	मुझे बुरा मिजाज था।
