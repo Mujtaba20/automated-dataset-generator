@@ -1,14 +1,4 @@
 
-How bad is Tom hurt?	Wie schwer ist Tom verletzt?	टॉम कितनी गंभीरता से घायल है?
-How bad is the pain?	Wie arg sind die Schmerzen?	दर्द कितना बुरा है?
-How bad will it get?	Wie schlimm wird es werden?	यह कितना बुरा होगा?
-How can I forget it?	Wie kann ich es vergessen?	मैं इसे कैसे भूल सकता हूं?
-How can I get there?	Wie komme ich dorthin?	मैं वहां किस प्रकार पहुंचा?
-How can I reach you?	Wie kann ich dich erreichen?	आपसे किस तरह से संपर्क किया जा सकता है?
-How can Tom help us?	Wie kann Tom uns helfen?	टॉम हमारी मदद कैसे कर सकता है?
-How can we help Tom?	Wie können wir Tom helfen?	हम टॉम की मदद कैसे कर सकते हैं?
-How can we prove it?	Wie können wir es beweisen?	हम इसे कैसे साबित कर सकते हैं?
-How can we save Tom?	Wie können wir Tom retten?	हम टॉम को कैसे बचा सकते हैं?
 How could I help it?	Wie könnte ich es ändern?	मैं इसे कैसे बदल सकता हूं?
 How deep is it here?	Wie tief ist es hier?	यहाँ कितना गहरा है?
 How did Tom do that?	Wie hat Tom das gemacht?	टॉम ने ऐसा कैसे किया?

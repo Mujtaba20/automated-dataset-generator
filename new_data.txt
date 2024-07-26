@@ -25907,3 +25907,13 @@ How about I do that?	Wie wäre es, wenn ich das mache?	मैं वह कर�
 How about a rematch?	Wie wäre es mit einem Rückkampf?	रीमैच कैसे रहेगा?
 How about some milk?	Wie wäre es mit etwas Milch?	थोड़ा दूध कैसे रहेगा?
 How are you feeling?	Wie fühlst du dich?	तुम कैसा महसूस कर रहे हो?
+How bad is Tom hurt?	Wie schlimm ist Tom verletzt?	टॉम की चोट कितनी बुरी है?
+How bad is the pain?	Wie schlimm ist der Schmerz?	दर्द कितना बुरा है?
+How bad will it get?	Wie schlimm wird es werden?	यह कितना बुरा होगा?
+How can I forget it?	Wie kann ich es vergessen?	मैं इसे कैसे भूल सकता हूँ?
+How can I get there?	Wie komme ich dorthin?	मैं वहाँ कैसे पहुंच सकता हूँ?
+How can I reach you?	Wie kann ich dich erreichen?	मैं तुम्हें कैसे पहुंच सकता हूँ?
+How can Tom help us?	Wie kann Tom uns helfen?	टॉम हमें कैसे मदद कर सकता है?
+How can we help Tom?	Wie können wir Tom helfen?	हम टॉम की मदद कैसे कर सकते हैं?
+How can we prove it?	Wie können wir es beweisen?	हम इसे कैसे साबित कर सकते हैं?
+How can we save Tom?	Wie können wir Tom retten?	हम टॉम को कैसे बचा सकते हैं?
