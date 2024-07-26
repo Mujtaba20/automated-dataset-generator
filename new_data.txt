@@ -35175,3 +35175,12 @@ We have many members.	Wir haben viele Mitglieder.	हमारे कई सद�
 We have no insurance.	Wir haben keine Versicherung.	हमारे पास कोई बीमा नहीं है।
 We have no more rice.	Wir haben keinen Reis mehr.	हमारे पास और चावल नहीं है।
 We have nothing else.	Wir haben nichts anderes.	हमारे पास कुछ और नहीं है।
+We have offered help.	Wir haben Hilfe angeboten.	हमने सहायता प्रदान की है।
+We have things to do.	Wir haben Dinge zu tun.	हमें करने के काम हैं।
+We have three planes.	Wir haben drei Flugzeuge.	हमारे पास तीन हवाई जहाज हैं।
+We have to celebrate.	Wir müssen feiern.	हमें जश्न मनाना है।
+We have to have this.	Wir müssen das haben.	हमें इसके पास होना चाहिए।
+We have to leave now.	Wir müssen jetzt gehen.	हमें अब जाना है।
+We have to stop this.	Wir müssen das stoppen.	हमें इसे रोकना है।
+We have to tell them.	Wir müssen es ihnen sagen.	हमें उन्हें बताना है।
+We have two children.	Wir haben zwei Kinder.	हमारे पास दो बच्चे हैं।
