@@ -1,14 +1,4 @@
 
-When did you meet her?	Wann hast du sie getroffen?	आपने उसे कब मारा?
-When is dinner served?	Wann wird das Abendessen serviert?	रात का खाना कब परोसा जाता है?
-When is your birthday?	Wann haben Sie Geburtstag?	आपका जन्मदिन कब है?
-When was it purchased?	Wann wurde es erworben?	इसका अधिग्रहण कब किया गया था?
-When will it be ready?	Wann wird es fertig sein?	यह कब किया जाएगा?
-When will they arrive?	Wann werden sie ankommen?	वे कब आएंगे?
-When will you be back?	Wann kommst du zurück?	आप कब वापस आ रहे हैं?
-When will you be back?	Wann werdet ihr zurückkehren?	तुम कब वापस आओगे?
-When will you be back?	Wann bist du wieder hier?	तुम यहाँ फिर कब हो?
-When will you be free?	Wann wirst du Zeit haben?	आपके पास समय कब होगा?
 When will you need it?	Ab wann brauchst du es?	आपको इसकी आवश्यकता कब होती है?
 When's the last ferry?	Wann geht die letzte Fähre?	आखिरी नौका कब जाती है?
 Where are my car keys?	Wo sind meine Autoschlüssel?	मेरी कार की चाबियां कहां हैं?

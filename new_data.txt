@@ -41375,3 +41375,11 @@ When did you get here?	Wann bist du hier angekommen?	तुम्हें य�
 When did you get home?	Wann bist du nach Hause gekommen?	तुमने घर कब खरीदा?
 When did you get this?	Wann hast du das bekommen?	तुमने यह कब पाया?
 When did you go there?	Wann bist du dorthin gegangen?	तुम वहाँ कब गए थे?
+When did you meet her?	Wann hast du sie getroffen?	तुम उससे मिले कब थे?
+When is dinner served?	Wann wird das Abendessen serviert?	रात का खाना कब सर्व किया जाता है?
+When is your birthday?	Wann ist dein Geburtstag?	तुम्हारा जन्मदिन कब है?
+When was it purchased?	Wann wurde es gekauft?	यह कब खरीदा गया था?
+When will it be ready?	Wann wird es fertig sein?	यह कब तैयार होगा?
+When will they arrive?	Wann werden sie ankommen?	वे कब आएंगे?
+When will you be back?	Wann kommst du zurück?	तुम कब वापस आओगे?
+When will you be free?	Wann wirst du frei sein?	तुम कब फ्री होगे?
