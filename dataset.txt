@@ -1,14 +1,4 @@
 
-I have to go ask Tom.	Ich muss Tom fragen.	मुझे टॉम से पूछना है।
-I have to go do this.	Ich muss gehen und das tun.	मुझे जाना है और ऐसा करना है।
-I have to go get Tom.	Ich muss Tom holen.	मुझे टॉम लाना है।
-I have to go see Tom.	Ich muss Tom besuchen.	मुझे टॉम का दौरा करना है।
-I have to go to work.	Ich muss zur Arbeit gehen.	मुझे काम करने के लिए जाना है।
-I have to go to work.	Ich muss zur Arbeit.	मुझे काम करने के लिए जाना है।
-I have to prioritize.	Ich muss Prioritäten setzen.	मुझे प्राथमिकताएं निर्धारित करनी हैं।
-I have to rent a car.	Ich muss mir einen Wagen mieten.	मुझे एक कार किराए पर लेनी है।
-I have to wear boots.	Ich muss Stiefel tragen.	मुझे जूते पहनना है।
-I have to work today.	Heute muss ich arbeiten.	आज मुझे काम करना है।
 I have too many bags.	Ich habe zu viele Taschen.	मेरे पास बहुत सारे बैग हैं।
 I have two daughters.	Ich habe zwei Töchter.	मेरी दो बेटियाँ हैं।
 I have what you want.	Ich habe, was du willst.	मेरे पास वही है जो आप चाहते हैं।

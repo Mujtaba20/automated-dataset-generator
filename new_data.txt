@@ -31782,3 +31782,12 @@ I have to be careful.	Ich muss vorsichtig sein.	मुझे सावधान 
 I have to do my best.	Ich muss mein Bestes geben.	मुझे अपनी सबसे अच्छी कोशिश करनी है।
 I have to get moving.	Ich muss in Bewegung kommen.	मुझे चलना होगा।
 I have to get to Tom.	Ich muss zu Tom gelangen.	मुझे टॉम तक पहुँचना है।
+I have to go ask Tom.	Ich muss gehen und Tom fragen.	मुझे जाकर टॉम से पूछना है।
+I have to go do this.	Ich muss das machen.	मुझे यह करना है।
+I have to go get Tom.	Ich muss Tom holen gehen.	मुझे जाना है और टॉम को लेना है।
+I have to go see Tom.	Ich muss gehen und Tom sehen.	मुझे जाना है और टॉम से मिलना है।
+I have to go to work.	Ich muss zur Arbeit gehen.	मुझे काम पर जाना है।
+I have to prioritize.	Ich muss priorisieren.	मुझे प्राथमिकता देनी है।
+I have to rent a car.	Ich muss ein Auto mieten.	मुझे एक कार किराए पर लेनी है।
+I have to wear boots.	Ich muss Stiefel tragen.	मुझे बूट पहनना है।
+I have to work today.	Ich muss heute arbeiten.	मुझे आज काम करना है।
