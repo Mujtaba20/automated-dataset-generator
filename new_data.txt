@@ -39347,3 +39347,12 @@ That wasn't very nice.	Das war nicht sehr nett.	यह बहुत अच्छ
 That water pipe leaks.	Diese Wasserleitung leckt.	वह जल रही है।
 That works every time.	Das funktioniert jedes Mal.	यह हर बार काम करता है।
 That would be logical.	Das wäre logisch.	यह तार्किक होगा।
+That would be perfect.	Das wäre perfekt.	वह अद्भुत होगा।
+That would be prudent.	Das wäre vernünftig.	यह बुद्धिमान होगा।
+That would be so cool.	Das wäre so cool.	वह बहुत कूल होगा।
+That wouldn't be fair.	Das wäre nicht fair.	यह न्यायसंगत नहीं होगा।
+That wouldn't be good.	Das wäre nicht gut.	यह अच्छा नहीं होगा।
+That'll be easy to do.	Das wird leicht zu tun sein.	यह करना आसान होगा।
+That'll make me happy.	Das wird mich glücklich machen.	वह मुझे खुश कर देगा।
+That's Mary's husband.	Das ist Marys Ehemann.	वह मेरी का पति है।
+That's Tom's decision.	Das ist Toms Entscheidung.	वह टॉम का निर्णय है।
