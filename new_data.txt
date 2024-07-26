@@ -34203,3 +34203,11 @@ Tom gave Mary a wave.	Tom winkte Mary zu.	टॉम ने मेरी को �
 Tom gave me his word.	Tom gab mir sein Wort.	टॉम ने मुझे अपना वादा दिया।
 Tom gave up all hope.	Tom gab alle Hoffnung auf.	टॉम ने सभी आशा छोड़ दी।
 Tom gave up too soon.	Tom gab zu früh auf.	टॉम ने बहुत जल्दी हार मान ली।
+Tom got a little pie.	Tom bekam einen kleinen Kuchen.	टॉम को थोड़ा पाई मिला।
+Tom got here on time.	Tom ist rechtzeitig angekommen.	टॉम समय पर यहाँ पहुंच गया।
+Tom got his hair cut.	Tom ließ sich die Haare schneiden.	टॉम ने अपने बाल कटवाए।
+Tom got hit by a car.	Tom wurde von einem Auto angefahren.	टॉम को गाड़ी से टकराया गया।
+Tom got into his car.	Tom stieg in sein Auto ein.	टॉम ने अपनी कार में चढ़ लिया।
+Tom got into the car.	Tom stieg ins Auto ein.	टॉम ने कार में प्रवेश किया।
+Tom got into trouble.	Tom geriet in Schwierigkeiten.	टॉम मुश्किल में पड़ गया।
+Tom got off his bike.	Tom stieg von seinem Fahrrad ab.	टॉम ने अपनी साइकिल से उतर गया।

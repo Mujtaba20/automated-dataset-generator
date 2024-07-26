@@ -1,14 +1,4 @@
 
-Tom got a little pie.	Tom bekam ein bisschen Kuchen.	टॉम को थोड़ा केक मिला।
-Tom got a little pie.	Tom hat ein bisschen Kuchen bekommen.	टॉम को थोड़ा केक मिला।
-Tom got here on time.	Tom hat es rechtzeitig hergeschafft.	टॉम ने इसे समय में किया।
-Tom got his hair cut.	Tom ließ sich die Haare schneiden.	टॉम ने अपने बाल काट दिए थे।
-Tom got hit by a car.	Tom wurde von einem Auto angefahren.	टॉम एक कार से टकरा गया था।
-Tom got into his car.	Tom stieg in seinen Wagen.	टॉम अपनी कार में चढ़ गया।
-Tom got into the car.	Tom stieg ins Auto ein.	टॉम कार में आ गया।
-Tom got into trouble.	Tom geriet in Schwierigkeiten.	टॉम मुसीबत में पड़ गया।
-Tom got off his bike.	Tom stieg von seinem Rad.	टॉम अपनी बाइक से उठे।
-Tom got off his bike.	Tom ist von seinem Fahrrad abgestiegen.	टॉम ने अपनी बाइक से फिर से आरोपित किया है।
 Tom got on his horse.	Tom stieg auf sein Pferd.	टॉम अपने घोड़े पर चढ़ गया।
 Tom got on the train.	Tom stieg in den Zug ein.	टॉम ट्रेन में आ गया।
 Tom got really angry.	Tom wurde sehr wütend.	टॉम बहुत गुस्से में हो गया।
