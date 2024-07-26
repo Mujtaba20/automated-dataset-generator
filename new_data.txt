@@ -35676,3 +35676,11 @@ Why doesn't Tom talk?	Warum redet Tom nicht?	टॉम बात क्यों
 Why don't I take Tom?	Warum nehme ich Tom nicht?	मैं टॉम क्यों नहीं ले लेता?
 Why don't we go home?	Warum gehen wir nicht nach Hause?	हम घर क्यों नहीं जाते?
 Why don't you answer?	Warum antwortest du nicht?	तुम क्यों जवाब नहीं देते?
+Why don't you go out?	Warum gehst du nicht raus?	तुम बाहर क्यों नहीं जाते?
+Why don't you listen?	Warum hörst du nicht zu?	तुम क्यों नहीं सुनते?
+Why don't you say it?	Warum sagst du es nicht?	तुम क्यों नहीं कहते हो?
+Why is Tom depressed?	Warum ist Tom deprimiert?	टॉम क्यों उदास है?
+Why is Tom even here?	Warum ist Tom überhaupt hier?	टॉम यहाँ क्यों है?
+Why is Tom in Boston?	Warum ist Tom in Boston?	टॉम बॉस्टन में क्यों है?
+Why is Tom like that?	Warum ist Tom so?	टॉम ऐसा क्यों है?
+Why is Tom so scared?	Warum hat Tom so viel Angst?	टॉम इतना डर क्यों रहा है?
