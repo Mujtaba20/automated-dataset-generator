@@ -1,14 +1,4 @@
 
-I like being with Tom.	Ich bin gerne mit Tom.	मुझे टॉम के साथ रहना पसंद है।
-I like being with Tom.	Ich bin gern bei Tom.	मुझे टॉम के साथ रहना पसंद है।
-I like being with you.	Ich bin gern mit dir zusammen.	मैं आपके साथ रहना पसंद करूंगा।
-I like boys like that.	Ich mag solche Jungs.	मुझे ऐसे लोग पसंद हैं।
-I like dark chocolate.	Ich mag dunkle Schokolade.	मुझे डार्क चॉकलेट पसंद है।
-I like dogs very much.	Ich liebe Hunde sehr.	मुझे कुत्तों से बहुत प्यार है।
-I like dogs very much.	Ich mag Hunde sehr.	मुझे कुत्ते बहुत पसंद हैं।
-I like how Tom thinks.	Ich mag, wie Tom denkt.	मुझे लगता है कि टॉम सोचता है।
-I like milk and bread.	Ich mag Milch und Brot.	मुझे दूध और रोटी पसंद है।
-I like milk in my tea.	Ich trinke meinen Tee gerne mit Milch.	मुझे दूध के साथ अपनी चाय पीना पसंद है।
 I like playing sports.	Ich treibe gern Sport.	मुझे खेल करना पसंद है।
 I like playing tennis.	Ich spiele gerne Tennis.	मुझे टेनिस खेलना पसंद है।
 I like skating better.	Mir gefällt skaten besser.	मुझे स्केटिंग ज्यादा पसंद है.

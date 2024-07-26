@@ -37638,3 +37638,11 @@ I lied to protect you.	Ich habe gelogen, um dich zu schützen.	मैंने �
 I like French cooking.	Ich mag französisches Kochen.	मुझे फ्रेंच पकाना अच्छा लगता है।
 I like Korean cuisine.	Ich mag koreanische Küche.	मुझे कोरियाई खाना पसंद है।
 I like Tom's approach.	Ich mag Toms Ansatz.	मुझे टॉम का दृष्टिकोण पसंद है।
+I like being with Tom.	Ich genieße die Zeit mit Tom.	मुझे टॉम के साथ होने में आनंद आता है।
+I like being with you.	Ich mag es, bei dir zu sein.	मैं तुम्हारे साथ होना पसंद करता हूँ।
+I like boys like that.	Ich mag Jungs wie ihn.	मुझे ऐसे लड़के पसंद हैं।
+I like dark chocolate.	Ich mag dunkle Schokolade.	मुझे काली चॉकलेट पसंद है।
+I like dogs very much.	Ich liebe Hunde über alles.	मुझे कुत्ते बहुत ही अधिक पसंद हैं।
+I like how Tom thinks.	Ich mag Toms Denkweise.	मुझे वह अच्छा लगता है कि टॉम कैसे सोचता है।
+I like milk and bread.	Ich mag Milch und Brot.	मुझे दूध और रोटी पसंद है।
+I like milk in my tea.	Ich trinke Tee gerne mit Milch.	मुझे चाय में दूध पसंद है।
