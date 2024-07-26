@@ -21429,3 +21429,11 @@ I like cranberries.	Ich mag Preiselbeeren.	मुझे क्रैनबेर
 I like disco music.	Ich mag Disco-Musik.	मुझे डिस्को संगीत पसंद है।
 I like eating here.	Ich esse gerne hier.	मुझे यहाँ खाना खाना पसंद है।
 I like green beans.	Ich mag grüne Bohnen.	मुझे हरी बीन्स पसंद हैं।
+I like horse races.	Ich mag Pferderennen.	मुझे घोड़े की दौड़ अच्छी लगती है।
+I like it out here.	Mir gefällt es hier draußen.	मुझे यहाँ बहुत पसंद है।
+I like it this way.	Mir gefällt es so.	मुझे यह तरीका पसंद है।
+I like living here.	Ich lebe gerne hier.	मुझे यहाँ रहना अच्छा लगता है।
+I like mathematics.	Ich mag Mathematik.	मुझे गणित पसंद है।
+I like my teachers.	Ich mag meine Lehrer.	मुझे मेरे शिक्षकों पसंद हैं।
+I like raspberries.	Ich mag Himbeeren.	मुझे रसभरी पसंद हैं।
+I like short poems.	Ich mag kurze Gedichte.	मुझे छोटे कविताएँ पसंद हैं।
