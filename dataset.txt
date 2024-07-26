@@ -1,14 +1,4 @@
 
-Tom is himself again.	Tom ist wieder er selbst.	टॉम फिर से है।
-Tom is in Boston now.	Tom ist jetzt in Boston.	टॉम अब बोस्टन में है।
-Tom is in a bad mood.	Tom hat schlechte Laune.	टॉम एक बुरे मूड में है।
-Tom is in a bad mood.	Tom ist schlecht gelaunt.	टॉम एक बुरे मूड में है।
-Tom is in a bad mood.	Tom ist schlechter Laune.	टॉम एक बुरा मूड है।
-Tom is in heaven now.	Tom ist jetzt im Himmel.	टॉम अब स्वर्ग में है।
-Tom is in his office.	Tom ist in seinem Büro.	टॉम अपने कार्यालय में है।
-Tom is in his office.	Tom ist im Büro.	टॉम कार्यालय में है।
-Tom is in the forest.	Tom ist im Wald.	टॉम जंगल में है।
-Tom is in the garden.	Tom ist im Garten.	टॉम बगीचे में है।
 Tom is in the shower.	Tom duscht.	टॉम शावर।
 Tom is in the shower.	Tom steht unter der Dusche.	टॉम शॉवर में है।
 Tom is insanely rich.	Tom ist wahnsinnig reich.	टॉम अविश्वसनीय रूप से समृद्ध है।

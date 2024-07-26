@@ -34446,3 +34446,12 @@ Tom is good at rugby.	Tom ist gut im Rugby.	टॉम रग्बी में 
 Tom is grilling meat.	Tom grillt Fleisch.	टॉम मांस पका रहा है।
 Tom is happy with it.	Tom ist damit zufrieden.	टॉम इसके साथ खुश है।
 Tom is having dinner.	Tom isst zu Abend.	टॉम रात का खाना खा रहा है।
+Tom is himself again.	Tom ist wieder er selbst.	टॉम फिर से अपना आत्मा है।
+Tom is in Boston now.	Tom ist jetzt in Boston.	टॉम अब बोस्टन में है।
+Tom is in a bad mood.	Tom ist schlecht gelaunt.	टॉम बुरे मिजाज में है।
+Tom is in a bad mood. - Different meaning	Tom ist schlechter Laune.	टॉम खराब मूड में है।
+Tom is in heaven now.	Tom ist jetzt im Himmel.	टॉम अब स्वर्ग में है।
+Tom is in his office.	Tom ist in seinem Büro.	टॉम अपने कार्यालय में है।
+Tom is in his office. - Different meaning	Tom ist im Büro.	टॉम कार्यालय में है।
+Tom is in the forest.	Tom ist im Wald.	टॉम जंगल में है।
+Tom is in the garden.	Tom ist im Garten.	टॉम बगीचे में है।
