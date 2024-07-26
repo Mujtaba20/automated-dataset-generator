@@ -22460,3 +22460,12 @@ Look what happened.	Schau was passiert ist.	देखो क्या हुआ�
 Look who's talking!	Schau mal, wer spricht!	देखो कौन बोल रहा है!
 Look! She's coming!	Schau mal! Sie kommt!	देखो! वह आ रही है!
 Look, it's snowing!	Schau, es schneit!	देखो, बर्फ गिर रही है!
+Love doesn't exist.	Liebe existiert nicht.	प्रेम मौजूद नहीं है।
+Love is in the air.	Liebe liegt in der Luft.	प्रेम हवा में है।
+Love is irrational.	Liebe ist irrational.	प्रेम तर्कहीन है।
+Love is not enough.	Liebe ist nicht genug.	प्यार काफी नहीं है।
+Love your neighbor.	Liebe deinen Nachbarn.	अपने पड़ोसी से प्रेम करें।
+Luck is against me.	Das Glück ist gegen mich.	भाग्य मेरे खिलाफ है।
+Luckily, it worked.	Glücklicherweise hat es funktioniert.	भाग्य से, यह काम कर गया।
+Make it short, Tom.	Mach es kurz, Tom.	इसे छोटे करें, टॉम।
+Make love, not war.	Mache Liebe, nicht Krieg.	प्रेम करें, युद्ध न करें।
