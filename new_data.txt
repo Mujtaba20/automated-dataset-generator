@@ -37132,3 +37132,12 @@ I call her very often.	Ich rufe sie sehr oft an.	मैं उसे बहु�
 I came back home late.	Ich bin spät nach Hause gekommen.	मैं देर से घर वापस आया।
 I came because of Tom.	Ich kam wegen Tom.	मैं टॉम के कारण आया था।
 I came here yesterday.	Ich kam gestern hierher.	मैंने कल यहाँ आने की कोशिश की थी।
+I came to say goodbye.	Ich kam, um tschüss zu sagen.	मैं विदाई कहने आया था।
+I can barely stand up.	Ich kann kaum aufstehen.	मैं मुश्किल से खड़ा हो सकता हूँ।
+I can come back later.	Ich kann später zurückkommen.	मैं बाद में वापस आ सकता हूँ।
+I can do it by myself!	Ich kann es alleine machen!	मैं खुद ही कर सकता हूँ!
+I can do it in a week.	Ich kann es in einer Woche tun.	मैं इसे एक हफ्ते में कर सकता हूँ।
+I can do magic tricks.	Ich kann Zaubertricks machen.	मैं जादu के तोड़े कर सकता हूं।
+I can do without this.	Ich kann darauf verzichten.	मुझे इसके बिना भी कर लेना चाहिए।
+I can barely stand up.1	Ich kann mich kaum aufrecht halten.	मैं मुश्किल से खोड़ा उठ सकता हूँ।
+I can do it by myself.1	Ich schaffe es alleine.	मैं खुद ही कर लूंगा।
