@@ -35451,3 +35451,12 @@ What's in the basket?	Was ist im Korb?	टोकरी में क्या �
 What's in the bottle?	Was ist in der Flasche?	बोतल में क्या है?
 What's in the bucket?	Was ist im Eimer?	बाल्टी में क्या है?
 What's in the fridge?	Was ist im Kühlschrank?	फ्रिज में क्या है?
+What's mine is yours.	Was mein ist, gehört dir.	मेरा जो है, वह तुम्हारा है।
+What's that building?	Was ist das für ein Gebäude?	वह कौनसा इमारत है?
+What's the commotion?	Was ist das für ein Lärm?	यह क्या उत्पन्न चरमाचर है?
+What's the diagnosis?	Was ist die Diagnose?	निदान क्या है?
+What's the good news?	Was gibt es für gute Nachrichten?	अच्छे समाचार क्या हैं?
+What's the plan, Tom?	Was ist der Plan, Tom?	योजना क्या है, टॉम?
+What's their purpose?	Was ist ihr Zweck?	उनका उद्देश्य क्या है?
+What's this used for?	Wofür wird das benutzt?	यह किसके लिए उपयोग किया जाता है?
+What's wrong with it?	Was ist damit falsch?	इसमें क्या गड़बड़ है?

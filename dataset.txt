@@ -1,14 +1,4 @@
 
-What's mine is yours.	Was mein, ist dein.	मेरा क्या है तुम्हारा।
-What's that building?	Was ist das für ein Gebäude?	वह किस तरह की इमारत है?
-What's the commotion?	Was ist das hier für ein Tumult?	यह किस तरह का है?
-What's the diagnosis?	Wie lautet die Diagnose?	निदान क्या है?
-What's the good news?	Was ist die gute Nachricht?	अच्छी खबर क्या है?
-What's the plan, Tom?	Was ist der Plan, Tom?	योजना क्या है, टॉम?
-What's their purpose?	Was ist ihr Zweck?	तुम्हारा उद्देश्य क्या है?
-What's their purpose?	Was ist ihre Absicht?	आपका इरादा क्या है?
-What's this used for?	Wofür wird das gebraucht?	इसके लिए क्या उपयोग किया जाता है?
-What's wrong with it?	Was stimmt damit nicht?	इसमें गलत क्या है?
 What's wrong with me?	Was stimmt nicht mit mir?	क्या गलत है मेरे साथ?
 What's your analysis?	Wie fällt deine Analyse aus?	आपका विश्लेषण कैसे विफल होता है?
 What's your analysis?	Wie fällt Ihre Analyse aus?	आपका विश्लेषण क्या है?
