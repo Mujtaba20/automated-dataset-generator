@@ -1,14 +1,4 @@
 
-Are you able to type?	Können Sie Maschine schreiben?	क्या आप एक मशीन लिख सकते हैं?
-Are you afraid of me?	Hast du Angst vor mir?	आप मुझे से डर रहे हैं?
-Are you afraid of me?	Ängstigst du dich vor mir?	क्या आप अपने आप को मेरे सामने भयभीत करते हैं?
-Are you afraid of me?	Ängstigen Sie sich vor mir?	क्या आप अपने आप को मेरे सामने भयभीत करते हैं?
-Are you almost ready?	Bist du fast fertig?	क्या आप लगभग समाप्त हो गए हैं
-Are you almost ready?	Sind Sie fast fertig?	क्या आप लगभग समाप्त हो गए हैं?
-Are you almost ready?	Seid ihr fast fertig?	क्या आप लगभग समाप्त हो गए हैं?
-Are you angry at him?	Bist du ihm böse?	क्या आप उससे नाराज हैं
-Are you bringing Tom?	Bringst du Tom mit?	क्या आप टॉम को अपने साथ लाते हैं?
-Are you conservative?	Bist du konservativ?	क्या आप रूढ़िवादी हैं?
 Are you disappointed?	Bist du enttäuscht?	आप निराश हैं?
 Are you disappointed?	Seid ihr enttäuscht?	आप निराश हैं?
 Are you disappointed?	Sind Sie enttäuscht?	आप निराश हैं?

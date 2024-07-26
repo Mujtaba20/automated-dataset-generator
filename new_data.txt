@@ -30404,3 +30404,9 @@ Are you a vegetarian? (Different Meaning)	Bist du Vegetarier?	क्या आ�
 Are you a vegetarian? (Different Meaning 2)	Bist du Vegetarier?	क्या आप एक ज़ेर बुखारी हैं?
 Are you able to swim?	Kannst du schwimmen?	क्या आप तैरना जानते हैं?
 Are you able to swim? (Different Meaning)	Bist du in der Lage zu schwimmen?	क्या आप तैरने में सक्षम हैं?
+Are you able to type?	Können Sie tippen?	क्या आप टाइप कर सकते हैं?
+Are you afraid of me?	Fürchtest du dich vor mir?	क्या आप मुझसे डरते हैं?
+Are you almost ready?	Sind Sie fast fertig?	क्या तुम लगभग तैयार हो?
+Are you angry at him?	Bist du wütend auf ihn?	क्या तुम उस पर गुस्सा हो?
+Are you bringing Tom?	Bringst du Tom mit?	क्या तुम टॉम को ले आ रहे हो?
+Are you conservative?	Bist du konservativ?	क्या आप परंपरागत हैं?
