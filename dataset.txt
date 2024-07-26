@@ -1,15 +1,4 @@
 
-I've just been shot.	Ich bin gerade angeschossen worden.	मुझे अभी गोली मार दी गई है।
-I've just been shot.	Ich wurde gerade angeschossen.	मुझे बस गोली मार दी गई थी।
-I've just come home.	Ich bin gerade erst heimgekommen.	मैं अभी घर पहुँचा हूँ।
-I've just had lunch.	Ich habe gerade zu Mittag gegessen.	मैंने अभी दोपहर को खाया।
-I've just turned 30.	Ich bin gerade dreißig geworden.	मैं सिर्फ तीस बन गया हूं।
-I've lost a filling.	Ich habe eine Füllung verloren.	मैं एक भरने खो दिया।
-I've lost my pencil.	Ich habe meinen Bleistift verloren.	मैंने अपनी पेंसिल खो दी।
-I've lost my ticket.	Ich habe mein Ticket verloren.	मैंने अपनी टिकट गुम कर दी.
-I've lost my wallet.	Ich habe meine Brieftasche verloren.	मेरा बटुआ खो गया है.
-I've lost my wallet.	Ich habe meine Geldbörse verloren.	मेरा बटुआ खो गया है.
-I've lost my wallet.	Ich habe mein Portemonnaie verloren.	मेरा बटुआ खो गया है.
 I've lost something.	Ich habe etwas verloren.	मैंने कुछ खो दिया।
 I've made Tom angry.	Ich habe Tom verärgert.	मैंने टॉम को नाराज कर दिया।
 I've made a mistake.	Ich habe einen Fehler gemacht.	मैं एक गलती की है।

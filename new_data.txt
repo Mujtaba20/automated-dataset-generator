@@ -27195,3 +27195,11 @@ I've got to do this.	Das muss ich tun.	मुझे यह करना है�
 I've got to find it.	Ich muss es finden.	मुझे यह ढूंढना है।
 I've got to see you.	Ich muss dich sehen.	मुझे तुम्हें देखना है।
 I've had a busy day.	Ich hatte einen geschäftigen Tag.	मेरे पास एक भरपूर दिन था।
+I've just been shot.	Ich wurde gerade erschossen.	मुझपे अभी गोली मारी गई है।
+I've just come home.	Ich bin gerade nach Hause gekommen.	मैं अभी घर आया हूँ।
+I've just had lunch.	Ich habe gerade zu Mittag gegessen.	मैंने अभी लंच किया है।
+I've just turned 30.	Ich bin gerade 30 geworden.	मैंने अभी 30 की उम्र पूरी की है।
+I've lost a filling.	Ich habe eine Füllung verloren.	मैंने एक भराई खो दी है।
+I've lost my pencil.	Ich habe meinen Bleistift verloren.	मैंने अपना पेंसिल खो दिया है।
+I've lost my ticket.	Ich habe mein Ticket verloren.	मैंने अपना टिकट खो दिया है।
+I've lost my wallet.	Ich habe mein Portemonnaie verloren.	मैंने अपनी बटुआ खो दी है।
