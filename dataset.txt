@@ -1,14 +1,4 @@
 
-Tom has a dark past.	Tom hat eine dunkle Vergangenheit.	टॉम में एक अंधेरा अतीत है।
-Tom has a long neck.	Tom hat einen langen Hals.	टॉम में एक लंबी गर्दन है।
-Tom has a small car.	Tom hat ein kleines Auto.	टॉम के पास एक छोटी सी कार है।
-Tom has a sore back.	Tom hat Rückenschmerzen.	टॉम को पीठ दर्द है।
-Tom has a sore knee.	Tom hat Knieschmerzen.	टॉम को घुटने में दर्द होता है।
-Tom has a toothache.	Tom hat Zahnschmerzen.	टॉम को दांत दर्द है।
-Tom has a white cat.	Tom hat eine weiße Katze.	टॉम में एक सफेद बिल्ली है।
-Tom has already won.	Tom hat bereits gewonnen.	टॉम पहले ही जीत चुके हैं।
-Tom has been beaten.	Tom wurde geschlagen.	टॉम को पीटा गया था।
-Tom has been beaten.	Tom ist besiegt worden.	टॉम पराजित हो गया है।
 Tom has been skiing.	Tom war Ski fahren.	टॉम स्कीइंग कर रहा था।
 Tom has been unwell.	Es geht Tom nicht gut.	टॉम अच्छा नहीं कर रहा है।
 Tom has betrayed me.	Tom hat mich verraten.	टॉम ने मुझे धोखा दिया।

@@ -28732,3 +28732,12 @@ Tom has a black car.	Tom hat ein schwarzes Auto.	टॉम का काली �
 Tom has a black dog.	Tom hat einen schwarzen Hund.	टॉम का काला कुत्ता है।
 Tom has a black eye.	Tom hat ein blaues Auge.	टॉम का काला आंख है।
 Tom has a cleft lip.	Tom hat eine gespaltene Lippe.	टॉम की गिलास जैसी होती है।
+Tom has a dark past.	Tom hat eine dunkle Vergangenheit.	टॉम के पास एक अंधेरे भूत का अतीत है।
+Tom has a long neck.	Tom hat einen langen Hals.	टॉम के पास एक लंबी गरदन है।
+Tom has a small car.	Tom hat ein kleines Auto.	टॉम के पास एक छोटी कार है।
+Tom has a sore back.	Tom hat Rückenschmerzen.	टॉम की पीठ दर्द कर रही है।
+Tom has a sore knee.	Tom hat ein schmerzendes Knie.	टॉम की गुदा में दर्द हो रही है।
+Tom has a toothache.	Tom hat Zahnschmerzen.	टॉम के दाँत में दर्द है।
+Tom has a white cat.	Tom hat eine weiße Katze.	टॉम के पास एक सफेद बिल्ली है।
+Tom has already won.	Tom hat bereits gewonnen.	टॉम ने पहले ही जीत लिया है।
+Tom has been beaten.	Tom wurde besiegt.	टॉम हार गया है।
