@@ -30624,3 +30624,10 @@ Do Tom and Mary know?	Wissen Tom und Mary Bescheid?	क्या टॉम औ�
 Do black holes exist?	Existieren Schwarze Löcher?	क्या काले गड्ढे मौजूद हैं?
 Do come and visit us.	Komm und besuche uns.	हमें जरूर मिलने आना।
 Do come by all means.	Kommen Sie auf jeden Fall vorbei.	ज़रूर आना।
+Do come to the party.	Kommen Sie zur Party.	पार्टी में आइए।
+Do spiders scare you?	Fürchten Sie sich vor Spinnen?	क्या मकड़ियाँ तुम्हें डराती हैं?
+Do they like oranges?	Mögen sie Orangen?	क्या उन्हें संतरे पसंद हैं?
+Do we have insurance?	Haben wir eine Versicherung?	क्या हमारे पास बीमा है?
+Do we have the money?	Haben wir das Geld?	क्या हमारे पास पैसे हैं?
+Do we have to go now?	Müssen wir jetzt gehen?	क्या हमें अब जाना चाहिए?
+Do we really need it?	Brauchen wir das wirklich?	क्या हमें वास्तव में इसकी जरूरत है?
