@@ -37957,3 +37957,13 @@ I want to sing a song.	Ich möchte ein Lied singen.	मैं एक गान�
 I want to stay longer.	Ich möchte länger bleiben.	मैं और लंबे समय तक रुकना चाहता हूँ।
 I want to talk to Tom.	Ich möchte mit Tom sprechen.	मैं टॉम से बात करना चाहता हूँ।
 I want to talk to her.	Ich möchte mit ihr sprechen.	मैं उससे बात करना चाहता हूँ।
+I want to talk to him.	Ich möchte mit ihm reden.	मुझे उससे बात करनी है।
+I want to talk to you.	Ich möchte mit dir reden.	मुझे तुमसे बात करनी है।
+I want to try this on.	Ich möchte das ausprobieren.	मुझे यह कोशिश करनी है।
+I want to visit Korea.	Ich möchte Korea besuchen.	मुझे कोरिया दौरा करना है।
+I want to wash myself.	Ich möchte mich waschen.	मुझे अपने आप को धोना है।
+I want you to be here.	Ich möchte, dass du hier bist.	मुझे चाहिए कि तुम यहाँ हो।
+I want you to do that.	Ich möchte, dass du das tust.	मुझे चाहिए कि तुम वह करो।
+I want you to do this.	Ich möchte, dass du das machst.	मुझे चाहिए कि तुम यह करो।
+I want you to go away.	Ich möchte, dass du gehst.	मुझे चाहिए कि तुम चले जाओ।
+I want you to go home.	Ich möchte, dass du nach Hause gehst.	मुझे चाहिए कि तुम घर जाओ।

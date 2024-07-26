@@ -1,14 +1,4 @@
 
-I want to talk to him.	Ich will mit ihm sprechen.	मुझे उससे बात करनी है।
-I want to talk to you.	Ich möchte dich sprechen.	मैं आप से बात करना चाहता हूँ।
-I want to try this on.	Das will ich mal anprobieren.	मैं इस पर कोशिश करना चाहता हूं।
-I want to visit Korea.	Ich möchte Korea bereisen.	मैं कोरिया की यात्रा करना चाहता हूं।
-I want to wash myself.	Ich möchte mich selber waschen.	मैं खुद को धोना चाहता हूं।
-I want you to be here.	Ich möchte dich hier haben.	मैं तुम्हें यहाँ रखना चाहता हूँ।
-I want you to do that.	Ich möchte, dass du das tust.	मैं चाहता हूं कि आप ऐसा करें।
-I want you to do this.	Ich möchte, dass du das tust.	मैं चाहता हूं कि आप ऐसा करें।
-I want you to go away.	Ich möchte, dass du weggehst.	मैं चाहता हूं कि आप चले जाएं।
-I want you to go home.	Ich möchte, dass du nach Hause gehst.	मैं चाहता हूं कि आप घर जाएं।
 I want you to have it.	Ich möchte, dass du es hast.	मैं चाहता हूं कि आपके पास हो।
 I want you to love me.	Ich will, dass du mich liebst.	मैं चाहता हूं कि तुम मुझे प्यार करो।
 I want you to read it.	Ich möchte, dass du es liest.	मैं चाहता हूं कि आप इसे पढ़ें।
