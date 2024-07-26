@@ -22138,3 +22138,13 @@ Is it that serious?	Ist das so ernst?	क्या यह इतना गंभ
 Is it worth fixing?	Lohnt es sich zu reparieren?	क्या यह ठीक करने लायक है?
 Is she coming, too?	Kommt sie auch?	क्या वह भी आ रही है?
 Is she your mother?	Ist sie deine Mutter?	क्या वह तुम्हारी माँ है?
+Is she your sister?	Ist sie deine Schwester?	क्या वह तुम्हारी बहन है?
+Is something wrong?	Ist etwas falsch?	क्या कुछ गड़बड़ है?
+Is that a question?	Ist das eine Frage?	क्या यह एक सवाल है?
+Is that a squirrel?	Ist das ein Eichhörnchen?	क्या वह एक गिलहरी है?
+Is that even legal?	Ist das überhaupt legal?	क्या वह वैध है?
+Is that gun loaded?	Ist diese Waffe geladen?	क्या यह बंदूक लोडेड है?
+Is that not enough?	Ist das nicht genug?	क्या वह काफी नहीं है?
+Is that not normal?	Ist das nicht normal?	क्या यह सामान्य नहीं है?
+Is that real blood?	Ist das echtes Blut?	क्या वह असली खून है?
+Is that really you?	Bist du das wirklich?	क्या वास्तव में तुम हो?

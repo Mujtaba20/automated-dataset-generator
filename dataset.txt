@@ -1,15 +1,4 @@
 
-Is she your sister?	Ist sie deine Schwester?	क्या वह आपकी बहन है?
-Is something wrong?	Stimmt etwas nicht?	कुछ गड़बड़ है क्या?
-Is that a question?	Ist das eine Frage?	यही एक सवाल है?
-Is that a squirrel?	Ist das ein Eichhörnchen?	क्या यह एक गिलहरी है?
-Is that even legal?	Ist das überhaupt legal?	क्या वह कानूनी है?
-Is that gun loaded?	Ist diese Waffe geladen?	क्या यह हथियार लोड है?
-Is that not enough?	Ist das nicht genug?	क्या यह पर्याप्त नहीं है?
-Is that not normal?	Ist das nicht normal?	क्या यह सामान्य नहीं है?
-Is that real blood?	Ist das echtes Blut?	क्या वह असली रक्त है?
-Is that really you?	Bist du es wirklich?	क्या सच में तुम है?
-Is that really you?	Sind Sie es wirklich?	क्या आप वास्तव में?
 Is that too little?	Ist das zu wenig?	क्या यह पर्याप्त नहीं है?
 Is that your house?	Ist das dein Haus?	क्या ये आपका घर है?
 Is the book boring?	Ist das Buch langweilig?	क्या पुस्तक उबाऊ है?
