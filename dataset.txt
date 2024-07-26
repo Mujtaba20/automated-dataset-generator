@@ -1,14 +1,4 @@
 
-I don't want to do it.	Ich will es nicht tun.	मैं यह नहीं करना चाहता।
-I don't want to drive.	Ich möchte nicht fahren.	मैं ड्राइव नहीं करना चाहता।
-I don't want to share.	Ich will nicht teilen.	मैं साझा नहीं करना चाहता।
-I don't want to shoot.	Ich will nicht schießen.	मैं शूटिंग नहीं करना चाहता।
-I don't want to sleep.	Ich will nicht schlafen.	मेरी सोने की इच्छा नहीं है।
-I don't want to study.	Ich möchte nicht studieren.	मैं अध्ययन नहीं करना चाहता।
-I don't want to study.	Ich möchte nicht lernen.	मैं सीखना नहीं चाहता।
-I don't want you here.	Ich brauch dich hier nicht.	मुझे आपकी जरूरत नहीं है।
-I don't watch much TV.	Ich sehe nicht viel fern.	मैं बहुत दूर नहीं देखता।
-I don't write letters.	Ich schreibe keine Briefe.	मैं कोई पत्र नहीं लिखता।
 I doubt Tom will come.	Ich bezweifele, dass Tom kommen wird.	मुझे संदेह है कि टॉम आएगा।
 I drank tea yesterday.	Ich habe gestern Tee getrunken.	मैंने कल चाय पिया।
 I drive a convertible.	Ich fahre ein Cabrio.	मैं एक परिवर्तनीय ड्राइव करता हूं।

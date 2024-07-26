@@ -37354,3 +37354,12 @@ I don't want that one.	Ich will das nicht.	मुझे वह नहीं च�
 I don't want the ring.	Ich will den Ring nicht.	मुझे अंगूठी नहीं चाहिए।
 I don't want this one.	Ich will das hier nicht.	मुझे यह नहीं चाहिए।
 I don't want to dance.	Ich möchte nicht tanzen.	मुझे नाचना नहीं है।
+I don't want to do it.	Ich möchte es nicht tun.	मैं इसे करना नहीं चाहता।
+I don't want to drive.	Ich möchte nicht fahren.	मुझे चलाना नहीं है।
+I don't want to share.	Ich möchte nicht teilen.	मैं साझा नहीं करना चाहता।
+I don't want to shoot.	Ich möchte nicht schießen.	मुझे गोली नहीं चलानी है।
+I don't want to sleep.	Ich möchte nicht schlafen.	मुझे सोना नहीं है।
+I don't want to study.	Ich möchte nicht studieren.	मुझे पढ़ाई नहीं करनी है।
+I don't want you here.	Ich möchte dich nicht hier haben.	मैं चाहता नहीं कि तुम यहाँ हो।
+I don't watch much TV.	Ich schaue nicht viel fern.	मैं ज्यादा टीवी नहीं देखता।
+I don't write letters.	Ich schreibe keine Briefe.	मैं पत्र नहीं लिखता।
