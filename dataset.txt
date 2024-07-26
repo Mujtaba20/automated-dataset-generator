@@ -1,14 +1,4 @@
 
-The streets are clean.	Die Straßen sind sauber.	सड़कें साफ हैं।
-The streets are dirty.	Die Straßen sind dreckig.	सड़कें गंदे हैं।
-The students are back.	Die Studenten sind zurück.	छात्र वापस आ गए हैं।
-The students are back.	Die Studenten sind wieder da.	छात्र वापस आ गए हैं।
-The sun is already up.	Die Sonne ist schon aufgegangen.	सूरज पहले ही काम कर चुका है।
-The sun is in the sky.	Die Sonne ist am Himmel.	सूरज आकाश में है।
-The sun is rising now.	Die Sonne geht jetzt auf.	सूरज अब खुल रहा है।
-The sun will soon set.	Die Sonne wird bald untergehen.	सूरज जल्द ही चलेगा।
-The surgery went well.	Die Operation ist gut verlaufen.	ऑपरेशन एक सफलता थी।
-The suspect confessed.	Der Tatverdächtige hat gestanden.	संदिग्ध ने कबूल किया।
 The thief ran quickly.	Der Dieb rannte schnell.	चोर जल्दी से भाग गया।
 The three men laughed.	Die drei Männer lachten.	तीनों लोग हँसे।
 The toilet overflowed.	Die Toilette war überflutet.	शौचालय में बाढ़ आ गई थी।

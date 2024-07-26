@@ -39546,3 +39546,12 @@ The stars are shining.	Die Sterne leuchten.	सितारे चमक रह�
 The station is nearby.	Der Bahnhof ist in der Nähe.	स्टेशन पास है।
 The story sounds true.	Die Geschichte klingt wahr.	कहानी सच लगती है।
 The story was amusing.	Die Geschichte war amüsant.	कहानी मनोरंजक थी।
+The streets are clean.	Die Straßen sind sauber.	सड़कें साफ हैं।
+The streets are dirty.	Die Straßen sind schmutzig.	सड़कें गंदी हैं।
+The students are back.	Die Schüler sind zurück.	छात्र वापस आ गए हैं।
+The sun is already up.	Die Sonne ist schon aufgegangen.	सूरज पहले से ही ऊपर है।
+The sun is in the sky.	Die Sonne ist am Himmel.	सूरज आकाश में है।
+The sun is rising now.	Die Sonne geht jetzt auf.	सूरज अब उग रहा है।
+The sun will soon set.	Die Sonne wird bald untergehen.	सूरज जल्द ही अस्त हो जाएगा।
+The surgery went well.	Die Operation ist gut verlaufen.	ऑपरेशन अच्छी तरह से हुआ।
+The suspect confessed.	Der Verdächtige gestand.	संदेही ने स्वीकार किया।
