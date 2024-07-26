@@ -23756,3 +23756,13 @@ Tom is very stingy.	Tom ist sehr geizig.	टॉम बहुत कंजूस 
 Tom is very strict.	Tom ist sehr streng.	टॉम बहुत कठोर है।
 Tom is very unkind.	Tom ist sehr unfreundlich.	टॉम बहुत दयाहीन है।
 Tom is watching TV.	Tom sieht fern.	टॉम टीवी देख रहा है।
+Tom is wearing red.	Tom trägt Rot.	टॉम लाल पहन रहा है।
+Tom is with me now.	Tom ist jetzt bei mir.	टॉम अब मेरे साथ है।
+Tom is working now.	Tom arbeitet jetzt.	टॉम अब काम कर रहा है।
+Tom is wrong again.	Tom hat wieder Unrecht.	टॉम फिर से गलत है।
+Tom is your father.	Tom ist dein Vater.	टॉम तुम्हारे पिता है।
+Tom is your friend.	Tom ist dein Freund.	टॉम तुम्हारा दोस्त है।
+Tom isn't Canadian.	Tom ist nicht Kanadier.	टॉम कनाडियन नहीं है।
+Tom isn't a Muslim.	Tom ist kein Muslim.	टॉम मुस्लिम नहीं है।
+Tom isn't a doctor.	Tom ist kein Arzt.	टॉम डॉक्टर नहीं है।
+Tom isn't a lawyer.	Tom ist kein Anwalt.	टॉम वकील नहीं है।

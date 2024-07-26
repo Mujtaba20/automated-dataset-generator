@@ -1,15 +1,4 @@
 
-Tom is wearing red.	Tom trägt Rot.	टॉम लाल पहनता है।
-Tom is with me now.	Tom ist gerade bei mir.	टॉम अभी मेरे साथ है।
-Tom is working now.	Tom ist jetzt grade am Arbeiten.	टॉम अब काम कर रहा है।
-Tom is wrong again.	Tom irrt sich wieder.	टॉम फिर से गलत है।
-Tom is your father.	Tom ist dein Vater.	टॉम आपके पिता हैं।
-Tom is your friend.	Tom ist dein Freund.	टॉम आपका दोस्त है।
-Tom isn't Canadian.	Tom ist kein Kanadier.	टॉम एक कनाडाई नहीं है।
-Tom isn't a Muslim.	Tom ist kein Moslem.	टॉम मुस्लिम नहीं है।
-Tom isn't a doctor.	Tom ist kein Arzt.	टॉम डॉक्टर नहीं है।
-Tom isn't a lawyer.	Tom ist kein Anwalt.	टॉम वकील नहीं है।
-Tom isn't a lawyer.	Tom ist kein Rechtsanwalt.	टॉम वकील नहीं है।
 Tom isn't a member.	Tom ist kein Mitglied.	टॉम सदस्य नहीं है।
 Tom isn't a priest.	Tom ist kein Priester.	टॉम पुजारी नहीं है।
 Tom isn't a smoker.	Tom ist kein Raucher.	टॉम धूम्रपान करने वाला नहीं है।
