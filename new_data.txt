@@ -20878,3 +20878,12 @@ He went by bicycle.	Er fuhr mit dem Fahrrad.	वह साइकिल से �
 He went for a walk.	Er ging spazieren.	उसने सैर के लिए जाना।
 He went on singing.	Er sang weiter.	वह गाते रहे।
 He went on working.	Er arbeitete weiter.	वह काम करते रहे।
+He went out to eat.	Er ging zum Essen.	उसने खाने के लिए बाहर जाया।
+He went to America.	Er fuhr nach Amerika.	उसने अमेरिका की यात्रा की।
+He won't be missed.	Es wird ihm nicht fehlen.	उसे याद नहीं किया जाएगा।
+He won't like this.	Er wird das nicht mögen.	उसे यह पसंद नहीं आएगा।
+He works all night.	Er arbeitet die ganze Nacht.	वह पूरी रात काम करता है।
+He works at a bank.	Er arbeitet in einer Bank.	वह एक बैंक में काम करता है।
+He works in a bank.	Er arbeitet bei einer Bank.	वह एक बैंक में काम करता है।
+He works very hard.	Er arbeitet sehr hart.	वह बहुत मेहनत करता है।
+He yelled for help.	Er rief nach Hilfe.	उसने मदद के लिए चिल्लाया।
