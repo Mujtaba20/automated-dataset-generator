@@ -38899,3 +38899,12 @@ My suitcase is broken.	Mein Koffer ist kaputt.	मेरा सूटकेस �
 My toe began to bleed.	Mein Zeh fing an zu bluten.	मेरी पैर की अंगूठी खून बहने लगी।
 My uncle runs a hotel.	Mein Onkel führt ein Hotel.	मेरा चाचा होटल चलाते हैं।
 My underpants are wet.	Meine Unterhose ist nass.	मेरा अंदरकामीज़ गीला है।
+My watch must be slow.	Meine Uhr muss langsam sein.	मेरी घड़ी धीमी होगी।
+My whole body is sore.	Mein ganzer Körper tut weh.	मेरा पूरा शरीर दुख रहा है।
+My wife is very upset.	Meine Frau ist sehr verärgert.	मेरी पत्नी बहुत उदास हैं।
+My wisdom tooth hurts.	Meine Weisheit tut weh.	मेरा विवेक दांत दर्द कर रहा है।
+My wound got infected.	Meine Wunde hat sich entzündet.	मेरी घाव संक्रमित हो गया है।
+Never break a promise.	Versprechen nicht brechen.	कभी भी वादा न तोड़ें।
+Next time, I'll drive.	Nächstes Mal werde ich fahren.	अगली बार, मैं ड्राइव करूंगा।
+Nice to see you again!	Schön, dich wiederzusehen!	फिर से तुम्हें देखकर अच्छा लगा!
+Nice to see you again.	Nett, dich wieder zu sehen.	फिर से आपको देखकर खुशी हुई।
