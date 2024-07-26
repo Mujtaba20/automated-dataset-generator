@@ -34321,3 +34321,13 @@ Tom is a dear friend.	Tom ist ein lieber Freund.	टॉम एक प्या�
 Tom is a deer hunter.	Tom ist ein Hirschjäger.	टॉम हिरण शिकारी है।
 Tom is a dentist now.	Tom ist jetzt Zahnarzt.	टॉम अब दंत चिकित्सक है।
 Tom is a disc jockey.	Tom ist ein Discjockey.	टॉम एक डिस्क जॉकी है।
+Tom is a dog trainer.	Tom ist ein Hundetrainer.	टॉम एक कुत्तों का प्रशिक्षक है।
+Tom is a drug addict.	Tom ist ein Drogenabhängiger.	टॉम एक ड्रग एडिक्ट है।
+Tom is a famous chef.	Tom ist ein berühmter Koch.	टॉम एक प्रसिद्ध शेफ है।
+Tom is a farm worker.	Tom ist ein Landarbeiter.	टॉम एक खेत का कामगार है।
+Tom is a fast driver.	Tom ist ein schneller Fahrer.	टॉम एक तेज ड्राइवर है।
+Tom is a fast runner.	Tom ist ein schneller Läufer.	टॉम एक तेज दौड़ने वाला है।
+Tom is a fast talker.	Tom ist ein schneller Redner.	टॉम एक तेज बोलने वाला है।
+Tom is a firefighter.	Tom ist ein Feuerwehrmann.	टॉम एक फायरफाइटर है।
+Tom is a fish dealer.	Tom ist ein Fischhändler.	टॉम मछली बेचने वाला है।
+Tom is a fussy eater.	Tom ist ein heikler Esser.	टॉम एक उबाऊ खानेवाला है।

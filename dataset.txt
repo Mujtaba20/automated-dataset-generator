@@ -1,14 +1,4 @@
 
-Tom is a dog trainer.	Tom ist Hundetrainer.	टॉम एक डॉग ट्रेनर है।
-Tom is a drug addict.	Tom ist drogenabhängig.	टॉम ड्रग्स का आदी है।
-Tom is a famous chef.	Tom ist ein berühmter Koch.	टॉम एक प्रसिद्ध कुक है।
-Tom is a farm worker.	Tom ist ein Farmarbeiter.	टॉम एक खेत कार्यकर्ता है।
-Tom is a fast driver.	Tom ist ein schneller Fahrer.	टॉम एक त्वरित ड्राइवर है।
-Tom is a fast runner.	Tom ist ein schneller Läufer.	टॉम एक त्वरित धावक है।
-Tom is a fast talker.	Tom spricht schnell.	टॉम जल्दी से बोलता है।
-Tom is a firefighter.	Tom ist Feuerwehrmann.	टॉम एक फायरमैन है।
-Tom is a fish dealer.	Tom ist Fischhändler.	टॉम एक मछली निर्माता है।
-Tom is a fussy eater.	Tom ist ein pingeliger Esser.	टॉम एक पिंगली ईटर है।
 Tom is a gang member.	Tom ist ein Bandenmitglied.	टॉम एक गिरोह का सदस्य है।
 Tom is a gang member.	Tom ist ein Mitglied der Bande.	टॉम गिरोह का सदस्य है।
 Tom is a gang member.	Tom gehört auch zu der Bande.	टॉम भी गिरोह का है।
