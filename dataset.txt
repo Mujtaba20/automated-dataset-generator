@@ -1,14 +1,4 @@
 
-The door was locked.	Die Tür war verschlossen.	दरवाजा बंद था।
-The door won't open.	Die Tür geht nicht auf.	दरवाजा नहीं खुला।
-The economy is good.	Die Wirtschaftslage ist gut.	आर्थिक स्थिति अच्छी है।
-The file is corrupt.	Die Datei ist beschädigt.	फ़ाइल क्षतिग्रस्त है।
-The fire alarm rang.	Der Feueralarm erscholl.	फायर अलार्म ने यह स्पष्ट कर दिया।
-The fire alarm rang.	Der Feueralarm ging los.	फायर अलार्म शुरू हुआ।
-The fish smells bad.	Der Fisch stinkt.	मछली बदबू आ रही है।
-The food is spoiled.	Die Lebensmittel sind verdorben.	भोजन खराब हो गया है।
-The forest was dark.	Es war dunkel im Wald.	जंगल में अंधेरा था।
-The fridge is empty.	Der Kühlschrank ist leer.	फ्रिज खाली है।
 The girl is jumping.	Das Mädchen springt.	लड़की कूदती है।
 The grapes are sour.	Die Trauben sind sauer.	अंगूर गुस्से में हैं।
 The group disbanded.	Die Gruppe löste sich auf.	समूह भंग हो गया।
