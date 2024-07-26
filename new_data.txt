@@ -21764,3 +21764,12 @@ I was worried, too.	Ich war auch besorgt.	मैं भी चिंतित �
 I was younger then.	Damals war ich jünger.	तब मैं छोटा था।
 I wasn't dishonest.	Ich war nicht unehrlich.	मैं ईमानदार नहीं था।
 I wasn't very cold.	Mir war nicht sehr kalt.	मैं बहुत ठंडा नहीं था।
+I watch TV all day.	Ich schaue den ganzen Tag fern.	मैं पूरे दिन टीवी देखता हूँ।
+I watch television.	Ich sehe fern.	मैं टेलीविजन देखता हूँ।
+I weigh 130 pounds.	Ich wiege 130 Pfund.	मेरा वजन 130 पाउंड है।
+I went to the bank.	Ich ging zur Bank.	मैं बैंक गया।
+I went to the park.	Ich ging in den Park.	मैं पार्क गया।
+I went to the room.	Ich ging ins Zimmer.	मैं कमरे में गया।
+I will go on ahead.	Ich werde vorausgehen.	मैं आगे जाऊँगा।
+I will lose weight.	Ich werde Gewicht verlieren.	मैं वजन कम करूँगा।
+I will protect you.	Ich werde dich beschützen.	मैं तुम्हें सुरक्षित रखूँगा।

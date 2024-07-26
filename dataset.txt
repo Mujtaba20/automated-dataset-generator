@@ -1,14 +1,4 @@
 
-I watch TV all day.	Ich sehe den ganzen Tag fern.	मैं पूरे दिन टीवी देखता हूं।
-I watch television.	Ich sehe fern.	मैं टीवी देखता हूं।
-I weigh 130 pounds.	Ich wiege 130 Pfund.	मेरा वजन 130 पाउंड है।
-I went to the bank.	Ich bin zur Bank gegangen.	मैं बैंक गया था।
-I went to the bank.	Ich ging zur Bank.	मैं बैंक गया था।
-I went to the park.	Ich ging in den Park.	मैं पार्क में गया।
-I went to the room.	Ich ging ins Zimmer.	मैं कमरे में गया।
-I will go on ahead.	Ich gehe voraus.	मैं आगे बढ़ता हूं।
-I will lose weight.	Ich werde abnehmen.	मैं अपना वजन कम करूंगा।
-I will protect you.	Ich werde dich beschützen.	में तुम्हारी रक्षा करूँगा।
 I will read a book.	Ich werde ein Buch lesen.	मैं एक किताब पढ़ूंगा।
 I wish I had a car.	Ich wünschte, ich hätte ein Auto.	काश मेरे पास एक कार होती।
 I wish I had a car.	Schön wär’s, wenn ich ein Auto hätte.	अगर मेरे पास कार होती तो यह अच्छा होता।
