@@ -1,14 +1,4 @@
 
-I didn't see anyone.	Ich hab keinen gesehen.	मैंने कोई नहीं देखा।
-I didn't sit by Tom.	Ich saß nicht neben Tom.	मैं टॉम के बगल में नहीं बैठा था।
-I didn't write back.	Ich habe nicht zurückgeschrieben.	मैंने नहीं लिखा।
-I didn't write that.	Ich habe das nicht geschrieben.	मैंने ऐसा नहीं लिखा।
-I didn't write that.	Das habe ich nicht geschrieben.	मैंने ऐसा नहीं लिखा।
-I didn't write this.	Ich habe das nicht geschrieben.	मैंने ऐसा नहीं लिखा।
-I disagree with you.	Ich bin nicht Ihrer Meinung.	मैं सहमत नहीं हूं।
-I disagree with you.	Ich bin nicht deiner Meinung.	मैं आपकी राय में नहीं हूँ।
-I disagree with you.	Ich bin nicht eurer Meinung.	मैं आपकी राय नहीं हूँ।
-I disagree with you.	Ich bin mit dir nicht einverstanden.	मैं तुम्हारे साथ सहमत नहीं हूं।
 I do agree with Tom.	Ich stimme Tom schon zu.	मैं पहले से ही टॉम से सहमत हूं।
 I do like ice cream.	Ich mag wirklich Eiscreme.	मुझे वास्तव में आइसक्रीम पसंद है।
 I do not deserve it.	Ich verdiene es nicht.	मैं इसके लायक नहीं हूं।
