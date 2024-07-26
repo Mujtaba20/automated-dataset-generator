@@ -35927,3 +35927,12 @@ You're confusing Tom.	Du verwirrst Tom.	तुम टॉम को गुमर�
 You're conscientious.	Du bist gewissenhaft.	तुम ईमानदार हो।
 You're disturbing me.	Du störst mich.	तुम मुझे परेशान कर रहे हो।
 You're double-parked.	Du stehst im Halteverbot.	तुम डबल पार्क कर रहे हो।
+You're exactly right.	Du hast genau recht.	तुम बिल्कुल सही हो।
+You're extraordinary.	Du bist außergewöhnlich.	तुम असाधारण हो।
+You're extraordinary. (different meaning)	Du bist bemerkenswert.	तुम असाधारण हो।
+You're flattering me.	Du schmeichelst mir.	तुम मेरी तारीफ कर रहे हो।
+You're great at this.	Du bist großartig darin.	तुम इसमें महान हो।
+You're in good hands.	Du bist in guten Händen.	तुम अच्छे हाथों में हो।
+You're in good hands. (different meaning)	Du machst das gut.	तुम अच्छे हाथों में हो।
+You're inconsiderate.	Du bist rücksichtslos.	तुम गैर-विचारी हो।
+You're inconsiderate. (different meaning)	Du bist unaufmerksam.	तुम गैर-विचारी हो।
