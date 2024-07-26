@@ -26886,3 +26886,13 @@ I'd come here again.	Ich würde wieder hierher kommen.	मैं फिर स�
 I'd leave a message.	Ich würde eine Nachricht hinterlassen.	मैं एक संदेश छोड़ दूंगा।
 I'd like a city map.	Ich möchte einen Stadtplan.	मुझे एक शहर का नक्शा चाहिए।
 I'd like some tea, please.	Ich hätte gerne etwas Tee, bitte.	कृपया मुझे कुछ चाय चाहिए।
+I'd like a daiquiri.	Ich hätte gerne einen Daiquiri.	मुझे एक डाईकिरी चाहिए।
+I'd like some shoes.	Ich möchte gerne einige Schuhe.	मुझे कुछ जूते चाहिए।
+I'd like to do that.	Ich würde das gerne machen.	मैं वह करना चाहूँगा।
+I'd like to go home.	Ich möchte nach Hause gehen.	मुझे घर जाना है।
+I'd like to go, too.	Ich möchte auch gehen.	मैं भी जाना चाहूँगा।
+I'd like to read it.	Ich würde es gerne lesen.	मुझे यह पढ़ना है।
+I'd like to say yes.	Ich würde gerne Ja sagen.	मैं हाँ कहना चाहूँगा।
+I'd like to see Tom.	Ich würde gerne Tom sehen.	मैं टॉम को देखना चाहूँगा।
+I'd like to see her.	Ich würde sie gerne sehen.	मुझे उसे देखना है।
+I'd like to see you.	Ich würde dich gerne sehen.	मैं तुम्हें देखना चाहूँगा।
