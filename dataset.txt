@@ -1,14 +1,4 @@
 
-She's wearing tights.	Sie trägt Strumpfhosen.	वह चड्डी पहनती है।
-She's wearing tights.	Sie hat Strumpfhosen an.	उसके पास चड्डी है।
-Should I ask her out?	Sollte ich sie mal fragen, ob sie mit mir ausgeht?	क्या मुझे उससे पूछना चाहिए कि क्या वह मेरे साथ बाहर जाती है?
-Should I cut my hair?	Soll ich mir die Haare schneiden?	क्या मुझे अपने बाल काटने चाहिए?
-Should we be worried?	Sollten wir uns Sorgen machen?	क्या हमें चिंता करनी चाहिए?
-Shouldn't we ask Tom?	Sollten wir nicht Tom fragen?	क्या हमें टॉम नहीं पूछना चाहिए?
-Show me how it works.	Zeig mir bitte, wie es funktioniert.	कृपया मुझे दिखाएं कि यह कैसे काम करता है।
-Show me how it works.	Zeig mir, wie es funktioniert.	मुझे दिखाओ कि यह कैसे काम करता है।
-Show me how to do it.	Zeig mir, wie man es macht.	मुझे दिखाओ कि यह कैसे करना है।
-Shut up and sit down.	Sei still und setz dich hin!	चुप रहो और बैठ जाओ!
 Sign above this line.	Unterschreiben Sie oberhalb dieser Linie!	इस लाइन के ऊपर हस्ताक्षर करें!
 Sign above this line.	Setzen Sie Ihre Unterschrift oberhalb dieser Linie!	इस लाइन के ऊपर अपना हस्ताक्षर सेट करें!
 Sign above this line.	Unterschreibe oberhalb dieser Linie!	इस लाइन के ऊपर साइनकेस!

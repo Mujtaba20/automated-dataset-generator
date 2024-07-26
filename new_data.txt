@@ -33429,3 +33429,11 @@ She's scared of dogs.	Sie hat Angst vor Hunden.	उसे कुत्तों 
 She's very beautiful.	Sie ist sehr schön.	वह बहुत खूबसूरत है।
 She's very emotional.	Sie ist sehr emotional.	वह बहुत भावुक है।
 She's very religious.	Sie ist sehr religiös.	वह बहुत धार्मिक है।
+She's wearing tights.	Sie hat Strumpfhosen an.	वह टाइट पहन ली है।
+Should I ask her out?	Soll ich sie fragen?	क्या मैं उससे बाहर जाने के लिए पूछूं?
+Should I cut my hair?	Soll ich mir die Haare schneiden?	क्या मैं अपने बाल काट लूं?
+Should we be worried?	Sollten wir uns Sorgen machen?	क्या हमें चिंतित होना चाहिए?
+Shouldn't we ask Tom?	Sollten wir nicht Tom fragen?	क्या हमें टॉम से पूछना चाहिए?
+Show me how it works.	Zeigen Sie mir, wie es geht.	मुझे दिखाओ कि यह किस प्रकार काम करता है।
+Show me how to do it.	Zeigen Sie mir, wie man es macht.	मुझे दिखाओ कि यह कैसे किया जाता है।
+Shut up and sit down.	Halt den Mund und setz dich.	चुप रहो और बैठ जाओ।
