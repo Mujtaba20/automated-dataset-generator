@@ -41455,3 +41455,13 @@ Who discovered radium?	Wer hat Radium entdeckt?	रेडियम का खो
 Who do you know there?	Wen kennst du dort?	तुम वहाँ किसे जानते हो?
 Who do you think I am?	Wer glaubst du, bin ich?	तुम मुझे कौन समझ रहे हो?
 Who else did you help?	Wem hast du noch unterstützt?	तुमने किसे और सहायता की?
+Who invented dynamite?	Wer hat Dynamit erfunden?	डाइनामाइट की खोज किसने की थी?
+Who is that gentleman?	Wer ist dieser Herr?	वह आदमी कौन है?
+Who is that old woman?	Wer ist diese alte Frau?	वह बूढ़ी औरत कौन है?
+Who is your godmother?	Wer ist deine Patentante?	तुम्हारी ताई कौन है?
+Who knows the answers?	Wer kennt die Antworten?	जवाब किसे पता है?
+Who paid your tuition?	Wer hat dein Schulgeld bezahlt?	तुम्हारा शुल्क किसने भरा?
+Who planned that trip?	Wer hat diese Reise geplant?	उस यात्रा की योजना किसने बनाई थी?
+Who planted this tree?	Wer hat diesen Baum gepflanzt?	इस पेड़ को किसने लगाया है?
+Who should I vote for?	Für wen sollte ich stimmen?	मैं किसको वोट दूँ?
+Who should we believe?	Wem sollten wir glauben?	हमें किसपे विश्वास करना चाहिए?
