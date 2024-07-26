@@ -33881,3 +33881,13 @@ This banana is green.	Diese Banane ist grün.	यह केला हरा ह�
 This banana went bad.	Diese Banane ist schlecht geworden.	यह केला खराब हो गया है।
 This bed is too soft.	Dieses Bett ist zu weich.	यह बिस्तर बहुत मुलायम है।
 This bicycle is mine.	Dieses Fahrrad gehört mir.	यह साइकिल मेरी है।
+This bird cannot fly.	Dieser Vogel kann nicht fliegen.	यह पंछी उड़ नहीं सकता।
+This book is for you.	Dieses Buch ist für dich.	यह पुस्तक तुम्हारे लिए है।
+This book is smaller.	Dieses Buch ist kleiner.	यह किताब छोटी है।
+This book isn't mine.	Dieses Buch gehört mir nicht.	यह किताब मेरी नहीं है।
+This button is loose.	Dieser Knopf ist locker.	यह बटन ढीला है।
+This camera is Tom's.	Diese Kamera gehört Tom.	यह कैमरा टॉम का है।
+This camera is cheap.	Diese Kamera ist billig.	यह कैमरा सस्ता है।
+This car is like new.	Dieses Auto ist wie neu.	यह गाड़ी नयी जैसी है।
+This car won't start.	Dieses Auto startet nicht.	यह गाड़ी नहीं चलेगी।
+This cat is not ours.	Diese Katze gehört nicht uns.	यह बिल्ली हमारी नहीं है।

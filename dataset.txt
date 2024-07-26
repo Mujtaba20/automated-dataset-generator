@@ -1,14 +1,4 @@
 
-This bird cannot fly.	Dieser Vogel kann nicht fliegen.	यह पक्षी उड़ नहीं सकता।
-This book is for you.	Dieses Buch ist für dich.	यह किताब आप के लिए है।
-This book is smaller.	Dieses Buch ist kleiner.	यह पुस्तक छोटी है।
-This book isn't mine.	Dieses Buch gehört mir nicht.	यह पुस्तक मेरे पास नहीं है।
-This button is loose.	Dieser Knopf ist locker.	यह बटन ढीला है।
-This camera is Tom's.	Diese Kamera gehört Tom.	यह कैमरा है।
-This camera is cheap.	Diese Kamera ist günstig.	यह कैमरा सस्ता है।
-This car is like new.	Dieses Auto ist wie neu.	यह कार नई की तरह है।
-This car won't start.	Dieses Auto springt nicht an.	यह कार शुरू नहीं होती है।
-This cat is not ours.	Diese Katze ist nicht unsere.	यह बिल्ली हमारी नहीं है।
 This cat is very fat.	Diese Katze ist sehr fett.	यह बिल्ली बहुत मोटी है।
 This clock is broken.	Diese Uhr ist kaputt.	यह घड़ी टूट गई है।
 This dog barks a lot.	Dieser Hund ist ein Kläffer.	यह कुत्ता एक पीतल है।
