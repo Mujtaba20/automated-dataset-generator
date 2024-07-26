@@ -35862,3 +35862,7 @@ You said it yourself.	Du hast es selbst gesagt.	तुमने खुद ही
 You said so yourself.	Du hast es selbst gesagt.	तुमने इसे खुद ही कहा।
 You seem happy to me.	Du scheinst glücklich zu sein.	तुम मुझे खुश लगते हो।
 You seem preoccupied.	Du scheinst abwesend zu sein.	तुम व्यस्त लग रहे हो।
+You seem pretty busy.	Du machst einen ziemlich beschäftigten Eindruck.	तुम्हारे पास काम पूरा करने को बहुत समय नहीं है।
+You should apologize.	Einen Entschuldigung ist angebracht.	तुम्हें इसके लिए माफ़ी मांगनी चाहिए।
+You should know that.	Du solltest das wissen.	तुम्हें यह जानना चाहिए।
+You should know this.	Das sollte man wissen.	इसे जानना चाहिए।

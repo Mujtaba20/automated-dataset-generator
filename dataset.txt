@@ -1,14 +1,4 @@
 
-You seem pretty busy.	Du scheinst ziemlich beschäftigt zu sein.	आप बहुत व्यस्त लग रहे हैं।
-You seem pretty busy.	Ihr scheint ziemlich beschäftigt zu sein.	आप बहुत व्यस्त लग रहे हैं।
-You seem pretty busy.	Sie scheinen ziemlich beschäftigt zu sein.	वे बहुत व्यस्त लग रहे हैं।
-You should apologize.	Du solltest dich entschuldigen.	आपको माफी मांगनी चाहिए।
-You should apologize.	Ihr solltet euch entschuldigen.	आपको माफी मांगनी चाहिए।
-You should apologize.	Sie sollten sich entschuldigen.	आपको माफी मांगनी चाहिए।
-You should know that.	Das solltest du wissen.	तुम्हें यह पता होना चाहिए।
-You should know this.	Das solltest du wissen.	तुम्हें यह पता होना चाहिए।
-You should know this.	Das solltet ihr wissen.	तुम्हें यह पता होना चाहिए।
-You should know this.	Das sollten Sie wissen.	तुम्हें यह पता होना चाहिए।
 You should leave now.	Du solltest nun gehen.	अब आपको जाना चाहिए।
 You should marry Tom.	Du solltest Tom heiraten.	आपको टॉम से शादी करनी चाहिए।
 You should phone Tom.	Du solltest Tom anrufen.	आपको टॉम को फोन करना चाहिए।
