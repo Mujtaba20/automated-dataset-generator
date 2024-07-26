@@ -30848,3 +30848,13 @@ Everyone stayed calm.	Alle blieben ruhig.	सभी शांत रहे।
 Everyone wants money.	Jeder will Geld.	हर कोपैसे चाहिए।
 Everyone was shocked.	Alle waren schockiert.	सभी हैरान रह गए थे।
 Everyone was singing.	Alle haben gesungen.	सभी गा रहे थे।
+Everyone was stunned.	Alle waren verblüfft.	सभी हैरान थे।
+Everyone's different.	Jeder ist verschieden.	सभी अलग हैं।
+Everyone's saying it.	Alle sagen es.	सभी यह कह रहे हैं।
+Everyone's saying it. (Different meaning)	Jeder behauptet es.	सभी यह कह रहे हैं। (अलग अर्थ)
+Everything is normal.	Alles ist normal.	सब कुछ सामान्य है।
+Everything seemed OK.	Alles schien in Ordnung.	सब कुछ ठीक लग रहा था।
+Everything was ready.	Alles war bereit.	सब कुछ तैयार था।
+Everything went well.	Alles lief gut.	सब कुछ अच्छे से हुआ।
+Everything's changed.	Alles hat sich geändert.	सब कुछ बदल गया है।
+Excuse my clumsiness.	Entschuldigen Sie meine Ungeschicklichkeit.	मेरी बेढ़ियापन क्षमा करें।
