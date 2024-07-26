@@ -32083,3 +32083,13 @@ I share your opinion.	Ich teile deine Meinung.	मैं आपकी राय 
 I should go help Tom.	Ich sollte Tom helfen gehen.	मुझे टॉम की मदद करने जाना चाहिए।
 I should go with Tom.	Ich sollte mit Tom gehen.	मुझे टॉम के साथ जाना चाहिए।
 I should go with you.	Ich sollte mit dir gehen.	मुझे तुम्हारे साथ जाना चाहिए।
+I should talk to Tom.	Ich sollte mit Tom reden.	मुझे टॉम से बात करनी चाहिए।
+I should've run away.	Ich hätte weglaufen sollen.	मुझे भाग जाना चाहिए था।
+I should've told Tom.	Ich hätte es Tom sagen sollen.	मुझे टॉम को बता देना चाहिए था।
+I showed Tom a video.	Ich habe Tom ein Video gezeigt.	मैंने टॉम को एक वीडियो दिखाया।
+I showed her my room.	Ich habe ihr mein Zimmer gezeigt.	मैंने उसे अपना कमरा दिखाया।
+I showed him the way.	Ich habe ihm den Weg gezeigt.	मैंने उसे रास्ता दिखाया।
+I shuffled the cards.	Ich habe die Karten gemischt.	मैंने कार्डों को फैलाया।
+I sleep in a big bed.	Ich schlafe in einem großen Bett.	मैं एक बड़े बिस्तर में सोता हूं।
+I slid down the rope.	Ich bin die Schnur hinuntergerutscht.	मैंने रस्सी से धक्का लगाकर चला गया।
+I slid the door open.	Ich habe die Tür aufgeschoben.	मैंने दरवाज़ा खोल दिया।
