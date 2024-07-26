@@ -1,14 +1,4 @@
 
-Listen to me carefully.	Hör mir gut zu.	मेरी अच्छी तरह से सुनो।
-Look at that one there.	Schau dir die dort an.	उन पर एक नज़र डालें।
-Look at that one there.	Schau dir den dort an.	इस पर एक नज़र मारो।
-Look at that one there.	Schau dir das dort an.	उस पर एक नज़र डालें।
-Look at the blackboard.	Schau an die Tafel.	बोर्ड की ओर देखें।
-Look out of the window.	Schau aus dem Fenster!	खिड़की से बाहर देखो!
-Look out of the window.	Schau zum Fenster raus!	खिड़की के बाहर देखो!
-Look what we have here.	Schau, was wir hier haben.	देखें कि हमारे यहाँ क्या है।
-Look, there's a rabbit!	Sieh nur! Da ist ein Kaninchen!	अभी देखा!एक खरगोश है!
-Look, there's a rabbit!	Guck mal! Da ist ein Kaninchen!	एक नज़र देख लो!एक खरगोश है!
 Looks can be deceiving.	Der Schein trügt.	उपस्थिति भ्रामक है।
 Luckily nobody drowned.	Zum Glück ist keiner ertrunken.	सौभाग्य से, कोई भी डूब नहीं गया है।
 Luckily nobody drowned.	Glücklicherweise ist keiner ertrunken.	सौभाग्य से, कोई भी डूब नहीं गया है।
