@@ -40150,3 +40150,13 @@ Tom has very bad luck.	Tom hat sehr viel Pech.	टॉम का बहुत ब
 Tom has what he wants.	Tom hat, was er will.	टॉम के पास वह है जो उसे चाहिए।
 Tom has what it takes.	Tom hat, was es braucht.	टॉम के पास वह है जो ज़रूरी है।
 Tom has won the prize.	Tom hat den Preis gewonnen.	टॉम ने पुरस्कार जीत लिया है।
+Tom has written to me.	Tom hat mir geschrieben.	टॉम ने मुझे लिखा है।
+Tom hasn't been fired.	Tom wurde nicht entlassen.	टॉम को नहीं निकाला गया है।
+Tom hasn't been found.	Tom wurde nicht gefunden.	टॉम को नहीं मिला।
+Tom hasn't called yet.	Tom hat noch nicht angerufen.	टॉम ने अभी तक कॉल नहीं किया है।
+Tom hated his teacher.	Tom hasste seinen Lehrer.	टॉम को उसके अध्यापक से नफरत थी।
+Tom heard Mary crying.	Tom hörte Mary weinen.	टॉम ने मैरी को रोते हुए सुना।
+Tom heard Mary scream.	Tom hörte Mary schreien.	टॉम ने मैरी को चीखते हुए सुना।
+Tom held up his hands.	Tom hielt die Hände hoch.	टॉम ने अपने हाथ उठाए।
+Tom helped us do that.	Tom hat uns dabei geholfen.	टॉम ने हमें उसे करने में मदद की।
+Tom helps out as well.	Tom hilft auch aus.	टॉम भी मदद करता है।
