@@ -1,14 +1,4 @@
 
-We've got to hurry.	Wir müssen uns beeilen.	हम जल्दी में हैं.
-We've just arrived.	Wir sind eben erst angekommen.	हम बस पहुंचे।
-We've just started.	Wir haben gerade angefangen.	हमने अभी शुरुआत की है।
-We've lost contact.	Wir haben die Verbindung verloren.	हमने कनेक्शन खो दिया।
-Welcome to my home.	Willkommen bei mir zu Hause!	मेरे घर में आपका स्वागत है!
-Welcome to my home.	Willkommen in meinem Heim!	मेरे घर में आपका स्वागत है!
-Welcome to my home.	Willkommen in meinem Haus!	मेरे घर में आपका स्वागत है!
-Welcome to my life.	Willkommen in meinem Leben!	मेरे जीवन में आपका स्वागत है!
-Well, now you know.	Na ja, jetzt weißt du’s.	खैर, अब आप जानते हैं।
-Were they with you?	Waren die bei dir?	क्या वे आपके साथ थे?
 Were you born here?	Wurdest du hier geboren?	क्या आप यहाँ पैदा हुए हैं?
 Were you born here?	Wurdet ihr hier geboren?	क्या आप यहाँ पैदा हुए हैं?
 Were you born here?	Wurden Sie hier geboren?	क्या आप यहाँ पैदा हुए थे?
