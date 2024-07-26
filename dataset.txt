@@ -1,14 +1,4 @@
 
-The scar is healing.	Die Narbe verheilt.	निशान को ठीक कर दिया।
-The server was down.	Der Server war ausgefallen.	सर्वर विफल रहा।
-The ship is sinking.	Das Schiff sinkt.	जहाज डूब रहा है।
-The ship was at sea.	Das Schiff war auf See.	जहाज समुद्र में था।
-The sirens went off.	Die Sirenen gingen los.	सायरन शुरू हुआ।
-The sirens went off.	Die Sirenen fingen an zu heulen.	सायरन रोने लगे।
-The sky turned dark.	Der Himmel verdunkelte sich.	आकाश अंधेरा हो गया।
-The snow has melted.	Der Schnee ist geschmolzen.	बर्फ पिघल गई।
-The socks smell bad.	Die Socken stinken.	मोजे बदबू आ रही हैं।
-The soup is too hot.	Die Suppe ist zu heiß.	सूप बहुत गर्म है।
 The soup's very hot.	Die Suppe ist sehr heiß.	सूप बहुत गर्म है।
 The stakes are high.	Es steht viel auf dem Spiel.	दांव पर बहुत कुछ है।
 The storm continued.	Der Sturm setzte sich fort.	तूफान जारी रहा।

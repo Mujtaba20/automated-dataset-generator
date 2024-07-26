@@ -28245,3 +28245,12 @@ The rest is perfect.	Der Rest ist perfekt.	शेष सही है।
 The river has risen.	Der Fluss ist gestiegen.	नदी उठ गई है।
 The room was locked.	Das Zimmer war verschlossen.	कमरा बंद था।
 The room was packed.	Das Zimmer war überfüllt.	कमरा भरा हुआ था।
+The scar is healing.	Die Narbe heilt.	निशान ठीक हो रहा है।
+The server was down.	Der Server war nicht erreichbar.	सर्वर बंद था।
+The ship is sinking.	Das Schiff sinkt.	जहाज डूब रहा है।
+The ship was at sea.	Das Schiff war auf See.	जहाज समुद्र में था।
+The sirens went off.	Die Sirenen wurden ausgelöst.	सायरन प्रारंभ हो गए।
+The sky turned dark.	Der Himmel wurde dunkel.	आसमान काला हो गया।
+The snow has melted.	Der Schnee ist geschmolzen.	बर्फ पिघल गई है।
+The socks smell bad.	Die Socken riechen schlecht.	मौसम खराब है।
+The soup is too hot.	Die Suppe ist zu heiß.	सूप बहुत गरम है।
