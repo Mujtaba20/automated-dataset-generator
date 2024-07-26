@@ -27267,3 +27267,11 @@ Is that so terrible?	Ist das so schrecklich?	क्या यह इतना �
 Is that thing yours?	Ist das dein Ding?	क्या वह चीज़ तुम्हारी है?
 Is that your mother?	Ist das deine Mutter?	क्या वह तुम्हारी माँ है?
 Is that your sister?	Ist das deine Schwester?	क्या वह तुम्हारी बहन है?
+Is the bar open yet?	Ist die Bar schon offen?	क्या बार अभी खुली है?
+Is this OK with you?	Ist das in Ordnung für dich?	क्या यह तुम्हारे लिए ठीक है?
+Is this Tom's chair?	Ist dies Toms Stuhl?	क्या यह टॉम की कुर्सी है?
+Is this Tom's house?	Ist das Toms Haus?	क्या यह टॉम का घर है?
+Is this all we need?	Ist das alles, was wir brauchen?	क्या यह हमें सब कुछ चाहिए है?
+Is this goat cheese?	Ist das Ziegenkäse?	क्या यह बकरी का पनीर है?
+Is this good French?	Ist das gutes Französisch?	क्या यह अच्छा फ्रेंच है?
+Is this permissible?	Ist das erlaubt?	क्या यह अनुज्ञेय है?

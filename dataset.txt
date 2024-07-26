@@ -1,14 +1,4 @@
 
-Is the bar open yet?	Hat die Kneipe schon geöffnet?	क्या पब पहले से ही खुला है?
-Is the bar open yet?	Hat die Bar schon geöffnet?	क्या बार पहले ही खोला गया है?
-Is this OK with you?	Ist das OK für dich?	क्या आपके लिए यह ठीक है?
-Is this OK with you?	Ist das in Ordnung für Sie?	क्या यह आपके लिए ठीक है?
-Is this Tom's chair?	Ist das Toms Stuhl?	क्या टॉम की कुर्सी है?
-Is this Tom's house?	Ist das Toms Haus?	क्या वह टॉम का घर है?
-Is this all we need?	Ist das alles, was wir brauchen?	क्या हमें यह सब चाहिए?
-Is this goat cheese?	Ist das Ziegenkäse?	क्या वह बकरी पनीर है?
-Is this good French?	Ist das hier gutes Französisch?	क्या यह अच्छा फ्रेंच है?
-Is this permissible?	Ist dies erlaubt?	क्या यह अनुमति है?
 Is this seat vacant?	Ist dieser Platz frei?	क्या यह सीट दे दी गई है?
 Is this your flight?	Ist das Ihr Flug?	क्या यह आपकी उड़ान है?
 Is this your letter?	Ist dies dein Brief?	क्या यह आपका पत्र है?
