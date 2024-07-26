@@ -23135,3 +23135,10 @@ They never give up.	Sie geben niemals auf.	उन्होंने कभी �
 They never said no.	Sie haben nie nein gesagt.	उन्होंने कभी नहीं कहा।
 They never stopped.	Sie haben nie aufgehört.	उन्होंने कभी रुकना नहीं दिया।
 They really did it.	Sie haben es wirklich getan.	उन्होंने सच में यह किया।
+They say he's sick.	Sie behaupten, dass er krank ist.	उन्होंने कहा कि वह बीमार है।
+They spoke briefly.	Sie sprachen kurz.	उन्होंने संक्षेप में बात की।
+They stole my idea.	Sie haben meine Idee gestohlen.	उन्होंने मेरे विचार चुराए।
+They understand us.	Sie verstehen uns.	उन्हें हमें समझा है।
+They walked around.	Sie liefen herum.	उन्होंने चक्कर लगाए।
+They want you dead.	Sie wollen dich tot haben.	वे चाहते हैं कि तुम मर जाओ।
+They went together.	Sie gingen zusammen.	उन्होंने साथ में चला गया।
