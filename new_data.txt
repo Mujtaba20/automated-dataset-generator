@@ -32626,3 +32626,12 @@ I'm writing about us.	Ich schreibe über uns.	मैं हमारे बा�
 I'm younger than Tom.	Ich bin jünger als Tom.	मैं टॉम से छोटा हूँ।
 I'm your best friend.	Ich bin dein bester Freund.	मैं तुम्हारा सबसे अच्छा दोस्त हूँ।
 I've already said no.	Ich habe schon nein gesagt.	मैंने पहले ही कह दिया है।
+I've always been fat.	Ich war schon immer dick.	मैं हमेशा से मोटा रहा हूँ।
+I've always known it.	Ich habe es schon immer gewusst.	मैं हमेशा से यह जानता रहा।
+I've asked everybody.	Ich habe jeden gefragt.	मैंने सभी से पूछा है।
+I've been dating Tom.	Ich bin mit Tom zusammen gewesen.	मैंने टॉम के साथ रिश्ता रखा है।
+I've been practicing.	Ich habe geübt.	मैंने अभ्यास किया है।
+I've been subpoenaed.	Ich wurde vorgeladen.	मुझे समन दिया गया है।
+I've changed my mind.	Ich habe meine Meinung geändert.	मैंने अपना मन बदल लिया है।
+I've chipped a tooth.	Ich habe mir einen Zahn abgebrochen.	मेरे दांत का टुकड़ा टूट गया है।
+I've come a long way.	Ich habe einen weiten Weg zurückgelegt.	मैंने बहुत दूर तक आना है।
