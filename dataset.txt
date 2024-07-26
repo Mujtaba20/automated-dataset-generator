@@ -1,15 +1,4 @@
 
-Is there life on Mars?	Gibt es Leben auf dem Mars?	क्या मंगल ग्रह पर जीवन है?
-Is there no other way?	Geht es nicht anders?	क्या कोई और रास्ता नहीं है?
-Is there some ketchup?	Gibt es etwas Ketchup?	क्या कुछ केचप है?
-Is there some problem?	Gibt es irgendein Problem?	कोई समस्या है क्या?
-Is this biodegradable?	Ist das biologisch abbaubar?	क्या वह बायोडिग्रेडेबल है?
-Is this clock working?	Funktioniert diese Uhr?	क्या यह घड़ी काम करती है?
-Is this going to hurt?	Wird es wehtun?	क्या यह चोट पहुंचाएग?
-Is this good material?	Ist das hier gutes Material?	क्या यह अच्छी सामग्री यहाँ है?
-Is this seat reserved?	Ist dieser Platz reserviert?	क्या यह स्थान आरक्षित है?
-Is this what you want?	Ist das hier, was Sie wollen?	क्या आप यही चाहते हैं?
-Is this what you want?	Ist es das hier, was du willst?	क्या आप यहाँ चाहते हैं?
 Is this your daughter?	Ist das deine Tochter?	क्या यह आपकी बेटी है?
 Is this your daughter?	Ist das eure Tochter?	क्या यह आपकी बेटी है?
 Is this your daughter?	Ist das Ihre Tochter?	क्या यह आपकी बेटी है?

@@ -38451,3 +38451,13 @@ Is there a school bus?	Gibt es einen Schulbus?	क्या एक स्कू�
 Is there another door?	Gibt es eine andere Tür?	क्या एक और दरवाजा है?
 Is there another exit?	Gibt es einen anderen Ausgang?	क्या एक और निकास है?
 Is there anything new?	Gibt es etwas Neues?	क्या कोई नया है?
+Is there life on Mars?	Gibt es Leben auf dem Mars?	क्या मंगल ग्रह पर जीवन है?
+Is there no other way?	Gibt es keinen anderen Weg?	क्या कोई और तरीका नहीं है?
+Is there some ketchup?	Ist etwas Ketchup da?	क्या कुछ केचप है?
+Is there some problem?	Gibt es ein Problem?	क्या कोई समस्या है?
+Is this biodegradable?	Ist das biologisch abbaubar?	क्या यह जैव घटनशील है?
+Is this clock working?	Funktioniert diese Uhr?	क्या यह घड़ी काम कर रही है?
+Is this going to hurt?	Wird das wehtun?	क्या यह दर्द करेगा?
+Is this good material?	Ist das gutes Material?	क्या यह अच्छा सामग्री है?
+Is this seat reserved?	Ist dieser Sitzplatz reserviert?	क्या यह सीट आरक्षित है?
+Is this what you want?	Ist das das, was du willst?	क्या यह वह है जिसे तुम चाहते हो?
