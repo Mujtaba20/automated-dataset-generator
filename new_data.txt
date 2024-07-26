@@ -30259,3 +30259,11 @@ You won't die today. (Different meaning)	Heute wirst du nicht sterben.	आज �
 You won't need that.	Du wirst das nicht brauchen.	तुम्हें उसकी आवश्यकता नहीं होगी।
 You won't regret it.	Du wirst es nicht bereuen.	तुम्हें इस पर पछताने की आवश्यकता नहीं होगी।
 You'd be good at it.	Du wärst gut darin.	तुम इसमें अच्छे होते।
+You'd better go now.	Du solltest jetzt gehen.	तुम्हें अब चलना चाहिए।
+You'll be in danger.	Du wirst in Gefahr sein.	तुम खतरे में होगे।
+You'll catch a cold.	Du wirst dich erkälten.	तुमे जुकाम हो जाएगा।
+You'll do fine, Tom.	Du wirst es gut machen, Tom.	तू ठीक करेगा, टॉम।
+You'll feel at home.	Du wirst dich wie zu Hause fühlen.	तुम घर जैसा महसूस करोगे।
+You'll find it easy.	Du wirst es einfach finden.	तुम्हें यह आसान लगेगा।
+You'll never change.	Du wirst dich nie ändern.	तुम कभी नहीं बदलोगे।
+You'll never see it.	Du wirst es nie sehen.	तुम कभी यह नहीं देखोगे।
