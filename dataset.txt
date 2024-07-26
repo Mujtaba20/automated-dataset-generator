@@ -1,14 +1,4 @@
 
-He is a daydreamer.	Er ist ein Tagträumer.	वह एक दिवास्वप्न है।
-He is a fishmonger.	Er ist Fischhändler.	वह एक मछली पकड़ने वाला डीलर है।
-He is a good loser.	Er ist ein guter Verlierer.	वह एक अच्छा हारा हुआ है।
-He is a mere child.	Er ist bloß ein Kind.	वह सिर्फ एक बच्चा है।
-He is a simple man.	Er ist ein einfacher Mann.	वह एक साधारण आदमी है।
-He is a war orphan.	Er ist eine Kriegswaise.	वह एक युद्ध अनाथ है।
-He is a work horse.	Er ist ein Arbeitstier.	वह एक काम जानवर है।
-He is about my age.	Er ist ungefähr in meinem Alter.	वह मेरी उम्र के आसपास है।
-He is about thirty.	Er ist ungefähr dreißig.	यह लगभग तीस है।
-He is always happy.	Er ist immer glücklich.	वह हमेशा खुश रहता है।
 He is an FBI agent.	Er ist ein FBI-Agent.	वह एक एफबीआई एजेंट है।
 He is good at golf.	Er spielt gut Golf.	वह गोल्फ अच्छी तरह से खेलता है।
 He is having lunch.	Er isst zu Mittag.	वह दोपहर का भोजन करता है।

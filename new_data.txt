@@ -20769,3 +20769,13 @@ He held his breath.	Er hielt den Atem an.	उसने सांस रोकी
 He is a bad driver.	Er ist ein schlechter Fahrer.	वह एक बुरा चालक है।
 He is a bus driver.	Er ist Busfahrer.	वह बस चालक है।
 He is a clever boy.	Er ist ein schlauer Junge.	वह एक बुद्धिमान लड़का है।
+He is a daydreamer.	Er ist ein Tagträumer.	वह एक दिवाना है।
+He is a fishmonger.	Er ist ein Fischhändler.	वह मछुआरा है।
+He is a good loser.	Er ist ein guter Verlierer.	वह एक अच्छा हारने वाला है।
+He is a mere child.	Er ist nur ein Kind.	वह केवल एक बच्चा है।
+He is a simple man.	Er ist ein einfacher Mann.	वह एक साधारण आदमी है।
+He is a war orphan.	Er ist ein Kriegswaise.	वह एक युद्ध अनाथ है।
+He is a work horse.	Er ist ein Arbeitstier.	वह मेहनती घोड़ा है।
+He is about my age.	Er ist ungefähr in meinem Alter.	वह मेरी उम्र का है।
+He is about thirty.	Er ist ungefähr dreißig.	वह तीस के लगभग है।
+He is always happy.	Er ist immer glücklich.	वह हमेशा खुश रहता है।
