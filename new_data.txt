@@ -39664,3 +39664,8 @@ They tried everything.	Sie haben alles versucht.	उन्होंने सब
 They trust each other.	Sie vertrauen sich gegenseitig.	वे एक-दूसरे पर भरोसा करते हैं।
 They used truth serum.	Sie verwendeten Wahrheitsserum.	उन्होंने सत्य स्राव उपयोग किया।
 They want us to do it.	Sie wollen, dass wir es tun.	उन्हें चाहिए कि हम इसे करें।
+They wash their hands.	Sie waschen ihre Hände.	वे अपने हाथ धोते हैं।
+They watched intently.	Sie beobachteten aufmerksam.	उन्होंने ध्यान से देखा।
+They were never alone.	Sie waren nie allein.	वे कभी अकेले नहीं थे।
+They were not pleased.	Sie waren nicht zufrieden.	उन्हें खुशी नहीं हुई।
+They were really cold.	Ihnen war wirklich kalt.	उन्हें सच्ची में ठंड लग रही थी।
