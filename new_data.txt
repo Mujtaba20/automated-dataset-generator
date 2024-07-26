@@ -23704,3 +23704,11 @@ Tom is quite fussy.	Tom ist ziemlich pingelig.	टॉम काफी चिड�
 Tom is quite happy.	Tom ist ziemlich glücklich.	टॉम काफी खुश है।
 Tom is quite moody.	Tom ist ziemlich launisch.	टॉम काफी भावुक है।
 Tom is quite picky.	Tom ist ziemlich wählerisch.	टॉम काफी चुनौतीपूर्ण है।
+Tom is quite right.	Tom hat völlig recht.	टॉम काफी सही है।
+Tom is quite young.	Tom ist ziemlich jung.	टॉम काफी जवान है।
+Tom is rarely late.	Tom kommt selten zu spät.	टॉम देर से बहुत कम होता है।
+Tom is rather weak.	Tom ist ziemlich schwach.	टॉम काफी कमजोर है।
+Tom is really busy.	Tom ist wirklich beschäftigt.	टॉम वास्तव में व्यस्त है।
+Tom is really cute.	Tom ist wirklich süß.	टॉम सचमुच प्यारा है।
+Tom is really fast.	Tom ist wirklich schnell.	टॉम सचमुच तेज़ है।
+Tom is really good.	Tom ist wirklich gut.	टॉम सचमुच अच्छे हैं।

@@ -1,14 +1,4 @@
 
-Tom is quite right.	Tom hat völlig recht.	टॉम बिल्कुल सही है।
-Tom is quite young.	Tom ist ziemlich jung.	टॉम बहुत युवा है।
-Tom is quite young.	Tom ist recht jung.	टॉम काफी युवा है।
-Tom is rarely late.	Tom kommt selten zu spät.	टॉम शायद बहुत देर से आता है।
-Tom is rarely late.	Tom verspätet sich selten.	टॉम को शायद ही कभी देरी हो रही है।
-Tom is rather weak.	Tom ist ziemlich schwächlich.	टॉम बहुत कमजोर है।
-Tom is really busy.	Tom ist sehr beschäftigt.	टॉम बहुत व्यस्त है।
-Tom is really cute.	Tom ist echt süß.	टॉम वास्तव में प्यारा है।
-Tom is really fast.	Tom ist superschnell.	टॉम सुपर फास्ट है।
-Tom is really good.	Tom ist sehr gut.	टॉम बहुत अच्छा है।
 Tom is really late.	Tom ist wirklich spät.	टॉम वास्तव में देर हो चुकी है।
 Tom is really mean.	Tom ist wirklich gemein.	टॉम वास्तव में मतलबी है।
 Tom is really nice.	Tom ist wirklich nett.	टॉम वास्तव में अच्छा है।
