@@ -22979,3 +22979,11 @@ The disco is empty.	Das Disco ist leer.	डिस्को खाली है�
 The dog is barking.	Der Hund bellt.	कुत्ता भौंक रहा है।
 The dog is jumping.	Der Hund springt.	कुत्ता कूद रहा है।
 The dog is panting.	Der Hund hechelt.	कुत्ता सांस फूल रहा है।
+The dog looks sick.	Der Hund wirkt krank.	कुत्ता बीमार लगता है।
+The dog seems sick.	Der Hund scheint krank zu sein.	कुत्ता बीमार लग रहा है।
+The dog wants meat.	Der Hund möchte Fleisch.	कुत्ता मांस चाहता है।
+The dogs scared us.	Die Hunde haben uns erschreckt.	कुत्ते हमें डरा दिया।
+The door is locked.	Die Tür ist verschlossen.	दरवाजा बंद है।
+The doorknob broke.	Der Türknauf ist gebrochen.	दरवाजे का हैंडल टूट गया।
+The dress is green.	Das Kleid ist grün.	ड्रेस हरी है।
+The earth is round.	Die Erde ist rund.	पृथ्वी गोल है।

@@ -1,14 +1,4 @@
 
-The dog looks sick.	Der Hund sieht krank aus.	कुत्ता बीमार दिखता है।
-The dog seems sick.	Der Hund scheint krank zu sein.	कुत्ता बीमार लगता है।
-The dog seems sick.	Der Hund sieht krank aus.	कुत्ता बीमार दिखता है।
-The dog wants meat.	Der Hund will Fleisch.	कुत्ता मांस चाहता है।
-The dogs scared us.	Wir hatten Angst vor den Hunden.	हम कुत्तों से डरते थे।
-The door is locked.	Die Tür ist verschlossen.	दरवाजा बंद कर दिया गया है।
-The door is locked.	Die Tür ist abgeschlossen.	दरवाजा बंद कर दिया गया है।
-The doorknob broke.	Der Türknauf ist kaputt.	दरवाजा घुंडी टूट गई है।
-The dress is green.	Das Kleid ist grün.	पोशाक हरी है।
-The earth is round.	Die Erde ist rund.	दुनिया गोल है।
 The economy is bad.	Der Wirtschaft geht es schlecht.	अर्थव्यवस्था खराब है।
 The flame went out.	Die Flamme erlosch.	लौ बाहर चली गई।
 The floor is dirty.	Der Fußboden ist schmutzig.	फर्श गंदा है।
