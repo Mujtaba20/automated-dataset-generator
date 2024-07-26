@@ -30903,3 +30903,12 @@ Go back to your room.	Geh zurück in dein Zimmer.	अपने कमरे म�
 Go back to your seat.	Geh zurück zu deinem Platz.	अपनी सीट पर वापस जाओ।
 Go back to your work.	Geh zurück zu deiner Arbeit.	अपने काम पर वापस जाओ।
 Go get your passport.	Hol dir deinen Pass.	अपना पासपोर्ट लेने जाओ।
+Go kiss someone else.	Geh jemand anderen küssen.	किसी और को चुंबन दो।
+Go on with your work.	Mach mit deiner Arbeit weiter.	अपने काम में अग्रसर रहो।
+Go to the barbershop.	Geh zum Friseur.	नाई के पास जाओ।
+Go with your friends.	Geh mit deinen Freunden.	अपने दोस्तों के साथ जाओ।
+Good night, everyone!	Gute Nacht, alle zusammen!	शुभ रात्रि, सभी को!
+Good to see you, Tom.	Schön, dich zu sehen, Tom.	तुम्हें देखकर अच्छा लगा, टॉम।
+Hang in there, folks.	Haltet durch, Leute.	धैर्य रखो, लोग।
+Has Tom become crazy?	Ist Tom verrückt geworden?	क्या टॉम पागल हो गया है?
+Has Tom been charged?	Wurde Tom angeklagt?	क्या टॉम को आरोपित किया गया है?
