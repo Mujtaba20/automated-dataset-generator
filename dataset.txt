@@ -1,16 +1,4 @@
 
-Do you have a nickname?	Hast du einen Spitznamen?	क्या आपका एक उपनाम है?
-Do you have a question?	Hast du eine Frage?	क्या आपका कोई प्रश्न है?
-Do you have a shoehorn?	Hast du einen Schuhanzieher?	क्या आपके पास एक जूता खींचने वाला है?
-Do you have a shoehorn?	Haben Sie einen Schuhlöffel?	क्या आपके पास एक जूता स्थल है?
-Do you have a solution?	Hast du eine Lösung?	क्या आपके पास एक समाधान है?
-Do you have an address?	Haben Sie eine Adresse?	क्या आपका कोई पता है?
-Do you have any apples?	Hast du Äpfel?	क्या आपके पास सेब हैं?
-Do you have any apples?	Habt ihr Äpfel?	क्या आपके पास सेब हैं?
-Do you have any apples?	Haben Sie Äpfel?	क्या आपके पास सेब हैं?
-Do you have everything?	Hast du alles?	क्या आपके पास सब कुछ है?
-Do you have everything?	Habt ihr alles?	क्या आपके पास सब कुछ है?
-Do you have everything?	Haben Sie alles?	क्या आपके पास सब कुछ है?
 Do you have nightmares?	Hast du Albträume?	क्या आपके पास बुरे सपने हैं?
 Do you have nightmares?	Haben Sie Albträume?	क्या आपके पास बुरे सपने हैं?
 Do you have nightmares?	Habt ihr Albträume?	क्या आपके पास बुरे सपने हैं?
