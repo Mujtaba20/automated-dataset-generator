@@ -1,14 +1,4 @@
 
-Don't you like apples?	Magst du keine Äpfel?	क्या आपको सेब पसंद नहीं है?
-Don't you play tennis?	Spielst du kein Tennis?	क्या आप टेनिस नहीं खेलते हैं?
-Don't you want to eat?	Wollen Sie nichts essen?	क्या आप कुछ भी नहीं खाना चाहते हैं?
-Ducks make great pets.	Enten sind hervorragend als Haustiere geeignet.	बतख पालतू जानवरों के रूप में आदर्श हैं।
-Eat anything you like.	Essen Sie das, was Sie mögen.	जो आपको पसंद है उसे खाओ।
-Eat it while it's hot.	Iss, solange es noch heiß ist!	जब तक यह अभी भी गर्म है तब तक खाओ!
-Eat whatever you like.	Iss, was du möchtest.	जो आप चाहते हैं खाओ।
-Eat whatever you like.	Esst, was immer ihr möchtet.	जो चाहें खाएं।
-Eat whatever you like.	Essen Sie, was immer Sie möchten.	जो चाहें खाएं।
-Eat whatever you like.	Iss, was du magst.	जो आपको पसंद है उसे खाओ।
 Eat wherever you like.	Iss, wo du möchtest!	जहां आप चाहते हैं खाओ!
 Eat wherever you want.	Iss, wo du möchtest!	जहां आप चाहते हैं खाओ!
 Eggs are very fragile.	Eier sind sehr zerbrechlich.	अंडे बहुत नाजुक होते हैं।
