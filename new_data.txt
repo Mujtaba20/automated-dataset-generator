@@ -25696,3 +25696,10 @@ He is at the office.	Er ist im Büro.	वह कार्यालय में 
 He is doing penance.	Er büßt.	वह पश्चाताप कर रहा है।
 He is doing penance.1	Er betreibt Buße.	वह कष्ट कर रहा है।
 He is far from rich.	Er ist weit weg vom Reichtum.	वह धनी से दूर है।
+He is good at rugby.	Er ist gut im Rugby.	वह रग्बी में अच्छा है।
+He is having dinner.	Er isst zu Abend.	उसका खाना खा रहा है।
+He is in a bad mood.	Er ist schlecht gelaunt.	वह बुरे मूड में है।
+He is kind at heart.	Er ist im Herzen freundlich.	उसका दिल अच्छा है।
+He is my old friend.	Er ist mein alter Freund.	वह मेरा पुराना दोस्त है।
+He is overconfident.	Er ist übermütig.	वह अत्यधिक आत्मविश्वास वाला है।
+He is playing music.	Er spielt Musik.	वह संगीत बजा रहा है।

@@ -1,14 +1,4 @@
 
-He is good at rugby.	Er ist gut im Rugby.	वह रग्बी में अच्छा है।
-He is good at rugby.	Er spielt gut Rugby.	वह रग्बी अच्छी तरह से खेलता है।
-He is having dinner.	Er isst zu Abend.	वह रात का खाना खाता है।
-He is in a bad mood.	Er hat schlechte Laune.	वह बुरे मूड में है।
-He is in a bad mood.	Er ist schlechter Laune.	यह एक बुरा मूड है।
-He is kind at heart.	Er hat ein gutes Herz.	उसका दिल अच्छा है।
-He is kind at heart.	Er ist gutherzig.	वह दयालु है।
-He is my old friend.	Er ist ein alter Freund von mir.	वह मेरा एक पुराना दोस्त है।
-He is overconfident.	Er ist allzu selbstbewusst.	वह बहुत आश्वस्त है।
-He is playing music.	Er spielt Musik.	वह संगीत बजाता है।
 He is probably dead.	Er ist wahrscheinlich tot.	वह शायद मर चुका है।
 He is really clever.	Er sind wirklich schlau.	वह वास्तव में स्मार्ट है।
 He is taking a walk.	Er macht gerade einen Spaziergang.	वह सिर्फ टहलने जा रहा है।
