@@ -26496,3 +26496,11 @@ I love both of them.	Ich liebe beide.	मुझे दोनों पसंद 
 I love potato salad.	Ich liebe Kartoffelsalat.	मुझे आलू सलाद पसंद है।
 I love strawberries.	Ich liebe Erdbeeren.	मुझे स्ट्रॉबेरी पसंद है।
 I love that picture.	Ich liebe dieses Bild.	मुझे वह चित्र पसंद है।
+I love this company.	Ich liebe dieses Unternehmen.	मुझे यह कंपनी पसंद है।
+I love this picture.	Ich bin vernarrt in dieses Gemälde.	मुझे ये चित्र पसंद है।
+I love this sweater.	Ich liebe diesen Pullover.	मुझे ये स्वेटर पसंद है।
+I love to eat pizza.	Ich liebe es, Pizza zu essen.	मुझे पिज्जा खाना पसंद है।
+I love to play golf.	Ich liebe es, Golf zu spielen.	मुझे गोल्फ खेलना पसंद है।
+I love working here.	Ich liebe es, hier zu arbeiten.	मुझे यहाँ काम करना पसंद है।
+I love you for that.	Ich liebe dich dafür.	मैं तुम्हें उसके लिए पसंद करता हूँ।
+I love your cooking.	Ich liebe dein Kochen.	मुझे तुम्हारी रसोई पसंद है।
