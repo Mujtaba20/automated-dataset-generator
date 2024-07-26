@@ -1,14 +1,4 @@
 
-I like watching movies.	Ich sehe mir gern Filme an.	मुझे फिल्में देखना पसंद है।
-I like watching people.	Ich beobachte gern Leute.	मुझे लोगों को देखना पसंद है।
-I liked Tom right away.	Tom hat mir gleich gefallen.	मुझे तुरंत टॉम पसंद आया।
-I live in a rural area.	Ich wohne in einem ländlichen Gebiet.	मैं एक ग्रामीण क्षेत्र में रहता हूं।
-I live in an apartment.	Ich lebe in einer Wohnung.	मैं इमारत में कमरों में रहता हूँ।
-I live in an old house.	Ich wohne in einem alten Haus.	मैं एक पुराने घर में रहता हूं।
-I live with my parents.	Ich wohne mit meinen Eltern zusammen.	मैं अपने माता पिता के साथ रहता हूं।
-I live with my parents.	Ich wohne bei meinen Eltern.	मैं अपने माता पिता के साथ रहता हूं।
-I live with my parents.	Ich wohne zusammen mit meinen Eltern.	मैं अपने माता पिता के साथ रहता हूं।
-I looked in Tom's eyes.	Ich schaute Tom in die Augen.	मैंने टॉम की आँखों में देखा।
 I looked in the window.	Ich schaute ins Fenster.	मैंने खिड़की में देखा।
 I looked in the window.	Ich habe ins Fenster geguckt.	मैंने खिड़की में देखा।
 I looked in the window.	Ich sah ins Fenster.	मैंने खिड़की में देखा।
