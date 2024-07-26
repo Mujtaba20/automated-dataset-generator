@@ -26747,3 +26747,12 @@ I want a big family.	Ich möchte eine große Familie.	मुझे एक बड
 I want a cup of tea.	Ich möchte eine Tasse Tee.	मुझे एक कप चाय चाहिए।
 I want a girlfriend.	Ich möchte eine Freundin.	मुझे एक गर्लफ्रेंड चाहिए।
 I want a microscope.	Ich möchte ein Mikroskop.	मुझे एक माइक्रोस्कोप चाहिए।
+I want an ice cream.	Ich möchte ein Eis.	मुझे एक आइसक्रीम चाहिए।
+I want another beer.	Ich möchte noch ein Bier.	मुझे और एक बीयर चाहिए।
+I want him to leave.	Ich möchte, dass er geht.	मैं चाहता हूं कि वह चला जाए।
+I want it to happen.	Ich möchte, dass es passiert.	मैं चाहता हूं कि यह हो।
+I want more of that.	Ich möchte mehr davon.	मुझे इसकी अधिक चाहिए।
+I want my desk back.	Ich möchte meinen Schreibtisch zurück.	मुझे अपनी डेस्क वापस चाहिए।
+I want my land back.	Ich möchte mein Land zurück.	मुझे अपना जमीन वापस चाहिए।
+I want my life back.	Ich möchte mein Leben zurück.	मुझे अपना जीवन वापस चाहिए।
+I want my money now.	Ich möchte mein Geld jetzt.	मुझे अब मेरा पैसा चाहिए।
