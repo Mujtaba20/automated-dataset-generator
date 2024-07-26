@@ -30309,3 +30309,11 @@ You're quite a liar.	Du bist ein ziemlicher Lügner.	तुम काफी झ�
 You're really funny.	Du bist wirklich lustig.	तुम सचमुच मजेदार हो।
 You're really lucky.	Du hast wirklich Glück.	तुम सचमुच भाग्यशाली हो।
 You're really smart.	Du bist wirklich klug.	तुम सचमुच होशियार हो।
+You're safe in here.	Du bist hier sicher.	तुम यहाँ सुरक्षित हो।
+You're so beautiful!	Du bist so schön!	तुम बहुत खूबसूरत हो!
+You're so beautiful.	Du bist wunderschön.	तुम बहुत ही सुंदर हो।
+You're so impatient.	Du bist so ungeduldig.	तुम बहुत अधीर हो।
+You're still my son.	Du bist immer noch mein Sohn.	तुम अभी भी मेरे बेटे हो।
+You're the only one.	Du bist der Einzige.	तुम ही एकमात्र हो।
+You're the sweetest.	Du bist der Süßeste.	तुम सबसे प्यारे हो।
+You're too generous.	Du bist zu großzügig.	तुम बहुत उदार हो।
