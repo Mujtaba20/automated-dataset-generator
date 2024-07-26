@@ -28902,3 +28902,12 @@ Tom is in bad shape.	Tom ist schlecht drauf.	टॉम बुरी तरह �
 Tom is in the attic.	Tom ist auf dem Dachboden.	टॉम छत के ऊपर है।
 Tom is in the house.	Tom ist im Haus.	टॉम घर में है।
 Tom is in the lobby.	Tom ist in der Lobby.	टॉम लॉबी में है।
+Tom is insufferable.	Tom ist unerträglich.	टॉम असहनीय है।
+Tom is irresistible.	Tom ist unwiderstehlich.	टॉम लुभावन है।
+Tom is jumping rope.	Tom springt Seil.	टॉम रसी में कूद रहा है।
+Tom is just jealous.	Tom ist nur eifersüchtig.	टॉम सिर्फ जल्दी है।
+Tom is just like us.	Tom ist genau wie wir.	टॉम हमारे जैसा है।
+Tom is just nervous.	Tom ist nur nervös.	टॉम बस घबराया हुआ है।
+Tom is kind of cute.	Tom ist irgendwie süß.	टॉम कुछ प्यारा है।
+Tom is kind of tall.	Tom ist irgendwie groß.	टॉम कुछ लंबा है।
+Tom is kind to Mary.	Tom ist nett zu Mary.	टॉम मेरी के प्रति दयालु है।

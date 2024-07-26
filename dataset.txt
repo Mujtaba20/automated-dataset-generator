@@ -1,14 +1,4 @@
 
-Tom is insufferable.	Tom ist unerträglich.	टॉम असहनीय है।
-Tom is irresistible.	Tom ist unwiderstehlich.	टॉम अप्रतिरोध्य है।
-Tom is jumping rope.	Tom springt über das Seil.	टॉम रस्सी पर कूदता है।
-Tom is jumping rope.	Tom hüpft über das Seil.	टॉम रस्सी पर हॉप्स।
-Tom is just jealous.	Tom ist nur neidisch.	टॉम केवल ईर्ष्या करता है।
-Tom is just like us.	Tom ist genau wie wir.	टॉम बिल्कुल हमारे जैसा है।
-Tom is just nervous.	Tom ist einfach nur nervös.	टॉम सिर्फ घबराया हुआ है।
-Tom is kind of cute.	Tom ist irgendwie süß.	टॉम एक तरह से प्यारा है।
-Tom is kind of tall.	Tom ist recht groß.	टॉम काफी बड़ा है।
-Tom is kind to Mary.	Tom ist gut zu Maria.	टॉम मारिया के साथ अच्छा है।
 Tom is kind-hearted.	Tom ist gutherzig.	टॉम दयालु है।
 Tom is kissing Mary.	Tom küsst Maria.	टॉम चुंबन मारिया।
 Tom is leaving town.	Tom verlässt die Stadt.	टॉम शहर छोड़ देता है।
