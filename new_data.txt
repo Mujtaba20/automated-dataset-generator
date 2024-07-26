@@ -40915,3 +40915,13 @@ Tom will go ballistic.	Tom wird verrückt werden.	टॉम गोली मर�
 Tom will have to wait.	Tom wird warten müssen.	टॉम को ठहरना होगा।
 Tom will likely agree.	Tom wird wahrscheinlich zustimmen.	टॉम संभावित रूप से सहमत होंगे।
 Tom will need my help.	Tom wird meine Hilfe brauchen.	टॉम को मेरी मदद की जरूरत होगी।
+Tom will never change.	Tom wird sich nie ändern.	टॉम कभी नहीं बदलेगा।
+Tom will stay with us.	Tom wird bei uns bleiben.	टॉम हमारे साथ रहेगा।
+Tom will take the bus.	Tom wird den Bus nehmen.	टॉम बस लेगा।
+Tom wiped his glasses.	Tom wischte seine Brille ab.	टॉम ने अपने चश्मे पोंछे।
+Tom wished me success.	Tom wünschte mir Erfolg.	टॉम ने मुझे सफलता की शुभकामनाएँ दी।
+Tom woke up screaming.	Tom wachte schreiend auf.	टॉम चिल्लाते हुए उठा।
+Tom won a scholarship.	Tom gewann ein Stipendium.	टॉम ने एक छात्रवृत्ति जीती।
+Tom won the triathlon.	Tom gewann den Triathlon.	टॉम ने त्रिएथ्लॉन जीता।
+Tom won't forget that.	Tom wird das nicht vergessen.	टॉम उसे भूला नहीं सकेगा।
+Tom won't forget this.	Tom wird das nicht vergessen.	टॉम इसे भूला नहीं सकेगा।
