@@ -37583,3 +37583,13 @@ I know Tom is thirsty.	Ich weiß, dass Tom durstig ist.	मुझे पता �
 I know Tom is wealthy.	Ich weiß, dass Tom wohlhabend ist.	मुझे पता है कि टॉम धनवान है।
 I know Tom likes Mary.	Ich weiß, dass Tom Mary mag.	मुझे पता है कि टॉम को मेरी पसंद है।
 I know Tom loves Mary.	Ich weiß, dass Tom Mary liebt.	मुझे पता है कि टॉम मेरी से प्यार करता है।
+I know Tom misses you.	Ich weiß, dass Tom dich vermisst.	मुझे पता है कि टॉम तुम्हें याद करता है।
+I know Tom's children.	Ich kenne Toms Kinder.	मुझे पता है कि टॉम के बच्चे हैं।
+I know a lot about it.	Ich weiß viel darüber.	मुझे इसके बारे में बहुत कुछ पता है।
+I know all those guys.	Ich kenne all diese Leute.	मुझे उन सभी लोगों का पता है।
+I know everybody here.	Ich kenne hier jeden.	मुझे यहाँ सभी को पहचानते हैं।
+I know everything now.	Ich weiß jetzt alles.	अब मुझे सब कुछ पता है।
+I know how Tom thinks.	Ich weiß, wie Tom denkt.	मुझे पता है कि टॉम कैसे सोचता है।
+I know how old Tom is.	Ich weiß, wie alt Tom ist.	मुझे पता है कि टॉम कितने साल का है।
+I know how that feels.	Ich weiß, wie sich das anfühlt.	मुझे पता है कि वह कैसा लगता है।
+I know how that works.	Ich weiß, wie das funktioniert.	मुझे पता है कि यह कैसे काम करता है।

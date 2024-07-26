@@ -1,14 +1,4 @@
 
-I know Tom misses you.	Ich weiß, dass Tom dich vermisst.	मुझे पता है कि टॉम आपको याद करता है।
-I know Tom's children.	Ich kenne Toms Kinder.	मैं टॉम के बच्चों को जानता हूं।
-I know a lot about it.	Ich weiß eine Menge darüber.	मैं इसके बारे में बहुत कुछ जानता हूं।
-I know all those guys.	Ich kenne die Kerle alle.	मैं सभी लोगों को जानता हूं।
-I know everybody here.	Ich kenne hier jeden.	मैं यहां सभी को जानता हूं।
-I know everything now.	Jetzt weiß ich alles.	अब मुझे सब कुछ पता है।
-I know how Tom thinks.	Ich weiß, wie Tom denkt.	मुझे पता है कि टॉम कैसे सोचता है।
-I know how old Tom is.	Ich weiß, wie alt Tom ist.	मुझे पता है कि टॉम कितना पुराना है।
-I know how that feels.	Ich weiß, was das für ein Gefühl ist.	मुझे पता है कि किस तरह की भावना है।
-I know how that works.	Ich weiß, wie das funkioniert.	मुझे पता है कि यह कैसे काम करता है।
 I know how this looks.	Ich weiß, wie das aussieht.	मुझे पता है कि यह कैसा दिखता है।
 I know how this works.	Ich weiß, wie das funkioniert.	मुझे पता है कि यह कैसे काम करता है।
 I know how to do that.	Ich weiß, wie man das macht.	मुझे पता है कि कैसे करना है।
