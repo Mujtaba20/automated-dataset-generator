@@ -26676,3 +26676,11 @@ I think I may vomit.	Ich glaube, ich könnte erbrechen.	मुझे लगत�
 I think I sat on it.	Ich denke, ich saß darauf.	मुझे लगता है मैंने उस पर बैठा।
 I think I saw a rat.	Ich glaube, ich habe eine Ratte gesehen.	मुझे लगता है मैंने एक चूहा देखा।
 I think I'm in love.	Ich glaube, ich bin verliebt.	मुझे लगता है मैं प्यार में हूँ।
+I think I've got it.	Ich glaube, ich habe es verstanden.	मुझे लगता है कि मेरा हो गया है।
+I think Tom is deaf.	Ich denke, Tom ist taub.	मुझे लगता है कि टॉम बहरा है।
+I think Tom is fine.	Ich denke, Tom hat es gut.	मुझे लगता है कि टॉम ठीक है।
+I think Tom is good.	Ich glaube, Tom ist gut.	मुझे लगता है कि टॉम अच्छा है।
+I think Tom is here.	Ich denke, Tom ist hier.	मुझे लगता है कि टॉम यहाँ है।
+I think Tom is kind.	Ich denke, Tom ist freundlich.	मुझे लगता है कि टॉम दयालु है।
+I think Tom is rich.	Ich denke, Tom ist reich.	मुझे लगता है कि टॉम धनवान है।
+I think Tom is sick.	Ich denke, Tom ist krank.	मुझे लगता है कि टॉम बीमार है।

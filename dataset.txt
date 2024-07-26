@@ -1,14 +1,4 @@
 
-I think I've got it.	Ich glaube, ich hab's.	मुझे लगता है कि मेरे पास है।
-I think Tom is deaf.	Ich glaube, dass Tom taub ist.	मुझे लगता है कि टॉम बहरा है।
-I think Tom is deaf.	Ich glaube, Tom ist taub.	मुझे लगता है कि टॉम बहरा है।
-I think Tom is fine.	Ich denke, Tom geht es gut.	मुझे लगता है कि टॉम अच्छा कर रहा है।
-I think Tom is good.	Ich denke, Tom ist gut.	मुझे लगता है कि टॉम अच्छा है।
-I think Tom is here.	Ich denke, Tom ist hier.	मुझे लगता है कि टॉम यहाँ है।
-I think Tom is kind.	Ich finde Tom nett.	मुझे लगता है कि टॉम अच्छा है।
-I think Tom is rich.	Ich denke, Tom ist reich.	मुझे लगता है कि टॉम अमीर है।
-I think Tom is sick.	Ich glaube, Tom ist krank.	मुझे लगता है कि टॉम बीमार है।
-I think Tom is sick.	Ich denke, Tom ist krank.	मुझे लगता है कि टॉम बीमार है।
 I think Tom is tall.	Ich halte Tom für groß.	मुझे लगता है कि टॉम बड़ा है।
 I think Tom is ugly.	Ich finde Tom hässlich.	मुझे टॉम बदसूरत लगता है।
 I think Tom laughed.	Ich glaube, Tom hat gelacht.	मुझे लगता है कि टॉम हँसे।
