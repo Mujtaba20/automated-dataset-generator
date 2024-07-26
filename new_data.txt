@@ -21863,3 +21863,13 @@ I'll see you again.	Ich werde dich wiedersehen.	मैं फिरसे तु
 I'll see you later.	Bis später!	बाद में मिलेंगे!
 I'll see you there.	Ich werde dich dort sehen.	मैं तुम्हें वहाँ देखूँगा।
 I'll set the table.	Ich werde den Tisch decken.	मैं मेज सजाऊँगा।
+I'll shut the door.	Ich werde die Tür schließen.	मैं दरवाजा बंद कर दूंगा।
+I'll stop by later.	Ich werde später vorbeikommen.	मैं बाद में रुकूंगा।
+I'll take Tom home.	Ich werde Tom nach Hause bringen.	मैं टॉम को घर ले जाऊंगा।
+I'll take Tom home. - Version 2	Ich werde Tom mit nach Hause nehmen.	मैं टॉम को घर ले जाऊंगा। - संस्करण 2
+I'll take that one.	Ich werde das nehmen.	मैं वह लेलूंगा।
+I'll take that one. - Version 2	Ich werde diesen hier nehmen.	मैं यह लेलूंगा। - संस्करण 2
+I'll take the risk.	Ich werde das Risiko eingehen.	मैं खतरा उठाऊंगा।
+I'll take this one.	Ich werde dieses nehmen.	मैं यह लेलूंगा।
+I'll take you home.	Ich werde dich nach Hause bringen.	मैं तुम्हें घर ले जाऊंगा।
+I'll take you home. - Version 2	Ich werde dich mit nach Hause nehmen.	मैं तुम्हें घर ले जाऊंगा। - संस्करण 2

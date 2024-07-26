@@ -1,14 +1,4 @@
 
-I'll shut the door.	Ich werde die Türe schließen.	मैं दरवाजा बंद कर दूंगा।
-I'll stop by later.	Ich komme später vorbei.	मैं बाद में आऊंगा।
-I'll take Tom home.	Ich bringe Tom nach Hause.	मैं टॉम को घर ले आया।
-I'll take Tom home.	Ich werde Tom nach Hause bringen.	मैं टॉम को घर लाऊंगा।
-I'll take that one.	Ich nehme dieses.	मैं इसे लेता हूँ।
-I'll take that one.	Ich werde das dort nehmen.	मैं वहाँ ले जाऊंगा।
-I'll take the risk.	Ich werde das Risiko eingehen.	मैं जोखिम उठाएगा।
-I'll take this one.	Ich nehme dieses.	मैं इसे लेता हूँ।
-I'll take you home.	Ich bringe dich nach Hause.	मैं तुम्हें घर ले जाऊंगा।
-I'll take you home.	Ich werde dich nach Hause bringen.	मैं तुम्हें घर ले जाऊंगा।
 I'll tell Tom that.	Ich werde das Tom sagen.	मैं टॉम कहूंगा।
 I'll tell him that.	Ich werde es ihm sagen.	मै उसे बोलूंगा।
 I'll think it over.	Ich überlege es mir noch mal.	मैं इसके बारे में फिर से सोचता हूं।
