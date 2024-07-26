@@ -30830,3 +30830,11 @@ Draw a straight line.	Zeichne eine gerade Linie.	एक सीधी रेख�
 Dublin is in Ireland.	Dublin ist in Irland.	डबलिन आयरलैंड में है।
 Eat your food slowly.	Iss dein Essen langsam.	अपना भोजन धीरे से खाओ।
 Either way, you lose.	So oder so, du verlierst.	चाहे जैसे भी हो, तुम हारते हो।
+Enjoy your breakfast.	Genießen Sie Ihr Frühstück.	अपना नाश्ता आनंद लें।
+Even Tom was baffled.	Selbst Tom war baff.	चौंकाने के लिए भी टॉम था।
+Everybody got scared.	Jeder erschrak.	सभी डर गए।
+Everybody hates them.	Jeder hasst sie.	सभी उन्हें नफरत करते हैं।
+Everybody is excited.	Jeder ist aufgeregt.	सभी उत्साहित हैं।
+Everybody knows that.	Das weiß jeder.	सभी जानते हैं।
+Everybody likes them.	Jeder mag sie.	सभी उन्हें पसंद करते हैं।
+Everybody trusts Tom.	Jeder vertraut Tom.	सभी टॉम पर भरोसा करते हैं।
