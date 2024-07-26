@@ -29967,3 +29967,9 @@ Who do you work for?	Für wen arbeitest du?	तुम किसके लिए 
 Who doesn't do that?	Wer macht das nicht?	यह कौन नहीं करता?
 Who found my wallet?	Wer hat meine Brieftasche gefunden?	मेरी वॉलेट किसने ढूंढी?
 Who found my wallet? (Different meaning)	Wer fand meine Brieftasche?	मेरी वॉलेट किसने पाई?
+Who is that old man?	Wer ist dieser alte Mann?	वह कौन है?
+Who is your teacher?	Wer ist dein Lehrer?	तुम्हारे शिक्षक कौन हैं?
+Who knew about this?	Wer wusste davon?	किसे इसके बारे में पता था?
+Who let you in here?	Wer hat dich hier reingelassen?	यहाँ आने की अनुमति किसने दी?
+Who might know that?	Wer könnte das wissen?	यह किसे पता हो सकता है?
+Who owns that house?	Wem gehört das Haus?	उस घर का मालिक कौन है?

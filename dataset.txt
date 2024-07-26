@@ -1,14 +1,4 @@
 
-Who is that old man?	Wer ist dieser alte Mann?	यह बूढ़ा आदमी कौन है?
-Who is your teacher?	Wer ist euer Lehrer?	आपके शिक्षक कौन है?
-Who is your teacher?	Wer ist dein Lehrer?	आपके शिक्षक कौन है?
-Who is your teacher?	Wer ist Ihr Lehrer?	आपके शिक्षक कौन है?
-Who knew about this?	Wer wusste davon?	इसके बारे में कौन जानता था?
-Who let you in here?	Wer hat dich hier hereingelassen?	आपको यहाँ किसने दिया?
-Who let you in here?	Wer hat Sie hier hereingelassen?	उसे यहाँ किसने दिया?
-Who let you in here?	Wer hat euch hier hereingelassen?	आप यहाँ किसने आने देते हैं?
-Who might know that?	Wer könnte das wissen?	कौन जान सकता है?
-Who owns that house?	Wem gehört das Haus?	घर का मालिक कौन है?
 Who owns this house?	Wem gehört dieses Haus?	इस घर का मालिक कौन है?
 Who owns this truck?	Wessen LKW ist dies?	यह किसका ट्रक है?
 Who owns this villa?	Wem gehört diese Villa?	यह विला किसका है?
