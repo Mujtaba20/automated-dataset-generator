@@ -1,14 +1,4 @@
 
-Does your father know?	Weiß es dein Vater?	क्या आपके पिता को पता है?
-Does your father know?	Weiß dein Vater davon?	क्या आपके पिता इसके बारे में जानते हैं?
-Does your mother know?	Weiß es deine Mutter?	क्या तुम्हारी माँ जानती है?
-Does your mother know?	Weiß deine Mutter davon?	क्या आपकी माँ को इसके बारे में पता है?
-Does your throat hurt?	Hast du Halsschmerzen?	क्या आपके गले में खराश है
-Does your throat hurt?	Haben Sie Halsschmerzen?	क्या आपके पास गले में खराश है?
-Doesn't Tom like Mary?	Mag Tom Maria nicht?	टॉम मारिया पसंद नहीं है?
-Doesn't Tom live here?	Wohnt Tom nicht hier?	क्या टॉम यहाँ नहीं रहता है?
-Doesn't Tom look good?	Sieht Tom nicht gut aus?	क्या टॉम अच्छा नहीं दिखता?
-Doesn't Tom look good?	Ist Tom nicht gutaussehend?	क्या टॉम हैंडसम नहीं है?
 Doesn't anyone listen?	Hört denn keiner zu?	कोई भी सुनता है?
 Doesn't it taste good?	Schmeckt es nicht gut?	क्या यह अच्छा स्वाद नहीं है?
 Doesn't that look fun?	Sieht das nach Spaß aus?	क्या यह मजेदार लगता है?

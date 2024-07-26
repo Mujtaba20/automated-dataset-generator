@@ -36475,3 +36475,9 @@ Does this really work?	Funktioniert das tatsächlich?	क्या यह वा
 Does this ring a bell?	Klingelt da was?	क्या यह कुछ कहता है?
 Does this spider bite?	Beißen diese Spinne?	क्या यह मकड़ी काटती है?
 Does this window open?	Öffnet sich dieses Fenster?	क्या यह खिड़की खुलती है?
+Does your father know?	Weiß Ihr Vater Bescheid?	क्या आपके पिताजी को पता है?
+Does your mother know?	Weiß Ihre Mutter Bescheid?	क्या आपकी माँ को पता है?
+Does your throat hurt?	Tut Ihr Hals weh?	क्या आपके गले में दर्द है?
+Doesn't Tom like Mary?	Mag Tom Mary nicht?	क्या टॉम को मेरी पसंद नहीं है?
+Doesn't Tom live here?	Wohnt Tom nicht hier?	क्या टॉम यहाँ नहीं रहता?
+Doesn't Tom look good?	Sieht Tom nicht gut aus?	क्या टॉम अच्छा नहीं लगता?
