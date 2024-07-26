@@ -26349,3 +26349,13 @@ I have to stop this.	Ich muss das stoppen.	मुझे इसे रोकन�
 I have to study now.	Ich muss jetzt lernen.	मुझे अब पढ़ाई करनी है।
 I have to thank him.	Ich muss ihm danken.	मुझे उसका धन्यवाद देना है।
 I have to visit Tom.	Ich muss Tom besuchen.	मुझे टॉम को देखना है।
+I have two brothers.	Ich habe zwei Brüder.	मेरे पास दो भाई हैं।
+I have two children.	Ich habe zwei Kinder.	मेरे पास दो बच्चे हैं।
+I have weird dreams.	Ich habe seltsame Träume.	मेरे पास अजीब सपने हैं।
+I have work for Tom.	Ich habe Arbeit für Tom.	मेरे पास टॉम के लिए काम है।
+I have you to thank.	Ich habe dir zu danken.	मुझे आपका धन्यवाद देना है।
+I haven't eaten yet.	Ich habe noch nicht gegessen.	मैंने अभी तक नहीं खाया है।
+I haven't forgotten.	Ich habe nicht vergessen.	मैं भूल नहीं गया हूँ।
+I haven't had lunch.	Ich habe noch nicht zu Mittag gegessen.	मैंने अभी तक दोपहर का खाना नहीं खाया है।
+I hear with my ears.	Ich höre mit meinen Ohren.	मैं अपनी कानों से सुनता हूँ।
+I heard Tom is sick.	Ich habe gehört, dass Tom krank ist.	मैंने सुना है कि टॉम बीमार है।

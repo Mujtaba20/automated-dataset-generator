@@ -1,14 +1,4 @@
 
-I have two brothers.	Ich habe zwei Brüder.	मेरे दो भाई हैं।
-I have two children.	Ich habe zwei Kinder.	मेरे दो बच्चे हैं।
-I have weird dreams.	Ich habe seltsame Träume.	मेरे अजीब सपने हैं।
-I have work for Tom.	Ich habe Arbeit für Tom.	मेरे पास टॉम के लिए काम है।
-I have you to thank.	Ich muss dir danken.	मुझे धन्यवाद देना है।
-I haven't eaten yet.	Ich habe noch nicht gegessen.	मैंने अभी तक नहीं खाया है।
-I haven't forgotten.	Ich habe es nicht vergessen.	मैं इसे नहीं भूल पाया।
-I haven't had lunch.	Ich habe noch nicht zu Mittag gegessen.	मैंने अभी तक दोपहर को नहीं खाया है।
-I hear with my ears.	Ich höre mit meinen Ohren.	मैं अपने कानों से सुनता हूं।
-I heard Tom is sick.	Ich hörte, dass Tom krank ist.	मैंने सुना कि टॉम बीमार था।
 I heard Tom's voice.	Ich hörte Toms Stimme.	मैंने टॉम की आवाज सुनी।
 I heard Tom's voice.	Ich habe Toms Stimme gehört.	मैंने टॉम की आवाज सुनी।
 I heard her singing.	Ich hörte sie singen.	मैंने उसे गाना सुना।
