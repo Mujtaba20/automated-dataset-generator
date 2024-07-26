@@ -32921,3 +32921,11 @@ It's started snowing.	Es hat angefangen zu schneien.	बर्फ गिरन�
 It's started to snow.	Es hat angefangen zu schneien.	बर्फ गिरना शुरू हो गया है।
 It's still breathing.	Es atmet immer noch.	यह अब भी श्वास ले रहा है।
 It's still happening.	Es passiert immer noch.	यह अब भी हो रहा है।
+It's still light out.	Es ist immer noch hell draußen.	यह अभी भी दिन का जगह है।
+It's still new to me.	Es ist für mich immer noch neu.	यह मेरे लिए अभी भी नया है।
+It's stopped snowing.	Es hat aufgehört zu schneien.	बर्फ गिरना बंद हो गया है।
+It's taking too long.	Es dauert zu lange.	यह बहुत लंबा समय ले रहा है।
+It's terribly urgent.	Es ist schrecklich dringend.	यह भयानक तत्काल है।
+It's time for dinner.	Es ist Zeit zum Abendessen.	खाने का समय है।
+It's time to go home.	Es ist Zeit nach Hause zu gehen.	घर जाने का समय है।
+It's time to wake up.	Es ist Zeit zum Aufwachen.	उठने का समय है।

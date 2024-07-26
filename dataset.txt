@@ -1,14 +1,4 @@
 
-It's still light out.	Draußen ist es noch hell.	यह अभी भी बाहर प्रकाश है।
-It's still new to me.	Das ist immer noch neu für mich.	यह अभी भी मेरे लिए नया है।
-It's stopped snowing.	Es hat aufgehört zu schneien.	इसने बर्फबारी बंद कर दी।
-It's taking too long.	Es dauert zu lange.	यह भी लंबा समय लेता है।
-It's terribly urgent.	Es ist furchtbar dringend.	यह बहुत जरूरी है।
-It's terribly urgent.	Es ist fürchterlich dringend.	यह बहुत जरूरी है।
-It's time for dinner.	Es ist Zeit für das Abendessen.	रात्रि भोजन का समय हो गया है।
-It's time for dinner.	Zeit zum Abendessen.	रात के खाने का समय।
-It's time to go home.	Es ist Zeit nach Hause zu gehen.	यह घर जाने का समय है।
-It's time to wake up.	Es ist an der Zeit, aufzuwachen.	यह जागने का समय है।
 It's too cold for me.	Das ist zu kalt für mich.	यह मेरे लिए बहुत ठंडा है।
 It's too complicated.	Es ist zu kompliziert.	यह बहुत जटिल है।
 It's too far to walk.	Das ist zu Fuß zu weit.	यह बहुत दूर पैदल है।
