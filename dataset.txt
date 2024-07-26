@@ -1,14 +1,4 @@
 
-Tom knows who did this.	Tom weiß, wer das getan hat.	टॉम जानता है कि ऐसा किसने किया।
-Tom knows who they are.	Tom weiß, wer sie sind.	टॉम जानता है कि वे कौन हैं।
-Tom lacks common sense.	Es fehlt Tom an gesundem Menschenverstand.	टॉम में सामान्य ज्ञान का अभाव है।
-Tom lacks decisiveness.	Es fehlt Tom an Entschlusskraft.	टॉम एक निर्णय की शक्ति से गायब है।
-Tom landed a big trout.	Tom landete eine große Forelle.	टॉम एक बड़े ट्राउट में उतरा।
-Tom laughed at himself.	Tom lachte über sich selbst.	टॉम खुद पर हँसे।
-Tom laughed at my joke.	Tom lachte über meinen Witz.	टॉम मेरे मजाक पर हंसते हुए।
-Tom laughed at my joke.	Tom hat über meinen Witz gelacht.	टॉम मेरे मजाक पर हंसते हुए।
-Tom laughed in my face.	Tom lachte mir ins Gesicht.	टॉम मेरे चेहरे पर हँसे।
-Tom laughed to himself.	Tom lachte bei sich.	टॉम उसके साथ हँसे।
 Tom leads a quiet life.	Tom führt ein ruhiges Leben.	टॉम एक शांत जीवन का नेतृत्व करता है।
 Tom learned a new word.	Tom hat ein neues Wort gelernt.	टॉम ने एक नया शब्द सीखा।
 Tom led us into a trap.	Tom hat uns in eine Falle geführt.	टॉम ने हमें एक जाल में ले जाया।
