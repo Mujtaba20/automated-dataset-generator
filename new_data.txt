@@ -34999,3 +34999,13 @@ Tom was up all night.	Tom war die ganze Nacht wach.	टॉम पूरी र�
 Tom was very annoyed.	Tom war sehr verärgert.	टॉम बहुत परेशान था।
 Tom was very careful.	Tom war sehr vorsichtig.	टॉम बहुत सावधान था।
 Tom was very excited.	Tom war sehr aufgeregt.	टॉम बहुत उत्साहित था।
+Tom was very jealous.	Tom war sehr eifersüchtig.	टॉम बहुत ईर्ष्यालु था।
+Tom was very naughty.	Tom war sehr ungezogen.	टॉम बहुत शरारती था।
+Tom was very nervous.	Tom war sehr nervös.	टॉम बहुत घबराया हुआ था।
+Tom was very patient.	Tom war sehr geduldig.	टॉम बहुत सब्रशील था।
+Tom was very pleased.	Tom war sehr erfreut.	टॉम खुश था।
+Tom was very popular.	Tom war sehr beliebt.	टॉम बहुत प्रसिद्ध था।
+Tom was very popular. (different meaning)	Tom war sehr populär.	टॉम बहुत लोकप्रिय था।
+Tom was very puzzled.	Tom war sehr verwirrt.	टॉम बहुत उलझा हुआ था।
+Tom was very relaxed.	Tom war sehr entspannt.	टॉम बहुत आराम से था।
+Tom was very selfish.	Tom war sehr egoistisch.	टॉम बहुत स्वार्थी था।
