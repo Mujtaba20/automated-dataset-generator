@@ -40898,3 +40898,12 @@ Tom went for a doctor.	Tom ging zu einem Arzt.	टॉम डॉक्टर क�
 Tom went for a stroll.	Tom machte einen Spaziergang.	टॉम एक सैर पर गया।
 Tom went home at 6:30.	Tom ging um 6:30 Uhr nach Hause.	टॉम 6:30 बजे घर चला गया।
 Tom went home by taxi.	Tom ging mit dem Taxi nach Hause.	टॉम ने टैक्सी से घर जाना।
+Tom went home on foot.	Tom ging zu Fuß nach Hause.	टॉम कदमों पर घर गया।
+Tom went to bed early.	Tom ging früh ins Bett.	टॉम जल्दी सो गया।
+Tom will be exhausted.	Tom wird erschöpft sein.	टॉम थक जाएगा।
+Tom will be here soon.	Tom wird bald hier sein.	टॉम जल्द ही यहाँ होगा।
+Tom will be next door.	Tom wird nebenan sein.	टॉम अगले दरवाजे पर होंगे।
+Tom will be surprised.	Tom wird überrascht sein.	टॉम हैरान हो जाएगा।
+Tom will check it out.	Tom wird es überprüfen.	टॉम जांच करेगा।
+Tom will come at 2:30.	Tom wird um 2:30 Uhr kommen.	टॉम 2:30 बजे आएगा।
+Tom will come at noon.	Tom wird mittags kommen.	टॉम दोपहर में आएगा।

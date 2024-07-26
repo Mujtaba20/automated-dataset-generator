@@ -1,14 +1,4 @@
 
-Tom went home on foot.	Tom ist zu Fuß nach Hause gegangen.	टॉम पैदल घर गया।
-Tom went to bed early.	Tom ging früh ins Bett.	टॉम जल्दी बिस्तर पर चला गया।
-Tom will be exhausted.	Tom wird erschöpft sein.	टॉम थक जाएगा।
-Tom will be here soon.	Tom wird bald hier sein.	टॉम जल्द ही यहां आ जाएगा।
-Tom will be next door.	Tom wird nebenan sein.	टॉम अगले दरवाजे पर होगा।
-Tom will be surprised.	Tom wird überrascht sein.	टॉम आश्चर्यचकित हो जाएगा।
-Tom will check it out.	Tom wird es prüfen.	टॉम इसकी जाँच करेगा।
-Tom will come at 2:30.	Tom kommt um halb drei.	टॉम पिछले दो में आता है।
-Tom will come at 2:30.	Tom kommt um 2.30 Uhr.	टॉम 2.30 बजे आता है।
-Tom will come at noon.	Tom kommt am Mittag.	टॉम दोपहर में आता है।
 Tom will come with me.	Tom wird mich begleiten.	टॉम मेरे साथ जाएगा।
 Tom will come with me.	Tom wird mit mir kommen.	टॉम मेरे साथ आएगा।
 Tom will confirm that.	Tom wird das bestätigen.	टॉम इसकी पुष्टि करेगा।
