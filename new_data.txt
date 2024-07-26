@@ -32740,3 +32740,13 @@ Is this good English?	Ist das gutes Englisch?	क्या यह अच्छ�
 Is this how it works?	Funktioniert das so?	क्या यह ऐसे ही काम करता है?
 Is this pencil yours?	Ist dieser Bleistift deiner?	क्या यह पेंसिल तुम्हारी है?
 Is this your bicycle?	Ist das dein Fahrrad?	क्या यह तुम्हारी साइकिल है?
+Is this your picture?	Ist dies Ihr Bild?	क्या यह आपकी तस्वीर है?
+Is tomorrow Saturday?	Ist morgen Samstag?	क्या कल शनिवार है?
+Is tomorrow Saturday? (different meaning)	Wird morgen Samstag sein?	क्या कल शनिवार होगा?
+Is your wife at home?	Ist deine Frau zu Hause?	क्या आपकी पत्नी घर पर है?
+Isn't Tom courageous?	Ist Tom nicht mutig?	क्या टॉम साहसी नहीं है?
+Isn't it a bit small?	Ist es nicht ein bisschen klein?	क्या यह थोड़ा छोटा नहीं है?
+Isn't it infuriating?	Ist es nicht ärgerlich?	क्या यह गुस्से वाला नहीं है?
+Isn't life beautiful?	Ist das Leben nicht schön?	क्या जीवन सुंदर नहीं है?
+Isn't life beautiful? (different meaning)	Ist das Leben nicht schockierend?	क्या जीवन सुंदर नहीं है?
+Isn't she a knockout?	Ist sie nicht umwerfend?	क्या वह खतरनाक नहीं है?
