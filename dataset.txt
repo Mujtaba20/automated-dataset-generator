@@ -1,14 +1,4 @@
 
-I am getting strong.	Ich erstarke!	मैं मजबूत!
-I am going to do it.	Ich werde es tun.	मैं यह करूंगा।
-I am going to study.	Ich habe vor zu studieren.	मैं अध्ययन करने की योजना बना रहा हूं।
-I am in Tokyo today.	Ich bin heute in Tokio.	मैं आज टोक्यो में हूं।
-I am in charge here.	Ich habe hier das Kommando.	मेरे पास यहाँ आज्ञा है।
-I am like my father.	Ich bin wie mein Vater.	मैं अपने पिता की तरह हूं।
-I am like my sister.	Ich bin wie meine Schwester.	मैं अपनी बहन की तरह हूं।
-I am not a Canadian.	Ich bin kein Kanadier.	मैं कनाडाई नहीं हूं।
-I am not from India.	Ich bin nicht aus Indien.	मैं भारत से नहीं हूं।
-I am not interested.	Ich bin nicht interessiert.	मुझे कोई दिलचस्पी नहीं है.
 I am off duty today.	Heute habe ich arbeitsfrei.	आज मेरे पास काम है।
 I am often mistaken.	Ich irre mich oft.	मैं अक्सर गलत हूं।
 I am older than him.	Ich bin älter als er.	मैं उससे बड़ी हूँ।

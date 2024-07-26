@@ -26013,3 +26013,13 @@ I am eating noodles.	Ich esse Nudeln.	मैं नूडल्स खा रह
 I am engaged to her.	Ich bin mit ihr verlobt.	मैं उससे एंगेज हूँ।
 I am fed up with it.	Ich habe die Nase voll davon.	मुझे इससे बहुत हो गया है।
 I am fed up with it. (Different meaning)	Ich habe davon die Nase voll.	मैं इससे बोर हो गया हूँ।
+I am getting strong.	Ich werde stark.	मैं मजबूत हो रहा हूँ।
+I am going to do it.	Ich werde es tun.	मैं इसे करने जा रहा हूँ।
+I am going to study.	Ich werde studieren.	मैं पढ़ाई करने जा रहा हूँ।
+I am in Tokyo today.	Ich bin heute in Tokio.	मैं आज टोक्यो में हूँ।
+I am in charge here.	Ich bin hier verantwortlich.	मैं यहाँ जिम्मेदार हूँ।
+I am like my father.	Ich bin wie mein Vater.	मैं मेरे पिताजी की तरह हूँ।
+I am like my sister.	Ich bin wie meine Schwester.	मैं मेरी बहन की तरह हूँ।
+I am not a Canadian.	Ich bin kein Kanadier.	मैं कनाडियन नहीं हूँ।
+I am not from India.	Ich komme nicht aus Indien.	मैं भारत से नहीं हूँ।
+I am not interested.	Ich habe kein Interesse.	मुझे दिलचस्पी नहीं है।
