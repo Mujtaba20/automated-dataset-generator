@@ -27283,3 +27283,13 @@ Is your father rich?	Ist dein Vater reich?	क्या तुम्हारे
 Is your mom at home?	Ist deine Mutter zu Hause?	क्या तुम्हारी माँ घर पर है?
 Is your mother here?	Ist deine Mutter hier?	क्या तुम्हारी माँ यहाँ है?
 Isn't that childish?	Ist das nicht kindisch?	क्या यह बचकाना नहीं है?
+Isn't that overkill?	Ist das nicht übertrieben?	क्या यह अत्यधिक नहीं है?
+Isn't that overkill? (different meaning)	Ist das nicht zu viel des Guten?	क्या यह काफी नहीं है?
+Isn't that the plan?	Ist das nicht der Plan?	क्या यह एक योजना नहीं है?
+Isn't this fun, Tom?	Ist das nicht lustig, Tom?	क्या यह मज़ेदार नहीं है, टॉम?
+It cannot last long.	Es kann nicht lange dauern.	यह लंबे समय तक नहीं रह सकता।
+It cannot last long. (different meaning)	Es wird nicht ewig dauern.	यह अनंत काल तक नहीं जीवित रहेगा।
+It could take hours.	Es könnte Stunden dauern.	यह घंटे तक ले सकता है।
+It didn't cost much.	Es hat nicht viel gekostet.	इसका मूल्य पर्याप्त नहीं था।
+It doesn't worry me.	Es beunruhigt mich nicht.	यह मुझे चिंता नहीं है।
+It expires tomorrow.	Es läuft morgen ab.	यह कल समाप्त हो जाएगा।
