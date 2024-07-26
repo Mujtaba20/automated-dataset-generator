@@ -23043,3 +23043,9 @@ The spider is dead.	Die Spinne ist tot.	मकड़ी मर गई है।
 The spoon is dirty.	Der Löffel ist schmutzig.	चमच गंदा है।
 The stamp came off.	Der Stempel fiel ab.	टिकट निकल गया।
 The stars came out.	Die Sterne kamen heraus.	तारे निकल आए।
+The store's closed.	Das Geschäft ist geschlossen.	दुकान बंद है।
+The story was true.	Die Geschichte war wahr.	कहानी सच्ची थी।
+The summer is over.	Der Sommer ist vorbei.	गर्मी समाप्त हो गई है।
+The sun is setting.	Die Sonne geht unter.	सूरज अंतिम किरणों में जा रहा है।
+The sun is shining.	Die Sonne scheint.	सूरज चमक रहा है।
+The sun was bright.	Die Sonne war hell.	सूरज उज्ज्वल था।

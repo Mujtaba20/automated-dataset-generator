@@ -1,14 +1,4 @@
 
-The store's closed.	Der Laden ist geschlossen.	दुकान बंद है।
-The store's closed.	Der Laden hat zu.	दुकान है।
-The story was true.	Die Geschichte war wahr.	कहानी सच थी।
-The story was true.	Es war eine wahre Geschichte.	यह एक वास्तविक कहानी थी।
-The story was true.	Die Geschichte stimmte.	कहानी सही थी।
-The summer is over.	Der Sommer ist vorbei.	गर्मियाँ खत्म हो गईं।
-The summer is over.	Der Sommer ist vorüber.	गर्मियाँ खत्म हो गईं।
-The sun is setting.	Die Sonne geht unter.	सूरज डूबता है।
-The sun is shining.	Die Sonne scheint.	सूरज चमक रहा है।
-The sun was bright.	Die Sonne schien hell.	सूरज उज्ज्वल लग रहा था।
 The table is green.	Der Tisch ist grün.	तालिका हरी है।
 The thief ran away.	Der Dieb rannte weg.	चोर भाग गया।
 The thief ran fast.	Der Dieb rannte schnell.	चोर जल्दी से भाग गया।
