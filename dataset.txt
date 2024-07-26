@@ -1,14 +1,4 @@
 
-Do you see my point?	Verstehst du, worauf ich hinaus will?	क्या आप समझते हैं कि मैं क्या जाना चाहता हूं?
-Do you smoke cigars?	Rauchst du Zigarren?	क्या आप सिगार धूम्रपान करते हैं?
-Do you smoke cigars?	Rauchen Sie Zigarren?	क्या आप सिगार धूम्रपान करते हैं?
-Do you smoke cigars?	Raucht ihr Zigarren?	क्या आप सिगार धूम्रपान करते हैं?
-Do you speak French?	Sprechen Sie Französisch?	क्या आप फ़्रेंच बोलते हैं?
-Do you speak French?	Sprichst du Französisch?	क्या आप फ़्रेंच बोलते हैं?
-Do you speak French?	Sprecht ihr Französisch?	क्या आप फ़्रेंच बोलते हैं?
-Do you study French?	Lernst du Französisch?	क्या आप फ्रेंच सीखते हैं?
-Do you think I care?	Glauben Sie, das kümmert mich?	क्या आपको लगता है कि मेरा ख्याल रखता है?
-Do you want a drink?	Möchtest du etwas trinken?	क्या आप को कुछ पीने के लिए चाहिए?
 Do you want popcorn?	Popcorn gefällig?	पॉपकॉर्न प्रसन्न?
 Do you want the job?	Willst du die Stelle?	क्या आप नौकरी चाहते हैं?
 Do you want the job?	Wollen Sie die Stelle?	क्या आप नौकरी चाहते हैं?

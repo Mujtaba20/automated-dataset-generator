@@ -25367,3 +25367,9 @@ Do you not like Tom?	Magst du Tom nicht?	क्या आपको टॉम प
 Do you recognize it?	Erkennst du es?	क्या तुम्हें इसे पहचानने में समय लगेगा?
 Do you see anything?	Siehst du etwas?	क्या आपको कुछ दिखाई दे रहा है?
 Do you feel good, Tom?	Fühlen Sie sich gut, Tom?	क्या टॉम, आप अच्छा महसूस कर रहे हैं?
+Do you see my point?	Verstehst du meinen Standpunkt?	क्या तुम मेरे दृष्टिकोण को समझ रहे हो?
+Do you smoke cigars?	Rauchst du Zigarren?	क्या तुम सिगरेट पीते हो?
+Do you speak French?	Sprichst du Französisch?	क्या तुम फ्रेंच बोलते हो?
+Do you study French?	Studierst du Französisch?	क्या तुम फ्रेंच पढ़ते हो?
+Do you think I care?	Denkst du, es interessiert mich?	क्या तुम समझते हो कि मुझे परवाह है?
+Do you want a drink?	Möchtest du etwas trinken?	क्या आपको कुछ पीना है?
