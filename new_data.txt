@@ -22788,3 +22788,8 @@ She's thirty-three.	Sie ist dreiunddreißig Jahre alt.	उसकी उम्र
 Should we call Tom?	Sollen wir Tom anrufen?	क्या हमें टॉम को फ़ोन करना चाहिए?
 Show me an example.	Zeig mir ein Beispiel.	मुझे एक उदाहरण दिखाओ।
 Show me an example. 2	Zeigen Sie mir ein Beispiel.	मुझे एक उदाहरण देखाओ।
+Shut off the water.	Schalten Sie das Wasser ab.	पानी बंद करो।
+Shut up and listen!	Sei still und hör zu!	चुप रहें और सुनें!
+Shut up and listen.	Halt den Mund und höre zu.	चुप रहो और सुनो।
+Sleep is necessary.	Schlaf ist notwendig.	नींद आवश्यक है।
+Slip on your shoes.	Schlüpf in deine Schuhe.	अपने जूते पहनो।

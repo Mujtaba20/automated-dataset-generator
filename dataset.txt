@@ -1,15 +1,4 @@
 
-Shut off the water.	Stell das Wasser ab!	पानी सेट करें!
-Shut up and listen!	Halt die Klappe und hör zu!	फ्लैप पकड़ो और सुनो!
-Shut up and listen!	Sei ruhig und hör zu!	शांत रहो और सुनो!
-Shut up and listen!	Sei still und hör zu!	चुप रहो और सुनो!
-Shut up and listen!	Halt den Mund und hör zu!	अपना मुँह पकड़ो और सुनो!
-Shut up and listen.	Sei still und höre zu!	चुप रहो और सुनो!
-Shut up and listen.	Halt den Mund und hör zu!	अपना मुँह पकड़ो और सुनो!
-Sleep is necessary.	Schlaf ist notwendig.	नींद आवश्यक है।
-Slip on your shoes.	Zieh dir deine Schuhe an.	अपने जूते कस लें।
-Slip on your shoes.	Zieht euch eure Schuhe an.	अपने जूते ले लो।
-Slip on your shoes.	Ziehen Sie sich Ihre Schuhe an.	अपने जूते पहन लो।
 Some juice, please.	Etwas Saft, bitte.	कुछ रस, कृपया।
 Some water, please.	Etwas Wasser, bitte.	कुछ पानी, कृपया।
 Somebody's singing.	Jemand singt.	कोई गाता है।
