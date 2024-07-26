@@ -1,15 +1,4 @@
 
-Do you have a pencil?	Hast du einen Bleistift?	क्या तुम्हारे पास एक पेंसिल है?
-Do you have a second?	Hast du kurz Zeit?	क्या आपके पास कम समय है?
-Do you have a second?	Hast du mal eine Sekunde Zeit?	क्या आपके पास दूसरा है?
-Do you have a sister?	Hast du eine Schwester?	आपक कोई बहन है क्या?
-Do you have a sister?	Haben Sie eine Schwester?	आपक कोई बहन है क्या?
-Do you have a tattoo?	Haben Sie eine Tätowierung?	आपे गोदना गुदाया है?
-Do you have a tattoo?	Hast du eine Tätowierung?	आपे गोदना गुदाया है?
-Do you have a tattoo?	Hast du ein Tattoo?	आपे गोदना गुदाया है?
-Do you have a theory?	Haben Sie eine Theorie?	क्या आपके पास एक सिद्धांत है?
-Do you have a ticket?	Haben Sie ein Ticket?	क्या आपके पास टिकट है?
-Do you have a ticket?	Hast du ein Ticket?	क्या आपके पास टिकट है?
 Do you have a violin?	Hast du eine Geige?	क्या आपके पास वायलिन है?
 Do you have a violin?	Haben Sie eine Geige?	क्या आपके पास वायलिन है?
 Do you have a violin?	Hast du eine Violine?	क्या आपके पास वायलिन है?

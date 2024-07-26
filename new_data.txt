@@ -30657,3 +30657,9 @@ Do you have a garden?	Hast du einen Garten?	क्या आपके पास 
 Do you have a helmet?	Hast du einen Helm?	क्या आपके पास एक हेलमेट है?
 Do you have a minute?	Hast du eine Minute?	क्या आपके पास एक मिनट है?
 Do you have a moment?	Hast du einen Moment?	क्या आपके पास एक क्षण है?
+Do you have a pencil?	Hast du einen Bleistift?	क्या आपके पास एक पेंसिल है?
+Do you have a second?	Hast du noch einen?	क्या आपके पास एक दूसरा है?
+Do you have a sister?	Hast du eine Schwester?	क्या आपके पास एक बहन है?
+Do you have a tattoo?	Hast du ein Tatoo?	क्या आपके पास टैटू है?
+Do you have a theory?	Hast du eine Theorie?	क्या आपके पास कोई सिद्धांत है?
+Do you have a ticket?	Hast du ein Ticket?	क्या आपके पास एक टिकट है?
