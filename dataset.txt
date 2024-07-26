@@ -1,14 +1,4 @@
 
-Do you like folk music?	Magst du Volksmusik?	क्या आपको लोक संगीत पसंद है?
-Do you like folk music?	Mögen Sie Volksmusik?	क्या आपको लोक संगीत पसंद है?
-Do you like my clothes?	Magst du meine Sachen?	क्या आपको मेरी चीजें पसंद हैं?
-Do you like my clothes?	Gefallen dir meine Kleider?	क्या आपको मेरे कपड़े पसंद हैं?
-Do you like my new hat?	Gefällt dir mein neuer Hut?	क्या आपको मेरी नई टोपी पसंद है?
-Do you like spicy food?	Magst du scharfes Essen?	क्या आपको तेज भोजन पसंद है?
-Do you like spicy food?	Mögen Sie scharfes Essen?	क्या आपको तेज भोजन पसंद है?
-Do you like spicy food?	Mögt ihr scharfes Essen?	क्या आपको तेज भोजन पसंद है?
-Do you like that shirt?	Gefällt dir das Hemd?	क्या आपको शर्ट पसंद है?
-Do you like the colors?	Magst du die Farben?	क्या आपको रंग पसंद हैं?
 Do you like this color?	Magst du diese Farbe?	क्या आपको यह रंग पसंद है?
 Do you like this color?	Mögt ihr diese Farbe?	क्या आपको यह रंग पसंद है?
 Do you like this color?	Mögen Sie diese Farbe?	क्या आपको यह रंग पसंद है?
