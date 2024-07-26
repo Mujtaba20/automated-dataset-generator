@@ -41301,3 +41301,10 @@ What language is this?	Welche Sprache ist das?	यह कौनसी भाष�
 What made Tom do that?	Was hat Tom dazu gebracht, das zu tun?	टॉम को ऐसा क्यों करना पड़ा?
 What made Tom do that? - 2	Was hat Tom bewegt, das zu tun?	टॉम को उसे ऐसा क्यों करना पड़ा?
 What made her do that?	Was hat sie dazu gebracht, das zu tun?	उसने ऐसा क्यों किया?
+What made you do this?	Was hat dich dazu gebracht?	तुम्हें यह क्यों करना पड़ा?
+What makes you so sad?	Was macht dich so traurig?	तुम्हें इतना उदास क्यों करता है?
+What more can be said?	Was kann noch gesagt werden?	और क्या कहा जा सकता है?
+What more do you need?	Was brauchst du noch?	तुम्हें और क्या चाहिए?
+What more do you want?	Was willst du noch?	तुम्हें और क्या चाहिए?
+What needs to be done?	Was muss getan werden?	क्या किया जाना चाहिए?
+What on earth is that?	Was ist das auf Erden?	वह क्या है पृथ्वी पर?

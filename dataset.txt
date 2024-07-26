@@ -1,14 +1,4 @@
 
-What made you do this?	Was hat dich dazu gebracht?	तुम्हे ऐसा क्यों?
-What made you do this?	Was brachte dich dazu, das zu tun?	आपने क्या किया?
-What makes you so sad?	Was macht dich so traurig?	क्या आपको बहुत दुखी करता है?
-What more can be said?	Was gibt es sonst noch zu sagen?	कहने के लिए और क्या बचा है?
-What more do you need?	Was brauchst du sonst noch?	आपको और क्या चाहिए?
-What more do you need?	Was brauchen Sie sonst noch?	आपको और क्या चाहिए?
-What more do you want?	Was willst du noch?	अब तुम्हें और क्या चाहिए?
-What needs to be done?	Was muss man tun?	आपके पास करने के लिए क्या है?
-What on earth is that?	Was in aller Welt ist das?	पूरी दुनिया में वह क्या है?
-What on earth is this?	Was in aller Welt ist das?	पूरी दुनिया में वह क्या है?
 What should I do next?	Was sollte ich als nächstes tun?	अब मुझे क्या करना चाहिए?
 What should we do now?	Was sollen wir jetzt tun?	अब क्या करें?
 What should we expect?	Was sollten wir erwarten?	हमें क्या उम्मीद करनी चाहिए?
