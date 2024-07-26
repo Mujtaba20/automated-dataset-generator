@@ -1,14 +1,4 @@
 
-I want orange juice.	Ich will Orangensaft.	मुझे संतरे का रस चाहिए।
-I want to apologize.	Ich will mich entschuldigen.	मुझे आपसे क्षमा मांगनी है।
-I want to be famous.	Ich möchte berühmt sein.	मैं प्रसिद्ध होना चाहता हूँ।
-I want to come home.	Ich möchte nach Hause kommen.	मैं घर आना चाहता हूं।
-I want to come, too.	Ich möchte auch kommen!	मैं भी आना चाहता हूँ!
-I want to drink tea.	Ich möchte Tee trinken.	मैं चाय पीना चाहता हूं।
-I want to eat pizza.	Ich will Pizza.	मुझे पिज्जा चाहिए।
-I want to eat pizza.	Ich möchte Pizza.	मुझे पिज्जा चाहिए।
-I want to eat pizza.	Ich will Pizza essen.	मैं पिज्जा खाना चाहता हूं।
-I want to eat pizza.	Ich möchte Pizza essen.	मैं पिज्जा खाना चाहता हूं।
 I want to eat steak.	Ich will Steak essen.	मैं स्टेक खाना चाहता हूं।
 I want to get drunk.	Ich will mich betrinken.	मुझे पीकर मदहोश होना है।
 I want to get drunk.	Ich will mich besaufen.	मुझे पीकर मदहोश होना है।

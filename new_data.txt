@@ -26756,3 +26756,10 @@ I want my desk back.	Ich möchte meinen Schreibtisch zurück.	मुझे अ�
 I want my land back.	Ich möchte mein Land zurück.	मुझे अपना जमीन वापस चाहिए।
 I want my life back.	Ich möchte mein Leben zurück.	मुझे अपना जीवन वापस चाहिए।
 I want my money now.	Ich möchte mein Geld jetzt.	मुझे अब मेरा पैसा चाहिए।
+I want orange juice.	Ich möchte Orangensaft.	मुझे संतरे का रस चाहिए।
+I want to apologize.	Ich möchte mich entschuldigen.	मुझे माफ़ी माँगनी है।
+I want to be famous.	Ich möchte berühmt sein.	मुझे प्रसिद्ध होना है।
+I want to come home.	Ich möchte nach Hause kommen.	मुझे घर आना है।
+I want to come, too.	Ich möchte auch kommen.	मैं भी आना चाहता हूँ।
+I want to drink tea.	Ich möchte Tee trinken.	मुझे चाय पीनी है।
+I want to eat pizza.	Ich möchte Pizza essen.	मुझे पिज्जा खाना है।
