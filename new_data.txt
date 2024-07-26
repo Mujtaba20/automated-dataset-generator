@@ -29670,3 +29670,12 @@ We'll keep in touch.	Wir werden in Kontakt bleiben.	हम संपर्क �
 We'll leave at 2:30.	Wir werden um 2:30 Uhr gehen.	हम 2:30 बजे निकलेंगे।
 We'll miss you, Tom.	Wir werden dich vermissen, Tom.	हम तुम्हारी यादों में रहेंगे, टॉम।
 We'll miss you, too.	Auch wir werden dich vermissen.	हमें भी तुम्हें याद करेगा।
+We'll never do that.	Das werden wir nie tun.	हम ऐसा कभी नहीं करेंगे।
+We'll never make it.	Wir schaffen das nie.	हम कभी इसे नहीं बनाएंगे।
+We'll see you again.	Wir werden dich wiedersehen.	हम फिर से तुम्हें देखेंगे।
+We'll see you there.	Wir sehen uns dort.	हम वहां तुम्हें देखेंगे।
+We'll send somebody.	Wir werden jemanden schicken.	हम किसी को भेजेंगे।
+We'll soon find out.	Das werden wir bald herausfinden.	हम जल्दी ही पता लगा देंगे।
+We'll stop you, Tom.	Wir werden dich aufhalten, Tom.	हम तुम्हें रोक देंगे, टॉम।
+We'll take Tom home.	Wir werden Tom nach Hause bringen.	हम टॉम को घर ले जाएंगे।
+We'll take you home.	Wir bringen dich nach Hause.	हम तुम्हें घर ले जाएंगे।
