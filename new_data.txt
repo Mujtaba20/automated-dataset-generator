@@ -22501,3 +22501,12 @@ Maybe they gave up.	Vielleicht haben sie aufgehört.	शायद उन्ह�
 Maybe they're busy.	Vielleicht sind sie beschäftigt.	शायद वे व्यस्त हैं।
 Maybe you're right.	Vielleicht liegst du richtig.	शायद तुम सही हो।
 Meet me in an hour.	Triff mich in einer Stunde.	एक घंटे में मुलाकात करें।
+Milk is nutritious.	Milch ist nahrhaft.	दूध पौष्टिक है।
+Mistakes were made.	Fehler wurden gemacht.	गलतियाँ की गई थीं।
+Monday's a holiday.	Montag ist ein Feiertag.	सोमवार एक छुट्टी है।
+My answer is final.	Meine Antwort ist endgültig.	मेरा जवाब अंतिम है।
+My arm still hurts.	Mein Arm tut nach wie vor weh.	मेरी बांह अभी तक दर्द कर रही है।
+My battery is dead.	Mein Akku ist leer.	मेरा बैटरी मर गई है।
+My boots are muddy.	Meine Stiefel sind matschig.	मेरे बूट गंदे हैं।
+My car is a Toyota.	Mein Auto ist ein Toyota.	मेरी गाड़ी एक टोयोटा है।
+My car won't start.	Mein Auto startet nicht.	मेरी गाड़ी नहीं चलेगी।

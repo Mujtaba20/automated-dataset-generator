@@ -1,14 +1,4 @@
 
-Milk is nutritious.	Milch ist nahrhaft.	दूध पौष्टिक है।
-Mistakes were made.	Es wurden Fehler gemacht.	गलतियाँ हुईं।
-Monday's a holiday.	Am Montag ist Feiertag.	सोमवार को छुट्टी है।
-My answer is final.	Meine Antwort ist endgültig.	मेरा जवाब अंतिम है।
-My arm still hurts.	Mein Arm tut mir noch weh.	मेरी बांह अभी भी दर्द करती है।
-My arm still hurts.	Mir tut der Arm noch immer weh.	मेरी बांह अभी भी दर्द करती है।
-My battery is dead.	Mein Akku ist leer.	मेरी बैटरी खाली है।
-My boots are muddy.	Meine Stiefel sind schmutzig.	मेरे जूते गंदे हैं।
-My car is a Toyota.	Mein Auto ist ein Toyota.	मेरी कार एक टोयोटा है।
-My car won't start.	Mein Auto springt nicht an.	मेरी कार शुरू नहीं होती है।
 My dad just called.	Mein Vater hat gerade angerufen.	मेरे पिता ने बस फोन किया।
 My dog is very old.	Mein Hund ist sehr alt.	मेरा कुत्ता बहुत पुराना है।
 My door was closed.	Meine Tür war zu.	मेरा दरवाजा बंद था।
