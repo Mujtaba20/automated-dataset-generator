@@ -25935,3 +25935,13 @@ How did you lose it?	Wie hast du es verloren?	तुमने यह कैस�
 How did you make it?	Wie hast du es gemacht?	तुमने यह कैसे बनाया?
 How did you make it?_1	Wie hast du das geschafft?	तुमने यह कैसे किया?
 How did you make it?_2	Wie bist du darauf gekommen?	तुमने यह कैसे सोचा?
+How do I explain it?	Wie erkläre ich das?	मैं इसे कैसे समझा सकता हूँ?
+How do magnets work?	Wie funktionieren Magnete?	मैग्नेट कैसे काम करते हैं?
+How do they do that?	Wie machen sie das?	वे वह कैसे करते हैं?
+How do we know that?	Wie wissen wir das?	हम यह कैसे जानते हैं?
+How do you feel now?	Wie fühlst du dich jetzt?	तुम अब कैसा महसूस कर रहे हो?
+How do you know Tom?	Wie kennst du Tom?	तुम टॉम को कैसे जानते हो?
+How do you spell it?	Wie buchstabiert man das?	इसे तुम कैसे बुक स्पेल करते हो?
+How does he do this?	Wie macht er das?	वह यह कैसे करता है?
+How does that sound?	Wie klingt das?	यह कैसा लग रहा है?
+How does that sound? [different meaning]	Wie klingt das?	ये कैसा लग रहा है?
