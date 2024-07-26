@@ -1,14 +1,4 @@
 
-I know you'll love it.	Ich weiß, du wirst es lieben.	मुझे पता है कि आप इसे पसंद करेंगे।
-I know you're in here.	Ich weiß, dass du hier drinnen bist.	मुझे पता है कि आप यहां हैं।
-I know you're shocked.	Ich weiß, dass du schockiert bist.	मुझे पता है कि आप हैरान हैं।
-I know you're shocked.	Ich weiß, dass ihr schockiert seid.	मुझे पता है कि आप हैरान हैं।
-I know you're shocked.	Ich weiß, dass Sie schockiert sind.	मुझे पता है कि वे हैरान हैं।
-I lay awake all night.	Ich lag die ganze Nacht wach.	रात्रि नेत्रों में ही व्यतीत की।
-I learned a new trick.	Ich habe einen neuen Trick gelernt.	मैंने एक नई चाल सीखी।
-I learned it by heart.	Ich habe es auswendig gelernt.	मैंने इसे दिल से सीखा।
-I learned it from him.	Ich habe es von ihm gelernt.	मैंने उसे उससे सीखा।
-I learned it from him.	Ich habe es von ihm erfahren.	मुझे उसके बारे में पता चला।
 I learned it from you.	Ich habe das von dir gelernt.	मैंने सीखा कि आप से।
 I learned quite a bit.	Ich habe einiges gelernt.	मैंने बहुत कुछ सीखा।
 I leave in three days.	Ich reise in drei Tagen ab.	मैं तीन दिनों में छोड़ देता हूं।

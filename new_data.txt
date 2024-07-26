@@ -37620,3 +37620,13 @@ I know why Tom is sad.	Ich weiß, warum Tom traurig ist.	मुझे पता 
 I know you don't care.	Ich weiß, dass es dir nicht wichtig ist.	मुझे पता है कि तुम्हें मायने नहीं रखता।
 I know you meant well.	Ich weiß, dass du es gut gemeint hast.	मुझे पता है कि तुम अच्छा चाहते थे।
 I know you understand.	Ich weiß, dass du verstehst.	मुझे पता है कि तुम समझते हो।
+I know you'll love it.	Ich weiß, du wirst es lieben.	मुझे पता है कि तुम्हे यह पसंद आएगा।
+I know you're in here.	Ich weiß, du bist hier drin.	मुझे पता है कि तुम यहाँ हो।
+I know you're shocked.	Ich weiß, du bist schockiert.	मुझे पता है कि तुम चौंके हुए हो।
+I know you're shocked. - 2	Ich weiß, du bist überrascht.	मुझे पता है कि तुम हैरान हो।
+I know you're shocked. - 3	Ich weiß, du bist geschockt.	मुझे पता है कि तुम हक्का–बक्का हो।
+I lay awake all night.	Ich lag die ganze Nacht wach.	मैं रातभर जागा रहता था।
+I learned a new trick.	Ich habe einen neuen Trick gelernt.	मैंने एक नया जादू सीखा।
+I learned it by heart.	Ich habe es auswendig gelernt.	मैंने दिल से याद किया।
+I learned it from him.	Ich habe es von ihm gelernt.	मैंने उससे यह सिखा।
+I learned it from him. - 2	Ich habe es von ihm erfahren.	मैंने उससे यह जाना।
