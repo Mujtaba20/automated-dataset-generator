@@ -1,15 +1,4 @@
 
-What do you see now?	Was siehst du jetzt?	अब आप क्या देखते हैं?
-What do you suggest?	Was schlägst du vor?	आपका क्या सुझाव है?
-What do you suggest?	Was schlagen Sie vor?	आपका क्या सुझाव है?
-What do you suggest?	Was ist dein Vorschlag?	आपका प्रस्ताव क्या है?
-What do you suggest?	Was schlagt ihr vor?	आपका क्या सुझाव है?
-What does Tom think?	Was denkt Tom?	टॉम क्या सोचता है?
-What does he expect?	Was erwartet er?	वह क्या उम्मीद करता है?
-What does that mean?	Was bedeutet das?	इसका क्या मतलब है?
-What does this mean?	Was bedeutet das?	इसका क्या मतलब है?
-What does this mean?	Was heißt das?	इसका क्या मतलब है?
-What does this mean?	Was bedeutet das hier?	यहाँ इसका क्या मतलब है?
 What don't you have?	Was hast du nicht?	आपके पास क्या नहीं है?
 What don't you have?	Was haben Sie nicht?	आपके पास क्या नहीं है?
 What don't you like?	Was mögt ihr nicht?	आपको क्या पसंद नहीं है?

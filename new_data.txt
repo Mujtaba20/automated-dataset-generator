@@ -29782,3 +29782,9 @@ What did you forget? (Different Meaning)	Was hast du vergessen?	तुम क्
 What do I look like?	Wie sehe ich aus?	मैं किस अंदाज में हूँ?
 What do we tell Tom?	Was sagen wir Tom?	हम टॉम को क्या कहते हैं?
 What do you do here?	Was machst du hier?	तुम यहाँ क्या करते हो?
+What do you see now?	Was siehst du jetzt?	तुम अब क्या देख रहे हो?
+What do you suggest?	Was schlägst du vor?	तुम क्या सुझाव देते हो?
+What does Tom think?	Was denkt Tom?	टॉम क्या सोचता है?
+What does he expect?	Was erwartet er?	वह क्या उम्मीद कर रहा है?
+What does that mean?	Was bedeutet das?	वह क्या मतलब है?
+What does this mean?	Was bedeutet das?	यह क्या मतलब है?
