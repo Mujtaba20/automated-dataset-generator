@@ -28865,3 +28865,13 @@ Tom is barely alive.	Tom ist kaum am Leben.	टॉम केवल जीवि�
 Tom is brewing beer.	Tom braut Bier.	टॉम बियर उबाल रहा है।
 Tom is calling back.	Tom ruft zurück.	टॉम वापस फोन कर रहा है।
 Tom is cantankerous.	Tom ist mürrisch.	टॉम कठिन मन वाला है।
+engSentence1	Tom kommt heute.	टॉम आज आ रहा है।
+engSentence2	Tom kocht Eier.	टॉम अंडे पका रहा है।
+engSentence3	Tom ist enttäuscht.	टॉम निराश है।
+engSentence4	Tom ist unzufrieden.	टॉम असंतुष्ट है।
+engSentence5	Tom ist unorganisiert.	टॉम अनियमित है।
+engSentence6	Tom trinkt Tee.	टॉम चाय पी रहा है।
+engSentence7	Tom trinkt Tee.	टॉम चाय पी रहा है।
+engSentence8	Tom isst Brot.	टॉम रोटी खा रहा है।
+engSentence9	Tom erwartet mich.	टॉम मुझे उम्मीद कर रहा है।
+engSentence10	Tom folgt uns.	टॉम हमें फॉलो कर रहा है।

@@ -1,14 +1,4 @@
 
-Tom is coming today.	Tom kommt heute.	टॉम आज आता है।
-Tom is cooking eggs.	Tom kocht Eier.	टॉम अंडे पकाते हैं।
-Tom is disappointed.	Tom ist enttäuscht.	टॉम निराश है।
-Tom is discontented.	Tom ist unzufrieden.	टॉम असंतुष्ट है।
-Tom is disorganized.	Tom ist unordentlich.	टॉम गन्दा है।
-Tom is drinking tea.	Tom trinkt gerade Tee.	टॉम चाय पी रहा है।
-Tom is drinking tea.	Tom trinkt Tee.	टॉम चाय पीता है।
-Tom is eating bread.	Tom isst Brot.	टॉम रोटी खाता है।
-Tom is expecting me.	Tom erwartet mich.	टॉम मुझे इंतजार कर रहा है।
-Tom is following us.	Tom folgt uns.	टॉम हमारे फॉलो करता है।
 Tom is from Harvard.	Tom studiert in Harvard.	हार्वर्ड में टॉम अध्ययन।
 Tom is full of hope.	Tom ist voller Hoffnung.	टॉम आशा से भरा है।
 Tom is full of hope.	Tom ist ganz hoffnungsvoll.	टॉम उम्मीद है।
