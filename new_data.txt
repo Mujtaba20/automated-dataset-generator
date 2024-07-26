@@ -25556,3 +25556,13 @@ Give me what I want.	Gib mir, was ich will.	मुझे वह दो जो �
 Give peace a chance.	Gib dem Frieden eine Chance.	शांति को एक मौका दो।
 Give that cat to us.	Gib uns die Katze.	उस बिल्ली को हमें दो।
 Go and look for Tom.	Geh und suche nach Tom.	जाओ और टॉम के लिए देखो।
+Go and wake Mary up.	Geh und weck Mary auf.	मरी को जगाने जाओ।
+Go brush your teeth.	Geh dir die Zähne putzen.	अपने दाँत साफ करो।
+Go do your homework.	Geh deine Hausaufgaben machen.	अपना होमवर्क करो।
+Go jump in the lake.	Geh im See schwimmen.	झील में कूदो।
+Go jump in the lake. - Different Meaning	Geh ins kalte Wasser.	ठंडे पानी में कूदो।
+Go on Tom, drink it.	Komm schon Tom, trink es.	चलो टॉम, इसे पी लो।
+Go on Tom, drink it. - Different Meaning	Mach weiter, Tom, trink es.	जारी रखो, टॉम, इसे पी लो।
+Go tell that to Tom.	Geh und sag das Tom.	जाकर टॉम को बताओ।
+God is our strength.	Gott ist unsere Stärke.	भगवान हमारी ताकत है।
+Grief drove her mad.	Trauer trieb sie in den Wahnsinn.	दुख ने उसे पागल कर दिया।
