@@ -1,14 +1,4 @@
 
-I'll wait here for Tom.	Ich warte hier auf Tom.	मैं यहाँ टॉम की प्रतीक्षा कर रहा हूँ।
-I'll wait here for you.	Ich werde hier auf dich warten.	मैं यहाँ आप के लिए इंतजार करूंगा।
-I'll write to you soon.	Ich werde dir bald schreiben.	मैं आपको जल्द ही लिखूंगा।
-I'll write to you soon.	Ich schreibe dir bald.	मैं आपको जल्द ही लिखूंगा।
-I'm Tom's half brother.	Ich bin Toms Halbbruder.	मैं टॉम का आधा -ब्रोथर हूं।
-I'm Tom's older sister.	Ich bin Toms ältere Schwester.	मैं टॉम की बड़ी बहन हूं।
-I'm a Japanese teacher.	Ich bin Japanischlehrer.	मैं एक जापानी शिक्षक हूं।
-I'm a Japanese teacher.	Ich bin ein japanischer Lehrer.	मैं एक जापानी शिक्षक हूं।
-I'm a Japanese teacher.	Ich bin Japanischlehrerin.	मैं एक जापानी शिक्षक हूं।
-I'm a Japanese teacher.	Ich bin eine japanische Lehrerin.	मैं एक जापानी शिक्षक हूं।
 I'm a big fan of yours.	Ich bewundere Sie sehr.	मैं उनकी बहुत प्रशंसा करता हूं।
 I'm a good taxi driver.	Ich bin ein guter Taxifahrer.	मैं एक अच्छा टैक्सी ड्राइवर हूं।
 I'm a graduate student.	Ich bin Doktorand.	मैं एक डॉक्टरेट छात्र हूं।
