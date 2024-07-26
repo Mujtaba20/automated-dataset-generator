@@ -1,14 +1,4 @@
 
-Tom is our best driver.	Tom ist unser bester Fahrer.	टॉम हमारा सबसे अच्छा ड्राइवर है।
-Tom is our best player.	Tom ist unser bester Spieler.	टॉम हमारे सबसे अच्छे खिलाड़ी हैं।
-Tom is out for the day.	Tom ist heute den ganzen Tag unterwegs.	टॉम आज पूरे दिन यात्रा कर रहा है।
-Tom is out of his mind.	Tom hat den Verstand verloren.	टॉम ने मन खो दिया।
-Tom is out of his mind.	Tom ist von Sinnen.	टॉम इंद्रियों का है।
-Tom is out of work now.	Tom ist derzeit arbeitslos.	टॉम वर्तमान में बेरोजगार है।
-Tom is out of work now.	Tom ist derzeit ohne Arbeit.	टॉम वर्तमान में काम के बिना है।
-Tom is packing his bag.	Tom packt seine Tasche.	टॉम ने अपना बैग पैक किया।
-Tom is paid to do that.	Tom wird dafür bezahlt.	टॉम को इसके लिए भुगतान किया जाता है।
-Tom is partially right.	Tom hat teilweise recht.	टॉम कभी -कभी सही होता है।
 Tom is patient with me.	Tom ist geduldig mit mir.	टॉम मेरे साथ धैर्यवान है।
 Tom is picking flowers.	Tom pflückt Blumen.	टॉम ने फूल चुना।
 Tom is picking oranges.	Tom pflückt Orangen.	टॉम ने संतरे को चुना।
