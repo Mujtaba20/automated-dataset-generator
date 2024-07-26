@@ -1,14 +1,4 @@
 
-Why don't you drive?	Warum fährst du nicht?	आप ड्राइव क्यों नहीं करते?
-Why is Tom not here?	Warum ist Tom nicht hier?	टॉम यहाँ क्यों नहीं है?
-Why is Tom out here?	Warum ist Tom hier draußen?	टॉम यहाँ क्यों है?
-Why is Tom quitting?	Warum hört Tom auf?	टॉम क्यों रोकता है?
-Why is Tom sleeping?	Warum schläft Tom?	टॉम क्यों सोता है?
-Why is Tom standing?	Warum steht Tom?	टॉम क्यों है?
-Why is math so hard?	Warum ist Mathe so schwer?	गणित इतना भारी क्यों है?
-Why is the dog here?	Warum ist der Hund hier?	यहाँ कुत्ता क्यों है?
-Why is the sky blue?	Wieso ist der Himmel blau?	आकाश नीला क्यों है?
-Why is the sky blue?	Warum ist der Himmel blau?	आकाश नीला क्यों है?
 Why is this allowed?	Wieso ist das erlaubt?	इसकी अनुमति क्यों है?
 Why is this allowed?	Warum ist das erlaubt?	इसकी अनुमति क्यों है?
 Why isn't Tom happy?	Warum ist Tom nicht glücklich?	टॉम क्यों खुश नहीं है?

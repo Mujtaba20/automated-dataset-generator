@@ -30063,3 +30063,12 @@ Why do you want Tom?	Warum möchtest du Tom?	तुम्हें टॉम क
 Why don't I do that?	Warum mache ich das nicht?	मैं ऐसा क्यों नहीं करता?
 Why don't we go out?	Warum gehen wir nicht raus?	हम बाहर क्यों नहीं जा सकते?
 Why don't you do it?	Warum machst du es nicht?	तुम यह क्यों नहीं करते?
+Why don't you drive?	Warum fährst du nicht?	तुम क्यों नहीं चला सकते?
+Why is Tom not here?	Warum ist Tom nicht hier?	टॉम यहां क्यों नहीं है?
+Why is Tom out here?	Warum ist Tom hier draußen?	यहां टॉम क्यों है?
+Why is Tom quitting?	Warum hört Tom auf?	टॉम क्यों छोड़ रहा है?
+Why is Tom sleeping?	Warum schläft Tom?	टॉम सो क्यों रहा है?
+Why is Tom standing?	Warum steht Tom?	टॉम क्यों खड़ा है?
+Why is math so hard?	Warum ist Mathe so schwer?	गणित इतना कठिन क्यों है?
+Why is the dog here?	Warum ist der Hund hier?	कुत्ता यहां क्यों है?
+Why is the sky blue?	Warum ist der Himmel blau?	आकाश नीला क्यों है?
