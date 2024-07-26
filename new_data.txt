@@ -35684,3 +35684,13 @@ Why is Tom even here?	Warum ist Tom überhaupt hier?	टॉम यहाँ क�
 Why is Tom in Boston?	Warum ist Tom in Boston?	टॉम बॉस्टन में क्यों है?
 Why is Tom like that?	Warum ist Tom so?	टॉम ऐसा क्यों है?
 Why is Tom so scared?	Warum hat Tom so viel Angst?	टॉम इतना डर क्यों रहा है?
+Why is he doing this?	Warum macht er das?	वह इसे क्यों कर रहा है?
+Why is he so popular?	Warum ist er so beliebt?	वह इतना प्रसिद्ध क्यों है?
+Why is no one eating?	Warum isst niemand?	कोई खाना क्यों नहीं खा रहा है?
+Why is nobody eating?	Warum isst keiner?	कोई खाना क्यों नहीं खा रहा है?
+Why isn't Tom asleep?	Warum schläft Tom nicht?	टॉम सोया क्यों नहीं है?
+Why isn't Tom coming?	Warum kommt Tom nicht?	टॉम क्यों नहीं आ रहा है?
+Why not come with me?	Warum kommst du nicht mit mir?	मेरे साथ क्यों नहीं आते हो?
+Why not go to Boston?	Warum gehst du nicht nach Boston?	बॉस्टन क्यों नहीं जाते हो?
+Why should they hide?	Warum sollten sie sich verstecken?	वे क्यों छुपे रहें?
+Why should they stop?	Warum sollten sie aufhören?	वे क्यों रुकें?
