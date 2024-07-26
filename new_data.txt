@@ -26080,3 +26080,11 @@ I can give it a try.	Ich kann es ausprobieren.	मैं इसे एक को
 I can hide anywhere.	Ich kann mich überall verstecken.	मैं कहीं भी छुप सकता हूँ।
 I can keep a secret.	Ich kann ein Geheimnis bewahren.	मैं एक राज रख सकता हूँ।
 I can peel an apple.	Ich kann einen Apfel schälen.	मैं एक सेब छील सकता हूँ।
+I can read them all.	Ich kann sie alle lesen.	मैं सभी को पढ़ सकता हूँ।
+I can see the light.	Ich kann das Licht sehen.	मैं रोशनी देख सकता हूँ।
+I can smell cookies.	Ich kann Kekse riechen.	मैं कुकीज़ की खुशबू महसूस कर सकता हूँ।
+I can speak English.	Ich kann Englisch sprechen.	मैं अंग्रेजी बोल सकता हूँ।
+I can survive alone.	Ich kann alleine überleben.	मैं अकेले जी सकता हूँ।
+I can understand it.	Ich kann es verstehen.	मैं इसे समझ सकता हूँ।
+I can't accept this.	Ich kann das nicht akzeptieren.	मुझे इसे स्वीकार नहीं करना है।
+I can understand it. (Different meaning)	Ich kann es begreifen.	मैं इसे समझ सकता हूँ।

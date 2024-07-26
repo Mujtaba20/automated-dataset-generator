@@ -1,14 +1,4 @@
 
-I can read them all.	Ich kann sie alle lesen.	मैं उन सभी को पढ़ सकता हूं।
-I can see the light.	Ich kann das Licht sehen.	मैं प्रकाश देख सकता हूं।
-I can smell cookies.	Ich rieche Kekse.	मुझे कुकीज़ की गंध आती है।
-I can speak English.	Ich kann Englisch sprechen.	मैं अंग्रेजी बोल सकता हूँ।
-I can speak English.	Ich kann Englisch.	मैं अंग्रेजी बोल सकता हूँ।
-I can survive alone.	Ich kann allein überleben.	मैं अकेले जीवित रह सकता हूं।
-I can understand it.	Ich kann es verstehen.	मैं इसे समझ सकता हूं।
-I can understand it.	Ich kann sie verstehen.	मैं आपको समझ सकता हूं।
-I can understand it.	Ich kann ihn verstehen.	मैं उसे समझ सकता हूं।
-I can't accept this.	Das kann ich nicht hinnehmen.	मैं इसे स्वीकार नहीं कर सकता।
 I can't answer that.	Das kann ich nicht beantworten.	मैं इसका जवाब नहीं दे सकता।
 I can't change that.	Ich kann's nicht ändern.	मैं इसे नहीं बदल सकता।
 I can't contact Tom.	Ich kann Tom nicht erreichen.	मैं टॉम तक नहीं पहुंच सकता।
