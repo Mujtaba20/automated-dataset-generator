@@ -1,16 +1,4 @@
 
-I'm new to this team.	Ich bin neu in diesem Team.	मैं इस टीम के लिए नया हूं।
-I'm no longer hungry.	Ich bin nicht mehr hungrig.	मैं अब भूखा नहीं हूं।
-I'm no longer sleepy.	Ich bin nicht mehr schläfrig.	मुझे अब नींद नहीं आ रही है।
-I'm normally on time.	Normalerweise bin ich pünktlich.	मैं आमतौर पर समय पर हूं।
-I'm not Tom's father.	Ich bin nicht Toms Vater.	मैं टॉम का पिता नहीं हूं।
-I'm not Tom's mother.	Ich bin nicht Toms Mutter.	मैं टॉम की माँ नहीं हूँ।
-I'm not a vegetarian.	Ich bin kein Vegetarier.	मैं शाकाहारी नहीं हूं।
-I'm not able to swim.	Ich kann nicht schwimmen.	मुझे तैरना नहीं आता.
-I'm not always right.	Ich habe nicht immer recht.	मैं हमेशा सही नहीं हूं।
-I'm not angry at you.	Ich bin nicht böse auf dich.	मैं आप पर गुस्सा नहीं हूँ।
-I'm not angry at you.	Ich bin nicht böse auf Sie.	मैं उससे नाराज नहीं हूं।
-I'm not angry at you.	Ich bin nicht böse auf euch.	मै आप से गुस्सा नहीं हूं।
 I'm not at all tired.	Ich bin überhaupt nicht müde.	मैं बिल्कुल भी थक गया हूं।
 I'm not at all tired.	Ich bin kein bisschen müde.	मैं थोड़ा थक नहीं गया हूं।
 I'm not at all tired.	Ich bin gar nicht müde.	मैं बिल्कुल भी थक गया हूं।

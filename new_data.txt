@@ -32535,3 +32535,13 @@ I'm listening to you.	Ich höre dir zu.	मैं तुम्हें सु�
 I'm looking for food.	Ich suche nach Essen.	मैं खाने की तलाश कर रहा हूँ।
 I'm looking for work.	Ich suche Arbeit.	मैं काम खोज रहा हूँ।
 I'm never going back.	Ich gehe nie zurück.	मैं कभी वापस नहीं आ रहा हूँ।
+I'm new to this team.	Ich bin neu in diesem Team.	मैं इस टीम में नया हूँ।
+I'm no longer hungry.	Ich bin nicht mehr hungrig.	मुझे अब भूख नहीं है।
+I'm no longer sleepy.	Ich bin nicht mehr müde.	मुझे अब नींद नहीं आ रही है।
+I'm normally on time.	Ich bin normalerweise pünktlich.	मैं सामान्यत: समय पर होता हूँ।
+I'm not Tom's father.	Ich bin nicht Toms Vater.	मैं टॉम का बाप नहीं हूँ।
+I'm not Tom's mother.	Ich bin nicht Toms Mutter.	मैं टॉम की माँ नहीं हूँ।
+I'm not a vegetarian.	Ich bin kein Vegetarier.	मैं शाकाहारी नहीं हूँ।
+I'm not able to swim.	Ich kann nicht schwimmen.	मैं तैरने की क्षमता नहीं रखता।
+I'm not always right.	Ich habe nicht immer recht.	मैं हमेशा सही नहीं हूँ।
+I'm not angry at you.	Ich bin nicht wütend auf dich.	मैं तुम पर गुस्सा नहीं हूँ।
