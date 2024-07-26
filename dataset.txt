@@ -1,15 +1,4 @@
 
-I'd like to have a cat.	Ich hätte gern eine Katze.	मुझे एक बिल्ली चाहिए।
-I'd like to have a cat.	Ich würde gern eine Katze haben.	मैं एक बिल्ली रखना चाहूंगा।
-I'd like to rent a car.	Ich würde gerne ein Auto mieten.	मैं एक कार किराए पर लेना चाहूंगा।
-I'd like to replace it.	Ich würde es gerne ersetzen.	मैं इसे बदलना चाहूंगा।
-I'd like to see my son.	Ich würde gern meinen Sohn sehen.	मैं अपने बेटे को देखना चाहूंगा।
-I'd like you to see it.	Ich hätte gern, dass du es siehst.	मैं चाहूंगा कि आप इसे देखें।
-I'd never ever do that.	Ich würde das bestimmt nie machen.	हम ऐसा कभी नहीं करेंगे।
-I'd never suggest that.	Das schlüge ich niemals vor.	मैंने कभी ऐसा नहीं किया।
-I'd never suggest that.	Das würde ich nie vorschlagen.	मैं ऐसा कभी नहीं सुझाव दूंगा।
-I'd rather go swimming.	Ich will lieber schwimmen gehen.	मैं तैराकी जाना पसंद करता हूं।
-I'd rather go swimming.	Ich zöge es vor, schwimmen zu gehen.	मैं तैराकी करने का नाटक करता हूं।
 I'd rather not do that.	Ich möchte das lieber nicht tun.	मैं ऐसा नहीं करना पसंद करता हूं।
 I'd rather not eat now.	Ich möchte jetzt lieber nicht essen.	मैं अब खाना पसंद नहीं करता।
 I'd rather not go home.	Ich möchte lieber nicht nach Hause gehen.	मैं घर नहीं जाना पसंद करता हूं।
