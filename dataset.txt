@@ -1,16 +1,4 @@
 
-I'm busy at the moment.	Ich bin im Moment beschäftigt.	मैं इस समय व्यस्त हूं।
-I'm busy at the moment.	Ich bin zurzeit beschäftigt.	मैं वर्तमान में व्यस्त हूं।
-I'm busy with homework.	Ich bin mit Hausaufgaben beschäftigt.	मैं व्यस्त होमवर्क हूं।
-I'm calling from Tom's.	Ich rufe von Tom aus an.	मैं टॉम से फोन करता हूं।
-I'm calling the police.	Ich rufe die Polizei.	मैं पुलिस को फोन कर रहा हूं।
-I'm doing this for Tom.	Ich mache das für Tom.	मैं टॉम के लिए ऐसा करता हूं।
-I'm doing this for you.	Ich mache das für dich.	मैं तुम्हारे लिए ऐसा करता हूं।
-I'm doing this for you.	Ich tue das hier für dich.	मैं यह आपके लिए करता हूं।
-I'm doing this for you.	Ich tue das hier deinetwegen.	मैं इस वजह से ऐसा करता हूं।
-I'm fascinated by cats.	Ich bin von Katzen fasziniert.	मैं बिल्लियों से मोहित हूं।
-I'm fascinated by cats.	Ich bin fasziniert von Katzen.	मैं बिल्लियों से मोहित हूं।
-I'm fascinated by cats.	Katzen faszinieren mich.	बिल्लियाँ मुझे मोहित करती हैं।
 I'm feeling very tired.	Ich fühle mich sehr müde.	मैं बहुत थका हुआ महसूस कर रहा हूं।
 I'm fond of doing that.	Ich mache das gerne.	मुझे यह करना पसंद है।
 I'm full of good ideas.	Ich sprudele über vor guten Ideen.	मैं अच्छे विचारों के साथ चमकता हूं।
