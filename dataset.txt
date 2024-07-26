@@ -1,14 +1,4 @@
 
-Do you want popcorn?	Popcorn gefällig?	पॉपकॉर्न प्रसन्न?
-Do you want the job?	Willst du die Stelle?	क्या आप नौकरी चाहते हैं?
-Do you want the job?	Wollen Sie die Stelle?	क्या आप नौकरी चाहते हैं?
-Do you want to come?	Kommst du mit?	क्या तुम मेरे साथ आ रहे हो?
-Do you want to come?	Willst du kommen?	क्या आप आना चाहते हैं?
-Do you want to come?	Möchtest du kommen?	क्या आप आना चाहते हैं?
-Do you want to know?	Willst du's wissen?	क्या आप जानना चाहते हैं
-Do you want to play?	Willst du spielen?	खेलना चाहते हैं?
-Do you want to read?	Willst du lesen?	क्या आप पढ़ना चाहते हैं
-Do you want to sing?	Magst du singen?	तुम्हें गायन पसंद है
 Do you want to stop?	Willst du stehen bleiben?	क्या आप रुकना चाहते हैं?
 Do you want to stop?	Willst du aufhören?	क्या आप बाहर निकलना चाहते है?
 Do you want to talk?	Willst du reden?	क्या आप बात करना चाहते हैं?

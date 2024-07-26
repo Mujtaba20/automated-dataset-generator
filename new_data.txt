@@ -25373,3 +25373,10 @@ Do you speak French?	Sprichst du Französisch?	क्या तुम फ्र�
 Do you study French?	Studierst du Französisch?	क्या तुम फ्रेंच पढ़ते हो?
 Do you think I care?	Denkst du, es interessiert mich?	क्या तुम समझते हो कि मुझे परवाह है?
 Do you want a drink?	Möchtest du etwas trinken?	क्या आपको कुछ पीना है?
+Do you want popcorn?	Möchtest du Popcorn?	क्या आप पॉपकॉर्न चाहते हैं?
+Do you want the job?	Möchten Sie den Job?	क्या आप काम चाहते हैं?
+Do you want to come?	Möchtest du kommen?	क्या आप आना चाहते हैं?
+Do you want to know?	Möchtest du wissen?	क्या आप जानना चाहते हैं?
+Do you want to play?	Möchtest du spielen?	क्या आप खेलना चाहते हैं?
+Do you want to read?	Möchtest du lesen?	क्या आप पढ़ना चाहते हैं?
+Do you want to sing?	Möchtest du singen?	क्या आप गाना चाहते हैं?
