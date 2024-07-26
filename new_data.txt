@@ -39609,3 +39609,10 @@ These pants are dirty.	Diese Hosen sind schmutzig.	ये पैंट्स ग
 These shoes don't fit.	Diese Schuhe passen nicht.	ये जूते फ़िट नहीं होते।
 They all looked happy.	Sie sahen alle glücklich aus.	वे सभी खुश लग रहे थे।
 They all speak French.	Sie alle sprechen Französisch.	वे सभी फ्रेंच बोलते हैं।
+They are the same age.	Sie sind im gleichen Alter.	उनकी उम्र एक जैसी है।
+They aren't like that.	Sie sind nicht so.	वे ऐसे नहीं हैं।
+They aren't that good.	Sie sind nicht so gut.	वे इतने अच्छे नहीं हैं।
+They arrived too soon.	Sie kamen zu früh an.	वे बहुत जल्दी पहुंच गए।
+They ate marshmallows.	Sie aßen Marshmallows.	उन्होंने मार्शमैलो काये।
+They both like sports.	Sie mögen beide Sport.	वे दोनों को खेल पसंद है।
+They both look so sad.	Sie sehen beide so traurig aus.	वे दोनों इतने उदास लग रहे हैं।

@@ -1,14 +1,4 @@
 
-They are the same age.	Sie sind gleich alt.	वे एक ही हैं।
-They are the same age.	Sie sind gleichaltrig.	वे एक ही उम्र के हैं।
-They are the same age.	Sie haben dasselbe Alter.	आपकी समान उम्र है।
-They aren't like that.	Sie sind nicht so.	आप ऐसे नहीं हैं।
-They aren't that good.	So gut sind sie auch nicht.	वे इतने अच्छे नहीं हैं।
-They arrived too soon.	Sie sind zu früh angekommen.	वे बहुत जल्दी पहुंचे।
-They ate marshmallows.	Sie haben Mäusespeck gegessen.	आपने माउस मॉल खाया।
-They both like sports.	Sie mögen beide Sport.	वे दोनों खेल पसंद करते हैं।
-They both look so sad.	Sie sehen beide so traurig aus.	वे दोनों बहुत दुखी दिखते हैं।
-They both look so sad.	Beide sehen so traurig aus.	दोनों बहुत दुखी दिखते हैं।
 They bought a new car.	Sie haben ein neues Auto gekauft.	आपने एक नई कार खरीदी।
 They bought a new car.	Sie kauften ein neues Auto.	उन्होंने एक नई कार खरीदी।
 They burst into tears.	Sie brachen in Tränen aus.	वे आँसू में टूट गए।
