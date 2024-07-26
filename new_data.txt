@@ -31182,3 +31182,10 @@ He used to live here.	Er lebte hier.	उसका यहाँ रहना थ�
 He used to love that.	Er liebte das früher.	उसका यह हमेशा पसंद था।
 He wanted to be rich.	Er wollte reich sein.	उसे अमीर बनना था।
 He wanted to meet me.	Er wollte mich treffen.	उसे मुझसे मिलना था।
+He wanted to succeed.	Er wollte Erfolg haben.	उसने सफल होना चाहा।
+He wants red glasses.	Er möchte rote Gläser.	उसे लाल चश्मा चाहिए।
+He wants to kiss her.	Er möchte sie küssen.	उसे उसे चूमना है।
+He wants to meet you.	Er will dich treffen.	उसे आपसे मिलना है।
+He was an honest man.	Er war ein ehrlicher Mann.	वह ईमानदार आदमी था।
+He was badly wounded.	Er wurde schwer verletzt.	उसे गंभीर चोट आई थी।
+He was drunk on beer.	Er war betrunken von Bier.	उसने बियर पर नशा किया था।

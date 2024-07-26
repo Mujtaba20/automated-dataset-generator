@@ -1,14 +1,4 @@
 
-He wanted to succeed.	Er wollte Erfolg haben.	वह सफल होना चाहता था।
-He wants red glasses.	Er möchte eine rote Brille.	वह लाल चश्मा चाहता है।
-He wants to kiss her.	Er möchte sie küssen.	वह उन्हें चूमना चाहता है।
-He wants to meet you.	Er will Sie kennenlernen.	वह उसे जानना चाहता है।
-He wants to meet you.	Er will dich kennenlernen.	वह आपको जानना चाहता है।
-He was an honest man.	Er war ein ehrlicher Mann.	वह एक ईमानदार आदमी था।
-He was badly wounded.	Er war schwer verletzt.	वह गंभीर रूप से घायल हो गया था।
-He was badly wounded.	Er war schlimm verletzt.	वह बुरी तरह से घायल हो गया था।
-He was badly wounded.	Er war übel verletzt.	वह बुरी तरह से आहत था।
-He was drunk on beer.	Er hat sich mit Bier betrunken.	वह बीयर के साथ नशे में है।
 He was elected mayor.	Er wurde zum Bürgermeister gewählt.	वह मेयर चुने गए थे।
 He was fully clothed.	Er war vollständig bekleidet.	वह पूरी तरह से कपड़े पहने हुए था।
 He was in the shower.	Er stand unter der Dusche.	वह शॉवर में था।
