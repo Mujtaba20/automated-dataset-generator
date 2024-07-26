@@ -32466,3 +32466,13 @@ I'm eating breakfast.	Ich esse Frühstück.	मैं नाश्ता कर 
 I'm eating ice cream.	Ich esse Eiscreme.	मैं आइस क्रीम खा रहा हूँ।
 I'm emailing Tom now.	Ich maile jetzt Tom.	मैं अभी टॉम को ईमेल कर रहा हूँ।
 I'm excited about it.	Ich bin darauf aufgeregt.	मुझे इसके बारे में उत्साहित है।
+I'm fed up with math.	Ich habe die Nase voll von Mathe.	मुझे गणित से परेशानी है।
+I'm feeling fine now.	Mir geht es jetzt gut.	मुझे अब ठीक लग रहा है।
+I'm feeling stressed.	Ich fühle mich gestresst.	मैं तनावग्रस्त महसूस कर रहा हूँ।
+I'm fixing something.	Ich repariere etwas.	मैं कुछ सुधार रहा हूँ।
+I'm folding my dress.	Ich falte mein Kleid.	मैं अपनी ड्रेस को फोल्ड कर रहा हूँ।
+I'm friends with Tom.	Ich bin mit Tom befreundet.	मैं टॉम के दोस्त हूँ।
+I'm furious with Tom.	Ich bin wütend auf Tom.	मैं टॉम पर गुस्सा हूँ।
+I'm getting homesick.	Ich werde heimwehkrank.	मुझे घर की याद आ रही है।
+I'm giving it to Tom.	Ich gebe es Tom.	मैं इसे टॉम को दे रहा हूँ।
+I'm giving it to you.	Ich gebe es dir.	मैं इसे तुम्हें दे रहा हूँ।

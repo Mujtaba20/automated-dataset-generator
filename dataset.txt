@@ -1,14 +1,4 @@
 
-I'm fed up with math.	Ich hab die Nase voll von Mathe.	मेरी नाक गणित से भरी है।
-I'm feeling fine now.	Ich fühle mich jetzt wohl.	मुझे अब अच्छा लग रहा है।
-I'm feeling stressed.	Ich fühle mich gestresst.	मैं अत्यधिक थका हुआ हूँ।
-I'm fixing something.	Ich repariere etwas.	मैं कुछ मरम्मत करता हूं।
-I'm folding my dress.	Ich lege mein Kleid zusammen.	मैंने अपनी पोशाक एक साथ रखी।
-I'm friends with Tom.	Ich bin mit Tom befreundet.	मैं टॉम के साथ दोस्त हूं।
-I'm furious with Tom.	Ich bin wütend auf Tom.	मैं टॉम से नाराज हूं।
-I'm getting homesick.	Ich bekomme Heimweh.	मुझे होमसिक मिल रहा है।
-I'm giving it to Tom.	Ich gebe es Tom.	मैं इसे टॉम देता हूं।
-I'm giving it to you.	Ich gebe es dir.	मैं आपको देता हूं।
 I'm glad I hired you.	Ich bin froh, Sie eingestellt zu haben.	मुझे खुशी है कि उन्हें सेट किया है।
 I'm glad I was there.	Ich bin froh, dass ich da war.	मुझे खुशी है कि मैं वहां था।
 I'm glad I was wrong.	Ich bin froh, dass ich mich geirrt habe.	मुझे खुशी है कि मैं गलत था।
