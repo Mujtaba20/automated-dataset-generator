@@ -28405,3 +28405,13 @@ This CD is my son's.	Diese CD gehört meinem Sohn.	यह सीडी मेर
 This apple is sweet.	Dieser Apfel ist süß.	यह सेब मीठा है।
 This beef is tender.	Dieses Rindfleisch ist zart.	यह बीफ नरम है।
 This belongs to Tom.	Das gehört Tom.	यह टॉम का है।
+This bird can't fly.	Dieser Vogel kann nicht fliegen.	यह पक्षी उड़ नहीं सकता।
+This book is boring.	Dieses Buch ist langweilig.	यह किताब उबाऊ है।
+This can is leaking.	Diese Dose leckt.	यह डिब्बा टपक रहा है।
+This can is leaking. - 2	Diese Büchse verliert Flüssigkeit.	यह कैन टपक रही है।
+This can't be right.	Das kann nicht richtig sein.	यह सही नहीं हो सकता।
+This car runs great.	Dieses Auto läuft großartig.	यह गाड़ी शानदार चलती है।
+This car sells well.	Dieses Auto verkauft sich gut.	इस गाड़ी की अच्छी बिक्री होती है।
+This chair is light.	Dieser Stuhl ist leicht.	यह कुर्सी हल्की है।
+This coffee is cold.	Dieser Kaffee ist kalt.	यह कॉफी ठंडी है।
+This could mean war.	Das könnte Krieg bedeuten.	यह युद्ध का मायना रखता है।

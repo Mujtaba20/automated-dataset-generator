@@ -1,14 +1,4 @@
 
-This bird can't fly.	Dieser Vogel kann nicht fliegen.	यह पक्षी उड़ नहीं सकता।
-This book is boring.	Dieses Buch ist langweilig.	यह पुस्तक उबाऊ है।
-This can is leaking.	Die Kanne leckt.	गुड़ चाटता है।
-This can is leaking.	Die Kanne ist undicht.	गुड़ लीक हो रहा है।
-This can't be right.	Das kann nicht stimmen.	वह खिचड़ी भाषा सच हो।
-This car runs great.	Dieses Auto läuft super.	यह कार बहुत अच्छी चलती है।
-This car sells well.	Dieses Auto verkauft sich gut.	यह कार अच्छी तरह से बेचती है।
-This chair is light.	Dieser Stuhl ist leicht.	यह कुर्सी हल्की है।
-This coffee is cold.	Dieser Kaffee ist kalt.	यह कॉफी ठंडी है।
-This could mean war.	Das könnte vielleicht Krieg bedeuten.	इसका मतलब युद्ध हो सकता है।
 This desk is broken.	Dieser Schreibtisch ist kaputt.	यह डेस्क टूट गया है।
 This desk is broken.	Dieser Schreibtisch ist defekt.	यह डेस्क दोषपूर्ण है।
 This dog isn't mine.	Dieser Hund gehört mir nicht.	यह कुत्ता मेरा नहीं है।
