@@ -22963,3 +22963,13 @@ The bird flew away.	Der Vogel flog weg.	पंछी उड़ गया।
 The bottle is full.	Die Flasche ist voll.	बोतल भरी हुई है।
 The boy is jumping.	Der Junge springt.	लड़का कूद रहा है।
 The boy is thirsty.	Der Junge ist durstig.	लड़का प्यासा है।
+The boy was silent.	Der Junge war still.	लड़का चुप था।
+The boys are noisy.	Die Jungen sind laut.	लड़के शोर मचाते हैं।
+The bread is fresh.	Das Brot ist frisch.	रोटी ताज़ा है।
+The bread is stale.	Das Brot ist altbacken.	रोटी स्टेल है।
+The buzzer sounded.	Der Summer ertönte.	बजने वाला घंटी साउंड हुआ।
+The car broke down.	Das Auto brach zusammen.	कार खराब हो गई।
+The car hit a tree.	Das Auto traf einen Baum.	कार एक पेड़ से टकराई।
+The case is closed.	Der Fall ist geschlossen.	मामला बंद है।
+The clock is wrong.	Die Uhr ist falsch.	घड़ी ग़लत है।
+The coffee's ready.	Der Kaffee ist fertig.	कॉफ़ी तैयार है।

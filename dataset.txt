@@ -1,14 +1,4 @@
 
-The boy was silent.	Der Junge war still.	लड़का शांत था।
-The boys are noisy.	Die Jungen machen Lärm.	लड़के शोर करते हैं।
-The bread is fresh.	Das Brot ist frisch.	रोटी ताजा है।
-The bread is stale.	Das Brot ist altbacken.	रोटी पुरानी है।
-The buzzer sounded.	Der Summer ertönte.	बजर लग रहा था।
-The car broke down.	Das Auto hatte eine Panne.	कार में एक ब्रेकडाउन था।
-The car hit a tree.	Das Auto fuhr gegen einen Baum.	कार एक पेड़ के खिलाफ चला गया।
-The case is closed.	Der Fall ist erledigt.	मामला किया जाता है।
-The clock is wrong.	Die Uhr geht falsch.	घड़ी गलत है।
-The coffee's ready.	Der Kaffee ist fertig.	कॉफी तैयार है।
 The concert's over.	Das Konzert ist aus.	कॉन्सर्ट खत्म हो गया है।
 The crow flew away.	Die Krähe ist fortgeflogen.	कौवा बह गया है।
 The crow flew away.	Diese Krähe ist weggeflogen.	यह कौवा बह गया है।
