@@ -38940,3 +38940,9 @@ Nobody does it better.	Niemand macht es besser.	कोई बेहतर नह
 Nobody else showed up.	Niemand sonst ist aufgetaucht.	और कोई नहीं आया।
 Nobody else was there.	Niemand sonst war da.	और कोई वहाँ नहीं था।
 Nobody encouraged her.	Niemand hat sie ermutigt.	कोई उसे प्रोत्साहित नहीं किया।
+Nobody encouraged him.	Niemand hat ihn aufgemuntert.	किसी ने उसे प्रोत्साहित नहीं किया।
+Nobody here does that.	Hier tut das keiner.	यहाँ कोई ऐसा नहीं करता।
+Nobody is really sure.	Niemand ist sich wirklich sicher.	किसी को सच्ची तरह से यकीन नहीं है।
+Nobody knows his name.	Niemand weiß, wie er heißt.	किसी को उसका नाम नहीं पता है।
+Nobody recognized Tom.	Niemand hat Tom erkannt.	किसी ने टॉम को छिपा नहीं।
+Nobody recognized you.	Niemand hat dich erkannt.	किसी ने तुम्हें पहचाना नहीं।
