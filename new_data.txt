@@ -36840,3 +36840,12 @@ He lost his new watch.	Er hat seine neue Uhr verloren.	उसने अपनी
 He loves taking trips.	Er liebt es, Ausflüge zu machen.	उसे सफर करने का बहुत शौक है।
 He made me a new suit.	Er hat mir einen neuen Anzug gemacht.	उसने मुझे एक नया सूट बनवाया।
 He made up that story.	Er hat diese Geschichte erfunden.	उसने उस कहानी को बनाया।
+He married an actress.	Er heiratete eine Schauspielerin.	उसने एक अभिनेत्री से शादी की।
+He may be sick in bed.	Er könnte krank im Bett sein.	वह बिस्तर में बीमार हो सकता है।
+He may miss his train.	Er könnte seinen Zug verpassen.	उसे अपनी ट्रेन छूटने की संभावना है।
+He might not be happy.	Er könnte nicht glücklich sein.	वह शायद खुश नहीं हो सकता।
+He moved close to her.	Er rückte näher an sie heran.	उसने उसके पास ही जाकर एक कदम बढ़ा दिया।
+He must be over fifty.	Er muss über fünfzig sein.	वह पचास से अधिक वर्ष का होना चाहिए।
+He must be over sixty.	Er muss über sechzig sein.	वह साठ से अधिक वर्ष का होना चाहिए।
+He must be very happy.	Er muss sehr glücklich sein.	वह बहुत खुश होना चाहिए।
+He offered to help me.	Er bot an, mir zu helfen.	उसने मदद करने की पेशकश की।

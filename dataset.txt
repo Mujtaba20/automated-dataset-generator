@@ -1,14 +1,4 @@
 
-He married an actress.	Er heiratete eine Schauspielerin.	उन्होंने एक अभिनेत्री से शादी की।
-He may be sick in bed.	Vielleicht liegt er krank im Bett.	शायद वह बिस्तर में बीमार है।
-He may miss his train.	Er wird vielleicht seinen Zug verpassen.	वह अपनी ट्रेन को याद कर सकता है।
-He might not be happy.	Vielleicht ist er nicht glücklich.	शायद वह खुश नहीं है।
-He moved close to her.	Er näherte sich ihr.	उसने उससे संपर्क किया।
-He must be over fifty.	Er muss über fünfzig sein.	उसे पचास से अधिक होना है।
-He must be over sixty.	Er muss schon über 60 sein.	उसे 60 से अधिक होना है।
-He must be over sixty.	Er muss über 60 sein.	उसे 60 से अधिक होना है।
-He must be very happy.	Er muss sehr glücklich sein.	उसे बहुत खुश होना है।
-He offered to help me.	Er hat mir angeboten, mir zu helfen.	उसने मुझे मेरी मदद करने की पेशकश की।
 He often helps others.	Er hilft anderen oft.	वह अक्सर दूसरों की मदद करता है।
 He often helps others.	Er hilft oft anderen.	वह अक्सर दूसरों की मदद करता है।
 He often plays guitar.	Er spielt oft Gitarre.	वह अक्सर गिटार बजाता है।
