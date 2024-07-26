@@ -22828,3 +22828,12 @@ Take her to the OR.	Bringen Sie sie ins OP.	उसे ओआर में ले
 Take off your coat.	Zieh deinen Mantel aus.	अपनी कोट उतारो।
 Take off your mask.	Entferne deine Maske.	तुम अपना मास्क उतारो।
 Take that box away!	Entfernen Sie diese Schachtel!	उस बॉक्स को ले जाओ!
+Take the next left.	Biegen Sie links ab.	अगला बायां लें।
+Take this medicine.	Nimm diese Medizin.	यह दवा लो।
+Take us there, Tom.	Bring uns dorthin, Tom.	हमें वहाँ ले चलो, टॉम।
+Take what you like.	Nimm, was dir gefällt.	वो लो, जो तुम्हें पसंद हो।
+Take what you want.	Nimm, was du willst.	जो तुम चाहो, वह लो।
+Take what you want. (Different meaning)	Nehmen Sie, was Sie möchten.	जो आप चाहें, वह लें।
+Talk to my lawyers.	Sprechen Sie mit meinen Anwälten.	मेरे वकीलों से बात करें।
+Taxes are too high.	Steuern sind zu hoch.	कर बहुत उच्च हैं।
+Tell Tom I said hi.	Sag Tom, ich habe hallo gesagt.	टॉम को कहना कि मैंने हाय कहा।
