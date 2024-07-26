@@ -1,14 +1,4 @@
 
-Tom started yelling.	Tom begann zu schreien.	टॉम चिल्लाने लगा।
-Tom stirred his tea.	Tom rührte seinen Tee um.	टॉम ने अपनी चाय को स्थानांतरित कर दिया।
-Tom stole my wallet.	Tom hat mir meinen Geldbeutel gestohlen.	टॉम ने मेरा बटुआ चुरा लिया।
-Tom stole the money.	Tom stahl das Geld.	टॉम स्टील द मनी।
-Tom stood behind me.	Tom stand hinter mir.	टॉम मेरे पीछे खड़ा था।
-Tom stopped dancing.	Tom hörte auf zu tanzen.	टॉम ने नृत्य करना बंद कर दिया।
-Tom stopped digging.	Tom hörte auf zu graben.	टॉम ने खुदाई करना बंद कर दिया।
-Tom stopped reading.	Tom hörte auf zu lesen.	टॉम ने पढ़ना बंद कर दिया।
-Tom stopped reading.	Tom hörte mit dem Lesen auf.	टॉम ने पढ़ना बंद कर दिया।
-Tom stopped running.	Tom hörte auf zu rennen.	टॉम ने दौड़ना बंद कर दिया।
 Tom stopped talking.	Tom verstummte.	टॉम चुप हो गया।
 Tom stopped talking.	Tom hörte auf zu reden.	टॉम ने बात करना बंद कर दिया।
 Tom stopped talking.	Tom hörte auf zu sprechen.	टॉम ने बोलना बंद कर दिया।

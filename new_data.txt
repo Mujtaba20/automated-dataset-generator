@@ -29297,3 +29297,12 @@ Tom started snoring.	Tom begann zu schnarchen.	टॉम खराते ले�
 Tom started snoring. - Different meaning	Tom begann zu schlafen.	टॉम सोने लगा।
 Tom started the car.	Tom startete das Auto.	टॉम ने कार चालू की।
 Tom started to sing.	Tom fing an zu singen.	टॉम गाना गाने लगा।
+Tom started yelling.	Tom begann zu schreien.	टॉम चिल्लाना शुरू कर दिया।
+Tom stirred his tea.	Tom rührte seinen Tee um.	टॉम ने उसकी चाय मिलाई।
+Tom stole my wallet.	Tom hat meine Brieftasche gestohlen.	टॉम ने मेरी बग़ीचा चुरा लिया।
+Tom stole the money.	Tom hat das Geld gestohlen.	टॉम ने पैसे चुरा लिए।
+Tom stood behind me.	Tom stand hinter mir.	टॉम मेरे पीछे खड़ा था।
+Tom stopped dancing.	Tom hörte auf zu tanzen.	टॉम नाचना बंद कर दिया।
+Tom stopped digging.	Tom hörte auf zu graben.	टॉम खोदना बंद कर दिया।
+Tom stopped reading.	Tom hörte auf zu lesen.	टॉम पढ़ना बंद कर दिया।
+Tom stopped running.	Tom hörte auf zu laufen.	टॉम दौड़ना बंद कर दिया।
