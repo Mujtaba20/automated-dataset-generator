@@ -1,14 +1,4 @@
 
-Why didn't you call?	Warum hast du nicht angerufen?	तुमने मुझे काल क्यों नहीं किया?
-Why didn't you call?	Warum habt ihr nicht angerufen?	आपने फोन क्यों नहीं किया?
-Why didn't you call?	Warum haben Sie nicht angerufen?	आपने फोन क्यों नहीं किया?
-Why didn't you come?	Wieso seid ihr nicht gekommen?	आप क्यों नहीं आए?
-Why didn't you come?	Warum bist du nicht gekommen?	आप आए क्यों नहीं?
-Why didn't you stop?	Warum hast du nicht aufgehört?	तुम क्यों नहीं रुके?
-Why do I have to go?	Warum muss ich gehen?	मुझे क्यों जाना है?
-Why do they do that?	Warum machen sie das?	आप ऐसा क्यों कर रहे हों?
-Why do they do this?	Warum tun sie das?	वे ऐसा क्यों करते हैं?
-Why do they want me?	Warum brauchen sie mich?	तुम्हें मेरी जरूरत क्यों है?
 Why do you ask that?	Warum fragen Sie das?	तुम एेसा क्यों पूछते हो?
 Why do you hesitate?	Warum zögerst du?	आप संकोच क्यों करते हैं?
 Why do you like Tom?	Warum magst du Tom?	आपको टॉम क्यों पसंद है?

@@ -30047,3 +30047,10 @@ Why did you sell it?	Warum hast du es verkauft?	तुमने यह क्य
 Why did you stop by?	Warum hast du angehalten?	तुमने क्यों ठहरा दिया?
 Why didn't Tom come?	Warum ist Tom nicht gekommen?	तोम क्यों नहीं आया?
 Why didn't Tom stop?	Warum hat Tom nicht aufgehört?	तोम ने क्यों नहीं रुका?
+Why didn't you call?	Warum hast du nicht angerufen?	तुमने क्यों फोन नहीं किया?
+Why didn't you come?	Warum bist du nicht gekommen?	तुम क्यों नहीं आए थे?
+Why didn't you stop?	Warum hast du nicht aufgehört?	तुमने क्यों रोका नहीं?
+Why do I have to go?	Warum muss ich gehen?	मुझे जाने क्यों जाना है?
+Why do they do that?	Warum machen sie das?	वे ऐसा क्यों करते हैं?
+Why do they do this?	Warum machen sie das?	वे यह क्यों करते हैं?
+Why do they want me?	Warum wollen sie mich?	वे मुझे क्यों चाहते हैं?
