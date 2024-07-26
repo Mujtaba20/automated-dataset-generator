@@ -32227,3 +32227,12 @@ I wanted to call Tom.	Ich wollte Tom anrufen.	मैं टॉम को कॉ�
 I wanted to go there.	Ich wollte dorthin gehen.	मैं वहाँ जाना चाहता था।
 I wanted to help Tom.	Ich wollte Tom helfen.	मैं टॉम की मदद करना चाहता था।
 I wanted to help you.	Ich wollte dir helfen.	मैं तुम्हारी मदद करना चाहता था।
+I wanted to hire Tom.	Ich wollte Tom einstellen.	मैंने टॉम को नौकरी देना चाहा।
+I wanted to hurt Tom.	Ich wollte Tom verletzen.	मैंने टॉम को चोट पहुंचाना चाहा।
+I wanted to kiss Tom.	Ich wollte Tom küssen.	मैंने टॉम को चुम्मा देना चाहा।
+I wanted to meet you.	Ich wollte dich treffen.	मैंने आपसे मिलना चाहा।
+I wanted to play tag.	Ich wollte Fangen spielen.	मैंने पकड़ भाग में खेलना चाहा।
+I wanted to remember.	Ich wollte mich erinnern.	मैंने याद रखना चाहा।
+I wanted to tell Tom.	Ich wollte Tom erzählen.	मैंने टॉम को बताना चाहा।
+I wanted to warn you.	Ich wollte dich warnen.	मैंने तुम्हें चेतावनी देना चाहा।
+I was a little early.	Ich war ein wenig zu früh.	मैं थोड़ी सी पहले ही था।
