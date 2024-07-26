@@ -39527,3 +39527,13 @@ The price is going up.	Der Preis steigt.	मूल्य बढ़ रहा ह
 The printer is jammed.	Der Drucker ist blockiert.	प्रिंटर जाम हो गया है।
 The problem is solved.	Das Problem ist gelöst.	समस्या हल हो गई है।
 The problem isn't Tom.	Das Problem ist nicht Tom.	समस्या टॉम नहीं है।
+The radio is too loud.	Das Radio ist zu laut.	रेडियो बहुत शोर कर रहा है।
+The results were good.	Die Ergebnisse waren gut.	नतीजे अच्छे थे।
+The rice is delicious.	Der Reis ist köstlich.	चावल स्वादिष्ट है।
+The riot was put down.	Der Aufruhr wurde niedergeschlagen.	दंगा दमन किया गया था।
+The room is too small.	Der Raum ist zu klein.	कमरा बहुत छोटा है।
+The room is too small. (Different meaning)	Das Zimmer ist zu eng.	कमरा बहुत संकीर्ण है।
+The rumor may be true.	Das Gerücht könnte wahr sein.	अफवाह सच हो सकती है।
+The rumors were false.	Die Gerüchte waren falsch.	अफवाहें गलत थीं।
+The secret leaked out.	Das Geheimnis wurde geleakt.	राज आ गया।
+The secret leaked out. (Different meaning):	Das Geheimnis wurde verraten.	गुप्त बातें फैल गईं।

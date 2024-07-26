@@ -1,14 +1,4 @@
 
-The radio is too loud.	Das Radio ist zu laut.	रेडियो बहुत जोर से है।
-The results were good.	Die Ergebnisse waren gut.	परिणाम अच्छे थे।
-The rice is delicious.	Der Reis ist lecker.	चावल स्वादिष्ट है।
-The riot was put down.	Der Aufstand wurde niedergeschlagen.	विद्रोह को नीचे रखा गया था।
-The room is too small.	Der Raum ist zu klein.	कमरा बहुत छोटा है।
-The room is too small.	Das Zimmer ist zu klein.	कमरा बहुत छोटा है।
-The rumor may be true.	Das Gerücht könnte wahr sein.	अफवाह सच हो सकती है।
-The rumors were false.	Die Gerüchte stimmten nicht.	अफवाहें गलत थीं।
-The secret leaked out.	Das Geheimnis sickerte durch.	रहस्य के माध्यम से सीप किया गया।
-The secret leaked out.	Das Geheimnis ist durchgesickert.	रहस्य लीक हो गया है।
 The situation is dire.	Die Lage ist ernst.	स्थिति गंभीर है।
 The sky's clear today.	Der Himmel ist heute klar.	आकाश आज साफ है।
 The soldiers are dead.	Die Soldaten sind tot.	सैनिक मर चुके हैं।
