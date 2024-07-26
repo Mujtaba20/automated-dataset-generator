@@ -30773,3 +30773,8 @@ Don't eat like a pig.	Iss nicht wie ein Schwein.	सूअर की तरह �
 Don't eat without me.	Iss nicht ohne mich.	मेरे बिना न खाएँ।
 Don't forget to vote.	Vergessen Sie nicht zu wählen.	मत भूलें मतदान करने को।
 Don't eat unhealthy food.	Esse kein ungesundes Essen.	अस्वस्थ खाना न खाएं।
+Don't get me started.	Fange gar nicht erst an.	मुझे प्रारंभ करने के लिए ना लें।
+Don't get so excited!	Reg dich nicht so auf!	इतनी उत्सुकता मत बनो!
+Don't give it to Tom.	Gib es nicht Tom.	इसे टॉम को मत दो।
+Don't go there alone.	Geh nicht alleine dorthin.	वहाँ अकेले मत जाओ।
+Don't go to extremes.	Gehe nicht zu weit.	अत्यधिक मत जाओ।
