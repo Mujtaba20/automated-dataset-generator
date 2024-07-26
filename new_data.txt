@@ -35809,3 +35809,13 @@ You have to come now.	Du musst jetzt kommen.	आपको अभी आना �
 You have to find Tom.	Du musst Tom finden.	आपको टॉम को खोजना है।
 You have to hurry up.	Du musst dich beeilen.	आपको जल्दी करना होगा।
 You have to rush.	Du musst dich beeilen.	आपको जल्दी करना है।
+You have to see this.	Du musst das sehen.	तुम्हें इसे देखना होगा।
+You have to sit down.	Du musst dich hinsetzen.	तुम्हें बैठना होगा।
+You have to stay fit.	Du musst fit bleiben.	तुम्हें फिट रहना होगा।
+You have to stay in shape.	Du musst in Form bleiben.	तुम्हें आकार में रहना होगा।
+You have to stop Tom.	Du musst Tom stoppen.	तुम्हें टॉम को रोकना होगा।
+You hit the bullseye.	Du hast ins Schwarze getroffen.	तुमने लक्ष्य को गोली मारी।
+You keep out of this.	Du bleibst hier draußen.	तुम इसके बाहर रहो।
+You stay out of this.	Du bleibst hier raus.	तुम इससे बाहर रहो।
+You killed my father.	Du hast meinen Vater getötet.	तुमने मेरे पिताजी को मार दिया।
+You kiss like a fish.	Du küsst wie ein Fisch.	तुम मछली की तरह चुम्बन लेते हो।
