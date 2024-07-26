@@ -24932,3 +24932,9 @@ You should eat now.	Du solltest jetzt essen.	तुम्हें अभी ख
 You should go home.	Du solltest nach Hause gehen.	तुम्हें अपने घर चले जाना चाहिए।
 You should join us.	Du solltest uns beitreten.	तुम्हें हमारे साथ शामिल होना चाहिए।
 You should know it.	Du solltest es wissen.	तुम्हें यह जानना चाहिए।
+You should sue Tom.	Du solltest Tom verklagen.	तुम्हें टॉम को कोर्ट में ले जाना चाहिए।
+You sound like Tom.	Du klingst wie Tom.	तुम टॉम जैसे सुनते हो।
+You sure are dirty.	Du bist wirklich dreckig.	तुम बिल्कुल गंदे हो।
+You sure eat a lot.	Du isst sicher viel.	तुम बहुत ज्यादा खाते हो।
+You take the money.	Du nimmst das Geld.	तुम पैसे लेते हो।
+You taught me that.	Du hast mir das beigebracht.	तुमने मुझे वह शिक्षा दी थी।

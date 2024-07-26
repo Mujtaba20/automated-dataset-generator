@@ -1,14 +1,4 @@
 
-You should sue Tom.	Du solltest Tom verklagen.	आपको टॉम पर मुकदमा करना चाहिए।
-You should sue Tom.	Sie sollten Tom verklagen.	आपको टॉम पर मुकदमा करना चाहिए।
-You should sue Tom.	Ihr solltet Tom verklagen.	आपको टॉम पर मुकदमा करना चाहिए।
-You sound like Tom.	Du hörst dich wie Tom an.	आप टॉम की तरह सुनते हैं।
-You sure are dirty.	Du bist aber schmutzig!	लेकिन आप गंदे हैं!
-You sure eat a lot.	Du isst aber viel!	लेकिन आप बहुत खाते हैं!
-You take the money.	Nimm du das Geld.	क्या आप पैसे लेते हैं
-You taught me that.	Du hast mir das beigebracht.	आपने मुझे सिखाया।
-You taught me that.	Sie haben mir das beigebracht.	आपने मुझे सिखाया।
-You taught me that.	Ihr habt mir das beigebracht.	आपने मुझे सिखाया।
 You taught us that.	Du hast uns das beigebracht.	आपने हमें सिखाया।
 You were in a coma.	Du warst im Koma.	आप एक कोमा में थे।
 You were in a coma.	Sie waren im Koma.	वे एक कोमा में थे।
