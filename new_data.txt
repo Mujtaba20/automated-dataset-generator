@@ -32871,3 +32871,11 @@ It's bigger than Tom.	Es ist größer als Tom.	यह टॉम से बड़
 It's boiling in here.	Es kocht hier.	यहाँ उबल रहा है।
 It's double the size.	Es ist doppelt so groß.	यह आकार का दोगुना है।
 It's best not to ask.	Es ist am besten, nicht zu fragen.	पूछना अच्छा नहीं है।
+It's getting serious.	Es wird ernst.	यह गंभीर हो रहा है।
+It's good seeing you.	Es ist schön, dich zu sehen.	तुम्हें देखकर अच्छा लग रहा है।
+It's good to be here.	Es ist gut, hier zu sein.	यहाँ होना अच्छा है।
+It's good to be home.	Es ist schön, zu Hause zu sein.	घर पर होने में अच्छा लगता है।
+It's good to do that.	Es ist gut, das zu tun.	उसे करना अच्छा है।
+It's good to see you.	Es ist schön, dich zu sehen.	आपको देख कर अच्छा लगता है।
+It's happened before.	Es ist schon einmal passiert.	यह पहले भी हुआ है।
+It's hard to believe.	Es ist schwer zu glauben.	यह मानना मुश्किल है।
