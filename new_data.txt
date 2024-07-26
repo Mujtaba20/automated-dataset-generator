@@ -21544,3 +21544,10 @@ I need to help Tom.	Ich muss Tom helfen.	मुझे टॉम की मदद
 I need to know now.	Ich muss jetzt wissen.	मुझे अब पता होना चाहिए।
 I need to rest now.	Ich muss mich jetzt ausruhen.	मुझे अब आराम करना है।
 I need to sit down.	Ich muss mich setzen.	मुझे बैठना चाहिए।
+I need your advice.	Ich brauche deinen Rat.	मुझे तुम्हारी सलाह की ज़रूरत है।
+I needed the money.	Ich brauchte das Geld.	मुझे पैसे की ज़रूरत थी।
+I never apologized.	Ich habe mich nie entschuldigt.	मैंने कभी माफ़ी नहीं मांगी।
+I never drink beer.	Ich trinke nie Bier.	मैं कभी बीयर नहीं पीता।
+I never drink wine.	Ich trinke nie Wein.	मैं कभी शराब नहीं पीता।
+I never forgot you.	Ich habe dich nie vergessen.	मैंने कभी तुम्हें भूला नहीं।
+I never got caught.	Ich wurde nie erwischt.	मैं कभी पकड़ा नहीं गया।
