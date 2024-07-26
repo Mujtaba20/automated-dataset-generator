@@ -1,14 +1,4 @@
 
-Tom is slowing down.	Tom wird langsamer.	टॉम धीमा हो जाता है।
-Tom is sound asleep.	Tom schläft tief und fest.	टॉम गहराई से और दृढ़ता से सोता है।
-Tom is spying on us.	Tom spioniert uns aus.	टॉम हम में से बाहर जासूसी करता है।
-Tom is still active.	Tom ist noch aktiv.	टॉम अभी भी सक्रिय है।
-Tom is still asleep.	Tom schläft noch.	टॉम अभी भी सो रहा है।
-Tom is still crying.	Tom ist noch immer am Weinen.	टॉम अभी भी रो रहा है।
-Tom is still crying.	Tom weint immer noch.	टॉम अभी भी रो रहा है।
-Tom is still in bed.	Tom ist noch im Bett.	टॉम अभी भी बिस्तर में है।
-Tom is still inside.	Tom ist immer noch drinnen.	टॉम अभी भी अंदर है।
-Tom is still sleepy.	Tom ist immer noch schläfrig.	टॉम अभी भी नींद में है।
 Tom is such a loser.	Tom ist so ein Versager!	टॉम ऐसी विफलता है!
 Tom is such a moron.	Tom ist so ein Schwachkopf.	टॉम इतना कमजोर सिर है।
 Tom is such a sissy.	Tom ist so eine Memme!	टॉम एक ऐसा मेम है!

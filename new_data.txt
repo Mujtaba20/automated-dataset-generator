@@ -28950,3 +28950,12 @@ Tom is right-handed.	Tom ist rechtshändig.	टॉम दाहिने हा�
 Tom is safe for now.	Tom ist jetzt sicher.	अब टॉम सुरक्षित है।
 Tom is sharp-witted.	Tom ist scharfsinnig.	टॉम तेज-विचारी है।
 Tom is sleeping now.	Tom schläft jetzt.	अब टॉम सो रहा है।
+Tom is slowing down.	Tom wird langsamer.	टॉम धीरे हो रहे हैं।
+Tom is sound asleep.	Tom schläft fest.	टॉम गहरी नींद में हैं।
+Tom is spying on us.	Tom spioniert uns aus.	टॉम हमारी जासूसी कर रहे हैं।
+Tom is still active.	Tom ist immer noch aktiv.	टॉम अब भी सक्रिय हैं।
+Tom is still asleep.	Tom schläft immer noch.	टॉम अभी भी सो रहे हैं।
+Tom is still crying.	Tom weint immer noch.	टॉम अब भी रो रहे हैं।
+Tom is still in bed.	Tom liegt immer noch im Bett.	टॉम अब भी बिस्तर पर हैं।
+Tom is still inside.	Tom ist immer noch drinnen.	टॉम अब भी अंदर हैं।
+Tom is still sleepy.	Tom ist noch schläfrig.	टॉम अभी भी उदासी में हैं।
