@@ -24870,3 +24870,11 @@ You have a visitor.	Du hast einen Besuch.	तुम्हारे पास ए
 You have cute eyes.	Du hast süße Augen.	तुम्हारी प्यारी आँखें हैं।
 You have done well.	Du hast gut gemacht.	तुमने अच्छा किया है।
 You have him there.	Du hast ihn hier.	तुम्हारे पास उसके यहाँ है।
+You have my thanks.	Du hast meinen Dank.	आपका धन्यवाद है।
+You have nice skin.	Du hast eine schöne Haut.	आपकी त्वचा सुंदर है।
+You have no choice.	Du hast keine Wahl.	आपके पास कोई विकल्प नहीं है।
+You have the floor.	Sie haben das Wort.	आपके पास पलटी हुई है।
+You have to choose.	Du musst wählen.	आपको चुनना होगा।
+You have to choose. (Another meaning)	Du musst dich entscheiden.	आपको निर्णय लेना होगा।
+You have to get up.	Du musst aufstehen.	आपको उठना ही होगा।
+You have to go now.	Du musst jetzt gehen.	अब जाना होगा।

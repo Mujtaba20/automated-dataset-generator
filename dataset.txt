@@ -1,14 +1,4 @@
 
-You have my thanks.	Du hast meinen Dank.	आपके पास मेरा धन्यवाद है।
-You have nice skin.	Du hast schöne Haut.	आपकी सुंदर त्वचा है।
-You have no choice.	Du hast keine Wahl.	आपके पास कोई विकल्प नहीं है।
-You have the floor.	Sie haben das Wort.	यह आपकी बारी है।
-You have to choose.	Du musst dich entscheiden.	आपको निर्णय लेना है।
-You have to choose.	Du musst wählen.	आपको चुनना होगा।
-You have to choose.	Sie müssen wählen.	आपको चुनना होगा।
-You have to choose.	Ihr müsst wählen.	आपको चुनना होगा।
-You have to get up.	Du musst aufstehen.	आपको उठना होगा।
-You have to go now.	Du musst jetzt gehen.	अब आपको जाना होगा।
 You have to listen.	Du musst zuhören.	आपको सुनना है।
 You have to see it.	Das musst du sehen.	आपको वह देखना होगा।
 You just got lucky.	Sie haben schlicht Glück gehabt.	आप सिर्फ भाग्यशाली थे।
