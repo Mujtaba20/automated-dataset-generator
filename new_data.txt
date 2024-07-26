@@ -21056,3 +21056,13 @@ I am not a monster.	Ich bin kein Monster.	मैं एक राक्षस �
 I am not a prophet.	Ich bin kein Prophet.	मैं भविष्यवक्ता नहीं हूँ।
 I am not a student.	Ich bin kein Schüler.	मैं एक छात्र नहीं हूँ।
 I am not a teacher.	Ich bin kein Lehrer.	मैं एक शिक्षक नहीं हूँ।
+I am not too tired.	Ich bin nicht zu müde.	मैं ज्यादा थका नहीं हूँ।
+I am probably lost.	Ich bin wahrscheinlich verloren.	मुझे शायद खो गया।
+I am six feet tall.	Ich bin sechs Fuß groß.	मैं छह फ़ुट लंबा हूँ।
+I am six feet tall. (meaning: I have grown taller recently.)	Ich bin in letzter Zeit größer geworden.	मैं हाल ही में लंबा हो गया हूं।
+I am six feet tall. (meaning: I lied about my height.)	Ich habe über meine Größe gelogen.	मैंने अपने ऊँचाई के बारे में झूठ बोला।
+I am sorry for you.	Es tut mir leid für dich.	मुझे तुम पर दुख है।
+I answered for him.	Ich habe für ihn geantwortet.	मैंने उसके लिए जवाब दिया।
+I anticipated that.	Ich habe das vorausgesehen.	मैंने उसकी प्रत्याशा की थी।
+I anticipated this.	Ich habe das vorhergesehen.	मैंने यह समय से पहले समझा था।
+I ate some spinach.	Ich habe etwas Spinat gegessen.	मैंने कुछ पालक खाया।
