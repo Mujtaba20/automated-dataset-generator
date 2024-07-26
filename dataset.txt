@@ -1,14 +1,4 @@
 
-You can come with me.	Du kannst mitkommen.	तुम मेरे साथ आ सकते हो।
-You can come with us.	Du kannst mitkommen.	तुम मेरे साथ आ सकते हो।
-You can come with us.	Du kannst mit uns mitkommen.	तुम हमारे साथ आ सकते हो।
-You can count on her.	Du kannst auf sie zählen.	आप उन पर भरोसा कर सकते हैं।
-You can count on him.	Du kannst dich auf ihn verlassen.	आप उस पर भरोसा कर सकते हैं।
-You can count on him.	Du kannst auf ihn zählen.	आप उस पर भरोसा कर सकते हैं।
-You can count on him.	Ihr könnt auf ihn zählen.	आप उस पर भरोसा कर सकते हैं।
-You can count on him.	Sie können auf ihn zählen.	आप उस पर भरोसा कर सकते हैं।
-You can count on him.	Man kann auf ihn zählen.	आप उस पर भरोसा कर सकते हैं।
-You can depend on it.	Darauf können Sie sich verlassen.	यह कुछ ऐसा है जिस पर आप भरोसा कर सकते हैं।
 You can stay with us.	Du kannst bei uns bleiben.	आप हमारे साथ रह सकते हैं।
 You can stay with us.	Sie können bei uns bleiben.	आप हमारे साथ रह सकते हैं।
 You can stay with us.	Ihr könnt bei uns bleiben.	आप हमारे साथ रह सकते हैं।

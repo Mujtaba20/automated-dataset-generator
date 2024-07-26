@@ -35760,3 +35760,8 @@ You aren't listening.	Du hörst nicht zu.	तुम सुन नहीं र�
 You aren't one of us.	Du gehörst nicht zu uns.	तुम हमारे में से एक नहीं हो।
 You can bank on that.	Du kannst dich darauf verlassen.	तुम उस पर विश्वास कर सकते हो।
 You can bank on that. (Different meaning)	Du kannst dich darauf verlassen.	तुम इस पर भरोसा कर सकते हो।
+You can come with me.	Du kannst mit mir kommen.	तुम मेरे साथ आ सकते हो।
+You can come with us.	Du kannst mit uns kommen.	तुम हमारे साथ आ सकते हैं।
+You can count on her.	Du kannst dich auf sie verlassen.	तुम उस पर भरोसा कर सकते हो।
+You can count on him.	Du kannst dich auf ihn verlassen.	तुम उस पर भरोसा कर सकते हो।
+You can depend on it.	Du kannst dich darauf verlassen.	तुम इस पर निर्भर कर सकते हो।
