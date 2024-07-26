@@ -27876,3 +27876,11 @@ She has a white cat.	Sie hat eine weiße Katze.	उसके पास एक �
 She has faults, too.	Sie hat auch Fehler.	उसमें भी कुछ गलतियाँ हैं।
 She has few friends.	Sie hat wenige Freunde.	उसके कुछ दोस्त हैं।
 She has gone abroad.	Sie ist ins Ausland gegangen.	वह विदेश गई है।
+She has lost weight.	Sie hat abgenommen.	उसने वजन घटा लिया है।
+She hasn't come yet.	Sie ist noch nicht gekommen.	वह अभी तक नहीं आई है।
+She held her breath.	Sie hielt den Atem an.	उसने सांस फिर से लिया।
+She hit me, not him.	Sie schlug mich, nicht ihn.	उसने मुझपे मारा, नहीं उसपे।
+She is a chatterbox.	Sie ist eine Plaudertasche.	वह बक-बक करने वाली है।
+She is a little shy.	Sie ist ein wenig schüchtern.	वह थोड़ी शर्मीली है।
+She is a mere child.	Sie ist nur ein Kind.	वह केवल एक बच्चा है।
+She is about my age.	Sie ist etwa in meinem Alter.	वह मेरी उम्र के बराबर है।

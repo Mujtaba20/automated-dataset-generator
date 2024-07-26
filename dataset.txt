@@ -1,14 +1,4 @@
 
-She has lost weight.	Sie hat abgenommen.	वह कम हो गई।
-She hasn't come yet.	Sie ist noch nicht gekommen.	वह अभी तक नहीं आई है।
-She held her breath.	Sie hielt den Atem an.	उसने अपनी सांस पकड़ ली।
-She held her breath.	Sie hat den Atem angehalten.	उसने अपनी सांस पकड़ ली।
-She hit me, not him.	Sie hat mich getroffen, nicht ihn.	वह मुझसे मिली, उसे नहीं।
-She is a chatterbox.	Sie ist eine Klatschbase.	वह एक गपशप का आधार है।
-She is a little shy.	Sie ist etwas schüchtern.	वह थोड़ी शर्मीली है।
-She is a mere child.	Sie ist nichts mehr als ein Kind.	वह एक बच्चे से ज्यादा कुछ नहीं है।
-She is about my age.	Sie ist ungefähr in meinem Alter.	यह मेरी उम्र के बारे में है।
-She is about my age.	Sie ist ungefähr so alt wie ich.	यह मेरे जैसा पुराना है।
 She is fond of cake.	Sie mag Kuchen.	उसे केक पसंद है।
 She is good-natured.	Sie ist gutmütig.	वह अच्छी है।
 She is growing tall.	Sie wächst in die Höhe.	यह बड़ा हो जाता है।
