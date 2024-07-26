@@ -36057,3 +36057,8 @@ Are there any bananas?	Gibt es irgendwelche Bananen?	क्या कोई क�
 Are these Tom's shoes?	Sind das Toms Schuhe?	क्या ये टॉम की जूते हैं?
 Are these your gloves?	Sind das deine Handschuhe?	क्या ये तुम्हारी दस्ताने हैं?
 Are these your horses?	Sind das eure Pferde?	क्या ये तुम्हारे घोड़े हैं?
+Are these your things?	Sind das deine Sachen?	क्या ये तुम्हारी चीजें हैं?
+Are they all the same?	Sind sie alle gleich?	क्या वे सभी एक जैसे हैं?
+Are they still in bed?	Liegen sie immer noch im Bett?	क्या वे अभी भी बिस्तर में हैं?
+Are they your friends?	Sind sie deine Freunde?	क्या वे तुम्हारे दोस्त हैं?
+Are things going well?	Geht es gut?	क्या चीजें अच्छे जा रहे हैं?
