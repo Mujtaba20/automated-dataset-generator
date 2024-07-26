@@ -1,14 +1,4 @@
 
-Tom was wearing gloves.	Tom hatte Handschuhe an.	टॉम दस्ताने पर था।
-Tom was wearing shorts.	Tom trug eine kurze Hose.	टॉम ने एक शॉर्ट्स पहना था।
-Tom was wearing shorts.	Tom hat eine kurze Hose an.	टॉम के पास एक छोटी पतलून है।
-Tom wasn't a bad coach.	Tom war kein schlechter Trainer.	टॉम एक बुरा कोच नहीं था।
-Tom wasn't a carpenter.	Tom war kein Tischler.	टॉम एक बढ़ई नहीं था।
-Tom wasn't a carpenter.	Tom war kein Schreiner.	टॉम एक बढ़ई नहीं था।
-Tom wasn't a carpenter.	Tom war kein Zimmermann.	टॉम एक बढ़ई नहीं था।
-Tom wasn't in the room.	Tom war nicht in dem Zimmer.	टॉम कमरे में नहीं था।
-Tom wasn't that stupid.	Tom war nicht dumm.	टॉम बेवकूफ नहीं था।
-Tom wasn't trustworthy.	Tom war nicht vertrauenswürdig.	टॉम भरोसेमंद नहीं था।
 Tom wasn't very hungry.	Tom war nicht besonders hungrig.	टॉम विशेष रूप से भूखा नहीं था।
 Tom wasn't very polite.	Tom war nicht sehr höflich.	टॉम बहुत विनम्र नहीं था।
 Tom watched Mary dance.	Tom sah Maria beim Tanzen zu.	टॉम ने मारिया को नाचते देखा।
