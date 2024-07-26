@@ -25748,3 +25748,13 @@ He muttered a curse.	Er murmelte einen Fluch.	उसने एक शाप द�
 He needed the money.	Er brauchte das Geld.	उसे पैसे की आवश्यकता थी।
 He needs assistants.	Er braucht Assistenten.	उसे सहायकों की आवश्यकता है।
 He needs discipline.	Er braucht Disziplin.	उसे अनुशासन की आवश्यकता है।
+He needs that money.	Er braucht das Geld.	उसे उस धन की आवश्यकता है।
+He never loses hope.	Er verliert nie die Hoffnung.	वह कभी आशा नहीं हारता।
+He never stays long.	Er bleibt nie lange.	वह कभी ज्यादा समय नहीं रहता।
+He often comes late.	Er kommt oft spät.	वह अक्सर देर से आता है।
+He often watches TV.	Er sieht oft fern.	वह अक्सर टीवी देखता है।
+He opened the cages.	Er öffnete die Käfige.	उसने पिंजरे खोल दिए।
+He opposed the plan.	Er widersetzte sich dem Plan.	उसने योजना का विरोध किया।
+He parties too much.	Er feiert zu viel.	वह बहुत ज्यादा पार्टी करता है।
+He popped the trunk.	Er öffnete den Kofferraum.	उसने ट्रंक खोल दिया।
+He pushed me gently.	Er hat mich sanft geschoben.	उसने मुझे हल्के हाथों से धकेला।
