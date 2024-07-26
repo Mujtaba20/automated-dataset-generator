@@ -1,14 +1,4 @@
 
-It's not up to you.	Es liegt nicht an dir.	यह तुम नहीं हों।
-It's not very good.	Es ist nicht sehr gut.	यह बहुत अच्छा नहीं है।
-It's now your turn.	Jetzt bist du dran.	अब आपकी बारी है।
-It's now your turn.	Jetzt seid ihr dran.	अब आपकी बारी है।
-It's now your turn.	Jetzt sind Sie dran.	अब तुम्हारी बारी है।
-It's pretty simple.	Es ist ziemlich einfach.	यह बहुत आसान है।
-It's pretty simple.	Sie ist ziemlich einfach.	यह बहुत सरल है।
-It's pretty simple.	Er ist ziemlich einfach.	यह बहुत आसान है।
-It's probably true.	Es ist wahrscheinlich wahr.	यह शायद सच है।
-It's raining again!	Es regnet wieder!	पुन: बारिश हो रही है!
 It's raining there.	Es regnet dort.	वहां बारिश होती है।
 It's raining today.	Heute regnet es.	आज बारिश हो रही है।
 It's rather ironic.	Es ist ziemlich ironisch.	यह बहुत विडंबना है।

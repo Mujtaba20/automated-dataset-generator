@@ -22355,3 +22355,12 @@ It's not important.	Es ist nicht wichtig.	यह महत्वपूर्ण 
 It's not like that.	Es ist nicht so.	ऐसा नहीं है।
 It's not safe here.	Es ist hier nicht sicher.	यहाँ सुरक्षित नहीं है।
 It's not that cold.	Es ist nicht so kalt.	इतना ठंडा नहीं है।
+It's not up to you.	Es liegt nicht an dir.	यह तुम्हारे ऊपर नहीं है।
+It's not very good.	Es ist nicht sehr gut.	यह बहुत अच्छा नहीं है।
+It's now your turn.	Jetzt bist du dran.	अब आपकी बारी है।
+It's now your turn. – 2	Es ist jetzt an der Reihe.	अब आपका समय है।
+It's now your turn. - 3	Ihr seid jetzt an der Reihe.	अब आपके पल हैं।
+It's pretty simple.	Es ist ziemlich einfach.	यह काफी सरल है।
+It's pretty simple. - 2	Es ist ziemlich simpel.	यह काफी सरल है।
+It's probably true.	Es ist wahrscheinlich wahr.	शायद सच है।
+It's raining again!	Es regnet wieder!	फिर से बारिश हो रही है!
