@@ -25471,3 +25471,8 @@ Don't you like wine?	Magst du keinen Wein?	क्या आपको शरा�
 Don't you miss that?	Vermisst du das nicht?	क्या आप उसे नहीं याद करते?
 Don't you trust Tom?	Vertraust du Tom nicht?	क्या आप टॉम पर भरोसा नहीं करते?
 Draw a small circle.	Zeichne einen kleinen Kreis.	एक छोटे से वृत्त का चित्रण करें।
+Dry wood burns well.	Trockenes Holz brennt gut.	सूखे पेड़ अच्छे से जलते हैं।
+Eat more vegetables.	Iss mehr Gemüse.	और सब्जियां खाओ।
+Eat your vegetables.	Iss dein Gemüse.	अपने सब्जियों को खाओ।
+Elephants eat grass.	Elefanten fressen Gras.	हाथी घास खाते हैं।
+Enjoy your holidays.	Viel Spaß im Urlaub.	अपने हॉलिडे का आनंद लें।
