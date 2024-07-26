@@ -28432,3 +28432,10 @@ This is a gold mine.	Das ist eine Goldmine.	यह सोने की खदा
 This is a good deal.	Das ist ein guter Deal.	यह एक अच्छा सौदा है।
 This is a good sign.	Das ist ein gutes Zeichen.	यह एक अच्छा संकेत है।
 This is a great day.	Das ist ein großartiger Tag.	यह एक महान दिन है।
+This is a huge loss.	Das ist ein großer Verlust.	यह एक विशाल हानि है।
+This is a long list.	Dies ist eine lange Liste.	यह एक लंबी सूची है।
+This is a new model.	Dies ist ein neues Modell.	यह एक नया मॉडल है।
+This is a newspaper.	Das ist eine Zeitung.	यह एक अखबार है।
+This is a nightmare.	Das ist ein Alptraum.	यह एक डरावना सपना है।
+This is a sick joke.	Das ist ein kranker Witz.	यह एक बीमार मजाक है।
+This is a sunflower.	Das ist eine Sonnenblume.	यह एक सूरजमुखी है।

@@ -1,14 +1,4 @@
 
-This is a huge loss.	Das ist ein enormer Verlust.	यह एक बहुत बड़ा नुकसान है।
-This is a huge loss.	Das ist ein gewaltiger Verlust.	यह बहुत बड़ा नुकसान है।
-This is a long list.	Das ist eine lange Liste.	यह एक लंबी सूची है।
-This is a new model.	Das ist ein neues Modell.	यह एक नया मॉडल है।
-This is a new model.	Dies ist ein neues Modell.	यह एक नया मॉडल है।
-This is a newspaper.	Das ist eine Zeitung.	यह एक अखबार है।
-This is a nightmare.	Das ist ein Alptraum.	यह एक बुरा सपना है।
-This is a nightmare.	Das hier ist ein Alptraum.	यह एक बुरा सपना है।
-This is a sick joke.	Das ist ein makabrer Scherz.	यह एक macabre मजाक है।
-This is a sunflower.	Das ist eine Sonnenblume.	यह एक सूरजमुखी है।
 This is an ice cube.	Das ist ein Eiswürfel.	यह एक आइस क्यूब है।
 This is an old book.	Dies ist ein altes Buch.	यह एक पुरानी किताब है।
 This is complicated.	Das ist kompliziert.	यह जटिल है।
