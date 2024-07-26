@@ -29053,3 +29053,13 @@ Tom knows Mary lied.	Tom weiß, dass Maria gelogen hat.	टॉम को पत�
 Tom knows everybody.	Tom kennt jeden.	टॉम को सबका पता है।
 Tom knows his stuff.	Tom kennt sich aus.	टॉम को अपनी चीज़ का पता है।
 Tom knows it's true.	Tom weiß, dass es wahr ist.	टॉम को पता है कि यह सच है।
+Tom knows my number.	Tom kennt meine Nummer.	टॉम को मेरा नंबर पता है।
+Tom knows no French.	Tom kennt kein Französisch.	टॉम को कोई फ़्रेंच नहीं आती।
+Tom knows something.	Tom weiß etwas.	टॉम को कुछ पता है।
+Tom knows the rules.	Tom kennt die Regeln.	टॉम को नियम पता है।
+Tom knows the truth.	Tom kennt die Wahrheit.	टॉम को सच्चाई पता है।
+Tom knows what's up.	Tom weiß, was abgeht.	टॉम जानता है कि क्या हो रहा है।
+Tom laced his shoes.	Tom hat seine Schuhe geschnürt.	टॉम ने अपने जूतों का जोर से बाँध लिया।
+Tom lay on his back.	Tom lag auf dem Rücken.	टॉम पीठ के बल पर लेटा था।
+Tom left right away.	Tom ist sofort gegangen.	टॉम तुरंत चला गया।
+Tom left without me.	Tom ist ohne mich gegangen.	टॉम बिना मुझे छोड़कर चला गया।

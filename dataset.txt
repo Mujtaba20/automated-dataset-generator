@@ -1,15 +1,4 @@
 
-Tom knows my number.	Tom kennt meine Nummer.	टॉम मेरा नंबर जानता है।
-Tom knows no French.	Tom kann kein Französisch.	टॉम फ्रेंच नहीं कर सकता।
-Tom knows something.	Tom weiß etwas.	टॉम कुछ जानता है।
-Tom knows the rules.	Tom kennt die Regeln.	टॉम नियम जानता है।
-Tom knows the truth.	Tom kennt die Wahrheit.	टॉम सच्चाई जानता है।
-Tom knows what's up.	Tom weiß, was los ist.	टॉम जानता है कि क्या चल रहा है।
-Tom laced his shoes.	Tom band sich die Schnürsenkel zu.	टॉम ने लेस को बांध दिया।
-Tom lay on his back.	Tom legte sich auf den Rücken.	टॉम अपनी पीठ पर लेट गया।
-Tom left right away.	Tom ist auf der Stelle gegangen.	टॉम मौके पर चला गया।
-Tom left without me.	Tom ist ohne mich gegangen.	टॉम मेरे बिना चला गया।
-Tom left without me.	Tom ging ohne mich.	टॉम मेरे बिना चला गया।
 Tom let the cat out.	Tom ließ die Katze hinaus.	टॉम ने बिल्ली को छोड़ दिया।
 Tom let us all down.	Tom hat uns alle enttäuscht.	टॉम ने हम सभी को निराश किया।
 Tom lied to my face.	Tom log mir ins Gesicht.	मेरे चेहरे पर टॉम लॉग।
