@@ -40978,3 +40978,12 @@ Turn in your homework.	Geben Sie Ihre Hausaufgaben ab.	अपने होमव
 Turn the page, please.	Blättern Sie die Seite um, bitte.	कृपया पृष्ठ बदलें।
 Two seats were vacant.	Zwei Plätze waren leer.	दो सीटें खाली था।
 Wait for your brother.	Warte auf deinen Bruder.	अपने भाई का इंतजार करो।
+War broke out in 1939.	Krieg brach 1939 aus.	युद्ध 1939 में तोड़ दिया।
+War broke out in 1941.	Krieg brach 1941 aus.	युद्ध 1941 में तोड़ दिया।
+Was I asleep for long?	War ich lange schlafen?	क्या मैं लम्बे समय तक सो रहा था?
+Was Tom working alone?	Hatte Tom allein gearbeitet?	क्या टॉम अकेले काम कर रहा था?
+Was anybody else hurt?	Wurde noch jemand verletzt?	क्या किसी और को चोट लगी थी?
+Was it cold yesterday?	War es gestern kalt?	क्या कल ठंडा था?
+Was it fun doing that?	Hat es Spaß gemacht, das zu tun?	क्या उसे करने में मजा आया?
+Was it fun to do that?	Hat es Spaß gemacht, das zu tun?	क्या उसे करने में मजा आया?
+Was that another joke?	War das ein weiterer Witz?	क्या वह एक और मजाक था?
