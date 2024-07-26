@@ -27548,3 +27548,11 @@ Let's open the wine.	Lass uns den Wein öffnen.	चलो वाइन खोल
 Let's play baseball.	Lasst uns Baseball spielen.	हम बेसबॉल खेलें।
 Let's start tonight.	Lass uns heute Abend anfangen.	हमें आज रात शुरू करना चाहिए।
 Let's study English.	Lass uns Englisch lernen.	हमें अंग्रेजी पढ़नी चाहिए।
+Let's talk tomorrow.	Lass uns morgen reden.	चलो कल बात करते हैं।
+Let's try something.	Lass uns etwas ausprobieren.	कुछ कोशिश करते हैं।
+Let's try this cake.	Lass uns diesen Kuchen probieren.	आओ इस केक को चखें।
+Let's watch a movie.	Lass uns einen Film anschauen.	चलो एक फिल्म देखते हैं।
+Let's work together.	Lass uns zusammen arbeiten.	हम साथ मिलकर काम करें।
+Lie on your stomach.	Leg dich auf den Bauch.	पेट पर लेट जाओ।
+Life is interesting.	Das Leben ist interessant.	जीवन रोचक है।
+Listen very closely.	Hör ganz genau zu.	बहुत ध्यान से सुनो।
