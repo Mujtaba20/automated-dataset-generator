@@ -1,14 +1,4 @@
 
-Tom now wears a wig.	Tom trägt jetzt Perücke.	टॉम अब एक विग पहनता है।
-Tom often does that.	Tom macht das oft.	टॉम अक्सर ऐसा करता है।
-Tom often gets lost.	Tom verirrt sich oft.	टॉम अक्सर खो जाता है।
-Tom opened a window.	Tom machte ein Fenster auf.	टॉम ने एक खिड़की खोली।
-Tom opened a window.	Tom öffnete ein Fenster.	टॉम ने एक खिड़की खोली।
-Tom opened his book.	Tom öffnete sein Buch.	टॉम ने अपनी किताब खोली।
-Tom opened his eyes.	Tom schlug die Augen auf.	टॉम ने अपनी आँखें खोलीं।
-Tom opened his eyes.	Tom öffnete die Augen.	टॉम ने अपनी आँखें खोलीं।
-Tom opened the beer.	Tom öffnete das Bier.	टॉम ने बीयर खोली।
-Tom opened the book.	Tom öffnete das Buch.	टॉम ने किताब खोली।
 Tom opened the cage.	Tom öffnete den Käfig.	टॉम ने पिंजरा खोला।
 Tom opened the door.	Tom öffnete die Tür.	टॉम ने दरवाजा खोला।
 Tom opened the safe.	Tom öffnete den Tresor.	टॉम ने सेफ खोली।
