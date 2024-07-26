@@ -1,15 +1,4 @@
 
-I don't know your name.	Ich weiß nicht, wie du heißt.	मुझे नहीं पता कि आपको क्या कहा जाता है।
-I don't know your name.	Ich weiß nicht, wie Sie heißen.	मुझे नहीं पता कि उन्हें क्या कहा जाता है।
-I don't like champagne.	Champagner mag ich nicht.	मुझे शैंपेन पसंद नहीं है।
-I don't like chocolate.	Ich mag keine Schokolade.	मुझे चॉकलेट पसंद नहीं है।
-I don't like his jokes.	Mir gefallen seine Witze nicht.	मुझे उनके चुटकुले पसंद नहीं हैं।
-I don't like his jokes.	Ich mag seine Witze nicht.	मुझे उनके चुटकुले पसंद नहीं हैं।
-I don't like his looks.	Sein Aussehen gefällt mir nicht.	मुझे उनकी उपस्थिति पसंद नहीं है।
-I don't like ice cream.	Ich mag kein Eis.	मुझे आइसक्रीम पसंद नहीं है।
-I don't like it at all.	Ich mag es überhaupt nicht.	आखिरकार मैं इसे पंसद नहीं करता।
-I don't like it at all.	Das gefällt mir überhaupt nicht.	मुझे यह पसंद नहीं है।
-I don't like it at all.	Das gefällt mir gar nicht.	आखिरकार मैं इसे पंसद नहीं करता।
 I don't like my school.	Ich mag meine Schule nicht.	मुझे अपना स्कूल पसंद नहीं है।
 I don't like surprises.	Ich liebe keine Überraschungen.	मुझे कोई आश्चर्य नहीं है।
 I don't like that name.	Ich mag diesen Namen nicht.	मुझे यह नाम पसंद नहीं है।
