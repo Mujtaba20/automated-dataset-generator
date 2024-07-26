@@ -1,14 +1,4 @@
 
-She wants to kill me.	Sie will mich töten.	वह मुझे मारना चाहती है।
-She was found guilty.	Sie wurde für schuldig befunden.	उसे दोषी पाया गया।
-She was hit by a car.	Sie wurde von einem Auto angefahren.	यह एक कार से टकरा गया था।
-She was very excited.	Sie war furchtbar aufgeregt.	वह बहुत उत्साहित थी।
-She was well-dressed.	Sie war gut angezogen.	वह अच्छी तरह से तैयार थी।
-She watched him swim.	Sie schaute ihm beim Schwimmen zu.	उसने उसे तैरते हुए देखा।
-She watched him swim.	Sie hat ihm beim Schwimmen zugesehen.	उसने उसे तैरते हुए देखा।
-She went on a picnic.	Sie ist zu einem Picknick gegangen.	वह एक पिकनिक के पास गई।
-She went on speaking.	Sie sprach weiter.	उसने जारी रखा।
-She won't be pleased.	Das wird ihr nicht gefallen.	वह ऐसा नहीं करेगी।
 She wore a red dress.	Sie trug ein rotes Kleid.	उसने एक लाल पोशाक पहनी हुई थी।
 She wore a red dress.	Sie hatte ein rotes Kleid an.	उसने एक लाल पोशाक पहनी हुई थी।
 She wrote a new book.	Sie hat ein neues Buch geschrieben.	उसने एक नई किताब लिखी।

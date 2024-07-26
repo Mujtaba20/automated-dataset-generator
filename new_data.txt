@@ -33403,3 +33403,12 @@ She tried not to cry.	Sie versuchte, nicht zu weinen.	उसने कोशि�
 She used to hate him.	Früher hasste sie ihn.	पहले उसे नफरत थी।
 She used to love him.	Sie liebte ihn früher.	उसे पहले प्यार था।
 She wants to hug him.	Sie möchte ihn umarmen.	उसे उसे गले लगना है।
+She wants to kill me.	Sie will mich töten.	वह मुझे मारना चाहती है।
+She was found guilty.	Sie wurde schuldig befunden.	उसे दोषी पाया गया।
+She was hit by a car.	Sie wurde von einem Auto erfasst.	उसे गाड़ी से मारा गया था।
+She was very excited.	Sie war sehr aufgeregt.	उसे बहुत उत्साहित था।
+She was well-dressed.	Sie war gut gekleidet.	उसके कपड़े अच्छे थे।
+She watched him swim.	Sie beobachtete ihn schwimmen.	उसने उसे तैरते हुए देखा।
+She went on a picnic.	Sie machte einen Picknick.	वह पिकनिक पर गई।
+She went on speaking.	Sie redete weiter.	वह बात करती रही।
+She won't be pleased.	Sie wird nicht zufrieden sein.	वह खुश नहीं होगी।
