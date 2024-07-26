@@ -36481,3 +36481,10 @@ Does your throat hurt?	Tut Ihr Hals weh?	क्या आपके गले म
 Doesn't Tom like Mary?	Mag Tom Mary nicht?	क्या टॉम को मेरी पसंद नहीं है?
 Doesn't Tom live here?	Wohnt Tom nicht hier?	क्या टॉम यहाँ नहीं रहता?
 Doesn't Tom look good?	Sieht Tom nicht gut aus?	क्या टॉम अच्छा नहीं लगता?
+Doesn't anyone listen?	Hört niemand zu?	कोई सुनता है क्या?
+Doesn't it taste good?	Schmeckt es nicht gut?	यह स्वादिष्ट नहीं है क्या?
+Doesn't that look fun?	Sieht das nicht lustig aus?	क्या वह मजेदार नहीं लगता?
+Dogs often bury bones.	Hunde vergraben oft Knochen.	कुत्ते अक्सर हड्डियाँ दफन करते हैं।
+Don't act so innocent.	Tu nicht so unschuldig.	इतनी मासूम न बनो।
+Don't ask me that now.	Frag mich das jetzt nicht.	मुझसे अब यह मत पूछो।
+Don't ask me. Ask Tom.	Frag mich nicht. Frag Tom.	मुझसे मत पूछो। टॉम से पूछो।
