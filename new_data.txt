@@ -34550,3 +34550,12 @@ Tom is very handsome.	Tom ist sehr gutaussehend.	टॉम बहुत है�
 Tom is very immature.	Tom ist sehr unreif.	टॉम बहुत अपरिपक्व है।
 Tom is very impolite.	Tom ist sehr unhöflich.	टॉम बहुत अशिष्ट है।
 Tom is very reliable.	Tom ist sehr zuverlässig.	टॉम बहुत भरोसेमंद है।
+Tom is very romantic.	Tom ist sehr romantisch.	टॉम बहुत रोमांटिक है।
+Tom is very sociable.	Tom ist sehr kontaktfreudig.	टॉम बहुत मिलनसार है।
+Tom is very talented.	Tom ist sehr talentiert.	टॉम कुछ बहुत है।
+Tom is very thorough.	Tom ist sehr gründlich.	टॉम कुछ बहुत है।
+Tom is very ticklish.	Tom ist sehr kitzlig.	टॉम को बहुत खुजली होती है।
+Tom is very tolerant.	Tom ist sehr tolerant.	टॉम बहुत सहनशील है।
+Tom is walking south.	Tom geht nach Süden.	टॉम दक्षिण में चल रहा है।
+Tom is watching Mary.	Tom beobachtet Maria.	टॉम मेरी को देख रहा है।
+Tom is watching golf.	Tom schaut Golf.	टॉम गोल्फ देख रहा है।

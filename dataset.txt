@@ -1,14 +1,4 @@
 
-Tom is very romantic.	Tom ist sehr romantisch.	टॉम बहुत रोमांटिक है।
-Tom is very sociable.	Tom ist überaus gesellig.	टॉम बेहद मिलनसार है।
-Tom is very talented.	Tom ist sehr talentiert.	टॉम बहुत प्रतिभाशाली है।
-Tom is very talented.	Tom ist sehr begabt.	टॉम बहुत प्रतिभाशाली है।
-Tom is very thorough.	Tom ist sehr gründlich.	टॉम बहुत अच्छी तरह से है।
-Tom is very ticklish.	Tom ist sehr kitzlig.	टॉम बहुत ही टीट है।
-Tom is very tolerant.	Tom ist sehr tolerant.	टॉम बहुत सहिष्णु है।
-Tom is walking south.	Tom geht nach Süden.	टॉम दक्षिण में जाता है।
-Tom is watching Mary.	Tom beobachtet Mary.	टॉम मैरी देखता है।
-Tom is watching golf.	Tom schaut Golf.	टॉम गोल्फ दिखता है।
 Tom is wearing a hat.	Tom trägt einen Hut.	टॉम एक टोपी पहनता है।
 Tom is wearing a tux.	Tom trägt einen Smoking.	टॉम एक टक्सिडो पहनता है।
 Tom is wearing a wig.	Tom hat eine Perücke auf.	टॉम के पास एक विग है।
