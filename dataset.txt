@@ -1,14 +1,4 @@
 
-I'm depending on you.	Ich verlasse mich auf dich.	मैं तुम पर भरोसा कर रहा हूँ।
-I'm depending on you.	Ich verlasse mich auf euch.	मैं तुम पर भरोसा करता हूँ।
-I'm depending on you.	Ich verlasse mich auf Sie.	मैं तुम पर भरोसा करता हूँ।
-I'm depending on you.	Ich bin auf dich angewiesen.	मैं आप पर निर्भर हूं।
-I'm depending on you.	Ich bin auf euch angewiesen.	मैं आप पर निर्भर हूं।
-I'm depending on you.	Ich bin auf Sie angewiesen.	मैं आप पर निर्भर हूं।
-I'm doing it for Tom.	Ich mache es für Tom.	मैं इसे टॉम के लिए करता हूं।
-I'm doing it for you.	Ich mache es für dich.	मैंनें तुम्हारे लिए किया है।
-I'm doing my laundry.	Ich mache die Wäsche.	मैं कपड़े धोतो हूँ।
-I'm doing well today.	Heute geht es mir gut.	मेरा मन आज अच्छा है।
 I'm driving you home.	Ich fahre dich nach Hause.	मैं तुम्हें घर चलाऊंगा।
 I'm driving you home.	Ich fahre euch nach Hause.	मैं तुम्हें घर चलाता हूँ।
 I'm driving you home.	Ich fahre Sie nach Hause.	मैं उसे घर चलाता हूं।

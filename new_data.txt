@@ -32455,3 +32455,8 @@ I'm coming home, Tom.	Ich komme nach Hause, Tom.	मैं घर आ रहा 
 I'm coming on Monday.	Ich komme am Montag.	मैं सोमवार को आ रहा हूँ।
 I'm coming to Boston.	Ich komme nach Boston.	मैं बॉस्टन आ रहा हूँ।
 I'm completely naked.	Ich bin vollkommen nackt.	मैं पूरी तरह से नग्न हूँ।
+I'm depending on you.	Ich verlasse mich auf dich.	मैं तुम पर निर्भर कर रहा हूँ।
+I'm doing it for Tom.	Ich mache das für Tom.	मैं यह टॉम के लिए कर रहा हूं।
+I'm doing it for you.	Ich mache es für dich.	मैं तुम्हारे लिए कर रहा हूँ।
+I'm doing my laundry.	Ich mache meine Wäsche.	मैं अपनी धोबी कर रहा हूं।
+I'm doing well today.	Ich mache heute gut.	आज मैं अच्छा कर रहा हूँ।
