@@ -1,15 +1,4 @@
 
-How are you coming?	Wie kommst du hierher?	आप यहाँ कैसे आते हैं?
-How are you coming?	Mit was kommst du?	आप क्या करते हैं?
-How bad is smoking?	Wie schädlich ist das Rauchen?	धूम्रपान कितना हानिकारक है?
-How can I help you?	Wie kann ich Ihnen helfen?	मैं आपकी कैसे मदद कर सकता हूँ?
-How can I help you?	Wie kann ich dir helfen?	मैं आपकी कैसे मदद कर सकता हूँ?
-How can I help you?	Wie kann ich Ihnen behilflich sein?	मैं आपकी कैसे मदद कर सकता हूँ?
-How can I help you?	Wie kann ich euch behilflich sein?	मैं आपकी कैसे मदद कर सकता हूँ?
-How can I prove it?	Wie kann ich es beweisen?	मैं इसे कैसे साबित कर सकता हूं?
-How can it be done?	Wie kann es bewerkstelligt werden?	यह कैसे किया जा सकता है?
-How can it be done?	Wie lässt sich das verwirklichen?	यह कैसे महसूस किया जा सकता है?
-How can it be done?	Wie lässt sich das in die Tat umsetzen?	इसे कैसे लागू किया जा सकता है?
 How close were you?	Wie nahe standet ihr euch?	आप कितने करीब हैं?
 How close were you?	Wie nahe standen Sie sich?	आप कितने करीब थे?
 How could I resist?	Wie könnte ich da widerstehen?	मैं कैसे विरोध कर सकता था?

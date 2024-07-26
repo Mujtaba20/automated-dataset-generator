@@ -20974,3 +20974,8 @@ How about some tea?	Wie wäre es mit etwas Tee?	थोड़ा चाय कै
 How about this one?	Was ist mit diesem hier?	इसके बारे में क्या कहो?
 How about tomorrow?	Was ist mit morgen?	कल कैसे रहेगा?
 How are the others?	Wie geht es den anderen?	दूसरों कैसे हैं?
+How are you coming?	Wie kommst du voran?	तुम कैसे आ रहे हो?
+How bad is smoking?	Wie schlimm ist das Rauchen?	सिगरेट पीना कितना बुरा है?
+How can I help you?	Wie kann ich Ihnen helfen?	मैं आपकी कैसे सहायता कर सकता हूँ?
+How can I prove it?	Wie kann ich es beweisen?	मैं इसे कैसे साबित कर सकता हूँ?
+How can it be done?	Wie kann es gemacht werden?	यह कैसे किया जा सकता है?
