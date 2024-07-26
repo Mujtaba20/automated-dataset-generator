@@ -38247,3 +38247,10 @@ I'm not about to stop.	Ich werde nicht aufhören.	मैं रुकने व�
 I'm not afraid at all.	Ich habe überhaupt keine Angst.	मुझे किसी भी तरह का डर नहीं है।
 I'm not an only child.	Ich bin nicht das einzige Kind.	मैं एक ही बच्चा नहीं हूँ।
 I'm not angry anymore.	Ich bin nicht mehr wütend.	मैं अब गुस्सा नहीं हूँ।
+I'm not ashamed of it.	Ich schäme mich nicht dafür.	मुझे इसकी शर्मिंदगी नहीं है।
+I'm not at all scared.	Ich habe überhaupt keine Angst.	मुझे किसी भी तरह का डर नहीं है।
+I'm not bitter at all.	Ich bin überhaupt nicht sauer.	मुझे किसी भी तरह का कड़वापन नहीं है।
+I'm not done with you.	Ich bin noch nicht fertig mit dir.	मैं तुम्हारे साथ अभी काम खतम नहीं हुआ है।
+I'm not easily fooled.	Ich lasse mich nicht leicht täuschen.	मैं आसानी से धोखे में नहीं आता।
+I'm not entirely sure.	Ich bin nicht vollständig sicher.	मैं पूरी तरह से सुनिश्चित नहीं हूँ।
+I'm not even Canadian.	Ich bin nicht einmal Kanadier.	मैं तो कनाडी भी नहीं हूँ।
