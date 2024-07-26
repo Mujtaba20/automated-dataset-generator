@@ -21755,3 +21755,12 @@ I was scared stiff.	Ich hatte eine Riesenangst.	मैं जीभरके ड
 I was the only man.	Ich war der einzige Mann.	मैं एकमात्र आदमी था।
 I was up all night.	Ich war die ganze Nacht wach.	मैं पूरी रात जागा रहा था।
 I was very careful.	Ich war sehr vorsichtig.	मैं बहुत सावधान था।
+I was very jealous.	Ich war sehr eifersüchtig.	मैं बहुत जलनी थी।
+I was very nervous.	Ich war sehr nervös.	मैं बहुत घबराया हुआ था।
+I was very thirsty.	Ich war sehr durstig.	मुझे बहुत प्यास लगी थी।
+I was watching you.	Ich beobachtete dich.	मैं तुम्हें देख रहा था।
+I was watching you. (Different meaning)	Ich sah dich an.	मैं तुम्हें देख रहा था।
+I was worried, too.	Ich war auch besorgt.	मैं भी चिंतित था।
+I was younger then.	Damals war ich jünger.	तब मैं छोटा था।
+I wasn't dishonest.	Ich war nicht unehrlich.	मैं ईमानदार नहीं था।
+I wasn't very cold.	Mir war nicht sehr kalt.	मैं बहुत ठंडा नहीं था।
