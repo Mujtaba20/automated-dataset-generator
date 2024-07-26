@@ -35533,3 +35533,11 @@ Where's Tom sleeping?	Wo schläft Tom?	टॉम कहाँ सो रहा �
 Where's Tom's family?	Wo ist Toms Familie?	टॉम का परिवार कहाँ है?
 Where's Tom's father?	Wo ist Toms Vater?	टॉम के पिता कहाँ हैं?
 Where's Tom's mother?	Wo ist Toms Mutter?	टॉम की माँ कहाँ है?
+Where's Tom's office?	Wo ist das Büro von Tom?	टॉम का कार्यालय कहाँ है?
+Where's my breakfast?	Wo ist mein Frühstück?	मेरा नाश्ता कहाँ है?
+Where's my briefcase?	Wo ist meine Aktentasche?	मेरा ब्रीफकेस कहाँ है?
+Where's the bathroom?	Wo ist das Badezimmer?	शौचालय कहाँ है?
+Where's the bus stop?	Wo ist die Bushaltestelle?	बस स्टॉप कहाँ है?
+Where's the entrance?	Wo ist der Eingang?	प्रवेश द्वार कहाँ है?
+Where's the hospital?	Wo ist das Krankenhaus?	अस्पताल कहाँ है?
+Where's the new girl?	Wo ist das neue Mädchen?	नयी लड़की कहाँ है?

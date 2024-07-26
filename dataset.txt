@@ -1,14 +1,4 @@
 
-Where's Tom's office?	Wo ist Toms Büro?	टॉम का कार्यालय कहाँ है?
-Where's Tom's office?	Wo befindet sich Toms Büro?	टॉम का कार्यालय कहाँ स्थित है?
-Where's my breakfast?	Wo ist mein Frühstück?	मेरा नाश्ता कहाँ है?
-Where's my briefcase?	Wo ist meine Aktentasche?	मेरा ब्रीफकेस कहाँ है?
-Where's the bathroom?	Wo ist das Badezimmer?	बाथरूम कहां है?
-Where's the bathroom?	Wo ist das Klo?	बाथरूम कहां है?
-Where's the bus stop?	Wo steht die Bushaltestelle?	बस स्टॉप कहां खड़ा है?
-Where's the entrance?	Wo ist der Eingang?	प्रवेश द्वार कहाँ है?
-Where's the hospital?	Wo ist das Krankenhaus?	अस्पताल कहां है?
-Where's the new girl?	Wo ist das neue Mädchen?	नई लड़की कहाँ है?
 Where's the pharmacy?	Wo ist die Apotheke?	औषधालय कहां है?
 Where's the restroom?	Wo ist die Toilette?	टॉयलेट कहां है?
 Where's your brother?	Wo ist dein Bruder?	आपके भाई कहाँ है?
