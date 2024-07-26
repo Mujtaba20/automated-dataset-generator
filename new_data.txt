@@ -24086,3 +24086,11 @@ Tom was found dead.	Tom wurde tot aufgefunden.	टॉम मरे हुए प
 Tom was half right.	Tom hatte teilweise recht.	टॉम आधी सही था।
 Tom was home alone.	Tom war allein zu Hause.	टॉम अकेले घर पर था।
 Tom was humiliated.	Tom wurde gedemütigt.	टॉम का अपमान हुआ।
+Tom was in trouble.	Tom hatte Ärger.	टॉम मुश्किल में था।
+Tom was indiscreet.	Tom war unvorsichtig.	टॉम बेवकूफ था।
+Tom was interested.	Tom war interessiert.	टॉम रुचि रखता था।
+Tom was laughed at.	Tom wurde ausgelacht.	टॉम पर हंसी आई।
+Tom was my student.	Tom war mein Schüler.	टॉम मेरा छात्र था।
+Tom was my teacher.	Tom war mein Lehrer.	टॉम मेरा शिक्षक था।
+Tom was never here.	Tom war nie hier.	टॉम कभी यहाँ नहीं था।
+Tom was optimistic.	Tom war optimistisch.	टॉम आशावादी था।

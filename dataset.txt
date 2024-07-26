@@ -1,14 +1,4 @@
 
-Tom was in trouble.	Tom war in Schwierigkeiten.	टॉम मुसीबत में था।
-Tom was in trouble.	Tom stecke in Schwierigkeiten.	टॉम मुसीबत में है।
-Tom was in trouble.	Tom stecke in der Klemme.	टॉम टर्मिनल में है।
-Tom was indiscreet.	Tom war indiskret.	टॉम अशिष्ट था।
-Tom was interested.	Tom wäre interessiert.	टॉम को दिलचस्पी होगी।
-Tom was laughed at.	Tom wurde ausgelacht.	टॉम को हंसी आई।
-Tom was my student.	Tom war mein Schüler.	टॉम मेरा छात्र था।
-Tom was my teacher.	Tom war mein Lehrer.	टॉम मेरे शिक्षक थे।
-Tom was never here.	Tom war nie hier.	टॉम यहाँ कभी नहीं था।
-Tom was optimistic.	Tom war optimistisch.	टॉम आशावादी था।
 Tom was ostracized.	Tom war ausgestoßen.	टॉम को निष्कासित कर दिया गया था।
 Tom was ostracized.	Tom war geächtet.	टॉम को घोषित किया गया था।
 Tom was overweight.	Tom war übergewichtig.	टॉम अधिक वजन वाला था।
