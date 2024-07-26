@@ -35105,3 +35105,12 @@ Try to understand me. (Different meaning)	Versuche mich zu begreifen.	मुझ�
 Unemployment is high.	Die Arbeitslosigkeit ist hoch.	बेरोजगारी ऊंची है।
 Use your imagination.	Benutze deine Vorstellungskraft.	अपनी काल्पनिक शक्ति का उपयोग करें।
 Visitors are welcome.	Besucher sind willkommen.	आगंतुक स्वागत है।
+Wait for your sister.	Warten Sie auf Ihre Schwester.	अपनी बहन का इंतजार करें।
+Wait in line, please.	Bitte warten Sie in der Schlange.	कृपया कतार में प्रतीक्षा करें।
+Was Tom here earlier?	War Tom früher hier?	क्या टॉम पहले यहाँ था?
+Was Tom on your team?	War Tom in deinem Team?	क्या टॉम तुम्हारी टीम में था?
+Was all of that true?	War das alles wahr?	क्या यह सब सच था?
+Was it an earthquake?	War es ein Erdbeben?	क्या यह भूकंप था?
+Was it hot yesterday?	War es gestern heiß?	क्या कल गर्मी थी?
+Was that all you saw?	War das alles, was du gesehen hast?	क्या वही सब तुमने देखा था?
+Was that intentional?	War das beabsichtigt?	क्या यह जानबूझकर किया गया था?
