@@ -1,14 +1,4 @@
 
-Who pays your salary?	Wer zahlt dir dein Gehalt?	आपको अपना वेतन कौन देगा?
-Who planted the tree?	Wer hat den Baum gepflanzt?	पेड़ को किसने लगाया?
-Who recommended that?	Wer hat das empfohlen?	किसने सिफारिश की है?
-Who should I believe?	Wem soll ich glauben?	मुझे किस पर विश्वास करना चाहिए?
-Who stole the apples?	Wer hat die Äpfel geklaut?	सेब किसने चुरा लिया?
-Who stole the apples?	Wer hat die Äpfel gestohlen?	सेब किसने चुरा लिया?
-Who took the picture?	Wer hat das Foto geschossen?	फोटो किसने ली?
-Who will you believe?	Wem wirst du glauben?	आप किस पर विश्वास करेंगे?
-Who will you believe?	Wem werdet ihr glauben?	आप किस पर विश्वास करेंगे?
-Who will you believe?	Wem werden Sie glauben?	आप किस पर विश्वास करेंगे?
 Who won the election?	Wer hat die Wahl gewonnen?	किसने चुनाव जीता?
 Who wrote the letter?	Wer hat den Brief geschrieben?	पत्र किसने लिखा?
 Who wrote this story?	Wer hat diese Geschichte geschrieben?	यह कहानी किसने लिखी?

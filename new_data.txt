@@ -35585,3 +35585,10 @@ Who is already awake?	Wer ist schon wach?	कौन पहले से ही �
 Who is that stranger?	Wer ist dieser Fremde?	वह अजनबी कौन है?
 Who is the boss here?	Wer ist hier der Chef?	यहां कौन बॉस है?
 Who is the secretary?	Wer ist der Sekretär?	सचिव कौन है?
+Who pays your salary?	Wer zahlt deinen Lohn?	तुम्हारा वेतन किसे दिया जाता है?
+Who planted the tree?	Wer hat den Baum gepflanzt?	कौन ने पेड़ लगाया?
+Who recommended that?	Wer hat das empfohlen?	उसे किसने सिफारिश की थी?
+Who should I believe?	Wem soll ich glauben?	मुझे किस पर विश्वास करना चाहिए?
+Who stole the apples?	Wer hat die Äpfel gestohlen?	सेब किसने चुराये?
+Who took the picture?	Wer hat das Bild gemacht?	किसने तस्वीर खींची?
+Who will you believe?	Wem wirst du glauben?	तुम किस पर विश्वास करोगे?
