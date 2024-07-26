@@ -32304,3 +32304,13 @@ I won the gold medal.	Ich habe die Goldmedaille gewonnen.	मैंने सो
 I won't ever give up.	Ich werde niemals aufgeben.	मैं कभी हार नहीं मानूंगा।
 I won't let you down.	Ich lasse dich nicht im Stich.	मैं तुम्हें निराश नहीं करने दूंगा।
 I won't let you jump.	Ich werde dich nicht springen lassen.	मैं तुम्हें उछालने नहीं दूंगा।
+I won't pay for that.	Ich werde das nicht bezahlen.	मैं इसके लिए नहीं भुगतूंगा।
+I won't say anything.	Ich werde nichts sagen.	मैं कुछ नहीं कहूँगा।
+I won't sell my soul.	Ich werde meine Seele nicht verkaufen.	मैं अपनी आत्मा नहीं बेचूंगा।
+I won't stand for it.	Ich werde das nicht akzeptieren.	मैं इसका समर्थन नहीं करूंगा।
+I won't stand for it. - 2	Ich werde dafür nicht bleiben.	मैं इसके लिए नहीं खड़ा होऊंगा।
+I work as a salesman.	Ich arbeite als Verkäufer.	मैं एक सेल्समैन के रूप में काम करता हूँ।
+I work at an embassy.	Ich arbeite an einer Botschaft.	मैं एक दूतावास में काम करता हूँ।
+I work in Boston now.	Ich arbeite jetzt in Boston.	मैं अब बोस्टन में काम करता हूँ।
+I work in a hospital.	Ich arbeite in einem Krankenhaus.	मैं एक अस्पताल में काम करता हूँ।
+I worked a lot today.	Ich habe heute viel gearbeitet.	आज मैंने बहुत काम किया।
