@@ -1,14 +1,4 @@
 
-He's afraid of the sea.	Er hat Angst vor dem Meer.	वह समुद्र से डरता है।
-He's afraid of the sea.	Er hat Angst vorm Meer.	वह समुद्र से डरता है।
-He's afraid of the sea.	Er fürchtet sich vor dem Meer.	वह समुद्र से डरता है।
-He's afraid of the sea.	Er fürchtet das Meer.	वह समुद्र से डरता है।
-He's an Asian-American.	Er ist ein US-Bürger asiatischer Abstammung.	वह एशियाई वंश का अमेरिकी नागरिक है।
-He's at home right now.	Er ist gerade zu Hause.	वह घर पर सही है।
-He's both tall and fat.	Er ist sowohl groß wie dick.	यह बड़ा और मोटा दोनों है।
-He's buying an old hat.	Er kauft einen alten Hut.	वह एक पुरानी टोपी खरीदता है।
-He's doing a handstand.	Er macht einen Handstand.	वह एक हैंडस्टैंड बनाता है।
-He's done his homework.	Er hat seine Hausaufgaben gemacht.	उसने होमवर्क किया है।
 He's full of big ideas.	Er hat Grillen im Kopf.	उसके सिर में ग्रिलिंग है।
 He's getting cold feet.	Er bekommt kalte Füße.	उसे ठंडे पैर मिलते हैं।
 He's got a thick beard.	Er hat einen dichten Bart.	उसकी घनी दाढ़ी है।
