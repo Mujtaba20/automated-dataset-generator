@@ -1,15 +1,4 @@
 
-I could've helped you.	Ich hätte dir helfen können.	मैं आपकी मदद कर सकता था।
-I could've helped you.	Ich hätte Ihnen helfen können.	मैं उनकी मदद कर सकता था।
-I could've helped you.	Ich hätte euch helfen können.	मैं आपकी मदद कर सकता था।
-I couldn't agree more.	Ganz meine Meinung!	पूरी तरह से मेरी राय!
-I couldn't lie to you.	Ich konnte dich nicht anlügen.	मैं आपसे झूठ नहीं बोल सकता।
-I couldn't lie to you.	Ich könnte dich nicht anlügen.	मैं आपसे झूठ नहीं बोल सकता।
-I cried earlier today.	Ich habe heute geweint.	मैं आज रोया।
-I cut across the park.	Ich durchquerte den Park.	मैंने पार्क को पार किया।
-I did nothing all day.	Ich habe den ganzen Tag lang nichts getan.	मैंने पूरे दिन कुछ भी नहीं किया।
-I did nothing illegal.	Ich habe nichts Illegales getan.	मैंने कुछ भी अवैध नहीं किया।
-I did nothing illegal.	Ich habe nichts Rechtswidriges getan.	मैंने कुछ भी अवैध नहीं किया।
 I did some quick math.	Ich rechnete schnell nach.	मैंने जल्दी से गणना की।
 I did something wrong.	Ich habe etwas falsch gemacht.	मैंने कुछ गलत कर दिया।
 I did that on purpose.	Das habe ich mit Absicht getan.	मैंने ऐसा किया था।

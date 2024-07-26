@@ -37202,3 +37202,10 @@ I come from Australia.	Ich komme aus Australien.	मैं ऑस्ट्रे
 I come here every day.	Ich komme hier jeden Tag.	मैं यहाँ हर दिन आता हूँ।
 I contacted Tom again.	Ich habe erneut mit Tom Kontakt aufgenommen.	मैंने फिर से टॉम से संपर्क किया।
 I could give it a try.	Ich könnte es versuchen.	मैं एक प्रयास कर सकता हूँ।
+I could've helped you.	Ich hätte dir helfen können.	मैं तुम्हें मदद कर सकता था।
+I couldn't agree more.	Ich könnte nicht mehr zustimmen.	मैं और ज्यादा सहमत नहीं हो सकता।
+I couldn't lie to you.	Ich könnte dir nicht lügen.	मैं तुमसे झूठ नहीं बोल सकता।
+I cried earlier today.	Ich habe heute früher geweint.	मैंने आज पहले रोया।
+I cut across the park.	Ich habe den Park durchquert.	मैंने पार्क को काट दिया।
+I did nothing all day.	Ich habe den ganzen Tag nichts gemacht.	मैंने पूरा दिन कुछ नहीं किया।
+I did nothing illegal.	Ich habe nichts Illegales getan.	मैंने कुछ भी ग़ैरकानूनी नहीं किया।
