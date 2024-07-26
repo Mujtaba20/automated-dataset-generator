@@ -37726,3 +37726,12 @@ I need sunburn lotion. (Different meaning)	Ich benötige Sonnenbrandcreme.	म�
 I need to ask a favor.	Ich muss einen Gefallen bitten.	मुझे एक इल्तिजा करनी है।
 I need to get a stamp.	Ich muss eine Briefmarke besorgen.	मुझे एक टिकट प्राप्त करना है।
 I need to pay my rent.	Ich muss meine Miete zahlen.	मुझे अपने किराए का भुगतान करना है।
+I need to rent a room.	Ich muss ein Zimmer mieten.	मुझे कमरा किराए पर लेना है।
+I need to talk to Tom.	Ich muss mit Tom reden.	मुझे टॉम से बात करनी है।
+I need to talk to you.	Ich muss mit dir reden.	मुझे आपसे बात करनी है।
+I need to warn my mom.	Ich muss meine Mutter warnen.	मुझे अपनी माँ को चेतावनी देनी है।
+I need you in my life.	Ich brauche dich in meinem Leben.	मुझे तुम्हें अपने जीवन में चाहिए।
+I need you to help me.	Ich brauche deine Hilfe.	मुझे तुम्हारी मदद चाहिए।
+I need your help, Tom.	Ich brauche deine Hilfe, Tom.	मुझे आपकी मदद चाहिए, टॉम।
+I never believed that.	Das habe ich nie geglaubt.	मैं कभी नहीं माना।
+I never drink at home.	Ich trinke nie zu Hause.	मैं कभी घर पर नहीं पीता।

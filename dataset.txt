@@ -1,14 +1,4 @@
 
-I need to rent a room.	Ich muss ein Zimmer mieten.	मुझे एक कमरा किराए पर लेना है।
-I need to talk to Tom.	Ich muss mit Tom reden.	मुझे टॉम से बात करनी है।
-I need to talk to you.	Ich muss mit dir reden.	मुझे आपसे बात करनी है।
-I need to warn my mom.	Ich muss Mama warnen.	मुझे माँ को चेतावनी देनी है।
-I need to warn my mom.	Ich muss meine Mutter warnen.	मुझे अपनी माँ को चेतावनी देनी है।
-I need you in my life.	Ich brauche dich in meinem Leben.	मुझे अपने जीवन में आप की जरूरत है।
-I need you to help me.	Ich brauche deine Hilfe.	मुझे आपकी मदद की जरूरत है।
-I need your help, Tom.	Ich brauche deine Hilfe, Tom.	मुझे आपकी मदद चाहिए, टॉम।
-I never believed that.	Das habe ich nie geglaubt.	मुझे कभी विश्वास नहीं हुआ।
-I never drink at home.	Ich trinke nie zuhause.	मैं घर पर कभी नहीं पीता।
 I never expected this.	Das hätte ich nie erwartet.	मैंने कभी उम्मीद नहीं की होगी।
 I never forget a face.	Ich vergesse nie ein Gesicht.	मैं एक चेहरा कभी नहीं भूलता।
 I never hear anything.	Ich höre nie etwas.	मैंने कभी कुछ नहीं सुना।
