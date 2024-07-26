@@ -1,14 +1,4 @@
 
-Tom is just plain lazy.	Tom ist einfach nur faul.	टॉम सिर्फ आलसी है।
-Tom is just pretending.	Tom tut nur so, als ob.	टॉम सिर्फ दिखावा करता है।
-Tom is kind of strange.	Tom ist ziemlich seltsam.	टॉम बहुत अजीब है।
-Tom is learning French.	Tom lernt Französisch.	टॉम फ्रेंच सीखता है।
-Tom is lifting weights.	Tom stemmt Gewichte.	टॉम वज़न उठाता है।
-Tom is like his father.	Tom ist wie sein Vater.	टॉम अपने पिता की तरह है।
-Tom is like my brother.	Tom ist wie mein Bruder.	टॉम मेरे भाई की तरह है।
-Tom is like my own son.	Tom ist wie ein eigener Sohn für mich.	टॉम मेरे लिए अपने बेटे की तरह है।
-Tom is living here now.	Tom wohnt vorübergehend hier.	टॉम अस्थायी रूप से यहां रहता है।
-Tom is looking at Mary.	Tom sieht Maria an.	टॉम मारिया को देखता है।
 Tom is looking for you.	Tom sucht euch.	टॉम खुद की तलाश में है।
 Tom is loyal, isn't he?	Tom ist treu, nicht wahr?	टॉम वफादार है, है ना?
 Tom is lying, isn't he?	Tom lügt, nicht wahr?	टॉम झूठ, है ना?
