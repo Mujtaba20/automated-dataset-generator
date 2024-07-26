@@ -24227,3 +24227,13 @@ Wasn't that enough?	War das nicht genug?	क्या वह पर्याप�
 Watch your fingers!	Pass auf deine Finger auf!	अपनी उंगलियों पर ध्यान दें!
 Watch your fingers.	Achte auf deine Finger.	अपनी उंगलियों पर ध्यान रखो।
 Watch your luggage.	Achten Sie auf Ihr Gepäck.	अपना सामान देखभाल करें।
+Watching TV is fun.	Fernsehen macht Spaß.	टीवी देखना मजेदार है।
+Water is important.	Wasser ist wichtig.	पानी महत्वपूर्ण है।
+We adopted a child.	Wir haben ein Kind adoptiert.	हमने एक बच्चे को गोद लिया।
+We are watching TV.	Wir sehen fern.	हम टीवी देख रहे हैं।
+We aren't children.	Wir sind keine Kinder.	हम बच्चे नहीं हैं।
+We basically agree.	Grundsätzlich sind wir einverstanden.	बुनियादी रूप से हम सहमत हैं।
+We both were tired.	Wir waren beide müde.	हम दोनों थक गए थे।
+We came to see you.	Wir sind gekommen, um dich zu sehen.	हम तुम्हें देखने आए हैं।
+We can handle that.	Wir können das bewältigen.	हम उसे संभाल सकते हैं।
+We can protect Tom.	Wir können Tom beschützen.	हम टॉम की रक्षा कर सकते हैं।
