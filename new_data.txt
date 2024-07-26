@@ -30969,3 +30969,11 @@ He comes from Geneva.	Er kommt aus Genf.	वह जिनेवा से आत
 He committed suicide.	Er beging Selbstmord.	उसने आत्महत्या की।
 He continued singing.	Er sang weiterhin.	वह गाना जारी रखता रहा।
 He continued to work.	Er arbeitete weiterhin.	वह काम करना जारी रखा।
+He cried out in pain.	Er schrie vor Schmerz.	उसने दर्द से चीखा।
+He crossed the river.	Er überquerte den Fluss.	उसने नदी पार की।
+He dances gracefully.	Er tanzt anmutig.	वह शान्ति से नृत्य करता है।
+He decided not to go.	Er entschied sich, nicht zu gehen.	उसने जाने का निश्चय नहीं किया।
+He denied everything.	Er leugnete alles.	उसने सब कुछ इनकार कर दिया।
+He devoured his meal.	Er aß gierig sein Essen auf.	उसने अपनी भोजन की भूख मिटाई।
+He did as I told him.	Er folgte meinen Anweisungen.	उसने मेरी बात मान ली।
+He did it right away.	Er tat es sofort.	उसने तुरंत कर दिया।
