@@ -25647,3 +25647,13 @@ He had his hair cut.	Er bekam einen Haarschnitt.	उसने अपने ब�
 He had no objection.	Er hatte keinen Einwand.	उसने कोई आपत्ति नहीं थी।
 He had one daughter.	Er hatte eine Tochter.	उसकी एक बेटी थी।
 He has a bad temper.	Er hat einen schlechten Charakter.	उसका क्रोधी स्वभाव है।
+He has a big family.	Er hat eine große Familie.	उसके पास एक बड़ा परिवार है।
+He has a deep voice.	Er hat eine tiefe Stimme.	उसकी भारी आवाज़ है।
+He has a funny name.	Er hat einen lustigen Namen.	उसका मजेदार नाम है।
+He has a good heart.	Er hat ein gutes Herz.	उसका अच्छा दिल है।
+He has a kind heart.	Er hat ein gutes Herz.	उसका दयालु दिल है।
+He has a loud voice.	Er hat eine laute Stimme.	उसकी उच्च आवाज़ है।
+He has a nose bleed.	Er hat Nasenbluten.	उसकी नाक से खून बह रहा है।
+He has a round face.	Er hat ein rundes Gesicht.	उसका गोल चेहरा है।
+He has a second job.	Er hat einen Zweitjob.	उसकी दूसरी नौकरी है।
+He has a warm heart.	Er hat ein warmes Herz.	उसका गर्म दिल है।
