@@ -1,16 +1,4 @@
 
-Is this really allowed?	Ist das wirklich erlaubt?	क्या यह वास्तव में अनुमति है?
-Is this really allowed?	Ist das tatsächlich erlaubt?	क्या यह वास्तव में अनुमति है?
-Is this the right road?	Ist das der richtige Weg?	क्या यह सही तरीका है?
-Is this umbrella yours?	Gehört dieser Regenschirm dir?	क्या यह छतरी आप से संबंधित है?
-Is this umbrella yours?	Gehört dieser Regenschirm Ihnen?	क्या यह छतरी आप से संबंधित है?
-Is this what Tom wants?	Möchte Tom das?	क्या टॉम चाहेंगे?
-Is this what Tom wants?	Ist es das, was Tom will?	क्या यह टॉम चाहता है?
-Is this where you live?	Wohnst du hier?	आप यहाँ रहते हैं?
-Is this your briefcase?	Ist diese Kollegmappe deine?	क्या यह कॉलेज फ़ोल्डर आपका है?
-Is this your briefcase?	Ist diese Konferenzmappe deine?	क्या यह सम्मेलन फ़ोल्डर आपका है?
-Is this your briefcase?	Ist diese Kollegmappe Ihre?	क्या यह कॉलेज फ़ोल्डर आपका है?
-Is this your briefcase?	Ist diese Konferenzmappe Ihre?	क्या यह सम्मेलन फ़ोल्डर आपका है?
 Is today your birthday?	Ist heute dein Geburtstag?	क्या आज आपका जन्मदिन है?
 Is today your birthday?	Ist heute Ihr Geburtstag?	क्या आज आपका जन्मदिन है?
 Is your mother at home?	Ist deine Mutter zu Hause?	क्या आपकी मां घर पर है?
