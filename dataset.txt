@@ -1,14 +1,4 @@
 
-I'm claustrophobic.	Ich bin klaustrophob.	मैं एक क्लॉस्ट्रोफोब हूं।
-I'm coming for Tom.	Ich komme wegen Tom.	मैं टॉम की वजह से आता हूं।
-I'm coming for you.	Ich komme wegen Ihnen.	मैं उनकी वजह से आता हूं।
-I'm coming for you.	Ich komme Ihretwegen.	मैं उनकी वजह से आता हूं।
-I'm coming for you.	Ich komme deinetwegen.	मैं तुम्हारी वजह से आता हूं।
-I'm counting on it.	Darauf zähle ich.	मैं उस पर भरोसा करता हूं।
-I'm drinking juice.	Ich trinke Saft.	मुझे जूस पीना अच्छा लगता है।
-I'm drinking water.	Ich trinke Wasser.	मैं पानी पीता हूं।
-I'm eating a donut.	Ich esse einen Berliner.	मैं एक बर्लिनर खाता हूं।
-I'm fairly certain.	Ich bin mir ziemlich sicher.	मुझे बहुत यकीन है।
 I'm free on Monday.	Am Montag habe ich Zeit.	मेरे पास सोमवार को समय है।
 I'm free on Sunday.	Ich habe am Sonntag Zeit.	मेरे पास रविवार को समय है।
 I'm free on Sunday.	Am Sonntag bin ich frei.	मैं रविवार को स्वतंत्र हूं।

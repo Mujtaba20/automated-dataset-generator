@@ -21928,3 +21928,13 @@ I'm back in prison.	Ich bin zurück im Gefängnis.	मैं फिर से �
 I'm bleeding badly.	Ich blute stark.	मैं गंभीर रूप से खून बह रहा हूँ।
 I'm bored to death.	Ich bin zu Tode gelangweilt.	मैं मौत के बोर हो गया।
 I'm busy right now.	Ich bin gerade beschäftigt.	मैं अभी व्यस्त हूँ।
+I'm claustrophobic.	Ich bin klaustrophobisch.	मुझे अंधकार डर है।
+I'm coming for Tom.	Ich komme für Tom.	मैं टॉम के लिए आ रहा हूँ।
+I'm coming for you.	Ich komme für dich.	मैं तुम्हारे लिए आ रहा हूँ।
+I'm coming for you. - 2	Ich komme nach dir.	मैं तुम्हें लेने आ रहा हूँ।
+I'm coming for you. - 3	Ich komme zu dir.	मैं तुम्हारे पास आ रहा हूँ।
+I'm counting on it.	Ich zähle darauf.	मैं इस पर गिनती कर रहा हूँ।
+I'm drinking juice.	Ich trinke Saft.	मैं जूस पी रहा हूँ।
+I'm drinking water.	Ich trinke Wasser.	मैं पानी पी रहा हूँ।
+I'm eating a donut.	Ich esse einen Donut.	मैं एक डोनट खा रहा हूँ।
+I'm fairly certain.	Ich bin ziemlich sicher.	मुझे खाते वक्त आधा सोना आ जाता है।
