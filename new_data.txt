@@ -37153,3 +37153,12 @@ I can't believe I won.	Ich kann nicht glauben, dass ich gewonnen habe.	मुझ
 I can't come tomorrow.	Ich kann morgen nicht kommen.	मैं कल नहीं आ सकता।
 I can't come with you.	Ich kann nicht mit dir kommen.	मैं तुम्हारे साथ नहीं आ सकता।
 I can't do it anymore.	Ich kann es nicht mehr tun.	मैं इसे अब और नहीं कर सकता।
+I can't do that alone.	Ich kann das nicht alleine machen.	मैं वह अकेले नहीं कर सकता।
+I can't do this alone.	Ich kann das nicht alleine machen.	मैं इसको एकला नहीं कर सकता।
+I can't drink alcohol.	Ich kann keinen Alkohol trinken.	मैं शराब नहीं पी सकता।
+I can't eat chocolate.	Ich kann keine Schokolade essen.	मैं चॉकलेट नहीं खा सकता।
+I can't eat that much.	Ich kann das nicht so viel essen.	मैं इतना नहीं खा सकता।
+I can't eat the apple.	Ich kann den Apfel nicht essen.	मैं सेब नहीं खा सकता।
+I can't find my shoes.	Ich kann meine Schuhe nicht finden.	मैं अपने जूते नहीं मिला सकता।
+I can't find my watch.	Ich kann meine Uhr nicht finden.	मैं अपनी घड़ी नहीं मिला सकता।
+I can't get this open.	Ich kann das nicht öffnen.	मैं इसे खोलने में सक्षम नहीं हूँ।

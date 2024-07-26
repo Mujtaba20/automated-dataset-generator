@@ -1,15 +1,4 @@
 
-I can't do that alone.	Ich schaffe das nicht allein.	मैं इसे अपने दम पर नहीं कर सकता।
-I can't do this alone.	Ich schaffe das nicht allein.	मैं इसे अपने दम पर नहीं कर सकता।
-I can't drink alcohol.	Ich kann keinen Alkohol trinken.	मैं शराब नहीं पी सकता।
-I can't eat chocolate.	Ich vertrage keine Schokolade.	मैं चॉकलेट को बर्दाश्त नहीं करता।
-I can't eat chocolate.	Ich kann keine Schokolade essen.	मैं चॉकलेट नहीं खा सकता।
-I can't eat that much.	So viel kann ich nicht essen.	मैं इतना नहीं खा सकता।
-I can't eat the apple.	Ich kann den Apfel nicht essen.	मैं सेब नहीं खा सकता।
-I can't find my shoes.	Ich kann meine Schuhe nicht finden.	मुझे अपने जूते नहीं मिल रहे हैं।
-I can't find my watch.	Ich kann meine Uhr nicht finden.	मुझे अपनी घड़ी नहीं मिल रही है।
-I can't get this open.	Ich bekomme das hier nicht auf.	मैं इसे यहाँ नहीं उठा सकता।
-I can't get this open.	Ich kann das hier nicht öffnen.	मैं इसे यहाँ नहीं खोल सकता।
 I can't give you that.	Ich kann dir das nicht geben.	मैं आपको वह नहीं दे सकता।
 I can't give you this.	Ich kann dir das nicht geben.	मैं आपको वह नहीं दे सकता।
 I can't go any faster.	Ich kann nicht schneller gehen.	मैं तेजी से नहीं जा सकता।
