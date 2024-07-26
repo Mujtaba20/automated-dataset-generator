@@ -1,16 +1,4 @@
 
-My house is haunted.	Bei mir spukt es.	मेरे लिए यह प्रेतवाधित है।
-My house is haunted.	In meinem Haus spukt es.	यह मेरे घर में प्रेतवाधित हो गया।
-My knee is bleeding.	Mein Knie blutet.	मेरे घुटने से खून बह रहा है।
-My laptop is broken.	Mein Laptop ist kaputt.	मेरा लैपटॉप टूट गया है।
-My legs are hurting.	Mir tun die Beine weh.	मेरे पैर चोट।
-My life has changed.	Mein Leben hat sich verändert.	मेरा जीवन बदल गया है।
-My life has changed.	Mein Leben hat sich geändert.	मेरा जीवन बदल गया है।
-My life was a wreck.	Mein Leben war ruiniert.	मेरा जीवन बर्बाद हो गया था।
-My mom will kill me.	Meine Mutter wird mich umbringen.	मेरी माँ मुझे मार डालेगी।
-My money was stolen.	Mein Geld wurde gestohlen.	मेरा पैसा चोरी हो गया था।
-My money was stolen.	Mein Geld war gestohlen.	मेरा पैसा चोरी हो गया था।
-My money was stolen.	Mir wurde mein Geld gestohlen.	मेरा पैसा मेरे लिए चोरी हो गया था।
 My mother called me.	Meine Mutter hat mich angerufen.	मेरी माँ ने मुझे फोन किया।
 My mother called me.	Meine Mutter hat mich gerufen.	मेरी माँ ने मुझे फोन किया।
 My mother is active.	Meine Mutter ist aktiv.	मेरी माँ सक्रिय है।

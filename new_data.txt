@@ -27636,3 +27636,11 @@ My hobby is cooking.	Mein Hobby ist das Kochen.	मेरा शौक खान
 My hobby is fishing.	Mein Hobby ist das Angeln.	मेरा शौक मछली पकड़ना है।
 My hobby is reading.	Mein Hobby ist das Lesen.	मेरा शौक पढ़ना है।
 My home is far away.	Mein Zuhause ist weit weg.	मेरा घर दूर है।
+My house is haunted.	Mein Haus ist spooky.	मेरे घर पर भूत सवार है।
+My knee is bleeding.	Mein Knie blutet.	मेरा घुटना खून रहा है।
+My laptop is broken.	Mein Laptop ist kaputt.	मेरा लैपटॉप टूट गया है।
+My legs are hurting.	Meine Beine tun weh.	मेरी टांगें दर्द कर रही हैं।
+My life has changed.	Mein Leben ist anders geworden.	मेरा जीवन बदल गया है।
+My life was a wreck.	Mein Leben war ein Chaos.	मेरा जीवन एक बिगड़ता में था।
+My mom will kill me.	Meine Mutter wird mich umbringen.	मेरी माँ मुझे मार डालेगी।
+My money was stolen.	Mein Geld wurde gestohlen.	मेरा पैसा चोरी हो गया।
