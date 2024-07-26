@@ -31479,3 +31479,11 @@ I can't even do that.	Ich kann das auch nicht tun.	मैं वह भी न�
 I can't explain that.	Ich kann das nicht erklären.	मैं यह नहीं समझा सकता।
 I can't explain this.	Das kann ich nicht erklären.	मैं इसे समझा नहीं सकता।
 I can't face Tom now.	Ich kann Tom jetzt nicht sehen.	मैं अब तक टॉम से नहीं मिल सकता।
+I can't feel my toes.	Ich kann meine Zehen nicht spüren.	मैं अपने पैरों को महसूस नहीं कर सकता।
+I can't find a thing.	Ich kann nichts finden.	मैं कुछ भी नहीं ढूंढ पा रहा।
+I can't find my keys.	Ich kann meine Schlüssel nicht finden.	मैं अपनी चाबियाँ नहीं ढूंढ पा रहा।
+I can't get involved.	Ich kann nicht beteiligt sein.	मैं शामिल नहीं हो सकता।
+I can't get over you.	Ich kann nicht über dich hinwegkommen.	मैं तुम्हें नहीं भूल सकता।
+I can't get promoted.	Ich kann nicht befördert werden.	मुझे पदोन्नति नहीं मिल सकती।
+I can't go into that.	Ich kann da nicht reingehen.	मैं उसमें नहीं जा सकता।
+I can't hear a thing.	Ich kann nichts hören.	मैं कुछ नहीं सुन सकता।

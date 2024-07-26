@@ -1,14 +1,4 @@
 
-I can't feel my toes.	Ich spüre meine Zehen nicht.	मैं अपने पैर की उंगलियों को महसूस नहीं करता।
-I can't feel my toes.	Ich fühle meine Zehen nicht.	मैं अपने पैर की उंगलियों को महसूस नहीं करता।
-I can't find a thing.	Ich kann überhaupt nichts finden.	मुझे कुछ भी नहीं मिल रहा है।
-I can't find my keys.	Ich kann meine Schlüssel nicht finden.	मुझे अपनी चाबी नहीं मिल रही है।
-I can't get involved.	Ich kann nicht involviert werden.	मैं शामिल नहीं हो सकता।
-I can't get involved.	Ich kann mich nicht einmischen.	मैं शामिल नहीं हो सकता।
-I can't get over you.	Ich komme nicht über dich hinweg.	मैं तुम्हारे ऊपर नहीं जा सकता।
-I can't get promoted.	Ich kann nicht befördert werden.	मुझे पदोन्नत नहीं किया जा सकता है।
-I can't go into that.	Ich kann darauf nicht eingehen.	मैं इसमें नहीं जा सकता।
-I can't hear a thing.	Ich höre rein gar nichts.	मैं कुछ भी नहीं सुनता।
 I can't hide forever.	Ich kann mich nicht ewig verstecken.	मैं हमेशा के लिए छिपा नहीं सकता।
 I can't imagine that.	Das kann ich mir nicht vorstellen.	मैं कल्पना नहीं कर सकता।
 I can't imagine that.	Ich kann mir das nicht vorstellen.	मैं कल्पना नहीं कर सकता।
