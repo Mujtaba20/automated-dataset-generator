@@ -33412,3 +33412,12 @@ She watched him swim.	Sie beobachtete ihn schwimmen.	उसने उसे त�
 She went on a picnic.	Sie machte einen Picknick.	वह पिकनिक पर गई।
 She went on speaking.	Sie redete weiter.	वह बात करती रही।
 She won't be pleased.	Sie wird nicht zufrieden sein.	वह खुश नहीं होगी।
+She wore a red dress.	Sie trug ein rotes Kleid.	उसने लाल रंग की ड्रेस पहनी थी।
+She wrote a new book.	Sie hat ein neues Buch geschrieben.	उसने एक नई किताब लिखी।
+She wrote one letter.	Sie schrieb einen Brief.	उसने एक पत्र लिखा।
+She'll probably come.	Sie wird wahrscheinlich kommen.	वह शायद आएगी।
+She's a belly dancer.	Sie ist eine Bauchtänzerin.	वह एक बेली डांसर है।
+She's a quiet person.	Sie ist eine ruhige Person.	वह एक शांत इंसान है।
+She's as busy as Tom.	Sie ist genauso beschäftigt wie Tom.	वह टॉम की तरह ही व्यस्त है।
+She's double-jointed.	Sie ist doppeltgelenkig.	उसकी जोड़ियां दोगुनी हैं।
+She's eating for two.	Sie isst für zwei.	वह दो लोगों के लिए खा रही है।
