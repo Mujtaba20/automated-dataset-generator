@@ -1,15 +1,4 @@
 
-Where are your things?	Wo sind deine Sachen?	आपकी चीजें कहाँ हैं?
-Where are your things?	Wo sind Ihre Sachen?	आपकी चीजें कहाँ हैं?
-Where can I buy a map?	Wo bekomme ich einen Stadtplan?	मुझे शहर का नक्शा कहां मिल सकता है?
-Where can I buy books?	Wo kann ich Bücher kaufen?	मैं किताबें कहां से खरीद सकता हूं?
-Where can I get a map?	Wo bekomme ich einen Stadtplan?	मुझे शहर का नक्शा कहां मिल सकता है?
-Where can we meet you?	Wo können wir dich treffen?	हम आपसे कहां मिल सकते हैं?
-Where can we meet you?	Wo können wir euch treffen?	हम आपसे कहां मिल सकते हैं?
-Where can we meet you?	Wo können wir Sie treffen?	हम उनसे कहां मिल सकते हैं?
-Where can we meet you?	Wo können wir uns mit euch treffen?	हम आपसे कहां मिल सकते हैं?
-Where can we meet you?	Wo können wir uns mit dir treffen?	हम आपसे कहां मिल सकते हैं?
-Where can we meet you?	Wo können wir uns mit Ihnen treffen?	हम आपसे कहां मिल सकते हैं?
 Where did Tom see you?	Wo hat Tom dich gesehen?	टॉम ने आपको कहाँ देखा?
 Where did Tom see you?	Wo hat Tom euch gesehen?	टॉम ने आपको कहाँ देखा?
 Where did Tom see you?	Wo hat Tom Sie gesehen?	टॉम ने उसे कहाँ देखा?

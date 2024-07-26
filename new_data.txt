@@ -41396,3 +41396,8 @@ Where are you working?	Wo arbeitest du?	तुम कहाँ काम कर 
 Where are your horses?	Wo sind deine Pferde?	तुम्हारे घोड़े कहाँ हैं?
 Where are your papers?	Wo sind deine Papiere?	तुम्हारे पेपर कहाँ हैं?
 Where are your people?	Wo sind deine Leute?	तुम्हारे लोग कहाँ हैं?
+Where are your things?	Wo sind deine Sachen?	तुम्हारी चीजें कहाँ हैं?
+Where can I buy a map?	Wo kann ich eine Karte kaufen?	मैं कहाँ से नक्शा खरीद सकता हूँ?
+Where can I buy books?	Wo kann ich Bücher kaufen?	मैं किताबें कहाँ से खरीद सकता हूं?
+Where can I get a map?	Wo kann ich einen Stadtplan bekommen?	मैं कहाँ से एक नक्शा पा सकता हूँ?
+Where can we meet you?	Wo können wir dich treffen?	हम तुम्हें कहाँ मिल सकते हैं?
