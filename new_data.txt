@@ -25605,3 +25605,11 @@ He burst into tears.	Er brach in Tränen aus.	उसने रोना शु�
 He called me a taxi.	Er rief mir ein Taxi.	उसने मुझे एक टैक्सी बुलवाई।
 He came home at ten.	Er kam um zehn nach Hause.	वह दस बजे घर आया।
 He can be relied on.	Auf ihn kann man zählen.	उस पर विश्वास किया जा सकता है।
+He can hardly speak.	Er kann kaum sprechen.	वह मुश्किल से बोल सकता है।
+He can play a flute.	Er kann Flöte spielen.	वह बांसुरी बजा सकता है।
+He can ride a horse.	Er kann reiten.	वह घोड़े पर सवारी कर सकता है।
+He cannot afford it.	Er kann es sich nicht leisten.	उसके पास इसकी व्यावस्था नहीं है।
+He cannot be a poet.	Er kann kein Dichter sein.	वह कवि नहीं हो सकता।
+He changed his mind.	Er hat seine Meinung geändert.	उसने अपना दृष्टिकोण बदल दिया।
+He chased the thief.	Er jagte den Dieb.	उसने चोर का पीछा किया।
+He climbed Mt. Fuji.	Er bestieg den Berg Fuji.	उसने एमटी फूजी पर चढ़ाई की।
