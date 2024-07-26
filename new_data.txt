@@ -30410,3 +30410,8 @@ Are you almost ready?	Sind Sie fast fertig?	क्या तुम लगभग 
 Are you angry at him?	Bist du wütend auf ihn?	क्या तुम उस पर गुस्सा हो?
 Are you bringing Tom?	Bringst du Tom mit?	क्या तुम टॉम को ले आ रहे हो?
 Are you conservative?	Bist du konservativ?	क्या आप परंपरागत हैं?
+Are you disappointed?	Bist du enttäuscht?	क्या आप निराश हैं?
+Are you eating lunch?	Isst du zu Mittag?	क्या आप दोपहर का भोजन कर रहे हो?
+Are you feeling sick?	Fühlst du dich krank?	क्या आपको बीमारी महसूस हो रही है?
+Are you following me?	Folgst du mir?	क्या तुम मेरा पीछा कर रहे हो?
+Are you freaking out?	Bist du ausgeflippt?	क्या आप पागल हो रहे हैं?

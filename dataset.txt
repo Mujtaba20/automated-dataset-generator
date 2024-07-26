@@ -1,14 +1,4 @@
 
-Are you disappointed?	Bist du enttäuscht?	आप निराश हैं?
-Are you disappointed?	Seid ihr enttäuscht?	आप निराश हैं?
-Are you disappointed?	Sind Sie enttäuscht?	आप निराश हैं?
-Are you eating lunch?	Esst ihr zu Mittag?	क्या आप दोपहर का खाना खाते हैं?
-Are you eating lunch?	Isst du zu Mittag?	क्या आप दोपहर का भोजन खा रहे हैं?
-Are you eating lunch?	Essen Sie zu Mittag?	क्या आप दोपहर का खाना खाते हैं?
-Are you feeling sick?	Fühlst du dich krank?	क्या आप बीमार हो?
-Are you feeling sick?	Fühlen Sie sich krank?	क्या आप बीमार हो?
-Are you following me?	Kannst du mir folgen?	क्य तुम मेरा पालन कर सकते हो?
-Are you freaking out?	Drehst du gerade durch?	क्या आप जा रहे हैं?
 Are you getting this?	Hast du das verstanden?	आपको समझ में आया?
 Are you going or not?	Gehst du oder nicht?	आप जा रहे हैं या नहीं?
 Are you good at math?	Bist du gut in Mathe?	आप गणित में अच्छे हैं?
