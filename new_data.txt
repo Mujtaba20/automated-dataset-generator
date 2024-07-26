@@ -25836,3 +25836,9 @@ He's a stand-up guy.	Er ist ein zuverlässiger Typ.	वह एक सही इ�
 He's about to leave.	Er steht kurz davor zu gehen.	वह जाने वाला है।
 He's active and fit.	Er ist aktiv und fit.	वह सक्रिय और फिट है।
 He's in great shape.	Er ist in guter Form.	वह बहुत अच्छे स्वास्थ्य में है।
+He's afraid of cats.	Er hat Angst vor Katzen.	उसे बिल्लियों से डर लगता है।
+He's afraid of dogs.	Er hat Angst vor Hunden.	उसे कुत्तों से डर लगता है।
+He's always on time.	Er ist immer pünktlich.	वह हमेशा समय पर रहता है।
+He's an opera lover.	Er begeistert sich für Opern.	उसे ओपेरा का दीवाना है।
+He's behaving oddly.	Er benimmt sich eigenartig.	उसका व्यवहार अजीब है।
+He's big and strong.	Er ist groß und stark.	वह लम्बा और मजबूत है।

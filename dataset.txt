@@ -1,14 +1,4 @@
 
-He's afraid of cats.	Er hat Angst vor Katzen.	वह बिल्लियों से डरता है।
-He's afraid of dogs.	Er hat Angst vor Hunden.	वह कुत्तों से डरता है।
-He's always on time.	Er ist immer pünktlich.	वह हमेशा समय पर रहता है।
-He's an opera lover.	Er ist ein Opernliebhaber.	वह एक ओपेरा प्रेमी है।
-He's an opera lover.	Er ist ein Opernfan.	वह एक ओपेरा प्रशंसक है।
-He's an opera lover.	Er ist ein Freund der Oper.	वह ओपेरा का दोस्त है।
-He's behaving oddly.	Er verhält sich merkwürdig.	वह अजीब व्यवहार करता है।
-He's behaving oddly.	Er verhält sich seltsam.	वह अजीब व्यवहार करता है।
-He's behaving oddly.	Er benimmt sich merkwürdig.	वह अजीब व्यवहार करता है।
-He's big and strong.	Er ist groß und stark.	यह बड़ा और मजबूत है।
 He's doing his best.	Er tut sein Bestes.	वह अपना सर्वश्रेष्ठ प्रदर्शन करता है।
 He's doing it right.	Er tut es richtig.	वह सही करता है।
 He's giving it a go.	Er versucht es.	वह कोशिश करता है।
