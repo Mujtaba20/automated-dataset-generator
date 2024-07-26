@@ -24685,3 +24685,12 @@ Which car is Tom's?	Welches Auto gehört Tom?	टॉम की कौन सी 
 Which car is yours?	Welches Auto gehört dir?	तुम्हारी कौन सी कार है?
 Which cat is yours?	Welche Katze gehört dir?	तुम्हारी कौन सी बिल्ली है?
 Which cup is yours?	Welcher Becher gehört dir?	तुम्हारा कौन सा कप है?
+Which dog is Tom's?	Welcher Hund gehört Tom?	टॉम का कुत्ता कौनसा है?
+Which dog is yours?	Welcher Hund gehört dir?	तुम्हारा कौनसा कुत्ता है?
+Which hat is yours?	Welcher Hut gehört dir?	तुम्हारा कौनसा टोपी है?
+Which is your book?	Welches ist dein Buch?	तुम्हारी कौनसी किताब है?
+Which team is ours?	Welches Team gehört uns?	हमारा कौनसा टीम है? 
+Who allowed him in?	Wer hat ihn reingelassen?	किसने उसे अंदर आने दिया?
+Who are the others?	Wer sind die anderen?	दूसरे कौन-कौन हैं?
+Who are those guys?	Wer sind diese Typen?	वे व्यक्ति कौन हैं?
+Who are we meeting?	Wen treffen wir?	हम किससे मिलने जा रहे हैं?

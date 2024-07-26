@@ -1,14 +1,4 @@
 
-Which dog is Tom's?	Welcher Hund gehört Tom?	कौन सा कुत्ता टॉम का है?
-Which dog is yours?	Welcher ist Ihr Hund?	आपका कुत्ता कौन सा है?
-Which dog is yours?	Welcher ist dein Hund?	आपका कुत्ता कौन सा है?
-Which hat is yours?	Welcher Hut ist deiner?	आपकी टोपी क्या है?
-Which is your book?	Welches ist dein Buch?	आपकी पुस्तक क्या है?
-Which team is ours?	Welche Mannschaft ist die unsere?	हमारी कौन सी टीम है?
-Who allowed him in?	Wer hat ihn hereingelassen?	उसे किसने दिया?
-Who are the others?	Wer sind die anderen?	अन्य कौन हैं?
-Who are those guys?	Wer sind die Typen da?	लोग कौन हैं?
-Who are we meeting?	Wen treffen wir?	हम किससे मिलते हैं?
 Who are you really?	Wer bist du wirklich?	आप वास्तव में कौन हैं?
 Who ate the cheese?	Wer hat den Käse gegessen?	पनीर किसने खाया?
 Who broke the vase?	Wer hat die Vase zerbrochen?	फूलदान को किसने तोड़ दिया?
