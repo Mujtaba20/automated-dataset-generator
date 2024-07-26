@@ -31751,3 +31751,10 @@ I have an invitation.	Ich habe eine Einladung.	मेरे पास निम�
 I have back problems.	Ich habe Rückenprobleme.	मेरी पीठ में समस्या है।
 I have been in Paris.	Ich war in Paris.	मैंने पेरिस में रहा है।
 I have blue jeans on.	Ich trage blaue Jeans.	मेरा नीला जीन्स पहना हुआ है।
+I have caught a cold.	Ich habe eine Erkältung erwischt.	मुझे सर्दी हो गई है।
+I have class tonight.	Ich habe heute Abend Unterricht.	आज रात कक्षा है।
+I have cut my finger.	Ich habe mir in den Finger geschnitten.	मेरा उंगली काट लिया है।
+I have four brothers.	Ich habe vier Brüder.	मेरे पास चार भाई हैं।
+I have gained weight.	Ich habe zugenommen.	मैंने वजन बढ़ा लिया है।
+I have good eyesight.	Ich habe eine gute Sehkraft.	मेरी आँखों की दृष्टि अच्छी है।
+I have got to go now.	Ich muss jetzt gehen.	मुझे अब जाना होगा।
