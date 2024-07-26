@@ -34655,3 +34655,11 @@ Tom looked miserable.	Tom sah elend aus.	टॉम दुखी दिख रह
 Tom looked perplexed.	Tom sah verwirrt aus.	टॉम उलझन में दिख रहा था।
 Tom looked petrified.	Tom sah versteinert aus.	टॉम भयानक दिख रहा था।
 Tom looked terrified.	Tom sah entsetzt aus.	टॉम डर गया दिख रहा था।
+Tom looked very busy.	Tom sah sehr beschäftigt aus.	टॉम बहुत व्यस्त लग रहा था।
+Tom looked very good.	Tom sah sehr gut aus.	टॉम बहुत अच्छा लग रहा था।
+Tom looked very pale.	Tom sah sehr blass aus.	टॉम बहुत यहा-वर्ण लग रहा था।
+Tom looks busy today.	Tom scheint heute beschäftigt zu sein.	टॉम आज व्यस्त लग रहा है।
+Tom looks fine to me.	Tom sieht für mich gut aus.	मेरे लिए टॉम ठीक लग रहा है।
+Tom looks pretty bad.	Tom sieht ziemlich schlecht aus.	टॉम काफी खराब दिख रहा है।
+Tom looks really sad.	Tom wirkt wirklich traurig.	टॉम सचमुच उदास लग रहा है।
+Tom looks ridiculous.	Tom sieht lächerlich aus.	टॉम मात्राहीन लग रहा है।
