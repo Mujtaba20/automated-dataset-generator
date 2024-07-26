@@ -1,14 +1,4 @@
 
-That's why I'm here.	Das ist der Grund, warum ich hier bin.	यही कारण है कि मैं यहाँ हूँ।
-That's why I'm here.	Ebendarum bin ich hier.	मैं यहां हूं।
-That's why I'm here.	Deswegen bin ich hier!	मैं इसीलिए यहां पर हूं!
-That's why Tom came.	Tom ist deswegen gekommen.	टॉम आ गया है।
-That's why Tom came.	Deshalb kam Tom.	तो टॉम आया।
-That's why Tom quit.	Deshalb hat Tom aufgehört.	इसलिए टॉम रुक गया।
-That's your funeral.	Das ist Ihr Problem!	यह उसकी समस्या है!
-That's your funeral.	Das ist allein dein Problem!	यह आपकी समस्या है!
-That's your problem.	Das ist dein Problem.	यह तुम्हारी समस्या है।
-That's your problem.	Das ist Ihr Problem.	यही उसकी समस्या है।
 The TV doesn't work.	Der Fernseher geht nicht.	टेलीविज़न काम नहीं करता है.
 The TV doesn't work.	Der Fernseher funktioniert nicht.	टीवी काम नहीं करता है.
 The air became warm.	Die Luft erwärmte sich.	हवा गर्म हो गई।

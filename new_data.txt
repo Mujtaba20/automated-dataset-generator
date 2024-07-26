@@ -28156,3 +28156,8 @@ That's what they do.	Das ist, was sie tun.	वही वे करते है�
 That's what we want.	Das ist, was wir wollen.	वही हम चाहते हैं।
 That's where I live.	Da lebe ich.	वहीं मैं रहता हूँ।
 That's where Tom is.	Da ist Tom.	वहीं टॉम है।
+That's why I'm here.	Darum bin ich hier.	यही कारण है कि मैं यहाँ हूँ।
+That's why Tom came.	Das ist der Grund, warum Tom kam.	यही कारण है कि टॉम आया।
+That's why Tom quit.	Das ist der Grund, warum Tom aufgehört hat.	यही कारण है कि टॉम ने छोड़ दिया।
+That's your funeral.	Das ist dein Begräbnis.	यह तुम्हारा अंतिम संस्कार है।
+That's your problem.	Das ist dein Problem.	यह तुम्हारी समस्या है।
