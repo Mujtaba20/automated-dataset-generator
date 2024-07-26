@@ -1,14 +1,4 @@
 
-Tom pulled out a pen.	Tom holte einen Stift heraus.	टॉम ने एक कलम निकाली।
-Tom pushed Mary away.	Tom stieß Maria von sich.	टॉम ने मैरी को खुद से धकेल दिया।
-Tom put Mary on hold.	Tom setzte Mary auf die Warteliste.	टॉम ने मैरी को प्रतीक्षा सूची में रखा।
-Tom put down his pen.	Tom legte seinen Stift nieder.	टॉम ने अपनी कलम नीचे रख दी।
-Tom put his shirt on.	Tom zog sein Hemd an.	टॉम ने अपनी शर्ट डाल दी।
-Tom put his shoes on.	Tom zog seine Schuhe an.	टॉम ने अपने जूते लगाए।
-Tom put out the fire.	Tom löschte das Feuer.	टॉम ने आग को हटा दिया।
-Tom put out the fire.	Tom machte das Feuer aus.	टॉम ने आग लगा दी।
-Tom raised his glass.	Tom hob sein Glas.	टॉम ने अपना गिलास उठाया।
-Tom raised his hands.	Tom hob die Hände.	टॉम ने अपने हाथ उठाए।
 Tom raised his voice.	Tom erhob die Stimme.	टॉम ने आवाज उठाई।
 Tom ran for his life.	Tom rannte um sein Leben.	टॉम अपने जीवन के लिए भाग गया।
 Tom ran for his life.	Tom lief um sein Leben.	टॉम अपने जीवन के लिए भाग गया।

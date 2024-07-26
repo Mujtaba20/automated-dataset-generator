@@ -34766,3 +34766,13 @@ Tom popped the trunk.	Tom öffnete den Kofferraumdeckel.	टॉमने ट्�
 Tom probably took it.	Tom hat es wahrscheinlich genommen.	शायद टॉमने यह लिया होगा।
 Tom promised me that.	Tom versprach mir das.	टॉमने मुझसे वादा किया था।
 Tom promised to help.	Tom versprach zu helfen.	टॉमने मदद करने का वादा किया।
+Tom pulled out a pen.	Tom holte einen Stift heraus.	टॉम ने एक पेन बाहर निकाला।
+Tom pushed Mary away.	Tom stieß Maria weg.	टॉम ने मैरी को दूर धकेला।
+Tom put Mary on hold.	Tom legte Mary in die Warteschleife.	टॉम ने मेरी को होल्ड पर डाल दिया।
+Tom put down his pen.	Tom legte seinen Stift ab.	टॉम ने अपना पेन नीचे रखा।
+Tom put his shirt on.	Tom zog sein Hemd an.	टॉम ने अपनी कमीज पहनी।
+Tom put his shoes on.	Tom zog seine Schuhe an.	टॉम ने अपनी जूतें पहन ली।
+Tom put out the fire.	Tom löschte das Feuer.	टॉम ने आग बुझा दी।
+Tom put out the fire. (Different meaning)	Tom machte das Feuer aus.	टॉम ने आग को बंद कर दिया।
+Tom raised his glass.	Tom hob sein Glas.	टॉम ने अपना गिलास उठाया।
+Tom raised his hands.	Tom hob die Hände.	टॉम ने हाथ उठाए।
