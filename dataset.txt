@@ -1,14 +1,4 @@
 
-Tom is very unreliable.	Tom ist sehr unzuverlässig.	टॉम बहुत अविश्वसनीय है।
-Tom is very untalented.	Tom ist ziemlich untalentiert.	टॉम बहुत ही अनियंत्रित है।
-Tom is waiting for you.	Tom wartet auf dich.	टॉम आपका इंतजार कर रहा है।
-Tom is waiting for you.	Tom wartet auf Sie.	टॉम आपका इंतजार कर रहा है।
-Tom is waiting for you.	Tom wartet auf euch.	टॉम आपका इंतजार कर रहा है।
-Tom is waiting outside.	Tom wartet draußen.	टॉम बाहर इंतजार कर रहा है।
-Tom is walking his dog.	Tom führt seinen Hund aus.	टॉम अपने कुत्ते को बाहर ले जाता है।
-Tom is walking his dog.	Tom geht mit seinem Hund Gassi.	टॉम अपने कुत्ते के साथ टहलने जाता है।
-Tom is walking his dog.	Tom führt gerade seinen Hund spazieren.	टॉम अपना कुत्ता चला रहा है।
-Tom is washing his car.	Tom wäscht seinen Wagen.	टॉम ने अपनी कार को धोया।
 Tom is watching TV now.	Jetzt schaut Tom fern.	अब टॉम दूर दिखता है।
 Tom is waving his arms.	Tom winkt.	टॉम वेव्स।
 Tom is wearing glasses.	Tom trägt eine Brille.	टॉम चश्मा पहनता है।
