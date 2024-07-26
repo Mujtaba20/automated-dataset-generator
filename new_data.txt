@@ -25820,3 +25820,10 @@ He wrote the report.	Er schrieb den Bericht.	उसने रिपोर्ट 
 He yelled with pain.	Er schrie vor Schmerz.	उसने दर्द से चीखा।
 He'll be here again.	Er wird wieder hier sein.	वह फिर से यहाँ होगा।
 He'll get well soon.	Er wird sich bald erholen.	उसका जल्द स्वस्थ हो जाएगा।
+He'll never beat me.	Er wird mich nie schlagen.	वह कभी मुझसे नहीं हरेगा।
+He'll return at six.	Er wird um sechs zurückkehren.	वह छह बजे वापस आएगा।
+He's a cardiologist.	Er ist Kardiologe.	वह कार्डियोलॉजिस्ट है।
+He's a chain smoker.	Er ist ein Kettenraucher.	वह एक चेन स्मोकर है।
+He's a fast learner.	Er ist ein schneller Lerner.	वह एक तेज सीखने वाला है।
+He's a great kisser.	Er ist ein großartiger Küsser.	वह एक महान चुंबनेवाला है।
+He's a late bloomer.	Er ist spät dran.	वह देर से फूलू रहा है।
