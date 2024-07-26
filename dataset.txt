@@ -1,15 +1,4 @@
 
-Tom read a comic book.	Tom las ein Comicbuch.	टॉम ने एक कॉमिक बुक पढ़ी।
-Tom really hates Mary.	Tom hasst Mary total.	टॉम से मैरी टोटल से नफरत है।
-Tom really likes Mary.	Tom mag Maria wirklich gern.	टॉम वास्तव में मारिया को पसंद करता है।
-Tom really loved Mary.	Tom liebte Maria sehr.	टॉम ने मारिया को बहुत प्यार किया।
-Tom really loved Mary.	Tom liebte Maria wirklich.	टॉम वास्तव में मारिया से प्यार करता था।
-Tom recovered quickly.	Tom erholte sich schnell.	टॉम जल्दी से ठीक हो गया।
-Tom reeked of alcohol.	Tom stank nach Alkohol.	शराब का टॉम स्टैंक।
-Tom refused to let go.	Tom weigerte sich, loszulassen.	टॉम ने जाने से इनकार कर दिया।
-Tom refused to listen.	Tom weigerte sich zuzuhören.	टॉम ने सुनने से इनकार कर दिया।
-Tom rejected the idea.	Tom wies die Idee zurück.	टॉम ने इस विचार को खारिज कर दिया।
-Tom rejected the idea.	Tom hat die Idee abgelehnt.	टॉम ने इस विचार को खारिज कर दिया।
 Tom remained standing.	Tom blieb stehen.	टॉम रुक गया।
 Tom remains in Boston.	Tom bleibt in Boston.	टॉम बोस्टन में रहता है।
 Tom remains obstinate.	Tom bleibt stur.	टॉम जिद्दी रहता है।

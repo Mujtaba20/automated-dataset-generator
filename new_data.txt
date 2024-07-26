@@ -40626,3 +40626,13 @@ Tom rarely ever spoke.	Tom sprach selten.	टॉम कभी-कभार ब�
 Tom rarely gets angry.	Tom wird selten wütend.	टॉम शांत रहता है।
 Tom rarely went there.	Tom ging selten dorthin.	टॉम वहाँ बहुत कम गया।
 Tom reacted instantly.	Tom reagierte sofort.	टॉम तुरंत प्रतिक्रिया दिया।
+Tom read a comic book.	Tom las ein Comicbuch.	टॉम ने एक कॉमिक बुक पढ़ी।
+Tom really hates Mary.	Tom hasst Mary wirklich.	टॉम मेरी से वास्तव में नफरत करता है।
+Tom really likes Mary.	Tom mag Mary wirklich.	टॉम को मेरी सच में पसंद है।
+Tom really loved Mary.	Tom liebte Mary wirklich.	टॉम ने मेरी से सच में प्यार किया था।
+Tom really loved Mary. (Different meaning)	Tom mochte Mary wirklich.	टॉम ने मेरी से वास्तव में प्यार किया।
+Tom recovered quickly.	Tom erholte sich schnell.	टॉम जल्दी ही ठीक हो गया।
+Tom reeked of alcohol.	Tom roch nach Alkohol.	टॉम शराब की गंध फैल रहा था।
+Tom refused to let go.	Tom weigerte sich loszulassen.	टॉम छोड़ने से इनकार किया।
+Tom refused to listen.	Tom weigerte sich zuzuhören.	टॉम सुनने से इनकार कर दिया।
+Tom rejected the idea.	Tom lehnte die Idee ab.	टॉम ने विचार को अस्वीकार किया।
