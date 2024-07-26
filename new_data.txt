@@ -21728,3 +21728,11 @@ I was born in 1979.	Ich wurde 1979 geboren.	मैं 1979 में पैद�
 I was born in 1980.	Ich wurde 1980 geboren.	मैं 1980 में पैदा हुआ था।
 I was born in 1982.	Ich bin 1982 geboren.	मैं 1982 में पैदा हुआ था।
 I was born in 1988.	Ich wurde 1988 geboren.	मैं 1988 में पैदा हुआ था।
+I was busy all day.	Ich war den ganzen Tag beschäftigt.	मैं पूरे दिन व्यस्त था।
+I was engaged once.	Ich war einmal verlobt.	मैं एक बार सगाई हुई थी।
+I was expecting it!	Ich habe es erwartet!	मैं इसकी उम्मीद थी!
+I was feeling blue.	Ich hatte schlechte Laune.	मैं उदास महसूस कर रहा था।
+I was forced to go.	Ich musste gehen.	मुझे जाने के लिए मजबूर किया गया था।
+I was getting cold.	Mir wurde kalt.	मुझे ठंडी हो रही थी।
+I was glad to help.	Ich war froh zu helfen.	मैं खुश था मदद करने के लिए।
+I was having lunch.	Ich war beim Mittagessen.	मैं लंच कर रहा था।
