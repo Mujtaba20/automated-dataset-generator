@@ -31706,3 +31706,13 @@ I had to keep moving.	Ich musste in Bewegung bleiben.	मुझे आगे ब
 I had to leave early.	Ich musste früh gehen.	मुझे जल्दी जाना पड़ा।
 I had to pay in cash.	Ich musste bar zahlen.	मुझे नकद में भुगतान करना पड़ा।
 I had to talk to Tom.	Ich musste mit Tom sprechen.	मुझे टॉम से बात करनी पड़ी।
+I hate Tom's parents.	Ich hasse Toms Eltern.	मुझे टॉम के माता-पिता से नफरत है।
+I hate cops like him.	Ich hasse Polizisten wie ihn.	मुझे उसके तरह के कॉप्स से नफरत है।
+I hate jealous women.	Ich hasse eifersüchtige Frauen.	मुझे जलने वाली महिलाओं से नफरत है।
+I hate long goodbyes.	Ich hasse lange Abschiede.	मुझे लंबे विदाई से नफरत है।
+I hate peanut butter.	Ich hasse Erdnussbutter.	मुझे मूंगफली की मक्खन से नफरत है।
+I hate silent movies.	Ich hasse Stummfilme.	मुझे चुप्पी चाप्पी फिल्मों से नफरत है।
+I hated you at first.	Ich hasste dich zuerst.	मैंने पहले तुम्हें नफरत की थी।
+I have a bad sunburn.	Ich habe einen schlimmen Sonnenbrand.	मेरे पास एक बुरा सनबर्न है।
+I have a beach house.	Ich habe ein Strandhaus.	मेरे पास एक समुद्र तट का घर है।
+I have a better idea.	Ich habe eine bessere Idee.	मेरे पास एक बेहतर विचार है।
