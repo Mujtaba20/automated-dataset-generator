@@ -35957,3 +35957,10 @@ You're putting me on.	Du veräppelst mich.	तुम मुझे चक्क�
 You're quite correct.	Du hast völlig recht.	तुम पूरी तरह सही हो।
 You're really gifted.	Du bist wirklich begabt.	तुम वास्तव में प्रतिभाशाली हो।
 You're really pretty.	Du bist wirklich hübsch.	तुम सच में खूबसूरत हो।
+You're seriously ill.	Du bist ernsthaft krank.	तुम गंभीर रूप से बीमार हो।
+You're so mysterious.	Du bist so geheimnisvoll.	तुम इतने रहस्यमय हो।
+You're still growing.	Du wächst immer noch.	तुम अभी भी बढ़ रहे हो।
+You're still shaking.	Du zitterst immer noch.	तुम अभी भी कांप रहे हो।
+You're such a coward.	Du bist so feige.	तू बहुत डरपोक है।
+You're such a weirdo.	Du bist so seltsam.	तुम कितने अजीब हो।
+You're such an idiot!	Du bist so ein Idiot!	तुम एक मूर्ख हो!

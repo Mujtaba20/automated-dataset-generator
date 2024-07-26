@@ -1,14 +1,4 @@
 
-You're seriously ill.	Sie sind schwer krank.	वे गंभीर रूप से बीमार हैं।
-You're so mysterious.	Du bist so geheimnisvoll.	तुम बहुत रहस्यमय हो।
-You're still growing.	Ihr wachst noch.	आप अभी भी बढ़ रहे हैं।
-You're still growing.	Sie wachsen noch.	वे अभी भी बढ़ रहे हैं।
-You're still growing.	Du wächst noch.	आप अभी भी बढ़ रहे हैं।
-You're still shaking.	Du zitterst ja noch.	आप अभी भी कांपते हैं।
-You're such a coward.	Du bist so ein Feigling!	तुम ऐसे कायर हो!
-You're such a coward.	Du bist so ein Hasenfuß!	आप ऐसे खरगोश पैर हैं!
-You're such a weirdo.	Du hast echt ’n Knall!	आप वास्तव में एक धमाका है!
-You're such an idiot!	Du bist vielleicht ein Idiot!	आप एक बेवकूफ हो सकते हैं!
 You're tempting fate.	Du forderst das Schicksal heraus.	आप भाग्य को चुनौती देते हैं।
 You're tempting fate.	Sie fordern das Schicksal heraus.	वे भाग्य को चुनौती देते हैं।
 You're tempting fate.	Ihr fordert das Schicksal heraus.	आप भाग्य को चुनौती देते हैं।
