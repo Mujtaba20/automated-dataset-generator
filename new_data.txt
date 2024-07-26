@@ -29808,3 +29808,12 @@ What is on the desk?	Was liegt auf dem Tisch?	डेस्क पर क्य�
 What is our problem?	Was ist unser Problem?	हमारी समस्या क्या है?
 What is popular now?	Was ist jetzt beliebt?	अब क्या प्रसिद्ध है?
 What is this letter?	Was ist dieser Brief?	यह पत्र क्या है?
+What makes us human?	Was macht uns menschlich?	हमें मानव बनाता है क्या?
+What page is Tom on?	Auf welcher Seite ist Tom?	टॉम किस पेज पर है?
+What pretty flowers!	Was für hübsche Blumen!	कितने सुंदर फूल हैं!
+What should I bring?	Was soll ich mitbringen?	मैं क्या लेकर आऊँ?
+What should we wear?	Was sollen wir tragen?	हमें क्या पहनना चाहिए?
+What time is dinner?	Um wie viel Uhr ist das Abendessen?	रात का खाना कितने बजे है?
+What time is it now?	Wie spät ist es jetzt?	अभी कितने बजे हैं?
+What time is sunset?	Wann ist Sonnenuntergang?	सूर्यास्त कितने बजे है?
+What was I thinking?	Was habe ich mir dabei gedacht?	मैं क्या सोच रहा था?
