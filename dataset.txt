@@ -1,14 +1,4 @@
 
-You always lie to me.	Du lügst mich immer an.	तुम हमेशा मुझ पर झूठ बोलते हो।
-You always lie to me.	Ihr lügt mich immer an.	तुम हमेशा मुझसे झूठ बोलते हो।
-You always lie to me.	Sie lügen mich immer an.	वे हमेशा मुझ पर झूठ बोलते हैं।
-You are a bad person.	Sie sind ein schlechter Mensch.	आप एक बुरे इंसान हैं।
-You are a bad person.	Du bist ein schlechter Mensch.	आप एक बुरे व्यक्ति हैं।
-You are a workaholic.	Du bist ein Arbeitshai.	आप एक कामकाजी शार्क हैं।
-You are a workaholic.	Du bist arbeitswütig.	आप उत्साही हैं।
-You are confusing me.	Du verwirrst mich.	आप मुझे भ्रमित किये।
-You are confusing me.	Ihr verwirrt mich.	तुमने मुझे उलझन में डाला।
-You are confusing me.	Sie verwirren mich.	आप मुझे भ्रमित किये।
 You are irresistible.	Du bist unwiderstehlich.	आप अति सम्मोहक हो।
 You are not Japanese.	Du bist kein Japaner.	आप जापानी नहीं हैं।
 You are not Japanese.	Ihr seid keine Japaner.	आप जापानी नहीं हैं।

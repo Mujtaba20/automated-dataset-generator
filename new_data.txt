@@ -35741,3 +35741,8 @@ You almost killed me.	Sie haben mich fast umgebracht.	तुमने मुझ�
 You almost killed me. (Different meaning)	Du hast mich fast vor Schrecken sterben lassen.	तुमने मुझे डर के मारे आदमी कर दिया था।
 You almost missed me.	Sie haben mich fast verpasst.	तुमने मुझे लगभग छोड़ दिया।
 You almost missed me. (Different meaning)	Du hast mich fast übersehen.	तुमने मुझे लगभग नहीं देखा।
+You always lie to me.	Du lügst immer zu mir.	तुम हमेशा मुझसे झूठ बोलते हो।
+You are a bad person.	Du bist eine schlechte Person.	तुम एक बुरा इंसान हो।
+You are a workaholic.	Du bist ein Workaholic.	तुम एक कामवाला हो।
+You are confusing me.	Du verwirrst mich.	तुम मुझे गलतफहमी में डाल रहे हो।
+You always lie to me. - Second Meaning	Du täuschst mich immer.	तुम हमेशा मुझे धोखा देते हो।
