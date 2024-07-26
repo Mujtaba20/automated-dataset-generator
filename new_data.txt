@@ -32128,3 +32128,11 @@ I think Tom did well.	Ich denke, Tom hat gut gemacht.	मुझे लगता 
 I think Tom hates me.	Ich denke, Tom hasst mich.	मुझे लगता है कि टॉम मुझे नफरत करता है।
 I think Tom is alive.	Ich denke, Tom ist lebendig.	मुझे लगता है कि टॉम जिंदा है।
 I think Tom is awake.	Ich denke, Tom ist wach.	मुझे लगता है कि टॉम जागा है।
+I think Tom is bored.	Ich denke, Tom ist gelangweilt.	मुझे लगता है, टॉम उबाऊ है।
+I think Tom is brave.	Ich denke, Tom ist mutig.	मुझे लगता है, टॉम बहादुर है।
+I think Tom is drunk.	Ich denke, Tom ist betrunken.	मुझे लगता है, टॉम नशे में है।
+I think Tom is great.	Ich denke, Tom ist großartig.	मुझे लगता है, टॉम बहुत अच्छा है।
+I think Tom is happy.	Ich denke, Tom ist glücklich.	मुझे लगता है, टॉम खुश है।
+I think Tom is lying.	Ich denke, Tom lügt.	मुझे लगता है, टॉम झूठ बोल रहा है।
+I think Tom is sharp.	Ich denke, Tom ist scharf.	मुझे लगता है, टॉम तेज़ है।
+I think Tom liked it.	Ich denke, Tom mochte es.	मुझे लगता है, टॉम ने इसे पसंद किया।

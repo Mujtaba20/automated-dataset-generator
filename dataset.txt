@@ -1,14 +1,4 @@
 
-I think Tom is bored.	Ich glaube, Tom langweilt sich.	मुझे लगता है कि टॉम ऊब गया है।
-I think Tom is brave.	Ich finde, Tom hat Mut.	मुझे लगता है कि टॉम में साहस है।
-I think Tom is drunk.	Ich glaube, Tom ist betrunken.	मुझे लगता है कि टॉम नशे में है।
-I think Tom is great.	Ich denke, Tom ist großartig.	मुझे लगता है कि टॉम महान है।
-I think Tom is happy.	Ich glaube, Tom ist glücklich.	मुझे लगता है कि टॉम खुश है।
-I think Tom is happy.	Ich glaube, dass Tom glücklich ist.	मुझे लगता है कि टॉम खुश है।
-I think Tom is lying.	Ich denke, dass Tom lügt.	मुझे लगता है कि टॉम झूठ बोल रहा है।
-I think Tom is sharp.	Ich denke, Tom ist schlau.	मुझे लगता है कि टॉम स्मार्ट है।
-I think Tom liked it.	Ich glaube, Tom gefiel es.	मुझे लगता है कि टॉम को यह पसंद आया।
-I think Tom liked it.	Ich glaube, Tom hat es gefallen.	मुझे लगता है कि टॉम को यह पसंद आया।
 I think Tom likes it.	Ich denke, Tom mag es.	मुझे लगता है कि टॉम इसे पसंद करता है।
 I think Tom likes me.	Ich denke, Tom mag mich.	मुझे लगता है कि टॉम मुझे पसंद करता है।
 I think Tom needs me.	Ich glaube, Tom braucht mich.	मुझे लगता है कि टॉम को मेरी जरूरत है।
