@@ -1,15 +1,4 @@
 
-We went for a walk.	Wir sind spazieren gegangen.	हम घूमने गए थे।
-We went to a movie.	Wir sind ins Kino gegangen.	हम सिनेमा गए।
-We went to the zoo.	Wir sind in den Zoo gegangen.	हम चिड़ियाघर गए।
-We were all asleep.	Wir haben alle geschlafen.	हम सब सोए थे।
-We were both drunk.	Wir waren beide betrunken.	हम दोनों नशे में थे।
-We were having fun.	Wir amüsierten uns gut.	हमने खुद का आनंद लिया।
-We were here first.	Wir waren zuerst hier.	हम पहले यहां थे।
-We were in a hurry.	Wir waren in Eile.	हम जल्दी में थे।
-We were just going.	Wir wollten gerade gehen.	हम बस जाना चाहते थे।
-We were just lucky.	Wir hatten einfach nur Massel.	हमारे पास बस बड़े पैमाने पर था।
-We were just lucky.	Wir hatten einfach nur Glück.	हम सिर्फ भाग्यशाली थे।
 We were passengers.	Wir waren Fahrgäste.	हम यात्री थे।
 We were there, too.	Wir waren auch da.	हम भी वहां थे।
 We were very happy.	Wir waren sehr glücklich.	हम बहुत खुश थे।

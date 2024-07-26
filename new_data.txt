@@ -24360,3 +24360,13 @@ We want to see Tom.	Wir wollen Tom sehen.	हम टॉम को देखन�
 We want to see you.	Wir wollen dich sehen.	हम तुम्हें देखना चाहते हैं।
 We want to take it.	Wir wollen es nehmen.	हम इसे लेना चाहते हैं।
 We watched a movie.	Wir haben einen Film angeschaut.	हमने एक फिल्म देखी।
+We went for a walk.	Wir gingen spazieren.	हमने पैदल चलने के लिए जाया।
+We went to a movie.	Wir sind ins Kino gegangen.	हमने एक फिल्म देखने के लिए गए।
+We went to the zoo.	Wir sind in den Zoo gegangen.	हमने जू जानें के लिए गए।
+We were all asleep.	Wir waren alle eingeschlafen.	हम सभी सो गए थे।
+We were both drunk.	Wir waren beide betrunken.	हम दोनों नशे में थे।
+We were having fun.	Wir hatten Spaß.	हम मजे कर रहे थे।
+We were here first.	Wir waren zuerst hier.	हम पहले यहाँ थे।
+We were in a hurry.	Wir hatten es eilig.	हमें जल्दी है।
+We were just going.	Wir waren gerade unterwegs.	हम बस जा रहे थे।
+We were just lucky.	Wir hatten einfach Glück.	हम बस भाग्यशाली थे।
