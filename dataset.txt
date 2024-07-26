@@ -1,14 +1,4 @@
 
-Tom died last October.	Tom ist letzten Oktober gestorben.	पिछले अक्टूबर में टॉम का निधन हो गया।
-Tom died of pneumonia.	Tom starb an einer Lungenentzündung.	टॉम की मृत्यु निमोनिया से हुई।
-Tom died the next day.	Tom ist am nächsten Tag gestorben.	अगले दिन टॉम की मृत्यु हो गई।
-Tom died this morning.	Tom ist heute Morgen gestorben.	आज सुबह टॉम की मृत्यु हो गई।
-Tom died unexpectedly.	Tom ist unerwartet gestorben.	टॉम की अप्रत्याशित रूप से मृत्यु हो गई।
-Tom disappointed Mary.	Tom enttäuschte Maria.	टॉम ने मारिया को निराश किया।
-Tom disappointed Mary.	Tom hat Maria enttäuscht.	टॉम ने मारिया को निराश किया।
-Tom does that quickly.	Tom tat das schnell.	टॉम ने वह जल्दी किया।
-Tom doesn't answer me.	Tom antwortet mir nicht.	टॉम मुझे जवाब नहीं देता।
-Tom doesn't buy bread.	Tom kauft kein Brot.	टॉम रोटी नहीं खरीदता है।
 Tom doesn't have time.	Tom hat keine Zeit.	टॉम के पास कोई समय नहीं है।
 Tom doesn't know Mary.	Tom kennt Mary nicht.	टॉम मैरी को नहीं जानता।
 Tom doesn't know much.	Tom weiß nicht viel.	टॉम ज्यादा नहीं जानता।

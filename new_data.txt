@@ -39973,3 +39973,12 @@ Tom died early Monday.	Tom starb früh am Montag.	टॉम ने सोमव�
 Tom died in Australia.	Tom starb in Australien.	टॉम ने ऑस्ट्रेलिया में मर गया।
 Tom died in his sleep.	Tom starb im Schlaf.	टॉम सोते समय मर गया।
 Tom died in the blast.	Tom starb bei der Explosion.	टॉम ब्लास्ट में मर गया।
+Tom died last October.	Tom starb letzten Oktober.	टॉम अक्टूबर में मर गया।
+Tom died of pneumonia.	Tom starb an Lungenentzündung.	टॉम प्न्युमोनिया से मर गया।
+Tom died the next day.	Tom starb am nächsten Tag.	टॉम अगले दिन मर गया।
+Tom died this morning.	Tom starb heute Morgen.	टॉम आज सुबह मर गया।
+Tom died unexpectedly.	Tom starb unerwartet.	टॉम अचानक मर गया।
+Tom disappointed Mary.	Tom hat Mary enttäuscht.	टॉम ने मैरी को निराश किया।
+Tom does that quickly.	Tom macht das schnell.	टॉम वह जल्दी करता है।
+Tom doesn't answer me.	Tom antwortet mir nicht.	टॉम मुझसे जवाब नहीं देता।
+Tom doesn't buy bread.	Tom kauft kein Brot.	टॉम रोटी नहीं खरीदता।
