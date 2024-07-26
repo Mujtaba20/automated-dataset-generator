@@ -23186,3 +23186,13 @@ Think about it, OK?	Denken Sie darüber nach, O.K.?	इसके बारे �
 This I have to see.	Das muss ich sehen.	यह मुझे देखना होगा।
 This book is Tom's.	Dieses Buch gehört Tom.	यह किताब टॉम की है।
 This book is heavy.	Dieses Buch ist schwer.	यह किताब भारी है।
+This book is small.	Dieses Buch ist klein.	यह किताब छोटी है।
+This book is yours.	Dieses Buch gehört dir.	यह किताब तुम्हारी है।
+This book is also yours.	Dieses Buch gehört ebenfalls dir.	यह किताब भी तुम्हारी है।
+This book is yours too.	Dieses Buch gehört auch dir.	यह किताब भी तुम्हारी है।
+This book is still yours.	Dieses Buch ist immer noch dir.	यह किताब अब भी तुम्हारी है।
+This boy is my son.	Dieser Junge ist mein Sohn.	यह लड़का मेरा बेटा है।
+This cake is sweet.	Dieser Kuchen ist süß.	यह केक मीठा है।
+This can't be true.	Das kann nicht wahr sein.	यह सच नहीं हो सकता।
+This is not possible.	Das ist nicht möglich.	यह संभव नहीं है।
+This clock is mine.	Diese Uhr gehört mir.	यह घड़ी मेरी है।

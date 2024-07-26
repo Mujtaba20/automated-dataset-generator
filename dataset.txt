@@ -1,14 +1,4 @@
 
-This book is small.	Das Buch ist dünn.	पुस्तक पतली है।
-This book is yours.	Dieses Buch ist deins.	यह पुस्तक आपकी है।
-This book is yours.	Dieses Buch gehört dir.	यह पुस्तक आपकी है।
-This book is yours.	Dieses Buch gehört euch.	यह पुस्तक आपकी है।
-This book is yours.	Dieses Buch gehört Ihnen.	यह पुस्तक आपकी है।
-This boy is my son.	Dieser Junge ist mein Sohn.	यह लड़का मेरा बेटा है।
-This cake is sweet.	Dieser Kuchen ist süß.	यह केक प्यारा है।
-This can't be true.	Das kann nicht wahr sein.	यह सच नहीं हो सकता।
-This can't be true.	Das kann nicht stimmen.	वह खिचड़ी भाषा सच नहीं हो सकती।
-This clock is mine.	Das ist meine Uhr.	यह मेरी घड़ी है।
 This coat fits you.	Dieser Mantel steht dir.	यह कोट आपको सूट करता है।
 This costs nothing.	Das kostet garnichts.	यह कुछ भी खर्च नहीं करता है।
 This dog is shaggy.	Dieser Hund ist zottelig.	यह कुत्ता झबरा है।
