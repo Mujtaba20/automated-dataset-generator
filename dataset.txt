@@ -1,14 +1,4 @@
 
-Tom wanted to unpack.	Tom wollte auspacken.	टॉम अनपैक करना चाहता था।
-Tom wants a unicycle.	Tom will ein Einrad haben.	टॉम एक यूनीसाइकिल करना चाहता है।
-Tom wants to be here.	Tom möchte hier sein.	टॉम यहां रहना चाहता है।
-Tom wants to be rich.	Tom möchte reich sein.	टॉम अमीर बनना चाहता है।
-Tom wants to do that.	Tom will das machen.	टॉम ऐसा करना चाहता है।
-Tom wants to do this.	Thomas möchte das machen.	थॉमस ऐसा करना चाहता है।
-Tom wants to eat now.	Thomas möchte jetzt essen.	थॉमस अब खाना चाहते हैं।
-Tom wants to go home.	Tom möchte nach Hause gehen.	टॉम घर जाना चाहता है।
-Tom wants to go, too.	Tom möchte auch gehen.	टॉम भी जाना चाहता है।
-Tom wants to keep it.	Tom will es behalten.	टॉम इसे रखना चाहता है।
 Tom wants to kill me.	Tom will mich töten.	टॉम मुझे मारना चाहता है।
 Tom wants to see you.	Tom will dich sehen.	टॉम आपको देखना चाहता है।
 Tom wants to stop us.	Tom will uns aufhalten.	टॉम हमें रोकना चाहता है।

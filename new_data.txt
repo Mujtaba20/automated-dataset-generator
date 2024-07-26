@@ -34936,3 +34936,13 @@ Tom wanted the money.	Tom wollte das Geld.	टॉम को पैसे चा�
 Tom wanted to buy it.	Tom wollte es kaufen.	टॉम ने यह खरीदना चाहा।
 Tom wanted to see it.	Tom wollte es sehen.	टॉम ने इसे देखना चाहा।
 Tom wanted to travel.	Tom wollte reisen.	टॉम को यात्रा करनी थी।
+Tom wanted to unpack.	Tom wollte auspacken.	टॉम खोलना चाहता था।
+Tom wants a unicycle.	Tom möchte ein Einrad.	टॉम को एक एकचक्री चाहिए।
+Tom wants to be here.	Tom möchte hier sein.	टॉम यहाँ होना चाहता है।
+Tom wants to be rich.	Tom möchte reich sein.	टॉम अमीर होना चाहता है।
+Tom wants to do that.	Tom möchte das tun.	टॉम वह करना चाहता है।
+Tom wants to do this.	Tom möchte das tun.	टॉम अब करना चाहता है।
+Tom wants to eat now.	Tom möchte jetzt essen.	टॉम अब खाना चाहता है।
+Tom wants to go home.	Tom möchte nach Hause gehen.	टॉम घर जाना चाहता है।
+Tom wants to go, too.	Tom möchte auch gehen.	टॉम भी जाना चाहता है।
+Tom wants to keep it.	Tom möchte es behalten.	टॉम यह रखना चाहता है।
