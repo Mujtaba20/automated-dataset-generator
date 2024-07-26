@@ -1,14 +1,4 @@
 
-Do you want some candy?	Möchtest du etwas Süßes?	क्या आप कुछ मीठा चाहते हैं?
-Do you want this shirt?	Willst du dieses Hemd?	क्या आप यह शर्ट चाहते हैं?
-Do you want this shirt?	Möchtest du dieses Hemd haben?	क्या आप यह शर्ट रखना चाहेंगे?
-Do you want to be here?	Willst du hier sein?	क्या आप यहाँ रहना चाहते हैं?
-Do you want to be rich?	Wollt ihr reich werden?	क्या आप अमीर बनना चाहते हैं?
-Do you want to be rich?	Willst du reich sein?	क्या आप अमीर बनना चाहते हैं?
-Do you want to be rich?	Willst du reich werden?	क्या आप अमीर होना चाहते हैं?
-Do you want to be rich?	Wollen Sie reich werden?	क्या आप अमीर होना चाहते हैं?
-Do you want to be rich?	Wollt ihr reich sein?	क्या आप राज्य बनना चाहते हैं?
-Do you want to be rich?	Wollen Sie reich sein?	क्या आप अमीर बनना चाहते हैं?
 Do you want to come in?	Möchtest du hereinkommen?	क्या आप अंदर आना चाहते हैं?
 Do you want to do that?	Willst du das machen?	क्या आप ऐसा करना चाहते हैं?
 Do you want to do this?	Willst du das tun?	क्या आप ऐसा करना चाहते हैं?
