@@ -31799,3 +31799,8 @@ I haven't got it yet.	Ich habe es noch nicht bekommen.	मुझे अभी �
 I haven't had dinner.	Ich habe noch nicht zu Abend gegessen.	मुझे अभी तक रात का खाना नहीं मिला है।
 I hear Tom does that.	Ich höre, dass Tom das tut.	मुझे सुनाई दे रहा है कि टॉम वैसा करता है।
 I heard you coughing.	Ich habe dich husten gehört.	मैंने तुम्हें खांसते हुए सुना।
+I heard you did well.	Ich habe gehört, dass du gut abgeschnitten hast.	मैंने सुना कि तुमने अच्छा किया।
+I heard you laughing.	Ich habe dich lachen gehört.	मैंने तुम्हें हँसते हुए सुना।
+I hit it really hard.	Ich habe es wirklich hart getroffen.	मैंने उसे वास्तव में कड़ा हिट किया।
+I hit on a good idea.	Ich bin auf eine gute Idee gekommen.	मैंने एक अच्छी विचार का हिट किया।
+I hope it's not true.	Ich hoffe, es ist nicht wahr.	मुझे आशा है कि यह सच न हो।
