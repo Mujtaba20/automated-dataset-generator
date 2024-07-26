@@ -1,14 +1,4 @@
 
-I don't often sing.	Ich singe nicht oft.	मैं अक्सर नहीं गाता।
-I don't play poker.	Ich pokere nicht.	मैं पोकर नहीं करता।
-I don't trust them.	Ich vertraue ihnen nicht.	मुझे उन पर भरोसा नहीं है।
-I don't understand.	Ich verstehe nicht.	मैं नहीं समझता।
-I don't want a dog.	Ich möchte keinen Hund.	मुझे कुत्ता नहीं चाहिए।
-I don't want money.	Ich will kein Geld.	मुझे पैसे नहीं चाहिए।
-I don't want sugar.	Ich will keinen Zucker.	मुझे चीनी नहीं चाहिए।
-I don't want to go.	Ich will nicht gehen.	मैं जाना नहीं चाहता।
-I drank the coffee.	Ich trank Kaffee.	मैंने कॉफी पी।
-I dreamt about you.	Ich habe von dir geträumt.	मैंने आपका सपना देखा है।
 I dropped my apple.	Ich habe meinen Apfel fallenlassen.	मैंने अपना सेब गिरा दिया।
 I dropped the tray.	Mir ist das Tablett heruntergefallen.	मैं ट्रे नीचे गिर गया।
 I dropped the tray.	Mir ist das Tablett runtergefallen.	मैं ट्रे नीचे गिर गया।

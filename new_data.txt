@@ -21177,3 +21177,13 @@ I don't have vodka.	Ich habe keinen Wodka.	मेरे पास वोडक�
 I don't like liars.	Ich mag keine Lügner.	मुझे झूठे लोग नहीं पसंद हैं।
 I don't like sushi.	Ich mag kein Sushi.	मुझे सुशी पसंद नहीं है।
 I don't need a car.	Ich brauche kein Auto.	मुझे एक कार की जरूरत नहीं है।
+I don't often sing.	Ich singe nicht oft.	मैं अक्सर नहीं गाता।
+I don't play poker.	Ich spiele kein Poker.	मैं पोकर नहीं खेलता।
+I don't trust them.	Ich vertraue ihnen nicht.	मैं उन पर भरोसा नहीं करता।
+I don't understand.	Ich verstehe nicht.	मुझे समझ नहीं आता।
+I don't want a dog.	Ich möchte keinen Hund.	मुझे कुत्ता नहीं चाहिए।
+I don't want money.	Ich möchte kein Geld.	मुझे पैसे नहीं चाहिए।
+I don't want sugar.	Ich möchte keinen Zucker.	मुझे चीनी नहीं चाहिए।
+I don't want to go.	Ich möchte nicht gehen.	मुझे जाना नहीं है।
+I drank the coffee.	Ich trank den Kaffee.	मैंने कॉफ़ी पी।
+I dreamt about you.	Ich träumte von dir.	मैंने तुम्हारे बारे में सपना देखा।
