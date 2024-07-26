@@ -23630,3 +23630,12 @@ Tom is behind this.	Tom steckt dahinter.	टॉम इसके पीछे ह
 Tom is belligerent.	Tom ist kriegerisch.	टॉम युद्धरत् है।
 Tom is beyond hope.	Tom ist jenseits der Hoffnung.	टॉम की आशा से परे है।
 Tom is calling you.	Tom ruft dich an.	टॉम आपको बुला रहा है।
+Tom is coming back.	Tom kehrt zurück.	टॉम वापस आ रहा है।
+Tom is coming here.	Tom kommt hierher.	टॉम यहाँ आ रहा है।
+Tom is coming home.	Tom kommt nach Hause.	टॉम घर आ रहा है।
+Tom is coming, too.	Tom kommt auch.	टॉम भी आ रहा है।
+Tom is considerate.	Tom ist rücksichtsvoll.	टॉम उदार है।
+Tom is cooperating.	Tom arbeitet zusammen.	टॉम सहयोग कर रहा है।
+Tom is dating Mary.	Tom datet Mary.	टॉम मेरी के साथ डेटिंग कर रहा है।
+Tom is daydreaming.	Tom träumt vor sich hin.	टॉम ख्यालों में खोया है।
+Tom is defenseless.	Tom ist wehrlos.	टॉम संरक्षित नहीं है।

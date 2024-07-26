@@ -1,15 +1,4 @@
 
-Tom is coming back.	Tom kommt zurück.	टॉम वापस आता है।
-Tom is coming here.	Tom kommt hierher.	टॉम यहां आता है।
-Tom is coming home.	Tom kommt nach Hause.	टॉम घर आता है।
-Tom is coming, too.	Tom kommt auch.	टॉम भी आता है।
-Tom is considerate.	Tom ist rücksichtsvoll.	टॉम विचारशील है।
-Tom is cooperating.	Tom arbeitet mit.	टॉम के साथ काम करता है।
-Tom is cooperating.	Tom kooperiert.	टॉम सहयोग करता है।
-Tom is dating Mary.	Tom geht mit Mary.	टॉम मैरी के साथ जाता है।
-Tom is daydreaming.	Tom träumt vor sich hin.	टॉम सपने।
-Tom is defenseless.	Tom ist wehrlos.	टॉम रक्षाहीन है।
-Tom is defenseless.	Tom ist schutzlos.	टॉम रक्षाहीन है।
 Tom is doing great.	Tom geht es großartig.	टॉम महान है।
 Tom is eating cake.	Tom isst Kuchen.	टॉम केक खाता है।
 Tom is eating cake.	Tom isst jetzt Kuchen.	टॉम अब केक खाता है।
