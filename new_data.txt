@@ -40848,3 +40848,13 @@ Tom was my first love.	Tom war meine erste Liebe.	टॉम मेरा पह�
 Tom was never content.	Tom war nie zufrieden.	टॉम कभी भी संतुष्ट नहीं था।
 Tom was never jealous.	Tom war nie eifersüchtig.	टॉम कभी भी जलन नहीं करता था।
 Tom was never unhappy.	Tom war nie unglücklich.	टॉम कभी भी दुखी नहीं था।
+Tom was never violent.	Tom war nie gewalttätig.	टॉम कभी हिंसात्मक नहीं था।
+Tom was not impressed.	Tom war nicht beeindruckt.	टॉम प्रभावित नहीं था।
+Tom was offered a job.	Tom wurde ein Job angeboten.	टॉम को नौकरी प्रस्तावित किया गया था।
+Tom was out of breath.	Tom war außer Atem.	टॉम सांस फूल गया था।
+Tom was pretty bummed.	Tom war ziemlich frustriert.	टॉम काफी निराश था।
+Tom was put in prison.	Tom wurde ins Gefängnis gesteckt.	टॉम को जेल में डाल दिया गया था।
+Tom was quiet all day.	Tom war den ganzen Tag ruhig.	टॉम पूरे दिन चुप रहा।
+Tom was ready to jump.	Tom war bereit zu springen.	टॉम छलांग लेने के लिए तैयार था।
+Tom was really hungry.	Tom hatte wirklich Hunger.	टॉम सचमुच भूखा था।
+Tom was right at home.	Tom war genau richtig zu Hause.	टॉम घर पर ही था।
