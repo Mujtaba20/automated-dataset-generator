@@ -1,15 +1,4 @@
 
-I want Tom to stop.	Ich möchte, dass Tom aufhört.	मैं चाहता हूं कि टॉम रुक जाए।
-I want Tom's money.	Ich will Toms Geld.	मुझे टॉम का पैसा चाहिए।
-I want a boyfriend.	Ich will einen Freund.	मुझे एक दोस्त चाहिए।
-I want a chess set.	Ich hätte gern ein Schachspiel.	मुझे एक शतरंज का खेल पसंद आएगा।
-I want a green one.	Ich möchte ein grünes.	मुझे एक हरा चाहिए।
-I want a new dress.	Ich will ein neues Kleid.	मुझे एक नई पोशाक चाहिए।
-I want a pet tiger.	Ich wünsche mir einen Streicheltiger.	मुझे एक स्ट्रोक टाइगर चाहिए।
-I want an attorney.	Ich will einen Anwalt.	मुझे एक वकील चाहिए।
-I want my key back.	Ich will meinen Schlüssel wiederhaben.	मुझे फिर से अपनी चाबी चाहिए।
-I want my own room.	Ich will ein eigenes Zimmer.	मुझे अपना कमरा चाहिए।
-I want my own room.	Ich möchte ein Zimmer für mich.	मुझे अपने लिए एक कमरा चाहिए।
 I want the address.	Ich will die Adresse.	मुझे पता चाहिए।
 I want the details.	Ich will die Details.	मुझे विवरण चाहिए।
 I want this camera.	Ich will diese Kamera.	मुझे यह कैमरा चाहिए।

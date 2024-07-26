@@ -21675,3 +21675,13 @@ I used to hate Tom.	Ich habe Tom früher gehasst.	मैं पहले टॉ�
 I value my privacy.	Ich schätze meine Privatsphäre.	मैं अपनी गोपनीयता का मूल्य करता हूं।
 I walked to school.	Ich bin zur Schule gelaufen.	मैं स्कूल चल कर गया।
 I want Tom to live.	Ich möchte, dass Tom lebt.	मैं चाहता हूं कि टॉम जीता है।
+I want Tom to stop.	Ich möchte, dass Tom aufhört.	मुझे चाहिए कि टॉम रुके।
+I want Tom's money.	Ich möchte Toms Geld.	मुझे टॉम के पैसे चाहिए।
+I want a boyfriend.	Ich möchte einen Freund.	मुझे एक बॉयफ्रेंड चाहिए।
+I want a chess set.	Ich möchte ein Schachspiel.	मुझे एक शतरंज का सेट चाहिए।
+I want a green one.	Ich möchte ein grünes.	मुझे हरा एक चाहिए।
+I want a new dress.	Ich möchte ein neues Kleid.	मुझे एक नया ड्रेस चाहिए।
+I want a pet tiger.	Ich möchte einen Haustiger.	मुझे पालतू बाघ चाहिए।
+I want an attorney.	Ich möchte einen Anwalt.	मुझे एक वकील चाहिए।
+I want my key back.	Ich möchte meinen Schlüssel zurück.	मुझे मेरी चाबी वापस चाहिए।
+I want my own room.	Ich möchte mein eigenes Zimmer.	मुझे मेरा खुद का कमरा चाहिए।
