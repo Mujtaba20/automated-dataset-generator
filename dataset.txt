@@ -1,14 +1,4 @@
 
-Tom is schizophrenic.	Tom ist schizophren.	टॉम सिज़ोफ्रेनिक है।
-Tom is scolding Mary.	Tom schilt Mary aus.	टॉम मैरी लिखते हैं।
-Tom is scolding Mary.	Tom schimpft Maria aus.	टॉम ने मारिया को डांटा।
-Tom is scolding Mary.	Tom schilt Maria.	टॉम शिल्ट मारिया।
-Tom is self-centered.	Tom ist ein Egozentriker.	टॉम एक अहंकार केंद्र है।
-Tom is sending a fax.	Tom versendet ein Fax.	टॉम एक फैक्स भेजता है।
-Tom is sending a fax.	Tom schickt ein Fax.	टॉम एक फैक्स भेजता है।
-Tom is sending a fax.	Tom faxt.	टॉम फैक्स।
-Tom is seriously ill.	Tom ist schwer krank.	टॉम गंभीर रूप से बीमार है।
-Tom is seriously ill.	Tom ist ernsthaft erkrankt.	टॉम गंभीर रूप से बीमार है।
 Tom is short and fat.	Tom ist klein und dick.	टॉम छोटा और मोटा है।
 Tom is six feet tall.	Tom ist 1,83 m groß.	टॉम 1.83 मीटर लंबा है।
 Tom is still a minor.	Tom ist noch minderjährig.	टॉम अभी भी नाबालिग है।

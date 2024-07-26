@@ -34505,3 +34505,8 @@ Tom is really strong.	Tom ist wirklich stark.	टॉम सच में मज�
 Tom is related to me.	Tom steht in Verbindung mit mir.	टॉम मेरे से संबंधित है।
 Tom is sad, isn't he?	Tom ist traurig, oder?	टॉम उदास है, क्या नहीं?
 Tom is scared of you.	Tom hat Angst vor dir.	टॉम तुमसे डरता है।
+Tom is schizophrenic.	Tom ist schizophren.	टॉम एक असंवेदनशील है।
+Tom is scolding Mary.	Tom kritisiert Mary.	टॉम मैरी की निंदा कर रहा है।
+Tom is self-centered.	Tom ist egozentrisch.	टॉम आत्मकेंद्रित है।
+Tom is sending a fax.	Tom faxt.	टॉम एक फैक्स भेज रहा है।
+Tom is seriously ill.	Tom ist schwer krank.	टॉम गंभीर रूप से बीमार है।
