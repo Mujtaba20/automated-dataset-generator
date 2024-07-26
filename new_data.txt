@@ -35193,3 +35193,11 @@ We knew it all along.	Wir wussten es die ganze Zeit.	हम हमेशा स�
 We know how they are.	Wir wissen, wie sie sind.	हमें पता है कि वे कैसे हैं।
 We know they'll come.	Wir wissen, sie werden kommen.	हमें पता है कि वे आएंगे।
 We know what we want.	Wir wissen, was wir wollen.	हमें पता है कि हमें क्या चाहिए।
+We know what you did.	Wir wissen, was du getan hast.	हमें पता है कि तुमने क्या किया है।
+We know where Tom is.	Wir wissen, wo Tom ist.	हमें पता है कि टॉम कहाँ है।
+We know who they are.	Wir wissen, wer sie sind.	हमें पता है कि वे कौन हैं।
+We know you like Tom.	Wir wissen, dass du Tom magst.	हमें पता है कि तुम्हें टॉम पसंद है।
+We know you're there.	Wir wissen, du bist da.	हमें पता है कि तुम वहाँ हो।
+We looked everywhere.	Wir haben überall gesucht.	हमने हर जगह देखी।
+We lost sight of him.	Wir haben ihn aus den Augen verloren.	हमने उसकी नजर मिटा दी।
+We love our children.	Wir lieben unsere Kinder.	हम अपने बच्चों से प्यार करते हैं।
