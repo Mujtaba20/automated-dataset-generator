@@ -39778,3 +39778,12 @@ This room is for rent.	Dieser Raum ist zu vermieten.	यह कक्ष कि�
 This sentence is fine.	Dieser Satz ist in Ordnung.	यह वाक्य ठीक है।
 This should be enough.	Das sollte genug sein.	यह काफी होना चाहिए।
 This should be washed.	Das sollte gewaschen werden.	यह धो दिया जाना चाहिए।
+This shower is broken.	Diese Dusche ist kaputt.	यह शॉवर टूट गया है।
+This soup tastes good.	Diese Suppe schmeckt gut.	यह सूप स्वादिष्ट है।
+This spoon is for tea.	Dieser Löffel ist für Tee.	यह चमच चाय के लिए है।
+This string is strong.	Diese Schnur ist stark.	यह रस्सी मजबूत है।
+This sure tastes good!	Das schmeckt sicher gut!	यह सुनिश्चित रूप से अच्छा लगता है!
+This tea is very good.	Dieser Tee ist sehr gut.	यह चाय बहुत अच्छी है।
+This textbook is good.	Dieses Lehrbuch ist gut.	यह पाठ्यपुस्तक अच्छी है।
+This time I'll try it.	Dieses Mal werde ich es versuchen.	इस बार मैं इसे परीक्षण करूँगा।
+This was a great idea.	Das war eine großartige Idee.	यह एक महान विचार था।

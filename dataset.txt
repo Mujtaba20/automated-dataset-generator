@@ -1,14 +1,4 @@
 
-This shower is broken.	Diese Dusche ist kaputt.	यह शॉवर टूट गया है।
-This soup tastes good.	Diese Suppe schmeckt gut.	यह सूप अच्छा स्वाद लेता है।
-This spoon is for tea.	Dieser Löffel ist für Tee gedacht.	यह चम्मच चाय के लिए है।
-This string is strong.	Das ist eine feste Schnur.	यह एक निश्चित कॉर्ड है।
-This sure tastes good!	Das schmeckt wirklich gut!	यह स्वाद वास्तव में अच्छा है!
-This tea is very good.	Dieser Tee ist sehr gut.	यह चाय बहुत अच्छी है।
-This textbook is good.	Dieses Lehrbuch hier ist gut.	यह पाठ्यपुस्तक यहाँ अच्छी है।
-This textbook is good.	Das hier ist ein gutes Lehrbuch.	यह एक अच्छी पाठ्यपुस्तक है।
-This time I'll try it.	Dieses Mal werde ich es versuchen.	इस बार मैं कोशिश करूँगा।
-This was a great idea.	Das war eine tolle Idee.	यह एक महान विचार था।
 This was a lot of fun.	Das hat eine Menge Spaß gemacht.	यह बहुत ही मज़ेदार था।
 This water isn't cold.	Dieses Wasser ist nicht kalt.	यह पानी ठंडा नहीं है।
 This window is broken.	Dieses Fenster ist kaputt.	यह खिड़की टूट गई है।
