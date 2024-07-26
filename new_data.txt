@@ -22748,3 +22748,11 @@ She made him happy.	Sie machte ihn glücklich.	उसने उसे खुश 
 She made me a cake.	Sie machte mir einen Kuchen.	उसने मुझे एक केक बनाया।
 She made me a star.	Sie machte mich zu einem Star.	उसने मुझे एक सितारा बनाया।
 She makes me happy.	Sie macht mich glücklich.	उसने मुझे खुश किया।
+She needs our help.	Sie braucht unsere Hilfe.	उसे हमारी मदद चाहिए।
+She owns few books.	Sie besitzt wenige Bücher.	उसके पास कुछ किताबें हैं।
+She picked flowers.	Sie pflückte Blumen.	उसने फूल तोड़े।
+She pointed at him.	Sie zeigte auf ihn.	उसने उस पर इशारा किया।
+She put on her hat.	Sie setzte ihren Hut auf.	उसने अपनी टोपी पहनी।
+She sat next to me.	Sie saß neben mir.	उसने मेरे पास बैठा।
+She shook her head.	Sie schüttelte den Kopf.	उसने सर हिलाया।
+She smiled happily.	Sie lächelte glücklich.	उसने खुशी से मुस्कुराया।

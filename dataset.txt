@@ -1,14 +1,4 @@
 
-She needs our help.	Sie braucht unsere Hilfe.	उसे हमारी मदद की ज़रूरत है।
-She owns few books.	Sie besitzt nicht viele Bücher.	उसके पास कई किताबें नहीं हैं।
-She owns few books.	Sie besitzt nur wenige Bücher.	उसकी केवल कुछ किताबें हैं।
-She picked flowers.	Sie pflückte Blumen.	उसने फूल उठाए।
-She pointed at him.	Sie zeigte auf ihn.	उसने उसकी ओर इशारा किया।
-She put on her hat.	Sie setzte sich ihren Hut auf.	उसने अपनी टोपी लगाई।
-She sat next to me.	Sie saß neben mir.	वह मेरे बगल में बैठी थी।
-She sat next to me.	Sie setzte sich neben mich.	वह मेरे बगल में बैठी थी।
-She shook her head.	Sie schüttelte den Kopf.	उसने अपना सिर हिलाया।
-She smiled happily.	Sie lächelte glücklich.	वह खुशी से मुस्कुराई।
 She speaks Chinese.	Sie spricht Chinesisch.	वह चीनी बोलती है।
 She speaks Russian.	Sie spricht Russisch.	वह रूसी बोलती है।
 She speaks quickly.	Sie spricht schnell.	वह जल्दी से बोलती है।
