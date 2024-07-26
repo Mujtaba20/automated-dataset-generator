@@ -31019,3 +31019,10 @@ He has a large truck.	Er hat einen großen Lastwagen.	उसका एक बड
 He has a lot of land.	Er hat viel Land.	उसके पास काफी जमीन है।
 He has a nice income.	Er hat ein schönes Einkommen.	उसकी अच्छी आमदनी है।
 He has a sweet voice.	Er hat eine süße Stimme.	उसकी मीठी आवाज़ है।
+He has already begun.	Er hat schon angefangen.	उसने पहले से ही शुरू कर दिया है।
+He has good eyesight.	Er hat eine gute Sehkraft.	उसकी दृष्टि अच्छी है।
+He has no girlfriend.	Er hat keine Freundin.	उसकी कोई गर्लफ्रेंड नहीं है।
+He has nothing to do.	Er hat nichts zu tun.	उसके पास कुछ करने के लिए नहीं है।
+He has poor eyesight.	Er hat schlechte Augen.	उसकी दृष्टि कमजोर है।
+He has powerful arms.	Er hat starke Arme.	उसके पास शक्तिशाली बांहें हैं।
+He has sharp hearing.	Er hat ein scharfes Gehör.	उसकी तेज सुनने की शक्ति है।
