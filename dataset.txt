@@ -1,14 +1,4 @@
 
-It's just a precaution.	Das ist nur eine Vorsichtsmaßnahme.	यह सिर्फ एक एहतियात है।
-It's just what happens.	Ach, das kommt vor.	ओह, ऐसा होता है।
-It's like one of those.	Fast wie einer von denen.	लगभग उनमें से एक की तरह।
-It's making me nervous.	Das macht mich kirre.	यह मुझे एक किरी बनाता है।
-It's making me nervous.	Das macht mich nervös.	जो मुझे घबराता है।
-It's nearly impossible.	Das ist fast unmöglich.	यह लगभग असंभव है।
-It's never that simple.	So einfach ist es nie.	यह कभी भी सरल नहीं है।
-It's no trouble at all.	Es ist gar kein Problem.	यह कोई समस्या नहीं है।
-It's not a coincidence.	Das ist kein Zufall.	यह कोई संयोग नहीं है।
-It's not a coincidence.	Es ist kein Zufall.	यह कोई संयोग नहीं है।
 It's not a competition.	Das ist kein Wettbewerb.	यह एक प्रतियोगिता नहीं है।
 It's not a competition.	Es ist kein Wettbewerb.	यह एक प्रतियोगिता नहीं है।
 It's not for me to say.	Ich muss es nicht sagen.	मुझे यह कहने की ज़रूरत नहीं है।
