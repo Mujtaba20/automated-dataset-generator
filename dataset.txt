@@ -1,14 +1,4 @@
 
-I heard a wolf howling.	Ich hörte einen Wolf jaulen.	मैंने एक भेड़िया सुना।
-I heard a woman scream.	Ich hörte eine Frau schreien.	मैंने एक महिला को चिल्लाते हुए सुना।
-I heard my name called.	Ich habe gehört, wie jemand meinen Namen gerufen hat.	मैंने किसी को मेरा नाम पुकारा।
-I heard someone scream.	Ich habe jemanden schreien gehört.	मैंने किसी को चिल्लाते हुए सुना।
-I heard someone scream.	Ich hörte jemanden schreien.	मैंने किसी को चिल्लाते हुए सुना।
-I heard that he'd died.	Ich habe gehört, dass er gestorben ist.	मैंने सुना कि वह मर गया।
-I heard that he'd died.	Ich hörte, dass er gestorben sei.	मैंने सुना कि वह मर गया।
-I heard the explosions.	Ich hörte die Explosion.	मैंने विस्फोट सुना।
-I heard the phone ring.	Ich hörte das Telefon klingeln.	मैंने फोन को बजाते हुए सुना।
-I honestly didn't care.	Es war mir, ehrlich gesagt, egal.	सच कहूं तो, यह मेरे लिए मायने नहीं रखता था।
 I hope Tom doesn't die.	Ich hoffe, dass Tom nicht stirbt.	मुझे आशा है कि टॉम मर नहीं जाएगा।
 I hope Tom forgives me.	Ich hoffe, Tom verzeiht mir.	मुझे आशा है कि टॉम मुझे माफ कर देगा।
 I hope Tom is unafraid.	Ich hoffe, Tom hat keine Angst.	मुझे आशा है कि टॉम डर नहीं है।
