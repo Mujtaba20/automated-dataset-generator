@@ -1,14 +1,4 @@
 
-Who's visiting Tom?	Wer besucht Tom?	टॉम का दौरा कौन करता है?
-Who's volunteering?	Wer meldet sich freiwillig?	स्वेच्छा से कौन रिपोर्ट करेगा?
-Who's your teacher?	Wer ist euer Lehrer?	आपके शिक्षक कौन है?
-Who's your teacher?	Wer ist dein Lehrer?	आपके शिक्षक कौन है?
-Who's your teacher?	Wer ist Ihr Lehrer?	आपके शिक्षक कौन है?
-Whose baby is that?	Wessen Baby ist das?	वह बच्चा किसका है?
-Whose baby is this?	Wessen Baby ist das?	वह बच्चा किसका है?
-Whose beer is this?	Wessen Bier ist das?	वह किसकी बीयर है?
-Whose bike is this?	Wem gehört dieses Fahrrad?	इस बाइक का मालिक कौन है?
-Whose bike is this?	Wessen Fahrrad ist das?	वह किसकी बाइक है?
 Whose book is that?	Wessen Buch ist das?	यह पुस्तक किसकी है?
 Whose book is this?	Wessen Buch ist das?	यह पुस्तक किसकी है?
 Whose book is this?	Wem gehört das Buch?	यह कौन है?

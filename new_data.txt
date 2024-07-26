@@ -24726,3 +24726,11 @@ Who's absent today?	Wer fehlt heute?	आज कौन अनुपस्थि�
 Who's overreacting?	Wer reagiert über?	किसका अत्यधिक प्रतिक्रिया हो रहा है?
 Who's that old man?	Wer ist dieser alte Mann?	वह बुढ़ा आदमी कौन है?
 Who's upstairs now?	Wer ist jetzt oben?	ऊपर कौन है अभी?
+Who's visiting Tom?	Wer besucht Tom?	कौन टॉम को देखने आ रहा है?
+Who's volunteering?	Wer macht ehrenamtliche Arbeit?	कौन स्वयंसेवा कर रहा है?
+Who's your teacher?	Wer ist dein Lehrer?	तुम्हारे शिक्षक कौन हैं?
+Who's your teacher?_1	Wer unterrichtet dich?	तुम्हारे शिक्षक कौन हैं?
+Whose baby is that?	Wessen Baby ist das?	वह बच्चा किसका है?
+Whose baby is this?	Wem gehört das Baby?	यह बच्चा किसका है?
+Whose beer is this?	Wem gehört das Bier?	यह बीयर किसकी है?
+Whose bike is this?	Wem gehört das Fahrrad?	यह साइकिल किसकी है?
