@@ -28779,3 +28779,13 @@ Tom heard the alarm.	Tom hörte den Alarm.	टॉम ने अलार्म �
 Tom heated the milk.	Tom erhitzte die Milch.	टॉम ने दूध गरम किया।
 Tom held his breath.	Tom hielt den Atem an.	टॉम ने सांस रोकी।
 Tom helped the poor.	Tom half den Armen.	टॉम ने गरीबों की मदद की।
+Tom hid his weapons.	Tom versteckte seine Waffen.	टॉम ने अपने हथियार छुपाए।
+Tom hid in the barn.	Tom versteckte sich in der Scheune.	टॉम खाने में छुप गया।
+Tom hid in the shed.	Tom versteckte sich im Schuppen.	टॉम झोपड़ी में छुप गया।
+Tom hit rock bottom.	Tom traf auf dem absoluten Tiefpunkt.	टॉम ने चट्टान की चोट की।
+Tom hit rock bottom. - Different Meaning	Tom traf den absoluten Tiefpunkt.	टॉम का सबसे नीचा समय देखा।
+Tom honked the horn.	Tom hupte die Hupe.	टॉम ने हॉर्न बजाया।
+Tom honked the horn. - Different Meaning	Tom hupte auf die Hupe.	टॉम ने हॉर्न पर ध्यान दिया।
+Tom humiliated Mary.	Tom erniedrigte Mary.	टॉम ने मेरी का अपमान किया।
+Tom hung up on Mary.	Tom legte bei Mary auf.	टॉम ने मेरी को काट दिया।
+Tom injured himself.	Tom verletzte sich.	टॉम ने अपने आप को चोट पहुँचाई।
