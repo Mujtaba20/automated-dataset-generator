@@ -1,14 +1,4 @@
 
-This rose is beautiful.	Diese Rose ist wunderschön.	यह गुलाब सुंदर है।
-This rose is beautiful.	Diese Rose ist schön.	यह गुलाब सुंदर है।
-This scene delights me.	Dieser Anblick ergötzt mich.	यह दृष्टि मुझे प्रसन्न करती है।
-This shoe fits me well.	Dieser Schuh passt mir gut.	यह जूता मुझे अच्छी तरह से फिट बैठता है।
-This smell disgusts me.	Ich finde diesen Gestank widerlich.	मुझे यह बदबू घृणित लगती है।
-This smell disgusts me.	Dieser Geruch widert mich an.	यह गंध मेरे विरोधाभासी है।
-This song is a classic.	Dieses Lied ist ein Klassiker.	यह गीत एक क्लासिक है।
-This sounds reasonable.	Das klingt vernünftig.	यह उचित लगता है।
-This sounds reasonable.	Dies klingt vernünftig.	यह उचित लगता है।
-This soup is delicious.	Diese Suppe ist köstlich.	यह सूप स्वादिष्ट है।
 This soup is too spicy.	Diese Suppe ist zu scharf.	यह सूप बहुत तेज है।
 This spoon is for soup.	Dieser Löffel ist für Suppe gedacht.	यह चम्मच सूप के लिए है।
 This table is handmade.	Dieser Tisch ist eine Handarbeit.	यह तालिका एक मैनुअल काम है।
