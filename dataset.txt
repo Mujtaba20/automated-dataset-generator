@@ -1,14 +1,4 @@
 
-I helped everybody.	Ich habe jedem geholfen.	मैंने सभी की मदद की।
-I helped everybody.	Ich habe allen geholfen.	मैंने सभी की मदद की।
-I hid it somewhere.	Ich habe es irgendwo versteckt.	मैंने इसे कहीं छिपा दिया।
-I hope Tom is fair.	Ich hoffe, Tom ist fair.	मुझे उम्मीद है कि टॉम निष्पक्ष है।
-I hope Tom is safe.	Ich hoffe, Tom ist sicher.	मुझे उम्मीद है कि टॉम सुरक्षित है।
-I hope Tom says no.	Ich hoffe, Tom sagt nein.	मुझे आशा है कि टॉम कहते हैं नहीं।
-I hope Tom's right.	Ich hoffe, Tom hat recht.	मुझे उम्मीद है कि टॉम सही है।
-I hope it's enough.	Ich hoffe, das reicht.	मुझे उम्मीद है कि यह पर्याप्त है।
-I hope that helped.	Ich hoffe, dass das geholfen hat.	मुझे उम्मीद है कि इससे मदद मिली।
-I hope that's true.	Ich hoffe, das stimmt.	मुझे उम्मीद है कि यह सही है।
 I hope we find Tom.	Ich hoffe, dass wir Tom finden.	मुझे आशा है कि हम टॉम पाएंगे।
 I hope you approve.	Ich hoffe, Sie stimmen zu.	मुझे आशा है कि आप सहमत होंगे।
 I hope you approve.	Ich hoffe, du stimmst zu.	मुझे आशा है कि आप सहमत होंगे।

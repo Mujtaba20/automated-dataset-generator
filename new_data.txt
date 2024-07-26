@@ -21336,3 +21336,12 @@ I heard some shots.	Ich habe einige Schüsse gehört.	मैंने कुछ 
 I heard you crying.	Ich habe dich weinen gehört.	मैंने तुम्हें रोते हुए सुना।
 I heard you scream.	Ich habe dich schreien hören.	मैंने तुम्हें चिल्लाते हुए सुना।
 I heard you scream. (Different meaning)	Ich habe gehört, wie du geschrien hast.	मैंने तुम्हें चिल्लाते हुए सुना।
+I helped everybody.	Ich habe jedem geholfen.	मैंने सभी को मदद की।
+I hid it somewhere.	Ich habe es irgendwo versteckt.	मैंने उसे कहीं छिपा दिया।
+I hope Tom is fair.	Ich hoffe, Tom ist fair.	मुझे उम्मीद है कि टॉम न्यायसंगत हो।
+I hope Tom is safe.	Ich hoffe, Tom ist sicher.	मुझे उम्मीद है कि टॉम सुरक्षित है।
+I hope Tom says no.	Ich hoffe, Tom sagt nein.	मुझे उम्मीद है कि टॉम ना कहे।
+I hope Tom's right.	Ich hoffe, Tom hat recht.	मुझे उम्मीद है कि टॉम सही है।
+I hope it's enough.	Ich hoffe, es reicht aus.	मुझे उम्मीद है कि यह पर्याप्त है।
+I hope that helped.	Ich hoffe, das hat geholfen.	मुझे उम्मीद है कि वह मदद करने में मददगार था।
+I hope that's true.	Ich hoffe, dass das wahr ist.	मुझे उम्मीद है कि वह सच है।
