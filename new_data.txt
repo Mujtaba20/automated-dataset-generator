@@ -38534,3 +38534,12 @@ It still doesn't work.	Es funktioniert immer noch nicht.	यह अभी तक
 It sure is cold today.	Heute ist es sicher kalt.	आज यह सुन्दर ठंड है।
 It takes two to tango.	Man braucht immer zwei, um Tango zu tanzen.	टैंगो नृत्य के लिए दो लोग चाहिए।
 It tastes really good.	Es schmeckt wirklich gut.	यह सचमुच बहुत अच्छा लगता है।
+It took a lot of time.	Es hat viel Zeit in Anspruch genommen.	इसने बहुत समय लिया।
+It was Saturday night.	Es war Samstagabend.	यह शनिवार रात थी।
+It was a good example.	Es war ein gutes Beispiel.	यह एक अच्छा उदाहरण था।
+It was a group effort.	Es war eine Gruppenanstrengung.	यह एक समूह प्रयास था।
+It was a huge success.	Es war ein riesiger Erfolg.	यह एक विशाल सफलता थी।
+It was a little scary.	Es war ein bisschen unheimlich.	थोड़ा डरावना था।
+It was a magic moment.	Es war ein magischer Moment.	यह एक जादूई पल था।
+It was a simpler time.	Es war eine einfachere Zeit.	यह एक सरल समय था।
+It was a terrible day.	Es war ein schrecklicher Tag.	यह एक भयंकर दिन था।
