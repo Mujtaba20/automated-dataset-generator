@@ -22340,3 +22340,10 @@ It's hot down here.	Es ist heiß hier unten.	यहाँ नीचे गरम
 It's hot, isn't it?	Es ist heiß, oder?	गर्मी है, ना?
 It's in the fridge.	Es ist im Kühlschrank.	फ्रिज में है।
 It's just midnight.	Es ist gerade Mitternacht.	अभी बस मध्यरात हुई है।
+It's just not fair.	Es ist einfach nicht gerecht.	यह बस नहीं उचित है।
+It's just too soon.	Es ist einfach zu früh.	यह बस बहुत जल्दी है।
+It's kind of funny.	Es ist irgendwie lustig.	यह किस्म का मजेदार है।
+It's made of brass.	Es ist aus Messing gemacht.	यह पीतल से बना है।
+It's me again, Tom.	Das bin wieder ich, Tom.	यह फिर से मैं हूँ, टॉम।
+It's merely a joke.	Es ist nur ein Witz.	यह केवल एक मजाक है।
+It's my first time.	Es ist das erste Mal für mich.	यह मेरी पहली बार है।
