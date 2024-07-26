@@ -1,14 +1,4 @@
 
-You promised to help.	Du hast zu helfen versprochen.	आपने मदद करने का वादा किया।
-You remind me of Tom.	Du erinnerst mich an Tom.	आप मुझे टॉम की याद दिलाते हैं।
-You remind me of Tom.	Sie erinnern mich an Tom.	वे मुझे टॉम की याद दिलाते हैं।
-You said it yourself.	Du selbst hast es gesagt.	आपने खुद कहा।
-You said it yourself.	Das hast du selbst gesagt.	आपने खुद कहा।
-You said it yourself.	Du hast es selbst gesagt.	आपने खुद कहा।
-You said so yourself.	Das hast du selbst gesagt.	आपने खुद कहा।
-You said so yourself.	Das haben Sie selbst gesagt.	उन्होंने कहा कि खुद।
-You seem happy to me.	Du scheinst mir glücklich zu sein.	आप मुझे खुश लग रहे हैं।
-You seem preoccupied.	Du wirkst abwesend.	आप अनुपस्थित दिखते हैं।
 You seem pretty busy.	Du scheinst ziemlich beschäftigt zu sein.	आप बहुत व्यस्त लग रहे हैं।
 You seem pretty busy.	Ihr scheint ziemlich beschäftigt zu sein.	आप बहुत व्यस्त लग रहे हैं।
 You seem pretty busy.	Sie scheinen ziemlich beschäftigt zu sein.	वे बहुत व्यस्त लग रहे हैं।

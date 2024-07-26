@@ -35856,3 +35856,9 @@ You need to rest now.	Du musst dich jetzt ausruhen.	अब आपको आर�
 You never trusted me.	Du hast mir nie vertraut.	तुम मुझपर कभी भरोसा नहीं किया।
 You overestimate him.	Du überschätzt ihn.	तुम उसकी महत्ता को अधिक समझ रहे हो।
 You owe me something.	Du schuldest mir etwas.	तुम्हें मुझसे कुछ उधार देना है।
+You promised to help.	Du hast versprochen zu helfen.	तुमने मदद करने का वादा किया था।
+You remind me of Tom.	Du erinnerst mich an Tom.	तुम मुझे टॉम की याद दिलाते हो।
+You said it yourself.	Du hast es selbst gesagt.	तुमने खुद ही कहा।
+You said so yourself.	Du hast es selbst gesagt.	तुमने इसे खुद ही कहा।
+You seem happy to me.	Du scheinst glücklich zu sein.	तुम मुझे खुश लगते हो।
+You seem preoccupied.	Du scheinst abwesend zu sein.	तुम व्यस्त लग रहे हो।
