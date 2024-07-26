@@ -1,14 +1,4 @@
 
-I think it's very good.	Ich denke, es ist sehr gut.	मुझे लगता है कि यह बहुत अच्छा है।
-I think she'll help me.	Ich denke, dass sie mir helfen wird.	मुझे लगता है कि वह मेरी मदद करेगी।
-I think she's innocent.	Ich glaube, dass sie unschuldig ist.	मुझे लगता है कि वह निर्दोष है।
-I think she's innocent.	Ich halte sie für unschuldig.	मुझे लगता है कि वह निर्दोष है।
-I think that I can win.	Ich glaube, ich kann gewinnen.	मुझे लगता है कि मैं जीत सकता हूं।
-I think that I'll lose.	Ich glaube, ich werde verlieren.	मुझे लगता है कि मैं हार जाऊंगा।
-I think that I'm wrong.	Ich glaube, ich habe unrecht.	मुझे लगता है कि मैं गलत हूं।
-I think that helped me.	Ich glaube, das hat mir geholfen.	मुझे लगता है कि इससे मुझे मदद मिली।
-I think that helped me.	Ich glaube, dass mir das geholfen hat.	मुझे लगता है कि इससे मुझे मदद मिली।
-I think that it's true.	Ich glaube, es ist wahr.	मुझे लगता है कि यह सच है।
 I think they look good.	Ich denke, sie sehen gut aus.	मुझे लगता है कि वे अच्छे लगते हैं।
 I think this is a fake.	Ich glaube, das ist eine Fälschung.	मुझे लगता है कि यह एक नकली है।
 I think this is enough.	Ich denke, das reicht.	मुझे लगता है कि पर्याप्त है।
