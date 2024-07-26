@@ -38682,3 +38682,9 @@ It's very hot in here.	Es ist sehr heiß hier.	यहाँ बहुत गर�
 It's very interesting.	Es ist sehr interessant.	यह बहुत दिलचस्प है।
 It's very kind of you.	Es ist sehr nett von dir.	तुम्हारी यह बहुत उदारता है।
 It's very nice of you.	Es ist sehr lieb von dir.	तुम्हारी यह बहुत खुशी है।
+It's very windy today.	Es ist heute sehr windig.	आज बहुत ही तेज हवा चल रही है।
+It's what I'm used to.	Das ist das, was ich gewohnt bin.	यही वह चीज है जिसे मैं आदत दाल चुका हूँ।
+It's what you deserve.	Das ist, was du verdienst.	यही वो भग्य है जो तुम्हें मिलना चाहिए।
+It's your only chance.	Es ist deine einzige Chance.	यह तुम्हारा एकमात्र मौका है।
+It's your problem now.	Es ist jetzt dein Problem.	यह अब तुम्हारी समस्या है।
+It's your turn to pay.	Du bist dran zu zahlen.	अब तुम्हारी बारी है भुगतान करने की।
