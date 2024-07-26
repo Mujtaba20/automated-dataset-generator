@@ -1,14 +1,4 @@
 
-Why did this happen?	Warum ist das passiert?	वह खुश क्यों है?
-Why did you call me?	Warum hast du mich gerufen?	तुम मुझे क्यों फोन किया था
-Why did you call me?	Warum hast du mich angerufen?	तुम मुझे क्यों फोन किया था?
-Why did you do that?	Warum haben Sie das gemacht?	आपने ऐसा क्यों किया?
-Why did you do that?	Warum hast du das gemacht?	आपने ऐसा क्यों किया?
-Why did you do that?	Warum habt ihr das gemacht?	आपने ऐसा क्यों किया?
-Why did you do that?	Warum hast du das getan?	आपने ऐसा क्यों किया?
-Why did you do that?	Warum habt ihr das getan?	आपने ऐसा क्यों किया?
-Why did you do that?	Warum haben Sie das getan?	आपने ऐसा क्यों किया?
-Why did you dump me?	Warum hast du mit mir Schluss gemacht?	तुम मेरे साथ क्यों टूट गए?
 Why did you help me?	Warum hast du mir geholfen?	आपने मेरी मदद क्यों की?
 Why did you help me?	Warum habt ihr mir geholfen?	आपने मेरी मदद क्यों की?
 Why did you help me?	Warum haben Sie mir geholfen?	आपने मेरी मदद क्यों की?

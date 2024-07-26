@@ -30036,3 +30036,8 @@ Why did Tom do that?	Warum hat Tom das gemacht?	टॉम ने ऐसा क�
 Why did Tom do this?	Warum hat Tom das getan?	टॉम ने यह क्यों किया?
 Why did that happen?	Warum ist das passiert?	ऐसा क्यों हुआ?
 Why did that matter?	Warum spielte das eine Rolle?	वह क्यों मायने रखता था?
+Why did this happen?	Warum ist das passiert?	यह क्यों हुआ?
+Why did you call me?	Warum hast du mich angerufen?	तुमने मुझे क्यों बुलाया?
+Why did you do that?	Warum hast du das getan?	तुमने ऐसा क्यों किया?
+Why did you do that? (Different Meaning)	Warum hast du das gemacht?	तुमने ऐसा क्यों किया?
+Why did you dump me?	Warum hast du mich abserviert?	तुने मुझे क्यों छोड़ दिया?
