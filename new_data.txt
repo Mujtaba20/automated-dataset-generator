@@ -27250,3 +27250,12 @@ Is my laundry ready?	Ist meine Wäsche fertig?	क्या मेरी धो�
 Is that OK with you?	Ist das okay für dich?	क्या यह तुम्हारे लिए ठीक है?
 Is that Tom singing?	Singt Tom?	क्या वह टॉम गा रहा है?
 Is that Tom's house?	Ist das das Haus von Tom?	क्या यह टॉम का घर है?
+Is that Tom's phone?	Ist das Toms Telefon?	क्या यह टॉम का फ़ोन है?
+Is that a bad thing?	Ist das ein schlechtes Ding?	क्या वह एक बुरी चीज़ है?
+Is that a complaint?	Ist das eine Beschwerde?	क्या यह एक शिकायत है?
+Is that a new dress?	Ist das ein neues Kleid?	क्या यह एक नई ड्रेस है?
+Is that a new shirt?	Ist das ein neues Hemd?	क्या वह एक नयी कमीज़ है?
+Is that a submarine?	Ist das ein U-Boot?	क्या वह एक समुद्री जहाज है?
+Is that a yes or no?	Ist das ein Ja oder Nein?	क्या वह हाँ या नहीं है?
+Is that all we need?	Ist das alles, was wir brauchen?	क्या यह सब हमें चाहिए?
+Is that book for me?	Ist das Buch für mich?	क्या यह किताब मेरे लिए है?

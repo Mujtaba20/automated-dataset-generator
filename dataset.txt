@@ -1,14 +1,4 @@
 
-Is that Tom's phone?	Ist das Toms Telefon?	क्या टॉम का फोन है?
-Is that a bad thing?	Ist das etwas Schlechtes?	क्या यह कुछ बुरा है?
-Is that a complaint?	Ist das eine Beschwerde?	क्या यह शिकायत है?
-Is that a complaint?	Ist das eine Reklamation?	क्या यह शिकायत है?
-Is that a new dress?	Ist das ein neues Kleid?	क्या यह एक नई पोशाक है?
-Is that a new shirt?	Ist das ein neues Hemd?	क्या यह एक नई शर्ट है?
-Is that a submarine?	Ist das ein U-Boot?	क्या वह पनडुब्बी है?
-Is that a yes or no?	Ist das ein Ja oder ein Nein?	यह एक हां या नहीं है?
-Is that all we need?	Ist das alles, was wir brauchen?	क्या हमें यह सब चाहिए?
-Is that book for me?	Ist das Buch für mich?	मेरे लिए किताब है?
 Is that clock going?	Geht die Uhr?	क्या घड़ी जाती है?
 Is that from a book?	Ist das aus einem Buch?	क्या यह एक किताब से है?
 Is that one of ours?	Gehört der uns?	क्या यह हमारा है?
