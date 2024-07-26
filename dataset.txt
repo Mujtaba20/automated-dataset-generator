@@ -1,15 +1,4 @@
 
-Something's burning.	Etwas brennt.	कुछ जलता है।
-Something's missing.	Es fehlt etwas.	कुछ याद आ रही है।
-Something's strange.	Da stimmt etwas nicht.	यहां कुछ गड़बड़ है.
-Sorry about earlier.	Tut mir leid wegen früher.	मुझे पहले के बारे में क्षमा करें।
-Sorry for the delay.	Entschuldige die Verspätung!	देर से आने के लिए क्षमा करें!
-Sorry to bother you.	Entschuldige, dass ich dich störe.	क्षमा करें कि मैं आपको परेशान कर रहा हूं।
-Sorry to bother you.	Entschuldige, dass ich dich belästige.	क्षमा करें कि मैं आपको परेशान करता हूं।
-Sorry, I can't help.	Es tut mir leid. Ich kann nicht helfen.	मुझे माफ़ करें।मैं मदद नहीं कर सकता।
-Step into the light.	Tritt ins Licht!	प्रकाश दर्ज करें!
-Step into the light.	Treten Sie ins Licht!	प्रकाश दर्ज करें!
-Step into the light.	Tretet ins Licht!	प्रकाश में शामिल हों!
 Stop being so naive.	Sei nicht so naiv.	वह भोला मत बनो।
 Stop being so picky.	Sei nicht so wählerisch!	इतना picky मत बनो!
 Stop calling me Tom.	Hör auf, mich Tom zu nennen!	मुझे कॉल करना बंद करो टॉम!

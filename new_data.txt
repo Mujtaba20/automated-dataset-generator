@@ -27979,3 +27979,12 @@ Somebody touched me.	Jemand hat mich berührt.	किसी ने मुझे 
 Someday, we'll know.	Eines Tages werden wir es wissen.	किसी दिन, हमें पता चल जाएगा।
 Something is coming.	Etwas kommt.	कुछ आ रहा है।
 Something was wrong.	Etwas war falsch.	कुछ गड़बड़ थी।
+Something's burning.	Etwas brennt.	कुछ जल रहा है।
+Something's missing.	Etwas fehlt.	कुछ गायब है।
+Something's strange.	Etwas ist seltsam.	कुछ अजीब है।
+Sorry about earlier.	Entschuldigung für früher.	पहले के लिए माफ़ी चाहता हूँ।
+Sorry for the delay.	Entschuldigung für die Verzögerung.	देरी के लिए माफी चाहता हूँ।
+Sorry to bother you.	Entschuldigung, dass ich störe.	आपको परेशान करने के लिए खेद है।
+Sorry, I can't help.	Entschuldigung, ich kann nicht helfen.	माफ़ कीजिए, मैं मदद नहीं कर सकता।
+Step into the light.	Tritt ins Licht.	रोशनी में कदम रखो।
+Step into the light. (Different meaning)	Schritt ins Rampenlicht.	प्रकाश में कदम रखो।
