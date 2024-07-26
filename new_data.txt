@@ -35715,3 +35715,13 @@ Will I get well soon?	Werde ich bald gesund werden?	क्या मैं ज�
 Will I see you later?	Werde ich dich später sehen?	क्या मैं बाद में तुम्हें देखूँगा?
 Will Tom leave early?	Wird Tom früh gehen?	क्या टॉम जल्दी निकल जाएगा?
 Will Tom wait for us?	Wird Tom auf uns warten?	क्या टॉम हमारे लिए इंतजार करेगा?
+Will it snow tonight?	Wird es heute Nacht schneien?	क्या आज रात बर्फ गिरेगा?
+Will it snow tonight? (Different meaning)	Kommt die Polizei?	क्या पुलिस आएगी?
+Will the police come?	Wird die Polizei kommen?	क्या पुलिस आएगी?
+Will we be safe here?	Werden wir hier sicher sein?	क्या हम यहाँ सुरक्षित रहेंगे?
+Will you come or not?	Wirst du kommen oder nicht?	क्या तुम आओगे या नहीं?
+Will you go by train?	Wirst du mit dem Zug fahren?	क्या तुम ट्रेन से जाओगे?
+Will you go with Tom?	Wirst du mit Tom gehen?	क्या तुम टॉम के साथ जाओगे?
+Will you help us now?	Wirst du uns jetzt helfen?	क्या तुम अब हमें मदद करेंगे?
+Will you wait for me?	Wirst du auf mich warten?	क्या तुम मेरे लिए इंतजार करोगे?
+Women don't like Tom.	Frauen mögen Tom nicht.	महिलाएँ टॉम को पसंद नहीं करतीं।

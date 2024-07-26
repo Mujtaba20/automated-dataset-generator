@@ -1,14 +1,4 @@
 
-Will it snow tonight?	Wird es heute Abend schneien?	क्या यह आज रात बर्फ होगा?
-Will it snow tonight?	Gibt es heute Abend Schnee?	क्या आज रात बर्फ है?
-Will the police come?	Wird die Polizei kommen?	क्या पुलिस आएगी?
-Will we be safe here?	Sind wir hier in Sicherheit?	क्या हम यहाँ सुरक्षित हैं?
-Will you come or not?	Kommst du oder nicht?	तुम्हें साथ आना है या नहीं?
-Will you go by train?	Wirst du mit dem Zug fahren?	क्या आप ट्रेन से जाएंगे?
-Will you go with Tom?	Wirst du mit Tom gehen?	क्या आप टॉम के साथ जाएंगे?
-Will you help us now?	Wirst du uns jetzt helfen?	क्या आप अब हमारी मदद करेंगे?
-Will you wait for me?	Wirst du auf mich warten?	क्या मेरी प्रतीक्षा की जाएगी
-Women don't like Tom.	Frauen mögen Tom nicht.	महिलाओं को टॉम पसंद नहीं है।
 Would it be possible?	Wäre das möglich?	क्या यह संभव होगा?
 Would you check this?	Würdest du das nachprüfen?	क्या आप इसकी जाँच करेंगे?
 Would you check this?	Würden Sie das nachprüfen?	क्या आप इसकी जाँच करेंगे?
