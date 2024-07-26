@@ -32252,3 +32252,12 @@ I was fined a dollar.	Mir wurde ein Dollar Strafe auferlegt.	मुझे एक
 I was here yesterday.	Ich war gestern hier.	मैं कल यहाँ था।
 I was home all night.	Ich war die ganze Nacht zu Hause.	मैं पूरी रात घर पर था।
 I was in Canada then.	Ich war damals in Kanada.	उस समय मैं कनाडा में था।
+I was in bed already.	Ich war schon im Bett.	मैं पहले ही बिस्तर में था।
+I was in the library.	Ich war in der Bibliothek.	मैं पुस्तकालय में था।
+I was jealous of her.	Ich war eifersüchtig auf sie.	मैं उसकी जलन में था।
+I was jealous of you.	Ich war eifersüchtig auf dich.	मैं तुम्हारी जलन में था।
+I was late to school.	Ich kam zu spät zur Schule.	मैं स्कूल के लिए देर से पहुँचा।
+I was looking at her.	Ich betrachtete sie.	मैं उसे देख रहा था।
+I was notified today.	Ich wurde heute benachrichtigt.	मुझे आज सूचित किया गया था।
+I was out for a walk.	Ich war spazieren.	मैं टहलने गया था।
+I was playing tennis.	Ich spielte Tennis.	मैं टेनिस खेल रहा था।
