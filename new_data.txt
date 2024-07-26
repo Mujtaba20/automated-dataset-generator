@@ -36769,3 +36769,10 @@ He is a self-made man.	Er ist ein Selbstgemachter Mann.	वह खुद से 
 He is a sharp-shooter.	Er ist ein Scharfschütze.	वह तेज निशानेबाज़ है।
 He is a spoiled child.	Er ist ein verwöhntes Kind.	वह एक बिगड़ा हुआ बच्चा है।
 He is a tennis player.	Er ist ein Tennisspieler.	वह एक टेनिस खिलाड़ी है।
+He is a very lazy boy.	Er ist ein sehr fauler Junge.	वह एक बहुत सुस्त लड़का है।
+He is above suspicion.	Er steht über jeden Verdacht.	उसके ऊपर संदेह नहीं है।
+He is afraid of death.	Er hat Angst vor dem Tod.	उसे मौत से डर लगता है।
+He is afraid of death. - 1	Er fürchtet sich vor dem Sterben.	उसे मौत से भय है।
+He is always cheerful.	Er ist immer fröhlich.	वह हमेशा खुश रहता है।
+He is always cheerful. - 1	Er ist stets guter Dinge.	वह हमेशा आनंदित रहता है।
+He is always laughing.	Er lacht immer.	वह हमेशा हंसता है।

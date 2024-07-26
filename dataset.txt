@@ -1,15 +1,4 @@
 
-He is a very lazy boy.	Er ist ein sehr fauler Junge.	वह बहुत आलसी लड़का है।
-He is above suspicion.	Er ist über jeden Verdacht erhaben.	वह किसी भी संदेह के बारे में उठाया जाता है।
-He is afraid of death.	Er hat Furcht vor dem Tod.	वह मौत से डरता है।
-He is afraid of death.	Er hat Angst vor dem Tod.	वह मौत से डरता है।
-He is afraid of death.	Er fürchtet sich vor dem Tod.	वह मौत से डरता है।
-He is afraid of death.	Er fürchtet den Tod.	उसे मौत का डर है।
-He is always cheerful.	Er ist stets munter und fidel.	वह हमेशा हंसमुख और फिदेल होता है।
-He is always cheerful.	Er ist immer heiter.	वह हमेशा हंसमुख होता है।
-He is always cheerful.	Er ist immer fröhlich.	वह हमेशा खुश रहता है।
-He is always laughing.	Er lacht immer.	वह हमेशा हंसता है।
-He is always laughing.	Er lacht andauernd.	वह लगातार हंसता है।
 He is always prepared.	Er ist immer vorbereitet.	वह हमेशा तैयार रहता है।
 He is always prepared.	Er ist allzeit bereit.	वह हमेशा तैयार रहता है।
 He is always studying.	Er ist immer beim Lernen.	वह हमेशा सीख रहा है।
