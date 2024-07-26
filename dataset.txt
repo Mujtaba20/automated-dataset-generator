@@ -1,18 +1,4 @@
 
-Play me some Chopin.	Spiel mir Chopin.	मुझे चोपिन खेलो।
-Play me some Chopin.	Spiel mir ein bisschen Chopin vor.	मुझे थोड़ा चोपिन खेलो।
-Please air the room.	Bitte lüfte das Zimmer.	कृपया कमरे को हवादार करें।
-Please air the room.	Bitte lüftet das Zimmer.	कृपया कमरे को हवादार करें।
-Please air the room.	Bitte lüften Sie das Zimmer.	कृपया कमरे को हवादार करें।
-Please air the room.	Bitte lüfte den Raum.	कृपया कमरे को हवादार करें।
-Please air the room.	Bitte lüftet den Raum.	कृपया कमरे को हवादार करें।
-Please air the room.	Bitte lüften Sie den Raum.	कृपया कमरे को हवादार करें।
-Please call me back.	Bitte ruf mich zurück!	कृपया मुझे वापस कॉल करें!
-Please call me back.	Bitte ruft mich zurück!	कृपया मुझे वापस कॉल करें!
-Please call me back.	Bitte rufen Sie mich zurück!	कृपया मुझे वापस कॉल करें!
-Please call me back.	Ruf mich bitte zurück!	कृपया मुझे वापस कॉल करें!
-Please call me back.	Ruft mich bitte zurück!	कृपया मुझे वापस कॉल करें!
-Please call me back.	Rufen Sie mich bitte zurück!	कृपया मुझे वापस कॉल करें!
 Please call my wife.	Bitte rufen Sie meine Frau an!	कृपया मेरी पत्नी को बुलाओ!
 Please call my wife.	Bitte ruf meine Frau an!	कृपया मेरी पत्नी को बुलाओ!
 Please call my wife.	Bitte ruft meine Frau an!	कृपया मेरी पत्नी को बुलाओ!

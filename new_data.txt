@@ -27768,3 +27768,6 @@ Perhaps I was wrong.	Vielleicht habe ich mich geirrt.	शायद मैं ग
 Perhaps I was wrong. (Different meaning)	Vielleicht war ich falsch verstanden.	शायद मैं गलत समझा गया था।
 Perhaps that's true.	Vielleicht ist das wahr.	शायद यह सच है।
 Pizza is on the way.	Pizza ist auf dem Weg.	पिज्जा रास्ते में है।
+Play me some Chopin.	Spiel mir etwas von Chopin vor.	मेरे लिए कुछ चोपिन बजाओ।
+Please air the room.	Lassen Sie bitte frische Luft herein.	कृपया कमरे को हवादार करें।
+Please call me back.	Bitte rufen Sie mich zurück.	कृपया मुझे फिर से कॉल करें।
