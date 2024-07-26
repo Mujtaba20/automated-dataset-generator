@@ -29526,3 +29526,12 @@ We aren't Canadians.	Wir sind keine Kanadier.	हम कनाडियन न�
 We aren't like that.	Wir sind nicht so.	हम उस तरह नहीं हैं।
 We aren't that poor.	Wir sind nicht so arm.	हम इतने गरीब नहीं हैं।
 We beat three teams.	Wir haben drei Teams besiegt.	हमने तीन टीमों को हराया।
+We both fell asleep.	Wir sind beide eingeschlafen.	हम दोनों सो गए।
+We can at least try.	Wir können es zumindest versuchen.	हम कम से कम कोशिश कर सकते हैं।
+We can count on Tom.	Wir können uns auf Tom verlassen.	हम टॉम पर भरोसा कर सकते हैं।
+We can help Tom now.	Jetzt können wir Tom helfen.	अब हम टॉम की मदद कर सकते हैं।
+We can hide in here.	Wir können uns hier verstecken.	हम यहाँ छुप सकते हैं।
+We can speak French.	Wir können Französisch sprechen.	हम फ्रेंच बोल सकते हैं।
+We can win this war.	Wir können diesen Krieg gewinnen.	हम इस युद्ध को जीत सकते हैं।
+We can't allow that.	Das können wir nicht zulassen.	हम उसे नहीं अनुमति दे सकते।
+We can't allow this.	Das können wir nicht erlauben.	हम यह नहीं अनुमति दे सकते।
