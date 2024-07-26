@@ -33203,3 +33203,10 @@ None of this is good.	Nichts davon ist gut.	इसमें से कुछ भ
 None of this is true.	Nichts davon ist wahr.	यह सब सच नहीं है।
 None of this matters.	Das spielt keine Rolle.	यह सब मायने नहीं रखता।
 None of us want that.	Keiner von uns will das.	हममें से कोई भी उसे नहीं चाहता।
+Not a shot was fired.	Es wurde kein Schuss abgefeuert.	कोई गोली नहीं चली।
+Not everybody smiled.	Nicht jeder hat gelächelt.	हर कोई मुस्कुराने नहीं था।
+Nothing bad happened.	Nichts Schlimmes ist passiert.	कुछ बुरा नहीं हुआ।
+Nothing can stop him.	Nichts kann ihn aufhalten.	कोई चीज उसे रोक नहीं सकती।
+Nothing can stop you.	Nichts kann dich aufhalten.	कुछ भी तुम्हें रोक नहीं सकता।
+Nothing can stop you. - Part 2	Nichts kann dich aufhalten. - Teil 2	कुछ भी तुम्हें रोक नहीं सकता। - भाग 2
+Nothing can stop you. - Part 3	Nichts kann dich aufhalten. - Teil 3	कुछ भी तुम्हें रोक नहीं सकता। - भाग 3
