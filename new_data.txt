@@ -23527,3 +23527,12 @@ Tom has no sisters.	Tom hat keine Schwestern.	टॉम के पास को�
 Tom has passed out.	Tom ist durchgefallen.	टॉम गिर गया है।
 Tom has short hair.	Tom hat wenig Haare.	टॉम के छोटे बाल हैं।
 Tom has short legs.	Tom hat kurze Beine.	टॉम की टांगें छोटी हैं।
+Tom has small feet.	Tom hat kleine Füße.	टॉम के छोटे पैर हैं।
+Tom has thick hair.	Tom hat dickes Haar.	टॉम के गहरे बाल हैं।
+Tom has three cars.	Tom hat drei Autos.	टॉम के तीन कार हैं।
+Tom has three cats.	Tom hat drei Katzen.	टॉम के तीन बिल्लियाँ हैं।
+Tom has three cows.	Tom hat drei Kühe.	टॉम के तीन गायें हैं।
+Tom has three dogs.	Tom hat drei Hunde.	टॉम के तीन कुत्ते हैं।
+Tom has three kids.	Tom hat drei Kinder.	टॉम के तीन बच्चे हैं।
+Tom has three sons.	Tom hat drei Söhne.	टॉम के तीन बेटे हैं।
+Tom has to act now.	Tom muss jetzt reagieren.	टॉम को अब काम करना है।

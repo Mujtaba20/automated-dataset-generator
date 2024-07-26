@@ -1,14 +1,4 @@
 
-Tom has small feet.	Tom hat kleine Füße.	टॉम के पास बहुत कम पैर हैं।
-Tom has thick hair.	Tom hat dichtes Haar.	टॉम के घने बाल हैं।
-Tom has three cars.	Tom hat drei Autos.	टॉम के पास तीन कारें हैं।
-Tom has three cats.	Tom hat drei Katzen.	टॉम में तीन बिल्लियाँ हैं।
-Tom has three cows.	Tom hat drei Kühe.	टॉम के पास तीन गाय हैं।
-Tom has three dogs.	Tom hat drei Hunde.	टॉम के तीन कुत्ते हैं।
-Tom has three kids.	Tom hat drei Kinder.	टॉम के तीन बच्चे हैं।
-Tom has three sons.	Tom hat drei Söhne.	टॉम के तीन बेटे हैं।
-Tom has to act now.	Tom muss jetzt zur Tat schreiten.	टॉम को अब अभिनय करने के लिए जाना है।
-Tom has to act now.	Tom muss jetzt handeln.	टॉम को अब अभिनय करना है।
 Tom has to be here.	Tom muss hier sein.	टॉम को यहां रहना है।
 Tom has to be home.	Tom muss zu Hause sein.	टॉम को घर पर होना है।
 Tom has to do that.	Tom muss das machen.	टॉम को ऐसा करना है।
