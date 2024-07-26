@@ -1,14 +1,4 @@
 
-Is anyone else going?	Geht da noch jemand fort?	क्या कोई चला जाता है?
-Is anyone else going?	Geht noch jemand?	क्या कोई और जाता है?
-Is flight 23 on time?	Ist Flug 23 pünktlich?	क्या समय पर उड़ान 23 है?
-Is it hot over there?	Ist es heiß dort drüben?	क्या यह वहाँ पर गर्म है?
-Is it money you want?	Ist es Geld, was du willst?	क्या यह पैसा है जो आप चाहते हैं?
-Is it my turn to pay?	Bin ich mit Bezahlen an der Reihe?	क्या मैं इसके लिए भुगतान कर रहा हूं?
-Is it open on Sunday?	Ist es sonntags geöffnet?	क्या यह रविवार को खुला है?
-Is it worth the risk?	Ist es das Risiko wert?	क्या यह जोखिम के लायक है?
-Is my answer correct?	Ist meine Antwort richtig?	क्या मेरा जवाब सही है?
-Is my answer correct?	Ist meine Antwort korrekt?	क्या मेरा उत्तर सही है?
 Is she a taxi driver?	Ist sie Taxifahrerin?	क्या वह टैक्सी ड्राइवर है?
 Is that Tom's father?	Ist das Toms Vater?	क्या वह टॉम का पिता है?
 Is that a compliment?	Ist das ein Kompliment?	क्या यह एक तारीफ है?

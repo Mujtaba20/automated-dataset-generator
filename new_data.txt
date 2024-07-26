@@ -32699,3 +32699,11 @@ Is Tom on board, too?	Ist Tom auch an Bord?	क्या टॉम भी जह
 Is Tom right for you?	Ist Tom richtig für dich?	क्या टॉम तुम्हारे लिए सही है?
 Is Tom still playing?	Spielt Tom immer noch?	क्या टॉम अभी भी खेल रहा है?
 Is Tom still singing?	Singt Tom immer noch?	क्या टॉम अभी भी गा रहा है?
+Is anyone else going?	Geht noch jemand anders?	क्या कोई अन्य जा रहा है?
+Is flight 23 on time?	Ist Flug 23 pünktlich?	क्या फ्लाइट 23 समय पर है?
+Is it hot over there?	Ist es heiß da drüben?	क्या वहाँ गरम है?
+Is it money you want?	Ist es Geld, was du willst?	क्या आपको पैसे चाहिए?
+Is it my turn to pay?	Bin ich dran zu zahlen?	क्या मेरी बारी है भुगतान करने की?
+Is it open on Sunday?	Ist es am Sonntag geöffnet?	क्या यह रविवार को खुला होता है?
+Is it worth the risk?	Ist es das Risiko wert?	क्या यह जोखिम लेने लायक है?
+Is my answer correct?	Ist meine Antwort richtig?	क्या मेरा जवाब सही है?
