@@ -38214,3 +38214,13 @@ I'm going to miss you.	Ich werde dich vermissen.	मैं तुम्हें
 I'm going to stop Tom.	Ich werde Tom stoppen.	मैं टॉम को रोकूंगा।
 I'm going to stop you.	Ich werde dich aufhalten.	मैं तुम्हें रोकूंगा।
 I'm going to take off.	Ich werde abheben.	मैं उड़ने वाला हूँ।
+I'm going to the bank.	Ich gehe zur Bank.	मैं बैंक जा रहा हूँ।
+I'm going to the park.	Ich gehe in den Park.	मैं पार्क जा रहा हूँ।
+I'm good at what I do.	Ich bin gut in dem, was ich tue.	मैं उसमे अच्छा हूँ जो मैं करता हूँ।
+I'm good at what I do. (variation)	Ich beherrsche, was ich tue.	मैं उसमे अच्छा हूँ जो मैं करता हूँ।
+I'm happy for you two.	Ich bin glücklich für euch beide.	मैं आप दोनों के लिए खुश हूँ।
+I'm happy you're here.	Ich freue mich, dass du hier bist.	मुझे खुशी है कि तुम यहाँ हो।
+I'm happy, very happy.	Ich bin glücklich, sehr glücklich.	मैं खुश हूँ, बहुत खुश।
+I'm having dinner now.	Ich esse gerade zu Abend.	मैं अभी खाना खा रहा हूँ।
+I'm having dinner now. (variation)	Ich nehme gerade mein Abendessen ein.	मैं अभी रात का खाना खा रहा हूँ।
+I'm here as a tourist.	Ich bin hier als Tourist.	मैं एक पर्यटक के रूप में यहाँ हूँ।
