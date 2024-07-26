@@ -1,14 +1,4 @@
 
-It's more than enough.	Das ist mehr als ausreichend.	यह पर्याप्त से अधिक है।
-It's more than enough.	Das ist mehr als genug.	यह पर्याप्त से अधिक है।
-It's my birthday soon.	Ich habe bald Geburtstag.	मेरा जन्मदिन जल्द ही है।
-It's my birthday soon.	Bald ist mein Geburtstag.	मेरा जन्मदिन जल्द ही है।
-It's my favorite food.	Es ist mein Lieblingsessen.	यह मेरा पसंदीदा भोजन है।
-It's my favorite song.	Das ist mein Lieblingslied.	यह मेरा पसंदीदा गीत है।
-It's not a fair fight.	Das ist ein ungleicher Kampf.	यह एक असमान लड़ाई है।
-It's not hard to find.	Es ist nicht schwer zu finden.	यह खोजना मुश्किल नहीं है।
-It's not how it seems.	Es ist nicht so, wie es scheint.	यह ऐसा नहीं है जो लगता है।
-It's not quite enough.	Das reicht nicht wirklich.	यह वास्तव में पर्याप्त नहीं है।
 It's not so hot today.	Heute ist es nicht so heiß.	आज यह गर्म नहीं है।
 It's not true anymore.	Das stimmt nicht mehr.	यह अब सही नहीं रहा।
 It's not very durable.	Das ist nicht sehr haltbar.	यह बहुत टिकाऊ नहीं है।
