@@ -26554,3 +26554,12 @@ I need the car keys.	Ich brauche die Autoschlüssel.	मुझे कार क�
 I need the password.	Ich brauche das Passwort.	मुझे पासवर्ड की आवश्यकता है।
 I need to get a job.	Ich muss einen Job bekommen.	मुझे नौकरी मिलने की आवश्यकता है।
 I need to repay her.	Ich muss ihr zurückzahlen.	मुझे उसे वापस देने की आवश्यकता है।
+I need to sleep now.	Ich muss jetzt schlafen.	मुझे अब सोने की जरुरत है।
+I need you here now.	Ich brauche dich jetzt hier.	मुझे तुम्हारी यहाँ अब चाहिए।
+I needed Tom's help.	Ich brauchte Toms Hilfe.	मुझे टॉम की मदद की जरुरत थी।
+I needed more money.	Ich brauchte mehr Geld.	मुझे और धन की आवश्यकता थी।
+I needed to see Tom.	Ich musste Tom sehen.	मुझे टॉम से मिलने की आवश्यकता थी।
+I never believed it.	Ich habe es nie geglaubt.	मैं कभी नहीं माना।
+I never cut corners.	Ich gehe nie Kompromisse ein.	मैं कभी भी कोने काटने का सहारा नहीं लेता।
+I never drink alone.	Ich trinke nie allein.	मैं कभी अकेले नहीं पीता।
+I never eat spinach.	Ich esse nie Spinat.	मैं कभी पालक नहीं खाता।
