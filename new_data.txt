@@ -41066,3 +41066,11 @@ We left the door open.	Wir ließen die Tür offen.	हमने दरवाज�
 We live in a big city.	Wir leben in einer großen Stadt.	हम एक बड़े शहर में रहते हैं।
 We lost a lot of time.	Wir haben viel Zeit verloren.	हमने बहुत समय खो दिया।
 We love our customers.	Wir lieben unsere Kunden.	हमारे ग्राहकों से हम प्यार करते हैं।
+We love the same girl.	Wir lieben das gleiche Mädchen.	हम उसी लड़की से प्यार करते हैं।
+We made a sand castle.	Wir haben eine Sandschloss gebaut.	हमने एक रेत का महल बनाया।
+We made many mistakes.	Wir haben viele Fehler gemacht.	हमने कई गलतियाँ की हैं।
+We may have a problem.	Wir könnten ein Problem haben.	हमें कोई समस्या हो सकती है।
+We may need some help.	Wir brauchen vielleicht Hilfe.	हमें कुछ मदद की आवश्यकता हो सकती है।
+We met at summer camp.	Wir trafen uns im Sommerlager.	हम सर्दी की छुट्टियों में मिले थे।
+We met them yesterday.	Wir haben sie gestern getroffen.	हमने उन्हें कल मिला।
+We miss you very much.	Wir vermissen Sie sehr.	हम आपको बहुत याद करते हैं।
