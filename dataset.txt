@@ -1,14 +1,4 @@
 
-Tom has lost weight.	Tom hat abgenommen.	टॉम में कमी आई है।
-Tom has lung cancer.	Tom hat Lungenkrebs.	टॉम को फेफड़े का कैंसर है।
-Tom has my umbrella.	Tom hat meinen Regenschirm.	टॉम में मेरी छतरी है।
-Tom has my umbrella.	Tom hat meinen Schirm.	टॉम में मेरी छतरी है।
-Tom has no ambition.	Tom hat keinen Ehrgeiz.	टॉम की कोई महत्वाकांक्षा नहीं है।
-Tom has no brothers.	Tom hat keine Brüder.	टॉम का कोई भाई नहीं है।
-Tom has no children.	Tom hat keine Kinder.	टॉम की कोई संतान नहीं है।
-Tom has no siblings.	Tom hat keine Geschwister.	टॉम का कोई भाई -बहन नहीं है।
-Tom has one brother.	Tom hat einen Bruder.	टॉम का एक भाई है।
-Tom has one for you.	Tom hat einen für dich.	टॉम आपके लिए एक है।
 Tom has other plans.	Tom hat andere Pläne.	टॉम की अन्य योजनाएं हैं।
 Tom has small hands.	Tom hat kleine Hände.	टॉम के छोटे हाथ हैं।
 Tom has the day off.	Tom hat den Tag frei.	टॉम का दिन मुक्त है।

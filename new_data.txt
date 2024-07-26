@@ -28751,3 +28751,13 @@ Tom has few friends.	Tom hat wenige Freunde.	टॉम के कुछ दो�
 Tom has gone insane.	Tom ist verrückt geworden.	टॉम पागल हो गया है।
 Tom has gone to bed.	Tom ist ins Bett gegangen.	टॉम सोने चला गया है।
 Tom has got a point.	Tom hat einen Punkt.	टॉम की एक बात सही है।
+Tom has lost weight.	Tom hat an Gewicht verloren.	टॉम का वजन कम हो गया है।
+Tom has lung cancer.	Tom hat Lungenkrebs.	टॉम को फेफड़े का कैंसर है।
+Tom has my umbrella.	Tom hat meinen Regenschirm.	टॉम के पास मेरा छाता है।
+Tom has my umbrella. (different meaning)	Tom hat meinen Schirm.	टॉम के पास मेरा छाता है।
+Tom has no ambition.	Tom hat keine Ambitionen.	टॉम की कोई महत्वाकांक्षा नहीं है।
+Tom has no brothers.	Tom hat keine Brüder.	टॉम के कोई भाई नहीं हैं।
+Tom has no children.	Tom hat keine Kinder.	टॉम के कोई बच्चे नहीं हैं।
+Tom has no siblings.	Tom hat keine Geschwister.	टॉम के कोई सांतानित्व नहीं है।
+Tom has one brother.	Tom hat einen Bruder.	टॉम का एक भाई है।
+Tom has one for you.	Tom hat einen für dich.	टॉम के पास एक तुम्हारे लिए है।
