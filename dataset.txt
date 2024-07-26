@@ -1,15 +1,4 @@
 
-Tom is from Harvard.	Tom studiert in Harvard.	हार्वर्ड में टॉम अध्ययन।
-Tom is full of hope.	Tom ist voller Hoffnung.	टॉम आशा से भरा है।
-Tom is full of hope.	Tom ist ganz hoffnungsvoll.	टॉम उम्मीद है।
-Tom is full of life.	Tom steckt voller Leben.	टॉम जीवन से भरा है।
-Tom is getting rich.	Tom wird langsam aber sicher reich.	टॉम धीरे -धीरे लेकिन निश्चित रूप से अमीर हो जाता है।
-Tom is going to win.	Tom wird gewinnen.	टॉम जीत जाएगा।
-Tom is good at golf.	Tom spielt gut Golf.	टॉम गोल्फ अच्छी तरह से खेलता है।
-Tom is good at math.	Tom ist gut in Mathe.	टॉम गणित में अच्छा है।
-Tom is good at that.	Tom ist gut darin.	टॉम इसमें अच्छा है।
-Tom is good at this.	Tom kann das gut.	टॉम ऐसा कर सकता है।
-Tom is good at this.	Tom ist gut darin.	टॉम इसमें अच्छा है।
 Tom is good company.	Tom ist ein guter Umgang.	टॉम एक अच्छी हैंडलिंग है।
 Tom is good-looking.	Tom sieht gut aus.	टॉम अच्छा लग रहा है।
 Tom is good-natured.	Tom ist gut geartet.	टॉम अच्छी तरह से प्राप्त है।

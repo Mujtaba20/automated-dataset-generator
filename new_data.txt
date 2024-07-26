@@ -28875,3 +28875,12 @@ engSentence7	Tom trinkt Tee.	टॉम चाय पी रहा है।
 engSentence8	Tom isst Brot.	टॉम रोटी खा रहा है।
 engSentence9	Tom erwartet mich.	टॉम मुझे उम्मीद कर रहा है।
 engSentence10	Tom folgt uns.	टॉम हमें फॉलो कर रहा है।
+Tom is from Harvard.	Tom kommt von Harvard.	टॉम हार्वर्ड से है।
+Tom is full of hope.	Tom ist voller Hoffnung.	टॉम आशा से भरा है।
+Tom is full of life.	Tom ist voller Leben.	टॉम जीवन से भरा है।
+Tom is getting rich.	Tom wird reich.	टॉम धनी हो रहा है।
+Tom is going to win.	Tom wird gewinnen.	टॉम जीतने जा रहा है।
+Tom is good at golf.	Tom ist gut im Golf.	टॉम गोल्फ में अच्छा है।
+Tom is good at math.	Tom ist gut in Mathe.	टॉम गणित में अच्छा है।
+Tom is good at that.	Tom ist gut darin.	टॉम उसमें अच्छा है।
+Tom is good at this.	Tom ist gut darin.	टॉम इसमें अच्छा है।
