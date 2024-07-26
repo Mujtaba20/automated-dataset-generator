@@ -34809,3 +34809,13 @@ Tom sat on the floor.	Tom saß auf dem Boden.	टॉम ज़मीन पर �
 Tom sat on the table.	Tom saß auf dem Tisch.	टॉम टेबल पर बैठा था।
 Tom sat under a tree.	Tom saß unter einem Baum.	टॉम एक पेड़ के नीचे बैठा था।
 Tom saw Mary do that.	Tom sah Mary das tun.	टॉम ने मेरी को वैसा करते देखा।
+Tom saw Mary running.	Tom sah Maria rennen.	टॉम ने मेरी को दौडते देखा।
+Tom saw Mary waiting.	Tom sah Maria warten.	टॉम ने मेरी को इंतजार करते देखा।
+Tom saw the pictures.	Tom sah die Bilder.	टॉम ने तस्वीरें देखी।
+Tom saw them kissing.	Tom sah sie küssen.	टॉम ने उन्हें चुंबन देखा।
+Tom says he likes it.	Tom sagt, dass er es mag.	टॉम कहता है कि उसे यह पसंद है।
+Tom says he saw Mary.	Tom sagt, dass er Maria gesehen hat.	टॉम कहता है कि उसने मेरी को देखा।
+Tom says he was busy.	Tom sagt, dass er beschäftigt war.	टॉम कहता है कि वह व्यस्त था।
+Tom says he's hungry.	Tom sagt, dass er hungrig ist.	टॉम कहता है कि वह भूखा है।
+Tom says he's unsure.	Tom sagt, dass er unsicher ist.	टॉम कहता है कि वह अनिश्चित है।
+Tom says you're cute.	Tom sagt, du bist niedlich.	टॉम कहता है कि तुम प्यारी हो।
