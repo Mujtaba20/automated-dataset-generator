@@ -41091,3 +41091,13 @@ We ran short of money.	Uns ging das Geld aus.	हमें पैसे की �
 We really need to win.	Wir müssen wirklich gewinnen.	हमें सच में जीतने की आवश्यकता है।
 We rested for a while.	Wir haben eine Weile geruht.	हमने कुछ समय के लिए आराम किया।
 We should do our best.	Wir sollten unser Bestes geben.	हमें अपनी सबसे अच्छी कोशिश करनी चाहिए।
+We should finish this.	Wir sollten das beenden.	हमें इसे समाप्त करना चाहिए।
+We should get married.	Wir sollten heiraten.	हमें शादी करनी चाहिए।
+We should go this way.	Wir sollten diesen Weg gehen.	हमें इस तरफ जाना चाहिए।
+We should go to sleep.	Wir sollten schlafen gehen.	हमें सोने चलना चाहिए।
+We should keep moving.	Wir sollten uns in Bewegung halten.	हमें आगे बढ़ना चाहिए।
+We sometimes see them.	Manchmal sehen wir sie.	कभी-कभी हम उन्हें देखते हैं।
+We talked about music.	Wir haben über Musik gesprochen.	हमने संगीत के बारे में बातचीत की।
+We thought about that.	Wir haben darüber nachgedacht.	हमने उसके बारे में सोचा।
+We tried to stop them.	Wir haben versucht, sie zu stoppen.	हमने कोशिश की उन्हें रोकने की।
+We trusted each other.	Wir haben uns vertraut.	हमने एक-दूसरे पर भरोसा किया।
