@@ -1,14 +1,4 @@
 
-Tom appears unhurt.	Tom scheint unverletzt zu sein.	टॉम अनहोनी लगती है।
-Tom appears unhurt.	Tom sieht unverletzt aus.	टॉम अनहोनी लगती है।
-Tom arrived safely.	Tom kam wohlbehalten an.	टॉम सुरक्षित रूप से पहुंचे।
-Tom asked Mary out.	Tom bat Mary mit ihm auszugehen.	टॉम ने मैरी को उसके साथ बाहर जाने के लिए कहा।
-Tom asked for help.	Tom bat um Hilfe.	टॉम ने मदद मांगी।
-Tom ate fried rice.	Tom hat gebratenen Reis gegessen.	टॉम ने तले हुए चावल खाया।
-Tom ate his dinner.	Tom aß sein Abendessen auf.	टॉम ने अपना डिनर खाया।
-Tom ate like a pig.	Tom fraß wie ein Schwein.	टॉम एक सुअर की तरह खाया।
-Tom ate my cookies.	Tom hat meine Kekse gegessen.	टॉम ने मेरी कुकीज़ खाए।
-Tom ate your candy.	Tom hat dein Konfekt gegessen.	टॉम ने आपका कन्फेक्शनरी खाया।
 Tom became curious.	Tom wurde neugierig.	टॉम उत्सुक हो गया।
 Tom became furious.	Tom wurde rasend.	टॉम उन्मादी हो गया।
 Tom became nervous.	Tom wurde nervös.	टॉम घबरा गया।

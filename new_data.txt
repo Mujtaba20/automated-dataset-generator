@@ -23304,3 +23304,12 @@ Tom and I are well.	Tom und ich sind gut.	टॉम और मैं अच्�
 Tom and I did that.	Tom und ich haben das gemacht.	टॉम और मैंने वह किया।
 Tom and I'll be OK.	Tom und ich werden in Ordnung sein.	टॉम और मैं ठीक हो जाएंगे।
 Tom and Mary agree.	Tom und Mary stimmen zu.	टॉम और मेरी सहमत हैं।
+Tom appears unhurt.	Tom sieht unverletzt aus.	टॉम गम्भीर लगता है।
+Tom arrived safely.	Tom ist sicher angekommen.	टॉम सुरक्षित रूप से पहुंच गया।
+Tom asked Mary out.	Tom lud Mary ein.	टॉम ने मेरी को बाहर बुलाया।
+Tom asked for help.	Tom bat um Hilfe.	टॉम ने मदद के लिए पूछा।
+Tom ate fried rice.	Tom aß gebratenen Reis.	टॉम ने तले हुए चावल खाए।
+Tom ate his dinner.	Tom aß sein Abendessen.	टॉम ने अपनी रात का खाना खाया।
+Tom ate like a pig.	Tom aß wie ein Schwein.	टॉम सुअर की तरह खाता था।
+Tom ate my cookies.	Tom aß meine Kekse.	टॉम ने मेरे कुकीज खाए।
+Tom ate your candy.	Tom aß deine Bonbons.	टॉम ने तुम्हारे कैंडी खाई।
