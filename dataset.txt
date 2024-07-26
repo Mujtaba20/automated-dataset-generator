@@ -1,14 +1,4 @@
 
-Tom isn't the owner.	Tom ist nicht der Besitzer.	टॉम मालिक नहीं है।
-Tom isn't too happy.	Tom ist nicht allzu glücklich.	टॉम बहुत खुश नहीं है।
-Tom isn't very nice.	Tom ist nicht sehr nett.	टॉम बहुत अच्छा नहीं है।
-Tom isn't very sick.	Tom ist nicht sehr krank.	टॉम बहुत बीमार नहीं है।
-Tom isn't very tall.	Tom ist nicht allzu groß.	टॉम बहुत बड़ा नहीं है।
-Tom isn't very well.	Tom geht es nicht sehr gut.	टॉम बहुत अच्छा नहीं कर रहा है।
-Tom isn't with Mary.	Tom ist nicht bei Maria.	टॉम मारिया के साथ नहीं है।
-Tom just got dumped.	Tom wurde gerade der Laufpass gegeben.	टॉम को सिर्फ पासपोर्ट दिया गया है।
-Tom kept me waiting.	Tom ließ mich warten.	टॉम ने मुझे इंतजार किया।
-Tom kept my lighter.	Tom behielt mein Feuerzeug.	टॉम ने मेरा लाइटर रखा।
 Tom kept on singing.	Tom sang weiter.	टॉम जारी रहा।
 Tom kept on walking.	Tom ging weiter.	टॉम जारी रहा।
 Tom kept on working.	Tom arbeitete weiter.	टॉम ने काम करना जारी रखा।

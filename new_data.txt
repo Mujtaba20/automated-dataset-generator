@@ -29027,3 +29027,13 @@ Tom isn't talkative.	Tom ist nicht gesprächig.	टॉम अधूरा नह
 Tom isn't that dumb.	Tom ist nicht so dumm.	टॉम उम्मीद से अधिक नहीं है।
 Tom isn't that poor.	Tom ist nicht so arm.	टॉम उसके बदले नहीं है।
 Tom isn't the enemy.	Tom ist nicht der Feind.	टॉम अपने दोस्त नहीं है।
+Tom isn't the owner.	Tom ist nicht der Besitzer.	टॉम मालिक नहीं है।
+Tom isn't too happy.	Tom ist nicht zu glücklich.	टॉम बहुत खुश नहीं है।
+Tom isn't very nice.	Tom ist nicht sehr nett.	टॉम बहुत अच्छे नहीं है।
+Tom isn't very sick.	Tom ist nicht sehr krank.	टॉम बहुत अच्छा नहीं है।
+Tom isn't very tall.	Tom ist nicht sehr groß.	टॉम बहुत लंबा नहीं है।
+Tom isn't very well.	Tom ist nicht sehr gesund.	टॉम बहुत अच्छा नहीं है।
+Tom isn't with Mary.	Tom ist nicht mit Mary.	टॉम मेरी के साथ नहीं है।
+Tom just got dumped.	Tom wurde gerade abgeladen.	टॉम अभी कुडी गई।
+Tom kept me waiting.	Tom ließ mich warten.	टॉम ने मुझे इंतेज़ार कराया।
+Tom kept my lighter.	Tom behielt mein Feuerzeug.	टॉम ने मेरा लाइटर रखा।
