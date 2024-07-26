@@ -39365,3 +39365,13 @@ That's a minor detail.	Das ist ein kleines Detail.	यह एक छोटा �
 That's a nice T-shirt.	Das ist ein schönes T-Shirt.	यह एक अच्छी टी-शर्ट है।
 That's a nice picture.	Das ist ein schönes Bild.	यह एक अच्छी तस्वीर है।
 That's a pretty dress.	Das ist ein hübsches Kleid.	यह एक सुंदर ड्रेस है।
+That's all we can ask.	Das ist alles, was wir fragen können.	बस इतना ही हम पूछ सकते हैं।
+That's an odd request.	Das ist eine seltsame Anfrage.	वह एक अजीब अनुरोध है।
+That's an old picture.	Das ist ein altes Bild.	वह एक पुरानी तस्वीर है।
+That's another matter.	Das ist eine andere Angelegenheit.	वह एक और मुद्दा है।
+That's awesome, right?	Das ist großartig, oder?	यह बड़ा शानदार है, ना?
+That's good, isn't it?	Das ist gut, oder?	वह अच्छा है, ना?
+That's how Tom did it.	So hat Tom es gemacht.	वैसे ही टॉम ने यह किया।
+That's how it is done.	So wird es gemacht.	यह कैसे किया जाता है।
+That's how it started.	So hat es angefangen.	यह कैसे शुरू हुआ।
+That's irrelevant now.	Das ist jetzt irrelevant.	वह अब अमान्य है।
