@@ -1,14 +1,4 @@
 
-I met him in the crowd.	Ich traf ihn in der Menge.	मैं उनसे भीड़ में मिला।
-I might need your help.	Ich könnte deine Hilfe gebrauchen.	मैं आपकी मदद का उपयोग कर सकता था।
-I missed you very much.	Ich habe dich sehr vermisst.	मैंने तुम्हें बहुत याद किया।
-I must get my hair cut.	Ich muss mir die Haare schneiden lassen.	मुझे अपने बाल काटने होंगे।
-I must open the window.	Ich muss das Fenster öffnen.	मुझे खिड़की खोलनी है।
-I must've misplaced it.	Ich muss es verlegt haben.	मैंने इसे स्थानांतरित कर दिया होगा।
-I need a bigger office.	Ich brauche ein größeres Büro.	मुझे एक बड़ा कार्यालय चाहिए।
-I need a new USB cable.	Ich brauche ein neues USB-Kabel.	मुझे एक नया USB केबल चाहिए।
-I need a place to stay.	Ich brauche eine Bleibe.	मुझे ठहरने की जरूरत है।
-I need a second chance.	Ich brauche eine zweite Chance.	मुझे दूसरा मौका चाहिए।
 I need colored pencils.	Ich brauche Farbstifte.	मुझे रंग पिन चाहिए।
 I need some blue paint.	Ich brauche etwas blaue Farbe.	मुझे कुछ नीले रंग की जरूरत है।
 I need some blue paint.	Ich brauche ein bisschen blaue Farbe.	मुझे थोड़ा नीला रंग चाहिए।
