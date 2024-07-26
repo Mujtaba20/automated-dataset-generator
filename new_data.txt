@@ -25129,3 +25129,10 @@ Are you on Facebook?	Bist du auf Facebook?	क्या आप फेसबु�
 Are you out of work?	Bist du arbeitslos?	क्या आप काम से बेरोज़गार हैं?
 Do you have a Facebook account?	Hast du ein Facebook-Konto?	क्या आपके पास फेसबुक खाता है?
 Are you unemployed?	Bist du arbeitslos?	क्या आप बेरोज़गार हैं?
+Are you really busy?	Bist du wirklich beschäftigt?	क्या आप वास्तव में व्यस्त हैं?
+Are you really done?	Bist du wirklich fertig?	क्या आप वास्तव में हो गए हैं?
+Are you really sick?	Bist du wirklich krank?	क्या आप वास्तव में बीमार हैं?
+Are you still alive?	Bist du noch am Leben?	क्या आप अभी भी जीवित हैं?
+Are you still angry?	Bist du immer noch wütend?	क्या आप अभी भी गुस्से में हैं?
+Are you still awake?	Bist du noch wach?	क्या आप अभी भी जागरूक हैं?
+Are you still there?	Bist du immer noch da?	क्या तुम अभी भी वहाँ हो?

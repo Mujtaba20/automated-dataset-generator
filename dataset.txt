@@ -1,14 +1,4 @@
 
-Are you really busy?	Bist du wirklich beschäftigt?	क्या आप वास्तव में व्यस्त हैं
-Are you really done?	Sind Sie wirklich fertig?	क्या आप वास्तव में समाप्त हो गए हैं?
-Are you really sick?	Bist du wirklich krank?	क्या आप वास्तव में बीमार हैं?
-Are you really sick?	Sind Sie wirklich krank?	क्या आप वास्तव में बीमार हैं?
-Are you still alive?	Lebst du noch?	आप अभी भी जिंदा हैं?
-Are you still angry?	Bist du immer noch böse?	क्या आप अभी भी दुष्ट हैं?
-Are you still awake?	Bist du noch wach?	क्या तुम अब भी जाग रहे हो?
-Are you still there?	Bist du noch da?	क्या आप अभी भी हैं?
-Are you still there?	Sind Sie noch da?	क्या आप अभी भी हैं?
-Are you still there?	Seid ihr noch da?	क्या आप अभी भी हैं?
 Are you still upset?	Bist du noch immer verärgert?	क्या आप अभी भी परेशान हैं?
 Are you still upset?	Bist du noch aufgebracht?	क्या आप अभी भी परेशान हैं?
 Are you texting Tom?	Schreibst du Tom?	क्या आप टॉम लिखते हैं?
