@@ -1,15 +1,4 @@
 
-Tom is climbing a tree.	Tom klettert auf einen Baum.	टॉम एक पेड़ पर चढ़ता है।
-Tom is climbing a tree.	Tom erklettert einen Baum.	टॉम एक पेड़ पर चढ़ गया।
-Tom is close to thirty.	Tom geht auf die Dreißig zu.	टॉम तीस के पास पहुंचता है।
-Tom is coming upstairs.	Tom kommt hoch.	टॉम ऊपर आता है।
-Tom is completely nuts.	Tom ist total bekloppt.	टॉम पूरी तरह से पागल है।
-Tom is completely nuts.	Tom ist völlig übergeschnappt.	टॉम पूरी तरह से पकड़ा गया है।
-Tom is deaf in one ear.	Tom ist auf einem Ohr taub.	टॉम एक कान पर बहरा है।
-Tom is definitely back.	Tom ist auf jeden Fall wieder da.	टॉम निश्चित रूप से वापस आ गया है।
-Tom is disturbing Mary.	Tom stört Maria.	टॉम ने मारिया को परेशान किया।
-Tom is doing very well.	Tom schlägt sich sehr gut.	टॉम बहुत अच्छा कर रहा है।
-Tom is doing very well.	Tom geht es sehr gut.	टॉम बहुत अच्छा कर रहा है।
 Tom is drinking a beer.	Tom trinkt ein Bier.	टॉम एक बीयर पीता है।
 Tom is driving a truck.	Tom fährt Lkw.	टॉम ट्रक चलाता है।
 Tom is driving his car.	Tom fährt seinen Wagen.	टॉम अपनी कार चलाता है।
