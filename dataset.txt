@@ -1,14 +1,4 @@
 
-Tom was a rugby player.	Tom war Rugbyspieler.	टॉम एक रग्बी खिलाड़ी था।
-Tom was a stock broker.	Tom war ein Börsenmakler.	टॉम एक शेयर बाजार था।
-Tom was a troublemaker.	Tom war ein Störenfried.	टॉम एक संकटमोचक था।
-Tom was about to speak.	Tom war im Begriff zu sprechen.	टॉम बोलने वाला था।
-Tom was afraid of Mary.	Tom hatte Angst vor Mary.	टॉम मैरी से डरते थे।
-Tom was afraid to swim.	Tom hatte Angst vor dem Schwimmen.	टॉम तैराकी से डरते थे।
-Tom was afraid to swim.	Tom hatte Angst zu schwimmen.	टॉम तैरने से डरता था।
-Tom was always with me.	Tom war immer bei mir.	टॉम हमेशा मेरे साथ था।
-Tom was always working.	Tom war immer am Arbeiten.	टॉम हमेशा काम कर रहा था।
-Tom was at the library.	Tom war in der Bibliothek.	टॉम लाइब्रेरी में था।
 Tom was born in Boston.	Tom wurde in Boston geboren.	टॉम का जन्म बोस्टन में हुआ था।
 Tom was born on a ship.	Tom kam auf einem Schiff zur Welt.	टॉम का जन्म एक जहाज पर हुआ था।
 Tom was born on a ship.	Tom wurde auf einem Schiff geboren.	टॉम का जन्म एक जहाज पर हुआ था।
