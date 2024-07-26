@@ -33492,3 +33492,12 @@ Thanks for coming by.	Danke fürs Vorbeikommen.	आने के लिए ध�
 Thanks for having me.	Dank für die Einladung.	मुझे बुलाने के लिए धन्यवाद।
 Thanks for listening.	Danke fürs Zuhören.	सुनने के लिए धन्यवाद।
 Thanks for saving me.	Danke, dass du mich gerettet hast.	मुझे बचाने के लिए धन्यवाद।
+Thanks for seeing me.	Vielen Dank für das Treffen.	मुझे कुछ देर देखने के लिए शुक्रिया।
+Thanks for the drink.	Danke für das Getränk.	पेय के लिए धन्यवाद।
+Thanks for the offer.	Danke für das Angebot.	प्रस्ताव के लिए धन्यवाद।
+Thanks for the pizza.	Danke für die Pizza.	पिज्जा के लिए धन्यवाद।
+Thanks for this, Tom.	Danke dafür, Tom.	इसके लिए धन्यवाद, टॉम।
+Thanks for yesterday.	Danke für gestern.	कल के लिए धन्यवाद।
+Thanks for your help.	Danke für deine Hilfe.	तुम्हारी मदद के लिए धन्यवाद।
+That bicycle is mine.	Dieses Fahrrad gehört mir.	वह साइकिल मेरी है।
+That book isn't mine.	Dieses Buch gehört nicht mir.	वह किताब मेरी नहीं है।
