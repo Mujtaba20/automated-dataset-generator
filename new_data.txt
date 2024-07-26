@@ -33014,3 +33014,13 @@ Lions are colorblind.	Löwen sind farbenblind.	शेर रंग अंधे�
 Listen to me, please.	Höre mir bitte zu.	कृपया मेरे बात सुनो।
 Listen to your heart.	Höre auf dein Herz.	अपने दिल की सुनो।
 Listen, I have to go.	Hör mal, ich muss gehen.	ध्यान दो, मुझे जाना है।
+engSentence1	Schau dir dieses Bild an.	उस चित्र पर देखो।
+engSentence2	Betrachte dieses Bild.	उस चित्र को देखो।
+engSentence3	Sieh dir dieses Bild an.	इस तस्वीर को देखो।
+engSentence4	Schau dir diese Fotos an.	इन फोटो को देखो।
+engSentence5	Betrachte diese Fotos.	ये तस्वीरें देखो।
+engSentence6	Sieh dir diese Fotos an.	इन फोटोज को देखो।
+engSentence7	Schau dir dieses Bild an.	उस चित्र को देखो।
+engSentence8	Schau, bevor du springst.	आगे देखो तब लो।
+engSentence9	Sieh, bevor du springst.	लांचने से पहले देखो।
+engSentence10	Betrachte, bevor du springst.	लांचने से पहले देखो।
