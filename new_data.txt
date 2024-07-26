@@ -21836,3 +21836,11 @@ I'll explain later.	Ich werde später erklären.	मैं बाद में �
 I'll foot the bill.	Ich begleiche die Rechnung.	मैं बिल का भुगतान करूंगा।
 I'll get ready now.	Ich werde mich jetzt fertig machen.	अब मैं तैयार हो जाऊंगा।
 I'll get rid of it.	Ich werde das loswerden.	मैं इसे खत्म कर दूंगा।
+I'll give Tom that.	Ich werde Tom das geben.	मैं टॉम को यह दूंगा।
+I'll give you this.	Ich werde dir das geben.	मैं तुम्हें यह दूंगा।
+I'll go downstairs.	Ich gehe nach unten.	मैं नीचे जाऊंगा।
+I'll go for a walk.	Ich gehe spazieren.	मैं पैदल चलूँगा।
+I'll go get it now.	Ich werde es jetzt holen.	मैं अब यह लेकर आऊंगा।
+I'll go get my car.	Ich werde mein Auto holen.	मैं अपनी गाड़ी लेकर आऊंगा।
+I'll go next month.	Ich werde nächsten Monat gehen.	मैं अगले महीने जाऊंगा।
+I'll have the same.	Ich werde dasselbe haben.	मैं वही रखूंगा।

@@ -1,14 +1,4 @@
 
-I'll give Tom that.	Ich werde Tom das geben.	मैं टॉम दूंगा।
-I'll give Tom that.	Ich geb das Tom.	मैं टॉम देता हूं।
-I'll give you this.	Ich werde dir das geben.	मैं तुम्हें दे दूँगा।
-I'll give you this.	Ich geb dir das.	मैं तुम्हें दे दूँगा।
-I'll go downstairs.	Ich gehe nach unten.	मैं नीचे जाता हूँ।
-I'll go for a walk.	Ich gehe ein Stück spazieren.	मैं टहलने के लिए जाना चाहता हुँ।
-I'll go get it now.	Ich werde es jetzt holen.	मैं इसे अभी प्राप्त करूँगा।
-I'll go get my car.	Ich gehe mein Auto holen.	मैं अपनी कार पाने के लिए जाता हूं।
-I'll go next month.	Ich werde im nächsten Monat gehen.	मैं अगले महीने जाऊंगा।
-I'll have the same.	Ich nehme das Gleiche.	मैं एक ही चीज लेता हूं।
 I'll help you pack.	Ich werde dir packen helfen.	मैं आपको पैक करने में मदद करूँगा।
 I'll know tomorrow.	Morgen werde ich es wissen.	मुझे कल पता चल जाएगा।
 I'll listen to you.	Ich werde auf dich hören.	मैं आपकी बात सुनूंगा।
