@@ -1,14 +1,4 @@
 
-Tom isn't your brother.	Tom ist nicht dein Bruder.	टॉम तुम्हारा भाई नहीं है।
-Tom isn't your brother.	Tom ist nicht euer Bruder.	टॉम तुम्हारा भाई नहीं है।
-Tom isn't your brother.	Tom ist nicht Ihr Bruder.	टॉम उसका भाई नहीं है।
-Tom jumped to his feet.	Tom sprang auf seine Füße.	टॉम अपने पैरों पर कूद गया।
-Tom just couldn't stop.	Tom konnte einfach nicht aufhören.	टॉम बस रुक नहीं सका।
-Tom just gave it to me.	Tom hat mir das gerade gegeben.	टॉम ने मुझे वह दिया।
-Tom just got a haircut.	Tom ließ sich gerade die Haare schneiden.	टॉम ने अपने बाल काट दिए थे।
-Tom just got a new job.	Tom hat gerade einen neuen Job angenommen.	टॉम ने सिर्फ एक नई नौकरी स्वीकार की।
-Tom just kept swimming.	Tom schwamm einfach weiter.	टॉम बस लहराया।
-Tom just saved my life.	Tom hat mir gerade das Leben gerettet.	टॉम ने मेरी जान बचाई।
 Tom just winked at you.	Tom hat dir gerade zugezwinkert.	टॉम ने सिर्फ आप पर पलक झपकते हैं।
 Tom kept staring at me.	Tom sah mich unverwandt an.	टॉम ने मुझे अप्रत्याशित रूप से देखा।
 Tom kept the door open.	Tom ließ die Tür offen.	टॉम ने दरवाजा खुला छोड़ दिया।
