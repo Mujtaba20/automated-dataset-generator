@@ -23322,3 +23322,12 @@ Tom became violent.	Tom wurde gewalttätig.	टॉम हिंसक हो ग
 Tom began coughing.	Tom begann zu husten.	टॉम खासी करने लगा।
 Tom began to blush.	Tom fing an zu erröten.	टॉम शर्मिंदा होने लगा।
 Tom began to panic.	Tom begann in Panik zu geraten.	टॉम घबराने लगा।
+Tom began to shout.	Tom begann zu schreien.	टॉम चिल्लाने लगा।
+Tom began to snore.	Tom begann zu schnarchen.	टॉम रोने लगा।
+Tom began to sweat.	Tom begann zu schwitzen.	टॉम पसीना छोड़ने लगा।
+Tom believed in me.	Tom glaubte an mich.	टॉम मुझपर विश्वास किया।
+Tom bets on horses.	Tom wettet auf Pferde.	टॉम घोड़ों पर दांव लगाता है।
+Tom blocked my way.	Tom versperrte meinen Weg.	टॉमने मेरी राह रोक दी।
+Tom bought a condo.	Tom kaufte eine Wohnung.	टॉमने एक कंडो खरीदी।
+Tom bought a table.	Tom kaufte einen Tisch.	टॉमने एक मेज़ खरीदी।
+Tom bought flowers.	Tom kaufte Blumen.	टॉमने फूल खरीदे।
