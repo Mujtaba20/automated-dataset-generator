@@ -1,14 +1,4 @@
 
-Tom seems harmless.	Tom scheint harmlos zu sein.	टॉम हानिरहित लगता है।
-Tom seems insecure.	Tom wirkt unsicher.	टॉम असुरक्षित दिखता है।
-Tom seems stressed.	Tom scheint gestresst zu sein.	टॉम पर जोर दिया गया लगता है।
-Tom seems stressed.	Tom scheint unter Anspannung zu stehen.	टॉम तनाव के तहत लगता है।
-Tom seems stressed.	Tom scheint unter Stress zu stehen.	टॉम तनाव के अधीन लगता है।
-Tom seldom travels.	Tom geht selten auf Reisen.	टॉम शायद ही कभी यात्रा करता है।
-Tom sent Mary home.	Tom schickte Maria nach Hause.	टॉम ने मारिया को घर भेज दिया।
-Tom sent me a note.	Tom schickte mir eine Nachricht.	टॉम ने मुझे एक संदेश भेजा।
-Tom shook his head.	Tom schüttelte mit dem Kopf.	टॉम ने अपना सिर हिला दिया।
-Tom should be fine.	Tom sollte schon klarkommen.	टॉम को सामना करने में सक्षम होना चाहिए।
 Tom should be here.	Thomas sollte hier sein.	थॉमस यहाँ होना चाहिए।
 Tom showed up late.	Tom verspätete sich.	टॉम को देरी हुई।
 Tom smiled amiably.	Tom lächelte freundlich.	टॉम ने दोस्ताना मुस्कुराया।

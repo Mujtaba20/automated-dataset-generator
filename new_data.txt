@@ -23978,3 +23978,11 @@ Tom seated himself.	Tom setzte sich.	टॉम ने खुद को बैठ
 Tom seemed nervous.	Tom schien nervös zu sein.	लगता है कि टॉम घबराया हुआ था।
 Tom seemed pleased.	Tom schien erfreut zu sein.	लगता है कि टॉम खुश था।
 Tom seemed worried.	Tom schien besorgt zu sein.	लगता है कि टॉम चिंतित था।
+Tom seems harmless.	Tom scheint harmlos zu sein.	टॉम अज्ञात स्वाभाविक जाता है।
+Tom seems insecure.	Tom scheint unsicher zu sein.	टॉम असुरक्षित लगता है।
+Tom seems stressed.	Tom scheint gestresst zu sein.	टॉम तनावग्रस्त लगता है।
+Tom seldom travels.	Tom reist selten.	टॉम कभी कभार ही यात्रा करता है।
+Tom sent Mary home.	Tom schickte Maria nach Hause.	टॉम ने मेरी को घर भेज दिया।
+Tom sent me a note.	Tom schickte mir eine Notiz.	टॉम ने मुझे एक नोट भेजा।
+Tom shook his head.	Tom schüttelte den Kopf.	टॉम ने सिर हिलाया।
+Tom should be fine.	Tom sollte in Ordnung sein.	टॉम ठीक होना चाहिए।
