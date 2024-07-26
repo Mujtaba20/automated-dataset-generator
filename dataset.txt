@@ -1,14 +1,4 @@
 
-Tom has cerebral palsy.	Tom hat cerebrale Kinderlähmung.	टॉम में सेरेब्रल पक्षाघात है।
-Tom has cerebral palsy.	Tom hat die Littlesche Krankheit.	टॉम को लिटलचे की बीमारी है।
-Tom has cerebral palsy.	Tom hat infantile Cerebralparese.	टॉम में शिशु सेरेब्रल पाल्सी है।
-Tom has come to Boston.	Tom ist nach Boston gekommen.	टॉम बोस्टन आए।
-Tom has done it before.	Tom hat es schonmal gemacht.	टॉम पहले ही कर चुके हैं।
-Tom has done it before.	Tom hat das schon mal gemacht.	टॉम पहले ही ऐसा कर चुका है।
-Tom has gambling debts.	Tom hat Spielschulden.	टॉम के पास खेल ऋण है।
-Tom has given his word.	Tom hat sein Wort gegeben.	टॉम ने अपना वचन दिया।
-Tom has gone to Boston.	Tom ist nach Boston gegangen.	टॉम बोस्टन गए।
-Tom has gone to school.	Tom ist in die Schule gegangen.	टॉम स्कूल गया।
 Tom has had a bad week.	Tom hatte eine schlechte Woche.	टॉम का एक बुरा सप्ताह था।
 Tom has hanged himself.	Tom hat sich erhängt.	टॉम ने खुद को फांसी दी।
 Tom has heart problems.	Tom hat Herzbeschwerden.	टॉम को दिल की समस्या है।
