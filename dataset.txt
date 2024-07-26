@@ -1,14 +1,4 @@
 
-You need to eat more.	Ihr solltet mehr essen.	आपको और अधिक खाना चाहिए।
-You need to eat more.	Ihr müsst mehr essen.	आपको और अधिक खाना है।
-You need to rest now.	Du musst dich jetzt ausruhen.	अब आपको आराम करना होगा।
-You never trusted me.	Du hast mir nie vertraut.	आपने कभी मुझ पर भरोसा नहीं किया।
-You never trusted me.	Ihr habt mir nie vertraut.	आपने कभी मुझ पर भरोसा नहीं किया।
-You never trusted me.	Sie haben mir nie vertraut.	आपने कभी मुझ पर भरोसा नहीं किया।
-You overestimate him.	Du überschätzt ihn.	आप उसे बहुत पसंद करते हैं।
-You owe me something.	Sie schulden mir etwas.	वे मुझे कुछ एहसानमंद हैं।
-You owe me something.	Ihr schuldet mir etwas.	तुम्हारा मुझ पर कुछ एहसान है।
-You owe me something.	Du schuldest mir etwas.	तुम्हारा मुझ पर कुछ एहसान है।
 You promised to help.	Du hast zu helfen versprochen.	आपने मदद करने का वादा किया।
 You remind me of Tom.	Du erinnerst mich an Tom.	आप मुझे टॉम की याद दिलाते हैं।
 You remind me of Tom.	Sie erinnern mich an Tom.	वे मुझे टॉम की याद दिलाते हैं।

@@ -35851,3 +35851,8 @@ You must not give up.	Sie dürfen nicht aufgeben.	तुम्हें कभ�
 You must remain calm.	Sie müssen ruhig bleiben.	तुम्हें ठंडा रहना चाहिए।
 You must tell no one.	Sie dürfen es niemandem sagen.	तुम्हें किसी को बताना नहीं है।
 You mustn't touch it.	Du darfst es nicht anfassen.	तुम्हें इसे छूने नहीं देना चाहिए।
+You need to eat more.	Du musst mehr essen.	आपको अधिक खाना चाहिए।
+You need to rest now.	Du musst dich jetzt ausruhen.	अब आपको आराम करने की आवश्यकता है।
+You never trusted me.	Du hast mir nie vertraut.	तुम मुझपर कभी भरोसा नहीं किया।
+You overestimate him.	Du überschätzt ihn.	तुम उसकी महत्ता को अधिक समझ रहे हो।
+You owe me something.	Du schuldest mir etwas.	तुम्हें मुझसे कुछ उधार देना है।
