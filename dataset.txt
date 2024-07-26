@@ -1,18 +1,4 @@
 
-Why wasn't I invited?	Warum bin ich nicht eingeladen worden?	मुझे आमंत्रित क्यों नहीं किया गया?
-Why wasn't I invited?	Warum wurde ich nicht eingeladen?	मुझे आमंत्रित क्यों नहीं किया गया?
-Why were you so slow?	Warum waren Sie so langsam?	आप धीमे क्यों थे?
-Why were you so slow?	Warum warst du so langsam?	आप इतने धीमे क्यों थे?
-Why were you so slow?	Warum wart ihr so langsam?	आप धीमे क्यों थे?
-Why were you yelling?	Warum brüllst du so?	आप इस तरह से क्यों दहाड़ते हैं?
-Why won't you answer?	Warum wirst du nicht antworten?	आप जवाब क्यों नहीं देते?
-Why would I be happy?	Warum sollte ich froh sein?	मुझे खुश क्यों होना चाहिए?
-Why would I fire you?	Warum sollte ich dich entlassen?	मुझे आपको क्यों जारी करना चाहिए?
-Why would I fire you?	Warum sollte ich euch entlassen?	मुझे आपको क्यों जारी करना चाहिए?
-Why would I fire you?	Warum sollte ich Sie entlassen?	मुझे उन्हें क्यों फायर करना चाहिए?
-Why would I fire you?	Warum sollte ich dich rausschmeißen?	मुझे आपको क्यों फेंकना चाहिए?
-Why would I fire you?	Warum sollte ich euch rausschmeißen?	मुझे आपको बाहर क्यों फेंकना चाहिए?
-Why would I fire you?	Warum sollte ich Sie rausschmeißen?	मुझे उन्हें क्यों फेंकना चाहिए?
 Why would I tell you?	Warum sollte ich dir das sagen?	मुझे आपको क्यों बताना चाहिए?
 Why would I tell you?	Warum sollte ich euch das sagen?	मुझे आपको क्यों बताना चाहिए?
 Why would I tell you?	Warum sollte ich Ihnen das sagen?	मुझे आपको क्यों बताना चाहिए?

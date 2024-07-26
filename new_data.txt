@@ -35694,3 +35694,16 @@ Why not come with me?	Warum kommst du nicht mit mir?	मेरे साथ क�
 Why not go to Boston?	Warum gehst du nicht nach Boston?	बॉस्टन क्यों नहीं जाते हो?
 Why should they hide?	Warum sollten sie sich verstecken?	वे क्यों छुपे रहें?
 Why should they stop?	Warum sollten sie aufhören?	वे क्यों रुकें?
+Why wasn't I invited?	Warum wurde ich nicht eingeladen?	मुझे क्यों नहीं बुलाया गया था?
+Why weren't you invited?	Warum bist du nicht eingeladen worden?	तुम्हें क्यों नहीं बुलाया गया था?
+Why were you so slow?	Warum warst du so langsam?	तुम इतने मंद क्यों थे?
+Why were you so lethargic?	Warum warst du so träge?	तुम इतने उदास क्यों थे?
+Why were you so sluggish?	Warum warst du so träge?	तुम इतने सुस्त क्यों थे?
+Why were you yelling?	Warum hast du geschrien?	तुम क्यों चिल्ला रहे थे?
+Why were you shouting?	Warum hast du geschrien?	तुम क्यों चिल्ला रहे थे?
+Why won't you answer?	Warum antwortest du nicht?	तुम जवाब क्यों नहीं देंगे?
+Why don't you respond?	Warum antwortest du nicht?	तुम क्यों जवाब नहीं देते?
+Why would I be happy?	Warum sollte ich glücklich sein?	मैं क्यों खुश होऊं?
+Why would I feel joyous?	Warum sollte ich Freude empfinden?	मैं क्यों आनंदित महसूस करूं?
+Why would I fire you?	Warum würde ich dich feuern?	मैं तुम्हें क्यों नौकरी से निकालूं?
+Why would I terminate you?	Warum würde ich dich beenden?	मैं तुम्हें क्यों खत्म करना चाहूंगा?
