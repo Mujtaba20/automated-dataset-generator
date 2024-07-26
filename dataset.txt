@@ -1,14 +1,4 @@
 
-Tom loves to party.	Tom feiert gerne.	टॉम को जश्न मनाना पसंद है।
-Tom made Mary stop.	Tom veranlasste Maria zum Aufhören.	टॉम ने मारिया को रोकने के लिए प्रेरित किया।
-Tom made Mary stop.	Tom brachte Maria dazu, aufzuhören.	टॉम ने मारिया को रोक दिया।
-Tom made Mary swim.	Tom brachte Maria dazu, zu schwimmen.	टॉम ने मारिया को तैर ​​दिया।
-Tom made a mistake.	Tom machte einen Fehler.	टॉम ने गलती की।
-Tom made a mistake.	Tom beging einen Fehler.	टॉम ने गलती की।
-Tom made a mistake.	Tom hat einen Fehler gemacht.	टॉम ने गलती की।
-Tom made a mistake.	Tom hat einen Fehler begangen.	टॉम ने गलती की है।
-Tom made a promise.	Tom hat ein Versprechen abgelegt.	टॉम ने एक वादा किया है।
-Tom made a promise.	Tom legte ein Versprechen ab.	टॉम ने एक वादा किया।
 Tom made an omelet.	Tom machte ein Omelette.	टॉम ने एक ऑमलेट बनाया।
 Tom made breakfast.	Tom bereitete das Frühstück zu.	टॉम ने नाश्ता तैयार किया।
 Tom made fun of me.	Tom machte sich über mich lustig.	टॉम ने मेरा मजाक उड़ाया।

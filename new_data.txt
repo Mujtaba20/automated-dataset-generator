@@ -23869,3 +23869,8 @@ Tom loves his wife.	Tom liebt seine Frau.	टॉम अपनी पत्नी
 Tom loves his work.	Tom liebt seine Arbeit.	टॉम अपने काम से प्रेम करता है।
 Tom loves partying.	Tom liebt Partys.	टॉम पार्टी करने से प्यार करता है।
 Tom loves swimming.	Tom liebt schwimmen.	टॉम को तैरने का शौक है।
+Tom loves to party.	Tom liebt es zu feiern.	टॉम पार्टी करने के लिए प्यार करता है।
+Tom made Mary stop.	Tom ließ Mary anhalten.	टॉमने मेरी को रोकने के लिए कहा।
+Tom made Mary swim.	Tom ließ Mary schwimmen.	टॉमने मेरी को तैरने के लिए कहा।
+Tom made a mistake.	Tom hat einen Fehler gemacht.	टॉमने एक गलती की।
+Tom made a promise.	Tom machte ein Versprechen.	टॉमने एक वादा किया।
