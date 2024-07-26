@@ -33926,3 +33926,11 @@ This is all my fault.	Das ist alles meine Schuld.	यह सब मेरी ग
 This is an emergency.	Dies ist ein Notfall.	यह एक आपातकालीन स्थिति है।
 This is for you, Tom.	Das ist für dich, Tom.	यह तुम्हारे लिए है, टॉम।
 This is homemade jam.	Dies ist selbstgemachte Marmelade.	यह घर पर बनी जैम है।
+This is how I did it.	So habe ich es gemacht.	यह मैंने कैसे किया है।
+This is how we do it.	So machen wir es.	यह हम कैसे करते हैं।
+This is my I.D. card.	Das ist meine Ausweis.	यह मेरा पहचान पत्र है।
+This is my apartment.	Das ist meine Wohnung.	यह मेरा अपार्टमेंट है।
+This is my assistant.	Das ist mein Assistent.	यह मेरा सहायक है।
+This is my big break.	Das ist mein großer Durchbruch.	यह मेरा बड़ा तोड़ है।
+This is my brother's.	Das ist von meinem Bruder.	यह मेरे भाई का है।
+This is my dream job.	Das ist mein Traumjob.	यह मेरा सपना नौकरी है।
