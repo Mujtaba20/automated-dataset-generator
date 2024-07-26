@@ -1,15 +1,4 @@
 
-A rabbit has long ears.	Ein Kaninchen hat lange Ohren.	एक खरगोश के लंबे कान होते हैं।
-A rock fell from above.	Ein Fels fiel von oben herab.	एक चट्टान ऊपर से नीचे गिर गई।
-A rock fell from above.	Ein Stein fiel von oben herab.	एक पत्थर ऊपर से नीचे गिर गया।
-A sponge absorbs water.	Ein Schwamm saugt Wasser auf.	एक स्पंज पानी चूसता है।
-A stone does not float.	Ein Stein schwimmt nicht.	एक पत्थर तैरता नहीं है।
-A wolf cannot be tamed.	Ein Wolf kann nicht gezähmt werden.	एक भेड़िया को नामित नहीं किया जा सकता है।
-Ah, that's much better.	Ah, das ist viel besser!	आह, यह बहुत बेहतर है!
-All I have is one book.	Alles, was ich habe, ist ein Buch.	मेरे पास एक किताब है।
-All of them went there.	Sie sind alle dorthin gegangen.	वे सब वहाँ गए।
-All of us speak French.	Wir sprechen alle Französisch.	हम सभी फ्रेंच बोलते हैं।
-All of us speak French.	Wir alle sprechen Französisch.	हम सभी फ्रेंच बोलते हैं।
 All people breathe air.	Alle Menschen atmen Luft.	सभी लोग हवा में सांस लेते हैं।
 All right. It's a deal.	Einverstanden. Abgemacht.	मान गया।बनाया।
 All roads lead to Rome.	Alle Wege führen nach Rom.	एक मंजिल के कई रास्ते होते हैं।
