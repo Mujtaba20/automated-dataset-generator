@@ -1,15 +1,4 @@
 
-Tom is always prepared.	Tom ist immer vorbereitet.	टॉम हमेशा तैयार होता है।
-Tom is always punctual.	Tom ist immer pünktlich.	टॉम हमेशा समय पर होता है।
-Tom is always stubborn.	Tom ist immer stur.	टॉम हमेशा जिद्दी होता है।
-Tom is always studying.	Tom ist immer beim Lernen.	टॉम हमेशा सीखते समय होता है।
-Tom is an archeologist.	Tom ist Archäologe.	टॉम एक पुरातत्वविद् हैं।
-Tom is an avid cyclist.	Tom ist ein leidenschaftlicher Radfahrer.	टॉम एक भावुक साइकिल चालक है।
-Tom is an avid cyclist.	Tom ist ein passionierter Radfahrer.	टॉम एक भावुक साइकिल चालक है।
-Tom is an eager beaver.	Tom ist ein Arbeitstier.	टॉम एक काम जानवर है।
-Tom is an engineer now.	Tom ist jetzt Ingenieur.	टॉम अब एक इंजीनियर है।
-Tom is an overachiever.	Tom ist hochbegabt.	टॉम को उपहार में दिया गया है।
-Tom is an overachiever.	Tom ist ein Überflieger.	टॉम एक उच्च -फ्लाइर है।
 Tom is as busy as I am.	Tom ist genauso beschäftigt wie ich.	टॉम उतना ही व्यस्त है जितना मैं हूं।
 Tom is as busy as ever.	Tom ist nach wie vor beschäftigt.	टॉम अभी भी व्यस्त है।
 Tom is as lazy as ever.	Tom ist so faul wie immer.	टॉम हमेशा की तरह आलसी है।
