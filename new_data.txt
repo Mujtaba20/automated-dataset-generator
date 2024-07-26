@@ -24878,3 +24878,12 @@ You have to choose.	Du musst wählen.	आपको चुनना होगा�
 You have to choose. (Another meaning)	Du musst dich entscheiden.	आपको निर्णय लेना होगा।
 You have to get up.	Du musst aufstehen.	आपको उठना ही होगा।
 You have to go now.	Du musst jetzt gehen.	अब जाना होगा।
+You have to listen.	Du musst zuhören.	तुम्हें सुनना होगा।
+You have to see it.	Du musst es sehen.	तुम्हें देखना होगा।
+You just got lucky.	Du hast gerade Glück gehabt.	तुम्हें बस भाग्य मिला।
+You just need help.	Du brauchst nur Hilfe.	तुम्हें बस मदद की जरूरत है।
+You just need help. (2)	Sie brauchen nur Hilfe.	आपको सिर्फ मदद की जरूरत है।
+You know I hate it.	Du weißt, dass ich es hasse.	तुम्हें पता है मुझे इससे नफरत है।
+You know I'm right.	Du weißt, dass ich Recht habe.	तुम्हें पता है मैं सही हूँ।
+You know I'm wrong.	Du weißt, dass ich falsch liege.	तुम्हें पता है मैं गलत हूँ।
+You know how it is.	Du weißt, wie es ist.	तुम्हें पता है यह कैसा होता है।

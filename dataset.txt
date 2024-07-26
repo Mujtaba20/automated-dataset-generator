@@ -1,15 +1,4 @@
 
-You have to listen.	Du musst zuhören.	आपको सुनना है।
-You have to see it.	Das musst du sehen.	आपको वह देखना होगा।
-You just got lucky.	Sie haben schlicht Glück gehabt.	आप सिर्फ भाग्यशाली थे।
-You just need help.	Du brauchst nur Hilfe.	आपको बस मदद चाहिए।
-You just need help.	Sie brauchen nur Hilfe.	आपको केवल मदद की जरूरत है।
-You just need help.	Ihr braucht nur Hilfe.	आपको केवल मदद की जरूरत है।
-You know I hate it.	Du weißt, dass ich es hasse.	आप जानते हैं कि मुझे इससे नफरत है।
-You know I'm right.	Sie wissen, dass ich recht habe.	आप जानते हैं कि मैं सही हूं।
-You know I'm wrong.	Ihr wisst, dass ich unrecht habe.	आप जानते हैं कि मैं गलत हूं।
-You know how it is.	Du weißt, wie es ist.	आप जानते हैं कि यह कैसा है।
-You know how it is.	Du weißt ja, wie das ist.	आप जानते हैं यह क्या है।
 You know the drill.	Du kennst den Ablauf ja.	आप इस प्रक्रिया को जानते हैं हाँ।
 You know the drill.	Sie kennen den Ablauf ja.	आप इस प्रक्रिया को जानते हैं।
 You know the drill.	Du weißt ja, wie es läuft.	आप जानते हैं कि यह कैसे काम करता है।
