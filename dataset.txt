@@ -1,14 +1,4 @@
 
-He has just come home.	Er ist gerade nach Hause gekommen.	वह बस घर आया था।
-He has just left home.	Er hat gerade das Haus verlassen.	वह सिर्फ घर छोड़ दिया।
-He has three brothers.	Er hat drei Brüder.	उसके तीन भाई हैं।
-He has three children.	Er hat drei Kinder.	उसके तीन बच्चे हैं।
-He has to stay in bed.	Er muss im Bett bleiben.	उसे बिस्तर पर रहना है।
-He has too many books.	Er hat zu viele Bücher.	उसके पास बहुत सारी किताबें हैं।
-He has too much pride.	Er ist zu stolz.	उसे बहुत गर्व है।
-He hasn't arrived yet.	Er ist noch nicht angekommen.	वह अभी तक नहीं आया है।
-He hates his neighbor.	Er hasst seinen Nachbarn.	वह अपने पड़ोसियों से नफरत करता है।
-He hit me in the face.	Er schlug mir ins Gesicht.	उसने मेरा चेहरा मारा।
 He hit me on the head.	Er schlug mir gegen den Kopf.	उसने मेरा सिर मारा।
 He hit me on the head.	Er hat mir gegen den Kopf geschlagen.	उसने मेरा सिर मारा।
 He hit me on the head.	Er hat mich am Kopf getroffen.	उसने मुझे मेरे सिर पर मारा।

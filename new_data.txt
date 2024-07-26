@@ -36741,3 +36741,13 @@ He has a strange name.	Er hat einen seltsamen Namen.	उसका एक अज�
 He has absolute power.	Er hat absolute Macht.	उसके पास पूर्ण शक्ति है।
 He has an eye for art.	Er hat ein Auge für Kunst.	उसके पास कला के लिए एक नजर है।
 He has just come back.	Er ist gerade zurückgekommen.	वह अभी वापस आया है।
+He has just come home.	Er ist gerade nach Hause gekommen.	वह अभी घर आया है।
+He has just left home.	Er hat gerade das Haus verlassen.	वह अभी घर छोड़ा है।
+He has three brothers.	Er hat drei Brüder.	उसके तीन भाई हैं।
+He has three children.	Er hat drei Kinder.	उसके तीन बच्चे हैं।
+He has to stay in bed.	Er muss im Bett bleiben.	उसे बिस्तर पर रहना है।
+He has too many books.	Er hat zu viele Bücher.	उसके पास बहुत सारी किताबें हैं।
+He has too much pride.	Er hat zu viel Stolz.	उसमें बहुत अभिमान है।
+He hasn't arrived yet.	Er ist noch nicht angekommen.	वह अभी तक नहीं पहुंचा है।
+He hates his neighbor.	Er hasst seinen Nachbarn.	उसे अपने पड़ोसी से नफ़रत है।
+He hit me in the face.	Er hat mich ins Gesicht geschlagen.	उसने मुझे चेहरे पर मारा।
