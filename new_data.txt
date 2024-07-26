@@ -31393,3 +31393,12 @@ I am good at history.	Ich bin gut in Geschichte.	मैं इतिहास �
 I am indebted to him.	Ich bin ihm verpflichtet.	मैं उस से ऋणी हूँ।
 I am laughing at Tom.	Ich lache über Tom.	मैं टॉम पर हंस रहा हूँ।
 I am laughing at you.	Ich lache über dich.	मैं तुम पर हंस रहा हूँ।
+I am learning Basque.	Ich lerne Baskisch.	मैं बास्क को सीख रहा हूँ।
+I am leaving at four.	Ich gehe um vier.	मैं चार बजे जा रहा हूँ।
+I am like my brother.	Ich bin wie mein Bruder.	मैं अपने भाई की तरह हूँ।
+I am milking my goat.	Ich melke meine Ziege.	मैं अपनी बकरी को दूध निकाल रहा हूँ।
+I am mopping my room.	Ich wische mein Zimmer.	मैं अपने कमरे को पोंछ रहा हूँ।
+I am no longer tired.	Ich bin nicht mehr müde.	मैं अब थक नहीं रहा हूँ।
+I am not well at all.	Es geht mir überhaupt nicht gut.	मैं बिल्कुल भी ठीक नहीं हूँ।
+I am playing it safe.	Ich halte mich bedeckt.	मैं सुरक्षित खेल रहा हूँ।
+I am poor at drawing.	Ich bin schlecht im Zeichnen.	मैं ड्राइंग में गरीब हूँ।
