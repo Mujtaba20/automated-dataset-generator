@@ -24952,3 +24952,11 @@ You're a brave man.	Du bist ein mutiger Mann.	तुम एक बहादु�
 You're a good cook.	Du bist ein guter Koch.	तुम एक अच्छे रसोइया हो।
 You're a good girl.	Du bist ein gutes Mädchen.	तुम एक अच्छी लड़की हो।
 You're a good liar.	Du bist ein guter Lügner.	तुम एक अच्छा झूठा हो।
+You're a good wife.		
+You're a hypocrite.		
+You're a sharp one.		
+You're a smart boy.		
+You're a woman now.		
+You're all cowards.		
+You're all racists.		
+You're always busy.		

@@ -1,15 +1,4 @@
 
-You're a good wife.	Du bist eine gute Gemahlin.	आप एक अच्छी पत्नी हैं।
-You're a hypocrite.	Du bist ein Heuchler.	आप एक पाखंडी हैं।
-You're a hypocrite.	Sie sind ein Heuchler.	आप एक पाखंडी हैं।
-You're a sharp one.	Na, du bist ja ein Schlaumeier.	खैर, आप एक मुस्कान हैं।
-You're a smart boy.	Du bist ein kluger Junge.	आप एक चतुर लड़के हैं।
-You're a woman now.	Du bist jetzt eine Frau.	अब आप एक महिला हैं।
-You're all cowards.	Ihr seid alle Feiglinge.	आप सभी कायर हैं।
-You're all racists.	Ihr seid alle Rassisten.	आप सभी नस्लवादी हैं।
-You're always busy.	Du bist immer beschäftigt.	आप हमेशा व्यस्त हैं।
-You're always busy.	Ihr seid immer beschäftigt.	तुम हमेशा व्यस्त रहते हो।
-You're always busy.	Sie sind immer beschäftigt.	तुम हमेशा व्यस्त रहते हो।
 You're an optimist.	Du bist ein Optimist.	आप एक आशावादी हैं।
 You're an optimist.	Sie sind ein Optimist.	आप एक आशावादी हैं।
 You're annoying me.	Du nervst mich.	आपने मुझे नाराज़ किया।
