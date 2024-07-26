@@ -1,14 +1,4 @@
 
-Everyone's in position.	Alle sind auf Position.	हर कोई स्थिति में है।
-Everyone's in position.	Alle sind auf ihrem Posten.	हर कोई अपने पद पर है।
-Everything has changed.	Alles hat sich verändert.	सब कुछ बदल गया है।
-Everything is changing.	Alles verändert sich.	सब कुछ बदलता है।
-Everything is possible.	Alles ist möglich.	सब कुछ संभव है।
-Everything smelled new.	Alles roch neu.	सब कुछ नया बदबू आ रही है।
-Everything was perfect.	Es war alles perfekt.	सब कुछ सही था।
-Excuse me for a second.	Entschuldige mich kurz!	मुझे संक्षेप में माफ करना!
-Excuse me for a second.	Entschuldigen Sie mich kurz!	मुझे संक्षेप में माफ करना!
-Excuse me for a second.	Entschuldigt mich kurz!	मेरे लिए संक्षेप में क्षमा करें!
 Excuse me. Who are you?	Entschuldigung. Wer sind Sie?	माफ़ करें।आप कौन हैं?
 Feel free to take this.	Kostenlos erhältlich.	मुफ्त में उपलब्ध है।
 Few tourists come here.	Hierher verschlägt es nur wenige Reisende.	यह यहां केवल कुछ यात्री हैं।
