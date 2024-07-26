@@ -33618,3 +33618,10 @@ The beer's very cold.	Das Bier ist sehr kalt.	बीयर बहुत ठं�
 The border is closed.	Die Grenze ist geschlossen.	सीमा बंद है।
 The boy began to cry.	Der Junge fing an zu schreien.	एक लड़का चिल्लाता हुआ शुरू हुआ।
 The boy bought a dog.	Der Junge kaufte einen Hund.	लड़के ने एक कुत्ता खरीदा।
+The boy came running.	Der Junge kam angelaufen.	लड़का दौड़ते हुए आया।
+The boy stayed quiet.	Der Junge blieb ruhig.	लड़का चुप रहा।
+The boys are excited.	Die Jungen sind aufgeregt.	लड़के उत्सुक हैं।
+The boys are thirsty.	Die Jungen sind durstig.	लड़के प्यासे हैं।
+The bridge collapsed.	Die Brücke ist eingestürzt.	सेतु गिर गई।
+The bridge is closed.	Die Brücke ist geschlossen.	पुल बंद है।
+The brown hat is old.	Der braune Hut ist alt.	भूरी टोपी पुरानी है।
