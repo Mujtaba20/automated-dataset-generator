@@ -29134,3 +29134,13 @@ Tom made an apology.	Tom entschuldigte sich.	टॉम ने माफी म�
 Tom made it home OK.	Tom brachte es in Ordnung nach Hause.	टॉम ने ठीक ठाक घर पहुँचाया।
 Tom made it on time.	Tom schaffte es rechtzeitig.	टॉम ने समय पर पहुँच लिया।
 Tom made me cookies.	Tom machte mir Kekse.	टॉम ने मुझे कुकीज़ बनाई।
+Tom made no comment.	Tom machte keinen Kommentar.	टॉमने कोई टिप्पणी नहीं की।
+Tom made tea for me.	Tom hat Tee für mich gemacht.	टॉमने मुझे चाय बनाई।
+Tom made us do that.	Tom hat uns das tun lassen.	टॉमने हमें वह करने के लिए कहा।
+Tom makes big money.	Tom verdient viel Geld.	टॉम बड़े पैसे कमाता है।
+Tom makes me better.	Tom macht mich besser.	टॉममुझे बेहतर बनाता है।
+Tom may be a genius.	Tom könnte ein Genie sein.	टॉम शायद एक महान व्यक्ति हो।
+Tom may be innocent.	Tom könnte unschuldig sein.	टॉम मासूम हो सकता है।
+Tom may leave early.	Tom könnte früh gehen.	टॉमजल्दी जा सकता है।
+Tom may not do that.	Tom könnte das nicht tun.	टॉमयह न कर सकता है।
+Tom may not make it.	Tom schafft es vielleicht nicht.	टॉमयह नहीं कर सकता।
