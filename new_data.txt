@@ -32810,3 +32810,10 @@ It was a big mistake.	Es war ein großer Fehler.	यह एक बड़ी ग�
 It was a false alarm.	Es war ein Fehlalarm.	यह झूठा चिल्लाहट था।
 It was a good answer.	Es war eine gute Antwort.	यह एक अच्छा जवाब था।
 It was a long letter.	Es war ein langer Brief.	यह एक लंबा पत्र था।
+It was a perfect fit.	Es passte perfekt.	यह एक सही फिट था।
+It was a stupid idea.	Es war eine dumme Idee.	यह एक मूर्ख विचार था।
+It was a stupid joke.	Es war ein dummer Witz.	यह एक मूर्ख मजाक था।
+It was all delicious!	Es war alles köstlich!	सब स्वादिष्ट था!
+It was an act of God.	Es war ein Akt Gottes.	यह भगवान का काम था।
+It was an awful week.	Es war eine schreckliche Woche.	यह एक भयानक हफ्ता था।
+It was hard at first.	Es war zuerst schwer.	शुरू में यह कठिन था।
