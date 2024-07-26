@@ -25994,3 +25994,12 @@ I already knew this.	Das wusste ich bereits.	मैंने यह पहले
 I already know that.	Das weiß ich bereits.	मुझे यह पहले से पता है।
 I already know this.	Das weiß ich schon.	मैंने यह पहले ही जान लिया है।
 I already regret it.	Ich bereue es bereits.	मुझे इस पर पछतावा है।
+I already said that.	Das habe ich bereits gesagt.	मैंने पहले ही यह कह दिया था।
+I also love to cook.	Ich koche auch gerne.	मुझे खाना पकाना भी पसंद है।
+I also speak French.	Ich spreche auch Französisch.	मैं फ्रेंच भी बोलता हूँ।
+I always study hard.	Ich lerne immer fleißig.	मैं हमेशा मेहनत से पढ़ाई करता हूं।
+I always take a bus.	Ich nehme immer den Bus.	मैं हमेशा बस से जाता हूँ।
+I always take notes.	Ich mache immer Notizen.	मैं हमेशा नोट्स बनाता हूँ।
+I am a fast swimmer.	Ich bin ein schneller Schwimmer.	मैं एक तेज तरीके से तैरता हूँ।
+I am a teacher, too.	Ich bin auch Lehrer.	मैं भी एक शिक्षक हूँ।
+I am afraid of dogs.	Ich fürchte mich vor Hunden.	मैं कुत्तों से डरता हूँ।
