@@ -21773,3 +21773,11 @@ I went to the room.	Ich ging ins Zimmer.	मैं कमरे में गय
 I will go on ahead.	Ich werde vorausgehen.	मैं आगे जाऊँगा।
 I will lose weight.	Ich werde Gewicht verlieren.	मैं वजन कम करूँगा।
 I will protect you.	Ich werde dich beschützen.	मैं तुम्हें सुरक्षित रखूँगा।
+I will read a book.	Ich werde ein Buch lesen.	मैं किताब पढ़ूँगा।
+I wish I had a car.	Ich wünschte, ich hätte ein Auto.	मैं चाहता था कि मेरे पास एक कार होती।
+I wish I had a dog.	Ich wünschte, ich hätte einen Hund.	मुझे चाहिए था कि मेरे पास एक कुत्ता होता।
+I wish I had known.	Ich wünschte, ich hätte es gewusst.	मुझे चाहिए था कि मैं जानता।
+I wish I were dead.	Ich wünschte, ich wäre tot.	मैं चाहता हूँ कि मैं मरा होता।
+I wish I were rich.	Ich wünschte, ich wäre reich.	मैं चाहता हूँ कि मैं अमीर होता।
+I wish I'd met her.	Ich wünschte, ich hätte sie getroffen.	मैं चाहता था कि मैं उससे मिलता।
+I wish we had time.	Ich wünschte, wir hätten Zeit.	मुझे चाहिए था कि हमारे पास समय होता।

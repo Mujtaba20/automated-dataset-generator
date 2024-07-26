@@ -1,14 +1,4 @@
 
-I will read a book.	Ich werde ein Buch lesen.	मैं एक किताब पढ़ूंगा।
-I wish I had a car.	Ich wünschte, ich hätte ein Auto.	काश मेरे पास एक कार होती।
-I wish I had a car.	Schön wär’s, wenn ich ein Auto hätte.	अगर मेरे पास कार होती तो यह अच्छा होता।
-I wish I had a dog.	Ich hätte so gerne einen Hund.	मुझे एक कुत्ता होना अच्छा लगेगा।
-I wish I had known.	Ich wünschte, ich hätte das gewusst!	काश मुझे पता होता कि!
-I wish I were dead.	Ich wünschte, ich wäre tot.	मेरी यही तमन्ना है कि काश मैं मर गया होता।
-I wish I were rich.	Ich wünschte, ich wäre reich.	काश मैं अमीर होता।
-I wish I were rich.	Schön wär’s, wenn ich reich wäre.	अगर मैं अमीर होता तो अच्छा होता।
-I wish I'd met her.	Ich würde mich gern mit ihr treffen.	मैं उससे मिलना चाहूंगा।
-I wish we had time.	Schön wär’s, wenn wir Zeit hätten.	अगर हमारे पास समय होता तो अच्छा होता।
 I wish you success.	Ich wünsche dir Erfolg.	मैं तुम्हारी सफलता की कामना करता हूं।
 I wish you success.	Ich wünsche Ihnen Erfolg.	मैं तुम्हारी सफलता की कामना करता हूं।
 I wish you success.	Ich wünsche euch Erfolg.	मैं तुम्हारी सफलता की कामना करता हूं।
