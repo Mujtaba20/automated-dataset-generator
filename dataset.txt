@@ -1,15 +1,4 @@
 
-This is not my problem.	Das ist nicht mein Problem.	वह मेरी समस्या नहीं है।
-This is our friend Tom.	Das ist unser Freund Tom.	यह हमारा दोस्त टॉम है।
-This is out of control.	Das ist außer Kontrolle geraten.	यह नियंत्रण से बाहर आ गया है।
-This is really unusual.	Das ist wirklich ungewöhnlich.	यह वास्तव में असामान्य है।
-This is sheer nonsense.	Das ist lauterer Unsinn.	यह जोर से बकवास है।
-This is sheer nonsense.	Das ist völliger Quatsch.	यह पूरी बकवास है।
-This is simply amazing.	Das ist einfach erstaunlich.	यह सिर्फ अद्भुत है।
-This is taking forever.	Das dauert ewig!	यह हमेशा के लिए लेता है!
-This is taking forever.	Das hier dauert ja ewig!	यह हमेशा के लिए लेता है!
-This is the last straw!	Jetzt schlägt's dreizehn!	अब यह तेरह धड़कता है!
-This is the last straw!	Jetzt schlägt es aber dreizehn!	लेकिन अब यह तेरह धड़कता है!
 This is the last straw.	Das ist der Tropfen, der das Fass zum Überlaufen bringt.	यह वह ड्रॉप है जो बैरल को अतिप्रवाह का कारण बनता है।
 This is the last straw.	Das ist der Tropfen, der das Fass zum Überlaufen brachte.	यह वह ड्रॉप है जिसके कारण बैरल ओवरफ्लो हो गया।
 This is the last train.	Das ist der letzte Zug.	यही अन्तिम गाड़ी है।
