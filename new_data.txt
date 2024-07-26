@@ -37459,3 +37459,12 @@ I have a large family.	Ich habe eine große Familie.	मेरे पास ए�
 I have a leaky faucet.	Ich habe einen undichten Wasserhahn.	मेरे पास एक टपकता हुआ नल है।
 I have a library card.	Ich habe einen Büchereiausweis.	मेरे पास एक लाइब्रेरी कार्ड है।
 I have a little fever.	Ich habe ein wenig Fieber.	मेरे पास थोड़ा बुखार है।
+I have a lot of books.	Ich habe viele Bücher.	मेरे पास बहुत सारी किताबें हैं।
+I have a lot of money.	Ich habe viel Geld.	मेरे पास बहुत पैसे हैं।
+I have a pickup truck.	Ich habe einen Pick-up-Truck.	मेरे पास एक पिकअप ट्रक है।
+I have a slight fever.	Ich habe ein leichtes Fieber.	मुझे हल्का बुखार है।
+I have a student visa.	Ich habe ein Studentenvisum.	मेरे पास एक छात्र वीज़ा है।
+I have a tourist visa.	Ich habe ein Touristenvisum.	मेरे पास एक पर्यटक वीज़ा है।
+I have a twin brother.	Ich habe einen Zwillingsbruder.	मेरे पास एक जुड़वां भाई है।
+I have a wooden table.	Ich habe einen Holztisch.	मेरे पास एक लकड़ी की मेज़ है।
+I have an explanation.	Ich habe eine Erklärung.	मेरे पास एक स्पष्टीकरण है।

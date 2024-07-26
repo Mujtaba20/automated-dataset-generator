@@ -1,14 +1,4 @@
 
-I have a lot of books.	Ich habe viele Bücher.	मेरे पास कई किताबें हैं।
-I have a lot of books.	Ich habe eine Menge Bücher.	मेरे पास कई सारी पुस्तकें है।
-I have a lot of money.	Ich habe viel Geld.	मेरे पास बहुत पैसा है।
-I have a pickup truck.	Ich habe einen Pick-up.	मेरे पास एक पिक-अप है।
-I have a slight fever.	Ich habe leichtes Fieber.	मुझे आसान बुखार है।
-I have a student visa.	Ich habe ein Studentenvisum.	मेरे पास एक छात्र वीजा है।
-I have a tourist visa.	Ich habe ein Touristenvisum.	मेरे पास एक पर्यटक वीजा है।
-I have a twin brother.	Ich habe einen Zwillingsbruder.	मेरा एक जुड़वां भाई है।
-I have a wooden table.	Ich habe einen Tisch aus Holz.	मेरे पास एक लकड़ी की मेज है।
-I have an explanation.	Ich habe eine Erklärung.	मेरे पास एक स्पष्टीकरण है।
 I have an old bicycle.	Ich habe ein altes Fahrrad.	मेरे पास एक पुरानी बाइक है।
 I have another sister.	Ich habe noch eine andere Schwester.	मेरी एक और बहन है।
 I have certain rights.	Ich habe gewisse Rechte.	मेरे कुछ अधिकार हैं।
