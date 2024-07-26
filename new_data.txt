@@ -25713,3 +25713,12 @@ He is very sociable.	Er ist sehr gesellig.	वह बहुत ही साम�
 He is very talented.	Er ist sehr talentiert.	वह बहुत ही प्रतिभाशाली है।
 He is washing a car.	Er wäscht ein Auto.	वह गाड़ी धो रहा है।
 He is wearing a hat.	Er trägt einen Hut.	वह टोपी पहन रहा है।
+He kept his promise.	Er hielt sein Versprechen.	उसने अपना वादा निभाया।
+He kissed her again.	Er küsste sie erneut.	उसने फिर से उसे चुम्बन दिया।
+He knows how to bet.	Er weiß, wie man wettet.	उसे दावा लagane की और जानकारी है।
+He knows no English.	Er kennt kein Englisch.	उसे कोई अंग्रेज़ी नहीं आती।
+He knows the secret.	Er kennt das Geheimnis.	उसे राज पता है।
+He knows who we are.	Er weiß, wer wir sind.	उसे पता है कि हम कौन हैं।
+He lacks confidence.	Er mangelt es an Selbstvertrauen.	उसमें आत्मविश्वास की कमी है।
+He lacks experience.	Ihm fehlt die Erfahrung.	उसे अनुभव की कमी है।
+He left an hour ago.	Er ging vor einer Stunde.	उसने एक घंटे पहले छोड़ दिया था।
