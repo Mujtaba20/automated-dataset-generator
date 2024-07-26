@@ -1,14 +1,4 @@
 
-Whose fault is that?	Wessen Schuld ist das?	वह किसका अपराध है?
-Whose fault is that?	Wer ist daran schuld?	किसे दोष दिया जाएं?
-Whose house is that?	Wessen Haus ist das?	वह किसका घर है?
-Whose house is this?	Wessen Haus ist das?	वह किसका घर है?
-Whose idea was that?	Wessen Idee war das?	वह किसका विचार था?
-Whose idea was this?	Wessen Idee war das?	वह किसका विचार था?
-Whose phone is that?	Wessen Telefon ist das?	वह किसका फोन है?
-Whose phone is this?	Wessen Telefon ist das?	वह किसका फोन है?
-Whose plan was that?	Wessen Plan war das?	वह किसकी योजना थी?
-Whose shirt is this?	Wessen Hemd ist das?	वह शर्ट किसकी है?
 Why am I doing this?	Warum tue ich das?	मैं यह क्यों कर रहा हूं?
 Why am I still here?	Warum bin ich immer noch hier?	मैं अब तक यहां क्यों हूं?
 Why are men so dumb?	Warum sind Männer so blöd?	पुरुष इतने मूर्ख क्यों हैं?

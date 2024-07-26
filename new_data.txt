@@ -29998,3 +29998,12 @@ Who's that with Tom?	Wer ist das mit Tom?	टॉम के साथ वह क�
 Who's the pizza for?	Für wen ist die Pizza?	पिज़्ज़ा किसके लिए है?
 Who's this hot babe?	Wer ist dieses heiße Babe?	यह गर्म लड़की कौन है?
 Whose child is this?	Wessen Kind ist das?	यह किसका बच्चा है?
+Whose fault is that?	Wessen Fehler ist das?	वह किसकी ग़लती है?
+Whose house is that?	Wessen Haus ist das?	यह किसका घर है?
+Whose house is this?	Wessen Haus ist dies?	यह किसका घर है?
+Whose idea was that?	Wessen Idee war das?	वह किसका विचार था?
+Whose idea was this?	Wessen Idee war das?	यह किसका विचार था?
+Whose phone is that?	Wessen Telefon ist das?	वह किसका फ़ोन है?
+Whose phone is this?	Wessen Telefon ist dieses?	यह किसका फ़ोन है?
+Whose plan was that?	Wessen Plan war das?	वह किसकी योजना थी?
+Whose shirt is this?	Wessen Hemd ist dies?	यह किसकी कमीज़ है?
