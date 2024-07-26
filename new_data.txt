@@ -22652,3 +22652,11 @@ Please wait for me.	Bitte warte auf mich.	कृपया मेरा इंत
 Prices have jumped.	Die Preise sind gestiegen.	मूल्य बढ़ गए हैं।
 Put away the bread.	Leg das Brot weg.	रोटी को रख दो।
 Put away your toys.	Räumen Sie Ihr Spielzeug weg.	अपने खिलौने सेट करें।
+Put down the knife.	Leg das Messer weg.	चाकू नीचे रखें।
+Put the book there.	Leg das Buch dort hin.	किताब वहाँ रखो।
+Put your helmet on.	Setz dir deinen Helm auf.	अपनी हेलमेट पहनो।
+Put your toys away.	Räum dein Spielzeug weg.	अपने खिलौने दूर करो।
+Quit joking around.	Hör auf herumzuspaßen.	मजाक करना बंद करो।
+Read it to me, Tom.	Lies es mir vor, Tom.	मुझे यह पढ़कर सुनाओ, टॉम।
+Ready! Get set! Go!	Bereit! Auf die Plätze! Los!	तैयार! आरंभ करें! चलो!
+Real men drink tea.	Echte Männer trinken Tee.	असली आदमियों की चाय पीते हैं।

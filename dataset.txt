@@ -1,15 +1,4 @@
 
-Put down the knife.	Nehmen Sie das Messer herunter.	चाकू नीचे ले जाओ।
-Put down the knife.	Nimm das Messer herunter.	चाकू नीचे ले जाओ।
-Put the book there.	Tu das Buch da hin.	वहाँ किताब करो।
-Put the book there.	Tun Sie das Buch da hin.	वहाँ किताब करो।
-Put your helmet on.	Helm auf!	पतवार!
-Put your toys away.	Räum deine Spielsachen weg.	अपने खिलौने साफ़ करें।
-Quit joking around.	Hör auf zum Herumalbern.	चारों ओर मुड़ने के लिए सुनो।
-Read it to me, Tom.	Lies es mir vor, Tom!	मुझे पढ़ें, टॉम!
-Ready! Get set! Go!	Achtung, fertig, los!	रेडी स्टेडी गो!
-Real men drink tea.	Wahre Männer trinken Tee.	सच्चे पुरुष चाय पीते हैं।
-Real men drink tea.	Richtige Männer trinken Tee.	असली पुरुष चाय पीते हैं।
 Relax for a second.	Entspann dich eine Sekunde.	एक सेकंड के लिए आराम करें।
 Relax for a second.	Entspannen Sie sich eine Sekunde.	एक सेकंड के लिए आराम करें।
 Relax for a second.	Entspannt euch eine Sekunde.	एक सेकंड के लिए आराम करें।
