@@ -26528,3 +26528,11 @@ I might have cancer.	Ich könnte Krebs haben.	मुझे कैंसर ह�
 I might not like it.	Ich könnte es nicht mögen.	मुझे यह पसंद नहीं आ सकता।
 I miss Boston a lot.	Ich sehne mich sehr nach Boston.	मुझे बोस्टन की याद बहुत आती है।
 I must be going now.	Ich muss jetzt gehen.	मुझे अब चला जाना चाहिए।
+I must be on my way.	Ich muss auf meinem Weg sein.	मुझे अपने रास्ते पर होना चाहिए।
+I must convince Tom.	Ich muss Tom überzeugen.	मुझे टॉम को मनाना चाहिए।
+I must do something.	Ich muss etwas tun.	मुझे कुछ करना चाहिए।
+I must get it fixed.	Ich muss es reparieren lassen.	मुझे इसे ठीक करना होगा।
+I must get it fixed. Different meaning.	Ich muss es in Ordnung bringen.	मुझे इसे ठीक करना चाहिए।
+I must have lost it.	Ich muss es verloren haben.	मुझसे इसे खो गया होगा।
+I must learn French.	Ich muss Französisch lernen.	मुझे फ्रेंच सीखनी चाहिए।
+I must look a sight.	Ich muss ein Bild sehen.	मुझे एक नजारा देखना चाहिए।

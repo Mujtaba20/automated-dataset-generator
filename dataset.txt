@@ -1,14 +1,4 @@
 
-I must be on my way.	Ich muss jetzt gehen.	अब मुझे जाना होगा।
-I must convince Tom.	Ich muss Tom überzeugen.	मुझे टॉम को मनाना है।
-I must do something.	Ich muss etwas unternehmen.	मुझे कुछ करना पड़ेगा।
-I must get it fixed.	Ich muss es reparieren lassen.	मुझे इसकी मरम्मत करनी होगी।
-I must get it fixed.	Ich muss sie reparieren lassen.	मुझे इसकी मरम्मत करनी होगी।
-I must get it fixed.	Ich muss ihn reparieren lassen.	मुझे इसकी मरम्मत करनी होगी।
-I must have lost it.	Ich muss es verloren haben.	मैंने इसे खो दिया होगा।
-I must learn French.	Ich muss Französisch lernen.	मुझे फ्रेंच सीखना है।
-I must look a sight.	Ich muss furchtbar aussehen.	मुझे भयानक दिखना है।
-I must look a sight.	Ich muss lächerlich aussehen.	मुझे हास्यास्पद दिखना है।
 I must work tonight.	Ich muss heute Abend arbeiten.	मुझे आज रात काम करना है।
 I must've sat on it.	Ich muss wohl drauf gesessen sein.	मैं उस पर बैठा रहा होगा।
 I nearly got killed.	Heute wäre ich fast ums Leben gekommen.	आज मैं लगभग मर गया।
