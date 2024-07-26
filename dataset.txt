@@ -1,14 +1,4 @@
 
-Please don't leave me.	Bitte verlass mich nicht!	कृपया मुझे मत छोड़ो!
-Please don't quote me.	Bitte zitieren Sie mich nicht.	कृपया मुझे उद्धृत न करें।
-Please don't say that.	Bitte sag das nicht!	कृपया ऐसा मत कहो!
-Please don't touch me.	Bitte rühre mich nicht an.	कृपया मुझे मत छुओ।
-Please give Tom a job.	Bitte gib Tom eine Arbeit.	कृपया टॉम को नौकरी दें।
-Please give me a call.	Ruf mich bitte an.	कृपया मुझे फोन करें।
-Please give me a hand.	Hilf mir mal bitte.	कृपया मेरी मदद करें।
-Please give me a hand.	Helft mir mal bitte.	कृपया मेरी मदद करें।
-Please give me a hand.	Helfen Sie mir mal bitte.	कृपया मेरी मदद करें।
-Please give me a visa.	Bitte geben Sie mir ein Visum.	कृपया मुझे वीजा दें।
 Please give me my bag.	Bitte gib mir meine Tasche.	कृपया मुझे अपना बैग दें।
 Please give me my bag.	Bitte gebt mir meine Tasche.	कृपया मुझे अपना बैग दें।
 Please give me my bag.	Bitte geben Sie mir meine Tasche.	कृपया मुझे अपना बैग दें।

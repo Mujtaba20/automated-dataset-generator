@@ -38993,3 +38993,11 @@ Please do that for me.	Bitte mach das für mich.	कृपया उसे म�
 Please do this for me.	Bitte mach das für mich.	कृपया यह मेरे लिए करो।
 Please don't hurt Tom.	Bitte verletzen Sie Tom nicht.	कृपया टॉम को चोट न लगाएं।
 Please don't judge me.	Bitte beurteilen Sie mich nicht.	कृपया मुझे न जज करें।
+Please don't leave me.	Bitte verlass mich nicht.	कृपया मुझे छोड़ दो नहीं।
+Please don't quote me.	Bitte zitieren Sie mich nicht.	कृपया मुझे उद्धृत न करें।
+Please don't say that.	Bitte sag das nicht.	कृपया ऐसा मत कहो।
+Please don't touch me.	Bitte berühren Sie mich nicht.	कृपया मुझे छूने मत दो।
+Please give Tom a job.	Bitte gib Tom einen Job.	कृपया टॉम को नौकरी दो।
+Please give me a call.	Bitte rufen Sie mich an.	कृपया मुझे कॉल करें।
+Please give me a hand.	Bitte hilf mir.	कृपया मेरी मदद करें।
+Please give me a visa.	Bitte geben Sie mir ein Visum.	कृपया मुझे एक वीज़ा दें।
