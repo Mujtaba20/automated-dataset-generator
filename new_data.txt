@@ -23439,3 +23439,12 @@ Tom drew a snowman.	Tom zeichnete einen Schneemann.	टॉम ने एक ब�
 Tom drives a truck.	Tom fährt einen Lastwagen.	टॉम ट्रक चलाता है।
 Tom eats out a lot.	Tom isst oft auswärts.	टॉम बहुत बाहर खाता है।
 Tom enjoys reading.	Tom genießt es zu lesen.	टॉम को पढ़ना अच्छा लगता है।
+Tom exhaled slowly.	Tom atmete langsam aus.	टॉम धीरे से सांस छोड़ा।
+Tom feels homesick.	Tom fühlt Heimweh.	टॉम को घर की याद आती है।
+Tom fell backwards.	Tom fiel rückwärts.	टॉम पीछे गिर गया।
+Tom felt all alone.	Tom fühlte sich ganz allein.	टॉम को सब कुछ अकेला लगा।
+Tom felt powerless.	Tom fühlte sich machtlos.	टॉम बेबस महसूस कर रहा था।
+Tom finally smiled.	Tom lächelte schließlich.	टॉम अंत में मुस्काया।
+Tom fled to Canada.	Tom floh nach Kanada.	टॉम कनाडा भाग गया।
+Tom follows orders.	Tom folgt Befehlen.	टॉम आज्ञाओं का पालन करता है।
+Tom forced a smile.	Tom erzwang ein Lächeln.	टॉम एक मुस्कान दखाने मजबूर हुआ।
