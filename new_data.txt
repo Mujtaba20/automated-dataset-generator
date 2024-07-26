@@ -32775,3 +32775,12 @@ It is already eleven.	Es ist schon elf.	यह पहले ही ग्या�
 It is hardly raining.	Es regnet kaum.	यह बिल्कुल नहीं बरस रहा है।
 It is in the kitchen.	Es ist in der Küche.	यह रसोई में है।
 It is of great value.	Es hat großen Wert.	इसका महान मूल्य है।
+It is out of fashion.	Es ist aus der Mode.	यह मोड़ से बाहर है।
+It is very expensive.	Es ist sehr teuer.	यह बहुत महंगा है।
+It is very hot today.	Es ist heute sehr heiß.	आज बहुत गरम है।
+It isn't Tom's fault.	Es ist nicht Toms Schuld.	यह टॉम की गलती नहीं है।
+It isn't deep enough.	Es ist nicht tief genug.	यह पर्याप्त गहरा नहीं है।
+It isn't that simple.	Es ist nicht so einfach.	यह इतना सरल नहीं है।
+It looks good on you.	Es sieht gut an dir aus.	तुम्हारे ऊपर अच्छा लग रहा है।
+It looks hot outside.	Es sieht draußen heiß aus.	बाहर गरम लग रहा है।
+It looks like a duck.	Es sieht aus wie eine Ente.	यह बत्तख की तरह दिखता है।
