@@ -1,14 +1,4 @@
 
-You're old enough now.	Du bist jetzt alt genug.	अब आप काफी बूढ़े हो गए हैं।
-You're old enough now.	Ihr seid jetzt alt genug.	अब आप काफी बूढ़े हो गए हैं।
-You're probably right.	Du hast vermutlich recht.	शायद आप सही हैं।
-You're probably right.	Sie haben vermutlich recht.	शायद आप सही हैं।
-You're quite mistaken.	Du täuscht dich völlig.	आप पूरी तरह से गलत हैं।
-You're quite mistaken.	Sie täuschen sich völlig.	वे पूरी तरह से भ्रामक हैं।
-You're quite mistaken.	Ihr täuscht euch völlig.	आप पूरी तरह से गलत हैं।
-You're quite the liar.	Du bist ein ganz schöner Lügner.	आप बहुत अच्छे झूठे हैं।
-You're really selfish.	Sie sind wirklich egoistisch.	वे वास्तव में स्वार्थी हैं।
-You're really selfish.	Du bist wirklich egoistisch.	आप वास्तव में स्वार्थी हैं।
 You're right, I think.	Du hast recht, denke ich.	आप सही हैं, मुझे लगता है।
 You're smirking again.	Du schmunzelst wieder.	तुम फिर से मुस्कुराओ।
 You're so predictable.	Du bist so vorhersehbar.	आप बहुत अनुमानित हैं।
