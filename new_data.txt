@@ -22887,3 +22887,13 @@ That was very good.	Das war sehr gut.	वह बहुत अच्छा था
 That was very hard.	Das war sehr schwer.	वह बहुत कठिन था।
 That was years ago.	Das war vor Jahren.	वह सालों पहले था।
 That will be funny.	Das wird lustig sein.	वह मजेदार होगा।
+That won't be easy.	Das wird nicht einfach sein.	यह आसान नहीं होगा।
+That won't help us.	Das wird uns nicht helfen.	वह हमारी मदद नहीं करेगा।
+That would be cool.	Das wäre cool.	वह ठीक होगा।
+That would be fine.	Das wäre in Ordnung.	यह ठीक होगा।
+That would be good.	Das wäre gut.	वह अच्छा होगा।
+That would be nice.	Das wäre schön.	यह अच्छा होगा।
+That'll have to do.	Das wird reichen müssen.	वह करना होगा।
+That'll never work.	Das wird nie funktionieren.	वह कभी नहीं काम करेगा।
+That's OK with Tom.	Das ist in Ordnung für Tom.	टॉम के लिए ठीक है।
+That's Tom's horse.	Das ist Toms Pferd.	वह टॉम का घोड़ा है।
