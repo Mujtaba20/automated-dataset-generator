@@ -40371,3 +40371,12 @@ Tom is rude, isn't he?	Tom ist unhöflich, oder?	टॉम कसाई है, 
 Tom is sadly mistaken.	Tom irrt sich leider.	टॉम दुःखी हो गया है।
 Tom is scared of Mary.	Tom hat Angst vor Mary.	टॉम मेरी से डरता है।
 Tom is shoveling snow.	Tom schaufelt Schnee.	टॉम बर्फ को ढंग से गड़ा रहा है।
+Tom is slightly tipsy.	Tom ist leicht betrunken.	टॉम थोड़ा सा नशा में है।
+Tom is small and weak.	Tom ist klein und schwach.	टॉम छोटा और कमजोर है।
+Tom is still confused.	Tom ist immer noch verwirrt.	टॉम अभी भी उलझन में है।
+Tom is still homeless.	Tom ist immer noch obdachlos.	टॉम अब भी बेघर है।
+Tom is still in shock.	Tom ist immer noch geschockt.	टॉम अभी भी चौंका हुआ है।
+Tom is still sleeping.	Tom schläft immer noch.	टॉम अब भी सो रहा है।
+Tom is still standing.	Tom steht immer noch.	टॉम अभी भी खड़ा है।
+Tom is still underage.	Tom ist immer noch minderjährig.	टॉम अभी भी कम आयु वाला है।
+Tom is such a killjoy.	Tom ist so ein Spielverderber.	टॉम ऐसा खुशियों का दुखद लेकिन।
