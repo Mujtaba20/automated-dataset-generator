@@ -26902,3 +26902,11 @@ I'd rather not know.	Ich möchte lieber nicht wissen.	मैं पसंद क
 I'll always be here.	Ich werde immer hier sein.	मैं हमेशा यहाँ रहूँगा।
 I'll be around back.	Ich bin hinten in der Nähe.	मैं पीछे हूँ आसपास।
 I'll be back at six.	Ich werde um sechs zurück sein.	मैं छे बजे वापस आऊँगा।
+I'll be back at ten.	Ich werde um zehn zurück sein.	मैं दस बजे वापस आऊंगा।
+I'll be coming home.	Ich werde nach Hause kommen.	मैं घर आ रहा होंगा।
+I'll be good to Tom.	Ich werde nett zu Tom sein.	मैं टॉम के लिए अच्छा होऊंगा।
+I'll be good to you.	Ich werde nett zu dir sein.	मैं तुम्हारे लिए अच्छा होऊंगा।
+I'll be happy to go.	Ich werde gerne gehen.	मुझे जाने में खुशी होगी।
+I'll be in my study.	Ich werde in meinem Arbeitszimmer sein.	मैं अपने अध्ययन में होऊंगा।
+I'll be leaving now.	Ich werde jetzt gehen.	मैं अब चला जाऊगा।
+I'll be out of town.	Ich werde außerhalb der Stadt sein.	मैं शहर से बाहर जा रहा होऊंगा।
