@@ -41018,3 +41018,11 @@ We could go there now.	Wir könnten jetzt dorthin fahren.	हम अब वह�
 We could make a salad.	Wir könnten einen Salat machen.	हम एक सलाद बना सकते हैं।
 We defeated the enemy.	Wir haben den Feind besiegt.	हमनें दुश्मन को पराजित किया।
 We did that yesterday.	Das haben wir gestern gemacht.	हमने कल वह किया था।
+We didn't do anything.	Wir haben nichts getan.	हमने कुछ नहीं किया।
+We didn't go anywhere.	Wir sind nirgendwohin gegangen.	हम कहीं नहीं गए।
+We didn't kill anyone.	Wir haben niemanden getötet.	हमने किसी को नहीं मारा।
+We didn't order these.	Wir haben diese nicht bestellt.	हमने ये नहीं मांगा।
+We didn't see anybody.	Wir haben niemanden gesehen.	हमने किसी को नहीं देखा।
+We didn't tell a soul.	Wir haben niemandem ein Wort gesagt.	हमने किसी को भी कुछ नहीं बताया।
+We do this every year.	Wir machen das jedes Jahr.	हम यह हर साल करते हैं।
+We do what we have to.	Wir tun, was wir tun müssen.	हम जो करना है वह करते हैं।

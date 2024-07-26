@@ -1,14 +1,4 @@
 
-We didn't do anything.	Wir haben nichts getan.	हमने कुछ नहीं किया।
-We didn't go anywhere.	Wir sind nirgends hingegangen.	हम कहीं नहीं गए।
-We didn't go anywhere.	Wir sind nirgendwohin gegangen.	हम कहीं नहीं गए।
-We didn't kill anyone.	Wir haben niemanden umgebracht.	हमने किसी को नहीं मारा।
-We didn't kill anyone.	Wir haben niemanden getötet.	हमने किसी को नहीं मारा।
-We didn't order these.	Die haben wir nicht bestellt.	हमने उन्हें आदेश नहीं दिया।
-We didn't see anybody.	Wir haben keinen gesehen.	हमने कोई नहीं देखा।
-We didn't tell a soul.	Wir haben es keiner Menschenseele gesagt.	हमने इसे कोई मानवीय आत्मा नहीं कहा।
-We do this every year.	Wir tun das jedes Jahr.	हम हर साल ऐसा करते हैं।
-We do what we have to.	Wir machen, was wir müssen.	हम वही करते हैं जो हमें करना है।
 We don't believe that.	Wir glauben das nicht.	हम ऐसा नहीं मानते।
 We don't believe that.	Das glauben wir nicht.	हम ऐसा नहीं मानते।
 We don't get out much.	Wir gehen nicht oft aus.	हम अक्सर बाहर नहीं जाते हैं।
