@@ -21245,3 +21245,11 @@ I grew up with Tom.	Ich bin mit Tom aufgewachsen.	मैंने टॉम क�
 I guess that'll do.	Ich denke, das wird schon reichen.	मुझे लगता है कि यह काफी होगा।
 I had a good sleep.	Ich habe gut geschlafen.	मुझे अच्छी नींद आई।
 I had loads of fun.	Ich hatte eine Menge Spaß.	मुझे बहुत मजा आया।
+I had to accept it.	Ich musste es akzeptieren.	मुझे इसे स्वीकार करना पड़ा।
+I had to stay home.	Ich musste zu Hause bleiben.	मुझे घर पर रहना पड़ा।
+I had to walk home.	Ich musste nach Hause laufen.	मुझे घर चलकर जाना पड़ा।
+I handed him a map.	Ich überreichte ihm eine Karte.	मैंने उसे एक मानचित्र पहुंचाया।
+I hate dirty jokes.	Ich hasse schmutzige Witze.	मुझे गंदे मज़ाक नापसंद है।
+I hate my computer.	Ich verabscheue meinen Computer.	मुझे अपना कंप्यूटर घृणित है।
+I hate my eyebrows.	Ich hasse meine Augenbrauen.	मुझे अपनी भौंकों से नापसंद है।
+I hate my neighbor.	Ich hasse meinen Nachbarn.	मुझे मेरे पड़ोसी से नापसंद है।
