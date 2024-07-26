@@ -40052,3 +40052,13 @@ Tom got off the train.	Tom stieg aus dem Zug aus.	टॉम ट्रेन स�
 Tom got over his cold.	Tom überwand seine Erkältung.	टॉम ठंडे से उबेर गया।
 Tom got the lead role.	Tom bekam die Hauptrolle.	टॉमे को मुख्य भूमिका मिली।
 Tom got very confused.	Tom wurde sehr verwirrt.	टॉम बहुत उलझन में आ गया।
+Tom got very homesick.	Tom fühlte sich sehr heimwehkrank.	टॉम बहुत होमसिक हो गया।
+Tom got very offended.	Tom fühlte sich sehr beleidigt.	टॉम बहुत रोषित हुआ।
+Tom graduated in 2013.	Tom absolvierte 2013.	2013 में टॉम ने स्नातकी ग्रहण किया।
+Tom grew up bilingual.	Tom wuchs zweisprachig auf.	टॉम दो भाषाओं में बड़ा।
+Tom grew up in Boston.	Tom ist in Boston aufgewachsen.	टॉम बॉस्टन में बड़ा।
+Tom grimaced slightly.	Tom verzog leicht das Gesicht.	टॉम थोड़ा मुँह बिगाड़लिया।
+Tom gritted his teeth.	Tom knirschte mit den Zähnen.	टॉम ने दांतों का कड़ा मरोड़ा।
+Tom groomed his horse.	Tom pflegte sein Pferd.	टॉम ने अपने घोड़े की देखभाल की।
+Tom guessed my weight.	Tom errat mein Gewicht.	टॉम ने मेरा वजन मान लिया।
+Tom had a brain tumor.	Tom hatte einen Gehirntumor.	टॉम के पास एक मस्तिष्क गाँठ थी।
