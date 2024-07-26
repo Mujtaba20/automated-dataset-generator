@@ -29535,3 +29535,11 @@ We can speak French.	Wir können Französisch sprechen.	हम फ्रें�
 We can win this war.	Wir können diesen Krieg gewinnen.	हम इस युद्ध को जीत सकते हैं।
 We can't allow that.	Das können wir nicht zulassen.	हम उसे नहीं अनुमति दे सकते।
 We can't allow this.	Das können wir nicht erlauben.	हम यह नहीं अनुमति दे सकते।
+We can't fail again.	Wir können nicht noch einmal scheitern.	हम फिर से नाकाम नहीं हो सकते।
+We can't fight here.	Wir können hier nicht kämpfen.	हम यहाँ लड़ाई नहीं कर सकते।
+We can't ignore Tom.	Wir können Tom nicht ignorieren.	हम टॉम को नजरअंदाज नहीं कर सकते।
+We can't let Tom go.	Wir können Tom nicht gehen lassen.	हमें टॉम को जाने नहीं देना चाहिए।
+We can't let Tom in.	Wir können Tom nicht hereinlassen.	हम टॉम को अंदर नहीं ले सकते।
+We can't lie to Tom.	Wir können Tom nicht anlügen.	हम टॉम से झूठ नहीं बोल सकते।
+We caught the thief.	Wir haben den Dieb gefangen.	हमने चोर को पकड़ लिया।
+We caught the train.	Wir haben den Zug erwischt.	हमने ट्रेन को पकड़ लिया।
