@@ -1,17 +1,4 @@
 
-I need new glasses.	Ich brauche neue Gläser.	मुझे नए चश्मे की जरूरत है।
-I need some coffee.	Ich brauche ein bisschen Kaffee.	मुझे थोड़ी कॉफी चाहिए।
-I need some relief.	Ich brauche etwas Unterstützung.	मुझे कुछ समर्थन चाहिए।
-I need those shoes.	Ich brauche jene Schuhe.	मुझे उस जूते चाहिए।
-I need to be there.	Ich muss unbedingt dort sein.	मुझे बिल्कुल वहाँ होना है।
-I need to find out.	Ich muss dahinterkommen.	मुझे इसके पीछे होना है।
-I need to help Tom.	Ich muss Tom helfen.	मुझे टॉम की मदद करनी है।
-I need to know now.	Ich muss es jetzt wissen.	मुझे अभी जानने की आवश्यकता है।
-I need to rest now.	Ich muss mich jetzt ausruhen.	मुझे अब आराम करना है।
-I need to sit down.	Ich muss mich hinsetzen.	मुझे बैठना है।
-I need to sit down.	Ich muss mich mal setzen.	मुझे बैठना है।
-I need to sit down.	Ich muss mich mal hinsetzen.	मुझे बैठना है।
-I need to sit down.	Ich muss mich setzen.	मुझे बैठना है।
 I need your advice.	Ich brauche deinen Rat.	मुझे आपकी सलाह की जरूरत है।
 I need your advice.	Ich benötige Ihren Rat.	मुझे आपकी सलाह की जरूरत है।
 I need your advice.	Ich brauche euren Rat.	मुझे आपकी सलाह की जरूरत है।

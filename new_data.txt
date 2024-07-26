@@ -21534,3 +21534,13 @@ I need inspiration.	Ich brauche Inspiration.	मुझे प्रेरणा 
 I need money badly.	Ich brauche dringend Geld.	मुझे पैसों की बहुत जरूरत है।
 I need more butter.	Ich brauche mehr Butter.	मुझे और मक्खन चाहिए।
 I need my caffeine.	Ich brauche meinen Koffein.	मुझे मेरी कैफीन चाहिए।
+I need new glasses.	Ich brauche neue Brillen.	मुझे नए चश्मे चाहिए।
+I need some coffee.	Ich brauche etwas Kaffee.	मुझे कुछ कॉफ़ी चाहिए।
+I need some relief.	Ich brauche etwas Erleichterung.	मुझे कुछ राहत चाहिए।
+I need those shoes.	Ich brauche diese Schuhe.	मुझे वे जूते चाहिए।
+I need to be there.	Ich muss dort sein.	मुझे वहां होना चाहिए।
+I need to find out.	Ich muss herausfinden.	मुझे जानना है।
+I need to help Tom.	Ich muss Tom helfen.	मुझे टॉम की मदद करनी है।
+I need to know now.	Ich muss jetzt wissen.	मुझे अब पता होना चाहिए।
+I need to rest now.	Ich muss mich jetzt ausruhen.	मुझे अब आराम करना है।
+I need to sit down.	Ich muss mich setzen.	मुझे बैठना चाहिए।
