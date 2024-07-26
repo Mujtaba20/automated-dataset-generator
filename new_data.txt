@@ -36809,3 +36809,12 @@ He is very mean to me.	Er ist sehr gemein zu mir.	वह मुझसे बह�
 He is washing his car.	Er wäscht sein Auto.	वह अपनी कार धो रहा है।
 He is watching TV now.	Er sieht jetzt fern.	वह अभी टीवी देख रहा है।
 He is weak in English.	Er ist schwach in Englisch.	वह अंग्रेजी में कमजोर है।
+He is wearing glasses.	Er trägt eine Brille.	उसके पास चश्मा है।
+He is writing a novel.	Er schreibt einen Roman.	वह एक उपन्यास लिख रहा है।
+He isn't happy at all.	Er ist überhaupt nicht glücklich.	वह बिल्कुल खुश नहीं है।
+He kept pace with her.	Er hielt mit ihr Schritt.	उसने उसके साथ गति बनाए रखी।
+He kept staring at me.	Er starrte mich an.	उसने मुझे लापरवाही से देखा।
+He knows how to fight.	Er weiß, wie man kämpft.	उसे लड़ाई करने की जानकारी है।
+He knows us very well.	Er kennt uns sehr gut.	वह हमें बहुत अच्छे से जानता है।
+He knows who they are.	Er weiß, wer sie sind.	उसे पता है कि वे कौन हैं।
+He lacks common sense.	Ihm fehlt gesunder Menschenverstand.	उसको सामान्य बुद्धि की कमी है।

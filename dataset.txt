@@ -1,14 +1,4 @@
 
-He is wearing glasses.	Er trägt eine Brille.	उसने चश्मा पहना हुआ है।
-He is wearing glasses.	Er hat eine Brille auf.	उसके पास चश्मा है।
-He is writing a novel.	Er schreibt einen Roman.	वह एक उपन्यास लिखते हैं।
-He isn't happy at all.	Er ist überhaupt nicht glücklich.	वह बिल्कुल भी खुश नहीं है।
-He kept pace with her.	Er hielt mit ihr Schritt.	उसने उसके साथ कदम रखा।
-He kept staring at me.	Er sah mich unverwandt an.	उसने मुझे अप्रत्याशित रूप से देखा।
-He knows how to fight.	Er weiß, wie man kämpft.	वह जानता है कि कैसे लड़ना है।
-He knows us very well.	Er kennt uns sehr gut.	वह हमें बहुत अच्छी तरह से जानता है।
-He knows who they are.	Er weiß, wer sie sind.	वह जानता है कि वे कौन हैं।
-He lacks common sense.	Ihm fehlt es an gesundem Menschenverstand.	उसके पास सामान्य ज्ञान का अभाव है।
 He landed a big trout.	Er landete eine große Forelle.	वह एक बड़ा ट्राउट उतरा।
 He landed a big trout.	Er zog eine große Forelle an Land.	उन्होंने जमीन पर एक बड़ा ट्राउट खींचा।
 He laughed at my joke.	Er hat über meinen Witz gelacht.	वह मेरे मजाक पर हँसा।
