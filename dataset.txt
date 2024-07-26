@@ -1,14 +1,4 @@
 
-He has greasy hair.	Er hat fettiges Haar.	उसके पास चिकना बाल हैं।
-He has no children.	Er hat keine Kinder.	उसके कोई बच्चे नहीं हैं।
-He hasn't come yet.	Er ist noch nicht gekommen.	वह अभी तक नहीं आया था।
-He heard footsteps.	Er hörte Fußschritte.	उसने पैर कदम सुना।
-He held his breath.	Er hielt seinen Atem an.	उसने अपनी सांस पकड़ ली।
-He is a bad driver.	Er ist ein schlechter Autofahrer.	वह एक बुरा ड्राइवर है।
-He is a bad driver.	Er ist ein schlechter Fahrer.	वह एक बुरा ड्राइवर है।
-He is a bus driver.	Er ist Busfahrer.	वह एक बस चालक है।
-He is a clever boy.	Er ist ein kluger Junge.	वह एक चतुर लड़का है।
-He is a clever boy.	Er ist ein schlauer Junge.	वह एक चतुर लड़का है।
 He is a daydreamer.	Er ist ein Tagträumer.	वह एक दिवास्वप्न है।
 He is a fishmonger.	Er ist Fischhändler.	वह एक मछली पकड़ने वाला डीलर है।
 He is a good loser.	Er ist ein guter Verlierer.	वह एक अच्छा हारा हुआ है।

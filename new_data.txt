@@ -20761,3 +20761,11 @@ He has a white cat.	Er hat eine weiße Katze.	उसके पास एक स�
 He has a white dog.	Er hat einen weißen Hund.	उसके पास एक सफेद कुत्ता है।
 He has another son.	Er hat einen anderen Sohn.	उसका और एक बेटा है।
 He has few friends.	Er hat wenige Freunde.	उनके कुछ दोस्त हैं।
+He has greasy hair.	Er hat fettiges Haar.	उसके बाल चिपचिपे हैं।
+He has no children.	Er hat keine Kinder.	उसके पास कोई बच्चे नहीं हैं।
+He hasn't come yet.	Er ist noch nicht gekommen.	वह अभी तक नहीं आया है।
+He heard footsteps.	Er hörte Schritte.	उसने पैर की आवाज सुनी।
+He held his breath.	Er hielt den Atem an.	उसने सांस रोकी।
+He is a bad driver.	Er ist ein schlechter Fahrer.	वह एक बुरा चालक है।
+He is a bus driver.	Er ist Busfahrer.	वह बस चालक है।
+He is a clever boy.	Er ist ein schlauer Junge.	वह एक बुद्धिमान लड़का है।
