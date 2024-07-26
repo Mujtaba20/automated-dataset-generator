@@ -1,16 +1,4 @@
 
-Who coaches the team?	Wer trainiert die Mannschaft?	टीम को कौन प्रशिक्षित करता है?
-Who deleted the file?	Wer hat die Datei gelöscht?	फ़ाइल को किसने डिलीट की?
-Who did you vote for?	Wen hast du gewählt?	आपने किसे चुना?
-Who did you vote for?	Wen haben Sie gewählt?	आपने किसे चुना?
-Who didn't know that?	Wer wusste das nicht?	कौन नहीं जानता था?
-Who do you live with?	Mit wem lebst du zusammen?	आपके साथ कौन रह रहा हैं?
-Who doesn't think so?	Wer denkt nicht so?	ऐसा कौन नहीं सोचता?
-Who else is in there?	Wer ist noch dort drin?	अभी भी वहाँ कौन है?
-Who else was in here?	Wer war sonst noch hier drin?	और कौन था?
-Who gave that to you?	Wer hat dir das gegeben?	आपको किसने दिया?
-Who gave that to you?	Wer hat euch das gegeben?	आपको किसने दिया?
-Who gave that to you?	Wer hat Ihnen das gegeben?	उन्हें किसने दिया?
 Who gave this to Tom?	Wer hat das Tom gegeben?	टॉम किसने दिया?
 Who gave this to you?	Wer hat dir das gegeben?	आपको किसने दिया?
 Who gave this to you?	Wer hat euch das gegeben?	आपको किसने दिया?

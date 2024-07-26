@@ -35566,3 +35566,12 @@ Who brought Tom here?	Wer hat Tom hierher gebracht?	तोम को यहा�
 Who brought the beer?	Wer hat das Bier mitgebracht?	बीयर किसने लायी?
 Who can do this work?	Wer kann diese Arbeit erledigen?	यह काम कौन कर सकता है?
 Who caught this fish?	Wer hat diesen Fisch gefangen?	किसने इस मछली को पकड़ा?
+Who coaches the team?	Wer trainiert das Team?	कौन टीम को प्रशिक्षित करता है?
+Who deleted the file?	Wer hat die Datei gelöscht?	फ़ाइल को कौन ने हटाया?
+Who did you vote for?	Für wen hast du gewählt?	तुमने किसके लिए चुनाव किया था?
+Who didn't know that?	Wer wusste das nicht?	कौन नहीं जानता था?
+Who do you live with?	Mit wem lebst du?	तुम किसके साथ रहते हो?
+Who doesn't think so?	Wer denkt nicht so?	कौन ऐसा नहीं सोचता?
+Who else is in there?	Wer ist noch da drin?	वहाँ कौन है?
+Who else was in here?	Wer war noch hier drin?	यहाँ कौन था?
+Who gave that to you?	Wer hat dir das gegeben?	तुम्हें ये किसने दिया?
