@@ -1,14 +1,4 @@
 
-Where're Tom's things?	Wo sind Toms Sachen?	टॉम की बातें कहाँ हैं?
-Where's everyone else?	Wo sind die anderen alle?	अन्य सभी कहाँ हैं?
-Where's my microphone?	Wo ist mein Mikrofon?	मेरा माइक्रोफोन कहाँ है?
-Where's my microphone?	Wo ist mein Mikrophon?	मेरा माइक्रोफोन कहाँ है?
-Where's my other sock?	Wo ist meine andere Socke?	मेरा दूसरा जुर्राब कहाँ है?
-Where's my phone book?	Wo ist mein Telefonbuch?	मेरा फोन बुक कहाँ है?
-Where's the bartender?	Wo ist der Schenk?	दाता कहाँ है?
-Where's the cafeteria?	Wo ist das Café?	कॉफीघर कहा है?
-Where's the gift shop?	Wo ist der Geschenkeladen?	उपहार की दुकान कहाँ है?
-Where's the newspaper?	Wo ist die Zeitung?	समाचार पत्र कहां है?
 Where's the other one?	Wo ist der andere?	दूसरा कहाँ है?
 Where's the other one?	Wo ist die andere?	दूसरा कहाँ है?
 Where's the other one?	Wo ist das andere?	दूसरा कहाँ है?
