@@ -29961,3 +29961,9 @@ Who bought you this?	Wer hat dir das gekauft?	तुम्हें यह क�
 Who called the cops?	Wer hat die Polizei gerufen?	किसने पुलिस को बुलाया?
 Who could forget it?	Wer könnte das vergessen?	कौन इसे भूल सकता है?
 Who did that to you?	Wer hat das dir angetan?	तुम्हारे साथ ऐसा कौन कर सकता है?
+Who did you talk to?	Mit wem hast du gesprochen?	तुमने किससे बात की?
+Who do you remember?	Wen erinnerst du dich?	तुम किसे याद करते हो?
+Who do you work for?	Für wen arbeitest du?	तुम किसके लिए काम करते हो?
+Who doesn't do that?	Wer macht das nicht?	यह कौन नहीं करता?
+Who found my wallet?	Wer hat meine Brieftasche gefunden?	मेरी वॉलेट किसने ढूंढी?
+Who found my wallet? (Different meaning)	Wer fand meine Brieftasche?	मेरी वॉलेट किसने पाई?

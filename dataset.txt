@@ -1,14 +1,4 @@
 
-Who did you talk to?	Mit wem hast du gesprochen?	आप किसके साथ बोलते थे?
-Who do you remember?	An wen erinnerst du dich?	आपको कौन याद है?
-Who do you remember?	An wen erinnert ihr euch?	आपको कौन याद है?
-Who do you remember?	An wen erinnern Sie sich?	आपको कौन याद है?
-Who do you work for?	Für wen arbeitest du?	आप किसके लिए काम करते हैं?
-Who do you work for?	Für wen arbeitet ihr?	आप किसके लिए काम करते हैं?
-Who do you work for?	Für wen arbeiten Sie?	आप किसके लिए काम करते हैं?
-Who doesn't do that?	Wer tut das nicht?	ऐसा कौन नहीं करेगा?
-Who found my wallet?	Wer fand meine Geldbörse ?	मेरा बटुआ किसने पाया?
-Who found my wallet?	Wer fand mein Portemonnaie ?	मेरा बटुआ किसने पाया?
 Who is that old man?	Wer ist dieser alte Mann?	यह बूढ़ा आदमी कौन है?
 Who is your teacher?	Wer ist euer Lehrer?	आपके शिक्षक कौन है?
 Who is your teacher?	Wer ist dein Lehrer?	आपके शिक्षक कौन है?
