@@ -1,14 +1,4 @@
 
-I've got a question.	Ich habe eine Frage.	मेरा एक सवाल है।
-I've got no friends.	Ich habe keine Freunde.	मेरे दोस्त नहीं हैं।
-I've got no worries.	Ich bin ohne Sorgen.	मैं बिना किसी चिंता के हूं।
-I've got to do that.	Ich muss das tun.	मुझे ऐसा करना है।
-I've got to do this.	Ich muss das tun.	मुझे ऐसा करना है।
-I've got to find it.	Ich muss es finden.	मुझे इसे ढूंढना है।
-I've got to see you.	Ich muss Sie sehen.	मुझे उसे देखना है।
-I've got to see you.	Ich muss euch treffen.	मुझे आपसे मिलना है।
-I've had a busy day.	Ich hatte heute viel zu tun.	मुझे आज बहुत कुछ करना था।
-I've had a busy day.	Ich hatte einen vollen Tag.	मेरा पूरा दिन था।
 I've just been shot.	Ich bin gerade angeschossen worden.	मुझे अभी गोली मार दी गई है।
 I've just been shot.	Ich wurde gerade angeschossen.	मुझे बस गोली मार दी गई थी।
 I've just come home.	Ich bin gerade erst heimgekommen.	मैं अभी घर पहुँचा हूँ।

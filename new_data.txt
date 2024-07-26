@@ -27187,3 +27187,11 @@ I've changed my job.	Ich habe meinen Job gewechselt.	मैंने अपन�
 I've done it before.	Ich habe es schon zuvor gemacht.	मैंने यह पहले किया है।
 I've got Tom's keys.	Ich habe Toms Schlüssel.	मेरे पास टॉम की चाबियाँ हैं।
 I've got a headache.	Mir tut der Kopf weh.	मुझे सिरदर्द है।
+I've got a question.	Ich habe eine Frage.	मेरे पास एक सवाल है।
+I've got no friends.	Ich habe keine Freunde.	मेरे पास कोई दोस्त नहीं है।
+I've got no worries.	Ich mache mir keine Sorgen.	मुझे कोई चिंता नहीं है।
+I've got to do that.	Das muss ich tun.	मुझे वह करना है।
+I've got to do this.	Das muss ich tun.	मुझे यह करना है।
+I've got to find it.	Ich muss es finden.	मुझे यह ढूंढना है।
+I've got to see you.	Ich muss dich sehen.	मुझे तुम्हें देखना है।
+I've had a busy day.	Ich hatte einen geschäftigen Tag.	मेरे पास एक भरपूर दिन था।
