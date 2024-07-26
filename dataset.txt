@@ -1,14 +1,4 @@
 
-Tom and Mary are happy.	Tom und Maria sind glücklich.	टॉम और मारिया खुश हैं।
-Tom and Mary are lying.	Tom und Maria lügen.	टॉम और मारिया झूठ।
-Tom and Mary are ready.	Tom und Maria sind soweit.	टॉम और मारिया तैयार हैं।
-Tom and Mary are twins.	Tom und Maria sind Zwillinge.	टॉम और मारिया जुड़वाँ हैं।
-Tom and Mary are wrong.	Tom und Maria haben unrecht.	टॉम और मारिया गलत हैं।
-Tom and Mary are young.	Tom und Maria sind jung.	टॉम और मारिया युवा हैं।
-Tom and Mary have come.	Tom und Maria sind da.	टॉम और मारिया हैं।
-Tom and Mary have gone.	Tom und Maria sind gegangen.	टॉम और मारिया ने छोड़ दिया।
-Tom and Mary knew this.	Tom und Maria wussten das.	टॉम और मारिया को पता था कि।
-Tom and Mary know John.	Tom und Maria kennen Johannes.	टॉम और मारिया जॉन को जानते हैं।
 Tom and Mary miss John.	Tom und Maria vermissen Johannes.	टॉम और मारिया मिस जॉन।
 Tom and Mary need help.	Tom und Maria brauchen Hilfe.	टॉम और मारिया को मदद की जरूरत है।
 Tom and Mary quarreled.	Tom und Maria stritten sich.	टॉम और मारिया ने तर्क दिया।
