@@ -28262,3 +28262,12 @@ The street was dark.	Die Straße war dunkel.	सड़क अंधेरी थ
 The sun was setting.	Die Sonne ging unter.	सूरज अस्त हो रहा था।
 The tower collapsed.	Der Turm stürzte ein.	टावर ढह गया।
 The traffic was bad.	Der Verkehr war schlecht.	यातायात खराब था।
+The train is coming.	Der Zug kommt.	ट्रेन आ रही है।
+The victory is ours.	Der Sieg ist unser.	विजय हमारी है।
+The water is rising.	Das Wasser steigt.	पानी उठ रहा है।
+The water was murky.	Das Wasser war trüb.	पानी धुंधला था।
+The website is down.	Die Website ist ausgefallen.	वेबसाइट नीचे है।
+The wind has abated.	Der Wind hat nachgelassen.	हवा उठ गई है।
+The wind is blowing.	Der Wind bläst.	हवा बह रही है।
+The zipper is stuck.	Der Reißverschluss klemmt.	ज़िपर अटक गया है।
+Therapy didn't work.	Die Therapie hat nicht geholfen.	थेरेपी कारगर नहीं थी।

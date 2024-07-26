@@ -1,14 +1,4 @@
 
-The train is coming.	Der Zug fährt ein!	ट्रेन ड्राइव!
-The victory is ours.	Der Sieg ist unser.	जीत हमारी है।
-The water is rising.	Das Wasser steigt.	पानी उगता है।
-The water was murky.	Das Wasser war trüb.	पानी बादल था।
-The website is down.	Die Netzpräsenz ist nicht erreichbar.	नेटवर्क उपस्थिति सुलभ नहीं है।
-The wind has abated.	Der Wind hat nachgelassen.	हवा कम हो गई है।
-The wind is blowing.	Der Wind weht.	हवा बहती है।
-The zipper is stuck.	Der Reißverschluss steckt fest.	जिपर तंग है।
-Therapy didn't work.	Die Therapie schlug nicht an.	थेरेपी का पालन नहीं किया गया।
-Therapy didn't work.	Die Therapie hat nicht angeschlagen.	थेरेपी ने हड़ताल नहीं की।
 There are no limits.	Es gibt keine Grenzen.	कोई सीमाएं नहीं हैं।
 There are no spoons.	Es gibt keine Löffel.	कोई चम्मच नहीं हैं।
 There may be others.	Es gibt vielleicht noch weitere.	और भी हो सकता है।
