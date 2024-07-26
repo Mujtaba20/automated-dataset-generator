@@ -24841,3 +24841,9 @@ You can't eat here.	Du kannst hier nicht essen.	तुम यहाँ नही
 You can't fire Tom.	Du kannst Tom nicht feuern.	तुम टॉम को नहीं निकाल सकते।
 You can't help Tom.	Du kannst Tom nicht helfen.	तुम टॉम की मदद नहीं कर सकते।
 You can't assist Tom.	Du kannst Tom nicht unterstützen.	तुम टॉम की सहायता नहीं कर सकते।
+You can't leave me.	Du darfst mich nicht alleine lassen.	तुम मुझे छोड़ नहीं सकते।
+You can't say that.	Das darfst du nicht sagen.	तुम वह नहीं बोल सकते।
+You can't scare me.	Du darfst mich nicht erschrecken.	तुम मुझे डरा नहीं सकते।
+You can't stop Tom.	Du kannst Tom nicht aufhalten.	तुम टॉम को रोक नहीं सकते।
+You can't stop now.	Du musst jetzt weitermachen.	तुम अब रुक नहीं सकते।
+You can't use that.	Du kannst das nicht verwenden.	तुम वह नहीं इस्तेमाल कर सकते।

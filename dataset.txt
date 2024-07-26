@@ -1,14 +1,4 @@
 
-You can't leave me.	Du kannst mich nicht verlassen.	आप मुझे नहीं छोड़ सकते।
-You can't leave me.	Ihr könnt mich nicht verlassen.	आप मुझे नहीं छोड़ सकते।
-You can't say that.	Das kannst du nicht sagen.	आप ऐसा नहीं कह सकते।
-You can't say that.	Das können Sie nicht behaupten.	आप ऐसा नहीं कह सकते।
-You can't scare me.	Du kannst mir keine Angst machen.	आप मुझे डरा नहीं सकते।
-You can't scare me.	Sie machen mir keine Angst.	वे मुझे नहीं डराते हैं।
-You can't stop Tom.	Du kannst Tom nicht aufhalten.	आप टॉम को रोक नहीं सकते।
-You can't stop now.	Sie können jetzt nicht aufhören.	अब आप रुक नहीं सकते।
-You can't stop now.	Du kannst jetzt nicht aufhören.	अब आप रुक नहीं सकते।
-You can't use that.	Das kannst du nicht benutzen.	आप इसका उपयोग नहीं कर सकते।
 You can't use this.	Das kannst du nicht benutzen.	आप इसका उपयोग नहीं कर सकते।
 You cannot do this.	Das kannst du nicht machen.	आप ऐसा नहीं कर सकते।
 You cannot do this.	Das könnt ihr nicht machen.	आप ऐसा नहीं कर सकते।
