@@ -1,14 +1,4 @@
 
-Tom has a rice cooker.	Tom hat einen Reiskocher.	टॉम के पास एक चावल कुकर है।
-Tom has a rose garden.	Tom hat einen Rosengarten.	टॉम के पास एक गुलाब का बगीचा है।
-Tom has a slight cold.	Tom ist leicht erkältet.	टॉम थोड़ा ठंडा है।
-Tom has a solid alibi.	Tom hat ein stichfestes Alibi.	टॉम के पास एक स्टैब -रेस्टिस्टेंट एलबी है।
-Tom has a sore throat.	Tom hat Halsschmerzen.	टॉम के गले में खराश है।
-Tom has a stomachache.	Tom hat Magenschmerzen.	टॉम को पेट में दर्द होता है।
-Tom has a stomachache.	Tom tut der Bauch weh.	टॉम ने पेट को चोट पहुंचाई।
-Tom has a stuffy nose.	Tom hat eine verstopfte Nase.	टॉम की एक अवरुद्ध नाक है।
-Tom has a sweet tooth.	Tom steht auf Süßigkeiten.	टॉम को मिठाई पसंद है।
-Tom has a vile temper.	Tom hat ein aufbrausendes Temperament.	टॉम का एक उजागर स्वभाव है।
 Tom has a waffle iron.	Tom hat ein Waffeleisen.	टॉम में एक वफ़ल आयरन है।
 Tom has already begun.	Tom hat schon angefangen.	टॉम पहले ही शुरू कर चुके हैं।
 Tom has already begun.	Tom hat bereits begonnen.	टॉम पहले ही शुरू कर चुके हैं।

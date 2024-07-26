@@ -40099,3 +40099,12 @@ Tom has a pretty wife.	Tom hat eine hübsche Frau.	टॉम की एक स�
 Tom has a private jet.	Tom besitzt einen Privatjet.	टॉम के पास एक निजी जेट है।
 Tom has a private jet. (different meaning)	Tom hat einen privaten Flugzeug.	टॉम के पास निजी हवाई जहाज है।
 Tom has a reservation.	Tom hat eine Reservierung.	टॉम के पास एक रिजर्वेशन है।
+Tom has a rice cooker.	Tom hat einen Reiskocher.	टॉम के पास एक चावल कुकर है।
+Tom has a rose garden.	Tom hat einen Rosengarten.	टॉम के पास एक गुलाबी बगीचा है।
+Tom has a slight cold.	Tom hat eine leichte Erkältung.	टॉम को हल्का सर्दी लगी है।
+Tom has a solid alibi.	Tom hat ein stichhaltiges Alibi.	टॉम के पास एक मजबूत अलीबाई है।
+Tom has a sore throat.	Tom hat Halsschmerzen.	टॉम को गले में खराश है।
+Tom has a stomachache.	Tom hat Bauchschmerzen.	टॉम को पेट दुख रहा है।
+Tom has a stuffy nose.	Tom hat eine verstopfte Nase.	टॉम की नाक बंद है।
+Tom has a sweet tooth.	Tom hat einen süßen Zahn.	टॉम को मीठा खाना पसंद है।
+Tom has a vile temper.	Tom hat einen bösen Charakter.	टॉम का कड़वा स्वभाव है।
