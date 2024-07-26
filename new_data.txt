@@ -39008,3 +39008,9 @@ Please iron the shirt.	Bitte bügeln Sie das Hemd.	कृपया कमीज�
 Please keep my secret.	Bitte bewahren Sie mein Geheimnis.	कृपया मेरा राज रखें।
 Please leave me alone.	Bitte lass mich allein.	कृपया मुझे अकेले छोड़ दो।
 Please let me go home.	Bitte erlauben Sie mir, nach Hause zu gehen.	कृपया मुझे घर जाने दें।
+Please light a candle.	Bitte zünde eine Kerze an.	कृपया एक मोमबत्ती जला दीजिए।
+Please lower the flag.	Bitte senken Sie die Flagge.	कृपया झंडा घटाएं।
+Please read that book.	Bitte lies das Buch.	कृपया उस पुस्तक को पढ़ें।
+Please read the meter.	Bitte lesen Sie den Zählerstand.	कृपया मीटर को पढ़ें।
+Please read this book.	Bitte lies dieses Buch.	कृपया यह किताब पढ़ें।
+Please stop whistling.	Bitte hör auf zu pfeifen.	कृपया सीटी बजाना बंद करें।

@@ -1,14 +1,4 @@
 
-Please light a candle.	Bitte mache eine Kerze an.	कृपया एक मोमबत्ती बनाएं।
-Please light a candle.	Zündet bitte eine Kerze an.	कृपया एक मोमबत्ती जलाएं।
-Please light a candle.	Bitte entzünden Sie eine Kerze.	कृपया एक मोमबत्ती जलाएं।
-Please lower the flag.	Hole bitte die Fahne ein!	कृपया झंडा प्राप्त करें!
-Please read that book.	Bitte lies dieses Buch.	कृपया इस पुस्तक को पढ़ें।
-Please read that book.	Bitte lest dieses Buch!	कृपया इस पुस्तक को पढ़ें!
-Please read that book.	Bitte lesen Sie dieses Buch!	कृपया इस पुस्तक को पढ़ें!
-Please read the meter.	Bitte lesen Sie den Zähler ab.	कृपया काउंटर पढ़ें।
-Please read this book.	Lies bitte dieses Buch!	कृपया इस पुस्तक को पढ़ें!
-Please stop whistling.	Höre bitte auf zu pfeifen!	कृपया सीटी बजाना बंद करो!
 Please take my advice.	Folgen Sie bitte meinem Rat.	कृपया मेरी सलाह का पालन करें।
 Please take this away.	Bring das bitte fort!	कृपया इसे दूर ले आओ!
 Please take this seat.	Nehmen Sie bitte hier Platz.	कृपया यहां एक सीट लें।
