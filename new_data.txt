@@ -23111,3 +23111,11 @@ They don't want it.	Sie wollen es nicht.	उन्हें चाहिए न�
 They don't want us.	Sie wollen uns nicht.	उन्हें हमें चाहिए नहीं।
 They found nothing.	Sie fanden nichts.	उन्होंने कुछ नहीं पाया।
 They gave it to me.	Sie gaben es mir.	उन्होंने मुझे दिया।
+They have families.	Sie haben Familien.	उनके पास परिवार है।
+They know about it.	Sie wissen davon.	उन्हें इसके बारे में पता है।
+They know who I am.	Sie wissen, wer ich bin.	उन्हें पता है कि मैं कौन हूँ।
+They laughed at me.	Sie haben über mich gelacht.	उन्होंने मुझपर हंसी।
+They laughed at us.	Sie haben über uns gelacht.	उन्होंने हम पर हंसी।
+They left me alone.	Sie haben mich allein gelassen.	उन्होंने मुझे अकेला छोड़ दिया।
+They left together.	Sie sind zusammen gegangen.	उन्होंने साथ चल दिया।
+They like to dance.	Sie tanzen gerne.	उन्हें नृत्य करना पसंद है।
