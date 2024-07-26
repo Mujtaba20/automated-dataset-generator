@@ -21551,3 +21551,13 @@ I never drink beer.	Ich trinke nie Bier.	मैं कभी बीयर नह
 I never drink wine.	Ich trinke nie Wein.	मैं कभी शराब नहीं पीता।
 I never forgot you.	Ich habe dich nie vergessen.	मैंने कभी तुम्हें भूला नहीं।
 I never got caught.	Ich wurde nie erwischt.	मैं कभी पकड़ा नहीं गया।
+I never had doubts.	Ich hatte nie Zweifel.	मेरे पास कभी संदेह नहीं था।
+I never kissed Tom.	Ich habe Tom nie geküsst.	मैंने कभी भी टॉम को चुमा नहीं।
+I never liked them.	Ich mochte sie nie.	मुझे कभी उन्हें पसंद नहीं था।
+I now regret lying.	Ich bereue jetzt zu lügen.	मुझे अब झूठ बोलने पर पछतावा हो रहा है।
+I often drink beer.	Ich trinke oft Bier.	मैं अक्सर बीयर पीता हूँ।
+I often drink wine.	Ich trinke oft Wein.	मैं अक्सर शराब पीता हूँ।
+I often eat apples.	Ich esse oft Äpfel.	मैं अक्सर सेब खाता हूँ।
+I often read books.	Ich lese oft Bücher.	मैं अक्सर किताबें पढ़ता हूँ।
+I often tell jokes.	Ich erzähle oft Witze.	मैं अक्सर मजाक करता हूँ।
+I often wear a tie.	Ich trage oft eine Krawatte.	मैं अक्सर टाई पहनता हूँ।
