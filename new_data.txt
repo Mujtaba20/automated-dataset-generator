@@ -22204,3 +22204,13 @@ It could be anyone.	Es könnte jeder sein.	यह किसी भी हो स
 It couldn't be Tom.	Es könnte nicht Tom sein.	यह टॉम नहीं हो सकता।
 It didn't end well.	Es endete nicht gut.	यह अच्छे तरह समाप्त नहीं हुआ।
 It does get easier.	Es wird leichter.	यह आसान हो जाता है।
+It happened before.	Es ist zuvor passiert.	यह पहले हुआ था।
+It has no parallel.	Es hat keine Parallele.	इसका कोई सरदर्द नहीं है।
+It has to be there.	Es muss da sein.	यहाँ होना चाहिए।
+It helped me a lot.	Es hat mir sehr geholfen.	यह मुझे बहुत मदद की।
+It assisted me greatly.	Es hat mich sehr unterstützt.	यहने मुझे बहुत मदद की।
+It supported me immensely.	Es hat mich sehr unterstützt.	यहने मुझे काफी समर्थन दिया।
+It hurt really bad.	Es tat wirklich weh.	यह वास्तव में बुरा था।
+It caused significant pain.	Es verursachte erheblichen Schmerz.	इसने महत्वपूर्ण दर्द का कारण बनाया।
+It is Monday today.	Heute ist Montag.	आज सोमवार है।
+It is a black hole.	Es ist ein schwarzes Loch.	यह एक काले गड्ढे है।
