@@ -1,14 +1,4 @@
 
-Are we sure about this?	Sind wir uns da sicher?	क्या हमें यकीन है?
-Are you Mary's husband?	Bist du Marys Ehemann?	क्या आप मैरी के पति हैं
-Are you Mary's husband?	Sind Sie Marys Ehemann?	क्या आप मैरी के पति हैं?
-Are you Tom's daughter?	Bist du Toms Tochter?	क्या आप टॉम की बेटी हैं
-Are you Tom's daughter?	Sind Sie Toms Tochter?	क्या आप टॉम की बेटी हैं?
-Are you a good student?	Bist du ein guter Student?	क्या आप एक अच्छे छात्र हैं?
-Are you a seismologist?	Sind Sie Seismologe?	क्या आप एक भूकंपविज्ञानी हैं?
-Are you a seismologist?	Sind Sie Seismologin?	क्या आप एक भूकंपविज्ञानी हैं?
-Are you a seismologist?	Bist du Seismologe?	क्या आप एक भूकंपविज्ञानी हैं?
-Are you a seismologist?	Bist du Seismologin?	क्या आप एक भूकंपविज्ञानी हैं?
 Are you a student here?	Bist du hier Schüler?	क्या आप यहाँ एक छात्र हैं?
 Are you about to do it?	Wirst du es bald tun?	क्या आप इसे जल्द ही करेंगे?
 Are you afraid of dogs?	Hast du Angst vor Hunden?	क्या आप कुत्तों से डरते हैं?
