@@ -1,14 +1,4 @@
 
-Does Tom have a wife?	Hat Tom eine Frau?	क्या टॉम के पास एक महिला है?
-Does Tom have a wife?	Hat Tom eine Ehefrau?	क्या टॉम की पत्नी है?
-Does Tom know French?	Kann Tom französisch?	क्या टॉम फ्रेंच कर सकते हैं?
-Does Tom like Boston?	Mag Tom Boston?	मैग टॉम बोस्टन?
-Does Tom like French?	Mag Tom Französisch?	मैग टॉम फ्रेंच?
-Does Tom like school?	Mag Tom die Schule?	क्या टॉम स्कूल पसंद करता है?
-Does Tom play soccer?	Spielt Tom Fußball?	क्या टॉम फुटबॉल खेलता है?
-Does Tom play tennis?	Spielt Tom Tennis?	क्या टॉम टेनिस खेलता है?
-Does Tom want coffee?	Mag Tom einen Kaffee trinken?	क्या टॉम एक कॉफी पी सकता है?
-Does Tom want coffee?	Mag Tom einen Kaffee?	क्या टॉम कॉफी पसंद करता है?
 Does Tom work at all?	Arbeitet Tom überhaupt etwas?	क्या टॉम कुछ भी काम करता है?
 Does that make sense?	Ergibt das Sinn?	समझ आया?
 Does this make sense?	Ist das sinnvoll?	इसका कोई मतलब भी है क्या?

@@ -30742,3 +30742,11 @@ Do you wear a kimono?	Trägst du einen Kimono?	क्या आप किमो�
 Do you work with Tom?	Arbeitest du mit Tom?	क्या आप टॉम के साथ काम करते हैं?
 Do your homework now.	Beginne jetzt mit deiner Hausaufgabe.	अपने होमवर्क को अब पूरा करो।
 Does Tom have a boat?	Hat Tom ein Boot?	क्या टॉम के पास नाव है?
+Does Tom have a wife?	Hat Tom eine Frau?	क्या टॉम की पत्नी है?
+Does Tom know French?	Kennt Tom Französisch?	क्या टॉम को फ्रेंच आती है?
+Does Tom like Boston?	Mag Tom Boston?	क्या टॉम को बॉस्टन पसंद है?
+Does Tom like French?	Mag Tom Französisch?	क्या टॉम को फ्रेंच पसंद है?
+Does Tom like school?	Mag Tom Schule?	क्या टॉम को स्कूल पसंद है?
+Does Tom play soccer?	Spielt Tom Fußball?	क्या टॉम फुटबॉल खेलता है?
+Does Tom play tennis?	Spielt Tom Tennis?	क्या टॉम टेनिस खेलता है?
+Does Tom want coffee?	Möchte Tom Kaffee?	क्या टॉम कोफ़ी चाहता है?
