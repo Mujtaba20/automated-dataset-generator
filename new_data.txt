@@ -38084,3 +38084,13 @@ I'd like a cup of tea.	Ich hätte gerne eine Tasse Tee.	मुझे एक क�
 I'd like not to do it.	Ich würde es lieber nicht tun.	मुझे यह नहीं करना है।
 I'd like some aspirin.	Ich hätte gerne etwas Aspirin.	मुझे कुछ एस्पिरिन चाहिए।
 I'd like some privacy.	Ich hätte gerne etwas Privatsphäre.	मुझे कुछ निजता चाहिए।
+I'd like to apologize.	Ich möchte mich entschuldigen.	मुझे माफ़ करना चाहिए।
+I'd like to buy a dog.	Ich möchte einen Hund kaufen.	मुझे एक कुत्ता खरीदना है।
+I'd like to buy a map.	Ich möchte eine Karte kaufen.	मुझे एक मानचित्र खरीदना है।
+I'd like to check out.	Ich möchte auschecken.	मैं जाँच करना चाहूँगा।
+I'd like to go skiing.	Ich möchte Ski fahren.	मैं स्की करना चाहूँगा।
+I'd like to know, too.	Ich möchte auch wissen.	मुझे भी जानना है।
+I'd like to pay later.	Ich würde später bezahlen.	मैं बाद में भुगतान करना चाहूँगा।
+I'd like to play golf.	Ich würde gerne Golf spielen.	मैं गोल्फ खेलना चाहूँगा।
+I'd like to stay here.	Ich würde hier bleiben.	मैं यहाँ रुकना चाहूँगा।
+I'd like to thank you.	Ich möchte mich bedanken.	मैं आपका धन्यवाद करना चाहूँगा।

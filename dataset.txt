@@ -1,14 +1,4 @@
 
-I'd like to apologize.	Ich möchte mich gerne entschuldigen.	मैं क्षमा चाहूँगा।
-I'd like to buy a dog.	Ich möchte einen Hund kaufen.	मैं एक कुत्ता खरीदना चाहता हूं।
-I'd like to buy a map.	Ich würde gerne eine Karte kaufen.	मैं एक कार्ड खरीदना चाहूंगा।
-I'd like to check out.	Ich würde das gerne überprüfen.	मैं यह जांचना चाहूंगा।
-I'd like to go skiing.	Ich möchte Ski fahren.	मैं स्कीइंग जाना चाहता हूं।
-I'd like to know, too.	Ich möchte es auch gerne wissen.	मुझे भी यह जानना चाहिए।
-I'd like to pay later.	Ich möchte später bezahlen.	मैं बाद में भुगतान करना चाहता हूं।
-I'd like to play golf.	Ich würde gerne Golf spielen.	मैं गोल्फ खेलना चाहूंगा।
-I'd like to stay here.	Ich würde gerne hierbleiben.	मैं यहां रहना चाहूंगा।
-I'd like to thank you.	Ich möchte dir danken.	मुझे आपको धन्यवाद कहना है।
 I'd like to try it on.	Das will ich mal anprobieren.	मैं इस पर कोशिश करना चाहता हूं।
 I'd like to wait here.	Ich möchte hier warten.	मैं यहां इंतजार करना चाहता हूं।
 I'd like you to drive.	Ich möchte, dass du fährst.	मैं चाहता हूं कि आप ड्राइव करें।
