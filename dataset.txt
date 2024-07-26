@@ -1,14 +1,4 @@
 
-Tom is obese, isn't he?	Tom ist fettleibig, nicht wahr?	टॉम मोटे हैं, है ना?
-Tom is obviously drunk.	Tom ist offensichtlich betrunken.	टॉम स्पष्ट रूप से नशे में है।
-Tom is obviously upset.	Tom ist offensichtlich bestürzt.	टॉम स्पष्ट रूप से निराश है।
-Tom is older than I am.	Tom ist älter als ich.	टॉम मुझसे बड़ा है।
-Tom is older than Mary.	Tom ist älter als Maria.	टॉम मारिया से बड़ा है।
-Tom is on his way here.	Tom ist auf dem Weg hierher.	टॉम यहाँ रास्ते पर है।
-Tom is on his way home.	Tom ist auf dem Heimweg.	टॉम घर के रास्ते पर है।
-Tom is on his way home.	Tom ist auf dem Weg nach Hause.	टॉम घर के रास्ते पर है।
-Tom is on life support.	Tom wird künstlich am Leben gehalten.	टॉम को जिंदा रखा जाता है।
-Tom is only a beginner.	Tom ist erst Anfänger.	टॉम केवल एक शुरुआत है।
 Tom is our best driver.	Tom ist unser bester Fahrer.	टॉम हमारा सबसे अच्छा ड्राइवर है।
 Tom is our best player.	Tom ist unser bester Spieler.	टॉम हमारे सबसे अच्छे खिलाड़ी हैं।
 Tom is out for the day.	Tom ist heute den ganzen Tag unterwegs.	टॉम आज पूरे दिन यात्रा कर रहा है।
