@@ -37303,3 +37303,12 @@ I don't like drinking.	Ich trinke nicht gern.	मुझे पीना अच�
 I don't like goodbyes.	Ich mag keine Abschiede.	मुझे विदाई पसंद नहीं है।
 I don't like her face.	Ich mag ihr Gesicht nicht.	मुझे उसका चेहरा पसंद नहीं है।
 I don't like his type.	Ich mag seinen Typ nicht.	मुझे उसकी प्रकार पसंद नहीं है।
+I don't like homework.	Ich mag keine Hausaufgaben.	मुझे होमवर्क पसंद नहीं है।
+I don't like it a bit.	Es gefällt mir überhaupt nicht.	मुझे थोड़ा भी अच्छा नहीं लगता।
+I don't like licorice.	Ich mag keinen Süßholz.	मुझे लिकोरिस पसंद नहीं है।
+I don't like politics.	Ich mag keine Politik.	मुझे राजनीति पसंद नहीं है।
+I don't like potatoes.	Ich mag keine Kartoffeln.	मुझे आलू पसंद नहीं हैं।
+I don't like studying.	Ich mag es nicht zu studieren.	मुझे पढ़ाई पसंद नहीं है।
+I don't like swimming.	Ich mag nicht schwimmen.	मुझे तैरना पसंद नहीं है।
+I don't like that one.	Ich mag das nicht.	मुझे वह एक नहीं पसंद।
+I don't like the dark.	Ich mag die Dunkelheit nicht.	मुझे अंधेरा पसंद नहीं है।

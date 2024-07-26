@@ -1,14 +1,4 @@
 
-I don't like homework.	Ich mag keine Hausaufgaben.	मुझे होमवर्क पसंद नहीं है।
-I don't like it a bit.	Das gefällt mir überhaupt nicht.	मुझे यह पसंद नहीं है।
-I don't like licorice.	Ich mag kein Lakritz.	मुझे नद्यपान पसंद नहीं है।
-I don't like licorice.	Lakritz mag ich nicht.	मुझे शराब पसंद नहीं है।
-I don't like politics.	Ich mag die Politik nicht.	मुझे राजनीति पसंद नहीं है।
-I don't like potatoes.	Ich mag keine Kartoffeln.	मुझे आलू पसंद नहीं है।
-I don't like studying.	Ich lerne nicht gern.	मुझे सीखना पसंद नहीं है।
-I don't like swimming.	Ich schwimme nicht gern.	मुझे तैराकी अच्छी नहीं लगती।
-I don't like that one.	Ich mag dieses nicht.	मुझे यह पसंद नहीं है।
-I don't like the dark.	Ich mag die Dunkelheit nicht.	मुझे अंधेरा पसंद नहीं है।
 I don't like the heat.	Ich mag die Hitze nicht.	मुझे गर्मी पसंद नहीं है।
 I don't like this hat.	Ich mag diesen Hut nicht.	मुझे यह टोपी पसंद नहीं है।
 I don't like this one.	Den mag ich nicht.	मुझे यह पसंद नहीं है।
