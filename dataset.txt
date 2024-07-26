@@ -1,14 +1,4 @@
 
-Why don't you give up?	Warum gibst du nicht auf?	आप हार क्यों नहीं मानते?
-Why don't you go home?	Warum gehst du nicht nach Hause?	आप घर क्यों नहीं जाते?
-Why don't you grow up?	Warum wirst du nicht endlich erwachsen?	आप आखिरकार क्यों नहीं बढ़ते?
-Why don't you help us?	Warum hilfst du uns nicht?	आप हमारी मदद क्यों नहीं करते?
-Why don't you help us?	Warum helft ihr uns nicht?	आप हमारी मदद क्यों नहीं करते?
-Why don't you help us?	Warum helfen Sie uns nicht?	आप हमारी मदद क्यों नहीं करते?
-Why don't you like me?	Warum magst du mich nicht leiden?	तुम मुझे क्यों पसंद नहीं करते?
-Why don't you like me?	Warum magst du mich nicht?	तुम मुझे क्यों पसंद नहीं करते हो?
-Why don't you like us?	Warum magst du uns nicht?	आप हमें क्यों पसंद नहीं करते?
-Why don't you like us?	Warum mögen Sie uns nicht?	आप हमें क्यों पसंद नहीं करते?
 Why don't you love me?	Warum liebst du mich nicht?	आप मुझे प्यार क्यों नहीं करते?
 Why don't you shut up?	Warum hältst du nicht den Mund?	आप अपना मुंह क्यों नहीं पकड़ते?
 Why don't you stop it?	Warum hörst du nicht damit auf?	आप क्यों नहीं रुकते?
