@@ -25588,3 +25588,12 @@ Have dinner with us.	Essen Sie mit uns zu Abend.	हमारे साथ र�
 Have you been there?	Bist du dort gewesen?	क्या तुम वहाँ जा चुके हो?
 Have you had dinner?	Hast du zu Abend gegessen?	क्या तुमने रात का खाना खाया है?
 Have you watched it?	Haben Sie es gesehen?	क्या आपने इसे देखा है?
+He abused our trust.	Er hat unser Vertrauen missbraucht.	उसने हमारे विश्वास का दुरुपयोग किया।
+He accepted my idea.	Er hat meine Idee akzeptiert.	उसने मेरे विचार को स्वीकार किया।
+He accepted the job.	Er hat den Job angenommen.	उसने नौकरी स्वीकार की।
+He already did that.	Er hat das bereits getan.	उसने यह पहले ही कर लिया है।
+He asked for a beer.	Er bat um ein Bier.	उसने एक बीयर मांगी।
+He became a pianist.	Er wurde Pianist.	उसने पियानिस्ट बन गया।
+He became irritated.	Er wurde gereizt.	उसने चिढ़ाना शुरू कर दिया।
+He began a new life.	Er begann ein neues Leben.	उसने एक नया जीवन शुरू किया।
+He bought a new car.	Er kaufte ein neues Auto.	उसने एक नई कार खरीदी।
