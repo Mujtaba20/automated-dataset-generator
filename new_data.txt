@@ -31300,3 +31300,10 @@ How did they do this?	Wie haben sie das gemacht?	उन्होंने यह
 How did you find Tom?	Wie hast du Tom gefunden?	तुमने टॉम को कैसे ढूंढा?
 How did you find out?	Wie hast du das herausgefunden?	तुम्हें पता कैसे चला?
 How did you get here?	Wie bist du hierher gekommen?	तुम यहाँ कैसे पहुंचे?
+How did you get hurt?	Wie bist du verletzt worden?	तुम्हें कैसे चोट आई?
+How did you help Tom?	Wie hast du Tom unterstützt?	तुमने टॉम की कैसे सहायता की?
+How did you make out?	Wie hast du es herausgefunden?	तुमने कैसे समझा?
+How did you meet Tom?	Wie hast du Tom getroffen?	तुमने टॉम से कैसे मिला?
+How did you see that?	Wie konntest du es sehen?	तुमने वह कैसे देखा?
+How did you two meet?	Wie habt ihr euch getroffen?	तुम दोनों कैसे मिले?
+How do parents do it?	Wie machen es Eltern?	माता-पिता ऐसे कैसे करते हैं?

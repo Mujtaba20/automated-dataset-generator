@@ -1,14 +1,4 @@
 
-How did you get hurt?	Wie hast du dir wehgetan?	आपने खुद को कैसे चोट पहुंचाई?
-How did you help Tom?	Wie hast du Tom geholfen?	आपने टॉम की मदद कैसे की?
-How did you help Tom?	Wie habt ihr Tom geholfen?	आपने टॉम की मदद कैसे की?
-How did you help Tom?	Wie haben Sie Tom geholfen?	आपने टॉम की मदद कैसे की?
-How did you make out?	Wie ist es dir so ergangen?	आपको ऐसा कैसा लगा?
-How did you meet Tom?	Wie hast du Tom kennengelernt?	आपको टॉम कैसे पता चला?
-How did you see that?	Wie hast du das gesehen?	आपने इसे कैसे देखा?
-How did you see that?	Wie haben Sie das gesehen?	आपने इसे कैसे देखा?
-How did you two meet?	Wie habt ihr beiden euch kennengelernt?	आपको एक दूसरे को कैसे पता चला?
-How do parents do it?	Wie kommen Eltern damit zurecht?	माता -पिता इसके साथ कैसे मिलते हैं?
 How do you know that?	Woher weißt du das?	आपको कैसे मालूम?
 How do you know this?	Woher weißt du das?	आपको कैसे मालूम?
 How do you like that?	Was hältst du davon?	आप इसके बारे में क्या सोचते हैं?
