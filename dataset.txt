@@ -1,14 +1,4 @@
 
-I didn't hit anyone.	Ich habe niemanden geschlagen.	मैंने किसी को नहीं मारा।
-I didn't lie to Tom.	Ich habe Tom nicht angelogen.	मैंने टॉम से झूठ नहीं बोला।
-I didn't lie to you.	Ich habe dich nicht angelogen.	मैने तुमसे झूठ नहीं बोला।
-I didn't lie to you.	Ich habe Sie nicht belogen.	मैंने उससे झूठ नहीं बोला।
-I didn't look at it.	Ich habe es mir nicht angesehen.	मैंने इसे नहीं देखा।
-I didn't notice Tom.	Ich habe Tom nicht bemerkt.	मैंने टॉम को नोटिस नहीं किया।
-I didn't order fish.	Ich habe keinen Fisch bestellt.	मैंने मछली का आदेश नहीं दिया।
-I didn't order them.	Ich habe sie nicht bestellt.	मैंने इसका आदेश नहीं दिया।
-I didn't order this.	Ich habe das nicht bestellt.	मैंने इसका आदेश नहीं दिया.
-I didn't poison Tom.	Ich habe Tom nicht vergiftet.	मैंने टॉम को जहर नहीं दिया।
 I didn't see anyone.	Ich hab keinen gesehen.	मैंने कोई नहीं देखा।
 I didn't sit by Tom.	Ich saß nicht neben Tom.	मैं टॉम के बगल में नहीं बैठा था।
 I didn't write back.	Ich habe nicht zurückgeschrieben.	मैंने नहीं लिखा।

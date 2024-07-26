@@ -26161,3 +26161,12 @@ I did no such thing.	Ich habe nichts Derartiges getan.	मैंने ऐसी
 I didn't expect you.	Ich hatte nicht mit dir gerechnet.	मैंने तुमसे उम्मीद नहीं रखी थी।
 I didn't forget you.	Ich habe dich nicht vergessen.	मैंने तुम्हें भूला नहीं।
 I didn't have a job.	Ich hatte keinen Job.	मेरे पास नौकरी नहीं थी।
+I didn't hit anyone.	Ich habe niemanden geschlagen.	मैंने किसी को नहीं मारा।
+I didn't lie to Tom.	Ich habe Tom nicht angelogen.	मैंने टॉम से झूठ नहीं बोला।
+I didn't lie to you.	Ich habe dir nicht gelogen.	मैंने तुम्हें झूठ नहीं बोला।
+I didn't look at it.	Ich habe nicht darauf geschaut.	मैंने इस पर नहीं देखा।
+I didn't notice Tom.	Ich habe Tom nicht bemerkt.	मैंने टॉम को नहीं देखा।
+I didn't order fish.	Ich habe keinen Fisch bestellt.	मैंने मछली नहीं मँगवाई।
+I didn't order them.	Ich habe sie nicht bestellt.	मैंने उन्हें नहीं मँगवाया।
+I didn't order this.	Ich habe das nicht bestellt.	मैंने यह नहीं मँगवाया।
+I didn't poison Tom.	Ich habe Tom nicht vergiftet.	मैंने टॉम को जहर नहीं दिया।
