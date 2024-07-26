@@ -24887,3 +24887,7 @@ You know I hate it.	Du weißt, dass ich es hasse.	तुम्हें पत�
 You know I'm right.	Du weißt, dass ich Recht habe.	तुम्हें पता है मैं सही हूँ।
 You know I'm wrong.	Du weißt, dass ich falsch liege.	तुम्हें पता है मैं गलत हूँ।
 You know how it is.	Du weißt, wie es ist.	तुम्हें पता है यह कैसा होता है।
+You know the drill.	Sie wissen, wie es geht.	तुम्हें पता है कि कैसे करना है।
+You know the rules.	Du kennst die Regeln.	तुम्हें नियम पता है।
+You like elephants.	Du magst Elefanten.	तुम्हें हाथीयों पसंद है।
+You live and learn.	Man lebt und lernt.	आप जीते रहो और सीखते रहो।

@@ -1,15 +1,4 @@
 
-You know the drill.	Du kennst den Ablauf ja.	आप इस प्रक्रिया को जानते हैं हाँ।
-You know the drill.	Sie kennen den Ablauf ja.	आप इस प्रक्रिया को जानते हैं।
-You know the drill.	Du weißt ja, wie es läuft.	आप जानते हैं कि यह कैसे काम करता है।
-You know the drill.	Sie wissen ja, wie es läuft.	आप जानते हैं कि यह कैसे काम करता है।
-You know the rules.	Du kennst die Regeln.	आप नियम जानते हैं।
-You know the rules.	Sie kennen die Regeln.	आप नियम जानते हैं।
-You know the rules.	Ihr kennt die Regeln.	आप नियम जानते हैं।
-You like elephants.	Du magst Elefanten.	आपको हाथी पसंद हैं।
-You live and learn.	Man lernt nie aus.	तुम कभी नहीं सीखते।
-You live and learn.	Man lernt nicht aus.	आप नहीं सीखते।
-You live and learn.	Man lernt nie aus!	तुम कभी नहीं सीखते!
 You look contented.	Du siehst zufrieden aus.	आप सामग्री दिखते हैं।
 You look contented.	Ihr seht zufrieden aus.	आप संतुष्ट दिखते हैं।
 You look contented.	Sie sehen zufrieden aus.	आप संतुष्ट दिखते हैं।
