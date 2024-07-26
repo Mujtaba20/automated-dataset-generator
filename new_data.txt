@@ -27771,3 +27771,13 @@ Pizza is on the way.	Pizza ist auf dem Weg.	पिज्जा रास्त�
 Play me some Chopin.	Spiel mir etwas von Chopin vor.	मेरे लिए कुछ चोपिन बजाओ।
 Please air the room.	Lassen Sie bitte frische Luft herein.	कृपया कमरे को हवादार करें।
 Please call me back.	Bitte rufen Sie mich zurück.	कृपया मुझे फिर से कॉल करें।
+Please call my wife.	Bitte rufen Sie meine Frau an.	कृपया मेरी पत्नी को कॉल करें।
+Please call my wife. 1	Bitte ruf meine Frau an.	कृपया मेरी पत्नी को फोन करें।
+Please call my wife. 2	Bitte telefoniere mit meiner Frau.	कृपया मेरी पत्नी को बुला लीजिए।
+Please come quickly.	Bitte komm schnell.	कृपया जल्दी आ जाओ।
+Please correct that.	Bitte korrigieren Sie das.	कृपया उसे सही करें।
+Please do something.	Bitte tu etwas.	कृपया कुछ करो।
+Please do something. 1	Bitte mach etwas.	कृपया कोई काम करो।
+Please do something. 2	Bitte tue etwas.	कृपया कोई कार्य करें।
+Please don't be mad.	Bitte sei nicht sauer.	कृपया गुस्सा मत होना।
+Please don't be sad.	Bitte sei nicht traurig.	कृपया उदास न हों।

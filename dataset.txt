@@ -1,15 +1,4 @@
 
-Please call my wife.	Bitte rufen Sie meine Frau an!	कृपया मेरी पत्नी को बुलाओ!
-Please call my wife.	Bitte ruf meine Frau an!	कृपया मेरी पत्नी को बुलाओ!
-Please call my wife.	Bitte ruft meine Frau an!	कृपया मेरी पत्नी को बुलाओ!
-Please come quickly.	Komm bitte schnell!	कृपया जल्दी आओ!
-Please correct that.	Bitte korrigieren Sie das.	कृपया इसे सही करें।
-Please do something.	Tu bitte etwas!	कृपया कुछ करो!
-Please do something.	Tun Sie bitte etwas!	कृपया कुछ करो!
-Please do something.	Tut bitte etwas!	कृपया कुछ करो!
-Please don't be mad.	Sei bitte nicht böse!	कृपया पागल मत बनो!
-Please don't be sad.	Sei nicht traurig, bitte.	आप उदास ना हों।
-Please don't be sad.	Bitte nicht traurig sein!	आप उदास ना हों!
 Please don't bother.	Bitte mach dir keine Mühe.	कृपया अपने आप को परेशान न करें।
 Please don't bother.	Bitte macht euch keine Mühe.	कृपया अपने आप को परेशान न करें।
 Please don't bother.	Bitte machen Sie sich keine Mühe.	कृपया अपने आप को परेशान न करें।
