@@ -33376,3 +33376,11 @@ She picked up a stone.	Sie nahm einen Stein auf.	उसने एक पत्�
 She plays the guitar.	Sie spielt die Gitarre.	वह गिटार बजाती है।
 She put down her pen.	Sie legte ihren Stift ab.	उसने अपना कलम रख दी।
 She quit the company.	Sie hat die Firma verlassen.	उसने कंपनी को छोड़ दिया।
+She raised her hands.	Sie hob ihre Hände.	उसने अपने हाथ उठाए।
+She raised her voice.	Sie erhob ihre Stimme.	उसने अपनी आवाज बुलंद की।
+She ran out of paper.	Ihr Papier ging zu Ende.	उसके पास कागज जल्दी समाप्त हो गया।
+She reached her goal.	Sie erreichte ihr Ziel.	उसने अपना लक्ष्य पूरा किया।
+She really hates him.	Sie hasst ihn wirklich.	उसे उससे वास्तव में नफरत है।
+She sang pretty well.	Sie sang recht gut.	उसने काफी अच्छा गाया।
+She sat on the bench.	Sie saß auf der Bank.	उसने बेंच पर बैठा।
+She seems to be sick.	Sie scheint krank zu sein.	लगता है कि वह बीमार है।
