@@ -32715,3 +32715,13 @@ Is that a good thing?	Ist das eine gute Sache?	क्या वह एक अच
 Is that all you have?	Ist das alles, was du hast?	क्या यही तुम्हारे पास है?
 Is that all you want?	Ist das alles, was du willst?	क्या वह है जो तुम चाहते हो?
 Is that answer right?	Ist die Antwort richtig?	क्या वह जवाब सही है?
+Is that possible now?	Ist das jetzt möglich?	क्या यह अब संभव है?
+Is that where Tom is?	Ist das, wo Tom ist?	क्या वहाँ है जहाँ टॉम है?
+Is that why I'm here?	Ist das der Grund, warum ich hier bin?	क्या यह वह कारण है जिसके लिए मैं यहाँ हूँ?
+Is that why you came?	Ist das der Grund, warum du gekommen bist?	क्या यह वह कारण है जिसके लिए तुम आए हो?
+Is that your bicycle?	Ist das dein Fahrrad?	क्या यह तुम्हारी साईकिल है?
+Is that your brother?	Ist das dein Bruder?	क्या यह तुम्हारा भाई है?
+Is that your husband?	Ist das dein Ehemann?	क्या यह तुम्हारा पति है?
+Is the cat all right?	Geht es der Katze gut?	बिल्ली ठीक है?
+Is the lemonade good?	Ist der Limonade gut?	लेमनेड अच्छा है?
+Is the phone ringing?	Klingelt das Telefon?	क्या फोन बज रहा है?
