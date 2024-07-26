@@ -41284,3 +41284,10 @@ What else did you say?	Was hast du noch gesagt?	तुमने क्या औ
 What else did you see?	Was hast du sonst gesehen?	तुमने क्या और देखा था?
 What else do you have?	Was hast du noch?	तुम्हारे पास क्या है?
 What else do you know?	Was weißt du noch?	तुम्हें क्या और पता है?
+What else do you need?	Was brauchst du sonst noch?	तुम्हें और क्या चाहिए?
+What good would it do?	Was bringt das schon?	यह कितना अच्छा होगा?
+What grade are you in?	In welcher Klasse bist du?	आप किस कक्षा में हैं?
+What happens tomorrow?	Was passiert morgen?	कल क्या होगा?
+What has Tom done now?	Was hat Tom diesmal gemacht?	अब टॉम ने क्या किया है?
+What have we got here?	Was haben wir hier?	हमारे यहाँ क्या है?
+What have you decided?	Was hast du entschieden?	तुमने क्या निर्णय लिया है?
