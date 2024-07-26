@@ -1,15 +1,4 @@
 
-Does she speak English?	Spricht sie Englisch?	क्या वह अंग्रेज़ी बोलती है?
-Does that frighten you?	Beängstigt dich das?	क्या वह डरावना है?
-Does that frighten you?	Macht dir das Angst?	क्या वह निशान है?
-Does that frighten you?	Macht euch das Angst?	क्या वह निशान है?
-Does that frighten you?	Macht Ihnen das Angst?	क्या यह आपको डर है?
-Does that make you sad?	Betrübt dich das?	क्या वह दुखी है?
-Does that surprise you?	Überrascht dich das?	यह आपको आश्चर्यचकित करता है?
-Does the bus stop here?	Hält der Bus hier?	क्या बस यहाँ रखती है?
-Does this sound stupid?	Hört sich das doof an?	क्या वह ध्वनि बेवकूफी है?
-Does your stomach hurt?	Hast du Bauchschmerzen?	क्या आपको पेट दर्द है?
-Does your stomach hurt?	Haben Sie Magenschmerzen?	क्या आपको पेट में दर्द है?
 Doesn't Tom like girls?	Mag Tom keine Mädchen?	क्या लड़कियों को पसंद नहीं है?
 Doesn't Tom like girls?	Gefallen Tom keine Mädchen?	क्या आपको टॉम नो गर्ल्स पसंद है?
 Dogs are loyal animals.	Hunde sind treue Tiere.	कुत्ते वफादार जानवर हैं।
