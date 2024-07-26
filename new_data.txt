@@ -33961,3 +33961,13 @@ This isn't my wallet.	Das ist nicht meine Brieftasche.	यह मेरा ब�
 This isn't necessary.	Das ist nicht notwendig.	यह आवश्यक नहीं है।
 This knife cuts well.	Dieses Messer schneidet gut.	यह चाकू अच्छे से काटता है।
 This letter's for me.	Dieser Brief ist für mich.	यह पत्र मेरे लिए है।
+This makes her angry.	Das macht sie wütend.	यह उसे गुस्सा दिलाता है।
+This makes me so mad.	Das macht mich so wütend.	यह मुझे इतना गुस्सा दिलाता है।
+This makes me so sad.	Das macht mich so traurig.	यह मुझे इतना उदास करता है।
+This means something.	Das bedeutet etwas.	इसका कुछ मतलब होता है।
+This meat smells bad.	Dieses Fleisch riecht schlecht.	यह मांस बुरा खुशबूदार है।
+This might just work.	Das könnte einfach funktionieren.	यह बस काम कर सकता है।
+This milk tastes odd.	Diese Milch schmeckt seltsam.	यह दूध अजीब लगता है।
+This movie is boring.	Dieser Film ist langweilig.	यह फिल्म बोरिंग है।
+This must be changed.	Das muss geändert werden.	यह बदला जाना चाहिए।
+This must be my book.	Das muss mein Buch sein.	यह मेरी किताब होगी।
