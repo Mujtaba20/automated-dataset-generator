@@ -35009,3 +35009,12 @@ Tom was very popular. (different meaning)	Tom war sehr populär.	टॉम ब�
 Tom was very puzzled.	Tom war sehr verwirrt.	टॉम बहुत उलझा हुआ था।
 Tom was very relaxed.	Tom war sehr entspannt.	टॉम बहुत आराम से था।
 Tom was very selfish.	Tom war sehr egoistisch.	टॉम बहुत स्वार्थी था।
+Tom was very thirsty.	Tom war sehr durstig.	टॉम बहुत प्यासा था।
+Tom was very unhappy.	Tom war sehr unglücklich.	टॉम बहुत अदूर था।
+Tom was very unlucky.	Tom hatte sehr viel Pech.	टॉम के साथ बहुत अशुभ घटित हुआ।
+Tom was very worried.	Tom machte sich sehr viele Sorgen.	टॉम बहुत चिंतित था।
+Tom was worried sick.	Tom war vor Sorge krank.	टॉम बीमारी की चिंता कर रहा था।
+Tom washed his hands.	Tom wusch sich die Hände.	टॉम ने अपने हाथ धोए।
+Tom wasn't a soldier.	Tom war kein Soldat.	टॉम एक सैनिक नहीं था।
+Tom wasn't a teacher.	Tom war kein Lehrer.	टॉम एक शिक्षक नहीं था।
+Tom wasn't behind me.	Tom war nicht hinter mir.	टॉम मेरे पीछे नहीं था।

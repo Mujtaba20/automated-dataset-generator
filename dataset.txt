@@ -1,14 +1,4 @@
 
-Tom was very thirsty.	Tom war sehr durstig.	टॉम बहुत प्यासा था।
-Tom was very unhappy.	Tom war sehr unglücklich.	टॉम बहुत दुखी था।
-Tom was very unlucky.	Tom war sehr unglücklich.	टॉम बहुत दुखी था।
-Tom was very worried.	Tom war sehr besorgt.	टॉम बहुत चिंतित था।
-Tom was worried sick.	Tom war ganz krank vor Sorge.	टॉम चिंता से बहुत बीमार था।
-Tom washed his hands.	Tom hat sich die Hände gewaschen.	टॉम ने अपने हाथ धोए हैं।
-Tom washed his hands.	Tom wusch sich die Hände.	टॉम ने अपने हाथ धोए।
-Tom wasn't a soldier.	Tom war kein Soldat.	टॉम सिपाही नहीं था।
-Tom wasn't a teacher.	Tom war kein Lehrer.	टॉम शिक्षक नहीं थे।
-Tom wasn't behind me.	Tom war nicht hinter mir.	टॉम मेरे पीछे नहीं था।
 Tom wasn't even hurt.	Tom wurde nicht einmal verletzt.	टॉम भी घायल नहीं हुए थे।
 Tom wasn't like that.	Tom war nicht so.	टॉम ऐसा नहीं था।
 Tom wasn't listening.	Tom hörte nicht zu.	टॉम ने नहीं सुना।
