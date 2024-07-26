@@ -30480,3 +30480,11 @@ Can I speak with Tom?	Kann ich mit Tom sprechen?	क्या मैं टॉ�
 Can I take a day off?	Kann ich einen Tag frei nehmen?	क्या मैं एक दिन के लिए छुट्टी ले सकता हूँ?
 Can I take a message?	Kann ich eine Nachricht entgegennehmen?	क्या मैं एक संदेश ले सकता हूँ?
 Can I turn on the TV?	Kann ich den Fernseher einschalten?	क्या मैं टीवी चालू कर सकता हूँ?
+Can I use your phone?	Kann ich dein Telefon benutzen?	क्या मैं आपका फ़ोन उपयोग कर सकता हूँ?
+Can Tom speak French?	Kann Tom Französisch sprechen?	क्या टॉम फ्रेंच बोल सकता है?
+Can Tom teach French?	Kann Tom Französisch unterrichten?	क्या टॉम को फ्रेंच कराना आता है?
+Can he speak English?	Kann er Englisch sprechen?	क्या वह अंग्रेजी बोल सकता है?
+Can plants feel pain?	Können Pflanzen Schmerz empfinden?	क्या पौधे दर्द महसूस कर सकते हैं?
+Can she come in time?	Kann sie rechtzeitig kommen?	क्या वह समय पर आ सकती है?
+Can somebody help me?	Kann mir jemand helfen?	क्या कोई मेरी मदद कर सकता है?
+Can we afford it now?	Können wir es uns jetzt leisten?	क्या हम अब यह कर सकते हैं?
