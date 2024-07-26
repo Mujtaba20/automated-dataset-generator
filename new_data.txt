@@ -39555,3 +39555,13 @@ The sun is rising now.	Die Sonne geht jetzt auf.	सूरज अब उग र�
 The sun will soon set.	Die Sonne wird bald untergehen.	सूरज जल्द ही अस्त हो जाएगा।
 The surgery went well.	Die Operation ist gut verlaufen.	ऑपरेशन अच्छी तरह से हुआ।
 The suspect confessed.	Der Verdächtige gestand.	संदेही ने स्वीकार किया।
+The thief ran quickly.	Der Dieb rannte schnell.	चोर जल्दी भागा।
+The three men laughed.	Die drei Männer lachten.	तीन आदमी हँसे।
+The toilet overflowed.	Die Toilette lief über.	शौचालय बह गया।
+The town was deserted.	Die Stadt war verlassen.	शहर उदास था।
+The train has arrived.	Der Zug ist angekommen.	ट्रेन आ गई है।
+The treaty was signed.	Der Vertrag wurde unterzeichnet.	समझौता हस्ताक्षर किया गया था।
+The typhoon hit Tokyo.	Der Taifun traf Tokio.	ताइफून टोक्यो पर गिरा।
+The waiter ignored me.	Der Kellner hat mich ignoriert.	वेटर ने मुझे नजरअंदाज किया।
+The war ended in 1945.	Der Krieg endete 1945.	युद्ध १९४५ में समाप्त हुआ।
+The war ended in 1954.	Der Krieg endete 1954.	युद्ध १९५४ में समाप्त हुआ।

@@ -1,15 +1,4 @@
 
-The thief ran quickly.	Der Dieb rannte schnell.	चोर जल्दी से भाग गया।
-The three men laughed.	Die drei Männer lachten.	तीनों लोग हँसे।
-The toilet overflowed.	Die Toilette war überflutet.	शौचालय में बाढ़ आ गई थी।
-The town was deserted.	Die Stadt war verlassen.	शहर को छोड़ दिया गया था।
-The train has arrived.	Der Zug ist da.	ट्रेन है।
-The treaty was signed.	Der Vertrag wurde unterschrieben.	अनुबंध पर हस्ताक्षर किए गए थे।
-The typhoon hit Tokyo.	Der Taifun traf auf Tokio.	टाइफून टोक्यो से मिला।
-The waiter ignored me.	Der Kellner ignorierte mich.	वेटर ने मुझे नजरअंदाज कर दिया।
-The war ended in 1945.	Der Krieg endete 1945.	युद्ध 1945 में समाप्त हुआ।
-The war ended in 1954.	Der Krieg endete neunzehnhundertvierundfünfzig.	युद्ध उन्नीस सौ पचास -फोर समाप्त हो गया।
-The war ended in 1954.	Der Krieg war 1954 zu Ende.	युद्ध 1954 में समाप्त हुआ।
 The water is lukewarm.	Das Wasser ist lauwarm.	पानी गुनगुना है।
 The whale is a mammal.	Der Walfisch ist ein Säugetier.	व्हेल एक स्तनपायी है।
 The windows were open.	Die Fenster standen offen.	खिड़कियां खुली थीं।
