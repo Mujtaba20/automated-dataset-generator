@@ -26896,3 +26896,9 @@ I'd like to say yes.	Ich würde gerne Ja sagen.	मैं हाँ कहना
 I'd like to see Tom.	Ich würde gerne Tom sehen.	मैं टॉम को देखना चाहूँगा।
 I'd like to see her.	Ich würde sie gerne sehen.	मुझे उसे देखना है।
 I'd like to see you.	Ich würde dich gerne sehen.	मैं तुम्हें देखना चाहूँगा।
+I'd love to see you.	Ich würde dich gerne besuchen.	मुझे तुम्हें देखना पसंद है।
+I'd prefer red wine.	Ich hätte lieber Rotwein.	मैं लाल वाइन पसंद करूँगा।
+I'd rather not know.	Ich möchte lieber nicht wissen.	मैं पसंद करूँगा कि मुझे पता न हो।
+I'll always be here.	Ich werde immer hier sein.	मैं हमेशा यहाँ रहूँगा।
+I'll be around back.	Ich bin hinten in der Nähe.	मैं पीछे हूँ आसपास।
+I'll be back at six.	Ich werde um sechs zurück sein.	मैं छे बजे वापस आऊँगा।
