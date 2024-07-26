@@ -41291,3 +41291,4 @@ What happens tomorrow?	Was passiert morgen?	कल क्या होगा?
 What has Tom done now?	Was hat Tom diesmal gemacht?	अब टॉम ने क्या किया है?
 What have we got here?	Was haben wir hier?	हमारे यहाँ क्या है?
 What have you decided?	Was hast du entschieden?	तुमने क्या निर्णय लिया है?
+engSentence	{'What he did was wrong.': 'Was er getan hat, war falsch.', 'What horrible weather!': 'Was für schreckliches Wetter!', 'What if Tom finds out?': 'Was ist, wenn Tom es herausfindet?', 'What is going on here?': 'Was passiert hier?', 'What is the cat up to?': 'Was macht die Katze?'}	{'What he did was wrong.': 'उसने जो किया, वह गलत था।', 'What if Tom was right?': 'अगर टॉम सही था तो?', "What if they're wrong?": 'अगर वे गलत हैं तो?', 'What is going on here?': 'यहाँ क्या हो रहा है?', 'What is the diagnosis?': 'निदान क्या है?'}
