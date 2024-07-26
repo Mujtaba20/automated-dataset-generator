@@ -26202,3 +26202,13 @@ I don't know either.	Ich weiß auch nicht.	मुझे भी नहीं प�
 I don't like French.	Ich mag kein Französisch.	मुझे फ्रेंच पसंद नहीं है।
 I don't like apples.	Ich mag keine Äpfel.	मुझे सेब पसंद नहीं हैं।
 I don't like cheese.	Ich mag keinen Käse.	मुझे पनीर पसंद नहीं है।
+I don't like coffee.	Ich mag keinen Kaffee.	मुझे कॉफ़ी पसंद नहीं है।
+I don't like flying.	Ich mag nicht fliegen.	मुझे उड़ान मनगढ़ंत है।
+I don't like losing.	Ich mag es nicht zu verlieren.	मुझे हारना पसंद नहीं है।
+I don't like movies.	Ich mag keine Filme.	मुझे फ़िल्में पसंद नहीं हैं।
+I don't like my dog.	Ich mag meinen Hund nicht.	मुझे मेरा कुत्ता पसंद नहीं है।
+I don't like my job.	Ich mag meinen Job nicht.	मुझे मेरा काम पसंद नहीं है।
+I don't like onions.	Ich mag keine Zwiebeln.	मुझे प्याज़ पसंद नहीं हैं।
+I don't like school.	Ich mag die Schule nicht.	मुझे स्कूल पसंद नहीं है।
+I don't like soccer.	Ich mag keinen Fußball.	मुझे फुटबॉल पसंद नहीं है।
+I don't like spring.	Ich mag den Frühling nicht.	मुझे बसंत पसंद नहीं है।

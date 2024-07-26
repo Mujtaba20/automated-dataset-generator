@@ -1,14 +1,4 @@
 
-I don't like coffee.	Ich mag keinen Kaffee.	मुझे कॉफी पसंद नहीं है।
-I don't like flying.	Ich fliege nicht gern.	मुझे उड़ना पसंद नहीं है।
-I don't like losing.	Ich verliere nicht gern.	मुझे हारना पसंद नहीं है।
-I don't like movies.	Ich mag keine Filme.	मुझे फिल्में पसंद नहीं हैं।
-I don't like my dog.	Ich mag meinen Hund nicht.	मुझे अपना कुत्ता पसंद नहीं है।
-I don't like my job.	Ich mag meine Arbeit nicht.	मुझे अपना काम पसंद नहीं है।
-I don't like onions.	Ich mag keine Zwiebeln.	मुझे प्याज पसंद नहीं है।
-I don't like school.	Ich mag die Schule nicht.	मुझे स्कूल पंसद नहीं है।
-I don't like soccer.	Fußball gefällt mir nicht.	मुझे फुटबॉल पसंद नहीं है।
-I don't like spring.	Ich mag den Frühling nicht.	मुझे स्प्रिंग पसंद नहीं है।
 I don't like summer.	Ich mag den Sommer nicht.	मुझे गर्मी पसंद नहीं है।
 I don't like to fly.	Ich fliege nicht gern.	मुझे उड़ना पसंद नहीं है।
 I don't like to run.	Ich laufe nicht gern.	मुझे दौड़ना पसंद नहीं।
