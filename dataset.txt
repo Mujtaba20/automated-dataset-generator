@@ -1,14 +1,4 @@
 
-Whose bicycle is that?	Wessen Fahrrad ist das?	वह किसकी बाइक है?
-Whose bicycle is this?	Wem gehört dieses Fahrrad?	इस बाइक का मालिक कौन है?
-Whose bicycle is this?	Wessen Fahrrad ist das?	वह किसकी बाइक है?
-Whose books are these?	Wessen Bücher sind das?	किसकी किताबें हैं?
-Whose books are these?	Wem gehören diese Bücher?	ये किताबें किसकी हैं?
-Whose books are these?	Wessen Bücher sind dies?	यह किसकी किताबें हैं?
-Whose books are those?	Wessen Bücher sind das?	किसकी किताबें हैं?
-Whose handbag is this?	Wessen Handtasche ist das?	किसका हैंडबैग है?
-Whose is this bicycle?	Wem gehört dieses Fahrrad?	इस बाइक का मालिक कौन है?
-Whose is this bicycle?	Wessen Fahrrad ist das?	वह किसकी बाइक है?
 Whose side are you on?	Auf wessen Seite stehst du?	आप किसकी तरफ खड़े हैं?
 Whose side are you on?	Auf wessen Seite stehen Sie?	आप किसके पक्ष में हैं?
 Whose side are you on?	Auf wessen Seite steht ihr?	आप किसके पक्ष में हैं?

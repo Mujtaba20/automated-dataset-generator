@@ -41483,3 +41483,9 @@ Who's paying for this?	Wer zahlt das?	इसके लिए कौन भुग
 Who's waiting for Tom?	Wer wartet auf Tom?	टॉम का इंतजार किसे है?
 Who's working tonight?	Wer arbeitet heute Abend?	आज रात कौन काम कर रहा है?
 Who's your girlfriend?	Wer ist deine Freundin?	तेरी गर्लफ्रेंड कौन है?
+Whose bicycle is that?	Wessen Fahrrad ist das?	वह किसकी साइकिल है?
+Whose bicycle is this?	Wessen Fahrrad ist das?	यह किसकी साइकिल है?
+Whose books are these?	Wessen Bücher sind das?	ये किसकी किताबें हैं?
+Whose books are those?	Wessen Bücher sind das?	वो किसकी किताबें हैं?
+Whose handbag is this?	Wessen Handtasche ist das?	ये किसका हैंडबैग है?
+Whose is this bicycle?	Wessen ist dieses Fahrrad?	यह किसकी साइकिल है?
