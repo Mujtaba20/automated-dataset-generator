@@ -21898,3 +21898,8 @@ I'm a lousy singer.	Ich bin eine miese Sängerin.	मैं एक बेका�
 I'm a photographer.	Ich bin Fotograf.	मैं फोटोग्राफर हूँ।
 I'm a screenwriter.	Ich bin Drehbuchautor.	मैं एक स्क्रीनराइटर हूं।
 I'm a slow learner.	Ich lerne langsam.	मैं धीरे सीखनेवाला हूँ।
+I'm a student here.	Ich bin hier Student.	मैं यहाँ छात्र हूँ।
+I'm a teacher, too.	Ich bin auch Lehrer.	मैं भी एक शिक्षक हूँ।
+I'm a tourist, too.	Ich bin auch Tourist.	मैं भी पर्यटक हूँ।
+I'm a truck driver.	Ich bin Lastwagenfahrer.	मैं ट्रक ड्राइवर हूँ।
+I'm afraid for you.	Ich habe Angst um dich.	मैं तुम्हें डरती हूँ।

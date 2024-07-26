@@ -1,14 +1,4 @@
 
-I'm a student here.	Ich bin hier Student.	मैं यहां एक छात्र हूं।
-I'm a teacher, too.	Ich bin auch Lehrer.	मैं एक शिक्षक भी हूं।
-I'm a tourist, too.	Ich bin auch ein Tourist.	मैं भी एक पर्यटक हूं।
-I'm a truck driver.	Ich bin Lastwagenfahrer.	मैं एक ट्रक ड्राइवर हूं।
-I'm a truck driver.	Ich bin Lasterfahrer.	मैं एक वाइस ड्राइवर हूं।
-I'm a truck driver.	Ich bin Lastwagenfahrerin.	मैं एक ट्रक ड्राइवर हूं।
-I'm a truck driver.	Ich bin Lasterfahrerin.	मैं एक लोड ड्राइवर हूं।
-I'm afraid for you.	Ich habe Angst um dich.	मुझे तुम्हारे लिए डर है।
-I'm afraid for you.	Ich habe Angst um Sie.	मुझे तुम्हारे लिए डर है।
-I'm afraid for you.	Ich habe Angst um euch.	मुझे आपके लिए डर है।
 I'm afraid of dogs.	Ich habe Furcht vor Hunden.	मैं कुत्तों के डर लगता है।
 I'm afraid of dogs.	Ich fürchte mich vor Hunden.	मैं कुत्तों के डर लगता है।
 I'm afraid of dogs.	Ich habe Angst vor Hunden.	मुझे कुत्तों से डर लगता है।
