@@ -1,14 +1,4 @@
 
-You have a message.	Du hast eine Nachricht.	आपको एक संदेश मिला है.
-You have a problem.	Du hast ein Problem.	आपको एक समस्या है।
-You have a visitor.	Du hast Besuch.	आपकी एक यात्रा है।
-You have a visitor.	Ihr habt Besuch.	आपकी एक यात्रा है।
-You have a visitor.	Sie haben Besuch.	आपकी एक यात्रा है।
-You have cute eyes.	Du hast süße Augen.	आपकी प्यारी आँखें हैं।
-You have done well.	Das hast du gut gemacht.	आपने अच्छा किया।
-You have him there.	Du hast ihn dort.	आपके पास यह वहां है।
-You have him there.	Sie haben ihn dort.	आपके पास यह वहां है।
-You have him there.	Ihr habt ihn dort.	आपके पास यह वहां है।
 You have my thanks.	Du hast meinen Dank.	आपके पास मेरा धन्यवाद है।
 You have nice skin.	Du hast schöne Haut.	आपकी सुंदर त्वचा है।
 You have no choice.	Du hast keine Wahl.	आपके पास कोई विकल्प नहीं है।
