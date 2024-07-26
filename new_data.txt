@@ -32064,3 +32064,12 @@ I rejected the offer. - Different meaning	Das Angebot wurde von mir abgelehnt.	�
 I reluctantly agreed.	Ich stimmte widerwillig zu.	मैंने अनिच्छापूर्वक सहमति दी।
 I respect your views.	Ich respektiere deine Meinung.	मैं आपके विचार का सम्मान करता हूँ।
 I said don't do that.	Ich habe gesagt, mach das nicht.	मैंने कहा, ऐसा मत करो।
+I said drop your gun!	Ich sagte, lass deine Waffe fallen!	मैंने कहा अपनी गोली गिरा दो!
+I said that ages ago.	Das habe ich vor langer Zeit gesagt.	मैंने उसकी उम्र की बात कही थी।
+I said we'll get one.	Ich sagte, wir werden einen bekommen.	मैंने कहा हम एक पाएंगे।
+I sat there with Tom.	Ich saß dort mit Tom.	मैं वहां टॉम के साथ बैठा था।
+I saw Tom on the bus.	Ich sah Tom im Bus.	मैंने बस में टॉम को देखा।
+I saw a sleeping dog.	Ich sah einen schlafenden Hund.	मैंने एक सोते हुए कुत्ते को देखा।
+I saw her a week ago.	Ich habe sie vor einer Woche gesehen.	मैंने उसे एक हफ्ते पहले देखा।
+I saw it on the news.	Ich habe es in den Nachrichten gesehen.	मैंने इसे समाचारों में देखा।
+I saw nothing at all.	Ich habe überhaupt nichts gesehen.	मैंने बिल्कुल कुछ नहीं देखा।
