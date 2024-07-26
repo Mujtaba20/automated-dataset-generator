@@ -37069,3 +37069,10 @@ How was your birthday?	Wie war dein Geburtstag?	तुम्हारा जन�
 How will you help Tom?	Wie wirst du Tom helfen?	तुम टॉम की मदद कैसे करोगे?
 How're you doing, Tom?	Wie geht's dir, Tom?	तोम, तुम कैसे हो?
 I accept your apology.	Ich akzeptiere deine Entschuldigung.	मैं तुम्हारी माफी स्वीकार करता हूँ.
+I admire your bravery.	Ich bewundere deine Tapferkeit.	मैं तुम्हारी बहादुरी की सराहना करता हूँ।
+I admire your courage.	Ich bewundere deinen Mut.	मैं तुम्हारे साहस की सराहना करता हूँ।
+I agree it's not easy.	Ich stimme zu, es ist nicht einfach.	मैं सहमत हूँ कि यह आसान नहीं है।
+I agree to your terms.	Ich stimme deinen Bedingungen zu.	मैं आपकी शर्तों से सहमत हूँ।
+I agree with his plan.	Ich stimme seinem Plan zu.	मैं उसकी योजना से सहमत हूँ।
+I already feel better.	Ich fühle mich schon besser.	मैं पहले से ही बेहतर महसूस कर रहा हूँ।
+I already have a plan.	Ich habe bereits einen Plan.	मेरे पास पहले से ही एक योजना है।
