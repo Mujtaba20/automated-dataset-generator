@@ -1,16 +1,4 @@
 
-Do you have a camera?	Hast du einen Fotoapparat?	आपके पास कैमरा है?
-Do you have a family?	Hast du eine Familie?	क्या आपका परिवार है?
-Do you have a family?	Habt ihr eine Familie?	क्या आपका परिवार है?
-Do you have a family?	Haben Sie eine Familie?	क्या आपका परिवार है?
-Do you have a garden?	Hast du einen Garten?	क्या आपके पास एक बगीचा है?
-Do you have a helmet?	Hast du einen Helm?	क्या आपके पास हेलमेट है?
-Do you have a minute?	Hast du kurz Zeit?	क्या आपके पास कम समय है?
-Do you have a minute?	Habt ihr kurz Zeit?	क्या आपके पास कम समय है?
-Do you have a minute?	Haben Sie kurz Zeit?	क्या आप के पास कुछ वक़्त है?
-Do you have a moment?	Hast du kurz Zeit?	क्या आपके पास कम समय है?
-Do you have a moment?	Habt ihr kurz Zeit?	क्या आपके पास कम समय है?
-Do you have a moment?	Haben Sie kurz Zeit?	क्या आप के पास कुछ वक़्त है?
 Do you have a pencil?	Hast du einen Bleistift?	क्या तुम्हारे पास एक पेंसिल है?
 Do you have a second?	Hast du kurz Zeit?	क्या आपके पास कम समय है?
 Do you have a second?	Hast du mal eine Sekunde Zeit?	क्या आपके पास दूसरा है?

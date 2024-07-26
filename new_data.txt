@@ -30651,3 +30651,9 @@ Do you feel up to it?	Fühlst du dich danach?	क्या आप उससे �
 Do you feel up to it?_2	Fühlst du dich bereit dafür?	क्या आप इसके लिए तैयार महसूस करते हैं?
 Do you feel up to it?_3	Fühlst du dich stark genug dafür?	क्या आप इसके लिए पूरी तरह से तैयार महसूस करते हैं?
 Do you go to college?	Gehst du zur Universität?	क्या आप कॉलेज जाते हैं?
+Do you have a camera?	Hast du eine Kamera?	क्या आपके पास कैमरा है?
+Do you have a family?	Hast du eine Familie?	क्या आपके पास परिवार है?
+Do you have a garden?	Hast du einen Garten?	क्या आपके पास एक बगीचा है?
+Do you have a helmet?	Hast du einen Helm?	क्या आपके पास एक हेलमेट है?
+Do you have a minute?	Hast du eine Minute?	क्या आपके पास एक मिनट है?
+Do you have a moment?	Hast du einen Moment?	क्या आपके पास एक क्षण है?
