@@ -1,16 +1,4 @@
 
-You've frightened Tom.	Du hast Tom verängstigt.	आपने टॉम को भयभीत किया।
-You've got each other.	Ihr habt einander.	आपके पास एक -दूसरे हैं।
-You've got me curious.	Du hast mich neugierig gemacht.	आपने मुझे उत्सुक बनाया।
-You've got me curious.	Sie haben mich neugierig gemacht.	उन्होंने मुझे उत्सुक बना दिया।
-You've got me curious.	Ihr habt mich neugierig gemacht.	आपने मुझे उत्सुक बनाया।
-You've got me stumped.	Da bin ich überfragt.	मुझे पता नहीं।
-You've got some nerve.	Du hast vielleicht Nerven!	आपके पास नसें हो सकती हैं!
-You've got some nerve.	Ihr habt vielleicht Nerven!	आप कष्टप्रद हो सकते हैं!
-You've got some nerve.	Sie haben vielleicht Nerven!	आप कष्टप्रद हो सकते हैं!
-You've got to do this.	Du musst das tun.	आपको ऐसा करना होगा।
-You've got to do this.	Sie müssen das tun.	आपको ऐसा करना होगा।
-You've got to do this.	Ihr müsst das tun.	आपको ऐसा करना होगा।
 You've got to go home.	Ihr müsst nach Hause.	आपको घर जाना है।
 You've got to go home.	Sie müssen nach Hause.	आपको घर जाना है।
 You've got to go home.	Du musst nach Hause.	आपको घर जाना है।
