@@ -27845,3 +27845,10 @@ Send the bill to me.	Schicken Sie mir die Rechnung.	मुझे बिल भ�
 Shall we take a cab?	Sollen wir ein Taxi nehmen?	क्या हम टैक्सी लें?
 She agreed with him.	Sie stimmte ihm zu.	उसने उसके साथ सहमति दी।
 She baked me a cake.	Sie hat mir einen Kuchen gebacken.	उसने मुझे एक केक बनाया।
+She became a doctor.	Sie wurde Ärztin.	उसने डॉक्टर बन गई।
+She became a singer.	Sie wurde Sängerin.	उसने गायिका बन गई।
+She became very ill.	Sie wurde sehr krank.	उसने बहुत बीमार हो गई।
+She blackmailed him.	Sie erpresste ihn.	उसने उसको ब्लैकमेल किया।
+She boiled the eggs.	Sie kochte die Eier.	उसने अंडे उबाले।
+She called for help.	Sie rief um Hilfe.	उसने मदद के लिए बुलाया।
+She came out on top.	Sie kam als Siegerin heraus.	उसको सबसे ऊपर आना था।
