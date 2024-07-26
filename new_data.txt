@@ -37767,3 +37767,12 @@ I plan on being early.	Ich plane, früh zu kommen.	मैं जल्दी आ
 I postponed the event.	Ich habe die Veranstaltung verschoben.	मैंने आयोजन को स्थगित कर दिया।
 I prefer cats to dogs.	Ich bevorzuge Katzen gegenüber Hunden.	मैं कुत्तों की तुलना में बिल्लियों को पसंद करता हूँ।
 I prefer fish to meat.	Ich ziehe Fisch Fleisch vor.	मैं मांस की तुलना में मछली को पसंद करता हूँ।
+I prefer to eat alone.	Ich ziehe es vor, alleine zu essen.	मैं अकेले खाना पसंद करता हूँ।
+I promise not to sing.	Ich verspreche nicht zu singen.	मैं गाने का वादा नहीं करता।
+I put it in your room.	Ich habe es in dein Zimmer gelegt.	मैंने उसे आपके कमरे में रख दिया।
+I ran a race with Tom.	Ich bin mit Tom ein Rennen gelaufen.	मैंने टॉम के साथ रेस दौड़ी।
+I ran to the bus stop.	Ich bin zur Bushaltestelle gerannt.	मैंने बस स्टॉप तक दौड़ा।
+I rarely catch a cold.	Ich bekomme selten eine Erkältung.	मुझे शांति मिलती है।
+I rarely get visitors.	Ich bekomme selten Besuch.	मेरे पास अत्यधिक आगंतुक नहीं होते।
+I rarely walk to work.	Ich gehe selten zu Fuß zur Arbeit.	मैं अक्सर काम पर चलकर नहीं जाता।
+I read a lot of books.	Ich lese viele Bücher.	मैंने कई किताबें पढ़ी हैं।

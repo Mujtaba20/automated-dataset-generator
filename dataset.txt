@@ -1,14 +1,4 @@
 
-I prefer to eat alone.	Ich ziehe es vor, allein zu essen.	मैं अकेले खाना पसंद करता हूं।
-I promise not to sing.	Ich verspreche, nicht zu singen.	मैं गाने का वादा करता हूं।
-I put it in your room.	Ich hab's in dein Zimmer getan.	मैंने इसे आपके कमरे में किया।
-I ran a race with Tom.	Ich lief mit Tom um die Wette.	मैं टॉम के साथ इधर -उधर भाग गया।
-I ran to the bus stop.	Ich rannte zur Bushaltestelle.	मैं बस स्टॉप पर भाग गया।
-I rarely catch a cold.	Ich erkälte mich selten.	मैं शायद ही कभी ठंडा हो।
-I rarely get visitors.	Ich bekomme nur selten Besuch.	मुझे शायद ही कभी कोई यात्रा मिलती है।
-I rarely walk to work.	Ich gehe selten zu Fuß zur Arbeit.	मैं शायद ही कभी पैदल काम पर जाता हूं।
-I read a lot of books.	Ich lese viele Bücher.	मैं पढ़ता बहुत सी किताबें पढ़ता हूँ।
-I read a lot of books.	Ich habe viele Bücher gelesen.	मैं पढ़ता बहुत सी किताबें पढ़ता हूँ।
 I really am very busy.	Ich bin wirklich sehr beschäftigt.	मैं वास्तव में बहुत व्यस्त हूं।
 I really do want that.	Das will ich unbedingt.	मैं वास्तव में ऐसा चाहता हूं।
 I really enjoyed that.	Ich habe es in der Tat genossen.	मैंने वास्तव में इसका आनंद लिया।
