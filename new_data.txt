@@ -31758,3 +31758,10 @@ I have four brothers.	Ich habe vier Brüder.	मेरे पास चार �
 I have gained weight.	Ich habe zugenommen.	मैंने वजन बढ़ा लिया है।
 I have good eyesight.	Ich habe eine gute Sehkraft.	मेरी आँखों की दृष्टि अच्छी है।
 I have got to go now.	Ich muss jetzt gehen.	मुझे अब जाना होगा।
+I have lost my watch.	Ich habe meine Uhr verloren.	मेरी घड़ी खो गई है।
+I have misjudged you.	Ich habe dich falsch eingeordnet.	मैंने तुम्हें गलत तर्क किया।
+I have money for you.	Ich habe Geld für dich.	मेरे पास तुम्हारे लिए पैसे हैं।
+I have my own theory.	Ich habe meine eigene Theorie.	मेरे पास अपना सिद्धांत है।
+I have no more ideas.	Ich habe keine weiteren Ideen.	मेरे पास अब और कोई विचार नहीं है।
+I have no use for it.	Ich habe keine Verwendung dafür.	मुझे इसका कोई उपयोग नहीं है।
+I have nowhere to go.	Ich habe keinen Ort, wohin ich gehen kann.	मेरे पास कहीं जाने के लिए कोई स्थान नहीं है।

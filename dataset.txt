@@ -1,14 +1,4 @@
 
-I have lost my watch.	Ich habe meine Uhr verloren.	मैंने अपनी घड़ी खो दी।
-I have misjudged you.	Ich habe dich falsch beurteilt.	मैंने तुम्हें गलत समझा।
-I have misjudged you.	Ich habe Sie falsch beurteilt.	मैंने उसे गलत बताया।
-I have misjudged you.	Ich habe dich verkannt.	मैने आपको गलत समझा।
-I have misjudged you.	Ich habe dich falsch eingeschätzt.	मैंने तुम्हें गलत समझा।
-I have money for you.	Ich habe Geld für dich.	मेरे पास आपके लिए पैसे हैं।
-I have my own theory.	Ich habe meine eigene Theorie.	मेरा अपना सिद्धांत है।
-I have no more ideas.	Ich habe keine Ideen mehr.	मेरे पास कोई और विचार नहीं है।
-I have no use for it.	Ich habe keine Verwendung dafür.	मेरे पास इसके लिए कोई फायदा नहीं है।
-I have nowhere to go.	Ich kann nirgends hingehen.	मैं कहीं नहीं जा सकता।
 I have perfect pitch.	Ich habe das absolute Gehör.	मैंने बिल्कुल सुना है।
 I have poor eyesight.	Ich sehe schlecht.	मैं बुरी तरह से देखता हूं।
 I have read the book.	Ich habe das Buch gelesen.	मैंने किताब को पढ़ लिया है।
