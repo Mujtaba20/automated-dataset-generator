@@ -1,14 +1,4 @@
 
-How long do I have?	Wie viel Zeit habe ich?	मेरे पास कितना समय है?
-How long do I have?	Wie lange habe ich?	मेरे पास कब तक है?
-How may I help you?	Wie darf ich Ihnen helfen?	मैं आपकी कैसे मदद कर सकता हूँ?
-How may I help you?	Wie darf ich dir helfen?	मैं आपकी कैसे मदद कर सकता हूँ?
-How much is a room?	Wie viel kostet ein Zimmer?	एक कमरा कितना है?
-How old is Tom now?	Wie alt ist Tom jetzt?	अब टॉम कितना पुराना है?
-How old is this TV?	Wie alt ist dieser Fernseher?	यह टेलीविजन कितना पुराना है?
-How old is too old?	Wie alt ist zu alt?	कितने साल का बहुत पुराना होता है?
-How old's your son?	Welches Alter hat Ihr Sohn?	आपके बेटे की क्या उम्र है?
-How shall I put it?	Wie soll ich’s sagen?	मुझे कैसे कहना चाहिए?
 How was Tom killed?	Auf welche Weise kam Tom ums Leben?	टॉम कैसे मर गया?
 How was Tom killed?	Wie wurde Tom ermordet?	टॉम की हत्या कैसे की गई?
 How was work today?	Wie war's in der Arbeit heute?	आज काम पर कैसा था?

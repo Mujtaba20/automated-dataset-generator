@@ -21005,3 +21005,11 @@ How is your family? (Different meaning)	Wie ist deine Familie?	तुम्ह�
 How is your father?	Wie geht es deinem Vater?	तुम्हारे पिताजी कैसे हैं?
 How is your mother?	Wie geht es deiner Mutter?	तुम्हारी माँ कैसी है?
 How is your sister?	Wie geht es deiner Schwester?	तुम्हारी बहन कैसी है?
+How long do I have?	Wie lange steht mir zur Verfügung?	मुझे कितनी देर मिलेगी?
+How may I help you?	Wie darf ich Ihnen helfen?	मैं तुम्हें किस प्रकार मदद कर सकता हूँ?
+How much is a room?	Wie viel kostet ein Zimmer?	कमरे का कितना खर्च है?
+How old is Tom now?	Wie alt ist Tom jetzt?	टॉम अभी कितने साल का है?
+How old is this TV?	Wie alt ist dieser Fernseher?	यह टीवी कितने साल का है?
+How old is too old?	Wie alt ist zu alt?	कितना होता है पुराना?
+How old's your son?	Wie alt ist dein Sohn?	तुम्हारे बेटे कितने साल के हैं?
+How shall I put it?	Wie soll ich es formulieren?	मैं इसे कैसे रखूँ?
