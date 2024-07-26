@@ -28608,3 +28608,12 @@ Tom changed clothes.	Tom zog sich um.	टॉम ने कपड़े बदल
 Tom changed his job.	Tom hat seinen Job gewechselt.	टॉम ने अपनी नौकरी बदल दी।
 Tom changed the oil.	Tom wechselte das Öl.	टॉम ने तेल बदल दिया।
 Tom checked the oil.	Tom überprüfte das Öl.	टॉम ने तेल जांचा।
+Tom closed his eyes.	Tom schloss die Augen.	टॉम ने अपनी आंखें बंद की।
+Tom closed the book.	Tom schloss das Buch.	टॉम ने किताब बंद की।
+Tom closed the door.	Tom schloss die Tür.	टॉम ने दरवाजा बंद किया।
+Tom collects comics.	Tom sammelt Comics.	टॉम कॉमिक्स जमा करता है।
+Tom collects stamps.	Tom sammelt Briefmarken.	टॉम टिकट जमा करता है।
+Tom combed his hair.	Tom kämmte sich die Haare.	टॉम ने अपने बाल संवारे।
+Tom confronted Mary.	Tom konfrontierte Maria.	टॉम ने मेरी से आमने-सामने बात की।
+Tom cooks very well.	Tom kocht sehr gut.	टॉम बहुत अच्छे से पकाता है।
+Tom could do better.	Tom könnte es besser machen.	टॉम और भी अच्छा कर सकता था।

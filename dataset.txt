@@ -1,14 +1,4 @@
 
-Tom closed his eyes.	Tom schloss seine Augen.	टॉम ने अपनी आँखें बंद कर लीं।
-Tom closed his eyes.	Tom schloss die Augen.	टॉम ने अपनी आँखें बंद कर लीं।
-Tom closed the book.	Tom schlug das Buch zu.	टॉम ने किताब मारा।
-Tom closed the door.	Tom schloss die Tür.	टॉम ने दरवाजा बंद कर दिया।
-Tom collects comics.	Tom sammelt Comics.	टॉम कॉमिक्स एकत्र करता है।
-Tom collects stamps.	Tom sammelt Briefmarken.	टॉम स्टैम्प इकट्ठा करता है।
-Tom combed his hair.	Tom kämmte sich.	टॉम ने कंघी की।
-Tom confronted Mary.	Tom konfrontierte Maria.	टॉम ने मारिया का सामना किया।
-Tom cooks very well.	Tom kocht sehr gut.	टॉम बहुत अच्छी तरह से खाना बनाती है।
-Tom could do better.	Tom könnte mehr zustande bringen.	टॉम और अधिक ला सकता है।
 Tom cried all night.	Tom weinte die ganze Nacht.	टॉम पूरी रात रोया।
 Tom cried all night.	Tom weinte die ganze Nacht hindurch.	टॉम पूरी रात रोया।
 Tom cried all night.	Tom hat die ganze Nacht über geweint.	टॉम पूरी रात रोया।
