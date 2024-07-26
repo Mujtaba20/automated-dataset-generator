@@ -1,14 +1,4 @@
 
-Why am I doing this?	Warum tue ich das?	मैं यह क्यों कर रहा हूं?
-Why am I still here?	Warum bin ich immer noch hier?	मैं अब तक यहां क्यों हूं?
-Why are men so dumb?	Warum sind Männer so blöd?	पुरुष इतने मूर्ख क्यों हैं?
-Why are people here?	Warum sind die Leute hier?	यहाँ लोग क्यों हैं?
-Why are they crying?	Warum weinen sie?	तुम क्यों रोते हो?
-Why are we laughing?	Warum lachen wir?	हम क्यों हंसते हैं?
-Why are we stopping?	Warum hören wir auf?	हम क्यों रुकते हैं?
-Why are you at home?	Warum bist du zu Hause?	आप घर पर क्यों हैं?
-Why are you at home?	Warum seid ihr zu Hause?	आप घर पर क्यों हैं?
-Why are you at home?	Warum sind Sie zu Hause?	आप घर पर क्यों हैं?
 Why are you dancing?	Warum tanzt ihr?	आप नृत्य क्यों करते हैं?
 Why are you dancing?	Warum tanzt du?	आप क्यों नृत्य करते हैं
 Why are you dancing?	Warum tanzen Sie?	आप नृत्य क्यों करते हैं?

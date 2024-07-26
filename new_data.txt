@@ -30007,3 +30007,11 @@ Whose phone is that?	Wessen Telefon ist das?	वह किसका फ़ोन
 Whose phone is this?	Wessen Telefon ist dieses?	यह किसका फ़ोन है?
 Whose plan was that?	Wessen Plan war das?	वह किसकी योजना थी?
 Whose shirt is this?	Wessen Hemd ist dies?	यह किसकी कमीज़ है?
+Why am I doing this?	Warum mache ich das?	मैं यह क्यों कर रहा हूँ?
+Why am I still here?	Warum bin ich noch hier?	मैं अब तक यहाँ क्यों हूँ?
+Why are men so dumb?	Warum sind Männer so dumm?	मर्द इतने मूर्ख क्यों होते हैं?
+Why are people here?	Warum sind Menschen hier?	लोग यहाँ क्यों हैं?
+Why are they crying?	Warum weinen sie?	वे क्यों रो रहे हैं?
+Why are we laughing?	Warum lachen wir?	हम क्यों हंस रहे हैं?
+Why are we stopping?	Warum halten wir an?	हम क्यों रुके हैं?
+Why are you at home?	Warum bist du zu Hause?	तुम घर पर क्यों हो?
