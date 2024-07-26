@@ -21946,3 +21946,13 @@ I'm getting better.	Es geht mir besser.	मैं ठीक हो रहा ह
 I'm getting hungry.	Ich werde hungrig.	मैं पेट भर रहा हूँ।
 I'm giving it back.	Ich gebe es zurück.	मैं इसे वापस दे रहा हूँ।
 I'm glad I'm a man.	Ich bin froh, ein Mann zu sein.	मुझे खुशी है कि मैं एक आदमी हूँ।
+I'm glad you agree.	Ich freue mich, dass Sie zustimmen.	मुझे खुशी है कि आप सहमत हैं।
+I'm going downtown.	Ich gehe in die Innenstadt.	मैं शहर की तरफ जा रहा हूँ।
+I'm going for help.	Ich gehe um Hilfe.	मैं मदद के लिए जा रहा हूँ।
+I'm going home now.	Ich gehe jetzt nach Hause.	अब मैं घर जा रहा हूँ।
+I'm going in first.	Ich gehe als Erster hinein.	मैं पहले अंदर जा रहा हूँ।
+I'm going on a run.	Ich mache einen Lauf.	मैं दौड़ पर जा रहा हूँ।
+I'm going to be OK.	Es wird mir gut gehen.	मैं ठीक हो जाऊंगा।
+I'm going to do it.	Ich werde es tun.	मैं यह करने जा रहा हूँ।
+I'm going to start.	Ich werde anfangen.	मैं शुरू करने जा रहा हूँ।
+I'm going to study.	Ich werde lernen.	मैं पढ़ाई करने जा रहा हूँ।
