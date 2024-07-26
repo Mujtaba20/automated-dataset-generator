@@ -1,14 +1,4 @@
 
-That's not very nice.	Das ist nicht sehr nett.	यह बहुत अच्छा नहीं है।
-That's pretty normal.	Das ist ganz normal.	यह पूरी तरह से सामान्य है।
-That's probably true.	Das ist wahrscheinlich wahr.	यह शायद सच है।
-That's pseudoscience.	Das ist Pseudowissenschaft.	यह छद्म विज्ञान है।
-That's pure nonsense.	Das ist purer Unsinn.	यह शुद्ध बकवास है।
-That's quite a story.	Das ist schon eine Geschichte.	यह एक कहानी है।
-That's really stupid.	Das ist wirklich dumm.	यह वास्तव में बेवकूफ है।
-That's really stupid.	Das ist wirklich blöd.	यह वास्तव में बेवकूफ है।
-That's the challenge.	Das ist die Herausforderung.	यह चुनौती है।
-That's the main gate.	Das ist das Haupttor.	यह मुख्य द्वार है।
 That's the way he is.	So ist er halt.	वह है कि वह कैसे है।
 That's the way it is.	So ist es.	ऐसा ही है।
 That's too dangerous.	Das ist zu gefährlich.	यह बहुत खतरनाक है।
