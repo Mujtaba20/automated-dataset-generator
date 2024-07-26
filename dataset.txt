@@ -1,15 +1,4 @@
 
-Will it rain tomorrow?	Regnet es morgen?	क्या कल वर्षा होगी?
-Will it rain tomorrow?	Gibt es morgen Regen?	क्या कल बारिश है?
-Will that ever change?	Wird sich das je ändern?	क्या वह कभी बदल जाएगा?
-Will we be there soon?	Sind wir bald da?	क्या हम जल्द ही वहां हैं?
-Will you accompany me?	Begleitest du mich?	क्या आप मेरे साथ जा सकते हैं?
-Will you accompany me?	Wirst du mich begleiten?	क्या तुम मेरे साथ रहोगे
-Will you accompany me?	Begleiten Sie mich?	मेरे साथ आइए?
-Will you accompany me?	Werden Sie mich begleiten?	क्या तुम मेरे साथ रहोगे?
-Will you come with us?	Kommst du mit?	क्या तुम मेरे साथ आ रहे हो?
-Will you do it for me?	Tust du das für mich?	क्या आप मेरे लिए ऐसा करते हैं?
-Will you do it for me?	Wirst du das für mich tun?	क्या आप मेरे लिए ऐसा करेंगे?
 Will you give me some?	Gibst du mir ein bisschen?	क्या आप मुझे थोड़ा सा देते हैं?
 Will you help me then?	Hilfst du mir denn?	क्या आप मेरी मदद करते हैं?
 Will you take a check?	Nehmen Sie einen Scheck?	क्या आप एक चेक लेते हैं?
