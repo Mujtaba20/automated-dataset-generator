@@ -30991,3 +30991,13 @@ He doesn't tell lies.	Er erzählt keine Lügen.	वह झूठ नहीं �
 He doesn't want kids.	Er will keine Kinder.	उसे बच्चे नहीं चाहिए।
 He easily gets angry.	Er wird leicht wütend.	वह आसानी से गुस्सा हो जाता है।
 He emptied his glass.	Er leerte sein Glas.	उसने अपनी गिलास खाली की।
+He envied my success.	Er beneidete meinen Erfolg.	उसने मेरी सफलता की ईर्ष्या की।
+He filed a complaint.	Er reichte eine Beschwerde ein.	उसने एक शिकायत दर्ज की।
+He gave me this book.	Er hat mir dieses Buch gegeben.	उसने मुझे यह किताब दी।
+He gave the cat milk.	Er gab der Katze Milch.	उसने बिल्ली को दूध दिया।
+He gets around a lot.	Er ist viel unterwegs.	वह बहुत घूमता है।
+He gets tired easily.	Er wird leicht müde.	वह आसानी से थक जाता है।
+He got all he wanted.	Er hat alles bekommen, was er wollte.	उसने जो चाहा वह सब प्राप्त कर लिया।
+He got angry with me.	Er wurde wütend auf mich.	उस ने मुझसे नाराज हो गया।
+He got angry with us.	Er wurde wütend auf uns.	उसने हम सबसे नाराज हो गया।
+He got bored quickly.	Er wurde schnell gelangweilt.	उसे जल्दी बोर हो गया।
