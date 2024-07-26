@@ -32270,3 +32270,13 @@ I was tired and cold.	Ich war müde und kalt.	मैं थका हुआ औ�
 I was totally wasted.	Ich war völlig verschwendet.	मैं पूरी तरह से बर्बाद था।
 I was trying to help.	Ich versuchte zu helfen.	मैं मदद करने की कोशिश कर रहा था।
 I was trying to help in a different way.	Ich versuchte auf andere Weise zu helfen.	मैं किसी अलग तरीके से मदद करने की कोशिश कर रहा था।
+I was very impressed.	Ich war sehr beeindruckt.	मैंने बहुत प्रभावित हुआ था।
+I was very skeptical.	Ich war sehr skeptisch.	मैंने बहुत संदेह किया था।
+I was very surprised.	Ich war sehr überrascht.	मैंने बहुत हैरानी होने की थी।
+I wasn't a bit tired.	Ich war kein bisschen müde.	मैं बिल्कुल थका नहीं था।
+I wasn't good enough.	Ich war nicht gut genug.	मैं काफी अच्छा नहीं था।
+I went home by train.	Ich ging mit dem Zug nach Hause.	मैं ट्रेन से घर गया।
+I went into the army.	Ich ging zur Armee.	मैं सेना में गया।
+I went to Tom's room.	Ich ging in Toms Zimmer.	मैं टॉम के कमरे में गया।
+I went to that party.	Ich ging zu dieser Party.	मैं उस पार्टी में गया था।
+I went to the doctor.	Ich ging zum Arzt.	मैं डॉक्टर के पास गया।
