@@ -37716,3 +37716,13 @@ I need a box of nails.	Ich brauche eine Schachtel Nägel.	मुझे एक �
 I need a lot of books.	Ich brauche viele Bücher.	मुझे कई किताबों की जरूरत है।
 I need a new computer.	Ich brauche einen neuen Computer.	मुझे एक नया कंप्यूटर चाहिए।
 I need a new mattress.	Ich brauche eine neue Matratze.	मुझे एक नई गद्दी की जरूरत है।
+I need a new wardrobe.	Ich brauche einen neuen Kleiderschrank.	मुझे एक नया अलमारी चाहिए।
+I need about a minute.	Ich brauche etwa eine Minute.	मुझे लगभग एक मिनट चाहिए।
+I need help with this.	Ich brauche Hilfe damit.	मुझे इसमें मदद चाहिए।
+I need it by tomorrow.	Ich brauche es bis morgen.	मुझे यह कल तक चाहिए।
+I need some fresh air.	Ich brauche etwas frische Luft.	मुझे थोड़ी ताज़ा हवा चाहिए।
+I need sunburn lotion.	Ich brauche Sonnenbrandlotion.	मुझे सनबर्न लोशन चाहिए।
+I need sunburn lotion. (Different meaning)	Ich benötige Sonnenbrandcreme.	मुझे सनबर्न ब्लॉक चाहिए।
+I need to ask a favor.	Ich muss einen Gefallen bitten.	मुझे एक इल्तिजा करनी है।
+I need to get a stamp.	Ich muss eine Briefmarke besorgen.	मुझे एक टिकट प्राप्त करना है।
+I need to pay my rent.	Ich muss meine Miete zahlen.	मुझे अपने किराए का भुगतान करना है।

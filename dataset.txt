@@ -1,14 +1,4 @@
 
-I need a new wardrobe.	Ich brauche einen neuen Kleiderschrank.	मुझे एक नई अलमारी की आवश्यकता है।
-I need about a minute.	Ich brauche etwa eine Minute.	मुझे लगभग एक मिनट चाहिए।
-I need help with this.	Ich brauche hierbei Hilfe.	मुझे यहां मदद चाहिए।
-I need it by tomorrow.	Ich brauche es bis morgen.	मुझे कल तक इसकी आवश्यकता है।
-I need some fresh air.	Ich brauche etwas frische Luft.	मुझे कुछ ताजी हवा चाहिए।
-I need sunburn lotion.	Ich brauche Sonnenöl.	मुझे सन ऑयल चाहिए।
-I need sunburn lotion.	Ich brauche Sonnencreme.	मुझे सनस्क्रीन चाहिए।
-I need to ask a favor.	Ich muss dich um einen Gefallen bitten.	मुझे आपसे एक एहसान पूछना है।
-I need to get a stamp.	Ich brauche eine Briefmarke.	मुझे एक डाक टिकट की ज़रूरत है.
-I need to pay my rent.	Ich muss meine Miete zahlen.	मुझे अपना किराया देना है।
 I need to rent a room.	Ich muss ein Zimmer mieten.	मुझे एक कमरा किराए पर लेना है।
 I need to talk to Tom.	Ich muss mit Tom reden.	मुझे टॉम से बात करनी है।
 I need to talk to you.	Ich muss mit dir reden.	मुझे आपसे बात करनी है।
