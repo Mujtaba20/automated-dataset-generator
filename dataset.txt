@@ -1,14 +1,4 @@
 
-Can you drive a car?	Kannst du Auto fahren?	क्या आप ड्राइव कर सकते हैं?
-Can you drive a car?	Kannst du ein Auto fahren?	क्या आप गाडी चला सकते हैं?
-Can you explain why?	Kannst du erklären warum?	क्या आप व्याख्या कर सकते है?
-Can you make copies?	Kannst du Kopien machen?	क्या आप प्रतियां बना सकते हैं?
-Can you pick up Tom?	Kannst du Tom abholen?	क्या आप टॉम उठा सकते हैं?
-Can you pick up Tom?	Könnt ihr Tom abholen?	क्या आप टॉम उठा सकते हैं?
-Can you pick up Tom?	Können Sie Tom abholen?	क्या आप टॉम उठा सकते हैं?
-Can you play guitar?	Kannst du Gitarre spielen?	क्या तुम्हे गिटार बजाना आता है?
-Can you play guitar?	Könnt ihr Gitarre spielen?	क्या तुम गिटार बाजा सकते हैं?
-Can you play tennis?	Kannst du Tennis spielen?	क्या आप टेनिस खेल सकते हैं?
 Can you please help?	Kannst du bitte helfen?	क्या आप कृपया मदद कर सकते हैं?
 Can you read Arabic?	Kannst du Arabisch lesen?	क्या आप अरबी पढ़ सकते हैं?
 Can you read French?	Kannst du Französisch lesen?	क्या आप फ्रेंच पढ़ सकते हैं?

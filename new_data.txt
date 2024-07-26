@@ -25210,3 +25210,9 @@ Can we just go home?	Können wir einfach nach Hause gehen?	क्या हम �
 Can you bake a cake?	Kannst du einen Kuchen backen?	क्या आप एक केक बना सकते हैं?
 Can you contact Tom?	Kannst du Tom kontaktieren?	क्या आप टॉम से संपर्क कर सकते हैं?
 Can you cook a meal?	Kannst du eine Mahlzeit kochen?	क्या आप एक भोजन पका सकते हैं?
+Can you drive a car?	Können Sie Auto fahren?	क्या आप कार चला सकते हैं?
+Can you explain why?	Kannst du erklären warum?	क्या आप बता सकते हैं क्यों?
+Can you make copies?	Kannst du Kopien machen?	क्या आप प्रतियां बना सकते हैं?
+Can you pick up Tom?	Kannst du Tom abholen?	क्या तुम टॉम को उठा सकते हो?
+Can you play guitar?	Kannst du Gitarre spielen?	क्या आप गिटार बजा सकते हैं?
+Can you play tennis?	Kannst du Tennis spielen?	क्या आप टेनिस खेल सकते हैं?
