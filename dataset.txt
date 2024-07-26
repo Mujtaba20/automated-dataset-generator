@@ -1,14 +1,4 @@
 
-Tom wouldn't approve.	Tom wollte einfach nicht zustimmen.	टॉम बस सहमत नहीं करना चाहता था।
-Tom wouldn't approve.	Tom würde nicht zustimmen.	टॉम सहमत नहीं होगा।
-Tom wouldn't give in.	Tom wollte nicht nachgeben.	टॉम अंदर नहीं देना चाहता था।
-Tom wouldn't like it.	Tom würde es nicht mögen.	टॉम इसे पसंद नहीं करेंगे।
-Tom wouldn't like it.	Tom gefiele das nicht.	टॉम को यह पसंद नहीं आया।
-Tom writes very well.	Tom schreibt sehr gut.	टॉम बहुत अच्छा लिखते हैं।
-Tom wrote the report.	Tom schrieb den Bericht.	टॉम ने रिपोर्ट लिखी।
-Tom's car broke down.	Toms Auto ging kaputt.	टॉम की कार टूट गई।
-Tom's car is on fire.	Toms Auto brennt.	टॉम की कार जलती है।
-Tom's car is on fire.	Toms Auto hat Feuer gefangen.	टॉम की कार में आग लग गई है।
 Tom's career is over.	Toms Karriere ist vorbei.	टॉम का करियर खत्म हो गया है।
 Tom's cellphone rang.	Toms Mobiltelefon klingelte.	टॉम का मोबाइल फोन बजा।
 Tom's coffee is good.	Toms Kaffee ist lecker.	टॉम की कॉफी स्वादिष्ट है।

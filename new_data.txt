@@ -35063,3 +35063,10 @@ Tom works long hours.	Tom arbeitet lange Stunden.	टॉम लंबी घं�
 Tom works on Sundays.	Tom arbeitet an Sonntagen.	टॉम रविवार को काम करता है।
 Tom worries too much.	Tom macht sich zu viele Sorgen.	टॉम बहुत चिंता करता है।
 Tom would fight back.	Tom würde zurückschlagen.	टॉम वापस लड़ाई लड़ना चाहेगा।
+Tom wouldn't approve.	Tom würde nicht zustimmen.	टॉम स्वीकृति नहीं देगा।
+Tom wouldn't give in.	Tom würde nicht nachgeben.	टॉम मना नहीं करेगा।
+Tom wouldn't like it.	Tom würde es nicht mögen.	टॉम को यह पसंद नहीं होगा।
+Tom writes very well.	Tom schreibt sehr gut.	टॉम बहुत अच्छी तरह से लिखता है।
+Tom wrote the report.	Tom schrieb den Bericht.	टॉम ने रिपोर्ट लिखी।
+Tom's car broke down.	Toms Auto ist kaputtgegangen.	टॉम की कार खराब हो गई।
+Tom's car is on fire.	Toms Auto steht in Flammen.	टॉम की कार आग में है।
