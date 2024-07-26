@@ -1,14 +1,4 @@
 
-I don't need a doctor.	Ich brauche keinen Arzt.	मुझे डॉक्टर की जरूरत नहीं है।
-I don't need a reason.	Ich brauche keinen Grund.	मुझे एक कारण की आवश्यकता नहीं है।
-I don't need advisers.	Ich benötige keine Ratgeber.	मुझे किसी भी गाइड की जरूरत नहीं है।
-I don't need advisers.	Ich brauche keinen, der mir Ratschläge erteilt.	मुझे किसी की आवश्यकता नहीं है जो मुझे सलाह देता है।
-I don't need any help.	Ich brauche keine Hilfe.	मुझे किसी भी मदद की ज़रूरत नहीं है।
-I don't need anything.	Ich brauche nichts.	मुझे किसी भी चीज की आवश्यकता नहीं है।
-I don't need your job.	Ich brauche deine Arbeit nicht.	मुझे आपके काम की जरूरत नहीं है।
-I don't often eat out.	Ich gehe nicht oft essen.	मैं अक्सर खाने के लिए नहीं जाता।
-I don't play the oboe.	Ich spiele nicht Oboe.	मैं oboe नहीं खेलता।
-I don't see Tom's car.	Ich sehe Toms Wagen nicht.	मैं टॉम की कार नहीं देखता।
 I don't see a problem.	Ich sehe kein Problem.	मुझे कोई समस्या नहीं है।
 I don't shave my legs.	Ich rasiere mir nicht die Beine.	मैं अपने पैरों को नहीं शेविंग कर रहा हूं।
 I don't sleep anymore.	Ich schlafe nicht mehr.	मैं अब नहीं सोता।

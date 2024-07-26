@@ -37327,3 +37327,12 @@ I don't live with Tom.	Ich lebe nicht mit Tom.	मैं टॉम के सा
 I don't mind doing it.	Es macht mir nichts aus, es zu tun.	मुझे इसे करने में कोई दिक्कत नहीं है।
 I don't mind standing.	Es macht mir nichts aus zu stehen.	मुझे खड़े रहने में कोई बात नहीं है।
 I don't mind the heat.	Mir macht die Hitze nichts aus.	मुझे गरमी से कोई परेशानी नहीं है।
+I don't need a doctor.	Ich brauche keinen Arzt.	मुझे डॉक्टर की आवश्यकता नहीं है।
+I don't need a reason.	Ich brauche keinen Grund.	मुझे कोई कारण चाहिए नहीं है।
+I don’t need advisers.	Ich brauche keine Berater.	मुझे सलाहकारों की आवश्यकता नहीं है।
+I don't need any help.	Ich brauche keine Hilfe.	मुझे कोई मदद नहीं चाहिए।
+I don't need anything.	Ich brauche nichts.	मुझे कोई चीज नहीं चाहिए।
+I don't need your job.	Ich brauche deinen Job nicht.	मुझे तुम्हारी नौकरी की आवश्यकता नहीं है।
+I don't often eat out.	Ich esse nicht oft auswärts.	मैं अक्सर बाहर खाना नहीं खाता।
+I don't play the oboe.	Ich spiele nicht das Oboe.	मैं ओबो का नृत्य नहीं करता हूं।
+I don't see Tom's car.	Ich sehe Toms Auto nicht.	मैं टॉम की कार नहीं देखता।
