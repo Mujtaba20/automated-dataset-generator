@@ -31671,3 +31671,13 @@ I found the building.	Ich habe das Gebäude gefunden.	मैंने इस इ
 I fully support that.	Ich unterstütze das voll und ganz.	मैं इसे पूरी तरह से समर्थन देता हूं।
 I gave Tom a blanket.	Ich habe Tom eine Decke gegeben.	मैंने टॉम को एक कंबल दी।
 I gave Tom no choice.	Ich habe Tom keine Wahl gelassen.	मैंने टॉम को कोई विकल्प नहीं दिया।
+I gave Tom some wine.	Ich gab Tom etwas Wein.	मैंने टॉम को कुछ शराब दी।
+I gave Tom that book.	Ich gab Tom dieses Buch.	मैंने टॉम को वह किताब दी।
+I get bored in class.	Ich langweile mich im Unterricht.	मुझे कक्षा में बोर हो जाता है।
+I get off there, too.	Ich steige dort auch aus.	मैं वहाँ भी उतर जाता हूँ।
+I get self-conscious.	Ich werde selbstbewusst.	मैं आत्मसंवेदी हो जाता हूँ।
+I go there every day.	Ich gehe dort jeden Tag hin.	मैं हर दिन वहाँ जाता हूँ।
+I go to bed at 10.30.	Ich gehe um 10.30 Uhr ins Bett.	मैं 10.30 बजे सो जाता हूँ।
+I got a B in physics.	Ich habe in Physik eine Zwei bekommen.	मुझे भौतिकी में बी मिली।
+I got an A in French.	Ich habe in Französisch eine Eins bekommen.	मुझे फ्रेंच में एक मिला।
+I got back in my car.	Ich stieg wieder in mein Auto.	मैं अपनी कार में वापस आ गया।
