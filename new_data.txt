@@ -26185,3 +26185,11 @@ I do not understand.	Ich verstehe nicht.	मुझे समझ में नह
 I do that sometimes.	Manchmal mache ich das.	कभी-कभी मैं ऐसा करता हूँ।
 I do the best I can.	Ich gebe mein Bestes.	मैं जितना संभव है, वही करता हूँ।
 I don't believe you.	Ich glaube dir nicht.	मैं तुम्हें विश्वास नहीं करता।
+I don't belong here.	Ich gehöre nicht hierher.	मैं यहाँ नहीं हूँ।
+I don't charge much.	Ich berechne nicht viel.	मैं कम नहीं लागत है।
+I don't drink a lot.	Ich trinke nicht viel.	मैं ज्यादा नहीं पीता।
+I don't drive often.	Ich fahre nicht oft.	मैं अक्सर नहीं चलाता।
+I don't expect help.	Ich erwarte keine Hilfe.	मैं मदद की उम्मीद नहीं करता।
+I don't go out much.	Ich gehe nicht viel aus.	मैं ज्यादा बाहर नहीं जाता।
+I don't hate anyone.	Ich hasse niemanden.	मैं किसी से नफरत नहीं करता।
+I don't have a cold.	Ich bin nicht erkältet.	मेरी कोई सर्दी नहीं है।

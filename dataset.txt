@@ -1,14 +1,4 @@
 
-I don't belong here.	Ich gehöre nicht hierher.	मैं यहाँ का नहीं हूं।
-I don't charge much.	Ich verlange nicht viel.	मैं ज्यादा नहीं पूछता।
-I don't charge much.	Ich verlange nicht viel Geld.	मैं बहुत पैसा नहीं मांगता।
-I don't drink a lot.	Ich trinke nicht viel.	मैं ज्यादा नहीं पीता।
-I don't drive often.	Ich fahre nicht oft.	मैं अक्सर ड्राइव नहीं करता।
-I don't expect help.	Ich erwarte keine Hilfe.	मुझे मदद की उम्मीद नहीं है।
-I don't go out much.	Ich gehe nicht oft aus.	मैं अक्सर बाहर नहीं जाता।
-I don't hate anyone.	Ich hasse niemanden.	मैं किसी से नफरत नहीं करता।
-I don't have a cold.	Ich habe keine Erkältung.	मुझे कोई ठंड नहीं है।
-I don't have a cold.	Ich bin nicht erkältet.	मैं सर्दी नहीं हूं।
 I don't have a date.	Ich habe kein Date.	मेरे पास कोई तारीख नहीं है।
 I don't have a date.	Ich habe keine Verabredung.	मेरी कोई नियुक्ति नहीं है।
 I don't have a home.	Ich habe kein Zuhause.	मेरा कोई घर नहीं है।
