@@ -39803,3 +39803,13 @@ Throw the ball to Tom.	Werft den Ball zu Tom.	टॉम के लिए गे�
 Time cures all things.	Zeit heilt alle Wunden.	समय सभी चीजों को ठीक कर देता है।
 Time heals all wounds.	Die Zeit heilt alle Wunden.	समय सभी घावों को भर देता है।
 Time is getting short.	Die Zeit wird knapp.	समय कम हो रहा है।
+Time is on their side.	Die Zeit ist auf ihrer Seite.	समय उनकी ओर है।
+Time is running short.	Die Zeit wird knapp.	समय कम हो रहा है।
+Time waits for no one.	Die Zeit wartet auf niemanden.	समय किसी का इंतजार नहीं करता।
+Tips are not accepted.	Trinkgeld wird nicht akzeptiert.	टिप्स स्वीकार नहीं की जातीं।
+Today is October 20th.	Heute ist der 20. Oktober.	आज 20 अक्टूबर है।
+Today is my lucky day.	Heute ist mein Glückstag.	आज मेरा भाग्यशाली दिन है।
+Today is not your day.	Heute ist nicht dein Tag.	आज तुम्हारा दिन नहीं है।
+Today's not Christmas.	Heute ist nicht Weihnachten.	आज क्रिसमस नहीं है।
+Today's your birthday.	Heute ist dein Geburtstag.	आज तुम्हारा जन्मदिन है।
+Tom aced his midterms.	Tom hat seine Zwischenprüfungen bestanden.	टॉम ने अपनी मध्यअवधि परीक्षाएँ उत्तीर्ण की।
