@@ -1,14 +1,4 @@
 
-The alarm went off.	Der Wecker klingelte.	अलार्म बजता है।
-The alarm went off.	Der Wecker hat geklingelt.	अलार्म घड़ी बजा।
-The answer was yes.	Die Antwort war „ja“.	"जवाब ""हाँ"" था।"
-The apples are red.	Die Äpfel sind rot.	सेब लाल - लाल हैं।
-The attempt failed.	Der Versuch misslang.	प्रयास विफल रहा।
-The axle is broken.	Die Achse ist gebrochen.	अक्ष टूट गया है।
-The baby is asleep.	Das Baby schläft.	बच्चा सोता है।
-The baby is crying.	Das Baby weint.	बच्चा रो रहा है।
-The baby was naked.	Das Baby war nackt.	बच्चा नग्न था।
-The bar was packed.	Die Kneipe war proppenvoll.	पब पैक किया गया था।
 The barn was empty.	Der Stall war leer.	स्थिर खाली था।
 The barn's on fire.	Die Scheune brennt.	खलिहान जलता है।
 The barrel is full.	Das Fass ist voll.	बैरल भरा हुआ है।

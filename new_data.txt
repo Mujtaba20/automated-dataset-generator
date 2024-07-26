@@ -22946,3 +22946,12 @@ That's unavoidable.	Das ist unvermeidbar.	यह अटल है।
 That's unfortunate.	Das ist bedauerlich.	यह दुर्भाग्यजनक है।
 That's unimportant.	Das ist unwichtig.	यह अमहत्वपूर्ण है।
 engSentence	{"That's very simple.": 'Das ist sehr einfach.', "That's what I hope.": 'Darauf hoffe ich.', "That's what I like.": 'Das ist nach meinem Geschmack.', "That's what I said.": 'Das habe ich gesagt.', "That's what I want.": 'Das verlange ich.', "That's what we saw.": 'Das haben wir gesehen.', "That's why I asked.": 'Deshalb habe ich gefragt.', "That's why Tom won.": 'Deshalb hat Tom gewonnen.'}	{"That's very simple.": 'यह बहुत आसान है।', "That's what I hope.": 'वही मैं उम्मीद करता हूँ।', "That's what I like.": 'यह मेरी पसंद है।', "That's what I said.": 'वही मैंने कहा था।', "That's what I want.": 'वही मैं चाहती हूँ।', "That's what we saw.": 'वही हमने देखा।', "That's why I asked.": 'इसीलिए मैंने पूछा था।', "That's why Tom won.": 'इसीलिए टॉम जीत गया।'}
+The alarm went off.	Der Wecker klingelte.	अलार्म का समय थम गया।
+The answer was yes.	Die Antwort war ja.	जवाब हाँ था।
+The apples are red.	Die Äpfel sind rot.	सेब लाल हैं।
+The attempt failed.	Der Versuch ist gescheitert.	कोशिश असफल रही।
+The axle is broken.	Die Achse ist gebrochen.	एक्सल टूट गया है।
+The baby is asleep.	Das Baby schläft.	बच्चा सो रहा है।
+The baby is crying.	Das Baby weint.	बच्चा रो रहा है।
+The baby was naked.	Das Baby war nackt.	बच्चा नंगा था।
+The bar was packed.	Die Bar war voll.	बार भरा हुआ था।
