@@ -1,14 +1,4 @@
 
-Tom sat in front of me.	Tom saß vor mir.	टॉम मेरे सामने बैठ गया।
-Tom sat reading a book.	Tom saß da ​​und las ein Buch.	टॉम वहां बैठकर एक किताब पढ़ी।
-Tom saw Mary at school.	Tom hat Maria in der Schule gesehen.	टॉम ने स्कूल में मारिया को देखा।
-Tom saw Mary with John.	Tom sah Maria mit Johannes.	टॉम ने मारिया को जोहान्स के साथ देखा।
-Tom saw through my lie.	Tom durchschaute meine Lüge.	टॉम ने मेरे झूठ के माध्यम से देखा।
-Tom says I'm beautiful.	Tom sagt, ich bin schön.	टॉम कहते हैं कि मैं सुंदर हूं।
-Tom says Mary is broke.	Tom sagt, Maria ist pleite.	टॉम का कहना है कि मारिया दिवालिया है।
-Tom says Mary is happy.	Tom sagt, dass Maria glücklich sei.	टॉम का कहना है कि मारिया खुश है।
-Tom says Mary is wrong.	Tom sagt, Maria hat unrecht.	टॉम का कहना है कि मारिया गलत है।
-Tom says Mary is wrong.	Tom sagt, Maria habe unrecht.	टॉम का कहना है कि मारिया गलत है।
 Tom says he has a plan.	Tom sagt, er hat einen Plan.	टॉम का कहना है कि उनके पास एक योजना है।
 Tom says he won't come.	Tom sagt, dass er nicht kommt.	टॉम का कहना है कि वह नहीं आता है।
 Tom says he won't sing.	Tom sagt, er werde nicht singen.	टॉम का कहना है कि वह नहीं गाएगा।
