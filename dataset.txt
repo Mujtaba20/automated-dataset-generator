@@ -1,14 +1,4 @@
 
-Why are you here now?	Warum sind Sie jetzt hier?	अब वे यहाँ क्यों हैं?
-Why are you here now?	Warum bist du denn jetzt hier?	अब आप यहाँ क्यों हैं?
-Why are you home now?	Warum bist du jetzt zu Hause?	अब आप घर पर क्यों हैं?
-Why are you laughing?	Warum lachst du?	तुम हंस क्यों रहे हो?
-Why are you out here?	Warum sind Sie hier draußen?	तुम यहाँ क्यों हो?
-Why are you sleeping?	Warum schläfst du?	आप क्यों सोते हैं?
-Why are you sleeping?	Warum schlafen Sie?	आप क्यों सोते हैं?
-Why are you sleeping?	Warum schlaft ihr?	आप क्यों सोते हैं?
-Why are you so awful?	Wieso bist du so entsetzlich?	तुम इतने भयावह क्यों हो?
-Why are you so happy?	Warum seid ihr so glücklich?	तुम इतने खुश क्यों हो?
 Why are you so quiet?	Warum bist du so still?	आप इतने शांत क्यों हैं?
 Why are you so smart?	Wieso bist du so schlau?	आप इतने स्मार्ट क्यों हैं?
 Why are you so tired?	Warum bist du so müde?	आप इतने थके हुए क्यो हो?

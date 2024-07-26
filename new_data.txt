@@ -35621,3 +35621,10 @@ Why are they smiling?	Warum lächeln sie?	वे क्यों मुस्क
 Why are you barefoot?	Warum bist du barfuß?	तुम नंगे पैर क्यों हो?
 Why are you bleeding?	Warum blutest du?	तुम क्यों खून बह रहे हो?
 Why are you doing it?	Warum machst du das?	तुम यह क्यों कर रहे हो?
+Why are you here now?	Weshalb bist du jetzt hier?	तुम अब क्यों यहाँ हो?
+Why are you home now?	Warum bist du jetzt zu Hause?	तुम अब घर पर क्यों हो?
+Why are you laughing?	Warum lachst du?	तुम हंस क्यों रहे हो?
+Why are you out here?	Warum bist du hier draußen?	तुम यहाँ बाहर क्यों हो?
+Why are you sleeping?	Weshalb schläfst du?	तुम सो क्यों रहे हो?
+Why are you so awful?	Warum bist du so furchtbar?	तुम इतने भयानक क्यों हो?
+Why are you so happy?	Warum bist du so glücklich?	तुम इतने खुश क्यों हो?
