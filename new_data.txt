@@ -27067,3 +27067,13 @@ I'm not a good cook.	Ich bin keine gute Köchin.	मैं अच्छी प�
 I'm not a good liar.	Ich bin kein guter Lügner.	मैं अच्छा झूठ नहीं बोलता।
 I'm not a scientist.	Ich bin kein Wissenschaftler.	मैं एक वैज्ञानिक नहीं हूँ।
 I'm not always busy.	Ich bin nicht immer beschäftigt.	मैं हमेशा व्यस्त नहीं हूँ।
+I'm not always here.	Ich bin nicht immer hier.	मैं हमेशा यहाँ नहीं हूँ।
+I'm not always late.	Ich bin nicht immer zu spät.	मैं हमेशा देर से नहीं आता।
+I'm not at all busy.	Ich bin überhaupt nicht beschäftigt.	मैं बिल्कुल व्यस्त नहीं हूँ।
+I'm not backing out.	Ich ziehe mich nicht zurück.	मैं पीछे हटने वाला नहीं हूँ।
+I'm not busy at all.	Ich bin überhaupt nicht beschäftigt.	मैं बिल्कुल व्यस्त नहीं हूँ।
+I'm not busy either.	Ich bin auch nicht beschäftigt.	मैं भी व्यस्त नहीं हूँ।
+I'm not coming back.	Ich komme nicht zurück.	मैं वापस नहीं आ रहा हूँ।
+I'm not coming home.	Ich komme nicht nach Hause.	मैं घर नहीं आ रहा हूँ।
+I'm not complaining.	Ich beschwere mich nicht.	मैं शिकायत नहीं कर रहा हूँ।
+I'm not doing great.	Ich mache es nicht großartig.	मैं बहुत अच्छा नहीं कर रहा हूँ।

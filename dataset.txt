@@ -1,14 +1,4 @@
 
-I'm not always here.	Ich bin nicht immer hier.	मैं हमेशा यहां नहीं हूं।
-I'm not always late.	Ich komme nicht immer zu spät.	मैं हमेशा देर नहीं करता।
-I'm not at all busy.	Ich bin gar nicht beschäftigt.	मैं व्यस्त नहीं हूँ।
-I'm not backing out.	Ich mache keinen Rückzieher.	मैं एक बैकलॉग नहीं लेता।
-I'm not busy at all.	Ich bin gar nicht beschäftigt.	मैं व्यस्त नहीं हूँ।
-I'm not busy either.	Ich habe auch nichts zu tun.	मुझे भी कुछ नहीं करना है।
-I'm not coming back.	Ich werde nicht wiederkommen.	मैं वापस नहीं आऊंगा।
-I'm not coming home.	Ich komme nicht nach Hause.	मैं घर नहीं आ सकता।
-I'm not complaining.	Ich beschwere mich nicht.	मैं शिकायत नहीं कर रहा।
-I'm not doing great.	Mir geht es nicht besonders.	मैं विशेष रूप से चिंतित नहीं हूं।
 I'm not eating that.	Das esse ich nicht!	मैं नहीं खाता!
 I'm not eating this.	Das esse ich nicht.	मैं वह नहीं खाता।
 I'm not from Boston.	Ich komme nicht aus Boston.	मैं बोस्टन से नहीं आता।
