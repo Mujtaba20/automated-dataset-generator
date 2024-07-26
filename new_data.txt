@@ -27077,3 +27077,13 @@ I'm not coming back.	Ich komme nicht zurück.	मैं वापस नही�
 I'm not coming home.	Ich komme nicht nach Hause.	मैं घर नहीं आ रहा हूँ।
 I'm not complaining.	Ich beschwere mich nicht.	मैं शिकायत नहीं कर रहा हूँ।
 I'm not doing great.	Ich mache es nicht großartig.	मैं बहुत अच्छा नहीं कर रहा हूँ।
+I'm not eating that.	Ich esse das nicht.	मैं वह नहीं खा रहा।
+I'm not eating this.	Ich esse dies nicht.	मैं यह नहीं खा रहा हूँ।
+I'm not from Boston.	Ich komme nicht aus Boston.	मैं बॉस्टन से नहीं हूँ।
+I'm not going to go.	Ich werde nicht gehen.	मैं जाने जा रहा नहीं हूँ।
+I'm not in any pain.	Ich habe keine Schmerzen.	मुझे कोई दर्द नहीं है।
+I'm not in the mood.	Ich bin nicht in Stimmung.	मुझे मन नहीं है।
+I'm not incompetent.	Ich bin nicht inkompetent.	मैं अक्षम नहीं हूँ।
+I'm not interfering.	Ich mische mich nicht ein.	मैं हस्तक्षेप नहीं कर रहा हूँ।
+I'm not intimidated.	Ich bin nicht eingeschüchtert.	मुझे डराया नहीं जा सकता।
+I'm not mad anymore.	Ich bin nicht mehr wütend.	मैं अब नाराज नहीं हूँ।

@@ -1,14 +1,4 @@
 
-I'm not eating that.	Das esse ich nicht!	मैं नहीं खाता!
-I'm not eating this.	Das esse ich nicht.	मैं वह नहीं खाता।
-I'm not from Boston.	Ich komme nicht aus Boston.	मैं बोस्टन से नहीं आता।
-I'm not going to go.	Ich werde nicht gehen.	मुझे नहीं जाना होगा।
-I'm not in any pain.	Ich habe keine Schmerzen.	मुझे कोई दर्द नहीं है।
-I'm not in the mood.	Ich bin nicht in der Stimmung.	मैं मूड में नहीं हूं।
-I'm not incompetent.	Ich bin nicht inkompetent.	मैं अक्षम नहीं हूं।
-I'm not interfering.	Ich mische mich nicht ein.	मैं अंदर नहीं मिला।
-I'm not intimidated.	Ich bin nicht eingeschüchtert.	मैं भयभीत नहीं हूं।
-I'm not mad anymore.	Ich bin nicht mehr sauer.	मैं अब नाराज नहीं हूं।
 I'm not married yet.	Ich bin noch nicht verheiratet.	मैंने अभी तक शादी नहीं की है।
 I'm not on the list.	Ich stehe nicht auf der Liste.	मैं सूची में नहीं हूं।
 I'm not one of them.	Ich gehöre nicht dazu.	मैं इसका नहीं हूं।
