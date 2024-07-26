@@ -1,14 +1,4 @@
 
-May I sit in the back?	Darf ich hinten sitzen?	क्या मैं पीठ में बैठ सकता हूँ?
-May I sit next to you?	Darf ich neben dir sitzen?	क्या मैं आपके बगल में बैठ सकता हूं?
-May I sit next to you?	Darf ich neben Ihnen sitzen?	क्या मैं आपके बगल में बैठ सकता हूं?
-May I sit next to you?	Darf ich mich neben dich setzen?	क्या मैं आपके बगल में बैठ सकता हूं?
-May I sit next to you?	Darf ich mich neben Sie setzen?	क्या मैं आपके बगल में बैठ सकता हूं?
-May I take your order?	Kann ich Ihre Bestellung aufnehmen?	क्या मैं आपका ऑर्डर ले सकता हूं?
-May I turn off the TV?	Darf ich den Fernseher ausschalten?	क्या मैं टीवी बंद कर सकता हूं?
-May I use your toilet?	Dürfte ich Ihre Toilette benutzen?	क्या मैं आपका शौचालय इस्तेमाल कर सकता हूँ?
-May comes after April.	Mai kommt nach April.	मई अप्रैल के बाद आता है।
-Maybe I need a lawyer.	Ich werde wohl einen Rechtsanwalt brauchen.	मुझे शायद एक वकील की आवश्यकता होगी।
 Maybe I threw it away.	Vielleicht habe ich es weggeworfen.	शायद मैंने इसे फेंक दिया।
 Maybe Tom kissed Mary.	Vielleicht hat Tom Maria geküsst.	शायद टॉम ने मारिया को चूमा।
 Maybe Tom will say no.	Vielleicht sagt Tom ja auch nein.	शायद टॉम कहते हैं नहीं।

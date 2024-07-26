@@ -38814,3 +38814,11 @@ May I leave a message?	Darf ich eine Nachricht hinterlassen?	क्या मै
 May I lie on the sofa?	Darf ich auf dem Sofa liegen?	क्या मैं सोफ़े पर लेट सकता हूँ?
 May I open the window?	Darf ich das Fenster öffnen?	क्या मैं खिड़की खोल सकता हूँ?
 May I show you around?	Darf ich Ihnen die Gegend zeigen?	क्या मैं आपको दिखाऊँ?
+May I sit in the back?	Darf ich hinten sitzen?	क्या मैं पीछे बैठ सकता हूँ?
+May I sit next to you?	Darf ich neben dir sitzen?	क्या मैं आपके पास बैठ सकता हूँ?
+May I sit next to you? (different meaning)	Darf ich mich neben dir hinsetzen?	क्या मैं तुम्हारे पास बैठ सकता हूँ?
+May I take your order?	Darf ich Ihre Bestellung aufnehmen?	क्या मैं आपका आदेश ले सकता हूँ?
+May I turn off the TV?	Darf ich den Fernseher ausschalten?	क्या मैं टीवी बंद कर सकता हूँ?
+May I use your toilet?	Darf ich deine Toilette benutzen?	क्या मैं आपके शौचालय का उपयोग कर सकता हूँ?
+May comes after April.	Mai kommt nach April.	मई अप्रैल के बाद आता है।
+Maybe I need a lawyer.	Vielleicht brauche ich einen Anwalt.	शायद मुझे वकील की जरुरत है।
