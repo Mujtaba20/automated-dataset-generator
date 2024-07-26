@@ -36891,3 +36891,13 @@ He told me everything.	Er hat mir alles gesagt.	उसने मुझे सब
 He took a deep breath.	Er nahm tief Luft.	उसने गहरी सांस ली।
 He tried to choke him.	Er versuchte, ihn zu ersticken.	उसने को दबाने की कोशिश की।
 He turned a blind eye.	Er hat ein Auge zugedrückt.	उसने अंधा खेल खेला।
+He understands French.	Er versteht Französisch.	उसे फ्रेंच समज आती है।
+He unzipped his pants.	Er öffnete seine Hose.	उसने अपनी पैंट का जिप खोल दिया।
+He used to drink beer.	Er trank früher Bier.	उसे पहले बीयर पीने की आदत थी।
+He used to read a lot.	Er las viel.	उसे पहले बहुत पढ़ने की आदत थी।
+He wanted to meet you.	Er wollte dich treffen.	उसे तुमसे मिलना था।
+He wanted to see you.	Er wollte dich sehen.	उसे तुम्हें देखना था।
+He wants an iPad mini.	Er möchte ein iPad Mini haben.	उसे एक आईपैड मिनी चाहिए।
+He was 19 at the time.	Er war damals 19 Jahre alt.	उस समय उसकी आयु 19 वर्ष थी।
+He was a rugby player.	Er war ein Rugbyspieler.	उस एक रग्बी खिलाड़ी था।
+He was about to speak.	Er wollte gerade sprechen.	उसने ज़रा बात करने के बारे में सोच रहा था।
