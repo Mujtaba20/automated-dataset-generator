@@ -1,16 +1,4 @@
 
-Tom is much better.	Tom geht es viel besser.	टॉम बहुत बेहतर है।
-Tom is my neighbor.	Tom ist mein Nachbar.	टॉम मेरा पड़ोसी है।
-Tom is my prisoner.	Tom ist mein Gefangener.	टॉम मेरा कैदी है।
-Tom is never sober.	Tom ist nie nüchtern.	टॉम कभी शांत नहीं है।
-Tom is never there.	Tom ist nie da.	टॉम कभी नहीं है।
-Tom is not jealous.	Tom ist nicht eifersüchtig.	टॉम ईर्ष्या नहीं है।
-Tom is not our man.	Tom ist nicht unser Mann.	टॉम हमारा आदमी नहीं है।
-Tom is not our man.	Tom ist nicht der Richtige für uns.	टॉम हमारे लिए सही नहीं है।
-Tom is not so sure.	Tom ist nicht so sicher.	टॉम इतना सुरक्षित नहीं है।
-Tom is now in jail.	Tom ist jetzt im Gefängnis.	टॉम अब जेल में है।
-Tom is now in jail.	Tom befindet sich jetzt im Gefängnis.	टॉम अब जेल में है।
-Tom is now in jail.	Tom sitzt jetzt im Gefängnis.	टॉम अब जेल में है।
 Tom is now married.	Tom ist jetzt verheiratet.	टॉम अब शादीशुदा है।
 Tom is now on duty.	Tom hat gerade Dienst.	टॉम वर्तमान में ड्यूटी पर है।
 Tom is on duty now.	Tom hat gerade Dienst.	टॉम वर्तमान में ड्यूटी पर है।

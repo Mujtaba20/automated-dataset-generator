@@ -23676,3 +23676,12 @@ Tom is lying again.	Tom lügt wieder.	टॉम फिर से झूठ ब�
 Tom is lying to us.	Tom belügt uns.	टॉम हमें झूठ बोल रहा है।
 Tom is mad at Mary.	Tom ist wütend auf Maria.	टॉम मेरी से नाराज है।
 Tom is married now.	Tom ist jetzt verheiratet.	टॉम अब शादीशुदा है।
+Tom is much better.	Tom ist viel besser.	टॉम बहुत बेहतर है।
+Tom is my neighbor.	Tom ist mein Nachbar.	टॉम मेरा पड़ोसी है।
+Tom is my prisoner.	Tom ist mein Gefangener.	टॉम मेरा कैदी है।
+Tom is never sober.	Tom ist nie nüchtern.	टॉम कभी शराबी नहीं है।
+Tom is never there.	Tom ist nie da.	टॉम कभी वहाँ नहीं होता।
+Tom is not jealous.	Tom ist nicht eifersüchtig.	टॉम ज़्यादा ईर्ष्याशील नहीं है।
+Tom is not our man.	Tom ist nicht unser Mann.	टॉम हमारा आदमी नहीं है।
+Tom is not so sure.	Tom ist sich nicht so sicher.	टॉम इतना पक्का नहीं है।
+Tom is now in jail.	Tom ist jetzt im Gefängnis.	टॉम अब जेल में है।
