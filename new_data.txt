@@ -22861,3 +22861,13 @@ That house is mine.	Das Haus ist mein.	वह मकान मेरा है�
 That is intriguing.	Das ist faszinierend.	यह ख़ासदार है।
 That is not my pen.	Das ist nicht mein Stift.	वह मेरी कलम नहीं है।
 That is our father.	Das ist unser Vater.	वह हमारे पिता है।
+That is our school.	Das ist unsere Schule.	यह हमारा स्कूल है।
+That is surprising.	Das ist überraschend.	यह अचरजनक है।
+That isn't a tiger.	Das ist kein Tiger.	वह एक बाघ नहीं है।
+That isn't allowed.	Das ist nicht erlaubt.	यह अनुमति नहीं है।
+That isn't ketchup.	Das ist keine Ketchup.	वह केचप नहीं है।
+That job paid well.	Dieser Job hat gut bezahlt.	वह काम अच्छा पैसा दिया।
+That made me laugh.	Das brachte mich zum Lachen.	वह मुझे हंसने पे मजबूर कर दिया।
+That makes me sick.	Das macht mich krank.	वह मुझे बीमार कर देता है।
+That man ate bread.	Der Mann aß Brot.	उस आदमी ने रोटी खायी।
+That might be true.	Das könnte wahr sein.	यह सच हो सकता है।
