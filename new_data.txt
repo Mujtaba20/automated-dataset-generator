@@ -40214,3 +40214,11 @@ Tom is a powerful man.	Tom ist ein mächtiger Mann.	टॉम एक शक्�
 Tom is a psychiatrist.	Tom ist ein Psychiater.	टॉम मानसिक विशेषज्ञ है।
 Tom is a psychologist.	Tom ist ein Psychologe.	टॉम मनोविश्लेषक हैं।
 Tom is a sheep farmer.	Tom ist ein Schafzüchter.	टॉम भेड़ पालक हैं।
+Tom is a small person.	Tom ist eine kleine Person.	टॉम एक छोटा व्यक्ति है।
+Tom is a smart person.	Tom ist eine kluge Person.	टॉम एक बुद्धिमान व्यक्ति है।
+Tom is a student, too.	Tom ist auch Student.	टॉम भी एक छात्र है।
+Tom is a tough cookie.	Tom ist ein harter Hund.	टॉम एक कठोर कुकी है।
+Tom is a troublemaker.	Tom ist ein Unruhestifter.	टॉम समस्या पैदा करने वाला है।
+Tom is a truck driver.	Tom ist ein Lastwagenfahrer.	टॉम ट्रक चालक है।
+Tom is a very shy boy.	Tom ist ein sehr schüchterner Junge.	टॉम एक बहुत शर्मीला लड़का है।
+Tom is a very shy guy.	Tom ist ein sehr schüchterner Kerl.	टॉम एक बहुत शर्मीला आदमी है।

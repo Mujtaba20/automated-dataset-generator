@@ -1,14 +1,4 @@
 
-Tom is a small person.	Tom ein kleiner Mensch.	टॉम एक छोटा सा व्यक्ति।
-Tom is a smart person.	Tom ist ein kluger Mensch.	टॉम एक चतुर व्यक्ति है।
-Tom is a student, too.	Tom ist auch Student.	टॉम भी एक छात्र है।
-Tom is a tough cookie.	Tom ist abgebrüht.	टॉम को पीसा गया है।
-Tom is a troublemaker.	Tom ist ein Unruhestifter.	टॉम एक संकटमोचक है।
-Tom is a truck driver.	Tom ist Lkw-Fahrer.	टॉम एक ट्रक ड्राइवर है।
-Tom is a truck driver.	Tom ist Lastwagenfahrer.	टॉम एक ट्रक ड्राइवर है।
-Tom is a truck driver.	Tom ist Lasterfahrer.	टॉम एक वाइस ड्राइवर है।
-Tom is a very shy boy.	Tom ist ein sehr schüchterner Junge.	टॉम बहुत शर्मीला लड़का है।
-Tom is a very shy guy.	Tom ist ein sehr schüchterner Typ.	टॉम बहुत शर्मीला आदमी है।
 Tom is a witch doctor.	Tom ist Medizinmann.	टॉम एक दवा आदमी है।
 Tom is a witch doctor.	Tom ist ein Schamane.	टॉम एक शमन है।
 Tom is a yoga teacher.	Tom ist Yogalehrer.	टॉम एक योग शिक्षक है।
