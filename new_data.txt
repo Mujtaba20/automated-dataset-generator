@@ -30093,3 +30093,12 @@ Wow! What a big box!	Wow! Was für eine große Schachtel!	वाह! कित�
 Wow, it's hot today.	Wow, es ist heute heiß.	वाह, आज गरमी है।
 Would you like some? (Different Meaning)	Magst du ein paar?	क्या आप कुछ पसंद करेंगे?
 Would you like that? (Different Meaning)	Möchten Sie das haben?	क्या आप चाहेंगे?
+Write a short essay.	Schreiben Sie einen kurzen Aufsatz.	एक छोटा निबंध लिखें।
+Yes, please do that.	Ja, bitte tu das.	हां, कृपया वैसा करें।
+Yesterday I was ill.	Gestern war ich krank.	कल मुझे बीमारी थी।
+You always say that.	Du sagst das immer.	तुम हमेशा यह कहते हो।
+You are a good cook.	Du bist ein guter Koch.	आप एक अच्छे रसोइया हैं।
+You are a professor.	Sie sind Professor.	आप प्रोफेसर हैं।
+You are always late.	Du kommst immer zu spät.	तुम हमेशा देर से आते हो।
+You are lying to me.	Du lügst mich an.	तुम मुझसे झूठ बोल रहे हो।
+I am feeling better now.	Ich fühle mich jetzt besser.	मुझे अब बेहतर लग रहा है।
