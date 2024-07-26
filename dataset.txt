@@ -1,15 +1,4 @@
 
-She played basketball.	Sie spielte Basketball.	उसने बास्केटबॉल खेला।
-She played the violin.	Sie spielte Geige.	उसने वायलिन खेला।
-She poured tea for me.	Sie goss Tee für mich auf.	उसने मेरे लिए चाय डाली।
-She reads after lunch.	Sie liest nach dem Mittagessen.	वह दोपहर के भोजन के बाद पढ़ती है।
-She really likes cake.	Sie ist ganz wild auf Kuchen.	वह केक पर बहुत जंगली है।
-She refused his offer.	Sie lehnte sein Angebot ab.	उसने अपने प्रस्ताव को अस्वीकार कर दिया।
-She refused his offer.	Sie hat sein Angebot abgelehnt.	उसने अपने प्रस्ताव को खारिज कर दिया।
-She refused his offer.	Sie hat sein Angebot ausgeschlagen.	उसने अपना प्रस्ताव खटखटाया।
-She refused his offer.	Sie schlug sein Angebot aus.	उसने अपने प्रस्ताव को बाहर कर दिया।
-She returned to Japan.	Sie ist nach Japan zurückgekehrt.	वह जापान लौट आई है।
-She returned to Japan.	Sie ging zurück nach Japan.	वह वापस जापान चली गई।
 She screamed for help.	Sie schrie um Hilfe.	वह मदद के लिए चिल्लाया।
 She seems to be happy.	Sie scheint glücklich zu sein.	वह खुश लगती है।
 She seems to hate you.	Sie scheint dich zu hassen.	वह आपसे नफरत करती है।

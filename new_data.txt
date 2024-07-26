@@ -39133,3 +39133,10 @@ She misses her father.	Sie vermisst ihren Vater.	वह अपने पित�
 She needs to help him.	Sie muss ihm helfen.	उसे उसकी मदद करनी चाहिए।
 She never wears green.	Sie trägt nie Grün.	वह कभी हरा नहीं पहनती।
 She never wears pants.	Sie trägt nie Hosen.	वह कभी पैंट नहीं पहनती।
+She played basketball.	Sie spielte Basketball.	उसने बास्केटबॉल खेला।
+She played the violin.	Sie spielte die Violine.	उसने वायलिन बजाई।
+She poured tea for me.	Sie goss Tee für mich ein.	उसने मुझे चाय डाली।
+She reads after lunch.	Sie liest nach dem Mittagessen.	वह दोपहर के बाद पढ़ती है।
+She really likes cake.	Sie mag Kuchen wirklich gerne.	उसे केक सच में पसंद है।
+She refused his offer.	Sie hat sein Angebot zurückgewiesen.	उसने उसका प्रस्ताव खारिज किया।
+She returned to Japan.	Sie kehrte nach Japan zurück.	उसने जापान वापस आ गई।
