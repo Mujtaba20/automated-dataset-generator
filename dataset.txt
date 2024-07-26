@@ -1,14 +1,4 @@
 
-I'm not here every day.	Ich bin nicht jeden Tag hier.	मैं हर दिन यहां नहीं हूं।
-I'm not hungry anymore.	Ich bin nicht mehr hungrig.	मैं अब भूखा नहीं हूं।
-I'm not jealous of Tom.	Ich bin nicht eifersüchtig auf Tom.	मुझे टॉम से ईर्ष्या नहीं है।
-I'm not letting Tom go.	Ich lasse Tom nicht gehen.	मैं टॉम को जाने नहीं देता।
-I'm not lonely anymore.	Ich bin nicht mehr einsam.	मैं अब अकेला नहीं हूं।
-I'm not making this up.	Das hab ich mir nicht einfach so ausgedacht.	मैं सिर्फ उसी के साथ नहीं आया था।
-I'm not older than Tom.	Ich bin nicht älter als Tom.	मैं टॉम से बड़ी नहीं हूं।
-I'm not quite sure yet.	Ich bin mir noch nicht ganz sicher.	मुझे अभी तक यकीन नहीं है।
-I'm not related to Tom.	Ich bin nicht mit Tom verwandt.	मैं टॉम से संबंधित नहीं हूं।
-I'm not sorry I'm late.	Die Verspätung tut mir leid.	देरी के लिए मै माफी चाहता हूँ।
 I'm not sure I'm ready.	Ich bin mir nicht sicher, ob ich bereit bin.	मुझे यकीन नहीं है कि मैं तैयार हूं।
 I'm not sure right now.	Ich bin gerade nicht sicher.	मुझे अभी यकीन नहीं है।
 I'm not taking the bus.	Ich fahre mit keinem Bus.	मैं किसी भी बस के साथ ड्राइव नहीं करता।
