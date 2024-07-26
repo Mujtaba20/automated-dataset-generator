@@ -30813,3 +30813,9 @@ Don't wait up for me.	Warten Sie nicht auf mich.	मेरे लिए उप�
 Don't walk out on me.	Geh nicht weg von mir.	मेरे पास से मत चलो।
 Don't worry about it!	Mach dir keine Sorgen darum!	इस बारे में चिंता मत करो!
 Don't worry about it.	Mach dir darüber keine Gedanken.	इस बारे में फिकर मत करो।
+Don't worry about me.	Mach dir keine Sorgen um mich.	मेरे बारे में चिंता मत करो।
+Don't worry about us.	Mach dir keine Sorgen um uns.	हमारे बारे में चिंता मत करो।
+Don't worry. It's OK.	Mach dir keine Sorgen. Es ist in Ordnung.	चिंता मत करो। ठीक है।
+Don't you agree, Tom?	Stimmt es nicht, Tom?	क्या तुम्हें सहमति नहीं है, टॉम?
+Don't you believe it?	Glaubst du es nicht?	क्या आप इस पर विश्वास नहीं करते हैं?
+Don't you believe me?	Glaubst du mir nicht?	क्या आप मुझपर विश्वास नहीं करते?

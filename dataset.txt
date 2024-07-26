@@ -1,14 +1,4 @@
 
-Don't worry about me.	Macht euch keine Sorgen um mich.	मेरे बारे में चिंता मत करो।
-Don't worry about me.	Mach dir keine Sorgen um mich.	मेरे बारे में चिंता मत करो।
-Don't worry about me.	Machen Sie sich keine Sorgen um mich.	मेरे बारे में चिंता मत करो।
-Don't worry about us.	Mach dir keine Sorgen um uns.	हमारे बारे में चिंता मत करो।
-Don't worry. It's OK.	Keine Sorge. Es ist in Ordnung.	कोई चिंता नहीं।कोई बात नहीं।
-Don't you agree, Tom?	Stimmst du nicht zu, Tom?	क्या आप सहमत नहीं हैं, टॉम?
-Don't you believe it?	Glaubst du es nicht?	तुम्हें विश्वास नहीं है?
-Don't you believe me?	Glaubst du mir nicht?	क्या आप मुझ पर विश्वास नहीं करते?
-Don't you believe me?	Glauben Sie mir nicht?	मुझ पर भरोसा नहीं करो?
-Don't you believe me?	Glaubt ihr mir nicht?	क्या आप मुझ पर विश्वास नहीं करते?
 Don't you have a pen?	Hast du keinen Kuli?	क्या आपके पास कोई समापन नहीं है?
 Don't you have a pen?	Hast du keinen Stift?	क्या आपके पास कोई कलम नहीं है?
 Don't you have a pen?	Haben Sie keinen Stift?	क्या आपके पास कोई कलम नहीं है?
