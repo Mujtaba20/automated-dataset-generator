@@ -1,14 +1,4 @@
 
-Tom said hello to Mary.	Tom sagte Hallo zu Maria.	टॉम ने मारिया को नमस्ते कहा।
-Tom said so many times.	Tom hat das viele Male gesagt.	टॉम ने कहा कि कई बार।
-Tom said you were busy.	Tom sagte, du seist beschäftigt.	टॉम ने कहा कि आप व्यस्त थे।
-Tom said you were busy.	Tom sagte, ihr wäret beschäftigt.	टॉम ने कहा कि आप व्यस्त थे।
-Tom said you were busy.	Tom hat gesagt, dass Sie beschäftigt seien.	टॉम ने कहा कि वे व्यस्त थे।
-Tom said you were dead.	Tom sagte, du seist tot.	टॉम ने कहा कि तुम मर गए हो।
-Tom sang Mary to sleep.	Tom sang Maria in den Schlaf.	टॉम ने मारिया को सोने के लिए गाया।
-Tom sang Mary to sleep.	Tom hat Maria in den Schlaf gesungen.	टॉम ने मारिया को सोने के लिए गाया।
-Tom sat down on a rock.	Tom setzte sich auf einen Stein.	टॉम एक पत्थर पर बैठ गया।
-Tom sat down with Mary.	Tom setzte sich mit Maria hin.	टॉम मारिया के साथ बैठ गया।
 Tom sat in front of me.	Tom saß vor mir.	टॉम मेरे सामने बैठ गया।
 Tom sat reading a book.	Tom saß da ​​und las ein Buch.	टॉम वहां बैठकर एक किताब पढ़ी।
 Tom saw Mary at school.	Tom hat Maria in der Schule gesehen.	टॉम ने स्कूल में मारिया को देखा।
