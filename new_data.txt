@@ -29645,3 +29645,11 @@ We should head home.	Wir sollten nach Hause gehen.	हमें घर की �
 We should turn back.	Wir sollten umkehren.	हमें पीछे मुड़ना चाहिए।
 We talked until two.	Wir haben bis zwei Uhr geredet.	हम दो बजे तक बात की।
 We thought you knew.	Wir dachten, du wusstest.	हमें लगा तुम्हें पता था।
+We traveled on foot.	Wir reisten zu Fuß.	हम पैदल यात्रा किए।
+We waited till 2:30.	Wir warteten bis 2:30.	हम 2:30 बजे तक इंतज़ार किया।
+We want information.	Wir möchten Informationen.	हमें जानकारी चाहिए।
+We want out of here.	Wir wollen hier raus.	हम यहाँ से बाहर निकलना चाहते हैं।
+We want some advice.	Wir möchten einen Rat.	हमें कुछ सलाह चाहिए।
+We want to help Tom.	Wir möchten Tom helfen.	हम टॉम की मदद करना चाहते हैं।
+We want to help you.	Wir möchten dir helfen.	हम आपकी मदद करना चाहते हैं।
+We want to know why.	Wir möchten wissen, warum.	हम जानना चाहते हैं कि क्यों।
