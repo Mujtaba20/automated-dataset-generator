@@ -40116,3 +40116,13 @@ Tom has been expelled.	Tom wurde verwiesen.	टॉम को निकाल द
 Tom has been generous.	Tom war großzügig.	टॉम उदार रहा है।
 Tom has been murdered.	Tom wurde ermordet.	टॉम की हत्या हो गई है।
 Tom has changed a lot.	Tom hat sich sehr verändert.	टॉम ने बहुत बदल लिया है।
+Tom has decided to go.	Tom hat sich entschieden zu gehen.	टॉम ने जाने का निर्णय लिया है।
+Tom has endured a lot.	Tom hat viel ertragen.	टॉम ने बहुत कुछ सहा है।
+Tom has gained weight.	Tom hat zugenommen.	टॉम ने वजन बढ़ा लिया है।
+Tom has gone for good.	Tom ist für immer gegangen.	टॉम गया है सदैव के लिए।
+Tom has good eyesight.	Tom hat eine gute Sehkraft.	टॉम की अच्छी दृष्टि है।
+Tom has good reflexes.	Tom hat schnelle Reflexe.	टॉम के अच्छे प्रतिक्रिया हैं।
+Tom has had a bad day.	Tom hat einen schlechten Tag gehabt.	टॉम का एक खराब दिन था।
+Tom has joined a gang.	Tom ist einer Gang beigetreten.	टॉम ने गैंग में शामिल हो गया है।
+Tom has left for good.	Tom ist für immer gegangen.	टॉम ने शांतिपूर्वक छोड़ दिया है।
+Tom has left the city.	Tom hat die Stadt verlassen.	टॉम ने शहर छोड़ दिया है।

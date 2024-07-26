@@ -1,14 +1,4 @@
 
-Tom has decided to go.	Tom hat sich entschlossen zu gehen.	टॉम ने जाने का फैसला किया है।
-Tom has endured a lot.	Tom hat viel ausgehalten.	टॉम ने बहुत कुछ किया।
-Tom has gained weight.	Tom hat zugenommen.	टॉम में वृद्धि हुई है।
-Tom has gone for good.	Tom ist für immer gegangen.	टॉम हमेशा के लिए छोड़ दिया।
-Tom has good eyesight.	Tom hat gute Augen.	टॉम की आँखें अच्छी हैं।
-Tom has good reflexes.	Tom hat gute Reflexe.	टॉम में अच्छी सजगता है।
-Tom has had a bad day.	Tom hat einen schlechten Tag gehabt.	टॉम का दिन बुरा था।
-Tom has joined a gang.	Tom ist einer Bande beigetreten.	टॉम एक गिरोह में शामिल हो गया है।
-Tom has left for good.	Tom ist für immer gegangen.	टॉम हमेशा के लिए छोड़ दिया।
-Tom has left the city.	Tom hat die Stadt verlassen.	टॉम ने शहर छोड़ दिया।
 Tom has lost his keys.	Tom hat seine Schlüssel verloren.	टॉम ने अपनी चाबी खो दी।
 Tom has lost his mind.	Tom hat den Verstand verloren.	टॉम ने मन खो दिया।
 Tom has lost his mind.	Tom ist von Sinnen.	टॉम इंद्रियों का है।
