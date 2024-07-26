@@ -1,15 +1,4 @@
 
-He often plays piano.	Er spielt oft Klavier.	वह अक्सर पियानो बजाता है।
-He picked up a stone.	Er hob einen Stein auf.	उसने एक पत्थर उठाया।
-He pressed his pants.	Er bügelte seine Hose.	उसने अपनी पैंट को इस्त्री किया।
-He pressed his pants.	Er bügelte seine Hosen.	उसने अपनी पैंट को इस्त्री किया।
-He put away his toys.	Er räumte sein Spielzeug weg.	उसने अपना खिलौना साफ कर दिया।
-He put away his toys.	Er räumte seine Spielsachen weg.	उसने अपने खिलौने साफ कर दिए।
-He raised a question.	Er warf eine Frage auf.	उन्होंने एक सवाल उठाया।
-He ran into the room.	Er rannte ins Zimmer.	वह कमरे में भाग गया।
-He ran outside naked.	Er ist nackt nach draußen gerannt.	वह नग्न भाग गया।
-He ran outside naked.	Er ist nackig rausgerannt.	वह नग्न भाग गया।
-He ran outside naked.	Er rannte nackt nach draußen.	वह नग्न बाहर भाग गया।
 He ran up the stairs.	Er lief die Treppe hinauf.	वह सीढ़ियों से भाग गया।
 He rang the doorbell.	Er klingelte an der Tür.	उसने दरवाजे की घंटी बजाई।
 He rarely gets angry.	Er wird selten böse.	वह शायद ही कभी बुराई करता है।

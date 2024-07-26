@@ -31136,3 +31136,13 @@ He must have seen it.	Er muss es gesehen haben.	उसने उसे देख
 He never looked back.	Er hat nie zurückgeschaut.	उसने कभी पीछे नहीं देखा।
 He never tells a lie.	Er sagt nie eine Lüge.	वह कभी झूठ नहीं बोलता।
 He never wears a tie.	Er trägt nie eine Krawatte.	वह कभी टाई नहीं पहनता।
+He often plays piano.	Er spielt oft Klavier.	वह अक्सर पियानो बजाता है।
+He picked up a stone.	Er hob einen Stein auf.	उसने एक पत्थर उठाया।
+He pressed his pants.	Er bügelte seine Hose.	उसने अपनी पैंट प्रेस की।
+He pressed his pants. 1	Er drückte seine Hose.	उसने अपनी पैंट दबाई।
+He put away his toys.	Er räumte seine Spielzeuge weg.	उसने अपने खिलौने दूर कर दिए।
+He put away his toys. 1	Er legte seine Spielzeuge weg.	उसने अपने खिलौने रख दिए।
+He raised a question.	Er stellte eine Frage.	उसने एक सवाल उठाया।
+He ran into the room.	Er rannte ins Zimmer.	उसने कमरे में दौड़ा।
+He ran outside naked.	Er lief draußen nackt.	वह नंगे होकर बाहर भाग गया।
+He ran outside naked. 1	Er rannte nackt nach draußen.	वह अनगधी होकर बाहर दौड़ा।
