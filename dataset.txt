@@ -1,14 +1,4 @@
 
-Tom likes watching TV.	Tom sieht gerne fern.	टॉम को दूर देखना पसंद है।
-Tom likes watching TV.	Tom sieht gern fern.	टॉम को दूर देखना पसंद है।
-Tom lit three candles.	Tom zündete drei Kerzen an.	टॉम ने तीन मोमबत्तियाँ जलाईं।
-Tom lived a hard life.	Tom hatte ein schweres Leben.	टॉम के पास एक मुश्किल जीवन था।
-Tom lives in the city.	Tom lebt in der Stadt.	टॉम शहर में रहता है।
-Tom lives like a king.	Tom lebt wie ein König.	टॉम एक राजा की तरह रहता है।
-Tom lives like a monk.	Tom lebt wie ein Mönch.	टॉम एक भिक्षु की तरह रहता है।
-Tom looked a bit sick.	Tom sah ein bisschen krank aus.	टॉम थोड़ा बीमार लग रहा था।
-Tom looked at his dog.	Tom sah seinen Hund an.	टॉम ने अपने कुत्ते को देखा।
-Tom looked at his dog.	Tom betrachtete seinen Hund.	टॉम ने अपने कुत्ते को देखा।
 Tom looked bewildered.	Tom sah verwirrt aus.	टॉम उलझन में लग रहा था।
 Tom looked good today.	Tom sah heute gut aus.	टॉम आज अच्छा लग रहा था।
 Tom looked thoughtful.	Tom sah nachdenklich aus.	टॉम विचारशील लग रहा था।

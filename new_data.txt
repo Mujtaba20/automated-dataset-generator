@@ -40503,3 +40503,11 @@ Tom likes his new job.	Tom mag seinen neuen Job.	टॉम को उसका �
 Tom likes raw carrots.	Tom mag rohe Möhren.	टॉम को कच्ची गाजर पसंद है।
 Tom likes to show off.	Tom zeigt gerne.	टॉम दिखावा करने का शौकीन है।
 Tom likes to watch TV.	Tom sieht gerne fern.	टॉम को टीवी देखना पसंद है।
+Tom likes watching TV.	Tom genießt es, fernzusehen.	टॉम को टीवी देखना पसंद है।
+Tom lit three candles.	Tom zündete drei Kerzen an.	टॉम ने तीन मोमबत्तियां जलाईं।
+Tom lived a hard life.	Tom führte ein hartes Leben.	टॉम ने एक कठिन जीवन जिया।
+Tom lives in the city.	Tom lebt in der Stadt.	टॉम शहर में रहता है।
+Tom lives like a king.	Tom lebt wie ein König.	टॉम एक राजा की तरह जीता है।
+Tom lives like a monk.	Tom lebt wie ein Mönch.	टॉम एक साधु की तरह जीता है।
+Tom looked a bit sick.	Tom sah ein bisschen krank aus.	टॉम कुछ बीमार लग रहा था।
+Tom looked at his dog.	Tom schaute seinen Hund an.	टॉम अपने कुत्ते की ओर देख रहा था।
