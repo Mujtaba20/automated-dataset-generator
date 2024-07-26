@@ -35268,3 +35268,4 @@ We were both thirsty.	Wir waren beide durstig.	हम दोनों प्य�
 We were expecting it.	Wir haben es erwartet.	हम इसे उम्मीद कर रहे थे।
 We were just friends.	Wir waren nur Freunde.	हम बस दोस्त थे।
 We were one too many.	Wir waren einer zu viel.	हम एक अधिक थे।
+engSentence	Wir arbeiten in einer Fabrik.	हम कारख़ाने में काम करते हैं।
