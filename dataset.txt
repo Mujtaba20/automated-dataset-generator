@@ -1,15 +1,4 @@
 
-It's a book on animals.	Das ist ein Buch über Tiere.	यह जानवरों के बारे में एक किताब है।
-It's a difficult topic.	Das ist ein schwieriges Thema.	यह एक कठिन विषय है।
-It's a difficult world.	Es ist eine schwierige Welt.	यह एक मुश्किल दुनिया है।
-It's a family heirloom.	Das ist ein Familienerbstück.	यह एक पारिवारिक ऊंचाई है।
-It's a good investment.	Es ist eine gute Investition.	यह एक अच्छा निवेश है।
-It's a hard, dirty job.	Das ist eine anstrengende, dreckige Arbeit.	यह एक ज़ोरदार, गंदा काम है।
-It's a joke, of course.	Es ist natürlich ein Witz.	यह निश्चित रूप से एक मजाक है।
-It's a joke, of course.	Es ist natürlich ein Scherz.	यह निश्चित रूप से एक मजाक है।
-It's a matter of taste.	Das ist Geschmackssache.	यह स्वाद की बात है।
-It's a personal matter.	Es handelt sich um eine persönliche Angelegenheit.	यह एक व्यक्तिगत मामला है।
-It's a personal matter.	Es handelt sich um etwas Persönliches.	यह कुछ व्यक्तिगत है।
 It's a present for you.	Das ist ein Geschenk für dich.	यह आपके लिए उपहार है।
 It's a present for you.	Es ist ein Geschenk für dich.	यह आपके लिए एक उपहार है।
 It's a secret, I guess.	Das ist wohl ein Geheimnis.	यह शायद एक रहस्य है।
