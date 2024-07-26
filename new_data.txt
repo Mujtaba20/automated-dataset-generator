@@ -32936,3 +32936,13 @@ It's too late anyway.	Es ist sowieso zu spät.	जैसे ही है।
 It's under the table.	Es ist unter dem Tisch.	यह मेज के नीचे है।
 It's very cold today.	Es ist heute sehr kalt.	आज बहुत ठंडा है।
 It's very satisfying.	Es ist sehr befriedigend.	यह बहुत संतोषप्रद है।
+It's very surprising.	Es ist sehr überraschend.	यह बहुत हैरान कर देने वाली बात है।
+It's very warm today.	Es ist heute sehr warm.	आज बहुत गर्मी है।
+It's what I would do.	Es ist das, was ich tun würde.	यह वह है जो मैं करूंगा।
+It's what Tom wanted.	Es ist das, was Tom wollte.	यह वह है जो टॉम चाहता था।
+It's what we deserve.	Es ist das, was wir verdienen.	यह वह है जिसका हमें हक मिलता है।
+It's worse than that.	Es ist schlimmer als das.	यह उससे भी ज्यादा खराब है।
+It's worth a fortune.	Es ist ein Vermögen wert.	यह एक दौलत का है।
+It's worth the money.	Es ist das Geld wert.	यह पैसे का है।
+Italy is a peninsula.	Italien ist eine Halbinsel.	इटली एक प्रायद्वीप है।
+Just brush your hair.	Bürsten Sie einfach Ihre Haare.	बस अपने बाल साफ करें।
