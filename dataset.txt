@@ -1,16 +1,4 @@
 
-I want you to fire Tom.	Ich will, dass du Tom feuerst.	मैं चाहता हूं कि आप टॉम को फायर करें।
-I want you to go there.	Ich möchte, dass du dorthin gehst.	मैं चाहता हूं कि आप वहां जाएं।
-I want you to go there.	Ich möchte, dass Sie dorthin gehen.	मैं चाहता हूं कि आप वहां जाएं।
-I want you to go there.	Ich möchte, dass ihr dorthin geht.	मैं चाहता हूं कि आप वहां जाएं।
-I want you to have fun.	Ich will, dass ihr fröhlich seid.	मुझे खुश रहना है।
-I want you to have fun.	Ich will, dass ihr euch vergnügt.	मुझे खुश रहना है।
-I want you to have fun.	Ich will, dass du fröhlich seist.	मुझे खुश रहना है।
-I want you to have fun.	Ich will, dass du dich vergnügst.	मैं चाहता हूं कि आप मज़े करें।
-I want you to have fun.	Ich will, dass du Spaß hast.	मैं चाहता हूं कि आप मज़े करें।
-I want you to help Tom.	Ich möchte, dass du Tom hilfst.	मैं चाहता हूं कि आप टॉम की मदद करें।
-I want you to help Tom.	Ich möchte, dass ihr Tom helft.	मैं चाहता हूं कि आपका टॉम मदद करे।
-I want you to help Tom.	Ich möchte, dass Sie Tom helfen.	मैं चाहता हूं कि आप टॉम की मदद करें।
 I want you to like Tom.	Ich möchte, dass du Tom magst.	मैं चाहता हूं कि आप टॉम को पसंद करें।
 I want you to meet Tom.	Ich möchte, dass du Tom kennenlernst.	मैं चाहता हूं कि आप टॉम को जानें।
 I want you to see this.	Ich will, dass du dir das ansiehst.	मैं चाहता हूं कि आप इसे देखें।
