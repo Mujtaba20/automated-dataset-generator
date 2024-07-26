@@ -1,14 +1,4 @@
 
-I haven't forgiven you.	Ich habe dir nicht verziehen.	मैंने आपको माफ नहीं किया।
-I haven't forgiven you.	Ich habe dir noch nicht verziehen.	मैंने आपको अभी तक माफ नहीं किया है।
-I haven't found it yet.	Ich habe es noch nicht gefunden.	मैंने इसे अभी तक नहीं पाया है।
-I haven't got a chance.	Ich habe keine Chance.	मेरे पास कोई मौका नहीं है।
-I haven't said yes yet.	Ich habe noch nicht Ja gesagt.	मैंने अभी तक हां नहीं कहा है।
-I haven't seen Tom yet.	Ich habe Tom noch nicht gesehen.	मैंने टॉम को अभी तक नहीं देखा है।
-I haven't told Tom yet.	Ich habe es Tom noch nicht gesagt.	मैंने अभी तक टॉम नहीं कहा है।
-I haven't unpacked yet.	Ich habe noch nicht ausgepackt.	मैंने अभी तक अनपैक नहीं किया है।
-I hear someone talking.	Ich höre jemanden reden.	मैंने किसी को बात करते हुए सुना।
-I heard a cry for help.	Ich hörte einen Hilfeschrei.	मैंने मदद के लिए एक रोना सुना।
 I heard a wolf howling.	Ich hörte einen Wolf jaulen.	मैंने एक भेड़िया सुना।
 I heard a woman scream.	Ich hörte eine Frau schreien.	मैंने एक महिला को चिल्लाते हुए सुना।
 I heard my name called.	Ich habe gehört, wie jemand meinen Namen gerufen hat.	मैंने किसी को मेरा नाम पुकारा।
