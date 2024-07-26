@@ -38197,3 +38197,13 @@ I'm from a big family.	Ich komme aus einer großen Familie.	मेरा पर�
 I'm game for anything.	Ich bin für alles bereit.	मैं किसी भी चीज के लिए तैयार हूँ।
 I'm giving up smoking.	Ich höre mit dem Rauchen auf.	मैं सिगरेट छोड़ रहा हूँ।
 I'm glad I was nearby.	Ich bin froh, dass ich in der Nähe war.	मुझे खुशी है कि मैं पास था।
+engSentence1	Ich freue mich, dass Tom gegangen ist.	मुझे खुशी है कि टॉम चला गया है।
+engSentence2	Ich freue mich, das zu hören.	मुझे खुशी है यह सुनकर।
+engSentence3	Ich bin froh, das zu hören.	मेरे सुनकर खुशी हो रही है।
+engSentence4	Es freut mich, das zu hören.	मुझे यह सुनकर अच्छा लगा।
+engSentence5	Ich gehe alleine dorthin.	मैं अकेले वहाँ जा रहा हूँ।
+engSentence6	Ich werde dort sein.	मैं वहाँ होने जा रहा हूँ।
+engSentence7	Ich werde dorthin gehen.	मैं वहाँ जाने वाला हूँ।
+engSentence8	Ich werde dir helfen.	मैं तुम्हें मदद करूँगा।
+engSentence9	Ich werde Ihnen helfen.	मैं आपकी सहायता करूँगा।
+engSentence10	Ich werde dir helfen.	मैं तुम्हारी मदद करूँगा।

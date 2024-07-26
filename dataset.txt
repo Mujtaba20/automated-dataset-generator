@@ -1,14 +1,4 @@
 
-I'm glad Tom has gone.	Ich bin froh, dass Tom weg ist.	मुझे खुशी है कि टॉम चला गया है।
-I'm glad to hear that.	Freut mich, das zu hören.	मुझे यह सुनकर ख़ुशी हुई।
-I'm glad to hear that.	Ich freue mich, das zu hören.	मुझे वह सुनकर बेहद खुशी हुई।
-I'm glad to hear that.	Es freut mich, das zu hören.	मुझे यह सुन कर खुशी हुई।
-I'm going there alone.	Ich gehe allein dorthin.	मैं वहां अकेला जाता हूं।
-I'm going to be there.	Ich werde da sein.	मैं वहां रहूंगा।
-I'm going to go there.	Ich werde dorthin gehen.	मेरे वहां जाना होगा।
-I'm going to help you.	Ich helfe dir jetzt.	मैं अब आपकी मदद करूंगा।
-I'm going to help you.	Ich helfe Ihnen jetzt.	मैं अब आपकी मदद करूंगा।
-I'm going to help you.	Ich helfe euch jetzt.	मैं अब आपकी मदद करूंगा।
 I'm going to hurt you.	Ich werde dir weh tun!	तुम्हें दुःख पहुंचेगा!
 I'm going to kill you.	Ich bring dich um.	मैं तुम्हें मार दूँगा।
 I'm going to miss Tom.	Tom wird mir fehlen.	मुझे टॉम याद आ रहा है।
