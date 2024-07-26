@@ -1,14 +1,4 @@
 
-Tom saved your life.	Tom hat dir das Leben gerettet.	टॉम ने आपकी जान बचाई।
-Tom saved your life.	Tom hat Ihnen das Leben gerettet.	टॉम ने उनकी जान बचाई।
-Tom saw Mary coming.	Tom sah Maria kommen.	टॉम ने मारिया को आते देखा।
-Tom saw Mary crying.	Tom sah Mary weinen.	टॉम ने मैरी को रोते देखा।
-Tom saw you do that.	Tom hat dich das tun gesehen.	टॉम ने आपको यह करते देखा।
-Tom says he is rich.	Tom sagt, er sei reich.	टॉम का कहना है कि वह अमीर हैं।
-Tom says he'll come.	Tom sagt, er wird kommen.	टॉम का कहना है कि वह आएगा।
-Tom says he's happy.	Tom sagt, er ist glücklich.	टॉम का कहना है कि वह खुश है।
-Tom says he's tired.	Tom sagt, dass er müde ist.	टॉम का कहना है कि वह थक गया है।
-Tom scaled the fish.	Tom entschuppte den Fisch.	टॉम ने मछली को गिरा दिया।
 Tom seemed arrogant.	Tom wirkte arrogant.	टॉम अभिमानी लग रहा था।
 Tom seemed relieved.	Tom schien erleichtert zu sein.	टॉम को राहत मिल रही थी।
 Tom seemed very sad.	Tom schien sehr traurig zu sein.	टॉम बहुत दुखी लग रहा था।

@@ -29248,3 +29248,13 @@ Tom sat facing Mary.	Tom saß Mary gegenüber.	टॉम मेरी के स
 Tom sat watching TV.	Tom saß und schaute fern.	टॉम टीवी देखते बैठा था।
 Tom saved everybody.	Tom hat alle gerettet.	टॉम ने सभी को बचाया।
 Tom saved our lives.	Tom hat unser Leben gerettet.	टॉम ने हमारी जानें बचाई।
+engSentence1	Tom hat dein Leben gerettet.	टॉमने आपकी जान बचाई।
+engSentence2	Tom hat dein Leben gerettet.	टॉमने तुम्हारी जिंदगी को बचाया।
+engSentence3	Tom sah Maria kommen.	टॉमने मेरी आते हुए देखा।
+engSentence4	Tom sah Maria weinen.	टॉमने मेरी को रोते हुए देखा।
+engSentence5	Tom sah dich das tun.	टॉमने तुम्हें वह करते हुए देखा।
+engSentence6	Tom sagt, er ist reich.	टॉम कहता है कि वह अमीर है।
+engSentence7	Tom sagt, er wird kommen.	टॉम कहता है कि वह आएगा।
+engSentence8	Tom sagt, er ist glücklich.	टॉम कहता है कि वह खुश है।
+engSentence9	Tom sagt, er ist müde.	टॉम कहता है कि वह थका हुआ है।
+engSentence10	Tom konnte den Fisch fangen.	टॉमने मछली को मापा।
