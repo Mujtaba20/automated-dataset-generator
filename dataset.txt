@@ -1,14 +1,4 @@
 
-You're cooperating.	Ihr arbeitet mit.	आप के साथ काम।
-You're cooperating.	Sie arbeiten mit.	आप के साथ काम।
-You're cooperating.	Du arbeitest mit.	आप के साथ काम।
-You're cooperating.	Du wirkst mit.	तुम के साथ देखो।
-You're cooperating.	Ihr wirkt mit.	तुम देखो।
-You're cooperating.	Sie wirken mit.	वे साथ काम करते हैं।
-You're cooperating.	Du kooperierst.	आप सहयोग करते हैं।
-You're cooperating.	Sie kooperieren.	वे सहयोग करते हैं।
-You're cooperating.	Ihr kooperiert.	आपने सहयोग किया।
-You're doing great.	Du machst das großartig.	आप उस महान करते हैं।
 You're extroverted.	Du bist extrovertiert.	आप बहिर्मुखी हैं।
 You're extroverted.	Sie sind extrovertiert.	वे बहिर्मुखी हैं।
 You're extroverted.	Ihr seid extrovertiert.	आप बहिर्मुखी हैं।

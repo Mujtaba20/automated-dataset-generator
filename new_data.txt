@@ -24965,3 +24965,4 @@ You're annoying me.	Du gehst mir auf die Nerven.	तुम मुझे पर�
 You're avoiding me.	Du meidest mich.	तुम मुझसे बच रहे हो।
 You're both insane.	Ihr seid beide verrückt.	तुम दोनो पागल हो।
 You're charismatic.	Du bist charismatisch.	तुम आकर्षक हो।
+You're cooperating.	Ihr leistet gute Arbeit.	तुम अच्छा काम कर रहे हो।
