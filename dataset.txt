@@ -1,14 +1,4 @@
 
-I'll only be a minute.	Ich brauche nur eine Minute.	मुझे केवल एक मिनट की जरूरत है।
-I'll only be a second.	Ich brauche nur eine Sekunde.	मुझे केवल एक सेकंड की जरूरत है।
-I'll pick him up at 5.	Ich werde ihn um fünf abholen.	मैं उसे पांच बजे उठाऊंगा।
-I'll probably be late.	Ich werde mich wahrscheinlich verspäten.	मुझे शायद देर हो जाएगी।
-I'll see you Saturday.	Ich werde dich am Samstag sehen.	मैं आपको शनिवार को देखूंगा।
-I'll see you in class.	Wir sehen uns im Unterricht!	कक्षा में मिलेंगे!
-I'll see you in court.	Wir sehen uns vor Gericht!	हम आपको अदालत में देखेंगे!
-I'll see you in there.	Wir sehen uns dort.	वहाँ मिलते हैं।
-I'll show that to Tom.	Ich werd's Tom zeigen.	मैं टॉम दिखाऊंगा।
-I'll show that to Tom.	Ich zeig' das mal Tom.	मैं टॉम दिखाता हूं।
 I'll show you my room.	Ich zeige Ihnen mein Zimmer.	मैं तुम्हें अपना कमरा दिखाऊंगा।
 I'll show you my room.	Ich zeige dir mein Zimmer.	मैं तुम्हें अपना कमरा दिखाऊंगा।
 I'll show you my room.	Ich zeige euch mein Zimmer.	मैं तुम्हें अपना कमरा दिखाऊंगा।

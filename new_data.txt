@@ -38132,3 +38132,12 @@ I'll make some coffee.	Ich werde etwas Kaffee machen.	मैं कुछ कॉ
 I'll make you a drink.	Ich werde dir ein Getränk machen.	मैं तुम्हें एक पेय पिलाऊंगा।
 I'll miss you so much.	Ich werde dich so sehr vermissen.	मुझे तुम्हारी बहुत याद आएगी।
 I'll never forget you.	Ich werde dich nie vergessen.	मैं तुम्हें कभी नहीं भूलूंगा।
+I'll only be a minute.	Ich werde nur eine Minute dauern.	मैं केवल एक मिनट ही रहूँगा।
+I'll only be a second.	Ich werde nur eine Sekunde sein.	मैं केवल रुको एक सेकंड जीतना चाहता हूं।
+I'll pick him up at 5.	Ich werde ihn um 5 Uhr abholen.	मैं उसे 5 बजे उठाउंगा।
+I'll probably be late.	Ich werde wahrscheinlich zu spät sein.	मैं शायद देर से पहुँचूँ।
+I'll see you Saturday.	Ich werde dich am Samstag sehen.	मैं आपसे शनिवार को मिलूगा।
+I'll see you in class.	Ich sehe dich im Unterricht.	मैं पाठशाला में तुम्हें मिलूंगा।
+I'll see you in court.	Ich sehe dich vor Gericht.	मैं आपको अदालत में देखूंगा।
+I'll see you in there.	Ich sehe dich dort drin.	मैं वहाँ तुम्हें देखूंगा।
+I'll show that to Tom.	Ich werde das Tom zeigen.	मैं उसे टॉम को दिखाऊंगा।
