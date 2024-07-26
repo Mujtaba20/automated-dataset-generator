@@ -31946,3 +31946,12 @@ I love to read books.	Ich liebe es, Bücher zu lesen.	मुझे किता�
 I love watching golf.	Ich liebe es, Golf zu beobachten.	मुझे गोल्फ देखना पसंद है।
 I love you very much.	Ich liebe dich sehr.	मैं तुमसे बहुत प्यार करता हूँ।
 I love your daughter.	Ich liebe deine Tochter.	मुझे तुम्हारी बेटी पसंद है।
+I loved it in Boston.	Ich habe es in Boston geliebt.	मुझे इसे बोस्टन में पसंद था।
+I made Tom a promise.	Ich machte Tom ein Versprechen.	मैंने टॉम को एक वादा किया।
+I made a big mistake.	Ich habe einen großen Fehler gemacht.	मैंने बड़ी गलती की।
+I made a paper plane.	Ich habe einen Papierflieger gemacht.	मैंने एक कागज का हवाई जहाज बनाया।
+I made many mistakes.	Ich habe viele Fehler gemacht.	मैंने कई गलतियाँ की।
+I made these for you.	Ich habe diese für dich gemacht.	मैंने ये तुम्हारे लिए बनाए हैं।
+I made you breakfast.	Ich habe dir Frühstück gemacht.	मैंने तुम्हारे लिए नाश्ता तैयार किया।
+I mailed Tom a check.	Ich schickte Tom einen Scheck.	मैंने टॉम को एक चेक भेजा।
+I major in economics.	Ich habe Hauptfach in Wirtschaftswissenschaften.	मैं अर्थशास्त्र में मेजर किया है।
