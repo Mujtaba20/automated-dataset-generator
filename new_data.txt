@@ -26221,3 +26221,12 @@ I don't need anyone.	Ich brauche niemanden.	मुझे किसी की ज
 I don't need it now.	Ich brauche es jetzt nicht.	मुझे अब इसकी आवश्यकता नहीं है।
 I don't play tennis.	Ich spiele kein Tennis.	मैं टेनिस नहीं खेलता।
 I don't quite agree.	Ich stimme nicht ganz zu.	मुझे बिल्कुल भी सहमत नहीं है।
+I don't really care.	Mir ist es egal.	मुझे सचमुच परवाह नहीं है।
+I don't really know.	Ich weiß es nicht wirklich.	मुझे सचमुच पता नहीं है।
+I don't remember it.	Ich erinnere mich nicht daran.	मुझे याद नहीं है।
+I don't see why not.	Ich sehe keinen Grund, warum nicht.	मुझे वजह नहीं दिखाई देती।
+I don't sleep a lot.	Ich schlafe nicht viel.	मैं बहुत कम सोता हूँ।
+I don't trust banks.	Ich vertraue Banken nicht.	मुझे बैंकों पर भरोसा नहीं है।
+I don't usually win.	Ich gewinne normalerweise nicht.	मैं आम तौर पर जीत नहीं लेता।
+I don't want cereal.	Ich möchte kein Müsli.	मुझे सीरियल नहीं चाहिए।
+I don't want dinner.	Ich möchte kein Abendessen.	मुझे रात का खाना नहीं चाहिए।

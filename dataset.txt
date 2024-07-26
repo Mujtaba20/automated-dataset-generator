@@ -1,14 +1,4 @@
 
-I don't really care.	Es ist mir wirklich egal.	मुझे वास्तव में परवाह नहीं है।
-I don't really know.	Ich weiß nicht so recht.	मुझे पक्का यकीन नहीं है।
-I don't really know.	Ich weiß eigentlich nicht.	मैं वास्तव में नहीं जानता।
-I don't remember it.	Ich erinnere mich nicht daran.	मुझे यह याद नहीं है।
-I don't see why not.	Ich verstehe nicht, warum nicht.	मुझे समझ नहीं आ रहा है कि क्यों नहीं।
-I don't sleep a lot.	Ich schlafe nicht viel.	मैं ज्यादा नहीं सोता।
-I don't trust banks.	Ich vertraue keinen Banken.	मुझे बैंकों पर भरोसा नहीं है।
-I don't usually win.	Für gewöhnlich gewinne ich nicht.	मैं आमतौर पर नहीं जीतता।
-I don't want cereal.	Ich will kein Müsli.	मुझे मूसली नहीं चाहिए।
-I don't want dinner.	Ich will kein Abendessen.	मुझे डिनर नहीं चाहिए।
 I don't want it now.	Ich möchte es jetzt nicht.	मैं अब यह नहीं चाहता।
 I don't want to cry.	Ich will nicht weinen.	मैं रोना नहीं चाहता।
 I don't want to die.	Ich will nicht sterben.	मैं मरना नहीं चाहता।
