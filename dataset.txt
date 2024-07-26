@@ -1,14 +1,4 @@
 
-Are you going anywhere?	Gehst du irgendwo hin?	आप कहीं जा रहे है
-Are you going anywhere?	Willst du irgendwohin?	क्या आप कहीं भी चाहते हैं?
-Are you going home now?	Gehst du jetzt nach Hause?	क्या आप अब घर जाते हैं?
-Are you going to be OK?	Wirst du okay sein?	क्या तुम ठीक हो जाओगे?
-Are you going to watch?	Wirst du zusehen?	क्या आप देखेंगे?
-Are you good at French?	Bist du gut in Französisch?	क्या आप फ्रेंच में अच्छे हैं?
-Are you good at tennis?	Spielst du gut Tennis?	क्या आप टेनिस अच्छी तरह से खेलते हैं?
-Are you guys really OK?	Geht es euch wirklich gut?	क्या आप वास्तव में अच्छे हैं?
-Are you happy now, Tom?	Bist du jetzt zufrieden, Tom?	क्या आप अब संतुष्ट हैं, टॉम?
-Are you here to see me?	Bist du hier, um mich zu sehen?	क्या आप मुझे देखने के लिए यहाँ हैं?
 Are you in a good mood?	Bist du gut gelaunt?	क्या आप अच्छे मूड में हैं?
 Are you in a good mood?	Bist du guter Laune?	क्या आप अच्छे मूड में हैं
 Are you in a good mood?	Sind Sie guter Laune?	क्या आप अच्छे मूड में हैं?
