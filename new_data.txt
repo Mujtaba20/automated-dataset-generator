@@ -35558,3 +35558,11 @@ Who are these people?	Wer sind diese Leute?	ये लोग कौन हैं
 Who are those people?	Wer sind jene Leute?	वे लोग कौन हैं?
 Who are you angry at?	Über wen bist du wütend?	तुम किस पर गुस्सा हो?
 Who are your enemies?	Wer sind deine Feinde?	तुम्हारे दुश्मन कौन हैं?
+Who are your friends?	Wer zählt zu deinem Freundeskreis?	तुम्हारे मित्र कौन हैं?
+Who are your parents?	Wer sind deine Eltern?	तुम्हारे माता-पिता कौन हैं?
+Who broke the bottle?	Wer hat die Flasche zerbrochen?	कौनने बोतल तोड़ी?
+Who broke the window?	Wer hat das Fenster zerbrochen?	कौनने खिड़की तोड़ी?
+Who brought Tom here?	Wer hat Tom hierher gebracht?	तोम को यहाँ किसने लाया?
+Who brought the beer?	Wer hat das Bier mitgebracht?	बीयर किसने लायी?
+Who can do this work?	Wer kann diese Arbeit erledigen?	यह काम कौन कर सकता है?
+Who caught this fish?	Wer hat diesen Fisch gefangen?	किसने इस मछली को पकड़ा?

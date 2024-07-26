@@ -1,14 +1,4 @@
 
-Who are your friends?	Wer sind deine Freunde?	आपके मित्र कौन हैं?
-Who are your friends?	Wer sind eure Freunde?	आपके मित्र कौन हैं?
-Who are your friends?	Wer sind Ihre Freunde?	आपके मित्र कौन हैं?
-Who are your parents?	Wer sind deine Eltern?	आपके मातापिता कौन हैं?
-Who broke the bottle?	Wer hat die Flasche kaputt gemacht?	बोतल को किसने तोड़ा?
-Who broke the window?	Wer hat das Fenster zerbrochen?	किसने खिड़की को तोड़ दिया?
-Who brought Tom here?	Wer hat Tom hergebracht?	टॉम बाहर कौन ले आया?
-Who brought the beer?	Wer hat das Bier mitgebracht?	उनके साथ बीयर कौन लाया?
-Who can do this work?	Wer kann diese Arbeit erledigen?	यह काम कौन कर सकता है?
-Who caught this fish?	Wer hat diesen Fisch gefangen?	इस मछली को किसने पकड़ा?
 Who coaches the team?	Wer trainiert die Mannschaft?	टीम को कौन प्रशिक्षित करता है?
 Who deleted the file?	Wer hat die Datei gelöscht?	फ़ाइल को किसने डिलीट की?
 Who did you vote for?	Wen hast du gewählt?	आपने किसे चुना?
