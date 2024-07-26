@@ -25125,3 +25125,7 @@ Are you independent?	Bist du unabhängig?	क्या तुम स्वतं
 Are you lying to me?	Lügst du mich an?	क्या तुम मुझसे झूठ बोल रहे हो?
 Are you married now?	Bist du jetzt verheiratet?	क्या तुम अब शादीशुदा हो?
 Are you imaginative? - 2	Bist du einfallsreich?	क्या तुमकोई कल्पनाशील हो?
+Are you on Facebook?	Bist du auf Facebook?	क्या आप फेसबुक पर हैं?
+Are you out of work?	Bist du arbeitslos?	क्या आप काम से बेरोज़गार हैं?
+Do you have a Facebook account?	Hast du ein Facebook-Konto?	क्या आपके पास फेसबुक खाता है?
+Are you unemployed?	Bist du arbeitslos?	क्या आप बेरोज़गार हैं?

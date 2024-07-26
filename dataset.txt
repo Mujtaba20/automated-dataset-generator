@@ -1,14 +1,4 @@
 
-Are you on Facebook?	Sind Sie auf Facebook?	क्या आप Facebook पर हैं?
-Are you on Facebook?	Seid ihr auf Facebook?	क्या आप Facebook पर हैं?
-Are you on Facebook?	Bist du auf Facebook?	क्या आप Facebook पर हैं?
-Are you on Facebook?	Bist du bei Facebook?	क्या आप Facebook पर हैं?
-Are you on Facebook?	Sind Sie bei Facebook?	क्या आप Facebook पर हैं?
-Are you on Facebook?	Seid ihr bei Facebook?	क्या आप Facebook पर हैं?
-Are you on Facebook?	Hast du Facebook?	क्या आपके पास फेसबुक है?
-Are you out of work?	Sind Sie ohne Arbeit?	क्या आप काम के बिना हैं?
-Are you out of work?	Sind Sie arbeitslos?	क्या तुम बेरोजगार हो?
-Are you out of work?	Haben Sie keine Arbeit?	क्या आपके पास कोई काम नहीं है?
 Are you really busy?	Bist du wirklich beschäftigt?	क्या आप वास्तव में व्यस्त हैं
 Are you really done?	Sind Sie wirklich fertig?	क्या आप वास्तव में समाप्त हो गए हैं?
 Are you really sick?	Bist du wirklich krank?	क्या आप वास्तव में बीमार हैं?
