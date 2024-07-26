@@ -30570,3 +30570,10 @@ Did Tom tell you why?	Hat Tom dir warum erzählt?	क्या टॉमने �
 Did Tom threaten you?	Hat Tom dich bedroht?	क्या टॉमने तुम्हें धमकाया?
 Did Tom win the race?	Hat Tom das Rennen gewonnen?	क्या टॉमने रेस जीती?
 Did Tom work for you?	Hat Tom für dich gearbeitet?	क्या टॉमने तुम्हारे लिए काम किया?
+Did somebody hit Tom?	Hat jemand Tom geschlagen?	किसी ने तोम को मारा?
+Did somebody hit you?	Hat dich jemand geschlagen?	किसी ने तुम्हें मारा?
+Did something happen?	Ist etwas passiert?	कुछ हुआ क्या?
+Did the baby wake up?	Ist das Baby aufgewacht?	क्या बच्चा जाग गया?
+Did the car look old?	Sah das Auto alt aus?	क्या गाड़ी पुरानी लग रही थी?
+Did you behave today?	Hast du dich heute benommen?	क्या तुमने आज सही व्यवहार किया?
+Did you buy any eggs?	Hast du Eier gekauft?	क्या तुमने कोई अंडे खरीदे?

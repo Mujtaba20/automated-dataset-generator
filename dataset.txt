@@ -1,14 +1,4 @@
 
-Did somebody hit Tom?	Hat jemand Tom geschlagen?	क्या किसी ने टॉम को मारा है?
-Did somebody hit you?	Hat dich jemand geschlagen?	क्या किसी ने आपको मारा है?
-Did something happen?	Ist etwas passiert?	कुछ हुआ?
-Did the baby wake up?	Ist das Baby aufgewacht?	क्या बच्चा जाग गया है?
-Did the car look old?	Sah das Auto alt aus?	क्या कार पुरानी लग रही थी?
-Did you behave today?	Hast du dich heute gut benommen?	क्या आपने आज अच्छा व्यवहार किया?
-Did you behave today?	Habt ihr euch heute gut benommen?	क्या आपने आज अच्छा व्यवहार किया?
-Did you buy any eggs?	Hast du Eier gekauft?	क्या आपने अंडे खरीदे?
-Did you buy any eggs?	Habt ihr Eier gekauft?	क्या आपने अंडे खरीदे?
-Did you buy any eggs?	Haben Sie Eier gekauft?	क्या आपने अंडे खरीदे?
 Did you buy cat food?	Hast du Katzenfutter gekauft?	क्या आपने कैट फूड खरीदा?
 Did you buy cat food?	Kauftest du Katzenfutter?	क्या आपने कैट फूड खरीदा?
 Did you do your work?	Hast du deine Arbeit gemacht?	क्या आपने अपना काम किया?
