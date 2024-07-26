@@ -24646,3 +24646,11 @@ Where has Tom gone?	Wo ist Tom hingegangen?	टॉम कहाँ गया ह
 Where has she gone?	Wo ist sie hingegangen?	वह कहाँ गई है?
 Where is Tom going?	Wohin geht Tom?	टॉम कहाँ जा रहा है?
 Where is Tom's car?	Wo ist Toms Auto?	टॉम की कार कहाँ है?
+Where is everybody?	Wo ist jeder?	सब कहाँ हैं?
+Where is it hidden?	Wo ist es versteckt?	यह कहां छिपा है?
+Where is my invite?	Wo ist meine Einladung?	मेरा आमंत्रण कहाँ है?
+Where is my office?	Wo ist mein Büro?	मेरा कार्यालय कहाँ है?
+Where is my pencil?	Wo ist mein Bleistift?	मेरी पेंसिल कहाँ है?
+Where is the train?	Wo ist der Zug?	ट्रेन कहाँ है?
+Where is the vodka?	Wo ist der Wodka?	वोडका कहाँ है?
+Where is your room?	Wo ist dein Zimmer?	तुम्हारा कमरा कहाँ है?

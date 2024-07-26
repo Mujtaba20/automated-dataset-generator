@@ -1,14 +1,4 @@
 
-Where is everybody?	Wo sind denn alle?	सब कहाँ हैं?
-Where is it hidden?	Wo ist es versteckt?	यह कहाँ छिपा है?
-Where is my invite?	Wo ist meine Einladung?	मेरा निमंत्रण कहाँ है?
-Where is my office?	Wo ist mein Büro?	मेरा कार्यालय कहाँ है?
-Where is my pencil?	Wo ist mein Bleistift?	मेरी पेंसिल कहां है?
-Where is the train?	Wo ist der Zug?	ट्रेन कहां है?
-Where is the vodka?	Wo ist der Wodka?	वोदका कहाँ है?
-Where is your room?	Wo ist dein Zimmer?	आपका कमरा कहा है?
-Where is your room?	Wo ist Ihr Zimmer?	आपका कमरा कहा है?
-Where is your room?	Wo ist euer Zimmer?	आपका कमरा कहा है?
 Where should we go?	Wohin sollen wir gehen?	हम कहाँ चलें?
 Where was Tom born?	Wo wurde Tom geboren?	टॉम कहाँ पैदा हुआ था?
 Where was Tom born?	Wo ist Tom geboren?	टॉम कहाँ पैदा हुआ था?
