@@ -1,14 +1,4 @@
 
-My father is a doctor.	Mein Vater ist Arzt.	मेरे पापा डॉक्टर हैं।
-My father is a doctor.	Mein Vater ist ein Doktor.	मेरे पापा डॉक्टर हैं।
-My father is busy now.	Mein Vater ist gerade beschäftigt.	मेरे पिता अभी व्यस्त हैं।
-My father is busy now.	Mein Vater ist jetzt beschäftigt.	मेरे पिता अब व्यस्त हैं।
-My feet are sunburned.	Meine Füße haben Sonnenbrand.	मेरे पैरों में सनबर्न है।
-My feet are sunburned.	Meine Füße sind von der Sonne verbrannt.	मेरे पैर सूरज से जल गए हैं।
-My friend has arrived.	Mein Freund kam an.	मेरा दोस्त आ गया।
-My hair is still damp.	Meine Haare sind noch feucht.	मेरे बाल अभी भी नम हैं।
-My hair's turned gray.	Ich habe graue Haare bekommen.	मुझे ग्रे बाल मिले।
-My head is killing me.	Mein Schädel bringt mich um!	मेरी खोपड़ी मुझे मार देती है!
 My horse likes apples.	Mein Pferd mag Äpfel.	मेरे घोड़े को सेब पसंद है.
 My house is on a hill.	Mein Haus steht auf einem Hügel.	मेरा घर एक पहाड़ी पर है।
 My house is too small.	Mein Haus ist zu klein.	मेरा घर बहुत छोटा है।

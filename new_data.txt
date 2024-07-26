@@ -38857,3 +38857,10 @@ My dad is very strict.	Mein Vater ist sehr streng.	मेरे पिताज�
 My decision was final.	Meine Entscheidung war endgültig.	मेरा निर्णय अंतिम था।
 My dog didn't do that.	Mein Hund hat das nicht getan.	मेरा कुत्ता ऐसा नहीं करता था।
 My eye has swollen up.	Mein Auge ist angeschwollen.	मेरी आंख सूज गई है।
+My father is a doctor.	Mein Vater ist Arzt.	मेरे पिताजी एक डॉक्टर हैं।
+My father is busy now.	Mein Vater ist jetzt beschäftigt.	मेरे पिताजी अब व्यस्त हैं।
+My feet are sunburned.	Meine Füße sind sonnenverbrannt.	मेरे पैर सूरज के ताप से जल गए हैं।
+My friend has arrived.	Mein Freund ist angekommen.	मेरे दोस्त पहुंच गए हैं।
+My hair is still damp.	Meine Haare sind immer noch feucht.	मेरे बाल अभी भी गीले हैं।
+My hair's turned gray.	Meine Haare sind grau geworden.	मेरे बाल सफेद हो गए हैं।
+My head is killing me.	Mein Kopf bringt mich um.	मेरे सर में दर्द है।
