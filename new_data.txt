@@ -27241,3 +27241,12 @@ Is it a coincidence?	Ist es ein Zufall?	क्या यह एक संयो�
 Is it far from here?	Ist es weit von hier?	क्या यह यहाँ से दूर है?
 Is it getting worse?	Wird es schlimmer?	क्या यह और खराब हो रहा है?
 Is it going to rain?	Wird es regnen?	क्या बारिश होने वाली है?
+Is it going to snow?	Wird es schneien?	क्या बारिश होने जा रही है?
+Is it still raining?	Regnet es immer noch?	क्या यह अब भी बारिश हो रही है?
+Is it still raining? - different meaning	Regnet es noch?	नौकरी सम्पन्न है?
+Is it still snowing?	Schneit es immer noch?	क्या यह अब भी बर्फ़ गिर रही है?
+Is it sweet or sour?	Ist es süß oder sauer?	यह मिठी है या खट्टी?
+Is my laundry ready?	Ist meine Wäsche fertig?	क्या मेरी धोयी हुई कपड़े तैयार हैं?
+Is that OK with you?	Ist das okay für dich?	क्या यह तुम्हारे लिए ठीक है?
+Is that Tom singing?	Singt Tom?	क्या वह टॉम गा रहा है?
+Is that Tom's house?	Ist das das Haus von Tom?	क्या यह टॉम का घर है?
