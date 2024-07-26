@@ -24207,3 +24207,10 @@ Turn off the radio.	Schalten Sie das Radio aus.	रेडियो बंद क
 Turn off the water.	Schalten Sie das Wasser ab.	पानी बंद करें।
 Turn the sound off.	Schalten Sie den Ton aus.	ध्वनि बंद करें।
 Turn the volume up.	Drehen Sie die Lautstärke auf.	वॉल्यूम बढ़ाएं।
+Uranus is a planet.	Uranus ist ein Planet.	यूरेनस एक ग्रह है।
+Use your instincts.	Verwenden Sie Ihre Instinkte.	अपनी अंदरुनी शक्तियों का इस्तेमाल करो।
+Wait just a minute.	Warten Sie gerade mal eine Minute.	ठहरो बस एक मिनट।
+Wait just a second.	Warte nur eine Sekunde.	बस एक सेकंड रुको।
+War affects us all.	Krieg betrifft uns alle.	युद्ध हम सभी पर प्रभाव डालता है।
+Was I seen leaving?	Wurde ich beim Gehen gesehen?	क्या मुझे जाते हुए देखा गया था?
+Was Tom here today?	War Tom heute hier?	क्या आज टॉम यहाँ था?

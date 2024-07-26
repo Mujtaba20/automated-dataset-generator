@@ -1,15 +1,4 @@
 
-Uranus is a planet.	Der Uranus ist ein Planet.	यूरेनस एक ग्रह है।
-Use your instincts.	Benutze deinen Instinkt!	अपनी वृत्ति का उपयोग करें!
-Wait just a minute.	Nur eine Minute!	एक मिनट रुकिए!
-Wait just a second.	Nur eine Sekunde!	बस एक पल!
-Wait just a second.	Warte kurz!	ज़रा ठहरिये!
-Wait just a second.	Warten Sie einen Moment!	एक पल इंतज़ार करें!
-War affects us all.	Der Krieg betrifft uns alle.	युद्ध हम सभी को प्रभावित करता है।
-Was I seen leaving?	Hat mich jemand gesehen, als ich ging?	जब मैं गया तो किसी ने मुझे देखा?
-Was I seen leaving?	Wurde ich gesehen, als ich ging?	जब मैं गया था तो मुझे देखा गया था?
-Was Tom here today?	War Tom heute hier?	क्या आज यहाँ टॉम था?
-Was Tom here today?	Ist Tom heute hier gewesen?	क्या आज टॉम यहाँ गया था?
 Was anybody killed?	Wurde jemand getötet?	क्या किसी को मार दिया गया था?
 Was her story true?	War ihre Geschichte wahr?	क्या उसकी कहानी सच थी?
 Was his story true?	War seine Geschichte wahr?	क्या उनकी कहानी सच थी?
