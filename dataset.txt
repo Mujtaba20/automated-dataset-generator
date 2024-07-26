@@ -1,14 +1,4 @@
 
-I'm going to be fine.	Mir wird es gut gehen.	मै ठीक रहूंगी।
-I'm going to be late.	Ich werde zu spät kommen.	मुझे देर हो जाएगी।
-I'm going to bed now.	Ich gehe jetzt ins Bett.	अब मैं सोने जा रहा हूं।
-I'm going to do that.	Ich werde das tun.	मैं यह करूंगा।
-I'm going to get you.	Ich werde dich kriegen.	मैं तुम्हें पकड़ लूंगा।
-I'm going to get you.	Ich werde dich holen.	मैं आपको मिलुंगा।
-I'm going to go home.	Ich werde nach Hause gehen.	मैं घर जाउगा।
-I'm going to make it.	Ich werde es schaffen.	मैं यह कर दूँगा।
-I'm going to see Tom.	Ich werde Tom treffen.	मैं टॉम से मिलूंगा।
-I'm going to see Tom.	Ich werde Tom sehen.	मैं टॉम देखूंगा।
 I'm going to the gym.	Ich gehe ins Fitnessstudio.	मैं फिटनेस सेंटर जा रहा हूं।
 I'm good at Japanese.	Ich bin ganz gut in Japanisch.	मैं जापानी में काफी अच्छा हूं।
 I'm good at Japanese.	Ich kann gut Japanisch.	मैं अच्छी तरह से जापानी कर सकता हूं।

@@ -32490,3 +32490,12 @@ I'm glad you're back.	Ich freue mich, dass du zurück bist.	मुझे खु�
 I'm glad you're glad.	Ich freue mich, dass du froh bist.	मुझे खुशी है कि तुम खुश हो।
 I'm glad you're here.	Ich freue mich, dass du hier bist.	मुझे खुशी है कि तुम यहाँ हो।
 I'm glad you're safe.	Ich freue mich, dass du sicher bist.	मुझे खुशी है कि तुम सुरक्षित हो।
+I'm going to be fine.	Ich werde in Ordnung sein.	मैं ठीक हो जाऊंगा।
+I'm going to be late.	Ich werde zu spät kommen.	मैं देर से आऊँगा।
+I'm going to bed now.	Ich gehe jetzt ins Bett.	अब मैं सो रहा हूँ।
+I'm going to do that.	Ich werde das tun.	मैं वह करने जा रहा हूँ।
+I'm going to get you.	Ich werde dich holen.	मैं तुम्हें पकड़ लूँगा।
+I'm going to go home.	Ich werde nach Hause gehen.	मैं घर जाने जा रहा हूँ।
+I'm going to make it.	Ich werde es schaffen.	मैं इसे करने जा रहा हूँ।
+I'm going to see Tom.	Ich werde Tom sehen.	मैं टॉम से मिलने जा रहा हूँ।
+I'm going to meet Tom.	Ich werde Tom treffen.	मैं टॉम से मिलने जा रहा हूँ।
