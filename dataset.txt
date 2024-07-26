@@ -1,14 +1,4 @@
 
-Has something happened?	Ist etwas passiert?	कुछ हुआ?
-Has the world gone mad?	Ist die Welt verrückt geworden?	क्या दुनिया पागल हो गई है?
-Hasn't Tom arrived yet?	Ist Tom noch immer nicht da?	क्या टॉम अभी भी नहीं है?
-Have Tom wait a moment.	Tom soll etwas warten!	टॉम को इंतजार करना चाहिए!
-Have a little patience.	Habe Geduld!	सबर रखो!
-Have a seat, won't you?	Setz dich doch.	बैठ जाएं।
-Have a seat, won't you?	Setzen Sie sich doch.	तय करना।
-Have you already eaten?	Hast du schon gegessen?	क्या तुमने पहले ही खा लिया है?
-Have you already eaten?	Habt ihr schon gegessen?	क्या आपने पहले से खाया है?
-Have you already eaten?	Haben Sie schon gegessen?	क्या तुमने पहले ही खा लिया है?
 Have you already voted?	Haben Sie schon gewählt?	क्या आपने पहले से ही चुना है?
 Have you been promoted?	Bist du befördert worden?	क्या आपको पदोन्नत किया गया है?
 Have you been promoted?	Sind Sie befördert worden?	क्या आपको पदोन्नत किया गया है?
