@@ -1,17 +1,4 @@
 
-I ate way too much.	Ich habe viel zu viel gegessen.	मैंने बहुत ज्यादा खा लिया।
-I baked it for you.	Den habe ich für dich gebacken.	मैंने इसे आपके लिए पकाया।
-I bathe once a day.	Ich bade einmal pro Tag.	मैं दिन में एक बार स्नान करता हूं।
-I believe in magic.	Ich glaube an Magie.	मैं जादू में विश्वास करता हूं।
-I bet you're right.	Ich wette, du hast recht.	मुझे यकीन है कि आप सही हैं।
-I bet you're right.	Ich wette, Sie haben recht.	मुझे यकीन है कि आप सही हैं।
-I bet you're right.	Ich wette, ihr habt recht.	मुझे यकीन है कि आप सही हैं।
-I bought a T-shirt.	Ich habe ein T-Shirt gekauft.	मैंने एक टी-शर्ट खरीदी।
-I bought a new car.	Ich habe ein neues Auto gekauft.	मैंने एक नई कार खरीदी है।
-I bought a red tie.	Ich kaufte eine rote Krawatte.	मैंने एक लाल टाई खरीदी।
-I bought a red tie.	Ich habe eine rote Krawatte gekauft.	मैंने एक लाल टाई खरीदी।
-I bought a red tie.	Ich kaufte einen roten Schlips.	मैंने एक लाल टाई खरीदी।
-I bought a red tie.	Ich habe einen roten Schlips gekauft.	मैंने एक लाल टाई खरीदी।
 I broke Tom's nose.	Ich habe Tom die Nase gebrochen.	मैंने नाक तोड़ दी।
 I burned my finger.	Ich habe mir den Finger verbrannt.	मैंने अपनी उंगली जला दी।
 I burned the paper.	Ich habe das Papier verbrannt.	मैंने कागज जला दिया।

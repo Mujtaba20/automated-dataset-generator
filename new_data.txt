@@ -21066,3 +21066,11 @@ I answered for him.	Ich habe für ihn geantwortet.	मैंने उसके 
 I anticipated that.	Ich habe das vorausgesehen.	मैंने उसकी प्रत्याशा की थी।
 I anticipated this.	Ich habe das vorhergesehen.	मैंने यह समय से पहले समझा था।
 I ate some spinach.	Ich habe etwas Spinat gegessen.	मैंने कुछ पालक खाया।
+I ate way too much.	Ich habe viel zu viel gegessen.	मैंने बहुत ज्यादा खाया।
+I baked it for you.	Ich habe es für dich gebacken.	मैंने यह तुम्हारे लिए बेक किया।
+I bathe once a day.	Ich bade einmal am Tag.	मैं एक दिन में एक बार स्नान करता हूँ।
+I believe in magic.	Ich glaube an Magie.	मुझे जादू में विश्वास है।
+I bet you're right.	Ich wette, du hast recht.	मैं दावा करता हूँ कि तुम सही हो।
+I bought a T-shirt.	Ich habe ein T-Shirt gekauft.	मैंने एक टी-शर्ट खरीदी।
+I bought a new car.	Ich habe ein neues Auto gekauft.	मैंने एक नई कार खरीदी।
+I bought a red tie.	Ich habe eine rote Krawatte gekauft.	मैंने एक लाल टाई खरीदी।
