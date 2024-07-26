@@ -30223,3 +30223,11 @@ You must study more.	Du musst mehr lernen.	आपको और अधिक प�
 You must try harder.	Du musst dich mehr anstrengen.	आपको और मेहनत करनी चाहिए।
 You need a joystick.	Du brauchst einen Joystick.	आपको एक जॉयस्टिक की आवश्यकता है।
 You need a vacation.	Du brauchst Urlaub.	आपको छुट्टी की आवश्यकता है।
+You need to grow up.	Du musst erwachsen werden.	तुम्हें बड़ा होना चाहिए।
+You need to help me.	Du musst mir helfen.	तुम्हें मेरी मदद करनी चाहिए।
+You need to help me. (another meaning)	Du musst mich unterstützen.	तुम्हें मेरा साथ देना चाहिए।
+You need to wake up.	Du musst aufwachen.	तुम्हें जागना होगा।
+You need to wake up. (another meaning)	Du musst wach werden.	तुम्हें जगना चाहिए।
+You never helped me.	Du hast mir nie geholfen.	तुमने मुझे कभी मदद नहीं की।
+You ought to go now.	Du solltest jetzt gehen.	तुम्हें अब जाना चाहिए।
+You ran a red light.	Du bist über eine rote Ampel gefahren.	तुमने लाल रोशनी पार की।

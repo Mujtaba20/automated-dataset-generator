@@ -1,15 +1,4 @@
 
-You need to grow up.	Werde erwachsen!	बड़े हो जाओ!
-You need to help me.	Du musst mir helfen.	तुम्हें मेरी मदद करनी पड़ेगी।
-You need to help me.	Sie müssen mir helfen.	तुम्हें मेरी मदद करनी पड़ेगी।
-You need to help me.	Ihr müsst mir helfen.	तुम्हें मेरी मदद करनी पड़ेगी।
-You need to wake up.	Du musst aufwachen.	आपको जागना होगा।
-You need to wake up.	Ihr müsst wach werden.	आपको जागना होगा।
-You need to wake up.	Sie müssen erwachen.	आपको जागना है।
-You never helped me.	Du hast mir nie geholfen.	आपने कभी मेरी मदद नहीं की।
-You ought to go now.	Du solltest nun gehen.	अब आपको जाना चाहिए।
-You ran a red light.	Du hast eine rote Ampel überfahren.	आप एक लाल ट्रैफिक लाइट पर भाग चुके हैं।
-You ran a red light.	Du bist bei Rot über die Ampel gefahren.	आपने रेड पर ट्रैफिक लाइट्स को चलाया।
 You really annoy me.	Du gehst mir wirklich auf die Nerven.	तुम वास्तव में मेरी नसों पर हो।
 You really are good.	Du bist wirklich gut.	तुम सचमुच अच्छे हो।
 You really are good.	Sie sind wirklich gut.	तुम सचमुच अच्छे हो।
