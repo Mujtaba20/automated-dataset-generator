@@ -1,15 +1,4 @@
 
-I want to take a break.	Ich möchte eine Pause machen.	मैं एक ब्रेक लेना चाहता हूं।
-I want to wait for Tom.	Ich will auf Tom warten.	मैं टॉम का इंतजार करना चाहता हूं।
-I want to wash my hair.	Ich möchte mir die Haare waschen.	मैं अपने बाल धोना चाहता हूं।
-I want to work for Tom.	Ich will für Tom arbeiten.	मैं टॉम के लिए काम करना चाहता हूं।
-I want to work for Tom.	Ich möchte für Tom arbeiten.	मैं टॉम के लिए काम करना चाहता हूं।
-I want to write a book.	Ich will ein Buch schreiben.	मैं एक किताब लिखना चाहता हूं।
-I want to write a book.	Ich möchte ein Buch schreiben.	मैं एक किताब लिखना चाहता हूं।
-I want you out of here.	Ich will dich hier raus haben.	मैं आपको यहाँ से बाहर करना चाहता हूं।
-I want you to be happy.	Ich will, dass du glücklich bist.	मुझे खुश रहना है।
-I want you to be happy.	Ich will, dass ihr glücklich seid.	मुझे खुश रहना है।
-I want you to be happy.	Ich möchte, dass Sie glücklich sind.	मुझे खुश रहना है।
 I want you to fire Tom.	Ich will, dass du Tom feuerst.	मैं चाहता हूं कि आप टॉम को फायर करें।
 I want you to go there.	Ich möchte, dass du dorthin gehst.	मैं चाहता हूं कि आप वहां जाएं।
 I want you to go there.	Ich möchte, dass Sie dorthin gehen.	मैं चाहता हूं कि आप वहां जाएं।
