@@ -33228,3 +33228,11 @@ Our marriage is over.	Unsere Ehe ist vorbei.	हमारा विवाह स
 Our store isn't open.	Unser Laden ist nicht geöffnet.	हमारी दुकान खुली नहीं है।
 Our train is delayed.	Unser Zug hat Verspätung.	हमारी ट्रेन में देरी हो रही है।
 Pack them in the box.	Packe sie in die Schachtel.	उन्हें बॉक्स में पैक करो।
+People don't do that.	Leute machen das nicht.	लोग ऐसा नहीं करते।
+People here love you.	Die Leute hier lieben dich.	यहाँ के लोग तुमसे प्यार करते हैं।
+People listen to Tom.	Die Leute hören Tom zu.	लोग टॉम की बात सुनते हैं।
+People make mistakes.	Menschen machen Fehler.	लोग गलतियां करते हैं।
+People say I'm obese.	Leute sagen, ich bin fettleibig.	लोग कहते हैं कि मैं मोटा हूँ।
+People were watching.	Leute haben zugeschaut.	लोग देख रहे थे।
+Perhaps he will come.	Vielleicht kommt er.	शायद वह आएगा।
+Perhaps you're right.	Vielleicht hast du recht.	शायद तुम सही हो।
