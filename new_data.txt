@@ -30253,3 +30253,9 @@ You used to like me.	Du mochtest mich früher.	तुम्हें मेर�
 You were both drunk.	Ihr wart beide betrunken.	तुम दोनों नशे में थे।
 You were right, Tom.	Du hattest Recht, Tom.	तुम सही थे, टॉम।
 You were very brave.	Du warst sehr mutig.	तुम बहुत बहादुर थे।
+You will need a key.	Sie werden einen Schlüssel brauchen.	आपको एक कुंजी की आवश्यकता होगी।
+You won't die today.	Du wirst heute nicht sterben.	आज तुम्हें मरने की आवश्यकता नहीं है।
+You won't die today. (Different meaning)	Heute wirst du nicht sterben.	आज तुम मरोगे नहीं।
+You won't need that.	Du wirst das nicht brauchen.	तुम्हें उसकी आवश्यकता नहीं होगी।
+You won't regret it.	Du wirst es nicht bereuen.	तुम्हें इस पर पछताने की आवश्यकता नहीं होगी।
+You'd be good at it.	Du wärst gut darin.	तुम इसमें अच्छे होते।

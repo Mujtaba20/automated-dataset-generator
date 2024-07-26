@@ -1,14 +1,4 @@
 
-You will need a key.	Du wirst einen Schlüssel brauchen.	आपको एक कुंजी की आवश्यकता होगी।
-You won't die today.	Du wirst nicht heute sterben.	आप आज नहीं मरेंगे।
-You won't die today.	Sie werden nicht heute sterben.	आप आज नहीं मरेंगे।
-You won't die today.	Ihr werdet nicht heute sterben.	आप आज नहीं मरेंगे।
-You won't die today.	Du wirst heute nicht sterben.	आप आज नहीं मरेंगे।
-You won't die today.	Sie werden heute nicht sterben.	आप आज नहीं मरेंगे।
-You won't die today.	Ihr werdet heute nicht sterben.	आप आज नहीं मरेंगे।
-You won't need that.	Das brauchst du nicht.	आप की जरूरत नहीं।
-You won't regret it.	Du wirst es nicht bereuen.	आप इसका पश्चाताप नहीं करेंगे।
-You'd be good at it.	Du wärst gut darin.	आप इसमें अच्छे होंगे।
 You'd better go now.	Du solltest jetzt besser gehen.	अब आपको बेहतर जाना चाहिए।
 You'll be in danger.	Du wirst in Gefahr sein.	आप खतरे में होंगे।
 You'll catch a cold.	Du wirst dich erkälten.	आप एक ठंड पकड़ लेंगे।
