@@ -37792,3 +37792,12 @@ I really want to stay.	Ich will wirklich bleiben.	मैं सच में ठ
 I recognized his face.	Ich erkannte sein Gesicht.	मैंने उसके चेहरे को पहचान लिया।
 I recognized the name.	Ich erkannte den Namen.	मैंने नाम को पहचान लिया।
 I remember everything.	Ich erinnere mich an alles.	मुझे सब कुछ याद है।
+I remember it vividly.	Ich erinnere mich lebhaft daran.	मुझे यह विविध रूप से याद है।
+I remember seeing her.	Ich erinnere mich daran, sie gesehen zu haben.	मुझे याद है कि मैंने उसे देखा था।
+I remember seeing him.	Ich erinnere mich daran, ihn gesehen zu haben.	मुझे याद है कि मैंने उसे देखा था।
+I remember that laugh.	Ich erinnere mich an dieses Lachen.	मुझे उस हंसी का स्मरण है।
+I remember what I ate.	Ich erinnere mich an das, was ich gegessen habe.	मुझे याद है कि मैंने क्या खाया था।
+I require your advice.	Ich brauche deinen Rat.	मुझे आपकी सलाह की जरूरत है।
+I ride a bike to work.	Ich fahre mit dem Fahrrad zur Arbeit.	मैं काम के लिए साइकिल से जाता हूँ।
+I said I wasn't ready.	Ich sagte, ich sei nicht bereit.	मैंने कहा कि मैं तैयार नहीं था।
+I said goodbye to Tom.	Ich habe mich von Tom verabschiedet.	मैंने टॉम को अलविदा कहा।
