@@ -1,14 +1,4 @@
 
-Where does Tom live?	Wo wohnt Tom?	टॉम कहाँ रहता है?
-Where does Tom work?	Wo arbeitet Tom?	टॉम कहाँ काम करता है?
-Where have you been?	Wo wart ihr?	कहाँ थे?
-Where have you been?	Wo bist du gewesen?	आप कहां थे?
-Where have you been?	Wo sind Sie gewesen?	आप कहां थे?
-Where have you been?	Wo waren Sie?	कहाँ थे?
-Where have you gone?	Wohin bist du gegangen?	आप कहा चले गए थे?
-Where have you gone?	Wo sind Sie hingegangen?	आप कहा चले गए थे?
-Where have you gone?	Wohin gingt ihr?	आप कहां जाते हो?
-Where is Tom anyway?	Wo ist Tom überhaupt?	वैसे भी टॉम कहाँ है?
 Where is Tom buried?	Wo ist Tom begraben?	टॉम को कहाँ दफनाया गया है?
 Where is he playing?	Wo spielt er?	वह कहाँ खेल रहा है?
 Where is his family?	Wo ist seine Familie?	उसका परिवार कहाँ है?

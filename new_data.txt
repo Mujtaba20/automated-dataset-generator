@@ -29909,3 +29909,10 @@ Where can we buy it?	Wo können wir es kaufen?	हम इसे कहाँ स
 Where could they be?	Wo könnten sie sein?	वे कहाँ हो सकते हैं?
 Where did it happen?	Wo ist es passiert?	यह कहाँ हुआ?
 Where do you use it?	Wo benutzt du es?	तुम यह कहाँ इस्तेमाल करते हो?
+Where does Tom live?	Wo wohnt Tom?	टॉम कहाँ रहता है?
+Where does Tom work?	Wo arbeitet Tom?	टॉम कहाँ काम करता है?
+Where have you been?	Wo bist du gewesen?	तुम कहाँ गए थे?
+Where have you been? - Different Meaning	Wo hast du dich rumgetrieben?	तुम कहाँ घूम रहे थे?
+Where have you gone?	Wo bist du hingegangen?	तुम कहाँ गए थे?
+Where have you gone? - Different Meaning	Wo hast du dich versteckt?	तुम कहाँ छुपे थे?
+Where is Tom anyway?	Wo ist Tom überhaupt?	वैसे तो टॉम कहाँ है?
