@@ -26992,3 +26992,13 @@ I'm against the war.	Ich bin gegen den Krieg.	मैं युद्ध के �
 I'm almost finished.	Ich bin fast fertig.	मैं लगभग समाप्त हो रहा हूँ।
 I'm already at work.	Ich bin bereits bei der Arbeit.	मैं पहले से ही काम कर रहा हूँ।
 I'm already married.	Ich bin bereits verheiratet.	मैं पहले से ही शादीशुदा है।
+I'm an entrepreneur.	Ich bin Unternehmer.	मैं एक उद्यमपाति हूँ।
+I'm at my wit's end.	Ich bin mit meinem Latein am Ende.	मेरी मौजूदगी के अंत तक हूँ।
+I'm at the car wash.	Ich bin in der Autowaschanlage.	मैं कार वॉश में हूँ।
+I'm at your service.	Ich stehe zu Ihrer Verfügung.	मैं आपकी सेवा में हूँ।
+I'm bad at swimming.	Ich bin schlecht im Schwimmen.	मुझसे तैरने में हारूं।
+I'm being picked up.	Ich werde abgeholt.	मुझे उठाया जा रहा है।
+I'm being sarcastic.	Ich bin sarkastisch.	मैं व्यंग्यपूर्ण हूँ।
+I'm better than Tom.	Ich bin besser als Tom.	मैं टॉम से बेहतर हूँ।
+I'm bigger than you.	Ich bin größer als du.	मैं तुमसे बड़ा हूँ।
+I'm blind, not deaf.	Ich bin blind, nicht taub.	मैं अंधा हूँ, बहरा नहीं।
