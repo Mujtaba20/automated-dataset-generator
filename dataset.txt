@@ -1,14 +1,4 @@
 
-How old are Tom's kids?	Wie alt sind Toms Kinder?	टॉम के बच्चे कितने साल के हैं?
-How old are you really?	Wie alt bist du wirklich?	वास्तव में आपकी उम्र कितनी है?
-How old is that church?	Wie alt ist diese Kirche dort?	यह चर्च कितना पुराना है?
-How old is this bridge?	Wie alt ist diese Brücke?	यह पुल कितना पुराना है?
-How old is this church?	Wie alt ist diese Kirche?	यह चर्च कितना पुराना है?
-How old is your father?	Wie alt ist dein Vater?	आपके पिता की क्या उम्र है?
-How old is your mother?	Wie alt ist deine Mutter?	तुम्हारी माता की आयू क्या है?
-How old is your mother?	Wie alt ist eure Mutter?	तुम्हारी माता की आयू क्या है?
-How old is your mother?	Wie alt ist Ihre Mutter?	तुम्हारी माता की आयू क्या है?
-How old is your sister?	Wie alt ist deine Schwester?	तुम्हारी बहन की उम्र क्या है?
 How tall is that tower?	Wie hoch ist dieser Turm?	यह टॉवर कितना ऊँचा है?
 How thick is the board?	Wie dick ist das Brett?	बोर्ड कितना मोटा है?
 How thick is the board?	Welche Dicke hat das Brett?	बोर्ड में क्या मोटाई है?
