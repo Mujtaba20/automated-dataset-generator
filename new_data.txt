@@ -26072,3 +26072,11 @@ I came by to say hi.	Ich kam vorbei, um hallo zu sagen.	मैं बात क�
 I came home at 2:30.	Ich kam um halb drei nach Hause.	मैं दो बजे तक घर पहुंच गया।
 I came to thank you.	Ich kam, um dir zu danken.	मैं आपका धन्यवाद करने आया था।
 I can come at three.	Ich kann um drei Uhr kommen.	मैं तीन बजे आ सकता हूँ।
+I can come tomorrow.	Ich kann morgen kommen.	मैं कल आ सकता हूँ।
+I can die happy now.	Ich kann jetzt glücklich sterben.	अब मैं खुश मर सकता हूँ।
+I can do this alone.	Ich kann das alleine machen.	मैं इसे अकेले कर सकता हूँ।
+I can do without it.	Ich komme ohne es aus.	मुझे इसके बिना काम चल जाएगा।
+I can give it a try.	Ich kann es ausprobieren.	मैं इसे एक कोशिश दे सकता हूँ।
+I can hide anywhere.	Ich kann mich überall verstecken.	मैं कहीं भी छुप सकता हूँ।
+I can keep a secret.	Ich kann ein Geheimnis bewahren.	मैं एक राज रख सकता हूँ।
+I can peel an apple.	Ich kann einen Apfel schälen.	मैं एक सेब छील सकता हूँ।

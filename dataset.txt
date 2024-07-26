@@ -1,14 +1,4 @@
 
-I can come tomorrow.	Ich kann morgen kommen.	मैं कल आ सकता हूं।
-I can die happy now.	Jetzt kann ich glücklich sterben.	अब मैं खुशी से मर सकता हूं।
-I can do this alone.	Ich kann das allein.	मैं अकेले ही कर सकता हूं।
-I can do without it.	Ich komme ohne aus.	मैं बिना बाहर निकलता हूं।
-I can do without it.	Ich kann darauf verzichten.	मैं इसके बिना जीने में सक्षम हूं।
-I can give it a try.	Ich kann es mal versuchen.	मैं यह कोशिश कर सकता था।
-I can hide anywhere.	Ich kann mich überall verstecken.	मैं हर जगह छिपा सकता हूं।
-I can keep a secret.	Ich kann ein Geheimnis für mich behalten.	मैं अपने लिए एक रहस्य रख सकता हूं।
-I can keep a secret.	Ich kann ein Geheimnis bewahren.	मैं एक रहस्य रख सकता हूं।
-I can peel an apple.	Ich kann einen Apfel schälen.	मैं एक सेब छील सकता हूं।
 I can read them all.	Ich kann sie alle lesen.	मैं उन सभी को पढ़ सकता हूं।
 I can see the light.	Ich kann das Licht sehen.	मैं प्रकाश देख सकता हूं।
 I can smell cookies.	Ich rieche Kekse.	मुझे कुकीज़ की गंध आती है।
