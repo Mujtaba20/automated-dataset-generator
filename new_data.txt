@@ -21719,3 +21719,12 @@ I wanted to say no.	Ich wollte nein sagen.	मैंने ना कहना �
 I was a chubby kid.	Ich war ein pummeliges Kind.	मैं एक मोटे बच्चा था।
 I was almost right.	Ich hatte so gut wie recht.	मैं लगभग सही था।
 I was asked to lie.	Man bat mich, zu lügen.	मुझसे झूठ बोलने के लिए कहा गया था।
+I was at home then.	Ich war damals zu Hause.	मैं उस समय घर पर था।
+I was at the party.	Ich war auf der Party.	मैं पार्टी में था।
+I was being ironic.	Ich war ironisch.	मैं व्यंग्यपूर्ण था।
+I was born in 1960.	Ich wurde 1960 geboren.	मैं 1960 में पैदा हुआ था।
+I was born in 1972.	Ich bin 1972 geboren.	मैं 1972 में पैदा हुआ था।
+I was born in 1979.	Ich wurde 1979 geboren.	मैं 1979 में पैदा हुआ था।
+I was born in 1980.	Ich wurde 1980 geboren.	मैं 1980 में पैदा हुआ था।
+I was born in 1982.	Ich bin 1982 geboren.	मैं 1982 में पैदा हुआ था।
+I was born in 1988.	Ich wurde 1988 geboren.	मैं 1988 में पैदा हुआ था।
