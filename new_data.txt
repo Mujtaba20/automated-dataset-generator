@@ -21668,3 +21668,10 @@ I tried not to cry.	Ich habe versucht, nicht zu weinen.	मैंने रो�
 I tried to do that.	Ich habe versucht, das zu tun.	मैंने उसे करने की कोशिश की।
 I turned off my TV.	Ich habe meinen Fernseher ausgeschaltet.	मैंने अपना टीवी बंद कर दिया।
 I unplugged the TV.	Ich habe den Fernseher ausgesteckt.	मैंने टीवी की प्लग निकाल दी।
+I use it every day.	Ich benutze es jeden Tag.	मैं इसे हर दिन उपयोग करता हूं।
+I used to be a cop.	Ich war früher Polizist.	मैं पहले पुलिस था।
+I used to date Tom.	Ich habe früher mit Tom ausgegangen.	मैं पहले टॉम के साथ डेट किया करता था।
+I used to hate Tom.	Ich habe Tom früher gehasst.	मैं पहले टॉम से नफरत किया करता था।
+I value my privacy.	Ich schätze meine Privatsphäre.	मैं अपनी गोपनीयता का मूल्य करता हूं।
+I walked to school.	Ich bin zur Schule gelaufen.	मैं स्कूल चल कर गया।
+I want Tom to live.	Ich möchte, dass Tom lebt.	मैं चाहता हूं कि टॉम जीता है।
