@@ -1,14 +1,4 @@
 
-A dog has four legs.	Ein Hund hat vier Beine.	एक कुत्ते के चार पैर होते हैं।
-A golf ball hit Tom.	Ein Golfball hat Tom getroffen.	टॉम ने एक गोल्फ की गेंद से मुलाकात की।
-A lion is an animal.	Der Löwe ist ein Tier.	शेर एक जानवर है।
-A lion is an animal.	Ein Löwe ist ein Tier.	एक शेर एक जानवर है।
-A nap would be good.	Ein Schläfchen wäre gut.	एक झपकी अच्छी होगी।
-A noise woke her up.	Ein Geräusch weckte sie auf.	एक शोर ने उसे जगाया।
-A nurse wears white.	Eine Krankenschwester trägt Weiß.	एक नर्स सफेद पहनती है।
-A storm is imminent.	Ein Sturm zieht auf.	एक तूफान आ रहा है।
-A storm is imminent.	Ein Sturm zieht heran.	एक तूफान बढ़ता है।
-A truck hit the dog.	Ein Lkw fuhr den Hund an.	एक ट्रक ने कुत्ता शुरू किया।
 A whale is a mammal.	Wale sind Säugetiere.	व्हेल स्तनधारी हैं।
 A window was broken.	Ein Fenster ging zu Bruch.	एक खिड़की टूट गई।
 A wolf attacked Tom.	Ein Wolf griff Tom an.	एक भेड़िया ने टॉम पर हमला किया।

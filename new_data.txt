@@ -25043,3 +25043,13 @@ Your secret's safe.	Dein Geheimnis ist sicher.	तुम्हारा रा�
 Trust me, he said.	Vertrau mir, sagte er.	मुझपर विश्वास करो, उसने कहा।
 "Who cares? ""I do."""	"Wen interessiert das?" "Ich schon."	"किसे फर्क पड़ता है?" "मुझे पड़ता है।"
 A cold wind blew in.	Ein kalter Wind wehte herein.	एक ठंडी हवा चली आई।
+A dog has four legs.	Ein Hund hat vier Beine.	एक कुत्ते के चार पैर होते हैं।
+A golf ball hit Tom.	Ein Golfball traf Tom.	एक गोल्फ गेंद ने टॉम को मारा।
+A lion is an animal.	Ein Löwe ist ein Tier.	एक सिंह जानवर है।
+A lion is an animal. (different meaning)	Ein Löwe ist ein Tier.	सिंह एक प्राणी है।
+A nap would be good.	Ein Nickerchen wäre gut.	एक उल्लू सही होगा।
+A noise woke her up.	Ein Geräusch weckte sie auf.	एक ध्वनि ने उसे जगाया।
+A nurse wears white.	Eine Krankenschwester trägt Weiß.	नर्स सफेद पहनती है।
+A storm is imminent.	Ein Sturm ist unmittelbar bevorstehend.	एक तूफान निकट है।
+A storm is imminent. (different meaning)	Ein Unwetter steht kurz bevor.	एक आफत उपस्थित है।
+A truck hit the dog.	Ein Lastwagen hat den Hund getroffen.	एक ट्रक ने कुत्ते को मारा।
