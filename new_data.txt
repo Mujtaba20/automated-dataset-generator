@@ -27667,3 +27667,12 @@ My sister is pretty.	Meine Schwester ist hübsch.	मेरी बहन सु�
 My sister likes Tom.	Meine Schwester mag Tom.	मेरी बहन को टॉम पसंद है।
 My tea is too sweet.	Mein Tee ist zu süß.	मेरी चाय बहुत मीठी है।
 My teachers like me.	Meine Lehrer mögen mich.	मेरे शिक्षक मुझे पसंद करते हैं।
+My throat feels dry.	Mein Hals fühlt sich trocken an.	मेरी गले में सूखापन महसूस हो रहा है।
+My trousers are wet.	Meine Hose ist nass.	मेरी पतलून गीली हैं।
+My watch was stolen.	Meine Uhr wurde gestohlen.	मेरी घड़ी चुराई गई थी।
+My whole body hurts.	Mein ganzer Körper tut weh.	मेरे पूरे शरीर में दर्द हो रहा है।
+My wife is a doctor.	Meine Frau ist Ärztin.	मेरी पत्नी डॉक्टर है।
+My wife is a lawyer.	Meine Frau ist Anwältin.	मेरी पत्नी वकील है।
+My wife is pregnant.	Meine Frau ist schwanger.	मेरी पत्नी गर्भवती है।
+My work is finished.	Meine Arbeit ist beendet.	मेरा काम समाप्त हो गया है।
+My zipper got stuck.	Mein Reißverschluss hat sich verklemmt.	मेरा जिप कट गया।

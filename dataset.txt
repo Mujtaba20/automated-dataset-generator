@@ -1,14 +1,4 @@
 
-My throat feels dry.	Mein Rachen fühlt sich trocken an.	मेरा गला सूखा लगता है।
-My trousers are wet.	Meine Hose ist nass.	मेरी पैंट गीली है।
-My watch was stolen.	Meine Uhr wurde gestohlen.	मेरी घड़ी चोरी हो गई थी।
-My whole body hurts.	Mein ganzer Körper schmerzt.	मेरे पूरे शरीर में दर्द है।
-My wife is a doctor.	Meine Frau ist eine Ärztin.	मेरी पत्नी एक डॉक्टर है।
-My wife is a doctor.	Meine Frau ist Ärztin.	मेरी पत्नी एक डॉक्टर है।
-My wife is a lawyer.	Meine Frau ist Rechtsanwältin.	मेरी पत्नी एक वकील है।
-My wife is pregnant.	Meine Frau ist schwanger.	मेरी बीवी पेट से है।
-My work is finished.	Meine Arbeit ist beendet.	मेरा काम खत्म हो गया है।
-My zipper got stuck.	Mein Reißverschluss klemmt.	मेरा जिपर अटक गया है।
 Never do that again.	Mach das nie wieder!	ऐसा फिर कभी न दोहराएं!
 Never trust anybody.	Traue nie jemandem!	किसी पर भरोसा नहीं!
 Never trust anybody.	Traut nie jemandem!	कभी किसी की हिम्मत नहीं है!
