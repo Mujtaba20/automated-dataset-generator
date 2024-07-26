@@ -31108,3 +31108,12 @@ He likes Indian food.	Er mag indisches Essen.	उसे भारतीय ख�
 He likes music a lot.	Er mag Musik sehr.	उसे संगीत बहुत पसंद है।
 He likes this guitar.	Er mag diese Gitarre.	उसे यह गिटार पसंद है।
 He likes to watch TV.	Er sieht gerne fern.	उसे टीवी देखना पसंद है।
+He likes watching TV.	Er schaut gerne fern.	उसे टीवी देखना पसंद है।
+He lived a hard life.	Er führte ein hartes Leben.	उसने कठिन जीवन बिताया।
+He lives comfortably.	Er lebt bequem.	वह आराम से रहता है।
+He lives in Yokohama.	Er lebt in Yokohama.	वह योकोहामा में रहता है।
+He lives there alone.	Er lebt dort alleine.	वह वहाँ अकेला रहता है।
+He looked very happy.	Er sah sehr glücklich aus.	उसने बहुत खुश दिखाया।
+He looked very tired.	Er sah sehr müde aus.	उसने बहुत थका हुआ लगा।
+He looks a bit tired.	Er sieht ein bisschen müde aus.	वह थोड़ा थका हुआ लगता है।
+He looks like a girl.	Er sieht wie ein Mädchen aus.	वह लड़की की तरह दिखता है।

@@ -1,14 +1,4 @@
 
-He likes watching TV.	Er sieht gern fern.	वह टीवी देखना पसंद करता है।
-He likes watching TV.	Er schaut gerne fern.	वह दूर देखना पसंद करता है।
-He lived a hard life.	Er hatte ein schweres Leben.	उनका एक मुश्किल जीवन था।
-He lives comfortably.	Er lebt komfortabel.	वह आराम से रहता है।
-He lives in Yokohama.	Er wohnt in Yokohama.	वह योकोहामा में रहता है।
-He lives there alone.	Er lebt dort alleine.	वह अकेला रहता है।
-He looked very happy.	Er sah sehr glücklich aus.	वह बहुत खुश लग रहा था।
-He looked very tired.	Er sah sehr müde aus.	वह बहुत थक गया था।
-He looks a bit tired.	Er sieht etwas müde aus.	वह थोड़ा थका हुआ दिखता है।
-He looks like a girl.	Er sieht wie ein Mädchen aus.	वह एक लड़की की तरह दिखता है।
 He looks very sleepy.	Er sieht sehr müde aus.	वह बहुत थक गया है।
 He lost his eyesight.	Er hat das Augenlicht verloren.	उसने दृष्टि खो दी।
 He made a rude reply.	Er gab eine unhöfliche Antwort.	उसने एक असभ्य जवाब दिया।
