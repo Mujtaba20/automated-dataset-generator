@@ -35028,3 +35028,12 @@ Tom wasn't very sick.	Tom war nicht sehr krank.	टॉम बहुत अधि
 Tom wasn't with Mary.	Tom war nicht mit Mary.	टॉम मेरी के साथ नहीं था।
 Tom wastes his money.	Tom verschwendet sein Geld.	टॉम अपने पैसे बर्बाद करता है।
 Tom watched Mary eat.	Tom beobachtete, wie Mary aß.	टॉम ने मेरी को खाते हुए देखा।
+Tom watched the news.	Tom schaute sich die Nachrichten an.	टॉम ने समाचार देखा।
+Tom went back inside.	Tom ging zurück nach drinnen.	टॉम अंदर वापस चला गया।
+Tom went back to bed.	Tom ging zurück ins Bett.	टॉम वापस बिस्तर पर चला गया।
+Tom went on a safari.	Tom machte eine Safari.	टॉम एक सफारी पर गया।
+Tom went out fishing.	Tom ging angeln.	टॉम मछली पकड़ने बाहर गया।
+Tom went sightseeing.	Tom ging auf Besichtigungstour.	टॉम दर्शन करने गया।
+Tom went there alone.	Tom ging allein dorthin.	टॉम वहाँ अकेला गया।
+Tom went to the bank.	Tom ging zur Bank.	टॉम बैंक गया।
+Tom wiggled his toes.	Tom wackelte mit seinen Zehen.	टॉम ने अपने पैरों को हिलाया।
