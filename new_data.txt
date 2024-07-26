@@ -39313,3 +39313,13 @@ That isn't your knife.	Das ist nicht dein Messer.	वह तुम्हार�
 That made me very sad.	Das hat mich sehr traurig gemacht.	वहने मुझे बहुत उदास किया।
 That man is a soldier.	Dieser Mann ist ein Soldat.	वह आदमी सैनिक है।
 That man was a wretch.	Dieser Mann war ein unglücklicher Mensch.	वह आदमी एक दु: खी था।
+That might be helpful.	Das könnte hilfreich sein.	यह मददगार हो सकता है।
+That proves my theory.	Das beweist meine Theorie.	वह मेरे सिद्धांत को साबित करता है।
+That should be enough.	Das sollte genug sein.	वह काफी होना चाहिए।
+That should be sufficient.	Das sollte ausreichen.	यह पर्याप्त होना चाहिए।
+That smells delicious.	Das riecht köstlich.	यह सुंदर खुशबू देता है।
+That sounds beautiful.	Das klingt schön.	यह सुंदर सुनाई देता है।
+That sounds expensive.	Das klingt teuer.	वह महंगा लगता है।
+That sounds promising.	Das klingt vielversprechend.	यह आशावादी लगता है।
+That stays between us.	Das bleibt unter uns.	वह हमारे बीच रहेगा।
+That task wasn't easy.	Diese Aufgabe war nicht einfach.	वह काम आसान नहीं था।
