@@ -1,14 +1,4 @@
 
-How do you do this?	Wie machst du das?	तुमने ये कैसे किया?
-How do you do this?	Wie geht das?	यह कैसे काम करता है?
-How do you like it?	Wie gefällt es dir?	आप इसे कैसे पसंद करते हैं?
-How does Tom do it?	Wie macht Tom das?	टॉम ऐसा कैसे करता है?
-How does this look?	Wie sieht das aus?	ये कैसा दिखाई देता है?
-How does this work?	Wie läuft das?	कैसे काम कर रहा है?
-How far did Tom go?	Wie weit ist Tom gegangen?	टॉम कितनी दूर गया?
-How fat is too fat?	Ab wann ist man zu dick?	आप कब मोटी हैं?
-How hot is too hot?	Wie heiß ist zu heiß?	कितना गर्म बहुत गर्म होता है?
-How hungry are you?	Wie hungrig bist du?	आप कितने भूखे हैं?
 How is it possible?	Wie ist das möglich?	वह कैसे संभव है?
 How is the economy?	Wie ist die Wirtschaftslage?	आर्थिक स्थिति क्या है?
 How is the weather?	Wie ist das Wetter?	मौसम कैसा है?

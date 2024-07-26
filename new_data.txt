@@ -20987,3 +20987,13 @@ How do I get there?	Wie komme ich dorthin?	मैं वहाँ कैसे �
 How do I thank you?	Wie bedanke ich mich bei Ihnen?	मैं आपका धन्यवाद कैसे करूँ?
 How do we stop Tom?	Wie stoppen wir Tom?	हम टॉम को कैसे रोकें?
 How do you do that?	Wie machst du das?	तू ऐसा कैसे करता है?
+How do you do this?	Wie machst du das?	तुम यह कैसे करते हो?
+How do you do this?(different meaning)	Wie geht es dir dabei?	तुम इसे कैसे करते हो?
+How do you like it?	Wie findest du es?	तुम्हें यह कैसा लगता है?
+How does Tom do it?	Wie macht Tom das?	टॉम यह कैसे करेगा?
+How does this look?	Wie sieht das aus?	यह कैसा लग रहा है?
+How does this work?	Wie funktioniert das?	यह कैसे काम करता है?
+How far did Tom go?	Wie weit ist Tom gegangen?	टॉम कितनी दूर गया था?
+How fat is too fat?	Wie dick ist zu dick?	कितना मोटा ज्यादा है?
+How hot is too hot?	Wie heiß ist zu heiß?	कितना गरम ज्यादा है?
+How hungry are you?	Wie hungrig bist du?	तुम कितने भूखे हो?
