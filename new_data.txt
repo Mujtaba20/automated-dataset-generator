@@ -34776,3 +34776,11 @@ Tom put out the fire.	Tom löschte das Feuer.	टॉम ने आग बुझ�
 Tom put out the fire. (Different meaning)	Tom machte das Feuer aus.	टॉम ने आग को बंद कर दिया।
 Tom raised his glass.	Tom hob sein Glas.	टॉम ने अपना गिलास उठाया।
 Tom raised his hands.	Tom hob die Hände.	टॉम ने हाथ उठाए।
+Tom raised his voice.	Tom erhob seine Stimme.	टॉम ने अपनी आवाज उठाई।
+Tom ran for his life.	Tom rannte um sein Leben.	टॉम अपनी जिंदगी के लिए दौड़ा।
+Tom ran out of money.	Tom ging das Geld aus.	टॉम के पैसे खत्म हो गए।
+Tom ran out of water.	Tom lief das Wasser aus.	टॉम के पास पानी नहीं था।
+Tom ran up the steps.	Tom rannte die Stufen hinauf.	टॉम उपर की सीढ़ियों पर दौड़ा।
+Tom rarely complains.	Tom beschwert sich selten.	टॉम शिकायत बहुत कम करता है।
+Tom really likes you.	Tom mag dich wirklich.	टॉम आपसे सचमुच पसंद करता है।
+Tom really needs you.	Tom braucht dich wirklich.	टॉम को वास्तव में तुम्हारी ज़रुरत है।
