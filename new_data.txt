@@ -21595,3 +21595,12 @@ I said I'll get it.	Ich sagte, ich werde es bekommen.	मैंने कहा 
 I saved Tom's life.	Ich habe Toms Leben gerettet.	मैंने टॉम की जान बचाई।
 I saved you a seat.	Ich habe für dich einen Sitzplatz gespart.	मैंने तुम्हें एक सीट बचाई है।
 I saw Tom and Mary.	Ich habe Tom und Mary gesehen.	मैंने टॉम और मेरी को देखा।
+I saw Tom doing it.	Ich habe gesehen, wie Tom es getan hat.	मैंने टॉम को यह करते हुए देखा।
+I saw Tom hit Mary.	Ich sah, wie Tom Mary schlug.	मैंने देखा कि टॉमने मैरी पर मारा।
+I saw Tom in there.	Ich habe Tom darin gesehen.	मैंने वहाँ टॉम को देखा।
+I saw Tom's father.	Ich habe Toms Vater gesehen.	मैंने टॉम के पिता को देखा।
+I saw him recently.	Ich habe ihn kürzlich gesehen.	मैंने हाल ही में उसे देखा।
+I saw him run away.	Ich sah ihn weglaufen.	मैंने उसे भागते हुए देखा।
+I saw the man jump.	Ich sah den Mann springen.	मैंने उस आदमी को कूदते हुए देखा।
+I saw the pictures.	Ich habe die Bilder gesehen.	मैंने तस्वीरें देखीं।
+I saw them kissing.	Ich sah sie küssen.	मैंने उन्हें चुंबन देते हुए देखा।

@@ -1,14 +1,4 @@
 
-I saw Tom doing it.	Ich sah es Tom machen.	मैंने देखा कि टॉम इसे कर रहा है।
-I saw Tom hit Mary.	Ich sah Tom Maria schlagen.	मैंने टॉम मारिया को हराया।
-I saw Tom in there.	Ich habe Tom dort gesehen.	मैंने टॉम को वहां देखा।
-I saw Tom's father.	Ich habe Toms Vater gesehen.	मैंने टॉम के पिता को देखा।
-I saw him recently.	Ich sah ihn unlängst.	मैंने उसे हाल ही में देखा।
-I saw him recently.	Ich habe ihn vor Kurzem gesehen.	मैंने उसे हाल ही में देखा।
-I saw him run away.	Ich sah ihn weglaufen.	मैंने उसे भागते देखा।
-I saw the man jump.	Ich sah den Mann springen.	मैंने देखा कि आदमी कूद रहा है।
-I saw the pictures.	Ich habe die Bilder gesehen.	मैंने तस्वीरें देखी हैं।
-I saw them kissing.	Ich habe gesehen, wie sie sich küssten.	मैंने देखा कि कैसे वे चूमा।
 I saw you with Tom.	Ich habe dich mit Tom gesehen.	मैंने आपको टॉम के साथ देखा।
 I say what I think.	Ich sage, was ich denke.	मैं कहता हूं कि मुझे क्या लगता है।
 I see Tom and Mary.	Ich werde Tom und Maria sehen.	मैं टॉम और मारिया को देखूंगा।
