@@ -30081,3 +30081,9 @@ Why won't Tom leave?	Warum wird Tom nicht gehen?	टॉम क्यों न�
 Why would I do that?	Warum würde ich das tun?	मैं ऐसा क्यों करूँगा?
 Why would Tom leave?	Warum würde Tom gehen?	टॉम क्यों जाएगा?
 Why's Tom like that?	Warum ist Tom so?	टॉम ऐसा क्यों है?
+Will Tom go with us?	Wird Tom mit uns gehen?	क्या Tom हमारे साथ चलेगा?
+Will Tom leave soon?	Wird Tom bald gehen?	क्या Tom जल्दी चला जाएगा?
+Will you go with us?	Wirst du mit uns gehen?	क्या तुम हमारे साथ चलोगे?
+Women don't like me.	Frauen mögen mich nicht.	महिलाएं मुझसे पसंद नहीं करतीं।
+Would Tom like that?	Würde Tom das mögen?	क्या Tom को यह पसंद होगा?
+Would you excuse me?	Würdest du mich entschuldigen?	क्या आप मुझे माफ कर देंगे?

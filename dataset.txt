@@ -1,15 +1,4 @@
 
-Will Tom go with us?	Begleitet Tom uns?	टॉम हमारे साथ है?
-Will Tom go with us?	Wird Tom uns begleiten?	क्या टॉम हमारे साथ जाएगा?
-Will Tom leave soon?	Wird Tom bald gehen?	क्या टॉम जल्द ही जाएगा?
-Will you go with us?	Kommst du mit uns?	क्या आप हमारे साथ आ रहे हैं?
-Will you go with us?	Kommt ihr mit uns?	क्या आप हमारे साथ आते हैं?
-Will you go with us?	Kommen Sie mit uns?	हमारे साथ आओ?
-Women don't like me.	Die Frauen mögen mich nicht.	महिलाएं मुझे पसंद नहीं करती हैं।
-Would Tom like that?	Würde Tom das mögen?	क्या टॉम पसंद आएगा?
-Would you excuse me?	Würden Sie mich entschuldigen?	क्या आप मुझे माफ करेंगे?
-Would you excuse me?	Würdest du mich entschuldigen?	क्या आप मुझे माफ करेंगे?
-Would you excuse me?	Würdet ihr mich entschuldigen?	क्या आप मुझे माफ करेंगे?
 Would you like some?	Möchtest du einige?	तुम्हें कुछ चाहिए?
 Would you like some?	Möchten Sie einige?	क्या आप लेंगे?
 Would you like that?	Gefiele dir das?	क्या आपको वह पसंद है?
