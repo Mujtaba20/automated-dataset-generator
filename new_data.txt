@@ -23519,3 +23519,11 @@ Tom has lied to us.	Tom hat uns angelogen.	टॉम ने हमसे झू�
 Tom has deceived us.	Tom hat uns getäuscht.	टॉम ने हमें धोखा दिया है।
 Tom has many books.	Tom hat viele Bücher.	टॉम के पास कई किताबें हैं।
 Tom has no enemies.	Tom hat keine Feinde.	टॉम के दुश्मन नहीं हैं।
+Tom has no friends.	Tom hat keine Freunde.	टॉम के पास कोई दोस्त नहीं है।
+Tom has no manners.	Tom hat keine Manieren.	टॉम के पास कोई शिष्टाचार नहीं है।
+Tom has no regrets.	Tom hat keine Bedauern.	टॉम को कोई पछतावा नहीं है।
+Tom has no savings.	Tom hat keine Ersparnisse.	टॉम के पास कोई बचत नहीं है।
+Tom has no sisters.	Tom hat keine Schwestern.	टॉम के पास कोई बहनें नहीं हैं।
+Tom has passed out.	Tom ist durchgefallen.	टॉम गिर गया है।
+Tom has short hair.	Tom hat wenig Haare.	टॉम के छोटे बाल हैं।
+Tom has short legs.	Tom hat kurze Beine.	टॉम की टांगें छोटी हैं।

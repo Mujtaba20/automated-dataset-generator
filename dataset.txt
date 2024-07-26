@@ -1,14 +1,4 @@
 
-Tom has no friends.	Tom hat keine Freunde.	टॉम का कोई दोस्त नहीं है।
-Tom has no manners.	Tom hat keine Manieren.	टॉम के पास कोई शिष्टाचार नहीं है।
-Tom has no regrets.	Tom bereut nichts.	टॉम को कुछ भी पछतावा नहीं है।
-Tom has no savings.	Tom hat keine Rücklagen.	टॉम के पास कोई भंडार नहीं है।
-Tom has no sisters.	Tom hat keine Schwestern.	टॉम की कोई बहन नहीं है।
-Tom has passed out.	Tom fiel in Ohnmacht.	टॉम बेहोश हो गया।
-Tom has passed out.	Tom wurde bewusstlos.	टॉम पास हो गया।
-Tom has short hair.	Tom hat kurzes Haar.	टॉम के छोटे बाल हैं।
-Tom has short hair.	Tom hat kurze Haare.	टॉम के छोटे बाल हैं।
-Tom has short legs.	Tom hat kurze Beine.	टॉम के छोटे पैर हैं।
 Tom has small feet.	Tom hat kleine Füße.	टॉम के पास बहुत कम पैर हैं।
 Tom has thick hair.	Tom hat dichtes Haar.	टॉम के घने बाल हैं।
 Tom has three cars.	Tom hat drei Autos.	टॉम के पास तीन कारें हैं।
