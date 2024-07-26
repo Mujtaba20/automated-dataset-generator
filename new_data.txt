@@ -32792,3 +32792,11 @@ It makes me feel sad.	Es macht mich traurig.	यह मुझे उदास �
 It makes me so angry.	Es macht mich so wütend.	यह मुझे इतना गुस्सा दिलाता है।
 It may rain tomorrow.	Es kann morgen regnen.	कल बारिश हो सकती है।
 It meant a lot to me.	Es bedeutete mir viel.	यह मेरे लिए बहुत कुछ था।
+It might be too late.	Es könnte zu spät sein.	यह शायद बहुत देर हो गई हो।
+It might be worth it.	Es könnte sich lohnen.	इसके लायक हो सकता है।
+It must be destroyed.	Es muss zerstört werden.	यह नष्ट कर दिया जाना चाहिए।
+It needs to be fixed.	Es muss repariert werden.	इसे ठीक किया जाना चाहिए।
+It never pays to lie.	Es lohnt sich nie zu lügen.	झूठ बोलने का कभी भी फायदा नहीं होता।
+It no longer matters.	Es ist nicht mehr wichtig.	इसका महत्व नहीं रहता है।
+It only costs $10.00!	Es kostet nur $10.00!	यह केवल $10.00 में खर्च होता है!
+It pays to be polite.	Es lohnt sich, höflich zu sein.	शिष्ट रहने के लायक है।
