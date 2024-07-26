@@ -1,14 +1,4 @@
 
-Nobody can replace Tom.	Niemand kann Tom ersetzen.	कोई भी टॉम की जगह नहीं ले सकता।
-Nobody can replace Tom.	Tom ist unersetzlich.	टॉम अपूरणीय है।
-Nobody is laughing now.	Jetzt lacht niemand.	अब कोई हंसता नहीं है।
-Nobody knows the truth.	Keiner kennt die Wahrheit.	कोई भी सच्चाई नहीं जानता।
-Nobody likes a quitter.	Niemand mag einen Drückeberger.	किसी को भी विस्थापन पसंद नहीं है।
-Nobody understands you.	Niemand versteht dich.	कोई भी आपको नहीं समझता है।
-None of us are cowards.	Wir sind alle keine Feiglinge.	हम सभी कायर नहीं हैं।
-None of us are cowards.	Keiner von uns ist ein Feigling.	हम में से कोई भी कायर नहीं है।
-Not everyone hates Tom.	Nicht jeder hasst Tom.	हर कोई टॉम से नफरत नहीं करता है।
-Not everyone hates Tom.	Nicht alle hassen Tom.	सभी से नफरत नहीं है टॉम।
 Not everyone is honest.	Nicht jeder ist ehrlich.	हर कोई ईमानदार नहीं है।
 Nothing could stop him.	Nichts konnte ihn aufhalten.	कुछ भी उसे रोक नहीं सकता था।
 Nothing happened today.	Heute ist nichts passiert.	आज कुछ नहीं हुआ।
