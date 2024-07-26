@@ -26983,3 +26983,12 @@ I'm a perfectionist.	Ich bin ein Perfektionist.	मैं एक समग्र
 I'm a quick learner.	Ich lerne schnell.	मैं तेजी से सीखने वाला हूं।
 I'm a tattoo artist.	Ich bin ein Tätowierkünstler.	मैं एक टैटू कलाकार हूं।
 I'm a tennis player.	Ich bin ein Tennisspieler.	मैं एक टेनिस खिलाड़ी हूं।
+I'm about Tom's age.	Ich bin ungefähr in Toms Alter.	मैं लगभग टॉम के आयु में हूँ।
+I'm about to go out.	Ich bin kurz davor, rauszugehen.	मैं बाहर जाने वाला हूँ।
+I'm absolutely sure!	Ich bin absolut sicher!	मैं पूरी तरह से पक्का हूँ!
+I'm afraid of death.	Ich habe Angst vor dem Tod.	मुझे मौत से डर लगता है।
+I'm afraid of dying.	Ich fürchte mich davor zu sterben.	मुझे मरने का डर है।
+I'm against the war.	Ich bin gegen den Krieg.	मैं युद्ध के खिलाफ हूँ।
+I'm almost finished.	Ich bin fast fertig.	मैं लगभग समाप्त हो रहा हूँ।
+I'm already at work.	Ich bin bereits bei der Arbeit.	मैं पहले से ही काम कर रहा हूँ।
+I'm already married.	Ich bin bereits verheiratet.	मैं पहले से ही शादीशुदा है।
