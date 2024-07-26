@@ -30415,3 +30415,13 @@ Are you eating lunch?	Isst du zu Mittag?	क्या आप दोपहर क
 Are you feeling sick?	Fühlst du dich krank?	क्या आपको बीमारी महसूस हो रही है?
 Are you following me?	Folgst du mir?	क्या तुम मेरा पीछा कर रहे हो?
 Are you freaking out?	Bist du ausgeflippt?	क्या आप पागल हो रहे हैं?
+Are you getting this?	Verstehst du das?	क्या आप इसे समझ रहे हैं?
+Are you going or not?	Gehst du oder nicht?	क्या आप जा रहे हैं या नहीं?
+Are you good at math?	Bist du gut in Mathe?	क्या आप गणित में अच्छे हैं?
+Are you happy or not?	Bist du glücklich oder nicht?	क्या आप खुश हैं या नहीं?
+Are you imitating me?	Imitierst du mich?	क्या आप मुझे नकल कर रहे हैं?
+Are you in Australia?	Bist du in Australien?	क्या आप ऑस्ट्रेलिया में हैं?
+Are you in the sauna?	Bist du in der Sauna?	क्या आप सौने में हैं?
+Are you mentally ill?	Bist du geistig krank?	क्या आप मानसिक रूप से बीमार हैं?
+Are you pregnant yet?	Bist du schon schwanger?	क्या आप अभी गर्भवती हैं?
+Are you ready to eat?	Bist du bereit zu essen?	क्या आप खाने के लिए तैयार हैं?

@@ -1,16 +1,4 @@
 
-Are you getting this?	Hast du das verstanden?	आपको समझ में आया?
-Are you going or not?	Gehst du oder nicht?	आप जा रहे हैं या नहीं?
-Are you good at math?	Bist du gut in Mathe?	आप गणित में अच्छे हैं?
-Are you happy or not?	Bist du glücklich oder nicht?	क्या आप खुश हैं या नहीं?
-Are you imitating me?	Machst du mich nach?	क्या तुम मुझे करते हो
-Are you in Australia?	Bist du in Australien?	क्या आप ऑस्ट्रेलिया में हैं?
-Are you in the sauna?	Bist du in der Sauna?	क्या आप सौना में हैं?
-Are you mentally ill?	Hast du eine Geisteskrankheit?	क्या आपको कोई मानसिक बीमारी है?
-Are you pregnant yet?	Bist du schon schwanger?	क्या आप पहले से ही गर्भवती हैं
-Are you ready to eat?	Sind Sie bereit zum Essen?	क्या आप खाने के लिए तैयार हैं?
-Are you ready to eat?	Bist du bereit zum Essen?	क्या आप खाने के लिए तैयार हैं
-Are you ready to eat?	Seid ihr bereit zum Essen?	क्या आप खाने के लिए तैयार हैं?
 Are you ready to fly?	Bist du flugfertig?	क्या आप उड़ान भरने के लिए तैयार हैं?
 Are you ready to fly?	Bist du flugbereit?	क्या आप उड़ान भरने के लिए तैयार हैं?
 Are you really a nun?	Bist du wirklich Nonne?	क्या आप वास्तव में नन हैं?
