@@ -1,14 +1,4 @@
 
-I traveled on foot.	Ich reiste zu Fuß.	मैंने पैदल यात्रा की।
-I traveled on foot.	Ich reiste per pedes.	मैंने पेड्स से यात्रा की।
-I tried everything.	Ich habe alles versucht.	मैंने सब कुछ आजमाया है।
-I tried everything.	Ich habe nichts unversucht gelassen.	मैंने कुछ भी नहीं छोड़ा।
-I tried not to cry.	Ich versuchte, nicht zu weinen.	मैंने रोने की कोशिश नहीं की।
-I tried not to cry.	Ich habe versucht, nicht zu weinen.	मैंने रोने की कोशिश नहीं की।
-I tried to do that.	Das habe ich versucht.	मैंने कोशिश की।
-I turned off my TV.	Ich habe meinen Fernseher ausgeschaltet.	मैंने अपना टीवी बंद कर दिया।
-I unplugged the TV.	Ich zog den Stecker des Fernsehers heraus.	मैंने टीवी के कनेक्टर को बाहर निकाला।
-I unplugged the TV.	Ich habe den Stecker des Fernsehers herausgezogen.	मैंने टेलीविजन कनेक्टर को बाहर निकाला।
 I use it every day.	Ich benutze es jeden Tag.	मेरे द्वारा इसे हर दिन उपयोग किया जाता है।
 I used to be a cop.	Ich war früher Polizist.	मैं एक पुलिसकर्मी हुआ करता था।
 I used to be a cop.	Ich war mal ein Bulle.	मैं एक बैल था।

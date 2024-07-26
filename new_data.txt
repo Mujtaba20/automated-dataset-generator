@@ -21662,3 +21662,9 @@ I told him to come.	Ich habe ihm gesagt zu kommen.	मैंने उसे आ
 I took care of Tom.	Ich habe mich um Tom gekümmert.	मैंने टॉम की देखभाल की।
 I took the day off.	Ich habe den Tag frei genommen.	मैंने दिन छुट्टी ले ली।
 I took your advice.	Ich habe deinen Rat befolgt.	मैंने तुम्हारी सलाह ली।
+I traveled on foot.	Ich bin zu Fuß gereist.	मैं पैदल यात्रा करा।
+I tried everything.	Ich habe alles versucht.	मैंने सब कुछ कोशिश की।
+I tried not to cry.	Ich habe versucht, nicht zu weinen.	मैंने रोने की कोशिश नहीं की।
+I tried to do that.	Ich habe versucht, das zu tun.	मैंने उसे करने की कोशिश की।
+I turned off my TV.	Ich habe meinen Fernseher ausgeschaltet.	मैंने अपना टीवी बंद कर दिया।
+I unplugged the TV.	Ich habe den Fernseher ausgesteckt.	मैंने टीवी की प्लग निकाल दी।
