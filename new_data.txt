@@ -32953,3 +32953,9 @@ Just give it up, Tom.	Gib es einfach auf, Tom.	छोड़ दो इसे, �
 Just go to your room.	Geh einfach in dein Zimmer.	अपने कमरे में जाओ।
 Just leave Tom alone.	Lass Tom einfach allein.	बस टॉम को अकेले छोड़ दो।
 Just throw them away.	Wirf sie einfach weg.	बस उन्हें फेंक दो।
+Keep the door closed.	Halten Sie die Tür geschlossen.	दरवाजा बंद रखें।
+Keep the door locked.	Halten Sie die Tür verschlossen.	दरवाजा ताले से बंद रखें।
+Keep the kids inside.	Halten Sie die Kinder drinnen.	बच्चों को अंदर रखें।
+Keep up your courage.	Bleib tapfer.	अपना हौसला बनाए रखें।
+Keep your mouth shut.	Halte deinen Mund geschlossen.	मुँह बंद रखो।
+Keep your room clean.	Achten Sie darauf, dass Ihr Zimmer sauber bleibt.	अपने कमरे को साफ रखें।

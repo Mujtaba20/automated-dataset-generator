@@ -1,14 +1,4 @@
 
-Keep the door closed.	Lass die Tür zu.	दरवाजे की अनुमति दें।
-Keep the door locked.	Lass die Tür abgeschlossen.	दरवाजा पूरा होने दो।
-Keep the kids inside.	Die Kinder sollen im Haus bleiben!	बच्चों को घर में रहना चाहिए!
-Keep up your courage.	Behalte den Mut.	साहस रखें।
-Keep up your courage.	Behalten Sie den Mut.	साहस रखें।
-Keep up your courage.	Behaltet den Mut.	साहस रखें।
-Keep your mouth shut.	Schweig still!	चुप रहें!
-Keep your room clean.	Halte dein Zimmer sauber.	अपने कमरे को साफ रखें।
-Keep your room clean.	Haltet euer Zimmer sauber.	अपने कमरे को साफ रखें।
-Keep your room clean.	Halten Sie Ihr Zimmer sauber.	अपने कमरे को साफ रखें।
 Keep your voice down.	Sprich leise!	चुप रहो!
 Kids grow up so fast.	Kinder werden so schnell groß.	बच्चे इतनी जल्दी बड़े हो जाते हैं।
 Kids grow up so fast.	Kinder werden so schnell erwachsen!	बच्चे इतनी जल्दी बड़े हो जाते हैं!
