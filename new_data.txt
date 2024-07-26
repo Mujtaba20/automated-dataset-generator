@@ -23874,3 +23874,13 @@ Tom made Mary stop.	Tom ließ Mary anhalten.	टॉमने मेरी को
 Tom made Mary swim.	Tom ließ Mary schwimmen.	टॉमने मेरी को तैरने के लिए कहा।
 Tom made a mistake.	Tom hat einen Fehler gemacht.	टॉमने एक गलती की।
 Tom made a promise.	Tom machte ein Versprechen.	टॉमने एक वादा किया।
+Tom made an omelet.	Tom machte ein Omelett.	Tom ने एक आमलेट बनाया।
+Tom made breakfast.	Tom machte das Frühstück.	Tom ने नाश्ता बनाया।
+Tom made fun of me.	Tom machte sich über mich lustig.	Tom ने मुझे मजाक बनाया।
+Tom made it for me.	Tom machte es für mich.	Tom ने यह मेरे लिए बनाया।
+Tom made me eat it.	Tom zwang mich, es zu essen.	Tom ने मुझे इसे खाने के लिए मजबूर किया।
+Tom makes me laugh.	Tom bringt mich zum Lachen.	Tom मुझे हंसाता है।
+Tom makes me smile.	Tom bringt mich zum Lächeln.	Tom मुझे मुस्कुराना पड़ता है।
+Tom may be at home.	Tom könnte zu Hause sein.	शायद Tom घर पर हो।
+Tom may be worried.	Tom könnte besorgt sein.	शायद Tom चिंतित हो।
+Tom may believe us.	Tom könnte uns glauben.	शायद Tom हमें विश्वास करे।

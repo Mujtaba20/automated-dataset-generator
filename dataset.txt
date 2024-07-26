@@ -1,14 +1,4 @@
 
-Tom made an omelet.	Tom machte ein Omelette.	टॉम ने एक ऑमलेट बनाया।
-Tom made breakfast.	Tom bereitete das Frühstück zu.	टॉम ने नाश्ता तैयार किया।
-Tom made fun of me.	Tom machte sich über mich lustig.	टॉम ने मेरा मजाक उड़ाया।
-Tom made it for me.	Tom hat es für mich gemacht.	टॉम ने मेरे लिए यह किया।
-Tom made me eat it.	Tom hat mich dazu gebracht, es zu essen.	टॉम ने मुझे इसे खा लिया।
-Tom makes me laugh.	Tom bringt mich zum Lachen.	टॉम मुझे हंसाता है।
-Tom makes me smile.	Tom bringt mich zum Lächeln.	टॉम मुझे मुस्कुराता है।
-Tom may be at home.	Tom ist vielleicht zu Hause.	टॉम घर पर हो सकता है।
-Tom may be worried.	Tom könnte ja besorgt sein.	टॉम चिंतित हो सकता है।
-Tom may believe us.	Unter Umständen könnte uns Tom ja glauben.	कुछ परिस्थितियों में, टॉम हम पर विश्वास कर सकते थे।
 Tom may come today.	Tom kann heute kommen.	टॉम आज आ सकता है।
 Tom means business.	Tom meint’s ernst.	टॉम गंभीर है।
 Tom might be early.	Tom könnte zeitig sein.	टॉम जल्दी हो सकता है।
