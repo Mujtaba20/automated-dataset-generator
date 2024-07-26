@@ -31471,3 +31471,11 @@ I can't confirm that.	Ich kann das nicht bestätigen.	मैं इसे पु
 I can't confirm this.	Ich kann das nicht bestätigen.	मुझे यह पुष्टि नहीं करनी है।
 I can't convince Tom.	Ich kann Tom nicht überzeugen.	मैं टॉम को मना नहीं सकता।
 I can't dance either.	Ich kann auch nicht tanzen.	मैं भी नाच नहीं सकता।
+I can't do it either.	Ich kann es auch nicht machen.	मुझसे यह भी नहीं हो सकता।
+I can't drink coffee.	Ich kann keinen Kaffee trinken.	मैं कॉफ़ी नहीं पी सकता।
+I can't eat all this.	Ich kann das alles nicht essen.	मैं इस सब को नहीं खा सकता।
+I can't eat any more.	Ich kann nicht mehr essen.	मैं और कुछ नहीं खा सकता।
+I can't even do that.	Ich kann das auch nicht tun.	मैं वह भी नहीं कर सकता।
+I can't explain that.	Ich kann das nicht erklären.	मैं यह नहीं समझा सकता।
+I can't explain this.	Das kann ich nicht erklären.	मैं इसे समझा नहीं सकता।
+I can't face Tom now.	Ich kann Tom jetzt nicht sehen.	मैं अब तक टॉम से नहीं मिल सकता।
