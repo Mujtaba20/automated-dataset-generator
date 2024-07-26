@@ -1,14 +1,4 @@
 
-Tom has been skiing.	Tom war Ski fahren.	टॉम स्कीइंग कर रहा था।
-Tom has been unwell.	Es geht Tom nicht gut.	टॉम अच्छा नहीं कर रहा है।
-Tom has betrayed me.	Tom hat mich verraten.	टॉम ने मुझे धोखा दिया।
-Tom has betrayed us.	Tom hat uns hintergangen.	टॉम हमारे पास वापस चला गया।
-Tom has disappeared.	Tom ist verschwunden.	टॉम गायब हो गया है।
-Tom has enough time.	Tom hat genug Zeit.	टॉम के पास पर्याप्त समय है।
-Tom has few friends.	Tom hat wenige Freunde.	टॉम के कुछ दोस्त हैं।
-Tom has gone insane.	Tom hat den Verstand verloren.	टॉम ने मन खो दिया।
-Tom has gone to bed.	Tom ist zu Bett gegangen.	टॉम बिस्तर पर चला गया।
-Tom has got a point.	Tom hat in gewisser Weise recht.	एक तरह से, टॉम सही है।
 Tom has lost weight.	Tom hat abgenommen.	टॉम में कमी आई है।
 Tom has lung cancer.	Tom hat Lungenkrebs.	टॉम को फेफड़े का कैंसर है।
 Tom has my umbrella.	Tom hat meinen Regenschirm.	टॉम में मेरी छतरी है।

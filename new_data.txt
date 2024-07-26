@@ -28741,3 +28741,13 @@ Tom has a toothache.	Tom hat Zahnschmerzen.	टॉम के दाँत मे
 Tom has a white cat.	Tom hat eine weiße Katze.	टॉम के पास एक सफेद बिल्ली है।
 Tom has already won.	Tom hat bereits gewonnen.	टॉम ने पहले ही जीत लिया है।
 Tom has been beaten.	Tom wurde besiegt.	टॉम हार गया है।
+Tom has been skiing.	Tom ist Ski gefahren.	टॉम ने स्की कर रहा था।
+Tom has been unwell.	Tom war krank.	टॉम अच्छा नहीं था।
+Tom has betrayed me.	Tom hat mich verraten.	टॉम ने मुझे धोखा दिया।
+Tom has betrayed us.	Tom hat uns verraten.	टॉम ने हमें धोखा दिया।
+Tom has disappeared.	Tom ist verschwunden.	टॉम गायब हो गया है।
+Tom has enough time.	Tom hat genug Zeit.	टॉम के पास प्लेटी वक्त है।
+Tom has few friends.	Tom hat wenige Freunde.	टॉम के कुछ दोस्त हैं।
+Tom has gone insane.	Tom ist verrückt geworden.	टॉम पागल हो गया है।
+Tom has gone to bed.	Tom ist ins Bett gegangen.	टॉम सोने चला गया है।
+Tom has got a point.	Tom hat einen Punkt.	टॉम की एक बात सही है।
