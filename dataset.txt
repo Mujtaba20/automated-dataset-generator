@@ -1,14 +1,4 @@
 
-I know Tom will help.	Ich weiß, dass Thomas helfen wird.	मुझे पता है कि थॉमस मदद करेगा।
-I know Tom's brother.	Ich kenne Toms Bruder.	मैं टॉम का भाई जानता हूं।
-I know all the rules.	Ich kenne alle Regeln.	मैं सभी नियमों को जानता हूं।
-I know her very well.	Ich kenne sie sehr gut.	मैं उसे बहुत अच्छी तरह से जानता हूं।
-I know him very well.	Ich kenne ihn sehr gut.	मैं उसे अच्छी तरह से जानता हूँ।
-I know how that goes.	Ich weiß, wie das geht.	मुझे पता है कि यह कैसे करना है।
-I know it for a fact.	Ich weiß es mit Sicherheit.	मैं निश्चितता के साथ जानता हूं।
-I know it's not easy.	Ich weiß, dass es nicht leicht ist.	मुझे पता है कि यह आसान नहीं है।
-I know life is short.	Ich weiß, dass das Leben kurz ist.	मुझे पता है कि जीवन छोटा है।
-I know lots of jokes.	Ich kenne viele Witze.	मुझे बहुत सारे चुटकुले पता हैं।
 I know lots of songs.	Ich kenne viele Lieder.	मैं बहुत सारे गाने जानता हूं।
 I know sign language.	Ich kenne die Gebärdensprache.	मुझे साइन लैंग्वेज पता है।
 I know that I'm lazy.	Ich weiß, dass ich faul bin.	मुझे पता है कि मैं आलसी हूं।

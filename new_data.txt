@@ -31837,3 +31837,13 @@ I know I'll die soon.	Ich weiß, dass ich bald sterben werde.	मुझे प�
 I know Tom likes you.	Ich weiß, dass Tom dich mag.	मुझे पता है कि टॉम को तुम पसंद हो।
 I know Tom very well.	Ich kenne Tom sehr gut.	मैं टॉम को बहुत अच्छे से जानता हूँ।
 I know Tom was right.	Ich weiß, dass Tom recht hatte.	मुझे पता है कि टॉम सही था।
+I know Tom will help.	Ich weiß, dass Tom helfen wird.	मुझे पता है कि टॉम मदद करेगा।
+I know Tom's brother.	Ich kenne Toms Bruder.	मुझे पता है टॉम के भाई के बारे में।
+I know all the rules.	Ich kenne alle Regeln.	मुझे सभी नियम पता है।
+I know her very well.	Ich kenne sie sehr gut.	मुझे उसे बहुत अच्छे से पता है।
+I know him very well.	Ich kenne ihn sehr gut.	मुझे उसे बहुत अच्छे से पता है।
+I know how that goes.	Ich weiß, wie es läuft.	मुझे पता है कि ऐसा कैसे होता है।
+I know it for a fact.	Ich weiß es tatsächlich.	मुझे यह तथ्य है।
+I know it's not easy.	Ich weiß, dass es nicht einfach ist.	मुझे पता है कि यह आसान नहीं है।
+I know life is short.	Ich weiß, dass das Leben kurz ist.	मुझे पता है कि जीवन छोटा है।
+I know lots of jokes.	Ich kenne viele Witze.	मुझे कई मजाक पता है।
