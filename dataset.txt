@@ -1,15 +1,4 @@
 
-Do you really love Tom?	Liebst du Tom wirklich?	क्या आप वास्तव में टॉम से प्यार करते हैं?
-Do you really not know?	Weißt du das wirklich nicht?	क्या आप वास्तव में नहीं जानते हैं?
-Do you see the raccoon?	Siehst du den Waschbären?	क्या आप रैकून देखते हैं?
-Do you see what I mean?	Verstehen Sie, was ich meine?	आप समझे की मेरा आशय क्या है?
-Do you shave every day?	Rasierst du dich jeden Tag?	क्या आप हर दिन शेव करते हैं
-Do you shave every day?	Rasiert ihr euch jeden Tag?	क्या आप हर दिन मुंडवा रहे हैं?
-Do you shave every day?	Rasieren Sie sich jeden Tag?	क्या आप हर दिन शेव करते हैं?
-Do you shave your legs?	Rasierst du deine Beine?	क्या आप अपने पैरों को शेव करते हैं?
-Do you shave your legs?	Rasieren Sie Ihre Beine?	क्या आप अपने पैरों को शेव करते हैं?
-Do you smell something?	Riechst du etwas?	क्या आपको कुछ गंध आती है?
-Do you smell something?	Riechen Sie etwas?	क्या आपको कुछ गंध आती है?
 Do you still have time?	Hast du noch Zeit?	क्या आपके पास अभी भी समय है?
 Do you still have time?	Habt ihr noch Zeit?	क्या आपके पास अभी भी समय है?
 Do you still have time?	Haben Sie noch Zeit?	क्या आपके पास अधिक समय है?
