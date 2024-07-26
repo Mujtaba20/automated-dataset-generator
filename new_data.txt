@@ -23730,3 +23730,12 @@ Tom is stalking me.	Tom verfolgt mich.	टॉम मुझे परेशान
 Tom is stark naked.	Tom ist splitterfasernackt.	टॉम पूरी नंगी है।
 Tom is still a kid.	Tom ist immer noch ein Kind.	टॉम अब भी बच्चा है।
 Tom is still alive.	Tom lebt noch.	टॉम अभी भी जिंदा है।
+Tom is still angry.	Tom ist immer noch wütend.	टॉम अब भी गुस्सा है।
+Tom is still drunk.	Tom ist immer noch betrunken.	टॉम अब भी नशे में है।
+Tom is still there.	Tom ist immer noch da.	टॉम अभी भी वहाँ है।
+Tom is such a jerk.	Tom ist so ein Trottel.	टॉम एक ऐसा बेवकूफ है।
+Tom is sure to win.	Tom wird sicher gewinnen.	टॉम जीतने के लिए पक्का है।
+Tom is thickheaded.	Tom ist dickköpfig.	टॉम अड़बड़ है।
+Tom is throwing up.	Tom erbricht.	टॉम उल्टी कर रहा है।
+Tom is trustworthy.	Tom ist zuverlässig.	टॉम भरोसेमंद है।
+Tom is unambitious.	Tom ist anspruchslos.	टॉम अम्बिशस नहीं है।
