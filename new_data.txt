@@ -25739,3 +25739,12 @@ He made a wisecrack.	Er machte einen Scherz.	उसने एक मजाक �
 He made me go there.	Er ließ mich dorthin gehen.	उसने मुझे वहाँ जाने के लिए मजबूर किया।
 He made no response.	Er reagierte nicht.	उसने कोई प्रतिक्रिया नहीं दी।
 He made up his mind.	Er hat sich entschlossen.	उसने अपना निश्चय किया।
+He may have said so.	Er hat das vielleicht gesagt.	शायद उसने यह कहा होगा।
+He may have seen it.	Er hat es vielleicht gesehen.	शायद उसने इसे देखा होगा।
+He may not be happy.	Er ist vielleicht nicht glücklich.	शायद वह खुश नहीं है।
+He must be homesick.	Er muss Heimweh haben.	उसे घर की याद आ रही होगी।
+He must be innocent.	Er muss unschuldig sein.	वह निर्दोष होना चाहिए।
+He muttered a curse.	Er murmelte einen Fluch.	उसने एक शाप दिया।
+He needed the money.	Er brauchte das Geld.	उसे पैसे की आवश्यकता थी।
+He needs assistants.	Er braucht Assistenten.	उसे सहायकों की आवश्यकता है।
+He needs discipline.	Er braucht Disziplin.	उसे अनुशासन की आवश्यकता है।
