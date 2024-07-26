@@ -1,14 +1,4 @@
 
-I'm a very fast driver.	Ich bin ein sehr schneller Fahrer.	मैं बहुत तेज़ ड्राइवर हूं।
-I'm a very fast driver.	Ich bin eine sehr schnelle Fahrerin.	मैं बहुत तेज़ ड्राइवर हूं।
-I'm afraid I was right.	Ich habe wohl leider recht gehabt.	दुर्भाग्य से मैं सही था।
-I'm afraid of the dark.	Ich habe Angst im Dunkeln.	मैं अंधेरे में डरता हूं।
-I'm afraid to go alone.	Ich habe Angst, alleine zu gehen.	मैं अकेले जाने से डरता हूं।
-I'm afraid to go alone.	Ich habe Angst davor, allein zu gehen.	मुझे अकेले जाने से डर लगता है।
-I'm allowing you to go.	Ich gestatte dir zu gehen.	मैं आपको जाने की अनुमति देता हूं।
-I'm allowing you to go.	Ich erlaube dir zu gehen.	मैं आपको जाने की अनुमति देता हूं।
-I'm allowing you to go.	Ich erlaube Ihnen zu gehen.	मैं आपको जाने की अनुमति देता हूं।
-I'm almost always late.	Ich komme fast immer zu spät.	मैं लगभग हमेशा बहुत देर से आता हूं।
 I'm already doing that.	Das mache ich schon.	मैं `यह करूँगा।
 I'm already doing that.	Das mache ich bereits.	मैं पहले से ही ऐसा करता हूं।
 I'm anxious to see you.	Ich bin gespannt dich zu sehen.	मैं आपसे मिलकर उत्साहित हूं।
