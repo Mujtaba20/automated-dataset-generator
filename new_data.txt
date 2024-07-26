@@ -34409,3 +34409,12 @@ Tom is angry with me.	Tom ist wütend auf mich.	टॉम मुझसे ना
 Tom is angry with us.	Tom ist wütend auf uns.	टॉम हमारे साथ नाराज़ है।
 Tom is annoying Mary.	Tom nervt Mary.	टॉम मेरी को परेशान कर रहा है।
 Tom is around thirty.	Tom ist ungefähr dreißig.	टॉम तीस के आसपास है।
+Tom is as tall as me.	Tom ist so groß wie ich.	टॉम मेरे जितना लम्बा है।
+Tom is asking for it.	Tom fragt danach.	टॉम इसके लिए पूछ रहा है।
+Tom is asleep in bed.	Tom schläft im Bett.	टॉम बिस्तर में सो रहा है।
+Tom is at home today.	Tom ist heute zu Hause.	टॉम आज घर पर है।
+Tom is at school now.	Tom ist jetzt in der Schule.	टॉम अब स्कूल में है।
+Tom is available now.	Tom ist jetzt verfügbar.	टॉम अब उपलब्ध है।
+Tom is bad at sports.	Tom ist schlecht in Sport.	टॉम खेल में बुरा है।
+Tom is badly wounded.	Tom ist schwer verletzt.	टॉम गंभीर रूप से घायल है।
+Tom is baking a cake.	Tom bäckt einen Kuchen.	टॉम एक केक बना रहा है।

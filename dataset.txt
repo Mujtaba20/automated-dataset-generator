@@ -1,14 +1,4 @@
 
-Tom is as tall as me.	Tom ist so groß wie ich.	टॉम मेरे जितना बड़ा है।
-Tom is asking for it.	Tom bittet darum.	टॉम इसके लिए पूछता है।
-Tom is asleep in bed.	Tom liegt im Bett und schläft.	टॉम बिस्तर में झूठ बोलता है और सोता है।
-Tom is at home today.	Tom ist heute zu Hause.	टॉम आज घर पर है।
-Tom is at school now.	Tom ist jetzt in der Schule.	टॉम अब स्कूल में है।
-Tom is available now.	Tom ist jetzt abkömmlich.	टॉम अब उपलब्ध है।
-Tom is bad at sports.	Tom ist unsportlich.	टॉम अनसपोर्ट्समैन के समान है।
-Tom is badly wounded.	Tom ist schwer verletzt.	टॉम गंभीर रूप से घायल है।
-Tom is baking a cake.	Tom backt einen Kuchen.	टॉम एक केक को काटता है।
-Tom is baking a cake.	Tom bäckt einen Kuchen.	टॉम एक केक को काटता है।
 Tom is being ignored.	Tom wird ignoriert.	टॉम को नजरअंदाज कर दिया जाता है।
 Tom is being watched.	Tom wird beobachtet.	टॉम मनाया जाता है।
 Tom is brain damaged.	Tom hat einen Hirnschaden.	टॉम को एक मस्तिष्क क्षति है।
