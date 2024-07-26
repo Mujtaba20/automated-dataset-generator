@@ -1,14 +1,4 @@
 
-No one will see us.	Niemand wird uns sehen.	कोई भी हमें नहीं देखेगा।
-No one's been hurt.	Niemand kam zu Schaden.	किसी को नुकसान नहीं हुआ।
-No one's listening.	Niemand hört zu.	कोई भी सुनता है।
-Nobody believes me.	Niemand glaubt mir.	कोई भी मुझ पर विश्वास नहीं करता है।
-Nobody believes me.	Keiner glaubt mir.	कोई भी मुझ पर विश्वास नहीं करता है।
-Nobody can help me.	Es kann mir niemand helfen.	कोई भी मेरी मदद नहीं कर सकता।
-Nobody can help me.	Es kann mir keiner helfen.	कोई भी मेरी मदद नहीं कर सकता।
-Nobody can stop me!	Niemand hält mich auf!	कोई भी मुझे रोकता नहीं है!
-Nobody can stop me!	Niemand kann mich aufhalten!	मुझे कोई नहीं रोक सकता!
-Nobody got injured.	Niemand wurde verletzt.	कोई भी घायल नहीं हुआ।
 Nobody here smokes.	Niemand hier raucht.	यहां कोई भी धूम्रपान नहीं करता है।
 Nobody here smokes.	Hier raucht niemand.	यहां कोई भी धूम्रपान नहीं करता है।
 Nobody noticed Tom.	Keiner achtete auf Tom.	किसी ने टॉम पर ध्यान नहीं दिया।

@@ -22574,3 +22574,10 @@ No one saw a thing.	Niemand hat etwas gesehen.	कोई भी चीज नह
 No one thinks that.	Niemand denkt das.	कोई भी ऐसा नहीं सोचता।
 No one was at home.	Es war niemand zu Hause.	कोई उस वक्त घर पर नहीं था।
 No one was injured.	Niemand wurde verletzt.	किसी को चोट नहीं आई थी।
+No one will see us.	Niemand wird uns sehen.	कोई हमें नहीं देखेगा।
+No one's been hurt.	Niemand wurde verletzt.	किसी को चोट नहीं आई है।
+No one's listening.	Niemand hört zu.	कोई सुन रहा नहीं है।
+Nobody believes me.	Niemand glaubt mir.	कोई मुझपर विश्वास नहीं करता।
+No one can help me.	Niemand kann mir helfen.	कोई मेरी मदद नहीं कर सकता।
+Nobody can stop me!	Niemand kann mich aufhalten!	कोई मुझे रोक नहीं सकता!
+Nobody got injured.	Niemand wurde verletzt.	किसी को चोट नहीं आई।
