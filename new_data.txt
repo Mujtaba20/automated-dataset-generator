@@ -32013,3 +32013,12 @@ I never asked for it.	Ich habe nie danach gefragt.	मैंने कभी इ
 I never betrayed you.	Ich habe dich nie verraten.	मैंने कभी तुम्हें धोखा नहीं दिया।
 I never doubted that.	Ich habe daran nie gezweifelt.	मैंने उस पर कभी संदेह नहीं किया।
 I never drink coffee.	Ich trinke nie Kaffee.	मैं कभी कॉफ़ी नहीं पीता।
+I never even saw you.	Ich habe dich noch nicht einmal gesehen.	मैंने तुम्हें अबतक भी नहीं देखा।
+I never gave up hope.	Ich habe nie die Hoffnung aufgegeben.	मैंने कभी आशा नहीं छोड़ी।
+I never go to church.	Ich gehe nie in die Kirche.	मैं कभी चर्च नहीं जाता।
+I never liked school.	Ich mochte die Schule nie.	मुझे स्कूल कभी पसंद नहीं था।
+I never noticed that.	Das habe ich nie bemerkt.	मैंने कभी यह ध्यान नहीं दिया।
+I never said goodbye.	Ich habe nie auf Wiedersehen gesagt.	मैंने कभी अलविदा नहीं कहा।
+I never speak French.	Ich spreche nie Französisch.	मैं कभी फ्रेंच नहीं बोलता।
+I never travel alone.	Ich reise nie alleine.	मैं कभी अकेले नहीं यात्रा करता।
+I never trusted them.	Ich habe ihnen nie vertraut.	मैंने कभी उनपर भरोसा नहीं किया।
