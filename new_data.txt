@@ -40426,3 +40426,13 @@ Tom is young at heart.	Tom ist jung geblieben.	टॉम दिल से जव
 Tom isn't John's twin.	Tom ist nicht der Zwilling von John.	टॉम जॉन का जुड़वा नहीं है।
 Tom isn't Mary's type.	Tom ist nicht Marys Typ.	टॉम मेयरी का प्रकार नहीं है।
 Tom isn't a good cook.	Tom ist kein guter Koch.	टॉम अच्छे पकाने वाला नहीं है।
+Tom isn't a good liar.	Tom ist kein guter Lügner.	टॉम अच्छा झूठा नहीं है।
+Tom isn't a happy man.	Tom ist kein glücklicher Mann.	टॉम खुश आदमी नहीं है।
+Tom isn't a physician.	Tom ist kein Arzt.	टॉम डॉक्टर नहीं है।
+Tom isn't always here.	Tom ist nicht immer hier.	टॉम हमेशा यहाँ नहीं है।
+Tom isn't always late.	Tom ist nicht immer spät dran.	टॉम हमेशा देर से नहीं आता।
+Tom isn't an engineer.	Tom ist kein Ingenieur.	टॉम एक इंजीनियर नहीं है।
+Tom isn't an outsider.	Tom ist kein Außenseiter.	टॉम पराए नहीं है।
+Tom isn't at home now.	Tom ist jetzt nicht zu Hause.	टॉम अभी घर पर नहीं है।
+Tom isn't coming back.	Tom kommt nicht zurück.	टॉम वापस नहीं आ रहा है।
+Tom isn't coming here.	Tom kommt hier nicht hin.	टॉम यहाँ नहीं आ रहा है।
