@@ -34375,3 +34375,11 @@ Tom is a scrawny kid.	Tom ist ein schmächtiges Kind.	टॉम एक दुर
 Tom is a slow walker.	Tom geht langsam.	टॉम धीरे चलने वाला है।
 Tom is a sociologist.	Tom ist ein Soziologe.	टॉम एक समाजशास्त्री है।
 Tom is a strange man.	Tom ist ein seltsamer Mann.	टॉम एक अजीब आदमी है।
+Tom is a survivalist.	Tom ist ein Überlebenskünstler.	टॉम एक जीवन योद्धा है।
+Tom is a taxi driver.	Tom ist ein Taxifahrer.	टॉम एक टैक्सी चालक है।
+Tom is a true artist.	Tom ist ein echter Künstler.	टॉम एक सच्चा कलाकार है।
+Tom is a true friend.	Tom ist ein wahrer Freund.	टॉम एक सच्चा दोस्त है।
+Tom is a veteran cop.	Tom ist ein erfahrener Polizist.	टॉम एक विशेषज्ञ पुलिसवाला है।
+Tom is a veteran now.	Tom ist jetzt ein Veteran.	टॉम अब एक प्रौद्योगिक है।
+Tom is a voice actor.	Tom ist ein Synchronsprecher.	टॉम एक आवाज अभिनेता है।
+Tom is a wealthy man.	Tom ist ein wohlhabender Mann.	टॉम एक धनवान आदमी है।

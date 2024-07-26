@@ -1,14 +1,4 @@
 
-Tom is a survivalist.	Tom ist ein Überlebenskünstler.	टॉम एक जीवित कलाकार है।
-Tom is a taxi driver.	Tom ist Taxifahrer.	टॉम एक टैक्सी ड्राइवर है।
-Tom is a true artist.	Tom ist ein wahrer Künstler.	टॉम एक असली कलाकार है।
-Tom is a true artist.	Tom ist ein echter Künstler.	टॉम एक असली कलाकार है।
-Tom is a true friend.	Tom ist ein wahrer Freund.	टॉम एक असली दोस्त है।
-Tom is a true friend.	Tom ist ein echter Freund.	टॉम एक असली दोस्त है।
-Tom is a veteran cop.	Tom ist ein berufserfahrener Polizist.	टॉम एक अनुभवी पुलिसकर्मी है।
-Tom is a veteran now.	Tom ist jetzt ein Veteran.	टॉम अब एक अनुभवी है।
-Tom is a voice actor.	Tom ist Synchronsprecher.	टॉम एक आवाज अभिनेता है।
-Tom is a wealthy man.	Tom ist ein wohlhabender Mann.	टॉम एक अमीर आदमी है।
 Tom is a woman hater.	Tom ist ein Frauenhasser.	टॉम महिलाओं से घृणा है।
 Tom is a young adult.	Tom ist ein junger Erwachsener.	टॉम एक युवा वयस्क है।
 Tom is about my size.	Tom ist etwa so groß wie ich.	टॉम मेरे आकार के बारे में है।
