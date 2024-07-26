@@ -1,15 +1,4 @@
 
-Smoking is bad for you.	Rauchen ist schlecht für dich.	आपके लिए धूम्रपान करना ठीक नहीं।
-Snakes shed their skin.	Schlangen häuten sich.	सांप की त्वचा।
-So what's your problem?	Also, was ist dein Problem?	तो आपकी समस्या क्या है?
-So, how did he like it?	Und wie hat es ihm gefallen?	और उसे यह कैसे पसंद आया?
-Somebody's at the door.	Jemand ist an der Tür.	कोई दरवाजे पर है।
-Someone gave Tom a car.	Jemand gab Tom ein Auto.	किसी ने टॉम को एक कार दी।
-Someone gave Tom a car.	Jemand hat Tom ein Auto gegeben.	किसी ने टॉम को एक कार दी।
-Someone has warned Tom.	Jemand hat Tom gewarnt.	किसी ने टॉम को चेतावनी दी।
-Someone is at the door.	Es ist jemand an der Tür.	यह दरवाजे पर कोई है।
-Someone is calling you.	Jemand ruft nach dir.	कोई आपके लिए कहता है।
-Someone is calling you.	Da ruft dich jemand.	कोई आपको फोन करता है।
 Someone made a mistake.	Jemand hat einen Fehler gemacht.	किसी ने गलती की।
 Someone might get hurt.	Jemand könnte vielleicht verletzt werden.	किसी को चोट लग सकती है।
 Someone stole my money.	Es hat einer mein Geld geklaut.	एक ने मेरा पैसा चुरा लिया।
