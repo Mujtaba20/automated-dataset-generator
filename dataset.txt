@@ -1,14 +1,4 @@
 
-Tom didn't tell anyone.	Tom hat es niemandem erzählt.	टॉम ने किसी को नहीं बताया।
-Tom didn't turn around.	Tom kehrte nicht um.	टॉम चारों ओर नहीं मुड़ता था।
-Tom didn't vote for me.	Tom stimmte nicht für mich.	टॉम मेरे लिए सही नहीं था।
-Tom didn't vote for me.	Tom hat nicht für mich gestimmt.	टॉम ने मुझे वोट नहीं दिया।
-Tom didn't want to eat.	Tom wollte nichts essen.	टॉम कुछ भी नहीं खाना चाहता था।
-Tom died in the battle.	Tom fiel im Kampf.	टॉम युद्ध में गिर गया।
-Tom died without heirs.	Tom starb ohne Erben.	टॉम की मृत्यु वारिस के बिना हुई।
-Tom does his work well.	Tom verrichtet gute Arbeit.	टॉम अच्छा काम करता है।
-Tom does what he wants.	Tom macht was er will.	टॉम वही करता है जो वह चाहता है।
-Tom doesn't believe it.	Tom glaubt das nicht.	टॉम ऐसा नहीं मानता।
 Tom doesn't drink beer.	Tom trinkt kein Bier.	टॉम बीयर नहीं पीता है।
 Tom doesn't drink much.	Tom trinkt nicht viel.	टॉम ज्यादा नहीं पीता है।
 Tom doesn't fear death.	Tom fürchtet sich nicht vor dem Tod.	टॉम मौत से नहीं डरता।
