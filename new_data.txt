@@ -30641,3 +30641,13 @@ engSentence7	Führen Sie aus, was Sie möchten.	जो कुछ भी आप �
 engSentence8	Mach, was du willst.	जो कुछ भी आप चाहते हैं, करें।
 engSentence9	Tun Sie, was immer Sie wollen.	जो कुछ भी आप चाहते हैं, करें।
 engSentence10	Machst du das oft?	क्या आप यह आमतौर पर करते हैं?
+Do you do this often?	Machst du das oft?	क्या आप यह अक्सर करते हैं?
+Do you drink alcohol?	Trinkst du Alkohol?	क्या आप शराब पीते हैं?
+Do you drink alcohol?_2	Nehmen Sie Alkohol zu sich?	क्या आप शराब पीते हैं?
+Do you dye your hair?	Färbst du deine Haare?	क्या आप अपने बालों को रंगते हैं?
+Do you eat out often?	Gehst du oft essen?	क्या आप अक्सर बाहर खाने जाते हैं?
+Do you feel prepared?	Fühlst du dich vorbereitet?	क्या आप तैयार महसूस करते हैं?
+Do you feel up to it?	Fühlst du dich danach?	क्या आप उससे ऊपर महसूस करते हैं?
+Do you feel up to it?_2	Fühlst du dich bereit dafür?	क्या आप इसके लिए तैयार महसूस करते हैं?
+Do you feel up to it?_3	Fühlst du dich stark genug dafür?	क्या आप इसके लिए पूरी तरह से तैयार महसूस करते हैं?
+Do you go to college?	Gehst du zur Universität?	क्या आप कॉलेज जाते हैं?

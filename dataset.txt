@@ -1,14 +1,4 @@
 
-Do you do this often?	Machst du das öfter?	क्या आप अक्सर ऐसा कर रहे हैं?
-Do you drink alcohol?	Trinkst du Alkohol?	आप शराब पीते हो?
-Do you drink alcohol?	Trinkt ihr Alkohol?	आप शराब पीते हो?
-Do you dye your hair?	Färbst du dir die Haare?	क्या आप अपने बालों को रंग देते हैं?
-Do you eat out often?	Ißt du oft auswärts?	क्या आप अक्सर बाहर खाते हैं?
-Do you feel prepared?	Fühlst du dich bereit?	क्या आप तैयार महसूस करते हैं
-Do you feel up to it?	Trauen Sie sich das zu?	क्या आप ऐसा करने की हिम्मत करते हैं?
-Do you feel up to it?	Traust du dir das zu?	क्या आप में हिम्मत है?
-Do you feel up to it?	Traut ihr euch das zu?	क्या आप में हिम्मत है?
-Do you go to college?	Besuchst du die Universität?	क्या आप विश्वविद्यालय का दौरा करते हैं?
 Do you have a camera?	Hast du einen Fotoapparat?	आपके पास कैमरा है?
 Do you have a family?	Hast du eine Familie?	क्या आपका परिवार है?
 Do you have a family?	Habt ihr eine Familie?	क्या आपका परिवार है?
