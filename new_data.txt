@@ -37848,3 +37848,13 @@ I think I'll call Tom.	Ich denke, ich werde Tom anrufen.	मुझे लगत�
 I think I'll watch TV.	Ich glaube, ich werde fernsehen.	मुझे लगता है कि मैं टीवी देखूँगा।
 I think Mary likes me.	Ich glaube, Mary mag mich.	मुझे लगता है कि मेरी को मुझसे प्यार है।
 I think Tom is a hero.	Ich denke, Tom ist ein Held.	मुझे लगता है कि टॉम एक नायक है।
+I think Tom is a liar.	Ich denke, Tom ist ein Lügner.	मुझे लगता है कि टॉम झूठा है।
+I think Tom is asleep.	Ich denke, Tom schläft.	मुझे लगता है कि टॉम सो रहा है।
+I think Tom is honest.	Ich denke, Tom ist ehrlich.	मुझे लगता है कि टॉम ईमानदार है।
+I think Tom is truthful.	Ich denke, Tom sagt die Wahrheit.	मुझे लगता है कि टॉम सच्चा है।
+I think Tom is lonely.	Ich denke, Tom ist einsam.	मुझे लगता है कि टॉम अकेला है।
+I think Tom is normal.	Ich denke, Tom ist normal.	मुझे लगता है कि टॉम सामान्य है।
+I think Tom is usual.	Ich denke, Tom ist wie immer.	मुझे लगता है कि टॉम सामान्य है।
+I think Tom is skinny.	Ich denke, Tom ist dünn.	मुझे लगता है कि टॉम पतला है।
+I think Tom is sneaky.	Ich denke, Tom ist hinterlistig.	मुझे लगता है कि टॉम धूर्त है।
+I think Tom is cunning.	Ich denke, Tom ist gerissen.	मुझे लगता है कि टॉम चालाक है।

@@ -1,14 +1,4 @@
 
-I think Tom is a liar.	Ich halte Tom für einen Lügner.	मुझे लगता है कि टॉम एक झूठा है।
-I think Tom is asleep.	Ich glaube, Tom schläft.	मुझे लगता है कि टॉम सोता है।
-I think Tom is honest.	Ich glaube, Tom ist ehrlich.	मुझे लगता है कि टॉम ईमानदार है।
-I think Tom is honest.	Ich denke, Tom ist aufrichtig.	मुझे लगता है कि टॉम ईमानदार है।
-I think Tom is lonely.	Ich glaube, Tom ist einsam.	मुझे लगता है कि टॉम अकेला है।
-I think Tom is normal.	Ich halte Tom für normal.	मुझे लगता है कि टॉम सामान्य है।
-I think Tom is normal.	Ich denke, Tom ist normal.	मुझे लगता है कि टॉम सामान्य है।
-I think Tom is skinny.	Ich denke, Tom ist mager.	मुझे लगता है कि टॉम दुबला है।
-I think Tom is sneaky.	Ich glaube, Tom ist raffiniert.	मुझे लगता है कि टॉम परिष्कृत है।
-I think Tom is sneaky.	Ich halte Tom für raffiniert.	मुझे लगता है कि टॉम परिष्कृत है।
 I think Tom is thirty.	Ich glaube, Tom ist dreißig.	मुझे लगता है कि टॉम तीस साल का है।
 I think Tom knew Mary.	Ich glaube, Tom kannte Maria.	मुझे लगता है कि टॉम मारिया को जानता था।
 I think Tom knows why.	Ich denke, dass Tom weiß warum.	मुझे लगता है कि टॉम जानता है कि क्यों।
