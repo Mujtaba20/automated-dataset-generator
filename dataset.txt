@@ -1,14 +1,4 @@
 
-Do you want to come in?	Möchtest du hereinkommen?	क्या आप अंदर आना चाहते हैं?
-Do you want to do that?	Willst du das machen?	क्या आप ऐसा करना चाहते हैं?
-Do you want to do this?	Willst du das tun?	क्या आप ऐसा करना चाहते हैं?
-Do you want to eat now?	Möchten Sie jetzt essen?	क्या आप अब खाना चाहेंगे?
-Do you want to eat now?	Möchtest du jetzt essen?	क्या आप अब खाना चाहते हैं?
-Do you want to give up?	Willst du aufgeben?	क्या आप छोड़ना चाहते हैं?
-Do you want to give up?	Wollt ihr aufgeben?	क्या आप छोड़ना चाहते हैं?
-Do you want to give up?	Wollen Sie aufgeben?	क्या आप छोड़ना चाहते हैं?
-Do you want to go home?	Möchtest du nach Hause gehen?	क्या आप घर जाना चाहते हो?
-Do you want to go, too?	Willst du auch gehen?	क्या आप भी जाना चाहते हैं?
 Do you want to hear it?	Willst du es hören?	क्या आप इसे सुनना चाहते हैं?
 Do you want to hear it?	Wollt ihr es hören?	क्या आप इसे सुनना चाहते हैं?
 Do you want to hear it?	Wollen Sie es hören?	क्या आप इसे सुनना चाहते हैं?
