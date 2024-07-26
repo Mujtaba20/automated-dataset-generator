@@ -21253,3 +21253,11 @@ I hate dirty jokes.	Ich hasse schmutzige Witze.	मुझे गंदे मज
 I hate my computer.	Ich verabscheue meinen Computer.	मुझे अपना कंप्यूटर घृणित है।
 I hate my eyebrows.	Ich hasse meine Augenbrauen.	मुझे अपनी भौंकों से नापसंद है।
 I hate my neighbor.	Ich hasse meinen Nachbarn.	मुझे मेरे पड़ोसी से नापसंद है।
+I hate my roommate.	Ich hasse meinen Mitbewohner.	मुझे मेरे रूममेट से नफरत है।
+I hate not winning.	Ich hasse es nicht zu gewinnen.	मुझे हारना से नफरत है।
+I hate this school.	Ich hasse diese Schule.	मुझे यeh स्कूल से नफरत है।
+I hate translating.	Ich hasse übersetzen.	मुझे अनुवाद करना नफरत है।
+I hate watching TV.	Ich hasse es fernzusehen.	मुझे टीवी देखने से नफरत है।
+I have a beard now.	Ich habe jetzt einen Bart.	अब मेरे पास दाढ़ी है।
+I have a big house.	Ich habe ein großes Haus.	मेरे पास एक बड़ा घर है।
+I have a black dog.	Ich habe einen schwarzen Hund.	मेरे पास एक काला कुत्ता है।
