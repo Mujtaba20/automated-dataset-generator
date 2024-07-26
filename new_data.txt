@@ -26003,3 +26003,13 @@ I always take notes.	Ich mache immer Notizen.	मैं हमेशा नो�
 I am a fast swimmer.	Ich bin ein schneller Schwimmer.	मैं एक तेज तरीके से तैरता हूँ।
 I am a teacher, too.	Ich bin auch Lehrer.	मैं भी एक शिक्षक हूँ।
 I am afraid of dogs.	Ich fürchte mich vor Hunden.	मैं कुत्तों से डरता हूँ।
+I am an electrician.	Ich bin Elektriker.	मैं एक इलेक्ट्रीशियन हूँ।
+I am bored to death.	Ich langweile mich zu Tode.	मुझे मौत की नींद आ रही है।
+I am deeply ashamed.	Ich schäme mich tief.	मैं गहरी शर्मिंदगी महसूस कर रहा हूँ।
+I am digging a well.	Ich grabe einen Brunnen.	मैं कुआं खोद रहा हूँ।
+I am digging a well. (Different meaning)	Ich bin dabei, einen Brunnen zu graben.	मैं एक कुएँ खोद रहा हूँ।
+I am drawing a bird.	Ich zeichne einen Vogel.	मैं एक पक्षी बना रहा हूँ।
+I am eating noodles.	Ich esse Nudeln.	मैं नूडल्स खा रहा हूँ।
+I am engaged to her.	Ich bin mit ihr verlobt.	मैं उससे एंगेज हूँ।
+I am fed up with it.	Ich habe die Nase voll davon.	मुझे इससे बहुत हो गया है।
+I am fed up with it. (Different meaning)	Ich habe davon die Nase voll.	मैं इससे बोर हो गया हूँ।

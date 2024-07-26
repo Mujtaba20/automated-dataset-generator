@@ -1,14 +1,4 @@
 
-I am an electrician.	Ich bin Elektriker.	मैं एक इलेक्ट्रीशियन हूं।
-I am bored to death.	Ich sterbe vor Langerweile.	मैं बोरियत से मर जाता हूं।
-I am deeply ashamed.	Ich schäme mich sehr.	मैं बहुत शर्मिंदा हूं।
-I am digging a well.	Ich hebe einen Brunnen aus.	मैं एक फव्वारा उठाता हूं।
-I am digging a well.	Ich bohre einen Brunnen.	मैं एक फव्वारा ड्रिल करता हूं।
-I am drawing a bird.	Ich zeichne einen Vogel.	मैं एक पक्षी खींचता हूं।
-I am eating noodles.	Ich esse gerade Nudeln.	मैं पास्ता खा रहा हूं।
-I am engaged to her.	Ich bin mit ihr verlobt.	मैं उससे जुड़ा हुआ हूं।
-I am fed up with it.	Ich habe genug davon.	मेरे पास यह पर्याप्त है।
-I am fed up with it.	Ich hab's satt.	मेरा पेट भर चुका है।
 I am getting strong.	Ich erstarke!	मैं मजबूत!
 I am going to do it.	Ich werde es tun.	मैं यह करूंगा।
 I am going to study.	Ich habe vor zu studieren.	मैं अध्ययन करने की योजना बना रहा हूं।
