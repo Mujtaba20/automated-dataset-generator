@@ -24253,3 +24253,11 @@ We did it together.	Wir haben es zusammen gemacht.	हमने यह साथ
 We didn't complain.	Wir haben uns nicht beschwert.	हमने शिकायत नहीं की।
 We didn't find Tom.	Wir haben Tom nicht gefunden.	हमने टॉम को नहीं ढूंढा।
 We didn't kill Tom.	Wir haben Tom nicht umgebracht.	हमने टॉम को नहीं मारा।
+We do not know her.	Wir kennen sie nicht.	हम उसे नहीं जानते।
+We do not know him.	Wir kennen ihn nicht.	हम उसे नहीं जानते।
+We do what we want.	Wir tun, was wir wollen.	हम वह करते हैं जो हम चाहते हैं।
+We don't have kids.	Wir haben keine Kinder.	हमारे पास बच्चे नहीं हैं।
+We don't have long.	Wir haben nicht lange.	हमारे पास लंबी नहीं है।
+We don't have that.	Das haben wir nicht.	हमारे पास वह नहीं है।
+We don't know that.	Das wissen wir nicht.	हम वह नहीं जानते।
+We don't live here.	Wir leben hier nicht.	हम यहाँ नहीं रहते।

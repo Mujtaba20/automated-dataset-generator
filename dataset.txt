@@ -1,14 +1,4 @@
 
-We do not know her.	Wir kennen sie nicht.	हम उन्हें नहीं जानते।
-We do not know him.	Wir kennen ihn nicht.	हम उसे नहीं जानते।
-We do what we want.	Wir machen, was wir wollen.	हम वही करते हैं जो हम चाहते हैं।
-We don't have kids.	Wir haben keine Kinder.	हमारे कोई बच्चे नहीं हैं।
-We don't have long.	Wir haben nicht viel Zeit.	हमारे पास ज़्यादा समय नहीं है।
-We don't have long.	Wir brauchen nicht viel Zeit.	हमें ज्यादा समय की जरूरत नहीं है।
-We don't have that.	Das haben wir nicht.	हमारे पास ऐसा नहीं है।
-We don't know that.	Wir wissen das nicht.	हम नहीं जानते।
-We don't live here.	Wir leben nicht hier.	हम यहाँ नहीं रहते।
-We don't live here.	Wir wohnen nicht hier.	हम यहाँ नहीं रहते।
 We don't need them.	Wir brauchen sie nicht.	हमें उनकी जरूरत नहीं है।
 We don't talk much.	Wir reden nicht viel.	हम ज्यादा बात नहीं करते।
 We don't trust Tom.	Wir vertrauen Tom nicht.	हम टॉम पर भरोसा नहीं करते।
