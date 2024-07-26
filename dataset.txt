@@ -1,17 +1,4 @@
 
-Compasses point north.	Kompasse zeigen nach Norden.	कम्पास उत्तर दिखाते हैं।
-Cotton sucks up water.	Baumwolle nimmt Wasser auf.	कपास पानी को अवशोषित करता है।
-Could I get a receipt?	Kann ich eine Quittung bekommen?	क्या मुझे रसीद मिल सकती है?
-Could I get a receipt?	Könnte ich eine Quittung bekommen?	क्या मुझे रसीद मिल सकती है?
-Could I use your desk?	Könnte ich deinen Schreibtisch benutzen?	क्या मैं आपके डेस्क का उपयोग कर सकता हूं?
-Could I use your desk?	Könnte ich euren Schreibtisch benutzen?	क्या मैं आपके डेस्क का उपयोग कर सकता हूं?
-Could I use your desk?	Könnte ich Ihren Schreibtisch benutzen?	क्या मैं आपके डेस्क का उपयोग कर सकता हूं?
-Could he be Tom's son?	Könnte das Toms Sohn sein?	क्या टॉम का बेटा हो सकता है?
-Could we have a spoon?	Könnten wir einen Löffel haben?	क्या हमारे पास एक चम्मच हो सकता है?
-Could you repeat that?	Könntest du das wiederholen?	क्या आप उसे दोहरा सकते हैं?
-Could you repeat that?	Könntet ihr das wiederholen?	क्या आप उसे दोहरा सकते हैं?
-Could you repeat that?	Könnten Sie das wiederholen?	क्या आप उसे दोहरा सकते हैं?
-Could you repeat that?	Könnt ihr das wiederholen?	क्या आप उसे दोहरा सकते हैं?
 Could you use my help?	Könnten Sie meine Hilfe gebrauchen?	क्या आप मेरी मदद का उपयोग कर सकते हैं?
 Could you use my help?	Könntest du meine Hilfe gebrauchen?	क्या आप मेरी मदद का उपयोग कर सकते हैं?
 Could you use my help?	Könntet ihr meine Hilfe gebrauchen?	क्या आप मेरी मदद का उपयोग कर सकते हैं?

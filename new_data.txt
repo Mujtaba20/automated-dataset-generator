@@ -36236,3 +36236,13 @@ Come on, let's try it.	Komm schon, lass es uns ausprobieren.	चलो, इस�
 Come on, sing with me.	Komm schon, sing mit mir.	आओ, मेरे साथ गाओ।
 Come to watch us play.	Komm, um uns spielen zu sehen.	हमें खेलते हुए देखने आओ।
 Come tomorrow morning.	Komm morgen früh.	कल सुबह आना।
+Compasses point north.	Kompass ist nach Norden ausgerichtet.	कंपास उत्तर की ओर दिखाती है।
+Cotton sucks up water.	Baumwolle saugt Wasser auf.	कॉटन पानी को ऊपर लेता है।
+Could I get a receipt?	Kann ich eine Quittung bekommen?	क्या मुझे एक रसीद मिल सकती है?
+Could I get a receipt? - 2	Könnte ich einen Beleg erhalten?	क्या मुझे एक रसीद मिल सकती है?
+Could I use your desk?	Könnte ich deinen Schreibtisch benutzen?	क्या मैं आपका डेस्क उपयोग कर सकता हूँ?
+Could I use your desk? - 2	Darf ich deinen Schreibtisch benutzen?	क्या मैं अपना डेस्क उपयोग कर सकता हूँ?
+Could I use your desk? - 3	Kann ich deinen Schreibtisch verwenden?	क्या मैं अपना डेस्क का उपयोग कर सकता हूँ?
+Could he be Tom's son?	Könnte er Toms Sohn sein?	क्या वह टॉम का बेटा हो सकता है?
+Could we have a spoon?	Könnten wir einen Löffel haben?	क्या हमें एक चमच मिल सकता है?
+Could you repeat that?	Könnten Sie das wiederholen?	क्या आप उसे दोहरा सकते हैं?
