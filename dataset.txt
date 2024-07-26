@@ -1,15 +1,4 @@
 
-My mailbox is full.	Meine Mailbox ist voll.	मेरा मेलबॉक्स भरा हुआ है।
-My mailbox is full.	Mein Briefkasten ist voll.	मेरा मेलबॉक्स भरा हुआ है।
-My mind is a blank.	Ich habe ein Brett vor dem Kopf.	मेरे सिर के सामने एक बोर्ड है।
-My mind is a blank.	Ich kann nicht klar denken.	मैं स्पष्ट रूप से नहीं सोच सकता।
-My mind was racing.	Mein Herz raste.	मेरा दिल दौड़ गया।
-My mother is angry.	Meine Mutter ist wütend.	मेरी माँ गुस्से में है।
-My mother is angry.	Meine Mutter ist verärgert.	मेरी माँ परेशान है।
-My mother loves me.	Meine Mutter liebt mich.	मेरी माँ मुझे प्यार करती है।
-My name's Tom, too.	Mein Name ist auch Tom.	मेरा नाम भी टॉम है।
-My nose is running.	Meine Nase läuft.	मेरी नाक बह रही है।
-My nose is running.	Mir läuft die Nase.	मेरी नाक बह रही है।
 My parents are old.	Meine Eltern sind alt.	मेरे माता -पिता बूढ़े हैं।
 My parents love me.	Meine Eltern lieben mich.	मेरे माता -पिता मुझसे प्यार करते हैं।
 My question is why.	Meine Frage ist: „Warum?“	"मेरा सवाल है: ""क्यों?"""

@@ -22532,3 +22532,10 @@ My knife is broken.	Mein Messer ist kaputt.	मेरी चाकू टूट 
 My legs feel heavy.	Meine Beine fühlen sich schwer an.	मेरे पैर भारी महसूस हो रहे हैं।
 My legs still hurt.	Meine Beine tun nach wie vor weh.	मेरे पैर अब तक दर्द कर रहे हैं।
 My lips are sealed.	Meine Lippen sind versiegelt.	मेरे होंठ संधित हैं।
+My mailbox is full.	Mein Postfach ist überfüllt.	मेरा मेलबॉक्स भरा हुआ है।
+My mind is a blank.	Mein Verstand ist wie ausgeschaltet.	मेरा मस्तिष्क खाली है।
+My mind was racing.	Mein Verstand arbeitete auf Hochtouren.	मेरा मस्तिष्क दौड़ रहा था।
+My mother is angry.	Meine Mutter ist böse.	मेरी माँ नाराज हैं।
+My mother loves me.	Meine Mutter liebt mich.	मेरी माँ मुझसे प्यार करती हैं।
+My name's Tom, too.	Mein Name ist auch Tom.	मेरा नाम भी टॉम है।
+My nose is running.	Meine Nase läuft.	मेरी नाक बह रही है।
