@@ -22061,3 +22061,11 @@ I'm taking a break.	Ich mache eine Pause.	मैं रुकावट ले �
 I'm taking off now.	Ich starte jetzt.	मैं अब उड़ान भर रहा हूं।
 I'm taking off now. (Different meaning)	Ich ziehe mich jetzt aus.	मैं अब उतार रहा हूँ।
 I'm terminally ill.	Ich bin unheilbar krank.	मैं अंतिम रूप से अस्वस्थ हूं।
+I'm terribly sorry.	Es tut mir sehr leid.	मुझे बहुत खेद है।
+I'm the guilty one.	Ich bin der Schuldige.	मैं गुनहगार हूँ।
+I'm too busy to go.	Ich bin zu beschäftigt, um zu gehen.	मैं जाने के लिए बहुत व्यस्त हूँ।
+I'm trying to work.	Ich versuche zu arbeiten.	मैं काम करने की कोशिश कर रहा हूँ।
+I'm twice your age.	Ich bin doppelt so alt wie du.	मैं तुम्हारी उम्र का दोगुना हूँ।
+I'm very ambitious.	Ich bin sehr ehrgeizig.	मैं बहुत महत्वाकांक्षी हूँ।
+I'm very concerned.	Ich bin sehr besorgt.	मैं बहुत चिंतित हूँ।
+I'm very contented.	Ich bin sehr zufrieden.	मैं बहुत संतुष्ट हूँ।
