@@ -34638,3 +34638,13 @@ Tom lied to his wife.	Tom hat seiner Frau gelogen.	टॉम ने अपनी
 Tom likes basketball.	Tom mag Basketball.	टॉम को बास्केटबॉल पसंद है।
 Tom likes cantaloupe.	Tom mag Cantaloupe.	टॉम को खरबूजे पसंद हैं।
 Tom likes folk music.	Tom mag Volksmusik.	टॉम को लोक संगीत पसंद है।
+Tom likes his school.	Tom mag seine Schule.	टॉम को उसकी स्कूल पसंद है।
+Tom likes to be here.	Tom mag es, hier zu sein.	टॉम को यहाँ होना अच्छा लगता है।
+Tom likes to do that.	Tom mag es, das zu tun.	टॉम को वह करना पसंद है।
+Tom likes to eat out.	Tom geht gerne essen.	टॉम को बाहर खाने का शौक है।
+Tom likes word games.	Tom mag Wortspiele.	टॉम को शब्द खेल पसंद है।
+Tom lives here alone.	Tom lebt hier alleine.	टॉम यहाँ अकेले रहता है।
+Tom lives in his car.	Tom lebt in seinem Auto.	टॉम अपनी कार में रहता है।
+Tom lives next to me.	Tom lebt neben mir.	टॉम मेरे पास रहता है।
+Tom lives off campus.	Tom lebt außerhalb des Campus.	टॉम कैंपस के बाहर रहता है।
+Tom loaded the truck.	Tom hat den Lastwagen beladen.	टॉम ने ट्रक लोड किया।

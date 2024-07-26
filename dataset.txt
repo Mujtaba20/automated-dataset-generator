@@ -1,14 +1,4 @@
 
-Tom likes his school.	Tom mag seine Schule.	टॉम को अपना स्कूल पसंद है।
-Tom likes to be here.	Tom ist gerne hier.	टॉम को यहां रहना पसंद है।
-Tom likes to do that.	Tom macht das gerne.	टॉम ऐसा करना पसंद करता है।
-Tom likes to eat out.	Tom geht gerne essen.	टॉम को खाना पसंद है।
-Tom likes word games.	Tom mag Wortspiele.	टॉम को वर्ड गेम पसंद है।
-Tom lives here alone.	Tom wohnt hier allein.	टॉम अकेला रहता है।
-Tom lives in his car.	Tom haust in seinem Auto.	टॉम अपनी कार में रहता है।
-Tom lives next to me.	Tom wohnt bei mir um die Ecke.	टॉम कोने के आसपास रहता है।
-Tom lives off campus.	Tom lebt außerhalb der Universität.	टॉम विश्वविद्यालय के बाहर रहता है।
-Tom loaded the truck.	Tom belud den Lastwagen.	टॉम बेलुद ट्रक।
 Tom locked his doors.	Tom verschloss seine Türen.	टॉम ने अपने दरवाजे बंद कर दिए।
 Tom looked concerned.	Tom schaute besorgt.	टॉम चिंतित लग रहा था।
 Tom looked concerned.	Tom schaute besorgt aus.	टॉम चिंतित लग रहा था।
