@@ -21151,3 +21151,12 @@ I didn't feel cold.	Mir war nicht kalt.	मुझे ठंड नहीं ल�
 I didn't get fired.	Ich wurde nicht gefeuert.	मुझे नौकरी से निकाल दिया गया।
 I didn't like that.	Das hat mir nicht gefallen.	मुझे वह पसंद नहीं आया।
 I didn't notice it.	Ich habe es nicht bemerkt.	मुझे इसे ध्यान नहीं आया।
+I didn't tell them.	Ich habe ihnen nicht gesagt.	मैंने उन्हें नहीं बताया।
+I didn't want milk.	Ich wollte keine Milch.	मुझे दूध नहीं चाहिए था।
+I didn't want pity.	Ich wollte kein Mitleid.	मुझे दया नहीं चाहिए था।
+I didn't want that.	Ich wollte das nicht.	मुझे वह नहीं चाहिए था।
+I dislike them all.	Ich mag sie alle nicht.	मुझे सभी से नफरत है।
+I do have a theory.	Ich habe eine Theorie.	मेरे पास एक सिद्धांत है।
+I do what I'm told.	Ich tue, was mir gesagt wird.	मैं वह करता हूं जो मुझे कहा जाता है।
+I don't always win.	Ich gewinne nicht immer.	मैं हमेशा जीतता नहीं।
+I don't believe it.	Ich glaube es nicht.	मैं इस पर विश्वास नहीं करता।
