@@ -27115,3 +27115,13 @@ I'm practising judo.	Ich übe Judo.	मैं जूडो का प्रय�
 I'm praying for Tom.	Ich bete für Tom.	मैं टॉम के लिए प्रार्थना कर रहा हूँ।
 I'm prepared to die.	Ich bin bereit zu sterben.	मैं मरने के लिए तैयार हूँ।
 I'm proud of my son.	Ich bin stolz auf meinen Sohn.	मैं अपने बेटे पर गर्वित हूँ।
+I'm proud of myself.	Ich bin stolz auf mich.	मैं अपने आप पर गर्वित हूँ।
+I'm quite happy now.	Ich bin jetzt ziemlich glücklich.	मैं अब काफी खुश हूँ।
+I'm quite satisfied.	Ich bin ziemlich zufrieden.	मैं काफी संतुष्ट हूँ।
+I'm really confused.	Ich bin wirklich verwirrt.	मैं सचमुच उलझा हुआ हूँ।
+I'm really grateful.	Ich bin wirklich dankbar.	मैं सचमुच आभारी हूँ।
+I'm really not busy.	Ich bin wirklich nicht beschäftigt.	मैं सचमुच व्यस्त नहीं हूँ।
+I'm resting my legs.	Ich ruhe meine Beine aus.	मैं अपनी टांगें आराम कर रहा हूँ।
+I'm right, aren't I?	Ich habe recht, oder?	मेरी बात सही है, ना?
+I'm rooting for you.	Ich drücke dir die Daumen.	मैं तुम्हारे लिए प्रार्थना कर रहा हूँ।
+I'm sad without you.	Ohne dich bin ich traurig.	तुम्हारे बिना मुझे उदासी महसूस हो रही है।
