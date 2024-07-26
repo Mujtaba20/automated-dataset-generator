@@ -35471,3 +35471,9 @@ What's your username?	Was ist dein Benutzername?	तुम्हारी उप
 When are they coming?	Wann kommen sie?	वे कब आ रहे हैं?
 When can I visit you?	Wann kann ich dich besuchen?	मैं तुम्हें कब मिल सकता हूं?
 When did he fall ill?	Wann ist er krank geworden?	उसने कब बीमार पड़ा था?
+When did he get back?	Wann ist er zurückgekommen?	उसने कब वापस आ गया था?
+When did that happen?	Wann ist das passiert?	वह कब हुआ?
+When did you ask Tom?	Wann hast du Tom gefragt?	तुमने टॉम से कब पूछा?
+When does life begin?	Wann beginnt das Leben?	जीवन कब शुरू होता है?
+When is good for you?	Wann passt es dir?	तुम्हारे लिए कब ठीक है?
+When was it finished?	Wann war es fertig?	यह कब समाप्त हुआ था?

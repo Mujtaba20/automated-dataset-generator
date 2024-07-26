@@ -1,16 +1,4 @@
 
-When did he get back?	Wann ist er zurückgekommen?	वह कब वापस आया?
-When did that happen?	Wann ist das geschehen?	वह कब हुआ?
-When did that happen?	Wann ist das passiert?	वह कब हुआ?
-When did that happen?	Wann ist das vorgefallen?	ऐसा कब हुआ?
-When did you ask Tom?	Wann hast du Tom gefragt?	आपने टॉम कब से पूछा?
-When did you ask Tom?	Wann habt ihr Tom gefragt?	आपने टॉम कब से पूछा?
-When did you ask Tom?	Wann haben Sie Tom gefragt?	आपने टॉम कब से पूछा?
-When does life begin?	Wann beginnt das Leben?	जीवन कब शुरू होता है?
-When is good for you?	Wann passt es dir?	यह आपको कब फिट करता है?
-When was it finished?	Wann wurde es fertiggestellt?	यह कब पूरा हुआ?
-When was it finished?	Wann wurde er fertiggestellt?	यह कब पूरा हुआ?
-When was it finished?	Wann wurde sie fertiggestellt?	यह कब पूरा हुआ?
 When will that occur?	Wann wird das passieren?	ऐसा कब होगा?
 When will we go back?	Wann gehen wir zurück?	हम कब वापस जाएंगे?
 When will we go home?	Wann gehen wir nach Hause?	हम घर कब जाते हैं?
