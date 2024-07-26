@@ -24193,3 +24193,11 @@ Tom's room is tidy.	Toms Zimmer ist ordentlich.	टॉम का कमरा �
 Tom's room is tiny.	Toms Zimmer ist winzig.	टॉम का कमरा बहुत छोटा है।
 Tom, are you awake?	Tom, bist du wach?	टॉम, क्या तुम जागरूक हो?
 Tom, are you there?	Tom, bist du da?	टॉम, क्या तुम वहाँ हो?
+Tom, be reasonable.	Tom, sei vernünftig.	टॉम, सार्थक बनो।
+Tom, say something.	Tom, sag etwas.	टॉम, कुछ बोलो।
+Tom, we've arrived!	Tom, wir sind angekommen!	टॉम, हम पहुंच गए हैं!
+Tom, where are you?	Tom, wo bist du?	टॉम, तुम कहाँ हो?
+Tomorrow is payday.	Morgen ist Zahltag.	कल वेतन दिन है।
+Try to act natural.	Versuch, natürlich zu wirken.	प्राकृतिक ढंग से काम करने की कोशिश करें।
+Try to concentrate.	Versuche dich zu konzentrieren.	ध्यान केंद्रित करने की कोशिश करो।
+Try to remain calm.	Versuch ruhig zu bleiben.	शांत रहने की कोशिश करो।

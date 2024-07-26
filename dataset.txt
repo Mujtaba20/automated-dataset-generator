@@ -1,14 +1,4 @@
 
-Tom, be reasonable.	Sei vernünftig, Tom.	उचित हो, टॉम।
-Tom, say something.	Tom, sag etwas.	टॉम, कुछ कहो।
-Tom, we've arrived!	Tom, wir sind da!	टॉम, हम वहाँ हैं!
-Tom, where are you?	Tom, wo bist du?	टॉम, तुम कहाँ हो?
-Tomorrow is payday.	Morgen ist Zahltag.	कल payday है।
-Try to act natural.	Versuch, dich natürlich zu benehmen!	बेशक व्यवहार करने की कोशिश करो!
-Try to concentrate.	Versuche, dich zu konzentrieren!	ध्यान केंद्रित करने की कोशिश करो!
-Try to concentrate.	Versucht, euch zu konzentrieren!	ध्यान केंद्रित करने की कोशिश करो!
-Try to concentrate.	Versuchen Sie, sich zu konzentrieren!	ध्यान केंद्रित करने की कोशिश करो!
-Try to remain calm.	Versuche, ruhig zu bleiben.	शांत रहने की कोशिश करो।
 Turn off the alarm.	Schalte den Alarm aus.	अलार्म बंद करें।
 Turn off the alarm.	Schaltet den Alarm aus.	अलार्म बंद करें।
 Turn off the alarm.	Schalten Sie den Alarm aus.	अलार्म बंद करें।
