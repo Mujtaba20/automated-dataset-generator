@@ -35211,3 +35211,13 @@ We miss Tom terribly.	Wir vermissen Tom schrecklich.	हम टॉम की ब
 We must abandon ship.	Wir müssen das Schiff verlassen.	हमें जहाज छोड़ना चाहिए।
 We must do something.	Wir müssen etwas tun.	हमें कुछ करना होगा।
 We must go to school.	Wir müssen zur Schule gehen.	हमें स्कूल जाना होगा।
+We must move quickly.	Wir müssen schnell handeln.	हमें जल्दी चलना चाहिए।
+We need a plan first.	Wir brauchen zuerst einen Plan.	हमें पहले एक योजना की आवश्यकता है।
+We need a timekeeper.	Wir brauchen einen Zeitnehmer.	हमें एक समय निरीक्षक की आवश्यकता है।
+We need an ambulance.	Wir brauchen einen Krankenwagen.	हमें एक एम्बुलेंस की आवश्यकता है।
+We need help quickly.	Wir brauchen schnell Hilfe.	हमें तुरंत मदद की आवश्यकता है।
+We need more workers.	Wir brauchen mehr Arbeiter.	हमें और कामगारों की आवश्यकता है।
+We need some privacy.	Wir brauchen etwas Privatsphäre.	हमें कुछ निजता की आवश्यकता है।
+We need to leave now.	Wir müssen jetzt gehen.	हमें अब जाना चाहिए।
+We need to stop them.	Wir müssen sie aufhalten.	हमें उन्हें रोकने की आवश्यकता है।
+We needed Tom's help.	Wir brauchten Toms Hilfe.	हमें टॉम की मदद की जरूरत थी।
