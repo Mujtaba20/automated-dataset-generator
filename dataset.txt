@@ -1,14 +1,4 @@
 
-I'm really curious.	Ich bin ziemlich neugierig.	मैं बहुत उत्सुक हूं।
-I'm really serious.	Es ist wirklich mein Ernst.	यह वास्तव में मेरा गंभीर है।
-I'm really shocked.	Ich bin echt schockiert.	मैं वास्तव में हैरान हूं।
-I'm really unhappy.	Ich bin ziemlich unglücklich.	मैं बहुत दुखी हूं।
-I'm really worried.	Ich mache mir wirklich Sorgen.	मैं वास्तव में चिंतित हूं।
-I'm sad and lonely.	Ich bin traurig und einsam.	मैं दुखी और अकेला हूँ।
-I'm saying nothing.	Ich sage nichts.	मैंने कुछ नहीं कहा।
-I'm scared of dogs.	Ich habe Angst vor Hunden.	मुझे कुत्तों से डर लगता है।
-I'm seeing someone.	Ich bin mit jemandem zusammen.	मैं किसी के साथ हूं।
-I'm selling my car.	Ich verkaufe mein Auto.	मैं अपनी कार बेच रहा हूं।
 I'm short of money.	Ich leide unter Geldmangel.	मैं पैसे की कमी से पीड़ित हूं।
 I'm short of money.	Ich bin knapp bei Kasse.	मैं सिर्फ नकदी पर हूं।
 I'm sick of French.	Ich hab' die Nase voll von Französisch.	मेरी नाक फ्रेंच से भरी है।

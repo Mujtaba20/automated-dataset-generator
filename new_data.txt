@@ -22034,3 +22034,13 @@ I'm reading it now.	Ich lese es gerade.	मैं अभी यह पढ़ र
 I'm ready to begin.	Ich bin bereit zu beginnen.	मैं शुरू करने के लिए तैयार हूँ।
 I'm ready to start.	Ich bin bereit anzufangen.	मैं शुरू करने के लिए तैयार हूँ।
 I'm really careful.	Ich bin wirklich vorsichtig.	मैं सच्चे रूप से सावधान हूं।
+I'm really curious.	Ich bin wirklich neugierig.	मैं सच में अजीब हूँ।
+I'm really serious.	Ich meine es wirklich ernst.	मैं वास्तव में गंभीर हूँ।
+I'm really shocked.	Ich bin wirklich schockiert.	मैं वास्तव में हैरान हूँ।
+I'm really unhappy.	Ich bin wirklich unglücklich.	मैं वास्तव में अखंडित हूँ।
+I'm really worried.	Ich mache mir wirklich Sorgen.	मैं वास्तव में चिंतित हूँ।
+I'm sad and lonely.	Ich bin traurig und einsam.	मैं उदास और अकेला हूँ।
+I'm saying nothing.	Ich sage nichts.	मैं कुछ नहीं कह रहा।
+I'm scared of dogs.	Ich habe Angst vor Hunden.	मेरे कुत्तों से डर लगता है।
+I'm seeing someone.	Ich treffe mich mit jemandem.	मैं किसी से मिल रहा हूँ।
+I'm selling my car.	Ich verkaufe mein Auto.	मैं अपनी कार बेच रहा हूँ।
