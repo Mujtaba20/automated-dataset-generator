@@ -27052,3 +27052,9 @@ I'm just about done.	Ich bin gleich fertig.	मैं अब करने वा
 I'm learning French.	Ich lerne Französisch.	मैं फ्रेंच सीख रहा हूँ।
 I'm living here now.	Ich lebe jetzt hier.	मैं अब यहाँ रह रहा हूँ।
 I'm living my dream.	Ich lebe meinen Traum.	मैं अपना सपना जी रहा हूँ।
+I'm looking for Tom.	Ich suche nach Tom.	मैं टॉम की तलाश में हूँ।
+I'm looking for you.	Ich suche dich.	मैं तुम्हें खोज रहा हूँ।
+I'm making progress.	Ich mache Fortschritte.	मैं प्रगति कर रहा हूँ।
+I'm more than happy.	Ich bin mehr als glücklich.	मैं खुश से ज्यादा हूँ।
+I'm no good for you.	Ich bin nicht gut für dich.	मैं तुम्हारे लिए अच्छा नहीं हूँ।
+I'm no longer tired.	Ich bin nicht mehr müde.	मैं अब थका नहीं हूँ।

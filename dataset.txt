@@ -1,14 +1,4 @@
 
-I'm looking for Tom.	Ich suche Tom.	मैं टॉम की तलाश में हूं।
-I'm looking for you.	Ich suche dich.	में तुम्हे ढूंढ रहा था।
-I'm looking for you.	Ich suche euch.	में तुम्हे ढूंढ रहा था।
-I'm looking for you.	Ich suche Sie.	मैं उसकी तलाश कर रहा हूं।
-I'm making progress.	Ich mache Fortschritte.	मैं प्रगति करता हूं।
-I'm more than happy.	Ich bin mehr als glücklich.	मैं खुश से ज्यादा हूं।
-I'm no good for you.	Ich bin nicht gut für dich.	मैं आपके लिए अच्छा नहीं हूं।
-I'm no good for you.	Für dich bin ich zu nichts gut.	मैं आपके लिए अच्छा नहीं हूं।
-I'm no longer tired.	Ich bin nicht länger müde.	मैं अब थक नहीं गया हूं।
-I'm no longer tired.	Ich bin nicht mehr müde.	मैं अब थक नहीं रहा हूं।
 I'm not Tom's slave.	Ich bin nicht Toms Sklave.	मैं टॉम का गुलाम नहीं हूं।
 I'm not a bit tired.	Ich bin kein bisschen müde.	मैं थोड़ा थक नहीं गया हूं।
 I'm not a celebrity.	Ich bin keine Berühmtheit.	मैं एक सेलिब्रिटी नहीं हूं।
