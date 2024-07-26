@@ -1,14 +1,4 @@
 
-You're incompetent.	Sie sind inkompetent.	वे अक्षम हैं।
-You're incompetent.	Du bist inkompetent.	आप अक्षम हैं।
-You're incompetent.	Ihr seid inkompetent.	आप अक्षम हैं।
-You're interesting.	Du bist interessant.	तुम दिल्चसप हो।
-You're interesting.	Ihr seid interessant.	तुम दिल्चसप हो।
-You're interesting.	Sie sind interessant.	तुम दिल्चसप हो।
-You're introverted.	Du bist introvertiert.	आप अंतर्मुखी हैं।
-You're introverted.	Sie sind introvertiert.	वे अंतर्मुखी हैं।
-You're introverted.	Ihr seid introvertiert.	आप अंतर्मुखी हैं।
-You're just a girl.	Du bist ja nur ein Mädchen.	तुम सिर्फ एक लड़की हो।
 You're like family.	Du bist wie Familie.	आप परिवार की तरह हैं।
 You're lying again.	Du lügst schon wieder.	आप फिर से झूठ बोल रहे हैं।
 You're lying to me.	Du lügst mich an.	आप मुझसे झूठ बोल रहे हैं।

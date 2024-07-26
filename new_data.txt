@@ -24970,3 +24970,7 @@ You're extroverted.	Du bist extrovertiert.	तुम बहुत उज्ज�
 You're fascinating.	Du bist faszinierend.	तुम लालचाना हो।
 You're fashionable.	Du bist modisch.	तुम फैशनेबल हो।
 You're hardworking.	Du bist fleißig.	तुम मेहनती हो।
+You're incompetent.	Du bist unqualifiziert.	तुम अक्षम हो।
+You're interesting.	Du bist spannend.	तुम दिलचस्प हो।
+You're introverted.	Du bist zurückhaltend.	तुम भावुक हो।
+You're just a girl.	Du bist nur ein Mädchen.	तुम सिर्फ एक लड़की हो।
