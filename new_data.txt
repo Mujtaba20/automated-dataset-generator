@@ -23996,3 +23996,11 @@ Tom sounds worried.	Tom klingt besorgt.	टॉम परेशान सुन�
 Tom speaks quickly.	Tom spricht schnell.	टॉम तेजी से बोलता है।
 Tom staggered home.	Tom taumelte nach Hause.	टॉम घर की ओर लुढ़कते हुए चला गया।
 Tom started crying.	Tom fing an zu weinen.	टॉम रोने लगा।
+Tom started to cry.	Tom fing an zu weinen.	टॉम ने रोना शुरू किया।
+Tom stayed at home.	Tom blieb zu Hause.	टॉम घर पर रहा।
+Tom stayed outside.	Tom blieb draußen.	टॉम बाहर रहा।
+Tom stayed up late.	Tom blieb lange auf.	टॉम देर तक उठा रहा।
+Tom stole my heart.	Tom hat mir das Herz gestohlen.	टॉम ने मेरे दिल को छीन लिया।
+Tom stole my money.	Tom hat mein Geld gestohlen.	टॉम ने मेरे पैसे चुराए।
+Tom stole my watch.	Tom hat meine Uhr gestohlen.	टॉम ने मेरी घड़ी चुराई।
+Tom stole the ring.	Tom hat den Ring gestohlen.	टॉम ने अंगूठी चुराई।
