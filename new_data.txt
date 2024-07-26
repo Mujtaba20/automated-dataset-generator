@@ -22422,3 +22422,11 @@ Let me handle that.	Lass mich das regeln.	मुझे उसे संभाल
 Let me handle this.	Lass mich das übernehmen.	मुझे इससे निपटाने दो।
 Let me have a look.	Lass mich einen Blick darauf werfen.	मुझे एक नजर डालने दो।
 Let me look at you.	Lass mich dich ansehen.	मुझे तुम्हें देखने दो।
+Let me pay tonight.	Lass mich heute Abend bezahlen.	मुझे आज रात भुगतान करने दें।
+Let me take a look.	Lass mich einen Blick werfen.	मुझे एक नजर डालने दो।
+Let us do the work.	Lassen Sie uns die Arbeit machen.	हमें काम करने दीजिए।
+Let's buy this one.	Lass uns das kaufen.	चलो इसे खरीदते हैं।
+Let's get divorced.	Lass uns scheiden.	हम तलाक लें।
+Let's get off here.	Lass uns hier aussteigen.	चलो यहाँ से उतरते हैं।
+Let's go home, Tom.	Lass uns nach Hause gehen, Tom.	चलो घर चलें, टॉम।
+Let's hide in here.	Lass uns hier verstecken.	चलो यहाँ छुपें।
