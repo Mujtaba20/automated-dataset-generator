@@ -32553,3 +32553,11 @@ I'm not getting this.	Das verstehe ich nicht.	मुझे यह समझ म�
 I'm not going anyway.	Ich gehe sowieso nicht.	मैं किसी तरह नहीं जा रहा हूँ।
 I'm not going to die.	Ich werde nicht sterben.	मैं मरने वाला नहीं हूँ।
 I'm not good at math.	Ich bin nicht gut in Mathe.	मुझसे गणित में अच्छा नहीं होता।
+I'm not good at that.	Ich bin darin nicht gut.	मुझसे यह अच्छा नहीं होता।
+I'm not good at this.	Hierbei bin ich nicht gut.	मैं इसमें अच्छा नहीं हूँ।
+I'm not good-looking.	Ich sehe nicht gut aus.	मैं अच्छे दिखने वाला नहीं हूँ।
+I'm not here for you.	Ich bin nicht hier für dich.	मैं यहाँ तुम्हारे लिए नहीं हूँ।
+I'm not ignoring you.	Ich verschließe die Augen nicht vor dir.	मैं तुम्हें नजरअंदाज नहीं कर रहा हूँ।
+I'm not in any hurry.	Ich habe es nicht eilig.	मुझे कोई जल्दी नहीं है।
+I'm not leaving here.	Ich verlasse diesen Ort nicht.	मैं यहाँ से नहीं जा रहा हूँ।
+I'm not making it up.	Ich erfinde das nicht.	मैं यह नकल नहीं कर रहा हूँ।
