@@ -1,14 +1,4 @@
 
-Tom is no longer a boy.	Tom ist kein Junge mehr.	टॉम अब लड़का नहीं है।
-Tom is no longer alive.	Tom lebt nicht mehr.	टॉम अब नहीं रहता है।
-Tom is no longer alive.	Tom ist nicht mehr am Leben.	टॉम अब जीवित नहीं है।
-Tom is no longer angry.	Tom ist nicht mehr böse.	टॉम अब नाराज नहीं है।
-Tom is no ordinary man.	Tom ist kein einfacher Mann.	टॉम एक आसान आदमी नहीं है।
-Tom is not a good cook.	Tom ist kein guter Koch.	टॉम एक अच्छा कुक नहीं है।
-Tom is not a happy boy.	Tom ist kein fröhlicher Junge.	टॉम एक खुश लड़का नहीं है।
-Tom is not a happy man.	Tom ist kein zufriedener Mann.	टॉम एक संतुष्ट व्यक्ति नहीं है।
-Tom is not always busy.	Tom ist nicht immer beschäftigt.	टॉम हमेशा व्यस्त नहीं होता है।
-Tom is not fast enough.	Tom ist nicht schnell genug.	टॉम काफी तेज नहीं है।
 Tom is not good enough.	Tom ist nicht gut genug.	टॉम काफी अच्छा नहीं है।
 Tom is not often wrong.	Tom hat nicht oft unrecht.	टॉम अक्सर गलत नहीं होता है।
 Tom is not often wrong.	Tom irrt sich nicht oft.	टॉम अक्सर गलत नहीं होता है।
