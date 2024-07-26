@@ -1,15 +1,4 @@
 
-Sign above this line.	Unterschreiben Sie oberhalb dieser Linie!	इस लाइन के ऊपर हस्ताक्षर करें!
-Sign above this line.	Setzen Sie Ihre Unterschrift oberhalb dieser Linie!	इस लाइन के ऊपर अपना हस्ताक्षर सेट करें!
-Sign above this line.	Unterschreibe oberhalb dieser Linie!	इस लाइन के ऊपर साइनकेस!
-Sign above this line.	Setz deine Unterschrift oberhalb dieser Linie!	इस लाइन के ऊपर अपना हस्ताक्षर सेट करें!
-Sign your name there.	Unterschreiben Sie dort!	वहाँ हस्ताक्षर करो!
-Sit down and shut up.	Setz dich und sei still!	बैठो और शांत रहो!
-Sit down and shut up.	Setz dich hin und sei still!	बैठो और शांत रहो!
-Sit down and shut up.	Setz dich und halte die Klappe.	बैठो और फ्लैप पकड़ो।
-Size does not matter.	Auf die Größe kommt es nicht an.	आकार मायने नहीं रखता।
-Smog hung over Tokyo.	Tokio war in Smog gehüllt.	टोक्यो को स्मॉग में लपेटा गया था।
-Smog hung over Tokyo.	Tokio war von Smog bedeckt.	टोक्यो स्मॉग द्वारा कवर किया गया था।
 Smoking can kill you.	Rauchen kann zum Tode führen.	धूम्रपान से मौत हो सकती है।
 Smoking is permitted.	Rauchen ist erlaubt.	धूम्रपान की अनुमति है।
 Snow covered the bus.	Schnee bedeckte den Bus.	बर्फ ने बस को कवर किया।

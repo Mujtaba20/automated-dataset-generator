@@ -33437,3 +33437,8 @@ Shouldn't we ask Tom?	Sollten wir nicht Tom fragen?	क्या हमें �
 Show me how it works.	Zeigen Sie mir, wie es geht.	मुझे दिखाओ कि यह किस प्रकार काम करता है।
 Show me how to do it.	Zeigen Sie mir, wie man es macht.	मुझे दिखाओ कि यह कैसे किया जाता है।
 Shut up and sit down.	Halt den Mund und setz dich.	चुप रहो और बैठ जाओ।
+Sign above this line.	Markieren Sie über dieser Linie.	इस रेखा के ऊपर चिन्ह लगाएं।
+Sign your name there.	Unterschreiben Sie Ihren Namen dort.	अपना नाम वहां दर्ज करें।
+Sit down and shut up.	Setz dich und sei ruhig.	बैठो और चुप रहो।
+Size does not matter.	Größe spielt keine Rolle.	आकार मायने नहीं रखता।
+Smog hung over Tokyo.	Smog hing über Tokio.	टोक्यो पर स्मॉग था।
