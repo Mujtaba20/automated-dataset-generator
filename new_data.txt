@@ -31690,3 +31690,10 @@ I got up early today.	Heute bin ich früh aufgestanden.	मैंने आज �
 I guess that's a yes.	Ich denke, das ist ein Ja.	मुझे लगता है कि यह हाँ है।
 I guess you're right.	Ich denke, du hast recht.	मुझे लगता है, तुम सही हो।
 I guess you're right. 1	Ich vermute, du hast recht.	मुझे लगता है, तुम सही हो।
+I had a good holiday.	Ich hatte einen schönen Urlaub.	मेरे पास एक अच्छी छुट्टी थी।
+I had a heart attack.	Ich hatte einen Herzinfarkt.	मेरे साथ दिल का दौरा पड़ा।
+I had a little fever.	Ich hatte leichtes Fieber.	मुझे थोड़ा बुखार था।
+I had a small mishap.	Mir ist ein kleines Missgeschick passiert.	मेरे साथ एक छोटी बाधा हो गई।
+I had a tooth pulled.	Mir wurde ein Zahn gezogen.	मेरे दांतों में से एक निकाल लिया गया।
+I had an inspiration.	Ich hatte eine Eingebung.	मैंने एक संवेदना पाई।
+I had better ask her.	Ich sollte sie lieber fragen.	मुझे उससे बेहतर पूछना चाहिए।
