@@ -25283,3 +25283,5 @@ Did you ask Tom why?	Hast du Tom warum gefragt?	क्या तुमने ट
 Did you believe Tom?	Hast du Tom geglaubt?	क्या तुमने टॉम पर विश्वास किया?
 Did you bring rolls?	Hast du Brötchen mitgebracht?	क्या आपने रोल्स लाए हैं?
 Did you bring rolls? 2	Hast du Brötchen mitgebracht?	क्या तुमने रोल्स लाए?
+Did you bring yours?	Hast du es gebracht?	क्या तुमने यह लाया?
+Did you buy bananas?	Hast du Bananen gekauft?	क्या तुमने केले खरीदे थे?

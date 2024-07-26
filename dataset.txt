@@ -1,16 +1,4 @@
 
-Did you bring yours?	Hast du deine mitgebracht?	क्या आप अपना लाया?
-Did you bring yours?	Hast du deins mitgebracht?	क्या आप अपना लाया?
-Did you bring yours?	Haben Sie Ihren mitgebracht?	क्या आप अपना लाया?
-Did you bring yours?	Hast du deinen mitgebracht?	क्या आप अपना लाया?
-Did you bring yours?	Haben Sie Ihres mitgebracht?	क्या आप अपना लाया?
-Did you bring yours?	Haben Sie Ihre mitgebracht?	क्या आप अपना लाया?
-Did you bring yours?	Habt ihr eure mitgebracht?	क्या आप अपना लाया?
-Did you bring yours?	Habt ihr eures mitgebracht?	क्या आप अपने साथ लाए?
-Did you bring yours?	Habt ihr euren mitgebracht?	क्या आप अपने साथ लाए?
-Did you buy bananas?	Hast du Bananen gekauft?	क्या आपने केला खरीदा?
-Did you buy bananas?	Habt ihr Bananen gekauft?	क्या आपने केला खरीदा?
-Did you buy bananas?	Haben Sie Bananen gekauft?	क्या आपने केला खरीदा?
 Did you come by car?	Sind Sie mit dem Auto gekommen?	क्या आप कार से आए थे?
 Did you come by car?	Bist du mit dem Auto gekommen?	क्या आप कार से आए थे?
 Did you come by car?	Seid ihr mit dem Auto gekommen?	क्या आप कार से आए थे?
