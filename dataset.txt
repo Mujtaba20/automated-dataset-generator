@@ -1,15 +1,4 @@
 
-Do you want to stop?	Willst du stehen bleiben?	क्या आप रुकना चाहते हैं?
-Do you want to stop?	Willst du aufhören?	क्या आप बाहर निकलना चाहते है?
-Do you want to talk?	Willst du reden?	क्या आप बात करना चाहते हैं?
-Do you want to talk?	Wollt ihr reden?	क्या आप बात करना चाहते हैं?
-Do you want to talk?	Wollen Sie reden?	क्या आप बात करना चाहते हैं?
-Do you wear glasses?	Trägst du eine Brille?	क्या आप चश्मा पहने हुए हैं?
-Do you wear glasses?	Tragen Sie eine Brille?	क्या आप चश्मा पहनते हो?
-Do you wear glasses?	Bist du Brillenträger?	क्या आप पहनने वाले हैं?
-Do you wear glasses?	Bist du Brillenträgerin?	क्या आप चश्मा पहने हुए हैं?
-Do you wear glasses?	Sind Sie Brillenträger?	क्या आप चश्मा पहने हुए हैं?
-Do you wear glasses?	Sind Sie Brillenträgerin?	क्या आप चश्मा पहने हुए हैं?
 Does Tom eat grapes?	Isst Tom Trauben?	क्या टॉम अंगूर खाते हैं?
 Does Tom have a car?	Hat Tom ein Auto?	क्या टॉम के पास एक कार है?
 Does Tom have a job?	Hat Tom eine Arbeit?	क्या टॉम के पास नौकरी है?
