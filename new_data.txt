@@ -23049,3 +23049,12 @@ The summer is over.	Der Sommer ist vorbei.	गर्मी समाप्त �
 The sun is setting.	Die Sonne geht unter.	सूरज अंतिम किरणों में जा रहा है।
 The sun is shining.	Die Sonne scheint.	सूरज चमक रहा है।
 The sun was bright.	Die Sonne war hell.	सूरज उज्ज्वल था।
+The table is green.	Der Tisch ist grün.	टेबल हरी है।
+The thief ran away.	Der Dieb lief weg.	चोर भाग गया।
+The thief ran fast.	Der Dieb rannte schnell.	चोर तेजी से भागा।
+The tire leaks air.	Der Reifen verliert Luft.	टायर हवा निकालता है।
+The tree fell down.	Der Baum fiel um.	पेड़ गिर गया।
+The water is clean.	Das Wasser ist sauber.	पानी साफ है।
+The water was cold.	Das Wasser war kalt.	पानी ठंडा था।
+The water was warm.	Das Wasser war warm.	पानी गरम था।
+The waves are high.	Die Wellen sind hoch.	लहरें ऊंची हैं।

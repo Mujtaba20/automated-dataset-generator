@@ -1,14 +1,4 @@
 
-The table is green.	Der Tisch ist grün.	तालिका हरी है।
-The thief ran away.	Der Dieb rannte weg.	चोर भाग गया।
-The thief ran fast.	Der Dieb rannte schnell.	चोर जल्दी से भाग गया।
-The tire leaks air.	Der Reifen verliert Luft.	टायर हवा खो देता है।
-The tree fell down.	Der Baum ist umgefallen.	पेड़ गिर गया है।
-The water is clean.	Das Wasser ist rein.	पानी शुद्ध है।
-The water is clean.	Das Wasser ist sauber.	पानी साफ है।
-The water was cold.	Das Wasser war kalt.	पानी ठंडा था।
-The water was warm.	Das Wasser war warm.	पानी गर्म था।
-The waves are high.	Die Wellen sind hoch.	लहरें अधिक हैं।
 The window is open.	Das Fenster ist offen.	खिड़की खुली है।
 The woman is naked.	Die Frau ist nackt.	महिला नग्न है।
 The wood is rotten.	Das Holz ist verfault.	लकड़ी सड़ी हुई है।
