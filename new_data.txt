@@ -30927,3 +30927,8 @@ Have you been crying?	Hast du geweint?	क्या तुम रो रहे �
 Have you eaten lunch?	Hast du zu Mittag gegessen?	क्या तुमने दोपहर का खाना खा लिया है?
 Have you ever smoked?	Hast du je geraucht?	क्या तुमने कभी धूम्रपान किया है?
 Have you fed the dog?	Hast du den Hund gefüttert?	क्या तुमने कुत्ते को खिलाया है?
+Have you finished it?	Hast du es fertig gemacht?	क्या तुमने इसे पूरा किया है?
+Have you lost weight?	Hast du Gewicht verloren?	क्या आपने वजन घटाया है?
+Have you measured it?	Hast du es gemessen?	क्या तुमने इसे मापा है?
+Have you measured it?_1	Hast du es überprüft?	क्या तुमने इसे नापा है?
+Have you measured it?_2	Hast du es festgestellt?	क्या तुमने इसे नापा है?

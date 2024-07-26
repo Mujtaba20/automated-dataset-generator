@@ -1,18 +1,4 @@
 
-Have you finished it?	Hast du es fertiggestellt?	क्या आपने इसे पूरा किया?
-Have you finished it?	Bist du damit fertig?	क्या आप तैयार हैं?
-Have you lost weight?	Haben Sie abgenommen?	क्या आपने अपना वजन कम किया?
-Have you lost weight?	Hast du abgenommen?	क्या आपने अपना वजन कम किया?
-Have you measured it?	Hast du es vermessen?	क्या आपने इसे मापा
-Have you measured it?	Hast du ihn vermessen?	क्या आपने उसे मापा?
-Have you measured it?	Hast du sie vermessen?	क्या आपने उन्हें मापा?
-Have you measured it?	Hast du das vermessen?	क्या आपने उसे मापा?
-Have you measured it?	Hast du es ausgemessen?	क्या आपने इसे मापा?
-Have you measured it?	Hast du sie ausgemessen?	क्या आपने उन्हें मापा?
-Have you measured it?	Hast du ihn ausgemessen?	क्या आपने इसे मापा?
-Have you measured it?	Hast du das ausgemessen?	क्या आपने उसे मापा?
-Have you measured it?	Hast du es gemessen?	क्या आपने इसे मापा?
-Have you measured it?	Hast du das gemessen?	क्या आपने उसे मापा?
 Have you seen enough?	Hast du genug gesehen?	क्या आपने पर्याप्त देखा
 Have you seen my pen?	Hast du meinen Stift gesehen?	क्या तुमने मेरी कलम देखी?
 Have you seen my pen?	Hast du meinen Füller gesehen?	क्या आपने मेरा भराव देखा?
