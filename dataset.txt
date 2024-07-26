@@ -1,14 +1,4 @@
 
-He's afraid of snakes.	Er hat Angst vor Schlangen.	वह सांपों से डरता है।
-He's allergic to cats.	Er hat eine Katzenallergie.	उसके पास एक बिल्ली एलर्जी है।
-He's always gossiping.	Er ist ständig am Tratschen.	वह हमेशा गपशप कर रहा है।
-He's an oceanographer.	Er ist Meereskundler.	वह एक समुद्री ग्राहक है।
-He's an oceanographer.	Er ist Meeresforscher.	वह एक समुद्री शोधकर्ता है।
-He's an oceanographer.	Er ist Ozeanograph.	वह एक ओशनोग्राफर है।
-He's away on business.	Er ist auf Geschäftsreise.	वह एक व्यावसायिक यात्रा पर है।
-He's away on business.	Er ist geschäftlich unterwegs.	वह व्यवसाय पर है।
-He's been blacklisted.	Er steht auf der schwarzen Liste.	वह काली सूची में है।
-He's brave and honest.	Er ist tapfer und ehrlich.	वह बहादुर और ईमानदार है।
 He's completely crazy.	Er ist völlig verrückt.	वह पूरी तरह से पागल है।
 He's completely crazy.	Er ist völlig durchgeknallt.	वह पूरी तरह से पागल है।
 He's dating my sister.	Er geht mit meiner Schwester.	वह मेरी बहन के साथ जाता है।

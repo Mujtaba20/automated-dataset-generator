@@ -36937,3 +36937,10 @@ He's a bit of a loner.	Er ist ein bisschen einsam.	वह थोड़ा अक
 He's a fine young man.	Er ist ein feiner junger Mann.	वह एक बढ़िया जवान आदमी है।
 He's a real gentleman.	Er ist ein richtiger Gentleman.	वह एक वास्तविक सज्जन है।
 He's a strange person.	Er ist eine seltsame Person.	वह एक अजीब व्यक्ति है।
+He's afraid of snakes.	Er hat Angst vor Schlangen.	वह साँपों से डरता है।
+He's allergic to cats.	Er ist allergisch gegen Katzen.	उसे बिल्लियों से एलर्जी है।
+He's always gossiping.	Er tratscht immer.	वह हमेशा गप्पे लगाता है।
+He's an oceanographer.	Er ist Ozeanograf.	वह समुद्रविज्ञान विशेषज्ञ है।
+He's away on business.	Er ist geschäftlich unterwegs.	वह व्यापार में बाहर है।
+He's been blacklisted.	Er wurde auf die Schwarze Liste gesetzt.	उसका नाम काली सूची में डाल दिया गया है।
+He's brave and honest.	Er ist mutig und ehrlich.	वह बहादुर और ईमानदार है।
