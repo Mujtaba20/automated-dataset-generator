@@ -20831,3 +20831,11 @@ He needs the money.	Er braucht das Geld.	उसे पैसों की आव
 He never said that.	Er hat das nie gesagt.	उसने कभी ऐसा नहीं कहा।
 He opened the door.	Er öffnete die Tür.	उसने दरवाजा खोल दिया।
 He owes me a favor.	Er schuldet mir einen Gefallen.	उसका एक उपकार मेरे पास है।
+He plays the piano.	Er spielt Klavier.	वह पियानो बजाता है।
+He posed a problem.	Er stellte ein Problem dar.	उसने एक समस्या उत्पन्न की।
+He raised his hand.	Er schlug seine Hand hoch.	उसने उसका हाथ बढ़ा दिया।
+He rarely gives up.	Er gibt selten auf.	वह शर्तें बहुत कम है।
+He remained silent.	Er blieb still.	वह चुप रहा।
+He seems to be ill.	Er scheint krank zu sein.	लगता है कि वह बीमार है।
+He shaved his head.	Er hat seinen Kopf rasiert.	उसने अपने सिर की बाल काट लिए।
+He should be angry.	Er sollte wütend sein.	उसे गुस्सा होना चाहिए।

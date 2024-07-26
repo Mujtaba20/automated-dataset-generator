@@ -1,14 +1,4 @@
 
-He plays the piano.	Er spielt Klavier.	वह पियानो बजाता है।
-He posed a problem.	Er sprach ein Problem an.	उन्होंने एक समस्या का समाधान किया।
-He raised his hand.	Er hob seine Hand.	उसने हाथ उठाया।
-He raised his hand.	Er zeigte auf.	उसने दिखाया।
-He raised his hand.	Er hob die Hand.	उसने हाथ उठाया।
-He rarely gives up.	Er gibt selten auf.	वह शायद ही कभी छोड़ देता है।
-He remained silent.	Er blieb still.	वह अभी भी रुका रहा।
-He seems to be ill.	Er scheint krank zu sein.	वह बीमार लगता है।
-He shaved his head.	Er hat sich den Kopf rasiert.	उसने अपना सिर मुंडवा लिया।
-He should be angry.	Er müsste böse sein.	उसे गुस्सा होना चाहिए।
 He should thank me.	Er sollte mir danken.	उसे धन्यवाद देना चाहिए।
 He showed it to me.	Er hat es mir gezeigt.	उसने मुझे यह दिखाया।
 He sings very well.	Er singt sehr schön.	वह बहुत अच्छी तरह से गाता है।
