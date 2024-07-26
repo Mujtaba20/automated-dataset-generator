@@ -1,15 +1,4 @@
 
-You made it happen.	Du hast es möglich gemacht.	आपने इसे संभव बना दिया।
-You may be correct.	Vielleicht hast du Recht.	होठों को संवारने वाली स्टिक या पेंसिल।
-You may be correct.	Du könntest recht haben.	आप सही हो सकते हैं।
-You may be correct.	Vielleicht hast du recht.	होठों को संवारने वाली स्टिक या पेंसिल।
-You may be correct.	Vielleicht haben Sie recht.	होठों को संवारने वाली स्टिक या पेंसिल।
-You may use my car.	Du kannst mein Auto benutzen.	आप मेरी कार का उपयोग कर सकते हैं।
-You may use my car.	Sie können mein Auto benutzen.	आप मेरी कार का उपयोग कर सकते हैं।
-You may use my car.	Du kannst meinen Wagen nehmen.	आप मेरी कार ले सकते हैं।
-You might be right.	Vielleicht hast du Recht.	होठों को संवारने वाली स्टिक या पेंसिल।
-You might be right.	Du könntest recht haben.	आप सही हो सकते हैं।
-You might be right.	Du hast vielleicht recht.	आप शायद सही हो सकते हैं।
 You might meet Tom.	Vielleicht begegnest du Tom.	शायद आप टॉम से मिलेंगे।
 You must be a fool.	Du bist doch ein Trottel!	तुम बेवकूफ हो!
 You must be joking!	Du machst Witze!	आप मजाक कर रहे हैं!

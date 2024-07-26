@@ -24903,3 +24903,8 @@ You look very nice.	Du siehst sehr schön aus.	तुम बहुत अच्�
 You look very pale.	Du siehst sehr blass aus.	तुम बहुत पीले लग रहे हो।
 You made a mistake.	Du hast einen Fehler gemacht.	तुमने एक गलती की है।
 You made a promise.	Du hast ein Versprechen gemacht.	तुमने एक वादा किया है।
+You made it happen.	Du hast es geschehen lassen.	तुमने यह होने दिया।
+You may be correct.	Eventuell haben Sie recht.	शायद आप सही हो सकते हैं।
+You may use my car.	Du darfst mein Auto benutzen.	तुम मेरी कार का उपयोग कर सकते हैं।
+You might be right.	Du könntest recht haben.	तुम सही हो सकते हो।
+You may be right.	Du könntest recht haben.	तुम सही हो सकते हो।
