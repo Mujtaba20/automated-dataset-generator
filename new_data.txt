@@ -22069,3 +22069,13 @@ I'm twice your age.	Ich bin doppelt so alt wie du.	मैं तुम्हा�
 I'm very ambitious.	Ich bin sehr ehrgeizig.	मैं बहुत महत्वाकांक्षी हूँ।
 I'm very concerned.	Ich bin sehr besorgt.	मैं बहुत चिंतित हूँ।
 I'm very contented.	Ich bin sehr zufrieden.	मैं बहुत संतुष्ट हूँ।
+I'm very forgetful.	Ich bin sehr vergesslich.	मेरी याददाश्त बहुत कमजोर है।
+I'm very fortunate.	Ich habe großes Glück.	मुझे बहुत भाग्यशाली माना जाता है।
+I'm very happy now.	Ich bin jetzt sehr glücklich.	मैं अब बहुत खुश हूँ।
+I'm very impatient.	Ich bin sehr ungeduldig.	मैं बहुत अधीर हूं।
+I'm very impressed.	Ich bin sehr beeindruckt.	मैं बहुत प्रभावित हूं।
+I'm very motivated.	Ich bin sehr motiviert.	मैं बहुत प्रेरित हूं।
+I'm very satisfied.	Ich bin sehr zufrieden.	मैं बहुत संतुष्ट हूं।
+I'm very surprised.	Ich bin sehr überrascht.	मैं बहुत हैरान हूं।
+I'm very tired now.	Ich bin jetzt sehr müde.	मैं अब बहुत थक गया हूँ।
+I'm wide awake now.	Ich bin jetzt hellwach.	मैं अब जागरूक हूं।
