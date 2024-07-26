@@ -1,14 +1,4 @@
 
-Tom is a good kisser.	Tom küsst gut.	टॉम अच्छी तरह से चुंबन।
-Tom is a good lawyer.	Tom ist ein guter Anwalt.	टॉम एक अच्छे वकील हैं।
-Tom is a good person.	Tom ist ein Guter.	टॉम एक अच्छा है।
-Tom is a good person.	Tom ist ein guter Mensch.	टॉम एक अच्छा इंसान है।
-Tom is a good person.	Tom ist eine gute Person.	टॉम एक अच्छा इंसान है।
-Tom is a good player.	Tom ist ein guter Spieler.	टॉम एक अच्छे खिलाड़ी हैं।
-Tom is a good singer.	Tom kann gut singen.	टॉम अच्छी तरह से गा सकता है।
-Tom is a good singer.	Tom ist ein guter Sänger.	टॉम एक अच्छे गायक हैं।
-Tom is a good worker.	Tom ist ein guter Arbeiter.	टॉम एक अच्छे कार्यकर्ता हैं।
-Tom is a good writer.	Tom ist ein guter Schriftsteller.	टॉम एक अच्छे लेखक हैं।
 Tom is a hard worker.	Tom ist sehr fleißig.	टॉम बहुत मेहनती है।
 Tom is a hard worker.	Tom arbeitet hart.	टॉम कड़ी मेहनत करता है।
 Tom is a jealous man.	Tom ist ein Eifersüchtiger.	टॉम एक ईर्ष्यालु है।

@@ -34339,3 +34339,12 @@ Tom is a good driver.	Tom ist ein guter Fahrer.	टॉम एक अच्छे
 Tom is a good father.	Tom ist ein guter Vater.	टॉम एक अच्छा पिता है।
 Tom is a good friend.	Tom ist ein guter Freund.	टॉम एक अच्छा दोस्त है।
 Tom is a good golfer.	Tom ist ein guter Golfer.	टॉम एक अच्छा गोल्फर है।
+Tom is a good kisser.	Tom ist ein guter Küsser.	टॉम एक अच्छा चुंबनेवाला है।
+Tom is a good lawyer.	Tom ist ein guter Anwalt.	टॉम एक अच्छा वकील है।
+Tom is a good person.	Tom ist ein guter Mensch.	टॉम एक अच्छा इंसान है।
+Tom is a good person. (2nd)	Tom ist eine gute Person.	टॉम एक अच्छा व्यक्ति है।
+Tom is a good player.	Tom ist ein guter Spieler.	टॉम एक अच्छा खिलाड़ी है।
+Tom is a good singer.	Tom ist ein guter Sänger.	टॉम एक अच्छे गायक है।
+Tom is a good singer. (2nd)	Tom singt gut.	टॉम अच्छा गाता है।
+Tom is a good worker.	Tom ist ein guter Arbeiter.	टॉम एक अच्छे कर्मचारी हैं।
+Tom is a good writer.	Tom ist ein guter Schriftsteller.	टॉम एक अच्छा लेखक है।
