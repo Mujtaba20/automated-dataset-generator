@@ -27840,3 +27840,8 @@ Roses are beautiful.	Rosen sind schön.	गुलाब खूबसूरत �
 Say something funny.	Sage etwas Lustiges.	कुछ मजेदार कहो।
 See you around, Tom.	Bis später, Tom.	तुम्हें बाद में देखता हूँ, टॉम।
 See you in two days.	Bis in zwei Tagen.	दो दिनों में मिलेंगे।
+Seeing is believing.	Sehen bedeutet glauben.	देखना विश्वास होता है।
+Send the bill to me.	Schicken Sie mir die Rechnung.	मुझे बिल भेज दो।
+Shall we take a cab?	Sollen wir ein Taxi nehmen?	क्या हम टैक्सी लें?
+She agreed with him.	Sie stimmte ihm zu.	उसने उसके साथ सहमति दी।
+She baked me a cake.	Sie hat mir einen Kuchen gebacken.	उसने मुझे एक केक बनाया।
