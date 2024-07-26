@@ -29581,3 +29581,11 @@ We have to find out.	Wir müssen herausfinden.	हमें पता करन�
 We have to fix this.	Wir müssen das reparieren.	हमें यह ठीक करना होगा।
 We have to help Tom.	Wir müssen Tom helfen.	हमें टॉम की मदद करनी होगी।
 We have to save Tom.	Wir müssen Tom retten.	हमें टॉम को बचाना होगा।
+We have to stop Tom.	Wir müssen Tom aufhalten.	हमें टॉम को रोकना है।
+We have to tell Tom.	Wir müssen Tom sagen.	हमें टॉम को बताना होगा।
+We have to warn Tom.	Wir müssen Tom warnen.	हमें टॉम को चेतावनी देनी होगी।
+We have to warn him.	Wir müssen ihn warnen.	हमें उसे चेतावनी देनी है।
+We haven't finished.	Wir sind noch nicht fertig.	हम समाप्त नहीं हुए हैं।
+We hope we're wrong.	Wir hoffen, wir liegen falsch.	हम उम्मीद करते हैं कि हम गलत हों।
+We just got started.	Wir haben gerade angefangen.	हमने अभी शुरुआत की है।
+We just need a plan.	Wir brauchen nur einen Plan.	हमें बस एक योजना की आवश्यकता है।

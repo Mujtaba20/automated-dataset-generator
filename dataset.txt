@@ -1,14 +1,4 @@
 
-We have to stop Tom.	Wir müssen Tom stoppen.	हमें टॉम को रोकना होगा।
-We have to stop Tom.	Wir müssen Tom aufhalten.	हमें टॉम को रोकना होगा।
-We have to tell Tom.	Wir müssen das Tom erzählen.	हमें टॉम को बताना होगा।
-We have to warn Tom.	Wir müssen Tom warnen.	हमें टॉम को चेतावनी देनी है।
-We have to warn him.	Wir müssen ihn warnen.	हमें उसे चेतावनी देनी होगी।
-We haven't finished.	Wir sind noch nicht fertig.	हम अभी तक समाप्त नहीं हुए हैं।
-We hope we're wrong.	Hoffentlich täuschen wir uns.	उम्मीद है कि हम भ्रामक हैं।
-We just got started.	Wir haben gerade erst losgelegt.	हमने अभी शुरुआत की है।
-We just got started.	Wir haben gerade erst angefangen.	हमने अभी शुरुआत की है।
-We just need a plan.	Wir brauchen einfach nur einen Plan.	हमें बस एक योजना की आवश्यकता है।
 We know Tom is here.	Wir wissen, dass Tom hier ist.	हम जानते हैं कि टॉम यहाँ है।
 We know how to swim.	Wir können schwimmen.	हम तैर सकते हैं।
 We know where it is.	Wir wissen, wo es ist.	हम जानते हैं कि यह कहाँ है।
