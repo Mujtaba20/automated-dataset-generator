@@ -1,14 +1,4 @@
 
-That's Tom's mother.	Das ist Toms Mutter.	यह टॉम की मां है।
-That's Tom's office.	Das ist Toms Büro.	यह टॉम का कार्यालय है।
-That's Tom's sister.	Das ist Toms Schwester.	यह टॉम की बहन है।
-That's a blue house.	Das ist ein blaues Haus.	यह एक नीला घर है।
-That's a fair price.	Dieser Preis ist angemessen.	यह कीमत उचित है।
-That's a good brand.	Das ist eine gute Marke.	यह एक अच्छा ब्रांड है।
-That's a good price.	Das ist ein guter Preis.	यह एक अच्छी कीमत है।
-That's a good thing.	Das ist eine gute Sache.	यह एक अच्छी बात है।
-That's a great idea!	Das ist eine ausgezeichnete Idee!	यह एक बहुत अच्छा विचार है!
-That's a great idea.	Das ist ja eine tolle Idee.	बढ़िया विचार है।
 That's a great name.	Das ist ein großartiger Name.	यह एक महान नाम है।
 That's a great plan.	Das ist ein guter Plan.	एक अच्छी योजना है।
 That's a great poem.	Das ist ein tolles Gedicht.	यह एक महान कविता है।

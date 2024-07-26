@@ -28075,3 +28075,13 @@ That'd be dangerous.	Das wäre gefährlich.	यह खतरनाक होग�
 That'll be possible.	Das wird möglich sein.	यह संभव होगा।
 That's Tom's family.	Das ist Toms Familie.	यह टॉम का परिवार है।
 That's Tom's father.	Das ist Toms Vater.	यह टॉम के पिता है।
+That's Tom's mother.	Das ist Toms Mutter.	वह टॉम की मां है।
+That's Tom's office.	Das ist Toms Büro.	यह टॉम का कार्यालय है।
+That's Tom's sister.	Das ist Toms Schwester.	यह टॉम की बहन है।
+That's a blue house.	Das ist ein blaues Haus.	वह एक नीले रंग का घर है।
+That's a fair price.	Das ist ein fairer Preis.	यह एक उचित मूल्य है।
+That's a good brand.	Das ist eine gute Marke.	वह एक अच्छा ब्रांड है।
+That's a good price.	Das ist ein guter Preis.	यह एक अच्छी कीमत है।
+That's a good thing.	Das ist eine gute Sache.	वह एक अच्छी बात है।
+That's a great idea!	Das ist eine großartige Idee!	यह एक बड़ी बात है!
+That's a great idea.	Das ist eine geniale Idee.	उसमें मजा है!
