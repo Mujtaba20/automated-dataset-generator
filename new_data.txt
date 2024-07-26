@@ -34428,3 +34428,11 @@ Tom is clearly upset.	Tom ist deutlich verärgert.	टॉम स्पष्ट 
 Tom is conscious now.	Tom ist jetzt bei Bewusstsein.	टॉम अब जागरूक है।
 Tom is dealing drugs.	Tom handelt mit Drogen.	टॉम ड्रग्स का व्यापार कर रहा है।
 Tom is doing penance.	Tom tut Buße.	टॉम पश्चाताप कर रहा है।
+Tom is enjoying life.	Tom genießt das Leben.	टॉम जीवन का आनंद ले रहा है।
+Tom is extra careful.	Tom ist extra vorsichtig.	टॉम अत्यधिक सावधान है।
+Tom is extremely fit.	Tom ist extrem fit.	टॉम बेहद फिट है।
+Tom is extremely shy.	Tom ist extrem schüchtern.	टॉम बेहद शर्मीला है।
+Tom is feeling dizzy.	Tom fühlt sich schwindelig.	टॉम को चक्कर आ रहे हैं।
+Tom is flabbergasted.	Tom ist fassungslos.	टॉम हैरान है।
+Tom is frying an egg.	Tom brät ein Ei.	टॉम अंडा तल रहा है।
+Tom is fun, isn't he?	Tom macht Spaß, oder?	टॉम मजेदार है, ना?
