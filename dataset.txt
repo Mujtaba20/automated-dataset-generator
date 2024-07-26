@@ -1,14 +1,4 @@
 
-Tom blew soap bubbles.	Tom machte Seifenblasen.	टॉम ने साबुन के बुलबुले बनाए।
-Tom bought Mary a car.	Tom hat Maria ein Auto gekauft.	टॉम ने मारिया को एक कार खरीदी।
-Tom bought Mary a dog.	Tom hat Mary einen Hund gekauft.	टॉम ने मैरी को एक कुत्ता खरीदा।
-Tom bought a used car.	Tom hat sich einen Gebrauchtwagen gekauft.	टॉम ने एक इस्तेमाल की गई कार खरीदी।
-Tom bought me a drink.	Tom kaufte mir einen Drink.	टॉम ने मुझे एक ड्रिंक खरीदा।
-Tom bought me a drink.	Tom kaufte mir ein Getränk.	टॉम ने मुझे एक ड्रिंक खरीदा।
-Tom bought some bread.	Tom hat Brot gekauft.	टॉम ने रोटी खरीदी।
-Tom bought some candy.	Tom hat Bonbons gekauft.	टॉम ने कैंडीज खरीदी।
-Tom breakfasted alone.	Tom hat allein gefrühstückt.	टॉम ने अकेले नाश्ता किया।
-Tom bribed the guards.	Tom bestach die Wachen.	टॉम ने गार्ड को कैद कर लिया।
 Tom bridled the horse.	Tom zäumte das Pferd.	टॉम ने घोड़े को उकसाया।
 Tom broke his new toy.	Tom hat sein neues Spielzeug kaputtgemacht.	टॉम ने अपना नया खिलौना तोड़ दिया।
 Tom broke his promise.	Tom hat sein Versprechen gebrochen.	टॉम ने अपना वादा तोड़ दिया।

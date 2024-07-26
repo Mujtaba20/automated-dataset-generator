@@ -39868,3 +39868,12 @@ Tom became very tense.	Tom wurde sehr angespannt.	टॉम बहुत तन�
 Tom began to perspire.	Tom begann zu schwitzen.	टॉम पसीना आने लगा।
 Tom begged me to come.	Tom bat mich zu kommen.	टॉम ने मुझसे आने के लिए प्रार्थना की।
 Tom begged us to stay.	Tom bettelte uns zu bleiben.	टॉम ने हमें रुकने के लिए प्रार्थना की।
+Tom blew soap bubbles.	Tom blies Seifenblasen.	टॉम ने साबुन की बुलबुले उड़ाई।
+Tom bought Mary a car.	Tom kaufte Maria ein Auto.	टॉम ने मैरी को एक गाड़ी खरीदी।
+Tom bought Mary a dog.	Tom kaufte Maria einen Hund.	टॉम ने मैरी के लिए एक कुत्ता खरीदा।
+Tom bought a used car.	Tom hat ein Gebrauchtwagen gekauft.	टॉम ने एक पुरानी गाड़ी खरीदी।
+Tom bought me a drink.	Tom kaufte mir ein Getränk.	टॉम ने मुझे एक पेय खरीदा।
+Tom bought some bread.	Tom kaufte etwas Brot.	टॉम ने कुछ रोटी खरीदी।
+Tom bought some candy.	Tom kaufte etwas Süßigkeiten.	टॉम ने कुछ मिठाई खरीदी।
+Tom breakfasted alone.	Tom frühstückte alleine.	टॉम ने अकेले नाश्ता किया।
+Tom bribed the guards.	Tom bestach die Wachen.	टॉम ने गार्ड को रिश्वत दी।
