@@ -1,14 +1,4 @@
 
-This is my friend, Tom.	Das ist mein Freund Tom.	यह मेरा दोस्त टॉम है।
-This is my grandmother.	Das ist meine Großmutter.	वह मेरी दादी है।
-This is my grandmother.	Dies ist meine Großmutter.	यह मेरी दादी है।
-This is my old bicycle.	Dies ist mein altes Fahrrad.	यह मेरी पुरानी बाइक है।
-This is non-negotiable.	Das ist nicht verhandelbar.	यह परक्राम्य नहीं है।
-This is not a hospital.	Das ist kein Krankenhaus.	यह अस्पताल नहीं है।
-This is not a hospital.	Es ist kein Krankenhaus.	यह अस्पताल नहीं है।
-This is not a sentence.	Dies ist kein Satz.	यह कोई वाक्य नहीं है।
-This is not a sentence.	Das ist kein Satz.	यह कोई वाक्य नहीं है।
-This is not acceptable.	Das ist inakzeptabel.	यह अस्वीकार्य है।
 This is not my problem.	Das ist nicht mein Problem.	वह मेरी समस्या नहीं है।
 This is our friend Tom.	Das ist unser Freund Tom.	यह हमारा दोस्त टॉम है।
 This is out of control.	Das ist außer Kontrolle geraten.	यह नियंत्रण से बाहर आ गया है।
