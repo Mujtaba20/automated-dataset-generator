@@ -1,14 +1,4 @@
 
-My hands are shaking.	Meine Hände zittern.	मेरे हाथ हिल रहे हैं।
-My head really aches.	Ich habe schlimme Kopfschmerzen.	मेरे पास बुरे सिरदर्द हैं।
-My head really aches.	Mir schmerzt der Kopf entsetzlich.	मेरा सिर बहुत दर्द करता है।
-My headache has gone.	Ich habe kein Kopfweh mehr.	मुझे अब सिरदर्द नहीं है।
-My headache has gone.	Mein Kopf tut nicht mehr weh.	मेरा सिर अब और चोट नहीं करता है।
-My headache has gone.	Meine Kopfschmerzen sind weg.	मेरा सिरदर्द चला गया है।
-My heart is pounding.	Mein Herz ist am Pochen.	मेरी धड़कन तेज़ चल रही है।
-My home is my castle.	Mein Heim ist meine Burg.	मेरा घर मेरा किला है।
-My home is my castle.	Mein Haus ist meine Burg.	मेरा घर मेरा महल है।
-My home is your home.	Mein Haus ist dein Haus.	अपना ही घर समझो।
 My house burned down.	Mein Haus ist abgebrannt.	मेरा घर जल गया।
 My house was on fire.	Mein Haus brannte.	मेरा घर जल गया।
 My jeans have shrunk.	Meine Jeans sind eingelaufen.	मेरी जींस अंदर भाग गई है।
