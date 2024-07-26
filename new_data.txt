@@ -37801,3 +37801,13 @@ I require your advice.	Ich brauche deinen Rat.	मुझे आपकी सल�
 I ride a bike to work.	Ich fahre mit dem Fahrrad zur Arbeit.	मैं काम के लिए साइकिल से जाता हूँ।
 I said I wasn't ready.	Ich sagte, ich sei nicht bereit.	मैंने कहा कि मैं तैयार नहीं था।
 I said goodbye to Tom.	Ich habe mich von Tom verabschiedet.	मैंने टॉम को अलविदा कहा।
+I saw Tom in the park.	Ich habe Tom im Park gesehen.	मैंने पार्क में टॉम को देखा।
+I saw Tom play tennis.	Ich sah Tom Tennis spielen.	मैंने टॉम को टेनिस खेलते हुए देखा।
+I saw Tom play tennis. - 2	Ich habe beobachtet, wie Tom Tennis spielt.	मैंने देखा कि टॉम टेनिस कैसे खेलता है।
+I saw him in the park.	Ich habe ihn im Park gesehen.	मैंने उसे पार्क में देखा।
+I saw that one coming.	Das habe ich kommen sehen.	मैंने उसे आते देखा।
+I saw the whole thing.	Ich habe das Ganze gesehen.	मैंने पूरी चीज़ देखी।
+I say it all the time.	Ich sage es die ganze Zeit.	मैं हमेशा यह कहता हूँ।
+I see a red car ahead.	Ich sehe ein rotes Auto voraus.	मैं आगे एक लाल गाड़ी देख रहा हूँ।
+I see what's going on.	Ich sehe, was passiert.	मुझे पता है कि क्या हो रहा है।
+I seldom speak to him.	Ich spreche selten mit ihm.	मैं उससे शायद ही बोलूं।
