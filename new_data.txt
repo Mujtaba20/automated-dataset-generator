@@ -29440,3 +29440,11 @@ Tom will soon leave.	Tom wird bald gehen.	टॉम जल्दी जाएग
 Tom will understand.	Tom wird verstehen.	टॉम समझेगा।
 Tom wiped the table.	Tom wischte den Tisch ab.	टॉम ने मेज साफ की।
 Tom wishes he'd won.	Tom wünscht, er hätte gewonnen.	टॉम की इच्छा है कि उसने जीता होता।
+Tom woke up at 6:30.	Tom erwachte um 6:30 Uhr.	टॉम ने 6:30 बजे उठा।
+Tom won first prize.	Tom gewann den ersten Preis.	टॉम ने पहला पुरस्कार जीता।
+Tom won many prizes.	Tom hat viele Preise gewonnen.	टॉमने कई पुरस्कार जीते।
+Tom won the lottery.	Tom hat die Lotterie gewonnen.	टॉमने लॉटरी जीती।
+Tom won't be missed.	Tom wird nicht vermisst werden.	टॉम को याद नहीं किया जाएगा।
+Tom won't come back.	Tom wird nicht zurückkommen.	टॉम वापस नहीं आएगा।
+Tom won't come soon.	Tom wird nicht bald kommen.	टॉम जल्द नहीं आएगा।
+Tom won't leave you.	Tom wird dich nicht verlassen.	टॉम तुम्हें छोड़कर नहीं जाएगा।
