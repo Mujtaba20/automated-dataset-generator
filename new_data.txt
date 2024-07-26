@@ -31497,3 +31497,9 @@ I can't move my legs.	Ich kann meine Beine nicht bewegen.	मैं अपनी
 I can't pay my debts.	Ich kann meine Schulden nicht bezahlen.	मैं अपने कर्ज़ नहीं चुका सकता।
 I can't pay the rent.	Ich kann die Miete nicht bezahlen.	मैं किराया नहीं दे सकता।
 I can't promise that.	Ich kann das nicht versprechen.	मैं उसे वादा नहीं कर सकता।
+I can't see anything.	Ich kann nichts sehen.	मैं कुछ नहीं देख सकता।
+I can't see that far.	Das kann ich nicht so weit sehen.	मैं उतनी दूर तक नहीं देख सकता।
+I can't speak French.	Ich kann kein Französisch sprechen.	मैं फ्रेंच नहीं बोल सकता।
+I can't speak to Tom.	Ich kann nicht mit Tom sprechen.	मैं टॉम से बात नहीं कर सकता।
+I can't tell you yet.	Ich kann es dir noch nicht sagen.	मैं अभी तक तुम्हें नहीं बता सकता।
+I can't wait all day.	Ich kann nicht den ganzen Tag warten.	मैं पूरे दिन इंतजार नहीं कर सकता।

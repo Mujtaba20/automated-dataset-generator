@@ -1,14 +1,4 @@
 
-I can't see anything.	Ich kann überhaupt nichts sehen.	मैं कुछ भी नहीं देख सकता।
-I can't see anything.	Ich sehe nichts.	मुझे कुछ समझ नहीं आता।
-I can't see that far.	Ich kann nicht so weit gucken.	मैं उस दूर तक नहीं देख सकता।
-I can't speak French.	Ich spreche kein Französisch.	मैं फ्रेंच में बात नहीं कर पाता हूं।
-I can't speak to Tom.	Ich kann nicht mit Tom sprechen.	मैं टॉम से बात नहीं कर सकता।
-I can't tell you yet.	Ich kann es Ihnen noch nicht sagen.	मैं आपको अभी तक नहीं बता सकता।
-I can't tell you yet.	Ich kann es euch noch nicht sagen.	मैं आपको अभी तक नहीं बता सकता।
-I can't tell you yet.	Ich kann es dir noch nicht sagen.	मैं आपको अभी तक नहीं बता सकता।
-I can't tell you yet.	Ich kann’s dir noch nicht sagen.	मैं आपको अभी तक नहीं बता सकता।
-I can't wait all day.	Ich kann nicht den ganzen Tag warten.	मैं पूरे दिन इंतजार नहीं कर सकता।
 I can't wait for you.	Ich kann nicht auf dich warten.	मैं तुम्हारे लिए इंतजार नहीं कर सकता।
 I can't wait forever.	Ich kann nicht ewig warten.	मैं हमेशा के लिए इंतजार नहीं कर सकता।
 I can't walk anymore.	Ich kann nicht mehr gehen.	मैं अब और नहीं जा सकता।
