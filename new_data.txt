@@ -22387,3 +22387,11 @@ It's time to sleep.	Es ist Zeit zu schlafen.	अब सोने का सम�
 It's too dangerous.	Es ist zu gefährlich.	यह बहुत खतरनाक है।
 It's too difficult.	Es ist zu schwierig.	यह बहुत कठिन है।
 It's too expensive.	Es ist zu teuer.	यह बहुत महंगा है।
+It's totally wrong.	Es ist völlig falsch.	यह पूरी तरह से गलत है।
+It's unforgettable.	Es ist unvergesslich.	यह भूलने योग्य नहीं है।
+It's very alarming.	Es ist sehr alarmierend.	यह बहुत चिंताजनक है।
+It's very cold now.	Es ist jetzt sehr kalt.	अब यह बहुत ठंडा है।
+It's very exciting.	Es ist sehr aufregend.	यह बहुत रोमांचक है।
+It's very hot here.	Es ist hier sehr heiß.	यहाँ बहुत गर्मी है।
+It's way too heavy.	Es ist viel zu schwer.	यह बहुत वजनदायक है।
+It's well worth it.	Es ist das Geld wert.	इसमें लागत वास्तव में है।

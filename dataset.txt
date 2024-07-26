@@ -1,14 +1,4 @@
 
-It's totally wrong.	Es ist völlig falsch.	यह पूरी तरह से गलत है।
-It's unforgettable.	Es ist unvergesslich.	यह अविस्मरणीय है।
-It's unforgettable.	Das ist unvergesslich.	यह अविस्मरणीय है।
-It's very alarming.	Das ist sehr beunruhigend.	यह बहुत चिंताजनक है।
-It's very cold now.	Es ist jetzt sehr kalt.	अब बहुत ठंडा है।
-It's very exciting.	Es ist sehr aufregend.	यह बहुत रोमांचक है।
-It's very hot here.	Es ist sehr heiß hier.	यहां बहुत गर्मी है.
-It's way too heavy.	Das ist viel zu schwer.	यह बहुत भारी है।
-It's way too heavy.	Das ist bei weitem zu schwer.	यह बहुत मुश्किल है।
-It's well worth it.	Die Mühe ist es Wert.	यह प्रयास के लायक है।
 It's your decision.	Es ist deine Entscheidung.	यह तुम्हारा निर्णय है।
 It's your decision.	Es ist eure Entscheidung.	यह आपका निर्णय है।
 It's your decision.	Es ist Ihre Entscheidung.	यह आपका निर्णय है।
