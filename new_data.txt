@@ -39760,3 +39760,13 @@ This is the last time.	Das ist das letzte Mal.	यह आखिरी बार 
 This is too expensive!	Das ist zu teuer!	यह बहुत महंगा है!
 This is too expensive.	Das ist zu teuer.	यह बहुत महंगा है।
 This is very exciting.	Das ist sehr aufregend.	यह बहुत रोमांचक है।
+This is where we live.	Hier leben wir.	यहाँ हम रहते हैं।
+This isn't a hospital.	Das ist kein Krankenhaus.	यह अस्पताल नहीं है।
+This isn't about that.	Das hat nichts damit zu tun.	यह उसके बारे में नहीं है।
+This isn't your house.	Das ist nicht dein Haus.	यह तुम्हारा घर नहीं है।
+This made me very sad.	Das hat mich sehr traurig gemacht.	यहने मुझे बहुत उदास कर दिया।
+This makes me curious.	Das macht mich neugierig.	यह मुझे जिज्ञासु बनाता है।
+This meat cuts easily.	Dieses Fleisch lässt sich leicht schneiden.	यह मांस आसानी से काटा जा सकता है।
+This milk tastes sour.	Diese Milch schmeckt sauer.	यह दूध खट्टा है।
+This news is official.	Diese Nachricht ist offiziell.	यह खबर आधिकारिक है।
+This newspaper is old.	Diese Zeitung ist alt.	यह अख़बार पुराना है।
