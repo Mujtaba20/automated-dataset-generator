@@ -1,15 +1,4 @@
 
-Did you enjoy the game?	Hat dir das Spiel gefallen?	क्या आपको खेल पसंद था?
-Did you enjoy the game?	Hat dir das Spiel Spaß gemacht?	क्या आपने खेल का आनंद लिया?
-Did you enjoy the view?	Hat dir die Aussicht gefallen?	क्या आपको दृश्य पसंद था?
-Did you enjoy the view?	Hat euch die Aussicht gefallen?	क्या आपको दृश्य पसंद था?
-Did you enjoy the view?	Hat Ihnen die Aussicht gefallen?	क्या आपको दृश्य पसंद था?
-Did you find your book?	Hast du dein Buch gefunden?	क्या आपको अपनी पुस्तक मिली?
-Did you find your keys?	Hast du deine Schlüssel gefunden?	क्या आपको अपनी चाबी मिली?
-Did you find your keys?	Haben Sie Ihre Schlüssel gefunden?	क्या आपको अपनी चाबी मिली?
-Did you find your keys?	Habt ihr eure Schlüssel gefunden?	क्या आपको अपनी चाबी मिली है?
-Did you get angry, too?	Hast du dich auch geärgert?	क्या आपने भी खुद को नाराज किया?
-Did you get angry, too?	Habt ihr euch auch geärgert?	क्या आपने भी खुद को नाराज किया?
 Did you get her letter?	Hast du ihren Brief bekommen?	क्या आपको अपना पत्र मिला?
 Did you get her letter?	Habt ihr ihren Brief bekommen?	क्या आपको अपना पत्र मिला?
 Did you get her letter?	Haben Sie ihren Brief bekommen?	क्या आपको अपना पत्र मिला?
