@@ -25793,3 +25793,13 @@ He was born in 1960.	Er wurde 1960 geboren.	उसका जन्म १९६�
 He was born in Ohio.	Er wurde in Ohio geboren.	उसका जन्म ओहायो में हुआ था।
 He was buried alive.	Er wurde lebendig begraben.	उसे जिंदा दफनाया गया था।
 He was disappointed.	Er war enttäuscht.	उसे निराशा हुई थी।
+He was hit by a car.	Er wurde von einem Auto angefahren.	उसे गाड़ी ने मारा।
+He was in the queue.	Er stand in der Warteschlange.	वह कतार में था।
+He was shy at first.	Er war anfangs schüchtern.	शरुआत में वह झंकार था।
+He was sound asleep.	Er schlief tief und fest.	वह गहरी नींद में था।
+He was the only man.	Er war der einzige Mann.	वह एकमात्र आदमी था।
+He was very excited.	Er war sehr aufgeregt.	वह बहुत उत्साहित था।
+He was very nervous.	Er war sehr nervös.	वह बहुत घबराया हुआ था।
+He was very patient.	Er war sehr geduldig.	वह बहुत संयमी था।
+He went out fishing.	Er ging angeln.	वह मछली पकड़ने गया।
+He went to the shop.	Er ging zum Laden.	वह दुकान पर गया।
