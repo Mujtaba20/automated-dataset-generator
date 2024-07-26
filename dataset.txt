@@ -1,14 +1,4 @@
 
-I'm still undecided.	Ich bin noch unentschlossen.	मैं अभी भी अनिर्दिष्ट हूं।
-I'm still your boss.	Ich bin immer noch dein Chef.	मैं अभी भी आपका बॉस हूं।
-I'm still your boss.	Ich bin immer noch euer Chef.	मैं अभी भी आपका बॉस हूं।
-I'm still your boss.	Ich bin immer noch Ihr Chef.	मैं अभी भी आपका बॉस हूं।
-I'm studying French.	Ich lerne Französisch.	मै फ्रेंच सीख रहा हूँ।
-I'm sure I can help.	Ich bin mir sicher, dass ich helfen kann.	मुझे यकीन है कि मैं मदद कर सकता हूं।
-I'm sure Tom's fine.	Es geht Tom bestimmt gut.	टॉम निश्चित रूप से अच्छा कर रहा है।
-I'm sure about that.	Da bin ich mir sicher.	मुझे यकीन है।
-I'm sure about this.	Da bin ich mir sicher.	मुझे यकीन है।
-I'm taking Tom home.	Ich bringe Tom nach Hause.	मैं टॉम को घर ले आया।
 I'm taking this one.	Ich nehme das hier.	मैं इसे यहां ले जाता हूं।
 I'm taking this one.	Ich nehme den hier.	मैं इसे यहां ले जाता हूं।
 I'm taking this one.	Ich nehme die hier.	मैं उन्हें यहां ले जाता हूं।

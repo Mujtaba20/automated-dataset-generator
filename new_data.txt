@@ -27132,3 +27132,12 @@ I'm so proud of Tom.	Ich bin so stolz auf Tom.	मैं टॉम पर इत
 I'm so proud of you.	Ich bin so stolz auf dich.	मैं तुम पर इतना गर्व कर रहा हूँ।
 I'm sorry. I forgot.	Es tut mir leid. Ich habe vergessen.	मुझे माफ़ करना। मैं भूल गया।
 I'm still in school.	Ich bin immer noch in der Schule.	मैं अभी भी स्कूल में हूँ।
+I'm still undecided.	Ich bin immer noch unentschlossen.	मैं अभी भी अनिर्णायक हूँ।
+I'm still your boss.	Ich bin immer noch dein Chef.	मैं अब भी तुम्हारे बॉस हूँ।
+I'm still your boss.1	Ich bin immer noch dein Vorgesetzter.	मैं अब भी तुम्हारे अध्यक्ष हूँ।
+I'm studying French.	Ich studiere Französisch.	मैं फ्रेंच पढ़ रहा हूँ।
+I'm sure I can help.	Ich bin sicher, dass ich helfen kann.	मुझे यकीन है कि मैं मदद कर सकता हूँ।
+I'm sure Tom's fine.	Ich bin sicher, dass es Tom gut geht.	मुझे यकीन है कि टॉम ठीक है।
+I'm sure about that.	Da bin ich mir sicher.	मुझे उसके बारे में पूरा भरोसा है।
+I'm sure about this.	Da bin ich gewiss.	मुझे इसके बारे में पूरा विश्वास है।
+I'm taking Tom home.	Ich bringe Tom nach Hause.	मैं टॉम को घर ले जा रहा हूँ।
