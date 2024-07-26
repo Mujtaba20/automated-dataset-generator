@@ -1,14 +1,4 @@
 
-Tom always does this.	Tom macht das immer.	टॉम हमेशा ऐसा करता है।
-Tom always gets lost.	Tom verfährt sich jedes Mal.	टॉम हर बार करता है।
-Tom always gets lost.	Tom verirrt sich jedes Mal.	टॉम हर बार खो जाता है।
-Tom always gets lost.	Tom verläuft sich jedes Mal.	टॉम हर बार चलता है।
-Tom always said that.	Tom hat das immer gesagt.	टॉम ने हमेशा कहा कि।
-Tom and I are afraid.	Tom und ich, wir haben Angst.	टॉम और मैं डरते हैं।
-Tom and I are scared.	Tom und ich, wir haben Angst.	टॉम और मैं डरते हैं।
-Tom and I both snore.	Tom und ich, wir schnarchen alle beide.	टॉम और मैं, हम दोनों स्नोर।
-Tom and I were alone.	Tom und ich waren alleine.	टॉम और मैं अकेले थे।
-Tom and I'll do that.	Tom und ich werden das tun.	टॉम और मैं ऐसा करेंगे।
 Tom and Mary are out.	Tom und Maria sind draußen.	टॉम और मारिया बाहर हैं।
 Tom and Mary are out.	Tom und Maria sind ausgegangen.	टॉम और मारिया ने छोड़ दिया।
 Tom and Mary laughed.	Tom und Maria haben gelacht.	टॉम और मारिया हँसे।

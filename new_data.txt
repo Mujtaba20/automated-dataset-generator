@@ -34024,3 +34024,4 @@ Tom allowed me to go.	Tom erlaubte mir zu gehen.	टॉम ने मुझे �
 Tom almost got fired.	Tom wäre fast gefeuert worden.	टॉम लगभग नौकरी से निकाल दिया गया।
 Tom already did that.	Tom hat das schon gemacht.	टॉम ने वह पहले ही कर दिया।
 Tom always does that.	Tom macht das immer.	टॉम हमेशा ऐसा करता है।
+engSentence	Tom und ich werden das tun.	टॉम और मैं यह करेंगे।
