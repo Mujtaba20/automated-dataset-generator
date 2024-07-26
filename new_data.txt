@@ -28299,3 +28299,13 @@ These things happen.	Dies passiert.	ये चीजें होती रह�
 They are Christians.	Sie sind Christen.	वे ईसाई हैं।
 They are in the way.	Sie sind im Weg.	वे रास्ते में हैं।
 They are my cousins.	Sie sind meine Cousins.	वे मेरे चचेरे भाई बहन हैं।
+They are my friends.	Sie sind meine Freunde.	वे मेरे दोस्त हैं।
+They are my sisters.	Sie sind meine Schwestern.	वे मेरी बहनें हैं।
+They are unreliable.	Sie sind unzuverlässig.	वे अविश्वसनीय हैं।
+They aren't all bad.	Sie sind nicht alle schlecht.	वे सभी बुरे नहीं हैं।
+They aren't doctors.	Sie sind keine Ärzte.	वे डॉक्टर नहीं हैं।
+They aren't farmers.	Sie sind keine Bauern.	वे किसान नहीं हैं।
+They aren't like us.	Sie sind nicht wie wir.	वे हमारे जैसे नहीं हैं।
+They aren't related.	Sie sind nicht verwandt.	वे संबंधित नहीं हैं।
+They became nervous.	Sie wurden nervös.	वे घबराए हुए हो गए।
+They believe in God.	Sie glauben an Gott.	वे भगवान में विश्वास करते हैं।
