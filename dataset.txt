@@ -1,15 +1,4 @@
 
-Tom appears awkward.	Tom scheint unbeholfen zu sein.	टॉम अजीब लगता है।
-Tom appears nervous.	Tom scheint nervös zu sein.	टॉम नर्वस लगता है।
-Tom appears nervous.	Tom sieht nervös aus.	टॉम नर्वस दिखता है।
-Tom appears stunned.	Tom scheint verblüfft zu sein.	टॉम चकित हो रहा है।
-Tom appears stunned.	Tom sieht verblüfft aus.	टॉम चकित दिखता है।
-Tom appears worried.	Tom sieht besorgt aus.	टॉम चिंतित दिखता है।
-Tom appears worried.	Tom scheint besorgt zu sein.	टॉम चिंतित लग रहा है।
-Tom arrived in time.	Tom kam rechtzeitig an.	टॉम समय पर पहुंचे।
-Tom asked for money.	Tom bat um Geld.	टॉम ने पैसे मांगे।
-Tom asked something.	Tom fragte etwas.	टॉम ने कुछ पूछा।
-Tom asked something.	Tom hat etwas gefragt.	टॉम ने कुछ पूछा।
 Tom ate a TV dinner.	Tom hat sich ein Fertiggericht gemacht.	टॉम ने एक तैयार डिश बनाई है।
 Tom ate a TV dinner.	Tom hat sich ein Tiefkühlgericht gemacht.	टॉम ने एक जमे हुए पकवान बनाया है।
 Tom ate at his desk.	Tom aß am Schreibtisch.	टॉम ने डेस्क पर खाया।

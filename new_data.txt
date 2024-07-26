@@ -28545,3 +28545,10 @@ Tom and I have jobs.	Tom und ich haben Jobs.	टॉम और मैं नौ�
 Tom and Mary agreed.	Tom und Mary stimmten zu.	टॉम और मेरी सहमत हो गए।
 Tom and Mary hugged.	Tom und Mary umarmten sich.	टॉम और मेरी गले लग गए।
 Tom and Mary kissed.	Tom und Mary küssten sich.	टॉम और मेरी मुह छुम लिया।
+Tom appears awkward.	Tom wirkt ungeschickt.	टॉम अजीब लग रहा है।
+Tom appears nervous.	Tom wirkt nervös.	टॉम घबराया हुआ लग रहा है।
+Tom appears stunned.	Tom wirkt fassungslos.	टॉम हैरान नजर आ रहा है।
+Tom appears worried.	Tom wirkt besorgt.	टॉम परेशान लग रहा है।
+Tom arrived in time.	Tom kam rechtzeitig an.	टॉम समय पर पहुंच गया।
+Tom asked for money.	Tom bat um Geld.	टॉम ने पैसे मांगे।
+Tom asked something.	Tom fragte etwas.	टॉम ने कुछ पूछा।
