@@ -36578,3 +36578,13 @@ Everybody loves music.	Alle lieben Musik.	सभी को संगीत प�
 Everybody ran outside.	Alle rannten nach draußen.	सभी बाहर भागे।
 Everybody's different.	Jeder ist anders.	सभी अलग हैं।
 Everyone believed you.	Jeder hat dir geglaubt.	सभी ने तुम्हें विश्वास किया।
+Everyone but Tom came.	Alle außer Tom sind gekommen.	टॉम को छोड़कर सभी लोग आए।
+Everyone can see that.	Jeder kann das sehen.	सभी देख सकते हैं।
+Everyone can see that. - 2	Jeder erkennt das.	सभी देख सकते हैं।
+Everyone else is fine.	Alle anderen sind in Ordnung.	बाकी सब ठीक हैं।
+Everyone has problems.	Jeder hat Probleme.	सभी का समस्याएँ हैं।
+Everyone is an artist.	Jeder ist ein Künstler.	हर कोई कलाकार है।
+Everyone is different.	Jeder ist anders.	सभी अलग हैं।
+Everyone looked happy.	Alle sahen glücklich aus.	सभी खुश लग रहे थे।
+Everyone noticed that.	Jeder hat das bemerkt.	सभी ने यह देखा।
+Everyone was confused.	Alle waren verwirrt.	सभी उलझन में थे।
