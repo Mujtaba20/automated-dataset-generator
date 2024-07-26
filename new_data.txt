@@ -25276,3 +25276,10 @@ Did Tom tell anyone?	Hat Tom es jemandem gesagt?	क्या टॉमकिस
 Did Tom yell at you?	Hat Tom dich angeschrien?	क्या टॉमने तुमसे चिल्लाया?
 Did anybody see you?	Hat dich jemand gesehen?	क्या किसीने तुम्हें देखा है?
 Did anyone tell Tom?	Hat es jemand Tom gesagt?	क्या किसीने टॉमको बताया?
+Did everybody leave?	Hat jeder gegangen?	क्या सभी चले गए?
+Did they come today?	Sind sie heute gekommen?	क्या वे आज आए हैं?
+Did they understand?	Haben sie verstanden?	क्या उन्होंने समझा?
+Did you ask Tom why?	Hast du Tom warum gefragt?	क्या तुमने टॉम से पूछा क्यों?
+Did you believe Tom?	Hast du Tom geglaubt?	क्या तुमने टॉम पर विश्वास किया?
+Did you bring rolls?	Hast du Brötchen mitgebracht?	क्या आपने रोल्स लाए हैं?
+Did you bring rolls? 2	Hast du Brötchen mitgebracht?	क्या तुमने रोल्स लाए?
