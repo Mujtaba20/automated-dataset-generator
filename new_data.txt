@@ -30471,3 +30471,12 @@ Can I ask a question?	Kann ich eine Frage stellen?	क्या मैं सव
 Can I close the door?	Kann ich die Tür schließen?	क्या मैं दरवाजा बंद कर सकता हूँ?
 Can I eat in my room?	Kann ich in meinem Zimmer essen?	क्या मैं अपने कमरे में खा सकता हूँ?
 Can I eat this bread?	Kann ich dieses Brot essen?	क्या मैं यह रोटी खा सकता हूँ?
+Can I extend my stay?	Kann ich meinen Aufenthalt verlängern?	क्या मैं अपने रहने का समय बढ़ा सकता हूँ?
+Can I give you a hug?	Kann ich dich umarmen?	क्या मैं तुम्हें गले लगा सकता हूँ?
+Can I go out to play?	Kann ich rausgehen, um zu spielen?	क्या मैं बाहर खेलने जा सकता हूँ?
+Can I help you folks?	Kann ich euch helfen?	क्या मैं आपकी मदद कर सकता हूँ?
+Can I hold your hand?	Kann ich deine Hand halten?	क्या मैं तुम्हारा हाथ पकड़ सकता हूँ?
+Can I speak with Tom?	Kann ich mit Tom sprechen?	क्या मैं टॉम से बात कर सकता हूँ?
+Can I take a day off?	Kann ich einen Tag frei nehmen?	क्या मैं एक दिन के लिए छुट्टी ले सकता हूँ?
+Can I take a message?	Kann ich eine Nachricht entgegennehmen?	क्या मैं एक संदेश ले सकता हूँ?
+Can I turn on the TV?	Kann ich den Fernseher einschalten?	क्या मैं टीवी चालू कर सकता हूँ?
