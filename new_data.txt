@@ -27431,3 +27431,11 @@ It's getting colder.	Es wird kälter.	यह ठंडा हो रहा ह�
 It's getting larger.	Es wird größer.	यह बड़ा हो रहा है।
 It's going to be OK.	Alles wird gut.	सब ठीक हो जाएगा।
 It's going to break.	Es wird brechen.	यह टूटने जा रहा है।
+It's good, isn't it?	Es ist gut, oder?	यह अच्छा है, ना?
+It's happened to me.	Es ist mir passiert.	यह मेरे साथ हुआ है।
+It's hard, isn't it?	Es ist schwer, oder?	यह मुश्किल है, ना?
+It's hip and trendy.	Es ist modern und trendy.	यह हिप और ट्रेंडी है।
+It's just a fantasy.	Es ist nur eine Fantasie.	यह सिर्फ एक काल्पनिक कल्पना है।
+It's just a placebo.	Es ist nur ein Placebo.	यह सिर्फ एक प्लेसबो है।
+It's kind of creepy.	Es ist irgendwie gruselig.	यह कुछ भयंकर है।
+It's moist and warm.	Es ist feucht und warm.	यह गीला और गरम है।
