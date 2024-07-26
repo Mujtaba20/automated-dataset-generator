@@ -1,14 +1,4 @@
 
-Is anything happening?	Passiert irgendwas?	कुछ भी होता है?
-Is breakfast included?	Ist das Frühstück inbegriffen?	क्या इसमें नाश्ता शामिल है?
-Is everything OK here?	Ist hier alles in Ordnung?	क्या यहाँ सब ठीक है?
-Is it OK to park here?	Darf man hier parken?	क्या यहां पार्किंग की अनुमति है?
-Is it OK to sing here?	Darf hier gesungen werden?	क्या आप यहाँ गा सकते हैं?
-Is it Tuesday already?	Haben wir schon Dienstag?	क्या हमारे पास पहले से ही मंगलवार है?
-Is it Tuesday already?	Ist es schon Dienstag?	क्या यह मंगलवार है?
-Is it a boy or a girl?	Ist es ein Junge oder ein Mädchen?	क्या यह एक लड़का है या लड़की?
-Is it a direct flight?	Ist es ein Direktflug?	क्या यह एक सीधी उड़ान है?
-Is it an action movie?	Ist das ein Actionfilm?	क्या यह एक एक्शन फिल्म है?
 Is it cold in Germany?	Ist es in Deutschland kalt?	क्या यह जर्मनी में ठंडा है?
 Is it easy to install?	Ist das leicht zu installieren?	क्या इसे स्थापित करना आसान है?
 Is it near your house?	Ist es in der Nähe eures Hauses?	क्या यह आपके घर के पास है?

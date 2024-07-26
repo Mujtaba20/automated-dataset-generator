@@ -38402,3 +38402,12 @@ Is Tom still sleeping?	Schläft Tom noch?	क्या टॉम अभी भ�
 Is Tom still swimming?	Schwimmt Tom noch?	क्या टॉम अभी भी तैर रहा है?
 Is all this necessary?	Ist das alles notwendig?	क्या यह सब जरूरी है?
 Is anyone else hungry?	Ist noch jemand hungrig?	क्या किसी और को भूख लगी है?
+Is anything happening?	Geschieht etwas?	कुछ हो रहा है?
+Is breakfast included?	Ist das Frühstück inbegriffen?	क्या नाश्ता शामिल है?
+Is everything OK here?	Ist alles in Ordnung hier?	क्या सब कुछ ठीक है यहाँ?
+Is it OK to park here?	Ist es okay, hier zu parken?	क्या यहाँ पार्क करना ठीक है?
+Is it OK to sing here?	Ist es okay, hier zu singen?	क्या यहाँ गाना ठीक है?
+Is it Tuesday already?	Ist schon Dienstag?	क्या यह पहले से ही मंगलवार है?
+Is it a boy or a girl?	Ist es ein Junge oder ein Mädchen?	क्या यह एक लड़का है या एक लड़की?
+Is it a direct flight?	Ist es ein Direktflug?	क्या यह एक सीधी उड़ान है?
+Is it an action movie?	Ist es ein Actionfilm?	क्या यह एक क्रिया चित्रपट है?
