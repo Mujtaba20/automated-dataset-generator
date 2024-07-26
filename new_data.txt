@@ -34622,3 +34622,11 @@ Tom knows what it is.	Tom weiß, was es ist.	टॉम को पता है �
 Tom knows what to do.	Tom weiß, was zu tun ist.	टॉम को पता है कि क्या करना चाहिए।
 Tom knows where I am.	Tom weiß, wo ich bin.	टॉम को पता है कि मैं कहाँ हूँ।
 Tom knows who did it.	Tom weiß, wer es getan hat.	टॉम को पता है कि यह किसने किया है।
+Tom knows who we are.	Tom weiß, wer wir sind.	टॉम को पता है कि हम कौन हैं।
+Tom lacks confidence.	Tom fehlt es an Selbstvertrauen.	टॉम को आत्मविश्वास की कमी है।
+Tom lacks discipline.	Tom fehlt es an Disziplin.	टॉम को अनुशासन की कमी है।
+Tom lacks experience.	Tom fehlt es an Erfahrung.	टॉम को अनुभव की कमी है।
+Tom lacks motivation.	Tom fehlt es an Motivation.	टॉम को प्रेरणा की कमी है।
+Tom laughed heartily.	Tom lachte herzlich.	टॉम ने दिल से हंसा।
+Tom laughed out loud.	Tom lachte laut.	टॉम ने ऊचके हंसा।
+Tom left Mary behind.	Tom ließ Mary zurück.	टॉम ने मेरी को पीछे छोड़ दिया।

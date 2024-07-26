@@ -1,14 +1,4 @@
 
-Tom knows who we are.	Tom weiß, wer wir sind.	टॉम जानता है कि हम कौन हैं।
-Tom lacks confidence.	Es mangelt Tom an Selbstvertrauen.	टॉम के पास आत्म -संप्रदाय की कमी है।
-Tom lacks discipline.	Tom gebricht es an Disziplin.	टॉम इसे अनुशासन तक देता है।
-Tom lacks discipline.	Es fehlt Tom an Disziplin.	टॉम अनुशासन से गायब है।
-Tom lacks experience.	Tom mangelt es an Erfahrung.	टॉम में अनुभव की कमी है।
-Tom lacks motivation.	Es fehlt Tom an Motivation.	टॉम में प्रेरणा की कमी है।
-Tom lacks motivation.	Es fehlt Tom an Antrieb.	टॉम गायब है।
-Tom laughed heartily.	Tom lachte herzlich.	टॉम गर्मजोशी से हँसे।
-Tom laughed out loud.	Tom lachte laut los.	टॉम जोर से हँसे।
-Tom left Mary behind.	Tom ließ Mary zurück.	टॉम ने मैरी को छोड़ दिया।
 Tom left an hour ago.	Tom ist vor einer Stunde gegangen.	टॉम एक घंटे पहले छोड़ दिया था।
 Tom left at midnight.	Tom fuhr um Mitternacht ab.	टॉम ने आधी रात को छोड़ दिया।
 Tom left at midnight.	Tom ging um Mitternacht.	टॉम आधी रात को चला गया।
