@@ -31697,3 +31697,12 @@ I had a small mishap.	Mir ist ein kleines Missgeschick passiert.	मेरे �
 I had a tooth pulled.	Mir wurde ein Zahn gezogen.	मेरे दांतों में से एक निकाल लिया गया।
 I had an inspiration.	Ich hatte eine Eingebung.	मैंने एक संवेदना पाई।
 I had better ask her.	Ich sollte sie lieber fragen.	मुझे उससे बेहतर पूछना चाहिए।
+I had fun doing that.	Ich hatte Spaß dabei.	मुझे उसे करते समय मज़ा आया।
+I had fun doing this.	Ich hatte Spaß dabei.	मुझे यह करते समय मज़ा आया।
+I had lunch with Tom.	Ich habe Tom zum Mittagessen getroffen.	मैंने टॉम के साथ लंच किया।
+I had my watch fixed.	Ich habe meine Uhr reparieren lassen.	मेरी घड़ी ठीक करवादी।
+I had nothing to say.	Ich hatte nichts zu sagen.	मेरे पास कुछ कहने लायक नहीं था।
+I had to keep moving.	Ich musste in Bewegung bleiben.	मुझे आगे बढ़ते रहना था।
+I had to leave early.	Ich musste früh gehen.	मुझे जल्दी जाना पड़ा।
+I had to pay in cash.	Ich musste bar zahlen.	मुझे नकद में भुगतान करना पड़ा।
+I had to talk to Tom.	Ich musste mit Tom sprechen.	मुझे टॉम से बात करनी पड़ी।
