@@ -32862,3 +32862,12 @@ It's all very simple.	Es ist alles sehr einfach.	यह सब बहुत स�
 It's almost midnight.	Es ist fast Mitternacht.	यह लगभग आधी रात है।
 It's almost the same.	Es ist fast das Gleiche.	यह लगभग एक जैसा है।
 It's always the same.	Es ist immer dasselbe.	यह हमेशा वैसा ही होता है।
+It's an easy victory.	Es ist ein einfacher Sieg.	यह एक आसान जीत है।
+It's an extreme case.	Es ist ein äußerer Fall.	यह एक अत्यधिक मामला है।
+It's been a pleasure.	Es war ein Vergnügen.	यह एक आनंददायक अनुभव रहा है।
+It's been three days.	Es sind drei Tage vergangen.	तीन दिन हो गए हैं।
+It's better that way.	Es ist besser so.	ऐसे होना बेहतर है।
+It's bigger than Tom.	Es ist größer als Tom.	यह टॉम से बड़ा है।
+It's boiling in here.	Es kocht hier.	यहाँ उबल रहा है।
+It's double the size.	Es ist doppelt so groß.	यह आकार का दोगुना है।
+It's best not to ask.	Es ist am besten, nicht zu fragen.	पूछना अच्छा नहीं है।
