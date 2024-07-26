@@ -37908,3 +37908,10 @@ I tossed Tom the ball.	Ich warf Tom den Ball zu.	मैंने टॉम क�
 I tried to be careful.	Ich versuchte vorsichtig zu sein.	मैंने सावधान रहने की कोशिश की।
 I tried to stay awake.	Ich habe versucht wach zu bleiben.	मैंने जागरूक रहने की कोशिश की।
 I turned the doorknob.	Ich drehte den Türknauf.	मैंने दरवाजे का हैंडल घुमाया।
+I understand that now.	Das verstehe ich jetzt.	मुझे अब समझ आ गया है।
+I urgently need a job.	Ich brauche dringend einen Job.	मुझे एक नौकरी की तत्परता से आवश्यकता है।
+I used my imagination.	Ich habe meine Fantasie verwendet.	मैंने अपनी कल्पना का उपयोग किया।
+I used my imagination. (different meaning)	Ich habe meine Vorstellungskraft genutzt.	मैंने अपनी गोपनीयता का उपयोग किया।
+I used to be a dancer.	Früher war ich Tänzer.	मैं पहले एक नृत्यकारी था।
+I used to be like Tom.	Ich war wie Tom.	मैं टॉम के जैसा था।
+I used to be like you.	Ich war wie du.	मैं तुम्हारे जैसा होता था।
