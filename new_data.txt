@@ -31997,3 +31997,11 @@ I need a lot of them.	Ich brauche viele von ihnen.	मुझे उनमें 
 I need a new bicycle.	Ich brauche ein neues Fahrrad.	मुझे एक नयी साइकिल चाहिए।
 I need a translation.	Ich brauche eine Übersetzung.	मुझे एक अनुवाद चाहिए।
 I need a writing pad.	Ich brauche einen Schreibblock.	मुझे एक लेखन पैड चाहिए।
+I need an answer now.	Ich brauche jetzt eine Antwort.	मुझे अब तुरंत एक जवाब चाहिए।
+I need authorization.	Ich benötige Zulassung.	मुझे अनुमोदन चाहिए।
+I need more blankets.	Ich brauche mehr Decken.	मुझे और बिस्तर चाहिए।
+I need more practice.	Ich brauche mehr Übung.	मुझे और अभ्यास की आवश्यकता है।
+I need some guidance.	Ich brauche etwas Anleitung.	मुझे कुछ मार्गदर्शन चाहिए।
+I need that medicine.	Ich brauche das Medikament.	मुझे वह दवा चाहिए।
+I need time to think.	Ich brauche Zeit zum Nachdenken.	मुझे समय चाहिए सोचने के लिए।
+I need to buy stamps.	Ich muss Briefmarken kaufen.	मुझे टिकट खरीदने की जरूरत है।

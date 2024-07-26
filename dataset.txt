@@ -1,14 +1,4 @@
 
-I need an answer now.	Ich brauche jetzt eine Antwort.	मुझे अब एक जवाब चाहिए।
-I need authorization.	Ich brauche eine Erlaubnis.	मुझे अनुमति की जरूरत है।
-I need authorization.	Ich brauche eine Genehmigung.	मुझे अनुमोदन चाहिए।
-I need authorization.	Ich muss autorisiert werden.	मुझे अधिकृत होना है।
-I need more blankets.	Ich benötige mehr Bettdecken.	मुझे और अधिक की जरूरत है।
-I need more practice.	Ich brauche mehr Übung.	मुझे और अभ्यास की आवश्यकता है।
-I need some guidance.	Ich brauche Anleitung.	मुझे निर्देश चाहिए।
-I need that medicine.	Ich brauche diese Medizin.	मुझे इस दवा की जरूरत है।
-I need time to think.	Ich brauche Bedenkzeit.	मुझे उसके बारे मे सोचना है।
-I need to buy stamps.	Ich muss Briefmarken kaufen.	मुझे स्टैम्प खरीदना है।
 I need to go to work.	Ich muss zur Arbeit.	मुझे काम करने के लिए जाना है।
 I need to read a lot.	Ich muss viel lesen.	मुझे बहुत कुछ पढ़ना है।
 I need to study math.	Ich muss Mathe studieren.	मुझे गणित का अध्ययन करना है।
