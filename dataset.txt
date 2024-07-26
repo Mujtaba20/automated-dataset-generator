@@ -1,14 +1,4 @@
 
-Tom seems quite happy.	Tom scheint ziemlich glücklich zu sein.	टॉम बहुत खुश लग रहा है।
-Tom seems quite upset.	Tom scheint völlig bestürzt zu sein.	टॉम पूरी तरह से निराश हो रहा है।
-Tom seems really busy.	Tom scheint ziemlich beschäftigt zu sein.	टॉम बहुत व्यस्त लग रहा है।
-Tom seems to be angry.	Tom scheint wütend zu sein.	टॉम गुस्से में लगता है।
-Tom seems to be bored.	Tom scheint gelangweilt zu sein.	टॉम ऊब गया लगता है।
-Tom seems to be happy.	Tom scheint glücklich zu sein.	टॉम खुश लग रहा है।
-Tom seems to be lying.	Tom scheint zu lügen.	टॉम झूठ बोल रहा है।
-Tom seems to be tired.	Tom scheint müde zu sein.	टॉम थक गया लगता है।
-Tom seems to have won.	Tom scheint gewonnen zu haben.	लगता है कि टॉम जीता है।
-Tom seems unconvinced.	Tom scheint nicht überzeugt zu sein.	टॉम आश्वस्त नहीं लगता है।
 Tom seldom eats fruit.	Tom isst selten Obst.	टॉम शायद ही कभी फल खाते हैं।
 Tom seldom gets angry.	Tom wird selten böse.	टॉम शायद ही कभी बुराई करता है।
 Tom seldom watches TV.	Tom sieht selten fern.	टॉम शायद ही कभी दूर देखता है।

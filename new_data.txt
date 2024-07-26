@@ -40681,3 +40681,13 @@ Tom seemed very tired.	Tom schien sehr müde zu sein.	टॉम बहुत थ
 Tom seems incompetent.	Tom scheint inkompetent zu sein.	टॉम अक्षम लग रहा है।
 Tom seems intelligent.	Tom scheint intelligent zu sein.	टॉम बुद्धिमान लगता है।
 Tom seems intoxicated.	Tom scheint berauscht zu sein.	टॉम नशे में लग रहा है।
+Tom seems quite happy.	Tom scheint ziemlich glücklich zu sein.	टॉम बहुत खुश लग रहा है।
+Tom seems quite upset.	Tom scheint ziemlich verärgert zu sein.	टॉम बहुत उदास लग रहा है।
+Tom seems really busy.	Tom scheint wirklich beschäftigt zu sein.	टॉम वास्तव में व्यस्त लग रहा है।
+Tom seems to be angry.	Tom scheint wütend zu sein.	टॉम गुस्से में लग रहा है।
+Tom seems to be bored.	Tom scheint gelangweilt zu sein.	टॉम उबाऊ लग रहा है।
+Tom seems to be happy.	Tom scheint glücklich zu sein.	टॉम खुश लग रहा है।
+Tom seems to be lying.	Tom scheint zu lügen.	टॉम झूठ बोल रहा है।
+Tom seems to be tired.	Tom scheint müde zu sein.	टॉम थका हुआ लग रहा है।
+Tom seems to have won.	Tom scheint gewonnen zu haben.	टॉम जीत गया लग रहा है।
+Tom seems unconvinced.	Tom scheint nicht überzeugt zu sein.	टॉम अविश्वसनीय लग रहा है।
