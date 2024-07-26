@@ -34093,3 +34093,13 @@ Tom chased the thief.	Tom jagte den Dieb.	टॉम ने चोर का प�
 Tom checked the list.	Tom überprüfte die Liste.	टॉम ने सूची की जांच की।
 Tom chose the colors.	Tom wählte die Farben aus.	टॉम ने रंग चुने।
 Tom cleaned his room.	Tom putzte sein Zimmer.	टॉम ने अपने कमरे को साफ किया।
+Tom cleaned the room.	Tom hat das Zimmer geputzt.	टॉम ने कमरा साफ किया।
+Tom closed his mouth.	Tom schloss seinen Mund.	टॉम ने अपना मुँह बंद किया।
+Tom closed the doors.	Tom schloss die Türen.	टॉम ने दरवाजे बंद किए।
+Tom closed the store.	Tom schloss den Laden.	टॉम ने दुकान बंद की।
+Tom continued crying.	Tom weinte weiter.	टॉम रोना जारी रखा।
+Tom continued eating.	Tom aß weiter.	टॉम खाना जारी रखा।
+Tom cooked me dinner.	Tom kochte mir das Abendessen.	टॉम ने मुझे रात का खाना पकाया।
+Tom cooked the books.	Tom kochte die Bücher.	टॉम ने किताबें पकाई।
+Tom could've changed.	Tom hätte sich ändern können.	टॉम बदल सकता था।
+Tom could've done it.	Tom könnte es getan haben.	टॉम ने यह कर सकता था।
