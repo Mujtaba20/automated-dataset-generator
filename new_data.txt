@@ -33324,3 +33324,12 @@ She didn't buy bread.	Sie kaufte kein Brot.	उसने ब्रेड नह�
 She drives very fast.	Sie fährt sehr schnell.	वह बहुत तेज़ी से चलती है।
 She failed to appear.	Sie erschien nicht.	उसे प्रकट होने में विफलता हुई।
 She fell on her face.	Sie fiel auf ihr Gesicht.	उसने अपने चेहरे पर गिर गई।
+She felt a bit tired.	Sie fühlte sich ein wenig müde.	उसने थोड़ा थका हुआ महसूस किया।
+She felt like crying.	Sie fühlte sich wie weinen.	उसे रोने जैसा लगा।
+She fixed us a snack.	Sie machte uns einen Snack.	उसने हमें एक नाश्ता तैयार किया।
+She found him a seat.	Sie fand ihm einen Sitzplatz.	उसने उसे एक सीट ढूंढी।
+She gave him the car.	Sie gab ihm das Auto.	उसने उसे कार दी।
+She gets up at seven.	Sie steht um sieben Uhr auf.	वह सात बजे उठती है।
+She got what he said.	Sie hat verstanden, was er sagte.	उसने समझ लिया वह क्या कह रहा था।
+She has a big family.	Sie hat eine große Familie.	उसके पास एक बड़ा परिवार है।
+She has a good heart.	Sie hat ein gutes Herz.	उसके पास एक अच्छे दिल का दिल है।
