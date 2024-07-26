@@ -1,14 +1,4 @@
 
-I heard what happened.	Ich habe gehört, was passiert ist.	मैंने सुना कि क्या हुआ।
-I heard you were rich.	Ich habe gehört, du seiest reich.	मैंने सुना है तुम अमीर हो।
-I heard you were rich.	Ich habe gehört, Sie seien reich.	मैंने सुना कि वे अमीर हैं।
-I heard you were rich.	Ich habe gehört, ihr seiet reich.	मैंने सुना, तुम अमीर हो।
-I heard you were sick.	Ich habe gehört, du seiest krank.	मैंने सुना है तुम बीमार हो।
-I heard you were sick.	Ich habe gehört, ihr seiet krank.	मैंने सुना है तुम बीमार हो।
-I heard you were sick.	Ich habe gehört, Sie seien krank.	मैंने सुना है तुम बीमार हो।
-I hid behind the tree.	Ich versteckte mich hinter dem Baum.	मैं पेड़ के पीछे छिप गया।
-I hid in the basement.	Ich versteckte mich im Keller.	मैं तहखाने में छिप गया।
-I hid in the basement.	Ich habe mich im Keller versteckt.	मैं तहखाने में छिप गया।
 I hid it under my bed.	Ich habe es unter meinem Bett versteckt.	मैंने इसे अपने बिस्तर के नीचे छिपा दिया।
 I hid under the table.	Ich habe mich unter dem Tisch versteckt.	मैं मेज के नीचे छिप गया।
 I honestly don't care.	Es ist mir, ehrlich gesagt, egal.	सच कहूं तो, यह मेरे लिए कोई फर्क नहीं पड़ता।

@@ -37526,3 +37526,8 @@ I heard the bell ring.	Ich hörte die Glocke läuten.	मैंने घंट�
 I heard the door open.	Ich hörte die Tür öffnen.	मैंने दरवाजे खुलते हुए सुना।
 I heard the door slam.	Ich hörte die Tür zuschlagen.	मैंने दरवाजे को जड़ से बंद करते हुए सुना।
 I heard the good news.	Ich hörte die guten Nachrichten.	मैंने अच्छी खबरें सुनी।
+I heard what happened.	Ich habe gehört, was passiert ist.	मैंने सुना कि क्या हुआ।
+I heard you were rich.	Ich habe gehört, dass du reich bist.	मैंने सुना कि तुम धनवान हो।
+I heard you were sick.	Ich habe gehört, dass du krank bist.	मैंने सुना कि तुम बीमार हो।
+I hid behind the tree.	Ich habe mich hinter dem Baum versteckt.	मैंने पेड़ के पीछे छुपा गया।
+I hid in the basement.	Ich habe mich im Keller versteckt.	मैंने बेस्मेंट में छुपा गया।
