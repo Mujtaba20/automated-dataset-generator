@@ -22495,3 +22495,9 @@ May I use this cup?	Darf ich diese Tasse benutzen?	क्या मैं इस
 May I use this pen?	Darf ich diesen Stift benutzen?	क्या मैं इस पेन का इस्तेमाल कर सकता हूँ?
 Maybe I could help.	Vielleicht kann ich helfen.	शायद मैं मदद कर सकता हूँ।
 Maybe Tom is lying.	Vielleicht lügt Tom.	शायद टॉम झूठ बोल रहा है।
+Maybe he likes you.	Vielleicht gefällt er dir.	शायद वह तुम्हें पसंद करता है।
+Maybe it will snow.	Vielleicht wird es schneien.	शायद हिमपात होगा।
+Maybe they gave up.	Vielleicht haben sie aufgehört.	शायद उन्होंने अपनी कोशिश छोड़ दी।
+Maybe they're busy.	Vielleicht sind sie beschäftigt.	शायद वे व्यस्त हैं।
+Maybe you're right.	Vielleicht liegst du richtig.	शायद तुम सही हो।
+Meet me in an hour.	Triff mich in einer Stunde.	एक घंटे में मुलाकात करें।
