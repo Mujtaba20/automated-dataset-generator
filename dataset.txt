@@ -1,14 +1,4 @@
 
-Spring is drawing near.	Der Frühling kommt näher.	वसंत करीब आता है।
-Squirrels move quickly.	Eichhörnchen bewegen sich schnell.	गिलहरी जल्दी से चलती है।
-Stand by for my orders.	Erwarten Sie meine Befehle!	मेरी आज्ञाओं की अपेक्षा करें!
-Start at the beginning.	Beginne am Anfang.	शुरुआत में शुरू करें।
-Start at the beginning.	Beginnen Sie am Anfang.	शुरुआत में शुरू करें।
-Start at the beginning.	Beginnt am Anfang.	शुरुआत में शुरू होता है।
-Stay here and help Tom.	Bleib hier und hilf Tom!	यहाँ रहो और टॉम की मदद करो!
-Stay here and help Tom.	Bleibt hier und helft Tom!	यहाँ रहो और टॉम की मदद करता है!
-Stay here and help Tom.	Bleiben Sie hier und helfen Sie Tom!	यहाँ रहो और टॉम की मदद करो!
-Staying home isn't fun.	Zuhause bleiben ist kein Spass.	घर रहना मजेदार नहीं है।
 Stop being so immature.	Hör auf, so unreif zu sein!	इतना अपरिपक्व होना बंद करो!
 Stop being so immature.	Hört auf, so unreif zu sein!	इतना अपरिपक्व होना बंद करो!
 Stop being so immature.	Hören Sie auf, so unreif zu sein!	इतना अपरिपक्व होना बंद करो!
