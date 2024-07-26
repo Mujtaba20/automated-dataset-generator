@@ -1,14 +1,4 @@
 
-The law was changed.	Das Gesetz wurde geändert.	कानून बदल दिया गया है।
-The law was changed.	Das Gesetz ist geändert worden.	कानून बदल दिया गया है।
-The letter returned.	Der Brief kam zurück.	पत्र वापस आ गया।
-The lights went out.	Die Lichter gingen aus.	लाइट चली गई।
-The lights went out.	Das Licht ging aus.	प्रकाश बाहर चला गया।
-The line is engaged.	Die Leitung ist besetzt.	लाइन व्यस्त है.
-The lion is roaring.	Der Löwe brüllt.	शेर दहाड़ता है।
-The list is endless.	Die Liste ist endlos.	असीमित सूची है।
-The man took my arm.	Der Mann nahm meinen Arm.	आदमी ने मेरी बांह ले ली।
-The man was in rags.	Der Mann trug Lumpen.	आदमी ने लत्ता पहना था।
 The meat tastes bad.	Das Fleisch schmeckt schlecht.	मांस का स्वाद खराब होता है।
 The meat was tender.	Das Fleisch war zart.	मांस निविदा था।
 The monkey got away.	Der Affe entkam.	बंदर भाग गया।

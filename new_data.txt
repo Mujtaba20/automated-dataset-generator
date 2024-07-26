@@ -28217,3 +28217,11 @@ The idea is not new.	Die Idee ist nicht neu.	विचार नया नही
 The kids are asleep.	Die Kinder schlafen.	बच्चे सो रहे हैं।
 The kids are scared.	Die Kinder haben Angst.	बच्चे डरे हुए हैं।
 The lake was frozen.	Der See war gefroren.	झील जमी हुई थी।
+The law was changed.	Das Gesetz wurde verändert.	कानून बदल दिया गया था।
+The letter returned.	Der Brief kam zurück.	पत्र लौट आया।
+The lights went out.	Die Lichter gingen aus.	बत्तियाँ बंद हो गईं।
+The line is engaged.	Die Leitung ist besetzt.	लाइन व्यस्त है।
+The lion is roaring.	Der Löwe brüllt.	सिंह गर्ज रहा है।
+The list is endless.	Die Liste ist endlos.	सूची अंतहीन है।
+The man took my arm.	Der Mann nahm meinen Arm.	उस आदमी ने मेरा हाथ पकड़ लिया।
+The man was in rags.	Der Mann war in Lumpen.	उस आदमी के पसिने से गीला हो गया था।
