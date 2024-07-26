@@ -25383,3 +25383,13 @@ Do you want to sing?	Möchtest du singen?	क्या आप गाना च�
 Do you want to stop?	Möchtest du stoppen?	क्या आप बंद करना चाहेंगे?
 Do you want to talk?	Möchtest du sprechen?	क्या आप चिच्छोरी करना चाहते हैं?
 Do you wear glasses?	Hast du eine Brille?	क्या तुम्हारी आँखें चश्मा लगाने के लिए हैं?
+Does Tom eat grapes?	Isst Tom Trauben?	क्या टॉम अंगूर खाता है?
+Does Tom have a car?	Hat Tom ein Auto?	क्या टॉम के पास एक कार है?
+Does Tom have a job?	Hat Tom einen Job?	क्या टॉम का कोई काम है?
+Does Tom have a key?	Hat Tom einen Schlüssel?	क्या टॉम के पास एक कुंजी है?
+Does Tom have a son?	Hat Tom einen Sohn?	क्या टॉम का एक बेटा है?
+Does Tom live alone?	Lebt Tom alleine?	क्या टॉम अकेले रहता है?
+Does Tom make money?	Verdient Tom Geld?	क्या टॉम पैसे कमाता है?
+Does Tom understand?	Versteht Tom?	क्या टॉम समझता है?
+Does Tom want a car?	Möchte Tom ein Auto?	क्या टॉम को एक कार चाहिए?
+Does Tom wear boots?	Trägt Tom Stiefel?	क्या टॉम बूट पहनता है?

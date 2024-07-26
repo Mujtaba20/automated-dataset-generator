@@ -1,14 +1,4 @@
 
-Does Tom eat grapes?	Isst Tom Trauben?	क्या टॉम अंगूर खाते हैं?
-Does Tom have a car?	Hat Tom ein Auto?	क्या टॉम के पास एक कार है?
-Does Tom have a job?	Hat Tom eine Arbeit?	क्या टॉम के पास नौकरी है?
-Does Tom have a key?	Hat Tom einen Schlüssel?	क्या टॉम के पास एक कुंजी है?
-Does Tom have a son?	Hat Tom einen Sohn?	क्या टॉम का एक बेटा है?
-Does Tom live alone?	Wohnt Tom allein?	क्या टॉम अकेला रहता है?
-Does Tom make money?	Verdient Tom Geld dabei?	क्या टॉम पैसा कमाता है?
-Does Tom understand?	Versteht Tom?	टॉम को समझें?
-Does Tom want a car?	Will Tom ein Auto?	क्या टॉम एक कार चाहता है?
-Does Tom wear boots?	Trägt Tom Stiefel?	टॉम बूट पहनता है?
 Does it even matter?	Spielt das überhaupt eine Rolle?	क्या यह एक भूमिका निभाता है?
 Does she play piano?	Spielt sie Klavier?	क्या वह पियानो बजाती है?
 Does that even work?	Funktioniert das überhaupt?	क्या वह भी काम करता है?
