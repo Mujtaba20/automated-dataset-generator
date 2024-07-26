@@ -1,14 +1,4 @@
 
-What can I do for you?	Was kann ich für Sie tun?	मैं तुम्हारे लिए क्या कर सकता हूँ?
-What can I do for you?	Wie kann ich dir helfen?	मैं आपकी कैसे मदद कर सकता हूँ?
-What can I do to help?	Wie kann ich behilflich sein?	मैं कैसे सहायता कर सकता हूं?
-What can you teach me?	Was kannst du mir beibringen?	आप मुझे क्या सिखा सकते हैं?
-What can you teach me?	Was kannst du mich lehren?	आप मुझे क्या सिखा सकते हैं
-What did Tom do wrong?	Was hat Tom falsch gemacht?	टॉम ने क्या गलत किया?
-What did Tom find out?	Was hat Tom herausgefunden?	टॉम को क्या पता चला?
-What did Tom major in?	Was hat Tom studiert?	टॉम ने क्या अध्ययन किया?
-What did he do to you?	Was hat er dir getan?	उसने आपके साथ क्या किया?
-What did he look like?	Wie hat er ausgesehen?	वह कैसे दिखता था?
 What did his wife say?	Was hat seine Frau gesagt?	उसकी पत्नी ने क्या कहा?
 What did the note say?	Was stand auf der Notiz?	नोट पर क्या था?
 What did the note say?	Was stand in der Mitteilung?	संदेश में क्या था?

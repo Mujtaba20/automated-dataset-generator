@@ -41237,3 +41237,11 @@ What are you watching?	Was schaust du?	तुम क्या देख रह�
 What are your hobbies?	Was sind deine Hobbys?	तुम्हारे शौक क्या हैं?
 What book did you buy?	Welches Buch hast du gekauft?	तुमने कौनसी किताब खरीदी है?
 What book did you buy?_2	Welches Buch hast du erworben?	तुमने कौनसी पुस्तक खरीदी थी?
+What can I do for you?	Was kann ich für dich tun?	मैं आपके लिए क्या कर सकता हूँ?
+What can I do to help?	Was kann ich tun, um zu helfen?	मेरी किस प्रकार सहायता करने के लिए क्या हो सकता है?
+What can you teach me?	Was kannst du mich lehren?	तुम मुझे क्या सिखा सकते हो?
+What did Tom do wrong?	Was hat Tom falsch gemacht?	टॉम ने क्या गलत किया?
+What did Tom find out?	Was hat Tom herausgefunden?	टॉमने क्या पता लगाया?
+What did Tom major in?	Was hat Tom studiert?	टॉमने किसमें विशेषज्ञता प्राप्त की?
+What did he do to you?	Was hat er dir angetan?	उसने तुम्हारे साथ क्या किया?
+What did he look like?	Wie sah er aus?	वह कैसे दिखता था?
