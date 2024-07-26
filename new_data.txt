@@ -36269,3 +36269,11 @@ Did anyone follow you?	Hat dich jemand verfolgt?	क्या कोई तु�
 Did he go to see Mary?	Ist er zu Mary gefahren?	क्या उसने मेरी से मिलने के लिए जाना था?
 Did he propose to you?	Hat er dir einen Heiratsantrag gemacht?	क्या उसने तुम्हें प्रपोज किया था?
 Did he stay very long?	Ist er lange geblieben?	क्या वह बहुत देर तक रुका?
+Did it snow yesterday?	Hat es gestern geschneit?	क्या कल बर्फ गिरी थी?
+Did somebody get hurt?	Hat sich jemand verletzt?	किसी को चोट लगी थी?
+Did that make Tom mad?	Hat das Tom wütend gemacht?	क्या तोम को गुस्सा आया?
+Did that surprise you?	Hat dich das überrascht?	क्या यह तुम्हें आश्चर्यचकित किया?
+Did they call my name?	Haben sie meinen Namen gerufen?	क्या उन्होंने मेरा नाम बुलाया?
+Did you ask the price?	Hast du nach dem Preis gefragt?	क्या तुमने कीमत पूछी थी?
+Did you bring a towel?	Hast du ein Handtuch mitgebracht?	क्या तुमने एक तौलिया लाया था?
+Did you buy Tom a dog?	Hast du Tom einen Hund gekauft?	क्या तुमने टॉम को एक कुत्ता खरीदा था?

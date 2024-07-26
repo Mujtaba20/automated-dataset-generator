@@ -1,16 +1,4 @@
 
-Did it snow yesterday?	Hat es gestern geschneit?	क्या यह कल बर्फ था?
-Did somebody get hurt?	Ist jemand verletzt worden?	क्या किसी को चोट लगी है?
-Did that make Tom mad?	War Tom deswegen verärgert?	क्या टॉम उस वजह से नाराज था?
-Did that surprise you?	Hat dich das überrascht?	क्या इससे आपको आश्चर्य हुआ?
-Did that surprise you?	Hat Sie das überrascht?	क्या उसे आश्चर्य हुआ?
-Did that surprise you?	Hat euch das überrascht?	क्या इससे आपको आश्चर्य हुआ?
-Did they call my name?	Wurde mein Name aufgerufen?	क्या मेरा नाम पुकारा गया था?
-Did you ask the price?	Hast du dich nach dem Preis erkundigt?	क्या आपने कीमत के बारे में पूछताछ की?
-Did you bring a towel?	Haben Sie ein Handtuch mit?	क्या आपके साथ एक तौलिया है?
-Did you buy Tom a dog?	Hast du Tom einen Hund gekauft?	क्या आपने एक कुत्ता खरीदा?
-Did you buy Tom a dog?	Habt ihr Tom einen Hund gekauft?	क्या आपने एक कुत्ता खरीदा?
-Did you buy Tom a dog?	Haben Sie Tom einen Hund gekauft?	क्या आपने टॉम को एक कुत्ता खरीदा?
 Did you buy a new car?	Hast du ein neues Auto gekauft?	क्या आपने एक नई कार खरीदी?
 Did you buy a new car?	Hast du dir ein neues Auto gekauft?	क्या आपने एक नई कार खरीदी?
 Did you buy this book?	Hast du das Buch gekauft?	क्या आपने किताब खरीदी?
