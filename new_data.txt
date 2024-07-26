@@ -34748,3 +34748,12 @@ Tom often goes there. - Different Meaning	Tom geht oft dahin.	टॉम वह�
 Tom often helps Mary.	Tom hilft Mary oft.	टॉम अक्सर मेरी की मदद करता है।
 Tom only has one arm.	Tom hat nur einen Arm.	टॉम के पास सिर्फ एक हाथ है।
 Tom opened his mouth.	Tom öffnete den Mund.	टॉम ने मुह खोल दिया।
+Tom opened the cages.	Tom öffnete die Käfige.	टॉम ने केज खोली।
+Tom opened the diary.	Tom öffnete das Tagebuch.	टॉम ने डायरी खोली।
+Tom opened the doors.	Tom öffnete die Türen.	टॉम ने दरवाजे खोले।
+Tom opposed the plan.	Tom widersetzte sich dem Plan.	टॉम ने योजना का विरोध किया।
+Tom ought to do that.	Tom sollte das tun.	टॉमे को उसे करना चाहिए।
+Tom overpowered Mary.	Tom überwältigte Mary.	टॉम ने मेरी को अधिकतम किया।
+Tom owns a toy store.	Tom besitzt ein Spielzeuggeschäft.	टॉम के पास एक खिलौना स्टोर है।
+Tom paid a $300 fine.	Tom zahlte eine Strafe von 300 Dollar.	टॉम ने 300 डॉलर की जुर्माने भरी।
+Tom paid the cashier.	Tom bezahlte die Kassiererin.	टॉम ने कैशियर को भुगतान किया।
