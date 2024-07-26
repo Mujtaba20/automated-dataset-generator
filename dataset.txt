@@ -1,14 +1,4 @@
 
-I still need your help.	Ich brauche immer noch deine Hilfe.	मुझे अभी भी आपकी मदद चाहिए।
-I still need your help.	Ich brauche immer noch Ihre Hilfe.	मुझे अभी भी आपकी मदद चाहिए।
-I studied in Australia.	Ich habe in Australien studiert.	मैंने ऑस्ट्रेलिया में अध्ययन किया।
-I study French at home.	Ich lerne zu Hause Französisch.	मैं घर पर फ्रेंच सीख रहा हूं।
-I study hard at school.	In der Schule lerne ich fleißig.	मैं स्कूल में सीखने में व्यस्त हूं।
-I study many languages.	Ich lerne viele Sprachen.	मैं बहुत सारी भाषाएं सीखता हूं।
-I support the proposal.	Ich unterstütze den Vorschlag.	मैं प्रस्ताव का समर्थन करता हूं।
-I suppose you like him.	Ich nehme an, du magst ihn.	मुझे लगता है कि आप इसे पसंद करते हैं।
-I take it you know Tom.	Ich nehme an, du kennst Tom.	मुझे लगता है कि आप टॉम को जानते हैं।
-I take it you like Tom.	Ich nehme an, du magst Tom.	मुझे लगता है कि आप टॉम की तरह हैं।
 I thank you for coming.	Ich danke dir, dass du gekommen bist.	मैं आपको आने के लिए धन्यवाद देता हूं।
 I think I broke my leg.	Ich glaube, ich habe mir mein Bein gebrochen.	मुझे लगता है कि मैंने अपना पैर तोड़ दिया।
 I think I can fix this.	Das kann ich, denke ich, reparieren.	मुझे लगता है कि मैं इसकी मरम्मत कर सकता हूं।
