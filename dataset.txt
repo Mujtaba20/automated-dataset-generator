@@ -1,14 +1,4 @@
 
-I don't like summer.	Ich mag den Sommer nicht.	मुझे गर्मी पसंद नहीं है।
-I don't like to fly.	Ich fliege nicht gern.	मुझे उड़ना पसंद नहीं है।
-I don't like to run.	Ich laufe nicht gern.	मुझे दौड़ना पसंद नहीं।
-I don't mince words.	Ich nehme mir kein Blatt vor den Mund.	मैं अपने मुंह से पत्ती नहीं लेता।
-I don't mince words.	Ich sage, was ich denke.	मैं कहता हूं कि मुझे क्या लगता है।
-I don't need an SUV.	Ich brauche keinen Geländewagen.	मुझे एक ऑफ -रॉड वाहन की आवश्यकता नहीं है।
-I don't need anyone.	Ich brauche niemanden.	मुझे किसी की जरूरत नहीं है।
-I don't need it now.	Im Moment brauche ich das nicht.	फिलहाल मुझे इसकी आवश्यकता नहीं है।
-I don't play tennis.	Ich spiele kein Tennis.	मैं टेनिस नहीं खेलता।
-I don't quite agree.	Ich stimme nicht ganz zu.	मैं काफी सहमत नहीं हूं।
 I don't really care.	Es ist mir wirklich egal.	मुझे वास्तव में परवाह नहीं है।
 I don't really know.	Ich weiß nicht so recht.	मुझे पक्का यकीन नहीं है।
 I don't really know.	Ich weiß eigentlich nicht.	मैं वास्तव में नहीं जानता।

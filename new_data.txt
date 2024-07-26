@@ -26212,3 +26212,12 @@ I don't like onions.	Ich mag keine Zwiebeln.	मुझे प्याज़ प
 I don't like school.	Ich mag die Schule nicht.	मुझे स्कूल पसंद नहीं है।
 I don't like soccer.	Ich mag keinen Fußball.	मुझे फुटबॉल पसंद नहीं है।
 I don't like spring.	Ich mag den Frühling nicht.	मुझे बसंत पसंद नहीं है।
+I don't like summer.	Ich mag den Sommer nicht.	मुझे गर्मी पसंद नहीं है।
+I don't like to fly.	Ich fliege nicht gerne.	मुझे उड़ान भरना पसंद नहीं है।
+I don't like to run.	Ich renne nicht gerne.	मुझे दौड़ना पसंद नहीं है।
+I don't mince words.	Ich wähle meine Worte sorgfältig.	मुझे शब्दों की कसरत नहीं करनी चाहिए।
+I don't need an SUV.	Ich brauche kein SUV.	मुझे एक एसयूवी की आवश्यकता नहीं है।
+I don't need anyone.	Ich brauche niemanden.	मुझे किसी की जरूरत नहीं है।
+I don't need it now.	Ich brauche es jetzt nicht.	मुझे अब इसकी आवश्यकता नहीं है।
+I don't play tennis.	Ich spiele kein Tennis.	मैं टेनिस नहीं खेलता।
+I don't quite agree.	Ich stimme nicht ganz zu.	मुझे बिल्कुल भी सहमत नहीं है।
