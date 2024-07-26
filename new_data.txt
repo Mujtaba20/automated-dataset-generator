@@ -32155,3 +32155,12 @@ I think they like me.	Ich denke, sie mögen mich.	मुझे लगता ह�
 I think they like us.	Ich denke, sie mögen uns.	मुझे लगता है कि वे हमें पसंद करते हैं।
 I think they saw you.	Ich glaube, sie haben dich gesehen.	मुझे लगता है कि उन्होंने तुम्हें देखा है।
 I think this is good.	Ich denke, das ist gut.	मुझे लगता है कि यह अच्छा है।
+I think this is mine.	Ich denke, das ist meins.	मुझे लगता है कि यह मेरा है।
+I think we can do it.	Ich denke, wir können es schaffen.	मुझे लगता है कि हम इसे कर सकते हैं।
+I think we should go.	Ich denke, wir sollten gehen.	मुझे लगता है कि हमें जाना चाहिए।
+I think you know Tom.	Ich denke, du kennst Tom.	मुझे लगता है कि तुम टॉम को जानते हो।
+I think you know why.	Ich denke, du weißt warum.	मुझे लगता है कि तुम्हें पता है क्यों।
+I think you like Tom.	Ich denke, du magst Tom.	मुझे लगता है कि तुम्हें टॉम पसंद है।
+I think you look hot.	Ich denke, du siehst heiß aus.	मुझे लगता है कि तुम गरम लग रहे हो।
+I think you're lying.	Ich denke, du lügst.	मुझे लगता है कि तुम झूठ बोल रहे हो।
+I think you're ready.	Ich denke, du bist bereit.	मुझे लगता है कि तुम तैयार हो।

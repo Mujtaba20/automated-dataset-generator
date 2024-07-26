@@ -1,15 +1,4 @@
 
-I think this is mine.	Ich denke, das gehört mir.	मुझे लगता है कि यह मेरा है।
-I think we can do it.	Ich glaube, wir können es tun.	मुझे लगता है कि हम यह कर सकते हैं।
-I think we should go.	Ich denke, wir sollten gehen.	मुझे लगता है कि हमें जाना चाहिए।
-I think you know Tom.	Ich denke, du kennst Tom.	मुझे लगता है कि आप टॉम को जानते हैं।
-I think you know why.	Ich denke, du kennst den Grund.	मुझे लगता है कि आप इसका कारण जानते हैं।
-I think you like Tom.	Ich finde, du magst Tom.	मुझे लगता है कि आपको टॉम पसंद है।
-I think you look hot.	Ich finde, du siehst heiß aus.	मुझे लगता है कि आप गर्म दिखते हैं।
-I think you're lying.	Ich denke, du lügst.	मुझे लगता है कि आप झूठ बोल रहे हैं।
-I think you're ready.	Ich glaube, du bist bereit.	मुझे लगता है कि आप तैयार हैं।
-I think you're ready.	Ich glaube, Sie sind soweit.	मुझे लगता है कि आप तैयार हैं।
-I think you're ready.	Ich glaube, ihr seid fertig.	मुझे लगता है कि आप कर रहे हैं।
 I think you're right.	Ich glaube, du hast recht.	मुझे लगता है आप सही कह रहे हैं।
 I think you're right.	Ich glaube, dass du recht hast.	मुझे लगता है आप सही कह रहे हैं।
 I think you're right.	Ich glaube, Sie haben Recht.	मुझे लगता है आप सही कह रहे हैं।
