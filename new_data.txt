@@ -25869,3 +25869,13 @@ Her parents hate me.	Ihre Eltern hassen mich.	उसके माता-पि�
 Her speech bored me.	Ihre Rede langweilte mich.	उसके भाषण ने मुझे उबाया।
 Her whole body hurt.	Ihr ganzer Körper tat weh.	उसके पूरे शरीर में दर्द था।
 Here is your change.	Hier ist dein Wechselgeld.	यहाँ आपका बदला है।
+Here's a short list.	Hier ist eine kurze Liste.	यहाँ एक छोटी सी सूची है।
+Here's how we do it.	Hier ist, wie wir es machen.	यहाँ हम ऐसे करते हैं।
+Here's what I think.	Hier ist, was ich denke.	यहाँ मेरा विचार है।
+Here's what we know.	Hier ist, was wir wissen.	यहाँ वह है जो हम जानते हैं।
+Here's what we want.	Hier ist, was wir wollen.	यहाँ वह है जो हम चाहते हैं।
+Here's your pudding.	Hier ist dein Pudding.	यहाँ तुम्हारा पुडिंग है।
+Hey, how's it going?	Hey, wie läuft es?	हे, कैसी चल रही है?
+Hey, listen to this.	Hey, höre das.	हे, इसे सुनो।
+Hey, what do I know?	Hey, was weiß ich schon?	हे, मुझे क्या पता?
+Hey, you look great.	Hey, du siehst großartig aus.	हे, तुम शानदार दिखते हो।
