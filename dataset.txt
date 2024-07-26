@@ -1,14 +1,4 @@
 
-I know how to swim.	Ich kann schwimmen.	मैं तैर सकता हूं।
-I know it for sure.	Ich weiß es ganz sicher.	मुझे सुनिश्चित रुप से पता है।
-I know my daughter.	Ich kenne meine Tochter.	मैं अपनी बेटी को जानता हूं।
-I know the feeling.	Ich kenne das Gefühl.	मुझे पता है कि कैसा लग रहा होगा।
-I know the problem.	Ich kenne das Problem.	मुझे समस्या पता है।
-I know their names.	Ich kenne ihre Namen.	मुझे आपका नाम पता है।
-I know those girls.	Ich kenne diese Mädchen.	मैं इन लड़कियों को जानता हूं।
-I know those women.	Ich kenne diese Frauen.	मैं इन महिलाओं को जानता हूं।
-I know what I feel.	Ich weiß, was ich fühle.	मुझे पता है कि मुझे क्या लगता है।
-I know what I know.	Ich weiß, was ich weiß.	मुझे पता है कि मैं क्या जानता हूं।
 I know what I like.	Ich weiß, was ich mag.	मुझे पता है कि मुझे क्या पसंद है।
 I know what I said.	Ich weiß, was ich gesagt habe.	मुझे पता है कि मैंने क्या कहा।
 I know what I want.	Ich weiß, was ich will.	मुझे पता है कि मेरी चाहत क्या है।

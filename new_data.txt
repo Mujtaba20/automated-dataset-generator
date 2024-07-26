@@ -21376,3 +21376,13 @@ I know all of them.	Ich kenne sie alle.	मुझे सभी को पता 
 I know her by name.	Ich kenne sie mit Namen.	मैं उसका नाम जानता हूँ।
 I know him by name.	Ich kenne ihn mit Namen.	मैं उसका नाम जानता हूँ।
 I know his address.	Ich kenne seine Adresse.	मैं उसका पता जानता हूँ।
+I know how to swim.	Ich weiß, wie man schwimmt.	मुझे तैरना आता है।
+I know it for sure.	Ich weiß es sicher.	मुझे यह पूर्णत: पता है।
+I know my daughter.	Ich kenne meine Tochter.	मुझे मेरी बेटी का पता है।
+I know the feeling.	Ich kenne das Gefühl.	मुझे वह एहसास पता है।
+I know the problem.	Ich kenne das Problem.	मुझे समस्या पता है।
+I know their names.	Ich kenne ihre Namen.	मुझे उनके नाम पता है।
+I know those girls.	Ich kenne diese Mädchen.	मुझे वो लड़कियों का पता है।
+I know those women.	Ich kenne diese Frauen.	मुझे वो महिलाओं का पता है।
+I know what I feel.	Ich weiß, was ich fühle.	मुझे पता है कि मैं क्या महसूस कर रहा हूँ।
+I know what I know.	Ich weiß, was ich weiß.	मुझे पता है कि मैं क्या जानता हूँ।
