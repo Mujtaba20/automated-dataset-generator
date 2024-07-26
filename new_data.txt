@@ -41317,3 +41317,11 @@ What they say is true.	Was sie sagen, ist wahr.	वह जो कहते ह�
 What time do we leave?	Wann gehen wir los?	हम कितने बजे निकलेंगे?
 What time do you open?	Wann öffnen Sie?	आप कितने बजे खोलते हैं?
 What time is it there?	Wie spät ist es dort?	वहाँ कितना समय है?
+What time is your bus?	Wie spät ist dein Bus?	तुम्हारी बस कितने बजे है?
+What took Tom so long?	Warum hat Tom so lange gedauert?	टॉम को इतना समay क्यों लगा?
+What took you so long?	Warum hast du so lange gebraucht?	तुम्हें इतना समay क्यों लगा?
+What was Tom's answer?	Was war Toms Antwort?	टॉम का जवाब क्या था?
+What was it all about?	Worum ging es?	सब कुछ क्या था?
+What was the question?	Was war die Frage?	सवाल क्या था?
+What was the response?	Was war die Antwort?	जवाब क्या था?
+What went wrong there?	Was ist dort schief gelaufen?	वहाँ क्या गलत हुआ?

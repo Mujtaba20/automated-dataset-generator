@@ -1,14 +1,4 @@
 
-What time is your bus?	Wann fährt dein Bus?	आपकी बस कितने बजे की है?
-What time is your bus?	Wann fährt Ihr Bus?	आपकी बस ड्राइव कब करती है?
-What took Tom so long?	Weshalb hat Tom so lang gebraucht?	टॉम को इतनी लंबी जरूरत क्यों थी?
-What took you so long?	Warum hast du so lange gebraucht?	आपको इतना समय क्यों लगा?
-What was Tom's answer?	Was war Toms Antwort?	टॉम का जवाब क्या था?
-What was it all about?	Worum ging's?	यह किस बारे में था?
-What was the question?	Was war die Frage?	सवाल क्या था?
-What was the response?	Was war die Antwort?	क्या जवाब था?
-What was the response?	Wie lautete die Antwort?	क्या जवाब था?
-What went wrong there?	Was ist denn da schief gelaufen?	वहाँ क्या गलत हुआ?
 What were they saying?	Was haben sie gesagt?	क्या कहा आपने?
 What were we thinking?	Was haben wir uns bloß dabei gedacht?	हमने क्या सोचा?
 What would you change?	Was würdest du ändern?	तुम क्या बदलोगे?
