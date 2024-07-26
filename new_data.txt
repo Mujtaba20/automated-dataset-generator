@@ -30962,3 +30962,10 @@ He came into my room.	Er kam in mein Zimmer.	वह मेरे कमरे �
 He came to my rescue.	Er kam zu meiner Rettung.	उसने मेरी मदद के लिए आया।
 He can be counted on.	Man kann sich auf ihn verlassen.	उस पर भरोसा किया जा सकता है।
 He can't take a joke.	Er versteht keinen Spaß.	वह मजाक नहीं समझता।
+He cannot be trusted.	Man kann ihm nicht vertrauen.	उसपर भरोसा नहीं किया जा सकता।
+He caught a big fish.	Er hat einen großen Fisch gefangen.	उसने एक बड़ी मछली पकड़ी।
+He caught three fish.	Er hat drei Fische gefangen.	उन्होंने तीन मछलियां पकड़ीं।
+He comes from Geneva.	Er kommt aus Genf.	वह जिनेवा से आता है।
+He committed suicide.	Er beging Selbstmord.	उसने आत्महत्या की।
+He continued singing.	Er sang weiterhin.	वह गाना जारी रखता रहा।
+He continued to work.	Er arbeitete weiterhin.	वह काम करना जारी रखा।
