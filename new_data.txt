@@ -30720,3 +30720,9 @@ Do you still have it?	Hast du es noch?	क्या आपके पास अ�
 Do you still love me?	Liebst du mich noch?	क्या तुम मुझसे अब भी प्यार करते हो?
 Do you study English?	Studierst du Englisch?	क्या तुम अंग्रेजी पढ़ते हो?
 Do you talk about us?	Sprichst du über uns?	क्या तुम हमारे बारे में बात करते हो?
+Do you think I'm fat?	Denkst du, ich bin dick?	क्या आपको लगता है कि मैं मोटा हूँ?
+Do you trust Tom now?	Vertrauen Sie Tom jetzt?	क्या अब आप टॉम पर भरोसा करतें हैं?
+Do you trust Tom yet?	Vertrauen Sie Tom schon?	क्या अभी भी आप टॉम पर भरोसा करतें हैं?
+Do you understand it?	Verstehst du es?	क्या आपको यह समझ में आ रहा है?
+Do you understand me?	Verstehen Sie mich?	क्या आप मुझे समझ रहे हैं?
+Do you want a cookie?	Möchtest du einen Keks?	क्या आप एक कुकी चाहते हैं?

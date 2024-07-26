@@ -1,16 +1,4 @@
 
-Do you think I'm fat?	Findest du, dass ich dick bin?	क्या आपको लगता है कि मैं मोटा हूँ?
-Do you think I'm fat?	Findet ihr, dass ich dick bin?	क्या आपको लगता है कि मैं मोटा हूँ?
-Do you think I'm fat?	Finden Sie, dass ich dick bin?	क्या आपको लगता है कि मैं मोटा हूँ?
-Do you trust Tom now?	Vertraust du Tom jetzt?	क्या आपको अब टॉम पर भरोसा है?
-Do you trust Tom yet?	Traust du Tom noch über den Weg?	क्या आप अभी भी टॉम का पता लगाते हैं?
-Do you understand it?	Verstehst du das?	क्या तुम समझते हो कि?
-Do you understand it?	Hast du es verstanden?	क्या आपको मिला
-Do you understand me?	Verstehst du mich?	क्या आप मुझे समझते हैं?
-Do you understand me?	Versteht ihr mich?	क्या आप मुझे समझते हैं?
-Do you want a cookie?	Möchtest du ein Plätzchen?	क्या आप एक जगह चाहते हैं?
-Do you want a cookie?	Möchten Sie ein Plätzchen?	क्या आप एक जगह चाहेंगे?
-Do you want a cookie?	Möchtest du einen Keks?	क्या आप एक बिस्किट चाहते हैं?
 Do you want a lawyer?	Wollen Sie einen Anwalt?	क्या आप एक वकील चाहते हैं?
 Do you want a lawyer?	Willst du einen Anwalt?	क्या आप एक वकील चाहते हैं?
 Do you want a lawyer?	Wollt ihr einen Anwalt?	क्या आप एक वकील चाहते हैं?
