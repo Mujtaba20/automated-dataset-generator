@@ -22635,3 +22635,7 @@ Please don't do it.	Bitte nicht tun.	कृपया इसे न करें�
 Please don't shoot.	Bitte nicht schießen.	कृपया गोली न चलाएं।
 Please don't shout.	Bitte nicht schreien.	कृपया चिल्लाएं नहीं।
 Please get dressed.	Bitte zieh dich an.	कृपया पोशाक पहनें।
+Please give me one.	Bitte gib mir eins.	कृपया मुझे एक दें।
+Please have a seat.	Bitte setzen Sie sich hin.	कृपया आराम कीजिए।
+Please let me know.	Bitte lassen Sie es mich wissen.	कृपया मुझे जानकारी दें।
+Please let us know.	Bitte lassen Sie es uns wissen.	कृपया हमें बताएं।

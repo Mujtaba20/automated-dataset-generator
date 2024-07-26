@@ -1,15 +1,4 @@
 
-Please give me one.	Gib mir bitte einen.	कृपया मुझे एक दें।
-Please have a seat.	Setzen Sie sich, bitte.	कृपया बैठ जाओ।
-Please have a seat.	Bitte setzen Sie sich.	कृपया बैठ जाओ।
-Please have a seat.	Bitte nehmen Sie Platz.	एक सीट ले कृपया।
-Please have a seat.	Nehmen Sie bitte Platz!	आप आराम से तशरीफ रखिये!
-Please have a seat.	Nehmt bitte Platz.	कृपया जगह लें।
-Please let me know.	Lassen Sie es mich bitte wissen.	कृपया मुझे बताओ।
-Please let me know.	Gebt uns bitte Bescheid.	कृपया हमें बताएं।
-Please let me know.	Gib mir bitte Bescheid.	कृपया मुझे बताओ।
-Please let us know.	Gib uns bitte Bescheid.	कृपया हमें बताएं।
-Please let us know.	Gebt uns bitte Bescheid.	कृपया हमें बताएं।
 Please look for it.	Suche bitte danach!	कृपया इसे खोजें!
 Please look for it.	Suche es bitte!	कृपया इसे खोजें!
 Please make coffee.	Kannst du bitte Kaffee machen?	क्या आप कृपया कॉफी बना सकते हैं?
