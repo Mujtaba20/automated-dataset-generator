@@ -25296,3 +25296,9 @@ Did you leave a tip?	Hast du Trinkgeld gegeben?	क्या आपने टि
 Did you like Boston?	Hat dir Boston gefallen?	क्या आपको बॉस्टन पसंद आया?
 Did you hug anybody? (different meaning)	Hast du jemanden fest umarmt?	क्या आपने किसी को भारी गले लगाया?
 Did you just arrive? (different meaning)	Bist du gerade erst angekommen?	क्या आपने अभी हाल ही में पहुंचा है?
+Did you make coffee?	Hast du Kaffee gemacht?	क्या तुमने कॉफ़ी बनाई?
+Did you order pizza?	Hast du Pizza bestellt?	क्या तुमने पिज़्ज़ा ओर्डर किया?
+Did you play tennis?	Hast du Tennis gespielt?	क्या तुमने टेनिस खेला?
+Did you read it all?	Hast du alles gelesen?	क्या आपने सब पढ़ लिया है?
+Did you take a bath?	Hast du ein Bad genommen?	क्या तुमने स्नान किया है?
+Did you talk to Tom?	Hast du mit Tom geredet?	क्या तुमने टॉम से बात की?

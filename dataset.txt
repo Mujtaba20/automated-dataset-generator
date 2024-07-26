@@ -1,15 +1,4 @@
 
-Did you make coffee?	Hast du Kaffee gekocht?	क्या आपने कॉफी पाई?
-Did you order pizza?	Hast du Pizza bestellt?	क्या आपने पिज्जा का आदेश दिया?
-Did you order pizza?	Habt ihr Pizza bestellt?	क्या आपने पिज्जा का आदेश दिया?
-Did you order pizza?	Haben Sie Pizza bestellt?	क्या आपने पिज्जा का आदेश दिया है?
-Did you play tennis?	Hast du Tennis gespielt?	क्या आपने टेनिस खेला?
-Did you play tennis?	Spieltest du Tennis?	क्या आपने टेनिस खेला?
-Did you read it all?	Habt ihr alles gelesen?	क्या आपने सब कुछ पढ़ा?
-Did you read it all?	Hast du es ganz gelesen?	क्या आपने इसे पूरी तरह से पढ़ा?
-Did you take a bath?	Hast du gebadet?	क्या आपने स्नान किया?
-Did you talk to Tom?	Hast du mit Tom gesprochen?	क्या आपने टॉम से बात की?
-Did you talk to Tom?	Haben Sie mit Tom gesprochen?	क्या आपने टॉम से बात की?
 Did you tell on Tom?	Hast du Tom verpetzt?	क्या आपने टॉम दिया?
 Did you tell on Tom?	Habt ihr Tom verpetzt?	क्या आपने टॉम दिया?
 Did you yell at Tom?	Hast du Tom angeschrien?	क्या आपने टॉम चिल्लाया?
