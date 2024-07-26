@@ -34857,3 +34857,11 @@ Tom slept in the car.	Tom schlief im Wagen.	टॉम गाड़ी में 
 Tom slept on the bus.	Tom schlief im Bus.	टॉम बस पर सो गया।
 Tom slept peacefully.	Tom schlief friedlich.	टॉम शांतिपूर्वक सो गया।
 Tom slept restlessly.	Tom schlief unruhig.	टॉम बेचैनी से सो रहा था।
+Tom slipped and fell.	Tom ist ausgerutscht und hingefallen.	टॉम फिसल गया और गिर गया।
+Tom smiled nervously.	Tom lächelte nervös.	टॉम बेचैनी से मुस्कुराया।
+Tom sold his company.	Tom hat sein Unternehmen verkauft.	टॉम ने अपनी कंपनी बेची।
+Tom soon fell asleep.	Tom schlief bald ein.	टॉम जल्दी सो गया।
+Tom sounds desperate.	Tom klingt verzweifelt.	टॉम बेचैनी से लगता है।
+Tom speaks no French.	Tom spricht kein Französisch.	टॉम फ्रेंच नहीं बोलता।
+Tom speaks strangely.	Tom spricht merkwürdig.	टॉम अजीब तरह से बोलता है।
+Tom spilled some tea.	Tom hat etwas Tee verschüttet.	टॉम ने कुछ चाय गिराई।

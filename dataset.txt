@@ -1,14 +1,4 @@
 
-Tom slipped and fell.	Tom rutschte aus und fiel hin.	टॉम फिसल गया और गिर गया।
-Tom smiled nervously.	Tom lächelte nervös.	टॉम घबराकर मुस्कुराया।
-Tom sold his company.	Tom verkaufte seine Firma.	टॉम ने अपनी कंपनी बेच दी।
-Tom sold his company.	Tom hat seine Firma verkauft.	टॉम ने अपनी कंपनी बेच दी।
-Tom soon fell asleep.	Tom schlief bald ein.	टॉम जल्द ही सो गया।
-Tom sounds desperate.	Tom hört sich verzweifelt an.	टॉम हताश लगता है।
-Tom speaks no French.	Tom spricht kein Französisch.	टॉम फ्रेंच नहीं बोलता है।
-Tom speaks no French.	Tom kann kein Französisch.	टॉम फ्रेंच नहीं कर सकता।
-Tom speaks strangely.	Tom spricht komisch.	टॉम अजीब बात करता है।
-Tom spilled some tea.	Tom verschüttete Tee.	टॉम ने चाय को दफनाया।
 Tom spilled the milk.	Tom verschüttete die Milch.	टॉम ने दूध गिरा दिया।
 Tom spilled the milk.	Tom hat die Milch verschüttet.	टॉम ने दूध गिरा दिया।
 Tom squashed the bug.	Tom zertrat das Insekt.	टॉम ने कीट को कुचल दिया।
