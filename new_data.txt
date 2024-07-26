@@ -26763,3 +26763,12 @@ I want to come home.	Ich möchte nach Hause kommen.	मुझे घर आन�
 I want to come, too.	Ich möchte auch kommen.	मैं भी आना चाहता हूँ।
 I want to drink tea.	Ich möchte Tee trinken.	मुझे चाय पीनी है।
 I want to eat pizza.	Ich möchte Pizza essen.	मुझे पिज्जा खाना है।
+I want to eat steak.	Ich möchte Steak essen.	मुझे स्टेक खाना है।
+I want to get drunk.	Ich möchte betrunken werden.	मैं नशे में होना चाहता हूँ।
+I want to go abroad.	Ich möchte ins Ausland gehen.	मैं विदेश जाना चाहता हूँ।
+I want to go to bed.	Ich möchte ins Bett gehen.	मुझे सोने जाना है।
+I want to hear this.	Ich möchte das hören.	मैं यह सुनना चाहता हूँ।
+I want to keep that.	Ich möchte das behalten.	मुझे वह रखना है।
+I want to live here.	Ich möchte hier leben.	मैं यहाँ रहना चाहता हूँ।
+I want to get drunk. (different meaning)	Ich möchte malzbier trinken.	मैं माल्ट बीयर पीना चाहता हूँ।
+I want to keep this. (different meaning)	Ich möchte das hier aufbewahren.	मैं यह रखना चाहता हूँ।

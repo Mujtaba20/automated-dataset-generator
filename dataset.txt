@@ -1,14 +1,4 @@
 
-I want to eat steak.	Ich will Steak essen.	मैं स्टेक खाना चाहता हूं।
-I want to get drunk.	Ich will mich betrinken.	मुझे पीकर मदहोश होना है।
-I want to get drunk.	Ich will mich besaufen.	मुझे पीकर मदहोश होना है।
-I want to go abroad.	Ich will ins Ausland gehen.	मैं विदेश जाना चाहता हूँ।
-I want to go abroad.	Ich möchte ins Ausland gehen.	मैं विदेश जाना चाहता हूँ।
-I want to go to bed.	Ich will ins Bett.	मुझे सोने का मन है।
-I want to hear this.	Ich will das hören.	मैं यह सुनना चाहता हूं।
-I want to keep that.	Ich möchte das behalten.	मैं इसे रखना चाहता हूं।
-I want to keep this.	Ich will das hier behalten.	मैं इसे रखना चाहता हूं।
-I want to live here.	Ich will hier leben.	हम यहां रहना चाहते हैं।
 I want to look rich.	Ich möchte reich aussehen.	मैं अमीर दिखना चाहता हूं।
 I want to look rich.	Ich möchte einen vermögenden Eindruck machen.	मैं एक अमीर छाप बनाना चाहता हूं।
 I want to marry her.	Ich will sie heiraten.	मैं उससे शादी करना चाहता हूं।
