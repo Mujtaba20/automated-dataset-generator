@@ -1,14 +1,4 @@
 
-Tom wants to kill Mary.	Tom will Mary töten.	टॉम मैरी को मारना चाहता है।
-Tom wants to say hello.	Tom möchte Hallo sagen.	टॉम नमस्ते कहना चाहता है।
-Tom wants to stay here.	Tom will hierbleiben.	टॉम यहां रहना चाहता है।
-Tom wants to stop Mary.	Tom möchte Maria stoppen.	टॉम मारिया को रोकना चाहता है।
-Tom wants you to do it.	Tom möchte, dass du es tust.	टॉम चाहता है कि आप इसे करें।
-Tom wants you to drive.	Tom will, dass du fährst.	टॉम चाहता है कि आप ड्राइव करें।
-Tom was a good teacher.	Tom war ein guter Lehrer.	टॉम एक अच्छे शिक्षक थे।
-Tom was a little drunk.	Tom war etwas angetrunken.	टॉम थोड़ा नशे में था।
-Tom was a little tipsy.	Tom war leicht beschwipst.	टॉम थोड़ा टिप्सी था।
-Tom was a model inmate.	Tom war ein Musterinsasse.	टॉम एक मॉडल रहने वाला था।
 Tom was a rugby player.	Tom war Rugbyspieler.	टॉम एक रग्बी खिलाड़ी था।
 Tom was a stock broker.	Tom war ein Börsenmakler.	टॉम एक शेयर बाजार था।
 Tom was a troublemaker.	Tom war ein Störenfried.	टॉम एक संकटमोचक था।
