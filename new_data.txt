@@ -41026,3 +41026,11 @@ We didn't see anybody.	Wir haben niemanden gesehen.	हमने किसी �
 We didn't tell a soul.	Wir haben niemandem ein Wort gesagt.	हमने किसी को भी कुछ नहीं बताया।
 We do this every year.	Wir machen das jedes Jahr.	हम यह हर साल करते हैं।
 We do what we have to.	Wir tun, was wir tun müssen.	हम जो करना है वह करते हैं।
+We don't believe that.	Wir glauben nicht daran.	हम उसे नहीं मानते।
+We don't get out much.	Wir gehen nicht oft raus.	हम बहुत बार बाहर नहीं जाते।
+We don't have all day.	Wir haben nicht den ganzen Tag.	हमारे पास पूरा दिन नहीं है।
+We don't have answers.	Wir haben keine Antworten.	हमारे पास जवाब नहीं हैं।
+We don't speak French.	Wir sprechen kein Französisch.	हम फ्रेंच नहीं बोलते।
+We don't study French.	Wir lernen kein Französisch.	हम फ्रेंच नहीं पढ़ रहे हैं।
+We don't want to know.	Wir wollen es nicht wissen.	हम जानना नहीं चाहते।
+We eat a lot of bread.	Wir essen viel Brot.	हम बहुत सारा रोटी खाते हैं।
