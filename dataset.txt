@@ -1,14 +1,4 @@
 
-I think I should leave.	Ich denke, dass ich nun weggehen muss.	मुझे लगता है कि मुझे अब दूर जाना है।
-I think I'll go by bus.	Ich glaube, ich nehme den Bus.	मुझे लगता है कि मैं बस लेता हूं।
-I think I'll walk back.	Ich glaube, ich gehe zu Fuß zurück.	मुझे लगता है कि मैं वापस पैदल जा रहा हूं।
-I think I'm just tired.	Ich denke, dass ich einfach müde bin.	मुझे लगता है कि मैं सिर्फ थक गया हूं।
-I think I've done well.	Ich finde, das habe ich gut gemacht.	मुझे लगता है कि मैंने इसे अच्छा किया।
-I think Tom got scared.	Ich glaube, Tom bekam es mit der Angst zu tun.	मुझे लगता है कि टॉम को डर के साथ क्या करना है।
-I think Tom is a loser.	Ich glaube, Tom ist ein Versager.	मुझे लगता है कि टॉम एक विफलता है।
-I think Tom is a loser.	Ich glaube, dass Tom ein Versager ist.	मुझे लगता है कि टॉम एक विफलता है।
-I think Tom is correct.	Ich glaube, dass Tom Recht hat.	मुझे लगता है कि टॉम सही है।
-I think Tom is correct.	Ich glaube, dass Tom recht hat.	मुझे लगता है कि टॉम सही है।
 I think Tom is devious.	Ich denke, Tom ist verschlagen.	मुझे लगता है कि टॉम खत्म हो गया है।
 I think Tom is in love.	Ich glaube, Tom ist verliebt.	मुझे लगता है कि टॉम प्यार में है।
 I think Tom is jealous.	Ich glaube, Tom ist eifersüchtig.	मुझे लगता है कि टॉम ईर्ष्यालु है।
