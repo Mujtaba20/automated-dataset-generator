@@ -1,14 +1,4 @@
 
-The piano is expensive.	Das Klavier ist teuer.	पियानो महंगा है।
-The piano is expensive.	Das Piano ist teuer.	पियानो महंगा है।
-The pig is growing fat.	Das Schwein wird fett.	सुअर मोटा हो जाता है।
-The price includes tax.	Im Preis ist die Steuer enthalten.	कर को कीमत में शामिल किया गया है।
-The price includes tax.	Der Preis ist inklusive Steuer.	कीमत शामिल है।
-The price is up to you.	Der Preis liegt bei dir.	कीमत आपके साथ है।
-The price is up to you.	Der Preis ist dir überlassen.	कीमत आप पर निर्भर है।
-The printer broke down.	Der Drucker ist kaputtgegangen.	प्रिंटर टूट गया।
-The problem isn't ours.	Das Problem ist nicht unsres.	समस्या हमारी नहीं है।
-The project is ongoing.	Das Projekt ist im Gange.	परियोजना चल रही है।
 The prophecy came true.	Die Prophezeiung bewahrheitete sich.	भविष्यवाणी सच थी।
 The prophecy came true.	Die Prophezeiung erfüllte sich.	भविष्यवाणी पूरी हुई।
 The prophecy came true.	Die Prophezeiung trat ein.	भविष्यवाणी हुई।
