@@ -24438,3 +24438,13 @@ We're safe for now.	Wir sind jetzt sicher.	हम अब सुरक्षि�
 We're staying here.	Wir bleiben hier.	हम यहाँ ठहर रहे हैं।
 We're the Jacksons.	Wir sind die Jacksons.	हम जैक्सन्स हैं।
 We're the same age.	Wir sind im gleichen Alter.	हम वही उम्र के हैं।
+We're under attack.	Wir werden angegriffen.	हम हमले के तहत हैं।
+We're very curious.	Wir sind sehr neugierig.	हम बहुत जिज्ञासु हैं।
+We're very excited.	Wir sind sehr aufgeregt.	हम बहुत उत्सुक हैं।
+We're wasting time.	Wir verschwenden Zeit.	हम समय बर्बाद कर रहे हैं।
+We're with the CIA.	Wir sind beim CIA.	हम CIA के साथ हैं।
+We're with the FBI.	Wir sind beim FBI.	हम एफबीआई के साथ हैं।
+We've been patient.	Wir waren geduldig.	हमने संतोष बनाए रखा है।
+We've changed that.	Wir haben das geändert.	हमने उसे बदल दिया है।
+We've done nothing.	Wir haben nichts getan.	हमने कुछ नहीं किया।
+We've forgiven you.	Wir haben dir vergeben.	हमने तुम्हें माफ कर दिया है।

@@ -1,16 +1,4 @@
 
-We're under attack.	Wir werden angegriffen.	हम पर हमला कर रहे हैं।
-We're very curious.	Wir sind sehr neugierig.	हम बहुत उत्सुक हैं।
-We're very excited.	Wir sind sehr aufgeregt.	हम उत्सुक है।
-We're wasting time.	Wir verschwenden unsere Zeit.	हम अपना समय बर्बाद करते हैं।
-We're with the CIA.	Wir kommen vom CIA.	हम CIA से आते हैं।
-We're with the FBI.	Wir sind beim FBI.	हम एफबीआई में हैं।
-We've been patient.	Wir waren geduldig.	हम धैर्यवान थे।
-We've changed that.	Wir haben das geändert.	हमने इसे बदल दिया।
-We've done nothing.	Wir haben nichts getan.	हमने कुछ नहीं किया।
-We've forgiven you.	Wir haben dir verziehen.	हमने आपको माफ कर दिया।
-We've forgiven you.	Wir haben euch verziehen.	हमने आपको माफ कर दिया।
-We've forgiven you.	Wir haben Ihnen verziehen.	हमने आपको माफ कर दिया।
 We've got to hurry.	Wir müssen uns beeilen.	हम जल्दी में हैं.
 We've just arrived.	Wir sind eben erst angekommen.	हम बस पहुंचे।
 We've just started.	Wir haben gerade angefangen.	हमने अभी शुरुआत की है।
