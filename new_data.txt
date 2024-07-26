@@ -20847,3 +20847,9 @@ He speaks too fast.	Er spricht zu schnell.	वह बहुत तेज़ी �
 He spoke very well.	Er hat sehr gut gesprochen.	उसने बहुत अच्छे से बोला।
 He started singing.	Er fing an zu singen.	उसने गाना शुरू किया।
 He started to sing.	Er begann zu singen.	वह गाने की शुरुआत की।
+He still loves her.	Er liebt sie immer noch.	वह आज भी उससे प्यार करता है।
+He stole the money.	Er hat das Geld gestohlen.	उसने धन चोरी किया।
+He stood behind me.	Er stand hinter mir.	वह मेरे पीछे था।
+He stopped smoking.	Er hörte auf zu rauchen.	उसने धूम्रपान छोड़ दिया।
+He stopped talking.	Er hörte auf zu reden.	उसने बात करना बंद कर दिया।
+He teaches English.	Er unterrichtet Englisch.	वह अंग्रेजी पढ़ाता है।
