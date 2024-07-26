@@ -1,14 +1,4 @@
 
-There are books here.	Hier sind Bücher.	यहाँ किताबें हैं।
-There are books here.	Hier gibt es Bücher.	यहां किताबें हैं।
-There are challenges.	Es gibt Herausforderungen.	चुनौतियां हैं।
-There are exceptions.	Es gibt Ausnahmen.	अपवाद हैं।
-There is an antidote.	Es gibt ein Gegenmittel.	एक मारक है।
-There is no antidote.	Es gibt kein Gegengift.	कोई मारक नहीं है।
-There is no solution.	Es gibt keine Lösung.	कोई समाधान नहीं है।
-There is one problem.	Es gibt ein Problem.	एक समस्या है।
-There isn't any hope.	Es gibt keine Hoffnung.	कोई आशा नही है।
-There isn't any soap.	Es ist keine Seife da.	साबुन नहीं है.
 There were no knives.	Es waren keine Messer da.	कोई चाकू नहीं थे।
 There were two cakes.	Es gab zwei Kuchen.	दो केक थे।
 There were witnesses.	Es gab Zeugen.	गवाह थे।

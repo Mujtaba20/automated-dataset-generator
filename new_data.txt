@@ -33733,3 +33733,12 @@ The windows are open.	Die Fenster sind geöffnet.	खिड़कियाँ �
 The woman is reading.	Die Frau liest.	महिला पढ़ रही है।
 The wound is healing.	Die Wunde heilt.	जख्म भर रहा है।
 Their cakes are good.	Ihre Kuchen sind gut.	उनकी केक अच्छे हैं।
+There are books here.	Es gibt Bücher hier.	यहाँ किताबें हैं।
+There are challenges.	Es gibt Herausforderungen.	मुश्किलें हैं।
+There are exceptions.	Es gibt Ausnahmen.	छूट है।
+There is an antidote.	Es gibt ein Gegenmittel.	एक उपचार है।
+There is no antidote.	Es gibt kein Gegenmittel.	कोई उपचार नहीं है।
+There is no solution.	Es gibt keine Lösung.	कोई समाधान नहीं है।
+There is one problem.	Es gibt ein Problem.	एक समस्या है।
+There isn't any hope.	Es gibt keine Hoffnung.	कोई आशा नहीं है।
+There isn't any soap.	Es gibt keine Seife.	कोई साबुन नहीं है।
