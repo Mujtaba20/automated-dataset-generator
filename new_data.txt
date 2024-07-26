@@ -22897,3 +22897,13 @@ That'll have to do.	Das wird reichen müssen.	वह करना होगा�
 That'll never work.	Das wird nie funktionieren.	वह कभी नहीं काम करेगा।
 That's OK with Tom.	Das ist in Ordnung für Tom.	टॉम के लिए ठीक है।
 That's Tom's horse.	Das ist Toms Pferd.	वह टॉम का घोड़ा है।
+That's Tom's house.	Das ist Toms Haus.	वह टॉम का घर है।
+That's Tom's watch.	Das ist Toms Uhr.	वह टॉम की घड़ी है।
+That's a good idea!	Das ist eine gute Idee!	यह एक अच्छी विचार है!
+That's a good idea.	Das ist eine gute Idee.	बस एक अच्छी विचार है।
+That's a good joke.	Das ist ein guter Witz.	यह एक अच्छा मजाक है।
+That's a good plan.	Das ist ein guter Plan.	यह एक अच्छा योजना है।
+That's a good sign.	Das ist ein gutes Zeichen.	यह एक अच्छा संकेत है।
+That's a man's job.	Das ist eine Männerarbeit.	वह एक पुरुष का काम है।
+That's a nice coat.	Das ist ein schöner Mantel.	यह एक अच्छी कोट है।
+That's a nice song.	Das ist ein schönes Lied.	यह एक अच्छा गाना है।

@@ -1,14 +1,4 @@
 
-That's Tom's house.	Das ist Toms Haus.	यह टॉम का घर है।
-That's Tom's watch.	Das ist Toms Uhr.	यह टॉम्स क्लॉक है।
-That's a good idea!	Das ist eine gute Idee!	वह एक अच्छा विचार है!
-That's a good idea.	Das ist eine gute Idee.	वह एक अच्छा विचार है।
-That's a good joke.	Das ist ein guter Witz.	यह एक अच्छा मजाक है।
-That's a good plan.	Das ist ein guter Plan.	एक अच्छी योजना है।
-That's a good sign.	Das ist ein gutes Zeichen.	यह एक अच्छा संकेत है।
-That's a man's job.	Das ist Männerarbeit.	यह पुरुष काम है।
-That's a nice coat.	Das ist ein hübscher Mantel.	यह एक सुंदर कोट है।
-That's a nice song.	Das ist ein hübsches Lied.	यह एक सुंदर गीत है।
 That's a total lie.	Das ist eine totale Lüge.	यह कुल झूठ है।
 That's all we know.	Das ist alles, was wir wissen.	यह सब हम जानते हैं।
 That's an old joke.	Das ist ein alter Witz.	यह एक पुराना मजाक है।
