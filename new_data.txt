@@ -32164,3 +32164,10 @@ I think you like Tom.	Ich denke, du magst Tom.	मुझे लगता है 
 I think you look hot.	Ich denke, du siehst heiß aus.	मुझे लगता है कि तुम गरम लग रहे हो।
 I think you're lying.	Ich denke, du lügst.	मुझे लगता है कि तुम झूठ बोल रहे हो।
 I think you're ready.	Ich denke, du bist bereit.	मुझे लगता है कि तुम तैयार हो।
+I think you're right.	Ich denke, du hast recht.	मुझे लगता है तुम सही हो।
+I think you're wrong.	Ich denke, du liegst falsch.	मुझे लगता है तुम गलत हो।
+I thought I knew you.	Ich dachte, ich kannte dich.	मुझे लगा मैं तुम्हें जानता था।
+I thought I was dead.	Ich dachte, ich sei tot.	मुझे लगा मैं मर गया था।
+I thought Tom did it.	Ich dachte, Tom hat es gemacht.	मुझे लगा टॉम ने यह किया।
+I thought about that.	Ich habe darüber nachgedacht.	मैंने उसके बारे में सोचा।
+I thought you'd left.	Ich dachte, du wärst gegangen.	मुझे लगा तुम चले गए हो।

@@ -1,15 +1,4 @@
 
-I think you're right.	Ich glaube, du hast recht.	मुझे लगता है आप सही कह रहे हैं।
-I think you're right.	Ich glaube, dass du recht hast.	मुझे लगता है आप सही कह रहे हैं।
-I think you're right.	Ich glaube, Sie haben Recht.	मुझे लगता है आप सही कह रहे हैं।
-I think you're right.	Ich glaube, ihr habt recht.	मुझे लगता है आप सही कह रहे हैं।
-I think you're wrong.	Ich glaube, du irrst dich.	मुझे लगता है आप ग़लत हैं।
-I thought I knew you.	Ich dachte, ich kenn dich.	मुझे लगा कि मैं आपको जानता हूं।
-I thought I was dead.	Ich dachte, ich wäre tot.	मुझे लगा कि मैं मर चुका हूं।
-I thought Tom did it.	Ich dachte, Tom hätte das getan.	मुझे लगा कि टॉम ने ऐसा किया है।
-I thought about that.	Ich habe darüber nachgedacht.	मैंने इसके बारे में सोचा था।
-I thought you'd left.	Ich dachte, du seiest gegangen.	मुझे लगा कि आप चले गए हैं।
-I thought you'd left.	Ich dachte, Sie seien gegangen.	मुझे लगा कि वे चले गए।
 I told Tom the story.	Ich habe Tom die Geschichte erzählt.	मैंने टॉम को कहानी सुनाई।
 I told Tom the truth.	Ich sagte Tom die Wahrheit.	मैंने कहा कि टॉम सच है।
 I told her not to go.	Ich hielt sie an, nicht zu gehen.	मैंने नहीं जाना बंद कर दिया।
