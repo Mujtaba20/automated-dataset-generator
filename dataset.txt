@@ -1,14 +1,4 @@
 
-Tom doesn't trust us.	Tom traut uns nicht.	टॉम हम पर भरोसा नहीं करता है।
-Tom doesn't want one.	Tom will keinen.	टॉम नहीं चाहता।
-Tom doesn't want you.	Tom will dich nicht.	टॉम आपको नहीं चाहता।
-Tom doesn't watch TV.	Tom guckt kein Fernsehen.	टॉम टेलीविजन नहीं देखता है।
-Tom doesn't watch TV.	Tom sieht nicht fern.	टॉम दूर नहीं देखता।
-Tom drank the potion.	Tom schluckte den Trank.	टॉम ने पोशन को निगल लिया।
-Tom drives very fast.	Tom fährt sehr schnell.	टॉम बहुत जल्दी ड्राइव करता है।
-Tom eats like a bird.	Tom isst wie ein Spatz.	टॉम एक गौरैया की तरह खाता है।
-Tom eats like a bird.	Tom isst wie ein Vögelchen.	टॉम एक पक्षी की तरह खाता है।
-Tom embraced his son.	Tom umarmte seinen Sohn.	टॉम ने अपने बेटे को गले लगाया।
 Tom ended up in jail.	Tom landete im Gefängnis.	टॉम जेल में उतरा।
 Tom endured the pain.	Tom ertrug den Schmerz.	टॉम ने दर्द को समाप्त कर दिया।
 Tom enjoyed his stay.	Tom hat seinen Besuch genossen.	टॉम ने अपनी यात्रा का आनंद लिया।

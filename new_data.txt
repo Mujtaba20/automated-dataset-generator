@@ -34166,3 +34166,11 @@ Tom doesn't know you.	Tom kennt dich nicht.	टॉम तुम्हें न�
 Tom doesn't like you.	Tom mag dich nicht.	टॉम तुम्हें पसंद नहीं करता।
 Tom doesn't look old.	Tom sieht nicht alt aus.	टॉम बूढ़ा नहीं लगता।
 Tom doesn't think so.	Tom denkt nicht so.	टॉम ऐसा नहीं सोचता।
+Tom doesn't trust us.	Tom vertraut uns nicht.	टॉम हमें भरोसा नहीं करता।
+Tom doesn't want one.	Tom will keinen.	टॉम किसी को नहीं चाहता।
+Tom doesn't want you.	Tom will dich nicht.	टॉम तुम्हें नहीं चाहता।
+Tom doesn't watch TV.	Tom schaut kein Fernsehen.	टॉम टीवी नहीं देखता।
+Tom drank the potion.	Tom trank den Trank.	टॉम ने पोषण पी लिया।
+Tom drives very fast.	Tom fährt sehr schnell.	टॉम बहुत तेज़ी से चलाता है।
+Tom eats like a bird.	Tom isst wie ein Vogel.	टॉम पंछी की तरह खाता है।
+Tom embraced his son.	Tom umarmte seinen Sohn.	टॉम ने अपने बेटे को गले लगाया।
