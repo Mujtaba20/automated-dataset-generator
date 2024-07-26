@@ -32826,3 +32826,11 @@ It wasn't Tom's idea.	Es war nicht Toms Idee.	यह टॉम का विच�
 It wasn't a burglary.	Es war kein Einbruch.	यह एक घर में चोरी नहीं था।
 It wasn't about that.	Es ging nicht darum.	यह उसके बारे में नहीं था।
 It wasn't hard to do.	Es war nicht schwer zu tun.	इसे करना मुश्किल नहीं था।
+It wasn't on purpose.	Es war nicht absichtlich.	यह उद्देश्यपूर्ण नहीं था।
+It wasn't that funny.	Es war nicht so lustig.	यह इतना मजेदार नहीं था।
+It wasn't your fault.	Es war nicht deine Schuld.	यह तुम्हारी ग़लती नहीं थी।
+It will be dark soon.	Es wird bald dunkel sein.	जल्द ही अंधेरा हो जाएगा।
+It will soon be dark.	Es wird bald dunkel werden.	जल्द ही अंधेरा होगा।
+It won't be for long.	Es wird nicht lange dauern.	यह लंबा समय नहीं रहेगा।
+It won't be long now.	Es wird jetzt nicht mehr lange dauern.	अब यह लंबा समय नहीं रहेगा।
+It won't be pleasant.	Es wird nicht angenehm sein.	यह सुखद नहीं होगा।
