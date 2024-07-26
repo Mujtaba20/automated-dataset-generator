@@ -1,14 +1,4 @@
 
-How was the wedding?	Wie war die Hochzeit?	शादी कैसी रही?
-How was your flight?	Wie war dein Flug?	आपकी उड़ान कैसी थी?
-How was your summer?	Wie war dein Sommer?	आपका गर्मी का मौसम कैसा था?
-How was your summer?	Wie war euer Sommer?	आपका गर्मी का मौसम कैसा था?
-How was your summer?	Wie war Ihr Sommer?	आपका गर्मी का मौसम कैसा था?
-How's it going, Tom?	Wie läuft es, Tom?	यह कैसा चल रहा है, टॉम?
-How's my wife doing?	Wie geht es meiner Frau?	मेरी पत्नी कैसे कर रही है?
-How's that possible?	Wie ist das möglich?	वह कैसे संभव है?
-How's your shoulder?	Wie geht es deiner Schulter?	आपका कंधा कैसा है?
-How's your shoulder?	Wie geht es Ihrer Schulter?	आपका कंधा कैसा है?
 Hurry up, it's late.	Beeil dich! Es ist spät.	जल्दी करो!उसे देर हो गई है.
 I accept your offer.	Ich nehme Ihr Angebot an.	मैं आपके प्रस्ताव को स्वीकार करता हूं।
 I accept your terms.	Ich akzeptiere deine Bedingungen.	मैं आपकी शर्तों को स्वीकार करता हूं।

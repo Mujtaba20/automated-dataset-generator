@@ -25969,3 +25969,11 @@ How serious are you?	Wie ernst bist du?	तुम कितने गंभी�
 How strange life is!	Wie seltsam das Leben ist!	कितना अजीब है जीवन!
 How was Tom's party?	Wie war Toms Party?	टॉम की पार्टी कैसी थी?
 How was the concert?	Wie war das Konzert?	कॉन्सर्ट कैसा था?
+How was the wedding?	Wie war die Hochzeit?	शादी कैसी थी?
+How was your flight?	Wie war Ihr Flug?	आपका फ्लाइट कैसी थी?
+How was your summer?	Wie war dein Sommer?	तुम्हारा गर्मी कैसा था?
+How was your summer? - Different meaning	Wie war dein Sommer?	तुम्हारा व्यायाम कैसा गया?
+How's it going, Tom?	Wie geht's, Tom?	बताओ, टॉम, कैसी चल रही है?
+How's my wife doing?	Wie geht es meiner Frau?	मेरी पत्नी कैसे हैं?
+How's that possible?	Wie ist das möglich?	ये कैसे संभव है?
+How's your shoulder?	Wie geht es deiner Schulter?	तुम्हारी कंधी कैसी है?
