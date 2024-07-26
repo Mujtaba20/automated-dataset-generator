@@ -1,14 +1,4 @@
 
-You have to help us.	Du musst uns helfen.	आपको हमारी मदद करनी होगी।
-You have to help us.	Ihr müsst uns helfen.	आपको हमारी मदद करनी होगी।
-You have to help us.	Sie müssen uns helfen.	आपको हमारी मदद करनी होगी।
-You have to stop it.	Du musst damit aufhören.	तुम्हें रुकना होगा।
-You have to stop it.	Du musst mit dem aufhören.	तुम्हें रुकना होगा।
-You have work to do.	Du hast Arbeit.	तुम्हारे पास काम है।
-You haven't changed.	Du hast dich nicht verändert.	आप नहीं बदले हैं।
-You knew I was here.	Du wusstest, dass ich hier war.	तुम्हें पता था कि मैं यहाँ था।
-You know I love you!	Du weißt doch, dass ich dich liebhabe!	तुम्हें पता है की मैं तुमसे प्यार करता हूँ!
-You know I love you!	Du weißt doch, dass ich dich liebe!	तुम्हें पता है की मैं तुमसे प्यार करता हूँ!
 You know I love you.	Du weißt, dass ich dich liebe.	आप जानते है मैं आपको प्यार करता हूँ।
 You know how Tom is.	Du kennst ja Tom.	आप टॉम जानते हैं।
 You know how Tom is.	Du weißt ja, wie Tom ist.	आप जानते हैं कि टॉम कैसा है।

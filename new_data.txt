@@ -30178,3 +30178,10 @@ You have to go home.	Du musst nach Hause gehen.	तुम्हें घर ज
 You have to help me.	Du musst mir helfen.	तुम्हें मेरी मदद करनी है।
 You have two dogs.	Du hast zwei Hunde.	तुम्हारे पास दो कुत्ते हैं।
 You need to hurry.	Du musst dich beeilen.	तुम्हें जल्दी करने की जरूरत है।
+You have to help us.	Du musst uns helfen.	तुम्हें हमें मदद करनी होगी।
+You have to help us. (Different meaning)	Sie müssen uns unterstützen.	तुम्हें हमारी सहायता करनी होगी।
+You have to stop it.	Du musst damit aufhören.	तुम्हे इसे रोकना होगा।
+You have work to do.	Du hast Arbeit zu erledigen.	तुम्हारे पास काम है करने के लिए।
+You haven't changed.	Du hast dich nicht verändert.	तुम्ने बदलाव नहीं किया है।
+You knew I was here.	Du wusstest, dass ich hier bin.	तुम्हे पता था कि मैं यहाँ हूँ।
+You know I love you!	Du weißt, dass ich dich liebe!	तुम्हें पता है मैं तुमसे प्यार करता हूँ!
