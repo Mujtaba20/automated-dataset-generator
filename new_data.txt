@@ -26147,3 +26147,10 @@ I cooked him dinner.	Ich habe ihm Abendessen gekocht.	मैंने उसक�
 I could barely move.	Ich konnte kaum bewegen.	मैं मुश्किल से हिल सका।
 I could do it again.	Ich könnte es wieder tun.	मैं इसे फिर से कर सकता हूँ।
 I could eat a horse.	Ich könnte ein Pferd essen.	मैं एक घोड़ा खा सकता।
+I could have helped.	Ich hätte helfen können.	मैं मदद कर सकता था।
+I could lose my job.	Ich könnte meinen Job verlieren.	मुझे नौकरी खोने का संभावना है।
+I could not get out.	Ich konnte nicht herauskommen.	मैं बाहर नहीं निकल सकता था।
+I couldn't call you.	Ich konnte dich nicht anrufen.	मैं तुम्हें कॉल नहीं कर सका।
+I couldn't hear Tom.	Ich konnte Tom nicht hören.	मैं टॉम को नहीं सुन सका।
+I couldn't stand it.	Ich konnte es nicht ertragen.	मैं इसे सह नहीं सका।
+I couldn't stop Tom.	Ich konnte Tom nicht aufhalten.	मैं टॉम को रोक नहीं सका।

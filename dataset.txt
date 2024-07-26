@@ -1,14 +1,4 @@
 
-I could have helped.	Ich hätte helfen können.	मैं मदद कर सकता था।
-I could lose my job.	Ich könnte meinen Job verlieren.	मैं अपनी नौकरी खो सकता था।
-I could not get out.	Ich konnte nicht heraus.	मैं बाहर नहीं निकला।
-I couldn't call you.	Ich konnte dich nicht anrufen.	मैं आपको फोन नहीं कर सकता था।
-I couldn't call you.	Ich konnte Sie nicht anrufen.	मैं उसे फोन नहीं कर सकता था।
-I couldn't call you.	Ich konnte euch nicht anrufen.	मैं आपको फोन नहीं कर सकता था।
-I couldn't hear Tom.	Ich konnte Tom nicht hören.	मैं टॉम नहीं सुन सकता था।
-I couldn't stand it.	Ich konnte es nicht aushalten.	मैं यह बर्दाश्त नहीं कर सका।
-I couldn't stand it.	Ich konnte es nicht ertragen.	मैं इसे सहन नहीं कर सका।
-I couldn't stop Tom.	Ich konnte Tom nicht bremsen.	मैं टॉम को तोड़ नहीं सकता था।
 I counted up to 200.	Ich zählte bis 200.	मैंने 200 तक गिना।
 I counted up to 200.	Ich habe bis zweihundert gezählt.	मैंने दो सौ तक गिना।
 I cried all morning.	Ich habe den ganzen Morgen geweint.	मैं सारी सुबह रोया।
