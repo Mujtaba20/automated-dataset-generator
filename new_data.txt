@@ -22332,3 +22332,11 @@ It's far too small.	Es ist viel zu klein.	यह बहुत छोटा ह�
 It's for my family.	Es ist für meine Familie.	यह मेरे परिवार के लिए है।
 It's fun to travel.	Es macht Spaß zu reisen.	यात्रा करना मजेदार है।
 It's getting worse.	Es verschlechtert sich.	हालत और खराब हो रही है।
+It's going to rain.	Es wird regnen.	बारिश होने वाली है।
+It's good training.	Es ist gutes Training.	यह अच्छी प्रशिक्षण की है।
+It's got to be now.	Es muss jetzt sein.	अब होना है।
+It's gotten better.	Es ist besser geworden.	यह बेहतर हो गया है।
+It's hot down here.	Es ist heiß hier unten.	यहाँ नीचे गरम है।
+It's hot, isn't it?	Es ist heiß, oder?	गर्मी है, ना?
+It's in the fridge.	Es ist im Kühlschrank.	फ्रिज में है।
+It's just midnight.	Es ist gerade Mitternacht.	अभी बस मध्यरात हुई है।

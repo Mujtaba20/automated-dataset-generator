@@ -1,14 +1,4 @@
 
-It's going to rain.	Es wird gleich regnen.	तुरंत बारिश होगी।
-It's good training.	Das ist eine gute Übung.	यह एक अच्छा अभ्यास है।
-It's got to be now.	Es muss jetzt sein.	यह अब होना चाहिए।
-It's gotten better.	Es ist besser geworden.	यह बेहतर हो गया।
-It's hot down here.	Heiß hier unten.	यहाँ गर्म।
-It's hot, isn't it?	Was für eine Hitze!	क्या गर्मी!
-It's in the fridge.	Es ist im Kühlschrank.	यह फ्रिज में है।
-It's in the fridge.	Sie ist im Kühlschrank.	यह फ्रिज में है।
-It's in the fridge.	Er ist im Kühlschrank.	वह फ्रिज में है।
-It's just midnight.	Es ist genau Mitternacht.	यह बिल्कुल आधी रात है।
 It's just not fair.	Es ist einfach nicht fair.	यह उचित नहीं है।
 It's just not fair.	Das ist einfach ungerecht.	यह सिर्फ अनुचित है।
 It's just too soon.	Es ist einfach zu früh.	यह बहुत जल्दी है।
