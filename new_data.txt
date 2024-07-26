@@ -40108,3 +40108,11 @@ Tom has a stomachache.	Tom hat Bauchschmerzen.	टॉम को पेट दु
 Tom has a stuffy nose.	Tom hat eine verstopfte Nase.	टॉम की नाक बंद है।
 Tom has a sweet tooth.	Tom hat einen süßen Zahn.	टॉम को मीठा खाना पसंद है।
 Tom has a vile temper.	Tom hat einen bösen Charakter.	टॉम का कड़वा स्वभाव है।
+Tom has a waffle iron.	Tom hat ein Waffeleisen.	टॉम के पास एक वाफल आयरन है।
+Tom has already begun.	Tom hat schon angefangen.	टॉमने पहले से शुरू कर दिया है।
+Tom has already eaten.	Tom hat schon gegessen.	टॉमने पहले ही खा लिया है।
+Tom has an office job.	Tom hat einen Bürojob.	टॉम के पास ऑफिस जॉब है।
+Tom has been expelled.	Tom wurde verwiesen.	टॉम को निकाल दिया गया है।
+Tom has been generous.	Tom war großzügig.	टॉम उदार रहा है।
+Tom has been murdered.	Tom wurde ermordet.	टॉम की हत्या हो गई है।
+Tom has changed a lot.	Tom hat sich sehr verändert.	टॉम ने बहुत बदल लिया है।

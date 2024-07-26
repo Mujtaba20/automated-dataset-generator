@@ -1,14 +1,4 @@
 
-Tom has a waffle iron.	Tom hat ein Waffeleisen.	टॉम में एक वफ़ल आयरन है।
-Tom has already begun.	Tom hat schon angefangen.	टॉम पहले ही शुरू कर चुके हैं।
-Tom has already begun.	Tom hat bereits begonnen.	टॉम पहले ही शुरू कर चुके हैं।
-Tom has already begun.	Tom hat schon losgelegt.	टॉम पहले ही शुरू कर चुके हैं।
-Tom has already eaten.	Tom hat schon gegessen.	टॉम पहले ही खा चुके हैं।
-Tom has an office job.	Tom arbeitet im Büro.	टॉम कार्यालय में काम करता है।
-Tom has been expelled.	Tom ist von der Schule verwiesen worden.	टॉम को स्कूल से निष्कासित कर दिया गया है।
-Tom has been generous.	Tom war sehr großzügig.	टॉम बहुत उदार था।
-Tom has been murdered.	Tom wurde ermordet.	टॉम की हत्या कर दी गई।
-Tom has changed a lot.	Tom hat sich ziemlich verändert.	टॉम काफी बदल गया है।
 Tom has decided to go.	Tom hat sich entschlossen zu gehen.	टॉम ने जाने का फैसला किया है।
 Tom has endured a lot.	Tom hat viel ausgehalten.	टॉम ने बहुत कुछ किया।
 Tom has gained weight.	Tom hat zugenommen.	टॉम में वृद्धि हुई है।
