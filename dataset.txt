@@ -1,14 +1,4 @@
 
-Don't ever cross me.	Komm mir bloß nie in die Quere!	बस रास्ते में कभी नहीं मिलता है!
-Don't ever doubt it.	Zweifle niemals daran!	इसके बारे में कभी संदेह न करें!
-Don't ever touch me.	Wage es nicht, mich anzufassen!	मुझे छूने की हिम्मत मत करो!
-Don't ever touch me.	Untersteh dich, mich anzufassen!	मुझे छूने के लिए अपने आप को कम करें!
-Don't fool yourself.	Mache dir nichts vor!	कुछ भी मत करना!
-Don't get any ideas.	Komm nicht auf dumme Gedanken!	बेवकूफ विचारों के साथ मत आना!
-Don't get in my way.	Komm mir nicht in die Quere.	मेरे रास्ते में मत जाओ।
-Don't get mad at me.	Sei mir nicht böse!	मुझसे नाराज न होइए!
-Don't give up on me.	Gib mich nicht auf.	मुझ पर छोड़ नहीं देना।
-Don't go down there.	Geh nicht da runter.	वहाँ मत जाओ।
 Don't go in my room.	Geh nicht in mein Zimmer!	मेरे कमरे में मत जाओ!
 Don't go in my room.	Gehen Sie nicht in mein Zimmer!	मेरे कमरे में मत जाओ!
 Don't go in my room.	Gehe nicht in mein Zimmer!	मेरे कमरे में मत जाओ!
