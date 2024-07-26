@@ -1,14 +1,4 @@
 
-Tom still doesn't know.	Tom weiß es noch immer nicht.	टॉम अभी भी नहीं जानता।
-Tom still hasn't voted.	Tom hat immer noch nicht gewählt.	टॉम अभी भी नहीं चुना है।
-Tom stopped everything.	Tom hörte mit allem auf.	टॉम सब कुछ के साथ रुक गया।
-Tom studies archeology.	Tom studiert Archäologie.	टॉम पुरातत्व का अध्ययन करता है।
-Tom studies at Harvard.	Tom studiert in Harvard.	हार्वर्ड में टॉम अध्ययन।
-Tom studies on the bus.	Tom lernt im Bus.	टॉम बस में सीखता है।
-Tom takes care of Mary.	Tom kümmert sich um Maria.	टॉम मारिया की देखभाल करता है।
-Tom takes me to school.	Tom bringt mich zur Schule.	टॉम मुझे स्कूल ले जाता है।
-Tom talked about music.	Tom redete über Musik.	टॉम ने संगीत के बारे में बात की।
-Tom talked my ears off.	Tom hat mich vollgelabert.	टॉम ने मुझे पूरा किया।
 Tom talks in his sleep.	Tom spricht im Schlaf.	टॉम नींद में बोलता है।
 Tom thanked Mary again.	Tom dankte Maria noch einmal.	टॉम ने फिर से मारिया को धन्यवाद दिया।
 Tom thinks I love Mary.	Tom glaubt, dass ich Mary liebe.	टॉम का मानना ​​है कि मैं मैरी से प्यार करता हूं।
