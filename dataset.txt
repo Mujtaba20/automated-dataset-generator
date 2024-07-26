@@ -1,14 +1,4 @@
 
-It'll be dark soon.	Es wird bald dunkel sein.	जल्द ही अंधेरा हो जाएगा।
-It'll be dark soon.	Bald wird es dunkel.	जल्द ही अंधेरा हो जाएगा।
-It'll be over soon.	Es ist bald vorbei.	यह जल्द ही खत्म हो जाएगा।
-It'll be over soon.	Es wird bald vorbei sein.	यह जल्द ही खत्म हो जाएगा।
-It'll have to wait.	Das muss warten!	कि इंतजार करना होगा!
-It'll never happen.	Das wird nie passieren.	वैसा कभी नहीं होगा।
-It'll soon be dark.	Bald wird es dunkel.	जल्द ही अंधेरा हो जाएगा।
-It's Tom's profile.	Es ist Toms Profil.	यह टॉम की प्रोफ़ाइल है।
-It's Tom, isn't it?	Es ist Tom, nicht wahr?	यह टॉम है, है ना?
-It's a Cuban cigar.	Das ist eine kubanische Zigarre.	यह एक क्यूबा सिगार है।
 It's a French word.	Es ist ein französisches Wort.	यह एक फ्रांसीसी शब्द है।
 It's a bad example.	Das ist ein schlechtes Beispiel.	यह एक बुरा उदाहरण है।
 It's a big company.	Es ist ein großes Unternehmen.	यह एक बड़ी कंपनी है।

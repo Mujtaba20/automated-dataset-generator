@@ -22292,3 +22292,11 @@ It won't last long.	Es wird nicht lange dauern.	यह लंबे समय �
 It won't take long.	Es wird nicht lange dauern.	यह बहुत देर नहीं लेगा।
 It'll be a big day.	Es wird ein großer Tag sein.	यह एक बड़ा दिन होगा।
 It'll be all right.	Es wird schon gut werden.	सब ठीक हो जाएगा।
+It'll be dark soon.	Es wird bald dunkel sein.	जल्द ही अंधेरा हो जाएगा।
+It'll be over soon.	Es wird bald vorbei sein.	जल्द ही खत्म हो जाएगा।
+It'll have to wait.	Es wird warten müssen.	इसे इंतजार करना होगा।
+It'll never happen.	Es wird niemals passieren.	यह कभी नहीं होगा।
+It'll soon be dark.	Es wird bald dunkel werden.	जल्द ही अंधेरा हो जाएगा।
+It's Tom's profile.	Es ist Toms Profil.	यह टॉम का प्रोफाइल है।
+It's Tom, isn't it?	Es ist Tom, nicht wahr?	यह टॉम है, ना?
+It's a Cuban cigar.	Es ist eine kubanische Zigarre.	यह क्यूबा की सिगार है।
