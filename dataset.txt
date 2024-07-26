@@ -1,14 +1,4 @@
 
-Tom is trying too hard.	Tom macht sich zu viel Mühe.	टॉम बहुत अधिक प्रयास करता है।
-Tom is unable to do it.	Tom bringt es nicht fertig.	टॉम इसे तैयार नहीं करता है।
-Tom is up to something.	Tom führt irgendwas im Schilde.	टॉम ढाल में है।
-Tom is upset right now.	Tom ist gerade aufgebracht.	टॉम बस परेशान है।
-Tom is very aggressive.	Tom ist sehr aggressiv.	टॉम बहुत आक्रामक है।
-Tom is very articulate.	Tom ist sehr wortgewandt.	टॉम बहुत वाक्पटु है।
-Tom is very attractive.	Tom ist sehr attraktiv.	टॉम बहुत आकर्षक है।
-Tom is very good at it.	Tom kann das sehr gut.	टॉम बहुत अच्छा कर सकता है।
-Tom is very good at it.	Tom ist sehr gut darin.	टॉम इसमें बहुत अच्छा है।
-Tom is very happy here.	Tom ist sehr glücklich hier.	टॉम यहाँ बहुत खुश हैं।
 Tom is very inflexible.	Tom ist sehr unflexibel.	टॉम बहुत अनम्य है।
 Tom is very kind to us.	Tom ist sehr nett zu uns.	टॉम हमारे लिए बहुत अच्छा है।
 Tom is very mean to me.	Tom ist sehr gemein zu mir.	टॉम मेरे लिए बहुत मतलबी है।
