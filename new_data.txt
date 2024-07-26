@@ -32707,3 +32707,11 @@ Is it my turn to pay?	Bin ich dran zu zahlen?	क्या मेरी बा�
 Is it open on Sunday?	Ist es am Sonntag geöffnet?	क्या यह रविवार को खुला होता है?
 Is it worth the risk?	Ist es das Risiko wert?	क्या यह जोखिम लेने लायक है?
 Is my answer correct?	Ist meine Antwort richtig?	क्या मेरा जवाब सही है?
+Is she a taxi driver?	Ist sie Taxifahrerin?	क्या वह एक टैक्सी चालक है?
+Is that Tom's father?	Ist das Toms Vater?	क्या वह टॉम के पिता है?
+Is that a compliment?	Ist das ein Kompliment?	क्या वह एक प्रशंसा है?
+Is that a confession?	Ist das ein Geständnis?	क्या वह एक स्वीकृति है?
+Is that a good thing?	Ist das eine gute Sache?	क्या वह एक अच्छी बात है?
+Is that all you have?	Ist das alles, was du hast?	क्या यही तुम्हारे पास है?
+Is that all you want?	Ist das alles, was du willst?	क्या वह है जो तुम चाहते हो?
+Is that answer right?	Ist die Antwort richtig?	क्या वह जवाब सही है?

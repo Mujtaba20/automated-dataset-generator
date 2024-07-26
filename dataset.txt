@@ -1,14 +1,4 @@
 
-Is she a taxi driver?	Ist sie Taxifahrerin?	क्या वह टैक्सी ड्राइवर है?
-Is that Tom's father?	Ist das Toms Vater?	क्या वह टॉम का पिता है?
-Is that a compliment?	Ist das ein Kompliment?	क्या यह एक तारीफ है?
-Is that a confession?	Ist das ein Geständnis?	क्या यह एक स्वीकारोक्ति है?
-Is that a good thing?	Ist das etwas Gutes?	क्या यह कुछ अच्छा है?
-Is that all you have?	Ist das alles, was du hast?	क्या आपके पास यह सब है?
-Is that all you want?	Ist das alles, was du willst?	क्या वह सब आप चाहते हैं?
-Is that all you want?	Ist das alles, was ihr wollt?	क्या वह सब आप चाहते हैं?
-Is that all you want?	Ist das alles, was Sie wollen?	क्या वह सब आप चाहते हैं?
-Is that answer right?	Stimmt diese Antwort?	क्या यह उत्तर सही है?
 Is that possible now?	Ist das jetzt möglich?	क्या अब यह संभव है?
 Is that where Tom is?	Ist das, wo Tom ist?	क्या वह टॉम है?
 Is that why I'm here?	Bin ich deshalb hier?	तो क्या मैं यहाँ हूँ?
