@@ -1,15 +1,4 @@
 
-I think you're fat.	Ich halte dich für fett.	मुझे लगता है कि आप मोटे हैं।
-I think you're hot.	Ich finde dich heiß.	मुझे लगता है कि तुम गर्म हो।
-I thought about it.	Ich habe darüber nachgedacht.	मैंने इसके बारे में सोचा था।
-I thought you knew.	Ich dachte, du wüsstest Bescheid.	मुझे लगा कि आपको पता होगा।
-I told Tom to stay.	Ich habe Tom gesagt, dass er dableiben soll.	मैंने कहा कि टॉम उसे रहना चाहिए।
-I told him to come.	Ich habe ihm gesagt, dass er kommen soll.	मैंने उससे कहा कि उसे आना चाहिए।
-I took care of Tom.	Ich kümmerte mich um Tom.	मैंने टॉम का ख्याल रखा।
-I took the day off.	Ich nahm den Tag frei.	मैंने दिन की छुट्टी ले ली।
-I took your advice.	Ich bin deinem Rat gefolgt.	मैंने आपकी सलाह का पालन किया।
-I took your advice.	Ich bin Ihrem Rat gefolgt.	मैंने आपकी सलाह का पालन किया।
-I took your advice.	Ich bin eurem Rat gefolgt.	मैंने आपकी सलाह का पालन किया।
 I traveled on foot.	Ich reiste zu Fuß.	मैंने पैदल यात्रा की।
 I traveled on foot.	Ich reiste per pedes.	मैंने पेड्स से यात्रा की।
 I tried everything.	Ich habe alles versucht.	मैंने सब कुछ आजमाया है।

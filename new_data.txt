@@ -21653,3 +21653,12 @@ I think we're done.	Ich denke, wir sind fertig.	मुझे लगता है
 I think we're even.	Ich denke, wir sind quitt.	मुझे लगता है कि हम बराबर हैं।
 I think we're fine.	Ich denke, uns geht es gut.	मुझे लगता है कि हम ठीक हैं।
 I think you did it.	Ich denke, du hast es geschafft.	मुझे लगता है कि तुमने यह किया है।
+I think you're fat.	Ich denke, du bist fett.	मुझे लगता है कि तुम मोटे हो।
+I think you're hot.	Ich finde, du bist heiß.	मुझे लगता है कि तुम गर्म हो।
+I thought about it.	Ich habe darüber nachgedacht.	मैंने इस पर सोचा।
+I thought you knew.	Ich dachte, du wusstest es.	मुझे लगा तुम्हें पता है।
+I told Tom to stay.	Ich habe Tom gesagt zu bleiben.	मैंने टॉम से कहा रुकने के लिए।
+I told him to come.	Ich habe ihm gesagt zu kommen.	मैंने उसे आने के लिए कहा।
+I took care of Tom.	Ich habe mich um Tom gekümmert.	मैंने टॉम की देखभाल की।
+I took the day off.	Ich habe den Tag frei genommen.	मैंने दिन छुट्टी ले ली।
+I took your advice.	Ich habe deinen Rat befolgt.	मैंने तुम्हारी सलाह ली।
