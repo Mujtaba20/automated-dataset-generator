@@ -38148,3 +38148,12 @@ I'll stay if it rains.	Ich bleibe, wenn es regnet.	अगर बारिश ह
 I'll stay if you want.	Ich bleibe, wenn du willst.	अगर तुम चाहो तो मैं रुक जाऊंगा।
 I'll take Tom to Mary.	Ich werde Tom zu Mary bringen.	मैं टॉम को मेरी के पास ले जाऊंगा।
 I'll take care of you.	Ich werde auf dich aufpassen.	मैं तुम्हारा ध्यान रखूंगा।
+I'll take them to Tom.	Ich werde sie zu Tom bringen.	मैं उन्हें टॉम के पास ले जाऊंगा।
+I'll take this to Tom.	Ich werde das zu Tom bringen.	मैं यह टॉम के पास ले जाऊंगा।
+I'll take you with me.	Ich werde dich mitnehmen.	मैं तुम्हें साथ ले जाऊंगा।
+I'll tell you a story.	Ich werde dir eine Geschichte erzählen.	मैं तुम्हें एक कहानी सुनाऊंगा।
+I'll think about that.	Ich werde darüber nachdenken.	मैं उसके बारे में सोचूँगा।
+I'm Tom's grandfather.	Ich bin Toms Großvater.	मैं टॉम के दादा हूँ।
+I'm Tom's grandmother.	Ich bin Toms Großmutter.	मैं टॉम की दादी हूँ।
+I'm Tom's stepbrother.	Ich bin Toms Stiefbruder.	मैं टॉम का स्टेपब्रदर हूँ।
+I'm a big fan of golf.	Ich bin ein großer Fan von Golf.	मैं गोल्फ का बड़ा प्रशंसक हूँ।

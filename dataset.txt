@@ -1,16 +1,4 @@
 
-I'll take them to Tom.	Ich bringe sie zu Tom.	मैं उसे टॉम ले जाता हूं।
-I'll take this to Tom.	Ich bringe das zu Tom.	मैं टॉम के पास लाता हूं।
-I'll take you with me.	Ich nehme dich mit.	मैं तुम्हें अपने साथ ले जाऊंगा।
-I'll tell you a story.	Ich werde dir eine Geschichte erzählen.	मैं आपको एक कहानी बताऊंगा।
-I'll think about that.	Ich werde darüber nachdenken.	मैं इसके बारे में सोचूंगा।
-I'm Tom's grandfather.	Ich bin Toms Opa.	मैं टॉम्स दादा हूँ।
-I'm Tom's grandmother.	Ich bin Toms Großmutter.	मैं टॉम की दादी हूँ।
-I'm Tom's stepbrother.	Ich bin Toms Stiefbruder.	मैं टॉम का सौतेला भाई हूं।
-I'm a big fan of golf.	Ich bin ein großer Golfanhänger.	मैं एक बड़ा गोल्फ ट्रेलर हूं।
-I'm a big fan of golf.	Ich bin ein großer Golffan.	मैं एक बड़ा गोल्फन हूं।
-I'm a big fan of golf.	Ich bin ein großer Golf-Liebhaber.	मैं एक बड़ा गोल्फ प्रेमी हूं।
-I'm a big fan of golf.	Ich bin ein großer Golfsportbegeisterter.	मैं एक बड़ा गोल्फ उत्साही हूं।
 I'm a cab driver, too.	Ich bin auch Taxifahrer.	मैं एक टैक्सी ड्राइवर भी हूं।
 I'm a cab driver, too.	Ich bin auch Taxifahrerin.	मैं एक टैक्सी ड्राइवर भी हूं।
 I'm a college student.	Ich bin Student.	मैं छात्र हूँ।
