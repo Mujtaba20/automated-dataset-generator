@@ -1,14 +1,4 @@
 
-It's really exciting.	Es ist wirklich aufregend.	यह वास्तव में रोमांचक है।
-It's really horrible.	Es ist wirklich schrecklich.	यह वास्तव में भयानक है।
-It's right above you.	Es ist direkt über dir.	यह आपके ऊपर सही है।
-It's right over here.	Es ist gleich hier.	यह ठीक यहाँ है।
-It's sort of strange.	Es ist irgendwie seltsam.	यह अजीब तरह का है।
-It's started already.	Es hat schon angefangen.	ये शुरू हुआ।
-It's started snowing.	Es hat angefangen zu schneien.	बर्फ होने लगी।
-It's started to snow.	Es hat angefangen zu schneien.	बर्फ होने लगी।
-It's still breathing.	Es atmet noch.	यह अभी भी सांस लेता है।
-It's still happening.	Es geschieht noch immer.	यह अभी भी होता है।
 It's still light out.	Draußen ist es noch hell.	यह अभी भी बाहर प्रकाश है।
 It's still new to me.	Das ist immer noch neu für mich.	यह अभी भी मेरे लिए नया है।
 It's stopped snowing.	Es hat aufgehört zu schneien.	इसने बर्फबारी बंद कर दी।

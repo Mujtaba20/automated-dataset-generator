@@ -32911,3 +32911,13 @@ It's part of the job.	Es gehört zum Job.	यह काम का हिस्�
 It's perfectly legal.	Es ist vollkommen legal.	यह पूरी तरह से कानूनी है।
 It's raining outside.	Es regnet draußen.	बाहर बारिश हो रही है।
 It's really annoying.	Es ist wirklich ärgerlich.	यह वास्तव में उकसानेवाला है।
+It's really exciting.	Es ist wirklich aufregend.	यह वास्तव में रोमांचक है।
+It's really horrible.	Es ist wirklich schrecklich.	यह वास्तव में भयानक है।
+It's right above you.	Es ist direkt über dir.	यह आपके ऊपर सही है।
+It's right over here.	Es ist genau hier drüber.	यह यहाँ सही है।
+It's sort of strange.	Es ist irgendwie seltsam.	यह कुछ अजीब है।
+It's started already.	Es hat bereits begonnen.	यह पहले से ही शुरू हो गया है।
+It's started snowing.	Es hat angefangen zu schneien.	बर्फ गिरना शुरू हो गया है।
+It's started to snow.	Es hat angefangen zu schneien.	बर्फ गिरना शुरू हो गया है।
+It's still breathing.	Es atmet immer noch.	यह अब भी श्वास ले रहा है।
+It's still happening.	Es passiert immer noch.	यह अब भी हो रहा है।
