@@ -25977,3 +25977,13 @@ How's it going, Tom?	Wie geht's, Tom?	बताओ, टॉम, कैसी च�
 How's my wife doing?	Wie geht es meiner Frau?	मेरी पत्नी कैसे हैं?
 How's that possible?	Wie ist das möglich?	ये कैसे संभव है?
 How's your shoulder?	Wie geht es deiner Schulter?	तुम्हारी कंधी कैसी है?
+Hurry up, it's late.	Beeil dich, es ist spät.	जल्दी करो, देर हो रही है।
+I accept your offer.	Ich akzeptiere dein Angebot.	मैं तुम्हारे प्रस्ताव को स्वीकार करता हूँ।
+I accept your terms.	Ich akzeptiere deine Bedingungen.	मैं तुम्हारी शर्तें स्वीकार करता हूँ।
+I accept your terms. - 2	Ich akzeptiere deine Konditionen.	मैं तुम्हारी शर्तों को स्वीकार करता हूँ।
+I accept your terms. - 3	Mir sind deine Bedingungen recht.	मैं तुम्हारी शर्तें स्वीकार करता हूँ।
+I admire his talent.	Ich bewundere sein Talent.	मैं उसकी प्रतिभा की सराहना करता हूँ।
+I agree to his plan.	Ich stimme seinem Plan zu.	मैं उसकी योजना से सहमत हूँ।
+I almost always win.	Ich gewinne fast immer.	मैं लगभग हमेशा जीतता हूँ।
+I almost cut myself.	Ich habe mich fast geschnitten.	मैंने अपने आपको लगभग काट लिया।
+I almost died today.	Ich wäre heute beinahe gestorben.	मैं आज लगभग मरने वाला था।
