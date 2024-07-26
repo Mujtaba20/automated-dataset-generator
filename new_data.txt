@@ -24591,3 +24591,12 @@ What's this called?	Wie heißt das?	यह कैसे बुलाया ज�
 What's up with Tom?	Was ist los mit Tom?	टॉम के साथ क्या है?
 What's up with you?	Was ist los mit dir?	तुम्हारे साथ क्या है?
 What's your advice?	Was ist dein Rat?	तुम्हारी सलाह क्या है?
+When are you going?	Wann gehst du?	तुम कब जा रहे हो?
+When can I move in?	Wann kann ich einziehen?	मैं कब घर ले सकता हूँ?
+When can I see you?	Wann kann ich dich sehen?	मैं तुम्हे कब देख सकता हूँ?
+When can you start?	Wann kannst du anfangen?	तुम कब शुरू कर सकते हो?
+When did I do that?	Wann habe ich das gemacht?	मैंने वह कब किया?
+When did it happen?	Wann ist das passiert?	यह कब हुआ?
+When did you begin?	Wann hast du angefangen?	तुमने कब शुरू किया?
+When did you leave?	Wann bist du gegangen?	तुम कब चले गए?
+When did you start?	Wann hast du angefangen?	तुमने कब शुरू किया?

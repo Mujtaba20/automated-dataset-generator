@@ -1,14 +1,4 @@
 
-When are you going?	Wann gehst du?	आप कब छोड़ रहे हैं?
-When can I move in?	Wann kann ich einziehen?	मेरा कब प्रवेश हो सकता है?
-When can I see you?	Wann kann ich dich sehen?	मैं आपसे कब मिल सकता हूँ?
-When can you start?	Wann können Sie anfangen?	आप कब शुरु कर सकते हैं?
-When did I do that?	Wann habe ich das getan?	मैंने ऐसा कब किया?
-When did it happen?	Wann ist das passiert?	वह कब हुआ?
-When did you begin?	Wann hast du angefangen?	तुमने कब शुरू किया?
-When did you leave?	Wann bist du gegangen?	आप कब गए?
-When did you start?	Wann hast du angefangen?	तुमने कब शुरू किया?
-When did you start?	Wann haben Sie angefangen?	तुमने कब शुरू किया?
 When do owls sleep?	Wann schlafen Eulen?	जब सोते हुए उल्लू?
 When do we want it?	Wann wollen wir es?	हम इसे कब चाहते हैं?
 When do we want it?	Wann brauchen wir es?	हमें इसकी आवश्यकता कब है?
