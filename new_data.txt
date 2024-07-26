@@ -38520,3 +38520,11 @@ It really tastes good.	Es schmeckt wirklich gut.	यह सच में अच�
 It reminded me of you.	Es erinnerte mich an dich.	यह मुझे तुम्हारी याद दिलाता है।
 It runs in the family.	Es liegt in der Familie.	यह परिवार में चलता है।
 It scares me to death.	Es erschreckt mich zu Tode.	यह मुझे मौत के डर से डराता है।
+It seemed appropriate.	Es schien angemessen.	यह उपयुक्त लगा।
+It seemed to be cheap.	Es schien billig zu sein.	यह सस्ता लग रहा था।
+It seems warm outside.	Es scheint warm draußen zu sein.	बाहर गर्म लग रहा है।
+It serves our purpose.	Es dient unserem Zweck.	यह हमारे उद्देश्य का सेवन करता है।
+It should be possible.	Es sollte möglich sein.	यह संभव होना चाहिए।
+It smells bad in here.	Hier riecht es schlecht.	यहाँ बुरा लग रहा है।
+It smells like a trap.	Es riecht nach einer Falle.	यह जाल से लगता है।
+It sounds interesting.	Es klingt interessant.	यह दिलचस्प लगता है।
