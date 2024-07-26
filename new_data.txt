@@ -31353,3 +31353,11 @@ How would you say it?	Wie würden Sie es sagen?	तुम इसे कैसे
 How's it coming, Tom?	Wie läuft es, Tom?	तोम, कैसी चल रही है?
 How's life in Boston?	Wie ist das Leben in Boston?	बोस्टन में जीवन कैसा चल रहा है?
 How's your boy doing?	Wie geht es deinem Jungen?	तेरे लड़के कैसे हैं?
+How's your day going?	Wie läuft dein Tag?	तुम्हारा दिन कैसा चल रहा है?
+How's your job going?	Wie läuft dein Job?	तुम्हारा काम कैसा चल रहा है?
+How's your wife, Tom?	Wie geht es deiner Frau, Tom?	टॉम, तुम्हारी पत्नी कैसी है?
+Human life is sacred.	Menschliches Leben ist heilig.	मानव जीवन पवित्र होता है।
+I abandoned my plans.	Ich habe meine Pläne aufgegeben.	मैंने अपनी योजनाएं छोड़ दी।
+I admire his courage.	Ich bewundere seinen Mut.	मैं उसकी साहस की सराहना करता हूँ।
+I admire your talent.	Ich schätze dein Talent.	मैं तुम्हारी प्रतिभा की प्रशंसा करता हूँ।
+I agree in principle.	Ich stimme grundsätzlich zu.	मैं सिद्धांत में सहमत हूँ।
