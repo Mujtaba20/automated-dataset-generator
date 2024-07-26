@@ -1,15 +1,4 @@
 
-His sweater is gray.	Sein Pullover ist grau.	उसका स्वेटर ग्रे है।
-Hold on to the rope.	Halt dich an dem Seil fest.	रस्सी पर पकड़ो।
-Hold the rope tight.	Halte das Seil fest!	रस्सी पकड़ो!
-Holster your weapon.	Stecken Sie Ihre Waffe ins Halfter!	अपनी बंदूक लगाम में डाल दो!
-Honesty doesn't pay.	Ehrlichkeit zahlt sich nicht aus.	ईमानदारी से भुगतान नहीं करता है।
-Honey doesn't spoil.	Honig verdirbt nicht.	शहद खराब नहीं करता है।
-How about I do that?	Wie wäre es, wenn ich das tue?	अगर मैं ऐसा करता हूं तो कैसे?
-How about a rematch?	Wie wär’s mit einer Revanche?	एक बदला लेने के बारे में कैसे?
-How about some milk?	Wie wär's mit etwas Milch?	कुछ दूध के बारे में कैसे?
-How are you feeling?	Wie fühlen Sie sich?	आपको कैसा लगता है?
-How are you feeling?	Wie fühlst du dich?	आपको कैसा लगता है?
 How bad is Tom hurt?	Wie schwer ist Tom verletzt?	टॉम कितनी गंभीरता से घायल है?
 How bad is the pain?	Wie arg sind die Schmerzen?	दर्द कितना बुरा है?
 How bad will it get?	Wie schlimm wird es werden?	यह कितना बुरा होगा?
