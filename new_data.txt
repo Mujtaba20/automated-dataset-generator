@@ -37260,3 +37260,11 @@ I don't care for beer.	Mir ist Bier egal.	मुझे बीयर से म�
 I don't care for eggs.	Mir sind Eier egal.	मुझे अंडे पसंद नहीं हैं।
 I don't care for wine.	Mir ist Wein egal.	मुझे शराब से मतलब नहीं है।
 I don't care who wins.	Es ist mir egal, wer gewinnt.	मुझे नहीं पसंद किसकी जीत होती है।
+I don't do it anymore.	Ich mache es nicht mehr.	मैं इसे अब नहीं करता।
+I don't drink alcohol.	Ich trinke keinen Alkohol.	मैं शराब नहीं पीता।
+I don't drive to work.	Ich fahre nicht zur Arbeit.	मैं काम पर गाड़ी नहीं चलाता।
+I don't eat any bread.	Ich esse kein Brot.	मैं कोई रोटी नहीं खाता।
+I don't eat much meat.	Ich esse nicht viel Fleisch.	मैं ज्यादा मांस नहीं खाता।
+I don't eat that much.	Ich esse nicht so viel.	मैं इतना ज्यादा नहीं खाता।
+I don't eat very much.	Ich esse nicht sehr viel.	मैं बहुत ज्यादा नहीं खाता।
+I don't feel up to it.	Ich fühle mich nicht danach.	मुझे उसका अनुभव नहीं हो रहा है।
