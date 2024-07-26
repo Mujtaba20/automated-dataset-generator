@@ -32136,3 +32136,12 @@ I think Tom is happy.	Ich denke, Tom ist glücklich.	मुझे लगता �
 I think Tom is lying.	Ich denke, Tom lügt.	मुझे लगता है, टॉम झूठ बोल रहा है।
 I think Tom is sharp.	Ich denke, Tom ist scharf.	मुझे लगता है, टॉम तेज़ है।
 I think Tom liked it.	Ich denke, Tom mochte es.	मुझे लगता है, टॉम ने इसे पसंद किया।
+I think Tom likes it.	Ich denke, Tom mag es.	मुझे लगता है कि टॉम को यह पसंद है।
+I think Tom likes me.	Ich glaube, Tom mag mich.	मुझे लगता है कि टॉम मुझे पसंद करता है।
+I think Tom needs me.	Ich denke, Tom braucht mich.	मुझे लगता है कि टॉम को मुझे आवश्यकता है।
+I think Tom was busy.	Ich denke, Tom war beschäftigt.	मुझे लगता है कि टॉम व्यस्त था।
+I think Tom was here.	Ich denke, Tom war hier.	मुझे लगता है कि टॉम यहाँ था।
+I think Tom will win.	Ich denke, Tom wird siegen.	मुझे लगता है कि टॉम विजयी होगा।
+I think he likes you.	Ich glaube, er mag dich.	मुझे लगता है कि वह आपको पसंद करता है।
+I think he's correct.	Ich denke, er hat recht.	मुझे लगता है कि वह सही है।
+I think it's amazing.	Ich denke, es ist fantastisch.	मुझे लगता है कि यह अद्भुत है।

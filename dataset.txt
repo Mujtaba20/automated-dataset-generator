@@ -1,15 +1,4 @@
 
-I think Tom likes it.	Ich denke, Tom mag es.	मुझे लगता है कि टॉम इसे पसंद करता है।
-I think Tom likes me.	Ich denke, Tom mag mich.	मुझे लगता है कि टॉम मुझे पसंद करता है।
-I think Tom needs me.	Ich glaube, Tom braucht mich.	मुझे लगता है कि टॉम को मेरी जरूरत है।
-I think Tom was busy.	Ich glaube, Tom war beschäftigt.	मुझे लगता है कि टॉम व्यस्त था।
-I think Tom was here.	Ich glaube, Tom war hier.	मुझे लगता है कि टॉम यहाँ था।
-I think Tom will win.	Ich denke, dass Tom gewinnen wird.	मुझे लगता है कि टॉम जीत जाएगा।
-I think Tom will win.	Tom wird, denke ich, gewinnen.	मुझे लगता है कि टॉम जीत जाएगा।
-I think he likes you.	Ich glaube, er mag dich.	मुझे लगता है कि वह आपको पसंद करता है।
-I think he's correct.	Ich glaube, er hat recht.	मुझे लगता है कि वह सही है।
-I think it's amazing.	Ich denke, es ist unglaublich.	मुझे लगता है कि यह अविश्वसनीय है।
-I think it's amazing.	Ich denke, es ist großartig.	मुझे लगता है कि वो ठीक है।
 I think it's my turn.	Ich glaube, ich bin jetzt dran.	मुझे लगता है कि मैं अभी पर हूं।
 I think it's strange.	Mir kommt das komisch vor.	यह मुझे अजीब लगता है।
 I think my mom knows.	Ich denke, meine Mutter weiß es.	मुझे लगता है कि मेरी माँ को पता है।
