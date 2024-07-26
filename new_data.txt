@@ -36704,3 +36704,11 @@ He crawled out of bed.	Er kroch aus dem Bett.	उसने बिस्तर �
 He cried out for help.	Er rief nach Hilfe.	उसने मदद के लिए चिल्लाया।
 He crossed the street.	Er überquerte die Straße.	उसने सड़क पार कर ली।
 He deals in furniture.	Er handelt mit Möbeln.	उसने फर्नीचर का काम किया।
+He defeated his enemy.	Er besiegte seinen Feind.	उसने अपने दुश्मन को हराया।
+He delivered a speech.	Er hielt eine Rede.	उसने भाषण दिया।
+He deserves the prize.	Er verdient den Preis.	उसे पुरस्कार का हकदार है।
+He didn't do any work.	Er hat keine Arbeit gemacht.	उसने कोई काम नहीं किया।
+He didn't see a thing.	Er hat nichts gesehen.	उसने कुछ नहीं देखा।
+He didn't see anybody.	Er hat niemanden gesehen.	उसने किसी को भी नहीं देखा।
+He didn't shed a tear.	Er vergoss keine Träne.	उसने एक आंसू भी नहीं बहाया।
+He died from overwork.	Er starb an Überarbeitung.	उसने अधिक काम से मर गया।

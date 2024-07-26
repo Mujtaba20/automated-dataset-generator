@@ -1,14 +1,4 @@
 
-He defeated his enemy.	Er besiegte seinen Feind.	उसने अपने दुश्मन को हराया।
-He delivered a speech.	Er hat eine Rede gehalten.	उन्होंने एक भाषण दिया।
-He delivered a speech.	Er hielt eine Rede.	उन्होंने एक भाषण दिया।
-He deserves the prize.	Er verdient den Preis.	वह कीमत का हकदार है।
-He didn't do any work.	Er machte keine einzige Arbeit.	उन्होंने एक भी काम नहीं किया।
-He didn't see a thing.	Er hat nichts gesehen.	उसने कुछ नहीं देखा।
-He didn't see anybody.	Er hat niemanden gesehen.	उसने किसी को देखा।
-He didn't shed a tear.	Er vergoss keine Träne.	वह शर्मीली नहीं है।
-He died from overwork.	Er starb an Arbeitsüberlastung.	वह काम के अधिभार से मर गया।
-He died from overwork.	Er starb an Überanstrengung.	वह overexertion से मर गया।
 He dislocated his arm.	Er hat sich den Arm ausgerenkt.	उसे हाथ मिला।
 He does not like cats.	Er mag keine Katzen.	उसे बिल्लियों को पसंद नहीं है।
 He doesn't look happy.	Er sieht nicht glücklich aus.	वह खुश नहीं दिखता।
