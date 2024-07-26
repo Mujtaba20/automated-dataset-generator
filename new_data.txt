@@ -28044,3 +28044,13 @@ That TV is too loud.	Der Fernseher ist zu laut.	वह टीवी बहुत
 That ain't my style.	Das ist nicht mein Stil.	वह मेरी पसंद नहीं है।
 That belongs to Tom.	Das gehört Tom.	वह टॉम के पास है।
 engSentence	{'That boy is running.': 'Der Junge rennt.', "That can't be right.": 'Das kann nicht richtig sein.', 'That cannot be true.': 'Das kann nicht wahr sein.', 'That comes in handy.': 'Das ist praktisch.', 'That day shall come.': 'Der Tag wird kommen.', "That didn't help us.": 'Das hat uns nicht geholfen.', 'That does sound fun.': 'Das klingt nach Spaß.'}	{'That boy is running.': 'वह लड़का दौड़ रहा है।', "That can't be right.": 'वह सही नहीं हो सकता।', 'That cannot be true.': 'वह सच नहीं हो सकता।', 'That comes in handy.': 'यह काम आता है।', 'That day shall come.': 'वह दिन आएगा।', "That didn't help us.": 'वह हमारी मदद नहीं की।', "That doesn't happen.": 'यह होता नहीं है।'}
+That doesn't matter.	Das spielt keine Rolle.	वह मायने नहीं रखता।
+That dress is cheap.	Dieses Kleid ist billig.	यह ड्रेस सस्ती है।
+That dress is cheap. (different meaning)	Dieser Mantel ist preiswert.	वह कपड़ा सस्ता है।
+That explains a lot.	Das erklärt eine Menge.	वह बहुत कुछ स्पष्ट करता है।
+That game is boring.	Dieses Spiel ist langweilig.	वह खेल उबाऊ है।
+That helps us a lot.	Das hilft uns sehr.	वह हमें बहुत मदद करता है।
+That hurts! Stop it!	Das tut weh! Hör auf damit!	वह दर्द होता है! बंद करो!
+That is a good idea.	Das ist eine gute Idee.	वह एक अच्छा विचार है।
+That is not a tiger.	Das ist kein Tiger.	वह बाघ नहीं है।
+That is not my line.	Das ist nicht mein Zitat.	वह मेरी पंक्ति नहीं है।
