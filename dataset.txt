@@ -1,14 +1,4 @@
 
-Tom winked at Mary.	Tom hat Maria zugezwinkert.	टॉम ने मारिया पर विंक किया।
-Tom winked at Mary.	Tom zwinkerte Maria zu.	टॉम ने मारिया को भी विंक किया।
-Tom won a free car.	Tom hat ein kostenloses Auto gewonnen.	टॉम ने एक मुफ्त कार जीती है।
-Tom won't admit it.	Tom wird es nicht zugeben.	टॉम इसे स्वीकार नहीं करेंगे।
-Tom won't bite you.	Tom wird dich nicht beißen.	टॉम आपको नहीं काटेगा।
-Tom won't eat that.	Tom wird das nicht essen.	टॉम वह नहीं खाएगा।
-Tom won't find out.	Tom wird es nicht herausbekommen.	टॉम इसे बाहर नहीं निकालेगा।
-Tom won't go alone.	Tom geht nicht allein.	टॉम अकेले काम नहीं करता है।
-Tom won't like you.	Tom wird dich nicht mögen.	टॉम आपको पसंद नहीं करेगा।
-Tom won't stop now.	Tom wird jetzt nicht aufhören.	टॉम अब नहीं रुकेंगे।
 Tom won't stop you.	Tom wird dir nichts in den Weg legen.	टॉम आपके रास्ते में कुछ भी नहीं डालेंगे।
 Tom won't stop you.	Tom wird euch nichts in den Weg legen.	टॉम आपके रास्ते में कुछ भी नहीं डालेंगे।
 Tom won't stop you.	Tom wird Ihnen nichts in den Weg legen.	टॉम आपके रास्ते में कुछ भी नहीं डालेंगे।

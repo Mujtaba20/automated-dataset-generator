@@ -24156,3 +24156,12 @@ Tom will never win.	Tom wird nie gewinnen.	टॉम कभी नहीं ज�
 Tom will not do it.	Tom wird es nicht tun.	टॉम ऐसा नहीं करेगा।
 Tom will use force.	Tom wird Gewalt anwenden.	टॉम बल का उपयोग करेगा।
 Tom will work hard.	Tom wird hart arbeiten.	टॉम मेहनत करेगा।
+Tom winked at Mary.	Tom hat Mary zugezwinkert.	टॉम ने मेरी को आँख मारी।
+Tom won a free car.	Tom hat ein kostenloses Auto gewonnen.	टॉम ने एक मुफ्त कार जीती।
+Tom won't admit it.	Tom wird es nicht zugeben.	टॉम इसे स्वीकार नहीं करेगा।
+Tom won't bite you.	Tom wird dich nicht beißen.	टॉम तुम्हें नहीं काटेगा।
+Tom won't eat that.	Tom wird das nicht essen.	टॉम वह नहीं खाएगा।
+Tom won't find out.	Tom wird es nicht herausfinden.	टॉम कुछ नहीं ढूँढ पाएगा।
+Tom won't go alone.	Tom wird nicht alleine gehen.	टॉम अकेले नहीं जाएगा।
+Tom won't like you.	Tom wird dich nicht mögen.	टॉम तुम्हें पसंद नहीं करेगा।
+Tom won't stop now.	Tom wird jetzt nicht aufhören.	टॉम अब रुकेगा नहीं।
