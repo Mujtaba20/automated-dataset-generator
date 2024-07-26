@@ -33452,3 +33452,12 @@ Somebody just called.	Jemand hat gerade angerufen.	किसी ने अभी
 Someone attacked Tom.	Jemand hat Tom angegriffen.	किसी ने टॉम पर हमला किया।
 Someone gave me this.	Jemand hat mir das gegeben.	किसी ने मुझे यह दिया।
 Someone might see us.	Jemand könnte uns sehen.	कोई हमें देख सकता है।
+Someone told me that.	Jemand hat mir das gesagt.	किसी ने मुझे बताया था।
+Something went wrong.	Etwas ist schiefgegangen.	कुछ गलत हो गया।
+Sometimes it happens.	Manchmal passiert es.	कभी-कभी यह होता है।
+Sorry about the mess.	Entschuldigung für das Durcheinander.	गड़बड़ के लिए खेद है।
+Sorry for being late.	Entschuldigung, dass ich zu spät bin.	देर होने के लिए माफ़ी चाहता हूँ।
+Sorry to trouble you.	Entschuldigung, dass ich Ihnen Umstände mache.	परेशानी देने के लिए माफ़ी चाहता हूँ।
+Spare me the details.	Verschone mich mit den Details.	विस्तार से बचा ले।
+Speak louder, please.	Sprich lauter, bitte.	कृपया ज़ोर से बोलें।
+Speak to the manager.	Sprechen Sie mit dem Manager.	मैनेजर से बात करें।
