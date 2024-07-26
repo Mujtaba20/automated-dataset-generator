@@ -1,15 +1,4 @@
 
-I hope Tom doesn't die.	Ich hoffe, dass Tom nicht stirbt.	मुझे आशा है कि टॉम मर नहीं जाएगा।
-I hope Tom forgives me.	Ich hoffe, Tom verzeiht mir.	मुझे आशा है कि टॉम मुझे माफ कर देगा।
-I hope Tom is unafraid.	Ich hoffe, Tom hat keine Angst.	मुझे आशा है कि टॉम डर नहीं है।
-I hope Tom isn't alone.	Ich hoffe, Tom ist nicht allein.	मुझे आशा है कि टॉम अकेला नहीं है।
-I hope Tom isn't angry.	Ich hoffe, Tom ist nicht böse.	मुझे आशा है कि टॉम बुरा नहीं है।
-I hope Tom isn't bored.	Ich hoffe, Tom langweilt sich nicht.	मुझे आशा है कि टॉम ऊब नहीं है।
-I hope Tom isn't early.	Ich hoffe, Tom kommt nicht zu früh.	मुझे आशा है कि टॉम बहुत जल्दी नहीं आएगा।
-I hope Tom writes soon.	Ich hoffe, Tom schreibt bald.	मुझे उम्मीद है कि टॉम जल्द ही लिखेंगे।
-I hope it was worth it.	Ich hoffe, dass es das wert war.	मुझे उम्मीद है कि यह इसके लायक था।
-I hope nobody got hurt.	Ich hoffe, es ist niemand verletzt worden.	मुझे उम्मीद है कि किसी को चोट नहीं लगी होगी।
-I hope nobody got hurt.	Ich hoffe, es kam niemand zu Schaden.	मुझे आशा है कि किसी को नुकसान नहीं हुआ।
 I hope that they're OK.	Ich hoffe, es geht ihnen gut.	मुझे आशा है कि आप अच्छा कार्य कर रहे हैं।
 I hope that's not true.	Ich hoffe, dass das nicht wahr ist.	मुझे उम्मीद है कि यह सच नहीं है।
 I hope this isn't true.	Ich hoffe, dass dies nicht wahr ist.	मुझे उम्मीद है कि यह सच नहीं है।
