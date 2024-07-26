@@ -1,14 +1,4 @@
 
-Tom has to go see Mary.	Tom muss Maria besuchen.	टॉम को मारिया का दौरा करना है।
-Tom has to stay in bed.	Tom muss im Bett bleiben.	टॉम को बिस्तर पर रहना पड़ता है।
-Tom has too many books.	Tom hat zu viele Bücher.	टॉम के पास बहुत सारी किताबें हैं।
-Tom has very long hair.	Tom hat sehr langes Haar.	टॉम के बहुत लंबे बाल हैं।
-Tom has won many races.	Tom hat viele Rennen gewonnen.	टॉम ने कई दौड़ जीती है।
-Tom has written a book.	Tom hat ein Buch geschrieben.	टॉम ने एक किताब लिखी।
-Tom has young children.	Tom hat kleine Kinder.	टॉम के छोटे बच्चे हैं।
-Tom hasn't arrived yet.	Tom ist noch nicht da.	टॉम अभी तक नहीं है।
-Tom hasn't arrived yet.	Tom ist noch nicht gekommen.	टॉम अभी तक नहीं आया है।
-Tom hasn't been around.	Tom hat sich in letzter Zeit nicht blicken lassen.	टॉम को हाल ही में नहीं दिखाया गया है।
 Tom hasn't decided yet.	Tom hat sich noch nicht entschieden.	टॉम ने अभी तक फैसला नहीं किया है।
 Tom hasn't done enough.	Tom hat nicht genug getan.	टॉम ने पर्याप्त नहीं किया।
 Tom hasn't done it yet.	Tom hat es noch nicht getan.	टॉम ने अभी तक ऐसा नहीं किया है।
