@@ -26441,3 +26441,11 @@ I know where she is.	Ich weiß, wo sie ist.	मुझे पता है वह
 I know where we are.	Ich weiß, wo wir sind.	मुझे पता है हम कहाँ हैं।
 I know who they are.	Ich weiß, wer sie sind.	मुझे पता है वे कौन हैं।
 I know you are rich.	Ich weiß, du bist reich.	मुझे पता है तुम धनवान हो।
+I know you like Tom.	Ich weiß, dass du Tom magst.	मुझे पता है कि तुम तोम को पसंद करते हो।
+I know you love Tom.	Ich weiß, dass du Tom liebst.	मुझे पता है कि तुम तोम से प्यार करते हो।
+I know you miss Tom.	Ich weiß, dass du Tom vermisst.	मुझे पता है कि तुम तोम को याद करते हो।
+I know you're happy.	Ich weiß, dass du glücklich bist.	मुझे पता है कि तुम खुश हो।
+I know you're right.	Ich weiß, dass du Recht hast.	मुझे पता है कि तुम सही हो।
+I know you're upset.	Ich weiß, dass du aufgebracht bist.	मुझे पता है कि तुम परेशान हो।
+I know your brother.	Ich kenne deinen Bruder.	मुझे तुम्हारे भाई का पता है।
+I learned my lesson.	Ich habe meine Lektion gelernt.	मैंने अपना सबक सीखा।

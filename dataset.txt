@@ -1,14 +1,4 @@
 
-I know you like Tom.	Ich weiß, dass du Tom magst.	मुझे पता है कि आप टॉम को पसंद करते हैं।
-I know you like Tom.	Ich kenne dich wie Tom	मुझे पता है कि आपको टॉम पसंद है
-I know you love Tom.	Ich weiß, dass du Tom liebst.	मुझे पता है कि आप टॉम से प्यार करते हैं।
-I know you miss Tom.	Ich weiß, dass du Tom vermisst.	मुझे पता है कि आप टॉम को याद करते हैं।
-I know you're happy.	Ich weiß, dass du glücklich bist.	मुझे पता है कि आप खुश हैं।
-I know you're right.	Ich weiß, dass du recht hast.	मुझे पता है कि आप सही हैं।
-I know you're right.	Ich weiß, dass Sie recht haben.	मुझे पता है कि आप सही हैं।
-I know you're upset.	Ich weiß, dass du verärgert bist.	मुझे पता है कि आप परेशान हैं।
-I know your brother.	Ich kenne deinen Bruder.	मैं तुम्हारे भाई को जानता हूं।
-I learned my lesson.	Ich habe meine Lektion gelernt.	मैंने अपना सबक सीखा।
 I leave that to you.	Das überlasse ich dir.	यह आप पर निर्भर करता है।
 I let down the rope.	Ich ließ das Seil hinunter.	मैंने रस्सी को नीचे जाने दिया।
 I like Boston a lot.	Ich mag Boston sehr.	मुझे बोस्टन बहुत पसंद है।
