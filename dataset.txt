@@ -1,14 +1,4 @@
 
-He is a good speaker.	Er ist ein guter Redner.	वह एक अच्छा वक्ता है।
-He is a good student.	Er ist ein guter Schüler.	वह एक अच्छा छात्र है।
-He is a good swimmer.	Er ist ein guter Schwimmer.	वह एक अच्छा तैराक है।
-He is a handsome man.	Er ist ein gut aussehender Mann.	वह एक अच्छा आदमी है।
-He is a harsh critic.	Er ist ein scharfer Kritiker.	वह एक तेज आलोचक है।
-He is a lazy student.	Er ist ein fauler Student.	वह एक आलसी छात्र है।
-He is a tough cookie.	Er ist abgebrüht.	वह पीसा जाता है।
-He is about to leave.	Er ist drauf und dran zu gehen.	वह उस पर है।
-He is about your age.	Er ist ungefähr in deinem Alter.	यह आपकी उम्र के बारे में है।
-He is afraid of dogs.	Er hat Angst vor Hunden.	वह कुत्तों से डरता है।
 He is afraid to swim.	Er hat Angst vorm Schwimmen.	वह तैराकी से डरता है।
 He is always reading.	Er liest ständig.	वह हर समय पढ़ता है।
 He is always reading.	Er liest immerzu.	वह हमेशा पढ़ता है।

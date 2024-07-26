@@ -31036,3 +31036,13 @@ He hit me by mistake.	Er hat mich versehentlich geschlagen.	उसने मु�
 He insulted our team.	Er hat unser Team beleidigt.	उसने हमारे टीम का अपमान किया।
 He is a Japanese boy.	Er ist ein japanischer Junge.	वह एक जापानी लड़का है।
 He is a good athlete.	Er ist ein guter Athlet.	वह एक अच्छे खिलाड़ी है।
+He is a good speaker.	Er ist ein guter Redner.	वह एक अच्छा वक्ता है।
+He is a good student.	Er ist ein guter Schüler.	वह एक अच्छा छात्र है।
+He is a good swimmer.	Er ist ein guter Schwimmer.	वह एक अच्छा तैराक है।
+He is a handsome man.	Er ist ein gutaussehender Mann.	वह एक हैंडसम पुरुष है।
+He is a harsh critic.	Er ist ein harter Kritiker.	वह एक कठोर समीक्षक है।
+He is a lazy student.	Er ist ein fauler Schüler.	वह एक सुस्त छात्र है।
+He is a tough cookie.	Er ist eine harte Nuss.	वह एक टफ कुकी है।
+He is about to leave.	Er steht kurz davor zu gehen.	वह जानेवाला है।
+He is about your age.	Er ist ungefähr in deinem Alter.	वह तुम्हारी उम्र के करीब है।
+He is afraid of dogs.	Er hat Angst vor Hunden.	उसे कुत्तों से डर लगता है।
