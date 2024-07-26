@@ -1,14 +1,4 @@
 
-The door will not open.	Diese Tür lässt sich nicht öffnen.	यह दरवाजा नहीं खोला जा सकता है।
-The door will not open.	Diese Tür will nicht aufgehen.	यह दरवाजा खोलना नहीं चाहता है।
-The door wouldn't open.	Die Tür ging nicht auf.	दरवाजा नहीं खुला।
-The door wouldn't shut.	Die Tür ließ sich nicht schließen.	दरवाजा बंद नहीं किया जा सका।
-The dress is pure silk.	Das Kleid ist aus reiner Seide.	पोशाक शुद्ध रेशम से बनी है।
-The exam was very easy.	Die Prüfung war ganz leicht.	परीक्षा बहुत आसान थी।
-The exam was very easy.	Das Examen war sehr einfach.	परीक्षा बहुत सरल थी।
-The faucet is dripping.	Der Wasserhahn tropft.	नल लीक।
-The first time is free.	Das erste Mal ist umsonst.	पहली बार स्वतंत्र है।
-The fish was delicious.	Der Fisch war köstlich.	मछली स्वादिष्ट थी।
 The food was delicious.	Das Essen war köstlich.	भोजन स्वादिष्ट था।
 The food was very good.	Das Essen war sehr gut.	खाना बहुत अच्छा था।
 The food was wonderful.	Das Essen schmeckte wunderbar.	भोजन का स्वाद अद्भुत था।
