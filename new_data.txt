@@ -35914,3 +35914,10 @@ You're a good mother.	Du bist eine gute Mutter.	तुम एक अच्छी
 You're a good person.	Sie sind eine gute Person.	तुम एक अच्छे इंसान हो।
 You're a kind person.	Du bist eine freundliche Person.	तुम एक दयालु इंसान हो।
 You're a mean person.	Du bist eine gemeine Person.	तुम एक निर्दयी इंसान हो।
+You're a prince, Tom.	Du bist ein Prinz, Tom.	तुम एक राजकुमार हो, टॉम।
+You're a real friend.	Du bist ein echter Freund.	तुम एक सच्चे दोस्त हो।
+You're a total wreck.	Du bist ein komplettes Wrack.	तुम पूरी तरह बर्बाद हो।
+You're a true friend.	Du bist ein wahrer Freund.	तुम एक सच्चे दोस्त हो।
+You're afraid of him.	Du hast Angst vor ihm.	तुम्हें उससे डर लगता है।
+You're always around.	Du bist immer in der Nähe.	तुम हमेशा चारों ओर हो।
+You're among friends.	Du befindest dich unter Freunden.	तुम दोस्तों के बीच में हो।

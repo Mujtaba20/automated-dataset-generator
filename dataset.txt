@@ -1,15 +1,4 @@
 
-You're a prince, Tom.	Du bist ein Prinz, Tom.	आप एक राजकुमार हैं, टॉम।
-You're a real friend.	Du bist ein echter Freund.	आप एक असली दोस्त हैं।
-You're a total wreck.	Du bist ein völliges Wrack.	आप एक पूर्ण मलबे हैं।
-You're a true friend.	Du bist ein wahrer Freund.	आप एक सच्चे दोस्त हैं।
-You're afraid of him.	Du hast Angst vor ihm.	आप उससे डरते हैं।
-You're afraid of him.	Ihr habt Angst vor ihm.	आप उससे डरते हैं।
-You're afraid of him.	Sie haben Angst vor ihm.	आप उससे डरते हैं।
-You're always around.	Du bist immer dabei.	तुम हमेशा वहाँ हो।
-You're among friends.	Du bist unter Freunden.	आप दोस्तों में से हैं।
-You're among friends.	Sie sind unter Freunden.	आप दोस्तों में से हैं।
-You're among friends.	Ihr seid unter Freunden.	आप दोस्तों में से हैं।
 You're being evasive.	Du weichst mir aus.	तुम मुझे नरम करो।
 You're being evasive.	Sie weichen mir aus.	वे मुझसे बचते हैं।
 You're being watched.	Du wirst beobachtet.	आपको देखा जा रहा है।
