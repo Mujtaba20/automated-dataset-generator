@@ -36320,3 +36320,9 @@ Did you see Tom today? (different meaning)	Hast du Tom heute gesehen?	क्य�
 Did you see her there?	Hast du sie dort gesehen?	क्या तुमने उसे वहाँ देखा?
 Did you see my camera?	Hast du meine Kamera gesehen?	क्या तुमने मेरी कैमरा देखी है?
 Did you see my father?	Hast du meinen Vater gesehen?	क्या तुमने मेरे पिताजी को देखा?
+Did you see the knife?	Hast du das Messer gesehen?	क्या तुमने चाकू देखा?
+Did you sign anything?	Hast du etwas unterschrieben?	क्या तुमने कुछ हस्ताक्षर किए हैं?
+Did you take a shower?	Hast du geduscht?	क्या तुमने शौच किया?
+Did you telephone him?	Hast du ihn telefoniert?	क्या तुमने उसे फ़ोन किया?
+Did you tell Tom that?	Hast du das Tom gesagt?	क्या तुमने टॉम को वह बताया?
+Did you tell Tom that? (different meaning)	Hast du das Tom erzählt?	क्या तुमने टॉम को यह बताया?
