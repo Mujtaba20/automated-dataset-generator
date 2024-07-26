@@ -25667,3 +25667,13 @@ He has many friends.	Er hat viele Freunde.	उसके बहुत सार�
 He has many talents.	Er hat viele Talente.	उसके पास कई प्रतिभाएं हैं।
 He has two Picassos.	Er hat zwei Picassos.	उसके पास दो पिकासो हैं।
 He hates air travel.	Er hasst Flugreisen.	उसे हवाई यात्रा से नफरत है।
+He himself tried it.	Er selbst hat es versucht.	उसने खुद कोशिश की।
+He hoped to succeed.	Er hoffte zu gelingen.	उसने आशा की सफलता पाने की।
+He hung up his coat.	Er hängte seinen Mantel auf.	उसने अपनी कोट लटका दी।
+He is a born artist.	Er ist ein geborener Künstler.	वह बायाज शिल्पकार है।
+He is a fast runner.	Er ist ein schneller Läufer.	वह एक तेज दौड़ने वाला है।
+He is a fish dealer.	Er ist ein Fischhändler.	वह मछली बेचने वाला है।
+He is a good doctor.	Er ist ein guter Arzt.	वह एक अच्छे चिकित्सक है।
+He is a good singer.	Er ist ein guter Sänger.	वह अच्छे गायक है।
+He is a good writer.	Er ist ein guter Schriftsteller.	वह एक अच्छे लेखक है।
+He is a jealous man.	Er ist ein eifersüchtiger Mann.	वह एक जालसाज आदमी है।
