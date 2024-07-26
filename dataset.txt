@@ -1,14 +1,4 @@
 
-What's Tom's address?	Wie lautet Toms Adresse?	टॉम का पता क्या है?
-What's Tom's problem?	Was ist Toms Problem?	टॉम की समस्या क्या है?
-What's bothering you?	Was beunruhigt Sie?	आपको क्या चिंता है?
-What's going on here?	Was ist hier los?	यहाँ क्या चल रहा है?
-What's going on, Tom?	Was ist los, Tom?	क्या चल रहा है, टॉम?
-What's in it for you?	Was ist da für dich drin?	आपके लिए क्या है?
-What's in the basket?	Was ist im Korb?	टोकरी में क्या है?
-What's in the bottle?	Was ist in der Flasche?	बोतल में क्या है?
-What's in the bucket?	Was ist in dem Eimer?	बाल्टी में क्या है?
-What's in the fridge?	Was ist im Kühlschrank?	फ्रिज में क्या है?
 What's mine is yours.	Was mein, ist dein.	मेरा क्या है तुम्हारा।
 What's that building?	Was ist das für ein Gebäude?	वह किस तरह की इमारत है?
 What's the commotion?	Was ist das hier für ein Tumult?	यह किस तरह का है?

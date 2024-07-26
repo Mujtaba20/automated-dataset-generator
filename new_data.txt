@@ -35441,3 +35441,13 @@ What're you drinking?	Was trinkst du?	तुम क्या पी रहे �
 What're you thinking?	Was denkst du?	तुम क्या सोच रहे हो?
 What're you watching?	Was schaust du?	तुम क्या देख रहे हो?
 What's Tom look like?	Wie sieht Tom aus?	टॉम कैसा दिखता है?
+What's Tom's address?	Was ist Tom's Adresse?	टॉम का पता क्या है?
+What's Tom's problem?	Was ist Tom's Problem?	टॉम की समस्या क्या है?
+What's bothering you?	Was belästigt dich?	तुम्हें क्या परेशान कर रहा है?
+What's going on here?	Was passiert hier?	यहाँ क्या हो रहा है?
+What's going on, Tom?	Was ist los, Tom?	टॉम, क्या हो रहा है?
+What's in it for you?	Was ist drin für dich?	तुम्हारे लिए इसमें क्या है?
+What's in the basket?	Was ist im Korb?	टोकरी में क्या है?
+What's in the bottle?	Was ist in der Flasche?	बोतल में क्या है?
+What's in the bucket?	Was ist im Eimer?	बाल्टी में क्या है?
+What's in the fridge?	Was ist im Kühlschrank?	फ्रिज में क्या है?
