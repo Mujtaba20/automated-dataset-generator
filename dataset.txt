@@ -1,14 +1,4 @@
 
-She is out of her mind.	Sie ist verrückt.	वह पागल है।
-She is used to sitting.	Sie ist es gewohnt zu sitzen.	उसे बैठने की आदत है।
-She is very photogenic.	Sie ist sehr fotogen.	वह बहुत फोटोजेनिक है।
-She is washing the car.	Sie wäscht das Auto.	वह कार धो लेती है।
-She is wiser than I am.	Sie ist klüger als ich.	वह मुझसे ज्यादा चालाक है।
-She kissed me, not him.	Sie küsste mich, nicht ihn.	उसने मुझे चूमा, उसे नहीं।
-She knit him a sweater.	Sie strickte ihm einen Pullover.	उसने उसके लिए एक स्वेटर बुना।
-She knit him a sweater.	Sie hat ihm einen Pullover gestrickt.	उसने उसके लिए एक स्वेटर बुना।
-She knows what you did.	Sie weiß, was du getan hast.	वह जानती है कि आपने क्या किया।
-She knows who they are.	Sie weiß, wer sie sind.	वह जानती है कि वे कौन हैं।
 She lacks common sense.	Ihr fehlt gesunder Menschenverstand.	उसके पास सामान्य ज्ञान का अभाव है।
 She lacks common sense.	Ihr fehlt der Hausverstand.	उसके पास सामान्य ज्ञान का अभाव है।
 She lied about her age.	Sie log in Bezug auf ihr Alter.	वह आपकी उम्र के संबंध में लॉग इन करती है।
