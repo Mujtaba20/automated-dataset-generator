@@ -32759,3 +32759,12 @@ Isn't that the truth?	Ist das nicht die Wahrheit?	क्या यह सच न
 Isn't this Tom's car?	Ist das nicht Toms Auto?	क्या यह टॉम की कार नहीं है?
 It affects all of us.	Es betrifft uns alle.	यह हम सभी पर असर डालता है।
 It began to sprinkle.	Es begann zu nieseln.	हल्का बारिश शुरू हो गई।
+It belongs to me now.	Es gehört jetzt mir.	अब यह मेरे पास है।
+It can't be that bad.	Es kann nicht so schlimm sein.	यह इतना बुरा नहीं हो सकता।
+It cost Tom his life.	Es hat Tom sein Leben gekostet.	इसने टॉम की ज़िन्दगी की कीमत चुकाई।
+It could be anywhere.	Es könnte überall sein.	यह कहीं भी हो सकता है।
+It doesn't look good.	Es sieht nicht gut aus.	यह अच्छा नहीं लग रहा है।
+It feels good to win.	Es fühlt sich gut an zu gewinnen.	जीतने में अच्छा लगता है।
+It gets on my nerves.	Es nervt mich.	यह मुझे परेशान करता है।
+It glows in the dark.	Es leuchtet im Dunkeln.	यह अंधेरे में चमकता है।
+It happened suddenly.	Es geschah plötzlich.	यह अचानक हुआ।
