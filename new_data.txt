@@ -22817,3 +22817,8 @@ Stop staring at me.	Hör auf, mich anzugaffen.	मुझे घूरना ब�
 Stop that nonsense.	Stoppe diesen Unsinn.	उस बकवास को रोको।
 Stop this nonsense.	Hör mit diesem Unsinn auf.	इस मनोरंजन का कार्य बंद करो।
 Stop where you are.	Bleib stehen, wo du bist.	जहाँ खड़े हो रुको।
+Stop yelling at me.	Hör auf mich anzuschreien.	मुझपर चिल्लाना बंद करो।
+Stop your nonsense!	Hör auf mit deinem Unsinn!	अपने बकवास बंद करो!
+Stop. That tickles.	Stopp. Das kitzelt.	रुको। यह क्या है।
+Sushi is delicious.	Sushi ist köstlich.	सुशी स्वादिष्ट है।
+Take a closer look.	Schau genauer hin.	और करीब से देखो।
