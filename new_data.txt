@@ -41429,3 +41429,8 @@ Where's the bartender?	Wo ist der Barkeeper?	बारटेंडर कहा�
 Where's the cafeteria?	Wo ist die Cafeteria?	कैफ़ेटेरिया कहाँ है?
 Where's the gift shop?	Wo ist der Geschenkeladen?	गिफ्ट शॉप कहाँ है?
 Where's the newspaper?	Wo ist die Zeitung?	अखबार कहां है?
+Where's the other one?	Wo ist der andere?	दूसरा कहाँ है?
+Where's the president?	Wo ist der Präsident?	राष्ट्रपति कहाँ है?
+Where's your car, Tom?	Wo ist dein Auto, Tom?	तोम, तुम्हारी कार कहाँ है?
+Where's your computer?	Wo ist dein Computer?	तुम्हारा कंप्यूटर कहाँ है?
+Where's your daughter?	Wo ist deine Tochter?	तुम्हारी बेटी कहाँ है?

@@ -1,15 +1,4 @@
 
-Where's the other one?	Wo ist der andere?	दूसरा कहाँ है?
-Where's the other one?	Wo ist die andere?	दूसरा कहाँ है?
-Where's the other one?	Wo ist das andere?	दूसरा कहाँ है?
-Where's the president?	Wo ist der Präsident?	राष्ट्रपति कहाँ है?
-Where's your car, Tom?	Wo ist dein Auto, Tom?	आपकी कार, टॉम कहाँ है?
-Where's your computer?	Wo ist dein Rechner?	आपका कंप्यूटर कहाँ है?
-Where's your computer?	Wo ist Ihr Rechner?	आपका कंप्यूटर कहाँ है?
-Where's your computer?	Wo ist euer Rechner?	आपका कंप्यूटर कहाँ है?
-Where's your daughter?	Wo ist deine Tochter?	आपकी बेटी कहां है?
-Where's your daughter?	Wo ist eure Tochter?	आपकी बेटी कहां है?
-Where's your daughter?	Wo ist Ihre Tochter?	आपकी बेटी कहां है?
 Where's your grandson?	Wo ist dein Enkelsohn?	आपका पोता कहाँ है?
 Where's your notebook?	Wo ist dein Notizbuch?	आपकी नोटबुक कहाँ है?
 Where's your suitcase?	Wo ist dein Koffer?	आपका सूटकेस कहाँ है?
