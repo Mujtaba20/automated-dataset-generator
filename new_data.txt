@@ -28761,3 +28761,12 @@ Tom has no children.	Tom hat keine Kinder.	टॉम के कोई बच्�
 Tom has no siblings.	Tom hat keine Geschwister.	टॉम के कोई सांतानित्व नहीं है।
 Tom has one brother.	Tom hat einen Bruder.	टॉम का एक भाई है।
 Tom has one for you.	Tom hat einen für dich.	टॉम के पास एक तुम्हारे लिए है।
+Tom has other plans.	Tom hat andere Pläne.	टॉम के पास अन्य योजनाएं हैं।
+Tom has small hands.	Tom hat kleine Hände.	टॉम के पास छोटे हाथ हैं।
+Tom has the day off.	Tom hat frei.	टॉम को अवकाश है।
+Tom has tonsillitis.	Tom hat Mandelentzündung.	टॉम को टॉन्सिलाइटिस है।
+Tom has two sisters.	Tom hat zwei Schwestern.	टॉम के दो बहनें हैं।
+Tom has worked hard.	Tom hat hart gearbeitet.	टॉम ने कड़ी मेहनत की है।
+Tom hasn't come yet.	Tom ist noch nicht gekommen.	टॉम अभी तक नहीं आया है।
+Tom hasn't quit yet.	Tom hat noch nicht aufgegeben.	टॉम क्विट नहीं किया है।
+Tom hates Christmas.	Tom hasst Weihnachten.	टॉम नफरत करता है क्रिसमस से।

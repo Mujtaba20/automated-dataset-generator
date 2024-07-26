@@ -1,14 +1,4 @@
 
-Tom has other plans.	Tom hat andere Pläne.	टॉम की अन्य योजनाएं हैं।
-Tom has small hands.	Tom hat kleine Hände.	टॉम के छोटे हाथ हैं।
-Tom has the day off.	Tom hat den Tag frei.	टॉम का दिन मुक्त है।
-Tom has tonsillitis.	Tom hat Angina.	टॉम के पास एनजाइना है।
-Tom has tonsillitis.	Tom hat eine Mandelentzündung.	टॉम में एक टॉन्सिलिटिस है।
-Tom has two sisters.	Tom hat zwei Schwestern.	टॉम की दो बहनें हैं।
-Tom has worked hard.	Tom hat schwer gearbeitet.	टॉम ने कड़ी मेहनत की।
-Tom hasn't come yet.	Tom ist noch nicht da.	टॉम अभी तक नहीं है।
-Tom hasn't quit yet.	Tom hat noch nicht aufgehört.	टॉम बंद नहीं हुआ है।
-Tom hates Christmas.	Tom hasst Weihnachten.	टॉम को क्रिसमस से नफरत है।
 Tom hates everybody.	Tom hasst alle und jeden.	टॉम हर किसी और सभी से नफरत करता है।
 Tom hates the rules.	Tom hasst Vorschriften.	टॉम नियमों से नफरत करता है।
 Tom hates your guts.	Tom hasst dich wie die Pest.	टॉम आपको प्लेग पसंद है।
