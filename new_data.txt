@@ -26334,3 +26334,10 @@ I have one of those.	Ich habe eins davon.	मेरे पास उनमें
 I have one question.	Ich habe eine Frage.	मेरे पास एक सवाल है।
 I have only one dog.	Ich habe nur einen Hund.	मेरे पास केवल एक कुत्ता है।
 I have tennis elbow.	Ich habe Tennisellenbogen.	मेरे पास टेनिस कोंधी है।
+I have things to do.	Ich habe Dinge zu tun.	मेरे पास करने के लिए चीजें हैं।
+I have three nieces.	Ich habe drei Nichten.	मेरे पास तीन भतीजियां हैं।
+I have to change it.	Ich muss es ändern.	मुझे इसे बदलना है।
+I have to do it now.	Ich muss es jetzt tun.	मुझे अब यह करना होगा।
+I have to go to bed.	Ich muss ins Bett gehen.	मुझे सोने जाना है।
+I have to have that.	Ich muss das haben.	मुझे वह चाहिए।
+I have to leave now.	Ich muss jetzt gehen.	मुझे अब जाना है।

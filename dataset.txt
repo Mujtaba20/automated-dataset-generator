@@ -1,15 +1,4 @@
 
-I have things to do.	Ich bin beschäftigt.	मैं व्यस्त हूं।
-I have things to do.	Ich habe Dinge zu tun.	मुझे कुछ करना है।
-I have three nieces.	Ich habe drei Nichten.	मेरे पास तीन भतीजी हैं।
-I have to change it.	Ich muss es ändern.	मुझे इसे बदलना है।
-I have to do it now.	Ich muss es jetzt tun.	मुझे अब यह करना है।
-I have to go to bed.	Ich muss ins Bett gehen.	मुझे बिस्तर पर जाना है।
-I have to go to bed.	Ich muss zu Bett gehen.	मुझे बिस्तर पर जाना है।
-I have to have that.	Ich muss das haben.	मेरे पास वह है।
-I have to leave now.	Ich muss jetzt gehen.	अब मुझे जाना होगा।
-I have to leave now.	Ich muss nun weggehen.	मुझे अब दूर जाना है।
-I have to leave now.	Ich muss jetzt los.	मुजे जाना है।
 I have to leave you.	Ich muss dich verlassen.	मुझे आपको छोड़ना होगा।
 I have to repair it.	Ich muss es reparieren.	मुझे इसकी मरम्मत करनी है।
 I have to repair it.	Ich muss sie reparieren.	मुझे उनकी मरम्मत करनी है।
