@@ -40838,3 +40838,13 @@ Tom was flabbergasted.	Tom war verblüfft.	टॉम हैरान था।
 Tom was fully clothed.	Tom war vollständig bekleidet.	टॉम पूरी तरह से कपड़े पहने हुए थे।
 Tom was great at that.	Tom war großartig darin.	टॉम उसमें शानदार था।
 Tom was in a bad mood.	Tom war schlechter Stimmung.	टॉम का मन बुरा था।
+Tom was in the garden.	Tom war im Garten.	टॉम बगीचे में था।
+Tom was in the shower.	Tom war in der Dusche.	टॉम नहाने में था।
+Tom was late for work.	Tom war spät zur Arbeit.	टॉम काम के लिए देर से था।
+Tom was listed as MIA.	Tom wurde als vermisst geführt.	टॉम को लापता के रूप में दर्ज किया गया था।
+Tom was married twice.	Tom war zweimal verheiratet.	टॉम को दो बार शादी हुई थी।
+Tom was my babysitter.	Tom war mein Babysitter.	टॉम मेरा बेबीसिटर था।
+Tom was my first love.	Tom war meine erste Liebe.	टॉम मेरा पहला प्यार था।
+Tom was never content.	Tom war nie zufrieden.	टॉम कभी भी संतुष्ट नहीं था।
+Tom was never jealous.	Tom war nie eifersüchtig.	टॉम कभी भी जलन नहीं करता था।
+Tom was never unhappy.	Tom war nie unglücklich.	टॉम कभी भी दुखी नहीं था।
