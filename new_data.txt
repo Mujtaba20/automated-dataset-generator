@@ -40655,3 +40655,10 @@ Tom said he would try.	Tom sagte, er würde es versuchen.	टॉम ने क�
 Tom said he'd be here.	Tom sagte, er wäre hier.	टॉम ने कहा कि वह यहाँ होगा।
 Tom said he'd do that.	Tom sagte, dass er das tun würde.	टॉम ने कहा कि वह वह करेगा।
 Tom said he's thirsty.	Tom sagte, er sei durstig.	टॉम ने कहा कि उसे प्यास लगी है।
+Tom said it as a joke.	Tom sagte es als Witz.	टॉम ने इसे मजाक के रूप में कहा।
+Tom said to say hello.	Tom sagte, um Hallo zu sagen.	टॉम ने कहा की नमस्कार कहो।
+Tom sat by the window.	Tom saß am Fenster.	टॉम खिड़की के पास बैठा था।
+Tom sat near the fire.	Tom saß in der Nähe des Feuers.	टॉम आगे के पास बैठा था।
+Tom saved Mary a seat.	Tom speicherte Mary einen Sitzplatz.	टॉम ने मेरी के लिए एक स्थान बचाया।
+Tom saved Mary's life.	Tom rettete Marys Leben.	टॉम ने मेरी की जान बचाई।
+Tom saw Mary swimming.	Tom sah Mary schwimmen.	टॉम ने मेरी को तैरते हुए देखा।

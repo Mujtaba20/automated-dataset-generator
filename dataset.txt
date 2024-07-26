@@ -1,15 +1,4 @@
 
-Tom said it as a joke.	Tom sagte das im Scherz.	टॉम ने कहा कि एक मजाक में।
-Tom said to say hello.	Tom hat mir gesagt, ich soll Hallo sagen.	टॉम ने मुझे बताया कि मुझे नमस्ते कहना चाहिए।
-Tom sat by the window.	Tom saß am Fenster.	टॉम खिड़की पर बैठा था।
-Tom sat near the fire.	Tom saß am Feuer.	टॉम आग से बैठ गया।
-Tom sat near the fire.	Tom saß nah am Feuer.	टॉम आग के करीब बैठ गया।
-Tom sat near the fire.	Tom saß in der Nähe des Feuers.	टॉम आग के पास बैठ गया।
-Tom saved Mary a seat.	Tom hielt Mary einen Sitz frei.	टॉम ने मैरी को एक सीट रखी।
-Tom saved Mary a seat.	Tom hielt Maria einen Platz frei.	टॉम ने मारिया को जगह बनाई।
-Tom saved Mary's life.	Tom hat Maria das Leben gerettet.	टॉम ने मारिया की जान बचाई।
-Tom saw Mary swimming.	Tom sah Maria schwimmen.	टॉम ने मारिया तैराकी देखी।
-Tom saw Mary swimming.	Tom hat Maria beim Schwimmen gesehen.	टॉम ने मारिया तैराकी देखी।
 Tom says he does that.	Tom sagt, er macht das.	टॉम का कहना है कि वह ऐसा करता है।
 Tom says he knows you.	Tom sagt, er kennt dich.	टॉम का कहना है कि वह आपको जानता है।
 Tom says you're lying.	Tom sagt, du lügst.	टॉम कहते हैं कि आप झूठ बोल रहे हैं।
