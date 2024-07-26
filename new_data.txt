@@ -22025,3 +22025,12 @@ I'm now very tired.	Ich bin jetzt sehr müde.	मैं अब बहुत थ�
 I'm off duty today.	Ich habe heute frei.	आज मेरी ड्यूटी खत्म है।
 I'm older than Tom.	Ich bin älter als Tom.	मैं टॉम से अधिक उम्र का हूं।
 I'm on the balcony.	Ich bin auf dem Balkon.	मैं बालकनी पर हूं।
+I'm over the shock.	Ich bin über den Schock hinweg.	मैं आश्चर्यचकित हूं।
+I'm poor at French.	Ich bin schlecht in Französisch.	मैं फ्रेंच में गरीब हूं।
+I'm probably wrong.	Ich liege wahrscheinlich falsch.	शायद मैं गलत हूं।
+I'm quite busy now.	Ich bin jetzt ziemlich beschäftigt.	अब मैं काफी व्यस्त हूं।
+I'm reading a book.	Ich lese ein Buch.	मैं किताब पढ़ रहा हूँ।
+I'm reading it now.	Ich lese es gerade.	मैं अभी यह पढ़ रहा हूं।
+I'm ready to begin.	Ich bin bereit zu beginnen.	मैं शुरू करने के लिए तैयार हूँ।
+I'm ready to start.	Ich bin bereit anzufangen.	मैं शुरू करने के लिए तैयार हूँ।
+I'm really careful.	Ich bin wirklich vorsichtig.	मैं सच्चे रूप से सावधान हूं।
