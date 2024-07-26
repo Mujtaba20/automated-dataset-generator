@@ -38056,3 +38056,13 @@ I won't get into that.	Ich werde mich nicht darauf einlassen.	मैं उस�
 I won't go back there.	Ich werde nicht dorthin zurückgehen.	मैं वहाँ वापस नहीं जाऊंगा।
 I won't let you do it.	Ich werde dich nicht lassen, es zu tun.	मैं तुम्हें यह करने नहीं दूँगा।
 I won't pay this bill.	Ich werde diese Rechnung nicht bezahlen.	मैं इस बिल का भुगतान नहीं करूँगा।
+I won't take the bait.	Ich werde nicht in die Falle tappen.	मैं कसी ओछे बहाने में नहीं पड़ूंगा।
+I won't tolerate that.	Das werde ich nicht tolerieren.	मैं किसी ऐसी बात को सहन नहीं करूंगा।
+I won't tolerate this.	Ich werde das nicht dulden.	मैं यह सहन नहीं करूंगा।
+I won't wash your car.	Ich werde dein Auto nicht waschen.	मैं तुम्हारी गाड़ी नहीं धोऊंगा।
+I won't work with him.	Ich werde nicht mit ihm arbeiten.	मैं उसके साथ काम नहीं करूंगा।
+I wonder who they are.	Ich frage mich, wer sie sind.	मैं हैरान हूं कि वे कौन हैं।
+I wonder why Tom left.	Ich frage mich, warum Tom gegangen ist.	मैं हैरान हूं कि टॉम ने क्यों छोड़ दिया।
+I work at the embassy.	Ich arbeite an der Botschaft.	मैं दूतावास में काम करता हूं।
+I work even on Sunday.	Ich arbeite sogar am Sonntag.	मैं रविवार के दिन भी काम करता हूं।
+I work for McDonald's.	Ich arbeite für McDonald's.	मैं मैकडॉनल्ड्स के लिए काम करता हूं।
