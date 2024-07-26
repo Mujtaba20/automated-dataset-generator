@@ -1,16 +1,4 @@
 
-Tom won a gold medal.	Tom gewann eine Goldmedaille.	टॉम ने स्वर्ण पदक जीता।
-Tom won the marathon.	Tom hat den Marathon gewonnen.	टॉम ने मैराथन जीता।
-Tom won't come today.	Tom kommt heute nicht.	टॉम आज नहीं आता है।
-Tom won't let you go.	Tom wird dich nicht gehen lassen.	टॉम आपको जाने नहीं देगा।
-Tom won't let you go.	Tom wird euch nicht gehen lassen.	टॉम आपको जाने नहीं देगा।
-Tom won't let you go.	Tom wird Sie nicht gehen lassen.	टॉम उसे जाने नहीं देगा।
-Tom won't understand.	Tom wird das nicht verstehen.	टॉम को यह समझ में नहीं आएगा।
-Tom wore a Santa hat.	Tom trug eine Nikolausmütze.	टॉम ने सांता क्लॉज़ हैट पहना था।
-Tom wore a straw hat.	Tom trug einen Strohhut.	टॉम ने स्ट्रॉ हैट पहना था।
-Tom wore black jeans.	Tom trug schwarze Jeans.	टॉम ने काली जींस पहनी थी।
-Tom wore black jeans.	Tom trug eine schwarze Nietenhose.	टॉम ने काली रिवेट पैंट पहनी थी।
-Tom wore black jeans.	Tom hatte eine schwarze Nietenhose an.	टॉम ब्लैक रिवेट पैंट पर था।
 Tom worked all night.	Tom hat die ganze Nacht gearbeitet.	टॉम ने पूरी रात काम किया।
 Tom worked in Boston.	Tom hat in Boston gearbeitet.	टॉम ने बोस्टन में काम किया।
 Tom worked very hard.	Tom arbeitete sehr hart.	टॉम ने बहुत मेहनत की।
