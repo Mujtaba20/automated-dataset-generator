@@ -1,15 +1,4 @@
 
-The situation is dire.	Die Lage ist ernst.	स्थिति गंभीर है।
-The sky's clear today.	Der Himmel ist heute klar.	आकाश आज साफ है।
-The soldiers are dead.	Die Soldaten sind tot.	सैनिक मर चुके हैं।
-The soup is too salty.	Die Suppe ist zu salzig.	सूप बहुत नमकीन है।
-The soup is too salty.	Die Suppe ist versalzen.	सूप नमकीन है।
-The spider spun a web.	Die Spinne spann ein Netz.	मकड़ी एक नेटवर्क है।
-The stars are shining.	Die Sterne leuchten.	सितारे चमकते हैं।
-The station is nearby.	Die Station ist in der Nähe.	स्टेशन पास में है।
-The story sounds true.	Die Geschichte klingt glaubwürdig.	कहानी विश्वसनीय लगती है।
-The story was amusing.	Die Geschichte war amüsant.	कहानी मनोरंजक थी।
-The story was amusing.	Die Geschichte war unterhaltsam.	कहानी मनोरंजक थी।
 The streets are clean.	Die Straßen sind sauber.	सड़कें साफ हैं।
 The streets are dirty.	Die Straßen sind dreckig.	सड़कें गंदे हैं।
 The students are back.	Die Studenten sind zurück.	छात्र वापस आ गए हैं।

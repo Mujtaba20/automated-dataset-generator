@@ -39537,3 +39537,12 @@ The rumor may be true.	Das Gerücht könnte wahr sein.	अफवाह सच �
 The rumors were false.	Die Gerüchte waren falsch.	अफवाहें गलत थीं।
 The secret leaked out.	Das Geheimnis wurde geleakt.	राज आ गया।
 The secret leaked out. (Different meaning):	Das Geheimnis wurde verraten.	गुप्त बातें फैल गईं।
+The situation is dire.	Die Situation ist ernst.	स्थिति जीवनी है।
+The sky's clear today.	Der Himmel ist heute klar.	आज आसमान साफ है।
+The soldiers are dead.	Die Soldaten sind tot.	सैनिक मर गए हैं।
+The soup is too salty.	Die Suppe ist zu salzig.	सूप बहुत ज्यादा नमकीन है।
+The spider spun a web.	Die Spinne webte ein Netz.	मकड़ी ने एक जाल बुना।
+The stars are shining.	Die Sterne leuchten.	सितारे चमक रहे हैं।
+The station is nearby.	Der Bahnhof ist in der Nähe.	स्टेशन पास है।
+The story sounds true.	Die Geschichte klingt wahr.	कहानी सच लगती है।
+The story was amusing.	Die Geschichte war amüsant.	कहानी मनोरंजक थी।
