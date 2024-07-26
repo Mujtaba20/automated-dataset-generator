@@ -1,14 +1,4 @@
 
-I suspect he is ill.	Ich fürchte, er ist krank.	मुझे डर है कि वह बीमार है।
-I suspect he is ill.	Er ist krank, fürchte ich.	वह बीमार है, मुझे डर है।
-I talked to friends.	Ich habe mit Freunden gesprochen.	मैंने दोस्तों से बात की।
-I tested everything.	Ich habe alles überprüft.	मैंने सब कुछ चेक किया।
-I tested everything.	Ich habe alles geprüft.	मैंने सब कुछ चेक किया।
-I think I can do it.	Ich denke, ich kann das machen.	मुझे लगता है कि मैं ऐसा कर सकता हूं।
-I think I may vomit.	Ich glaube, ich muss mich übergeben.	मुझे लगता है कि मुझे सौंपना होगा।
-I think I sat on it.	Ich glaube, ich habe mich daraufgesetzt.	मुझे लगता है कि मैं इस पर बैठ गया।
-I think I saw a rat.	Ich glaube, ich habe eine Ratte gesehen.	मुझे लगता है कि मैंने एक चूहा देखा।
-I think I'm in love.	Ich glaube, ich bin verliebt.	मुझे लगता है कि मैं प्यार में हूँ।
 I think I've got it.	Ich glaube, ich hab's.	मुझे लगता है कि मेरे पास है।
 I think Tom is deaf.	Ich glaube, dass Tom taub ist.	मुझे लगता है कि टॉम बहरा है।
 I think Tom is deaf.	Ich glaube, Tom ist taub.	मुझे लगता है कि टॉम बहरा है।

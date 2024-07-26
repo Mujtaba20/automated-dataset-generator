@@ -26666,3 +26666,13 @@ I study French, too.	Ich studiere auch Französisch.	मैं भी फ्र�
 I study art history.	Ich studiere Kunstgeschichte.	मैं कला इतिहास पढ़ता हूँ।
 I study mathematics.	Ich studiere Mathematik.	मैं गणित पढ़ता हूँ।
 I suppressed a yawn.	Ich unterdrückte ein Gähnen.	मैंने एक उंकाली रोकी।
+I suspect he is ill.	Ich vermute, dass er krank ist.	मुझे लगता है कि वह बीमार है।
+I suspect he is ill. 	Ich glaube, dass er krank ist.	मुझे ध्यान देने में कोई संदेह नहीं है।
+I talked to friends.	Ich habe mit Freunden gesprochen.	मैंने दोस्तों से बात की।
+I tested everything.	Ich habe alles getestet.	मैंने सब कुछ जांचा।
+I tested everything. 	Ich habe alles überprüft.	मैंने सब कुछ परीक्षण किया।
+I think I can do it.	Ich glaube, ich kann es tun.	मुझे लगता है मैं इसे कर सकता हूँ।
+I think I may vomit.	Ich glaube, ich könnte erbrechen.	मुझे लगता है कि मैं उल्टी कर सकता हूँ।
+I think I sat on it.	Ich denke, ich saß darauf.	मुझे लगता है मैंने उस पर बैठा।
+I think I saw a rat.	Ich glaube, ich habe eine Ratte gesehen.	मुझे लगता है मैंने एक चूहा देखा।
+I think I'm in love.	Ich glaube, ich bin verliebt.	मुझे लगता है मैं प्यार में हूँ।
