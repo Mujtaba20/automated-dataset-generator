@@ -31726,3 +31726,13 @@ I have a good lawyer.	Ich habe einen guten Anwalt.	मेरे पास एक
 I have a green shirt.	Ich habe ein grünes Hemd.	मेरा एक हरा शर्ट है।
 I have a half sister.	Ich habe eine Halbschwester.	मेरी एक आधी बहन है।
 I have a half-sister.	Ich habe eine Halbschwester.	मेरी एक आधी बहन है।
+I have a job for you.	Ich habe einen Job für dich.	मेरे पास तुम्हारे लिए एक नौकरी है।
+I have a lot of land.	Ich habe viel Land.	मेरे पास बहुत सारा जमीन है।
+I have a lot of land. - Different Meaning	Ich habe eine Menge Land.	मेरे पास बहुत सी जमीन है।
+I have a new bicycle.	Ich habe ein neues Fahrrad.	मेरे पास एक नयी साइकिल है।
+I have a new red car.	Ich habe einen neuen roten Wagen.	मेरे पास एक नई लाल कार है।
+I have a new red car. - Different Meaning	Ich habe ein neues rotes Auto.	मेरे पास एक नया लाल गाड़ी है।
+I have a red bicycle.	Ich habe ein rotes Fahrrad.	मेरे पास एक लाल साइकिल है।
+I have a reservation.	Ich habe eine Reservierung.	मेरे पास एक आरक्षण है।
+I have a reservation. - Different Meaning	Ich habe eine Buchung.	मेरे पास एक बुकिंग है।
+I have a sharp knife.	Ich habe ein scharfes Messer.	मेरे पास एक तेज चाकू है।

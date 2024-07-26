@@ -1,14 +1,4 @@
 
-I have a job for you.	Ich habe Arbeit für dich.	मेरे पास आपके लिए काम है।
-I have a lot of land.	Ich habe eine Menge Land.	मेरे पास बहुत सारी जमीन है।
-I have a lot of land.	Ich habe viel Land.	मेरे पास बहुत सारी जमीन है।
-I have a new bicycle.	Ich habe ein neues Fahrrad.	मेरे पास एक नई बाइक है।
-I have a new red car.	Ich habe einen neuen roten Wagen.	मेरे पास एक नई लाल कार है।
-I have a new red car.	Ich habe ein neues rotes Auto.	मेरे पास एक नई लाल कार है।
-I have a red bicycle.	Ich habe ein rotes Fahrrad.	मेरे पास एक लाल बाइक है।
-I have a reservation.	Ich habe eine Reservierung.	मेरा एक आरक्षण है।
-I have a reservation.	Ich habe einen Vorbehalt.	मेरा एक आरक्षण है।
-I have a sharp knife.	Ich habe ein scharfes Messer.	मेरे पास एक तेज चाकू है।
 I have a slight cold.	Ich habe eine leichte Erkältung.	मुझे हल्की ठंड है।
 I have a small fever.	Ich habe leichtes Fieber.	मुझे आसान बुखार है।
 I have a sore throat.	Ich habe Halsweh.	मेरे गले में खराश है।
