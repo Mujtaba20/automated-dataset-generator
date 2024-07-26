@@ -28808,3 +28808,13 @@ Tom is a dishwasher.	Tom ist ein Geschirrspüler.	टॉम एक पानी 
 Tom is a doctor now.	Tom ist jetzt Arzt.	अब टॉम डॉक्टर है।
 Tom is a family man.	Tom ist ein Familienmensch.	टॉम एक परिवार प्रेमी है।
 Tom is a fast eater.	Tom ist ein Schnellesser.	टॉम एक जल्दी खाने वाला है।
+engSentence1	Tom ist jetzt Vater.	टॉम अब पिता है।
+engSentence2	Tom ist Feueresser.	टॉम एक आग खा रहा है।
+engSentence3	Tom ist Fischhändler.	टॉम मछली बेचता है।
+engSentence4	Tom ist ein guter Schauspieler.	टॉम एक अच्छा अभिनेता है।
+engSentence5	Tom ist ein guter Boxer.	टॉम एक अच्छा बॉक्सर है।
+engSentence6	Tom ist ein guter Trainer.	टॉम एक अच्छा प्रशिक्षक है।
+engSentence7	Tom ist ein guter Verlierer.	टॉम एक अच्छा हारने वाला है।
+engSentence8	Tom ist ein guter Pilot.	टॉम एक अच्छा पायलट है।
+engSentence9	Tom ist ein großartiger Koch.	टॉम एक बड़ा व्यंजन पकाने वाला है।
+engSentence10	Tom ist Journalist.	टॉम पत्रकार है।

@@ -1,14 +1,4 @@
 
-Tom is a father now.	Tom ist jetzt Vater.	टॉम अब एक पिता है।
-Tom is a fire eater.	Tom ist Feuerschlucker.	टॉम फायर -स्वालॉवर है।
-Tom is a fishmonger.	Tom ist Fischhändler.	टॉम एक मछली निर्माता है।
-Tom is a good actor.	Tom ist ein guter Schauspieler.	टॉम एक अच्छे अभिनेता हैं।
-Tom is a good boxer.	Tom ist ein guter Boxer.	टॉम एक अच्छा बॉक्सर है।
-Tom is a good coach.	Tom ist ein guter Trainer.	टॉम एक अच्छा ट्रेनर है।
-Tom is a good loser.	Tom ist ein guter Verlierer.	टॉम एक अच्छा हारा हुआ है।
-Tom is a good pilot.	Tom ist ein guter Pilot.	टॉम एक अच्छा पायलट है।
-Tom is a great cook.	Tom ist ein großartiger Koch.	टॉम एक महान रसोइया है।
-Tom is a journalist.	Tom ist Journalist.	टॉम एक पत्रकार हैं।
 Tom is a little odd.	Tom ist etwas komisch.	टॉम थोड़ा अजीब है।
 Tom is a little shy.	Tom ist etwas schüchtern.	टॉम थोड़ा शर्मीला है।
 Tom is a lot better.	Tom geht es viel besser.	टॉम बहुत बेहतर है।
