@@ -1,14 +1,4 @@
 
-Tom is back in Boston.	Tom ist zurück in Boston.	टॉम बोस्टन में वापस आ गया है।
-Tom is baking a pizza.	Tom bäckt eine Pizza.	टॉम एक पिज्जा को काटता है।
-Tom is bald, isn't he?	Tom hat eine Glatze, nicht wahr?	टॉम के पास एक गंजा सिर है, है ना?
-Tom is better than me.	Tom ist besser als ich.	टॉम मुझसे बेहतर है।
-Tom is boiling an egg.	Tom kocht ein Ei.	टॉम एक अंडा पकाते हैं।
-Tom is busy right now.	Tom ist gerade beschäftigt.	टॉम वर्तमान में व्यस्त हैं।
-Tom is calm, isn't he?	Tom ist ruhig, nicht wahr?	टॉम शांत है, है ना?
-Tom is claustrophobic.	Tom ist klaustrophob.	टॉम एक क्लॉस्ट्रोफोब है।
-Tom is clearly insane.	Tom hat eindeutig den Verstand verloren.	टॉम ने स्पष्ट रूप से दिमाग खो दिया।
-Tom is coming for you.	Tom kommt wegen dir.	टॉम आपकी वजह से आता है।
 Tom is coming with me.	Tom wird mich begleiten.	टॉम मेरे साथ जाएगा।
 Tom is coming with us.	Tom kommt mit uns.	टॉम हमारे साथ आता है।
 Tom is consoling Mary.	Tom tröstet Maria.	टॉम कंसोल मारिया।

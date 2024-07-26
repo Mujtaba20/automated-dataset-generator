@@ -40256,3 +40256,13 @@ Tom is as old as Mary.	Tom ist so alt wie Mary.	टॉम मेरी के �
 Tom is as tall as you.	Tom ist so groß wie du.	टॉम तुम्हारे जितने लंबे हैं।
 Tom is at the airport.	Tom ist am Flughafen.	टॉम हवाई अड्डे पर है।
 Tom is away from home.	Tom ist weit weg von Zuhause.	टॉम घर से दूर है।
+Tom is back in Boston.	Tom ist zurück in Boston.	टॉम बॉस्टन में वापस आ गया है।
+Tom is baking a pizza.	Tom bäckt eine Pizza.	टॉम पिज़्ज़ा बना रहा है।
+Tom is bald, isn't he?	Tom ist kahl, oder nicht?	टॉम गंजा है, ना?
+Tom is better than me.	Tom ist besser als ich.	टॉम मुझसे बेहतर है।
+Tom is boiling an egg.	Tom kocht ein Ei.	टॉम एक अंडा उबाल रहा है।
+Tom is busy right now.	Tom ist gerade beschäftigt.	टॉम अभी व्यस्त है।
+Tom is calm, isn't he?	Tom ist ruhig, oder?	टॉम शांत है, ना?
+Tom is claustrophobic.	Tom leidet an Platzangst.	टॉम को स्थानभीति है।
+Tom is clearly insane.	Tom ist offensichtlich wahnsinnig.	टॉम स्पष्ट रूप से पागल है।
+Tom is coming for you.	Tom kommt zu dir.	टॉम तुम्हारे पास आ रहा है।
