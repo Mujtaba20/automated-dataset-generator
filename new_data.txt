@@ -32336,3 +32336,12 @@ I'd love to meet him.	Ich würde ihn gerne treffen.	मैं उससे म�
 I'd love to meet you.	Ich würde dich gerne treffen.	मैं तुमसे मिलने के लिए बहुत उत्साही हूं।
 I'd love to see them.	Ich würde sie gerne sehen.	मैं उन्हें देखने के लिए बहुत उत्साही हूं।
 I'd never get caught.	Ich würde niemals erwischt werden.	मैं कभी पकड़ा नहीं जाऊंगा।
+I'd never lie to you.	Ich würde dir nie Lügen sagen.	मैं कभी भी आपसे झूठ नहीं बोलूँगा।
+I'd rather stay here.	Ich würde lieber hier bleiben.	मैं यहाँ रहना पसंद करूँगा।
+I'd rather stay home.	Ich würde lieber zu Hause bleiben.	मैं घर पर ही रहना पसंद करूँगा।
+I'd tried everything.	Ich habe alles versucht.	मैंने सब कुछ करने की कोशिश की।
+I'll admit I'm wrong.	Ich werde zugeben, dass ich falsch liege.	मैं स्वीकार करूँगा कि मैं गलत हूँ।
+I'll always love Tom.	Ich werde Tom immer lieben.	मैं हमेशा टॉम से प्यार करूँगा।
+I'll always love you.	Ich werde dich immer lieben.	मैं हमेशा तुमसे प्यार करूँगा।
+I'll ask Tom for you.	Ich werde Tom für dich fragen.	मैं तुम्हारे लिए टॉम से पूछूँगा।
+I'll ask Tom to wait.	Ich werde Tom bitten zu warten.	मैं टॉम से पूछूँगा कि प्रतीक्षा करें।
