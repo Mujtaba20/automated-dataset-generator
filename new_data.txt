@@ -27939,3 +27939,11 @@ She wants an iPad 4.	Sie möchte ein iPad 4.	उसे एक आईपैड 4 
 She was alone there.	Sie war allein dort.	वह वहाँ अकेली थी।
 She watched him eat.	Sie beobachtete ihn beim Essen.	उसने उसे खाते देखा।
 She went for a walk.	Sie machte einen Spaziergang.	वह सैर के लिए गई।
+She went on working.	Sie arbeitete weiter.	वह काम करती रही।
+She won the contest.	Sie gewann den Wettbewerb.	उसने प्रतियोगिता जीती।
+She won the lottery.	Sie hat die Lotterie gewonnen.	उसने लॉटरी जीती।
+She won't like this.	Sie wird das nicht mögen.	उसे यह पसंद नहीं आएगा।
+She works all night.	Sie arbeitet die ganze Nacht.	वह पूरी रात काम करती है।
+She works at a bank.	Sie arbeitet in einer Bank.	वह एक बैंक में काम करती है।
+She works in a bank.	Sie arbeitet in einer Bank.	वह एक बैंक में काम करती है।
+She works very hard.	Sie arbeitet sehr hart.	वह बहुत मेहनत करती है।
