@@ -36326,3 +36326,11 @@ Did you take a shower?	Hast du geduscht?	क्या तुमने शौच 
 Did you telephone him?	Hast du ihn telefoniert?	क्या तुमने उसे फ़ोन किया?
 Did you tell Tom that?	Hast du das Tom gesagt?	क्या तुमने टॉम को वह बताया?
 Did you tell Tom that? (different meaning)	Hast du das Tom erzählt?	क्या तुमने टॉम को यह बताया?
+Did you understand it?	Hast du es verstanden?	क्या आप समझे यह?
+Did you understand me?	Hast du mich verstanden?	क्या आपने मुझे समझा?
+Did you use my camera?	Hast du meine Kamera benutzt?	क्या आपने मेरी कैमरा उपयोग किया?
+Did you use my camera? (Alternate Meaning)	Hast du meine Kamera verwendet?	क्या आपने मेरी कैमरा लागू किया?
+Didn't I mention that?	Habe ich das nicht erwähnt?	क्या मैंने वह नहीं उल्लेख किया था?
+Dinner's almost ready.	Das Abendessen ist fast bereit.	रात का खाना लगभग तैयार है।
+Dinner's getting cold.	Das Abendessen wird kalt.	रात का खाना ठंडा हो रहा है।
+Do I have to register?	Muss ich mich anmelden?	क्या मुझे रजिस्टर करना है?

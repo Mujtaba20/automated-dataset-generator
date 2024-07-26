@@ -1,14 +1,4 @@
 
-Did you understand it?	Hast du es verstanden?	क्या आपको मिला
-Did you understand me?	Hast du mich verstanden?	क्या आप मुझे समझते हैं?
-Did you use my camera?	Hast du meine Kamera benutzt?	क्या आपने मेरे कैमरे का इस्तेमाल किया?
-Did you use my camera?	Habt ihr meine Kamera benutzt?	क्या आपने मेरे कैमरे का इस्तेमाल किया?
-Did you use my camera?	Haben Sie meine Kamera benutzt?	क्या आपने मेरे कैमरे का इस्तेमाल किया?
-Didn't I mention that?	Habe ich das nicht erwähnt?	क्या मैंने इसका उल्लेख नहीं किया?
-Dinner's almost ready.	Das Mittagessen ist fast fertig.	दोपहर का भोजन लगभग समाप्त हो गया है।
-Dinner's getting cold.	Das Abendessen wird kalt.	रात का खाना ठंडा हो रहा है।
-Do I have to register?	Muss ich mich registrieren?	क्या मुझे पंजीकरण कराना है?
-Do I have to register?	Muss ich mich einschreiben?	क्या मुझे पंजीकरण कराना है?
 Do I look presentable?	Kann ich mich so sehen lassen?	क्या मुझे इस तरह से देखा जा सकता है?
 Do I need to add salt?	Muss ich mehr salzen?	क्या मुझे अधिक नमक करना है?
 Do I need to go there?	Ist es notwendig, dass ich dort hingehe?	क्या वहां जाना आवश्यक है?
