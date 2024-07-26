@@ -39992,3 +39992,13 @@ Tom doesn't like eggs.	Tom mag keine Eier.	टॉम को अंडे पस�
 Tom doesn't like fish.	Tom mag keinen Fisch.	टॉम को मछली पसंद नहीं है।
 Tom doesn't like kids.	Tom mag keine Kinder.	टॉम को बच्चे पसंद नहीं हैं।
 Tom doesn't like math.	Tom mag keine Mathematik.	टॉम को गणित पसंद नहीं है।
+Tom doesn't like pork.	Tom mag kein Schweinefleisch.	टॉम को सुअर का मांस अच्छा नहीं लगता।
+Tom doesn't like that.	Tom mag das nicht.	टॉम को वह पसंद नहीं है।
+Tom doesn't like this.	Tom mag das hier nicht.	टॉम को यह पसंद नहीं है।
+Tom doesn't live here.	Tom wohnt hier nicht.	टॉम यहाँ नहीं रहता है।
+Tom doesn't look good.	Tom sieht nicht gut aus.	टॉम अच्छा नहीं लगता।
+Tom doesn't own a car.	Tom besitzt kein Auto.	टॉम का कोई कार नहीं है।
+Tom doesn't sing well.	Tom singt nicht gut.	टॉम अच्छे से नहीं गा सकता।
+Tom doesn't talk much.	Tom spricht nicht viel.	टॉम बहुत बोलने वाला नहीं है।
+Tom doesn't tell lies.	Tom sagt keine Lügen.	टॉम झूठ नहीं बोलता।
+Tom doesn't use drugs.	Tom nimmt keine Drogen.	टॉम नशे नहीं करता।

@@ -1,14 +1,4 @@
 
-Tom doesn't like pork.	Tom mag kein Schweinefleisch.	टॉम को पोर्क पसंद नहीं है।
-Tom doesn't like that.	Tom mag das nicht.	टॉम को यह पसंद नहीं है।
-Tom doesn't like this.	Tom mag das nicht.	टॉम को यह पसंद नहीं है।
-Tom doesn't live here.	Tom wohnt hier nicht.	टॉम यहाँ नहीं रहता है।
-Tom doesn't look good.	Tom sieht nicht gut aus.	टॉम अच्छा नहीं लगता।
-Tom doesn't own a car.	Tom besitzt kein Auto.	टॉम के पास कोई कार नहीं है।
-Tom doesn't sing well.	Tom singt nicht gut.	टॉम अच्छा नहीं गाता।
-Tom doesn't talk much.	Tom redet nicht viel.	टॉम ज्यादा बात नहीं करता है।
-Tom doesn't tell lies.	Tom lügt nicht.	टॉम झूठ नहीं बोलता।
-Tom doesn't use drugs.	Tom nimmt keine Drogen.	टॉम ड्रग्स नहीं लेता है।
 Tom doesn't want kids.	Tom will keine Kinder.	टॉम बच्चे नहीं चाहते।
 Tom doesn't want that.	Tom will das nicht.	टॉम ऐसा नहीं चाहता।
 Tom doesn't want this.	Tom will das nicht.	टॉम ऐसा नहीं चाहता।
