@@ -26432,3 +26432,12 @@ I know what Tom saw.	Ich weiß, was Tom sah.	मुझे पता है क�
 I know what love is.	Ich weiß, was Liebe ist.	मुझे पता है कि प्यार क्या है।
 I know what that is.	Ich weiß, was das ist.	मुझे पता है कि वह क्या है।
 I know what this is.	Ich weiß, was das ist.	मुझे पता है कि यह क्या है।
+I know what you did.	Ich weiß, was du getan hast.	मुझे पता है तुमने क्या किया है।
+I know what's right.	Ich weiß, was richtig ist.	मुझे पता है कि क्या सही है।
+I know what's wrong.	Ich weiß, was falsch ist.	मुझे पता है कि क्या गलत है।
+I know when to quit.	Ich weiß, wann aufzuhören ist.	मुझे पता है कब बंद करना है।
+I know where Tom is.	Ich weiß, wo Tom ist.	मुझे पता है टॉम कहाँ है।
+I know where she is.	Ich weiß, wo sie ist.	मुझे पता है वह कहाँ है।
+I know where we are.	Ich weiß, wo wir sind.	मुझे पता है हम कहाँ हैं।
+I know who they are.	Ich weiß, wer sie sind.	मुझे पता है वे कौन हैं।
+I know you are rich.	Ich weiß, du bist reich.	मुझे पता है तुम धनवान हो।

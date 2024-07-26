@@ -1,15 +1,4 @@
 
-I know what you did.	Ich weiß, was du getan hast.	मुझे पता है तुमने क्या किया।
-I know what's right.	Ich weiß, was richtig ist.	मुझे पता है कि क्या सही है।
-I know what's wrong.	Ich weiß, was falsch ist.	मुझे पता है कि क्या गलत है।
-I know when to quit.	Ich weiß, wann man aufhören muss.	मुझे पता है कि आपको कब रुकना है।
-I know where Tom is.	Ich weiß, wo Tom ist.	मुझे पता है कि टॉम कहाँ है।
-I know where she is.	Ich weiß, wo sie ist.	मुझे पता है कि वह कहाँ है।
-I know where we are.	Ich weiß, wo wir sind.	मुझे पता है कि हम कहाँ हैं।
-I know who they are.	Ich weiß, wer die sind.	मुझे पता है कि वे कौन हैं।
-I know you are rich.	Ich weiß, dass du reich bist.	मुझे पता है कि आप अमीर हैं।
-I know you are rich.	Ich weiß, dass Sie reich sind.	मुझे पता है कि वे अमीर हैं।
-I know you are rich.	Ich weiß, dass ihr reich seid.	मुझे पता है कि आप राज्य हैं।
 I know you like Tom.	Ich weiß, dass du Tom magst.	मुझे पता है कि आप टॉम को पसंद करते हैं।
 I know you like Tom.	Ich kenne dich wie Tom	मुझे पता है कि आपको टॉम पसंद है
 I know you love Tom.	Ich weiß, dass du Tom liebst.	मुझे पता है कि आप टॉम से प्यार करते हैं।
