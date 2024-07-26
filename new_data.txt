@@ -39356,3 +39356,12 @@ That'll be easy to do.	Das wird leicht zu tun sein.	यह करना आस�
 That'll make me happy.	Das wird mich glücklich machen.	वह मुझे खुश कर देगा।
 That's Mary's husband.	Das ist Marys Ehemann.	वह मेरी का पति है।
 That's Tom's decision.	Das ist Toms Entscheidung.	वह टॉम का निर्णय है।
+That's a big sandwich.	Das ist ein großes Sandwich.	यह एक बड़ा सैंडविच है।
+That's a direct order.	Das ist ein direkter Befehl.	यह एक सीधा आदेश है।
+That's a good picture.	Das ist ein gutes Bild.	यह एक अच्छी तस्वीर है।
+That's a little weird.	Das ist ein wenig seltsam.	यह थोड़ा अजीब है।
+That's a lot of money.	Das ist eine Menge Geld.	यह बहुत सारा पैसा है।
+That's a minor detail.	Das ist ein kleines Detail.	यह एक छोटा विवरण है।
+That's a nice T-shirt.	Das ist ein schönes T-Shirt.	यह एक अच्छी टी-शर्ट है।
+That's a nice picture.	Das ist ein schönes Bild.	यह एक अच्छी तस्वीर है।
+That's a pretty dress.	Das ist ein hübsches Kleid.	यह एक सुंदर ड्रेस है।

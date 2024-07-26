@@ -1,14 +1,4 @@
 
-That's a big sandwich.	Das ist aber ein großes Brot!	लेकिन यह एक बड़ी रोटी है!
-That's a direct order.	Das ist ein direkter Befehl.	यह एक सीधी कमांड है।
-That's a good picture.	Das ist ein gutes Bild.	यह एक अच्छी तस्वीर है।
-That's a little weird.	Das ist ein wenig sonderbar.	यह थोड़ा अजीब है।
-That's a lot of money.	Das ist viel Geld.	यह बहुत पेसा है।
-That's a minor detail.	Das ist ein unerhebliches Detail.	यह एक महत्वहीन विवरण है।
-That's a nice T-shirt.	Das ist ein schönes T-Shirt.	यह एक अच्छी टी-शर्ट है।
-That's a nice picture.	Das ist ein schönes Bild.	यह एक सुंदर तस्वीर है।
-That's a pretty dress.	Das ist ein schönes Kleid.	यह एक सुंदर पोशाक है।
-That's a pretty dress.	Das ist ein hübsches Kleid.	यह एक सुंदर पोशाक है।
 That's all we can ask.	Das ist alles, wonach wir fragen können.	यह सब हम पूछ सकते हैं।
 That's an odd request.	Das ist eine seltsame Bitte.	यह एक अजीब अनुरोध है।
 That's an old picture.	Das ist ein altes Bild.	यह एक पुरानी तस्वीर है।
