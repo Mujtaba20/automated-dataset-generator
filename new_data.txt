@@ -25722,3 +25722,11 @@ He knows who we are.	Er weiß, wer wir sind.	उसे पता है कि �
 He lacks confidence.	Er mangelt es an Selbstvertrauen.	उसमें आत्मविश्वास की कमी है।
 He lacks experience.	Ihm fehlt die Erfahrung.	उसे अनुभव की कमी है।
 He left an hour ago.	Er ging vor einer Stunde.	उसने एक घंटे पहले छोड़ दिया था।
+He left immediately.	Er verließ sofort.	उसने तत्काल छोड़ दिया।
+He left me the keys.	Er ließ mir die Schlüssel.	उसने मुझे चाबियाँ दी।
+He lent me 30 pesos.	Er lieh mir 30 Pesos.	उसने मुझे 30 पेसो उधार दिए।
+He likes cantaloupe.	Er mag Melone.	उसे खरबूजा पसंद है।
+He lives in Cardiff.	Er lebt in Cardiff.	वह कार्डिफ में रहता है।
+He lives in comfort.	Er lebt in Komfort.	वह सुख सुविधा में रहता है।
+He lives in his car.	Er lebt in seinem Auto.	वह अपनी कार में रहता है।
+He lives next to me.	Er lebt neben mir.	वह मेरे पास रहता है।

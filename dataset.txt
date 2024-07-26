@@ -1,14 +1,4 @@
 
-He left immediately.	Er ging sofort.	वह तुरंत चला गया।
-He left immediately.	Er ging sofort weg.	वह तुरंत चला गया।
-He left me the keys.	Er hat mir die Schlüssel überlassen.	उसने मेरे पास चाबी छोड़ दी।
-He lent me 30 pesos.	Er lieh mir dreißig Pesos.	उसने मुझे तीस पेसो दिया।
-He likes cantaloupe.	Er isst gerne Warzenmelonen.	वह मस्सा तरबूज खाना पसंद करता है।
-He likes cantaloupe.	Er isst gerne Cantaloupe-Melonen.	वह कैंटालूप खरबूजे खाना पसंद करता है।
-He lives in Cardiff.	Er wohnt in Cardiff.	वह कार्डिफ़ में रहता है।
-He lives in comfort.	Er lebt ein komfortables Leben.	वह एक आरामदायक जीवन जीता है।
-He lives in his car.	Er wohnt in seinem Wagen.	वह अपनी कार में रहता है।
-He lives next to me.	Er wohnt bei mir nebenan.	वह अगले दरवाजे पर रहता है।
 He lives off campus.	Er lebt außerhalb der Universität.	वह विश्वविद्यालय के बाहर रहता है।
 He looks suspicious.	Er sieht verdächtig aus.	वह संदिग्ध दिखता है।
 He looks very tired.	Er sieht sehr müde aus.	वह बहुत थक गया है।
