@@ -1,14 +1,4 @@
 
-Tom is drinking a beer.	Tom trinkt ein Bier.	टॉम एक बीयर पीता है।
-Tom is driving a truck.	Tom fährt Lkw.	टॉम ट्रक चलाता है।
-Tom is driving his car.	Tom fährt seinen Wagen.	टॉम अपनी कार चलाता है।
-Tom is driving me nuts.	Tom macht mich verrückt.	टॉम मुझे पागल कर देता है।
-Tom is driving me nuts.	Tom macht mich irre.	टॉम मुझे पागल कर देता है।
-Tom is dyeing his hair.	Tom färbt sich das Haar.	टॉम बाल बदल देता है।
-Tom is dying, isn't he?	Tom liegt im Sterben, nicht wahr?	टॉम मर रहा है, है ना?
-Tom is easily provoked.	Tom ist schnell provoziert.	टॉम जल्दी से उकसाया जाता है।
-Tom is easy to impress.	Tom ist leicht zu beeindrucken.	टॉम को प्रभावित करना आसान है।
-Tom is easy to talk to.	Mit Tom kann man gut reden.	आप टॉम से अच्छी तरह से बात कर सकते हैं।
 Tom is eating a banana.	Tom isst eine Banane.	टॉम एक केला खाता है।
 Tom is eating an apple.	Tom isst einen Apfel.	टॉम एक सेब खाता है।
 Tom is eating cake now.	Tom isst jetzt Kuchen.	टॉम अब केक खाता है।
