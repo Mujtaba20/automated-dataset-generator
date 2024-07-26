@@ -40012,3 +40012,13 @@ Tom dressed hurriedly.	Tom zog sich hastig an.	टॉम ने जल्दी 
 Tom dropped his glass.	Tom ließ sein Glas fallen.	टॉम ने अपना गिलास गिरा दिया।
 Tom drove really fast.	Tom fuhr wirklich schnell.	टॉम ने वास्तव में तेज गति से ड्राइव की।
 Tom eats like a horse.	Tom isst wie ein Pferd.	टॉम गधे की तरह खाता है।
+Tom eats very quickly.	Tom isst sehr schnell.	टॉम बहुत तेजी से खाता है।
+Tom emptied his glass.	Tom hat sein Glas geleert.	टॉमने अपनी ग्लास खाली कर दी।
+Tom fell off a ladder.	Tom fiel von einer Leiter.	टॉम एक सीढ़ी से गिर गया।
+Tom fell off his bike.	Tom ist von seinem Fahrrad gefallen.	टॉम अपनी साइकिल से गिर गया।
+Tom felt like dancing.	Tom hatte Lust zu tanzen.	टॉम को नृत्य करने का मन हुआ।
+Tom felt very nervous.	Tom fühlte sich sehr nervös.	टॉम बहुत घबराया हुआ था।
+Tom filed a complaint.	Tom reichte eine Beschwerde ein.	टॉम ने शिकायत दर्ज की।
+Tom finally came home.	Tom kam endlich nach Hause.	टॉम आखिरकार घर आया।
+Tom finally got a job.	Tom hat endlich einen Job bekommen.	टॉम ने अंत में नौकरी पाई।
+Tom finished his beer.	Tom trank sein Bier aus.	टॉमने अपने बियर को खतम कर दिया।

@@ -1,14 +1,4 @@
 
-Tom eats very quickly.	Tom isst sehr schnell.	टॉम बहुत जल्दी खाता है।
-Tom emptied his glass.	Tom leerte sein Glas.	टॉम ने अपना गिलास खाली कर दिया।
-Tom fell off a ladder.	Tom ist von einer Leiter gefallen.	टॉम एक सीढ़ी से गिर गया।
-Tom fell off his bike.	Tom fiel vom Rad.	टॉम बाइक से गिर गया।
-Tom felt like dancing.	Tom hatte Lust zu tanzen.	टॉम नृत्य करना चाहता था।
-Tom felt very nervous.	Tom war sehr nervös.	टॉम बहुत घबराया हुआ था।
-Tom filed a complaint.	Tom reichte eine Beschwerde ein.	टॉम ने शिकायत दर्ज की।
-Tom finally came home.	Tom ist endlich nach Hause gekommen.	टॉम आखिरकार घर आ गया है।
-Tom finally got a job.	Tom hat endlich Arbeit gefunden.	टॉम ने आखिरकार काम पाया है।
-Tom finished his beer.	Tom trank sein Bier aus.	टॉम ने अपनी बीयर पी ली।
 Tom flirted with Mary.	Tom flirtete mit Mary.	टॉम ने मैरी के साथ फ़्लर्ट किया।
 Tom gave Mary a drink.	Tom gab Maria etwas zu trinken.	टॉम ने मारिया को पीने के लिए कुछ दिया।
 Tom gave Mary a watch.	Tom gab Maria eine Uhr.	टॉम ने मारिया को एक घड़ी दी।
