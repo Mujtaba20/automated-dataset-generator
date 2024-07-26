@@ -30026,3 +30026,13 @@ Why are you so rich?	Warum bist du so reich?	तुम इतने अमीर
 Why are you so slow?	Warum bist du so langsam?	तुम इतने धीमे क्यों हो?
 Why are you so sure?	Warum bist du so sicher?	तुम इतने पक्के क्यों हो?
 Why are you so ugly?	Warum bist du so hässlich?	तुम इतने बदसूरत क्यों हो?
+Why are you with me?	Warum bist du bei mir?	तुम मेरे साथ क्यों हो?
+Why are you yawning?	Warum gähnst du?	तुम क्यों छिदाना मार रहे हो?
+Why are you yelling?	Warum schreist du?	तुम क्यों चिल्ला रहे हो?
+Why aren't you here?	Warum bist du nicht hier?	तुम यहाँ क्यों नहीं हो?
+Why aren't you home?	Warum bist du nicht zu Hause?	तुम घर क्यों नहीं हो?
+Why can't I see you?	Warum kann ich dich nicht sehen?	मैं तुम्हें क्यों नहीं देख सकता?
+Why did Tom do that?	Warum hat Tom das gemacht?	टॉम ने ऐसा क्यों किया?
+Why did Tom do this?	Warum hat Tom das getan?	टॉम ने यह क्यों किया?
+Why did that happen?	Warum ist das passiert?	ऐसा क्यों हुआ?
+Why did that matter?	Warum spielte das eine Rolle?	वह क्यों मायने रखता था?

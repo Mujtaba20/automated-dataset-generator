@@ -1,14 +1,4 @@
 
-Why are you with me?	Warum bist du bei mir?	तुम मेरे साथ क्यों हो
-Why are you yawning?	Warum gähnst du?	तुम क्यों यवन करते हो
-Why are you yelling?	Warum schreien Sie?	आप क्यों चिल्लाते हैं?
-Why aren't you here?	Warum bist du nicht hier?	तुम यहाँ क्यों नहीं हो?
-Why aren't you home?	Warum bist du nicht zu Hause?	आप घर पर क्यों नहीं हैं?
-Why can't I see you?	Warum kann ich dich nicht sehen?	मुझे आप दिखाई क्यों नहीं दे रहे?
-Why did Tom do that?	Warum hat Tom das getan?	टॉम ने ऐसा क्यों किया?
-Why did Tom do this?	Warum hat Tom das getan?	टॉम ने ऐसा क्यों किया?
-Why did that happen?	Warum ist das passiert?	वह खुश क्यों है?
-Why did that matter?	Warum war das wichtig?	वह महत्वपूर्ण क्यों था?
 Why did this happen?	Warum ist das passiert?	वह खुश क्यों है?
 Why did you call me?	Warum hast du mich gerufen?	तुम मुझे क्यों फोन किया था
 Why did you call me?	Warum hast du mich angerufen?	तुम मुझे क्यों फोन किया था?
