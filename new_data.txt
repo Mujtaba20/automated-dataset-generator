@@ -23890,3 +23890,10 @@ Tom might be early.	Tom könnte früh dran sein.	टॉम शायद जल�
 Tom might be right.	Tom könnte recht haben.	टॉम सही हो सकता है।
 Tom might be wrong.	Tom könnte falsch liegen.	टॉम गलत हो सकता है।
 Tom might blame us.	Tom könnte uns die Schuld geben.	टॉम हमें दोष दे सकता है।
+Tom might get sick.	Tom könnte krank werden.	टॉम बीमार हो सकता है।
+Tom might hear you.	Tom könnte dich hören.	टॉम तुम्हें सुन सकता है।
+Tom milked the cow.	Tom hat die Kuh gemolken.	टॉमने गाय को दूध दिया।
+Tom missed his bus.	Tom hat seinen Bus verpasst.	टॉमने अपनी बस छूट दी।
+Tom mowed the lawn.	Tom hat den Rasen gemäht.	टॉमने घास काटी।
+Tom must be hungry.	Tom muss hungrig sein.	टॉम को भूख लगी होगी।
+Tom must be lonely.	Tom muss einsam sein.	टॉम अकेला होगा।

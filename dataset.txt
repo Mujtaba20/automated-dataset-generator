@@ -1,14 +1,4 @@
 
-Tom might get sick.	Tom könnte krank werden.	टॉम बीमार हो सकता है।
-Tom might hear you.	Tom könnte dich hören.	टॉम आपको सुन सकता था।
-Tom might hear you.	Tom könnte Sie hören.	टॉम उसे सुन सकता था।
-Tom might hear you.	Tom könnte euch hören.	टॉम आपको सुन सकता था।
-Tom milked the cow.	Tom melkte die Kuh.	टॉम ने गाय को दूध पिलाया।
-Tom missed his bus.	Tom hat seinen Bus verpasst.	टॉम अपनी बस से चूक गया।
-Tom mowed the lawn.	Tom mähte den Rasen.	टॉम ने लॉन को माउड किया।
-Tom must be hungry.	Tom muss Hunger haben.	टॉम को भूखा होना चाहिए।
-Tom must be hungry.	Tom muss hungrig sein.	टॉम को भूखा होना चाहिए।
-Tom must be lonely.	Tom muss einsam sein.	टॉम को अकेला होना चाहिए।
 Tom must do it now.	Tom muss es jetzt tun.	टॉम को अब यह करना है।
 Tom must find work.	Tom muss Arbeit finden.	टॉम को काम ढूंढना है।
 Tom must leave now.	Tom muss jetzt gehen.	टॉम को अब जाना है।
