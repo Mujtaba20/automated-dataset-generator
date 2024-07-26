@@ -36542,3 +36542,8 @@ Don't make noise here.	Mach hier kein Lärm.	यहाँ शोर मत म�
 Don't mention it, Tom.	Erwähne es nicht, Tom.	मत उल्टा टॉम।
 Don't open the window.	Öffne das Fenster nicht.	खिड़की न मत खोलो।
 Don't pick up the cat.	Nimm die Katze nicht hoch.	बिल्ली को न उठाओ।
+Don't put it that way.	Stell es nicht so hin.	ऐसे मत रखो।
+Don't read my journal.	Lies nicht mein Tagebuch.	मेरी जर्नल मत पढ़ो।
+Don't say such things.	Sag nicht solche Dinge.	ऐसी बातें मत कहो।
+Don't shake the table.	Schüttel den Tisch nicht.	मेज़ को मत हिलाओ।
+Don't spill the beans.	Lass die Katze nicht aus dem Sack.	बानी झाड़ो मत।

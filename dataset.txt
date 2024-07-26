@@ -1,14 +1,4 @@
 
-Don't put it that way.	Drücken Sie es nicht auf diese Weise aus!	इसे इस तरह से व्यक्त न करें!
-Don't put it that way.	Drück es nicht auf diese Weise aus!	इसे इस तरह से बाहर न दबें!
-Don't put it that way.	Sag das nicht so!	ऐसा मत कहो!
-Don't read my journal.	Lies nicht in meinem Tagebuch!	मेरी डायरी में मत पढ़ो!
-Don't read my journal.	Lesen Sie nicht in meinem Tagebuch!	मेरी डायरी में मत पढ़ो!
-Don't say such things.	Sag nicht so was!	ऐसा कुछ मत कहो!
-Don't say such things.	Sagen Sie nicht so was!	ऐसा कुछ मत कहो!
-Don't shake the table.	Rüttle nicht am Tisch!	मेज पर हिलाओ मत!
-Don't spill the beans.	Nichts verraten!	कुछ भी नहीं खुलासा!
-Don't spill the beans.	Plaudere nichts aus!	चैट मत करो!
 Don't stand in my way.	Steh mir nicht im Weg!	मेरे रास्ते में खड़े मत करो!
 Don't stare at people.	Starre keine Leute an.	लोगों को घूरो मत।
 Don't swear in public.	Fluchen Sie nicht in der Öffentlichkeit.	सार्वजनिक रूप से शपथ न लें।
