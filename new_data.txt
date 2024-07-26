@@ -29238,3 +29238,13 @@ Tom rushed upstairs.	Tom hastete die Treppe hinauf.	टॉम ऊपर भा�
 Tom said he's bored.	Tom sagte, er ist gelangweilt.	टॉम ने कहा कि उसका बोर हो रहा है।
 Tom said he's broke.	Tom sagte, er ist pleite.	टॉम ने कहा कि वह टूट गया है।
 Tom said it was bad.	Tom sagte, es war schlecht.	टॉम ने कहा कि यह खराब था।
+Tom said this to me.	Tom hat das zu mir gesagt.	टॉम ने मुझे यह कहा।
+Tom said to ask you.	Tom sagte, dich zu fragen.	टॉम ने कहा आपसे पूछने के लिए।
+Tom said you'd come.	Tom sagte, du würdest kommen.	टॉम ने कहा था कि तुम आओगे।
+Tom said you'd know.	Tom sagte, du würdest wissen.	टॉम ने कहा था कि तुम्हें पता होगा।
+Tom sat at his desk.	Tom saß an seinem Schreibtisch.	टॉम अपनी मेज़ पर बैठा था।
+Tom sat by the fire.	Tom saß am Feuer.	टॉम आगे बैठा था।
+Tom sat facing Mary.	Tom saß Mary gegenüber.	टॉम मेरी के सामने बैठा था।
+Tom sat watching TV.	Tom saß und schaute fern.	टॉम टीवी देखते बैठा था।
+Tom saved everybody.	Tom hat alle gerettet.	टॉम ने सभी को बचाया।
+Tom saved our lives.	Tom hat unser Leben gerettet.	टॉम ने हमारी जानें बचाई।

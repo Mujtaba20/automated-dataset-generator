@@ -1,14 +1,4 @@
 
-Tom said this to me.	Tom sagte das zu mir.	टॉम ने कहा कि मेरे लिए।
-Tom said to ask you.	Tom sagte, ich soll dich fragen.	टॉम ने कहा कि मुझे आपसे पूछना चाहिए।
-Tom said you'd come.	Tom sagte, du würdest kommen.	टॉम ने कहा कि तुम आओगे।
-Tom said you'd know.	Tom sagte, du würdest es wissen.	टॉम ने कहा कि आपको पता होगा।
-Tom sat at his desk.	Tom saß an seinem Schreibtisch.	टॉम अपनी मेज पर बैठ गया।
-Tom sat by the fire.	Tom saß am Feuer.	टॉम आग से बैठ गया।
-Tom sat facing Mary.	Tom saß gegenüber von Mary.	टॉम मैरी के सामने बैठे।
-Tom sat watching TV.	Tom saß und sah fern.	टॉम बैठकर देखा।
-Tom saved everybody.	Tom hat alle gerettet.	टॉम ने सभी को बचाया।
-Tom saved our lives.	Tom hat uns das Leben gerettet.	टॉम ने हमें जीवन बचाया।
 Tom saved your life.	Tom hat dir das Leben gerettet.	टॉम ने आपकी जान बचाई।
 Tom saved your life.	Tom hat Ihnen das Leben gerettet.	टॉम ने उनकी जान बचाई।
 Tom saw Mary coming.	Tom sah Maria kommen.	टॉम ने मारिया को आते देखा।
