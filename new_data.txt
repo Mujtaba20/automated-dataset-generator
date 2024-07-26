@@ -28309,3 +28309,12 @@ They aren't like us.	Sie sind nicht wie wir.	वे हमारे जैसे
 They aren't related.	Sie sind nicht verwandt.	वे संबंधित नहीं हैं।
 They became nervous.	Sie wurden nervös.	वे घबराए हुए हो गए।
 They believe in God.	Sie glauben an Gott.	वे भगवान में विश्वास करते हैं।
+They came last week.	Sie kamen letzte Woche.	उन्होंने पिछले सप्ताह आए थे।
+They can't fire you.	Sie können dich nicht feuern.	वे तुम्हें नहीं निकाल सकते।
+They can't hear you.	Sie können dich nicht hören.	वे तुम्हे सुन नहीं सकते।
+They can't stop you.	Sie können dich nicht aufhalten.	उन्हें तुम्हें रोक नहीं सकते।
+They cannot stop it.	Sie können es nicht stoppen.	वे इसे रोक नहीं सकते।
+They cannot stop me.	Sie können mich nicht aufhalten.	उन्हें मुझे रोक नहीं सकते।
+They cannot stop us.	Sie können uns nicht aufhalten.	उन्हें हमें रोक नहीं सकते।
+They did not listen.	Sie haben nicht zugehört.	उन्होंने सुना नहीं।
+They didn't help me.	Sie haben mir nicht geholfen.	उन्होंने मुझे मदद नहीं की।
