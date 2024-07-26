@@ -31271,3 +31271,13 @@ His mother was correct.	Seine Mutter war korrekt.	उसकी माँ सह�
 His nose is bleeding.	Seine Nase blutet.	उसकी नाक से खून निकल रहा है।
 His roof was damaged.	Sein Dach war beschädigt.	उसकी छत को नुकसान हुआ था।
 His teeth were white.	Seine Zähne waren weiß.	उसके दांत सफेद थे।
+Honesty is paramount.	Ehrlichkeit ist von grundlegender Bedeutung.	ईमानदारी महत्वपूर्ण है।
+How about some music?	Wie wäre es mit etwas Musik?	कुछ संगीत कैसे रहेगा?
+How about your place?	Wie wäre es mit deinem Platz?	तुम्हारी जगह कैसी है?
+How are Tom and Mary?	Wie geht es Tom und Mary?	टॉम और मेरी कैसे हैं?
+How are the children?	Wie geht es den Kindern?	बच्चे कैसे हैं?
+How are things going?	Wie läuft es?	चीजें कैसे चल रही हैं?
+How are your parents?	Wie geht es deinen Eltern?	तुम्हारे माता-पिता कैसे हैं?
+How bad was Tom hurt?	Wie schlimm wurde Tom verletzt?	टॉम को कितना चोट लगा?
+How beautiful she is!	Wie schön sie ist!	वह कितनी खूबसूरत है!
+How big is this park?	Wie groß ist dieser Park?	यह पार्क कितना बड़ा है?
