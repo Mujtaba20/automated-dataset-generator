@@ -30679,3 +30679,8 @@ Do you have red wine?	Hast du Rotwein?	क्या आपके पास ल�
 Do you have the book?	Hast du das Buch?	क्या आपके पास किताब है?
 Do you have the keys?	Hast du die Schlüssel?	क्या आपके पास चाबियां हैं?
 Do you jog every day?	Joggen Sie jeden Tag?	क्या आप हर दिन जॉग करते हैं?
+Do you know Tom well?	Kennst du Tom gut?	क्या आप टॉम को भली-भाँति जानते हैं?
+Do you know anything?	Weißt du etwas?	क्या तुम कुछ जानते हो?
+Do you know his name?	Weißt du seinen Namen?	क्या तुम उसका नाम जानते हो?
+Do you know that guy?	Kennen Sie diesen Kerl?	क्या आप उस दोस्त को जानते हैं?
+Do you know that man?	Kennen Sie diesen Mann?	क्या आप उस आदमी को जानते हैं?
