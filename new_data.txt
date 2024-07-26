@@ -31386,3 +31386,10 @@ I am driving a truck.	Ich fahre einen Lastwagen.	मैं ट्रक चल�
 I am eating an apple.	Ich esse einen Apfel.	मैं एक सेब खा रहा हूँ।
 I am fan of football.	Ich bin Fußballfan.	मैं फुटबॉल का प्रशंसक हूँ।
 I am fond of reading.	Ich lese gerne.	मुझे पढ़ने का शौक है।
+I am getting dressed.	Ich kleide mich an.	मैं कपड़े पहनने जा रहा हूँ।
+I am glad to see her.	Ich freue mich, sie zu sehen.	मुझे उसे देखकर खुशी हुई।
+I am going to school.	Ich gehe zur Schule.	मैं स्कूल जा रहा हूँ।
+I am good at history.	Ich bin gut in Geschichte.	मैं इतिहास में अच्छा हूँ।
+I am indebted to him.	Ich bin ihm verpflichtet.	मैं उस से ऋणी हूँ।
+I am laughing at Tom.	Ich lache über Tom.	मैं टॉम पर हंस रहा हूँ।
+I am laughing at you.	Ich lache über dich.	मैं तुम पर हंस रहा हूँ।

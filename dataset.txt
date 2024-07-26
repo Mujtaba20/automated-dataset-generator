@@ -1,15 +1,4 @@
 
-I am getting dressed.	Ich ziehe mich an.	मैं तैयार हो गया।
-I am getting dressed.	Ich kleide mich an.	मैं स्वयं परिधान पहनता हूं।
-I am glad to see her.	Ich bin froh, sie zu sehen.	मैं तुम्हें देख कर खुश हूँ।
-I am going to school.	Ich gehe zur Schule.	मैं स्कूल जाता हूँ।
-I am good at history.	Ich bin gut in Geschichte.	मैं इतिहास में अच्छा हूं।
-I am indebted to him.	Ich bin ihm zu Dank verpflichtet.	मैं उसके लिए प्रतिबद्ध हूं।
-I am laughing at Tom.	Ich verlache Tom.	मैं टॉम से प्यार करता हूं।
-I am laughing at Tom.	Ich lache über Tom.	मैं टॉम पर हंसता हूं।
-I am laughing at Tom.	Ich lache Tom aus.	मैं टॉम हंसता हूं।
-I am laughing at you.	Ich verlache dich.	मैं तुम्हें हंसता हूं।
-I am laughing at you.	Ich lache über dich.	मैं तुम पर हंसता हूं।
 I am learning Basque.	Ich lerne Baskisch.	मैं बास्किस्क सीखता हूं।
 I am leaving at four.	Ich gehe um vier.	मैं चार के आसपास जाता हूं।
 I am like my brother.	Ich ähnele meinem Bruder.	मैं अपने भाई से मिलता -जुलता हूं।
