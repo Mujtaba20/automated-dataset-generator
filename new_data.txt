@@ -25412,3 +25412,12 @@ Don't call me again.	Ruf mich nicht wieder an.	मुझे फिर से म
 Don't call the cops.	Rufe nicht die Polizei an.	पुलिस को मत बुलाओ।
 Don't climb on this!	Klettere nicht darauf!	इस पर चढ़ने की कोशिश मत करो!
 Don't bother me now. (Different meaning)	Lass mich jetzt in Ruhe.	अब मुझे तंग मत करो।
+Don't come after me.	Geh mir nicht nach.	मेरे पीछे मत आना।
+Don't come late, OK?	Komm nicht zu spät, okay?	टाल मत करना, ठीक है?
+Don't come out here.	Komm nicht hier raus.	यहाँ बाहर मत आना।
+Don't cry in public.	Weine nicht in der Öffentlichkeit.	सार्वजनिक जगह पर मत रो.
+Don't disappoint me.	Enttäusche mich nicht.	मुझे निराश न करें।
+Don't do that again.	Mach das nicht noch einmal.	फिरसे वैसा मत करना।
+Don't do that to me.	Tu das nicht mir an.	मेरे साथ ऐसा मत करो।
+Don't do this again.	Mach das nicht noch einmal.	फिरसे ऐसा मत करना।
+Don't drop the soap.	Lass die Seife nicht fallen.	साबुन न गिराना।
