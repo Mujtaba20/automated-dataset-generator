@@ -23639,3 +23639,12 @@ Tom is cooperating.	Tom arbeitet zusammen.	टॉम सहयोग कर र�
 Tom is dating Mary.	Tom datet Mary.	टॉम मेरी के साथ डेटिंग कर रहा है।
 Tom is daydreaming.	Tom träumt vor sich hin.	टॉम ख्यालों में खोया है।
 Tom is defenseless.	Tom ist wehrlos.	टॉम संरक्षित नहीं है।
+Tom is doing great.	Tom macht großartig.	टॉम शानदार कर रहा है।
+Tom is eating cake.	Tom isst Kuchen.	टॉम केक खा रहा है।
+Tom is experienced.	Tom ist erfahren.	टॉम अनुभवी है।
+Tom is extroverted.	Tom ist extrovertiert.	टॉम बाहरी है।
+Tom is filthy rich.	Tom ist stinkreich.	टॉम गंदा अमीर है।
+Tom is fishing now.	Tom angelt jetzt.	टॉम अब मछली पकड़ रहा है।
+Tom is former NYPD.	Tom ist ehemaliger NYPD.	टॉम पूर्व एनवाईपीडी है।
+Tom is from Boston.	Tom kommt aus Boston.	टॉम बोस्टन से है।
+Tom is getting fat.	Tom wird fett.	टॉम मोटा हो रहा है।

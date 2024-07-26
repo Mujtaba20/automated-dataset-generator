@@ -1,14 +1,4 @@
 
-Tom is doing great.	Tom geht es großartig.	टॉम महान है।
-Tom is eating cake.	Tom isst Kuchen.	टॉम केक खाता है।
-Tom is eating cake.	Tom isst jetzt Kuchen.	टॉम अब केक खाता है।
-Tom is experienced.	Tom ist erfahren.	टॉम अनुभवी है।
-Tom is extroverted.	Tom ist extrovertiert.	टॉम बहिर्मुखी है।
-Tom is filthy rich.	Tom ist stinkreich.	टॉम बदबूदार है।
-Tom is fishing now.	Tom angelt gerade.	टॉम फिशिंग।
-Tom is former NYPD.	Tom ist ein ehemaliger New Yorker Polizist.	टॉम न्यूयॉर्क के पूर्व पुलिसकर्मी हैं।
-Tom is from Boston.	Tom kommt aus Boston.	टॉम बोस्टन से आता है।
-Tom is getting fat.	Tom wird dick.	टॉम मोटा हो जाता है।
 Tom is going be OK.	Tom wird okay sein.	टॉम ठीक हो जाएगा।
 Tom is gravely ill.	Tom ist schwer krank.	टॉम गंभीर रूप से बीमार है।
 Tom is happier now.	Tom ist jetzt glücklicher.	टॉम अब खुश है।
