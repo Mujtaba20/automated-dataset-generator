@@ -34917,3 +34917,12 @@ Tom tried to kiss me.	Tom versuchte mich zu küssen.	टॉम ने मुझ�
 Tom tried to save me.	Tom versuchte mich zu retten.	टॉम ने मुझे बचाने की कोशिश की।
 Tom turned on the TV.	Tom hat den Fernseher eingeschaltet.	टॉम ने टीवी चालू की।
 Tom turned up the TV.	Tom stellte den Fernseher lauter.	टॉम ने टीवी को अधिक तेजी से बढ़ाया।
+Tom turned very pale.	Tom wurde sehr blass.	टॉम बहुत फीका पड़ गया।
+Tom understands Mary.	Tom versteht Mary.	टॉम मेरी को समझता है।
+Tom understands that.	Tom versteht das.	टॉम समझता है कि।
+Tom unlocked the car.	Tom hat das Auto aufgeschlossen.	टॉम ने कार का ताला खोला।
+Tom used a toothpick.	Tom benutzte ein Zahnstocher.	टॉमने एक टूथपिक का उपयोग किया।
+Tom visited a friend.	Tom besuchte einen Freund.	टॉम ने एक दोस्त को देखा।
+Tom waited anxiously.	Tom wartete ängstlich.	टॉम बेचैनी से इंतजार कर रहा था।
+Tom waited nervously.	Tom wartete nervös.	टॉम बेचैनी से इंतजार कर रहा था।
+Tom walked Mary home.	Tom führte Mary nach Hause.	टॉम ने मेरी को घर ले जाया।
