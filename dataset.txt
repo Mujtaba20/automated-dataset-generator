@@ -1,15 +1,4 @@
 
-I think Tom is old.	Ich denke, dass Tom alt ist.	मुझे लगता है कि टॉम बूढ़ा है।
-I think Tom is out.	Ich denke, Tom ist nicht da.	मुझे लगता है कि टॉम नहीं है।
-I think Tom is shy.	Ich denke, Tom ist schüchtern.	मुझे लगता है कि टॉम शर्मीला है।
-I think Tom's here.	Ich denke, Tom ist hier.	मुझे लगता है कि टॉम यहाँ है।
-I think he'll come.	Ich denke, er wird kommen.	मुझे लगता है कि वह आएगा।
-I think he's happy.	Ich glaube, dass er glücklich ist.	मुझे लगता है कि वह खुश है।
-I think he's happy.	Ich glaube, er ist glücklich.	मुझे लगता है कि वह खुश है।
-I think he's lying.	Ich denke, er lügt.	मुझे लगता है कि वह झूठ बोल रहा है।
-I think he's right.	Ich glaube, er hat recht.	मुझे लगता है कि वह सही है।
-I think it matters.	Ich glaube, das spielt eine Rolle.	मुझे लगता है कि एक भूमिका निभाता है।
-I think it matters.	Ich glaube, das ist von Bedeutung.	मुझे लगता है कि यह महत्वपूर्ण है।
 I think it'll snow.	Ich glaube, es wird schneien.	मुझे लगता है कि यह बर्फ होगा।
 I think it's great.	Ich finde es toll.	मुझे लगता है कि वो ठीक है।
 I think that'll do.	Ich denke, das wird es tun.	मुझे लगता है यह होगा।
