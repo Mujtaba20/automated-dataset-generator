@@ -1,16 +1,4 @@
 
-Did you read my email?	Hast du meine E-Mail gelesen?	क्या आपने मेरा ईमेल पढ़ा?
-Did you read my email?	Habt ihr meine E-Mail gelesen?	क्या आपने मेरा ईमेल पढ़ा?
-Did you read my email?	Haben Sie meine E-Mail gelesen?	क्या आपने मेरा ईमेल पढ़ा?
-Did you recognize Tom?	Hast du Tom erkannt?	क्या आपने टॉम को पहचान लिया?
-Did you recognize Tom?	Habt ihr Tom erkannt?	क्या आपने टॉम को पहचान लिया?
-Did you recognize Tom?	Haben Sie Tom erkannt?	क्या आपने टॉम को पहचान लिया?
-Did you say something?	Hast du was gesagt?	आपने कुछ कहा?
-Did you say something?	Hast du etwas gesagt?	आपने कुछ कहा?
-Did you say something?	Haben Sie etwas gesagt?	आपने कुछ कहा?
-Did you say thank you?	Hast du dich bedankt?	क्या आपने धन्यवाद दिया
-Did you say thank you?	Habt ihr euch bedankt?	क्या आपने धन्यवाद दिया?
-Did you say thank you?	Haben Sie sich bedankt?	क्या आपने धन्यवाद दिया?
 Did you say yes or no?	Hast du „ja“ gesagt oder „nein“ ?	"क्या आपने ""हाँ"" या ""नहीं"" कहा था?"
 Did you see Tom leave?	Hast du Tom gehen sehen?	क्या आपने टॉम को देखा?
 Did you see Tom leave?	Habt ihr Tom gehen sehen?	क्या आपने टॉम को देखा?

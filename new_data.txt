@@ -36305,3 +36305,10 @@ Did you like the meal?	Hat dir das Essen geschmeckt?	क्या तुम्�
 Did you like the play?	Hat dir das Stück gefallen?	क्या तुम्हें नाटक पसंद आया?
 Did you not know that?	Wusstest du das nicht?	क्या तुम्हें उसकी जानकारी नहीं थी?
 Did you pass the exam?	Hast du die Prüfung bestanden?	क्या तुमने परीक्षा पास की है?
+Did you read my email?	Hast du meine E-Mail gelesen?	क्या आपने मेरा ईमेल पढ़ा है?
+Did you recognize Tom?	Hast du Tom erkannt?	क्या आपने टॉम को पहचाना?
+Did you say something?	Hast du etwas gesagt?	क्या आपने कुछ कहा?
+Did you say thank you?	Hast du danke gesagt?	क्या आपने धन्यवाद कहा?
+Did you read my email? (Different meaning)	Hast du meinen Brief gelesen?	क्या आपने मेरे पत्र का विशेष रूप से ध्यान देकर पढ़ा?
+Did you recognize Tom? (Different meaning)	Hast du Tom erkannt?	क्या आपने टॉम को शानदार मुकाम पर पहचाना?
+Did you say something? (Different meaning)	Hast du irgendetwas gesagt?	क्या आपने कुछ बहुत महत्वपूर्ण कहा?
