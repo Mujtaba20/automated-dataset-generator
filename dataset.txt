@@ -1,14 +1,4 @@
 
-I'm not Tom's slave.	Ich bin nicht Toms Sklave.	मैं टॉम का गुलाम नहीं हूं।
-I'm not a bit tired.	Ich bin kein bisschen müde.	मैं थोड़ा थक नहीं गया हूं।
-I'm not a celebrity.	Ich bin keine Berühmtheit.	मैं एक सेलिब्रिटी नहीं हूं।
-I'm not a communist.	Ich bin kein Kommunist.	मैं कम्युनिस्ट नहीं हूं।
-I'm not a foreigner.	Ich bin kein Ausländer.	मैं विदेशी नहीं हूं।
-I'm not a good cook.	Ich bin kein guter Koch.	मैं एक अच्छा कुक नहीं हूँ।
-I'm not a good liar.	Ich bin kein guter Lügner.	मैं एक अच्छा झूठा नहीं हूँ।
-I'm not a scientist.	Ich bin kein Wissenschaftler.	मैं वैज्ञानिक नहीं हूं।
-I'm not a scientist.	Ich bin keine Wissenschaftlerin.	मैं वैज्ञानिक नहीं हूं।
-I'm not always busy.	Ich bin nicht immer beschäftigt.	मैं हमेशा व्यस्त नहीं हूं।
 I'm not always here.	Ich bin nicht immer hier.	मैं हमेशा यहां नहीं हूं।
 I'm not always late.	Ich komme nicht immer zu spät.	मैं हमेशा देर नहीं करता।
 I'm not at all busy.	Ich bin gar nicht beschäftigt.	मैं व्यस्त नहीं हूँ।

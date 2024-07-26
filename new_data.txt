@@ -27058,3 +27058,12 @@ I'm making progress.	Ich mache Fortschritte.	मैं प्रगति कर
 I'm more than happy.	Ich bin mehr als glücklich.	मैं खुश से ज्यादा हूँ।
 I'm no good for you.	Ich bin nicht gut für dich.	मैं तुम्हारे लिए अच्छा नहीं हूँ।
 I'm no longer tired.	Ich bin nicht mehr müde.	मैं अब थका नहीं हूँ।
+I'm not Tom's slave.	Ich bin nicht Toms Sklave.	मैं टॉम का गुलाम नहीं हूँ।
+I'm not a bit tired.	Ich bin kein bisschen müde.	मैं थोड़ा भी थका हुआ नहीं हूँ।
+I'm not a celebrity.	Ich bin keine Berühmtheit.	मैं एक प्रमुख व्यक्ति नहीं हूँ।
+I'm not a communist.	Ich bin kein Kommunist.	मैं एक सम्मुनिस्ट नहीं हूँ।
+I'm not a foreigner.	Ich bin kein Ausländer.	मैं एक पराया नहीं हूँ।
+I'm not a good cook.	Ich bin keine gute Köchin.	मैं अच्छी पकाने वाली नहीं हूँ।
+I'm not a good liar.	Ich bin kein guter Lügner.	मैं अच्छा झूठ नहीं बोलता।
+I'm not a scientist.	Ich bin kein Wissenschaftler.	मैं एक वैज्ञानिक नहीं हूँ।
+I'm not always busy.	Ich bin nicht immer beschäftigt.	मैं हमेशा व्यस्त नहीं हूँ।
