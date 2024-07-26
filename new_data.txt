@@ -23722,3 +23722,11 @@ Tom is really slow. (2)	Tom bewegt sich wirklich langsam.	टॉम वास्
 Tom is really tall.	Tom ist wirklich groß.	टॉम वास्तव में लंबा है।
 Tom is responsible.	Tom ist verantwortlich.	टॉम जिम्मेदार है।
 Tom is resting now.	Tom ruht jetzt.	टॉम अब आराम कर रहा है।
+Tom is seldom home.	Tom ist selten zu Hause.	टॉम बहुत कम घर पर है।
+Tom is seldom late.	Tom kommt selten zu spät.	टॉम शायद देर से होता है।
+Tom is sick in bed.	Tom ist krank im Bett.	टॉम बिस्तर में बीमार है।
+Tom is so arrogant.	Tom ist so arrogant.	टॉम इतना अहंकारी है।
+Tom is stalking me.	Tom verfolgt mich.	टॉम मुझे परेशान कर रहा है।
+Tom is stark naked.	Tom ist splitterfasernackt.	टॉम पूरी नंगी है।
+Tom is still a kid.	Tom ist immer noch ein Kind.	टॉम अब भी बच्चा है।
+Tom is still alive.	Tom lebt noch.	टॉम अभी भी जिंदा है।

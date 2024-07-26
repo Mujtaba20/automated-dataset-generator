@@ -1,14 +1,4 @@
 
-Tom is seldom home.	Tom ist selten zu Hause.	टॉम घर पर शायद ही कभी होता है।
-Tom is seldom late.	Tom kommt selten zu spät.	टॉम शायद बहुत देर से आता है।
-Tom is sick in bed.	Tom liegt krank im Bett.	टॉम बिस्तर में बीमार है।
-Tom is so arrogant.	Tom ist so arrogant.	टॉम बहुत घमंडी है।
-Tom is stalking me.	Tom stalkt mich.	टॉम मुझे डंक मारता है।
-Tom is stark naked.	Tom ist splitternackt.	टॉम नग्न है।
-Tom is stark naked.	Tom ist splitterfasernackt.	टॉम स्प्लिन्टर फाइबर है।
-Tom is still a kid.	Tom ist noch ein Kind.	टॉम अभी भी एक बच्चा है।
-Tom is still alive.	Tom lebt noch.	टॉम अभी भी जीवित है।
-Tom is still alive.	Tom ist noch am Leben.	टॉम अभी भी जीवित है।
 Tom is still angry.	Tom ist immer noch wütend.	टॉम अभी भी गुस्से में है।
 Tom is still drunk.	Tom ist immer noch betrunken.	टॉम अभी भी नशे में है।
 Tom is still there.	Tom ist noch immer dort.	टॉम अभी भी वहाँ है।
