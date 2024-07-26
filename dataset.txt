@@ -1,14 +1,4 @@
 
-Tom has a backache.	Tom hat Rückenschmerzen.	टॉम को पीठ दर्द है।
-Tom has a bad cold.	Tom hat eine starke Erkältung.	टॉम को एक मजबूत ठंड है।
-Tom has a big nose.	Tom hat eine große Nase.	टॉम की एक बड़ी नाक है।
-Tom has a blue car.	Tom hat einen blauen Wagen.	टॉम के पास एक नीली कार है।
-Tom has a cold now.	Tom hat jetzt eine Erkältung.	टॉम अब ठंड है।
-Tom has a cool job.	Tom hat einen coolen Job.	टॉम के पास एक अच्छा काम है।
-Tom has a daughter.	Tom hat eine Tochter.	टॉम की एक बेटी है।
-Tom has a good job.	Tom hat einen guten Job.	टॉम के पास अच्छी नौकरी है।
-Tom has a grandson.	Tom hat einen Enkel.	टॉम का एक पोता है।
-Tom has a hangover.	Tom hat einen Kater.	टॉम के पास एक हैंगओवर है।
 Tom has a headache.	Tom hat Kopfweh.	टॉम को सिरदर्द है।
 Tom has a headache.	Tom hat Kopfschmerzen.	टॉम को सिरदर्द है।
 Tom has a mustache.	Tom hat einen Schnurrbart.	टॉम में मूंछें हैं।

@@ -23482,3 +23482,13 @@ Tom had three sons.	Tom hatte drei Söhne.	टॉम के तीन पुत�
 Tom had work to do.	Tom hatte Arbeit zu erledigen.	टॉम को काम करना था।
 Tom hanged himself.	Tom erhängte sich.	टॉम ने अपनी एकलाख लगा दी।
 Tom has Monday off.	Tom hat Montag frei.	टॉम को सोमवार को छुट्टी है।
+Tom has a backache.	Tom hat Rückenschmerzen.	टॉम को कमर दर्द है।
+Tom has a bad cold.	Tom hat eine schlimme Erkältung.	टॉम को जुकाम है।
+Tom has a big nose.	Tom hat eine große Nase.	टॉम की बड़ी नाक है।
+Tom has a blue car.	Tom hat ein blaues Auto.	टॉम की नीली कार है।
+Tom has a cold now.	Tom ist jetzt erkältet.	अब टॉम को जुकाम है।
+Tom has a cool job.	Tom hat einen coolen Job.	टॉम का कूल जॉब है।
+Tom has a daughter.	Tom hat eine Tochter.	टॉम की एक बेटी है।
+Tom has a good job.	Tom hat einen guten Job.	टॉम का अच्छा काम है।
+Tom has a grandson.	Tom hat einen Enkel.	टॉम का एक पोता है।
+Tom has a hangover.	Tom hat einen Kater.	टॉम को हैंगओवर है।
