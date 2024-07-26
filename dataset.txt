@@ -1,14 +1,4 @@
 
-I have a black eye.	Ich habe ein blaues Auge.	मेरी नीली आंख है।
-I have a boyfriend.	Ich habe einen Freund.	मेरा एक दोस्त है।
-I have a boyfriend.	Ich habe einen festen Freund.	मेरा एक बॉयफ्रेंड है।
-I have a complaint.	Ich habe eine Beschwerde.	मेरी एक शिकायत है।
-I have a complaint.	Ich habe eine Reklamation.	मेरी एक शिकायत है।
-I have a few books.	Ich habe ein paar Bücher.	मेरे पास कुछ किताबें हैं।
-I have a fish tank.	Ich hab' ein Aquarium.	मेरे पास एक मछलीघर है।
-I have a flat tire.	Ich habe einen Platten.	टायर पंचर हो गया है.
-I have a glass eye.	Ich habe ein Glasauge.	मेरी कांच की आंख है।
-I have a good idea.	Ich habe eine gute Idee.	मेरे पास एक अच्छा सुझाव है।
 I have a great job.	Ich habe eine tolle Arbeit.	मेरे पास बहुत अच्छा काम है।
 I have a green car.	Ich habe ein grünes Auto.	मेरे पास एक हरी कार है।
 I have a head cold.	Ich habe eine Erkältung.	मुझे सर्दी हो गई है।

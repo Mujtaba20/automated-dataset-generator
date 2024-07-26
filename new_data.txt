@@ -21261,3 +21261,11 @@ I hate watching TV.	Ich hasse es fernzusehen.	मुझे टीवी दे�
 I have a beard now.	Ich habe jetzt einen Bart.	अब मेरे पास दाढ़ी है।
 I have a big house.	Ich habe ein großes Haus.	मेरे पास एक बड़ा घर है।
 I have a black dog.	Ich habe einen schwarzen Hund.	मेरे पास एक काला कुत्ता है।
+I have a black eye.	Ich habe ein blaues Auge.	मेरे पास एक काली आंख है।
+I have a boyfriend.	Ich habe einen festen Freund.	मेरे पास एक बॉयफ्रेंड है।
+I have a complaint.	Ich habe einen Einwand.	मेरे पास एक शिकायत है।
+I have a few books.	Ich habe ein paar Bücher.	मेरे पास कुछ किताबें हैं।
+I have a fish tank.	Ich habe ein Aquarium.	मेरे पास एक मछली का टैंक है।
+I have a flat tire.	Ich habe einen platten Reifen.	मेरे पास एक फ्लैट टायर है।
+I have a glass eye.	Ich habe ein Glasauge.	मेरे पास एक काँच की आंख है।
+I have a good idea.	Ich habe eine gute Idee.	मेरे पास एक अच्छी विचार है।
