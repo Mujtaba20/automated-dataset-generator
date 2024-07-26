@@ -34884,3 +34884,12 @@ Tom stole my clothes.	Tom hat meine Kleider gestohlen.	टॉमने मेर
 Tom stood his ground.	Tom hielt stand.	टॉमने अपनी ज़मीन पर खड़ा हुआ।
 Tom stood his ground.(duplicate sentence)	Tom blieb standhaft.	टॉमने अपनी ज़मीन पर अड़े रहे।
 Tom stood up to sing.	Tom stand auf, um zu singen.	टॉमने गाने के लिए खड़ा हो गया।
+Tom stopped drumming.	Tom hörte auf zu trommeln.	टॉम ढोल बजाना बंद कर दिया।
+Tom stopped fighting.	Tom hörte auf zu kämpfen.	टॉम लड़ना बंद कर दिया।
+Tom stopped laughing.	Tom hörte auf zu lachen.	टॉम हँसना बंद कर दिया।
+Tom stopped mid-kiss.	Tom hörte mitten im Kuss auf.	टॉम बीच में चुम्बन बंद कर दिया।
+Tom stopped suddenly.	Tom blieb plötzlich stehen.	टॉम अचानक रुक गया।
+Tom stuck to his job.	Tom hielt an seiner Arbeit fest.	टॉम अपने काम का पीछा किया।
+Tom talked all night.	Tom hat die ganze Nacht geredet.	टॉम रात भर बातचीत की।
+Tom taught me French.	Tom hat mir Französisch beigebracht.	टॉम ने मुझे फ्रेंच सिखाया।
+Tom tends to be late.	Tom kommt oft zu spät.	टॉम देर से आने की अधिकता दिखाता है।
