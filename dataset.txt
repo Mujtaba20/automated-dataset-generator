@@ -1,16 +1,4 @@
 
-I'm glad I hired you.	Ich bin froh, Sie eingestellt zu haben.	मुझे खुशी है कि उन्हें सेट किया है।
-I'm glad I was there.	Ich bin froh, dass ich da war.	मुझे खुशी है कि मैं वहां था।
-I'm glad I was wrong.	Ich bin froh, dass ich mich geirrt habe.	मुझे खुशी है कि मैं गलत था।
-I'm glad I'm not Tom.	Ich bin froh, nicht Tom zu sein.	मुझे खुशी है कि टॉम नहीं है।
-I'm glad Tom is gone.	Ich bin froh, dass Tom weg ist.	मुझे खुशी है कि टॉम चला गया है।
-I'm glad that's done.	Ich bin froh, dass das erledigt ist.	मुझे खुशी है कि यह किया जाता है।
-I'm glad you approve.	Schön, dass Sie zustimmen!	अच्छा है कि आप सहमत हैं!
-I'm glad you like it.	Ich bin froh, dass du es magst.	मुझे खुशी है कि आप इसे पसंद करते हैं।
-I'm glad you made it.	Ich bin froh, dass Sie es geschafft haben.	मुझे खुशी है कि आपने यह किया।
-I'm glad you noticed.	Ich freue mich, dass Sie das bemerkt haben.	मुझे खुशी है कि आपने देखा है।
-I'm glad you noticed.	Ich freue mich, dass ihr das bemerkt habt.	मुझे खुशी है कि आपने देखा है।
-I'm glad you noticed.	Ich freue mich, dass du das bemerkt hast.	मुझे खुशी है कि आपने देखा है।
 I'm glad you're back.	Ich freue mich, dass du wieder da bist!	मुझे खुशी है कि आप वापस आ गए हैं!
 I'm glad you're glad.	Ich freue mich, dass du dich freust.	मुझे खुशी है कि आप खुश हैं।
 I'm glad you're glad.	Ich freue mich, dass ihr euch freut.	मुझे खुशी है कि आप खुश हैं।

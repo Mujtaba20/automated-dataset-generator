@@ -32476,3 +32476,13 @@ I'm furious with Tom.	Ich bin wütend auf Tom.	मैं टॉम पर गु
 I'm getting homesick.	Ich werde heimwehkrank.	मुझे घर की याद आ रही है।
 I'm giving it to Tom.	Ich gebe es Tom.	मैं इसे टॉम को दे रहा हूँ।
 I'm giving it to you.	Ich gebe es dir.	मैं इसे तुम्हें दे रहा हूँ।
+I'm glad I hired you.	Ich bin froh, dass ich dich eingestellt habe.	मुझे खुशी है कि मैंने तुम्हें रखा।
+I'm glad I was there.	Ich bin froh, dass ich da war.	मुझे खुशी है कि मैं वहाँ था।
+I'm glad I was wrong.	Ich bin froh, dass ich mich geirrt habe.	मुझे खुशी है कि मैं गलत था।
+I'm glad I'm not Tom.	Ich bin froh, dass ich nicht Tom bin.	मुझे खुशी है कि मैं टॉम नहीं हूँ।
+I'm glad Tom is gone.	Ich bin froh, dass Tom weg ist.	मुझे खुशी है कि टॉम चला गया है।
+I'm glad that's done.	Ich bin froh, dass das erledigt ist.	मुझे खुशी है कि वह कर दिया गया है।
+I'm glad you approve.	Ich freue mich, dass du zustimmst.	मुझे खुशी है कि आप स्वीकृति देते हैं।
+I'm glad you like it.	Es freut mich, dass es dir gefällt.	मुझे खुशी है कि तुम्हें यह पसंद है।
+I'm glad you made it.	Ich freue mich, dass du es geschafft hast.	मुझे खुशी है कि तुमने इसे कर लिया।
+I'm glad you noticed.	Ich bin froh, dass du es bemerkt hast.	मुझे खुशी है कि तुमने ध्यान दिया।
