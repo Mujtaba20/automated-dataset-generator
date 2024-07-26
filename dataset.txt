@@ -1,15 +1,4 @@
 
-Brad Pitt is an actor.	Brad Pitt ist ein Schauspieler.	ब्रैड पिट एक अभिनेता हैं।
-Brad Pitt is an actor.	Brad Pitt ist Schauspieler.	ब्रैड पिट एक अभिनेता हैं।
-Bring your student ID!	Nimm deinen Studentenausweis mit!	अपने छात्र आईडी को अपने साथ ले लो!
-Bring your student ID.	Nimm deinen Studentenausweis mit.	अपने छात्र आईडी को अपने साथ ले जाएं।
-Brush your teeth well.	Putz dir ordentlich die Zähne.	अपने दांतों को ठीक से साफ करें।
-Business is improving.	Die Geschäfte laufen besser.	व्यवसाय बेहतर चल रहा है।
-Buy it for me, please.	Bitte kaufe das für mich.	कृपया मेरे लिए खरीदें।
-Buy it for me, please.	Bitte kaufen Sie es für mich.	कृपया इसे मेरे लिए खरीदें।
-Buy one, get one free.	Zwei zum Preis von einem.	एक के दाम में दो।
-Buy whatever you need.	Kauf, was auch immer du brauchst.	आपको जो भी चाहिए खरीदें।
-Buy whatever you need.	Kauf, was immer du brauchst.	आपको जो भी चाहिए खरीदें।
 Caffeine is addictive.	Koffein macht süchtig.	कैफीन नशे की लत है।
 Call me at the office.	Ruf mich im Büro an.	मुझे कार्यालय में बुलाओ।
 Call me at the office.	Ruft mich im Büro an.	मुझे कार्यालय में बुलाओ।

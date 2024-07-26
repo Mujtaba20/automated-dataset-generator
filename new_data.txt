@@ -36158,3 +36158,11 @@ Both of them are busy.	Beide von ihnen sind beschäftigt.	वे दोनों
 Both of you are right.	Ihr habt beide recht.	तुम दोनों सही हो।
 Both stories are true.	Beide Geschichten sind wahr.	दोनों कहानियाँ सच्ची हैं।
 Both were intoxicated.	Beide waren betrunken.	दोनों नशे में थे।
+Brad Pitt is an actor.	Brad Pitt ist ein Schauspieler.	ब्रैड पिट्ट एक कलाकार है।
+Bring your student ID!	Bringen Sie Ihren Studentenausweis mit!	अपना छात्र आईडी लेकर आइए!
+Bring your student ID.	Bring deinen Studentenausweis.	अपना छात्र आईडी लेकर आओ।
+Brush your teeth well.	Putzen Sie Ihre Zähne gut.	अच्छे से अपने दांत साफ करें।
+Business is improving.	Das Geschäft verbessert sich.	व्यापार सुधर रहा है।
+Buy it for me, please.	Kauf es für mich, bitte.	कृपया मुझे यह खरीद दें।
+Buy one, get one free.	Kaufen Sie eins, bekommen Sie eins kostenlos.	एक खरीदें, एक मुफ्त मिलेगा।
+Buy whatever you need.	Kaufen Sie, was immer Sie brauchen.	जो भी आपको चाहिए खरीदें।
