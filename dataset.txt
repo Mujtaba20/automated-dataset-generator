@@ -1,14 +1,4 @@
 
-She's my professor.	Sie ist meine Professorin.	वह मेरी प्रोफेसर हैं।
-She's not a doctor.	Sie ist kein Arzt.	वह चिकित्सक नहीं है।
-She's not a doctor.	Sie ist keine Ärztin.	वह चिकित्सक नहीं है।
-She's only a child.	Sie ist bloß ein Kind.	वह सिर्फ एक बच्चा है।
-She's only a child.	Sie ist nichts mehr als ein Kind.	वह एक बच्चे से ज्यादा कुछ नहीं है।
-She's thirty-three.	Sie ist dreiunddreißig.	यह तीस -थ्री है।
-Should we call Tom?	Sollten wir Tom anrufen?	क्या हमें टॉम को फोन करना चाहिए?
-Show me an example.	Zeig mir ein Beispiel.	मुझे एक उदाहरण दिखाओ।
-Show me an example.	Zeigt mir ein Beispiel.	मुझे एक उदाहरण दिखाता है।
-Show me an example.	Zeigen Sie mir ein Beispiel.	मुझे एक उदाहरण दिखाओ।
 Shut off the water.	Stell das Wasser ab!	पानी सेट करें!
 Shut up and listen!	Halt die Klappe und hör zu!	फ्लैप पकड़ो और सुनो!
 Shut up and listen!	Sei ruhig und hör zu!	शांत रहो और सुनो!

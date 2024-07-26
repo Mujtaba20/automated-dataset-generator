@@ -22781,3 +22781,10 @@ She's from Somalia.	Sie kommt aus Somalia.	वह सोमालिया स�
 She's just a child.	Sie ist nur ein Kind.	वह सिर्फ एक बच्ची है।
 She's my classmate.	Sie ist meine Klassenkameradin.	वह मेरी सहपाठी है।
 She's my godmother.	Sie ist meine Patentante.	वह मेरी कुंवारी बुआ है।
+She's my professor.	Sie ist meine Professorin.	वह मेरी प्रोफेसर है।
+She's not a doctor.	Sie ist keine Ärztin.	वह डॉक्टर नहीं है।
+She's only a child.	Sie ist nur ein Kind.	वह सिर्फ एक बच्चा है।
+She's thirty-three.	Sie ist dreiunddreißig Jahre alt.	उसकी उम्र तीस तीन साल है।
+Should we call Tom?	Sollen wir Tom anrufen?	क्या हमें टॉम को फ़ोन करना चाहिए?
+Show me an example.	Zeig mir ein Beispiel.	मुझे एक उदाहरण दिखाओ।
+Show me an example. 2	Zeigen Sie mir ein Beispiel.	मुझे एक उदाहरण देखाओ।
