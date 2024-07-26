@@ -1,16 +1,4 @@
 
-I hope no one sees us.	Ich hoffe, dass uns niemand sieht.	मुझे आशा है कि कोई भी हमें नहीं देखता।
-I hope no one sees us.	Ich hoffe, dass uns keiner sieht.	मुझे आशा है कि कोई भी हमें नहीं देखता।
-I hope no one sees us.	Ich hoffe, uns sieht niemand.	मुझे आशा है कि कोई भी हमें नहीं देखता।
-I hope no one sees us.	Ich hoffe, uns sieht keiner.	मुझे आशा है कि कोई भी हमें नहीं देखता।
-I hope you don't mind.	Ich hoffe, du hast nichts dagegen.	मुझे आशा है कि आपको कोई आपत्ति नहीं है।
-I hope you don't mind.	Ich hoffe, Sie haben nichts dagegen.	मुझे आशा है कि आपको कोई आपत्ति नहीं है।
-I hope you don't mind.	Ich hoffe, ihr habt nichts dagegen.	मुझे आशा है कि आपको कोई आपत्ति नहीं है।
-I hope you slept well.	Ich hoffe, du hast gut geschlafen.	उम्मीद है नींद अच्छी आई होगी।
-I hope you understand.	Ich hoffe, du verstehst.	मैं आशा करता हूँ कि तुम्हें समझ में आ गया होगा।
-I hope you'll like it.	Ich hoffe, es wird dir gefallen.	मुझे आशा है आप इसे पसंद करेंगे।
-I hope you'll like it.	Ich hoffe, es wird euch gefallen.	मुझे आशा है आप इसे पसंद करेंगे।
-I hope you'll like it.	Ich hoffe, es wird Ihnen gefallen.	मुझे आशा है आप इसे पसंद करेंगे।
 I hurt Tom's feelings.	Ich habe Toms Gefühle verletzt.	मैंने टॉम की भावनाओं को चोट पहुंचाई।
 I imagine that's true.	Ich denke, das ist wahr.	मुझे लगता है कि यह सच है।
 I just couldn't do it.	Ich konnte es einfach nicht.	मैं बस नहीं कर सकता।

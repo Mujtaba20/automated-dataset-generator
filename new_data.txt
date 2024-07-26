@@ -37541,3 +37541,10 @@ I hope Tom isn't sick.	Ich hoffe, Tom ist nicht krank.	मुझे आशा �
 I hope Tom left early.	Ich hoffe, Tom ist früh gegangen.	मुझे आशा है कि टॉम जल्दी चला गया है।
 I hope he's all right.	Ich hoffe, ihm geht es gut.	मुझे आशा है कि वह ठीक है।
 I hope no one saw you.	Ich hoffe, niemand hat dich gesehen.	मुझे आशा है कि कोई ने तुम्हें देखा नहीं है।
+I hope no one sees us.	Ich hoffe, dass uns niemand sieht.	मुझे आशा है कि कोई हमें नहीं देखता।
+I hope you don't mind.	Ich hoffe, es macht dir nichts aus.	मुझे आशा है कि तुम्हें इसका दुख न हो।
+I hope you slept well.	Ich hoffe, du hast gut geschlafen.	मुझे आशा है कि तुमने अच्छी तरह सोया हो।
+I hope you understand.	Ich hoffe, du verstehst.	मुझे आशा है कि तुम समझते हो।
+I hope you'll like it.	Ich hoffe, es wird dir gefallen.	मुझे आशा है कि तुम्हें यह पसंद आएगा।
+I hope no one sees us. (Different Meaning)	Ich hoffe, dass wir nicht entdeckt werden.	मुझे आशा है कि कोई हमें नहीं देख पाता।
+I hope you don't mind. (Different Meaning)	Ich hoffe, es stört dich nicht.	मुझे आशा है कि तुम्हें इससे परेशानी नहीं हो।
