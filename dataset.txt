@@ -1,14 +1,4 @@
 
-You don't need this.	Das brauchst du nicht.	आप की जरूरत नहीं।
-You don't need this.	Das brauchen Sie nicht.	आपको इसकी आवश्यकता नहीं है।
-You don't want that.	Das willst du nicht.	आपको उसकी चाहत नहीं है।
-You don't want this.	Du willst das nicht.	आपको उसकी चाहत नहीं है।
-You don't work here.	Du arbeitest nicht hier.	आप यहाँ काम नहीं करते।
-You don't work here.	Sie arbeiten nicht hier.	आप यहाँ काम नहीं करते।
-You don't work here.	Ihr arbeitet nicht hier.	आप यहाँ काम नहीं करते।
-You give me so much.	Du gibst mir so viel.	तुम मुझे बहुत दो।
-You guys are idiots.	Ihr seid Idioten.	आप बेवकूफ हैं।
-You had your chance.	Du hattest deine Chance.	आपके पास अपना मौका था।
 You have a big nose.	Du hast eine große Nase.	आपकी एक बड़ी नाक है।
 You have bad breath.	Du hast einen schlechten Atem.	आपकी सांस बुरी है।
 You have everything.	Du hast alles.	तुम्हारे पास सब कुछ है।

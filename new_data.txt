@@ -30157,3 +30157,12 @@ You don't look well.	Du siehst nicht gut aus.	तुम अच्छे नह�
 You don't look well. - Different Meaning	Du scheinst nicht in Ordnung zu sein.	तुम्हें अच्छा नहीं लग रहा है।
 You don't need that.	Du brauchst das nicht.	तुम्हें वह नहीं चाहिए।
 You don't need that. - Different Meaning	Du musst das nicht haben.	तुम्हें उसकी जरुरत नहीं है।
+You don't need this.	Du brauchst das nicht.	तुम्हें इसकी जरुरत नहीं है।
+You don't need this. (different meaning)	Das brauchst du nicht.	तुम्हें इसे ज़रूरत नहीं है।
+You don't want that.	Das willst du nicht.	तुम वह नहीं चाहते।
+You don't want this.	Das möchtest du nicht haben.	तुम यह नहीं चाहते हो।
+You don't work here.	Du arbeitest hier nicht.	तुम यहाँ काम नहीं करते।
+You don't work here. (different meaning)	Hier arbeitest du nicht.	तुम यहाँ काम नहीं करते हो।
+You give me so much.	Du gibst mir so viel.	तुम मुझे इतना कुछ देते हो।
+You guys are idiots.	Ihr seid Idioten.	तुम लोग मूर्ख हो।
+You had your chance.	Du hattest deine Chance.	तुम्हारा मौका था।
