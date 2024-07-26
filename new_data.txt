@@ -36488,3 +36488,13 @@ Dogs often bury bones.	Hunde vergraben oft Knochen.	कुत्ते अक्
 Don't act so innocent.	Tu nicht so unschuldig.	इतनी मासूम न बनो।
 Don't ask me that now.	Frag mich das jetzt nicht.	मुझसे अब यह मत पूछो।
 Don't ask me. Ask Tom.	Frag mich nicht. Frag Tom.	मुझसे मत पूछो। टॉम से पूछो।
+sentence1	Sei kein Geizhals.	कंजूस मत बनो।
+sentence2	Sei keine graue Maus.	कोई दीवाना नहीं बनो।
+sentence3	Sei nicht enttäuscht.	निराश मत हो।
+sentence4	Sei nicht enttäuscht.	छोटी मत बनो।
+sentence5	Sei nicht enttäuscht.	आशावाद में नहीं होता।
+sentence6	Sei nicht so ungeduldig.	इतना बेधड़क मत बनो।
+sentence7	Beiß dir nicht die Nägel ab.	अपने नाखून मत काटो।
+sentence8	Gib ihr nicht die Schuld daran.	उसके सिर पर मत डालो।
+sentence9	Mach sie nicht dafür verantwortlich.	उसी पर न डालो।
+sentence10	Zerstöre nicht meine Illusionen.	मेरा सपना न तोड़ो।
