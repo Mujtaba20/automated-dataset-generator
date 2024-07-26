@@ -1,14 +1,4 @@
 
-Whose camera is this?	Wessen Kamera ist das?	वह कैमरा किसका है?
-Whose cats are these?	Wessen Katzen sind das?	वे किसकी बिल्लियाँ हैं?
-Whose cats are these?	Wem gehören diese Katzen?	इन बिल्लियों का कौन है?
-Whose fault was that?	Wessen Schuld war das?	वह किसका अपराध था?
-Whose friend are you?	Wessen Freund bist du?	आप किसके दोस्त हैं?
-Whose friend are you?	Wessen Freund bist Du?	आप किसके दोस्त हैं?
-Whose friend are you?	Wes Freund bist du?	वेस दोस्त आप हैं?
-Whose guitar is this?	Wem gehört diese Gitarre?	इस गिटार का मालिक कौन है?
-Whose letter is this?	Wessen Brief ist das hier?	यहाँ किसका पत्र है?
-Whose office is this?	Wessen Büro ist das?	वह किसका कार्यालय है?
 Whose pencil is this?	Wessen Bleistift ist das?	पेंसिल किसकी है?
 Whose pencil is this?	Wem gehört dieser Bleistift?	यह पेंसिल किसका है?
 Whose pens are these?	Wem gehören diese Stifte?	ये पेन किसके हैं?

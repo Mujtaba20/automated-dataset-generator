@@ -35602,3 +35602,13 @@ Who's that gentleman?	Wer ist dieser Gentleman?	वह आदमी कौन �
 Who's the little guy?	Wer ist der Kleine?	छोटे से लड़के कौन हैं?
 Who's this other guy?	Wer ist dieser andere Kerl?	यह और आदमी कौन है?
 Who's your godmother?	Wer ist deine Patin?	तुम्हारी का चचेरा कौन है?
+Whose camera is this?	Wessen Kamera ist das?	यह किसकी कैमरा है?
+Whose cats are these?	Wessen Katzen sind das?	ये किसकी बिल्लियाँ हैं?
+Whose cats are these? (different meaning)	Wessen Katzen gehören dazu?	ये किसके बिल्लियाँ हैं?
+Whose fault was that?	Wessen Schuld war das?	वह किसकी गलती थी?
+Whose friend are you?	Wessen Freund bist du?	तुम किसके दोस्त हो?
+Whose friend are you? (different meaning)	Wessen Bekannter bist du?	तुम किसके साथी हो?
+Whose friend are you? (different meaning 2)	Wessen Kumpel bist du?	तुम किसके यार हो?
+Whose guitar is this?	Wessen Gitarre ist das?	यह किसकी गिटार है?
+Whose letter is this?	Wessen Brief ist das?	यह किसका पत्र है?
+Whose office is this?	Wessen Büro ist das?	यह किसका कार्यालय है?
