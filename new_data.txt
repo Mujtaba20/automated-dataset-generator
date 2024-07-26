@@ -28940,3 +28940,13 @@ Tom is playing golf.	Tom spielt Golf.	टॉम गोल्फ खेल रह
 Tom is pretty upset.	Tom ist ziemlich verärgert.	टॉम काफी उदास है।
 Tom is quite a poet.	Tom ist ein ziemlicher Dichter.	टॉम काफी कवि है।
 Tom is quite snobby.	Tom ist ziemlich hochnäsig.	टॉम काफी अहंकारी है।
+Tom is quite stupid.	Tom ist ziemlich dumm.	टॉम बहुत मूर्ख होगा।
+Tom is really drunk.	Tom ist wirklich betrunken.	टॉम वास्तव में बहका हुआ है।
+Tom is really quick.	Tom ist wirklich schnell.	टॉम वास्तव में तेज़ है।
+Tom is really quiet.	Tom ist wirklich ruhig.	टॉम वास्तव में शांत है।
+Tom is really smart.	Tom ist wirklich klug.	टॉम वास्तव में बुद्धिमान है।
+Tom is really sorry.	Tom tut mir wirklich leid.	टॉम असल में खेदगीत है।
+Tom is right-handed.	Tom ist rechtshändig.	टॉम दाहिने हाथ का है।
+Tom is safe for now.	Tom ist jetzt sicher.	अब टॉम सुरक्षित है।
+Tom is sharp-witted.	Tom ist scharfsinnig.	टॉम तेज-विचारी है।
+Tom is sleeping now.	Tom schläft jetzt.	अब टॉम सो रहा है।

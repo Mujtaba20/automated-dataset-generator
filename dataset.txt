@@ -1,14 +1,4 @@
 
-Tom is quite stupid.	Tom ist ziemlich dumm.	टॉम बहुत बेवकूफ है।
-Tom is really drunk.	Tom ist ziemlich betrunken.	टॉम बहुत नशे में है।
-Tom is really quick.	Tom ist superschnell.	टॉम सुपर फास्ट है।
-Tom is really quiet.	Tom ist sehr still.	टॉम बहुत शांत है।
-Tom is really smart.	Tom ist sehr schlau.	टॉम बहुत स्मार्ट है।
-Tom is really sorry.	Es tut Tom wirklich leid.	टॉम वास्तव में खेद है।
-Tom is right-handed.	Tom ist Rechtshänder.	टॉम सही है।
-Tom is safe for now.	Tom ist vorerst in Sicherheit.	टॉम उस समय के लिए सुरक्षित है।
-Tom is sharp-witted.	Tom hat einen scharfen Verstand.	टॉम का तेज दिमाग है।
-Tom is sleeping now.	Tom schläft gerade.	टॉम बस सो रहा है।
 Tom is slowing down.	Tom wird langsamer.	टॉम धीमा हो जाता है।
 Tom is sound asleep.	Tom schläft tief und fest.	टॉम गहराई से और दृढ़ता से सोता है।
 Tom is spying on us.	Tom spioniert uns aus.	टॉम हम में से बाहर जासूसी करता है।
