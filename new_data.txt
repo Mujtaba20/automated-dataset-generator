@@ -31865,3 +31865,12 @@ I know what you need.	Ich weiß, was du brauchst.	मुझे पता है 
 I know what you said.	Ich weiß, was du gesagt hast.	मुझे पता है तुमने क्या कहा।
 I know what you want.	Ich weiß, was du willst.	मुझे पता है तुम क्या चाहते हो।
 I know where that is.	Ich weiß, wo das ist.	मुझे पता है की वह कहाँ है।
+I know where to look.	Ich weiß, wo ich suchen soll.	मुझे पता है कि कहाँ देखना है।
+I know where you are.	Ich weiß, wo du bist.	मुझे पता है तुम कहाँ हो।
+I know where you are. (different meaning)	Ich weiß, wo ihr seid.	मुझे पता है तुम कहाँ हो।
+I know who likes Tom.	Ich weiß, wer Tom mag.	मुझे पता है कौन टॉम को पसंद करता है।
+I know who was there.	Ich weiß, wer dort war.	मुझे पता है कौन वहाँ था।
+I know who was there. (different meaning)	Ich weiß, wer dort war.	मुझे पता है किसने वहाँ था।
+I know why he did it.	Ich weiß, warum er es getan hat.	मुझे पता है क्यों उसने यह किया।
+I know you can do it.	Ich weiß, du kannst es schaffen.	मुझे पता है तुम कर सकते हो।
+I know you know this.	Ich weiß, du weißt das.	मुझे पता है तुम्हें यह पता है।

@@ -1,16 +1,4 @@
 
-I know where to look.	Ich weiß, wo ich suchen muss.	मुझे पता है कि कहां खोज करनी है।
-I know where you are.	Ich weiß, wo du bist.	मुझे पता है तुम कहाँ हो।
-I know where you are.	Ich weiß, wo ihr seid.	मुझे पता है तुम कहाँ हो।
-I know where you are.	Ich weiß, wo Sie sind.	मुझे पता है कि वे कहाँ हैं।
-I know who likes Tom.	Ich weiß, wer Tom mag.	मुझे पता है कि टॉम कौन पसंद करता है।
-I know who was there.	Ich weiß, wer dort war.	मुझे पता है कि वहां कौन था।
-I know who was there.	Ich weiß, wer alles dort war.	मुझे पता है कि वहां कौन था।
-I know why he did it.	Ich weiß, warum er es getan hat.	मुझे पता है कि उसने ऐसा क्यों किया।
-I know you can do it.	Ich weiß, dass du das kannst!	मुझे पता है तुम कर सकते हो!
-I know you know this.	Ich weiß, dass du das weißt.	मुझे पता है कि आप जानते हैं कि।
-I know you know this.	Ich weiß, dass ihr das wisst.	मुझे पता है कि आप जानते हैं कि।
-I know you know this.	Ich weiß, Sie wissen das.	मुझे पता है कि आप जानते हैं कि।
 I know you said that.	Ich weiß, dass du das gesagt hast.	मुझे पता है कि आपने कहा था।
 I know your language.	Ich kenne Ihre Sprache.	मुझे आपकी भाषा पता है।
 I know your language.	Ich kenne deine Sprache.	मुझे आपकी भाषा पता है।
