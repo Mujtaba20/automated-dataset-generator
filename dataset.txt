@@ -1,14 +1,4 @@
 
-Do you want to hear it?	Willst du es hören?	क्या आप इसे सुनना चाहते हैं?
-Do you want to hear it?	Wollt ihr es hören?	क्या आप इसे सुनना चाहते हैं?
-Do you want to hear it?	Wollen Sie es hören?	क्या आप इसे सुनना चाहते हैं?
-Do you want to help me?	Wollen Sie mir helfen?	क्या तुम मेरी सहायता करना चाहते हो?
-Do you want to help me?	Wollt ihr mir helfen?	क्या तुम मेरी सहायता करना चाहते हो?
-Do you want to help me?	Willst du mir helfen?	क्या तुम मेरी सहायता करना चाहते हो?
-Do you want to kill me?	Willst du mich umbringen?	क्या तुम मुझे मारना चाहते हो
-Do you want to see Tom?	Willst du Tom sehen?	क्या आप टॉम देखना चाहते हैं?
-Do you want to take it?	Willst du es nehmen?	क्या आप इसे लेना चाहते हैं?
-Do you work there, too?	Arbeiten Sie auch dort?	क्या आप भी वहां काम करते हैं?
 Do you write in Arabic?	Kannst du arabisch schreiben?	क्या आप अरबी लिख सकते हैं?
 Do you write in French?	Schreibst du auf Französisch?	क्या आप फ्रेंच में लिखते हैं?
 Does Tom drive to work?	Fährt Tom zur Arbeit?	क्या टॉम काम करने के लिए ड्राइव करता है?
