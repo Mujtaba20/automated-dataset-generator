@@ -1,14 +1,4 @@
 
-I cleaned the toilet.	Ich habe die Toilette sauber gemacht.	मैंने शौचालय को साफ किया।
-I cleared up my desk.	Ich habe meinen Schreibtisch aufgeräumt.	मैंने अपनी मेज को साफ किया।
-I collect rare coins.	Ich sammle seltene Münzen.	मैं दुर्लभ सिक्के इकट्ठा करता हूं।
-I consulted a doctor.	Ich habe einen Arzt konsultiert.	मैंने एक डॉक्टर से परामर्श किया।
-I convinced everyone.	Ich habe alle überzeugt.	मैंने सभी को आश्वस्त किया।
-I cooked this myself.	Ich habe das selbst gekocht.	मैंने खुद को पकाया।
-I could barely sleep.	Ich konnte kaum schlafen.	मैं मुश्किल से सो सकता था।
-I could barely speak.	Ich konnte kaum sprechen.	मैं मुश्किल से बोल सकता था।
-I could barely stand.	Ich konnte kaum stehen.	मैं मुश्किल से खड़ा हो सकता था।
-I could be a suspect.	Ich könnte ein Tatverdächtiger sein.	मैं एक संदिग्ध हो सकता है।
 I could imagine that.	Das könnte ich mir vorstellen.	मैं कल्पना कर सकता था।
 I could kill you now.	Jetzt könnte ich dich umbringen.	अब मैं तुम्हें मार सकता था।
 I could write a book.	Ich könnte ein Buch schreiben.	मैं एक किताब लिख सकता था।

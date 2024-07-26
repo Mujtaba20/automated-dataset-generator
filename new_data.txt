@@ -31511,3 +31511,13 @@ I cannot read French.	Ich kann kein Französisch lesen.	मैं फ्रे�
 I caused an accident.	Ich habe einen Unfall verursacht.	मैंने एक दुर्घटना का कारण बनाया।
 I checked everywhere.	Ich habe überall nachgeschaut.	मैंने हर जगह चेक किया।
 I chose not to leave.	Ich habe mich entschieden, nicht zu gehen.	मैंने छोड़ने का नहीं चुना।
+I cleaned the toilet.	Ich habe die Toilette geputzt.	मैंने शौचालय साफ किया।
+I cleared up my desk.	Ich habe meinen Schreibtisch aufgeräumt.	मैंने अपनी डेस्क साफ कर दी।
+I collect rare coins.	Ich sammle seltene Münzen.	मैं दुर्लभ सिक्के जोड़ता हूँ।
+I consulted a doctor.	Ich habe einen Arzt konsultiert.	मैंने एक डॉक्टर से परामर्श किया।
+I convinced everyone.	Ich habe alle überzeugt.	मैंने सभी को मनाया।
+I cooked this myself.	Ich habe das selbst gekocht.	मैंने इसे खुद पकाया।
+I could barely sleep.	Ich konnte kaum schlafen.	मैं मुश्किल से सो पाया।
+I could barely speak.	Ich konnte kaum sprechen.	मैं मुश्किल से बोल पाया।
+I could barely stand.	Ich konnte kaum stehen.	मैं मुश्किल से खड़ा रह सका।
+I could be a suspect.	Ich könnte ein Verdächtiger sein.	मैं एक संदिग्ध हो सकता हूँ।
