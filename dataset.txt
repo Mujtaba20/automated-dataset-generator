@@ -1,14 +1,4 @@
 
-Tom has curly hair.	Tom hat lockiges Haar.	टॉम के घुंघराले बाल हैं।
-Tom has gone crazy.	Tom ist verrückt geworden.	टॉम पागल हो गया है।
-Tom has gone crazy.	Tom hat den Verstand verloren.	टॉम ने मन खो दिया।
-Tom has got a cold.	Tom hat eine Erkältung.	टॉम को ठंड है।
-Tom has got a plan.	Tom hat einen Plan.	टॉम की एक योजना है।
-Tom has gotten fat.	Tom ist dick geworden.	टॉम मोटा हो गया है।
-Tom has lied to us.	Tom hat uns angelogen.	टॉम ने हमसे झूठ बोला।
-Tom has lied to us.	Tom hat uns belogen.	टॉम ने हमसे झूठ बोला।
-Tom has many books.	Tom hat viele Bücher.	टॉम के पास कई किताबें हैं।
-Tom has no enemies.	Tom hat keine Feinde.	टॉम का कोई दुश्मन नहीं है।
 Tom has no friends.	Tom hat keine Freunde.	टॉम का कोई दोस्त नहीं है।
 Tom has no manners.	Tom hat keine Manieren.	टॉम के पास कोई शिष्टाचार नहीं है।
 Tom has no regrets.	Tom bereut nichts.	टॉम को कुछ भी पछतावा नहीं है।
