@@ -26834,3 +26834,6 @@ I went into details.	Ich ging ins Detail.	मैं विस्तार से
 I went to Australia.	Ich ging nach Australien.	मैं ऑस्ट्रेलिया गया।
 I went to a concert.	Ich ging zu einem Konzert.	मैं कॉन्सर्ट पर गया।
 I went to bed early.	Ich ging früh ins Bett.	मैं जल्दी सोने गया।
+I went to visit Tom.	Ich bin gegangen, um Tom zu besuchen.	मैं टॉम को मिलने गया था।
+I will be back soon.	Ich bin bald zurück.	मैं जल्दी वापस आऊँगा।
+I will do it gladly.	Ich werde es gerne tun.	मैं खुशी-खुशी यह करूँगा।
