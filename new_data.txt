@@ -39284,3 +39284,13 @@ Thanks for everything.	Danke für alles.	सब कुछ के लिए ध�
 Thanks for meeting me.	Danke, dass du mich getroffen hast.	मुझसे मिलने के लिए धन्यवाद।
 Thanks for the advice.	Danke für den Rat.	सलाह के लिए धन्यवाद।
 Thanks for the invite.	Danke für die Einladung.	निमंत्रण के लिए धन्यवाद।
+Thanks for the update.	Danke für das Update.	अपडेट के लिए धन्यवाद।
+Thanks for your input.	Danke für Ihren Beitrag.	आपके सुझाव के लिए धन्यवाद।
+Thanks for your input. (Different meaning)	Vielen Dank für Ihre Eingabe.	आपके प्रवेश के लिए धन्यवाद।
+Thanks for your input. (Different meaning 2)	Danke für Ihre Meinung.	आपके योगदान के लिए धन्यवाद।
+Thanks for your reply.	Danke für Ihre Antwort.	आपके जवाब के लिए धन्यवाद।
+Thanks to both of you.	Danke an euch beide.	दोनों आप दोनों के लिए धन्यवाद।
+Thanks to both of you. (Different meaning)	Vielen Dank an euch beide.	आप दोनों के लिए धन्यवाद।
+Thanks, but no thanks.	Danke, aber nein danke.	धन्यवाद, लेकिन नहीं धन्यवाद।
+That banana is rotten.	Diese Banane ist faul.	वह केला सड़ गया है।
+That cannot be denied.	Das lässt sich nicht leugnen.	यह इनकार नहीं किया जा सकता।
