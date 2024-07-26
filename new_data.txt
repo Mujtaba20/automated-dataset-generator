@@ -40002,3 +40002,13 @@ Tom doesn't sing well.	Tom singt nicht gut.	टॉम अच्छे से न
 Tom doesn't talk much.	Tom spricht nicht viel.	टॉम बहुत बोलने वाला नहीं है।
 Tom doesn't tell lies.	Tom sagt keine Lügen.	टॉम झूठ नहीं बोलता।
 Tom doesn't use drugs.	Tom nimmt keine Drogen.	टॉम नशे नहीं करता।
+Tom doesn't want kids.	Tom will keine Kinder.	टॉम को बच्चे नहीं चाहिए।
+Tom doesn't want that.	Tom will das nicht.	टॉम वह नहीं चाहता।
+Tom doesn't want this.	Tom will das nicht.	टॉम इसे नहीं चाहता।
+Tom doesn't work here.	Tom arbeitet hier nicht.	टॉम यहाँ काम नहीं करता।
+Tom dove off the pier.	Tom tauchte vom Steg.	टॉम ने घाट से जाकर पुलिंद लिया।
+Tom drank from my cup.	Tom trank aus meiner Tasse.	टॉम ने मेरे कप से पी।
+Tom dressed hurriedly.	Tom zog sich hastig an.	टॉम ने जल्दी से खुद को तैयार किया।
+Tom dropped his glass.	Tom ließ sein Glas fallen.	टॉम ने अपना गिलास गिरा दिया।
+Tom drove really fast.	Tom fuhr wirklich schnell.	टॉम ने वास्तव में तेज गति से ड्राइव की।
+Tom eats like a horse.	Tom isst wie ein Pferd.	टॉम गधे की तरह खाता है।
