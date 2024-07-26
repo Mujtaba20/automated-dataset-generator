@@ -1,15 +1,4 @@
 
-Don't you have a pen?	Hast du keinen Kuli?	क्या आपके पास कोई समापन नहीं है?
-Don't you have a pen?	Hast du keinen Stift?	क्या आपके पास कोई कलम नहीं है?
-Don't you have a pen?	Haben Sie keinen Stift?	क्या आपके पास कोई कलम नहीं है?
-Don't you have a pen?	Habt ihr keinen Stift?	क्या आपके पास कोई कलम नहीं है?
-Don't you like girls?	Magst du keine Mädchen?	क्या आपको लड़कियां पसंद नहीं हैं?
-Don't you like girls?	Mögt ihr keine Mädchen?	क्या आपको लड़कियां पसंद नहीं हैं?
-Don't you like girls?	Mögen Sie keine Mädchen?	क्या आपको लड़कियां पसंद नहीं हैं?
-Don't you say a word.	Sag ja kein Wort!	एक शब्द मत कहो!
-Don't you understand?	Verstehst du das nicht?	क्या आप यह नहीं समझते हैं?
-Don't you want proof?	Willst du keinen Beweis?	क्या आप कोई सबूत नहीं चाहते हैं?
-Don't you want proof?	Wollen Sie keinen Beweis?	क्या आप सबूत नहीं चाहते हैं?
 Don't you want these?	Willst du die nicht?	क्या आप उन्हें नहीं चाहते?
 Don't you want to go?	Willst du gar nicht gehen?	क्या आप नहीं जाना चाहते हैं?
 Don't you want to go?	Willst du nicht gehen?	क्या आप नहीं जाना चाहते हैं?

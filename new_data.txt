@@ -30819,3 +30819,8 @@ Don't worry. It's OK.	Mach dir keine Sorgen. Es ist in Ordnung.	चिंता 
 Don't you agree, Tom?	Stimmt es nicht, Tom?	क्या तुम्हें सहमति नहीं है, टॉम?
 Don't you believe it?	Glaubst du es nicht?	क्या आप इस पर विश्वास नहीं करते हैं?
 Don't you believe me?	Glaubst du mir nicht?	क्या आप मुझपर विश्वास नहीं करते?
+Don't you have a pen?	Haben Sie keinen Stift?	क्या आपके पास कोई पेन नहीं है?
+Don't you like girls?	Magst du keine Mädchen?	क्या तुम्हें लड़कियां पसंद नहीं हैं?
+Don't you say a word.	Sag kein Wort.	कुछ ना कहो।
+Don't you understand?	Verstehst du nicht?	क्या तुम्हें समझ नहीं आता है?
+Don't you want proof?	Möchtest du einen Beweis?	क्या तुमको सबूत चाहिए?
