@@ -21134,3 +21134,11 @@ I could do nothing.	Ich konnte nichts tun.	मैं कुछ नहीं क�
 I could go to jail.	Ich könnte ins Gefängnis gehen.	मैं जेल जा सकता था।
 I could not refuse.	Ich konnte nicht ablehnen.	मैंने मना नहीं किया।
 I couldn't breathe.	Ich konnte nicht atmen.	मैं साँस नहीं ले सका।
+I couldn't deny it.	Ich konnte es nicht ablehnen.	मैं इसे मान नहीं सका।
+I couldn't help it.	Ich konnte nicht anders.	मैं मदद नहीं कर सका।
+I couldn't make it.	Ich konnte es nicht schaffen.	मैं इसे नहीं बना सका।
+I cracked the code.	Ich habe den Code geknackt.	मैंने कोड को क्रैक किया।
+I deleted the file.	Ich habe die Datei gelöscht.	मैंने फ़ाइल को हटा दिया।
+I demand the truth.	Ich verlange die Wahrheit.	मैं सच्चाई की मांग करता हूँ।
+I detest hypocrisy.	Ich verabscheue Heuchelei.	मैं पाखंड की घृणा करता हूँ।
+I did all the work.	Ich habe alles erledigt.	मैंने सभी कार्य किए।

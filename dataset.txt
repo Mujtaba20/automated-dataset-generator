@@ -1,14 +1,4 @@
 
-I couldn't deny it.	Ich konnte es nicht leugnen.	मैं इससे इनकार नहीं कर सकता।
-I couldn't deny it.	Ich konnte es nicht abstreiten.	मैं इससे इनकार नहीं कर सकता।
-I couldn't help it.	Ich konnte nichts dagegen tun.	मैं इसके बारे में कुछ नहीं कर सकता था।
-I couldn't make it.	Ich habe es nicht geschafft.	मैंने इसे नहीं बनाया।
-I cracked the code.	Ich habe den Code geknackt.	मैंने कोड को क्रैक किया।
-I deleted the file.	Ich habe die Datei gelöscht.	मैंने फ़ाइल को हटा दिया।
-I demand the truth.	Ich verlange die Wahrheit.	मैं सच्चाई के लिए पूछता हूं।
-I detest hypocrisy.	Ich verabscheue Scheinheiligkeit.	मैं पाखंड घृणा करता हूं।
-I did all the work.	Ich habe die ganze Arbeit verrichtet.	मैंने सारा काम किया।
-I did all the work.	Ich habe die ganze Arbeit gemacht.	मैंने सारा काम किया।
 I did it willingly.	Ich habe das freiwillig getan.	मैंने स्वेच्छा से ऐसा किया।
 I did that already.	Das habe ich schon gemacht.	मैंने पहले ही ऐसा किया है।
 I did this for you.	Ich habe das für dich getan.	मैंने तुम्हारे लिए ऐसा किया।
