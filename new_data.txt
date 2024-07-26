@@ -24750,3 +24750,9 @@ Whose wine is this?	Wessen Wein ist das?	यह शराब किसकी ह
 Why are they angry?	Warum sind sie böse?	वे क्यों गुस्से में हैं?
 Why are we running?	Warum laufen wir?	हम क्यों भाग रहे हैं?
 Why are we running? (different meaning)	Warum rennen wir?	हम क्यों दौड़ रहे हैं?
+Why are we walking?	Warum gehen wir?	हम क्यों चल रहे हैं?
+Why are you asking?	Warum fragst du?	तुम क्यों पूछ रहे हो?
+Why are you crying?	Warum weinst du?	तुम क्यों रो रहे हो?
+Why are you scared?	Warum hast du Angst?	तुम क्यों डर रहे हो?
+Why are you so mad?	Warum bist du so wütend?	तुम इतने गुस्से में क्यों हो?
+Why are you so sad?	Warum bist du so traurig?	तुम इतने उदास क्यों हो?

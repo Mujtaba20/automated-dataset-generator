@@ -1,16 +1,4 @@
 
-Why are we walking?	Warum laufen wir?	हम क्यों चलाते हैं?
-Why are you asking?	Warum fragst du?	तुम क्यों पूछ रहे हो?
-Why are you asking?	Warum fragen Sie?	तुम क्यों पूछ रहे हो?
-Why are you crying?	Wieso weinst du?	क्यों रो रही हो?
-Why are you crying?	Warum weinst du?	क्यों रो रही हो?
-Why are you crying?	Warum weint ihr?	तुम क्यों रोते हो?
-Why are you crying?	Warum weinen Sie?	तुम क्यों रोते हो?
-Why are you scared?	Warum habt ihr Angst?	तुम डरते क्यों हो?
-Why are you so mad?	Warum bist du so zornig?	आप इतना गुस्सा क्यों कर रहे हैं?
-Why are you so sad?	Warum bist du so traurig?	आप अत्यधिक दुखी क्यों है?
-Why are you so sad?	Warum sind Sie denn so traurig?	आप अत्यधिक दुखी क्यों है?
-Why are you so sad?	Warum seid ihr denn so traurig?	आप अत्यधिक दुखी क्यों है?
 Why can't Tom come?	Warum kann Tom nicht kommen?	टॉम क्यों नहीं आ सकता है?
 Why can't you come?	Warum kannst du nicht kommen?	आप क्यों नहीं आ सकते?
 Why can't you come?	Warum könnt ihr nicht kommen?	आप क्यों नहीं आ सकते?
