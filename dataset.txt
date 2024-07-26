@@ -1,14 +1,4 @@
 
-Where are the knives?	Wo sind die Messer?	चाकू कहाँ हैं?
-Where are the meters?	Wo sind die Messgeräte?	मापने वाले उपकरण कहां हैं?
-Where are the meters?	Wo sind die Parkuhren?	पार्किंग मीटर कहां हैं?
-Where are the others?	Wo sind die anderen?	बाकी कहाँ हैं?
-Where are the photos?	Wo sind die Fotos?	तस्वीरें कहाँ हैं?
-Where are we exactly?	Wo genau sind wir?	वास्तव में हम कहाँ हैं?
-Where are we staying?	Wo übernachten wir?	हम कहाँ रहते हैं?
-Where are you hiding?	Wo versteckst du dich?	तुम कहा छुप रहे हो?
-Where are you hiding?	Wo versteckt ihr euch?	तुम कहाँ छिपते हो?
-Where are you hiding?	Wo verstecken Sie sich?	तुम कहाँ छिपते हो?
 Where are you living?	Wo lebst du?	आप कहाँ रहते हैं?
 Where are you off to?	Wo willst du hin?	आप कहाँ जाना चाहते हैं?
 Where are your aunts?	Wo sind deine Tanten?	आपकी चाची कहाँ हैं?

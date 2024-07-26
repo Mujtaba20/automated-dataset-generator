@@ -35491,3 +35491,10 @@ Where are my glasses?	Wo sind meine Gläser?	मेरे चश्मे कह
 Where are my parents?	Wo sind meine Eltern?	मेरे माता-पिता कहाँ हैं?
 Where are the apples?	Wo sind die Äpfel?	सेब कहाँ हैं?
 Where are the guards?	Wo sind die Wachen?	गार्ड्स कहाँ हैं?
+Where are the knives?		
+Where are the meters?		
+Where are the others?		
+Where are the photos?		
+Where are we exactly?		
+Where are we staying?		
+Where are you hiding?		
