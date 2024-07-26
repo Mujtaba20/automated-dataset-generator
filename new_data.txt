@@ -22438,3 +22438,9 @@ Let's skip dessert.	Lass uns das Dessert auslassen.	मिठाई को छ�
 Let's speak French.	Lass uns Französisch sprechen.	चलो फ्रेंच बोलते हैं।
 Let's stay focused.	Lass uns konzentriert bleiben.	ध्यान लगाए रहें।
 Let's study French.	Lass uns Französisch lernen.	फ्रेंच पढ़ने चलें।
+Let's take a break.	Lassen Sie uns eine Pause machen.	हम एक ब्रेक लेते हैं।
+Let's take a train.	Lass uns mit dem Zug fahren.	हम ट्रेन लेते हैं।
+Let's take the bus.	Lass uns den Bus nehmen.	हम बस में चढ़ें।
+Let's talk outside.	Lassen Sie uns draußen sprechen.	हम बाहर बात करते हैं।
+Let's wait a while.	Lass uns eine Weile warten.	थोड़ी देर इंतजार करें।
+Let's wait outside.	Lassen Sie uns draußen warten.	हम बाहर इंतजार करें।
