@@ -1,14 +1,4 @@
 
-Is it cold in Germany?	Ist es in Deutschland kalt?	क्या यह जर्मनी में ठंडा है?
-Is it easy to install?	Ist das leicht zu installieren?	क्या इसे स्थापित करना आसान है?
-Is it near your house?	Ist es in der Nähe eures Hauses?	क्या यह आपके घर के पास है?
-Is it near your house?	Ist es in der Nähe deines Hauses?	क्या यह आपके घर के पास है?
-Is it near your house?	Ist es in der Nähe Ihres Hauses?	क्या यह आपके घर के पास है?
-Is it really all over?	Ist das wirklich alles vorbei?	क्या यह वास्तव में खत्म हो गया है?
-Is it really possible?	Ist das wirklich möglich?	क्या यह वास्तव में संभव है?
-Is it really possible?	Kann das wirklich sein?	क्या यह वास्तव में हो सकता है?
-Is it really that bad?	Ist es wirklich so schlimm?	क्या यह वास्तव में इतना बुरा है?
-Is it really worth it?	Ist es das wirklich wert?	यह वास्तव में इसके लायक है?
 Is it taking too long?	Dauert es zu lange?	क्या इसमें बहुत लंबा समय लगता है?
 Is it too complicated?	Ist es zu kompliziert?	क्या यह बहुत जटिल है?
 Is it too far to walk?	Ist es zu weit, um zu laufen?	क्या यह चलाने के लिए बहुत दूर है?

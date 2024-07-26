@@ -38411,3 +38411,10 @@ Is it Tuesday already?	Ist schon Dienstag?	क्या यह पहले स�
 Is it a boy or a girl?	Ist es ein Junge oder ein Mädchen?	क्या यह एक लड़का है या एक लड़की?
 Is it a direct flight?	Ist es ein Direktflug?	क्या यह एक सीधी उड़ान है?
 Is it an action movie?	Ist es ein Actionfilm?	क्या यह एक क्रिया चित्रपट है?
+Is it cold in Germany?	Ist es kalt in Deutschland?	क्या जर्मनी में सर्दी है?
+Is it easy to install?	Ist es leicht zu installieren?	क्या यह इंस्टॉल करना आसान है?
+Is it near your house?	Ist es in der Nähe deines Hauses?	क्या यह तुम्हारे घर के पास है?
+Is it really all over?	Ist es wirklich vorbei?	क्या यह सचमुच सब कुछ खत्म हो गया है?
+Is it really possible?	Ist es wirklich möglich?	क्या यह सचमुच संभव है?
+Is it really that bad?	Ist es wirklich so schlimm?	क्या यह सचमुच इतना बुरा है?
+Is it really worth it?	Ist es wirklich das wert?	क्या यह सचमुच योग्य है?
