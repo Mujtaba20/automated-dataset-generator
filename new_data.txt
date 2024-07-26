@@ -27275,3 +27275,11 @@ Is this all we need?	Ist das alles, was wir brauchen?	क्या यह हम
 Is this goat cheese?	Ist das Ziegenkäse?	क्या यह बकरी का पनीर है?
 Is this good French?	Ist das gutes Französisch?	क्या यह अच्छा फ्रेंच है?
 Is this permissible?	Ist das erlaubt?	क्या यह अनुज्ञेय है?
+Is this seat vacant?	Ist dieser Sitz frei?	क्या यह सीट खाली है?
+Is this your flight?	Ist das Ihr Flug?	क्या यह आपकी उड़ान है?
+Is this your letter?	Ist das Ihr Brief?	क्या यह आपका पत्र है?
+Is this your pencil?	Ist das dein Bleistift?	क्या यह तुम्हारी पेंसिल है?
+Is your father rich?	Ist dein Vater reich?	क्या तुम्हारे पिताजी धनवान हैं?
+Is your mom at home?	Ist deine Mutter zu Hause?	क्या तुम्हारी माँ घर पर है?
+Is your mother here?	Ist deine Mutter hier?	क्या तुम्हारी माँ यहाँ है?
+Isn't that childish?	Ist das nicht kindisch?	क्या यह बचकाना नहीं है?

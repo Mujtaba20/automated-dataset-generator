@@ -1,14 +1,4 @@
 
-Is this seat vacant?	Ist dieser Platz frei?	क्या यह सीट दे दी गई है?
-Is this your flight?	Ist das Ihr Flug?	क्या यह आपकी उड़ान है?
-Is this your letter?	Ist dies dein Brief?	क्या यह आपका पत्र है?
-Is this your letter?	Ist das hier dein Brief?	क्या यह आपका पत्र यहाँ है?
-Is this your pencil?	Ist das dein Bleistift?	क्या यह आपकी पेंसिल है?
-Is your father rich?	Ist dein Vater reich?	क्या आपके पिता अमीर हैं?
-Is your mom at home?	Ist deine Mutter zu Hause?	क्या आपकी मां घर पर है?
-Is your mom at home?	Ist Mutter zu Hause?	क्या माँ घर पर है?
-Is your mother here?	Ist deine Mutter hier?	क्या आपकी माँ यहाँ है?
-Isn't that childish?	Ist das nicht kindisch?	क्या वह बचकाना नहीं है?
 Isn't that overkill?	Ist das nicht so, als wollte man mit Kanonen auf Spatzen schießen?	क्या यह ऐसा नहीं है जैसे आप तोपों के साथ गौरैया में शूट करना चाहते थे?
 Isn't that overkill?	Ist das nicht Kanonenfeuer zur Spatzenbekämpfung?	गौरैया नियंत्रण के लिए वह तोप की आग नहीं है?
 Isn't that the plan?	Ist das nicht der Plan?	क्या यह योजना नहीं है?
