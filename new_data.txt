@@ -21828,3 +21828,11 @@ I'll do as you say.	Ich werde tun, wie du sagst.	मैं जैसा कह�
 I'll do it for you.	Ich werde es für dich tun.	मैं तुम्हारे लिए यह करूँगा।
 I'll do that later.	Das mache ich später.	मैं बाद में यह करूँगा।
 I'll do that tomorrow.	Das werde ich morgen tun.	मैं कल यह करूँगा।
+I'll do the dishes.	Ich werde das Geschirr abwaschen.	मैं बर्तन धोऊंगा।
+I'll do what I can.	Ich werde tun, was ich kann.	मैं जो कुछ कर सकता हूँ करूंगा।
+I'll drink to that.	Da trinke ich drauf.	मैं इसका जाम पेऊंगा।
+I'll eat the apple.	Ich werde den Apfel essen.	मैं सेव खाऊंगा।
+I'll explain later.	Ich werde später erklären.	मैं बाद में समझाऊंगा।
+I'll foot the bill.	Ich begleiche die Rechnung.	मैं बिल का भुगतान करूंगा।
+I'll get ready now.	Ich werde mich jetzt fertig machen.	अब मैं तैयार हो जाऊंगा।
+I'll get rid of it.	Ich werde das loswerden.	मैं इसे खत्म कर दूंगा।

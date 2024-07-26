@@ -1,15 +1,4 @@
 
-I'll do the dishes.	Ich kümmere mich um den Abwasch.	मैं धोने का ख्याल रखता हूं।
-I'll do what I can.	Ich werde tun, was ich kann.	मैं वही करूंगा जो मैं कर सकता हूं।
-I'll drink to that.	Ich werde darauf trinken.	मैं उस पर पी लूंगा।
-I'll eat the apple.	Ich ess' den Apfel.	मैं सेब खाता हूं।
-I'll explain later.	Ich erkläre es später.	मैं इसे बाद में समझाऊंगा।
-I'll foot the bill.	Ich werde die Rechnung bezahlen.	मैं बिल का भुगतान करूंगा.
-I'll foot the bill.	Ich werde die Rechnung zahlen.	मैं बिल का भुगतान करूंगा.
-I'll get ready now.	Ich mache mich jetzt fertig.	मैं अब तैयार हो रहा हूं।
-I'll get rid of it.	Ich werde es loswerden.	मैं इससे छुटकारा पाऊंगा।
-I'll get rid of it.	Ich werde ihn loswerden.	मैं उससे छुटकारा पाऊंगा।
-I'll get rid of it.	Ich werde sie loswerden.	मैं उससे छुटकारा पाऊंगा।
 I'll give Tom that.	Ich werde Tom das geben.	मैं टॉम दूंगा।
 I'll give Tom that.	Ich geb das Tom.	मैं टॉम देता हूं।
 I'll give you this.	Ich werde dir das geben.	मैं तुम्हें दे दूँगा।
