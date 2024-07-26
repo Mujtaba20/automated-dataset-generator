@@ -1,15 +1,4 @@
 
-Tom is very childish.	Tom ist sehr kindisch.	टॉम बहुत बचकाना है।
-Tom is very creative.	Tom ist sehr kreativ.	टॉम बहुत रचनात्मक है।
-Tom is very discreet.	Tom ist sehr diskret.	टॉम बहुत विवेकपूर्ण है।
-Tom is very flexible.	Tom ist sehr flexibel.	टॉम बहुत लचीला है।
-Tom is very friendly.	Tom ist sehr freundlich.	टॉम बहुत दोस्ताना है।
-Tom is very generous.	Tom ist sehr großzügig.	टॉम बहुत उदार है।
-Tom is very handsome.	Tom ist sehr gutaussehend.	टॉम बहुत अच्छा है।
-Tom is very immature.	Tom ist sehr unreif.	टॉम बहुत अपरिपक्व है।
-Tom is very impolite.	Tom ist sehr unhöflich.	टॉम बहुत असभ्य है।
-Tom is very reliable.	Tom ist sehr verlässlich.	टॉम बहुत विश्वसनीय है।
-Tom is very reliable.	Tom ist sehr zuverlässig.	टॉम बहुत विश्वसनीय है।
 Tom is very romantic.	Tom ist sehr romantisch.	टॉम बहुत रोमांटिक है।
 Tom is very sociable.	Tom ist überaus gesellig.	टॉम बेहद मिलनसार है।
 Tom is very talented.	Tom ist sehr talentiert.	टॉम बहुत प्रतिभाशाली है।

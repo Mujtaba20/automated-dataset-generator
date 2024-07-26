@@ -34540,3 +34540,13 @@ Tom is very athletic.	Tom ist sehr sportlich.	टॉम बहुत खिल�
 Tom is very busy now.	Tom ist jetzt sehr beschäftigt.	टॉम अब बहुत व्यस्त है।
 Tom is very careless.	Tom ist sehr sorglos.	टॉम बहुत बेपरवाह है।
 Tom is very charming.	Tom ist sehr charmant.	टॉम बहुत करिश्माई है।
+Tom is very childish.	Tom ist sehr kindisch.	टॉम बहुत बच्चों जैसा है।
+Tom is very creative.	Tom ist sehr kreativ.	टॉम बहुत रचनात्मक है।
+Tom is very discreet.	Tom ist sehr diskret.	टॉम बहुत सतर्क है।
+Tom is very flexible.	Tom ist sehr flexibel.	टॉम बहुत लचीला है।
+Tom is very friendly.	Tom ist sehr freundlich.	टॉम बहुत दोस्ताना है।
+Tom is very generous.	Tom ist sehr großzügig.	टॉम बहुत उदार है।
+Tom is very handsome.	Tom ist sehr gutaussehend.	टॉम बहुत हैंडसम है।
+Tom is very immature.	Tom ist sehr unreif.	टॉम बहुत अपरिपक्व है।
+Tom is very impolite.	Tom ist sehr unhöflich.	टॉम बहुत अशिष्ट है।
+Tom is very reliable.	Tom ist sehr zuverlässig.	टॉम बहुत भरोसेमंद है।
