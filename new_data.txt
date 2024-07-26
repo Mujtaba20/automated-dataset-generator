@@ -40878,3 +40878,13 @@ Tom washed Mary's car.	Tom wusch Marys Auto.	टॉम ने मैरी क�
 Tom wasn't a prisoner.	Tom war kein Gefangener.	टॉम कोई कैदी नहीं था।
 Tom wasn't born blind.	Tom wurde nicht blind geboren.	टॉम अंधा पैदा नहीं हुआ था।
 Tom wasn't dependable.	Tom war nicht verlässlich.	टॉम भरोसेमंद नहीं था।
+Tom wasn't even there.	Tom war nicht einmal da.	टॉम वहाँ भी नहीं था।
+Tom wasn't helping me.	Tom hat mir nicht geholfen.	टॉम मेरी मदद नहीं कर रहा था।
+Tom wasn't home alone.	Tom war nicht allein zu Hause.	टॉम घर पर अकेला नहीं था।
+Tom wasn't interested.	Tom war nicht interessiert.	टॉम रुचि नहीं रखते थे।
+Tom wasn't rude to me.	Tom war nicht unhöflich zu mir.	टॉम मेरे साथ अकड़ नहीं था।
+Tom wasn't very happy.	Tom war nicht sehr glücklich.	टॉम बहुत खुश नहीं थे।
+Tom wasn't very tired.	Tom war nicht sehr müde.	टॉम बहुत थका नहीं था।
+Tom watched Mary swim.	Tom hat Mary schwimmen beobachtet.	टॉम ने मेरी को तैरते हुए देखा।
+Tom watched Mary work.	Tom hat Mary bei der Arbeit zugesehen.	टॉम ने मेरी को काम करते हुए देखा।
+Tom watered his horse.	Tom hat sein Pferd getränkt.	टॉम ने अपने घोड़े को पानी पिलाया।
