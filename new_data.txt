@@ -30735,3 +30735,10 @@ Do you want this job?	Möchtest du diesen Job?	क्या आप इस नौ
 Do you want to dance?	Möchtest du tanzen?	क्या आप नृत्य करना चाहेंगे?
 Do you want to do it?	Möchtest du es tun?	क्या आप यह करना चाहेंगे?
 Would you like to dance?	Möchten Sie tanzen?	क्या आप नृत्य करना पसंद करेंगे?
+Do you want to drink?	Möchtest du etwas trinken?	क्या आप पीना चाहते हैं?
+Do you want to go in?	Möchtest du reingehen?	क्या आप अंदर जाना चाहते हैं?
+Do you want to leave?	Möchtest du gehen?	क्या आप जाना चाहते हैं?
+Do you wear a kimono?	Trägst du einen Kimono?	क्या आप किमोनो पहनते हैं?
+Do you work with Tom?	Arbeitest du mit Tom?	क्या आप टॉम के साथ काम करते हैं?
+Do your homework now.	Beginne jetzt mit deiner Hausaufgabe.	अपने होमवर्क को अब पूरा करो।
+Does Tom have a boat?	Hat Tom ein Boot?	क्या टॉम के पास नाव है?

@@ -1,14 +1,4 @@
 
-Do you want to drink?	Möchtest du trinken?	क्या आप पीना चाहते हैं?
-Do you want to go in?	Willst du hineingehen?	क्या आप अंदर जाना चाहते हैं
-Do you want to leave?	Willst du gehen?	क्या आप जाना चाहते हैं?
-Do you wear a kimono?	Ziehen Sie einen Kimono an?	क्या आप एक किमोनो पर डालते हैं?
-Do you work with Tom?	Arbeitest du mit Tom zusammen?	क्या आप टॉम के साथ काम करते हैं?
-Do you work with Tom?	Arbeiten Sie mit Tom zusammen?	क्या आप टॉम के साथ काम करते हैं?
-Do your homework now.	Mach jetzt deine Hausaufgaben.	अब अपना होमवर्क करो।
-Do your homework now.	Macht jetzt eure Hausaufgaben.	अब अपना होमवर्क करो।
-Do your homework now.	Machen Sie jetzt Ihre Hausaufgaben.	अब अपना होमवर्क करो।
-Does Tom have a boat?	Hat Tom ein Boot?	क्या टॉम के पास एक नाव है?
 Does Tom have a wife?	Hat Tom eine Frau?	क्या टॉम के पास एक महिला है?
 Does Tom have a wife?	Hat Tom eine Ehefrau?	क्या टॉम की पत्नी है?
 Does Tom know French?	Kann Tom französisch?	क्या टॉम फ्रेंच कर सकते हैं?
