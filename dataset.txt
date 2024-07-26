@@ -1,15 +1,4 @@
 
-The ship ran aground.	Das Schiff lief auf Grund.	जहाज घिनौना भाग गया।
-The shotgun went off.	Das Gewehr ging los.	राइफल शुरू हो गई।
-The shower is broken.	Die Dusche ist kaputt.	शॉवर टूट गया है।
-The shower is broken.	Diese Dusche ist kaputt.	यह शॉवर टूट गया है।
-The soul is immortal.	Die Seele ist unsterblich.	आत्मा अमर है।
-The soup was too hot.	Die Suppe war zu heiß.	सूप बहुत गर्म था।
-The speaker is young.	Der Sprecher ist jung.	वक्ता युवा है।
-The spear missed Tom.	Der Speer verfehlte Tom.	स्पीयर ने टॉम को याद किया।
-The stakes were high.	Es stand viel auf dem Spiel.	दांव पर बहुत कुछ था।
-The students laughed.	Die Schüler lachten.	छात्रों ने हँसते हुए।
-The students laughed.	Die Studenten lachten.	छात्रों ने हँसते हुए।
 The students like it.	Den Studenten gefällt es.	छात्रों को यह पसंद है।
 The students like it.	Die Studenten mögen es.	छात्रों को यह पसंद है।
 The suit becomes him.	Der Anzug steht ihm.	सूट वह है।

@@ -33700,3 +33700,12 @@ The rumors were true.	Die Gerüchte waren wahr.	अफ़वाहें सच 
 The sheets are clean.	Die Bettlaken sind sauber.	चादरें साफ हैं।
 The sheets are dirty.	Die Bettlaken sind schmutzig.	चादरें गंदी हैं।
 The ship headed east.	Das Schiff fuhr nach Osten.	जहाज पूर्व की ओर चला गया।
+The ship ran aground.	Das Schiff ist gestrandet.	जहाज चढ़ गया।
+The shotgun went off.	Die Schrotflinte ging los.	शॉटगन चल गई।
+The shower is broken.	Die Dusche ist kaputt.	शौचालय टूट गया है।
+The soul is immortal.	Die Seele ist unsterblich.	आत्मा अमर है।
+The soup was too hot.	Die Suppe war zu heiß.	सूप बहुत गरम थी।
+The speaker is young.	Der Sprecher ist jung.	वक्ता जवान है।
+The spear missed Tom.	Der Speer verfehlte Tom.	बर्षा ने टॉम को छूने में चूक लगाई।
+The stakes were high.	Die Einsätze waren hoch.	दांव बड़े थे।
+The students laughed.	Die Schüler lachten.	छात्र हँसे।
