@@ -23401,3 +23401,12 @@ Tom didn't do well.	Tom hat es nicht gut gemacht.	टॉम ने अच्छ�
 Tom didn't find me.	Tom hat mich nicht gefunden.	टॉम ने मुझे नहीं ढूंढा।
 Tom didn't give up.	Tom hat nicht aufgegeben.	टॉम ने हार नहीं मानी।
 Tom didn't go home.	Tom ist nicht nach Hause gegangen.	टॉम ने घर नहीं जाने दिया।
+Tom didn't help me.	Tom hat mir nicht geholfen.	टॉम ने मुझे मदद नहीं की।
+Tom didn't help us.	Tom hat uns nicht geholfen.	टॉम ने हमें मदद नहीं की।
+Tom didn't help us. - Different meaning	Tom hat uns nicht unterstützt.	टॉम ने हमें सहायता नहीं मिली।
+Tom didn't kiss me.	Tom hat mich nicht geküsst.	टॉमने मुझे नहीं चुम्मा।
+Tom didn't like it.	Tom mochte es nicht.	टॉम को यह पसंद नहीं था।
+Tom didn't mean it.	Tom hat es nicht gemeint.	टॉमने इसका मतलब नहीं था।
+Tom didn't need it.	Tom brauchte es nicht.	टॉमको इसकी जरूरत नहीं थी।
+Tom didn't see you.	Tom hat dich nicht gesehen.	टॉमने तुझे नहीं देखा।
+Tom didn't see you. - Different meaning	Tom konnte dich nicht sehen.	टॉमने तुझे देखने में सक्षम नहीं था।

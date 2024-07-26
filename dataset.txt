@@ -1,14 +1,4 @@
 
-Tom didn't help me.	Tom half mir nicht.	टॉम ने मेरी मदद नहीं की।
-Tom didn't help us.	Tom hat uns nicht geholfen.	टॉम ने हमारी मदद नहीं की।
-Tom didn't help us.	Tom half uns nicht.	टॉम ने हमारी मदद नहीं की।
-Tom didn't kiss me.	Tom hat mich nicht geküsst.	टॉम ने मुझे चुंबन नहीं किया।
-Tom didn't like it.	Es gefiel Tom nicht.	टॉम को यह पसंद नहीं आया।
-Tom didn't mean it.	Tom meinte es nicht so.	टॉम का मतलब यह नहीं था।
-Tom didn't need it.	Tom brauchte das nicht.	टॉम को इसकी आवश्यकता नहीं थी।
-Tom didn't see you.	Tom hat dich nicht gesehen.	टॉम ने आपको नहीं देखा।
-Tom didn't see you.	Tom hat euch nicht gesehen.	टॉम ने आपको नहीं देखा।
-Tom didn't see you.	Tom hat Sie nicht gesehen.	टॉम ने उसे नहीं देखा।
 Tom didn't show up.	Tom ist nicht aufgetaucht.	टॉम दिखाई नहीं दिया।
 Tom didn't succeed.	Tom hatte keinen Erfolg.	टॉम असफल रहा।
 Tom didn't tell me.	Tom hat mir nichts gesagt.	टॉम ने मुझे कुछ नहीं बताया।
