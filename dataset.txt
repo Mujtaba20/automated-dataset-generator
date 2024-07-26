@@ -1,14 +1,4 @@
 
-You might be correct.	Du könntest recht haben.	आप सही हो सकते हैं।
-You missed the point.	Du hast das Wesentliche nicht verstanden.	आप आवश्यक चीजों को नहीं समझते थे।
-You must be cautious.	Du musst vorsichtig sein.	आपको सावधान रहना होगा।
-You must be mistaken.	Du musst dich irren.	आपको गलत होना है।
-You must be mistaken.	Sie müssen sich irren.	आपको गलत होना है।
-You must be starving.	Du musst am Verhungern sein.	आपको भूखा रखना होगा।
-You must do as I say.	Du musst tun, was ich dir sage.	आपको वही करना होगा जो मैं आपको बताता हूं।
-You must do as I say.	Ihr müsst tun, was ich euch sage.	आपको वही करना होगा जो मैं आपको बताता हूं।
-You must do as I say.	Sie müssen tun, was ich Ihnen sage.	आपको वही करना होगा जो मैं आपको बताता हूं।
-You must not come in.	Du darfst nicht hereinkommen.	आप अंदर नहीं आ सकते।
 You must not give up.	Du darfst nicht aufgeben!	आप हार नहीं मान सकते!
 You must not give up.	Sie dürfen nicht aufgeben!	आपको हार मानने की अनुमति नहीं है!
 You must not give up.	Du darfst nicht aufgeben.	आप हार नहीं मान सकते।

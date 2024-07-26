@@ -35839,3 +35839,11 @@ You may speak to him.	Du darfst mit ihm sprechen.	तुम उससे बा�
 You may use this car.	Du darfst dieses Auto benutzen.	तुम इस गाड़ी का उपयोग कर सकते हो।
 You mean a lot to me.	Du bedeutest mir viel.	तुम मेरे लिए बहुत कुछ हो।
 You mean a lot to me. (Different meaning)	Du meinst mir viel.	तुम मेरे लिए काफी मायनता रखते हो।
+You might be correct.	Du könntest richtig liegen.	आप सही हो सकते हैं।
+You missed the point.	Ihr habt den Punkt verpasst.	आप बिना जानकारी के पारंगत हो गए।
+You must be cautious.	Du musst vorsichtig sein.	आप सावधान रहना चाहिए।
+You must be mistaken.	Sie müssen sich irren.	आप गलत हो सकते हैं।
+You must be starving.	Du musst verhungern.	आप भूखे हो सकते हैं।
+You must do as I say.	Du musst tun, was ich sage.	आपको मेरे कहने के अनुसार काम करना होगा।
+You must do as I say. 'different meaning'	Sie müssen so handeln, wie ich es sage.	आपको मेरे कहने पर काम करना होगा। 'विभिन्न अर्थ'
+You must not come in.	Sie dürfen nicht hineingehen.	आप अंदर नहीं आ सकते।
