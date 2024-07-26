@@ -32243,3 +32243,12 @@ I was at the library.	Ich war in der Bibliothek.	मैं पुस्तका
 I was at the theater.	Ich war im Theater.	मैं थियेटर में था।
 I was bleeding a lot.	Ich blutete viel.	मुझसे बहुत खून बह रहा था।
 I was bored to death.	Ich war zu Tode gelangweilt.	मुझे मौत के बराबर बोर हो गया था।
+I was born in Boston.	Ich wurde in Boston geboren.	मैं बोस्टन में पैदा हुआ था।
+I was busy yesterday.	Ich war gestern beschäftigt.	मैं कल काफी व्यस्त था।
+I was deeply ashamed.	Ich war zutiefst beschämt.	मैं गहरी शर्मिंदगी महसूस कर रहा था।
+I was disgusted, too.	Ich war auch angewidert.	मैं भी घृणित था।
+I was expecting this.	Ich habe das erwartet.	मैं इसकी उम्मीद थी।
+I was fined a dollar.	Mir wurde ein Dollar Strafe auferlegt.	मुझे एक डॉलर का जुर्माना लगा दिया गया था।
+I was here yesterday.	Ich war gestern hier.	मैं कल यहाँ था।
+I was home all night.	Ich war die ganze Nacht zu Hause.	मैं पूरी रात घर पर था।
+I was in Canada then.	Ich war damals in Kanada.	उस समय मैं कनाडा में था।
