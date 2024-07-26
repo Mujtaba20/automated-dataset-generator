@@ -23592,3 +23592,13 @@ Tom is a hypocrite.	Tom ist ein Heuchler.	टॉम एक पाखंडी �
 Tom is a librarian.	Tom ist ein Bibliothekar.	टॉम एक पुस्तकालय का कतीब है।
 Tom is a lone wolf.	Tom ist ein Einzelgänger.	टॉम एक अकेला भेड़िया है।
 Tom is a physicist.	Tom ist ein Physiker.	टॉम एक भौतिकशास्त्री है।
+Tom is a policeman.	Tom ist ein Polizist.	टॉम एक पुलिसवाला है।
+Tom is a professor.	Tom ist ein Professor.	टॉम एक प्रोफेसर है।
+Tom is a real fool.	Tom ist ein echter Narr.	टॉम वास्तव में मूर्ख है।
+Tom is a real jerk.	Tom ist ein echter Idiot.	टॉम वास्तव में एक निकम्मा है।
+Tom is a real nerd.	Tom ist ein echter Streber.	टॉम वास्तव में एक बुद्धिवादी है।
+Tom is a real poet.	Tom ist ein echter Dichter.	टॉम वास्तव में एक कवि है।
+Tom is a scientist.	Tom ist ein Wissenschaftler.	टॉम एक वैज्ञानिक है।
+Tom is a scoundrel.	Tom ist ein Schurke.	टॉम एक नीच आदमी है।
+Tom is a small boy.	Tom ist ein kleiner Junge.	टॉम एक छोटे लड़के हैं।
+Tom is a smart boy.	Tom ist ein kluger Junge.	टॉम एक बुद्धिमान लड़का है।

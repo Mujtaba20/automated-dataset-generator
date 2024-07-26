@@ -1,15 +1,4 @@
 
-Tom is a policeman.	Tom ist Polizist.	टॉम एक पुलिसकर्मी है।
-Tom is a professor.	Tom ist Professor.	टॉम एक प्रोफेसर हैं।
-Tom is a real fool.	Tom ist ein echter Idiot.	टॉम एक असली बेवकूफ है।
-Tom is a real jerk.	Tom ist der letzte Trottel.	टॉम आखिरी मूर्ख है।
-Tom is a real nerd.	Tom ist ein echter Nerd.	टॉम एक असली बेवकूफ है।
-Tom is a real poet.	Tom ist ein wahrer Poet.	टॉम एक असली कवि है।
-Tom is a scientist.	Tom ist Wissenschaftler.	टॉम एक वैज्ञानिक है।
-Tom is a scoundrel.	Tom ist eine Kanaille.	टॉम एक कैनियल है।
-Tom is a small boy.	Tom ist ein kleiner Junge.	टॉम एक छोटा लड़का है।
-Tom is a smart boy.	Tom ist ein schlauer Bub.	टॉम एक चतुर लड़का है।
-Tom is a smart boy.	Tom ist ein kluger Junge.	टॉम एक चतुर लड़का है।
 Tom is a smart guy.	Tom ist ein schlauer Kerl.	टॉम एक चतुर लड़का है।
 Tom is a snorkeler.	Tom ist Schnorchler.	टॉम एक स्नोर्केलर है।
 Tom is a socialist.	Tom ist ein Sozialist.	टॉम एक समाजवादी है।
