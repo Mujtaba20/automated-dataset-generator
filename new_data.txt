@@ -37241,3 +37241,12 @@ I didn't sleep enough.	Ich habe nicht genug geschlafen.	मैंने पर�
 I didn't strangle Tom.	Ich habe Tom nicht erwürgt.	मैंने टॉम को नहीं घसीटा।
 I didn't study at all.	Ich habe überhaupt nicht studiert.	मैंने बिलकुल भी पढ़ाई नहीं की।
 I didn't want to brag.	Ich wollte nicht angeben.	मुझे डिक्लाम नहीं करना था।
+I didn't want to come.	Ich wollte nicht kommen.	मैं नहीं आना चाहता था।
+I didn't want to cook.	Ich wollte nicht kochen.	मैं खाना बनाना नहीं चाहता था।
+I didn't want to lose.	Ich wollte nicht verlieren.	मैं हारना नहीं चाहता था।
+I didn't want to stop.	Ich wollte nicht aufhören.	मैं रुकना नहीं चाहता था।
+I didn't want to stop. (Different meaning)	Ich wollte nicht stoppen.	मैं बंद करना नहीं चाहता था।
+I didn't want to swim.	Ich wollte nicht schwimmen.	मैं तैरना नहीं चाहता था।
+I didn't wash my hair.	Ich habe mir nicht die Haare gewaschen.	मैंने अपने बाल नहीं धोए।
+I didn't wash my hair. (Different meaning)	Ich habe mein Haar nicht gewaschen.	मैंने अपने बालों को नहीं धोया।
+I dislike being alone.	Ich mag es nicht, allein zu sein.	मुझे अकेले रहना पसंद नहीं है।

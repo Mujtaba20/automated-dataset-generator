@@ -1,15 +1,4 @@
 
-I didn't want to come.	Ich wollte nicht kommen.	मैं नहीं आना चाहता था।
-I didn't want to cook.	Ich wollte nicht kochen.	मैं खाना बनाना नहीं चाहता था।
-I didn't want to lose.	Ich wollte nicht verlieren.	मैं खोना नहीं चाहता था।
-I didn't want to stop.	Ich wollte nicht aufhören.	मैं रुकना नहीं चाहता था।
-I didn't want to stop.	Ich wollte nicht anhalten.	मैं रुकना नहीं चाहता था।
-I didn't want to swim.	Ich wollte nicht schwimmen.	मैं तैरना नहीं चाहता था।
-I didn't wash my hair.	Ich habe mir nicht die Haare gewaschen.	मैंने अपने बाल नहीं धोए।
-I didn't wash my hair.	Ich habe meine Haare nicht gewaschen.	मैंने अपने बाल नहीं धोए।
-I didn't wash my hair.	Ich habe mir die Haare nicht gewaschen.	मैंने अपने बाल नहीं धोए।
-I dislike being alone.	Ich bin nicht gerne alleine.	मुझे अकेले रहना पसंद नहीं है।
-I dislike being alone.	Ich bin nicht gern allein.	मुझे अकेले रहना पसंद नहीं है।
 I do feel pretty good.	Es geht mir ziemlich gut.	मै काफी अच्छी हूँ।
 I do not care for him.	Ich mag ihn nicht.	मुझे वह पसंद नहीं है।
 I do not get up early.	Ich stehe nicht früh auf.	मैं जल्दी नहीं उठता।
