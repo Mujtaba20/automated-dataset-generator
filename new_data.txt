@@ -39833,3 +39833,13 @@ Tom and Mary are safe.	Tom und Mary sind sicher.	टॉम और मेरी �
 Tom and Mary are sick.	Tom und Mary sind krank.	टॉम और मेरी बीमार हैं।
 Tom and Mary broke up.	Tom und Mary haben sich getrennt.	टॉम और मेरी अलग हो गए।
 Tom and Mary saw John.	Tom und Mary haben John gesehen.	टॉम और मेरी ने जॉन को देखा।
+Tom appeared confused.	Tom wirkte verwirrt.	टॉम भ्रांत लग रहे थे।
+Tom appeared suddenly.	Tom erschien plötzlich.	टॉम अचानक दिखाई दिया।
+Tom appears convinced.	Tom wirkt überzeugt.	टॉम को पुष्टि है।
+Tom appears convinced. (second meaning)	Tom scheint überzeugt zu sein.	टॉम का यकीन दिख रहा है।
+Tom appears exhausted.	Tom sieht erschöpft aus.	टॉम थक गया लग रहा है।
+Tom appears exhausted. (second meaning)	Tom erscheint erschöpft.	टॉम थक चुके लग रहे हैं।
+Tom appears satisfied.	Tom wirkt zufrieden.	टॉम संतुष्ट दिख रहा है।
+Tom appears satisfied. (second meaning)	Tom scheint zufrieden zu sein.	टॉम को संतुष्ट दिखाई दे रहा है।
+Tom applied sunscreen.	Tom trug Sonnencreme auf.	टॉम ने सनस्क्रीन लगाई।
+Tom arrived in a taxi.	Tom kam mit einem Taxi an.	टॉम टैक्सी में आ गया।
