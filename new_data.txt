@@ -28064,3 +28064,4 @@ That student is Tom.	Dieser Schüler ist Tom.	वह छात्र टॉम �
 That was depressing.	Das war deprimierend.	वह निराशाजनक था।
 That was disgusting.	Das war ekelhaft.	वह घिनौना था।
 That was impressive.	Das war beeindruckend.	वह प्रभावशाली था।
+engSentence		
