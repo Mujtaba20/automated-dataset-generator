@@ -1,14 +1,4 @@
 
-How much is the ticket?	Was kostet die Fahrkarte?	किराया क्या है?
-How much is the ticket?	Wie viel kostet das Ticket?	टिकट कितनी है?
-How much is this clock?	Wie viel kostet diese Uhr?	इस घड़ी की लागत कितनी है?
-How much is this dress?	Wie viel kostet dieses Kleid?	इस पोशाक की लागत कितनी है?
-How much is this radio?	Wie viel kostet dieses Radio?	इस रेडियो की लागत कितनी है?
-How much is this watch?	Wie viel kostet diese Uhr?	इस घड़ी की लागत कितनी है?
-How much is this worth?	Wie viel ist das wert?	वह कितना मूल्य है?
-How often do you shave?	Wie oft rasierst du dich?	आप कितनी बार दाढ़ी बनाते हैं?
-How often do you shave?	Wie oft rasiert ihr euch?	आप कितनी बार दाढ़ी बनाते हैं?
-How often do you shave?	Wie oft rasieren Sie sich?	आप कितनी बार दाढ़ी बनाते हैं?
 How old are Tom's kids?	Wie alt sind Toms Kinder?	टॉम के बच्चे कितने साल के हैं?
 How old are you really?	Wie alt bist du wirklich?	वास्तव में आपकी उम्र कितनी है?
 How old is that church?	Wie alt ist diese Kirche dort?	यह चर्च कितना पुराना है?
