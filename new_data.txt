@@ -37389,3 +37389,13 @@ I fell into the water.	Ich bin ins Wasser gefallen.	मैं पानी म�
 I fell off the ladder.	Ich bin von der Leiter gefallen.	मैं सीढ़ी से गिर गया।
 I felt a little stiff.	Ich fühlte mich ein wenig steif.	मैं थोड़ा कठोर महसूस किया।
 I felt bad afterwards.	Ich fühlte mich danach schlecht.	बाद में मुझे बुरा लगा।
+I felt like screaming.	Ich hatte das Gefühl zu schreien.	मुझे चिल्लाने का भाव आ रहा था।
+I felt the earthquake.	Ich spürte das Erdbeben.	मुझे भूकंप महसूस हुआ।
+I felt very neglected.	Ich fühlte mich sehr vernachlässigt.	मैंने खुद को बहुत उपेक्षित महसूस किया।
+I followed the recipe.	Ich folgte dem Rezept.	मैंने रेसिपी का पालन किया।
+I forbid you to smoke.	Ich verbiete dir zu rauchen.	मैं तुम्हें सिगरेट पीने से मना करता हूँ।
+I forced Tom to do it.	Ich zwang Tom dazu, es zu tun.	मैंने टॉम को यह करने के लिए मजबूर किया।
+I forgot to buy bread.	Ich habe vergessen, Brot zu kaufen.	मुझे रोटी खरीदना भूल गया।
+I forgot to tell them.	Ich habe vergessen, es ihnen zu sagen.	मैंने उन्हें बताना भूल गया।
+I found out something.	Ich habe etwas herausgefunden.	मुझे कुछ पता चला।
+I found out the truth.	Ich habe die Wahrheit herausgefunden.	मुझे सच्चाई पता चली।
