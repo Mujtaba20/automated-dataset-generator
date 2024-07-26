@@ -33682,3 +33682,12 @@ The party was a flop.	Die Party war ein Reinfall.	पार्टी एक फ�
 The people are angry.	Die Leute sind wütend.	लोग गुस्से में हैं।
 The phone rang again.	Das Telefon klingelte erneut.	फोन फिर से बजा।
 The photo was a hoax.	Das Foto war eine Fälschung.	तस्वीर गोलमाल थी।
+The pie is delicious.	Der Kuchen ist köstlich.	पाई बहुत स्वादिष्ट है।
+The pigeon is cooing.	Die Taube gurrt.	कबूतर कुँगुरुकर रहा है।
+The police are there.	Die Polizei ist da.	पुलिस वहां है।
+The police were here.	Die Polizei war hier.	पुलिस यहाँ थी।
+The professor smiled.	Der Professor lächelte.	प्रोफ़ेसर मुस्कुरा दिया।
+The proof is trivial.	Der Beweis ist trivial.	सबूत सामान्य है।
+The rain has stopped.	Der Regen hat aufgehört.	बारिश बंद हो गई है।
+The red house is new.	Das rote Haus ist neu.	लाल घर नया है।
+The red skirt is new.	Der rote Rock ist neu.	लाल स्कर्ट नया है।

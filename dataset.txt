@@ -1,14 +1,4 @@
 
-The pie is delicious.	Der Kuchen ist köstlich.	केक बहुत स्वादिष्ट हे।
-The pigeon is cooing.	Die Taube gurrt.	कबूतर मोटा हो जाता है।
-The police are there.	Die Polizei ist hier.	पुलिस यहाँ है।
-The police were here.	Die Polizei war hier.	पुलिस यहां थी।
-The professor smiled.	Der Professor lächelte.	प्रोफेसर मुस्कुराए।
-The proof is trivial.	Der Beweis ist trivial.	प्रमाण तुच्छ है।
-The rain has stopped.	Der Regen hat aufgehört.	बारिश बंद हो गई है।
-The rain has stopped.	Es hat aufgehört zu regnen.	बारिश बंद हो गई है।
-The red house is new.	Das rote Haus ist neu.	रेड हाउस नया है।
-The red skirt is new.	Der rote Rock ist neu.	लाल स्कर्ट नई है।
 The river overflowed.	Der Fluss trat über die Ufer.	नदी ने बैंक पर कदम रखा।
 The roof is very low.	Das Dach ist sehr niedrig.	छत बहुत कम है।
 The roses smell good.	Die Rosen riechen gut.	गुलाब की गंध अच्छी है।
