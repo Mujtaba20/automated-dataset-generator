@@ -20997,3 +20997,11 @@ How far did Tom go?	Wie weit ist Tom gegangen?	टॉम कितनी दू�
 How fat is too fat?	Wie dick ist zu dick?	कितना मोटा ज्यादा है?
 How hot is too hot?	Wie heiß ist zu heiß?	कितना गरम ज्यादा है?
 How hungry are you?	Wie hungrig bist du?	तुम कितने भूखे हो?
+How is it possible?	Wie ist es möglich?	यह कैसे संभव है?
+How is the economy?	Wie ist die Wirtschaft?	अर्थव्यवस्था कैसी है?
+How is the weather?	Wie ist das Wetter?	मौसम कैसा है?
+How is your family?	Wie geht es deiner Familie?	तुम्हारे परिवार कैसे हैं?
+How is your family? (Different meaning)	Wie ist deine Familie?	तुम्हारा परिवार कैसा है?
+How is your father?	Wie geht es deinem Vater?	तुम्हारे पिताजी कैसे हैं?
+How is your mother?	Wie geht es deiner Mutter?	तुम्हारी माँ कैसी है?
+How is your sister?	Wie geht es deiner Schwester?	तुम्हारी बहन कैसी है?

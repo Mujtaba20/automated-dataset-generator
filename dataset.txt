@@ -1,14 +1,4 @@
 
-How is it possible?	Wie ist das möglich?	वह कैसे संभव है?
-How is the economy?	Wie ist die Wirtschaftslage?	आर्थिक स्थिति क्या है?
-How is the weather?	Wie ist das Wetter?	मौसम कैसा है?
-How is your family?	Wie geht es deiner Familie?	आपका परिवार कैसा है?
-How is your family?	Wie geht’s deiner Familie?	आपका परिवार कैसा है?
-How is your family?	Wie geht es eurer Familie?	आपका परिवार कैसा है?
-How is your family?	Wie geht es Ihrer Familie?	आपका परिवार कैसा है?
-How is your father?	Wie geht es deinem Vater?	आपके पिता कैसे हैं?
-How is your mother?	Wie geht es deiner Mutter?	आपकी मां कैसी है?
-How is your sister?	Wie geht es deiner Schwester?	आपकी बहन कैसी है?
 How long do I have?	Wie viel Zeit habe ich?	मेरे पास कितना समय है?
 How long do I have?	Wie lange habe ich?	मेरे पास कब तक है?
 How may I help you?	Wie darf ich Ihnen helfen?	मैं आपकी कैसे मदद कर सकता हूँ?
