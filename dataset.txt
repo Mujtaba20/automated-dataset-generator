@@ -1,14 +1,4 @@
 
-I can't answer that.	Das kann ich nicht beantworten.	मैं इसका जवाब नहीं दे सकता।
-I can't change that.	Ich kann's nicht ändern.	मैं इसे नहीं बदल सकता।
-I can't contact Tom.	Ich kann Tom nicht erreichen.	मैं टॉम तक नहीं पहुंच सकता।
-I can't cook at all.	Ich kann gar nicht kochen.	मैं बिल्कुल नहीं खाना बना सकता।
-I can't do any more.	Ich kann nicht mehr tun.	मैं अब और नहीं कर सकता।
-I can't do anything.	Ich kann nichts tun.	मेँ कुछ नहीँ कर सकता।
-I can't do it alone.	Ich kann es nicht allein.	मैं इसे अकेले नहीं कर सकता।
-I can't do it alone.	Ich kann es nicht alleine tun.	मैं इसे अकेले नहीं कर सकता।
-I can't do that now.	Ich kann das jetzt nicht tun.	मैं अब ऐसा नहीं कर सकता।
-I can't do this now.	Ich kann das jetzt nicht tun.	मैं अब ऐसा नहीं कर सकता।
 I can't drive a bus.	Ich kann keinen Bus fahren.	मैं एक बस नहीं चला सकता।
 I can't eat chicken.	Ich kann kein Hühnchen essen.	मैं चिकन नहीं खा सकता।
 I can't eat chicken.	Ich kann kein Huhn essen.	मैं चिकन नहीं खा सकता।

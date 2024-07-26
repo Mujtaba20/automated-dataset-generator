@@ -26088,3 +26088,12 @@ I can survive alone.	Ich kann alleine überleben.	मैं अकेले ज�
 I can understand it.	Ich kann es verstehen.	मैं इसे समझ सकता हूँ।
 I can't accept this.	Ich kann das nicht akzeptieren.	मुझे इसे स्वीकार नहीं करना है।
 I can understand it. (Different meaning)	Ich kann es begreifen.	मैं इसे समझ सकता हूँ।
+I can't answer that.	Das kann ich nicht beantworten.	मैं उसका जवाब नहीं दे सकता।
+I can't change that.	Das kann ich nicht ändern.	मैं उसे बदल नहीं सकता।
+I can't contact Tom.	Ich kann Tom nicht kontaktieren.	मैं टॉम से संपर्क नहीं कर सकता।
+I can't cook at all.	Ich kann überhaupt nicht kochen.	मैं बिल्कुल नहीं पका सकता।
+I can't do any more.	Ich kann nicht mehr tun.	मैं अब और नहीं कर सकता।
+I can't do anything.	Ich kann nichts tun.	मैं कुछ नहीं कर सकता।
+I can't do it alone.	Ich kann es nicht alleine machen.	मैं यह अकेले नहीं कर सकता।
+I can't do that now.	Das kann ich jetzt nicht machen.	मैं अब यह नहीं कर सकता।
+I can't do this now.	Das kann ich jetzt nicht machen.	मैं अब यह नहीं कर सकता।
