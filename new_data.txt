@@ -34294,3 +34294,12 @@ Tom has two children.	Tom hat zwei Kinder.	टॉम के दो बच्च�
 Tom has two siblings.	Tom hat zwei Geschwister.	टॉम के दो बड़े भाई हैं।
 Tom hasn't eaten yet.	Tom hat noch nicht gegessen.	टॉम अब तक नहीं खाया है।
 Tom hates air travel.	Tom hasst das Fliegen.	टॉम वायुयान यात्रा से नफरत करता है।
+Tom hates foreigners.	Tom hasst Ausländer.	टॉम विदेशियों से नफरत करता है।
+Tom heard some shots.	Tom hörte einige Schüsse.	टॉम ने कुछ गोलियों की गर्जन सुनी।
+Tom heard the scream.	Tom hörte den Schrei.	टॉम ने चीखना सुना।
+Tom himself tried it.	Tom selbst hat es versucht.	टॉम खुद ने यह कोशिश की।
+Tom hoisted the flag.	Tom hisste die Flagge.	टॉम ने झंडा उठाया।
+Tom hoped to succeed.	Tom hoffte zu erfolgreich sein.	टॉम कामयाब होने की आशा रखता था।
+Tom hung up his coat.	Tom hängte seinen Mantel auf.	टॉम ने अपनी कोट टांग दी।
+Tom ignored me today.	Tom hat mich heute ignoriert.	टॉम ने आज मुझे नजरअंदाज किया।
+Tom interrupted Mary.	Tom unterbrach Maria.	टॉम ने मेरी को बातचीत मे रोक दिया।
