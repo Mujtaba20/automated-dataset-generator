@@ -1,16 +1,4 @@
 
-I knew you'd be hungry.	Ich wusste, dass du Hunger hättest.	मुझे पता था कि आप भूखे थे।
-I knew you'd be hungry.	Ich wusste, dass ihr Hunger hättet.	मुझे पता था कि आप भूखे थे।
-I knew you'd come back.	Ich wusste, dass du wiederkämest.	मुझे पता था कि आप वापस आ रहे हैं।
-I knew you'd come back.	Ich wusste, dass ihr wiederkämet.	मुझे उसका पुनर्मिलन पता था।
-I knew you'd come back.	Ich wusste, dass Sie wiederkämen.	मुझे पता था कि वे वापस आ जाएंगे।
-I knew you'd come back.	Ich wusste, dass du zurückkommen würdest.	मुझे पता था कि आप वापस आ जाएंगे।
-I knew you'd come home.	Ich wusste, dass du nach Hause kämest.	मुझे पता था कि आप घर से लड़ रहे हैं।
-I knew you'd come home.	Ich wusste, dass ihr nach Hause kämet.	मुझे पता था कि आप घर से लड़ रहे थे।
-I knew you'd like that.	Ich wusste, dass dir das gefallen würde.	मुझे पता था कि आप ऐसा चाहेंगे।
-I knew you'd like that.	Ich wusste, dass dir das gefiele.	मुझे पता था कि आपको यह पसंद है।
-I knew you'd like that.	Ich wusste, dass euch das gefallen würde.	मुझे पता था कि आप ऐसा चाहेंगे।
-I knew you'd like that.	Ich wusste, dass euch das gefiele.	मुझे पता था कि आपको यह पसंद आया।
 I know I owe you money.	Ich weiß, dass ich dir Geld schulde.	मुझे पता है कि मैं तुम्हें पैसे देता हूं।
 I know I'm good enough.	Ich weiß, dass ich gut genug bin.	मुझे पता है कि मैं काफी अच्छा हूं।
 I know I'm not perfect.	Ich weiß, dass ich nicht vollkommen bin.	मुझे लगता है मैं परिपूर्ण नहीं हूं।
