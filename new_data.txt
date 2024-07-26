@@ -37531,3 +37531,13 @@ I heard you were rich.	Ich habe gehört, dass du reich bist.	मैंने स
 I heard you were sick.	Ich habe gehört, dass du krank bist.	मैंने सुना कि तुम बीमार हो।
 I hid behind the tree.	Ich habe mich hinter dem Baum versteckt.	मैंने पेड़ के पीछे छुपा गया।
 I hid in the basement.	Ich habe mich im Keller versteckt.	मैंने बेस्मेंट में छुपा गया।
+I hid it under my bed.	Ich habe es unter meinem Bett versteckt.	मैंने उसे अपनी पलंग के नीचे छुपाया।
+I hid under the table.	Ich habe mich unter dem Tisch versteckt.	मैंने मेज के नीचे छुप गया।
+I honestly don't care.	Mir ist ehrlich gesagt egal.	मुझे सच में परवाह नहीं है।
+I hope Tom comes soon.	Ich hoffe, Tom kommt bald.	मुझे आशा है कि टॉम जल्दी आए।
+I hope Tom is careful.	Ich hoffe, Tom ist vorsichtig.	मुझे आशा है कि टॉम सावधान हो।
+I hope Tom is curious.	Ich hoffe, Tom ist neugierig.	मुझे आशा है कि टॉम कोई जिज्ञासु है।
+I hope Tom isn't sick.	Ich hoffe, Tom ist nicht krank.	मुझे आशा है कि टॉम बीमार नहीं है।
+I hope Tom left early.	Ich hoffe, Tom ist früh gegangen.	मुझे आशा है कि टॉम जल्दी चला गया है।
+I hope he's all right.	Ich hoffe, ihm geht es gut.	मुझे आशा है कि वह ठीक है।
+I hope no one saw you.	Ich hoffe, niemand hat dich gesehen.	मुझे आशा है कि कोई ने तुम्हें देखा नहीं है।

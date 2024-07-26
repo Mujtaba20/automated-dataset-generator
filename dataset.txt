@@ -1,16 +1,4 @@
 
-I hid it under my bed.	Ich habe es unter meinem Bett versteckt.	मैंने इसे अपने बिस्तर के नीचे छिपा दिया।
-I hid under the table.	Ich habe mich unter dem Tisch versteckt.	मैं मेज के नीचे छिप गया।
-I honestly don't care.	Es ist mir, ehrlich gesagt, egal.	सच कहूं तो, यह मेरे लिए कोई फर्क नहीं पड़ता।
-I hope Tom comes soon.	Ich hoffe, Tom kommt bald.	मुझे उम्मीद है कि टॉम जल्द ही आएगा।
-I hope Tom is careful.	Ich hoffe, dass Tom vorsichtig ist.	मुझे आशा है कि टॉम सावधान है।
-I hope Tom is curious.	Ich hoffe, Tom ist neugierig.	मुझे आशा है कि टॉम उत्सुक है।
-I hope Tom isn't sick.	Ich hoffe, Tom ist nicht krank.	मुझे आशा है कि टॉम बीमार नहीं है।
-I hope Tom left early.	Ich hoffe, Tom hat sich frühzeitig auf den Weg gemacht.	मुझे उम्मीद है कि टॉम जल्दी सेट हो जाएगा।
-I hope he's all right.	Ich hoffe, dass es ihm gutgeht.	मुझे उम्मीद है कि वह ठीक है।
-I hope no one saw you.	Ich hoffe, es hat dich niemand gesehen.	मुझे आशा है कि किसी ने आपको नहीं देखा।
-I hope no one saw you.	Ich hoffe, es hat euch niemand gesehen.	मुझे आशा है कि किसी ने आपको नहीं देखा।
-I hope no one saw you.	Ich hoffe, es hat Sie niemand gesehen.	मुझे उम्मीद है कि किसी ने उसे नहीं देखा।
 I hope no one sees us.	Ich hoffe, dass uns niemand sieht.	मुझे आशा है कि कोई भी हमें नहीं देखता।
 I hope no one sees us.	Ich hoffe, dass uns keiner sieht.	मुझे आशा है कि कोई भी हमें नहीं देखता।
 I hope no one sees us.	Ich hoffe, uns sieht niemand.	मुझे आशा है कि कोई भी हमें नहीं देखता।
