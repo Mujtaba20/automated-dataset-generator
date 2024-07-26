@@ -36695,3 +36695,12 @@ He can speak Japanese.	Er kann Japanisch sprechen.	वह जापानी ब
 He can swim very fast.	Er kann sehr schnell schwimmen.	वह बहुत तेज तरीके से तैर सकता है।
 He can't come with us.	Er kann nicht mit uns kommen.	वह हमारे साथ नहीं आ सकता।
 He cannot play guitar.	Er kann nicht Gitarre spielen.	वह गिटार नहीं बजा सकता।
+He caught the chicken.	Er fing das Huhn.	उसने मुर्गा पकड़ लिया।
+He cleared his throat.	Er räusperte sich.	उसने अपनी गला साफ की।
+He climbed the stairs.	Er stieg die Treppe hinauf.	उसने सीढ़ी चढ़ी।
+He comes from England.	Er kommt aus England.	वह इंग्लैंड से आता है।
+He could speak French.	Er konnte Französisch sprechen.	उसने फ्रेंच बोल सकता था।
+He crawled out of bed.	Er kroch aus dem Bett.	उसने बिस्तर से गिरगिट की तरह निकला।
+He cried out for help.	Er rief nach Hilfe.	उसने मदद के लिए चिल्लाया।
+He crossed the street.	Er überquerte die Straße.	उसने सड़क पार कर ली।
+He deals in furniture.	Er handelt mit Möbeln.	उसने फर्नीचर का काम किया।
