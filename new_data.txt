@@ -35324,3 +35324,9 @@ We're very different.	Wir sind sehr unterschiedlich.	हम बहुत अल�
 We're very skeptical.	Wir sind sehr skeptisch.	हम बहुत संदेहात्मक हैं।
 We've arrived safely.	Wir sind sicher angekommen.	हम सुरक्षित रूप से पहुंच गए हैं।
 We've got a question.	Wir haben eine Frage.	हमारे पास एक सवाल है।
+We've got each other.	Wir haben uns gegenseitig.	हमारे पास एक दूसरे हैं।
+We've run out of gas.	Uns ist das Gas ausgegangen.	हमें गैस खत्म हो गई है।
+We've run out of tea.	Uns ist der Tee ausgegangen.	हमें चाय खत्म हो गई है।
+We've seen it before.	Wir haben es schon einmal gesehen.	हमने इसे पहले भी देखा है।
+Welcome to Australia.	Willkommen in Australien.	ऑस्ट्रेलिया में आपका स्वागत है।
+Were you home at ten?	Warst du um zehn Uhr zu Hause?	क्या तुम दस बजे घर पर थे?

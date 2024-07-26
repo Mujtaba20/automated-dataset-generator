@@ -1,14 +1,4 @@
 
-We've got each other.	Wir haben uns.	हमारे पास है।
-We've run out of gas.	Uns ist das Benzin ausgegangen.	हम गैस से बाहर भाग गए।
-We've run out of gas.	Unser Benzin ist alle.	हमारा गैसोलीन सब है।
-We've run out of tea.	Wir haben keinen Tee mehr.	अब हमारे पास चाय नहीं है।
-We've run out of tea.	Uns ist der Tee ausgegangen.	हम चाय से बाहर भाग गए।
-We've seen it before.	Wir haben ihn schon mal gesehen.	हमने उसे पहले देखा है।
-Welcome to Australia.	Willkommen in Australien!	ऑस्ट्रेलिया में आपका स्वागत है!
-Were you home at ten?	Warst du um zehn zu Hause?	क्या आप दस बजे घर पर हैं?
-Were you home at ten?	Waren Sie um zehn zu Hause?	क्या आप दस बजे घर पर थे?
-Were you home at ten?	Wart ihr um zehn zu Hause?	क्या आप दस बजे घर पर थे?
 Were you in the army?	Warst du in der Armee?	क्या आप सेना में हैं?
 Were you intoxicated?	Waren Sie alkoholisiert?	क्या आप शराब कर रहे थे?
 What I did was wrong.	Es war falsch, was ich tat.	यह गलत था कि मैं क्या कर रहा था।
