@@ -26871,3 +26871,9 @@ I won't tell a soul.	Ich werde niemandem ein Wort sagen.	मैं किसी 
 I won't tell anyone.	Ich werde es niemandem sagen.	मैं किसी को भी नहीं बताऊँगा।
 I wonder who she is.	Ich frage mich, wer sie ist.	मैं हैरान हूँ कि वह कौन है।
 I work as a teacher.	Ich arbeite als Lehrer.	मैं एक शिक्षक के रूप में काम करता हूँ।
+I worked until 2:30.	Ich habe bis 2:30 Uhr gearbeitet.	मैंने 2:30 बजे तक काम किया।
+I would die for you.	Ich würde für dich sterben.	मैं तुम्हारे लिए मर जाऊँगा।
+I would do it again.	Ich würde es wieder tun.	मैं फिर से करेगा।
+I would do the same.	Ich würde dasselbe tun.	मैं वही करूँगा।
+I would've said yes.	Ich hätte Ja gesagt.	मैं हां कह देता।
+I wrote Tom a check.	Ich habe Tom einen Scheck geschrieben.	मैंने टॉम को एक चेक दिया।
