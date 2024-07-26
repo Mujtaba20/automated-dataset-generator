@@ -37735,3 +37735,11 @@ I need you to help me.	Ich brauche deine Hilfe.	मुझे तुम्हा�
 I need your help, Tom.	Ich brauche deine Hilfe, Tom.	मुझे आपकी मदद चाहिए, टॉम।
 I never believed that.	Das habe ich nie geglaubt.	मैं कभी नहीं माना।
 I never drink at home.	Ich trinke nie zu Hause.	मैं कभी घर पर नहीं पीता।
+I never expected this.	Das hatte ich nicht erwartet.	मैंने कभी ऐसा उम्मीद नहीं थी।
+I never forget a face.	Ich vergesse nie ein Gesicht.	मैं कभी एक चेहरा नहीं भूलता।
+I never hear anything.	Ich höre nie etwas.	मैं कभी कुछ नहीं सुनता।
+I never heard him lie.	Ich habe ihn nie lügen hören.	मैंने कभी उसे झूठ बोलते नहीं सुना।
+I never liked biology.	Ich mochte nie Biologie.	मुझे जीवविज्ञान कभी पसंद नहीं था।
+I never saw Tom again.	Ich habe Tom nie wieder gesehen.	मैंने फिर से टॉम को कभी नहीं देखा।
+I never saw her again.	Ich habe sie nie wieder gesehen.	मैंने फिर से उसे कभी नहीं देखा।
+I never saw him again.	Ich habe ihn nie wieder gesehen.	मैंने फिर से उसे कभी नहीं देखा।
