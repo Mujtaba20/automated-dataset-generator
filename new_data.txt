@@ -31117,3 +31117,12 @@ He looked very happy.	Er sah sehr glücklich aus.	उसने बहुत ख�
 He looked very tired.	Er sah sehr müde aus.	उसने बहुत थका हुआ लगा।
 He looks a bit tired.	Er sieht ein bisschen müde aus.	वह थोड़ा थका हुआ लगता है।
 He looks like a girl.	Er sieht wie ein Mädchen aus.	वह लड़की की तरह दिखता है।
+He looks very sleepy.	Er sieht sehr verschlafen aus.	वह बहुत नींद में लग रहा है।
+He lost his eyesight.	Er hat sein Augenlicht verloren.	उसने अपनी दृष्टि खो दी।
+He made a rude reply.	Er gab eine unhöfliche Antwort.	उसने एक अकड़ी जवाब दिया।
+He made her his wife.	Er machte sie zu seiner Frau.	उसने उसे अपनी पत्नी बनाया।
+He made up an excuse.	Er erfand eine Ausrede.	उसने एक बहाना बनाया।
+He made up the story.	Er erfand die Geschichte.	उसने कहानी बनाई।
+He managed to escape.	Er schaffte es zu entkommen.	उसने भागने में कामयाबी हासिल की।
+He married for money.	Er heiratete wegen Geld.	उसने पैसे के लिए शादी की।
+He married my cousin.	Er heiratete meine Cousine.	उसने मेरी भाई की शादी की।

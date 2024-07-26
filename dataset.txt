@@ -1,17 +1,4 @@
 
-He looks very sleepy.	Er sieht sehr müde aus.	वह बहुत थक गया है।
-He lost his eyesight.	Er hat das Augenlicht verloren.	उसने दृष्टि खो दी।
-He made a rude reply.	Er gab eine unhöfliche Antwort.	उसने एक असभ्य जवाब दिया।
-He made a rude reply.	Er gab eine unverschämte Antwort.	उन्होंने एक अपमानजनक जवाब दिया।
-He made her his wife.	Er hat sie zu seiner Frau gemacht.	उसने अपनी पत्नी बनाई।
-He made up an excuse.	Er dachte sich eine Ausrede aus.	उसने एक बहाना सोचा।
-He made up the story.	Er hat sich die Geschichte ausgedacht.	वह कहानी के साथ आया था।
-He managed to escape.	Er konnte entkommen.	वह बच सकता था।
-He married for money.	Er hat des Geldes wegen geheiratet.	उसने पैसे के लिए शादी कर ली।
-He married my cousin.	Er hat meine Cousine geheiratet.	उसने मेरे चचेरे भाई से शादी की।
-He married my cousin.	Er heiratete meinen Cousin.	उसने मेरे चचेरे भाई से शादी की।
-He married my cousin.	Er hat meinen Cousin geheiratet.	उसने मेरे चचेरे भाई से शादी की।
-He married my cousin.	Er heiratete meine Cousine.	उसने मेरे चचेरे भाई से शादी की।
 He married my sister.	Er heiratete meine Schwester.	उसने मेरी बहन से शादी की।
 He may have been ill.	Er war vielleicht krank.	शायद वह बीमार था।
 He may well be right.	Es ist durchaus möglich, dass er recht hat.	यह काफी संभव है कि वह सही है।
