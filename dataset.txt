@@ -1,14 +1,4 @@
 
-Tom has a lot to learn.	Tom hat viel zu lernen.	टॉम को सीखने के लिए बहुत कुछ है।
-Tom has a pickup truck.	Tom hat einen Pick-up.	टॉम के पास एक पिक-अप है।
-Tom has a pocket watch.	Tom hat eine Taschenuhr.	टॉम के पास एक पॉकेट वॉच है।
-Tom has a rare disease.	Tom hat eine seltene Krankheit.	टॉम को एक दुर्लभ बीमारी है।
-Tom has a red car, too.	Tom hat auch ein rotes Auto.	टॉम के पास एक लाल कार भी है।
-Tom has a red car, too.	Tom hat ebenfalls ein rotes Auto.	टॉम के पास एक लाल कार भी है।
-Tom has a red car, too.	Tom hat auch einen roten Wagen.	टॉम के पास एक लाल कार भी है।
-Tom has a red car, too.	Tom hat ebenfalls einen roten Wagen.	टॉम के पास एक लाल कार भी है।
-Tom has a skeleton key.	Tom hat einen Dietrich.	टॉम में एक डिट्रिच है।
-Tom has a skeleton key.	Tom hat einen Hauptschlüssel.	टॉम में एक मुख्य कुंजी है।
 Tom has a small garden.	Tom hat einen kleinen Garten.	टॉम में एक छोटा बगीचा है।
 Tom has a special gift.	Tom hat eine besondere Gabe.	टॉम के पास एक विशेष उपहार है।
 Tom has a time machine.	Tom hat eine Zeitmaschine.	टॉम के पास एक टाइम मशीन है।
