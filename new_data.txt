@@ -33194,3 +33194,12 @@ Nobody saw Tom do it.	Niemand sah Tom es tun.	किसी ने टॉम क�
 Nobody saw it coming.	Niemand hat es kommen sehen.	किसी ने यह आने वाला नहीं देखा।
 Nobody says anything.	Niemand sagt etwas.	कोई कुछ नहीं कहता।
 Nobody spoke with me.	Niemand sprach mit mir.	किसी ने मुझसे बात नहीं की।
+Nobody supported her.	Niemand unterstützte sie.	किसी ने उसे समर्थन नहीं किया।
+Nobody was listening.	Niemand hörte zu.	कोई नहीं सुन रहा था।
+Nobody's died so far.	Bisher ist niemand gestorben.	अब तक किसी की मौत नहीं हुई है।
+Nobody's that stupid.	Niemand ist so dumm.	कोई इतना मूर्ख नहीं है।
+Nobody's watching us.	Niemand beobachtet uns.	कोई हमें नहीं देख रहा है।
+None of this is good.	Nichts davon ist gut.	इसमें से कुछ भी अच्छा नहीं है।
+None of this is true.	Nichts davon ist wahr.	यह सब सच नहीं है।
+None of this matters.	Das spielt keine Rolle.	यह सब मायने नहीं रखता।
+None of us want that.	Keiner von uns will das.	हममें से कोई भी उसे नहीं चाहता।
