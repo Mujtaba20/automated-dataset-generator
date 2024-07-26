@@ -1,14 +1,4 @@
 
-It's too cold for me.	Das ist zu kalt für mich.	यह मेरे लिए बहुत ठंडा है।
-It's too complicated.	Es ist zu kompliziert.	यह बहुत जटिल है।
-It's too far to walk.	Das ist zu Fuß zu weit.	यह बहुत दूर पैदल है।
-It's too late anyway.	Es ist ohnehin zu spät.	वैसे भी बहुत देर हो चुकी है।
-It's under the table.	Es ist unter dem Tisch.	यह टेबल के नीचे है।
-It's very cold today.	Es ist heute sehr kalt.	आज बहुत सर्दी है।
-It's very satisfying.	Es ist sehr befriedigend.	यह बहुत संतोषजनक है।
-It's very satisfying.	Es ist sehr zufriedenstellend.	यह बहुत संतोषजनक है।
-It's very satisfying.	Es stellt mich sehr zufrieden.	यह मुझे बहुत संतुष्ट करता है।
-It's very satisfying.	Es macht mich sehr zufrieden.	यह मुझे बहुत संतुष्ट करता है।
 It's very surprising.	Es ist sehr überraschend.	यह बहुत आश्चर्यजनक है।
 It's very warm today.	Es ist sehr warm heute.	यह आज बहुत गर्म है।
 It's what I would do.	Das ist es, was ich täte.	यह वो है जो मैं करुंगा।

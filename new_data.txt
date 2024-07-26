@@ -32929,3 +32929,10 @@ It's terribly urgent.	Es ist schrecklich dringend.	यह भयानक तत
 It's time for dinner.	Es ist Zeit zum Abendessen.	खाने का समय है।
 It's time to go home.	Es ist Zeit nach Hause zu gehen.	घर जाने का समय है।
 It's time to wake up.	Es ist Zeit zum Aufwachen.	उठने का समय है।
+It's too cold for me.	Es ist zu kalt für mich.	मेरे लिए यह बहुत ठंडा है।
+It's too complicated.	Es ist zu kompliziert.	यह बहुत जटिल है।
+It's too far to walk.	Es ist zu weit zum Laufen.	यह चलने के लिए बहुत दूर है।
+It's too late anyway.	Es ist sowieso zu spät.	जैसे ही है।
+It's under the table.	Es ist unter dem Tisch.	यह मेज के नीचे है।
+It's very cold today.	Es ist heute sehr kalt.	आज बहुत ठंडा है।
+It's very satisfying.	Es ist sehr befriedigend.	यह बहुत संतोषप्रद है।
