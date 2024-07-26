@@ -34032,3 +34032,13 @@ Tom apologized again.	Tom entschuldigte sich erneut.	टॉम फिर से 
 Tom apologized to me.	Tom entschuldigte sich bei mir.	टॉम ने मुझसे क्षमा कहा।
 Tom appeared anxious.	Tom wirkte ängstlich.	टॉम चिंतित लग रहा था।
 Tom appears agitated.	Tom wirkt aufgeregt.	टॉम उत्तेजित लग रहा है।
+Tom appears confused.	Tom wirkt verwirrt.	टॉम भ्रांत है।
+Tom appears outraged.	Tom wirkt empört.	टॉम आक्रोशित नजर आ रहा है।
+Tom asked a question.	Tom stellte eine Frage.	टॉम ने सवाल पूछा।
+Tom asked a question. Duplicate sentence meaning: Tom inquired about something.	Tom erkundigte sich nach etwas.	टॉम ने किसी चीज के बारे में पूछा।
+Tom asked about Mary.	Tom fragte nach Mary.	टॉम ने मेरी के बारे में पूछा।
+Tom asked for a beer.	Tom bat um ein Bier.	टॉम ने एक बियर मांगी।
+Tom ate a gummy bear.	Tom aß einen Gummibär.	टॉम ने एक गमी बेयर खाया।
+Tom baked three pies.	Tom backte drei Kuchen.	टॉम ने तीन पाइ बेक किए।
+Tom baked three pies. Duplicate sentence meaning: Tom prepared three desserts.	Tom bereitete drei Desserts zu.	टॉम ने तीन मिठाइयां तैयार की।
+Tom beat me at chess.	Tom schlug mich im Schach.	टॉम ने शतरंज में मुझसे जीत हासिल की।

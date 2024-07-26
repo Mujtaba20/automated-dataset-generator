@@ -1,14 +1,4 @@
 
-Tom appears confused.	Tom scheint verwirrt zu sein.	टॉम भ्रमित होने लगते हैं।
-Tom appears outraged.	Tom scheint entsetzt zu sein.	टॉम भयभीत लगता है।
-Tom asked a question.	Tom stellte eine Frage.	टॉम ने एक सवाल पूछा।
-Tom asked a question.	Tom hat eine Frage gestellt.	टॉम ने एक सवाल पूछा।
-Tom asked about Mary.	Tom hat sich nach Maria erkundigt.	टॉम ने मारिया के बारे में पूछा।
-Tom asked for a beer.	Tom bestellte ein Bier.	टॉम ने एक बीयर का आदेश दिया।
-Tom ate a gummy bear.	Tom aß ein Gummibärchen.	टॉम ने एक गमी भालू खाया।
-Tom baked three pies.	Tom buk drei Kuchen.	टॉम बुक थ्री केक।
-Tom baked three pies.	Tom hat drei Kuchen gebacken.	टॉम ने तीन केक पके हुए।
-Tom beat me at chess.	Tom hat mich im Schach geschlagen.	टॉम ने मुझे शतरंज में मारा।
 Tom became a pianist.	Tom wurde Pianist.	टॉम पियानोवादक बन गया।
 Tom became an artist.	Tom wurde Künstler.	टॉम एक कलाकार बन गया।
 Tom became irritated.	Tom wurde verärgert.	टॉम नाराज था।
