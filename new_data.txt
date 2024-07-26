@@ -34971,3 +34971,11 @@ Tom was hit by a car.	Tom wurde von einem Auto angefahren.	टॉम को ग�
 Tom was homeschooled.	Tom wurde zu Hause unterrichtet.	टॉम को घर पर पढ़ाया गया था।
 Tom was in the cabin.	Tom war in der Hütte.	टॉम गोदाम में था।
 Tom was in the house.	Tom war im Haus.	टॉम घर में था।
+Tom was kissing Mary.	Tom hat Mary geküsst.	टॉम मैरी को चुम्बकिथा।
+Tom was lying to you.	Tom log dir.	टॉम तुमसे झूठ बोल रहा था।
+Tom was my protector.	Tom war mein Beschützer.	टॉम मेरा संरक्षक था।
+Tom was never caught.	Tom ist nie erfasst worden.	टॉम कभी पकड़ा नहीं गया था।
+Tom was never unfair.	Tom war nie unfair.	टॉम कभी अनुचित नहीं था।
+Tom was never unkind.	Tom war nie unfreundlich.	टॉम कभी असभ्य नहीं था।
+Tom was not suicidal.	Tom war nicht selbstmörderisch.	टॉम आत्महत्या नहीं कर रहा था।
+Tom was overdoing it.	Tom hat es übertrieben.	टॉम इसे ज्यादा कर रहा था।
