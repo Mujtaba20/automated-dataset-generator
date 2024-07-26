@@ -21491,3 +21491,11 @@ I love translating.	Ich liebe es zu übersetzen.	मुझे अनुवाद
 I love video games.	Ich liebe Videospiele.	मुझे वीडियो गेम्स पसंद हैं।
 I love your accent.	Ich liebe deinen Akzent.	मुझे तुम्हारी भाषा पसंद है।
 I love your garden.	Ich liebe deinen Garten.	मुझे तुम्हारा बगीचा अच्छा लगता है।
+I love your outfit.	Ich liebe dein Outfit.	मुझे आपका आउटफिट पसंद है।
+I loved Tom's poem.	Ich liebte Toms Gedicht.	मुझे टॉम की कविता पसंद थी।
+I loved that house.	Ich liebte dieses Haus.	मुझे उस घर से प्यार था।
+I made Mary a doll.	Ich machte Mary eine Puppe.	मैंने मैरी के लिए एक गुड़िया बनाई।
+I made Tom do that.	Ich ließ Tom das tun.	मैंने टॉम से वह करने के लिए कहा।
+I made Tom go home.	Ich schickte Tom nach Hause.	मैंने टॉम को घर जाने के लिए कहा।
+I made my decision.	Ich habe meine Entscheidung getroffen.	मैंने अपना निर्णय लिया।
+I made no promises.	Ich habe keine Versprechen gemacht.	मैंने कोई वादे नहीं किए।
