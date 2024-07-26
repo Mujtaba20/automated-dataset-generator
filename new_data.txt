@@ -32575,3 +32575,12 @@ I'm now in Australia.	Ich bin jetzt in Australien.	मैं अब ऑस्ट
 I'm often in trouble.	Ich gerate oft in Schwierigkeiten.	मैं अक्सर मुश्किल में फसता हूँ।
 I'm perfectly normal.	Ich bin absolut normal.	मैं पूरी तरह से सामान्य हूँ।
 I'm planning to come.	Ich plane zu kommen.	मैं आने की योजना बना रहा हूँ।
+I'm pressing charges.	Ich erhebe Anklage.	मैं आरोप लगा रहा हूँ।
+I'm proud of you all.	Ich bin stolz auf euch alle.	मैं तुम सब पर गर्वित हूँ।
+I'm pulling the plug.	Ich ziehe den Stecker.	मैं बिजली का प्लग निकाल रहा हूँ।
+I'm quicker than you.	Ich bin schneller als du.	मैं तुमसे ज्यादा तेज हूँ।
+I'm quite sure of it.	Ich bin mir ziemlich sicher.	मुझे इसके बारे में काफी निश्चितता है।
+I'm rather impressed.	Ich bin eher beeindruckt.	मुझे बहुत प्रभावित किया।
+I'm really very busy.	Ich bin wirklich sehr beschäftigt.	मैं सचमुच बहुत व्यस्त हूँ।
+I'm right behind Tom.	Ich bin direkt hinter Tom.	मैं सीधे टॉम के पीछे हूँ।
+I'm right behind you.	Ich bin direkt hinter dir.	मैं सीधे तुम्हारे पीछे हूँ।
