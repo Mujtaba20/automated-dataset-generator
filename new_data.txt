@@ -35484,3 +35484,10 @@ When will you arrive?	Wann wirst du ankommen?	तुम कब पहुँच�
 When will you go out?	Wann gehst du raus?	तुम कब बाहर जाओगे?
 When will you return?	Wann wirst du zurückkommen?	तुम कब वापस आओगे?
 When's dinner served?	Wann ist das Abendessen bereit?	डिनर कब परोसा जाएगा?
+When's your birthday?	Wann hast du Geburtstag?	तुम्हारा जन्मदिन कब है?
+Where are Tom's keys?	Wo sind Toms Schlüssel?	टॉम की चाबियाँ कहाँ हैं?
+Where are my clothes?	Wo ist meine Kleidung?	मेरी पोशाख कहाँ है?
+Where are my glasses?	Wo sind meine Gläser?	मेरे चश्मे कहाँ हैं?
+Where are my parents?	Wo sind meine Eltern?	मेरे माता-पिता कहाँ हैं?
+Where are the apples?	Wo sind die Äpfel?	सेब कहाँ हैं?
+Where are the guards?	Wo sind die Wachen?	गार्ड्स कहाँ हैं?

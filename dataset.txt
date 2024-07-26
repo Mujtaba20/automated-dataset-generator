@@ -1,14 +1,4 @@
 
-When's your birthday?	Wann ist dein Geburtstag?	आपका जन्मदिन कब है?
-When's your birthday?	Wann haben Sie Geburtstag?	आपका जन्मदिन कब है?
-Where are Tom's keys?	Wo sind Toms Schlüssel?	टॉम की कुंजी कहाँ हैं?
-Where are my clothes?	Wo sind meine Sachen?	मेरी बातें कहाँ हैं?
-Where are my clothes?	Wo ist meine Kleidung?	मेरे कपड़े कहाँ हैं?
-Where are my glasses?	Wo ist meine Brille?	मेरा चश्मा कहाँ हैं?
-Where are my glasses?	Wo ist denn meine Brille?	मेरा चश्मा कहाँ है?
-Where are my parents?	Wo sind meine Eltern?	मेरे माता -पिता कहाँ हैं?
-Where are the apples?	Wo sind die Äpfel?	सेब कहां हैं?
-Where are the guards?	Wo sind die Wachen?	गार्ड कहाँ हैं?
 Where are the knives?	Wo sind die Messer?	चाकू कहाँ हैं?
 Where are the meters?	Wo sind die Messgeräte?	मापने वाले उपकरण कहां हैं?
 Where are the meters?	Wo sind die Parkuhren?	पार्किंग मीटर कहां हैं?
