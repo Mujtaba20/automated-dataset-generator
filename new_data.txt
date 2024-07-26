@@ -29916,3 +29916,12 @@ Where have you been? - Different Meaning	Wo hast du dich rumgetrieben?	तुम
 Where have you gone?	Wo bist du hingegangen?	तुम कहाँ गए थे?
 Where have you gone? - Different Meaning	Wo hast du dich versteckt?	तुम कहाँ छुपे थे?
 Where is Tom anyway?	Wo ist Tom überhaupt?	वैसे तो टॉम कहाँ है?
+Where is Tom buried?	Wo ist Tom begraben?	टॉम कहाँ दफनाया गया है?
+Where is he playing?	Wo spielt er?	वह कहाँ खेल रहा है?
+Where is his family?	Wo ist seine Familie?	उसका परिवार कहाँ है?
+Where is my luggage?	Wo ist mein Gepäck?	मेरा सामान कहाँ है?
+Where is my red pen?	Wo ist mein roter Stift?	मेरी लाल कलम कहाँ है?
+Where is the butter?	Wo ist die Butter?	मक्खन कहाँ है?
+Where is the toilet?	Wo ist die Toilette?	शौचालय कहाँ है?
+Where is your house?	Wo ist dein Haus?	तुम्हारा घर कहाँ है?
+Where is your mommy?	Wo ist deine Mama?	तुम्हारी मम्मी कहाँ है?

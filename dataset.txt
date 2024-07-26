@@ -1,14 +1,4 @@
 
-Where is Tom buried?	Wo ist Tom begraben?	टॉम को कहाँ दफनाया गया है?
-Where is he playing?	Wo spielt er?	वह कहाँ खेल रहा है?
-Where is his family?	Wo ist seine Familie?	उसका परिवार कहाँ है?
-Where is my luggage?	Wo ist mein Gepäck?	मेरा सामान कहाँ है?
-Where is my red pen?	Wo ist mein Rotstift?	मेरी लाल पेंसिल कहाँ है?
-Where is the butter?	Wo ist die Butter?	मक्खन कहाँ है?
-Where is the toilet?	Wo ist die Toilette?	टॉयलेट कहां है?
-Where is your house?	Wo ist dein Haus?	आपका घर कहां है?
-Where is your mommy?	Wo ist deine Mama?	आपकी मां कहां है?
-Where is your mommy?	Wo ist eure Mama?	आपकी माँ कहाँ हैं?
 Where is your money?	Wo ist dein Geld?	आपका पैसा कहाँ है?
 Where is your money?	Wo ist euer Geld?	आपका पैसा कहाँ है?
 Where is your money?	Wo ist Ihr Geld?	आपका पैसा कहाँ है?
