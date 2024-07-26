@@ -1,14 +1,4 @@
 
-Do you like studying?	Studierst du gerne?	आपको अध्ययन करना पसंद हैं?
-Do you like swimming?	Schwimmst du gerne?	क्या आपको तैराकी का आनंद मिलता है?
-Do you like the city?	Gefällt dir die Stadt?	क्या आपको शहर पसंद है?
-Do you like this car?	Magst du dieses Auto?	क्या आप यह कार पसंद करते हैं?
-Do you like to dance?	Tanzen Sie gerne?	क्या आप नृत्य करना पसंद करेंगे?
-Do you like to dance?	Tanzt ihr gerne?	क्या आप नृत्य करना पसंद करेंगे?
-Do you like to dance?	Tanzt du gerne?	क्या आपको नाचना पंसद है?
-Do you like to party?	Feierst du gerne?	क्या आप जश्न मनाना पसंद करते हैं?
-Do you like to party?	Feiern Sie gerne?	क्या आप जश्न मनाना पसंद करते हैं?
-Do you like to study?	Studierst du gerne?	आपको अध्ययन करना पसंद हैं?
 Do you like tomatoes?	Mögt ihr Tomaten?	क्या आपको टमाटर पसंद है?
 Do you like your car?	Gefällt dir dein Auto?	क्या आपको अपनी कार पसंद है?
 Do you like your car?	Gefällt dir dein Wagen?	क्या आपको अपनी कार पसंद है?
