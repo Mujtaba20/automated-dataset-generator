@@ -1,14 +1,4 @@
 
-Did you read it at all?	Hast du es überhaupt gelesen?	क्या आपने इसे भी पढ़ा?
-Did you read it at all?	Haben Sie es überhaupt gelesen?	क्या आपने इसे भी पढ़ा?
-Did you read it at all?	Habt ihr es überhaupt gelesen?	क्या आपने इसे भी पढ़ा?
-Did you really do that?	Hast du das wirklich getan?	क्या आपने वास्तव में ऐसा किया था?
-Did you really do that?	Habt ihr das wirklich getan?	क्या आपने वास्तव में ऐसा किया था?
-Did you really do that?	Haben Sie das wirklich getan?	क्या आपने वास्तव में ऐसा किया था?
-Did you really love me?	Hast du mich wirklich geliebt?	क्या तुमने वास्तव में मुझसे प्यार किया था?
-Did you see Tom's face?	Hast du Toms Gesicht gesehen?	क्या आपने टॉम का चेहरा देखा?
-Did you see Tom's face?	Habt ihr Toms Gesicht gesehen?	क्या आपने टॉम का चेहरा देखा?
-Did you see Tom's face?	Haben Sie Toms Gesicht gesehen?	क्या आपने टॉम का चेहरा देखा?
 Did you see him go out?	Hast du ihn rausgehen gesehen?	क्या आपने उसे बाहर जाते देखा
 Did you see him go out?	Haben Sie ihn rausgehen gesehen?	क्या आपने उसे बाहर जाते देखा?
 Did you see him go out?	Hast du ihn rausgehen sehen?	क्या तुमने उसे बाहर जाते देखा
