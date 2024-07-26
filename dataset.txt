@@ -1,14 +1,4 @@
 
-They're afraid of Tom.	Sie haben Angst vor Tom.	आप टॉम से डरते हैं।
-They're afraid of him.	Sie haben Angst vor ihm.	आप उससे डरते हैं।
-They're eating apples.	Sie essen Äpfel.	आप सेब खाते हैं।
-They're expecting you.	Sie erwarten dich.	वे आपका इंतजार करते हैं।
-They're gaining on us.	Sie holen uns ein.	आप हमें मिलते हैं।
-They're in math class.	Sie sind im Matheunterricht.	वे गणित के पाठों में हैं।
-They're in the garden.	Sie sind im Garten.	आप बगीचे में हैं।
-They're in the shower.	Sie stehen unter der Dusche.	वे शॉवर में हैं।
-They're just students.	Das sind nur Studenten.	ये सिर्फ छात्र हैं।
-They're my classmates.	Das sind meine Klassenkameraden.	ये मेरे सहपाठी हैं।
 They're not criminals.	Das sind keine Kriminellen.	ये अपराधी नहीं हैं।
 They're playing cards.	Das sind Spielkarten.	ये ताश खेल रहे हैं।
 They're playing cards.	Sie spielen Karten.	वे ताश खेल रहे हैं।

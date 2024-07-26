@@ -39679,3 +39679,13 @@ They'll love that one.	Sie werden das lieben.	उन्हें वह पस�
 They'll never make it.	Sie werden es nie schaffen.	वे कभी नहीं कर पाएंगे।
 They'll understand us.	Sie werden uns verstehen.	वे हमें समझेंगे।
 They're able students.	Sie sind fähige Schüler.	वे सक्षम छात्र हैं।
+They're afraid of Tom.	Sie haben Angst vor Tom.	उन्हें टॉम से डर लगता है।
+They're afraid of him.	Sie haben Angst vor ihm.	उन्हें उससे डर लगता है।
+They're eating apples.	Sie essen Äpfel.	वे सेब खा रहे हैं।
+They're expecting you.	Sie erwarten dich.	वे तुम्हें अपेक्षित कर रहे हैं।
+They're gaining on us.	Sie gewinnen gegen uns.	वे हम पर आगे बढ़ रहे हैं।
+They're in math class.	Sie sind im Matheunterricht.	वे गणित कक्षा में हैं।
+They're in the garden.	Sie sind im Garten.	वे बगीचे में हैं।
+They're in the shower.	Sie sind in der Dusche.	वे शावर में हैं।
+They're just students.	Sie sind nur Studenten.	वे बस छात्र हैं।
+They're my classmates.	Sie sind meine Klassenkameraden.	वे मेरे सहपाठी हैं।
