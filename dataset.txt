@@ -1,16 +1,4 @@
 
-It's always your fault.	Es ist immer deine Schuld.	यह हमेशा आपकी गलती है।
-It's an abuse of power.	Das ist Machtmissbrauch.	वह सत्ता का दुरुपयोग है।
-It's an emergency, Tom.	Es handelt sich um einen Notfall, Tom.	यह एक आपातकालीन स्थिति है, टॉम।
-It's an excellent wine.	Das ist ein hervorragender Wein.	यह एक उत्कृष्ट शराब है।
-It's an old stereotype.	Das ist ein altes Klischee.	यह एक पुराना क्लिच है।
-It's an ugly situation.	Es ist eine blöde Situation.	यह एक मूर्खतापूर्ण स्थिति है।
-It's as simple as that.	So einfach ist das.	इतना सरल है।
-It's awfully hot today.	Es ist schrecklich heiß heute.	यह आज बहुत गर्म है।
-It's been a long night.	Es war eine lange Nacht.	यह एक लंबी रात थी।
-It's been quite a week.	Das war vielleicht eine Woche!	शायद वह एक सप्ताह था!
-It's been quite a week.	Ich habe eine anstrengende Woche hinter mir.	मेरे पीछे एक ज़ोरदार सप्ताह था।
-It's been quite a week.	Ich habe eine ziemlich anstrengende Woche hinter mir.	मेरे पीछे एक बहुत थकाऊ सप्ताह है।
 It's clear to everyone.	Es ist für alle offensichtlich.	यह सभी के लिए स्पष्ट है।
 It's close to my house.	Es ist in der Nähe von meinem Haus.	यह मेरे घर के पास है।
 It's close to my house.	Es ist nicht weit weg von meinem Haus.	यह मेरे घर से दूर नहीं है।
