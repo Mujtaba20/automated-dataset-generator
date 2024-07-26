@@ -35097,3 +35097,11 @@ Trust your instincts.	Vertraue deinen Instinkten.	अपने अंतर्�
 Trust your intuition.	Vertraue deiner Intuition.	अपने हाथ में भरोसा करें।
 Try harder next time.	Versuche es beim nächsten Mal härter.	अगली बार प्रयास करो।
 Try harder next time. (different meaning)	Nächstes Mal gib dein Bestes.	अगली बार अपना पूरा प्रयास करो।
+Try it without sauce.	Probier es ohne Soße.	सॉस के बिना इसे आजमाएं।
+Try to open the door.	Versuchen Sie, die Tür zu öffnen.	दरवाजा खोलने की कोशिश करें।
+Try to open the door. (Different meaning)	Versuchen Sie, die Tür zu öffnen.	दरवाजा खोलने का प्रयास करें।
+Try to understand me.	Versuch mich zu verstehen.	मुझे समझने का प्रयास करो।
+Try to understand me. (Different meaning)	Versuche mich zu begreifen.	मुझे समझने की कोशिश करें।
+Unemployment is high.	Die Arbeitslosigkeit ist hoch.	बेरोजगारी ऊंची है।
+Use your imagination.	Benutze deine Vorstellungskraft.	अपनी काल्पनिक शक्ति का उपयोग करें।
+Visitors are welcome.	Besucher sind willkommen.	आगंतुक स्वागत है।
