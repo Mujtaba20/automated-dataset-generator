@@ -1,14 +1,4 @@
 
-I once lived in Rome.	Ich habe einmal in Rom gelebt.	मैं एक बार रोम में रहता था।
-I only drink ice tea.	Ich trinke nur Eistee.	मैं केवल आइस्ड चाय पीता हूं।
-I only just left Tom.	Ich habe Tom gerade erst verlassen.	मैंने सिर्फ टॉम छोड़ दिया।
-I only met Tom twice.	Ich habe Tom nur zweimal getroffen.	मैं केवल दो बार टॉम से मिला।
-I opened the windows.	Ich öffnete die Fenster.	मैंने खिड़कियां खोली।
-I owe Tom an apology.	Ich muss mich bei Tom entschuldigen.	मुझे टॉम से माफी मांगनी है।
-I owe a lot of money.	Ich schulde eine Menge Geld.	मुझे बहुत पैसा देना है।
-I owe him 50,000 yen.	Ich schulde ihm fünfzigtausend Yen.	मैं उसे पचास हजार येन का एहसानमंद करता हूं।
-I owe him 50,000 yen.	Ich bin ihm fünfzigtausend Yen schuldig.	मैं उसे पचास हजार येन का एहसानमंद करता हूं।
-I owe you an apology.	Ich muss mich bei dir entschuldigen.	मुझे आपसे माफी मांगनी है।
 I paid $200 in taxes.	Ich habe zweihundert Dollar Steuern bezahlt.	मैंने दो सौ डॉलर के करों का भुगतान किया।
 I paid him the money.	Ich zahlte ihm das Geld.	मैंने उसे पैसे दिए।
 I plan to skip lunch.	Ich will das Mittagessen heute auslassen.	मैं आज दोपहर का भोजन छोड़ना चाहता हूं।

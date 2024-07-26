@@ -32030,3 +32030,12 @@ I now know the truth.	Ich kenne jetzt die Wahrheit.	मुझे अब सच�
 I offered Tom a ride.	Ich habe Tom eine Mitfahrgelegenheit angeboten.	मैंने टॉम को सवारी की पेशकश की।
 I often see Tom here.	Ich sehe Tom hier oft.	मैं यहाँ अक्सर टॉम को देखता हूँ।
 I often see you here.	Ich sehe dich hier oft.	मैं यहाँ अक्सर तुम्हें देखता हूँ।
+I once lived in Rome.	Ich habe einmal in Rom gelebt.	मैंने एक बार रोम में रहा था।
+I only drink ice tea.	Ich trinke nur Eistee.	मैं सिर्फ आइस टी पीता हूँ।
+I only just left Tom.	Ich habe Tom gerade verlassen.	मैंने तोम को अभी अभी छोड़ा है।
+I only met Tom twice.	Ich habe Tom nur zweimal getroffen.	मैंने तोम से केवल दो बार मिला।
+I opened the windows.	Ich habe die Fenster geöffnet.	मैंने खिड़कियाँ खोली।
+I owe Tom an apology.	Ich schulde Tom eine Entschuldigung.	मुझे टॉम से माफ़ी मांगनी है।
+I owe a lot of money.	Ich schulde viel Geld.	मुझे बहुत सारा पैसा देना है।
+I owe him 50,000 yen.	Ich schulde ihm 50.000 Yen.	मुझे उसे 50,000 येन देना है।
+I owe you an apology.	Ich schulde dir eine Entschuldigung.	मुझे तुम्हें माफ़ी मांगनी है।
