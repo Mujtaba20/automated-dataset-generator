@@ -1,14 +1,4 @@
 
-Tom doesn't study much.	Tom lernt nicht viel.	टॉम ज्यादा नहीं सीखता।
-Tom doesn't understand.	Tom versteht das nicht.	टॉम समझ में नहीं आता है।
-Tom doesn't want to go.	Tom möchte nicht gehen.	टॉम नहीं जाना चाहता।
-Tom doesn't wear suits.	Tom trägt keine Anzüge.	टॉम कोई सूट नहीं पहनता है।
-Tom dove into the pool.	Tom tauchte ins Becken.	टॉम पूल में डूबा।
-Tom dozed off in class.	Tom ist im Unterricht weggedöst.	टॉम कक्षा में दूर है।
-Tom drank a cup of tea.	Tom trank eine Tasse Tee.	टॉम ने एक कप चाय पिया।
-Tom dreamed about Mary.	Tom hat von Maria geträumt.	टॉम ने मारिया का सपना देखा।
-Tom dreamed about Mary.	Tom träumte von Maria.	टॉम ने मारिया का सपना देखा।
-Tom drew a deep breath.	Tom nahm einen tiefen Atemzug.	टॉम ने एक गहरी सांस ली।
 Tom drives a black car.	Tom fährt ein schwarzes Auto.	टॉम एक काली कार चलाता है।
 Tom drives a black car.	Tom fährt einen schwarzen Wagen.	टॉम एक काली कार चलाता है।
 Tom drives a tow truck.	Tom fährt einen Abschleppwagen.	टॉम एक टो ट्रक चलाता है।
