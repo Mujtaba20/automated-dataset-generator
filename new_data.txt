@@ -22252,3 +22252,13 @@ It was a dream job.	Es war ein Traumjob.	यह एक सपना नौकर
 It was a fun night.	Es war eine lustige Nacht.	यह मजेदार रात थी।
 It was a good idea.	Es war eine gute Idee.	यह एक अच्छा विचार था।
 It was a hard exam.	Es war eine schwierige Prüfung.	यह एक कठिन परीक्षा थी।
+It was a nightmare.	Es war ein Albtraum.	यह एक काबू झापड़ था।
+It was a sad story.	Es war eine traurige Geschichte.	यह एक दुखद कहानी थी।
+It was about money.	Es ging um Geld.	यह पैसे के बारे में था।
+It was all planned.	Es war alles geplant.	सब कुछ योजनित था।
+It was an accident.	Es war ein Unfall.	यह एक हादसा था।
+It was complicated.	Es war kompliziert.	यह जटिल था।
+It was easy to fix.	Es war einfach zu reparieren.	इसे ठीक करना आसान था।
+It was handcrafted.	Es wurde von Hand gefertigt.	यह हस्त निर्मित था।
+It was in the news.	Es war in den Nachrichten.	यह समाचारों में था।
+It was in this box.	Es war in dieser Schachtel.	यह इस डिब्बे में था।
