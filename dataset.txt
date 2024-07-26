@@ -1,16 +1,4 @@
 
-You're good at this.	Das kannst du aber gut.	लेकिन आप ऐसा अच्छा कर सकते हैं।
-You're grown up now.	Du bist jetzt erwachsen.	अब आप बड़े हो गए हैं।
-You're in no danger.	Du bist nicht in Gefahr.	आप खतरे में नहीं हैं।
-You're in no danger.	Ihr seid nicht in Gefahr.	आप खतरे में नहीं हैं।
-You're in no danger.	Sie sind nicht in Gefahr.	वे खतरे में नहीं हैं।
-You're incorrigible.	Du bist unverbesserlich.	आप बेकार हैं।
-You're incorrigible.	Ihr seid unverbesserlich.	आप बेकार हैं।
-You're incorrigible.	Sie sind unverbesserlich.	वे बेकार हैं।
-You're irresistible.	Du bist unwiderstehlich.	आप अति सम्मोहक हो।
-You're just in time.	Du kommst gerade rechtzeitig.	आप बस समय में आ रहे हैं।
-You're just in time.	Sie kommen gerade rechtzeitig.	वे समय में आ रहे हैं।
-You're just in time.	Ihr kommt gerade rechtzeitig.	आप बस समय में आते हैं।
 You're just jealous.	Du bist doch nur eifersüchtig.	आप बस ईर्ष्या कर रहे हैं।
 You're just jealous.	Sie sind doch nur eifersüchtig.	आप बस ईर्ष्या कर रहे हैं।
 You're looking down.	Du siehst betrübt aus.	तुम उदास लग रहे हो।

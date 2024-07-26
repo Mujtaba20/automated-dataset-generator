@@ -30286,3 +30286,9 @@ You're contributing.	Du trägst bei.	तुम योगदान दे रह�
 You're good at that.	Du bist gut darin.	तुम उसमें अच्छे हो।
 You're confusing me. (Different meaning)	Du bringst mich durcheinander.	तुम मुझे ग़लत समझा रहे हो।
 You're contributing. (Different meaning)	Du leistest einen Beitrag.	तुम सहायक हो।
+You're good at this.	Du bist gut darin.	तुम इसमें अच्छे हो।
+You're grown up now.	Du bist jetzt erwachsen.	तुम अब बड़े हो गए हो।
+You're in no danger.	Du bist nicht in Gefahr.	तुम्हें कोई खतरा नहीं है।
+You're incorrigible.	Du bist unverbesserlich.	तुम सुधारने से कभी नहीं सीखोगे।
+You're irresistible.	Du bist unwiderstehlich.	तुम अत्यधिक खिंचने वाले हो।
+You're just in time.	Du bist gerade rechtzeitig.	तुम बिल्कुल समय पर हो।
