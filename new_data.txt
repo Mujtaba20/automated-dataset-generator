@@ -41489,3 +41489,11 @@ Whose books are these?	Wessen Bücher sind das?	ये किसकी कित
 Whose books are those?	Wessen Bücher sind das?	वो किसकी किताबें हैं?
 Whose handbag is this?	Wessen Handtasche ist das?	ये किसका हैंडबैग है?
 Whose is this bicycle?	Wessen ist dieses Fahrrad?	यह किसकी साइकिल है?
+Whose side are you on?	Auf wessen Seite stehst du?	तुम किसकी ओर हो?
+Whose socks are these?	Wessen Socken sind das?	ये किसकी मोजे हैं?
+Whose turn is it next?	Wer ist als Nächstes dran?	अगली बार किसकी बारी है?
+Why are girls so cute?	Warum sind Mädchen so süß?	लड़कियाँ इतनी प्यारी क्यों होती हैं?
+Why are men like that?	Warum sind Männer so?	आदमी ऐसे क्यों होते हैं?
+Why are men so stupid?	Warum sind Männer so dumm?	आदमी इतने मूर्ख क्यों होते हैं?
+Why are they laughing?	Warum lachen sie?	वे क्यों हंस रहे हैं?
+Why are we doing that?	Warum machen wir das?	हम ऐसा क्यों कर रहे हैं?

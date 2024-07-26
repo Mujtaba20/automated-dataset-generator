@@ -1,14 +1,4 @@
 
-Whose side are you on?	Auf wessen Seite stehst du?	आप किसकी तरफ खड़े हैं?
-Whose side are you on?	Auf wessen Seite stehen Sie?	आप किसके पक्ष में हैं?
-Whose side are you on?	Auf wessen Seite steht ihr?	आप किसके पक्ष में हैं?
-Whose socks are these?	Wessen Socken sind das?	वे किसके मोजे हैं?
-Whose turn is it next?	Wer ist als nächster an der Reihe?	अगली बात कौन है?
-Why are girls so cute?	Warum sind Mädchen so süß?	लड़कियां इतनी प्यारी क्यों हैं?
-Why are men like that?	Warum sind Männer so?	पुरुष इस तरह क्यों हैं?
-Why are men so stupid?	Warum sind Männer so blöd?	पुरुष इतने मूर्ख क्यों हैं?
-Why are they laughing?	Warum lachen die?	वे क्यों हंस रहे हैं?
-Why are we doing that?	Warum machen wir das?	हम ये क्यों करते हैं?
 Why are we doing this?	Warum tun wir das?	हम ये क्यों करते हैं?
 Why are we here again?	Warum sind wir wieder hier?	हम यहाँ फिर से क्यों हैं?
 Why are we still here?	Warum sind wir noch hier?	हम अभी भी यहाँ क्यों हैं?
