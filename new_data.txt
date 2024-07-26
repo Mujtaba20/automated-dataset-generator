@@ -30389,3 +30389,10 @@ Apes are intelligent.	Affen sind intelligent.	वानर बुद्धिम
 Are these bags Tom's?	Sind diese Taschen von Tom?	क्या ये बैग टॉम के हैं?
 Are these bags yours?	Sind diese Taschen deine?	क्या ये बैग तुम्हारे हैं?
 Are these eggs fresh?	Sind diese Eier frisch?	क्या ये अंडे ताजा हैं?
+Are these yours, Tom?	Sind das deine, Tom?	क्या ये तुम्हारे हैं, टॉम?
+Are they coming, too?	Kommen sie auch?	क्या वे भी आ रहे हैं?
+Are those my glasses?	Sind das meine Brille?	क्या ये मेरी चश्मे हैं?
+Are we being watched?	Werden wir beobachtet?	क्या हमें देखा जा रहा है?
+Are we going surfing?	Gehen wir surfen?	क्या हम सर्फिंग पर जा रहें हैं?
+Are we starting soon?	Beginnen wir bald?	क्या हम जल्दि शुरू हो रहे हैं?
+Are you OK with this?	Bist du damit einverstanden?	क्या तुम इसके साथ ठीक हो?
