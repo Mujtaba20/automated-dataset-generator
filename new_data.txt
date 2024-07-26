@@ -35765,3 +35765,9 @@ You can come with us.	Du kannst mit uns kommen.	तुम हमारे सा
 You can count on her.	Du kannst dich auf sie verlassen.	तुम उस पर भरोसा कर सकते हो।
 You can count on him.	Du kannst dich auf ihn verlassen.	तुम उस पर भरोसा कर सकते हो।
 You can depend on it.	Du kannst dich darauf verlassen.	तुम इस पर निर्भर कर सकते हो।
+You can stay with us.	Du kannst bei uns bleiben.	तुम हमारे साथ रुक सकते हैं।
+You can take a break.	Du kannst eine Pause machen.	तुम एक ब्रेक ले सकते हो।
+You can use this car.	Du kannst dieses Auto benutzen.	तुम इस कार का उपयोग कर सकते हैं।
+You can wait outside.	Du kannst draußen warten.	तुम बाहर इंतजार कर सकते हैं।
+You can't be serious.	Du kannst nicht ernst sein.	तुम स्थायी नहीं हो सकते।
+You can't be serious?	Du kannst doch nicht ernst sein?	तुम सचमुच सीरियस नहीं हो सकते?

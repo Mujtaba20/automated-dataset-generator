@@ -1,14 +1,4 @@
 
-You can stay with us.	Du kannst bei uns bleiben.	आप हमारे साथ रह सकते हैं।
-You can stay with us.	Sie können bei uns bleiben.	आप हमारे साथ रह सकते हैं।
-You can stay with us.	Ihr könnt bei uns bleiben.	आप हमारे साथ रह सकते हैं।
-You can take a break.	Mach ruhig eine Pause!	एक ब्रेक ले लो!
-You can use this car.	Du kannst diesen Wagen benutzen.	आप इस कार का उपयोग कर सकते हैं।
-You can use this car.	Du kannst diesen Wagen nehmen.	आप इस कार को ले सकते हैं।
-You can wait outside.	Du kannst draußen warten.	आप बाहर इंतजार कर सकते हैं।
-You can't be serious.	Das kann nicht dein Ernst sein.	क्या आप मजाक कर रहे हैं।
-You can't be serious.	Das kann doch nicht dein Ernst sein.	यह गंभीर नहीं हो सकता।
-You can't be serious?	Das kannst du doch nicht ernst meinen.	आप गंभीर नहीं हो सकते।
 You can't change Tom.	Du kannst Tom nicht ändern.	आप टॉम नहीं बदल सकते।
 You can't change Tom.	Sie können Tom nicht ändern.	आप टॉम नहीं बदल सकते।
 You can't change Tom.	Man kann Tom nicht ändern.	आप टॉम नहीं बदल सकते।
