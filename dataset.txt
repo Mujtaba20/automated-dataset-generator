@@ -1,14 +1,4 @@
 
-Tom put his clothes on.	Tom hat sich angezogen.	टॉम ने कपड़े पहने हैं।
-Tom put his glasses on.	Tom setzte seine Brille auf.	टॉम ने अपने चश्मे पर डाल दिया।
-Tom put his glasses on.	Tom setzte sich die Brille auf.	टॉम ने चश्मे पर डाल दिया।
-Tom put his sweater on.	Tom zog seinen Pullover an.	टॉम ने अपने स्वेटर पर डाल दिया।
-Tom put on his clothes.	Tom hat sich angezogen.	टॉम ने कपड़े पहने हैं।
-Tom put on his glasses.	Tom setzte seine Brille auf.	टॉम ने अपने चश्मे पर डाल दिया।
-Tom put on his pajamas.	Tom zog seinen Pyjama an.	टॉम ने अपने पजामा पर रखा।
-Tom put the book aside.	Tom legte das Buch zur Seite.	टॉम ने किताब को एक तरफ रखा।
-Tom put the rifle away.	Tom legte das Gewehr weg.	टॉम ने राइफल को दूर रखा।
-Tom quickly apologized.	Tom entschuldigte sich rasch.	टॉम ने जल्दी से माफी मांगी।
 Tom ran away from Mary.	Tom ist vor Mary davongerannt.	टॉम मैरी से पहले भाग गया।
 Tom ran away from home.	Tom ist von zu Hause weggelaufen.	टॉम घर से भाग गया।
 Tom ran into the house.	Tom rannte ins Haus.	टॉम घर में भाग गया।
