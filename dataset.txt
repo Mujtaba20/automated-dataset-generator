@@ -1,15 +1,4 @@
 
-I have an old bicycle.	Ich habe ein altes Fahrrad.	मेरे पास एक पुरानी बाइक है।
-I have another sister.	Ich habe noch eine andere Schwester.	मेरी एक और बहन है।
-I have certain rights.	Ich habe gewisse Rechte.	मेरे कुछ अधिकार हैं।
-I have class tomorrow.	Ich habe morgen Unterricht.	मेरे पास कल सबक है।
-I have gambling debts.	Ich habe Spielschulden.	मेरे पास गेम ऋण हैं।
-I have grave concerns.	Ich habe schwere Bedenken.	मुझे गंभीर चिंताएं हैं।
-I have homework to do.	Ich muss Hausaufgaben machen.	मुझे होमवर्क करना है।
-I have just come here.	Ich bin gerade hier angekommen.	मैं बस यहाँ पहुंचा।
-I have just come here.	Ich bin einfach hergekommen.	मैं बस यहाँ आया था।
-I have life insurance.	Ich habe eine Lebensversicherung abgeschlossen.	मैंने लाइफ इंश्योरेंस निकाला है।
-I have life insurance.	Ich habe eine Lebensversicherung.	मेरे पास जीवन बीमा है।
 I have lost my camera.	Ich habe meine Kamera verloren.	मैंने अपना कैमरा खो दिया।
 I have lost my camera.	Ich habe meinen Fotoapparat verloren.	मैंने अपना कैमरा खो दिया।
 I have lost my pencil.	Ich habe meinen Stift verloren.	मैंने अपनी कलम खो दी।

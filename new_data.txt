@@ -37468,3 +37468,12 @@ I have a tourist visa.	Ich habe ein Touristenvisum.	मेरे पास ए�
 I have a twin brother.	Ich habe einen Zwillingsbruder.	मेरे पास एक जुड़वां भाई है।
 I have a wooden table.	Ich habe einen Holztisch.	मेरे पास एक लकड़ी की मेज़ है।
 I have an explanation.	Ich habe eine Erklärung.	मेरे पास एक स्पष्टीकरण है।
+I have an old bicycle.	Ich habe ein altes Fahrrad.	मेरे पास एक पुरानी साईकिल है।
+I have another sister.	Ich habe eine weitere Schwester.	मेरी एक और बहन है।
+I have certain rights.	Ich habe bestimmte Rechte.	मेरे पास कुछ अधिकार हैं।
+I have class tomorrow.	Ich habe morgen Unterricht.	मुझे कल कक्षा है।
+I have gambling debts.	Ich habe Spielschulden.	मेरे पास जुए की देन है।
+I have grave concerns.	Ich habe ernste Bedenken.	मेरे पास गंभीर चिंताएं हैं।
+I have homework to do.	Ich habe Hausaufgaben zu erledigen.	मुझे होमवर्क करना है।
+I have just come here.	Ich bin gerade hier angekommen.	मैं अभी यहाँ आया हूँ।
+I have life insurance.	Ich habe eine Lebensversicherung.	मेरे पास जीवन बीमा है।
