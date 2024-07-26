@@ -27035,3 +27035,12 @@ I'm going there now.	Ich gehe jetzt dorthin.	मैं अब वहाँ ज�
 I'm going to Boston.	Ich fahre nach Boston.	मैं बोस्टन जा रहा हूँ।
 I'm going to church.	Ich gehe in die Kirche.	मैं चर्च जा रहा हूँ।
 I'm going to say no.	Ich werde nein sagen.	मैं कहूँगा नहीं।
+I'm going to school.	Ich gehe zur Schule.	मैं स्कूल जा रहा हूँ।
+I'm good at cooking.	Ich kann gut kochen.	मुझे पकाने में अच्छा लगता है।
+I'm good at singing.	Ich kann gut singen.	मैं गाने में अच्छा हूँ।
+I'm growing a beard.	Ich lasse mir einen Bart wachsen.	मुझे दाड़ी उगाने बुढ़ि है।
+I'm happy with that.	Ich bin damit zufrieden.	मैं उसके साथ खुश हूँ।
+I'm happy with this.	Ich bin mit diesem zufrieden.	मैं इसके साथ खुश हूँ।
+I'm hard of hearing.	Ich bin schwerhörig.	मुझे सुनने में दिक्कत है।
+I'm here to see Tom.	Ich bin hier, um Tom zu sehen.	मैं यहाँ टॉम से मिलने आया हूँ।
+I'm hiding from Tom.	Ich verstecke mich vor Tom.	मैं टॉम से छुपा हूँ।

@@ -1,14 +1,4 @@
 
-I'm going to school.	Ich gehe zur Schule.	मैं स्कूल जाता हूँ।
-I'm going to school.	Ich gehe jetzt zur Schule.	मैं अब स्कूल जाता हूं।
-I'm good at cooking.	Ich kann gut kochen.	मैं अच्छी तरह से खाना बना सकता हूं।
-I'm good at singing.	Ich bin gut im Singen.	मैं गाने में अच्छा हूं।
-I'm growing a beard.	Ich lasse mir einen Bart wachsen.	मैंने खुद को दाढ़ी बढ़ाने दिया।
-I'm happy with that.	Ich bin damit zufrieden.	मैं इससे संतुष्ट हूं।
-I'm happy with this.	Ich bin glücklich damit.	मैं इससे खुश हूँ।
-I'm hard of hearing.	Ich bin schwerhörig.	मैं श्रवण बाधित हूं.
-I'm here to see Tom.	Ich bin gekommen, um Tom zu sprechen.	मैं टॉम बोलने आया था।
-I'm hiding from Tom.	Ich verstecke mich vor Tom.	मैं टॉम से छिपा।
 I'm in Boston today.	Ich bin heute in Boston.	मैं आज बोस्टन में हूं।
 I'm in my apartment.	Ich bin in meinem Apartment.	मैं अपने अपार्टमेंट में हूं।
 I'm in my apartment.	Ich bin in meiner Wohnung.	मैं अपने फ्लैट में हूं।
