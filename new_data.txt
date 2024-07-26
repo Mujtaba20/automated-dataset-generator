@@ -22879,3 +22879,11 @@ That sounds stupid.	Das hört sich dumm an.	वह बवकूफी ध्व�
 That surprised Tom.	Das hat Tom überrascht.	उसने टॉम को हैरान कर दिया।
 That was a mistake.	Das war ein Fehler.	वह एक गलती थी।
 That was delicious.	Das war lecker.	वह बहुत ताजगी थी।
+That was different.	Das war verschieden.	वह अलग था।
+That was hilarious.	Das war urkomisch.	वह बेहद हँसी आ गयी।
+That was my finger.	Das war mein Finger.	वह मेरी उंगली थी।
+That was very easy.	Das war sehr einfach.	वह बहुत आसान था।
+That was very good.	Das war sehr gut.	वह बहुत अच्छा था।
+That was very hard.	Das war sehr schwer.	वह बहुत कठिन था।
+That was years ago.	Das war vor Jahren.	वह सालों पहले था।
+That will be funny.	Das wird lustig sein.	वह मजेदार होगा।
