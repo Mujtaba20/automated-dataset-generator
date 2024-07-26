@@ -37994,3 +37994,12 @@ I was born in October.	Ich wurde im Oktober geboren.	मैं अक्टू�
 I was carrying a book.	Ich trug ein Buch.	मैं एक किताब ले रहा था।
 I was certainly lucky.	Ich hatte sicher Glück.	मैं निश्चित रूप से भाग्यशाली था।
 I was counting on you.	Ich hatte auf dich gezählt.	मैं तुम पर भरोसा कर रहा था।
+I was falsely accused.	Ich wurde fälschlicherweise beschuldigt.	मुझपर गलत आरोप लगाया गया था।
+I was filled with joy.	Ich war voller Freude.	मैं खुशी से भरा हुआ था।
+I was happy yesterday.	Ich war gestern glücklich.	मैं कल खुश था।
+I was hardly prepared.	Ich war kaum vorbereitet.	मैं मुश्किल से तैयार था।
+I was in the bathroom.	Ich war im Badezimmer.	मैं बाथरूम में था।
+I was in the hospital.	Ich war im Krankenhaus.	मैं अस्पताल में था।
+I was just devastated.	Ich war einfach niedergeschlagen.	मैं बस तबाह हो गया था।
+I was looking for Tom.	Ich suchte nach Tom.	मैं टॉम की तलाश में था।
+I was looking for you.	Ich suchte nach dir.	मैं तुम्हें ढूंढ रहा था।
