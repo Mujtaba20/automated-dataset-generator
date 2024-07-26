@@ -30281,3 +30281,8 @@ You're always drunk.	Du bist immer betrunken.	तुम हमेशा नश�
 You're always right.	Du liegst immer richtig.	तुम हमेशा सही हो।
 You're always tired.	Du bist immer müde.	तुम हमेशा थके हुए हो।
 You're cantankerous.	Du bist mürrisch.	तुम चिड़चिड़े हो।
+You're confusing me.	Du verwirrst mich.	तुम मुझे भ्रांत कर रहे हो।
+You're contributing.	Du trägst bei.	तुम योगदान दे रहे हैं।
+You're good at that.	Du bist gut darin.	तुम उसमें अच्छे हो।
+You're confusing me. (Different meaning)	Du bringst mich durcheinander.	तुम मुझे ग़लत समझा रहे हो।
+You're contributing. (Different meaning)	Du leistest einen Beitrag.	तुम सहायक हो।

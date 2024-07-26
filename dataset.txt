@@ -1,14 +1,4 @@
 
-You're confusing me.	Du verwirrst mich.	आप मुझे भ्रमित किये।
-You're confusing me.	Ihr verwirrt mich.	तुमने मुझे उलझन में डाला।
-You're confusing me.	Sie verwirren mich.	आप मुझे भ्रमित किये।
-You're contributing.	Sie leisten einen Beitrag.	आप एक योगदान देते हैं।
-You're contributing.	Ihr leistet einen Beitrag.	आप एक योगदान देते हैं।
-You're contributing.	Du leistest einen Beitrag.	आप एक योगदान देते हैं।
-You're contributing.	Du leistest Beiträge.	आप योगदान करते हैं।
-You're contributing.	Ihr leistet Beiträge.	आप योगदान करते हैं।
-You're contributing.	Sie leisten Beiträge.	वे योगदान करते हैं।
-You're good at that.	Du bist gut darin.	आप इसमें अच्छे हैं।
 You're good at this.	Das kannst du aber gut.	लेकिन आप ऐसा अच्छा कर सकते हैं।
 You're grown up now.	Du bist jetzt erwachsen.	अब आप बड़े हो गए हैं।
 You're in no danger.	Du bist nicht in Gefahr.	आप खतरे में नहीं हैं।
