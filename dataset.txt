@@ -1,15 +1,4 @@
 
-You must stay with me.	Du musst bei mir bleiben.	आपको मेरे साथ रहना है।
-You must study harder.	Du musst fleißiger lernen.	आपको अधिक कठिन सीखना होगा।
-You must've lost them.	Du hast sie wohl verloren.	आप शायद इसे खो देते हैं।
-You need not go there.	Du musst da nicht hingehen.	आपको वहां जाने की जरूरत नहीं है।
-You need not go there.	Du musst nicht dorthin gehen.	आपको वहां जाने की जरूरत नहीं है।
-You need not go there.	Du brauchst nicht dorthin zu gehen.	आपको वहां जाने की जरूरत नहीं है।
-You need to apologize.	Du musst dich entschuldigen.	आपको माफी मांगनी होगी।
-You need to apologize.	Sie müssen sich entschuldigen.	आपको माफी मांगनी होगी।
-You need to apologize.	Ihr müsst euch entschuldigen.	आपको माफी मांगनी होगी।
-You need to get ready.	Du musst dich fertig machen.	आपको तैयार होना होगा।
-You need to get ready.	Ihr müsst euch bereit machen.	आपको तैयार होना होगा।
 You need to leave now.	Du musst jetzt gehen.	अब आपको जाना होगा।
 You need to pay first.	Du musst zuerst bezahlen.	आपको पहले भुगतान करना होगा।
 You need to pay first.	Ihr müsst zuerst bezahlen.	आपको पहले भुगतान करना होगा।
