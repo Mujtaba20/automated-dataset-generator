@@ -1,14 +1,4 @@
 
-Is this diamond real?	Ist dieser Diamant echt?	क्या यह हीरा असली है?
-Is this enough money?	Reicht das Geld?	क्या वो काफी है?
-Is this good English?	Ist das gutes Englisch?	क्या वह अच्छी अंग्रेजी है?
-Is this how it works?	So funktioniert das also?	तो यह काम करता है?
-Is this pencil yours?	Ist das dein Bleistift?	क्या यह आपकी पेंसिल है?
-Is this your bicycle?	Ist dies dein Fahrrad?	क्या यह आपकी बाइक है?
-Is this your bicycle?	Ist das hier Ihr Fahrrad?	क्या यह आपकी बाइक यहाँ है?
-Is this your bicycle?	Ist das Ihr Fahrrad?	क्या आपकी बाइक है?
-Is this your bicycle?	Ist das dein Fahrrad?	क्या यह आपकी बाइक है?
-Is this your opinion?	Ist das deine Meinung?	क्या यह आपकी राय है?
 Is this your picture?	Ist das ein Bild von dir?	क्या यह आपकी तस्वीर है?
 Is tomorrow Saturday?	Ist morgen Samstag?	कल बा?
 Is tomorrow Saturday?	Ist morgen Sonnabend?	क्या यह कल शनिवार को है?

@@ -32734,3 +32734,9 @@ Is this Tom's office?	Ist das das Büro von Tom?	क्या यह टॉम �
 Is this a compliment?	Ist das ein Kompliment?	क्या यह प्रशंसा है?
 Is this beef or pork?	Ist das Rindfleisch oder Schweinefleisch?	क्या यह गाय का गोश्त है या सुअर का?
 Is this decaf coffee?	Ist das entkoffeinierter Kaffee?	क्या यह डीकैफ़ कॉफ़ी है?
+Is this diamond real?	Ist dieser Diamant echt?	क्या यह हीरा असली है?
+Is this enough money?	Ist das genug Geld?	क्या यह काफी पैसा है?
+Is this good English?	Ist das gutes Englisch?	क्या यह अच्छी अंग्रेज़ी है?
+Is this how it works?	Funktioniert das so?	क्या यह ऐसे ही काम करता है?
+Is this pencil yours?	Ist dieser Bleistift deiner?	क्या यह पेंसिल तुम्हारी है?
+Is this your bicycle?	Ist das dein Fahrrad?	क्या यह तुम्हारी साइकिल है?
