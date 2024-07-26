@@ -31214,3 +31214,12 @@ He's a tennis player.	Er ist ein Tennisspieler.	वह एक टेनिस �
 He's a very nice boy.	Er ist ein sehr netter Junge.	वह एक बहुत अच्छे लड़का है।
 He's afraid to dance.	Er hat Angst zu tanzen.	उसे नाचने से डर लगता है।
 He's already married.	Er ist bereits verheiratet.	वह पहले से ही शादीशुदा है।
+He's always scowling.	Er runzelt immer die Stirn.	वह हमेशा भद्दा नज़र आता है।
+He's eating an apple.	Er isst einen Apfel.	वह एक सेब खा रहा है।
+He's eight years old.	Er ist acht Jahre alt.	वह आठ साल का है।
+He's extremely happy.	Er ist überaus glücklich.	वह बेहद खुश है।
+He's got a white cat.	Er hat eine weiße Katze.	उसके पास एक सफेद बिल्ली है।
+He's got lung cancer.	Er hat Lungenkrebs.	उसे फेफड़ों कैंसर है।
+He's greedy and lazy.	Er ist gierig und faul.	वह लालची और सुस्त है।
+He's in grave danger.	Er ist in großer Gefahr.	वह जीवन और मौत के बीच है।
+He's in the hospital.	Er ist im Krankenhaus.	वह अस्पताल में है।

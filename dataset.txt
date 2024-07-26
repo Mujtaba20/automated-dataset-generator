@@ -1,14 +1,4 @@
 
-He's always scowling.	Er macht immer so ein böses Gesicht.	वह हमेशा इतना बुरा चेहरा बनाता है।
-He's always scowling.	Er schaut immer böse drein.	वह हमेशा बुरा लगता है।
-He's eating an apple.	Er isst einen Apfel.	उसने सेब खाया।
-He's eight years old.	Er ist acht.	वह आठ है।
-He's extremely happy.	Er ist über die Maßen glücklich.	वह आयामों के बारे में खुश है।
-He's got a white cat.	Er hat eine weiße Katze.	उसके पास एक सफेद बिल्ली है।
-He's got lung cancer.	Er hat Lungenkrebs.	उसे फेफड़े का कैंसर है।
-He's greedy and lazy.	Er ist gierig und faul.	वह लालची और आलसी है।
-He's in grave danger.	Er befindet sich in großer Gefahr.	यह बहुत खतरे में है।
-He's in the hospital.	Er ist im Krankenhaus.	वह अस्पताल में है।
 He's just an amateur.	Er ist nur ein Amateur.	वह सिर्फ एक शौकिया है।
 He's mad at everyone.	Er ist auf alle wütend.	वह सभी से नाराज है।
 He's missed the boat.	Der Zug ist abgefahren.	ट्रेन छोड़ दी।
