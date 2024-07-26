@@ -24290,3 +24290,7 @@ We have three boys.	Wir haben drei Jungs.	हमें तीन लड़के
 We have three dogs.	Wir haben drei Hunde.	हमारे पास तीन कुत्ते हैं।
 We have three kids.	Wir haben drei Kinder.	हमारे पास तीन बच्चे हैं।
 We have three sons.	Wir haben drei Söhne.	हमारे पास तीन बेटे हैं।
+We have to act now.	Wir müssen jetzt handeln.	हमें अब काम करना होगा।
+We have to do that.	Das müssen wir tun.	हमें वह करना होगा।
+We have to do this.	Das müssen wir tun.	हमें यह करना होगा।
+We have to stop it.	Wir müssen damit aufhören.	हमें इसे बंद करना होगा।
