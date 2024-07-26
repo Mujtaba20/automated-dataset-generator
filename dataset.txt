@@ -1,15 +1,4 @@
 
-This meat has gone bad.	Das Fleisch ist verdorben.	मांस खराब हो जाता है।
-This milk has gone bad.	Die Milch ist schlecht geworden.	दूध खराब हो गया है।
-This milk smells funny.	Diese Milch riecht seltsam.	यह दूध अजीब खुशबू आ रही है।
-This milk tastes funny.	Diese Milch schmeckt komisch.	इस दूध का स्वाद अजीब है।
-This movie is terrible.	Dieser Film ist schrecklich.	यह फिल्म भयानक है।
-This must be the place.	Hier muss es sein.	यह यहाँ होना चाहिए।
-This newspaper is free.	Diese Zeitung ist kostenlos.	यह अखबार स्वतंत्र है।
-This newspaper is free.	Das ist eine kostenlose Zeitung.	यह एक मुफ्त अखबार है।
-This no longer matters.	Das spielt keine Rolle mehr.	इससे कोई फर्क नहीं पड़ता।
-This noise is annoying.	Dieser Lärm stört.	यह शोर परेशान करता है।
-This noise is annoying.	Dieser Lärm ist nervig.	यह शोर कष्टप्रद है।
 This path is dangerous.	Dieser Weg ist gefährlich.	यह रास्ता खतरनाक है।
 This plan has no flaws.	Dieser Plan ist fehlerlos.	यह योजना निर्दोष है।
 This price is too high.	Der Preis hier ist zu hoch.	यहाँ कीमत बहुत अधिक है।
