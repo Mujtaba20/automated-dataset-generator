@@ -24756,3 +24756,9 @@ Why are you crying?	Warum weinst du?	तुम क्यों रो रहे 
 Why are you scared?	Warum hast du Angst?	तुम क्यों डर रहे हो?
 Why are you so mad?	Warum bist du so wütend?	तुम इतने गुस्से में क्यों हो?
 Why are you so sad?	Warum bist du so traurig?	तुम इतने उदास क्यों हो?
+Why can't Tom come?	Warum kann Tom nicht kommen?	टॉम क्यों नहीं आ सकते?
+Why can't you come?	Warum kannst du nicht kommen?	तुम क्यों नहीं आ सकते?
+Why did you buy it?	Warum hast du es gekauft?	तुमने यह क्यों खरीदा?
+Why didn't you eat?	Warum hast du nicht gegessen?	तुमने क्यों नहीं खाया?
+Why do I even care?	Warum kümmere ich mich überhaupt?	मुझे इसकी भी परवाह क्यों है?
+Why do people kiss?	Warum küssen Menschen?	लोग क्यों चुंबन करते हैं?
