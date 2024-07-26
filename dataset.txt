@@ -1,14 +1,4 @@
 
-Tom needs new shoes.	Tom braucht neue Schuhe.	टॉम को नए जूते चाहिए।
-Tom needs some cash.	Tom braucht Bares.	टॉम को नकद चाहिए।
-Tom needs some rest.	Tom muss sich etwas ausruhen.	टॉम को आराम करना है।
-Tom needs something.	Tom braucht etwas.	टॉम को कुछ चाहिए।
-Tom needs something.	Tom benötigt etwas.	टॉम को कुछ चाहिए।
-Tom needs the money.	Tom braucht das Geld.	टॉम को पैसे की जरूरत है।
-Tom needs your help.	Tom braucht deine Hilfe.	टॉम को आपकी मदद की जरूरत है।
-Tom needs your help.	Tom braucht Ihre Hilfe.	टॉम को उसकी मदद की जरूरत है।
-Tom needs your love.	Tom braucht eure Liebe.	टॉम को आपके प्यार की जरूरत है।
-Tom needs your love.	Tom braucht deine Liebe.	टॉम को आपके प्यार की जरूरत है।
 Tom never asked why.	Tom hat nie gefragt, warum.	टॉम ने कभी नहीं पूछा कि क्यों।
 Tom never came back.	Tom kehrte nie zurück.	टॉम कभी नहीं लौटा।
 Tom never came home.	Tom kam nie nach Hause.	टॉम कभी घर नहीं आया।

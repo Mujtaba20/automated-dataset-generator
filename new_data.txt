@@ -29154,3 +29154,10 @@ Tom moved to Europe.	Tom ist nach Europa gezogen.	टॉम यूरोप च�
 Tom must've escaped.	Tom muss entkommen sein.	टॉम को भाग जाना चाहिए था।
 Tom needed a hammer.	Tom brauchte einen Hammer.	टॉम को एक हथौड़ा चाहिए था।
 Tom needs a haircut.	Tom braucht einen Haarschnitt.	टॉम को बाल कटवाने की जरूरत है।
+Tom needs new shoes.	Tom braucht neue Schuhe.	टॉम को नए जूते चाहिए।
+Tom needs some cash.	Tom braucht etwas Bargeld.	टॉम को कुछ नकदी चाहिए।
+Tom needs some rest.	Tom braucht etwas Ruhe.	टॉम को थोड़ी आराम चाहिए।
+Tom needs something.	Tom braucht etwas.	टॉम को कुछ चाहिए।
+Tom needs the money.	Tom braucht das Geld.	टॉम को पैसे चाहिए।
+Tom needs your help.	Tom braucht deine Hilfe.	टॉम को तुम्हारी मदद चाहिए।
+Tom needs your love.	Tom braucht deine Liebe.	टॉम को तुम्हारा प्यार चाहिए।
