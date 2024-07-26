@@ -1,15 +1,4 @@
 
-You need to leave now.	Du musst jetzt gehen.	अब आपको जाना होगा।
-You need to pay first.	Du musst zuerst bezahlen.	आपको पहले भुगतान करना होगा।
-You need to pay first.	Ihr müsst zuerst bezahlen.	आपको पहले भुगतान करना होगा।
-You need to pay first.	Sie müssen zuerst bezahlen.	आपको पहले भुगतान करना होगा।
-You need to pay first.	Man muss zuerst bezahlen.	आपको पहले भुगतान करना होगा।
-You never believed me.	Du hast mir nie geglaubt.	आपने मुझे कभी विश्वास नहीं किया।
-You never believed me.	Ihr habt mir nie geglaubt.	आपने मुझे कभी विश्वास नहीं किया।
-You never believed me.	Sie haben mir nie geglaubt.	आपने मुझे कभी विश्वास नहीं किया।
-You never called back.	Du hast nie zurückgerufen.	आपने कभी वापस नहीं बुलाया।
-You never called back.	Sie haben nie zurückgerufen.	आपने कभी वापस नहीं बुलाया।
-You never called back.	Ihr habt nie zurückgerufen.	आपने कभी वापस नहीं बुलाया।
 You ought to trust me.	Du solltest mir vertrauen.	आपको मुझ पर भरोसा करना चाहिए।
 You ought to trust me.	Sie sollten mir vertrauen.	आपको मुझ पर भरोसा करना चाहिए।
 You punch like a girl.	Du schlägst zu wie ein Mädchen.	आप एक लड़की की तरह हड़ताल करते हैं।
