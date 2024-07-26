@@ -31979,3 +31979,13 @@ I miss Tom's cooking.	Ich vermisse Toms Kochkünste.	मुझे टॉम क�
 I miss you very much.	Ich vermisse dich sehr.	मुझे तुम्हारी बहुत याद आती है।
 I miss you very much. (Different meaning)	Mir fehltst du sehr.	मुझे तुम्हें बहुत याद कर रहा है।
 I missed you and Tom.	Ich habe dich und Tom vermisst.	मुझे तुम्हारी और टॉम की याद आई।
+I missed you so much.	Ich habe dich sehr vermisst.	मुझे तुम्हारी बहुत याद आई।
+I must be going deaf.	Ich muss taub werden.	मुझे बहरा होना चाहिए।
+I must buy some milk.	Ich muss etwas Milch kaufen.	मुझे कुछ दूध खरीदना चाहिए।
+I must eat something.	Ich muss etwas essen.	मुझे कुछ खाना चाहिए।
+I must go right away.	Ich muss sofort gehen.	मुझे तुरंत जाना चाहिए।
+I must let off steam.	Ich muss Dampf ablassen.	मुझे गुस्सा निकालना चाहिए।
+I must say something.	Ich muss etwas sagen.	मुझे कुछ कहना है।
+I must use this bike.	Ich muss dieses Fahrrad benutzen.	मुझे इस साइकिल का उपयोग करना चाहिए।
+I nearly blacked out.	Ich bin fast ohnmächtig geworden.	मैं लगभग बेहोश हो गया था।
+I need a bigger bowl.	Ich brauche eine größere Schüssel.	मुझे एक बड़ी कटोरी चाहिए।
