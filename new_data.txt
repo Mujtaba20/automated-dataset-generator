@@ -27044,3 +27044,11 @@ I'm happy with this.	Ich bin mit diesem zufrieden.	मैं इसके सा
 I'm hard of hearing.	Ich bin schwerhörig.	मुझे सुनने में दिक्कत है।
 I'm here to see Tom.	Ich bin hier, um Tom zu sehen.	मैं यहाँ टॉम से मिलने आया हूँ।
 I'm hiding from Tom.	Ich verstecke mich vor Tom.	मैं टॉम से छुपा हूँ।
+I'm in Boston today.	Ich bin heute in Boston.	मैं आज बोस्टन में हूँ।
+I'm in my apartment.	Ich bin in meiner Wohnung.	मैं अपने अपार्टमेंट में हूँ।
+I'm in the hospital.	Ich bin im Krankenhaus.	मैं अस्पताल में हूँ।
+I'm indebted to you.	Ich bin dir dankbar.	मैं आपके ऋणी हूँ।
+I'm just about done.	Ich bin gleich fertig.	मैं अब करने वाला हूँ।
+I'm learning French.	Ich lerne Französisch.	मैं फ्रेंच सीख रहा हूँ।
+I'm living here now.	Ich lebe jetzt hier.	मैं अब यहाँ रह रहा हूँ।
+I'm living my dream.	Ich lebe meinen Traum.	मैं अपना सपना जी रहा हूँ।

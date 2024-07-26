@@ -1,14 +1,4 @@
 
-I'm in Boston today.	Ich bin heute in Boston.	मैं आज बोस्टन में हूं।
-I'm in my apartment.	Ich bin in meinem Apartment.	मैं अपने अपार्टमेंट में हूं।
-I'm in my apartment.	Ich bin in meiner Wohnung.	मैं अपने फ्लैट में हूं।
-I'm in the hospital.	Ich bin im Krankenhaus.	मैं अस्पताल में हूँ।
-I'm indebted to you.	Ich stehe in deiner Schuld.	मैं तुम्हारे अपराध में हूँ।
-I'm indebted to you.	Ich bin dir zu Dank verpflichtet.	मैं आपको धन्यवाद देने के लिए बाध्य हूं।
-I'm just about done.	Ich bin fast fertig.	मैं लगभग हो गया।
-I'm learning French.	Ich lerne Französisch.	मै फ्रेंच सीख रहा हूँ।
-I'm living here now.	Ich bin jetzt hier zu Hause.	मैं अब घर पर हूँ।
-I'm living my dream.	Ich lebe meinen Traum.	मैं अपना सपना जीता हूं।
 I'm looking for Tom.	Ich suche Tom.	मैं टॉम की तलाश में हूं।
 I'm looking for you.	Ich suche dich.	में तुम्हे ढूंढ रहा था।
 I'm looking for you.	Ich suche euch.	में तुम्हे ढूंढ रहा था।
