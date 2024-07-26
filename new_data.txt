@@ -25196,3 +25196,12 @@ Can I go to bed now?	Kann ich jetzt ins Bett gehen?	क्या मैं अ�
 Can I have a cookie?	Kann ich einen Keks haben?	क्या मुझे एक कुकी मिल सकती है?
 Can I have a moment?	Kann ich einen Moment haben?	क्या मुझे एक क्षण मिल सकता है?
 Can I have a moment? (different meaning)	Kann ich kurz unterbrechen?	क्या मैं एक क्षण के लिए बोल सकता हूँ?
+Can I say something?	Kann ich etwas sagen?	क्या मैं कुछ कह सकता हूँ?
+Can I see you again?	Kann ich dich wiedersehen?	क्या मैं तुम्हें फिर से देख सकता हूँ?
+Can I use this bike?	Kann ich dieses Fahrrad benutzen?	क्या मैं यह साइकिल इस्तेमाल कर सकता हूँ?
+Can I wash my hands?	Kann ich mir die Hände waschen?	क्या मैं अपने हाथ धो सकता हूँ?
+Can anybody help me?	Kann mir jemand helfen?	क्या कोई मेरी मदद कर सकता है?
+Can he speak French?	Kann er Französisch sprechen?	क्या वह फ्रेंच बोल सकता है?
+Can someone help me?	Kann jemand mir helfen?	क्या कोई मुझे मदद कर सकता है?
+Can we believe that?	Können wir das glauben?	क्या हम उस पर विश्वास कर सकते हैं?
+Can we believe them?	Können wir ihnen glauben?	क्या हम उन पर विश्वास कर सकते हैं?

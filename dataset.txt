@@ -1,14 +1,4 @@
 
-Can I say something?	Darf ich etwas sagen?	क्या मैं कुछ कह सकता हूँ?
-Can I say something?	Kann ich etwas sagen?	क्या मैं कुछ कह सकता हूँ?
-Can I see you again?	Kann ich dich nochmal sehen?	क्या मैं आपसे फिर मिल सकता हूं?
-Can I use this bike?	Kann ich das Fahrrad benutzen?	क्या मैं बाइक का उपयोग कर सकता हूं?
-Can I wash my hands?	Kann ich mir die Hände waschen?	क्या मैं अपने हाथ धो सकता हूं?
-Can anybody help me?	Kann mir jemand helfen?	क्या मेरी कोई सहायता कर सकता है?
-Can he speak French?	Kann er Französisch sprechen?	क्या वह फ्रेंच बोल सकता है?
-Can someone help me?	Kann mir jemand helfen?	क्या मेरी कोई सहायता कर सकता है?
-Can we believe that?	Können wir das glauben?	क्या हम ऐसा विश्वास कर सकते हैं?
-Can we believe them?	Können wir ihnen glauben?	क्या हम आपको विश्वास कर सकते हैं?
 Can we count on you?	Können wir auf dich zählen?	क्या हम आप पर भरोसा कर सकते हैं?
 Can we count on you?	Können wir auf euch zählen?	क्या हम आप पर भरोसा कर सकते हैं?
 Can we count on you?	Können wir auf Sie zählen?	क्या हम आप पर भरोसा कर सकते हैं?
