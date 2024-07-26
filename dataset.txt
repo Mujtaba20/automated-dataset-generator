@@ -1,14 +1,4 @@
 
-The ground seems wet.	Der Boden scheint nass zu sein.	फर्श गीला लगता है।
-The gun isn't loaded.	Die Waffe ist nicht geladen.	हथियार लोड नहीं है।
-The horse is jumping.	Das Pferd springt.	घोड़ा कूदता है।
-The horse is thirsty.	Das Pferd hat Durst.	घोड़ा प्यासा है।
-The house is haunted.	Im Haus spukt es.	यह घर में चर्क करता है।
-The house is haunted.	Es spukt in dem Haus.	यह घर में प्रेतवाधित।
-The house is haunted.	In dem Haus spukt es.	घर में यह चुभता है।
-The house is haunted.	Das Haus wird von Geistern heimgesucht.	घर भूतों से प्रेतवाधित है।
-The house is on fire!	Das Haus steht in Flammen!	घर में आग लगी है!
-The house is on fire.	Das Haus brennt.	घर जल रहा है।
 The house was silent.	Das Haus war still.	घर शांत था।
 The house was silent.	Es war still im Haus.	यह घर में शांत था।
 The ink is still wet.	Die Tinte ist noch feucht.	स्याही अभी भी नम है।

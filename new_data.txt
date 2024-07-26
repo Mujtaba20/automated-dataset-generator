@@ -33649,3 +33649,10 @@ The floor feels cold.	Der Boden fühlt sich kalt an.	मनोहर में �
 The food has arrived.	Das Essen ist angekommen.	भोजन पहुंच गया है।
 The garage was empty.	Die Garage war leer.	गेराज खाली था।
 The gate is open now.	Das Tor ist jetzt offen.	द्वार अब खुला है।
+The ground seems wet.	Der Boden scheint nass zu sein.	जमीन गीली लगती है।
+The gun isn't loaded.	Die Waffe ist nicht geladen.	बंदूक लोड नहीं है।
+The horse is jumping.	Das Pferd springt.	घोड़ा कूद रहा है।
+The horse is thirsty.	Das Pferd ist durstig.	घोड़ा प्यासा है।
+The house is haunted.	Das Haus ist von Geistern besessen.	घर भूतों से भरा हुआ है।
+The house is on fire!	Das Haus brennt!	घर में आग लगी हुई है!
+The house is on fire.	Das Haus steht in Flammen.	घर में आग लगी हुई है।
