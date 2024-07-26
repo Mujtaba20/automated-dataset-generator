@@ -37233,3 +37233,11 @@ I didn't kill anybody.	Ich habe niemanden getötet.	मैंने किसी
 I didn't like it much.	Es hat mir nicht sehr gefallen.	मुझे यह ज्यादा पसंद नहीं था।
 I didn't mean to yell.	Ich wollte nicht schreien.	मेरा मुखर शब्द नहीं था।
 I didn't put it there.	Ich habe es nicht dort hingestellt.	मैंने उसे वहां नहीं रखा।
+I didn't say anything.	Ich habe nichts gesagt.	मैंने कुछ नहीं कहा।
+I didn't see anything.	Ich habe nichts gesehen.	मैंने कुछ नहीं देखा।
+I didn't shoot anyone.	Ich habe niemanden erschossen.	मैंने किसी को भी नहीं गोली मारी।
+I didn't sleep a wink.	Ich habe kein Auge zugemacht.	मैंने एक भी पल नहीं सोया।
+I didn't sleep enough.	Ich habe nicht genug geschlafen.	मैंने पर्याप्त नहीं सोया।
+I didn't strangle Tom.	Ich habe Tom nicht erwürgt.	मैंने टॉम को नहीं घसीटा।
+I didn't study at all.	Ich habe überhaupt nicht studiert.	मैंने बिलकुल भी पढ़ाई नहीं की।
+I didn't want to brag.	Ich wollte nicht angeben.	मुझे डिक्लाम नहीं करना था।

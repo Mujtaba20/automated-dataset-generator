@@ -1,14 +1,4 @@
 
-I didn't say anything.	Ich sagte nichts.	मैंने कुछ भी नहीं कहा।
-I didn't say anything.	Ich habe nichts gesagt.	मैंने कुछ भी नहीं कहा।
-I didn't see anything.	Ich habe nichts gesehen.	मैंने कुछ भी नहीं देखा है.
-I didn't shoot anyone.	Ich habe niemanden angeschossen.	मैंने किसी को गोली नहीं मारी।
-I didn't sleep a wink.	Ich habe kein Auge zugemacht.	मैंने एक आंख बंद नहीं की।
-I didn't sleep enough.	Ich habe nicht ausreichend geschlafen.	मुझे पर्याप्त नींद नहीं आई।
-I didn't strangle Tom.	Ich habe Tom nicht erwürgt.	मैंने टॉम का गला नहीं लगाया।
-I didn't study at all.	Ich habe kein bisschen gelernt.	मैंने थोड़ा नहीं सीखा।
-I didn't study at all.	Ich habe überhaupt nicht gelernt.	मैंने बिल्कुल नहीं सीखा।
-I didn't want to brag.	Ich wollte nicht angeben.	मैं दिखाना नहीं चाहता था।
 I didn't want to come.	Ich wollte nicht kommen.	मैं नहीं आना चाहता था।
 I didn't want to cook.	Ich wollte nicht kochen.	मैं खाना बनाना नहीं चाहता था।
 I didn't want to lose.	Ich wollte nicht verlieren.	मैं खोना नहीं चाहता था।
