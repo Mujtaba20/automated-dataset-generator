@@ -1,14 +1,4 @@
 
-He doesn't charge much.	Er verlangt nicht viel Geld.	वह बहुत पैसा नहीं मांगता।
-He doesn't like coffee.	Er mag keinen Kaffee.	उसे कॉफी पसंद नहीं है।
-He doesn't mince words.	Er nimmt kein Blatt vor den Mund.	वह अपने मुंह से एक पत्ती नहीं लेता है।
-He dressed like a girl.	Er kleidete sich wie ein Mädchen.	उसने एक लड़की की तरह कपड़े पहने।
-He dressed like a girl.	Er zog sich wie ein Mädchen an.	उसने एक लड़की की तरह रखा।
-He dyed his hair black.	Er färbte sein Haar schwarz.	उसने अपने बालों को काले रंग में रंग दिया।
-He dyed his hair black.	Er färbte sich die Haare schwarz.	उसने अपने बाल काले कर दिए।
-He earns a good salary.	Er verdient gutes Geld.	वह अच्छा पैसा कमाता है।
-He earns a good salary.	Er hat ein gutes Einkommen.	उसकी अच्छी आय है।
-He earns a good salary.	Er bekommt einen guten Lohn.	उसे अच्छी मजदूरी मिलती है।
 He escaped from prison.	Er ist aus dem Gefängnis entkommen.	वह जेल से भाग गया।
 He fell into the ditch.	Er ist in den Graben gefallen.	वह खाई में गिर गया।
 He fell into the river.	Er fiel in den Fluss.	वह नदी में गिर गया।
