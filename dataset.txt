@@ -1,14 +1,4 @@
 
-These are Tom's gloves.	Das sind Toms Handschuhe.	ये टॉम के दस्ताने हैं।
-These are for you, Tom.	Die sind für dich, Tom.	वे आपके लिए हैं, टॉम।
-These are marshmallows.	Das hier ist Mäusespeck.	यह माउस है।
-These are my daughters.	Das sind meine Töchter.	ये मेरी बेटियां हैं।
-These are the new ones.	Das hier sind die Neuen.	ये नए हैं।
-These bananas went bad.	Diese Bananen sind schlecht geworden.	ये केले खराब हो गए हैं।
-These claims are false.	Diese Behauptungen sind falsch.	ये दावे गलत हैं।
-These clothes suit you.	Diese Kleidung steht dir gut.	यह कपड़े आपको अच्छी तरह से सूट करते हैं।
-These glasses are cool.	Diese Brille ist cool.	ये गिलास शांत हैं।
-These gloves are Tom's.	Diese Handschuhe gehören Tom.	ये दस्ताने टॉम के हैं।
 These horses are Tom's.	Diese Pferde gehören Tom.	ये घोड़े टॉम के हैं।
 These horses are Tom's.	Das sind Toms Pferde.	ये टॉम के घोड़े हैं।
 These lemons are fresh.	Diese Zitronen sind frisch.	ये नींबू ताजा हैं।
