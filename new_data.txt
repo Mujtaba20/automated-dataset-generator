@@ -39405,3 +39405,13 @@ That's what you think.	Das ist, was du denkst.	यह वह है जिसे
 That's where we'll go.	Dorthin werden wir gehen.	वही है जहाँ हम जाएँगे।
 That's why I like Tom.	Das ist der Grund, warum ich Tom mag.	यही कारण है कि मुझे टॉम पसंद है।
 That's why I like you.	Das ist der Grund, warum ich dich mag.	इसीलिए मुझे तुम्हें पसंद है।
+That's why I love you.	Deswegen liebe ich dich.	इसी वजह से मैं तुम्हें पसंद करता हूँ।
+That's why I was late.	Deswegen war ich spät.	इसलिए मैं देर से पहुंचा।
+That's why we're here.	Deswegen sind wir hier.	इसीलिए हम यहाँ हैं।
+That's why you pay us.	Deshalb bezahlst du uns.	इसी कारण तुम हमें पैसे देते हो।
+That's your own fault.	Das ist dein eigenes Verschulden.	यह तुम्हारी खुद की गलती है।
+The Jacksons are here.	Die Jacksons sind hier.	जैक्सन्स यहाँ हैं।
+The airplane is ready.	Das Flugzeug ist bereit.	हवाई जहाज तैयार है।
+The airport is closed.	Der Flughafen ist geschlossen.	हवाई अड्डा बंद है।
+The antelope ran away.	Die Antilope ist weggelaufen.	उदयू भाग गया।
+The baby cried loudly.	Das Baby weinte laut.	शिशु जोर-शोर से रो रहा था।
