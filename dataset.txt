@@ -1,15 +1,4 @@
 
-You've misunderstood.	Das hast du missverstanden.	आपने गलत समझा।
-You've never hurt me.	Du hast mir nie wehgetan.	आपने मुझे कभी चोट नहीं पहुंचाई।
-You've put on weight.	Sie haben zugenommen.	आप बढ़ गए हैं।
-You've put on weight.	Ihr habt zugenommen.	आप बढ़ गए हैं।
-You've put on weight.	Du hast zugenommen.	आप वजन डालते हैं।
-Your answer is right.	Deine Antwort ist korrekt.	आपका उत्तर सही है।
-Your answer is wrong.	Deine Antwort ist falsch.	आपका जवाब गलत है।
-Your answer is wrong.	Ihre Antwort ist falsch.	आपका जवाब गलत है।
-Your answer is wrong.	Eure Antwort ist falsch.	आपका जवाब गलत है।
-Your bag looks heavy.	Deine Tasche sieht schwer aus.	आपका बैग मुश्किल लग रहा है।
-Your bag looks heavy.	Ihre Tasche sieht schwer aus.	आपका बैग मुश्किल लग रहा है।
 Your dog bit my hand.	Dein Hund biss mich in die Hand.	आपका कुत्ता मुझे थोड़ा सा।
 Your dog bit my hand.	Dein Hund hat mich in die Hand gebissen.	आपके कुत्ते ने मुझे हाथ में काट लिया।
 Your dog is very big.	Dein Hund ist sehr groß.	आपका कुत्ता बहुत बड़ा है।

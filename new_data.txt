@@ -35989,3 +35989,9 @@ You've gotten better. - 2	Du hast dich verbessert.	तुम्ने सुध�
 You've gotten better. - 3	Es geht dir besser.	तुम्हारा हाल बेहतर हो गया है।
 You've hurt me a lot.	Du hast mich sehr verletzt.	तुमने मुझे बहुत चोट पहुँचाई है।
 You've hurt me a lot. - 2	Du hast mir sehr wehgetan.	तुमने मेरी बहुत हो गई है।
+You've misunderstood.	Du hast es falsch verstanden.	तुमने गलत समझ लिया है।
+You've never hurt me.	Du hast mich nie verletzt.	तुमने कभी मुझे चोट नहीं पहुंचाई।
+You've put on weight.	Du hast zugelegt.	तुमने मोटापा बढ़ा लिया है।
+Your answer is right.	Deine Antwort ist richtig.	तुम्हारा जवाब सही है।
+Your answer is wrong.	Deine Antwort ist falsch.	तुम्हारा जवाब गलत है।
+Your bag looks heavy.	Deine Tasche sieht schwer aus.	तुम्हारा बैग भारी लग रहा है।
