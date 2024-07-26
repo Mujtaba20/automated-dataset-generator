@@ -26139,3 +26139,11 @@ I cleared the table.	Ich habe den Tisch abgeräumt.	मैंने मेज �
 I collect postcards.	Ich sammle Postkarten.	मैं पोस्टकार्ड एकत्र करता हूँ।
 I come home at 2:30.	Ich komme um 2:30 Uhr nach Hause.	मैं 2:30 बजे घर आता हूँ।
 I completely forgot.	Ich habe vollständig vergessen.	मैं पूरी तरह भूल गया।
+I continued digging.	Ich habe weiter gegraben.	मैंने खुदाई जारी रखी।
+I continued reading.	Ich las weiter.	मैंने पढ़ना जारी रखा।
+I continued singing.	Ich sang weiter.	मैंने गाना जारी रखा।
+I continued working.	Ich arbeitete weiter.	मैंने काम जारी रखा।
+I cooked him dinner.	Ich habe ihm Abendessen gekocht.	मैंने उसके लिए रात का खाना पकाया।
+I could barely move.	Ich konnte kaum bewegen.	मैं मुश्किल से हिल सका।
+I could do it again.	Ich könnte es wieder tun.	मैं इसे फिर से कर सकता हूँ।
+I could eat a horse.	Ich könnte ein Pferd essen.	मैं एक घोड़ा खा सकता।
