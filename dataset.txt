@@ -1,15 +1,4 @@
 
-You can't blame him.	Du kannst ihm keinen Vorwurf machen.	आप उसे दोष नहीं दे सकते।
-You can't blame him.	Ihr könnt ihm keinen Vorwurf machen.	आप उसे दोष नहीं दे सकते।
-You can't blame him.	Sie können ihm keinen Vorwurf machen.	आप उसे दोष नहीं दे सकते।
-You can't defeat me.	Du kannst mich nicht bezwingen.	आप मुझे जीत नहीं सकते।
-You can't defeat me.	Du kannst nicht gegen mich gewinnen.	आप मेरे खिलाफ नहीं जीत सकते।
-You can't deny that.	Das kannst du nicht abstreiten.	आप इससे इनकार नहीं कर सकते।
-You can't deny that.	Das können Sie nicht abstreiten.	आप इससे इनकार नहीं कर सकते।
-You can't deny that.	Das könnt ihr nicht abstreiten.	आप इससे इनकार नहीं कर सकते।
-You can't handle it.	Du kannst damit nicht umgehen.	आप इसे संभाल नहीं सकते।
-You can't have both.	Du kannst nicht beides haben.	आपके पास दोनों नहीं हो सकते।
-You can't have both.	Du kannst nicht beide haben.	आपके पास दोनों नहीं हो सकते।
 You can't have that.	Du kannst das nicht haben.	आपके पास ऐसा नहीं हो सकता।
 You can't have this.	Du kannst das hier nicht haben.	आप यहाँ नहीं हो सकते।
 You can't help them.	Du kannst ihnen nicht helfen.	आप उनकी मदद नहीं कर सकते।

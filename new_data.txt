@@ -30124,3 +30124,8 @@ You can sit with me.	Du kannst neben mir sitzen.	आप मेरे साथ �
 You can take a taxi.	Du kannst ein Taxi nehmen.	आप टैक्सी ले सकते हैं।
 You can take a taxi. - Different Meaning	Sie können ein Taxi rufen.	आप टैक्सी बुला सकते हैं।
 You can take a taxi. - Another Different Meaning	Du darfst ein Taxi nehmen.	आप एक टैक्सी ले सकते हैं।
+You can't blame him.	Es ist nicht seine Schuld.	तुम उसे दोषी नहीं ठहरा सकते।
+You can't defeat me.	Du kannst mich nicht besiegen.	तुम मुझे हरा नहीं सकते।
+You can't deny that.	Du kannst das nicht leugnen.	तुम उसे नकार नहीं सकते।
+You can't handle it.	Du kannst damit nicht umgehen.	तुम इसका सामना नहीं कर सकते।
+You can't have both.	Du kannst beides nicht haben.	तुम दोनों को नहीं पा सकते।
