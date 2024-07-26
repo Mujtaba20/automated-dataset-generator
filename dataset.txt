@@ -1,16 +1,4 @@
 
-I don't always do that.	Ich tue das nicht immer .	मैं हमेशा ऐसा नहीं करता।
-I don't always do this.	Ich mach das nicht immer.	मैं हमेशा ऐसा नहीं करता।
-I don't believe in God.	Ich glaube nicht an Gott.	मैं भगवान में विश्वास नहीं करता।
-I don't care about Tom.	Tom ist mir egal.	मुझे परवाह नहीं है।
-I don't care who comes.	Mir ist egal, wer kommt.	मुझे परवाह नहीं है कि कौन आता है।
-I don't cook every day.	Ich koche nicht jeden Tag.	मैं हर दिन खाना नहीं बनाता।
-I don't cook very well.	Ich kann nicht besonders gut kochen.	मैं बहुत अच्छी तरह से खाना नहीं बना सकता।
-I don't cry very often.	Ich weine nicht allzu oft.	मैं बहुत बार नहीं रोता।
-I don't feel safe here.	Ich fühle mich hier nicht sicher.	मैं यहां सुरक्षित महसूस नहीं करता।
-I don't get you at all.	Ich verstehe dich überhaupt nicht.	मैं आपको बिल्कुल नहीं समझता।
-I don't get you at all.	Ich verstehe euch überhaupt nicht.	मैं आपको बिल्कुल नहीं समझता।
-I don't get you at all.	Ich verstehe Sie überhaupt nicht.	मैं उन्हें बिल्कुल नहीं समझता।
 I don't have a brother.	Ich habe keinen Bruder.	मेरा कोई भाई नहीं है।
 I don't have a car yet.	Ich habe noch kein Auto.	मेरे पास अभी तक कार नहीं है।
 I don't have a job now.	Ich habe jetzt keine Arbeit.	मेरे पास अब कोई काम नहीं है।
