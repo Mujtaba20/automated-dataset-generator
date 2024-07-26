@@ -38583,3 +38583,13 @@ It won't happen to me.	Es wird mir nicht passieren.	यह मेरे सा�
 It won't stop raining.	Es wird weiterregnen.	बारिश नहीं ठहरेगी।
 It won't take so long.	Es wird nicht so lange dauern.	इतने समय तक नहीं लेगा।
 It would be confusing.	Es wäre verwirrend.	यह भ्रांति पैदा करने वाली बात होगी।
+It'll be easy for you.	Es wird für dich einfach sein.	यह तुम्हारे लिए आसान होगा।
+It'll definitely rain.	Es wird auf jeden Fall regnen.	यह निश्चित रूप से बारिश होगी।
+It'll get warmer soon.	Es wird bald wärmer werden.	यह जल्द ही गरम हो जाएगा।
+It'll soon be October.	Es wird bald Oktober sein.	जल्द ही अक्टूबर हो जाएगा।
+It's 2:30 by my watch.	Es ist 2:30 Uhr nach meiner Uhr.	मेरी घड़ी के अनुसार दो बजे तीस मिनट हुए हैं।
+It's Monday, you know.	Es ist Montag, weißt du.	यह सोमवार है, तुम्हें पता है।
+It's a bad investment.	Es ist eine schlechte Investition.	यह एक खराब निवेश है।
+It's a beautiful flag.	Es ist eine schöne Flagge.	यह एक खूबसूरत झंडा है।
+It's a beautiful song.	Es ist ein schönes Lied.	यह एक सुंदर गाना है।
+It's a common mistake.	Es ist ein häufiger Fehler.	यह एक सामान्य गलती है।
