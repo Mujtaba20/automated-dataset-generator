@@ -1,14 +1,4 @@
 
-Tom and Mary are out.	Tom und Maria sind draußen.	टॉम और मारिया बाहर हैं।
-Tom and Mary are out.	Tom und Maria sind ausgegangen.	टॉम और मारिया ने छोड़ दिया।
-Tom and Mary laughed.	Tom und Maria haben gelacht.	टॉम और मारिया हँसे।
-Tom and Mary laughed.	Tom und Maria lachten.	टॉम और मारिया हँसे।
-Tom answered quickly.	Tom antwortete rasch.	टॉम ने जल्दी से जवाब दिया।
-Tom answered quickly.	Tom antwortete schnell.	टॉम ने जल्दी से जवाब दिया।
-Tom apologized again.	Tom entschuldigte sich nochmals.	टॉम ने फिर से माफी मांगी।
-Tom apologized to me.	Tom hat mich um Verzeihung gebeten.	टॉम ने मुझसे माफी मांगी।
-Tom appeared anxious.	Tom schien besorgt zu sein.	टॉम चिंतित लग रहा था।
-Tom appears agitated.	Tom scheint erregt zu sein.	टॉम उत्साहित लग रहा है।
 Tom appears confused.	Tom scheint verwirrt zu sein.	टॉम भ्रमित होने लगते हैं।
 Tom appears outraged.	Tom scheint entsetzt zu sein.	टॉम भयभीत लगता है।
 Tom asked a question.	Tom stellte eine Frage.	टॉम ने एक सवाल पूछा।

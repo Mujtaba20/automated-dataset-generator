@@ -34025,3 +34025,10 @@ Tom almost got fired.	Tom wäre fast gefeuert worden.	टॉम लगभग न
 Tom already did that.	Tom hat das schon gemacht.	टॉम ने वह पहले ही कर दिया।
 Tom always does that.	Tom macht das immer.	टॉम हमेशा ऐसा करता है।
 engSentence	Tom und ich werden das tun.	टॉम और मैं यह करेंगे।
+Tom and Mary are out.	Tom und Mary sind unterwegs.	टॉम और मैरी निकले हुए हैं।
+Tom and Mary laughed.	Tom und Mary haben gelacht.	टॉम और मैरी हंसने लगे।
+Tom answered quickly.	Tom antwortete sofort.	टॉम तेजी से जवाब दिया।
+Tom apologized again.	Tom entschuldigte sich erneut.	टॉम फिर से माफ़ी मांगा।
+Tom apologized to me.	Tom entschuldigte sich bei mir.	टॉम ने मुझसे क्षमा कहा।
+Tom appeared anxious.	Tom wirkte ängstlich.	टॉम चिंतित लग रहा था।
+Tom appears agitated.	Tom wirkt aufgeregt.	टॉम उत्तेजित लग रहा है।
