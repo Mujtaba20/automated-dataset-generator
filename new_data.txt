@@ -37838,3 +37838,13 @@ I still have your key.	Ich besitze noch deinen Schlüssel.	मेरे पा�
 I stopped going there.	Ich hörte auf dorthin zu gehen.	मैं वहाँ जाना बंद कर दिया।
 I suppose that's true.	Ich nehme an, das ist wahr.	मुझे लगता है कि सच है।
 I swim in the morning.	Ich schwimme morgens.	मैं सुबह प्लंग करता हूँ।
+I switched off the TV.	Ich schaltete den Fernseher aus.	मैंने टीवी बंद कर दिया।
+I tend to catch colds.	Ich neige dazu, erkältet zu werden.	मुझे सर्दी लगने की चालू होती है।
+I think I smell a rat.	Ich glaube, ich rieche einen Rattenschwanz.	मुझे लगता है कि मैं एक चूहा महसूस कर रहा हूँ।
+I think I smell smoke.	Ich glaube, ich rieche Rauch.	मुझे लगता है कि मैं धुआँ महसूस कर रहा हूँ।
+I think I'd like that.	Ich denke, das würde mir gefallen.	मुझे लगता है कि मुझे यह पसंद आएगा।
+I think I'll be going.	Ich glaube, ich werde gehen.	मुझे लगता है कि मैं जा रहा हूँ।
+I think I'll call Tom.	Ich denke, ich werde Tom anrufen.	मुझे लगता है कि मैं टॉम को बुलाऊंगा।
+I think I'll watch TV.	Ich glaube, ich werde fernsehen.	मुझे लगता है कि मैं टीवी देखूँगा।
+I think Mary likes me.	Ich glaube, Mary mag mich.	मुझे लगता है कि मेरी को मुझसे प्यार है।
+I think Tom is a hero.	Ich denke, Tom ist ein Held.	मुझे लगता है कि टॉम एक नायक है।

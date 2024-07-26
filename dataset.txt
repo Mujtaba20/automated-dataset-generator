@@ -1,14 +1,4 @@
 
-I switched off the TV.	Ich habe den Fernseher ausgeschaltet.	मैंने टीवी बंद कर दिया।
-I tend to catch colds.	Ich erkälte mich leicht.	मैं आसानी से ठंडा।
-I think I smell a rat.	Ich glaube, da ist etwas faul dran.	मुझे लगता है कि यह थोड़ा आलसी है।
-I think I smell smoke.	Ich glaube, ich rieche Rauch.	मुझे लगता है कि मुझे धुआं सूंघता है।
-I think I'd like that.	Ich glaube, das würde mir gefallen.	मुझे लगता है कि मैं इसे पसंद करूंगा।
-I think I'll be going.	Ich denke, ich werde gehen.	मुझे लगता है कि मैं जाऊंगा।
-I think I'll call Tom.	Ich glaube, ich rufe jetzt Tom an.	मुझे लगता है कि मैं अब टॉम को बुला रहा हूं।
-I think I'll watch TV.	Ich glaube, ich setze mich vor die Glotze.	मुझे लगता है कि मैं टेलली के सामने बैठता हूं।
-I think Mary likes me.	Ich denke, Maria mag mich.	मुझे लगता है कि मारिया मुझे पसंद करती है।
-I think Tom is a hero.	Ich finde, Tom ist ein Held.	मुझे लगता है कि टॉम एक हीरो है।
 I think Tom is a liar.	Ich halte Tom für einen Lügner.	मुझे लगता है कि टॉम एक झूठा है।
 I think Tom is asleep.	Ich glaube, Tom schläft.	मुझे लगता है कि टॉम सोता है।
 I think Tom is honest.	Ich glaube, Tom ist ehrlich.	मुझे लगता है कि टॉम ईमानदार है।
