@@ -22628,3 +22628,10 @@ Please call a taxi.	Bitte rufen Sie ein Taxi an.	कृपया टैक्स
 Please call him up.	Bitte ruf ihn an.	कृपया उसे कॉल करें।
 Please call me Tom.	Bitte nenn mich Tom.	कृपया मुझे टॉम कहें।
 Please come inside.	Bitte komm herein.	कृपया अंदर आइए।
+Please do as I say.	Bitte tun, was ich sage.	मेरे कहने के अनुसार करें।
+Please do that now.	Bitte tun Sie das jetzt.	अब वह करें।
+Please do that now. (Different Meaning)	Bitte jetzt machen.	अब उसे करें।
+Please don't do it.	Bitte nicht tun.	कृपया इसे न करें।
+Please don't shoot.	Bitte nicht schießen.	कृपया गोली न चलाएं।
+Please don't shout.	Bitte nicht schreien.	कृपया चिल्लाएं नहीं।
+Please get dressed.	Bitte zieh dich an.	कृपया पोशाक पहनें।
