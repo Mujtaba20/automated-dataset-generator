@@ -1,14 +1,4 @@
 
-Tom caught many fish.	Tom hat viele Fische gefangen.	टॉम ने कई मछलियों को पकड़ा है।
-Tom caused this mess.	Tom ist für dieses Durcheinander verantwortlich.	टॉम इस गंदगी के लिए जिम्मेदार है।
-Tom changed his mind.	Tom hat seine Meinung geändert.	टॉम ने अपनी राय बदल दी है।
-Tom changed his mind.	Tom hat es sich anders überlegt.	टॉम ने अलग तरह से सोचा।
-Tom changed his name.	Tom hat seinen Namen geändert.	टॉम ने अपना नाम बदल दिया है।
-Tom changed subjects.	Tom wechselte das Thema.	टॉम ने विषय बदल दिया।
-Tom chased the thief.	Tom verfolgte den Einbrecher.	टॉम ने बर्गलर का पीछा किया।
-Tom checked the list.	Tom hat die Liste nachgeprüft.	टॉम ने सूची की जाँच की।
-Tom chose the colors.	Tom hat die Farben gewählt.	टॉम ने रंगों को चुना।
-Tom cleaned his room.	Tom hat sein Zimmer aufgeräumt.	टॉम ने अपने कमरे को साफ किया है।
 Tom cleaned the room.	Tom räumte das Zimmer auf.	टॉम ने कमरे को साफ किया।
 Tom closed his mouth.	Tom schloss den Mund.	टॉम ने अपना मुँह बंद कर दिया।
 Tom closed the doors.	Tom machte die Türen zu.	टॉम ने दरवाजे बंद कर दिए।

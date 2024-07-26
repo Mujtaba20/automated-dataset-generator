@@ -34084,3 +34084,12 @@ Tom can't read music.	Tom kann keine Musik lesen.	टॉम संगीत न�
 Tom can't stand Mary.	Tom kann Mary nicht ausstehen.	टॉम मेरी से सहन नहीं कर सकता।
 Tom can't tell jokes.	Tom kann keine Witze erzählen.	टॉम मजाक नहीं बता सकता।
 Tom caught a big one.	Tom hat einen großen gefangen.	टॉमने एक बड़ा पकड़ लिया।
+Tom caught many fish.	Tom fing viele Fische.	टॉम ने कई मछलियाँ पकड़ी।
+Tom caused this mess.	Tom hat dieses Durcheinander verursacht.	टॉम ने यह गड़बड़ कर दी।
+Tom changed his mind.	Tom hat seine Meinung geändert.	टॉम ने अपनी राय बदल दी।
+Tom changed his name.	Tom änderte seinen Namen.	टॉम ने अपना नाम बदल दिया।
+Tom changed subjects.	Tom wechselte die Fächer.	टॉम ने विषय बदल दिए।
+Tom chased the thief.	Tom jagte den Dieb.	टॉम ने चोर का पीछा किया।
+Tom checked the list.	Tom überprüfte die Liste.	टॉम ने सूची की जांच की।
+Tom chose the colors.	Tom wählte die Farben aus.	टॉम ने रंग चुने।
+Tom cleaned his room.	Tom putzte sein Zimmer.	टॉम ने अपने कमरे को साफ किया।
