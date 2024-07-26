@@ -1,14 +1,4 @@
 
-May I do that with Tom?	Darf ich das mit Tom machen?	क्या मैं टॉम के साथ ऐसा कर सकता हूं?
-May I have a Coca-Cola?	Kann ich eine Cola haben?	क्या मेरे पास कोला हो सकता है?
-May I have a signature?	Könnten Sie bitte unterschreiben?	क्या आप कृपया साइन कर सकते हैं?
-May I introduce myself?	Darf ich mich vorstellen?	क्या मैं अपना परिचय दे सकता हुँ?
-May I look at the menu?	Darf ich einen Blick auf die Speisekarte werfen?	क्या मैं मेनू पर एक नज़र डाल सकता हूं?
-May I open my eyes now?	Darf ich die Augen nun öffnen?	क्या मैं अब अपनी आँखें खोल सकता हूं?
-May I open the curtain?	Dürfte ich den Vorhang aufmachen?	क्या मैं पर्दा खोल सकता हूँ?
-May I open the curtain?	Kann ich den Vorhang aufmachen?	क्या मैं पर्दा खोल सकता हूं?
-May I put it down here?	Darf ich es hierhin stellen?	क्या मैं इसे यहाँ रख सकता हूँ?
-May I put it down here?	Darf ich es hierhin legen?	क्या मैं इसे यहाँ रख सकता हूँ?
 May I start eating now?	Kann ich jetzt mit dem Essen anfangen?	क्या मैं अब खाना शुरू कर सकता हूं?
 May I start eating now?	Darf ich jetzt mit dem Essen anfangen?	क्या मैं अब खाना शुरू कर सकता हूं?
 May I take off my coat?	Darf ich meinen Mantel ausziehen?	क्या मैं अपना कोट उतार सकता हूं?
