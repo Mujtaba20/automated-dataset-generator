@@ -24294,3 +24294,10 @@ We have to act now.	Wir müssen jetzt handeln.	हमें अब काम क
 We have to do that.	Das müssen wir tun.	हमें वह करना होगा।
 We have to do this.	Das müssen wir tun.	हमें यह करना होगा।
 We have to stop it.	Wir müssen damit aufhören.	हमें इसे बंद करना होगा।
+We have work to do.	Wir haben zu tun.	हमें काम है।
+We haven't met yet.	Wir haben uns noch nicht gesehen.	हमने अभी तक मिली नहीं है।
+We heard a gunshot.	Wir haben einen Schuss gehört.	हमने एक गोली की ध्वनि सुनी।
+We just ate dinner.	Wir haben gerade zu Abend gegessen.	हमने अभी अभिन्दन खाया।
+We knew you'd come.	Wir wussten, dass du kommst.	हमें पता था कि तुम आओगे।
+We know about that.	Wir wissen darüber Bescheid.	हम उसके बारे में जानते हैं।
+We know each other.	Wir kennen uns.	हम एक दूसरे को जानते हैं।

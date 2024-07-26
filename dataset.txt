@@ -1,15 +1,4 @@
 
-We have work to do.	Wir haben Arbeit zu erledigen.	हमें काम करना है।
-We have work to do.	Wir haben zu arbeiten.	हमे काम करना चाहिए।
-We have work to do.	Wir haben Arbeit.	हमारे पास काम है।
-We haven't met yet.	Wir kennen uns noch nicht.	हम अभी तक एक -दूसरे को नहीं जानते हैं।
-We haven't met yet.	Wir sind uns noch nicht begegnet.	हम अभी तक नहीं मिले हैं।
-We heard a gunshot.	Wir hörten einen Schuss.	हमने एक शॉट सुना।
-We just ate dinner.	Wir haben gerade zu Mittag gegessen.	हमने सिर्फ लंच खाया।
-We knew you'd come.	Wir wussten, dass du kommen würdest.	हमें पता था कि आप आएंगे।
-We know about that.	Wir wissen davon.	हम इसके बारे में जानते हैं।
-We know each other.	Wir kennen uns.	हम एक दूसरे को जानते है।
-We know each other.	Wir kennen einander.	हम एक दूसरे को जानते है।
 We know everything.	Wir wissen alles.	हम सब कुछ जानते हैं।
 We know how Tom is.	Wir wissen, wie Tom ist.	हम जानते हैं कि टॉम कैसा है।
 We know our rights.	Wir kennen unsere Rechte.	हम अपने अधिकारों को जानते हैं।
