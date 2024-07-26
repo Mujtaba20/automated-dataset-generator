@@ -1,14 +1,4 @@
 
-They're tough guys.	Das sind harte Kerle.	ये कठिन लोग हैं।
-They're unreliable.	Sie sind unzuverlässig.	वे अविश्वसनीय हैं।
-They're very happy.	Sie sind sehr glücklich.	वे बहुत खुश हैं।
-They're yours, Tom.	Sie gehören dir, Tom.	वे आप के हैं, टॉम।
-They've fooled you.	Ihr seid reingelegt worden.	आपको अंदर रखा गया है।
-They've lied to me.	Sie haben mich angelogen.	आपने मुझसे झूठ बोला।
-Think about it, OK?	Denk darüber nach, okay?	इसके बारे में सोचो, ठीक है?
-This I have to see.	Das muss ich sehen.	मुझे वह देखना है।
-This book is Tom's.	Dieses Buch gehört Tom.	यह पुस्तक टॉम की है।
-This book is heavy.	Dieses Buch ist schwer.	यह पुस्तक मुश्किल है।
 This book is small.	Das Buch ist dünn.	पुस्तक पतली है।
 This book is yours.	Dieses Buch ist deins.	यह पुस्तक आपकी है।
 This book is yours.	Dieses Buch gehört dir.	यह पुस्तक आपकी है।

@@ -23176,3 +23176,13 @@ They're my cousins. (Different translation)	Sie sind meine Verwandten.	वे �
 They're not coming.	Sie kommen nicht.	वे नहीं आ रहे हैं।
 They're not stupid.	Sie sind nicht dumm.	वे मूर्ख नहीं हैं।
 They're part of us.	Sie gehören zu uns.	वे हमारा हिस्सा हैं।
+They're tough guys.	Sie sind harte Kerle.	वे कठोर लोग हैं।
+They're unreliable.	Sie sind unzuverlässig.	वे अस्थिर हैं।
+They're very happy.	Sie sind sehr glücklich.	वे बहुत खुश हैं।
+They're yours, Tom.	Sie gehören dir, Tom.	वे तुम्हारे हैं, टॉम।
+They've fooled you.	Sie haben dich reingelegt.	उन्होंने तुम्हें बेवकूफ बनाया है।
+They've lied to me.	Sie haben mich angelogen.	उन्होंने मुझसे झूठ बोला है।
+Think about it, OK?	Denken Sie darüber nach, O.K.?	इसके बारे में सोचो, ठीक है?
+This I have to see.	Das muss ich sehen.	यह मुझे देखना होगा।
+This book is Tom's.	Dieses Buch gehört Tom.	यह किताब टॉम की है।
+This book is heavy.	Dieses Buch ist schwer.	यह किताब भारी है।
