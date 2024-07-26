@@ -1,14 +1,4 @@
 
-It's a French word.	Es ist ein französisches Wort.	यह एक फ्रांसीसी शब्द है।
-It's a bad example.	Das ist ein schlechtes Beispiel.	यह एक बुरा उदाहरण है।
-It's a big company.	Es ist ein großes Unternehmen.	यह एक बड़ी कंपनी है।
-It's a cruel world.	Die Welt ist grausam.	दुनिया क्रूर है।
-It's a cruel world.	Es ist eine grausame Welt.	यह एक क्रूर दुनिया है।
-It's a good policy.	Das ist eine gute Regelung.	यह एक अच्छा विनियमन है।
-It's a good school.	Das ist eine gute Schule.	यह अच्छा स्कूल है।
-It's a lot of work.	Das ist eine Menge Arbeit.	यह बहुत काम है।
-It's a pretty flag.	Das ist eine schöne Flagge.	यह एक अच्छा झंडा है।
-It's a proven fact.	Das ist eine bewiesene Tatsache.	यह एक सिद्ध तथ्य है।
 It's a red herring.	Das ist ein Ablenkungsmanöver.	यह एक व्याकुलता पैंतरेबाज़ी है।
 It's a stupid idea.	Das ist eine dumme Idee.	यह एक बेवकूफ विचार है।
 It's a stupid idea.	Das ist eine blöde Idee.	यह एक मूर्खतापूर्ण विचार है।

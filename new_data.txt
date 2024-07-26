@@ -22300,3 +22300,12 @@ It'll soon be dark.	Es wird bald dunkel werden.	जल्द ही अंधे
 It's Tom's profile.	Es ist Toms Profil.	यह टॉम का प्रोफाइल है।
 It's Tom, isn't it?	Es ist Tom, nicht wahr?	यह टॉम है, ना?
 It's a Cuban cigar.	Es ist eine kubanische Zigarre.	यह क्यूबा की सिगार है।
+It's a French word.	Es ist ein französisches Wort.	यह एक फ्रेंच शब्द है।
+It's a bad example.	Das ist ein schlechtes Beispiel.	यह एक बुरा उदाहरण है।
+It's a big company.	Es ist ein großes Unternehmen.	यह एक बड़ी कंपनी है।
+It's a cruel world.	Es ist eine grausame Welt.	यह एक क्रूर दुनिया है।
+It's a good policy.	Es ist eine gute Politik.	यह एक अच्छी नीति है।
+It's a good school.	Es ist eine gute Schule.	यह एक अच्छा स्कूल है।
+It's a lot of work.	Es ist viel Arbeit.	यह बहुत सारा काम है।
+It's a pretty flag.	Es ist eine hübsche Flagge.	यह एक सुंदर झंडा है।
+It's a proven fact.	Es ist ein bewiesener Fakt.	यह एक सिद्ध तथ्य है।
