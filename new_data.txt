@@ -20734,3 +20734,11 @@ He decided on that.	Er hat sich dafür entschieden.	उसने इस पर �
 He did a cartwheel.	Er machte ein Rad.	उसने एक कार्टव्हील किया।
 He did a great job.	Er hat einen tollen Job gemacht.	उसने बहुत अच्छा काम किया।
 He does not listen.	Er hört nicht zu.	वह सुनता नहीं है।
+He doesn't know me.	Er kennt mich nicht.	उसे मुझे नहीं पहचानता।
+He doesn't like us.	Er mag uns nicht.	उसे हमें पसंद नहीं है।
+He doesn't want it.	Er will es nicht.	उसे यह नहीं चाहिए।
+He drives me crazy.	Er macht mich verrückt.	उसके कारण मैं पागल हो जाता हूँ।
+He enjoyed cycling.	Er genoss das Radfahren.	उसे साइकिल चलाने में मजा आया।
+He failed the exam.	Er hat die Prüfung nicht bestanden.	उसने परीक्षा में फेल हो गया।
+He forced me to go.	Er zwang mich zu gehen.	उसने मुझे जाने के लिए मजबूर किया।
+He forgot his name.	Er hat seinen Namen vergessen.	उसने अपना नाम भूल गया।

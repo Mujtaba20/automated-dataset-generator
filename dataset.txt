@@ -1,14 +1,4 @@
 
-He doesn't know me.	Er kennt mich nicht.	वह मुझे नहीं जानता।
-He doesn't like us.	Er mag uns nicht.	वह हमें पसंद नहीं करता।
-He doesn't want it.	Er will es nicht.	वह यह नहीं चाहता।
-He drives me crazy.	Er macht mich wahnsinnig.	वह मुझे पागल कर देता है।
-He enjoyed cycling.	Das Radfahren hat ihm Spaß gemacht.	उन्होंने साइकिल चलाने का आनंद लिया।
-He failed the exam.	Er fiel bei der Prüfung durch.	वह परीक्षा के दौरान विफल रहा।
-He failed the exam.	Er hat die Prüfung nicht bestanden.	उन्होंने परीक्षा पास नहीं की।
-He failed the exam.	Er ist durchgefallen.	वह असफल रहा।
-He forced me to go.	Er zwang mich zu gehen.	उसने मुझे जाने के लिए मजबूर किया।
-He forgot his name.	Er vergaß seinen Namen.	वह अपना नाम भूल गया।
 He found me a taxi.	Er suchte mir ein Taxi.	वह एक टैक्सी की तलाश में था।
 He gave her a book.	Er gab ihr ein Buch.	उसने उसे एक किताब दी।
 He gave him a book.	Er gab ihm ein Buch.	उसने उसे एक किताब दी।
