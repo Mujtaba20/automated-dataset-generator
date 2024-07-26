@@ -28362,3 +28362,10 @@ They waited outside.	Sie warteten draußen.	उन्होंने बाह�
 They went by subway.	Sie gingen mit der U-Bahn.	उन्होंने मेट्रो से जाना।
 They were good kids.	Sie waren gute Kinder.	वे अच्छे बच्चे थे।
 They were satisfied.	Sie waren zufrieden.	वे संतुष्ट थे।
+They were very busy.	Sie waren sehr beschäftigt.	वे बहुत व्यस्त थे।
+They were very poor.	Sie waren sehr arm.	वे बहुत गरीब थे।
+They weren't hungry.	Sie waren nicht hungrig.	उन्हें भूख नहीं थी।
+They won't catch me.	Sie werden mich nicht erwischen.	वे मुझे पकड़ नहीं पाएंगे।
+They won't find you.	Sie werden dich nicht finden.	वे तुम्हें नहीं ढूंढ़ पाएंगे।
+They won't help you.	Sie werden dir nicht helfen.	वे तुम्हें मदद नहीं करेंगे।
+They won't hurt you.	Sie werden dir nicht schaden.	वे तुम्हें चोट नहीं पहुंचाएंगे।
