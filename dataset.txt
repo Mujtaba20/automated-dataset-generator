@@ -1,14 +1,4 @@
 
-Tom will come with me.	Tom wird mich begleiten.	टॉम मेरे साथ जाएगा।
-Tom will come with me.	Tom wird mit mir kommen.	टॉम मेरे साथ आएगा।
-Tom will confirm that.	Tom wird das bestätigen.	टॉम इसकी पुष्टि करेगा।
-Tom will deal with it.	Tom wird sich darum kümmern.	टॉम इसका ध्यान रखेंगे।
-Tom will fit right in.	Tom wird gut zu uns passen.	टॉम हमें अच्छी तरह से सूट करेगा।
-Tom will go ballistic.	Tom wird total ausrasten.	टॉम पूरी तरह से बाहर निकल जाएगा।
-Tom will have to wait.	Tom wird warten müssen.	टॉम को इंतजार करना होगा।
-Tom will have to wait.	Tom wird sich gedulden müssen.	टॉम को धैर्य रखना होगा।
-Tom will likely agree.	Tom wird wahrscheinlich zustimmen.	टॉम शायद सहमत होंगे।
-Tom will need my help.	Tom wird meine Hilfe nötig haben.	टॉम को मेरी मदद की आवश्यकता होगी।
 Tom will never change.	Tom wird sich nie ändern.	टॉम कभी नहीं बदलेगा।
 Tom will stay with us.	Tom bleibt bei uns.	टॉम हमारे साथ रहता है।
 Tom will take the bus.	Tom fährt mit dem Bus.	टॉम बस लेता है।

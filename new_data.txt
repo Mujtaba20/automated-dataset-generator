@@ -40907,3 +40907,11 @@ Tom will be surprised.	Tom wird überrascht sein.	टॉम हैरान ह�
 Tom will check it out.	Tom wird es überprüfen.	टॉम जांच करेगा।
 Tom will come at 2:30.	Tom wird um 2:30 Uhr kommen.	टॉम 2:30 बजे आएगा।
 Tom will come at noon.	Tom wird mittags kommen.	टॉम दोपहर में आएगा।
+Tom will come with me.	Tom wird mit mir kommen.	टॉम मेरे साथ आएगा।
+Tom will confirm that.	Tom wird das bestätigen.	टॉम वह स्पष्ट करेगा।
+Tom will deal with it.	Tom wird damit umgehen.	टॉम इससे निपटेगा।
+Tom will fit right in.	Tom wird gut hineinpassen.	टॉम सही में फिट करेगा।
+Tom will go ballistic.	Tom wird verrückt werden.	टॉम गोली मरेगा।
+Tom will have to wait.	Tom wird warten müssen.	टॉम को ठहरना होगा।
+Tom will likely agree.	Tom wird wahrscheinlich zustimmen.	टॉम संभावित रूप से सहमत होंगे।
+Tom will need my help.	Tom wird meine Hilfe brauchen.	टॉम को मेरी मदद की जरूरत होगी।
