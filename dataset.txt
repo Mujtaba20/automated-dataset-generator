@@ -1,14 +1,4 @@
 
-Tom is introverted.	Tom ist introvertiert.	टॉम अंतर्मुखी है।
-Tom is just my age.	Tom ist genauso alt wie ich.	टॉम उतना ही पुराना है जितना मैं हूं।
-Tom is leaving now.	Tom geht jetzt.	टॉम अब जाता है।
-Tom is left-handed.	Tom ist Linkshänder.	टॉम को छोड़ दिया गया है।
-Tom is like family.	Tom ist wie Familie.	टॉम परिवार की तरह है।
-Tom is limping now.	Tom hinkt jetzt.	टॉम अब पिछड़ रहा है।
-Tom is lying again.	Tom lügt schon wieder.	टॉम फिर से झूठ बोल रहा है।
-Tom is lying to us.	Tom belügt uns.	टॉम हमारे लिए झूठ बोलता है।
-Tom is mad at Mary.	Tom ist wütend auf Mary.	टॉम मैरी से नाराज हैं।
-Tom is married now.	Tom ist jetzt verheiratet.	टॉम अब शादीशुदा है।
 Tom is much better.	Tom geht es viel besser.	टॉम बहुत बेहतर है।
 Tom is my neighbor.	Tom ist mein Nachbar.	टॉम मेरा पड़ोसी है।
 Tom is my prisoner.	Tom ist mein Gefangener.	टॉम मेरा कैदी है।

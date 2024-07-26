@@ -23666,3 +23666,13 @@ Tom is influential.	Tom ist einflussreich.	टॉम प्रभावशाल
 Tom is insensitive.	Tom ist unsensibel.	टॉम असंवेदनशील है।
 Tom is intelligent.	Tom ist intelligent.	टॉम बुद्धिमान है।
 Tom is intoxicated.	Tom ist betrunken.	टॉम नशे में है।
+Tom is introverted.	Tom ist introvertiert.	टॉम अंतरमुखी है।
+Tom is just my age.	Tom ist genau in meinem Alter.	टॉम बस मेरी उम्र का है।
+Tom is leaving now.	Tom verlässt jetzt.	टॉम अब जा रहा है।
+Tom is left-handed.	Tom ist Linkshänder.	टॉम बायां हाथ वाला है।
+Tom is like family.	Tom ist wie Familie.	टॉम परिवार जैसा है।
+Tom is limping now.	Tom hinkt jetzt.	टॉम देरे चल रहा है।
+Tom is lying again.	Tom lügt wieder.	टॉम फिर से झूठ बोल रहा है।
+Tom is lying to us.	Tom belügt uns.	टॉम हमें झूठ बोल रहा है।
+Tom is mad at Mary.	Tom ist wütend auf Maria.	टॉम मेरी से नाराज है।
+Tom is married now.	Tom ist jetzt verheiratet.	टॉम अब शादीशुदा है।
