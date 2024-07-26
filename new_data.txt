@@ -27105,3 +27105,13 @@ I'm not very hungry.	Ich bin nicht sehr hungrig.	मुझे बहुत भ�
 I'm not very strong.	Ich bin nicht sehr stark.	मैं बहुत मजबूत नहीं हूँ।
 I'm not your father.	Ich bin nicht dein Vater.	मैं तुम्हारे पिता नहीं हूँ।
 I'm not your friend.	Ich bin nicht dein Freund.	मैं तुम्हारा दोस्त नहीं हूँ।
+I'm not your mother.	Ich bin nicht deine Mutter.	मैं तुम्हारी माँ नहीं हूँ।
+I'm on my way there.	Ich bin auf dem Weg dorthin.	मैं वहाँ रास्ते पर हूँ।
+I'm on the roof now.	Ich bin jetzt auf dem Dach.	मैं अब छत पर हूँ।
+I'm on the way home.	Ich bin auf dem Weg nach Hause.	मैं घर की तरफ रास्ते पर हूँ।
+I'm only a customer.	Ich bin nur ein Kunde.	मैं सिर्फ एक ग्राहक हूँ।
+I'm perfectly happy.	Ich bin perfekt glücklich.	मैं पूरी तरह से खुश हूँ।
+I'm practising judo.	Ich übe Judo.	मैं जूडो का प्रयोग कर रहा हूँ।
+I'm praying for Tom.	Ich bete für Tom.	मैं टॉम के लिए प्रार्थना कर रहा हूँ।
+I'm prepared to die.	Ich bin bereit zu sterben.	मैं मरने के लिए तैयार हूँ।
+I'm proud of my son.	Ich bin stolz auf meinen Sohn.	मैं अपने बेटे पर गर्वित हूँ।
