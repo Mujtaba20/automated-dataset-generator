@@ -1,14 +1,4 @@
 
-Tom has to be here.	Tom muss hier sein.	टॉम को यहां रहना है।
-Tom has to be home.	Tom muss zu Hause sein.	टॉम को घर पर होना है।
-Tom has to do that.	Tom muss das machen.	टॉम को ऐसा करना है।
-Tom has to do this.	Tom muss das tun.	टॉम को ऐसा करना है।
-Tom has to go home.	Tom muss nach Hause.	टॉम को घर जाना है।
-Tom has to respond.	Tom muss antworten.	टॉम को जवाब देना है।
-Tom has white hair.	Tom hat weiße Haare.	टॉम के सफेद बाल हैं।
-Tom has work to do.	Tom hat Arbeit.	टॉम के पास काम है।
-Tom has worked out.	Tom hat Sport gemacht.	टॉम ने खेल किया।
-Tom hasn't changed.	Tom hat sich nicht verändert.	टॉम नहीं बदला है।
 Tom hates calculus.	Tom hasst Differential- und Integralrechnung.	टॉम अंतर और अभिन्न गणना से नफरत करता है।
 Tom hates children.	Tom hasst Kinder.	टॉम को बच्चों से नफरत है।
 Tom hates his life.	Tom hasst sein Leben.	टॉम अपने जीवन से नफरत करता है।

@@ -23536,3 +23536,13 @@ Tom has three dogs.	Tom hat drei Hunde.	टॉम के तीन कुत्�
 Tom has three kids.	Tom hat drei Kinder.	टॉम के तीन बच्चे हैं।
 Tom has three sons.	Tom hat drei Söhne.	टॉम के तीन बेटे हैं।
 Tom has to act now.	Tom muss jetzt reagieren.	टॉम को अब काम करना है।
+Tom has to be here.	Tom muss hier sein.	टॉम को यहाँ होना चाहिए।
+Tom has to be home.	Tom muss zu Hause sein.	टॉम को घर पर होना चाहिए।
+Tom has to do that.	Tom muss das tun.	टॉम को वह करना है।
+Tom has to do this.	Tom muss das machen.	टॉम को यह करना है।
+Tom has to go home.	Tom muss nach Hause gehen.	टॉम को घर जाना है।
+Tom has to respond.	Tom muss antworten.	टॉम को जवाब देना है।
+Tom has white hair.	Tom hat weißes Haar.	टॉम के बाल सफेद हैं।
+Tom has work to do.	Tom hat Arbeit zu erledigen.	टॉम के पास काम करने के लिए काम है।
+Tom has worked out.	Tom hat trainiert.	टॉम ने काम किया है।
+Tom hasn't changed.	Tom hat sich nicht verändert.	टॉम ने कोई बदलाव नहीं किया है।
