@@ -1,14 +1,4 @@
 
-Why do you want this?	Warum willst du das?	आप यह क्यों चाहते हैं?
-Why do you work here?	Warum arbeitest du hier?	आप यहाँ क्यों काम करते हैं?
-Why does Tom do that?	Warum macht Tom das?	टॉम ऐसा क्यों करता है?
-Why does this matter?	Warum spielt dies eine Rolle?	यह एक भूमिका क्यों निभाता है?
-Why doesn't Tom talk?	Warum redet Tom nicht?	टॉम बात क्यों नहीं करता है?
-Why don't I take Tom?	Warum nehme ich Tom nicht mit?	मैं टॉम को अपने साथ क्यों नहीं लेता?
-Why don't we go home?	Wieso gehen wir nicht heim?	हम घर क्यों नहीं जाते?
-Why don't you answer?	Warum antwortest du nicht?	आप जवाब क्यों नहीं देते?
-Why don't you answer?	Warum antworten Sie nicht?	आप जवाब क्यों नहीं दे रहे हैं?
-Why don't you answer?	Warum antwortet ihr nicht?	आप जवाब क्यों नहीं देते?
 Why don't you go out?	Warum gehst du nie aus?	आप कभी बाहर क्यों नहीं जाते?
 Why don't you go out?	Warum gehst du nicht raus?	आप बाहर क्यों नहीं जाते
 Why don't you listen?	Warum hörst du nicht zu?	आप क्यों नहीं सुनते?
