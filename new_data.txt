@@ -40362,3 +40362,12 @@ Tom is quite handsome.	Tom ist ziemlich gutaussehend.	टॉम काफी ह
 Tom is quite outgoing.	Tom ist ziemlich extrovertiert.	टॉम काफी बाहरी निकला हुआ है।
 Tom is quite reliable.	Tom ist ziemlich zuverlässig.	टॉम काफी भरोसेमंद है।
 Tom is quite reserved.	Tom ist ziemlich zurückhaltend.	टॉम काफी आत्मसमर्पण रखता है।
+Tom is ready to fight.	Tom ist bereit zu kämpfen.	टॉम लड़ने के लिए तैयार है।
+Tom is really popular.	Tom ist wirklich beliebt.	टॉम वास्तव में प्रसिद्ध है।
+Tom is really selfish.	Tom ist wirklich egoistisch.	टॉम वास्तव में स्वार्थी है।
+Tom is really worried.	Tom ist wirklich besorgt.	टॉम सच्चे में चिंतित है।
+Tom is rich, isn't he?	Tom ist reich, oder?	टॉम धनवान है, ना?
+Tom is rude, isn't he?	Tom ist unhöflich, oder?	टॉम कसाई है, ना?
+Tom is sadly mistaken.	Tom irrt sich leider.	टॉम दुःखी हो गया है।
+Tom is scared of Mary.	Tom hat Angst vor Mary.	टॉम मेरी से डरता है।
+Tom is shoveling snow.	Tom schaufelt Schnee.	टॉम बर्फ को ढंग से गड़ा रहा है।

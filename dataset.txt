@@ -1,15 +1,4 @@
 
-Tom is ready to fight.	Tom ist bereit zum Kampf.	टॉम लड़ने के लिए तैयार है।
-Tom is ready to fight.	Tom ist bereit zu kämpfen.	टॉम लड़ने के लिए तैयार है।
-Tom is really popular.	Tom ist wirklich beliebt.	टॉम वास्तव में लोकप्रिय है।
-Tom is really selfish.	Tom ist ziemlich egoistisch.	टॉम बहुत स्वार्थी है।
-Tom is really worried.	Tom ist wirklich beunruhigt.	टॉम वास्तव में चिंतित है।
-Tom is rich, isn't he?	Tom ist reich, oder?	टॉम अमीर है, है ना?
-Tom is rude, isn't he?	Tom ist unhöflich, nicht wahr?	टॉम असभ्य है, है ना?
-Tom is sadly mistaken.	Tom liegt völlig daneben.	टॉम पूरी तरह से गलत है।
-Tom is scared of Mary.	Tom hat Angst vor Maria.	टॉम मारिया से डरता है।
-Tom is shoveling snow.	Tom schaufelt Schnee.	टॉम ने स्नो फाव किया।
-Tom is shoveling snow.	Tom schippt Schnee.	टॉम बर्फ बनाता है।
 Tom is slightly tipsy.	Tom ist ein wenig angetrunken.	टॉम थोड़ा नशे में है।
 Tom is small and weak.	Tom ist klein und schwach.	टॉम छोटा और कमजोर है।
 Tom is still confused.	Tom ist noch immer verwirrt.	टॉम अभी भी भ्रमित है।
