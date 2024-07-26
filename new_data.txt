@@ -36882,3 +36882,12 @@ He talked about music.	Er sprach über Musik.	उसने संगीत क�
 He teaches us English.	Er unterrichtet uns Englisch.	वह हमें अंग्रेजी सिखाता है।
 He teaches us history.	Er unterrichtet uns Geschichte.	वह हमें इतिहास सिखाता है।
 He tends to tell lies.	Er hat die Neigung zu Lügen zu erzählen.	वह झूठ बोलने की प्रवृत्ति रखता है।
+He thinks I'm jealous.	Er glaubt, ich bin eifersüchtig.	वह सोचता है कि मुझे जलन है।
+He threw in the towel.	Er warf das Handtuch.	उसने तौलिया फेंक दिया।
+He threw me the apple.	Er warf mir den Apfel.	उसने मुझे सेब फेंका।
+He tidied up his room.	Er hat sein Zimmer aufgeräumt.	उसने अपने कमरे को साफ किया।
+He told a funny story.	Er erzählte eine lustige Geschichte.	उसने एक मजेदार कहानी सुनाई।
+He told me everything.	Er hat mir alles gesagt.	उसने मुझे सब कुछ बताया।
+He took a deep breath.	Er nahm tief Luft.	उसने गहरी सांस ली।
+He tried to choke him.	Er versuchte, ihn zu ersticken.	उसने को दबाने की कोशिश की।
+He turned a blind eye.	Er hat ein Auge zugedrückt.	उसने अंधा खेल खेला।
