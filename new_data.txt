@@ -38347,3 +38347,10 @@ I've always loved you.	Ich habe dich immer geliebt.	मैंने हमेश
 I've become forgetful.	Ich bin vergesslich geworden.	मैं भूलनेवाला बन गया हूँ।
 I've been a lot worse.	Ich bin viel schlimmer gewesen.	मैंने कहीं बदतर हो जाना था।
 I've been here before.	Ich war schon einmal hier.	मैं पहले यहाँ था।
+I've been to the bank.	Ich war in der Bank.	मैं बैंक गया था।
+I've been to the mall.	Ich war im Einkaufszentrum.	मैं मॉल गया था।
+I've begun a new diet.	Ich habe eine neue Diät begonnen.	मैंने एक नया डाइट शुरू किया है।
+I've climbed Mt. Fuji.	Ich bin auf den Mount Fuji geklettert.	मैंने एमटी फुजी चढ़ी।
+I've come to save Tom.	Ich bin gekommen, um Tom zu retten.	मैं टॉम को बचाने आया हूँ।
+I've found the answer.	Ich habe die Antwort gefunden.	मैंने जवाब ढूंढ लिया है।
+I've given up smoking.	Ich habe das Rauchen aufgegeben.	मैंने धूम्रपान छोड़ दिया है।
