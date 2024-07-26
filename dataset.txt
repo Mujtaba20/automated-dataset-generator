@@ -1,15 +1,4 @@
 
-I'm not Tom's brother.	Ich bin nicht Toms Bruder.	मैं टॉम का भाई नहीं हूं।
-I'm not Tom. I'm John.	Ich bin nicht Tom. Ich bin Johannes.	मैं टॉम नहीं हूँ।मैं जॉन हूँ।
-I'm not a good artist.	Ich bin kein guter Künstler.	मैं एक अच्छा कलाकार नहीं हूं।
-I'm not a good person.	Ich bin kein guter Mensch.	मैं एक अच्छा इंसान नहीं हूं।
-I'm not a good runner.	Ich bin kein guter Läufer.	मैं एक अच्छा धावक नहीं हूं।
-I'm not a kid anymore.	Ich bin kein Kind mehr.	मैं अब बच्चा नहीं हूं।
-I'm not about to stop.	Ich werde nicht aufhören.	मैं नहीं रुकूँगा।
-I'm not afraid at all.	Ich habe überhaupt keine Angst.	मैं बिल्कुल नहीं डरता।
-I'm not an only child.	Ich bin kein Einzelkind.	मैं एक भी बच्चा नहीं हूं।
-I'm not angry anymore.	Ich bin nicht mehr sauer.	मैं अब नाराज नहीं हूं।
-I'm not angry anymore.	Ich bin nicht mehr böse.	मैं अब नाराज नहीं हूं।
 I'm not ashamed of it.	Ich schäme mich deswegen nicht.	इसलिए मैं शर्मिंदा नहीं हूं।
 I'm not at all scared.	Ich habe kein bisschen Angst.	मैं थोड़ा डर नहीं हूँ।
 I'm not bitter at all.	Ich bin überhaupt nicht verbittert.	मैं बिल्कुल भी शर्मिंदा नहीं हूं।

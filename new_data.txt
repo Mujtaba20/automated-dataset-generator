@@ -38237,3 +38237,13 @@ I'm looking after Tom.	Ich kümmere mich um Tom.	मैं टॉम का ध�
 I'm looking for a job.	Ich suche einen Job.	मैं नौकरी ढ़ूंढ रहा हूं।
 I'm never coming back.	Ich komme nie zurück.	मैं कभी वापस नहीं आ रहा।
 I'm no longer married.	Ich bin nicht mehr verheiratet.	मैं अब शादीशुदा नहीं हूँ।
+I'm not Tom's brother.	Ich bin nicht Toms Bruder.	मैं टॉम के भाई नहीं हूँ।
+I'm not Tom. I'm John.	Ich bin nicht Tom. Ich bin John.	मैं टॉम नहीं हूँ। मैं जॉन हूँ।
+I'm not a good artist.	Ich bin kein guter Künstler.	मैं एक अच्छे कलाकार नहीं हूँ।
+I'm not a good person.	Ich bin keine gute Person.	मैं एक अच्छे इंसान नहीं हूँ।
+I'm not a good runner.	Ich bin kein guter Läufer.	मैं एक अच्छा रनर नहीं हूँ।
+I'm not a kid anymore.	Ich bin kein Kind mehr.	मैं अब बच्चा नहीं हूँ।
+I'm not about to stop.	Ich werde nicht aufhören.	मैं रुकने वाला नहीं हूँ।
+I'm not afraid at all.	Ich habe überhaupt keine Angst.	मुझे किसी भी तरह का डर नहीं है।
+I'm not an only child.	Ich bin nicht das einzige Kind.	मैं एक ही बच्चा नहीं हूँ।
+I'm not angry anymore.	Ich bin nicht mehr wütend.	मैं अब गुस्सा नहीं हूँ।
