@@ -1,14 +1,4 @@
 
-Your hair looks great.	Deine Haare sehen großartig aus.	आपके बाल बहुत अच्छे लगते हैं।
-Your hair's beautiful.	Du hast schöne Haare.	आपके बाल सुंदर हैं।
-Your haircut was fine.	Dein Haarschnitt war gut.	आपका बाल कटवाने अच्छा था।
-Your method is better.	Deine Methode ist besser.	आपकी विधि बेहतर है।
-Your nose is bleeding.	Du blutest an der Nase.	आप नाक पर बुलबुला।
-Your nose is bleeding.	Ihre Nase blutet.	आपकी नाक से खून बह रहा है।
-Your nose is bleeding.	Deine Nase blutet.	आपकी नाक से खून बह रहा है।
-Your nose is bleeding.	Du hast Nasenbluten!	आपके पास नाक है!
-Your parents are cool.	Deine Eltern sind cool.	आपके माता -पिता शांत हैं।
-Your phone is ringing.	Dein Telefon klingelt.	आपका फ़ोन बजता है।
 Your shoes are untied.	Deine Schnürsenkel sind offen.	आपके लेस खुले हैं।
 Your shoes are untied.	Ihre Schnürsenkel sind offen.	आपके लेस खुले हैं।
 Your time is over now.	Deine Zeit ist jetzt vorbei.	आपका समय अब ​​खत्म हो गया है।
