@@ -40671,3 +40671,13 @@ Tom screamed with joy.	Tom schrie vor Freude.	टॉम खुशी में �
 Tom scrubbed his feet.	Tom schrubbte seine Füße.	टॉम ने अपने पैरों को स्क्रब किया।
 Tom searched the room.	Tom durchsuchte den Raum.	टॉम ने कमरा खोजा।
 Tom seemed really sad.	Tom schien wirklich traurig zu sein.	टॉम सचमुच बहुत उदास लग रहा था।
+Tom seemed to be done.	Tom schien fertig zu sein.	टॉम को समाप्त होने लगा।
+Tom seemed to be high.	Tom schien high zu sein.	टॉम को उच्च लगने लगा।
+Tom seemed to be hurt.	Tom schien verletzt zu sein.	टॉम को चोट लगने लगी।
+Tom seemed to be rich.	Tom schien reich zu sein.	टॉम को धनी लगने लगा।
+Tom seemed to be sure.	Tom schien sicher zu sein.	टॉम को यकीन लगने लगा।
+Tom seemed to hate me.	Tom schien mich zu hassen.	टॉम मुझसे नफरत करने लगा।
+Tom seemed very tired.	Tom schien sehr müde zu sein.	टॉम बहुत थका हुआ लग रहा था।
+Tom seems incompetent.	Tom scheint inkompetent zu sein.	टॉम अक्षम लग रहा है।
+Tom seems intelligent.	Tom scheint intelligent zu sein.	टॉम बुद्धिमान लगता है।
+Tom seems intoxicated.	Tom scheint berauscht zu sein.	टॉम नशे में लग रहा है।

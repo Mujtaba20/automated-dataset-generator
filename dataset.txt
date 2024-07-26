@@ -1,15 +1,4 @@
 
-Tom seemed to be done.	Tom war sichtlich fix und fertig.	टॉम नेत्रहीन रूप से तय किया गया था।
-Tom seemed to be high.	Tom schien high zu sein.	टॉम उच्च लग रहा था।
-Tom seemed to be hurt.	Tom schien verletzt zu sein.	टॉम को चोट लग रही थी।
-Tom seemed to be rich.	Tom schien reich zu sein.	टॉम अमीर लग रहा था।
-Tom seemed to be sure.	Tom schien sich sicher zu sein.	टॉम सुरक्षित लग रहा था।
-Tom seemed to hate me.	Tom schien mich zu hassen.	टॉम मुझसे नफरत करने लगा।
-Tom seemed very tired.	Tom hat einen sehr müden Eindruck gemacht.	टॉम ने बहुत थका हुआ छाप बनाई।
-Tom seems incompetent.	Tom wirkt inkompetent.	टॉम अक्षम दिखता है।
-Tom seems intelligent.	Tom macht einen intelligenten Eindruck.	टॉम एक बुद्धिमान छाप बनाता है।
-Tom seems intoxicated.	Tom scheint betrunken zu sein.	टॉम नशे में लगता है।
-Tom seems intoxicated.	Tom scheint alkoholisiert zu sein.	टॉम शराबी लगता है।
 Tom seems quite happy.	Tom scheint ziemlich glücklich zu sein.	टॉम बहुत खुश लग रहा है।
 Tom seems quite upset.	Tom scheint völlig bestürzt zu sein.	टॉम पूरी तरह से निराश हो रहा है।
 Tom seems really busy.	Tom scheint ziemlich beschäftigt zu sein.	टॉम बहुत व्यस्त लग रहा है।
