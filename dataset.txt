@@ -1,14 +1,4 @@
 
-Tom may come today.	Tom kann heute kommen.	टॉम आज आ सकता है।
-Tom means business.	Tom meint’s ernst.	टॉम गंभीर है।
-Tom might be early.	Tom könnte zeitig sein.	टॉम जल्दी हो सकता है।
-Tom might be early.	Tom könnte früh sein.	टॉम जल्दी हो सकता है।
-Tom might be early.	Tom könnte früh dran sein.	टॉम जल्दी हो सकता है।
-Tom might be right.	Tom könnte recht haben.	टॉम सही हो सकता है।
-Tom might be right.	Tom mag recht haben.	टॉम सही हो सकता है।
-Tom might be wrong.	Tom mag falsch liegen.	टॉम गलत हो सकता है।
-Tom might be wrong.	Tom könnte falsch liegen.	टॉम गलत हो सकता है।
-Tom might blame us.	Tom könnte uns die Schuld zuschieben.	टॉम हमें दोष दे सकता है।
 Tom might get sick.	Tom könnte krank werden.	टॉम बीमार हो सकता है।
 Tom might hear you.	Tom könnte dich hören.	टॉम आपको सुन सकता था।
 Tom might hear you.	Tom könnte Sie hören.	टॉम उसे सुन सकता था।

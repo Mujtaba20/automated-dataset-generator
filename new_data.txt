@@ -23884,3 +23884,9 @@ Tom makes me smile.	Tom bringt mich zum Lächeln.	Tom मुझे मुस्�
 Tom may be at home.	Tom könnte zu Hause sein.	शायद Tom घर पर हो।
 Tom may be worried.	Tom könnte besorgt sein.	शायद Tom चिंतित हो।
 Tom may believe us.	Tom könnte uns glauben.	शायद Tom हमें विश्वास करे।
+Tom may come today.	Tom könnte heute kommen.	टॉम आज आ सकता है।
+Tom means business.	Tom meint es ernst.	टॉम का धंधा है।
+Tom might be early.	Tom könnte früh dran sein.	टॉम शायद जल्दी हो सकता है।
+Tom might be right.	Tom könnte recht haben.	टॉम सही हो सकता है।
+Tom might be wrong.	Tom könnte falsch liegen.	टॉम गलत हो सकता है।
+Tom might blame us.	Tom könnte uns die Schuld geben.	टॉम हमें दोष दे सकता है।
