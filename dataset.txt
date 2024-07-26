@@ -1,14 +1,4 @@
 
-You can't marry Tom.	Du kannst Tom nicht heiraten.	आप टॉम से शादी नहीं कर सकते।
-You can't marry Tom.	Sie können Tom nicht heiraten.	आप टॉम से शादी नहीं कर सकते।
-You can't mean that.	Das kannst du nicht ernst meinen.	आप गंभीर नहीं हो सकते।
-You can't sit there.	Du kannst dort nicht sitzen.	आप वहां नहीं बैठ सकते।
-You can't stay here.	Du kannst hier nicht bleiben.	आप यहां नहीं रह सकते।
-You can't stay here.	Ihr könnt hier nicht bleiben.	आप यहां नहीं रह सकते।
-You can't stay here.	Sie können hier nicht bleiben.	आप यहां नहीं रह सकते।
-You can't swim here.	Sie können hier nicht schwimmen.	आप यहां तैर नहीं सकते।
-You can't swim here.	Ihr könnt hier nicht schwimmen.	आप यहां तैर नहीं सकते।
-You could do better.	Das kannst du noch besser.	आप ऐसा भी बेहतर कर सकते हैं।
 You could let us go.	Du könntest uns gehen lassen.	आप हमें जाने दे सकते हैं।
 You deserve a prize.	Sie verdienen einen Preis.	आप एक कीमत कमाते हैं।
 You did a great job.	Du hast richtig gute Arbeit geleistet.	आपने वास्तव में अच्छा काम किया।

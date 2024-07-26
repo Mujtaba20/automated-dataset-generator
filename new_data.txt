@@ -30135,3 +30135,9 @@ You can't help them.	Du kannst ihnen nicht helfen.	तुम उनकी मद
 You can't just quit.	Du kannst nicht einfach aufhören.	तुम बस छोड़ना नहीं चाहिए।
 You can't leave now.	Du kannst jetzt nicht gehen.	तुम अभी नहीं जा सकते।
 You can't leave yet.	Du kannst noch nicht gehen.	तुम अभी भी नहीं जा सकते।
+You can't marry Tom.	Du kannst Tom nicht heiraten.	तुम टॉम से शादी नहीं कर सकते।
+You can't mean that.	Du kannst das nicht meinen.	तुम वह मतलब नहीं कर सकते।
+You can't sit there.	Du kannst nicht dort sitzen.	तुम वहाँ बैठ नहीं सकते।
+You can't stay here.	Du kannst hier nicht bleiben.	तुम यहाँ ठहर नहीं सकते।
+You can't swim here.	Du kannst hier nicht schwimmen.	तुम यहाँ तैर नहीं सकते।
+You could do better.	Du könntest es besser machen.	तुम बेहतर कर सकते थे।
