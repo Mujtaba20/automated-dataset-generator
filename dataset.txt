@@ -1,14 +1,4 @@
 
-Tom is always crying.	Tom weint immer.	टॉम हमेशा रोता है।
-Tom is always honest.	Tom ist immer ehrlich.	टॉम हमेशा ईमानदार होता है।
-Tom is always hungry.	Tom hat immer Hunger.	टॉम हमेशा भूखा रहता है।
-Tom is always joking.	Tom macht immer Witze!	टॉम हमेशा मजाक करता है!
-Tom is always online.	Tom ist immer online.	टॉम हमेशा ऑनलाइन होता है।
-Tom is always polite.	Tom ist immer höflich.	टॉम हमेशा विनम्र रहता है।
-Tom is always scared.	Tom hat immer Angst.	टॉम हमेशा डरता है।
-Tom is always sleepy.	Tom ist immer müde.	टॉम हमेशा थक जाता है।
-Tom is an accountant.	Tom ist Buchhalter.	टॉम एक एकाउंटेंट है।
-Tom is an art critic.	Tom ist Kunstkritiker.	टॉम एक कला आलोचक है।
 Tom is an art dealer.	Tom ist Kunsthändler.	टॉम एक कला डीलर है।
 Tom is an honest man.	Tom ist ein aufrichtiger Mann.	टॉम एक ईमानदार आदमी है।
 Tom is an old friend.	Tom ist ein alter Freund.	टॉम एक पुराना दोस्त है।

@@ -34391,3 +34391,13 @@ Tom is almost thirty.	Tom ist fast dreißig.	टॉम लगभग तीस �
 Tom is already awake.	Tom ist bereits wach.	टॉम पहले से ही जागा हुआ है।
 Tom is already there.	Tom ist bereits dort.	टॉम पहले से ही वहां है।
 Tom is always absent.	Tom ist immer abwesend.	टॉम हमेशा गैरहाजिर रहता है।
+Tom is always crying.	Tom weint immer.	टॉम हमेशा रो रहा है।
+Tom is always honest.	Tom ist immer ehrlich.	टॉम हमेशा ईमानदार होता है।
+Tom is always hungry.	Tom hat immer Hunger.	टॉम हमेशा भूखा होता है।
+Tom is always joking.	Tom macht immer Witze.	टॉम हमेशा मजाक करता है।
+Tom is always online.	Tom ist immer online.	टॉम हमेशा ऑनलाइन रहता है।
+Tom is always polite.	Tom ist immer höflich.	टॉम हमेशा शिष्ट रहता है।
+Tom is always scared.	Tom hat immer Angst.	टॉम हमेशा डरा हुआ होता है।
+Tom is always sleepy.	Tom ist immer müde.	टॉम हमेशा नींद में होता है।
+Tom is an accountant.	Tom ist ein Buchhalter.	टॉम एक लेखा समापनकर्ता है।
+Tom is an art critic.	Tom ist Kunstkritiker.	टॉम कला समीक्षक है।
