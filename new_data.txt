@@ -22121,3 +22121,11 @@ Is Tom still awake?	Ist Tom noch wach?	क्या टॉम अब भी ज�
 Is Tom there alone?	Ist Tom alleine da?	क्या वहां सिर्फ टॉम है?
 Is Tom your nephew?	Ist Tom dein Neffe?	क्या टॉम आपका भतीजा है?
 Is breakfast ready?	Ist das Frühstück fertig?	क्या नाश्ता तैयार है?
+Is everybody happy?	Ist jeder glücklich?	क्या सभी खुश हैं?
+Is everybody ready?	Ist jeder bereit?	क्या सभी तैयार हैं?
+Is he back already?	Ist er schon zurück?	क्या वह पहले से ही वापस आ गया है?
+Is he studying now?	Studiert er jetzt?	क्या वह अभी पढ़ाई कर रहा है?
+Is he your teacher?	Ist er dein Lehrer?	क्या वह तुम्हारा शिक्षक है?
+Is it a compliment?	Ist es ein Kompliment?	क्या यह एक सराहना है?
+Is it a nice place?	Ist es ein schöner Ort?	क्या यह एक अच्छा स्थान है?
+Is it all paid for?	Ist alles bezahlt?	क्या सबकुछ भुगतान हो गया है?

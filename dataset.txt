@@ -1,14 +1,4 @@
 
-Is everybody happy?	Sind alle zufrieden?	क्या हर कोई संतुष्ट है?
-Is everybody ready?	Ist jeder fertig?	क्या हर कोई तैयार है?
-Is he back already?	Ist er schon zurück?	क्या वह पहले से ही वापस आ गया है?
-Is he studying now?	Lernt er gerade?	क्या वह सिर्फ सीखता है?
-Is he your teacher?	Ist er dein Lehrer?	क्या वह आपका शिक्षक है?
-Is he your teacher?	Ist er euer Lehrer?	क्या वह आपका शिक्षक है?
-Is he your teacher?	Ist er Ihr Lehrer?	क्या वह आपका शिक्षक है?
-Is it a compliment?	Ist das ein Kompliment?	क्या यह एक तारीफ है?
-Is it a nice place?	Ist es ein schöner Ort?	क्या यह एक अच्छी जगह है?
-Is it all paid for?	Ist alles bezahlt?	क्या सब कुछ भुगतान किया जाता है?
 Is it an emergency?	Ist es ein Notfall?	क्या यह आपातकालीन स्थिति है?
 Is it cold outside?	Ist es draußen kalt?	बाहर ठंड है?
 Is it five already?	Ist es schon fünf?	क्या यह पहले से ही पांच है?
