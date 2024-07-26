@@ -41126,3 +41126,11 @@ We'll be watching you.	Wir werden dich beobachten.	हम तुम्हें 
 We'll begin work soon.	Wir werden bald mit der Arbeit beginnen.	हम जल्द ही काम शुरू करेंगे।
 We'll come back later.	Wir kommen später wieder.	हम बाद में वापस आएँगे।
 We'll give you a call.	Wir werden Sie anrufen.	हम आपको कॉल करेंगे।
+We'll go after we eat.	Wir werden gehen, nachdem wir gegessen haben.	हम क्या नहीं खाएंगे।
+We'll look ridiculous.	Wir werden lächerlich aussehen.	हम विनम्र दिखेंगे।
+We'll meet right here.	Wir werden uns hier treffen.	हम सही यहाँ मिलेंगे।
+We'll need Tom's help.	Wir werden Toms Hilfe brauchen.	हमें टॉम की मदद की जरूरत होगी।
+We'll need more money.	Wir werden mehr Geld brauchen.	हमें और पैसे की जरूरत होगी।
+We'll never catch Tom.	Wir werden Tom niemals fangen.	हम कभी टॉम को पकड़ने की कोशिश नहीं करेंगे।
+We'll run in the park.	Wir werden im Park laufen.	हम पार्क में दौड़ेंगे।
+We'll see how it goes.	Wir werden sehen, wie es läuft.	हम देखेंगे कि यह कैसा चलता है।
