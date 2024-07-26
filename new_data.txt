@@ -26288,3 +26288,12 @@ I had a premonition.	Ich hatte eine Vorahnung.	मुझे पूर्वा�
 I had a sore throat.	Ich hatte Halsschmerzen.	मुझे गले में खराश थी।
 I had little choice.	Ich hatte wenig Auswahl.	मेरे पास थोड़ी सी विकल्प थी।
 I had my car stolen.	Mein Auto wurde gestohlen.	मेरी गाड़ी चोरी हो गई थी।
+I had one last hope.	Ich hatte eine letzte Hoffnung.	मेरे पास अंतिम आशा थी।
+I had to arrest Tom.	Ich musste Tom verhaften.	मुझे टॉम को गिरफ्तार करना पड़ा।
+I had to go to work.	Ich musste zur Arbeit gehen.	मुझे काम पर जाना था।
+I hate being a boss.	Ich hasse es, Chef zu sein.	मुझे बॉस होना नफरत है।
+I hate eating alone.	Ich hasse es, alleine zu essen.	मुझे अकेले खाना नफरत है।
+I hate living alone.	Ich hasse es, alleine zu leben.	मैंने अकेले रहने से नफरत करता हूँ।
+I hate losing money.	Ich hasse es, Geld zu verlieren.	मुझे पैसे खोने से नफरत है।
+I hate that so much.	Das hasse ich so sehr.	मैं उससे इतनी नफरत करता हूँ।
+I hate this village.	Ich hasse dieses Dorf.	मुझे इस गाँव से नफरत है।
