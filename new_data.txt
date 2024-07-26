@@ -21288,3 +21288,13 @@ I have lost my key.	Ich habe meinen Schlüssel verloren.	मेरा कुं�
 I have lost my pen.	Ich habe meinen Stift verloren.	मेरी पेन खो गई है।
 I have many photos.	Ich habe viele Fotos.	मेरे पास कई फोटो हैं।
 I have my own room.	Ich habe mein eigenes Zimmer.	मेरे पास अपना खुद का कमरा है।
+I have my passport.	Ich habe meinen Reisepass.	मेरे पासपोर्ट है।
+I have no children.	Ich habe keine Kinder.	मेरे पास बच्चे नहीं हैं।
+I have no patience.	Ich habe keine Geduld.	मेरे पास सतर्कता नहीं है।
+I have no siblings.	Ich habe keine Geschwister.	मेरे पास सांगी नहीं हैं।
+I have one brother.	Ich habe einen Bruder.	मेरे पास एक भाई है।
+I have one with me.	Ich habe einen bei mir.	मेरे पास एक है।
+I have seen enough.	Ich habe genug gesehen.	मैंने काफी देख लिया है।
+I have small hands.	Ich habe kleine Hände.	मेरे हाथ छोटे हैं।
+I have the day off.	Ich habe den Tag frei.	मेरे पास आज दिन का छुट्टा है।
+I have three books.	Ich habe drei Bücher.	मेरे पास तीन किताबें हैं।

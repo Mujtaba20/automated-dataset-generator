@@ -1,14 +1,4 @@
 
-I have my passport.	Ich habe meinen Pass.	मेरे पास मेरा पासपोर्ट है।
-I have no children.	Ich habe keine Kinder.	मुझे बच्चे नहीं है।
-I have no patience.	Ich bin nicht geduldig.	मैं धैर्यवान नहीं हूं।
-I have no siblings.	Ich habe keine Geschwister.	मेरे कोई भाई - बहन नहीं है।
-I have one brother.	Ich habe einen Bruder.	मेरा एक भाई है।
-I have one with me.	Ich habe eins bei mir.	मेरे पास एक है।
-I have seen enough.	Ich habe genug gesehen.	मैंने काफी देखा।
-I have small hands.	Ich habe kleine Hände.	मेरे छोटे हाथ हैं।
-I have the day off.	Ich habe heute frei.	मेरे पास दिन है।
-I have three books.	Ich habe drei Bücher.	मेरे पास तीन किताबें हैं।
 I have to be there.	Ich muss dort sein.	मुझे वहां रहना है।
 I have to call Tom.	Ich muss Tom anrufen.	मुझे टॉम को फोन करना है।
 I have to dress up.	Ich muss mich schick machen.	मुझे खुद को ठाठ बनाना है।
