@@ -1,14 +1,4 @@
 
-Tom likes the rain.	Tom mag den Regen.	टॉम को बारिश पसंद है।
-Tom likes to argue.	Tom streitet sich gern.	टॉम को बहस करना पसंद है।
-Tom likes to drink.	Tom trinkt gerne.	टॉम को पीना पसंद है।
-Tom likes to party.	Tom feiert gerne.	टॉम को जश्न मनाना पसंद है।
-Tom likes to write.	Tom schreibt gerne.	टॉम को लिखना पसंद है।
-Tom limps slightly.	Tom humpelt leicht.	टॉम थोड़ा सा।
-Tom lived to be 93.	Tom wurde 93 Jahre alt.	टॉम 93 साल का हो गया।
-Tom lived to be 97.	Tom wurde 97 Jahre alt.	टॉम 97 साल का हो गया।
-Tom lives above me.	Tom wohnt über mir.	टॉम मेरे ऊपर रहता है।
-Tom lives downtown.	Tom wohnt in der Innenstadt.	टॉम शहर के केंद्र में रहता है।
 Tom lives frugally.	Tom lebt sparsam.	टॉम किफायती रहता है।
 Tom lives here now.	Tom ist jetzt hier zu Hause.	टॉम अब घर पर है।
 Tom locked the car.	Tom verriegelte das Auto.	टॉम ने कार को बंद कर दिया।

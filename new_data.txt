@@ -23831,3 +23831,13 @@ Tom likes redheads.	Tom mag Rothaarige.	टॉम को लाल-बालो�
 Tom likes swimming.	Tom mag schwimmen.	टॉम को तैरना पसंद है।
 Tom likes that one.	Tom mag das.	टॉम को वह पसंद है।
 Tom likes the idea.	Tom mag die Idee.	टॉम को यह विचार पसंद है।
+Tom likes the rain.	Tom mag den Regen.	टॉम को बारिश पसंद है।
+Tom likes to argue.	Tom streitet gerne.	टॉम को झगड़ा करना पसंद है।
+Tom likes to drink.	Tom trinkt gerne.	टॉम को पीना पसंद है।
+Tom likes to party.	Tom feiert gerne.	टॉम को पार्टी करना पसंद है।
+Tom likes to write.	Tom schreibt gerne.	टॉम को लिखना पसंद है।
+Tom limps slightly.	Tom hinkt leicht.	टॉम को थोड़ी सी लंगड़ाई है।
+Tom lived to be 93.	Tom lebte bis 93.	टॉम 93 साल की उम्र तक जीता।
+Tom lived to be 97.	Tom lebte bis 97.	टॉम 97 साल की उम्र तक जीता।
+Tom lives above me.	Tom lebt über mir.	टॉम मेरे ऊपर रहता है।
+Tom lives downtown.	Tom lebt in der Innenstadt.	टॉम शहर के बीच में रहता है।
