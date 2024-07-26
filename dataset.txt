@@ -1,15 +1,4 @@
 
-I'm really mad at Tom.	Ich bin echt sauer auf Tom.	मैं वास्तव में टॉम से नाराज हूं।
-I'm really not hungry.	Ich habe wirklich keinen Hunger.	मैं वास्तव में भूखा नहीं हूं।
-I'm really not hungry.	Ich bin wirklich nicht hungrig.	मैं वास्तव में भूखा नहीं हूँ।
-I'm really quite busy.	Ich bin wirklich ziemlich beschäftigt.	मैं वास्तव मे व्यस्त हूँ।
-I'm really very sorry.	Es tut mir echt total leid.	मैं वास्तव में माफी चाहता हूँ।
-I'm sick of hospitals.	Ich hab die Spitäler satt.	मेरे पास अस्पताल भरे हुए हैं।
-I'm sick of hospitals.	Ich habe Krankenhäuser satt.	मुझे पर्याप्त अस्पताल मिलते हैं।
-I'm sorry I said that.	Es tut mir leid, dass ich das gesagt habe.	मुझे खेद है कि मैंने कहा कि।
-I'm sorry that I lied.	Es tut mir leid, dass ich gelogen habe.	मुझे खेद है कि मैंने झूठ बोला।
-I'm still job hunting.	Ich befinde mich noch auf Arbeitssuche.	मैं अभी भी नौकरी की तलाश में हूं।
-I'm still job hunting.	Ich suche noch Arbeit.	मैं अभी भी काम की तलाश में हूं।
 I'm still not married.	Ich bin noch immer unverheiratet.	मैं अभी भी अविवाहित हूं।
 I'm stronger than you.	Ich bin stärker als du.	मैं तुमसे ज्यादा मजबूत हूं।
 I'm stronger than you.	Ich bin stärker als ihr.	मैं तुमसे ज्यादा मजबूत हूं।

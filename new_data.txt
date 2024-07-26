@@ -38291,3 +38291,11 @@ I'm only doing my job.	Ich mache nur meine Arbeit.	मैं बस अपना
 I'm out of place here.	Ich bin hier fehl am Platz.	मैं यहाँ पर नहीं हूँ।
 I'm playing a TV game.	Ich spiele ein Fernsehspiel.	मैं एक टीवी गेम खेल रहा हूँ।
 I'm reading this book.	Ich lese dieses Buch.	मैं यह बुक पढ़ रहा हूँ।
+I'm really mad at Tom.	Ich bin wirklich wütend auf Tom.	मैं वास्तव में टॉम पर गुस्सा हूं।
+I'm really not hungry.	Ich bin wirklich nicht hungrig.	मुझे वास्तव में भूख नहीं है।
+I'm really quite busy.	Ich bin wirklich ziemlich beschäftigt.	मैं वास्तव में काफी व्यस्त हूं।
+I'm really very sorry.	Es tut mir wirklich sehr leid.	मैं वास्तव में बहुत खेदगार हूं।
+I'm sick of hospitals.	Ich habe genug von Krankenhäusern.	मुझे अस्पतालों से अधिक मनहूसी हो गई है।
+I'm sorry I said that.	Es tut mir leid, dass ich das gesagt habe.	मुझे खेद है कि मैंने वह कहा।
+I'm sorry that I lied.	Es tut mir leid, dass ich gelogen habe.	मुझे खेद है कि मैंने झूठ बोला।
+I'm still job hunting.	Ich suche immer noch nach einem Job.	मैं अभी भी नौकरी ढूंढ़ रहा हूं।
