@@ -22430,3 +22430,11 @@ Let's get divorced.	Lass uns scheiden.	हम तलाक लें।
 Let's get off here.	Lass uns hier aussteigen.	चलो यहाँ से उतरते हैं।
 Let's go home, Tom.	Lass uns nach Hause gehen, Tom.	चलो घर चलें, टॉम।
 Let's hide in here.	Lass uns hier verstecken.	चलो यहाँ छुपें।
+Let's hit the sack.	Ziehen wir uns zurück.	आओ, चलो सो जाएं।
+Let's just go home.	Lass uns einfach nach Hause gehen.	बस चलो घर जाएं।
+Let's meet at 2:30.	Lasst uns um 14:30 Uhr treffen.	2:30 बजे मिलें।
+Let's meet at 6:30.	Lass uns um 18:30 Uhr treffen.	6:30 बजे मिलें।
+Let's skip dessert.	Lass uns das Dessert auslassen.	मिठाई को छोड़ दें।
+Let's speak French.	Lass uns Französisch sprechen.	चलो फ्रेंच बोलते हैं।
+Let's stay focused.	Lass uns konzentriert bleiben.	ध्यान लगाए रहें।
+Let's study French.	Lass uns Französisch lernen.	फ्रेंच पढ़ने चलें।
