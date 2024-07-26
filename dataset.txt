@@ -1,14 +1,4 @@
 
-I'll drive you there.	Ich fahre dich dahin.	मैं तुम्हें वहाँ चलाता हूँ।
-I'll eat standing up.	Ich werde im Stehen essen.	मैं खड़े होकर खाऊंगा।
-I'll finish it later.	Ich werde es später beenden.	मैं इसे बाद में समाप्त करूँगा।
-I'll get Tom for you.	Ich werde Tom für dich holen.	मैं तुम्हारे लिए टॉम प्राप्त करूँगा।
-I'll get another job.	Ich werde mir eine andere Arbeit suchen.	मैं एक और काम की तलाश करूंगा।
-I'll get back to you.	Ich werde auf dich zurückkommen.	मैं तुम्हारे पास वापस आ जाऊंगा।
-I'll get rid of them.	Ich werde mich ihrer entledigen.	मुझे उससे छुटकारा मिल जाएगा।
-I'll get rid of them.	Ich werde sie loswerden.	मैं उससे छुटकारा पाऊंगा।
-I'll get right on it.	Ich werde mich gleich darum kümmern.	मैं तुरंत इसका ध्यान रखूंगा।
-I'll get this to Tom.	Ich werde das Tom bringen.	मैं टॉम लाऊंगा।
 I'll give you a book.	Ich werde dir ein Buch geben.	मैं आपको एक किताब दूंगा।
 I'll give you my car.	Ich gebe dir mein Auto.	मैं तुम्हें अपनी कार दे दूँगा।
 I'll gladly help you.	Ich werde dir mit Freude behilflich sein.	मैं आपकी खुशी के साथ मदद करूंगा।

@@ -32373,3 +32373,12 @@ I'll do what you ask.	Ich tue, was du verlangst.	मैं वह करूं�
 I'll do what you say.	Ich mache, was du sagst.	मैं वह करूँगा जो तुम कहो।
 I'll dream about you.	Ich werde von dir träumen.	मैं तुम्हारे ख्यालों में खोया रहूंगा।
 I'll drive Tom there.	Ich werde Tom dorthin fahren.	मैं टॉम को वहां छोड़ दूंगा।
+I'll drive you there.	Ich bringe dich dorthin.	मैं तुम्हें वहाँ लेकर जाऊंगा।
+I'll eat standing up.	Ich werde im Stehen essen.	मैं खड़े होकर खाऊंगा।
+I'll finish it later.	Ich werde es später beenden.	बाद में मैं इसे पूरा कर दूंगा।
+I'll get Tom for you.	Ich werde Tom für dich holen.	मैं तुम्हारे लिए टॉम को लेआऊंगा।
+I'll get another job.	Ich werde einen anderen Job bekommen.	मैं एक और नौकरी लूंगा।
+I'll get back to you.	Ich werde auf dich zurückkommen.	मैं आपको लौटकर आऊंगा।
+I'll get rid of them.	Ich werde sie loswerden.	मैं उन्हें खत्म कर दूंगा।
+I'll get right on it.	Ich werde sofort daran arbeiten.	मैं तुरंत इस पर काम करुंगा।
+I'll get this to Tom.	Ich werde das zu Tom bringen.	मैं यह टॉम को दूंगा।
