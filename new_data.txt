@@ -26469,3 +26469,13 @@ I like movies a lot.	Ich mag Filme sehr gerne.	मुझे फिल्मे�
 I like paying taxes.	Ich zahle gerne Steuern.	मुझे कर देना पसंद है।
 I like playing golf.	Ich spiele gerne Golf.	मुझे गोल्फ खेलना पसंद है।
 I like potato salad.	Ich mag Kartoffelsalat.	मुझे आलू सलाद पसंद है।
+I like strawberries.	Ich mag Erdbeeren.	मुझे स्ट्रॉबेरी पसंद है।
+I like taking walks.	Ich gehe gerne spazieren.	मुझे टहलना पसंद है।
+I like that sweater.	Ich mag diesen Pullover.	मुझे वह स्वेटर पसंद है।
+I like this sweater.	Ich mag diesen Pullover.	मुझे यह स्वेटर पसंद है।
+I like this weather.	Ich mag dieses Wetter.	मुझे यह मौसम पसंद है।
+I like to chop wood.	Ich mag es, Holz zu hacken.	मुझे लकड़ी काटना पसंद है।
+I like to come here.	Ich komme gerne hierher.	मुझे यहाँ आना पसंद है।
+I like to play golf.	Ich spiele gerne Golf.	मुझे गोल्फ खेलना पसंद है।
+I like where I live.	Ich mag, wo ich lebe.	मुझे वहाँ रहना पसंद है।
+I like wild flowers.	Ich mag wilde Blumen.	मुझे जंगली फूल पसंद हैं।

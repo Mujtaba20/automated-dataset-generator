@@ -1,14 +1,4 @@
 
-I like strawberries.	Ich mag Erdbeeren.	मुझे स्ट्रॉबेरी पसंद है।
-I like taking walks.	Ich gehe gerne spazieren.	मुझे टहलना पसंद है।
-I like that sweater.	Ich mag den Pullover.	मुझे स्वेटर पसंद है।
-I like this sweater.	Ich mag seinen Pullover.	मुझे उसका स्वेटर पसंद है।
-I like this weather.	Ich mag dieses Wetter.	मुझे यह मौसम पसंद है।
-I like to chop wood.	Ich hacke gerne Holz.	मुझे लकड़ी काटना पसंद है।
-I like to come here.	Ich komme gerne hierher.	मुझे यहां आना पसंद है।
-I like to play golf.	Ich spiele gerne Golf.	मुझे गोल्फ खेलना पसंद है।
-I like where I live.	Ich mag, wo ich lebe.	मुझे पसंद है कि मैं कहाँ रहता हूँ।
-I like wild flowers.	Ich mag Wildblumen.	मुझे जंगली फूल पसंद हैं।
 I like working here.	Ich arbeite gerne hier.	मुझे यहां काम करना पसंद है।
 I like your article.	Mir gefällt dein Artikel.	मुझे आपका लेख पसंद है।
 I like your glasses.	Ihre Brille gefällt mir.	मुझे उसका चश्मा पसंद है।
