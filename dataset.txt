@@ -1,14 +1,4 @@
 
-Is Tom good at driving?	Kann Tom gut Auto fahren?	क्या टॉम एक कार चला सकता है?
-Is Tom in the hospital?	Ist Tom im Krankenhaus?	क्या अस्पताल में टॉम है?
-Is Tom learning French?	Lernt Tom Französisch?	क्या टॉम फ्रेंच सीखता है?
-Is Tom married to Mary?	Ist Tom verheiratet mit Maria?	क्या टॉम ने मारिया से शादी की है?
-Is Tom still at school?	Ist Tom noch in der Schule?	क्या टॉम अभी भी स्कूल में है?
-Is Tom still in school?	Geht Tom noch zur Schule?	क्या टॉम अभी भी स्कूल जाता है?
-Is Tom still on a diet?	Macht Tom noch Diät?	क्या टॉम अभी भी आहार बनाता है?
-Is Tom still with Mary?	Ist Tom noch bei Maria?	क्या टॉम अभी भी मारिया के साथ है?
-Is Tom suggesting that?	Schlägt Tom das vor?	क्या टॉम का सुझाव है?
-Is anyone absent today?	Fehlt heute irgendwer?	क्या आज किसी को याद आ रही है?
 Is anyone else bidding?	Bietet sonst noch jemand?	क्या कोई और पेश करता है?
 Is anyone else bidding?	Gibt es weitere Gebote?	क्या कोई अन्य आज्ञा है?
 Is anyone else thirsty?	Hat sonst noch jemand Durst?	क्या कोई और प्यास है?
