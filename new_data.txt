@@ -28085,3 +28085,12 @@ That's a good price.	Das ist ein guter Preis.	यह एक अच्छी क�
 That's a good thing.	Das ist eine gute Sache.	वह एक अच्छी बात है।
 That's a great idea!	Das ist eine großartige Idee!	यह एक बड़ी बात है!
 That's a great idea.	Das ist eine geniale Idee.	उसमें मजा है!
+That's a great name.	Das ist ein toller Name.	यह एक शानदार नाम है।
+That's a great plan.	Das ist ein großartiger Plan.	यह एक शानदार योजना है।
+That's a great poem.	Das ist ein tolles Gedicht.	यह एक शानदार कविता है।
+That's a lemon tree.	Das ist ein Zitronenbaum.	यह एक नींबू का पेड़ है।
+That's a lot to ask.	Das ist viel verlangt.	यह बहुत ज्यादा मांगना है।
+That's a new record.	Das ist ein neuer Rekord.	यह एक नया रिकॉर्ड है।
+That's a nice story.	Das ist eine schöne Geschichte.	यह एक अच्छी कहानी है।
+That's a no-brainer.	Das ist eine Selbstverständlichkeit.	यह बिना सोचे समझे का काम है।
+That's a tall order.	Das ist eine große Herausforderung.	यह एक लंबा आदेश है।
