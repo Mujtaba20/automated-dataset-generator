@@ -1,14 +1,4 @@
 
-Is there a timetable?	Gibt es einen Stundenplan?	क्या कोई समय सारिणी है?
-Is there a treatment?	Gibt es eine Heilmethode?	क्या कोई उपचार विधि है?
-Is there an elevator?	Gibt es einen Aufzug?	क्या कोई लिफ्ट है?
-Is there anyone else?	Ist noch jemand da?	क्या कोई और वहां है?
-Is there anyone here?	Ist jemand hier?	क्या कोई यहाँ है?
-Is this Tom's office?	Ist das hier Toms Büro?	क्या यह टॉम का कार्यालय है?
-Is this a compliment?	Ist das ein Kompliment?	क्या यह एक तारीफ है?
-Is this beef or pork?	Ist das Rindfleisch oder Schweinefleisch?	वह गोमांस या पोर्क है?
-Is this beef or pork?	Ist das Rind oder Schwein?	क्या वह गोमांस या सुअर है?
-Is this decaf coffee?	Ist das koffeinfreier Kaffee?	क्या वह कैफीन -फ्री कॉफी है?
 Is this diamond real?	Ist dieser Diamant echt?	क्या यह हीरा असली है?
 Is this enough money?	Reicht das Geld?	क्या वो काफी है?
 Is this good English?	Ist das gutes Englisch?	क्या वह अच्छी अंग्रेजी है?

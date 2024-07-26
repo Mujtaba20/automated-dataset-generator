@@ -32725,3 +32725,12 @@ Is that your husband?	Ist das dein Ehemann?	क्या यह तुम्ह�
 Is the cat all right?	Geht es der Katze gut?	बिल्ली ठीक है?
 Is the lemonade good?	Ist der Limonade gut?	लेमनेड अच्छा है?
 Is the phone ringing?	Klingelt das Telefon?	क्या फोन बज रहा है?
+Is there a timetable?	Gibt es einen Zeitplan?	क्या वहाँ एक समय सारणी है?
+Is there a treatment?	Gibt es eine Behandlung?	क्या उपचार है?
+Is there an elevator?	Gibt es einen Aufzug?	क्या वहाँ एक लिफ़्ट है?
+Is there anyone else?	Ist noch jemand da?	क्या कोई और है?
+Is there anyone here?	Ist hier jemand?	क्या यहाँ कोई है?
+Is this Tom's office?	Ist das das Büro von Tom?	क्या यह टॉम का कार्यालय है?
+Is this a compliment?	Ist das ein Kompliment?	क्या यह प्रशंसा है?
+Is this beef or pork?	Ist das Rindfleisch oder Schweinefleisch?	क्या यह गाय का गोश्त है या सुअर का?
+Is this decaf coffee?	Ist das entkoffeinierter Kaffee?	क्या यह डीकैफ़ कॉफ़ी है?
