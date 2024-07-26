@@ -1,16 +1,4 @@
 
-Please don't touch Tom.	Bitte nicht Tom anfassen!	कृपया टॉम को मत छुओ!
-Please drive carefully.	Bitte fahr vorsichtig.	ड्राइव सावधानीपूर्वक करें कृपया।
-Please drive carefully.	Bitte fahrt vorsichtig.	ड्राइव सावधानीपूर्वक करें कृपया।
-Please drive carefully.	Bitte fahren Sie vorsichtig.	ड्राइव सावधानीपूर्वक करें कृपया।
-Please drive carefully.	Fahre bitte vorsichtig!	ड्राइव सावधानीपूर्वक करें कृपया!
-Please give me a drink.	Geben Sie mir bitte etwas zu trinken.	कृपया मुझे पीने के लिए कुछ दें।
-Please give me a drink.	Bitte geben Sie mir etwas zu trinken.	कृपया मुझे पीने के लिए कुछ दें।
-Please go to the bench.	Geh bitte zur Bank.	कृपया बैंक जाएं।
-Please help yourselves.	Bitte bedient euch!	इस्तेमाल करें!
-Please keep me updated.	Bitte halte mich auf dem Laufenden.	कृपया मुझे अद्यतित रखें।
-Please keep me updated.	Bitte haltet mich auf dem Laufenden.	कृपया मुझे अद्यतित रखें।
-Please keep me updated.	Bitte halten Sie mich auf dem Laufenden.	कृपया मुझे अद्यतित रखें।
 Please leave Tom alone.	Lass Tom bitte in Ruhe!	कृपया टॉम को अकेला छोड़ दें!
 Please leave Tom alone.	Lass Tom bitte allein!	कृपया टॉम को अकेला छोड़ दें!
 Please leave a message.	Hinterlassen Sie bitte eine Nachricht!	कृपया एक संदेश छोड़ें!
