@@ -31064,3 +31064,12 @@ He is full of energy.	Er ist voller Energie.	वह ऊर्जा से भ�
 He is getting better.	Er wird besser.	वह बेहतर हो रहा है।
 He is getting better. - Different Meaning	Er kommt besser klar.	वह बेहतर समझ रहा है।
 He is getting better. - Different Meaning 2	Er wird gesünder.	वह ठीक हो रहा है।
+He is good at diving.	Er ist gut im Tauchen.	वह डाइविंग में अच्छा है।
+He is good at soccer.	Er ist gut im Fußball.	वह फुटबॉल में अच्छा है।
+He is good at tennis.	Er ist gut im Tennis.	वह टेनिस में अच्छा है।
+He is hard to please.	Er ist schwer zufrieden zu stellen.	उसको खुश करना मुश्किल है।
+He is his own master.	Er ist sein eigener Herr.	वह अपने मालिक है।
+He is his usual self.	Er ist wie immer.	वह अपने आप में सामान्य है।
+He is in his library.	Er ist in seiner Bibliothek.	वह अपनी पुस्तकालय में है।
+He is in poor health.	Er ist gesundheitlich angeschlagen.	उसकी स्वास्थ्य स्थिति खराब है।
+He is in the kitchen.	Er ist in der Küche.	वह रसोई में है।

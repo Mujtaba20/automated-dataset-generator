@@ -1,14 +1,4 @@
 
-He is good at diving.	Er kann gut tauchen.	वह अच्छी तरह से गोता लगा सकता है।
-He is good at soccer.	Er spielt gut Fußball.	वह अच्छी तरह से फुटबॉल खेलता है।
-He is good at soccer.	Er ist gut im Fußball.	वह फुटबॉल में अच्छा है।
-He is good at tennis.	Er spielt gut Tennis.	वह टेनिस को अच्छी तरह से खेलता है।
-He is hard to please.	Er ist schwer zufriedenzustellen.	उसे संतुष्ट करना मुश्किल है।
-He is his own master.	Er ist sein eigener Herr.	वह उनके अपने सज्जन हैं।
-He is his usual self.	Er ist ganz der Alte.	वह पूरी तरह से पुराना है।
-He is in his library.	Er ist in seiner Bibliothek.	वह अपनी लाइब्रेरी में है।
-He is in poor health.	Er ist bei schlechter Gesundheit.	वह खराब स्वास्थ्य में है।
-He is in the kitchen.	Er ist in der Küche.	वह रसोई में है।
 He is in trouble now.	Er steckt jetzt in Schwierigkeiten.	वह अब मुसीबत में है।
 He is likely to come.	Er wird wahrscheinlich kommen.	वह शायद आ जाएगा।
 He is likely to come.	Er wird vielleicht kommen.	शायद वह आएगा।
