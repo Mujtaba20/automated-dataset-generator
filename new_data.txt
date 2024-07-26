@@ -24582,3 +24582,12 @@ What's in your car?	Was ist in deinem Fahrzeug?	तुम्हारे वा�
 What's it good for?	Wozu taugt es?	यह किसके लिए उपयोगी है?
 What's not to like?	Was gibt es nicht zu mögen?	पसंद न करने वाली कोई चीज़ क्या है?
 What's stopping us?	Was hält uns auf?	हमें क्यों रोक रहा है?
+What's that called?	Wie heißt das?	वह कैसे बुलाया जाता है?
+What's that number?	Was ist diese Nummer?	वह कौन सी संख्या है?
+What's the problem?	Was ist das Problem?	मुद्दा क्या है?
+What's the urgency?	Wie dringend ist es?	इसमें कितनी जल्दी है?
+What's there to do?	Was gibt es zu tun?	करने के लिए क्या है?
+What's this called?	Wie heißt das?	यह कैसे बुलाया जाता है?
+What's up with Tom?	Was ist los mit Tom?	टॉम के साथ क्या है?
+What's up with you?	Was ist los mit dir?	तुम्हारे साथ क्या है?
+What's your advice?	Was ist dein Rat?	तुम्हारी सलाह क्या है?
