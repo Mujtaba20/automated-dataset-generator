@@ -39040,3 +39040,10 @@ Remember Tom's advice.	Denke an Toms Ratschlag.	टॉम की सलाह �
 Remember your promise.	Erinnere dich an dein Versprechen.	अपना वादा याद रखें।
 Remove your blindfold.	Nimm deine Augenbinde ab.	अपनी आँखों की पट्टी हटा दो।
 Restart your computer.	Starten Sie Ihren Computer neu.	अपने कंप्यूटर को फिर से आरंभ करें।
+Roll down your window.	Kurbeln Sie Ihr Fenster herunter.	अपनी खिड़की नीचे करें।
+Roller skating is fun.	Inline-Skaten macht Spaß.	रोलर स्केटिंग मजेदार है।
+Save room for dessert.	Platz für das Dessert sparen.	मिठाई के लिए जगह बचाएं।
+Say Tom, what's wrong?	Sag Tom, was ist los?	बोलो टॉम, क्या गड़बड़ है?
+Say it in another way.	Sag es auf eine andere Weise.	इसे किसी अलग तरीके से कहो।
+Say it in plain terms.	Sage es in einfachen Worten.	सीधे शब्दों में बोलो।
+School starts at nine.	Die Schule beginnt um neun.	स्कूल नौ बजे शुरू होता है।
