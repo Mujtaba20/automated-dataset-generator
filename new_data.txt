@@ -35885,3 +35885,13 @@ You shouldn't go out.	Du solltest nicht ausgehen.	तुम्हें बा�
 You sound very young.	Du klingst sehr jung.	तुम बहुत जवान लग रहे हो।
 You still owe me one.	Du schuldest mir immer noch eine.	तुम मुझसे अभी भी एक मांगते हो।
 You sure sleep a lot.	Du schläfst sicher viel.	तुम बहुत सोते हो।
+You two are adorable!	Ihr beiden seid bezaubernd!	तुम दो बहुत प्यारे हो!
+You two come with me.	Ihr beiden kommt mit mir.	तुम दो मेरे साथ आओ।
+You underestimate me.	Du unterschätzt mich.	तुम मुझे कमजोर समझते हो।
+You underestimate me. (Second meaning)	Sie schätzen mich falsch ein.	तुम मेरा मूल्यांकन गलत कर रहे हो।
+You underestimate me. (Third meaning)	Du machst mich kleiner als ich bin.	तुम मुझे इतना कमजोर मान रहे हो।
+You were never alone.	Du warst nie allein.	तुम कभी अकेले नहीं थे।
+You were never alone. (Second meaning)	Sie waren nie alleine.	तुम कभी एकाकी नहीं थे।
+You were never alone. (Third meaning)	Ihr wart nie allein.	तुम कभी अकेले नहीं थे।
+You weren't that bad.	Du warst nicht so schlecht.	तुम इतने बुरे नहीं थे।
+You will regret this.	Du wirst das bereuen.	तुम इसका पछतावा करोगे।
