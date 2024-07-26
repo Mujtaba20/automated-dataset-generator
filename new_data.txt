@@ -29953,3 +29953,11 @@ White bread, please.	Weißbrot, bitte.	सफेद रोटी, कृपय�
 Who am I addressing?	Wen spreche ich an?	मैं किसे बोल रहा हूँ?
 Who am I forgetting?	Wen vergesse ich?	मैं किसे भूल रहा हूँ?
 Who am I talking to?	Mit wem spreche ich?	मैं किससे बात कर रहा हूँ?
+Who are they really?	Wer sind sie wirklich?	वे वास्तव में कौन हैं?
+Who are those women?	Wer sind diese Frauen?	वे महिलाएँ कौन हैं?
+Who baked this cake?	Wer hat diesen Kuchen gebacken?	किसने यह केक बेक किया है?
+Who believes in God?	Wer glaubt an Gott?	भगवान में कौन विश्वास रखता है?
+Who bought you this?	Wer hat dir das gekauft?	तुम्हें यह कौन खरीद कर दिया?
+Who called the cops?	Wer hat die Polizei gerufen?	किसने पुलिस को बुलाया?
+Who could forget it?	Wer könnte das vergessen?	कौन इसे भूल सकता है?
+Who did that to you?	Wer hat das dir angetan?	तुम्हारे साथ ऐसा कौन कर सकता है?

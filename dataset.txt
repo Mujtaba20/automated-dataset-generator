@@ -1,15 +1,4 @@
 
-Who are they really?	Wer sind sie wirklich?	आप वास्तव में कौन हैं?
-Who are those women?	Wer sind diese Frauen?	ये महिलाएं कौन हैं?
-Who baked this cake?	Wer hat diesen Kuchen gebacken?	इस केक को किसने बेक किया?
-Who believes in God?	Wer glaubt an Gott?	भगवान में कौन विश्वास करता है?
-Who bought you this?	Wer hat dir das gekauft?	आपको किसने खरीदा?
-Who called the cops?	Wer hat die Bullen gerufen?	बैल को किसने बुलाया?
-Who could forget it?	Wer könnte ihn vergessen?	उसे कौन भूल सकता है?
-Who could forget it?	Wer könnte sie vergessen?	आपको कौन भूल सकता है?
-Who could forget it?	Wer könnte es vergessen?	इसे कौन भूल सकता है?
-Who did that to you?	Wer hat euch das angetan?	यह तुम्हारे साथ किसने किया?
-Who did that to you?	Wer hat Ihnen das angetan?	यह तुम्हारे साथ किसने किया?
 Who did you talk to?	Mit wem hast du gesprochen?	आप किसके साथ बोलते थे?
 Who do you remember?	An wen erinnerst du dich?	आपको कौन याद है?
 Who do you remember?	An wen erinnert ihr euch?	आपको कौन याद है?
