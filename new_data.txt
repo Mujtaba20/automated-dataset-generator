@@ -27017,3 +27017,13 @@ I'm dying of hunger.	Ich sterbe vor Hunger.	मैं भूख से मर �
 I'm dying of thirst.	Ich komme vor Durst um.	मैं प्यास से मर रहा हूँ।
 I'm eating an apple.	Ich esse einen Apfel.	मैं एक सेब खा रहा हूँ।
 I'm eating rice now.	Ich esse jetzt Reis.	मैं अभी चावल खा रहा हूँ।
+I'm extremely happy.	Ich bin überaus glücklich.	मैं बहुत खुश हूँ।
+I'm extremely happy. (different meaning)	Ich bin sehr zufrieden.	मैं बहुत खुश हूँ।
+I'm extremely sorry.	Es tut mir sehr leid.	मुझे बहुत खेद है।
+I'm faster than you.	Ich bin schneller als du.	मैं तुमसे तेज हूँ।
+I'm fine, thank you.	Mir geht es gut, danke.	मैं ठीक हूँ, धन्यवाद।
+I'm forty years old.	Ich bin vierzig Jahre alt.	मैं चालीस साल का हूँ।
+I'm from the future.	Ich komme aus der Zukunft.	मैं भविष्य से आया हूँ।
+I'm game if you are.	Ich bin dabei, wenn du es bist.	मैं खेलने को तैयार हूँ, आप हैं तो।
+I'm getting married.	Ich heirate.	मैं शादी कर रहा हूँ।
+I'm getting nervous.	Ich werde nervös.	मुझे घबराहट हो रही है।
