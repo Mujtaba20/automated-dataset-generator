@@ -40565,3 +40565,12 @@ Tom must be mad at me.	Tom muss auf mich sauer sein.	टॉम मुझसे �
 Tom must be so scared.	Tom muss so ängstlich sein.	टॉम इतना डरा हुआ होना चाहिए।
 Tom must be tired now.	Tom muss jetzt müde sein.	टॉम अब थक गया होना चाहिए।
 Tom must have seen me.	Tom muss mich gesehen haben.	टॉमने मुझे देखा होगा।
+Tom must've had a key.	Tom muss einen Schlüssel gehabt haben.	टॉम के पास एक कुंजी होनी चाहिए थी।
+Tom nearly got killed.	Tom wäre fast getötet worden.	टॉम को लगभग मार दिया गया।
+Tom needed assistance.	Tom brauchte Hilfe.	टॉम को सहायता की आवश्यकता थी।
+Tom needs a dry towel.	Tom braucht ein trockenes Handtuch.	टॉम को एक सूखी तौलिया चाहिए।
+Tom needs cheering up.	Tom braucht Aufmunterung.	टॉम को उत्साहित किया जाना चाहिए।
+Tom needs new clothes.	Tom braucht neue Kleidung.	टॉम को नए कपड़े चाहिए।
+Tom needs put in jail.	Tom muss ins Gefängnis gebracht werden.	टॉम को जेल में डाल देना चाहिए।
+Tom needs urgent help.	Tom braucht dringend Hilfe.	टॉम को तत्काल सहायता की ज़रूरत है।
+Tom nervously entered.	Tom betrat nervös.	टॉम चिढ़चिढ़ाकर आया।

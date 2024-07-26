@@ -1,14 +1,4 @@
 
-Tom must've had a key.	Tom muss einen Schlüssel gehabt haben.	टॉम के पास एक चाबी रही होगी।
-Tom nearly got killed.	Tom wurde beinahe getötet.	टॉम लगभग मारा गया था।
-Tom needed assistance.	Tom brauchte Unterstützung.	टॉम को समर्थन की आवश्यकता थी।
-Tom needs a dry towel.	Tom braucht ein trockenes Handtuch.	टॉम को एक सूखे तौलिया की जरूरत है।
-Tom needs cheering up.	Tom braucht eine Aufmunterung.	टॉम को प्रोत्साहन की जरूरत है।
-Tom needs new clothes.	Tom braucht etwas Neues zum Anziehen.	टॉम को डालने के लिए कुछ नया चाहिए।
-Tom needs new clothes.	Tom braucht neue Sachen.	टॉम को नई चीजों की जरूरत है।
-Tom needs put in jail.	Tom gehört in den Knast.	टॉम जेल में है।
-Tom needs urgent help.	Tom braucht dringend Hilfe.	टॉम को तत्काल मदद की जरूरत है।
-Tom nervously entered.	Tom trat nervös ein.	टॉम घबराकर प्रवेश किया।
 Tom never drinks beer.	Tom trinkt nie Bier.	टॉम कभी बीयर नहीं पीता।
 Tom never drinks wine.	Tom trinkt nie Wein.	टॉम कभी शराब नहीं पीता।
 Tom never got married.	Tom hat nie geheiratet.	टॉम ने कभी शादी नहीं की।
