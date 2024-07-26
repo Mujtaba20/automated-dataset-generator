@@ -1,14 +1,4 @@
 
-Tom is an unusual kid.	Tom ist ein ungewöhnliches Kind.	टॉम एक असामान्य बच्चा है।
-Tom is angry with you.	Tom ist wütend auf dich.	टॉम आपसे नाराज है।
-Tom is as big as I am.	Tom ist so groß wie ich.	टॉम मेरे जितना बड़ा है।
-Tom is as old as I am.	Tom ist so alt wie ich.	टॉम मेरे जितना बूढ़ा है।
-Tom is as old as Mary.	Tom ist so alt wie Mary.	टॉम मैरी के रूप में बूढ़ा है।
-Tom is as tall as you.	Tom ist so groß wie du.	टॉम आप जितना बड़ा है।
-Tom is as tall as you.	Tom ist so groß wie ihr.	टॉम उसके जितना बड़ा है।
-Tom is as tall as you.	Tom ist so groß wie Sie.	टॉम उतना ही बड़ा है जितना वह है।
-Tom is at the airport.	Tom ist am Flughafen.	टॉम हवाई अड्डे पर है।
-Tom is away from home.	Tom ist fort von zuhause.	टॉम घर से दूर है।
 Tom is back in Boston.	Tom ist zurück in Boston.	टॉम बोस्टन में वापस आ गया है।
 Tom is baking a pizza.	Tom bäckt eine Pizza.	टॉम एक पिज्जा को काटता है।
 Tom is bald, isn't he?	Tom hat eine Glatze, nicht wahr?	टॉम के पास एक गंजा सिर है, है ना?

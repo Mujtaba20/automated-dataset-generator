@@ -40248,3 +40248,11 @@ Tom is an able banker.	Tom ist ein fähiger Banker.	टॉम एक कुश�
 Tom is an amazing guy.	Tom ist ein erstaunlicher Kerl.	टॉम एक शानदार आदमी है।
 Tom is an entertainer.	Tom ist ein Entertainer.	टॉम मनोरंजनकारी है।
 Tom is an evil person.	Tom ist eine böse Person.	टॉम एक दुष्ट व्यक्ति है।
+Tom is an unusual kid.	Tom ist ein ungewöhnliches Kind.	टॉम एक असामान्य बच्चा है।
+Tom is angry with you.	Tom ist wütend auf dich.	टॉम तुमसे नाराज़ है।
+Tom is as big as I am.	Tom ist so groß wie ich.	टॉम मेरे जैसा बड़ा है।
+Tom is as old as I am.	Tom ist so alt wie ich.	टॉम मेरे जैसे पुराने हैं।
+Tom is as old as Mary.	Tom ist so alt wie Mary.	टॉम मेरी के जैसे पुराना है।
+Tom is as tall as you.	Tom ist so groß wie du.	टॉम तुम्हारे जितने लंबे हैं।
+Tom is at the airport.	Tom ist am Flughafen.	टॉम हवाई अड्डे पर है।
+Tom is away from home.	Tom ist weit weg von Zuhause.	टॉम घर से दूर है।
