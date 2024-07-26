@@ -29741,3 +29741,10 @@ We've got a visitor.	Wir haben einen Besucher.	हमारे पास एक 
 We've got a witness.	Wir haben einen Zeugen.	हमारा एक साक्षी है।
 We've got no brakes!	Wir haben keine Bremsen!	हमारे पास कोई ब्रेक नहीं है!
 We've got no choice.	Wir haben keine Wahl.	हमारे पास कोई विकल्प नहीं है।
+We've got to go now.	Wir müssen jetzt gehen.	हमें अब जाना है।
+We've made mistakes.	Wir haben Fehler gemacht.	हमने गलतियाँ की हैं।
+We've prepared well.	Wir haben gut vorbereitet.	हमने अच्छे से तैयारी की है।
+Welcome to our home.	Willkommen in unserem Zuhause.	हमारे घर में आपका स्वागत है।
+Welcome to the club.	Willkommen im Club.	क्लब में आपका स्वागत है।
+Were you born there?	Bist du dort geboren?	क्या तुम वहाँ पैदा हुए थे?
+Were you there, too?	Warst du auch dort?	क्या तुम भी वहाँ थे?
