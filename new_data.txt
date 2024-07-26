@@ -27309,3 +27309,12 @@ It isn't contagious.	Es ist nicht ansteckend.	यह संक्रामक �
 It isn't hard to do.	Es ist nicht schwer zu tun.	यह करना मुश्किल नहीं है।
 It just didn't work.	Es hat einfach nicht funktioniert.	यह बस काम नहीं करता था।
 It looks almost new.	Es sieht fast wie neu aus.	यह लगभग नया लग रहा है।
+It looks good to me.	Es sieht gut für mich aus.	यह मेरे लिए अच्छा लगता है।
+It looks like a UFO.	Es sieht aus wie ein UFO.	यह एक यूएफओ की तरह लग रहा है।
+It looks like a wig.	Es sieht aus wie eine Perücke.	यह एक विग की तरह लग रहा है।
+It looks ridiculous.	Es sieht lächerlich aus.	यह अनर्थक लग रहा है।
+It made me very sad.	Es hat mich sehr traurig gemacht.	यह मुझे बहुत उदास कर दिया।
+It makes me nervous.	Es macht mich nervös.	यह मुझे घबराता है।
+It may be all right.	Es könnte in Ordnung sein.	शायद सब ठीक हो।
+It may be important.	Es könnte wichtig sein.	यह महत्वपूर्ण हो सकता है।
+It may take a while.	Es könnte eine Weile dauern.	यह कुछ समय ले सकता है।
