@@ -1,16 +1,4 @@
 
-How much do you owe?	Wie viel schuldest du?	आप कितना सोचते हो?
-How nervous are you?	Wie nervös bist du?	आप कितने नर्वस हैं
-How old are you now?	Wie alt bis du jetzt?	अब तक कितना पुराना है?
-How old is that dog?	Wie alt ist der Hund?	कुत्ता कितना पुराना है?
-How old is this dog?	Wie alt ist dieser Hund?	यह कुत्ता कितना पुराना है?
-How old is this zoo?	Wie alt ist dieser Zoo?	यह चिड़ियाघर कितना पुराना है?
-How old is your car?	Wie alt ist dein Auto?	आपकी कार कितनी पुरानी है?
-How old is your car?	Wie alt ist euer Auto?	आपकी कार कितनी पुरानी है?
-How old is your car?	Wie alt ist Ihr Auto?	आपकी कार कितनी पुरानी है?
-How old is your cat?	Wie alt ist deine Katze?	आपकी बिल्ली कितनी पुरानी है?
-How old is your cat?	Wie alt ist Ihre Katze?	आपकी बिल्ली कितनी पुरानी है?
-How old is your cat?	Wie alt ist eure Katze?	आपकी बिल्ली कितनी पुरानी है?
 How old is your dog?	Wie alt ist dein Hund?	आपके कुत्ते की क्या उम्र है?
 How old is your dog?	Wie alt ist Ihr Hund?	आपके कुत्ते की क्या उम्र है?
 How old is your dog?	Wie alt ist euer Hund?	आपके कुत्ते की क्या उम्र है?

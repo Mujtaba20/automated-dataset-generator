@@ -25955,3 +25955,11 @@ How is your brother?	Wie geht es deinem Bruder?	तुम्हारे भा�
 How long ago was it?	Wie lange ist es her?	यह कितने समय पहले था?
 How long do we have?	Wie lange haben wir?	हमारे पास कितना समय है?
 How many were there?	Wie viele waren da?	वहाँ कितने थे?
+How much do you owe?	Wie viel schuldest du?	तुम कितना देय हो?
+How nervous are you?	Wie nervös bist du?	तुम कितने बेचैन हो?
+How old are you now?	Wie alt bist du jetzt?	तुम अब कितने साल के हो?
+How old is that dog?	Wie alt ist dieser Hund?	वह कुत्ता कितने साल का है?
+How old is this dog?	Wie alt ist dieser Hund?	यह कुत्ता कितने साल का है?
+How old is this zoo?	Wie alt ist dieser Zoo?	यह चिड़ियाघर कितने साल का है?
+How old is your car?	Wie alt ist dein Auto?	तुम्हारी कार कितने साल की है?
+How old is your cat?	Wie alt ist deine Katze?	तुम्हारी बिल्ली कितने साल की है?
