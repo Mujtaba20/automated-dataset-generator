@@ -21800,3 +21800,13 @@ I wouldn't do that.	Das würde ich nicht tun.	मैं वैसा नही�
 I wrote Tom a card.	Ich habe Tom eine Karte geschrieben.	मैंने टॉम को एक कार्ड लिखा।
 I wrote a cookbook.	Ich habe ein Kochbuch geschrieben.	मैंने एक कुकबुक लिखी।
 I wrote it for Tom.	Ich habe es für Tom geschrieben.	मैं इसे टॉम के लिए लिखा।
+I'd be up for that.	Dafür wäre ich zu haben.	मैं उसके लिए उपलब्ध हूँ।
+I'd better go home.	Ich sollte besser nach Hause gehen.	मुझे अच्छा होगा घर जाना।
+I'd better see him.	Ich sehe ihn besser.	मुझे उसे अच्छे से देखना चाहिए।
+I'd like some fish.	Ich möchte etwas Fisch.	मुझे कुछ मछली चाहिए।
+I'd like to go now.	Ich würde jetzt gerne gehen.	मुझे अब जाना है।
+I'd like to see it.	Ich würde es gerne sehen.	मुझे इसे देखना है।
+I'd like to try it.	Ich würde es gerne ausprobieren.	मुझे इसे आजमाना है।
+I'd never hurt Tom.	Ich würde Tom niemals verletzen.	मैं कभी टॉम को चोट नहीं पहुंचाऊँगा।
+I'd never hurt you.	Ich würde dich nie verletzen.	मैं कभी तुम्हें चोट नहीं पहुंचाउँगा।
+I'd never say that.	Ich würde das niemals sagen.	मैं कभी वैसा नहीं कहूँगा।
