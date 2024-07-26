@@ -30824,3 +30824,9 @@ Don't you like girls?	Magst du keine Mädchen?	क्या तुम्हे�
 Don't you say a word.	Sag kein Wort.	कुछ ना कहो।
 Don't you understand?	Verstehst du nicht?	क्या तुम्हें समझ नहीं आता है?
 Don't you want proof?	Möchtest du einen Beweis?	क्या तुमको सबूत चाहिए?
+Don't you want these?	Willst du die haben?	क्या तुम चाहते हो ये?
+Don't you want to go?	Willst du gehen?	क्या तुम जाना चाहते हो?
+Draw a straight line.	Zeichne eine gerade Linie.	एक सीधी रेखा खींचो।
+Dublin is in Ireland.	Dublin ist in Irland.	डबलिन आयरलैंड में है।
+Eat your food slowly.	Iss dein Essen langsam.	अपना भोजन धीरे से खाओ।
+Either way, you lose.	So oder so, du verlierst.	चाहे जैसे भी हो, तुम हारते हो।
