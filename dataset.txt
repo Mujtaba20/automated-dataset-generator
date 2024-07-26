@@ -1,15 +1,4 @@
 
-Why do people do this?	Warum tun die Leute das?	लोग ऐसा क्यों करते हैं?
-Why do they come here?	Warum kommen sie hierher?	आप यहां क्यों आते हैं?
-Why do we have to die?	Warum müssen wir sterben?	हमें क्यों मरना है?
-Why do you have to go?	Warum musst du gehen?	आपको क्यों जाना है?
-Why do you think that?	Warum denkst du das?	आप ऐसा क्यों सोचते हैं?
-Why do you think that?	Warum denken Sie das?	आप ऐसा क्यों सोचते हैं?
-Why do you want to go?	Warum willst du gehen?	तुम जाना क्यों चाहते हो?
-Why don't we sit down?	Warum setzen wir uns nicht?	हम क्यों नहीं बैठते?
-Why don't you ask Tom?	Warum fragst du nicht Tom?	आप टॉम क्यों नहीं पूछते?
-Why don't you come in?	Warum kommst du nicht herein?	आप क्यों नहीं आते?
-Why don't you come in?	Komm doch herein!	कृपया अंदर आएं!
 Why don't you do that?	Warum tust du das nicht?	आप ऐसा क्यों नहीं करते?
 Why don't you drop in?	Komm doch mal vorbei!	कुछ समय तक आओ!
 Why don't you drop in?	Kommt doch mal vorbei!	मिलने आना!
