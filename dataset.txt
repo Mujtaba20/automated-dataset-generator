@@ -1,14 +1,4 @@
 
-I can confirm that.	Ich kann das bestätigen.	मैं इसकी पुष्टि कर सकता हूं।
-I can confirm this.	Ich kann das bestätigen.	मैं इसकी पुष्टि कर सकता हूं।
-I can do it myself.	Ich kann es selbst machen.	इसे स्वयं मेरे द्वारा किया जा सकता है।
-I can do it myself.	Ich kann es selbst.	इसे स्वयं मेरे द्वारा किया जा सकता है।
-I can eat anything.	Ich kann alles essen.	मैं सब कुछ खा सकता हूं।
-I can help you now.	Ich kann dir jetzt helfen.	मैं अब आपकी मदद कर सकता हूं।
-I can help you out.	Ich kann dir aushelfen.	मैं आपकी मदद कर सकता हूं।
-I can imagine that.	Das kann ich mir vorstellen.	मैं कल्पना कर सकता हूँ।
-I can pay you back.	Ich kann dir das Geld zurückzahlen.	मैं आपको पैसे वापस कर सकता हूं।
-I can probably win.	Ich kann wahrscheinlich gewinnen.	मैं शायद जीत सकता हूं।
 I can ride a horse.	Ich kann reiten.	मैं सवारी कर सकता हूँ।
 I can speak French.	Ich kann Französisch sprechen.	मैं फ्रांसीसी बोल सकता हूं।
 I can speak to Tom.	Ich kann mit Tom reden.	मैं टॉम से बात कर सकता हूं।

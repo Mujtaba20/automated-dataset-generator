@@ -21082,3 +21082,12 @@ I called my father.	Ich habe meinen Vater angerufen.	मैंने अपन�
 I called my lawyer.	Ich habe meinen Anwalt angerufen.	मैंने अपने वकील को फोन किया।
 I came to warn you.	Ich bin hier, um dich zu warnen.	मैं तुम्हें चेतावनी देने आया हूँ।
 I can be courteous.	Ich kann höflich sein.	मैं विनम्र हो सकता हूँ।
+I can confirm that.	Ich kann das bestätigen.	मैं इसे पुष्टि कर सकता हूँ।
+I can confirm this.	Ich kann das bestätigen.	मैं इसे पुष्टि कर सकता हूं।
+I can do it myself.	Ich kann es selbst machen.	मैं इसे स्वयं कर सकता हूं।
+I can eat anything.	Ich kann alles essen.	मैं कुछ भी खा सकता हूँ।
+I can help you now.	Ich kann dir jetzt helfen.	मैं अब तुम्हें मदद कर सकता हूँ।
+I can help you out.	Ich kann dir helfen.	मैं तुम्हें मदद कर सकता हूँ।
+I can imagine that.	Ich kann mir das vorstellen.	मैं इसे कल्पना कर सकता हूँ।
+I can pay you back.	Ich kann dir zurückzahlen.	मैं तुम्हें वापस पैसे दे सकता हूँ।
+I can probably win.	Ich kann wahrscheinlich gewinnen.	मैं संभावना से जीत सकता हूँ।
