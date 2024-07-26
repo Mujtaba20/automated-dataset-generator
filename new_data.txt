@@ -29876,3 +29876,13 @@ When did this occur?	Wann ist das passiert?	यह कब हुआ?
 When did you arrive?	Wann bist du angekommen?	तुम कब पहुंचे?
 When did you buy it?	Wann hast du es gekauft?	तुमने यह कब खरीदा?
 When did you buy it? (different meaning)	Wann hast du es gekauft?	आपने ऐसा क्यों किया?
+engSentence1	Wann bist du aufgestanden?	तुम कब उठे थे?
+engSentence2	Wann bist du in Rente gegangen?	तुमने कब निवृत्ति ली थी?
+engSentence3	Wann bist du zurückgekehrt?	तुम कब लौटे थे?
+engSentence4	Wann bist du zurückgekommen?	तुम कब फिर से वापस आए?
+engSentence5	Wann bist du zurückgekehrt?	तुम कब वापस चले गए?
+engSentence6	Wann komme ich dort an?	मैं वहाँ कब पहुंचूँगा?
+engSentence7	Wann brauchst du es?	तुम्हें यह कब चाहिए?
+engSentence8	Wann benötigst du es?	तुम्हें यह कब चाहिए?
+engSentence9	Wann brauchst du es?	तुम्हें यह कब जरूरत है?
+engSentence10	Wann möchtest du es?	तुम इसे कब चाहते हैं?

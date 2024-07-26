@@ -1,14 +1,4 @@
 
-When did you get up?	Wann bist du aufgestanden?	आप कब उठे थे?
-When did you retire?	Wann bist du in Pension gegangen?	आप कब रिटायर हुए?
-When did you return?	Wann bist du zurückgekommen?	आप वापस कब आये?
-When did you return?	Wann seid ihr zurückgekommen?	आप वापस कब आये?
-When did you return?	Wann sind Sie zurückgekommen?	आप वापस कब आये?
-When do I get there?	Wann komme ich dort hin?	मैं वहां कब पहुंचूंगा?
-When do you need it?	Wann brauchen Sie es?	आपको इसकी आवश्यकता कब होती है?
-When do you need it?	Wann braucht ihr es?	आपको इसकी आवश्यकता कब होती है?
-When do you need it?	Wann brauchst du es?	आपको इसकी आवश्यकता कब होती है?
-When do you want it?	Wann willst du es?	तुम इसे कब चाहते हो?
 When does Tom study?	Wann studiert Tom eigentlich?	टॉम वास्तव में कब अध्ययन करता है?
 When does it arrive?	Wann kommt es an?	यह कब आता है?
 When is school over?	Wann ist der Unterricht vorbei?	सबक कब खत्म होता है?
