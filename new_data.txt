@@ -38377,3 +38377,11 @@ I've often been there.	Ich war dort oft.	मैं वहाँ अक्सर 
 I've paid you already.	Ich habe dich bereits bezahlt.	मैंने तुम्हें पहले ही भुगतान किया है।
 I've received threats.	Ich habe Drohungen erhalten.	मुझे धमकियां मिली हैं।
 I've run out of money.	Mir ist das Geld ausgegangen.	मेरे पास पैसे नहीं रहे।
+I've seen your record.	Ich habe Ihre Aufzeichnung gesehen.	मैंने आपकी रिकॉर्ड देखी है।
+I've set up a meeting.	Ich habe ein Treffen organisiert.	मैंने एक मीटिंग आयोजित की है।
+I've taken a big risk.	Ich habe ein großes Risiko eingegangen.	मैंने बड़ी चुनौती ली है।
+I've thought about it.	Ich habe darüber nachgedacht.	मैंने इसके बारे में सोचा है।
+I've tried everything.	Ich habe alles versucht.	मैंने सब कुछ कोशिश किया है।
+If I were you, I'd go.	Wenn ich du wäre, würde ich gehen.	अगर मैं तुम्हारी जगह होता, तो मैं चला जाता।
+If not now, then when?	Wenn nicht jetzt, dann wann?	अगर अब नहीं, तो कब?
+If you wish, I'll ask.	Wenn du möchtest, werde ich fragen.	अगर आप चाहें, मैं पूछूँगा।
