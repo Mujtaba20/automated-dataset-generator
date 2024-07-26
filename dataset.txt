@@ -1,14 +1,4 @@
 
-Why was Tom suspended?	Warum wurde Tom suspendiert?	टॉम को निलंबित क्यों किया गया था?
-Why wasn't I informed?	Warum bin ich nicht unterrichtet worden?	मुझे क्यों नहीं सिखाया गया?
-Why won't Tom help us?	Warum wird Tom uns nicht helfen?	टॉम हमारी मदद क्यों नहीं करेगा?
-Why would I wear that?	Warum sollte ich das anziehen?	मुझे इसे क्यों रखना चाहिए?
-Why's Tom always here?	Warum ist Tom ständig hier?	टॉम यहाँ हर समय क्यों है?
-Why's the door locked?	Warum ist die Tür abgeschlossen?	दरवाजा क्यों बंद है?
-Why's the door locked?	Warum ist die Tür verschlossen?	दरवाजा क्यों बंद है?
-Will Tom be all right?	Wird es Tom gutgehen?	क्या टॉम ठीक रहेगा?
-Will he get well soon?	Wird er bald wieder gesund?	क्या वह जल्द ही फिर से ठीक हो जाएगा?
-Will it clear up soon?	Wird es bald aufklaren?	क्या इसे जल्द ही मंजूरी दे दी जाएगी?
 Will it rain tomorrow?	Regnet es morgen?	क्या कल वर्षा होगी?
 Will it rain tomorrow?	Gibt es morgen Regen?	क्या कल बारिश है?
 Will that ever change?	Wird sich das je ändern?	क्या वह कभी बदल जाएगा?
