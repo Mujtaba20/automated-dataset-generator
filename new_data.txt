@@ -41180,3 +41180,12 @@ We've found something.	Wir haben etwas gefunden.	हमने कुछ पा�
 We've got a lot to do.	Wir haben viel zu tun.	हमें बहुत कुछ करना है।
 We've got to help Tom.	Wir müssen Tom helfen.	हमें टॉम की मदद करनी है।
 We've got to save Tom.	Wir müssen Tom retten.	हमें टॉम को बचाना है।
+We've got to tell Tom.	Wir müssen Tom bescheid sagen.	हमें टॉम को बताना है।
+We've got to warn Tom.	Wir müssen Tom warnen.	हमें टॉम को चेतावनी देनी है।
+We've had a complaint.	Wir haben eine Beschwerde erhalten.	हमें एक शिकायत मिली है।
+We've just had dinner.	Wir haben gerade zu Abend gegessen.	हमने अभी ताजा करी खाई है।
+We've missed the boat.	Wir haben das Boot verpasst.	हमने नौका छूट दी है।
+We've never lost hope.	Wir haben nie die Hoffnung verloren.	हमने कभी उम्मीद नहीं हारी है।
+We've ordered a pizza.	Wir haben eine Pizza bestellt.	हमने एक पिज़्ज़ा ऑर्डर किया है।
+We've overslept again.	Wir haben wieder verschlafen.	हमने फिर से अधिक सो लिया है।
+We've run out of beer.	Uns ist das Bier ausgegangen.	हमारा बीअर खत्म हो गया है।
