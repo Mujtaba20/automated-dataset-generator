@@ -32545,3 +32545,11 @@ I'm not a vegetarian.	Ich bin kein Vegetarier.	मैं शाकाहार�
 I'm not able to swim.	Ich kann nicht schwimmen.	मैं तैरने की क्षमता नहीं रखता।
 I'm not always right.	Ich habe nicht immer recht.	मैं हमेशा सही नहीं हूँ।
 I'm not angry at you.	Ich bin nicht wütend auf dich.	मैं तुम पर गुस्सा नहीं हूँ।
+I'm not at all tired.	Ich bin überhaupt nicht müde.	मैं बिल्कुल थका नहीं हूँ।
+I'm not denying that.	Das bestreite ich nicht.	मैं उसे इनकार नहीं कर रहा हूँ।
+I'm not exactly sure.	Ich bin mir nicht ganz sicher.	मैं बिल्कुल निश्चित नहीं हूँ।
+I'm not feeling well.	Mir geht es nicht gut.	मैं ठीक महसूस नहीं कर रहा हूँ।
+I'm not getting this.	Das verstehe ich nicht.	मुझे यह समझ में नहीं आ रहा है।
+I'm not going anyway.	Ich gehe sowieso nicht.	मैं किसी तरह नहीं जा रहा हूँ।
+I'm not going to die.	Ich werde nicht sterben.	मैं मरने वाला नहीं हूँ।
+I'm not good at math.	Ich bin nicht gut in Mathe.	मुझसे गणित में अच्छा नहीं होता।

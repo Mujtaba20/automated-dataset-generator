@@ -1,14 +1,4 @@
 
-I'm not at all tired.	Ich bin überhaupt nicht müde.	मैं बिल्कुल भी थक गया हूं।
-I'm not at all tired.	Ich bin kein bisschen müde.	मैं थोड़ा थक नहीं गया हूं।
-I'm not at all tired.	Ich bin gar nicht müde.	मैं बिल्कुल भी थक गया हूं।
-I'm not denying that.	Das streite ich nicht ab.	मैं इस बात पर विवाद नहीं करता।
-I'm not exactly sure.	Ich bin mir nicht ganz sicher.	मैं पूरी तरह से निश्चित नहीं हूं।
-I'm not feeling well.	Ich fühle mich nicht gut.	मेरा दिल नहीँ लगता।
-I'm not getting this.	Ich verstehe das nicht.	मैं नहीं समझता।
-I'm not going anyway.	Ich gehe jedenfalls nicht.	किसी भी मामले में, मैं नहीं जा रहा हूँ।
-I'm not going to die.	Ich werde nicht sterben.	मेरी मौत नहीं होती।
-I'm not good at math.	Ich bin nicht gut in Mathe.	मैं गणित में नहीं हूं।
 I'm not good at that.	Ich bin nicht gut darin.	मुझे यह नहीं आता।
 I'm not good at this.	Ich bin nicht gut darin.	मुझे यह नहीं आता।
 I'm not good-looking.	Ich bin nicht gutaussehend.	मैं अच्छा नहीं हूँ।
