@@ -27362,3 +27362,9 @@ It was his decision. (Different meaning)	Es war seine Wahl.	यह उसका 
 It was just a guess.	Es war nur eine Vermutung.	यह सिर्फ एक अनुमान था।
 It was my first job.	Es war mein erster Job.	यह मेरी पहली नौकरी थी।
 It was only a dream.	Es war nur ein Traum.	यह सिर्फ एक सपना था।
+It was pretty close.	Es war ziemlich eng.	यह काफी पास था।
+It was quite simple.	Es war ziemlich einfach.	यह काफी सरल था।
+It was rather funny.	Es war eher lustig.	यह काफी मजेदार था।
+It was really cheap.	Es war wirklich günstig.	यह वास्तव में सस्ता था।
+It was really close.	Es war wirklich nah.	यह वास्तव में करीब था।
+It was really scary.	Es war wirklich beängstigend.	यह वास्तव में डरावना था।
