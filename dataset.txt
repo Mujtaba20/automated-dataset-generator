@@ -1,16 +1,4 @@
 
-Has the bell rung yet?	Hat es schon geschellt?	क्या यह पहले से ही इसे बना चुका है?
-Has the bell rung yet?	Hat es schon geklingelt?	क्या यह पहले से ही बज गया है?
-Have a good Christmas.	Fröhliche Weihnachten!	क्रिसमस की बधाई!
-Have a good Christmas.	Ich wünsche dir frohe Weihnachten.	मैं अपको क्रिसमस की बधाई देता हूँ।
-Have a good Christmas.	Frohe Weihnachten!	क्रिसमस की बधाई!
-Have a safe trip home.	Komm sicher zu Hause an!	सुरक्षित रूप से घर आओ!
-Have the guests eaten?	Haben die Gäste gegessen?	क्या मेहमानों ने खाया?
-Have they arrived yet?	Sind sie schon angekommen?	क्या आप पहले ही आ चुके हैं?
-Have you been smoking?	Hast du geraucht?	क्या आप ने धूम्रपान किया?
-Have you confirmed it?	Hast du das überprüft?	क्या आपने इसकी जाँच की?
-Have you confirmed it?	Haben Sie das überprüft?	क्या आपने इसकी जाँच की?
-Have you confirmed it?	Habt ihr das überprüft?	क्या आपने इसकी जाँच की?
 Have you eaten dinner?	Habt ihr schon zu Abend gegessen?	क्या आपने पहले ही रात का खाना खाया है?
 Have you eaten dinner?	Hast du schon zu Abend gegessen?	क्या आपने पहले ही डिनर किया है?
 Have you eaten dinner?	Haben Sie schon zu Abend gegessen?	क्या आपने पहले ही रात का खाना खाया है?

@@ -36641,3 +36641,10 @@ Hand in your homework.	Gib deine Hausaufgaben ab.	अपना होमवर�
 Has Tom paid the rent?	Hat Tom die Miete bezahlt?	क्या टॉमने किराया चुकाया है?
 Has Tom taught French?	Hat Tom Französisch unterrichtet?	क्या टॉमने फ्रेंच सिखाया है?
 Has something changed?	Hat sich etwas verändert?	क्या कुछ बदल गया है?
+Has the bell rung yet?	Hat die Glocke schon geläutet?	क्या घंटी बज चुकी है?
+Have a good Christmas.	Frohe Weihnachten.	क्रिसमस मुबारक हो।
+Have a safe trip home.	Haben Sie eine sichere Heimreise.	घर पहुंचने के लिए सुरक्षित यात्रा करें।
+Have the guests eaten?	Haben die Gäste gegessen?	क्या मेहमानों ने खाना खाया है?
+Have they arrived yet?	Sind sie schon angekommen?	क्या वे अभी तक पहुंचे हैं?
+Have you been smoking?	Haben Sie geraucht?	क्या आपने धूम्रपान किया है?
+Have you confirmed it?	Haben Sie es bestätigt?	क्या आपने इसे पुष्टि की है?
