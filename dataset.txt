@@ -1,14 +1,4 @@
 
-May I sit with you?	Darf ich mich zu dir setzen?	क्या मैं आपके बगल में बैठ सकता हूं?
-May I speak to Tom?	Kann ich mit Tom sprechen?	क्या मैं टॉम से बात कर सकता हूं?
-May I speak to you?	Kann ich dich sprechen?	क्या मैं आपको बोल सकता हूं
-May I speak to you?	Kann ich Sie sprechen?	क्या मैं आपको बोल सकता हूं?
-May I speak to you?	Kann ich euch sprechen?	क्या मैं आपसे बात कर सकता हूं?
-May I take a photo?	Darf ich ein Foto machen?	क्या मैं एक फोटो ले सकता हूं?
-May I use this cup?	Darf ich diese Tasse benützen?	क्या मैं इस कप का उपयोग कर सकता हूं?
-May I use this pen?	Darf ich diesen Stift benutzen?	क्या मैं इस पेन का उपयोग कर सकता हूं?
-Maybe I could help.	Vielleicht könnte ich helfen.	शायद मैं मदद कर सकता था।
-Maybe Tom is lying.	Vielleicht lügt Tom.	शायद टॉम झूठ बोल रहा है।
 Maybe he likes you.	Möglicherweise mag er dich.	शायद वह आपको पसंद करता है।
 Maybe he likes you.	Vielleicht kann er Sie gut leiden.	शायद वह उसे अच्छी तरह से पीड़ित कर सकता है।
 Maybe it will snow.	Es wird vielleicht schneien.	यह बर्फबारी हो सकती है।

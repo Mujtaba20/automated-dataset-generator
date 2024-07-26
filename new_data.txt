@@ -22487,3 +22487,11 @@ May I call you Tom? (Different Meaning)	Kann ich dich anrufen, Tom?	क्या
 May I have a drink?	Darf ich einen Drink haben?	क्या मुझे पीने की एक पेय मिल सकती है?
 May I pay by check?	Kann ich mit Scheck bezahlen?	क्या मैं चेक देकर भुगतान कर सकता हूँ?
 May I run with you?	Darf ich mit dir laufen?	क्या मैं तुम्हारे साथ दौड़ सकता हूँ?
+May I sit with you?	Kann ich mich zu dir setzen?	क्या मैं आपके साथ बैठ सकता हूँ?
+May I speak to Tom?	Kann ich mit Tom sprechen?	क्या मैं टॉम से बात कर सकता हूँ?
+May I speak to you?	Darf ich mit Ihnen sprechen?	क्या मैं आपसे बात कर सकता हूँ?
+May I take a photo?	Darf ich ein Foto machen?	क्या मैं एक फोटो ले सकता हूँ?
+May I use this cup?	Darf ich diese Tasse benutzen?	क्या मैं इस कप का इस्तेमाल कर सकता हूँ?
+May I use this pen?	Darf ich diesen Stift benutzen?	क्या मैं इस पेन का इस्तेमाल कर सकता हूँ?
+Maybe I could help.	Vielleicht kann ich helfen.	शायद मैं मदद कर सकता हूँ।
+Maybe Tom is lying.	Vielleicht lügt Tom.	शायद टॉम झूठ बोल रहा है।
