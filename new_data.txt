@@ -33656,3 +33656,11 @@ The horse is thirsty.	Das Pferd ist durstig.	घोड़ा प्यासा 
 The house is haunted.	Das Haus ist von Geistern besessen.	घर भूतों से भरा हुआ है।
 The house is on fire!	Das Haus brennt!	घर में आग लगी हुई है!
 The house is on fire.	Das Haus steht in Flammen.	घर में आग लगी हुई है।
+The house was silent.	Das Haus war ruhig.	घर शांत था।
+The ink is still wet.	Die Tinte ist noch nass.	स्याही अभी भी गीली है।
+The lakes are frozen.	Die Seen sind gefroren.	झीलें जमी हुई हैं।
+The lemonade is cold.	Die Limonade ist kalt.	नींबू पानी ठंडी है।
+The light is perfect.	Das Licht ist perfekt.	रोशनी बिल्कुल सही है।
+The line is busy now.	Die Leitung ist gerade besetzt.	लाइन अभी व्यस्त है।
+The lobster was good.	Der Hummer war gut.	लोब्स्टर अच्छा था।
+The mail has arrived.	Die Post wurde zugestellt.	मेल पहुंच गई है।
