@@ -1,14 +1,4 @@
 
-It's a family secret.	Es ist ein Familiengeheimnis.	यह एक पारिवारिक रहस्य है।
-It's a good question.	Das ist eine gute Frage.	यह एक अच्छा सवाल है।
-It's a hard question.	Das ist eine schwierige Frage.	यह एक मुश्किल सवाल है।
-It's a monster storm.	Es ist ein Ungeheuer von einem Sturm.	यह एक तूफान से एक राक्षस है।
-It's a piece of cake.	Das ist ein Kinderspiel.	यह एक बच्चे का नाटक है।
-It's a scalp disease.	Das ist eine Erkrankung der Kopfhaut.	यह खोपड़ी की एक बीमारी है।
-It's a simple system.	Es ist ein einfaches System.	यह एक साधारण प्रणाली है।
-It's a stupid policy.	Es ist eine bescheuerte Regel.	यह एक बेवकूफ नियम है।
-It's a thankless job.	Das ist eine undankbare Arbeit.	यह एक कृतघ्न काम है।
-It's a waste of time.	Das ist Zeitverschwendung.	यह समय की बर्बादी है।
 It's about two miles.	Es ist etwa zwei Meilen.	यह लगभग दो मील है।
 It's absolutely true.	Das ist die volle Wahrheit.	वह पूर्ण सत्य है।
 It's all Greek to me.	Das sind für mich böhmische Dörfer.	मेरे लिए ये बोहेमियन गाँव हैं।

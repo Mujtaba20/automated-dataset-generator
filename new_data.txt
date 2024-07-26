@@ -32843,3 +32843,13 @@ It'll soon be spring.	Es wird bald Frühling sein.	जल्द ही बसं
 It'll take some time.	Es wird etwas Zeit brauchen.	इसमें कुछ समय लगेगा।
 It's a beautiful day.	Es ist ein schöner Tag.	यह एक खूबसूरत दिन है।
 It's a beautiful job.	Es ist eine schöne Arbeit.	यह एक खूबसूरत काम है।
+It's a family secret.	Es ist ein Familiengeheimnis.	यह एक परिवार का रहस्य है।
+It's a good question.	Es ist eine gute Frage.	यह एक अच्छा सवाल है।
+It's a hard question.	Es ist eine schwierige Frage.	यह एक कठिन सवाल है।
+It's a monster storm.	Es ist ein Monstersturm.	यह एक भूत प्रभावी तूफान है।
+It's a piece of cake.	Es ist ein Kinderspiel.	यह एक केक का टुकड़ा है।
+It's a scalp disease.	Es ist eine Kopfhauterkrankung.	यह एक सिर की बीमारी है।
+It's a simple system.	Es ist ein einfaches System.	यह एक सरल प्रणाली है।
+It's a stupid policy.	Es ist eine dumme Politik.	यह एक मूर्ख नीति है।
+It's a thankless job.	Es ist eine undankbare Arbeit.	यह एक धन्यवाद रहित काम है।
+It's a waste of time.	Es ist eine Zeitverschwendung.	यह समय की बर्बादी है।
