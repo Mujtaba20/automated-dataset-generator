@@ -1,14 +1,4 @@
 
-You can't smoke here.	Du darfst hier nicht rauchen.	आपको यहां धूम्रपान करने की अनुमति नहीं है।
-You can't start over.	Du kannst nicht von vorn anfangen.	आप शुरू नहीं कर सकते।
-You could've said no.	Du hättest nein sagen können.	आप नहीं कह सकते थे।
-You could've said no.	Sie hätten nein sagen können.	आप नहीं कह सकते थे।
-You deserve the best.	Du verdienst das Beste.	आप सबसे बहतरीन के हक्कदार हैं।
-You did it all right.	Das hast du gut gemacht.	आपने अच्छा किया।
-You didn't answer me.	Da hast mir nicht geantwortet.	मैंने जवाब नहीं दिया।
-You didn't answer me.	Sie haben mir nicht geantwortet.	आपने मुझे जवाब नहीं दिया।
-You didn't answer me.	Ihr habt mir nicht geantwortet.	आपने मुझे जवाब नहीं दिया।
-You didn't invite me.	Du hast mich nicht eingeladen.	आपने मुझे आमंत्रित नहीं किया।
 You didn't miss much.	Du hast nicht viel verpasst.	आपको ज्यादा याद नहीं आया।
 You didn't miss much.	Ihr habt nicht viel verpasst.	आपको ज्यादा याद नहीं आया।
 You didn't miss much.	Sie haben nicht viel verpasst.	आपको ज्यादा याद नहीं आया।

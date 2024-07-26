@@ -35778,3 +35778,10 @@ You can't just leave.	Du kannst nicht einfach gehen.	तुम बस ऐसे 
 You can't park there.	Du kannst dort nicht parken.	तुम वहाँ पार्क नहीं कर सकते।
 You can't prove that.	Du kannst das nicht beweisen.	तुम यह साबित नहीं कर सकते।
 You can't resign now.	Du kannst jetzt nicht zurücktreten.	तुम अब इस्तीफा नहीं दे सकते।
+You can't smoke here.	Sie können hier nicht rauchen.	आप यहाँ धूम्रपान नहीं कर सकते।
+You can't start over.	Sie können nicht von vorne anfangen.	आप फिर से शुरू नहीं कर सकते।
+You could've said no.	Du hättest Nein sagen können.	तुमने ना कह सकते थे।
+You deserve the best.	Du verdienst das Beste.	आप सबसे अच्छा पाते है।
+You did it all right.	Du hast es richtig gemacht.	तुमने सबकुछ सही किया।
+You didn't answer me.	Du hast mir nicht geantwortet.	तुमने मुझसे जवाब नहीं दिया।
+You didn't invite me.	Du hast mich nicht eingeladen.	तुमने मुझे नहीं बुलाया।
