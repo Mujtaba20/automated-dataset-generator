@@ -1,14 +1,4 @@
 
-I am in the classroom.	Ich bin im Klassenzimmer.	मैं कक्षा मे हूँ।
-I am in the classroom.	Ich bin in der Klasse.	मैं कक्षा में हूं।
-I am near the station.	Ich bin in der Nähe des Bahnhofs.	मैं ट्रेन स्टेशन के पास हूं।
-I am no match for him.	Ich bin ihm nicht gewachsen.	मैं बड़ा नहीं हुआ हूं।
-I am not coming today.	Ich komme heute nicht.	मैं आज नहीं आ रहा हूं।
-I am not coming today.	Heute komme ich nicht.	मैं आज नहीं आ सकता।
-I am poor at swimming.	Ich kann nicht gut schwimmen.	मैं अच्छी तरह से तैर नहीं सकता।
-I am shorter than you.	Ich bin kleiner als du.	मैं आपसे छोटा हूं।
-I am shorter than you.	Ich bin kleiner als ihr.	मैं तुमसे छोटा हूँ।
-I am shorter than you.	Ich bin kleiner als Sie.	मैं उससे छोटा हूँ।
 I am talking with Tom.	Ich spreche mit Tom.	मैं टॉम से बात कर रहा हूं।
 I am teaching English.	Ich unterrichte Englisch.	मैं अँग्रेजी पढ़ता हूँ।
 I am tired of my work.	Ich bin müde von meiner Arbeit.	मैं अपने काम से थक गया हूं।

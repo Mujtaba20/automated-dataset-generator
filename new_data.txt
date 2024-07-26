@@ -37095,3 +37095,10 @@ I am grateful to them.	Ich bin dankbar für sie.	मैं उनके लि�
 I am harvesting wheat.	Ich ernte Weizen.	मैं गेंहूं काट रहा हूँ।
 I am heating the room.	Ich heize das Zimmer.	मैं कमरे को गर्म कर रहा हूँ।
 I am here on business.	Ich bin geschäftlich hier.	मैं यहाँ व्यापारिक कार्य के लिए हूँ।
+I am in the classroom.	Ich bin im Klassenzimmer.	मैं कक्षा में हूँ।
+I am near the station.	Ich bin in der Nähe des Bahnhofs.	मैं स्टेशन के पास हूँ।
+I am no match for him.	Ich kann ihm nicht das Wasser reichen.	मैं उसके लिए भगवान भी नहीं हूँ।
+I am not coming today.	Ich komme heute nicht.	मैं आज नहीं आ रहा।
+I am poor at swimming.	Ich bin schlecht im Schwimmen.	मेरा तैरना खराब है।
+I am shorter than you.	Ich bin kleiner als du.	मैं तुमसे छोटा हूँ।
+I am taller than you.	Ich bin größer als du.	मैं तुमसे लम्बा हूँ।
