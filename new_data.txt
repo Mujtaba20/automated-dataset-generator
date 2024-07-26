@@ -37891,3 +37891,11 @@ I thought I was alone.	Ich dachte, ich war allein.	मुझे लगा कि
 I thought I was dying.	Ich dachte, ich sterbe.	मुझे लगा कि मैं मर रहा हूँ।
 I thought I'd be fine.	Ich dachte, es geht mir gut.	मुझे लगा कि सब ठीक होगा।
 I thought he had died.	Ich dachte, er sei gestorben.	मुझे लगा कि उसने मरने की कवायद की थी।
+I thought he was sick.	Ich dachte, er sei krank.	मैंने सोचा वह बीमार था।
+I thought it was true.	Ich dachte, es sei wahr.	मुझे लगा यह सच है।
+I thought so at first.	Ich dachte das am Anfang.	मुझे पहले ऐसा लगा।
+I thought you knew me.	Ich dachte, du kennst mich.	मैं सोचा तुम मुझे जानते हो।
+I threw away my shoes.	Ich habe meine Schuhe weggeworfen.	मैंने अपने जूते फेंक दिए।
+I told Tom I was fine.	Ich habe Tom gesagt, dass es mir gut geht.	मैंने टॉम को बताया कि मैं ठीक हूँ।
+I told Tom everything.	Ich habe Tom alles erzählt.	मैंने टॉम को सब कुछ बताया।
+I told Tom to do that.	Ich habe Tom gesagt, das zu tun.	मैंने टॉम से कहा वह करने के लिए।
