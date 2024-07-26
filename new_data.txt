@@ -24343,3 +24343,13 @@ We should call Tom.	Wir sollten Tom anrufen.	हमें टॉम को क�
 We should help Tom.	Wir sollten Tom helfen.	हमें टॉम की मदद करनी चाहिए।
 We should sit down.	Wir sollten uns setzen.	हमें बैठ जाना चाहिए।
 We slept in a tent.	Wir haben in einem Zelt geschlafen.	हमने तंबू में सोया।
+We started talking.	Wir begannen zu reden.	हम बात करना शुरू किया।
+We started to walk.	Wir fingen an zu laufen.	हम चलना शुरू किया।
+We still have time.	Wir haben immer noch Zeit.	हमारे पास अभी भी समय है।
+We stopped to talk.	Wir hörten auf zu reden.	हमने बात करना बंद किया।
+We studied English.	Wir haben Englisch studiert.	हमने अंग्रेजी पढ़ी।
+We studied English. (Different meaning)	Wir haben Englisch gelernt.	हमने अंग्रेजी सीखी।
+We swam in the sea.	Wir schwammen im Meer.	हम समुंदर में तैरे।
+We swam in the sea. (Different meaning)	Wir sind im Meer geschwommen.	हमने समुंदर में तैराकी।
+We talked about it.	Wir haben darüber gesprochen.	हमने उसके बारे में बात की।
+We understand that.	Wir verstehen das.	हम उसे समझते हैं।
