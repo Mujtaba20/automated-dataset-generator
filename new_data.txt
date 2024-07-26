@@ -41383,3 +41383,11 @@ When will it be ready?	Wann wird es fertig sein?	यह कब तैयार �
 When will they arrive?	Wann werden sie ankommen?	वे कब आएंगे?
 When will you be back?	Wann kommst du zurück?	तुम कब वापस आओगे?
 When will you be free?	Wann wirst du frei sein?	तुम कब फ्री होगे?
+When will you need it?	Wann brauchst du es?	तुम्हें इसकी जरूरत कब होगी?
+When's the last ferry?	Wann ist die letzte Fähre?	आखिरी फेरी कब है?
+Where are my car keys?	Wo sind meine Autoschlüssel?	मेरी कार की कुंजी कहां है?
+Where are our friends?	Wo sind unsere Freunde?	हमारे दोस्त कहां हैं?
+Where are the showers?	Wo sind die Duschen?	शावर कहां हैं?
+Where are they living?	Wo leben sie?	वे कहां रह रहे हैं?
+Where are they off to?	Wohin gehen sie?	वे कहां जा रहे हैं?
+Where are you heading?	Wohin gehst du?	तुम कहां जा रहे हो?

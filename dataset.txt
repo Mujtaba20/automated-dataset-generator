@@ -1,15 +1,4 @@
 
-When will you need it?	Ab wann brauchst du es?	आपको इसकी आवश्यकता कब होती है?
-When's the last ferry?	Wann geht die letzte Fähre?	आखिरी नौका कब जाती है?
-Where are my car keys?	Wo sind meine Autoschlüssel?	मेरी कार की चाबियां कहां हैं?
-Where are our friends?	Wo sind unsere Freunde?	हमारे दोस्त कहाँ हैं?
-Where are the showers?	Wo sind die Duschen?	बारिश कहाँ हैं?
-Where are they living?	Wo leben sie?	आप कहाँ रहते हैं?
-Where are they off to?	Wohin gehen sie?	आप कहां जा रहे हैं?
-Where are you heading?	Wohin gehst du?	आप कहां जा रहे हैं?
-Where are you heading?	Wo willst du hin?	आप कहाँ जाना चाहते हैं?
-Where are you heading?	Wo gehst du hin?	आप कहां जा रहे हैं?
-Where are you heading?	Wo geht ihr hin?	आप कहां जा रहे हैं?
 Where are you sitting?	Wo sitzt du?	आप कहाँ बैठे हैं?
 Where are you working?	Wo arbeitest du?	आप कहां काम करते हैं?
 Where are your horses?	Wo sind deine Pferde?	आपके घोड़े कहाँ हैं?
