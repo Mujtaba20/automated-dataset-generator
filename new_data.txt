@@ -32423,3 +32423,9 @@ I'm Tom's girlfriend.	Ich bin Toms Freundin.	मैं टॉम की गर�
 I'm Tom's stepfather.	Ich bin Toms Stiefvater.	मैं टॉम के ससुर हूँ।
 I'm a French teacher.	Ich bin Französischlehrer.	मैं फ्रेंच शिक्षक हूँ।
 I'm a cancer patient.	Ich bin Krebspatient.	मैं कैंसर का रोगी हूँ।
+I'm a little curious.	Ich bin ein wenig neugierig.	मैं थोड़ी सी जिज्ञासु हूँ।
+I'm a little nervous.	Ich bin ein bisschen nervös.	मैं थोड़ा बेचैन हूँ।
+I'm a natural blonde.	Ich bin eine natürliche Blondine.	मैं एक प्राकृतिक भूरी हूँ।
+I'm a police officer.	Ich bin Polizist.	मैं पुलिस अधिकारी हूँ।
+I'm a private person.	Ich bin ein privat Person.	मैं एक निजी व्यक्ति हूँ।
+I'm a teacher myself.	Ich bin selbst Lehrer.	मैं खुद एक शिक्षक हूँ।

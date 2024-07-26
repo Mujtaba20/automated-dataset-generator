@@ -1,15 +1,4 @@
 
-I'm a little curious.	Ich bin ein bisschen neugierig.	मैं थोड़ा उत्सुक हूं।
-I'm a little nervous.	Ich bin ein bisschen nervös.	मैं थोड़ा नर्वस हूं।
-I'm a natural blonde.	Ich bin natürlich blond.	मैं निश्चित रूप से गोरा हूँ।
-I'm a natural blonde.	Ich bin von Natur aus blond.	मैं स्वाभाविक रूप से गोरा हूं।
-I'm a natural blonde.	Ich bin eine echte Blondine.	मैं एक असली गोरा हूँ।
-I'm a police officer.	Ich bin Polizist.	मैं एक पुलिसकर्मी हूं।
-I'm a police officer.	Ich bin Polizeibeamter.	मैं एक पुलिस अधिकारी हूँ।
-I'm a police officer.	Ich bin Polizistin.	मैं एक पुलिस अधिकारी हूँ।
-I'm a private person.	Ich bin Privatperson.	मैं एक निजी व्यक्ति हूं।
-I'm a teacher myself.	Ich bin selbst Lehrer.	मैं खुद एक शिक्षक हूं।
-I'm a teacher myself.	Ich bin selbst Lehrerin.	मैं खुद एक शिक्षक हूं।
 I'm afraid of flying.	Ich habe Flugangst.	मुझे उड़ने का डर है।
 I'm against the bill.	Ich bin gegen den Gesetzesentwurf.	मैं मसौदा कानून के खिलाफ हूं।
 I'm all out of money.	Ich habe überhaupt kein Geld mehr.	मेरे पास कोई और पैसा नहीं है।
