@@ -1,14 +1,4 @@
 
-Tom can't stand it.	Tom kann es nicht ertragen.	टॉम इसे सहन नहीं कर सकता।
-Tom can't stand it.	Tom kann es nicht aushalten.	टॉम इसे बर्दाश्त नहीं कर सकता।
-Tom can't stop now.	Tom kann jetzt nicht aufhören.	टॉम अब रुक नहीं सकता।
-Tom can't swim yet.	Tom kann noch nicht schwimmen.	टॉम अभी तक तैर नहीं सकता।
-Tom cares for Mary.	Tom hat Maria gern.	टॉम को मारिया पसंद है।
-Tom cares for Mary.	Tom umsorgt Maria.	टॉम ने मारिया की देखभाल की।
-Tom carried a cane.	Tom ging am Stock.	टॉम छड़ी पर चला गया।
-Tom caught a mouse.	Tom hat eine Maus gefangen.	टॉम ने एक माउस पकड़ा है।
-Tom caught a shark.	Tom hat einen Hai gefangen.	टॉम ने एक शार्क पकड़ी।
-Tom caught a thief.	Tom erwischte einen Dieb.	टॉम को एक चोर मिला।
 Tom caught a trout.	Tom hat eine Forelle gefangen.	टॉम ने एक ट्राउट पकड़ा है।
 Tom claimed he won.	Tom behauptet, dass er gewonnen hat.	टॉम का दावा है कि वह जीत गया।
 Tom comforted Mary.	Tom tröstete Maria.	टॉम ने मारिया को आराम दिया।

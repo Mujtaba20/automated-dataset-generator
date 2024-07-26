@@ -23360,3 +23360,11 @@ Tom can't hurt you. (Different meaning)	Tom kann dich nicht verletzen.	टॉम
 Tom can't read yet.	Tom kann noch nicht lesen.	टॉम अभी तक पढ़ नहीं सकता।
 Tom can't remember.	Tom kann sich nicht erinnern.	टॉम याद नहीं कर सकता।
 Tom can't remember. (Different meaning)	Tom kann nicht vergessen.	टॉम भूल नहीं सकता।
+Tom can't stand it.	Tom kann es nicht ertragen.	टॉम इसे सहन नहीं कर सकता।
+Tom can't stop now.	Tom kann jetzt nicht aufhören.	टॉम अब रुक नहीं सकता।
+Tom can't swim yet.	Tom kann noch nicht schwimmen.	टॉम अभी तक तैर नहीं सकता।
+Tom cares for Mary.	Tom sorgt sich um Mary.	टॉम मेरी की देखभाल करता है।
+Tom carried a cane.	Tom trug einen Stock.	टॉम ने एक डंडा उठाया।
+Tom caught a mouse.	Tom fing eine Maus.	टॉम ने एक चूहा पकड़ा।
+Tom caught a shark.	Tom fing einen Hai.	टॉम ने एक शार्क पकड़ा।
+Tom caught a thief.	Tom fing einen Dieb.	टॉम ने एक चोर पकड़ा।
