@@ -24102,3 +24102,13 @@ Tom was really mad.	Tom war wirklich sauer.	टॉम वास्तव मे�
 Tom was really sad.	Tom war wirklich traurig.	टॉम वास्तव में उदास था।
 Tom was rude to me.	Tom war unhöflich zu mir.	टॉम मेरे साथ अकड़ था।
 Tom was salivating.	Tom sabberte.	टॉम लार चाट रहा था।
+Tom was so careful.	Tom war so vorsichtig.	टॉम बहुत सावधान था।
+Tom was so careful. (different meaning)	Tom war so behutsam.	टॉम इतना सावधान था।
+Tom was speechless.	Tom war sprachlos.	टॉम गूंगा था।
+Tom was the leader.	Tom war der Anführer.	टॉम नेता था।
+Tom was unfriendly.	Tom war unfreundlich.	टॉम अमित्र स्वभाव वाला था।
+Tom was unreliable.	Tom war unzuverlässig.	टॉम अविश्वसनीय था।
+Tom was very angry.	Tom war sehr wütend.	टॉम बहुत गुस्से में था।
+Tom was very brave.	Tom war sehr mutig.	टॉम बहुत बहादुर था।
+Tom was very drunk.	Tom war sehr betrunken.	टॉम बहुत नशे में था।
+Tom was very funny.	Tom war sehr lustig.	टॉम बहुत मजेदार था।
