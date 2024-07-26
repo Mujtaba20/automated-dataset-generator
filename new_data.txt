@@ -31233,3 +31233,13 @@ He's right behind me.	Er ist direkt hinter mir.	वह मेरे पीछे
 He's taking a shower.	Er nimmt eine Dusche.	वह शौच कर रहा है।
 He's the class clown.	Er ist der Klassenclown.	वह क्लास का पगला है।
 He's too old for her.	Er ist zu alt für sie.	वह उसके लिए बहुत पुराना है।
+He's too old for you.	Er ist zu alt für dich.	वह तुम्हारे लिए बहुत पुराना है।
+He's under treatment.	Er wird behandelt.	उसका इलाज चल रहा है।
+He's very kind to me.	Er ist sehr nett zu mir.	वह मुझसे बहुत दयालु है।
+He's very protective.	Er ist sehr beschützend.	वह बहुत संरक्षित करने वाला है।
+He's younger than me.	Er ist jünger als ich.	वह मुझसे छोटा है।
+Health is all I want.	Gesundheit ist alles, was ich will.	स्वास्थ्य ही मेरी इच्छा है।
+Her mind is at peace.	Ihr Geist ist in Frieden.	उसके मन की शांति है।
+Her name was unknown.	Ihr Name war unbekannt.	उसका नाम अज्ञात था।
+Her nose is bleeding.	Ihre Nase blutet.	उसकी नाक से खून आ रहा है।
+Her son has her eyes.	Ihr Sohn hat ihre Augen.	उसके बेटे के पास उसकी आंखें हैं।
