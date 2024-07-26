@@ -21844,3 +21844,12 @@ I'll go get it now.	Ich werde es jetzt holen.	मैं अब यह लेक�
 I'll go get my car.	Ich werde mein Auto holen.	मैं अपनी गाड़ी लेकर आऊंगा।
 I'll go next month.	Ich werde nächsten Monat gehen.	मैं अगले महीने जाऊंगा।
 I'll have the same.	Ich werde dasselbe haben.	मैं वही रखूंगा।
+I'll help you pack.	Ich werde dir beim Packen helfen.	मैं तुम्हें पैक करने में मदद करूँगा।
+I'll know tomorrow.	Ich werde es morgen wissen.	मैं कल जानूँगा।
+I'll listen to you.	Ich werde dir zuhören.	मैं तुम्हारी बात सुनूँगा।
+I'll make some tea.	Ich werde etwas Tee machen.	मैं कुछ चाय बनाऊँगा।
+I'll meet with Tom.	Ich werde Tom treffen.	मैं टॉम से मिलूँगा।
+I'll miss Tom, too.	Ich werde Tom auch vermissen.	मैं टॉम को भी याद करूँगा।
+I'll miss you guys.	Ich werde euch vermissen.	मैं तुम लोगों को याद करूँगा।
+I'll miss you, Tom.	Ich werde dich vermissen, Tom.	मैं तुझे याद करूँगा, टॉम।
+I'll miss you, too.	Ich werde dich auch vermissen.	मैं तुम्हें भी याद करूँगा।
