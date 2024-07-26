@@ -33333,3 +33333,12 @@ She gets up at seven.	Sie steht um sieben Uhr auf.	वह सात बजे �
 She got what he said.	Sie hat verstanden, was er sagte.	उसने समझ लिया वह क्या कह रहा था।
 She has a big family.	Sie hat eine große Familie.	उसके पास एक बड़ा परिवार है।
 She has a good heart.	Sie hat ein gutes Herz.	उसके पास एक अच्छे दिल का दिल है।
+She has a kind heart.	Sie hat ein gutes Herz.	उसके पास एक दयालु दिल है।
+She has a pure heart.	Sie hat ein reines Herz.	उसके पास एक शुद्ध दिल है।
+She has a round face.	Sie hat ein rundes Gesicht.	उसका दरारू चेहरा है।
+She has forgiven him.	Sie hat ihm vergeben.	उसने उसे माफ कर दिया है।
+She has many friends.	Sie hat viele Freunde.	उसके कई दोस्त हैं।
+She heard him scream.	Sie hörte ihn schreien.	उसने उसे चिल्लाते हुए सुना।
+She is a blonde girl.	Sie ist ein blondes Mädchen.	वह एक गोरी लड़की है।
+She is a good dancer.	Sie ist eine gute Tänzerin.	वह एक अच्छी नृत्यगुरु है।
+She is a good writer.	Sie ist eine gute Schriftstellerin.	वह एक अच्छी लेखिका है।
