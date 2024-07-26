@@ -20742,3 +20742,12 @@ He enjoyed cycling.	Er genoss das Radfahren.	उसे साइकिल चल
 He failed the exam.	Er hat die Prüfung nicht bestanden.	उसने परीक्षा में फेल हो गया।
 He forced me to go.	Er zwang mich zu gehen.	उसने मुझे जाने के लिए मजबूर किया।
 He forgot his name.	Er hat seinen Namen vergessen.	उसने अपना नाम भूल गया।
+He found me a taxi.	Er hat mir ein Taxi gefunden.	उसने मुझे एक टैक्सी ढूंढी।
+He gave her a book.	Er gab ihr ein Buch.	उसने उसे एक किताब दी।
+He gave him a book.	Er gab ihm ein Buch.	उसने उसे एक किताब दी।
+He gave me a watch.	Er hat mir eine Uhr gegeben.	उसने मुझे एक घड़ी दी।
+He got ahead of me.	Er hat mich überholt.	उसने मुझसे आगे निकल लिया।
+He got off the bus.	Er ist aus dem Bus ausgestiegen.	उसने बस से उतर लिया।
+He grabbed my hand.	Er packte meine Hand.	उसने मेरा हाथ पकड़ लिया।
+He gripped my hand.	Er umklammerte meine Hand.	उसने मेरा हाथ पकड़ लिया।
+He had an accident.	Er hatte einen Unfall.	उसे एक हादसा हो गया।

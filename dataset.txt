@@ -1,14 +1,4 @@
 
-He found me a taxi.	Er suchte mir ein Taxi.	वह एक टैक्सी की तलाश में था।
-He gave her a book.	Er gab ihr ein Buch.	उसने उसे एक किताब दी।
-He gave him a book.	Er gab ihm ein Buch.	उसने उसे एक किताब दी।
-He gave me a watch.	Er gab mir eine Uhr.	उसने मुझे एक घड़ी दी।
-He gave me a watch.	Er hat mir eine Uhr gegeben.	उसने मुझे एक घड़ी दी।
-He got ahead of me.	Er hat mich überholt.	उसने मुझे पछाड़ दिया।
-He got off the bus.	Er stieg aus dem Bus.	वह बस से बाहर निकला।
-He grabbed my hand.	Er ergriff meine Hand.	उसने मेरा हाथ ले लिया।
-He gripped my hand.	Er ergriff meine Hand.	उसने मेरा हाथ ले लिया।
-He had an accident.	Er hatte einen Unfall.	वह दुर्घटना क शिकार हो गया।
 He had fun with it.	Er hatte seinen Spaß damit.	उसने इसके साथ मज़े किए।
 He has Alzheimer's.	Er hat Alzheimer.	उसके पास अल्जाइमर है।
 He has a bad heart.	Er hat ein schwaches Herz.	उसका दिल कमजोर है।
