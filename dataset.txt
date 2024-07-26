@@ -1,14 +1,4 @@
 
-I looked around me.	Ich schaute mich um.	मैंने चारों ओर देखा।
-I looked at my dog.	Ich sah meinen Hund an.	मैंने अपने कुत्ते को देखा।
-I looked for a job.	Ich suchte nach einer Arbeit.	मैं काम की तलाश में था।
-I looked for a job.	Ich suchte Arbeit.	मैं काम की तलाश में था।
-I looked for a job.	Ich suchte nach einer Anstellung.	मैं नौकरी की तलाश में था।
-I lost my car keys.	Ich habe meine Autoschlüssel verloren.	मैंने अपनी कार की चाबी खो दी।
-I lost my patience.	Ich habe die Geduld verloren.	मैंने धैर्य खो दिया।
-I lost my umbrella.	Ich verlor meinen Regenschirm.	मैंने अपनी छतरी खो दी।
-I lost your number.	Ich habe deine Nummer verlegt.	मैंने आपका नंबर स्थानांतरित कर दिया।
-I love Korean food.	Ich liebe koreanisches Essen.	मुझे कोरियाई भोजन बहुत पसंद है।
 I love Tom so much.	Ich liebe Tom so sehr.	मुझे टॉम बहुत पसंद है।
 I love apple cider.	Ich liebe Apfelwein.	मुझे साइडर बहुत पसंद है।
 I love bearded men.	Ich liebe bärtige Männer.	मुझे दाढ़ी वाले पुरुषों से प्यार है।

@@ -21466,3 +21466,11 @@ I liked your story. (Different meaning)	Ich mochte deine Erzählung.	मुझ�
 I live in the city.	Ich lebe in der Stadt.	मैं शहर में रहता हूँ।
 I lived in poverty.	Ich lebte in Armut.	मैं गरीबी में रहता था।
 I long for company.	Ich sehne mich nach Gesellschaft.	मुझे कंपनी की तलाश है।
+I looked around me.	Ich habe mich umgesehen.	मैंने आसपास देखा।
+I looked at my dog.	Ich habe meinen Hund angesehen.	मैंने अपने कुत्ते को देखा।
+I looked for a job.	Ich habe nach einer Beschäftigung gesucht.	मैंने नौकरी के लिए देखा।
+I lost my car keys.	Ich habe meine Autoschlüssel verloren.	मैंने अपनी कार की चाबियां खो दी।
+I lost my patience.	Ich habe meine Geduld verloren.	मैंने अपनी सब्र खो दी।
+I lost my umbrella.	Ich habe meinen Regenschirm verloren.	मैंने अपना छाता खो दिया।
+I lost your number.	Ich habe deine Nummer verloren.	मैंने तुम्हारा नंबर खो दिया।
+I love Korean food.	Ich liebe koreanisches Essen.	मुझे कोरियाई खाना पसंद है।
