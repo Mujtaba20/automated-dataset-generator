@@ -34125,3 +34125,13 @@ Tom didn't buy bread.	Tom hat kein Brot gekauft.	टॉम ने रोटी �
 Tom didn't come back.	Tom kam nicht zurück.	टॉम वापस नहीं आया।
 Tom didn't come home.	Tom ist nicht nach Hause gekommen.	टॉम घर नहीं आया।
 Tom didn't even care.	Tom hat sich nicht einmal gekümmert.	टॉम ने चिंता तक नहीं की।
+Tom didn't feel well.	Tom fühlte sich nicht gut.	टॉम को अच्छा नहीं लग रहा था।
+Tom didn't have time.	Tom hatte keine Zeit.	टॉम के पास समय नहीं था।
+Tom didn't help much.	Tom hat nicht viel geholfen.	टॉम ने बहुत कम मदद की।
+Tom didn't invite me.	Tom hat mich nicht eingeladen.	टॉम ने मुझे नहीं बुलाया।
+Tom didn't invite me. (Different meaning)	Tom hat mich nicht einladen.	टॉम ने मुझे नहीं भेजा।
+Tom didn't know Mary.	Tom kannte Mary nicht.	टॉम को मेरी की पहचान नहीं थी।
+Tom didn't know that.	Tom wusste das nicht.	टॉम को वह पता नहीं था।
+Tom didn't know this.	Tom wusste das nicht.	टॉम को यह पता नहीं था।
+Tom didn't last long.	Tom hat nicht lange gedauert.	टॉम का लंबा समय तक नहीं रहा।
+Tom didn't like Mary.	Tom mochte Mary nicht.	टॉम को मेरी पसंद नहीं थी।

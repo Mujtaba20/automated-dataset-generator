@@ -1,14 +1,4 @@
 
-Tom didn't feel well.	Tom fühlte sich nicht gut.	टॉम अच्छा नहीं लगा।
-Tom didn't have time.	Tom hatte keine Zeit.	टॉम के पास कोई समय नहीं था।
-Tom didn't help much.	Tom hat nicht sehr viel geholfen.	टॉम ने ज्यादा मदद नहीं की।
-Tom didn't invite me.	Tom lud mich nicht ein.	टॉम ने मुझे आमंत्रित नहीं किया।
-Tom didn't invite me.	Tom hat mich nicht eingeladen.	टॉम ने मुझे आमंत्रित नहीं किया।
-Tom didn't know Mary.	Tom kannte Mary nicht.	टॉम मैरी को नहीं जानता था।
-Tom didn't know that.	Tom wusste das nicht.	टॉम को पता नहीं था।
-Tom didn't know this.	Tom wusste das nicht.	टॉम को पता नहीं था।
-Tom didn't last long.	Tom hat nicht lange durchgehalten.	टॉम लंबे समय तक नहीं चला।
-Tom didn't like Mary.	Tom mochte Maria nicht.	टॉम को मारिया पसंद नहीं थी।
 Tom didn't like that.	Tom gefiel das nicht.	टॉम को यह पसंद नहीं आया।
 Tom didn't like that.	Tom mochte das nicht.	टॉम को यह पसंद नहीं आया।
 Tom didn't like this.	Tom gefiel das nicht.	टॉम को यह पसंद नहीं आया।
