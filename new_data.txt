@@ -26230,3 +26230,13 @@ I don't trust banks.	Ich vertraue Banken nicht.	मुझे बैंकों 
 I don't usually win.	Ich gewinne normalerweise nicht.	मैं आम तौर पर जीत नहीं लेता।
 I don't want cereal.	Ich möchte kein Müsli.	मुझे सीरियल नहीं चाहिए।
 I don't want dinner.	Ich möchte kein Abendessen.	मुझे रात का खाना नहीं चाहिए।
+I don't want it now.	Ich will es nicht jetzt.	मुझे अब चाहिए नहीं।
+I don't want to cry.	Ich will nicht weinen.	मुझे रोना नहीं है।
+I don't want to die.	Ich will nicht sterben.	मुझे मरना नहीं है।
+I don't want to lie.	Ich möchte nicht lügen.	मुझे झूठ नहीं बोलना है।
+I don't want to run.	Ich will nicht rennen.	मुझे भागना नहीं है।
+I dream every night.	Ich träume jede Nacht.	मैं हर रात सपना देखता हूँ।
+I dreamed about you.	Ich habe von dir geträumt.	मैंने तुम्हारे बारे में सपना देखा।
+I drive a black car.	Ich fahre ein schwarzes Auto.	मैं एक काली गाड़ी चलाता हूँ।
+I drove to the mall.	Ich bin zum Einkaufszentrum gefahren.	मैं शॉपिंग मॉल गया था।
+I eat a lot of rice.	Ich esse viel Reis.	मैं बहुत सारी चावल खाता हूँ।
