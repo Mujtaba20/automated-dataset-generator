@@ -31716,3 +31716,13 @@ I hated you at first.	Ich hasste dich zuerst.	मैंने पहले त�
 I have a bad sunburn.	Ich habe einen schlimmen Sonnenbrand.	मेरे पास एक बुरा सनबर्न है।
 I have a beach house.	Ich habe ein Strandhaus.	मेरे पास एक समुद्र तट का घर है।
 I have a better idea.	Ich habe eine bessere Idee.	मेरे पास एक बेहतर विचार है।
+I have a better plan.	Ich habe einen besseren Plan.	मेरा एक बेहतर योजना है।
+I have a big brother.	Ich habe einen großen Bruder.	मेरे पास एक बड़ा भाई है।
+I have a big problem.	Ich habe ein großes Problem.	मेरा एक बड़ी समस्या है।
+I have a brain tumor.	Ich habe einen Gehirntumor.	मेरे पास एक मस्तिष्क ट्यूमर है।
+I have a credit card.	Ich habe eine Kreditkarte.	मेरे पास एक क्रेडिट कार्ड है।
+I have a few friends.	Ich habe ein paar Freunde.	मेरे कुछ दोस्त हैं।
+I have a good lawyer.	Ich habe einen guten Anwalt.	मेरे पास एक अच्छे वकील हैं।
+I have a green shirt.	Ich habe ein grünes Hemd.	मेरा एक हरा शर्ट है।
+I have a half sister.	Ich habe eine Halbschwester.	मेरी एक आधी बहन है।
+I have a half-sister.	Ich habe eine Halbschwester.	मेरी एक आधी बहन है।
