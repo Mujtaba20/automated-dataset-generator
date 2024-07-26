@@ -1,15 +1,4 @@
 
-No one speaks with me.	Keiner spricht mit mir.	कोई भी मुझसे बात नहीं करता।
-No one speaks with me.	Niemand spricht mit mir.	कोई भी मुझसे बात नहीं करता।
-No one understands me.	Niemand versteht mich.	मुझे कोई नहीं समझता है।
-No one understands me.	Keiner versteht mich.	मुझे कोई नहीं समझता है।
-No one understands me.	Keine versteht mich.	कोई भी मुझे नहीं समझता।
-No one was in the car.	Im Auto war niemand.	कार में कोई नहीं था।
-No one would say that.	Niemand würde das sagen.	कोई भी ऐसा नहीं कहेगा।
-No one's denying that.	Keiner leugnet das.	कोई भी इससे इनकार नहीं करता है।
-No one's stopping you.	Niemand hält Sie auf.	कोई भी उन्हें रोकता नहीं है।
-No one's stopping you.	Dich hält doch keiner auf.	कोई भी आपको रोकता नहीं है।
-No one's stopping you.	Niemand hält dich auf.	कोई भी आपको रोकता नहीं है।
 No, I didn't write it.	Nein, ich habe es nicht geschrieben.	नहीं, मैंने इसे नहीं लिखा।
 Nobody appreciates me.	Niemand weiß mich zu schätzen.	कोई भी मेरी सराहना नहीं करता है।
 Nobody can control us.	Niemand kann uns kontrollieren.	कोई भी हमें नियंत्रित नहीं कर सकता।

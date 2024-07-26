@@ -38926,3 +38926,9 @@ No one knows his name.	Niemand kennt seinen Namen.	किसी को उसक
 No one listened to me.	Niemand hat mir zugehört.	किसी ने मेरी बात नहीं सुनी।
 No one loves you, Tom.	Niemand liebt dich, Tom.	कोई तुमसे प्यार नहीं करता, टॉम।
 No one recognized you.	Niemand hat dich erkannt.	कोई ने तुम्हें पहचाना नहीं।
+No one speaks with me.	Niemand spricht mit mir.	कोई मेरे साथ नहीं बोलता।
+No one understands me.	Niemand versteht mich.	कोई मुझे समझता नहीं है।
+No one was in the car.	Niemand war im Auto.	कार में कोई नहीं था।
+No one would say that.	Niemand würde das sagen.	कोई नहीं कहेगा।
+No one's denying that.	Niemand leugnet das.	कोई इनकार नहीं कर रहा है।
+No one's stopping you.	Niemand hält dich auf.	कोई तुम्हें रोकने वाला नहीं है।
