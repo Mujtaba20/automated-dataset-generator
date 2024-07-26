@@ -34311,3 +34311,13 @@ Tom is Mary's father.	Tom ist Marias Vater.	टॉम मेरी का पि
 Tom is Mary's friend.	Tom ist Marias Freund.	टॉम मेरी का दोस्त है।
 Tom is Mary's mentor.	Tom ist Marias Mentor.	टॉम मेरी का मेंटर है।
 Tom is Mary's nephew.	Tom ist Marias Neffe.	टॉम मेरी का भांजा है।
+Tom is a big boy now.	Tom ist jetzt ein großer Junge.	टॉम अब एक बड़ा लड़का है।
+Tom is a bit strange.	Tom ist ein wenig seltsam.	टॉम थोड़ा अजीब है।
+Tom is a bodybuilder.	Tom ist ein Bodybuilder.	टॉम एक बॉडीबिल्डर है।
+Tom is a born artist.	Tom ist ein geborener Künstler.	टॉम एक जन्मे हुए कलाकार है।
+Tom is a busy person.	Tom ist eine geschäftige Person.	टॉम एक व्यस्त व्यक्ति है।
+Tom is a common name.	Tom ist ein häufiger Name.	टॉम एक सामान्य नाम है।
+Tom is a dear friend.	Tom ist ein lieber Freund.	टॉम एक प्यारा दोस्त है।
+Tom is a deer hunter.	Tom ist ein Hirschjäger.	टॉम हिरण शिकारी है।
+Tom is a dentist now.	Tom ist jetzt Zahnarzt.	टॉम अब दंत चिकित्सक है।
+Tom is a disc jockey.	Tom ist ein Discjockey.	टॉम एक डिस्क जॉकी है।
