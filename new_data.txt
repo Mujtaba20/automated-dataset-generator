@@ -33778,3 +33778,11 @@ They are not sisters.	Sie sind nicht Schwestern.	वे बहनें नह�
 They are running now.	Sie rennen jetzt.	वे अब दौड़ रहे हैं।
 They are vegetarians.	Sie sind Vegetarier.	वे शाकाहारी हैं।
 They aren't here yet.	Sie sind noch nicht hier.	वे अभी तक यहाँ नहीं हैं।
+They aren't my books.	Das gehören nicht mir Bücher.	वे मेरी किताबें नहीं हैं।
+They call me captain.	Sie rufen mich Captain.	वे मुझे कप्तान कहते हैं।
+They can't afford it.	Sie können es sich nicht leisten.	उन्हें यह करने की सामर्थ्य नहीं है।
+They cannot be saved.	Sie können nicht gerettet werden.	वे बचाए नहीं जा सकते।
+They cannot stop him.	Sie können ihn nicht aufhalten.	वे उसे रोक नहीं सकते।
+They deserve respect.	Sie verdienen Respekt.	उन्हें सम्मान की प्राप्ति होनी चाहिए।
+They didn't find Tom.	Sie fanden nicht Tom.	उन्होंने टॉम को नहीं ढूंढा।
+They do it each week.	Sie tun es jede Woche.	वे हर सप्ताह यह करते हैं।

@@ -1,14 +1,4 @@
 
-They aren't my books.	Es sind nicht meine Bücher.	यह मेरी किताबें नहीं है।
-They aren't my books.	Das sind nicht meine Bücher.	ये मेरी किताबें नहीं हैं।
-They call me captain.	Sie nennen mich Kapitän.	वे मुझे कप्तान कहते हैं।
-They call me captain.	Sie nennen mich Hauptmann.	वे मुझे कप्तान कहते हैं।
-They can't afford it.	Sie können es sich nicht leisten.	आप इसे बर्दाश्त नहीं कर सकते।
-They cannot be saved.	Sie können nicht gerettet werden.	उन्हें बचाया नहीं जा सकता।
-They cannot stop him.	Sie können ihn nicht aufhalten.	आप उसे रोक नहीं सकते।
-They deserve respect.	Sie verdienen Respekt.	आप सम्मान के लायक हैं।
-They didn't find Tom.	Man hat Tom nicht gefunden.	टॉम नहीं मिला है।
-They do it each week.	Sie machen es jede Woche.	आप इसे हर हफ्ते करते हैं।
 They don't know that.	Das wissen sie nicht.	आप ऐसा नहीं जानते।
 They don't like cats.	Sie mögen keine Katzen.	उन्हें बिल्लियाँ पसंद नहीं हैं।
 They failed the exam.	Sie sind bei der Prüfung durchgefallen.	वे परीक्षा के दौरान विफल रहे।
