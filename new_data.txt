@@ -31101,3 +31101,10 @@ He knows many people.	Er kennt viele Leute.	उन्हें बहुत स�
 He knows who you are.	Er weiß, wer du bist.	उसे पता है तुम kaun ho.
 He laid down the gun.	Er legte die Waffe hin.	उसने बंदूक रख दी।
 He laughed nervously.	Er lachte nervös.	उसने चिंतित होकर हँसा।
+He leaned towards me.	Er lehnte sich zu mir.	उसने मुझसे पीछे की ओर झुका।
+He led a simple life.	Er führte ein einfaches Leben.	उसने एक सरल जीवन जीता।
+He lent me two books.	Er lieh mir zwei Bücher.	उसने मुझे दो किताबें उधार दीं।
+He likes Indian food.	Er mag indisches Essen.	उसे भारतीय खाना पसंद है।
+He likes music a lot.	Er mag Musik sehr.	उसे संगीत बहुत पसंद है।
+He likes this guitar.	Er mag diese Gitarre.	उसे यह गिटार पसंद है।
+He likes to watch TV.	Er sieht gerne fern.	उसे टीवी देखना पसंद है।

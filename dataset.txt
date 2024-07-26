@@ -1,14 +1,4 @@
 
-He leaned towards me.	Er neigte sich mir zu.	उसने मुझे झुका दिया।
-He led a simple life.	Er führte ein einfaches Leben.	वह एक साधारण जीवन जीता था।
-He led a simple life.	Er hat ein einfaches Leben geführt.	वह एक साधारण जीवन जीता था।
-He lent me two books.	Er lieh mir zwei Bücher.	उसने मुझे दो किताबें दी।
-He lent me two books.	Er hat mir zwei Bücher geliehen.	उसने मुझे दो किताबें दी।
-He likes Indian food.	Er isst gerne indisch.	वह भारतीय खाना पसंद करता है।
-He likes music a lot.	Er mag Musik sehr.	उन्हें संगीत बहुत पसंद है।
-He likes this guitar.	Er mag diese Gitarre.	वह इस गिटार को पसंद करता है।
-He likes to watch TV.	Er sieht gern fern.	वह टीवी देखना पसंद करता है।
-He likes to watch TV.	Er schaut gerne fern.	वह दूर देखना पसंद करता है।
 He likes watching TV.	Er sieht gern fern.	वह टीवी देखना पसंद करता है।
 He likes watching TV.	Er schaut gerne fern.	वह दूर देखना पसंद करता है।
 He lived a hard life.	Er hatte ein schweres Leben.	उनका एक मुश्किल जीवन था।
