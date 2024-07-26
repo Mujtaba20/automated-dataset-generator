@@ -23058,3 +23058,13 @@ The water is clean.	Das Wasser ist sauber.	पानी साफ है।
 The water was cold.	Das Wasser war kalt.	पानी ठंडा था।
 The water was warm.	Das Wasser war warm.	पानी गरम था।
 The waves are high.	Die Wellen sind hoch.	लहरें ऊंची हैं।
+The window is open.	Das Fenster ist offen.	खिड़की खुली है।
+The woman is naked.	Die Frau ist nackt.	औरत नग्न है।
+The wood is rotten.	Das Holz ist verfault.	लकड़ी बिगड़ी हुई है।
+The world is small.	Die Welt ist klein.	दुनिया छोटी है।
+Then what happened?	Dann was ist passiert?	फिर क्या हुआ?
+There are no rules.	Es gibt keine Regeln.	कोई नियम नहीं हैं।
+There goes our bus.	Da geht unser Bus.	हमारी बस चली गई।
+There is no choice.	Es gibt keine Wahl.	कोई विकल्प नहीं है।
+There is one catch.	Es gibt einen Haken.	एक समस्या है।
+There is some wind.	Es gibt etwas Wind.	कुछ हवा है।
