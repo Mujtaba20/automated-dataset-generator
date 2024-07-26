@@ -21474,3 +21474,12 @@ I lost my patience.	Ich habe meine Geduld verloren.	मैंने अपनी
 I lost my umbrella.	Ich habe meinen Regenschirm verloren.	मैंने अपना छाता खो दिया।
 I lost your number.	Ich habe deine Nummer verloren.	मैंने तुम्हारा नंबर खो दिया।
 I love Korean food.	Ich liebe koreanisches Essen.	मुझे कोरियाई खाना पसंद है।
+I love Tom so much.	Ich liebe Tom so sehr.	मैं टॉम से इतना प्यार करता हूं।
+I love apple cider.	Ich liebe Apfelwein.	मुझे सेब का साइडर पसंद है।
+I love bearded men.	Ich liebe bärtige Männer.	मुझे दाढ़ी वाले पुरुष पसंद हैं।
+I love being alone.	Ich liebe es, alleine zu sein.	मुझे अकेले रहना पसंद है।
+I love being right.	Ich liebe Recht haben.	मुझे सही होने का मन पसंद है।
+I love butterflies.	Ich liebe Schmetterlinge.	मुझे तितलियों से प्यार है।
+I love coming here.	Ich liebe es, hierher zu kommen.	मुझे यहाँ आने का मन पसंद है।
+I love fairy tales.	Ich liebe Märchen.	मुझे परी कथाएं पसंद हैं।
+I love goat cheese.	Ich liebe Ziegenkäse.	मुझे बकरी का पनीर पसंद है।
