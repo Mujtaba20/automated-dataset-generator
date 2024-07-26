@@ -1,14 +1,4 @@
 
-What is that made of?	Woraus ist das gemacht?	वह किस चीज से बना है?
-What is the bad news?	Was ist die schlechte Nachricht?	बुरी खबर क्या है?
-What is this made of?	Woraus besteht das?	वह किस चीज से बना है?
-What is today's date?	Der Wievielte ist heute?	आज कौन सी तारीख़ है?
-What is two plus two?	Was ist zwei plus zwei?	दो प्लस दो क्या है?
-What is your address?	Wie lautet deine Adresse?	आपका पता क्या है?
-What is your address?	Wie lautet eure Adresse?	आपका पता क्या है?
-What is your address?	Wie lautet Ihre Adresse?	आपका पता क्या है?
-What keeps you going?	Was treibt dich an weiterzumachen?	आपको जारी रखने के लिए क्या ड्राइव करता है?
-What makes you happy?	Was macht dich glücklich?	तुम्हें किससे खुशी मिलती है?
 What makes you smile?	Was bringt dich zum Lächeln?	तुम यों मुस्कुरा रहे हो?
 What page are you on?	Auf welcher Seite bist du?	आप किस तरफ हैं?
 What really happened?	Was ist wirklich passiert?	असल में क्या हुआ था?

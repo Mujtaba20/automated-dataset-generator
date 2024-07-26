@@ -35410,3 +35410,11 @@ What if you're wrong?	Was ist, wenn du falsch liegst?	क्या होगा 
 What is a think tank?	Was ist ein Think Tank?	एक थिंक टैंक क्या है?
 What is it this time?	Was ist es dieses Mal?	यह बार क्या है?
 What is that exactly?	Was ist das genau?	वह बिल्कुल क्या है?
+What is that made of?	Woraus besteht das?	वह किससे बना है?
+What is the bad news?	Was ist die schlechte Nachricht?	बुरी खबर क्या है?
+What is this made of?	Woraus besteht das?	यह किससे बना है?
+What is today's date?	Welches Datum haben wir heute?	आज किस तारीख है?
+What is two plus two?	Was ist zwei plus zwei?	दो और दो का क्या मतलब है?
+What is your address?	Was ist deine Adresse?	आपका पता क्या है?
+What keeps you going?	Was treibt dich an?	तुम्हें क्यों जारी रखता है?
+What makes you happy?	Was macht dich glücklich?	तुम्हें खुश क्यों करता है?
