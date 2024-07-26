@@ -1,14 +1,4 @@
 
-Tom is all by himself.	Tom ist ganz allein.	टॉम सब अकेला है।
-Tom is already asleep.	Tom schläft schon.	टॉम पहले से ही सो रहा है।
-Tom is already inside.	Tom ist schon drinnen.	टॉम पहले से ही अंदर है।
-Tom is also an artist.	Tom ist auch Künstler.	टॉम भी एक कलाकार हैं।
-Tom is always at home.	Tom ist immer zu Hause.	टॉम हमेशा घर पर होता है।
-Tom is always careful.	Tom ist immer vorsichtig.	टॉम हमेशा सावधान रहता है।
-Tom is always helpful.	Tom ist immer hilfsbereit.	टॉम हमेशा मददगार होता है।
-Tom is always nervous.	Tom ist immer nervös.	टॉम हमेशा घबरा जाता है।
-Tom is always present.	Tom ist immer anwesend.	टॉम हमेशा मौजूद रहता है।
-Tom is always reading.	Tom liest immer.	टॉम हमेशा पढ़ता है।
 Tom is always singing.	Tom singt immer.	टॉम हमेशा गाता है।
 Tom is always smoking.	Tom ist immer am Rauchen.	टॉम हमेशा धूम्रपान कर रहा है।
 Tom is always smoking.	Tom raucht dauernd.	टॉम लगातार धूम्रपान करता है।

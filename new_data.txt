@@ -40230,3 +40230,13 @@ Tom is acting strange.	Tom verhält sich seltsam.	टॉम अजीब से 
 Tom is afraid of Mary.	Tom fürchtet sich vor Mary.	टॉम को मेरी से डर लगता है।
 Tom is afraid of cats.	Tom hat Angst vor Katzen.	टॉम बिल्लियों से डरता है।
 Tom is afraid of dogs.	Tom fürchtet sich vor Hunden.	टॉम कुत्तों से डरता है।
+Tom is all by himself.	Tom ist ganz allein.	टॉम बिल्कुल अकेला है।
+Tom is already asleep.	Tom schläft bereits.	टॉम पहले से ही सो रहा है।
+Tom is already inside.	Tom ist schon drinnen.	टॉम पहले से ही अंदर है।
+Tom is also an artist.	Tom ist auch ein Künstler.	टॉम एक कलाकार भी है।
+Tom is always at home.	Tom ist immer zu Hause.	टॉम हमेशा घर पर होता है।
+Tom is always careful.	Tom ist immer vorsichtig.	टॉम हमेशा सावधान रहता है।
+Tom is always helpful.	Tom ist immer hilfsbereit.	टॉम हमेशा मददगार होता है।
+Tom is always nervous.	Tom ist immer nervös.	टॉम हमेशा घबराया हुआ है।
+Tom is always present.	Tom ist immer anwesend.	टॉम हमेशा मौजूद है।
+Tom is always reading.	Tom liest immer.	टॉम हमेशा पढ़ाई कर रहा है।
