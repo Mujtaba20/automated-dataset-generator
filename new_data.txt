@@ -32609,3 +32609,11 @@ I'm tired of arguing.	Ich bin es leid zu streiten.	मुझे झगड़ा 
 I'm tired of reading.	Ich bin es leid zu lesen.	मुझे पढ़ने की थक गई है।
 I'm tired of waiting.	Ich bin es leid zu warten.	मुझे इंतजार करने से थक गई है।
 I'm tired of writing.	Ich bin es leid zu schreiben.	मुझे लिखना उबाना है।
+I'm too old for that.	Ich bin zu alt dafür.	मैं उसके लिए बहुत पुराना हूँ।
+I'm too old for this.	Ich bin zu alt für das.	मैं इसके लिए बहुत पुराना हूँ।
+I'm too tired to run.	Ich bin zu müde zum Laufen.	मैं दौड़ने के लिए बहुत थक गया हूँ।
+I'm totally confused.	Ich bin völlig verwirrt.	मैं पूरी तरह से भ्रांत हूँ।
+I'm trying very hard.	Ich gebe mein Bestes.	मैं बहुत मेहनत कर रहा हूँ।
+I'm under quarantine.	Ich bin in Quarantäne.	मैं क्वारंटीन में हूँ।
+I'm unnecessary here.	Ich bin hier überflüssig.	मुझे यहाँ अनावश्यक माना जा रहा है।
+I'm very embarrassed.	Ich bin sehr peinlich berührt.	मैं बहुत शर्मिंदा हूँ।
