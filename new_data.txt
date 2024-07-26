@@ -33995,3 +33995,13 @@ This vase is fragile.	Diese Vase ist zerbrechlich.	यह फूलदान न
 This video is boring.	Dieses Video ist langweilig.	यह वीडियो उबाऊ है।
 This wall feels cold.	Diese Wand fühlt sich kalt an.	यह दीवार सर्दी महसूस कराती है।
 This was a good book.	Das war ein gutes Buch.	यह एक अच्छी किताब थी।
+This was no accident.	Das war kein Unfall.	यह कोई सायंत्र हो गया था।
+This was quite cheap.	Das war ziemlich billig.	यह काफी सस्ता था।
+This watch is broken.	Diese Uhr ist kaputt.	यह घड़ी टूटी हुई है।
+This watch is broken. (Different meaning)	Diese Uhr ist defekt.	यह घड़ी क्षतिग्रस्त है।
+This will do for now.	Das wird jetzt erst einmal reichen.	अब यह काम करेगा।
+This will have to do.	Das muss genügen.	यह करना होगा।
+This won't take long.	Das wird nicht lange dauern.	यह लंबा नहीं चलेगा।
+This wood won't burn.	Dieses Holz wird nicht brennen.	यह लकड़ी नहीं जलेगी।
+Those are my friends.	Das sind meine Freunde.	वे मेरे दोस्त हैं।
+Those books are mine.	Diese Bücher sind meine.	वो किताबें मेरी हैं।
