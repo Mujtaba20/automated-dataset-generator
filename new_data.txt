@@ -36685,3 +36685,13 @@ He called at my house.	Er rief bei mir an.	उसने मेरे घर प�
 He called me a coward.	Er nannte mich einen Feigling.	उसने मुझे डरपोक कहा।
 He came into the room.	Er kam ins Zimmer.	उसने कमरे में आराम किया।
 He came late as usual.	Er kam wie üblich spät.	वह जैसा हमेशा देर से आया।
+He came several times.	Er kam mehrmals.	उसने कई बार आया।
+He came to pick me up.	Er kam, um mich abzuholen.	वह मुझे लेने आया।
+He can leave tomorrow.	Er kann morgen gehen.	वह कल चला जा सकता है।
+He can no longer wait.	Er kann nicht mehr warten.	वह अब और नहीं इंतजार कर सकता।
+He can play the flute.	Er kann die Flöte spielen.	वह बांसुरी बजा सकता है।
+He can read and write.	Er kann lesen und schreiben.	उसे पढ़ना-लिखना आता है।
+He can speak Japanese.	Er kann Japanisch sprechen.	वह जापानी बोल सकता है।
+He can swim very fast.	Er kann sehr schnell schwimmen.	वह बहुत तेज तरीके से तैर सकता है।
+He can't come with us.	Er kann nicht mit uns kommen.	वह हमारे साथ नहीं आ सकता।
+He cannot play guitar.	Er kann nicht Gitarre spielen.	वह गिटार नहीं बजा सकता।
