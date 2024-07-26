@@ -1,14 +1,4 @@
 
-A whale is a mammal.	Wale sind Säugetiere.	व्हेल स्तनधारी हैं।
-A window was broken.	Ein Fenster ging zu Bruch.	एक खिड़की टूट गई।
-A wolf attacked Tom.	Ein Wolf griff Tom an.	एक भेड़िया ने टॉम पर हमला किया।
-Add a pinch of salt.	Eine Prise Salz hinzufügen.	एक चुटकी नमक जोड़ें।
-Advice is like salt.	Ratschläge sind wie Salz.	सलाह नमक की तरह है।
-All I have is books.	Alles was ich habe, sind Bücher.	मेरे पास सभी किताबें हैं।
-All I want is money.	Ich will nur Geld.	मुझे सिर्फ पैसा चाहिए।
-All I want is money.	Ich will bloß Geld.	मुझे सिर्फ पैसा चाहिए।
-All Tom does is eat.	Tom beschäftigt sich nur mit Essen.	टॉम केवल भोजन से संबंधित है।
-All is calm tonight.	Alles ist ruhig, diese Nacht.	सब कुछ शांत है, इस रात।
 All is well with me.	Mir geht es rundum gut.	मैं चारों ओर अच्छा कर रहा हूं।
 All is well with me.	Es geht mir gut.	मैं अच्छा हूँ।
 All of us are happy.	Wir sind alle zufrieden.	हम सभी संतुष्ट हैं।

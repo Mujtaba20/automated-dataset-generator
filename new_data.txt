@@ -25053,3 +25053,12 @@ A nurse wears white.	Eine Krankenschwester trägt Weiß.	नर्स सफे�
 A storm is imminent.	Ein Sturm ist unmittelbar bevorstehend.	एक तूफान निकट है।
 A storm is imminent. (different meaning)	Ein Unwetter steht kurz bevor.	एक आफत उपस्थित है।
 A truck hit the dog.	Ein Lastwagen hat den Hund getroffen.	एक ट्रक ने कुत्ते को मारा।
+A whale is a mammal.	Ein Wal ist ein Säugetier.	एक व्हेल एक प्राणी है।
+A window was broken.	Ein Fenster wurde zerbrochen.	एक खिड़की टूट गई थी।
+A wolf attacked Tom.	Ein Wolf griff Tom an.	एक भेड़िया टॉम पर हमला कर रहा था।
+Add a pinch of salt.	Fügen Sie eine Prise Salz hinzu.	एक चुटकी नमक डालें।
+Advice is like salt.	Rat ist wie Salz.	सलाह नमक की तरह है।
+All I have is books.	Alles, was ich habe, sind Bücher.	मेरे पास सभी पुस्तकें हैं।
+All I want is money.	Alles, was ich will, ist Geld.	मेरी चाहत सिर्फ पैसे हैं।
+All Tom does is eat.	Alles, was Tom tut, ist essen.	टॉम जो करता है वह बस खाना है।
+All is calm tonight.	Alles ist ruhig heute Abend.	आज रात सब कुछ शांत है।
