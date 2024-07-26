@@ -1,14 +1,4 @@
 
-Looks can be deceiving.	Der Schein trügt.	उपस्थिति भ्रामक है।
-Luckily nobody drowned.	Zum Glück ist keiner ertrunken.	सौभाग्य से, कोई भी डूब नहीं गया है।
-Luckily nobody drowned.	Glücklicherweise ist keiner ertrunken.	सौभाग्य से, कोई भी डूब नहीं गया है।
-Luckily nobody drowned.	Glücklicherweise ertrank keiner.	सौभाग्य से, कोई भी डूब नहीं गया।
-Luckily nobody drowned.	Zum Glück ertrank keiner.	सौभाग्य से, कोई भी डूब नहीं गया।
-Luckily nobody got wet.	Glücklicherweise wurde niemand nass.	सौभाग्य से, कोई भी गीला नहीं हुआ।
-Luckily, Tom was there.	Zum Glück war Tom da.	सौभाग्य से, टॉम वहाँ था।
-Make sure you tell Tom.	Sieh zu, dass du es Tom erzählst.	देखें कि आप टॉम को बताते हैं।
-Make sure you tell Tom.	Sorgen Sie dafür, dass Sie es Tom erzählen.	सुनिश्चित करें कि आप टॉम को बताएं।
-Make the new guy do it.	Trage es dem Neuen auf!	इसे नए पर लागू करें!
 Make the time to do it.	Lass die Zeit für dich arbeiten.	समय आपके लिए काम करने दें।
 Make the time to do it.	Lassen Sie Zeit für sich arbeiten.	अपने लिए काम करने दें।
 Make your own decision.	Entscheide selbst!	खुद तय करें!
