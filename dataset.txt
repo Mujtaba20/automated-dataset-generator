@@ -1,14 +1,4 @@
 
-Tom came late as usual.	Tom verspätete sich wie immer.	हमेशा की तरह, टॉम में देरी हुई।
-Tom came to pick me up.	Tom kam mich abholen.	टॉम मुझे लेने आया था।
-Tom came to pick me up.	Tom kam, um mich abzuholen.	टॉम मुझे लेने आया था।
-Tom came to visit Mary.	Tom kam, um Maria zu besuchen.	टॉम मारिया से मिलने आया था।
-Tom can barely breathe.	Tom kann kaum atmen.	टॉम मुश्किल से सांस ले सकता है।
-Tom can cook very well.	Tom kann sehr gut kochen.	टॉम बहुत अच्छी तरह से खाना बना सकता है।
-Tom can fix the heater.	Tom kann den Heizkörper reparieren.	टॉम रेडिएटर की मरम्मत कर सकता है।
-Tom can leave tomorrow.	Tom kann morgen abfahren.	टॉम कल छोड़ सकते हैं।
-Tom can play the drums.	Tom kann Schlagzeug spielen.	टॉम ड्रम खेल सकते हैं।
-Tom can play the flute.	Tom kann Flöte spielen.	टॉम बांसुरी बजा सकते हैं।
 Tom can play the piano.	Tom kann Klavier spielen.	टॉम पियानो खेल सकते हैं।
 Tom can read and write.	Tom kann lesen und schreiben.	टॉम पढ़ सकते हैं और लिख सकते हैं।
 Tom can read very well.	Tom kann sehr gut lesen.	टॉम बहुत अच्छी तरह से पढ़ सकते हैं।
