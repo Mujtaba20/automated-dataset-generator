@@ -37450,3 +37450,12 @@ I have a Japanese car.	Ich habe ein japanisches Auto.	मेरे पास ए
 I have a bad headache.	Ich habe starke Kopfschmerzen.	मुझे गंभीर सरदर्द है।
 I have a crush on you.	Ich habe einen Schwarm für dich.	मुझे तुमसे प्यार है।
 I have a gift for you.	Ich habe ein Geschenk für dich.	मेरे पास तुम्हारे लिए एक उपहार है।
+I have a good job now.	Ich habe jetzt einen guten Job.	मेरे पास अच्छी नौकरी है।
+I have a great memory.	Ich habe eine großartige Erinnerung.	मेरे पास अद्भुत स्मृति है।
+I have a half brother.	Ich habe einen Halbbruder.	मेरे पास एक आधे भाई है।
+I have a half-brother.	Ich habe einen Halbbruder.	मेरे पास एक हाफ-भाई है।
+I have a headache now.	Ich habe jetzt Kopfschmerzen.	मुझे अभी सिरदर्द है।
+I have a large family.	Ich habe eine große Familie.	मेरे पास एक बड़ा परिवार है।
+I have a leaky faucet.	Ich habe einen undichten Wasserhahn.	मेरे पास एक टपकता हुआ नल है।
+I have a library card.	Ich habe einen Büchereiausweis.	मेरे पास एक लाइब्रेरी कार्ड है।
+I have a little fever.	Ich habe ein wenig Fieber.	मेरे पास थोड़ा बुखार है।
