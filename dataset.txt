@@ -1,15 +1,4 @@
 
-I'm always nervous.	Ich bin immer nervös.	मैं हमेशा घबराता रहता हूं।
-I'm always on time.	Ich bin immer pünktlich.	मैं हमेशा समय पर हूं।
-I'm always thirsty.	Ich habe immer Durst.	मुझे हमेशा प्यास लगती है।
-I'm always working.	Ich arbeite immer.	मैं हमेशा काम कर रहा हूं।
-I'm an art student.	Ich bin Kunststudent.	मैं एक कला का छात्र हूं।
-I'm an early riser.	Ich bin ein Frühaufsteher.	मैं एक शुरुआती रिसर हूं।
-I'm an early riser.	Ich bin Frühaufsteher.	मैं एक शुरुआती रिसर हूं।
-I'm an old man now.	Ich bin jetzt ein alter Mann.	मैं अब एक बूढ़ा आदमी हूं।
-I'm angry with Tom.	Ich bin wütend auf Tom.	मैं टॉम से नाराज हूं।
-I'm angry with her.	Ich bin wütend auf sie.	मैं तुमसे नाराज़ हूं।
-I'm angry with her.	Ich bin sauer auf sie.	मैं उस पर पागल हूँ।
 I'm angry with you.	Ich bin sauer auf dich.	मैं आप पर गुस्सा हूं।
 I'm as busy as Tom.	Ich bin genauso beschäftigt wie Tom.	मैं टॉम की तरह व्यस्त हूं।
 I'm as tall as Tom.	Ich bin genauso groß wie Tom.	मैं टॉम जितना बड़ा हूं।

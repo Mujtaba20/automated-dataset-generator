@@ -21910,3 +21910,12 @@ I'm alone with Tom.	Ich bin allein mit Tom.	मैं टॉम के साथ
 I'm already in bed.	Ich liege schon im Bett.	मैं पहले से ही बिस्तर में हूं।
 I'm also a teacher.	Ich bin auch Lehrer.	मैं भी एक शिक्षक हूं।
 I'm always careful.	Ich bin immer vorsichtig.	मैं हमेशा सावधान रहता हूं।
+I'm always nervous.	Ich bin immer nervös.	मैं हमेशा घबराया हुआ हूँ।
+I'm always on time.	Ich bin immer pünktlich.	मैं हमेशा समय पर होता हूँ।
+I'm always thirsty.	Ich habe immer Durst.	मैं हमेशा प्यासा हूँ।
+I'm always working.	Ich arbeite immer.	मैं हमेशा काम कर रहा हूँ।
+I'm an art student.	Ich bin Kunststudent.	मैं कला छात्र हूँ।
+I'm an early riser.	Ich stehe früh auf.	मैं जल्दी उठने वाला हूँ।
+I'm an old man now.	Ich bin jetzt ein alter Mann.	अब मैं बूढ़ा आदमी हूँ।
+I'm angry with Tom.	Ich bin wütend auf Tom.	मैं टॉम से नाराज़ हूँ।
+I'm angry with her.	Ich bin über sie wütend.	मैं उससे गुस्सा हूँ।
