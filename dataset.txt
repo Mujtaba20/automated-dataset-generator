@@ -1,14 +1,4 @@
 
-Tom walks to school.	Tom geht zu Fuß zur Schule.	टॉम पैदल ही स्कूल जाता है।
-Tom wanted to learn.	Tom wollte es lernen.	टॉम इसे सीखना चाहता था।
-Tom wanted to leave.	Tom wollte gehen.	टॉम जाना चाहता था।
-Tom wants Mary back.	Tom will Maria wiederhaben.	टॉम मारिया को वापस करना चाहता है।
-Tom wants a bicycle.	Tom wünscht sich ein Fahrrad.	टॉम एक बाइक चाहता है।
-Tom wants a new car.	Tom möchte ein neues Auto.	टॉम एक नई कार चाहता है।
-Tom wants a new hat.	Tom will einen neuen Hut.	टॉम एक नई टोपी चाहता है।
-Tom wants to change.	Tom will sich ändern.	टॉम बदलना चाहता है।
-Tom wants to change.	Tom will sich umziehen.	टॉम बदलना चाहता है।
-Tom wants to see it.	Tom will es sehen.	टॉम इसे देखना चाहता है।
 Tom wants to see me.	Tom will mich sehen.	टॉम मुझे देखना चाहता है।
 Tom wants to see us.	Tom will uns sehen.	टॉम हमें देखना चाहता है।
 Tom wants to try it.	Tom will es ausprobieren.	टॉम इसे आज़माना चाहता है।

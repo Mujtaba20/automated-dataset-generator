@@ -29339,3 +29339,12 @@ Tom used to be ugly.	Tom war früher hässlich.	टॉम कभी बुरा
 Tom used to do that.	Tom machte das früher.	टॉम पहले ऐसा करता था।
 Tom waited for Mary.	Tom wartete auf Mary.	टॉम ने मेरी का इंतेजार किया।
 Tom waited his turn.	Tom wartete auf seine Reihe.	टॉम ने अपनी बारी का इंतेजार किया।
+Tom walks to school.	Tom geht zur Schule.	टॉम स्कूल जाता है।
+Tom wanted to learn.	Tom wollte lernen.	टॉम को सीखना चाहिए था।
+Tom wanted to leave.	Tom wollte gehen.	टॉम छोड़ना चाहता था।
+Tom wants Mary back.	Tom will Mary zurück.	टॉम मेरी को वापस चाहता है।
+Tom wants a bicycle.	Tom will ein Fahrrad.	टॉम को एक साइकिल चाहिए।
+Tom wants a new car.	Tom will ein neues Auto.	टॉम को एक नई गाड़ी चाहिए।
+Tom wants a new hat.	Tom will einen neuen Hut.	टॉम को एक नयी टोपी चाहिए।
+Tom wants to change.	Tom will sich ändern.	टॉम को परिवर्तन करना है।
+Tom wants to see it.	Tom will es sehen.	टॉम को यह देखना है।
