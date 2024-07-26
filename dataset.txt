@@ -1,14 +1,4 @@
 
-They have been busy.	Sie waren beschäftigt.	वे व्यस्त थे।
-They have few books.	Sie haben wenige Bücher.	आपके पास कुछ किताबें हैं।
-They have no choice.	Sie haben keine Wahl.	उनके पास कोई विकल्प नहीं है।
-They have the horse.	Sie haben das Pferd.	आपके पास घोड़ा है।
-They know our plans.	Sie kennen unsere Pläne.	आप हमारी योजनाओं को जानते हैं।
-They know our plans.	Sie wissen um unsere Pläne.	आप हमारी योजनाओं के बारे में जानते हैं।
-They know who he is.	Sie wissen, wer er ist.	आप जानते हैं कि वह कौन है।
-They know your name.	Sie kennen deinen Namen.	आप अपना नाम जानते हैं।
-They laughed at him.	Sie lachten über ihn.	वे उस पर हँसे।
-They look very busy.	Sie sehen sehr beschäftigt aus.	वे बहुत व्यस्त दिखते हैं।
 They lost their dog.	Sie haben ihren Hund verloren.	आपने अपना कुत्ता खो दिया है।
 They love that song.	Sie lieben dieses Lied.	आपको यह गाना बहुत पसंद है।
 They love this song.	Sie lieben dieses Lied.	आपको यह गाना बहुत पसंद है।

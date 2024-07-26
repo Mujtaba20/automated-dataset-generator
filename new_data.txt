@@ -28328,3 +28328,12 @@ They don't like Tom.	Sie mögen Tom nicht.	उन्हें टॉम पस�
 They don't like you.	Sie mögen dich nicht.	उन्हें तुम्हारी पसंद नहीं है।
 They don't want you.	Sie wollen dich nicht.	उन्हें तुम्हें नहीं चाहिए।
 They handcuffed Tom.	Sie legten Tom Handschellen an.	उन्होंने टॉम को हैंडकफ किया।
+They have been busy.	Sie waren beschäftigt.	उन्होंने काम किया है।
+They have few books.	Sie haben wenige Bücher.	उनके पास कुछ पुस्तकें हैं।
+They have no choice.	Sie haben keine Wahl.	उनके पास कोई विकल्प नहीं है।
+They have the horse.	Sie haben das Pferd.	उनके पास घोड़ा है।
+They know our plans.	Sie kennen unsere Pläne.	उन्हें हमारी योजनाएं पता है।
+They know who he is.	Sie wissen, wer er ist.	उन्हें पता है कि वह कौन है।
+They know your name.	Sie kennen deinen Namen.	उन्हें आपका नाम पता है।
+They laughed at him.	Sie lachten über ihn.	उन्होंने उस पर हंसा।
+They look very busy.	Sie wirken sehr beschäftigt.	वे बहुत व्यस्त लग रहे हैं।
