@@ -1,14 +1,4 @@
 
-You're being evasive.	Du weichst mir aus.	तुम मुझे नरम करो।
-You're being evasive.	Sie weichen mir aus.	वे मुझसे बचते हैं।
-You're being watched.	Du wirst beobachtet.	आपको देखा जा रहा है।
-You're confusing Tom.	Du verwirrst Tom.	आप टॉम को भ्रमित करते हैं।
-You're conscientious.	Du bist gewissenhaft.	आप कर्तव्यनिष्ठ हैं।
-You're conscientious.	Sie sind gewissenhaft.	वे कर्तव्यनिष्ठ हैं।
-You're conscientious.	Ihr seid gewissenhaft.	आप कर्तव्यनिष्ठ हैं।
-You're disturbing me.	Sie stören mich.	तुम मुझे परेशान कर रहे हो।
-You're double-parked.	Du parkst in zweiter Reihe.	आप दूसरी पंक्ति में पार्क करते हैं।
-You're double-parked.	Sie parken in zweiter Reihe.	आप दूसरी पंक्ति में पार्क करते हैं।
 You're exactly right.	Du hast den Nagel auf den Kopf getroffen.	आपने सिर पर कील मारा है।
 You're extraordinary.	Du bist außergewöhnlich.	आप खास हैं।
 You're extraordinary.	Sie sind außergewöhnlich.	वे असाधारण हैं।

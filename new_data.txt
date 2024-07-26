@@ -35921,3 +35921,9 @@ You're a true friend.	Du bist ein wahrer Freund.	तुम एक सच्च�
 You're afraid of him.	Du hast Angst vor ihm.	तुम्हें उससे डर लगता है।
 You're always around.	Du bist immer in der Nähe.	तुम हमेशा चारों ओर हो।
 You're among friends.	Du befindest dich unter Freunden.	तुम दोस्तों के बीच में हो।
+You're being evasive.	Du bist ausweichend.	तुम टाल रहे हो।
+You're being watched.	Du wirst beobachtet.	तुम नजरअंदाज कर रहे हो।
+You're confusing Tom.	Du verwirrst Tom.	तुम टॉम को गुमराह कर रहे हो।
+You're conscientious.	Du bist gewissenhaft.	तुम ईमानदार हो।
+You're disturbing me.	Du störst mich.	तुम मुझे परेशान कर रहे हो।
+You're double-parked.	Du stehst im Halteverbot.	तुम डबल पार्क कर रहे हो।
