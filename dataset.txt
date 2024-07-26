@@ -1,14 +1,4 @@
 
-I'll make up for it.	Ich werde es wiedergutmachen.	मैं इसे बनाऊंगा।
-I'll make you happy.	Ich werde dich glücklich machen.	मैं तुम्हें खुश रखूंगा।
-I'll make you happy.	Ich werde euch glücklich machen.	मैं तुम्हें खुश रखूंगा।
-I'll make you happy.	Ich werde Sie glücklich machen.	मैं तुम्हें खुश रखूंगा।
-I'll need some help.	Ich werde Hilfe benötigen.	मुझे मदद की ज़रूरत होगी।
-I'll need some help.	Ich werde Hilfe brauchen.	मुझे मदद की ज़रूरत होगी।
-I'll need your help.	Ich werde deine Hilfe brauchen.	मुझे आपकी मदद की आवश्यकता होगी।
-I'll need your help.	Ich werde eure Hilfe brauchen.	मुझे आपकी मदद की आवश्यकता होगी।
-I'll need your help.	Ich werde Ihre Hilfe brauchen.	मुझे आपकी मदद की आवश्यकता होगी।
-I'll never go there.	Ich werde nie da hingehen.	मैं वहां कभी नहीं जाऊंगा।
 I'll never help you.	Ich werde dir nie helfen.	मैं आपकी मदद नहीं करूंगा।
 I'll never tell you.	Ich werde es dir nie sagen.	मैं आपको कभी नहीं बताऊंगा।
 I'll read it to you.	Ich werde es dir vorlesen.	मैं इसे आपको पढ़ूंगा।

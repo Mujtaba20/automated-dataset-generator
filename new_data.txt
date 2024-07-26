@@ -26951,3 +26951,8 @@ I'll look after you.	Ich werde mich um dich kümmern.	मैं तुम्ह�
 I'll look into that.	Ich werde das prüfen.	मैं इस पर जाँच करूँगा।
 I'll make Tom do it.	Ich werde Tom dazu bringen, es zu tun.	मैं टॉम से यह करवा लूँगा।
 I'll make it simple.	Ich werde es einfach machen.	मैं इसे सरल बना दूँगा।
+I'll make up for it.	Ich werde es wettmachen.	मैं इसके लिए भरपाई करूंगा।
+I'll make you happy.	Ich werde dich glücklich machen.	मैं तुम्हें खुश कर दूँगा।
+I'll need some help.	Ich werde etwas Hilfe brauchen.	मुझे कुछ मदद की जरूरत होगी।
+I'll need your help.	Ich werde deine Hilfe benötigen.	मुझे तुम्हारी मदद की जरूरत होगी।
+I'll never go there.	Ich werde niemals dorthin gehen.	मैं वहाँ कभी नहीं जाऊंगा।
