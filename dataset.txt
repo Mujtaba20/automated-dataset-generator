@@ -1,15 +1,4 @@
 
-Tom is very hungry.	Tom hat großen Hunger.	टॉम भूखा है।
-Tom is very hungry.	Tom ist sehr hungrig.	टॉम बहुत भूखा है।
-Tom is very lonely.	Tom ist sehr einsam.	टॉम बहुत अकेला है।
-Tom is very modest.	Tom ist sehr bescheiden.	टॉम बहुत मामूली है।
-Tom is very sleepy.	Tom ist sehr müde.	टॉम बहुत थक गया है।
-Tom is very stingy.	Tom ist sehr geizig.	टॉम बहुत कंजूस है।
-Tom is very stingy.	Tom ist überaus knauserig.	टॉम बेहद कंजूस है।
-Tom is very strict.	Tom ist sehr streng.	टॉम बहुत सख्त है।
-Tom is very unkind.	Tom ist sehr unfreundlich.	टॉम बहुत ही अनफ्रेंडली है।
-Tom is watching TV.	Tom sieht fern.	टॉम दूर दिखता है।
-Tom is watching TV.	Tom guckt Fernsehen.	टॉम टेलीविजन देखता है।
 Tom is wearing red.	Tom trägt Rot.	टॉम लाल पहनता है।
 Tom is with me now.	Tom ist gerade bei mir.	टॉम अभी मेरे साथ है।
 Tom is working now.	Tom ist jetzt grade am Arbeiten.	टॉम अब काम कर रहा है।

@@ -23748,3 +23748,11 @@ Tom is very clever.	Tom ist sehr schlau.	टॉम बहुत चालाक 
 Tom is very frugal.	Tom ist sehr sparsam.	टॉम बहुत किफ़ायती है।
 Tom is very honest.	Tom ist sehr ehrlich.	टॉम बहुत ईमानदार है।
 Tom is very humble.	Tom ist sehr bescheiden.	टॉम बहुत विनम्र है।
+Tom is very hungry.	Tom ist sehr hungrig.	टॉम बहुत पेटू है।
+Tom is very lonely.	Tom ist sehr einsam.	टॉम बहुत अकेला है।
+Tom is very modest.	Tom ist sehr bescheiden.	टॉम बहुत विनम्र है।
+Tom is very sleepy.	Tom ist sehr müde.	टॉम बहुत नींदआया है।
+Tom is very stingy.	Tom ist sehr geizig.	टॉम बहुत कंजूस है।
+Tom is very strict.	Tom ist sehr streng.	टॉम बहुत कठोर है।
+Tom is very unkind.	Tom ist sehr unfreundlich.	टॉम बहुत दयाहीन है।
+Tom is watching TV.	Tom sieht fern.	टॉम टीवी देख रहा है।
