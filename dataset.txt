@@ -1,14 +1,4 @@
 
-Don't stand in my way.	Steh mir nicht im Weg!	मेरे रास्ते में खड़े मत करो!
-Don't stare at people.	Starre keine Leute an.	लोगों को घूरो मत।
-Don't swear in public.	Fluchen Sie nicht in der Öffentlichkeit.	सार्वजनिक रूप से शपथ न लें।
-Don't talk back to me.	Hör auf, mir so freche Antworten zu geben.	मुझे इतना गाल जवाब देना बंद करो।
-Don't throw that away.	Wirf das da nicht fort!	उस दूर मत फेंको!
-Don't touch my camera.	Rühr meinen Fotoapparat nicht an.	मेरे कैमरे को मत छुओ।
-Don't touch my camera.	Rührt meinen Fotoapparat nicht an.	मेरे कैमरे को मत छुओ।
-Don't touch my camera.	Rühren Sie meinen Fotoapparat nicht an.	मेरे कैमरे को हलचल मत करो।
-Don't touch my camera.	Nicht meine Kamera anfassen!	मेरे कैमरे को मत छुओ!
-Don't touch my guitar.	Fass meine Gitarre nicht an!	मेरा गिटार मत बनाओ!
 Don't touch that book.	Fass das Buch nicht an!	किताब मत लो!
 Don't touch the glass.	Nicht das Glas berühren.	कांच को न छुओ।
 Don't try my patience.	Spiel nicht mit meiner Geduld.	मेरे धैर्य के साथ मत खेलो।

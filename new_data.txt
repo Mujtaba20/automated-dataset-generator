@@ -36547,3 +36547,10 @@ Don't read my journal.	Lies nicht mein Tagebuch.	मेरी जर्नल �
 Don't say such things.	Sag nicht solche Dinge.	ऐसी बातें मत कहो।
 Don't shake the table.	Schüttel den Tisch nicht.	मेज़ को मत हिलाओ।
 Don't spill the beans.	Lass die Katze nicht aus dem Sack.	बानी झाड़ो मत।
+Don't stand in my way.	Stell dich nicht in meinen Weg.	मेरे रास्ते में मत खड़े हो.
+Don't stare at people.	Starr die Leute nicht an.	लोगों को ताकते नहीं खड़े हो.
+Don't swear in public.	Schwöre nicht in der Öffentlichkeit.	सार्वजनिक स्थल में शपथ न माओ.
+Don't talk back to me.	Antworte mir nicht zurück.	मुझसे पीछे न बोलो.
+Don't throw that away.	Werf das nicht weg.	उसे फेंकना बंद करो.
+Don't touch my camera.	Fass meine Kamera nicht an.	मेरे कैमरे को मत छूना.
+Don't touch my guitar.	Rühr meine Gitarre nicht an.	मेरी गिटार को मत छूना.
