@@ -1,14 +1,4 @@
 
-Mary lost her handbag.	Maria hat Ihre Handtasche verloren.	मारिया ने अपना हैंडबैग खो दिया।
-Mary wore a red dress.	Maria trug ein rotes Kleid.	मारिया ने लाल पोशाक पहनी थी।
-May I ask you a favor?	Kann ich Sie um einen Gefallen bitten?	मेरी एक मदद करोगे?
-May I ask you a favor?	Darf ich Sie um einen Gefallen bitten?	क्या मैं आपसे एहसान मांग सकता हूं?
-May I ask you a favor?	Darf ich dich um einen Gefallen bitten?	क्या मैं आपसे एहसान मांग सकता हूं?
-May I borrow your pen?	Darf ich mir deinen Kuli borgen?	क्या मैं आपकी समाप्ति उधार ले सकता हूं?
-May I borrow your pen?	Darf ich mir mal deinen Füller ausleihen?	क्या मैं आपका फाउंटेन पेन उधार ले सकता हूं?
-May I come right over?	Kann ich gleich mal rüberkommen?	क्या मैं तुरंत आ सकता हूं?
-May I do it right now?	Kann ich es gleich machen?	क्या मैं इसे तुरंत कर सकता हूं?
-May I do it right now?	Kann ich es auf der Stelle machen?	क्या मैं इसे मौके पर कर सकता हूं?
 May I eat that orange?	Darf ich die Apfelsine da essen?	क्या मैं सेब खा सकता हूं?
 May I eat this orange?	Darf ich diese Orange essen?	क्या मैं यह नारंगी खा सकता हूं?
 May I eat this orange?	Darf ich diese Apfelsine essen?	क्या मैं यह सेब खा सकता हूं?

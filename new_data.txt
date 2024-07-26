@@ -38797,3 +38797,11 @@ Mary is scantily clad.	Maria ist knapp bekleidet.	मेरी अल्पक�
 Mary is spinning wool.	Maria spinnt Wolle.	मेरी ऊन धू रही है।
 Mary isn't Tom's wife.	Maria ist nicht Toms Frau.	मेरी टॉम की पत्नी नहीं है।
 Mary looked ravishing.	Maria sah umwerfend aus.	मेरी रहस्योद्गार है।
+Mary lost her handbag.	Maria hat ihre Handtasche verloren.	मेरी ने अपनी हैंडबैग खो दी।
+Mary wore a red dress.	Maria trug ein rotes Kleid.	मेरी ने एक लाल ड्रेस पहनी थी।
+May I ask you a favor?	Kann ich dich um einen Gefallen bitten?	क्या मुझे आपसे एक अनुरोध करने की अनुमति है?
+May I ask you a question?	Darf ich dich etwas fragen?	क्या मैं आपसे एक सवाल पूछ सकता हूँ?
+May I borrow your pen?	Kann ich deinen Stift ausleihen?	क्या मैं आपकी कलम उधार ले सकता हूँ?
+May I have a glass of water?	Kann ich ein Glas Wasser haben?	क्या मुझे एक गिलास पानी मिल सकता है?
+May I come right over?	Darf ich gleich kommen?	क्या मैं तुरंत आ सकता हूँ?
+May I do it right now?	Kann ich es jetzt machen?	क्या मैं अभी इसे कर सकता हूँ?
