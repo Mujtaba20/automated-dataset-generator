@@ -24563,3 +24563,9 @@ What're they up to?	Was haben sie vor?	वे क्या कर रहे ह�
 What're you asking?	Was fragst du?	तुम क्या पूछ रहे हो?
 What're you baking?	Was backst du?	तुम क्या बना रहे हो?
 What're you eating?	Was isst du?	तुम क्या खा रहे हो?
+What're you saying?	Was sagst du?	तुम क्या कह रहे हो?
+What's Boston like?	Wie ist Boston?	बोस्टन कैसा है?
+What's Tom good at?	Worin ist Tom gut?	टॉम किस में अच्छा है?
+What's Tom reading?	Was liest Tom?	टॉम क्या पढ़ रहा है?
+What's Tom selling?	Was verkauft Tom?	टॉम क्या बेच रहा है?
+What're you saying? [Different meaning]	Was meinst du?	तुम क्या कहना चाह रहे हो?

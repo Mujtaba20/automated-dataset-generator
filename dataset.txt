@@ -1,14 +1,4 @@
 
-What're you saying?	Was sagst du?	आप क्या कह रहे हैं?
-What're you saying?	Was sagen Sie?	आप क्या कहते हैं?
-What're you saying?	Was sagt ihr?	आप क्या कहते हैं?
-What's Boston like?	Wie ist Boston?	बोस्टन कैसा है?
-What's Tom good at?	Worin ist Tom gut?	टॉम अच्छा क्या है?
-What's Tom good at?	Was kann Tom gut?	टॉम क्या कर सकता है?
-What's Tom good at?	In was ist Tom gut?	टॉम गुड क्या है?
-What's Tom good at?	Was sind Toms Stärken?	टॉम की ताकत क्या हैं?
-What's Tom reading?	Was liest Tom gerade?	टॉम रीडिंग क्या है?
-What's Tom selling?	Was verkauft Tom?	टॉम क्या बेचता है?
 What's Tom wearing?	Was trägt Tom gerade?	टॉम क्या पहन रहा है?
 What's Tom wearing?	Was hat Tom an?	टॉम पर क्या है?
 What's Tom writing?	Was schreibt Tom?	टॉम क्या लिखता है?
