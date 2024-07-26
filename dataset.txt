@@ -1,14 +1,4 @@
 
-I'm afraid of dogs.	Ich habe Furcht vor Hunden.	मैं कुत्तों के डर लगता है।
-I'm afraid of dogs.	Ich fürchte mich vor Hunden.	मैं कुत्तों के डर लगता है।
-I'm afraid of dogs.	Ich habe Angst vor Hunden.	मुझे कुत्तों से डर लगता है।
-I'm all alone here.	Ich bin hier ganz allein.	मैं यहाँ अकेला हूँ।
-I'm almost through.	Ich bin fast damit durch.	मैं लगभग इसके साथ हूं।
-I'm almost through.	Ich bin fast durch.	मैं लगभग के माध्यम से हूँ।
-I'm alone with Tom.	Ich bin mit Tom allein.	मैं टॉम के साथ अकेला हूँ।
-I'm already in bed.	Ich bin schon im Bett.	मैं पहले से ही बिस्तर पर हूं।
-I'm also a teacher.	Ich bin auch Lehrer.	मैं एक शिक्षक भी हूं।
-I'm always careful.	Ich bin immer vorsichtig.	मैं हमेशा सावधान रहता हूं।
 I'm always nervous.	Ich bin immer nervös.	मैं हमेशा घबराता रहता हूं।
 I'm always on time.	Ich bin immer pünktlich.	मैं हमेशा समय पर हूं।
 I'm always thirsty.	Ich habe immer Durst.	मुझे हमेशा प्यास लगती है।

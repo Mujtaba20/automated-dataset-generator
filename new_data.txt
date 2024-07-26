@@ -21903,3 +21903,10 @@ I'm a teacher, too.	Ich bin auch Lehrer.	मैं भी एक शिक्ष
 I'm a tourist, too.	Ich bin auch Tourist.	मैं भी पर्यटक हूँ।
 I'm a truck driver.	Ich bin Lastwagenfahrer.	मैं ट्रक ड्राइवर हूँ।
 I'm afraid for you.	Ich habe Angst um dich.	मैं तुम्हें डरती हूँ।
+I'm afraid of dogs.	Ich habe Angst vor Hunden.	मुझे कुत्तों से डर लगता है।
+I'm all alone here.	Ich bin ganz alleine hier.	मैं यहाँ पूरी तरह अकेला हूं।
+I'm almost through.	Ich bin fast durch.	मैं लगभग संपन्न हो रहा हूँ।
+I'm alone with Tom.	Ich bin allein mit Tom.	मैं टॉम के साथ अकेला हूं।
+I'm already in bed.	Ich liege schon im Bett.	मैं पहले से ही बिस्तर में हूं।
+I'm also a teacher.	Ich bin auch Lehrer.	मैं भी एक शिक्षक हूं।
+I'm always careful.	Ich bin immer vorsichtig.	मैं हमेशा सावधान रहता हूं।
