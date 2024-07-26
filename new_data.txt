@@ -28354,3 +28354,11 @@ They seem very busy.	Sie scheinen sehr beschäftigt zu sein.	लगता है
 They sell furniture.	Sie verkaufen Möbel.	वे फर्नीचर बेचते हैं।
 They should be fine.	Sie sollten in Ordnung sein.	उन्हें ठीक होना चाहिए।
 They should know it.	Sie sollten es wissen.	उन्हें यह जानना चाहिए।
+They should sue Tom.	Sie sollten Tom verklagen.	उन्हें टॉम पर दावा करना चाहिए।
+They started firing.	Sie fingen an zu schießen.	उन्होंने गोलियों की चलाई शुरू की।
+They stayed friends.	Sie hielten an Freundschaft fest.	वे मित्रता बनाए रखी।
+They understand now.	Sie verstehen jetzt.	उन्हें अब समझ आ गई है।
+They waited outside.	Sie warteten draußen.	उन्होंने बाहर इंतजार किया।
+They went by subway.	Sie gingen mit der U-Bahn.	उन्होंने मेट्रो से जाना।
+They were good kids.	Sie waren gute Kinder.	वे अच्छे बच्चे थे।
+They were satisfied.	Sie waren zufrieden.	वे संतुष्ट थे।
