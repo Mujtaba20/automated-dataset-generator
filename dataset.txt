@@ -1,14 +1,4 @@
 
-Are you both bachelors?	Seid ihr beide Junggesellen?	क्या आप दोनों कुंवारे हैं?
-Are you both bachelors?	Sind Sie beide Junggesellen?	क्या आप दोनों कुंवारे हैं?
-Are you coming with me?	Kommst du mit mir?	क्या तुम मेरे साथ आ रहे हो?
-Are you coming with us?	Kommen Sie mit uns?	हमारे साथ आओ?
-Are you dating anybody?	Triffst du dich mit jemandem?	क्या आप किसी से मिलते हैं?
-Are you feeling lonely?	Fühlst du dich einsam?	क्या तुम आकेलापन महसूस कर रहे हो?
-Are you feeling lonely?	Fühlt ihr euch einsam?	क्या तुम आकेलापन महसूस कर रहे हो?
-Are you feeling lonely?	Fühlen Sie sich einsam?	क्या तुम आकेलापन महसूस कर रहे हो?
-Are you from Australia?	Bist du aus Australien?	क्या तुम ऑस्ट्रेलिया से हो?
-Are you from Australia?	Kommst du aus Australien?	क्या आप ऑस्ट्रेलिया से आते हैं?
 Are you going anywhere?	Gehst du irgendwo hin?	आप कहीं जा रहे है
 Are you going anywhere?	Willst du irgendwohin?	क्या आप कहीं भी चाहते हैं?
 Are you going home now?	Gehst du jetzt nach Hause?	क्या आप अब घर जाते हैं?
