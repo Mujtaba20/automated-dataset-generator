@@ -1,14 +1,4 @@
 
-Can you program in C?	Kannst du in C programmieren?	क्या आप C में प्रोग्राम कर सकते हैं?
-Can you program in C?	Können Sie in C programmieren?	क्या आप C में प्रोग्राम कर सकते हैं?
-Can you ride a horse?	Kannst du reiten?	क्या आप सवारी कर सकते हैं
-Can you speak French?	Kannst du Französisch sprechen?	क्या आप फ्रेंच बोल सकते हैं?
-Can you speak French?	Kannst du Französisch?	क्या आप फ्रेंच कर सकते हैं?
-Can you speak French?	Könnt ihr Französisch sprechen?	क्या आप फ्रेंच बोल सकते हैं?
-Can you speak French?	Können Sie Französisch sprechen?	क्या आप फ्रेंच बोल सकते हैं?
-Can you speak French?	Könnt ihr Französisch?	क्या आप फ्रेंच कर सकते हैं?
-Can you speak French?	Können Sie Französisch?	क्या आप फ्रेंच बोल सकते हैं?
-Can you take a break?	Kannst du eine Pause machen?	क्या आप एक ब्रेक ले सकते हैं?
 Can't we go with Tom?	Können wir nicht mit Tom gehen?	क्या हम टॉम के साथ नहीं जा सकते?
 Cats don't like dogs.	Katzen mögen keine Hunde.	बिल्लियों को कुत्ते पसंद नहीं हैं।
 Cats have nine lives.	Eine Katze hat neun Leben.	एक बिल्ली का नौ जीवन है।

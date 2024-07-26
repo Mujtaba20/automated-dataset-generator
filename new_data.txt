@@ -30510,3 +30510,7 @@ Can you hear me, Tom?	Kannst du mich hören, Tom?	क्या तुम मु�
 Can you imagine that?	Kannst du dir das vorstellen?	क्या आप उसे कल्पना कर सकते हैं?
 Can you imagine that? (Different meaning from the above repeated sentence)	Kannst du das vorstellen?	क्या आप वह कल्पना कर सकते हैं?
 Can you manage alone?	Kannst du alleine zurechtkommen?	क्या आप अकेले संभाल सकते हैं?
+Can you program in C?	Kannst du in C programmieren?	क्या तुम C में प्रोग्राम कर सकते हो?
+Can you ride a horse?	Kannst du reiten?	क्या तुम घोड़े पर सवारी कर सकते हो?
+Can you speak French?	Könnt ihr Französisch sprechen?	क्या तुम फ्रेंच बोल सकते हों?
+Can you take a break?	Kannst du eine Pause machen?	क्या तुम रुक सकते हो?
