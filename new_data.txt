@@ -27810,3 +27810,11 @@ Please tell me more.	Bitte erzähl mir mehr.	कृपया मुझे अध
 Please wish me luck.	Bitte wünsch mir Glück.	कृपया मुझे किस्मत की शुभकामनाएं दें।
 Please wrap them up.	Bitte pack sie ein.	कृपया उन्हें पैक अप करें।
 Pleased to meet you.	Willkommen.	खुश आपका आना।
+Possibly, it's true.	Möglicherweise ist es wahr.	संभावना है, यह सच है।
+Prices are going up.	Die Preise steigen.	कीमतें बढ़ रही हैं।
+Put down the hammer.	Leg den Hammer hin.	हथौड़ा नीचे रखें।
+Put on some clothes.	Zieh etwas Kleidung an.	कुछ कपड़े पहनो।
+Put on this sweater.	Zieh diesen Pullover an.	इस स्वेटर को पहनो।
+Put on your blinker.	Schalte deinen Blinker ein.	अपना ब्लिंकर ऑन करें।
+Put on your glasses.	Setz deine Brille auf.	अपना चश्मा पहन लो।
+Put on your pajamas.	Zieh deine Schlafanzughose an.	अपने पजामे पहनो।

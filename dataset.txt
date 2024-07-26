@@ -1,15 +1,4 @@
 
-Possibly, it's true.	Möglicherweise ist es wahr.	यह सच हो सकता है।
-Prices are going up.	Die Preise steigen.	कीमतें बढ़ रही हैं।
-Put down the hammer.	Leg den Hammer nieder.	हथौड़ा नीचे रखो।
-Put on some clothes.	Zieh dir was an.	कुछ ले लो।
-Put on this sweater.	Ziehe diesen Pullover an!	इस स्वेटर को बंद करो!
-Put on your blinker.	Schalte den Blinker ein!	टर्न सिग्नल चालू करें!
-Put on your blinker.	Schalten Sie den Blinker ein!	टर्न सिग्नल चालू करें!
-Put on your glasses.	Setz deine Brille auf!	अपना चश्मा सेट करें!
-Put on your glasses.	Setzen Sie Ihre Brille auf!	अपने चश्मे पर रखो!
-Put on your pajamas.	Zieh deinen Schlafanzug an!	अपने पजामा पर रखो!
-Put on your pajamas.	Zieht eure Schlafanzüge an!	अपने पजामा को कस लें!
 Put some clothes on.	Zieh dir etwas an!	कुछ पर कुछ ले लो!
 Put some clothes on.	Ziehen Sie sich etwas an!	कुछ पर रखो!
 Put some clothes on.	Zieht euch etwas an!	थोड़ा सा हो जाओ!
