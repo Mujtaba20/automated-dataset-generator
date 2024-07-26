@@ -1,14 +1,4 @@
 
-Tom is watching TV now.	Jetzt schaut Tom fern.	अब टॉम दूर दिखता है।
-Tom is waving his arms.	Tom winkt.	टॉम वेव्स।
-Tom is wearing glasses.	Tom trägt eine Brille.	टॉम चश्मा पहनता है।
-Tom is wearing pajamas.	Tom ist im Schlafanzug.	टॉम पजामा में है।
-Tom is wiping his nose.	Tom putzt sich die Nase.	टॉम अपनी नाक साफ करता है।
-Tom is with his mother.	Tom ist bei seiner Mutter.	टॉम अपनी माँ के साथ है।
-Tom is working with us.	Tom arbeitet mit uns.	टॉम हमारे साथ काम करता है।
-Tom is writing a novel.	Tom schreibt einen Roman.	टॉम एक उपन्यास लिखते हैं।
-Tom is writing letters.	Tom schreibt Briefe.	टॉम पत्र लिखते हैं।
-Tom is young, isn't he?	Tom ist jung, nicht wahr?	टॉम युवा है, है ना?
 Tom isn't a bad person.	Tom ist kein schlechter Mensch.	टॉम एक बुरा व्यक्ति नहीं है।
 Tom isn't a journalist.	Tom ist kein Journalist.	टॉम एक पत्रकार नहीं है।
 Tom isn't a lawyer yet.	Tom ist noch kein Rechtsanwalt.	टॉम अभी तक वकील नहीं है।
