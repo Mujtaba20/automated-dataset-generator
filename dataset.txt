@@ -1,14 +1,4 @@
 
-Tom is my best friend.	Tom ist mein bester Freund.	टॉम मेरा सबसे अच्छा दोस्त है।
-Tom is my best worker.	Tom ist mein bester Arbeiter.	टॉम मेरे सबसे अच्छे कार्यकर्ता हैं।
-Tom is my friend, too.	Tom ist auch mein Freund.	टॉम भी मेरे दोस्त हैं।
-Tom is my good friend.	Tom ist mein guter Freund.	टॉम मेरे अच्छे दोस्त हैं।
-Tom is my grandfather.	Tom ist mein Großvater.	टॉम मेरे दादा हैं।
-Tom is my inspiration.	Tom ist meine Inspiration.	टॉम मेरी प्रेरणा है।
-Tom is nice, isn't he?	Tom ist nett, nicht wahr?	टॉम अच्छा है, है ना?
-Tom is nicer than you.	Tom ist netter als du.	टॉम आप से ज्यादा अच्छे हैं।
-Tom is no longer here.	Tom ist nicht mehr hier.	टॉम अब यहां नहीं है।
-Tom is now in trouble.	Tom ist jetzt in Schwierigkeiten.	टॉम अब मुसीबत में है।
 Tom is now on his own.	Tom ist jetzt auf sich allein gestellt.	टॉम अब अपने दम पर है।
 Tom is nuts, isn't he?	Tom hat einen an der Waffel, findest du nicht?	टॉम के पास वफ़ल पर एक है, क्या आपको नहीं मिला?
 Tom is off duty today.	Tom hat heute dienstfrei.	टॉम के पास आज नि: शुल्क है।

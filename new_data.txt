@@ -40336,3 +40336,13 @@ Tom is loud, isn't he?	Tom ist laut, oder?	टॉम ऊंची आवाज �
 Tom is making cookies.	Tom backt Kekse.	टॉम कुकीज बना रहा है।
 Tom is making his bed.	Tom macht sein Bett.	टॉम अपने बिस्तर को सजा रहा है।
 Tom is my adopted son.	Tom ist mein Adoptivsohn.	टॉम मेरा दत्तक पुत्र है।
+Tom is my best friend.	Tom ist mein bester Freund.	टॉम मेरा सबसे अच्छा दोस्त है।
+Tom is my best worker.	Tom ist mein bester Arbeiter.	टॉम मेरा सबसे अच्छा कर्मचारी है।
+Tom is my friend, too.	Tom ist auch mein Freund.	टॉम मेरा भी दोस्त है।
+Tom is my good friend.	Tom ist mein guter Freund.	टॉम मेरा अच्छा दोस्त है।
+Tom is my grandfather.	Tom ist mein Großvater.	टॉम मेरे दादा है।
+Tom is my inspiration.	Tom ist meine Inspiration.	टॉम मेरी प्रेरणा है।
+Tom is nice, isn't he?	Tom ist nett, oder?	टॉम अच्छे हैं, ना?
+Tom is nicer than you.	Tom ist netter als du.	टॉम तुमसे अधिक प्यारा है।
+Tom is no longer here.	Tom ist nicht mehr hier.	टॉम अब यहाँ नहीं है।
+Tom is now in trouble.	Tom steckt jetzt in Schwierigkeiten.	टॉम अब मुश्किल में है।
