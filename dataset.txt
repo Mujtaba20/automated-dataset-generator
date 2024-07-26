@@ -1,15 +1,4 @@
 
-I heard everything.	Ich habe alles gehört.	मैंने सब कुछ सुना।
-I heard explosions.	Ich habe Explosionen gehört.	मैंने विस्फोट सुना।
-I heard him go out.	Ich hörte ihn rausgehen.	मैंने उसे बाहर जाना सुना।
-I heard some shots.	Ich hörte einige Schüsse.	मैंने कुछ शॉट सुने।
-I heard you crying.	Ich habe dich weinen gehört.	मैंने तुम्हें रोते हुए सुना।
-I heard you crying.	Ich habe euch weinen gehört.	मैंने तुम्हें रोते हुए सुना।
-I heard you crying.	Ich habe Sie weinen gehört.	मैंने उसे रोते हुए सुना।
-I heard you scream.	Ich habe dich schreien gehört.	मैंने सुना है कि आप चिल्लाते हैं।
-I heard you scream.	Ich habe dich kreischen gehört.	मैंने आपको डराते हुए सुना।
-I heard you scream.	Ich habe Sie schreien gehört.	मैंने उसकी चीखें सुनीं।
-I heard you scream.	Ich habe Sie kreischen gehört.	मैंने उसकी डरावनी सुनी।
 I helped everybody.	Ich habe jedem geholfen.	मैंने सभी की मदद की।
 I helped everybody.	Ich habe allen geholfen.	मैंने सभी की मदद की।
 I hid it somewhere.	Ich habe es irgendwo versteckt.	मैंने इसे कहीं छिपा दिया।

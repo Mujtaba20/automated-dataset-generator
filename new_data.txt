@@ -21329,3 +21329,10 @@ I haven't told Tom.	Ich habe Tom noch nicht gesagt.	मैंने अभी �
 I hear Tom's voice.	Ich höre Toms Stimme.	मैं टॉम की आवाज सुनता हूँ।
 I heard Tom scream.	Ich hörte Tom schreien.	मैंने टॉम के चीखने की आवाज सुनी।
 I heard every word.	Ich hörte jedes Wort.	मैंने हर शब्द सुना।
+I heard everything.	Ich habe alles gehört.	मैंने सब कुछ सुना।
+I heard explosions.	Ich habe Explosionen gehört.	मैंने विस्फोट सुना।
+I heard him go out.	Ich habe ihn rausgehen hören.	मैंने उसे बाहर जाते सुना।
+I heard some shots.	Ich habe einige Schüsse gehört.	मैंने कुछ गोलियां सुनी।
+I heard you crying.	Ich habe dich weinen gehört.	मैंने तुम्हें रोते हुए सुना।
+I heard you scream.	Ich habe dich schreien hören.	मैंने तुम्हें चिल्लाते हुए सुना।
+I heard you scream. (Different meaning)	Ich habe gehört, wie du geschrien hast.	मैंने तुम्हें चिल्लाते हुए सुना।
