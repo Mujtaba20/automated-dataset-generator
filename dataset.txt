@@ -1,14 +1,4 @@
 
-Tom put it in the box.	Tom legte es in die Kiste.	टॉम ने इसे बॉक्स में रखा।
-Tom put on his gloves.	Tom zog seine Handschuhe an.	टॉम ने अपने दस्ताने पर डाल दिया।
-Tom put on some music.	Tom legte Musik auf.	टॉम ने संगीत पर रखा।
-Tom put the kettle on.	Tom setzte den Kessel auf.	टॉम ने बॉयलर पर रखा।
-Tom ran at full speed.	Tom rannte volle Pulle.	टॉम पूरी नाड़ी चला।
-Tom ran down the hill.	Tom rannte den Hügel hinunter.	टॉम पहाड़ी से नीचे भाग गया।
-Tom ran into the room.	Tom rannte ins Zimmer.	टॉम कमरे में भाग गया।
-Tom ran into the shop.	Tom lief in den Laden.	टॉम दुकान में भाग गया।
-Tom ran up the stairs.	Tom rannte die Treppe hoch.	टॉम सीढ़ियों से ऊपर भाग गया।
-Tom ran up the stairs.	Tom rannte die Treppe hinauf.	टॉम सीढ़ियों से ऊपर भाग गया।
 Tom rang the doorbell.	Tom klingelte an der Tür.	टॉम ने दरवाजे की घंटी बजाई।
 Tom rang the doorbell.	Tom hat an der Tür geklingelt.	टॉम ने दरवाजे की घंटी बजाई।
 Tom rarely eats fruit.	Tom isst selten Obst.	टॉम शायद ही कभी फल खाते हैं।

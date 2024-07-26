@@ -40611,3 +40611,12 @@ Tom pushed the button.	Tom drückte den Knopf.	टॉम ने बटन दब
 Tom put away his toys.	Tom räumte seine Spielsachen weg.	टॉम ने अपने खिलौने दूर कर दिए।
 Tom put his foot down.	Tom setzte seinen Fuß ab.	टॉम ने अपना पैर रख दिया।
 Tom put his fork down.	Tom legte seine Gabel weg.	टॉम ने अपनी कांटे को छोड़ दिया।
+Tom put it in the box.	Tom hat es in die Box gelegt.	टॉम ने इसे बॉक्स में रख दिया।
+Tom put on his gloves.	Tom zog seine Handschuhe an.	टॉम ने अपने दस्ताने पहन लिए।
+Tom put on some music.	Tom hat Musik aufgelegt.	टॉम ने कुछ संगीत चलाया।
+Tom put the kettle on.	Tom stellte den Wasserkocher an.	टॉमने केतल पर रखा।
+Tom ran at full speed.	Tom rannte mit voller Geschwindigkeit.	टॉम ने पूरी गति से दौड़ा।
+Tom ran down the hill.	Tom rannte den Hügel hinunter.	टॉम पहाड़ी के निचे दौड़ा।
+Tom ran into the room.	Tom rannte ins Zimmer.	टॉम कमरे में दौड़ा।
+Tom ran into the shop.	Tom rannte in den Laden.	टॉम दुकान में दौड़ा।
+Tom ran up the stairs.	Tom lief die Treppen hoch.	टॉमने सीढ़ियों पर चढ़ाई की।
