@@ -1,14 +1,4 @@
 
-Tom is short and fat.	Tom ist klein und dick.	टॉम छोटा और मोटा है।
-Tom is six feet tall.	Tom ist 1,83 m groß.	टॉम 1.83 मीटर लंबा है।
-Tom is still a minor.	Tom ist noch minderjährig.	टॉम अभी भी नाबालिग है।
-Tom is still in jail.	Tom ist noch im Knast.	टॉम अभी भी जेल में है।
-Tom is still looking.	Tom schaut immer noch.	टॉम अभी भी दिखता है।
-Tom is still married.	Tom ist noch verheiratet.	टॉम अभी भी शादीशुदा है।
-Tom is still outside.	Tom ist noch immer draußen.	टॉम अभी भी बाहर है।
-Tom is still smoking.	Tom raucht immer noch.	टॉम अभी भी धूम्रपान कर रहा है।
-Tom is studying hard.	Tom lernt fleißig.	टॉम लगन से सीखता है।
-Tom is such a coward.	Tom ist so ein Feigling.	टॉम एक ऐसा कायर है।
 Tom is taking a bath.	Tom nimmt ein Bad.	टॉम स्नान करता है।
 Tom is taking a rest.	Tom ruht sich aus.	टॉम टिकी हुई है।
 Tom is taking a walk.	Tom macht gerade einen Spaziergang.	टॉम टहल रहा है।

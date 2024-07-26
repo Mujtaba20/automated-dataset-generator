@@ -34510,3 +34510,13 @@ Tom is scolding Mary.	Tom kritisiert Mary.	टॉम मैरी की नि�
 Tom is self-centered.	Tom ist egozentrisch.	टॉम आत्मकेंद्रित है।
 Tom is sending a fax.	Tom faxt.	टॉम एक फैक्स भेज रहा है।
 Tom is seriously ill.	Tom ist schwer krank.	टॉम गंभीर रूप से बीमार है।
+Tom is short and fat.	Tom ist klein und dick.	टॉम छोटा और मोटा है।
+Tom is six feet tall.	Tom ist sechs Fuß groß.	टॉम छः फीट लम्बा है।
+Tom is still a minor.	Tom ist immer noch minderjährig.	टॉम अब भी नाबालिग है।
+Tom is still in jail.	Tom ist immer noch im Gefängnis.	टॉम अभी भी जेल में है।
+Tom is still looking.	Tom sucht noch.	टॉम अब भी देख रहा है।
+Tom is still married.	Tom ist immer noch verheiratet.	टॉम अब भी शादीशुदा है।
+Tom is still outside.	Tom ist immer noch draußen.	टॉम अब भी बाहर है।
+Tom is still smoking.	Tom raucht immer noch.	टॉम अब भी सिगरेट पी रहा है।
+Tom is studying hard.	Tom lernt fleißig.	टॉम मेहनत से पढ़ाई कर रहा है।
+Tom is such a coward.	Tom ist so feige.	टॉम बहुत कायर है।
