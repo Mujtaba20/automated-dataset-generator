@@ -1,15 +1,4 @@
 
-I'm now taking orders.	Ich nehme jetzt Bestellungen an.	मैं अब आदेश स्वीकार कर रहा हूं।
-I'm often half asleep.	Ich bin oft schlaftrunken.	मैं अक्सर नशे में होता हूं।
-I'm on a fixed income.	Ich habe ein festes Einkommen.	मेरी एक निश्चित आय है।
-I'm on my lunch break.	Ich mache Mittagspause.	मैं लंच ब्रेक ले रहा हूं।
-I'm on my lunch break.	Ich habe gerade Mittagspause.	मैं लंच ब्रेक पर हूं।
-I'm on your side, Tom.	Ich bin auf deiner Seite, Tom.	मैं आपकी तरफ हूँ, टॉम।
-I'm only doing my job.	Ich verrichte nur meine Arbeit.	मैं सिर्फ अपना काम करता हूं।
-I'm out of place here.	Ich gehöre nicht hierher.	मैं यहाँ का नहीं हूं।
-I'm playing a TV game.	Ich spiele ein Videospiel.	मैं एक वीडियो गेम खेलता हूं।
-I'm reading this book.	Ich lese gerade dieses Buch.	मैं इस पुस्तक को पढ़ रहा हूं।
-I'm reading this book.	Ich lese dieses Buch.	मैंने इस पुस्तक को पढ़ा।
 I'm really mad at Tom.	Ich bin echt sauer auf Tom.	मैं वास्तव में टॉम से नाराज हूं।
 I'm really not hungry.	Ich habe wirklich keinen Hunger.	मैं वास्तव में भूखा नहीं हूं।
 I'm really not hungry.	Ich bin wirklich nicht hungrig.	मैं वास्तव में भूखा नहीं हूँ।

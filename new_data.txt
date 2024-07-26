@@ -38282,3 +38282,12 @@ I'm not very athletic.	Ich bin nicht sehr sportlich.	मैं बहुत ह�
 I'm not wearing socks.	Ich trage keine Socken.	मैं मोजे नहीं पहन रहा हूँ।
 I'm not young anymore.	Ich bin nicht mehr jung.	मैं अब जवान नहीं हूँ।
 I'm not your daughter.	Ich bin nicht deine Tochter.	मैं तुम्हारी बेटी नहीं हूँ।
+I'm now taking orders.	Ich nehme jetzt Bestellungen entgegen.	मैं अब ऑर्डर लेने लगा हूं।
+I'm often half asleep.	Ich bin oft halb schlafend.	मैं अक्सर आधी नींद में होता हूँ।
+I'm on a fixed income.	Ich habe ein festes Einkommen.	मेरे पास एक टाइम-टाइम की आमदनी है।
+I'm on my lunch break.	Ich mache gerade meine Mittagspause.	मैं अपने लंच ब्रेक पर हूँ।
+I'm on your side, Tom.	Ich bin auf deiner Seite, Tom.	मैं तोम, मैं आपकी ओर हूँ।
+I'm only doing my job.	Ich mache nur meine Arbeit.	मैं बस अपना काम कर रहा हूँ।
+I'm out of place here.	Ich bin hier fehl am Platz.	मैं यहाँ पर नहीं हूँ।
+I'm playing a TV game.	Ich spiele ein Fernsehspiel.	मैं एक टीवी गेम खेल रहा हूँ।
+I'm reading this book.	Ich lese dieses Buch.	मैं यह बुक पढ़ रहा हूँ।
