@@ -1,14 +1,4 @@
 
-Tom isn't backing down.	Tom gibt nicht nach.	टॉम अंदर नहीं देता।
-Tom isn't bothering me.	Tom belästigt mich nicht.	टॉम मुझे परेशान नहीं करता है।
-Tom isn't busy anymore.	Tom ist nicht mehr beschäftigt.	टॉम अब व्यस्त नहीं है।
-Tom isn't coming today.	Tom kommt heute nicht.	टॉम आज नहीं आता है।
-Tom isn't conservative.	Tom ist nicht konservativ.	टॉम रूढ़िवादी नहीं है।
-Tom isn't feeling well.	Tom geht es nicht gut.	टॉम अच्छा नहीं कर रहा है।
-Tom isn't finished yet.	Tom ist noch nicht fertig.	टॉम अभी तक समाप्त नहीं हुआ है।
-Tom isn't going to win.	Tom wird nicht gewinnen.	टॉम नहीं जीतेंगे।
-Tom isn't good at math.	Tom ist nicht gut in Mathematik.	टॉम गणित में अच्छा नहीं है।
-Tom isn't good at math.	Tom ist nicht gut in Mathe.	टॉम गणित में अच्छा नहीं है।
 Tom isn't good-looking.	Tom sieht nicht gut aus.	टॉम अच्छा नहीं लगता।
 Tom isn't here anymore.	Tom ist nicht mehr hier.	टॉम अब यहां नहीं है।
 Tom isn't ignoring you.	Tom ignoriert dich nicht.	टॉम आपको अनदेखा नहीं करता है।
