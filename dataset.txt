@@ -1,14 +1,4 @@
 
-Are you still upset?	Bist du noch immer verärgert?	क्या आप अभी भी परेशान हैं?
-Are you still upset?	Bist du noch aufgebracht?	क्या आप अभी भी परेशान हैं?
-Are you texting Tom?	Schreibst du Tom?	क्या आप टॉम लिखते हैं?
-Are you that stupid?	Bist du so doof?	क्या आप इतने मूर्ख हैं?
-Are you that stupid?	Bist du so dumm?	क्या तुम बहुत बेवकूफ हो
-Are you thirsty now?	Hast du jetzt Durst?	क्या अब आपको प्यास लगी है?
-Are you two friends?	Seid ihr zwei befreundet?	क्या आप दो दोस्त हैं?
-Are you up for that?	Bist du dafür bereit?	आप आप इसके लिए तैयार हैं?
-Are you very hungry?	Bist du sehr hungrig?	क्या आप बहुत भूखे हैं?
-Are you watching it?	Schaust du es dir an?	क्या आप इसे देखते हैं?
 Are you watching me?	Spionierst du mir nach?	क्या आप मेरी जासूसी करते हैं?
 Are you watching me?	Überwachst du mich?	क्या आप मेरी निगरानी करते हैं
 Are you working now?	Arbeitest du jetzt gerade?	क्या आप वर्तमान में अभी काम कर रहे हैं?

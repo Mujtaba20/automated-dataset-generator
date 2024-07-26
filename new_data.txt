@@ -25136,3 +25136,11 @@ Are you still alive?	Bist du noch am Leben?	क्या आप अभी भी
 Are you still angry?	Bist du immer noch wütend?	क्या आप अभी भी गुस्से में हैं?
 Are you still awake?	Bist du noch wach?	क्या आप अभी भी जागरूक हैं?
 Are you still there?	Bist du immer noch da?	क्या तुम अभी भी वहाँ हो?
+Are you still upset?	Bist du immer noch verärgert?	क्या आप अभी भी उदास हैं?
+Are you texting Tom?	Schreibst du Tom eine Nachricht?	क्या आप टॉम को मैसेज कर रहे हैं?
+Are you that stupid?	Bist du so dumm?	क्या तुम इतने मूर्ख हो?
+Are you thirsty now?	Bist du jetzt durstig?	क्या आप अब प्यासे हो?
+Are you two friends?	Seid ihr zwei Freunde?	क्या आप दोनों दोस्त हो?
+Are you up for that?	Bist du dafür bereit?	क्या आप उसके लिए तैयार हैं?
+Are you very hungry?	Bist du sehr hungrig?	क्या आप बहुत भूखे हैं?
+Are you watching it?	Schaust du es?	क्या तुम यह देख रहे हो?
