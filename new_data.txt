@@ -33874,3 +33874,10 @@ They've been damaged.	Sie wurden beschädigt.	उन्हें नुकसा
 They've lost so much.	Sie haben so viel verloren.	उन्होंने इतना खो दिया है।
 They've turned on us.	Sie haben sich gegen uns gewendet.	उन्होंने हमारे खिलाफ मोड़ लिया है।
 Think about tomorrow.	Denke an morgen.	कल के बारे में सोचो।
+Think happy thoughts.	Denke an glückliche Gedanken.	खुश विचारों को सोचो।
+Think of your family.	Denke an deine Familie.	तुम्हारे परिवार का ध्यान रखो।
+This apple is rotten.	Dieser Apfel ist faul.	यह सेब गला हुआ है।
+This banana is green.	Diese Banane ist grün.	यह केला हरा है।
+This banana went bad.	Diese Banane ist schlecht geworden.	यह केला खराब हो गया है।
+This bed is too soft.	Dieses Bett ist zu weich.	यह बिस्तर बहुत मुलायम है।
+This bicycle is mine.	Dieses Fahrrad gehört mir.	यह साइकिल मेरी है।
