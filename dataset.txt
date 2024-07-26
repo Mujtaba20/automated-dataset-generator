@@ -1,14 +1,4 @@
 
-Tom is a stranger here.	Tom ist hier fremd.	टॉम यहाँ अजीब है।
-Tom is a stranger here.	Tom ist hier ein Fremder.	टॉम यहाँ एक अजनबी है।
-Tom is a talented chef.	Tom ist ein begnadeter Koch.	टॉम एक प्रतिभाशाली रसोइया है।
-Tom is a tennis player.	Tom ist ein Tennisspieler.	टॉम एक टेनिस खिलाड़ी है।
-Tom is a terrible cook.	Tom ist ein miserabler Koch.	टॉम एक दयनीय रसोइया है।
-Tom is a total nutcase.	Tom hat sie nicht mehr alle.	टॉम अब उन सभी के पास नहीं है।
-Tom is a total nutcase.	Tom hat einen totalen Dachschaden.	टॉम को कुल छत की क्षति है।
-Tom is a very good boy.	Tom ist ein sehr guter Junge.	टॉम बहुत अच्छा लड़का है।
-Tom is a very good man.	Tom ist ein sehr guter Mann.	टॉम बहुत अच्छे इंसान हैं।
-Tom is a very kind man.	Tom ist ein sehr netter Mensch.	टॉम बहुत अच्छा इंसान है।
 Tom is a very lazy boy.	Tom ist ein ausgesprochen fauler Junge.	टॉम बहुत आलसी लड़का है।
 Tom is a very nice guy.	Tom ist ein sehr netter Kerl.	टॉम बहुत अच्छा लड़का है।
 Tom is a very nice man.	Tom ist ein sehr netter Mann.	टॉम बहुत अच्छा आदमी है।
