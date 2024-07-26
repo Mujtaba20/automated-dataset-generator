@@ -1,15 +1,4 @@
 
-Tom is a millionaire.	Tom ist Millionär.	टॉम एक करोड़पति है।
-Tom is a naughty boy.	Tom ist ein ungezogener Junge.	टॉम एक शरारती लड़का है।
-Tom is a neurologist.	Tom ist Neurologe.	टॉम एक न्यूरोलॉजिस्ट है।
-Tom is a neurologist.	Tom ist Nervenarzt.	टॉम एक न्यूरोलॉजिस्ट है।
-Tom is a new student.	Tom ist ein neuer Schüler.	टॉम एक नया छात्र है।
-Tom is a nice person.	Tom ist eine nette Person.	टॉम एक अच्छा इंसान है।
-Tom is a park ranger.	Tom ist Parkwächter.	टॉम एक पार्क गार्ड है।
-Tom is a pastry chef.	Tom ist Konditor.	टॉम एक कन्फेक्शनर है।
-Tom is a patient man.	Tom ist ein geduldiger Mann.	टॉम एक रोगी आदमी है।
-Tom is a philosopher.	Tom ist ein Philosoph.	टॉम एक दार्शनिक है।
-Tom is a philosopher.	Tom ist Philosoph.	टॉम एक दार्शनिक है।
 Tom is a picky eater.	Tom ist pingelig beim Essen.	भोजन करते समय टॉम पिकी है।
 Tom is a real cowboy.	Tom ist ein echter Cowboy.	टॉम एक असली चरवाहा है।
 Tom is a real friend.	Tom ist ein wahrer Freund.	टॉम एक असली दोस्त है।

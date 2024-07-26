@@ -34357,3 +34357,13 @@ Tom is a learned man.	Tom ist ein gebildeter Mann.	टॉम पढ़ा लि
 Tom is a little high.	Tom ist ein bisschen eingebildet.	टॉम थोड़ा उच्च है।
 Tom is a little nuts.	Tom ist ein bisschen verrückt.	टॉम थोड़ा पागल है।
 Tom is a married man.	Tom ist ein verheirateter Mann.	टॉम एक शादीशुदा आदमी है।
+Tom is a millionaire.	Tom ist Millionär.	टॉम एक करोड़पति है।
+Tom is a naughty boy.	Tom ist ein frecher Junge.	टॉम शरारती लड़का है।
+Tom is a neurologist.	Tom ist Neurologe.	टॉम एक न्यूरोलॉजिस्ट है।
+Tom is a neurologist. (Duplicate Sentence)	Tom ist ein Nervenarzt.	टॉम एक न्यूरोलॉजिस्ट है।
+Tom is a new student.	Tom ist ein neuer Student.	टॉम एक नया छात्र है।
+Tom is a nice person.	Tom ist ein netter Mensch.	टॉम एक अच्छे इंसान है।
+Tom is a park ranger.	Tom ist Parkwächter.	टॉम एक पार्क रेंजर है।
+Tom is a pastry chef.	Tom ist Konditor.	टॉम एक पेस्ट्री शेफ है।
+Tom is a patient man.	Tom ist ein geduldiger Mann.	टॉम एक सबरजीवी आदमी है।
+Tom is a philosopher.	Tom ist Philosoph.	टॉम एक दार्शनिक है।
