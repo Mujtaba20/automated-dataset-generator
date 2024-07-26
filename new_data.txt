@@ -38254,3 +38254,13 @@ I'm not done with you.	Ich bin noch nicht fertig mit dir.	मैं तुम्
 I'm not easily fooled.	Ich lasse mich nicht leicht täuschen.	मैं आसानी से धोखे में नहीं आता।
 I'm not entirely sure.	Ich bin nicht vollständig sicher.	मैं पूरी तरह से सुनिश्चित नहीं हूँ।
 I'm not even Canadian.	Ich bin nicht einmal Kanadier.	मैं तो कनाडी भी नहीं हूँ।
+I'm not going to look.	Ich werde nicht schauen.	मैं देखने जा रहा नहीं हूँ।
+I'm not going to lose.	Ich werde nicht verlieren.	मैं हारने जा रहा नहीं हूँ।
+I'm not going to stop.	Ich werde nicht aufhören.	मैं रुकने जा रहा नहीं हूँ।
+I'm not happy with it.	Ich bin nicht damit glücklich.	मैं इससे खुश नहीं हूँ।
+I'm not here for that.	Ich bin nicht hierfür hier.	मैं उसके लिए यहाँ नहीं हूँ।
+I'm not here to fight.	Ich bin nicht hier, um zu kämpfen.	मैं यहाँ लड़ाई करने के लिए नहीं हूँ।
+I'm not hungry at all.	Ich habe überhaupt keinen Hunger.	मुझे बिल्कुल भूख नहीं है।
+I'm not in Boston now.	Ich bin jetzt nicht in Boston.	मैं अब बोस्टन में नहीं हूँ।
+I'm not in any danger.	Ich bin in keiner Gefahr.	मुझे कोई खतरा नहीं है।
+I'm not in good shape.	Ich bin nicht in guter Verfassung.	मैं अच्छी तरह से नहीं हूँ।
