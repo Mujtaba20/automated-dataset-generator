@@ -1,14 +1,4 @@
 
-He delivers newspapers.	Er stellt Zeitungen zu.	वह समाचार पत्र भेजता है।
-He demanded better pay.	Er verlangte bessere Bezahlung.	उन्होंने बेहतर भुगतान मांगा।
-He did badly at school.	Er war schlecht in der Schule.	वह स्कूल में बुरा था।
-He did it just for fun.	Er hat es nur zum Spaß gemacht.	उन्होंने केवल इसे मज़े के लिए किया।
-He did nothing but cry.	Er weinte nur.	वह बस रोया।
-He did the right thing.	Er hat das Richtige getan.	उसने सही काम किया।
-He did the unthinkable.	Er hat das Undenkbare getan.	उसने अकल्पनीय किया।
-He didn't come on time.	Er ist nicht rechtzeitig gekommen.	वह समय में नहीं आया।
-He didn't get her joke.	Er hat ihren Witz nicht verstanden.	वह उसका मजाक नहीं समझता।
-He didn't get her joke.	Er verstand ihren Witz nicht.	वह उसका मजाक नहीं समझता।
 He didn't get the joke.	Er hat den Witz nicht verstanden.	वह मजाक को समझ नहीं पाया।
 He didn't say anything.	Er sagte nichts.	उसने कुछ भी नहीं कहा।
 He didn't see anything.	Er sah nichts.	उसने कुछ नहीं देखा।
