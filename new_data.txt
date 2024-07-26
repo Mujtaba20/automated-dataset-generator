@@ -26816,3 +26816,11 @@ I was making a cake.	Ich habe einen Kuchen gemacht.	मैं एक केक �
 I was ready for Tom.	Ich war bereit für Tom.	मैं टॉम के लिए तैयार था।
 I was really hungry.	Ich war wirklich hungrig.	मैं सचमुच भूखा था।
 I was really scared.	Ich war wirklich verängstigt.	मुझे सचमुच बहुत डर लग रहा था।
+I was scared of Tom.	Ich hatte Angst vor Tom.	मुझे टॉम से डर था।
+I was taking a bath.	Ich nahm ein Bad.	मैं स्नान कर रहा था।
+I was there as well.	Ich war auch da.	मैं भी वहाँ था।
+I was too ambitious.	Ich war zu ehrgeizig.	मैं बहुत उम्मीदवार था।
+I was very confused.	Ich war sehr verwirrt.	मैं बहुत उलझन में था।
+I was your age once.	Ich war einmal in deinem Alter.	मैं एक बार तुम्हारी उम्र में था।
+I washed my T-shirt.	Ich habe mein T-Shirt gewaschen.	मैंने अपनी टी-शर्ट धोई।
+I wasn't alone then.	Ich war damals nicht allein.	तब मैं अकेला नहीं था।
