@@ -1,14 +1,4 @@
 
-That's not good enough.	Das ist nicht gut genug.	यह बहुत अच्छा नहीं है।
-That's not interesting.	Das ist uninteressant.	यह दिलचस्प नहीं है।
-That's not interesting.	Das ist nicht interessant.	यह दिलचस्प नहीं है।
-That's not quite right.	Das ist nicht ganz richtig.	यह पूरी तरह से सही नहीं है।
-That's not quite right.	Das stimmt nicht ganz.	यह पूरी तरह से सही नहीं है।
-That's not the problem.	Das ist nicht das Problem.	यह कोई समस्या नहीं है।
-That's not their fault.	Das ist nicht ihre Schuld.	यह आपकी गलती नहीं है।
-That's not true at all.	Das ist ganz und gar nicht wahr.	यह बिल्कुल सच नहीं है।
-That's not true either.	Das ist auch nicht wahr.	यह सच भी नहीं है।
-That's not very polite.	Das ist nicht besonders höflich.	यह विशेष रूप से विनम्र नहीं है।
 That's not what I mean.	Das meine ich nicht.	मुझे लगता है कि इसका मतलब यह नहीं है।
 That's not what I said.	Das ist nicht, was ich sagte.	यह नहीं है कि मैंने क्या कहा।
 That's not what I want.	Das ist nicht das, was ich will.	यह वह नहीं है जिसकी मुझे चाहत है।
