@@ -35995,3 +35995,13 @@ You've put on weight.	Du hast zugelegt.	तुमने मोटापा ब�
 Your answer is right.	Deine Antwort ist richtig.	तुम्हारा जवाब सही है।
 Your answer is wrong.	Deine Antwort ist falsch.	तुम्हारा जवाब गलत है।
 Your bag looks heavy.	Deine Tasche sieht schwer aus.	तुम्हारा बैग भारी लग रहा है।
+Your dog bit my hand.	Dein Hund hat mich gebissen.	तुम्हारा कुत्ता मेरा हाथ काट लिया।
+Your dog bit my hand. (different meaning)	Dein Hund hat in meine Hand gebissen.	तुम्हारा कुत्ता मेरे हाथ में काटा।
+Your dog is very big.	Dein Hund ist sehr groß.	तुम्हारा कुत्ता बहुत बड़ा है।
+Your dog is very fat.	Dein Hund ist sehr fett.	तुम्हारा कुत्ता बहुत मोटा है।
+Your dog is very fat. (different meaning)	Dein Hund ist sehr rundlich.	तुम्हारा कुत्ता बहुत मोटा है।
+Your door's unlocked.	Deine Tür ist unverschlossen.	तुम्हारे दरवाजे का ताला नहीं है।
+Your friend is tired.	Dein Freund ist müde.	तुम्हारा दोस्त थक गया है।
+Your mother loves me.	Deine Mutter liebt mich.	तुम्हारी माँ मुझसे प्यार करती है।
+Your nose is running.	Deine Nase läuft.	तुम्हारी नाक बह रही है।
+Your pants are dirty.	Deine Hose ist schmutzig.	तुम्हारी पतलून गंदी है।

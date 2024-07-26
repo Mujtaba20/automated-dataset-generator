@@ -1,15 +1,4 @@
 
-Your dog bit my hand.	Dein Hund biss mich in die Hand.	आपका कुत्ता मुझे थोड़ा सा।
-Your dog bit my hand.	Dein Hund hat mich in die Hand gebissen.	आपके कुत्ते ने मुझे हाथ में काट लिया।
-Your dog is very big.	Dein Hund ist sehr groß.	आपका कुत्ता बहुत बड़ा है।
-Your dog is very fat.	Dein Hund ist sehr groß.	आपका कुत्ता बहुत बड़ा है।
-Your dog is very fat.	Dein Hund ist sehr fett.	आपका कुत्ता बहुत मोटा है।
-Your door's unlocked.	Deine Tür ist unverschlossen.	आपका दरवाजा अनलॉक हो गया है।
-Your friend is tired.	Dein Freund ist müde.	आपका दोस्त थक गया है।
-Your mother loves me.	Deine Mutter liebt mich.	तुम्हारी माँ मुझे प्यार करती है।
-Your nose is running.	Deine Nase läuft.	आपकी नाक चल रही है।
-Your pants are dirty.	Deine Hose ist dreckig.	आपकी पैंट गंदे हैं।
-Your pants are dirty.	Deine Hose ist schmutzig.	आपकी पैंट गंदे हैं।
 Your phone's ringing.	Dein Telefon klingelt.	आपका फ़ोन बजता है।
 Your plan won't work.	Dein Plan wird nicht aufgehen.	आपकी योजना काम नहीं करेगी।
 Your pulse is normal.	Dein Puls ist normal.	आपकी नाड़ी सामान्य है।
