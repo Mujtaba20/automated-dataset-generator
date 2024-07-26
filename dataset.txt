@@ -1,14 +1,4 @@
 
-I'll wait for a week.	Ich werde eine Woche lang warten.	मैं एक सप्ताह इंतजार करूँगा।
-I'll wait in the gym.	Ich werde in der Turnhalle warten.	मैं जिम में इंतजार करूंगा।
-I'll wait in the gym.	Ich werde im Fitnessstudio warten.	मैं जिम में इंतजार करूंगा।
-I'll wash the dishes.	Ich werde den Abwasch machen.	मैं इसे धोता हूँ।
-I'm Mary's boyfriend.	Ich bin Marias Freund.	मैं मेरी हूं।
-I'm Tom's girlfriend.	Ich bin Toms Freundin.	मैं टॉम की प्रेमिका हूं।
-I'm Tom's stepfather.	Ich bin Toms Stiefvater.	मैं टॉम का सौतेला पिता हूं।
-I'm a French teacher.	Ich bin Französischlehrer.	मैं एक फ्रांसीसी शिक्षक हूं।
-I'm a French teacher.	Ich bin Französischlehrerin.	मैं एक फ्रांसीसी शिक्षक हूं।
-I'm a cancer patient.	Ich bin Krebspatient.	मैं कैंसर रोगी हूं।
 I'm a little curious.	Ich bin ein bisschen neugierig.	मैं थोड़ा उत्सुक हूं।
 I'm a little nervous.	Ich bin ein bisschen nervös.	मैं थोड़ा नर्वस हूं।
 I'm a natural blonde.	Ich bin natürlich blond.	मैं निश्चित रूप से गोरा हूँ।

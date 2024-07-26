@@ -32415,3 +32415,11 @@ I'll take the chance.	Ich werde die Gelegenheit nutzen.	मैं मौका �
 I'll take the stairs.	Ich werde die Treppen nehmen.	मैं सीढ़ियों को उठूंगा।
 I'll tell the others.	Ich werde es den anderen sagen.	मैं दूसरों को बताऊंगा।
 I'll try to be early.	Ich werde versuchen, früh da zu sein.	मैं जल्दी आने की कोशिश करूंगा।
+I'll wait for a week.	Ich werde eine Woche warten.	मैं एक हफ्ते तक रुकूंगा।
+I'll wait in the gym.	Ich werde im Fitnessstudio warten.	मैं जिम में प्रतीक्षा करूंगा।
+I'll wash the dishes.	Ich werde das Geschirr waschen.	मैं बर्तन धोऊंगा।
+I'm Mary's boyfriend.	Ich bin Marys Freund.	मैं मेरी का साथी हूँ।
+I'm Tom's girlfriend.	Ich bin Toms Freundin.	मैं टॉम की गर्लफ्रेंड हूँ।
+I'm Tom's stepfather.	Ich bin Toms Stiefvater.	मैं टॉम के ससुर हूँ।
+I'm a French teacher.	Ich bin Französischlehrer.	मैं फ्रेंच शिक्षक हूँ।
+I'm a cancer patient.	Ich bin Krebspatient.	मैं कैंसर का रोगी हूँ।
