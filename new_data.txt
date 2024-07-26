@@ -21975,3 +21975,13 @@ I'm in the bathtub.	Ich sitze in der Badewanne.	मैं नहाने की
 I'm in trouble now.	Jetzt habe ich Ärger.	मुझे अब समस्या हो गई है।
 I'm just a teacher.	Ich bin nur ein Lehrer.	मैं सिर्फ एक शिक्षक हूँ।
 I'm just a tourist.	Ich bin nur ein Tourist.	मैं सिर्फ एक पर्यटक हूँ।
+I'm just beginning.	Ich fange gerade an.	मैं बस शुरुआत कर रहा हूँ।
+I'm late for lunch.	Ich bin zu spät zum Mittagessen.	मैं लंच के लिए देर से हूँ।
+I'm late, aren't I?	Ich bin zu spät, oder?	मैं देर से हूँ, ना?
+I'm late, aren't I? 2	Ich komme zu spät, oder?	मैं देर से हूँ, ना?
+I'm leaving Boston.	Ich verlasse Boston.	मैं बोस्टन छोड़ रहा हूँ।
+I'm making a movie.	Ich drehe einen Film.	मैं एक फिल्म बना रहा हूँ।
+I'm making popcorn.	Ich mache Popcorn.	मैं पॉपकॉर्न बना रहा हूँ।
+I'm married to Tom.	Ich bin mit Tom verheiratet.	मैं टॉम से शादीशुदा हूँ।
+I'm missing a sock.	Mir fehlt eine Socke.	मुझे एक जूता खो गया है।
+I'm not a Canadian.	Ich bin kein Kanadier.	मैं कनाडियन नहीं हूँ।

@@ -1,14 +1,4 @@
 
-I'm just beginning.	Ich fange gerade erst an.	मैं अभी शुरू कर रहा हूं।
-I'm late for lunch.	Ich komme zum Mittagessen zu spät.	मुझे दोपहर के भोजन के लिए बहुत देर हो चुकी है।
-I'm late, aren't I?	Ich bin zu spät, oder?	मुझे बहुत देर हो चुकी है, है ना?
-I'm late, aren't I?	Ich bin spät dran, nicht wahr?	मुझे देर हो चुकी है, है ना?
-I'm leaving Boston.	Ich ziehe aus Boston fort.	मैं बोस्टन से दूर चला गया।
-I'm making a movie.	Ich drehe einen Film.	मैं एक फिल्म बनाता हूं।
-I'm making popcorn.	Ich mache Puffmais.	मैं पफमा करता हूं।
-I'm married to Tom.	Ich bin mit Tom verheiratet.	मैं टॉम से शादी कर रहा हूं।
-I'm missing a sock.	Mir fehlt eine Socke.	मुझे एक जुर्राब याद है।
-I'm not a Canadian.	Ich bin kein Kanadier.	मैं कनाडाई नहीं हूं।
 I'm not a criminal.	Ich bin kein Krimineller.	मैं अपराधी नहीं हूं।
 I'm not a criminal.	Ich bin keine Kriminelle.	मैं अपराधी नहीं हूं।
 I'm not a magician.	Ich bin kein Zauberer.	मैं जादूगर नहीं हूं।
