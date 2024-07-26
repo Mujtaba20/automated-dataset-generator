@@ -31314,3 +31314,12 @@ How do you stop this?	Wie hören Sie das?	तुम ये कैसे रो�
 How does Tom do that?	Wie tut Tom das?	टॉम ये कैसे करता है?
 How does Tom do this?	Wie macht Tom das?	टॉम ये कैसे करता है?
 How does the song go?	Wie geht das Lied?	गाना कैसे जाता है?
+How fast can you run?	Wie schnell kannst du rennen?	तुम कितनी तेजी से दौड़ सकते हो?
+How fast did Tom run?	Wie schnell ist Tom gerannt?	टॉम ने कितनी तेजी से दौड़ा?
+How fast is too fast?	Wie schnell ist zu schnell?	कितनी तेजी बहुत तेज है?
+How hard can this be?	Wie schwer kann das sein?	यह कितना कठिन हो सकता है?
+How high is Mt. Fuji?	Wie hoch ist der Mt. Fuji?	माउंट फुजी कितनी ऊंची है?
+How is Tom doing now?	Wie geht es Tom jetzt?	अभी टॉम कैसे हैं?
+How is that possible?	Wie ist das möglich?	वह कैसे संभव है?
+How is this possible?	Wie ist das möglich?	यह कैसे संभव है?
+How long do you have?	Wie lange hast du?	तुम्हारे पास कितनी देर है?

@@ -1,14 +1,4 @@
 
-How fast can you run?	Wie schnell kannst du laufen?	आप कितनी जल्दी चल सकते हैं?
-How fast did Tom run?	Wie schnell rannte Tom?	कितनी जल्दी टॉम चला?
-How fast is too fast?	Wie schnell ist zu schnell?	कितनी तेजी से बहुत तेज है?
-How hard can this be?	Wie schwierig kann das schon sein?	कितना मुश्किल हो सकता है?
-How high is Mt. Fuji?	Wie hoch ist der Berg Fuji?	पहाड़ फूजी कितनी ऊँची है?
-How is Tom doing now?	Wie geht es Tom jetzt?	टॉम अब कैसे कर रहा है?
-How is that possible?	Wie ist das möglich?	वह कैसे संभव है?
-How is this possible?	Wie ist das möglich?	वह कैसे संभव है?
-How is this possible?	Wie kommt das?	वह कैसे आता है?
-How long do you have?	Wie viel Zeit hast du?	आपके पास कितना समय है?
 How long is too long?	Wie lange ist zu lang?	कब तक बहुत लंबा है?
 How many did you get?	Wie viele hast du bekommen?	आपको कितने मिले?
 How many do you need?	Wie viel brauchst du?	आपको कितना चाहिए?
