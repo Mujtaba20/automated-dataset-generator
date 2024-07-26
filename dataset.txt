@@ -1,14 +1,4 @@
 
-I know what it's for.	Ich weiß, wofür das ist.	मुझे पता है कि वह किस लिए है।
-I know what they are.	Ich weiß, was sie sind.	मुझे पता है वे क्या कर रहे हैं।
-I know what to study.	Ich weiß, was ich lernen soll.	मुझे पता है कि क्या सीखना है।
-I know what you mean.	Ich weiß, was ihr meint.	मुझे पता है कि आपका क्या आशय है।
-I know what you mean.	Ich weiß, was Sie meinen.	मुझे पता है कि आपका क्या आशय है।
-I know what you mean.	Ich weiß, worauf du hinauswillst.	मुझे पता है कि आप क्या करना चाहते हैं।
-I know what you need.	Ich weiß, was du brauchst.	मुझे पता है कि आपको क्या चाहिए।
-I know what you said.	Ich weiß, was du gesagt hast.	मुझे पता है कि आपने क्या कहा।
-I know what you want.	Ich weiß, was du willst.	मुझे मालुम है कि तुम क्या चाह्ते हो।
-I know where that is.	Ich weiß, wo das ist.	मुझे पता है कि वह कहाँ है।
 I know where to look.	Ich weiß, wo ich suchen muss.	मुझे पता है कि कहां खोज करनी है।
 I know where you are.	Ich weiß, wo du bist.	मुझे पता है तुम कहाँ हो।
 I know where you are.	Ich weiß, wo ihr seid.	मुझे पता है तुम कहाँ हो।

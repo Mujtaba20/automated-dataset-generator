@@ -31857,3 +31857,11 @@ I know the gentleman.	Ich kenne den Gentleman.	मैं उस सज्जन 
 I know what Tom said.	Ich weiß, was Tom gesagt hat.	मुझे पता है कि टॉमने क्या कहा।
 I know what happened.	Ich weiß, was passiert ist.	मुझे पता है कि क्या हुआ।
 I know what it takes.	Ich weiß, was nötig ist.	मुझे पता है कि क्या लगता है।
+I know what it's for.	Ich weiß, wofür es ist.	मुझे पता है कि यह किसके लिए है।
+I know what they are.	Ich weiß, was sie sind.	मुझे पता है कि वे क्या हैं।
+I know what to study.	Ich weiß, was ich studieren soll.	मुझे पता है कि क्या पढ़ाई करनी चाहिए।
+I know what you mean.	Ich verstehe, was du meinst.	मुझे पता है तुम क्या कहना चाहते हो।
+I know what you need.	Ich weiß, was du brauchst.	मुझे पता है तुम्हें क्या चाहिए।
+I know what you said.	Ich weiß, was du gesagt hast.	मुझे पता है तुमने क्या कहा।
+I know what you want.	Ich weiß, was du willst.	मुझे पता है तुम क्या चाहते हो।
+I know where that is.	Ich weiß, wo das ist.	मुझे पता है की वह कहाँ है।
