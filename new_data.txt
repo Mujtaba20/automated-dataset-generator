@@ -37883,3 +37883,11 @@ I think you know that.	Ich denke, du weißt das.	मुझे लगता ह�
 I think you look fine.	Ich denke, du siehst gut aus.	मुझे लगता है तुम अच्छे लगते हो।
 I think you'd like it.	Ich denke, es würde dir gefallen.	मुझे लगता है तुम्हें यह पसंद आएगा।
 I think you're a liar.	Ich denke, du bist ein Lügner.	मुझे लगता है तुम झूठे हो।
+I think you're boring.	Ich denke, du bist langweilig.	मुझे लगता है कि तुम उबाऊ हो।
+I think you're pretty.	Ich denke, du bist hübsch.	मुझे लगता है कि तुम सुंदर हो।
+I think you're stupid.	Ich denke, du bist dumm.	मुझे लगता है कि तुम मूर्ख हो।
+I thought I heard you.	Ich dachte, ich habe dich gehört.	मुझे लगा मैंने तुम्हें सुना।
+I thought I was alone.	Ich dachte, ich war allein.	मुझे लगा कि मैं अकेला था।
+I thought I was dying.	Ich dachte, ich sterbe.	मुझे लगा कि मैं मर रहा हूँ।
+I thought I'd be fine.	Ich dachte, es geht mir gut.	मुझे लगा कि सब ठीक होगा।
+I thought he had died.	Ich dachte, er sei gestorben.	मुझे लगा कि उसने मरने की कवायद की थी।

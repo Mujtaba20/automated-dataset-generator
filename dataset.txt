@@ -1,14 +1,4 @@
 
-I think you're boring.	Ich finde dich langweilig.	मैं तुम्हें उबाऊ लगता है।
-I think you're pretty.	Ich finde dich hübsch.	मुझे लगता है तुम सुंदर हो।
-I think you're stupid.	Ich denke, dass du dumm bist.	मुझे लगता है कि आप मूर्ख हैं।
-I thought I heard you.	Ich dachte, ich hätte dich gehört.	मुझे लगा कि मैंने आपको सुना है।
-I thought I heard you.	Ich dachte, ich hätte Sie gehört.	मुझे लगा कि मैंने उसे सुना है।
-I thought I heard you.	Ich dachte, ich hätte euch gehört.	मुझे लगा कि मैंने आपको सुना है।
-I thought I was alone.	Ich dachte, ich wär’ allein.	मुझे लगा कि मैं अकेला था।
-I thought I was dying.	Ich glaubte, ich müsste sterben.	मुझे लगा कि मुझे मरना है।
-I thought I'd be fine.	Ich dachte, ich würde okay sein.	मुझे लगा कि मैं ठीक हो जाऊंगा।
-I thought he had died.	Ich dachte, er wäre gestorben.	मुझे लगा कि वह मर गया है।
 I thought he was sick.	Ich dachte, er sei krank.	मुझे लगा कि वह बीमार है।
 I thought he was sick.	Ich dachte, er wäre krank.	मुझे लगा कि वह बीमार है।
 I thought it was true.	Ich dachte, es wäre wahr.	मुझे लगा कि यह सच है।
