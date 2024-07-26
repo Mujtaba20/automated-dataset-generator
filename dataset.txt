@@ -1,14 +1,4 @@
 
-It's not your fault.	Es ist nicht dein Fehler.	यह आपकी गलती नहीं है।
-It's not your style.	Es ist nicht dein Stil.	यह आपकी शैली नहीं है।
-It's not your style.	Das ist nicht dein Stil.	यह आपकी शैली नहीं है।
-It's only a placebo.	Das ist nur ein Placebo.	यह सिर्फ एक प्लेसबो है।
-It's only a scratch.	Das ist nur ein Kratzer.	यह सिर्फ एक खरोंच है।
-It's only temporary.	Das ist nur vorübergehend.	यह केवल अस्थायी है।
-It's part of my job.	Das ist Teil meiner Arbeit.	यह मेरे काम का हिस्सा है।
-It's pretty unusual.	Das ist recht ungewöhnlich.	यह काफी असामान्य है।
-It's really awesome.	Es ist wirklich wunderbar.	यह वास्तव में अद्भुत है।
-It's really serious.	Es ist wirklich ernst.	यह वास्तव में गंभीर है।
 It's slightly windy.	Es weht ein leichter Wind.	एक हल्की हवा चलती है।
 It's snowing harder.	Der Schneefall wird stärker.	बर्फबारी मजबूत हो जाती है।
 It's so complicated.	Es ist so kompliziert.	यह बहुत जटिल है।

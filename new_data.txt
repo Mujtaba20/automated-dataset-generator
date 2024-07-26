@@ -27448,3 +27448,12 @@ It's not negotiable.	Es ist nicht verhandelbar.	यह परराष्ट्�
 It's not real money.	Es ist kein echtes Geld.	यह असली पैसा नहीं है।
 It's not unheard of.	Es ist nicht unerhört.	यह सुनने के लायक नहीं है।
 It's not worth much.	Es ist nicht viel wert.	यह बहुत कुछ नहीं है।
+It's not your fault.	Es ist nicht deine Schuld.	यह तुम्हारी गलती नहीं है।
+It's not your style.	Das entspricht nicht deinem Stil.	यह तुम्हारे शैली का नहीं है।
+It's only a placebo.	Es ist nur ein Placebo.	यह केवल एक प्लेसबो है।
+It's only a scratch.	Es ist nur ein Kratzer.	यह केवल एक स्क्रैच है।
+It's only temporary.	Es ist nur vorübergehend.	यह केवल अस्थायी है।
+It's part of my job.	Es gehört zu meinem Job.	यह मेरे काम का हिस्सा है।
+It's pretty unusual.	Es ist ziemlich ungewöhnlich.	यह काफी असामान्य है।
+It's really awesome.	Es ist wirklich fantastisch.	यह सच में बेहतरीन है।
+It's really serious.	Es ist wirklich ernst.	यह सचमुच गंभीर है।
