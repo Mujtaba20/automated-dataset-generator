@@ -1,14 +1,4 @@
 
-Do you have nightmares?	Hast du Albträume?	क्या आपके पास बुरे सपने हैं?
-Do you have nightmares?	Haben Sie Albträume?	क्या आपके पास बुरे सपने हैं?
-Do you have nightmares?	Habt ihr Albträume?	क्या आपके पास बुरे सपने हैं?
-Do you have some money?	Hast du nicht etwas Geld?	क्या आपके पास कोई पैसा नहीं है?
-Do you have the remote?	Hast du die Fernbedienung?	क्या आपके पास रिमोट कंट्रोल है?
-Do you have to do that?	Musst du das tun?	क्या आपको ऐसा करना है?
-Do you have to do that?	Müssen Sie das tun?	क्या आपको ऐसा करना है?
-Do you know Noah's ark?	Kennst du die Arche Noahs?	क्या आप नूह के सन्दूक को जानते हैं?
-Do you know about that?	Weißt du etwas darüber?	क्या आप इस बारे में कुछ भी जानते हैं?
-Do you know about this?	Weißt du etwas darüber?	क्या आप इस बारे में कुछ भी जानते हैं?
 Do you know each other?	Kennt ihr euch?	क्या आप एक दूसरे को जानते हैं?
 Do you know each other?	Kennen Sie sich?	क्या आप एक दूसरे को जानते हैं?
 Do you know each other?	Kennen Sie einander?	क्या आप एक दूसरे को जानते हैं?
