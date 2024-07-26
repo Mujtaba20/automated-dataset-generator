@@ -21483,3 +21483,11 @@ I love butterflies.	Ich liebe Schmetterlinge.	मुझे तितलियो
 I love coming here.	Ich liebe es, hierher zu kommen.	मुझे यहाँ आने का मन पसंद है।
 I love fairy tales.	Ich liebe Märchen.	मुझे परी कथाएं पसंद हैं।
 I love goat cheese.	Ich liebe Ziegenkäse.	मुझे बकरी का पनीर पसंद है।
+I love my brothers.	Ich liebe meine Brüder.	मुझे मेरे भाई अच्छे लगते हैं।
+I love my daughter.	Ich liebe meine Tochter.	मुझे मेरी बेटी अच्छी लगती है।
+I love summer rain.	Ich liebe Sommerregen.	मुझे गर्मी की बारिश पसंद है।
+I love this school.	Ich liebe diese Schule.	मुझे ये स्कूल पसंद है।
+I love translating.	Ich liebe es zu übersetzen.	मुझे अनुवाद करना पसंद है।
+I love video games.	Ich liebe Videospiele.	मुझे वीडियो गेम्स पसंद हैं।
+I love your accent.	Ich liebe deinen Akzent.	मुझे तुम्हारी भाषा पसंद है।
+I love your garden.	Ich liebe deinen Garten.	मुझे तुम्हारा बगीचा अच्छा लगता है।
