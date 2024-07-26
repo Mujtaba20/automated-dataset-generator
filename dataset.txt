@@ -1,14 +1,4 @@
 
-The dish smells good.	Das Gericht riecht gut.	पकवान अच्छी खुशबू आ रही है।
-The dog began to run.	Der Hund begann zu laufen.	कुत्ता दौड़ने लगा।
-The dog looks hungry.	Der Hund sieht hungrig aus.	कुत्ता भूखा दिखता है।
-The dog nipped at me.	Der Hund schnappte nach mir.	कुत्ते ने मुझे पकड़ लिया।
-The dog nipped at me.	Der Hund hat nach mir geschnappt.	कुत्ते ने मुझे पकड़ लिया।
-The door is now open.	Die Tür ist jetzt offen.	दरवाजा अब खुला है।
-The door is open now.	Die Tür ist jetzt offen.	दरवाजा अब खुला है।
-The door won't close.	Die Tür geht nicht zu.	दरवाजा बंद नहीं है।
-The door won't close.	Die Tür lässt sich nicht schließen.	दरवाजा बंद नहीं किया जा सकता है।
-The door won't close.	Die Tür will nicht zugehen.	दरवाजा नहीं जाना चाहता।
 The doors are closed.	Die Türen sind geschlossen.	दरवाजे बंद हैं।
 The doors are closed.	Die Türen sind zu.	दरवाजे बंद हैं।
 The doors are locked.	Die Türen sind verschlossen.	दरवाजे बंद हैं।

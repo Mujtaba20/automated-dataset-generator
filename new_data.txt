@@ -33634,3 +33634,10 @@ The clock is ticking.	Die Uhr tickt.	घड़ी टिक रही है।
 The clock struck ten.	Die Uhr schlug zehn.	घड़ी दस बजी।
 The coffee's run out.	Der Kaffee ist alle.	कॉफ़ी समाप्त हो गई है।
 The convention voted.	Die Tagung hat abgestimmt.	सम्मेलन ने वोट दिया।
+The dish smells good.	Das Gericht riecht gut.	डिश अच्छा खुशबू देती है।
+The dog began to run.	Der Hund begann zu rennen.	कुत्ता भागने लगा।
+The dog looks hungry.	Der Hund sieht hungrig aus.	कुत्ता भूखा लग रहा है।
+The dog nipped at me.	Der Hund hat mich geknipst.	कुत्ता मुझे चबा लिया।
+The door is now open.	Die Tür ist jetzt geöffnet.	दरवाजा अब खोला हुआ है।
+The door is open now.	Die Tür ist offen jetzt.	दरवाजा अब खुला है।
+The door won't close.	Die Tür wird sich nicht schließen.	दरवाजा बंद नहीं होगा।
