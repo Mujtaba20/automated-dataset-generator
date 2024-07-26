@@ -1,15 +1,4 @@
 
-Tom led by example.	Tom ging mit gutem Beispiel voran.	टॉम एक अच्छे उदाहरण के साथ चला गया।
-Tom led the attack.	Tom führte den Angriff an.	टॉम ने हमले का नेतृत्व किया।
-Tom left Australia.	Tom hat Australien verlassen.	टॉम ने ऑस्ट्रेलिया छोड़ दिया।
-Tom left a message.	Tom hat eine Nachricht hinterlassen.	टॉम ने एक संदेश छोड़ा।
-Tom left the house.	Tom hat das Haus verlassen.	टॉम ने घर छोड़ दिया।
-Tom left the house.	Tom ging aus dem Haus.	टॉम घर से बाहर चला गया।
-Tom let the cat in.	Tom ließ die Katze herein.	टॉम ने बिल्ली को अंदर जाने दिया।
-Tom liked the idea.	Die Idee gefiel Tom.	टॉम को यह विचार पसंद आया।
-Tom likes everyone.	Tom mag alle.	टॉम सभी को पसंद करता है।
-Tom likes it there.	Tom mag es dort.	टॉम इसे वहां पसंद करता है।
-Tom likes it there.	Tom gefällt es dort.	टॉम इसे वहां पसंद करता है।
 Tom likes lacrosse.	Tom mag Lacrosse.	टॉम को लैक्रोस पसंद है।
 Tom likes macaroni.	Tom mag Makkaroni.	टॉम मागरोनी।
 Tom likes my jokes.	Tom mag meine Witze.	टॉम को मेरे चुटकुले पसंद हैं।

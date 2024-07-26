@@ -23814,3 +23814,12 @@ Tom knows too much.	Tom weiß zu viel.	टॉम बहुत कुछ जा�
 Tom knows who died.	Tom weiß, wer gestorben ist.	टॉम को पता है कि कौन मर गया है।
 Tom leaned forward.	Tom lehnte sich vor.	टॉम आगे की ओर झूका।
 Tom learned French.	Tom lernte Französisch.	टॉम ने फ्रेंच सीखी।
+Tom led by example.	Tom führte mit gutem Beispiel vor.	टॉम उदाहरण के रूप में अगुआ दिया।
+Tom led the attack.	Tom leitete den Angriff.	टॉम ने हमला किया।
+Tom left Australia.	Tom verließ Australien.	टॉम ने ऑस्ट्रेलिया छोड़ दिया।
+Tom left a message.	Tom hinterließ eine Nachricht.	टॉम ने एक संदेश छोड़ा।
+Tom left the house.	Tom verließ das Haus.	टॉम ने घर छोड़ दिया।
+Tom let the cat in.	Tom ließ die Katze herein.	टॉम ने बिल्ली को अंदर आने दिया।
+Tom liked the idea.	Tom mochte die Idee.	टॉम को विचार अच्छा लगा।
+Tom likes everyone.	Tom mag alle.	टॉम सभी को पसंद करता है।
+Tom likes it there.	Tom mag es dort.	टॉम को वहाँ पसंद है।
