@@ -25018,3 +25018,12 @@ You're very humble.	Du bist sehr bescheiden.	तुम बहुत विनम
 You're very lonely.	Du bist sehr einsam.	तुम बहुत अकेले हो।
 You're very modest.	Du bist sehr bescheiden.	तुम बहुत विनम्र हो।
 You're very pretty.	Du bist sehr hübsch.	तुम बहुत सुंदर हो।
+You're with me, OK?	Du bist bei mir, OK?	तुम मेरे साथ हो, ठीक है?
+You've already won.	Du hast schon gewonnen.	तुमने पहले ही जीत ली है।
+You've been warned.	Du wurdest gewarnt.	तुम्हें चेतावनी दी गई है।
+You've been warned. (Different Meaning)	Du bist gewarnt worden.	तुम्हें ध्यान दिया गया है।
+You've been warned. (Different Meaning 2)	Dir wurde gewarnt.	तुम्हें चेताया गया है।
+You've been warned. (Different Meaning 3)	Du hast eine Warnung erhalten.	तुम्हे चेतावनी दी गई है।
+You've been warned. (Different Meaning 4)	Ihr seid gewarnt worden.	तुम चेतावनी दी गई हो।
+You've betrayed me.	Du hast mich verraten.	तुमने मुझे धोखा दिया है।
+You've got a fever.	Du hast Fieber.	तुम्हें बुखार है।

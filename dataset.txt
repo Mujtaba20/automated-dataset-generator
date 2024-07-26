@@ -1,14 +1,4 @@
 
-You're with me, OK?	Du kommst mit mir. Einverstanden?	आप मेरे साथ आओ।मान गया?
-You've already won.	Du hast schon gewonnen.	आप पहले ही जीत चुके हैं।
-You've been warned.	Du bist gewarnt worden.	आपको चेतावनी दी गई है।
-You've been warned.	Sie sind gewarnt worden.	उन्हें चेतावनी दी गई है।
-You've been warned.	Ihr seid gewarnt worden.	आपको चेतावनी दी गई है।
-You've been warned.	Man hat Euch gewarnt.	आपको चेतावनी दी गई थी।
-You've been warned.	Man hat Sie gewarnt.	उन्होंने उन्हें चेतावनी दी।
-You've been warned.	Man hat dich gewarnt.	आपको चेतावनी दी गई थी।
-You've betrayed me.	Du hast mich betrogen.	तुमने मुझे धोखा दिया।
-You've got a fever.	Du hast Fieber.	तुम्हें बुखार है।
 You've got my keys.	Du hast meine Schlüssel.	आपके पास मेरी चाबी है।
 You've got my keys.	Sie haben meine Schlüssel.	आपके पास मेरी चाबी है।
 You've got my vote.	Meine Stimme hast du.	आपके पास मेरी आवाज है।
