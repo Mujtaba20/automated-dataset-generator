@@ -37776,3 +37776,10 @@ I rarely catch a cold.	Ich bekomme selten eine Erkältung.	मुझे शा�
 I rarely get visitors.	Ich bekomme selten Besuch.	मेरे पास अत्यधिक आगंतुक नहीं होते।
 I rarely walk to work.	Ich gehe selten zu Fuß zur Arbeit.	मैं अक्सर काम पर चलकर नहीं जाता।
 I read a lot of books.	Ich lese viele Bücher.	मैंने कई किताबें पढ़ी हैं।
+I really am very busy.	Ich bin wirklich sehr beschäftigt.	मैं सचमुच बहुत व्यस्त हूं।
+I really do want that.	Das will ich wirklich.	मैं वास्तव में उसे चाहता हूँ।
+I really enjoyed that.	Das habe ich wirklich genossen.	मैंने वास्तव में उसे आनंद लिया।
+I really feel for you.	Ich fühle wirklich mit dir.	मैं वास्तव में तुम्हारे लिए महसूस करता हूँ।
+I really like it, too.	Ich mag es auch wirklich.	मुझे यह भी वास्तव में पसंद है।
+I really like puppies.	Ich mag Welpen wirklich.	मुझे पिल्लें वास्तव में पसंद हैं।
+I really like seafood.	Ich mag Meeresfrüchte wirklich.	मुझे सीफूड वास्तव में पसंद है।
