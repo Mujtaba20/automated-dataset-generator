@@ -30977,3 +30977,9 @@ He denied everything.	Er leugnete alles.	उसने सब कुछ इनक
 He devoured his meal.	Er aß gierig sein Essen auf.	उसने अपनी भोजन की भूख मिटाई।
 He did as I told him.	Er folgte meinen Anweisungen.	उसने मेरी बात मान ली।
 He did it right away.	Er tat es sofort.	उसने तुरंत कर दिया।
+He did nothing wrong.	Er hat nichts falsch gemacht.	उसने कुछ गलत नहीं किया।
+He did nothing wrong.[different meaning]	Er hat nichts Schlechtes getan.	उसने कुछ बुरा नहीं किया।
+He didn't fear death.	Er fürchtete den Tod nicht.	उसे मौत से डर नहीं था।
+He didn't get caught.	Er wurde nicht erwischt.	उसे पकड़ा नहीं गया।
+He didn't say a word.	Er sagte kein Wort.	उसने एक शब्द नहीं कहा।
+He didn't say a word.[different meaning]	Er schwieg.	उसने एक शब्द नहीं कहा।

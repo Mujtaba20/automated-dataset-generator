@@ -1,15 +1,4 @@
 
-He did nothing wrong.	Er hat nichts Böses getan.	उसने कुछ भी बुरा नहीं किया।
-He did nothing wrong.	Er hat nichts falsch gemacht.	उसने कुछ भी गलत नहीं किया।
-He did nothing wrong.	Er hat keinen Fehler gemacht.	उसने कोई गलती नहीं की।
-He did nothing wrong.	Er hat nichts verkehrt gemacht.	उसने कुछ भी गलत नहीं किया।
-He didn't fear death.	Er fürchtete den Tod nicht.	उसे मौत का डर नहीं था।
-He didn't get caught.	Er ist nicht erwischt worden.	वह पकड़ा नहीं गया था।
-He didn't say a word.	Er hat kein Wort gesagt.	उसने एक शब्द नहीं कहा।
-He didn't say a word.	Er sagte gar nichts.	उसने कुछ नहीं कहा।
-He didn't say a word.	Er sagte kein Wort.	उसने एक शब्द नहीं कहा।
-He didn't say a word.	Er brachte kein einziges Wort heraus.	वह एक भी शब्द नहीं लाया।
-He didn't say a word.	Er sprach kein einziges Wort.	वह एक शब्द भी नहीं बोलता था।
 He died one year ago.	Er starb vor einem Jahr.	एक साल पहले उनकी मृत्यु हो गई।
 He died one year ago.	Er ist vor einem Jahr gestorben.	एक साल पहले उनकी मृत्यु हो गई।
 He doesn't get jokes.	Er versteht keinen Spaß.	वह मज़े नहीं समझता।
