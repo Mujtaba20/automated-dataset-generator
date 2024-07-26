@@ -36918,3 +36918,13 @@ He was snoring loudly.	Er schnarchte laut.	वह जोर जोर से ख
 He was staring at her.	Er starrte sie an.	उसने उसे घूरा।
 He was unable to move.	Er konnte sich nicht bewegen.	उसे हिलने में असमर्थता थी।
 He was very insistent.	Er war sehr beharrlich.	वह बहुत ज़ोर देता था।
+He went back to Japan.	Er kehrte nach Japan zurück.	उसने जापान वापस चला गया।
+He went down the hill.	Er ist den Hügel hinuntergegangen.	उसने पहाड़ के नीचे जाना।
+He went into the bank.	Er ging in die Bank.	उसने बैंक में जाना।
+He will be here today.	Er wird heute hier sein.	वह आज यहाँ होगा।
+He will come tomorrow.	Er wird morgen kommen.	वह कल आएगा।
+He will get back soon.	Er wird bald zurückkommen.	वह जल्दी ही वापस आएगा।
+He will get well soon.	Er wird bald gesund werden.	वह जल्द ही ठीक हो जाएगा।
+He will never make it.	Er wird es niemals schaffen.	वह कभी नहीं कर पाएगा।
+He won a bronze medal.	Er gewann eine Bronzemedaille.	उसने एक कांस्य पदक जीता।
+He won a silver medal.	Er gewann eine Silbermedaille.	उसने एक चांदी का पदक जीता।
