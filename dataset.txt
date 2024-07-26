@@ -1,16 +1,4 @@
 
-Where's your grandson?	Wo ist dein Enkelsohn?	आपका पोता कहाँ है?
-Where's your notebook?	Wo ist dein Notizbuch?	आपकी नोटबुक कहाँ है?
-Where's your suitcase?	Wo ist dein Koffer?	आपका सूटकेस कहाँ है?
-Which is your luggage?	Welcher ist Ihr Koffer?	आपका सूटकेस कौन सा है?
-Which jacket is Tom's?	Welche Jacke gehört Tom?	कौन सी जैकेट टॉम का है?
-Which side are you on?	Auf wessen Seite stehst du?	आप किसकी तरफ खड़े हैं?
-Which theater is that?	Welches Theater ist das?	कौन सा थिएटर है?
-Who am I talking with?	Mit wem spreche ich?	मैं किससे बात करूं?
-Who are you afraid of?	Vor wem haben Sie Angst?	आप किससे डरते हैं?
-Who are you afraid of?	Vor wem fürchtest du dich?	आप किससे डरते हैं?
-Who are you afraid of?	Vor wem fürchtet ihr euch?	आप किससे डरते हैं?
-Who are you afraid of?	Vor wem fürchten Sie sich?	वे किससे डरते हैं?
 Who asked Tom to come?	Wer hat Tom gesagt, dass er kommen soll?	किसने कहा कि टॉम उसे आना चाहिए?
 Who asked you to help?	Wer hat dich um Hilfe gebeten?	किसने आपसे मदद मांगी?
 Who asked you to help?	Wer hat euch um Hilfe gebeten?	किसने आपसे मदद मांगी?

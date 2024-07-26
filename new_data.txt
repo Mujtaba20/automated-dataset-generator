@@ -41434,3 +41434,12 @@ Where's the president?	Wo ist der Präsident?	राष्ट्रपति क
 Where's your car, Tom?	Wo ist dein Auto, Tom?	तोम, तुम्हारी कार कहाँ है?
 Where's your computer?	Wo ist dein Computer?	तुम्हारा कंप्यूटर कहाँ है?
 Where's your daughter?	Wo ist deine Tochter?	तुम्हारी बेटी कहाँ है?
+Where's your grandson?	Wo ist dein Enkel?	तुम्हारे पोते कहाँ हैं?
+Where's your notebook?	Wo ist dein Notizbuch?	तुम्हारी किताब कहाँ है?
+Where's your suitcase?	Wo ist dein Koffer?	तुम्हारी सूटकेस कहाँ है?
+Which is your luggage?	Welches ist dein Gepäck?	तुम्हारा सामान कौन सा है?
+Which jacket is Tom's?	Welche Jacke gehört Tom?	टॉम की जैकेट कौनसी है?
+Which side are you on?	Auf welcher Seite stehst du?	तुम किस तरफ हो?
+Which theater is that?	Welches Theater ist das?	वह कौनसा थिएटर है?
+Who am I talking with?	Mit wem spreche ich?	मैं किससे बात कर रहा हूँ?
+Who are you afraid of?	Vor wem hast du Angst?	तुम किससे डरते हो?
