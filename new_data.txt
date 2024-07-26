@@ -32879,3 +32879,10 @@ It's good to do that.	Es ist gut, das zu tun.	उसे करना अच्�
 It's good to see you.	Es ist schön, dich zu sehen.	आपको देख कर अच्छा लगता है।
 It's happened before.	Es ist schon einmal passiert.	यह पहले भी हुआ है।
 It's hard to believe.	Es ist schwer zu glauben.	यह मानना मुश्किल है।
+It's hard to explain.	Es ist schwer zu erklären.	इसे समझाना मुश्किल है।
+It's hard to imagine.	Es ist schwer vorstellbar.	सोचना मुश्किल है।
+It's hardly a secret.	Es ist kaum ein Geheimnis.	यह बिल्कुल एक राज नहीं है।
+It's harsh, but fair.	Es ist hart, aber fair.	यह कठोर है, लेकिन न्यायमय है।
+It's in the basement.	Es ist unten im Keller.	यह basement में है।
+It's just not enough.	Es ist einfach nicht genug.	इसे बस इतना ही कहेंगे।
+It's just over there.	Es ist genau dort drüben.	वह बस वहीं है।

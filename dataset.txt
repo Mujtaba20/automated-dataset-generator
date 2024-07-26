@@ -1,15 +1,4 @@
 
-It's hard to explain.	Das ist schwer zu erklären.	यह समझाना मुश्किल है।
-It's hard to imagine.	Das ist schwer vorstellbar.	यह कल्पना करना मुश्किल है।
-It's hardly a secret.	Das ist kaum ein Geheimnis.	यह शायद ही कोई रहस्य है।
-It's harsh, but fair.	Es ist hart, aber gerecht.	यह कठिन है लेकिन निष्पक्ष है।
-It's in the basement.	Es ist im Keller.	यह तहखाने में है।
-It's in the basement.	Er ist im Keller.	वह तहखाने में है।
-It's in the basement.	Sie ist im Keller.	वह तहखाने में है।
-It's just not enough.	Das ist einfach nicht genug.	यह सिर्फ पर्याप्त नहीं है।
-It's just over there.	Es ist da drüben.	यह वहाँ पर है।
-It's just over there.	Er ist da drüben.	वह वहाँ पर है।
-It's just over there.	Sie ist da drüben.	यह वहाँ पर है।
 It's made of leather.	Das ist aus Leder.	यह चमड़े से बना है।
 It's much better now.	Es ist jetzt viel besser.	यह अब बहुत बेहतर है।
 It's my CD, isn't it?	Das ist meine CD, nicht wahr?	यह मेरी सीडी है, है ना?
