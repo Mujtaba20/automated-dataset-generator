@@ -1,14 +1,4 @@
 
-I want some fresh eggs.	Ich möchte ein paar frische Eier.	मुझे कुछ ताजा अंडे चाहिए।
-I want something sweet.	Ich will etwas Süßes.	मुझे कुछ मीठा चाहिए।
-I want something sweet.	Ich möchte etwas Süßes.	मुझे कुछ मीठा चाहिए।
-I want to be a surgeon.	Ich will Chirurg werden.	मैं एक सर्जन बनना चाहता हूं।
-I want to be a surgeon.	Ich will Chirurgin werden.	मैं एक सर्जन बनना चाहता हूं।
-I want to be a teacher.	Ich will Lehrer werden.	मुझे एक टीचर बनना है।
-I want to be an artist.	Ich will Künstler werden.	मैं एक कलाकार बनना चाहता हूं।
-I want to be in Boston.	Ich möchte in Boston sein.	मैं बोस्टन में रहना चाहता हूं।
-I want to buy them all.	Ich will alle kaufen.	मैं सभी को खरीदना चाहता हूं।
-I want to cook for you.	Ich möchte für dich kochen.	मैं आपके लिए खाना बनाना चाहता हूं।
 I want to do it myself.	Ich will es selbst machen.	मैं इसे खुद करना चाहता हूं।
 I want to eat with Tom.	Ich möchte mit Tom essen.	मैं टॉम के साथ खाना चाहता हूं।
 I want to go to Boston.	Ich will nach Boston gehen.	मैं बोस्टन जाना चाहता हूं।
