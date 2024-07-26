@@ -33641,3 +33641,11 @@ The dog nipped at me.	Der Hund hat mich geknipst.	कुत्ता मुझ�
 The door is now open.	Die Tür ist jetzt geöffnet.	दरवाजा अब खोला हुआ है।
 The door is open now.	Die Tür ist offen jetzt.	दरवाजा अब खुला है।
 The door won't close.	Die Tür wird sich nicht schließen.	दरवाजा बंद नहीं होगा।
+The doors are closed.	Die Türen sind geschlossen.	दरवाजे बंद हैं।
+The doors are locked.	Die Türen sind verschlossen.	दरवाजे ताले से बंद हैं।
+The engine's flooded.	Der Motor ist überflutet.	इंजन भर gaya है।
+The fever has abated.	Das Fieber hat nachgelassen.	बुखार कम हो गया है।
+The floor feels cold.	Der Boden fühlt sich kalt an.	मनोहर में ठंडा महसूस होता है।
+The food has arrived.	Das Essen ist angekommen.	भोजन पहुंच गया है।
+The garage was empty.	Die Garage war leer.	गेराज खाली था।
+The gate is open now.	Das Tor ist jetzt offen.	द्वार अब खुला है।

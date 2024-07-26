@@ -1,14 +1,4 @@
 
-The doors are closed.	Die Türen sind geschlossen.	दरवाजे बंद हैं।
-The doors are closed.	Die Türen sind zu.	दरवाजे बंद हैं।
-The doors are locked.	Die Türen sind verschlossen.	दरवाजे बंद हैं।
-The engine's flooded.	Der Motor ist abgesoffen.	इंजन में बाढ़ आ गई है।
-The fever has abated.	Das Fieber hat nachgelassen.	बुखार कम हो गया है।
-The floor feels cold.	Der Fußboden fühlt sich kalt an.	फर्श ठंडा लगता है।
-The food has arrived.	Das Essen ist da.	भोजन है।
-The garage was empty.	Die Garage war leer.	गैरेज खाली था।
-The gate is open now.	Das Gate ist jetzt geöffnet.	गेट अब खुला है।
-The gate is open now.	Das Tor ist jetzt geöffnet.	गेट अब खुला है।
 The ground seems wet.	Der Boden scheint nass zu sein.	फर्श गीला लगता है।
 The gun isn't loaded.	Die Waffe ist nicht geladen.	हथियार लोड नहीं है।
 The horse is jumping.	Das Pferd springt.	घोड़ा कूदता है।
