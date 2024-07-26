@@ -1,14 +1,4 @@
 
-How well do you sing?	Wie gut kannst du singen?	आप कितनी अच्छी तरह गा सकते हैं?
-How well do you sing?	Wie gut könnt ihr singen?	आप कितनी अच्छी तरह गा सकते हैं?
-How well do you sing?	Wie gut können Sie singen?	आप कितनी अच्छी तरह गा सकते हैं?
-How will you stop me?	Wie willst du mich aufhalten?	आप मुझे कैसे रोकना चाहते हैं?
-How would you say it?	Wie würdest du das sagen?	आप ऐसा कैसे कहेंगे?
-How would you say it?	Wie würdet ihr das sagen?	आप ऐसा कैसे कहेंगे?
-How would you say it?	Wie würden Sie das sagen?	आप ऐसा कैसे कहेंगे?
-How's it coming, Tom?	Wie wird es, Tom?	यह कैसे होगा, टॉम?
-How's life in Boston?	Wie ist das Leben in Boston?	बोस्टन में जीवन कैसा है?
-How's your boy doing?	Wie geht es deinem Jungen?	आपका लड़का कैसे कर रहा है?
 How's your day going?	Wie läuft dein Tag?	आपका दिन कैसा है?
 How's your job going?	Was macht die Arbeit?	काम कैसे चल रहा है?
 How's your wife, Tom?	Wie geht es deiner Frau, Tom?	आपकी पत्नी, टॉम कैसी है?

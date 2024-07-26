@@ -31347,3 +31347,9 @@ How was school today?	Wie war die Schule heute?	आज स्कूल कैस
 How was today's game?	Wie war das Spiel heute?	आज का खेल कैसा था?
 How was today's test?	Wie war der Test heute?	आज का परीक्षण कैसा था?
 How was your weekend?	Wie war dein Wochenende?	आपकी वीकेंड कैसा रहा?
+How well do you sing?	Wie gut singst du?	तुम कितना अच्छा गाते हो?
+How will you stop me?	Wie wirst du mich aufhalten?	तुम मुझे कैसे रोकोगे?
+How would you say it?	Wie würden Sie es sagen?	तुम इसे कैसे कहोगे?
+How's it coming, Tom?	Wie läuft es, Tom?	तोम, कैसी चल रही है?
+How's life in Boston?	Wie ist das Leben in Boston?	बोस्टन में जीवन कैसा चल रहा है?
+How's your boy doing?	Wie geht es deinem Jungen?	तेरे लड़के कैसे हैं?
