@@ -30785,3 +30785,10 @@ Don't leave the room.	Verlass den Raum nicht.	कमरे को छोड़�
 Don't let Tom escape.	Lass Tom nicht entkommen.	टॉम को भागने मत दो।
 Don't let the dog in.	Lass den Hund nicht rein.	कुत्ता अंदर न आने दो।
 Don't lie. Be honest.	Lüge nicht. Sei ehrlich.	झूठ मत बोलो। ईमानदार रहो।
+Don't listen to them.	Hör nicht auf sie.	उन्हें सुनो मत।
+Don't make Tom leave.	Lass Tom nicht gehen.	तॉम को जाने मत दो।
+Don't make a mistake.	Mach keinen Fehler.	ग़लती मत करो।
+Don't make fun of me.	Mach dich nicht über mich lustig.	मेरे मजाक मत उड़ाओ।
+Don't make me say it.	Zwing mich nicht dazu, es zu sagen.	मुझे यह कहने के लिए मजबूर मत करो।
+Don't move from here.	Beweg dich nicht von hier weg.	यहाँ से मत हिलिए।
+Don't open this door.	Öffne diese Tür nicht.	इस दरवाजे को मत खोलो।
