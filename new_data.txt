@@ -21115,3 +21115,12 @@ I can't just leave.	Ich kann nicht einfach gehen.	मैं सिर्फ छ�
 I can't let you in.	Ich kann dich nicht reinlassen.	मैं तुम्हें अंदर नहीं आने देन सकता।
 I can't lie to you.	Ich kann dir nicht lügen.	मैं तुम्हें झूठ नहीं बोल सकता।
 I can't play chess.	Ich kann kein Schach spielen.	मैं शतरंज नहीं खेल सकता।
+I can't play piano.	Ich kann kein Klavier spielen.	मैं पियानो नहीं बजा सकता।
+I can't resign now.	Ich kann jetzt nicht zurücktreten.	अभी मैं अस्तीफा नहीं दे सकता।
+I can't resist her.	Ich kann ihr nicht widerstehen.	मैं उसका सामना नहीं कर सकता।
+I can't see anyone.	Ich kann niemanden sehen.	मैं किसी को नहीं देख सकता।
+I can't stand kids.	Ich kann Kinder nicht ausstehen.	मुझे बच्चे बिल्कुल भी पसंद नहीं हैं।
+I can't stand rats.	Ich kann keine Ratten ertragen.	मैं चूहों का सामना नहीं कर सकता।
+I can't stand that.	Ich kann das nicht ab!	मैं उसे सहन नहीं कर सकता।
+I changed my shirt.	Ich habe mein Hemd gewechselt.	मैंने अपनी कमीज़ बदल दी।
+I checked it twice.	Ich habe es zweimal überprüft.	मैंने इसे दो बार जांचा।
