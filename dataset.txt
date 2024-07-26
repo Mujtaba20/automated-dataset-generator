@@ -1,14 +1,4 @@
 
-Tom became curious.	Tom wurde neugierig.	टॉम उत्सुक हो गया।
-Tom became furious.	Tom wurde rasend.	टॉम उन्मादी हो गया।
-Tom became nervous.	Tom wurde nervös.	टॉम घबरा गया।
-Tom became popular.	Tom wurde beliebt.	टॉम लोकप्रिय था।
-Tom became serious.	Tom wurde ernst.	टॉम गंभीर हो गया।
-Tom became violent.	Tom wurde gewalttätig.	टॉम हिंसक हो गया।
-Tom became violent.	Tom ist gewalttätig geworden.	टॉम हिंसक हो गया है।
-Tom began coughing.	Tom begann zu husten.	टॉम ने खांसी शुरू कर दी।
-Tom began to blush.	Tom wurde ganz rot im Gesicht.	टॉम चेहरे पर लाल हो गया।
-Tom began to panic.	Tom geriet in Panik.	टॉम पैनिक।
 Tom began to shout.	Tom begann zu schreien.	टॉम चिल्लाने लगा।
 Tom began to snore.	Tom fing an zu schnarchen.	टॉम ने खर्राटे शुरू कर दिए।
 Tom began to sweat.	Tom fing an zu schwitzen.	टॉम पसीना शुरू कर दिया।

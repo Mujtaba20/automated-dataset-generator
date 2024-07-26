@@ -23313,3 +23313,12 @@ Tom ate his dinner.	Tom aß sein Abendessen.	टॉम ने अपनी र�
 Tom ate like a pig.	Tom aß wie ein Schwein.	टॉम सुअर की तरह खाता था।
 Tom ate my cookies.	Tom aß meine Kekse.	टॉम ने मेरे कुकीज खाए।
 Tom ate your candy.	Tom aß deine Bonbons.	टॉम ने तुम्हारे कैंडी खाई।
+Tom became curious.	Tom wurde neugierig.	टॉम को जिज्ञासु बना।
+Tom became furious.	Tom wurde wütend.	टॉम क्रोधित हो गया।
+Tom became nervous.	Tom wurde nervös.	टॉम घबराया।
+Tom became popular.	Tom wurde beliebt.	टॉम लोकप्रिय हो गया।
+Tom became serious.	Tom wurde ernst.	टॉम गंभीर हो गया।
+Tom became violent.	Tom wurde gewalttätig.	टॉम हिंसक हो गया।
+Tom began coughing.	Tom begann zu husten.	टॉम खासी करने लगा।
+Tom began to blush.	Tom fing an zu erröten.	टॉम शर्मिंदा होने लगा।
+Tom began to panic.	Tom begann in Panik zu geraten.	टॉम घबराने लगा।
