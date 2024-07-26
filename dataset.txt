@@ -1,14 +1,4 @@
 
-I've got a great idea.	Ich habe eine tolle Idee.	मेरे पास एक बहुत अच्छा विचार है।
-I've got a stiff neck.	Ich habe einen steifen Hals.	मेरे पास एक कठोर गर्दन है।
-I've got bills to pay.	Ich muss Rechnungen bezahlen.	मुझे बिलों का भुगतान करना है।
-I've got half an hour.	Ich habe eine halbe Stunde.	मेरे पास आधा घंटा है।
-I've got news for you.	Ich habe Neuigkeiten für dich.	मेरे पास आपके लिए खबर है।
-I've got news for you.	Ich habe Neuigkeiten für Sie.	मेरे पास आपके लिए खबर है।
-I've got nothing left.	Ich habe nichts mehr.	अब मेरे पास नहीं है।
-I've got the car keys.	Ich hab’ die Autoschlüssel.	मेरे पास कार की कुंजी है।
-I've had a good sleep.	Ich habe gut geschlafen.	मैं अच्छी तरह से सोया।
-I've heard everything.	Ich habe alles gehört.	मैंने सब कुछ सुना।
 I've just been mugged.	Ich wurde gerade überfallen.	मुझे बस हमला किया गया था।
 I've just been mugged.	Ich wurde gerade ausgeraubt.	मुझे बस लूट लिया गया था।
 I've just eaten lunch.	Ich habe gerade zu Mittag gegessen.	मैंने अभी दोपहर को खाया।

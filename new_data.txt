@@ -38354,3 +38354,12 @@ I've climbed Mt. Fuji.	Ich bin auf den Mount Fuji geklettert.	मैंने �
 I've come to save Tom.	Ich bin gekommen, um Tom zu retten.	मैं टॉम को बचाने आया हूँ।
 I've found the answer.	Ich habe die Antwort gefunden.	मैंने जवाब ढूंढ लिया है।
 I've given up smoking.	Ich habe das Rauchen aufgegeben.	मैंने धूम्रपान छोड़ दिया है।
+I've got a great idea.	Ich habe eine tolle Idee.	मेरे पास एक शानदार विचार है।
+I've got a stiff neck.	Ich habe einen steifen Hals.	मेरे गले में दर्द है।
+I've got bills to pay.	Ich habe Rechnungen zu zahlen.	मुझे भुगतान करने के लिए बिल्स हैं।
+I've got half an hour.	Ich habe eine halbe Stunde.	मेरे पास आधी घंटा है।
+I've got news for you.	Ich habe Neuigkeiten für dich.	मेरे पास तुम्हारे लिए समाचार है।
+I've got nothing left.	Ich habe nichts mehr übrig.	मेरे पास कुछ भी नहीं बचा है।
+I've got the car keys.	Ich habe die Autoschlüssel.	मेरे पास कार की कुंजियाँ हैं।
+I've had a good sleep.	Ich habe gut geschlafen.	मैंने अच्छी नींद की है।
+I've heard everything.	Ich habe alles gehört.	मैंने सब कुछ सुन लिया है।
