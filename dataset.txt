@@ -1,15 +1,4 @@
 
-You may go home now.	Du darfst jetzt nach Hause gehen.	अब आप घर जा सकते हैं।
-You may laugh at me.	Du kannst über mich lachen.	तुम मुझ पर हंस सकते हो।
-You may not come in.	Du darfst nicht reinkommen.	आप अंदर नहीं जा सकते।
-You may not like it.	Vielleicht magst du es nicht.	शायद आपको यह पसंद नहीं है।
-You must be careful.	Du musst vorsichtig sein.	आपको सावधान रहना होगा।
-You must be kidding!	Das ist doch wohl nicht dein Ernst!	यह शायद गंभीर नहीं है!
-You must be kidding!	Ihr macht wohl Scherze!	आप वास्तव में मजाक करेंगे!
-You must be kidding!	Sie machen wohl Scherze!	आप मजाक कर रहे हैं!
-You must believe me.	Du musst mir glauben.	आपको मुझ पर विश्वास करना होगा।
-You must believe me.	Ihr müsst mir glauben.	आपको मुझ पर विश्वास करना होगा।
-You must believe me.	Sie müssen mir glauben.	आपको मुझ पर विश्वास करना होगा।
 You must forgive me.	Ihr müsst mir verzeihen.	आपको मुझे माफ करना होगा।
 You must forgive me.	Du musst mir verzeihen.	आपको मुझे माफ करना होगा।
 You must go at once.	Du musst sofort los.	आपको तुरंत जाना होगा।

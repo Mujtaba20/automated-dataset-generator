@@ -30204,3 +30204,11 @@ You look very tired.	Du siehst sehr müde aus.	तुम बहुत थके 
 You lost an earring.	Du hast eine Ohrring verloren.	तुमने एक कान की बाली खो दी।
 You may come in now.	Du kannst jetzt reinkommen.	तुम अब अंदर आ सकते हो।
 You may go anywhere.	Du kannst überall hingehen.	तुम कहीं भी जा सकते हो।
+You may go home now.	Du kannst jetzt nach Hause gehen.	आप अब घर जा सकते हैं।
+You may laugh at me.	Du darfst über mich lachen.	तुम मुझपर हंस सकते हो।
+You may not come in.	Du darfst nicht hereinkommen.	तुम अंदर नहीं आ सकते।
+You may not like it.	Du wirst es vielleicht nicht mögen.	शायद आपको यह पसंद नहीं आए।
+You must be careful.	Du musst vorsichtig sein.	तुमें सावधान रहना चाहिए।
+You must be kidding!	Du musst Witze machen!	तुमे मजाक कर रहे हो!
+You must believe me.	Du musst mir glauben.	तुम्हें मुझपर विश्वास करना चाहिए।
+You must actually be kidding!	Du musst tatsächlich Witze machen!	तुमे वास्तव में मजाक करना चाहिए!
