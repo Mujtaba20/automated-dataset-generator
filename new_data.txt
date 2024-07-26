@@ -24429,3 +24429,12 @@ We're on your side. (Different meaning)	Wir sind für dich da.	हम आपक�
 We're out of candy.	Uns geht die Süßigkeit aus.	हमें कैंडी की कमी है।
 We're out of candy. (Different meaning)	Unsere Süßigkeit ist alle.	हमारे पास कैंडी नहीं है।
 We're out of money.	Uns geht das Geld aus.	हमारे पास पैसा नहीं है।
+We're out of sugar.	Wir haben keinen Zucker mehr.	हम चीनी से बाहर हैं।
+We're overreacting.	Wir reagieren über.	हम अधिक प्रतिक्रिया कर रहे हैं।
+We're partners now.	Wir sind jetzt Partner.	हम अब साथी हैं।
+We're pretty smart.	Wir sind ziemlich schlau.	हम काफी तेजस्वी हैं।
+We're really drunk.	Wir sind wirklich betrunken.	हम सचमुच नशे में हैं।
+We're safe for now.	Wir sind jetzt sicher.	हम अब सुरक्षित हैं।
+We're staying here.	Wir bleiben hier.	हम यहाँ ठहर रहे हैं।
+We're the Jacksons.	Wir sind die Jacksons.	हम जैक्सन्स हैं।
+We're the same age.	Wir sind im gleichen Alter.	हम वही उम्र के हैं।
