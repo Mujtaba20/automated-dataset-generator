@@ -26315,3 +26315,13 @@ I have another idea.	Ich habe eine andere Idee.	मेरे पास एक �
 I have appendicitis.	Ich habe eine Blinddarmentzündung.	मुझे प्राणांतर दर्द है।
 I have bad eyesight.	Ich habe schlechtes Sehvermögen.	मेरी आंखों की दृष्टि खराब है।
 I have been to Rome.	Ich war in Rom.	मैंने रोम घूमा है।
+I have but one wish.	Ich habe nur einen Wunsch.	मेरे पास बस एक इच्छा है।
+I have chapped lips.	Ich habe trockene Lippen.	मेरे होंठ फटे हुए हैं।
+I have enough money.	Ich habe genug Geld.	मेरे पास पर्याप्त धन है।
+I have faith in you.	Ich habe Vertrauen in dich.	मुझे तुम पर विश्वास है।
+I have hunger pangs.	Ich habe Hungergefühle.	मुझे भूख लगी है।
+I have lost the key.	Ich habe den Schlüssel verloren.	मैंने चाबी खो दी है।
+I have lots of time.	Ich habe viel Zeit.	मेरे पास बहुत समय है।
+I have many enemies.	Ich habe viele Feinde.	मेरे कई दुश्मन हैं।
+I have many friends.	Ich habe viele Freunde.	मेरे कई दोस्त हैं।
+I have no allergies.	Ich habe keine Allergien.	मेरे पास कोई एलर्जी नहीं है।
