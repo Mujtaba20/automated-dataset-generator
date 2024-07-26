@@ -33864,3 +33864,13 @@ They're best friends.	Sie sind beste Freunde.	वे सबसे अच्छ�
 They're closed today.	Sie sind heute geschlossen.	आज वे बंद हैं।
 They're coming again.	Sie kommen erneut.	वे फिर से आ रहे हैं।
 engSentence		
+They're on their way.	Sie sind auf dem Weg.	वे अपने रास्ते पर हैं।
+They're our brothers.	Sie sind unsere Brüder.	वे हमारे भाई हैं।
+They're tears of joy.	Sie sind Tränen der Freude.	ये खुशी की आंसू हैं।
+They're unbelievable.	Sie sind unglaublich.	वे अविश्वासनीय हैं।
+They're watching Tom.	Sie beobachten Tom.	वह टॉम को देख रहें हैं।
+They're watching you.	Sie beobachten dich.	वे तुम्हें देख रहे हैं।
+They've been damaged.	Sie wurden beschädigt.	उन्हें नुकसान पहुंचा है।
+They've lost so much.	Sie haben so viel verloren.	उन्होंने इतना खो दिया है।
+They've turned on us.	Sie haben sich gegen uns gewendet.	उन्होंने हमारे खिलाफ मोड़ लिया है।
+Think about tomorrow.	Denke an morgen.	कल के बारे में सोचो।
