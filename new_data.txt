@@ -22567,3 +22567,10 @@ No one believed us.	Niemand hat uns geglaubt.	कोई हमें नही�
 No one believes me.	Niemand glaubt mir.	कोई मुझपर विश्वास नहीं करता।
 No one can help us.	Niemand kann uns helfen.	कोई हमारी मदद नहीं कर सकता।
 No one can stop me.	Niemand kann mich aufhalten.	कोई मुझे रोक नहीं सकता।
+No one can stop us.	Niemand kann uns aufhalten.	कोई हमें बाधित नहीं कर सकता।
+No one looks happy.	Niemand sieht glücklich aus.	किसी को खुश नहीं दिखाई देता।
+No one noticed Tom.	Niemand hat Tom beachtet.	किसी ने टॉम का ध्यान नहीं रखा।
+No one saw a thing.	Niemand hat etwas gesehen.	कोई भी चीज नहीं देखी।
+No one thinks that.	Niemand denkt das.	कोई भी ऐसा नहीं सोचता।
+No one was at home.	Es war niemand zu Hause.	कोई उस वक्त घर पर नहीं था।
+No one was injured.	Niemand wurde verletzt.	किसी को चोट नहीं आई थी।
