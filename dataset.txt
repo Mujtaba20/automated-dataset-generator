@@ -1,16 +1,4 @@
 
-I do feel pretty good.	Es geht mir ziemlich gut.	मै काफी अच्छी हूँ।
-I do not care for him.	Ich mag ihn nicht.	मुझे वह पसंद नहीं है।
-I do not get up early.	Ich stehe nicht früh auf.	मैं जल्दी नहीं उठता।
-I do not like science.	Ich mag keine Wissenschaft.	मुझे विज्ञान पसंद नहीं है।
-I do not want to work.	Ich will nicht arbeiten.	ऐन काम नहीं करना चाहती।
-I don't approve of it.	Ich halte nichts davon.	मुझे लगता है कि इसमें से कुछ नहीं है।
-I don't care for beer.	Ich mache mir nichts aus Bier.	मैं बीयर से कुछ भी नहीं बनाता।
-I don't care for eggs.	Ich mag keine Eier.	मुझे अंडे पसंद नहीं हैं।
-I don't care for wine.	Ich mache mir nichts aus Wein.	मैं शराब से बाहर कुछ भी नहीं बनाता।
-I don't care who wins.	Es ist mir wurst, wer gewinnt.	यह मेरे लिए सॉसेज है जो जीतता है।
-I don't care who wins.	Es ist mir egal, wer gewinnt.	मुझे परवाह नहीं है कि कौन जीतता है।
-I don't care who wins.	Es ist mir schnuppe, wer gewinnt.	यह मुझे सूँघ रहा है जो जीतता है।
 I don't do it anymore.	Ich mache das nicht mehr.	मैं अब ऐसा नहीं करता।
 I don't drink alcohol.	Ich trinke keinen Alkohol.	मुझे शराब अच्छी नहीं लगती।
 I don't drive to work.	Ich fahre nicht zur Arbeit.	मैं काम पर नहीं जाता।

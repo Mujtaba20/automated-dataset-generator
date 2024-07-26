@@ -37250,3 +37250,13 @@ I didn't want to swim.	Ich wollte nicht schwimmen.	मैं तैरना न
 I didn't wash my hair.	Ich habe mir nicht die Haare gewaschen.	मैंने अपने बाल नहीं धोए।
 I didn't wash my hair. (Different meaning)	Ich habe mein Haar nicht gewaschen.	मैंने अपने बालों को नहीं धोया।
 I dislike being alone.	Ich mag es nicht, allein zu sein.	मुझे अकेले रहना पसंद नहीं है।
+I do feel pretty good.	Ich fühle mich ziemlich gut.	मैं बहुत अच्छा महसूस करता हूँ।
+I do not care for him.	Ich kümmere mich nicht um ihn.	मुझे उससे परवाह नहीं है।
+I do not get up early.	Ich stehe nicht früh auf.	मैं जल्दी उठता नहीं हूँ।
+I do not like science.	Ich mag keine Wissenschaft.	मुझे विज्ञान पसंद नहीं है।
+I do not want to work.	Ich möchte nicht arbeiten.	मैं काम करना नहीं चाहता।
+I don't approve of it.	Ich billige es nicht.	मैं इसे स्वीकृत नहीं करता।
+I don't care for beer.	Mir ist Bier egal.	मुझे बीयर से मतलब नहीं है।
+I don't care for eggs.	Mir sind Eier egal.	मुझे अंडे पसंद नहीं हैं।
+I don't care for wine.	Mir ist Wein egal.	मुझे शराब से मतलब नहीं है।
+I don't care who wins.	Es ist mir egal, wer gewinnt.	मुझे नहीं पसंद किसकी जीत होती है।
