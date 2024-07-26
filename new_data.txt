@@ -36962,3 +36962,13 @@ He's not in our group.	Er ist nicht in unserer Gruppe.	वह हमारे �
 He's not my boyfriend.	Er ist nicht mein Freund.	वह मेरा बॉयफ्रेंड नहीं है।
 He's now on the phone.	Er ist jetzt am Telefon.	वह अब फोन पर है।
 He's on his last legs.	Er ist auf seinen letzten Beinen.	वह अपनी आखिरी सांसों पर है।
+He's our only suspect.	Er ist unser einziger Verdächtiger.	वह हमारा एकमात्र संदिग्ध है।
+He's relaxing at home.	Er entspannt sich zu Hause.	वह घर पर आराम कर रहा है।
+He's right behind you.	Er ist direkt hinter dir.	वह तुम्हारे पीछे है।
+He's shorter than Tom.	Er ist kleiner als Tom.	वह टॉम से छोटा है।
+He's stronger than me.	Er ist stärker als ich.	वह मुझसे मजबूत है।
+He's studying Chinese.	Er studiert Chinesisch.	वह चीनी पढ़ रहा है।
+He's with his parents.	Er ist mit seinen Eltern.	वह अपने माता-पिता के साथ है।
+Heating is cheap here.	Die Heizung ist hier günstig.	यहाँ गर्मी सस्ती है।
+Hello, how's business?	Hallo, wie läuft das Geschäft?	नमस्ते, व्यापार कैसा चल रहा है?
+Help me to understand.	Hilf mir zu verstehen.	मुझे समझने में मदद करो।
