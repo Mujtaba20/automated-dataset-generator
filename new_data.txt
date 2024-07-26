@@ -25767,3 +25767,12 @@ He runs the fastest.	Er läuft am schnellsten.	वह सबसे तेज द
 He said he was poor.	Er sagte, er sei arm.	उसने कहा कि वह गरीब है।
 He sat in the chair.	Er saß auf dem Stuhl.	उसने कुर्सी पर बैठा।
 He sat on the bench.	Er saß auf der Bank.	वह बेंच पर बैठा था।
+He saw he was wrong.	Er sah, dass er falsch lag.	उसने देखा कि वह गलत था।
+He says it's urgent.	Er sagt, es ist dringend.	उसने कहा कि यह अत्यावश्यक है।
+He seemed to be ill.	Er schien krank zu sein.	उसे बीमार लग रहा था।
+He seems to be rich.	Er scheint reich zu sein.	उसे अमीर लग रहा है।
+He seems to be sick.	Er scheint krank zu sein.	उसे बीमार लग रहा है।
+He seems to know us.	Er scheint uns zu kennen.	उसे लगता है कि वह हमें जानता है।
+He set off to Paris.	Er machte sich auf den Weg nach Paris.	वह पेरिस की ओर रवाना हुआ।
+He shined his shoes.	Er polierte seine Schuhe.	उसने अपने जूते चमकाए।
+He should thank you.	Er sollte dir danken.	उसे तुम्हारा धन्यवाद करना चाहिए।
