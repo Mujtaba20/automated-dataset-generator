@@ -40326,3 +40326,13 @@ Tom is in poor health.	Tom ist bei schlechter Gesundheit.	टॉम की स�
 Tom is in the kitchen.	Tom ist in der Küche.	टॉम रसोई में है।
 Tom is in the lab now.	Tom ist jetzt im Labor.	टॉम अभी प्रयोगशाला में है।
 Tom is in trouble now.	Tom hat jetzt Probleme.	टॉम अब मुश्किल में है।
+Tom is ironing shirts.	Tom bügelt Hemden.	टॉम कुर्ते इस्त्री कर रहा है।
+Tom is known for that.	Tom ist dafür bekannt.	टॉम के उसके बारे में जाना जाता है।
+Tom is laughing at me.	Tom lacht über mich.	टॉम मुझपर हँस रहा है।
+Tom is lazy, isn't he?	Tom ist faul, oder?	टॉम आलसी है, ना?
+Tom is likely to come.	Tom wird wahrscheinlich kommen.	टॉम आने के लिए संभावित है।
+Tom is looking at you.	Tom sieht dich an.	टॉम तुम्हें देख रहा है।
+Tom is loud, isn't he?	Tom ist laut, oder?	टॉम ऊंची आवाज में बोलता है, क्या?
+Tom is making cookies.	Tom backt Kekse.	टॉम कुकीज बना रहा है।
+Tom is making his bed.	Tom macht sein Bett.	टॉम अपने बिस्तर को सजा रहा है।
+Tom is my adopted son.	Tom ist mein Adoptivsohn.	टॉम मेरा दत्तक पुत्र है।
