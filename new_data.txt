@@ -38299,3 +38299,11 @@ I'm sick of hospitals.	Ich habe genug von Krankenhäusern.	मुझे अस�
 I'm sorry I said that.	Es tut mir leid, dass ich das gesagt habe.	मुझे खेद है कि मैंने वह कहा।
 I'm sorry that I lied.	Es tut mir leid, dass ich gelogen habe.	मुझे खेद है कि मैंने झूठ बोला।
 I'm still job hunting.	Ich suche immer noch nach einem Job.	मैं अभी भी नौकरी ढूंढ़ रहा हूं।
+I'm still not married.	Ich bin immer noch nicht verheiratet.	मैं अब तक शादीशुदा नहीं हूँ।
+I'm stronger than you.	Ich bin stärker als du.	मैं तुमसे ज्यादा बलवान हूँ।
+I'm studying with Tom.	Ich studiere mit Tom.	मैं टॉम के साथ पढ़ाई कर रहा हूँ।
+I'm sure Tom did this.	Ich bin mir sicher, dass Tom das getan hat.	मुझे यकीन है कि टॉमने यह किया है।
+I'm sure Tom is proud.	Ich bin sicher, dass Tom stolz ist.	मुझे यकीन है कि टॉम गर्वित है।
+I'm sure Tom told you.	Ich bin sicher, dass Tom dir gesagt hat.	मुझे यकीन है कि टॉमने तुम्हें बताया है।
+I'm swamped with work.	Ich bin von der Arbeit überwältigt.	मैं काम से भरपूर हूँ।
+I'm taking it with me.	Ich nehme es mit.	मैं यह साथ ले रहा हूँ।
