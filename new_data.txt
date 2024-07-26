@@ -40602,3 +40602,12 @@ Tom plans to be there.	Tom plant dort zu sein.	टॉम वहाँ होन�
 Tom planted the seeds.	Tom pflanzte die Samen.	टॉम ने बीज बोए।
 Tom played basketball.	Tom spielte Basketball.	टॉम ने बास्केटबॉल खेला।
 Tom played the guitar.	Tom spielte Gitarre.	टॉम ने गिटार बजाई।
+Tom plays the trumpet.	Tom spielt die Trompete.	टॉम ट्रम्पेट बजाता है।
+Tom pocketed the coin.	Tom steckte die Münze ein.	टॉम ने सिक्का अपनी जेब में डाल लिया।
+Tom pocketed the keys.	Tom steckte die Schlüssel ein.	टॉम ने कुंजी अपनी जेब में डाली।
+Tom pressed his pants.	Tom hat seine Hose gebügelt.	टॉम ने अपनी पैंट प्रेस की।
+Tom provided evidence.	Tom hat Beweise geliefert.	टॉम ने सबूत प्रदान किए।
+Tom pushed the button.	Tom drückte den Knopf.	टॉम ने बटन दबाया।
+Tom put away his toys.	Tom räumte seine Spielsachen weg.	टॉम ने अपने खिलौने दूर कर दिए।
+Tom put his foot down.	Tom setzte seinen Fuß ab.	टॉम ने अपना पैर रख दिया।
+Tom put his fork down.	Tom legte seine Gabel weg.	टॉम ने अपनी कांटे को छोड़ दिया।

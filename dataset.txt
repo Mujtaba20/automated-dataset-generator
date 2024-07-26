@@ -1,14 +1,4 @@
 
-Tom plays the trumpet.	Tom spielt Trompete.	टॉम तुरही बजाता है।
-Tom pocketed the coin.	Tom hat die Münze eingesteckt.	टॉम ने सिक्का डाल दिया।
-Tom pocketed the keys.	Tom hat die Schlüssel eingesteckt.	टॉम ने चाबियां लगाईं।
-Tom pressed his pants.	Tom bügelte seine Hosen.	टॉम ने अपनी पैंट को इस्त्री किया।
-Tom provided evidence.	Tom legte Beweise vor.	टॉम ने सबूत प्रस्तुत किए।
-Tom pushed the button.	Tom drückte auf den Knopf.	टॉम ने बटन दबाया।
-Tom put away his toys.	Tom räumte seine Spielsachen weg.	टॉम ने अपने खिलौने साफ कर दिए।
-Tom put his foot down.	Tom schlug mit der Faust auf den Tisch.	टॉम ने अपनी मुट्ठी से मेज पर मारा।
-Tom put his foot down.	Tom sprach ein Machtwort.	टॉम ने शक्ति का एक शब्द बोला।
-Tom put his fork down.	Tom legte seine Gabel ab.	टॉम ने अपना कांटा उतार दिया।
 Tom put it in the box.	Tom legte es in die Kiste.	टॉम ने इसे बॉक्स में रखा।
 Tom put on his gloves.	Tom zog seine Handschuhe an.	टॉम ने अपने दस्ताने पर डाल दिया।
 Tom put on some music.	Tom legte Musik auf.	टॉम ने संगीत पर रखा।
