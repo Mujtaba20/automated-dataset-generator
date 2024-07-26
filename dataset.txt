@@ -1,14 +1,4 @@
 
-You must do your duty.	Du musst deine Pflicht erfüllen.	आपको अपना कर्तव्य पूरा करना होगा।
-You must go to school.	Du musst zur Schule gehen.	आपको स्कूल जाना है।
-You must go to school.	Ihr müsst zur Schule gehen.	आपको स्कूल जाना है।
-You must go to school.	Sie müssen zur Schule gehen.	आपको स्कूल जाना है।
-You must learn French.	Du musst Französisch lernen.	आपको फ्रेंच सीखना होगा।
-You must learn French.	Ihr müsst Französisch lernen.	आपको फ्रेंच सीखना होगा।
-You must learn French.	Sie müssen Französisch lernen.	आपको फ्रेंच सीखना होगा।
-You must listen to it.	Du musst es dir anhören.	आपको इसे सुनना होगा।
-You must move quickly.	Du musst dich schnell bewegen.	आपको जल्दी से आगे बढ़ना होगा।
-You must see a doctor.	Du musst zum Arzt.	आपको डॉक्टर के पास जाना होगा।
 You must stay with me.	Du musst bei mir bleiben.	आपको मेरे साथ रहना है।
 You must study harder.	Du musst fleißiger lernen.	आपको अधिक कठिन सीखना होगा।
 You must've lost them.	Du hast sie wohl verloren.	आप शायद इसे खो देते हैं।
