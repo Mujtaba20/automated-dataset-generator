@@ -40390,3 +40390,13 @@ Tom is the one I want.	Tom ist der, den ich will.	टॉम वह है जि
 Tom is thin, isn't he?	Tom ist dünn, oder?	टॉम पतला है, ना?
 Tom is thirty at most.	Tom ist höchstens dreißig.	टॉम अधिकतर तीस का है।
 Tom is tidy, isn't he?	Tom ist ordentlich, oder?	टॉम सजीव है, ना?
+Tom is very ambitious.	Tom ist sehr ehrgeizig.	टॉम बहुत महत्वाकांक्षी है।
+Tom is very competent.	Tom ist sehr kompetent.	टॉम बहुत योग्य है।
+Tom is very conceited.	Tom ist sehr eingebildet.	टॉम बहुत अहंकारी है।
+Tom is very dangerous.	Tom ist sehr gefährlich.	टॉम बहुत खतरनाक है।
+Tom is very depressed.	Tom ist sehr deprimiert.	टॉम बहुत उदास है।
+Tom is very dexterous.	Tom ist sehr geschickt.	टॉम बहुत चुस्त जिन्दा है।
+Tom is very efficient.	Tom ist sehr effizient.	टॉम बहुत कुशल है।
+Tom is very energetic.	Tom ist sehr energiegeladen.	टॉम बहुत ऊर्जावान है।
+Tom is very forgetful.	Tom ist sehr vergesslich.	टॉम बहुत भूलनेवाला है।
+Tom is very impatient.	Tom ist sehr ungeduldig.	टॉम बहुत अप्रतीक्षा करके है।

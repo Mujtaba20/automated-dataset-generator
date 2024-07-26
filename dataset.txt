@@ -1,14 +1,4 @@
 
-Tom is very ambitious.	Tom ist sehr ehrgeizig.	टॉम बहुत महत्वाकांक्षी है।
-Tom is very competent.	Tom ist sehr kompetent.	टॉम बहुत सक्षम है।
-Tom is very conceited.	Tom ist ziemlich eingebildet.	टॉम काफी कल्पना है।
-Tom is very dangerous.	Tom ist sehr gefährlich.	टॉम बहुत खतरनाक है।
-Tom is very depressed.	Tom ist sehr deprimiert.	टॉम बहुत उदास है।
-Tom is very dexterous.	Tom ist sehr geschickt.	टॉम बहुत चालाक है।
-Tom is very efficient.	Tom ist sehr effizient.	टॉम बहुत कुशल है।
-Tom is very energetic.	Tom ist sehr energisch.	टॉम बहुत ऊर्जावान है।
-Tom is very forgetful.	Tom ist sehr vergesslich.	टॉम बहुत भुलक्कड़ है।
-Tom is very impatient.	Tom ist sehr ungeduldig.	टॉम बहुत अधीर है।
 Tom is very important.	Tom ist sehr wichtig.	टॉम बहुत महत्वपूर्ण है।
 Tom is very impressed.	Tom ist sehr beeindruckt.	टॉम बहुत प्रभावित है।
 Tom is very impulsive.	Tom ist sehr impulsiv.	टॉम बहुत आवेगी है।
