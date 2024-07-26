@@ -28003,3 +28003,12 @@ Take Tom for a swim.	Nimm Tom mit zum Schwimmen.	टॉम को तैरन�
 Take a look at that.	Schau dir das an.	उस पर एक नजर डालो।
 Take a look at this.	Schau dir das hier an.	इस पर एक नजर डालो।
 Take a seat, please.	Nehmen Sie Platz, bitte.	कृपया बैठिए।
+Take my word for it.	Glaub mir.	मेरी बात मानो।
+Take off your shirt.	Zieh dein Hemd aus.	अपनी कमीज़ उतारो।
+Take off your shoes.	Zieh deine Schuhe aus.	अपनी जूते उतारो।
+Take off your socks.	Zieh deine Socken aus.	अपने मोजे उतारो।
+Take that one there.	Nimm das dort drüben.	वह वहाँ वाला ले लो।
+Take the next right.	Nimm die nächste Rechtsabbiegung.	अगली दाईं जाओ।
+Take these with you.	Nimm diese mit dir.	ये अपने साथ ले लो।
+Take your shirt off.	Zieh dein Hemd aus.	अपनी कमीज़ उतारो।
+Take your shoes off.	Zieh deine Schuhe aus.	अपनी जूते उतारो।

@@ -1,17 +1,4 @@
 
-Take my word for it.	Verlass dich drauf.	उस पर भरोसा करो।
-Take off your shirt.	Hemd ausziehen!	शर्ट को कस लें!
-Take off your shoes.	Zieh deine Schuhe aus.	अपने जूते उतार।
-Take off your shoes.	Zieh dir die Schuhe aus!	अपने जूते उतार!
-Take off your socks.	Zieh deine Socken aus.	अपने मोजे उतारें।
-Take that one there.	Bring das dort hin.	वहाँ ले आओ।
-Take the next right.	Nehmen Sie die nächste Straße rechts!	दाईं ओर अगली सड़क ले लो!
-Take these with you.	Nimm diese zu dir.	इसे अपने पास ले।
-Take your shirt off.	Hemd ausziehen!	शर्ट को कस लें!
-Take your shoes off.	Zieh deine Schuhe aus.	अपने जूते उतार।
-Take your shoes off.	Zieh dir die Schuhe aus!	अपने जूते उतार!
-Take your shoes off.	Zieht eure Schuhe aus.	अपने जूते का उपयोग करें।
-Take your shoes off.	Ziehen Sie Ihre Schuhe aus.	अपने जूते उतार।
 Talk to my attorney.	Sprechen Sie mit meinem Anwalt.	मेरे वकील से बात करें।
 Tell Tom I love him.	Sage Tom, dass ich ihn liebe!	टॉम कहो कि मैं उससे प्यार करता हूँ!
 Tell Tom I'm eating.	Sag Tom, dass ich gerade etwas esse!	टॉम कहो कि मैं कुछ खा रहा हूँ!
