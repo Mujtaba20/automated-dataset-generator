@@ -21873,3 +21873,11 @@ I'll take the risk.	Ich werde das Risiko eingehen.	मैं खतरा उठ
 I'll take this one.	Ich werde dieses nehmen.	मैं यह लेलूंगा।
 I'll take you home.	Ich werde dich nach Hause bringen.	मैं तुम्हें घर ले जाऊंगा।
 I'll take you home. - Version 2	Ich werde dich mit nach Hause nehmen.	मैं तुम्हें घर ले जाऊंगा। - संस्करण 2
+I'll tell Tom that.	Ich werde das Tom sagen.	मैं टॉम को बताऊंगा।
+I'll tell him that.	Ich werde ihm das sagen.	मैं उसे बताऊंगा।
+I'll think it over.	Ich werde es überdenken.	मैं इसे ध्यान से सोचूंगा।
+I'm Tom's daughter.	Ich bin Toms Tochter.	मैं टॉम की बेटी हूँ।
+I'm Tom's fiancée.	Ich bin Toms Verlobte.	मैं टॉम की मंगेतर हूँ।
+I'm Tom's guardian.	Ich bin Toms Vormund.	मैं टॉम का प्रेषक हूँ।
+I'm Tom's landlord.	Ich bin Toms Vermieter.	मैं टॉम का मालिक हूं।
+I'm Tom's neighbor.	Ich bin Toms Nachbar.	मैं टॉम के पड़ोसी हूं।

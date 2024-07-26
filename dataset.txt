@@ -1,14 +1,4 @@
 
-I'll tell Tom that.	Ich werde das Tom sagen.	मैं टॉम कहूंगा।
-I'll tell him that.	Ich werde es ihm sagen.	मै उसे बोलूंगा।
-I'll think it over.	Ich überlege es mir noch mal.	मैं इसके बारे में फिर से सोचता हूं।
-I'll think it over.	Ich muss darüber nachdenken.	मुझे इस बारे में सोचना होगा।
-I'm Tom's daughter.	Ich bin Toms Tochter.	मैं टॉम की बेटी हूं।
-I'm Tom's fiancée.	Ich bin Toms Verlobte.	मैं टॉम का मंगेतर हूं।
-I'm Tom's guardian.	Ich bin Toms Vormund.	मैं टॉम का संरक्षक हूं।
-I'm Tom's landlord.	Ich bin Toms Vermieter.	मैं टॉम का मकान मालिक हूं।
-I'm Tom's neighbor.	Ich bin Toms Nachbar.	मैं टॉम का पड़ोसी हूं।
-I'm Tom's neighbor.	Ich bin Toms Nachbarin.	मैं टॉम का पड़ोसी हूं।
 I'm Tom's roommate.	Ich bin Toms Mitbewohner.	मैं टॉम का रूममेट हूं।
 I'm a bit confused.	Ich bin ein bisschen verwirrt.	मैं कुछ उलझन में हूं।
 I'm a city dweller.	Ich bin Städter.	मैं एक शहर हूं।
