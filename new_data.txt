@@ -23621,3 +23621,12 @@ Tom is always nice.	Tom ist immer nett.	टॉम हमेशा अच्छ�
 Tom is always sick.	Tom ist immer krank.	टॉम हमेशा बीमार रहता है।
 Tom is an employee.	Tom ist ein Angestellter.	टॉम कर्मचारी है।
 Tom is an engineer.	Tom ist ein Ingenieur.	टॉम एक इंजीनियर है।
+Tom is an evil man.	Tom ist ein böser Mann.	टॉम एक बुरा आदमी है।
+Tom is an optician.	Tom ist Optiker.	टॉम एक ऑप्टिशियन है।
+Tom is at his desk.	Tom sitzt an seinem Schreibtisch.	टॉम अपनी डेस्क पर है।
+Tom is at home now.	Tom ist jetzt zu Hause.	टॉम अब घर पर है।
+Tom is avoiding me.	Tom meidet mich.	टॉम मुझसे बच रहा है।
+Tom is behind this.	Tom steckt dahinter.	टॉम इसके पीछे है।
+Tom is belligerent.	Tom ist kriegerisch.	टॉम युद्धरत् है।
+Tom is beyond hope.	Tom ist jenseits der Hoffnung.	टॉम की आशा से परे है।
+Tom is calling you.	Tom ruft dich an.	टॉम आपको बुला रहा है।

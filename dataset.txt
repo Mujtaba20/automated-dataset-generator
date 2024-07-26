@@ -1,14 +1,4 @@
 
-Tom is an evil man.	Tom ist ein böser Mensch.	टॉम एक बुरा इंसान है।
-Tom is an optician.	Tom ist Optiker.	टॉम ऑप्टिशियन है।
-Tom is at his desk.	Tom sitzt an seinem Schreibtisch.	टॉम अपने डेस्क पर बैठता है।
-Tom is at home now.	Tom ist jetzt zu Hause.	टॉम अब घर पर है।
-Tom is avoiding me.	Tom geht mir aus dem Weg.	टॉम मुझसे बचता है।
-Tom is behind this.	Da steckt Tom dahinter.	टॉम इसके पीछे है।
-Tom is belligerent.	Tom ist aggressiv.	टॉम आक्रामक है।
-Tom is belligerent.	Tom ist streitlustig.	टॉम विवाद में है।
-Tom is beyond hope.	Tom ist ein hoffnungsloser Fall.	टॉम एक निराशाजनक मामला है।
-Tom is calling you.	Tom ruft nach dir.	टॉम आपके लिए कहता है।
 Tom is coming back.	Tom kommt zurück.	टॉम वापस आता है।
 Tom is coming here.	Tom kommt hierher.	टॉम यहां आता है।
 Tom is coming home.	Tom kommt nach Hause.	टॉम घर आता है।
