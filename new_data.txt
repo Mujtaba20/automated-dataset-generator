@@ -41330,3 +41330,12 @@ What were we thinking?	Was haben wir gedacht?	हम क्या सोच र�
 What would you change?	Was würdest du ändern?	तुम क्या परिवर्तन करोगे?
 What you said is true.	Was du gesagt hast, ist wahr.	तुमने जो कहा है, सच है।
 What you say is right.	Was du sagst, ist richtig.	तुम जो कहते हो, सही है।
+What'll Tom show Mary?	Was wird Tom Mary zeigen?	टॉम मैरी को क्या दिखाएगा?
+What're they planning?	Was planen sie?	वे क्या योजना बना रहे हैं?
+What're we doing here?	Was machen wir hier?	हम यहाँ क्या कर रहे हैं?
+What's Tom doing here?	Was macht Tom hier?	टॉम यहाँ क्या कर रहा है?
+What's Tom getting at?	Was will Tom damit sagen?	टॉम क्या कहना चाह रहा है?
+What's Tom hiding for?	Wofür versteckt sich Tom?	टॉम क्यों छुप रहा है?
+What's Tom looking at?	Worauf schaut Tom?	टॉम क्या देख रहा है?
+What's happening here?	Was passiert hier?	यहाँ क्या हो रहा है?
+What's his name again?	Wie heißt er nochmal?	उसका नाम फिर से क्या है?

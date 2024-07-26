@@ -1,15 +1,4 @@
 
-What'll Tom show Mary?	Was wird Tom Maria zeigen?	टॉम मारिया क्या दिखाएगा?
-What're they planning?	Was haben sie vor?	आप क्या करने जा रहे हैं?
-What're they planning?	Was planen sie?	आप क्या योजना बना रहे हैं?
-What're we doing here?	Was machen wir hier?	हम यहां क्या कर रहे हैं?
-What's Tom doing here?	Was macht Tom hier?	टॉम यहाँ क्या करता है?
-What's Tom getting at?	Worauf will Tom hinaus?	टॉम क्या चाहता है?
-What's Tom hiding for?	Warum versteckt sich Tom?	टॉम क्यों छिपा रहा है?
-What's Tom looking at?	Auf was schaut Tom?	टॉम क्या देखता है?
-What's happening here?	Was passiert hier?	क्या हो रहा है?
-What's his name again?	Wie heißt er doch gleich?	इसे क्या कहते हैं?
-What's his name again?	Wie heißt er noch gleich?	इसे क्या कहते हैं?
 What's in that bottle?	Was ist in der Flasche da?	बोतल में क्या है?
 What's in that closet?	Was ist in dem Schrank da?	कोठरी में क्या है?
 What's in this closet?	Was ist in dem Schrank?	कोठरी में क्या है?
