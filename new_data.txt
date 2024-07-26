@@ -32437,3 +32437,11 @@ I'm allergic to corn.	Ich bin allergisch gegen Mais.	मुझे मक्क�
 I'm allergic to dogs.	Ich bin allergisch gegen Hunde.	मुझे कुत्तों की एलर्जी है।
 I'm allergic to dust.	Ich bin allergisch gegen Staub.	मुझे धूल से एलर्जी है।
 I'm allergic to fish.	Ich bin allergisch gegen Fisch.	मुझे मछली की एलर्जी है।
+I'm almost done here.	Ich bin hier fast fertig.	मैं यहाँ लगभग कर चुका हूँ।
+I'm already a father.	Ich bin bereits Vater.	मैं पहले से ही एक पिता हूँ।
+I'm always very busy.	Ich bin immer sehr beschäftigt.	मैं हमेशा बहुत व्यस्त रहता हूँ।
+I'm an archaeologist.	Ich bin Archäologe.	मैं पुरातत्वविद् हूँ।
+I'm an eighth grader.	Ich bin in der achten Klasse.	मैं आठवीं कक्षा में हूँ।
+I'm an honest person.	Ich bin ein ehrlicher Mensch.	मैं ईमानदार इंसान हूँ।
+I'm as old as Tom is.	Ich bin so alt wie Tom.	मैं उतने ही बुढ़ापे का हूँ जितना टॉम है।
+I'm as tall as he is.	Ich bin so groß wie er.	मैं उसके जैसा लम्बा हूँ।
