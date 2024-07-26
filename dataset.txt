@@ -1,15 +1,4 @@
 
-Is that your umbrella?	Ist das dein Regenschirm?	क्या यह आपकी छतरी है?
-Is that your umbrella?	Ist das Ihr Regenschirm?	क्या यह आपकी छतरी है?
-Is that your umbrella?	Ist das euer Regenschirm?	क्या यह आपकी छतरी है?
-Is there a difference?	Gibt es einen Unterschied?	क्या कोई अंतर है?
-Is there a dress code?	Gibt es einen Dresscode?	क्या यहाँ कोई ड्रेस कोड है?
-Is there a dress code?	Gibt es eine Kleiderordnung?	क्या यहाँ कोई ड्रेस कोड है?
-Is there a school bus?	Gibt es einen Schulbus?	क्या कोई स्कूल बस है?
-Is there another door?	Gibt es noch eine Tür?	क्या कोई और दरवाजा है?
-Is there another exit?	Gibt es noch einen Ausgang?	क्या अभी भी कोई परिणाम है?
-Is there anything new?	Gibt's was Neues?	क्या कुछ भी नया है?
-Is there anything new?	Gibt es etwas Neues?	क्या कुछ नया है?
 Is there life on Mars?	Gibt es Leben auf dem Mars?	क्या मंगल ग्रह पर जीवन है?
 Is there no other way?	Geht es nicht anders?	क्या कोई और रास्ता नहीं है?
 Is there some ketchup?	Gibt es etwas Ketchup?	क्या कुछ केचप है?

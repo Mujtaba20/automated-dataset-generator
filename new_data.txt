@@ -38444,3 +38444,10 @@ Is that what you said?	Ist das, was du gesagt hast?	क्या यह वह�
 Is that what you want?	Ist das, was du willst?	क्या यह वही है जो तुम चाहते हो?
 Is that why they died?	Ist das der Grund, warum sie gestorben sind?	क्या यह वह कारण है जिसके कारण उनकी मौत हो गई?
 Is that your new book?	Ist das dein neues Buch?	क्या यह तुम्हारी नई किताब है?
+Is that your umbrella?	Ist das dein Schirm?	क्या वह आपका छाता है?
+Is there a difference?	Gibt es einen Unterschied?	क्या अंतर है?
+Is there a dress code?	Gibt es einen Kleiderordnung?	क्या एक वस्त्र संहिता है?
+Is there a school bus?	Gibt es einen Schulbus?	क्या एक स्कूल बस है?
+Is there another door?	Gibt es eine andere Tür?	क्या एक और दरवाजा है?
+Is there another exit?	Gibt es einen anderen Ausgang?	क्या एक और निकास है?
+Is there anything new?	Gibt es etwas Neues?	क्या कोई नया है?
