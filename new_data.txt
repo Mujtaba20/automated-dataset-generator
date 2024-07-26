@@ -41370,3 +41370,8 @@ When did Tom say that?	Wann hat Tom das gesagt?	तोमने उसे कब
 When did they go home?	Wann sind sie nach Hause gegangen?	उन्होंने घर कब जाना शुरू किया?
 When did you buy that?	Wann haben Sie das gekauft?	तुमने वो कब खरीदी थी?
 When did you find out?	Wann hast du das herausgefunden?	तुम्हने कब वो खोजा?
+When did you get back?	Wann bist du zurückgekommen?	तुम कब वापस आए थे?
+When did you get here?	Wann bist du hier angekommen?	तुम्हें यहाँ कब मिला?
+When did you get home?	Wann bist du nach Hause gekommen?	तुमने घर कब खरीदा?
+When did you get this?	Wann hast du das bekommen?	तुमने यह कब पाया?
+When did you go there?	Wann bist du dorthin gegangen?	तुम वहाँ कब गए थे?

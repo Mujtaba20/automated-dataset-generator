@@ -1,15 +1,4 @@
 
-When did you get back?	Wann bist du zurückgekommen?	आप वापस कब आये?
-When did you get here?	Seit wann seid ihr hier?	आप यहाँ पर कितने समय से हैं?
-When did you get home?	Wann bist du heimgekommen?	तुम घर कब आओगे?
-When did you get home?	Wann bist du nach Hause gekommen?	तुम घर कब आए?
-When did you get home?	Wann sind Sie nach Hause gekommen?	तुम घर कब आए?
-When did you get home?	Wann seid ihr nach Hause gekommen?	तुम घर कब आए?
-When did you get this?	Wann hast du das bekommen?	आपको वह कब मिला?
-When did you get this?	Wann haben Sie das bekommen?	आपको वह कब मिला?
-When did you go there?	Wann bist du dorthin gegangen?	तुम वहाँ कब गए थे?
-When did you go there?	Wann sind Sie dorthin gegangen?	तुम वहाँ कब गए थे?
-When did you go there?	Wann seid ihr dorthin gegangen?	तुम वहाँ कब गए थे?
 When did you meet her?	Wann hast du sie getroffen?	आपने उसे कब मारा?
 When is dinner served?	Wann wird das Abendessen serviert?	रात का खाना कब परोसा जाता है?
 When is your birthday?	Wann haben Sie Geburtstag?	आपका जन्मदिन कब है?
