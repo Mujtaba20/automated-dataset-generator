@@ -32991,3 +32991,8 @@ Let's go grab a beer.	Lass uns ein Bier holen.	चलो एक बीयर ल
 Let's go see Tom now.	Lass uns jetzt Tom sehen.	चलो अभी टॉम से मिलने चलें।
 Let's go talk to Tom.	Lass uns mit Tom reden gehen.	चलो टॉम से बात करने चलें।
 Let's go to my place.	Lass uns zu mir gehen.	चलो मेरे पास चलें।
+Let's have breakfast.	Lass uns frühstücken.	चलो हम नाश्ता करते हैं।
+Let's leave the room.	Lass uns den Raum verlassen.	कमरे छोड़ दें।
+Let's let Tom decide.	Lassen Sie Tom entscheiden.	टॉम को निर्णय करने दें।
+Let's make a snowman.	Lass uns einen Schneemann machen.	चलो हम एक बर्फ का पुरुष बनाते हैं।
+Let's make it simple.	Lass es uns einfach machen.	इसे सरल बनाएं।
