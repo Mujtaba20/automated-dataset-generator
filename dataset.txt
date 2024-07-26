@@ -1,14 +1,4 @@
 
-I forgot his address.	Ich habe seine Anschrift vergessen.	मैं उसका पता भूल गया।
-I forgot his address.	Ich habe seine Adresse vergessen.	मैं उसका पता भूल गया।
-I forgot my password.	Ich habe mein Passwort vergessen.	मैं अपना कूटशब्द भूल गया हूं।
-I found an apartment.	Ich habe eine Wohnung gefunden.	मुझे एक अपार्टमेंट मिला।
-I found him the book.	Ich habe das Buch für ihn gesucht.	मैं उसके लिए किताब की तलाश कर रहा था।
-I found it in a cave.	Ich fand es in einer Höhle.	मैंने इसे एक गुफा में पाया।
-I found the building.	Ich habe das Gebäude gefunden.	मुझे इमारत मिली।
-I fully support that.	Ich unterstütze das voll und ganz.	मैं पूरी तरह से समर्थन करता हूं।
-I gave Tom a blanket.	Ich gab Tom eine Decke.	मैंने टॉम को कंबल दिया।
-I gave Tom no choice.	Ich ließ Tom keine Wahl.	मैंने कोई विकल्प नहीं छोड़ा।
 I gave Tom some wine.	Ich gab Tom etwas Wein.	मैंने टॉम को कुछ शराब दी।
 I gave Tom that book.	Ich gab Tom jenes Buch.	मैंने टॉम को वह किताब दी।
 I get bored in class.	Ich langweile mich im Unterricht.	मैं खुद को कक्षा में बोर करता हूं।

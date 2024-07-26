@@ -31662,3 +31662,12 @@ I felt sorry for Tom.	Ich habe mit Tom Mitleid empfunden.	मैंने टॉ
 I felt very isolated.	Ich habe mich sehr isoliert gefühlt.	मैंने बहुत ही अलगाव महसूस किया।
 I finally understand.	Ich verstehe endlich.	मुझे आखिरकार समझ आ गयी है।
 I forget who said it.	Ich habe vergessen, wer es gesagt hat.	मैं भूल गया कि किसने कहा था।
+I forgot his address.	Ich habe seine Adresse vergessen.	मैंने उसका पता भूल गया।
+I forgot my password.	Ich habe mein Passwort vergessen.	मैंने अपना पासवर्ड भूल गया।
+I found an apartment.	Ich habe eine Wohnung gefunden.	मैंने एक अपार्टमेंट खोजा।
+I found him the book.	Ich habe ihm das Buch gefunden.	मैंने उसे किताब देखी।
+I found it in a cave.	Ich habe es in einer Höhle gefunden.	मैंने उसे गुफा में पाया।
+I found the building.	Ich habe das Gebäude gefunden.	मैंने इस इमारत को खोज लिया।
+I fully support that.	Ich unterstütze das voll und ganz.	मैं इसे पूरी तरह से समर्थन देता हूं।
+I gave Tom a blanket.	Ich habe Tom eine Decke gegeben.	मैंने टॉम को एक कंबल दी।
+I gave Tom no choice.	Ich habe Tom keine Wahl gelassen.	मैंने टॉम को कोई विकल्प नहीं दिया।
