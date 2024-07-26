@@ -31645,3 +31645,11 @@ I enjoy working here. - Another meaning	Mir macht die Arbeit hier Spaß.	मु�
 I enjoy your company.	Ich genieße deine Gesellschaft.	मुझे तुम्हारे संग का आनंद है।
 I expect him to come.	Ich erwarte, dass er kommt.	मैं उसे आने की उम्मीद करता हूँ।
 I expect him to come. - Another meaning	Ich rechne damit, dass er kommt.	मैं उसे आने की अनुमति देता हूँ।
+I expect much of him.	Ich erwarte viel von ihm.	मैं उससे बहुत कुछ अपेक्षा करता हूँ।
+I expect you to help.	Ich erwarte, dass du hilfst.	मैं तुमसे मदद करने की उम्मीद करता हूँ।
+I faxed a map to Tom.	Ich habe Tom eine Karte gefaxt.	मैंने टॉम को एक मानचित्र फैक्स किया।
+I feel like an idiot.	Ich fühle mich wie ein Idiot.	मुझे एक मूर्ख जैसा लग रहा है।
+I feel like partying.	Ich habe Lust zu feiern.	मुझे पार्टी करने की इच्छा है।
+I feel like vomiting.	Mir ist übel.	मुझे उल्टी आ रही है।
+I feel really stupid.	Ich fühle mich wirklich dumm.	मैं सचमुच मूर्ख महसूस कर रहा हूँ।
+I feel sorry for her.	Es tut mir leid für sie.	मुझे उसके लिए दुःख है।

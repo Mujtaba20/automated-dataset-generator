@@ -1,15 +1,4 @@
 
-I expect much of him.	Ich erwarte viel von ihm.	मुझे उससे बहुत उम्मीद है।
-I expect you to help.	Ich erwarte von dir, dass du hilfst.	मुझे उम्मीद है कि आप आपकी मदद करेंगे।
-I faxed a map to Tom.	Ich faxte Tom eine Karte.	मैं एक कार्ड फैक्स करता हूं।
-I feel like an idiot.	Ich komme mir wie ein Idiot vor.	मुझे एक बेवकूफ की तरह महसूस हो रहा है।
-I feel like an idiot.	Ich komme mir wie ein Trottel vor.	मुझे मूर्ख जैसा लग रहा है।
-I feel like partying.	Mir ist zum Feiern zumute.	मुझे जश्न मनाने का मन है।
-I feel like vomiting.	Mir ist schlecht.	मैं बीमार महसूस कर रहा हूं।
-I feel like vomiting.	Mir ist übel.	मुझे उल्टी जैसा महसूस हो रहा है.
-I feel really stupid.	Ich komme mir wirklich dumm vor.	मैं वास्तव में बेवकूफ महसूस करता हूं।
-I feel sorry for her.	Es tut mir leid für sie.	मुझे आपके लिये खेद है।
-I feel sorry for her.	Sie tut mir leid.	मुझे उसके लिए खेद है।
 I feel sorry for him.	Er tut mir leid.	मुझे माफ़ करें।
 I feel very betrayed.	Ich fühle mich sehr betrogen.	मुझे बहुत धोखा लगता है।
 I feel very feverish.	Ich fühle mich sehr fiebrig.	मुझे बहुत बुखार महसूस होता है।
