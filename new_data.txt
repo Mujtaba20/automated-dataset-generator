@@ -34829,3 +34829,13 @@ Tom seems distressed.	Tom scheint verzweifelt.	टॉम परेशान ल�
 Tom seems frustrated.	Tom scheint frustriert.	लगता है कि टॉम परेशान है।
 Tom seems quite busy.	Tom scheint ziemlich beschäftigt zu sein.	लगता है कि टॉम काफी व्यस्त है।
 Tom seems to be rich.	Tom scheint reich zu sein.	टॉम धनवान होने लगा है।
+Tom seems to be sick.	Tom scheint krank zu sein.	टॉम बीमार लगता है।
+Tom seems unreliable.	Tom scheint unzuverlässig zu sein.	टॉम अनिश्चित है।
+Tom seems very happy.	Tom sieht sehr glücklich aus.	टॉम बहुत खुश लग रहा है।
+Tom seems very pleased.	Tom scheint sehr zufrieden zu sein.	टॉम बहुत खुश लगता है।
+Tom seldom gets sick.	Tom wird selten krank.	टॉम कम बीमार होता है।
+Tom sells fertilizer.	Tom verkauft Dünger.	टॉम खाद बेचता है।
+Tom sells vegetables.	Tom verkauft Gemüse.	टॉम सब्जियाँ बेचता है।
+Tom sent Mary a card.	Tom hat Mary eine Karte geschickt.	टॉम ने मेरी को एक कार्ड भेजा।
+Tom served me coffee.	Tom hat mir Kaffee serviert.	टॉम ने मुझे कॉफ़ी पिलाई।
+Tom served us coffee.	Tom hat uns Kaffee serviert.	टॉम ने हमें कॉफ़ी पिलाई।

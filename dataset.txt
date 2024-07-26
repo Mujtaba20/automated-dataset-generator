@@ -1,14 +1,4 @@
 
-Tom seems to be sick.	Tom sieht krank aus.	टॉम बीमार लग रहा है।
-Tom seems unreliable.	Tom scheint unzuverlässig zu sein.	टॉम अविश्वसनीय लगता है।
-Tom seems very happy.	Tom scheint sehr glücklich zu sein.	टॉम बहुत खुश लग रहा है।
-Tom seems very happy.	Tom wirkt sehr glücklich.	टॉम बहुत खुश लग रहा है।
-Tom seldom gets sick.	Tom wird selten krank.	टॉम शायद ही कभी बीमार हो जाता है।
-Tom sells fertilizer.	Tom verkauft Dünger.	टॉम उर्वरक बेचता है।
-Tom sells vegetables.	Tom verkauft Gemüse.	टॉम सब्जियां बेचता है।
-Tom sent Mary a card.	Tom hat Mary eine Karte geschickt.	टॉम ने मैरी को एक कार्ड भेजा।
-Tom served me coffee.	Tom servierte mir Kaffee.	टॉम ने मुझे कॉफी दी।
-Tom served us coffee.	Tom servierte uns Kaffee.	टॉम ने हमें कॉफी दी।
 Tom shined his shoes.	Tom putzte seine Schuhe.	टॉम ने अपने जूते साफ किए।
 Tom shot three times.	Tom schoss dreimal.	टॉम ने तीन बार गोली मारी।
 Tom should apologize.	Tom sollte sich entschuldigen.	टॉम को माफी मांगनी चाहिए।
