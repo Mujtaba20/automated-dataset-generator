@@ -1,14 +1,4 @@
 
-What's that scar from?	Woher stammt diese Narbe?	यह निशान कहाँ से आता है?
-What's the date today?	Der Wievielte ist heute?	आज कौन सी तारीख़ है?
-What's the difference?	Was ist der Unterschied?	क्या अंतर है?
-What's the matter now?	Was ist denn jetzt los?	क्या चल रहा है?
-What's the text about?	Wovon handelt der Text?	यह पाठ किस संबंध में है?
-What's this made from?	Woraus ist das gemacht?	वह किस चीज से बना है?
-What's under your bed?	Was ist unter deinem Bett?	आपके बिस्तर के नीचे क्या है?
-What's under your bed?	Was ist unter eurem Bett?	आपके बिस्तर के नीचे क्या है?
-What's under your bed?	Was ist unter Ihrem Bett?	आपके बिस्तर के नीचे क्या है?
-What's with everybody?	Was ist denn mit allen los?	सभी के साथ क्या गलत है?
 What's wrong with Tom?	Was hat Tom denn?	टॉम के पास क्या है?
 What's wrong with you?	Was ist los mit dir?	तुम्हारे साथ क्या गलत है?
 What's wrong with you?	Was hast du?	तुम्हारे पास क्या है?

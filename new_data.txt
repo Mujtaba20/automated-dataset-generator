@@ -41348,3 +41348,11 @@ What's in your pocket?	Was ist in deiner Tasche?	तुम्हारी जे
 What's it going to be?	Was wird es sein?	यह क्या होने वाला है?
 What's more important?	Was ist wichtiger?	क्या और भी महत्वपूर्ण है?
 What's my room number?	Was ist meine Zimmernummer?	मेरी कमरे की संख्या क्या है?
+What's that scar from?	Woher ist die Narbe?	वह निशान कहाँ से है?
+What's the date today?	Welches Datum ist heute?	आज किस तारीख है?
+What's the difference?	Was ist der Unterschied?	अंतर क्या है?
+What's the matter now?	Was ist jetzt los?	अब क्या मामला है?
+What's the text about?	Worum geht es im Text?	टेक्स्ट के बारे में क्या है?
+What's this made from?	Woraus ist das gemacht?	यह किससे बना है?
+What's under your bed?	Was verbirgt sich unter deinem Bett?	तुम्हारी पलंग के नीचे क्या छुपा है?
+What's with everybody?	Was ist mit jedem los?	सभी के साथ क्या है?
