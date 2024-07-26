@@ -27511,3 +27511,10 @@ Learning takes time.	Lernen braucht Zeit.	सीखने में समय �
 Leave out this word.	Lass dieses Wort weg.	इस शब्द को बाहर छोड़ दो।
 Leave the door open.	Lassen Sie die Tür offen.	दरवाजा खुला रखें।
 Let Mary do her job.	Erlauben Sie Maria, ihre Arbeit zu tun.	मेरी को अपना काम करने दें।
+Let Tom come aboard.	Lass Tom an Bord kommen.	टॉम को आने दें।
+Let him do it alone.	Lass ihn es alleine machen.	उसे तनहा करने दो।
+Let me do it my way.	Lass mich es auf meine Weise machen.	मुझे अपने तरीके से करने दो।
+Let me eat in peace.	Lass mich in Ruhe essen.	मुझे शांति से खाने दो।
+Let me go just once.	Lass mich nur einmal gehen.	मुझे एक बार जाने दो।
+Let me have a taste.	Lass mich kosten.	मुझे एक टेस्ट दें।
+Let me look into it.	Lass mich das überprüfen.	मुझे इसे देखने दो।
