@@ -29930,3 +29930,13 @@ Where shall we meet?	Wo sollen wir uns treffen?	हम कहाँ मिले
 Where should I park?	Wo soll ich parken?	मैं कहाँ पार्किंग करूँ?
 Where should Tom go?	Wohin sollte Tom gehen?	टॉम को कहाँ जाना चाहिए?
 Where were you born?	Wo bist du geboren?	तुम कहाँ पैदा हुए थे?
+Where's Tom playing?	Wo spielt Tom?	टॉम कहाँ खेल रहा है?
+Where's Tom's stuff?	Wo sind Toms Sachen?	टॉम की चीज़ें कहाँ हैं?
+Where's Tom's watch?	Wo ist Toms Uhr?	टॉम की घड़ी कहाँ है?
+Where's my computer?	Wo ist mein Computer?	मेरा कंप्यूटर कहाँ है?
+Where's my notebook?	Wo ist mein Notizbuch?	मेरा नोटबुक कहाँ है?
+Where's my suitcase?	Wo ist mein Koffer?	मेरा सूटकेस कहाँ है?
+Where's my umbrella?	Wo ist mein Regenschirm?	मेरा छाता कहाँ है?
+Where's the library?	Wo ist die Bibliothek?	लाइब्रेरी कहाँ है?
+Where's the teacher?	Wo ist der Lehrer?	शिक्षक कहाँ है?
+Where's your family?	Wo ist deine Familie?	तुम्हारा परिवार कहाँ है?
