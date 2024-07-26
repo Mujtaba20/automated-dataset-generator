@@ -1,14 +1,4 @@
 
-What's in this box?	Was ist in dieser Kiste?	इस बॉक्स में क्या है?
-What's in this box?	Was ist in dieser Schachtel?	इस बॉक्स में क्या है?
-What's in your car?	Was ist in deinem Auto?	आपकी कार में क्या है?
-What's in your car?	Was ist in eurem Auto?	आपकी कार में क्या है?
-What's in your car?	Was ist in Ihrem Auto?	आपकी कार में क्या है?
-What's it good for?	Wofür ist es gut?	यह अच्छा क्यों है?
-What's it good for?	Wofür ist sie gut?	यह अच्छा क्यों है?
-What's it good for?	Wofür ist er gut?	यह अच्छा क्यों है?
-What's not to like?	Was ist da nicht zu mögen?	वहां क्या पसंद नहीं किया जाना है?
-What's stopping us?	Was hält uns auf?	हमें क्या रोकता है?
 What's that called?	Wie nennt sich das?	किसे कहते है?
 What's that number?	Was ist das für eine Zahl?	वह किस तरह की संख्या है?
 What's the problem?	Wo ist das Problem?	समस्या कहाँ है?

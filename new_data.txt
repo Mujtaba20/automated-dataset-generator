@@ -24577,3 +24577,8 @@ What's bugging you?	Was belästigt dich?	तुम्हें क्या प�
 What's for dessert?	Was gibt es zum Nachtisch?	डेजर्ट में क्या है?
 What's in the file?	Was ist in der Datei?	फाइल में क्या है?
 What's in this bag?	Was ist in dieser Tasche?	इस बैग में क्या है?
+What's in this box?	Was ist in dieser Schachtel?	इस बॉक्स में क्या है?
+What's in your car?	Was ist in deinem Fahrzeug?	तुम्हारे वाहन में क्या है?
+What's it good for?	Wozu taugt es?	यह किसके लिए उपयोगी है?
+What's not to like?	Was gibt es nicht zu mögen?	पसंद न करने वाली कोई चीज़ क्या है?
+What's stopping us?	Was hält uns auf?	हमें क्यों रोक रहा है?
