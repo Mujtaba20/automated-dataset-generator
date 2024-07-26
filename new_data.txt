@@ -34594,3 +34594,13 @@ Tom isn't very funny.	Tom ist nicht sehr lustig.	टॉम बहुत मज�
 Tom isn't very smart.	Tom ist nicht sehr klug.	टॉम बहुत होशियार नहीं है।
 Tom isn't very tired.	Tom ist nicht sehr müde.	टॉम बहुत थका नहीं है।
 Tom isn't very tough.	Tom ist nicht sehr robust.	टॉम बहुत मजबूत नहीं है।
+Tom isn't very young.	Tom ist nicht sehr jung.	टॉम बहुत जवान नहीं है।
+Tom isn't well today.	Tom geht es heute nicht gut.	टॉम आज ठीक नहीं है।
+Tom jumped overboard.	Tom sprang über Bord.	टॉम ने जलस्रोत से छलांग लगाई।
+Tom just kept eating.	Tom aß einfach weiter.	टॉम बस खाता रहा।
+Tom just went inside.	Tom ging einfach hinein.	टॉम बस अंदर चला गया।
+Tom kept his balance.	Tom hielt sein Gleichgewicht.	टॉम ने अपना संतुलन बनाए रखा।
+Tom kept his promise.	Tom hielt sein Versprechen.	टॉम ने अपना वादा निभाया।
+Tom kissed my cousin.	Tom küsste meine Cousine.	टॉम ने मेरी चचेरी को चुम्मा दिया।
+Tom knew I was ready.	Tom wusste, dass ich bereit war.	टॉम को मालूम था कि मैं तैयार था।
+Tom knew what to say.	Tom wusste, was er sagen soll.	टॉम को पता था कि क्या कहना है।
