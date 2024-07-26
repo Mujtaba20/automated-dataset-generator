@@ -30273,3 +30273,11 @@ You'll see it again.	Du wirst es wieder sehen.	तुम इसे फिर स
 You're a bad person.	Du bist eine schlechte Person.	तुम एक बुरे इंसान हो।
 You're a bright boy.	Du bist ein heller Junge.	तुम एक तेज लड़का हो।
 You're a funny girl.	Du bist ein lustiges Mädchen.	तुम एक मजेदार लड़की हो।
+You're a part of me.	Du bist ein Teil von mir.	तुम मेरे हिस्से हो।
+You're a workaholic.	Du bist ein Arbeitssüchtiger.	तुम मेहनती हो।
+You're all the same.	Ihr seid alle gleich.	तुम सब एक जैसे हो।
+You're almost right.	Du hast fast recht.	तुम लगभग सही हो।
+You're always drunk.	Du bist immer betrunken.	तुम हमेशा नशे में हो।
+You're always right.	Du liegst immer richtig.	तुम हमेशा सही हो।
+You're always tired.	Du bist immer müde.	तुम हमेशा थके हुए हो।
+You're cantankerous.	Du bist mürrisch.	तुम चिड़चिड़े हो।
