@@ -1,17 +1,4 @@
 
-What are you writing?	Was schreibst du?	आप क्या लिख ​​रहे हो?
-What are you writing?	Was schreibst du gerade?	अभी आप क्या लिख ​​रहे हैं
-What are you writing?	Was schreiben Sie?	आप क्या लिख ​​रहे हो?
-What are you writing?	Was schreibt ihr?	आप क्या लिख ​​रहे हो?
-What are your duties?	Wie lauten deine Pflichten?	आपके कर्तव्य क्या हैं?
-What are your orders?	Was sind deine Anweisungen?	आपके निर्देश क्या हैं?
-What are your wishes?	Was wünschen Sie?	आप क्या चाहते हैं?
-What are your wishes?	Was wünschst du?	आप क्या चाहते हैं?
-What are your wishes?	Was wünscht ihr?	आप क्या चाहते हैं?
-What brings you here?	Was treibt dich denn hierher?	आप यहाँ क्या ड्राइव करते हैं?
-What brings you here?	Was führt dich her?	आप यहाँ क्या लेकर आये हो?
-What brings you here?	Was führt Sie her?	क्या आप से नेतृत्व करता है?
-What brings you here?	Was führt euch her?	आपको क्या ले जाता है?
 What can you give me?	Was kannst du mir geben?	आपसे मुझे क्या मिल सकता है
 What can you give me?	Was können Sie mir geben?	आपसे मुझे क्या मिल सकता है?
 What can you give me?	Was könnt ihr mir geben?	आपसे मुझे क्या मिल सकता है?

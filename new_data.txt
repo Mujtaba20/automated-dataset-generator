@@ -35357,3 +35357,9 @@ What are you good at?	Was macht dir Spaß?	तुम्हें क्या �
 What are you reading?	Was liest du?	तुम क्या पढ़ रहे हो?
 What are you selling?	Was verkaufst du?	तुम क्या बेच रहे हो?
 What are you wearing?	Was trägst du?	तुम क्या पहन रहे हो?
+What are you writing?	Was schreibst du?	तुम क्या लिख रहे हो?
+What are your duties?	Was sind deine Pflichten?	तुम्हारे क्या कर्तव्य हैं?
+What are your orders?	Was sind deine Befehle?	तुम्हारे आदेश क्या हैं?
+What are your wishes?	Was sind deine Wünsche?	तुम्हारी इच्छाएं क्या हैं?
+What brings you here?	Was bringt dich hierher?	तुम्हें यहाँ क्या लाया है?
+What are you writing?_1	Was schreibst du?	तुम क्या लिख रहे हो?
