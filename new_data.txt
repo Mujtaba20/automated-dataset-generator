@@ -25613,3 +25613,12 @@ He cannot be a poet.	Er kann kein Dichter sein.	वह कवि नहीं �
 He changed his mind.	Er hat seine Meinung geändert.	उसने अपना दृष्टिकोण बदल दिया।
 He chased the thief.	Er jagte den Dieb.	उसने चोर का पीछा किया।
 He climbed Mt. Fuji.	Er bestieg den Berg Fuji.	उसने एमटी फूजी पर चढ़ाई की।
+He comes from Wales.	Er kommt aus Wales.	वह वेल्स से आता है।
+He cooked me dinner.	Er hat mir Abendessen gekocht.	उसने मुझे रात का खाना बनाया।
+He crossed his legs.	Er hat die Beine übereinandergelegt.	उसने अपने पैर चौड़ी की थी।
+He denied the rumor.	Er leugnete das Gerücht.	उसने अफवाह का इनकार किया।
+He designed the car.	Er hat das Auto entworfen.	उसने गाड़ी का डिजाइन किया।
+He did it for money.	Er hat es für Geld gemacht.	उसने इसे पैसे के लिए किया।
+He did it willingly.	Er tat es freiwillig.	उसने यह मनस्कता से किया।
+He did the opposite.	Er tat das Gegenteil.	उसने विपरीत किया।
+He didn't know that.	Er wusste das nicht.	उसे उसका पता नहीं था।

@@ -1,15 +1,4 @@
 
-He comes from Wales.	Er kommt aus Wales.	वह वेल्स से आता है।
-He cooked me dinner.	Er bereitete mir das Abendessen zu.	उसने मुझे रात का खाना तैयार किया।
-He crossed his legs.	Er schlug seine Beine übereinander.	उसने अपने पैरों को एक दूसरे के ऊपर मारा।
-He denied the rumor.	Er entkräftete das Gerücht.	उन्होंने अफवाह को अमान्य कर दिया।
-He denied the rumor.	Er hat das Gerücht von sich gewiesen.	उन्होंने अफवाह दिखाई।
-He designed the car.	Er hat das Auto entworfen.	उन्होंने कार डिजाइन की।
-He did it for money.	Er hat das für Geld gemacht.	उसने पैसे के लिए ऐसा किया।
-He did it willingly.	Er hat es gern gemacht.	उसे करना पसंद था।
-He did the opposite.	Er tat das Gegenteil.	उसने इसके विपरीत किया।
-He didn't know that.	Das wusste er nicht.	वह नहीं जानता था।
-He didn't know that.	Er wusste es nicht.	उसे पता नहीं था।
 He died a happy man.	Er starb als glücklicher Mann.	वह एक खुश आदमी के रूप में मर गया।
 He died a sad death.	Er starb eines traurigen Todes.	वह एक दुखद मौत से मर गया।
 He does not like us.	Er mag uns nicht.	वह हमें पसंद नहीं करता।
