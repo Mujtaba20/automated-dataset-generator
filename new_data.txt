@@ -24639,3 +24639,10 @@ Where did you work?	Wo hast du gearbeitet?	तुम कहाँ काम क�
 Where do I come in?	Wo komme ich ins Spiel?	मैं कहाँ आता हूँ?
 Where do I get off?	Wo muss ich aussteigen?	मुझे कहाँ उतरना है?
 Where do they live?	Wo wohnen sie?	वे कहाँ रहते हैं?
+Where do we go now?	Wohin gehen wir jetzt?	अब हम कहाँ जाएँ?
+Where does it hurt?	Wo tut es weh?	कहाँ दर्द हो रहा है?
+Where has Tom been?	Wo ist Tom gewesen?	टॉम कहाँ गया था?
+Where has Tom gone?	Wo ist Tom hingegangen?	टॉम कहाँ गया है?
+Where has she gone?	Wo ist sie hingegangen?	वह कहाँ गई है?
+Where is Tom going?	Wohin geht Tom?	टॉम कहाँ जा रहा है?
+Where is Tom's car?	Wo ist Toms Auto?	टॉम की कार कहाँ है?
