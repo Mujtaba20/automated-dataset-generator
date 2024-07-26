@@ -25963,3 +25963,9 @@ How old is this dog?	Wie alt ist dieser Hund?	यह कुत्ता कि�
 How old is this zoo?	Wie alt ist dieser Zoo?	यह चिड़ियाघर कितने साल का है?
 How old is your car?	Wie alt ist dein Auto?	तुम्हारी कार कितने साल की है?
 How old is your cat?	Wie alt ist deine Katze?	तुम्हारी बिल्ली कितने साल की है?
+How old is your dog?	Wie alt ist dein Hund?	तुम्हारे कुत्ते की उम्र कितनी है?
+How old is your son?	Wie alt ist dein Sohn?	तुम्हारे बेटे की उम्र कितनी है?
+How serious are you?	Wie ernst bist du?	तुम कितने गंभीर हो?
+How strange life is!	Wie seltsam das Leben ist!	कितना अजीब है जीवन!
+How was Tom's party?	Wie war Toms Party?	टॉम की पार्टी कैसी थी?
+How was the concert?	Wie war das Konzert?	कॉन्सर्ट कैसा था?

@@ -1,14 +1,4 @@
 
-How old is your dog?	Wie alt ist dein Hund?	आपके कुत्ते की क्या उम्र है?
-How old is your dog?	Wie alt ist Ihr Hund?	आपके कुत्ते की क्या उम्र है?
-How old is your dog?	Wie alt ist euer Hund?	आपके कुत्ते की क्या उम्र है?
-How old is your son?	Welches Alter hat Ihr Sohn?	आपके बेटे की क्या उम्र है?
-How serious are you?	Wie ernst meinst du das?	आपका कितना मतलब है?
-How serious are you?	Wie ernst meint ihr das?	आप कितनी गंभीरता से सोचते हैं?
-How serious are you?	Wie ernst meinen Sie das?	आपका कितना मतलब है?
-How strange life is!	Wie seltsam ist doch das Leben!	जीवन कितना अजीब है!
-How was Tom's party?	Wie war Toms Party?	टॉम की पार्टी कैसी थी?
-How was the concert?	Wie war das Konzert?	कॉन्सर्ट कैसा था?
 How was the wedding?	Wie war die Hochzeit?	शादी कैसी रही?
 How was your flight?	Wie war dein Flug?	आपकी उड़ान कैसी थी?
 How was your summer?	Wie war dein Sommer?	आपका गर्मी का मौसम कैसा था?
