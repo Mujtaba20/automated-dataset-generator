@@ -22401,3 +22401,11 @@ Italy isn't Greece.	Italien ist nicht Griechenland.	इटली ग्रीस
 Jam comes in a jar.	Marmelade kommt in einem Glas.	जाम एक जार में आता है।
 Judge for yourself.	Urteile selbst.	खुद ही निर्णय करें।
 engSentence	{'Just do what I say.': 'Tu einfach, was ich sage.', "Just don't drop it.": 'Lassen Sie es einfach nicht fallen.', 'Just get down here.': 'Komm einfach runter hier.', 'Just give it a try.': 'Versuch es einfach.', 'Just say yes or no.': 'Sag einfach ja oder nein.', 'Just start talking.': 'Fang einfach an zu reden.', 'Just throw it away.': 'Wirf es einfach weg.'}	{'Just do what I say.': 'बस वह करो जो मैं कहता हूँ।', "Just don't drop it.": 'बस इसे गिरा मत दो।', 'Just get down here.': 'बस यहाँ नीचे आ जाओ।', 'Just give it a try.': 'बस एक बार कोशिश करो।', 'Just say yes or no.': 'बस हाँ या ना कहो।', 'Just start talking.': 'बस बात करना शुरू करो।', 'Just throw it away.': 'बस इसे फेंक दो।'}
+Just water, please.	Nur Wasser bitte.	कृपया केवल पानी।
+Keep an eye on Tom.	Halten Sie ein Auge auf Tom.	टॉम पर ध्यान रखें।
+Watch out for Tom.	Achten Sie auf Tom.	टॉम के लिए सावधान रहें।
+Keep an eye on him.	Halten Sie ein Auge auf ihn.	उस पर ध्यान रखो।
+Keep off the grass.	Betreten Sie den Rasen nicht.	घास पर मत चलो।
+Keep your promises.	Halte deine Versprechen.	अपने वादे निभाओ।
+Knock yourself out.	Lass es dir gut gehen.	मस्त रहो।
+Laundry is a chore.	Wäsche ist eine lästige Pflicht.	कपड़े धोना मुश्किल है।
