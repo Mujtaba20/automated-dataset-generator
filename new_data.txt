@@ -29734,3 +29734,10 @@ We're very grateful.	Wir sind sehr dankbar.	हम बहुत ही कृत
 We're working on it.	Wir arbeiten daran.	हम इस पर काम कर रहे हैं।
 We've adopted a boy.	Wir haben einen Jungen adoptiert.	हमने एक लड़के को गोद लिया है।
 We've all done that.	Wir haben das alle gemacht.	हम सभी ने वह किया है।
+We've already begun.	Wir haben bereits begonnen.	हमने पहले ही शुरू कर दिया है।
+We've already eaten.	Wir haben bereits gegessen.	हमने पहले ही खाया है।
+We've got a problem.	Wir haben ein Problem.	हमारे पास एक समस्या है।
+We've got a visitor.	Wir haben einen Besucher.	हमारे पास एक आगंतुक है।
+We've got a witness.	Wir haben einen Zeugen.	हमारा एक साक्षी है।
+We've got no brakes!	Wir haben keine Bremsen!	हमारे पास कोई ब्रेक नहीं है!
+We've got no choice.	Wir haben keine Wahl.	हमारे पास कोई विकल्प नहीं है।
