@@ -35090,3 +35090,10 @@ Tom's voice was calm.	Toms Stimme war ruhig.	टॉम की आवाज़ �
 Tom's wife just died.	Toms Frau ist gerade gestorben.	टॉम की पत्नी अभी-अभी मर गई है।
 Tom's work is sloppy.	Toms Arbeit ist schlampig.	टॉम का काम बेढ़ब है।
 Tom, answer the door.	Tom, öffne die Tür.	टॉम, दरवाज़ा खोलो।
+Tom, can you hear me?	Tom, kannst du mich hören?	टॉम, क्या तुम मुझे सुन सकते हो?
+Tom, what do you say?	Tom, was sagst du?	टॉम, तुम क्या कह रहे हो?
+Tonight we celebrate.	Heute Abend feiern wir.	आज रात हम जश्न मनाते हैं।
+Trust your instincts.	Vertraue deinen Instinkten.	अपने अंतर्दृष्टि पर भरोसा करें।
+Trust your intuition.	Vertraue deiner Intuition.	अपने हाथ में भरोसा करें।
+Try harder next time.	Versuche es beim nächsten Mal härter.	अगली बार प्रयास करो।
+Try harder next time. (different meaning)	Nächstes Mal gib dein Bestes.	अगली बार अपना पूरा प्रयास करो।
