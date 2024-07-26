@@ -32314,3 +32314,13 @@ I work at an embassy.	Ich arbeite an einer Botschaft.	मैं एक दूत
 I work in Boston now.	Ich arbeite jetzt in Boston.	मैं अब बोस्टन में काम करता हूँ।
 I work in a hospital.	Ich arbeite in einem Krankenhaus.	मैं एक अस्पताल में काम करता हूँ।
 I worked a lot today.	Ich habe heute viel gearbeitet.	आज मैंने बहुत काम किया।
+I worried about that.	Ich sorgte mich darum.	मैंने उस बारे में चिंतित हुआ।
+I wouldn't bet on it.	Ich würde nicht darauf wetten.	मैं इस पर बाजी नहीं लगाऊँगा।
+I'd almost forgotten.	Ich hatte es fast vergessen.	मैं लगभग भूल गया था।
+I'd do it if I could.	Ich würde es tun, wenn ich könnte.	अगर मैं कर सकता तो मैं करता।
+I'd like a Manhattan.	Ich hätte gerne einen Manhattan.	मुझे एक मैनहट्टन चाहिए।
+I'd like some cheese.	Ich hätte gerne etwas Käse.	मुझे कुछ पनीर चाहिए।
+I'd like some coffee.	Ich hätte gerne etwas Kaffee.	मुझे थोड़ा कॉफी चाहिए।
+I'd like to be alone.	Ich wäre gerne allein.	मैं अकेला होना चाहूंगा।
+I'd like to help you.	Ich würde gerne helfen.	मैं आपकी मदद करना चाहूंगा।
+I'd like to assist you.	Ich würde gerne unterstützen.	मैं आपकी सहायता करना चाहूंगा।
