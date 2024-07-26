@@ -1,14 +1,4 @@
 
-I don't like your dad.	Ich mag deinen Vater nicht.	मुझे आपके पिता पसंद नहीं हैं।
-I don't like your dog.	Ich mag deinen Hund nicht.	मुझे आपका कुत्ता पसंद नहीं है।
-I don't like your dog.	Ich mag euren Hund nicht.	मुझे आपका कुत्ता पसंद नहीं है।
-I don't like your dog.	Ich mag Ihren Hund nicht.	मुझे आपका कुत्ता पसंद नहीं है।
-I don't like your hat.	Dein Hut gefällt mir nicht.	मुझे आपकी टोपी पसंद नहीं है।
-I don't like your hat.	Ihr Hut gefällt mir nicht.	मुझे उसकी टोपी पसंद नहीं है।
-I don't live with Tom.	Ich lebe nicht mit Tom.	मैं टॉम के साथ नहीं रहता।
-I don't mind doing it.	Es macht mir nichts aus, das zu tun.	मेरे लिए कोई फर्क नहीं पड़ता।
-I don't mind standing.	Es macht mir nichts aus zu stehen.	मेरे लिए कोई फर्क नहीं पड़ता।
-I don't mind the heat.	Mir macht die Hitze nichts aus.	गर्मी मेरे लिए कोई फर्क नहीं पड़ता।
 I don't need a doctor.	Ich brauche keinen Arzt.	मुझे डॉक्टर की जरूरत नहीं है।
 I don't need a reason.	Ich brauche keinen Grund.	मुझे एक कारण की आवश्यकता नहीं है।
 I don't need advisers.	Ich benötige keine Ratgeber.	मुझे किसी भी गाइड की जरूरत नहीं है।

@@ -37320,3 +37320,10 @@ I don't like to drive.	Ich mag es nicht zu fahren.	मुझे गाड़ी 
 I don't like to guess.	Ich mag es nicht zu raten.	मुझे अनुमान लगाना पसंद नहीं है।
 I don't like to laugh.	Ich mag es nicht zu lachen.	मुझे हंसना पसंद नहीं है।
 I don't like you, Tom.	Ich mag dich nicht, Tom.	मुझे तुम्हें पसंद नहीं है, टॉम।
+I don't like your dad.	Ich mag deinen Vater nicht.	मुझे तुम्हारे पिताजी पसंद नहीं हैं।
+I don't like your dog.	Ich mag deinen Hund nicht.	मुझे तुम्हारा कुत्ता पसंद नहीं है।
+I don't like your hat.	Ich mag deinen Hut nicht.	मुझे तुम्हारी टोपी पसंद नहीं है।
+I don't live with Tom.	Ich lebe nicht mit Tom.	मैं टॉम के साथ नहीं रहता।
+I don't mind doing it.	Es macht mir nichts aus, es zu tun.	मुझे इसे करने में कोई दिक्कत नहीं है।
+I don't mind standing.	Es macht mir nichts aus zu stehen.	मुझे खड़े रहने में कोई बात नहीं है।
+I don't mind the heat.	Mir macht die Hitze nichts aus.	मुझे गरमी से कोई परेशानी नहीं है।
