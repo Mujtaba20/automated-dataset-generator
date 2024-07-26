@@ -1,14 +1,4 @@
 
-I was waiting for you.	Ich habe auf dich gewartet.	मैं तुम्हारे लिए इंतज़ार कर रहा हुँ।
-I was waiting for you.	Ich habe auf Sie gewartet.	मैं आप के लिए इंतजार कर रहा हुँ।
-I was waiting for you.	Ich habe auf euch gewartet.	मुझे तुम्हारा इंतज़ार था।
-I was wrong about you.	Ich habe mich in dir getäuscht.	मैं तुम्हारे बारे में गलत था।
-I was wrong about you.	Ich habe mich in Ihnen getäuscht.	मैं उनमें गलत था।
-I was wrong about you.	Ich habe mich in euch getäuscht.	मैं आप में गलत था।
-I wasn't always happy.	Ich war nicht immer glücklich.	मैं हमेशा खुश नहीं था।
-I wasn't at home then.	Ich war da nicht zu Hause.	मैं वहां घर पर नहीं था।
-I wasn't disappointed.	Ich war nicht enttäuscht.	मैं निराश नहीं था।
-I wasn't driving fast.	Ich bin nicht schnell gefahren.	मैंने जल्दी से ड्राइव नहीं किया।
 I wasn't overly tired.	Ich war nicht allzu müde.	मैं बहुत थक नहीं था।
 I wasn't very nervous.	Ich war nicht sehr nervös.	मैं बहुत घबराया नहीं था।
 I wasn't very thirsty.	Ich war nicht sehr durstig.	मैं बहुत प्यासा नहीं था।
