@@ -36596,3 +36596,11 @@ Everything looks good.	Alles sieht gut aus.	सब कुछ अच्छी त
 Everything was stolen.	Alles wurde gestohlen.	सब कुछ चुराया गया था।
 Everything went black.	Alles wurde schwarz.	सब कुछ काला हो गया।
 Everything's changing.	Alles ändert sich.	सब कुछ बदल रहा है।
+Everything's in place.	Alles ist an seinem Platz.	सब कुछ स्थान पर है।
+Everything's so cheap.	Alles ist so billig.	सब कुछ इतनी सस्ती है।
+Expect the unexpected.	Erwarte das Unerwartete.	अप्रत्याशित की अपेक्षा करें।
+Expectations were low.	Die Erwartungen waren niedrig.	अपेक्षाएँ कम थीं।
+Fancy seeing you here.	Schön, dich hier zu sehen.	तुम्हें यहाँ देखकर अच्छा लगा।
+Fasten your seat belt.	Schnallen Sie Ihren Sicherheitsgurt an.	अपने सीट बेल्ट को बंद करें।
+Fasten your seatbelts.	Schnallt eure Sicherheitsgurte an.	अपनी सीट बेल्ट बाँधिए।
+Father drives to work.	Der Vater fährt zur Arbeit.	पिताजी काम के लिए जा रहे हैं।
