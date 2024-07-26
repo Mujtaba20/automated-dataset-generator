@@ -33254,3 +33254,9 @@ Please don't hang up.	Bitte leg nicht auf.	कृपया मत कट दो�
 Please don't hate me.	Bitte hasse mich nicht.	कृपया मुझे नफरत मत करो।
 Please don't hate me. - 2nd translation	Bitte verachte mich nicht.	कृपया मुझसे नराज़ मत हो।
 Please don't hurt me.	Bitte verletze mich nicht.	कृपया मुझे चोट ना लगाएं।
+Please don't kill me.	Bitte tötet mich nicht.	कृपया मुझे न मारें।
+Please don't mind me.	Bitte achten Sie nicht auf mich.	कृपया मुझे ध्यान में न रखें।
+Please eat some cake.	Bitte esse etwas Kuchen.	कृपया कुछ केक खाइए।
+Please eat something.	Bitte esse etwas.	कृपया कुछ खाइए।
+Please give it a try.	Bitte versuchen Sie es.	कृपया इसे कोशिश करें।
+Please give me a hug.	Bitte umarme mich.	कृपया मुझे एक गले लगाने से ग्रहण करें।

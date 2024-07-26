@@ -1,14 +1,4 @@
 
-Please don't kill me.	Bitte töte mich nicht.	कृपया मुझे मत मारो।
-Please don't kill me.	Bitte tötet mich nicht.	कृपया मुझे मत मारो।
-Please don't kill me.	Bitte töten Sie mich nicht.	कृपया मुझे मत मारो।
-Please don't mind me.	Lass dich von meiner Anwesenheit nicht irritieren.	मेरी उपस्थिति से चिढ़ मत बनो।
-Please eat some cake.	Bitte iss etwas Kuchen.	कृपया कुछ केक खाएं।
-Please eat some cake.	Bitte essen Sie etwas Kuchen.	कृपया कुछ केक खाएं।
-Please eat some cake.	Bitte esst etwas Kuchen.	कृपया कुछ केक खाएं।
-Please eat something.	Bitte iss etwas!	कृपया कुछ खाएं!
-Please give it a try.	Versuch’s doch bitte mal!	कृपया इसे आज़माएं!
-Please give me a hug.	Ich brauche eine Umarmung.	मुझे गले से लगा लो।
 Please help yourself.	Bitte bedienen Sie sich.	कृपया अपने आप की सेवा करें।
 Please insert a coin.	Bitte wirf eine Münze ein!	कृपया एक सिक्के में फेंक दें!
 Please insert a coin.	Bitte werfen Sie eine Münze ein!	कृपया एक सिक्के में फेंक दें!
