@@ -28439,3 +28439,13 @@ This is a newspaper.	Das ist eine Zeitung.	यह एक अखबार है�
 This is a nightmare.	Das ist ein Alptraum.	यह एक डरावना सपना है।
 This is a sick joke.	Das ist ein kranker Witz.	यह एक बीमार मजाक है।
 This is a sunflower.	Das ist eine Sonnenblume.	यह एक सूरजमुखी है।
+This is an ice cube.	Dies ist ein Eiswürfel.	यह एक बर्फ का खिलौना है।
+This is an old book.	Dies ist ein altes Buch.	यह एक पुरानी किताब है।
+This is complicated.	Das ist kompliziert.	यह जटिल है।
+This is good coffee.	Das ist guter Kaffee.	यह अच्छा कॉफ़ी है।
+This is good for me.	Das ist gut für mich.	यह मेरे लिए अच्छा है।
+This is good for us.	Das ist gut für uns.	यह हमारे लिए अच्छा है।
+This is grape juice.	Das ist Traubensaft.	यह अंगूर का रस है।
+This is her handbag.	Das ist ihre Handtasche.	यह उसकी हैंडबैग है।
+This is holy ground.	Dies ist heiliger Boden.	यह पवित्र भूमि है।
+This is insecticide.	Das ist Insektizid.	यह कीटनाशक है।

@@ -1,14 +1,4 @@
 
-This is an ice cube.	Das ist ein Eiswürfel.	यह एक आइस क्यूब है।
-This is an old book.	Dies ist ein altes Buch.	यह एक पुरानी किताब है।
-This is complicated.	Das ist kompliziert.	यह जटिल है।
-This is good coffee.	Dies ist ein guter Kaffee.	यह एक अच्छी कॉफी है।
-This is good for me.	Das ist gut für mich.	यह मेरे लिए अच्छा है।
-This is good for us.	Das ist gut für uns.	यह हमारे लिए अच्छा है।
-This is grape juice.	Das ist Traubensaft.	यह अंगूर का रस है।
-This is her handbag.	Das ist ihre Handtasche.	यह आपका हैंडबैग है।
-This is holy ground.	Das hier ist heiliger Boden.	यह पवित्र मिट्टी है।
-This is insecticide.	Das ist ein Insektenvernichtungsmittel.	यह एक कीट शेल्फ है।
 This is interesting.	Das ist interessant.	यह दिलचस्प है।
 This is intolerable.	Das kann man nicht tolerieren.	आप इसे बर्दाश्त नहीं कर सकते।
 This is just stupid.	Das ist einfach dämlich.	यह सिर्फ बेवकूफ है।
