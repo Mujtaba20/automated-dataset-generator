@@ -24021,3 +24021,13 @@ Tom talks to Mary.	Tom spricht mit Maria.	टॉम मेरी से बा�
 Tom talks too fast.	Tom redet zu schnell.	टॉम बहुत तेज़ बोलता है।
 Tom talks too much.	Tom redet zu viel.	टॉम बहुत बोलता है।
 Tom taught me that.	Tom hat mir das beigebracht.	टॉम ने मुझे यह सिखाया।
+Tom teaches French.	Tom unterrichtet Französisch.	टॉम फ्रेंच सिखाता है।
+Tom terrified Mary.	Tom erschreckte Mary.	टॉम ने मैरी को डरा दिया।
+Tom thanked us all.	Tom bedankte sich bei uns allen.	टॉम ने हम सभी का आभार प्रकट किया।
+Tom threw the ball.	Tom warf den Ball.	टॉम ने गेंद फेंकी।
+Tom tied his shoes.	Tom band seine Schuhe.	टॉम ने अपनी जूतियों को बांधा।
+Tom told me a joke.	Tom hat mir einen Witz erzählt.	टॉम ने मुझे एक चुटकुला बताया।
+Tom told the truth.	Tom sagte die Wahrheit.	टॉम ने सच कहा।
+Tom took Mary home.	Tom brachte Mary nach Hause.	टॉम ने मेरी को घर ले जाया।
+Tom took a day off.	Tom nahm sich einen freien Tag.	टॉम ने एक दिन की छुट्टी ली।
+Tom took a picture.	Tom machte ein Bild.	टॉम ने एक तस्वीर ली।
