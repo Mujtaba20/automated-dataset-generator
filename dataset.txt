@@ -1,14 +1,4 @@
 
-Tom is looking for you.	Tom sucht euch.	टॉम खुद की तलाश में है।
-Tom is loyal, isn't he?	Tom ist treu, nicht wahr?	टॉम वफादार है, है ना?
-Tom is lying, isn't he?	Tom lügt, nicht wahr?	टॉम झूठ, है ना?
-Tom is married to Mary.	Tom ist mit Maria verheiratet.	टॉम की शादी मारिया से हुई है।
-Tom is milking the cow.	Tom melkt die Kuh.	टॉम गाय को दूध देता है।
-Tom is milking the cow.	Tom melkt gerade die Kuh.	टॉम वर्तमान में गाय को दूध पिला रहा है।
-Tom is milking the cow.	Tom ist dabei, die Kuh zu melken.	टॉम गाय को दूध देने की प्रक्रिया में है।
-Tom is moody, isn't he?	Tom ist launisch, oder?	टॉम मूडी है, है ना?
-Tom is mowing his lawn.	Tom mäht seinen Rasen.	टॉम अपने लॉन को मात देता है।
-Tom is mowing the lawn.	Tom mäht den Rasen.	टॉम ने लॉन को मात दी।
 Tom is my ex-boyfriend.	Tom ist mein Exfreund.	टॉम मेरे पूर्व -बॉयफ्रेंड हैं।
 Tom is my half brother.	Tom ist mein Halbbruder.	टॉम मेरा आधा -ब्रोथर है।
 Tom is my half-brother.	Tom ist mein Halbbruder.	टॉम मेरा आधा -ब्रोथर है।
