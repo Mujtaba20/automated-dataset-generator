@@ -34418,3 +34418,13 @@ Tom is available now.	Tom ist jetzt verfügbar.	टॉम अब उपलब्
 Tom is bad at sports.	Tom ist schlecht in Sport.	टॉम खेल में बुरा है।
 Tom is badly wounded.	Tom ist schwer verletzt.	टॉम गंभीर रूप से घायल है।
 Tom is baking a cake.	Tom bäckt einen Kuchen.	टॉम एक केक बना रहा है।
+Tom is being ignored.	Tom wird ignoriert.	टॉम नजरअंदाज किया जा रहा है।
+Tom is being watched.	Tom wird beobachtet.	टॉम की निगरानी की जा रही है।
+Tom is brain damaged.	Tom hat eine Gehirnschädigung.	टॉम का मस्तिष्क क्षतिग्रस्त है।
+Tom is buying a suit.	Tom kauft einen Anzug.	टॉम एक सूट खरीद रहा है।
+Tom is carrying Mary.	Tom trägt Mary.	टॉम मैरी को उठाकर ले जा रहा है।
+Tom is chopping wood.	Tom hackt Holz.	टॉम लकड़ी काट रहा है।
+Tom is clearly upset.	Tom ist deutlich verärgert.	टॉम स्पष्ट रूप से उदास है।
+Tom is conscious now.	Tom ist jetzt bei Bewusstsein.	टॉम अब जागरूक है।
+Tom is dealing drugs.	Tom handelt mit Drogen.	टॉम ड्रग्स का व्यापार कर रहा है।
+Tom is doing penance.	Tom tut Buße.	टॉम पश्चाताप कर रहा है।

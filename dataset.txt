@@ -1,14 +1,4 @@
 
-Tom is being ignored.	Tom wird ignoriert.	टॉम को नजरअंदाज कर दिया जाता है।
-Tom is being watched.	Tom wird beobachtet.	टॉम मनाया जाता है।
-Tom is brain damaged.	Tom hat einen Hirnschaden.	टॉम को एक मस्तिष्क क्षति है।
-Tom is buying a suit.	Tom kauft sich einen Anzug.	टॉम एक सूट खरीदता है।
-Tom is carrying Mary.	Tom trägt Mary.	टॉम मैरी पहनता है।
-Tom is chopping wood.	Tom hackt Holz.	टॉम चॉप्स वुड।
-Tom is clearly upset.	Tom ist offensichtlich bestürzt.	टॉम स्पष्ट रूप से निराश है।
-Tom is conscious now.	Tom ist jetzt bei Bewusstsein.	टॉम अब चेतना के साथ है।
-Tom is dealing drugs.	Tom handelt mit Rauschgift.	टॉम ड्रग्स के साथ काम करता है।
-Tom is doing penance.	Tom tut Buße.	टॉम तपस्या करता है।
 Tom is enjoying life.	Tom genießt das Leben.	टॉम को जीवन का आनंद मिलता है।
 Tom is extra careful.	Tom ist besonders vorsichtig.	टॉम विशेष रूप से सावधान है।
 Tom is extremely fit.	Tom ist äußerst fit.	टॉम बेहद फिट है।
