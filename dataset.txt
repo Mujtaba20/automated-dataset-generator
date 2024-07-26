@@ -1,16 +1,4 @@
 
-We need more sugar.	Wir brauchen mehr Zucker.	हमें अधिक चीनी की जरूरत है।
-We need some money.	Wir brauchen Geld.	हमें पैसा चाहिए।
-We need that money.	Wir brauchen Geld.	हमें पैसा चाहिए।
-We need to do more.	Wir müssen mehr tun.	हमें और अधिक करना होगा।
-We need to do more.	Wir müssen mehr machen.	हमें और अधिक करना होगा।
-We need to do this.	Wir müssen das machen.	हमें ऐसा करना होगा।
-We need volunteers.	Wir brauchen Freiwillige.	हमें स्वयंसेवकों की आवश्यकता है।
-We ran in the park.	Wir rannten im Park.	हम पार्क में भागे।
-We ran out of food.	Uns ging das Essen aus.	खाना बाहर चला गया।
-We ran out of food.	Uns ging die Nahrung aus.	खाना बाहर चला गया।
-We ran out of food.	Uns ist das Essen ausgegangen.	हम भोजन से बाहर भाग गए।
-We ran out of food.	Uns ist die Nahrung ausgegangen.	हम भोजन से बाहर भाग गए।
 We really need you.	Wir brauchen dich wirklich.	हमें वास्तव में आपकी जरूरत है।
 We saw this coming.	Das haben wir kommen gesehen.	हमने देखा कि।
 We saw you come in.	Wir haben dich hereinkommen gesehen.	हमने आपको अंदर देखा।

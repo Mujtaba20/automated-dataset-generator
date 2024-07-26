@@ -24327,3 +24327,11 @@ We mustn't do that.	Das dürfen wir nicht tun.	हमें ऐसा नही�
 We need each other.	Wir brauchen einander.	हमें एक-दूसरे की आवश्यकता है।
 We need extra help.	Wir brauchen zusätzliche Hilfe.	हमें अतिरिक्त सहायता की आवश्यकता है।
 We need more space.	Wir brauchen mehr Platz.	हमें और जगह की आवश्यकता है।
+We need more sugar.	Wir brauchen mehr Zucker.	हमें और चीनी चाहिए।
+We need some money.	Wir brauchen etwas Geld.	हमें कुछ पैसे चाहिए।
+We need that money.	Wir brauchen dieses Geld.	हमें उसे पैसे चाहिए।
+We need to do more.	Wir müssen mehr tun.	हमे और करना है।
+We need to do this.	Wir müssen das tun.	हमें यह करना है।
+We need volunteers.	Wir brauchen Freiwillige.	हमें स्वयंसेवकों की आवश्यकता है।
+We ran in the park.	Wir sind im Park gelaufen.	हम पार्क में दौड़े।
+We ran out of food.	Uns ist das Essen ausgegangen.	हमारा खाना खत्म हो गया।
