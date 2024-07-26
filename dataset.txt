@@ -1,14 +1,4 @@
 
-Tom isn't a bad person.	Tom ist kein schlechter Mensch.	टॉम एक बुरा व्यक्ति नहीं है।
-Tom isn't a journalist.	Tom ist kein Journalist.	टॉम एक पत्रकार नहीं है।
-Tom isn't a lawyer yet.	Tom ist noch kein Rechtsanwalt.	टॉम अभी तक वकील नहीं है।
-Tom isn't a lazy child.	Tom ist kein faules Kind.	टॉम एक आलसी बच्चा नहीं है।
-Tom isn't a vegetarian.	Tom ist kein Vegetarier.	टॉम शाकाहारी नहीं है।
-Tom isn't afraid of us.	Tom fürchtet uns nicht.	टॉम डर नहीं है।
-Tom isn't always right.	Tom hat nicht immer recht.	टॉम हमेशा सही नहीं होता है।
-Tom isn't always wrong.	Tom hat nicht immer unrecht.	टॉम हमेशा गलत नहीं होता।
-Tom isn't an alcoholic.	Tom ist kein Alkoholiker.	टॉम शराबी नहीं है।
-Tom isn't at the hotel.	Tom ist nicht im Hotel.	टॉम होटल में नहीं है।
 Tom isn't backing down.	Tom gibt nicht nach.	टॉम अंदर नहीं देता।
 Tom isn't bothering me.	Tom belästigt mich nicht.	टॉम मुझे परेशान नहीं करता है।
 Tom isn't busy anymore.	Tom ist nicht mehr beschäftigt.	टॉम अब व्यस्त नहीं है।
