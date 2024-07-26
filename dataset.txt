@@ -1,14 +1,4 @@
 
-How could I help it?	Wie könnte ich es ändern?	मैं इसे कैसे बदल सकता हूं?
-How deep is it here?	Wie tief ist es hier?	यहाँ कितना गहरा है?
-How did Tom do that?	Wie hat Tom das gemacht?	टॉम ने ऐसा कैसे किया?
-How did Tom do this?	Wie hat Tom das gemacht?	टॉम ने ऐसा कैसे किया?
-How did Tom find us?	Wie hat Tom uns gefunden?	टॉम ने हमें कैसे पाया?
-How did Tom respond?	Wie hat Tom reagiert?	टॉम ने कैसे प्रतिक्रिया दी?
-How did Tom respond?	Wie hat Tom geantwortet?	टॉम ने कैसे जवाब दिया?
-How did that happen?	Wie ist das passiert?	वह कैसे हुआ?
-How did the exam go?	Wie ist die Prüfung gelaufen?	परीक्षा कैसे हुई?
-How did the exam go?	Wie lief die Prüfung?	परीक्षा कैसे हुई?
 How did this happen?	Wie ist das passiert?	वह कैसे हुआ?
 How did you do this?	Wie haben Sie das gemacht?	आप ने वह कैसे किया?
 How did you find me?	Wie war ich?	मैं कैसा था?

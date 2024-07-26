@@ -25917,3 +25917,11 @@ How can Tom help us?	Wie kann Tom uns helfen?	टॉम हमें कैस�
 How can we help Tom?	Wie können wir Tom helfen?	हम टॉम की मदद कैसे कर सकते हैं?
 How can we prove it?	Wie können wir es beweisen?	हम इसे कैसे साबित कर सकते हैं?
 How can we save Tom?	Wie können wir Tom retten?	हम टॉम को कैसे बचा सकते हैं?
+How could I help it?	Wie könnte ich helfen?	मैं इसमें कैसे मदद कर सकता हूँ?
+How deep is it here?	Wie tief ist es hier?	यहाँ कितनी गहराई है?
+How did Tom do that?	Wie hat Tom das gemacht?	टॉम ने ऐसा कैसे किया?
+How did Tom do this?	Wie hat Tom das getan?	टॉम ने यह कैसे किया?
+How did Tom find us?	Wie hat Tom uns gefunden?	टॉम ने हमें कैसे ढूंढा?
+How did Tom respond?	Wie hat Tom reagiert?	टॉम ने कैसे प्रतिक्रिया दी?
+How did that happen?	Wie ist das passiert?	यह कैसे हुआ?
+How did the exam go?	Wie ist die Prüfung gelaufen?	परीक्षा कैसे हुई?
