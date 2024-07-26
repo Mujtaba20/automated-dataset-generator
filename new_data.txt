@@ -38494,3 +38494,11 @@ It happens to me, too.	Es passiert auch mir.	यह मेरे साथ भ�
 It has been confirmed.	Es wurde bestätigt.	यह स्थापित हो गया है।
 It has been wonderful.	Es war wunderbar.	यह बहुत शानदार रहा है।
 It is a very sad tale.	Es ist eine sehr traurige Geschichte.	यह एक बहुत ही दुःखद कहानी है।
+It is beyond my power.	Es liegt außerhalb meiner Macht.	यह मेरी शक्ति से अधिक है।
+It is good to see you.	Es freut mich, dich zu treffen.	तुम्हें देखकर खुशी हुई।
+It is highly improper.	Es ist höchst unangemessen.	यह बहुत अनुचित है।
+It is of little value.	Es ist von geringem Wert.	यह कम मूल्यवान है।
+It is too hot to work.	Es ist zu heiß zum Arbeiten.	काम करने के लिए बहुत गरम है।
+It is too warm for me.	Es ist mir zu warm.	मेरे लिए यह बहुत गर्म है।
+It is true in a sense.	Es ist in gewisser Weise wahr.	एक दृष्टि में यह सच है।
+It is very cold today.	Es ist heute sehr kalt.	आज बहुत ठंडा है।

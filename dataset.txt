@@ -1,14 +1,4 @@
 
-It is beyond my power.	Das steht nicht in meiner Macht.	वह मेरी शक्ति में नहीं है।
-It is good to see you.	Schön, dich zu sehen!	आपको देखकर अच्छा लगा!
-It is good to see you.	Es ist schön, dich zu sehen!	आपको देख के अच्छा लगा!
-It is highly improper.	Es ist äußerst unanständig.	यह बेहद अभद्र है।
-It is of little value.	Es hat nur geringen Wert.	इसका बहुत कम मूल्य है।
-It is of little value.	Es ist nur von geringem Wert.	यह केवल कम मूल्य का है।
-It is too hot to work.	Es ist zu heiß zum Arbeiten.	यह काम करने के लिए बहुत गर्म है।
-It is too warm for me.	Es ist zu warm für mich.	यह मेरे लिए बहुत गर्म है।
-It is true in a sense.	In gewisser Weise ist das wahr.	एक तरह से, यह सच है।
-It is very cold today.	Es ist heute sehr kalt.	आज बहुत सर्दी है।
 It is what I would do.	Das ist es, was ich täte.	यह वो है जो मैं करुंगा।
 It isn't at all clear.	Es ist überhaupt nicht klar.	यह बिल्कुल भी स्पष्ट नहीं है।
 It isn't here anymore.	Es ist nicht mehr hier.	यह अब यहाँ नहीं है।
