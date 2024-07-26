@@ -26639,3 +26639,11 @@ I saw her last week.	Ich habe sie letzte Woche gesehen.	मैंने पि�
 I saw her yesterday.	Ich habe sie gestern gesehen.	मैंने कल उसे देखा।
 I saw one yesterday.	Ich habe gestern eins gesehen.	मैंने कल एक देखा।
 I saw the boat sink.	Ich sah das Boot sinken.	मैंने नौका डूबते हुए देखा।
+I saw you yesterday.	Ich habe dich gestern gesehen.	मैंने कल तुम्हें देखा।
+I second the motion.	Ich unterstütze den Antrag.	मैं मोशन का समर्थन करता हूं।
+I see how you study.	Ich sehe, wie du lernst.	मैं देखता हूं कि तुम कैसे पढ़ते हो।
+I see what you mean.	Ich verstehe, was du meinst.	मैं समझता हूं तुम क्या कहना चाहते हो।
+I see you are awake.	Ich sehe, du bist wach.	मैं देख रहा हूँ कि तुम जाग रहे हो।
+I see you are ready.	Ich sehe, du bist bereit.	मैं देख रहा हूँ कि तुम तैयार हो।
+I seldom drink beer.	Ich trinke selten Bier.	मैं शराब बहुत कम पीता हूँ।
+I sent you a letter.	Ich habe dir einen Brief geschickt.	मैंने तुम्हें एक पत्र भेजा है।
