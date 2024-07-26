@@ -40959,3 +40959,13 @@ Tom's shirt is drying.	Toms Hemd trocknet.	टॉम की कमीज सु�
 Tom's shoes are dirty.	Toms Schuhe sind schmutzig.	टॉम के जूते गंदे हैं।
 Tom's socks are dirty.	Toms Socken sind schmutzig.	टॉम के मोजे गंदे हैं।
 Tom's speech bored me.	Toms Rede hat mich gelangweilt.	टॉम का भाषण मुझे बोर कर दिया।
+Tom's stomach growled.	Toms Magen knurrte.	टॉम का पेट गरजा।
+Tom's strategy worked.	Toms Strategie hat funktioniert.	टॉम की योजना काम कर गई।
+Tom's very, very good.	Tom ist sehr, sehr gut.	टॉम बहुत ही अच्छे हैं।
+Tom's very, very good. (Different meaning)	Toms sehr gut, sehr gut.	टॉम बहुत ही अच्छे हैं।
+Tom, I need your help.	Tom, ich brauche deine Hilfe.	टॉम, मुझे तुम्हारी मदद चाहिए।
+Tom, I need your help. (Different meaning)	Tom, ich brauche deine Unterstützung.	टॉम, मुझे तुम्हारे सहायता की आवश्यकता है।
+Tom, are you in there?	Tom, bist du da drin?	टॉम, तुम वहाँ हो?
+Tom, the pizza's here.	Tom, die Pizza ist da.	टॉम, पिज़्ज़ा यहाँ है।
+Tom, watch your mouth!	Tom, halt den Mund!	टॉम, अपना मुँह देखो!
+Tomorrow is Christmas.	Morgen ist Weihnachten.	कल क्रिसमस है।

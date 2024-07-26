@@ -1,14 +1,4 @@
 
-Tom's stomach growled.	Toms Magen knurrte.	टॉम का पेट बढ़ता है।
-Tom's strategy worked.	Toms Strategie hat funktioniert.	टॉम की रणनीति ने काम किया।
-Tom's very, very good.	Tom ist sehr, sehr gut.	टॉम बहुत, बहुत अच्छा है।
-Tom's very, very good.	Tom ist sehr, sehr brav.	टॉम बहुत, बहुत अच्छा है।
-Tom, I need your help.	Tom, ich brauche deine Hilfe.	टॉम, मुझे आपकी मदद चाहिए।
-Tom, I need your help.	Tom, ich brauche Ihre Hilfe.	टॉम, मुझे आपकी मदद चाहिए।
-Tom, are you in there?	Tom, bist du da drin?	टॉम, क्या तुम वहाँ हो?
-Tom, the pizza's here.	Tom, die Pizza ist da!	टॉम, पिज्जा यहाँ है!
-Tom, watch your mouth!	Hüte deine Zunge, Tom!	अपनी जीभ, टॉम!
-Tomorrow is Christmas.	Morgen ist Weihnachten.	कल क्रिसमस है।
 Tomorrow is a day off.	Morgen ist ein freier Tag.	कल एक दिन की छुट्टी है।
 Tomorrow is a new day.	Morgen ist ein neuer Tag.	कल एक नया दिन है।
 Tomorrow's my day off.	Morgen ist mein freier Tag.	कल मेरा दिन बंद है।
