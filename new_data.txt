@@ -39499,3 +39499,12 @@ The meat has gone bad.	Das Fleisch ist schlecht geworden.	मांस खरा
 The meat is expensive.	Das Fleisch ist teuer.	मांस महंगा है।
 The milk has gone bad.	Die Milch ist schlecht geworden.	दूध खराब हो गया है।
 The money disappeared.	Das Geld ist verschwunden.	पैसे गायब हो गए हैं।
+The moon has come out.	Der Mond ist herausgekommen.	चांद निकल आया है।
+The moon is beautiful.	Der Mond ist schön.	चांद सुंदर है।
+The more, the merrier.	Je mehr, desto besser.	जितने अधिक, उतना ही अच्छा।
+The more, the merrier. - Different Meaning	Mehr ist mehr.	ज्यादा है, ज्यादा ही है।
+The morning was clear.	Der Morgen war klar.	सुबह साफ थी।
+The mountain is green.	Der Berg ist grün.	पहाड़ हरा है।
+The music is too loud.	Die Musik ist zu laut.	संगीत बहुत जोर से बज रहा है।
+The news made her sad.	Die Nachricht hat sie traurig gemacht.	समाचार ने उसे उदास कर दिया।
+The noise woke her up.	Der Lärm weckte sie auf.	शोर ने उसे जगाया।
