@@ -1,14 +1,4 @@
 
-Do you think I'm blind?	Glaubst du, ich sei blind?	क्या आपको लगता है कि मैं अंधा हूं?
-Do you think I'm blind?	Glaubt ihr, ich sei blind?	क्या आपको लगता है कि मैं अंधा हूं?
-Do you think I'm blind?	Glauben Sie, ich sei blind?	क्या आपको लगता है कि मैं अंधा हूं?
-Do you think I'm crazy?	Denkt ihr, ich sei verrückt?	क्या आपको लगता है कि मैं पागल हूं?
-Do you think I'm crazy?	Glauben Sie, ich sei verrückt?	क्या आपको लगता है कि मैं पागल हूं?
-Do you think I'm crazy?	Haltet ihr mich für verrückt?	क्या आपको लगता है कि मैं पागल हूं?
-Do you think I'm crazy?	Halten Sie mich für verrückt?	क्या आप मुझे पागल मानते हैं?
-Do you think I'm crazy?	Hältst du mich für verrückt?	क्या आपको लगता है कि मैं पागल था?
-Do you think I'm happy?	Glaubst du, ich bin glücklich?	क्या आपको लगता है कि मैं खुश हूं?
-Do you think Tom is OK?	Denkst du, Tom ist in Ordnung?	क्या आपको लगता है कि टॉम ठीक है?
 Do you think Tom knows?	Denkst du, Tom weiß es?	क्या आपको लगता है कि टॉम जानता है?
 Do you think in French?	Denkst du auf Französisch?	क्या आप फ्रेंच में सोचते हैं?
 Do you think it likely?	Denkst du, dass so eine Sache möglich ist?	क्या आपको लगता है कि ऐसी बात संभव है?
