@@ -25092,3 +25092,13 @@ Are these all yours?	Sind das alles deine?	क्या ये सब तेर�
 Are they still here?	Sind sie noch hier?	क्या वे अभी भी यहाँ हैं?
 Are those new shoes?	Sind das neue Schuhe?	क्या वो नए जूते हैं?
 Are those your bags?	Sind das deine Taschen?	क्या वो तुम्हारी बस्ते हैं?
+Are those your kids?	Sind das deine Kinder?	क्या वे तुम्हारे बच्चे हैं?
+Are we being chased?	Werden wir verfolgt?	क्या हम पीछा किये जा रहे हैं?
+Are we going to win?	Werden wir gewinnen?	क्या हम जीतने वाले हैं?
+Are we just friends?	Sind wir nur Freunde?	क्या हम सिर्फ दोस्त हैं?
+Are we leaving soon?	Gehen wir bald weg?	क्या हम जल्दी चले जा रहे हैं?
+Are we ready for it?	Sind wir bereit dafür?	क्या हम इसके लिए तैयार हैं?
+Are we safe in here?	Sind wir hier sicher?	क्या हम यहाँ सुरक्षित हैं?
+Are you a good cook?	Bist du ein guter Koch?	क्या तुम अच्छे रसोइये हो?
+Are you a policeman?	Bist du ein Polizist?	क्या तुम पुलिसवाला हो?
+Are you about ready?	Bist du etwa bereit?	क्या तुम लगभग तैयार हो?
