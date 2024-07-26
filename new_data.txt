@@ -33854,3 +33854,12 @@ They will understand.	Sie werden verstehen.	वह समझेंगे।
 They won't come back.	Sie werden nicht zurückkommen.	वे वापस नहीं आएंगे।
 They'll be back soon.	Sie werden bald zurück sein.	वे जल्द ही वापस आएंगे।
 They're Tom and Mary.	Sie sind Tom und Mary.	वे टॉम और मेरी हैं।
+They're able to sing.	Sie können singen.	उन्हें गाने की क्षमता है।
+They're afraid of me.	Sie haben Angst vor mir.	उन्हें मुझसे डर लगता है।
+They're afraid of us.	Sie haben Angst vor uns.	उन्हें हम से डर लगता है।
+They're all tourists.	Sie sind alle Touristen.	वे सभी पर्यटक हैं।
+They're already here.	Sie sind bereits hier.	वे पहले से यहाँ हैं।
+They're always wrong.	Sie liegen immer falsch.	वे हमेशा गलत हैं।
+They're best friends.	Sie sind beste Freunde.	वे सबसे अच्छे दोस्त हैं।
+They're closed today.	Sie sind heute geschlossen.	आज वे बंद हैं।
+They're coming again.	Sie kommen erneut.	वे फिर से आ रहे हैं।
