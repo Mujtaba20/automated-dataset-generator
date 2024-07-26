@@ -28235,3 +28235,13 @@ The news shocked me.	Die Nachrichten haben mich schockiert.	समाचार �
 The pantry is empty.	Der Vorratsschrank ist leer.	पैंट्री खाली है।
 The pay is terrible.	Das Gehalt ist schrecklich.	वेतन भयानक है।
 The people fear war.	Die Menschen fürchten den Krieg.	लोग युद्ध से डरते हैं।
+The pie's delicious.	Der Kuchen ist köstlich.	पाई बहुत स्वादिष्ट है।
+The plan has failed.	Der Plan ist gescheitert.	योजना सफल नहीं हुई।
+The plane flew east.	Das Flugzeug flog nach Osten.	विमान पूरब की ओर उड़ा।
+The police are here.	Die Polizei ist hier.	पुलिस यहाँ है।
+The pond froze over.	Der Teich froren über.	तालाब सर्दी से बंद हो गया।
+The pond was frozen.	Der Teich war gefroren.	तालाब जम गया था।
+The rest is perfect.	Der Rest ist perfekt.	शेष सही है।
+The river has risen.	Der Fluss ist gestiegen.	नदी उठ गई है।
+The room was locked.	Das Zimmer war verschlossen.	कमरा बंद था।
+The room was packed.	Das Zimmer war überfüllt.	कमरा भरा हुआ था।

@@ -1,14 +1,4 @@
 
-The pie's delicious.	Der Kuchen ist köstlich.	केक बहुत स्वादिष्ट हे।
-The plan has failed.	Der Plan ging daneben.	योजना गलत हो गई।
-The plane flew east.	Das Flugzeug flog nach Osten.	विमान पूर्व में उड़ गया।
-The police are here.	Die Polizei ist hier.	पुलिस यहाँ है।
-The pond froze over.	Der Teich fror zu.	तालाब जम गया।
-The pond was frozen.	Der Teich war zugefroren.	तालाब जम गया था।
-The rest is perfect.	Alles Übrige ist einwandfrei.	बाकी सब निर्दोष है।
-The river has risen.	Der Fluss ist gestiegen.	नदी बढ़ गई है।
-The room was locked.	Das Zimmer war abgeschlossen.	कमरा पूरा हो गया था।
-The room was packed.	Der Saal war rappelvoll.	हॉल जाम -पका हुआ था।
 The scar is healing.	Die Narbe verheilt.	निशान को ठीक कर दिया।
 The server was down.	Der Server war ausgefallen.	सर्वर विफल रहा।
 The ship is sinking.	Das Schiff sinkt.	जहाज डूब रहा है।
