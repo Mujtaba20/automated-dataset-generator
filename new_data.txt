@@ -29358,3 +29358,11 @@ Tom was a brave man.	Tom war ein tapferer Mann.	टॉम एक बहादु
 Tom was a class act.	Tom war ein Klasse-Act.	टॉम एक क्लास के काम करता था।
 Tom was a real hero.	Tom war ein echter Held.	टॉम एक वास्तविक नायक था।
 Tom was alone there.	Tom war dort alleine.	टॉम वहाँ अकेला था।
+Tom was always busy.	Tom war immer beschäftigt.	टॉम हमेशा व्यस्त था।
+Tom was an attorney.	Tom war Rechtsanwalt.	टॉम एक वकील था।
+Tom was belligerent.	Tom war kriegerisch.	टॉम युद्धरत था।
+Tom was daydreaming.	Tom hat geträumt.	टॉम सोचने में था।
+Tom was embarrassed.	Tom war verlegen.	टॉम शर्मिंदा था।
+Tom was fast asleep.	Tom war tief eingeschlafen.	टॉम गहरी नींद में था।
+Tom was half-asleep.	Tom war halb eingeschlafen.	टॉम आधी नींद में था।
+Tom was heartbroken.	Tom war untröstlich.	टॉम दिल टूटा हुआ था।
