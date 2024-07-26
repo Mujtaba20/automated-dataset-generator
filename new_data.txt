@@ -31295,3 +31295,8 @@ How did Tom find out?	Wie hat Tom es herausgefunden?	टॉमे ने कै�
 How did Tom find you?	Wie hat Tom dich gefunden?	टॉमे ने तुम्हें कैसे ढूंढा?
 How did Tom get hurt?	Wie hat sich Tom verletzt?	टॉमे को कैसे चोट आई?
 How did the party go?	Wie ist die Party verlaufen?	पार्टी कैसी रही?
+How did they do that?	Wie haben sie das gemacht?	वे ऐसा कैसे कर गए?
+How did they do this?	Wie haben sie das gemacht?	उन्होंने यह कैसे किया था?
+How did you find Tom?	Wie hast du Tom gefunden?	तुमने टॉम को कैसे ढूंढा?
+How did you find out?	Wie hast du das herausgefunden?	तुम्हें पता कैसे चला?
+How did you get here?	Wie bist du hierher gekommen?	तुम यहाँ कैसे पहुंचे?
