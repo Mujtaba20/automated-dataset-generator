@@ -35425,3 +35425,11 @@ What shall I do next?	Was soll ich als Nächstes tun?	मैं अगला क
 What should I do now?	Was sollte ich jetzt tun?	मैं अब क्या करूँ?
 What time is sunrise?	Um wie viel Uhr ist Sonnenaufgang?	सूर्योदय किस समय है?
 What was Tom wearing?	Was hat Tom angehabt?	टॉम ने क्या पहना हुआ था?
+What was the problem?	Was war das Problem?	यह समस्या क्या थी?
+What was your motive?	Was war Ihr Motiv?	आपका मकसद क्या था?
+What we need is help.	Was wir brauchen, ist Hilfe.	हमें जिसकी आवश्यकता है, वह मदद है।
+What were you saying?	Was haben Sie gesagt?	आप क्या कह रहे थे?
+What will you do now?	Was werden Sie jetzt tun?	अब आप क्या करेंगे?
+What you say is true.	Was du sagst, ist wahr.	जो तुम कहते हो, वह सच है।
+What'll become of me?	Was wird aus mir werden?	मेरा क्या होगा?
+What'll you be doing?	Was wirst du tun?	तुम क्या कर रहे हो?
