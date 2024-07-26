@@ -1,14 +1,4 @@
 
-I don't know that yet.	Das weiß ich noch nicht.	मुझे नहीं पता कि अभी तक।
-I don't know you guys.	Ich kenne euch nicht.	मैं आपको नहीं जानता।
-I don't like anything.	Ich mag nichts.	मुझे कुछ पसंद नहीं है।
-I don't like big dogs.	Ich mag große Hunde nicht.	मुझे बड़े कुत्ते पसंद नहीं हैं।
-I don't like broccoli.	Ich mag keinen Brokkoli.	मुझे ब्रोकोली पसंद नहीं है।
-I don't like drinking.	Ich mag Alkohol nicht.	मुझे शराब पसंद नहीं है।
-I don't like goodbyes.	Ich mag Abschiede nicht.	मुझे अलविदा कहना पसंद नहीं है।
-I don't like her face.	Ich mag ihr Gesicht nicht.	मुझे उसका चेहरा पसंद नहीं है।
-I don't like her face.	Mir gefällt ihr Gesicht nicht.	मुझे उसका चेहरा पसंद नहीं है।
-I don't like his type.	Ich mag seine Art nicht.	मुझे उसका रास्ता पसंद नहीं है।
 I don't like homework.	Ich mag keine Hausaufgaben.	मुझे होमवर्क पसंद नहीं है।
 I don't like it a bit.	Das gefällt mir überhaupt nicht.	मुझे यह पसंद नहीं है।
 I don't like licorice.	Ich mag kein Lakritz.	मुझे नद्यपान पसंद नहीं है।

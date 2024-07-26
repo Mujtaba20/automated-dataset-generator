@@ -37294,3 +37294,12 @@ I don't know anything.	Ich kenne nichts.	मुझे कुछ भी नही
 I don't know for sure.	Ich weiß es nicht sicher.	मुझे पूरी तरह से नहीं पता।
 I don't know his name.	Ich weiß seinen Namen nicht.	मुझे उसका नाम नहीं पता।
 I don't know how long.	Ich weiß nicht wie lange.	मुझे नहीं पता कितनी देर तक।
+I don't know that yet.	Ich weiß das noch nicht.	मुझे अभी तक यह नहीं पता।
+I don't know you guys.	Ich kenne euch nicht.	मैं तुम्हें नहीं जानता।
+I don't like anything.	Ich mag nichts.	मुझे कुछ भी नहीं पसंद।
+I don't like big dogs.	Ich mag keine großen Hunde.	मुझे बड़े कुत्ते पसंद नहीं हैं।
+I don't like broccoli.	Ich mag keinen Brokkoli.	मुझे ब्रोकोली पसंद नहीं है।
+I don't like drinking.	Ich trinke nicht gern.	मुझे पीना अच्छा नहीं लगता।
+I don't like goodbyes.	Ich mag keine Abschiede.	मुझे विदाई पसंद नहीं है।
+I don't like her face.	Ich mag ihr Gesicht nicht.	मुझे उसका चेहरा पसंद नहीं है।
+I don't like his type.	Ich mag seinen Typ nicht.	मुझे उसकी प्रकार पसंद नहीं है।
