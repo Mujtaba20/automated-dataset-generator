@@ -37508,3 +37508,12 @@ I have to go with Tom.	Ich muss mit Tom gehen.	मुझे टॉम के स
 I have to keep trying.	Ich muss weiter probieren.	मुझे कोशिश करते रहना है।
 I have to leave early.	Ich muss früh gehen.	मुझे जल्दी जाना है।
 I have to lose weight.	Ich muss abnehmen.	मुझे वजन कम करना है।
+I have to report this.	Ich muss das melden.	मुझे इसे रिपोर्ट करना होगा।
+I have to say goodbye.	Ich muss mich verabschieden.	मुझे अलविदा कहना है।
+I have to take a rest.	Ich muss mich ausruhen.	मुझे आराम करना होगा।
+I have to talk to Tom.	Ich muss mit Tom reden.	मुझे टॉम से बात करनी है।
+I have to wake Tom up.	Ich muss Tom wecken.	मुझे टॉम को जगाना है।
+I have to walk slowly.	Ich muss langsam gehen.	मुझे धीरे चलना है।
+I have very long hair.	Ich habe sehr langes Haar.	मेरे पास बहुत लम्बे बाल हैं।
+I haven't decided yet.	Ich habe noch nicht entschieden.	मैंने अभी तक निर्णय नहीं किया है।
+I haven't got all day.	Ich habe nicht den ganzen Tag.	मेरे पास पूरे दिन का समय नहीं है।
