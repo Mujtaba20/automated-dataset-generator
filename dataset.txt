@@ -1,14 +1,4 @@
 
-Why are you in Boston?	Warum bist du in Boston?	आप बोस्टन में क्यों हैं?
-Why are you so clumsy?	Warum bist du so ungeschickt?	आप इतने अजीब क्यों हैं?
-Why are you so stupid?	Warum bist du so blöd?	तुम इतना बेवकूफ क्यो हो?
-Why are your eyes red?	Warum hast du rote Augen?	आपके पास लाल आँखें क्यों हैं?
-Why are your eyes red?	Warum haben Sie rote Augen?	आपके पास लाल आँखें क्यों हैं?
-Why can't you get one?	Warum kannst du keins bekommen?	आपको कोई भी क्यों नहीं मिल सकता है?
-Why can't you help me?	Warum kannst du mir nicht helfen?	आप मेरी मदद क्यों नहीं कर सकते?
-Why did Tom interfere?	Warum hat sich Tom eingemischt?	टॉम ने हस्तक्षेप क्यों किया?
-Why did Tom kill Mary?	Warum hat Tom Maria umgebracht?	टॉम ने मारिया को क्यों मारा?
-Why did Tom leave you?	Warum hat Tom dich verlassen?	टॉम ने आपको क्यों छोड़ा?
 Why did they fire Tom?	Warum haben sie Tom rausgeworfen?	आपने टॉम को बाहर क्यों फेंक दिया?
 Why did they fire Tom?	Warum wurde Tom entlassen?	टॉम क्यों जारी किया गया था?
 Why did you back away?	Warum hast du einen Rückzieher gemacht?	आप वापस क्यों ले गए?
