@@ -1,15 +1,4 @@
 
-Tell Tom I'm ready.	Sag Tom, dass ich bereit bin.	टॉम कहो कि मैं तैयार हूं।
-Tell Tom I'm sorry.	Sag Tom, dass es mir leidtut.	टॉम कहो कि मैं पीड़ित था।
-Tell Tom the truth.	Sag Tom die Wahrheit.	टॉम सच बताओ।
-Tell me everything.	Erzähl mir alles.	मुझे सब कुछ बताएं।
-Tell me what to do.	Sag mir, was ich machen soll.	मुझे बताओ मुझे क्या करना चाहिए।
-Tell me what to do.	Sagt mir, was ich machen soll.	क्या करना है मुझे बताओ।
-Tell me what to do.	Sagen Sie mir, was ich machen soll.	क्या करना है मुझे बताओ।
-Tell me your names.	Sagt mir, wie ihr heißt.	मुझे बताओ कि उन्हें क्या कहा जाता है।
-Tell us what to do.	Sag uns, was wir tun sollen.	हमें बताएं कि क्या करना है।
-Tell us what to do.	Sagen Sie uns, was wir tun sollen.	हमें बताएं कि क्या करना है।
-Tell us what to do.	Sagt uns, was wir tun sollen.	हमें बताएं कि क्या करना है।
 Thank you for that.	Danke dafür.	इसके लिये धन्यवाद।
 Thank you for this.	Danke dafür.	इसके लिये धन्यवाद।
 Thanks for helping.	Danke für die Hilfe!	मदद के लिए धन्यवाद!

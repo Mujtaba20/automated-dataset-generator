@@ -22837,3 +22837,10 @@ Take what you want. (Different meaning)	Nehmen Sie, was Sie möchten.	जो आ
 Talk to my lawyers.	Sprechen Sie mit meinen Anwälten.	मेरे वकीलों से बात करें।
 Taxes are too high.	Steuern sind zu hoch.	कर बहुत उच्च हैं।
 Tell Tom I said hi.	Sag Tom, ich habe hallo gesagt.	टॉम को कहना कि मैंने हाय कहा।
+Tell Tom I'm ready.	Sage Tom, dass ich bereit bin.	टॉम को कहो, मैं तैयार हूँ।
+Tell Tom I'm sorry.	Sage Tom, dass es mir leid tut.	टॉम को कहो, मुझे खेद है।
+Tell Tom the truth.	Sage Tom die Wahrheit.	टॉम को सच बताओ।
+Tell me everything.	Sag mir alles.	मुझे सब कुछ बताओ।
+Tell me what to do.	Sag mir, was ich tun soll.	मुझे बताओ मैं क्या करूँ।
+Tell me your names.	Sag mir eure Namen.	मुझे अपने नाम बताओ।
+Tell us what to do.	Sagt uns, was wir tun sollen.	हमें बताओ कि हमें क्या करना चाहिए।
