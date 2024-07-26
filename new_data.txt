@@ -21985,3 +21985,11 @@ I'm making popcorn.	Ich mache Popcorn.	मैं पॉपकॉर्न बन
 I'm married to Tom.	Ich bin mit Tom verheiratet.	मैं टॉम से शादीशुदा हूँ।
 I'm missing a sock.	Mir fehlt eine Socke.	मुझे एक जूता खो गया है।
 I'm not a Canadian.	Ich bin kein Kanadier.	मैं कनाडियन नहीं हूँ।
+I'm not a criminal.	Ich bin kein Verbrecher.	मैं एक अपराधी नहीं हूँ।
+I'm not a magician.	Ich bin kein Zauberer.	मैं कोई जादूगर नहीं हूँ।
+I'm not a rich man.	Ich bin kein reicher Mann.	मैं एक धनवान आदमी नहीं हूँ।
+I'm not afraid now.	Ich habe jetzt keine Angst.	अब मुझे डर नहीं है।
+I'm not asking Tom.	Ich frage nicht Tom.	मैं टॉम से पूछ रहा हूँ नहीं।
+I'm not asleep yet.	Ich schlafe noch nicht.	मैं अभी तक सोया नहीं हूँ।
+I'm not courageous.	Ich bin nicht mutig.	मैं बहादुर नहीं हूँ।
+I'm not denying it.	Ich leugne es nicht.	मैं इसे इंकार नहीं कर रहा हूँ।

@@ -1,14 +1,4 @@
 
-I'm not a criminal.	Ich bin kein Krimineller.	मैं अपराधी नहीं हूं।
-I'm not a criminal.	Ich bin keine Kriminelle.	मैं अपराधी नहीं हूं।
-I'm not a magician.	Ich bin kein Zauberer.	मैं जादूगर नहीं हूं।
-I'm not a rich man.	Ich bin kein reicher Mann.	मैं एक अमीर आदमी नहीं हूं।
-I'm not afraid now.	Ich habe jetzt keine Angst.	मुझे अब डर नहीं है।
-I'm not asking Tom.	Ich frage Tom nicht.	मैं टॉम नहीं पूछता।
-I'm not asking Tom.	Ich frage nicht Tom.	मैं टॉम नहीं पूछता।
-I'm not asleep yet.	Ich schlafe noch nicht.	मैं अभी तक नहीं सो रहा हूं।
-I'm not courageous.	Ich bin nicht mutig.	मैं बहादुर नहीं हूं।
-I'm not denying it.	Ich streite es nicht ab.	मैं इससे इनकार नहीं करता।
 I'm not doing that.	Das tu ich nicht.	मैं नहीं।
 I'm not doing that.	Das werde ich nicht tun.	मैं उसे नहीं करूँगा।
 I'm not doing that.	Das tue ich nicht.	ऐसा नहीं करते।
