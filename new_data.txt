@@ -39304,3 +39304,12 @@ That didn't take long.	Das hat nicht lange gedauert.	उसने वक्त �
 That dog doesn't bite.	Der Hund beißt nicht.	वह कुत्ता काटता नहीं है।
 That dog is so stupid.	Der Hund ist so dumm.	वह कुत्ता बहुत मूर्ख है।
 That guy is an outlaw.	Dieser Kerl ist ein Gesetzloser.	वह आदमी एक बे-कानूनी है।
+That house is haunted.	Dieses Haus ist verlassen.	वह घर भूत लगता है।
+That is going too far.	Das geht zu weit.	वह ज्यादा दूर जा रहा है।
+That is my own affair.	Das ist meine eigene Angelegenheit.	वह मेरी अपनी बात है।
+That is too expensive.	Das ist zu teuer.	वह बहुत महंगा है।
+That isn't my problem.	Das ist nicht mein Problem.	वह मेरी समस्या नहीं है।
+That isn't your knife.	Das ist nicht dein Messer.	वह तुम्हारी चाकू नहीं है।
+That made me very sad.	Das hat mich sehr traurig gemacht.	वहने मुझे बहुत उदास किया।
+That man is a soldier.	Dieser Mann ist ein Soldat.	वह आदमी सैनिक है।
+That man was a wretch.	Dieser Mann war ein unglücklicher Mensch.	वह आदमी एक दु: खी था।
