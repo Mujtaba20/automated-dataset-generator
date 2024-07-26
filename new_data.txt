@@ -39796,3 +39796,10 @@ Those are Tom's shoes.	Das sind Toms Schuhe.	वे टॉम के जूत�
 Those are empty words.	Das sind leere Worte.	वह खाली शब्द हैं।
 Those are my trousers.	Das sind meine Hosen.	वो मेरे पतलून हैं।
 Those are their books.	Das sind ihre Bücher.	वो उनकी किताबें हैं।
+Those are your orders.	Das sind Ihre Anweisungen.	इसका मतलब क्या है।
+Those photos are hers.	Diese Fotos gehören ihr.	वो तस्वीरें उसकी हैं।
+Throw him in the brig.	Werfen Sie ihn in den Kerker.	उसे जेल में डालो।
+Throw the ball to Tom.	Werft den Ball zu Tom.	टॉम के लिए गेंद फेंको।
+Time cures all things.	Zeit heilt alle Wunden.	समय सभी चीजों को ठीक कर देता है।
+Time heals all wounds.	Die Zeit heilt alle Wunden.	समय सभी घावों को भर देता है।
+Time is getting short.	Die Zeit wird knapp.	समय कम हो रहा है।

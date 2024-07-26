@@ -1,15 +1,4 @@
 
-Those are your orders.	Das sind deine Bestellungen.	ये आपके आदेश हैं।
-Those are your orders.	Das sind deine Befehle.	ये आपके आज्ञा हैं।
-Those are your orders.	Das sind deine Anordnungen.	ये आपके आदेश हैं।
-Those photos are hers.	Die Fotos gehören ihr.	तस्वीरें उसकी हैं।
-Throw him in the brig.	Schmeißt ihn ins Gefängnis!	उसे जेल में फेंक दो!
-Throw the ball to Tom.	Wirf Tom den Ball zu!	टॉम को गेंद फेंक दो!
-Throw the ball to Tom.	Wirf den Ball zu Tom!	टॉम को गेंद फेंक दो!
-Time cures all things.	Die Zeit heilt alle Wunden.	समय सारे घाव भर देता है।
-Time heals all wounds.	Die Zeit heilt alle Wunden.	समय सारे घाव भर देता है।
-Time is getting short.	Die Zeit wird knapp.	समय दुर्लभ है।
-Time is getting short.	Langsam wird die Zeit knapp.	समय धीरे -धीरे दुर्लभ हो जाता है।
 Time is on their side.	Die Zeit ist auf ihrer Seite.	समय आपकी तरफ है।
 Time is running short.	Die Zeit läuft uns weg.	समय भाग जाता है।
 Time waits for no one.	Die Zeit wartet auf niemanden.	समय किसी के लिए इंतजार नहीं कर रहा है।
