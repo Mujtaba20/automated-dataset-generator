@@ -1,14 +1,4 @@
 
-It's my only chance.	Das ist meine einzige Chance.	यह मेरा एकमात्र मौका है।
-It's never too late.	Es ist nie zu spät.	अब भी देरी नहीं हुई है।
-It's not a big deal.	Es ist keine große Sache.	यह कोई बड़ी बात नहीं है।
-It's not about that.	Darum geht es nicht.	यह नहीं है कि इसके बारे में क्या है।
-It's not my problem.	Das ist nicht mein Problem.	वह मेरी समस्या नहीं है।
-It's not negotiable.	Das ist nicht verhandelbar.	यह परक्राम्य नहीं है।
-It's not real money.	Es ist kein echtes Geld.	यह असली पैसा नहीं है।
-It's not unheard of.	Das ist nicht unbekannt.	यह अज्ञात नहीं है।
-It's not unheard of.	Das gab es schon.	वह पहले से ही मामला था।
-It's not worth much.	Es ist nicht viel wert.	यह ज्यादा लायक नहीं है।
 It's not your fault.	Es ist nicht dein Fehler.	यह आपकी गलती नहीं है।
 It's not your style.	Es ist nicht dein Stil.	यह आपकी शैली नहीं है।
 It's not your style.	Das ist nicht dein Stil.	यह आपकी शैली नहीं है।

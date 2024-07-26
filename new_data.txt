@@ -27439,3 +27439,12 @@ It's just a fantasy.	Es ist nur eine Fantasie.	यह सिर्फ एक क
 It's just a placebo.	Es ist nur ein Placebo.	यह सिर्फ एक प्लेसबो है।
 It's kind of creepy.	Es ist irgendwie gruselig.	यह कुछ भयंकर है।
 It's moist and warm.	Es ist feucht und warm.	यह गीला और गरम है।
+It's my only chance.	Es ist meine einzige Chance.	यह मेरा एकमात्र मौका है।
+It's never too late.	Es ist nie zu spät.	यह कभी भी देर नहीं हुई।
+It's not a big deal.	Es ist kein großes Problem.	यह बड़ी बात नहीं है।
+It's not about that.	Es geht nicht darum.	यह उसके बारे में नहीं है।
+It's not my problem.	Es ist nicht mein Problem.	यह मेरी समस्या नहीं है।
+It's not negotiable.	Es ist nicht verhandelbar.	यह परराष्ट्रीय नहीं है।
+It's not real money.	Es ist kein echtes Geld.	यह असली पैसा नहीं है।
+It's not unheard of.	Es ist nicht unerhört.	यह सुनने के लायक नहीं है।
+It's not worth much.	Es ist nicht viel wert.	यह बहुत कुछ नहीं है।
