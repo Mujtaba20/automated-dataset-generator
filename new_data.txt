@@ -34584,3 +34584,13 @@ Tom isn't my stepdad.	Tom ist nicht mein Stiefvater.	टॉम मेरे स�
 Tom isn't on the bus.	Tom ist nicht im Bus.	टॉम बस में नहीं है।
 Tom isn't photogenic.	Tom ist nicht fotogen.	टॉम फोटोजेनिक नहीं है।
 Tom isn't responding.	Tom antwortet nicht.	टॉम प्रतिक्रिया नहीं दे रहा है।
+Tom isn't saying why.	Tom sagt nicht warum.	टॉम नहीं कह रहा कि क्यों।
+Tom isn't that crazy.	Tom ist nicht so verrückt.	टॉम इतना पागल नहीं है।
+Tom isn't that young.	Tom ist nicht so jung.	टॉम इतना जवान नहीं है।
+Tom isn't too bright.	Tom ist nicht zu clever.	टॉम बहुत होशियार नहीं है।
+Tom isn't unemployed.	Tom ist nicht arbeitslos.	टॉम बेरोजगार नहीं है।
+Tom isn't very brave.	Tom ist nicht sehr mutig.	टॉम बहुत साहसी नहीं है।
+Tom isn't very funny.	Tom ist nicht sehr lustig.	टॉम बहुत मजेदार नहीं है।
+Tom isn't very smart.	Tom ist nicht sehr klug.	टॉम बहुत होशियार नहीं है।
+Tom isn't very tired.	Tom ist nicht sehr müde.	टॉम बहुत थका नहीं है।
+Tom isn't very tough.	Tom ist nicht sehr robust.	टॉम बहुत मजबूत नहीं है।
