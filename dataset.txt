@@ -1,14 +1,4 @@
 
-Did Tom do anything?	Hat Tom irgendwas getan?	क्या टॉम ने कुछ किया?
-Did Tom forgive you?	Hat dir Tom verziehen?	क्या टॉम ने आपको माफ कर दिया?
-Did Tom forgive you?	Hat euch Tom verziehen?	क्या टॉम ने आपको माफ कर दिया?
-Did Tom forgive you?	Hat Tom Ihnen verziehen?	क्या टॉम ने आपको माफ कर दिया?
-Did Tom have a plan?	Hatte Tom einen Plan?	क्या टॉम के पास एक योजना थी?
-Did Tom have dinner?	Hat Tom etwas zu Abend gegessen?	क्या टॉम ने रात के खाने में कुछ खाया?
-Did Tom hurt anyone?	Hat Tom jemandem wehgetan?	क्या टॉम ने किसी को चोट पहुंचाई है?
-Did Tom leave early?	Ist Tom früher gegangen?	क्या टॉम पहले गया था?
-Did Tom lie to Mary?	Hat Tom Maria angelogen?	क्या टॉम ने मारिया से झूठ बोला है?
-Did Tom like Boston?	Hat es Tom in Boston gefallen?	क्या टॉम ने इसे बोस्टन में पसंद किया?
 Did Tom purchase it?	Hat Tom das erworben?	क्या टॉम ने उसे हासिल किया?
 Did Tom talk to you?	Hat Tom mit dir gesprochen?	क्या टॉम ने आपसे बात की?
 Did Tom talk to you?	Hat Tom mit euch gesprochen?	क्या टॉम ने आपसे बात की है?

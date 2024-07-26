@@ -25262,3 +25262,11 @@ Did I touch a nerve?	Habe ich einen Nerv berührt?	क्या मैंने 
 Did Tom ask you out?	Hat Tom dich ausgefragt?	क्या टॉम ने तुमसे पूछा?
 Did Tom believe you?	Hat Tom dir geglaubt?	क्या टॉम ने तुम्हें माना?
 Did Tom contact you?	Hat Tom Kontakt mit dir aufgenommen?	क्या टॉम ने तुमसे संपर्क किया?
+Did Tom do anything?	Hat Tom etwas gemacht?	क्या टॉमने कुछ किया?
+Did Tom forgive you?	Hat Tom Ihnen vergeben?	क्या टॉमने आपको माफ कर दिया?
+Did Tom have a plan?	Hat Tom einen Plan gehabt?	क्या टॉमने कोई योजना बनाई थी?
+Did Tom have dinner?	Hat Tom zu Abend gegessen?	क्या टॉमने रात का खाना खाया?
+Did Tom hurt anyone?	Hat Tom jemanden verletzt?	क्या टॉमने किसी को चोट पहुंचाई?
+Did Tom leave early?	Ist Tom früh gegangen?	क्या टॉम जल्दी चला गया?
+Did Tom lie to Mary?	Hat Tom Maria angelogen?	क्या टॉमने मेरी से झूठ बोला?
+Did Tom like Boston?	Hat Tom Boston gemocht?	क्या टॉमने बोस्टन पसंद किया?
