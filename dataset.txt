@@ -1,14 +1,4 @@
 
-This desk cost me $300.	Dieser Schreibtisch hat mich 300 Dollar gekostet.	इस डेस्क की कीमत मुझे $ 300 है।
-This dish is too spicy.	Dieses Gericht ist zu scharf.	यह व्यंजन बहुत तेज है।
-This dog saved my life.	Dieser Hund hat mir das Leben gerettet.	इस कुत्ते ने मेरी जान बचाई।
-This doll has big eyes.	Diese Puppe hat große Augen.	इस गुड़िया में बड़ी आँखें हैं।
-This file is corrupted.	Diese Datei ist beschädigt.	यह फ़ाइल क्षतिग्रस्त है।
-This file is encrypted.	Diese Datei ist verschlüsselt.	यह फ़ाइल एन्क्रिप्टेड है।
-This fish is delicious.	Dieser Fisch ist köstlich.	यह मछली स्वादिष्ट है।
-This food is too salty.	Dieses Essen ist zu salzig.	यह भोजन बहुत नमकीन है।
-This food is too salty.	Das Essen hier ist versalzen.	यहां का भोजन नमक है।
-This food is unhealthy.	Dieses Essen ist ungesund.	यह भोजन अस्वास्थ्यकर है।
 This guy is really hot.	Dieser Typ ist wirklich scharf.	यह प्रकार वास्तव में तेज है।
 This is Tom's computer.	Das ist Toms Computer.	यह टॉम का कंप्यूटर है।
 This is Tom's computer.	Das ist Toms Rechner.	यह टॉम का कंप्यूटर है।
