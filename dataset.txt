@@ -1,15 +1,4 @@
 
-They're leaving us.	Sie verlassen uns.	वे हमें छोड़ देते हैं।
-They're mad at you.	Sie sind wütend auf dich.	आप आपसे नाराज हैं।
-They're my cousins.	Das sind meine Cousins.	ये मेरे चचेरे भाई हैं।
-They're my cousins.	Das sind meine Cousinen.	ये मेरे चचेरे भाई हैं।
-They're my cousins.	Das sind meine Cousins und Cousinen.	ये मेरे चचेरे भाई हैं।
-They're my cousins.	Das sind mein Cousin und meine Cousine.	ये मेरे चचेरे भाई और मेरे चचेरे भाई हैं।
-They're not coming.	Sie kommen nicht.	वे नहीं आते हैं।
-They're not coming.	Die kommen nicht.	वे नहीं आते।
-They're not stupid.	Die sind nicht blöd.	वे मूर्ख नहीं हैं।
-They're part of us.	Sie sind ein Teil von uns.	आप हमारे हिस्से हैं।
-They're part of us.	Sie gehören zu uns.	वे हमारे हैं।
 They're tough guys.	Das sind harte Kerle.	ये कठिन लोग हैं।
 They're unreliable.	Sie sind unzuverlässig.	वे अविश्वसनीय हैं।
 They're very happy.	Sie sind sehr glücklich.	वे बहुत खुश हैं।

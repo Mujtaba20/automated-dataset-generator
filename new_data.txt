@@ -23169,3 +23169,10 @@ They're everywhere.	Sie sind überall.	वे हर जगह हैं।
 They're foreigners.	Sie sind Ausländer.	वे विदेशी हैं।
 They're in the car.	Sie sind im Auto.	वे कार में हैं।
 They're incredible.	Sie sind unglaublich.	वे अविश्वसनीय हैं।
+They're leaving us.	Sie verlassen uns.	वे हमें छोड़ रहे हैं।
+They're mad at you.	Sie sind wütend auf dich.	वे आपसे नाराज़ हैं।
+They're my cousins.	Sie sind meine Cousins.	वे मेरे चचेरे भाई हैं।
+They're my cousins. (Different translation)	Sie sind meine Verwandten.	वे मेरे रिश्तेदार हैं।
+They're not coming.	Sie kommen nicht.	वे नहीं आ रहे हैं।
+They're not stupid.	Sie sind nicht dumm.	वे मूर्ख नहीं हैं।
+They're part of us.	Sie gehören zu uns.	वे हमारा हिस्सा हैं।
