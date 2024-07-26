@@ -26545,3 +26545,12 @@ I need a light coat.	Ich brauche einen leichten Mantel.	मुझे एक ह�
 I need a new kidney.	Ich brauche eine neue Niere.	मुझे एक नया गुर्दा चाहिए।
 I need a painkiller.	Ich brauche ein Schmerzmittel.	मुझे एक दर्दनाशक की आवश्यकता है।
 I need a tissue now.	Ich brauche jetzt ein Taschentuch.	मुझे अब एक टिश्यू की आवश्यकता है।
+I need an analgesic.	Ich brauche ein Schmerzmittel.	मुझे एक पीड़ा नाशक की आवश्यकता है।
+I need lots of time.	Ich brauche viel Zeit.	मुझे बहुत समय की ज़रुरत है।
+I need only one cat.	Ich brauche nur eine Katze.	मुझे केवल एक बिल्ली की आवश्यकता है।
+I need some hangers.	Ich brauche einige Kleiderbügel.	मुझे कुछ हैंगर्स की आवश्यकता है।
+I need some support.	Ich brauche etwas Unterstützung.	मुझे कुछ समर्थन की ज़रुरत है।
+I need the car keys.	Ich brauche die Autoschlüssel.	मुझे कार की चाबी चाहिए।
+I need the password.	Ich brauche das Passwort.	मुझे पासवर्ड की आवश्यकता है।
+I need to get a job.	Ich muss einen Job bekommen.	मुझे नौकरी मिलने की आवश्यकता है।
+I need to repay her.	Ich muss ihr zurückzahlen.	मुझे उसे वापस देने की आवश्यकता है।

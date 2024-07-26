@@ -1,14 +1,4 @@
 
-I need an analgesic.	Ich brauche ein Schmerzmittel.	मुझे एक दर्द रिलीवर की जरूरत है।
-I need lots of time.	Ich brauche viel Zeit.	मुझे बहुत समय चाहिए।
-I need only one cat.	Ich brauche nur eine Katze.	मुझे केवल एक बिल्ली की जरूरत है।
-I need some hangers.	Ich hätte gerne Kleiderbügel.	मैं कपड़े पहनना चाहूंगा।
-I need some support.	Ich brauche etwas Unterstützung.	मुझे कुछ समर्थन चाहिए।
-I need the car keys.	Ich brauche die Autoschlüssel.	मुझे कार की चाबियां चाहिए।
-I need the password.	Ich brauche das Passwort.	मुझे पासवर्ड चाहिए।
-I need the password.	Ich benötige das Kennwort.	मुझे पासवर्ड चाहिए।
-I need to get a job.	Ich brauche einen Job.	मुझे एक नौकरी की जरूरत हैं।
-I need to repay her.	Ich muss ihr Wiedergutmachung leisten.	मुझे उसका पुनर्मूल्यांकन करना है।
 I need to sleep now.	Ich muss jetzt schlafen.	मुझे अभी सोना है।
 I need you here now.	Ich brauche dich jetzt hier.	मुझे आप यहाँ अभी चाहिएं।
 I needed Tom's help.	Wir brauchten Toms Hilfe.	हमें टॉम की मदद की जरूरत थी।
