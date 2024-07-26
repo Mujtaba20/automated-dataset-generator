@@ -34979,3 +34979,13 @@ Tom was never unfair.	Tom war nie unfair.	टॉम कभी अनुचित
 Tom was never unkind.	Tom war nie unfreundlich.	टॉम कभी असभ्य नहीं था।
 Tom was not suicidal.	Tom war nicht selbstmörderisch.	टॉम आत्महत्या नहीं कर रहा था।
 Tom was overdoing it.	Tom hat es übertrieben.	टॉम इसे ज्यादा कर रहा था।
+Tom was partly right.	Tom hatte teilweise recht.	टॉम सही था।
+Tom was pretty angry.	Tom war ziemlich wütend.	टॉम काफी गुस्से में था।
+Tom was pretty upset.	Tom war ziemlich verärgert.	टॉम काफी उदास था।
+Tom was really angry.	Tom war wirklich wütend.	टॉम सचमुच नाराज था।
+Tom was really bored.	Tom war wirklich gelangweilt.	टॉम सचमुच उबाऊ था।
+Tom was really crazy.	Tom war wirklich verrückt.	टॉम वास्तव में पागल था।
+Tom was really drunk.	Tom war wirklich betrunken.	टॉम वास्तव में नशे में था।
+Tom was really happy.	Tom war wirklich glücklich.	टॉम वास्तव में बहुत खुश था।
+Tom was really lucky.	Tom hatte wirklich Glück.	टॉम वास्तव में भाग्यशाली था।
+Tom was really tired.	Tom war wirklich müde.	टॉम वास्तव में थका हुआ था।
