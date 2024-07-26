@@ -1,14 +1,4 @@
 
-Guess where I've been.	Rate mal, wo ich gewesen bin.	जहां मैं था, दर।
-Guess who I saw today.	Rate mal, wen ich heute gesehen habe!	दर जो मैंने आज देखी!
-Guys, we need to talk.	Hey Ihr, lasst uns reden.	अरे तुम, चलो बात करते हैं।
-Hand in your homework.	Gebt eure Hausaufgaben ab!	अपना होमवर्क दें!
-Has Tom paid the rent?	Hat Tom die Miete bezahlt?	क्या टॉम ने किराए का भुगतान किया?
-Has Tom taught French?	Hat Tom Französisch gelehrt?	क्या टॉम ने फ्रेंच पढ़ाया है?
-Has Tom taught French?	Hat Tom Französisch unterrichtet?	क्या टॉम ने फ्रेंच पढ़ाया?
-Has something changed?	Hat sich etwas geändert?	कुछ बदल गया है?
-Has something changed?	Ist etwas anders?	क्या कुछ अलग है?
-Has something changed?	Hat sich etwas verändert?	कुछ बदल गया है?
 Has the bell rung yet?	Hat es schon geschellt?	क्या यह पहले से ही इसे बना चुका है?
 Has the bell rung yet?	Hat es schon geklingelt?	क्या यह पहले से ही बज गया है?
 Have a good Christmas.	Fröhliche Weihnachten!	क्रिसमस की बधाई!
