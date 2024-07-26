@@ -37127,3 +37127,8 @@ engSentence7	Ich habe einen gebrauchten Lastwagen gekauft.	मैंने ए�
 engSentence8	Ich habe es gestern gekauft.	मैंने यह कल खरीदा था।
 engSentence9	Ich habe das für dich gekauft.	मैंने यह तुम्हारे लिए खरीदा।
 engSentence10	Ich habe mir beim Skifahren das Bein gebrochen.	मैंने स्की के दौरान अपनी टांग तोड़ दी।
+I brought you flowers.	Ich habe Blumen für dich mitgebracht.	मैंने आपके लिए फूल लाए हैं।
+I call her very often.	Ich rufe sie sehr oft an.	मैं उसे बहुत बार फोन करता हूँ।
+I came back home late.	Ich bin spät nach Hause gekommen.	मैं देर से घर वापस आया।
+I came because of Tom.	Ich kam wegen Tom.	मैं टॉम के कारण आया था।
+I came here yesterday.	Ich kam gestern hierher.	मैंने कल यहाँ आने की कोशिश की थी।
