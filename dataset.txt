@@ -1,14 +1,4 @@
 
-Tom called Mary a taxi.	Tom rief Maria ein Taxi.	टॉम ने मारिया को टैक्सी कहा।
-Tom called Mary a taxi.	Tom nannte Maria ein Taxi.	टॉम ने मारिया को टैक्सी कहा।
-Tom called me a coward.	Tom hat mich einen Feigling genannt.	टॉम ने मुझे कायर कहा।
-Tom called me an idiot.	Tom hat mich einen Dummkopf genannt.	टॉम ने मुझे मूर्ख कहा।
-Tom calls all the time.	Tom ruft die ganze Zeit an.	टॉम हर समय कॉल करता है।
-Tom calls me every day.	Tom ruft mich jeden Tag an.	टॉम मुझे हर दिन बुलाता है।
-Tom came directly home.	Tom ist direkt nach Hause gekommen.	टॉम सीधे घर आया।
-Tom came into the room.	Tom kam ins Zimmer.	टॉम कमरे में आ गया।
-Tom came into the room.	Tom kam herein.	टॉम अंदर आया।
-Tom came into the room.	Tom betrat den Raum.	टॉम कमरे में प्रवेश किया।
 Tom came late as usual.	Tom verspätete sich wie immer.	हमेशा की तरह, टॉम में देरी हुई।
 Tom came to pick me up.	Tom kam mich abholen.	टॉम मुझे लेने आया था।
 Tom came to pick me up.	Tom kam, um mich abzuholen.	टॉम मुझे लेने आया था।
