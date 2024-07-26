@@ -1,14 +1,4 @@
 
-Tom knows what we need.	Tom weiß, was wir brauchen.	टॉम जानता है कि हमें क्या चाहिए।
-Tom knows what you did.	Tom weiß, was du getan hast.	टॉम जानता है कि आपने क्या किया।
-Tom knows what you did.	Tom weiß, was ihr getan habt.	टॉम जानता है कि आपने क्या किया।
-Tom knows what you did.	Tom weiß, was Sie getan haben.	टॉम जानता है कि आपने क्या किया।
-Tom knows what's wrong.	Tom weiß, wo der Fehler liegt.	टॉम जानता है कि गलती कहां है।
-Tom knows when to stop.	Tom weiß, wann er aufhören soll.	टॉम जानता है कि कब रुकना है।
-Tom knows where I live.	Tom weiß, wo ich wohne.	टॉम जानता है कि मैं कहाँ रहता हूँ।
-Tom knows where I work.	Tom weiß, wo ich arbeite.	टॉम जानता है कि मैं कहां काम करता हूं।
-Tom knows where we are.	Tom weiß, wo wir sind.	टॉम जानता है कि हम कहां हैं।
-Tom knows who did that.	Tom weiß, wer das getan hat.	टॉम जानता है कि ऐसा किसने किया।
 Tom knows who did this.	Tom weiß, wer das getan hat.	टॉम जानता है कि ऐसा किसने किया।
 Tom knows who they are.	Tom weiß, wer sie sind.	टॉम जानता है कि वे कौन हैं।
 Tom lacks common sense.	Es fehlt Tom an gesundem Menschenverstand.	टॉम में सामान्य ज्ञान का अभाव है।
