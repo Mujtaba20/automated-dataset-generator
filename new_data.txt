@@ -37162,3 +37162,12 @@ I can't eat the apple.	Ich kann den Apfel nicht essen.	मैं सेब न�
 I can't find my shoes.	Ich kann meine Schuhe nicht finden.	मैं अपने जूते नहीं मिला सकता।
 I can't find my watch.	Ich kann meine Uhr nicht finden.	मैं अपनी घड़ी नहीं मिला सकता।
 I can't get this open.	Ich kann das nicht öffnen.	मैं इसे खोलने में सक्षम नहीं हूँ।
+I can't give you that.	Ich kann dir das nicht geben.	मैं आपको वह नहीं दे सकता।
+I can't give you this.	Ich kann dir das nicht geben.	मैं आपको यह नहीं दे सकता।
+I can't go any faster.	Ich kann nicht schneller gehen.	मैं और तेज़ी से नहीं जा सकता।
+I can't let you leave.	Ich kann dich nicht gehen lassen.	मैं तुम्हें जाने नहीं दे सकता।
+I can't make it alone.	Ich kann es nicht alleine schaffen.	मैं इसे अकेले नहीं कर सकता।
+I can't open the door.	Ich kann die Tür nicht öffnen.	मैं दरवाजा नहीं खोल सकता।
+I can't open this jar.	Ich kann dieses Glas nicht öffnen.	मैं यह जार नहीं खोल सकता।
+I can't pay Tom today.	Ich kann Tom heute nicht bezahlen.	मैं आज टॉम को नहीं दे सकता।
+I can't read the sign.	Ich kann das Schild nicht lesen.	मैं संकेत पढ़ नहीं सकता।

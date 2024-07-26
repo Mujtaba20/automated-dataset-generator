@@ -1,14 +1,4 @@
 
-I can't give you that.	Ich kann dir das nicht geben.	मैं आपको वह नहीं दे सकता।
-I can't give you this.	Ich kann dir das nicht geben.	मैं आपको वह नहीं दे सकता।
-I can't go any faster.	Ich kann nicht schneller gehen.	मैं तेजी से नहीं जा सकता।
-I can't let you leave.	Ich kann dich nicht gehen lassen.	मैं तुम्हें जाने नहीं दे सकता।
-I can't let you leave.	Ich kann Sie nicht gehen lassen.	मैं उसे जाने नहीं दे सकता।
-I can't make it alone.	Ich schaffe es nicht allein.	मैं इसे अकेला नहीं बनाता।
-I can't open the door.	Ich kann die Tür nicht öffnen.	मैं दरवाजा नहीं खोल सकता।
-I can't open this jar.	Ich kann dieses Glas nicht öffnen.	मैं इस ग्लास को नहीं खोल सकता।
-I can't pay Tom today.	Ich kann Tom heute nicht bezahlen.	मैं आज टॉम को भुगतान नहीं कर सकता।
-I can't read the sign.	Ich kann das Schild nicht lesen.	मैं साइन नहीं पढ़ सकता।
 I can't run very fast.	Ich kann nicht sehr schnell laufen.	मैं बहुत जल्दी नहीं दौड़ सकता।
 I can't say I'm sorry.	Ich kann nicht sagen, dass mir das leidtut.	मैं यह नहीं कह सकता कि मुझे खेद है।
 I can't see very well.	Ich sehe nicht sehr gut.	मैं बहुत अच्छा नहीं देखता।
