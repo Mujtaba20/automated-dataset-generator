@@ -29679,3 +29679,10 @@ We'll soon find out.	Das werden wir bald herausfinden.	हम जल्दी �
 We'll stop you, Tom.	Wir werden dich aufhalten, Tom.	हम तुम्हें रोक देंगे, टॉम।
 We'll take Tom home.	Wir werden Tom nach Hause bringen.	हम टॉम को घर ले जाएंगे।
 We'll take you home.	Wir bringen dich nach Hause.	हम तुम्हें घर ले जाएंगे।
+We'll work tomorrow.	Wir werden morgen arbeiten.	हम कल करेंगे काम।
+We're Tom's parents.	Wir sind Toms Eltern.	हम टॉम के माता-पिता हैं।
+We're all prisoners.	Wir sind alle Gefangene.	हम सभी बंदी हैं।
+We're all right now.	Wir sind jetzt in Ordnung.	हम अब ठीक हैं।
+We're always hungry.	Wir sind immer hungrig.	हमेशा पेट से भूखे रहते हैं।
+We're among friends.	Wir sind unter Freunden.	हम मित्रों के बीच हैं।
+We're at home today.	Wir sind heute zu Hause.	हम आज घर पे हैं।
