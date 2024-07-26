@@ -23602,3 +23602,12 @@ Tom is a scientist.	Tom ist ein Wissenschaftler.	टॉम एक वैज्�
 Tom is a scoundrel.	Tom ist ein Schurke.	टॉम एक नीच आदमी है।
 Tom is a small boy.	Tom ist ein kleiner Junge.	टॉम एक छोटे लड़के हैं।
 Tom is a smart boy.	Tom ist ein kluger Junge.	टॉम एक बुद्धिमान लड़का है।
+Tom is a smart guy.	Tom ist ein intelligenter Mann.	टॉम एक स्मार्ट आदमी है।
+Tom is a snorkeler.	Tom ist ein Schnorchler.	टॉम एक स्नॉर्कलर है।
+Tom is a socialist.	Tom ist ein Sozialist.	टॉम एक समाजवादी है।
+Tom is a sophomore.	Tom ist ein Zweitsemesterstudent.	टॉम एक सोफोमोर है।
+Tom is a terrorist.	Tom ist ein Terrorist.	टॉम एक आतंकवादी है।
+Tom is a tough guy.	Tom ist ein harter Kerl.	टॉम एक मजबूत आदमी है।
+Tom is a true hero.	Tom ist ein wahrer Held.	टॉम एक सच्चा नायक है।
+Tom is a true poet.	Tom ist ein wahrer Dichter.	टॉम एक सच्चा कवि है।
+Tom is a womanizer.	Tom ist ein Frauenheld.	टॉम एक स्त्रीसम्मोहक है।

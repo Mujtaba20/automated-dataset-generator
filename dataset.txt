@@ -1,14 +1,4 @@
 
-Tom is a smart guy.	Tom ist ein schlauer Kerl.	टॉम एक चतुर लड़का है।
-Tom is a snorkeler.	Tom ist Schnorchler.	टॉम एक स्नोर्केलर है।
-Tom is a socialist.	Tom ist ein Sozialist.	टॉम एक समाजवादी है।
-Tom is a sophomore.	Tom ist im zweiten Studienjahr.	टॉम अध्ययन के दूसरे वर्ष में है।
-Tom is a terrorist.	Tom ist Terrorist.	टॉम एक आतंकवादी है।
-Tom is a tough guy.	Tom ist ein zäher Kerl.	टॉम एक सख्त आदमी है।
-Tom is a true hero.	Tom ist ein wahrer Held.	टॉम एक असली हीरो है।
-Tom is a true poet.	Tom ist ein wahrer Poet.	टॉम एक असली कवि है।
-Tom is a womanizer.	Tom ist ein Frauenheld.	टॉम एक महिला है।
-Tom is a womanizer.	Tom ist ein Schürzenjäger.	टॉम एक एप्रन शिकारी है।
 Tom is a zookeeper.	Tom ist Zoowärter.	टॉम एक चिड़ियाघर हार्डनर है।
 Tom is about to go.	Tom ist im Begriff zu gehen.	टॉम जाने वाला है।
 Tom is almost deaf.	Tom ist fast taub.	टॉम लगभग बहरा है।
