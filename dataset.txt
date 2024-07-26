@@ -1,14 +1,4 @@
 
-I know your first name.	Ich kenne deinen Vornamen.	मुझे आपका पहला नाम पता है।
-I left my card at home.	Ich habe meine Karte zu Hause vergessen.	मैं घर पर अपना कार्ड भूल गया।
-I left the window open.	Ich habe das Fenster offen gelassen.	मैंने खिड़की खुली छोड़ दी।
-I left the window open.	Ich ließ das Fenster offen.	मैंने खिड़की खुली छोड़ दी।
-I let Tom drive my car.	Ich ließ Tom meinen Wagen fahren.	मैंने टॉम को अपनी कार चलाने दिया।
-I let Tom drive my car.	Ich ließ Tom ans Steuer meines Wagens.	मैंने अपनी कार के पहिये से टॉम को छोड़ दिया।
-I let Tom in the house.	Ich habe Tom ins Haus gelassen.	मैंने टॉम को घर में जाने दिया।
-I let Tom in the house.	Ich ließ Tom ins Haus.	मैंने टॉम को घर में जाने दिया।
-I let go of Tom's hand.	Ich ließ Toms Hand los.	मैंने टॉम के हाथ से जाने दिया।
-I let go of Tom's hand.	Ich habe Toms Hand losgelassen.	मैंने टॉम के हाथ से जाने दिया।
 I like President Obama.	Ich mag Präsident Obama.	मुझे राष्ट्रपति ओबामा पसंद हैं।
 I like a lot of things.	Es gibt vieles, was ich mag.	बहुत कुछ है जो मुझे पसंद है।
 I like being a teacher.	Ich bin gerne Lehrerin.	मुझे एक शिक्षक बनना पसंद है।
