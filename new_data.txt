@@ -33595,3 +33595,11 @@ That's very generous.	Das ist sehr großzügig.	यह बहुत उदार
 That's very possible.	Das ist sehr möglich.	यह बहुत संभावित है।
 That's very unlikely.	Das ist sehr unwahrscheinlich.	यह बहुत असंभावित है।
 That's what I'd want.	Das wäre was ich wollen würde.	यही वह है जो मैं चाहता हूँ।
+That's what Tom does.	Das macht Tom.	तोम वह करता है।
+That's what Tom said.	Das hat Tom gesagt.	वही तोमने कहा था।
+That's what Tom says.	Das sagt Tom.	तोम वह कहता है।
+That's what saved me.	Das hat mich gerettet.	वही मुझे बचाया।
+That's what she said.	Das hat sie gesagt.	वही उसने कहा।
+That's what we think.	Das denken wir.	हमें वैसे ही लगता है।
+That's where I'll be.	Dort werde ich sein.	वहीं मैं होऊंगा।
+That's why I'm going.	Das ist der Grund, warum ich gehe.	इसीलिए मैं जा रहा हूँ।

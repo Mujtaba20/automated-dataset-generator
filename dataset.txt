@@ -1,14 +1,4 @@
 
-That's what Tom does.	Das ist es, was Tom macht.	टॉम यही करता है।
-That's what Tom said.	Das ist es, was Tom gesagt hat.	टॉम ने यही कहा।
-That's what Tom says.	Das ist es, was Tom sagt.	टॉम यही कहता है।
-That's what saved me.	Das hat mich gerettet.	जिसने मुझे बचाया।
-That's what she said.	Das ist, was sie sagte.	कि उसने क्या कहा।
-That's what we think.	Das ist, was wir denken.	यही हम सोचते हैं।
-That's what we think.	Das denken wir.	हमें सोचते है कि।
-That's where I'll be.	Dort werde ich sein.	मैं वहां रहूंगा।
-That's where I'll be.	Dort ist es, wo ich sein werde.	यह वह जगह है जहां मैं रहूंगा।
-That's why I'm going.	Deshalb gehe ich.	इसलिए मैं जाता हूं।
 That's why I'm happy.	Deshalb bin ich glücklich.	इसलिए मैं खुश हूं।
 That's your decision.	Das ist deine Entscheidung.	यह आपका निर्णय है।
 That's your decision.	Das ist Ihre Entscheidung.	यह आपका निर्णय है।
