@@ -1,14 +1,4 @@
 
-Tom didn't like that.	Tom gefiel das nicht.	टॉम को यह पसंद नहीं आया।
-Tom didn't like that.	Tom mochte das nicht.	टॉम को यह पसंद नहीं आया।
-Tom didn't like this.	Tom gefiel das nicht.	टॉम को यह पसंद नहीं आया।
-Tom didn't love Mary.	Tom liebte Marie nicht.	टॉम ने मैरी से प्यार नहीं किया।
-Tom didn't mean that.	Tom hat es nicht ernst gemeint.	टॉम का मतलब गंभीरता से नहीं था।
-Tom didn't notice it.	Tom ist es nicht aufgefallen.	टॉम ने इसे नोटिस नहीं किया।
-Tom didn't notice it.	Tom hat es nicht bemerkt.	टॉम ने इसे नोटिस नहीं किया।
-Tom didn't notice it.	Tom hat es nicht gemerkt.	टॉम ने इसे नोटिस नहीं किया।
-Tom didn't notice me.	Tom hat mich nicht bemerkt.	टॉम ने मुझे नोटिस नहीं किया।
-Tom didn't stay long.	Tom ist nicht lange geblieben.	टॉम लंबे समय तक नहीं रहे।
 Tom didn't tell Mary.	Tom hat Maria nichts gesagt.	टॉम ने कुछ नहीं कहा।
 Tom didn't tell Mary.	Tom verschwieg es Maria.	टॉम मारिया करने में विफल रहा।
 Tom didn't want that.	Tom wollte das nicht.	टॉम ऐसा नहीं चाहते थे।

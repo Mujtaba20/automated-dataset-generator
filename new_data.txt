@@ -34135,3 +34135,10 @@ Tom didn't know that.	Tom wusste das nicht.	टॉम को वह पता �
 Tom didn't know this.	Tom wusste das nicht.	टॉम को यह पता नहीं था।
 Tom didn't last long.	Tom hat nicht lange gedauert.	टॉम का लंबा समय तक नहीं रहा।
 Tom didn't like Mary.	Tom mochte Mary nicht.	टॉम को मेरी पसंद नहीं थी।
+Tom didn't like that.	Tom mochte das nicht.	टॉम को यह पसंद नहीं था।
+Tom didn't like this.	Tom mochte das nicht.	टॉम को यह पसंद नहीं था।
+Tom didn't love Mary.	Tom liebte Mary nicht.	टॉम को मेरी से प्यार नहीं था।
+Tom didn't mean that.	Tom meinte das nicht.	टॉम का मतलब वह नहीं था।
+Tom didn't notice it.	Tom hat es nicht bemerkt.	टॉम ने इसे ध्यान नहीं दिया।
+Tom didn't notice me.	Tom hat mich nicht bemerkt.	टॉम ने मुझे नहीं देखा।
+Tom didn't stay long.	Tom blieb nicht lange.	टॉम ने लंबे समय तक नहीं ठहरा।
