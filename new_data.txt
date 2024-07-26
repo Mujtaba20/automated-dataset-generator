@@ -40592,3 +40592,13 @@ Tom often skips meals.	Tom lässt oft Mahlzeiten aus.	टॉम अक्सर 
 Tom often teased Mary.	Tom hat Mary oft geärgert.	टॉम ने मेरी को अक्सर चेरा।
 Tom often wears a hat.	Tom trägt oft einen Hut.	टॉम अक्सर टोपी पहनता है।
 Tom opened his window.	Tom hat sein Fenster geöffnet.	टॉम ने अपनी खिड़की खोली।
+Tom ordered some food.	Tom bestellte etwas zu essen.	टॉम ने कुछ खाने का आदेश दिया।
+Tom owns both of them.	Tom besitzt beide.	टॉम दोनों का मालिक है।
+Tom padded his resume.	Tom polsterte seinen Lebenslauf auf.	टॉम ने अपने रिज्यूमे को फुलाया।
+Tom painted the fence.	Tom hat den Zaun gestrichen.	टॉम ने बाड़ को रंगा।
+Tom phoned his lawyer.	Tom telefonierte mit seinem Anwalt.	टॉम ने अपने वकील को फोन किया।
+Tom picked up the cat.	Tom hob die Katze auf.	टॉम ने बिल्ली को उठाया।
+Tom plans to be there.	Tom plant dort zu sein.	टॉम वहाँ होने की योजना बना रहा है।
+Tom planted the seeds.	Tom pflanzte die Samen.	टॉम ने बीज बोए।
+Tom played basketball.	Tom spielte Basketball.	टॉम ने बास्केटबॉल खेला।
+Tom played the guitar.	Tom spielte Gitarre.	टॉम ने गिटार बजाई।
