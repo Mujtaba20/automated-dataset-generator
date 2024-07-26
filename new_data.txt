@@ -31681,3 +31681,12 @@ I go to bed at 10.30.	Ich gehe um 10.30 Uhr ins Bett.	मैं 10.30 बजे 
 I got a B in physics.	Ich habe in Physik eine Zwei bekommen.	मुझे भौतिकी में बी मिली।
 I got an A in French.	Ich habe in Französisch eine Eins bekommen.	मुझे फ्रेंच में एक मिला।
 I got back in my car.	Ich stieg wieder in mein Auto.	मैं अपनी कार में वापस आ गया।
+I got bored and left.	Ich wurde gelangweilt und ging.	मुझे बोरी हो गया और मैं चला गया।
+I got it for nothing.	Ich habe es umsonst bekommen.	मैंने इसको बिना कुछ मिले ही पाया।
+I got plenty of help.	Ich habe jede Menge Hilfe bekommen.	मुझे बहुत सारी मदद मिली।
+I got sick last week.	Ich wurde letzte Woche krank.	मैं पिछले हफ्ते बीमार हो गया था।
+I got up an hour ago.	Ich bin vor einer Stunde aufgestanden.	मैं एक घंटे पहले उठा।
+I got up early today.	Heute bin ich früh aufgestanden.	मैंने आज सुबह जल्दी उठा।
+I guess that's a yes.	Ich denke, das ist ein Ja.	मुझे लगता है कि यह हाँ है।
+I guess you're right.	Ich denke, du hast recht.	मुझे लगता है, तुम सही हो।
+I guess you're right. 1	Ich vermute, du hast recht.	मुझे लगता है, तुम सही हो।
