@@ -39920,3 +39920,12 @@ Tom cleared the table.	Tom räumte den Tisch ab.	टॉम ने मेज़ �
 Tom clenched his fist.	Tom ballte die Faust.	टॉम ने अपनी मुट्ठी कासी।
 Tom collects antiques.	Tom sammelt Antiquitäten.	टॉम प्राचीन वस्तुओं का संग्रह करता है।
 Tom comes from Boston.	Tom kommt aus Boston.	टॉम बॉस्टन से आता है।
+Tom committed suicide.	Tom beging Selbstmord.	टॉम ने आत्महत्या की।
+Tom continued digging.	Tom grub weiter.	टॉम की खुदाई जारी रही।
+Tom continued driving.	Tom fuhr weiter.	टॉम ने चलाना जारी रखा।
+Tom continued reading.	Tom las weiter.	टॉम की पढ़ाई जारी रही।
+Tom continued singing.	Tom sang weiter.	टॉम गाना जारी रखा।
+Tom continued talking.	Tom redete weiter.	टॉम की बातचीत जारी रही।
+Tom continued walking.	Tom ging weiter.	टॉम की चलना जारी रहा।
+Tom continued working.	Tom arbeitete weiter.	टॉम का काम जारी रहा।
+Tom corrected himself.	Tom korrigierte sich.	टॉम ने अपने आप को सुधारा।
