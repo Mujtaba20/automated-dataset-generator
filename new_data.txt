@@ -28552,3 +28552,12 @@ Tom appears worried.	Tom wirkt besorgt.	टॉम परेशान लग र�
 Tom arrived in time.	Tom kam rechtzeitig an.	टॉम समय पर पहुंच गया।
 Tom asked for money.	Tom bat um Geld.	टॉम ने पैसे मांगे।
 Tom asked something.	Tom fragte etwas.	टॉम ने कुछ पूछा।
+Tom ate a TV dinner.	Tom aß ein TV-Abendessen.	टॉम ने एक टीवी डिनर खाया।
+Tom ate at his desk.	Tom aß an seinem Schreibtisch.	टॉम ने अपने डेस्क पर खाना खाया।
+Tom banged his head.	Tom schlug sich an den Kopf.	टॉम ने अपनी सिर पर मारा।
+Tom banged his knee.	Tom schlug sich sein Knie.	टॉम ने अपनी घुटने की पट्टी मारी।
+Tom became a dancer.	Tom wurde Tänzer.	टॉम नृत्यकार बन गया।
+Tom became a doctor.	Tom wurde Arzt.	टॉम डॉक्टर बन गया।
+Tom became a father.	Tom wurde Vater.	टॉम पिता बन गया।
+Tom became a pastor.	Tom wurde Pastor.	टॉम पादरी बन गया।
+Tom became a sailor.	Tom wurde Seemann.	टॉम नाविक बन गया।

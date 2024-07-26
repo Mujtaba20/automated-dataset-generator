@@ -1,14 +1,4 @@
 
-Tom ate a TV dinner.	Tom hat sich ein Fertiggericht gemacht.	टॉम ने एक तैयार डिश बनाई है।
-Tom ate a TV dinner.	Tom hat sich ein Tiefkühlgericht gemacht.	टॉम ने एक जमे हुए पकवान बनाया है।
-Tom ate at his desk.	Tom aß am Schreibtisch.	टॉम ने डेस्क पर खाया।
-Tom banged his head.	Tom stieß sich den Kopf.	टॉम ने अपना सिर धक्का दिया।
-Tom banged his knee.	Tom hat sich das Knie gestoßen.	टॉम अपने घुटने से टकरा गया।
-Tom became a dancer.	Tom wurde Tänzer.	टॉम डांसर बन गया।
-Tom became a doctor.	Tom wurde Arzt.	टॉम डॉक्टर बन गए।
-Tom became a father.	Tom ist Vater geworden.	टॉम पिता बन गए हैं।
-Tom became a pastor.	Tom wurde Pfarrer.	टॉम एक पादरी बन गया।
-Tom became a sailor.	Tom wurde Seemann.	टॉम नाविक बन गया।
 Tom became a singer.	Tom wurde Sänger.	टॉम गायक बन गया।
 Tom became very hot.	Tom wurde sehr heiß.	टॉम बहुत गर्म हो गया।
 Tom became very ill.	Tom wurde sehr krank.	टॉम बहुत बीमार हो गया।
