@@ -38543,3 +38543,11 @@ It was a little scary.	Es war ein bisschen unheimlich.	थोड़ा डरा
 It was a magic moment.	Es war ein magischer Moment.	यह एक जादूई पल था।
 It was a simpler time.	Es war eine einfachere Zeit.	यह एक सरल समय था।
 It was a terrible day.	Es war ein schrecklicher Tag.	यह एक भयंकर दिन था।
+It was a very hot day.	Es war ein sehr heißer Tag.	यह एक बहुत गरम दिन था।
+It was all Tom's idea.	Es war alles Toms Idee.	यह सब टॉम की विचारधारा थी।
+It was amazingly easy.	Es war erstaunlich einfach.	यह अद्वितीय आसान था।
+It was cold in Boston.	Es war kalt in Boston.	बोस्टन में ठंड थी।
+It was cold yesterday.	Es war gestern kalt.	कल ठंड थी।
+It was easy to answer.	Es war leicht zu beantworten.	इसका जवाब देना आसान था।
+It was expensive, too.	Es war auch teuer.	यह महंगा था।
+It was extremely cold.	Es war extrem kalt.	यह अत्यधिक ठंड था।
