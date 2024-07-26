@@ -1,14 +1,4 @@
 
-She beat him to death.	Sie hat ihn totgeschlagen.	उसने उसे मृत कर दिया।
-She became an actress.	Sie wurde Schauspielerin.	वह एक अभिनेत्री बन गईं।
-She became an actress.	Sie ist Schauspielerin geworden.	वह एक अभिनेत्री बन गई है।
-She called him a liar.	Sie nannte ihn einen Lügner.	उसने उसे झूठा कहा।
-She came out of there.	Sie kam von dort heraus.	वह वहाँ से निकली।
-She came out of there.	Sie ist von da raus gekommen.	वह वहाँ से निकली।
-She can play the drum.	Sie kann Trommel spielen.	वह ड्रम खेल सकती है।
-She can sew very well.	Sie kann ziemlich gut nähen.	वह बहुत अच्छी तरह से सिलाई कर सकती है।
-She can't drive a car.	Sie kann nicht Auto fahren.	वह एक कार नहीं चला सकती।
-She committed a crime.	Sie beging ein Verbrechen.	उसने अपराध किया।
 She decided not to go.	Sie entschloss sich, nicht zu gehen.	उसने जाने का फैसला नहीं किया।
 She decided to resign.	Sie entschloss sich, zurückzutreten.	उसने नीचे जाने का फैसला किया।
 She decided to resign.	Sie hat sich entschlossen, zurückzutreten.	उसने नीचे जाने का फैसला किया।
