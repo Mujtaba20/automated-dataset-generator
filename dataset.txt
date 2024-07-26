@@ -1,15 +1,4 @@
 
-You know that's a lie.	Du weißt, dass das gelogen ist.	आप जानते हैं कि झूठ बोला जाता है।
-You know that's a lie.	Sie wissen, dass das gelogen ist.	आप जानते हैं कि झूठ बोला जाता है।
-You know that's a lie.	Ihr wisst, dass das gelogen ist.	आप जानते हैं कि यह झूठ है।
-You know what I meant.	Du weißt, was ich meinte.	आपको पता है कि मेरा क्या मतलब था।
-You know what I think.	Du weißt, was ich denke.	क्या मेरी सोच के बारे में तुम्हें पता है।
-You know where I live.	Du weißt, wo ich wohne.	आपको मेरा निवास स्थान पता है।
-You know where Tom is.	Du weißt, wo Tom ist.	आप जानते हैं कि टॉम कहाँ है।
-You know where Tom is.	Sie wissen, wo Tom ist.	आप जानते हैं कि टॉम कहाँ है।
-You know who they are.	Sie wissen, wer sie sind.	जानते हैं आप कौन हैं।
-You know who they are.	Ihr wisst, wer sie sind.	क्या आप जानते है कि वे कौन है।
-You know who they are.	Du weißt, wer sie sind.	क्या आप जानते है कि वे कौन है।
 You know why I'm here.	Du weißt, warum ich hier bin.	आप जानते हैं कि मैं यहाँ क्यों हूँ।
 You live too far away.	Du wohnst zu weit weg.	आप बहुत दूर रहते हैं।
 You live too far away.	Sie wohnen zu weit weg.	आप बहुत दूर रहते हैं।
