@@ -38141,3 +38141,10 @@ I'll see you in class.	Ich sehe dich im Unterricht.	मैं पाठशाल
 I'll see you in court.	Ich sehe dich vor Gericht.	मैं आपको अदालत में देखूंगा।
 I'll see you in there.	Ich sehe dich dort drin.	मैं वहाँ तुम्हें देखूंगा।
 I'll show that to Tom.	Ich werde das Tom zeigen.	मैं उसे टॉम को दिखाऊंगा।
+I'll show you my room.	Ich werde dir mein Zimmer zeigen.	मैं तुम्हें अपना कमरा दिखाऊंगा।
+I'll show you the way.	Ich werde dir den Weg zeigen.	मैं तुम्हें रास्ता दिखाऊँगा।
+I'll sleep in my room.	Ich werde in meinem Zimmer schlafen.	मैं अपने कमरे में सोऊंगा।
+I'll stay if it rains.	Ich bleibe, wenn es regnet.	अगर बारिश होती है तो मैं रुक जाऊंगा।
+I'll stay if you want.	Ich bleibe, wenn du willst.	अगर तुम चाहो तो मैं रुक जाऊंगा।
+I'll take Tom to Mary.	Ich werde Tom zu Mary bringen.	मैं टॉम को मेरी के पास ले जाऊंगा।
+I'll take care of you.	Ich werde auf dich aufpassen.	मैं तुम्हारा ध्यान रखूंगा।

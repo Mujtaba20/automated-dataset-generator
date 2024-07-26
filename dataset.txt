@@ -1,14 +1,4 @@
 
-I'll show you my room.	Ich zeige Ihnen mein Zimmer.	मैं तुम्हें अपना कमरा दिखाऊंगा।
-I'll show you my room.	Ich zeige dir mein Zimmer.	मैं तुम्हें अपना कमरा दिखाऊंगा।
-I'll show you my room.	Ich zeige euch mein Zimmer.	मैं तुम्हें अपना कमरा दिखाऊंगा।
-I'll show you the way.	Ich werde dir den Weg zeigen.	मैं आपको रास्ता दिखाऊंगा।
-I'll sleep in my room.	Ich werde in meinem Zimmer schlafen.	मैं अपने कमरे में सोऊंगा।
-I'll stay if it rains.	Ich bleibe, wenn es regnet.	जब बारिश होती है तो मैं रहता हूं।
-I'll stay if you want.	Ich bleibe, wenn du willst.	अगर तुम चाहो तो मैं रहता हूँ।
-I'll stay if you want.	Ich bleibe, wenn Sie wollen.	अगर तुम चाहो तो मैं रहता हूँ।
-I'll take Tom to Mary.	Ich werde Tom zu Maria bringen.	मैं टॉम को मारिया ले जाऊंगा।
-I'll take care of you.	Ich werde mich um dich kümmern.	मैं आपकी देख - भाल करूंगा।
 I'll take them to Tom.	Ich bringe sie zu Tom.	मैं उसे टॉम ले जाता हूं।
 I'll take this to Tom.	Ich bringe das zu Tom.	मैं टॉम के पास लाता हूं।
 I'll take you with me.	Ich nehme dich mit.	मैं तुम्हें अपने साथ ले जाऊंगा।
