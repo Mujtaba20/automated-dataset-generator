@@ -1,14 +1,4 @@
 
-Tom is old, isn't he?	Tom ist alt, nicht wahr?	टॉम बूढ़ा है, है ना?
-Tom is older than me.	Tom ist älter als ich.	टॉम मुझसे बड़ा है।
-Tom is on guard duty.	Tom hat Wachdienst.	टॉम के पास सुरक्षा गार्ड हैं।
-Tom is on his way in.	Tom ist auf dem Weg nach drinnen.	टॉम अंदर के रास्ते पर है।
-Tom is on this train.	Tom ist in diesem Zug.	टॉम इस ट्रेन में है।
-Tom is one smart guy.	Tom ist ein schlauer Bursche.	टॉम एक चतुर लड़का है।
-Tom is one smart guy.	Tom ist ein schlauer Typ.	टॉम एक चतुर लड़का है।
-Tom is only thirteen.	Tom ist erst dreizehn.	टॉम केवल तेरह है।
-Tom is our only hope.	Tom ist unsere einzige Hoffnung.	टॉम हमारी एकमात्र आशा है।
-Tom is out of danger.	Tom ist außer Gefahr.	टॉम खतरे से बाहर है।
 Tom is out to get me.	Tom will mich holen.	टॉम मुझे प्राप्त करना चाहता है।
 Tom is paying a fine.	Tom zahlt ein Bußgeld.	टॉम जुर्माना देता है।
 Tom is paying a fine.	Tom zahlt Strafe.	टॉम सजा देता है।

@@ -34480,3 +34480,12 @@ Tom is not a student.	Tom ist kein Schüler.	टॉम एक छात्र �
 Tom is not one of us.	Tom gehört nicht zu uns.	टॉम हम में से एक नहीं है।
 Tom is now in danger.	Tom ist jetzt in Gefahr.	अब टॉम खतरे में है।
 Tom is now in prison.	Tom ist jetzt im Gefängnis.	टॉम अब कैद में है।
+Tom is old, isn't he?	Tom ist alt, oder?	टॉम बूढ़ा है, ना?
+Tom is older than me.	Tom ist älter als ich.	टॉम मुझसे बड़ा है।
+Tom is on guard duty.	Tom hat Wachdienst.	टॉम गार्ड ड्यूटी पर है।
+Tom is on his way in.	Tom ist auf dem Weg hierhin.	टॉम अपने रास्ते पर है।
+Tom is on this train.	Tom ist in diesem Zug.	टॉम इस ट्रेन में है।
+Tom is one smart guy.	Tom ist ein cleverer Kerl.	टॉम एक होशियार आदमी है।
+Tom is only thirteen.	Tom ist erst dreizehn.	टॉम बस तेरह साल का है।
+Tom is our only hope.	Tom ist unsere einzige Hoffnung.	टॉम हमारी एकमात्र उम्मीद है।
+Tom is out of danger.	Tom ist außer Gefahr.	टॉम खतरे से बाहर है।
