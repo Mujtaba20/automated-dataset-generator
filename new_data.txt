@@ -34220,3 +34220,13 @@ Tom got stage fright.	Tom bekam Lampenfieber.	टॉम को स्टेज �
 Tom got straight A's.	Tom hat nur Einsen bekommen.	टॉम ने सीधा ए ग्रेड प्राप्त किये।
 Tom got very jittery.	Tom wurde sehr nervös.	टॉम बहुत अधीर हो गया।
 Tom got very nervous.	Tom wurde sehr nervös.	टॉम बहुत घबराया हुआ था।
+Tom got very popular.	Tom wurde sehr beliebt.	टॉम बहुत प्रसिद्ध हो गया।
+Tom got very thirsty.	Tom wurde sehr durstig.	टॉम बहुत प्यासा हो गया।
+Tom got very wealthy.	Tom wurde sehr reich.	टॉम बहुत धनवान हो गया।
+Tom grimaced bravely.	Tom verzog tapfer das Gesicht.	टॉम बहादुरी से मुँह बिचकाया।
+Tom had Mary do that.	Tom ließ Maria das tun.	टॉमने मेरी से वह करवाया।
+Tom had a grand time.	Tom hatte eine großartige Zeit.	टॉम का एक शानदार समय था।
+Tom had appendicitis.	Tom hatte eine Blinddarmentzündung.	टॉम को पाचकोशिका में सूजन थी।
+Tom had his hair cut.	Tom ließ sich die Haare schneiden.	टॉमने अपने बाल कटवाए।
+Tom had many friends.	Tom hatte viele Freunde.	टॉम के कई दोस्त थे।
+Tom had no objection.	Tom hatte keine Einwände.	टॉम को कोई आपत्ति नहीं थी।
