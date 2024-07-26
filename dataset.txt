@@ -1,14 +1,4 @@
 
-Tom is a very lazy boy.	Tom ist ein ausgesprochen fauler Junge.	टॉम बहुत आलसी लड़का है।
-Tom is a very nice guy.	Tom ist ein sehr netter Kerl.	टॉम बहुत अच्छा लड़का है।
-Tom is a very nice man.	Tom ist ein sehr netter Mann.	टॉम बहुत अच्छा आदमी है।
-Tom is a very rich man.	Tom ist ein sehr reicher Mann.	टॉम बहुत अमीर आदमी है।
-Tom is a very rude man.	Tom ist ein sehr unhöflicher Mensch.	टॉम बहुत असभ्य व्यक्ति है।
-Tom is a very wise man.	Tom ist ein sehr weiser Mann.	टॉम बहुत बुद्धिमान व्यक्ति है।
-Tom is a wonderful guy.	Tom ist ein Spitzentyp.	टॉम एक शीर्ष प्रकार है।
-Tom is a young student.	Tom ist ein junger Student.	टॉम एक युवा छात्र है।
-Tom is above suspicion.	Tom ist jenseits jeden Verdachts.	टॉम हर संदेह से परे है।
-Tom is afraid of dying.	Tom hat Angst vor dem Sterben.	टॉम मरने से डरता है।
 Tom is against smoking.	Tom ist gegen das Rauchen.	टॉम धूम्रपान के खिलाफ है।
 Tom is almost home now.	Tom ist jetzt fast zu Hause.	टॉम अब लगभग घर पर है।
 Tom is already at home.	Tom ist schon zu Hause.	टॉम पहले से ही घर पर है।
