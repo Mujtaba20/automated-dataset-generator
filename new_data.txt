@@ -24500,3 +24500,8 @@ What did they find?	Was haben sie gefunden?	वे क्या ढूँढ़�
 What did they want?	Was wollten sie?	उन्हें क्या चाहिए था?
 What did you bring?	Was hast du gebracht?	तुमने क्या लाया?
 What did you bring? (different meaning)	Was bringst du?	तुम क्या लाते हो?
+What did you drink?	Was hast du getrunken?	तुमने क्या पिया?
+What did you learn?	Was hast du gelernt?	तुमने क्या सीखा है?
+What do they think?	Was denken sie?	वे क्या सोचते हैं?
+What do we owe Tom?	Was schulden wir Tom?	हम तोमे किसको उधार देते हैं?
+What do we owe you?	Was schulden wir dir?	हम तुम्हें क्या देते हैं?

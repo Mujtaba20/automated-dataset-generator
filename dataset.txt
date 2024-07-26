@@ -1,16 +1,4 @@
 
-What did you drink?	Was hast du getrunken?	आप ने क्या पिया?
-What did you drink?	Was habt ihr getrunken?	आप ने क्या पिया?
-What did you drink?	Was haben Sie getrunken?	आप ने क्या पिया?
-What did you learn?	Was hast du gelernt?	आपने क्या सीखा?
-What did you learn?	Was haben Sie gelernt?	आपने क्या सीखा?
-What did you learn?	Was habt ihr gelernt?	आपने क्या सीखा?
-What do they think?	Was denken sie?	आप क्या सोचते हैं?
-What do we owe Tom?	Was schulden wir Tom?	हम टॉम का क्या बकाया है?
-What do we owe Tom?	Was sind wir Tom schuldig?	हम क्या दोषी हैं?
-What do we owe you?	Was schulden wir Ihnen?	हम आपको क्या देना चाहते हैं?
-What do we owe you?	Was schulden wir euch?	हम आपको क्या देना चाहते हैं?
-What do we owe you?	Was schulden wir dir?	हम आपको क्या देना चाहते हैं?
 What do women want?	Was wollen Frauen?	महिलाएं क्या चाहती हैं?
 What do you expect?	Was erwartest du?	आप क्या उम्मीद करते हैं?
 What does Tom have?	Was hat Tom?	टॉम के पास क्या है?
