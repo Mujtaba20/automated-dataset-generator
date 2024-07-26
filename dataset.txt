@@ -1,14 +1,4 @@
 
-I have to leave you.	Ich muss dich verlassen.	मुझे आपको छोड़ना होगा।
-I have to repair it.	Ich muss es reparieren.	मुझे इसकी मरम्मत करनी है।
-I have to repair it.	Ich muss sie reparieren.	मुझे उनकी मरम्मत करनी है।
-I have to repair it.	Ich muss ihn reparieren.	मुझे इसकी मरम्मत करनी है।
-I have to sleep now.	Ich muss jetzt schlafen.	मुझे अभी सोना है।
-I have to stay home.	Ich muss zu Hause bleiben.	मुझे घर पर रहना है।
-I have to stop this.	Ich muss damit aufhören.	मुझे रुकना है।
-I have to study now.	Ich muss jetzt lernen.	मुझे अब अध्ययन करना है।
-I have to thank him.	Ich muss mich bei ihm bedanken.	मुझे उसे धन्यवाद देना है।
-I have to visit Tom.	Ich muss Tom besuchen.	मुझे टॉम का दौरा करना है।
 I have two brothers.	Ich habe zwei Brüder.	मेरे दो भाई हैं।
 I have two children.	Ich habe zwei Kinder.	मेरे दो बच्चे हैं।
 I have weird dreams.	Ich habe seltsame Träume.	मेरे अजीब सपने हैं।
