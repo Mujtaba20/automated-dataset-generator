@@ -1,14 +1,4 @@
 
-Tom is in big trouble.	Tom ist in großen Schwierigkeiten.	टॉम बड़ी कठिनाइयों में है।
-Tom is in college now.	Tom ist jetzt auf dem College.	टॉम अब कॉलेज में है।
-Tom is in front of me.	Tom befindet sich vor mir.	टॉम मेरे सामने है।
-Tom is in good health.	Toms Gesundheitszustand ist gut.	टॉम की स्वास्थ्य की स्थिति अच्छी है।
-Tom is in good health.	Tom erfreut sich guter Gesundheit.	टॉम को अच्छे स्वास्थ्य का आनंद मिलता है।
-Tom is in his library.	Tom ist in seiner Bibliothek.	टॉम अपनी लाइब्रेरी में है।
-Tom is in poor health.	Tom ist gesundheitlich angeschlagen.	टॉम स्वस्थ है।
-Tom is in the kitchen.	Tom ist in der Küche.	टॉम रसोई में है।
-Tom is in the lab now.	Tom ist jetzt im Labor.	टॉम अब प्रयोगशाला में है।
-Tom is in trouble now.	Tom ist jetzt in Schwierigkeiten.	टॉम अब मुसीबत में है।
 Tom is ironing shirts.	Tom bügelt gerade Hemden.	टॉम वर्तमान में शर्ट इस्त्री कर रहा है।
 Tom is known for that.	Tom ist dafür bekannt.	टॉम इसके लिए जाना जाता है।
 Tom is laughing at me.	Tom lacht mich aus.	टॉम मुझ पर हंसता है।

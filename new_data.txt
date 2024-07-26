@@ -40317,3 +40317,12 @@ Tom is here, isn't he?	Tom ist hier, oder?	टॉम यहाँ है, ना
 Tom is in a good mood.	Tom ist gut gelaunt.	टॉम अच्छे मूड में है।
 Tom is hard to please. (Different meaning)	Tom ist anspruchsvoll.	टॉम को खुश करना मुश्किल है। (भिन्न अर्थ)
 Tom is in a good mood. (Different meaning)	Tom ist in einer guten Stimmung.	टॉम अच्छे मूड में है। (भिन्न अर्थ)
+Tom is in big trouble.	Tom steckt in großen Schwierigkeiten.	टॉम बड़ी मुश्किल में है।
+Tom is in college now.	Tom ist jetzt im College.	टॉम अभी कॉलेज में है।
+Tom is in front of me.	Tom ist vor mir.	टॉम मेरे सामने है।
+Tom is in good health.	Tom ist bei gutsen Gesundheit.	टॉम की सेहत ठीक है।
+Tom is in his library.	Tom ist in seiner Bibliothek.	टॉम अपनी पुस्तकालय में है।
+Tom is in poor health.	Tom ist bei schlechter Gesundheit.	टॉम की सेहत बुरी है।
+Tom is in the kitchen.	Tom ist in der Küche.	टॉम रसोई में है।
+Tom is in the lab now.	Tom ist jetzt im Labor.	टॉम अभी प्रयोगशाला में है।
+Tom is in trouble now.	Tom hat jetzt Probleme.	टॉम अब मुश्किल में है।
