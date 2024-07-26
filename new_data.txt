@@ -34874,3 +34874,13 @@ Tom started laughing.	Tom begann zu lachen.	टॉम हंसने लगा�
 Tom started swearing.	Tom fing an zu fluchen.	टॉम ने शपथ खानी शुरू कर दी।
 Tom started to cough.	Tom fing an zu husten.	टॉम को खाँसने लगा।
 Tom started to laugh.	Tom fing an zu lachen.	टॉम हंसने लगा।
+Tom started to snore.	Tom fing an zu schnarchen.	टॉम ने खुजलाया शुरू कर दिया।
+Tom starved to death.	Tom verhungerte zu Tode.	टॉम को भूख से मर गया।
+Tom starved to death.(duplicate sentence)	Tom verhungerte zu Tode.	टॉम मौत के लिए भूख से मर गया।
+Tom still hates Mary.	Tom hasst Mary immer noch.	टॉम अब भी मेरी से नफरत करता है।
+Tom still loves Mary.	Tom liebt Mary immer noch.	टॉम अब भी मेरी से प्यार करता है।
+Tom still plays golf.	Tom spielt immer noch Golf.	टॉम अभी भी गोल्फ खेलता है।
+Tom stole my clothes.	Tom hat meine Kleider gestohlen.	टॉमने मेरे कपड़े चुराए।
+Tom stood his ground.	Tom hielt stand.	टॉमने अपनी ज़मीन पर खड़ा हुआ।
+Tom stood his ground.(duplicate sentence)	Tom blieb standhaft.	टॉमने अपनी ज़मीन पर अड़े रहे।
+Tom stood up to sing.	Tom stand auf, um zu singen.	टॉमने गाने के लिए खड़ा हो गया।
