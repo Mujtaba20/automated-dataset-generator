@@ -25575,3 +25575,10 @@ Has Tom arrived yet?	Ist Tom schon angekommen?	क्या टॉम पहु�
 Has Tom calmed down?	Ist Tom runtergekommen?	क्या टॉम शांत हो गया है?
 Has he failed again?	Ist er wieder gescheitert?	क्या वह फिर से विफल हुआ है?
 Have a beer with me.	Trink ein Bier mit mir.	मेरे साथ एक बीयर पियो।
+Have a good weekend!	Schönes Wochenende!	अच्छा वीकएंड हो!
+Have a good weekend.	Schönes Wochenende.	अच्छा वीकएंड हो।
+Have a nice evening.	Einen schönen Abend.	अच्छा शाम हो।
+Have a nice holiday.	Schönen Urlaub.	अच्छी छुट्टियां हों।
+Have a nice weekend!	Schönes Wochenende!	अच्छा वीकएंड हो!
+Have a nice weekend.	Schönes Wochenende.	अच्छा वीकएंड हो।
+Have a piece of pie.	Ein Stück Kuchen.	एक टुकड़े पाई हो।
