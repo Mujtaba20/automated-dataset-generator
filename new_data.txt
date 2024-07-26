@@ -28337,3 +28337,11 @@ They know who he is.	Sie wissen, wer er ist.	उन्हें पता है
 They know your name.	Sie kennen deinen Namen.	उन्हें आपका नाम पता है।
 They laughed at him.	Sie lachten über ihn.	उन्होंने उस पर हंसा।
 They look very busy.	Sie wirken sehr beschäftigt.	वे बहुत व्यस्त लग रहे हैं।
+They lost their dog.	Sie haben ihren Hund verloren.	उन्होंने अपना कुत्ता खो दिया।
+They love that song.	Sie lieben dieses Lied.	उन्हें वह गाना पसंद है।
+They love this song.	Sie lieben dieses Lied.	उन्हें यह गाना पसंद है।
+They made a promise.	Sie haben ein Versprechen gehalten.	उन्होंने एक वादा किया।
+They made fun of me.	Sie haben sich über mich lustig gemacht.	उन्होंने मेरे मजाक उड़ाया।
+They need investors.	Sie brauchen Investoren.	उन्हें निवेशकों की आवश्यकता है।
+They need new shoes.	Sie brauchen neue Schuhe.	उन्हें नए जूते चाहिए।
+They really did win.	Sie haben wirklich gewonnen.	उन्होंने सचमुच जीत ली।
