@@ -27628,3 +27628,11 @@ My goals are modest.	Meine Ziele sind bescheiden.	मेरे लक्ष्�
 My hair is so dirty!	Meine Haare sind so schmutzig!	मेरे बाल इतने गंदे हैं!
 My hair is so messy!	Meine Haare sind so durcheinander!	मेरे बाल इतने अशुद्ध हैं!
 My hair is too long.	Meine Haare sind zu lang.	मेरे बाल बहुत लंबे हैं।
+My head is spinning.	Mein Kopf dreht sich.	मेरा सिर घूम रहा है।
+My head still hurts.	Mein Kopf tut immer noch weh.	मेरा सिर अभी भी दर्द कर रहा है।
+My headache is gone.	Mein Kopfschmerz ist weg.	मेरा सिरदर्द गया है।
+My heart was racing.	Mein Herz raste.	मेरा दिल तेज़ी से धड़क रहा था।
+My hobby is cooking.	Mein Hobby ist das Kochen.	मेरा शौक खाना बनाना है।
+My hobby is fishing.	Mein Hobby ist das Angeln.	मेरा शौक मछली पकड़ना है।
+My hobby is reading.	Mein Hobby ist das Lesen.	मेरा शौक पढ़ना है।
+My home is far away.	Mein Zuhause ist weit weg.	मेरा घर दूर है।

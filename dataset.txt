@@ -1,14 +1,4 @@
 
-My head is spinning.	Mir ist schwindelig.	मुझे चक्कर आ रहा है.
-My head still hurts.	Mir tut noch immer der Kopf weh.	मेरा सिर अभी भी दर्द करता है।
-My headache is gone.	Mein Kopfweh ist weg.	मेरा सिरदर्द चला गया है।
-My heart was racing.	Mein Herz raste.	मेरा दिल दौड़ गया।
-My hobby is cooking.	Mein Hobby ist das Kochen.	मेरा शौक खाना बना रहा है।
-My hobby is fishing.	Mein Hobby ist das Fischen.	मेरा शौक मछली पकड़ रहा है।
-My hobby is fishing.	Mein Hobby ist das Angeln.	मेरा शौक मछली पकड़ रहा है।
-My hobby is reading.	Mein Steckenpferd ist das Lesen.	मेरा शौक पढ़ रहा है।
-My home is far away.	Meine Heimat ist weit weg.	मेरा घर बहुत दूर है।
-My home is far away.	Meine Heimat ist fern.	मेरा घर बहुत दूर है।
 My house is haunted.	Bei mir spukt es.	मेरे लिए यह प्रेतवाधित है।
 My house is haunted.	In meinem Haus spukt es.	यह मेरे घर में प्रेतवाधित हो गया।
 My knee is bleeding.	Mein Knie blutet.	मेरे घुटने से खून बह रहा है।
