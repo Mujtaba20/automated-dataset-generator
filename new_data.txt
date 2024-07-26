@@ -30768,3 +30768,8 @@ Don't break my heart.	Brich mir nicht das Herz.	मेरा दिल न त�
 Don't call me a jerk.	Nenn mich nicht einen Idioten.	मुझे पागल मत कहो।
 Don't disappoint him.	Enttäusche ihn nicht.	उसे निराश मत करो।
 Don't drink anything.	Trink nichts.	कुछ न पियो।
+Don't drive too fast.	Fahren Sie nicht zu schnell.	ज्यादा तेज़ी से ना चलाएँ।
+Don't eat like a pig.	Iss nicht wie ein Schwein.	सूअर की तरह न खाएँ।
+Don't eat without me.	Iss nicht ohne mich.	मेरे बिना न खाएँ।
+Don't forget to vote.	Vergessen Sie nicht zu wählen.	मत भूलें मतदान करने को।
+Don't eat unhealthy food.	Esse kein ungesundes Essen.	अस्वस्थ खाना न खाएं।
