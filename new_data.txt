@@ -25509,3 +25509,11 @@ Everyone was hungry.	Alle waren hungrig.	सभी भूखे थे।
 Everyone was killed.	Alle wurden getötet.	सभी को मार दिया गया था।
 Everyone's doing it.	Alle machen es.	सभी यह कर रहे हैं।
 Everyone's laughing.	Alle lachen.	सब हँस रहे हैं।
+Everyone's watching.	Alle schauen zu.	सब देख रहे हैं।
+Everyone, listen up.	Alle, hört zu.	सब, ध्यान से सुनो।
+Everything is cheap.	Alles ist billig.	सब सस्ता है।
+Everything is fresh.	Alles ist frisch.	सब ताजा है।
+Everything is quiet.	Alles ist ruhig.	सब शांत है।
+Everything is ready.	Alles ist fertig.	सब तैयार है।
+Everything seems OK.	Alles scheint in Ordnung zu sein.	सब ठीक लगता है।
+Everything was lost.	Alles war verloren.	सब खो गया था।
