@@ -38264,3 +38264,12 @@ I'm not hungry at all.	Ich habe überhaupt keinen Hunger.	मुझे बिल
 I'm not in Boston now.	Ich bin jetzt nicht in Boston.	मैं अब बोस्टन में नहीं हूँ।
 I'm not in any danger.	Ich bin in keiner Gefahr.	मुझे कोई खतरा नहीं है।
 I'm not in good shape.	Ich bin nicht in guter Verfassung.	मैं अच्छी तरह से नहीं हूँ।
+I'm not made of money.	Ich bin kein Geldscheißer.	मैं पैसे का निर्माण नहीं हूँ।
+I'm not old fashioned.	Ich bin nicht altmodisch.	मैं पुराने टाइप का नहीं हूँ।
+I'm not proud of that.	Ich bin nicht stolz darauf.	मैं उस पर गर्वित नहीं हूँ।
+I'm not proud of this.	Darauf bin ich nicht stolz.	मैं इस पर गर्वित नहीं हूँ।
+I'm not really hungry.	Ich habe gar keinen Hunger.	मुझे वास्तव में भूख नहीं है।
+I'm not satisfied yet.	Ich bin noch nicht zufrieden.	मैं अब भी संतुष्ट नहीं हूँ।
+I'm not scared at all.	Ich habe überhaupt keine Angst.	मुझे बिल्कुल भी डर नहीं है।
+I'm not scared of Tom.	Ich habe keine Angst vor Tom.	मुझे टॉम से डर नहीं है।
+I'm not sure about it.	Ich bin mir unsicher.	मुझे इसके बारे में सबकुछ ठीक समझ में नहीं आता।
