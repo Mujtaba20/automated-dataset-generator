@@ -33822,3 +33822,12 @@ They never came back.	Sie kamen nie zurück.	वे कभी वापस न�
 They never showed up.	Sie sind nie aufgetaucht.	उन्होंने कभी प्रकट नहीं हुए।
 They paid separately.	Sie zahlten getrennt.	उन्होंने अलग-अलग भुगतान किया।
 They play basketball.	Sie spielen Basketball.	वे बास्केटबॉल खेलते हैं।
+They say Tom is gone.	Sie sagen, Tom ist gegangen.	उन्होंने कहा, टॉम चला गया है।
+They seemed fearless.	Sie schienen furchtlos zu sein.	उन्होंने डरने का लगता है।
+They should thank me.	Sie sollten mir danken.	उन्हें मुझे धन्यवाद देना चाहिए।
+They slept in a barn.	Sie schliefen in einer Scheune.	उन्होंने एक गोदाम में सोया।
+They started dancing.	Sie begannen zu tanzen.	उन्होंने नृत्य शुरू किया।
+They started running.	Sie fingen an zu rennen.	उन्होंने दौड़ना शुरू किया।
+They started talking.	Sie begannen zu sprechen.	उन्होंने बातचीत शुरू की।
+They stopped hugging.	Sie hörten auf zu umarmen.	उन्होंने गले लगाना बंद कर दिया।
+They stopped running.	Sie hörten auf zu rennen.	उन्होंने दौड़ना बंद कर दिया।

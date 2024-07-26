@@ -1,14 +1,4 @@
 
-They say Tom is gone.	Sie sagen, dass Tom gestorben sei.	वे कहते हैं कि टॉम की मृत्यु हो गई।
-They seemed fearless.	Sie schienen furchtlos zu sein.	वे निडर लग रहे थे।
-They should thank me.	Sie sollten mir danken.	आपको मुझे धन्यवाद देना चाहिए।
-They slept in a barn.	Sie schliefen in einer Scheune.	वे एक खलिहान में सोए थे।
-They started dancing.	Sie fingen an zu tanzen.	उन्होंने नाचने लगा।
-They started dancing.	Sie fingen zu tanzen an.	उन्होंने नाचने लगा।
-They started running.	Sie liefen los.	वे भाग गए।
-They started talking.	Sie fingen an zu sprechen.	वे बोलने लगे।
-They stopped hugging.	Sie hörten auf, sich zu umarmen.	उन्होंने खुद को गले लगाना बंद कर दिया।
-They stopped running.	Sie blieben stehen.	वे रुक गये।
 They stopped singing.	Sie hörten auf zu singen.	उन्होंने गाना बंद कर दिया।
 They stopped talking.	Sie hörten auf zu reden.	उन्होंने बात करना बंद कर दिया।
 They stopped walking.	Sie blieben stehen.	वे रुक गये।
