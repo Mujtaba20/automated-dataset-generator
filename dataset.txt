@@ -1,14 +1,4 @@
 
-Tom couldn't breathe.	Tom bekam keine Luft.	टॉम को कोई हवा नहीं मिली।
-Tom couldn't breathe.	Tom konnte nicht Atem holen.	टॉम सांस नहीं ले सका।
-Tom couldn't breathe.	Tom konnte nicht atmen.	टॉम सांस नहीं ले सका।
-Tom couldn't do that.	Tom könnte das doch nicht.	टॉम नहीं कर सका।
-Tom couldn't find it.	Tom konnte es nicht finden.	टॉम इसे नहीं मिला।
-Tom craved attention.	Tom sehnte sich nach Aufmerksamkeit.	टॉम ध्यान के लिए तरस गया।
-Tom craves attention.	Tom giert nach Aufmerksamkeit.	टॉम ध्यान के लिए है।
-Tom crossed his legs.	Tom schlug die Beine übereinander.	टॉम ने अपने पैरों को एक दूसरे के ऊपर मारा।
-Tom crossed the road.	Tom überquerte die Straße.	टॉम ने सड़क पार की।
-Tom cuts Mary's hair.	Tom schneidet Marias Haare.	टॉम ने मारिया के बालों को काट दिया।
 Tom dabbled in magic.	Tom hat sich mit Magie abgegeben.	टॉम ने जादू के साथ हार मान ली है।
 Tom danced with Mary.	Tom tanzte mit Mary.	टॉम ने मैरी के साथ नृत्य किया।
 Tom danced with Mary.	Tom hat mit Mary getanzt.	टॉम ने मैरी के साथ नृत्य किया।

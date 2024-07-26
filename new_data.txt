@@ -34103,3 +34103,11 @@ Tom cooked me dinner.	Tom kochte mir das Abendessen.	टॉम ने मुझ�
 Tom cooked the books.	Tom kochte die Bücher.	टॉम ने किताबें पकाई।
 Tom could've changed.	Tom hätte sich ändern können.	टॉम बदल सकता था।
 Tom could've done it.	Tom könnte es getan haben.	टॉम ने यह कर सकता था।
+Tom couldn't breathe.	Tom konnte nicht atmen.	टॉम सांस नहीं ले सका।
+Tom couldn't do that.	Tom konnte das nicht tun.	टॉम वह नहीं कर सका।
+Tom couldn't find it.	Tom konnte es nicht finden.	टॉम उसे नहीं ढूंढ पाया।
+Tom craved attention.	Tom begehrte Aufmerksamkeit.	टॉम को ध्यान की तलाश थी।
+Tom craves attention.	Tom verlangt nach Aufmerksamkeit.	टॉम को ध्यान चाहिए।
+Tom crossed his legs.	Tom überkreuzte die Beine.	टॉम ने अपनी टांगें आंतरिक रूप से पलटीं।
+Tom crossed the road.	Tom überquerte die Straße.	टॉम ने सड़क पार की।
+Tom cuts Mary's hair.	Tom schneidet Marias Haare.	टॉम मेरी के बाल काटता है।
