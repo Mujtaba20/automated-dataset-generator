@@ -35043,3 +35043,13 @@ Tom will be so happy.	Tom wird so glücklich sein.	टॉम बहुत खु
 Tom will be so proud.	Tom wird sehr stolz sein.	टॉम बहुत गर्वित होगा।
 Tom will be thrilled.	Tom wird begeistert sein.	टॉम उत्साहित होगा।
 Tom will contact you.	Tom wird mit dir in Kontakt treten.	टॉम आपसे संपर्क करेगा।
+Tom will do his best.	Tom wird sein Bestes geben.	टॉम अपनी सबसे अच्छी कोशिश करेगा।
+Tom will do that now.	Tom wird das jetzt tun.	टॉम अब वह करेगा।
+Tom will do the same.	Tom wird dasselbe tun.	टॉम वही करेगा।
+Tom will forgive you.	Tom wird dir vergeben.	टॉम तुम्हें माफ करेगा।
+Tom will get over it.	Tom wird darüber hinwegkommen.	टॉम इस पर होने से बाहर निकल जाएगा।
+Tom will keep coming.	Tom wird weiterkommen.	टॉम आता रहेगा।
+Tom will never agree.	Tom wird niemals zustimmen.	टॉम कभी सहमत नहीं होगा।
+Tom will notify Mary.	Tom wird Mary benachrichtigen.	टॉम मैरी को सूचित करेगा।
+Tom will protect you.	Tom wird dich beschützen.	टॉम तुम्हें सुरक्षित रखेगा।
+Tom will regret this.	Tom wird dies bereuen.	टॉम इसे पछताएगा।
