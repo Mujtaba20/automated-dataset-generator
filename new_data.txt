@@ -31487,3 +31487,13 @@ I can't get over you.	Ich kann nicht über dich hinwegkommen.	मैं तु�
 I can't get promoted.	Ich kann nicht befördert werden.	मुझे पदोन्नति नहीं मिल सकती।
 I can't go into that.	Ich kann da nicht reingehen.	मैं उसमें नहीं जा सकता।
 I can't hear a thing.	Ich kann nichts hören.	मैं कुछ नहीं सुन सकता।
+I can't hide forever.	Ich kann nicht für immer verstecken.	मैं हमेशा के लिए छुपा नहीं सकता।
+I can't imagine that.	Ich kann mir das nicht vorstellen.	मैं उसे कल्पित नहीं कर सकता।
+I can't imagine that. 2	Ich kann das nicht vorstellen.	मैं उसे कल्पित नहीं कर सकता।
+I can't keep this up.	Ich kann das nicht weitermachen.	मैं इसे जारी नहीं रख सकता।
+I can't kiss you now.	Ich kann dich jetzt nicht küssen.	मैं अभी तुम्हें चुमने के सक्षम नहीं हूँ।
+I can't meet Tom now.	Ich kann Tom jetzt nicht treffen.	मैं अब टॉम से मिलने के योग्य नहीं हूँ।
+I can't move my legs.	Ich kann meine Beine nicht bewegen.	मैं अपनी टांगें नहीं हिला सकता।
+I can't pay my debts.	Ich kann meine Schulden nicht bezahlen.	मैं अपने कर्ज़ नहीं चुका सकता।
+I can't pay the rent.	Ich kann die Miete nicht bezahlen.	मैं किराया नहीं दे सकता।
+I can't promise that.	Ich kann das nicht versprechen.	मैं उसे वादा नहीं कर सकता।
