@@ -1,14 +1,4 @@
 
-Please give me my bag.	Bitte gib mir meine Tasche.	कृपया मुझे अपना बैग दें।
-Please give me my bag.	Bitte gebt mir meine Tasche.	कृपया मुझे अपना बैग दें।
-Please give me my bag.	Bitte geben Sie mir meine Tasche.	कृपया मुझे अपना बैग दें।
-Please go to the bank.	Geh bitte zur Bank.	कृपया बैंक जाएं।
-Please heat the water.	Erhitze bitte das Wasser!	कृपया पानी गर्म करें!
-Please iron the shirt.	Bitte bügle das Hemd.	कृपया अपनी शर्ट आयरन करें।
-Please keep my secret.	Behalte mein Geheimnis bitte für dich!	तुम्हारे लिए मेरा रहस्य रखो!
-Please leave me alone.	Lassen Sie mich bitte in Ruhe.	कृपया मुझे अकेला छोड़ दो।
-Please let me go home.	Bitte lasse mich heimgehen!	कृपया मुझे जाने दीजिए!
-Please let me go home.	Lass mich bitte nach Hause gehen.	कृपया मुझे घर जाने दें।
 Please light a candle.	Bitte mache eine Kerze an.	कृपया एक मोमबत्ती बनाएं।
 Please light a candle.	Zündet bitte eine Kerze an.	कृपया एक मोमबत्ती जलाएं।
 Please light a candle.	Bitte entzünden Sie eine Kerze.	कृपया एक मोमबत्ती जलाएं।

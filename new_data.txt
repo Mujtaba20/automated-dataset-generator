@@ -39001,3 +39001,10 @@ Please give Tom a job.	Bitte gib Tom einen Job.	कृपया टॉम को
 Please give me a call.	Bitte rufen Sie mich an.	कृपया मुझे कॉल करें।
 Please give me a hand.	Bitte hilf mir.	कृपया मेरी मदद करें।
 Please give me a visa.	Bitte geben Sie mir ein Visum.	कृपया मुझे एक वीज़ा दें।
+Please give me my bag.	Bitte gib mir meine Tasche.	कृपया मुझे मेरी बैग दें।
+Please go to the bank.	Bitte gehen Sie zur Bank.	कृपया बैंक जाएं।
+Please heat the water.	Bitte erhitzen Sie das Wasser.	कृपया पानी गरम करें।
+Please iron the shirt.	Bitte bügeln Sie das Hemd.	कृपया कमीज़ प्रेस करें।
+Please keep my secret.	Bitte bewahren Sie mein Geheimnis.	कृपया मेरा राज रखें।
+Please leave me alone.	Bitte lass mich allein.	कृपया मुझे अकेले छोड़ दो।
+Please let me go home.	Bitte erlauben Sie mir, nach Hause zu gehen.	कृपया मुझे घर जाने दें।
