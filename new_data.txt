@@ -25316,3 +25316,10 @@ Do I have to go now?	Muss ich jetzt gehen?	क्या मुझे अब ज�
 Do as you think fit.	Tue, was du für richtig hältst.	जैसा तुम्हें ठीक लगे करो।
 Do exactly as I say.	Tue genau, was ich sage.	बिल्कुल वैसा करो जैसा मैं कहूँ।
 Do fish drink water?	Trinken Fische Wasser?	क्या मछलियाँ पानी पीती हैं?
+Do it while you can.	Tu es, solange du kannst.	जब तुम कर सकते हो तो करो।
+Do snakes scare you?	Machen Schlangen dir Angst?	क्या साँप तुम्हें डरातें हैं?
+Do we have a choice?	Haben wir eine Wahl?	क्या हमें कोई विकल्प है?
+Do we need a Plan B?	Brauchen wir einen Plan B?	क्या हमें एक प्लान बी की आवश्यकता है?
+Do what you're told.	Tu, was dir gesagt wird.	जो कहा गया है, वह करो।
+Do you drink coffee?	Trinkst du Kaffee?	क्या तुम कॉफ़ी पीते हो?
+Do you enjoy losing?	Mach es dir Spaß zu verlieren?	क्या गायब होने में आनंद आता है?
