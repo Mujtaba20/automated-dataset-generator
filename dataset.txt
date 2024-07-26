@@ -1,16 +1,4 @@
 
-You wasted your money.	Du hast dein Geld vergeudet.	आपने अपना पैसा बर्बाद कर दिया।
-You were meant for me.	Du warst für mich bestimmt.	आप मेरे लिए निश्चित थे।
-You were really great.	Du warst wirklich großartig!	आप वास्तव में महान थे!
-You were right before.	Du hast vorhin recht gehabt.	आप ठीक पहले थे।
-You will like Germany.	Du wirst Deutschland mögen.	आप जर्मनी को पसंद करेंगे।
-You will pay for this.	Dafür wirst du bezahlen!	आप इसके लिए भुगतान करेंगे!
-You will pay for this.	Dafür werden Sie bezahlen!	आप इसके लिए भुगतान करेंगे!
-You will pay for this.	Dafür werdet ihr bezahlen!	आप इसके लिए भुगतान करेंगे!
-You will stay at home.	Du wirst zu Hause bleiben.	आप घर पर रहेंगे।
-You won't be arrested.	Man wird dich nicht festnehmen.	आपको गिरफ्तार नहीं किया जाएगा।
-You won't be arrested.	Man wird Sie nicht festnehmen.	आप उन्हें गिरफ्तार नहीं करेंगे।
-You won't be arrested.	Man wird euch nicht festnehmen.	आपको गिरफ्तार नहीं किया जाएगा।
 You won't regret this.	Du wirst das nicht bereuen.	आपको पछतावा नहीं होगा।
 You won't regret this.	Sie werden das nicht bereuen.	आपको पछतावा नहीं होगा।
 You'd better hurry up.	Du solltest dich besser beeilen.	आपको बेहतर जल्दी करना चाहिए।
