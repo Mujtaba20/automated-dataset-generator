@@ -39376,3 +39376,13 @@ That's how it is done.	So wird es gemacht.	यह कैसे किया ज�
 That's how it started.	So hat es angefangen.	यह कैसे शुरू हुआ।
 That's irrelevant now.	Das ist jetzt irrelevant.	वह अब अमान्य है।
 engSentence		
+That's not what we do.	Das ist nicht das, was wir tun.	यह वह नहीं है जो हम करते हैं।
+That's not why I came.	Das ist nicht der Grund, warum ich gekommen bin.	वह वह नहीं है जिसके लिए मैं आया था।
+That's one of my cats.	Das ist eine meiner Katzen.	वह मेरी बिल्लियों में से एक है।
+That's one of my dogs.	Das ist einer meiner Hunde.	यह मेरे कुत्तों में से एक है।
+That's part of my job.	Das ist Teil meiner Arbeit.	यह मेरे काम का हिस्सा है।
+That's pretty obvious.	Das ist ziemlich offensichtlich.	यह काफी स्पष्ट है।
+That's pretty serious.	Das ist ziemlich ernst.	यह काफी गंभीर है।
+That's quite possible.	Das ist durchaus möglich.	यह काफी संभावना है।
+That's the last straw!	Das ist der berühmte Tropfen, der das Fass zum Überlaufen bringt!	यह आखिरी टिड्डी है!
+That's the last straw.	Das ist wirklich genug.	अब हो गया!
