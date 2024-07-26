@@ -1,14 +1,4 @@
 
-Tom is a binge drinker.	Tom ist ein Komasäufer.	टॉम एक कोमा धावक है।
-Tom is a bit conceited.	Tom ist ein bisschen eingebildet.	टॉम थोड़ी कल्पना है।
-Tom is a bit eccentric.	Tom ist etwas exzentrisch.	टॉम थोड़ा सनकी है।
-Tom is a brave warrior.	Tom ist ein tapferer Krieger.	टॉम एक बहादुर योद्धा है।
-Tom is a cabinet maker.	Tom ist Tischler.	टॉम बढ़ई है।
-Tom is a carpenter now.	Tom ist jetzt Zimmermann.	टॉम अब एक बढ़ई है।
-Tom is a child prodigy.	Tom ist ein Wunderkind.	टॉम एक बच्चा है।
-Tom is a chimney sweep.	Tom ist Schornsteinfeger.	टॉम चिमनी स्वीप है।
-Tom is a choreographer.	Tom ist Choreograph.	टॉम एक कोरियोग्राफर है।
-Tom is a control freak.	Tom hat einen Kontrollwahn.	टॉम का नियंत्रण क्रेज है।
 Tom is a dance teacher.	Tom ist Tanzlehrer.	टॉम एक नृत्य शिक्षक है।
 Tom is a dermatologist.	Tom ist Hautarzt.	टॉम त्वचा विशेषज्ञ है।
 Tom is a famous artist.	Tom ist ein bekannter Künstler.	टॉम एक अच्छी तरह से ज्ञात कलाकार है।
