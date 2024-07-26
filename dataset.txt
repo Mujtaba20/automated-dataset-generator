@@ -1,16 +1,4 @@
 
-Tom swims very fast.	Tom schwimmt sehr schnell.	टॉम बहुत जल्दी तैरता है।
-Tom swims very well.	Tom schwimmt sehr gut.	टॉम बहुत अच्छी तरह से तैरता है।
-Tom talked too much.	Tom hat zu viel geredet.	टॉम ने बहुत बात की।
-Tom talks to plants.	Tom spricht mit den Pflanzen.	टॉम पौधों से बात करता है।
-Tom talks very fast.	Tom redet sehr schnell.	टॉम बहुत जल्दी बात करता है।
-Tom talks very loud.	Tom spricht sehr laut.	टॉम बहुत जोर से बोलता है।
-Tom taught me a lot.	Tom hat mir viel beigebracht.	टॉम ने मुझे बहुत कुछ सिखाया।
-Tom taught me a lot.	Tom hat mich viel gelehrt.	टॉम ने मुझे बहुत कुछ सिखाया।
-Tom taught us music.	Tom unterrichtete uns in Musik.	टॉम ने हमें संगीत में सिखाया।
-Tom threatened Mary.	Tom bedrohte Mary.	टॉम ने मैरी को धमकी दी।
-Tom threatened Mary.	Tom drohte Mary.	टॉम ने मैरी को धमकी दी।
-Tom threatened Mary.	Tom hat Mary bedroht.	टॉम ने मैरी को धमकी दी।
 Tom threatened them.	Tom drohte ihnen.	टॉम ने उन्हें धमकी दी।
 Tom told me nothing.	Tom hat mir nichts gesagt.	टॉम ने मुझे कुछ नहीं बताया।
 Tom took Friday off.	Tom nahm sich am Freitag frei.	टॉम ने शुक्रवार को खुद को रिहा कर दिया।

@@ -29313,3 +29313,12 @@ Tom studied biology.	Tom hat Biologie studiert.	टॉम ने जीववि
 Tom studied geology.	Tom hat Geologie studiert.	टॉम ने भूविज्ञान पढ़ा।
 Tom swatted the fly.	Tom schlug die Fliege.	टॉम ने मक्खी को मार दिया।
 Tom swims every day.	Tom schwimmt jeden Tag.	टॉम हर दिन तैरता है।
+Tom swims very fast.	Tom schwimmt sehr schnell.	टॉम बहुत तेजी से तैरता है।
+Tom swims very well.	Tom schwimmt sehr gut.	टॉम बहुत अच्छे से तैरता है।
+Tom talked too much.	Tom hat zu viel geredet.	टॉम ने बहुत बातें की।
+Tom talks to plants.	Tom spricht mit Pflanzen.	टॉम पौधों से बात करता है।
+Tom talks very fast.	Tom spricht sehr schnell.	टॉम बहुत तेजी से बात करता है।
+Tom talks very loud.	Tom spricht sehr laut.	टॉम बहुत जोर से बोलता है।
+Tom taught me a lot.	Tom hat mir viel beigebracht.	टॉम ने मुझे बहुत कुछ सिखाया।
+Tom taught us music.	Tom hat uns Musik beigebracht.	टॉम ने हमें संगीत सिखाया।
+Tom threatened Mary.	Tom hat Mary bedroht.	टॉम ने मेरी को धमकी दी।
