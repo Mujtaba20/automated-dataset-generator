@@ -1,14 +1,4 @@
 
-Tom went to college.	Tom hat studiert.	टॉम ने अध्ययन किया।
-Tom will be furious.	Tom wird wütend sein.	टॉम गुस्से में होगा।
-Tom will be pleased.	Tom wird erfreut sein.	टॉम प्रसन्न होगा।
-Tom will be present.	Tom wird anwesend sein.	टॉम उपस्थित होगा।
-Tom will come early.	Tom wird früher kommen.	टॉम पहले आएगा।
-Tom will come later.	Tom kommt später.	टॉम बाद में आता है।
-Tom will follow you.	Tom wird dir folgen.	टॉम आपका अनुसरण करेगा।
-Tom will follow you.	Tom wird Ihnen folgen.	टॉम उनका अनुसरण करेंगे।
-Tom will follow you.	Tom wird euch folgen.	टॉम आपका अनुसरण करेगा।
-Tom will go as well.	Tom geht auch hin.	टॉम भी वहां जाता है।
 Tom will leave soon.	Tom wird bald gehen.	टॉम जल्द ही जाएगा।
 Tom will leave soon.	Tom reist bald ab.	टॉम जल्द ही चले जाएंगे।
 Tom will look at it.	Tom wird es sich anschauen.	टॉम इसे देखेंगे।

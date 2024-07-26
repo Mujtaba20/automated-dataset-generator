@@ -29423,3 +29423,11 @@ Tom went on singing.	Tom sang weiter.	टॉम गाते रहे।
 Tom went on working.	Tom arbeitete weiter.	टॉम काम करते रहे।
 Tom went out to eat.	Tom ging aus, um zu essen.	टॉम बाहर खाने जाए।
 Tom went to Harvard.	Tom ging nach Harvard.	टॉम हार्वर्ड गया।
+Tom went to college.	Tom ging zur Universität.	टॉम कॉलेज गया।
+Tom will be furious.	Tom wird wütend sein.	टॉम बहुत गुस्से में होगा।
+Tom will be pleased.	Tom wird erfreut sein.	टॉम खुश होगा।
+Tom will be present.	Tom wird anwesend sein.	टॉम मौजूद होगा।
+Tom will come early.	Tom wird früh kommen.	टॉम जल्दी आएगा।
+Tom will come later.	Tom wird später kommen.	टॉम बाद में आएगा।
+Tom will follow you.	Tom wird dir folgen.	टॉम तुम्हारा पीछा करेगा।
+Tom will go as well.	Tom wird auch gehen.	टॉम भी जाएगा।
