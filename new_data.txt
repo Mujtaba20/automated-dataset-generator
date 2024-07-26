@@ -36467,3 +36467,11 @@ Does anyone live here?	Lebt hier jemand?	क्या यहाँ किसी 
 Does he speak English?	Spricht er Englisch?	क्या वह अंग्रेज़ी बोलता है?
 Does it really matter?	Spielt das wirklich eine Rolle?	क्या यह वास्तव में मायने रखता है?
 Does she like oranges?	Mag sie Orangen?	क्या उसे संतरे पसंद हैं?
+Does that about do it?	Macht das etwa aus?	क्या यह लगभग कर देता है?
+Does that ring a bell?	Kommt dir das bekannt vor?	क्या यह कोई चीज याद आती है?
+Does that satisfy you?	Bist du zufrieden damit?	क्या यह आपको संतुष्ट करता है?
+Does the hat fit well?	Passt der Hut gut?	क्या टोपी अच्छी तरह से फिट होती है?
+Does this really work?	Funktioniert das tatsächlich?	क्या यह वास्तव में काम करता है?
+Does this ring a bell?	Klingelt da was?	क्या यह कुछ कहता है?
+Does this spider bite?	Beißen diese Spinne?	क्या यह मकड़ी काटती है?
+Does this window open?	Öffnet sich dieses Fenster?	क्या यह खिड़की खुलती है?
