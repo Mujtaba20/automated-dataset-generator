@@ -41308,3 +41308,12 @@ What more do you need?	Was brauchst du noch?	तुम्हें और क्
 What more do you want?	Was willst du noch?	तुम्हें और क्या चाहिए?
 What needs to be done?	Was muss getan werden?	क्या किया जाना चाहिए?
 What on earth is that?	Was ist das auf Erden?	वह क्या है पृथ्वी पर?
+What should I do next?	Was soll ich als nächstes tun?	आगे क्या करना चाहिए?
+What should we do now?	Was sollen wir jetzt tun?	अब हम क्या करें?
+What should we expect?	Was sollten wir erwarten?	हमें क्या अपेक्षित है?
+What size do you take?	Welche Größe nimmst du?	आप कौनसी साइज लेते हैं?
+What size do you wear?	Welche Größe trägst du?	आप किस साइज पहनते हैं?
+What they say is true.	Was sie sagen, ist wahr.	वह जो कहते हैं, सच है।
+What time do we leave?	Wann gehen wir los?	हम कितने बजे निकलेंगे?
+What time do you open?	Wann öffnen Sie?	आप कितने बजे खोलते हैं?
+What time is it there?	Wie spät ist es dort?	वहाँ कितना समय है?
