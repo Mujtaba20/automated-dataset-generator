@@ -1,14 +1,4 @@
 
-He killed that man.	Er hat diesen Mann umgebracht.	उसने इस आदमी को मार डाला।
-He kissed her hand.	Er gab ihr einen Handkuss.	उसने उसे एक हाथ चुंबन दिया।
-He knows the truth.	Er kennt die Wahrheit.	वह सच्चाई जानता है।
-He lacks judgement.	Es fehlt ihm an Urteilsvermögen.	उसके पास निर्णय का अभाव है।
-He lay on his back.	Er legte sich auf den Rücken.	वह अपनी पीठ पर लेट गया।
-He learned to swim.	Er hat schwimmen gelernt.	उसने तैराकी सीखी।
-He lied to my face.	Er log mir ins Gesicht.	वह मेरा चेहरा लॉग करता है।
-He lied to my face.	Er hat mir ins Gesicht gelogen.	उसने मेरे चेहरे पर झूठ बोला।
-He likes adventure.	Er mag Abenteuer.	उसे एडवेंचर पसंद है।
-He likes sweet tea.	Er trinkt gerne süßen Tee.	वह मीठी चाय पीना पसंद करता है।
 He likes that book.	Er mag dieses Buch.	वह इस पुस्तक को पसंद करता है।
 He likes this book.	Er mag dieses Buch.	वह इस पुस्तक को पसंद करता है।
 He lit the candles.	Er zündete die Kerzen an.	उसने मोमबत्तियाँ जलाईं।

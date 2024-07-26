@@ -20804,3 +20804,12 @@ He kept on singing.	Er sang weiter.	वह गाता रहा।
 He kept quite calm.	Er blieb ziemlich ruhig.	वह काफी शांत रहे।
 He kicked me twice.	Er hat mich zweimal getreten.	उसने मुझे दो बार धक्का मारा।
 He kicked the ball.	Er trat den Ball.	उसने गेंद को धक्का मारा।
+He killed that man.	Er hat diesen Mann getötet.	उसने उस आदमी को मार डाला।
+He kissed her hand.	Er küsste ihre Hand.	उसने उसके हाथ को चुमा।
+He knows the truth.	Er kennt die Wahrheit.	उसे सच्चाई पता है।
+He lacks judgement.	Er mangelt an Urteilsvermögen.	उसे निर्णय की कमी है।
+He lay on his back.	Er lag auf dem Rücken.	उसने पीठ पर लेट गया।
+He learned to swim.	Er lernte schwimmen.	उसने तैरना सीखा।
+He lied to my face.	Er hat mir ins Gesicht gelogen.	उसने मेरे सामने झूठ बोला।
+He likes adventure.	Er mag Abenteuer.	उसे साहसिक कार्य पसंद है।
+He likes sweet tea.	Er mag süßen Tee.	उसे मीठी चाय पसंद है।
