@@ -1,14 +1,4 @@
 
-Tom can write well.	Tom kann gut schreiben.	टॉम अच्छा लिख ​​सकता है।
-Tom can't be saved.	Tom ist unrettbar.	टॉम अप्राप्य है।
-Tom can't eat pork.	Tom kann kein Schweinefleisch essen.	टॉम पोर्क नहीं खा सकता।
-Tom can't help you.	Tom kann dir nicht helfen.	टॉम आपकी मदद नहीं कर सकता।
-Tom can't help you.	Tom kann Ihnen nicht helfen.	टॉम आपकी मदद नहीं कर सकता।
-Tom can't hurt you.	Tom kann dir nicht weh tun.	टॉम आपको चोट नहीं पहुंचा सकता।
-Tom can't hurt you.	Tom kann dir nichts tun.	टॉम आपके साथ कुछ नहीं कर सकता।
-Tom can't read yet.	Tom kann noch nicht lesen.	टॉम अभी तक नहीं पढ़ सकता है।
-Tom can't remember.	Tom erinnert sich nicht mehr.	टॉम अब याद नहीं है।
-Tom can't remember.	Tom kann sich nicht erinnern.	टॉम याद नहीं कर सकता।
 Tom can't stand it.	Tom kann es nicht ertragen.	टॉम इसे सहन नहीं कर सकता।
 Tom can't stand it.	Tom kann es nicht aushalten.	टॉम इसे बर्दाश्त नहीं कर सकता।
 Tom can't stop now.	Tom kann jetzt nicht aufhören.	टॉम अब रुक नहीं सकता।

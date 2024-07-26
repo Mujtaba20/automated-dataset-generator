@@ -23350,3 +23350,13 @@ Tom can be trusted.	Tom kann vertraut werden.	टॉम पर भरोसा �
 Tom can dance well.	Tom kann gut tanzen.	टॉम अच्छा डांस कर सकता है।
 Tom can see ghosts.	Tom kann Geister sehen.	टॉम भूत देख सकता है।
 Tom can trust Mary.	Tom kann Mary vertrauen.	टॉम मेरी पर विश्वास कर सकता है।
+Tom can write well.	Tom kann gut schreiben.	टॉम अच्छे से लिख सकता है।
+Tom can't be saved.	Tom kann nicht gerettet werden.	टॉम को बचाया नहीं जा सकता।
+Tom can't eat pork.	Tom kann kein Schweinefleisch essen.	टॉम सुअर का मांस नहीं खा सकता।
+Tom can't help you.	Tom kann dir nicht helfen.	टॉम तुम्हें मदद नहीं कर सकता।
+Tom can't help you. (Different meaning)	Tom kann nicht helfen, dich zu finden.	टॉम तुम्हें मदद नहीं कर सकता तुम्हें ढूंढ़ने में।
+Tom can't hurt you.	Tom kann dir nicht schaden.	टॉम तुम्हें नुकसान नहीं पहुँचा सकता।
+Tom can't hurt you. (Different meaning)	Tom kann dich nicht verletzen.	टॉम तुम्हें चोट नहीं पहुँचा सकता।
+Tom can't read yet.	Tom kann noch nicht lesen.	टॉम अभी तक पढ़ नहीं सकता।
+Tom can't remember.	Tom kann sich nicht erinnern.	टॉम याद नहीं कर सकता।
+Tom can't remember. (Different meaning)	Tom kann nicht vergessen.	टॉम भूल नहीं सकता।
