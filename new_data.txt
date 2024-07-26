@@ -24998,3 +24998,9 @@ You're quite right.	Da hast du völlig recht.	आप बिल्कुल स�
 You're quite smart.	Du bist ziemlich schlau.	तुम बहुत होशियार हो।
 You're really cute.	Du bist wirklich süß.	तुम सचमुच प्यारे हो।
 You're replaceable.	Du bist ersetzbar.	आप प्रतिस्थापनीय हैं।
+You're so pathetic.	Du bist so erbärmlich.	तुम इतने हानिकारक हो।
+You're so romantic.	Du bist so romantisch.	तुम इतने रोमांटिक हो।
+You're soaking wet.	Du bist klatschnass.	तुम भीगे हुए हो।
+You're still green.	Du bist immer noch unerfahren.	तुम अभी भी अनुभवहीन हो।
+You're still young.	Du bist immer noch jung.	तुम अभी भी युवा हो।
+You're such a liar.	Du bist so ein Lügner.	तुम एक झूठा हो।
