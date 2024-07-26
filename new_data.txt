@@ -29100,3 +29100,13 @@ Tom looked confused.	Tom sah verwirrt aus.	टॉम भ्रामित द�
 Tom looked fatigued.	Tom sah ermüdet aus.	टॉम थका हुआ दिखा।
 Tom looked hesitant.	Tom wirkte zögerlich.	टॉम संदेहात्मक दिखा।
 Tom looked up at me.	Tom schaute zu mir hoch.	टॉम मुझ पर उठकर देखा।
+Tom looked very old.	Tom sah sehr alt aus.	टॉम बहुत बूढ़ा लग रहा था।
+Tom looked very sad.	Tom sah sehr traurig aus.	टॉम बहुत उदास लग रहा था।
+Tom looks depressed.	Tom wirkt deprimiert.	टॉम डिप्रेस्ड लगता है।
+Tom looks dignified.	Tom wirkt würdevoll.	टॉम गरिमामय लग रहा है।
+Tom looks exhausted.	Tom wirkt erschöpft.	टॉम थका हुआ लग रहा है।
+Tom looks fantastic.	Tom sieht fantastisch aus.	टॉम बहुत शानदार लग रहा है।
+Tom looks flustered.	Tom wirkt aufgeregt.	टॉम फुसफुसाया हुआ लग रहा है।
+Tom looks irritated.	Tom wirkt gereizt.	टॉम चिड़चिड़ा हुआ लग रहा है।
+Tom looks like John.	Tom sieht aus wie John.	टॉम जॉन जैसा दिखता है।
+Tom looks undecided.	Tom wirkt unentschlossen.	टॉम अनिश्चित लग रहा है।
