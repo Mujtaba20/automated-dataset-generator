@@ -30702,3 +30702,10 @@ Do you like tomatoes?	Magst du Tomaten?	क्या आप टमाटर प�
 Do you like your car?	Magst du dein Auto?	क्या आप अपनी कार पसंद करते हैं?
 Do you mean this one?	Meinst du dieses hier?	क्या तुम इसे मतलब कर रहे हो?
 Do you mean this one? (different meaning)	Ist das deine Absicht?	क्या तुम इसे मतलब कर रहे हो?
+Do you meditate, Tom?	Meditierst du, Tom?	क्या तुम ध्यान करते हो, टॉम?
+Do you need a lawyer?	Benötigen Sie einen Anwalt?	क्या आपको एक वकील की आवश्यकता है?
+Do you need a minute?	Brauchst du eine Minute?	क्या तुम्हें एक मिनट की आवश्यकता है?
+Do you need a second?	Brauchst du eine Sekunde?	क्या तुम्हें एक सेकंड की आवश्यकता है?
+Do you need our help?	Benötigen Sie unsere Hilfe?	क्या आपको हमारी सहायता की आवश्यकता है?
+Do you need the book?	Brauchst du das Buch?	क्या तुम्हें किताब की आवश्यकता है?
+Do you need the keys?	Brauchst du die Schlüssel?	क्या तुम्हें चाबियाँ चाहिए?

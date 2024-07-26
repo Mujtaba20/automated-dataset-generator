@@ -1,15 +1,4 @@
 
-Do you meditate, Tom?	Meditierst du, Tom?	क्या आप ध्यान करते हैं, टॉम?
-Do you need a lawyer?	Brauchen Sie einen Anwalt?	क्या आपको एक वकील की जरूरत है?
-Do you need a lawyer?	Brauchst du einen Anwalt?	क्या आपको एक वकील की जरूरत है?
-Do you need a lawyer?	Braucht ihr einen Anwalt?	क्या आपको एक वकील की जरूरत है?
-Do you need a minute?	Brauchen Sie eine Minute?	क्या आपको एक मिनट की आवश्यकता है?
-Do you need a second?	Brauchst du noch einen Moment?	क्या आपको एक पल की आवश्यकता है?
-Do you need our help?	Brauchst du unsere Hilfe?	क्या आपको हमारी मदद की ज़रूरत है?
-Do you need our help?	Benötigen Sie unsere Hilfe?	क्या आपको हमारी मदद की ज़रूरत है?
-Do you need the book?	Brauchst du das Buch?	क्या आपको पुस्तक की आवश्यकता है?
-Do you need the keys?	Brauchst du die Schlüssel?	क्या आपको चाबियों की आवश्यकता है?
-Do you need the keys?	Brauchen Sie die Schlüssel?	क्या आपको चाबियों की आवश्यकता है?
 Do you play baseball?	Spielst du Baseball?	क्या आप बेसबॉल खेलते हैं?
 Do you play baseball?	Spielt ihr Baseball?	क्या आप बेसबॉल खेलते हैं?
 Do you play baseball?	Spielen Sie Baseball?	क्या आप बेसबॉल खेलते हैं?
