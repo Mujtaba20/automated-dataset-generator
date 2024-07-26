@@ -21167,3 +21167,13 @@ I don't drink wine.	Ich trinke keinen Wein.	मैं शराब नहीं 
 I don't eat apples.	Ich esse keine Äpfel.	मैं सेब नहीं खाता.
 I don't fear death.	Ich fürchte mich nicht vor dem Tod.	मैं मौत से नहीं डरता.
 I don't follow you.	Ich folge dir nicht.	मैं तुम्हें नहीं पहचानता।
+I don't have a car.	Ich habe kein Auto.	मेरे पास एक कार नहीं है।
+I don't have a dog.	Ich habe keinen Hund.	मेरे पास एक कुत्ता नहीं है।
+I don't have a job.	Ich habe keine Arbeit.	मेरे पास कोई नौकरी नहीं है।
+I don't have a key.	Ich habe keinen Schlüssel.	मेरे पास एक कुंजी नहीं है।
+I don't have money.	Ich habe kein Geld.	मेरे पास पैसे नहीं हैं।
+I don't have to go.	Ich muss nicht gehen.	मुझे जाने की आवश्यकता नहीं है।
+I don't have vodka.	Ich habe keinen Wodka.	मेरे पास वोडका नहीं है।
+I don't like liars.	Ich mag keine Lügner.	मुझे झूठे लोग नहीं पसंद हैं।
+I don't like sushi.	Ich mag kein Sushi.	मुझे सुशी पसंद नहीं है।
+I don't need a car.	Ich brauche kein Auto.	मुझे एक कार की जरूरत नहीं है।

@@ -1,14 +1,4 @@
 
-I don't have a car.	Ich habe kein Auto.	मेरे पास एक कार नहीं है।
-I don't have a dog.	Ich habe keinen Hund.	मेरे पास एक कुत्ता नहीं है।
-I don't have a job.	Ich habe keine Arbeit.	मेरे पास काम नहीं है।
-I don't have a key.	Ich habe keinen Schlüssel.	मेरे पास कोई चाबी नहीं है।
-I don't have money.	Ich habe kein Geld.	मेरे पास पैसे नहीं है।
-I don't have to go.	Ich muss nicht gehen.	मुझे जाने की जरूरत नहीं है।
-I don't have vodka.	Ich habe keinen Wodka.	मेरे पास कोई वोदका नहीं है।
-I don't like liars.	Ich mag keine Lügner.	मुझे झूठे पसंद नहीं हैं।
-I don't like sushi.	Ich mag kein Sushi.	मुझे सुशी पसंद नहीं है।
-I don't need a car.	Ich brauche kein Auto.	मुझे कार की जरूरत नहीं है।
 I don't often sing.	Ich singe nicht oft.	मैं अक्सर नहीं गाता।
 I don't play poker.	Ich pokere nicht.	मैं पोकर नहीं करता।
 I don't trust them.	Ich vertraue ihnen nicht.	मुझे उन पर भरोसा नहीं है।
