@@ -1,14 +1,4 @@
 
-I don't understand you.	Ich verstehe Sie nicht.	मुझे तुम्हारी बात समझ नहीं आती है।
-I don't understand you.	Ich verstehe euch nicht.	मुझे तुम्हारी बात समझ नहीं आती है।
-I don't understand you.	Ich verstehe dich nicht.	मुझे आपकी बात समझ नहीं आई।
-I don't want Tom there.	Ich will Tom nicht dort haben.	मैं वहां टॉम नहीं करना चाहता।
-I don't want Tom to go.	Ich will nicht, dass Tom geht.	मैं नहीं चाहता कि टॉम जाए।
-I don't want any fruit.	Ich möchte kein Obst.	मुझे फल नहीं चाहिए।
-I don't want any money.	Ich will kein Geld.	मुझे पैसे नहीं चाहिए।
-I don't want the money.	Ich will das Geld nicht.	मुझे पैसा नहीं चाहिए।
-I don't want them here.	Ich will sie hier nicht haben.	मैं उन्हें यहाँ नहीं चाहता।
-I don't want to be you.	Ich will nicht du sein.	मैं तुम नहीं बनना चाहता।
 I don't want to get up.	Ich will nicht aufstehen.	मैं उठना नहीं चाहता।
 I don't want to go out.	Ich will nicht ausgehen.	मैं बाहर नहीं जाना चाहता।
 I don't want to see it.	Ich will das nicht sehen.	मैं इसे देखना नहीं चाहता।
