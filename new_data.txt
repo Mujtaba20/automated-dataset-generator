@@ -28487,3 +28487,13 @@ This isn't like you.	Das bist du nicht.	यह तुम जैसा नही�
 This isn't my money.	Das ist nicht mein Geld.	यह मेरे पैसे नहीं हैं।
 This isn't over yet.	Das ist noch nicht vorbei.	यह अभी खत्म नहीं हुआ है।
 This isn't worth it.	Es lohnt sich nicht.	यह योग्य नहीं है।
+This lady is Indian.	Diese Dame ist indisch.	यह महिला भारतीय है।
+This makes me happy.	Das macht mich glücklich.	यह मुझे खुश करता है।
+This makes no sense.	Das ergibt keinen Sinn.	यह कोई सेंस नहीं बनाता।
+This makes no sense. (Different Meaning)	Das hat keinen Sinn.	यह समझ में नहीं आता।
+This movie's boring.	Dieser Film ist langweilig.	यह फिल्म उबाऊ है।
+This never happened.	Das ist nie passiert.	यह कभी नहीं हुआ।
+This novel bores me.	Dieser Roman langweilt mich.	यह उपन्यास मुझे बोर करता है।
+This one is for Tom.	Dies ist für Tom.	यह टॉम के लिए है।
+This paper is rough.	Dieses Papier ist rau.	यह कागज कठोर है।
+This paper is white.	Dieses Papier ist weiß.	यह कागज सफेद है।
