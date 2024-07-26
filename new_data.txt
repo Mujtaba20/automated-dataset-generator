@@ -34865,3 +34865,12 @@ Tom sounds desperate.	Tom klingt verzweifelt.	टॉम बेचैनी स�
 Tom speaks no French.	Tom spricht kein Französisch.	टॉम फ्रेंच नहीं बोलता।
 Tom speaks strangely.	Tom spricht merkwürdig.	टॉम अजीब तरह से बोलता है।
 Tom spilled some tea.	Tom hat etwas Tee verschüttet.	टॉम ने कुछ चाय गिराई।
+Tom spilled the milk.	Tom hat die Milch verschüttet.	टॉम ने दूध छिड़क दिया।
+Tom squashed the bug.	Tom hat den Käfer zerschmettert.	टॉम ने कीड़ा कुचल दिया।
+Tom started climbing.	Tom begann zu klettern.	टॉम ने चढ़ाई शुरू की।
+Tom started dreaming.	Tom begann zu träumen.	टॉम ने सपना देखना शुरू किया।
+Tom started giggling.	Tom begann zu kichern.	टॉम हंसी में हंसने लगा।
+Tom started laughing.	Tom begann zu lachen.	टॉम हंसने लगा।
+Tom started swearing.	Tom fing an zu fluchen.	टॉम ने शपथ खानी शुरू कर दी।
+Tom started to cough.	Tom fing an zu husten.	टॉम को खाँसने लगा।
+Tom started to laugh.	Tom fing an zu lachen.	टॉम हंसने लगा।

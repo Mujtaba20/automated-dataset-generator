@@ -1,14 +1,4 @@
 
-Tom spilled the milk.	Tom verschüttete die Milch.	टॉम ने दूध गिरा दिया।
-Tom spilled the milk.	Tom hat die Milch verschüttet.	टॉम ने दूध गिरा दिया।
-Tom squashed the bug.	Tom zertrat das Insekt.	टॉम ने कीट को कुचल दिया।
-Tom started climbing.	Tom begann zu klettern.	टॉम चढ़ने लगा।
-Tom started dreaming.	Tom fing an zu träumen.	टॉम ने सपना देखना शुरू कर दिया।
-Tom started giggling.	Tom fing an zu kichern.	टॉम ने गिड़गिड़ाने लगे।
-Tom started laughing.	Tom fing an zu lachen.	टॉम हंसने लगा।
-Tom started swearing.	Tom fing an zu fluchen.	टॉम कसम खाने लगे।
-Tom started to cough.	Tom fing an zu husten.	टॉम खांसी शुरू कर दिया।
-Tom started to laugh.	Tom fing an zu lachen.	टॉम हंसने लगा।
 Tom started to snore.	Tom fing an zu schnarchen.	टॉम ने खर्राटे शुरू कर दिए।
 Tom starved to death.	Tom verhungerte.	टॉम भूखा।
 Tom starved to death.	Tom starb Hungers.	टॉम की भूख मर गई।
