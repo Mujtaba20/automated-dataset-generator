@@ -1,14 +1,4 @@
 
-I didn't buy anything.	Ich habe nichts gekauft.	मैंने कुछ भी नहीं खरीदा था।
-I didn't buy that car.	Ich habe dieses Auto nicht gekauft.	मैंने यह कार नहीं खरीदी।
-I didn't buy that car.	Ich habe diesen Wagen nicht gekauft.	मैंने यह कार नहीं खरीदी।
-I didn't buy the book.	Ich habe das Buch nicht gekauft.	मैंने किताब नहीं खरीदी।
-I didn't eat anything.	Ich habe nichts gegessen.	मैंने कुछ नहीं खाया है।
-I didn't even see you.	Ich habe dich gar nicht gesehen.	मैंने आपको बिल्कुल नहीं देखा।
-I didn't even see you.	Ich habe Sie gar nicht gesehen.	मैंने उसे बिल्कुल नहीं देखा।
-I didn't even see you.	Ich habe euch gar nicht gesehen.	मैंने आपको बिल्कुल नहीं देखा।
-I didn't fall in love.	Ich habe mich nicht verliebt.	मुझे प्यार नहीं हुआ।
-I didn't feed the dog.	Ich habe dem Hund nichts zu fressen gegeben.	मैंने कुत्ते को खाने के लिए कुछ नहीं दिया।
 I didn't get his joke.	Ich habe seinen Witz nicht verstanden.	मुझे उसका मजाक समझ नहीं आया।
 I didn't get it right.	Ich habe es nicht richtig mitbekommen.	मैंने वास्तव में इसे नोटिस नहीं किया।
 I didn't get the joke.	Ich habe den Witz nicht verstanden.	मुझे मजाक समझ नहीं आया।

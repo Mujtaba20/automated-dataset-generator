@@ -37218,3 +37218,10 @@ I did what I was told.	Ich habe gemacht, was mir gesagt wurde.	मैंने �
 I didn't actually cry.	Ich habe eigentlich nicht geweint.	वास्तविक रूप से मैंने रो नहीं था।
 I didn't ask for help.	Ich habe nicht um Hilfe gebeten.	मैंने मदद के लिए नहीं कहा।
 I didn't believe them.	Ich habe ihnen nicht geglaubt.	मैंने उन्हें विश्वास नहीं किया।
+I didn't buy anything.	Ich habe nichts gekauft.	मैंने कुछ भी नहीं खरीदा।
+I didn't buy that car.	Ich habe dieses Auto nicht gekauft.	मैंने उस गाड़ी को नहीं खरीदा।
+I didn't buy the book.	Ich habe das Buch nicht gekauft.	मैंने किताब नहीं खरीदी।
+I didn't eat anything.	Ich habe nichts gegessen.	मैंने कुछ नहीं खाया।
+I didn't even see you.	Ich habe dich nicht einmal gesehen.	मैंने तुम्हें तक नहीं देखा।
+I didn't fall in love.	Ich habe mich nicht verliebt.	मैंने प्यार नहीं किया।
+I didn't feed the dog.	Ich habe den Hund nicht gefüttert.	मैंने कुत्ते को खिलाया नहीं।
