@@ -22158,3 +22158,10 @@ Is there a message?	Gibt es eine Nachricht?	क्या संदेश है?
 Is there a milkman?	Gibt es einen Milchmann?	क्या एक दूधवाला है?
 Is there any sugar?	Gibt es Zucker?	क्या कोई चीनी है?
 Is this Tom's bike?	Ist das Toms Fahrrad?	क्या यह टॉम की साइकिल है?
+Is this Tom's book?	Ist dies das Buch von Tom?	क्या यह टॉम की किताब है?
+Is this Tom's room?	Ist dies Toms Zimmer?	क्या यह टॉम का कमरा है?
+Is this book Tom's?	Ist dies Buch von Tom?	क्या यह किताब टॉम की है?
+Is this book yours?	Ist dieses Buch deins?	क्या यह किताब तुम्हारी है?
+Is this recyclable?	Kann das recycelt werden?	क्या यह पुनर्चक्रण योग्य है?
+Is this room Tom's?	Ist dies Toms Zimmer?	क्या यह टॉम का कमरा है?
+Is this seat empty?	Ist dieser Sitzplatz frei?	क्या यह सीट खाली है?

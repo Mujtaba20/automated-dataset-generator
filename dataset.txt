@@ -1,14 +1,4 @@
 
-Is this Tom's book?	Ist das Toms Buch?	क्या टॉम की किताब है?
-Is this Tom's room?	Ist das hier Toms Zimmer?	क्या यह टॉम का कमरा है?
-Is this book Tom's?	Gehört dieses Buch Tom?	क्या यह पुस्तक है?
-Is this book yours?	Ist das dein Buch?	क्या यह तुम्हारी पुस्तक है?
-Is this book yours?	Ist dies dein Buch?	क्या यह आपकी किताब है?
-Is this book yours?	Ist das Ihr Buch?	क्या यह तुम्हारी पुस्तक है?
-Is this recyclable?	Ist das recyclebar?	क्या वह पुनर्नवीनीकरण है?
-Is this recyclable?	Ist das wiederverwertbar?	क्या वह पुनर्नवीनीकरण है?
-Is this room Tom's?	Ist dieses Zimmer das von Tom?	क्या यह कमरा टॉम से है?
-Is this seat empty?	Ist dieser Platz frei?	क्या यह सीट दे दी गई है?
 Is this seat taken?	Ist der Platz noch frei?	क्या यह सीट मुफ्त में है?
 Is this seat taken?	Ist dieser Platz besetzt?	क्या इस सीट पर किसी का कब्जा है?
 Is this story true?	Stimmt diese Geschichte?	क्या यह कहानी सही है?
