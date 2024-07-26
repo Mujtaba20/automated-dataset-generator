@@ -21499,3 +21499,13 @@ I made Tom do that.	Ich ließ Tom das tun.	मैंने टॉम से व�
 I made Tom go home.	Ich schickte Tom nach Hause.	मैंने टॉम को घर जाने के लिए कहा।
 I made my decision.	Ich habe meine Entscheidung getroffen.	मैंने अपना निर्णय लिया।
 I made no promises.	Ich habe keine Versprechen gemacht.	मैंने कोई वादे नहीं किए।
+I made them myself.	Ich habe sie selbst gemacht.	मैंने उन्हें खुद बनाया।
+I may die tomorrow.	Ich könnte morgen sterben.	मैं कल मर सकता हूँ।
+I meant no offense.	Ich meinte keine Beleidigung.	मेरा कोई अपमानी इरादा नहीं था।
+I met a nice woman.	Ich traf eine nette Frau.	मैंने एक अच्छी महिला से मिली।
+I met an old woman.	Ich traf eine alte Frau.	मैंने एक बूढ़ी महिला से मिली।
+I met him just now.	Ich habe ihn gerade getroffen.	मैंने उससे अभी मिला है।
+I miss my children.	Ich vermisse meine Kinder.	मुझे अपने बच्चों की याद आती है।
+I missed my flight.	Ich habe meinen Flug verpasst.	मैंने अपनी उड़ान छूट दी।
+I missed the train.	Ich habe den Zug verpasst.	मैंने ट्रेन छूट दी।
+I missed you a lot.	Ich habe dich sehr vermisst.	मुझे तुम्हारी बहुत याद आती थी।
