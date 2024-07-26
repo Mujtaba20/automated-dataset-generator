@@ -31026,3 +31026,13 @@ He has nothing to do.	Er hat nichts zu tun.	उसके पास कुछ क
 He has poor eyesight.	Er hat schlechte Augen.	उसकी दृष्टि कमजोर है।
 He has powerful arms.	Er hat starke Arme.	उसके पास शक्तिशाली बांहें हैं।
 He has sharp hearing.	Er hat ein scharfes Gehör.	उसकी तेज सुनने की शक्ति है।
+He has strange ideas.	Er hat seltsame Ideen.	उसके पास अजीब विचार हैं।
+He has to study hard.	Er muss hart studieren.	उसे कड़ी मेहनत करनी है।
+He has two daughters.	Er hat zwei Töchter.	उसकी दो बेटियां हैं।
+He has very bad luck.	Er hat sehr viel Pech.	उसके साथ बहुत बुरा भाग है।
+He hates her parents.	Er hasst ihre Eltern.	उसे उसके माता-पिता से नफरत है।
+He held up his hands.	Er hob die Hände hoch.	उसने अपने हाथ ऊपर उठाए।
+He hit me by mistake.	Er hat mich versehentlich geschlagen.	उसने मुझे गलती से मारा।
+He insulted our team.	Er hat unser Team beleidigt.	उसने हमारे टीम का अपमान किया।
+He is a Japanese boy.	Er ist ein japanischer Junge.	वह एक जापानी लड़का है।
+He is a good athlete.	Er ist ein guter Athlet.	वह एक अच्छे खिलाड़ी है।
