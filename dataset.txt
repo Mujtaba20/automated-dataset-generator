@@ -1,15 +1,4 @@
 
-Perhaps this is wrong.	Das ist vielleicht falsch.	शायद यह गलत है।
-Phase one is complete.	Phase eins ist abgeschlossen.	चरण एक पूरा हो गया है।
-Playing tennis is fun.	Tennisspielen macht Spaß.	टेनिस खेलना मजेदार है।
-Please allow me to go.	Bitte erlauben Sie mir zu gehen.	कृपया मुझे जाने दें।
-Please call me a taxi.	Bitte rufen Sie mir ein Taxi.	कृपया मुझे टैक्सी कहें।
-Please close the door.	Schließ bitte die Tür.	कृपया दरवाज़ा बंद करें।
-Please close the door.	Bitte schließen Sie die Tür.	कृपया दरवाज़ा बंद करें।
-Please close the door.	Bitte schließ die Tür.	कृपया दरवाज़ा बंद करें।
-Please come back home.	Bitte komm zurück nach Hause!	कृपया घर वापस आओ!
-Please come back home.	Bitte kommt zurück nach Hause!	कृपया घर वापस आओ!
-Please come back home.	Bitte kommen Sie zurück nach Hause!	कृपया घर वापस आओ!
 Please come over here.	Kommen Sie bitte mal herüber.	कृपया आओ।
 Please come over here.	Komm bitte mal her.	कृपया यहाँ आये।
 Please deal the cards.	Teil bitte die Karten aus.	कृपया कार्ड बाहर भाग लें।

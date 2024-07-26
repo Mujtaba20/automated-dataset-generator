@@ -38979,3 +38979,10 @@ People aren't perfect.	Menschen sind nicht perfekt.	लोग पूर्ण �
 People here are happy.	Die Leute hier sind glücklich.	यहाँ के लोग खुश हैं।
 People laughed at Tom.	Die Leute lachten über Tom.	लोग टॉम पर हंसे।
 Perhaps Tom was wrong.	Vielleicht hat Tom unrecht gehabt.	शायद टॉम गलत था।
+Perhaps this is wrong.	Vielleicht ist das falsch.	शायद यह गलत है।
+Phase one is complete.	Phase eins ist abgeschlossen.	चरण एक पूरा हो गया है।
+Playing tennis is fun.	Tennis zu spielen macht Spaß.	टेनिस खेलना मज़ेदार है।
+Please allow me to go.	Bitte erlauben Sie mir zu gehen.	कृपया मुझे जाने दें।
+Please call me a taxi.	Bitte rufen Sie mir ein Taxi.	कृपया मुझे एक टैक्सी बुलाएं।
+Please close the door.	Bitte schließen Sie die Tür.	कृपया दरवाज़ा बंद करें।
+Please come back home.	Bitte komm nach Hause zurück.	कृपया घर वापस आ जाओ।
