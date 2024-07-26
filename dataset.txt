@@ -1,16 +1,4 @@
 
-How do you make money?	Wie verdienst du dein Geld?	आप पैसे कैसे कमाते हैं?
-How do you make money?	Wie verdient ihr euer Geld?	आप अपना पैसा कैसे कमाते हैं?
-How do you make money?	Wie verdienen Sie Ihr Geld?	आप अपना पैसा कैसे कमाते हैं?
-How do you make money?	Womit verdienst du dein Geld?	आप अपना पैसा कैसे कमाते हैं?
-How do you make money?	Womit verdient ihr euer Geld?	आप अपना पैसा कैसे कमाते हैं?
-How do you make money?	Womit verdienen Sie Ihr Geld?	आप अपना पैसा कैसे कमाते हैं?
-How do you milk a cow?	Wie melkt man eine Kuh?	आप एक गाय को कैसे दूध देते हैं?
-How do you prove that?	Wie prüfst du das?	आप इसकी जाँच कैसे करते हैं?
-How does the film end?	Wie endet der Film?	फिल्म कैसे समाप्त होती है?
-How far along are you?	Wie weit bist du?	तुम कितनी दूर हो?
-How far along are you?	In welchem Monat bist du?	आप किस महीने में हैं?
-How far along are you?	In welchem Monat sind Sie schwanger?	आप किस महीने में गर्भवती हैं?
 How far are you going?	Wie weit wirst du gehen?	तुम कितना दूर जाओगे?
 How fast can you walk?	Wie schnell kannst du gehen?	आप कितनी जल्दी जा सकते हैं?
 How fast can you walk?	Wie schnell können Sie gehen?	आप कितनी जल्दी जा सकते हैं?

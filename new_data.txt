@@ -37033,3 +37033,8 @@ How do you feel today? 2	Wie empfindest du heute?	तुम आज कैसा 
 How do you go to work?	Wie kommst du zur Arbeit?	तुम काम कैसे जाते हो?
 How do you kids do it?	Wie machen es deine Kinder?	तुम्हारे बच्चे इसे कैसे करते हैं?
 How do you make a box?	Wie machst du eine Schachtel?	तुम एक बक्सा कैसे बनाते हो?
+How do you make money?	Wie verdienst du Geld?	तुम पैसे कैसे कमाते हो?
+How do you milk a cow?	Wie melkst du eine Kuh?	गाय को दूध कैसे निकालते हो?
+How do you prove that?	Wie beweist du das?	तुम उसे कैसे साबित करते हो?
+How does the film end?	Wie endet der Film?	फिल्म कैसे समाप्त होती है?
+How far along are you?	Wie weit bist du?	तुम कितने दूर आ गए हो?
