@@ -23093,3 +23093,11 @@ They are wrestlers.	Sie sind Ringer.	वे कुश्तिबाज़ ह�
 They aren't hungry.	Sie haben keinen Hunger.	उन्हें भूख नहीं है।
 They aren't stupid.	Sie sind nicht dumm.	वे मूर्ख नहीं हैं।
 They asked me here.	Sie haben mich hierher gefragt.	उन्होंने मुझसे यहाँ पूछा।
+They can afford it.	Sie können es sich leisten.	उनकी इसे करने की सामर्थ्य है।
+They can't do that.	Sie können das nicht tun.	उन्हें यह नहीं करना है।
+They can't do this.	Sie können das nicht tun.	उन्हें यह नहीं करना है।
+They can't get out.	Sie können nicht herauskommen.	वे बाहर नहीं निकल सकते।
+They can't hurt me.	Sie können mir nicht wehtun.	उन्हें मुझे नहीं चोट पहुंचा सकते।
+They can't see Tom.	Sie können Tom nicht sehen.	उन्हें टॉम नहीं देख सकते।
+They can't see you.	Sie können dich nicht sehen.	उन्हें तुम्हें नहीं देख सकते।
+They can't stop me.	Sie können mich nicht aufhalten.	वे मुझे नहीं रोक सकते।
