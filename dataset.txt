@@ -1,16 +1,4 @@
 
-Put some clothes on.	Zieh dir etwas an!	कुछ पर कुछ ले लो!
-Put some clothes on.	Ziehen Sie sich etwas an!	कुछ पर रखो!
-Put some clothes on.	Zieht euch etwas an!	थोड़ा सा हो जाओ!
-Put some clothes on.	Bekleide dich!	आप बंद करें!
-Put that in writing.	Gib mir das schriftlich.	मुझे वह लिखित रूप में दो।
-Put that knife away.	Leg das Messer weg.	चाकू को दूर रखो।
-Put that on my bill.	Schreiben Sie mir das auf die Rechnung.	मुझे बिल पर लिखें।
-Put the bracelet on.	Leg das Armband an.	कंगन पर रखो।
-Put your books away.	Leg deine Bücher weg.	अपनी किताबें दूर रखो।
-Put your books away.	Legt eure Bücher weg.	अपनी किताबें दूर रखो।
-Put your books away.	Legen Sie Ihre Bücher weg.	अपनी किताबें दूर रखो।
-Put your books away.	Räum deine Bücher weg!	अपनी पुस्तकों को दूर करें!
 Put your glasses on.	Setz deine Brille auf!	अपना चश्मा सेट करें!
 Put your glasses on.	Setzen Sie Ihre Brille auf!	अपने चश्मे पर रखो!
 Question everything.	Hinterfrage alles!	हर बात पर सवाल!

@@ -27818,3 +27818,9 @@ Put on this sweater.	Zieh diesen Pullover an.	इस स्वेटर को �
 Put on your blinker.	Schalte deinen Blinker ein.	अपना ब्लिंकर ऑन करें।
 Put on your glasses.	Setz deine Brille auf.	अपना चश्मा पहन लो।
 Put on your pajamas.	Zieh deine Schlafanzughose an.	अपने पजामे पहनो।
+Put some clothes on.	Zieh dir etwas an.	किसी कपड़े पहनो।
+Put that in writing.	Schreib das auf.	उसे लिखें।
+Put that knife away.	Leg dieses Messer weg.	उस चाकू को दूर रखो।
+Put that on my bill.	Schreib das auf meine Rechnung.	उसे मेरी बिल पर डाल दो।
+Put the bracelet on.	Leg das Armband an.	कंगन पहनो।
+Put your books away.	Bring deine Bücher weg.	अपनी किताबें ले आओ।
