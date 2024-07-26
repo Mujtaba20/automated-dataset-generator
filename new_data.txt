@@ -39150,3 +39150,12 @@ She stood on her head.	Sie stand auf dem Kopf.	उसने सिर पर ख
 She talked childishly.	Sie sprach kindisch.	उसने बच्चों की तरह बात की।
 She taught us singing.	Sie unterrichtete uns Singen.	उसने हमें गायन सिखाया।
 She teaches us French.	Sie unterrichtet uns Französisch.	वह हमें फ्रेंच सिखाती है।
+She told him to study.	Sie sagte ihm zu studieren.	उसने उसे पढ़ाई करने के लिए कहा।
+She took her own life.	Sie nahm sich ihr eigenes Leben.	उसने अपनी जान ली।
+She took off her coat.	Sie zog ihren Mantel aus.	उसने अपनी कोट उतारी।
+She took up his offer.	Sie nahm sein Angebot an.	उसने उसकी पेशकश को स्वीकार किया।
+She understands music.	Sie versteht Musik.	उसे संगीत समझ में आता है।
+She wanted me to come.	Sie wollte, dass ich komme.	उसे चाहिए था कि मैं आऊं।
+She wants to kiss him.	Sie will ihn küssen.	उसे उसे चुमना चाहिए।
+She was baptized Mary.	Sie wurde als Maria getauft.	उसका नाम मेरी था।
+She was fully clothed.	Sie war vollständig bekleidet.	उसने पूरी तरह से कपड़े पहन रखे थे।
