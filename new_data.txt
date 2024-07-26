@@ -31636,3 +31636,12 @@ I don't wear a watch.	Ich trage keine Uhr.	मैं घड़ी नहीं �
 I don't work for you.	Ich arbeite nicht für dich.	मैं तुम्हारे लिए काम नहीं करता।
 I don't write poetry.	Ich schreibe keine Gedichte.	मैं कविता नहीं लिखता।
 I donate every month.	Ich spende jeden Monat.	मैं हर महीने दान करता हूँ।
+I dropped my earring.	Ich habe meinen Ohrring fallen lassen.	मैंने अपनी बालियां गिरा दी।
+I earn more than Tom.	Ich verdiene mehr als Tom.	मैं टॉम से अधिक कमाता हूँ।
+I eat meat every day.	Ich esse jeden Tag Fleisch.	मैं हर दिन मांस खाता हूँ।
+I eat rice every day.	Ich esse jeden Tag Reis.	मैं हर दिन चावल खाता हूँ।
+I enjoy working here.	Ich genieße es hier zu arbeiten.	मुझे यहाँ काम करना अच्छा लगता है।
+I enjoy working here. - Another meaning	Mir macht die Arbeit hier Spaß.	मुझे यहाँ काम करने में आनंद आता है।
+I enjoy your company.	Ich genieße deine Gesellschaft.	मुझे तुम्हारे संग का आनंद है।
+I expect him to come.	Ich erwarte, dass er kommt.	मैं उसे आने की उम्मीद करता हूँ।
+I expect him to come. - Another meaning	Ich rechne damit, dass er kommt.	मैं उसे आने की अनुमति देता हूँ।
