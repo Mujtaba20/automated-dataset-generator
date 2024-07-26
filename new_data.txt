@@ -33717,3 +33717,11 @@ The taxi has arrived.	Der Taxifahrer ist anwesend.	टैक्सी आ चु
 The telephone is red.	Das Telefon ist rot.	फ़ोन लाल है।
 The temperature fell.	Die Temperatur fiel.	तापमान गिर गया।
 The test is at 4 p.m.	Der Test ist um 16 Uhr.	परीक्षा शाम 4 बजे है।
+The text is too long.	Der Text ist zu lang.	टेक्स्ट बहुत लंबा है।
+The theater is empty.	Das Theater ist leer.	थियेटर खाली है।
+The tiger was killed.	Der Tiger wurde getötet.	बाघ मार दिया गया था।
+The towels are dirty.	Die Handtücher sind dreckig.	तौलिये भिगोकर कपड़े हैं।
+The tumor was benign.	Der Tumor war gutartig.	ट्यूमर नरम था।
+The water isn't cold.	Das Wasser ist nicht kalt.	पानी ठंडा नहीं है।
+The water pipe burst.	Das Wasserrohr ist geplatzt.	पानी का पाइप फट गया।
+The wind calmed down.	Der Wind hat sich gelegt.	हवा शांत हो गई।

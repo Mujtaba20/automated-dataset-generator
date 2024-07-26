@@ -1,15 +1,4 @@
 
-The text is too long.	Der Text ist zu lang.	पाठ बहुत लंबा है।
-The theater is empty.	Das Theater ist leer.	थिएटर खाली है।
-The tiger was killed.	Der Tiger wurde getötet.	बाघ को मार दिया गया था।
-The towels are dirty.	Die Handtücher sind dreckig.	तौलिये गंदे हैं।
-The towels are dirty.	Die Handtücher sind schmutzig.	तौलिये गंदे हैं।
-The tumor was benign.	Der Tumor war gutartig.	ट्यूमर सौम्य था।
-The water isn't cold.	Das Wasser ist nicht kalt.	पानी ठंडा नहीं है।
-The water pipe burst.	Die Wasserleitung platzte.	पानी का पाइप फट गया।
-The wind calmed down.	Der Wind hat sich beruhigt.	हवा शांत हो गई है।
-The wind calmed down.	Der Wind ließ nach.	हवा की मौत हो गई।
-The wind calmed down.	Der Wind hat sich gelegt.	हवा कम हो गई है।
 The wind is shifting.	Der Wind dreht sich.	हवा बदल जाती है।
 The wind was howling.	Der Wind heulte.	हवा भटकता है।
 The window is closed.	Das Fenster ist zu.	खिड़की बंद है।
