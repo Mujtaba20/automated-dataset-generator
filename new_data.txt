@@ -23410,3 +23410,13 @@ Tom didn't mean it.	Tom hat es nicht gemeint.	टॉमने इसका म�
 Tom didn't need it.	Tom brauchte es nicht.	टॉमको इसकी जरूरत नहीं थी।
 Tom didn't see you.	Tom hat dich nicht gesehen.	टॉमने तुझे नहीं देखा।
 Tom didn't see you. - Different meaning	Tom konnte dich nicht sehen.	टॉमने तुझे देखने में सक्षम नहीं था।
+Tom didn't show up.	Tom ist nicht aufgetaucht.	टॉम नहीं आया।
+Tom didn't succeed.	Tom hatte keinen Erfolg.	टॉम सफल नहीं हुआ।
+Tom didn't tell me.	Tom hat es mir nicht gesagt.	टॉम ने मुझे नहीं बताया।
+Tom didn't turn up.	Tom ist nicht aufgetaucht.	टॉम नहीं पहुंचा।
+Tom didn't want it.	Tom wollte es nicht.	टॉम नहीं चाहता था।
+Tom died in battle.	Tom starb im Kampf.	टॉम युद्ध में मर गया।
+Tom died in combat.	Tom starb im Gefecht.	टॉम संघर्ष में मर गया।
+Tom died in prison.	Tom starb im Gefängnis.	टॉम जेल में मर गया।
+Tom died of cancer.	Tom starb an Krebs.	टॉम कैंसर से मर गया।
+Tom died of hunger.	Tom starb an Hunger.	टॉम भूख से मर गया।

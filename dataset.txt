@@ -1,16 +1,4 @@
 
-Tom didn't show up.	Tom ist nicht aufgetaucht.	टॉम दिखाई नहीं दिया।
-Tom didn't succeed.	Tom hatte keinen Erfolg.	टॉम असफल रहा।
-Tom didn't tell me.	Tom hat mir nichts gesagt.	टॉम ने मुझे कुछ नहीं बताया।
-Tom didn't turn up.	Tom tauchte nicht auf.	टॉम दिखाई नहीं दिया।
-Tom didn't want it.	Tom wollte es nicht.	टॉम यह नहीं चाहता था।
-Tom died in battle.	Tom fiel im Kampf.	टॉम युद्ध में गिर गया।
-Tom died in combat.	Tom fiel im Kampf.	टॉम युद्ध में गिर गया।
-Tom died in prison.	Tom starb im Gefängnis.	टॉम की जेल में मृत्यु हो गई।
-Tom died of cancer.	Tom starb an Krebs.	टॉम की कैंसर से मृत्यु हो गई।
-Tom died of hunger.	Tom verhungerte.	टॉम भूखा।
-Tom died of hunger.	Tom kam vor Hunger um.	टॉम ने भूख से मारा।
-Tom died of hunger.	Tom starb Hungers.	टॉम की भूख मर गई।
 Tom died of typhus.	Tom starb am Fleckfieber.	टॉम की मौत दाग बुखार से हुई।
 Tom died yesterday.	Tom ist gestern gestorben.	टॉम की कल मृत्यु हो गई।
 Tom died, not Mary.	Nicht Maria ist gestorben, sondern Tom.	मारिया की मृत्यु नहीं हुई, लेकिन टॉम।
