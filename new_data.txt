@@ -24420,3 +24420,12 @@ We're not open yet.	Wir sind noch nicht offen.	हम अभी तक खुल
 We're not partners.	Wir sind keine Partner.	हम साझेदार नहीं हैं।
 We're not soldiers.	Wir sind keine Soldaten.	हम सैनिक नहीं हैं।
 We're not speaking.	Wir sprechen nicht.	हम बोल रहे हैं।
+We're not stopping.	Wir halten nicht an.	हम रुकने वाले नहीं हैं।
+We're not students.	Wir sind keine Schüler.	हम छात्र नहीं हैं।
+We're not watching.	Wir schauen nicht.	हम नहीं देख रहे हैं।
+We're off tomorrow.	Wir haben morgen frei.	हम कल अवकाश पर हैं।
+We're on your side.	Wir sind auf deiner Seite.	हम तुम्हारी ओर हैं।
+We're on your side. (Different meaning)	Wir sind für dich da.	हम आपके पक्ष में हैं।
+We're out of candy.	Uns geht die Süßigkeit aus.	हमें कैंडी की कमी है।
+We're out of candy. (Different meaning)	Unsere Süßigkeit ist alle.	हमारे पास कैंडी नहीं है।
+We're out of money.	Uns geht das Geld aus.	हमारे पास पैसा नहीं है।
