@@ -31917,3 +31917,14 @@ I like to tell jokes.	Ich erzähle gerne Witze.	मुझे जोक्स स
 I like to win prizes.	Ich gewinne gerne Preise.	मुझे पुरस्कार जीतना पसंद है।
 I like to write here.	Ich schreibe gerne hier.	मुझे यहाँ लिखना पसंद है।
 I like walking alone.	Ich gehe gerne alleine spazieren.	मुझे अकेले चलना पसंद है।
+I like you very much.	Ich mag dich sehr.	
+मुझे तुममसे बहुत पसंद है।
+I like your attitude.	Mir gefällt deine Einstellung.	मुझे तुम्हारा रवैया अच्छा लगता है।
+I like your earrings.	Ich mag deine Ohrringe.	मुझे तुम्हारी कान की बालियां पसंद हैं।
+I like your optimism.	Ich mag deinen Optimismus.	मुझे तुम्हारी आशावादिता पसंद है।
+I like your thinking.	Mir gefällt dein Denken.	मुझे तुम्हारे सोचने तरीके पसंद हैं।
+I liked your comment.	Mir hat dein Kommentar gefallen.	मुझे आपकी टिप्पणी अच्छी लगी।
+I liked your comment. (Different Meaning)	Ich mochte deinen Kommentar.	मुझे तुम्हारी टिप्पणी पसंद आई।
+I listened carefully.	Ich habe aufmerksam zugehört.	मैंने ध्यान से सुना।
+I live a simple life.	Ich lebe ein einfaches Leben.	मैं एक सरल जीवन जीता हूँ।
+I live and work here.	Ich lebe und arbeite hier.	मैं यहाँ रहता और काम करता हूँ।
