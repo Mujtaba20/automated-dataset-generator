@@ -1,15 +1,4 @@
 
-I lost a lot of money.	Ich habe viel Geld verloren.	मैंने बहुत पैसा खो दिया।
-I lost my credit card.	Ich habe meine Kreditkarte verloren.	मैंने अपना क्रेडिट कार्ड खो दिया।
-I lost my inspiration.	Ich habe meine Inspiration verloren.	मैंने अपनी प्रेरणा खो दी।
-I love being with Tom.	Ich liebe es, mit Tom zusammen zu sein.	मुझे टॉम के साथ रहना पसंद है।
-I love being with you.	Ich liebe es, bei dir zu sein.	तुम्हारे साथ रहना मुझे अच्छा लगता है।
-I love cucumber salad.	Ich liebe Gurkensalat.	मुझे ककड़ी सलाद बहुत पसंद है।
-I love having no debt.	Ich find’s schön, keine Schulden zu haben.	मुझे लगता है कि कोई ऋण नहीं होना अच्छा है।
-I love playing Chopin.	Ich spiele sehr gerne Chopin.	मुझे चोपिन खेलना बहुत पसंद है।
-I love reading novels.	Ich lese sehr gerne Romane.	मुझे उपन्यास पढ़ना बहुत पसंद है।
-I love talking to you.	Ich liebe es, mit dir zu reden.	मुझे आपसे बाद करना पसंद है।
-I love talking to you.	Ich unterhalte mich gerne mit dir.	मुझे आपसे बात करना पंसद है।
 I love to watch anime.	Ich liebe es, Animes anzusehen.	मुझे एनीमे को देखना बहुत पसंद है।
 I love what I'm doing.	Ich liebe, was ich tue.	जो मै करता हूं वो मुझे अच्छा लगता है।
 I love you like a son.	Ich liebe dich wie einen Sohn.	मैं तुम्हें एक बेटे की तरह प्यार करता हूँ।

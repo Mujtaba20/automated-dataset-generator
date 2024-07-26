@@ -37670,3 +37670,13 @@ I live with my father.	Ich lebe mit meinem Vater.	मैं अपने पि�
 I look like my father.	Ich sehe meinem Vater ähnlich.	मैं अपने पिताजी जैसा लगता हूं।
 I looked right at Tom.	Ich schaute direkt zu Tom.	मैंने सीधे तोम को देखा।
 I lost a lot of blood.	Ich habe eine Menge Blut verloren.	मुझसे बहुत खून बह गया।
+I lost a lot of money.	Ich habe viel Geld verloren.	मैंने बहुत पैसे खो दिए।
+I lost my credit card.	Ich habe meine Kreditkarte verloren.	मेरी क्रेडिट कार्ड गुम हो गयी।
+I lost my inspiration.	Ich habe meine Inspiration verloren.	मेरी प्रेरणा चली गयी।
+I love being with Tom.	Ich liebe es, mit Tom zusammen zu sein.	मुझे टॉम के साथ रहना पसंद है।
+I love being with you.	Ich liebe es, mit dir zusammen zu sein.	मुझे तुम्हारे साथ रहना पसंद है।
+I love cucumber salad.	Ich liebe Gurkensalat.	मुझे ककड़ी सलाद पसंद है।
+I love having no debt.	Ich liebe es, keine Schulden zu haben.	मुझे बिना कोई ऋण होने का पसंद है।
+I love playing Chopin.	Ich liebe es, Chopin zu spielen.	मुझे चोपिन बजाना पसंद है।
+I love reading novels.	Ich liebe es, Romane zu lesen.	मुझे उपन्यास पढ़ना पसंद है।
+I love talking to you.	Ich liebe es, mit dir zu sprechen.	मुझे तुमसे बात करना पसंद है।
