@@ -37287,3 +37287,10 @@ I don't have any pens.	Ich habe keine Stifte.	मेरे पास कोई �
 I don't have anything.	Ich habe nichts.	मेरे पास कुछ नहीं है।
 I don't have children.	Ich habe keine Kinder.	मेरे पास बच्चे नहीं हैं।
 I don't have freckles.	Ich habe keine Sommersprossen.	मेरे पास मुझपे कोई तिलक नहीं है।
+I don't have the time.	Ich habe keine Zeit.	मेरे पास समय नहीं है।
+I don't have time now.	Ich habe derzeit keine Zeit.	मुझे अभी समय नहीं है।
+I don't hear anything.	Ich höre nichts.	मैं कुछ नहीं सुनता।
+I don't know anything.	Ich kenne nichts.	मुझे कुछ भी नहीं पता।
+I don't know for sure.	Ich weiß es nicht sicher.	मुझे पूरी तरह से नहीं पता।
+I don't know his name.	Ich weiß seinen Namen nicht.	मुझे उसका नाम नहीं पता।
+I don't know how long.	Ich weiß nicht wie lange.	मुझे नहीं पता कितनी देर तक।

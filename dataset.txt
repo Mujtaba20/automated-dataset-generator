@@ -1,14 +1,4 @@
 
-I don't have the time.	Ich habe keine Zeit dafür.	मेरे पास उसके लिए कोई समय नहीं है।
-I don't have time now.	Ich habe jetzt keine Zeit.	मेरे पास अब समय नहीं है।
-I don't have time now.	Ich habe nun keine Zeit.	मेरे पास अब समय नहीं है।
-I don't hear anything.	Ich höre nichts.	मुझे कुछ सुनाइ नहीं दे रहा है।
-I don't know anything.	Ich weiß nichts.	मुझे कुछ भी मालूम नहीं है।
-I don't know anything.	Ich weiß nichts davon.	मुझे उसके बारे में कुछ नहीं पता है।
-I don't know for sure.	Ich bin mir nicht sicher.	मुझे यकीन नहीं है।
-I don't know his name.	Ich kenne seinen Namen nicht.	मैं उसका नाम नहीं जानता।
-I don't know his name.	Ich weiß nicht, wie er heißt.	मुझे नहीं पता कि उसका नाम क्या है।
-I don't know how long.	Ich weiß nicht, wie lange.	मुझे नहीं पता कि कब तक।
 I don't know that yet.	Das weiß ich noch nicht.	मुझे नहीं पता कि अभी तक।
 I don't know you guys.	Ich kenne euch nicht.	मैं आपको नहीं जानता।
 I don't like anything.	Ich mag nichts.	मुझे कुछ पसंद नहीं है।
