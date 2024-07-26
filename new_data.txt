@@ -33442,3 +33442,13 @@ Sign your name there.	Unterschreiben Sie Ihren Namen dort.	अपना ना�
 Sit down and shut up.	Setz dich und sei ruhig.	बैठो और चुप रहो।
 Size does not matter.	Größe spielt keine Rolle.	आकार मायने नहीं रखता।
 Smog hung over Tokyo.	Smog hing über Tokio.	टोक्यो पर स्मॉग था।
+Smoking can kill you.	Rauchen kann dich töten.	धूम्रपान आपको मार सकता है।
+Smoking is permitted.	Rauchen ist erlaubt.	धूम्रपान अनुमत है।
+Snow covered the bus.	Der Bus war mit Schnee bedeckt.	बस को बर्फ ने ढ़क लिया।
+So you do believe me?	Also glaubst du mir?	क्या आप मुझे वास्तव में मानते हैं?
+Some bugs were fixed.	Einige Fehler wurden behoben.	कुछ बग सही किए गए थे।
+Some people are evil.	Einige Menschen sind böse.	कुछ लोग दुष्ट हैं।
+Somebody just called.	Jemand hat gerade angerufen.	किसी ने अभी कॉल किया है।
+Someone attacked Tom.	Jemand hat Tom angegriffen.	किसी ने टॉम पर हमला किया।
+Someone gave me this.	Jemand hat mir das gegeben.	किसी ने मुझे यह दिया।
+Someone might see us.	Jemand könnte uns sehen.	कोई हमें देख सकता है।

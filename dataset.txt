@@ -1,14 +1,4 @@
 
-Smoking can kill you.	Rauchen kann zum Tode führen.	धूम्रपान से मौत हो सकती है।
-Smoking is permitted.	Rauchen ist erlaubt.	धूम्रपान की अनुमति है।
-Snow covered the bus.	Schnee bedeckte den Bus.	बर्फ ने बस को कवर किया।
-So you do believe me?	Sie glauben mir also?	तो आप मुझ पर विश्वास करते हैं?
-Some bugs were fixed.	Einige Fehler wurden behoben.	कुछ गलतियाँ तय की गईं।
-Some people are evil.	Manche Menschen sind schlecht.	कुछ लोग बुरे हैं।
-Somebody just called.	Irgendjemand hat grad angerufen.	किसी ने फोन किया।
-Someone attacked Tom.	Jemand griff Tom an.	किसी ने टॉम पर हमला किया।
-Someone gave me this.	Jemand hat mir das hier gegeben.	किसी ने मुझे यह दिया।
-Someone might see us.	Es könnte uns jemand sehen.	कोई हमें देख सकता था।
 Someone told me that.	Jemand sagte es mir.	किसी ने मुझसे कहा।
 Something went wrong.	Etwas ist schiefgelaufen.	कुछ गलत हो गया।
 Sometimes it happens.	Manchmal passiert das.	कभी -कभी ऐसा होता है।
