@@ -35541,3 +35541,11 @@ Where's the bus stop?	Wo ist die Bushaltestelle?	बस स्टॉप कह�
 Where's the entrance?	Wo ist der Eingang?	प्रवेश द्वार कहाँ है?
 Where's the hospital?	Wo ist das Krankenhaus?	अस्पताल कहाँ है?
 Where's the new girl?	Wo ist das neue Mädchen?	नयी लड़की कहाँ है?
+Where's the pharmacy?	Wo ist die Apotheke?	फार्मेसी कहाँ है?
+Where's the restroom?	Wo ist die Toilette?	रेस्टरूम कहाँ है?
+Where's your brother?	Wo ist dein Bruder?	तुम्हारा भाई कहाँ है?
+Where's your brother? - 2	Wo ist dein Geschwister?	तुम्हारी बहन कहाँ है?
+Where's your uniform?	Wo ist deine Uniform?	तुम्हारी यूनिफार्म कहाँ है?
+Where's your uniform? - 2	Wo ist deine Schuluniform?	तुम्हारी सरक यहाँ है क्या?
+Which book is better?	Welches Buch ist besser?	कौनसी किताब बेहतर है?
+Which is your guitar?	Welche ist deine Gitarre?	तुम्हारी गिटार कौनसी है?

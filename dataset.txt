@@ -1,15 +1,4 @@
 
-Where's the pharmacy?	Wo ist die Apotheke?	औषधालय कहां है?
-Where's the restroom?	Wo ist die Toilette?	टॉयलेट कहां है?
-Where's your brother?	Wo ist dein Bruder?	आपके भाई कहाँ है?
-Where's your brother?	Wo ist euer Bruder?	आपके भाई कहाँ है?
-Where's your brother?	Wo ist Ihr Bruder?	आपके भाई कहाँ है?
-Where's your uniform?	Wo ist deine Uniform?	आपकी वर्दी कहाँ है?
-Where's your uniform?	Wo ist Ihre Uniform?	आपकी वर्दी कहाँ है?
-Which book is better?	Welches Buch ist besser?	कौन सी किताब बेहतर है?
-Which is your guitar?	Welche ist deine Gitarre?	आपका गिटार कौन सा है?
-Which is your guitar?	Welche ist eure Gitarre?	आपका गिटार कौन सा है?
-Which is your guitar?	Welche ist Ihre Gitarre?	आपका गिटार कौन सा है?
 Which one is cheaper?	Was ist günstiger?	सस्ता क्या है?
 Which ones are Tom's?	Welche sind Toms?	कौन से टॉम्स हैं?
 Which shelf is it on?	Auf welchem Regal liegt es?	यह किस शेल्फ पर है?
