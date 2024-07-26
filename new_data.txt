@@ -29490,3 +29490,10 @@ Try it out yourself.	Probier es selbst aus.	खुद से आज़माए�
 Try on this sweater.	Probier diesen Pullover an.	इस स्वेटर को पहनो।
 Turn down the radio.	Stell das Radio leiser.	रेडियो को नीचे करो।
 Turn it off, please.	Schalte es bitte aus.	कृपया इसे बंद करें।
+Turn off the lights.	Lichter ausschalten.	रोशनी बंद कर दो।
+Turn the car around.	Das Auto wenden.	कार को घुमा लो।
+Turn the radio down.	Das Radio leiser machen.	रेडियो को कम करो।
+Two coffees, please.	Zwei Kaffees, bitte.	कृपया दो कॉफ़ी लाएं।
+Two tickets, please.	Zwei Tickets, bitte.	कृपया दो टिकट लाएं।
+Umbrellas sell well.	Regenschirme verkaufen sich gut.	छात्र अच्छे से बिकती हैं।
+Unwrap it carefully.	Öffnen Sie es vorsichtig.	इसे सावधानी से खोलें।

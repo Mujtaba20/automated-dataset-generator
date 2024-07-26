@@ -1,15 +1,4 @@
 
-Turn off the lights.	Schalte das Licht aus.	बत्ती बंद करें।
-Turn the car around.	Wende!	मोड़!
-Turn the car around.	Wenden Sie!	मुड़ो!
-Turn the radio down.	Dreh das Radio leiser.	रेडियो को शांत करें।
-Two coffees, please.	Zwei Kaffees, bitte.	दो कॉफ़ी, कृपया।
-Two coffees, please.	Zwei Kaffees bitte.	कृपया दो कॉफ़ी।
-Two tickets, please.	Zwei Fahrkarten bitte.	कृपया दो टिकट।
-Two tickets, please.	Zwei Eintrittskarten bitte.	कृपया दो टिकट।
-Umbrellas sell well.	Regenschirme verkaufen sich gut.	रेलवे अच्छी तरह से बेचते हैं।
-Unwrap it carefully.	Packe es vorsichtig aus.	इसे ध्यान से पैक करें।
-Unwrap it carefully.	Packe es behutsam aus.	इसे ध्यान से पैक करें।
 Utilities are extra.	Die Nebenkosten sind nicht inbegriffen.	अतिरिक्त लागत शामिल नहीं हैं।
 Wait inside the car.	Warte im Wagen!	कार में रुको!
 Wait till next year.	Warte bis zum nächsten Jahr.	अगले साल तक प्रतीक्षा करें।
