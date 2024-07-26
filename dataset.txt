@@ -1,16 +1,4 @@
 
-How high is that tower?	Wie hoch ist dieser Turm?	यह टॉवर कितना ऊँचा है?
-How is that pronounced?	Wie wird das ausgesprochen?	यह कैसे उच्चारण किया जाता है?
-How is this pronounced?	Wie wird das ausgesprochen?	यह कैसे उच्चारण किया जाता है?
-How is your wife doing?	Wie geht es deiner Frau?	आपकी पत्नी कैसी है?
-How long does Tom have?	Wie viel Zeit hat Tom?	टॉम के पास कितना समय है?
-How long is that story?	Wie lang ist diese Geschichte?	यह कहानी कब तक है?
-How long is the bridge?	Wie lang ist die Brücke?	पुल कब तक है?
-How long should I rest?	Wie lange sollte ich mich ausruhen?	मुझे कब तक आराम करना चाहिए?
-How long was Tom there?	Wie lange war Tom dort?	टॉम कब तक था?
-How long were you gone?	Wie lange warst du weg?	आप कब से दूर हैं?
-How long were you gone?	Wie lange wart ihr weg?	आप कब से दूर हैं?
-How long were you gone?	Wie lange waren Sie weg?	आप कब तक चले गए?
 How much did that cost?	Was hat es gekostet?	इसमें क्या खर्च हुआ?
 How much did this cost?	Was hat es gekostet?	इसमें क्या खर्च हुआ?
 How much did you bring?	Wie viel hast du mitgebracht?	आप अपने साथ कितना लाया?
