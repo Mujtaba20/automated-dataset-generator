@@ -24370,3 +24370,11 @@ We were here first.	Wir waren zuerst hier.	हम पहले यहाँ थ�
 We were in a hurry.	Wir hatten es eilig.	हमें जल्दी है।
 We were just going.	Wir waren gerade unterwegs.	हम बस जा रहे थे।
 We were just lucky.	Wir hatten einfach Glück.	हम बस भाग्यशाली थे।
+We were passengers.	Wir waren Passagiere.	हम यात्री थे।
+We were there, too.	Wir waren auch dort.	हम भी वहाँ थे।
+We were very happy.	Wir waren sehr glücklich.	हम बहुत खुश थे।
+We weren't invited.	Wir wurden nicht eingeladen.	हमें नहीं बुलाया गया था।
+We won't stay long.	Wir werden nicht lange bleiben.	हम ज्यादा समय तक नहीं रहेंगे।
+We'll all miss you.	Wir werden dich alle vermissen.	हम तुम्हें सब याद करेंगे।
+We'll be home soon.	Wir werden bald zu Hause sein.	हम जल्द ही घर पहुँचेंगे।
+We'll cook for you.	Wir werden für dich kochen.	हम तुम्हारे लिए खाना पकाएंगे।
