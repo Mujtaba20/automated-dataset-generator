@@ -1,14 +1,4 @@
 
-Do you love each other?	Liebt ihr euch?	क्या आप एक दूसरे से प्यार करते हैं?
-Do you mind if I smoke?	Stört es Sie, wenn ich rauche?	यदि मैं धूम्रपान करूं तो आपको आपत्ति होगी?
-Do you need more money?	Brauchst du mehr Geld?	क्या आपको अधिक पैसे की आवश्यकता है?
-Do you need much money?	Brauchst du viel Geld?	क्या आपको बहुत सारे पैसे चाहिए?
-Do you play any sports?	Treibst du irgendwelchen Sport?	क्या आप कोई खेल खेलते हो?
-Do you play any sports?	Betreibst du irgendwelche Sportarten?	क्या आप कोई खेल खेलते हैं?
-Do you play the guitar?	Spielst du Gitarre?	क्या आप गिटार बजाते हैं?
-Do you play the guitar?	Spielt ihr Gitarre?	क्या आप गिटार खेलते हैं?
-Do you play the guitar?	Spielen Sie Gitarre?	क्या आप गिटार खेलते हैं?
-Do you read Tom's blog?	Liest du Toms Netztagebuch?	क्या आप टॉम की मेन्स डायरी पढ़ते हैं?
 Do you really love Tom?	Liebst du Tom wirklich?	क्या आप वास्तव में टॉम से प्यार करते हैं?
 Do you really not know?	Weißt du das wirklich nicht?	क्या आप वास्तव में नहीं जानते हैं?
 Do you see the raccoon?	Siehst du den Waschbären?	क्या आप रैकून देखते हैं?
