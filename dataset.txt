@@ -1,14 +1,4 @@
 
-The dogs were unharmed.	Die Hunde waren unverletzt.	कुत्ते अनहोनी कर रहे थे।
-The door closed slowly.	Die Tür ging langsam zu.	दरवाजा धीरे -धीरे आ रहा था।
-The door is now closed.	Die Tür ist jetzt zu.	दरवाजा अब बंद हो गया है।
-The door is still open.	Die Tür steht noch auf.	दरवाजा अभी भी ऊपर है।
-The door is still open.	Die Tür ist noch geöffnet.	दरवाजा अभी भी खुला है।
-The door may be locked.	Die Tür ist möglicherweise verschlossen.	दरवाजा बंद हो सकता है।
-The door opened slowly.	Die Tür öffnete sich langsam.	दरवाजा धीरे -धीरे खुल गया।
-The door was half open.	Die Tür stand halb offen.	दरवाजा आधा खुला था।
-The door was wide open.	Die Tür stand sperrangelweit offen.	दरवाजा पूरे ब्लॉक में खुला था।
-The door wasn't closed.	Die Tür war nicht zu.	दरवाजा बंद नहीं था।
 The door will not open.	Diese Tür lässt sich nicht öffnen.	यह दरवाजा नहीं खोला जा सकता है।
 The door will not open.	Diese Tür will nicht aufgehen.	यह दरवाजा खोलना नहीं चाहता है।
 The door wouldn't open.	Die Tür ging nicht auf.	दरवाजा नहीं खुला।
