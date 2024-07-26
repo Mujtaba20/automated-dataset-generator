@@ -24094,3 +24094,11 @@ Tom was my student.	Tom war mein Schüler.	टॉम मेरा छात्�
 Tom was my teacher.	Tom war mein Lehrer.	टॉम मेरा शिक्षक था।
 Tom was never here.	Tom war nie hier.	टॉम कभी यहाँ नहीं था।
 Tom was optimistic.	Tom war optimistisch.	टॉम आशावादी था।
+Tom was ostracized.	Tom wurde ausgegrenzt.	टॉम को अलग कर दिया गया था।
+Tom was overweight.	Tom war übergewichtig.	टॉम का वजन अधिक था।
+Tom was pushing me.	Tom hat mich geschoben.	टॉम ने मुझे धक्का दिया।
+Tom was real happy.	Tom war wirklich glücklich.	टॉम वास्तव में खुश था।
+Tom was really mad.	Tom war wirklich sauer.	टॉम वास्तव में गुस्सा था।
+Tom was really sad.	Tom war wirklich traurig.	टॉम वास्तव में उदास था।
+Tom was rude to me.	Tom war unhöflich zu mir.	टॉम मेरे साथ अकड़ था।
+Tom was salivating.	Tom sabberte.	टॉम लार चाट रहा था।
