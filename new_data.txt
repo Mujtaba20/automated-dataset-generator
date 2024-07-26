@@ -20907,3 +20907,13 @@ He's always joking.	Er scherzt immer.	वह हमेशा मजाक कर
 He's an Englishman.	Er ist ein Engländer.	वह एक अंग्रेज़ आदमी है।
 He's an early bird.	Er ist ein Frühaufsteher.	वह पहले उठने वाला है।
 He's an early bird. (Different Meaning)	Er ist ein Frühaufsteher.	वह विशेषज्ञ है।
+He's an honest man.	Er ist ein ehrlicher Mann.	वह ईमानदार आदमी है।
+He's coming closer.	Er kommt näher.	वह नज़दीक आ रहा है।
+He's down to earth.	Er ist bodenständig.	वह ज़मीन पर है।
+He's good at cards.	Er ist gut im Karten spielen.	वह कार्ड अच्छे खेलता है।
+He's in a bad mood.	Er ist schlecht gelaunt.	उसका मिज़ाज खराब है।
+He's looking at me.	Er schaut mich an.	वह मुझे देख रहा है।
+He's my first love.	Er ist meine erste Liebe.	वह मेरा पहला प्यार है।
+He's not a bad guy.	Er ist kein böser Kerl.	वह बुरा आदमी नहीं है।
+He's not all there.	Er ist nicht ganz da.	वह पूरी तरह से नहीं है।
+He's not my cousin.	Er ist nicht mein Cousin.	वह मेरा चचेरा भाई नहीं है।

@@ -1,14 +1,4 @@
 
-He's an honest man.	Er ist ein ehrlicher Mensch.	वह एक ईमानदार व्यक्ति है।
-He's coming closer.	Er kommt näher.	वह करीब हो जाता है।
-He's down to earth.	Er ist bodenständig.	यह पृथ्वी के नीचे है।
-He's good at cards.	Er ist gut im Kartenspiel.	वह कार्ड गेम में अच्छा है।
-He's in a bad mood.	Er ist schlechter Laune.	यह एक बुरा मूड है।
-He's looking at me.	Er sieht mich an.	वह मुझे देखता है।
-He's my first love.	Er ist meine erste Liebe.	वह मेरा पहला प्यार है।
-He's not a bad guy.	Er ist kein schlechter Kerl.	वह बुरा आदमी नहीं है।
-He's not all there.	Er hat sie nicht alle.	वह उन सभी के पास नहीं है।
-He's not my cousin.	Er ist nicht mein Cousin.	वह मेरा चचेरा भाई नहीं है।
 He's not my father.	Er ist nicht mein Vater.	वह मेरे पिता नहीं हैं।
 He's not one of us.	Er gehört nicht zu uns.	वह हमारा नहीं है।
 He's old and crazy.	Er ist alt und verrückt.	वह बूढ़ा और पागल है।
