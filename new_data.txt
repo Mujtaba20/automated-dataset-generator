@@ -27723,3 +27723,12 @@ Nobody really knows.	Niemand weiß wirklich.	कोई सचमुच नही
 Nobody saw anything.	Niemand hat etwas gesehen.	कोई कुछ नहीं देखा।
 Nobody speaks to me.	Niemand spricht mit mir.	कोई मेरे साथ नहीं बोलता।
 Nobody waits for me.	Niemand wartet auf mich.	कोई मेरे लिए इंतजार नहीं करता।
+Nobody's interested.	Niemand ist interessiert.	किसी को भी रुचि नहीं है।
+None of it was real.	Nichts davon war echt.	इसमें से कोई भी असली नहीं था।
+Not everyone agreed.	Nicht alle waren einverstanden.	सभी सहमत नहीं थे।
+Nothing can be done.	Nichts kann getan werden.	कुछ नहीं किया जा सकता।
+Nothing can stop it.	Nichts kann es stoppen.	कुछ इसे रोक नहीं सकता।
+Nothing can stop me.	Nichts kann mich aufhalten.	कुछ मुझे रोक नहीं सकता।
+Nothing has changed.	Nichts hat sich geändert.	कुछ नहीं बदला है।
+Nothing was working.	Nichts funktionierte.	कुछ काम नहीं कर रहा था।
+Nothing will happen.	Es wird nichts passieren.	कुछ होने वाला नहीं है।
