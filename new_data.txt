@@ -23274,3 +23274,11 @@ This was avoidable.	Dies war vermeidbar.	यह टाल सका जा स�
 This was very hard.	Das war sehr schwer.	यह बहुत कठिन था।
 This was your idea.	Das war deine Idee.	यह तुम्हारा विचार था।
 This will be great.	Das wird großartig sein.	यह शानदार होगा।
+This won't be easy.	Das wird nicht einfach sein.	यह आसान नहीं होगा।
+This won't help us.	Das wird uns nicht helfen.	यह हमारी मदद नहीं करेगा।
+Those are my books.	Das sind meine Bücher.	वो मेरी किताबें हैं।
+Those are my pants.	Das sind meine Hosen.	वो मेरे पैंट्स हैं।
+Those aren't tacos.	Das sind keine Tacos.	वो टाकोस नहीं हैं।
+Those belong to me.	Das gehört mir.	वो मेरे हैं।
+Those colors clash.	Diese Farben stehen im Kontrast zueinander.	वो रंग टकराते हैं।
+Those dogs are big.	Diese Hunde sind groß.	वो कुत्ते बड़े हैं।

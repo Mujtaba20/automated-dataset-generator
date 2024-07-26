@@ -1,14 +1,4 @@
 
-This won't be easy.	Das wird nicht leicht sein.	यह आसान नहीं होगा।
-This won't help us.	Das wird uns nicht helfen.	यह हमारी मदद नहीं करेगा।
-Those are my books.	Das sind meine Bücher.	ये मेरी किताबें हैं।
-Those are my pants.	Das ist meine Hose.	यह मेरी पैंट है।
-Those are my pants.	Das ist meine Unterhose.	यह मेरे अंडरपैंट्स है।
-Those aren't tacos.	Das sind keine Tacos.	ये टैकोस नहीं हैं।
-Those belong to me.	Die gehören mir.	वे मेरे हैं।
-Those belong to me.	Das sind meine.	ये मेरे हैं।
-Those colors clash.	Die Farben stoßen sich ab.	रंग टूट जाते हैं।
-Those dogs are big.	Diese Hunde sind groß.	ये कुत्ते बड़े हैं।
 Throw Tom the ball.	Wirf Tom den Ball zu!	टॉम को गेंद फेंक दो!
 Throw Tom the ball.	Wirf den Ball zu Tom!	टॉम को गेंद फेंक दो!
 Tie your shoelaces.	Binde deine Schnürsenkel.	अपने लेस को बांधें।
