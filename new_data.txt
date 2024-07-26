@@ -21578,3 +21578,13 @@ I ran out of money.	Mir geht das Geld aus.	मेरे पैसे ख़त�
 I ran to my mother.	Ich rannte zu meiner Mutter.	मैं अपनी माँ के पास भागा।
 I read comic books.	Ich las Comicbücher.	मैंने कॉमिक बुक्स पढ़ी।
 I read the article.	Ich las den Artikel.	मैं अनुच्छेद पढ़ा।
+I read your report.	Ich habe deinen Bericht gelesen.	मैंने आपकी रिपोर्ट पढ़ी।
+I really like snow.	Ich mag Schnee wirklich gerne.	मुझे बर्फ बहुत पसंद है।
+I really like them.	Ich mag sie wirklich gerne.	मुझे वे बहुत पसंद हैं।
+I really liked Tom.	Ich mochte Tom wirklich gern.	मुझे टॉम पसंद था।
+I really love cats.	Ich liebe Katzen wirklich sehr.	मुझे बिल्लियों से सच्चा प्यार है।
+I really miss them.	Ich vermisse sie wirklich.	मुझे उनकी बहुत याद आती है।
+I really should go.	Ich sollte wirklich gehen.	मुझे सच में जाना चाहिए।
+I really want that.	Ich möchte das wirklich.	मुझे वास्तव में वह चाहिए।
+I really want this.	Ich möchte dies wirklich.	मुझे वास्तव में यह चाहिए।
+I recently met Tom.	Ich habe kürzlich Tom getroffen.	मैंने हाल ही में टॉम से मिला।
