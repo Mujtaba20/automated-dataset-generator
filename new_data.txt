@@ -28369,3 +28369,12 @@ They won't catch me.	Sie werden mich nicht erwischen.	वे मुझे पक
 They won't find you.	Sie werden dich nicht finden.	वे तुम्हें नहीं ढूंढ़ पाएंगे।
 They won't help you.	Sie werden dir nicht helfen.	वे तुम्हें मदद नहीं करेंगे।
 They won't hurt you.	Sie werden dir nicht schaden.	वे तुम्हें चोट नहीं पहुंचाएंगे।
+They'll go shopping.	Sie werden einkaufen gehen.	वे खरीदारी पर जाएंगे।
+They're about to go.	Sie sind kurz davor zu gehen.	वे जाने वाले हैं।
+They're at home now.	Sie sind jetzt zu Hause.	वे अब घर पर हैं।
+They're coming here.	Sie kommen hierher.	वे यहाँ आ रहे हैं।
+They're coming home.	Sie kommen nach Hause.	वे घर आ रहे हैं।
+They're doing great.	Sie machen großartige Arbeit.	वे बहुत अच्छा कर रहे हैं।
+They're good people.	Sie sind gute Menschen.	वे अच्छे इंसान हैं।
+They're ignoring us.	Sie ignorieren uns.	वे हमें ध्यान नहीं दे रहे हैं।
+They're in the well.	Sie sind im Brunnen.	वे भूजल में हैं।
