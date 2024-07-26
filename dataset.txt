@@ -1,14 +1,4 @@
 
-She speaks Chinese.	Sie spricht Chinesisch.	वह चीनी बोलती है।
-She speaks Russian.	Sie spricht Russisch.	वह रूसी बोलती है।
-She speaks quickly.	Sie spricht schnell.	वह जल्दी से बोलती है।
-She threatened him.	Sie hat ihm gedroht.	उसने उसे धमकी दी।
-She threatened him.	Sie drohte ihm.	उसने उसे धमकी दी।
-She wants to dance.	Sie will tanzen.	वह नृत्य करना चाहती है।
-She was all smiles.	Sie strahlte übers ganze Gesicht.	वह पूरे चेहरे पर मुस्कराती थी।
-She was born blind.	Sie wurde blind geboren.	वह अंधा पैदा हुई थी।
-She was born blind.	Sie kam blind zur Welt.	वह आँख बंद करके पैदा हुई थी।
-She was born lucky.	Sie wurde glücklich geboren.	वह खुशी से पैदा हुई थी।
 She was in a hurry.	Sie war in Eile.	वह जल्दी में थी।
 She was laughed at.	Man lachte über sie.	तुम उस पर हँसे।
 She was making tea.	Sie machte gerade Tee.	वह अभी चाय कर रही थी।

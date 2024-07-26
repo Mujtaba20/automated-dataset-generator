@@ -22756,3 +22756,13 @@ She put on her hat.	Sie setzte ihren Hut auf.	उसने अपनी टो�
 She sat next to me.	Sie saß neben mir.	उसने मेरे पास बैठा।
 She shook her head.	Sie schüttelte den Kopf.	उसने सर हिलाया।
 She smiled happily.	Sie lächelte glücklich.	उसने खुशी से मुस्कुराया।
+She speaks Chinese.	Sie spricht Chinesisch.	उसने चीनी बोली।
+She speaks Russian.	Sie spricht Russisch.	उसने रूसी बोली।
+She speaks quickly.	Sie spricht schnell.	वह तेजी से बोलती है।
+She threatened him.	Sie hat ihm gedroht.	उसने उसे धमकी दी।
+She threatened him. (Different meaning)	Sie hat ihn bedroht.	उसने उस पर धमकी दी।
+She wants to dance.	Sie möchte tanzen.	वह नाचना चाहती है।
+She was all smiles.	Sie strahlte über das ganze Gesicht.	उसका पूरा चेहरा मुस्कान में था।
+She was born blind.	Sie wurde blind geboren.	उसे अंधा होकर पैदा हुआ।
+She was born blind. (Different meaning)	Sie war von Geburt an blind.	उसका जन्म से ही अंधा था।
+She was born lucky.	Sie wurde glücklich geboren.	वह भाग्यशाली जन्मी थी।
