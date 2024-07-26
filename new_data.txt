@@ -21919,3 +21919,12 @@ I'm an early riser.	Ich stehe früh auf.	मैं जल्दी उठने 
 I'm an old man now.	Ich bin jetzt ein alter Mann.	अब मैं बूढ़ा आदमी हूँ।
 I'm angry with Tom.	Ich bin wütend auf Tom.	मैं टॉम से नाराज़ हूँ।
 I'm angry with her.	Ich bin über sie wütend.	मैं उससे गुस्सा हूँ।
+I'm angry with you.	Ich bin wütend auf dich.	मैं तुमसे नाराज़ हूँ।
+I'm as busy as Tom.	Ich bin genauso beschäftigt wie Tom.	मैं टॉम जैसे ही व्यस्त हूँ।
+I'm as tall as Tom.	Ich bin so groß wie Tom.	मैं टॉम के जैसे ऊँचा हूँ।
+I'm at my parents'.	Ich bin bei meinen Eltern.	मैं अपने माता-पिता के पास हूँ।
+I'm at the library.	Ich bin in der Bibliothek.	मैं लाइब्रेरी में हूँ।
+I'm back in prison.	Ich bin zurück im Gefängnis.	मैं फिर से कैद में हूँ।
+I'm bleeding badly.	Ich blute stark.	मैं गंभीर रूप से खून बह रहा हूँ।
+I'm bored to death.	Ich bin zu Tode gelangweilt.	मैं मौत के बोर हो गया।
+I'm busy right now.	Ich bin gerade beschäftigt.	मैं अभी व्यस्त हूँ।

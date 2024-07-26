@@ -1,14 +1,4 @@
 
-I'm angry with you.	Ich bin sauer auf dich.	मैं आप पर गुस्सा हूं।
-I'm as busy as Tom.	Ich bin genauso beschäftigt wie Tom.	मैं टॉम की तरह व्यस्त हूं।
-I'm as tall as Tom.	Ich bin genauso groß wie Tom.	मैं टॉम जितना बड़ा हूं।
-I'm at my parents'.	Ich bin bei meinen Eltern.	मैं अपने माता पिता के साथ हूं.
-I'm at the library.	Ich bin in der Bibliothek.	मैं पुस्तकालय में हूँ।
-I'm back in prison.	Ich bin wieder im Gefängnis.	मैं जेल में वापस आ गया हूं।
-I'm bleeding badly.	Ich blute wie ein Schwein.	मैं एक सुअर की तरह खून बह रहा था।
-I'm bleeding badly.	Ich blute stark.	मैं भारी रक्त।
-I'm bored to death.	Ich sterbe vor Langerweile.	मैं बोरियत से मर जाता हूं।
-I'm busy right now.	Ich bin gerade beschäftigt.	मैं अभी व्यस्त हूँ।
 I'm claustrophobic.	Ich bin klaustrophob.	मैं एक क्लॉस्ट्रोफोब हूं।
 I'm coming for Tom.	Ich komme wegen Tom.	मैं टॉम की वजह से आता हूं।
 I'm coming for you.	Ich komme wegen Ihnen.	मैं उनकी वजह से आता हूं।
