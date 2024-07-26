@@ -23472,3 +23472,13 @@ Tom got ripped off.	Tom wurde übers Ohr gehauen.	टॉम को धोखा 
 Tom got tired soon.	Tom wurde bald müde.	टॉम जल्द ही थक गया।
 Tom got very angry.	Tom wurde sehr wütend.	टॉम बहुत गुस्से में था।
 Tom got very lucky.	Tom hatte sehr viel Glück.	टॉम को बहुत भाग्यशाली होने का अनुभव हुआ।
+Tom got very tense.	Tom wurde sehr nervös.	टॉम बहुत तनाव में आ गया।
+Tom grabbed my arm.	Tom packte meinen Arm.	टॉम ने मेरा हाथ पकड़ लिया।
+Tom had a good job.	Tom hatte einen guten Job.	टॉम के पास एक अच्छी नौकरी थी।
+Tom had a headache.	Tom hatte Kopfschmerzen.	टॉम को सरदर्द था।
+Tom had had enough.	Tom hatte genug gehabt.	टॉम को काफी था।
+Tom had three dogs.	Tom hatte drei Hunde.	टॉम के पास तीन कुत्ते थे।
+Tom had three sons.	Tom hatte drei Söhne.	टॉम के तीन पुत्र थे।
+Tom had work to do.	Tom hatte Arbeit zu erledigen.	टॉम को काम करना था।
+Tom hanged himself.	Tom erhängte sich.	टॉम ने अपनी एकलाख लगा दी।
+Tom has Monday off.	Tom hat Montag frei.	टॉम को सोमवार को छुट्टी है।
