@@ -25216,3 +25216,11 @@ Can you make copies?	Kannst du Kopien machen?	क्या आप प्रत�
 Can you pick up Tom?	Kannst du Tom abholen?	क्या तुम टॉम को उठा सकते हो?
 Can you play guitar?	Kannst du Gitarre spielen?	क्या आप गिटार बजा सकते हैं?
 Can you play tennis?	Kannst du Tennis spielen?	क्या आप टेनिस खेल सकते हैं?
+Can you please help?	Können Sie bitte helfen?	क्या आप मदद कर सकते हैं?
+Can you read Arabic?	Kannst du Arabisch lesen?	क्या आप अरबी पढ़ सकते हैं?
+Can you read French?	Kannst du Französisch lesen?	क्या आप फ्रेंच पढ़ सकते हैं?
+Can you really swim?	Kannst du wirklich schwimmen?	क्या आप सच में तैर सकते हैं?
+Can you repeat that?	Kannst du das wiederholen?	क्या आप इसे दोहरा सकते हैं?
+Can you rub my back?	Kannst du meinen Rücken reiben?	क्या आप मेरी पीठ पर मलिश कर सकते हैं?
+Can you swim at all?	Kannst du überhaupt schwimmen?	क्या आप किसी भी प्रकार से तैर सकते हैं?
+Can you tell me how?	Kannst du mir sagen wie?	क्या आप मुझे बता सकते हैं कि कैसे?
