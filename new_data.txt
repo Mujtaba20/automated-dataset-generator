@@ -40536,3 +40536,12 @@ Tom lowered his sword.	Tom senkte sein Schwert.	टॉम ने अपनी �
 Tom lowered his voice.	Tom senkte seine Stimme.	टॉम ने अपनी आवाज़ कम की।
 Tom made Mary do that.	Tom hat Mary das machen lassen.	टॉम ने मैरी से वह करने के लिए कहा।
 Tom made a funny face.	Tom machte ein lustiges Gesicht.	टॉम ने एक मजेदार चेहरा बनाया।
+Tom made a pilgrimage.	Tom machte eine Pilgerfahrt.	टॉम ने तीर्थ यात्रा की।
+Tom made a run for it.	Tom machte sich auf den Weg.	टॉम ने इसके लिए दौड़ लगाई।
+Tom made an exception.	Tom machte eine Ausnahme.	टॉम ने एक अपवाद किया।
+Tom made deviled eggs.	Tom machte gefüllte Eier.	टॉम ने चिल्ला अंडे बनाए।
+Tom made it look easy.	Tom machte es einfach aussehen.	टॉम ने इसे आसान दिखाया।
+Tom made me come here.	Tom ließ mich hierher kommen.	टॉम ने मुझे यहाँ आने की बोली दी।
+Tom made that himself.	Tom machte das selbst.	टॉम ने वह खुद बनाया।
+Tom made three errors.	Tom machte drei Fehler.	टॉम ने तीन गलतियां की।
+Tom managed to escape.	Tom schaffte es zu entkommen.	टॉम को भाग निकलने में कामयाबी मिली।
