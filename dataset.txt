@@ -1,14 +1,4 @@
 
-Tom wants to dance.	Tom will tanzen.	टॉम नृत्य करना चाहता है।
-Tom wants to do it.	Tom will es machen.	टॉम इसे करना चाहता है।
-Tom wants to drive.	Tom möchte fahren.	टॉम ड्राइव करना चाहता है।
-Tom wants to learn.	Tom will lernen.	टॉम सीखना चाहता है।
-Tom wants to leave.	Tom will gehen.	टॉम जाना चाहता है।
-Tom wants to relax.	Tom will sich entspannen.	टॉम आराम करना चाहता है।
-Tom wants to speak.	Tom will sprechen.	टॉम बोलना चाहता है।
-Tom wants to trade.	Tom will handeln.	टॉम कार्य करना चाहता है।
-Tom wants to watch.	Tom will zusehen.	टॉम देखना चाहता है।
-Tom wants you dead.	Tom will dich tot sehen.	टॉम आपको मृत देखना चाहता है।
 Tom was a diplomat.	Tom war Diplomat.	टॉम एक राजनयिक था।
 Tom was a good man.	Tom war ein guter Mensch.	टॉम एक अच्छा इंसान था।
 Tom was a nice man.	Tom war ein netter Mann.	टॉम एक अच्छा आदमी था।

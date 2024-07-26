@@ -24057,3 +24057,13 @@ Tom wants an apple.	Tom möchte einen Apfel.	टॉम को एक सेब �
 Tom wants children.	Tom möchte Kinder.	टॉम को बच्चे चाहिए।
 Tom wants our help.	Tom möchte unsere Hilfe.	टॉम हमारी मदद चाहता है।
 Tom wants this one.	Tom möchte dieses.	टॉम चाहता है ये वाला।
+Tom wants to dance.	Tom möchte tanzen.	टॉम नाचना चाहता है।
+Tom wants to do it.	Tom will es tun.	टॉम इसे करना चाहता है।
+Tom wants to drive.	Tom möchte fahren.	टॉम चलाना चाहता है।
+Tom wants to learn.	Tom möchte lernen.	टॉम सीखना चाहता है।
+Tom wants to leave.	Tom möchte gehen.	टॉम छोड़ना चाहता है।
+Tom wants to relax.	Tom möchte sich entspannen.	टॉम आराम करना चाहता है।
+Tom wants to speak.	Tom möchte sprechen.	टॉम बोलना चाहता है।
+Tom wants to trade.	Tom möchte handeln.	टॉम व्यापार करना चाहता है।
+Tom wants to watch.	Tom möchte zuschauen.	टॉम देखना चाहता है।
+Tom wants you dead.	Tom will dich tot sehen.	टॉम तुम्हें मरते हुए देखना चाहता है।
