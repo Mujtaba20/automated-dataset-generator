@@ -1,14 +1,4 @@
 
-The doors were closed.	Die Türen waren geschlossen.	दरवाजे बंद थे।
-The end came suddenly.	Das Ende kam plötzlich.	अंत अचानक आ गया।
-The engine is purring.	Der Motor brummt.	इंजन हम्स।
-The experiment failed.	Das Experiment war ein Misserfolg.	प्रयोग एक विफलता थी।
-The experiment failed.	Das Experiment scheiterte.	प्रयोग विफल रहा।
-The faucet is leaking.	Der Wasserhahn tropft.	नल लीक।
-The feeling is mutual.	Das Gefühl beruht auf Gegenseitigkeit.	भावना पारस्परिकता पर आधारित है।
-The feeling is mutual.	Das Gefühl wird erwidert.	भावना का जवाब दिया जाता है।
-The files are missing.	Die Dateien fehlen.	फाइलें गायब हैं।
-The fog began to lift.	Der Nebel fing an, sich zu lichten.	कोहरा साफ होने लगा।
 The food is delicious.	Das Essen ist köstlich.	खाना स्वादिष्ट है।
 The food is excellent.	Das Essen ist ausgezeichnet.	भोजन उत्कृष्ट है।
 The girl said nothing.	Das Mädchen sagte nichts.	लड़की ने कुछ नहीं कहा।

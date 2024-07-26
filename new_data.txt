@@ -39460,3 +39460,13 @@ The dog is biting Tom.	Der Hund beißt Tom.	कुत्ता टॉम को 
 The door creaked open.	Die Tür knarrte auf.	दरवाजा क्रीक करते हुए खुल गया।
 The door doesn't lock.	Die Tür lässt sich nicht verschließen.	दरवाजा नहीं बंधता है।
 The door slammed shut.	Die Tür wurde zugeschlagen.	दरवाजा जोर से बंद हो गया।
+The doors were closed.	Die Türen waren geschlossen.	दरवाजे बंद थे।
+The end came suddenly.	Das Ende kam plötzlich.	अंत अचानक आया।
+The engine is purring.	Der Motor schnurrt.	इंजन गर्रा रहा है।
+The experiment failed.	Das Experiment ist fehlgeschlagen.	प्रयोग विफल हो गया।
+The experiment failed. (different meaning)	Der Versuch scheiterte.	प्रयोग असफल रहा।
+The faucet is leaking.	Der Wasserhahn tropft.	नल टपक रहा है।
+The feeling is mutual.	Das Gefühl ist gegenseitig.	भावना सामंजस्य है।
+The feeling is mutual. (different meaning)	Die Empfindung ist gegenseitig.	एहसास दोपहरी है।
+The files are missing.	Die Dateien fehlen.	फाइलें गायब हैं।
+The fog began to lift.	Der Nebel begann sich zu lichten.	कोहरा उठने लगा।
