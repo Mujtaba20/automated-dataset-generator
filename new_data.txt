@@ -29543,3 +29543,13 @@ We can't let Tom in.	Wir können Tom nicht hereinlassen.	हम टॉम को
 We can't lie to Tom.	Wir können Tom nicht anlügen.	हम टॉम से झूठ नहीं बोल सकते।
 We caught the thief.	Wir haben den Dieb gefangen.	हमने चोर को पकड़ लिया।
 We caught the train.	Wir haben den Zug erwischt.	हमने ट्रेन को पकड़ लिया।
+We could get caught.	Wir könnten erwischt werden.	हम पकड़े जा सकते हैं।
+We could use a hand.	Wir könnten Hilfe gebrauchen.	हमें मदद की आवश्यकता हो सकती है।
+We could've escaped.	Wir hätten entkommen können.	हम बच जा सकते थे।
+We did all we could.	Wir haben alles getan, was wir konnten.	हमने जो कुछ कर सकते थे, सब कुछ किया।
+We did all we could. (variant)	Wir haben unser Bestes gegeben.	हमने सबसे अच्छा किया।
+We didn't plan this.	Wir haben das nicht geplant.	हमने इसे नहीं योजना बनाई थी।
+We didn't play well.	Wir haben nicht gut gespielt.	हमने अच्छे ढंग से नहीं खेला।
+We didn't talk long.	Wir haben nicht lange gesprochen.	हमने लंबे समय तक नहीं बात की।
+We dislike violence.	Wir mögen keine Gewalt.	हम हिंसा से नफरत करते हैं।
+We don't have a car.	Wir haben kein Auto.	हमारे पास कोई कार नहीं है।

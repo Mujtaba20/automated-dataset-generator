@@ -1,14 +1,4 @@
 
-We could get caught.	Wir könnten erwischt werden.	हम पकड़े जा सकते थे।
-We could use a hand.	Wir könnten etwas Hilfe gebrauchen.	हम कुछ मदद का उपयोग कर सकते हैं।
-We could've escaped.	Wir hätten entkommen können.	हम बच सकते थे।
-We did all we could.	Wir haben getan, was wir konnten.	हमने वही किया जो हम कर सकते थे।
-We did all we could.	Wir haben alles getan, was wir konnten.	हमने वह सब कुछ किया जो हम कर सकते थे।
-We didn't plan this.	Das haben wir nicht geplant.	हमने इसकी योजना नहीं बनाई।
-We didn't play well.	Wir haben nicht gut gespielt.	हमने अच्छा नहीं खेला।
-We didn't talk long.	Wir haben nicht lange gesprochen.	हमने लंबी बात नहीं की है।
-We dislike violence.	Wir können Gewalt nicht leiden.	हमें हिंसा पसंद नहीं है।
-We don't have a car.	Wir haben kein Auto.	हमारे पास कार नहीं है।
 We don't have a lab.	Wir haben kein Labor.	हमारे पास प्रयोगशाला नहीं है।
 We don't have sugar.	Wir haben keinen Zucker.	हमारे पास कोई चीनी नहीं है।
 We don't have to go.	Wir müssen nicht gehen.	हमें जाने की जरूरत नहीं है।
