@@ -27491,3 +27491,9 @@ Just go and ask Tom.	Geh einfach und frag Tom.	बस जाओ और टॉम
 Just go back to bed.	Geh einfach zurück ins Bett.	बस वापस बिस्तर पर जाओ।
 Just leave me alone.	Lass mich einfach allein.	मुझे अकेले छोड़ दो।
 Just leave me alone. - different meaning	Lass mich einfach in Ruhe.	मुझे बस छोड़ दो।
+Just tell the truth.	Sag einfach die Wahrheit.	बस सच बता दो।
+Keep an eye on them.	Halten Sie ein Auge auf sie.	उन पर ध्यान रखें।
+Keep away from that.	Halten Sie sich von dem fern.	उससे दूर रहें।
+Keep away from that. (different meaning)	Halten Sie Abstand davon.	उससे दूर रहें। (अलग मायने)
+Keep going straight.	Gehen Sie einfach geradeaus.	सीधे चलते रहिए।
+Keep going straight. (different meaning)	Mach weiter so.	ऐसे ही आगे बढ़ते रहें।
