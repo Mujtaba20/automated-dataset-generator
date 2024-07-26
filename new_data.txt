@@ -37477,3 +37477,13 @@ I have grave concerns.	Ich habe ernste Bedenken.	मेरे पास गं�
 I have homework to do.	Ich habe Hausaufgaben zu erledigen.	मुझे होमवर्क करना है।
 I have just come here.	Ich bin gerade hier angekommen.	मैं अभी यहाँ आया हूँ।
 I have life insurance.	Ich habe eine Lebensversicherung.	मेरे पास जीवन बीमा है।
+I have lost my camera.	Ich habe meine Kamera verloren.	मेरा कैमरा  खो गया है।
+I have lost my camera. (different meaning)	Ich habe meine Kamera verlegt.	मेरा कैमरा खो गया है। (विभिन्न अर्थ)
+I have lost my pencil.	Ich habe meinen Bleistift verloren.	मेरा पेंसिल खो गया है।
+I have met her before.	Ich habe sie schon einmal getroffen.	मैंने पहले ही उससे मिल लिया था।
+I have money problems.	Ich habe Geldprobleme.	मेरे पास पैसे की समस्या है।
+I have my own reasons.	Ich habe meine eigenen Gründe.	मेरे पास अपने कारण हैं।
+I have no backup plan.	Ich habe keinen Notfallplan.	मेरे पास कोई बैकअप प्लान नहीं है।
+I have no explanation.	Ich habe keine Erklärung.	मेरे पास कोई स्पष्टीकरण नहीं है।
+I have no money on me.	Ich habe kein Geld bei mir.	मेरे पास कोई पैसा नहीं है।
+I have no money today.	Ich habe heute kein Geld.	मेरे पास आज कोई पैसा नहीं है।

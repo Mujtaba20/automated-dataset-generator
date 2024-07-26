@@ -1,14 +1,4 @@
 
-I have lost my camera.	Ich habe meine Kamera verloren.	मैंने अपना कैमरा खो दिया।
-I have lost my camera.	Ich habe meinen Fotoapparat verloren.	मैंने अपना कैमरा खो दिया।
-I have lost my pencil.	Ich habe meinen Stift verloren.	मैंने अपनी कलम खो दी।
-I have met her before.	Ich habe sie schon mal getroffen.	मैं कभी उससे मिला हूं।
-I have money problems.	Ich habe Geldprobleme.	मुझे पैसे की समस्या है।
-I have my own reasons.	Ich habe meine eigenen Gründe.	मेरे अपने कारण हैं।
-I have no backup plan.	Ich habe keinen Ausweichplan.	मेरी कोई वैकल्पिक योजना नहीं है।
-I have no explanation.	Ich habe keine Erklärung.	मेरा कोई स्पष्टीकरण नहीं है।
-I have no money on me.	Ich habe kein Geld dabei.	मेरे पास कोई नकदी नहीं है।
-I have no money today.	Heute habe ich kein Geld.	आज मेरे पास कोई पैसा नहीं है।
 I have nothing to eat.	Ich habe nichts zu essen.	मेरे पास खाने के लिए कुछ नहीं है।
 I have nothing to say.	Ich habe nichts zu sagen.	कहने के लिये कुछ नहीं बचा।
 I have one in the car.	Ich habe eins im Auto.	मेरे पास कार में एक है।
