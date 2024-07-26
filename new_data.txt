@@ -21588,3 +21588,10 @@ I really should go.	Ich sollte wirklich gehen.	मुझे सच में ज
 I really want that.	Ich möchte das wirklich.	मुझे वास्तव में वह चाहिए।
 I really want this.	Ich möchte dies wirklich.	मुझे वास्तव में यह चाहिए।
 I recently met Tom.	Ich habe kürzlich Tom getroffen.	मैंने हाल ही में टॉम से मिला।
+I refuse to answer.	Ich weigere mich zu antworten.	मैं जवाब देने से इनकार करता हूँ।
+I refused at first.	Ich habe zuerst abgelehnt.	मैंने पहले से इनकार किया।
+I rode Tom's horse.	Ich ritt Toms Pferd.	मैंने टॉम के घोड़े पर सवारी की।
+I said I'll get it.	Ich sagte, ich werde es bekommen.	मैंने कहा मैं इसे लूंगा।
+I saved Tom's life.	Ich habe Toms Leben gerettet.	मैंने टॉम की जान बचाई।
+I saved you a seat.	Ich habe für dich einen Sitzplatz gespart.	मैंने तुम्हें एक सीट बचाई है।
+I saw Tom and Mary.	Ich habe Tom und Mary gesehen.	मैंने टॉम और मेरी को देखा।
