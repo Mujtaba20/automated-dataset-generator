@@ -31810,3 +31810,12 @@ I hope that's enough.	Ich hoffe, das ist genug.	मुझे आशा है �
 I hope you know that.	Ich hoffe, du weißt das.	मेरी आशा है कि तुम्हें पता है।
 I hope you're hungry.	Ich hoffe, du bist hungrig.	मेरी आशा है कि तुम भूखे हो।
 I hugged her tightly.	Ich umarmte sie fest.	मैंने उसे मजबूती से गले लगाया।
+I invited my friends.	Ich habe meine Freunde eingeladen.	मैंने अपने दोस्तों को बुलाया।
+I jumped up and down.	Ich sprang auf und ab.	मैं ऊपर और नीचे कूदा।
+I just need a minute.	Ich brauche nur eine Minute.	मुझे बस एक मिनट की जरुरत है।
+I just need a second.	Ich brauche nur eine Sekunde.	मुझे बस एक सेकंड की जरुरत है।
+I just talked to Tom.	Ich habe gerade mit Tom gesprochen.	मैंने अभी तक टॉम से बात की।
+I just took a shower.	Ich habe gerade geduscht.	मैंने अभी स्नान किया।
+I just turned thirty.	Ich bin gerade dreißig geworden.	मैंने अभी तीस के हो गए।
+I just want to dance.	Ich möchte nur tanzen.	मैं बस नाचना चाहता हूँ।
+I just want to sleep.	Ich möchte nur schlafen.	मैं सिर्फ सोना चाहता हूँ।
