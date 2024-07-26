@@ -35645,3 +35645,10 @@ Why did Tom buy that?	Warum hat Tom das gekauft?	वह वस्तु खर�
 Why did Tom hesitate?	Warum hat Tom gezögert?	टॉम ने क्यों हिचकिचाई?
 Why did Tom run away?	Warum ist Tom weggelaufen?	टॉम भाग क्यों गया?
 Why did you bring it?	Warum hast du es gebracht?	तुमने इसे क्यों लाया?
+Why did you buy this?	Warum hast du das gekauft?	तुमने यह क्यों खरीदा?
+Why did you go there?	Warum bist du dorthin gegangen?	तुम वहाँ क्यों गए थे?
+Why did you kill Tom?	Warum hast du Tom getötet?	तुमने टॉम को क्यों मारा?
+Why did you kiss Tom?	Warum hast du Tom geküsst?	तुमने टॉम को क्यों चूमा?
+Why did you buy this? (different meaning)	Warum kaufst du das?	तुम यह क्यों खरीद रहे हो?
+Why did you go there? (different meaning)	Warum gehst du dorthin?	तुम वहाँ क्यों जा रहे हो?
+Why did you kill Tom? (different meaning)	Warum wirst du Tom töten?	तुम टॉम को क्यों मारने वाले हो?

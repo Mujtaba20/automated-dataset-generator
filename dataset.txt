@@ -1,16 +1,4 @@
 
-Why did you buy this?	Warum hast du das gekauft?	आपने उसे क्यों खरीदा?
-Why did you buy this?	Warum habt ihr das gekauft?	आपने उसे क्यों खरीदा?
-Why did you buy this?	Warum haben Sie das gekauft?	आपने उसे क्यों खरीदा?
-Why did you go there?	Warum bist du dorthin gegangen?	आप वहां क्यों गए थे?
-Why did you go there?	Warum seid ihr dorthin gegangen?	आप वहां क्यों गए थे?
-Why did you go there?	Warum sind Sie dorthin gegangen?	आप वहां क्यों गए थे?
-Why did you kill Tom?	Warum hast du Tom umgebracht?	आपने टॉम को क्यों मारा?
-Why did you kill Tom?	Warum habt ihr Tom umgebracht?	आपने टॉम को क्यों मारा?
-Why did you kill Tom?	Warum haben Sie Tom umgebracht?	आपने टॉम को क्यों मारा?
-Why did you kiss Tom?	Warum hast du Tom geküsst?	तुम क्यों चुंबन टॉम?
-Why did you kiss Tom?	Warum haben Sie Tom geküsst?	तुम क्यों चुंबन टॉम?
-Why did you kiss Tom?	Warum habt ihr Tom geküsst?	तुम क्यों चुंबन टॉम?
 Why did you move out?	Warum bist du ausgezogen?	आपने क्यों उतार दिया?
 Why did you move out?	Warum seid ihr ausgezogen?	आप बाहर क्यों गए?
 Why did you move out?	Warum sind Sie ausgezogen?	आप बाहर क्यों गए?
