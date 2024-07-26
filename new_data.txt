@@ -34211,3 +34211,12 @@ Tom got into his car.	Tom stieg in sein Auto ein.	टॉम ने अपनी 
 Tom got into the car.	Tom stieg ins Auto ein.	टॉम ने कार में प्रवेश किया।
 Tom got into trouble.	Tom geriet in Schwierigkeiten.	टॉम मुश्किल में पड़ गया।
 Tom got off his bike.	Tom stieg von seinem Fahrrad ab.	टॉम ने अपनी साइकिल से उतर गया।
+Tom got on his horse.	Tom stieg auf sein Pferd.	टॉम अपने घोड़े पर चढ़ गया।
+Tom got on the train.	Tom stieg in den Zug.	टॉम ट्रेन में चढ़ गया।
+Tom got really angry.	Tom wurde wirklich wütend.	टॉम बहुत गुस्से में थे।
+Tom got really upset.	Tom war wirklich aufgebracht.	टॉम बहुत उदास थे।
+Tom got rich quickly.	Tom wurde schnell reich.	टॉम जल्दी से अमीर हो गया।
+Tom got stage fright.	Tom bekam Lampenfieber.	टॉम को स्टेज डर हुआ।
+Tom got straight A's.	Tom hat nur Einsen bekommen.	टॉम ने सीधा ए ग्रेड प्राप्त किये।
+Tom got very jittery.	Tom wurde sehr nervös.	टॉम बहुत अधीर हो गया।
+Tom got very nervous.	Tom wurde sehr nervös.	टॉम बहुत घबराया हुआ था।
