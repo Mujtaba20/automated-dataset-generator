@@ -1,14 +1,4 @@
 
-Who gave this to Tom?	Wer hat das Tom gegeben?	टॉम किसने दिया?
-Who gave this to you?	Wer hat dir das gegeben?	आपको किसने दिया?
-Who gave this to you?	Wer hat euch das gegeben?	आपको किसने दिया?
-Who gave this to you?	Wer hat Ihnen das gegeben?	उन्हें किसने दिया?
-Who invented karaoke?	Wer hat Karaoke erfunden?	कराओके का आविष्कार किसने किया?
-Who invited you guys?	Wer hat euch denn eingeladen?	आप को किसने बुलाया है?
-Who is already awake?	Wer ist schon wach?	कौन पहले से ही जाग रहा है?
-Who is that stranger?	Wer ist dieser Fremde?	यह अजनबी कौन है?
-Who is the boss here?	Wer ist der Chef hier?	यहाँ बॉस कौन है?
-Who is the secretary?	Wer ist der Sekretär?	सचिव कौन है?
 Who pays your salary?	Wer zahlt dir dein Gehalt?	आपको अपना वेतन कौन देगा?
 Who planted the tree?	Wer hat den Baum gepflanzt?	पेड़ को किसने लगाया?
 Who recommended that?	Wer hat das empfohlen?	किसने सिफारिश की है?

@@ -35575,3 +35575,13 @@ Who doesn't think so?	Wer denkt nicht so?	कौन ऐसा नहीं स�
 Who else is in there?	Wer ist noch da drin?	वहाँ कौन है?
 Who else was in here?	Wer war noch hier drin?	यहाँ कौन था?
 Who gave that to you?	Wer hat dir das gegeben?	तुम्हें ये किसने दिया?
+Who gave this to Tom?	Wer hat das Tom gegeben?	किसने इसे टॉम को दिया?
+Who gave this to you?	Wer hat dir das gegeben?	किसने तुम्हें ये दिया?
+Who gave this to you? (different meaning)	Wer hat das an dich gegeben?	किसने तुम्हे ये दिया?
+Who gave this to you? (different meaning 2)	Wer hat dies an Sie gegeben?	किसने यह आपको दिया?
+Who invented karaoke?	Wer hat das Karaoke erfunden?	कराओके का आविष्कार किसने किया?
+Who invited you guys?	Wer hat euch eingeladen?	तुम्हें किसने बुलाया?
+Who is already awake?	Wer ist schon wach?	कौन पहले से ही जाग रहा है?
+Who is that stranger?	Wer ist dieser Fremde?	वह अजनबी कौन है?
+Who is the boss here?	Wer ist hier der Chef?	यहां कौन बॉस है?
+Who is the secretary?	Wer ist der Sekretär?	सचिव कौन है?
