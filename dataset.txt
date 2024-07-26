@@ -1,16 +1,4 @@
 
-Does it even matter?	Spielt das überhaupt eine Rolle?	क्या यह एक भूमिका निभाता है?
-Does she play piano?	Spielt sie Klavier?	क्या वह पियानो बजाती है?
-Does that even work?	Funktioniert das überhaupt?	क्या वह भी काम करता है?
-Does that feel good?	Fühlt sich das gut an?	अच्छा लगा?
-Does that scare you?	Beängstigt dich das?	क्या वह डरावना है?
-Does your wife know?	Weiß deine Frau davon?	क्या आपकी पत्नी को इसके बारे में पता है?
-Does your wife know?	Weiß Ihre Frau davon?	क्या आपकी पत्नी को इसके बारे में पता है?
-Does your wife work?	Arbeitet Ihre Frau?	क्या आपकी पत्नी काम करती है?
-Doesn't anyone care?	Kümmert das niemanden?	क्या वह परवाह नहीं है?
-Don't act surprised.	Tu nicht so, als wenn du überrascht wärst.	यह दिखावा न करें कि आप आश्चर्यचकित थे।
-Don't act surprised.	Tun Sie nicht so, als wenn Sie überrascht wären.	यह दिखावा न करें कि अगर आप आश्चर्यचकित थे।
-Don't act surprised.	Tut nicht so, als wenn ihr überrascht wärt.	यह दिखावा न करें कि अगर आप आश्चर्यचकित थे।
 Don't ask for money.	Bitte nicht um Geld.	कृपया पैसे के लिए नहीं।
 Don't be a stranger.	Lass mal wieder von dir hören!	चलो आप से फिर से सुनते हैं!
 Don't be a stranger.	Lassen Sie mal wieder von sich hören!	अपने आप को फिर से सुना जाए!

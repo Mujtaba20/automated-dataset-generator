@@ -25393,3 +25393,12 @@ Does Tom make money?	Verdient Tom Geld?	क्या टॉम पैसे क�
 Does Tom understand?	Versteht Tom?	क्या टॉम समझता है?
 Does Tom want a car?	Möchte Tom ein Auto?	क्या टॉम को एक कार चाहिए?
 Does Tom wear boots?	Trägt Tom Stiefel?	क्या टॉम बूट पहनता है?
+Does it even matter?	Spielt es überhaupt eine Rolle?	क्या यह सच में मायने रखता है?
+Does she play piano?	Spielt sie Klavier?	क्या वह पियानो बजाती है?
+Does that even work?	Funktioniert das überhaupt?	क्या यह काम करता है?
+Does that feel good?	Fühlt sich das gut an?	क्या वह अच्छा लगता है?
+Does that scare you?	Erschreckt dich das?	क्या वह तुम्हें डराता है?
+Does your wife know?	Weiß deine Frau Bescheid?	क्या तुम्हारी पत्नी को पता है?
+Does your wife work?	Arbeitet deine Frau?	क्या तुम्हारी पत्नी काम करती है?
+Doesn't anyone care?	Kümmert sich niemand?	क्या किसी को परवाह नहीं है?
+Don't act surprised.	Tu nicht überrascht.	हैरान मत होना।
