@@ -30523,3 +30523,9 @@ Children need loving.	Kinder brauchen Liebe.	बच्चों को प्य
 Clean up the kitchen.	Räum die Küche auf.	रसोई साफ करो।
 Colds are contagious.	Erkältungen sind ansteckend.	ठंडी लगने वाली बीमारी संक्रामक होती है।
 Come and help me out.	Komm und hilf mir.	आकर मेरी मदद करो।
+Come and see me soon.	Komm und sieh mich bald.	जल्दी आकर मुझे देखो।
+Come and take a look.	Komm und schau mal.	आकर एक नज़र डालो।
+Come back in a month.	Komm in einem Monat zurück.	एक महीने में वापस आओ।
+Come back in an hour.	Komm in einer Stunde wieder.	एक घंटे में वापस आना।
+Come fishing with me.	Komm mit mir angeln.	मेरे साथ मछली पकड़ने चला आ।
+Come home before six.	Komm vor sechs Uhr nach Hause.	छे बजे से पहले घर आ जाओ।
