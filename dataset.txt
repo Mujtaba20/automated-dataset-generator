@@ -1,15 +1,4 @@
 
-No one is saying that.	Niemand sagt das.	ऐसा कोई नहीं कहता.
-No one is watching us.	Niemand beobachtet uns.	हमें कोई नहीं देख रहा है.
-No one knows anything.	Niemand weiß etwas.	कोई भी कुछ भी नहीं जानता।
-No one knows her name.	Niemand kennt ihren Namen.	कोई भी उनका नाम नहीं जानता।
-No one knows his name.	Niemand kennt seinen Namen.	कोई भी उसका नाम नहीं जानता।
-No one knows his name.	Niemand weiß, wie er heißt.	किसी को नहीं पता कि उसका नाम क्या है।
-No one listened to me.	Niemand hörte mir zu.	किसी ने मेरी बात नहीं सुनी।
-No one listened to me.	Niemand hörte auf mich.	किसी ने मेरी बात नहीं सुनी।
-No one loves you, Tom.	Niemand liebt dich, Tom.	कोई भी आपसे प्यार नहीं करता, टॉम।
-No one recognized you.	Niemand hat Sie wiedererkannt.	किसी ने उसे पहचान नहीं लिया।
-No one recognized you.	Niemand hat dich wiedererkannt.	किसी ने आपको पहचान नहीं लिया।
 No one speaks with me.	Keiner spricht mit mir.	कोई भी मुझसे बात नहीं करता।
 No one speaks with me.	Niemand spricht mit mir.	कोई भी मुझसे बात नहीं करता।
 No one understands me.	Niemand versteht mich.	मुझे कोई नहीं समझता है।
