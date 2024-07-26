@@ -1,14 +1,4 @@
 
-Did you just hit Tom?	Hast du gerade Tom geschlagen?	क्या आपने सिर्फ टॉम को मारा?
-Did you just hit Tom?	Habt ihr gerade Tom geschlagen?	क्या आपने सिर्फ टॉम को मारा?
-Did you just hit Tom?	Haben Sie gerade Tom geschlagen?	क्या आपने सिर्फ टॉम को मारा?
-Did you kiss anybody?	Hast du irgendjemanden geküsst?	क्या आप किसी को जानते थे?
-Did you say 13 or 30?	Hast du 13 gesagt oder 30?	क्या आपने 13 या 30 कहा?
-Did you see a doctor?	Warst du beim Arzt?	क्या आप डॉक्टर में थे?
-Did you see her face?	Hast du ihr Gesicht gesehen?	क्या आपने उसका चेहरा देखा?
-Did you see her face?	Haben Sie ihr Gesicht gesehen?	क्या आपने अपना चेहरा देखा?
-Did you see his face?	Hast du sein Gesicht gesehen?	क्या आपने उसका चेहरा देखा?
-Did you see his face?	Haben Sie sein Gesicht gesehen?	क्या आपने उसका चेहरा देखा?
 Did you speak at all?	Hast du überhaupt geredet?	क्या आपने बात की?
 Did you speak at all?	Habt ihr überhaupt geredet?	क्या आपने भी बात की?
 Did you speak at all?	Haben Sie überhaupt geredet?	क्या आपने बात की?

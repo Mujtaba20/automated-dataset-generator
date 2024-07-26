@@ -30584,3 +30584,13 @@ Did you eat too much? (Different meaning)	Hast du übermäßig gegessen?	क्�
 Did you feed the dog?	Hast du den Hund gefüttert?	क्या तुमने कुत्ते को खिलाया?
 Did you get up early?	Bist du früh aufgestanden?	क्या तुमने जल्दी उठाया था?
 Did you hear a knock?	Hast du ein Klopfen gehört?	क्या आपने एक खटखटाहट सुनी थी?
+engSentence1	Hast du gerade Tom geschlagen?	क्या आपने अभी टॉम को मारा है?
+engSentence2	Hast du Tom gerade getroffen?	क्या आपने अभी टॉम को मारा है?
+engSentence3	Haben Sie gerade Tom geschlagen?	क्या आपने अभी टॉम को मारा है?
+engSentence4	Hast du jemanden geküsst?	क्या तुमने किसी को चुमा?
+engSentence5	Hast du gesagt 13 oder 30?	क्या आपने 13 या 30 कहा था?
+engSentence6	Haben Sie einen Arzt aufgesucht?	क्या आपने डॉक्टर को देखा है?
+engSentence7	Hast du ihr Gesicht gesehen?	क्या आपने उसका चेहरा देखा है?
+engSentence8	Hast du ihr Gesicht gesehen?	क्या आपने उसका चेहरा देखा है?
+engSentence9	Hast du sein Gesicht gesehen?	क्या आपने उसका चेहरा देखा है?
+engSentence10	Hast du sein Gesicht gesehen?	क्या आपने उसका चेहरा देखा है?
