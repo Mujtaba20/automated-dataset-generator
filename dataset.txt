@@ -1,14 +1,4 @@
 
-Tom isn't my brother.	Tom ist nicht mein Bruder.	टॉम मेरा भाई नहीं है।
-Tom isn't my husband.	Tom ist nicht mein Mann.	टॉम मेरे पति नहीं हैं।
-Tom isn't my husband.	Tom ist nicht mein Ehemann.	टॉम मेरे पति नहीं हैं।
-Tom isn't my husband.	Tom ist nicht mein Ehegatte.	टॉम मेरा जीवनसाथी नहीं है।
-Tom isn't my husband.	Tom ist nicht mein Gatte.	टॉम मेरे पति नहीं हैं।
-Tom isn't my patient.	Tom ist nicht mein Patient.	टॉम मेरा मरीज नहीं है।
-Tom isn't my stepdad.	Tom ist nicht mein Stiefvater.	टॉम मेरे सौतेले पिता नहीं हैं।
-Tom isn't on the bus.	Tom ist nicht im Bus.	टॉम बस में नहीं है।
-Tom isn't photogenic.	Tom ist nicht fotogen.	टॉम फोटोजेनिक नहीं है।
-Tom isn't responding.	Tom antwortet nicht.	टॉम जवाब नहीं देता।
 Tom isn't saying why.	Tom sagt nicht, warum.	टॉम यह नहीं कहता कि क्यों।
 Tom isn't that crazy.	Tom ist nicht verrückt.	टॉम पागल नहीं है।
 Tom isn't that young.	Tom ist nicht jung.	टॉम युवा नहीं है।

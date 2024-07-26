@@ -34575,3 +34575,12 @@ Tom isn't doing that.	Tom macht das nicht.	टॉम वह नहीं कर 
 Tom isn't happy here.	Tom ist hier nicht glücklich.	टॉम यहाँ खुश नहीं है।
 Tom isn't helping me.	Tom hilft mir nicht.	टॉम मेरी मदद नहीं कर रहा है।
 Tom isn't mad at you.	Tom ist nicht erzürnt auf dich.	टॉम तुम पर नाराज नहीं है।
+Tom isn't my brother.	Tom ist nicht mein Bruder.	टॉम मेरा भाई नहीं है।
+Tom isn't my husband.	Tom ist nicht mein Ehemann.	टॉम मेरे पति नहीं है।
+Tom ist nicht mein Mann.	Tom ist nicht mein Mann.	टॉम मेरे पति नहीं है।
+Tom ist nicht mein Ehemann.	Tom ist nicht mein Ehemann.	टॉम मेरे पति नहीं है।
+Tom isn't my patient.	Tom ist nicht mein Patient.	टॉम मेरा मरीज नहीं है।
+Tom isn't my stepdad.	Tom ist nicht mein Stiefvater.	टॉम मेरे स्टेपपिताजी नहीं हैं।
+Tom isn't on the bus.	Tom ist nicht im Bus.	टॉम बस में नहीं है।
+Tom isn't photogenic.	Tom ist nicht fotogen.	टॉम फोटोजेनिक नहीं है।
+Tom isn't responding.	Tom antwortet nicht.	टॉम प्रतिक्रिया नहीं दे रहा है।
