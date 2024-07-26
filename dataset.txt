@@ -1,14 +1,4 @@
 
-I've removed the comma.	Ich habe das Komma entfernt.	मैंने अल्पविराम को हटा दिया।
-I've ruined everything.	Ich habe alles zunichte gemacht.	मैंने सब कुछ नष्ट कर दिया है।
-I've worn out my shoes.	Ich habe meine Schuhe ausgelatscht.	मैंने अपने जूते निकाल दिए।
-If he's busy, help him.	Hilf ihm, wenn er beschäftigt ist.	व्यस्त होने पर उसकी मदद करें।
-Invite anyone you want.	Lade ein, wen immer du willst.	जो भी आप चाहते हैं उसका उपयोग करें।
-Iron is a useful metal.	Eisen ist ein nützliches Metall.	आयरन एक उपयोगी धातु है।
-Is Tom finished eating?	Ist Tom fertig mit Essen?	क्या टॉम भोजन के साथ समाप्त हो गया है?
-Is Tom finished eating?	Ist Tom mit dem Essen fertig?	क्या टॉम भोजन के साथ तैयार है?
-Is Tom going somewhere?	Will Tom irgendwo hin?	क्या टॉम कहीं जाना चाहता है?
-Is Tom good at cooking?	Kann Tom gut kochen?	क्या टॉम अच्छी तरह से खाना बना सकता है?
 Is Tom good at driving?	Kann Tom gut Auto fahren?	क्या टॉम एक कार चला सकता है?
 Is Tom in the hospital?	Ist Tom im Krankenhaus?	क्या अस्पताल में टॉम है?
 Is Tom learning French?	Lernt Tom Französisch?	क्या टॉम फ्रेंच सीखता है?
