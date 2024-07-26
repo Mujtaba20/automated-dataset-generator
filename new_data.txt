@@ -25236,3 +25236,11 @@ Chew your food well.	Kauen Sie Ihr Essen gut.	अपना भोजन अच�
 Chivalry isn't dead.	Ritterlichkeit ist nicht tot.	साहस नहीं मरा हुआ है।
 Christmas is coming.	Weihnachten kommt.	क्रिसमस आ रहा है।
 Clear off the table.	Licht aus dem Tisch.	तालिका हटा दो।
+Clocks measure time.	Uhren messen Zeit.	घड़ी समय मापती है।
+Come again any time.	Kommen Sie jederzeit wieder.	किसी भी समय फिर से आइए।
+Come again tomorrow.	Kommen Sie morgen wieder.	कल फिर से आइए।
+Come at two o'clock.	Kommen Sie um zwei Uhr.	दो बजे आइए।
+Come back in a week.	Kommen Sie in einer Woche zurück.	एक हफ्ते में वापस आइए।
+Come sit next to me.	Komm setzen Sie sich neben mich.	मेरे पास आकर बैठिए।
+Competition is good.	Wettbewerb ist gut.	प्रतियोगिता अच्छी है।
+Contact me tomorrow.	Kontaktieren Sie mich morgen.	कल मुझसे संपर्क करें।
