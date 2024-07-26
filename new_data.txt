@@ -27796,3 +27796,10 @@ Please go to school.	Bitte geh zur Schule.	कृपया स्कूल ज�
 Please have a drink.	Bitte trink etwas.	कृपया कुछ पिएं।
 Please help me cook.	Bitte hilf mir beim Kochen.	कृपया मुझे पकाने में मदद करें।
 Please let me do it.	Bitte lass mich das tun.	कृपया मुझे यह करने दें।
+Please let me sleep.	Bitte lass mich schlafen.	कृपया मुझे सोने दो।
+Please listen to me.	Bitte höre mir zu.	कृपया मेरे सुनो।
+Please listen to us.	Bitte hören Sie uns zu.	कृपया हमारे सुनो।
+Please make the bed.	Bitte mach das Bett.	कृपया बिस्तर बनाना।
+Please speak French.	Bitte sprich Französisch.	कृपया फ्रेंच बोलें।
+Please speak slowly.	Bitte sprich langsam.	कृपया धीरे बोलें।
+Please speak French. - Different meaning	Bitte sprechen Sie leise Französisch.	कृपया फ्रेंच में आवाज ना करें।

@@ -1,15 +1,4 @@
 
-Please let me sleep.	Lass mich bitte schlafen!	कृपया मुझे सोने दें!
-Please listen to me.	Hör mich an, ich bitte dich.	मेरी बात सुनो, मैं तुमसे पूछता हूं।
-Please listen to me.	Bitte höre mir zu.	कृपया मेरी बात सुनें।
-Please listen to us.	Bitte hör uns zu.	कृपया हमारी बात सुनें।
-Please listen to us.	Bitte hört uns zu.	कृपया हमारी बात सुनें।
-Please make the bed.	Bitte mach dein Bett.	कृपया अपना बिस्तर करें।
-Please speak French.	Sprich bitte Französisch!	फ्रेंच कहो!
-Please speak French.	Sprecht bitte Französisch!	कृपया फ्रेंच बोलें!
-Please speak French.	Sprechen Sie bitte Französisch!	कृपया फ्रेंच बोलें!
-Please speak slowly.	Bitte sprich langsam!	धीरे - धीरे बात करें!
-Please speak slowly.	Bitte sprecht langsam!	धीरे - धीरे बात करें!
 Please stop singing.	Höre bitte auf zu singen!	कृपया गाना बंद करो!
 Please stop talking.	Hör bitte auf zu reden!	कृपया बात करना बंद करें!
 Please take me home.	Bitte bring mich nach Hause.	कृपया मुझे घर ले आओ।
