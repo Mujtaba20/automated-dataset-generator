@@ -1,14 +1,4 @@
 
-That's not an option.	Das kommt nicht in Frage.	बिलकुल नहीं।
-That's not an option.	Das ist keine Alternative.	यह कोई विकल्प नहीं है।
-That's not expensive.	Das ist nicht teuer.	यह महंगा नहीं है।
-That's not how it is.	So ist es nicht.	ऐसा नहीं है।
-That's not important.	Das ist nicht wichtig.	यह महत्वपूर्ण नहीं है।
-That's not necessary.	Das ist nicht nötig.	यह जरूरी नहीं है।
-That's not realistic.	Das ist nicht realistisch.	यह यथार्थवादी नहीं है।
-That's not the issue.	Darum geht es nicht.	यह नहीं है कि इसके बारे में क्या है।
-That's not up to you.	Das liegt nicht an dir.	यह आप पर निर्भर नहीं है।
-That's not very good.	Das ist nicht sehr gut.	यह बहुत अच्छा नहीं है।
 That's not very nice.	Das ist nicht sehr nett.	यह बहुत अच्छा नहीं है।
 That's pretty normal.	Das ist ganz normal.	यह पूरी तरह से सामान्य है।
 That's probably true.	Das ist wahrscheinlich wahr.	यह शायद सच है।
