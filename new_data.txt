@@ -24600,3 +24600,13 @@ When did it happen?	Wann ist das passiert?	यह कब हुआ?
 When did you begin?	Wann hast du angefangen?	तुमने कब शुरू किया?
 When did you leave?	Wann bist du gegangen?	तुम कब चले गए?
 When did you start?	Wann hast du angefangen?	तुमने कब शुरू किया?
+When do owls sleep?	Wann schlafen Eulen?	उल्लू कब सोते हैं?
+When do we want it?	Wann wollen wir es?	हम इसे कब चाहते हैं?
+When do you get up?	Wann stehst du auf?	तुम कब उठते हो?
+When do you use it?	Wann benutzt du es?	तुम इसे कब प्रयोग करते हो?
+When does it begin?	Wann beginnt es?	यह कब शुरू होता है?
+When is Tom coming?	Wann kommt Tom?	टॉम कब आ रहा है?
+When is school out?	Wann ist die Schule aus?	स्कूल कब खत्म हो जाता है?
+When may I go home?	Wann darf ich nach Hause gehen?	मैं कब घर जा सकता हूँ?
+When were you born?	Wann bist du geboren?	तुम कब पैदा हुए थे?
+When do we want it? - Repeated Meaning	Wann benötigen wir es?	हमें इसकी कब जरुरत है?
