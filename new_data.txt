@@ -32853,3 +32853,12 @@ It's a simple system.	Es ist ein einfaches System.	यह एक सरल प�
 It's a stupid policy.	Es ist eine dumme Politik.	यह एक मूर्ख नीति है।
 It's a thankless job.	Es ist eine undankbare Arbeit.	यह एक धन्यवाद रहित काम है।
 It's a waste of time.	Es ist eine Zeitverschwendung.	यह समय की बर्बादी है।
+It's about two miles.	Es sind ungefähr zwei Meilen.	यह लगभग दो मील के बारे में है।
+It's absolutely true.	Es ist absolut wahr.	यह पूरी तरह से सच है।
+It's all Greek to me.	Für mich ist das alles chinesisch.	यह मेरे लिए सब ग्रीक है।
+It's all in the room.	Es ist alles im Raum.	यह सब कमरे में है।
+It's all over for us.	Es ist für uns vorbei.	हमारे लिए सब खत्म हो गया है।
+It's all very simple.	Es ist alles sehr einfach.	यह सब बहुत सरल है।
+It's almost midnight.	Es ist fast Mitternacht.	यह लगभग आधी रात है।
+It's almost the same.	Es ist fast das Gleiche.	यह लगभग एक जैसा है।
+It's always the same.	Es ist immer dasselbe.	यह हमेशा वैसा ही होता है।
