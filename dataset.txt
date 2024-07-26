@@ -1,14 +1,4 @@
 
-I'm going upstairs.	Ich gehe nach oben.	मैं ऊपर जाता हूँ।
-I'm going with Tom.	Ich gehe mit Tom.	मैं टॉम के साथ जाता हूं।
-I'm good at skiing.	Ich kann gut Ski fahren.	मैं अच्छी तरह से स्की कर सकता हूं।
-I'm good at soccer.	Ich bin gut im Fußball.	मैं फुटबॉल में अच्छा हूं।
-I'm good at tennis.	Ich spiele gut Tennis.	मैं टेनिस अच्छा खेलता हूं।
-I'm happy to do it.	Das mach ich doch gerne.	यह मेरा सौभाग्य है।
-I'm having a blast.	Ich habe einen Mordsspaß.	मै आनन्दित हूँ।
-I'm here to listen.	Ich bin hier um zuzuhören.	मैं यहाँ सुनने के लिए हूँ।
-I'm here, aren't I?	Ich bin hier, oder?	मैं यहाँ हूँ, है ना?
-I'm holding a book.	Ich halte ein Buch.	मैं एक किताब पकड़ता हूं।
 I'm impressed, Tom.	Ich bin beeindruckt, Tom.	मैं प्रभावित हूं, टॉम।
 I'm in a good mood.	Ich bin gut gelaunt.	मैं एक अच्छे मूड मे हूं।
 I'm in a good mood.	Ich bin guter Laune.	मैं एक अच्छे मूड में हूँ।

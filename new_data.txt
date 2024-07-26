@@ -21956,3 +21956,13 @@ I'm going to be OK.	Es wird mir gut gehen.	मैं ठीक हो जाऊ�
 I'm going to do it.	Ich werde es tun.	मैं यह करने जा रहा हूँ।
 I'm going to start.	Ich werde anfangen.	मैं शुरू करने जा रहा हूँ।
 I'm going to study.	Ich werde lernen.	मैं पढ़ाई करने जा रहा हूँ।
+I'm going upstairs.	Ich gehe nach oben.	मैं ऊपर जा रहा हूँ।
+I'm going with Tom.	Ich gehe mit Tom.	मैं टॉम के साथ जा रहा हूँ।
+I'm good at skiing.	Ich bin gut im Skifahren.	मैं स्की में अच्छा हूँ।
+I'm good at soccer.	Ich bin gut im Fußball.	मैं फुटबॉल में अच्छा हूँ।
+I'm good at tennis.	Ich bin gut im Tennis.	मैं टेनिस में अच्छा हूँ।
+I'm happy to do it.	Ich freue mich darauf, es zu tun.	मुझे यह करके खुशी है।
+I'm having a blast.	Mir macht es viel Spaß.	मैं मज़े कर रहा हूँ।
+I'm here to listen.	Ich bin hier, um zuzuhören.	मैं सुनने के लिए यहाँ हूँ।
+I'm here, aren't I?	Ich bin hier, oder?	मैं यहाँ हूँ, ना?
+I'm holding a book.	Ich halte ein Buch.	मैं एक किताब पकड़ रहा हूँ।
