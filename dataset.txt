@@ -1,18 +1,4 @@
 
-Tom explained it to me.	Tom hat es mir erklärt.	टॉम ने मुझे समझाया।
-Tom explained it to me.	Tom erklärte es mir.	टॉम ने मुझे समझाया।
-Tom feels the same way.	Tom empfindet auch so.	टॉम भी ऐसा ही महसूस करता है।
-Tom fell from the tree.	Tom fiel vom Baum.	टॉम पेड़ से गिर गया।
-Tom fell into the pool.	Tom fiel in den Pool.	टॉम पूल में गिर गया।
-Tom fell into the pool.	Tom ist in den Pool gefallen.	टॉम पूल में गिर गया।
-Tom fell into the pool.	Tom fiel ins Schwimmbecken.	टॉम स्विमिंग पूल में गिर गया।
-Tom fell into the pool.	Tom ist ins Schwimmbecken gefallen.	टॉम स्विमिंग पूल में गिर गया।
-Tom fell off his chair.	Tom fiel vom Stuhl.	टॉम कुर्सी से गिर गया।
-Tom fell off his horse.	Tom fiel vom Pferd.	टॉम घोड़े से गिर गया।
-Tom fell off his horse.	Tom ist vom Pferd gefallen.	टॉम घोड़े से गिर गया।
-Tom fell off his horse.	Tom stürzte vom Pferd.	टॉम घोड़े से गिर गया।
-Tom fell off his horse.	Tom ist vom Pferd gestürzt.	टॉम घोड़े से गिर गया।
-Tom fell off his horse.	Tom ist von seinem Pferd gefallen.	टॉम अपने घोड़े से गिर गया।
 Tom felt uncomfortable.	Tom fühlte sich unbehaglich.	टॉम ने असहज महसूस किया।
 Tom flexed his muscles.	Tom ließ seine Muskeln spielen.	टॉम ने अपनी मांसपेशियों को निभाया था।
 Tom folded the blanket.	Tom legte die Decke zusammen.	टॉम ने छत को एक साथ रखा।
