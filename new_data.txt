@@ -31417,3 +31417,12 @@ I asked for a refund.	Ich habe um eine Rückerstattung gebeten.	मैंने 
 I asked him his name.	Ich fragte ihn nach seinem Namen.	मैंने उससे उसका नाम पूछा।
 I ate a lot of pizza.	Ich habe viel Pizza gegessen.	मैंने बहुत सारी पिज्जा खाई।
 I ate eggs yesterday.	Ich habe gestern Eier gegessen.	मैंने कल अंडे खाए।
+I ate fish yesterday.	Gestern habe ich Fisch gegessen.	कल मैंने मछली खाई।
+I ate lunch with Tom.	Ich habe mit Tom zu Mittag gegessen.	मैंने टॉम के साथ दोपहर का खाना खाया।
+I ate too much today.	Ich habe heute zu viel gegessen.	मैंने आज बहुत ज्यादा खाया।
+I awoke from a dream.	Ich bin aus einem Traum aufgewacht.	मैं सपने से जागा।
+I baked an apple pie.	Ich habe einen Apfelkuchen gebacken.	मैंने एक सेब का पाई बेक किया।
+I baked some cookies.	Ich habe einige Kekse gebacken.	मैंने कुछ कुकीज़ बेक की।
+I beg you to help me.	Ich bitte dich, mir zu helfen.	मैं आपसे याचना करता हूँ की मुझे मदद करें।
+I beg you to help us.	Ich bitte dich, uns zu helfen.	मैं आपसे याचना करता हूँ की हमें मदद करें।
+I begged Tom to stay.	Ich bat Tom zu bleiben.	मैंने टॉम से कहा की रुके रहें।

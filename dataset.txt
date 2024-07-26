@@ -1,14 +1,4 @@
 
-I ate fish yesterday.	Ich habe gestern Fisch gegessen.	मैंने कल मछली खाया।
-I ate lunch with Tom.	Ich habe mit Tom zusammen zu Mittag gegessen.	मैंने दोपहर के भोजन के लिए टॉम के साथ खाया।
-I ate too much today.	Ich habe heute zu viel gegessen.	मैंने आज बहुत ज्यादा खाया।
-I awoke from a dream.	Ich erwachte aus einem Traum.	मैं एक सपने से जाग गया।
-I baked an apple pie.	Ich habe einen Apfelkuchen gebacken.	मैंने एक सेब पाई बेक किया।
-I baked some cookies.	Ich habe Kekse gebacken.	मैंने कुकीज़ पके हुए।
-I beg you to help me.	Ich flehe dich an, mir zu helfen.	मैंने आपको खुद की मदद करने के लिए चोट पहुंचाई।
-I beg you to help me.	Ich bitte dich, mir zu helfen.	मैं आपसे मेरी मदद करने के लिए कहता हूं।
-I beg you to help us.	Ich bitte dich, uns zu helfen.	मैं आपको हमारी मदद करने के लिए कहता हूं।
-I begged Tom to stay.	Ich bat Tom inständig dazubleiben.	मैंने टॉम से पूछा।
 I bet this will work.	Ich wette, dies funktioniert.	मुझे यकीन है कि यह काम करता है।
 I borrowed Tom's car.	Ich habe mir Toms Auto geliehen.	मैंने टॉम की कार उधार ली।
 I bought a newspaper.	Ich habe eine Zeitung gekauft.	मैंने एक अखबार खरीदा।
