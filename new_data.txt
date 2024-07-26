@@ -25331,3 +25331,9 @@ Do you have a cough?	Hast du Husten?	क्या आपको खांसी �
 Do you have a fever?	Hast du Fieber?	क्या आपको बुखार है?
 Do you have a house?	Hast du ein Haus?	क्या आपके पास एक घर है?
 Do you have a knife?	Hast du ein Messer?	क्या आपके पास एक चाकू है?
+Do you have a match?	Haben Sie ein Streichholz?	क्या आपके पास मिलान है?
+Do you have a motto?	Hast du ein Motto?	क्या आपके पास कोई पंजा है?
+Do you have a phone?	Hast du ein Handy?	क्या आपके पास मोबाइल है?
+Do you have a table?	Hast du einen Tisch?	क्या आपके पास एक मेज़ है?
+Do you have any CDs?	Haben Sie CDs?	क्या आपके पास कोई सीडी हैं?
+Do you have any gum?	Hast du Kaugummi?	क्या आपके पास कोई गम है?

@@ -1,16 +1,4 @@
 
-Do you have a match?	Hast du ein Streichholz?	क्या आपका मैच है?
-Do you have a match?	Hast du eine Übereinstimmung?	क्या आपके पास कोई समझौता है?
-Do you have a motto?	Hast du ein Motto?	क्या आपके पास एक आदर्श वाक्य है?
-Do you have a phone?	Haben Sie ein Telefon?	क्या आप के पास फोन है?
-Do you have a phone?	Hast du ein Telefon?	क्या आप के पास फोन है?
-Do you have a phone?	Habt ihr ein Telefon?	क्या आप के पास फोन है?
-Do you have a table?	Hast du einen Tisch?	क्या आपके पास एक टेबल है?
-Do you have any CDs?	Haben Sie Kompaktdisks?	क्या आपके पास कॉम्पैक्ट डिस्क हैं?
-Do you have any CDs?	Haben Sie CDs?	क्या आपके पास सीडी है?
-Do you have any gum?	Hast du Kaugummis?	क्या आपके पास च्यूइंग गम है
-Do you have any gum?	Habt ihr Kaugummis?	क्या आपके पास च्यूइंग गम है?
-Do you have any gum?	Haben Sie Kaugummis?	क्या आपके पास च्यूइंग गम है?
 Do you have my book?	Hast du mein Buch?	क्या आपके पास मेरी किताब है?
 Do you keep a diary?	Führst du ein Tagebuch?	क्या आप एक डायरी करते हैं?
 Do you know the way?	Kennst du den Weg?	क्या आप रास्ता जानते हैं?
