@@ -29940,3 +29940,8 @@ Where's my umbrella?	Wo ist mein Regenschirm?	मेरा छाता कह�
 Where's the library?	Wo ist die Bibliothek?	लाइब्रेरी कहाँ है?
 Where's the teacher?	Wo ist der Lehrer?	शिक्षक कहाँ है?
 Where's your family?	Wo ist deine Familie?	तुम्हारा परिवार कहाँ है?
+Where's your friend?	Wo ist dein Freund?	तुम्हारे दोस्त कहाँ हैं?
+Where's your mother?	Wo ist deine Mutter?	तुम्हारी माँ कहाँ है?
+Where's your school?	Wo ist deine Schule?	तुम्हारी स्कूल कहाँ है?
+Where's your sister?	Wo ist deine Schwester?	तुम्हारी बहन कहाँ है?
+Where's your weapon?	Wo ist deine Waffe?	तुम्हारा हथियार कहाँ है?

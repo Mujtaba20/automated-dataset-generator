@@ -1,16 +1,4 @@
 
-Where's your friend?	Wo ist dein Freund?	आपके दोस्त कहां हैं?
-Where's your friend?	Wo ist deine Freundin?	तुम्हारी मित्र कहां है?
-Where's your mother?	Wo ist deine Mutter?	आपकी मां कहां है?
-Where's your school?	Wo ist deine Schule?	तुम्हारा विद्यालय कहाँ है?
-Where's your school?	Wo ist eure Schule?	तुम्हारा विद्यालय कहाँ है?
-Where's your school?	Wo ist Ihre Schule?	तुम्हारा विद्यालय कहाँ है?
-Where's your sister?	Wo ist deine Schwester?	तुम्हारी बहन कहाँ है?
-Where's your sister?	Wo ist eure Schwester?	तुम्हारी बहन कहाँ है?
-Where's your sister?	Wo ist Ihre Schwester?	तुम्हारी बहन कहाँ है?
-Where's your weapon?	Wo ist deine Waffe?	आपका हथियार कहाँ है?
-Where's your weapon?	Wo ist Ihre Waffe?	आपका हथियार कहाँ है?
-Where's your weapon?	Wo ist eure Waffe?	आपका हथियार कहाँ है?
 Which beer is yours?	Welches ist dein Bier?	आपकी बीयर क्या है?
 Which beer is yours?	Welches ist Ihr Bier?	आपकी बीयर क्या है?
 Which book is yours?	Welches Buch ist deins?	आपकी कौन सी किताब है?
