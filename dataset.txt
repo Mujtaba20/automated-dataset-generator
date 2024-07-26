@@ -1,14 +1,4 @@
 
-Was anybody killed?	Wurde jemand getötet?	क्या किसी को मार दिया गया था?
-Was her story true?	War ihre Geschichte wahr?	क्या उसकी कहानी सच थी?
-Was his story true?	War seine Geschichte wahr?	क्या उनकी कहानी सच थी?
-Was it an accident?	War es ein Unfall?	क्या यह एक दुर्घटना थी?
-Was it interesting?	War es interessant?	यह दिलचस्प था?
-Was that fun to do?	Hat das Spaß gemacht?	क्या यह मज़ा आया?
-Was that your plan?	War das dein Plan?	क्या वह आपकी योजना थी?
-Was that your plan?	War das Ihr Plan?	क्या वह आपकी योजना थी?
-Was that your plan?	War das euer Plan?	क्या वह आपकी योजना थी?
-Was the movie good?	War der Film gut?	क्या फिल्म अच्छी थी?
 Was the soup tasty?	Hat die Suppe geschmeckt?	क्या सूप का स्वाद?
 Wasn't that enough?	War das nicht genug?	क्या यह पर्याप्त नहीं था?
 Wasn't that enough?	Hat das nicht gereicht?	क्या यह पर्याप्त नहीं था?

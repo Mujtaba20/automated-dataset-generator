@@ -24214,3 +24214,11 @@ Wait just a second.	Warte nur eine Sekunde.	बस एक सेकंड रु
 War affects us all.	Krieg betrifft uns alle.	युद्ध हम सभी पर प्रभाव डालता है।
 Was I seen leaving?	Wurde ich beim Gehen gesehen?	क्या मुझे जाते हुए देखा गया था?
 Was Tom here today?	War Tom heute hier?	क्या आज टॉम यहाँ था?
+Was anybody killed?	Wurde jemand getötet?	क्या किसी को मार दिया गया था?
+Was her story true?	War ihre Geschichte wahr?	क्या उसकी कहानी सच थी?
+Was his story true?	War seine Geschichte wahr?	क्या उसकी कहानी सच थी?
+Was it an accident?	War es ein Unfall?	क्या यह एक दुर्घटना थी?
+Was it interesting?	War es interessant?	क्या यह दिलचस्प था?
+Was that fun to do?	Hat es Spaß gemacht?	क्या यह करने में मजा आया?
+Was that your plan?	War das dein Plan?	क्या यह तुम्हारा योजना था?
+Was the movie good?	War der Film gut?	क्या फिल्म अच्छी थी?
