@@ -36502,3 +36502,7 @@ Don't call me anymore.	Ruf mich nicht mehr an.	मुझे और नहीं 
 Don't call the police.	Rufe nicht die Polizei an.	पुलिस को मत बुलाओ।
 Don't close your eyes.	Schließe deine Augen nicht.	अपनी आँखें मत बंद करो।
 Don't come any closer.	Kommen Sie nicht näher.	आगे मत आना।
+Don't copy my answers.	Kopiere nicht meine Antworten.	मेरे जवाब न कॉपी करें।
+Don't delude yourself.	Täusche dich nicht.	खुद को भ्रमित मत करो।
+Don't do anything yet.	Mach noch nichts.	अभी कुछ ना करें।
+Don't do that anymore.	Tu das nicht weiterhin.	इसे और नहीं करो।
