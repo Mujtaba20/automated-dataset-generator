@@ -28386,3 +28386,13 @@ They're normal kids.	Sie sind normale Kinder.	वे सामान्य ब�
 They're not farmers.	Sie sind keine Bauern.	वे किसान नहीं हैं।
 They're not like us.	Sie sind nicht wie wir.	वे हमारे जैसे नहीं हैं।
 They're not looking.	Sie schauen nicht.	वे नहीं देख रहे हैं।
+They're not talking.	Sie sprechen nicht.	वे बात नहीं कर रहे हैं।
+They're our friends.	Sie sind unsere Freunde.	वे हमारे दोस्त हैं।
+They're pretty good.	Sie sind ziemlich gut.	वे बहुत अच्छे हैं।
+They're pretty loud.	Sie sind ziemlich laut.	वे काफी शोर मचाते हैं।
+They're proud of me.	Sie sind stolz auf mich.	वे मुझ पर गर्वित हैं।
+They're really good.	Sie sind wirklich gut.	वे वास्तव में अच्छे हैं।
+They're really ugly.	Sie sind wirklich hässlich.	वे वास्तव में बदसूरत हैं।
+They're still young.	Sie sind immer noch jung.	वे अभी भी जवान हैं।
+They're there alone.	Sie sind alleine dort.	वे वहाँ अकेले हैं।
+They're vegetarians.	Sie sind Vegetarier.	वे शाकाहारी हैं।

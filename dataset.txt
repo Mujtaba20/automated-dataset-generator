@@ -1,14 +1,4 @@
 
-They're not talking.	Sie sprechen nicht.	आप बोलते नहीं हैं।
-They're our friends.	Das sind unsere Freunde.	ये हमारे दोस्त हैं।
-They're pretty good.	Sie sind ziemlich gut.	तुम बहुत अच्छे हो।
-They're pretty loud.	Sie sind ziemlich laut.	आप बहुत जोर से हैं।
-They're proud of me.	Sie sind stolz auf mich.	आपको मुझ पर गर्व है।
-They're really good.	Sie sind wirklich brav.	तुम सचमुच अच्छे हो।
-They're really ugly.	Sie sind wirklich hässlich.	आप वास्तव में बदसूरत हैं।
-They're still young.	Sie sind noch jung.	तुम अब भी जवान हो।
-They're there alone.	Sie sind allein dort.	आप अकेले हैं।
-They're vegetarians.	Das sind Vegetarier.	ये शाकाहारी हैं।
 They're watching me.	Sie beobachten mich.	वे मुझे देखते हैं।
 They're watching me.	Die beobachten mich.	वे मुझे देखते हैं।
 They've forgiven me.	Sie haben mir verziehen.	तुमने मुझे माफ़ किया।
