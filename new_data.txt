@@ -28065,3 +28065,13 @@ That was depressing.	Das war deprimierend.	वह निराशाजनक �
 That was disgusting.	Das war ekelhaft.	वह घिनौना था।
 That was impressive.	Das war beeindruckend.	वह प्रभावशाली था।
 engSentence		
+That won't help you.	Das wird dir nicht helfen.	यह आपकी मदद नहीं करेगा।
+That would be a lie.	Das wäre eine Lüge.	यह झूठ होगा।
+That would be funny.	Das wäre lustig.	यह मजेदार होगा।
+That would be great.	Das wäre großartig.	यह शानदार होगा।
+That would be lying.	Das würde lügen.	यह झूठ बोल रहा होता।
+That would be smart.	Das wäre klug.	यह स्मार्ट होगा।
+That'd be dangerous.	Das wäre gefährlich.	यह खतरनाक होगा।
+That'll be possible.	Das wird möglich sein.	यह संभव होगा।
+That's Tom's family.	Das ist Toms Familie.	यह टॉम का परिवार है।
+That's Tom's father.	Das ist Toms Vater.	यह टॉम के पिता है।

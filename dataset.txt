@@ -1,14 +1,4 @@
 
-That won't help you.	Das wird dir nicht helfen.	यह आपकी मदद नहीं करेगा।
-That would be a lie.	Das wäre gelogen.	वह झूठ बोला जाएगा।
-That would be funny.	Das wäre lustig.	यह मज़ेदार होगा।
-That would be great.	Das wäre toll.	वह महान होगा।
-That would be lying.	Das wäre eine Lüge.	यह एक झूठ होगा।
-That would be smart.	Das wäre schlau.	यह स्मार्ट होगा।
-That'd be dangerous.	Das wäre gefährlich.	यह खतरनाक होगा।
-That'll be possible.	Das wird möglich sein.	यह संभव होगा।
-That's Tom's family.	Das ist Toms Familie.	यह टॉम का परिवार है।
-That's Tom's father.	Das ist Toms Vater.	यह टॉम का पिता है।
 That's Tom's mother.	Das ist Toms Mutter.	यह टॉम की मां है।
 That's Tom's office.	Das ist Toms Büro.	यह टॉम का कार्यालय है।
 That's Tom's sister.	Das ist Toms Schwester.	यह टॉम की बहन है।
