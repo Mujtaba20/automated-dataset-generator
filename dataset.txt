@@ -1,14 +1,4 @@
 
-You must study more.	Du musst mehr lernen.	आपको और सीखना चाहिए।
-You must try harder.	Du musst dir mehr Mühe geben.	आपको और अधिक प्रयास करना होगा।
-You must try harder.	Du musst dir größere Mühe geben.	आपको अधिक प्रयास करना होगा।
-You need a joystick.	Du brauchst einen Spielhebel.	आपको एक गेम लीवर की जरूरत है।
-You need a joystick.	Du brauchst einen Joystick.	आपको एक जॉयस्टिक चाहिए।
-You need a joystick.	Sie brauchen einen Joystick.	आपको एक जॉयस्टिक चाहिए।
-You need a joystick.	Ihr braucht einen Joystick.	आपको एक जॉयस्टिक चाहिए।
-You need a vacation.	Du brauchst Urlaub.	आपको छुट्टी चाहिए।
-You need a vacation.	Ihr braucht Urlaub.	आपको छुट्टी चाहिए।
-You need a vacation.	Sie benötigen Urlaub.	आपको छुट्टी चाहिए।
 You need to grow up.	Werde erwachsen!	बड़े हो जाओ!
 You need to help me.	Du musst mir helfen.	तुम्हें मेरी मदद करनी पड़ेगी।
 You need to help me.	Sie müssen mir helfen.	तुम्हें मेरी मदद करनी पड़ेगी।

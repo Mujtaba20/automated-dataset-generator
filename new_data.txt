@@ -30219,3 +30219,7 @@ You must study hard.	Du musst fleißig lernen.	तुम्हें मेह�
 You must study hard. 	Du musst hart studieren.	तुम्हें मेहनती से पढ़ाई करनी चाहिए।
 You must go at once. 	Du musst sofort gehen.	तुम्हें तुरंत जाना चाहिए।
 You must stay awake. 	Du musst wach bleiben.	तुम्हें जाग्रत रहना चाहिए।
+You must study more.	Du musst mehr lernen.	आपको और अधिक पढ़ना है।
+You must try harder.	Du musst dich mehr anstrengen.	आपको और मेहनत करनी चाहिए।
+You need a joystick.	Du brauchst einen Joystick.	आपको एक जॉयस्टिक की आवश्यकता है।
+You need a vacation.	Du brauchst Urlaub.	आपको छुट्टी की आवश्यकता है।
