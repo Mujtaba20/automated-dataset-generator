@@ -1,14 +1,4 @@
 
-It's a present for you.	Das ist ein Geschenk für dich.	यह आपके लिए उपहार है।
-It's a present for you.	Es ist ein Geschenk für dich.	यह आपके लिए एक उपहार है।
-It's a secret, I guess.	Das ist wohl ein Geheimnis.	यह शायद एक रहस्य है।
-It's a simple question.	Das ist eine einfache Frage.	यह एक सरल प्रश्न है।
-It's a very quiet room.	Es ist ein sehr ruhiges Zimmer.	यह एक बहुत ही शांत कमरा है।
-It's a very tiring job.	Das ist eine sehr ermüdende Arbeit.	यह बहुत थका देने वाला काम है।
-It's a worrying matter.	Es ist eine beunruhigende Angelegenheit.	यह एक चिंताजनक मामला है।
-It's a worrying matter.	Es ist eine Besorgnis erregende Sache.	यह एक चिंता का विषय है।
-It's a worrying matter.	Das ist eine besorgniserregende Angelegenheit.	यह एक चिंताजनक मामला है।
-It's about three miles.	Es sind ungefähr drei Meilen.	लगभग तीन मील हैं।
 It's across the street.	Es ist auf der anderen Straßenseite.	यह सड़क के दूसरी तरफ है।
 It's against my morals.	Das kann ich moralisch nicht mit mir vereinbaren.	मैं उस नैतिक रूप से खुद से सहमत नहीं कर सकता।
 It's against my morals.	Das verstößt gegen meine Moral.	यह मेरी नैतिकता का उल्लंघन करता है।
