@@ -32022,3 +32022,11 @@ I never said goodbye.	Ich habe nie auf Wiedersehen gesagt.	मैंने क�
 I never speak French.	Ich spreche nie Französisch.	मैं कभी फ्रेंच नहीं बोलता।
 I never travel alone.	Ich reise nie alleine.	मैं कभी अकेले नहीं यात्रा करता।
 I never trusted them.	Ich habe ihnen nie vertraut.	मैंने कभी उनपर भरोसा नहीं किया।
+I never wrote to Tom.	Ich habe nie an Tom geschrieben.	मैंने कभी भी टॉम को लिखा नहीं।
+I no longer like you.	Ich mag dich nicht mehr.	मुझे अब तुम्हारी पसंद नहीं है।
+I no longer love him.	Ich liebe ihn nicht mehr.	मैं अब उसे प्यार नहीं करता।
+I no longer love you.	Ich liebe dich nicht mehr.	मैं अब तुमसे प्यार नहीं करता।
+I now know the truth.	Ich kenne jetzt die Wahrheit.	मुझे अब सच्चाई पता चली है।
+I offered Tom a ride.	Ich habe Tom eine Mitfahrgelegenheit angeboten.	मैंने टॉम को सवारी की पेशकश की।
+I often see Tom here.	Ich sehe Tom hier oft.	मैं यहाँ अक्सर टॉम को देखता हूँ।
+I often see you here.	Ich sehe dich hier oft.	मैं यहाँ अक्सर तुम्हें देखता हूँ।
