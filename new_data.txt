@@ -33725,3 +33725,11 @@ The tumor was benign.	Der Tumor war gutartig.	ट्यूमर नरम थ�
 The water isn't cold.	Das Wasser ist nicht kalt.	पानी ठंडा नहीं है।
 The water pipe burst.	Das Wasserrohr ist geplatzt.	पानी का पाइप फट गया।
 The wind calmed down.	Der Wind hat sich gelegt.	हवा शांत हो गई।
+The wind is shifting.	Der Wind dreht sich.	हवा बदल रही है।
+The wind was howling.	Der Wind heulte.	हवा चिल्लाई जा रही थी।
+The window is closed.	Das Fenster ist geschlossen.	खिड़की बंद है।
+The window is filthy.	Das Fenster ist schmutzig.	खिड़की गंदी है।
+The windows are open.	Die Fenster sind geöffnet.	खिड़कियाँ खुली हैं।
+The woman is reading.	Die Frau liest.	महिला पढ़ रही है।
+The wound is healing.	Die Wunde heilt.	जख्म भर रहा है।
+Their cakes are good.	Ihre Kuchen sind gut.	उनकी केक अच्छे हैं।

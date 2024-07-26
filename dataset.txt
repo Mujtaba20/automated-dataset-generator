@@ -1,14 +1,4 @@
 
-The wind is shifting.	Der Wind dreht sich.	हवा बदल जाती है।
-The wind was howling.	Der Wind heulte.	हवा भटकता है।
-The window is closed.	Das Fenster ist zu.	खिड़की बंद है।
-The window is filthy.	Das Fenster ist verdreckt.	खिड़की गंदी है।
-The windows are open.	Die Fenster stehen offen.	खिड़कियां खुली हैं।
-The woman is reading.	Die Frau liest.	महिला पढ़ती है।
-The woman is reading.	Die Frau liest gerade.	महिला पढ़ रही है।
-The wound is healing.	Die Wunde verheilt.	घाव ठीक हो गया।
-The wound is healing.	Die Wunde heilt.	घाव ठीक हो जाता है।
-Their cakes are good.	Ihre Kuchen sind gut.	आपके केक अच्छे हैं।
 There are books here.	Hier sind Bücher.	यहाँ किताबें हैं।
 There are books here.	Hier gibt es Bücher.	यहां किताबें हैं।
 There are challenges.	Es gibt Herausforderungen.	चुनौतियां हैं।
