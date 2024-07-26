@@ -35231,3 +35231,11 @@ We really have to go.	Wir müssen wirklich gehen.	हमें सच्ची �
 We regret doing that.	Wir bereuen das zu tun.	हमें उसे करने का पछतावा है।
 We require your help.	Wir benötigen deine Hilfe.	हमें तुम्हारी मदद चाहिए।
 We regret doing that.1	Wir bedauern, das getan zu haben.	हमें उसे करने पर खेद है।
+We sang as we walked.	Wir sangen, als wir gingen.	हमने चलते हुए गाया।
+We sang while hiking.	Wir sangen beim Wandern.	हमने हाइकिंग करते हुए गाया।
+We saw the car start.	Wir sahen, wie das Auto gestartet ist.	हमने गाड़ी को चालू होते देखा।
+We see with our eyes.	Wir sehen mit unseren Augen.	हम अपनी आंखों से देखते हैं।
+We sell orange juice.	Wir verkaufen Orangensaft.	हम संतरे का रस बेचते हैं।
+We should set a trap.	Wir sollten eine Falle stellen.	हमें झपट करना चाहिए।
+We should try harder.	Wir sollten härter versuchen.	हमें कठिन प्रयास करना चाहिए।
+We shouldn't've come.	Wir hätten nicht kommen sollen.	हमें नहीं आना चाहिए था।
