@@ -1,14 +1,4 @@
 
-My teeth are white.	Meine Zähne sind weiß.	मेरे दांत सफेद हैं।
-My teeth are white.	Ich habe weiße Zähne.	मेरे सफेद दांत हैं।
-My turn comes next.	Ich bin als Nächster an der Reihe.	यह अगली बात है।
-My watch is broken.	Meine Uhr ist defekt.	मेरी घड़ी दोषपूर्ण है।
-My watch says 2:30.	Auf meiner Uhr ist's halb drei.	यह मेरी घड़ी पर आधा है।
-My wife cooks well.	Meine Frau kocht gut.	मेरी पत्नी अच्छी तरह से खाना बनाती है।
-My wife hates cats.	Meine Frau hasst Katzen.	मेरी पत्नी को बिल्लियों से नफरत है।
-My wife is cooking.	Meine Frau kocht gerade.	मेरी पत्नी सिर्फ खाना बना रही है।
-My wife loves cats.	Meine Frau liebt Katzen.	मेरी पत्नी बिल्लियों से प्यार करती है।
-My wife's pregnant.	Meine Frau ist schwanger.	मेरी बीवी पेट से है।
 My window was open.	Mein Fenster stand offen.	मेरी खिड़की खुली थी।
 Need anything else?	Darf es noch etwas sein?	और कुछ?
 Never ever give up.	Gib niemals auf!	कभी हार न मानना!

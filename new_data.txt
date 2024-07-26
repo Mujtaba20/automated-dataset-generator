@@ -22549,3 +22549,12 @@ My shoes are brown.	Meine Schuhe sind braun.	मेरे जूते भूर
 My socks are dirty.	Meine Socken sind schmutzig.	मेरे जूते गंदे हैं।
 My stomach growled.	Mein Magen knurrte.	मेरे पेट में गुर्राहट हुई।
 My stomach is full.	Mein Magen ist voll.	मेरा पेट भर गया है।
+My teeth are white.	Meine Zähne sind weiß.	मेरे दाँत सफेद हैं।
+My turn comes next.	Meine Reihe kommt als nächstes.	मेरी बारी अगली है।
+My watch is broken.	Meine Uhr ist kaputt.	मेरी घड़ी टूट गई है।
+My watch says 2:30.	Meine Uhr zeigt 2:30 an.	मेरी घड़ी 2:30 बज रही है।
+My wife cooks well.	Meine Frau kocht gut.	मेरी पत्नी अच्छा खाना बनाती है।
+My wife hates cats.	Meine Frau hasst Katzen.	मेरी पत्नी बिल्लियों से नफरत करती है।
+My wife is cooking.	Meine Frau kocht.	मेरी पत्नी पका रही है।
+My wife loves cats.	Meine Frau liebt Katzen.	मेरी पत्नी बिल्लियों से प्यार करती है।
+My wife's pregnant.	Meine Frau ist schwanger.	मेरी पत्नी गर्भवती है।
