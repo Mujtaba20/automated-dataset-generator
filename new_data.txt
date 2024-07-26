@@ -39689,3 +39689,12 @@ They're in the garden.	Sie sind im Garten.	वे बगीचे में ह�
 They're in the shower.	Sie sind in der Dusche.	वे शावर में हैं।
 They're just students.	Sie sind nur Studenten.	वे बस छात्र हैं।
 They're my classmates.	Sie sind meine Klassenkameraden.	वे मेरे सहपाठी हैं।
+They're not criminals.	Sie sind keine Verbrecher.	वे अपराधी नहीं हैं।
+They're playing cards.	Sie spielen Karten.	उन्होंने कार्ड्स खेलना शुरू किया है।
+They're still stunned.	Sie sind immer noch fasziniert.	वे अब भी हैरान हैं।
+They're too dangerous.	Sie sind zu gefährlich.	वे बहुत खतरनाक हैं।
+They're unpredictable.	Sie sind unvorhersehbar.	वे अप्रत्याशित हैं।
+They're up to no good.	Sie haben nichts Gutes vor.	वे कोई अच्छा काम नहीं कर रहे हैं।
+They've been arrested.	Sie wurden verhaftet.	उन्हें गिरफ्तार कर लिया गया है।
+They've changed a lot.	Sie haben sich sehr verändert.	उन्होंने बहुत बदल लिया है।
+They've still got Tom.	Sie haben immer noch Tom.	उनके पास अभी भी टॉम है।

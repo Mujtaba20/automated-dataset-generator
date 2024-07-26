@@ -1,15 +1,4 @@
 
-They're not criminals.	Das sind keine Kriminellen.	ये अपराधी नहीं हैं।
-They're playing cards.	Das sind Spielkarten.	ये ताश खेल रहे हैं।
-They're playing cards.	Sie spielen Karten.	वे ताश खेल रहे हैं।
-They're still stunned.	Sie sind immer noch fassungslos.	वे अभी भी स्तब्ध हैं।
-They're too dangerous.	Sie sind zu gefährlich.	वे बहुत खतरनाक हैं।
-They're unpredictable.	Sie sind unvorhersehbar.	आप अप्रत्याशित हैं।
-They're up to no good.	Sie führen nichts Gutes im Schilde.	वे कुछ भी अच्छा नहीं करते हैं।
-They've been arrested.	Sie sind verhaftet worden.	आपको गिरफ्तार कर लिया गया है।
-They've changed a lot.	Sie haben sich sehr verändert.	तुम बहुत बदल गए हो।
-They've still got Tom.	Sie haben immer noch Tom.	आपके पास अभी भी टॉम है।
-They've still got Tom.	Ihnen bleibt immer noch Tom.	उनके पास अभी भी टॉम है।
 Think before you leap.	Erst denken, dann lenken.	पहले सोचो, फिर स्टीयर।
 Think of your brother.	Denk an deinen Bruder.	अपने भाई के बारे में सोचो।
 Think of your brother.	Denk an deinen Bruder!	अपने भाई के बारे में सोचो!
