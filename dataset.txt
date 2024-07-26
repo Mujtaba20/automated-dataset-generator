@@ -1,14 +1,4 @@
 
-Tom refused to eat.	Tom weigerte sich zu essen.	टॉम ने खाने से इनकार कर दिया।
-Tom refused to pay.	Tom weigerte sich zu bezahlen.	टॉम ने भुगतान करने से इनकार कर दिया।
-Tom resigned today.	Tom ist heute zurückgetreten.	टॉम ने आज इस्तीफा दे दिया।
-Tom ripped you off.	Tom hat dich übers Ohr gehauen.	टॉम आप।
-Tom ruined my life.	Tom hat mein Leben ruiniert.	टॉम ने मेरा जीवन बर्बाद कर दिया।
-Tom runs a charity.	Tom betreibt eine Wohltätigkeitsorganisation.	टॉम एक चैरिटी चलाता है।
-Tom runs a charity.	Tom betreibt eine Charity.	टॉम एक चैरिटी चलाता है।
-Tom runs very fast.	Tom läuft sehr schnell.	टॉम बहुत जल्दी चलता है।
-Tom rushed past me.	Tom eilte an mir vorbei.	टॉम ने मुझे अतीत में बदल दिया।
-Tom said I was fat.	Tom sagte, ich sei beleibt.	टॉम ने कहा कि मुझे समाप्त कर दिया गया था।
 Tom said goodnight.	Tom hat gute Nacht gesagt.	टॉम ने गुड नाइट कहा।
 Tom said goodnight.	Tom sagte gute Nacht.	टॉम ने गुड नाइट कहा।
 Tom said he'd come.	Tom sagte, er würde kommen.	टॉम ने कहा कि वह आएगा।

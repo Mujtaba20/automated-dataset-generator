@@ -23941,3 +23941,12 @@ Tom ran to his car.
 Tom read it for me.		
 Tom reassured Mary.		
 Tom recommended me.		
+Tom refused to eat.	Tom weigerte sich zu essen.	टॉम ने खाने से इनकार किया।
+Tom refused to pay.	Tom weigerte sich zu zahlen.	टॉम ने भुगतान करने से इनकार किया।
+Tom resigned today.	Tom ist heute zurückgetreten.	टॉम ने आज इस्तीफा दिया।
+Tom ripped you off.	Tom hat dich abgezogen.	टॉम ने तुम्हे धोखा दिया।
+Tom ruined my life.	Tom hat mein Leben ruiniert.	टॉमने मेरी जिंदगी बर्बाद कर दी।
+Tom runs a charity.	Tom leitet eine Wohltätigkeitsorganisation.	टॉम एक चैरिटी चलाता है।
+Tom runs very fast.	Tom rennt sehr schnell.	टॉम बहुत तेज़ी से दौड़ रहा है।
+Tom rushed past me.	Tom ist an mir vorbeigeeilt.	टॉम ने मेरे पास जल्दी से गुज़र दिया।
+Tom said I was fat.	Tom sagte, ich sei dick.	टॉमने कहा कि मैं मोटा हूँ।
