@@ -26587,3 +26587,13 @@ I only just met Tom	Ich habe Tom erst kennengelernt.	मैंने सिर�
 I only met him once	Ich habe ihn nur einmal getroffen.	मैंने उससे सिर्फ एक बार मिला।
 I only need one cat	Ich brauche nur eine Katze.	मुझे सिर्फ एक बिल्ली की ज़रूरत है।
 I only saw Tom once	Ich habe Tom nur einmal gesehen.	मैंने सिर्फ एक बार टॉम को देखा था।
+I only saw him once.	Ich habe ihn nur einmal gesehen.	मैंने सिर्फ एक बार उसे देखा।
+I only speak French.	Ich spreche nur Französisch.	मैं केवल फ्रेंच बोलता हूँ।
+I only wish to help.	Ich möchte nur helfen.	मैं केवल मदद करना चाहता हूँ।
+I only wish to help. - 2	Ich wünsche nur zu helfen.	मैं केवल मदद करना चाहता हूं।
+I opened the window.	Ich öffnete das Fenster.	मैंने खिड़की खोली।
+I owe you 3,000 yen.	Ich schulde dir 3.000 Yen.	मुझे तुम पर 3,000 येन देना है।
+I owe you something.	Ich schulde dir etwas.	मुझे तुम पर कुछ देना है।
+I painted the fence.	Ich habe den Zaun gestrichen.	मैंने बाड़ पेंट किया।
+I polished my shoes.	Ich habe meine Schuhe poliert.	मैंने अपने जूते चमकाए।
+I pretended to work.	Ich gab vor zu arbeiten.	मैंने काम करने का नाटक किया।
