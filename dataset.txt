@@ -1,15 +1,4 @@
 
-You're not a doctor.	Sie sind kein Arzt.	आप डॉक्टर नहीं हैं।
-You're not that old.	So alt sind Sie nicht.	वे पुराने नहीं हैं।
-You're not that old.	So alt bist du doch nicht.	तुम उस बूढ़े नहीं हो।
-You're not that old.	So alt sind Sie doch nicht.	वे पुराने नहीं हैं।
-You're not that old.	So alt seid ihr doch nicht.	आप इतने बूढ़े नहीं हैं।
-You're not thinking.	Du denkst nicht mit.	आप इसके बारे में नहीं सोचते।
-You're not thinking.	Du bist unüberlegt.	आप दाने हैं।
-You're not to blame.	Dafür kannst du nichts.	आप उसके लिए कुछ नहीं कर सकते।
-You're not watching.	Du siehst nicht zu.	आप नहीं देखते।
-You're out of order.	Du bist ja nicht normal.	आप सामान्य नहीं हैं।
-You're out of order.	Mit dir stimmt doch was nicht.	आपके साथ कुछ गड़बड़ है।
 You're overreacting.	Du überreagierst.	आप ओवररिएक्ट करते हैं।
 You're overreacting.	Sie überreagieren.	वे ओवररिएक्ट करते हैं।
 You're part of this.	Du bist ein Teil davon.	आप इसका हिस्सा हैं।

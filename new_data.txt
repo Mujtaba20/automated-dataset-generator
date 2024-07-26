@@ -30297,3 +30297,9 @@ You're looking down.	Du betrachtest nach unten.	तू नीचे देख �
 You're looking good!	Du machst einen guten Eindruck!	तू अच्छे नजर आ रहे हैं!
 You're looking good.	Du siehst gut aus.	तू अच्छा लग रहा है।
 You're not Canadian.	Du bist nicht aus Kanada.	तुम कनाडियन नहीं हो।
+You're not a doctor.	Du bist kein Arzt.	तुम डॉक्टर नहीं हो।
+You're not that old.	Du bist nicht so alt.	तुम इतने बुढ़े नहीं हो।
+You're not thinking.	Du denkst nicht nach.	तुम सोचने में नहीं हो।
+You're not to blame.	Du bist nicht schuld.	तुम दोषी नहीं हो।
+You're not watching.	Du beobachtest nicht.	तुम देखने में नहीं हो।
+You're out of order.	Du bist außer Betrieb.	तुम क्रम से बाहर हो।
