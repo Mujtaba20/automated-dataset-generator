@@ -1,15 +1,4 @@
 
-I knew it was wrong.	Ich wusste, dass es falsch war.	मुझे पता था कि यह गलत था।
-I knew that already.	Ich wusste es schon.	मैं पहले से ही यह जानता था।
-I knew that already.	Das wusste ich schon.	मुझे पता था कि पहले से ही।
-I knew that was Tom.	Ich wusste, dass es Tom war.	मुझे पता था कि यह टॉम था।
-I knew this already.	Ich wusste es schon.	मैं पहले से ही यह जानता था।
-I knew when to quit.	Ich wusste, wann ich Schluss machen musste.	मुझे पता था कि मुझे कब खत्म करना था।
-I knew you'd be mad.	Ich wusste, dass du dich aufregen würdest!	मुझे पता था कि आप परेशान होंगे!
-I knew you'd get it.	Ich wusste, du würdest es bekommen.	मुझे पता था कि आप इसे प्राप्त करेंगे।
-I knew your brother.	Ich kannte deinen Bruder.	मैं तुम्हारे भाई को जानता था।
-I knew your brother.	Ich kannte Ihren Bruder.	मैं उसके भाई को जानता था।
-I knew your brother.	Ich kannte euren Bruder.	मैं तुम्हारे भाई को जानता था।
 I know Tom has died.	Ich weiß, dass Tom gestorben ist.	मुझे पता है कि टॉम की मृत्यु हो गई है।
 I know Tom is a spy.	Ich weiß, dass Tom ein Spion ist.	मुझे पता है कि टॉम एक जासूस है।
 I know Tom is happy.	Ich weiß, Tom ist glücklich.	मुझे पता है कि टॉम खुश है।

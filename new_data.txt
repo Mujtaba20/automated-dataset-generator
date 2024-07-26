@@ -26395,3 +26395,11 @@ I just want to talk.	Ich möchte nur sprechen.	मैं सिर्फ बा�
 I kind of liked Tom.	Ich mochte Tom irgendwie.	मुझे तोम पसंद था।
 I knew Tom was busy.	Ich wusste, dass Tom beschäftigt war.	मुझे पता था कि टॉम व्यस्त था।
 I knew how Tom felt.	Ich wusste, wie Tom empfand.	मैं जानता था कि टॉम कैसा महसूस कर रहा था।
+I knew it was wrong.	Ich wusste, dass es falsch war.	मुझे पता था कि यह गलत था।
+I knew that already.	Das wusste ich schon.	मुझे यह पहले से पता था।
+I knew that was Tom.	Ich wusste, dass das Tom war.	मुझे पता था कि वह टॉम था।
+I knew this already.	Das wusste ich schon.	मुझे यह पहले से पता था।
+I knew when to quit.	Ich wusste, wann aufzuhören.	मैंने पता था कि कब बंद करना है।
+I knew you'd be mad.	Ich wusste, du wirst wütend sein.	मैंने जान लिया कि तुम गुस्सा होगा।
+I knew you'd get it.	Ich wusste, du wirst es bekommen.	मैंने जान लिया कि तुम इसे समझ जाओगे।
+I knew your brother.	Ich kannte deinen Bruder.	मैं तुम्हारे भाई को जानता था।
