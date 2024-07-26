@@ -1,16 +1,4 @@
 
-Get me a glass of milk.	Hol mir ein Glas Milch.	मुझे एक गिलास दूध पाओ।
-Get me out of here now.	Hol mich jetzt hier raus!	मुझे अब यहाँ से बाहर निकालो!
-Get out of the kitchen.	Raus aus der Küche!	रसोई से बाहर निकलना!
-Give Tom what he needs.	Gib Tom, was er braucht!	टॉम को दे दो जो उसे चाहिए!
-Give Tom what he needs.	Gebt Tom, was er braucht!	टॉम को दे दो जो उसे चाहिए!
-Give Tom what he needs.	Geben Sie Tom, was er braucht!	टॉम को दे दो जो उसे चाहिए!
-Give Tom what he wants.	Gib Tom, was er will.	टॉम को दे दो जो वह चाहता है।
-Give me a goodbye kiss.	Gib mir einen Abschiedskuss!	मुझे एक विदाई चुंबन दे!
-Give me a goodbye kiss.	Gebt mir einen Abschiedskuss!	मुझे एक विदाई चुंबन दे!
-Give me a little money.	Gib mir etwas Geld.	मुझे कुछ पैसे दीजिये।
-Give me a little money.	Geben Sie mir etwas Geld.	मुझे कुछ पैसे दीजिये।
-Give me a little money.	Gib mir ein bisschen Geld.	मुझे थोड़ा पैसा दे दो।
 Give me another chance.	Gebt mir noch eine Chance.	मुझे एक और मौका दो।
 Give me another chance.	Geben Sie mir noch eine Chance.	मुझे एक और मौका दो।
 Give me another reason.	Gib mir noch einen Grund.	मुझे एक और कारण दें।
