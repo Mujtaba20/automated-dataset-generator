@@ -1,14 +1,4 @@
 
-You can't use this.	Das kannst du nicht benutzen.	आप इसका उपयोग नहीं कर सकते।
-You cannot do this.	Das kannst du nicht machen.	आप ऐसा नहीं कर सकते।
-You cannot do this.	Das könnt ihr nicht machen.	आप ऐसा नहीं कर सकते।
-You cannot do this.	Das können Sie nicht machen.	आप ऐसा नहीं कर सकते।
-You could say that.	Das kann man so sagen.	आप कह सकते हैं कि।
-You deserve better.	Du hast etwas Besseres verdient.	आप कुछ बेहतर के लायक हैं।
-You deserve better.	Ihr habt etwas besseres verdient.	आप कुछ बेहतर के लायक हैं।
-You deserve better.	Sie haben etwas Besseres verdient.	आप कुछ बेहतर के लायक हैं।
-You didn't call me.	Du hast mich nicht angerufen.	तुमने मुझे फोन नहीं किया।
-You didn't call me.	Sie haben mich nicht angerufen.	आपने मुझे फोन नहीं किया।
 You didn't help me.	Du hast mir nicht geholfen.	आपने मेरी मदद नहीं की।
 You didn't help me.	Ihr habt mir nicht geholfen.	आपने मेरी मदद नहीं की।
 You didn't help me.	Sie haben mir nicht geholfen.	आपने मेरी मदद नहीं की।

@@ -24847,3 +24847,8 @@ You can't scare me.	Du darfst mich nicht erschrecken.	तुम मुझे ड
 You can't stop Tom.	Du kannst Tom nicht aufhalten.	तुम टॉम को रोक नहीं सकते।
 You can't stop now.	Du musst jetzt weitermachen.	तुम अब रुक नहीं सकते।
 You can't use that.	Du kannst das nicht verwenden.	तुम वह नहीं इस्तेमाल कर सकते।
+You can't use this.	Du kannst das nicht benutzen.	तुम इसे इस्तेमाल नहीं कर सकते।
+You cannot do this.	Du kannst das nicht tun.	तुम यह नहीं कर सकते।
+You could say that.	Du könntest das sagen.	तुम यह कह सकते हो।
+You deserve better.	Du verdienst Besseres.	तुम्हे बेहतर लायक है।
+You didn't call me.	Du hast mich nicht angerufen.	तुमने मुझे नहीं फोन किया।
