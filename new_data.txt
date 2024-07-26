@@ -21048,3 +21048,11 @@ I am an only child.	Ich bin Einzelkind.	मैं एकमात्र बच�
 I am boiling water.	Ich koche Wasser.	मैं पानी उबाल रहा हूँ।
 I am doing my best.	Ich gebe mein Bestes.	मैं अपनी सबसे अच्छी कोशिश कर रहा हूँ।
 I am feeling dizzy.	Mir ist schwindelig.	मुझे चक्कर आ रहा है।
+I am from Portugal.	Ich komme aus Portugal.	मैं पुर्तगाल से हूँ।
+I am full of doubt.	Ich bin voller Zweifel.	मैं शक्ति से भरा हुआ हूँ।
+I am grilling fish.	Ich grille Fisch.	मैं मछली पका रहा हूँ।
+I am just dreaming.	Ich träume nur.	मैं सिर्फ सपने देख रहा हूँ।
+I am not a monster.	Ich bin kein Monster.	मैं एक राक्षस नहीं हूँ।
+I am not a prophet.	Ich bin kein Prophet.	मैं भविष्यवक्ता नहीं हूँ।
+I am not a student.	Ich bin kein Schüler.	मैं एक छात्र नहीं हूँ।
+I am not a teacher.	Ich bin kein Lehrer.	मैं एक शिक्षक नहीं हूँ।

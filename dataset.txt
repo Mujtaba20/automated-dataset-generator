@@ -1,14 +1,4 @@
 
-I am from Portugal.	Ich bin aus Portugal.	मैं पुर्तगाल से हूं.
-I am full of doubt.	Ich bin voller Zweifel.	मैं संदेह से भरा हुआ हूं।
-I am grilling fish.	Ich grille Fisch.	मैं मछली ग्रिल करता हूं।
-I am just dreaming.	Ich bin am Träumen.	मैं सपने में हूं।
-I am just dreaming.	Ich träume gerade.	मैं अभी सपने देख रहा हूं।
-I am not a monster.	Ich bin kein Monster!	मैं एक राक्षस नहीं हूँ!
-I am not a monster.	Ich bin kein Ungeheuer!	मैं एक राक्षस नहीं हूँ!
-I am not a prophet.	Ich bin kein Prophet.	मैं नबी नहीं हूं।
-I am not a student.	Ich bin kein Student.	मैं एक छात्र नहीं हूं।
-I am not a teacher.	Ich bin kein Lehrer.	मैं कोई शिक्षक नहीं हूं।
 I am not too tired.	Ich bin nicht zu müde.	मैं बहुत थक नहीं गया हूं।
 I am probably lost.	Ich habe mich wohl verlaufen.	मैं खो गया।
 I am six feet tall.	Ich bin sechs Fuß groß.	मैं छह फुट का हूं।
