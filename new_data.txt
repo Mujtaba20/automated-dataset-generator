@@ -30912,3 +30912,11 @@ Good to see you, Tom.	Schön, dich zu sehen, Tom.	तुम्हें दे�
 Hang in there, folks.	Haltet durch, Leute.	धैर्य रखो, लोग।
 Has Tom become crazy?	Ist Tom verrückt geworden?	क्या टॉम पागल हो गया है?
 Has Tom been charged?	Wurde Tom angeklagt?	क्या टॉम को आरोपित किया गया है?
+Has Tom changed much?	Hat Tom sich sehr verändert?	क्या टॉम बहुत बदल गया है?
+Has anything changed?	Hat sich irgendwas geändert?	क्या कुछ बदल गया है?
+Have Tom come see me.	Sag Tom, dass er mich besuchen kommen soll.	टॉम को मुझे देखने आने दो।
+Have a drink with me.	Trink etwas mit mir.	मेरे साथ एक पेय लो।
+Have a good vacation.	Einen guten Urlaub haben.	अच्छी छुट्टियाँ मनाना।
+Have a nice vacation.	Einen schönen Urlaub haben.	एक अच्छी छुट्टियाँ मनाओ।
+Have a pleasant trip.	Eine angenehme Reise haben.	सुखद यात्रा हो।
+Have fun this summer!	Viel Spaß diesen Sommer!	इस समर मज़े करो!
