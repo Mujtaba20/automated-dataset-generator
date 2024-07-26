@@ -1,15 +1,4 @@
 
-That's asking too much.	Das ist zu viel verlangt.	यह बहुत अधिक आवश्यक है।
-That's going to happen.	Das wird passieren.	ऐसा होगा।
-That's good news to me.	Das ist eine gute Nachricht für mich.	यह मेरे लिए अच्छी खबर है।
-That's hard to believe.	Es ist kaum zu fassen!	यह विश्वास करना मुश्किल है!
-That's hard to believe.	Das ist schwer zu glauben.	यह विश्वास करना मुश्किल है।
-That's highly unlikely.	Das ist höchst unwahrscheinlich.	यह अत्यधिक संभावना नहीं है।
-That's how Tom does it.	So macht Tom es.	इस तरह टॉम यह करता है।
-That's how he likes it.	So mag er es gern.	इस तरह वह इसे पसंद करता है।
-That's just impossible.	Das ist einfach unmöglich.	यह केवल असंभव है।
-That's just not enough.	Das reicht einfach nicht.	वह पर्याप्त नहीं है।
-That's just not enough.	Das ist einfach nicht genug.	यह सिर्फ पर्याप्त नहीं है।
 That's my CD, isn't it?	Das ist meine CD, nicht wahr?	यह मेरी सीडी है, है ना?
 That's my CD, isn't it?	Das ist doch meine CD, oder?	यह मेरी सीडी है, है ना?
 That's my final answer.	Das ist mein letztes Wort.	यह मेरा आखिरी शब्द है।
