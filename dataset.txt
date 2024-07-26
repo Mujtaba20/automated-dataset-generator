@@ -1,14 +1,4 @@
 
-Here's the address.	Hier ist die Adresse.	यहाँ पता है।
-Here's the address.	Hier ist die Anschrift.	यहाँ पता है।
-Here's your change.	Hier ist Ihr Wechselgeld.	यहां आपके बदलाव हैं।
-Here's your coffee.	Hier ist euer Kaffee.	यहाँ आपकी कॉफी है।
-Here's your coffee.	Hier ist Ihr Kaffee.	यहाँ आपकी कॉफी है।
-Here, have a drink.	Hier, trink etwas!	यहाँ, कुछ पीना!
-Here, look at this.	Hier, sieh dir das an.	यहाँ, देखो।
-Hey Tom, what's up?	Hallo, Tom! Wie geht’s?	हेलो टॉम!आप कैसे हैं?
-Hey look, it's Tom.	Hey, schau, es ist Tom.	अरे, देखो, यह टॉम है।
-Hey, don't do that!	Hey, mach das nicht!	अरे, ऐसा मत करो!
 Hey, what happened?	He, was ist passiert?	अरे क्या हुआ?
 Hey, where are you?	Hey, wo bist du?	अरे तुम कहाँ हो?
 Hi, how's it going?	Hallo, wie geht's?	नमस्ते, आप कैसे हैं?

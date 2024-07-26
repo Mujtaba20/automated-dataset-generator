@@ -20948,3 +20948,10 @@ Here is my baggage.	Hier ist mein Gepäck.	यहाँ मेरा साम�
 Here is my bicycle.	Hier ist mein Fahrrad.	यहाँ मेरी साईकल है।
 Here's my passport.	Hier ist mein Reisepass.	यहाँ मेरा पासपोर्ट है।
 Here's one for you.	Hier ist eins für dich.	यहाँ एक तुम्हारे लिए है।
+Here's the address.	Hier ist die Adresse.	यहाँ पता है।
+Here's your change.	Hier ist Ihr Wechselgeld.	यह आपका बदलाव है।
+Here, have a drink.	Hier, trink etwas.	यहाँ, पी कुछ।
+Here, look at this.	Schau mal hier.	यहाँ, इसे देखो।
+Hey Tom, what's up?	Hey Tom, was gibt's?	अरे टॉम, क्या चल रहा है?
+Hey look, it's Tom.	Hey, schau mal, das ist Tom.	अरे देखो, वह टॉम है।
+Hey, don't do that!	Hey, das nicht tun!	अरे, वह मत करो!
