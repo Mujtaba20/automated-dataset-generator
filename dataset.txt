@@ -1,14 +1,4 @@
 
-Your phone's ringing.	Dein Telefon klingelt.	आपका फ़ोन बजता है।
-Your plan won't work.	Dein Plan wird nicht aufgehen.	आपकी योजना काम नहीं करेगी।
-Your pulse is normal.	Dein Puls ist normal.	आपकी नाड़ी सामान्य है।
-Your pulse is normal.	Ihr Puls ist normal.	आपकी नाड़ी सामान्य है।
-Your skin is so soft.	Du hast so weiche Haut!	आपके पास ऐसी नरम त्वचा है!
-Your son is an angel.	Ihr Sohn ist ein Engel.	आपका बेटा एक परी है।
-Your son is an angel.	Dein Sohn ist ein Engel.	आपका बेटा एक परी है।
-Your son is an angel.	Euer Sohn ist ein Engel.	आपका बेटा एक परी है।
-Your story is boring.	Deine Geschichte ist langweilig.	आपकी कहानी उबाऊ है।
-"Says who? ""Says me."""	„Wer sagt das?“ — „Ich sage das!“	"""कौन कहता है?"" - ""मैं कहता हूं कि!"""
 A cat has seven lives.	Eine Katze hat sieben Leben.	एक बिल्ली का सात जीवन है।
 A cow has a long tail.	Eine Kuh hat einen langen Schwanz.	एक गाय के पास एक लंबा लंड है।
 A dog is following us.	Es verfolgt uns ein Hund.	यह हमें एक कुत्ते का पीछा करता है।

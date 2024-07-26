@@ -36005,3 +36005,10 @@ Your friend is tired.	Dein Freund ist müde.	तुम्हारा दोस�
 Your mother loves me.	Deine Mutter liebt mich.	तुम्हारी माँ मुझसे प्यार करती है।
 Your nose is running.	Deine Nase läuft.	तुम्हारी नाक बह रही है।
 Your pants are dirty.	Deine Hose ist schmutzig.	तुम्हारी पतलून गंदी है।
+Your phone's ringing.	Dein Telefon klingelt.	तुम्हारे फ़ोन बज रहा है।
+Your plan won't work.	Dein Plan wird nicht funktionieren.	तुम्हारा योजना काम नहीं करेगी।
+Your pulse is normal.	Dein Puls ist im Normalbereich.	तुम्हारा पल्स सामान्य है।
+Your skin is so soft.	Deine Haut ist so weich.	तुम्हारी त्वचा इतनी मुलायम है।
+Your son is an angel.	Dein Sohn ist wie ein Engel.	तुम्हारा बेटा एक फ़रिश्ता है।
+Your story is boring.	Deine Geschichte ist langweilig.	तुम्हारी कहानी उबाऊ है।
+"Says who? ""Says me."""	"Wer sagt das?" "Ich sage das."	"किसने कहा?" "मैंने कहा।"
