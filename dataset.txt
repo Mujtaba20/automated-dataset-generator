@@ -1,14 +1,4 @@
 
-That's very simple.	Das ist sehr einfach!	यह बहुत आसान है!
-That's what I hope.	Das hoffe ich.	ऐसा ही हो।
-That's what I like.	Das ist es, was ich mag.	यही मुझे पसंद है।
-That's what I like.	Das ist mein Privatvergnügen.	यह मेरा निजी आनंद है।
-That's what I said.	Das ist, was ich gesagt habe.	वही तो मैंने कहा।
-That's what I want.	Das ist es, was ich will.	मैं यही चाहता था।
-That's what I want.	Genau das will ich.	ठीक यही मैं चाहता हूं।
-That's what we saw.	Das ist, was wir gesehen haben.	यही हमने देखा।
-That's why I asked.	Darum fragte ich.	इसीलिए मैंने पूछा।
-That's why Tom won.	Deshalb hat Tom gewonnen.	इसलिए टॉम जीता।
 The alarm went off.	Der Wecker klingelte.	अलार्म बजता है।
 The alarm went off.	Der Wecker hat geklingelt.	अलार्म घड़ी बजा।
 The answer was yes.	Die Antwort war „ja“.	"जवाब ""हाँ"" था।"
