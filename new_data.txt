@@ -31402,3 +31402,10 @@ I am no longer tired.	Ich bin nicht mehr müde.	मैं अब थक नह�
 I am not well at all.	Es geht mir überhaupt nicht gut.	मैं बिल्कुल भी ठीक नहीं हूँ।
 I am playing it safe.	Ich halte mich bedeckt.	मैं सुरक्षित खेल रहा हूँ।
 I am poor at drawing.	Ich bin schlecht im Zeichnen.	मैं ड्राइंग में गरीब हूँ।
+I am quite satisfied.	Ich bin ziemlich zufrieden.	मैं काफी संतुष्ट हूँ।
+I am telling a story.	Ich erzähle eine Geschichte.	मैं कहानी सुना रहा हूँ।
+I am terribly hungry.	Ich habe schrecklichen Hunger.	मुझे भुख लगी है भूख लगी है।
+I am to blame for it.	Ich bin daran schuld.	मैं इसके लिए दोषी हूँ।
+I am wasting my time.	Ich verschwende meine Zeit.	मैं अपना समय खो रहा हूँ।
+I am weighing myself.	Ich wiege mich.	मैं अपना वजन कर रहा हूँ।
+I answered the phone.	Ich habe ans Telefon gegangen.	मैंने फ़ोन उठाया।
