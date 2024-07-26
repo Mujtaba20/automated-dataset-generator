@@ -36230,3 +36230,9 @@ Coal is a fossil fuel.	Kohle ist ein fossiler Brennstoff.	कोयला एक
 Coffee keeps me awake.	Kaffee hält mich wach.	कॉफ़ी मुझे जाग्रत रखती है।
 Come anytime you like.	Kommen Sie, wann immer Sie möchten.	आप जब चाहें आ सकते हैं।
 Come here and help me.	Komm hierher und hilf mir.	यहाँ आकर मेरी मदद करो।
+Come home before dark.	Komm vor der Dunkelheit nach Hause.	अंधेरे से पहले घर आजाओ।
+Come on, it'll be fun.	Komm schon, es wird Spaß machen.	आओ, यह मज़ेदार होगा।
+Come on, let's try it.	Komm schon, lass es uns ausprobieren.	चलो, इसे आजमाते हैं।
+Come on, sing with me.	Komm schon, sing mit mir.	आओ, मेरे साथ गाओ।
+Come to watch us play.	Komm, um uns spielen zu sehen.	हमें खेलते हुए देखने आओ।
+Come tomorrow morning.	Komm morgen früh.	कल सुबह आना।
