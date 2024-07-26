@@ -1,14 +1,4 @@
 
-These are my brothers.	Das sind meine Brüder.	ये सभी मेरे भाई हैं।
-These are my students.	Das sind meine Schüler.	ये मेरे छात्र हैं।
-These are your orders.	Dies sind Ihre Bestellungen.	ये उनके आदेश हैं।
-These are your things.	Das sind deine Sachen.	ये आपकी चीजें हैं।
-These aren't ripe yet.	Die sind noch nicht reif.	वे अभी तक पके नहीं हैं।
-These grapes are ripe.	Diese Trauben sind reif.	ये अंगूर पके हुए हैं।
-These pants are dirty.	Diese Hose ist schmutzig.	ये पैंट गंदे हैं।
-These shoes don't fit.	Diese Schuhe passen nicht.	ये जूते फिट नहीं हैं।
-They all looked happy.	Sie sahen alle glücklich aus.	वे सभी खुश लग रहे थे।
-They all speak French.	Sie sprechen alle Französisch.	आप सभी फ्रेंच बोलते हैं।
 They are the same age.	Sie sind gleich alt.	वे एक ही हैं।
 They are the same age.	Sie sind gleichaltrig.	वे एक ही उम्र के हैं।
 They are the same age.	Sie haben dasselbe Alter.	आपकी समान उम्र है।

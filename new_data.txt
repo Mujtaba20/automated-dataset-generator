@@ -39599,3 +39599,13 @@ There's nobody inside.	Drinnen ist niemand.	अंदर कोई नहीं 
 There's nothing there.	Da ist nichts.	वहाँ कुछ नहीं है।
 There's nothing to do.	Es gibt nichts zu tun.	करने के लिए कुछ नहीं है।
 There's nothing to it.	Es ist kinderleicht.	इसमें कोई बात नहीं है।
+These are my brothers.	Das sind meine Brüder.	ये मेरे भाई हैं।
+These are my students.	Das sind meine Schüler.	ये मेरे छात्र हैं।
+These are your orders.	Das sind deine Befehle.	ये तुम्हारे आदेश हैं।
+These are your things.	Das sind deine Sachen.	ये तुम्हारी चीजें हैं।
+These aren't ripe yet.	Diese sind noch nicht reif.	ये अभी पके नहीं हुए हैं।
+These grapes are ripe.	Diese Trauben sind reif.	ये अंगूर पके हुए हैं।
+These pants are dirty.	Diese Hosen sind schmutzig.	ये पैंट्स गंदे हैं।
+These shoes don't fit.	Diese Schuhe passen nicht.	ये जूते फ़िट नहीं होते।
+They all looked happy.	Sie sahen alle glücklich aus.	वे सभी खुश लग रहे थे।
+They all speak French.	Sie alle sprechen Französisch.	वे सभी फ्रेंच बोलते हैं।
