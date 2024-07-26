@@ -1,14 +1,4 @@
 
-Whose is this food?	Wem gehört das Essen hier?	यहाँ भोजन कौन है?
-Whose land is this?	Wem gehört dieses Land?	यह देश किसका है?
-Whose ring is that?	Wessen Ring ist das?	वह किसकी अंगूठी है?
-Whose room is this?	Wessen Zimmer ist das?	वह किसका कमरा है?
-Whose seat is this?	Wer sitzt hier?	यहाँ कौन बैठा है?
-Whose seat is this?	Wessen Platz ist das hier?	यहाँ किसका स्थान है?
-Whose wine is this?	Wessen Wein ist das?	वह शराब किसकी है?
-Why are they angry?	Worüber regen sie sich auf?	आप किस बारे में परेशान हैं?
-Why are we running?	Warum laufen wir?	हम क्यों चलाते हैं?
-Why are we running?	Warum rennen wir denn?	हम क्यों चलाते हैं?
 Why are we walking?	Warum laufen wir?	हम क्यों चलाते हैं?
 Why are you asking?	Warum fragst du?	तुम क्यों पूछ रहे हो?
 Why are you asking?	Warum fragen Sie?	तुम क्यों पूछ रहे हो?

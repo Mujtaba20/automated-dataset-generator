@@ -24741,3 +24741,12 @@ Whose food is this?	Wessen Essen ist das hier?	यह किसका भोज�
 Whose friend is he?	Wer ist sein Freund?	वह किसका दोस्त है?
 Whose is that book?	Wem gehört dieses Buch?	वह किसकी किताब है?
 Whose is this book?	Wem gehört dieses Buch hier?	यह किसकी किताब है?
+Whose is this food?	Wessen Essen ist das?	यह खाना किसका है?
+Whose land is this?	Wessen Land ist das?	यह जमीन किसकी है?
+Whose ring is that?	Wessen Ring ist das?	वह अंगूठी किसकी है?
+Whose room is this?	Wessen Zimmer ist das?	यह कमरा किसका है?
+Whose seat is this?	Wessen Sitz ist das?	यह सीट किसकी है?
+Whose wine is this?	Wessen Wein ist das?	यह शराब किसकी है?
+Why are they angry?	Warum sind sie böse?	वे क्यों गुस्से में हैं?
+Why are we running?	Warum laufen wir?	हम क्यों भाग रहे हैं?
+Why are we running? (different meaning)	Warum rennen wir?	हम क्यों दौड़ रहे हैं?
