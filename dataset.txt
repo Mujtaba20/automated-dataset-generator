@@ -1,14 +1,4 @@
 
-Do you like cooking?	Kochst du gern?	क्या आपको खाना पकाना अच्छा लगता है?
-Do you like cooking?	Kocht ihr gern?	क्या आपको खाना पकाना अच्छा लगता है?
-Do you like cooking?	Kochen Sie gern?	क्या तुम्हे खाना पकाना पसंद है?
-Do you like dancing?	Tanzt ihr gerne?	क्या आप नृत्य करना पसंद करेंगे?
-Do you like dancing?	Tanzt du gerne?	क्या आपको नाचना पंसद है?
-Do you like driving?	Fährst du gerne?	क्या आपको ड्राइव करना पसंद है?
-Do you like it here?	Gefällt es dir hier?	आप इसे पसंद करते हैं?
-Do you like it here?	Gefällt es euch hier?	आप इसे पसंद करते हैं?
-Do you like it here?	Gefällt es Ihnen hier?	आप इसे पसंद करते हैं?
-Do you like it then?	Gefällt es dir denn?	क्या आपको यह पसंद है?
 Do you like me, too?	Magst du mich auch?	क्या तुम भी मुझे पसंद करते हो?
 Do you like mussels?	Magst du Miesmuscheln?	क्या आपको मसल्स पसंद हैं?
 Do you like my hair?	Gefällt dir mein Haar?	क्या तुम्हे मेरे बाल पसन्द है?

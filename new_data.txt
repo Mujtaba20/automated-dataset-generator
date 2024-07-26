@@ -25343,3 +25343,8 @@ Do you know the way?	Kennen Sie den Weg?	क्या तुम रास्त�
 Do you like English?	Magst du Englisch?	क्या आपको अंग्रेजी पसंद है?
 Do you like bananas?	Magst du Bananen?	क्या आपको केले पसंद हैं?
 Do you like bowling?	Magst du Bowling?	क्या तुम्हें बॉलिंग पसंद है?
+Do you like cooking?	Magst du kochen?	क्या तुम्हें पकाना पसंद है?
+Do you like dancing?	Magst du tanzen?	क्या आपको नृत्य पसंद है?
+Do you like driving?	Fährst du gerne?	क्या तुम्हें ड्राइविंग पसंद है?
+Do you like it here?	Gefällt es dir hier?	क्या तुम्हें यहाँ पसंद है?
+Do you like it then?	Magst du es dann?	क्या तब तक तुम्हें यह पसंद है?
