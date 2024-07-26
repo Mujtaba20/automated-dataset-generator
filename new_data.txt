@@ -37750,3 +37750,12 @@ I no longer need them.	Ich brauche sie nicht mehr.	मुझे उन्हे�
 I no longer want that.	Ich möchte das nicht mehr.	मुझे वह अब चाहिए नहीं।
 I no longer work here.	Ich arbeite hier nicht mehr.	मैं यहाँ काम नहीं करता।
 I offered Tom my help.	Ich habe Tom meine Hilfe angeboten.	मैंने टॉम को मेरी मदद दी।
+I often feel homesick.	Ich fühle mich oft heimwehkrank.	मैं अक्सर गृहाश्रमी महसूस करता हूँ।
+I often make mistakes.	Ich mache oft Fehler.	मैं अक्सर गलतियाँ करता हूँ।
+I only eat vegetables.	Ich esse nur Gemüse.	मैं केवल सब्जियाँ खाता हूँ।
+I only need one thing.	Ich brauche nur eine Sache.	मुझे केवल एक चीज की आवश्यकता है।
+I only use cane sugar.	Ich benutze nur Rohrzucker.	मैं केवल घन्ने का चीनी उपयोग करता हूँ।
+I only work part-time.	Ich arbeite nur Teilzeit.	मैं केवल पार्ट-टाइम काम करता हूँ।
+I overslept yesterday.	Ich habe gestern verschlafen.	मैंने कल ज्यादा सो लिया।
+I owe her 100,000 yen.	Ich schulde ihr 100.000 Yen.	मुझे उससे 100,000 येन चुकाने हैं।
+I owe you ten dollars.	Ich schulde dir zehn Dollar.	मैं तुम्हें दस डॉलर देता हूँ।
