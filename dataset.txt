@@ -1,16 +1,4 @@
 
-Do you want Tom there?	Willst du Tom dort haben?	क्या आप टॉम को वहां रखना चाहते हैं?
-Do you want a massage?	Willst du eine Massage?	क्या आपको मैसेज चाहिए?
-Do you want a massage?	Wollen Sie eine Massage?	क्या आपको मैसेज चाहिए?
-Do you want breakfast?	Möchten Sie Frühstück?	क्या आप नाश्ता पसंद करेंगे?
-Do you want it or not?	Willst du’s oder nicht?	क्या आप इसे चाहते हैं या नहीं?
-Do you want it or not?	Wollen Sie’s oder nicht?	क्या आप इसे चाहते हैं या नहीं?
-Do you want it or not?	Wollt ihr’s oder nicht?	क्या आप इसे चाहते हैं या नहीं?
-Do you want me to beg?	Willst du, dass ich bettle?	क्या आप भीख माँगना चाहते हैं?
-Do you want some cake?	Willst du etwas Kuchen?	क्या आपको कुछ केक चाहिए?
-Do you want some soup?	Willst du ein bisschen Suppe?	क्या आप थोड़ा सूप चाहते हैं?
-Do you want some soup?	Möchtet ihr etwas Suppe?	क्या आप कुछ सूप चाहते हैं?
-Do you want some soup?	Wünschen Sie ein wenig Suppe?	क्या आप थोड़ा सूप पसंद करेंगे?
 Do you want something?	Haben Sie einen Wunsch?	क्या आपकी इच्छा है?
 Do you want to change?	Möchtest du dich umziehen?	क्या तुम्हें खुद को बदलने का मन है
 Do you want to change?	Möchten Sie sich umziehen?	क्या आप बदलना चाहेंगे?

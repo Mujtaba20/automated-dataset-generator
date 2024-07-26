@@ -36421,3 +36421,10 @@ Do you understand her?	Verstehst du sie?	क्या तुम उसे सम
 Do you understand now?	Verstehst du jetzt?	क्या तुम अब समझ रहे हो?
 Do you understand why?	Verstehst du warum?	क्या तुम समझते हो क्यों?
 Do you use aftershave?	Benutzt du Aftershave?	क्या आप एफ्टर शेव का इस्तेमाल करते हैं?
+Do you want Tom there?	Möchtest du Tom dort haben?	क्या आप वहाँ टॉम चाहते हैं?
+Do you want a massage?	Möchtest du eine Massage?	क्या आप मालिश चाहते हैं?
+Do you want breakfast?	Möchtest du frühstücken?	क्या आप नाश्ता चाहते हैं?
+Do you want it or not?	Willst du es oder nicht?	क्या तुम चाहते हो या नहीं?
+Do you want me to beg?	Willst du, dass ich bettle?	क्या आप चाहते हैं कि मैं मांगूं?
+Do you want some cake?	Möchtest du etwas Kuchen?	क्या आप कुछ केक चाहते हैं?
+Do you want some soup?	Möchtest du etwas Suppe?	क्या आप कुछ सूप चाहते हैं?
