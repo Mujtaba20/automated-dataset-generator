@@ -1,15 +1,4 @@
 
-Did you go to Harvard?	Waren Sie in Harvard?	क्या आप हार्वर्ड में थे?
-Did you go to college?	Hast du studiert?	क्या आपने पढ़ाई की?
-Did you go to college?	Habt ihr studiert?	क्या आपने पढ़ाई की?
-Did you go to college?	Haben Sie studiert?	क्या आपने पढ़ाई की?
-Did you guys have fun?	Habt ihr euch gut amüsiert?	क्या आपका समय अच्छा बीता?
-Did you guys see that?	Habt ihr das gesehen?	क्या तुमने देखा?
-Did you have to do it?	Mussten Sie es tun?	क्या आपको यह करना था?
-Did you hear the bell?	Hast du die Klingel gehört?	क्या आपने घंटी सुना?
-Did you know Tom well?	Hast du Tom gut gekannt?	क्या आप टॉम को अच्छी तरह से जानते थे?
-Did you know Tom well?	Habt ihr Tom gut gekannt?	क्या आप टॉम को अच्छी तरह से जानते थे?
-Did you know Tom well?	Haben Sie Tom gut gekannt?	क्या आप टॉम को अच्छी तरह से जानते थे?
 Did you know him well?	Hast du ihn gut gekannt?	क्या आप उसे अच्छी तरह से जानते थे?
 Did you know him well?	Kanntest du ihn gut?	क्या आप उसे अच्छी तरह से जानते थे?
 Did you know him well?	Kannten Sie ihn gut?	क्या आप उसे अच्छी तरह से जानते थे?
