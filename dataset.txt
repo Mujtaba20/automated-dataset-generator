@@ -1,15 +1,4 @@
 
-I have to tell Tom.	Ich muss das Tom erzählen.	मुझे टॉम बताना है।
-I have to warn Tom.	Ich muss Tom warnen.	मुझे टॉम को चेतावनी देनी है।
-I have to warn him.	Ich muss ihn warnen.	मुझे उसे चेतावनी देनी है।
-I have to work now.	Ich muss jetzt arbeiten.	मुझे अभी काम करना हैं।
-I have two cameras.	Ich habe zwei Kameras.	मेरे पास दो कैमरे हैं।
-I have two cameras.	Ich habe zwei Fotoapparate.	मेरे पास दो फोटो उपकरण हैं।
-I have two cousins.	Ich habe zwei Vettern.	मेरे दो चचेरे भाई हैं।
-I have two cousins.	Ich habe zwei Cousins.	मेरे दो चचेरे भाई हैं।
-I have two cousins.	Ich habe zwei Cousinen.	मेरे दो चचेरे भाई हैं।
-I have what I need.	Ich habe, was ich brauche.	मेरे पास वही है जो मुझे चाहिए।
-I have what I need.	Ich habe, was ich benötige.	मेरे पास वही है जो मुझे चाहिए।
 I have what I want.	Ich habe, was ich will.	मेरे पास वही है जो मैं चाहता हूं।
 I haven't left yet.	Ich bin noch nicht gegangen.	मैंने अभी तक नहीं छोड़ा है।
 I haven't paid yet.	Ich habe noch nicht bezahlt.	मैंने अभी तक भुगतान नहीं किया है।

@@ -21314,3 +21314,10 @@ I have to say this.	Ich muss das sagen.	मुझे यह कहना है�
 I have to see this.	Ich muss das sehen.	मुझे इसे देखना है।
 I have to stop Tom.	Ich muss Tom stoppen.	मुझे टॉम को रोकना है।
 I have to take off.	Ich muss ausziehen.	मुझे उतारना है।
+I have to tell Tom.	Ich muss Tom sagen.	मुझे टॉम को बताना होगा।
+I have to warn Tom.	Ich muss Tom warnen.	मुझे टॉम को चेतावनी देनी है।
+I have to warn him.	Ich muss ihn warnen.	मुझे उसे चेतावनी देनी है।
+I have to work now.	Ich muss jetzt arbeiten.	मुझे अब काम करना है।
+I have two cameras.	Ich habe zwei Kameras.	मेरे पास दो कैमरे हैं।
+I have two cousins.	Ich habe zwei Cousins.	मेरे पास दो चचेरे भाई हैं।
+I have what I need.	Ich habe, was ich brauche.	मेरे पास है जो मुझे चाहिए।
