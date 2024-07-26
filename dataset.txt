@@ -1,14 +1,4 @@
 
-She must be well off.	Sie muss wohlhabend sein.	उसे अमीर बनना है।
-She needs assistance.	Sie braucht Hilfe.	उसे मदद की जरूरत है।
-She never stays long.	Sie bleibt nie lange.	यह कभी लंबा नहीं रहता।
-She often comes late.	Sie kommt oft zu spät.	अक्सर देर हो जाती है।
-She opens the window.	Sie öffnet das Fenster.	यह खिड़की खोलता है।
-She picked up a coin.	Sie nahm eine Münze auf.	उसने एक सिक्का दर्ज किया।
-She picked up a coin.	Sie hob eine Münze auf.	उसने एक सिक्का उठाया।
-She plays the guitar.	Sie spielt Gitarre.	वह गिटार बजाती है।
-She put down her pen.	Sie legte den Stift nieder.	वह पेन लेट गई।
-She quit the company.	Sie hat die Firma verlassen.	उसने कंपनी छोड़ दी।
 She raised her hands.	Sie hob die Hände.	उसने हाथ उठाया।
 She raised her voice.	Sie erhob die Stimme.	उसने अपनी आवाज उठाई।
 She ran out of paper.	Ihr ist das Papier ausgegangen.	वह कागज से बाहर चली गई।

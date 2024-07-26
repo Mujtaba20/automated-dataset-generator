@@ -33366,3 +33366,13 @@ She looks very young.	Sie sieht sehr jung aus.	वह बहुत युवा 
 She married a sailor.	Sie hat einen Seemann geheiratet.	उसने एक मछुआरा से शादी की।
 She mended her socks.	Sie hat ihre Socken geflickt.	उसने अपनी जर्रे ठीक की।
 She missed him a lot.	Sie hat ihn sehr vermisst.	उसे उसकी बहुत याद आई।
+She must be well off.	Sie muss es gut haben.	उसे अच्छी तरह से होना चाहिए।
+She needs assistance.	Sie braucht Hilfe.	उसे सहायता की आवश्यकता है।
+She never stays long.	Sie bleibt nie lange.	वह कभी भी लंबे समय तक नहीं रुकती।
+She often comes late.	Sie kommt oft spät.	वह अक्सर देर से आती है।
+She opens the window.	Sie öffnet das Fenster.	उसने खिड़की खोली।
+She picked up a coin.	Sie hob eine Münze auf.	उसने एक सिक्का उठाया।
+She picked up a stone.	Sie nahm einen Stein auf.	उसने एक पत्थर उठाया।
+She plays the guitar.	Sie spielt die Gitarre.	वह गिटार बजाती है।
+She put down her pen.	Sie legte ihren Stift ab.	उसने अपना कलम रख दी।
+She quit the company.	Sie hat die Firma verlassen.	उसने कंपनी को छोड़ दिया।
