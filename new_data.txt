@@ -38864,3 +38864,10 @@ My friend has arrived.	Mein Freund ist angekommen.	मेरे दोस्त 
 My hair is still damp.	Meine Haare sind immer noch feucht.	मेरे बाल अभी भी गीले हैं।
 My hair's turned gray.	Meine Haare sind grau geworden.	मेरे बाल सफेद हो गए हैं।
 My head is killing me.	Mein Kopf bringt mich um.	मेरे सर में दर्द है।
+My horse likes apples.	Mein Pferd mag Äpfel.	मेरे घोड़े को सेब पसंद है।
+My house is on a hill.	Mein Haus ist auf einem Hügel.	मेरा घर एक पहाड़ी पर है।
+My house is too small.	Mein Haus ist zu klein.	मेरा घर बहुत छोटा है।
+My house is very cold.	Mein Haus ist sehr kalt.	मेरा घर बहुत ठंडा है।
+My husband is at work.	Mein Mann ist bei der Arbeit.	मेरे पति काम पे हैं।
+My instinct was right.	Mein Instinkt war richtig.	मेरी अंतर्दृष्टि सही थी।
+My instinct was right. (Different meaning)	Mein Spürsinn hat mich nicht getäuscht.	मेरा अहसास सही था।

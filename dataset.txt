@@ -1,14 +1,4 @@
 
-My horse likes apples.	Mein Pferd mag Äpfel.	मेरे घोड़े को सेब पसंद है.
-My house is on a hill.	Mein Haus steht auf einem Hügel.	मेरा घर एक पहाड़ी पर है।
-My house is too small.	Mein Haus ist zu klein.	मेरा घर बहुत छोटा है।
-My house is very cold.	Mein Haus ist sehr kalt.	मेरा घर बहुत ठंडा है।
-My husband is at work.	Mein Gatte ist auf der Arbeit.	मेरे पति काम पर हैं।
-My instinct was right.	Mit meinem Bauchgefühl lag ich richtig.	मैं अपनी आंत की भावना के साथ सही था।
-My instinct was right.	Mein Instinkt hat mich nicht betrogen.	मेरी वृत्ति ने मुझे धोखा नहीं दिया।
-My instinct was right.	Mein Instinkt hat nicht getrogen.	मेरी वृत्ति नहीं लड़ती थी।
-My instinct was right.	Mit meinem Instinkt lag ich richtig.	मैं अपनी वृत्ति के साथ सही था।
-My instinct was right.	Mein Instinkt hat ins Schwarze getroffen.	मेरी वृत्ति ने निशान मारा।
 My left arm is asleep.	Mein linker Arm ist eingeschlafen.	मेरी बाईं बांह सो गई।
 My life was in danger.	Mein Leben war in Gefahr.	मेरा जीवन खतरे में था।
 My list is quite long.	Meine Liste ist recht lang.	मेरी सूची काफी लंबी है।
