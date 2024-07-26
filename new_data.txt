@@ -33625,3 +33625,12 @@ The boys are thirsty.	Die Jungen sind durstig.	लड़के प्यास�
 The bridge collapsed.	Die Brücke ist eingestürzt.	सेतु गिर गई।
 The bridge is closed.	Die Brücke ist geschlossen.	पुल बंद है।
 The brown hat is old.	Der braune Hut ist alt.	भूरी टोपी पुरानी है।
+The cabinet resigned.	Das Kabinett ist zurückgetreten.	मंत्रिमंडल ने इस्तीफा दिया।
+The car is very fast.	Das Auto ist sehr schnell.	गाड़ी बहुत तेज है।
+The cat is very cute.	Die Katze ist sehr süß.	बिल्ली बहुत प्यारी है।
+The cats are meowing.	Die Katzen miauen.	बिल्लियाँ मियाऊँ कर रही हैं।
+The cats are purring.	Die Katzen schnurren.	बिल्लियाँ गुर्रा रही हैं।
+The clock is ticking.	Die Uhr tickt.	घड़ी टिक रही है।
+The clock struck ten.	Die Uhr schlug zehn.	घड़ी दस बजी।
+The coffee's run out.	Der Kaffee ist alle.	कॉफ़ी समाप्त हो गई है।
+The convention voted.	Die Tagung hat abgestimmt.	सम्मेलन ने वोट दिया।
