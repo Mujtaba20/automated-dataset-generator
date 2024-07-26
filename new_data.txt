@@ -34367,3 +34367,11 @@ Tom is a park ranger.	Tom ist Parkwächter.	टॉम एक पार्क र
 Tom is a pastry chef.	Tom ist Konditor.	टॉम एक पेस्ट्री शेफ है।
 Tom is a patient man.	Tom ist ein geduldiger Mann.	टॉम एक सबरजीवी आदमी है।
 Tom is a philosopher.	Tom ist Philosoph.	टॉम एक दार्शनिक है।
+Tom is a picky eater.	Tom ist ein wählerischer Esser.	टॉम एक चटपटा खाने वाला है।
+Tom is a real cowboy.	Tom ist ein echter Cowboy.	टॉम एक असली काऊबॉय है।
+Tom is a real friend.	Tom ist ein wahrer Freund.	टॉम एक सच्चा दोस्त है।
+Tom is a rude person.	Tom ist eine unhöfliche Person.	टॉम एक बदतमीज व्यक्ति है।
+Tom is a scrawny kid.	Tom ist ein schmächtiges Kind.	टॉम एक दुर्बल बच्चा है।
+Tom is a slow walker.	Tom geht langsam.	टॉम धीरे चलने वाला है।
+Tom is a sociologist.	Tom ist ein Soziologe.	टॉम एक समाजशास्त्री है।
+Tom is a strange man.	Tom ist ein seltsamer Mann.	टॉम एक अजीब आदमी है।

@@ -1,14 +1,4 @@
 
-Tom is a picky eater.	Tom ist pingelig beim Essen.	भोजन करते समय टॉम पिकी है।
-Tom is a real cowboy.	Tom ist ein echter Cowboy.	टॉम एक असली चरवाहा है।
-Tom is a real friend.	Tom ist ein wahrer Freund.	टॉम एक असली दोस्त है।
-Tom is a real friend.	Tom ist ein echter Freund.	टॉम एक असली दोस्त है।
-Tom is a rude person.	Tom ist eine unhöfliche Person.	टॉम एक असभ्य व्यक्ति है।
-Tom is a scrawny kid.	Tom ist ein dürres Kind.	टॉम एक सूखा बच्चा है।
-Tom is a slow walker.	Tom ist ein gemächlicher Fußgänger.	टॉम एक इत्मीनान से पैदल यात्री है।
-Tom is a slow walker.	Tom geht langsam.	टॉम धीरे -धीरे चला जाता है।
-Tom is a sociologist.	Tom ist Soziologe.	टॉम एक समाजशास्त्री हैं।
-Tom is a strange man.	Tom ist ein seltsamer Mann.	टॉम एक अजीब आदमी है।
 Tom is a survivalist.	Tom ist ein Überlebenskünstler.	टॉम एक जीवित कलाकार है।
 Tom is a taxi driver.	Tom ist Taxifahrer.	टॉम एक टैक्सी ड्राइवर है।
 Tom is a true artist.	Tom ist ein wahrer Künstler.	टॉम एक असली कलाकार है।
