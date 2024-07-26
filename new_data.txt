@@ -35941,3 +35941,11 @@ You're irreplaceable.	Du bist unersetzbar.	तुम अद्वितीय �
 You're just a coward.	Du bist einfach ein Feigling.	तुम बस एक कायर हो।
 You're looking great.	Du siehst großartig aus.	तुम शानदार दिख रहे हो।
 You're looking tired.	Du siehst müde aus.	तुम थके हुए लग रहे हो।
+You're my girlfriend.	Du bist meine Freundin.	तुम मेरी गर्लफ्रेंड हो।
+You're never at home.	Du bist nie zuhause.	तुम कभी घर पर नहीं हो।
+You're not a suspect.	Du bist kein Verdächtiger.	तुम संदेहित नहीं हो।
+You're not listening!	Du hörst nicht zu!	तुम सुन नहीं रहे हो!
+You're not listening.	Du hörst nicht.	तुम सुन रहे नहीं हो।
+You're not one of us.	Du bist nicht einer von uns.	तुम हमारे में से एक नहीं हो।
+You're not safe here.	Du bist hier nicht sicher.	तुम यहाँ सुरक्षित नहीं हो।
+You're not very good.	Du bist nicht sehr gut.	तुम बहुत अच्छे नहीं हो।
