@@ -41006,3 +41006,10 @@ We buried the hatchet.	Wir haben unsere Differenzen beigelegt.	हमने म�
 We can do much better.	Wir können es viel besser machen.	हम बहुत बेहतर कर सकते हैं।
 We can make this work.	Wir können das zum Laufen bringen.	हम यह काम कर सकते हैं।
 We can't go right now.	Wir können jetzt nicht gehen.	हम अभी नहीं जा सकते।
+We can't help Tom now.	Wir können Tom jetzt nicht helfen.	हम अब तॉम की मदद नहीं कर सकते।
+We can't help you now.	Wir können Ihnen jetzt nicht helfen.	हम अब आपकी मदद नहीं कर सकते।
+We can't just give up.	Wir können nicht einfach aufgeben.	हम सिर्फ छोड़ नहीं सकते।
+We can't promise that.	Wir können das nicht versprechen.	हम वादा नहीं कर सकते।
+We can't tow this car.	Wir können dieses Auto nicht abschleppen.	हम यह गाड़ी नहीं खींच सकते।
+We captured the thief.	Wir haben den Dieb gefangen genommen.	हमने चोर को पकड़ लिया।
+We caught three foxes.	Wir haben drei Füchse gefangen.	हमने तीन लोमड़ियां पकड़ीं।

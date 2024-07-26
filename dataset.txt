@@ -1,14 +1,4 @@
 
-We can't help Tom now.	Wir können Tom jetzt nicht helfen.	हम अब टॉम की मदद नहीं कर सकते।
-We can't help you now.	Wir können dir jetzt nicht helfen.	हम अब आपकी मदद नहीं कर सकते।
-We can't help you now.	Wir können Ihnen jetzt nicht helfen.	हम अब आपकी मदद नहीं कर सकते।
-We can't just give up.	Wir können nicht einfach so aufgeben.	हम सिर्फ हार नहीं मान सकते।
-We can't just give up.	Wir können nicht einfach so die Flinte ins Korn werfen.	हम सिर्फ बन्दूक को अनाज में नहीं फेंक सकते।
-We can't promise that.	Das können wir nicht versprechen.	हम वादा नहीं कर सकते।
-We can't tow this car.	Wir können diesen Wagen nicht ziehen.	हम इस कार को नहीं खींच सकते।
-We captured the thief.	Wir haben den Dieb geschnappt.	हमने चोर को पकड़ लिया।
-We caught three foxes.	Wir haben drei Füchse gefangen.	हमने तीन लोमड़ियों को पकड़ा।
-We caught three foxes.	Wir fingen drei Füchse.	हमने तीन लोमड़ियों को पकड़ा।
 We changed everything.	Wir haben alles verändert.	हमने सब कुछ बदल दिया है।
 We changed everything.	Wir haben alles geändert.	हमने सब कुछ बदल दिया है।
 We changed everything.	Wir veränderten alles.	हमने सब कुछ बदल दिया।
