@@ -1,14 +1,4 @@
 
-Nobody had an answer.	Niemand hatte eine Antwort.	किसी के पास कोई जवाब नहीं था।
-Nobody had an answer.	Eine Antwort hatte niemand.	किसी के पास कोई जवाब नहीं था।
-Nobody is interested.	Niemanden interessiert’s.	किसी को परवाह नहीं।
-Nobody lives forever.	Niemand lebt ewig.	कोई भी हमेशा के लिए नहीं रहता है।
-Nobody owns the moon.	Der Mond gehört niemandem.	चंद्रमा किसी से संबंधित नहीं है।
-Nobody saw Tom do it.	Niemand hat Tom dabei gesehen.	किसी ने टॉम को नहीं देखा।
-Nobody saw it coming.	Niemand hat es kommen sehen.	किसी ने इसे आते नहीं देखा।
-Nobody saw it coming.	Keiner hat es geahnt.	किसी को भी इस पर संदेह नहीं था।
-Nobody says anything.	Niemand sagt etwas.	कोई भी कुछ नहीं कहता है।
-Nobody spoke with me.	Niemand sprach mit mir.	मुझसे किसी ने नहीं कहा।
 Nobody supported her.	Niemand unterstützte sie.	किसी ने उनका समर्थन नहीं किया।
 Nobody was listening.	Es hörte niemand zu.	किसी ने नहीं सुना।
 Nobody's died so far.	Bisher ist noch niemand gestorben.	अब तक किसी की मौत नहीं हुई है।

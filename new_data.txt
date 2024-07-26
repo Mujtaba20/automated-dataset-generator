@@ -33186,3 +33186,11 @@ No one's watching me.	Niemand beobachtet mich.	कोई मुझे नही�
 No one's watching us.	Niemand beobachtet uns.	कोई हमें नहीं देख रहा है।
 Nobody calls me that.	Niemand nennt mich so.	कोई मुझे वैसा नाम नहीं देता।
 Nobody deserves that.	Niemand verdient das.	कोई उसके लिए योग्य नहीं है।
+Nobody had an answer.	Niemand hatte eine Antwort.	किसी के पास जवाब नहीं था।
+Nobody is interested.	Niemand interessiert sich.	किसी को भी दिलचस्पी नहीं है।
+Nobody lives forever.	Niemand lebt für immer.	कोई हमेशा तक नहीं रहता।
+Nobody owns the moon.	Niemand besitzt den Mond.	किसी के पास चांदनी नहीं है।
+Nobody saw Tom do it.	Niemand sah Tom es tun.	किसी ने टॉम को ऐसा करते हुए नहीं देखा।
+Nobody saw it coming.	Niemand hat es kommen sehen.	किसी ने यह आने वाला नहीं देखा।
+Nobody says anything.	Niemand sagt etwas.	कोई कुछ नहीं कहता।
+Nobody spoke with me.	Niemand sprach mit mir.	किसी ने मुझसे बात नहीं की।
