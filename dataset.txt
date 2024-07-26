@@ -1,14 +1,4 @@
 
-Tom seemed a bit angry.	Tom wirkte leicht verärgert.	टॉम थोड़ा परेशान लग रहा था।
-Tom seemed happy to me.	Auf mich machte Tom einen zufriedenen Eindruck.	टॉम ने मुझ पर एक संतुष्ट छाप छोड़ी।
-Tom seemed really busy.	Tom schien ziemlich beschäftigt zu sein.	टॉम बहुत व्यस्त लग रहा था।
-Tom seemed to be happy.	Tom schien glücklich zu sein.	टॉम खुश लग रहा था।
-Tom seemed to enjoy it.	Tom schien Spaß dabei zu haben.	टॉम को मज़ा आ रहा था।
-Tom seems pretty happy.	Tom scheint recht glücklich zu sein.	टॉम काफी खुश लग रहा है।
-Tom seems really happy.	Tom scheint sehr glücklich zu sein.	टॉम बहुत खुश लग रहा है।
-Tom seems to be asleep.	Tom scheint eingeschlafen zu sein.	लगता है कि टॉम सो गया है।
-Tom seems to be biased.	Tom scheint voreingenommen zu sein.	टॉम पक्षपाती लगता है।
-Tom seems to be honest.	Tom scheint ehrlich zu sein.	टॉम ईमानदार लगता है।
 Tom seems to be lonely.	Tom scheint einsam zu sein.	टॉम अकेला लगता है।
 Tom seems very nervous.	Tom scheint sehr nervös zu sein.	टॉम बहुत घबराया हुआ लगता है।
 Tom seldom wears a hat.	Tom trägt selten einen Hut.	टॉम शायद ही कभी टोपी पहनता है।
