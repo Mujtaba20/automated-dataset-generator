@@ -40760,3 +40760,13 @@ Tom thinks it's great.	Tom denkt, dass es großartig ist.	टॉम सोचत
 Tom thought otherwise.	Tom dachte anders.	टॉम ने अलग सोचा।
 Tom threw Mary a rope.	Tom warf Mary ein Seil.	टॉम ने मेरी को रस्सी फेंकी।
 Tom threw me an apple.	Tom warf mir einen Apfel.	टॉम ने मुझे एक सेब फेंका।
+Tom told Mary his age.	Tom hat Mary sein Alter erzählt.	टॉम ने मेरी को अपनी उम्र बताई।
+Tom told me he's cold.	Tom sagte mir, dass ihm kalt ist.	टॉम ने मुझसे कहा कि उसको ठंड लग रही है।
+Tom told me the truth.	Tom hat mir die Wahrheit gesagt.	टॉम ने मुझे सच्चाई बताई।
+Tom took a long drink.	Tom trank einen langen Schluck.	टॉम ने एक लंबी ड्रिंक ली।
+Tom took a sip of tea.	Tom nahm einen Schluck Tee.	टॉम ने चाय का एक चुस्की लिया।
+Tom took a wrong turn.	Tom hat einen falschen Weg genommen.	टॉम ने गलत मोड़ लिया।
+Tom took all my money.	Tom hat all mein Geld genommen.	टॉम ने मेरे सारे पैसे ले लिए।
+Tom took another bite.	Tom nahm einen weiteren Bissen.	टॉम ने एक और कटा लिया।
+Tom took care of Mary.	Tom kümmerte sich um Mary.	टॉम ने मेरी की देखभाल की।
+Tom took care of that.	Tom kümmerte sich darum.	टॉम ने उसकी देखभाल की।
