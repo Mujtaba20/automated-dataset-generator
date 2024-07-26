@@ -27644,3 +27644,10 @@ My life has changed.	Mein Leben ist anders geworden.	मेरा जीवन �
 My life was a wreck.	Mein Leben war ein Chaos.	मेरा जीवन एक बिगड़ता में था।
 My mom will kill me.	Meine Mutter wird mich umbringen.	मेरी माँ मुझे मार डालेगी।
 My money was stolen.	Mein Geld wurde gestohlen.	मेरा पैसा चोरी हो गया।
+My mother called me.	Meine Mutter hat mich telefonisch kontaktiert.	मेरी माँ ने मुझे कॉल किया।
+My mother is active.	Meine Mutter ist aktiv.	मेरी माँ सक्रिय है।
+My name is Tom, too.	Mein Name ist auch Tom.	मेरा नाम भी टॉम है।
+My neck still hurts.	Mein Hals schmerzt noch.	मेरा गला अभी भी दर्द कर रहा है।
+My neighbor is nice.	Mein Nachbar ist nett.	मेरा पड़ोसी अच्छा है।
+My new shoes squeak.	Meine neuen Schuhe quietschen.	मेरे नए जूते चींगनी करते हैं।
+My niece is a nurse.	Meine Nichte arbeitet als Krankenschwester.	मेरी भांजी एक नर्स है।
