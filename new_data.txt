@@ -27931,3 +27931,11 @@ She stopped smoking.	Sie hörte auf zu rauchen.	उसने धूम्रप�
 She stopped talking.	Sie hörte auf zu reden.	उसने बोलना बंद कर दिया।
 She studies English.	Sie studiert Englisch.	वह अंग्रेज़ी पढ़ती है।
 She teaches English.	Sie unterrichtet Englisch.	वह अंग्रेज़ी सिखाती है।
+She told him a joke.	Sie hat ihm einen Witz erzählt.	उसने उसे एक चुटकुला सुनाया।
+She traveled by bus.	Sie fuhr mit dem Bus.	उसने बस से सफर किया।
+She turned him down.	Sie hat ihn abgelehnt.	उसने उसे मना कर दिया।
+She understands him.	Sie versteht ihn.	उसे वह समझती है।
+She wants an iPad 4.	Sie möchte ein iPad 4.	उसे एक आईपैड 4 चाहिए।
+She was alone there.	Sie war allein dort.	वह वहाँ अकेली थी।
+She watched him eat.	Sie beobachtete ihn beim Essen.	उसने उसे खाते देखा।
+She went for a walk.	Sie machte einen Spaziergang.	वह सैर के लिए गई।
