@@ -33562,3 +33562,12 @@ engSentence7	Das ist ein preiswertes Geschäft.	यह एक सस्ती �
 engSentence8	Das ist eine gute Schule.	वह एक अच्छे स्कूल है।
 engSentence9	Das ist eine großartige Geschichte.	यह एक बढ़िया कहानी है।
 engSentence10	Ist das ein Witz, oder?	क्या यह मजाक है, सही है ना?
+That's a lovely idea.	Das ist eine schöne Idee.	यह एक प्यारी विचार है।
+That's a nice brooch.	Das ist eine hübsche Brosche.	वह एक अच्छी ब्रोच है।
+That's a pretty name.	Das ist ein hübscher Name.	वह एक सुंदर नाम है।
+That's a pretty tune.	Das ist eine hübsche Melodie.	यह एक सुंदर सिक्का है।
+That's a stupid idea.	Das ist eine dumme Idee.	यह एक मूर्ख विचार है।
+That's a wise choice.	Das ist eine kluge Wahl.	वह एक बुद्धिमान चुनौती है।
+That's a woman's job.	Das ist eine Frauenarbeit.	वह महिला का काम है।
+That's all Tom wants.	Das ist alles, was Tom will.	तोम की चाहत पूरी हो जाती है।
+That's all for today.	Das war alles für heute.	आज के लिए बस इतना ही था।
