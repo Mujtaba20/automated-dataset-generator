@@ -1,14 +1,4 @@
 
-Nobody can love him.	Niemand kann ihn lieben.	कोई भी उसे प्यार नहीं कर सकता।
-Nobody can stop Tom.	Niemand kann Tom aufhalten.	कोई भी टॉम को रोक नहीं सकता।
-Nobody cares for me.	Niemand kümmert sich um mich.	कोई भी मेरी देखभाल नहीं करता है।
-Nobody did anything.	Niemand tat etwas.	किसी ने कुछ नहीं किया।
-Nobody did anything.	Niemand hat etwas getan.	किसी ने कुछ नहीं किया है।
-Nobody even noticed.	Es ist noch nicht einmal bemerkt worden.	यह भी ध्यान नहीं दिया गया है।
-Nobody really knows.	Niemand weiß es wirklich.	वास्तव में कोई नहीं जानता।
-Nobody saw anything.	Niemand hat etwas gesehen.	किसी ने कुछ नहीं देखा।
-Nobody speaks to me.	Keiner spricht mit mir.	कोई भी मुझसे बात नहीं करता।
-Nobody waits for me.	Niemand wartet auf mich.	कोई भी मेरा इंतजार नहीं कर रहा है।
 Nobody's interested.	Niemanden interessiert’s.	किसी को परवाह नहीं।
 None of it was real.	Nichts davon war echt.	इसमें से कोई भी वास्तविक नहीं था।
 Not everyone agreed.	Nicht jeder stimmte zu.	हर कोई सहमत नहीं था।

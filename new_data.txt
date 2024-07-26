@@ -27713,3 +27713,13 @@ Nobody believed you.	Niemand hat dir geglaubt.	कोई ने तुम्ह�
 Nobody believes you.	Niemand hält dich für glaubwürdig.	कोई भी तुम्हे विश्वास नहीं करता।
 Nobody bowed to him.	Niemand verneigte sich vor ihm.	किसी ने उससे नमaskar नहि diya।
 Nobody can help you.	Niemand ist in der Lage dir zu helfen.	कोई भी तुम्हारी मदद नहीं कर सकता।
+Nobody can love him.	Niemand kann ihn lieben.	कोई उसे प्यार नहीं कर सकता।
+Nobody can stop Tom.	Niemand kann Tom stoppen.	कोई टॉम को रोक नहीं सकता।
+Nobody cares for me.	Niemand kümmert sich um mich.	कोई मेरे लिए चिंतित नहीं है।
+Nobody did anything.	Niemand hat etwas gemacht.	कोई कुछ नहीं किया।
+Nobody did anything. (different meaning)	Niemand tat etwas Falsches.	कोई कुछ गलत नहीं किया।
+Nobody even noticed.	Niemand hat es auch nur bemerkt.	कोई ने भी ध्यान नहीं दिया।
+Nobody really knows.	Niemand weiß wirklich.	कोई सचमुच नहीं जानता।
+Nobody saw anything.	Niemand hat etwas gesehen.	कोई कुछ नहीं देखा।
+Nobody speaks to me.	Niemand spricht mit mir.	कोई मेरे साथ नहीं बोलता।
+Nobody waits for me.	Niemand wartet auf mich.	कोई मेरे लिए इंतजार नहीं करता।
