@@ -37336,3 +37336,11 @@ I don't need your job.	Ich brauche deinen Job nicht.	मुझे तुम्�
 I don't often eat out.	Ich esse nicht oft auswärts.	मैं अक्सर बाहर खाना नहीं खाता।
 I don't play the oboe.	Ich spiele nicht das Oboe.	मैं ओबो का नृत्य नहीं करता हूं।
 I don't see Tom's car.	Ich sehe Toms Auto nicht.	मैं टॉम की कार नहीं देखता।
+I don't see a problem.	Ich sehe kein Problem.	मुझे कोई समस्या नहीं दिखाई देती।
+I don't shave my legs.	Ich rasiere meine Beine nicht.	मैं अपनी टांगें नहीं शेव करता।
+I don't sleep anymore.	Ich schlafe nicht mehr.	अब मैं सोता नहीं हूँ।
+I don't sleep so much.	Ich schlafe nicht so viel.	मैं इतना ज्यादा नहीं सोता।
+I don't speak Swedish.	Ich spreche kein Schwedisch.	मैं स्वीडिश नहीं बोलता।
+I don't think I snore.	Ich glaube nicht, dass ich schnarche.	मुझे लगता नहीं कि मैं खर्राता हूँ।
+I don't understand it.	Ich verstehe es nicht.	मुझे इसे समझ नहीं आता।
+I don't wanna go back.	Ich will nicht zurückgehen.	मैं वापस नहीं जाना चाहता।

@@ -1,14 +1,4 @@
 
-I don't see a problem.	Ich sehe kein Problem.	मुझे कोई समस्या नहीं है।
-I don't shave my legs.	Ich rasiere mir nicht die Beine.	मैं अपने पैरों को नहीं शेविंग कर रहा हूं।
-I don't sleep anymore.	Ich schlafe nicht mehr.	मैं अब नहीं सोता।
-I don't sleep so much.	Ich schlafe nicht so viel.	मैं इतना नहीं सोता।
-I don't speak Swedish.	Ich spreche kein Schwedisch.	मैं स्वीडिश नहीं बोलता।
-I don't think I snore.	Ich denke nicht, dass ich schnarche.	मुझे नहीं लगता कि मैं खर्राटे ले रहा हूं।
-I don't understand it.	Das verstehe ich nicht.	मुझे यह समझ में नहीं आता।
-I don't understand it.	Ich verstehe es nicht.	मुझे समझ में नहीं आया।
-I don't understand it.	Ich verstehe das nicht.	मैं नहीं समझता।
-I don't wanna go back.	Ich will nicht zurückgehen.	मैं वापस नहीं जाना चाहता।
 I don't want Tom here.	Ich brauche Tom hier nicht.	मुझे यहाँ टॉम की जरूरत नहीं है।
 I don't want a banana.	Ich will keine Banane.	मुझे केला नहीं चाहिए।
 I don't want an apple.	Ich will keinen Apfel.	मुझे सेब नहीं चाहिए।
