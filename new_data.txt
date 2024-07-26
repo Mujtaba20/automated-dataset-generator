@@ -34956,3 +34956,12 @@ Tom was a bad person.	Tom war eine schlechte Person.	टॉम एक बुर�
 Tom was a journalist.	Tom war ein Journalist.	टॉम एक पत्रकार था।
 Tom was a lumberjack.	Tom war ein Holzfäller.	टॉम एक लकड़हारा था।
 Tom was all worn out.	Tom war völlig erschöpft.	टॉम पूरी तरह से थक गया था।
+Tom was almost blind.	Tom war fast blind.	टॉम लगभग अंधा था।
+Tom was always happy.	Tom war immer glücklich.	टॉम हमेशा खुश रहता था।
+Tom was always there.	Tom war immer da.	टॉम हमेशा वहाँ था।
+Tom was buried alive.	Tom wurde lebendig begraben.	टॉम को ज़िंदा दफ़न कर दिया गया था।
+Tom was busy all day.	Tom war den ganzen Tag beschäftigt.	टॉम पूरे दिन काम में व्यस्त रहता था।
+Tom was clean-shaven.	Tom war frisch rasiert.	टॉम बिना दाढ़ी वाला था।
+Tom was disappointed.	Tom war enttäuscht.	टॉम निराश था।
+Tom was electrocuted.	Tom wurde elektrisiert.	टॉम को विद्युत की चपेट में आने के कारण मौत हो गई।
+Tom was found guilty.	Tom wurde schuldig befunden.	टॉम को दोषी पाया गया।
