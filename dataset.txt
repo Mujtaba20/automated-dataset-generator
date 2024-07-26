@@ -1,14 +1,4 @@
 
-Hand that hammer to me.	Gib mir mal den Hammer!	मुझे हथौड़ा दो!
-Hang your clothes here.	Hänge deine Sachen hier auf!	अपनी चीजों को यहाँ लटकाओ!
-Hang your clothes here.	Hänge deine Kleidung hier auf!	अपने कपड़े यहाँ लटकाओ!
-Has Flight 123 arrived?	Ist der Flug 123 angekommen?	क्या उड़ान 123 आ गई है?
-Has Tom eaten anything?	Hat Tom irgendetwas gegessen?	क्या टॉम ने कुछ खाया?
-Has Tom kissed you yet?	Hat dich Tom schon geküsst?	टॉम पहले से ही तुम्हें चूमा है?
-Has Tom studied French?	Hat Tom Französisch gelernt?	क्या टॉम ने फ्रेंच सीखा?
-Has he arrived already?	Er ist schon da?	वह पहले से ही वहाँ है?
-Has it stopped raining?	Hat der Regen aufgehört?	क्या बारिश रुक गई?
-Has prison changed him?	Hat das Gefängnis ihn verändert?	क्या जेल ने उसे बदल दिया है?
 Has something happened?	Ist etwas passiert?	कुछ हुआ?
 Has the world gone mad?	Ist die Welt verrückt geworden?	क्या दुनिया पागल हो गई है?
 Hasn't Tom arrived yet?	Ist Tom noch immer nicht da?	क्या टॉम अभी भी नहीं है?
