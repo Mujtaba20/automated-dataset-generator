@@ -1,14 +1,4 @@
 
-I'm writing a book.	Ich schreibe ein Buch.	मैं एक किताब लिख रहा हूं।
-I'm writing a book.	Ich schreibe gerade ein Buch.	मैं सिर्फ एक किताब लिख रहा हूं।
-I'm writing to Tom.	Ich schreibe an Tom.	मैं टॉम को लिखता हूं।
-I've already tried.	Ich habe es schon versucht.	मैंने पहले ही कोशिश की है।
-I've been deceived.	Ich bin getäuscht worden.	मुझे धोखा दिया गया था।
-I've caught a cold.	Ich habe mir eine Erkältung zugezogen.	मैंने एक ठंड का अनुबंध किया।
-I've cut my finger.	Ich habe mir in den Finger geschnitten.	मैंने अपनी उंगलियां काट दीं।
-I've gained weight.	Ich habe zugenommen.	मैंने वजन बढ़ाया है।
-I've got a problem.	Ich habe da ein Problem.	मुझे एक समस्या है।
-I've got a problem.	Ich habe ein Problem.	मुझे एक समस्या है।
 I've got big hands.	Ich habe große Hände.	मेरे बड़े हाथ हैं।
 I've got good news.	Ich habe eine gute Nachricht.	मेरे पास अच्छी खबर है।
 I've got long hair.	Ich habe lange Haare.	मेरे लंबे बाल हैं।

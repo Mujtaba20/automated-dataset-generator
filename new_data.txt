@@ -22079,3 +22079,11 @@ I'm very satisfied.	Ich bin sehr zufrieden.	मैं बहुत संतु�
 I'm very surprised.	Ich bin sehr überrascht.	मैं बहुत हैरान हूं।
 I'm very tired now.	Ich bin jetzt sehr müde.	मैं अब बहुत थक गया हूँ।
 I'm wide awake now.	Ich bin jetzt hellwach.	मैं अब जागरूक हूं।
+I'm writing a book.	Ich schreibe ein Buch.	मैं एक किताब लिख रहा हूँ।
+I'm writing to Tom.	Ich schreibe an Tom.	मैं टॉम को लिख रहा हूँ।
+I've already tried.	Ich habe es schon versucht.	मैंने पहले से ही कोशिश की थी।
+I've been deceived.	Ich bin hintergangen worden.	मुझे धोखा दिया गया है।
+I've caught a cold.	Ich habe eine Erkältung bekommen.	मुझे सर्दी लग गई है।
+I've cut my finger.	Ich habe mir in den Finger geschnitten.	मैंने अपनी उँगली काट ली है।
+I've gained weight.	Ich habe zugenommen.	मैंने वजन बढ़ा लिया है।
+I've got a problem.	Ich habe ein Problem.	मेरे पास समस्या है।
