@@ -1,14 +1,4 @@
 
-What's wrong with me?	Was stimmt nicht mit mir?	क्या गलत है मेरे साथ?
-What's your analysis?	Wie fällt deine Analyse aus?	आपका विश्लेषण कैसे विफल होता है?
-What's your analysis?	Wie fällt Ihre Analyse aus?	आपका विश्लेषण क्या है?
-What's your analysis?	Wie fällt eure Analyse aus?	आपका विश्लेषण कैसा है?
-What's your decision?	Wie hast du entschieden?	आपने कैसे फैसला किया?
-What's your decision?	Wie haben Sie entschieden?	आपने कैसे फैसला किया?
-What's your decision?	Wie habt ihr entschieden?	आपने कैसे फैसला किया?
-What's your location?	Wo bist du?	आप कहां हैं?
-What's your location?	Wo seid ihr?	आप कहां हैं?
-What's your location?	Wo sind Sie?	वे कहां हैं?
 What's your nickname?	Was ist dein Spitzname?	आपका उपनाम क्या है?
 What's your nickname?	Was ist Ihr Spitzname?	आपका उपनाम क्या है?
 What's your question?	Wie lautet deine Frage?	आपका प्रश्न क्या है?

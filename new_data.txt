@@ -35460,3 +35460,7 @@ What's the plan, Tom?	Was ist der Plan, Tom?	योजना क्या है
 What's their purpose?	Was ist ihr Zweck?	उनका उद्देश्य क्या है?
 What's this used for?	Wofür wird das benutzt?	यह किसके लिए उपयोग किया जाता है?
 What's wrong with it?	Was ist damit falsch?	इसमें क्या गड़बड़ है?
+What's wrong with me?	Was ist los mit mir?	मुझमें क्या ग़लती है?
+What's your analysis?	Was ist Ihre Analyse?	आपका विश्लेषण क्या है?
+What's your decision?	Was ist Ihre Entscheidung?	आपका निर्णय क्या है?
+What's your location?	Wo sind Sie?	आपकी स्थिति क्या है?
