@@ -1,14 +1,4 @@
 
-Mars has two moons.	Der Mars hat zwei Monde.	मंगल के दो चंद्रमा हैं।
-Mary has nice legs.	Mary hat hübsche Beine.	मैरी के पास सुंदर पैर हैं।
-Mary iced the cake.	Mary glasierte den Kuchen.	मैरी ने केक को चमकाया।
-Mary is Tom's wife.	Marie ist Toms Frau.	मैरी टॉम की पत्नी है।
-Mary is Tom's wife.	Mary ist Toms Frau.	मैरी टॉम की पत्नी है।
-Mary is Tom's wife.	Mary ist Toms Ehefrau.	मैरी टॉम की पत्नी है।
-Mary is a bad girl.	Maria ist ein böses Mädchen.	मारिया एक बुरी लड़की है।
-Mary is a waitress.	Maria ist Kellnerin.	मारिया एक वेट्रेस है।
-Mary is attractive.	Maria ist attraktiv.	मारिया आकर्षक है।
-Mary is hysterical.	Maria ist hysterisch.	मारिया हिस्टेरिकल है।
 Mary loves flowers.	Mary liebt Blumen.	मैरी को फूल बहुत पसंद हैं।
 Mary sings soprano.	Maria singt Sopran.	मारिया सोप्रानो गाती है।
 Mary was beautiful.	Maria war schön.	मारिया सुंदर थी।

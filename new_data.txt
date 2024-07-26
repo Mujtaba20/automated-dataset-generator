@@ -22469,3 +22469,11 @@ Luck is against me.	Das Glück ist gegen mich.	भाग्य मेरे ख�
 Luckily, it worked.	Glücklicherweise hat es funktioniert.	भाग्य से, यह काम कर गया।
 Make it short, Tom.	Mach es kurz, Tom.	इसे छोटे करें, टॉम।
 Make love, not war.	Mache Liebe, nicht Krieg.	प्रेम करें, युद्ध न करें।
+Mars has two moons.	Mars hat zwei Monde.	मंगल ग्रह के दो चांद हैं।
+Mary has nice legs.	Maria hat schöne Beine.	मेरी के पैर अच्छे हैं।
+Mary iced the cake.	Maria hat den Kuchen vereist.	मेरी ने केक पर बर्फ रखी।
+Mary is Tom's wife.	Maria ist die Frau von Tom.	मेरी टॉम की पत्नी है।
+Mary is a bad girl.	Maria ist ein böses Mädchen.	मेरी एक बुरी लड़की है।
+Mary is a waitress.	Maria ist eine Kellnerin.	मेरी एक वेट्रेस है।
+Mary is attractive.	Maria ist attraktiv.	मेरी आकर्षक है।
+Mary is hysterical.	Maria ist hysterisch.	मेरी व्याकुल है।
