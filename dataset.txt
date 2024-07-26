@@ -1,14 +1,4 @@
 
-You alone can help me.	Du allein kannst mir helfen.	आप अकेले मेरी मदद कर सकते हैं।
-You always seem tired.	Du scheinst immerzu müde zu sein.	आप हमेशा थके हुए लगते हैं।
-You and I are cousins.	Du und ich sind Cousins.	आप और मैं चचेरे भाई हैं।
-You are a good person.	Du bist ein guter Mensch.	आप एक अच्छे व्यक्ति हैं।
-You are a good person.	Sie sind ein guter Mensch.	आप एक अच्छे व्यक्ति हैं।
-You are a mean person.	Du bist eine gemeine Person.	आप एक आम व्यक्ति हैं।
-You are not a student.	Du bist kein Student.	आप छात्र नहीं हैं।
-You are not logged in.	Sie sind nicht eingeloggt.	आपने लॉग - इन नहीं किया।
-You are strong-minded.	Du bist willensstark.	आप मजबूत हैं।
-You are very arrogant.	Sie sind sehr arrogant.	वे बहुत घमंडी हैं।
 You came home at 5:00.	Sie sind um 5:00 Uhr nach Hause gekommen.	आप सुबह 5:00 बजे घर आए थे।
 You came just in time.	Du bist gerade rechtzeitig gekommen.	आप बस समय में आए थे।
 You can make your own.	Du kannst dir selbst einen machen.	आप खुद एक कर सकते हैं।
