@@ -1,15 +1,4 @@
 
-Who is your mother?	Wer ist deine Mutter?	तुम्हारी माँ कौन है?
-Who listens to Tom?	Wer hört Tom zu?	टॉम को कौन सुनता है?
-Who made Tom leave?	Wer hat Tom weggeschickt?	टॉम को किसने भेजा?
-Who made the rules?	Wer hat die Regeln aufgestellt?	नियम किसने स्थापित करते हैं?
-Who made this cake?	Wer hat diesen Kuchen gemacht?	यह केक किसने बनाया?
-Who made this cake?	Wer hat diesen Kuchen gebacken?	इस केक को किसने बेक किया?
-Who owns this land?	Wem gehört dieses Land?	यह देश किसका है?
-Who owns this ship?	Wer ist der Eigner dieses Schiffs?	इस जहाज का मालिक कौन है?
-Who took the money?	Wer hat das Geld genommen?	पैसे किसने लिया?
-Who was in the car?	Wer war im Auto?	कार में कौन था?
-Who was in the car?	Wer war in dem Auto?	कार में कौन था?
 Who washed the car?	Wer hat das Auto gewaschen?	कार को किसने धोया?
 Who would buy this?	Wer würde das kaufen?	वह कौन खरीदेगा?
 Who wrote the book?	Wer hat das Buch geschrieben?	किताब किसने लिखी?

@@ -24707,3 +24707,12 @@ Who gave the order?	Wer hat den Befehl gegeben?	किसने आदेश द
 Who is visiting us?	Wer besucht uns?	कौन हमें देखने आ रहा है?
 Who is your friend?	Wer ist dein Freund?	तुम्हारा दोस्त कौन है?
 Who is your lawyer?	Wer ist dein Anwalt?	तुम्हारा वकील कौन है?
+Who is your mother?	Wer ist deine Mutter?	तुम्हारी माँ कौन है?
+Who listens to Tom?	Wer hört Tom zu?	किसने Tom ko suna?
+Who made Tom leave?	Wer hat Tom gehen lassen?	किसने Tom ko chale jaane diya?
+Who made the rules?	Wer hat die Regeln aufgestellt?	नियम किसने बनाए?
+Who made this cake?	Wer hat diesen Kuchen gemacht?	इस केक को कौन बनाया?
+Who owns this land?	Wem gehört dieses Land?	इस भूमि का मालिक कौन है?
+Who owns this ship?	Wem gehört dieses Schiff?	इस जहाज का मालिक कौन है?
+Who took the money?	Wer hat das Geld genommen?	किसने पैसे लिए?
+Who was in the car?	Wer war im Auto?	कार में कौन था?
