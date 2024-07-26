@@ -32969,3 +32969,11 @@ Lend me your bicycle.	Leih mir dein Fahrrad.	मुझे अपनी साइ
 Let go of the bottle.	Lass die Flasche los.	बोतल छोड़ दो।
 Let me call you back.	Lass mich dich zurückrufen.	मुझे तुम्हें वापस कॉल करने दो।
 Let me get my wallet.	Lass mich meine Brieftasche holen.	मुझे मेरी बटुआ लेने दो।
+Let me get your bags.	Lass mich deine Taschen holen.	मुझे आपके बैग लेने दें।
+Let me say one thing.	Lass mich etwas sagen.	मुझे एक बात कहने दो।
+Let me see that list.	Lass mich diese Liste sehen.	मुझे उस सूची को देखने दो।
+Let me see you again.	Lass mich dich wiedersehen.	मुझे तुम्हें फिर से देखने दो।
+Let me see your palm.	Lass mich deine Handfläche sehen.	मुझे तुम्हारी हाथ की थकनी दो।
+Let me see your ring.	Lass mich deinen Ring sehen.	मुझे तुम्हारी अंगूठी दिखाओ।
+Let me take a gander.	Lass mich einen Blick werfen.	मुझे एक टटोलने दो।
+Let me take you home.	Lass mich dich nach Hause bringen.	मुझे तुम्हें घर लेने दो।
