@@ -36062,3 +36062,10 @@ Are they all the same?	Sind sie alle gleich?	क्या वे सभी ए�
 Are they still in bed?	Liegen sie immer noch im Bett?	क्या वे अभी भी बिस्तर में हैं?
 Are they your friends?	Sind sie deine Freunde?	क्या वे तुम्हारे दोस्त हैं?
 Are things going well?	Geht es gut?	क्या चीजें अच्छे जा रहे हैं?
+Are those Tom's shoes?	Sind das Toms Schuhe?	क्या वे टॉम के जूते हैं?
+Are those apples ripe?	Sind diese Äpfel reif?	क्या वे सेब पके हुए हैं?
+Are those my earrings?	Sind das meine Ohrringe?	क्या ये मेरी कान की बालियां हैं?
+Are we going to be OK?	Wird es uns gut gehen?	क्या हम ठीक हो जाएंगे?
+Are you Tom's brother?	Bist du Toms Bruder?	क्या तुम टॉम के भाई हो?
+Are you a good dancer?	Bist du ein guter Tänzer?	क्या तुम एक अच्छे नृत्यकार हो?
+Are you a good dancer? (different meaning)	Bist du ein guter Tänzer?	क्या तुम एक अच्छे नृत्यकार हो?

@@ -1,15 +1,4 @@
 
-Are those Tom's shoes?	Sind das Toms Schuhe?	क्या ये टॉम्स शूज़ हैं?
-Are those apples ripe?	Sind die Äpfel da reif?	क्या सेब वहाँ पके हैं?
-Are those my earrings?	Sind das meine Ohrringe?	क्या ये मेरे झुमके हैं?
-Are we going to be OK?	Werden wir okay sein?	क्या हम ठीक होंगे?
-Are you Tom's brother?	Bist du Toms Bruder?	क्या आप टॉम के भाई हैं?
-Are you a good dancer?	Kannst du gut tanzen?	क्या आप अच्छा नृत्य कर सकते हैं?
-Are you a good dancer?	Sind Sie ein guter Tänzer?	आप एक अच्छे नर्तक हैं?
-Are you a good dancer?	Können Sie gut tanzen?	क्या आप अच्छा नृत्य कर सकते हैं?
-Are you a good dancer?	Bist du ein guter Tänzer?	आप एक अच्छे नर्तक हैं?
-Are you a good dancer?	Bist du eine gute Tänzerin?	आप एक अच्छे नर्तक हैं?
-Are you a good dancer?	Sind Sie eine gute Tänzerin?	आप एक अच्छे नर्तक हैं?
 Are you a new student?	Bist du ein neuer Student?	क्या तुम एक नए छात्र हो?
 Are you a real doctor?	Bist du wirklich Arzt?	क्या आप वास्तव में एक डॉक्टर हैं
 Are you a taxi driver?	Sind Sie Taxifahrer?	क्या आप टैक्सी ड्राइवर हैं?
