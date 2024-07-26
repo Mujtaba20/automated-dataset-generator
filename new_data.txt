@@ -29144,3 +29144,13 @@ Tom may be innocent.	Tom könnte unschuldig sein.	टॉम मासूम ह�
 Tom may leave early.	Tom könnte früh gehen.	टॉमजल्दी जा सकता है।
 Tom may not do that.	Tom könnte das nicht tun.	टॉमयह न कर सकता है।
 Tom may not make it.	Tom schafft es vielleicht nicht.	टॉमयह नहीं कर सकता।
+Tom might accept it.	Tom könnte es akzeptieren.	टॉम इसे स्वीकार कर सकता है।
+Tom might be hungry.	Tom könnte hungrig sein.	टॉम भूखा हो सकता है।
+Tom might invite us.	Tom könnte uns einladen.	टॉम हमें आमंत्रित कर सकता है।
+Tom misses his wife.	Tom vermisst seine Frau.	टॉम अपनी पत्नी को याद करता है।
+Tom moved the chair.	Tom hat den Stuhl bewegt.	टॉम ने कुर्सी को हिला दिया।
+Tom moved to Boston.	Tom ist nach Boston gezogen.	टॉम बॉस्टन चला गया।
+Tom moved to Europe.	Tom ist nach Europa gezogen.	टॉम यूरोप चला गया।
+Tom must've escaped.	Tom muss entkommen sein.	टॉम को भाग जाना चाहिए था।
+Tom needed a hammer.	Tom brauchte einen Hammer.	टॉम को एक हथौड़ा चाहिए था।
+Tom needs a haircut.	Tom braucht einen Haarschnitt.	टॉम को बाल कटवाने की जरूरत है।

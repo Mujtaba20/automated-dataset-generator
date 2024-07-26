@@ -1,14 +1,4 @@
 
-Tom might accept it.	Vielleicht akzeptiert Tom es ja.	शायद टॉम इसे स्वीकार करता है।
-Tom might be hungry.	Tom hat vielleicht Hunger.	शायद टॉम भूखा है।
-Tom might invite us.	Vielleicht lädt uns Tom ja ein.	शायद टॉम हमें आमंत्रित करता है।
-Tom misses his wife.	Tom vermisst seine Frau.	टॉम ने अपनी पत्नी को याद किया।
-Tom moved the chair.	Tom rückte den Stuhl.	टॉम ने कुर्सी को स्थानांतरित कर दिया।
-Tom moved to Boston.	Tom zog nach Boston.	टॉम बोस्टन चले गए।
-Tom moved to Europe.	Tom ist nach Europa gezogen.	टॉम यूरोप चले गए।
-Tom must've escaped.	Tom muss entkommen sein.	टॉम बच गया होगा।
-Tom needed a hammer.	Tom brauchte einen Hammer.	टॉम को एक हथौड़ा की जरूरत थी।
-Tom needs a haircut.	Tom muss mal wieder zum Friseur.	टॉम को फिर से हेयरड्रेसर के पास जाना है।
 Tom needs new shoes.	Tom braucht neue Schuhe.	टॉम को नए जूते चाहिए।
 Tom needs some cash.	Tom braucht Bares.	टॉम को नकद चाहिए।
 Tom needs some rest.	Tom muss sich etwas ausruhen.	टॉम को आराम करना है।
