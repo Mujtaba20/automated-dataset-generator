@@ -1,14 +1,4 @@
 
-Tom was unkind to Mary.	Tom war unfreundlich zu Maria.	टॉम मारिया के साथ अनफ्रेंडली थे।
-Tom was very ambitious.	Tom war sehr ehrgeizig.	टॉम बहुत महत्वाकांक्षी था।
-Tom was very confident.	Tom war sehr selbstbewusst.	टॉम बहुत आश्वस्त था।
-Tom was very depressed.	Tom war sehr deprimiert.	टॉम बहुत उदास था।
-Tom was very insistent.	Tom war sehr beharrlich.	टॉम बहुत लगातार था।
-Tom was very skeptical.	Tom war sehr skeptisch.	टॉम बहुत उलझन में था।
-Tom was very surprised.	Tom war sehr überrascht.	टॉम बहुत हैरान था।
-Tom was very talkative.	Tom war sehr redselig.	टॉम बहुत बातूनी था।
-Tom was wearing a kilt.	Tom trug einen Kilt.	टॉम ने एक किल्ट पहना था।
-Tom was wearing a mask.	Tom trug eine Maske.	टॉम ने मास्क पहना था।
 Tom was wearing gloves.	Tom hatte Handschuhe an.	टॉम दस्ताने पर था।
 Tom was wearing shorts.	Tom trug eine kurze Hose.	टॉम ने एक शॉर्ट्स पहना था।
 Tom was wearing shorts.	Tom hat eine kurze Hose an.	टॉम के पास एक छोटी पतलून है।
