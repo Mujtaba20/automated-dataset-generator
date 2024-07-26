@@ -39895,3 +39895,13 @@ Tom came into my room.	Tom kam in mein Zimmer.	टॉम मेरे कमर�
 Tom came to live here.	Tom kam hierher, um zu leben.	टॉम यहाँ रहने आया।
 Tom came to my rescue.	Tom kam zu meiner Rettung.	टॉम मेरी मदद के लिए आया।
 Tom can be counted on.	Man kann sich auf Tom verlassen.	टॉम पर भरोसा किया जा सकता है।
+Tom can keep a secret.	Tom kann ein Geheimnis bewahren.	टॉम एक राज़ रख सकता है।
+Tom can run very fast.	Tom kann sehr schnell rennen.	टॉम बहुत तेज दौड़ सकता है।
+Tom can't afford that.	Tom kann sich das nicht leisten.	टॉम उसे संभाल नहीं सकता।
+Tom can't afford this.	Tom kann sich das nicht leisten.	टॉम इसे संभाल नहीं सकता।
+Tom can't answer that.	Tom kann das nicht beantworten.	टॉम उसका जवाब नहीं दे सकता।
+Tom can't do it alone.	Tom kann es nicht alleine machen.	टॉम यह अकेले नहीं कर सकता।
+Tom can't drive a car.	Tom kann kein Auto fahren.	टॉम कार नहीं चला सकता।
+Tom can't forget Mary.	Tom kann Mary nicht vergessen.	टॉम मेरी को भूल नहीं सकता।
+Tom can't go anywhere.	Tom kann nirgendwo hingehen.	टॉम कहीं नहीं जा सकता।
+Tom can't read French.	Tom kann kein Französisch lesen.	टॉम फ्रेंच नहीं पढ़ सकता।

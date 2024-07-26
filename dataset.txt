@@ -1,14 +1,4 @@
 
-Tom can keep a secret.	Tom kann ein Geheimnis bewahren.	टॉम एक रहस्य रख सकता है।
-Tom can run very fast.	Tom kann sehr schnell rennen.	टॉम बहुत जल्दी दौड़ सकते हैं।
-Tom can't afford that.	Tom kann sich das nicht leisten.	टॉम वह बर्दाश्त नहीं कर सकता।
-Tom can't afford this.	Tom kann sich das nicht leisten.	टॉम वह बर्दाश्त नहीं कर सकता।
-Tom can't answer that.	Tom kann das nicht beantworten.	टॉम इसका जवाब नहीं दे सकता।
-Tom can't do it alone.	Tom schafft das nicht allein.	टॉम अकेले ऐसा नहीं करता है।
-Tom can't drive a car.	Tom kann nicht Auto fahren.	टॉम एक कार नहीं चला सकता।
-Tom can't forget Mary.	Tom kann Maria nicht vergessen.	टॉम मारिया को नहीं भूल सकता।
-Tom can't go anywhere.	Tom kann nirgendwohin.	टॉम कहीं नहीं हो सकता।
-Tom can't read French.	Tom kann kein Französisch lesen.	टॉम फ्रेंच नहीं पढ़ सकता।
 Tom can't swim at all.	Tom kann überhaupt nicht schwimmen.	टॉम बिल्कुल भी तैर नहीं सकता।
 Tom carved the turkey.	Tom zerlegte den Truthahn.	टॉम ने तुर्की को नष्ट कर दिया।
 Tom caught a big fish.	Tom hat einen großen Fisch gefangen.	टॉम ने एक बड़ी मछली पकड़ ली।
