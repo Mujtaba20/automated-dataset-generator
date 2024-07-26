@@ -39451,3 +39451,12 @@ The crow cawed loudly.	Die Krähe krächzte laut.	कौआ जोर से क
 The crowd calmed down.	Die Menge beruhigte sich.	भीड़ शांत हो गई।
 The danger is minimal.	Die Gefahr ist minimal.	खतरा कम है।
 The data was accurate.	Die Daten waren genau.	डेटा सटीक था।
+The decision is final.	Die Entscheidung ist endgültig.	निर्णय अंतिम है।
+The decision is yours.	Die Entscheidung liegt bei dir.	निर्णय तुम्हारा है।
+The decision is yours. 2	Die Wahl liegt bei Ihnen.	निर्णय आपका है।
+The die has been cast.	Die Würfel sind gefallen.	मौका गंवाने के बाद रोना पड़ेगा।
+The dog growled at me.	Der Hund knurrte mich an.	कुत्ता मुझपर भोंका।
+The dog is biting Tom.	Der Hund beißt Tom.	कुत्ता टॉम को काट रहा है।
+The door creaked open.	Die Tür knarrte auf.	दरवाजा क्रीक करते हुए खुल गया।
+The door doesn't lock.	Die Tür lässt sich nicht verschließen.	दरवाजा नहीं बंधता है।
+The door slammed shut.	Die Tür wurde zugeschlagen.	दरवाजा जोर से बंद हो गया।

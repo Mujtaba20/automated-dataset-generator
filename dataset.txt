@@ -1,15 +1,4 @@
 
-The decision is final.	Die Entscheidung ist endgültig.	निर्णय अंतिम है।
-The decision is yours.	Die Entscheidung liegt bei dir.	इसका निर्णय आपको करना है।
-The decision is yours.	Die Entscheidung liegt bei euch.	निर्णय आपके साथ है।
-The decision is yours.	Die Entscheidung liegt bei Ihnen.	इसका निर्णय आपको करना है।
-The die has been cast.	Der Würfel ist gefallen.	पासा गिरा है।
-The dog growled at me.	Der Hund knurrte mich an.	कुत्ता मुझ पर बढ़ गया।
-The dog is biting Tom.	Der Hund beißt Tom.	कुत्ता काटता है टॉम।
-The door creaked open.	Die Tür ging knarrend auf.	दरवाजा चकित हो गया।
-The door doesn't lock.	Die Tür lässt sich nicht abschließen.	दरवाजा बंद नहीं किया जा सकता है।
-The door slammed shut.	Die Tür schlug zu.	दरवाजा मारा।
-The door slammed shut.	Die Tür ist zugefallen.	दरवाजा बंद था।
 The doors were closed.	Die Türen waren geschlossen.	दरवाजे बंद थे।
 The end came suddenly.	Das Ende kam plötzlich.	अंत अचानक आ गया।
 The engine is purring.	Der Motor brummt.	इंजन हम्स।
