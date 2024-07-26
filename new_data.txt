@@ -26956,3 +26956,9 @@ I'll make you happy.	Ich werde dich glücklich machen.	मैं तुम्ह
 I'll need some help.	Ich werde etwas Hilfe brauchen.	मुझे कुछ मदद की जरूरत होगी।
 I'll need your help.	Ich werde deine Hilfe benötigen.	मुझे तुम्हारी मदद की जरूरत होगी।
 I'll never go there.	Ich werde niemals dorthin gehen.	मैं वहाँ कभी नहीं जाऊंगा।
+I'll never help you.	Ich werde dir nie helfen.	मैं कभी भी तुम्हारी मदद नहीं करूँगा।
+I'll never tell you.	Ich werde es dir nie sagen.	मैं कभी तुम्हें नहीं बताऊँगा।
+I'll read it to you.	Ich werde es dir vorlesen.	मैं यह तुम्हें पढ़ूँगा।
+I'll read this book.	Ich werde dieses Buch lesen.	मैं यह पुस्तक पढ़ूँगा।
+I'll return at 6:30.	Ich werde um 6:30 zurückkehren.	मैं 6:30 बजे वापस आऊँगा।
+I'll see how Tom is.	Ich werde sehen, wie es Tom geht.	मैं देखूँगा कि Tom कैसा है।

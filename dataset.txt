@@ -1,15 +1,4 @@
 
-I'll never help you.	Ich werde dir nie helfen.	मैं आपकी मदद नहीं करूंगा।
-I'll never tell you.	Ich werde es dir nie sagen.	मैं आपको कभी नहीं बताऊंगा।
-I'll read it to you.	Ich werde es dir vorlesen.	मैं इसे आपको पढ़ूंगा।
-I'll read it to you.	Ich werde es euch vorlesen.	मैं इसे आपको पढ़ूंगा।
-I'll read it to you.	Ich werde es Ihnen vorlesen.	मैं इसे आपको पढ़ूंगा।
-I'll read this book.	Ich werde dieses Buch lesen.	मैं इस पुस्तक को पढ़ूंगा।
-I'll return at 6:30.	Ich komme um halb sieben zurück.	मैं आधे पिछले नौ में वापस आता हूं।
-I'll return at 6:30.	Ich komme um 6.30 Uhr zurück.	मैं 6.30 बजे वापस आता हूं।
-I'll return at 6:30.	Ich komme um sechs Uhr dreißig zurück.	मैं छह तीस पर वापस आता हूं।
-I'll see how Tom is.	Ich werde sehen, wie Tom ist.	मैं देखूंगा कि टॉम कैसा है।
-I'll see how Tom is.	Ich werde sehen, wie es Tom geht.	मैं देखूंगा कि टॉम कैसे कर रहा है।
 I'll see you Monday.	Wir sehen uns Montag.	सोमवार को मिलते है।
 I'll see you Monday.	Ich seh dich am Montag.	मैं आपको सोमवार को देखता हूं।
 I'll see you around.	Wir sehen uns!	फिर मिलते हैं!
