@@ -39235,3 +39235,13 @@ Stop bad mouthing Tom.	Hör auf, über Tom zu lästern.	टॉम की बु�
 Stop being a nuisance!	Hör auf, eine Belästigung zu sein!	परेशानी न डालो!
 Stop blaming yourself.	Hör auf, dich selbst zu beschuldigen.	खुद को दोष देना बंद करो।
 Stop flirting with me.	Hör auf, mit mir zu flirten.	मेरे साथ इश्क़ छेड़ना बंद करो।
+Stop listening to Tom.	Hör auf, Tom zuzuhören.	टॉम की सुनना बंद करो।
+Stop swearing, please.	Höre bitte auf zu fluchen.	कृपया कोसना बंद करो।
+Strange things happen.	Seltsame Dinge passieren.	अजीब चीजें होती हैं।
+Strange things happen. (different meaning)	Merkwürdige Sachen geschehen.	अजीब बातें होती हैं।
+Study these sentences.	Studiere diese Sätze.	इन वाक्यों का अध्ययन करें।
+Summer has come early.	Der Sommer ist früh gekommen.	गर्मी जल्दी आ गई है।
+Summer has just begun.	Der Sommer hat gerade begonnen.	गर्मी अभी-अभी शुरू हुई है।
+Summer has just begun. (different meaning)	Der Sommer fing gerade an.	गर्मी अभी-अभी शुरू हुई है।
+Summer is almost over.	Der Sommer ist fast vorbei.	गर्मी लगभग खत्म होने वाली है।
+Supper's getting cold.	Das Abendessen wird kalt.	रात का खाना ठंडा हो रहा है।
