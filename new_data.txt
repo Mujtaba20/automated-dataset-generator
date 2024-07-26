@@ -35373,3 +35373,11 @@ engSentence7	Was hat das Feuer verursacht?	आग को किसने पै�
 engSentence8	Was hat das Feuer verursacht?	आग का क्या कारण था?
 engSentence9	Was hat das Feuer verursacht?	आग कहाँ से आयी थी?
 engSentence10	Welcher Tag ist heute?	आज कौन सा दिन है?
+What did Bell invent?	Was hat Bell erfunden?	बेल ने क्या आविष्कार किया था?
+What did Tom do then?	Was tat Tom dann?	तोम ने फिर क्या किया था?
+What did you call me?	Was haben Sie mich genannt?	तुमने मुझे कैसे बुलाया?
+What did you do then?	Was hast du dann gemacht?	तुमने तब क्या किया था?
+What did you guys do?	Was habt ihr gemacht?	तुम लोगों ने क्या किया था?
+What do I have to do?	Was muss ich tun?	मुझे क्या करना है?
+What do I need to do?	Was muss ich machen?	मुझे क्या करना चाहिए?
+What do pelicans eat?	Was fressen Pelikane?	पेलीकेन क्या खाते हैं?
