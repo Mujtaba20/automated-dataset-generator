@@ -1,14 +1,4 @@
 
-I know Tom isn't alone.	Ich weiß, dass Tom nicht allein ist.	मुझे पता है कि टॉम अकेला नहीं है।
-I know Tom pretty well.	Ich kenne Tom ziemlich gut.	मैं टॉम को बहुत अच्छी तरह से जानता हूं।
-I know Tom understands.	Ich weiß, Tom versteht das.	मुझे पता है कि टॉम समझता है कि।
-I know Tom was unhappy.	Ich weiß, dass Tom unglücklich war.	मुझे पता है कि टॉम दुखी था।
-I know Tom will change.	Ich weiß, dass Tom sich ändern wird.	मुझे पता है कि टॉम बदल जाएगा।
-I know Tom's last name.	Ich kenne Toms Nachnamen.	मैं टॉम का अंतिम नाम जानता हूं।
-I know Tom's last name.	Ich weiß, wie Tom mit Nachnamen heißt.	मुझे पता है कि टॉम को क्या कहा जाता है।
-I know a little French.	Ich kann etwas Französisch.	मैं फ्रेंच कर सकता हूं।
-I know a little French.	Ich spreche etwas Französisch.	मैं थोड़ी सी फ्रेंच बोलता हूँ।
-I know a lot about you.	Ich weiß viel über dich.	मैं आपके बारे में बहुत कुछ जानता हूं।
 I know a shorter route.	Ich kenne einen kürzeren Weg.	मैं एक छोटा रास्ता जानता हूं।
 I know all the details.	Ich kenne alle Einzelheiten.	मैं सभी विवरणों को जानता हूं।
 I know all the details.	Ich kenne alle Details.	मैं सभी विवरणों को जानता हूं।
