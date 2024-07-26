@@ -1,14 +1,4 @@
 
-Why did you park here?	Warum hast du hier geparkt?	आपने यहाँ क्यों पार्क किया?
-Why did you park here?	Warum habt ihr hier geparkt?	आपने यहाँ क्यों पार्क किया?
-Why did you park here?	Warum haben Sie hier geparkt?	आपने यहाँ क्यों पार्क किया?
-Why did you punch Tom?	Warum hast du Tom eine runtergehauen?	आपने टॉम को नीचे क्यों खटखटाया?
-Why didn't I see that?	Warum habe ich das nicht gesehen?	मैंने ऐसा क्यों नहीं देखा?
-Why didn't you answer?	Warum hast du nicht geantwortet?	आपने जवाब क्यों नहीं दिया?
-Why didn't you ask me?	Warum hast du mich nicht gefragt?	आपने मुझसे क्यों नहीं पूछा?
-Why didn't you ask me?	Warum habt ihr mich nicht gefragt?	आपने मुझसे क्यों नहीं पूछा?
-Why didn't you ask me?	Warum haben Sie mich nicht gefragt?	आपने मुझसे क्यों नहीं पूछा?
-Why do I have to work?	Warum muss ich arbeiten?	मुझे काम क्यों करना है?
 Why do people do this?	Warum tun die Leute das?	लोग ऐसा क्यों करते हैं?
 Why do they come here?	Warum kommen sie hierher?	आप यहां क्यों आते हैं?
 Why do we have to die?	Warum müssen wir sterben?	हमें क्यों मरना है?
