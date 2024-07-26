@@ -27009,3 +27009,11 @@ I'm coming with you.	Ich komme mit dir.	मैं तुम्हारे स�
 I'm counting on Tom.	Ich verlasse mich auf Tom.	मैं टॉम पर भरोसा कर रहा हूँ।
 I'm counting on you.	Ich vertraue auf dich.	मैं तुम पर भरोसा कर रहा हूँ।
 I'm crazy about you.	Ich bin von dir besessen.	मैं तुम्हें पागल हूँ।
+I'm deaf in one ear.	Ich bin auf einem Ohr taub.	मेरी एक कान में बहरापन है।
+I'm drafting a plan.	Ich entwerfe einen Plan.	मैं एक योजना का ड्राफ्ट बना रहा हूँ।
+I'm drinking coffee.	Ich trinke Kaffee.	मैं कॉफ़ी पी रहा हूँ।
+I'm driving a truck.	Ich fahre einen Lastwagen.	मैं ट्रक चला रहा हूँ।
+I'm dying of hunger.	Ich sterbe vor Hunger.	मैं भूख से मर रहा हूँ।
+I'm dying of thirst.	Ich komme vor Durst um.	मैं प्यास से मर रहा हूँ।
+I'm eating an apple.	Ich esse einen Apfel.	मैं एक सेब खा रहा हूँ।
+I'm eating rice now.	Ich esse jetzt Reis.	मैं अभी चावल खा रहा हूँ।

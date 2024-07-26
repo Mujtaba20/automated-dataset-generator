@@ -1,14 +1,4 @@
 
-I'm deaf in one ear.	Ich bin auf einem Ohr taub.	मैं एक कान में बहरा हूं।
-I'm drafting a plan.	Ich entwerfe gerade einen Plan.	मैं वर्तमान में एक योजना डिजाइन कर रहा हूं।
-I'm drinking coffee.	Ich trinke Kaffee.	मुझे कॉफी पीना है।
-I'm driving a truck.	Ich fahre einen Lastwagen.	मैं एक ट्रक चलाता हूं।
-I'm dying of hunger.	Ich sterbe vor Hunger.	मैं भूख से मर गया।
-I'm dying of thirst.	Ich verdurste.	मैं प्यासा हूँ।
-I'm dying of thirst.	Ich sterbe vor Durst.	मैं प्यास से मर जाता हूं।
-I'm dying of thirst.	Ich verdurste gerade.	मैं प्यास कर रहा हूँ।
-I'm eating an apple.	Ich esse einen Apfel.	मैं सेब खाता हूं।
-I'm eating rice now.	Ich esse jetzt Reis.	मैं अब चावल खाता हूं।
 I'm extremely happy.	Ich bin ausgesprochen glücklich.	मैं बेहद खुश हूं।
 I'm extremely happy.	Ich bin über alle Maßen glücklich.	मैं सभी के बारे में खुश हूं।
 I'm extremely sorry.	Es tut mir sehr leid.	मैं माफी चाहता हूँ।
