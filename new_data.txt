@@ -28396,3 +28396,12 @@ They're really ugly.	Sie sind wirklich hässlich.	वे वास्तव म�
 They're still young.	Sie sind immer noch jung.	वे अभी भी जवान हैं।
 They're there alone.	Sie sind alleine dort.	वे वहाँ अकेले हैं।
 They're vegetarians.	Sie sind Vegetarier.	वे शाकाहारी हैं।
+They're watching me.	Sie beobachten mich.	वे मुझे देख रहे हैं।
+They've forgiven me.	Sie haben mir vergeben.	उन्होंने मुझे माफ कर दिया है।
+They've located Tom.	Sie haben Tom gefunden.	उन्होंने टॉम की स्थिति पता की है।
+Things have changed.	Die Dinge haben sich geändert.	चीजें बदल गई हैं।
+Think what you want.	Denk, was du willst.	सोचो जो चाहो।
+This CD is my son's.	Diese CD gehört meinem Sohn.	यह सीडी मेरे बेटे की है।
+This apple is sweet.	Dieser Apfel ist süß.	यह सेब मीठा है।
+This beef is tender.	Dieses Rindfleisch ist zart.	यह बीफ नरम है।
+This belongs to Tom.	Das gehört Tom.	यह टॉम का है।

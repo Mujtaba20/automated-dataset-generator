@@ -1,14 +1,4 @@
 
-They're watching me.	Sie beobachten mich.	वे मुझे देखते हैं।
-They're watching me.	Die beobachten mich.	वे मुझे देखते हैं।
-They've forgiven me.	Sie haben mir verziehen.	तुमने मुझे माफ़ किया।
-They've located Tom.	Man hat Tom geortet.	टॉम स्थित था।
-Things have changed.	Die Dinge haben sich verändert.	चीजें बदल गई।
-Think what you want.	Denk, was du willst.	सोचो तुम्हे क्या चाहिए।
-This CD is my son's.	Diese CD gehört meinem Sohn.	यह सीडी मेरे बेटे की है।
-This apple is sweet.	Dieser Apfel ist süß.	यह सेब प्यारा है।
-This beef is tender.	Das Rindfleisch ist zart.	गोमांस निविदा है।
-This belongs to Tom.	Das gehört Tom.	वह है।
 This bird can't fly.	Dieser Vogel kann nicht fliegen.	यह पक्षी उड़ नहीं सकता।
 This book is boring.	Dieses Buch ist langweilig.	यह पुस्तक उबाऊ है।
 This can is leaking.	Die Kanne leckt.	गुड़ चाटता है।
