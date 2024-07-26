@@ -1,14 +1,4 @@
 
-The baby is crawling.	Der Säugling krabbelt.	शिशु क्रॉल करता है।
-The baby is sleeping.	Das Baby schläft gerade.	बच्चा सो रहा है।
-The ball hit the net.	Der Ball ging ins Netz.	गेंद ऑनलाइन चली गई।
-The bathtub is dirty.	Die Badewanne ist dreckig.	बाथटब गंदा है।
-The bathtub is dirty.	Die Badewanne ist schmutzig.	बाथटब गंदा है।
-The beer's very cold.	Das Bier ist sehr kalt.	बीयर बहुत ठंडी है।
-The border is closed.	Die Grenze ist geschlossen.	सीमा बंद है।
-The boy began to cry.	Der Junge begann zu weinen.	लड़का रोने लगा।
-The boy began to cry.	Der Junge fing an zu weinen.	लड़का रोने लगा।
-The boy bought a dog.	Der Junge hat einen Hund gekauft.	लड़के ने एक कुत्ता खरीदा।
 The boy came running.	Der Junge kam angerannt.	लड़का दौड़ता हुआ आया।
 The boy came running.	Der Junge kam angelaufen.	लड़का शुरू हो गया।
 The boy stayed quiet.	Der Junge blieb still stehen.	लड़का रुक गया।

@@ -33610,3 +33610,11 @@ The answer is simple.	Die Antwort ist einfach.	जवाब सरल है।
 The artist is gifted.	Der Künstler ist begabt.	कलाकार को दी गई स्वामित्व है।
 The audience laughed.	Das Publikum lachte.	दर्शक हंसे।
 The baby fell asleep.	Das Baby ist eingeschlafen.	बच्चा सो गया।
+The baby is crawling.	Das Baby krabbelt.	बच्चा रेंगता है।
+The baby is sleeping.	Das Baby schläft.	बच्चा सो रहा है।
+The ball hit the net.	Der Ball traf das Netz.	गेंद ने नेट पे लग गई।
+The bathtub is dirty.	Die Badewanne ist dreckig.	बाथटब लहराती है।
+The beer's very cold.	Das Bier ist sehr kalt.	बीयर बहुत ठंडी है।
+The border is closed.	Die Grenze ist geschlossen.	सीमा बंद है।
+The boy began to cry.	Der Junge fing an zu schreien.	एक लड़का चिल्लाता हुआ शुरू हुआ।
+The boy bought a dog.	Der Junge kaufte einen Hund.	लड़के ने एक कुत्ता खरीदा।
