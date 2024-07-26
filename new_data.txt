@@ -28712,3 +28712,13 @@ Tom grabbed his bag.	Tom griff nach seiner Tasche.	टॉम ने अपनी
 Tom grabbed my hand.	Tom griff nach meiner Hand.	टॉम ने मेरा हाथ पकड़ा।
 Tom grew a mustache.	Tom ließ sich einen Schnurrbart wachsen.	टॉम के एक मुँछ उग गई।
 Tom had a bad dream.	Tom hatte einen bösen Traum.	टॉम को एक बुरा सपना आया।
+Tom had a black cat.	Tom hatte eine schwarze Katze.	टॉम के पास एक काली बिल्ली थी।
+Tom had a good idea.	Tom hatte eine gute Idee.	टॉम के पास एक अच्छी विचार था।
+Tom had a hoodie on.	Tom trug eine Kapuzenjacke.	टॉम के पास एक हुडी थी।
+Tom had a job to do.	Tom hatte eine Arbeit zu erledigen.	टॉम के पास कोई काम था।
+Tom had a leg cramp.	Tom hatte einen Wadenkrampf.	टॉम के पैर में किचकिचाहट थी।
+Tom had a lot to do.	Tom hatte viel zu tun.	टॉम के पास बहुत काम था।
+Tom had an accident.	Tom hatte einen Unfall.	टॉम के साथ एक दुर्घटना हो गई।
+Tom had fun with it.	Tom hatte Spaß damit.	टॉम ने इसके साथ मजे किए।
+Tom had other plans.	Tom hatte andere Pläne.	टॉम के पास अन्य योजनाएं थीं।
+Tom had to go there.	Tom musste dorthin gehen.	टॉम को वहाँ जाना था।
