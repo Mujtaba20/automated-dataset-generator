@@ -20823,3 +20823,11 @@ He looks very good.	Er sieht sehr gut aus.	वह बहुत अच्छा �
 He lost everything.	Er hat alles verloren.	उसने सब कुछ खो दिया।
 He lost his temper.	Er verlor die Fassung.	उसने अपना गुस्सा खो दिया।
 He loves attention.	Er liebt Aufmerksamkeit.	उसे ध्यान पसंद है।
+He loves to gossip.	Er mag es, zu tratschen.	उसे गपशप करना पसंद है।
+He loves traveling.	Er mag es zu reisen.	उसे यात्रा करना प्यार है।
+He made an apology.	Er entschuldigte sich.	उसने माफ़ी माँगी।
+He may be a genius.	Er könnte ein Genie sein.	वह एक महान हो सकता है।
+He needs the money.	Er braucht das Geld.	उसे पैसों की आवश्यकता है।
+He never said that.	Er hat das nie gesagt.	उसने कभी ऐसा नहीं कहा।
+He opened the door.	Er öffnete die Tür.	उसने दरवाजा खोल दिया।
+He owes me a favor.	Er schuldet mir einen Gefallen.	उसका एक उपकार मेरे पास है।

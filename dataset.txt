@@ -1,14 +1,4 @@
 
-He loves to gossip.	Er mag es zu schwatzen.	वह चैट करना पसंद करता है।
-He loves to gossip.	Er mag es sehr zu schwatzen.	वह बहुत चैट करना पसंद करता है।
-He loves traveling.	Er reist liebend gern.	वह यात्रा करना पसंद करता है।
-He loves traveling.	Er verreist liebend gern.	वह यात्रा करना पसंद करता है।
-He made an apology.	Er bat um Entschuldigung.	उन्होंने माफी मांगी।
-He may be a genius.	Er könnte ein Genie sein.	वह एक प्रतिभाशाली हो सकता है।
-He needs the money.	Er braucht das Geld.	उसे पैसे चाहिए।
-He never said that.	Er hat es nie gesagt.	उन्होंने कभी यह नहीं कहा।
-He opened the door.	Er öffnete die Tür.	उसने दरवाजा खोला।
-He owes me a favor.	Er schuldet mir einen Gefallen.	वह मुझ पर एक एहसान करता है।
 He plays the piano.	Er spielt Klavier.	वह पियानो बजाता है।
 He posed a problem.	Er sprach ein Problem an.	उन्होंने एक समस्या का समाधान किया।
 He raised his hand.	Er hob seine Hand.	उसने हाथ उठाया।
