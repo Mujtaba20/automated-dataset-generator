@@ -24779,3 +24779,13 @@ Why don't you come?	Warum kommst du nicht?	तुम क्यों नही�
 Why don't you sing?	Warum singst du nicht?	तुम गाना क्यों नहीं गाते?
 Why don't you stop?	Warum hörst du nicht auf?	तुम क्यों नहीं रुकते?
 Why don't you work?	Warum arbeitest du nicht?	तुम क्यों काम नहीं करते?
+Why is Tom excited?	Warum ist Tom aufgeregt?	टॉम को उत्साहित क्यों हो रहा है?
+Why is Tom running?	Warum rennt Tom?	टॉम क्यों दौड़ रहा है?
+Why is Tom so busy?	Warum ist Tom so beschäftigt?	टॉम इतना व्यस्त क्यों है?
+Why is no one here?	Warum ist niemand hier?	यहाँ कोई क्यों नहीं है?
+Why is sweat salty?	Warum ist Schweiß salzig?	पसीना नमकीन क्यों होता है?
+Why is this my job?	Warum ist das mein Job?	यह मेरा काम क्यों है?
+Why isn't Tom here?	Warum ist Tom nicht hier?	टॉम यहाँ क्यों नहीं है?
+Why was Tom chosen?	Warum wurde Tom ausgewählt?	टॉम क्यों चुना गया था?
+Why was Tom crying?	Warum hat Tom geweint?	टॉम क्यों रो रहा था?
+Why was that funny?	Warum war das lustig?	वह मजाक क्यों था?

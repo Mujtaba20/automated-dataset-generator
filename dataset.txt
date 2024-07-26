@@ -1,14 +1,4 @@
 
-Why is Tom excited?	Warum ist Tom aufgeregt?	टॉम क्यों उत्साहित है?
-Why is Tom running?	Warum läuft Tom?	टॉम क्यों चल रहा है?
-Why is Tom so busy?	Warum ist Tom so beschäftigt?	टॉम इतना व्यस्त क्यों है?
-Why is no one here?	Warum ist keiner da?	वहां कोई क्यों नहीं है?
-Why is sweat salty?	Warum schmeckt Schweiß salzig?	पसीने का स्वाद नमकीन क्यों होता है?
-Why is this my job?	Warum ist das meine Aufgabe?	मेरा काम क्यों है?
-Why isn't Tom here?	Warum ist Tom nicht hier?	टॉम यहाँ क्यों नहीं है?
-Why was Tom chosen?	Warum fiel die Wahl auf Tom?	टॉम पर विकल्प क्यों गिरा?
-Why was Tom crying?	Warum hat Tom geweint?	टॉम क्यों रोया?
-Why was that funny?	Warum war das lustig?	वह मज़ेदार क्यों था?
 Why were you fired?	Warum wurdest du gefeuert?	आपको क्यों निकाल दिया गया?
 Why were you fired?	Warum wurden Sie gefeuert?	उन्हें क्यों निकाल दिया गया?
 Why were you fired?	Warum wurdet ihr gefeuert?	आपको क्यों निकाल दिया गया?
