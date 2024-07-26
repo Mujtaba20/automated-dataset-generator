@@ -23796,3 +23796,12 @@ Tom just came home.	Tom ist gerade nach Hause gekommen.	टॉम अभी घ�
 Tom just collapsed.	Tom ist gerade zusammengebrochen.	टॉम अभी गिर गया।
 Tom just dumped me.	Tom hat mich gerade abserviert.	टॉम ने मुझे अभी ठुकरा दिया।
 Tom just texted me.	Tom hat mir gerade eine Nachricht geschickt.	टॉम ने मुझे अभी मैसेज किया है।
+Tom keeps his word.	Tom hält sein Wort.	टॉम अपना वादा निभाता है।
+Tom kept on crying.	Tom weinte weiter.	टॉम रोते रहे।
+Tom kept whistling.	Tom pfiff weiter.	टॉम घुँघराला बजाता रहा।
+Tom kidnapped Mary.	Tom entführte Maria.	टॉम ने मेरी को अपहरण किया।
+Tom killed himself.	Tom hat sich umgebracht.	टॉम ने खुद को मार दिया।
+Tom kissed his cat.	Tom küsste seine Katze.	टॉम ने अपने बिल्ली को चुम्बन दिया।
+Tom kissed my hand.	Tom küsste meine Hand.	टॉम ने मेरे हाथ को चुम्बन दिया।
+Tom kissed my neck.	Tom küsste meinen Hals.	टॉम ने मेरी गर्दन को चुम्बन दिया।
+Tom knew our names.	Tom kannte unsere Namen.	टॉम हमारे नाम जानता था।
