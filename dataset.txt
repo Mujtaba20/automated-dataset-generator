@@ -1,14 +1,4 @@
 
-Tom found Mary's diary.	Tom fand Marias Tagebuch.	टॉम ने मारिया की डायरी पाया।
-Tom found Mary's diary.	Tom hat Marias Tagebuch gefunden.	टॉम ने मारिया की डायरी पाया।
-Tom found Mary's diary.	Tom hat Marias Terminkalender gefunden.	टॉम ने मारिया का शेड्यूल पाया।
-Tom found Mary's diary.	Tom fand Marias Terminkalender.	टॉम ने मारिया का शेड्यूल पाया।
-Tom found new evidence.	Tom hat neue Beweismittel gefunden.	टॉम को नए सबूत मिले हैं।
-Tom freed the hostages.	Tom hat die Geiseln befreit.	टॉम ने बंधकों को मुक्त कर दिया।
-Tom gave his dog water.	Tom gab seinem Hund Wasser.	टॉम ने अपने कुत्ते को पानी दिया।
-Tom gave me a bad cold.	Tom hat mir eine üble Erkältung angehängt.	टॉम ने मेरे लिए एक बुरी ठंड संलग्न की।
-Tom gave me his number.	Tom hat mir seine Nummer gegeben.	टॉम ने मुझे अपना नंबर दिया।
-Tom gave me his number.	Tom gab mir seine Nummer.	टॉम ने मुझे अपना नंबर दिया।
 Tom gave me some pills.	Tom gab mir Tabletten.	टॉम ने मुझे गोलियां दीं।
 Tom gave me this watch.	Tom gab mir diese Uhr.	टॉम ने मुझे यह घड़ी दी।
 Tom gave thanks to God.	Tom dankte Gott.	टॉम ने भगवान को धन्यवाद दिया।
