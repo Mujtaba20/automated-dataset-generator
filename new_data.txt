@@ -41134,3 +41134,13 @@ We'll need more money.	Wir werden mehr Geld brauchen.	हमें और पै
 We'll never catch Tom.	Wir werden Tom niemals fangen.	हम कभी टॉम को पकड़ने की कोशिश नहीं करेंगे।
 We'll run in the park.	Wir werden im Park laufen.	हम पार्क में दौड़ेंगे।
 We'll see how it goes.	Wir werden sehen, wie es läuft.	हम देखेंगे कि यह कैसा चलता है।
+We'll see to it later.	Wir werden uns später darum kümmern.	हम इसे बाद में देखेंगे।
+We'll see you at 2:30.	Wir werden dich um 2:30 Uhr sehen.	हम आपको दो बजे देखेंगे।
+We'll soon be leaving.	Wir werden bald gehen.	हम जल्दी ही चलेंगे।
+We'll take it with us.	Wir werden es mitnehmen.	हम इसे हमारे साथ ले जाएँगे।
+We'll talk afterwards.	Wir werden danach sprechen.	हम बाद में बात करेंगे।
+We'll talk more later.	Wir werden später mehr sprechen.	हम बाद में और अधिक बात करेंगे।
+We'll travel together.	Wir werden zusammen reisen.	हम साथ में यात्रा करेंगे।
+We're a little behind.	Wir sind ein bisschen zurück.	हम थोड़ा पीछे हैं।
+We're afraid of death.	Wir haben Angst vor dem Tod.	हम मौत से डरते हैं।
+We're already married.	Wir sind bereits verheiratet.	हम पहले से ही शादीशुदा हैं।
