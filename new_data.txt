@@ -33151,3 +33151,9 @@ My sweater is purple.	Mein Pullover ist lila.	मेरी स्वेटर �
 My town has a castle.	Meine Stadt hat ein Schloss.	मेरे शहर में एक किला है।
 My watch has stopped.	Meine Uhr ist stehen geblieben.	मेरी घड़ी रुक गई है।
 My watch is accurate.	Meine Uhr geht genau.	मेरी घड़ी सही चल रही है।
+My whole body itches.	Mein ganzer Körper juckt.	मेरे पूरे शरीर में खुजली हो रही है।
+My whole body itches. (Different meaning)	Mein ganzer Körper kribbelt.	मेरे पूरे शरीर में झुनझुनी हो रही है।
+Never come back here.	Komm niemals zurück.	कभी वापस मत आना।
+Never come back here. (Different meaning)	Kommen Sie nie wieder hierher.	कभी यहाँ फिर से न लौटें।
+Nightmares are scary.	Alpträume sind gruselig.	भूत-प्रेत सपने डरावने होते हैं।
+Nightmares are scary. (Different meaning)	Alpträume sind beängstigend.	डरावने सपने डरावने होते हैं।

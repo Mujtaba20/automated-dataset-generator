@@ -1,14 +1,4 @@
 
-My whole body itches.	Mein ganzer Körper juckt.	मेरा पूरा शरीर खुजली करता है।
-My whole body itches.	Es juckt mich am ganzen Körper.	यह मुझे अपने शरीर पर खुजली करता है।
-My whole body itches.	Mir juckt der ganze Körper.	पूरा शरीर मुझे खुजली करता है।
-Never come back here.	Komm nie wieder hierher zurück!	यहाँ कभी वापस मत आओ!
-Never come back here.	Kommt nie wieder hierher zurück!	यहाँ कभी वापस मत आओ!
-Never come back here.	Kommen Sie nie wieder hierher zurück!	यहाँ कभी वापस मत आओ!
-Nightmares are scary.	Alpträume sind erschreckend.	बुरे सपने भयानक हैं।
-Nightmares are scary.	Alpträume sind furchteinflößend.	बुरे सपने डरावने हैं।
-Nightmares are scary.	Alpträume machen Angst.	बुरे सपने डरते हैं।
-Nightmares are scary.	Alpträume sind angsteinflößend.	बुरे सपने भयावह हैं।
 No man escapes death.	Niemand entrinnt dem Tod.	कोई भी मौत नहीं करता है।
 No news is good news.	Keine Nachricht, gute Nachricht.	कोई संदेश नहीं, अच्छी खबर।
 No one can deny that.	Das lässt sich nicht leugnen.	इससे इनकार नहीं किया जा सकता है।
