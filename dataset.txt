@@ -1,14 +1,4 @@
 
-Tom isn't sleeping now.	Tom schläft gerade nicht.	टॉम अभी सो नहीं रहा है।
-Tom isn't smart at all.	Tom ist kein bisschen smart.	टॉम थोड़ा स्मार्ट नहीं है।
-Tom isn't smart at all.	Tom ist überhaupt nicht schlau.	टॉम बिल्कुल स्मार्ट नहीं है।
-Tom isn't swimming now.	Tom schwimmt gerade nicht.	टॉम तैराकी नहीं है।
-Tom isn't the only one.	Tom ist nicht der Einzige.	टॉम केवल एक ही नहीं है।
-Tom isn't there, is he?	Tom ist nicht da, oder?	टॉम वहाँ नहीं है, है ना?
-Tom isn't very helpful.	Tom ist nicht sehr hilfreich.	टॉम बहुत मददगार नहीं है।
-Tom isn't very patient.	Tom ist nicht sehr geduldig.	टॉम बहुत धैर्यवान नहीं है।
-Tom isn't welcome here.	Tom ist hier unwillkommen.	टॉम यहाँ अवांछित है।
-Tom isn't welcome here.	Tom ist hier nicht gern gesehen.	टॉम का यहां स्वागत नहीं है।
 Tom isn't your brother.	Tom ist nicht dein Bruder.	टॉम तुम्हारा भाई नहीं है।
 Tom isn't your brother.	Tom ist nicht euer Bruder.	टॉम तुम्हारा भाई नहीं है।
 Tom isn't your brother.	Tom ist nicht Ihr Bruder.	टॉम उसका भाई नहीं है।
