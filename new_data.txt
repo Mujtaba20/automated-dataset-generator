@@ -24394,3 +24394,12 @@ We're almost broke.	Wir sind fast pleite.	हम लगभग दिवालि
 We're almost there.	Wir sind fast da.	हम लगभग पहुंच गए हैं।
 We're always right.	Wir haben immer Recht.	हमेशा हम सही होते हैं।
 We're closed today.	Wir sind heute geschlossen.	आज हम बंद हैं।
+We're conservative.	Wir sind konservativ.	हम रूढ़िवादी हैं।
+We're contributing.	Wir leisten einen Beitrag.	हम योगदान कर रहे हैं।
+We're disorganized.	Wir sind unorganisiert.	हम असंगठित हैं।
+We're eating bread.	Wir essen Brot.	हम रोटी खा रहे हैं।
+We're enthusiastic.	Wir sind begeistert.	हम उत्साही हैं।
+We're finally free.	Wir sind endlich frei.	हम अंत में मुक्त हैं।
+We're going to try.	Wir werden es versuchen.	हम कोशिश करेंगे।
+We're having lunch.	Wir essen zu Mittag.	हम दोपहर का भोजन कर रहे हैं।
+We're here for Tom.	Wir sind hier für Tom.	हम यहाँ टॉम के लिए हैं।

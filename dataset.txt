@@ -1,14 +1,4 @@
 
-We're conservative.	Wir sind konservativ.	हम रूढ़िवादी हैं।
-We're contributing.	Wir leisten einen Beitrag.	हम एक योगदान देते हैं।
-We're contributing.	Wir leisten Beiträge.	हम योगदान देते हैं।
-We're disorganized.	Wir sind schlecht organisiert.	हम बुरी तरह से संगठित हैं।
-We're eating bread.	Wir essen gerade Brot.	हम रोटी खा रहे हैं।
-We're enthusiastic.	Wir sind enthusiastisch.	हम उत्साही हैं।
-We're finally free.	Wir sind endlich frei.	हम अंत में स्वतंत्र हैं।
-We're going to try.	Wir werden es versuchen.	हम इसे आज़माएंगे।
-We're having lunch.	Wir essen zu Mittag.	हम लंच ले रहे हैं।
-We're here for Tom.	Wir sind für Tom da.	हम टॉम के लिए हैं।
 We're here for you.	Wir sind für Sie da.	हम आप के लिए यहां हैं।
 We're here for you.	Wir sind für dich da.	हम यहां आपके लिए हैं।
 We're here to help.	Wir sind hier, um zu helfen.	हम सहायता के लिए यहां उपलब्ध हैं।
