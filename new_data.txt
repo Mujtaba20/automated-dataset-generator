@@ -41391,3 +41391,8 @@ Where are the showers?	Wo sind die Duschen?	शावर कहां हैं?
 Where are they living?	Wo leben sie?	वे कहां रह रहे हैं?
 Where are they off to?	Wohin gehen sie?	वे कहां जा रहे हैं?
 Where are you heading?	Wohin gehst du?	तुम कहां जा रहे हो?
+Where are you sitting?	Wo sitzen Sie?	तुम कहाँ बैठे हो?
+Where are you working?	Wo arbeitest du?	तुम कहाँ काम कर रहे हो?
+Where are your horses?	Wo sind deine Pferde?	तुम्हारे घोड़े कहाँ हैं?
+Where are your papers?	Wo sind deine Papiere?	तुम्हारे पेपर कहाँ हैं?
+Where are your people?	Wo sind deine Leute?	तुम्हारे लोग कहाँ हैं?

@@ -1,14 +1,4 @@
 
-Where are you sitting?	Wo sitzt du?	आप कहाँ बैठे हैं?
-Where are you working?	Wo arbeitest du?	आप कहां काम करते हैं?
-Where are your horses?	Wo sind deine Pferde?	आपके घोड़े कहाँ हैं?
-Where are your papers?	Wo sind deine Dokumente?	आपके दस्तावेज़ कहां हैं?
-Where are your papers?	Wo sind eure Dokumente?	आपके दस्तावेज़ कहां हैं?
-Where are your papers?	Wo sind Ihre Dokumente?	आपके दस्तावेज़ कहां हैं?
-Where are your papers?	Wo sind deine Papiere?	आपके कागजात कहाँ हैं?
-Where are your papers?	Wo sind eure Papiere?	आपके कागजात कहाँ हैं?
-Where are your papers?	Wo sind Ihre Papiere?	आपके कागजात कहाँ हैं?
-Where are your people?	Wo sind deine Leute?	आपके लोग कहाँ हैं?
 Where are your things?	Wo sind deine Sachen?	आपकी चीजें कहाँ हैं?
 Where are your things?	Wo sind Ihre Sachen?	आपकी चीजें कहाँ हैं?
 Where can I buy a map?	Wo bekomme ich einen Stadtplan?	मुझे शहर का नक्शा कहां मिल सकता है?
