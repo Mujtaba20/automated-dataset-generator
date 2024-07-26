@@ -30346,3 +30346,9 @@ Your coffee's ready.	Dein Kaffee ist fertig.	तुम्हारा कॉफ�
 Your father is tall.	Dein Vater ist groß.	तुम्हारे पिताजी लंबे हैं।
 Your feet are dirty.	Deine Füße sind schmutzig.	तुम्हारे पैर गंदे हैं।
 You've made Tom cry. (different meaning)	Sie haben Tom zum Weinen gebracht.	आपने टोम को रुलाया है।
+Your friend is here.	Dein Freund ist hier.	तुम्हारा दोस्त यहाँ है।
+Your hands are cold.	Deine Hände sind kalt.	तुम्हारे हाथ ठंडे हैं।
+Your memory is good.	Dein Gedächtnis ist gut.	तुम्हारी याद अच्छी है।
+Your mom seems nice.	Deine Mutter scheint nett zu sein.	तुम्हारी माँ अच्छी लगती है।
+Your shoes are here.	Deine Schuhe sind hier.	तुम्हारे जूते यहाँ हैं।
+Your table is ready.	Dein Tisch ist fertig.	तुम्हारी मेज तैयार है।

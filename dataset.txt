@@ -1,14 +1,4 @@
 
-Your friend is here.	Dein Freund ist hier.	आपका दोस्त यहाँ है।
-Your hands are cold.	Deine Hände sind kalt.	आपके हाथ ठंडे हैं।
-Your hands are cold.	Du hast kalte Hände.	आपके ठंडे हाथ हैं।
-Your hands are cold.	Ihre Hände sind kalt.	आपके हाथ ठंडे हैं।
-Your hands are cold.	Sie haben kalte Hände.	आपके ठंडे हाथ हैं।
-Your memory is good.	Du hast ein gutes Gedächtnis.	आपकी याददाश्त अच्छी है।
-Your mom seems nice.	Deine Mutter scheint ganz nett zu sein.	आपकी माँ अच्छी लगती है।
-Your shoes are here.	Deine Schuhe sind hier.	आपके जूते यहाँ हैं।
-Your shoes are here.	Hier sind deine Schuhe.	यहाँ आपके जूते हैं।
-Your table is ready.	Ihr Tisch ist frei.	आपकी तालिका मुफ्त है।
 Your ticket, please.	Ihre Fahrkarte, bitte.	अपना टिकट दें।
 Your tie is crooked.	Deine Krawatte sitzt schief.	आपकी टाई गलत है।
 Your tie looks good.	Deine Krawatte sieht gut aus.	आपकी टाई अच्छी लगती है।
