@@ -27599,3 +27599,12 @@ Maybe Tom was wrong.	Vielleicht lag Tom falsch.	शायद टॉम ग़ल
 Maybe we're related.	Vielleicht sind wir verwandt.	शायद हम संबंधित हैं।
 Mercury is a planet.	Merkur ist ein Planet.	बुध ग्रह है।
 Merlin was a wizard.	Merlin war ein Zauberer.	मरलिन एक जादूगर था।
+engSentence1	Mutter hat immer recht.	माँ हमेशा सही होती है।
+engSentence2	Mehr Kaffee, bitte.	और कॉफ़ी, कृपया।
+engSentence3	Mozart starb im Jahr 1791.	मोज़ार्ट 1791 में मर गया।
+engSentence4	Meine Tante sieht jung aus.	मेरी चाची जवान दिखती है।
+engSentence5	Mein Rücken tut sehr weh.	मेरी पीठ को बहुत दर्द हो रहा है।
+engSentence6	Mein Rücken tut immer noch weh.	मेरी पीठ अब भी दर्द कर रही है।
+engSentence7	Mein Rücken tut immer noch weh.	मेरी पीठ अब भी दर्द कर रही है।
+engSentence8	Meine Stiefel waren schlammig.	मेरी जूते गंदे थे।
+engSentence9	Mein Chef ist Kanadier.	मेरे बॉस कनेडियन हैं।
