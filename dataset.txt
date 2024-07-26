@@ -1,14 +1,4 @@
 
-I usually eat alone.	Ich esse normalerweise allein.	मैं आमतौर पर अकेले खाता हूं।
-I value your candor.	Ich schätze deine Freimütigkeit.	मैं आपकी स्पष्टता की सराहना करता हूं।
-I value your candor.	Ich schätze eure Freimütigkeit.	मैं आपकी स्पष्टता की सराहना करता हूं।
-I value your candor.	Ich schätze Ihre Freimütigkeit.	मैं आपकी स्पष्टता की सराहना करता हूं।
-I want Tom to do it.	Ich möchte, dass Tom es macht.	मैं चाहता हूं कि टॉम इसे करे।
-I want Tom to leave.	Ich will, dass Tom geht.	मैं चाहता हूं कि टॉम जाए।
-I want a big family.	Ich will eine große Familie.	मुझे एक बड़ा परिवार चाहिए।
-I want a cup of tea.	Ich hätte gern eine Tasse Tee.	मुझे एक कप चाय चाहिए.
-I want a girlfriend.	Ich will eine Freundin haben.	मैं एक दोस्त है।
-I want a microscope.	Ich möchte ein Mikroskop haben.	मैं एक माइक्रोस्कोप करना चाहता हूं।
 I want an ice cream.	Ich will ein Eis.	मुझे आइसक्रीम चाहिए।
 I want another beer.	Ich möchte noch ein Bier.	मुझे एक और बीयर चाहिए।
 I want another beer.	Ich möchte ein neues Bier.	मुझे एक नई बीयर चाहिए।

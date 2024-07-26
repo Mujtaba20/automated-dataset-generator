@@ -26739,3 +26739,11 @@ I used to live here.	Früher habe ich hier gelebt.	मैं यहाँ रह
 I used to love Mary.	Ich habe Mary geliebt.	मैंने मेरी से प्यार किया था।
 I used to love that.	Ich habe das geliebt.	मैंने उसे पसंद किया था।
 I usually eat a lot.	Ich esse normalerweise viel.	मैं आम तौर पर बहुत खाता हूँ।
+I usually eat alone.	Ich esse normalerweise alleine.	मैं आम तौर पर अकेले खाता हूं।
+I value your candor.	Ich schätze deine Aufrichtigkeit.	मैं आपकी पृथकता की मूल्य करता हूं।
+I want Tom to do it.	Ich möchte, dass Tom es macht.	मैं चाहता हूं कि टॉम ऐसा करे।
+I want Tom to leave.	Ich möchte, dass Tom geht.	मैं चाहता हूं कि टॉम चला जाए।
+I want a big family.	Ich möchte eine große Familie.	मुझे एक बड़ा परिवार चाहिए।
+I want a cup of tea.	Ich möchte eine Tasse Tee.	मुझे एक कप चाय चाहिए।
+I want a girlfriend.	Ich möchte eine Freundin.	मुझे एक गर्लफ्रेंड चाहिए।
+I want a microscope.	Ich möchte ein Mikroskop.	मुझे एक माइक्रोस्कोप चाहिए।
