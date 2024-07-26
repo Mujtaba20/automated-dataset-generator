@@ -36459,3 +36459,11 @@ Does Tom like his job?	Mag Tom seinen Job?	क्या टॉम को उस�
 Does Tom like to swim?	Schwimmt Tom gerne?	क्या टॉम को तैरना पसंद है?
 Does Tom speak French?	Spricht Tom Französisch?	क्या टॉम फ्रेंच बोलता है?
 Does Tom study French?	Studiert Tom Französisch?	क्या टॉम फ्रेंच पढ़ता है?
+Does Tom teach French?	Lehrt Tom Französisch?	क्या टॉम फ्रेंच सिखाता है?
+Does Tom want to come?	Möchte Tom kommen?	क्या टॉम आना चाहता है?
+Does Tom want to rest?	Möchte Tom sich ausruhen?	क्या टॉम आराम करना चाहता है?
+Does anybody know him?	Kennt ihn jemand?	क्या किसी को उसे पहचानता है?
+Does anyone live here?	Lebt hier jemand?	क्या यहाँ किसी का निवास है?
+Does he speak English?	Spricht er Englisch?	क्या वह अंग्रेज़ी बोलता है?
+Does it really matter?	Spielt das wirklich eine Rolle?	क्या यह वास्तव में मायने रखता है?
+Does she like oranges?	Mag sie Orangen?	क्या उसे संतरे पसंद हैं?

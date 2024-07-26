@@ -1,16 +1,4 @@
 
-Does Tom teach French?	Unterrichtet Tom Französisch?	टॉम फ्रेंच सिखाता है?
-Does Tom teach French?	Lehrt Tom Französisch?	क्या टॉम फ्रेंच सिखाता है?
-Does Tom want to come?	Möchte Tom kommen?	टॉम आना चाहते हैं?
-Does Tom want to rest?	Möchte Tom sich ausruhen?	क्या टॉम आराम करना चाहेंगे?
-Does Tom want to rest?	Möchte Tom ein Nickerchen machen?	क्या टॉम एक झपकी बनाना चाहेंगे?
-Does anybody know him?	Kennt ihn jemand?	क्या कोई उसे जानता है?
-Does anyone live here?	Lebt hier jemand?	क्या कोई यहाँ रहता है?
-Does he speak English?	Spricht er Englisch?	क्या वह अंग्रेजी बोलता है?
-Does it really matter?	Ist das wirklich wichtig?	क्या यह वास्तव में महत्वपूर्ण है?
-Does she like oranges?	Mag sie Apfelsinen?	क्या उसे Apple पसंद है?
-Does she like oranges?	Mag sie Orangen?	क्या वह संतरे करती है?
-Does she like oranges?	Isst sie gerne Apfelsinen?	क्या आप सेब खाना पसंद करते हैं?
 Does that about do it?	Ist das so okay?	क्या यह इतना ठीक है?
 Does that ring a bell?	Kommt dir das bekannt vor?	क्या आप इससे परिचित हैं?
 Does that satisfy you?	Bist du damit zufrieden?	क्या आप इससे संतुष्ट हैं?
