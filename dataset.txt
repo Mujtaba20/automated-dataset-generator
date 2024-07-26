@@ -1,14 +1,4 @@
 
-Tom likes hot curry.	Tom mag scharfes Curry.	टॉम को तेज करी पसंद है।
-Tom likes ice cream.	Tom mag Eiscreme.	टॉम को आइसक्रीम पसंद है।
-Tom likes ice cream.	Tom mag Eis.	टॉम को बर्फ पसंद है।
-Tom likes pop music.	Tom hört gerne Popmusik.	टॉम को पॉप संगीत सुनना पसंद है।
-Tom likes spaghetti.	Tom mag Spaghetti.	टॉम को स्पेगेटी पसंद है।
-Tom likes them both.	Tom mag beide.	टॉम दोनों को पसंद है।
-Tom likes to travel.	Tom verreist gern.	टॉम को यात्रा करना पसंद है।
-Tom likes traveling.	Tom verreist gerne.	टॉम को यात्रा करना पसंद है।
-Tom likes traveling.	Tom reist gerne.	टॉम को यात्रा करना पसंद है।
-Tom likes traveling.	Tom ist gerne auf Reisen.	टॉम को यात्रा करना पसंद है।
 Tom likes you a lot.	Tom mag dich sehr.	टॉम आपको बहुत पसंद करता है।
 Tom listens to Mary.	Tom hört auf Maria.	टॉम मारिया को सुनता है।
 Tom lit a cigarette.	Tom hat sich eine Zigarette angesteckt.	टॉम ने एक सिगरेट संक्रमित किया है।

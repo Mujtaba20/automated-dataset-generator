@@ -29073,3 +29073,12 @@ Tom likes brunettes.	Tom mag Brünette.	टॉम को भूरी बाल�
 Tom likes chemistry.	Tom mag Chemie.	टॉम को रसायन विज्ञान पसंद है।
 Tom likes chocolate.	Tom mag Schokolade.	टॉम को चॉकलेट पसंद है।
 Tom likes good food.	Tom mag gutes Essen.	टॉम को अच्छा खाना पसंद है।
+Tom likes hot curry.	Tom mag scharfes Curry.	टॉम को गरम करी पसंद है।
+Tom likes ice cream.	Tom mag Eiscreme.	टॉम को आइसक्रीम पसंद है।
+Tom likes ice cream. (Different meaning)	Tom liebt Eiscreme.	टॉम आइसक्रीम सबसे ज्यादा पसंद करता है।
+Tom likes pop music.	Tom mag Pop-Musik.	टॉम को पॉप संगीत पसंद है।
+Tom likes spaghetti.	Tom mag Spaghetti.	टॉम को स्पैगेटी पसंद है।
+Tom likes them both.	Tom mag beides.	टॉम को दोनों पसंद है।
+Tom likes to travel.	Tom reist gerne.	टॉम को यात्रा करना पसंद है।
+Tom likes traveling.	Tom mag es zu reisen.	टॉम को यात्रा करना पसंद है।
+Tom likes traveling. (Different meaning)	Tom genießt Reisen.	टॉम को घूमना पसंद है।
