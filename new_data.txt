@@ -30166,3 +30166,9 @@ You don't work here. (different meaning)	Hier arbeitest du nicht.	तुम य�
 You give me so much.	Du gibst mir so viel.	तुम मुझे इतना कुछ देते हो।
 You guys are idiots.	Ihr seid Idioten.	तुम लोग मूर्ख हो।
 You had your chance.	Du hattest deine Chance.	तुम्हारा मौका था।
+You have a big nose.	Du hast eine große Nase.	तुम्हारी नाक बड़ी है।
+You have bad breath.	Du hast schlechten Atem.	तुम्हारी सांस गंदी है।
+You have everything.	Du hast alles.	तुम्हारे पास सब कुछ है।
+You have many books.	Du hast viele Bücher.	तुम्हारे पास बहुत सारी किताबें हैं।
+You have good ideas.	Du hast gute Ideen.	तुम्हारे पास अच्छी विचार हैं।
+You have one minute.	Du hast eine Minute.	तुम्हारे पास एक मिनट है।

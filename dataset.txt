@@ -1,15 +1,4 @@
 
-You have a big nose.	Du hast eine große Nase.	आपकी एक बड़ी नाक है।
-You have bad breath.	Du hast einen schlechten Atem.	आपकी सांस बुरी है।
-You have everything.	Du hast alles.	तुम्हारे पास सब कुछ है।
-You have everything.	Sie haben alles.	तुम्हारे पास सब कुछ है।
-You have everything.	Ihr habt alles.	तुम्हारे पास सब कुछ है।
-You have good ideas.	Du hast gute Einfälle.	आपके पास अच्छे विचार हैं।
-You have good ideas.	Sie haben gute Einfälle.	आपके पास अच्छे विचार हैं।
-You have many books.	Du hast viele Bücher.	आपके पास बहुत सारी किताबें हैं।
-You have many books.	Ihr habt viele Bücher.	आपके पास बहुत सारी किताबें हैं।
-You have one minute.	Du hast eine Minute Zeit.	आपके पास एक मिनट है।
-You have one minute.	Du hast 1 Minute Zeit.	आपके पास 1 मिनट है।
 You have three cats.	Ihr habt drei Katzen.	आपके पास तीन बिल्लियाँ हैं।
 You have three cats.	Du hast drei Katzen.	आपके पास तीन बिल्लियाँ हैं।
 You have three cats.	Sie haben drei Katzen.	आपके पास तीन बिल्लियाँ हैं।
