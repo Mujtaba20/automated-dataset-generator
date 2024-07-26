@@ -30461,3 +30461,13 @@ Bring me a dry towel.	Bringen Sie mir ein trockenes Handtuch.	मुझे ए�
 Bring the laundry in.	Bringen Sie die Wäsche rein.	कपड़ों को बाहर लाओ।
 Bring your kids, too.	Auch deine Kinder sind willkommen.	आपके बच्चे भी स्वागत है।
 Business is business.	Geschäft ist Geschäft.	व्यवसाय ही व्यवसाय है।
+But you're not there.	Aber du bist nicht da.	लेकिन तुम वहाँ नहीं हो।
+Buy the full version.	Kaufen Sie die Vollversion.	पूर्ण संस्करण खरीदें।
+Call 110 immediately.	Rufen Sie sofort 110 an.	तुरंत 110 पर कॉल करें।
+Call 110 immediately. 1	Sofort 110 anrufen.	तुरंत 110 पर कॉल करें।
+Call me this evening.	Rufen Sie mich heute Abend an.	आज शाम मुझे कॉल करें।
+Call me this evening. 1	Rufen Sie mich heute Abend an.	आज शाम मुझे कॉल करें।
+Can I ask a question?	Kann ich eine Frage stellen?	क्या मैं सवाल पूछ सकता हूँ?
+Can I close the door?	Kann ich die Tür schließen?	क्या मैं दरवाजा बंद कर सकता हूँ?
+Can I eat in my room?	Kann ich in meinem Zimmer essen?	क्या मैं अपने कमरे में खा सकता हूँ?
+Can I eat this bread?	Kann ich dieses Brot essen?	क्या मैं यह रोटी खा सकता हूँ?
