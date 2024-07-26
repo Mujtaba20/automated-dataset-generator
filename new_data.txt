@@ -23841,3 +23841,13 @@ Tom lived to be 93.	Tom lebte bis 93.	टॉम 93 साल की उम्र
 Tom lived to be 97.	Tom lebte bis 97.	टॉम 97 साल की उम्र तक जीता।
 Tom lives above me.	Tom lebt über mir.	टॉम मेरे ऊपर रहता है।
 Tom lives downtown.	Tom lebt in der Innenstadt.	टॉम शहर के बीच में रहता है।
+Tom lives frugally.	Tom lebt sparsam.	टॉम किफायती जीवन जीता है।
+Tom lives here now.	Tom lebt jetzt hier.	टॉम अब यहाँ रहता है।
+Tom locked the car.	Tom hat das Auto abgeschlossen.	टॉम ने कार को ताला लगा दिया।
+Tom locked the car. - Different meaning	Tom sperrte das Auto ab.	टॉम ने कार को बंद कर दिया।
+Tom looked alarmed.	Tom sah erschrocken aus.	टॉम चौंका दिखता था।
+Tom looked at Mary.	Tom schaute Mary an.	टॉम ने मेरी को देखा।
+Tom looked excited.	Tom sah aufgeregt aus.	टॉम उत्साहित दिखा।
+Tom looked outside.	Tom schaute nach draußen.	टॉम बाहर देख रहा था।
+Tom looked pensive.	Tom schaute nachdenklich.	टॉम चिंताग्रस्त दिखा।
+Tom looked worried.	Tom sah besorgt aus.	टॉम चिंतित दिखा।

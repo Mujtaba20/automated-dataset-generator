@@ -1,14 +1,4 @@
 
-Tom lives frugally.	Tom lebt sparsam.	टॉम किफायती रहता है।
-Tom lives here now.	Tom ist jetzt hier zu Hause.	टॉम अब घर पर है।
-Tom locked the car.	Tom verriegelte das Auto.	टॉम ने कार को बंद कर दिया।
-Tom locked the car.	Tom schloss das Auto ab.	टॉम ने कार पूरी की।
-Tom looked alarmed.	Tom sah beunruhigt aus.	टॉम चिंतित लग रहा था।
-Tom looked at Mary.	Tom sah Maria an.	टॉम ने मारिया को देखा।
-Tom looked excited.	Tom sah aufgeregt aus.	टॉम उत्साहित दिखे।
-Tom looked outside.	Tom schaute nach draußen.	टॉम बाहर देखा।
-Tom looked pensive.	Tom sah nachdenklich aus.	टॉम विचारशील लग रहा था।
-Tom looked worried.	Tom sah besorgt aus.	टॉम चिंतित लग रहा था।
 Tom looks after us.	Tom kümmert sich um uns.	टॉम हमारी देखभाल करता है।
 Tom looks confused.	Tom sieht verwirrt aus.	टॉम उलझन में दिखता है।
 Tom looks dejected.	Tom sieht niedergeschlagen aus.	टॉम नीचे दिखता है।
