@@ -22235,3 +22235,12 @@ It might be a trap.	Es könnte eine Falle sein.	यह एक फंदा ह�
 It must be removed.	Es muss beseitigt werden.	यह निकाला जाना चाहिए।
 It rained for days.	Es regnete tagelang.	कई दिनों तक बारिश हुई।
 It really happened.	Es ist wirklich passiert.	यह सच में हुआ।
+It saved our lives.	Es hat unser Leben gerettet.	यह हमारी जान बचाई।
+It seems worthless.	Es scheint wertlos zu sein.	यह निरर्थक लगता है।
+It smells like Tom.	Es riecht wie Tom.	यह टॉम जैसा सुगंधित है।
+It snowed a little.	Es hat ein wenig geschneit.	थोड़ी बर्फ गिरी।
+It snowed all week.	Es hat die ganze Woche geschneit.	सारा सप्ताह बर्फ गिरी थी।
+It snowed for days.	Es hat tagelang geschneit.	कई दिनों तक बर्फ गिरी थी।
+It sounds familiar.	Es klingt vertraut.	यह परिचित सुनाई देता है।
+It sounds like Tom.	Es klingt wie Tom.	यह टॉम जैसा सुनता है।
+It started to rain.	Es begann zu regnen.	बारिश होने लगी।

@@ -1,14 +1,4 @@
 
-It saved our lives.	Es hat uns das Leben gerettet.	जीवन ने हमें बचाया।
-It seems worthless.	Das scheint nutzlos zu sein.	यह बेकार लगता है।
-It smells like Tom.	Es riecht nach Tom.	यह टॉम की खुशबू आ रही है।
-It snowed a little.	Es hat ein wenig geschneit.	यह थोड़ा बर्फबारी हुई।
-It snowed all week.	Es schneite die ganze Woche.	पूरे सप्ताह बर्फबारी हो रही थी।
-It snowed for days.	Es schneite tagelang.	यह दिनों के लिए बर्फबारी की।
-It sounds familiar.	Das kommt mir bekannt vor.	यह मुझे परिचित लगता है।
-It sounds familiar.	Das klingt ähnlich.	यह समान लगता है।
-It sounds like Tom.	Es klingt nach Tom.	यह टॉम की तरह लगता है।
-It started to rain.	Es fing an zu regnen.	पानी बरसने लगा।
 It started to snow.	Es begann zu schneien.	बर्फ होने लगी।
 It started to snow.	Es fing an zu schneien.	बर्फ होने लगी।
 It turned out well.	Es ist gut ausgegangen.	यह अच्छी तरह से बाहर चला गया।
