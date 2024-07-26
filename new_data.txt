@@ -25180,3 +25180,11 @@ Boston is overrated.	Boston wird überschätzt.	बॉस्टन को अध
 Both Tom and I work.	Sowohl Tom als auch ich arbeiten.	टॉम और मैं दोनों काम करते हैं।
 Breakfast is served.	Frühstück ist serviert.	नाश्ता परोसा जा रहा है।
 Bring it back to me.	Bring es mir zurück.	इसे मुझे वापस लाओ।
+Bring me my clothes.	Bring mir meine Kleidung.	मेरा कपड़ा लेकर आओ।
+Bring me my glasses.	Bring mir meine Brille.	मुझे मेरा चश्मा दो।
+Bring your computer.	Bring deinen Computer.	अपना कंप्यूटर लेकर आओ।
+Bring your swimsuit.	Bring deinen Badeanzug.	अपनी स्विमसूट लाओ।
+Burn all this stuff.	Verbrenne all diesen Kram.	ये सभी सामान जलादो।
+But I don't want to.	Aber ich will nicht.	लेकिन मुझे नहीं करना है।
+But I wasn't afraid.	Aber ich hatte keine Angst.	लेकिन मुझे डर नहीं था।
+Can I call you back?	Kann ich dich zurückrufen?	क्या मैं आपको वापस कॉल कर सकता हूँ?

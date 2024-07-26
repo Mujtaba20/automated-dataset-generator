@@ -1,14 +1,4 @@
 
-Bring me my clothes.	Bring mir meine Kleidung.	मेरे कपड़े मेरे पास ले आओ।
-Bring me my glasses.	Bring mir meine Brille.	मुझे अपना चश्मा ले आओ।
-Bring me my glasses.	Bringt mir meine Brille.	मेरा चश्मा ले आओ।
-Bring your computer.	Bring deinen Rechner mit.	अपने कंप्यूटर को अपने साथ ले आओ।
-Bring your swimsuit.	Bring einen Badeanzug mit.	अपने साथ एक स्विमसूट लाओ।
-Burn all this stuff.	Verbrenn das ganze Zeug!	सभी सामान जलाओ!
-But I don't want to.	Aber ich will nicht!	लेकिन मैं नहीं चाहता!
-But I wasn't afraid.	Aber ich hatte keine Angst.	लेकिन मुझे डर नहीं था।
-Can I call you back?	Kann ich dich zurückrufen?	क्या मैं तुम्हें वापस कॉल कर सकता हूं?
-Can I call you back?	Kann ich Sie zurückrufen?	क्या मैं तुम्हें वापस कॉल कर सकता हूं?
 Can I check in here?	Kann ich mich hier anmelden?	क्या मैं यहाँ पंजीकरण कर सकता हूँ?
 Can I come with you?	Kann ich mich euch anschließen?	क्या मैं शामिल हो सकता हूँ?
 Can I come with you?	Kann ich mich dir anschließen?	क्या मैं शामिल हो सकता हूँ?
