@@ -1,16 +1,4 @@
 
-Have it your own way.	Mach, was du willst!	तुम्हें जो करना है करो!
-Have some pity on me.	Habe doch Erbarmen mit mir!	मेरे साथ दया है!
-Have you been abroad?	Waren Sie schon mal im Ausland?	क्या आप कभी विदेश गए हैं?
-Have you been abroad?	Wart ihr schon mal im Ausland?	क्या आप कभी विदेश गए हैं?
-Have you been crying?	Hast du geweint?	तुम रोये क्या?
-Have you been crying?	Haben Sie geweint?	क्या तुम रोते रहे?
-Have you been crying?	Habt ihr geweint?	क्या तुम रोते रहे?
-Have you eaten lunch?	Hast du zu Mittag gegessen?	क्या आपने दोपहर का खाना खाया?
-Have you ever smoked?	Hast du schon mal geraucht?	क्या आपने कभी धूम्रपान किया है?
-Have you fed the dog?	Hast du den Hund gefüttert?	क्या आपने कुत्ता खिलाया?
-Have you fed the dog?	Habt ihr den Hund gefüttert?	क्या आपने कुत्ते को खिलाया?
-Have you fed the dog?	Haben Sie den Hund gefüttert?	क्या आपने कुत्ता खिलाया?
 Have you finished it?	Hast du es fertiggestellt?	क्या आपने इसे पूरा किया?
 Have you finished it?	Bist du damit fertig?	क्या आप तैयार हैं?
 Have you lost weight?	Haben Sie abgenommen?	क्या आपने अपना वजन कम किया?

@@ -30920,3 +30920,10 @@ Have a good vacation.	Einen guten Urlaub haben.	अच्छी छुट्ट�
 Have a nice vacation.	Einen schönen Urlaub haben.	एक अच्छी छुट्टियाँ मनाओ।
 Have a pleasant trip.	Eine angenehme Reise haben.	सुखद यात्रा हो।
 Have fun this summer!	Viel Spaß diesen Sommer!	इस समर मज़े करो!
+Have it your own way.	Mach es auf deine eigene Weise.	अपने तरीके से करो।
+Have some pity on me.	Habe ein wenig Mitleid mit mir.	मुझ पर कुछ दया दिखाओ।
+Have you been abroad?	Bist du im Ausland gewesen?	क्या तुम विदेश गए हो?
+Have you been crying?	Hast du geweint?	क्या तुम रो रहे थे?
+Have you eaten lunch?	Hast du zu Mittag gegessen?	क्या तुमने दोपहर का खाना खा लिया है?
+Have you ever smoked?	Hast du je geraucht?	क्या तुमने कभी धूम्रपान किया है?
+Have you fed the dog?	Hast du den Hund gefüttert?	क्या तुमने कुत्ते को खिलाया है?
