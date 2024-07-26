@@ -1,14 +1,4 @@
 
-I'm bored right now.	Ich langweile mich gerade.	मैं तो बस ऊब रहा हूँ।
-I'm calling Tom now.	Ich rufe jetzt Tom an.	मैं अब टॉम को बुला रहा हूं।
-I'm coming with Tom.	Ich komme mit Tom.	मैं टॉम के साथ आता हूं।
-I'm coming with you.	Ich komme mit dir.	मैं तुम्हारे साथ आ रहा हूं।
-I'm counting on Tom.	Ich zähle auf Tom.	मैं टॉम पर भरोसा करता हूं।
-I'm counting on you.	Ich verlasse mich auf dich.	मैं तुम पर भरोसा कर रहा हूँ।
-I'm counting on you.	Ich zähle auf Sie.	मैं तुम पर भरोसा करता हुँ।
-I'm counting on you.	Ich rechne mit dir.	मुझे आपसे अपेक्षा करता हूं।
-I'm crazy about you.	Ich bin verrückt nach dir.	मैं तुम्हारे लिए पागल हूँ।
-I'm crazy about you.	Ich bin verrückt nach Dir!	मैं तुम्हारे लिए पागल हूँ!
 I'm deaf in one ear.	Ich bin auf einem Ohr taub.	मैं एक कान में बहरा हूं।
 I'm drafting a plan.	Ich entwerfe gerade einen Plan.	मैं वर्तमान में एक योजना डिजाइन कर रहा हूं।
 I'm drinking coffee.	Ich trinke Kaffee.	मुझे कॉफी पीना है।

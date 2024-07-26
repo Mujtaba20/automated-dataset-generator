@@ -27002,3 +27002,10 @@ I'm being sarcastic.	Ich bin sarkastisch.	मैं व्यंग्यपू�
 I'm better than Tom.	Ich bin besser als Tom.	मैं टॉम से बेहतर हूँ।
 I'm bigger than you.	Ich bin größer als du.	मैं तुमसे बड़ा हूँ।
 I'm blind, not deaf.	Ich bin blind, nicht taub.	मैं अंधा हूँ, बहरा नहीं।
+I'm bored right now.	Ich bin jetzt gelangweilt.	मुझे अभी बोरियत हो रही है।
+I'm calling Tom now.	Ich rufe jetzt Tom an.	मैं अभी टॉम को बुला रहा हूँ।
+I'm coming with Tom.	Ich komme mit Tom.	मैं टॉम के साथ आ रहा हूँ।
+I'm coming with you.	Ich komme mit dir.	मैं तुम्हारे साथ आ रहा हूँ।
+I'm counting on Tom.	Ich verlasse mich auf Tom.	मैं टॉम पर भरोसा कर रहा हूँ।
+I'm counting on you.	Ich vertraue auf dich.	मैं तुम पर भरोसा कर रहा हूँ।
+I'm crazy about you.	Ich bin von dir besessen.	मैं तुम्हें पागल हूँ।
