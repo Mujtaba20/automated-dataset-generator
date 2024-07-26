@@ -32977,3 +32977,10 @@ Let me see your palm.	Lass mich deine Handfläche sehen.	मुझे तुम�
 Let me see your ring.	Lass mich deinen Ring sehen.	मुझे तुम्हारी अंगूठी दिखाओ।
 Let me take a gander.	Lass mich einen Blick werfen.	मुझे एक टटोलने दो।
 Let me take you home.	Lass mich dich nach Hause bringen.	मुझे तुम्हें घर लेने दो।
+Let's check it later.	Lass es später überprüfen.	बाद में इसे चेक करें।
+Let's clean our room.	Lass uns unser Zimmer sauber machen.	हमारा कमरा साफ करते हैं।
+Let's discuss it now.	Lass uns es jetzt besprechen.	अब हम इस पर चर्चा करें।
+Let's finish the job.	Lassen Sie uns die Arbeit beenden.	काम पूरा करें।
+Let's get some lunch.	Lass uns etwas zu Mittag essen.	हमें लंच पर कुछ लेना है।
+Let's get some sleep.	Lass uns etwas schlafen.	हमें कुछ नींद लेनी चाहिए।
+Let's give it to Tom.	Lassen Sie uns es Tom geben.	तोम को दें।
