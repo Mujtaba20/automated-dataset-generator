@@ -1,15 +1,4 @@
 
-Do you give lessons?	Unterrichtest du?	क्या आप पढ़ाते हैं?
-Do you go to church?	Gehst du in die Kirche?	क्या आप चर्च में जाते हैं?
-Do you go to school?	Gehst du zur Schule?	क्या आप स्कूल जाते है?
-Do you have a child?	Hast du ein Kind?	क्या आपके बच्चे हैं?
-Do you have a cough?	Haben Sie Husten?	क्या आपको खांसी है?
-Do you have a fever?	Hast du Fieber?	आपको बुखार है?
-Do you have a fever?	Haben Sie Fieber?	क्या आपको बुखार है?
-Do you have a house?	Hast du ein Haus?	क्या आपके पास एक घर है?
-Do you have a knife?	Hast du ein Messer?	क्या आपके पास चाकू है?
-Do you have a knife?	Haben Sie ein Messer?	क्या आपके पास चाकू है?
-Do you have a knife?	Habt ihr ein Messer?	क्या आपके पास चाकू है?
 Do you have a match?	Hast du ein Streichholz?	क्या आपका मैच है?
 Do you have a match?	Hast du eine Übereinstimmung?	क्या आपके पास कोई समझौता है?
 Do you have a motto?	Hast du ein Motto?	क्या आपके पास एक आदर्श वाक्य है?

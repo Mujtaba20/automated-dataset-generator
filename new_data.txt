@@ -25323,3 +25323,11 @@ Do we need a Plan B?	Brauchen wir einen Plan B?	क्या हमें एक
 Do what you're told.	Tu, was dir gesagt wird.	जो कहा गया है, वह करो।
 Do you drink coffee?	Trinkst du Kaffee?	क्या तुम कॉफ़ी पीते हो?
 Do you enjoy losing?	Mach es dir Spaß zu verlieren?	क्या गायब होने में आनंद आता है?
+Do you give lessons?	Gibst du Unterricht?	क्या आप पाठ देते हैं?
+Do you go to church?	Gehst du in die Kirche?	क्या आप चर्च जाते हैं?
+Do you go to school?	Gehst du zur Schule?	क्या तुम स्कूल जाते हो?
+Do you have a child?	Hast du ein Kind?	क्या आपके पास एक बच्चा है?
+Do you have a cough?	Hast du Husten?	क्या आपको खांसी है?
+Do you have a fever?	Hast du Fieber?	क्या आपको बुखार है?
+Do you have a house?	Hast du ein Haus?	क्या आपके पास एक घर है?
+Do you have a knife?	Hast du ein Messer?	क्या आपके पास एक चाकू है?
