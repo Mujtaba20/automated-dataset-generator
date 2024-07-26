@@ -1,14 +1,4 @@
 
-Tom often helps others.	Tom hilft anderen oft.	टॉम अक्सर दूसरों की मदद करता है।
-Tom often lies to Mary.	Tom lügt Maria oft an.	टॉम अक्सर मारिया झूठ बोलता है।
-Tom often lies to Mary.	Tom belügt Maria oft.	टॉम अक्सर मारिया झूठ बोलता है।
-Tom often praises Mary.	Tom lobt Maria oft.	टॉम अक्सर मारिया की प्रशंसा करता है।
-Tom often reads in bed.	Tom liest oft im Bett.	टॉम अक्सर बिस्तर में पढ़ता है।
-Tom only did that once.	Tom hat das nur einmal getan.	टॉम ने केवल एक बार ऐसा किया।
-Tom only drinks coffee.	Tom trinkt nur Kaffee.	टॉम केवल कॉफी पीता है।
-Tom only eats raw food.	Tom isst nur Rohes.	टॉम केवल कच्चा खाता है।
-Tom only eats raw food.	Tom isst nur Rohkost.	टॉम केवल कच्चा खाना खाता है।
-Tom only listens to me.	Tom hört nur auf mich.	टॉम केवल मुझे सुनता है।
 Tom only saw Mary once.	Tom hat Maria erst einmal gesehen.	टॉम ने मारिया को पहले देखा।
 Tom opened his present.	Tom packte sein Geschenk aus.	टॉम ने अपने उपहार को अनपैक कर दिया।
 Tom owed a lot to Mary.	Tom hatte Mary viel zu verdanken.	टॉम ने मैरी को बहुत देखा।
