@@ -1,14 +1,4 @@
 
-They look confused.	Sie wirken verwirrt.	वे उलझन में दिखते हैं।
-They look confused.	Sie machen einen verwirrten Eindruck.	वे एक भ्रमित छाप बनाते हैं।
-They look relieved.	Sie sehen erleichtert aus.	वे राहत महसूस करते हैं।
-They looked around.	Sie schauten sich um.	उन्होंने चारों ओर देखा।
-They made me do it.	Sie haben mich dazu gebracht, es zu tun.	उन्होंने मुझे ये करने के लिए मजबूर कर दिया।
-They made me do it.	Sie brachten mich dazu, es zu tun.	उन्होंने मुझे ये करने के लिए मजबूर कर दिया।
-They make me laugh.	Sie bringen mich zum Lachen.	तुम मुझे हंसाते हो।
-They mean business.	Sie meinen’s ernst.	आप इसे गंभीरता से मतलब है।
-They met in secret.	Sie trafen sich heimlich.	वे चुपके से मिले।
-They must be happy.	Sie müssen glücklich sein.	तुम्हें खुश होना पड़ेगा।
 They need a lawyer.	Sie brauchen einen Anwalt.	आपको एक वकील की जरूरत है।
 They need a lawyer.	Sie benötigen einen Rechtsanwalt.	आपको एक वकील की जरूरत है।
 They need our help.	Sie brauchen unsere Hilfe.	आपको हमारी मदद चाहिए।

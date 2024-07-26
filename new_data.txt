@@ -23119,3 +23119,11 @@ They laughed at us.	Sie haben über uns gelacht.	उन्होंने हम
 They left me alone.	Sie haben mich allein gelassen.	उन्होंने मुझे अकेला छोड़ दिया।
 They left together.	Sie sind zusammen gegangen.	उन्होंने साथ चल दिया।
 They like to dance.	Sie tanzen gerne.	उन्हें नृत्य करना पसंद है।
+They look confused.	Sie sehen verwirrt aus.	वे भ्रांत हैं।
+They look relieved.	Sie sehen erleichtert aus.	वे राहत की सांस ले रहे हैं।
+They looked around.	Sie schauten sich um.	उन्होंने आसपास देखा।
+They made me do it.	Sie zwangen mich dazu.	उन्होंने मुझे यह करने के लिए मजबूर किया।
+They make me laugh.	Sie bringen mich zum Lachen.	वे मुझे हंसाते हैं।
+They mean business.	Sie meinen es ernst.	उन्हें व्यवसाय की समझ है।
+They met in secret.	Sie trafen sich heimlich.	वे गुप्त में मिले।
+They must be happy.	Sie müssen glücklich sein.	वे खुश होंगे।
