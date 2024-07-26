@@ -1,14 +1,4 @@
 
-I have to head out now.	Ich muss nun aufbrechen.	मुझे अब तोड़ना है।
-I have to learn French.	Ich muss Französisch lernen.	मुझे फ्रेंच सीखना है।
-I have to leave school.	Ich muss von der Schule abgehen.	मुझे स्कूल छोड़ना है।
-I have to live with it.	Ich muss damit leben.	मुझे इसके साथ रहना है।
-I have to open my shop.	Ich muss meinen Laden öffnen.	मुझे अपनी दुकान खोलनी है।
-I have to pay the bill.	Ich muss die Rechnung bezahlen.	मुझे बिल का भुगतान करना है।
-I have to quit smoking.	Ich muss mit dem Rauchen aufhören.	मुझे धूम्रपान बंद करना है।
-I have to study French.	Ich muss Französisch lernen.	मुझे फ्रेंच सीखना है।
-I have to take a break.	Ich muss eine Pause machen.	मुझे एक ब्रेक लेना है।
-I have tons of friends.	Ich habe jede Menge Freunde.	मेरे बहुत दोस्त है।
 I haven't forgiven you.	Ich habe dir nicht verziehen.	मैंने आपको माफ नहीं किया।
 I haven't forgiven you.	Ich habe dir noch nicht verziehen.	मैंने आपको अभी तक माफ नहीं किया है।
 I haven't found it yet.	Ich habe es noch nicht gefunden.	मैंने इसे अभी तक नहीं पाया है।
