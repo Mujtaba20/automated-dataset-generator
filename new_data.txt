@@ -29017,3 +29017,13 @@ Tom isn't in Boston.	Tom ist nicht in Boston.	टॉम बोस्टन म�
 Tom isn't like Mary.	Tom mag Mary nicht.	टॉम मेरी की तरह नहीं है।
 Tom isn't like that.	Tom ist nicht so.	टॉम ऐसा नहीं है।
 Tom isn't listening.	Tom hört nicht zu.	टॉम सुन नहीं रहा है।
+Tom isn't my cousin.	Tom ist nicht mein Cousin.	टॉम मेरा भाई नहीं है।
+Tom isn't my father.	Tom ist nicht mein Vater.	टॉम मेरा पिताजी नहीं है।
+Tom isn't my friend.	Tom ist nicht mein Freund.	टॉम मेरा दुश्मन नहीं है।
+Tom isn't one of us.	Tom gehört nicht zu uns.	टॉम हमारे बीच नहीं है।
+Tom isn't our enemy.	Tom ist nicht unser Feind.	टॉम हमारा मित्र नहीं है।
+Tom isn't ready yet.	Tom ist noch nicht bereit.	टॉम अभी तैयार नहीं है।
+Tom isn't talkative.	Tom ist nicht gesprächig.	टॉम अधूरा नहीं है।
+Tom isn't that dumb.	Tom ist nicht so dumm.	टॉम उम्मीद से अधिक नहीं है।
+Tom isn't that poor.	Tom ist nicht so arm.	टॉम उसके बदले नहीं है।
+Tom isn't the enemy.	Tom ist nicht der Feind.	टॉम अपने दोस्त नहीं है।

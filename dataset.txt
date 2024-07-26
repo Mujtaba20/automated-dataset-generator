@@ -1,14 +1,4 @@
 
-Tom isn't my cousin.	Tom ist nicht mein Cousin.	टॉम मेरे चचेरे भाई नहीं हैं।
-Tom isn't my father.	Tom ist nicht mein Vater.	टॉम मेरे पिता नहीं हैं।
-Tom isn't my friend.	Tom ist nicht mein Freund.	टॉम मेरा दोस्त नहीं है।
-Tom isn't one of us.	Tom ist nicht einer von uns.	टॉम हम में से एक नहीं है।
-Tom isn't our enemy.	Tom ist nicht unser Feind.	टॉम हमारा दुश्मन नहीं है।
-Tom isn't ready yet.	Tom ist noch nicht fertig.	टॉम अभी तक समाप्त नहीं हुआ है।
-Tom isn't talkative.	Tom redet nicht viel.	टॉम ज्यादा बात नहीं करता है।
-Tom isn't that dumb.	So dumm ist Tom nicht.	टॉम वह बेवकूफ नहीं है।
-Tom isn't that poor.	Tom ist nicht arm.	टॉम गरीब नहीं है।
-Tom isn't the enemy.	Tom ist nicht der Feind.	टॉम दुश्मन नहीं है।
 Tom isn't the owner.	Tom ist nicht der Besitzer.	टॉम मालिक नहीं है।
 Tom isn't too happy.	Tom ist nicht allzu glücklich.	टॉम बहुत खुश नहीं है।
 Tom isn't very nice.	Tom ist nicht sehr nett.	टॉम बहुत अच्छा नहीं है।
