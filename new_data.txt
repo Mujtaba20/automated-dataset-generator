@@ -29824,3 +29824,10 @@ What was the result?	Was war das Ergebnis?	परिणाम क्या थ�
 What was your major?	Was war dein Hauptfach?	तुम्हारा मुख्य विषय क्या था?
 What was your score?	Was war deine Punktzahl?	तुम्हारा स्कोर क्या था?
 What would you like?	Was würden Sie gerne haben?	तुम क्या पसंद करोगे?
+What'll we tell Tom?	Was werden wir Tom sagen?	हम टॉम को क्या बोलेंगे?
+What'll you give me?	Was wirst du mir schenken?	तुम मुझे क्या देंगे?
+What'll you guys do?	Was werdet ihr tun?	तुम लोग क्या करोगे?
+What'll you live on?	Wovon wirst du leben?	तुम किस पर जीवित रहोगे?
+What're you good at?	Was kannst du gut?	तुम क्या अच्छा कर सकते हो?
+What're you reading?	Was seid ihr am Lesen?	तुम क्या पढ़ रहे हो?
+What're you writing?	Was schreibst du?	तुम क्या लिख रहे हो?

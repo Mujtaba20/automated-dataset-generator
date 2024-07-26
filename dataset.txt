@@ -1,14 +1,4 @@
 
-What'll we tell Tom?	Was sagen wir Tom?	हम टॉम क्या कहते हैं?
-What'll you give me?	Was wirst du mir geben?	तुम मुझे क्या दोगे
-What'll you give me?	Was gibst du mir?	आप मुझे क्या देते हैं?
-What'll you guys do?	Was werdet ihr tun?	क्या करेंगे आप?
-What'll you live on?	Wovon wirst du leben?	आप किस पर रहेंगे?
-What're you good at?	Was kannst du gut?	क्या आप अच्छी तरह से कर सकते हैं?
-What're you good at?	Worin bist du bewandert?	आप कैसे हैं?
-What're you reading?	Was liest du?	आप क्या पढ़ रहे हैं?
-What're you reading?	Was liest du gerade?	आप क्या पढ़ रहे हैं?
-What're you writing?	Was schreibst du?	आप क्या लिख ​​रहे हो?
 What's Tom drinking?	Was trinkt Tom da?	टॉम क्या पीता है?
 What's Tom given us?	Was hat Tom uns gegeben?	टॉम ने हमें क्या दिया?
 What's in here, Tom?	Was ist hier drin, Tom?	यहाँ क्या है, टॉम?
