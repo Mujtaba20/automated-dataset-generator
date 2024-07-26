@@ -27259,3 +27259,11 @@ Is that a submarine?	Ist das ein U-Boot?	क्या वह एक समुद
 Is that a yes or no?	Ist das ein Ja oder Nein?	क्या वह हाँ या नहीं है?
 Is that all we need?	Ist das alles, was wir brauchen?	क्या यह सब हमें चाहिए?
 Is that book for me?	Ist das Buch für mich?	क्या यह किताब मेरे लिए है?
+Is that clock going?	Geht diese Uhr?	क्या वह घड़ी जा रही है?
+Is that from a book?	Ist das aus einem Buch?	क्या यह किताब से है?
+Is that one of ours?	Ist das eine von uns?	क्या यह हमारी में से एक है?
+Is that really true?	Ist das wirklich wahr?	क्या यह सच है?
+Is that so terrible?	Ist das so schrecklich?	क्या यह इतना भयानक है?
+Is that thing yours?	Ist das dein Ding?	क्या वह चीज़ तुम्हारी है?
+Is that your mother?	Ist das deine Mutter?	क्या वह तुम्हारी माँ है?
+Is that your sister?	Ist das deine Schwester?	क्या वह तुम्हारी बहन है?

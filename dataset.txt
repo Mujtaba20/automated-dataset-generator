@@ -1,15 +1,4 @@
 
-Is that clock going?	Geht die Uhr?	क्या घड़ी जाती है?
-Is that from a book?	Ist das aus einem Buch?	क्या यह एक किताब से है?
-Is that one of ours?	Gehört der uns?	क्या यह हमारा है?
-Is that really true?	Stimmt das wirklich?	क्या यह वास्तव में सच है?
-Is that really true?	Ist das wirklich wahr?	क्या यह वास्तव में सच है?
-Is that so terrible?	Ist das so schlimm?	क्या यह बुरा है?
-Is that thing yours?	Gehört das Ding dir?	क्या वह बात आपके पास है?
-Is that your mother?	Ist das deine Mutter?	क्या यह आपकी माँ है?
-Is that your sister?	Ist das deine Schwester?	क्या ये आपकी बहिन है?
-Is that your sister?	Ist das Ihre Schwester?	क्या वह बहन है?
-Is that your sister?	Ist das eure Schwester?	क्या ये आपकी बहिन है?
 Is the bar open yet?	Hat die Kneipe schon geöffnet?	क्या पब पहले से ही खुला है?
 Is the bar open yet?	Hat die Bar schon geöffnet?	क्या बार पहले ही खोला गया है?
 Is this OK with you?	Ist das OK für dich?	क्या आपके लिए यह ठीक है?
