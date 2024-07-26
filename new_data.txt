@@ -29195,3 +29195,11 @@ Tom owes Mary money.	Tom schuldet Maria Geld.	टॉम मैरी को प�
 Tom owes me a favor.	Tom schuldet mir einen Gefallen.	टॉम मुझसे एक योग्यता ऋणी है।
 Tom packed his bags.	Tom verpackte seine Koffer.	टॉम ने अपने बस्तों को पैक किया।
 Tom passed the exam.	Tom hat die Prüfung bestanden.	टॉम ने परीक्षा उत्तीर्ण की।
+Tom passed the test.	Tom hat den Test bestanden.	टॉम ने परीक्षा पास की।
+Tom peeled an apple.	Tom hat einen Apfel geschält.	टॉम ने एक सेब छीला।
+Tom planted carrots.	Tom hat Karotten gepflanzt.	टॉम ने गाजर बोए।
+Tom planted flowers.	Tom hat Blumen gepflanzt.	टॉम ने फूल लगाए।
+Tom planted lettuce.	Tom hat Salat gepflanzt.	टॉम ने लेटुस बोया।
+Tom played football.	Tom hat Fußball gespielt.	टॉम ने फुटबॉल खेला।
+Tom plays the drums.	Tom spielt Schlagzeug.	टॉम ड्रम्स बजाता है।
+Tom plays the organ.	Tom spielt die Orgel.	टॉम ऑर्गन बजाता है।

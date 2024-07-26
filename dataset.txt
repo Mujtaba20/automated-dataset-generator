@@ -1,14 +1,4 @@
 
-Tom passed the test.	Tom hat die Prüfung bestanden.	टॉम ने परीक्षा दी।
-Tom passed the test.	Tom bestand die Prüfung.	टॉम ने परीक्षा दी।
-Tom peeled an apple.	Tom schälte einen Apfel.	टॉम ने एक सेब छील लिया।
-Tom planted carrots.	Tom pflanzte Karotten.	टॉम ने गाजर लगाया।
-Tom planted carrots.	Tom pflanzte Möhren.	टॉम ने गाजर लगाया।
-Tom planted flowers.	Tom pflanzte Blumen.	टॉम ने फूल लगाए।
-Tom planted lettuce.	Tom pflanzte Kopfsalat.	टॉम ने लेट्यूस लगाया।
-Tom played football.	Tom spielte Fußball.	टॉम ने फुटबॉल खेला।
-Tom plays the drums.	Tom spielt Schlagzeug.	टॉम ड्रम बजाता है।
-Tom plays the organ.	Thomas spielt Orgel.	थॉमस अंग खेलता है।
 Tom plays the piano.	Tom spielt Klavier.	टॉम पियानो बजाता है।
 Tom pointed at Mary.	Tom zeigte auf Maria.	टॉम ने मारिया की ओर इशारा किया।
 Tom pointed to Mary.	Tom zeigte auf Maria.	टॉम ने मारिया की ओर इशारा किया।
