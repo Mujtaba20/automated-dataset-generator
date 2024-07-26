@@ -1,15 +1,4 @@
 
-Nothing is impossible.	Nichts ist unmöglich!	कुछ भी असंभव नहीं है!
-Nothing lasts forever.	Nichts währt ewig.	हमेशा के लिए कुछ भी नहीं रहता।
-Now I'm a doctor, too.	Jetzt bin ich auch ein Doktor.	अब मैं एक डॉक्टर भी हूं।
-Now's not a good time.	Jetzt passt es gar nicht.	अब यह बिल्कुल फिट नहीं है।
-Nuclear power is safe.	Kernenergie ist sicher.	परमाणु ऊर्जा सुरक्षित है।
-Obviously he is wrong.	Er hat offensichtlich unrecht.	वह स्पष्ट रूप से गलत है।
-One of my teeth hurts.	Mir tut ein Zahn weh.	एक दांत मुझे चोट पहुँचाता है।
-Open the door, please.	Öffnen Sie bitte die Tür.	कृपया दरवाज़ा खोलें।
-Open the door, please.	Öffne bitte die Tür.	कृपया दरवाज़ा खोलें।
-Open the door, please.	Bitte mach die Tür auf.	कृपया दरवाज़ा खोलें।
-Open the door, please.	Bitte, mach die Tür auf!	कृपया दरवाज़ा खोलें!
 Optimists live longer.	Optimisten leben länger.	आशावादी लंबे समय तक रहते हैं।
 Our dog has gone away.	Unser Hund ist entlaufen.	हमारा कुत्ता बाहर चला गया है।
 Our dog has gone away.	Unser Hund ist weggelaufen.	हमारा कुत्ता भाग गया।
