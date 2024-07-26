@@ -1,15 +1,4 @@
 
-Tom knew everything.	Tom wusste alles.	टॉम सब कुछ जानता था।
-Tom knew the reason.	Tom kannte den Grund.	टॉम को कारण पता था।
-Tom knew what to do.	Tom wusste, was zu tun war.	टॉम जानता था कि क्या करना है।
-Tom knows I'm right.	Tom weiß, dass ich recht habe.	टॉम जानता है कि मैं सही हूं।
-Tom knows I'm right.	Tom weiß, dass ich Recht habe.	टॉम जानता है कि मैं सही हूं।
-Tom knows Mary lied.	Tom weiß, dass Mary gelogen hat.	टॉम जानता है कि मैरी ने झूठ बोला।
-Tom knows Mary lied.	Dass Mary log, weiß Tom.	टॉम जानता है कि मैरी लॉग।
-Tom knows everybody.	Tom kennt jeden.	टॉम हर कोई जानता है।
-Tom knows his stuff.	Tom kennt sich aus.	टॉम अपने रास्ते को जानता है।
-Tom knows it's true.	Tom weiß, dass es wahr ist.	टॉम जानता है कि यह सच है।
-Tom knows it's true.	Tom weiß, dass es stimmt.	टॉम जानता है कि यह सच है।
 Tom knows my number.	Tom kennt meine Nummer.	टॉम मेरा नंबर जानता है।
 Tom knows no French.	Tom kann kein Französisch.	टॉम फ्रेंच नहीं कर सकता।
 Tom knows something.	Tom weiß etwas.	टॉम कुछ जानता है।

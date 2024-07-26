@@ -29045,3 +29045,11 @@ Tom kicked the ball.	Tom trat den Ball.	टॉम ने गेंद को ल
 Tom kicked the door.	Tom trat die Tür.	टॉम ने दरवाजा थोका।
 Tom killed the wolf.	Tom hat den Wolf getötet.	टॉम ने भेड़िया को मार दिया।
 Tom knew about this.	Tom wusste darüber Bescheid.	टॉम को इसके बारे में पता था।
+Tom knew everything.	Tom wusste alles.	टॉम को सब कुछ पता था।
+Tom knew the reason.	Tom kannte den Grund.	टॉम को कारण पता था।
+Tom knew what to do.	Tom wusste, was zu tun ist.	टॉम को पता था कि क्या करना है।
+Tom knows I'm right.	Tom weiß, dass ich recht habe.	टॉम को पता है कि मैं सही हूँ।
+Tom knows Mary lied.	Tom weiß, dass Maria gelogen hat.	टॉम को पता है कि मेरी ने झूठा बोला।
+Tom knows everybody.	Tom kennt jeden.	टॉम को सबका पता है।
+Tom knows his stuff.	Tom kennt sich aus.	टॉम को अपनी चीज़ का पता है।
+Tom knows it's true.	Tom weiß, dass es wahr ist.	टॉम को पता है कि यह सच है।
