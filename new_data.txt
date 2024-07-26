@@ -21350,3 +21350,9 @@ I hope you approve.	Ich hoffe, du stimmst zu.	मुझे आशा है क�
 I hope you like it.	Ich hoffe, es gefällt dir.	मुझे आशा है कि यह तुम्हें पसंद आए।
 I hurt my shoulder.	Ich habe mir meine Schulter verletzt.	मुझे मेरी कंधे में चोट लगी।
 I jog twice a week.	Ich jogge zweimal pro Woche.	मैं हफ्ते में दो बार जॉग करता हूँ।
+I just can't do it.	Ich schaffe es einfach nicht.	मैं बस नहीं कर सकता।
+I just emailed you.	Ich habe dir gerade eine E-Mail gesendet.	मैंने अभी तुम्हें एक ईमेल भेजा है।
+I just got engaged.	Ich habe mich gerade verlobt.	मैं अभी सगाई की है।
+I just want to die.	Ich will einfach sterben.	मैं बस मरना चाहता हूँ।
+I just want to win.	Ich will einfach siegen.	मैं बस जीतना चाहता हूँ।
+I kept Tom waiting.	Ich hielt Tom auf.	मैंने टॉम को इंतजार में रखा।
