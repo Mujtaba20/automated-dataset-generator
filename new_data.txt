@@ -28525,3 +28525,13 @@ Those are the facts.	Das sind die Fakten.	ये हकीकतें हैं
 Those things happen.	Das kommt vor.	वैसी ही चीजें होती हैं।
 Thou shalt not kill.	Du sollst nicht töten.	तू मारना नहीं चाहिए।
 Three weeks went by.	Drei Wochen vergingen.	तीन हफ्ते बीत गए।
+Throw down your gun.	Leg deine Waffe weg.	अपनी बंदूक नीचे फेंक दो।
+Throw down your gun.1	Werfen Sie Ihre Waffe ab.	अपनी बंदूक नीचे फेंको।
+Time is running out.	Die Zeit läuft ab.	समय की कमी हो रही है।
+Time passes quickly.	Die Zeit vergeht schnell.	समय तेजी से बीत रहा है।
+Time passes quickly.1	Die Zeit fliegt schnell vorbei.	समय तेजी से बीत जाता है।
+Today is a good day.	Heute ist ein guter Tag.	आज एक अच्छा दिन है।
+Today's the big day.	Heute ist der große Tag.	आज बड़ा दिन है।
+Tokyo is a big city.	Tokio ist eine große Stadt.	टोक्यो एक बड़े शहर है।
+Tom abused my trust.	Tom hat mein Vertrauen missbraucht.	टॉमने मेरा भरोसा टूटा।
+Tom acted foolishly.	Tom hat töricht gehandelt.	टॉम ने मूर्खता से किया।

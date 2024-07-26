@@ -1,14 +1,4 @@
 
-Throw down your gun.	Waffe fallenlassen!	हथियार गिरने दो!
-Throw down your gun.	Waffe weg!	बंदूक दूर!
-Time is running out.	Die Zeit läuft aus.	समय समाप्त हो रहा है।
-Time passes quickly.	Die Zeit vergeht schnell.	समय उड़ता है।
-Time passes quickly.	Die Zeit vergeht rasch.	समय जल्दी बीत जाता है।
-Today is a good day.	Heute ist ein guter Tag.	आज अच्छा दिन है।
-Today's the big day.	Heute ist der große Tag.	आज बड़ा दिन है।
-Tokyo is a big city.	Tōkyō ist eine große Stadt.	टुकी एक बड़ा शहर है।
-Tom abused my trust.	Tom missbrauchte mein Vertrauen.	टॉम ने मेरे विश्वास का दुरुपयोग किया।
-Tom acted foolishly.	Tom handelte sehr töricht.	टॉम ने बहुत मूर्खतापूर्ण अभिनय किया।
 Tom advised caution.	Tom riet zur Vorsicht.	टॉम ने सावधानी के लिए सलाह दी।
 Tom always helps us.	Tom hilft uns immer.	टॉम हमेशा हमारी मदद करता है।
 Tom and I are broke.	Tom und ich sind pleite.	टॉम और मैं टूट गए हैं।
