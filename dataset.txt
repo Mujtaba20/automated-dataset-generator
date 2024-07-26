@@ -1,14 +1,4 @@
 
-I know I owe you money.	Ich weiß, dass ich dir Geld schulde.	मुझे पता है कि मैं तुम्हें पैसे देता हूं।
-I know I'm good enough.	Ich weiß, dass ich gut genug bin.	मुझे पता है कि मैं काफी अच्छा हूं।
-I know I'm not perfect.	Ich weiß, dass ich nicht vollkommen bin.	मुझे लगता है मैं परिपूर्ण नहीं हूं।
-I know Tom is a doctor.	Ich weiß, dass Tom Arzt ist.	मुझे पता है कि टॉम एक डॉक्टर है।
-I know Tom is a genius.	Ich weiß, dass Tom ein Genie ist.	मुझे पता है कि टॉम एक प्रतिभाशाली है।
-I know Tom is a racist.	Ich weiß, dass Tom ein Rassist ist.	मुझे पता है कि टॉम एक नस्लवादी है।
-I know Tom is divorced.	Ich weiß, dass Tom geschieden ist.	मुझे पता है कि टॉम तलाकशुदा है।
-I know Tom is homesick.	Ich weiß, dass Tom Heimweh hat.	मुझे पता है कि टॉम होमसिक है।
-I know Tom is in there.	Ich weiß, Tom ist da drin.	मुझे पता है कि टॉम वहां है।
-I know Tom is innocent.	Ich weiß, dass Tom unschuldig ist.	मुझे पता है कि टॉम निर्दोष है।
 I know Tom isn't alone.	Ich weiß, dass Tom nicht allein ist.	मुझे पता है कि टॉम अकेला नहीं है।
 I know Tom pretty well.	Ich kenne Tom ziemlich gut.	मैं टॉम को बहुत अच्छी तरह से जानता हूं।
 I know Tom understands.	Ich weiß, Tom versteht das.	मुझे पता है कि टॉम समझता है कि।
