@@ -35832,3 +35832,10 @@ You look happy today.	Du siehst heute glücklich aus.	तुम आज खुश
 You look like a girl.	Du siehst wie ein Mädchen aus.	तुम एक लड़की की तरह लगते हो।
 You look really good.	Du machst wirklich einen guten Eindruck.	तुम वास्तव में भारी लग रहे हो।
 You lost, didn't you?	Du hast verloren, nicht?	तुम हार गए, ना?
+You made it possible.	Du hast es möglich gemacht.	तुमने यह संभव बनाया।
+You may not be right.	Du hast vielleicht nicht recht.	शायद तुम सही ना हो।
+You may speak freely.	Du darfst frei sprechen.	तुम स्वतंत्र रूप से बोल सकते हो।
+You may speak to him.	Du darfst mit ihm sprechen.	तुम उससे बात कर सकते हो।
+You may use this car.	Du darfst dieses Auto benutzen.	तुम इस गाड़ी का उपयोग कर सकते हो।
+You mean a lot to me.	Du bedeutest mir viel.	तुम मेरे लिए बहुत कुछ हो।
+You mean a lot to me. (Different meaning)	Du meinst mir viel.	तुम मेरे लिए काफी मायनता रखते हो।

@@ -1,14 +1,4 @@
 
-You made it possible.	Du hast es möglich gemacht.	आपने इसे संभव बना दिया।
-You may not be right.	Du magst nicht recht haben.	आप सही नहीं हो सकते।
-You may speak freely.	Du kannst ungezwungen reden.	आप लापरवाही से बात कर सकते हैं।
-You may speak freely.	Sie können ungezwungen reden.	आप लापरवाही से बात कर सकते हैं।
-You may speak freely.	Ihr könnt ungezwungen reden.	आप लापरवाही से बात कर सकते हैं।
-You may speak to him.	Sie können mit ihm sprechen.	आप उससे बात कर सकते हैं।
-You may use this car.	Du kannst diesen Wagen benutzen.	आप इस कार का उपयोग कर सकते हैं।
-You mean a lot to me.	Du bedeutest mir sehr viel.	आप मेरे लिए बहुत मायने रखते हैं।
-You mean a lot to me.	Ihr bedeutet mir sehr viel.	वह मेरे लिए बहुत मायने रखती है।
-You mean a lot to me.	Sie bedeuten mir sehr viel.	तुम मेरे लिए बहुत ख़ास हो।
 You might be correct.	Du könntest recht haben.	आप सही हो सकते हैं।
 You missed the point.	Du hast das Wesentliche nicht verstanden.	आप आवश्यक चीजों को नहीं समझते थे।
 You must be cautious.	Du musst vorsichtig sein.	आपको सावधान रहना होगा।
