@@ -1,14 +1,4 @@
 
-Tom didn't approve.	Tom stimmte nicht zu.	टॉम सहमत नहीं था।
-Tom didn't approve.	Tom hat nicht zugestimmt.	टॉम सहमत नहीं थे।
-Tom didn't deny it.	Tom hat es nicht abgestritten.	टॉम ने इससे इनकार नहीं किया।
-Tom didn't do that.	Tom hat das nicht getan.	टॉम ने ऐसा नहीं किया।
-Tom didn't do that.	Tom hat das nicht gemacht.	टॉम ने ऐसा नहीं किया।
-Tom didn't do this.	Tom hat das nicht getan.	टॉम ने ऐसा नहीं किया।
-Tom didn't do well.	Tom hat nicht gut abgeschnitten.	टॉम ने अच्छी तरह से कटौती नहीं की।
-Tom didn't find me.	Tom hat mich nicht gefunden.	टॉम मुझे नहीं मिला।
-Tom didn't give up.	Tom gab nicht auf.	टॉम ने हार नहीं मानी।
-Tom didn't go home.	Tom ging nicht nach Hause.	टॉम घर नहीं गया।
 Tom didn't help me.	Tom half mir nicht.	टॉम ने मेरी मदद नहीं की।
 Tom didn't help us.	Tom hat uns nicht geholfen.	टॉम ने हमारी मदद नहीं की।
 Tom didn't help us.	Tom half uns nicht.	टॉम ने हमारी मदद नहीं की।

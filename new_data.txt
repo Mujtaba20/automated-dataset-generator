@@ -23393,3 +23393,11 @@ Tom did it for fun.	Tom machte es zum Spaß.	टॉमने मजे के �
 Tom did it himself.	Tom hat es alleine gemacht.	टॉमने यह खुद किया।
 Tom did that a lot.	Tom hat das oft gemacht.	टॉमने बहुत सारी बार यह किया।
 Tom did this to me.	Tom hat das mir getan.	टॉमने यह मेरे साथ किया।
+Tom didn't approve.	Tom stimmte nicht zu.	टॉम ने स्वीकृति नहीं दी।
+Tom didn't deny it.	Tom hat es nicht bestritten.	टॉम ने इसे नकारने वाला नहीं था।
+Tom didn't do that.	Tom hat das nicht gemacht.	तॉम ने ऐसा नहीं किया।
+Tom didn't do this.	Tom hat das nicht getan.	टॉम ने यह नहीं किया।
+Tom didn't do well.	Tom hat es nicht gut gemacht.	टॉम ने अच्छा नहीं किया।
+Tom didn't find me.	Tom hat mich nicht gefunden.	टॉम ने मुझे नहीं ढूंढा।
+Tom didn't give up.	Tom hat nicht aufgegeben.	टॉम ने हार नहीं मानी।
+Tom didn't go home.	Tom ist nicht nach Hause gegangen.	टॉम ने घर नहीं जाने दिया।
