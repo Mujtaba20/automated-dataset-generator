@@ -1,14 +1,4 @@
 
-How did you guess that?	Wie hast du das erraten?	आपको यह कैसे अनुमान लगा?
-How did you learn that?	Wie hast du das gelernt?	आपने यह कैसे सीखा?
-How do I get to Gate 5?	Wo geht es zu Gate 5?	यह गेट 5 पर कहां जाता है?
-How do I get to Gate 5?	Wie komme ich zu Gate 5?	मैं गेट 5 कैसे प्राप्त करूं?
-How do I know it's you?	Woher weiß ich, dass du es bist?	मुझे कैसे पता चलेगा कि आप हैं?
-How do I open the hood?	Wie kann ich die Motorhaube öffnen?	मैं हुड कैसे खोल सकता हूं?
-How do you get to work?	Wie kommst du zur Arbeit?	आप काम पर कैसे पहुंचते हैं?
-How do you like Boston?	Wie gefällt dir Boston?	आपको बोस्टन कैसे पसंद है?
-How does Tom know that?	Woher weiß Tom das?	टॉम को कैसे पता है?
-How good was Tom today?	Wie gut war Tom heute?	टॉम आज कितना अच्छा था?
 How high is that tower?	Wie hoch ist dieser Turm?	यह टॉवर कितना ऊँचा है?
 How is that pronounced?	Wie wird das ausgesprochen?	यह कैसे उच्चारण किया जाता है?
 How is this pronounced?	Wie wird das ausgesprochen?	यह कैसे उच्चारण किया जाता है?
