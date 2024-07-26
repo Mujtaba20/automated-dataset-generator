@@ -25784,3 +25784,12 @@ He stuck to his job.	Er hielt an seiner Arbeit fest.	उसने अपने �
 He told me about it.	Er erzählte mir davon.	उसने मुझे इसके बारे में बताया।
 He took a short cut.	Er nahm eine Abkürzung.	उसने छोटा रास्ता लिया।
 He took off his hat.	Er nahm seinen Hut ab.	उसने अपनी टोपी उतार दी।
+He treated me badly.	Er hat mich schlecht behandelt.	उसने मुझे बुरी तरह से प्रणालीकृत किया।
+He turned Christian.	Er wurde Christ.	उसने ईसाई धर्म स्वीकार किया।
+He used to love her.	Er liebte sie.	वह पहले उसे पसंद करता था।
+He visited a friend.	Er besuchte einen Freund.	उसने एक दोस्त को देखने गया।
+He wants to kill me.	Er will mich töten.	वह मुझे मारना चाहता है।
+He was born in 1960.	Er wurde 1960 geboren.	उसका जन्म १९६० में हुआ था।
+He was born in Ohio.	Er wurde in Ohio geboren.	उसका जन्म ओहायो में हुआ था।
+He was buried alive.	Er wurde lebendig begraben.	उसे जिंदा दफनाया गया था।
+He was disappointed.	Er war enttäuscht.	उसे निराशा हुई थी।
