@@ -37044,3 +37044,10 @@ How high can you jump?	Wie hoch kannst du springen?	तुम कितनी �
 How is Tom these days?	Wie geht es Tom diese Tage?	तोम इन दिनों कैसे हैं?
 How late are you open?	Wie lange seid ihr geöffnet?	तुम कितनी देर तक खुले रहते हो?
 How long ago was that?	Wie lange ist das her?	वो कितनी समय पहले था?
+How long ago was this?	Wie lange ist das her?	यह कितने समय पहले हुआ था?
+How long can you stay?	Wie lange kannst du bleiben?	तुम कितने समय के लिए रह सकते हो?
+How long did you stay?	Wie lange bist du geblieben?	तुम कितने समय तक रुके थे?
+How long does it take?	Wie lange dauert es?	यह कितना समय लेता है?
+How long was Tom sick?	Wie lange war Tom krank?	टॉम कितने समय तक बीमार था?
+How long will it take?	Wie lange wird es dauern?	यह कितना समय लेगा?
+How long will we have?	Wie lange werden wir haben?	हमारे पास कितना समय होगा?
