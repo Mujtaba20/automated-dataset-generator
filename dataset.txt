@@ -1,15 +1,4 @@
 
-You're tempting fate.	Du forderst das Schicksal heraus.	आप भाग्य को चुनौती देते हैं।
-You're tempting fate.	Sie fordern das Schicksal heraus.	वे भाग्य को चुनौती देते हैं।
-You're tempting fate.	Ihr fordert das Schicksal heraus.	आप भाग्य को चुनौती देते हैं।
-You're the historian.	Du bist der Historiker.	आप इतिहासकार हैं।
-You're the historian.	Sie sind der Historiker.	आप इतिहासकार हैं।
-You're the scapegoat.	Du bist der Sündenbock.	आप बलि का बकरा हैं।
-You're totally right.	Sie haben vollkommen recht.	आप निरपेक्ष हैं।
-You're totally right.	Du hast völlig recht.	आप बिल्कुल सही कह रहे हैं।
-You're unimaginative.	Du hast keine Phantasie.	आपकी कोई कल्पना नहीं है।
-You're unimaginative.	Ihr seid einfallslos.	आप अकल्पनीय हैं।
-You're unimaginative.	Sie sind phantasielos.	वे कल्पनाशील हैं।
 You're uninteresting.	Du bist uninteressant.	आप निर्बाध हैं।
 You're uninteresting.	Ihr seid uninteressant.	आप निर्बाध हैं।
 You're uninteresting.	Sie sind uninteressant.	वे निर्बाध हैं।

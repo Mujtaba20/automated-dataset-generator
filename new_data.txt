@@ -35964,3 +35964,8 @@ You're still shaking.	Du zitterst immer noch.	तुम अभी भी का�
 You're such a coward.	Du bist so feige.	तू बहुत डरपोक है।
 You're such a weirdo.	Du bist so seltsam.	तुम कितने अजीब हो।
 You're such an idiot!	Du bist so ein Idiot!	तुम एक मूर्ख हो!
+You're tempting fate.	Du provozierst das Schicksal.	तुम भाग्य की मुहाली में बांधे जा रहे हो।
+You're the historian.	Du bist die Geschichtsschreiberin.	तुम इतिहास का पता लगाने वाले हो।
+You're the scapegoat.	Du bist das Sündenbock.	तुम परिस्थितिक हो।
+You're totally right.	Du hast völlig recht.	तुम पूरी तरह से ठीक हो।
+You're unimaginative.	Du bist phantasielos.	तुमको कल्पनाशीलता की कमी है।
