@@ -1,14 +1,4 @@
 
-Tom has a girlfriend.	Tom hat eine Freundin.	टॉम का एक दोस्त है।
-Tom has a good heart.	Tom hat ein gutes Herz.	टॉम का दिल अच्छा है।
-Tom has a gramophone.	Tom hat ein Grammophon.	टॉम के पास एक ग्रामोफोन है।
-Tom has a gramophone.	Tom besitzt ein Grammophon.	टॉम के पास एक ग्रामोफोन है।
-Tom has a kind heart.	Tom hat ein gutes Herz.	टॉम का दिल अच्छा है।
-Tom has a loud voice.	Tom hat eine laute Stimme.	टॉम की एक तेज आवाज है।
-Tom has a nice smile.	Tom hat ein nettes Lächeln.	टॉम के पास एक अच्छी मुस्कान है।
-Tom has a nice voice.	Tom hat eine schöne Stimme.	टॉम के पास एक अच्छी आवाज है।
-Tom has a second job.	Tom hat eine Zweitarbeit.	टॉम के पास एक माध्यमिक काम है।
-Tom has a sharp mind.	Tom hat einen scharfen Verstand.	टॉम का तेज दिमाग है।
 Tom has a short fuse.	Tom platzt schnell die Hutschnur.	टॉम जल्दी से टोपी फट गया।
 Tom has a silk scarf.	Tom hat einen Seidenschal.	टॉम के पास एक रेशम का दुपट्टा है।
 Tom has a stiff neck.	Tom hat einen steifen Nacken.	टॉम में एक कठोर गर्दन है।

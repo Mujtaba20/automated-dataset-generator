@@ -34240,3 +34240,12 @@ Tom has a broken arm.	Tom hat einen gebrochenen Arm.	टॉम के हाथ 
 Tom has a deep voice.	Tom hat eine tiefe Stimme.	टॉम की आवाज गहरी है।
 Tom has a family now.	Tom hat jetzt eine Familie.	टॉम के पास अब एक परिवार है।
 Tom has a full beard.	Tom hat einen vollen Bart.	टॉम के पास पूरी दाढ़ी है।
+Tom has a girlfriend.	Tom hat eine Freundin.	टॉम की एक गर्लफ्रेंड है।
+Tom has a good heart.	Tom hat ein gutes Herz.	टॉम का दिल अच्छा है।
+Tom has a gramophone.	Tom hat einen Grammophon.	टॉम के पास एक ग्रामफोन है।
+Tom has a kind heart.	Tom hat ein gütiges Herz.	टॉम का दिल मेहरबान है।
+Tom has a loud voice.	Tom hat eine laute Stimme.	टॉम की ऊंची आवाज़ है।
+Tom has a nice smile.	Tom hat ein schönes Lächeln.	टॉम की अच्छी मुस्कान है।
+Tom has a nice voice.	Tom hat eine schöne Stimme.	टॉम की अच्छी आवाज़ है।
+Tom has a second job.	Tom hat einen Zweitjob.	टॉम के पास दूसरा नौकरी है।
+Tom has a sharp mind.	Tom hat einen scharfen Verstand.	टॉम का तेज बुद्धि है।
