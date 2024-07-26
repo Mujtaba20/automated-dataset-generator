@@ -39741,3 +39741,12 @@ This is going too far.	Das geht zu weit.	यह बहुत आगे बढ़
 This is how I made it.	So habe ich es gemacht.	यह मैंने कैसे बनाया।
 This is how you do it.	So machen Sie es.	ऐसे ही तुम्हें करना चाहिए।
 This is inappropriate.	Das ist unangemessen.	यह अनुचित है।
+This is just too much.	Das ist einfach zu viel.	यह सिर्फ बहुत ज्यादा है।
+This is my dictionary.	Das ist mein Wörterbuch.	यह मेरा शब्दकोष है।
+This is my first time.	Das ist das erste Mal für mich.	यह मेरी पहली बार है।
+This is my last offer.	Das ist mein letztes Angebot.	यह मेरा आखिरी प्रस्ताव है।
+This is my new guitar.	Das ist meine neue Gitarre.	यह मेरा नया गिटार है।
+This is not important.	Das ist nicht wichtig.	यह महत्वपूर्ण नहीं है।
+This is not my ticket.	Das ist nicht mein Ticket.	यह मेरा टिकट नहीं है।
+This is our only hope.	Das ist unsere einzige Hoffnung.	यह हमारी एकमात्र आशा है।
+This is so unlike you.	Das ist so untypisch für dich.	यह तुम्हारे लिए असामान्य है।
