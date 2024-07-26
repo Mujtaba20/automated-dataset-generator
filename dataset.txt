@@ -1,14 +1,4 @@
 
-I need colored pencils.	Ich brauche Farbstifte.	मुझे रंग पिन चाहिए।
-I need some blue paint.	Ich brauche etwas blaue Farbe.	मुझे कुछ नीले रंग की जरूरत है।
-I need some blue paint.	Ich brauche ein bisschen blaue Farbe.	मुझे थोड़ा नीला रंग चाहिए।
-I need some blue paint.	Ich benötige ein bisschen blaue Farbe.	मुझे थोड़ा नीला रंग चाहिए।
-I need some time alone.	Ich brauche etwas Zeit für mich.	मुझे अपने लिए कुछ समय चाहिए।
-I need some volunteers.	Ich brauche ein paar Freiwillige.	मुझे कुछ स्वयंसेवकों की आवश्यकता है।
-I need time to prepare.	Ich brauche Zeit zum Vorbereiten.	मुझे तैयारी करने के लिए समय चाहिए।
-I need to buy new skis.	Ich muss mir neue Ski kaufen.	मुझे नई स्की खरीदनी है।
-I need to buy new skis.	Ich muss mir neue Skier kaufen.	मुझे नई स्की खरीदनी है।
-I need to convince Tom.	Ich muss Tom unbedingt überzeugen.	मुझे पूरी तरह से टॉम को मनाना है।
 I need to do something.	Ich muss etwas tun.	मुझे कुछ करना पड़ेगा।
 I need to feed the dog.	Ich muss dem Hund zu fressen geben.	मुझे कुत्ते को खाने के लिए देना है।
 I need to get some air.	Ich brauche etwas frische Luft.	मुझे कुछ ताजी हवा चाहिए।
