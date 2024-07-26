@@ -31126,3 +31126,13 @@ He made up the story.	Er erfand die Geschichte.	उसने कहानी ब
 He managed to escape.	Er schaffte es zu entkommen.	उसने भागने में कामयाबी हासिल की।
 He married for money.	Er heiratete wegen Geld.	उसने पैसे के लिए शादी की।
 He married my cousin.	Er heiratete meine Cousine.	उसने मेरी भाई की शादी की।
+He married my sister.	Er hat meine Schwester geheiratet.	उसने मेरी बहन से शादी की।
+He may have been ill.	Er könnte krank gewesen sein.	उसको बीमारी हो सकती थी।
+He may well be right.	Er könnte gut Recht haben.	वह सही हो सकता है।
+He may well be right. (different meaning)	Er könnte durchaus recht haben.	उसको बिल्कुल सही हो सकता है।
+He missed his flight.	Er hat seinen Flug verpasst.	उसने अपनी उड़ान छूट दी।
+He misses his family.	Ihm fehlt seine Familie.	उसकी परिवार की याद आती है।
+He must have seen it.	Er muss es gesehen haben.	उसने उसे देखा होगा।
+He never looked back.	Er hat nie zurückgeschaut.	उसने कभी पीछे नहीं देखा।
+He never tells a lie.	Er sagt nie eine Lüge.	वह कभी झूठ नहीं बोलता।
+He never wears a tie.	Er trägt nie eine Krawatte.	वह कभी टाई नहीं पहनता।
