@@ -1,14 +1,4 @@
 
-She is very bright.	Sie ist sehr schlau.	वह बहुत स्मार्ट है।
-She is very pretty.	Sie ist sehr hübsch.	वह बहुत सुन्दर है।
-She isn't here now.	Sie ist momentan nicht hier.	यह इस समय यहां नहीं है।
-She kept on crying.	Sie weinte weiter.	उसने जारी रखा।
-She leaped for joy.	Sie sprang vor Freude auf.	वह खुशी से कूद गई।
-She left for Paris.	Sie ist nach Paris abgereist.	वह पेरिस चली गई।
-She left for Paris.	Sie ist nach Paris gegangen.	वह पेरिस गई।
-She left me a note.	Sie hat mir eine Nachricht hinterlassen.	उसने मुझे एक संदेश छोड़ दिया।
-She left me a note.	Sie hinterließ mir eine Nachricht.	उसने मुझे एक संदेश छोड़ दिया।
-She likes sleeping.	Sie schläft gerne.	उसे सोना पसंद है।
 She listens to him.	Sie hört ihm zu.	वह उसे सुनती है।
 She listens to him.	Sie hört auf ihn.	वह उसे सुनती है।
 She lives in Kyoto.	Sie wohnt in Kyoto.	वह क्योटो में रहती है।
