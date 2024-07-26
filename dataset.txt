@@ -1,14 +1,4 @@
 
-No one's blaming you.	Niemand gibt dir die Schuld.	कोई भी आपको दोषी नहीं ठहराता।
-No one's died so far.	Bisher ist noch niemand gestorben.	अब तक किसी की मौत नहीं हुई है।
-No one's judging you.	Niemand beurteilt dich.	कोई भी आपको न्याय नहीं करता है।
-No one's judging you.	Niemand beurteilt Sie.	कोई भी उन्हें न्याय नहीं करता है।
-No one's judging you.	Niemand beurteilt euch.	कोई भी आपको न्याय नहीं करता है।
-No one's watching me.	Niemand beobachtet mich.	कोई भी मुझे नहीं देखता।
-No one's watching me.	Keiner beobachtet mich.	कोई भी मुझे नहीं देखता।
-No one's watching us.	Niemand beobachtet uns.	कोई भी हमें नहीं देखता।
-Nobody calls me that.	So nennt mich keiner.	कोई भी मुझे इस तरह नहीं बुलाता।
-Nobody deserves that.	Das hat niemand verdient.	कोई भी इसका हकदार नहीं है।
 Nobody had an answer.	Niemand hatte eine Antwort.	किसी के पास कोई जवाब नहीं था।
 Nobody had an answer.	Eine Antwort hatte niemand.	किसी के पास कोई जवाब नहीं था।
 Nobody is interested.	Niemanden interessiert’s.	किसी को परवाह नहीं।

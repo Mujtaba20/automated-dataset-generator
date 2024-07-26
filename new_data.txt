@@ -33179,3 +33179,10 @@ No one went near him.	Niemand ist ihm nähergekommen.	किसी ने उस
 No one will be fired.	Niemand wird entlassen.	किसी को काम से बाहर नहीं किया जाएगा।
 No one will find out.	Niemand wird es herausfinden.	किसी को पता नहीं चलेगा।
 No one will hurt you.	Niemand wird dir wehtun.	किसी को तुम्हें चोट नहीं पहुंचाएगा।
+No one's blaming you.	Niemand gibt dir die Schuld.	कोई आपको दोषी नहीं मान रहा।
+No one's died so far.	Bisher ist niemand gestorben.	अब तक किसी की मौत नहीं हुई है।
+No one's judging you.	Niemand beurteilt dich.	कोई आपका निर्णय नहीं कर रहा है।
+No one's watching me.	Niemand beobachtet mich.	कोई मुझे नहीं देख रहा है।
+No one's watching us.	Niemand beobachtet uns.	कोई हमें नहीं देख रहा है।
+Nobody calls me that.	Niemand nennt mich so.	कोई मुझे वैसा नाम नहीं देता।
+Nobody deserves that.	Niemand verdient das.	कोई उसके लिए योग्य नहीं है।
