@@ -38676,3 +38676,9 @@ It's tough to explain.	Es ist schwer zu erklären.	समझाना मुश�
 It's up to you and me.	Es liegt an dir und mir.	यह आप और मुझसे ही है।
 It's useless to argue.	Es ist nutzlos zu streiten.	झगड़ना बेकार है।
 It's very comfortable.	Es ist sehr bequem.	यह बहुत आरामदायक है।
+It's very complicated.	Es ist sehr kompliziert.	यह बहुत जटिल है।
+It's very frustrating.	Es ist sehr frustrierend.	यह बहुत परेशान करने वाला है।
+It's very hot in here.	Es ist sehr heiß hier.	यहाँ बहुत गर्मी है।
+It's very interesting.	Es ist sehr interessant.	यह बहुत दिलचस्प है।
+It's very kind of you.	Es ist sehr nett von dir.	तुम्हारी यह बहुत उदारता है।
+It's very nice of you.	Es ist sehr lieb von dir.	तुम्हारी यह बहुत खुशी है।

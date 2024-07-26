@@ -1,14 +1,4 @@
 
-It's very complicated.	Das ist sehr kompliziert.	यह बहुत जटिल है।
-It's very frustrating.	Es ist sehr frustrierend.	यह बहुत निराशाजनक है।
-It's very hot in here.	Es ist sehr heiß hier.	यहां बहुत गर्मी है.
-It's very interesting.	Das ist sehr interessant.	यह बहुत दिलचस्प है।
-It's very interesting.	Es ist sehr interessant.	यह बहुत रुचिपुरण है।
-It's very kind of you.	Das ist sehr nett von dir.	आप बहुत अच्छे हैं।
-It's very kind of you.	Das ist sehr nett von euch.	आपके बड़प्पन के लिए शुक्रिया।
-It's very nice of you.	Das ist sehr nett von dir.	आप बहुत अच्छे हैं।
-It's very nice of you.	Das ist sehr nett von dir!	आप बहुत अच्छे हैं!
-It's very nice of you.	Das ist sehr nett von Ihnen!	आपका आभार!
 It's very windy today.	Es ist heute sehr windig.	यह आज बहुत हवा है।
 It's very windy today.	Heute ist es sehr windig.	आज यह बहुत हवा है।
 It's what I'm used to.	So bin ich’s gewohnt.	इस तरह मैं इसकी आदत है।
