@@ -1,14 +1,4 @@
 
-Do you have a violin?	Hast du eine Geige?	क्या आपके पास वायलिन है?
-Do you have a violin?	Haben Sie eine Geige?	क्या आपके पास वायलिन है?
-Do you have a violin?	Hast du eine Violine?	क्या आपके पास वायलिन है?
-Do you have an alibi?	Hast du ein Alibi?	क्या आपके पास एक अलीबी है?
-Do you have any beer?	Habt ihr Bier?	क्या आपके पास बीयर है?
-Do you have any cash?	Hast du etwas Bargeld?	क्या आपके पास कोई नकदी है?
-Do you have any cash?	Haben Sie etwas Bargeld?	क्या आपके पास कुछ नकदी है?
-Do you have any food?	Hast du etwas zu essen?	क्या आपके पास खाने के लिए कुछ है?
-Do you have any news?	Hast du Neuigkeiten?	क्या आपके कोई समाचार है?
-Do you have any news?	Haben Sie Neuigkeiten?	क्या आपके पास समाचार है?
 Do you have any pets?	Hast du irgendwelche Haustiere?	क्या आपके पास कोई पालतु पशु है?
 Do you have any pets?	Hast du Haustiere?	क्या आपके पास पालतू जानवर है्?
 Do you have any pets?	Hältst du Haustiere?	क्या आप पालतू जानवरों को पकड़ते हैं?
