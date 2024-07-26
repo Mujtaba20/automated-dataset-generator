@@ -24112,3 +24112,13 @@ Tom was very angry.	Tom war sehr wütend.	टॉम बहुत गुस्स
 Tom was very brave.	Tom war sehr mutig.	टॉम बहुत बहादुर था।
 Tom was very drunk.	Tom war sehr betrunken.	टॉम बहुत नशे में था।
 Tom was very funny.	Tom war sehr lustig.	टॉम बहुत मजेदार था।
+Tom was very happy.	Tom war sehr glücklich.	टॉम बहुत खुश था।
+Tom was very lucky.	Tom hatte großes Glück.	टॉम किस्मतवाला था।
+Tom was very proud.	Tom war sehr stolz.	टॉम बहुत गर्वित था।
+Tom was very tired.	Tom war sehr müde.	टॉम बहुत थका हुआ था।
+Tom was very upset.	Tom war sehr verärgert.	टॉम बहुत उदास था।
+Tom was victorious.	Tom war siegreich.	टॉम विजयी था।
+Tom was wide awake.	Tom war hellwach.	टॉम बिल्कुल जागरूक था।
+Tom washed himself.	Tom hat sich gewaschen.	टॉम ने खुद को धोया।
+Tom washed the car.	Tom hat das Auto gewaschen.	टॉम ने कार को धो दिया।
+Tom wasn't a miner.	Tom war kein Bergmann.	टॉम एक माइनर नहीं था।

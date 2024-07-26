@@ -1,15 +1,4 @@
 
-Tom was very happy.	Tom war sehr glücklich.	टॉम बहुत खुश था।
-Tom was very lucky.	Tom hatte großes Glück.	टॉम बहुत भाग्यशाली था।
-Tom was very proud.	Tom war sehr stolz.	टॉम को बहुत गर्व था।
-Tom was very tired.	Tom war sehr müde.	टॉम बहुत थक गया था।
-Tom was very upset.	Tom war sehr verärgert.	टॉम बहुत नाराज था।
-Tom was victorious.	Tom war siegreich.	टॉम विजयी था।
-Tom was wide awake.	Tom war hellwach.	टॉम व्यापक जाग रहा था।
-Tom washed himself.	Tom hat sich gewaschen.	टॉम धोया।
-Tom washed the car.	Tom wusch das Auto.	टॉम ने कार धोया।
-Tom wasn't a miner.	Tom war kein Bergmann.	टॉम खान में नहीं था।
-Tom wasn't a miner.	Tom war kein Bergarbeiter.	टॉम खान में नहीं था।
 Tom wasn't at home.	Tom war nicht zu Hause.	टॉम घर पर नहीं था।
 Tom wasn't invited.	Tom ist nicht eingeladen worden.	टॉम को आमंत्रित नहीं किया गया है।
 Tom wasn't invited.	Tom wurde nicht eingeladen.	टॉम को आमंत्रित नहीं किया गया था।
