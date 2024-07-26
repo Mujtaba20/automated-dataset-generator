@@ -39705,3 +39705,13 @@ This I can agree with.	Damit kann ich einverstanden sein.	मैं इस स�
 This all sounds great.	Das klingt alles großartig.	यह सब शानदार लगता है।
 This bag is not small.	Diese Tasche ist nicht klein.	यह बैग छोटी नहीं है।
 This bag is too heavy.	Diese Tasche ist zu schwer.	यह बैग बहुत भारी है।
+This bicycle is Tom's.	Dieses Fahrrad gehört Tom.	यह साइकिल टॉम की है।
+This blouse is cotton.	Diese Bluse ist aus Baumwolle.	यह ब्लाउज कॉटन से बनी है।
+This book is very new.	Dieses Buch ist ganz neu.	यह किताब बहुत नई है।
+This building is huge.	Dieses Gebäude ist riesig.	यह इमारत बड़ी है।
+This can be explained.	Das kann erklärt werden.	यह समझाया जा सकता है।
+This can't be avoided.	Das kann nicht vermieden werden.	इसे नहीं टाला जा सकता है।
+This car handles well.	Dieses Auto fährt gut.	यह कार अच्छा हैंडल करती है।
+This car has an alarm.	Dieses Auto hat einen Alarm.	इस कार में एक अलार्म है।
+This car needs washed.	Dieses Auto muss gewaschen werden.	इस कार को धोने की आवश्यकता है।
+This chair is plastic.	Dieser Stuhl ist aus Kunststoff.	यह कुर्सी प्लास्टिक की है।

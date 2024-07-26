@@ -1,14 +1,4 @@
 
-This bicycle is Tom's.	Dieses Fahrrad gehört Tom.	यह बाइक टॉम की है।
-This blouse is cotton.	Diese Bluse ist aus Baumwolle.	यह ब्लाउज कपास से बना है।
-This book is very new.	Dieses Buch ist ganz neu.	यह पुस्तक बिल्कुल नई है।
-This building is huge.	Dieses Gebäude ist riesig.	यह इमारत बहुत बड़ी है।
-This can be explained.	Dass lässt sich erklären.	जिसे समझाया जा सकता है।
-This can't be avoided.	Das lässt sich nicht vermeiden.	इससे बचा नहीं जा सकता।
-This car handles well.	Dieses Auto lässt sich gut fahren.	इस कार को ड्राइव करना आसान है।
-This car has an alarm.	Dieses Auto hat eine Alarmanlage.	इस कार में एक अलार्म सिस्टम है।
-This car needs washed.	Dieser Wagen muss gewaschen werden.	इस कार को धोया जाना चाहिए।
-This chair is plastic.	Dieser Stuhl ist aus Plastik.	यह कुर्सी प्लास्टिक से बना है।
 This cloth feels soft.	Dieser Stoff fühlt sich weich an.	यह कपड़ा नरम लगता है।
 This could take hours.	Das könnte Stunden dauern.	इसमें घंटों लग सकते थे।
 This curry is too hot.	Dieses Currygericht ist zu scharf.	यह करी डिश बहुत तेज है।
