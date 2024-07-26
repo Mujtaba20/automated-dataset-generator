@@ -28617,3 +28617,9 @@ Tom combed his hair.	Tom kämmte sich die Haare.	टॉम ने अपने �
 Tom confronted Mary.	Tom konfrontierte Maria.	टॉम ने मेरी से आमने-सामने बात की।
 Tom cooks very well.	Tom kocht sehr gut.	टॉम बहुत अच्छे से पकाता है।
 Tom could do better.	Tom könnte es besser machen.	टॉम और भी अच्छा कर सकता था।
+Tom cried all night.	Tom hat die ganze Nacht geweint.	टॉम ने पूरी रात रोया।
+Tom cut Mary's hair.	Tom hat Marys Haare geschnitten.	टॉम ने मैरी के बाल काटे।
+Tom dealt the cards.	Tom hat die Karten ausgeteilt.	टॉम ने कार्ड बाँटे।
+Tom decided to stay.	Tom hat beschlossen zu bleiben.	टॉम ने रहने का निर्णय लिया।
+Tom decided to wait.	Tom hat beschlossen zu warten.	टॉम ने इंतज़ार करने का निर्णय लिया।
+Tom delivers pizzas.	Tom liefert Pizzen aus.	टॉम पिज़्ज़ा डिलीवर करता है।
