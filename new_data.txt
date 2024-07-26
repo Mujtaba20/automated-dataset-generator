@@ -21305,3 +21305,12 @@ I have to find Tom.	Ich muss Tom finden.	मुझे टॉम को ढूं
 I have to get home.	Ich muss nach Hause kommen.	मुझे घर जाना है।
 I have to get that.	Ich muss das haben.	मुझे उसे पाना है।
 I have to go alone.	Ich muss alleine gehen.	मुझे अकेले जाना है।
+I have to go there.	Ich muss dorthin gehen.	मुझे वहां जाना है।
+I have to know why.	Ich muss wissen, warum.	मुझे पता होना चाहिए कि क्यों।
+I have to paint it.	Ich muss es malen.	मुझे इसे रंगित करना है।
+I have to rehearse.	Ich muss proben.	मुझे अभ्यास करना है।
+I have to run away.	Ich muss weglaufen.	मुझे भागना पड़ेगा।
+I have to say this.	Ich muss das sagen.	मुझे यह कहना है।
+I have to see this.	Ich muss das sehen.	मुझे इसे देखना है।
+I have to stop Tom.	Ich muss Tom stoppen.	मुझे टॉम को रोकना है।
+I have to take off.	Ich muss ausziehen.	मुझे उतारना है।

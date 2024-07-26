@@ -1,14 +1,4 @@
 
-I have to go there.	Ich muss da hingehen.	मुझे वहाँ जाना है।
-I have to know why.	Ich muss wissen, warum.	मुझे यह जानने की जरूरत है कि क्यों।
-I have to paint it.	Ich muss es malen.	मुझे इसे पेंट करना है।
-I have to rehearse.	Ich muss proben.	मुझे रिहर्सल करना है।
-I have to run away.	Ich muss weglaufen.	मुझे भागना है।
-I have to say this.	Ich muss das sagen.	मुझे ऐसा कहना है।
-I have to see this.	Ich muss das sehen.	मुझे वह देखना है।
-I have to stop Tom.	Ich muss Tom stoppen.	मुझे टॉम को रोकना है।
-I have to take off.	Ich muss mich auf den Weg machen.	मुझे अपना रास्ता बनाना है।
-I have to take off.	Ich muss abhauen.	मुझे भागना है।
 I have to tell Tom.	Ich muss das Tom erzählen.	मुझे टॉम बताना है।
 I have to warn Tom.	Ich muss Tom warnen.	मुझे टॉम को चेतावनी देनी है।
 I have to warn him.	Ich muss ihn warnen.	मुझे उसे चेतावनी देनी है।
