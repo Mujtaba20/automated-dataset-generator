@@ -37406,3 +37406,12 @@ I gave Tom Monday off.	Ich gab Tom Montag frei.	मैंने टॉम को
 I gave Tom some money.	Ich gab Tom etwas Geld.	मैंने टॉमे को कुछ पैसे दिए।
 I gave her some candy.	Ich gab ihr etwas Süßigkeiten.	मैंने उसे कुछ मिठाई दी।
 I gave him my address.	Ich gab ihm meine Adresse.	मैंने उसे मेरा पता दिया।
+I gave my cold to him.	Ich habe ihm meine Erkältung gegeben.	मैंने उसको मेरी ठंड दी।
+I gave the boy a book.	Ich gab dem Jungen ein Buch.	मैंने लड़के को एक किताब दी।
+I get lonely at times.	Manchmal werde ich einsam.	कभी-कभी मुझे अकेलापन महसूस होता है।
+I get paid to do that.	Ich werde dafür bezahlt, das zu tun.	मुझे वह करने के लिए पैसे मिलें हैं।
+I glanced at my watch.	Ich warf einen Blick auf meine Uhr.	मैंने अपनी घड़ी पर एक झलक डाली।
+I go there every year.	Ich gehe jedes Jahr dorthin.	मैं हर साल वहाँ जाता हूँ।
+I go to bed about ten.	Ich gehe gegen zehn ins Bett.	मैं दस बजे के आसपास सो जाता हूँ।
+I go to bed at eleven.	Ich gehe um elf Uhr ins Bett.	मैं ग्यारह बजे सो जाता हूँ।
+I go to church by car.	Ich fahre mit dem Auto zur Kirche.	मैं कार से चर्च जाता हूँ।
