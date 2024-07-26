@@ -1,15 +1,4 @@
 
-I don't get paid much.	Man zahlt mir nicht viel.	आप मुझे ज्यादा भुगतान नहीं करते।
-I don't get paid much.	Mir wird nicht viel gezahlt.	मुझे ज्यादा भुगतान नहीं किया जाता है।
-I don't hate children!	Ich hasse keine Kinder!	मुझे बच्चों से नफरत नहीं है!
-I don't have a choice.	Ich habe keine Wahl.	मेरे पास कोई विकल्प नहीं।
-I don't have a family.	Ich habe keine Familie.	मेरा कोई परिवार नहीं है।
-I don't have a garden.	Ich habe keinen Garten.	मेरे पास एक बगीचा नहीं है।
-I don't have a pencil.	Ich habe keinen Bleistift.	मेरे पास कोई पेंसिल नहीं है।
-I don't have a sister.	Ich habe keine Schwester.	मेरी कोई बहन नहीं है।
-I don't have a system.	Ich habe kein System.	मेरी कोई प्रणाली नहीं है।
-I don't have a ticket.	Ich habe kein Ticket.	मेरे पास टिकट नहीं है।
-I don't have a ticket.	Ich habe keine Fahrkarte.	मेरे पास टिकट नहीं है।
 I don't have an alibi.	Ich habe kein Alibi.	मेरे पास एक एलबी नहीं है।
 I don't have any cash.	Ich habe kein Bargeld.	मेरे पास कोई नकदी नहीं है।
 I don't have any cats.	Ich habe keine Katzen.	मेरे पास कोई बिल्ली नहीं है।

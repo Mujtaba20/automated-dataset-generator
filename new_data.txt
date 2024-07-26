@@ -37268,3 +37268,12 @@ I don't eat much meat.	Ich esse nicht viel Fleisch.	मैं ज्यादा
 I don't eat that much.	Ich esse nicht so viel.	मैं इतना ज्यादा नहीं खाता।
 I don't eat very much.	Ich esse nicht sehr viel.	मैं बहुत ज्यादा नहीं खाता।
 I don't feel up to it.	Ich fühle mich nicht danach.	मुझे उसका अनुभव नहीं हो रहा है।
+I don't get paid much.	Ich erhalte nicht viel Geld.	मुझे कम वेतन मिलता है।
+I don't hate children!	Ich hasse keine Kinder!	मुझे बच्चों से नफरत नहीं है!
+I don't have a choice.	Ich habe keine Wahl.	मेरे पास कोई विकल्प नहीं है।
+I don't have a family.	Ich habe keine Familie.	मेरे पास परिवार नहीं है।
+I don't have a garden.	Ich habe keinen Garten.	मेरे पास बाग़ नहीं है।
+I don't have a pencil.	Ich habe keinen Bleistift.	मेरे पास एक पेंसिल नहीं है।
+I don't have a sister.	Ich habe keine Schwester.	मेरी एक बहन नहीं है।
+I don't have a system.	Ich habe kein System.	मेरे पास कोई सिस्टम नहीं है।
+I don't have a ticket.	Ich habe keine Fahrkarte.	मेरे पास टिकट नहीं है।
