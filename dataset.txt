@@ -1,14 +1,4 @@
 
-Tom left the water on.	Tom hat das Wasser laufenlassen.	टॉम ने पानी को चलाने दिया।
-Tom left the water on.	Tom hat das Wasser angelassen.	टॉम ने पानी छोड़ दिया है।
-Tom left this for you.	Tom hat dir das hier dagelassen.	टॉम ने आपको यह छोड़ दिया।
-Tom let Mary kiss him.	Tom ließ sich von Maria küssen.	टॉम लेट मारिया चुंबन।
-Tom let Mary kiss him.	Tom hat sich von Maria küssen lassen.	टॉम लेट मारिया चुंबन।
-Tom lies all the time.	Tom lügt ständig.	टॉम हर समय झूठ बोल रहा है।
-Tom liked his old car.	Tom mochte sein altes Auto.	टॉम को अपनी पुरानी कार पसंद आई।
-Tom liked what he saw.	Tom gefiel, was er sah.	टॉम को वह पसंद आया जो उसने देखा।
-Tom likes Indian food.	Tom mag indisches Essen.	टॉम को भारतीय भोजन पसंद है।
-Tom likes Tchaikovsky.	Tom mag Tschaikowski.	टॉम मैग त्चिकोव्स्की।
 Tom likes being alone.	Tom ist gern allein.	टॉम को अकेले रहना पसंद है।
 Tom likes chimpanzees.	Tom mag Schimpansen.	टॉम को चिंपांज़ी पसंद है।
 Tom likes disco music.	Tom mag Diskomusik.	टॉम को डिस्को संगीत पसंद है।
