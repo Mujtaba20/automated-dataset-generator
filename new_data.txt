@@ -23015,3 +23015,13 @@ The meat is frozen.	Das Fleisch ist gefroren.	मांस जमा हुआ �
 The men are coming.	Die Männer kommen.	लोग आ रहे हैं।
 The men go to work.	Die Männer gehen zur Arbeit.	लोग काम पर जाते हैं।
 The moon is bright.	Der Mond ist hell.	चाँद उज्ज्वल है।
+The mouse squealed.	Die Maus piepste.	चूहा चीचुका।
+The movie was good.	Der Film war gut.	फिल्म अच्छी थी।
+The night was cool.	Die Nacht war kühl.	रात ठंडी थी।
+The ocean was calm.	Das Meer war ruhig.	समुद्र शांत था।
+The only way is up.	Der einzige Weg ist nach oben.	सिर्फ एक रास्ता है उपर की ओर।
+The others laughed.	Die anderen lachten.	दूसरे हँसे।
+The pan is too hot.	Die Pfanne ist zu heiß.	पेन बहुत गरम है।
+The paper is white.	Das Papier ist weiß.	कागज सफेद है।
+The park was empty.	Der Park war leer.	पार्क खाली था।
+The parrot is dead.	Der Papagei ist tot.	तोता मर गया है।

@@ -1,14 +1,4 @@
 
-The mouse squealed.	Die Maus piepste.	माउस बीप किया।
-The movie was good.	Der Film war gut!	मूवी अच्छी थी!
-The night was cool.	Die Nacht war kühl.	रात ठंडी थी।
-The ocean was calm.	Der Ozean war ruhig.	सागर शांत था।
-The only way is up.	Es geht nur nach oben.	यह केवल ऊपर जाता है।
-The others laughed.	Die anderen lachten.	दूसरे हंसते हुए।
-The pan is too hot.	Die Pfanne ist zu heiß.	पैन बहुत गर्म है।
-The paper is white.	Das Papier ist weiß.	कागज सफेद है।
-The park was empty.	Der Park war verlassen.	पार्क को छोड़ दिया गया था।
-The parrot is dead.	Der Papagei ist tot.	तोता मर चुका है।
 The plate is dirty.	Der Teller ist schmutzig.	प्लेट गंदी है।
 The pond is frozen.	Der Teich ist zugefroren.	तालाब जमे हुए है।
 The printer jammed.	Der Drucker hatte einen Papierstau.	प्रिंटर में एक पेपर जाम था।
