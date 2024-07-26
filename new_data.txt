@@ -29448,3 +29448,13 @@ Tom won't be missed.	Tom wird nicht vermisst werden.	टॉम को याद 
 Tom won't come back.	Tom wird nicht zurückkommen.	टॉम वापस नहीं आएगा।
 Tom won't come soon.	Tom wird nicht bald kommen.	टॉम जल्द नहीं आएगा।
 Tom won't leave you.	Tom wird dich nicht verlassen.	टॉम तुम्हें छोड़कर नहीं जाएगा।
+Tom won't like this.	Tom wird das nicht mögen.	टॉम इसे पसंद नहीं करेगा।
+Tom won't live long.	Tom wird nicht lange leben.	टॉम लंबे समय तक नहीं जीएगा।
+Tom won't tell Mary.	Tom wird es Mary nicht erzählen.	टॉम मैरी को नहीं बताएगा।
+Tom wore a hard hat.	Tom trug einen harten Hut.	टॉम ने एक मजबूत टोपी पहनी थी।
+Tom works all night.	Tom arbeitet die ganze Nacht.	टॉम रातभर काम करता है।
+Tom works at a bank.	Tom arbeitet in einer Bank.	टॉम एक बैंक में काम करता है।
+Tom works in Boston.	Tom arbeitet in Boston.	टॉम बोस्टन में काम करता है।
+Tom works in a bank.	Tom arbeitet in einer Bank.	टॉम एक बैंक में काम करता है।
+Tom works in retail.	Tom arbeitet im Einzelhandel.	टॉम खुदरा में काम करता है।
+Tom works very hard.	Tom arbeitet sehr hart.	टॉम बहुत मेहनत करता है।

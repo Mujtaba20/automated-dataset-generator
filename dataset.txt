@@ -1,14 +1,4 @@
 
-Tom won't like this.	Das wird Tom nicht gefallen.	टॉम को ऐसा नहीं होगा।
-Tom won't live long.	Tom wird nicht lange leben.	टॉम लंबे समय तक नहीं रहेगा।
-Tom won't tell Mary.	Tom sagt es Maria nicht.	टॉम मारिया नहीं कहता।
-Tom wore a hard hat.	Tom trug einen Schutzhelm.	टॉम ने एक सुरक्षात्मक हेलमेट पहना।
-Tom works all night.	Tom arbeitet die ganze Nacht.	टॉम पूरी रात काम करता है।
-Tom works at a bank.	Tom arbeitet in einer Bank.	टॉम एक बैंक में काम करता है।
-Tom works in Boston.	Tom arbeitet in Boston.	टॉम बोस्टन में काम करता है।
-Tom works in a bank.	Tom arbeitet in einer Bank.	टॉम एक बैंक में काम करता है।
-Tom works in retail.	Tom arbeitet im Einzelhandel.	टॉम रिटेल में काम करता है।
-Tom works very hard.	Tom arbeitet sehr hart.	टॉम बहुत मेहनत करता है।
 Tom would've walked.	Tom wäre gelaufen.	टॉम भाग गया होगा।
 Tom wrote that book.	Das Buch hat Tom geschrieben.	किताब ने टॉम लिखा।
 Tom wrote that book.	Tom hat das Buch geschrieben.	टॉम ने किताब लिखी।
