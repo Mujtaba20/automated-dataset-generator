@@ -1,16 +1,4 @@
 
-Tell me what Tom said.	Erzähl mir, was Tom gesagt hat!	मुझे बताओ कि टॉम ने क्या कहा!
-Tell me what happened.	Sag mir, was passiert ist.	मुझे बताओ कि क्या खुशी है।
-Tell me what you know.	Sag mir, was du weißt.	मुझे बताओ कि तुम क्या जानते हो।
-Tell me what you need.	Sage mir, was du benötigst.	मुझे बताइये आपको क्या चाहिए।
-Tell me what you want.	Erzähle mir, was du willst.	आप क्या चाहते हैं मुझे बताएं।
-Tell us a ghost story.	Erzähle uns mal eine Gespenstergeschichte!	हमें एक भूत कहानी बताओ!
-Tell us the truth now.	Sag uns jetzt die Wahrheit!	अब हमें सच बताओ!
-Thank God it's Friday.	Gott sei Dank ist es Freitag.	भगवान का शुक्र है की आज शुक्रवार है।
-Thank God nobody died.	Gott sei Dank ist niemand umgekommen.	भगवान का शुक्र है कि किसी की मृत्यु नहीं हुई।
-Thank you for calling.	Danke, dass Sie angerufen haben.	कॉल करने के लिए धन्यवा।
-Thank you for calling.	Danke, dass du angerufen hast.	कॉल करने के लिए धन्यवा।
-Thank you for calling.	Danke für den Anruf.	कॉल के लिए धन्यवाद।
 Thank you for the tea.	Danke für den Tee!	चाय के लिए धन्यवाद!
 Thank you for writing.	Danke fürs Schreiben.	लिखने के लिए धन्यवाद।
 Thanks for being here.	Danke, dass du hier bist.	यहां होने के लिए धन्यवाद।

@@ -39265,3 +39265,13 @@ Tell Tom what's wrong.	Sag Tom, was falsch ist.	टॉम को बताओ �
 Tell me how he got it.	Sag mir, wie er es bekommen hat.	मुझे बताओ कि उसने यह कैसे प्राप्त किया।
 Tell me it isn't true.	Sag mir, dass es nicht wahr ist.	मुझे बताओ कि यह सच नहीं है।
 Tell me something new.	Sag mir etwas Neues.	मुझे कुछ नया बताओ।
+Tell me what Tom said.	Sag mir, was Tom gesagt hat.	मुझे बताओ कि टॉम ने क्या कहा।
+Tell me what happened.	Sag mir, was passiert ist.	मुझे बताओ कि क्या हुआ।
+Tell me what you know.	Sag mir, was du weißt.	मुझे बताओ कि तुम्हे क्या पता है।
+Tell me what you need.	Sag mir, was du brauchst.	मुझे बताओ कि तुम्हे क्या चाहिए।
+Tell me what you want.	Sag mir, was du willst.	मुझे बताओ तुम्हे क्या चाहिए।
+Tell us a ghost story.	Erzähl uns eine Geistergeschichte.	हमें एक भूतिया कहानी सुनाओ।
+Tell us the truth now.	Sag uns jetzt die Wahrheit.	अब हमें सच्चाई बताओ।
+Thank God it's Friday.	Gott sei Dank, es ist Freitag.	धन्यवाद भगवान, यह शुक्रवार है।
+Thank God nobody died.	Gott sei Dank ist niemand gestorben.	धन्यवाद भगवान, किसी की मौत नहीं हुई।
+Thank you for calling.	Vielen Dank für Ihren Anruf.	कॉल करने के लिए धन्यवाद।
