@@ -1,14 +1,4 @@
 
-We must pay the tax.	Wir müssen die Steuer bezahlen.	हमें कर का भुगतान करना होगा।
-We must work faster.	Wir müssen schneller arbeiten.	हमें तेजी से काम करना होगा।
-We need Tom's money.	Wir brauchen Toms Geld.	हमें टॉम के पैसे चाहिए।
-We need a challenge.	Wir brauchen eine Herausforderung.	हमें एक चुनौती चाहिए।
-We need a steamboat.	Wir brauchen ein Dampfschiff.	हमें स्टीमशिप की जरूरत है।
-We need a volunteer.	Wir brauchen einen Freiwilligen.	हमें एक स्वयंसेवक की जरूरत है।
-We need an iron bar.	Wir brauchen eine Eisenstange.	हमें एक आयरन बार चाहिए।
-We need more coffee.	Wir brauchen mehr Kaffee.	हमें अधिक कॉफी चाहिए।
-We need to act fast.	Wir müssen schnell handeln.	हमें जल्दी से काम करना होगा।
-We need to get help.	Wir müssen Hilfe holen.	हमें मदद लेनी होगी।
 We need to help Tom.	Wir müssen Tom helfen.	हमें टॉम की मदद करनी है।
 We never had doubts.	Wir hatten nie Zweifel.	हमें कभी संदेह नहीं था।
 We obeyed the rules.	Wir haben die Regeln beachtet.	हमने नियमों पर ध्यान दिया है।

@@ -29616,3 +29616,13 @@ We must leave early. - Different meaning	Wir müssen frühzeitig abreisen.	ह�
 We must not be late.	Wir dürfen nicht zu spät kommen.	हमें देर नहीं होने देना चाहिए।
 We must not do that.	Wir dürfen das nicht tun.	हमें ऐसा नहीं करना चाहिए।
 We must not retreat.	Wir dürfen nicht zurückweichen.	हमें पीछे हटने नहीं देना चाहिए।
+We must pay the tax.	Wir müssen die Steuer zahlen.	हमें कर भरना चाहिए।
+We must work faster.	Wir müssen schneller arbeiten.	हमें जल्दी काम करना चाहिए।
+We need Tom's money.	Wir brauchen Toms Geld.	हमें टॉम के पैसे चाहिए।
+We need a challenge.	Wir brauchen eine Herausforderung.	हमें एक चुनौती चाहिए।
+We need a steamboat.	Wir brauchen ein Dampfschiff.	हमें एक भाप समुद्री जहाज चाहिए।
+We need a volunteer.	Wir brauchen einen Freiwilligen.	हमें एक स्वेच्छासेवक चाहिए।
+We need an iron bar.	Wir brauchen eine Eisenstange.	हमें एक लोहे की छड़ी चाहिए।
+We need more coffee.	Wir brauchen mehr Kaffee.	हमें और कॉफ़ी चाहिए।
+We need to act fast.	Wir müssen schnell handeln.	हमें तेजी से काम करना है।
+We need to get help.	Wir brauchen Hilfe zu bekommen.	हमें मदद प्राप्त करनी है।
