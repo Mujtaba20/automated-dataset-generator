@@ -33759,3 +33759,13 @@ There's not a chance.	Es besteht keine Chance.	कोई मौका नही�
 There's nothing here.	Hier ist nichts.	यहाँ कुछ नहीं है।
 These are Tom's cats.	Das sind Toms Katzen.	ये टॉम के बिल्ली हैं।
 These are my friends.	Das sind meine Freunde.	ये मेरे दोस्त हैं।
+These are my glasses.	Das sind meine Brillen.	ये मेरी चश्मे हैं।
+These are my parents.	Das sind meine Eltern.	ये मेरे माता-पिता हैं।
+These are my pencils.	Das sind meine Bleistifte.	ये मेरी पेंसिल्स हैं।
+These aren't for you.	Diese sind nicht für dich.	ये तुम्हारे लिए नहीं हैं।
+These aren't my keys.	Das sind nicht meine Schlüssel.	ये मेरी कुंजी नहीं हैं।
+These books are mine.	Diese Bücher sind meine.	ये किताबें मेरी हैं।
+These books are ours.	Diese Bücher sind unsere.	ये किताबें हमारी हैं।
+These girls are wild.	Diese Mädchen sind wild.	ये लड़कियाँ जंगली हैं।
+These keys are Tom's.	Diese Schlüssel gehören Tom.	ये चाबियाँ टॉम की हैं।
+These shoes are hers.	Diese Schuhe sind ihre.	ये जूते उसके हैं।
