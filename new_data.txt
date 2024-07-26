@@ -37415,3 +37415,12 @@ I go there every year.	Ich gehe jedes Jahr dorthin.	मैं हर साल �
 I go to bed about ten.	Ich gehe gegen zehn ins Bett.	मैं दस बजे के आसपास सो जाता हूँ।
 I go to bed at eleven.	Ich gehe um elf Uhr ins Bett.	मैं ग्यारह बजे सो जाता हूँ।
 I go to church by car.	Ich fahre mit dem Auto zur Kirche.	मैं कार से चर्च जाता हूँ।
+I go to school by bus.	Ich gehe mit dem Bus zur Schule.	मैं बस से स्कूल जाता हूँ।
+I got out of the taxi.	Ich stieg aus dem Taxi aus.	मैंने टैक्सी से बाहर निकल लिया।
+I got soap in my eyes.	Ich bekam Seife in die Augen.	मेरी आंखों में साबुन चला गया।
+I got tired very fast.	Ich wurde sehr schnell müde.	मैं बहुत तेजी से थक गया।
+I got up a minute ago.	Ich bin vor einer Minute aufgestanden.	मैं एक मिनट पहले उठा।
+I got up at about six.	Ich bin gegen sechs Uhr aufgestanden.	मैं लगभग छह बजे उठ गया।
+I got wet to the skin.	Ich wurde bis auf die Haut nass.	मेरी त्वचा तक भीग गई।
+I grabbed Tom's wrist.	Ich packte Toms Handgelenk.	मैंने टॉम की कलाई पकड़ी।
+I guess I'd better go.	Ich denke, ich sollte besser gehen.	मुझे लगता है मुझे बेहतर है जाना।
