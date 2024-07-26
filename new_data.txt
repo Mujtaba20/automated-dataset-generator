@@ -30945,3 +30945,13 @@ He always works hard.	Er arbeitet immer hart.	वह हमेशा मेह�
 He and I are cousins.	Er und ich sind Cousins.	वह और मैं भाई बहन हैं।
 He and I are friends.	Er und ich sind Freunde.	वह और मैं दोस्त हैं।
 He applied for a job.	Er bewarb sich um einen Job.	उसने नौकरी के लिए आवेदन किया।
+He arrived too early.	Er kam zu früh an.	वह बहुत जल्दी पहुंच गया।
+He asked for my help.	Er bat um meine Hilfe.	उसने मेरी मदद के लिए कहा।
+He asked me for help.	Er fragte mich nach Hilfe.	उसने मुझसे मदद मांगी।
+He asked me to dance.	Er bat mich zu tanzen.	उसने मुझसे नृत्य करने के लिए कहा।
+He asked me to do it.	Er bat mich, es zu tun.	उसने मुझसे यह करने के लिए कहा।
+He asked me to do it. - Different meaning	Er bat mich, es zu erledigen.	उसने मुझसे यह करने के लिए कहा। - विभिन्न अर्थ
+He attained his goal.	Er erreichte sein Ziel.	उसने अपना लक्ष्य हासिल किया।
+He began to feel ill.	Er begann sich krank zu fühlen.	उसने बीमार महसूस करना शुरू किया।
+He blew soap bubbles.	Er blies Seifenblasen.	उसने साबुन की बुलबुलें उड़ाईं।
+He breathed his last.	Er hauchte sein Leben aus.	उसने आखिरी सांस ली।
