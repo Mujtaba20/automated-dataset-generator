@@ -23555,3 +23555,13 @@ Tom hates studying.	Tom hasst das Studieren.	टॉम को पढ़ाई �
 Tom helped himself.	Tom half sich selbst.	टॉम ने खुद की मदद की।
 Tom helped me move.	Tom half mir beim Umzug.	टॉम ने मुझे बदलने में मदद की।
 Tom hit the target.	Tom traf das Ziel.	टॉम ने लक्ष्य को मारा।
+Tom inhaled deeply.	Tom atmete tief ein.	टॉम ने गहरी सांस ली।
+Tom interrupted me.	Tom unterbrach mich.	टॉम ने मुझे बाधित कर दिया।
+Tom is Mary's boss.	Tom ist Marias Chef.	टॉम मैरी का बॉस है।
+Tom is Mary's hero.	Tom ist Marias Held.	टॉम मैरी का नायक है।
+Tom is Mary's type.	Tom ist Marias Typ.	टॉम मैरी के शैली का है।
+Tom is a Boy Scout.	Tom ist ein Pfadfinder.	टॉम एक लड़के स्काउट है।
+Tom is a Capricorn.	Tom ist ein Steinbock.	टॉम मकर राशि का है।
+Tom is a Christian.	Tom ist Christ.	टॉम एक ईसाई है।
+Tom is a bartender.	Tom ist Barkeeper.	टॉम एक बारटेंडर है।
+Tom is a beekeeper.	Tom ist Imker.	टॉम एक मधुमक्खी पालक है।
