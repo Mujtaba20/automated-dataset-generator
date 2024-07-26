@@ -25027,3 +25027,11 @@ You've been warned. (Different Meaning 3)	Du hast eine Warnung erhalten.	तु�
 You've been warned. (Different Meaning 4)	Ihr seid gewarnt worden.	तुम चेतावनी दी गई हो।
 You've betrayed me.	Du hast mich verraten.	तुमने मुझे धोखा दिया है।
 You've got a fever.	Du hast Fieber.	तुम्हें बुखार है।
+You've got my keys.	Du hast meine Schlüssel.	तुम्हारे पास मेरी कुंजियाँ हैं।
+You've got my keys. (Different meaning)	Sie haben meine Schlüssel bekommen.	तुम्हारे पास मेरी कुंजियाँ हैं। (अलग अर्थ)
+You've got my vote.	Du hast meine Stimme.	तुम्हारे पास मेरा वोट है।
+You've got to hide.	Du musst dich verstecken.	तुम्हें छिपना होगा।
+You've lost weight.	Du hast Gewicht verloren.	तुमने वजन घटाया है।
+You've made my day.	Du hast meinen Tag gemacht.	तुमने मेरा दिन बना दिया।
+Your bath is ready.	Dein Bad ist bereit.	तुम्हारा स्नान तैयार है।
+Your bath is ready. (Different meaning)	Ihr Bad ist fertig.	तुम्हारा स्नान तैयार है। (अलग अर्थ)

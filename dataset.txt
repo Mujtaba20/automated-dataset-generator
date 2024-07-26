@@ -1,14 +1,4 @@
 
-You've got my keys.	Du hast meine Schlüssel.	आपके पास मेरी चाबी है।
-You've got my keys.	Sie haben meine Schlüssel.	आपके पास मेरी चाबी है।
-You've got my vote.	Meine Stimme hast du.	आपके पास मेरी आवाज है।
-You've got my vote.	Du hast meine Stimme.	आपके पास मेरी आवाज है।
-You've got to hide.	Du musst dich verstecken.	आपको छिपाना है।
-You've lost weight.	Sie haben abgenommen.	आप कम हो गए।
-You've made my day.	Du hast meinen Tag gerettet.	आपने मेरा दिन बचाया।
-Your bath is ready.	Dein Bad ist fertig.	आपका स्नान तैयार है।
-Your bath is ready.	Euer Bad ist fertig.	आपका बाथरूम तैयार है।
-Your bath is ready.	Ihr Bad steht bereit.	आपका बाथरूम तैयार है।
 Your breath stinks.	Dein Atem stinkt.	तुम्हारी सांस में बदबू आ रही है।
 Your kids are cute.	Deine Kinder sind süß.	आपके बच्चे प्यारे हैं।
 Your lips are blue.	Du hast blaue Lippen.	आपके पास नीले होंठ हैं।
