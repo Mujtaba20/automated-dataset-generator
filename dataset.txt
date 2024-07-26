@@ -1,14 +1,4 @@
 
-You have to live here.	Du musst hier leben.	आपको यहां रहना है।
-You have to stop this.	Du musst damit aufhören.	तुम्हें रुकना होगा।
-You have to take this.	Du musst dieses nehmen.	आपको यह लेना होगा।
-You have to take this.	Du musst das hier nehmen.	आपको इसे यहां ले जाना होगा।
-You have to try again.	Du musst es nochmal probieren.	आपको इसे फिर से आज़माना होगा।
-You just don't get it.	Du verstehst es einfach nicht.	आप बस इसे नहीं समझते हैं।
-You know I have to go.	Du weißt, dass ich gehen muss.	तुम्हें पता है कि मुझे जाना है।
-You know I have to go.	Sie wissen, dass ich gehen muss.	तुम्हें पता है कि मुझे जाना है।
-You know Tom, I think.	Du kennst Tom, denke ich.	तुम्हें पता है टॉम, मुझे लगता है।
-You know how they are.	Du weißt, wie sie sind.	आप जानते हैं कि वे कैसे हैं।
 You know that's a lie.	Du weißt, dass das gelogen ist.	आप जानते हैं कि झूठ बोला जाता है।
 You know that's a lie.	Sie wissen, dass das gelogen ist.	आप जानते हैं कि झूठ बोला जाता है।
 You know that's a lie.	Ihr wisst, dass das gelogen ist.	आप जानते हैं कि यह झूठ है।
