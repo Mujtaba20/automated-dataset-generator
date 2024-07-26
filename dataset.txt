@@ -1,15 +1,4 @@
 
-Did you think about it?	Haben Sie darüber nachgedacht?	क्या आपने इसके बारे में सोचा?
-Did you understand Tom?	Hast du Tom verstanden?	क्या आप टॉम को समझते थे?
-Did you understand Tom?	Habt ihr Tom verstanden?	क्या आप टॉम को समझते थे?
-Did you understand Tom?	Haben Sie Tom verstanden?	क्या आप टॉम को समझते थे?
-Did you want to see me?	Wollten Sie mich sprechen?	क्या आप मुझसे बात करना चाहते थे?
-Did you want to see me?	Wolltet ihr mich sprechen?	क्या आप मुझसे बात करना चाहते थे?
-Did you want to see me?	Wolltest du mich sprechen?	क्या आप मुझसे बात करना चाहते थे
-Did you wash your hair?	Hast du dir die Haare gewaschen?	क्या आपने अपने बाल धोए?
-Did you wash your hair?	Haben Sie sich die Haare gewaschen?	क्या आपने अपने बाल धोए?
-Did you watch the game?	Hast du das Spiel angeschaut?	क्या आपने खेल को देखा?
-Did you watch the game?	Hast du das Spiel gesehen?	क्या आपने खेल देखा?
 Did you work yesterday?	Hast du gestern gearbeitet?	क्या तुमने कल काम किया था?
 Didn't anyone help you?	Hat dir keiner geholfen?	क्या किसी ने आपकी मदद की है?
 Didn't anyone help you?	Hat Ihnen keiner geholfen?	क्या किसी ने आपकी मदद की है?
