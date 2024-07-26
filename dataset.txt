@@ -1,14 +1,4 @@
 
-Tom is a great fighter.	Tom ist ein großartiger Kämpfer.	टॉम एक महान सेनानी है।
-Tom is a great teacher.	Tom ist ein toller Lehrer.	टॉम एक महान शिक्षक हैं।
-Tom is a grown man now.	Tom ist jetzt ein erwachsener Mann.	टॉम अब एक वयस्क व्यक्ति है।
-Tom is a heavy drinker.	Tom ist ein Säufer.	टॉम एक शराबी है।
-Tom is a heroin addict.	Tom ist heroinabhängig.	टॉम हेरोइन -डिपेंडेंट है।
-Tom is a hypochondriac.	Tom ist ein Hypochonder.	टॉम एक हाइपोकॉन्ड्रिक है।
-Tom is a light sleeper.	Tom hat einen leichten Schlaf.	टॉम को थोड़ी नींद आती है।
-Tom is a man of action.	Tom ist ein Mann der Tat.	टॉम विलेख का आदमी है।
-Tom is a man of reason.	Tom ist ein Vernunftsmensch.	टॉम एक कारण है।
-Tom is a mathematician.	Tom ist Mathematiker.	टॉम एक गणितज्ञ है।
 Tom is a model student.	Tom ist ein Musterschüler.	टॉम एक मॉडल छात्र है।
 Tom is a music teacher.	Tom ist Musiklehrer.	टॉम एक संगीत शिक्षक हैं।
 Tom is a nervous wreck.	Tom ist ein Nervenbündel.	टॉम तंत्रिका का एक बंडल है।
