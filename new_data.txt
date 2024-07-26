@@ -35628,3 +35628,12 @@ Why are you out here?	Warum bist du hier draußen?	तुम यहाँ बा
 Why are you sleeping?	Weshalb schläfst du?	तुम सो क्यों रहे हो?
 Why are you so awful?	Warum bist du so furchtbar?	तुम इतने भयानक क्यों हो?
 Why are you so happy?	Warum bist du so glücklich?	तुम इतने खुश क्यों हो?
+Why are you so quiet?	Warum bist du so leise?	तुम इतने चुप क्यों हो?
+Why are you so smart?	Warum bist du so klug?	तुम इतने बुद्धिमान क्यों हो?
+Why are you so tired?	Warum bist du so müde?	तुम इतने थके क्यों हो?
+Why are you so upset?	Warum bist du so verärgert?	तुम इतने चिढ़ गए हो?
+Why are you stopping?	Warum hörst du auf?	तुम क्यों रुक रहे हो?
+Why are you studying?	Warum lernst du?	तुम पढ़ाई क्यों कर रहे हो?
+Why aren't they back?	Warum sind sie nicht zurück?	वे वापस क्यों नहीं आ रहे हैं?
+Why aren't they here?	Warum sind sie nicht hier?	वे यहाँ क्यों नहीं हैं?
+Why aren't you going?	Warum gehst du nicht?	तुम क्यों नहीं जा रहे हो?

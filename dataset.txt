@@ -1,14 +1,4 @@
 
-Why are you so quiet?	Warum bist du so still?	आप इतने शांत क्यों हैं?
-Why are you so smart?	Wieso bist du so schlau?	आप इतने स्मार्ट क्यों हैं?
-Why are you so tired?	Warum bist du so müde?	आप इतने थके हुए क्यो हो?
-Why are you so upset?	Warum bist du so aufgebracht?	आप इतने क्यों लागू होते हैं?
-Why are you so upset?	Warum sind Sie so aufgebracht?	आप इतने क्यों लागू होते हैं?
-Why are you stopping?	Warum hörst du auf?	आप क्यों रुकते हैं?
-Why are you studying?	Warum lernst du?	आप क्यों सीखते हैं?
-Why aren't they back?	Warum sind sie nicht wieder da?	आप वापस क्यों नहीं हैं?
-Why aren't they here?	Warum sind sie nicht hier?	तुम यहाँ क्यों नहीं हो?
-Why aren't you going?	Warum gehst du nicht?	तुम क्यों नहीं जाते हो?
 Why aren't you ready?	Wieso bist du nicht fertig?	आप क्यों खत्म नहीं करते?
 Why aren't you there?	Warum bist du nicht dort?	आप वहां क्यों नहीं हैं?
 Why bother fixing it?	Wozu sich die Mühe machen, es herzurichten?	इसे तैयार करने के लिए क्या परेशानी है?
