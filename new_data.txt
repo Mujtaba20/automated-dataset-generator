@@ -30546,3 +30546,13 @@ Deliver this message.	Liefere diese Nachricht.	यह संदेश वित�
 Diamonds are forever.	Diamanten sind für immer.	हीरे हमेशा के लिए हैं।
 Did I miss something?	Habe ich etwas verpasst?	क्या मुझसे कुछ छूट गया है?
 Did I miss the party?	Habe ich die Party verpasst?	क्या मैंने पार्टी को छोड़ दिया?
+Did I really do that?	Habe ich das wirklich gemacht?	क्या मैंने वास्तव में वह किया था?
+Did Tom ask about me?	Hat Tom nach mir gefragt?	क्या टॉम ने मेरे बारे में पूछा?
+Did Tom ask about us?	Hat Tom nach uns gefragt?	क्या टॉम ने हमारे बारे में पूछा?
+Did Tom ask for help?	Hat Tom um Hilfe gebeten?	क्या टॉम ने मदद के लिए पूछा?
+Did Tom buy anything?	Hat Tom etwas gekauft?	क्या टॉमने कुछ खरीदा है?
+Did Tom eat anything?	Hat Tom etwas gegessen?	क्या टॉमने कुछ खाया?
+Did Tom forgive Mary?	Hat Tom Maria vergeben?	क्या टॉमने मेरी क्षमा कर दी?
+Did Tom get a chance?	Hat Tom eine Chance bekommen?	क्या टॉम को मौका मिला?
+Did Tom go to Boston?	Ist Tom nach Boston gegangen?	क्या टॉम बॉस्टन गया था?
+Did Tom hurt himself?	Hat Tom sich verletzt?	क्या टॉमने खुद को चोट पहुंचाई?

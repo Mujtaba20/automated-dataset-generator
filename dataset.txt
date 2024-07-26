@@ -1,14 +1,4 @@
 
-Did I really do that?	Habe ich das wirklich gemacht?	क्या मैंने वास्तव में ऐसा किया था?
-Did Tom ask about me?	Hat Tom nach mir gefragt?	क्या टॉम ने मुझसे पूछा?
-Did Tom ask about us?	Hat Tom nach uns gefragt?	क्या टॉम ने हमसे पूछा?
-Did Tom ask for help?	Hat Tom Hilfe erbeten?	क्या टॉम ने मदद का अनुरोध किया है?
-Did Tom buy anything?	Hat Tom irgendwas gekauft?	क्या टॉम ने कुछ भी खरीदा?
-Did Tom eat anything?	Hat Tom irgendetwas gegessen?	क्या टॉम ने कुछ खाया?
-Did Tom forgive Mary?	Hat Tom Mary vergeben?	क्या टॉम मैरी ने सौंपा है?
-Did Tom get a chance?	Hat man Tom eine Chance gegeben?	क्या आपने टॉम को मौका दिया?
-Did Tom go to Boston?	Ist Tom nach Boston gefahren?	क्या टॉम बोस्टन गए थे?
-Did Tom hurt himself?	Hat Tom sich verletzt?	क्या टॉम घायल हो गया?
 Did Tom kill himself?	Hat Tom sich umgebracht?	क्या टॉम ने खुद को मार दिया?
 Did Tom make you cry?	Hat Tom dich zum Weinen gebracht?	क्या टॉम ने आपको रोया?
 Did Tom make you cry?	Hat Tom euch zum Weinen gebracht?	क्या टॉम ने आपको रोया?
