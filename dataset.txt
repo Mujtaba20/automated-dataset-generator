@@ -1,14 +1,4 @@
 
-This is a rental car.	Das ist ein Leihwagen.	यह एक किराये की कार है।
-This is a rental car.	Das ist ein Mietwagen.	यह एक किराये की कार है।
-This is a small book.	Dies ist ein kleines Buch.	यह एक छोटी सी किताब है।
-This is a small book.	Das ist ein kleines Buch.	यह एक छोटी सी किताब है।
-This is a true story.	Dies ist eine wahre Geschichte.	यह एक वास्तविक कहानी है।
-This is all I can do.	Das ist alles, was ich machen kann.	यह सब मैं कर सकता हूं।
-This is all my fault.	Das ist alles meine Schuld.	यह सब मेरी गलती है।
-This is an emergency.	Dies ist ein Notfall.	यह एक आपातकालीन स्थिति है।
-This is for you, Tom.	Das ist für dich, Tom.	यह आपके लिए है, टॉम।
-This is homemade jam.	Das ist selbstgemachte Marmelade.	यह घर का बना जाम है।
 This is how I did it.	So habe ich das gemacht.	इस तरह मैंने यह किया।
 This is how we do it.	So machen wir das.	हम इसे इस तरह करते हैं।
 This is my I.D. card.	Dies ist mein Personalausweis.	यह मेरा आईडी कार्ड है।
