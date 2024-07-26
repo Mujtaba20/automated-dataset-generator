@@ -1,14 +1,4 @@
 
-This box is very heavy.	Diese Kiste ist sehr schwer.	यह बॉक्स बहुत मुश्किल है।
-This car is quite safe.	Dieses Auto ist vollkommen sicher.	यह कार पूरी तरह से सुरक्षित है।
-This car needs washing.	Dieser Wagen muss gewaschen werden.	इस कार को धोया जाना चाहिए।
-This clock is accurate.	Diese Uhr geht richtig.	यह घड़ी सही है।
-This coat is rainproof.	Dieser Mantel ist wasserdicht.	यह कोट वाटरप्रूफ है।
-This coat is too small.	Dieser Mantel ist zu klein.	यह कोट बहुत छोटा है।
-This data is incorrect.	Diese Daten sind falsch.	यह डेटा गलत है।
-This decision is final.	Diese Entscheidung ist endgültig.	यह निर्णय अंतिम है।
-This decision is final.	Diese Entscheidung ist unwiderruflich.	यह निर्णय अपरिवर्तनीय है।
-This decision was hard.	Diese Entscheidung war eine schwierige.	यह निर्णय एक मुश्किल था।
 This desk cost me $300.	Dieser Schreibtisch hat mich 300 Dollar gekostet.	इस डेस्क की कीमत मुझे $ 300 है।
 This dish is too spicy.	Dieses Gericht ist zu scharf.	यह व्यंजन बहुत तेज है।
 This dog saved my life.	Dieser Hund hat mir das Leben gerettet.	इस कुत्ते ने मेरी जान बचाई।
