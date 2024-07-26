@@ -1,14 +1,4 @@
 
-Tom ignored my advice.	Tom hat meinen Rat ignoriert.	टॉम ने मेरी सलाह को नजरअंदाज कर दिया।
-Tom ironed his shirts.	Tom bügelte seine Hemden.	टॉम ने अपनी शर्ट को इस्त्री किया।
-Tom is John's brother.	Tom ist Johns Bruder.	टॉम जॉन का भाई है।
-Tom is Mary's brother.	Tom ist Marys Bruder.	टॉम मैरी का भाई है।
-Tom is Mary's husband.	Tom ist Marias Ehemann.	टॉम मारिया के पति हैं।
-Tom is Mary's stepson.	Tom ist Marias Stiefsohn.	टॉम मारिया का सौतेला बेटा है।
-Tom is a big fat liar.	Tom ist ein verlogener Hund.	टॉम एक झूठ बोलने वाला कुत्ता है।
-Tom is a bird watcher.	Tom ist Vogelbeobachter.	टॉम एक पक्षी पर्यवेक्षक है।
-Tom is a brave person.	Tom ist tapfer.	टॉम बहादुर है।
-Tom is a brave person.	Tom ist mutig.	टॉम बहादुर है।
 Tom is a car mechanic.	Tom ist Automechaniker.	टॉम एक कार मैकेनिक है।
 Tom is a car salesman.	Tom ist Autoverkäufer.	टॉम एक कार विक्रेता है।
 Tom is a cardiologist.	Tom ist Kardiologe.	टॉम एक कार्डियोलॉजिस्ट है।

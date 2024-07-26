@@ -40167,3 +40167,12 @@ Tom hid in the closet.	Tom versteckte sich im Schrank.	टॉम अलमार
 Tom hid under the bed.	Tom versteckte sich unter dem Bett.	टॉम बिस्तर के नीचे छुपा था।
 Tom hit me by mistake.	Tom hat mich aus Versehen geschlagen.	टॉम ने गलती से मुझे मार दिया।
 Tom hung up the phone.	Tom legte den Hörer auf.	टॉम ने फोन को कट दिया।
+Tom ignored my advice.	Tom hat meinen Rat ignoriert.	टॉम ने मेरी सलाह को नजरअंदाज किया।
+Tom ironed his shirts.	Tom hat seine Hemden gebügelt.	टॉम ने अपनी कमीज़ें इस्त्री की।
+Tom is John's brother.	Tom ist Johns Bruder.	टॉम जॉन का भाई है।
+Tom is Mary's brother.	Tom ist Marys Bruder.	टॉम मेरी का भाई है।
+Tom is Mary's husband.	Tom ist Marys Ehemann.	टॉम मेरी का पति है।
+Tom is Mary's stepson.	Tom ist Marys Stiefsohn.	टॉम मेरी का पुत्र सौतेला है।
+Tom is a big fat liar.	Tom ist ein großer fetter Lügner.	टॉम एक मोटा झूठा है।
+Tom is a bird watcher.	Tom ist ein Vogelbeobachter.	टॉम एक पक्षी देखने वाला है।
+Tom is a brave person.	Tom ist ein tapferer Mensch.	टॉम एक वीर व्यक्ति है।
