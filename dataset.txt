@@ -1,14 +1,4 @@
 
-I gave Tom a chance.	Ich gab Tom eine Chance.	मैंने टॉम को एक मौका दिया।
-I gave Tom a cookie.	Ich gab Tom einen Keks.	मैंने टॉम को एक बिस्किट दिया।
-I gave Tom a cookie.	Ich gab Tom ein Keks.	मैंने टॉम को एक बिस्किट दिया।
-I gave Tom a cookie.	Ich habe Tom ein Keks gegeben.	मैंने टॉम को एक बिस्किट दिया।
-I gave Tom a cookie.	Ich habe Tom einen Keks gegeben.	मैंने टॉम को एक बिस्किट दिया।
-I gave him the book.	Ich gab ihm das Buch.	मैंने उसे किताब दी।
-I get paid tomorrow.	Ich werde morgen bezahlt.	मुझे कल भुगतान किया जाएगा।
-I get up very early.	Ich stehe sehr früh auf.	मैं बहुत जल्दी उठता हूं।
-I give you my heart.	Ich gebe dir mein Herz.	मैं आपको अपना दिल देता हूँ।
-I give you my heart.	Ich gebe Ihnen mein Herz.	मैं आपको अपना दिल देता हूँ।
 I go to work by bus.	Ich fahre mit dem Bus zur Arbeit.	मैं बस से काम करने के लिए जाता हूँ।
 I go where I please.	Ich gehe, wohin ich will.	मैं जाता हूं जहां मैं जाना चाहता हूं।
 I got Tom's message.	Ich habe Toms Nachricht bekommen.	मुझे टॉम का संदेश मिला।

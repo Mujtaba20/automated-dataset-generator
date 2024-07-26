@@ -26256,3 +26256,9 @@ I forgot about that.	Das habe ich vergessen.	मैं उसके बारे
 I forgot to ask Tom.	Ich habe vergessen, Tom zu fragen.	मैंने टॉम को पूछना भूल गया।
 I forgot to ask him.	Ich habe vergessen, ihn zu fragen.	मैंने उससे पूछना भूल गया।
 I found Tom's diary.	Ich fand Toms Tagebuch.	मैंने टॉम की डायरी खोजी।
+I gave Tom a chance.	Ich gab Tom eine Chance.	मैंने टॉम को एक मौका दिया।
+I gave Tom a cookie.	Ich gab Tom einen Keks.	मैंने टॉम को एक कुकी दी।
+I gave him the book.	Ich gab ihm das Buch.	मैंने उसे किताब दी।
+I get paid tomorrow.	Ich werde morgen bezahlt.	मुझे कल पैसे मिलेंगे।
+I get up very early.	Ich stehe sehr früh auf.	मैं बहुत जल्दी उठता हूँ।
+I give you my heart.	Ich schenke dir mein Herz.	मैं तुम्हें अपना दिल देता हूँ।
