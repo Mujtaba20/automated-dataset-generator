@@ -31627,3 +31627,12 @@ I don't want to look.	Ich möchte nicht schauen.	मैं देखना न�
 I don't want to play.	Ich möchte nicht spielen.	मैं खेलना नहीं चाहता।
 I don't want to rest.	Ich will nicht ruhen.	मैं आराम नहीं करना चाहता।
 I don't want to stay.	Ich möchte nicht bleiben.	मैं रुकना नहीं चाहता।
+I don't want to stop.	Ich will nicht stoppen.	मैं बंद नहीं करना चाहता।
+I don't want to talk.	Ich möchte nicht sprechen.	मैं बात नहीं करना चाहता।
+I don't want to wait.	Ich möchte nicht warten.	मैं इंतजार नहीं करना चाहता।
+I don't want to work.	Ich möchte nicht arbeiten.	मैं काम नहीं करना चाहता।
+I don't want trouble.	Ich will keinen Ärger.	मुझे कोई मुसीबत नहीं चाहिए।
+I don't wear a watch.	Ich trage keine Uhr.	मैं घड़ी नहीं पहनता।
+I don't work for you.	Ich arbeite nicht für dich.	मैं तुम्हारे लिए काम नहीं करता।
+I don't write poetry.	Ich schreibe keine Gedichte.	मैं कविता नहीं लिखता।
+I donate every month.	Ich spende jeden Monat.	मैं हर महीने दान करता हूँ।

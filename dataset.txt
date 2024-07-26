@@ -1,14 +1,4 @@
 
-I don't want to stop.	Ich will nicht aufhören.	मैं रुकना नहीं चाहता।
-I don't want to stop.	Ich will nicht anhalten.	मैं रुकना नहीं चाहता।
-I don't want to talk.	Ich will nicht reden.	मैं बात नहीं करना चाहूता हूं।
-I don't want to wait.	Ich will nicht warten.	मैं इंतजार नहीं करना चाहता।
-I don't want to work.	Ich will nicht arbeiten.	ऐन काम नहीं करना चाहती।
-I don't want trouble.	Ich will keinen Ärger.	मुझे कोई परेशानी नहीं चाहिए।
-I don't wear a watch.	Ich trage keine Uhr.	मैं एक घड़ी नहीं पहनता।
-I don't work for you.	Ich arbeite nicht für Sie.	मैं आपके लिए काम नहीं करता।
-I don't write poetry.	Ich schreibe keine Poesie.	मैं कविता नहीं लिखता।
-I donate every month.	Ich spende jeden Monat.	मैं हर महीने दान करता हूं।
 I dropped my earring.	Ich haben meinen Ohrring fallen lassen.	मैंने अपनी बाली गिरा दी।
 I earn more than Tom.	Ich verdiene mehr als Tom.	मैं टॉम से ज्यादा कमाता हूं।
 I eat meat every day.	Ich esse jeden Tag Fleisch.	मैं हर दिन मांस खाता हूं।
