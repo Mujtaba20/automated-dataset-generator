@@ -22316,3 +22316,11 @@ It's a typo. Sorry.	Es ist ein Tippfehler. Entschuldigung.	यह एक टा�
 It's a vague story.	Es ist eine vage Geschichte.	यह एक अस्पष्ट कहानी है।
 It's all our fault.	Es ist alles unsere Schuld.	यह सब हमारी गलती है।
 It's all up to you.	Es liegt ganz bei dir.	यह सब तुम्हारे हाथ में है।
+It's almost summer.	Es ist fast Sommer.	यह लगभग गर्मी होने वाली है।
+It's already seven.	Es ist bereits sieben.	सात बज चुके हैं।
+It's an experiment.	Es ist ein Experiment.	यह एक प्रयोग है।
+It's an olive tree.	Es ist ein Olivenbaum.	यह जैतून का पेड़ है।
+It's at the corner.	Es ist an der Ecke.	यह कोने पर है।
+It's badly damaged.	Es ist stark beschädigt.	यह बहुत नुकसान पहुंचा है।
+It's beautiful out.	Es ist wunderschön draußen.	यह बाहर खूबसूरत है।
+It's beyond reason.	Es ist jenseits der Vernunft.	यह तर्क से परे है।

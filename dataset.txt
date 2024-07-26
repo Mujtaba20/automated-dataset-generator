@@ -1,14 +1,4 @@
 
-It's almost summer.	Es ist fast Sommer.	यह लगभग गर्मियों में है।
-It's already seven.	Es ist schon um 7.	यह पहले से ही 7 है।
-It's an experiment.	Es ist ein Experiment.	यह एक प्रयोग है।
-It's an olive tree.	Das ist ein Olivenbaum.	यह एक जैतून का पेड़ है।
-It's at the corner.	Es ist an der Ecke.	यह कोने पर है।
-It's badly damaged.	Es ist ziemlich beschädigt.	यह बहुत क्षतिग्रस्त है।
-It's badly damaged.	Sie ist ziemlich beschädigt.	यह काफी क्षतिग्रस्त है।
-It's badly damaged.	Er ist ziemlich beschädigt.	वह काफी क्षतिग्रस्त है।
-It's beautiful out.	Das Wetter ist schön.	मौसम अच्छा है।
-It's beyond reason.	Das ist jenseits der Vernunft.	यह कारण से परे है।
 It's big, isn't it?	Sie ist groß, oder?	यह बड़ा है, है ना?
 It's big, isn't it?	Es ist groß, oder?	यह बड़ा है, है ना?
 It's cold out here.	Es ist kalt hier draußen.	यहाँ ठंडा है।
