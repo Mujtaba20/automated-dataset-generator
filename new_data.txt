@@ -35249,3 +35249,13 @@ We traveled together. - 2	Wir waren gemeinsam unterwegs.	हमने एक स
 We tried really hard.	Wir haben uns wirklich bemüht.	हमने सचमुच बहुत प्रयास किए।
 We tried really hard. - 2	Wir haben es wirklich versucht.	हमने वास्तव में बहुत कोशिश की।
 We tried to call you.	Wir haben versucht, dich anzurufen.	हमने कोशिश की तुम्हें कॉल करने की।
+We tried to save Tom.	Wir haben versucht, Tom zu retten.	हमने टॉम को बचाने की कोशिश की।
+We value punctuality.	Wir legen Wert auf Pünktlichkeit.	हम समय पर आने की कद्र करते हैं।
+We value punctuality.1	Wir schätzen Pünktlichkeit.	हम समयपालन का महत्व देते हैं।
+We walked to my room.	Wir gingen zu meinem Zimmer.	हम मेरे कमरे में चले गए।
+We want a new carpet.	Wir wollen einen neuen Teppich.	हमें नया कालीन चाहिए।
+We want to be strong.	Wir wollen stark sein.	हम मजबूत बनना चाहते हैं।
+We want to come back.	Wir wollen zurückkommen.	हम वापस आना चाहते हैं।
+We want to live here.	Wir wollen hier leben.	हम यहाँ रहना चाहते हैं।
+We want to live here.1	Wir möchten hier wohnen.	हम यहां रहना चाहते हैं।
+We want what we want.	Wir wollen, was wir wollen.	हमें वह चाहिए जो हम चाहते हैं।

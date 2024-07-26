@@ -1,14 +1,4 @@
 
-We tried to save Tom.	Wir versuchten, Tom zu retten.	हमने टॉम को बचाने की कोशिश की।
-We value punctuality.	Wir schätzen Pünktlichkeit.	हम समय की पाबंदी की सराहना करते हैं।
-We value punctuality.	Wir legen Wert auf Pünktlichkeit.	हम समय की पाबंदी को महत्व देते हैं।
-We walked to my room.	Wir gingen auf mein Zimmer.	हम अपने कमरे में गए।
-We want a new carpet.	Wir wollen einen neuen Teppich.	हम एक नया कालीन चाहते हैं।
-We want to be strong.	Wir wollen stark sein.	हम मजबूत होना चाहते हैं।
-We want to come back.	Wir wollen zurückkommen.	हम वापस आना चाहते हैं।
-We want to live here.	Wir wollen hier leben.	हम यहां रहना चाहते हैं।
-We want to live here.	Wir wollen hier wohnen.	हम यहां रहना चाहते हैं।
-We want what we want.	Wir wollen, was wir wollen.	हम चाहते हैं कि हम चाहते हैं।
 We watch TV together.	Wir sehen zusammen fern.	हम बहुत दूर देखते हैं।
 We went for a stroll.	Wir sind spazieren gegangen.	हम घूमने गए थे।
 We went to the beach.	Wir gingen zum Strand.	हम समुद्र तट पर गए।
