@@ -28225,3 +28225,13 @@ The lion is roaring.	Der Löwe brüllt.	सिंह गर्ज रहा ह�
 The list is endless.	Die Liste ist endlos.	सूची अंतहीन है।
 The man took my arm.	Der Mann nahm meinen Arm.	उस आदमी ने मेरा हाथ पकड़ लिया।
 The man was in rags.	Der Mann war in Lumpen.	उस आदमी के पसिने से गीला हो गया था।
+The meat tastes bad.	Das Fleisch schmeckt schlecht.	मांस बुरा लगता है।
+The meat was tender.	Das Fleisch war zart.	मांस नरम था।
+The monkey got away.	Der Affe ist entkommen.	बंदर छोड़ गया।
+The moon is shining.	Der Mond scheint.	चाँद चमक रहा है।
+The movie was awful.	Der Film war furchtbar.	फिल्म भयानक थी।
+The new car is hers.	Das neue Auto gehört ihr.	नई कार उसकी है।
+The news shocked me.	Die Nachrichten haben mich schockiert.	समाचार ने मुझे चौंका दिया।
+The pantry is empty.	Der Vorratsschrank ist leer.	पैंट्री खाली है।
+The pay is terrible.	Das Gehalt ist schrecklich.	वेतन भयानक है।
+The people fear war.	Die Menschen fürchten den Krieg.	लोग युद्ध से डरते हैं।
