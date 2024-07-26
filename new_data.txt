@@ -26634,3 +26634,8 @@ I saw Tom go inside.	Ich sah Tom hineingehen.	मैंने देखा क�
 I saw Tom in Boston.	Ich sah Tom in Boston.	मैंने बोस्टन में टॉम को देखा।
 I saw Tom kiss Mary.	Ich sah Tom Mary küssen.	मैंने देखा कि टॉम ने मैरी को चुम्मा छाटा।
 I saw Tom on Monday.	Ich sah Tom am Montag.	मैंने सोमवार को टॉम को देखा।
+I saw Tom with Mary.	Ich habe Tom mit Mary gesehen.	मैंने टॉम को मैरी के साथ देखा।
+I saw her last week.	Ich habe sie letzte Woche gesehen.	मैंने पिछले हफ्ते उसे देखा।
+I saw her yesterday.	Ich habe sie gestern gesehen.	मैंने कल उसे देखा।
+I saw one yesterday.	Ich habe gestern eins gesehen.	मैंने कल एक देखा।
+I saw the boat sink.	Ich sah das Boot sinken.	मैंने नौका डूबते हुए देखा।
