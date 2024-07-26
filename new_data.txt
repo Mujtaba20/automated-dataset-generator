@@ -28694,3 +28694,12 @@ Tom gave it to Mary.	Tom gab es Mary.	टॉमने इसे मेरी क
 Tom gave me the key.	Tom gab mir den Schlüssel.	टॉमने मुझे चाबी दे दी।
 Tom gave that to me.	Tom gab das mir.	टॉमने उसे मुझे दिया।
 Tom gave this to me.	Tom gab mir das.	टॉमने मुझे यह दिया।
+Tom gave up smoking.	Tom hat das Rauchen aufgegeben.	टॉम ने धूम्रपान छोड़ दिया।
+Tom gave us nothing.	Tom gab uns nichts.	टॉम ने हमें कुछ नहीं दिया।
+Tom gave us the key.	Tom gab uns den Schlüssel.	टॉम ने हमें कुंजी दी।
+Tom gets up at 6:30.	Tom steht um 6:30 Uhr auf.	टॉम 6:30 बजे उठता है।
+Tom gladly accepted.	Tom hat freudig akzeptiert.	टॉम ने खुशी से स्वीकार किया।
+Tom got ahead of me.	Tom kam vor mir an.	टॉम मेरे आगे पहुंच गया।
+Tom got discouraged.	Tom wurde entmutigt.	टॉम को असाहस आ गया।
+Tom got in the boat.	Tom stieg ins Boot.	टॉम ने नाव में प्रवेश किया।
+Tom got off the bus.	Tom stieg aus dem Bus aus.	टॉम ने बस से उतर लिया।
