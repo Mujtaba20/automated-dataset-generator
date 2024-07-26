@@ -25442,3 +25442,9 @@ Don't make me blush.	Bring mich nicht zum Erröten.	मुझे लाल क�
 Don't make me do it.	Zwing mich nicht dazu.	मुझे ऐसा करने मत दो।
 Don't make me sorry.	Mach mich nicht traurig.	मुझे दुःखित मत करो।
 Don't mess with Tom.	Ärgere Tom nicht.	टॉम से पंगा न लो।
+engSentence1	Die Tür nicht öffnen.	दरवाज़ा मत खोलो।
+engSentence2	Die Tür nicht öffnen.	अभी उसे फोन न करें।
+engSentence3	Diese Schachtel nicht öffnen.	मेरा डायरी ना पढ़े।
+engSentence4	Jetzt nicht telefonieren.	उस शब्द का उच्चारण ना करें।
+engSentence5	Die Tür nicht zuschlagen.	तुरंत मन करने वाला कार्य मत करें।
+engSentence6	Die Tür nicht zuschlagen.	इस बॉक्स को मत खोलो।

@@ -1,14 +1,4 @@
 
-Don't open the door.	Öffne die Tür nicht.	दरवाजा मत खोलो।
-Don't open the door.	Öffne nicht die Türe.	दरवाजा मत खोलो।
-Don't open this box.	Diese Kiste nicht öffnen!	इस बॉक्स को न खोलें!
-Don't phone her now.	Ruf sie jetzt nicht an.	अब उन्हें फोन मत करो।
-Don't read my diary.	Lies nicht in meinem Tagebuch!	मेरी डायरी में मत पढ़ो!
-Don't read my diary.	Lesen Sie nicht in meinem Tagebuch!	मेरी डायरी में मत पढ़ो!
-Don't say that word.	Sag das nicht.	ऐसा मत कहो।
-Don't slam the door.	Schlag die Tür nicht zu.	दरवाजा मत मारो।
-Don't slam the door.	Schlagen Sie die Tür nicht zu.	दरवाजा मत मारो।
-Don't slam the door.	Schmeißen Sie die Tür nicht zu.	दरवाजा भी मत फेंको।
 Don't smoke in here.	Hier drin nicht rauchen!	यहाँ धूम्रपान मत करो!
 Don't smoke so much.	Rauch nicht so viel.	इतना धूम्रपान न करें।
 Don't speak so fast.	Sprich nicht so schnell.	जल्दी से बात मत करो।
