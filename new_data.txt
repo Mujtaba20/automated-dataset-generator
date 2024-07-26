@@ -32280,3 +32280,13 @@ I went into the army.	Ich ging zur Armee.	मैं सेना में ग�
 I went to Tom's room.	Ich ging in Toms Zimmer.	मैं टॉम के कमरे में गया।
 I went to that party.	Ich ging zu dieser Party.	मैं उस पार्टी में गया था।
 I went to the doctor.	Ich ging zum Arzt.	मैं डॉक्टर के पास गया।
+I went to the market.	Ich ging zum Markt.	मैं बाजार गया।
+I went to the police.	Ich ging zur Polizei.	मैं पुलिस के पास गया।
+I will accompany you.	Ich werde dich begleiten.	मैं तुम्हारे साथ चलूँगा।
+I will come with you.	Ich werde mit dir kommen.	मैं तुम्हारे साथ आऊँगा।
+I will do as you say.	Ich werde tun, was du sagst.	मैं जैसा तुम कहोगे वैसा करूँगा।
+I will do as you say. (different meaning)	Ich werde handeln, wie du sagst.	मैं तुम्हारी बातों के अनुसार करूँगा।
+I will give you this.	Ich werde dir das geben.	मैं तुम्हें यह दूंगा।
+I will never see him.	Ich werde ihn nie sehen.	मैं उसे कभी नहीं देखूँगा।
+I will start tonight.	Ich werde heute Abend anfangen.	मैं आज रात से शुरू करूँगा।
+I will take you home.	Ich werde dich nach Hause bringen.	मैं तुम्हें घर ले जाऊंगा।
