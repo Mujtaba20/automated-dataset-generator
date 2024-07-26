@@ -1,14 +1,4 @@
 
-Do you know this man?	Kennst du diesen Mann?	क्या आपको इस व्यक्ति के बारे में पता है?
-Do you know who I am?	Weißt du, wer ich bin?	क्या आप जानते हैं मैं कौन हूं?
-Do you know who I am?	Wissen Sie, wer ich bin?	क्या आप जानते हैं मैं कौन हूं?
-Do you know who I am?	Wisst ihr, wer ich bin?	क्या आप जानते हैं मैं कौन हूं?
-Do you like baseball?	Magst du Baseball?	क्या आपको बेसबॉल पसंद है?
-Do you like broccoli?	Magst du Brokkoli?	क्या आपको ब्रोकोली पसंद है?
-Do you like football?	Magst du Fußball?	क्या आपको फुटबॉल पसंद है?
-Do you like my shoes?	Gefallen dir meine Schuhe?	क्या आपको मेरे जूते पसंद हैं?
-Do you like my shoes?	Gefallen Ihnen meine Schuhe?	क्या आपको मेरे जूते पसंद हैं?
-Do you like pretzels?	Isst du gerne Brezeln?	क्या आप प्रेट्ज़ेल खाना पसंद करते हैं?
 Do you like studying?	Studierst du gerne?	आपको अध्ययन करना पसंद हैं?
 Do you like swimming?	Schwimmst du gerne?	क्या आपको तैराकी का आनंद मिलता है?
 Do you like the city?	Gefällt dir die Stadt?	क्या आपको शहर पसंद है?

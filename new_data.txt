@@ -30684,3 +30684,10 @@ Do you know anything?	Weißt du etwas?	क्या तुम कुछ जा�
 Do you know his name?	Weißt du seinen Namen?	क्या तुम उसका नाम जानते हो?
 Do you know that guy?	Kennen Sie diesen Kerl?	क्या आप उस दोस्त को जानते हैं?
 Do you know that man?	Kennen Sie diesen Mann?	क्या आप उस आदमी को जानते हैं?
+Do you know this man?	Kennen Sie diesen Mann?	क्या आप इस आदमी को जानते हैं?
+Do you know who I am?	Kennen Sie mich?	क्या तुम्हें पता है कि मैं कौन हूँ?
+Do you like baseball?	Magst du Baseball?	क्या आपको बेसबॉल पसंद है?
+Do you like broccoli?	Magst du Brokkoli?	क्या तुम ब्रोकोली पसंद करते हो?
+Do you like football?	Magst du Fußball?	क्या आपको फुटबॉल पसंद है?
+Do you like my shoes?	Magst du meine Schuhe?	क्या तुम्हें मेरी जूते पसंद हैं?
+Do you like pretzels?	Magst du Brezeln?	क्या तुम ब्रेज़ल्स पसंद करते हो?
