@@ -22053,3 +22053,11 @@ I'm sorry for this.	Es tut mir leid dafür.	इसके लिए मुझे 
 I'm still in shape.	Ich bin immer noch in Form.	मैं अभी भी फिट हूँ।
 I'm still in shock.	Ich bin immer noch geschockt.	मैं अभी भी चौंका हुआ हूँ।
 I'm still the boss.	Ich bin immer noch der Boss.	मैं अभी भी बॉस हूँ।
+I'm still too weak.	Ich bin immer noch zu schwach.	मैं अभी भी बहुत कमजोर हूं।
+I'm supporting you.	Ich unterstütze dich.	मैं तुम्हारा समर्थन कर रहा हूँ।
+I'm supporting you. (Different meaning)	Ich stehe hinter dir.	मैं तुम्हारे पीछे हूं।
+I'm sure Tom is OK.	Ich bin sicher, dass Tom in Ordnung ist.	मुझे पूरा यकीन है कि टॉम ठीक है।
+I'm taking a break.	Ich mache eine Pause.	मैं रुकावट ले रहा हूँ।
+I'm taking off now.	Ich starte jetzt.	मैं अब उड़ान भर रहा हूं।
+I'm taking off now. (Different meaning)	Ich ziehe mich jetzt aus.	मैं अब उतार रहा हूँ।
+I'm terminally ill.	Ich bin unheilbar krank.	मैं अंतिम रूप से अस्वस्थ हूं।
