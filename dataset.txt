@@ -1,14 +1,4 @@
 
-Tom doesn't like chess.	Tom mag Schach nicht.	टॉम को शतरंज पसंद नहीं है।
-Tom doesn't like chess.	Tom mag kein Schach.	टॉम को शतरंज पसंद नहीं है।
-Tom doesn't like women.	Tom mag keine Frauen.	टॉम महिलाओं को पसंद नहीं करता है।
-Tom doesn't look happy.	Tom sieht nicht glücklich aus.	टॉम खुश नहीं दिखता।
-Tom doesn't look happy.	Tom sieht unzufrieden aus.	टॉम असंतुष्ट दिखता है।
-Tom doesn't often sing.	Tom singt nicht oft.	टॉम अक्सर नहीं गाते।
-Tom doesn't read books.	Tom liest keine Bücher.	टॉम किताबें नहीं पढ़ता है।
-Tom doesn't seem happy.	Tom scheint nicht glücklich zu sein.	टॉम खुश नहीं लगता है।
-Tom doesn't sleep here.	Tom schläft hier nicht.	टॉम यहाँ नहीं सोता है।
-Tom doesn't speak much.	Tom redet nicht viel.	टॉम ज्यादा बात नहीं करता है।
 Tom doesn't study much.	Tom lernt nicht viel.	टॉम ज्यादा नहीं सीखता।
 Tom doesn't understand.	Tom versteht das nicht.	टॉम समझ में नहीं आता है।
 Tom doesn't want to go.	Tom möchte nicht gehen.	टॉम नहीं जाना चाहता।
