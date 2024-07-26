@@ -1,15 +1,4 @@
 
-Freedom is not free.	Die Freiheit ist nicht kostenlos.	आज़ादी मुफ़्त में नहीं मिलती।
-French is difficult.	Französisch ist schwer.	फ्रेंच कठिन है।
-Gambling is illegal.	Glücksspiel ist verboten.	जुआ निषिद्ध है।
-Gambling is illegal.	Glücksspiel ist illegal.	जुआ अवैध है।
-Get Tom out of here.	Bring Tom hier raus.	टॉम को यहाँ ले आओ।
-Get Tom to help you.	Lass dir von Tom helfen.	टॉम आपकी मदद करें।
-Get a ticket for me.	Hol ein Ticket für mich.	मेरे लिए टिकट प्राप्त करें।
-Get down from there.	Komm runter von dort.	वहाँ से नीचे आओ।
-Get her out of here.	Holt sie hier raus.	उन्हें यहां से बाहर निकालें।
-Get me another beer.	Hol mir noch ein Bier!	मुझे एक और बीयर ले आओ!
-Get me another beer.	Holen Sie mir noch ein Bier!	मुझे एक और बीयर ले आओ!
 Get me the evidence.	Schaffe mir die Beweise her!	मेरे लिए सबूत बनाएं!
 Get me the evidence.	Schaffen Sie mir die Beweise her!	मेरे लिए सबूत बनाएं!
 Get on with it, Tom.	Mach voran, Tom!	आगे बनाओ, टॉम!

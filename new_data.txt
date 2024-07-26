@@ -25525,3 +25525,13 @@ Few people think so.	Wenige Leute denken so.	कुछ लोग ऐसा स�
 Fish is cheap today.	Fisch ist heute billig.	आज मछली सस्ती है।
 Food is running out.	Das Essen geht zur Neige.	खाना खत्म हो रहा है।
 Football is a sport.	Fußball ist ein Sport.	फुटबॉल एक खेल है।
+Freedom is not free.	Freiheit ist nicht kostenlos.	स्वतंत्रता मुफ्त नहीं है।
+French is difficult.	Französisch ist schwierig.	फ्रेंच मुश्किल है।
+Gambling is illegal.	Glücksspiel ist illegal.	जुएबाजी गैरकानूनी है।
+Gambling is illegal. - Version 2	Das Spielen ist verboten.	जुएबाजी पर प्रतिबंध लगा है।
+Get Tom out of here.	Holen Sie Tom hier raus.	टॉम को यहां से निकालो।
+Get Tom to help you.	Holen Sie Tom, um Ihnen zu helfen.	टॉम को मदद करने के लिए बुलाओ।
+Get a ticket for me.	Hol mir eine Fahrkarte.	मेरे लिए एक टिकट ले लो।
+Get down from there.	Komm da runter.	वहां से नीचे आओ।
+Get her out of here.	Holen Sie sie hier raus.	उसे यहां से निकालो।
+Get me another beer.	Hol mir ein anderes Bier.	मुझे एक और बीयर लाओ।
