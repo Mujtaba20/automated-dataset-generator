@@ -37811,3 +37811,13 @@ I say it all the time.	Ich sage es die ganze Zeit.	मैं हमेशा य
 I see a red car ahead.	Ich sehe ein rotes Auto voraus.	मैं आगे एक लाल गाड़ी देख रहा हूँ।
 I see what's going on.	Ich sehe, was passiert.	मुझे पता है कि क्या हो रहा है।
 I seldom speak to him.	Ich spreche selten mit ihm.	मैं उससे शायद ही बोलूं।
+I seldom walk to work.	Ich gehe selten zur Arbeit.	मैं काम पर बहुत कम चलता हूँ।
+I sent Tom my picture.	Ich habe Tom mein Bild geschickt.	मैंने टॉम को अपनी तस्वीर भेजी।
+I shave every morning.	Ich rasiere mich jeden Morgen.	मैं हर सुबह शेव करता हूँ।
+I should be at school.	Ich sollte in der Schule sein.	मुझे स्कूल में होना चाहिए।
+I should be in charge.	Ich sollte verantwortlich sein.	मुझे जिम्मेदारी में होना चाहिए।
+I should go to Boston.	Ich sollte nach Boston gehen.	मुझे बॉस्टन जाना चाहिए।
+I should just go home.	Ich sollte einfach nach Hause gehen.	मैं बस घर जाऊं।
+I should learn French.	Ich sollte Französisch lernen.	मुझे फ्रेंच सीखनी चाहिए।
+I should wash my hair.	Ich sollte meine Haare waschen.	मुझे अपने बाल धोने चाहिए।
+I should've done that.	Ich hätte das tun sollen.	मैंने वह कर लेना चाहिए था।
