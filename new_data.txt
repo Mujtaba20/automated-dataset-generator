@@ -36944,3 +36944,11 @@ He's an oceanographer.	Er ist Ozeanograf.	वह समुद्रविज्�
 He's away on business.	Er ist geschäftlich unterwegs.	वह व्यापार में बाहर है।
 He's been blacklisted.	Er wurde auf die Schwarze Liste gesetzt.	उसका नाम काली सूची में डाल दिया गया है।
 He's brave and honest.	Er ist mutig und ehrlich.	वह बहादुर और ईमानदार है।
+He's completely crazy.	Er ist völlig verrückt.	वह पूरी तरह पागल है।
+He's dating my sister.	Er trifft sich mit meiner Schwester.	वह मेरी बहन को डेट कर रहा है।
+He's done this before.	Er hat das schon einmal gemacht.	उसने पहले भी यह किया है।
+He's eating lunch now.	Er isst jetzt zu Mittag.	वह अभी दोपहर का खाना खा रहा है।
+He's enjoying himself.	Er amüsiert sich.	वह खुद को एकत्रित कर रहा है।
+He's found a new love.	Er hat eine neue Liebe gefunden.	उसने एक नई प्रेम पाई है।
+He's getting up early.	Er steht früh auf.	वह जल्दी उठ रहा है।
+He's going to make it.	Er wird es schaffen.	वह इसे कर लेगा।
