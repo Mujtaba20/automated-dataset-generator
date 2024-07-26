@@ -28497,3 +28497,13 @@ This novel bores me.	Dieser Roman langweilt mich.	यह उपन्यास �
 This one is for Tom.	Dies ist für Tom.	यह टॉम के लिए है।
 This paper is rough.	Dieses Papier ist rau.	यह कागज कठोर है।
 This paper is white.	Dieses Papier ist weiß.	यह कागज सफेद है।
+This place is great.	Dieser Ort ist großartig.	यह स्थान शानदार है।
+This place is weird.	Dieser Ort ist seltsam.	यह स्थान अजीब है।
+This rarely happens.	Dies geschieht selten.	यह बहुत कम होता है।
+This rarely happens. (Different meaning)	Das passiert selten.	यह खास महसूस होता है।
+This room is a mess.	Dieser Raum ist ein Durcheinander.	यह कमरा एक गड़बड़ है।
+This screw is loose.	Diese Schraube ist locker.	यह स्क्रू ढीली है।
+This seems unlikely.	Das scheint unwahrscheinlich.	यह असंभावित लगता है।
+This seems unlikely. (Different meaning)	Das erscheint unwahrscheinlich.	यह अप्रमाणिक लगता है।
+This song is catchy.	Dieser Song ist eingängig.	यह गाना मनमोहक है।
+This song is stupid.	Dieser Song ist dumm.	यह गाना बेवकूफ है।

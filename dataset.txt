@@ -1,14 +1,4 @@
 
-This place is great.	Es ist toll hier.	यहाँ बहुत अच्छा है।
-This place is weird.	Hier geht es komisch zu.	यहाँ यह अजीब है।
-This rarely happens.	Das kommt selten vor.	यह शायद ही कभी होता है।
-This rarely happens.	Das passiert selten.	यह शायद ही कभी होता है।
-This room is a mess.	Dieses Zimmer ist eine Rumpelkammer.	यह कमरा एक रम्पेल चैंबर है।
-This screw is loose.	Diese Schraube ist locker.	यह पेंच ढीला है।
-This seems unlikely.	Das ist unwahrscheinlich.	यह संभावना नहीं है।
-This seems unlikely.	Das erscheint unwahrscheinlich.	ऐसा लगता है कि संभावना नहीं है।
-This song is catchy.	Dieses Lied ist ein Ohrwurm.	यह गीत एक इयरविग है।
-This song is stupid.	Dieses Lied ist doof.	यह गाना बेवकूफ है।
 This table is clean.	Dieser Tisch ist sauber.	यह तालिका साफ है।
 This table is heavy.	Dieser Tisch ist schwer.	यह तालिका मुश्किल है।
 This tooth is loose.	Dieser Zahn ist locker.	यह दांत ढीला है।
