@@ -21525,3 +21525,12 @@ I need a new shirt.	Ich brauche ein neues Hemd.	मुझे एक नयी �
 I need a nurse now.	Ich brauche jetzt eine Krankenschwester.	मुझे अभी एक नर्स की आवश्यकता है।
 I need a secretary.	Ich brauche eine Sekretärin.	मुझे एक सहायक की आवश्यकता है।
 I need a stopwatch.	Ich brauche eine Stoppuhr.	मुझे एक स्टॉपवॉच की आवश्यकता है।
+I need a volunteer.	Ich brauche einen Freiwilligen.	मुझे एक स्वयंसेवक की जरूरत है।
+I need an envelope.	Ich brauche einen Umschlag.	मुझे एक लिफाफा चाहिए।
+I need body lotion.	Ich brauche Körperlotion.	मुझे बॉडी लोशन चाहिए।
+I need hand lotion.	Ich brauche Handlotion.	मुझे हाथ की लोशन चाहिए।
+I need information.	Ich brauche Informationen.	मुझे जानकारी चाहिए।
+I need inspiration.	Ich brauche Inspiration.	मुझे प्रेरणा की आवश्यकता है।
+I need money badly.	Ich brauche dringend Geld.	मुझे पैसों की बहुत जरूरत है।
+I need more butter.	Ich brauche mehr Butter.	मुझे और मक्खन चाहिए।
+I need my caffeine.	Ich brauche meinen Koffein.	मुझे मेरी कैफीन चाहिए।
