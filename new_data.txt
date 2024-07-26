@@ -31173,3 +31173,12 @@ He tells a good joke.	Er erzählt einen guten Witz.	उसने एक अच�
 He thinks I love her.	Er denkt, ich liebe sie.	वह समझता है कि मैं उसे प्यार करता हूँ।
 He told him to study.	Er sagte ihm, dass er studieren soll.	उसने उससे कहा कि वह पढ़ाई करे।
 He told me the truth.	Er sagte mir die Wahrheit.	उसने मुझे सच्चाई बताई।
+He took off his coat.	Er hat seinen Mantel abgelegt.	उसने अपना कोट उतार दिया।
+He tore his ligament.	Er riss sich das Band.	उसने अपनी लिगामेंट फाड़ दी।
+He trained very hard.	Er trainierte sehr hart.	उसने बहुत मेहनत से प्रशिक्षण दिया।
+He tried to stand up.	Er versuchte aufzustehen.	उसने खड़े होने की कोशिश की।
+He turned the corner.	Er bog um die Ecke.	उसने कोने पर मोड़ दिया।
+He used to live here.	Er lebte hier.	उसका यहाँ रहना था।
+He used to love that.	Er liebte das früher.	उसका यह हमेशा पसंद था।
+He wanted to be rich.	Er wollte reich sein.	उसे अमीर बनना था।
+He wanted to meet me.	Er wollte mich treffen.	उसे मुझसे मिलना था।
