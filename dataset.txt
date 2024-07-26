@@ -1,14 +1,4 @@
 
-You came home at 5:00.	Sie sind um 5:00 Uhr nach Hause gekommen.	आप सुबह 5:00 बजे घर आए थे।
-You came just in time.	Du bist gerade rechtzeitig gekommen.	आप बस समय में आए थे।
-You can make your own.	Du kannst dir selbst einen machen.	आप खुद एक कर सकते हैं।
-You can't do that now.	Das kannst du jetzt nicht machen.	अब आप ऐसा नहीं कर सकते।
-You can't go home now.	Du kannst jetzt nicht nach Hause gehen.	अब आप घर नहीं जा सकते।
-You can't go home now.	Sie können jetzt nicht nach Hause gehen.	अब आप घर नहीं जा सकते।
-You can't kill us all.	Du kannst uns nicht alle töten.	आप हम सभी को नहीं मार सकते।
-You can't kill us all.	Ihr könnt uns nicht alle umbringen.	आप हम सभी को नहीं मार सकते।
-You can't kill us all.	Sie können uns nicht alle töten.	आप हम सभी को नहीं मार सकते।
-You can't let Tom win.	Du darfst Tom nicht gewinnen lassen.	आप टॉम को जीत नहीं सकते।
 You can't sit with me.	Du kannst dich nicht zu mir setzen.	तुम मेरे साथ नहीं बैठ सकते।
 You can't stop me now.	Du kannst mich jetzt nicht aufhalten.	अब आप मुझे रोक नहीं सकते।
 You can't tame a wolf.	Einen Wolf kann man nicht zähmen.	आप एक भेड़िया को वश में नहीं कर सकते।
