@@ -25289,3 +25289,10 @@ Did you come by car?	Bist du mit dem Auto gekommen?	क्या तुम ग�
 Did you drink a lot?	Hast du viel Alkohol getrunken?	क्या आपने अधिक पीने का प्रयास किया?
 Did you fall asleep?	Bist du hinuntergefallen?	क्या आप गिर गए थे?
 Did you get up late?	Bist du spät aufgestanden?	क्या तुम देर से उठे?
+Did you hear it too?	Hast du es auch gehört?	क्या आपने भी सुना?
+Did you hug anybody?	Hast du jemanden umarmt?	क्या आपने किसी को गले लगाया?
+Did you just arrive?	Bist du gerade angekommen?	क्या आप अभी आए हैं?
+Did you leave a tip?	Hast du Trinkgeld gegeben?	क्या आपने टिप छोड़ दी?
+Did you like Boston?	Hat dir Boston gefallen?	क्या आपको बॉस्टन पसंद आया?
+Did you hug anybody? (different meaning)	Hast du jemanden fest umarmt?	क्या आपने किसी को भारी गले लगाया?
+Did you just arrive? (different meaning)	Bist du gerade erst angekommen?	क्या आपने अभी हाल ही में पहुंचा है?

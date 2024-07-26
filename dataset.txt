@@ -1,18 +1,4 @@
 
-Did you hear it too?	Hast du das auch gehört?	क्या तुमने भी सुना?
-Did you hear it too?	Haben Sie das auch gehört?	क्या तुमने भी सुना?
-Did you hug anybody?	Hast du jemanden umarmt?	क्या आपने किसी को गले लगाया?
-Did you hug anybody?	Hast du irgendjemanden gedrückt?	क्या आपने किसी को दबाया?
-Did you just arrive?	Bist du gerade angekommen?	क्या आप हाल ही में आए हैं?
-Did you just arrive?	Sind Sie gerade angekommen?	क्या आप हाल ही में आए हैं?
-Did you just arrive?	Seid ihr gerade angekommen?	क्या आप हाल ही में आए हैं?
-Did you leave a tip?	Hast du ein Trinkgeld dagelassen?	क्या आपने एक टिप छोड़ दी?
-Did you like Boston?	Hat dir Boston gefallen?	क्या आपको बोस्टन पसंद था?
-Did you like Boston?	Hat Ihnen Boston gefallen?	क्या आपको बोस्टन पसंद था?
-Did you like Boston?	Hat euch Boston gefallen?	क्या आपको बोस्टन पसंद था?
-Did you like Boston?	Hat es dir in Boston gefallen?	क्या आपको बोस्टन में यह पसंद आया?
-Did you like Boston?	Hat es euch in Boston gefallen?	क्या आपको बोस्टन में यह पसंद आया?
-Did you like Boston?	Hat es Ihnen in Boston gefallen?	क्या आपको बोस्टन में यह पसंद आया?
 Did you make coffee?	Hast du Kaffee gekocht?	क्या आपने कॉफी पाई?
 Did you order pizza?	Hast du Pizza bestellt?	क्या आपने पिज्जा का आदेश दिया?
 Did you order pizza?	Habt ihr Pizza bestellt?	क्या आपने पिज्जा का आदेश दिया?
