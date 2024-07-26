@@ -1,14 +1,4 @@
 
-Why do you do that?	Warum machst du das?	आप ऐसा क्यों कर रहे हो?
-Why do you hate me?	Warum hasst du mich?	तुम्हे मुझसे घृणा क्यों है?
-Why do you hate me?	Warum hassen Sie mich?	तुम्हे मुझसे घृणा क्यों है?
-Why do you like it?	Warum magst du es?	क्यों आप इसे पसंद करते हैं?
-Why do you like me?	Warum magst du mich?	तुम मुझे क्यों पसंद करते हो?
-Why do you love me?	Warum liebst du mich?	आप मुझे प्यार क्यों करते हो?
-Why do you need it?	Wozu brauchst du das?	आपको इसके लिए क्या चाहिए?
-Why do you need me?	Warum brauchst du mich?	तुम्हें मेरी जरूरत क्यों है?
-Why do you need me?	Warum braucht ihr mich?	तुम्हें मेरी जरूरत क्यों है?
-Why do you need me?	Warum brauchen Sie mich?	तुम्हें मेरी जरूरत क्यों है?
 Why do you want it?	Warum willst du das?	आप यह क्यों चाहते हैं?
 Why does Tom do it?	Warum macht Tom das?	टॉम ऐसा क्यों करता है?
 Why does ice float?	Warum schwimmt Eis?	क्यों तैरता है बर्फ?

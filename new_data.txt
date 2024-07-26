@@ -24762,3 +24762,12 @@ Why did you buy it?	Warum hast du es gekauft?	तुमने यह क्य�
 Why didn't you eat?	Warum hast du nicht gegessen?	तुमने क्यों नहीं खाया?
 Why do I even care?	Warum kümmere ich mich überhaupt?	मुझे इसकी भी परवाह क्यों है?
 Why do people kiss?	Warum küssen Menschen?	लोग क्यों चुंबन करते हैं?
+engSentence1	Warum machst du das?	तुम ऐसा क्यों करते हो?
+engSentence2	Warum hasst du mich?	तुम मुझसे नफरत क्यों करते हो?
+engSentence3	Warum hasst du mich?	तुम खुद को उससे नफरत क्यों करते हो?
+engSentence4	Warum magst du das?	तुम्हें यह क्यों पसंद है?
+engSentence5	Warum magst du mich?	तुम मुझे क्यों पसंद करते हो?
+engSentence6	Warum liebst du mich?	तुम मुझे प्यार क्यों करते हो?
+engSentence7	Warum brauchst du das?	तुम्हें यह क्यों चाहिए?
+engSentence8	Warum brauchst du mich?	तुम मुझे क्यों चाहिए?
+engSentence9	Warum benötigst du mich?	तुम्हें मुझे क्यों चाहिए?
