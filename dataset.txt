@@ -1,14 +1,4 @@
 
-Tom died in my arms.	Tom starb in meinen Armen.	टॉम मेरी बाहों में मर गया।
-Tom died peacefully.	Tom ist friedlich gestorben.	टॉम की शांति से मृत्यु हो गई।
-Tom died tragically.	Tom kam auf tragische Weise ums Leben.	टॉम की दुखद रूप से मृत्यु हो गई।
-Tom died very young.	Tom ist sehr jung gestorben.	टॉम की मृत्यु बहुत छोटी थी।
-Tom disappointed me.	Tom hat mich enttäuscht.	टॉम ने मुझे निराश किया।
-Tom disappointed me.	Tom enttäuschte mich.	टॉम ने मुझे निराश किया।
-Tom does a good job.	Tom leistet gute Arbeit.	टॉम अच्छा काम करता है।
-Tom does everything.	Tom macht alles.	टॉम सब कुछ करता है।
-Tom doesn't do much.	Tom tut nicht viel.	टॉम बहुत कुछ नहीं करता है।
-Tom doesn't do that.	Tom tut das nicht.	टॉम नहीं है।
 Tom doesn't help me.	Tom hilft mir nicht.	टॉम मेरी मदद नहीं करता है।
 Tom doesn't know me.	Tom kennt mich nicht.	टॉम मुझे नहीं जानता।
 Tom doesn't like it.	Tom mag das nicht.	टॉम को यह पसंद नहीं है।

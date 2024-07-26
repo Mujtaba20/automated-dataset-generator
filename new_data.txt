@@ -28640,3 +28640,13 @@ Tom didn't say much.	Tom hat nicht viel gesagt.	टॉमने ज्याद�
 Tom didn't say that.	Tom hat das nicht gesagt.	टॉमने यह नहीं कहा।
 Tom didn't see Mary.	Tom hat Mary nicht gesehen.	टॉमने मेरी को नहीं देखा।
 Tom didn't think so.	Tom hat das nicht so gedacht.	टॉमने ऐसा नहीं सोचा।
+Tom died in my arms.	Tom starb in meinen Armen.	टॉम ने मेरी बाहों में मर गया।
+Tom died peacefully.	Tom starb friedlich.	टॉम शांति से मर गया।
+Tom died tragically.	Tom starb tragisch.	टॉम दुखद से मर गया।
+Tom died very young.	Tom starb sehr jung.	टॉम बहुत जवान में मर गया।
+Tom disappointed me.	Tom hat mich enttäuscht.	टॉम ने मुझे निराश किया।
+Tom disappointed me. - Different Meaning	Tom hat mich enttäuscht.	टॉम ने मुझे धोखा दिया।
+Tom does a good job.	Tom macht gute Arbeit.	टॉम अच्छा काम करता है।
+Tom does everything.	Tom macht alles.	टॉम सब कुछ करता है।
+Tom doesn't do much.	Tom macht nicht viel.	टॉम बहुत कुछ नहीं करता।
+Tom doesn't do that.	Tom macht das nicht.	टॉम वह नहीं करता।
