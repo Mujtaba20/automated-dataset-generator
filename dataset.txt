@@ -1,14 +1,4 @@
 
-I'll talk to you later.	Ich werde mich später mit dir unterhalten.	थोडी देर मे बात करती ह्।
-I'll talk to you later.	Ich werde mich später mit euch unterhalten.	थोडी देर मे बात करती ह्।
-I'll talk to you later.	Ich werde mich später mit Ihnen unterhalten.	थोडी देर मे बात करती ह्।
-I'll tell you a secret.	Ich werde dir ein Geheimnis verraten.	मैं आपको एक रहस्य बताऊंगा।
-I'll tell you my story.	Ich werde dir meine Geschichte erzählen.	मैं आपको अपनी कहानी बताऊंगा।
-I'll try to do my best.	Ich werde versuchen, mein Bestes zu tun.	मैं अपना सर्वश्रेष्ठ करने का कोशिश करूँगा।
-I'll turn the power on.	Ich stelle den Strom an.	मैंने बिजली पर डाल दिया।
-I'll wait for you here.	Ich werde hier auf dich warten.	मैं यहाँ आप के लिए इंतजार करूंगा।
-I'll wait for you here.	Ich werde hier auf Sie warten.	मैं यहाँ आप के लिए इंतजार करूंगा।
-I'll wait for you here.	Ich werde hier auf euch warten.	मैं यहाँ आप के लिए इंतजार करूंगा।
 I'll wait here for Tom.	Ich warte hier auf Tom.	मैं यहाँ टॉम की प्रतीक्षा कर रहा हूँ।
 I'll wait here for you.	Ich werde hier auf dich warten.	मैं यहाँ आप के लिए इंतजार करूंगा।
 I'll write to you soon.	Ich werde dir bald schreiben.	मैं आपको जल्द ही लिखूंगा।
