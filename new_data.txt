@@ -33934,3 +33934,13 @@ This is my assistant.	Das ist mein Assistent.	यह मेरा सहाय�
 This is my big break.	Das ist mein großer Durchbruch.	यह मेरा बड़ा तोड़ है।
 This is my brother's.	Das ist von meinem Bruder.	यह मेरे भाई का है।
 This is my dream job.	Das ist mein Traumjob.	यह मेरा सपना नौकरी है।
+This is my first car.	Dies ist mein erstes Auto.	यह मेरी पहली कार है।
+This is my lucky day.	Das ist mein Glückstag.	यह मेरा भाग्यशाली दिन है।
+This is now our home.	Das ist jetzt unser Zuhause.	यह अब हमारा घर है।
+This is our decision.	Das ist unsere Entscheidung.	यह हमारा निर्णय है।
+This is our land now.	Das ist jetzt unser Land.	यह अब हमारा जमीन है।
+This is really funny.	Das ist wirklich lustig.	यह सचमुच मजेदार है।
+This is really great.	Das ist wirklich großartig.	यह सचमुच महान है।
+This is really weird.	Das ist wirklich seltsam.	यह सचमुच अजीब है।
+This is so hilarious.	Das ist so urkomisch.	यह इतना हास्यास्पद है।
+This is unbelievable.	Das ist unglaublich.	यह अविश्वसनीय है।
