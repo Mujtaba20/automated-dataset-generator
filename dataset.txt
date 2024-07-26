@@ -1,14 +1,4 @@
 
-Tom took the money.	Tom nahm das Geld.	टॉम ने पैसे ले लिए।
-Tom took the train.	Tom ist mit dem Zug gefahren.	टॉम ट्रेन से चला गया।
-Tom took the train.	Tom hat den Zug genommen.	टॉम ने ट्रेन ली।
-Tom traveled a lot.	Tom ist viel gereist.	टॉम ने बहुत यात्रा की है।
-Tom traveled alone.	Tom reiste allein.	टॉम ने अकेले यात्रा की।
-Tom tried his luck.	Tom versuchte sein Glück.	टॉम ने अपनी किस्मत आजमाई।
-Tom tried to leave.	Tom wollte gehen.	टॉम जाना चाहता था।
-Tom tried to sleep.	Tom versuchte zu schlafen.	टॉम ने सोने की कोशिश की।
-Tom turned quickly.	Tom drehte sich schnell um.	टॉम जल्दी से बदल गया।
-Tom turned scarlet.	Tom wurde feuerrot.	टॉम लाल हो गया।
 Tom turned serious.	Tom wurde ernst.	टॉम गंभीर हो गया।
 Tom turned the key.	Tom drehte den Schlüssel.	टॉम ने चाबी बदल दी।
 Tom understands me.	Tom versteht mich.	टॉम मुझे समझता है।

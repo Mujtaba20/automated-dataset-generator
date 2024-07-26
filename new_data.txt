@@ -24031,3 +24031,12 @@ Tom told the truth.	Tom sagte die Wahrheit.	टॉम ने सच कहा।
 Tom took Mary home.	Tom brachte Mary nach Hause.	टॉम ने मेरी को घर ले जाया।
 Tom took a day off.	Tom nahm sich einen freien Tag.	टॉम ने एक दिन की छुट्टी ली।
 Tom took a picture.	Tom machte ein Bild.	टॉम ने एक तस्वीर ली।
+Tom took the money.	Tom nahm das Geld.	टॉम ने पैसे लिए।
+Tom took the train.	Tom bestieg den Zug.	टॉम ने ट्रेन पकड़ी।
+Tom traveled a lot.	Tom reiste viel.	टॉम बहुत सफर करता था।
+Tom traveled alone.	Tom reiste allein.	टॉम अकेले सफर करता था।
+Tom tried his luck.	Tom versuchte sein Glück.	टॉम ने अपनी किस्मत आजमाई।
+Tom tried to leave.	Tom versuchte zu gehen.	टॉम ने छोड़ने की कोशिश की।
+Tom tried to sleep.	Tom versuchte zu schlafen.	टॉम ने सोने का प्रयास किया।
+Tom turned quickly.	Tom drehte sich schnell um.	टॉम तेजी से मोड़ लिया।
+Tom turned scarlet.	Tom wurde scharlachrot.	टॉम बहुत लाल हो गया।
