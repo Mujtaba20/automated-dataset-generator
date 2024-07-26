@@ -35592,3 +35592,13 @@ Who should I believe?	Wem soll ich glauben?	मुझे किस पर वि
 Who stole the apples?	Wer hat die Äpfel gestohlen?	सेब किसने चुराये?
 Who took the picture?	Wer hat das Bild gemacht?	किसने तस्वीर खींची?
 Who will you believe?	Wem wirst du glauben?	तुम किस पर विश्वास करोगे?
+Who won the election?	Wer hat die Wahl gewonnen?	चुनाव किसने जीता?
+Who wrote the letter?	Wer hat den Brief geschrieben?	पत्र किसने लिखा?
+Who wrote this story?	Wer hat diese Geschichte geschrieben?	यह कहानी किसने लिखी है?
+Who's being punished?	Wer wird bestraft?	सजा किसे दी जा रही है?
+Who's coming with me?	Wer kommt mit mir?	मेरे साथ कौन आ रहा है?
+Who's ready for more?	Wer ist bereit für mehr?	और के लिए कौन तैयार है?
+Who's that gentleman?	Wer ist dieser Gentleman?	वह आदमी कौन है?
+Who's the little guy?	Wer ist der Kleine?	छोटे से लड़के कौन हैं?
+Who's this other guy?	Wer ist dieser andere Kerl?	यह और आदमी कौन है?
+Who's your godmother?	Wer ist deine Patin?	तुम्हारी का चचेरा कौन है?

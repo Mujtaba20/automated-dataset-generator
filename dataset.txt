@@ -1,14 +1,4 @@
 
-Who won the election?	Wer hat die Wahl gewonnen?	किसने चुनाव जीता?
-Who wrote the letter?	Wer hat den Brief geschrieben?	पत्र किसने लिखा?
-Who wrote this story?	Wer hat diese Geschichte geschrieben?	यह कहानी किसने लिखी?
-Who's being punished?	Wer wird bestraft?	किसे दंडित किया जाएगा?
-Who's coming with me?	Wer kommt mit mir?	मेरे साथ कौन आ रहा है?
-Who's ready for more?	Wer ist bereit für mehr?	कौन अधिक के लिए तैयार है?
-Who's that gentleman?	Wer ist dieser Herr?	यह सज्जन कौन है?
-Who's the little guy?	Wer ist der kleine Junge?	छोटा लड़का कौन है?
-Who's this other guy?	Wer ist der andere Typ?	दूसरा प्रकार कौन है?
-Who's your godmother?	Wer ist deine Patentante?	आपका पेटेंट कौन है?
 Whose camera is this?	Wessen Kamera ist das?	वह कैमरा किसका है?
 Whose cats are these?	Wessen Katzen sind das?	वे किसकी बिल्लियाँ हैं?
 Whose cats are these?	Wem gehören diese Katzen?	इन बिल्लियों का कौन है?
