@@ -1,14 +1,4 @@
 
-The water is lukewarm.	Das Wasser ist lauwarm.	पानी गुनगुना है।
-The whale is a mammal.	Der Walfisch ist ein Säugetier.	व्हेल एक स्तनपायी है।
-The windows were open.	Die Fenster standen offen.	खिड़कियां खुली थीं।
-The windows were open.	Die Fenster waren geöffnet.	खिड़कियां खुली थीं।
-The world has changed.	Die Welt hat sich verändert.	दुनिया बदल गई है।
-Their car passed ours.	Ihr Wagen überholte unseren.	आपकी कार ने हमारी पछाड़ दी।
-Their hands were cold.	Ihre Hände waren kalt.	उसके हाथ ठंडे थे।
-Their son grew bigger.	Ihr Sohn wurde größer.	उसका बेटा बड़ा हो गया।
-There are many others.	Dort sind viele andere.	वहां कई अन्य लोग हैं।
-There are no problems.	Es gibt keine Probleme.	वहां कोई समस्या नहीं है।
 There are three of us.	Wir sind zu dritt.	हम तीन हैं।
 There has to be a way.	Da muss es doch einen Weg geben.	कोई ना कोई तो रास्ता होगा।
 There is a better way.	Es gibt einen besseren Weg.	एक बेहतर रास्ता है।

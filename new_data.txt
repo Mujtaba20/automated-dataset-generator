@@ -39565,3 +39565,12 @@ The typhoon hit Tokyo.	Der Taifun traf Tokio.	ताइफून टोक्य
 The waiter ignored me.	Der Kellner hat mich ignoriert.	वेटर ने मुझे नजरअंदाज किया।
 The war ended in 1945.	Der Krieg endete 1945.	युद्ध १९४५ में समाप्त हुआ।
 The war ended in 1954.	Der Krieg endete 1954.	युद्ध १९५४ में समाप्त हुआ।
+The water is lukewarm.	Das Wasser ist lauwarm.	पानी गुनगुना है।
+The whale is a mammal.	Der Wal ist ein Säugetier.	व्हेल एक स्तनधारी है।
+The windows were open.	Die Fenster waren offen.	खिड़कियों में संवेदनशीलता खुली थी।
+The world has changed.	Die Welt hat sich verändert.	दुनिया बदल चुकी है।
+Their car passed ours.	Ihr Auto hat unseres überholt.	उनकी कार उनकी गाडी को पीछे छोड़ गई।
+Their hands were cold.	Ihre Hände waren kalt.	उनके हाथ ठंडे थे।
+Their son grew bigger.	Ihr Sohn wurde größer.	उनका बेटा बड़ा हो गया।
+There are many others.	Es gibt viele andere.	बहुत से और हैं।
+There are no problems.	Es gibt keine Probleme.	कोई समस्या नहीं है।
