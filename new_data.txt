@@ -40204,3 +40204,13 @@ Tom is a kleptomaniac.	Tom ist ein Kleptomane.	टॉम एक चोर है
 Tom is a late bloomer.	Tom ist ein Spätentwickler.	टॉम एक देर से बड़ा हुआ है।
 Tom is a lazy student.	Tom ist ein fauler Schüler.	टॉम एक सुस्त छात्र है।
 Tom is a little crazy.	Tom ist ein wenig verrückt.	टॉम थोड़ा पागल है।
+Tom is a little weird.	Tom ist ein wenig seltsam.	टॉम थोड़ा अजीब है।
+Tom is a lousy kisser.	Tom kann nicht küssen.	टॉम किस करने में बेकार है।
+Tom is a nature lover.	Tom ist ein Naturliebhaber.	टॉम प्राकृतिक सौंदर्य से प्रेम करता है।
+Tom is a normal child.	Tom ist ein normales Kind.	टॉम एक सामान्य बच्चा है।
+Tom is a party animal.	Tom ist eine Partykanone.	टॉम पार्टी में उमड़ता है।
+Tom is a poor student.	Tom ist ein schlechter Schüler.	टॉम एक गरीब छात्र है।
+Tom is a powerful man.	Tom ist ein mächtiger Mann.	टॉम एक शक्तिशाली आदमी है।
+Tom is a psychiatrist.	Tom ist ein Psychiater.	टॉम मानसिक विशेषज्ञ है।
+Tom is a psychologist.	Tom ist ein Psychologe.	टॉम मनोविश्लेषक हैं।
+Tom is a sheep farmer.	Tom ist ein Schafzüchter.	टॉम भेड़ पालक हैं।

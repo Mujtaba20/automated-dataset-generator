@@ -1,14 +1,4 @@
 
-Tom is a little weird.	Tom ist ein bisschen merkwürdig.	टॉम थोड़ा अजीब है।
-Tom is a lousy kisser.	Tom hat vom Küssen keine Ahnung.	टॉम को चुंबन के बारे में कोई विचार नहीं है।
-Tom is a nature lover.	Tom ist ein Naturfreund.	टॉम एक प्राकृतिक दोस्त है।
-Tom is a normal child.	Tom ist ein normales Kind.	टॉम एक सामान्य बच्चा है।
-Tom is a party animal.	Tom ist ein Partylöwe.	टॉम एक पार्टी है।
-Tom is a poor student.	Tom ist ein armer Student.	टॉम एक गरीब छात्र है।
-Tom is a powerful man.	Tom ist ein mächtiger Mann.	टॉम एक शक्तिशाली आदमी है।
-Tom is a psychiatrist.	Tom ist Psychiater.	टॉम एक मनोचिकित्सक है।
-Tom is a psychologist.	Tom ist Psychologe.	टॉम एक मनोवैज्ञानिक है।
-Tom is a sheep farmer.	Tom ist Schafzüchter.	टॉम भेड़ ब्रीडर है।
 Tom is a small person.	Tom ein kleiner Mensch.	टॉम एक छोटा सा व्यक्ति।
 Tom is a smart person.	Tom ist ein kluger Mensch.	टॉम एक चतुर व्यक्ति है।
 Tom is a student, too.	Tom ist auch Student.	टॉम भी एक छात्र है।
