@@ -34303,3 +34303,11 @@ Tom hoped to succeed.	Tom hoffte zu erfolgreich sein.	टॉम कामया�
 Tom hung up his coat.	Tom hängte seinen Mantel auf.	टॉम ने अपनी कोट टांग दी।
 Tom ignored me today.	Tom hat mich heute ignoriert.	टॉम ने आज मुझे नजरअंदाज किया।
 Tom interrupted Mary.	Tom unterbrach Maria.	टॉम ने मेरी को बातचीत मे रोक दिया।
+Tom interviewed Mary.	Tom hat Mary interviewt.	टॉम ने मेरी का साक्षात्कार किया।
+Tom ironed his pants.	Tom hat seine Hose gebügelt.	टॉम ने अपने पैंट को इसप दिया।
+Tom ironed his shirt.	Tom hat sein Hemd gebügelt.	टॉम ने अपनी कमीज़ को इसप दिया।
+Tom is Mary's cousin.	Tom ist Marias Cousin.	टॉम मेरी का चचेरा भाई है।
+Tom is Mary's father.	Tom ist Marias Vater.	टॉम मेरी का पिता है।
+Tom is Mary's friend.	Tom ist Marias Freund.	टॉम मेरी का दोस्त है।
+Tom is Mary's mentor.	Tom ist Marias Mentor.	टॉम मेरी का मेंटर है।
+Tom is Mary's nephew.	Tom ist Marias Neffe.	टॉम मेरी का भांजा है।

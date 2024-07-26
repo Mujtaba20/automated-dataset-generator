@@ -1,14 +1,4 @@
 
-Tom interviewed Mary.	Tom führte ein Gespräch mit Maria.	टॉम ने मारिया के साथ बातचीत की।
-Tom ironed his pants.	Tom hat seine Hose gebügelt.	टॉम ने अपनी पैंट को इस्त्री किया।
-Tom ironed his pants.	Tom bügelte seine Hosen.	टॉम ने अपनी पैंट को इस्त्री किया।
-Tom ironed his shirt.	Tom bügelte sein Hemd.	टॉम ने अपनी शर्ट को इस्त्री किया।
-Tom is Mary's cousin.	Tom ist Marias Cousin.	टॉम मारिया के चचेरे भाई हैं।
-Tom is Mary's cousin.	Tom ist Marias Vetter.	टॉम मारिया का वेटर है।
-Tom is Mary's father.	Tom ist Marys Vater.	टॉम मैरी के पिता हैं।
-Tom is Mary's friend.	Tom ist Marias Freund.	टॉम मैरी है।
-Tom is Mary's mentor.	Tom ist Marys Mentor.	टॉम मैरी के संरक्षक हैं।
-Tom is Mary's nephew.	Tom ist Marias Neffe.	टॉम मारिया का भतीजा है।
 Tom is a big boy now.	Tom ist jetzt ein großer Junge.	टॉम अब एक बड़ा लड़का है।
 Tom is a bit strange.	Tom ist etwas komisch.	टॉम थोड़ा अजीब है।
 Tom is a bodybuilder.	Tom ist Bodybuilder.	टॉम बॉडी बिल्डर है।
