@@ -34926,3 +34926,13 @@ Tom visited a friend.	Tom besuchte einen Freund.	टॉम ने एक दो�
 Tom waited anxiously.	Tom wartete ängstlich.	टॉम बेचैनी से इंतजार कर रहा था।
 Tom waited nervously.	Tom wartete nervös.	टॉम बेचैनी से इंतजार कर रहा था।
 Tom walked Mary home.	Tom führte Mary nach Hause.	टॉम ने मेरी को घर ले जाया।
+Tom walked out on me.	Tom ging auf mich zu.	टॉम मुझ पर चला गया।
+Tom walked past Mary.	Tom ging an Maria vorbei.	टॉम मेरी के पास से गया।
+Tom wanted a bicycle.	Tom wollte ein Fahrrad.	टॉम को एक साइकिल चाहिए थी।
+Tom wanted a new car.	Tom wollte ein neues Auto.	टॉम को नई कार चाहिए थी।
+Tom wanted me to lie.	Tom wollte, dass ich lüge.	टॉम चाहता था कि मैं झूठ बोलूं।
+Tom wanted some food.	Tom wollte etwas zu essen.	टॉम को कुछ खाने की चाहिए थी।
+Tom wanted the money.	Tom wollte das Geld.	टॉम को पैसे चाहिए थे।
+Tom wanted to buy it.	Tom wollte es kaufen.	टॉम ने यह खरीदना चाहा।
+Tom wanted to see it.	Tom wollte es sehen.	टॉम ने इसे देखना चाहा।
+Tom wanted to travel.	Tom wollte reisen.	टॉम को यात्रा करनी थी।

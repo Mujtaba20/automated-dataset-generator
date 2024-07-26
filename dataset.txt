@@ -1,14 +1,4 @@
 
-Tom walked out on me.	Tom hat mich sitzenlassen.	टॉम ने मुझे बैठा दिया।
-Tom walked past Mary.	Tom ging an Maria vorbei.	टॉम ने मारिया को पास किया।
-Tom wanted a bicycle.	Tom wollte ein Fahrrad.	टॉम एक बाइक चाहता था।
-Tom wanted a new car.	Tom wollte einen neuen Wagen.	टॉम एक नई कार चाहते थे।
-Tom wanted me to lie.	Tom wollte, dass ich lüge.	टॉम चाहता था कि मैं झूठ बोलूं।
-Tom wanted some food.	Tom wollte etwas essen.	टॉम कुछ खाना चाहता था।
-Tom wanted the money.	Tom wollte Geld.	टॉम को पैसा चाहिए था।
-Tom wanted to buy it.	Tom wollte es kaufen.	टॉम इसे खरीदना चाहता था।
-Tom wanted to see it.	Tom wollte es sehen.	टॉम इसे देखना चाहते थे।
-Tom wanted to travel.	Tom wollte reisen.	टॉम यात्रा करना चाहता था।
 Tom wanted to unpack.	Tom wollte auspacken.	टॉम अनपैक करना चाहता था।
 Tom wants a unicycle.	Tom will ein Einrad haben.	टॉम एक यूनीसाइकिल करना चाहता है।
 Tom wants to be here.	Tom möchte hier sein.	टॉम यहां रहना चाहता है।
