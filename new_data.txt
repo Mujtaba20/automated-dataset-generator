@@ -23464,3 +23464,11 @@ Tom goes to school.	Tom geht zur Schule.	टॉम स्कूल जाता 
 Tom got Mary drunk.	Tom hat Mary betrunken gemacht.	टॉम ने मैरी को नशे में कर दिया।
 Tom got in the car.	Tom stieg ins Auto.	टॉम गाड़ी में बैठ गया।
 Tom got me a watch.	Tom hat mir eine Uhr besorgt.	टॉम ने मुझे एक घड़ी दी।
+Tom got on the bus.	Tom stieg in den Bus ein.	टॉम ने बस में चढ़ ली।
+Tom got out of bed.	Tom stand aus dem Bett auf.	टॉम बिस्तर से उठ गया।
+Tom got paid today.	Tom wurde heute bezahlt.	टॉम को आज वेतन मिला।
+Tom got really mad.	Tom wurde richtig wütend.	टॉम सचमुच गुस्से में आ गया।
+Tom got ripped off.	Tom wurde übers Ohr gehauen.	टॉम को धोखा दिया गया।
+Tom got tired soon.	Tom wurde bald müde.	टॉम जल्द ही थक गया।
+Tom got very angry.	Tom wurde sehr wütend.	टॉम बहुत गुस्से में था।
+Tom got very lucky.	Tom hatte sehr viel Glück.	टॉम को बहुत भाग्यशाली होने का अनुभव हुआ।
