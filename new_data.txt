@@ -34630,3 +34630,11 @@ Tom lacks motivation.	Tom fehlt es an Motivation.	टॉम को प्रे�
 Tom laughed heartily.	Tom lachte herzlich.	टॉम ने दिल से हंसा।
 Tom laughed out loud.	Tom lachte laut.	टॉम ने ऊचके हंसा।
 Tom left Mary behind.	Tom ließ Mary zurück.	टॉम ने मेरी को पीछे छोड़ दिया।
+Tom left an hour ago.	Tom ist vor einer Stunde gegangen.	टॉम एक घंटे पहले चला गया।
+Tom left at midnight.	Tom ging mitten in der Nacht weg.	टॉम ने रात को छोड़ दिया।
+Tom left immediately.	Tom ist sofort gegangen.	टॉम तुरंत चला गया।
+Tom left me the keys.	Tom hat mir die Schlüssel überlassen.	टॉम ने मुझे चाबियाँ दी।
+Tom lied to his wife.	Tom hat seiner Frau gelogen.	टॉम ने अपनी पत्नी से झूठ बोला।
+Tom likes basketball.	Tom mag Basketball.	टॉम को बास्केटबॉल पसंद है।
+Tom likes cantaloupe.	Tom mag Cantaloupe.	टॉम को खरबूजे पसंद हैं।
+Tom likes folk music.	Tom mag Volksmusik.	टॉम को लोक संगीत पसंद है।

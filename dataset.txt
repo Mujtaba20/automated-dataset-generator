@@ -1,14 +1,4 @@
 
-Tom left an hour ago.	Tom ist vor einer Stunde gegangen.	टॉम एक घंटे पहले छोड़ दिया था।
-Tom left at midnight.	Tom fuhr um Mitternacht ab.	टॉम ने आधी रात को छोड़ दिया।
-Tom left at midnight.	Tom ging um Mitternacht.	टॉम आधी रात को चला गया।
-Tom left at midnight.	Tom reiste um Mitternacht ab.	टॉम आधी रात को छोड़ दिया।
-Tom left immediately.	Tom ging sofort.	टॉम तुरंत चला गया।
-Tom left me the keys.	Tom hat mir die Schlüssel dagelassen.	टॉम ने मुझे चाबी छोड़ दी।
-Tom lied to his wife.	Tom belog seine Frau.	टॉम ने अपनी पत्नी को रोया।
-Tom likes basketball.	Tom mag Basketball.	टॉम को बास्केटबॉल पसंद है।
-Tom likes cantaloupe.	Tom isst gerne Warzenmelonen.	टॉम को मस्सा तरबूज खाना पसंद है।
-Tom likes folk music.	Tom mag Volksmusik.	टॉम को लोक संगीत पसंद है।
 Tom likes his school.	Tom mag seine Schule.	टॉम को अपना स्कूल पसंद है।
 Tom likes to be here.	Tom ist gerne hier.	टॉम को यहां रहना पसंद है।
 Tom likes to do that.	Tom macht das gerne.	टॉम ऐसा करना पसंद करता है।
