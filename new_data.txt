@@ -36794,3 +36794,11 @@ He is just an amateur.	Er ist nur ein Amateur.	वह बस एक अमेच
 He is living in Tokyo.	Er lebt in Tokio.	वह टोक्यो में रहता है।
 He is my close friend.	Er ist mein enger Freund.	वह मेरा करीबी दोस्त है।
 He is no longer a boy.	Er ist kein Junge mehr.	वह अब लड़का नहीं है।
+He is no ordinary man.	Er ist kein gewöhnlicher Mann.	वह कोई साधारण आदमी नहीं है।
+He is not a physician.	Er ist kein Arzt.	वह एक चिकित्सक नहीं है।
+He is now at the desk.	Er ist jetzt am Schreibtisch.	वह अब मेज पर है।
+He is said to be rich.	Er soll reich sein.	कहा जाता है कि वह धनवान है।
+He is such a show off.	Er gibt so an.	वह ऐसा दिखावा करता है।
+He is sure of winning.	Er ist sicher zu gewinnen.	वह जीतने की पूरी तरह से पक्की है।
+He is tall and strong.	Er ist groß und stark.	वह लंबा और मजबूत है।
+He is teaching Arabic.	Er unterrichtet Arabisch.	वह अरबी सिखा रहा है।
