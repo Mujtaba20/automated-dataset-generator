@@ -32353,3 +32353,9 @@ I'll be glad to come.	Ich werde gerne kommen.	मुझे आने में �
 I'll be home by 2:30.	Ich werde bis 2:30 Uhr zu Hause sein.	मैं 2:30 बजे तक घर पहुंच जाऊंगा।
 I'll be late to work.	Ich werde zu spät zur Arbeit kommen.	मैं काम पर देर से पहुंचूंगा।
 I'll be more careful.	Ich werde vorsichtiger sein.	मैं और सावधान रहूंगा।
+I'll be there Monday.	Ich werde dort am Montag sein.	मैं सोमवार को वहाँ होंगा।
+I'll be there at six.	Ich werde um sechs dort sein.	मैं छे बजे वहाँ होंगा।
+I'll be very careful.	Ich werde sehr vorsichtig sein.	मैं बहुत सावधान रहूँगा।
+I'll be watching you.	Ich werde dich beobachten.	मैं तुम्हें ध्यान से देख रहा हूँ।
+I'll be your teacher.	Ich werde dein Lehrer sein.	मैं आपका शिक्षक बनूँगा।
+I'll buy you a drink.	Ich kaufe dir ein Getränk.	मैं तुम्हें एक पेय पर केन्द्रित करूँगा।
