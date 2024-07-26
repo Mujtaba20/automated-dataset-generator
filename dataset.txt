@@ -1,14 +1,4 @@
 
-I am brushing my teeth.	Ich putze mir die Zähne.	मैं दांत ब्रश करता हूँ।
-I am calling my father.	Ich rufe meinen Vater an.	मैं अपने पिता को बुलाता हूं।
-I am downloading books.	Ich lade Bücher herunter.	मैं किताबें डाउनलोड करता हूं।
-I am downloading books.	Ich lade mir Bücher herunter.	मैं किताबें डाउनलोड करता हूं।
-I am going to miss you.	Du wirst mir fehlen.	मुझे तुम याद आओगे।
-I am greatly impressed.	Ich bin sehr beeindruckt.	मैं बहुत प्रभावित हूँ।
-I am happy to meet you.	Ich freue mich, euch zu treffen.	मुझे आप से मिलने की इच्छा है।
-I am happy to meet you.	Ich bin erfreut, Ihre Bekanntschaft zu machen.	मैं आपका परिचित बनाने के लिए प्रसन्न हूं।
-I am learning Japanese.	Ich lerne Japanisch.	मैं जापानी सीखा रहा हूं।
-I am lighting my cigar.	Ich zünde meine Zigarre an.	मैं अपने सिगार को जलाता हूं।
 I am memorizing a text.	Ich lerne einen Text auswendig.	मैं दिल से एक पाठ सीखता हूं।
 I am no longer a child.	Ich bin kein Kind mehr.	मैं अब बच्चा नहीं हूं।
 I am prettier than you.	Ich bin schöner als du.	मैं तुमसे ज्यादा खूबसूरत हूं।
