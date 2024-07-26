@@ -25827,3 +25827,12 @@ He's a chain smoker.	Er ist ein Kettenraucher.	वह एक चेन स्म
 He's a fast learner.	Er ist ein schneller Lerner.	वह एक तेज सीखने वाला है।
 He's a great kisser.	Er ist ein großartiger Küsser.	वह एक महान चुंबनेवाला है।
 He's a late bloomer.	Er ist spät dran.	वह देर से फूलू रहा है।
+He's a little rusty.	Er ist etwas rostig.	वह थोड़ा स्वेदशील है।
+He's a little tipsy.	Er ist ein wenig beschwipst.	वह थोड़ा मस्त है।
+He's a loose cannon.	Er ist unberechenbar.	वह एक अनियंत्रित कालीन है।
+He's a party animal.	Er ist eine Partykanone.	वह एक पार्टी का हिडिमबा है।
+He's a scriptwriter.	Er ist ein Drehbuchautor.	वह एक लेखक है।
+He's a stand-up guy.	Er ist ein zuverlässiger Typ.	वह एक सही इंसान है।
+He's about to leave.	Er steht kurz davor zu gehen.	वह जाने वाला है।
+He's active and fit.	Er ist aktiv und fit.	वह सक्रिय और फिट है।
+He's in great shape.	Er ist in guter Form.	वह बहुत अच्छे स्वास्थ्य में है।

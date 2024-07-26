@@ -1,17 +1,4 @@
 
-He's a little rusty.	Er ist etwas eingerostet.	उसने कुछ जंग लगाई है।
-He's a little tipsy.	Er ist leicht angeheitert.	यह आसानी से प्रेरित है।
-He's a loose cannon.	Er ist unberechenbar.	वह अप्रत्याशित है।
-He's a party animal.	Er ist ein Partylöwe.	वह एक पार्टी है।
-He's a scriptwriter.	Er ist Drehbuchautor.	वह एक पटकथा लेखक है।
-He's a stand-up guy.	Er ist einer, auf den man zählen kann.	वह एक है जिस पर आप भरोसा कर सकते हैं।
-He's about to leave.	Er ist am Gehen.	वह जा रहा है।
-He's about to leave.	Er ist drauf und dran zu gehen.	वह उस पर है।
-He's active and fit.	Er ist aktiv und fit.	वह सक्रिय और फिट है।
-He's active and fit.	Er ist aktiv und gut in Form.	यह सक्रिय और आकार में अच्छा है।
-He's active and fit.	Er ist aktiv und hat eine gute Kondition.	वह सक्रिय है और उसकी अच्छी स्थिति है।
-He's active and fit.	Er ist aktiv und in guter physischer Verfassung.	वह सक्रिय और अच्छे शारीरिक संविधान में है।
-He's active and fit.	Er ist aktiv und in ausgezeichneter körperlicher Verfassung.	वह सक्रिय और उत्कृष्ट शारीरिक स्थिति में है।
 He's afraid of cats.	Er hat Angst vor Katzen.	वह बिल्लियों से डरता है।
 He's afraid of dogs.	Er hat Angst vor Hunden.	वह कुत्तों से डरता है।
 He's always on time.	Er ist immer pünktlich.	वह हमेशा समय पर रहता है।
