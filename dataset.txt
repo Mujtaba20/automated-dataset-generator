@@ -1,14 +1,4 @@
 
-Get back to the ship.	Geh zurück zum Schiff.	जहाज पर वापस जाओ।
-Get back to the ship.	Gehe zurück zum Schiff.	जहाज पर वापस जाओ।
-Get back to the ship.	Gehe zum Schiff zurück.	जहाज पर वापस जाओ।
-Get in touch with me.	Setze dich mit mir in Verbindung!	मुझसे संपर्क करें!
-Get it ready at once.	Mach es gleich fertig!	इसे तुरंत पूरा करें!
-Get it ready at once.	Machen Sie es gleich fertig!	इसे तुरंत तैयार हो जाओ!
-Get it ready at once.	Macht es gleich fertig!	इसे तुरंत तैयार हो जाओ!
-Get me the newspaper.	Bring mir die Zeitung.	मुझे अखबार ले आओ।
-Get me the newspaper.	Hol mir die Zeitung.	मुझे अखबार मिलो।
-Get me the newspaper.	Besorg mir die Zeitung.	मुझे अखबार मिलो।
 Get out of my office.	Raus aus meinem Büro!	मेरे कार्यालय से बाहर निकलो!
 Get out of my office.	Verlasse mein Büro!	मेरा कार्यालय छोड़ दो!
 Get out of my office.	Verlassen Sie mein Büro!	मेरा कार्यालय छोड़ दो!

@@ -30866,3 +30866,10 @@ France borders Italy.	Frankreich grenzt an Italien.	फ्रांस इटल
 Get Tom on the phone.	Ruf Tom an.	टॉम को फोन पर लाओ।
 Get Tom out of there.	Holt Tom da raus.	वहाँ से टॉम को बाहर ले आओ।
 Get a doctor in here.	Hol einen Arzt hierher.	यहाँ एक डॉक्टर को लाओ।
+Get back to the ship.	Kehren Sie zum Schiff zurück.	जहाज में वापस जाओ।
+Get in touch with me.	Komm mit mir in Kontakt.	मुझसे संपर्क में रहो।
+Get it ready at once.	Machen Sie es sofort bereit.	तुरंत तैयार कर लो।
+Get me the newspaper.	Hol mir die Zeitung.	मुझे अख़बार लाओ।
+Get back to the ship. different meaning	Zurück zum Schiff gehen.	जहाज के पास वापस जाओ।
+Get me the newspaper. different meaning	Bring mir die Zeitung.	मुझे अख़बार ले आओ।
+Get it ready at once. different meaning	Mach es sofort fertig.	तुरंत तैयार कर दो।
