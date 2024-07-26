@@ -30538,3 +30538,11 @@ Could I change rooms?	Könnte ich das Zimmer wechseln?	क्या मैं �
 Could I get some tea?	Könnte ich etwas Tee bekommen?	क्या मुझे थोड़ी चाय मिल सकती है?
 Could we have a fork?	Könnten wir eine Gabel haben?	क्या हमें एक कांटा मिल सकता है?
 Could you help a bit?	Könnten Sie bitte helfen?	क्या आप थोड़ी मदद कर सकते हैं?
+Count to one hundred.	Zähle bis hundert.	सौ तक गिनिए।
+Dad bought me a book.	Papa hat mir ein Buch gekauft.	पापा ने मुझे एक किताब खरीदी।
+Dead dogs can't bite.	Tote Hunde beißen nicht.	मरे हुए कुत्ते काट नहीं सकते।
+Debts must be repaid.	Schulden müssen zurückgezahlt werden.	ऋण वापस करने चाहिए।
+Deliver this message.	Liefere diese Nachricht.	यह संदेश वितरित करें।
+Diamonds are forever.	Diamanten sind für immer.	हीरे हमेशा के लिए हैं।
+Did I miss something?	Habe ich etwas verpasst?	क्या मुझसे कुछ छूट गया है?
+Did I miss the party?	Habe ich die Party verpasst?	क्या मैंने पार्टी को छोड़ दिया?
