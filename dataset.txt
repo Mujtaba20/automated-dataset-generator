@@ -1,14 +1,4 @@
 
-Tom likes it in Boston.	Tom mag es in Boston.	टॉम इसे बोस्टन में पसंद करते हैं।
-Tom likes it in Boston.	Tom gefällt es in Boston.	टॉम इसे बोस्टन में पसंद करते हैं।
-Tom likes jelly donuts.	Tom isst gerne Berliner.	टॉम को बर्लिनर खाना पसंद है।
-Tom likes soccer a lot.	Tom ist ein großer Fußballfreund.	टॉम एक बड़ा फुटबॉल दोस्त है।
-Tom likes strawberries.	Tom mag Erdbeeren.	टॉम को स्ट्रॉबेरी पसंद है।
-Tom likes taking walks.	Tom geht gerne spazieren.	टॉम टहलने के लिए जाना पसंद करते हैं।
-Tom likes teasing Mary.	Tom ärgert Mary gerne.	टॉम को मैरी को नाराज करना पसंद है।
-Tom likes to chop wood.	Tom hackt gerne Holz.	टॉम को लकड़ी हैक करना पसंद है।
-Tom likes what he does.	Tom mag, was er tut.	टॉम को वह पसंद है जो वह करता है।
-Tom likes what he sees.	Tom mag, was er sieht.	टॉम को वह पसंद है जो वह देखता है।
 Tom listened carefully.	Tom hörte aufmerksam zu.	टॉम ने ध्यान से सुना।
 Tom listened patiently.	Tom hörte geduldig zu.	टॉम ने धैर्यपूर्वक सुना।
 Tom lived a happy life.	Tom führte ein glückliches Leben.	टॉम ने एक खुशहाल जीवन का नेतृत्व किया।
