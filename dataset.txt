@@ -1,14 +1,4 @@
 
-I only did my duty.	Ich tat nur meine Pflicht.	मैंने सिर्फ अपना कर्तव्य निभाया।
-I only did my duty.	Ich habe nur meine Pflicht erfüllt.	मैंने केवल अपना कर्तव्य पूरा किया।
-I only drink water.	Ich trinke nur Wasser.	मैं केवल पानी पीता हूं।
-I opened the doors.	Ich öffnete die Türen.	मैंने दरवाजे खोले।
-I owe you a dinner.	Ich schulde dir ein Abendessen.	मैं तुम्हें एक रात का भोजन देना चाहता हूँ।
-I paid Tom in cash.	Ich bezahlte Tom in bar.	मैंने टॉम को नकद में भुगतान किया।
-I panicked and ran.	Ich geriet in Panik und lief davon.	मैं घबरा गया और भाग गया।
-I plan to be there.	Ich habe vor, dort zu sein.	मैं वहां रहने की योजना बना रहा हूं।
-I play video games.	Ich spiele Videospiele.	मैं वीडियो गेम खेलता हूं।
-I play with my cat.	Ich spiele mit meiner Katze.	मैं अपनी बिल्ली के साथ खेलता हूं।
 I pocketed my keys.	Ich habe meine Schlüssel eingesteckt.	मैंने अपनी चाबी रखी।
 I promise I'll try.	Ich verspreche, ich werde mir Mühe geben.	मैं वादा करता हूं कि मैं एक प्रयास करूंगा।
 I put my helmet on.	Ich setzte meinen Helm auf.	मैंने अपने हेलमेट पर डाल दिया।

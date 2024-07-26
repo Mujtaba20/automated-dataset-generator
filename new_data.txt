@@ -21561,3 +21561,12 @@ I often eat apples.	Ich esse oft Äpfel.	मैं अक्सर सेब ख
 I often read books.	Ich lese oft Bücher.	मैं अक्सर किताबें पढ़ता हूँ।
 I often tell jokes.	Ich erzähle oft Witze.	मैं अक्सर मजाक करता हूँ।
 I often wear a tie.	Ich trage oft eine Krawatte.	मैं अक्सर टाई पहनता हूँ।
+I only did my duty.	Ich habe nur meine Aufgabe erledigt.	मैंने केवल अपना कर्तव्य किया।
+I only drink water.	Ich trinke nur Wasser.	मैं केवल पानी पीता हूँ।
+I opened the doors.	Ich habe die Türen geöffnet.	मैंने दरवाजे खोल दिए।
+I owe you a dinner.	Ich schulde dir ein Abendessen.	मैं तुम्हें एक डिनर कर्ज़ हूँ।
+I paid Tom in cash.	Ich habe Tom bar bezahlt.	मैंने टॉम को नकदी में भुगतान किया।
+I panicked and ran.	Ich geriet in Panik und rannte.	मैं घबराया और भागा।
+I plan to be there.	Ich plane, dort zu sein.	मेरी योजना वहां जाने की है।
+I play video games.	Ich spiele Videospiele.	मैं वीडियो गेम्स खेलता हूँ।
+I play with my cat.	Ich spiele mit meiner Katze.	मैं अपनी बिल्ली के साथ खेलता हूँ।
