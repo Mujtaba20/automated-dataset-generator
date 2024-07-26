@@ -29859,3 +29859,11 @@ What's there to say?	Was gibt es zu sagen?	क्या कहने का म�
 What's this key for?	Wofür ist dieser Schlüssel?	यह कुंजी किसके लिए है?
 What's this made of?	Woraus ist das gemacht?	यह किससे बना है?
 What's today's date?	Was ist das Datum von heute?	आज की तारीख क्या है?
+What's today's menu?	Was steht heute auf der Speisekarte?	आज का मेनू क्या है?
+What's today's plan?	Was ist der Plan für heute?	आज का योजना क्या है?
+What's worrying you?	Was beunruhigt dich?	तुम्हें क्यों चिंता है?
+What's wrong, honey?	Was ist los, Liebling?	क्या गड़बड़ है, हनी?
+What's your address?	Was ist deine Adresse?	तुम्हारा पता क्या है?
+What's your day off?	Wann hast du frei?	तुम्हारा आज को छुट्टी है?
+What's your message?	Was ist deine Nachricht?	तुम्हारा संदेश क्या है?
+What's your opinion?	Was ist deine Meinung?	तुम्हारा क्या विचार है?

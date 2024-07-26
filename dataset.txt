@@ -1,15 +1,4 @@
 
-What's today's menu?	Was ist das heutige Menü?	आज का मेनू क्या है?
-What's today's plan?	Was steht heute auf dem Plan?	आज योजना पर क्या है?
-What's today's plan?	Was ist für heute geplant?	आज के लिए क्या योजना है?
-What's worrying you?	Was macht dir Sorgen?	आप किस विषय में चिन्तित है?
-What's wrong, honey?	Was hast du, Liebling?	आपके पास क्या है, डार्लिंग?
-What's your address?	Wie lautet deine Adresse?	आपका पता क्या है?
-What's your address?	Wie lautet Ihre Adresse?	आपका पता क्या है?
-What's your day off?	Was ist dein freier Tag?	आपका दिन क्या है?
-What's your message?	Wie lautet deine Nachricht?	आपका संदेश क्या है?
-What's your opinion?	Was meinst du?	आप क्या सोचते हैं?
-What's your opinion?	Was meinen Sie?	आपका क्या मतलब है?
 What's your problem?	Was haben Sie für ein Problem?	आपकी समस्या क्या है?
 What's your problem?	Gibt's ein Problem?	कोई प्रॉब्लम है क्या?
 What's your problem?	Was ist dein Problem?	आपकी समस्या क्या है?
