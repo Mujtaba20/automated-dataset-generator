@@ -26597,3 +26597,12 @@ I owe you something.	Ich schulde dir etwas.	मुझे तुम पर कु
 I painted the fence.	Ich habe den Zaun gestrichen.	मैंने बाड़ पेंट किया।
 I polished my shoes.	Ich habe meine Schuhe poliert.	मैंने अपने जूते चमकाए।
 I pretended to work.	Ich gab vor zu arbeiten.	मैंने काम करने का नाटक किया।
+I promise I'll come.	Ich verspreche, dass ich komme.	मैं वादा करता हूँ कि मैं आऊँगा।
+I purchased one bag.	Ich habe eine Tasche gekauft.	मैंने एक थैला खरीदा।
+I put on my glasses.	Ich zog meine Brille an.	मैंने अपनी चश्मा पहन ली।
+I quickly ate lunch.	Ich aß schnell zu Mittag.	मैंने जल्दी से लंच खाया।
+I ran away from Tom.	Ich rannte vor Tom weg.	मैंने टॉम से भाग लिया।
+I ran like the wind.	Ich rannte wie der Wind.	मैं हवा की तरह दौड़ा।
+I ran out of breath.	Mir ging die Puste aus.	मेरी सांस रुक गई।
+I rang the doorbell.	Ich läutete an der Türklingel.	मैंने दरवाजे का बेल बजाया।
+I rarely wear a tie.	Ich trage selten eine Krawatte.	मैं शादिक एक टाई पहनता हूँ।
