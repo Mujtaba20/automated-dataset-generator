@@ -1,14 +1,4 @@
 
-I'm sure Tom loves you.	Ich bin mir sicher, dass Tom dich liebt.	मुझे यकीन है कि टॉम आपसे प्यार करता है।
-I'm sure Tom was happy.	Ich bin sicher, dass Tom glücklich war.	मुझे यकीन है कि टॉम खुश था।
-I'm sure they're right.	Ich bin mir sicher, dass sie recht haben.	मुझे यकीन है कि आप सही हैं।
-I'm sure you're sleepy.	Du bist sicher müde.	आप थके हुए होंगे।
-I'm sure you're sleepy.	Sie sind sicher müde.	आप निश्चित रूप से थक गए हैं।
-I'm sure you're sleepy.	Ihr seid sicher müde.	आप निश्चित रूप से थक गए हैं।
-I'm taking Tom with me.	Ich nehme Tom mit.	मैं टॉम को अपने साथ ले जाता हूं।
-I'm taking antibiotics.	Ich nehme Antibiotika.	मैं एंटीबायोटिक्स लेता हूं।
-I'm taking the day off.	Ich nehme mir den Tag frei.	मैं दिन की छुट्टी लेता हूं।
-I'm taking this to Tom.	Ich bringe das zu Tom.	मैं टॉम के पास लाता हूं।
 I'm taking you with me.	Ich nehme dich mit.	मैं तुम्हें अपने साथ ले जाऊंगा।
 I'm the one who's sick.	Ich bin derjenige, der krank ist.	मैं वह हूं जो बीमार है।
 I'm the youngest child.	Ich bin das jüngste Kind.	मैं सबसे छोटा बच्चा हूं।
