@@ -1,14 +1,4 @@
 
-He can barely read.	Er kann kaum lesen.	वह मुश्किल से पढ़ सकता है।
-He can drive a car.	Er kann Auto fahren.	वह एक कार चला सकता है।
-He can play tennis.	Er kann Tennis spielen.	वह टेनिस खेल सकता है।
-He can swim a mile.	Er kann eine Meile schwimmen.	वह एक मील तैर सकता है।
-He can't buy a car.	Er kann kein Auto kaufen.	वह एक कार नहीं खरीद सकता।
-He can't buy a car.	Er kann sich kein Auto kaufen.	वह एक कार नहीं खरीद सकता।
-He can't handle it.	Er wird nicht damit fertig.	वह तैयार नहीं होता।
-He can't sing well.	Er kann nicht gut singen.	वह अच्छी तरह से नहीं गा सकता।
-He can't stay long.	Er kann nicht lange bleiben.	वह लंबे समय तक नहीं रह सकता।
-He cannot be saved.	Er kann nicht gerettet werden.	इसे बचाया नहीं जा सकता।
 He cannot stop her.	Er kann sie nicht aufhalten.	वह उसे रोक नहीं सकता।
 He cannot stop him.	Er kann ihn nicht aufhalten.	वह उसे रोक नहीं सकता।
 He changed his job.	Er wechselte die Arbeit.	उसने काम बदल दिया।

@@ -20715,3 +20715,12 @@ He called for help.	Er rief um Hilfe.	उसने मदद मांगी।
 He called me a cab.	Er rief mir ein Taxi.	उसने मुझे एक टैक्सी बुलाया।
 He came here again.	Er kam wieder hierher.	वह यहाँ फिर से आया।
 He came out on top.	Er setzte sich durch.	उसने ऊपर आकर दिखाया।
+He can barely read.	Er kann kaum lesen.	वह मात्र पढ़ सकता है।
+He can drive a car.	Er kann ein Auto fahren.	वह एक कार चला सकता है।
+He can play tennis.	Er kann Tennis spielen.	वह टेनिस खेल सकता है।
+He can swim a mile.	Er kann eine Meile schwimmen.	वह एक मील तैर सकता है।
+He can't buy a car.	Er kann kein Auto kaufen.	वह एक कार नहीं खरीद सकता है।
+He can't handle it.	Er kann es nicht handhaben.	वह इसे संभाल नहीं सकता।
+He can't sing well.	Er kann nicht gut singen.	वह अच्छे से नहीं गा सकता।
+He can't stay long.	Er kann nicht lange bleiben.	वह लंबे समय तक रह नहीं सकता।
+He cannot be saved.	Er kann nicht gerettet werden.	उसे बचाया नहीं जा सकता।
