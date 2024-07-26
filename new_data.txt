@@ -38787,3 +38787,13 @@ Mary is a pretty girl.	Mary ist ein hübsches Mädchen.	मेरी एक स�
 Mary is a smart woman.	Mary ist eine kluge Frau.	मेरी एक चालाक महिला है।
 Mary is afraid of men.	Mary hat Angst vor Männern.	मेरी पुरुषों से डरती है।
 Mary is an oncologist.	Mary ist Onkologin.	मेरी एक कैंसर विशेषज्ञ है।
+Mary is baking a cake.	Maria backt einen Kuchen.	मेरी एक केक बना रही है।
+Mary is my girlfriend.	Maria ist meine Freundin.	मेरी मेरी गर्लफ्रेंड है।
+Mary is my stepmother.	Maria ist meine Stiefmutter.	मेरी माँ की भाभी है।
+Mary is my stepsister.	Maria ist meine Stiefschwester.	मेरी माँ की बहन है।
+Mary is not my sister.	Maria ist nicht meine Schwester.	मेरी बहन नहीं है।
+Mary is really pretty.	Maria ist wirklich hübsch.	मेरी वास्तव में सुंदर है।
+Mary is scantily clad.	Maria ist knapp bekleidet.	मेरी अल्पकपड़ों में सजी हुई है।
+Mary is spinning wool.	Maria spinnt Wolle.	मेरी ऊन धू रही है।
+Mary isn't Tom's wife.	Maria ist nicht Toms Frau.	मेरी टॉम की पत्नी नहीं है।
+Mary looked ravishing.	Maria sah umwerfend aus.	मेरी रहस्योद्गार है।
