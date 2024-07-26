@@ -36952,3 +36952,13 @@ He's enjoying himself.	Er amüsiert sich.	वह खुद को एकत्�
 He's found a new love.	Er hat eine neue Liebe gefunden.	उसने एक नई प्रेम पाई है।
 He's getting up early.	Er steht früh auf.	वह जल्दी उठ रहा है।
 He's going to make it.	Er wird es schaffen.	वह इसे कर लेगा।
+He's good at swimming.	Er ist gut im Schwimmen.	वह तैरने में अच्छा है।
+He's just kidding you.	Er macht nur Spaß mit dir.	वह बस तुमसे मजाक कर रहा है।
+He's losing his looks.	Er verliert sein Aussehen.	उसकी शक्ल खराब हो रही है।
+He's my older brother.	Er ist mein älterer Bruder.	वह मेरा बड़ा भाई है।
+He's never told a lie.	Er hat nie gelogen.	उसने कभी झूठ नहीं बोला।
+He's not always happy.	Er ist nicht immer glücklich.	वह हमेशा खुश नहीं रहता।
+He's not in our group.	Er ist nicht in unserer Gruppe.	वह हमारे समूह में नहीं है।
+He's not my boyfriend.	Er ist nicht mein Freund.	वह मेरा बॉयफ्रेंड नहीं है।
+He's now on the phone.	Er ist jetzt am Telefon.	वह अब फोन पर है।
+He's on his last legs.	Er ist auf seinen letzten Beinen.	वह अपनी आखिरी सांसों पर है।
