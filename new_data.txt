@@ -38163,3 +38163,10 @@ I'm a country boy now.	Ich bin jetzt ein Landjunge.	मैं अब गां�
 I'm a little busy now.	Ich bin jetzt ein wenig beschäftigt.	मैं अभी थोड़ा व्यस्त हूँ।
 I'm a little confused.	Ich bin ein wenig verwirrt.	मैं थोड़ा उलझन में हूँ।
 I'm a lot happier now.	Ich bin jetzt viel glücklicher.	मैं अब बहुत खुश हूँ।
+I'm a married man now.	Ich bin jetzt ein verheirateter Mann.	अब मैं एक शादीशुदा आदमी हूँ।
+I'm a race car driver.	Ich bin ein Autorennfahrer.	मैं एक रेस गाड़ी ड्राइवर हूँ।
+I'm a romantic person.	Ich bin ein romantischer Mensch.	मैं एक रोमांटिक इंसान हूँ।
+I'm a terrible dancer.	Ich bin eine furchtbare Tänzerin.	मैं एक भयानक नृत्यकारी हूँ।
+I'm about ready to go.	Ich bin gleich fertig zu gehen.	मैं जल्द ही जाने के लिए तैयार हूँ।
+I'm afraid of heights.	Ich fürchte mich vor Höhen.	मुझे ऊँचाइयों से डर लगता है।
+I'm afraid of my boss.	Ich habe Angst vor meinem Chef.	मुझे मेरे बॉस से डर लगता है।
