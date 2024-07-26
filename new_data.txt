@@ -22822,3 +22822,9 @@ Stop your nonsense!	Hör auf mit deinem Unsinn!	अपने बकवास ब
 Stop. That tickles.	Stopp. Das kitzelt.	रुको। यह क्या है।
 Sushi is delicious.	Sushi ist köstlich.	सुशी स्वादिष्ट है।
 Take a closer look.	Schau genauer hin.	और करीब से देखो।
+Take a deep breath.	Mach tief Luft.	गहरी सांस लो।
+Take away this box.	Entferne diese Schachtel.	इस बॉक्स को हटा दो।
+Take her to the OR.	Bringen Sie sie ins OP.	उसे ओआर में ले जाओ।
+Take off your coat.	Zieh deinen Mantel aus.	अपनी कोट उतारो।
+Take off your mask.	Entferne deine Maske.	तुम अपना मास्क उतारो।
+Take that box away!	Entfernen Sie diese Schachtel!	उस बॉक्स को ले जाओ!
