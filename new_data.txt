@@ -23805,3 +23805,12 @@ Tom kissed his cat.	Tom küsste seine Katze.	टॉम ने अपने ब�
 Tom kissed my hand.	Tom küsste meine Hand.	टॉम ने मेरे हाथ को चुम्बन दिया।
 Tom kissed my neck.	Tom küsste meinen Hals.	टॉम ने मेरी गर्दन को चुम्बन दिया।
 Tom knew our names.	Tom kannte unsere Namen.	टॉम हमारे नाम जानता था।
+Tom knew something.	Tom wusste etwas.	टॉम कुछ जानता था।
+Tom knew the risks.	Tom kannte die Risiken.	टॉम को जोखिम पता था।
+Tom knows I'm here.	Tom weiß, dass ich hier bin.	टॉम को पता है कि मैं यहाँ हूँ।
+Tom knows I'm home.	Tom weiß, dass ich zu Hause bin.	टॉम को पता है कि मैं घर पर हूँ।
+Tom knows that now.	Tom weiß das jetzt.	टॉम को अब पता है।
+Tom knows too much.	Tom weiß zu viel.	टॉम बहुत कुछ जानता है।
+Tom knows who died.	Tom weiß, wer gestorben ist.	टॉम को पता है कि कौन मर गया है।
+Tom leaned forward.	Tom lehnte sich vor.	टॉम आगे की ओर झूका।
+Tom learned French.	Tom lernte Französisch.	टॉम ने फ्रेंच सीखी।

@@ -1,15 +1,4 @@
 
-Tom knew something.	Tom wusste etwas.	टॉम कुछ जानता था।
-Tom knew something.	Tom hat etwas gewusst.	टॉम कुछ जानता था।
-Tom knew the risks.	Tom war sich der Risiken bewusst.	टॉम को जोखिमों के बारे में पता था।
-Tom knows I'm here.	Tom weiß, dass ich hier bin.	टॉम जानता है कि मैं यहाँ हूँ।
-Tom knows I'm home.	Tom weiß, dass ich zu Hause bin.	टॉम जानता है कि मैं घर पर हूं।
-Tom knows that now.	Tom weiß das jetzt.	टॉम जानता है कि अब।
-Tom knows too much.	Tom weiß zu viel.	टॉम बहुत ज्यादा जानता है।
-Tom knows who died.	Tom weiß, wer gestorben ist.	टॉम जानता है कि कौन मर गया।
-Tom leaned forward.	Tom beugte sich nach vorne.	टॉम आगे झुक गया।
-Tom learned French.	Tom hat Französisch gelernt.	टॉम ने फ्रेंच सीखा।
-Tom learned French.	Tom lernte Französisch.	टॉम ने फ्रेंच सीखा।
 Tom led by example.	Tom ging mit gutem Beispiel voran.	टॉम एक अच्छे उदाहरण के साथ चला गया।
 Tom led the attack.	Tom führte den Angriff an.	टॉम ने हमले का नेतृत्व किया।
 Tom left Australia.	Tom hat Australien verlassen.	टॉम ने ऑस्ट्रेलिया छोड़ दिया।
