@@ -1,14 +1,4 @@
 
-Tom was unconscious.	Tom war bewusstlos.	टॉम को पास कर दिया गया।
-Tom was very hungry.	Tom war sehr hungrig.	टॉम बहुत भूखे थे।
-Tom was very lonely.	Tom war sehr einsam.	टॉम बहुत अकेला था।
-Tom was very polite.	Tom war sehr höflich.	टॉम बहुत विनम्र था।
-Tom was very scared.	Tom war sehr verängstigt.	टॉम बहुत डर गया था।
-Tom was very sleepy.	Tom war sehr müde.	टॉम बहुत थक गया था।
-Tom was watching TV.	Tom sah gerade fern.	टॉम बस दूर देखा।
-Tom washed his face.	Tom wusch sich das Gesicht.	टॉम ने अपना चेहरा धोया।
-Tom washed his hair.	Tom wusch sich die Haare.	टॉम ने अपने बाल धोए।
-Tom wasn't arrested.	Tom wurde nicht verhaftet.	टॉम को गिरफ्तार नहीं किया गया था।
 Tom wasn't cremated.	Tom wurde nicht eingeäschert.	टॉम का अंतिम संस्कार नहीं किया गया था।
 Tom wasn't grateful.	Tom war nicht dankbar.	टॉम आभारी नहीं थे।
 Tom wasn't impolite.	Tom war nicht unhöflich.	टॉम असभ्य नहीं था।

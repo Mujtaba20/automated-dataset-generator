@@ -29393,3 +29393,13 @@ Tom was thoughtless.	Tom war unüberlegt.	टॉम अविचारी था
 Tom was throwing up.	Tom hat erbrochen.	टॉम उल्टी कर रहा था।
 Tom was traumatized.	Tom war traumatisiert.	टॉम को विक्षिप्त किया गया था।
 Tom was turned down.	Tom wurde abgelehnt.	टॉम को इनकार कर दिया गया था।
+Tom was unconscious.	Tom war bewusstlos.	टॉम बेहोश था।
+Tom was very hungry.	Tom war sehr hungrig.	टॉम बहुत भूखा था।
+Tom was very lonely.	Tom war sehr einsam.	टॉम बहुत अकेला था।
+Tom was very polite.	Tom war sehr höflich.	टॉम बहुत शिष्ट था।
+Tom was very scared.	Tom hatte sehr große Angst.	टॉम बहुत डरा हुआ था।
+Tom was very sleepy.	Tom war sehr müde.	टॉम बहुत नींद में था।
+Tom was watching TV.	Tom schaute fern.	टॉम टीवी देख रहा था।
+Tom washed his face.	Tom wusch sein Gesicht.	टॉम अपना चेहरा धो रहा था।
+Tom washed his hair.	Tom wusch sich die Haare.	टॉम अपने बाल धो रहा था।
+Tom wasn't arrested.	Tom wurde nicht verhaftet.	टॉम को गिरफ्तार नहीं किया गया था।
