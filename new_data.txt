@@ -30396,3 +30396,11 @@ Are we being watched?	Werden wir beobachtet?	क्या हमें देख
 Are we going surfing?	Gehen wir surfen?	क्या हम सर्फिंग पर जा रहें हैं?
 Are we starting soon?	Beginnen wir bald?	क्या हम जल्दि शुरू हो रहे हैं?
 Are you OK with this?	Bist du damit einverstanden?	क्या तुम इसके साथ ठीक हो?
+Are you Tom's lawyer?	Sind Sie Toms Anwalt?	क्या आप टॉम के वकील हैं?
+Are you Tom's mother?	Bist du Toms Mutter?	क्या आप टॉम की माँ हैं?
+Are you a real nurse?	Bist du eine echte Krankenschwester?	क्या आप एक वास्तविक नर्स हैं?
+Are you a vegetarian?	Bist du Vegetarier?	क्या आप शाकाहारी हैं?
+Are you a vegetarian? (Different Meaning)	Bist du Vegetarier?	क्या आप एक शाकाहारी हैं?
+Are you a vegetarian? (Different Meaning 2)	Bist du Vegetarier?	क्या आप एक ज़ेर बुखारी हैं?
+Are you able to swim?	Kannst du schwimmen?	क्या आप तैरना जानते हैं?
+Are you able to swim? (Different Meaning)	Bist du in der Lage zu schwimmen?	क्या आप तैरने में सक्षम हैं?

@@ -1,14 +1,4 @@
 
-Are you Tom's lawyer?	Sind Sie Toms Anwalt?	क्या आप टॉम के वकील हैं?
-Are you Tom's mother?	Bist du Toms Mutter?	क्या आप टॉम की माँ हैं?
-Are you a real nurse?	Bist du wirklich Krankenschwester?	क्या आप वास्तव में एक नर्स हैं?
-Are you a vegetarian?	Bist du Vegetarier?	क्या आप शाकाहारी हैं?
-Are you a vegetarian?	Bist du Vegetarierin?	क्या आप शाकाहारी हैं?
-Are you a vegetarian?	Sind Sie Vegetarier?	क्या आप शाकाहारी हैं?
-Are you a vegetarian?	Sind Sie Vegetarierin?	क्या आप शाकाहारी हैं?
-Are you able to swim?	Kannst du schwimmen?	क्या आप तैर सकते हैं?
-Are you able to swim?	Können Sie schwimmen?	क्या आप तैर सकते हैं?
-Are you able to swim?	Könnt ihr schwimmen?	क्या आप तैर सकते हैं?
 Are you able to type?	Können Sie Maschine schreiben?	क्या आप एक मशीन लिख सकते हैं?
 Are you afraid of me?	Hast du Angst vor mir?	आप मुझे से डर रहे हैं?
 Are you afraid of me?	Ängstigst du dich vor mir?	क्या आप अपने आप को मेरे सामने भयभीत करते हैं?
