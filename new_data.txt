@@ -25631,3 +25631,12 @@ He drives very fast.	Er fährt sehr schnell.	वह बहुत तेज़ी
 He entered the army.	Er trat in die Armee ein.	उसने सेना में प्रवेश किया।
 He entered the room.	Er betrat den Raum.	उसने कमरे में प्रवेश किया।
 He feels very happy.	Er fühlt sich sehr glücklich.	वह बहुत खुश महसूस करता है।
+He felt very lonely.	Er fühlte sich sehr einsam.	उसे बहुत अकेलापन महसूस हुआ।
+He fired but missed.	Er feuerte, verfehlte aber.	उसने गोली चलाई लेकिन चूक गया।
+He found his master.	Er fand seinen Meister.	उसने अपने मालिक को पहचान लिया।
+He found my bicycle.	Er fand mein Fahrrad.	उसने मेरी साइकिल खोज ली।
+He gave a deep sigh.	Er seufzte tief.	उसने गहरी सांस ली।
+He gets up at seven.	Er steht um sieben Uhr auf.	वह सात बजे उठता है।
+He got on the train.	Er stieg in den Zug ein.	उसने ट्रेन पर चढ़ लिया।
+He got rich quickly.	Er wurde schnell reich.	उसने जल्दी से धनवान बन गया।
+He grabbed her hand.	Er packte ihre Hand.	उसने उसका हाथ पकड़ लिया।
