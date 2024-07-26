@@ -1,14 +1,4 @@
 
-You have three cats.	Ihr habt drei Katzen.	आपके पास तीन बिल्लियाँ हैं।
-You have three cats.	Du hast drei Katzen.	आपके पास तीन बिल्लियाँ हैं।
-You have three cats.	Sie haben drei Katzen.	आपके पास तीन बिल्लियाँ हैं।
-You have to do that.	Das musst du tun.	आपको ऐसा करना होगा।
-You have to do that.	Du musst das tun.	आपको ऐसा करना होगा।
-You have to go home.	Du musst nach Hause gehen!	आपको घर जाना है!
-You have to go home.	Du musst nach Hause!	आपको घर जाना है!
-You have to go home.	Ihr müsst nachhause gehen.	आपको घर जाना है।
-You have to help me.	Du musst mir helfen!	तुम्हें मेरी मदद करनी पड़ेगी!
-You have to help me.	Sie müssen mir helfen!	तुम्हें मेरी मदद करनी पड़ेगी!
 You have to help us.	Du musst uns helfen.	आपको हमारी मदद करनी होगी।
 You have to help us.	Ihr müsst uns helfen.	आपको हमारी मदद करनी होगी।
 You have to help us.	Sie müssen uns helfen.	आपको हमारी मदद करनी होगी।

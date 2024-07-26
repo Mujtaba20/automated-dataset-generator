@@ -30172,3 +30172,9 @@ You have everything.	Du hast alles.	तुम्हारे पास सब �
 You have many books.	Du hast viele Bücher.	तुम्हारे पास बहुत सारी किताबें हैं।
 You have good ideas.	Du hast gute Ideen.	तुम्हारे पास अच्छी विचार हैं।
 You have one minute.	Du hast eine Minute.	तुम्हारे पास एक मिनट है।
+You have three cats.	Du hast drei Katzen.	तुम्हारे पास तीन बिल्लियाँ हैं।
+You have to do that.	Du musst das tun.	तुम्हें वह करना है।
+You have to go home.	Du musst nach Hause gehen.	तुम्हें घर जाना है।
+You have to help me.	Du musst mir helfen.	तुम्हें मेरी मदद करनी है।
+You have two dogs.	Du hast zwei Hunde.	तुम्हारे पास दो कुत्ते हैं।
+You need to hurry.	Du musst dich beeilen.	तुम्हें जल्दी करने की जरूरत है।
