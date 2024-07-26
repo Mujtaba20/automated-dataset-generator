@@ -1,14 +1,4 @@
 
-Tom is a dance teacher.	Tom ist Tanzlehrer.	टॉम एक नृत्य शिक्षक है।
-Tom is a dermatologist.	Tom ist Hautarzt.	टॉम त्वचा विशेषज्ञ है।
-Tom is a famous artist.	Tom ist ein bekannter Künstler.	टॉम एक अच्छी तरह से ज्ञात कलाकार है।
-Tom is a gifted artist.	Tom ist ein begabter Künstler.	टॉम एक प्रतिभाशाली कलाकार हैं।
-Tom is a good employee.	Tom ist ein guter Angestellter.	टॉम एक अच्छा कर्मचारी है।
-Tom is a good listener.	Tom kann gut zuhören.	टॉम अच्छी तरह से सुन सकते हैं।
-Tom is a good listener.	Tom ist ein guter Zuhörer.	टॉम एक अच्छा श्रोता है।
-Tom is a good musician.	Tom ist ein guter Musiker.	टॉम एक अच्छा संगीतकार है।
-Tom is a good neighbor.	Tom ist ein guter Nachbar.	टॉम एक अच्छा पड़ोसी है।
-Tom is a good salesman.	Tom ist ein guter Verkäufer.	टॉम एक अच्छा विक्रेता है।
 Tom is a great fighter.	Tom ist ein großartiger Kämpfer.	टॉम एक महान सेनानी है।
 Tom is a great teacher.	Tom ist ein toller Lehrer.	टॉम एक महान शिक्षक हैं।
 Tom is a grown man now.	Tom ist jetzt ein erwachsener Mann.	टॉम अब एक वयस्क व्यक्ति है।
