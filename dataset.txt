@@ -1,18 +1,4 @@
 
-How was Tom killed?	Auf welche Weise kam Tom ums Leben?	टॉम कैसे मर गया?
-How was Tom killed?	Wie wurde Tom ermordet?	टॉम की हत्या कैसे की गई?
-How was work today?	Wie war's in der Arbeit heute?	आज काम पर कैसा था?
-How was your night?	Wie war deine Nacht?	आपकी रात कैसी बीती?
-How was your night?	Wie war eure Nacht?	आपकी रात कैसी बीती?
-How was your night?	Wie war Ihre Nacht?	आपकी रात कैसी बीती?
-How will I find it?	Wie finde ich es?	मुझे यह कैसे मिल सकता है?
-How will they cope?	Wie werden sie damit zurechtkommen?	आप इसके साथ कैसे मिलेंगे?
-How would you feel?	Wie würdest du dich fühlen?	आपको कैसा महसूस होगा?
-How would you feel?	Wie wäre dir zumute?	आप कैसा महसूस करेंगे?
-How would you feel?	Wie würdet ihr euch fühlen?	आपको कैसा महसूस होगा?
-How would you feel?	Wie würden Sie sich fühlen?	आपको कैसा महसूस होगा?
-How would you feel?	Wie wäre euch zumute?	आप कैसे कर पाएंगे?
-How would you feel?	Wie wäre Ihnen zumute?	आप कैसा महसूस करेंगे?
 How'd you get here?	Wie bist du hierher gekommen?	आप यहाँ कैसे आए?
 How's married life?	Wie ist das Eheleben?	यह विवाहित जीवन कैसा है?
 How's your brother?	Wie geht es deinem Bruder?	आपके भाई कैसे है?

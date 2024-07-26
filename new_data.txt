@@ -21013,3 +21013,13 @@ How old is this TV?	Wie alt ist dieser Fernseher?	यह टीवी कित�
 How old is too old?	Wie alt ist zu alt?	कितना होता है पुराना?
 How old's your son?	Wie alt ist dein Sohn?	तुम्हारे बेटे कितने साल के हैं?
 How shall I put it?	Wie soll ich es formulieren?	मैं इसे कैसे रखूँ?
+engSentence1	Wie wurde Tom getötet?	टॉम को कैसे मारा गया था?
+engSentence2	Wie wurde Tom getötet?	टॉम को कैसे मार दिया गया था?
+engSentence3	Wie war die Arbeit heute?	आज काम कैसा था?
+engSentence4	Wie war deine Nacht?	तुम्हारी रात कैसी रही?
+engSentence5	Wie war deine Nacht?	तुम्हारी रात कैसी थी?
+engSentence6	Wie war deine Nacht?	तुम्हारी रात कैसी गई?
+engSentence7	Wie werde ich es finden?	मैं इसे कैसे खोजूंगा?
+engSentence8	Wie werden sie zurechtkommen?	वे कैसे निपटेंगे?
+engSentence9	Wie würdest du dich fühlen?	तुम कैसा महसूस करेंगे?
+engSentence10	Wie würdest du dich fühlen?	तुम्हें कैसा लगेगा?
