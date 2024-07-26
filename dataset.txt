@@ -1,15 +1,4 @@
 
-Tom said he felt fine.	Tom sagte, er fühle sich gut.	टॉम ने कहा कि उन्हें अच्छा लगा।
-Tom said he felt fine.	Tom sagte, dass er sich gut fühle.	टॉम ने कहा कि वह अच्छा लगता है।
-Tom said he has to go.	Tom sagte, er muss gehen.	टॉम ने कहा कि उन्हें जाना है।
-Tom said he knew Mary.	Tom sagte, er kenne Maria.	टॉम ने कहा कि वह मारिया को जानता है।
-Tom said he was bored.	Tom sagte, er langweile sich.	टॉम ने कहा कि वह ऊब गया था।
-Tom said he was ready.	Tom sagte, er sei so weit.	टॉम ने कहा कि वह तैयार था।
-Tom said he would try.	Tom sagte, er würde es versuchen.	टॉम ने कहा कि वह कोशिश करेंगे।
-Tom said he'd be here.	Tom sagte, er würde hier sein.	टॉम ने कहा कि वह यहां होगा।
-Tom said he'd do that.	Tom sagte, er würde das tun.	टॉम ने कहा कि वह ऐसा करेगा।
-Tom said he's thirsty.	Tom sagte, er habe Durst.	टॉम ने कहा कि वह प्यासा था।
-Tom said he's thirsty.	Tom sagte, er sei durstig.	टॉम ने कहा कि वह प्यासा था।
 Tom said it as a joke.	Tom sagte das im Scherz.	टॉम ने कहा कि एक मजाक में।
 Tom said to say hello.	Tom hat mir gesagt, ich soll Hallo sagen.	टॉम ने मुझे बताया कि मुझे नमस्ते कहना चाहिए।
 Tom sat by the window.	Tom saß am Fenster.	टॉम खिड़की पर बैठा था।

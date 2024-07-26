@@ -40646,3 +40646,12 @@ Tom ridiculed my idea.	Tom hat meine Idee lächerlich gemacht.	टॉमने �
 Tom ruined my weekend.	Tom hat mein Wochenende ruiniert.	टॉमने मेरा वीकएंड बरबाद कर दिया।
 Tom said Mary is fine.	Tom sagte, dass es Mary gut geht.	टॉमनी कहा कि मैरी ठीक है।
 Tom said he disagrees.	Tom sagte, er sei anderer Meinung.	टॉमने कहा कि वह असहमत है।
+Tom said he felt fine.	Tom sagte, er fühlte sich gut.	टॉम ने कहा कि उसे अच्छा लग रहा था।
+Tom said he has to go.	Tom sagte, er müsse gehen.	टॉम ने कहा कि उसे जाना है।
+Tom said he knew Mary.	Tom sagte, er kannte Mary.	टॉम ने कहा कि उसे मैरी को जानता था।
+Tom said he was bored.	Tom sagte, er sei gelangweilt.	टॉम ने कहा कि उसे बोरी लग रही थी।
+Tom said he was ready.	Tom sagte, er sei bereit.	टॉम ने कहा कि उसे तैयार था।
+Tom said he would try.	Tom sagte, er würde es versuchen.	टॉम ने कहा कि उसे कोशिश करनी है।
+Tom said he'd be here.	Tom sagte, er wäre hier.	टॉम ने कहा कि वह यहाँ होगा।
+Tom said he'd do that.	Tom sagte, dass er das tun würde.	टॉम ने कहा कि वह वह करेगा।
+Tom said he's thirsty.	Tom sagte, er sei durstig.	टॉम ने कहा कि उसे प्यास लगी है।
