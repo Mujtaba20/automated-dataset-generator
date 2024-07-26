@@ -26449,3 +26449,13 @@ I know you're right.	Ich weiß, dass du Recht hast.	मुझे पता ह�
 I know you're upset.	Ich weiß, dass du aufgebracht bist.	मुझे पता है कि तुम परेशान हो।
 I know your brother.	Ich kenne deinen Bruder.	मुझे तुम्हारे भाई का पता है।
 I learned my lesson.	Ich habe meine Lektion gelernt.	मैंने अपना सबक सीखा।
+I leave that to you.	Das überlasse ich Ihnen.	मैं आपको यह छोड़ देता हूं।
+I let down the rope.	Ich lasse das Seil herunter.	मैं डोरी नीचे लेता हूं।
+I like Boston a lot.	Ich mag Boston sehr.	मुझे बॉस्टन बहुत पसंद है।
+I like Chinese food.	Ich mag chinesisches Essen.	मुझे चाइनीज भोजन पसंद है।
+I like French toast.	Ich mag French Toast.	मुझे फ्रेंच टोस्ट पसंद है।
+I like Tom the best.	Ich mag Tom am meisten.	मुझे Tom सबसे ज्यादा पसंद है।
+I like being single.	Ich mag es, single zu sein.	मुझे सिंगल होना पसंद है।
+I like cheese pizza.	Ich mag Käsepizza.	मुझे चीज़ पिज़्ज़ा पसंद है।
+I like dragon fruit.	Ich mag Drachenfrucht.	मुझे ड्रैगन फल पसंद है।
+I like his attitude.	Ich mag seine Einstellung.	मुझे उसकी रवैया पसंद है।
