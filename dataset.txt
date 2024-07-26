@@ -1,14 +1,4 @@
 
-You can't buy that.	Das kann man nicht kaufen.	आप इसे नहीं खरीद सकते।
-You can't buy that.	Das kannst du nicht kaufen.	आप इसे नहीं खरीद सकते।
-You can't buy that.	Das könnt ihr nicht kaufen.	आप इसे नहीं खरीद सकते।
-You can't buy that.	Das können Sie nicht kaufen.	आप इसे नहीं खरीद सकते।
-You can't buy this.	Das kann man nicht kaufen.	आप इसे नहीं खरीद सकते।
-You can't eat here.	Du kannst hier nicht essen.	आप यहां नहीं खा सकते।
-You can't fire Tom.	Du kannst Tom nicht rausschmeißen.	आप टॉम को बाहर नहीं फेंक सकते।
-You can't help Tom.	Du kannst Tom nicht helfen.	आप टॉम की मदद नहीं कर सकते।
-You can't help Tom.	Ihr könnt Tom nicht helfen.	आप टॉम की मदद नहीं कर सकते।
-You can't help Tom.	Sie können Tom nicht helfen.	आप टॉम की मदद नहीं कर सकते।
 You can't leave me.	Du kannst mich nicht verlassen.	आप मुझे नहीं छोड़ सकते।
 You can't leave me.	Ihr könnt mich nicht verlassen.	आप मुझे नहीं छोड़ सकते।
 You can't say that.	Das kannst du nicht sagen.	आप ऐसा नहीं कह सकते।

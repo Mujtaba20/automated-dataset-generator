@@ -24835,3 +24835,9 @@ You can trust them.	Du kannst ihnen vertrauen.	आप उन पर भरोस
 You can use my car.	Du kannst mein Auto benutzen.	तुम मेरी कार का इस्तेमाल कर सकते हो।
 You can't back out.	Du kannst nicht zurückziehen.	तुम पीछे हट नहीं सकते।
 You can't beat Tom.	Du kannst Tom nicht schlagen.	तुम टॉम को हरा नहीं सकते।
+You can't buy that.	Du kannst das nicht kaufen.	तुम वह खरीद नहीं सकते।
+You can't buy this.	Du kannst das nicht kaufen.	तुम यह नहीं खरीद सकते।
+You can't eat here.	Du kannst hier nicht essen.	तुम यहाँ नहीं खा सकते।
+You can't fire Tom.	Du kannst Tom nicht feuern.	तुम टॉम को नहीं निकाल सकते।
+You can't help Tom.	Du kannst Tom nicht helfen.	तुम टॉम की मदद नहीं कर सकते।
+You can't assist Tom.	Du kannst Tom nicht unterstützen.	तुम टॉम की सहायता नहीं कर सकते।
