@@ -27125,3 +27125,10 @@ I'm resting my legs.	Ich ruhe meine Beine aus.	मैं अपनी टां�
 I'm right, aren't I?	Ich habe recht, oder?	मेरी बात सही है, ना?
 I'm rooting for you.	Ich drücke dir die Daumen.	मैं तुम्हारे लिए प्रार्थना कर रहा हूँ।
 I'm sad without you.	Ohne dich bin ich traurig.	तुम्हारे बिना मुझे उदासी महसूस हो रही है।
+I'm seeing somebody.	Ich sehe jemanden.	मैं किसी को देख रहा हूँ।
+I'm sick of English.	Mir reicht Englisch.	मुझे अंग्रेजी से ऊब आ गई है।
+I'm slightly hungry.	Ich bin ein wenig hungrig.	मुझे थोड़ी भूख लगी है।
+I'm so proud of Tom.	Ich bin so stolz auf Tom.	मैं टॉम पर इतना गर्व कर रहा हूँ।
+I'm so proud of you.	Ich bin so stolz auf dich.	मैं तुम पर इतना गर्व कर रहा हूँ।
+I'm sorry. I forgot.	Es tut mir leid. Ich habe vergessen.	मुझे माफ़ करना। मैं भूल गया।
+I'm still in school.	Ich bin immer noch in der Schule.	मैं अभी भी स्कूल में हूँ।

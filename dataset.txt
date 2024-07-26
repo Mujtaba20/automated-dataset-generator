@@ -1,14 +1,4 @@
 
-I'm seeing somebody.	Ich bin mit jemandem zusammen.	मैं किसी के साथ हूं।
-I'm sick of English.	Ich bin des Englischen überdrüssig.	मैं अंग्रेजी से थक गया हूं।
-I'm sick of English.	Ich habe die Nase voll von Englisch.	मेरी नाक अंग्रेजी से भरी है।
-I'm sick of English.	Ich habe das Englische satt.	मैं अंग्रेजी से तंग आ गया था।
-I'm sick of English.	Ich habe genug vom Englischen.	मेरे पास पर्याप्त अंग्रेजी है।
-I'm slightly hungry.	Ich bin leicht hungrig.	मैं थोड़ा भूखा हूं।
-I'm so proud of Tom.	Ich bin so stolz auf Tom.	मुझे टॉम पर बहुत गर्व है।
-I'm so proud of you.	Ich bin so stolz auf dich!	मुझे आप पर गर्व है!
-I'm sorry. I forgot.	Entschuldige! Das habe ich vergessen.	क्षमा मांगना!मैं भूल गया।
-I'm still in school.	Ich bin noch in der Schule.	मैं अभी भी स्कूल में हूं।
 I'm still undecided.	Ich bin noch unentschlossen.	मैं अभी भी अनिर्दिष्ट हूं।
 I'm still your boss.	Ich bin immer noch dein Chef.	मैं अभी भी आपका बॉस हूं।
 I'm still your boss.	Ich bin immer noch euer Chef.	मैं अभी भी आपका बॉस हूं।
