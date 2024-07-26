@@ -1,15 +1,4 @@
 
-I'm short of money.	Ich leide unter Geldmangel.	मैं पैसे की कमी से पीड़ित हूं।
-I'm short of money.	Ich bin knapp bei Kasse.	मैं सिर्फ नकदी पर हूं।
-I'm sick of French.	Ich hab' die Nase voll von Französisch.	मेरी नाक फ्रेंच से भरी है।
-I'm so embarrassed.	Ich bin so beschämt!	मुझे बहुत शर्म आती है!
-I'm sorry I'm late.	Entschuldigen Sie die Verspätung.	विलंब के लिए क्षमा चाहते हैं।
-I'm sorry for that.	Das tut mir leid.	उसके लिए क्षमा करें।
-I'm sorry for this.	Das tut mir leid.	उसके लिए क्षमा करें।
-I'm still in shape.	Ich bin noch immer in Form.	मैं अभी भी आकार में हूं।
-I'm still in shock.	Ich stehe noch immer unter Schock.	मैं अभी भी सदमे में हूं।
-I'm still the boss.	Ich bin immer noch der Chef.	मैं अभी भी बॉस हूं।
-I'm still the boss.	Ich bin immer noch die Chefin.	मैं अभी भी बॉस हूं।
 I'm still too weak.	Ich bin noch zu schwach.	मैं अभी भी बहुत कमजोर हूं।
 I'm supporting you.	Ich unterstütze dich.	मैं आपका समर्थन करता हूँ।
 I'm supporting you.	Ich unterstütze euch.	मैं आपका समर्थन करता हूँ।
