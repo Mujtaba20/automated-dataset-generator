@@ -38034,3 +38034,9 @@ I will make you happy.	Ich werde dich glücklich machen.	मैं तुम्�
 I will need your help.	Ich werde deine Hilfe benötigen.	मुझे तुम्हारी मदद की आवश्यकता है।
 I will return at 6:30.	Ich komme um 6:30 Uhr zurück.	मैं 6:30 बजे वापस आऊँगा।
 I will write about it.	Ich werde darüber schreiben.	मैं इसके बारे में लिखूंगा।
+I wish I had a sister.	Ich wünschte, ich hätte eine Schwester.	मुझे चाहिए कि मेरे पास एक बहन हो।
+I wish I had seen her.	Ich wünschte, ich hätte sie gesehen.	मुझे चाहिए कि मैंने use देखा होता।
+I wish I had your job.	Ich wünschte, ich hätte deinen Job.	मुझे चाहिए कि मेरा काम तुम्हारा होता।
+I wish I hadn't cried.	Ich wünschte, ich hätte nicht geweint.	मैं चाहता कि मैंने रोना पाया था।
+I wish I was like him.	Ich wünschte, ich wäre wie er.	मुझे चाहिए कि मैं use जैसा होता।
+I wish I was with you.	Ich wünschte, ich wäre bei dir.	मुझे चाहिए कि मैं तुम्हारे साथ हो।
