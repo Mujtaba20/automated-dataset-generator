@@ -39253,3 +39253,10 @@ Take me home with you.	Nimm mich mit nach Hause.	मुझे ले जाओ �
 Take me to your place.	Bringe mich zu dir nach Hause.	मुझे अपने जगह ले जाओ।
 Take off your clothes.	Zieh deine Kleidung aus.	अपने कपड़े उतारो।
 Take off your glasses.	Nimm deine Brille ab.	अपने चश्मे उतारो।
+Take us with you, Tom.	Nimm uns mit, Tom.	टॉम, हमें साथ ले जाओ।
+Tasmania is an island.	Tasmanien ist eine Insel.	टैस्मानिया एक द्वीप है।
+Teach me how to do it.	Zeig mir, wie es gemacht wird.	मुझे बताओ कैसे करें।
+Tears came to my eyes.	Tränen kamen in meine Augen.	आंसू मेरी आंखों में आए।
+Tell Tom I'll be back.	Sag Tom, dass ich zurückkomme.	टॉम को कहो, मैं वापस आऊँगा।
+Tell Tom I'm innocent.	Sag Tom, ich bin unschuldig.	टॉम को बताओ, मैं बेगुनाह हूँ।
+Tell Tom what that is.	Sag Tom, was das ist.	टॉम को बताओ कि वह क्या है।
