@@ -28132,3 +28132,13 @@ That's over my head.	Das geht über meinen Kopf hinaus.	वह मेरे स�
 That's quite absurd.	Das ist ziemlich absurd.	यह काफी बेतुका है।
 That's really funny.	Das ist wirklich lustig.	यह सच में मजेदार है।
 That's really sweet.	Das ist wirklich süß.	यह सच में प्यारा है।
+That's really weird.	Das ist wirklich seltsam.	यह सचमुच अजीब है।
+That's self-evident.	Das ist offensichtlich.	यह स्वयंसिद्ध है।
+That's sweet of you.	Das ist lieb von dir.	तुम्हारा यह स्वीट है।
+That's sweet of you. (Different meaning)	Das ist nett von dir.	तुम्हारा यह प्यारा है।
+That's sweet of you. (Different meaning 2)	Das ist süß von dir.	तुम्हारा यह मीठा है।
+That's the attitude.	Das ist die Einstellung.	यह दिखावा है।
+That's the goal now.	Das ist jetzt das Ziel.	वह अब लक्ष्य है।
+That's the only way.	Das ist der einzige Weg.	यह ही एकमात्र तरीका है।
+That's too personal.	Das ist zu persönlich.	यह बहुत व्यक्तिगत है।
+That's true as well.	Das ist auch wahr.	यह भी सच है।
