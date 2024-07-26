@@ -28012,3 +28012,8 @@ Take the next right.	Nimm die nächste Rechtsabbiegung.	अगली दाई�
 Take these with you.	Nimm diese mit dir.	ये अपने साथ ले लो।
 Take your shirt off.	Zieh dein Hemd aus.	अपनी कमीज़ उतारो।
 Take your shoes off.	Zieh deine Schuhe aus.	अपनी जूते उतारो।
+Talk to my attorney.	Sprich mit meinem Anwalt.	मेरे वकील से बात करो।
+Tell Tom I love him.	Sag Tom, dass ich ihn liebe.	तोम से कहो कि मैं उसे प्यार करता हूँ।
+Tell Tom I'm eating.	Sag Tom, ich esse gerade.	तोम से कहो, मैं खा रहा हूं।
+Tell Tom I'm joking.	Sag Tom, ich mache nur Spaß.	तोम से कहो, मैं मजाक कर रहा हूँ।
+Tell Tom what to do.	Sag Tom, was er tun soll.	तोमे से कहो कि क्या करना चाहिए।

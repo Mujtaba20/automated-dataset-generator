@@ -1,15 +1,4 @@
 
-Talk to my attorney.	Sprechen Sie mit meinem Anwalt.	मेरे वकील से बात करें।
-Tell Tom I love him.	Sage Tom, dass ich ihn liebe!	टॉम कहो कि मैं उससे प्यार करता हूँ!
-Tell Tom I'm eating.	Sag Tom, dass ich gerade etwas esse!	टॉम कहो कि मैं कुछ खा रहा हूँ!
-Tell Tom I'm eating.	Sagt Tom, dass ich gerade etwas esse!	टॉम कहते हैं कि मैं कुछ खा रहा हूँ!
-Tell Tom I'm eating.	Sagen Sie Tom, dass ich gerade etwas esse!	टॉम कहो कि मैं कुछ खा रहा हूँ!
-Tell Tom I'm joking.	Sag Tom, dass ich nur Spaß mache!	टॉम कहो कि मैं सिर्फ मजेदार हूँ!
-Tell Tom I'm joking.	Sagt Tom, dass ich nur Spaß mache!	टॉम कहते हैं कि मैं सिर्फ मजेदार हूँ!
-Tell Tom I'm joking.	Sagen Sie Tom, dass ich nur Spaß mache!	टॉम कहो कि मैं सिर्फ मजेदार हूँ!
-Tell Tom what to do.	Sag Tom, was er tun soll!	टॉम कहो क्या करना है!
-Tell Tom what to do.	Sagt Tom, was er tun soll!	टॉम कहते हैं कि क्या करना है!
-Tell Tom what to do.	Sagen Sie Tom, was er tun soll!	टॉम कहो क्या करना है!
 Tell her to call me.	Sag' ihr, sie soll mich anrufen.	उसे बताओ, उसे मुझे फोन करना चाहिए।
 Tell him to call me.	Sag' ihm, er soll mich anrufen.	उसे बताओ, उसे मुझे फोन करना चाहिए।
 Tell me over dinner.	Erzähl es mir beim Abendessen.	रात के खाने में मुझे बताओ।
