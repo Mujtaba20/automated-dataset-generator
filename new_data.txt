@@ -22347,3 +22347,11 @@ It's made of brass.	Es ist aus Messing gemacht.	यह पीतल से ब�
 It's me again, Tom.	Das bin wieder ich, Tom.	यह फिर से मैं हूँ, टॉम।
 It's merely a joke.	Es ist nur ein Witz.	यह केवल एक मजाक है।
 It's my first time.	Es ist das erste Mal für mich.	यह मेरी पहली बार है।
+It's my last offer.	Es ist mein letztes Angebot.	यह मेरी अंतिम पेशकश है।
+It's nice and cool.	Es ist schön und kühl.	यह अच्छा और ठंडा है।
+It's nice and warm.	Es ist schön und warm.	यह अच्छा और गरम है।
+It's not a problem.	Es ist kein Problem.	यह कोई समस्या नहीं है।
+It's not important.	Es ist nicht wichtig.	यह महत्वपूर्ण नहीं है।
+It's not like that.	Es ist nicht so.	ऐसा नहीं है।
+It's not safe here.	Es ist hier nicht sicher.	यहाँ सुरक्षित नहीं है।
+It's not that cold.	Es ist nicht so kalt.	इतना ठंडा नहीं है।

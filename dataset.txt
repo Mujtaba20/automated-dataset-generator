@@ -1,14 +1,4 @@
 
-It's my last offer.	Das ist mein letztes Angebot.	यह मेरा आखिरी प्रस्ताव है।
-It's nice and cool.	Es ist schön kühl.	यह अच्छा और अच्छा है।
-It's nice and cool.	Es ist angenehm kühl.	यह सुखद शांत है।
-It's nice and warm.	Es ist schön und warm.	यह अच्छा और गर्म है।
-It's nice and warm.	Es ist schön warm.	यह अच्छा और गर्म है।
-It's not a problem.	Das ist kein Problem.	वह कोई समस्या नहीं।
-It's not important.	Das ist nicht wichtig.	यह महत्वपूर्ण नहीं है।
-It's not like that.	So ist es nicht.	ऐसा नहीं है।
-It's not safe here.	Es ist hier nicht sicher.	यहाँ निश्चित नहीं है।
-It's not that cold.	So kalt ist es nicht.	यह ठंडा नहीं है।
 It's not up to you.	Es liegt nicht an dir.	यह तुम नहीं हों।
 It's not very good.	Es ist nicht sehr gut.	यह बहुत अच्छा नहीं है।
 It's now your turn.	Jetzt bist du dran.	अब आपकी बारी है।
