@@ -1,16 +1,4 @@
 
-What were they saying?	Was haben sie gesagt?	क्या कहा आपने?
-What were we thinking?	Was haben wir uns bloß dabei gedacht?	हमने क्या सोचा?
-What would you change?	Was würdest du ändern?	तुम क्या बदलोगे?
-What would you change?	Was würdet ihr ändern?	तुम क्या बदलोगे?
-What would you change?	Was würden Sie ändern?	तुम क्या बदलोगे?
-What you said is true.	Was du gesagt hast, stimmt.	आपने जो कहा वह सच है।
-What you say is right.	Es stimmt, was du sagst.	यह सच है कि आप क्या कहते हैं।
-What you say is right.	Es stimmt, was Sie sagen.	यह सच है कि आप क्या कहते हैं।
-What you say is right.	Es stimmt, was ihr sagt.	यह सच है कि आप क्या कहते हैं।
-What you say is right.	Was Sie sagen, ist richtig.	आप जो कहते हैं वह सही है।
-What you say is right.	Was du sagst, ist richtig.	आप जो कहते हैं वह सही है।
-What you say is right.	Was du sagst, stimmt.	आप जो कहते हैं वह सच है।
 What'll Tom show Mary?	Was wird Tom Maria zeigen?	टॉम मारिया क्या दिखाएगा?
 What're they planning?	Was haben sie vor?	आप क्या करने जा रहे हैं?
 What're they planning?	Was planen sie?	आप क्या योजना बना रहे हैं?

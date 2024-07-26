@@ -41325,3 +41325,8 @@ What was it all about?	Worum ging es?	सब कुछ क्या था?
 What was the question?	Was war die Frage?	सवाल क्या था?
 What was the response?	Was war die Antwort?	जवाब क्या था?
 What went wrong there?	Was ist dort schief gelaufen?	वहाँ क्या गलत हुआ?
+What were they saying?	Was haben sie gesagt?	वे क्या कह रहे थे?
+What were we thinking?	Was haben wir gedacht?	हम क्या सोच रहे थे?
+What would you change?	Was würdest du ändern?	तुम क्या परिवर्तन करोगे?
+What you said is true.	Was du gesagt hast, ist wahr.	तुमने जो कहा है, सच है।
+What you say is right.	Was du sagst, ist richtig.	तुम जो कहते हो, सही है।
