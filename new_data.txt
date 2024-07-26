@@ -33174,3 +33174,8 @@ No one reads my blog.	Niemand liest meinen Blog.	कोई मेरा ब्�
 No one said anything.	Niemand hat etwas gesagt.	किसी ने कुछ नहीं कहा।
 No one wanted to eat.	Niemand wollte essen.	किसी को खाने का मन नहीं था।
 No one was awake yet.	Niemand war noch wach.	किसी भी नहीं जागा था।
+No one was listening.	Niemand hat zugehört.	कोई भी सुन रहा नहीं था।
+No one went near him.	Niemand ist ihm nähergekommen.	किसी ने उसके पास नहीं गया।
+No one will be fired.	Niemand wird entlassen.	किसी को काम से बाहर नहीं किया जाएगा।
+No one will find out.	Niemand wird es herausfinden.	किसी को पता नहीं चलेगा।
+No one will hurt you.	Niemand wird dir wehtun.	किसी को तुम्हें चोट नहीं पहुंचाएगा।
