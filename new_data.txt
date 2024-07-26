@@ -32111,3 +32111,11 @@ I thank you for that.	Ich danke dir dafür.	उसके लिए मैं आ
 I think I can fix it.	Ich denke, ich kann es reparieren.	मुझे लगता है कि मैं इसे ठीक कर सकता हूँ।
 I think I could help.	Ich denke, ich könnte helfen.	मुझे लगता है कि मैं मदद कर सकता हूँ।
 I think I get it now.	Ich glaube, ich verstehe es jetzt.	मुझे लगता है कि अब मुझे समझ आ गई है।
+I think I understand.	Ich denke, ich verstehe.	मुझे लगता है कि मैं समझता हूँ।
+I think I understood.	Ich glaube, ich habe verstanden.	मुझे लगता है कि मैंने समझ लिया।
+I think I'll be fine.	Ich denke, es wird mir gut gehen.	मुझे लगता है कि मैं ठीक हो जाऊंगा।
+I think I'll be late.	Ich glaube, ich werde mich verspäten.	मुझे लगता है कि मैं देर से पहुंचूंगा।
+I think I'll do that.	Ich denke, ich werde das tun.	मुझे लगता है कि मैं वह करूंगा।
+I think I'll go home.	Ich denke, ich gehe nach Hause.	मुझे लगता है कि मैं घर जाऊंगा।
+I think I'll make it.	Ich denke, ich werde es schaffen.	मुझे लगता है कि मैं इसे कर पाऊंगा।
+I think I'll take it.	Ich denke, ich werde es nehmen.	मुझे लगता है कि मैं इसे लूंगा।
