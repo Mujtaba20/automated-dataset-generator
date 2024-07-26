@@ -37940,3 +37940,12 @@ I want to be with Tom.	Ich möchte bei Tom sein.	मैं टॉम के स�
 I want to be with you.	Ich möchte bei dir sein.	मैं तुम्हारे साथ रहना चाहता हूँ।
 I want to believe you.	Ich möchte dir glauben.	मैं तुम्हें विश्वास करना चाहता हूँ।
 I want to buy a house.	Ich möchte ein Haus kaufen.	मैं एक घर खरीदना चाहता हूँ।
+I want to change that.	Ich will das ändern.	मैं उसे बदलना चाहता हूँ।
+I want to do it again.	Ich will es nochmal machen.	मैं इसे फिरसे करना चाहता हूँ।
+I want to do it right.	Ich will es richtig machen.	मैं इसे सही तरीके से करना चाहता हूँ।
+I want to dye my hair.	Ich möchte meine Haare färben.	मैं अपने बालों को रंगना चाहता हूँ।
+I want to eat a mango.	Ich möchte eine Mango essen.	मैं एक आम खाना चाहता हूँ।
+I want to go downtown.	Ich will in die Innenstadt gehen.	मैं शहर के बीच जाना चाहता हूँ।
+I want to go with Tom.	Ich will mit Tom gehen.	मैं टॉम के साथ जाना चाहता हूँ।
+I want to go with you.	Ich will mit dir gehen.	मैं तुम्हारे साथ जाना चाहता हूँ।
+I want to leave early.	Ich möchte früh gehen.	मैं जल्दी जाना चाहता हूँ।

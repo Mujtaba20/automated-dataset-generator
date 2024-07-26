@@ -1,14 +1,4 @@
 
-I want to change that.	Ich möchte das ändern.	मैं वह बदलना चाहता हूँ।
-I want to do it again.	Ich möchte es noch einmal machen.	मैं इसे फिर से करना चाहता हूं।
-I want to do it right.	Ich will es richtig machen.	मैं इसे सही करना चाहता हूं।
-I want to dye my hair.	Ich möchte meine Haare färben.	मैं अपने बालों को रंगना चाहता हूं।
-I want to dye my hair.	Ich möchte mir die Haare färben.	मैं अपने बालों को डाई करना चाहता हूं।
-I want to eat a mango.	Ich möchte eine Mango essen.	मैं एक आम खाना चाहता हूं।
-I want to go downtown.	Ich möchte in die Innenstadt gehen.	मैं शहर के केंद्र में जाना चाहता हूं।
-I want to go with Tom.	Ich möchte mit Tom gehen.	मैं टॉम के साथ जाना चाहता हूं।
-I want to go with you.	Ich möchte dich begleiten.	मैं आपका साथ देना चाहता हूं।
-I want to leave early.	Ich möchte früh gehen.	मैं जल्दी जाना चाहता हूं।
 I want to lose weight.	Ich will abnehmen.	मैं अपना वजन कम करना चाहता हूँ।
 I want to lose weight.	Ich möchte abnehmen.	मैं वजन कम करना चाहता हूं।
 I want to participate.	Ich möchte mitmachen.	मैं भाग लेना चाहता हूं।
