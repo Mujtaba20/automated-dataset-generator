@@ -32984,3 +32984,10 @@ Let's finish the job.	Lassen Sie uns die Arbeit beenden.	काम पूरा 
 Let's get some lunch.	Lass uns etwas zu Mittag essen.	हमें लंच पर कुछ लेना है।
 Let's get some sleep.	Lass uns etwas schlafen.	हमें कुछ नींद लेनी चाहिए।
 Let's give it to Tom.	Lassen Sie uns es Tom geben.	तोम को दें।
+Let's go and see Tom.	Lass uns gehen und Tom sehen.	चलो और टॉम से मिलने चलें।
+Let's go by taxi, OK?	Lass uns mit dem Taxi fahren, OK?	चलो टैक्सी से चलें, ठीक है?
+Let's go for a drink.	Lass uns etwas trinken gehen.	चलो पीने चलें।
+Let's go grab a beer.	Lass uns ein Bier holen.	चलो एक बीयर लेकर चलें।
+Let's go see Tom now.	Lass uns jetzt Tom sehen.	चलो अभी टॉम से मिलने चलें।
+Let's go talk to Tom.	Lass uns mit Tom reden gehen.	चलो टॉम से बात करने चलें।
+Let's go to my place.	Lass uns zu mir gehen.	चलो मेरे पास चलें।
