@@ -1,15 +1,4 @@
 
-Tom raised his arm.	Tom hob seinen Arm.	टॉम ने अपना हाथ उठाया।
-Tom raised his hat.	Tom lüftete seinen Hut.	टॉम ने अपनी टोपी को हवादार किया।
-Tom raises orchids.	Tom züchtet Orchideen.	टॉम ब्रीड ऑर्किड।
-Tom ran after Mary.	Tom rannte hinter Maria her.	टॉम मारिया के बाद भाग गया।
-Tom ran after Mary.	Tom ist Maria nachgelaufen.	टॉम मारिया के बाद भाग गया।
-Tom ran out of gas.	Tom ging das Benzin aus.	टॉम गैस से बाहर चला गया।
-Tom ran to his car.	Tom rannte zu seinem Auto.	टॉम अपनी कार में भाग गया।
-Tom read it for me.	Tom hat es für mich gelesen.	टॉम ने इसे मेरे लिए पढ़ा।
-Tom reassured Mary.	Tom beruhigte Maria.	टॉम कैल्ड मारिया।
-Tom recommended me.	Tom hat eine Empfehlung über mich ausgesprochen.	टॉम ने मेरे बारे में एक सिफारिश की है।
-Tom recommended me.	Tom hat mich empfohlen.	टॉम ने मुझे सिफारिश की।
 Tom refused to eat.	Tom weigerte sich zu essen.	टॉम ने खाने से इनकार कर दिया।
 Tom refused to pay.	Tom weigerte sich zu bezahlen.	टॉम ने भुगतान करने से इनकार कर दिया।
 Tom resigned today.	Tom ist heute zurückgetreten.	टॉम ने आज इस्तीफा दे दिया।
