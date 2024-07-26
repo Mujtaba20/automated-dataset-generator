@@ -1,14 +1,4 @@
 
-Tom is doing well now.	Tom geht es jetzt gut.	टॉम अब अच्छा कर रहा है।
-Tom is donating blood.	Tom spendet Blut.	टॉम रक्त दान करता है।
-Tom is double-jointed.	Tom ist sehr gelenkig.	टॉम बहुत लचीला है।
-Tom is drinking juice.	Tom trinkt Saft.	टॉम का रस पीता है।
-Tom is drinking water.	Tom trinkt Wasser.	टॉम पानी पीता है।
-Tom is driving me mad.	Tom macht mich verrückt.	टॉम मुझे पागल कर देता है।
-Tom is easy to please.	Tom ist leicht zufriedenzustellen.	टॉम को संतुष्ट करना आसान है।
-Tom is eating a peach.	Tom isst einen Pfirsich.	टॉम एक आड़ू खाता है।
-Tom is eating cookies.	Tom isst Kekse.	टॉम कुकीज़ खाता है।
-Tom is eating oysters.	Tom isst Austern.	टॉम ने सीप खाया।
 Tom is extremely busy.	Tom ist äußerst beschäftigt.	टॉम बेहद व्यस्त है।
 Tom is extremely kind.	Tom ist sehr freundlich.	टॉम बहुत दोस्ताना है।
 Tom is extremely lazy.	Tom ist extrem faul.	टॉम बेहद आलसी है।

@@ -40275,3 +40275,13 @@ Tom is cute, isn't he?	Tom ist niedlich, nicht wahr?	टॉम प्यार�
 Tom is dead, isn't he?	Tom ist tot, oder?	टॉम मर गया है, ना?
 Tom is digging a hole.	Tom gräbt ein Loch.	टॉम एक गड्ढा खोद रहा है।
 Tom is doing his work.	Tom macht seine Arbeit.	टॉम अपना काम कर रहा है।
+Tom is doing well now.	Tom macht es jetzt gut.	टॉम अब अच्छा कर रहा है।
+Tom is donating blood.	Tom spendet Blut.	टॉम रक्त दे रहा है।
+Tom is double-jointed.	Tom ist zweigelenkig.	टॉम दो-संयोजित है।
+Tom is drinking juice.	Tom trinkt Saft.	टॉम रस पी रहा है।
+Tom is drinking water.	Tom trinkt Wasser.	टॉम पानी पी रहा है।
+Tom is driving me mad.	Tom macht mich verrückt.	टॉम मुझे पागल कर रहा है।
+Tom is easy to please.	Tom ist leicht zufriedenzustellen.	टॉम को खुश करना आसान है।
+Tom is eating a peach.	Tom isst einen Pfirsich.	टॉम एक आड़ू खा रहा है।
+Tom is eating cookies.	Tom isst Kekse.	टॉम कुकीज़ खा रहा है।
+Tom is eating oysters.	Tom isst Austern.	टॉम संगमरमर खा रहा है।
