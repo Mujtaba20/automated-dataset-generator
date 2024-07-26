@@ -28207,3 +28207,13 @@ The dog seems happy.	Der Hund scheint glücklich zu sein.	कुत्ता ख
 The dogs seem happy.	Die Hunde scheinen glücklich zu sein.	कुत्ते खुश लग रहे हैं।
 The door is closing.	Die Tür schließt sich.	दरवाजा बंद हो रहा है।
 engSentence	{'The door was locked.': 'Die Tür war verschlossen.', "The door won't open.": 'Die Tür lässt sich nicht öffnen.', 'The economy is good.': 'Die Wirtschaft ist gut.', 'The file is corrupt.': 'Die Datei ist beschädigt.', 'The fire alarm rang.': 'Der Feueralarm wurde ausgelöst.', 'The fish smells bad.': 'Der Fisch riecht schlecht.', 'The food is spoiled.': 'Das Essen ist verdorben.', 'The forest was dark.': 'Der Wald war dunkel.', 'The fridge is empty.': 'Der Kühlschrank ist leer.'}	{'The door was locked.': 'दरवाजा बंद था।', "The door won't open.": 'दरवाजा नहीं खुलेगा।', 'The economy is good.': 'अर्थव्यवस्था अच्छी है।', 'The file is corrupt.': 'फ़ाइल भ्रष्ट है।', 'The fire alarm rang.': 'आग अलार्म चल रहा था।', 'The fish smells bad.': 'मछली गंदी खुशबू आती है।', 'The food is spoiled.': 'खाना खराब है।', 'The forest was dark.': 'जंगल अंधेरा था।', 'The fridge is empty.': 'फ्रिज खाली है।'}
+The girl is jumping.	Das Mädchen springt.	लड़की कूद रही है।
+The grapes are sour.	Die Trauben sind sauer.	अंगूर खट्टे हैं।
+The group disbanded.	Die Gruppe löste sich auf.	समूह बिखर गया।
+The house is pretty.	Das Haus ist hübsch.	घर सुंदर है।
+The house is vacant.	Das Haus ist leer.	घर खाली है।
+The idea is not bad.	Die Idee ist nicht schlecht.	विचार बुरा नहीं है।
+The idea is not new.	Die Idee ist nicht neu.	विचार नया नहीं है।
+The kids are asleep.	Die Kinder schlafen.	बच्चे सो रहे हैं।
+The kids are scared.	Die Kinder haben Angst.	बच्चे डरे हुए हैं।
+The lake was frozen.	Der See war gefroren.	झील जमी हुई थी।

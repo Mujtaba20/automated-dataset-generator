@@ -1,14 +1,4 @@
 
-The girl is jumping.	Das Mädchen springt.	लड़की कूदती है।
-The grapes are sour.	Die Trauben sind sauer.	अंगूर गुस्से में हैं।
-The group disbanded.	Die Gruppe löste sich auf.	समूह भंग हो गया।
-The house is pretty.	Das Haus ist schön.	घर सुंदर है।
-The house is vacant.	Das Haus steht leer.	घर खाली है।
-The idea is not bad.	Die Idee ist nicht schlecht.	विचार बुरा नहीं है।
-The idea is not new.	Die Idee ist nicht neu.	विचार नया नहीं है।
-The kids are asleep.	Die Kinder schlafen.	बच्चे सोते हैं।
-The kids are scared.	Die Kinder haben Angst.	बच्चे डरते हैं।
-The lake was frozen.	Der See war zugefroren.	झील जमे हुए थी।
 The law was changed.	Das Gesetz wurde geändert.	कानून बदल दिया गया है।
 The law was changed.	Das Gesetz ist geändert worden.	कानून बदल दिया गया है।
 The letter returned.	Der Brief kam zurück.	पत्र वापस आ गया।
