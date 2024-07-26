@@ -1,14 +1,4 @@
 
-Tom is quite drunk now.	Tom ist jetzt ziemlich betrunken.	टॉम अब बहुत नशे में है।
-Tom is quite forgetful.	Tom ist ziemlich vergesslich.	टॉम बहुत भुलक्कड़ है।
-Tom is quite sarcastic.	Tom ist ziemlich sarkastisch.	टॉम बहुत व्यंग्यात्मक है।
-Tom is quite talkative.	Tom ist sehr geschwätzig.	टॉम बहुत चटपटा है।
-Tom is reading a novel.	Tom liest einen Roman.	टॉम एक उपन्यास पढ़ता है।
-Tom is ready to go out.	Tom ist bereit, auszugehen.	टॉम बाहर जाने के लिए तैयार है।
-Tom is really confused.	Tom ist wirklich verwirrt.	टॉम वास्तव में भ्रमित है।
-Tom is really friendly.	Tom ist sehr freundlich.	टॉम बहुत दोस्ताना है।
-Tom is really gullible.	Tom ist sehr naiv.	टॉम बहुत भोला है।
-Tom is really gullible.	Tom ist wirklich leichtgläubig.	टॉम वास्तव में भोला है।
 Tom is really handsome.	Tom sieht ziemlich gut aus.	टॉम बहुत अच्छा लग रहा है।
 Tom is resting at home.	Tom ruht sich zu Hause aus.	टॉम घर पर टिकी हुई है।
 Tom is right behind me.	Tom ist direkt hinter mir.	टॉम मेरे ठीक पीछे है।
