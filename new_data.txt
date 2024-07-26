@@ -33165,3 +33165,12 @@ No one else was hurt.	Niemand sonst wurde verletzt.	किसी और को �
 No one escaped alive.	Niemand entkam lebendig.	कोई भी जीवित बच नहीं सका।
 No one had an answer.	Niemand hatte eine Antwort.	किसी के पास जवाब नहीं था।
 No one here can swim.	Niemand hier kann schwimmen.	यहाँ कोई तैर सकता नहीं है।
+No one is asking you.	Niemand fragt dich.	कोई भी तुमसे पूछने को नहीं है।
+No one is downstairs.	Niemand ist unten.	कोई निचे नहीं है।
+No one is interested.	Niemand ist interessiert.	किसी को भी दिलचस्पी नहीं है।
+No one knew about it.	Niemand wusste davon.	किसी को इसके बारे में पता नहीं था।
+No one listens to me.	Niemand hört mir zu.	कोई मेरी बात नहीं सुनता।
+No one reads my blog.	Niemand liest meinen Blog.	कोई मेरा ब्लॉग नहीं पढ़ता।
+No one said anything.	Niemand hat etwas gesagt.	किसी ने कुछ नहीं कहा।
+No one wanted to eat.	Niemand wollte essen.	किसी को खाने का मन नहीं था।
+No one was awake yet.	Niemand war noch wach.	किसी भी नहीं जागा था।
