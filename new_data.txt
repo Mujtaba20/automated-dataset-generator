@@ -27926,3 +27926,8 @@ She sings very well.	Sie singt sehr gut.	वह बहुत अच्छा ग
 She speaks too much.	Sie spricht zu viel.	वह बहुत ज्यादा बोलती है।
 She still buys milk.	Sie kauft immer noch Milch.	वह अभी भी दूध खरीदती है।
 She still loved him.	Sie liebte ihn immer noch.	वह अभी भी उसे प्यार करती थी।
+She still loves him.	Sie liebt ihn weiterhin.	वह अभी भी उससे प्यार करती है।
+She stopped smoking.	Sie hörte auf zu rauchen.	उसने धूम्रपान छोड़ दिया।
+She stopped talking.	Sie hörte auf zu reden.	उसने बोलना बंद कर दिया।
+She studies English.	Sie studiert Englisch.	वह अंग्रेज़ी पढ़ती है।
+She teaches English.	Sie unterrichtet Englisch.	वह अंग्रेज़ी सिखाती है।

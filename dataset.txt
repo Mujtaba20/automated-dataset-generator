@@ -1,15 +1,4 @@
 
-She still loves him.	Sie liebt ihn immer noch.	वह अब भी उससे प्यार करती है।
-She still loves him.	Sie liebt ihn noch immer.	वह अब भी उससे प्यार करती है।
-She still loves him.	Sie liebt ihn noch.	वह अब भी उससे प्यार करती है।
-She stopped smoking.	Sie hat mit dem Rauchen aufgehört.	उसने धूम्रपान करना बंद कर दिया।
-She stopped smoking.	Sie hörte mit dem Rauchen auf.	उसने धूम्रपान करना बंद कर दिया।
-She stopped talking.	Sie hörte auf zu sprechen.	उसने बोलना बंद कर दिया।
-She stopped talking.	Sie hörte auf zu reden.	उसने बात करना बंद कर दिया।
-She studies English.	Sie studiert Englisch.	वह अंग्रेजी पढ़ती है।
-She studies English.	Sie lernt Englisch.	वह अंग्रेजी सीखती है।
-She teaches English.	Sie lehrt Englisch.	वह अंग्रेजी पढ़ाती है।
-She teaches English.	Sie unterrichtet Englisch.	वह अंग्रेजी पढ़ाती है।
 She told him a joke.	Sie erzählte ihm einen Witz.	उसने उसे एक मजाक कहा।
 She traveled by bus.	Sie ist mit dem Bus gereist.	उसने बस से यात्रा की।
 She traveled by bus.	Sie reiste mit dem Bus.	उसने बस से यात्रा की।
