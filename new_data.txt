@@ -23341,3 +23341,12 @@ Tom burned himself.	Tom hat sich verbrannt.	टॉम ने अपने आप
 Tom called in sick.	Tom rief krank an.	टॉम ने बीमार होकर फोन किया।
 Tom called me back.	Tom hat mich zurückgerufen.	टॉम ने मुझे वापस फोन किया।
 Tom came back soon.	Tom kam bald wieder.	टॉम बहुत जल्द वापस आ गया।
+Tom came on Monday.	Tom kam am Montag.	टॉम सोमवार को आया।
+Tom came to see me.	Tom kam, um mich zu sehen.	टॉम मुझसे मिलने आया।
+Tom came too early.	Tom kam zu früh.	टॉम बहुत जल्दी आ गया।
+Tom came with Mary.	Tom kam mit Mary.	टॉम मेरी के साथ आया।
+Tom came yesterday.	Tom kam gestern.	टॉम कल आया था।
+Tom can be trusted.	Tom kann vertraut werden.	टॉम पर भरोसा किया जा सकता है।
+Tom can dance well.	Tom kann gut tanzen.	टॉम अच्छा डांस कर सकता है।
+Tom can see ghosts.	Tom kann Geister sehen.	टॉम भूत देख सकता है।
+Tom can trust Mary.	Tom kann Mary vertrauen.	टॉम मेरी पर विश्वास कर सकता है।
