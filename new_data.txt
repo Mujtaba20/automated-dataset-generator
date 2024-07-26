@@ -36911,3 +36911,10 @@ He was just behind me.	Er war direkt hinter mir.	वह मेरे पीछ�
 He was moved to tears.	Er wurde zu Tränen gerührt.	उसे रोने दिया गया था।
 He was my best friend.	Er war mein bester Freund.	वह मेरा सबसे अच्छा दोस्त था।
 He was my only friend.	Er war mein einziger Freund.	वह मेरा एकमात्र दोस्त था।
+He was nearly drowned.	Er wäre fast ertrunken.	उसका विचार कर एक बार डूबने वाला था।
+He was painfully thin.	Er war schmerzlich dünn.	उसका सेहत दर्दनाक तोता हुआ था।
+He was sick last week.	Er war letzte Woche krank.	पिछले हफ्ते उसे बीमारी थी।
+He was snoring loudly.	Er schnarchte laut.	वह जोर जोर से खर्राटे ले रहा था।
+He was staring at her.	Er starrte sie an.	उसने उसे घूरा।
+He was unable to move.	Er konnte sich nicht bewegen.	उसे हिलने में असमर्थता थी।
+He was very insistent.	Er war sehr beharrlich.	वह बहुत ज़ोर देता था।
