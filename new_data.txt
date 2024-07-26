@@ -29277,3 +29277,13 @@ Tom should thank me.	Tom sollte mir danken.	टॉम को मुझसे ध
 Tom should've known.	Tom hätte es wissen sollen.	टॉम को पता होना चाहिए था।
 Tom shouted at Mary.	Tom schrie Mary an.	टॉम ने मेरी पे चिल्लाया।
 Tom showed it to me.	Tom hat es mir gezeigt.	टॉम ने मुझे दिखाया।
+Tom shut the window.	Tom schloss das Fenster.	टॉमने खिड़की बंद की।
+Tom sided with Mary.	Tom stand auf Marys Seite.	टॉमने मेयरी के साथ विपक्ष किया।
+Tom signed the bill.	Tom unterschrieb die Rechnung.	टॉमने बिल पर हस्ताक्षर किए।
+Tom sings very well.	Tom singt sehr gut.	टॉम बहुत अच्छा गाता है।
+Tom sipped some tea.	Tom trank etwas Tee.	टॉमने थोड़ी चाय पी।
+Tom skipped a grade.	Tom hat eine Klasse übersprungen.	टॉमने एक ग्रेड छोड़ दी।
+Tom smiled politely.	Tom lächelte höflich.	टॉमने शिष्ट रूप से मुस्काया।
+Tom speaks too fast.	Tom spricht zu schnell.	टॉम बहुत तेज़ी से बोलता है।
+Tom spoke very well.	Tom sprach sehr gut.	टॉमने बहुत अच्छे से बोला।
+Tom started dancing.	Tom begann zu tanzen.	टॉमने नृत्य करना शुरू किया।
