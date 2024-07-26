@@ -27860,3 +27860,11 @@ She cooks very well.	Sie kocht sehr gut.	वह बहुत अच्छा ख
 She cried all night.	Sie hat die ganze Nacht geweint.	उसने पूरी रात रोते रहा।
 She danced with him.	Sie tanzte mit ihm.	उसने उसके साथ नृत्य किया।
 She danced with joy.	Sie tanzte vor Freude.	वह खुशी से नृत्य किया।
+She did pretty well.	Sie machte es ziemlich gut.	उसने काफी अच्छा काम किया।
+She didn't like him.	Sie mochte ihn nicht gern.	उसे उसका पसंद नहीं था।
+She does look tired.	Sie sieht müde aus.	वह थकी हुई लग रही है।
+She does talk a lot.	Sie redet viel.	वह बहुत बोलती है।
+She drives me crazy.	Sie macht mich verrückt.	वह मुझे पागल कर रही है।
+She feels bad today.	Sie fühlt sich heute schlecht.	उसे आज बुरा लग रहा है।
+She gave him a book.	Sie gab ihm ein Buch.	उसने उसे एक किताब दी।
+She gave me a watch.	Sie gab mir eine Uhr.	उसने मुझे एक घड़ी दी।
