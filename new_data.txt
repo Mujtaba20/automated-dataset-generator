@@ -26249,3 +26249,10 @@ I feel like dancing.	Ich möchte tanzen.	मुझे नृत्य करन�
 I feel somewhat sad.	Ich fühle mich ein wenig traurig.	मुझे कुछ उदास महसूस हो रहा है।
 I feel the same way.	Ich fühle genauso.	मैं उसी तरीके से महसूस कर रहा हूँ।
 I felt out of place.	Ich habe mich unwohl gefühlt.	मैंने अजीब महसूस किया।
+I felt the same way.	Ich fühlte genauso.	मैं वही तरीके से महसूस किया.
+I find swimming fun.	Ich finde Schwimmen spaßig.	मुझे तैरना मजेदार लगता है।
+I folded the towels.	Ich habe die Handtücher gefaltet.	मैंने तौलिये बाँध ली।
+I forgot about that.	Das habe ich vergessen.	मैं उसके बारे में भूल गया।
+I forgot to ask Tom.	Ich habe vergessen, Tom zu fragen.	मैंने टॉम को पूछना भूल गया।
+I forgot to ask him.	Ich habe vergessen, ihn zu fragen.	मैंने उससे पूछना भूल गया।
+I found Tom's diary.	Ich fand Toms Tagebuch.	मैंने टॉम की डायरी खोजी।
