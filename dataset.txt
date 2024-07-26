@@ -1,14 +1,4 @@
 
-Tom is very inflexible.	Tom ist sehr unflexibel.	टॉम बहुत अनम्य है।
-Tom is very kind to us.	Tom ist sehr nett zu uns.	टॉम हमारे लिए बहुत अच्छा है।
-Tom is very mean to me.	Tom ist sehr gemein zu mir.	टॉम मेरे लिए बहुत मतलबी है।
-Tom is very nice to me.	Tom ist sehr nett zu mir.	टॉम मेरे लिए बहुत अच्छा है।
-Tom is very optimistic.	Tom ist sehr optimistisch.	टॉम बहुत आशावादी है।
-Tom is very perceptive.	Tom ist sehr scharfsinnig.	टॉम बहुत सरल है।
-Tom is very persistent.	Tom ist sehr hartnäckig.	टॉम बहुत लगातार है।
-Tom is very photogenic.	Tom ist sehr photogen.	टॉम बहुत फोटोजेनिक है।
-Tom is very successful.	Tom ist sehr erfolgreich.	टॉम बहुत सफल है।
-Tom is very unfriendly.	Tom ist sehr unfreundlich.	टॉम बहुत ही अनफ्रेंडली है।
 Tom is very unreliable.	Tom ist sehr unzuverlässig.	टॉम बहुत अविश्वसनीय है।
 Tom is very untalented.	Tom ist ziemlich untalentiert.	टॉम बहुत ही अनियंत्रित है।
 Tom is waiting for you.	Tom wartet auf dich.	टॉम आपका इंतजार कर रहा है।
