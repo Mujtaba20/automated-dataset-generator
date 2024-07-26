@@ -1,14 +1,4 @@
 
-The barn was empty.	Der Stall war leer.	स्थिर खाली था।
-The barn's on fire.	Die Scheune brennt.	खलिहान जलता है।
-The barrel is full.	Das Fass ist voll.	बैरल भरा हुआ है।
-The battery's dead.	Die Batterie ist leer.	बैटरी खत्म हो चुकी है.
-The battery's dead.	Der Akku ist leer.	बैटरी खाली है।
-The bird flew away.	Der Vogel ist weggeflogen.	पक्षी उड़ गया।
-The bottle is full.	Die Flasche ist voll.	बोतल भरी हुई है।
-The boy is jumping.	Der Junge springt.	लड़का कूदता है।
-The boy is thirsty.	Der Junge ist durstig.	लड़का प्यासा है।
-The boy is thirsty.	Der Junge hat Durst.	लड़का प्यासा है।
 The boy was silent.	Der Junge war still.	लड़का शांत था।
 The boys are noisy.	Die Jungen machen Lärm.	लड़के शोर करते हैं।
 The bread is fresh.	Das Brot ist frisch.	रोटी ताजा है।

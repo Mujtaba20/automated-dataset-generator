@@ -22955,3 +22955,11 @@ The baby is asleep.	Das Baby schläft.	बच्चा सो रहा है�
 The baby is crying.	Das Baby weint.	बच्चा रो रहा है।
 The baby was naked.	Das Baby war nackt.	बच्चा नंगा था।
 The bar was packed.	Die Bar war voll.	बार भरा हुआ था।
+The barn was empty.	Die Scheune war leer.	खली था।
+The barn's on fire.	Die Scheune brennt.	बर्न आग में है।
+The barrel is full.	Das Fass ist voll.	बैरल भरा हुआ है।
+The battery's dead.	Der Akku ist leer.	बैटरी मर गई है।
+The bird flew away.	Der Vogel flog weg.	पंछी उड़ गया।
+The bottle is full.	Die Flasche ist voll.	बोतल भरी हुई है।
+The boy is jumping.	Der Junge springt.	लड़का कूद रहा है।
+The boy is thirsty.	Der Junge ist durstig.	लड़का प्यासा है।
