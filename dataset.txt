@@ -1,14 +1,4 @@
 
-Some people were late.	Einige kamen zu spät.	कुछ देर हो चुकी थी।
-Some people were late.	Einige verspäteten sich.	कुछ देर हो चुकी थी।
-Somebody poisoned Tom.	Jemand hat Tom vergiftet.	किसी ने टॉम को जहर दिया।
-Somebody poisoned Tom.	Jemand vergiftete Tom.	किसी ने टॉम को जहर दिया।
-Somebody stole my car.	Jemand hat mein Auto geklaut.	किसी ने मेरी कार चुरा ली।
-Someday I'll beat you.	Eines Tages werde ich dich besiegen!	एक दिन मैं तुम्हें हरा दूंगा!
-Someone asked for you.	Es hat jemand nach dir gefragt.	किसी ने आपसे पूछा।
-Someone open the door.	Kann jemand die Tür aufmachen?	क्या कोई दरवाजा खोल सकता है?
-Someone stole my cash.	Jemand hat mir mein Bargeld gestohlen.	किसी ने मेरी नकदी चुरा ली।
-Someone took my place.	Jemand hat mir meinen Platz weggenommen.	किसी ने मेरी जगह मुझसे दूर ले गई।
 Someone took my stuff.	Jemand nahm meine Sachen.	किसी ने मेरी चीजें ली।
 Something has changed.	Etwas hat sich geändert.	कुछ बदल गया है।
 Something has changed.	Etwas ist anders.	कुछ अलग है।

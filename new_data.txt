@@ -39200,3 +39200,11 @@ Shut the door, please.	Bitte die Tür zumachen.	कृपया दरवाज�
 Sign it at the bottom.	Unterschreiben Sie es unten.	नीचे हस्ताक्षर करें।
 Simplicity is the key.	Einfachheit ist der Schlüssel.	सरलता महत्वपूर्ण है।
 engSentence		
+Some people were late.	Einige Personen kamen zu spät.	कुछ लोग देर से पहुंचे थे।
+Somebody poisoned Tom.	Irgendjemand hat Tom vergiftet.	किसी ने टॉम को जहर दिया।
+Somebody stole my car.	Jemand hat mein Auto gestohlen.	किसी ने मेरी कार चुराई।
+Someday I'll beat you.	Eines Tages werde ich dich schlagen.	कभी न कभी मैं तुम्हें हराऊँगा।
+Someone asked for you.	Jemand hat nach dir gefragt.	किसी ने तुम्हारे बारे में पूछा।
+Someone open the door.	Jemand öffne die Tür.	कोई दरवाज़ा खोलो।
+Someone stole my cash.	Jemand hat mein Bargeld gestohlen.	किसी ने मेरे पैसे चुराए।
+Someone took my place.	Jemand hat meinen Platz eingenommen.	किसी ने मेरी जगह ले ली।
