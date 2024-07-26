@@ -25758,3 +25758,12 @@ He opposed the plan.	Er widersetzte sich dem Plan.	उसने योजना 
 He parties too much.	Er feiert zu viel.	वह बहुत ज्यादा पार्टी करता है।
 He popped the trunk.	Er öffnete den Kofferraum.	उसने ट्रंक खोल दिया।
 He pushed me gently.	Er hat mich sanft geschoben.	उसने मुझे हल्के हाथों से धकेला।
+He raised his hands.	Er hob die Hände.	उसने अपने हाथ ऊँचे किए।
+He ran for his life.	Er rannte um sein Leben.	उसने अपनी जान बचाने के लिए दौड़ा।
+He ran out of money.	Er ging das Geld aus.	उसके पास पैसे खत्म हो गए।
+He reached his goal.	Er erreichte sein Ziel.	उसने अपने लक्ष्य तक पहुंच गया।
+He runs a shoe shop.	Er betreibt einen Schuhladen.	वह एक जूते की दुकान चलाता है।
+He runs the fastest.	Er läuft am schnellsten.	वह सबसे तेज दौड़ता है।
+He said he was poor.	Er sagte, er sei arm.	उसने कहा कि वह गरीब है।
+He sat in the chair.	Er saß auf dem Stuhl.	उसने कुर्सी पर बैठा।
+He sat on the bench.	Er saß auf der Bank.	वह बेंच पर बैठा था।
