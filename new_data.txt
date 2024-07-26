@@ -25406,3 +25406,9 @@ Don't ask for money.	Fragen Sie nicht nach Geld.	पैसे मांगने
 Don't be a stranger.	Sei kein Fremder.	पराया मत बनो।
 Don't be disgusting.	Nicht widerlich sein.	भद्दा मत बनो।
 Don't be ridiculous!	Sei nicht lächerlich!	बेतुका मत बनो!
+Don't bother me now.	Belästige mich jetzt nicht.	अब मुझे परेशान न करें।
+Don't call Tom that.	Nenne Tom nicht so.	टॉम को वैसे मत बुलाओ।
+Don't call me again.	Ruf mich nicht wieder an.	मुझे फिर से मत फ़ोन करो।
+Don't call the cops.	Rufe nicht die Polizei an.	पुलिस को मत बुलाओ।
+Don't climb on this!	Klettere nicht darauf!	इस पर चढ़ने की कोशिश मत करो!
+Don't bother me now. (Different meaning)	Lass mich jetzt in Ruhe.	अब मुझे तंग मत करो।
