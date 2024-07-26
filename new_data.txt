@@ -24122,3 +24122,12 @@ Tom was wide awake.	Tom war hellwach.	टॉम बिल्कुल जाग�
 Tom washed himself.	Tom hat sich gewaschen.	टॉम ने खुद को धोया।
 Tom washed the car.	Tom hat das Auto gewaschen.	टॉम ने कार को धो दिया।
 Tom wasn't a miner.	Tom war kein Bergmann.	टॉम एक माइनर नहीं था।
+Tom wasn't at home.	Tom war nicht zu Hause.	टॉम घर पर नहीं था।
+Tom wasn't invited.	Tom wurde nicht eingeladen.	टॉम को नहीं बुलाया गया था।
+Tom wasn't jealous.	Tom war nicht eifersüchtig.	टॉम ज़लील नहीं था।
+Tom wasn't leaving.	Tom ging nicht weg.	टॉम नहीं रहा जा रहा था।
+Tom wasn't married.	Tom war nicht verheiratet.	टॉम शादीशुदा नहीं था।
+Tom wasn't nervous.	Tom war nicht nervös.	टॉम घबराया नहीं था।
+Tom wasn't pleased.	Tom war nicht zufrieden.	टॉम खुश नहीं था।
+Tom wasn't running.	Tom lief nicht.	टॉम नहीं भाग रहा था।
+Tom wasn't serious.	Tom war nicht ernst.	टॉम गंभीर नहीं था।

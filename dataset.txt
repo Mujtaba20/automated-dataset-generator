@@ -1,14 +1,4 @@
 
-Tom wasn't at home.	Tom war nicht zu Hause.	टॉम घर पर नहीं था।
-Tom wasn't invited.	Tom ist nicht eingeladen worden.	टॉम को आमंत्रित नहीं किया गया है।
-Tom wasn't invited.	Tom wurde nicht eingeladen.	टॉम को आमंत्रित नहीं किया गया था।
-Tom wasn't jealous.	Tom war nicht eifersüchtig.	टॉम को ईर्ष्या नहीं थी।
-Tom wasn't leaving.	Tom ging nicht.	टॉम ने काम नहीं किया।
-Tom wasn't married.	Tom war unverheiratet.	टॉम अविवाहित था।
-Tom wasn't nervous.	Tom war nicht nervös.	टॉम नर्वस नहीं था।
-Tom wasn't pleased.	Tom war nicht erbaut.	टॉम नहीं बनाया गया था।
-Tom wasn't running.	Tom rannte nicht.	टॉम नहीं भागा।
-Tom wasn't serious.	Tom hat es nicht ernst gemeint.	टॉम का मतलब गंभीरता से नहीं था।
 Tom wasn't smoking.	Tom rauchte nicht.	टॉम ने धूम्रपान नहीं किया।
 Tom wasn't thirsty.	Tom hatte keinen Durst.	टॉम की कोई प्यास नहीं थी।
 Tom wasn't thirsty.	Tom war nicht durstig.	टॉम प्यास नहीं था।
