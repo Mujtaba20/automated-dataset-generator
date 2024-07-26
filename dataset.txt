@@ -1,14 +1,4 @@
 
-The room was dimly lit.	Der Raum war schwach beleuchtet.	कमरे को कमजोर रूप से रोशन किया गया था।
-The rooster is crowing.	Der Hahn kräht.	मुर्गा कौवे।
-The roses are in bloom.	Die Rosen sind in der Blüte.	गुलाब खिलते हैं।
-The ship came in sight.	Das Schiff kam in Sicht.	जहाज दृष्टि में आया था।
-The ships reached port.	Die Schiffe erreichten den Hafen.	जहाज बंदरगाह पर पहुंचे।
-The sirens are wailing.	Die Sirenen heulen.	सायरन हॉवेल।
-The sky has brightened.	Der Himmel ist wieder klar.	आकाश फिर से साफ है।
-The smell was terrible.	Es stank ekelhaft.	यह घृणित है।
-The snow was knee deep.	Der Schnee war knietief.	बर्फ घुटने के साथ थी।
-The snow was very deep.	Der Schnee war sehr tief.	बर्फ बहुत गहरी थी।
 The song was a big hit.	Das Lied war ein großer Schlager.	गीत एक बड़ी हिट थी।
 The song was a big hit.	Das Lied war ein großer Erfolg.	गीत एक बड़ी सफलता थी।
 The sooner, the better.	Je eher, desto besser.	जितना जल्दी उतना अच्छा।
