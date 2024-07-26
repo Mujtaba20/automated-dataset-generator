@@ -1,14 +1,4 @@
 
-Tom is eating a banana.	Tom isst eine Banane.	टॉम एक केला खाता है।
-Tom is eating an apple.	Tom isst einen Apfel.	टॉम एक सेब खाता है।
-Tom is eating cake now.	Tom isst jetzt Kuchen.	टॉम अब केक खाता है।
-Tom is engaged to Mary.	Tom ist mit Maria verlobt.	टॉम मारिया से जुड़ा हुआ है।
-Tom is extremely funny.	Tom ist extrem lustig.	टॉम बेहद मजाकिया है।
-Tom is extremely lucky.	Tom hat sehr großes Glück.	टॉम बहुत भाग्यशाली है।
-Tom is fairly reliable.	Tom ist recht verlässlich.	टॉम काफी विश्वसनीय है।
-Tom is fanning himself.	Tom fächert sich zu.	टॉम प्रशंसक।
-Tom is fanning himself.	Tom befächert sich.	टॉम पर चढ़ता है।
-Tom is fighting cancer.	Tom kämpft mit Krebs.	टॉम कैंसर से लड़ता है।
 Tom is filthy rich now.	Tom ist jetzt stinkreich.	टॉम अब बदबूदार है।
 Tom is getting dressed.	Tom zieht sich an.	टॉम लेता है।
 Tom is getting dressed.	Tom kleidet sich an.	टॉम कपड़े।
