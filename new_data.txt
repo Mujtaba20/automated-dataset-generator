@@ -22793,3 +22793,13 @@ Shut up and listen!	Sei still und hör zu!	चुप रहें और सु�
 Shut up and listen.	Halt den Mund und höre zu.	चुप रहो और सुनो।
 Sleep is necessary.	Schlaf ist notwendig.	नींद आवश्यक है।
 Slip on your shoes.	Schlüpf in deine Schuhe.	अपने जूते पहनो।
+Some juice, please.	etwas Saft, bitte.	कुछ जूस, कृपया।
+Some water, please.	etwas Wasser, bitte.	कुछ पानी, कृपया।
+Somebody's singing.	Jemand singt.	कोई गा रहा है।
+Someone is singing.	Jemand singt.	कोई गा रहा है।
+Something happened.	Etwas ist passiert.	कुछ हुआ।
+Something's coming.	Etwas kommt.	कुछ आ रहा है।
+Speak more quietly.	Sprich leiser.	धीरे बोलो।
+Stand back, please.	Tritt zurück, bitte.	पिछे हटें, कृपया।
+Stay here with Tom.	Bleib hier bei Tom.	यहाँ टॉम के साथ रुको।
+Stay where you are.	Bleib, wo du bist.	जहाँ हो, वहीं रहो।
