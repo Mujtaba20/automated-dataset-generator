@@ -29900,3 +29900,12 @@ Where are the women?	Wo sind die Frauen?	महिलाएँ कहां ह�
 Where are those two?	Wo sind die beiden?	वे दो कहां हैं?
 Where are you bound?	Wohin gehst du?	तुम कहां जा रहे हो?
 Where are you going?	Wohin gehst du?	तुम कहां जा रहे हो?
+Where are you today?	Wo bist du heute?	आज तुम कहाँ हो?
+Where are your cats?	Wo sind deine Katzen?	तुम्हारी बिल्लियाँ कहाँ हैं?
+Where are your dogs?	Wo sind deine Hunde?	तुम्हारे कुत्ते कहाँ हैं?
+Where are your keys?	Wo sind deine Schlüssel?	तुम्हारे कुंजी कहाँ हैं?
+Where are your kids?	Wo sind deine Kinder?	तुम्हारे बच्चे कहाँ हैं?
+Where can we buy it?	Wo können wir es kaufen?	हम इसे कहाँ से खरीद सकते हैं?
+Where could they be?	Wo könnten sie sein?	वे कहाँ हो सकते हैं?
+Where did it happen?	Wo ist es passiert?	यह कहाँ हुआ?
+Where do you use it?	Wo benutzt du es?	तुम यह कहाँ इस्तेमाल करते हो?

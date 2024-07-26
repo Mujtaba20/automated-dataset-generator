@@ -1,14 +1,4 @@
 
-Where are you today?	Wo sind Sie heute?	आप आज कहां हो?
-Where are your cats?	Wo sind deine Katzen?	आपकी बिल्लियाँ कहाँ हैं?
-Where are your dogs?	Wo sind deine Hunde?	आपके कुत्ते कहाँ हैं?
-Where are your keys?	Wo sind deine Schlüssel?	आपकी चाबियां कहाँ हैं?
-Where are your kids?	Wo sind deine Kinder?	आपके बच्चे कहाँ हैं?
-Where can we buy it?	Wo können wir es kaufen?	हम इसे कहां से खरीद सकते हैं?
-Where could they be?	Wo könnten sie sein?	आप कहां हो सकते हैं?
-Where did it happen?	Wo ist es passiert?	यह कहां हुआ?
-Where did it happen?	Wo ist es geschehen?	यह कहां हुआ?
-Where do you use it?	Wo benutzt du es?	आप इसका उपयोग कहां करते हैं
 Where does Tom live?	Wo wohnt Tom?	टॉम कहाँ रहता है?
 Where does Tom work?	Wo arbeitet Tom?	टॉम कहाँ काम करता है?
 Where have you been?	Wo wart ihr?	कहाँ थे?
