@@ -1,14 +1,4 @@
 
-He is second to none.	Er steht keinem nach.	वह हीन नहीं है।
-He is small and weak.	Er ist klein und schwach.	यह छोटा और कमजोर है।
-He is still standing.	Er steht noch.	वह अभी भी खड़ा है।
-He is terribly funny.	Er ist furchtbar komisch.	वह बहुत अजीब है।
-He is the chosen one.	Er ist der Auserwählte.	वह चुना हुआ है।
-He is very depressed.	Er ist sehr deprimiert.	वह बहुत उदास है।
-He is wearing gloves.	Er trägt Handschuhe.	वह दस्ताने पहनता है।
-He is wearing gloves.	Er hat Handschuhe an.	उसके पास दस्ताने हैं।
-He is writing a book.	Er schreibt ein Buch.	वह एक किताब लिखता है।
-He is young at heart.	Er ist im Herzen jung.	वह दिल में युवा है।
 He isn't here, is he?	Er ist nicht hier, oder?	वह यहाँ नहीं है, है ना?
 He jumped out of bed.	Er sprang aus dem Bett.	वह बिस्तर से बाहर कूद गया।
 He knew it all along.	Er hatte es schon immer gewusst.	वह हमेशा से जानता था।

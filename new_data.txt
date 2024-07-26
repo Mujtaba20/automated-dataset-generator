@@ -31083,3 +31083,12 @@ He is my best friend.	Er ist mein bester Freund.	वह मेरा सबस�
 He is no longer here.	Er ist nicht mehr hier.	वह अब तक नहीं है।
 He is now on his own.	Er ist jetzt auf sich allein gestellt.	वह अब अपने आप पर है।
 He is reading a book.	Er liest ein Buch.	वह एक किताब पढ़ रहा है।
+He is second to none.	Er ist unübertroffen.	वह किसी से पीछे नहीं है।
+He is small and weak.	Er ist klein und schwach.	वह छोटा और कमजोर है।
+He is still standing.	Er steht immer noch.	वह अभी भी खड़ा है।
+He is terribly funny.	Er ist furchtbar lustig.	वह भयानक मजेदार है।
+He is the chosen one.	Er ist der Auserwählte.	वह चुने हुए है।
+He is very depressed.	Er ist sehr deprimiert.	वह बहुत उदास है।
+He is wearing gloves.	Er trägt Handschuhe.	वह दस्ताने पहन रहा है।
+He is writing a book.	Er schreibt ein Buch.	वह एक किताब लिख रहा है।
+He is young at heart.	Er ist jung im Herzen.	वह दिल से जवान है।
