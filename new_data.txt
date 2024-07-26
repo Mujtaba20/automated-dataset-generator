@@ -35707,3 +35707,11 @@ Why would I be happy?	Warum sollte ich glücklich sein?	मैं क्यो�
 Why would I feel joyous?	Warum sollte ich Freude empfinden?	मैं क्यों आनंदित महसूस करूं?
 Why would I fire you?	Warum würde ich dich feuern?	मैं तुम्हें क्यों नौकरी से निकालूं?
 Why would I terminate you?	Warum würde ich dich beenden?	मैं तुम्हें क्यों खत्म करना चाहूंगा?
+Why would I tell you?	Warum sollte ich es dir sagen?	मैं तुम्हें क्यों बताऊँगा?
+Why's Tom doing that?	Warum macht Tom das?	टॉम ऐसा क्यों कर रहा है?
+Why's Tom still here?	Warum ist Tom noch hier?	टॉम अभी भी यहाँ क्यों है?
+Why's that important?	Warum ist das wichtig?	वह क्यों महत्वपूर्ण है?
+Will I get well soon?	Werde ich bald gesund werden?	क्या मैं जल्द ही ठीक हो जाऊँगा?
+Will I see you later?	Werde ich dich später sehen?	क्या मैं बाद में तुम्हें देखूँगा?
+Will Tom leave early?	Wird Tom früh gehen?	क्या टॉम जल्दी निकल जाएगा?
+Will Tom wait for us?	Wird Tom auf uns warten?	क्या टॉम हमारे लिए इंतजार करेगा?

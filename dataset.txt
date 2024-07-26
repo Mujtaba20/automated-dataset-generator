@@ -1,14 +1,4 @@
 
-Why would I tell you?	Warum sollte ich dir das sagen?	मुझे आपको क्यों बताना चाहिए?
-Why would I tell you?	Warum sollte ich euch das sagen?	मुझे आपको क्यों बताना चाहिए?
-Why would I tell you?	Warum sollte ich Ihnen das sagen?	मुझे आपको क्यों बताना चाहिए?
-Why's Tom doing that?	Warum macht Tom das?	टॉम ऐसा क्यों करता है?
-Why's Tom still here?	Warum ist Tom immer noch hier?	टॉम अभी भी यहाँ क्यों है?
-Why's that important?	Warum ist das wichtig?	वह महत्वपूर्ण क्यों है?
-Will I get well soon?	Werde ich bald wieder gesund werden?	क्या मैं जल्द ही फिर से ठीक हो जाऊंगा?
-Will I see you later?	Sehen wir uns später noch?	क्या हम बाद में एक दूसरे को देखते हैं?
-Will Tom leave early?	Wird Tom früher gehen?	क्या टॉम पहले जाएगा?
-Will Tom wait for us?	Wird Tom auf uns warten?	क्या टॉम हमारे लिए इंतजार करेगा?
 Will it snow tonight?	Wird es heute Abend schneien?	क्या यह आज रात बर्फ होगा?
 Will it snow tonight?	Gibt es heute Abend Schnee?	क्या आज रात बर्फ है?
 Will the police come?	Wird die Polizei kommen?	क्या पुलिस आएगी?
