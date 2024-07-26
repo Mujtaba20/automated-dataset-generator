@@ -35847,3 +35847,7 @@ You must be starving.	Du musst verhungern.	आप भूखे हो सकत�
 You must do as I say.	Du musst tun, was ich sage.	आपको मेरे कहने के अनुसार काम करना होगा।
 You must do as I say. 'different meaning'	Sie müssen so handeln, wie ich es sage.	आपको मेरे कहने पर काम करना होगा। 'विभिन्न अर्थ'
 You must not come in.	Sie dürfen nicht hineingehen.	आप अंदर नहीं आ सकते।
+You must not give up.	Sie dürfen nicht aufgeben.	तुम्हें कभी हार मत मानना।
+You must remain calm.	Sie müssen ruhig bleiben.	तुम्हें ठंडा रहना चाहिए।
+You must tell no one.	Sie dürfen es niemandem sagen.	तुम्हें किसी को बताना नहीं है।
+You mustn't touch it.	Du darfst es nicht anfassen.	तुम्हें इसे छूने नहीं देना चाहिए।

@@ -1,16 +1,4 @@
 
-You must not give up.	Du darfst nicht aufgeben!	आप हार नहीं मान सकते!
-You must not give up.	Sie dürfen nicht aufgeben!	आपको हार मानने की अनुमति नहीं है!
-You must not give up.	Du darfst nicht aufgeben.	आप हार नहीं मान सकते।
-You must remain calm.	Du musst ruhig bleiben.	आपको शांत रहना होगा।
-You must remain calm.	Ihr müsst ruhig bleiben.	आपको शांत रहना होगा।
-You must remain calm.	Sie müssen ruhig bleiben.	आपको शांत रहना होगा।
-You must tell no one.	Du darfst es niemandem sagen!	आपको यह नहीं कहना चाहिए!
-You must tell no one.	Ihr dürft es niemandem sagen!	आपको यह नहीं कहना चाहिए!
-You must tell no one.	Sie dürfen es niemandem sagen!	आपको यह नहीं कहना चाहिए!
-You mustn't touch it.	Du darfst es nicht berühren.	आप इसे छू नहीं सकते।
-You mustn't touch it.	Sie dürfen es nicht anfassen.	आप इसे छू नहीं सकते।
-You mustn't touch it.	Ihr dürft es nicht berühren.	आपको इसे नहीं छूना चाहिए।
 You need to eat more.	Ihr solltet mehr essen.	आपको और अधिक खाना चाहिए।
 You need to eat more.	Ihr müsst mehr essen.	आपको और अधिक खाना है।
 You need to rest now.	Du musst dich jetzt ausruhen.	अब आपको आराम करना होगा।
