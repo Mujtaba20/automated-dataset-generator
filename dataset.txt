@@ -1,14 +1,4 @@
 
-Tom likes being alone.	Tom ist gern allein.	टॉम को अकेले रहना पसंद है।
-Tom likes chimpanzees.	Tom mag Schimpansen.	टॉम को चिंपांज़ी पसंद है।
-Tom likes disco music.	Tom mag Diskomusik.	टॉम को डिस्को संगीत पसंद है।
-Tom likes his new car.	Tom gefällt sein neuer Wagen.	टॉम को अपनी नई कार पसंद है।
-Tom likes his new job.	Tom gefällt seine neue Arbeit.	टॉम को अपना नया काम पसंद है।
-Tom likes raw carrots.	Tom isst gerne rohe Karotten.	टॉम को कच्ची गाजर खाना पसंद है।
-Tom likes raw carrots.	Tom isst gerne rohe Möhren.	टॉम को कच्ची गाजर खाना पसंद है।
-Tom likes raw carrots.	Tom isst gerne rohe Mohrrüben.	टॉम को कच्चे मोहल बीट खाना पसंद है।
-Tom likes to show off.	Tom gibt gerne an.	टॉम को इंगित करना पसंद है।
-Tom likes to watch TV.	Tom sieht gern fern.	टॉम को दूर देखना पसंद है।
 Tom likes watching TV.	Tom sieht gerne fern.	टॉम को दूर देखना पसंद है।
 Tom likes watching TV.	Tom sieht gern fern.	टॉम को दूर देखना पसंद है।
 Tom lit three candles.	Tom zündete drei Kerzen an.	टॉम ने तीन मोमबत्तियाँ जलाईं।

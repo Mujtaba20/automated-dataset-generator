@@ -40495,3 +40495,11 @@ Tom liked his old car.	Tom mochte sein altes Auto.	टॉम को उसकी
 Tom liked what he saw.	Tom mochte, was er sah.	टॉम को जो वहने पसंद आया।
 Tom likes Indian food.	Tom mag indisches Essen.	टॉम को भारतीय खाना पसंद है।
 Tom likes Tchaikovsky.	Tom mag Tschaikowsky.	टॉम को चैकोव्स्की पसंद है।
+Tom likes being alone.	Tom mag es allein zu sein.	टॉम अकेला होने का आनंद लेता है।
+Tom likes chimpanzees.	Tom mag Schimpansen.	टॉम को चिंपांजी पसंद है।
+Tom likes disco music.	Tom mag Disco-Musik.	टॉम को डिस्को संगीत पसंद है।
+Tom likes his new car.	Tom mag sein neues Auto.	टॉम को उसकी नई गाड़ी पसंद है।
+Tom likes his new job.	Tom mag seinen neuen Job.	टॉम को उसका नया नौकरी पसंद है।
+Tom likes raw carrots.	Tom mag rohe Möhren.	टॉम को कच्ची गाजर पसंद है।
+Tom likes to show off.	Tom zeigt gerne.	टॉम दिखावा करने का शौकीन है।
+Tom likes to watch TV.	Tom sieht gerne fern.	टॉम को टीवी देखना पसंद है।
