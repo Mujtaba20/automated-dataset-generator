@@ -40032,3 +40032,13 @@ Tom gave me a bicycle.	Tom schenkte mir ein Fahrrad.	टॉम ने मुझ�
 Tom gave me a present.	Tom schenkte mir ein Geschenk.	टॉम ने मुझे एक उपहार दिया।
 Tom gave me something.	Tom gab mir etwas.	टॉम ने मुझे कुछ दिया।
 Tom gave me that book.	Tom gab mir dieses Buch.	टॉम ने मुझे वह किताब दी।
+Tom gave us a present.	Tom hat uns ein Geschenk gegeben.	टॉम ने हमें एक उपहार दिया।
+Tom gave us some food.	Tom hat uns etwas zu essen gegeben.	टॉम ने हमें कुछ खाने का दिया।
+Tom gets bored easily.	Tom wird leicht gelangweilt.	टॉम आसानी से उबाऊ ​​हो जाता है।
+Tom gets tired easily.	Tom wird schnell müde.	टॉम आसानी से थक जाता है।
+Tom giggled girlishly.	Tom kicherte mädchenhaft.	टॉम लड़कियों की तरह हंसा।
+Tom goes home at 2:30.	Tom geht um 2:30 Uhr nach Hause.	टॉम 2:30 बजे घर जाता है।
+Tom goes to bed early.	Tom geht früh ins Bett.	टॉम जल्दी सोने जाता है।
+Tom got Mary to laugh.	Tom brachte Mary zum Lachen.	टॉम ने मेरी को हंसाया।
+Tom got all emotional.	Tom wurde ganz emotional.	टॉम सभी भावनात्मक हो गया।
+Tom got angry with me.	Tom wurde wütend auf mich.	टॉम मेरे साथ गुस्सा हो गया।
