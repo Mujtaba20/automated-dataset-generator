@@ -38832,3 +38832,11 @@ Maybe we can help Tom.	Vielleicht können wir Tom helfen.	शायद हम �
 Might I ask your name?	Darf ich nach Ihrem Namen fragen?	क्या मैं आपसे आपका नाम पूछ सकता हूँ?
 Mom didn't mention it.	Mama hat es nicht erwähnt.	माँ ने इसे नहीं कहा।
 Mom is older than Dad.	Mama ist älter als Papa.	माँ पिताजी से अधिक वृद्ध है।
+Money opens all doors.	Geld öffnet alle Türen.	पैसे सभी दरवाजे खोलते हैं।
+Money rules the world.	Geld regiert die Welt.	पैसे दुनिया पर नियंत्रण करते हैं।
+More needs to be done.	Es muss mehr getan werden.	अधिक किया जाना चाहिए।
+Much more can be done.	Viel mehr kann getan werden.	और भी ज्यादा किया जा सकता है।
+My French is pathetic.	Mein Französisch ist armselig.	मेरा फ्रेंच लापरवाह है।
+My French is terrible.	Mein Französisch ist schrecklich.	मेरा फ्रेंच भयानक है।
+My back is killing me.	Mein Rücken bringt mich um.	मेरी पीठ मुझे मार रही है।
+My baggage is missing.	Mein Gepäck ist verschwunden.	मेरा सामान गायब हो गया है।
