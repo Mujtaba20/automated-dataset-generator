@@ -1,14 +1,4 @@
 
-Did you buy cat food?	Hast du Katzenfutter gekauft?	क्या आपने कैट फूड खरीदा?
-Did you buy cat food?	Kauftest du Katzenfutter?	क्या आपने कैट फूड खरीदा?
-Did you do your work?	Hast du deine Arbeit gemacht?	क्या आपने अपना काम किया?
-Did you eat too much?	Hast du zu viel gegessen?	क्या आपने बहुत ज्यादा खाया?
-Did you eat too much?	Habt ihr zu viel gegessen?	क्या आपने बहुत ज्यादा खाया?
-Did you eat too much?	Haben Sie zu viel gegessen?	क्या आपने बहुत ज्यादा खाया?
-Did you feed the dog?	Haben Sie dem Hund zu fressen gegeben?	क्या आपने कुत्ते को खाने के लिए दिया?
-Did you feed the dog?	Hast du dem Hund zu fressen gegeben?	क्या आपने कुत्ते को खाने के लिए दिया?
-Did you get up early?	Bist du früh aufgestanden?	क्या आप जल्दी उठे?
-Did you hear a knock?	Hast du ein Klopfen gehört?	क्या आपने एक दस्तक सुनाई?
 Did you just hit Tom?	Hast du gerade Tom geschlagen?	क्या आपने सिर्फ टॉम को मारा?
 Did you just hit Tom?	Habt ihr gerade Tom geschlagen?	क्या आपने सिर्फ टॉम को मारा?
 Did you just hit Tom?	Haben Sie gerade Tom geschlagen?	क्या आपने सिर्फ टॉम को मारा?

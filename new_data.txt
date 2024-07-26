@@ -30577,3 +30577,10 @@ Did the baby wake up?	Ist das Baby aufgewacht?	क्या बच्चा ज�
 Did the car look old?	Sah das Auto alt aus?	क्या गाड़ी पुरानी लग रही थी?
 Did you behave today?	Hast du dich heute benommen?	क्या तुमने आज सही व्यवहार किया?
 Did you buy any eggs?	Hast du Eier gekauft?	क्या तुमने कोई अंडे खरीदे?
+Did you buy cat food?	Hast du Katzenfutter gekauft?	क्या तुमने बिल्ली का खाना खरीदा है?
+Did you do your work?	Hast du deine Arbeit gemacht?	क्या तुमने अपना काम किया है?
+Did you eat too much?	Hast du zu viel gegessen?	क्या तुमने बहुत ज्यादा खाया है?
+Did you eat too much? (Different meaning)	Hast du übermäßig gegessen?	क्या तुमने बहुत अधिक खा लिया है?
+Did you feed the dog?	Hast du den Hund gefüttert?	क्या तुमने कुत्ते को खिलाया?
+Did you get up early?	Bist du früh aufgestanden?	क्या तुमने जल्दी उठाया था?
+Did you hear a knock?	Hast du ein Klopfen gehört?	क्या आपने एक खटखटाहट सुनी थी?
