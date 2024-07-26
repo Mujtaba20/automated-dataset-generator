@@ -1,15 +1,4 @@
 
-Tom is really handsome.	Tom sieht ziemlich gut aus.	टॉम बहुत अच्छा लग रहा है।
-Tom is resting at home.	Tom ruht sich zu Hause aus.	टॉम घर पर टिकी हुई है।
-Tom is right behind me.	Tom ist direkt hinter mir.	टॉम मेरे ठीक पीछे है।
-Tom is right behind us.	Tom ist gleich hinter uns.	टॉम हमारे ठीक पीछे है।
-Tom is right this time.	Tom hat diesmal recht.	टॉम इस बार सही है।
-Tom is sharp, isn't he?	Tom ist clever, oder?	टॉम चतुर है, है ना?
-Tom is short, isn't he?	Tom ist klein, nicht wahr?	टॉम छोटा है, है ना?
-Tom is shorter than me.	Tom ist kleiner als ich.	टॉम मुझसे छोटा है।
-Tom is shy and awkward.	Tom ist schüchtern und unbeholfen.	टॉम शर्मीला और अजीब है।
-Tom is sick in bed now.	Tom ist jetzt krank im Bett.	टॉम अब बिस्तर में बीमार है।
-Tom is sick in bed now.	Tom liegt jetzt krank im Bett.	टॉम अब बिस्तर में बीमार है।
 Tom is sitting outside.	Tom sitzt draußen.	टॉम बाहर बैठता है।
 Tom is skipping school.	Tom schwänzt die Schule.	टॉम ने स्कूल को स्किम किया।
 Tom is smart, isn't he?	Tom ist klug, nicht wahr?	टॉम चतुर है, है ना?
