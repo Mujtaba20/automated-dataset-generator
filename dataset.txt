@@ -1,14 +1,4 @@
 
-He is always prepared.	Er ist immer vorbereitet.	वह हमेशा तैयार रहता है।
-He is always prepared.	Er ist allzeit bereit.	वह हमेशा तैयार रहता है।
-He is always studying.	Er ist immer beim Lernen.	वह हमेशा सीख रहा है।
-He is an army officer.	Er ist Armeeoffizier.	वह एक सेना अधिकारी है।
-He is an eager beaver.	Er ist ein Arbeitstier.	वह एक काम जानवर है।
-He is as busy as ever.	Er ist nach wie vor beschäftigt.	वह अभी भी व्यस्त है।
-He is as lazy as ever.	Er ist so faul wie immer.	वह हमेशा की तरह आलसी है।
-He is as poor as ever.	Er ist nach wie vor arm.	वह अभी भी गरीब है।
-He is as poor as ever.	Er ist so arm wie eh und je.	वह हमेशा की तरह गरीब है।
-He is blinded by love.	Er ist blind vor Liebe.	वह प्यार से अंधा है।
 He is far from honest.	Er ist alles andere als ehrlich.	वह कुछ भी है लेकिन ईमानदार है।
 He is fond of fishing.	Er angelt gern.	उसे मछली पसंद है।
 He is good at cooking.	Er kann gut kochen.	वह अच्छी तरह से खाना बना सकता है।

@@ -36776,3 +36776,11 @@ He is afraid of death. - 1	Er fürchtet sich vor dem Sterben.	उसे मौ�
 He is always cheerful.	Er ist immer fröhlich.	वह हमेशा खुश रहता है।
 He is always cheerful. - 1	Er ist stets guter Dinge.	वह हमेशा आनंदित रहता है।
 He is always laughing.	Er lacht immer.	वह हमेशा हंसता है।
+He is always prepared.	Er ist immer vorbereitet.	वह हमेशा तैयार रहता है।
+He is always studying.	Er studiert immer.	वह हमेशा पढ़ाई करता है।
+He is an army officer.	Er ist Offizier in der Armee.	वह सेना के एक अधिकारी है।
+He is an eager beaver.	Er ist hochmotiviert.	वह उत्साही है।
+He is as busy as ever.	Er ist so beschäftigt wie immer.	वह हमेशा की तरह व्यस्त है।
+He is as lazy as ever.	Er ist so faul wie eh und je.	वह हमेशा की तरह सुस्त है।
+He is as poor as ever.	Er ist so arm wie immer.	वह हमेशा की तरह गरीब है।
+He is blinded by love.	Er ist blind vor Liebe.	वह प्यार में अंधा है।
