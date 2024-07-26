@@ -36675,3 +36675,13 @@ He and I share a room.	Er und ich teilen ein Zimmer.	वह और मैं ए
 He asked me for money.	Er bat mich um Geld.	उसने मुझसे पैसे मांगे।
 He avenged his father.	Er rächte seinen Vater.	उसने अपने पिता का प्रतिशोध लिया।
 He became a policeman.	Er wurde Polizist.	वह पुलिसवाला बन गया।
+He blew all his money.	Er hat all sein Geld verblasen.	उसने अपने सारे पैसे उड़ा दिए।
+He blushed with shame.	Er errötete vor Scham.	उसने शर्म से लाल हो गया।
+He bowed to the Queen.	Er verbeugte sich vor der Königin.	उसने रानी को इंसाफ दिया।
+He broke his left arm.	Er brach sich den linken Arm.	उसने अपने बाईं हाथ को तोड़ दिया।
+He broke into a house.	Er brach in ein Haus ein.	उसने घर में घुसा दिया।
+He burst out laughing.	Er brach in Gelächter aus.	उसने हँसी में फूट पड़ी।
+He called at my house.	Er rief bei mir an.	उसने मेरे घर पर कॉल किया।
+He called me a coward.	Er nannte mich einen Feigling.	उसने मुझे डरपोक कहा।
+He came into the room.	Er kam ins Zimmer.	उसने कमरे में आराम किया।
+He came late as usual.	Er kam wie üblich spät.	वह जैसा हमेशा देर से आया।
