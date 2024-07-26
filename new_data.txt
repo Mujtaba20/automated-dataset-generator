@@ -27334,3 +27334,11 @@ It tastes very good.	Es schmeckt sehr gut.	यह बहुत अच्छा �
 It took all evening.	Es hat den ganzen Abend gedauert.	इसने पूरे शाम का समय लिया।
 It uses solar power.	Es verwendet Solarenergie.	यह सौर ऊर्जा का उपयोग करता है।
 It was a blow to us.	Es war ein Schlag für uns.	यह हमारे लिए एक झटका था।
+It was a busy night.	Es war eine geschäftige Nacht.	यह एक व्यस्त रात थी।
+It was a compromise.	Es war ein Kompromiss.	यह एक समझौता था।
+It was a dark night.	Es war eine dunkle Nacht.	यह एक अंधेरी रात थी।
+It was a good start.	Es war ein guter Anfang.	यह एक अच्छी शुरुआत थी।
+It was a great trip.	Es war eine tolle Reise.	यह एक बहुत शानदार यात्रा थी।
+It was a little fun.	Es hat ein wenig Spaß gemacht.	थोड़ी मस्ती थी।
+It was a lot of fun.	Es hat viel Spaß gemacht.	बहुत मजा आया।
+It was a nice party.	Es war eine schöne Party.	यह एक अच्छी पार्टी थी।
