@@ -21345,3 +21345,8 @@ I hope Tom's right.	Ich hoffe, Tom hat recht.	मुझे उम्मीद �
 I hope it's enough.	Ich hoffe, es reicht aus.	मुझे उम्मीद है कि यह पर्याप्त है।
 I hope that helped.	Ich hoffe, das hat geholfen.	मुझे उम्मीद है कि वह मदद करने में मददगार था।
 I hope that's true.	Ich hoffe, dass das wahr ist.	मुझे उम्मीद है कि वह सच है।
+I hope we find Tom.	Ich hoffe, wir finden Tom.	मुझे आशा है कि हम टॉम को खोजें।
+I hope you approve.	Ich hoffe, du stimmst zu.	मुझे आशा है कि तुम स्वीकृति दो।
+I hope you like it.	Ich hoffe, es gefällt dir.	मुझे आशा है कि यह तुम्हें पसंद आए।
+I hurt my shoulder.	Ich habe mir meine Schulter verletzt.	मुझे मेरी कंधे में चोट लगी।
+I jog twice a week.	Ich jogge zweimal pro Woche.	मैं हफ्ते में दो बार जॉग करता हूँ।

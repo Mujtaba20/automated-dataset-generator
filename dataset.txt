@@ -1,14 +1,4 @@
 
-I hope we find Tom.	Ich hoffe, dass wir Tom finden.	मुझे आशा है कि हम टॉम पाएंगे।
-I hope you approve.	Ich hoffe, Sie stimmen zu.	मुझे आशा है कि आप सहमत होंगे।
-I hope you approve.	Ich hoffe, du stimmst zu.	मुझे आशा है कि आप सहमत होंगे।
-I hope you approve.	Ich hoffe, ihr stimmt zu.	मुझे आशा है कि आप सहमत होंगे।
-I hope you like it.	Ich hoffe, es gefällt dir.	मुझे आशा है कि आप इसे पसंद करते हो।
-I hope you like it.	Ich hoffe, es gefällt Ihnen.	मुझे आशा है कि आप इसे पसंद करते हो।
-I hope you like it.	Ich hoffe, es gefällt euch.	उम्मीद हुँ आपको बहुत मज़ा आया होगा।
-I hurt my shoulder.	Ich habe mich an der Schulter verletzt.	मैंने अपने कंधे को घायल कर दिया।
-I hurt my shoulder.	Ich habe mir meine Schulter verletzt.	मैंने अपने कंधे को घायल कर दिया।
-I jog twice a week.	Ich jogge zweimal in der Woche.	मैं सप्ताह में दो बार जॉग करता हूं।
 I just can't do it.	Ich kann's einfach nicht.	मैं बस नहीं कर सकता।
 I just can't do it.	Ich kann es einfach nicht.	मैं यह नहीं कर सकता।
 I just emailed you.	Ich hab dir gerade eine E-Mail geschickt.	मैंने आपको एक ईमेल भेजा।
