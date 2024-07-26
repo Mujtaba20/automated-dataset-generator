@@ -1,14 +1,4 @@
 
-Do you know each other?	Kennt ihr euch?	क्या आप एक दूसरे को जानते हैं?
-Do you know each other?	Kennen Sie sich?	क्या आप एक दूसरे को जानते हैं?
-Do you know each other?	Kennen Sie einander?	क्या आप एक दूसरे को जानते हैं?
-Do you know her father?	Kennen Sie ihren Vater?	क्या आप अपने पिता को जानते हैं?
-Do you know how to sew?	Kannst du nähen?	क्या आप सिलाई कर सकते हैं?
-Do you know my husband?	Kennst du meinen Mann?	क्या आप मेरे पति को जानते हैं
-Do you know my husband?	Kennt ihr meinen Mann?	क्या आप मेरे पति को जानते हैं?
-Do you know that hotel?	Kennst du dieses Hotel?	क्या आप इस होटल को जानते हैं?
-Do you know the answer?	Kennst du die Antwort?	क्या आप जवाब जानते हैं?
-Do you know the answer?	Kennen Sie die Antwort?	क्या आप जवाब जानते हैं?
 Do you know the reason?	Weißt du, warum?	आप जानते हैं क्यों?
 Do you know the reason?	Kennst du den Grund?	क्या आप इसका कारण जानते हैं?
 Do you know these guys?	Kennst du die?	क्या तुम मुझसे परिचित हो?
