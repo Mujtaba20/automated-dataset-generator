@@ -1,14 +1,4 @@
 
-Are you looking for me?	Suchst du nach mir?	क्या तुम मुझे खोज रहे हो?
-Are you looking for me?	Suchst du mich?	क्या तुम मुझे खोज रहे हो?
-Are you looking for me?	Suchen Sie mich?	क्या तुम मुझे खोज रहे हो?
-Are you looking for me?	Sucht ihr mich?	क्या तुम मुझे खोज रहे हो?
-Are you looking for me?	Sucht ihr nach mir?	क्या तुम मुझे खोज रहे हो?
-Are you looking for me?	Suchen Sie nach mir?	क्या तुम मुझे खोज रहे हो?
-Are you looking for us?	Suchst du uns?	क्या आप हमारी तलाश कर रहे हैं?
-Are you looking for us?	Sucht ihr uns?	क्या आप हमारी तलाश कर रहे हैं?
-Are you making this up?	Hast du dir das nur so ausgedacht?	क्या आपने सिर्फ इसके बारे में सोचा था?
-Are you not getting in?	Steigst du nicht ein?	क्या आप अंदर नहीं जाते?
 Are you not getting on?	Steigst du nicht ein?	क्या आप अंदर नहीं जाते?
 Are you pointing at me?	Zeigen Sie auf mich?	क्या आप मुझे इंगित करते हैं?
 Are you ready to start?	Bist du bereit anzufangen?	क्या आप शुरू करने के लिए तैयार हैं?
