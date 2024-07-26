@@ -25154,3 +25154,12 @@ Aren't you brothers?	Seid ihr nicht Brüder?	क्या आप भाई न�
 Aren't you going in?	Gehst du nicht rein?	क्या तुम अंदर नहीं जा रहे हो?
 Aren't you new here?	Bist du nicht neu hier?	क्या तुम यहाँ नये हो?
 Aren't you new here? (different meaning)	Bist du nicht neu dabei?	क्या तुम यहाँ पहली बार हो?
+Aren't you students?	Seid ihr keine Studenten?	क्या आप छात्र नहीं हो?
+Ask Tom how Mary is.	Frag Tom, wie es Mary geht.	टॉम से पूछें कि मैरी का हाल कैसा है।
+Ask Tom to help you.	Fordere Tom auf, dir zu helfen.	टॉम से मदद करने के लिए कहें।
+Ask Tom where he is.	Frag Tom, wo er ist.	टॉम से पूछिए वो कहाँ है।
+At least we had fun.	Zumindest hatten wir Spaß.	कम से कम हमें मजा आया।
+Baby ducks are cute.	Baby Enten sind niedlich.	छोटे बतख प्यारे होते हैं।
+Baby lions are cute.	Baby Löwen sind süß.	छोटे शेर प्यारे होते हैं।
+Bad habits die hard.	Schlechte Gewohnheiten sterben schwer.	खराब आदतें मुश्किल से मरती हैं।
+Be careful in there.	Sei vorsichtig dort drinnen.	वहाँ सावधान रहिये।
