@@ -1,14 +1,4 @@
 
-He has a few friends.	Er hat ein paar Freunde.	उसके कुछ दोस्त हैं।
-He has a firm belief.	Er hat einen festen Glauben.	उसे दृढ़ विश्वास है।
-He has a foreign car.	Er hat ein ausländisches Auto.	उसके पास एक विदेशी कार है।
-He has a good accent.	Er hat eine gute Aussprache.	उसके पास एक अच्छा उच्चारण है।
-He has a good memory.	Er hat ein gutes Gedächtnis.	उसके पास एक अच्छी स्मृति है।
-He has a large truck.	Er hat einen großen Lastwagen.	उसके पास एक बड़ा ट्रक है।
-He has a lot of land.	Er hat eine Menge Land.	उसके पास बहुत सारी जमीन है।
-He has a lot of land.	Er besitzt viel Land.	उसके पास बहुत सारी जमीन है।
-He has a nice income.	Er hat ein gutes Einkommen.	उसकी अच्छी आय है।
-He has a sweet voice.	Er hat eine angenehme Stimme.	उसके पास एक सुखद आवाज है।
 He has already begun.	Er hat schon begonnen.	वह पहले ही शुरू हो चुका है।
 He has already begun.	Er hat schon angefangen.	वह पहले ही शुरू हो चुका है।
 He has already begun.	Er hat schon losgelegt.	वह पहले ही शुरू हो चुका है।

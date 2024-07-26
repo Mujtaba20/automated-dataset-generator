@@ -31010,3 +31010,12 @@ He had lost all hope.	Er hatte alle Hoffnung verloren.	उसने सभी �
 He hardly ever works.	Er arbeitet kaum.	वह बहुत कम काम करता है।
 He has a black shirt.	Er hat ein schwarzes Hemd.	उसके पास एक काली कमीज है।
 He has a dark secret.	Er hat ein dunkles Geheimnis.	उसका एक काला राज है।
+He has a few friends.	Er hat ein paar Freunde.	उसके कुछ दोस्त हैं।
+He has a firm belief.	Er hat einen festen Glauben.	उसका पक्का विश्वास है।
+He has a foreign car.	Er hat ein ausländisches Auto.	उसकी एक विदेशी कार है।
+He has a good accent.	Er hat einen guten Akzent.	उसकी अच्छी उच्चारण स्वभाव है।
+He has a good memory.	Er hat ein gutes Gedächtnis.	उसकी अच्छी याददाश्त है।
+He has a large truck.	Er hat einen großen Lastwagen.	उसका एक बड़ा ट्रक है।
+He has a lot of land.	Er hat viel Land.	उसके पास काफी जमीन है।
+He has a nice income.	Er hat ein schönes Einkommen.	उसकी अच्छी आमदनी है।
+He has a sweet voice.	Er hat eine süße Stimme.	उसकी मीठी आवाज़ है।
