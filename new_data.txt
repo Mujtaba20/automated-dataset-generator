@@ -38561,3 +38561,10 @@ It was three days ago.	Es war vor drei Tagen.	तीन दिन पहले �
 It was to be expected.	Es war zu erwarten.	यह उम्मीद की जानी थी।
 It was totally secret.	Es war absolut geheim.	यह पूरी तरह से गुप्त रखा गया था।
 It was unbearably hot.	Es war unerträglich heiß.	यह बर्दाश्त से बाहर गर्म था।
+It was very confusing.	Es war sehr verwirrend.	यह बहुत भ्रांतिकर था।
+It was very delicious.	Es war sehr lecker.	यह बहुत स्वादिष्ट था।
+It was very stressful.	Es war sehr stressig.	यह बहुत तनावपूर्ण था।
+It wasn't Tom's error.	Es war nicht Toms Fehler.	यह टॉम की गलती नहीं थी।
+It wasn't an accident.	Es war kein Unfall.	यह एक हादसा नहीं था।
+It wasn't good enough.	Es war nicht gut genug.	यह पर्याप्त नहीं था।
+It wasn't intentional.	Es war nicht vorsätzlich.	यह इच्छित नहीं था।

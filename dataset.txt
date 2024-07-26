@@ -1,14 +1,4 @@
 
-It was very confusing.	Es war sehr verwirrend.	यह बहुत भ्रामक था।
-It was very confusing.	Er war sehr verwirrend.	वह बहुत भ्रामक था।
-It was very confusing.	Sie war sehr verwirrend.	यह बहुत भ्रामक था।
-It was very delicious.	Es war sehr köstlich.	वह अत्यंत स्वादिष्ट था।
-It was very stressful.	Es war sehr stressig.	यह बहुत तनावपूर्ण था।
-It wasn't Tom's error.	Es war nicht Toms Fehler.	यह टॉम की गलती नहीं थी।
-It wasn't an accident.	Das war kein Unfall.	यह कोई दुर्घटना नहीं थी।
-It wasn't an accident.	Es war kein Unfall.	यह कोई दुर्घटना नहीं थी।
-It wasn't good enough.	Das war nicht gut genug.	यह काफी अच्छा नहीं था।
-It wasn't intentional.	Das war keine Absicht.	वह इरादा नहीं था।
 It wasn't you, was it?	Du warst es nicht, oder?	आप नहीं थे, है ना?
 It will clear up soon.	Es klärt sich bald auf.	इसे जल्द ही साफ कर दिया जाएगा।
 It will do harm to us.	Es wird uns Schaden zufügen.	हम हमें नुकसान पहुंचाएंगे।
