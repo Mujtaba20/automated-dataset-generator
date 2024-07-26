@@ -36069,3 +36069,9 @@ Are we going to be OK?	Wird es uns gut gehen?	क्या हम ठीक ह�
 Are you Tom's brother?	Bist du Toms Bruder?	क्या तुम टॉम के भाई हो?
 Are you a good dancer?	Bist du ein guter Tänzer?	क्या तुम एक अच्छे नृत्यकार हो?
 Are you a good dancer? (different meaning)	Bist du ein guter Tänzer?	क्या तुम एक अच्छे नृत्यकार हो?
+Are you a new student?	Bist du ein neuer Schüler?	क्या आप एक नए छात्र हैं?
+Are you a real doctor?	Sind Sie ein echter Arzt?	क्या आप असली डॉक्टर हैं?
+Are you a taxi driver?	Bist du ein Taxifahrer?	क्या आप एक टैक्सी चालक हैं?
+Are you afraid of Tom?	Hast du Angst vor Tom?	क्या आप टॉम से डरते हैं?
+Are you an only child?	Bist du ein Einzelkind?	क्या आप एकल बच्चे हैं?
+Are you and Tom close?	Bist du nahe an Tom?	क्या आप और टॉम के करीब हैं?

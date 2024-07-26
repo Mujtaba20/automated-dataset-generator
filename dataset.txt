@@ -1,14 +1,4 @@
 
-Are you a new student?	Bist du ein neuer Student?	क्या तुम एक नए छात्र हो?
-Are you a real doctor?	Bist du wirklich Arzt?	क्या आप वास्तव में एक डॉक्टर हैं
-Are you a taxi driver?	Sind Sie Taxifahrer?	क्या आप टैक्सी ड्राइवर हैं?
-Are you afraid of Tom?	Hast du Angst vor Tom?	क्या आप टॉम से डरते हैं?
-Are you afraid of Tom?	Habt ihr Angst vor Tom?	क्या आप टॉम से डरते हैं?
-Are you afraid of Tom?	Haben Sie Angst vor Tom?	क्या आप टॉम से डरते हैं?
-Are you an only child?	Bist du ein Einzelkind?	क्या आप एक बच्चे हैं?
-Are you an only child?	Sind Sie Einzelkind?	क्या आप एक बच्चे हैं?
-Are you an only child?	Sind Sie ein Einzelkind?	क्या आप एक बच्चे हैं?
-Are you and Tom close?	Steht Tom und du euch nahe?	क्या टॉम और आप करीब हैं?
 Are you angry with me?	Bist du böse auf mich?	क्या आप मुझसे नाराज हैं?
 Are you as tall as me?	Bist du so groß wie ich?	क्या आप मेरे जितना बड़े हैं?
 Are you back home now?	Bist du jetzt wieder zuhause?	क्या आप अब घर वापस आ गए हैं?
