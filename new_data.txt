@@ -32768,3 +32768,10 @@ It feels good to win.	Es fühlt sich gut an zu gewinnen.	जीतने मे�
 It gets on my nerves.	Es nervt mich.	यह मुझे परेशान करता है।
 It glows in the dark.	Es leuchtet im Dunkeln.	यह अंधेरे में चमकता है।
 It happened suddenly.	Es geschah plötzlich.	यह अचानक हुआ।
+It happened too fast.	Es geschah zu schnell.	यह बहुत जल्दी हो गया।
+It has my name on it.	Es hat meinen Namen drauf.	इस पर मेरा नाम लिखा है।
+It is a childish act.	Es ist eine kindische Handlung.	यह बच्चों जैसा कृत्य है।
+It is already eleven.	Es ist schon elf.	यह पहले ही ग्यारह बज चुका है।
+It is hardly raining.	Es regnet kaum.	यह बिल्कुल नहीं बरस रहा है।
+It is in the kitchen.	Es ist in der Küche.	यह रसोई में है।
+It is of great value.	Es hat großen Wert.	इसका महान मूल्य है।

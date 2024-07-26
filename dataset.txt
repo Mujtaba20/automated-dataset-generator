@@ -1,14 +1,4 @@
 
-It happened too fast.	Es ging zu schnell.	यह बहुत जल्दी चला गया।
-It has my name on it.	Es ist mit meinem Namen gekennzeichnet.	यह मेरे नाम की विशेषता है।
-It is a childish act.	Das ist eine kindische Handlung.	यह एक बचकानी कार्रवाई है।
-It is already eleven.	Es ist schon 11 Uhr.	यह पहले से ही सुबह 11 बजे है।
-It is hardly raining.	Es regnet kaum.	शायद ही बारिश हो।
-It is hardly raining.	Es regnet fast überhaupt nicht.	यह लगभग बारिश नहीं करता है।
-It is in the kitchen.	Er ist in der Küche.	वह रसोई में है।
-It is in the kitchen.	Sie ist in der Küche.	यह रसोई में है।
-It is in the kitchen.	Es befindet sich in der Küche.	यह रसोई में है।
-It is of great value.	Es ist sehr wertvoll.	यह बहुत मूल्यवान है।
 It is out of fashion.	Es ist aus der Mode.	यह फैशन से बाहर है।
 It is very expensive.	Es ist sehr teuer.	यह बहुत महंगा है।
 It is very hot today.	Heute ist es sehr heiß.	आज बहुत गर्मी है.
