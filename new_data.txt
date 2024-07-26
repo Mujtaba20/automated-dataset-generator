@@ -34965,3 +34965,9 @@ Tom was clean-shaven.	Tom war frisch rasiert.	टॉम बिना दाढ�
 Tom was disappointed.	Tom war enttäuscht.	टॉम निराश था।
 Tom was electrocuted.	Tom wurde elektrisiert.	टॉम को विद्युत की चपेट में आने के कारण मौत हो गई।
 Tom was found guilty.	Tom wurde schuldig befunden.	टॉम को दोषी पाया गया।
+Tom was held hostage.	Tom wurde als Geisel gehalten.	टॉम को बंधक बनाया गया था।
+Tom was here all day.	Tom war den ganzen Tag hier.	टॉम पूरे दिन यहाँ था।
+Tom was hit by a car.	Tom wurde von einem Auto angefahren.	टॉम को गाड़ी से मारा गया था।
+Tom was homeschooled.	Tom wurde zu Hause unterrichtet.	टॉम को घर पर पढ़ाया गया था।
+Tom was in the cabin.	Tom war in der Hütte.	टॉम गोदाम में था।
+Tom was in the house.	Tom war im Haus.	टॉम घर में था।
