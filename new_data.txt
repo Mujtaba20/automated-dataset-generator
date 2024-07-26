@@ -33839,3 +33839,9 @@ They took a big risk.	Sie gingen ein großes Risiko ein.	उन्होंन�
 They took the subway.	Sie fuhren mit der U-Bahn.	उन्होंने मेट्रो ली।
 They understood that.	Sie verstanden das.	उन्हें समझ आया।
 They used that table.	Sie benutzten diesen Tisch.	उन्होंने उसी मेज़ का इस्तेमाल किया।
+They walked upstairs.	Sie gingen nach oben.	उन्होंने ऊपर की ओर चला गया।
+They want to go home.	Sie möchten nach Hause gehen.	वे घर जाना चाहते हैं।
+They want to kill me.	Sie wollen mich töten.	वे मुझे मारना चाहते हैं।
+They want to see you.	Sie möchten dich sehen.	वे तुम्हें देखना चाहते हैं।
+They were both dirty.	Sie waren beide verschmutzt.	वे दोनों मैले थे।
+They were both drunk.	Sie waren beide betrunken.	वे दोनों नशे में थे।
