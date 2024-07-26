@@ -21040,3 +21040,11 @@ I already did that.	Das habe ich bereits getan.	मैंने वह पहल
 I already know Tom.	Ich kenne Tom bereits.	मैं तोम को पहले से जानता हूँ।
 I already miss Tom.	Ich vermisse Tom schon.	मैं तोम को पहले से ही याद कर रहा हूँ।
 I already said yes.	Ich habe bereits Ja gesagt.	मैंने पहले ही हाँ कह दी थी।
+I already saw this.	Ich habe das bereits gesehen.	मैंने पहले से ही यह देख लिया है।
+I already told Tom.	Ich habe Tom bereits gesagt.	मैंने टॉम को पहले ही बता दिया।
+I also like apples.	Ich mag auch Äpfel.	मुझे सेब भी पसंद है।
+I always liked Tom.	Ich mochte Tom immer.	मैंने हमेशा से टॉम को पसंद किया है।
+I am an only child.	Ich bin Einzelkind.	मैं एकमात्र बच्चा हूँ।
+I am boiling water.	Ich koche Wasser.	मैं पानी उबाल रहा हूँ।
+I am doing my best.	Ich gebe mein Bestes.	मैं अपनी सबसे अच्छी कोशिश कर रहा हूँ।
+I am feeling dizzy.	Mir ist schwindelig.	मुझे चक्कर आ रहा है।
