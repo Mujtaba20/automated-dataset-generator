@@ -1,14 +1,4 @@
 
-I didn't get the job.	Ich habe die Stelle nicht bekommen.	मुझे नौकरी नहीं मिली।
-I didn't have to pay.	Ich musste nicht bezahlen.	मुझे भुगतान नहीं करना था।
-I didn't inform them.	Ich habe sie nicht informiert.	मैंने उसे सूचित नहीं किया।
-I didn't kill anyone.	Ich habe niemanden umgebracht!	मैंने किसी को नहीं मारा!
-I didn't kiss anyone.	Ich habe niemanden geküsst.	मैं किसी को भी चुंबन नहीं था।
-I didn't know anyone.	Ich kannte niemanden.	मैं किसी को नहीं जानता था।
-I didn't like Boston.	Boston hat mir nicht gefallen.	मुझे बोस्टन पसंद नहीं था।
-I didn't look at Tom.	Ich sah Tom nicht an.	मैंने टॉम को नहीं देखा।
-I didn't mean to cry.	Ich wollte nicht weinen.	मैं रोना नहीं चाहता था।
-I didn't meet anyone.	Ich habe niemanden getroffen.	मैं किसी से नहीं मिला।
 I didn't read it all.	Ich habe es nicht ganz gelesen.	मैंने इसे काफी नहीं पढ़ा।
 I didn't read it all.	Ich habe es nicht vollständig durchgelesen.	मैंने इसे पूरी तरह से नहीं पढ़ा।
 I didn't see a ghost.	Ich habe keinen Geist gesehen.	मैंने एक आत्मा नहीं देखी है।

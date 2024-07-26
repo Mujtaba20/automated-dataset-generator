@@ -31540,3 +31540,13 @@ I didn't believe Tom.	Ich glaubte Tom nicht.	मैंने टॉम पर �
 I didn't do anything.	Ich habe nichts gemacht.	मैंने कुछ नहीं किया।
 I didn't follow that.	Dem bin ich nicht gefolgt.	मैंने उस पर ध्यान नहीं दिया।
 I didn't get a reply.	Ich habe keine Antwort bekommen.	मुझे कोई जवाब नहीं मिला।
+I didn't get the job.	Ich habe den Job nicht bekommen.	मुझे नौकरी नहीं मिली।
+I didn't have to pay.	Ich musste nicht bezahlen.	मुझे चुकाने की जरुरत नहीं थी।
+I didn't inform them.	Ich habe sie nicht informiert.	मैंने उन्हें सूचित नहीं किया।
+I didn't kill anyone.	Ich habe niemanden getötet.	मैंने किसी को नहीं मारा।
+I didn't kiss anyone.	Ich habe niemanden geküsst.	मैंने किसी को नहीं चुमा।
+I didn't know anyone.	Ich kannte niemanden.	मुझे किसी को नहीं पहचाना।
+I didn't like Boston.	Ich mochte Boston nicht.	मुझे बॉस्टन पसंद नहीं था।
+I didn't look at Tom.	Ich habe Tom nicht angesehen.	मैंने टॉम को नहीं देखा।
+I didn't mean to cry.	Ich wollte nicht weinen.	मेरा मतलब रोना नहीं था।
+I didn't meet anyone.	Ich habe niemanden getroffen.	मैंने किसी से मिला नहीं।
