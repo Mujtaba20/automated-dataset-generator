@@ -36166,3 +36166,9 @@ Business is improving.	Das Geschäft verbessert sich.	व्यापार स�
 Buy it for me, please.	Kauf es für mich, bitte.	कृपया मुझे यह खरीद दें।
 Buy one, get one free.	Kaufen Sie eins, bekommen Sie eins kostenlos.	एक खरीदें, एक मुफ्त मिलेगा।
 Buy whatever you need.	Kaufen Sie, was immer Sie brauchen.	जो भी आपको चाहिए खरीदें।
+Caffeine is addictive.	Koffein ist süchtig.	कैफीन लत बनाता है।
+Call me at the office.	Bitte rufen Sie mich im Büro an.	कार्यालय पर मुझे कॉल करें।
+Can I ask you a favor?	Darf ich dich um einen Gefallen bitten?	क्या मैं तुमसे कोई विनती कर सकता हूँ?
+Can I borrow your car?	Kann ich dein Auto leihen?	क्या मैं तुम्हारी कार को उधार लेने के सकता हूँ?
+Can I buy you a drink?	Kann ich dir ein Getränk kaufen?	क्या मैं तुझे पेय कर सकता हूँ?
+Can I copy your notes?	Kann ich deine Notizen kopieren?	क्या मैं तुम्हारी टिप्पणियाँ कॉपी कर सकता हूँ?

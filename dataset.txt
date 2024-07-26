@@ -1,14 +1,4 @@
 
-Caffeine is addictive.	Koffein macht süchtig.	कैफीन नशे की लत है।
-Call me at the office.	Ruf mich im Büro an.	मुझे कार्यालय में बुलाओ।
-Call me at the office.	Ruft mich im Büro an.	मुझे कार्यालय में बुलाओ।
-Call me at the office.	Rufen Sie mich im Büro an.	मुझे कार्यालय में बुलाओ।
-Can I ask you a favor?	Kann ich Sie um einen Gefallen bitten?	मेरी एक मदद करोगे?
-Can I ask you a favor?	Darf ich dich um einen Gefallen bitten?	क्या मैं आपसे एहसान मांग सकता हूं?
-Can I borrow your car?	Kann ich mir dein Auto leihen?	क्या मैं आपकी कार ले सकता हूँ?
-Can I borrow your car?	Darf ich euer Auto ausleihen?	क्या मैं आपकी कार ले सकता हूँ?
-Can I buy you a drink?	Darf ich dich auf ein Getränk einladen?	क्या मैं आपको ड्रिंक के लिए आमंत्रित कर सकता हूं?
-Can I copy your notes?	Darf ich bei dir abschreiben?	क्या मैं आपके साथ लिख सकता हूं?
 Can I eat that orange?	Kann ich diese Orange essen?	क्या मैं यह नारंगी खा सकता हूं?
 Can I eat this orange?	Kann ich diese Orange essen?	क्या मैं यह नारंगी खा सकता हूं?
 Can I eat this orange?	Kann ich diese Apfelsine essen?	क्या मैं यह सेब खा सकता हूं?
