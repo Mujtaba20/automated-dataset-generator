@@ -1,14 +1,4 @@
 
-I heard you whisper.	Ich habe dich flüstern hören.	मैंने तुम्हें कानाफूसी सुना।
-I heard you whisper.	Ich habe euch flüstern hören.	मैंने तुम्हें कानाफूसी सुना।
-I heard you whisper.	Ich habe Sie flüstern hören.	मैंने उन्हें कानाफूसी सुना।
-I hid behind a tree.	Ich versteckte mich hinter einem Baum.	मैं एक पेड़ के पीछे छिप गया।
-I highly doubt that.	Das wage ich zu bezweifeln.	मुझे शक है कि।
-I highly doubt that.	Daran habe ich starke Zweifel.	मुझे इस बारे में मजबूत संदेह है।
-I hope Tom is alive.	Ich hoffe, Tom lebt.	मुझे उम्मीद है कि टॉम रहता है।
-I hope Tom is right.	Ich hoffe, Tom hat recht.	मुझे उम्मीद है कि टॉम सही है।
-I hope Tom is tough.	Ich hoffe, Tom ist hart im Nehmen.	मुझे उम्मीद है कि टॉम कठिन है।
-I hope Tom likes me.	Ich hoffe, Tom mag mich.	मुझे उम्मीद है कि टॉम मुझे पसंद करता है।
 I hope Tom says yes.	Ich hoffe, dass Tom ja sagt.	मुझे उम्मीद है कि टॉम हाँ कहता है।
 I hope Tom says yes.	Ich hoffe, Tom sagt ja.	मुझे उम्मीद है कि टॉम हाँ कहता है।
 I hope he isn't ill.	Ich hoffe, dass er nicht krank ist.	मुझे आशा है कि वह बीमार नहीं है।

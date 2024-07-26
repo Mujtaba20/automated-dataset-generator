@@ -26364,3 +26364,10 @@ I heard her singing.	Ich hörte sie singen.	मैंने उसे गात�
 I heard that happen.	Ich habe das passieren hören.	मैंने वह होते सुना।
 I heard you singing.	Ich hörte dich singen.	मैंने तुम्हें गाते हुए सुना।
 I heard you talking.	Ich hörte dich reden.	मैंने तुम्हें बात करते हुए सुना।
+I heard you whisper.	Ich hörte dich flüstern.	मैंने तुम्हें सुसुराना सुना।
+I hid behind a tree.	Ich habe mich hinter einem Baum versteckt.	मैंने एक पेड़ के पीछे छुपा गया।
+I highly doubt that.	Ich bezweifle das sehr.	मैं इसे बहुत संदेह करता हूं।
+I hope Tom is alive.	Ich hoffe, Tom ist am Leben.	मुझे आशा है कि टॉम जिंदा है।
+I hope Tom is right.	Ich hoffe, Tom hat Recht.	मुझे आशा है कि टॉम सही है।
+I hope Tom is tough.	Ich hoffe, Tom ist hart.	मुझे आशा है कि टॉम मजबूत है।
+I hope Tom likes me.	Ich hoffe, Tom mag mich.	मुझे आशा है कि टॉम को मुझसे पसंद है।
