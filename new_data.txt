@@ -38370,3 +38370,10 @@ I've lost my passport.	Ich habe meinen Reisepass verloren.	मेरा पा�
 I've lost my strength.	Ich habe meine Kraft verloren.	मेरा बल गया है।
 I've made a discovery.	Ich habe eine Entdeckung gemacht.	मैंने एक खोज की है।
 I've made my decision.	Ich habe meine Entscheidung getroffen.	मैंने अपना फैसला कर लिया है।
+I've never beaten Tom.	Ich habe Tom nie geschlagen.	मैंने कभी भी टॉम को नहीं मारा है।
+I've never heard that.	Das habe ich noch nie gehört.	मैंने ऐसा कभी नहीं सुना है।
+I've never hit anyone.	Ich habe niemanden geschlagen.	मैंने किसी को कभी नहीं मारा है।
+I've often been there.	Ich war dort oft.	मैं वहाँ अक्सर रहा हूँ।
+I've paid you already.	Ich habe dich bereits bezahlt.	मैंने तुम्हें पहले ही भुगतान किया है।
+I've received threats.	Ich habe Drohungen erhalten.	मुझे धमकियां मिली हैं।
+I've run out of money.	Mir ist das Geld ausgegangen.	मेरे पास पैसे नहीं रहे।
