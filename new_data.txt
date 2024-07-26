@@ -35612,3 +35612,12 @@ Whose friend are you? (different meaning 2)	Wessen Kumpel bist du?	तुम क
 Whose guitar is this?	Wessen Gitarre ist das?	यह किसकी गिटार है?
 Whose letter is this?	Wessen Brief ist das?	यह किसका पत्र है?
 Whose office is this?	Wessen Büro ist das?	यह किसका कार्यालय है?
+Whose pencil is this?	Wessen Bleistift ist das?	यह किसकी पेंसिल है?
+Whose pens are these?	Wessen Stifte sind das?	ये कौनसे कलम हैं?
+Whose side is Tom on?	Auf welcher Seite steht Tom?	टॉम किसके साथ है?
+Why are boys so dumb?	Warum sind Jungen so dumm?	लड़के इतने बेवकूफ क्यों होते हैं?
+Why are leaves green?	Warum sind Blätter grün?	पत्तियाँ हरी क्यों होती हैं?
+Why are they smiling?	Warum lächeln sie?	वे क्यों मुस्कुरा रहे हैं?
+Why are you barefoot?	Warum bist du barfuß?	तुम नंगे पैर क्यों हो?
+Why are you bleeding?	Warum blutest du?	तुम क्यों खून बह रहे हो?
+Why are you doing it?	Warum machst du das?	तुम यह क्यों कर रहे हो?

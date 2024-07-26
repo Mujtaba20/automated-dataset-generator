@@ -1,14 +1,4 @@
 
-Whose pencil is this?	Wessen Bleistift ist das?	पेंसिल किसकी है?
-Whose pencil is this?	Wem gehört dieser Bleistift?	यह पेंसिल किसका है?
-Whose pens are these?	Wem gehören diese Stifte?	ये पेन किसके हैं?
-Whose side is Tom on?	Auf wessen Seite ist Tom?	टॉम किसकी तरफ है?
-Why are boys so dumb?	Warum sind Jungs so blöd?	लड़के इतने मूर्ख क्यों हैं?
-Why are leaves green?	Warum sind Blätter grün?	पत्ते हरे क्यों हैं?
-Why are they smiling?	Warum lächeln sie?	तुम मुस्कुराते क्यों हो?
-Why are you barefoot?	Wieso bist du barfuß?	आप नंगे पैर क्यों हैं?
-Why are you bleeding?	Warum blutest du?	आप क्यों खून बहाते हैं?
-Why are you doing it?	Warum machst du es?	आप ऐसा क्यों कर रहे हैं?
 Why are you here now?	Warum sind Sie jetzt hier?	अब वे यहाँ क्यों हैं?
 Why are you here now?	Warum bist du denn jetzt hier?	अब आप यहाँ क्यों हैं?
 Why are you home now?	Warum bist du jetzt zu Hause?	अब आप घर पर क्यों हैं?
