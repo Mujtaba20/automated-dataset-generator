@@ -41412,3 +41412,11 @@ Where is Tom sleeping?	Wo schläft Tom?	टॉम कहाँ सो रहा 
 Where is the bathroom?	Wo ist das WC?	शौचालय कहाँ है?
 Where is the bus stop?	Wo ist die Bushaltestelle?	बस स्थानक कहाँ है?
 Where is the elevator?	Wo ist der Aufzug?	लिफ्ट कहाँ है?
+Where is the entrance?	Wo ist der Eingang?	प्रवेशद्वार कहाँ है?
+Where is the restroom?	Wo ist die Toilette?	शौचालय कहाँ है?
+Where is the ship now?	Wo ist das Schiff jetzt?	जहाज़ अब कहाँ है?
+Where is the waitress?	Wo ist die Kellnerin?	वेट्रेस कहाँ है?
+Where is the washroom?	Wo ist das Badezimmer?	बाथरूम कहाँ है?
+Where is your brother?	Wo ist dein Bruder?	तुम्हारा भाई कहाँ है?
+Where were you hiding?	Wo hast du dich versteckt?	तुम कहाँ छुपे थे?
+Where were you hiding? (different meaning)	Wo warst du versteckt?	तुम कहाँ छुपे थे?

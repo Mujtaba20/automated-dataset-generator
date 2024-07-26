@@ -1,14 +1,4 @@
 
-Where is the entrance?	Wo ist der Eingang?	प्रवेश द्वार कहाँ है?
-Where is the restroom?	Wo ist die Toilette?	टॉयलेट कहां है?
-Where is the restroom?	Wo ist das Badezimmer?	बाथरूम कहां है?
-Where is the ship now?	Wo ist das Schiff jetzt?	अब जहाज कहाँ है?
-Where is the waitress?	Wo ist die Kellnerin?	वेट्रेस कहाँ है?
-Where is the washroom?	Wo ist die Toilette?	टॉयलेट कहां है?
-Where is your brother?	Wo ist dein Bruder?	आपके भाई कहाँ है?
-Where were you hiding?	Wo hast du dich versteckt?	तुम कहाँ छिपते हो?
-Where were you hiding?	Wo habt ihr euch versteckt?	तुम कहाँ छिपा?
-Where were you hiding?	Wo haben Sie sich versteckt?	तुम कहाँ छिपा?
 Where're Tom's things?	Wo sind Toms Sachen?	टॉम की बातें कहाँ हैं?
 Where's everyone else?	Wo sind die anderen alle?	अन्य सभी कहाँ हैं?
 Where's my microphone?	Wo ist mein Mikrofon?	मेरा माइक्रोफोन कहाँ है?
