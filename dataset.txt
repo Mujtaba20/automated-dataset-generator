@@ -1,14 +1,4 @@
 
-The butter went bad.	Die Butter ist ranzig geworden.	मक्खन बासी हो गया है।
-The button came off.	Der Knopf löste sich.	बटन ढीला हो गया।
-The car didn't move.	Das Auto bewegte sich nicht.	कार नहीं चलती थी।
-The car won't start.	Das Auto springt nicht an.	कार शुरू नहीं होगा।
-The cat drinks milk.	Die Katze trinkt Milch.	बिल्ली दूध पीती है।
-The cat is adorable.	Die Katze ist putzig.	बिल्ली प्यारा है।
-The cat is not dead.	Die Katze ist nicht tot.	बिल्ली मरा नहीं है।
-The chair is broken.	Der Stuhl ist zerbrochen.	कुर्सी टूट गई है।
-The choice is yours.	Die Wahl steht dir frei.	चुनाव मुफ्त है।
-The choice is yours.	Es ist an dir zu wählen.	यह आप पर निर्भर है।
 The class went wild.	Die Klasse ging über Tische und Bänke.	कक्षा टेबल और बेंच पर चली गई।
 The class went wild.	Die Klasse wurde verrückt.	कक्षा पागल हो गई।
 The cold is intense.	Die Kälte ist drastisch.	ठंड कठोर है।
