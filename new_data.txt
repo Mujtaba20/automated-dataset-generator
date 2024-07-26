@@ -35508,3 +35508,12 @@ Where can I find Tom?	Wo kann ich Tom finden?	मैं टॉम को कह�
 Where can I get some?	Wo kann ich etwas bekommen?	मुझे कुछ मिल सकता है क्या?
 Where can I meet Tom?	Wo kann ich Tom treffen?	मैं टॉम से कहाँ मिल सकता हूँ?
 Where can I take you?	Wohin kann ich dich bringen?	मैं तुम्हें कहाँ ले जा सकता हूँ?
+Where did you get it?	Wo hast du es bekommen?	तुमने यह कहां से लिया?
+Where do I find that?	Wo finde ich das?	मैं वहाँ कहाँ ढूंढूं?
+Where do you want it?	Wo möchtest du es haben?	तुम यह कहाँ चाहते हो?
+Where do you want me?	Wo willst du mich haben?	तुम मुझे कहाँ चाहते हो?
+Where does Tom study?	Wo studiert Tom?	टॉम कहाँ पढ़ाई करता है?
+Where have they gone?	Wo sind sie hingegangen?	वे कहाँ गए हैं?
+Where is my umbrella?	Wo ist mein Regenschirm?	मेरा छाता कहाँ है?
+Where is the concert?	Wo ist das Konzert?	संगीत समारोह कहाँ है?
+Where is the embassy?	Wo ist die Botschaft?	सफिर कहाँ है?

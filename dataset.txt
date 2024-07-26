@@ -1,15 +1,4 @@
 
-Where did you get it?	Wo hast du das her?	यह आपको कहां से मिला?
-Where do I find that?	Wo finde ich das?	मैं इसे कहां पर ढूंढूँ?
-Where do you want it?	Wo willst du es?	आप इसे कहां चाहते हैं?
-Where do you want it?	Wo soll ich’s hintun?	मुझे यह कहां करना चाहिए?
-Where do you want me?	Wo brauchst du mich?	आपको मेरी आवश्यकता कहाँ है
-Where does Tom study?	Wo studiert Tom?	टॉम कहाँ पढ़ता है?
-Where have they gone?	Wo sind sie hingegangen?	आप कहा चले गए थे?
-Where is my umbrella?	Wo ist mein Regenschirm?	मेरी छतरी कहाँ है?
-Where is the concert?	Wo ist das Konzert?	कॉन्सर्ट कहां है?
-Where is the embassy?	Wo ist die Botschaft?	संदेश कहाँ है?
-Where is the embassy?	Wo ist das Botschaftsgebäude?	दूतावास की इमारत कहाँ है?
 Where is the laundry?	Wo ist die Wäsche?	कपड़े धोने कहाँ है?
 Where is the library?	Wo ist die Bibliothek?	लाइब्रेरी कहाँ है?
 Where is the mailbox?	Wo ist der Briefkasten?	डाक पेटी कहां है?
