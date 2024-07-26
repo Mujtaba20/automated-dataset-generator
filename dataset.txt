@@ -1,15 +1,4 @@
 
-I've got a reservation.	Ich habe eine Reservierung.	मेरा एक आरक्षण है।
-I've got a sore throat.	Ich habe Halsschmerzen.	मेरे गले में खराश है।
-I've got a sweet tooth.	Ich bin eine Naschkatze.	मैं एक मीठा दाँत हूं।
-I've got no money left.	Ich habe kein Geld mehr.	मेरे पास और पैसे नहीं हैं।
-I've got nothing to do.	Ich habe nichts zu tun.	मेरे पास कुछ करने के लिये नहीं है।
-I've got nowhere to go.	Ich kann nirgends hin.	मैं कहीं नहीं जा सकता।
-I've got some bad news.	Ich habe schlechte Nachrichten.	मेरे पास बुरी खबर है।
-I've got to be careful.	Ich muss vorsichtig sein.	मुझे सावधान रहना होगा।
-I've got to leave soon.	Ich muss bald gehen.	मुझे जल्दी जाना होगा।
-I've got to make lunch.	Ich muss Mittagessen machen.	मुझे लंच करना है।
-I've got to make lunch.	Ich muss das Mittagessen zubereiten.	मुझे दोपहर का भोजन तैयार करना है।
 I've had enough to eat.	Ich hatte genug zu essen.	मेरे पास खाने के लिए पर्याप्त था।
 I've known Tom forever.	Ich kenne Tom schon immer.	मैं हमेशा टॉम को जानता हूं।
 I've looked everywhere.	Ich habe überall nachgeguckt.	मैंने हर जगह देखा।
