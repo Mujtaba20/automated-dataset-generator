@@ -1,14 +1,4 @@
 
-You're a filthy liar!	Du bist ein dreckiger Lügner!	आप एक गंदे झूठे हैं!
-You're a filthy liar!	Sie sind ein dreckiger Lügner!	आप एक गंदे झूठे हैं!
-You're a good driver.	Du bist ein guter Fahrer.	आप एक अच्छे ड्राइवर हैं।
-You're a good father.	Du bist ein guter Vater.	आप एक अच्छे पिता हैं।
-You're a good friend.	Du bist ein guter Freund.	आप एक अच्छे दोस्त हैं।
-You're a good mother.	Du bist eine gute Mutter.	आप एक अच्छी माँ हैं।
-You're a good person.	Du bist ein guter Mensch.	आप एक अच्छे व्यक्ति हैं।
-You're a good person.	Sie sind ein guter Mensch.	आप एक अच्छे व्यक्ति हैं।
-You're a kind person.	Du bist ein netter Mensch.	आप एक अच्छे इंसान हैं।
-You're a mean person.	Du bist eine gemeine Person.	आप एक आम व्यक्ति हैं।
 You're a prince, Tom.	Du bist ein Prinz, Tom.	आप एक राजकुमार हैं, टॉम।
 You're a real friend.	Du bist ein echter Freund.	आप एक असली दोस्त हैं।
 You're a total wreck.	Du bist ein völliges Wrack.	आप एक पूर्ण मलबे हैं।

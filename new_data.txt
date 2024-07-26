@@ -35906,3 +35906,11 @@ You'll get well soon.	Du wirst bald gesund werden.	तुम जल्द ही
 You'll never make it.	Du wirst es niemals schaffen.	तुम कभी नहीं कर पाओगे।
 You'll never stop me.	Du wirst mich nie aufhalten.	तुम मुझे कभी नहीं रोक सकते।
 You'll soon find out.	Du wirst bald herausfinden.	तुम जल्द ही पता कर लोगे।
+You're a filthy liar!	Sie sind ein schmutziger Lügner!	तुम एक गंदा झूठा हो!
+You're a good driver.	Du bist ein guter Fahrer.	तुम एक अच्छे ड्राइवर हो।
+You're a good father.	Du bist ein guter Vater.	तुम एक अच्छे पिता हो।
+You're a good friend.	Du bist ein guter Freund.	तुम एक अच्छा दोस्त हो।
+You're a good mother.	Du bist eine gute Mutter.	तुम एक अच्छी मां हो।
+You're a good person.	Sie sind eine gute Person.	तुम एक अच्छे इंसान हो।
+You're a kind person.	Du bist eine freundliche Person.	तुम एक दयालु इंसान हो।
+You're a mean person.	Du bist eine gemeine Person.	तुम एक निर्दयी इंसान हो।
