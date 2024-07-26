@@ -24944,3 +24944,11 @@ You were in danger.	Sie waren in Gefahr.	आप खतरे में थे।
 You were my friend.	Du warst mein Freund.	तुम मेरे दोस्त थे।
 You worry too much.	Du machst dir zu viele Gedanken.	तुम बहुत चिंता करते हो।
 You'd better leave.	Du solltest besser gehen.	तुम्हें बेहतर हो तुम जाओ।
+You'll feel better.	Du wirst dich besser fühlen.	तुम्हें बेहतर महसूस होगा।
+You'll get over it.	Du wirst darüber hinwegkommen.	तुम इससे निकल जाओगे।
+You'll regret this.	Du wirst das bereuen.	तुम इसे पछताओगे।
+You're a born poet.	Du bist ein geborener Dichter.	तुम एक जन्म से कवि हो।
+You're a brave man.	Du bist ein mutiger Mann.	तुम एक बहादुर आदमी हो।
+You're a good cook.	Du bist ein guter Koch.	तुम एक अच्छे रसोइया हो।
+You're a good girl.	Du bist ein gutes Mädchen.	तुम एक अच्छी लड़की हो।
+You're a good liar.	Du bist ein guter Lügner.	तुम एक अच्छा झूठा हो।
