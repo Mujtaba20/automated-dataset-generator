@@ -1,15 +1,4 @@
 
-Tom doesn't have time.	Tom hat keine Zeit.	टॉम के पास कोई समय नहीं है।
-Tom doesn't know Mary.	Tom kennt Mary nicht.	टॉम मैरी को नहीं जानता।
-Tom doesn't know much.	Tom weiß nicht viel.	टॉम ज्यादा नहीं जानता।
-Tom doesn't know that.	Tom weiß das nicht.	टॉम को नहीं पता।
-Tom doesn't like Mary.	Tom mag Maria nicht.	टॉम को मारिया पसंद नहीं है।
-Tom doesn't like beef.	Tom mag Rindfleisch nicht.	टॉम को गोमांस पसंद नहीं है।
-Tom doesn't like eggs.	Tom mag keine Eier.	टॉम को अंडे पसंद नहीं है।
-Tom doesn't like fish.	Tom mag keinen Fisch.	टॉम को मछली पसंद नहीं है।
-Tom doesn't like kids.	Tom mag keine Kinder.	टॉम को बच्चे पसंद नहीं हैं।
-Tom doesn't like math.	Tom mag kein Mathe.	टॉम को गणित पसंद नहीं है।
-Tom doesn't like math.	Tom mag Mathematik nicht.	टॉम को गणित पसंद नहीं है।
 Tom doesn't like pork.	Tom mag kein Schweinefleisch.	टॉम को पोर्क पसंद नहीं है।
 Tom doesn't like that.	Tom mag das nicht.	टॉम को यह पसंद नहीं है।
 Tom doesn't like this.	Tom mag das nicht.	टॉम को यह पसंद नहीं है।

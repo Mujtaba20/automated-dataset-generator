@@ -39982,3 +39982,13 @@ Tom disappointed Mary.	Tom hat Mary enttäuscht.	टॉम ने मैरी �
 Tom does that quickly.	Tom macht das schnell.	टॉम वह जल्दी करता है।
 Tom doesn't answer me.	Tom antwortet mir nicht.	टॉम मुझसे जवाब नहीं देता।
 Tom doesn't buy bread.	Tom kauft kein Brot.	टॉम रोटी नहीं खरीदता।
+Tom doesn't have time.	Tom hat keine Zeit.	टॉम के पास समय नहीं है।
+Tom doesn't know Mary.	Tom kennt Mary nicht.	टॉम को मैरी का मालूम नहीं है।
+Tom doesn't know much.	Tom weiß nicht viel.	टॉम को बहुत कुछ नहीं पता है।
+Tom doesn't know that.	Tom weiß das nicht.	टॉम को वह नहीं पता है।
+Tom doesn't like Mary.	Tom mag Mary nicht.	टॉम को मैरी पसंद नहीं है।
+Tom doesn't like beef.	Tom mag kein Rindfleisch.	टॉम को गोमांस पसंद नहीं है।
+Tom doesn't like eggs.	Tom mag keine Eier.	टॉम को अंडे पसंद नहीं हैं।
+Tom doesn't like fish.	Tom mag keinen Fisch.	टॉम को मछली पसंद नहीं है।
+Tom doesn't like kids.	Tom mag keine Kinder.	टॉम को बच्चे पसंद नहीं हैं।
+Tom doesn't like math.	Tom mag keine Mathematik.	टॉम को गणित पसंद नहीं है।
