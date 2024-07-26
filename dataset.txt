@@ -1,16 +1,4 @@
 
-I know why you want it.	Ich weiß, warum du es willst.	मुझे पता है कि आप इसे क्यों चाहते हैं।
-I know why you're here.	Ich weiß, warum du hier bist.	मुझे पता है कि आप यहां क्यों हैं।
-I know you can do this.	Ich weiß, dass du das kannst.	मुझे पता है तुम कर सकते हो।
-I know you can do this.	Ich weiß, du kannst das.	मुझे पता है तुम कर सकते हो।
-I know you can do this.	Ich weiß, du kriegst das hin.	मुझे पता है कि आप यह कर सकते हैं।
-I know you can do this.	Ich weiß, dass du das schaffst.	मुझे पता है कि आप यह कर सकते हैं।
-I know you can make it.	Ich weiß, dass du es schaffen kannst.	मुझे पता है कि आप यह कर सकते हैं।
-I know you hate school.	Ich weiß, dass du die Schule hasst.	मुझे पता है कि आप स्कूल से नफरत करते हैं।
-I know you hate school.	Ich weiß, dass ihr die Schule hasst.	मुझे पता है कि आप स्कूल से नफरत करते हैं।
-I know you lied to Tom.	Ich weiß, dass du Tom angelogen hast.	मुझे पता है कि आपने टॉम से झूठ बोला था।
-I know you lied to Tom.	Ich weiß, dass ihr Tom angelogen habt.	मुझे पता है कि आपने टॉम से झूठ बोला था।
-I know you lied to Tom.	Ich weiß, dass Sie Tom angelogen haben.	मुझे पता है कि उन्होंने टॉम से झूठ बोला था।
 I know you like coffee.	Ich weiß, dass du Kaffee magst.	मुझे पता है कि आपको कॉफी पसंद है।
 I know you like sports.	Ich weiß, dass du Sport magst.	मुझे पता है कि आपको खेल पसंद है।
 I know you'll like Tom.	Ich weiß, dass du Tom mögen wirst.	मुझे पता है कि आप टॉम को पसंद करेंगे।
