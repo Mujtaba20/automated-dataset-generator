@@ -1,14 +1,4 @@
 
-It wasn't you, was it?	Du warst es nicht, oder?	आप नहीं थे, है ना?
-It will clear up soon.	Es klärt sich bald auf.	इसे जल्द ही साफ कर दिया जाएगा।
-It will do harm to us.	Es wird uns Schaden zufügen.	हम हमें नुकसान पहुंचाएंगे।
-It will rain tomorrow.	Morgen wird es regnen.	कल बरसात होगी।
-It will snow tomorrow.	Morgen wird es schneien.	कल यह बर्फ होगा।
-It will snow tomorrow.	Es wird morgen schneien.	कल बर्फ हो जाएगा।
-It won't be a problem.	Das wird kein Problem sein.	यह एक समस्या नहीं होगी।
-It won't be that easy.	Es wird nicht leicht sein.	यह आसान नहीं होगा।
-It won't be that hard.	Das wird nicht allzu schwierig sein.	यह बहुत मुश्किल नहीं होगा।
-It won't be that long.	So lange dauert es nicht.	यह लंबा समय नहीं लगता है।
 It won't come to that.	So weit kommt es nicht.	यह दूर तक नहीं मिलता है।
 It won't come to that.	So weit wird es nicht kommen.	यह बहुत दूर नहीं मिलेगा।
 It won't happen again.	Es wird nicht wieder vorkommen.	यह फिर से नहीं होगा।

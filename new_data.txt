@@ -38568,3 +38568,12 @@ It wasn't Tom's error.	Es war nicht Toms Fehler.	यह टॉम की गल�
 It wasn't an accident.	Es war kein Unfall.	यह एक हादसा नहीं था।
 It wasn't good enough.	Es war nicht gut genug.	यह पर्याप्त नहीं था।
 It wasn't intentional.	Es war nicht vorsätzlich.	यह इच्छित नहीं था।
+It wasn't you, was it?	Warst du es nicht?	क्या यह तुम नहीं थे?
+It will clear up soon.	Es wird bald klar werden.	जल्द ही साफ हो जाएगा।
+It will do harm to us.	Es wird uns schaden.	यह हमें नुकसान पहुंचाएगा।
+It will rain tomorrow.	Es wird morgen regnen.	कल बारिश होगी।
+It will snow tomorrow.	Es wird morgen schneien.	कल बर्फ गिरेगी।
+It won't be a problem.	Es wird kein Problem sein.	यह कोई समस्या नहीं होगी।
+It won't be that easy.	Es wird nicht so einfach sein.	यह इतना आसान नहीं होगा।
+It won't be that hard.	Es wird nicht so schwer sein.	यह इतना कठिन नहीं होगा।
+It won't be that long.	Es wird nicht so lange dauern.	यह इतनी देर तक नहीं चलेगा।
