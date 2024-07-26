@@ -37399,3 +37399,10 @@ I forgot to buy bread.	Ich habe vergessen, Brot zu kaufen.	मुझे रो�
 I forgot to tell them.	Ich habe vergessen, es ihnen zu sagen.	मैंने उन्हें बताना भूल गया।
 I found out something.	Ich habe etwas herausgefunden.	मुझे कुछ पता चला।
 I found out the truth.	Ich habe die Wahrheit herausgefunden.	मुझे सच्चाई पता चली।
+I found the book easy.	Ich fand das Buch einfach.	मुझे पुस्तक आसान मिली।
+I found the box empty.	Ich fand die Schachtel leer.	मुझे डिब्बा खाली मिला।
+I found the game easy.	Ich fand das Spiel einfach.	मुझे खेल आसान लगा।
+I gave Tom Monday off.	Ich gab Tom Montag frei.	मैंने टॉम को सोमवार को छुट्टी दी।
+I gave Tom some money.	Ich gab Tom etwas Geld.	मैंने टॉमे को कुछ पैसे दिए।
+I gave her some candy.	Ich gab ihr etwas Süßigkeiten.	मैंने उसे कुछ मिठाई दी।
+I gave him my address.	Ich gab ihm meine Adresse.	मैंने उसे मेरा पता दिया।

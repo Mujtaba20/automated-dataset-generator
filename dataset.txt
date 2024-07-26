@@ -1,14 +1,4 @@
 
-I found the book easy.	Ich fand das Buch einfach.	मुझे सिर्फ किताब मिली।
-I found the box empty.	Ich habe die Kiste leer vorgefunden.	मुझे बॉक्स खाली मिला।
-I found the game easy.	Ich fand das Spiel leicht.	मुझे खेल आसान लगा।
-I gave Tom Monday off.	Ich habe Tom Montag frei gegeben.	मैंने सोमवार को टॉम रिलीज़ किया।
-I gave Tom some money.	Ich habe Tom etwas Geld gegeben.	मैंने टॉम को कुछ पैसे दिए।
-I gave Tom some money.	Ich habe Tom Geld gegeben.	मैंने टॉम मनी दी।
-I gave her some candy.	Ich gab ihr ein paar Süßigkeiten.	मैंने उसे कुछ मिठाई दी।
-I gave her some candy.	Ich gab ihr Süßigkeiten.	मैंने उसकी मिठाई दी।
-I gave him my address.	Ich gab ihm meine Adresse.	मैंने उसे अपना पता दिया।
-I gave him my address.	Ich habe ihm meine Adresse gegeben.	मैंने उसे अपना पता दिया।
 I gave my cold to him.	Ich habe ihn mit meiner Erkältung angesteckt.	मैंने उसे अपनी ठंड से संक्रमित किया।
 I gave the boy a book.	Ich gab dem Jungen ein Buch.	मैंने लड़के को एक किताब दी।
 I get lonely at times.	Ich fühle mich manchmal einsam.	मैं कभी -कभी अकेला महसूस करता हूं।
