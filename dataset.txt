@@ -1,16 +1,4 @@
 
-I know you like me.	Ich weiß, dass du mich magst.	मूझे पता है तुम मूझे पसंद करते हो।
-I know you like me.	Ich kenne dich wie mich selbst.	मुझे पता है कि आप खुद को पसंद करते हैं।
-I know you love me.	Ich weiß, dass du mich liebst.	मुझे मालूम है कि तुम मुझे प्यार करते हो।
-I know you're busy.	Ich weiß, dass du beschäftigt bist.	मुझे पता है आप व्यस्त हो।
-I know you're busy.	Ich weiß, dass ihr beschäftigt seid.	मुझे पता है आप व्यस्त हो।
-I know you're busy.	Ich weiß, dass Sie beschäftigt sind.	मुझे पता है कि वे व्यस्त हैं।
-I know you're here.	Ich weiss, du bist hier.	मुझे पता है कि तुम यहाँ हो।
-I know you're here.	Ich weiß, dass du hier bist.	मुझे पता है कि तुम यहाँ हो।
-I know you're rich.	Ich weiß, dass du reich bist.	मुझे पता है कि आप अमीर हैं।
-I know you're rich.	Ich weiß, dass Sie reich sind.	मुझे पता है कि वे अमीर हैं।
-I know you're rich.	Ich weiß, dass ihr reich seid.	मुझे पता है कि आप राज्य हैं।
-I know you're rich.	Ich weiß, du bist reich.	मुझे पता है कि आप अमीर हैं।
 I know your father.	Ich kenne deinen Vater.	मैं तुम्हारे पिता को जानता हूं।
 I know your father.	Ich kenne euren Vater.	मैं तुम्हारे पिता को जानता हूं।
 I know your father.	Ich kenne Ihren Vater.	मैं उसके पिता को जानता हूं।

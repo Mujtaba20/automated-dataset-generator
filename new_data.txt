@@ -21401,3 +21401,8 @@ I know where to go.	Ich weiß, wohin ich gehen soll.	मुझे पता ह�
 I know who you are.	Ich weiß, wer du bist.	मुझे पता है तुम कौन हो।
 I know why that is.	Ich weiß, warum das so ist.	मुझे पता है यह क्यूं है।
 I know you have it.	Ich weiß, dass du es hast.	मुझे पता है तुम्हारे पास है।
+I know you like me.	Ich weiß, dass du mich gern hast.	मुझे पता है कि तुम मुझे पसंद करते हो।
+I know you love me.	Ich weiß, dass du mich liebst.	मुझे पता है कि तुम मुझसे प्यार करते हो।
+I know you're busy.	Ich weiß, dass du sehr beschäftigt bist.	मुझे पता है कि तुम व्यस्त हो।
+I know you're here.	Ich weiß, dass du hier bist.	मुझे पता है कि तुम यहाँ हो।
+I know you're rich.	Ich weiß, dass du reich bist.	मुझे पता है कि तुम धनवान हो।
