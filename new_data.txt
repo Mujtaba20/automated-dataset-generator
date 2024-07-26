@@ -29606,3 +29606,13 @@ We made our demands.	Wir haben unsere Forderungen gestellt.	हमने अप�
 We make a good team.	Wir bilden ein gutes Team.	हम एक अच्छी टीम बनाते हैं।
 We may as well wait.	Wir können genauso gut warten.	हमें इंतज़ार करना हो सकता है।
 We met in Australia.	Wir trafen uns in Australien.	हम ऑस्ट्रेलिया में मिले।
+We missed our train.	Wir haben unseren Zug verpasst.	हमने अपनी ट्रेन मिस कर दी।
+We must act at once.	Wir müssen sofort handeln.	हमें तुरंत कार्रवाई करनी चाहिए।
+We must act quickly.	Wir müssen schnell handeln.	हमें जल्दी कार्रवाई करनी चाहिए।
+We must be cautious.	Wir müssen vorsichtig sein.	हमें सतर्क रहना चाहिए।
+We must be cautious. - Different meaning	Wir müssen achtsam sein.	हमें सतर्क और ध्यानी रहना चाहिए।
+We must leave early.	Wir müssen früh gehen.	हमें जल्दी निकलना चाहिए।
+We must leave early. - Different meaning	Wir müssen frühzeitig abreisen.	हमें जल्दी से निकल जाना चाहिए।
+We must not be late.	Wir dürfen nicht zu spät kommen.	हमें देर नहीं होने देना चाहिए।
+We must not do that.	Wir dürfen das nicht tun.	हमें ऐसा नहीं करना चाहिए।
+We must not retreat.	Wir dürfen nicht zurückweichen.	हमें पीछे हटने नहीं देना चाहिए।
