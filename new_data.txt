@@ -32345,3 +32345,11 @@ I'll always love Tom.	Ich werde Tom immer lieben.	मैं हमेशा ट�
 I'll always love you.	Ich werde dich immer lieben.	मैं हमेशा तुमसे प्यार करूँगा।
 I'll ask Tom for you.	Ich werde Tom für dich fragen.	मैं तुम्हारे लिए टॉम से पूछूँगा।
 I'll ask Tom to wait.	Ich werde Tom bitten zu warten.	मैं टॉम से पूछूँगा कि प्रतीक्षा करें।
+I'll be 30 next year.	Ich werde nächstes Jahr 30 sein.	मैं अगले साल 30 साल का हो जाऊंगा।
+I'll be back at 6:30.	Ich werde um 6:30 Uhr zurück sein.	मैं 6:30 बजे वापस आऊंगा।
+I'll be back in time.	Ich werde rechtzeitig zurück sein.	मैं समय पर वापस आऊंगा।
+I'll be free tonight.	Ich werde heute Abend frei sein.	मैं आज रात फ्री हो जाऊंगा।
+I'll be glad to come.	Ich werde gerne kommen.	मुझे आने में ख़ुशी होगी।
+I'll be home by 2:30.	Ich werde bis 2:30 Uhr zu Hause sein.	मैं 2:30 बजे तक घर पहुंच जाऊंगा।
+I'll be late to work.	Ich werde zu spät zur Arbeit kommen.	मैं काम पर देर से पहुंचूंगा।
+I'll be more careful.	Ich werde vorsichtiger sein.	मैं और सावधान रहूंगा।
