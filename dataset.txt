@@ -1,14 +1,4 @@
 
-I work for a hospital.	Ich arbeite in einem Krankenhaus.	मैं एक अस्पताल में काम करता हूं।
-I work in the morning.	Ich arbeite am Vormittag.	मैं सुबह काम करती हूँ।
-I would rather go out.	Ich möchte lieber ausgehen.	मैं बल्कि बाहर जाऊंगा।
-I would rather not go.	Ich möchte lieber nicht dorthin gehen.	मैं वहां नहीं जाना पसंद करता हूं।
-I would've liked that.	Das hätte mir gefallen.	मुझे वह पसंद आया होगा।
-I wouldn't be so sure.	Ich wäre mir nicht so sicher.	मुझे यकीन नहीं होगा।
-I wouldn't blame them.	Ich würde nicht ihnen die Schuld geben.	मैं उन्हें दोष नहीं दूंगा।
-I wouldn't blame them.	Ich würde ihnen nicht die Schuld geben.	मैं उन्हें दोष नहीं दूंगा।
-I wrote Mary a letter.	Ich habe Maria einen Brief geschrieben.	मैंने मारिया को एक पत्र लिखा।
-I'd advise against it.	Ich riete davon ab.	मैं उससे दूर भाग गया।
 I'd bet my life on it.	Darauf würde ich mein Leben verwetten.	मैं उस पर अपना जीवन दूंगा।
 I'd do it differently.	Ich würde es anders machen.	मैं इसे अलग तरह से करूंगा।
 I'd do the same thing.	Ich täte das Gleiche.	मैं यही करूंगा।

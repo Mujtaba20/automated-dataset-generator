@@ -38066,3 +38066,12 @@ I wonder why Tom left.	Ich frage mich, warum Tom gegangen ist.	मैं है�
 I work at the embassy.	Ich arbeite an der Botschaft.	मैं दूतावास में काम करता हूं।
 I work even on Sunday.	Ich arbeite sogar am Sonntag.	मैं रविवार के दिन भी काम करता हूं।
 I work for McDonald's.	Ich arbeite für McDonald's.	मैं मैकडॉनल्ड्स के लिए काम करता हूं।
+I work for a hospital.	Ich arbeite für ein Krankenhaus.	मैं एक अस्पताल के लिए काम करता हूँ।
+I work in the morning.	Ich arbeite morgens.	मैं सुबह काम करता हूँ।
+I would rather go out.	Ich würde lieber ausgehen.	मैं बाहर जाना पसंद करूँगा।
+I would rather not go.	Ich würde lieber nicht gehen.	मैं पसंद नहीं करूँगा।
+I would've liked that.	Das hätte mir gefallen.	मुझे यह पसंद आता।
+I wouldn't be so sure.	Ich wäre mir da nicht so sicher.	मैं इतना सुनिश्चित नहीं हूँ।
+I wouldn't blame them.	Ich würde sie nicht beschuldigen.	मैं उन्हें दोषी नहीं ठहराऊँगा।
+I wrote Mary a letter.	Ich habe Mary einen Brief geschrieben.	मैंने मेरी को एक पत्र लिखा।
+I'd advise against it.	Ich würde davon abraten.	मैं इसका विरोध करूँगा।
