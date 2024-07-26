@@ -27689,3 +27689,8 @@ No one believes you.	Niemand glaubt dir.	कोई नहीं मानता 
 No one came up here.	Niemand kam hierher.	यहाँ कोई नहीं आया।
 No one came with me.	Niemand kam mit mir.	किसी ने मेरे साथ नहीं आया।
 No one can help Tom.	Niemand kann Tom helfen.	कोई तोम की मदद नहीं कर सकता।
+No one can help you.	Niemand kann dir helfen.	कोई भी आपकी मदद नहीं कर सकता।
+No one can stop Tom.	Niemand kann Tom aufhalten.	कोई भी टॉम को रोक नहीं सकता।
+No one could see us.	Niemand konnte uns sehen.	कोई भी हमें नहीं देख सकता था।
+No one else laughed.	Niemand sonst hat gelacht.	कोई अन्य हंसा नहीं।
+No one even blinked.	Niemand hat sogar gezwinkert.	किसी ने भी अंजाने में नहीं देखा।

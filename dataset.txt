@@ -1,14 +1,4 @@
 
-No one can help you.	Keiner kann dir helfen.	कोई भी आपकी मदद नहीं कर सकता।
-No one can help you.	Keiner kann Ihnen helfen.	कोई भी उनकी सहायता नहीं कर सकता है।
-No one can help you.	Keiner kann euch helfen.	कोई भी आपकी मदद नहीं कर सकता।
-No one can help you.	Niemand kann dir helfen.	कोई भी आपकी मदद नहीं कर सकता।
-No one can help you.	Niemand kann Ihnen helfen.	कोई भी उनकी सहायता नहीं कर सकता है।
-No one can help you.	Niemand kann euch helfen.	कोई भी आपकी मदद नहीं कर सकता।
-No one can stop Tom.	Niemand kann Tom aufhalten.	कोई भी टॉम को रोक नहीं सकता।
-No one could see us.	Niemand konnte uns sehen.	कोई भी हमें नहीं देख सकता था।
-No one else laughed.	Niemand sonst hat gelacht.	कोई और हंसे नहीं।
-No one even blinked.	Keiner hat auch nur mit der Wimper gezuckt.	किसी ने सिर्फ बरौनी से नहीं चाटा।
 No one gave up hope.	Keiner gab die Hoffnung auf.	किसी ने भी उम्मीद नहीं छोड़ी।
 No one has died yet.	Es ist noch niemand gestorben.	अभी तक किसी की मृत्यु नहीं हुई है।
 No one has seen Tom.	Niemand hat Tom gesehen.	किसी ने टॉम को नहीं देखा।
