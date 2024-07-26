@@ -31206,3 +31206,11 @@ He will be here soon.	Er wird bald hier sein.	वह जल्द ही यह�
 He works as a busboy.	Er arbeitet als Kellner.	वह बसबॉय के रूप में काम करता है।
 He works in that lab.	Er arbeitet in diesem Labor.	वह उस प्रयोगशाला में काम करता है।
 He would not approve.	Er würde nicht zustimmen.	उसे मंजूर नहीं होगा।
+He wrote me a letter.	Er schrieb mir einen Brief.	उसने मुझे एक पत्र लिखा।
+He's a hopeless case.	Er ist ein hoffnungsloser Fall.	वह एक निराशा का मामला हे।
+He's a nervous wreck.	Er ist ein Nervenbündel.	वह एक तनावग्रस्त व्यक्ति है।
+He's a real Spaniard.	Er ist ein echter Spanier.	वह एक सच्चा स्पेनियार्ड है।
+He's a tennis player.	Er ist ein Tennisspieler.	वह एक टेनिस खिलाड़ी है।
+He's a very nice boy.	Er ist ein sehr netter Junge.	वह एक बहुत अच्छे लड़का है।
+He's afraid to dance.	Er hat Angst zu tanzen.	उसे नाचने से डर लगता है।
+He's already married.	Er ist bereits verheiratet.	वह पहले से ही शादीशुदा है।
