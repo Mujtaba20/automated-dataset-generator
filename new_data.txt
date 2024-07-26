@@ -20932,3 +20932,12 @@ He's working on it.	Er arbeitet daran.	वह इस पर काम कर र
 Help is on its way.	Unterstützung ist auf dem Weg.	सहायता अपनी राह पर है।
 Help is on the way.	Unterstützung ist auf dem Weg.	मदद रास्ते में है।
 Help! I can't swim.	Hilfe! Ich kann nicht schwimmen.	मदद! मैं तैर नहीं सकता।
+Help! I'm drowning!	Hilfe! Ich ertrinke!	मदद! मैं डूब जा रहा हूँ।
+Her dress was torn.	Ihr Kleid war zerrissen.	उसकी ड्रेस फट गई थी।
+Her face was sooty.	Ihr Gesicht war verrußt.	उसका चेहरा काला था।
+Her father is tall.	Ihr Vater ist groß.	उसका पिता लंबा है।
+Her skin is smooth.	Ihre Haut ist glatt.	उसकी त्वचा मुलायम है।
+Here are my papers.	Hier sind meine Papiere.	यहाँ मेरे पेपर हैं।
+Here are our books.	Hier sind unsere Bücher.	यहाँ हमारी किताबें हैं।
+Here are the facts.	Hier sind die Fakten.	यहाँ तथ्य हैं।
+Here are the rules.	Hier sind die Regeln.	यहाँ नियम हैं।
