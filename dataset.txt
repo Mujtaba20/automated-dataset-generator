@@ -1,14 +1,4 @@
 
-Mary knitted a scarf.	Maria strickte einen Schal.	मारिया ने एक दुपट्टा बुना।
-Mary lost an earring.	Maria verlor einen Ohrring.	मारिया ने एक बाली खो दी।
-Mary lost an earring.	Maria hat einen Ohrring verloren.	मारिया ने एक बाली खो दी है।
-Mary plays the piano.	Mary spielt Klavier.	मैरी पियानो बजाती है।
-Mary shaved her legs.	Maria rasierte ihre Beine.	मारिया ने अपने पैर मुंडवाए।
-Mary shaves her legs.	Mary rasiert sich die Beine.	मैरी ने अपने पैरों को मुंडा दिया।
-Mary wore a necklace.	Maria trug eine Halskette.	मारिया ने एक हार पहना था।
-Mary's dress is pink.	Marys Kleid ist rosa.	मैरी की पोशाक गुलाबी है।
-May I ask a question?	Könnte ich eine Frage stellen?	क्या मैं एक सवाल पूछ सकता था?
-May I ask a question?	Darf ich eine Frage stellen?	क्या मैं एक सवाल पूछ सकता हूँ?
 May I borrow this CD?	Könnte ich mir diese CD ausborgen?	क्या मैं इस सीडी को उधार ले सकता हूं?
 May I dance with you?	Darf ich mit dir tanzen?	क्या मैं आपके साथ नृत्य कर सकता हूं?
 May I eat this bread?	Darf ich dieses Brot essen?	क्या मैं यह रोटी खा सकता हूं?

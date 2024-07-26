@@ -33051,3 +33051,11 @@ Mary is kind of cute.	Maria ist irgendwie niedlich.	मेरी काफी �
 Mary is unattractive.	Maria ist unattraktiv.	मेरी अकर्षक नहीं है।
 Mary isn't my sister.	Maria ist nicht meine Schwester.	मेरी मेरी बहन नहीं है।
 Mary knit this scarf.	Maria hat diesen Schal gestrickt.	मेरी ने यह मफलर बुना था।
+Mary knitted a scarf.	Maria strickte einen Schal.	मेरी ने एक मफलर बुना।
+Mary lost an earring.	Maria hat einen Ohrring verloren.	मेरी ने एक कान की बाली खो दी।
+Mary plays the piano.	Maria spielt Klavier.	मेरी पियानो बजाती है।
+Mary shaved her legs.	Maria hat sich die Beine rasiert.	मेरी ने अपनी टांगों को साफ किया।
+Mary shaves her legs.	Maria rasiert sich die Beine.	मेरी अपनी टांगों को छिलने के लिए स्वर्गत किया।
+Mary wore a necklace.	Maria trug eine Halskette.	मेरी ने एक हार पहना।
+Mary's dress is pink.	Marys Kleid ist pink.	मेरी का पोशाक गुलाबी है।
+May I ask a question?	Darf ich eine Frage stellen?	क्या मैं सवाल पूछ सकता हूँ?
