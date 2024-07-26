@@ -1,15 +1,4 @@
 
-Our cat is housebroken.	Unsere Katze ist stubenrein.	हमारी बिल्ली हाउस -हाउस है।
-Our dogs were poisoned.	Man hat unsere Hunde vergiftet.	हमारे कुत्तों को जहर दिया गया था।
-Our school burned down.	Unsere Schule ist abgebrannt.	हमारा स्कूल जल गया।
-Our team did very well.	Unsere Mannschaft hat sich sehr gut geschlagen.	हमारी टीम ने बहुत अच्छा किया।
-Pandas are very clever.	Pandas sind sehr schlau.	पांडा बहुत स्मार्ट हैं।
-Pass the sugar, please.	Gib mir bitte den Zucker.	कृपया मुझे चीनी दें।
-Pass the sugar, please.	Bitte reiche mir den Zucker.	कृपया मुझे चीनी दें।
-People expect too much.	Die Leute erwarten zuviel.	लोग बहुत उम्मीद करते हैं।
-Perhaps I can help you.	Vielleicht kann ich Ihnen helfen.	शायद मैं आपकी मदद कर सकता हूँ।
-Perhaps I can help you.	Vielleicht kann ich euch helfen.	शायद मैं आपकी मदद कर सकता हूँ।
-Perhaps I can help you.	Vielleicht kann ich dir helfen.	शायद मैं आपकी मदद कर सकता हूँ।
 Perhaps Tom is married.	Vielleicht ist Tom verheiratet.	शायद टॉम शादीशुदा है।
 Perhaps we're to blame.	Vielleicht sind wir schuld.	शायद हम दोषी हैं।
 Please be very careful.	Bitte sei äußerst vorsichtig!	कृपया बेहद सावधान रहें!
