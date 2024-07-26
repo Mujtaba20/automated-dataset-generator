@@ -1,14 +1,4 @@
 
-I pocketed my keys.	Ich habe meine Schlüssel eingesteckt.	मैंने अपनी चाबी रखी।
-I promise I'll try.	Ich verspreche, ich werde mir Mühe geben.	मैं वादा करता हूं कि मैं एक प्रयास करूंगा।
-I put my helmet on.	Ich setzte meinen Helm auf.	मैंने अपने हेलमेट पर डाल दिया।
-I ran out of ideas.	Ich habe keine Ideen mehr.	मेरे पास कोई और विचार नहीं है।
-I ran out of money.	Mir ging das Geld aus.	पैसा निकला।
-I ran to my mother.	Ich rannte zu meiner Mutter.	मैं अपनी माँ के पास भाग गया।
-I read comic books.	Ich lese Comichefte.	मैंने Comichefte पढ़ा।
-I read comic books.	Ich lese Comics.	मैंने कॉमिक्स पढ़ी।
-I read the article.	Ich lese den Artikel.	मैंने लेख पढ़ा।
-I read the article.	Ich las den Artikel.	मैंने लेख पढ़ा।
 I read your report.	Ich habe Ihren Bericht gelesen.	मैंने आपकी रिपोर्ट पढ़ी।
 I really like snow.	Ich mag Schnee sehr.	मुझे बर्फ बहुत पसंद है।
 I really like them.	Ich mag sie wirklich.	मैं सच्च में उसे पसंद करता हुँ।

@@ -21570,3 +21570,11 @@ I panicked and ran.	Ich geriet in Panik und rannte.	मैं घबराया
 I plan to be there.	Ich plane, dort zu sein.	मेरी योजना वहां जाने की है।
 I play video games.	Ich spiele Videospiele.	मैं वीडियो गेम्स खेलता हूँ।
 I play with my cat.	Ich spiele mit meiner Katze.	मैं अपनी बिल्ली के साथ खेलता हूँ।
+I pocketed my keys.	Ich steckte meine Schlüssel ein.	मैंने अपनी चाबियाँ जेब में डाली।
+I promise I'll try.	Ich verspreche, dass ich es versuchen werde.	मैं वादा करता हूँ कि मैं कोशिश करूँगा।
+I put my helmet on.	Ich setzte meinen Helm auf.	मैंने अपना हेलमेट पहना लिया।
+I ran out of ideas.	Mir gehen die Ideen aus.	मेरे पास विचार ही नहीं है।
+I ran out of money.	Mir geht das Geld aus.	मेरे पैसे ख़त्म हो गए।
+I ran to my mother.	Ich rannte zu meiner Mutter.	मैं अपनी माँ के पास भागा।
+I read comic books.	Ich las Comicbücher.	मैंने कॉमिक बुक्स पढ़ी।
+I read the article.	Ich las den Artikel.	मैं अनुच्छेद पढ़ा।
