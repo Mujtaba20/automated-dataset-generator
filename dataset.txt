@@ -1,14 +1,4 @@
 
-Tom forced me to go.	Tom zwang mich zu gehen.	टॉम ने मुझे जाने के लिए मजबूर किया।
-Tom found a new job.	Tom fand einen neuen Job.	टॉम को एक नई नौकरी मिली।
-Tom found me a taxi.	Tom suchte mir ein Taxi.	टॉम ने टैक्सी की तलाश की।
-Tom found something.	Tom hat etwas gefunden.	टॉम को कुछ मिला।
-Tom frightened Mary.	Tom ängstigte Maria.	टॉम डरते हुए मारिया।
-Tom gave a big yawn.	Tom gähnte breit.	टॉम ने मोटे तौर पर जम्हाई ली।
-Tom gave it to Mary.	Tom gab das Maria.	टॉम ने मारिया को दिया।
-Tom gave me the key.	Tom gab mir den Schlüssel.	टॉम ने मुझे चाबी दी।
-Tom gave that to me.	Tom hat mir das gegeben.	टॉम ने मुझे वह दिया।
-Tom gave this to me.	Tom hat mir das gegeben.	टॉम ने मुझे वह दिया।
 Tom gave up smoking.	Tom hat mit dem Rauchen aufgehört.	टॉम ने धूम्रपान करना बंद कर दिया।
 Tom gave up smoking.	Tom hat das Rauchen aufgegeben.	टॉम ने धूम्रपान छोड़ दिया है।
 Tom gave us nothing.	Tom hat uns nichts gegeben.	टॉम ने हमें कुछ नहीं दिया।
