@@ -21993,3 +21993,10 @@ I'm not asking Tom.	Ich frage nicht Tom.	मैं टॉम से पूछ �
 I'm not asleep yet.	Ich schlafe noch nicht.	मैं अभी तक सोया नहीं हूँ।
 I'm not courageous.	Ich bin nicht mutig.	मैं बहादुर नहीं हूँ।
 I'm not denying it.	Ich leugne es nicht.	मैं इसे इंकार नहीं कर रहा हूँ।
+I'm not doing that.	Das mache ich nicht.	मैं वह नहीं कर रहा हूँ।
+I'm not getting up.	Ich stehe nicht auf.	मैं नहीं उठ रहा हूँ।
+I'm not going away.	Ich gehe nicht weg.	मैं चला नहीं जा रहा हूँ।
+I'm not going back.	Ich gehe nicht zurück.	मैं वापस नहीं जा रहा हूँ।
+I'm not going home.	Ich gehe nicht nach Hause.	मैं घर नहीं जा रहा हूँ।
+I'm not good at it.	Ich bin nicht gut darin.	मैं इसमें अच्छा नहीं हूँ।
+I'm not happy here.	Ich bin nicht glücklich hier.	मैं यहाँ खुश नहीं हूँ।

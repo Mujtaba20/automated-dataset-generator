@@ -1,14 +1,4 @@
 
-I'm not doing that.	Das tu ich nicht.	मैं नहीं।
-I'm not doing that.	Das werde ich nicht tun.	मैं उसे नहीं करूँगा।
-I'm not doing that.	Das tue ich nicht.	ऐसा नहीं करते।
-I'm not getting up.	Ich stehe nicht auf.	मैं नहीं उठ रहा हूं।
-I'm not going away.	Ich gehe nicht fort.	मैं दूर नहीं जाता।
-I'm not going back.	Ich gehe nicht dorthin zurück.	मैं वहाँ वापस नहीं जाता।
-I'm not going back.	Ich gehe nicht zurück.	मैं वापस नहीं जाता।
-I'm not going home.	Ich gehe nicht nach Hause.	मैं घर नहीं जा रहा हूँ।
-I'm not good at it.	Ich bin darin nicht gut.	मैं इसमें अच्छा नहीं हूं।
-I'm not happy here.	Ich bin hier nicht glücklich.	मैं यहाँ खुश नहीं हूँ।
 I'm not hungry now.	Ich habe jetzt keinen Hunger.	मुझे अब भूख नहीं है।
 I'm not hungry yet.	Ich habe noch keinen Hunger.	मैं अभी तक भूखा नहीं हूँ।
 I'm not illiterate.	Ich bin kein Analphabet.	मैं अनपढ़ नहीं हूं।
