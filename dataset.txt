@@ -1,14 +1,4 @@
 
-Tom looks suspicious.	Tom sieht verdächtig aus.	टॉम संदिग्ध लग रहा है।
-Tom looks very bored.	Tom sieht ziemlich gelangweilt aus.	टॉम बहुत ऊब दिखता है।
-Tom looks very happy.	Tom sieht sehr glücklich aus.	टॉम बहुत खुश लग रहा है।
-Tom looks very happy.	Tom wirkt sehr glücklich.	टॉम बहुत खुश लग रहा है।
-Tom looks very tired.	Tom sieht sehr müde aus.	टॉम बहुत थक गया लगता है।
-Tom looks very young.	Tom sieht sehr jung aus.	टॉम बहुत छोटा दिखता है।
-Tom lost his balance.	Tom verlor das Gleichgewicht.	टॉम ने संतुलन खो दिया।
-Tom lost his car key.	Tom hat seinen Autoschlüssel verloren.	टॉम ने अपनी कार की चाबी खो दी।
-Tom lost his friends.	Tom hat seine Freunde verloren.	टॉम ने अपने दोस्तों को खो दिया।
-Tom lost his glasses.	Tom hat seine Brille verloren.	टॉम ने अपना चश्मा खो दिया है।
 Tom lost his hearing.	Tom ist taub geworden.	टॉम बहरा हो गया है।
 Tom lost his hearing.	Tom hat den Gehörsinn verloren.	टॉम ने अपनी सुनवाई की भावना खो दी है।
 Tom loved Mary a lot.	Tom liebte Maria sehr.	टॉम ने मारिया को बहुत प्यार किया।

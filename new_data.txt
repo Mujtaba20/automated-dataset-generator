@@ -34663,3 +34663,12 @@ Tom looks fine to me.	Tom sieht für mich gut aus.	मेरे लिए टॉ
 Tom looks pretty bad.	Tom sieht ziemlich schlecht aus.	टॉम काफी खराब दिख रहा है।
 Tom looks really sad.	Tom wirkt wirklich traurig.	टॉम सचमुच उदास लग रहा है।
 Tom looks ridiculous.	Tom sieht lächerlich aus.	टॉम मात्राहीन लग रहा है।
+Tom looks suspicious.	Tom sieht verdächtig aus.	टॉम संदेह का नजरिया रखता है।
+Tom looks very bored.	Tom sieht sehr gelangweilt aus.	टॉम बहुत उबाऊ लग रहा है।
+Tom looks very happy.	Tom sieht sehr glücklich aus.	टॉम बहुत खुश लग रहा है।
+Tom looks very tired.	Tom sieht sehr müde aus.	टॉम बहुत थका हुआ लग रहा है।
+Tom looks very young.	Tom sieht sehr jung aus.	टॉम बहुत जवान लग रहा है।
+Tom lost his balance.	Tom verlor sein Gleichgewicht.	टॉम ने अपना संतुलन खो दिया।
+Tom lost his car key.	Tom hat seinen Autoschlüssel verloren.	टॉम ने अपनी कार की चाबी खो दी।
+Tom lost his friends.	Tom hat seine Freunde verloren.	टॉम ने अपने दोस्तों को खो दिया।
+Tom lost his glasses.	Tom verlor seine Brille.	टॉम ने अपने चश्मे खो दिए।
