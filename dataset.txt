@@ -1,14 +1,4 @@
 
-Tom can't leave now.	Tom kann jetzt nicht weg.	टॉम अब दूर नहीं जा सकता।
-Tom can't leave now.	Tom kann jetzt nicht gehen.	टॉम अब नहीं जा सकता।
-Tom can't mean that.	Tom kann das nicht ernst meinen.	टॉम गंभीर नहीं हो सकता।
-Tom can't stay long.	Tom kann nicht lange bleiben.	टॉम लंबे समय तक नहीं रह सकता।
-Tom can't stop Mary.	Tom kann Maria nicht aufhalten.	टॉम मारिया को रोक नहीं सकता।
-Tom caught the ball.	Tom fing den Ball.	टॉम ने गेंद को पकड़ा।
-Tom changed clothes.	Tom zog sich um.	टॉम बदल गया।
-Tom changed his job.	Tom wechselte die Arbeit.	टॉम ने काम बदल दिया।
-Tom changed the oil.	Tom nahm einen Ölwechsel vor.	टॉम ने एक तेल परिवर्तन किया।
-Tom checked the oil.	Tom überprüfte den Ölstand.	टॉम ने तेल स्तर की जाँच की।
 Tom closed his eyes.	Tom schloss seine Augen.	टॉम ने अपनी आँखें बंद कर लीं।
 Tom closed his eyes.	Tom schloss die Augen.	टॉम ने अपनी आँखें बंद कर लीं।
 Tom closed the book.	Tom schlug das Buch zu.	टॉम ने किताब मारा।
