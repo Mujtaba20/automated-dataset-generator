@@ -38118,3 +38118,12 @@ I'll do what Tom says.	Ich werde tun, was Tom sagt.	मैं वह करू�
 I'll do what you want.	Ich werde tun, was du willst.	मैं वह करूंगा जो तुम चाहते हो।
 I'll find another job.	Ich werde einen anderen Job finden.	मैं एक और नौकरी ढूंढ़ूंगा।
 I'll find out for you.	Ich werde es für dich herausfinden.	मैं तुम्हारे लिए जांच लूंगा।
+I'll get some glasses.	Ich werde einige Gläser holen.	मैं कुछ गिलास लेआऊंगा।
+I'll get that for you.	Ich werde das für dich holen.	मैं आपके लिए वह लेआऊंगा।
+I'll get them for you.	Ich werde sie für dich holen.	मैं आपके लिए उन्हें लेआऊंगा।
+I'll get you for this.	Ich werde dich dafür bekommen.	मैं इसके लिए तुम्हें पाऊंगा।
+I'll give that to Tom.	Ich werde das Tom geben.	मैं तोम को वह दूंगा।
+I'll give that to you.	Ich werde das dir geben.	मैं तुम्हे वह दूंगा।
+I'll give this to Tom.	Ich werde das Tom geben.	मैं इसे तोम को दूंगा।
+I'll go get the broom.	Ich werde den Besen holen.	मैं झाड़ू लेआऊंगा।
+I'll have to warn Tom.	Ich werde Tom warnen müssen.	मुझे तोम को चेतावनी देनी होगी।
