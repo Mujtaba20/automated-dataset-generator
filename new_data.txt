@@ -30432,3 +30432,9 @@ Are you really happy?	Bist du wirklich glücklich?	क्या आप सचम
 Are you scared of me?	Hast du Angst vor mir?	क्या आप मुझसे डरते हैं?
 Are you spying on me?	Spionierst du mich aus?	क्या आप मुझ पर जासूसी कर रहे हैं?
 Are you still hungry?	Bist du immer noch hungrig?	क्या तुम अब भी भूखे हो?
+Are you still in bed?	Bist du noch im Bett?	क्या तुम अब तक बिस्तर पर हो?
+Are you still sleepy?	Bist du immer noch müde?	क्या तुम अभी भी नींद में हो?
+Are you sure of that?	Sind Sie sich da sicher?	क्या आप उस पर पूरी तरह से निस्पक्ष हैं?
+Are you taking notes?	Machst du Notizen?	क्या तुम नोट्स ले रहे हो?
+Are you with the FBI?	Bist du beim FBI?	क्या तुम FBI के साथ हो?
+Are you with us, Tom?	Bist du bei uns, Tom?	क्या तुम हमारे साथ हो, टॉम?
