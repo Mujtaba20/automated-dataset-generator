@@ -24966,3 +24966,7 @@ You're avoiding me.	Du meidest mich.	तुम मुझसे बच रहे 
 You're both insane.	Ihr seid beide verrückt.	तुम दोनो पागल हो।
 You're charismatic.	Du bist charismatisch.	तुम आकर्षक हो।
 You're cooperating.	Ihr leistet gute Arbeit.	तुम अच्छा काम कर रहे हो।
+You're extroverted.	Du bist extrovertiert.	तुम बहुत उज्जवल हो।
+You're fascinating.	Du bist faszinierend.	तुम लालचाना हो।
+You're fashionable.	Du bist modisch.	तुम फैशनेबल हो।
+You're hardworking.	Du bist fleißig.	तुम मेहनती हो।
