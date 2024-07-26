@@ -1,14 +1,4 @@
 
-I'm translating a book.	Ich übersetze ein Buch.	मैं एक पुस्तक का अनुवाद करता हूं।
-I'm trying to be happy.	Ich versuche, glücklich zu sein.	मैं खुश रहने की कोशिश करता हूं।
-I'm trying to help you.	Ich versuche, dir zu helfen.	मैं आपकी मदद करने की कोशिश करता हूं।
-I'm trying to work now.	Ich versuche jetzt zu arbeiten.	मैं अब काम करने की कोशिश कर रहा हूं।
-I'm using common sense.	Ich benutze meinen gesunden Menschenverstand.	मैं अपने सामान्य ज्ञान का उपयोग करता हूं।
-I'm using the computer.	Ich benutze den Computer.	मैं कंप्यूटर का उपयोग करता हूँ।
-I'm very happy for Tom.	Ich freue mich sehr für Tom.	मैं टॉम के लिए बहुत खुश हूं।
-I'm very happy for you.	Das freut mich für dich.	मुझे आपके लिए खुशी है।
-I'm very happy for you.	Ich freue mich sehr für dich.	मैं तुम्हारे लिए बहुत खुश हूं।
-I'm very happy for you.	Das freut mich für Sie.	मैं आपके लिए खुश हूँ।
 I'm very happy with it.	Ich bin sehr glücklich damit.	मैं इसके साथ बहुत खुश हूं।
 I'm very old-fashioned.	Ich bin sehr altmodisch.	मैं बहुत पुराना हूं।
 I'm very proud of that.	Darauf bin ich sehr stolz.	मुझे उस पर बहुत गर्व है।
