@@ -1,14 +1,4 @@
 
-Can you fix a toilet?	Können Sie eine Toilette reparieren?	क्या आप शौचालय की मरम्मत कर सकते हैं?
-Can you fix our sink?	Kannst du unser Spülbecken reparieren?	क्या आप हमारे सिंक की मरम्मत कर सकते हैं?
-Can you fix our sink?	Können Sie unser Spülbecken reparieren?	क्या आप हमारे सिंक की मरम्मत कर सकते हैं?
-Can you fix our sink?	Könnt ihr unser Spülbecken reparieren?	क्या आप हमारे सिंक की मरम्मत कर सकते हैं?
-Can you give me that?	Reichst du mir das mal?	क्या आप मेरे लिए पर्याप्त हैं?
-Can you guess my age?	Kannst du mein Alter erraten?	क्या आप मेरी उम्र का अंदाज़ कर सकते हैं?
-Can you hear me, Tom?	Kannst du mich hören, Tom?	क्या आप मुझे सुन सकते हैं, टॉम?
-Can you imagine that?	Kannst du dir das vorstellen?	क्या आप यह सोच सकते हैं?
-Can you imagine that?	Können Sie sich das vorstellen?	क्या आप यह सोच सकते हैं?
-Can you manage alone?	Kommst du allein zurecht?	क्या आप अकेले साथ हैं?
 Can you program in C?	Kannst du in C programmieren?	क्या आप C में प्रोग्राम कर सकते हैं?
 Can you program in C?	Können Sie in C programmieren?	क्या आप C में प्रोग्राम कर सकते हैं?
 Can you ride a horse?	Kannst du reiten?	क्या आप सवारी कर सकते हैं
