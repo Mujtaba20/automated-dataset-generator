@@ -28623,3 +28623,12 @@ Tom dealt the cards.	Tom hat die Karten ausgeteilt.	टॉम ने कार�
 Tom decided to stay.	Tom hat beschlossen zu bleiben.	टॉम ने रहने का निर्णय लिया।
 Tom decided to wait.	Tom hat beschlossen zu warten.	टॉम ने इंतज़ार करने का निर्णय लिया।
 Tom delivers pizzas.	Tom liefert Pizzen aus.	टॉम पिज़्ज़ा डिलीवर करता है।
+Tom deserves better.	Tom verdient Besseres.	टॉम को बेहतर के लायक है।
+Tom diced the onion.	Tom hat die Zwiebel gewürfelt.	टॉम ने प्याज को काट लिया।
+Tom did a cartwheel.	Tom hat ein Radschlag gemacht.	टॉम ने एक कार्टव्हील किया।
+Tom did a great job.	Tom hat einen tollen Job gemacht.	टॉम ने बहुत अच्छा काम किया।
+Tom did a handstand.	Tom machte einen Handstand.	टॉम ने हैंडस्टैंड किया।
+Tom did a lousy job.	Tom hat einen miserablen Job gemacht.	टॉम ने एक घटिया काम किया।
+Tom did really well.	Tom hat wirklich gut gemacht.	टॉम ने सचमुच अच्छा किया।
+Tom didn't disagree.	Tom war nicht anderer Meinung.	टॉम असहमत नहीं था।
+Tom didn't even try.	Tom hat es nicht einmal versucht.	टॉम ने तो कोशिश भी नहीं की।
