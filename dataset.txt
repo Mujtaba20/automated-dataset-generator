@@ -1,14 +1,4 @@
 
-Tom became a singer.	Tom wurde Sänger.	टॉम गायक बन गया।
-Tom became very hot.	Tom wurde sehr heiß.	टॉम बहुत गर्म हो गया।
-Tom became very ill.	Tom wurde sehr krank.	टॉम बहुत बीमार हो गया।
-Tom behaved himself.	Tom hat sich benommen.	टॉम ने व्यवहार किया।
-Tom belongs in jail.	Tom gehört ins Gefängnis.	टॉम जेल से संबंधित है।
-Tom bites his nails.	Tom kaut an seinen Nägeln.	टॉम अपने नाखूनों पर चबाता है।
-Tom blamed it on me.	Tom gab mir die Schuld daran.	टॉम ने मुझे दोषी ठहराया।
-Tom bought a webcam.	Tom hat sich eine Netzkamera gekauft.	टॉम ने एक नेटवर्क कैमरा खरीदा।
-Tom broke the rules.	Tom verstieß gegen die Regeln.	टॉम ने नियमों का उल्लंघन किया।
-Tom brought flowers.	Tom hatte Blumen dabei.	टॉम ने उसके साथ फूल थे।
 Tom brought me food.	Tom hat mir etwas zu essen mitgebracht.	टॉम मुझे खाने के लिए कुछ ले आया।
 Tom built a shelter.	Tom hat einen Unterschlupf gebaut.	टॉम ने एक आश्रय का निर्माण किया।
 Tom called for help.	Tom rief um Hilfe.	टॉम ने मदद के लिए बुलाया।

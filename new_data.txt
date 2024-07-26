@@ -28561,3 +28561,13 @@ Tom became a doctor.	Tom wurde Arzt.	टॉम डॉक्टर बन गय�
 Tom became a father.	Tom wurde Vater.	टॉम पिता बन गया।
 Tom became a pastor.	Tom wurde Pastor.	टॉम पादरी बन गया।
 Tom became a sailor.	Tom wurde Seemann.	टॉम नाविक बन गया।
+Tom became a singer.	Tom wurde Sänger.	टॉम गायक बन गया।
+Tom became very hot.	Tom wurde sehr heiß.	टॉम बहुत गरम हो गया।
+Tom became very ill.	Tom wurde sehr krank.	टॉम बहुत बीमार हो गया।
+Tom behaved himself.	Tom benahm sich.	टॉम खुद को संयमित रखा।
+Tom belongs in jail.	Tom gehört ins Gefängnis.	टॉम को जेल में होना चाहिए।
+Tom bites his nails.	Tom beißt sich auf die Nägel.	टॉम अपने नाखून चबाता है।
+Tom blamed it on me.	Tom gab mir die Schuld daran.	टॉम ने इसे मुझपर ठेंगा दिया।
+Tom bought a webcam.	Tom kaufte eine Webcam.	टॉम ने वेबकैम खरीदी।
+Tom broke the rules.	Tom brach die Regeln.	टॉम ने नियम तोड़ दिए।
+Tom brought flowers.	Tom brachte Blumen.	टॉम ने फूल लाए।
