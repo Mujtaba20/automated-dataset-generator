@@ -39375,3 +39375,4 @@ That's how Tom did it.	So hat Tom es gemacht.	वैसे ही टॉम न�
 That's how it is done.	So wird es gemacht.	यह कैसे किया जाता है।
 That's how it started.	So hat es angefangen.	यह कैसे शुरू हुआ।
 That's irrelevant now.	Das ist jetzt irrelevant.	वह अब अमान्य है।
+engSentence		
