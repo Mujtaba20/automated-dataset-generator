@@ -1,16 +1,4 @@
 
-Where are you living?	Wo lebst du?	आप कहाँ रहते हैं?
-Where are you off to?	Wo willst du hin?	आप कहाँ जाना चाहते हैं?
-Where are your aunts?	Wo sind deine Tanten?	आपकी चाची कहाँ हैं?
-Where are your aunts?	Wo sind eure Tanten?	आपकी चाची कहाँ हैं?
-Where are your socks?	Wo sind deine Socken?	आपके मोजे कहाँ हैं?
-Where can I buy silk?	Wo kann ich Seide kaufen?	मैं रेशम कहां से खरीद सकता हूं?
-Where can I find Tom?	Wo kann ich Tom finden?	मुझे टॉम कहां मिल सकता है?
-Where can I get some?	Wo kann ich welche bekommen?	मुझे कोई कहां मिल सकता है?
-Where can I meet Tom?	Wo kann ich Tom treffen?	मैं टॉम से कहां मिल सकता हूं?
-Where can I take you?	Wohin darf ich dich bringen?	मैं आपको कहां ले जा सकता हूं?
-Where can I take you?	Wohin darf ich Sie bringen?	मैं आपको कहां ले जा सकता हूं?
-Where can I take you?	Wohin darf ich euch bringen?	मैं आपको कहां ले जा सकता हूं?
 Where did you get it?	Wo hast du das her?	यह आपको कहां से मिला?
 Where do I find that?	Wo finde ich das?	मैं इसे कहां पर ढूंढूँ?
 Where do you want it?	Wo willst du es?	आप इसे कहां चाहते हैं?

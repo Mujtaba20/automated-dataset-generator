@@ -35498,3 +35498,13 @@ Where are the photos?
 Where are we exactly?		
 Where are we staying?		
 Where are you hiding?		
+Where are you living?	Wo wohnst du?	तुम कहाँ रह रहे हो?
+Where are you off to?	Wohin gehst du?	तुम कहाँ जा रहे हो?
+Where are your aunts?	Wo sind deine Tanten?	तुम्हारी चाची कहाँ हैं?
+Where are your aunts? 	Wo sind deine Tanten?	तुम्हारी बुआ कहाँ हैं?
+Where are your socks?	Wo sind deine Socken?	तुम्हारे मोजे कहाँ हैं?
+Where can I buy silk?	Wo kann ich Seide kaufen?	मैं कहाँ सिल्क खरीद सकता हूँ?
+Where can I find Tom?	Wo kann ich Tom finden?	मैं टॉम को कहाँ ढूंढ सकता हूँ?
+Where can I get some?	Wo kann ich etwas bekommen?	मुझे कुछ मिल सकता है क्या?
+Where can I meet Tom?	Wo kann ich Tom treffen?	मैं टॉम से कहाँ मिल सकता हूँ?
+Where can I take you?	Wohin kann ich dich bringen?	मैं तुम्हें कहाँ ले जा सकता हूँ?
