@@ -1,16 +1,4 @@
 
-She has gone to Paris.	Sie ging nach Paris.	वह पेरिस गई।
-She has lost all hope.	Sie hat alle Hoffnung aufgegeben.	उसने सारी आशा छोड़ दी है.
-She has two daughters.	Sie hat zwei Töchter.	उसकी दो बेटियां हैं।
-She hated her husband.	Sie hasste ihren Mann.	वह अपने पति से नफरत करती थी।
-She helped cook lunch.	Sie hat geholfen, Mittag zu machen.	उसने दोपहर का भोजन बनाने में मदद की।
-She hit the ball hard.	Sie schlug den Ball hart.	उसने गेंद को ज़ोर से मारा.
-She ironed his shirts.	Sie bügelte seine Hemden.	उसने उसकी कमीज़ें इस्त्री कीं।
-She is a good swimmer.	Sie ist eine gute Schwimmerin.	वह एक अच्छी तैराक है।
-She is about to leave.	Sie ist im Begriff zu gehen.	यह जाने वाला है।
-She is about your age.	Sie ist ungefähr in eurem Alter.	यह आपकी उम्र के बारे में है।
-She is about your age.	Sie ist ungefähr in deinem Alter.	यह आपकी उम्र के बारे में है।
-She is about your age.	Sie ist ungefähr in Ihrem Alter.	वह अपनी उम्र के बारे में है।
 She is afraid of cats.	Sie hat Angst vor Katzen.	वह बिल्लियों से डरती है।
 She is afraid of dogs.	Sie hat Angst vor Hunden.	वह कुत्तों से डरती है।
 She is aged seventeen.	Sie ist 17 Jahre alt.	वह सत्रह साल की है।

@@ -39095,3 +39095,13 @@ She has a small waist.	Sie hat eine schmale Taille.	उसकी छोटी �
 She has been to Paris.	Sie war in Paris.	उसे पेरिस गया हुआ है।
 She has gone shopping.	Sie ist einkaufen gegangen.	उसने खरीदारी की है।
 She has gone to Italy.	Sie ist nach Italien gegangen.	उसने इटली जाना है।
+She has gone to Paris.	Sie ist nach Paris gegangen.	उसने पेरिस जाना है।
+She has lost all hope.	Sie hat alle Hoffnung verloren.	उसने सभी आशा खो दी है।
+She has two daughters.	Sie hat zwei Töchter.	उसके पास दो बेटियां हैं।
+She hated her husband.	Sie hasste ihren Ehemann.	उसे अपने पति से नफरत थी।
+She helped cook lunch.	Sie half beim Mittagessen kochen.	उसने दोपहर का खाना बनाने में मदद की।
+She hit the ball hard.	Sie schlug den Ball hart.	उसने गेंद को मजबूती से मारा।
+She ironed his shirts.	Sie bügelte seine Hemden.	उसने उसके कमीजों को इस्त्रीसे प्रेस किया।
+She is a good swimmer.	Sie ist eine gute Schwimmerin.	वह एक अच्छी स्विमर है।
+She is about to leave.	Sie steht kurz vor der Abreise.	वह जाने वाली है।
+She is about your age.	Sie ist ungefähr in deinem Alter.	वह तुम्हारी उम्र की लगभग है।
