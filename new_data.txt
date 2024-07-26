@@ -34184,3 +34184,12 @@ Tom feared the worst.	Tom fürchtete das Schlimmste.	टॉम का सबस�
 Tom fed the chickens.	Tom fütterte die Hühner.	टॉम ने मुर्गियों को खिलाया।
 Tom felt a bit woozy.	Tom fühlte sich etwas benommen.	टॉम को थोड़ा सा चक्कर आया।
 Tom felt like a fool.	Tom fühlte sich wie ein Narr.	टॉम को पागल जैसा महसूस हुआ।
+Tom felt like crying.	Tom fühlte sich, als ob er weinen würde.	टॉम को रोने का भाव था।
+Tom felt overwhelmed.	Tom fühlte sich überwältigt.	टॉम को अधिक जिम्मेदारी महसूस हो रही थी।
+Tom felt responsible.	Tom fühlte sich verantwortlich.	टॉम महसूस कर रहा था कि वह जिम्मेदारी संभालनी चाहिए।
+Tom felt very lonely.	Tom fühlte sich sehr einsam.	टॉम बहुत अकेला महसूस कर रहा था।
+Tom felt very sleepy.	Tom fühlte sich sehr schläfrig.	टॉम को बहुत नींद आ रही थी।
+Tom fired his pistol.	Tom feuerte seine Pistole ab.	टॉम ने अपनी पिस्तौल छोड़ दी।
+Tom fired his weapon.	Tom feuerte seine Waffe ab.	टॉम ने अपने हथियार का उपयोग किया।
+Tom fixed Mary's car.	Tom reparierte Marys Auto.	टॉम ने मेरी की कार ठीक की।
+Tom fixed us a snack.	Tom bereitete uns einen Snack zu.	टॉम ने हमें एक टिडबिट बनाया।
