@@ -1,14 +1,4 @@
 
-Tom stopped talking.	Tom verstummte.	टॉम चुप हो गया।
-Tom stopped talking.	Tom hörte auf zu reden.	टॉम ने बात करना बंद कर दिया।
-Tom stopped talking.	Tom hörte auf zu sprechen.	टॉम ने बोलना बंद कर दिया।
-Tom stubbed his toe.	Tom stieß sich seinen Zeh.	टॉम अपने पैर की अंगुली में टकरा गया।
-Tom stuck up for me.	Tom trat für mich ein.	टॉम ने मुझे प्रवेश किया।
-Tom studied biology.	Tom hat Biologie studiert.	टॉम ने जीव विज्ञान का अध्ययन किया।
-Tom studied geology.	Tom studierte Geologie.	टॉम ने भूविज्ञान का अध्ययन किया।
-Tom studied geology.	Tom hat Geologie studiert.	टॉम ने भूविज्ञान का अध्ययन किया।
-Tom swatted the fly.	Tom schlug die Fliege tot.	टॉम ने फ्लाई को मरा दिया।
-Tom swims every day.	Tom schwimmt jeden Tag.	टॉम हर दिन तैरता है।
 Tom swims very fast.	Tom schwimmt sehr schnell.	टॉम बहुत जल्दी तैरता है।
 Tom swims very well.	Tom schwimmt sehr gut.	टॉम बहुत अच्छी तरह से तैरता है।
 Tom talked too much.	Tom hat zu viel geredet.	टॉम ने बहुत बात की।

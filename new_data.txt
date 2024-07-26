@@ -29306,3 +29306,10 @@ Tom stopped dancing.	Tom hörte auf zu tanzen.	टॉम नाचना बं�
 Tom stopped digging.	Tom hörte auf zu graben.	टॉम खोदना बंद कर दिया।
 Tom stopped reading.	Tom hörte auf zu lesen.	टॉम पढ़ना बंद कर दिया।
 Tom stopped running.	Tom hörte auf zu laufen.	टॉम दौड़ना बंद कर दिया।
+Tom stopped talking.	Tom hörte auf zu sprechen.	टॉम बात करना बंद कर दिया।
+Tom stubbed his toe.	Tom hat sich den Zeh gestoßen.	टॉम ने अपने पैर की अंगुली को चोट पहुँचाई।
+Tom stuck up for me.	Tom hat mich verteidigt.	टॉम ने मेरे लिए दांव लगाया।
+Tom studied biology.	Tom hat Biologie studiert.	टॉम ने जीवविज्ञान पढ़ा।
+Tom studied geology.	Tom hat Geologie studiert.	टॉम ने भूविज्ञान पढ़ा।
+Tom swatted the fly.	Tom schlug die Fliege.	टॉम ने मक्खी को मार दिया।
+Tom swims every day.	Tom schwimmt jeden Tag.	टॉम हर दिन तैरता है।
