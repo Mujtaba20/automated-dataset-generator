@@ -28254,3 +28254,11 @@ The sky turned dark.	Der Himmel wurde dunkel.	आसमान काला ह�
 The snow has melted.	Der Schnee ist geschmolzen.	बर्फ पिघल गई है।
 The socks smell bad.	Die Socken riechen schlecht.	मौसम खराब है।
 The soup is too hot.	Die Suppe ist zu heiß.	सूप बहुत गरम है।
+The soup's very hot.	Die Suppe ist sehr heiß.	सूप बहुत गरम है।
+The stakes are high.	Die Einsätze sind hoch.	दांव ऊँचे हैं।
+The storm continued.	Der Sturm dauerte an.	तूफान चला रहा।
+The street is empty.	Die Straße ist leer.	सड़क खाली है।
+The street was dark.	Die Straße war dunkel.	सड़क अंधेरी थी।
+The sun was setting.	Die Sonne ging unter.	सूरज अस्त हो रहा था।
+The tower collapsed.	Der Turm stürzte ein.	टावर ढह गया।
+The traffic was bad.	Der Verkehr war schlecht.	यातायात खराब था।

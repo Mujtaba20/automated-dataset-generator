@@ -1,14 +1,4 @@
 
-The soup's very hot.	Die Suppe ist sehr heiß.	सूप बहुत गर्म है।
-The stakes are high.	Es steht viel auf dem Spiel.	दांव पर बहुत कुछ है।
-The storm continued.	Der Sturm setzte sich fort.	तूफान जारी रहा।
-The storm continued.	Der Sturm ging weiter.	तूफान जारी रहा।
-The storm continued.	Es stürmte weiter.	यह जारी रहा।
-The street is empty.	Die Straße ist leer.	सड़क खाली है।
-The street was dark.	Die Straße war dunkel.	सड़क अंधेरा था।
-The sun was setting.	Die Sonne ging gerade unter.	सूरज नीचे जा रहा था।
-The tower collapsed.	Der Turm stürzte ein.	टॉवर ढह गया।
-The traffic was bad.	Die Verkehrsbedingungen waren schlecht.	यातायात की स्थिति खराब थी।
 The train is coming.	Der Zug fährt ein!	ट्रेन ड्राइव!
 The victory is ours.	Der Sieg ist unser.	जीत हमारी है।
 The water is rising.	Das Wasser steigt.	पानी उगता है।
