@@ -20897,3 +20897,13 @@ He's a ghostwriter.	Er ist ein Ghostwriter.	वह एक गोस्टरा�
 He's a good person.	Er ist eine gute Person.	वह एक अच्छे इंसान है।
 He's a little nuts.	Er ist ein bisschen verrückt.	वह थोड़ा पागल है।
 He's a little pale.	Er ist etwas blass.	वह थोड़ा सा पीला है।
+He's a married man.	Er ist ein verheirateter Mann.	वह एक शादीशुदा आदमी है।
+He's a patient man.	Er ist ein geduldiger Mann.	वह एक सबुर आदमी है।
+He's a teetotaller.	Er ist ein Abstinenzler.	वह शराब नहीं पीता है।
+He's a total wreck.	Er ist ein komplettes Wrack.	वह पूरी तरह से टूट चुका है।
+He's a wealthy man.	Er ist ein reicher Mann.	वह एक धनवान आदमी है।
+He's already a man.	Er ist bereits ein Mann.	वह पहले से ही एक आदमी है।
+He's always joking.	Er scherzt immer.	वह हमेशा मजाक करता है।
+He's an Englishman.	Er ist ein Engländer.	वह एक अंग्रेज़ आदमी है।
+He's an early bird.	Er ist ein Frühaufsteher.	वह पहले उठने वाला है।
+He's an early bird. (Different Meaning)	Er ist ein Frühaufsteher.	वह विशेषज्ञ है।

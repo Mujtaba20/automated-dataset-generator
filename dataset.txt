@@ -1,15 +1,4 @@
 
-He's a married man.	Er ist ein verheirateter Mann.	वह एक विवाहित आदमी है।
-He's a patient man.	Er ist ein geduldiger Mann.	वह एक रोगी आदमी है।
-He's a teetotaller.	Er ist ein Abstinenzler.	वह एक संयम है।
-He's a total wreck.	Er ist ein vollkommenes Wrack.	यह एक आदर्श मलबे है।
-He's a wealthy man.	Er ist ein wohlhabender Mann.	वह एक अमीर आदमी है।
-He's already a man.	Er ist schon ein Mann.	वह पहले से ही एक आदमी है।
-He's always joking.	Er scherzt immer herum.	वह हमेशा मजाक करता है।
-He's an Englishman.	Er ist Engländer.	वह अंग्रेज़ है।
-He's an early bird.	Er ist ein Frühaufsteher.	वह एक शुरुआती रिसर है।
-He's an early bird.	Er ist Frühaufsteher.	वह एक शुरुआती रिसर है।
-He's an early bird.	Er ist morgenaktiver Mensch.	वह एक सुबह -सक्रिय व्यक्ति है।
 He's an honest man.	Er ist ein ehrlicher Mensch.	वह एक ईमानदार व्यक्ति है।
 He's coming closer.	Er kommt näher.	वह करीब हो जाता है।
 He's down to earth.	Er ist bodenständig.	यह पृथ्वी के नीचे है।
