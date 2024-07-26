@@ -29774,3 +29774,11 @@ What did Tom get me?	Was hat Tom mir gebracht?	टॉम ने मुझे क
 What did he ask you?	Was hat er dich gefragt?	उसने तुमसे क्या पूछा?
 What did he look up?	Was hat er nachgeschlagen?	उसने पूछा क्या?
 What did you answer?	Was hast du geantwortet?	तुमने क्या जवाब दिया?
+What did you choose?	Was hast du gewählt?	तुमने क्या चुना?
+What did you expect?	Was hast du erwartet?	तुम क्या उम्मीद कर रहे थे?
+What did you expect? (Different Meaning)	Was hast du erwartet?	तुम किसे उम्मीद कर रहे थे?
+What did you forget?	Was hast du vergessen?	तुम क्या भूल गए?
+What did you forget? (Different Meaning)	Was hast du vergessen?	तुम क्या याद रख लिया?
+What do I look like?	Wie sehe ich aus?	मैं किस अंदाज में हूँ?
+What do we tell Tom?	Was sagen wir Tom?	हम टॉम को क्या कहते हैं?
+What do you do here?	Was machst du hier?	तुम यहाँ क्या करते हो?

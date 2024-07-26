@@ -1,14 +1,4 @@
 
-What did you choose?	Was haben Sie ausgesucht?	आपने क्या चुना?
-What did you expect?	Was hast du denn erwartet?	आपने क्या उम्मीद की थी?
-What did you expect?	Was haben Sie denn erwartet?	आपने क्या उम्मीद की थी?
-What did you expect?	Was habt ihr denn erwartet?	आपने क्या उम्मीद की थी?
-What did you forget?	Was hast du vergessen?	आप क्या भूल गए?
-What did you forget?	Was habt ihr vergessen?	आप क्या भूल गए?
-What did you forget?	Was haben Sie vergessen?	आप क्या भूल गए हैं?
-What do I look like?	Wie sehe ich aus?	मैं कैसा दिखता हूँ?
-What do we tell Tom?	Was sagen wir Tom?	हम टॉम क्या कहते हैं?
-What do you do here?	Was machst du hier?	आप यहां पर क्या कर रहे हैं?
 What do you see now?	Was siehst du jetzt?	अब आप क्या देखते हैं?
 What do you suggest?	Was schlägst du vor?	आपका क्या सुझाव है?
 What do you suggest?	Was schlagen Sie vor?	आपका क्या सुझाव है?
