@@ -21321,3 +21321,11 @@ I have to work now.	Ich muss jetzt arbeiten.	मुझे अब काम क�
 I have two cameras.	Ich habe zwei Kameras.	मेरे पास दो कैमरे हैं।
 I have two cousins.	Ich habe zwei Cousins.	मेरे पास दो चचेरे भाई हैं।
 I have what I need.	Ich habe, was ich brauche.	मेरे पास है जो मुझे चाहिए।
+I have what I want.	Ich habe, was ich will.	मेरे पास वह है जो मुझे चाहिए।
+I haven't left yet.	Ich bin noch nicht gegangen.	मैं अभी तक नहीं चला गया हूँ।
+I haven't paid yet.	Ich habe noch nicht bezahlt.	मैंने अभी तक भुगतान नहीं किया है।
+I haven't seen Tom.	Ich habe Tom noch nicht gesehen.	मैंने अभी तक टॉम को नहीं देखा है।
+I haven't told Tom.	Ich habe Tom noch nicht gesagt.	मैंने अभी तक टॉम को नहीं बताया है।
+I hear Tom's voice.	Ich höre Toms Stimme.	मैं टॉम की आवाज सुनता हूँ।
+I heard Tom scream.	Ich hörte Tom schreien.	मैंने टॉम के चीखने की आवाज सुनी।
+I heard every word.	Ich hörte jedes Wort.	मैंने हर शब्द सुना।
