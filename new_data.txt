@@ -36928,3 +36928,12 @@ He will get well soon.	Er wird bald gesund werden.	वह जल्द ही �
 He will never make it.	Er wird es niemals schaffen.	वह कभी नहीं कर पाएगा।
 He won a bronze medal.	Er gewann eine Bronzemedaille.	उसने एक कांस्य पदक जीता।
 He won a silver medal.	Er gewann eine Silbermedaille.	उसने एक चांदी का पदक जीता।
+He won the race again.	Er hat das Rennen wieder gewonnen.	उसने फिर से रेस जीत ली।
+He won't listen to me.	Er wird mir nicht zuhören.	वह मेरी नहीं सुनेगा।
+He wrote it hurriedly.	Er schrieb es hastig.	उसने इसे जल्दी से लिखा।
+He'll be safe with me.	Er wird bei mir sicher sein.	वह मेरे साथ सुरक्षित रहेगा।
+He'll rip my head off.	Er wird mir den Kopf abreißen.	वह मेरा सिर फाड़ देगा।
+He's a bit of a loner.	Er ist ein bisschen einsam.	वह थोड़ा अकेला है।
+He's a fine young man.	Er ist ein feiner junger Mann.	वह एक बढ़िया जवान आदमी है।
+He's a real gentleman.	Er ist ein richtiger Gentleman.	वह एक वास्तविक सज्जन है।
+He's a strange person.	Er ist eine seltsame Person.	वह एक अजीब व्यक्ति है।
