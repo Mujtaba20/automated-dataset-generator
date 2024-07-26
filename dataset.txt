@@ -1,14 +1,4 @@
 
-Relax for a second.	Entspann dich eine Sekunde.	एक सेकंड के लिए आराम करें।
-Relax for a second.	Entspannen Sie sich eine Sekunde.	एक सेकंड के लिए आराम करें।
-Relax for a second.	Entspannt euch eine Sekunde.	एक सेकंड के लिए आराम करें।
-Remove that jacket.	Leg diese Jacke ab!	इस जैकेट को बंद करो!
-Remove that jacket.	Legen Sie diese Jacke ab!	इस जैकेट को बंद करो!
-Remove the bandage.	Nehmen Sie den Verband ab.	एसोसिएशन को उतारें।
-Return immediately.	Komm sofort zurück!	तुरंत वापस आओ!
-Run for your lives!	Rennt um euer Leben!	बचने के लिये भागो!
-Save it till later.	Spar dir das für später auf.	इसे बाद में सहेजें।
-Save your strength.	Spar dir deine Kraft auf.	अपनी ताकत बचाओ।
 School is over now.	Die Schule ist jetzt vorbei.	स्कूल अब खत्म हो गया है।
 School is over now.	Die Schule ist jetzt aus.	स्कूल अब खत्म हो गया है।
 Schools are closed.	Schulen sind geschlossen.	स्कूल बंद हैं।

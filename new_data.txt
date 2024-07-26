@@ -22660,3 +22660,10 @@ Quit joking around.	Hör auf herumzuspaßen.	मजाक करना बंद
 Read it to me, Tom.	Lies es mir vor, Tom.	मुझे यह पढ़कर सुनाओ, टॉम।
 Ready! Get set! Go!	Bereit! Auf die Plätze! Los!	तैयार! आरंभ करें! चलो!
 Real men drink tea.	Echte Männer trinken Tee.	असली आदमियों की चाय पीते हैं।
+Relax for a second.	Entspannen Sie für einen Moment.	एक सेकंड के लिए धीरे हो जाओ।
+Remove that jacket.	Zieh diese Jacke aus.	उस जैकेट को उतारो।
+Remove the bandage.	Entfernen Sie den Verband.	पट्टी हटाएं।
+Return immediately.	Kehren Sie sofort zurück.	तुरंत लौटें।
+Run for your lives!	Lauf um dein Leben!	अपनी जान बचाने के लिए भागो!
+Save it till later.	Bewahren Sie es bis später auf.	इसे बाद में बचाओ।
+Save your strength.	Schonen Sie Ihre Kraft.	अपनी ताकत बचाओ।
