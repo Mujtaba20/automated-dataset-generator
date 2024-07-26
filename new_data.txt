@@ -29589,3 +29589,12 @@ We haven't finished.	Wir sind noch nicht fertig.	हम समाप्त न�
 We hope we're wrong.	Wir hoffen, wir liegen falsch.	हम उम्मीद करते हैं कि हम गलत हों।
 We just got started.	Wir haben gerade angefangen.	हमने अभी शुरुआत की है।
 We just need a plan.	Wir brauchen nur einen Plan.	हमें बस एक योजना की आवश्यकता है।
+We know Tom is here.	Wir wissen, dass Tom hier ist.	हमें पता है कि टॉम यहाँ है।
+We know how to swim.	Wir wissen, wie man schwimmt.	हमें पता है कि किसी तरह से तैरना है।
+We know where it is.	Wir wissen, wo es ist.	हमें पता है कि यह कहाँ है।
+We know where it is.1	Wir kennen den Standort.	हमें पता है कि वह कहां है।
+We know where it is.2	Wir wissen, wo es sich befindet.	हमें पता है कि यह कहां है।
+We know who you are.	Wir wissen, wer du bist.	हमें पता है कि तुम कौन हो।
+We know who you are.1	Wir kennen deine Identität.	हमें पता है कि तुम कौन हो।
+We know you have it.	Wir wissen, dass du es hast.	हमें पता है कि तुम्हारे पास है।
+We know you have it.1	Wir wissen, dass es dir gehört.	हमें पता है कि यह तुम्हारा है।

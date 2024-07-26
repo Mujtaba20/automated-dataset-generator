@@ -1,15 +1,4 @@
 
-We know Tom is here.	Wir wissen, dass Tom hier ist.	हम जानते हैं कि टॉम यहाँ है।
-We know how to swim.	Wir können schwimmen.	हम तैर सकते हैं।
-We know where it is.	Wir wissen, wo es ist.	हम जानते हैं कि यह कहाँ है।
-We know where it is.	Wir wissen, wo er ist.	हम जानते हैं कि वह कहां है।
-We know where it is.	Wir wissen, wo sie ist.	हम जानते हैं कि यह कहाँ है।
-We know who you are.	Wir wissen, wer du bist.	हमें पता है आप कौन हैं।
-We know who you are.	Wir wissen, wer Sie sind.	हम जानते हैं कि वे कौन हैं।
-We know who you are.	Wir wissen, wer ihr seid.	हमें पता है आप कौन हैं।
-We know you have it.	Wir wissen, dass du es hast.	हम जानते हैं कि आपके पास है।
-We know you have it.	Wir wissen, dass du ihn hast.	हम जानते हैं कि आपके पास है।
-We know you have it.	Wir wissen, dass du sie hast.	हम जानते हैं कि आप उनके पास हैं।
 We laughed about it.	Wir lachten darüber.	हम इसके बारे में हँसे।
 We liked each other.	Wir mochten uns.	हमने खुद को पसंद किया।
 We love coming here.	Wir kommen gerne hierher.	हम यहां आकर खुश हैं।
