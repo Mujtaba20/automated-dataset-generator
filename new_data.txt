@@ -27897,3 +27897,10 @@ She is not to blame.	Sie ist nicht schuld.	उसकी दोष नहीं �
 She is only a child.	Sie ist nur ein Kind.	वह सिर्फ एक बच्ची है।
 She is still a girl.	Sie ist immer noch ein Mädchen.	वह अभी भी एक लड़की है।
 She is very healthy.	Sie ist sehr gesund.	वह बहुत स्वस्थ है।
+She is well off now.	Sie hat es jetzt gut.	वह अब ठीक है।
+She kept on talking.	Sie redete weiter.	उसने बात किया जारी रखा।
+She kept on working.	Sie arbeitete weiter.	वह काम करती रही।
+She kicked him hard.	Sie trat fest gegen ihn.	उसने उसे महसूस कराया।
+She kicked the door.	Sie trat gegen die Tür.	उसने दरवाज़ा झटका।
+She kissed my cheek.	Sie küsste meine Wange.	उसने मेरी गाल पर चुंबन दिया।
+She knows the truth.	Sie kennt die Wahrheit.	उसे सच्चाई पता है।
