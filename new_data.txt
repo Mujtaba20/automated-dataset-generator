@@ -21213,3 +21213,11 @@ I fell in the pool.	Ich fiel in den Pool.	मैं पूल में गि�
 I fell into a hole.	Ich fiel in ein Loch.	मैं एक गड्ढे में गिर गया।
 I fell off my bike.	Ich fiel von meinem Fahrrad.	मैंने अपनी साइकिल से गिर गया।
 I felt a deep pain.	Ich fühlte einen tiefen Schmerz.	मैंने एक गहरे दर्द का अनुभव किया।
+I felt comfortable.	Ich fühlte mich wohl.	मुझे आराम मिला।
+I felt like crying.	Es fühlte sich an, als würde ich weinen.	मुझे रोने जैसा लगा।
+I felt responsible.	Ich fühlte mich verantwortlich.	मैं महसूस किया कि जिम्मेदारी है।
+I felt very lonely.	Ich fühlte mich sehr einsam.	मुझे बहुत अकेलापन महसूस हुआ।
+I felt very sleepy.	Ich fühlte mich sehr schläfrig.	मुझे बहुत नींद आ रही थी।
+I flirted with Tom.	Ich habe mit Tom geflirtet.	मैंने टॉम के साथ टैंसन किया।
+I followed the bus.	Ich bin dem Bus gefolgt.	मैंने बस का पीछा किया।
+I forgot my pencil.	Ich habe meinen Bleistift vergessen.	मैंने अपनी पेंशिल भूल गया।

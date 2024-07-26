@@ -1,14 +1,4 @@
 
-I felt comfortable.	Ich fühlte mich wohl.	मुझे सहज महसूस हुआ।
-I felt comfortable.	Ich habe mich wohl gefühlt.	मुझे सहज महसूस हुआ।
-I felt like crying.	Mir war zum Heulen zumute.	मुझे रोने जैसा लगा।
-I felt like crying.	Mir war zum Weinen zumute.	मुझे रोने जैसा लगा।
-I felt responsible.	Ich fühlte mich verantwortlich.	मुझे जिम्मेदार लगा।
-I felt very lonely.	Ich fühlte mich sehr einsam.	मुझे बहुत अकेला महसूस हुआ।
-I felt very sleepy.	Ich fühlte mich sehr schläfrig.	मुझे बहुत नींद आ रही थी।
-I flirted with Tom.	Ich habe mit Tom geflirtet.	मैं टॉम के साथ फ़्लर्ट किया।
-I followed the bus.	Ich folgte dem Bus.	मैंने बस का पीछा किया।
-I forgot my pencil.	Ich habe meinen Bleistift vergessen.	मैं अपनी पेंसिल भूल गया।
 I found some money.	Ich habe Geld gefunden.	मुझे पैसे मिले।
 I found your diary.	Ich habe dein Tagebuch gefunden.	मुझे आपकी डायरी मिली।
 I found your diary.	Ich habe Ihr Tagebuch gefunden.	मुझे उसकी डायरी मिली।
