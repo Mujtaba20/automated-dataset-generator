@@ -35080,3 +35080,13 @@ Tom's grades dropped.	Toms Noten sind gesunken.	टॉम के अंक ग�
 Tom's hands trembled.	Toms Hände zitterten.	टॉम के हाथ कांप रहे थे।
 Tom's lips were blue.	Toms Lippen waren blau.	टॉम के होंठ नीले थे।
 Tom's making his bed.	Tom macht sein Bett.	टॉम अपना बिस्तर बना रहा है।
+Tom's mouth was full.	Toms Mund war voll.	टॉम का मुंह भरा था।
+Tom's mouth went dry.	Toms Mund wurde trocken.	टॉम का मुंह सूख गया।
+Tom's my friend, too.	Tom ist auch mein Freund.	टॉम मेरा भी दोस्त है।
+Tom's not in his car.	Tom ist nicht in seinem Auto.	टॉम अपनी कार में नहीं है।
+Tom's room is locked.	Toms Zimmer ist verschlossen.	टॉम का कमरा ताला लगा हुआ है।
+Tom's smile vanished.	Toms Lächeln verschwand.	टॉम की मुस्कान गायब हो गई।
+Tom's voice was calm.	Toms Stimme war ruhig.	टॉम की आवाज़ शांत थी।
+Tom's wife just died.	Toms Frau ist gerade gestorben.	टॉम की पत्नी अभी-अभी मर गई है।
+Tom's work is sloppy.	Toms Arbeit ist schlampig.	टॉम का काम बेढ़ब है।
+Tom, answer the door.	Tom, öffne die Tür.	टॉम, दरवाज़ा खोलो।
