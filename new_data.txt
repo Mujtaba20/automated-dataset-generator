@@ -37688,3 +37688,13 @@ I made a bad decision.	Ich traf eine schlechte Entscheidung.	मैंने ए
 I made a couple calls.	Ich habe ein paar Anrufe getätigt.	मैंने कुछ कॉल किए।
 I made a lot of money.	Ich habe viel Geld verdient.	मैंने बहुत सारे पैसे कमाए।
 I made a snack for us.	Ich habe einen Snack für uns gemacht.	मैंने हमारे लिए एक स्नैक बनाया।
+I made the first move.	Ich habe den ersten Schritt gemacht.	मैंने पहला कदम रखा।
+I made you a bracelet.	Ich habe dir ein Armband gemacht.	मैंने तुम्हें एक कंगन बनाया।
+I may sit in the back.	Ich darf hinten sitzen.	मैं पीछे बैठ सकता हूँ।
+I meant to look it up.	Ich wollte danach suchen.	मैंने इसे खोजने का इरादा किया था।
+I met Tom in the park.	Ich habe Tom im Park getroffen.	मैंने पार्क में टॉम से मिला।
+I met her an hour ago.	Ich habe sie vor einer Stunde getroffen.	मैंने उससे एक घंटा पहले मिला।
+I met her by accident.	Ich habe sie zufällig getroffen.	मैंने उससे गलती से मिला।
+I met her last winter.	Ich habe sie letzten Winter getroffen.	मैंने पिछले सर्दियों में उससे मिला था।
+I met your girlfriend.	Ich habe deine Freundin kennengelernt.	मैंने तुम्हारी गर्लफ्रेंड से मिला।
+I might do that later.	Vielleicht mache ich das später.	शायद मैं बाद में वह कर सकता हूँ।
