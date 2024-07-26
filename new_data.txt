@@ -29788,3 +29788,9 @@ What does Tom think?	Was denkt Tom?	टॉम क्या सोचता ह�
 What does he expect?	Was erwartet er?	वह क्या उम्मीद कर रहा है?
 What does that mean?	Was bedeutet das?	वह क्या मतलब है?
 What does this mean?	Was bedeutet das?	यह क्या मतलब है?
+What don't you have?	Was fehlt dir?	तुम्हारे पास क्या नहीं है?
+What don't you like?	Was gefällt dir nicht?	तुझे क्या पसंद नहीं है?
+What frightened Tom?	Was hat Tom erschreckt?	टॉम को क्या डराया?
+What good are those?	Was nützen die?	वे कितने अच्छे हैं?
+What happened there?	Was geschah dort?	वहाँ क्या हुआ?
+What happened today?	Was ist heute passiert?	आज क्या हुआ?

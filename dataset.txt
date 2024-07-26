@@ -1,14 +1,4 @@
 
-What don't you have?	Was hast du nicht?	आपके पास क्या नहीं है?
-What don't you have?	Was haben Sie nicht?	आपके पास क्या नहीं है?
-What don't you like?	Was mögt ihr nicht?	आपको क्या पसंद नहीं है?
-What don't you like?	Was stört Sie?	तुमको क्या परेशान करता है?
-What frightened Tom?	Was hat Tom erschreckt?	क्या भयभीत टॉम?
-What good are those?	Zu was sind die gut?	वे क्या अच्छे हैं?
-What good are those?	Was nützen diese?	क्या उपयोग करें?
-What happened there?	Was ist da passiert?	वहां क्या हुआ है?
-What happened there?	Was hat sich da zugetragen?	क्या हुआ?
-What happened today?	Was ist heute passiert?	आज क्या खुशी है?
 What have they done?	Was haben sie getan?	क्या कर डाले?
 What have you eaten?	Was habt ihr gegessen?	आपने क्या खाया?
 What have you taken?	Was hast du genommen?	आप क्या लेंगे?
