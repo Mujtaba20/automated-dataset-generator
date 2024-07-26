@@ -24898,3 +24898,8 @@ You look fine, Tom.	Du siehst gut aus, Tom.	तुम ठीक लग रहे
 You look satisfied.	Du bist zufrieden.	तुम संतुष्ट लग रहे हो।
 You look surprised.	Du siehst überrascht aus.	तुम अचंभित लग रहे हो।
 You look very busy.	Du wirkst sehr beschäftigt.	तुम बहुत व्यस्त लग रहे हो।
+You look very good.	Du siehst sehr gut aus.	तुम बहुत अच्छे लग रहे हो।
+You look very nice.	Du siehst sehr schön aus.	तुम बहुत अच्छे लग रहे हो।
+You look very pale.	Du siehst sehr blass aus.	तुम बहुत पीले लग रहे हो।
+You made a mistake.	Du hast einen Fehler gemacht.	तुमने एक गलती की है।
+You made a promise.	Du hast ein Versprechen gemacht.	तुमने एक वादा किया है।
