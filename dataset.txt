@@ -1,14 +1,4 @@
 
-Is this your daughter?	Ist das deine Tochter?	क्या यह आपकी बेटी है?
-Is this your daughter?	Ist das eure Tochter?	क्या यह आपकी बेटी है?
-Is this your daughter?	Ist das Ihre Tochter?	क्या यह आपकी बेटी है?
-Is this your homework?	Sind das deine Hausaufgaben?	क्या आप अपने होमवर्क हैं?
-Is this your suitcase?	Ist dieser Koffer Ihrer.	क्या यह सूटकेस आपका है।
-Is this your suitcase?	Ist dieser Koffer deiner?	क्या यह सूटकेस आपका है?
-Is this your umbrella?	Ist das dein Schirm?	क्या यह आपकी छतरी है?
-Is this your umbrella?	Ist das Ihr Schirm?	क्या यह आपकी छतरी है?
-Is tomorrow a holiday?	Ist morgen Feiertag?	क्या यह कल छुट्टी है?
-Is tomorrow a holiday?	Ist morgen ein Feiertag?	कल छुट्टी है?
 Is your headache gone?	Sind deine Kopfschmerzen jetzt vorbei?	क्या अब आपका सिरदर्द है?
 Is your headache gone?	Sind Ihre Kopfschmerzen jetzt vorbei?	क्या अब आपका सिरदर्द है?
 Is your headache gone?	Ist dein Kopfweh jetzt vorbei?	क्या अब आपका सिरदर्द है?

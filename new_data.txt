@@ -38461,3 +38461,11 @@ Is this going to hurt?	Wird das wehtun?	क्या यह दर्द कर�
 Is this good material?	Ist das gutes Material?	क्या यह अच्छा सामग्री है?
 Is this seat reserved?	Ist dieser Sitzplatz reserviert?	क्या यह सीट आरक्षित है?
 Is this what you want?	Ist das das, was du willst?	क्या यह वह है जिसे तुम चाहते हो?
+Is this your daughter?	Ist das deine Tochter?	क्या यह तुम्हारी बेटी है?
+Is this your daughter? (different meaning)	Ist dies deine Tochter?	क्या यह तुम्हारी बेटी है?
+Is this your homework?	Ist das deine Hausaufgaben?	क्या यह तुम्हारा होमवर्क है?
+Is this your suitcase?	Ist das dein Koffer?	क्या यह तुम्हारा सूटकेस है?
+Is this your suitcase? (different meaning)	Gehört dir dieser Koffer?	क्या यह तुम्हारा सूटकेस है?
+Is this your umbrella?	Ist das dein Regenschirm?	क्या यह तुम्हारी छाता है?
+Is this your umbrella? (different meaning)	Gehört dir dieser Schirm?	क्या यह तुम्हारी छाता है?
+Is tomorrow a holiday?	Ist morgen ein Feiertag?	क्या कल छुट्टी है?
