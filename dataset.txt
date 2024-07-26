@@ -1,14 +1,4 @@
 
-You lack imagination.	Es fehlt dir an Einbildungskraft.	आपके पास कल्पना की कमी है।
-You lied to me again.	Du hast mich schon wieder angelogen!	आप पहले ही मुझसे झूठ बोल चुके हैं!
-You lied to me again.	Sie haben mich schon wieder angelogen!	आपने मुझसे फिर से झूठ बोला है!
-You look happy today.	Du siehst heute aber glücklich aus.	आप आज खुश हैं।
-You look like a girl.	Du siehst aus wie ein Mädchen.	आप एक लड़की की तरह दिखते हैं।
-You look really good.	Du siehst richtig gut aus.	आप वास्तव में अच्छे लग रहे हैं।
-You look really good.	Du schaust wirklich gut aus.	आप बहुत अच्छे लग रहे हैं।
-You lost, didn't you?	Du hast verloren, oder?	तुम हार गए, है ना?
-You lost, didn't you?	Sie haben verloren, nicht wahr?	तुम हार गए, क्या तुम नहीं?
-You lost, didn't you?	Ihr habt verloren, stimmt's?	तुम हार गए, है ना?
 You made it possible.	Du hast es möglich gemacht.	आपने इसे संभव बना दिया।
 You may not be right.	Du magst nicht recht haben.	आप सही नहीं हो सकते।
 You may speak freely.	Du kannst ungezwungen reden.	आप लापरवाही से बात कर सकते हैं।

@@ -35826,3 +35826,9 @@ You know what I like.	Du weißt, was ich mag.	तुम्हें पता �
 You know what I mean.	Du weißt, was ich meine.	तुम्हें पता है मेरा मतलब क्या है।
 You know what I want.	Du weißt, was ich will.	तुम्हें पता है मुझे क्या चाहिए।
 You know your rights.	Du kennst deine Rechte.	तुम्हें अपने अधिकार पता है।
+You lack imagination.	Du fehlst Vorstellungskraft.	तुम्हें कल्पना की कमी है।
+You lied to me again.	Du hast mich erneut belogen.	तुमने मुझसे फिर झूठ बोला।
+You look happy today.	Du siehst heute glücklich aus.	तुम आज खुश लग रहे हो।
+You look like a girl.	Du siehst wie ein Mädchen aus.	तुम एक लड़की की तरह लगते हो।
+You look really good.	Du machst wirklich einen guten Eindruck.	तुम वास्तव में भारी लग रहे हो।
+You lost, didn't you?	Du hast verloren, nicht?	तुम हार गए, ना?
