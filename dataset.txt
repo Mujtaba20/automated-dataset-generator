@@ -1,14 +1,4 @@
 
-I'm taking you with me.	Ich nehme dich mit.	मैं तुम्हें अपने साथ ले जाऊंगा।
-I'm the one who's sick.	Ich bin derjenige, der krank ist.	मैं वह हूं जो बीमार है।
-I'm the youngest child.	Ich bin das jüngste Kind.	मैं सबसे छोटा बच्चा हूं।
-I'm there all the time.	Ich bin die ganze Zeit dort.	मैं हर समय वहाँ हूँ।
-I'm thinking about you.	Ich denke an dich.	मैं तुम्हे ही याद कर रहा था।
-I'm thinking about you.	Ich denke an euch.	मैं तुम्हे ही याद कर रहा था।
-I'm thinking about you.	Ich denke an Sie.	मैं उसके बारे में सोचता हूं।
-I'm through doing that.	Ich bin damit fertig.	इससे त्रस्त हो चुके हैं।
-I'm too tired to drive.	Ich bin zu müde zum Fahren.	मैं ड्राइव करने के लिए बहुत थक गया हूं।
-I'm too tired to think.	Ich bin zu müde zum Denken.	मैं सोचने के लिए बहुत थक गया हूं।
 I'm translating a book.	Ich übersetze ein Buch.	मैं एक पुस्तक का अनुवाद करता हूं।
 I'm trying to be happy.	Ich versuche, glücklich zu sein.	मैं खुश रहने की कोशिश करता हूं।
 I'm trying to help you.	Ich versuche, dir zu helfen.	मैं आपकी मदद करने की कोशिश करता हूं।
