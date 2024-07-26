@@ -24183,3 +24183,13 @@ Tom's dog is white.	Toms Hund ist weiß.	टॉम का कुत्ता स
 Tom's dog lay down.	Toms Hund hat sich hingelegt.	टॉम का कुत्ता लेट गया।
 Tom's eyes are red.	Toms Augen sind rot.	टॉम की आंखें लाल हैं।
 Tom's eyes widened.	Toms Augen weiteten sich.	टॉम की आंखें फैल गईं।
+Tom's hat blew off.	Toms Hut flog weg.	टॉम की टोपी उड़ गई।
+Tom's luck ran out.	Toms Glück verließ ihn.	टॉम की भाग्य खत्म हो गई।
+Tom's nose was red.	Toms Nase war rot.	टॉम की नाक लाल थी।
+Tom's not home yet.	Tom ist noch nicht zu Hause.	टॉम अभी तक घर पर नहीं है।
+Tom's phone buzzed.	Toms Telefon summmte.	टॉम का फोन गूँजा।
+Tom's pulse is low.	Toms Puls ist niedrig.	टॉम का धड़कन दबी हुई है।
+Tom's room is tidy.	Toms Zimmer ist ordentlich.	टॉम का कमरा साफ-सुथरा है।
+Tom's room is tiny.	Toms Zimmer ist winzig.	टॉम का कमरा बहुत छोटा है।
+Tom, are you awake?	Tom, bist du wach?	टॉम, क्या तुम जागरूक हो?
+Tom, are you there?	Tom, bist du da?	टॉम, क्या तुम वहाँ हो?
