@@ -32517,3 +32517,11 @@ I'm here for a night.	Ich bin für eine Nacht hier.	मैं एक रात �
 I'm here on business.	Ich bin geschäftlich hier.	मैं व्यापार में यहाँ हूँ।
 I'm here to have fun.	Ich bin hier, um Spaß zu haben.	मैं यहाँ मजे करने आया हूँ।
 I'm here to save you.	Ich bin hier, um dich zu retten.	मैं तुम्हें बचाने यहाँ आया हूँ।
+I'm hitting the road.	Ich bin unterwegs.	मैं सड़क पर हूँ।
+I'm in Australia now.	Ich bin jetzt in Australien.	मैं अब ऑस्ट्रेलिया में हूँ।
+I'm in a hurry today.	Ich habe es heute eilig.	आज मुझे जल्दी है।
+I'm in love with Tom.	Ich liebe Tom.	मैं टॉम से प्रेम करता हूँ।
+I'm in love with her.	Ich liebe sie.	मैं उससे प्यार करता हूँ।
+I'm in love with you.	Ich liebe dich.	मुझे तुमसे प्यार है।
+I'm in the same boat.	Wir sitzen im selben Boot.	हम सब एक ही कश्ती में हैं।
+I'm incredibly tired.	Ich bin unglaublich müde.	मैं अत्यधिक थका हुआ हूँ।
