@@ -1,14 +1,4 @@
 
-Tom refuses to sing.	Tom weigert sich zu singen.	टॉम गाने से इनकार करता है।
-Tom refuses to talk.	Tom weigert sich zu reden.	टॉम बोलने से इनकार करता है।
-Tom refuses to work.	Tom weigert sich zu arbeiten.	टॉम काम करने से इनकार करता है।
-Tom regrets waiting.	Tom bereut es, gewartet zu haben.	टॉम को पछतावा है।
-Tom regretted lying.	Tom bereute es, dass er gelogen hatte.	टॉम ने पछतावा किया कि उसने झूठ बोला था।
-Tom remained behind.	Tom blieb zurück.	टॉम बने रहे।
-Tom remained seated.	Tom blieb sitzen.	टॉम बैठा रहा।
-Tom remained silent.	Tom schwieg.	टॉम चुप था।
-Tom reserved a seat.	Tom reservierte einen Sitzplatz.	टॉम ने एक सीट आरक्षित की।
-Tom resumed reading.	Tom fuhr mit dem Lesen fort.	टॉम ने पढ़ना जारी रखा।
 Tom rides a bicycle.	Tom fährt Fahrrad.	टॉम एक बाइक की सवारी करता है।
 Tom rubbed his eyes.	Tom rieb sich die Augen.	टॉम ने अपनी आँखें रगड़ दीं।
 Tom rubbed his face.	Tom rieb sich sein Gesicht.	टॉम ने अपना चेहरा रगड़ा।

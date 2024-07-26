@@ -29220,3 +29220,13 @@ Tom ran up the hill.	Tom rannte den Hügel hinauf.	टॉम पहाड़ क
 Tom rarely goes out.	Tom geht selten aus.	टॉम बहुत कम बाहर जाता है।
 Tom read the letter.	Tom las den Brief.	टॉम ने पत्र पढ़ा।
 Tom recognized Mary.	Tom erkannte Mary wieder.	टॉम ने मैरी की पहचान की।
+Tom refuses to sing.	Tom weigert sich zu singen.	टॉम गाने से इनकार करता है।
+Tom refuses to talk.	Tom lehnt es ab zu sprechen.	टॉम बात करने से इनकार करता है।
+Tom refuses to work.	Tom weigert sich zu arbeiten.	टॉम काम करने से इनकार करता है।
+Tom regrets waiting.	Tom bedauert das Warten.	टॉम इंतजार करने का पछतावा करता है।
+Tom regretted lying.	Tom bedauerte zu lügen.	टॉम झूठ बोलने का पछतावा करता था।
+Tom remained behind.	Tom blieb zurück.	टॉम पीछे रह गया।
+Tom remained seated.	Tom blieb sitzen.	टॉम बैठे रहे।
+Tom remained silent.	Tom blieb still.	टॉम चुप रहा।
+Tom reserved a seat.	Tom reservierte einen Sitzplatz.	टॉम ने एक सीट आरक्षित की।
+Tom resumed reading.	Tom setzte das Lesen fort.	टॉम ने पढ़ाई फिर से शुरू की।
