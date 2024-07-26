@@ -34679,3 +34679,13 @@ Tom loved his garden.	Tom liebte seinen Garten.	टॉम ने अपने �
 Tom loved your ideas.	Tom liebte deine Ideen.	टॉम ने तुम्हारे विचारों को पसंद किया।
 Tom loves doing this.	Tom liebt es, das zu tun.	टॉम इसे करने से प्यार करता है।
 Tom loves his family.	Tom liebt seine Familie.	टॉम अपने परिवार से प्यार करता है।
+Tom loves nightclubs.	Tom liebt Nachtclubs.	टॉम रात क्लबों से प्यार करता है।
+Tom lowered his eyes.	Tom senkte seinen Blick.	टॉम ने अपनी आंखें नीचे की।
+Tom lowered his gaze.	Tom senkte seinen Blick.	टॉम ने अपनी दृष्टि को कम किया।
+Tom made a statement.	Tom gab eine Erklärung ab.	टॉम ने एक बयान दिया।
+Tom made a wisecrack.	Tom machte einen Witz.	टॉम ने एक मजाक किया।
+Tom made an omelette.	Tom machte ein Omelett.	टॉम ने एक अंडे की ओमलेट बनाई।
+Tom made fun of Mary.	Tom machte sich über Mary lustig.	टॉम ने मेरी के मजाक उड़ाया।
+Tom made me go there.	Tom schickte mich dorthin.	टॉम ने मुझे वहां जाने के लिए कहा।
+Tom made no response.	Tom reagierte nicht.	टॉम ने कोई प्रतिक्रिया नहीं दी।
+Tom made some coffee.	Tom machte etwas Kaffee.	टॉम ने कुछ कॉफ़ी बनाई।
