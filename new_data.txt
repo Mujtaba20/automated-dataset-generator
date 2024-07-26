@@ -24403,3 +24403,11 @@ We're finally free.	Wir sind endlich frei.	हम अंत में मुक�
 We're going to try.	Wir werden es versuchen.	हम कोशिश करेंगे।
 We're having lunch.	Wir essen zu Mittag.	हम दोपहर का भोजन कर रहे हैं।
 We're here for Tom.	Wir sind hier für Tom.	हम यहाँ टॉम के लिए हैं।
+We're here for you.	Wir sind hier für dich.	हम तुम्हारे लिए यहाँ हैं।
+We're here to help.	Wir sind hier, um zu helfen.	हम यहाँ मदद करने के लिए हैं।
+We're honeymooning.	Wir machen Flitterwochen.	हम हनीमून पर हैं।
+We're housesitting.	Wir hüten das Haus.	हम घर की देखभाल कर रहे हैं।
+We're ignoring Tom.	Wir ignorieren Tom.	हम टॉम को नजरअंदाज कर रहे हैं।
+We're just friends.	Wir sind nur Freunde.	हम सिर्फ मित्र हैं।
+We're just friends?	Sind wir nur Freunde?	क्या हम सिर्फ दोस्त हैं?
+We're making money.	Wir verdienen Geld.	हम पैसे कमा रहे हैं।
