@@ -31046,3 +31046,11 @@ He is a tough cookie.	Er ist eine harte Nuss.	वह एक टफ कुकी 
 He is about to leave.	Er steht kurz davor zu gehen.	वह जानेवाला है।
 He is about your age.	Er ist ungefähr in deinem Alter.	वह तुम्हारी उम्र के करीब है।
 He is afraid of dogs.	Er hat Angst vor Hunden.	उसे कुत्तों से डर लगता है।
+He is afraid to swim.	Er hat Angst zu schwimmen.	उसे तैरने से डर लगता है।
+He is always reading.	Er liest immer.	वह हमेशा पढ़ रहा है।
+He is always with me.	Er ist immer bei mir.	वह हमेशा मेरे साथ है।
+He is an able banker.	Er ist ein fähiger Banker.	वह एक सक्षम बैंकर है।
+He is angry with you.	Er ist wütend auf dich.	वह आपसे नाराज़ है।
+He is as tall as her.	Er ist so groß wie sie.	वह उसके जैसा ऊँचा है।
+He is away from home.	Er ist fern von Zuhause.	वह घर से दूर है।
+He is bad at driving.	Er ist schlecht im Fahren.	उसकी ड्राइविंग बुरी है।
