@@ -28650,3 +28650,12 @@ Tom does a good job.	Tom macht gute Arbeit.	टॉम अच्छा काम 
 Tom does everything.	Tom macht alles.	टॉम सब कुछ करता है।
 Tom doesn't do much.	Tom macht nicht viel.	टॉम बहुत कुछ नहीं करता।
 Tom doesn't do that.	Tom macht das nicht.	टॉम वह नहीं करता।
+Tom doesn't help me.	Tom hilft mir nicht.	टॉम मेरी मदद नहीं करता।
+Tom doesn't know me.	Tom kennt mich nicht.	टॉम मुझे नहीं जानता।
+Tom doesn't like it.	Tom mag es nicht.	टॉम को यह पसंद नहीं है।
+Tom doesn't like me.	Tom mag mich nicht.	टॉम को मुझसे नफरत है।
+Tom doesn't like us.	Tom mag uns nicht.	टॉम हमें पसंद नहीं करता।
+Tom doesn't want it.	Tom will es nicht.	टॉम चाहता नहीं है।
+Tom doesn't want me.	Tom will mich nicht.	टॉम मुझे नहीं चाहता।
+Tom doesn't want us.	Tom will uns nicht.	टॉम हमें नहीं चाहता।
+Tom drank some milk.	Tom trank etwas Milch.	टॉमने कुछ दूध पिया।

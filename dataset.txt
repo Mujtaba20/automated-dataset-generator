@@ -1,15 +1,4 @@
 
-Tom doesn't help me.	Tom hilft mir nicht.	टॉम मेरी मदद नहीं करता है।
-Tom doesn't know me.	Tom kennt mich nicht.	टॉम मुझे नहीं जानता।
-Tom doesn't like it.	Tom mag das nicht.	टॉम को यह पसंद नहीं है।
-Tom doesn't like me.	Tom mag mich nicht.	टॉम मुझे पसंद नहीं है।
-Tom doesn't like me.	Tom kann mich nicht leiden.	टॉम मुझे पसंद नहीं है।
-Tom doesn't like us.	Tom mag uns nicht.	टॉम हमें पसंद नहीं करता है।
-Tom doesn't want it.	Tom will es nicht.	टॉम यह नहीं चाहता।
-Tom doesn't want me.	Tom will mich nicht.	टॉम मुझे नहीं चाहता।
-Tom doesn't want us.	Tom will uns nicht.	टॉम हमें नहीं चाहता।
-Tom drank some milk.	Tom trank Milch.	टॉम ने दूध पिया।
-Tom drank some milk.	Tom hat Milch getrunken.	टॉम ने दूध पिया।
 Tom dried his hands.	Tom trocknete sich die Hände ab.	टॉम ने अपने हाथ सुखाए।
 Tom drinks red wine.	Tom trinkt Rotwein.	टॉम रेड वाइन पीता है।
 Tom drinks too much.	Tom trinkt zu viel.	टॉम बहुत ज्यादा पीता है।
