@@ -1,14 +1,4 @@
 
-Am I going too fast?	Gehe ich zu schnell?	क्या मैं बहुत तेजी से जा रहा हूँ?
-Am I imagining this?	Bilde ich mir das etwa ein?	क्या मैं कल्पना कर रहा हूँ?
-Am I older than you?	Bin ich älter als du?	क्या मैं तुमसे बड़ा हूँ?
-Am I older than you?	Bin ich älter als Sie?	क्या मैं तुमसे बड़ा हूँ?
-Am I older than you?	Bin ich älter als ihr?	क्या मैं तुमसे बड़ा हूँ?
-America is very big.	Amerika ist sehr groß.	अमेरिका बहुत बड़ा है।
-Answer me right now.	Antworte mir jetzt!	मुझे अभी जवाब दो!
-Answer me right now.	Antwortet mir jetzt!	मुझे अभी जवाब दो!
-Answer me right now.	Antworten Sie mir jetzt!	मुझे अभी जवाब दो!
-Answer my questions.	Beantworte meine Fragen.	मेरे प्रशन का जवाब दो।
 Answer the question.	Beantworte die Frage.	सवाल का जवाब दें।
 Answer the question.	Antworten Sie auf die Frage.	सवाल का जवाब दें।
 Answer the question.	Antworte auf die Frage.	सवाल का जवाब दें।

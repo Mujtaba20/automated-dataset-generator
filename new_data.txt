@@ -25069,3 +25069,10 @@ All sales are final.	Alle Verkäufe sind endgültig.	सभी बिक्र�
 Allow me to explain.	Erlauben Sie mir, zu erklären.	मुझे समझाने की अनुमति दें।
 Aluminum is a metal.	Aluminium ist ein Metall.	अल्यूमीनियम एक धातु है।
 Am I going to be OK?	Geht es mir gut?	क्या मैं ठीक हो जाऊँगा?
+Am I going too fast?	Gehe ich zu schnell?	क्या मैं ज्यादा तेज़ी से जा रहा हूँ?
+Am I imagining this?	Stelle ich mir das nur vor?	क्या मैं इसे कल्पना कर रहा हूँ?
+Am I older than you?	Bin ich älter als du?	क्या मैं तुमसे अधिक बड़ा हूँ?
+Am I older than you? (different meaning)	Bin ich dir schon begegnet?	क्या मैं तुम्हें पहले से जानता हूँ?
+America is very big.	Amerika ist sehr groß.	अमेरिका बहुत बड़ा है।
+Answer me right now.	Antworte mir sofort.	अभी मुझे जवाब दो।
+Answer my questions.	Beantworte meine Fragen.	मेरे सवालों का जवाब दो।
