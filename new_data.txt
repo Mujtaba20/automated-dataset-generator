@@ -27694,3 +27694,12 @@ No one can stop Tom.	Niemand kann Tom aufhalten.	कोई भी टॉम क�
 No one could see us.	Niemand konnte uns sehen.	कोई भी हमें नहीं देख सकता था।
 No one else laughed.	Niemand sonst hat gelacht.	कोई अन्य हंसा नहीं।
 No one even blinked.	Niemand hat sogar gezwinkert.	किसी ने भी अंजाने में नहीं देखा।
+No one gave up hope.	Niemand hat die Hoffnung aufgegeben.	किसी ने आशा नहीं छोड़ी।
+No one has died yet.	Bisher ist niemand gestorben.	अब तक किसी की मौत नहीं हुई है।
+No one has seen Tom.	Niemand hat Tom gesehen.	किसी ने तोम को नहीं देखा है।
+No one knew a thing.	Niemand wusste etwas.	किसी ने कुछ नहीं जाना था।
+No one likes losing.	Niemand mag es zu verlieren.	किसी को हारना पसंद नहीं है।
+No one really knows.	Niemand weiß es wirklich.	किसी को सच्चाई मालूम नहीं है।
+No one was arrested.	Niemand wurde verhaftet.	किसी को गिरफ्तार नहीं किया गया था।
+No one was watching.	Niemand hat zugeschaut.	किसी ने नहीं देखा था।
+No one will do this.	Niemand wird das tun.	कोई यह नहीं करेगा।
