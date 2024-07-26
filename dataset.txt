@@ -1,16 +1,4 @@
 
-You're very beautiful.	Du bist sehr schön.	आप बहुत खूबसूरत हो।
-You're very efficient.	Du bist sehr tüchtig.	आप बहुत कुशल हैं।
-You're very emotional.	Du bist sehr emotional.	तुम बहुत जज़्बाती हो।
-You're very fortunate.	Du hast großes Glück.	तुम बड़े भाग्यशाली हो।
-You're very kind, Tom.	Du bist sehr nett, Tom.	आप बहुत अच्छे हैं, टॉम।
-You're very observant.	Du hast eine gute Beobachtungsgabe.	आपके पास एक अच्छा अवलोकन है।
-You're very observant.	Sie haben eine gute Beobachtungsgabe.	आपके पास एक अच्छा अवलोकन है।
-You're very skeptical.	Du bist sehr skeptisch.	आप बहुत संदेह कर रहे हैं।
-You're very versatile.	Du bist sehr vielseitig.	आप बहुत बहुमुखी हैं।
-You're worse than Tom.	Du bist schlimmer als Tom.	आप टॉम से भी बदतर हैं।
-You're worse than Tom.	Ihr seid schlimmer als Tom.	आप टॉम से भी बदतर हैं।
-You're worse than Tom.	Sie sind schlimmer als Tom.	वे टॉम से भी बदतर हैं।
 You've been suspended.	Sie sind suspendiert worden.	उन्हें निलंबित कर दिया गया है।
 You've been suspended.	Sie wurden suspendiert.	उन्हें निलंबित कर दिया गया।
 You've been suspended.	Du wurdest suspendiert.	आपको निलंबित कर दिया गया था।
