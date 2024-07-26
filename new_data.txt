@@ -24270,3 +24270,13 @@ We drank some wine.	Wir haben etwas Wein getrunken.	हमने कुछ श�
 We drove for miles.	Wir sind Meilen gefahren.	हम मीलों तक चले गए।
 We found him alive.	Wir fanden ihn lebend.	हमने उसे जिंदा पाया।
 We found something.	Wir haben etwas gefunden.	हमें कुछ मिला।
+We found them here.	Wir haben sie hier gefunden.	हमने उन्हें यहाँ पाया।
+We gave it our all.	Wir gaben alles.	हमने इसे हमारी सारी कुछ दी।
+We got a flat tire.	Wir haben einen Platten bekommen.	हमें एक धब्बेदार टायर मिला।
+We grow wheat here.	Wir wachsen hier Weizen.	हम यहाँ गेहूं उगाते हैं।
+We had fun with it.	Wir haben Spaß damit gehabt.	हमने इसके साथ मज़ा किया।
+We had lunch early.	Wir haben früh zu Mittag gegessen.	हमने जल्दी से लंच किया।
+We had our reasons.	Wir hatten unsere Gründe.	हमारे पास अपने कारण थे।
+We hate each other.	Wir hassen uns.	हम एक-दूसरे से नफरत करते हैं।
+We have Monday off.	Wir haben Montag frei.	हमें सोमवार को अवकाश है।
+We have a big yard.	Wir haben einen großen Hof.	हमारे पास एक बड़ा आंगन है।
