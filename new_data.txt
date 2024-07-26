@@ -33944,3 +33944,11 @@ This is really great.	Das ist wirklich großartig.	यह सचमुच मह
 This is really weird.	Das ist wirklich seltsam.	यह सचमुच अजीब है।
 This is so hilarious.	Das ist so urkomisch.	यह इतना हास्यास्पद है।
 This is unbelievable.	Das ist unglaublich.	यह अविश्वसनीय है।
+This is very helpful.	Das ist sehr hilfreich.	यह बहुत सहायक है।
+This is very serious.	Das ist sehr ernst.	यह बहुत गंभीर है।
+This is very unusual.	Das ist sehr ungewöhnlich.	यह बहुत असाधारण है।
+This is what he said.	Das ist, was er gesagt hat.	यह वही है जो उसने कहा था।
+This is where I live.	Das ist, wo ich lebe.	यह वहाँ है जहाँ मैं रहता हूँ।
+This is where I work.	Das ist, wo ich arbeite.	यह वहाँ है जहाँ मैं काम करता हूँ।
+This is your bedroom.	Das ist dein Schlafzimmer.	यह तुम्हारा बिस्तर खाना है।
+This is your problem.	Das ist dein Problem.	यह तुम्हारी समस्या है।

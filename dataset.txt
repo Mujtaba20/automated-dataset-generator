@@ -1,14 +1,4 @@
 
-This is very helpful.	Das ist sehr hilfreich.	यह बहुत मददगार है।
-This is very serious.	Das ist sehr ernst.	यह बहुत गंभीर है।
-This is very unusual.	Das ist überaus ungewöhnlich.	यह बेहद असामान्य है।
-This is what he said.	Das ist, was er gesagt hat.	यही उसने कहा।
-This is where I live.	Hier wohne ich.	मैं यहाँ रहता हूं।
-This is where I work.	Hier arbeite ich.	मैं यहां काम करता हूं।
-This is your bedroom.	Dies ist dein Schlafzimmer.	यह आपका बेडरूम है।
-This is your bedroom.	Dies ist euer Schlafzimmer.	यह आपका बेडरूम है।
-This is your bedroom.	Dieses ist Ihr Schlafzimmer.	यह आपका बेडरूम है।
-This is your problem.	Das ist dein Problem.	यह तुम्हारी समस्या है।
 This isn't Australia.	Das ist nicht Australien.	यह ऑस्ट्रेलिया नहीं है।
 This isn't Tom's car.	Das ist nicht Toms Auto.	यह टॉम की कार नहीं है।
 This isn't a new car.	Das ist kein neues Auto.	यह एक नई कार नहीं है।
