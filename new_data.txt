@@ -35353,3 +35353,7 @@ What are we here for?	Warum sind wir hier?	हम यहाँ क्यों �
 What are you cooking?	Was kochst du?	तुम क्या पका रहे हो?
 What are you drawing?	Was zeichnest du?	तुम क्या बना रहे हो?
 What are you getting?	Was bekommst du?	तुम क्या पा रहे हो?
+What are you good at?	Was macht dir Spaß?	तुम्हें क्या जचता है?
+What are you reading?	Was liest du?	तुम क्या पढ़ रहे हो?
+What are you selling?	Was verkaufst du?	तुम क्या बेच रहे हो?
+What are you wearing?	Was trägst du?	तुम क्या पहन रहे हो?

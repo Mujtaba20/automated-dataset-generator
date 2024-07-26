@@ -1,16 +1,4 @@
 
-What are you good at?	Worin bist du gut?	आप अच्छे कैसे है
-What are you good at?	Worin sind Sie gut?	आप किससे अच्छे हैं?
-What are you good at?	Worin seid ihr gut?	आप किसमें अच्छे हैं?
-What are you good at?	Worauf verstehst du dich gut?	आप के साथ क्या मिलते हैं
-What are you reading?	Was liest du?	आप क्या पढ़ रहे हैं?
-What are you reading?	Was liest du da?	आप क्या पढ़ रहे हैं?
-What are you selling?	Was verkaufen Sie?	आप क्या बेचते हैं?
-What are you selling?	Was verkaufst du?	आप क्या बेचते हैं?
-What are you selling?	Was verkauft ihr?	आप क्या बेचते हैं?
-What are you wearing?	Was hast du an?	आप क्या पहन रहे हैं?
-What are you wearing?	Was haben Sie an?	आपके पास क्या चल रहा है?
-What are you wearing?	Was habt ihr an?	आपके पास क्या चल रहा है?
 What are you writing?	Was schreibst du?	आप क्या लिख ​​रहे हो?
 What are you writing?	Was schreibst du gerade?	अभी आप क्या लिख ​​रहे हैं
 What are you writing?	Was schreiben Sie?	आप क्या लिख ​​रहे हो?
