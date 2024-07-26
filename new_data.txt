@@ -35144,3 +35144,9 @@ We can't give up now.	Wir können jetzt nicht aufgeben.	हम अब हार 
 We can't let Tom die.	Wir dürfen Tom nicht sterben lassen.	हम टॉम को मरने नहीं दे सकते।
 We can't outrun them.	Wir können sie nicht überholen.	हम उनको पीछे नहीं छोड़ सकते।
 We can't protect Tom.	Wir können Tom nicht beschützen.	हम टॉम की रक्षा नहीं कर सकते।
+We can't protect you.	Wir können dich nicht beschützen.	हम तुम्हें नहीं बचा सकते।
+We can't start today.	Wir können heute nicht beginnen.	हम आज शुरू नहीं कर सकते।
+We canoed downstream.	Wir sind flussabwärts gepaddelt.	हमने नीचे की ओर केनू किया।
+We changed our minds.	Wir haben unsere Meinung geändert.	हमने अपनी राय बदल ली है।
+We clapped our hands.	Wir haben applaudiert.	हमने हाथों से तालियाँ बजाई।
+We could go together.	Wir könnten gemeinsam gehen.	हम साथ जा सकते हैं।
