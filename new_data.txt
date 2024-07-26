@@ -29375,3 +29375,12 @@ Tom was left behind.	Tom wurde zurückgelassen.	टॉम पीछे छोड
 Tom was lost at sea.	Tom war auf See verloren.	टॉम समुद्र में खो गया था।
 Tom was mad at Mary.	Tom war wütend auf Mary.	टॉम मेरी पर नाराज था।
 Tom was misbehaving.	Tom hat sich daneben benommen.	टॉम ग़लत बर्ताव कर रहा था।
+Tom was my roommate.	Tom war mein Mitbewohner.	टॉम मेरा सहायक था।
+Tom was never happy.	Tom war nie glücklich.	टॉम कभी ख़ुश नहीं था।
+Tom was not jealous.	Tom war nicht eifersüchtig.	टॉम जलनी नहीं था।
+Tom was not pleased.	Tom war nicht zufrieden.	टॉम खुश नहीं था।
+Tom was only joking.	Tom hat nur gescherzt.	टॉम केवल मज़ाक कर रहा था।
+Tom was put in jail.	Tom wurde ins Gefängnis gesteckt.	टॉम को जेल में डाल दिया गया।
+Tom was quite drunk.	Tom war ziemlich betrunken.	टॉम काफी पिया हुआ था।
+Tom was quite upset.	Tom war ziemlich aufgebracht.	टॉम काफ़ी उदास था।
+Tom was real hungry.	Tom war wirklich hungrig.	टॉम सचमुच भूखा था।
