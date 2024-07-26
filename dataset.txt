@@ -1,14 +1,4 @@
 
-No one agreed with me.	Niemand stimmte mir zu.	कोई भी मुझसे सहमत नहीं था।
-No one but Tom waited.	Außer Tom hat keiner gewartet.	कोई भी टॉम का इंतजार नहीं कर रहा था।
-No one cares about me.	Niemand interessiert sich für mich.	कोई भी मेरे बारे में परवाह नहीं करता।
-No one cares about me.	Ich bin allen egal.	मुझे सभी की परवाह नहीं है।
-No one encouraged Tom.	Niemand bestärkte Tom.	किसी ने टॉम को मजबूत नहीं किया।
-No one encouraged her.	Niemand ermutigte sie.	किसी ने उसे प्रोत्साहित नहीं किया।
-No one has that right.	Niemand hat dieses Recht.	यह अधिकार किसी को नहीं है.
-No one has that right.	Dieses Recht hat niemand.	यह अधिकार किसी को नहीं है.
-No one here has a car.	Hier hat niemand ein Auto.	यहां किसी के पास कार नहीं है.
-No one is in the room.	Niemand ist im Raum.	कमरे में कोई नहीं है.
 No one is saying that.	Niemand sagt das.	ऐसा कोई नहीं कहता.
 No one is watching us.	Niemand beobachtet uns.	हमें कोई नहीं देख रहा है.
 No one knows anything.	Niemand weiß etwas.	कोई भी कुछ भी नहीं जानता।

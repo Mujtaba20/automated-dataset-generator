@@ -38908,3 +38908,13 @@ Never break a promise.	Versprechen nicht brechen.	कभी भी वादा 
 Next time, I'll drive.	Nächstes Mal werde ich fahren.	अगली बार, मैं ड्राइव करूंगा।
 Nice to see you again!	Schön, dich wiederzusehen!	फिर से तुम्हें देखकर अच्छा लगा!
 Nice to see you again.	Nett, dich wieder zu sehen.	फिर से आपको देखकर खुशी हुई।
+No one agreed with me.	Niemand stimmte mir zu.	कोई मेरे साथ सहमत नहीं हुआ।
+No one but Tom waited.	Niemand außer Tom wartete.	केवल टॉम इंतजार कर रहा था।
+No one cares about me.	Niemand kümmert sich um mich.	किसी को मेरे बारे में परवाह नहीं है।
+No one cares about me. (different meaning)	Niemand macht sich Sorgen um mich.	किसी को मेरे बारे में फिकर नहीं है।
+No one encouraged Tom.	Niemand ermutigte Tom.	किसी ने भी टॉम को प्रोत्साहित नहीं किया।
+No one encouraged her.	Niemand ermutigte sie.	किसी ने भी उसे प्रोत्साहित नहीं किया।
+No one has that right.	Niemand hat dieses Recht.	उसे उसी हक वाला कोई नहीं है।
+No one has that right. (different meaning)	Niemand hat dieses Recht verdient.	उसे उसी हक वाला कोई योग्य नहीं है।
+No one here has a car.	Hier hat niemand ein Auto.	यहाँ किसी के पास कार नहीं है।
+No one is in the room.	Niemand ist im Zimmer.	कोई कमरे में नहीं है।
