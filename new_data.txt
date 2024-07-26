@@ -25546,3 +25546,8 @@ Give grandma a kiss.	Gib Oma einen Kuss.	दादी को एक चुंब
 Give him my regards.	Grüß ihn von mir.	मेरा सलाम उसको देना।
 Give it a rest, Tom.	Mach mal Pause, Tom.	रुको तोम, इसे अराम दो।
 Give me another one.	Gib mir ein anderes.	मुझे एक और चाहिए।
+Give me back my cap.	Gib mir meine Mütze zurück.	मेरी टोपी मुझे वापस करो।
+Give me my cap back.	Gib mir meine Mütze zurück.	मेरी टोपी मुझे वापस करो।
+Give me some advice.	Gib mir einen Rat.	मुझे कुछ सलाह दो।
+Give me three hours.	Gib mir drei Stunden.	मुझे तीन घंटे दो।
+Give me three weeks.	Gib mir drei Wochen.	मुझे तीन हफ्ते दो।
