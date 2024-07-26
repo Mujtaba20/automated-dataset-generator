@@ -39885,3 +39885,13 @@ Tom brushed his horse.	Tom bürstete sein Pferd.	टॉम ने अपने �
 Tom brushed his teeth.	Tom putzte sich die Zähne.	टॉम ने अपने दांत साफ़ किए।
 Tom built a birdhouse.	Tom errichtete ein Vogelhaus.	टॉम ने एक पंछी घर बनाया।
 Tom burned the letter.	Tom verbrannte den Brief.	टॉम ने पत्र जला दिया।
+Tom buttoned his coat.	Tom knöpfte seinen Mantel zu.	टॉम ने अपनी कोट बटन से बंद की।
+Tom called me at home.	Tom rief mich zu Hause an.	टॉम ने मुझे घर पर फोन किया।
+Tom called me by name.	Tom hat mich beim Namen gerufen.	टॉम ने मुझे नाम से बुलाया।
+Tom called the police.	Tom hat die Polizei gerufen.	टॉम ने पुलिस को बुलाया।
+Tom came back at 2:30.	Tom kam um 2:30 Uhr zurück.	टॉम 2:30 बजे वापस आया।
+Tom came home at 2:30.	Tom kam um 2:30 Uhr nach Hause.	टॉम 2:30 बजे घर आया।
+Tom came into my room.	Tom kam in mein Zimmer.	टॉम मेरे कमरे में आया।
+Tom came to live here.	Tom kam hierher, um zu leben.	टॉम यहाँ रहने आया।
+Tom came to my rescue.	Tom kam zu meiner Rettung.	टॉम मेरी मदद के लिए आया।
+Tom can be counted on.	Man kann sich auf Tom verlassen.	टॉम पर भरोसा किया जा सकता है।
