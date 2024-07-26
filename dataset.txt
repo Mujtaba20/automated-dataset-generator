@@ -1,15 +1,4 @@
 
-Are your parents here?	Sind deine Eltern hier?	क्या आपके माता -पिता यहाँ हैं?
-Are your parents home?	Sind deine Eltern zu Hause?	तुम्हारे माता - पिता घर पर हैं?
-Aren't they wonderful?	Sind sie nicht wunderbar?	क्या आप अद्भुत नहीं हैं?
-Aren't you a Canadian?	Bist du nicht Kanadier?	क्या आप कनाडाई नहीं हैं?
-Aren't you a musician?	Bist du nicht Musiker?	क्या आप एक संगीतकार नहीं हैं
-Aren't you getting in?	Steigst du nicht ein?	क्या आप अंदर नहीं जाते?
-Aren't you getting on?	Steigst du nicht ein?	क्या आप अंदर नहीं जाते?
-Aren't you happy here?	Bist du nicht glücklich hier?	क्या आप यहाँ खुश नहीं हैं?
-Aren't you happy, Tom?	Bist du nicht glücklich, Tom?	क्या आप खुश नहीं हैं, टॉम?
-Aren't you interested?	Bist du daran nicht interessiert?	क्या आप इसमें रुचि नहीं रखते हैं?
-Aren't you interested?	Interessiert dich das nicht?	क्या आपको कोई दिलचस्पी नहीं है?
 Ask Tom where Mary is.	Frag Tom, wo Maria ist.	टॉम से पूछें कि मारिया कहाँ है।
 Ask whatever you want.	Frag mich, was auch immer du willst.	मुझसे जो पूछना है पूछो।
 At last, my turn came.	Endlich war ich an der Reihe.	आखिरकार मेरी बारी थी।

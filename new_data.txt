@@ -36117,3 +36117,13 @@ Are you talking to me?	Sprichst du mit mir?	क्या तुम मेरे 
 Are you the new nanny?	Bist du die neue Kindermädchen?	क्या तुम नई नैनी हो?
 Are you two musicians?	Seid ihr zwei Musiker?	क्या तुम दो संगीतकार हो?
 Are you working today?	Arbeitest du heute?	क्या आप आज काम कर रहे हैं?
+Are your parents here?	Sind deine Eltern hier?	क्या तुम्हारे माता-पिता यहाँ हैं?
+Are your parents home?	Sind deine Eltern zu Hause?	क्या तुम्हारे माता-पिता घर पर हैं?
+Aren't they wonderful?	Sind sie nicht wunderbar?	क्या वे अद्भुत नहीं हैं?
+Aren't you a Canadian?	Bist du kein Kanadier?	क्या तुम कैनेडियन नहीं हो?
+Aren't you a musician?	Bist du kein Musiker?	क्या तुम संगीतकार नहीं हो?
+Aren't you getting in?	Kommst du nicht rein?	क्या तुम अंदर नहीं आ रहे हो?
+Aren't you getting on?	Steigst du nicht ein?	क्या तुम चढ़ने में नहीं आ रहे हो?
+Aren't you happy here?	Bist du nicht glücklich hier?	क्या तुम यहाँ खुश नहीं हो?
+Aren't you happy, Tom?	Bist du nicht glücklich, Tom?	क्या तुम खुश नहीं हो, टॉम?
+Aren't you interested?	Bist du nicht interessiert?	क्या तुम दिलचस्प नहीं हो?
