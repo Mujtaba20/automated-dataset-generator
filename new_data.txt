@@ -31955,3 +31955,11 @@ I made these for you.	Ich habe diese für dich gemacht.	मैंने ये �
 I made you breakfast.	Ich habe dir Frühstück gemacht.	मैंने तुम्हारे लिए नाश्ता तैयार किया।
 I mailed Tom a check.	Ich schickte Tom einen Scheck.	मैंने टॉम को एक चेक भेजा।
 I major in economics.	Ich habe Hauptfach in Wirtschaftswissenschaften.	मैं अर्थशास्त्र में मेजर किया है।
+I major in sociology.	Ich habe Soziologie als Hauptfach.	मैं सोशियोलॉजी में प्रमुख हूँ।
+I majored in history.	Ich habe Geschichte als Hauptfach gehabt.	मैंने इतिहास में प्रमुख किया था।
+I make a good living.	Ich habe ein gutes Einkommen.	मैं अच्छी तरह कमाई करता हूँ।
+I married a Canadian.	Ich habe einen Kanadier geheiratet.	मैंने एक कनेडियन से शादी की।
+I may as well go now.	Ich kann jetzt genauso gut gehen.	अब मैं जा सकता हूँ।
+I may be a bit crazy.	Ich bin vielleicht ein bisschen verrückt.	मैं शायद थोड़ा पागल हूँ।
+I mean no disrespect.	Ich meine keinen Respektlosigkeit.	मेरा किसी को अनदेखा नहीं करना है।
+I meant it as a joke.	Ich habe es als Witz gemeint.	मैंने इसे मजाक के तौर पर लिया था।
