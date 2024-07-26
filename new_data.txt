@@ -39424,3 +39424,11 @@ The birds were hungry.	Die Vögel hatten Hunger.	पंछी भूखे थ�
 The black one is mine.	Der Schwarze gehört mir.	काला मेरा है।
 The bookstore is open.	Das Buchgeschäft ist offen.	किताबें खुली हैं।
 The bottle was broken.	Die Flasche war kaputt.	बोतल टूट गई थी।
+The box was too heavy.	Die Kiste war zu schwer.	बक्सा बहुत वजनदार था।
+The boy bought a book.	Der Junge kaufte ein Buch.	लड़का एक किताब खरीदा।
+The boy is over there.	Der Junge ist dort drüben.	लड़का वहाँ है।
+The boy threw a stone.	Der Junge warf einen Stein.	लड़का एक पत्थर फेंका।
+The boys were injured.	Die Jungen wurden verletzt.	लड़के चोटिल हो गए।
+The brake didn't work.	Die Bremse hat nicht funktioniert.	ब्रेक काम नहीं किया।
+The bullet missed Tom.	Die Kugel hat Tom verfehlt.	गोली ने टॉम को छूआ नहीं।
+The bus arrived empty.	Der Bus kam leer an.	बस खाली आई।

@@ -1,14 +1,4 @@
 
-The box was too heavy.	Die Kiste war zu schwer.	बॉक्स बहुत भारी था।
-The box was too heavy.	Der Karton war zu schwer.	बॉक्स बहुत भारी था।
-The boy bought a book.	Der Junge hat ein Buch gekauft.	लड़के ने एक किताब खरीदी।
-The boy is over there.	Der Junge ist dort drüben.	लड़का वहाँ पर है।
-The boy threw a stone.	Der Junge warf einen Stein.	लड़के ने एक पत्थर फेंक दिया।
-The boys were injured.	Die Jungen wurden verletzt.	लड़के घायल हो गए।
-The brake didn't work.	Die Bremse funktionierte nicht.	ब्रेक काम नहीं किया।
-The brake didn't work.	Die Bremse versagte.	ब्रेक विफल रहा।
-The bullet missed Tom.	Die Kugel verfehlte Tom.	गेंद ने टॉम को याद किया।
-The bus arrived empty.	Der Bus kam leer an.	बस खाली आ गई।
 The bus has just left.	Der Bus ist gerade abgefahren.	बस अभी बची है।
 The cake is delicious.	Der Kuchen schmeckt herrlich.	केक का स्वाद अद्भुत है।
 The candle burned out.	Die Kerze erlosch.	मोमबत्ती बाहर चली गई।
