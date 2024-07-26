@@ -40933,3 +40933,12 @@ Tom worked until 2:30.	Tom arbeitete bis 2:30 Uhr.	टॉम 2:30 तक का�
 Tom works for the IRS.	Tom arbeitet für das Finanzamt.	टॉम IRS के लिए काम करता है।
 Tom works very slowly.	Tom arbeitet sehr langsam.	टॉम बहुत धीमे ढंग से काम करता है।
 Tom would never agree.	Tom würde niemals zustimmen.	टॉम कभी सहमत नहीं होगा।
+Tom wouldn't eat that.	Tom würde das nicht essen.	टॉम वह नहीं खाएगा।
+Tom wouldn't go there.	Tom würde nicht dorthin gehen.	टॉम वहाँ जाएगा नहीं।
+Tom wriggled his toes.	Tom bewegte seine Zehen.	टॉम ने अपने पैरों को हिलाया।
+Tom wrote in all caps.	Tom schrieb in Großbuchstaben.	टॉम ने सभी मामूली शब्दों में लिखा।
+Tom wrote me a letter.	Tom hat mir einen Brief geschrieben.	टॉम ने मुझे एक पत्र लिखा।
+Tom wrote this letter.	Tom hat diesen Brief geschrieben.	टॉम ने यह पत्र लिखा।
+Tom wrote to a friend.	Tom schrieb an einen Freund.	टॉम ने एक दोस्त को लिखा।
+Tom's car won't start.	Toms Auto wird nicht starten.	टॉम की कार नहीं चलेगी।
+Tom's career was over.	Toms Karriere war vorbei.	टॉम का करियर खत्म हो गया था।
