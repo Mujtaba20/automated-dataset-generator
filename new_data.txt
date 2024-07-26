@@ -31199,3 +31199,10 @@ He was shot to death.	Er wurde erschossen.	उसे मौत की गोल�
 He was wearing a tux.	Er trug einen Smoking.	वह एक टक्सी पहने हुए थे।
 He wasn't even there.	Er war nicht einmal da.	वह वहां भी नहीं था।
 He wears an eyepatch.	Er trägt eine Augenklappe.	उसकी ऑखियों पर एक पैच लगा हुआ है।
+He went duck hunting.	Er ging Entenjagd.	उसने बतख शिकार किया।
+He went to bed early.	Er ging früh ins Bett.	उसने जल्दी सोने चला गया।
+He will be back soon.	Er wird bald zurück sein.	वह जल्द ही वापस आएगा।
+He will be here soon.	Er wird bald hier sein.	वह जल्द ही यहाँ होगा।
+He works as a busboy.	Er arbeitet als Kellner.	वह बसबॉय के रूप में काम करता है।
+He works in that lab.	Er arbeitet in diesem Labor.	वह उस प्रयोगशाला में काम करता है।
+He would not approve.	Er würde nicht zustimmen.	उसे मंजूर नहीं होगा।
