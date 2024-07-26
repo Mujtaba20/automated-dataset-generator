@@ -24852,3 +24852,8 @@ You cannot do this.	Du kannst das nicht tun.	तुम यह नहीं क�
 You could say that.	Du könntest das sagen.	तुम यह कह सकते हो।
 You deserve better.	Du verdienst Besseres.	तुम्हे बेहतर लायक है।
 You didn't call me.	Du hast mich nicht angerufen.	तुमने मुझे नहीं फोन किया।
+You didn't help me.	Du hast mir nicht geholfen.	तुमने मेरी मदद नहीं की।
+You do a great job.	Du machst einen tollen Job.	तुम बड़ी अच्छी तरह से काम करते हो।
+You don't scare me.	Du erschreckst mich nicht.	तुम मुझे कतई नहीं डरा सकते।
+You drink too much.	Du trinkst zu viel.	तुम बहुत पीते हो।
+You drive too fast.	Du fährst zu schnell.	तुम बहुत तेज़़ चलाते हो।

@@ -1,15 +1,4 @@
 
-You didn't help me.	Du hast mir nicht geholfen.	आपने मेरी मदद नहीं की।
-You didn't help me.	Ihr habt mir nicht geholfen.	आपने मेरी मदद नहीं की।
-You didn't help me.	Sie haben mir nicht geholfen.	आपने मेरी मदद नहीं की।
-You do a great job.	Du machst einen tollen Job.	आपके द्वारा एक अच्छा काम किया जा रहा है।
-You don't scare me.	Du machst mir keine Angst!	तुम मुझे चिंता मत करो!
-You don't scare me.	Sie machen mir keine Angst!	तुम मुझे नहीं डराओ!
-You don't scare me.	Sie machen mir keine Angst.	वे मुझे नहीं डराते हैं।
-You don't scare me.	Du jagst mir keine Angst ein.	आप मुझसे डरते नहीं हैं।
-You drink too much.	Du trinkst zu viel.	आप बहुत ज्यादा पीते हैं।
-You drive too fast.	Du fährst zu schnell.	आप बहुत तेजी से गाड़ी चला रहे हैं।
-You drive too fast.	Sie fahren zu schnell.	आप बहुत जल्दी ड्राइव करते हैं।
 You frightened Tom.	Du hast Tom einen Schreck eingejagt.	आपने टॉम का शिकार किया।
 You go right ahead.	Nur zu!	आगे बढ़ो!
 You go right ahead.	Starten Sie einfach drauf los.	अभी शुरू।
