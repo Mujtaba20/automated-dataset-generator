@@ -1,16 +1,4 @@
 
-Get me some ice cubes.	Hole mir einmal ein paar Eiswürfel!	मुझे कुछ बर्फ क्यूब्स प्राप्त करें!
-Get out of my kitchen.	Raus aus meiner Küche!	मेरे रसोईघर से बाहर निकलो!
-Get out while you can.	Hau ab, solange du noch kannst.	जब तक आप कर सकते हैं, तब तक उतरें।
-Get that away from me.	Weiche von mir!	दूर जाओ!
-Get under my umbrella.	Komm unter meinen Regenschirm.	मेरी छतरी के नीचे आओ।
-Get under my umbrella.	Komm unter meinen Schirm.	मेरी छतरी के नीचे आओ।
-Get under my umbrella.	Kommen Sie unter meinen Regenschirm.	मेरी छतरी के नीचे आओ।
-Get under my umbrella.	Kommen Sie unter meinen Schirm.	मेरी स्क्रीन के नीचे आओ।
-Get your hands off me.	Rühr mich nicht an!	मुझे मत छुओ!
-Get your hands off me.	Nimm deine Hände von mir!	अपने हाथों को मुझसे ले लो!
-Get your hands off me.	Nehmen Sie Ihre Hände von mir!	अपने हाथों को मुझसे ले लो!
-Get your hands off me.	Rühren Sie mich nicht an!	मुझे हलचल मत करो!
 Give it to me, please.	Bitte geben Sie mir das.	कृपया मुझे वह दें।
 Give it to me, please.	Gib es mir bitte!	कृपया मुझे दे दो!
 Give it to me, please.	Geben Sie es mir bitte!	कृपया मुझे दे दो!

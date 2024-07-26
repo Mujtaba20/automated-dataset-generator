@@ -36611,3 +36611,9 @@ Forty people attended.	Vierzig Leute nahmen teil.	चालीस लोग उ�
 French is spoken here.	Hier wird Französisch gesprochen.	यहाँ फ्रेंच बोला जाता है।
 Fur coats are on sale.	Pelzmäntel sind im Verkauf.	फर कोट बिक रहे हैं।
 Get back in the house.	Geh zurück ins Haus.	घर में वापस जाओ।
+Get me some ice cubes.	Hol mir ein paar Eiswürfel.	मुझे कुछ बर्फ के टुकड़े दो।
+Get out of my kitchen.	Geh aus meiner Küche.	मेरे रसोई से बाहर जाओ।
+Get out while you can.	Geh raus, solange du kannst.	जब तुम कर सकते हो, तो बाहर आओ।
+Get that away from me.	Nimm das weg von mir.	मेरे पास से दूर रखो।
+Get under my umbrella.	Geh unter meinen Schirm.	मेरे छतरी के नीचे जाओ।
+Get your hands off me.	Nimm deine Hände von mir.	मुझसे दूर रखो।
