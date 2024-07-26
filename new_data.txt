@@ -34331,3 +34331,11 @@ Tom is a fast talker.	Tom ist ein schneller Redner.	टॉम एक तेज �
 Tom is a firefighter.	Tom ist ein Feuerwehrmann.	टॉम एक फायरफाइटर है।
 Tom is a fish dealer.	Tom ist ein Fischhändler.	टॉम मछली बेचने वाला है।
 Tom is a fussy eater.	Tom ist ein heikler Esser.	टॉम एक उबाऊ खानेवाला है।
+Tom is a gang member.	Tom ist ein Bandenmitglied.	टॉम एक ग़ुंडा सदस्य है।
+Tom is a glassblower.	Tom ist ein Glasmacher.	टॉम एक कांच उधानेवाला है।
+Tom is a good dancer.	Tom ist ein guter Tänzer.	टॉम एक अच्छा नृत्यकार है।
+Tom is a good doctor.	Tom ist ein guter Arzt.	टॉम एक अच्छा डॉक्टर है।
+Tom is a good driver.	Tom ist ein guter Fahrer.	टॉम एक अच्छे चालक है।
+Tom is a good father.	Tom ist ein guter Vater.	टॉम एक अच्छा पिता है।
+Tom is a good friend.	Tom ist ein guter Freund.	टॉम एक अच्छा दोस्त है।
+Tom is a good golfer.	Tom ist ein guter Golfer.	टॉम एक अच्छा गोल्फर है।

@@ -1,14 +1,4 @@
 
-Tom is a gang member.	Tom ist ein Bandenmitglied.	टॉम एक गिरोह का सदस्य है।
-Tom is a gang member.	Tom ist ein Mitglied der Bande.	टॉम गिरोह का सदस्य है।
-Tom is a gang member.	Tom gehört auch zu der Bande.	टॉम भी गिरोह का है।
-Tom is a glassblower.	Tom ist Glasbläser.	टॉम ग्लासब्लोअर है।
-Tom is a good dancer.	Tom ist ein guter Tänzer.	टॉम एक अच्छा नर्तक है।
-Tom is a good doctor.	Tom ist ein guter Arzt.	टॉम एक अच्छे डॉक्टर हैं।
-Tom is a good driver.	Tom ist ein guter Fahrer.	टॉम एक अच्छा ड्राइवर है।
-Tom is a good father.	Tom ist ein guter Vater.	टॉम एक अच्छे पिता हैं।
-Tom is a good friend.	Tom ist ein guter Freund.	टॉम एक अच्छा दोस्त है।
-Tom is a good golfer.	Tom ist ein guter Golfspieler.	टॉम एक अच्छा गोल्फर है।
 Tom is a good kisser.	Tom küsst gut.	टॉम अच्छी तरह से चुंबन।
 Tom is a good lawyer.	Tom ist ein guter Anwalt.	टॉम एक अच्छे वकील हैं।
 Tom is a good person.	Tom ist ein Guter.	टॉम एक अच्छा है।
