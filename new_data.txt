@@ -35403,3 +35403,10 @@ What happened to him?	Was ist mit ihm passiert?	उसके साथ क्य
 What hat do you like?	Welchen Hut magst du?	तुम्हें कौनसी टोपी पसंद है?
 What have I told you?	Was habe ich dir gesagt?	मैंने तुम्हें क्या कहा था?
 What have you chosen?	Was hast du gewählt?	तुमने क्या चुना है?
+What have you picked?	Was hast du ausgesucht?	तुमने क्या चुना है?
+What he says is true.	Was er sagt, stimmt.	वह जो कहता है, सही है।
+What if Tom is right?	Was ist, wenn Tom recht hat?	अगर टॉम सही है तो क्या होगा?
+What if you're wrong?	Was ist, wenn du falsch liegst?	क्या होगा अगर आप गलत हों?
+What is a think tank?	Was ist ein Think Tank?	एक थिंक टैंक क्या है?
+What is it this time?	Was ist es dieses Mal?	यह बार क्या है?
+What is that exactly?	Was ist das genau?	वह बिल्कुल क्या है?
