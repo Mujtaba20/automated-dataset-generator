@@ -1,14 +1,4 @@
 
-Do you have Bud Light?	Haben Sie Budweiser Light?	क्या आपके पास बडवाइज़र लाइट है?
-Do you have Bud Light?	Habt ihr Budweiser Light?	क्या आपके पास बडवाइज़र लाइट है?
-Do you have Bud Light?	Hast du Budweiser Light?	क्या आपके पास बडवाइज़र लाइट है?
-Do you have a bicycle?	Hast du ein Fahrrad?	क्या आपके पास एक बाइक है?
-Do you have a bicycle?	Haben Sie ein Fahrrad?	क्या आपके पास एक बाइक है?
-Do you have a brother?	Hast du einen Bruder?	क्या आपका एक भाई है?
-Do you have a husband?	Hast du einen Ehemann?	क्या आपका पति है?
-Do you have a husband?	Hast du einen Ehepartner?	क्या आपके पास जीवनसाथी है?
-Do you have a lighter?	Haben Sie ein Feuerzeug?	क्या आप के पास एक लाइटर है?
-Do you have a lighter?	Habt ihr ein Feuerzeug?	क्या आप के पास एक लाइटर है?
 Do you have a picture?	Hast du ein Bild?	क्या आपके पास कोई चित्र है?
 Do you have a vacancy?	Haben Sie noch Zimmer frei?	क्या आपके पास एक मुफ्त कमरा है?
 Do you have a website?	Habt ihr eine Website?	क्या आपकी कोई वेबसाइट है?

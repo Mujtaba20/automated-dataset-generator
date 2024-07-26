@@ -36354,3 +36354,8 @@ Do you believe me now?	Glaubst du mir jetzt?	क्या अब आप मु�
 Do you find me pretty?	Findest du mich hübsch?	क्या तुम्हें मुझे सुंदर लगता है?
 Do you fly frequently?	Fliegst du häufig?	क्या आप अक्सर उड़ान भरते हैं?
 Do you go there often?	Gehst du oft dorthin?	क्या तुम वहां अक्सर जाते हो?
+Do you have Bud Light?	Haben Sie Bud Light?	क्या आपके पास बुड लाइट है?
+Do you have a bicycle?	Haben Sie ein Fahrrad?	क्या आपके पास एक चक्की की व्यवस्था है?
+Do you have a brother?	Hast du einen Bruder?	क्या आपके पास एक भाई है?
+Do you have a husband?	Haben Sie einen Ehemann?	क्या आपके पास एक पति है?
+Do you have a lighter?	Hast du ein Feuerzeug?	क्या आपके पास एक लाइटर है?
