@@ -35895,3 +35895,8 @@ You were never alone. (Second meaning)	Sie waren nie alleine.	तुम कभ�
 You were never alone. (Third meaning)	Ihr wart nie allein.	तुम कभी अकेले नहीं थे।
 You weren't that bad.	Du warst nicht so schlecht.	तुम इतने बुरे नहीं थे।
 You will regret this.	Du wirst das bereuen.	तुम इसका पछतावा करोगे।
+You won't believe it.	Du wirst es nicht glauben.	तुम इसे नहीं मानोगे।
+You'd better come in.	Du solltest reinkommen.	तुम्हें बेहतर आना चाहिए।
+You'd better go home.	Geh lieber nach Hause.	तुम्हें घर जाना बेहतर है।
+You'll be very sorry.	Du wirst es sehr bereuen.	तुम बहुत पछताओगे।
+You'll die out there.	Du wirst dort sterben.	तुम वहाँ मरोगे।
