@@ -1,14 +1,4 @@
 
-Tom is a little odd.	Tom ist etwas komisch.	टॉम थोड़ा अजीब है।
-Tom is a little shy.	Tom ist etwas schüchtern.	टॉम थोड़ा शर्मीला है।
-Tom is a lot better.	Tom geht es viel besser.	टॉम बहुत बेहतर है।
-Tom is a mama's boy.	Tom ist ein Muttersöhnchen.	टॉम एक माँ का बेटा है।
-Tom is a mere child.	Tom ist bloß ein Kind.	टॉम सिर्फ एक बच्चा है।
-Tom is a normal guy.	Tom ist ein normaler Typ.	टॉम एक सामान्य प्रकार है।
-Tom is a pawnbroker.	Tom ist Pfandleiher.	टॉम एक जमा पहाड़ी है।
-Tom is a pharmacist.	Tom ist Apotheker.	टॉम एक फार्मासिस्ट है।
-Tom is a polite boy.	Tom ist ein höflicher Junge.	टॉम एक विनम्र लड़का है।
-Tom is a programmer.	Tom ist Programmierer.	टॉम एक प्रोग्रामर है।
 Tom is a psychopath.	Tom ist ein Psychopath.	टॉम एक मनोरोगी है।
 Tom is a risk taker.	Tom ist ein Wagehals.	टॉम एक साहसी है।
 Tom is a risk taker.	Tom ist ein waghalsiger Mensch.	टॉम एक साहसी व्यक्ति है।

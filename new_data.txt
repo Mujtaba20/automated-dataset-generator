@@ -28818,3 +28818,13 @@ engSentence7	Tom ist ein guter Verlierer.	टॉम एक अच्छा ह�
 engSentence8	Tom ist ein guter Pilot.	टॉम एक अच्छा पायलट है।
 engSentence9	Tom ist ein großartiger Koch.	टॉम एक बड़ा व्यंजन पकाने वाला है।
 engSentence10	Tom ist Journalist.	टॉम पत्रकार है।
+Tom is a little odd.	Tom ist ein bisschen seltsam.	टॉम थोड़ा अजीब है।
+Tom is a little shy.	Tom ist ein wenig schüchtern.	टॉम थोड़ा झिझकमजरूर है।
+Tom is a lot better.	Tom ist viel besser.	टॉम कई गुना बेहतर है।
+Tom is a mama's boy.	Tom ist Muttersöhnchen.	टॉम माँ का लाडला है।
+Tom is a mere child.	Tom ist nur ein Kind.	टॉम सिर्फ एक बच्चा है।
+Tom is a normal guy.	Tom ist ein normaler Typ.	टॉम एक सामान्य आदमी है।
+Tom is a pawnbroker.	Tom ist ein Pfandleiher.	टॉम एक व्याजी है।
+Tom is a pharmacist.	Tom ist Apotheker.	टॉम एक फार्मेसिस्ट है।
+Tom is a polite boy.	Tom ist ein höflicher Junge.	टॉम एक शिष्ट लड़का है।
+Tom is a programmer.	Tom ist ein Programmierer.	टॉम एक प्रोग्रामर है।
