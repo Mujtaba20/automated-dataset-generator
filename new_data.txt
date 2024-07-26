@@ -39014,3 +39014,12 @@ Please read that book.	Bitte lies das Buch.	कृपया उस पुस्�
 Please read the meter.	Bitte lesen Sie den Zählerstand.	कृपया मीटर को पढ़ें।
 Please read this book.	Bitte lies dieses Buch.	कृपया यह किताब पढ़ें।
 Please stop whistling.	Bitte hör auf zu pfeifen.	कृपया सीटी बजाना बंद करें।
+Please take my advice.	Bitte beachten Sie meinen Rat.	मेरी सलाह को ग्रहण करें।
+Please take this away.	Nimm das bitte weg.	इसे दूर कर दो।
+Please take this seat.	Bitte nehmt diesen Platz.	कृपया इस सीट पर बैठें।
+Please think about it.	Bitte denke darüber nach.	इसके बारे में सोचें।
+Please throw the ball.	Wirf bitte den Ball.	कृपया गेंद फेंको।
+Please translate this.	Bitte übersetzen Sie dies.	इसका अनुवाद करें।
+Please translate this. (alternative meaning)	Bitte diese Übersetzung.	यह अनुवाद करें।
+Please turn on the TV.	Bitte schalten Sie den Fernseher ein.	कृपया टीवी चालू करें।
+Please wait your turn.	Bitte warten Sie auf Ihre Reihe.	कृपया अपनी बारी का इंतजार करें।
