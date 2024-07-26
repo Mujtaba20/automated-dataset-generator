@@ -36262,3 +36262,10 @@ Did Tom listen to you?	Hat Tom dir zugehört?	क्या टॉम ने त�
 Did Tom open the door?	Hat Tom die Tür geöffnet?	क्या टॉम ने दरवाज़ा खोला?
 Did Tom say something?	Hat Tom etwas gesagt?	क्या टॉमने कुछ कहा?
 Did Tom say anything?	Hat Tom irgendetwas gesagt?	क्या टॉमने कुछ कहा?
+Did Tom talk about it?	Hat Tom darüber gesprochen?	तोम ने इस बारे में बात की थी?
+Did Tom tell you that?	Hat Tom das dir gesagt?	क्या तुम्हें टॉम ने वह बताया था?
+Did Tom threaten Mary?	Hat Tom Mary bedroht?	क्या टॉम ने मेरी को धमकाया?
+Did anyone follow you?	Hat dich jemand verfolgt?	क्या कोई तुम्हें फॉलो किया?
+Did he go to see Mary?	Ist er zu Mary gefahren?	क्या उसने मेरी से मिलने के लिए जाना था?
+Did he propose to you?	Hat er dir einen Heiratsantrag gemacht?	क्या उसने तुम्हें प्रपोज किया था?
+Did he stay very long?	Ist er lange geblieben?	क्या वह बहुत देर तक रुका?

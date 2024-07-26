@@ -1,14 +1,4 @@
 
-Did Tom talk about it?	Hat Tom etwas darüber gesagt?	क्या टॉम ने इसके बारे में कुछ कहा?
-Did Tom tell you that?	Hat Tom Ihnen das gesagt?	क्या टॉम ने आपको बताया कि?
-Did Tom tell you that?	Hat Tom euch das gesagt?	क्या टॉम ने आपको बताया कि?
-Did Tom tell you that?	Hat Tom dir das gesagt?	क्या टॉम ने आपको बताया कि?
-Did Tom threaten Mary?	Hat Tom Mary bedroht?	क्या टॉम मैरी ने धमकी दी है?
-Did anyone follow you?	Ist dir jemand gefolgt?	क्या किसी ने आपका अनुसरण किया?
-Did he go to see Mary?	Hat er Maria besucht?	क्या वह मारिया का दौरा किया?
-Did he go to see Mary?	Hat er sich mit Mary getroffen?	क्या वह मैरी से मिला?
-Did he propose to you?	Hat er um deine Hand angehalten?	क्या वह आपके हाथ के आसपास है?
-Did he stay very long?	Ist er sehr lange geblieben?	क्या वह बहुत लंबे समय तक रहा है?
 Did it snow yesterday?	Hat es gestern geschneit?	क्या यह कल बर्फ था?
 Did somebody get hurt?	Ist jemand verletzt worden?	क्या किसी को चोट लगी है?
 Did that make Tom mad?	War Tom deswegen verärgert?	क्या टॉम उस वजह से नाराज था?
