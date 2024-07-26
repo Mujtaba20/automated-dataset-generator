@@ -34230,3 +34230,13 @@ Tom had appendicitis.	Tom hatte eine Blinddarmentzündung.	टॉम को प�
 Tom had his hair cut.	Tom ließ sich die Haare schneiden.	टॉमने अपने बाल कटवाए।
 Tom had many friends.	Tom hatte viele Freunde.	टॉम के कई दोस्त थे।
 Tom had no objection.	Tom hatte keine Einwände.	टॉम को कोई आपत्ति नहीं थी।
+Tom had one daughter.	Tom hatte eine Tochter.	टॉम की एक बेटी थी।
+Tom had only one leg.	Tom hatte nur ein Bein.	टॉम के पास केवल एक टांग थी।
+Tom has a 9-to-5 job.	Tom hat einen Job von 9 bis 5 Uhr.	टॉम के पास 9 से 5 बजे तक की नौकरी है।
+Tom has a bad temper.	Tom hat einen schlechten Charakter.	टॉम का गुस्सा बहुत खराब है।
+Tom has a beer belly.	Tom hat einen Bierbauch.	टॉम का बियर बेली है।
+Tom has a big family.	Tom hat eine große Familie.	टॉम के पास एक बड़ा परिवार है।
+Tom has a broken arm.	Tom hat einen gebrochenen Arm.	टॉम के हाथ में फ्रैक्चर है।
+Tom has a deep voice.	Tom hat eine tiefe Stimme.	टॉम की आवाज गहरी है।
+Tom has a family now.	Tom hat jetzt eine Familie.	टॉम के पास अब एक परिवार है।
+Tom has a full beard.	Tom hat einen vollen Bart.	टॉम के पास पूरी दाढ़ी है।
