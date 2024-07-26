@@ -38528,3 +38528,9 @@ It should be possible.	Es sollte möglich sein.	यह संभव होना
 It smells bad in here.	Hier riecht es schlecht.	यहाँ बुरा लग रहा है।
 It smells like a trap.	Es riecht nach einer Falle.	यह जाल से लगता है।
 It sounds interesting.	Es klingt interessant.	यह दिलचस्प लगता है।
+It started as a hobby.	Es begann als Hobby.	यह एक शौक के रूप में शुरू हुआ।
+It starts around 8:30.	Es beginnt gegen 8:30 Uhr.	यह लगभग 8:30 बजे शुरू होता है।
+It still doesn't work.	Es funktioniert immer noch nicht.	यह अभी तक काम नहीं कर रहा है।
+It sure is cold today.	Heute ist es sicher kalt.	आज यह सुन्दर ठंड है।
+It takes two to tango.	Man braucht immer zwei, um Tango zu tanzen.	टैंगो नृत्य के लिए दो लोग चाहिए।
+It tastes really good.	Es schmeckt wirklich gut.	यह सचमुच बहुत अच्छा लगता है।
