@@ -23101,3 +23101,13 @@ They can't hurt me.	Sie können mir nicht wehtun.	उन्हें मुझ�
 They can't see Tom.	Sie können Tom nicht sehen.	उन्हें टॉम नहीं देख सकते।
 They can't see you.	Sie können dich nicht sehen.	उन्हें तुम्हें नहीं देख सकते।
 They can't stop me.	Sie können mich nicht aufhalten.	वे मुझे नहीं रोक सकते।
+They crept forward.	Sie schlichen vorwärts.	उन्होंने आगे गए।
+They didn't listen.	Sie hörten nicht zu.	उन्होंने सुना नहीं।
+They didn't pay me.	Sie zahlten mir nicht.	उन्होंने मुझे पैसे नहीं दिए।
+They don't know me.	Sie kennen mich nicht.	वे मुझे नहीं जानते।
+They don't know us.	Sie kennen uns nicht.	उन्हें हम नहीं जानते।
+They don't like me.	Sie mögen mich nicht.	उन्हें मुझसे नफरत है।
+They don't want it.	Sie wollen es nicht.	उन्हें चाहिए नहीं।
+They don't want us.	Sie wollen uns nicht.	उन्हें हमें चाहिए नहीं।
+They found nothing.	Sie fanden nichts.	उन्होंने कुछ नहीं पाया।
+They gave it to me.	Sie gaben es mir.	उन्होंने मुझे दिया।

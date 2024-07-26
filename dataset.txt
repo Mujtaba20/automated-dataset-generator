@@ -1,15 +1,4 @@
 
-They crept forward.	Sie krochen voran.	वे आगे रेंग गए।
-They didn't listen.	Sie haben nicht zugehört.	आपने नहीं सुना।
-They didn't pay me.	Ich wurde nicht bezahlt.	मुझे भुगतान नहीं किया गया था।
-They don't know me.	Sie kennen mich nicht.	तुम मुझे नहीं जानते हो।
-They don't know us.	Sie kennen uns nicht.	आप हमें नहीं जानते।
-They don't like me.	Sie mögen mich nicht.	वह मुझे पसंद नहीं करते।
-They don't want it.	Sie wollen es nicht.	आप इसे नहीं चाहते।
-They don't want us.	Sie wollen uns nicht.	आप हमें नहीं चाहते।
-They found nothing.	Sie fanden nichts.	उन्हें कुछ नहीं मिला।
-They gave it to me.	Sie haben es mir gegeben.	आपने मुझे दिया।
-They gave it to me.	Sie gaben es mir.	उन्होंने मुझे दिया।
 They have families.	Sie haben Familie.	तुम्हारा परिवार है।
 They know about it.	Sie wissen davon.	आप इसके बारे में जानते हैं।
 They know who I am.	Sie wissen, wer ich bin.	आप जानते हैं मैं कौन हूं।
