@@ -1,14 +1,4 @@
 
-It's time for a break.	Es ist Zeit für eine Pause.	यह एक ब्रेक का समय है।
-It's time for bed now.	Es ist jetzt Schlafenszeit.	यह अब सोते समय है।
-It's time for bed now.	Es ist jetzt Zeit fürs Bett.	अब बिस्तर का समय आ गया है।
-It's time for bed now.	Es ist jetzt Zeit, um ins Bett zu gehen.	अब बिस्तर पर जाने का समय आ गया है।
-It's too soon to tell.	Es ist noch zu früh, um darüber zu reden.	इसके बारे में बात करना अभी भी बहुत जल्दी है।
-It's tough to explain.	Es ist schwierig zu erklären.	यह समझाना मुश्किल है।
-It's up to you and me.	Es liegt an dir und mir.	यह आपके और मेरे ऊपर है।
-It's useless to argue.	Es ist sinnlos zu diskutieren.	चर्चा करना व्यर्थ है।
-It's useless to argue.	Es ist zwecklos zu streiten.	यह बहस करना व्यर्थ है।
-It's very comfortable.	Es ist sehr bequem.	यह बहुत आरामदायक है।
 It's very complicated.	Das ist sehr kompliziert.	यह बहुत जटिल है।
 It's very frustrating.	Es ist sehr frustrierend.	यह बहुत निराशाजनक है।
 It's very hot in here.	Es ist sehr heiß hier.	यहां बहुत गर्मी है.

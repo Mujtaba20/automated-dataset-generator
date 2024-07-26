@@ -38669,3 +38669,10 @@ It's really very good.	Es ist wirklich sehr gut.	यह सचमुच बह�
 It's self-explanatory.	Es erklärt sich von selbst.	यह खुद से समझ में आ जाता है।
 It's starting to snow.	Es fängt an zu schneien.	बर्फ गिरने लगी है।
 It's still true today.	Es stimmt auch heute noch.	आज भी यह सत्य है।
+It's time for a break.	Es ist Zeit für eine Pause.	अब अवकाश का समय है।
+It's time for bed now.	Es ist Zeit fürs Bett jetzt.	अब सोने का समय है।
+It's too soon to tell.	Es ist noch zu früh, um es zu sagen.	बताने के लिए अभी बहुत जल्दी है।
+It's tough to explain.	Es ist schwer zu erklären.	समझाना मुश्किल है।
+It's up to you and me.	Es liegt an dir und mir.	यह आप और मुझसे ही है।
+It's useless to argue.	Es ist nutzlos zu streiten.	झगड़ना बेकार है।
+It's very comfortable.	Es ist sehr bequem.	यह बहुत आरामदायक है।
