@@ -21736,3 +21736,13 @@ I was forced to go.	Ich musste gehen.	मुझे जाने के लिए
 I was getting cold.	Mir wurde kalt.	मुझे ठंडी हो रही थी।
 I was glad to help.	Ich war froh zu helfen.	मैं खुश था मदद करने के लिए।
 I was having lunch.	Ich war beim Mittagessen.	मैं लंच कर रहा था।
+I was in Australia.	Ich war in Australien.	मैं ऑस्ट्रेलिया में था।
+I was in the house.	Ich war im Haus.	मैं घर में था।
+I was at home.	Ich war zu Hause.	मैं घर पर था।
+I was in the water.	Ich war im Wasser.	मैं पानी में था।
+I was questioned.	Ich wurde befragt.	मुझसे सवाल किया गया था।
+I was just curious.	Ich war nur neugierig.	मैं सिर्फ उत्सुक था।
+I was only joking.	Ich habe nur Scherze gemacht.	मैं सिर्फ मजाक कर रहा था।
+I got married here.	Ich habe hier geheiratet.	मैंने यहाँ शादी की थी।
+I was married once.	Ich war einmal verheiratet.	मैंने एक बार शादी की थी।
+I was also anxious.	Ich war auch nervös.	मैं भी चिंतित था।
