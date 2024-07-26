@@ -32507,3 +32507,13 @@ I'm happier than you.	Ich bin glücklicher als du.	मैं आपसे खु
 I'm happy about that.	Ich bin darüber glücklich.	मैं उसके बारे में खुश हूँ।
 I'm happy about this.	Ich bin darüber glücklich.	मैं इसके बारे में खुश हूँ।
 I'm happy to be here.	Ich bin froh, hier zu sein.	मुझे यहाँ होने के लिए खुशी है।
+I'm happy to hear it.	Ich freue mich, es zu hören.	मुझे यह सुनकर खुशी हुई।
+I'm happy to see you.	Ich freue mich, dich zu sehen.	मुझे तुम्हें देखकर खुशी हो रही है।
+I'm happy where I am.	Ich bin glücklich, wo ich bin.	मैं जहाँ हूँ, वहाँ खुश हूँ।
+I'm hardly ever home.	Ich bin selten zu Hause.	मैं घर पर बहुत कम हूँ।
+I'm heavier than you.	Ich bin schwerer als du.	मैं तुमसे भारी हूँ।
+I'm here as a friend.	Ich bin hier als Freund.	मैं यहाँ एक दोस्त के रूप में हूँ। 
+I'm here for a night.	Ich bin für eine Nacht hier.	मैं एक रात के लिए यहाँ हूँ।
+I'm here on business.	Ich bin geschäftlich hier.	मैं व्यापार में यहाँ हूँ।
+I'm here to have fun.	Ich bin hier, um Spaß zu haben.	मैं यहाँ मजे करने आया हूँ।
+I'm here to save you.	Ich bin hier, um dich zu retten.	मैं तुम्हें बचाने यहाँ आया हूँ।
