@@ -26536,3 +26536,12 @@ I must get it fixed. Different meaning.	Ich muss es in Ordnung bringen.	मु�
 I must have lost it.	Ich muss es verloren haben.	मुझसे इसे खो गया होगा।
 I must learn French.	Ich muss Französisch lernen.	मुझे फ्रेंच सीखनी चाहिए।
 I must look a sight.	Ich muss ein Bild sehen.	मुझे एक नजारा देखना चाहिए।
+I must work tonight.	Ich muss heute Nacht arbeiten.	मुझे आज रात काम करना है।
+I must've sat on it.	Ich muss darauf gesessen haben.	मुझे उस पर बैठना चाहिए था।
+I nearly got killed.	Ich wäre fast getötet worden.	मैं लगभग मर गया था।
+I need a dictionary.	Ich brauche ein Wörterbuch.	मुझे एक शब्दकोश की आवश्यकता है।
+I need a hot shower.	Ich brauche eine heiße Dusche.	मुझे एक गरम शॉवर की आवश्यकता है।
+I need a light coat.	Ich brauche einen leichten Mantel.	मुझे एक हल्का कोट चाहिए।
+I need a new kidney.	Ich brauche eine neue Niere.	मुझे एक नया गुर्दा चाहिए।
+I need a painkiller.	Ich brauche ein Schmerzmittel.	मुझे एक दर्दनाशक की आवश्यकता है।
+I need a tissue now.	Ich brauche jetzt ein Taschentuch.	मुझे अब एक टिश्यू की आवश्यकता है।

@@ -1,15 +1,4 @@
 
-I must work tonight.	Ich muss heute Abend arbeiten.	मुझे आज रात काम करना है।
-I must've sat on it.	Ich muss wohl drauf gesessen sein.	मैं उस पर बैठा रहा होगा।
-I nearly got killed.	Heute wäre ich fast ums Leben gekommen.	आज मैं लगभग मर गया।
-I need a dictionary.	Ich brauche ein Wörterbuch.	मुझे एक शब्दकोश चाहिए।
-I need a hot shower.	Ich brauche eine heiße Dusche.	मुझे एक गर्म स्नान चाहिए।
-I need a light coat.	Ich brauche einen leichten Mantel.	मुझे एक हल्का कोट चाहिए।
-I need a new kidney.	Ich brauche eine neue Niere.	मुझे एक नई किडनी चाहिए।
-I need a painkiller.	Ich brauche ein Schmerzmittel.	मुझे एक दर्द रिलीवर की जरूरत है।
-I need a tissue now.	Ich brauche jetzt ein Tuch.	मुझे अब एक कपड़ा चाहिए।
-I need a tissue now.	Ich brauche jetzt ein Taschentuch.	मुझे अब एक रूमाल चाहिए।
-I need a tissue now.	Ich brauche jetzt ein Papiertaschentuch.	मुझे अब एक पेपर रूमाल चाहिए।
 I need an analgesic.	Ich brauche ein Schmerzmittel.	मुझे एक दर्द रिलीवर की जरूरत है।
 I need lots of time.	Ich brauche viel Zeit.	मुझे बहुत समय चाहिए।
 I need only one cat.	Ich brauche nur eine Katze.	मुझे केवल एक बिल्ली की जरूरत है।
