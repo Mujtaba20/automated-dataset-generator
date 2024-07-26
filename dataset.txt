@@ -1,14 +1,4 @@
 
-Send me a postcard.	Schick mir eine Postkarte.	मुझे एक पोस्टकार्ड भेजें।
-Send me a postcard.	Schickt mir eine Postkarte.	मुझे एक पोस्टकार्ड भेजें।
-Send me a postcard.	Schicken Sie mir eine Postkarte.	मुझे एक पोस्टकार्ड भेजें।
-Shake before using.	Vor Gebrauch schütteln.	प्रयोग से पूर्व हिलाएं।
-Shall we stop soon?	Sollen wir bald aufhören?	क्या हमें जल्द ही रुकना चाहिए?
-Shall we stop soon?	Sollen wir bald halten?	क्या हमें जल्द ही पकड़ना चाहिए?
-Shaving takes time.	Eine Rasur braucht ihre Zeit.	शेव आपका समय लेता है।
-She almost drowned.	Sie wäre fast ertrunken.	वह लगभग डूब गई होगी।
-She almost drowned.	Sie war kurz vor dem Ertrinken.	यह डूबने से कुछ समय पहले था।
-She always says no.	Sie sagt immer nur nein.	वह हमेशा कहती है नहीं।
 She ate her dinner.	Sie aß ihr Abendessen.	उसने अपना डिनर खाया।
 She began to sweat.	Sie fing an zu schwitzen.	उसे पसीना आने लगा।
 She blew her lines.	Sie hat ihren Text vermasselt.	उसने अपना पाठ खराब कर दिया।
