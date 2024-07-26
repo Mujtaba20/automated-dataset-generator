@@ -39220,3 +39220,12 @@ Something's happening.	Etwas läuft ab.	कुछ हो रहा है।
 Something's not right.	Irgendetwas ist hier falsch.	कुछ गलत है।
 Sometimes we get lost.	Ab und zu verlaufen wir uns.	कभी-कभी हम हार जाते हैं।
 Sometimes, people lie.	Manchmal lügen Menschen.	कभी-कभी लोग झूठ बोलते हैं।
+Sorry about yesterday.	Entschuldigung für gestern.	कल के बारे में माफ़ी।
+Sorry, I've got to go.	Entschuldigung, ich muss gehen.	माफ़ कीजिए, मुझे जाना है।
+Speak a little louder.	Sprich etwas lauter.	थोड़ा ज्यादा बोलें।
+Spring follows winter.	Frühling folgt dem Winter.	वसंत में जा रहा है।
+Spring has come again.	Der Frühling ist wieder da.	बहार फिर से आ गई है।
+Spring is coming soon.	Der Frühling kommt bald.	बसंत जल्द ही आ रहा है।
+Spring will come soon.	Der Frühling kommt bald.	बसंत शीघ्र आएगा।
+Start with the basics.	Beginne mit den Grundlagen.	मूल तत्वों से शुरू करें।
+Stay absolutely still.	Bleib ganz ruhig.	पूरी विश्राम रहें।
