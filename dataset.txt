@@ -1,14 +1,4 @@
 
-I think it's a wolf.	Ich denke mal, es ist ein Wolf.	मुझे लगता है कि यह एक भेड़िया है।
-I think it's doable.	Ich denke, es ist machbar.	मुझे लगता है कि यह संभव है।
-I think it's simple.	Ich denke, es ist leicht.	मुझे लगता है कि यह आसान है।
-I think it's simple.	Ich denke, es ist einfach.	मुझे लगता है कि यह आसान है।
-I think she's forty.	Ich denke, dass sie vierzig ist.	मुझे लगता है कि वह चालीस है।
-I think they saw me.	Ich glaube, sie haben mich gesehen.	मेरे ख्याल से तुमने मुझे देखा।
-I think they saw us.	Ich glaube, sie haben uns gesehen.	मुझे लगता है कि आपने हमें देखा।
-I think we found it.	Ich glaube, wir haben es gefunden.	मुझे लगता है कि हमने इसे पाया।
-I think we'll be OK.	Ich denke, wir werden okay sein.	मुझे लगता है कि हम ठीक हो जाएंगे।
-I think we're ready.	Ich glaube, wir sind so weit.	मुझे लगता है कि हम अब तक हैं।
 I think you like me.	Ich glaube, du magst mich.	मैं सोचता हूं कि आप मुझे पसंद करते है।
 I think you're cute.	Ich finde dich süß.	मुझे लगता है कि तुम मीठे हो।
 I think you're dumb.	Ich denke, dass du dumm bist.	मुझे लगता है कि आप मूर्ख हैं।
