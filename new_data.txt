@@ -26926,3 +26926,11 @@ I'll do that myself.
 I'll do the talking.		
 I'll do this myself.		
 I'll do what I want.		
+I'll drive you home.	Ich werde dich nach Hause fahren.	मैं तुम्हें घर चलाऊँगा।
+I'll eat after that.	Ich werde danach essen.	मैं उसके बाद खाऊँगा।
+I'll find something.	Ich werde etwas finden.	मैं कुछ ढूंढ़ूँगा।
+I'll get it for you.	Ich werde es für dich holen.	मैं यह तुम्हारे लिए लेआऊँगा।
+I'll get the others.	Ich werde die anderen holen.	मैं बाकी लोगों को लेआऊँगा।
+I'll give it to Tom.	Ich werde es Tom geben.	मैं इसे टॉम को दूँगा।
+I'll give it to you.	Ich werde es dir geben.	मैं इसे तुम्हें दूँगा।
+I'll give you money.	Ich werde dir Geld geben.	मैं तुम्हें पैसे दूँगा।

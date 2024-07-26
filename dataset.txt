@@ -1,14 +1,4 @@
 
-I'll drive you home.	Ich werde dich mit dem Auto nach Hause bringen.	मैं तुम्हें कार से घर ले जाऊंगा।
-I'll drive you home.	Ich werde dich nach Hause fahren.	मैं तुम्हें घर चलाऊंगा।
-I'll drive you home.	Ich werde dich nachhause fahren.	मैं तुम्हें घर चलाऊंगा।
-I'll eat after that.	Ich esse danach.	मैं बाद में खाता हूं।
-I'll find something.	Ich werde etwas finden.	मुझे कुछ मिलेगा।
-I'll get it for you.	Ich hol es für dich.	मैं इसे तुम्हारे लिए मिलता हूं।
-I'll get the others.	Ich hole die anderen.	मुझे दूसरों को मिलता है।
-I'll give it to Tom.	Ich werde es Tom geben.	मैं इसे दे दूँगा टॉम।
-I'll give it to you.	Ich werde es dir geben.	मैं तुम्हें यह दूँगा।
-I'll give you money.	Ich werde dir Geld geben.	मैं तुम्हें पैसे दे दूँगा।
 I'll go and ask Tom.	Ich werde gehen und Tom fragen.	मैं जाकर टॉम से पूछूंगा।
 I'll go and ask Tom.	Ich werde gehen und Tom darum bitten.	मैं जाकर टॉम से पूछूंगा।
 I'll go and get Tom.	Ich werde Tom holen gehen.	मैं टॉम के पास जाऊंगा।
