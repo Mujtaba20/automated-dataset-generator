@@ -26055,3 +26055,5 @@ I beat him at chess.	Ich besiegte ihn im Schach.	मैंने उसे श�
 I believe Tom knows.	Ich glaube, Tom weiß.	मुझे लगता है कि टॉम को पता है।
 I believe in ghosts.	Ich glaube an Geister.	मुझे भूत-प्रेत में विश्वास है।
 I believe that's it.	Ich glaube das ist es.	मुझे लगता है कि यही है।
+I bet you know this.		
+I bet you're hungry.		

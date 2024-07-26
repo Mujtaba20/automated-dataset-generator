@@ -1,16 +1,4 @@
 
-I bet you know this.	Ich wette, du kennst das.	मुझे यकीन है कि आप जानते हैं।
-I bet you know this.	Ich wette, du weißt das.	मुझे यकीन है कि आप जानते हैं।
-I bet you know this.	Ich wette, Sie wissen das.	मुझे यकीन है कि आप जानते हैं।
-I bet you know this.	Ich wette, Sie kennen das.	मुझे यकीन है कि आप जानते हैं।
-I bet you know this.	Ich wette, ihr kennt das.	मुझे यकीन है कि आप जानते हैं।
-I bet you know this.	Ich wette, ihr wisst das.	मुझे यकीन है कि आप जानते हैं।
-I bet you're hungry.	Ich wette, du hast Hunger.	मुझे यकीन है कि आप भूखे हैं।
-I bet you're hungry.	Ich wette, Sie haben Hunger.	मुझे यकीन है कि आप भूखे हैं।
-I bet you're hungry.	Ich wette, ihr habt Hunger.	मुझे यकीन है कि आप भूखे हैं।
-I bet you're hungry.	Ich wette, du bist hungrig.	मुझे यकीन है कि आप भूखे हैं।
-I bet you're hungry.	Ich wette, Sie sind hungrig.	मुझे यकीन है कि आप भूखे हैं।
-I bet you're hungry.	Ich wette, ihr seid hungrig.	मुझे यकीन है कि आप भूखे हैं।
 I bought 24 pencils.	Ich habe 24 Bleistifte gekauft.	मैंने 24 पेंसिल खरीदे।
 I bought a new suit.	Ich kaufte mir einen neuen Anzug.	मैंने एक नया सूट खरीदा।
 I bought a new suit.	Ich kaufte ein neues Kostüm.	मैंने एक नई पोशाक खरीदी।
