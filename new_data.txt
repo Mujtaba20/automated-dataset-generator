@@ -26789,3 +26789,12 @@ I want what Tom has.	Ich möchte, was Tom hat.	मैं जो टॉम के
 I want you out here.	Ich möchte, dass du hier rauskommst.	मैं चाहता हूँ कि तुम यहाँ बाहर निकलो।
 I want you to dance.	Ich möchte, dass du tanzt.	मैं चाहता हूँ कि तुम नृत्य करो।
 I want your opinion.	Ich möchte deine Meinung.	मुझे तुम्हारे विचार चाहिए।
+I wanted an apology.	Ich wollte eine Entschuldigung.	मुझे एक क्षमा चाहिए था।
+I wanted her to win.	Ich wollte, dass sie gewinnt.	मैं चाहता था कि वह जीते।
+I wanted to be free.	Ich wollte frei sein.	मैं आज़ाद होना चाहता था।
+I wanted to give up.	Ich wollte aufgeben.	मैं हार मानना चाहता था।
+I wanted to go home.	Ich wollte nach Hause gehen.	मैं घर जाना चाहता था।
+I wanted to hit Tom.	Ich wollte Tom schlagen.	मैं टॉम को मारना चाहता था।
+I wanted to say yes.	Ich wollte Ja sagen.	मैं हाँ कहना चाहता था।
+I wanted to sell it.	Ich wollte es verkaufen.	मैं इसे बेचना चाहता था।
+I was Tom's teacher.	Ich war Toms Lehrer.	मैं टॉम का शिक्षक था।
