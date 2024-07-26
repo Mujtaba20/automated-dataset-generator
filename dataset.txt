@@ -1,14 +1,4 @@
 
-You should be proud.	Du solltest stolz sein.	तुम्हे गर्व होना चाहिए।
-You should call Tom.	Du solltest Tom anrufen.	आपको टॉम को फोन करना चाहिए।
-You should call Tom.	Sie sollten Tom anrufen.	आपको टॉम को फोन करना चाहिए।
-You should call Tom.	Ihr solltet Tom anrufen.	आपको टॉम को फोन करना चाहिए।
-You should eat more.	Ihr solltet mehr essen.	आपको और अधिक खाना चाहिए।
-You should eat more.	Sie sollten mehr essen.	आपको और अधिक खाना चाहिए।
-You should eat more.	Du solltest mehr essen.	आपको और अधिक खाना चाहिए।
-You should meet Tom.	Du solltest Tom treffen.	आपको टॉम से मिलना चाहिए।
-You should meet him.	Du solltest ihn treffen.	आपको उससे मिलना चाहिए।
-You should rest now.	Du solltest dich jetzt ausruhen.	अब आपको आराम करना चाहिए।
 You should thank me.	Du solltest mir danken.	आपको मुझे धन्यवाद देना चाहिए।
 You smell wonderful.	Du duftest herrlich.	आप खुशबू।
 You sound surprised.	Du klingst überrascht.	आप आश्चर्यचकित हैं।

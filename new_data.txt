@@ -30236,3 +30236,11 @@ You really are good.	Du bist wirklich gut.	तुम पर काफी अच�
 You reek of alcohol.	Du stinkst nach Alkohol.	तुम शराब से भरपूर हो।
 You saved our lives.	Du hast unser Leben gerettet.	तुम हमारी जिंदगी की भविष्यवाणी कर सकते हैं।
 You seem unreliable.	Du scheinst unzuverlässig zu sein.	तुम अस्थायी लगते हो।
+You should be proud.	Du solltest stolz sein.	तुम्हें गर्व होना चाहिए।
+You should call Tom.	Du solltest Tom anrufen.	तुम्हें टॉम को कॉल करनी चाहिए।
+You should call Tom. (Different meaning)	Sie sollten Tom anrufen.	आपको टॉम को कॉल करना चाहिए।
+You should eat more.	Du solltest mehr essen.	तुम्हें और ज्यादा खाना चाहिए।
+You should eat more. (Different meaning)	Es sollte mehr gegessen werden.	अधिक खाया जाना चाहिए।
+You should meet Tom.	Du solltest Tom treffen.	तुम्हें टॉम से मिलना चाहिए।
+You should meet him.	Du solltest ihn treffen.	तुम्हें उससे मिलना चाहिए।
+You should rest now.	Du solltest dich jetzt ausruhen.	तुम्हें अभी आराम करना चाहिए।
