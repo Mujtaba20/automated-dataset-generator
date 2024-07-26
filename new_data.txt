@@ -23142,3 +23142,13 @@ They understand us.	Sie verstehen uns.	उन्हें हमें समझ
 They walked around.	Sie liefen herum.	उन्होंने चक्कर लगाए।
 They want you dead.	Sie wollen dich tot haben.	वे चाहते हैं कि तुम मर जाओ।
 They went together.	Sie gingen zusammen.	उन्होंने साथ में चला गया।
+They were attacked.	Sie wurden angegriffen.	उनपे हमला किया गया था।
+They were fearless.	Sie waren furchtlos.	वे डरावने नहीं थे।
+They were murdered.	Sie wurden ermordet.	उनकी हत्या कर दी गई थी।
+They were sleeping.	Sie schliefen.	वे सो रहे थे।
+They were resting.	Sie ruhten sich aus.	उन्होंने आराम किया।
+They were meditating.	Sie meditierten.	वे ध्यान कर रहे थे।
+They were soldiers.	Sie waren Soldaten.	वे सिपाही थे।
+They were swimming.	Sie schwammen.	वे तैर रहे थे।
+They were tortured.	Sie wurden gefoltert.	उनके साथ अत्याचार किया गया था।
+They weren't there.	Sie waren nicht da.	वे वहाँ नहीं थे।

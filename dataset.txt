@@ -1,14 +1,4 @@
 
-They were attacked.	Sie wurden angegriffen.	उन पर हमला किया गया।
-They were fearless.	Sie waren furchtlos.	वे निडर थे।
-They were murdered.	Sie wurden ermordet.	उनकी हत्या कर दी गई।
-They were sleeping.	Sie schliefen.	वे सो गए।
-They were sleeping.	Sie waren am Schlafen.	वे सो रहे थे।
-They were sleeping.	Sie schliefen gerade.	वे बस सो गए।
-They were soldiers.	Sie waren Soldaten.	वे सैनिक थे।
-They were swimming.	Sie schwammen.	वे तैरे।
-They were tortured.	Sie wurden gefoltert.	उन्हें प्रताड़ित किया गया।
-They weren't there.	Sie waren nicht dort.	वे वहाँ नहीं थे।
 They won that game.	Sie haben dieses Spiel gewonnen.	आपने यह गेम जीता।
 They won't be shot.	Sie werden nicht erschossen.	उन्हें गोली नहीं लगी।
 They won't find it.	Sie werden es nicht finden.	आपको यह नहीं मिलेगा।
