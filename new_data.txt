@@ -25109,3 +25109,12 @@ Are you at home now?	Bist du jetzt zu Hause?	क्या तुम अभी �
 Are you avoiding me?	Meidest du mich?	क्या आप मुझसे बच रहे हैं?
 Are you avoiding me? - 2	Vermeiden Sie mich?	क्या आप मुझसे दूर रह रहे हैं?
 Are you comfortable?	Fühlst du dich wohl?	क्या आपको आराम मिल रहा है?
+Are you coming down?	Kommen Sie runter?	क्या तुम नीचे आ रहे हो?
+Are you coming, Tom?	Kommst du, Tom?	क्या तुम आ रहे हो, टॉम?
+Are you enjoying it?	Machst du das gerne?	क्या आप इसे आनंद ले रहे हैं?
+Are you even trying?	Versuchst du überhaupt?	क्या तुम कोशिश कर रहे हो?
+Are you experienced?	Bist du erfahren?	क्या आप अनुभवी हैं?
+Are you from Boston?	Kommen Sie aus Boston?	क्या आप बॉस्टन से हैं?
+Are you going to go?	Wirst du gehen?	क्या तुम जाने वाले हो?
+Are you guys crying?	Weint ihr?	क्या तुम लोग रो रहे हो?
+Are you guys hungry?	Seid ihr hungrig?	क्या तुम लोग भूखे हो?
