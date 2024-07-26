@@ -1,14 +1,4 @@
 
-Tom and I need to talk.	Tom und ich müssen reden.	टॉम और मुझे बात करनी है।
-Tom and I run together.	Tom und ich rennen gemeinsam.	टॉम और मैं एक साथ चलते हैं।
-Tom and I run together.	Tom und ich rennen zusammen.	टॉम और मैं एक साथ चलते हैं।
-Tom and I share a room.	Tom und ich teilen uns ein Zimmer.	टॉम और मैं एक कमरा साझा करते हैं।
-Tom and I went fishing.	Tom und ich sind angeln gegangen.	टॉम और मैं मछली पकड़ने गए।
-Tom and John are twins.	Tom und John sind Zwillinge.	टॉम और जॉन जुड़वाँ बच्चे हैं।
-Tom and Mary are bored.	Tom und Maria sind gelangweilt.	टॉम और मारिया ऊब गए हैं।
-Tom and Mary are bored.	Tom und Maria langweilten sich.	टॉम और मारिया ऊब गए।
-Tom and Mary are broke.	Tom und Maria sind pleite.	टॉम और मारिया दिवालिया हैं।
-Tom and Mary are crazy.	Tom und Maria sind verrückt.	टॉम और मारिया पागल हैं।
 Tom and Mary are happy.	Tom und Maria sind glücklich.	टॉम और मारिया खुश हैं।
 Tom and Mary are lying.	Tom und Maria lügen.	टॉम और मारिया झूठ।
 Tom and Mary are ready.	Tom und Maria sind soweit.	टॉम और मारिया तैयार हैं।
