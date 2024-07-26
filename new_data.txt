@@ -35184,3 +35184,12 @@ We have to leave now.	Wir müssen jetzt gehen.	हमें अब जाना 
 We have to stop this.	Wir müssen das stoppen.	हमें इसे रोकना है।
 We have to tell them.	Wir müssen es ihnen sagen.	हमें उन्हें बताना है।
 We have two children.	Wir haben zwei Kinder.	हमारे पास दो बच्चे हैं।
+We helped each other.	Wir haben uns gegenseitig geholfen.	हमने एक-दूसरे की मदद की।
+We hope for the best.	Wir hoffen auf das Beste.	हम उम्मीद करते हैं ।
+We hugged each other.	Wir haben uns umarmt.	हमने एक-दूसरे को गले लगाया।
+We kissed each other.	Wir haben uns geküsst.	हमने एक-दूसरे को चुम्बन दिया।
+We knew all about it.	Wir wussten alles darüber.	हमें इसके बारे में सब पता था।
+We knew it all along.	Wir wussten es die ganze Zeit.	हम हमेशा से इसे जानते थे।
+We know how they are.	Wir wissen, wie sie sind.	हमें पता है कि वे कैसे हैं।
+We know they'll come.	Wir wissen, sie werden kommen.	हमें पता है कि वे आएंगे।
+We know what we want.	Wir wissen, was wir wollen.	हमें पता है कि हमें क्या चाहिए।

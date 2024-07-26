@@ -1,14 +1,4 @@
 
-We helped each other.	Wir halfen einander.	हमने एक -दूसरे की मदद की।
-We helped each other.	Wir halfen uns gegenseitig.	हमने एक -दूसरे की मदद की।
-We hope for the best.	Wir hoffen aufs Beste.	हम सर्वश्रेष्ठ की उम्मीद करते हैं।
-We hugged each other.	Wir umarmten uns.	हम गले मिले।
-We kissed each other.	Wir haben uns geküsst.	हमने चुम्बन किया।
-We knew all about it.	Wir wussten alles darüber.	हम इसके बारे में सब कुछ जानते थे।
-We knew it all along.	Wir wussten es die ganze Zeit über.	हम हर समय जानते थे।
-We know how they are.	Wir wissen, wie sie sind.	हम जानते हैं कि वे कैसे हैं।
-We know they'll come.	Wir wissen, dass sie kommen werden.	हम जानते हैं कि वे आएंगे।
-We know what we want.	Wir wissen, was wir wollen.	हम जानते हैं कि हम क्या चाहते हैं।
 We know what you did.	Wir wissen, was du getan hast.	हम जानते हैं कि आपने क्या किया।
 We know what you did.	Wir wissen, was ihr getan habt.	हम जानते हैं कि आपने क्या किया।
 We know what you did.	Wir wissen, was Sie getan haben.	हम जानते हैं कि आपने क्या किया।
