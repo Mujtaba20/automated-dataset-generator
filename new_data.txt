@@ -26459,3 +26459,13 @@ I like being single.	Ich mag es, single zu sein.	मुझे सिंगल �
 I like cheese pizza.	Ich mag Käsepizza.	मुझे चीज़ पिज़्ज़ा पसंद है।
 I like dragon fruit.	Ich mag Drachenfrucht.	मुझे ड्रैगन फल पसंद है।
 I like his attitude.	Ich mag seine Einstellung.	मुझे उसकी रवैया पसंद है।
+I like it in Boston.	Ich mag es in Boston.	मुझे इसे बोस्टन में पसंद है।
+I like it very much.	Ich mag es sehr.	मुझे यह बहुत पसंद है।
+I like it very much. (Duplicate meaning)	Ich mag es sehr.	मैं इसे बहुत पसंद करता हूँ।
+I like light colors.	Ich mag helle Farben.	मुझे हल्के रंग पसंद हैं।
+I like love stories.	Ich mag Liebesgeschichten.	मुझे प्रेम कहानियाँ पसंद हैं।
+I like love stories. (Duplicate translation)	Ich liebe Liebesgeschichten.	मुझे प्यारी कहानियाँ पसंद हैं।
+I like movies a lot.	Ich mag Filme sehr gerne.	मुझे फिल्में बहुत पसंद हैं।
+I like paying taxes.	Ich zahle gerne Steuern.	मुझे कर देना पसंद है।
+I like playing golf.	Ich spiele gerne Golf.	मुझे गोल्फ खेलना पसंद है।
+I like potato salad.	Ich mag Kartoffelsalat.	मुझे आलू सलाद पसंद है।

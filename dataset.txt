@@ -1,15 +1,4 @@
 
-I like it in Boston.	Es gefällt mir in Boston.	मुझे यह बोस्टन में पसंद है।
-I like it very much.	Es gefällt mir sehr gut.	यह बहुत पसंद है।
-I like it very much.	Ich mag es wirklich sehr.	मुझे वास्तव में यह पसंद है।
-I like light colors.	Ich mag helle Farben.	मुझे चमकीले रंग पसंद हैं।
-I like love stories.	Ich mag Liebesgeschichten.	मुझे प्रेम कहानियां पसंद हैं।
-I like love stories.	Mir gefallen Liebesgeschichten.	मुझे प्रेम कहानियां पसंद हैं।
-I like movies a lot.	Ich mag Filme sehr.	मुझे फिल्में बहुत पसंद हैं।
-I like paying taxes.	Ich zahle gern Steuern.	मुझे करों का भुगतान करना पसंद है।
-I like playing golf.	Ich spiele gerne Golf.	मुझे गोल्फ खेलना पसंद है।
-I like potato salad.	Ich mag Kartoffelsalat.	मुझे आलू का सलाद पसंद है।
-I like potato salad.	Ich esse gerne Kartoffelsalat.	मुझे आलू का सलाद खाना पसंद है।
 I like strawberries.	Ich mag Erdbeeren.	मुझे स्ट्रॉबेरी पसंद है।
 I like taking walks.	Ich gehe gerne spazieren.	मुझे टहलना पसंद है।
 I like that sweater.	Ich mag den Pullover.	मुझे स्वेटर पसंद है।
