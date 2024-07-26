@@ -34284,3 +34284,13 @@ Tom has one of those.	Tom hat so etwas.	उसमें से एक टॉम 
 Tom has quit smoking.	Tom hat mit dem Rauchen aufgehört.	टॉम ने सिगरेट पीना छोड़ दिया है।
 Tom has seen it, too.	Tom hat es auch gesehen.	टॉम ने भी उसे देखा है।
 Tom has strong hands.	Tom hat kräftige Hände.	टॉम के सशक्त हाथ हैं।
+Tom has things to do.	Tom hat Dinge zu tun.	टॉम के पास करने के लिए काम है।
+Tom has three nieces.	Tom hat drei Nichten.	टॉम के तीन भतीजी हैं।
+Tom has three uncles.	Tom hat drei Onkel.	टॉम के तीन चाचे हैं।
+Tom has to do it now.	Tom muss es jetzt tun.	टॉम को अब यह करना है।
+Tom has to help Mary.	Tom muss Maria helfen.	टॉम को मेरी की मदद करनी है।
+Tom has two brothers.	Tom hat zwei Brüder.	टॉम के दो भाई हैं।
+Tom has two children.	Tom hat zwei Kinder.	टॉम के दो बच्चे हैं।
+Tom has two siblings.	Tom hat zwei Geschwister.	टॉम के दो बड़े भाई हैं।
+Tom hasn't eaten yet.	Tom hat noch nicht gegessen.	टॉम अब तक नहीं खाया है।
+Tom hates air travel.	Tom hasst das Fliegen.	टॉम वायुयान यात्रा से नफरत करता है।

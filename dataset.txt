@@ -1,14 +1,4 @@
 
-Tom has things to do.	Tom hat Dinge zu tun.	टॉम के पास करने के लिए चीजें हैं।
-Tom has three nieces.	Tom hat drei Nichten.	टॉम में तीन भतीजी हैं।
-Tom has three uncles.	Tom hat drei Onkel.	टॉम के तीन चाचा हैं।
-Tom has to do it now.	Tom muss das jetzt tun.	टॉम को अब ऐसा करना है।
-Tom has to help Mary.	Tom muss Mary helfen.	टॉम को मैरी की मदद करनी है।
-Tom has two brothers.	Tom hat zwei Brüder.	टॉम के दो भाई हैं।
-Tom has two children.	Tom hat zwei Kinder.	टॉम के दो बच्चे हैं।
-Tom has two siblings.	Tom hat zwei Geschwister.	टॉम के दो भाई -बहन हैं।
-Tom hasn't eaten yet.	Tom hat noch nichts gegessen.	टॉम ने अभी तक कुछ नहीं खाया है।
-Tom hates air travel.	Tom hasst Flugreisen.	टॉम को हवाई यात्रा से नफरत है।
 Tom hates foreigners.	Tom hasst Ausländer.	टॉम को विदेशियों से नफरत है।
 Tom heard some shots.	Tom hörte einige Schüsse.	टॉम ने कुछ शॉट सुना।
 Tom heard the scream.	Tom hat den Schrei gehört.	टॉम ने चीख सुनी।
