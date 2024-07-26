@@ -1,14 +1,4 @@
 
-Please stop singing.	Höre bitte auf zu singen!	कृपया गाना बंद करो!
-Please stop talking.	Hör bitte auf zu reden!	कृपया बात करना बंद करें!
-Please take me home.	Bitte bring mich nach Hause.	कृपया मुझे घर ले आओ।
-Please tell me more.	Bitte erzähl mir mehr.	कृपया मुझे और बताओ।
-Please wish me luck.	Wünsch mir Glück.	मुझे शुभकामनाएँ दें।
-Please wrap them up.	Packen Sie sie bitte ein.	कृपया उन्हें पैक करें।
-Please wrap them up.	Pack sie bitte ein.	कृपया इसे पैक करें।
-Pleased to meet you.	Nett Sie zu treffen.	आपसे मिलकर अच्छा लगा।
-Pleased to meet you.	Es freut mich, Sie kennenzulernen!	आपसे मिलकर प्रसन्नता हुई!
-Pleased to meet you.	Freut mich, Sie kennenzulernen.	आपसे मिलकर खुशी हुई।
 Possibly, it's true.	Möglicherweise ist es wahr.	यह सच हो सकता है।
 Prices are going up.	Die Preise steigen.	कीमतें बढ़ रही हैं।
 Put down the hammer.	Leg den Hammer nieder.	हथौड़ा नीचे रखो।

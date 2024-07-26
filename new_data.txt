@@ -27803,3 +27803,10 @@ Please make the bed.	Bitte mach das Bett.	कृपया बिस्तर ब
 Please speak French.	Bitte sprich Französisch.	कृपया फ्रेंच बोलें।
 Please speak slowly.	Bitte sprich langsam.	कृपया धीरे बोलें।
 Please speak French. - Different meaning	Bitte sprechen Sie leise Französisch.	कृपया फ्रेंच में आवाज ना करें।
+Please stop singing.	Bitte hör auf zu singen.	कृपया गाना बंद करें।
+Please stop talking.	Bitte hör auf zu reden.	कृपया बात करना बंद करें।
+Please take me home.	Bitte bring mich nach Hause.	कृपया मुझे घर ले जाओ।
+Please tell me more.	Bitte erzähl mir mehr.	कृपया मुझे अधिक बताएं।
+Please wish me luck.	Bitte wünsch mir Glück.	कृपया मुझे किस्मत की शुभकामनाएं दें।
+Please wrap them up.	Bitte pack sie ein.	कृपया उन्हें पैक अप करें।
+Pleased to meet you.	Willkommen.	खुश आपका आना।
