@@ -35289,3 +35289,11 @@ We're a happy family.	Wir sind eine glückliche Familie.	हम एक खुश
 We're a little early.	Wir sind ein wenig früh dran.	हम थोड़े जल्दी हैं।
 We're a little older.	Wir sind etwas älter.	हम थोड़े बड़े हैं।
 engSentence	{"We're all a team now.": 'Wir sind jetzt alle ein Team.', "We're all sick of it.": 'Wir sind es alle leid.', "We're all vulnerable.": 'Wir alle sind verletzbar.', "We're always careful.": 'Wir sind immer vorsichtig.', "We're baking cookies.": 'Wir backen Cookies.', "We're being attacked.": 'Wir werden angegriffen.', "We're both named Tom.": 'Wir heißen beide Tom.', "We're claustrophobic.": 'Wir haben Platzangst.', "We're coming for you.": 'Wir kommen auf dich zu.'}	{"We're all a team now.": 'हम सभी अब एक टीम हैं।', "We're all sick of it.": 'हमें सभी से परेशानी है।', "We're all vulnerable.": 'हम सभी भेद्य हैं।', "We're always careful.": 'हम हमेशा सावधान रहते हैं।', "We're baking cookies.": 'हम कुकीज़ पका रहे हैं।', "We're being attacked.": 'हम पर हमला हो रहा है।', "We're both named Tom.": 'हम दोनों का नाम टॉम है।', "We're claustrophobic.": 'हमें सभी क्लॉस्ट्रोफोबिया है।', "We're coming for you.": 'हम तुम्हारे पास आ रहे हैं।'}
+We're getting closer.	Wir rücken näher zusammen.	हम और करीब आ रहे हैं।
+We're getting sloppy.	Wir werden nachlässig.	हम ढीलापन में आ रहे हैं।
+We're going to be OK.	Es wird uns gut gehen.	हम ठीक रहेंगे।
+We're going to fight.	Wir werden kämpfen.	हम लड़ने जा रहे हैं।
+We're going tomorrow.	Wir gehen morgen.	हम कल जा रहे हैं।
+We're going with you.	Wir gehen mit dir.	हम तुम्हारे साथ जा रहे हैं।
+We're in third place.	Wir sind auf dem dritten Platz.	हम तीसरे स्थान पर हैं।
+We're in trouble now.	Wir stecken jetzt in Schwierigkeiten.	अब हम परेशान हैं।
