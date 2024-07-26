@@ -30212,3 +30212,10 @@ You must be careful.	Du musst vorsichtig sein.	तुमें सावधा�
 You must be kidding!	Du musst Witze machen!	तुमे मजाक कर रहे हो!
 You must believe me.	Du musst mir glauben.	तुम्हें मुझपर विश्वास करना चाहिए।
 You must actually be kidding!	Du musst tatsächlich Witze machen!	तुमे वास्तव में मजाक करना चाहिए!
+You must forgive me.	Du musst mir vergeben.	तुम्हें मुझे माफ करना चाहिए।
+You must go at once.	Du musst sofort gehen.	तुम्हें तुरंत जाना चाहिए।
+You must stay awake.	Du musst wach bleiben.	तुम्हें जाग्रत रहना चाहिए।
+You must study hard.	Du musst fleißig lernen.	तुम्हें मेहनत से पढ़ाई करनी चाहिए।
+You must study hard. 	Du musst hart studieren.	तुम्हें मेहनती से पढ़ाई करनी चाहिए।
+You must go at once. 	Du musst sofort gehen.	तुम्हें तुरंत जाना चाहिए।
+You must stay awake. 	Du musst wach bleiben.	तुम्हें जाग्रत रहना चाहिए।

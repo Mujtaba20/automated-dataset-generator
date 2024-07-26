@@ -1,16 +1,4 @@
 
-You must forgive me.	Ihr müsst mir verzeihen.	आपको मुझे माफ करना होगा।
-You must forgive me.	Du musst mir verzeihen.	आपको मुझे माफ करना होगा।
-You must go at once.	Du musst sofort los.	आपको तुरंत जाना होगा।
-You must go at once.	Ihr müsst sofort los.	आपको तुरंत जाना होगा।
-You must go at once.	Sie müssen sofort los.	आपको तुरंत जाना होगा।
-You must stay awake.	Du musst wach bleiben.	आपको जागृत रहना होगा।
-You must stay awake.	Ihr müsst wach bleiben.	आपको जागृत रहना होगा।
-You must stay awake.	Sie müssen wach bleiben.	आपको जागृत रहना होगा।
-You must study hard.	Du musst intensiv lernen.	आपको गहनता से सीखना होगा।
-You must study hard.	Du musst fleißig lernen.	आपको लगन से सीखना होगा।
-You must study hard.	Ihr müsst fleißig lernen.	आपको लगन से सीखना होगा।
-You must study hard.	Sie müssen fleißig lernen.	आपको कठिन सीखना होगा।
 You must study more.	Du musst mehr lernen.	आपको और सीखना चाहिए।
 You must try harder.	Du musst dir mehr Mühe geben.	आपको और अधिक प्रयास करना होगा।
 You must try harder.	Du musst dir größere Mühe geben.	आपको अधिक प्रयास करना होगा।
