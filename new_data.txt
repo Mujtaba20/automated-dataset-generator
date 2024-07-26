@@ -32145,3 +32145,13 @@ I think Tom will win.	Ich denke, Tom wird siegen.	मुझे लगता ह�
 I think he likes you.	Ich glaube, er mag dich.	मुझे लगता है कि वह आपको पसंद करता है।
 I think he's correct.	Ich denke, er hat recht.	मुझे लगता है कि वह सही है।
 I think it's amazing.	Ich denke, es ist fantastisch.	मुझे लगता है कि यह अद्भुत है।
+I think it's my turn.	Ich glaube, ich bin an der Reihe.	मुझे लगता है कि यह मेरी बारी है।
+I think it's strange.	Ich finde es seltsam.	मुझे लगता है कि यह अजीब है।
+I think my mom knows.	Ich glaube, meine Mutter weiß.	मुझे लगता है कि मेरी माँ को पता है।
+I think no one knows.	Ich glaube, niemand weiß.	मुझे लगता है कि किसी को पता नहीं है।
+I think that's great.	Ich denke, das ist großartig.	मुझे लगता है कि यह शानदार है।
+I think they know us.	Ich glaube, sie kennen uns.	मुझे लगता है कि वे हमें जानते हैं।
+I think they like me.	Ich denke, sie mögen mich.	मुझे लगता है कि वे मुझे पसंद करते हैं।
+I think they like us.	Ich denke, sie mögen uns.	मुझे लगता है कि वे हमें पसंद करते हैं।
+I think they saw you.	Ich glaube, sie haben dich gesehen.	मुझे लगता है कि उन्होंने तुम्हें देखा है।
+I think this is good.	Ich denke, das ist gut.	मुझे लगता है कि यह अच्छा है।

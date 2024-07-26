@@ -1,14 +1,4 @@
 
-I think it's my turn.	Ich glaube, ich bin jetzt dran.	मुझे लगता है कि मैं अभी पर हूं।
-I think it's strange.	Mir kommt das komisch vor.	यह मुझे अजीब लगता है।
-I think my mom knows.	Ich denke, meine Mutter weiß es.	मुझे लगता है कि मेरी माँ को पता है।
-I think no one knows.	Ich denke, niemand weiß es.	मुझे लगता है कि कोई नहीं जानता।
-I think that's great.	Ich finde das ganz toll.	मुझे लगता है कि यह वास्तव में बहुत अच्छा है।
-I think they know us.	Ich denke, sie kennen uns.	मुझे लगता है कि वे हमें जानते हैं।
-I think they like me.	Ich denke, sie mögen mich.	मुझे लगता है कि वे मुझे पसंद करते हैं।
-I think they like us.	Ich denke, sie mögen uns.	मुझे लगता है कि वे हमें पसंद करते हैं।
-I think they saw you.	Ich denke, sie haben dich gesehen.	मुझे लगता है कि उन्होंने आपको देखा।
-I think this is good.	Ich denke, das ist gut.	मुझे लगता है कि यह अच्छा है।
 I think this is mine.	Ich denke, das gehört mir.	मुझे लगता है कि यह मेरा है।
 I think we can do it.	Ich glaube, wir können es tun.	मुझे लगता है कि हम यह कर सकते हैं।
 I think we should go.	Ich denke, wir sollten gehen.	मुझे लगता है कि हमें जाना चाहिए।
