@@ -1,14 +1,4 @@
 
-It is raining hard.	Es regnet wie aus Eimern.	बाल्टी से बारिश होती है।
-It is raining hard.	Es schüttet.	यह डालता है।
-It is too long ago.	Es ist zu lange her.	यह बहुत पहले था।
-It isn't expensive.	Es ist nicht teuer.	यह महंगा नहीं है।
-It isn't like that.	So ist es nicht.	ऐसा नहीं है।
-It keeps happening.	Das passiert immer wieder.	यह बार -बार होता है।
-It looks delicious.	Es sieht köstlich aus.	यह स्वादिष्ट लगता है।
-It looks delicious.	Es sieht vorzüglich aus.	यह उत्कृष्ट लग रहा है।
-It looks delicious.	Es sieht sehr lecker aus.	यह स्वादिष्ट लगता है।
-It looks like rain.	Es sieht nach Regen aus.	लगता है बारिश होने वाली है।
 It looks like snow.	Es sieht nach Schnee aus!	यह बर्फ की तरह लग रहा है!
 It looks like snow.	Es sieht aus, als ob es bald schneien wird.	ऐसा लगता है कि यह जल्द ही बर्फ हो जाएगा।
 It looks like snow.	Es sieht aus wie Schnee.	यह बर्फ जैसा दिखता है।

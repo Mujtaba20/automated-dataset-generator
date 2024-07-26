@@ -22222,3 +22222,10 @@ It is dark outside.	Es ist draußen dunkel.	बाहर अंधेरा ह�
 It is his decision.	Es ist seine Entscheidung.	यह उसका फैसला है।
 It is of great use.	Es ist von großem Nutzen.	यह बहुत उपयोगी है।
 It is of great use. (Different meaning)	Es ist sehr nützlich.	यह अत्यधिक प्रयोगी है।
+It is raining hard.	Es regnet stark.	यह कठोर बारिश हो रही है।
+It is too long ago.	Es ist schon zu lange her.	बहुत देर से बीत गई है।
+It isn't expensive.	Es ist nicht teuer.	यह महंगा नहीं है।
+It isn't like that.	Es ist nicht so.	ऐसा नहीं है।
+It keeps happening.	Es passiert immer wieder.	यह बार-बार होता रहता है।
+It looks delicious.	Es sieht köstlich aus.	यह स्वादिष्ट लग रहा है।
+It looks like rain.	Es sieht nach Regen aus.	बारिश की तरह लग रहा है।
