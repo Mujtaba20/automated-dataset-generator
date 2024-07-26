@@ -1,20 +1,4 @@
 
-You're just jealous.	Du bist doch nur eifersüchtig.	आप बस ईर्ष्या कर रहे हैं।
-You're just jealous.	Sie sind doch nur eifersüchtig.	आप बस ईर्ष्या कर रहे हैं।
-You're looking down.	Du siehst betrübt aus.	तुम उदास लग रहे हो।
-You're looking down.	Du schaust nach unten.	तुम नीचे देखो।
-You're looking good!	Du siehst gut aus!	आप अच्छे लग रहे हो!
-You're looking good!	Ihr seht gut aus!	आप अच्छे लग रहे हो!
-You're looking good!	Sie sehen gut aus!	आप अच्छे लग रहे हो!
-You're looking good.	Du siehst gut aus.	आप अच्छे लग रहे हो।
-You're not Canadian.	Du bist kein Kanadier.	आप कनाडाई नहीं हैं।
-You're not Canadian.	Du bist keine Kanadierin.	आप कनाडाई नहीं हैं।
-You're not Canadian.	Sie sind kein Kanadier.	आप कनाडाई नहीं हैं।
-You're not Canadian.	Sie sind keine Kanadierin.	आप कनाडाई नहीं हैं।
-You're not Canadian.	Sie sind keine Kanadier.	वे एक कनाडाई नहीं हैं।
-You're not Canadian.	Sie sind keine Kanadierinnen.	वे कनाडाई नहीं हैं।
-You're not Canadian.	Ihr seid keine Kanadier.	आप कनाडाई नहीं हैं।
-You're not Canadian.	Ihr seid keine Kanadierinnen.	आप कनाडाई नहीं हैं।
 You're not a doctor.	Sie sind kein Arzt.	आप डॉक्टर नहीं हैं।
 You're not that old.	So alt sind Sie nicht.	वे पुराने नहीं हैं।
 You're not that old.	So alt bist du doch nicht.	तुम उस बूढ़े नहीं हो।

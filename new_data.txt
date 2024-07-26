@@ -30292,3 +30292,8 @@ You're in no danger.	Du bist nicht in Gefahr.	तुम्हें कोई �
 You're incorrigible.	Du bist unverbesserlich.	तुम सुधारने से कभी नहीं सीखोगे।
 You're irresistible.	Du bist unwiderstehlich.	तुम अत्यधिक खिंचने वाले हो।
 You're just in time.	Du bist gerade rechtzeitig.	तुम बिल्कुल समय पर हो।
+You're just jealous.	Du bist einfach neidisch.	तू बस ईर्ष्या कर रहा है।
+You're looking down.	Du betrachtest nach unten.	तू नीचे देख रहा है।
+You're looking good!	Du machst einen guten Eindruck!	तू अच्छे नजर आ रहे हैं!
+You're looking good.	Du siehst gut aus.	तू अच्छा लग रहा है।
+You're not Canadian.	Du bist nicht aus Kanada.	तुम कनाडियन नहीं हो।
