@@ -30107,3 +30107,10 @@ You are such a liar!	Du bist so ein Lügner!	तुम इतने झूठे
 You are such a liar.	Du bist ein solcher Lügner.	तुम ऐसे झूठे हो।
 You aren't Canadian.	Du bist nicht kanadisch.	तुम कनाडियन नहीं हो।
 You are not Canadian.	Sie sind nicht Kanadier.	तुम कनाडियन नहीं हो।
+You aren't thinking.	Du denkst nicht nach.	आप सोचने में नहीं हैं।
+You aren't watching.	Du beobachtest nicht.	आप नहीं देख रहे हैं।
+You bet I'm worried.	Du kannst wetten, dass ich besorgt bin.	तुम जरूर परेशान हो।
+You broke the rules.	Du hast die Regeln gebrochen.	तुमने नियम तोड़ दिए।
+You can borrow mine.	Du kannst mir leihen.	तुम मेरा उधार ले सकते हो।
+You can call me Tom.	Du kannst mich Tom nennen.	तुम मुझे टॉम कह सकते हो।
+You can count on me.	Du kannst dich auf mich verlassen.	तुम मुझ पर भरोसा कर सकते हो।
