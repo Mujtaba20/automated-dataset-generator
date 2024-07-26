@@ -34117,3 +34117,11 @@ Tom dances very well.	Tom tanzt sehr gut.	टॉम बहुत अच्छे
 Tom denied the rumor.	Tom bestritt das Gerücht.	टॉम ने अफवाह से कतई इनकार किया।
 Tom deserves to know.	Tom verdient es zu wissen.	टॉम को जानने का हक है।
 Tom did a sloppy job.	Tom hat schlampige Arbeit gemacht.	टॉम ने गंदी नौकरी की।
+Tom did it for money.	Tom hat es für Geld getan.	टॉम ने पैसे के लिए यह किया।
+Tom did it very well.	Tom hat es sehr gut gemacht.	टॉम ने बहुत अच्छे से किया।
+Tom did that in 2013.	Tom tat dies im Jahr 2013.	टॉम ने उसे 2013 में किया।
+Tom didn't answer me.	Tom hat mir nicht geantwortet.	टॉम ने मुझे जवाब नहीं दिया।
+Tom didn't buy bread.	Tom hat kein Brot gekauft.	टॉम ने रोटी नहीं खरीदी।
+Tom didn't come back.	Tom kam nicht zurück.	टॉम वापस नहीं आया।
+Tom didn't come home.	Tom ist nicht nach Hause gekommen.	टॉम घर नहीं आया।
+Tom didn't even care.	Tom hat sich nicht einmal gekümmert.	टॉम ने चिंता तक नहीं की।

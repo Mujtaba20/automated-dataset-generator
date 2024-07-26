@@ -1,14 +1,4 @@
 
-Tom did it for money.	Tom hat es für Geld gemacht.	टॉम ने इसे पैसे के लिए किया।
-Tom did it very well.	Tom hat das sehr gut gemacht.	टॉम ने बहुत अच्छा किया।
-Tom did that in 2013.	Tom hat das 2013 gemacht.	टॉम ने 2013 में ऐसा किया।
-Tom did that in 2013.	Tom hat das 2013 getan.	टॉम ने 2013 में ऐसा किया।
-Tom didn't answer me.	Tom hat mir nicht geantwortet.	टॉम ने मुझे जवाब नहीं दिया।
-Tom didn't buy bread.	Tom hat kein Brot gekauft.	टॉम ने रोटी नहीं खरीदी।
-Tom didn't come back.	Tom kehrte nicht zurück.	टॉम नहीं लौटा।
-Tom didn't come back.	Tom kam nicht zurück.	टॉम वापस नहीं आया।
-Tom didn't come home.	Tom kam nicht nach Hause.	टॉम घर नहीं आया।
-Tom didn't even care.	Es kümmerte Tom gar nicht.	टॉम ने बिल्कुल भी परवाह नहीं की।
 Tom didn't feel well.	Tom fühlte sich nicht gut.	टॉम अच्छा नहीं लगा।
 Tom didn't have time.	Tom hatte keine Zeit.	टॉम के पास कोई समय नहीं था।
 Tom didn't help much.	Tom hat nicht sehr viel geholfen.	टॉम ने ज्यादा मदद नहीं की।
