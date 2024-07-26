@@ -20700,3 +20700,10 @@ He advised caution.	Er riet zur Vorsicht.	उसने सावधानी स
 He appeared honest.	Er schien ehrlich zu sein.	उसे ईमानदार लगा।
 He appeared hungry.	Er schien hungrig zu sein.	उसे भूख लगी थी।
 He arrived in time.	Er kam rechtzeitig an.	उसने समय पर पहुंच गया।
+He arrived with me.	Er kam mit mir an.	उसने मेरे साथ आकर आना।
+He asked after you.	Er erkundigte sich nach dir.	उसने तुम्हारे बारे में पूछा।
+He asked for money.	Er bat um Geld.	उसने पैसे मांगे।
+He asked my mother.	Er fragte meine Mutter.	उसने मेरी माँ से पूछा।
+He banged his head.	Er schlug sich den Kopf.	उसने अपने सिर को टकराया।
+He banged his knee.	Er schlug sein Knie.	उसने अपने घुटने को मारा।
+He became a sailor.	Er wurde Seemann.	उसने एक नाविक बन गया।
