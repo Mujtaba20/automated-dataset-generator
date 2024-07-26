@@ -36617,3 +36617,7 @@ Get out while you can.	Geh raus, solange du kannst.	जब तुम कर स�
 Get that away from me.	Nimm das weg von mir.	मेरे पास से दूर रखो।
 Get under my umbrella.	Geh unter meinen Schirm.	मेरे छतरी के नीचे जाओ।
 Get your hands off me.	Nimm deine Hände von mir.	मुझसे दूर रखो।
+Give it to me, please.	Gib es mir bitte.	कृपया मुझे यह दे दो।
+Give me a little time.	Gib mir etwas Zeit.	मुझे थोड़ा समय दो।
+Give me just a little.	Gib mir nur ein bisschen.	मुझे बस थोड़ा दो।
+Give me my money back.	Gib mir mein Geld zurück.	मेरे पैसे वापस करो।

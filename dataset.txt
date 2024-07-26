@@ -1,14 +1,4 @@
 
-Give it to me, please.	Bitte geben Sie mir das.	कृपया मुझे वह दें।
-Give it to me, please.	Gib es mir bitte!	कृपया मुझे दे दो!
-Give it to me, please.	Geben Sie es mir bitte!	कृपया मुझे दे दो!
-Give me a little time.	Gib mir ein wenig Zeit.	मुझे कुछ समय दो।
-Give me just a little.	Gib mir nur ein bisschen.	बस मुझे थोड़ा दे दो।
-Give me just a little.	Gebt mir nur ein bisschen.	बस मुझे थोड़ा दे दो।
-Give me just a little.	Geben Sie mir nur ein bisschen.	बस मुझे थोड़ा दे दो।
-Give me my money back.	Gib mir mein Geld zurück!	मुझे मेरे पैसे वापस दे दो!
-Give me my money back.	Gebt mir mein Geld zurück!	मुझे मेरा पैसा वापस दो!
-Give me my money back.	Geben Sie mir mein Geld zurück!	मुझे मेरा पैसा वापस दो!
 Give me three minutes.	Gib mir drei Minuten!	मुझे तीन मिनट दे दो!
 Give me your car keys.	Gib mir deine Autoschlüssel!	मुझे अपनी कार की चाबी दे दो!
 Give me your car keys.	Geben Sie mir Ihre Autoschlüssel!	मुझे अपनी कार की चाबी दे दो!
