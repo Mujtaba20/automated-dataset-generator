@@ -23152,3 +23152,13 @@ They were soldiers.	Sie waren Soldaten.	वे सिपाही थे।
 They were swimming.	Sie schwammen.	वे तैर रहे थे।
 They were tortured.	Sie wurden gefoltert.	उनके साथ अत्याचार किया गया था।
 They weren't there.	Sie waren nicht da.	वे वहाँ नहीं थे।
+They won that game.	Sie haben dieses Spiel gewonnen.	उन्होंने उस खेल को जीत लिया।
+They won't be shot.	Sie werden nicht erschossen werden.	उन्हें गोली नहीं लगेगी।
+They won't find it.	Sie werden es nicht finden.	उन्हें यह नहीं मिलेगा।
+They won't hurt us.	Sie werden uns nicht verletzen.	वे हमें नहीं चोट पहुंचाएँगे।
+They won't make it.	Sie werden es nicht schaffen.	उन्हें यह नहीं बना पाएगा।
+They work at night.	Sie arbeiten nachts.	वे रात काम करते हैं।
+They'll be pleased.	Sie werden erfreut sein.	वे खुश होंगे।
+They'll come to us.	Sie werden zu uns kommen.	वे हमारे पास आएंगे।
+They'll understand.	Sie werden verstehen.	उन्हें समझ आएगी।
+They're all guilty.	Sie sind alle schuldig.	वे सभी दोषी हैं।
