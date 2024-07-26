@@ -1,15 +1,4 @@
 
-She's a sweet girl.	Sie ist ein süßes Mädchen.	वह एक प्यारी लड़की है।
-She's an alcoholic.	Sie ist Alkoholikerin.	वह एक शराबी है।
-She's at a meeting.	Sie ist in einer Besprechung.	वह एक बैठक में है।
-She's eating fruit.	Sie isst eine Frucht.	वह एक फल खाता है।
-She's from Somalia.	Sie ist aus Somalia.	वह सोमालिया से है।
-She's from Somalia.	Sie kommt aus Somalia.	वह सोमालिया से आती है।
-She's just a child.	Sie ist nichts mehr als ein Kind.	वह एक बच्चे से ज्यादा कुछ नहीं है।
-She's my classmate.	Sie ist meine Klassenkameradin.	वह मेरी सहपाठी है।
-She's my classmate.	Sie ist meine Kommilitonin.	वह मेरी साथी छात्रा है।
-She's my godmother.	Sie ist meine Patentante.	यह मेरा पेटेंट है।
-She's my godmother.	Sie ist meine Patin.	वह मेरी गॉडमदर है।
 She's my professor.	Sie ist meine Professorin.	वह मेरी प्रोफेसर हैं।
 She's not a doctor.	Sie ist kein Arzt.	वह चिकित्सक नहीं है।
 She's not a doctor.	Sie ist keine Ärztin.	वह चिकित्सक नहीं है।

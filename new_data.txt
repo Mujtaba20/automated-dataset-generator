@@ -22773,3 +22773,11 @@ She will come soon.	Sie wird bald kommen.	वह जल्द ही आएग�
 She's Tom's sister.	Sie ist Toms Schwester.	वह टॉम की बहन है।
 She's a big teaser.	Sie ist eine große Neckerin.	वह एक बड़ी मजाकिया है।
 She's a smart girl.	Sie ist ein kluges Mädchen.	वह एक होशियार लड़की है।
+She's a sweet girl.	Sie ist ein süßes Mädchen.	वह एक मीठी लड़की है।
+She's an alcoholic.	Sie ist Alkoholikerin.	वह शराब पीती है।
+She's at a meeting.	Sie ist bei einem Treffen.	वह एक मीटिंग में है।
+She's eating fruit.	Sie isst Obst.	वह फल खा रही है।
+She's from Somalia.	Sie kommt aus Somalia.	वह सोमालिया से है।
+She's just a child.	Sie ist nur ein Kind.	वह सिर्फ एक बच्ची है।
+She's my classmate.	Sie ist meine Klassenkameradin.	वह मेरी सहपाठी है।
+She's my godmother.	Sie ist meine Patentante.	वह मेरी कुंवारी बुआ है।
