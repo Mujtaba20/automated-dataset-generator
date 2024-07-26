@@ -1,14 +1,4 @@
 
-Tom is in deep trouble.	Tom steckt in großen Schwierigkeiten.	टॉम बड़ी कठिनाइयों में है।
-Tom is in extreme pain.	Tom hat starke Schmerzen.	टॉम को गंभीर दर्द है।
-Tom is in grave danger.	Tom befindet sich in großer Gefahr.	टॉम बहुत खतरे में है।
-Tom is in great danger.	Tom schwebt in großer Gefahr.	टॉम बड़े खतरे में हो जाता है।
-Tom is in high spirits.	Tom ist gut gelaunt.	टॉम अच्छे मूड में है।
-Tom is in his room now.	Tom ist gerade in seinem Zimmer.	टॉम इस समय अपने कमरे में है।
-Tom is in his room now.	Tom ist gerade auf seinem Zimmer.	टॉम अभी अपने कमरे में है।
-Tom is in his room now.	Tom ist gerade bei sich im Zimmer.	टॉम वर्तमान में कमरे में है।
-Tom is in his thirties.	Tom ist in den Dreißigern.	टॉम तीसवें दशक में है।
-Tom is in love with me.	Tom ist in mich verliebt.	टॉम मेरे साथ प्यार में है।
 Tom is in need of help.	Tom braucht Hilfe.	टॉम को मदद की जरूरत है।
 Tom is in real trouble.	Tom steckt in der Patsche.	टॉम मुसीबत में है।
 Tom is in the bathroom.	Tom ist im Badezimmer.	टॉम बाथरूम में है।
