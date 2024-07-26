@@ -37145,3 +37145,11 @@ I can get it from Tom.	Ich kann es von Tom erhalten.	मैं तोम से 
 I can hardly hear you.	Ich kann dich fast nicht hören.	मैं तुम्हें लगभग सुन नहीं सकता।
 I can hardly stand it.	Es ist kaum zum Aushalten für mich.	मुझसे यह सहन करना मुश्किल है।
 I can open the window.	Ich kann das Fenster öffnen.	मैं खिड़की खोल सकता हूँ।
+I can plead ignorance.	Ich kann Unwissenheit vortragen.	मैं निर्धारण नहीं कर सकता।
+I can prove it to you.	Ich kann es dir beweisen.	मैं तुम्हें यह साबित कर सकता हूँ।
+I can smell the ocean.	Ich kann das Meer riechen.	मैं समुंदर की खुशबू महसूस कर सकता हूँ।
+I can testify to that.	Ich kann das bezeugen.	मैं उसकी गवाही दे सकता हूँ।
+I can't believe I won.	Ich kann nicht glauben, dass ich gewonnen habe.	मुझे विजयी होने पर विश्वास नहीं हो रहा है।
+I can't come tomorrow.	Ich kann morgen nicht kommen.	मैं कल नहीं आ सकता।
+I can't come with you.	Ich kann nicht mit dir kommen.	मैं तुम्हारे साथ नहीं आ सकता।
+I can't do it anymore.	Ich kann es nicht mehr tun.	मैं इसे अब और नहीं कर सकता।
