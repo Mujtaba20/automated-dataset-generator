@@ -1,15 +1,4 @@
 
-I wish I could do more.	Ich wünschte, ich könnte mehr tun.	काश मैं और अधिक कर सकता।
-I wish I had a brother.	Ich wünschte, ich hätte einen Bruder.	काश मेरा एक भाई होता।
-I wish I had a brother.	Ich hätte gerne einen Bruder.	मैं एक भाई होना चाहूंगा।
-I wish I had a new car.	Ich wünschte, ich hätte ein neues Auto.	काश मेरे पास एक नई कार होती।
-I wish I had done more.	Ich wünschte, ich hätte mehr getan!	काश मैंने और अधिक किया होता!
-I wish I had more time.	Ich wünschte, ich hätte mehr Zeit!	काश मेरे पास अधिक समय होता!
-I wish I had some help.	Ich wünschte, ich hätte etwas Hilfe.	काश मुझे कुछ मदद मिलती।
-I wish I were a prince.	Ich wünschte, ich wäre ein Prinz.	काश मैं एक राजकुमार होता।
-I wish I were a prince.	Schön wär’s, wenn ich ein Prinz wäre.	अगर मैं एक राजकुमार होता तो अच्छा होता।
-I wish you had told me.	Ich wünschte, du hättest es mir erzählt.	काश तुमने मुझे बताया होता।
-I wish you had told me.	Ich wünschte, du hättest es mir gesagt.	काश तुमने मुझे बताया होता।
 I wish you wouldn't go.	Ich wünschte, du würdest nicht gehen.	काश आप नहीं जा रहे थे।
 I won't be blackmailed.	Ich werde mich nicht erpressen lassen!	मैं ब्लैकमेल नहीं होगा!
 I won't be coming back.	Ich werde nicht wiederkommen.	मैं वापस नहीं आऊंगा।
