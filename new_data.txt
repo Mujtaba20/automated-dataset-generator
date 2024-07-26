@@ -27884,3 +27884,10 @@ She is a chatterbox.	Sie ist eine Plaudertasche.	वह बक-बक करन�
 She is a little shy.	Sie ist ein wenig schüchtern.	वह थोड़ी शर्मीली है।
 She is a mere child.	Sie ist nur ein Kind.	वह केवल एक बच्चा है।
 She is about my age.	Sie ist etwa in meinem Alter.	वह मेरी उम्र के बराबर है।
+She is fond of cake.	Sie mag Kuchen.	वह केक का शौकीन है।
+She is good-natured.	Sie ist gutherzig.	वह भले स्वभाव की है।
+She is growing tall.	Sie wird groß.	वह लंबी होती जा रही है।
+She is in the wrong.	Sie liegt falsch.	वह गलती में है।
+She is just a child.	Sie ist nur ein Kind.	वह सिर्फ एक बच्ची है।
+She is looked up to.	Sie wird bewundert.	उसका सम्मान किया जाता है।
+She is loved by him.	Er liebt sie.	वह उससे प्यार करता है।
