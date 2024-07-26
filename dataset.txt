@@ -1,14 +1,4 @@
 
-I don't have a date.	Ich habe kein Date.	मेरे पास कोई तारीख नहीं है।
-I don't have a date.	Ich habe keine Verabredung.	मेरी कोई नियुक्ति नहीं है।
-I don't have a home.	Ich habe kein Zuhause.	मेरा कोई घर नहीं है।
-I don't have a plan.	Ich habe keinen Plan.	मुझे पता नहीं है।
-I don't have a wife.	Ich habe keine Frau.	मेरे पास एक महिला नहीं है।
-I don't have enough.	Ich habe nicht genug.	मेरे पास काफ़ी नहीं है।
-I don't know either.	Ich weiß es auch nicht.	मैं इसे नहीं जानता।
-I don't like French.	Ich mag Französisch nicht.	मुझे फ्रेंच पसंद नहीं है।
-I don't like apples.	Äpfel mag ich nicht.	मुझे सेब पसंद नहीं है।
-I don't like cheese.	Ich mag keinen Käse.	मुझे चीज़ पसंद नहीं।
 I don't like coffee.	Ich mag keinen Kaffee.	मुझे कॉफी पसंद नहीं है।
 I don't like flying.	Ich fliege nicht gern.	मुझे उड़ना पसंद नहीं है।
 I don't like losing.	Ich verliere nicht gern.	मुझे हारना पसंद नहीं है।

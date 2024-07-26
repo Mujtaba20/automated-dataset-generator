@@ -26193,3 +26193,12 @@ I don't expect help.	Ich erwarte keine Hilfe.	मैं मदद की उम�
 I don't go out much.	Ich gehe nicht viel aus.	मैं ज्यादा बाहर नहीं जाता।
 I don't hate anyone.	Ich hasse niemanden.	मैं किसी से नफरत नहीं करता।
 I don't have a cold.	Ich bin nicht erkältet.	मेरी कोई सर्दी नहीं है।
+I don't have a date.	Ich habe kein Datum.	मेरे पास कोई तारीख नहीं है।
+I don't have a home.	Ich habe kein Zuhause.	मेरे पास एक घर नहीं है।
+I don't have a plan.	Ich habe keinen Plan.	मेरे पास कोई योजना नहीं है।
+I don't have a wife.	Ich habe keine Frau.	मेरी पत्नी नहीं है।
+I don't have enough.	Ich habe nicht genug.	मेरे पास पर्याप्त नहीं है।
+I don't know either.	Ich weiß auch nicht.	मुझे भी नहीं पता।
+I don't like French.	Ich mag kein Französisch.	मुझे फ्रेंच पसंद नहीं है।
+I don't like apples.	Ich mag keine Äpfel.	मुझे सेब पसंद नहीं हैं।
+I don't like cheese.	Ich mag keinen Käse.	मुझे पनीर पसंद नहीं है।
