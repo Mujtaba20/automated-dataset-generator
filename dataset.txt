@@ -1,16 +1,4 @@
 
-I heard Tom's voice.	Ich hörte Toms Stimme.	मैंने टॉम की आवाज सुनी।
-I heard Tom's voice.	Ich habe Toms Stimme gehört.	मैंने टॉम की आवाज सुनी।
-I heard her singing.	Ich hörte sie singen.	मैंने उसे गाना सुना।
-I heard her singing.	Ich habe sie singen hören.	मैंने उसे गाना सुना।
-I heard her singing.	Ich habe sie singen gehört.	मैंने उसे गाना सुना।
-I heard that happen.	Ich habe gehört, wie es geschah.	मैंने सुना कि यह कैसे हुआ।
-I heard you singing.	Ich habe dich singen gehört.	मैंने सुना है कि आप गाते हैं।
-I heard you singing.	Ich habe euch singen gehört.	मैंने सुना है कि आप गाते हैं।
-I heard you singing.	Ich habe Sie singen gehört.	मैंने उसे गाना सुना।
-I heard you talking.	Ich habe euch sprechen gehört.	मैंने सुना है कि आप बोलते हैं।
-I heard you talking.	Ich habe Sie sprechen gehört.	मैंने उसे बोलते हुए सुना।
-I heard you talking.	Ich habe dich sprechen gehört.	मैंने सुना है कि आप बोलते हैं।
 I heard you whisper.	Ich habe dich flüstern hören.	मैंने तुम्हें कानाफूसी सुना।
 I heard you whisper.	Ich habe euch flüstern hören.	मैंने तुम्हें कानाफूसी सुना।
 I heard you whisper.	Ich habe Sie flüstern hören.	मैंने उन्हें कानाफूसी सुना।

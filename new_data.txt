@@ -26359,3 +26359,8 @@ I haven't forgotten.	Ich habe nicht vergessen.	मैं भूल नहीं 
 I haven't had lunch.	Ich habe noch nicht zu Mittag gegessen.	मैंने अभी तक दोपहर का खाना नहीं खाया है।
 I hear with my ears.	Ich höre mit meinen Ohren.	मैं अपनी कानों से सुनता हूँ।
 I heard Tom is sick.	Ich habe gehört, dass Tom krank ist.	मैंने सुना है कि टॉम बीमार है।
+I heard Tom's voice.	Ich habe Toms Stimme gehört.	मैंने टॉम की आवाज सुनी।
+I heard her singing.	Ich hörte sie singen.	मैंने उसे गाते हुए सुना।
+I heard that happen.	Ich habe das passieren hören.	मैंने वह होते सुना।
+I heard you singing.	Ich hörte dich singen.	मैंने तुम्हें गाते हुए सुना।
+I heard you talking.	Ich hörte dich reden.	मैंने तुम्हें बात करते हुए सुना।
