@@ -1,18 +1,4 @@
 
-Do you sell batteries?	Verkaufen Sie Batterien?	क्या आप बैटरी बेचते हैं?
-Do you still love Tom?	Liebst du Tom immer noch?	क्या आप अभी भी टॉम से प्यार करते हैं?
-Do you still love Tom?	Liebst du Tom noch immer?	क्या आप अभी भी टॉम से प्यार करते हैं?
-Do you still love him?	Liebst du ihn noch?	क्या तुम अभी भी उससे प्यार करती हो?
-Do you still love him?	Lieben Sie ihn noch?	क्या तुम अभी भी उससे प्यार करती हो?
-Do you think I'm ugly?	Denkst du, dass ich hässlich bin?	क्या आपको लगता है कि मैं बदसूरत हूं?
-Do you think I'm ugly?	Denkst du, ich bin hässlich?	क्या आपको लगता है कि मैं बदसूरत हूं?
-Do you think I'm ugly?	Findest du, dass ich hässlich bin?	क्या आपको लगता है कि मैं बदसूरत हूं?
-Do you think I'm ugly?	Findest du, ich bin hässlich?	क्या आपको लगता है कि मैं बदसूरत हूं?
-Do you think I'm ugly?	Findet ihr, dass ich hässlich bin?	क्या आपको लगता है कि मैं बदसूरत हूं?
-Do you think I'm ugly?	Findet ihr, ich bin hässlich?	क्या आपको लगता है कि मैं बदसूरत हूं?
-Do you think I'm ugly?	Finden Sie, dass ich hässlich bin?	क्या आपको लगता है कि मैं बदसूरत हूं?
-Do you think I'm ugly?	Finden Sie, ich bin hässlich?	क्या आपको लगता है कि मैं बदसूरत हूं?
-Do you think I'm ugly?	Findest du mich hässlich?	क्या आपको लगता है कि मैं बदसूरत हूं?
 Do you understand Tom?	Verstehst du Tom?	क्या आप टॉम को समझते हैं?
 Do you understand her?	Verstehst du sie?	क्या आप उसे समझते हैं?
 Do you understand her?	Versteht ihr sie?	क्या आप उसे समझते हैं?

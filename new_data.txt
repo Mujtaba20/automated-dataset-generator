@@ -36411,3 +36411,8 @@ Do you really like it?	Magst du es wirklich?	क्या आपको यह �
 Do you really love me?	Liebst du mich wirklich?	क्या आप मुझसे सच्चमें प्यार करते हैं?
 Do you really mean it?	Meinst du es wirklich?	क्या आप यह सच्चमें मानते हैं?
 Do you see what I see?	Siehst du was ich sehe?	क्या आप जो मैं देख रहा हूं वह देखते हैं?
+Do you sell batteries?	Verkaufen Sie Batterien?	क्या आप बैटरी बेचते हैं?
+Do you still love Tom?	Liebst du Tom noch?	क्या तुम अब भी टॉम से प्यार करते हो?
+Do you still love him?	Liebst du ihn noch?	क्या तुम अब भी उसे पसंद करते हो?
+Do you think I'm ugly?	Denkst du, ich bin hässlich?	क्या तुम समझते हो कि मैं बुरी दिखती हूँ?
+Do you think I'm ugly? (alternative meaning)	Glaubst du, ich bin unattraktiv?	क्या आपको लगता है कि मैं अप्रिय दिखता हूँ?
