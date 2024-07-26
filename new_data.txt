@@ -37967,3 +37967,13 @@ I want you to do that.	Ich möchte, dass du das tust.	मुझे चाहि�
 I want you to do this.	Ich möchte, dass du das machst.	मुझे चाहिए कि तुम यह करो।
 I want you to go away.	Ich möchte, dass du gehst.	मुझे चाहिए कि तुम चले जाओ।
 I want you to go home.	Ich möchte, dass du nach Hause gehst.	मुझे चाहिए कि तुम घर जाओ।
+I want you to have it.	Ich möchte, dass du es hast.	मुझे चाहिए कि तुम्हारा हो
+I want you to love me.	Ich möchte, dass du mich liebst.	मुझे चाहिए कि तुम मुझसे प्यार करो
+I want you to read it.	Ich möchte, dass du es liest.	मुझे चाहिए कि तुम इसे पढ़ो
+I want you to see her.	Ich möchte, dass du sie siehst.	मुझे चाहिए कि तुम उसे देखो
+I want you to take it.	Ich möchte, dass du es nimmst.	मुझे चाहिए कि तुम यह ले लो
+I want you to want me.	Ich möchte, dass du mich willst.	मुझे चाहिए कि तुम मुझे चाहो
+I wanted to be famous.	Ich wollte berühmt sein.	मैं प्रसिद्ध होना चाहता था
+I wanted to eat pizza.	Ich wollte Pizza essen.	मैं पिज्जा खाना चाहता था
+I wanted to get drunk.	Ich wollte betrunken werden.	मैं मदहोश होना चाहता था
+I wanted to go abroad.	Ich wollte ins Ausland gehen.	मैं विदेश जाना चाहता था
