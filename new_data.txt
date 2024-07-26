@@ -36784,3 +36784,13 @@ He is as busy as ever.	Er ist so beschäftigt wie immer.	वह हमेशा 
 He is as lazy as ever.	Er ist so faul wie eh und je.	वह हमेशा की तरह सुस्त है।
 He is as poor as ever.	Er ist so arm wie immer.	वह हमेशा की तरह गरीब है।
 He is blinded by love.	Er ist blind vor Liebe.	वह प्यार में अंधा है।
+He is far from honest.	Er ist weit entfernt von ehrlich.	वह ईमानदार दूर से है।
+He is fond of fishing.	Er ist gerne angeln.	वह मछली पकड़ने का शौकीन है।
+He is good at cooking.	Er ist gut im Kochen.	वह पकाने में अच्छा है।
+He is good at driving.	Er ist gut im Fahren.	उसकी ड्राइविंग अच्छी है।
+He is good at singing.	Er ist gut im Singen.	वह गाने में अच्छा है।
+He is guilty of theft.	Er ist schuldig des Diebstahls.	चोरी का दोषी है।
+He is just an amateur.	Er ist nur ein Amateur.	वह बस एक अमेचुअर है।
+He is living in Tokyo.	Er lebt in Tokio.	वह टोक्यो में रहता है।
+He is my close friend.	Er ist mein enger Freund.	वह मेरा करीबी दोस्त है।
+He is no longer a boy.	Er ist kein Junge mehr.	वह अब लड़का नहीं है।

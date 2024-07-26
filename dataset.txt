@@ -1,14 +1,4 @@
 
-He is far from honest.	Er ist alles andere als ehrlich.	वह कुछ भी है लेकिन ईमानदार है।
-He is fond of fishing.	Er angelt gern.	उसे मछली पसंद है।
-He is good at cooking.	Er kann gut kochen.	वह अच्छी तरह से खाना बना सकता है।
-He is good at driving.	Er fährt gut.	वह अच्छी तरह से ड्राइव करता है।
-He is good at singing.	Er kann gut singen.	वह अच्छा गा सकता है।
-He is guilty of theft.	Er ist des Diebstahls schuldig.	वह चोरी का दोषी है।
-He is just an amateur.	Er ist nur ein Amateur.	वह सिर्फ एक शौकिया है।
-He is living in Tokyo.	Er wohnt gerade in Tokio.	वह वर्तमान में टोक्यो में रह रहा है।
-He is my close friend.	Er ist mein Intimfreund.	वह मेरा अंतरंग दोस्त है।
-He is no longer a boy.	Er ist kein Junge mehr.	वह अब लड़का नहीं है।
 He is no ordinary man.	Er ist kein einfacher Mann.	वह एक आसान आदमी नहीं है।
 He is no ordinary man.	Er ist kein gewöhnlicher Mann.	वह एक साधारण आदमी नहीं है।
 He is not a physician.	Er ist kein Arzt.	वह एक डाक्टर नहीं है।
