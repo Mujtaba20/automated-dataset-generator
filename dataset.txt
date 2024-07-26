@@ -1,14 +1,4 @@
 
-This path is dangerous.	Dieser Weg ist gefährlich.	यह रास्ता खतरनाक है।
-This plan has no flaws.	Dieser Plan ist fehlerlos.	यह योजना निर्दोष है।
-This price is too high.	Der Preis hier ist zu hoch.	यहाँ कीमत बहुत अधिक है।
-This room heats easily.	Dieses Zimmer erwärmt sich schnell.	यह कमरा जल्दी से गर्म हो जाता है।
-This room is too small.	Dieses Zimmer ist zu klein.	यह कमरा बहुत छोटा है.
-This room is too small.	Dieser Raum ist zu klein.	यह कमरा बहुत छोटा है.
-This room is very cold.	In diesem Zimmer ist es sehr kalt.	इस कमरे में बहुत ठंडा है।
-This room is very warm.	Es ist sehr warm in diesem Zimmer.	इस कमरे में यह बहुत गर्म है।
-This room smells musty.	Dieses Zimmer riecht schimmlig.	इस कमरे में ढालना है।
-This room smells musty.	Dieses Zimmer riecht muffig.	इस कमरे में मस्टी की खुशबू आ रही है।
 This rose is beautiful.	Diese Rose ist wunderschön.	यह गुलाब सुंदर है।
 This rose is beautiful.	Diese Rose ist schön.	यह गुलाब सुंदर है।
 This scene delights me.	Dieser Anblick ergötzt mich.	यह दृष्टि मुझे प्रसन्न करती है।
