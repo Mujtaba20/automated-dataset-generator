@@ -36712,3 +36712,13 @@ He didn't see a thing.	Er hat nichts gesehen.	उसने कुछ नही�
 He didn't see anybody.	Er hat niemanden gesehen.	उसने किसी को भी नहीं देखा।
 He didn't shed a tear.	Er vergoss keine Träne.	उसने एक आंसू भी नहीं बहाया।
 He died from overwork.	Er starb an Überarbeitung.	उसने अधिक काम से मर गया।
+He dislocated his arm.	Er hat sich den Arm ausgerenkt.	उसने अपनी बांह टूटा।
+He does not like cats.	Er mag keine Katzen.	उसे बिल्लियों पसंद नहीं है।
+He doesn't look happy.	Er sieht nicht glücklich aus.	वह खुश नहीं दिखता।
+He drew a deep breath.	Er holte tief Luft.	उसने गहरी सांस ली।
+He drives a tow truck.	Er fährt einen Abschleppwagen.	वह टो ट्रक चलाता है।
+He drives his own car.	Er fährt sein eigenes Auto.	वह अपनी गाड़ी चलाता है।
+He drove the dog away.	Er hat den Hund weggefahren.	उसने कुत्ते को भगाया।
+He explained it to me.	Er hat es mir erklärt.	उसने मुझे इसे समझाया।
+He fell from the tree.	Er fiel vom Baum.	उसने पेड़ से गिर गया।
+He fell off the horse.	Er fiel vom Pferd.	उसने घोड़े से गिर गया।
