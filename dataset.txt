@@ -1,14 +1,4 @@
 
-Tom can't answer now.	Tom kann jetzt nicht antworten.	टॉम अब जवाब नहीं दे सकता।
-Tom can't explain it.	Tom kann es nicht erklären.	टॉम इसे समझा नहीं सकता।
-Tom can't find a job.	Tom kann keine Arbeit finden.	टॉम को कोई काम नहीं मिल रहा है।
-Tom can't play chess.	Tom kann nicht Schach spielen.	टॉम शतरंज नहीं खेल सकता।
-Tom can't play chess.	Tom kann kein Schach spielen.	टॉम शतरंज नहीं खेल सकता।
-Tom can't read music.	Tom kann keine Noten lesen.	टॉम ग्रेड नहीं पढ़ सकते।
-Tom can't stand Mary.	Tom kann Maria nicht leiden.	टॉम को मारिया पसंद नहीं है।
-Tom can't stand Mary.	Tom kann Maria nicht ausstehen.	टॉम मारिया खड़े नहीं हो सकता।
-Tom can't tell jokes.	Tom kann keine Witze erzählen.	टॉम चुटकुले नहीं बता सकता।
-Tom caught a big one.	Tom hat einen Großen gefangen.	टॉम ने एक बड़ा पकड़ा है।
 Tom caught many fish.	Tom hat viele Fische gefangen.	टॉम ने कई मछलियों को पकड़ा है।
 Tom caused this mess.	Tom ist für dieses Durcheinander verantwortlich.	टॉम इस गंदगी के लिए जिम्मेदार है।
 Tom changed his mind.	Tom hat seine Meinung geändert.	टॉम ने अपनी राय बदल दी है।

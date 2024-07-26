@@ -34076,3 +34076,11 @@ Tom can fix anything.	Tom kann alles reparieren.	टॉम कुछ भी ठ�
 Tom can play a flute.	Tom kann eine Flöte spielen.	टॉम बासरी बजा सकता है।
 Tom can ride a horse.	Tom kann ein Pferd reiten.	टॉम घोड़े पर सवारी कर सकता है।
 Tom can speak French.	Tom kann Französisch sprechen.	टॉम फ्रेंच बोल सकता है।
+Tom can't answer now.	Tom kann jetzt nicht antworten.	टॉम अभी जवाब नहीं दे सकता।
+Tom can't explain it.	Tom kann es nicht erklären.	टॉम इसे समझाने में सक्षम नहीं है।
+Tom can't find a job.	Tom kann keine Arbeit finden.	टॉम को कोई नौकरी नहीं मिल रही है।
+Tom can't play chess.	Tom kann kein Schach spielen.	टॉम शतरंज नहीं खेल सकता।
+Tom can't read music.	Tom kann keine Musik lesen.	टॉम संगीत नहीं पढ़ सकता।
+Tom can't stand Mary.	Tom kann Mary nicht ausstehen.	टॉम मेरी से सहन नहीं कर सकता।
+Tom can't tell jokes.	Tom kann keine Witze erzählen.	टॉम मजाक नहीं बता सकता।
+Tom caught a big one.	Tom hat einen großen gefangen.	टॉमने एक बड़ा पकड़ लिया।
