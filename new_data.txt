@@ -34193,3 +34193,13 @@ Tom fired his pistol.	Tom feuerte seine Pistole ab.	टॉम ने अपन�
 Tom fired his weapon.	Tom feuerte seine Waffe ab.	टॉम ने अपने हथियार का उपयोग किया।
 Tom fixed Mary's car.	Tom reparierte Marys Auto.	टॉम ने मेरी की कार ठीक की।
 Tom fixed us a snack.	Tom bereitete uns einen Snack zu.	टॉम ने हमें एक टिडबिट बनाया।
+Tom fooled all of us.	Tom hat uns alle hereingelegt.	टॉम ने हम सभी को धोखा दिया।
+Tom found my bicycle.	Tom hat mein Fahrrad gefunden.	टॉम ने मेरी साइकिल ढूंढी।
+Tom gave Mary a book.	Tom gab Mary ein Buch.	टॉम ने मेरी को एक पुस्तक दी।
+Tom gave Mary a call.	Tom rief Mary an.	टॉम ने मेरी को कॉल किया।
+Tom gave Mary a kiss.	Tom gab Mary einen Kuss.	टॉम ने मेरी को एक चुंबन दिया।
+Tom gave Mary a rose.	Tom gab Mary eine Rose.	टॉम ने मेरी को एक गुलाब दिया।
+Tom gave Mary a wave.	Tom winkte Mary zu.	टॉम ने मेरी को एक इशारा किया।
+Tom gave me his word.	Tom gab mir sein Wort.	टॉम ने मुझे अपना वादा दिया।
+Tom gave up all hope.	Tom gab alle Hoffnung auf.	टॉम ने सभी आशा छोड़ दी।
+Tom gave up too soon.	Tom gab zu früh auf.	टॉम ने बहुत जल्दी हार मान ली।
