@@ -23907,3 +23907,11 @@ Tom needs a ladder.	Tom braucht eine Leiter.	टॉम को सीढ़ी �
 Tom needs a lawyer.	Tom braucht einen Anwalt.	टॉम को वकील की आवश्यकता है।
 Tom needs help now.	Tom braucht jetzt Hilfe.	टॉम को अब मदद की आवश्यकता है।
 Tom needs our help.	Tom braucht unsere Hilfe.	टॉम को हमारी मदद की आवश्यकता है।
+Tom needs you here.	Tom braucht dich hier.	टॉम को यहाँ तुम्हें चाहिए।
+Tom never asked me.	Tom hat mich nie gefragt.	टॉमने मुझसे कभी नहीं पूछा।
+Tom never did that.	Tom hat das nie gemacht.	टॉमने कभी ऐसा नहीं किया।
+Tom never helps me.	Tom hilft mir nie.	टॉम मुझे कभी मदद नहीं करता।
+Tom never met Mary.	Tom hat Mary nie getroffen.	टॉमने मेरी से कभी मुलाकात नहीं की।
+Tom never said yes.	Tom hat nie Ja gesagt.	टॉमने कभी हाँ नहीं कहा।
+Tom never saw Mary.	Tom hat Mary nie gesehen.	टॉमने मेरी को कभी नहीं देखा।
+Tom never was lazy.	Tom war nie faul.	टॉम कभी आलसी नहीं था।

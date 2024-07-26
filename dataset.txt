@@ -1,14 +1,4 @@
 
-Tom needs you here.	Tom braucht dich hier.	टॉम को आपको यहाँ चाहिए।
-Tom needs you here.	Tom braucht Sie hier.	टॉम को यहां उनकी जरूरत है।
-Tom needs you here.	Tom braucht euch hier.	टॉम को आपको यहाँ चाहिए।
-Tom never asked me.	Tom hat mich nie gefragt.	टॉम ने मुझसे कभी नहीं पूछा।
-Tom never did that.	Tom hat das nie getan.	टॉम ने ऐसा कभी नहीं किया।
-Tom never helps me.	Nie hilft mir Tom.	टॉम कभी मेरी मदद नहीं करता है।
-Tom never met Mary.	Tom begegnete Maria nie.	टॉम कभी भी मारिया से नहीं मिला।
-Tom never said yes.	Tom sagte nie ja.	टॉम ने कभी हाँ नहीं कहा।
-Tom never saw Mary.	Tom sah Maria nie.	टॉम ने कभी मारिया को नहीं देखा।
-Tom never was lazy.	Tom war noch nie faul.	टॉम कभी आलसी नहीं रहा।
 Tom never was mean.	Tom war nie gemein.	टॉम कभी मतलब नहीं था।
 Tom never was poor.	Tom war nie arm.	टॉम कभी गरीब नहीं था।
 Tom never was rich.	Tom war nie reich.	टॉम कभी अमीर नहीं थे।
