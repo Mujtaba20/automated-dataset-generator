@@ -35381,3 +35381,12 @@ What did you guys do?	Was habt ihr gemacht?	तुम लोगों ने क
 What do I have to do?	Was muss ich tun?	मुझे क्या करना है?
 What do I need to do?	Was muss ich machen?	मुझे क्या करना चाहिए?
 What do pelicans eat?	Was fressen Pelikane?	पेलीकेन क्या खाते हैं?
+What do seagulls eat?	Was fressen Möwen?	गायबान क्या खाते हैं?
+What do they do here?	Was machen sie hier?	वे यहाँ क्या करते हैं?
+What do we have here?	Was haben wir hier?	हमारे पास यहाँ क्या है?
+What do we want here?	Was wollen wir hier?	हम यहाँ क्या चाहते हैं?
+What do you men want?	Was wollen Sie Männer?	तुम्हें क्या चाहिए?
+What do you remember?	Was erinnerst du dich?	तुम्हें क्या याद है?
+What do you see here?	Was siehst du hier?	तुम यहाँ क्या देख रहे हो?
+What do you want now?	Was möchtest du jetzt?	तुम अब क्या चाहते हो?
+What does Tom do now?	Was macht Tom jetzt?	टॉम अब क्या करता है?
