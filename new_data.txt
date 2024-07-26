@@ -27618,3 +27618,13 @@ My computer crashed.	Mein Computer ist abgestürzt.	मेरा कंप्य
 My country needs me.	Mein Land braucht mich.	मेरे देश को मुझे चाहिए।
 My dad will kill me.	Mein Vater wird mich umbringen.	मेरे पिताजी मुझे मार दालेंगे।
 My dog needs a walk.	Mein Hund braucht einen Spaziergang.	मेरे कुत्ते को सैर की आवश्यकता है।
+My family loved Tom.	Meine Familie liebte Tom.	मेरा परिवार ने टॉम को पसंद किया।
+My feet are swollen.	Meine Füße sind geschwollen.	मेरे पैर सूज गए हैं।
+My film has run out.	Mein Film ist zu Ende.	मेरी फिल्म खत्म हो गई है।
+My foot fell asleep.	Mein Fuß ist eingeschlafen.	मेरे पैर सो गए।
+My friend helped me.	Mein Freund hat mir geholfen.	मेरे दोस्त ने मेरी मदद की।
+My friend helped me. (different meaning)	Mein Bekannter hat mir geholfen.	मेरे मित्र ने मेरी सहायता की।
+My goals are modest.	Meine Ziele sind bescheiden.	मेरे लक्ष्य संकीर्ण हैं।
+My hair is so dirty!	Meine Haare sind so schmutzig!	मेरे बाल इतने गंदे हैं!
+My hair is so messy!	Meine Haare sind so durcheinander!	मेरे बाल इतने अशुद्ध हैं!
+My hair is too long.	Meine Haare sind zu lang.	मेरे बाल बहुत लंबे हैं।
