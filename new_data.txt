@@ -39623,3 +39623,11 @@ They can't believe it.	Sie können es nicht glauben.	उन्हें यह �
 They can't make us go.	Sie können uns nicht gehen lassen.	वे हमें जाने नहीं दे सकते।
 They closed the doors.	Sie schlossen die Türen.	उन्होंने दरवाजे बंद कर दिए।
 They come from Sweden.	Sie kommen aus Schweden.	वे स्वीडन से आते हैं।
+They could hardly see.	Sie konnten kaum sehen.	उन्हें मुश्किल से देख पा रहे थे।
+They didn't choose me.	Sie haben mich nicht ausgewählt.	उन्होंने मुझे चुना नहीं।
+They don't have a car.	Sie haben kein Auto.	उनके पास कार नहीं है।
+They don't understand.	Sie verstehen nicht.	उन्हें समझना नहीं आता।
+They exchanged hellos.	Sie haben sich Hallo gesagt.	उन्होंने हैलो बोला।
+They found each other.	Sie fanden sich.	उन्होंने एक-दूसरे को पाया।
+They hated each other.	Sie hassten sich.	वो एक-दूसरे से नफ़रत करते थे।
+They have gotten lazy.	Sie sind faul geworden.	उन्होंने सुस्ती दिखाना शुरू कर दिया है।
