@@ -21794,3 +21794,9 @@ I worked all night.	Ich habe die ganze Nacht gearbeitet.	मैंने पू�
 I worked in Boston.	Ich habe in Boston gearbeitet.	मैंने बोस्टन में काम किया।
 I worked on a farm.	Ich arbeitete auf einem Bauernhof.	मैंने एक खेत पर काम किया।
 I would enjoy that.	Ich würde das genießen.	मैं उसका आनंद लेंगा।
+I would love to go.	Ich würde gerne gehen.	मैं जाना पसंद करूंगा।
+I would've said no.	Ich hätte nein gesagt.	मैंने कहा होता।
+I wouldn't do that.	Das würde ich nicht tun.	मैं वैसा नहीं करूंगा।
+I wrote Tom a card.	Ich habe Tom eine Karte geschrieben.	मैंने टॉम को एक कार्ड लिखा।
+I wrote a cookbook.	Ich habe ein Kochbuch geschrieben.	मैंने एक कुकबुक लिखी।
+I wrote it for Tom.	Ich habe es für Tom geschrieben.	मैं इसे टॉम के लिए लिखा।
