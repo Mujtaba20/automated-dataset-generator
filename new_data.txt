@@ -36506,3 +36506,9 @@ Don't copy my answers.	Kopiere nicht meine Antworten.	मेरे जवाब 
 Don't delude yourself.	Täusche dich nicht.	खुद को भ्रमित मत करो।
 Don't do anything yet.	Mach noch nichts.	अभी कुछ ना करें।
 Don't do that anymore.	Tu das nicht weiterhin.	इसे और नहीं करो।
+Don't drink and drive.	Trinken Sie nicht und fahren.	न पिएं और गाड़ी न चलाएं।
+Don't drink the water.	Trinken Sie nicht das Wasser.	पानी पीने की इजाजत नहीं है।
+Don't drop that glass.	Lassen Sie das Glas nicht fallen.	उस गिलास को न गिराएं।
+Don't end up like Tom.	Enden Sie nicht wie Tom.	टॉम जैसा न बनें।
+Don't ever think that.	Denke niemals daran.	ऐसा कभी न सोचें।
+Don't expect miracles.	Erwarte keine Wunder.	चमत्कार की उम्मीद न करें।
