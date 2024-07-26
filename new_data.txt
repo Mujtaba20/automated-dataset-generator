@@ -38329,3 +38329,13 @@ I'm very good at math.	Ich bin sehr gut in Mathe.	मैं गणित मे�
 I'm very hungry today.	Ich bin heute sehr hungrig.	आज मुझे बहुत भूख लगी है।
 I'm very proud of Tom.	Ich bin sehr stolz auf Tom.	मैं टॉम पर बहुत गर्वित हूं।
 I'm very proud of you.	Ich bin sehr stolz auf dich.	मैं तुम पर बहुत गर्वित हूं।
+I'm waiting out front.	Ich warte draußen.	मैं सामने इंतजार कर रहा हूँ।
+I'm watching the news.	Ich schaue die Nachrichten.	मैं समाचार देख रहा हूँ।
+I'm working in Boston.	Ich arbeite in Boston.	मैं बोस्टन में काम कर रहा हूँ।
+I'm working on it now.	Ich arbeite jetzt daran.	मैं अब इस पर काम कर रहा हूँ।
+I'm worried about Tom.	Ich mache mir Sorgen um Tom.	मैं टॉम के बारे में चिंतित हूँ।
+I'm worried about you.	Ich mache mir Sorgen um dich.	मैं तुम्हारे बारे में चिंतित हूँ।
+I'm writing about you.	Ich schreibe über dich.	मैं तुम्हारे बारे में लिख रहा हूँ।
+I've already said yes.	Ich habe bereits ja gesagt.	मैंने पहले ही हाँ कह दी है।
+I've already told Tom.	Ich habe Tom bereits gesagt.	मैंने पहले ही टॉम को बता दिया है।
+I've always been here.	Ich war schon immer hier.	मैं हमेशा से यहाँ था।

@@ -1,14 +1,4 @@
 
-I'm waiting out front.	Ich warte vorne.	मैं सामने इंतजार कर रहा हूं।
-I'm watching the news.	Ich sehe gerade die Nachrichten.	मैं वर्तमान में समाचार देख रहा हूं।
-I'm working in Boston.	Ich arbeite in Boston.	मैं बोस्टन में काम करता हूं।
-I'm working on it now.	Ich arbeite jetzt daran.	मैं अब इस पर काम कर रहा हूं।
-I'm worried about Tom.	Ich mache mir Sorgen um Tom.	मैं टॉम को लेकर चिंतित हूं।
-I'm worried about you.	Ich mache mir Sorgen um dich.	मैं तुम्हारे बारे में चिंतित हूँ।
-I'm writing about you.	Ich schreibe über dich.	मैं आपके बारे में लिखता हूं।
-I've already said yes.	Ich habe schon Ja gesagt.	मैंने पहले ही हां कहा है।
-I've already told Tom.	Ich habe das Tom schon mitgeteilt.	मैंने पहले ही टॉम का संचार कर लिया है।
-I've always been here.	Ich bin schon immer hier gewesen.	मैं हमेशा यहाँ रहा हूँ।
 I've always been poor.	Ich bin immer arm gewesen.	मैं हमेशा गरीब रहा हूं।
 I've always hated Tom.	Ich habe Tom immer gehasst.	मुझे हमेशा टॉम से नफरत थी।
 I've always hated you.	Ich habe dich schon immer gehasst.	मैं हमेशा आपसे नफरत करता हूं।
