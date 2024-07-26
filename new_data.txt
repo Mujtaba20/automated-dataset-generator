@@ -28271,3 +28271,12 @@ The wind has abated.	Der Wind hat nachgelassen.	हवा उठ गई है�
 The wind is blowing.	Der Wind bläst.	हवा बह रही है।
 The zipper is stuck.	Der Reißverschluss klemmt.	ज़िपर अटक गया है।
 Therapy didn't work.	Die Therapie hat nicht geholfen.	थेरेपी कारगर नहीं थी।
+There are no limits.	Es gibt keine Grenzen.	कोई सीमाएं नहीं हैं।
+There are no spoons.	Es gibt keine Löffel.	कोई कांटे नहीं हैं।
+There may be others.	Es könnten auch andere da sein.	और भी हो सकते हैं।
+There was a silence.	Es herrschte Stille.	वहाँ चुप्प थी।
+There was a witness.	Es gab einen Zeugen.	एक गवाह था।
+There were two left.	Es waren noch zwei übrig.	दो बचे थे।
+There's a condition.	Es gibt eine Bedingung.	एक शर्त है।
+There's a lot to do.	Es gibt viel zu tun.	करने के लिए बहुत काम है।
+There's no elevator.	Es gibt keinen Fahrstuhl.	कोई लिफ्ट नहीं है।

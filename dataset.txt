@@ -1,15 +1,4 @@
 
-There are no limits.	Es gibt keine Grenzen.	कोई सीमाएं नहीं हैं।
-There are no spoons.	Es gibt keine Löffel.	कोई चम्मच नहीं हैं।
-There may be others.	Es gibt vielleicht noch weitere.	और भी हो सकता है।
-There was a silence.	Es herrschte Schweigen.	सन्नाटा छा गया।
-There was a witness.	Es gab einen Zeugen.	एक गवाह था।
-There were two left.	Zweie waren übrig.	दो बचे थे।
-There were two left.	Zwei waren übrig.	दो बचे थे।
-There's a condition.	Es gibt eine Bedingung.	एक शर्त है।
-There's a lot to do.	Es gibt viel zu tun.	बहुत कुछ करना है।
-There's no elevator.	Es gibt keinen Aufzug.	कोई लिफ्ट नहीं है।
-There's no elevator.	Es gibt keinen Fahrstuhl.	कोई लिफ्ट नहीं है।
 There's no evidence.	Es gibt keinen Beweis.	कोई साक्ष्य नहीं है।
 There's no evidence.	Es gibt keine Beweise.	कोई साक्ष्य नहीं है।
 There's no one here.	Es ist niemand hier.	यह यहां कोई नहीं है।
