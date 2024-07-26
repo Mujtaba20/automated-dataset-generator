@@ -29125,3 +29125,12 @@ Tom loves going out.	Tom geht gerne aus.	टॉम बाहर जाने क
 Tom loves squirrels.	Tom liebt Eichhörnchen.	टॉम को गिलहरियों से प्यार है।
 Tom loves to gamble.	Tom liebt es zu zocken.	टॉम जुआ खेलने को पसंद करता है।
 Tom loves to gossip.	Tom liebt es zu tratschen.	टॉम गपशप करने को पसंद करता है।
+Tom made Mary do it.	Tom ließ Mary es tun.	टॉम ने मेरी से यह करने को कहा।
+Tom made Mary happy.	Tom machte Mary glücklich.	टॉम ने मेरी को खुश किया।
+Tom made Mary laugh.	Tom brachte Mary zum Lachen.	टॉम ने मेरी को हंसाया।
+Tom made a decision.	Tom traf eine Entscheidung.	टॉम ने एक फैसला किया।
+Tom made a sandwich.	Tom machte ein Sandwich.	टॉम ने एक सैंडविच बनाया।
+Tom made an apology.	Tom entschuldigte sich.	टॉम ने माफी मांगी।
+Tom made it home OK.	Tom brachte es in Ordnung nach Hause.	टॉम ने ठीक ठाक घर पहुँचाया।
+Tom made it on time.	Tom schaffte es rechtzeitig.	टॉम ने समय पर पहुँच लिया।
+Tom made me cookies.	Tom machte mir Kekse.	टॉम ने मुझे कुकीज़ बनाई।

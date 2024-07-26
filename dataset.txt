@@ -1,14 +1,4 @@
 
-Tom made Mary do it.	Tom hat Maria dazu gebracht, es zu tun.	टॉम ने मारिया को यह करने के लिए बनाया।
-Tom made Mary happy.	Tom hat Maria glücklich gemacht.	टॉम ने मारिया को खुश किया।
-Tom made Mary laugh.	Tom brachte Maria zum Lachen.	टॉम ने मारिया को हँसाया।
-Tom made a decision.	Tom traf eine Entscheidung.	टॉम ने एक निर्णय लिया।
-Tom made a decision.	Tom hat eine Entscheidung getroffen.	टॉम ने एक निर्णय लिया है।
-Tom made a sandwich.	Tom machte ein Sandwich.	टॉम ने एक सैंडविच बनाया।
-Tom made an apology.	Tom bat um Entschuldigung.	टॉम ने माफी मांगी।
-Tom made it home OK.	Tom hat es gut nach Hause geschafft.	टॉम ने इसे अच्छी तरह से घर बनाया।
-Tom made it on time.	Tom hat es rechtzeitig geschafft.	टॉम ने इसे समय में किया।
-Tom made me cookies.	Tom hat mir Kekse gebacken.	टॉम ने मुझे कुकीज़ बेक किया।
 Tom made no comment.	Tom gab keinen Kommentar ab.	टॉम ने कोई टिप्पणी नहीं दी।
 Tom made tea for me.	Tom hat Tee für mich gemacht.	टॉम ने मेरे लिए चाय की।
 Tom made us do that.	Tom hat uns dazu gebracht, das zu tun.	टॉम ने हमें ऐसा किया है।
