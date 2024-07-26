@@ -1,15 +1,4 @@
 
-That's a great picture.	Das ist ein großartiges Bild.	यह बहुत ही बढ़िया तस्वीर है।
-That's a happy thought.	Das ist ein glücklicher Gedanke.	यह एक खुश विचार है।
-That's a hard question.	Das ist eine schwierige Frage.	यह एक मुश्किल सवाल है।
-That's a major problem.	Das ist ein großes Problem.	यह एक बड़ी समस्या है।
-That's a splendid idea.	Das ist eine ausgezeichnete Idee.	यह एक उत्कृष्ट विचार है।
-That's a splendid idea.	Das ist ein großartiger Einfall.	यह एक महान विचार है।
-That's a trivial error.	Das ist ein banaler Fehler.	यह एक भोज की गलती है।
-That's a very good car.	Das ist ein sehr guter Wagen.	यह एक बहुत अच्छी कार है।
-That's a wise decision.	Das ist ein weiser Entschluss.	यह एक बुद्धिमान निर्णय है।
-That's against the law.	Das ist illegal.	यह अवैध है।
-That's against the law.	Das ist gegen das Gesetz.	यह कानून के खिलाफ है।
 That's asking too much.	Das ist zu viel verlangt.	यह बहुत अधिक आवश्यक है।
 That's going to happen.	Das wird passieren.	ऐसा होगा।
 That's good news to me.	Das ist eine gute Nachricht für mich.	यह मेरे लिए अच्छी खबर है।
