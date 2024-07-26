@@ -36334,3 +36334,11 @@ Didn't I mention that?	Habe ich das nicht erwähnt?	क्या मैंने
 Dinner's almost ready.	Das Abendessen ist fast bereit.	रात का खाना लगभग तैयार है।
 Dinner's getting cold.	Das Abendessen wird kalt.	रात का खाना ठंडा हो रहा है।
 Do I have to register?	Muss ich mich anmelden?	क्या मुझे रजिस्टर करना है?
+Do I look presentable?	Sehe ich präsentabel aus?	क्या मैं प्रस्तुत दिखता हूँ?
+Do I need to add salt?	Muss ich Salz hinzufügen?	क्या मुझे नमक डालना चाहिए?
+Do I need to go there?	Muss ich dorthin gehen?	क्या मुझे वहाँ जाने की आवश्यकता है?
+Do I need to transfer?	Muss ich mich versetzen?	क्या मुझे स्थानांतरित करने की आवश्यकता है?
+Do I really need this?	Brauche ich das wirklich?	क्या मुझे यह वास्तव में चाहिए?
+Do it as you are told.	Mach es, wie du gesagt wurdest.	जैसे तुम्हें कहा गया है, वैसे करो।
+Do not be so critical.	Sei nicht so kritisch.	इतने कठोर ना बनो।
+Do they do that often?	Machen sie das oft?	क्या वे यह अक्सर करते हैं?
