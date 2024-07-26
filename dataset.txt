@@ -1,14 +1,4 @@
 
-I don't like my school.	Ich mag meine Schule nicht.	मुझे अपना स्कूल पसंद नहीं है।
-I don't like surprises.	Ich liebe keine Überraschungen.	मुझे कोई आश्चर्य नहीं है।
-I don't like that name.	Ich mag diesen Namen nicht.	मुझे यह नाम पसंद नहीं है।
-I don't like that word.	Ich mag dieses Wort nicht.	मुझे यह शब्द पसंद नहीं है।
-I don't like the ocean.	Ich mag das Meer nicht.	मुझे समुद्र पसंद नहीं है।
-I don't like the taste.	Den Geschmack mag ich nicht.	मुझे स्वाद पसंद नहीं है।
-I don't like this book.	Ich mag dieses Buch hier nicht.	मुझे यह पुस्तक यहाँ पसंद नहीं है।
-I don't like this game.	Mir gefällt dieses Spiel nicht.	मुझे यह खेल पसंद नहीं है।
-I don't like this joke.	Dieser Witz gefällt mir nicht.	मुझे यह मजाक पसंद नहीं है।
-I don't like this song.	Mir gefällt dieses Lied nicht.	मुझे यह गाना पसंद नहीं है।
 I don't like your boss.	Ich mag deinen Chef nicht.	मुझे आपका बॉस पसंद नहीं है।
 I don't like your boss.	Ich mag deine Chefin nicht.	मुझे आपका बॉस पसंद नहीं है।
 I don't like your boss.	Ich mag Ihren Chef nicht.	मुझे आपका बॉस पसंद नहीं है।
