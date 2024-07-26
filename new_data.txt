@@ -36723,3 +36723,13 @@ He explained it to me.	Er hat es mir erklärt.	उसने मुझे इस�
 He fell from the tree.	Er fiel vom Baum.	उसने पेड़ से गिर गया।
 He fell off the horse.	Er fiel vom Pferd.	उसने घोड़े से गिर गया।
 engSentence	{'He finished breakfast.': 'Er hat gefrühstückt.', 'He followed my advice.': 'Er folgte meinem Rat.', 'He forgot my birthday.': 'Er hat meinen Geburtstag vergessen.', 'He gave it a new name.': 'Er gab ihm einen neuen Namen.', 'He gave me 10,000 yen.': 'Er gab mir 10.000 Yen.', 'He gave me a bad cold.': 'Er hat mir eine starke Erkältung gegeben.', 'He gave me an example.': 'Er gab mir ein Beispiel.', 'He gave up cigarettes.': 'Er hat Zigaretten aufgegeben.'}	{'He finished breakfast.': 'उसने नाश्ता खत्म किया।', 'He followed my advice.': 'उसने मेरी सलाह का पालन किया।', 'He forgot my birthday.': 'उसने मेरा जन्मदिन भूल गया।', 'He gave it a new name.': 'उसने उसे एक नया नाम दिया।', 'He gave me 10,000 yen.': 'उसने मुझे 10,000 येन दिए।', 'He gave me a bad cold.': 'उसने मुझे एक खराब जुकाम दिया।', 'He gave me an example.': 'उसने मुझे एक उदाहरण दिया।', 'He gave up cigarettes.': 'उसने सिगरेट छोड़ दी।'}
+He gets a high salary.	Er bekommt ein hohes Gehalt.	उसे उच्च वेतन मिलता है।
+He got what he wanted.	Er bekam, was er wollte.	उसको मिला वह जो उसने चाहा था।
+He grew up in Germany.	Er ist in Deutschland aufgewachsen.	उसने जर्मनी में बढ़ाई की।
+He had a strong alibi.	Er hatte ein starkes Alibi.	उसके पास एक मजबूत अलीबी था।
+He had the last laugh.	Er hatte das letzte Lachen.	उसने अंतिम हंसी की।
+He had the right idea.	Er hatte die richtige Idee.	उसके पास सही विचार थे।
+He had to stay in bed.	Er musste im Bett bleiben.	उसे बिस्तर पर रहना पड़ा।
+He has a Japanese car.	Er hat ein japanisches Auto.	उसके पास एक जापानी कार है।
+He has a drug allergy.	Er hat eine Medikamentenallergie.	उसको दवा की एलर्जी है।
+He has a large family.	Er hat eine große Familie.	उसका परिवार बड़ा है।

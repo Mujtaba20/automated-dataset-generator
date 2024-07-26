@@ -1,14 +1,4 @@
 
-He gets a high salary.	Er bekommt ein hohes Gehalt.	उसे उच्च वेतन मिलता है।
-He got what he wanted.	Er bekam, was er wollte.	उसे वही मिला जो वह चाहता था।
-He grew up in Germany.	Er ist in Deutschland aufgewachsen.	वह जर्मनी में बड़ा हुआ।
-He had a strong alibi.	Er hatte ein starkes Alibi.	उनके पास एक मजबूत एलबी थी।
-He had the last laugh.	Er lachte zuletzt.	वह आखिरी हंसी।
-He had the right idea.	Er hatte die richtige Idee.	उसके पास सही विचार था।
-He had to stay in bed.	Er musste im Bett bleiben.	उसे बिस्तर पर रहना था।
-He has a Japanese car.	Er hat ein japanisches Auto.	उसके पास एक जापानी कार है।
-He has a drug allergy.	Er hat eine Medikamentenallergie.	उसे दवा एलर्जी है।
-He has a large family.	Er hat eine große Familie.	उसका एक बड़ा परिवार है।
 He has a little money.	Er hat ein bisschen Geld.	उसके पास थोड़ा पैसा है।
 He has a little money.	Er hat ein wenig Geld.	उसके पास थोड़ा पैसा है।
 He has a lot of books.	Er hat eine Menge Bücher.	उसके पास बहुत सारी किताबें हैं।
