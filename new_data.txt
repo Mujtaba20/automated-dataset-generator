@@ -36512,3 +36512,11 @@ Don't drop that glass.	Lassen Sie das Glas nicht fallen.	उस गिलास 
 Don't end up like Tom.	Enden Sie nicht wie Tom.	टॉम जैसा न बनें।
 Don't ever think that.	Denke niemals daran.	ऐसा कभी न सोचें।
 Don't expect miracles.	Erwarte keine Wunder.	चमत्कार की उम्मीद न करें।
+Don't expect too much.	Erwarte nicht zu viel.	बहुत ज्यादा उम्मीद न करें।
+Don't forget about me.	Vergiss mich nicht.	मुझे भूलना मत।
+Don't forget about us!	Vergiss uns nicht!	हमें भूलना मत!
+Don't forget anything.	Vergiss nichts.	कुछ भी मत भूलो।
+Don't forget your bag.	Vergiss nicht deine Tasche.	अपना बैग मत भूलें।
+Don't get sentimental.	Werde nicht sentimental.	भावुक न हो।
+Don't give me a thing.	Gib mir nichts.	मुझे कुछ न दो।
+Don't give up halfway.	Gib nicht halb auf.	आधे में हार मत मानो।
