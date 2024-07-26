@@ -28188,3 +28188,11 @@ The cat is adorable.	Die Katze ist bezaubernd.	बिल्ली प्या�
 The cat is not dead.	Die Katze ist nicht tot.	बिल्ली मरी नहीं है।
 The chair is broken.	Der Stuhl ist kaputt.	कुर्सी टूटी हुई है।
 The choice is yours.	Die Wahl liegt bei dir.	विकल्प आपका है।
+The class went wild.	Die Klasse ist wild geworden.	कक्षा पागल हो गई।
+The cold is intense.	Die Kälte ist intensiv.	सर्दी तीव्र है।
+The computer is new.	Der Computer ist neu.	कंप्यूटर नया है।
+The concert is over.	Das Konzert ist vorbei.	कॉन्सर्ट समाप्त हो गया है।
+The crops need rain.	Die Ernten brauchen Regen.	फसलों को बारिश की आवश्यकता है।
+The crowd went wild.	Die Menge wurde wild.	भीड़ उत्तेजित हो गई।
+The cup has a crack.	Die Tasse hat einen Riss.	कप में एक दरार है।
+The damage was done.	Der Schaden war angerichtet.	नुकसान हो गया था।

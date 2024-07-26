@@ -1,14 +1,4 @@
 
-The class went wild.	Die Klasse ging über Tische und Bänke.	कक्षा टेबल और बेंच पर चली गई।
-The class went wild.	Die Klasse wurde verrückt.	कक्षा पागल हो गई।
-The cold is intense.	Die Kälte ist drastisch.	ठंड कठोर है।
-The computer is new.	Der Computer ist neu.	कंप्यूटर नया है।
-The computer is new.	Der Rechner ist neu.	कंप्यूटर नया है।
-The concert is over.	Das Konzert ist aus.	कॉन्सर्ट खत्म हो गया है।
-The crops need rain.	Das Getreide braucht Regen.	अनाज को बारिश की जरूरत है।
-The crowd went wild.	Die Menge drehte durch.	भीड़ के माध्यम से बदल गया।
-The cup has a crack.	Die Tasse hat einen Sprung.	कप में एक छलांग है।
-The damage was done.	Der Schaden war angerichtet.	नुकसान हो गया था।
 The dog ate my shoe.	Der Hund hat meinen Schuh gefressen.	कुत्ते ने मेरा जूता खा लिया।
 The dog bit my hand.	Der Hund biss mir in die Hand.	कुत्ते ने मुझे बिट किया।
 The dog bit the man.	Der Hund biss den Mann.	कुत्ते ने आदमी को थोड़ा सा।
