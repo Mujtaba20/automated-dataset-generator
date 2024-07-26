@@ -34348,3 +34348,12 @@ Tom is a good singer.	Tom ist ein guter Sänger.	टॉम एक अच्छ�
 Tom is a good singer. (2nd)	Tom singt gut.	टॉम अच्छा गाता है।
 Tom is a good worker.	Tom ist ein guter Arbeiter.	टॉम एक अच्छे कर्मचारी हैं।
 Tom is a good writer.	Tom ist ein guter Schriftsteller.	टॉम एक अच्छा लेखक है।
+Tom is a hard worker.	Tom ist ein fleißiger Arbeiter.	टॉम मेहनती कर्मचारी है।
+Tom is a jealous man.	Tom ist ein eifersüchtiger Mann.	टॉम एक जालिम आदमी है।
+Tom is a ladies' man.	Tom ist ein Frauenheld.	टॉम महिलाओं का आदमी है।
+Tom is a law student.	Tom ist ein Jurastudent.	टॉम कानून छात्र है।
+Tom is a lazy fellow.	Tom ist ein fauler Kerl.	टॉम एक सुस्त आदमी है।
+Tom is a learned man.	Tom ist ein gebildeter Mann.	टॉम पढ़ा लिखा आदमी है।
+Tom is a little high.	Tom ist ein bisschen eingebildet.	टॉम थोड़ा उच्च है।
+Tom is a little nuts.	Tom ist ein bisschen verrückt.	टॉम थोड़ा पागल है।
+Tom is a married man.	Tom ist ein verheirateter Mann.	टॉम एक शादीशुदा आदमी है।

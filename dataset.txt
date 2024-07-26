@@ -1,14 +1,4 @@
 
-Tom is a hard worker.	Tom ist sehr fleißig.	टॉम बहुत मेहनती है।
-Tom is a hard worker.	Tom arbeitet hart.	टॉम कड़ी मेहनत करता है।
-Tom is a jealous man.	Tom ist ein Eifersüchtiger.	टॉम एक ईर्ष्यालु है।
-Tom is a ladies' man.	Tom ist ein Frauentyp.	टॉम एक प्रकार की महिला है।
-Tom is a law student.	Tom ist Jurastudent.	टॉम एक कानून छात्र है।
-Tom is a lazy fellow.	Tom ist ein Faulpelz.	टॉम एक आलसीबोन है।
-Tom is a learned man.	Tom ist ein gelehrter Mann.	टॉम एक सीखा हुआ आदमी है।
-Tom is a little high.	Tom ist leicht berauscht.	टॉम थोड़ा नशे में है।
-Tom is a little nuts.	Tom ist ein wenig verrückt.	टॉम थोड़ा पागल है।
-Tom is a married man.	Tom ist ein verheirateter Mann.	टॉम एक विवाहित आदमी है।
 Tom is a millionaire.	Tom ist Millionär.	टॉम एक करोड़पति है।
 Tom is a naughty boy.	Tom ist ein ungezogener Junge.	टॉम एक शरारती लड़का है।
 Tom is a neurologist.	Tom ist Neurologe.	टॉम एक न्यूरोलॉजिस्ट है।
