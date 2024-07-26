@@ -36818,3 +36818,10 @@ He knows how to fight.	Er weiß, wie man kämpft.	उसे लड़ाई क�
 He knows us very well.	Er kennt uns sehr gut.	वह हमें बहुत अच्छे से जानता है।
 He knows who they are.	Er weiß, wer sie sind.	उसे पता है कि वे कौन हैं।
 He lacks common sense.	Ihm fehlt gesunder Menschenverstand.	उसको सामान्य बुद्धि की कमी है।
+He landed a big trout.	Er landete eine große Forelle.	उसने एक बड़ी ट्राउट पकड़ी।
+He laughed at my joke.	Er hat über meinen Witz gelacht.	उसने मेरे जोक पर हंसी।
+He left the door open.	Er ließ die Tür offen.	उसने दरवाजा खोला रखा।
+He let go of the rope.	Er ließ das Seil los.	उसने रस्सी को छोड़ा।
+He lied about his age.	Er hat über sein Alter gelogen.	उसने अपनी उम्र के बारे में झूठ बोला।
+He likes Italian food.	Er mag italienisches Essen.	उसे इटैलियन भोजन पसंद है।
+He likes ham and eggs.	Er mag Schinken und Eier.	उसे हैम और अंडे पसंद हैं।
