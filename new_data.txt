@@ -31847,3 +31847,13 @@ I know it for a fact.	Ich weiß es tatsächlich.	मुझे यह तथ्�
 I know it's not easy.	Ich weiß, dass es nicht einfach ist.	मुझे पता है कि यह आसान नहीं है।
 I know life is short.	Ich weiß, dass das Leben kurz ist.	मुझे पता है कि जीवन छोटा है।
 I know lots of jokes.	Ich kenne viele Witze.	मुझे कई मजाक पता है।
+I know lots of songs.	Ich kenne viele Lieder.	मुझे बहुत सारे गाने पता है।
+I know sign language.	Ich kenne die Gebärdensprache.	मुझे साइन भाषा पता है।
+I know that I'm lazy.	Ich weiß, dass ich faul bin.	मुझे पता है कि मैं सुस्त हूँ।
+I know that he knows.	Ich weiß, dass er weiß.	मुझे पता है कि वह जानता है।
+I know that he's Tom.	Ich weiß, dass er Tom ist.	मुझे पता है कि वह टॉम है।
+I know that you know.	Ich weiß, dass du weißt.	मुझे पता है कि तुम जानते हो।
+I know the gentleman.	Ich kenne den Gentleman.	मैं उस सज्जन को जानता हूँ।
+I know what Tom said.	Ich weiß, was Tom gesagt hat.	मुझे पता है कि टॉमने क्या कहा।
+I know what happened.	Ich weiß, was passiert ist.	मुझे पता है कि क्या हुआ।
+I know what it takes.	Ich weiß, was nötig ist.	मुझे पता है कि क्या लगता है।
