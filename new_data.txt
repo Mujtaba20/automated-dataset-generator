@@ -35464,3 +35464,10 @@ What's wrong with me?	Was ist los mit mir?	मुझमें क्या ग�
 What's your analysis?	Was ist Ihre Analyse?	आपका विश्लेषण क्या है?
 What's your decision?	Was ist Ihre Entscheidung?	आपका निर्णय क्या है?
 What's your location?	Wo sind Sie?	आपकी स्थिति क्या है?
+What's your nickname?	Was ist dein Spitzname?	तुम्हारा नामकरण क्या है?
+What's your question?	Was ist deine Frage?	तुम्हारा सवाल क्या है?
+What's your solution?	Was ist deine Lösung?	तुम्हारा समाधान क्या है?
+What's your username?	Was ist dein Benutzername?	तुम्हारी उपयोगकर्ता नाम क्या है?
+When are they coming?	Wann kommen sie?	वे कब आ रहे हैं?
+When can I visit you?	Wann kann ich dich besuchen?	मैं तुम्हें कब मिल सकता हूं?
+When did he fall ill?	Wann ist er krank geworden?	उसने कब बीमार पड़ा था?

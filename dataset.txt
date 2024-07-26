@@ -1,14 +1,4 @@
 
-What's your nickname?	Was ist dein Spitzname?	आपका उपनाम क्या है?
-What's your nickname?	Was ist Ihr Spitzname?	आपका उपनाम क्या है?
-What's your question?	Wie lautet deine Frage?	आपका प्रश्न क्या है?
-What's your solution?	Wie lautet deine Lösung?	आपका समाधान क्या है?
-What's your username?	Wie lautet dein Benutzername?	आपका उपयोगकर्ता नाम क्या है?
-What's your username?	Wie lautet Ihr Benutzername?	आपका उपयोगकर्ता नाम क्या है?
-When are they coming?	Wann kommen sie?	आप कब आओगें?
-When can I visit you?	Wann kann ich dich besuchen?	मैं आपको कब मिल सकता हूं?
-When can I visit you?	Wann kann ich euch besuchen?	मैं आपको कब मिल सकता हूं?
-When did he fall ill?	Wann ist er krank geworden?	वह कब बीमार हो गया?
 When did he get back?	Wann ist er zurückgekommen?	वह कब वापस आया?
 When did that happen?	Wann ist das geschehen?	वह कब हुआ?
 When did that happen?	Wann ist das passiert?	वह कब हुआ?
