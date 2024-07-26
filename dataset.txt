@@ -1,14 +1,4 @@
 
-Will you give me some?	Gibst du mir ein bisschen?	क्या आप मुझे थोड़ा सा देते हैं?
-Will you help me then?	Hilfst du mir denn?	क्या आप मेरी मदद करते हैं?
-Will you take a check?	Nehmen Sie einen Scheck?	क्या आप एक चेक लेते हैं?
-Winter is coming soon.	Der Winter kommt bald.	सर्दी जल्द ही आ रही है।
-Wisdom comes with age.	Weisheit kommt mit dem Alter.	ज्ञान उम्र के साथ आता है।
-Would you care to bet?	Wollen wir wetten?	शर्त लगाओगे?
-Would you care to try?	Willst du es mal versuchen?	क्या आप आजमाने के इच्छुक हैं
-Would you care to try?	Willst du es mal auf einen Versuch ankommen lassen?	क्या आप इसे एक प्रयास में आने देना चाहते हैं?
-Would you explain why?	Würdest du das begründen?	क्या आप इसे सही ठहराएंगे?
-Would you like a lift?	Wollen Sie mitfahren?	क्या आप सवारी करना चाहते हैं?
 Would you like it now?	Möchtest du es jetzt?	क्या आप इसे अब चाहते हैं?
 Would you like it now?	Möchten Sie es jetzt?	क्या आप इसे अब पसंद करेंगे?
 Would you like to sit?	Möchten Sie sich setzen?	क्या आप बैठना चाहेंगे?
