@@ -39323,3 +39323,12 @@ That sounds expensive.	Das klingt teuer.	वह महंगा लगता ह
 That sounds promising.	Das klingt vielversprechend.	यह आशावादी लगता है।
 That stays between us.	Das bleibt unter uns.	वह हमारे बीच रहेगा।
 That task wasn't easy.	Diese Aufgabe war nicht einfach.	वह काम आसान नहीं था।
+That was Tom's choice.	Das war Toms Wahl.	वह टॉम की पसंद थी।
+That was a close call.	Das war knapp.	वह बहुत करीब था।
+That was a funny joke.	Das war ein lustiger Witz.	वह मजेदार मजाक था।
+That was a good steak.	Das war ein gutes Steak.	वह एक अच्छे स्टेक था।
+That was all Tom said.	Das war alles, was Tom sagte.	वह सब कुछ टॉम ने कहा।
+That was an awful day.	Das war ein schrecklicher Tag.	वह एक भयानक दिन था।
+That was embarrassing.	Das war peinlich.	वह शर्मनाक थी।
+That was pretty funny.	Das war ziemlich lustig.	वह काफी हसीन था।
+That was pretty scary.	Das war ziemlich gruselig.	वह काफी डरावना था।
