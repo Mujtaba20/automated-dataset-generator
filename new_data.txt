@@ -24456,3 +24456,13 @@ Welcome to my home.	Willkommen in meinem Zuhause.	मेरे घर का स
 Welcome to my life.	Willkommen in meinem Leben.	मेरे जीवन में आपका स्वागत है।
 Well, now you know.	Nun, jetzt weißt du es.	अब तुम्हें पता है।
 Were they with you?	Waren sie bei dir?	क्या वे तुम्हारे साथ थे?
+engSentence1	Bist du hier geboren?	क्या तुम यहाँ पैदा हुए थे?
+engSentence2	Wurdest du hier geboren?	क्या आप यहाँ पैदा हुए थे?
+engSentence3	Wurdest du hier geboren?	क्या आप यहाँ पैदा हुए थे?
+engSentence4	Hast du zugehört?	क्या तुम सुन रहे थे?
+engSentence5	Wale sind Säugetiere.	व्हेल ममल हैं।
+engSentence6	Was ich sage, ist wahr.	मैं जो कहता हूँ, सच है।
+engSentence7	Was für einen großen Kürbis!	कितना बड़ा कद्दू!
+engSentence8	Was für ein Zufall!	कितना ऐतबार!
+engSentence9	Was für eine tolle Party!	कितनी शानदार पार्टी!
+engSentence10	Was für ein langer Flug!	कितना लंबा उड़ान!
