@@ -25842,3 +25842,10 @@ He's always on time.	Er ist immer pünktlich.	वह हमेशा समय �
 He's an opera lover.	Er begeistert sich für Opern.	उसे ओपेरा का दीवाना है।
 He's behaving oddly.	Er benimmt sich eigenartig.	उसका व्यवहार अजीब है।
 He's big and strong.	Er ist groß und stark.	वह लम्बा और मजबूत है।
+He's doing his best.	Er gibt sein Bestes.	वह अपनी सबसे अच्छी कोशिश कर रहा है।
+He's doing it right.	Er macht es richtig.	वह सही कर रहा है।
+He's giving it a go.	Er versucht es.	वह एक कोशिश कर रहा है।
+He's got a headache.	Er hat Kopfschmerzen.	उसे सिरदर्द हो रहा है।
+He's homeward bound.	Er ist auf dem Weg nach Hause.	वह घर की ओर चल रहा है।
+He's in big trouble.	Er steckt in großen Schwierigkeiten.	वह बड़ी मुश्किल में है।
+He's in the kitchen.	Er ist in der Küche.	वह रसोई में है।

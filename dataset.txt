@@ -1,14 +1,4 @@
 
-He's doing his best.	Er tut sein Bestes.	वह अपना सर्वश्रेष्ठ प्रदर्शन करता है।
-He's doing it right.	Er tut es richtig.	वह सही करता है।
-He's giving it a go.	Er versucht es.	वह कोशिश करता है।
-He's got a headache.	Er hat Kopfschmerzen.	उसे सिरदर्द है।
-He's homeward bound.	Er ist auf der Heimreise.	वह अपने घर के रास्ते पर है।
-He's homeward bound.	Er befindet sich auf der Heimreise.	वह अपने घर के रास्ते पर है।
-He's in big trouble.	Er steckt in großen Schwierigkeiten.	वह बड़ी कठिनाइयों में है।
-He's in big trouble.	Er steckt arg in der Klemme.	वह बुरी तरह से क्लैंप में है।
-He's in big trouble.	Er ist schwer in Bedrängnis.	वह मुश्किल में मुश्किल है।
-He's in the kitchen.	Er ist in der Küche.	वह रसोई में है।
 He's looking at you.	Er sieht dich an.	वह आपको देखता है।
 He's my best friend.	Er ist mein bester Freund.	वह मेरा सबसे अच्छा मित्र है।
 He's on sentry duty.	Er hat Wachdienst.	उसके पास सुरक्षा गार्ड हैं।
