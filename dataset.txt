@@ -1,14 +1,4 @@
 
-I'm going out with Tom.	Ich gehe mit Tom aus.	मैं टॉम के साथ बाहर जाता हूं।
-I'm going to Australia.	Ich gehe nach Australien.	मैं ऑस्ट्रेलिया जाता हूं।
-I'm going to miss that.	Ich werde das vermissen.	मुझे वह याद आएगा।
-I'm going to miss that.	Das wird mir fehlen.	मुझे याद आ रहा है।
-I'm going to need help.	Ich brauche Hilfe.	मुझे मदद की ज़रूरत है।
-I'm going to take this.	Ich werde das nehmen.	मैं ले जाऊँगा।
-I'm happy I could help.	Es freut mich, dass ich helfen konnte.	मुझे खुशी है कि मैं मदद कर सकता हूं।
-I'm happy to hear that.	Ich freue mich, das zu hören.	मुझे वह सुनकर बेहद खुशी हुई।
-I'm happy you liked it.	Ich bin froh, dass es Ihnen gefiel.	मुझे खुशी है कि तुमने इसे पसंद किया।
-I'm happy you're happy.	Ich bin froh, dass du glücklich bist.	मुझे खुशी है कि आप खुश हैं।
 I'm having a nice time.	Ich habe gerade einen Riesenspaß.	मुझे अभी बहुत मज़ा आया है।
 I'm having lots of fun.	Ich habe jede Menge Spaß.	मैंने बहुत आनंद लिया।
 I'm here for a meeting.	Ich bin zu einer Sitzung hier.	मैं यहां एक सत्र के लिए हूं।
