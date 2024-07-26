@@ -27095,3 +27095,13 @@ I'm not really busy.	Ich bin nicht wirklich beschäftigt.	मैं वास्
 I'm not really sure.	Ich bin mir nicht wirklich sicher.	मुझे वास्तव में सुनिश्चित नहीं है।
 I'm not saying that.	Das sage ich nicht.	मैं यह नहीं कह रहा हूं।
 I'm not so sure now.	Ich bin mir jetzt nicht so sicher.	अब मैं इतना सुनिश्चित नहीं हूं।
+I'm not telling you.	Ich erzähle es dir nicht.	मैं तुम्हें नहीं बता रहा हूँ।
+I'm not that hungry.	Ich bin nicht so hungrig.	मुझे इतनी भूख नहीं है।
+I'm not that naïve.	Ich bin nicht so naiv.	मैं इतना मूर्ख नहीं हूँ।
+I'm not that stupid.	Ich bin nicht so dumm.	मैं इतना मूर्ख नहीं हूँ।
+I'm not the manager.	Ich bin nicht der Manager.	मैं मैनेजर नहीं हूँ।
+I'm not the problem.	Ich bin nicht das Problem.	मैं समस्या नहीं हूँ।
+I'm not very hungry.	Ich bin nicht sehr hungrig.	मुझे बहुत भूख नहीं है।
+I'm not very strong.	Ich bin nicht sehr stark.	मैं बहुत मजबूत नहीं हूँ।
+I'm not your father.	Ich bin nicht dein Vater.	मैं तुम्हारे पिता नहीं हूँ।
+I'm not your friend.	Ich bin nicht dein Freund.	मैं तुम्हारा दोस्त नहीं हूँ।
