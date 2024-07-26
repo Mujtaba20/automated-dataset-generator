@@ -35278,3 +35278,13 @@ We'll do it tomorrow.	Wir werden es morgen machen.	हम कल इसे क�
 We'll eat on the way.	Wir werden unterwegs essen.	हम रास्ते में खाएंगे।
 We'll find the truth.	Wir werden die Wahrheit finden.	हम सच्चाई निकालेंगे।
 We'll give it a shot.	Wir werden es versuchen.	हम एक कोशिश करेंगे।
+We'll go there again.	Wir werden wieder dorthin gehen.	हम फिर वहां जाएँगे।
+We'll look after Tom.	Wir werden auf Tom aufpassen.	हम टॉम का ध्यान रखेंगे।
+We'll look after you.	Wir werden auf dich aufpassen.	हम तुम्हारा ध्यान रखेंगे।
+We'll meet Tom there.	Wir werden Tom dort treffen.	हम वहां टॉम से मिलेंगे।
+We'll miss Tom a lot.	Wir werden Tom sehr vermissen.	हम टॉम को बहुत याद करेंगें।
+We'll never find Tom.	Wir werden Tom nie finden.	हम कभी टॉम को नहीं ढूंढेंगे।
+We'll think about it.	Wir werden darüber nachdenken.	हम इसके बारे में सोचेंगे।
+We're a happy family.	Wir sind eine glückliche Familie.	हम एक खुशहाल परिवार हैं।
+We're a little early.	Wir sind ein wenig früh dran.	हम थोड़े जल्दी हैं।
+We're a little older.	Wir sind etwas älter.	हम थोड़े बड़े हैं।
