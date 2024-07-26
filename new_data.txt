@@ -27891,3 +27891,9 @@ She is in the wrong.	Sie liegt falsch.	वह गलती में है।
 She is just a child.	Sie ist nur ein Kind.	वह सिर्फ एक बच्ची है।
 She is looked up to.	Sie wird bewundert.	उसका सम्मान किया जाता है।
 She is loved by him.	Er liebt sie.	वह उससे प्यार करता है।
+She is my classmate.	Sie ist meine Klassenkameradin.	वह मेरी क्लासमेट है।
+She is not here yet.	Sie ist noch nicht hier.	वह अभी यहाँ नहीं है।
+She is not to blame.	Sie ist nicht schuld.	उसकी दोष नहीं है।
+She is only a child.	Sie ist nur ein Kind.	वह सिर्फ एक बच्ची है।
+She is still a girl.	Sie ist immer noch ein Mädchen.	वह अभी भी एक लड़की है।
+She is very healthy.	Sie ist sehr gesund.	वह बहुत स्वस्थ है।

@@ -1,14 +1,4 @@
 
-She is my classmate.	Sie ist meine Klassenkameradin.	वह मेरी सहपाठी है।
-She is my classmate.	Sie ist meine Kommilitonin.	वह मेरी साथी छात्रा है।
-She is not here yet.	Sie ist noch nicht hier.	वह अभी तक यहाँ नहीं है।
-She is not to blame.	Sie kann nichts dafür.	यह उसकी गलती नहीं है।
-She is not to blame.	Dafür kann sie nichts.	वह उसके लिए कुछ भी नहीं कर सकती।
-She is only a child.	Sie ist bloß ein Kind.	वह सिर्फ एक बच्चा है।
-She is only a child.	Sie ist nichts mehr als ein Kind.	वह एक बच्चे से ज्यादा कुछ नहीं है।
-She is still a girl.	Sie ist noch ein Fräulein.	वह अभी भी एक मिस है।
-She is still a girl.	Sie ist noch ein Mädchen.	वह अभी भी एक लड़की है।
-She is very healthy.	Sie strotzt vor Wohlbefinden.	वह अच्छी तरह से फट रही है।
 She is well off now.	Sie ist jetzt wohlhabend.	वह अब अमीर है।
 She kept on talking.	Sie quatschte weiter.	उसने जारी रखा।
 She kept on working.	Sie arbeitete weiter.	वह काम करती रही।
