@@ -27222,3 +27222,12 @@ Is Tom doing better?	Geht es Tom besser?	क्या टॉम बेहतर 
 Is Tom going to die?	Wird Tom sterben?	क्या टॉम मरने जा रहा है?
 Is Tom good-looking?	Ist Tom gut aussehend?	क्या टॉम अच्छे दिखते हैं?
 Is Tom running away?	Läuft Tom weg?	क्या टॉम भाग रहा है?
+Is Tom still aboard?	Ist Tom immer noch an Bord?	क्या टॉम फिर से समेटा है?
+Is Tom still around?	Ist Tom immer noch in der Nähe?	क्या टॉम अभी भी आसपास है?
+Is Tom still asleep?	Schläft Tom noch?	क्या टॉम अभी भी सो रहा है?
+Is Tom still coming?	Kommt Tom noch?	क्या टॉम अब भी आ रहा है?
+Is Tom still crying?	Weint Tom immer noch?	क्या टॉम अभी भी रो रहा है?
+Is Tom still hungry?	Hat Tom immer noch Hunger?	क्या टॉम अभी भी भूखा है?
+Is Tom under arrest?	Ist Tom verhaftet?	क्या टॉम गिरफ्तार हो गया है?
+Is Tom with you now?	Ist Tom jetzt bei dir?	क्या टॉम अब तुम्हारे साथ है?
+Is Tom your brother?	Ist Tom dein Bruder?	क्या टॉम तुम्हारा भाई है?

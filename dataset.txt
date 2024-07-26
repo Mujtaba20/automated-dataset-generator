@@ -1,14 +1,4 @@
 
-Is Tom still aboard?	Ist Tom noch an Bord?	क्या टॉम अभी भी बोर्ड पर है?
-Is Tom still around?	Ist Tom immer noch da?	क्या टॉम अभी भी वहाँ है?
-Is Tom still asleep?	Schläft Tom noch?	टॉम अभी भी सो रहा है?
-Is Tom still coming?	Kommt Tom noch?	क्या टॉम अभी भी आ रहा है?
-Is Tom still crying?	Weint Tom noch immer?	टॉम अभी भी रोता है?
-Is Tom still hungry?	Hat Tom noch Hunger?	क्या टॉम अभी भी भूखा है?
-Is Tom under arrest?	Ist Tom verhaftet?	क्या टॉम को गिरफ्तार किया गया है?
-Is Tom under arrest?	Steht Tom unter Arrest?	क्या टॉम गिरफ्तारी के तहत है?
-Is Tom with you now?	Ist Tom jetzt bei dir?	क्या अब आपके साथ टॉम है?
-Is Tom your brother?	Ist Tom dein Bruder?	क्या टॉम आपका भाई है?
 Is any of this true?	Ist irgendetwas davon wahr?	क्या इसका कुछ सच है?
 Is anyone listening?	Hört irgendjemand zu?	क्या कोई सुनता है?
 Is he looking at me?	Schaut er mich an?	क्या वह मुझे देखता है?
