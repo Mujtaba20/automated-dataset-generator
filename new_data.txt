@@ -37602,3 +37602,13 @@ I know that Tom is in.	Ich weiß, dass Tom dabei ist.	मुझे पता ह
 I know that Tom knows.	Ich weiß, dass Tom weiß.	मुझे पता है कि टॉम को पता है।
 I know these students.	Ich kenne diese Schüler.	मुझे इन छात्रों का पता है।
 I know this will work.	Ich weiß, dass das funktionieren wird.	मुझे पता है कि यह काम करेगा।
+I know what I will do.	Ich weiß, was ich tun werde.	मैं जानता हूँ कि मैं क्या करूँगा।
+I know what I'm doing.	Ich weiß, was ich tue.	मुझे पता है कि मैं क्या कर रहा हूँ।
+I know what Tom knows.	Ich weiß, was Tom weiß.	मैं जानता हूँ कि टॉम क्या जानता है।
+I know what Tom likes.	Ich weiß, was Tom mag.	मैं जानता हूँ कि टॉम को क्या पसंद है।
+I know what Tom needs.	Ich weiß, was Tom braucht.	मैं जानता हूँ कि टॉम को क्या चाहिए।
+I know what Tom wants.	Ich weiß, was Tom will.	मुझे पता है कि टॉम क्या चाहता है।
+I know what it's like.	Ich weiß, wie es ist.	मुझे पता है कि यह कैसा है।
+I know what they said.	Ich weiß, was sie gesagt haben.	मैं जानता हूँ कि उन्होंने क्या कहा।
+I know what they want.	Ich weiß, was sie wollen.	मैं जानता हूँ कि वे क्या चाहते हैं।
+I know what we can do.	Ich weiß, was wir tun können.	मुझे पता है कि हम क्या कर सकते हैं।
