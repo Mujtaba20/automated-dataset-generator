@@ -1,14 +1,4 @@
 
-Tom blew up the bridge.	Tom jagte die Brücke in die Luft.	टॉम ने पुल को हवा में बदल दिया।
-Tom blew up the bridge.	Tom hat die Brücke in die Luft gejagt.	टॉम ने पुल का शिकार किया।
-Tom bought a new house.	Tom hat ein neues Haus gekauft.	टॉम ने एक नया घर खरीदा।
-Tom bought a newspaper.	Tom kaufte eine Zeitung.	टॉम ने एक अखबार खरीदा।
-Tom bought a newspaper.	Tom hat eine Zeitung gekauft.	टॉम ने एक अखबार खरीदा।
-Tom bought another hat.	Tom kaufte sich noch einen Hut.	टॉम ने एक टोपी खरीदी।
-Tom bought some butter.	Tom hat Butter gekauft.	टॉम ने मक्खन खरीदा।
-Tom bought this for me.	Tom hat das für mich gekauft.	टॉम ने मेरे लिए खरीदा था।
-Tom brewed some coffee.	Tom kochte sich etwas Kaffee.	टॉम ने कुछ कॉफी पकाई।
-Tom brews his own beer.	Tom braut sich sein eigenes Bier.	टॉम ने अपनी बीयर पी ली।
 Tom broke his left arm.	Tom hat sich den linken Arm gebrochen.	टॉम ने अपनी बाईं बांह को तोड़ दिया।
 Tom broke his left arm.	Tom brach sich den linken Arm.	टॉम ने अपनी बाईं बांह को तोड़ दिया।
 Tom broke three dishes.	Tom zerbrach drei Teller.	टॉम ने तीन प्लेटें तोड़ दीं।
