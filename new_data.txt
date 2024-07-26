@@ -33751,3 +33751,11 @@ There's no beer here.	Hier gibt es kein Bier.	यहाँ कोई बीय�
 There's no food left.	Es ist kein Essen mehr da.	खाना नहीं बचा है।
 There's no giving up.	Es gibt kein Aufgeben.	हार मानने का कोई विकल्प नहीं है।
 There's no hot water.	Es gibt kein heißes Wasser.	गर्म पानी नहीं है।
+There's no more salt.	Es gibt kein Salz mehr.	नमक खत्म हो गया है।
+There's no one about.	Niemand ist da.	कोई भी नहीं है।
+There's no one there.	Dort ist niemand.	वहाँ कोई नहीं है।
+There's nobody there.	Dort ist niemand.	वहाँ कोई नहीं है।
+There's not a chance.	Es besteht keine Chance.	कोई मौका नहीं है।
+There's nothing here.	Hier ist nichts.	यहाँ कुछ नहीं है।
+These are Tom's cats.	Das sind Toms Katzen.	ये टॉम के बिल्ली हैं।
+These are my friends.	Das sind meine Freunde.	ये मेरे दोस्त हैं।
