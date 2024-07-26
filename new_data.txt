@@ -30594,3 +30594,8 @@ engSentence7	Hast du ihr Gesicht gesehen?	क्या आपने उसका
 engSentence8	Hast du ihr Gesicht gesehen?	क्या आपने उसका चेहरा देखा है?
 engSentence9	Hast du sein Gesicht gesehen?	क्या आपने उसका चेहरा देखा है?
 engSentence10	Hast du sein Gesicht gesehen?	क्या आपने उसका चेहरा देखा है?
+Did you speak at all?	Hast du überhaupt gesprochen?	क्या तुमने बिल्कुल बोला?
+Did you speak to Tom?	Hast du mit Tom gesprochen?	क्या तुमने टॉम से बात की?
+Did you threaten Tom?	Hast du Tom bedroht?	क्या तुमने टॉम को धमकाया?
+Did you try this key?	Hast du diesen Schlüssel ausprobiert?	क्या तुमने यह कुंजी ताक़त दी?
+Did you two break up?	Habt ihr zwei euch getrennt?	क्या तुम दोनों अलग हो गए?

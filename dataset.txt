@@ -1,14 +1,4 @@
 
-Did you speak at all?	Hast du überhaupt geredet?	क्या आपने बात की?
-Did you speak at all?	Habt ihr überhaupt geredet?	क्या आपने भी बात की?
-Did you speak at all?	Haben Sie überhaupt geredet?	क्या आपने बात की?
-Did you speak to Tom?	Hast du mit Tom gesprochen?	क्या आपने टॉम से बात की?
-Did you threaten Tom?	Hast du Tom bedroht?	क्या आपने टॉम को धमकी दी थी?
-Did you threaten Tom?	Habt ihr Tom bedroht?	क्या आपने टॉम को धमकी दी थी?
-Did you threaten Tom?	Haben Sie Tom bedroht?	क्या आपने टॉम को धमकी दी थी?
-Did you try this key?	Hast du es mal mit diesem Schlüssel versucht?	क्या आपने इस कुंजी की कोशिश की?
-Did you two break up?	Habt ihr beiden miteinander Schluss gemacht?	क्या आपने दोनों को तोड़ दिया है?
-Did you two break up?	Habt ihr euch getrennt?	क्या आपने खुद को अलग किया?
 Did you two have fun?	Hattet ihr beide Spaß?	क्या आप दोनों ने मज़ा लिया?
 Did you use my knife?	Hast du mein Messer benutzt?	क्या आपने मेरे चाकू का इस्तेमाल किया?
 Did you use my knife?	Haben Sie mein Messer benutzt?	क्या आपने मेरे चाकू का इस्तेमाल किया?
