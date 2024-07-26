@@ -38094,3 +38094,10 @@ I'd like to pay later.	Ich würde später bezahlen.	मैं बाद मे�
 I'd like to play golf.	Ich würde gerne Golf spielen.	मैं गोल्फ खेलना चाहूँगा।
 I'd like to stay here.	Ich würde hier bleiben.	मैं यहाँ रुकना चाहूँगा।
 I'd like to thank you.	Ich möchte mich bedanken.	मैं आपका धन्यवाद करना चाहूँगा।
+I'd like to try it on.	Ich würde es gerne ausprobieren.	मुझे इसे पहनना पसंद है।
+I'd like to wait here.	Ich möchte hier warten.	मुझे यहाँ इंतजार करना है।
+I'd like you to drive.	Ich würde gerne möchten, dass Sie fahren.	मुझे चाहिए कि आप गाड़ी चलाएँ।
+I'd love to know that.	Ich würde gerne das wissen.	मेरे बस में होतो यही अच्छा रहेगा।
+I'd prefer a sandwich.	Ich hätte lieber ein Sandwich.	मैं एक सैंडविच पसंद करूँगा।
+I'll ask Tom tomorrow.	Ich werde Tom morgen fragen.	मैं कल टॉम से पूछूंगा।
+I'll be busy tomorrow.	Ich werde morgen beschäftigt sein.	कल मैं व्यस्त रहूँगा।

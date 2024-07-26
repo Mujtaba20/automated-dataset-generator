@@ -1,14 +1,4 @@
 
-I'd like to try it on.	Das will ich mal anprobieren.	मैं इस पर कोशिश करना चाहता हूं।
-I'd like to wait here.	Ich möchte hier warten.	मैं यहां इंतजार करना चाहता हूं।
-I'd like you to drive.	Ich möchte, dass du fährst.	मैं चाहता हूं कि आप ड्राइव करें।
-I'd love to know that.	Ich würde das gerne wissen.	मैं यह जानना चाहूंगा।
-I'd prefer a sandwich.	Ich hätte lieber ein Sandwich.	मैं बल्कि एक सैंडविच होगा।
-I'd prefer a sandwich.	Ich hätte lieber ein belegtes Brötchen.	मैं बल्कि एक भरा हुआ रोल होगा।
-I'll ask Tom tomorrow.	Ich werde morgen Tom fragen.	मैं कल टॉम से पूछूंगा।
-I'll be busy tomorrow.	Ich bin morgen beschäftigt.	मैं कल व्यस्त हूं।
-I'll be busy tomorrow.	Ich habe morgen zu tun.	मुझे कल करना है।
-I'll be busy tomorrow.	Morgen bin ich beschäftigt.	मैं कल व्यस्त हूं।
 I'll be on my way now.	Ich mache mich jetzt auf den Weg.	मैं अब अपने रास्ते पर जा रहा हूं।
 I'll be there all day.	Ich werde den ganzen Tag dort sein.	मैं पूरे दिन वहाँ रहूँगा।
 I'll be there at 2:30.	Ich werde um 2:30 dort sein.	मैं 2:30 बजे वहां पहुंचूंगा।
