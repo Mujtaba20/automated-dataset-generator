@@ -23085,3 +23085,11 @@ They abandoned Tom.	Sie haben Tom verlassen.	उन्होंने टॉम 
 They adopted a kid.	Sie haben ein Kind adoptiert.	उन्होंने एक बच्चे को गोद लिया।
 They all have come.	Sie sind alle gekommen.	सभी आ चुके हैं।
 They all looked up.	Sie alle schauten nach oben.	सभी ऊपर देख रहे थे।
+They are both good.	Sie sind beide gut.	वे दोनों अच्छे हैं।
+They are impatient.	Sie sind ungeduldig.	वे अधीर हैं।
+They are neighbors.	Sie sind Nachbarn.	वे पड़ोसी हैं।
+They are not tired.	Sie sind nicht müde.	वे थके नहीं हैं।
+They are wrestlers.	Sie sind Ringer.	वे कुश्तिबाज़ हैं।
+They aren't hungry.	Sie haben keinen Hunger.	उन्हें भूख नहीं है।
+They aren't stupid.	Sie sind nicht dumm.	वे मूर्ख नहीं हैं।
+They asked me here.	Sie haben mich hierher gefragt.	उन्होंने मुझसे यहाँ पूछा।
