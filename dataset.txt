@@ -1,14 +1,4 @@
 
-Have you already voted?	Haben Sie schon gewählt?	क्या आपने पहले से ही चुना है?
-Have you been promoted?	Bist du befördert worden?	क्या आपको पदोन्नत किया गया है?
-Have you been promoted?	Sind Sie befördert worden?	क्या आपको पदोन्नत किया गया है?
-Have you been promoted?	Seid ihr befördert worden?	क्या आपको पदोन्नत किया गया है?
-Have you fed the horse?	Hast du das Pferd gefüttert?	क्या आपने घोड़ा खिलाया?
-Have you got any plans?	Hast du irgendwelche Pläne?	क्या तुम्हारे पास कोई योजना है?
-Have you guys seen Tom?	Habt ihr da denn Tom gesehen?	क्या आपने टॉम को देखा?
-Have you had breakfast?	Hast du schon gefrühstückt?	क्या आपने पहले ही नाश्ता किया है?
-Have you lost your way?	Habt ihr euch verirrt?	क्या आप खो गए?
-Have you lost your way?	Haben Sie sich verirrt?	क्या आप खो गए?
 Have you paid the rent?	Hast du die Miete bezahlt?	क्या आपने किराया का भुगतान किया?
 Have you read this yet?	Hast du das schon gelesen?	क्या आपने पहले से ही पढ़ा है?
 Have you read this yet?	Haben Sie das schon gelesen?	क्या आपने पहले से ही पढ़ा है?
