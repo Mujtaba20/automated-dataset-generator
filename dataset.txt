@@ -1,15 +1,4 @@
 
-Who did you come with?	Mit wem bist du gekommen?	आप किसके साथ आए थे?
-Who did you come with?	Mit wem sind Sie gekommen?	आप किसके साथ आए थे?
-Who did you come with?	Mit wem seid ihr gekommen?	आप किसके साथ आए थे?
-Who did you talk with?	Mit wem hast du gesprochen?	आप किसके साथ बोलते थे?
-Who discovered radium?	Wer hat das Radium entdeckt?	किसने रेडियम की खोज की?
-Who do you know there?	Wen kennst du dort?	आप वहां किसे जानते हैं?
-Who do you think I am?	Für wen hältst du mich?	आपको क्या लगता है मैं कौन हूं?
-Who do you think I am?	Wer, denkst du, bin ich?	क्या, आपको लगता है कि मैं हूं?
-Who else did you help?	Wem hast du noch geholfen?	आपने और किसकी मदद की?
-Who else did you help?	Wem habt ihr noch geholfen?	आपने और किसकी मदद की?
-Who else did you help?	Wem haben Sie noch geholfen?	आपने और किसकी मदद की?
 Who invented dynamite?	Wer hat das Dynamit erfunden?	डायनामाइट का आविष्कार किसने किया?
 Who is that gentleman?	Wer ist dieser Herr?	यह सज्जन कौन है?
 Who is that old woman?	Wer ist diese alte Frau?	यह बूढ़ी औरत कौन है?

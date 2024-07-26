@@ -41449,3 +41449,9 @@ Who broke this window?	Wer hat dieses Fenster zerbrochen?	किसने यह
 Who built the snowman?	Wer hat den Schneemann gebaut?	स्नोमैन कौन बनाया?
 Who called the police?	Wer hat die Polizei angerufen?	किसने पुलिस को बुलाया?
 Who closed the window?	Wer hat das Fenster geschlossen?	किसने खिड़की बंद की?
+Who did you come with?	Mit wem bist du gekommen?	तुम किसके साथ आए थे?
+Who did you talk with?	Mit wem hast du gesprochen?	तुमने किससे बात की?
+Who discovered radium?	Wer hat Radium entdeckt?	रेडियम का खोज किसने की थी?
+Who do you know there?	Wen kennst du dort?	तुम वहाँ किसे जानते हो?
+Who do you think I am?	Wer glaubst du, bin ich?	तुम मुझे कौन समझ रहे हो?
+Who else did you help?	Wem hast du noch unterstützt?	तुमने किसे और सहायता की?
