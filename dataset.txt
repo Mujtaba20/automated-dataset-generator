@@ -1,14 +1,4 @@
 
-Tom wanted to see Mary.	Tom wollte Maria sehen.	टॉम मारिया को देखना चाहता था।
-Tom wanted you to know.	Tom wollte, dass du es weißt.	टॉम आपको जानना चाहता था।
-Tom wanted you to know.	Tom wollte, dass ihr es wisst.	टॉम आपको जानना चाहता था।
-Tom wants to apologize.	Thomas möchte sich entschuldigen.	थॉमस माफी मांगना चाहता है।
-Tom wants to be famous.	Tom möchte berühmt sein.	टॉम प्रसिद्ध होना चाहता है।
-Tom wants to be hugged.	Tom möchte mal gedrückt werden.	टॉम दबाया जाना चाहता है।
-Tom wants to be strong.	Tom will stark sein.	टॉम मजबूत होना चाहता है।
-Tom wants to be strong.	Tom will stark werden.	टॉम मजबूत होना चाहता है।
-Tom wants to come home.	Tom will nach Hause kommen.	टॉम घर आना चाहता है।
-Tom wants to disappear.	Tom will verschwinden.	टॉम गायब होना चाहता है।
 Tom wants to kill Mary.	Tom will Mary töten.	टॉम मैरी को मारना चाहता है।
 Tom wants to say hello.	Tom möchte Hallo sagen.	टॉम नमस्ते कहना चाहता है।
 Tom wants to stay here.	Tom will hierbleiben.	टॉम यहां रहना चाहता है।
