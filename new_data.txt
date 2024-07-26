@@ -25285,3 +25285,7 @@ Did you bring rolls?	Hast du Brötchen mitgebracht?	क्या आपने �
 Did you bring rolls? 2	Hast du Brötchen mitgebracht?	क्या तुमने रोल्स लाए?
 Did you bring yours?	Hast du es gebracht?	क्या तुमने यह लाया?
 Did you buy bananas?	Hast du Bananen gekauft?	क्या तुमने केले खरीदे थे?
+Did you come by car?	Bist du mit dem Auto gekommen?	क्या तुम गाड़ी पर आये थे?
+Did you drink a lot?	Hast du viel Alkohol getrunken?	क्या आपने अधिक पीने का प्रयास किया?
+Did you fall asleep?	Bist du hinuntergefallen?	क्या आप गिर गए थे?
+Did you get up late?	Bist du spät aufgestanden?	क्या तुम देर से उठे?

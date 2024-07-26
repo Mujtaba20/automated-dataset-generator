@@ -1,15 +1,4 @@
 
-Did you come by car?	Sind Sie mit dem Auto gekommen?	क्या आप कार से आए थे?
-Did you come by car?	Bist du mit dem Auto gekommen?	क्या आप कार से आए थे?
-Did you come by car?	Seid ihr mit dem Auto gekommen?	क्या आप कार से आए थे?
-Did you drink a lot?	Hast du viel getrunken?	क्या आपने बहुत पी लिया?
-Did you drink a lot?	Habt ihr viel getrunken?	क्या आपने बहुत पी लिया?
-Did you drink a lot?	Haben Sie viel getrunken?	क्या आपने बहुत पी लिया?
-Did you fall asleep?	Bist du eingeschlafen?	क्या तुम सो गए थे?
-Did you fall asleep?	Seid ihr eingeschlafen?	क्या तुम सो गए थे?
-Did you fall asleep?	Sind Sie eingeschlafen?	क्या तुम सो गए थे?
-Did you get up late?	Bist du spät aufgestanden?	क्या आप देर से उठे?
-Did you get up late?	Sind Sie spät aufgestanden?	क्या आप देर से उठे?
 Did you hear it too?	Hast du das auch gehört?	क्या तुमने भी सुना?
 Did you hear it too?	Haben Sie das auch gehört?	क्या तुमने भी सुना?
 Did you hug anybody?	Hast du jemanden umarmt?	क्या आपने किसी को गले लगाया?
