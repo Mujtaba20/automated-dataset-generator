@@ -35936,3 +35936,8 @@ You're in good hands.	Du bist in guten Händen.	तुम अच्छे हा
 You're in good hands. (different meaning)	Du machst das gut.	तुम अच्छे हाथों में हो।
 You're inconsiderate.	Du bist rücksichtslos.	तुम गैर-विचारी हो।
 You're inconsiderate. (different meaning)	Du bist unaufmerksam.	तुम गैर-विचारी हो।
+You're indispensable.	Du bist unverzichtbar.	तुम अनिवार्य हो।
+You're irreplaceable.	Du bist unersetzbar.	तुम अद्वितीय हो।
+You're just a coward.	Du bist einfach ein Feigling.	तुम बस एक कायर हो।
+You're looking great.	Du siehst großartig aus.	तुम शानदार दिख रहे हो।
+You're looking tired.	Du siehst müde aus.	तुम थके हुए लग रहे हो।

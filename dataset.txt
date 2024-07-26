@@ -1,14 +1,4 @@
 
-You're indispensable.	Du bist unverzichtbar.	आप अपरिहार्य हैं।
-You're indispensable.	Du bist unentbehrlich.	आप अपरिहार्य हैं।
-You're indispensable.	Du bist unabkömmlich.	आप अपरिहार्य हैं।
-You're irreplaceable.	Du bist unersetzlich.	आप अनमोल हो।
-You're irreplaceable.	Ihr seid unersetzlich.	आप अनमोल हो।
-You're irreplaceable.	Sie sind unersetzlich.	वे अपूरणीय हैं।
-You're just a coward.	Du bist nur ein Feigling.	आप सिर्फ एक कायर हैं।
-You're just a coward.	Sie sind nur ein Feigling.	आप सिर्फ एक कायर हैं।
-You're looking great.	Du siehst großartig aus.	आप बहुत अच्छे लग रहे हो।
-You're looking tired.	Du siehst müde aus.	तुम थके हुए लग रहे हो।
 You're my girlfriend.	Du bist meine Freundin.	तुम मेरी प्रेमिका हो।
 You're never at home.	Du bist nie zu Hause.	आप घर पर कभी नहीं हैं।
 You're not a suspect.	Du bist kein Tatverdächtiger.	आप संदिग्ध नहीं हैं।
