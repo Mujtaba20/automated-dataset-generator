@@ -39929,3 +39929,12 @@ Tom continued talking.	Tom redete weiter.	टॉम की बातचीत �
 Tom continued walking.	Tom ging weiter.	टॉम की चलना जारी रहा।
 Tom continued working.	Tom arbeitete weiter.	टॉम का काम जारी रहा।
 Tom corrected himself.	Tom korrigierte sich.	टॉम ने अपने आप को सुधारा।
+Tom could barely walk.	Tom konnte kaum laufen.	टॉम वाकई मुश्किल से चल सकता था।
+Tom could be a farmer.	Tom könnte ein Bauer sein.	टॉम एक किसान हो सकता है।
+Tom could be involved.	Tom könnte beteiligt sein.	टॉम शामिल हो सकता है।
+Tom could hardly miss.	Tom könnte kaum verpassen.	टॉम को वास्तव में कम छूटना चाहिए।
+Tom could hardly walk.	Tom konnte kaum laufen.	टॉम वाकई मुश्किल से चल सकता था।
+Tom could use a raise.	Tom könnte eine Gehaltserhöhung gebrauchen.	टॉम को एक वेतन वृद्धि की जरुरत है।
+Tom couldn't get away.	Tom konnte nicht wegkommen.	टॉम नहीं चला जा सकता था।
+Tom couldn't remember.	Tom konnte sich nicht erinnern.	टॉम याद नहीं कर सकता था।
+Tom couldn't see Mary.	Tom konnte Mary nicht sehen.	टॉम मेरी को नहीं देख सकता था।
