@@ -21685,3 +21685,12 @@ I want a pet tiger.	Ich möchte einen Haustiger.	मुझे पालतू �
 I want an attorney.	Ich möchte einen Anwalt.	मुझे एक वकील चाहिए।
 I want my key back.	Ich möchte meinen Schlüssel zurück.	मुझे मेरी चाबी वापस चाहिए।
 I want my own room.	Ich möchte mein eigenes Zimmer.	मुझे मेरा खुद का कमरा चाहिए।
+I want the address.	Ich möchte die Adresse.	मुझे पता चाहिए।
+I want the details.	Ich möchte die Details.	मुझे विवरण चाहिए।
+I want this camera.	Ich möchte diese Kamera.	मुझे यह कैमरा चाहिए।
+I want this to end.	Ich möchte, dass dies endet.	मैं चाहता हूँ कि यह समाप्त हो।
+I want to be happy.	Ich möchte glücklich sein.	मैं खुश रहना चाहता हूँ।
+I want to be loved.	Ich möchte geliebt werden.	मुझे प्यार चाहिए।
+I want to be there.	Ich möchte dort sein.	मुझे वहाँ जाना है।
+I want to eat this.	Ich möchte das essen.	मुझे यह खाना है।
+I want to find Tom.	Ich möchte Tom finden.	मैं टॉम को ढूंढना चाहता हूँ।

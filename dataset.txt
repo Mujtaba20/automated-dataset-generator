@@ -1,14 +1,4 @@
 
-I want the address.	Ich will die Adresse.	मुझे पता चाहिए।
-I want the details.	Ich will die Details.	मुझे विवरण चाहिए।
-I want this camera.	Ich will diese Kamera.	मुझे यह कैमरा चाहिए।
-I want this to end.	Ich möchte, dass das ein Ende nimmt.	मैं चाहता हूं कि समाप्त हो।
-I want to be happy.	Ich will glücklich sein.	मुझे खुश रहना है।
-I want to be loved.	Ich will geliebt werden.	मैं चाहता हूं कि मुझे प्यार किया जाए।
-I want to be there.	Ich möchte dort sein.	मुझे वहाँ पहुचना है।
-I want to eat this.	Ich will das essen.	मैं खाना चाहता हूं।
-I want to eat this.	Ich will das hier essen.	मेरी इसे खाने की इच्छा है।
-I want to find Tom.	Ich möchte Tom finden.	मैं टॉम को ढूंढना चाहता हूं।
 I want to help you.	Ich will dir helfen.	मेरी आपकी मदद करने की इच्छा है।
 I want to help you.	Ich will Ihnen helfen.	मेरी आपकी मदद करने की इच्छा है।
 I want to join you.	Ich möchte mich dir anschließen.	मैं आपके साथ आना चाहता हूँ।
