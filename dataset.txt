@@ -1,14 +1,4 @@
 
-It's up to us to do it.	Es liegt an uns, das zu tun.	ऐसा करना हमारे ऊपर है।
-It's very cold in here.	Hier drin ist es sehr kalt.	यहाँ बहुत ठण्ड है।
-It's very dark in here.	Es ist sehr dunkel hier drin.	इसमें बहुत अंधेरा है।
-It's what I want to do.	Genau das möchte ich tun.	ठीक यही मैं करना चाहता हूं।
-It's what I want to do.	Das ist es, was ich tun möchte.	यही मैं करना चाहता हूं।
-It's what Tom believed.	Das ist, was Tom glaubte.	टॉम ने यही विश्वास किया।
-It's your duty to vote.	Es ist deine Pflicht zu wählen.	चुनना आपका कर्तव्य है।
-It's your duty to vote.	Sie haben die Pflicht zu wählen.	आपके पास चुनने का दायित्व है।
-It's your turn to read.	Jetzt bist du dran mit Lesen.	अब आप पढ़ने के साथ हैं।
-It's your turn to read.	Jetzt sind Sie dran mit Lesen.	अब आप पढ़ने के साथ हैं।
 It's your turn to sing.	Du bist dran mit Singen.	आप गायन के साथ हैं।
 It's your turn to sing.	Du bist dran mit singen.	आप गायन के साथ हैं।
 Just follow your heart.	Folge einfach deinem Herzen.	सिर्फ अपने दिल की सुनो।
