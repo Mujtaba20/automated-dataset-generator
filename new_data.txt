@@ -41171,3 +41171,12 @@ We're still very busy.	Wir sind immer noch sehr beschäftigt.	हम अब भ�
 We're studying French.	Wir studieren Französisch.	हम फ्रेंच पढ़ रहे हैं।
 We're waiting for Tom.	Wir warten auf Tom.	हम टॉम का इंतजार कर रहे हैं।
 We're working for you.	Wir arbeiten für dich.	हम आपके लिए काम कर रहे हैं।
+We're working on that.	Wir arbeiten daran.	हम उस पर काम कर रहे हैं।
+We've already started.	Wir haben bereits begonnen.	हमने पहले से ही शुरू कर दिया है।
+We've been so worried.	Wir waren so besorgt.	हम इतनी चिंतित रहे हैं।
+We've come a long way.	Wir haben einen langen Weg zurückgelegt.	हम बहुत अच्छा किया है।
+We've come to get you.	Wir sind gekommen, um dich zu holen.	हम आपको लेने आए हैं।
+We've found something.	Wir haben etwas gefunden.	हमने कुछ पाया है।
+We've got a lot to do.	Wir haben viel zu tun.	हमें बहुत कुछ करना है।
+We've got to help Tom.	Wir müssen Tom helfen.	हमें टॉम की मदद करनी है।
+We've got to save Tom.	Wir müssen Tom retten.	हमें टॉम को बचाना है।

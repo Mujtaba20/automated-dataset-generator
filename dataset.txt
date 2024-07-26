@@ -1,14 +1,4 @@
 
-We're working on that.	Wir arbeiten daran.	हम इस पर काम कर रहे हैं।
-We've already started.	Wir haben schon begonnen.	हम पहले ही शुरू कर चुके हैं।
-We've already started.	Wir haben schon angefangen.	हम पहले ही शुरू कर चुके हैं।
-We've been so worried.	Wir haben uns ja solche Sorgen gemacht!	हम बहुत चिंतित थे!
-We've come a long way.	Wir haben einen langen Weg hinter uns.	हमारे पीछे एक लंबा रास्ता है।
-We've come to get you.	Wir sind gekommen, um dich zu holen.	हम आपको पाने के लिए आए थे।
-We've found something.	Wir haben etwas gefunden.	हमें कुछ मिला।
-We've got a lot to do.	Wir haben viel zu tun.	हमारे पास करने के लिए बहुत कुछ है।
-We've got to help Tom.	Wir müssen Tom helfen.	हमें टॉम की मदद करनी है।
-We've got to save Tom.	Wir müssen Tom retten.	हमें टॉम को बचाना है।
 We've got to tell Tom.	Wir müssen Tom Bescheid sagen.	हमें टॉम कहना है।
 We've got to tell Tom.	Wir müssen es Tom sagen.	हमें टॉम कहना है।
 We've got to warn Tom.	Wir müssen Tom warnen.	हमें टॉम को चेतावनी देनी है।
