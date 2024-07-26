@@ -23583,3 +23583,12 @@ Tom is a good cook.	Tom ist ein guter Koch.	टॉम एक अच्छे प
 Tom is a good poet.	Tom ist ein guter Dichter.	टॉम एक अच्छे कवि हैं।
 Tom is a good shot.	Tom ist ein guter Schuss.	टॉम एक अच्छे शूटर है।
 Tom is a great guy.	Tom ist ein großartiger Typ.	टॉम एक शानदार आदमी है।
+Tom is a great man.	Tom ist ein großartiger Mann.	टॉम एक महान आदमी है।
+Tom is a grown man.	Tom ist ein erwachsener Mann.	टॉम एक बड़ा आदमी है।
+Tom is a happy boy.	Tom ist ein glücklicher Junge.	टॉम एक खुश लड़का है।
+Tom is a happy man.	Tom ist ein fröhlicher Mann.	टॉम एक खुश आदमी है।
+Tom is a hillbilly.	Tom ist ein Hinterwäldler.	टॉम एक पहाड़ी में रहने वाला है।
+Tom is a hypocrite.	Tom ist ein Heuchler.	टॉम एक पाखंडी है।
+Tom is a librarian.	Tom ist ein Bibliothekar.	टॉम एक पुस्तकालय का कतीब है।
+Tom is a lone wolf.	Tom ist ein Einzelgänger.	टॉम एक अकेला भेड़िया है।
+Tom is a physicist.	Tom ist ein Physiker.	टॉम एक भौतिकशास्त्री है।
