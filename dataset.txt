@@ -1,15 +1,4 @@
 
-Do you run every day?	Läufst du jeden Tag?	क्या आप हर दिन चलते हैं?
-Do you run every day?	Laufen Sie jeden Tag?	क्या आप हर दिन चलते हैं?
-Do you run every day?	Lauft ihr jeden Tag?	क्या आप हर दिन चल रहे हैं?
-Do you see something?	Siehst du etwas?	क्या आपको कुछ दिखाई देता है?
-Do you speak Chinese?	Sprechen Sie Chinesisch?	आप चीनी बात बोलते हैं क्या?
-Do you speak Chinese?	Sprichst du Chinesisch?	आप चीनी बात बोलते हैं क्या?
-Do you still have it?	Hast du es noch?	क्या यह अभी भी आपके पास है?
-Do you still love me?	Liebst du mich noch?	क्या आप अब भी मुझसे प्यार करते हैं?
-Do you study English?	Studierst du Anglistik?	क्या आप अंग्रेजों का अध्ययन कर रहे हैं?
-Do you talk about us?	Redest du über uns?	क्या आप हमारे बारे में बात कर रहे हैं?
-Do you talk about us?	Redet ihr über uns?	क्या आप हमारे बारे में बात कर रहे हैं?
 Do you think I'm fat?	Findest du, dass ich dick bin?	क्या आपको लगता है कि मैं मोटा हूँ?
 Do you think I'm fat?	Findet ihr, dass ich dick bin?	क्या आपको लगता है कि मैं मोटा हूँ?
 Do you think I'm fat?	Finden Sie, dass ich dick bin?	क्या आपको लगता है कि मैं मोटा हूँ?

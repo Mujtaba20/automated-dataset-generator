@@ -30713,3 +30713,10 @@ Do you play baseball?	Spielst du Baseball?	क्या आप बेसबॉ�
 Do you remember that?	Erinnerst du dich daran?	क्या तुम्हें याद है वह?
 Do you remember this?	Erinnerst du dich daran?	क्या तुम्हें याद है यह?
 Do you remember this? - 2	Erinnerst du dich an das?	क्या तुम्हें यह याद है?
+Do you run every day?	Führen Sie jeden Tag aus?	क्या आप हर दिन चलते हो?
+Do you see something?	Siehst du etwas?	क्या आप कुछ देखते हो?
+Do you speak Chinese?	Sprechen Sie Chinesisch?	क्या तुम चीनी बोलती हो?
+Do you still have it?	Hast du es noch?	क्या आपके पास अब भी है?
+Do you still love me?	Liebst du mich noch?	क्या तुम मुझसे अब भी प्यार करते हो?
+Do you study English?	Studierst du Englisch?	क्या तुम अंग्रेजी पढ़ते हो?
+Do you talk about us?	Sprichst du über uns?	क्या तुम हमारे बारे में बात करते हो?
