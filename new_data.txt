@@ -26112,3 +26112,11 @@ I can't go in there.	Ich kann da nicht reingehen.	मैं वहाँ नह�
 I can't go with you.	Ich kann nicht mit dir gehen.	मैं तुम्हारे साथ नहीं जा सकता।
 I can't handle them.	Ich kann sie nicht bewältigen.	मैं उनसे नहीं निपट सकता।
 I can't hear a word.	Ich kann kein Wort hören.	मैं कोई शब्द नहीं सुन सकता।
+I can't help anyone.	Ich kann niemandem helfen.	मैं किसी की मदद नहीं कर सकता।
+I can't help myself.	Ich kann mir nicht selbst helfen.	मैं खुद की मदद नहीं कर सकता।
+I can't identify it.	Ich kann es nicht identifizieren.	मैं इसे पहचान नहीं सकता।
+I can't ignore that.	Ich kann das nicht ignorieren.	मैं उसे नजरअंदाज नहीं कर सकता।
+I can't imagine why.	Ich kann nicht erklären, warum.	मैं सोच नहीं सकता कि क्यों।
+I can't move my leg.	Ich kann mein Bein nicht bewegen.	मैं अपनी टांग नहीं हिला सकता।
+I can't play tennis.	Ich kann kein Tennis spielen.	मैं टेनिस नहीं खेल सकता।
+I can't protect you.	Ich kann dich nicht schützen.	मैं तुम्हें नहीं बचा सकता।

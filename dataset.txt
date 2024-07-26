@@ -1,15 +1,4 @@
 
-I can't help anyone.	Ich kann niemandem helfen.	मैं किसी की मदद नहीं कर सकता।
-I can't help myself.	Ich kann mir nicht selbst helfen.	मैं खुद की मदद नहीं कर सकता।
-I can't identify it.	Ich kann es nicht identifizieren.	मैं इसकी पहचान नहीं कर सकता।
-I can't ignore that.	Ich kann das nicht missachten.	मैं इसकी अवहेलना नहीं कर सकता।
-I can't ignore that.	Ich kann das nicht ignorieren.	मैं इसे अनदेखा नहीं कर सकता।
-I can't imagine why.	Ich kann mir nicht vorstellen, warum.	मैं कल्पना नहीं कर सकता कि क्यों।
-I can't move my leg.	Ich kann mein Bein nicht bewegen.	मैं अपने पैर को स्थानांतरित नहीं कर सकता।
-I can't play tennis.	Ich kann nicht Tennis spielen.	मैं टेनिस नहीं खेल सकता।
-I can't protect you.	Ich kann dich nicht beschützen.	मैं आपकी रक्षा नहीं कर सकता।
-I can't protect you.	Ich kann euch nicht beschützen.	मैं आपकी रक्षा नहीं कर सकता।
-I can't protect you.	Ich kann Sie nicht beschützen.	मैं उनकी रक्षा नहीं कर सकता।
 I can't quite agree.	Ich kann nicht recht zustimmen.	मैं वास्तव में सहमत नहीं हो सकता।
 I can't read French.	Ich kann kein Französisch lesen.	मैं फ्रेंच नहीं पढ़ सकता।
 I can't save anyone.	Ich kann niemanden retten.	मैं किसी को नहीं बचा सकता।
