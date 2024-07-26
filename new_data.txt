@@ -25309,3 +25309,10 @@ Disconnect the plug.	Ziehen Sie den Stecker ab.	प्लग को खींच
 Did you tell on Tom? - Different Meaning	Hast du Tom informiert?	क्या तुमने टॉम को सूचित किया?
 Did you yell at Tom? - Different Meaning	Hast du Tom angebrüllt?	क्या तुमने टॉम पर चिल्लाया?
 Didn't you know Tom? - Different Meaning	Hast du Tom nicht erkannt?	क्या तुम्हें टॉम को पहचाना नहीं था?
+Divide this in half.	Teilen Sie dies in zwei Hälften.	इसे आधे में बाँटें।
+Do I curse too much?	Fluche ich zu viel?	क्या मैं ज्यादा शाप देता हूँ?
+Do I detect sarcasm?	Erkenne ich Sarkasmus?	क्या मुझे ताना मिल रहा है?
+Do I have to go now?	Muss ich jetzt gehen?	क्या मुझे अब जाना है?
+Do as you think fit.	Tue, was du für richtig hältst.	जैसा तुम्हें ठीक लगे करो।
+Do exactly as I say.	Tue genau, was ich sage.	बिल्कुल वैसा करो जैसा मैं कहूँ।
+Do fish drink water?	Trinken Fische Wasser?	क्या मछलियाँ पानी पीती हैं?

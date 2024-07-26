@@ -1,15 +1,4 @@
 
-Divide this in half.	Teile dies in zwei Hälften!	इसे दो हिस्सों में साझा करें!
-Do I curse too much?	Fluche ich zu viel?	क्या मैं बहुत अधिक शाप देता हूं?
-Do I detect sarcasm?	Höre ich da Sarkasmus?	क्या मैं व्यंग्य सुनता हूं?
-Do I detect sarcasm?	Höre ich da Sarkasmus raus?	क्या मैं उसमें से व्यंग्य सुनता हूं?
-Do I detect sarcasm?	Vernehme ich da Sarkasmus?	क्या मैं व्यंग्य सुनता हूं?
-Do I have to go now?	Muss ich nun gehen?	क्या मुझे अब जाना है?
-Do as you think fit.	Tu, was du für richtig hältst!	जो आपको लगता है कि सही है!
-Do exactly as I say.	Tun Sie genau, was ich Ihnen sage.	ठीक वही करें जो मैं आपको बताता हूं।
-Do exactly as I say.	Tu genau, was ich sage.	मैं वही कहता हूं जो मैं कहता हूं।
-Do fish drink water?	Trinken Fische Wasser?	मछली का पानी पीना?
-Do fish drink water?	Saufen die Fische das Wasser?	क्या मछली पानी पीती है?
 Do it while you can.	Tu es, solange du noch kannst!	जब तक आप कर सकते हैं तब तक करें!
 Do snakes scare you?	Machen dir Schlangen Angst?	क्या सांपों ने आपको डरा दिया?
 Do snakes scare you?	Machen Schlangen dir Angst?	क्या सांपों ने आपको डरा दिया?
