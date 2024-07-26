@@ -39723,3 +39723,11 @@ This game was put off.	Dieses Spiel wurde verschoben.	यह खेल टाल
 This gift is from Tom.	Dieses Geschenk ist von Tom.	यह उपहार टॉम से है।
 This is Tom's bicycle.	Das ist Toms Fahrrad.	यह टॉम का साइकिल है।
 This is a Chinese fan.	Das ist ein chinesischer Fächer.	यह एक चीनी पंखा है।
+This is a company car.	Das ist ein Firmenwagen.	यह एक कंपनी कार है।
+This is a crazy world.	Das ist eine verrückte Welt.	यह एक पागल दुनिया है।
+This is a free sample.	Das ist ein kostenloses Muster.	यह एक मुफ्त नमूना है।
+This is a good system.	Das ist ein gutes System.	यह एक अच्छा सिस्टम है।
+This is a joke, right?	Ist das ein Witz, oder?	यह मजाक है, ना?
+This is a large house.	Das ist ein großes Haus.	यह एक बड़ा घर है।
+This is a stupid idea.	Das ist eine dumme Idee.	यह एक मूर्ख विचार है।
+This is a wooden comb.	Das ist ein Holzkamm.	यह एक लकड़ी का कंघा है।

@@ -1,14 +1,4 @@
 
-This is a company car.	Das ist ein Geschäftsauto.	यह एक व्यावसायिक कार है।
-This is a company car.	Das ist ein Firmenwagen.	यह एक कंपनी की कार है।
-This is a crazy world.	Das ist eine verrückte Welt.	यह एक पागल दुनिया है।
-This is a free sample.	Das ist ein freies Muster.	यह एक मुफ्त पैटर्न है।
-This is a good system.	Das ist ein gutes System.	यह एक अच्छी प्रणाली है।
-This is a joke, right?	Das ist ein Scherz, richtig?	यह एक मज़ाक है, मैंने ठीक कहा न?
-This is a large house.	Dies ist ein großes Haus.	यह एक बड़ा घर है।
-This is a large house.	Das ist ein großes Haus.	यह एक बड़ा घर है।
-This is a stupid idea.	Das ist eine blöde Idee.	यह एक मूर्खतापूर्ण विचार है।
-This is a wooden comb.	Dies ist ein Holzkamm.	यह एक लकड़ी का रिज है।
 This is a yellow rose.	Dies ist eine gelbe Rose.	यह एक पीला गुलाब है।
 This is all our fault.	Das ist alles unsere Schuld.	यह सब हमारी गलती है।
 This is an apple tree.	Dies ist ein Apfelbaum.	यह एक सेब का पेड़ है।
