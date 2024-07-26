@@ -33043,3 +33043,11 @@ Mary has pretty eyes.	Mary hat schöne Augen.	मैरी के सुंद�
 Mary hugged her doll.	Mary umarmte ihre Puppe.	मैरी ने अपनी गुड़िया से गले लगाई।
 Mary is Tom's cousin.	Mary ist die Cousine von Tom.	मैरी टॉम की चचेरी बहन है।
 Mary is Tom's mother.	Mary ist Toms Mutter.	मेरी टॉम की मां है।
+Mary is Tom's sister.	Maria ist Toms Schwester.	मेरी टॉम की बहन है।
+Mary is a party girl.	Maria ist eine Partymaus.	मेरी एक पार्टी लड़की है।
+Mary is a single mom.	Maria ist eine alleinerziehende Mutter.	मेरी एक एकल माँ है।
+Mary is a soccer mom.	Maria ist eine Fußballmutter.	मेरी एक सॉकर माँ है।
+Mary is kind of cute.	Maria ist irgendwie niedlich.	मेरी काफी प्यारी है।
+Mary is unattractive.	Maria ist unattraktiv.	मेरी अकर्षक नहीं है।
+Mary isn't my sister.	Maria ist nicht meine Schwester.	मेरी मेरी बहन नहीं है।
+Mary knit this scarf.	Maria hat diesen Schal gestrickt.	मेरी ने यह मफलर बुना था।

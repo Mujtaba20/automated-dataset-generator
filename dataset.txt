@@ -1,14 +1,4 @@
 
-Mary is Tom's sister.	Mary ist Toms Schwester.	मैरी टॉम की बहन है।
-Mary is Tom's sister.	Maria ist die Schwester von Tom.	मारिया टॉम की बहन है।
-Mary is Tom's sister.	Mary ist die Schwester von Tom.	मैरी टॉम की बहन है।
-Mary is a party girl.	Maria ist eine Fetengängerin.	मारिया एक पैर है।
-Mary is a single mom.	Mary ist eine alleinerziehende Mutter.	मैरी एक एकल माँ है।
-Mary is a soccer mom.	Maria ist als Mutter fast ausschließlich damit beschäftigt, ihre Kinder zu irgendwelchen Veranstaltungen zu kutschieren.	एक माँ के रूप में, मारिया अपने बच्चों को किसी भी घटना में स्थानांतरित करने के लिए लगभग विशेष रूप से व्यस्त है।
-Mary is kind of cute.	Maria ist irgendwie süß.	मारिया एक तरह से प्यारा है।
-Mary is unattractive.	Maria ist unattraktiv.	मारिया अनाकर्षक है।
-Mary isn't my sister.	Maria ist nicht meine Schwester.	मारिया मेरी बहन नहीं है।
-Mary knit this scarf.	Maria hat diesen Schal gestrickt.	मारिया ने इस स्कार्फ को बुना।
 Mary knitted a scarf.	Maria strickte einen Schal.	मारिया ने एक दुपट्टा बुना।
 Mary lost an earring.	Maria verlor einen Ohrring.	मारिया ने एक बाली खो दी।
 Mary lost an earring.	Maria hat einen Ohrring verloren.	मारिया ने एक बाली खो दी है।
