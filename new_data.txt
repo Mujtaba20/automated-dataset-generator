@@ -27998,3 +27998,8 @@ Stop messing around. - different meaning	Hör auf, herumzupfuschen.	बेहल
 Stop picking on Tom.	Hör auf, Tom zu ärgern.	टॉम पर तंग ना करो।
 Stop playing around.	Hör auf herumzuspielen.	बिना काम के फुरसत मत लो।
 Stop that right now.	Hör sofort damit auf.	अभी वो बंद करो।
+Stop, or I'll shoot.	Halt, oder ich schieße.	रुको, या मैं गोली मार दूँगा।
+Take Tom for a swim.	Nimm Tom mit zum Schwimmen.	टॉम को तैरने ले जाओ।
+Take a look at that.	Schau dir das an.	उस पर एक नजर डालो।
+Take a look at this.	Schau dir das hier an.	इस पर एक नजर डालो।
+Take a seat, please.	Nehmen Sie Platz, bitte.	कृपया बैठिए।
