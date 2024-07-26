@@ -30495,3 +30495,9 @@ Can we hurry this up?	Können wir das beschleunigen?	क्या हम इस�
 Can you at least try?	Kannst du es zumindest versuchen?	क्या आप कम से कम प्रयास कर सकते हैं?
 Can you believe that?	Können Sie das glauben?	क्या आप विश्वास कर सकते हैं?
 Can you come at nine?	Kannst du um neun kommen?	क्या तुम नौ बजे आ सकते हो?
+Can you confirm that?	Können Sie das bestätigen?	क्या आप वह पुष्टि कर सकते हैं?
+Can you deliver that?	Können Sie das liefern?	क्या आप वह वितरित कर सकते हैं?
+Can you do that here?	Kannst du das hier machen?	क्या आप यहाँ वह कर सकते हैं?
+Can you explain that?	Können Sie das erklären?	क्या आप वह समझा सकते हैं?
+Can you deliver that? - different meaning	Kannst du das übergeben?	क्या आप वह पहुंचा सकते हैं?
+Can you explain that? - different meaning	Kannst du das deutlich machen?	क्या आप उसकी स्पष्टता कर सकते हैं?
