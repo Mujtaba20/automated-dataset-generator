@@ -26846,3 +26846,12 @@ I will not help you.	Ich werde dir nicht helfen.	मैं तुम्हें
 I will see you home.	Ich werde dich nach Hause bringen.	मैं तुम्हें घर देख कर आऊँगा।
 I will stay at home.	Ich werde zu Hause bleiben.	मैं घर पर रहूंगा।
 I will study German.	Ich werde Deutsch lernen.	मैं जर्मन पढ़ूँगा।
+I will wait outside.	Ich werde draußen warten.	मैं बाहर इंतजार करूँगा।
+I wish I could help.	Ich wünschte, ich könnte helfen.	मुझे आशा है कि मैं मदद कर सकूँ।
+I wish I could swim.	Ich wünschte, ich könnte schwimmen.	मैं चाहता हूं कि मैं तैर सकूँ।
+I wish I understood.	Ich wünschte, ich würde verstehen.	मैं चाहता हूं कि मैं समझता।
+I wish I was faster.	Ich wünschte, ich wäre schneller.	मैं चाहता हूँ कि मैं तेज़ होता।
+I wish I were there.	Ich wünschte, ich wäre dort.	मैं चाहता हूं कि मैं वहां होता।
+I wish I were wrong.	Ich wünschte, ich hätte Unrecht.	मैं चाहता हूं कि मेरा गलत हो।
+I wish I were young.	Ich wünschte, ich wäre jung.	मुझे आशा है कि मैं जवान होता।
+I wish Tom was here.	Ich wünschte, Tom wäre hier.	मुझे आशा है कि टॉम यहाँ होता।

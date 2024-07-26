@@ -1,15 +1,4 @@
 
-I will wait outside.	Ich warte draußen.	मैं बाहर इंतजार कर रहा हूं।
-I wish I could help.	Ich wünschte, ich könnte helfen.	काश मैं आपकी मदद कर पाता।
-I wish I could help.	Ich wollte, ich könnte helfen.	मैं मदद करना चाहता था।
-I wish I could swim.	Ich wünschte, ich könnte schwimmen.	काश मैं तैर सकता।
-I wish I understood.	Schön wär’s, wenn ich’s kapierte.	अगर मुझे मिल गया तो यह अच्छा होगा।
-I wish I was faster.	Schön wär’s, wenn ich schneller wäre.	अगर मैं तेज होता तो अच्छा होता।
-I wish I were there.	Schön wär’s, wenn ich dort wäre.	अगर मैं वहां होता तो अच्छा होता।
-I wish I were wrong.	Schön wär’s, wenn ich Unrecht hätte.	अगर मैं गलत होता तो अच्छा होता।
-I wish I were young.	Ich wünschte, ich wäre jung.	काश मैं युवा होता।
-I wish Tom was here.	Ich wünschte, Tom wäre hier.	काश टॉम यहाँ होता।
-I wish Tom was here.	Ich wollte, Tom wäre hier.	मैं चाहता था कि टॉम यहां थे।
 I wish he were here.	Ich wünschte, er wäre hier.	काश वह यहाँ होता।
 I wish he were here.	Schön wär’s, wenn er hier wäre.	यह अच्छा होता अगर वह यहां होता।
 I wish it were true.	Schön wär’s, wenn es wahr wäre.	यह अच्छा होता अगर यह सच होता।
