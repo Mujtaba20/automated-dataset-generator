@@ -38127,3 +38127,8 @@ I'll give that to you.	Ich werde das dir geben.	मैं तुम्हे व
 I'll give this to Tom.	Ich werde das Tom geben.	मैं इसे तोम को दूंगा।
 I'll go get the broom.	Ich werde den Besen holen.	मैं झाड़ू लेआऊंगा।
 I'll have to warn Tom.	Ich werde Tom warnen müssen.	मुझे तोम को चेतावनी देनी होगी।
+I'll love you forever.	Ich werde dich für immer lieben.	मैं हमेशा तुम्हें प्यार करूंगा।
+I'll make some coffee.	Ich werde etwas Kaffee machen.	मैं कुछ कॉफ़ी बनाऊंगा।
+I'll make you a drink.	Ich werde dir ein Getränk machen.	मैं तुम्हें एक पेय पिलाऊंगा।
+I'll miss you so much.	Ich werde dich so sehr vermissen.	मुझे तुम्हारी बहुत याद आएगी।
+I'll never forget you.	Ich werde dich nie vergessen.	मैं तुम्हें कभी नहीं भूलूंगा।

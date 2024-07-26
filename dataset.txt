@@ -1,14 +1,4 @@
 
-I'll love you forever.	Ich werde dich immer lieben.	मुझे हमेशा तुमसे प्यार रहेगा।
-I'll make some coffee.	Ich mache etwas Kaffee.	मैं कुछ कॉफी बनाता हूं।
-I'll make you a drink.	Ich mache dir etwas zu trinken.	मैं तुम्हारे साथ कुछ करूँगा।
-I'll make you a drink.	Ich mache euch etwas zu trinken.	मैं आपके साथ कुछ करता हूं।
-I'll make you a drink.	Ich mache Ihnen etwas zu trinken.	मैं आपके साथ कुछ करता हूं।
-I'll miss you so much.	Ich werde dich so sehr vermissen.	मुझे आपकी बहुत याद आएगी।
-I'll miss you so much.	Du wirst mir so sehr fehlen.	मुझे बहुत याद आ रहा है।
-I'll miss you so much.	Sie werden mir so sehr fehlen.	मुझे बहुत याद आ रहा है।
-I'll miss you so much.	Ihr werdet mir so sehr fehlen.	मुझे बहुत याद आ रहा है।
-I'll never forget you.	Ich werde dich niemals vergessen.	आप मुझे हमेशा याद रहेंगे।
 I'll only be a minute.	Ich brauche nur eine Minute.	मुझे केवल एक मिनट की जरूरत है।
 I'll only be a second.	Ich brauche nur eine Sekunde.	मुझे केवल एक सेकंड की जरूरत है।
 I'll pick him up at 5.	Ich werde ihn um fünf abholen.	मैं उसे पांच बजे उठाऊंगा।
