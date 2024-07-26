@@ -1,14 +1,4 @@
 
-Do I owe you something?	Schulde ich dir etwas?	क्या मैं आपको कुछ देना चाहता हूं?
-Do I owe you something?	Bin ich dir etwas schuldig?	क्या मैं आपको कुछ देना चाहता हूं?
-Do I owe you something?	Schulde ich Ihnen etwas?	क्या मैं आपको कुछ देना चाहता हूं?
-Do I owe you something?	Bin ich Ihnen etwas schuldig?	क्या मैं आपको कुछ करने का दोषी हूं?
-Do I owe you something?	Schulde ich euch etwas?	क्या मैं आपको कुछ देना चाहता हूं?
-Do I owe you something?	Bin ich euch etwas schuldig?	क्या मैं आपको कुछ देना चाहता हूं?
-Do alligators lay eggs?	Legen Alligatoren Eier?	क्या मगरमच्छ अंडे देते हैं?
-Do any of you know Tom?	Kennt jemand von euch Tom?	क्या आप में से कोई भी टॉम को जानता है?
-Do any of you know Tom?	Kennt jemand von Ihnen Tom?	क्या आप में से कोई भी टॉम को जानता है?
-Do ghosts really exist?	Gibt es wirklich Geister?	क्या वास्तव में भूत हैं?
 Do one thing at a time.	Mache nur eine Sache zur Zeit.	फिलहाल केवल एक ही काम करो।
 Do one thing at a time.	Mache nicht mehrere Dinge gleichzeitig.	एक ही समय में कई चीजें न करें।
 Do we have any ketchup?	Haben wir noch etwas Ketchup?	क्या हमारे पास अभी भी कुछ केचप है?
