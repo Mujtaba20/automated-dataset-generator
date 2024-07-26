@@ -1,15 +1,4 @@
 
-Bring me the newspaper.	Bring mir die Zeitung.	मुझे अखबार ले आओ।
-Bring me today's paper.	Bring mir die Zeitung von heute.	मुझे आज का अखबार ले आओ।
-Bring the bill, please.	Bringen Sie bitte die Rechnung.	कृपया बिल लाओ।
-Business is looking up.	Das Geschäft läuft wieder.	व्यवसाय फिर से चलता है।
-Butterflies are pretty.	Schmetterlinge sind schön.	तितलियाँ सुंदर हैं।
-Buy a book and read it.	Kaufe ein Buch und lies es!	एक किताब खरीदें और इसे पढ़ें!
-Buy the dress you want.	Kauf das Kleid, das du willst.	अपनी इच्छानुसार पोशाक खरीदें।
-Call me at this number.	Ruf mich unter dieser Nummer an.	मुझे इस नंबर के तहत कॉल करें।
-Call me at this number.	Rufen Sie mich unter dieser Nummer an.	मुझे इस नंबर के तहत कॉल करें।
-Call me when it's done.	Ruf mich, wenn es erledigt ist.	जब यह किया जाता है तो मुझे बुलाओ।
-Call me when it's done.	Ruf mich an, wenn es erledigt ist.	जब यह किया जाता है तो मुझे बुलाओ।
 Call them this evening.	Ruf sie heute Abend an.	आज रात उन्हें बुलाओ।
 Call them this evening.	Ruft sie heute Abend an.	वह आज शाम को फोन करती है।
 Call them this evening.	Rufen Sie sie heute Abend an.	आज रात उन्हें बुलाओ।
