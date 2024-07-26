@@ -1,17 +1,4 @@
 
-Why don't you do that?	Warum tust du das nicht?	आप ऐसा क्यों नहीं करते?
-Why don't you drop in?	Komm doch mal vorbei!	कुछ समय तक आओ!
-Why don't you drop in?	Kommt doch mal vorbei!	मिलने आना!
-Why don't you drop in?	Kommen Sie doch mal vorbei!	आओ और हम से मुलाकात करो!
-Why don't you get one?	Warum bekommst du keines?	आपको कोई क्यों नहीं मिला?
-Why don't you get one?	Warum bekommst du keinen?	आपको कोई क्यों नहीं मिला?
-Why don't you get one?	Warum bekommst du keins?	आपको कोई क्यों नहीं मिला?
-Why don't you get one?	Warum bekommen Sie keinen?	आपको कोई क्यों नहीं मिला?
-Why don't you get one?	Warum bekommen Sie keine?	आपको क्यों नहीं मिला?
-Why don't you get one?	Warum bekommen Sie keins?	आपको कोई क्यों नहीं मिला?
-Why don't you get one?	Warum bekommt ihr keins?	आपको कोई क्यों नहीं मिलता?
-Why don't you get one?	Warum bekommt ihr keinen?	आपको कोई क्यों नहीं मिला?
-Why don't you get one?	Warum bekommt ihr keine?	आपको कोई क्यों नहीं मिला?
 Why don't you give up?	Warum gibst du nicht auf?	आप हार क्यों नहीं मानते?
 Why don't you go home?	Warum gehst du nicht nach Hause?	आप घर क्यों नहीं जाते?
 Why don't you grow up?	Warum wirst du nicht endlich erwachsen?	आप आखिरकार क्यों नहीं बढ़ते?
