@@ -22716,3 +22716,13 @@ She is a poor cook. 2	Sie kann nicht gut kochen.	उसका पकाने �
 She is a sorceress.	Sie ist eine Hexe.	वह एक जादूगर्नी है।
 She is always busy.	Sie ist immer beschäftigt.	वह हमेशा व्यस्त रहती है।
 She is an American.	Sie ist eine Amerikanerin.	वह एक अमेरिकी है।
+She is from France.	Sie kommt aus Frankreich.	वह फ्रांस से है।
+She is helping him.	Sie hilft ihm.	वह उसकी मदद कर रही है।
+She is kind to him.	Sie ist nett zu ihm.	वह उसके प्रति दयालु है।
+She is kind to him. - alternate meaning	Sie zeigt ihm Freundlichkeit.	वह उसके साथ मेहरबान है।
+She is kissing him.	Sie küsst ihn.	वह उसे चुंबन दे रही है।
+She is over twenty.	Sie ist über zwanzig.	वह बीस से अधिक की है।
+She is pigeon-toed.	Sie ist nach innen gedreht.	उसकी पैरें अंदर की और मुड़ी हुई हैं।
+She is quite angry.	Sie ist ziemlich wütend.	वह काफी गुस्से में है।
+She is resting now.	Sie ruht sich jetzt aus.	वह अब आराम कर रही है।
+She is unconscious.	Sie ist bewusstlos.	वह बेहोश है।

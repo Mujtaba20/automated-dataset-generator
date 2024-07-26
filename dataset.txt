@@ -1,15 +1,4 @@
 
-She is from France.	Sie stammt aus Frankreich.	यह फ्रांस से आता है।
-She is helping him.	Sie hilft ihm.	वह उसकी मदद करती है।
-She is kind to him.	Sie ist freundlich zu ihm.	वह उसके अनुकूल है।
-She is kind to him.	Sie ist nett zu ihm.	वह उसके लिए अच्छा है।
-She is kissing him.	Sie küsst ihn.	वह उसे चूमती है।
-She is over twenty.	Sie ist über zwanzig.	यह बीस से अधिक है।
-She is pigeon-toed.	Sie geht über den großen Onkel.	वह बड़े चाचा के ऊपर जाती है।
-She is quite angry.	Sie ist ziemlich sauer.	यह बहुत अम्लीय है।
-She is resting now.	Sie ruht sich jetzt aus.	वह अब आराम कर रही है।
-She is unconscious.	Sie ist bewusstlos.	उसे पास कर दिया गया।
-She is unconscious.	Sie ist ohnmächtig.	यह पारित हो गया है।
 She is very bright.	Sie ist sehr schlau.	वह बहुत स्मार्ट है।
 She is very pretty.	Sie ist sehr hübsch.	वह बहुत सुन्दर है।
 She isn't here now.	Sie ist momentan nicht hier.	यह इस समय यहां नहीं है।
