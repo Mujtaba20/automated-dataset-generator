@@ -30340,3 +30340,9 @@ You've got problems.	Du hast Probleme.	तुम्हारी परेशा�
 You've got the idea.	Du hast die Idee.	तुम्हें विचार है।
 You've had your fun.	Du hattest deinen Spaß.	तुम्हारा मज़ा आ गया।
 You've hurt me, too.	Du hast mich auch verletzt.	तुमने मुझे भी चोट पहुंचाई है।
+You've made Tom cry.	Du hast Tom zum Weinen gebracht.	आपने टॉम को रोने पर मजबूर किया है।
+Your French is good.	Dein Französisch ist gut.	तुम्हारा फ्रेंच अच्छा है।
+Your coffee's ready.	Dein Kaffee ist fertig.	तुम्हारा कॉफ़ी तैयार है।
+Your father is tall.	Dein Vater ist groß.	तुम्हारे पिताजी लंबे हैं।
+Your feet are dirty.	Deine Füße sind schmutzig.	तुम्हारे पैर गंदे हैं।
+You've made Tom cry. (different meaning)	Sie haben Tom zum Weinen gebracht.	आपने टोम को रुलाया है।

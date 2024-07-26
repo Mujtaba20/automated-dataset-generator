@@ -1,15 +1,4 @@
 
-You've made Tom cry.	Du hast Tom zum Weinen gebracht.	आपने टॉम को रोया।
-You've made Tom cry.	Sie haben Tom zum Weinen gebracht.	आपने टॉम को रोया।
-You've made Tom cry.	Ihr habt Tom zum Weinen gebracht.	आपने टॉम को रोया।
-Your French is good.	Dein Französisch ist gut.	आपका फ्रेंच अच्छा है।
-Your coffee's ready.	Dein Kaffee ist fertig.	आपकी कॉफी तैयार है।
-Your father is tall.	Dein Vater ist groß.	आपके पिता बड़े हैं।
-Your father is tall.	Ihr Vater ist groß.	आपके पिता बड़े हैं।
-Your father is tall.	Euer Vater ist groß.	आपके पिता बड़े हैं।
-Your feet are dirty.	Deine Füße sind schmutzig.	आपके पैर गंदे हैं।
-Your feet are dirty.	Eure Füße sind schmutzig.	आपके पैर गंदे हैं।
-Your feet are dirty.	Ihre Füße sind schmutzig.	आपके पैर गंदे हैं।
 Your friend is here.	Dein Freund ist hier.	आपका दोस्त यहाँ है।
 Your hands are cold.	Deine Hände sind kalt.	आपके हाथ ठंडे हैं।
 Your hands are cold.	Du hast kalte Hände.	आपके ठंडे हाथ हैं।
