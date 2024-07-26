@@ -39159,3 +39159,10 @@ She wanted me to come.	Sie wollte, dass ich komme.	उसे चाहिए थ
 She wants to kiss him.	Sie will ihn küssen.	उसे उसे चुमना चाहिए।
 She was baptized Mary.	Sie wurde als Maria getauft.	उसका नाम मेरी था।
 She was fully clothed.	Sie war vollständig bekleidet.	उसने पूरी तरह से कपड़े पहन रखे थे।
+She was kissed by him.	Sie wurde von ihm geküsst.	उसने उससे चुम्मा लिया।
+She watched him dance.	Sie sah ihm beim Tanzen zu.	उसने उसे नृत्य करते हुए देखा।
+She weeded the garden.	Sie entfernte das Unkraut aus dem Garten.	उसने बगीचे के शाखाएं छाँटी।
+She weighs 120 pounds.	Sie hat ein Gewicht von 120 Pfund.	उसने 120 पौंड का वजन लिया।
+She went to bed early.	Sie ging früh ins Bett.	उसने जल्दी सोने का फैसला किया।
+She wept with emotion.	Sie weinte vor Gefühlen.	उसने भावनाओं के साथ रोते हुए देखा।
+She wore a pretty hat.	Sie hatte einen hübschen Hut auf.	उसने एक खूबसूरत टोपी पहनी थी।
