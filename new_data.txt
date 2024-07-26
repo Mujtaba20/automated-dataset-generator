@@ -36253,3 +36253,12 @@ Dance with me, please.	Tanzen Sie bitte mit mir.	कृपया मेरे �
 Dancing is prohibited.	Das Tanzen ist verboten.	नृत्य प्रतिषिद्ध है।
 Did I really say that?	Habe ich das wirklich gesagt?	क्या मैंने वास्तव में यह कहा था?
 Did Tom ever hurt you?	Hat dich Tom jemals verletzt?	क्या टॉम ने कभी तुम्हें चोट पहुंचाई है?
+Did Tom forget to pay?	Hat Tom vergessen zu bezahlen?	क्या टॉम भुल गया भुगतान करना?
+Did Tom get any gifts?	Bekam Tom irgendwelche Geschenke?	क्या टॉम को कोई उपहार मिला?
+Did Tom give you that?	Hat Tom dir das gegeben?	क्या टॉम ने तुम्हें यह दिया?
+Did Tom go to college?	Ist Tom zur Uni gegangen?	क्या टॉम कॉलेज गया था?
+Did Tom have any help?	Hatte Tom Hilfe?	क्या टॉम कोई मदद लेता?
+Did Tom listen to you?	Hat Tom dir zugehört?	क्या टॉम ने तुम्हें सुना?
+Did Tom open the door?	Hat Tom die Tür geöffnet?	क्या टॉम ने दरवाज़ा खोला?
+Did Tom say something?	Hat Tom etwas gesagt?	क्या टॉमने कुछ कहा?
+Did Tom say anything?	Hat Tom irgendetwas gesagt?	क्या टॉमने कुछ कहा?

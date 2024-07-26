@@ -1,14 +1,4 @@
 
-Did Tom forget to pay?	Hat Tom vergessen zu bezahlen?	क्या टॉम भुगतान करना भूल गया?
-Did Tom get any gifts?	Hat Tom irgendwelche Geschenke bekommen?	क्या टॉम को कोई उपहार मिला?
-Did Tom give you that?	Hat Tom dir das gegeben?	क्या टॉम ने आपको वह दिया?
-Did Tom go to college?	Hat Tom studiert?	क्या टॉम ने अध्ययन किया?
-Did Tom have any help?	Hatte Tom Hilfe?	क्या टॉम को मदद मिली?
-Did Tom listen to you?	Hat Tom dir zugehört?	क्या टॉम ने आपकी बात सुनी?
-Did Tom listen to you?	Hat Tom euch zugehört?	क्या टॉम ने आपकी बात सुनी?
-Did Tom listen to you?	Hat Tom Ihnen zugehört?	क्या टॉम ने आपकी बात सुनी?
-Did Tom open the door?	Hat Tom die Tür geöffnet?	क्या टॉम ने दरवाजा खोला है?
-Did Tom say something?	Hat Tom irgendwas gesagt?	क्या टॉम ने कुछ कहा?
 Did Tom talk about it?	Hat Tom etwas darüber gesagt?	क्या टॉम ने इसके बारे में कुछ कहा?
 Did Tom tell you that?	Hat Tom Ihnen das gesagt?	क्या टॉम ने आपको बताया कि?
 Did Tom tell you that?	Hat Tom euch das gesagt?	क्या टॉम ने आपको बताया कि?
