@@ -1,14 +1,4 @@
 
-Tom is unstoppable.	Tom ist nicht aufzuhalten.	टॉम को रोका नहीं जा सकता।
-Tom is very active.	Tom ist sehr aktiv.	टॉम बहुत सक्रिय है।
-Tom is very afraid.	Tom hat große Angst.	टॉम बहुत डरा हुआ है।
-Tom is very afraid.	Tom macht sich in die Hose.	टॉम अपनी पैंट में बदल जाता है।
-Tom is very biased.	Tom ist sehr voreingenommen.	टॉम बहुत पक्षपाती है।
-Tom is very choosy.	Tom ist sehr wählerisch.	टॉम बहुत पिकी है।
-Tom is very clever.	Tom ist sehr klug.	टॉम बहुत स्मार्ट है।
-Tom is very frugal.	Er ist sehr sparsam.	यह बहुत किफायती है।
-Tom is very honest.	Tom ist sehr ehrlich.	टॉम बहुत ईमानदार है।
-Tom is very humble.	Tom ist sehr bescheiden.	टॉम बहुत मामूली है।
 Tom is very hungry.	Tom hat großen Hunger.	टॉम भूखा है।
 Tom is very hungry.	Tom ist sehr hungrig.	टॉम बहुत भूखा है।
 Tom is very lonely.	Tom ist sehr einsam.	टॉम बहुत अकेला है।

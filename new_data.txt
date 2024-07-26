@@ -23739,3 +23739,12 @@ Tom is thickheaded.	Tom ist dickköpfig.	टॉम अड़बड़ है।
 Tom is throwing up.	Tom erbricht.	टॉम उल्टी कर रहा है।
 Tom is trustworthy.	Tom ist zuverlässig.	टॉम भरोसेमंद है।
 Tom is unambitious.	Tom ist anspruchslos.	टॉम अम्बिशस नहीं है।
+Tom is unstoppable.	Tom ist unaufhaltsam.	टॉम रोका नहीं जा सकता।
+Tom is very active.	Tom ist sehr aktiv.	टॉम बहुत गतिशील है।
+Tom is very afraid.	Tom hat sehr Angst.	टॉम बहुत डरा हुआ है।
+Tom is very biased.	Tom ist sehr voreingenommen.	टॉम बहुत पक्षपाती है।
+Tom is very choosy.	Tom ist sehr wählerisch.	टॉम बहुत चुनौतीपूर्वक चुनता है।
+Tom is very clever.	Tom ist sehr schlau.	टॉम बहुत चालाक है।
+Tom is very frugal.	Tom ist sehr sparsam.	टॉम बहुत किफ़ायती है।
+Tom is very honest.	Tom ist sehr ehrlich.	टॉम बहुत ईमानदार है।
+Tom is very humble.	Tom ist sehr bescheiden.	टॉम बहुत विनम्र है।
