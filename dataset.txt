@@ -1,15 +1,4 @@
 
-You look very nervous.	Du siehst ziemlich nervös aus.	आप बहुत घबराए हुए हैं।
-You look very pleased.	Du siehst sehr erfreut aus.	आप बहुत प्रसन्न दिखते हैं।
-You look worried, too.	Du siehst auch besorgt aus.	आप भी चिंतित दिखते हैं।
-You look worried, too.	Ihr seht auch besorgt aus.	आप भी चिंतित दिखते हैं।
-You look worried, too.	Sie sehen auch besorgt aus.	वे भी चिंतित दिखते हैं।
-You looked quite busy.	Du sahst ziemlich beschäftigt aus.	आप बहुत व्यस्त लग रहे थे।
-You made it look easy.	Bei dir hat es leicht ausgesehen.	यह आपके लिए आसान लग रहा था।
-You make it look easy.	Bei dir sieht es einfach aus.	यह सिर्फ आपके साथ दिखता है।
-You make me feel safe.	Bei dir fühle ich mich geborgen.	मुझे तुम्हारे साथ सुरक्षित महसूस होता है।
-You make me feel safe.	Bei dir fühle ich mich sicher.	मुझे तुम्हारे साथ सुरक्षित महसूस होता है।
-You make me feel safe.	Du gibst mir ein Gefühl der Sicherheit.	आप मुझे सुरक्षा की भावना देते हैं।
 You may borrow my car.	Du darfst dir meinen Wagen leihen.	आप मेरी कार उधार ले सकते हैं।
 You may borrow my car.	Sie dürfen sich meinen Wagen leihen.	आप मेरी कार उधार ले सकते हैं।
 You may borrow my car.	Ihr dürft euch meinen Wagen leihen.	आप मेरी कार उधार ले सकते हैं।
