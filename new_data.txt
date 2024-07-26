@@ -31584,3 +31584,11 @@ I don't have enemies.	Ich habe keine Feinde.	मेरे दुश्मन न
 I don't hold grudges.	Ich hege keine Groll.	मैं कोई अपराध नहीं रखता।
 I don't know English.	Ich kenne kein Englisch.	मुझे अंग्रेजी नहीं आती।
 I don't know exactly.	Ich weiß nicht genau.	मुझे सटीक जानकारी नहीं है।
+I don't know the way.	Ich kenne den Weg nicht.	मुझे रास्ता नहीं पता।
+I don't like English.	Ich mag kein Englisch.	मुझे अंग्रेजी पसंद नहीं है।
+I don't like arguing.	Ich mag kein Streiten.	मुझे झगड़ा पसंद नहीं है।
+I don't like cookies.	Ich mag keine Kekse.	मुझे कुकीज़ पसंद नहीं हैं।
+I don't like cooking.	Ich koche nicht gern.	मुझे पकाना पसंद नहीं है।
+I don't like doctors.	Ich mag keine Ärzte.	मुझे डॉक्टर्स पसंद नहीं हैं।
+I don't like her hat.	Ich mag ihren Hut nicht.	मुझे उसकी टोपी पसंद नहीं है।
+I don't like it here.	Mir gefällt es hier nicht.	मुझे यहाँ पसंद नहीं है।

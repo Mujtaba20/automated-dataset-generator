@@ -1,14 +1,4 @@
 
-I don't know the way.	Ich kenne den Weg nicht.	मैं रास्ता नहीं जानता।
-I don't like English.	Ich mag Englisch nicht.	मुझे अंग्रेजी पसंद नहीं है।
-I don't like arguing.	Ich streite nicht gern.	मुझे बहस करना पसंद नहीं है।
-I don't like cookies.	Ich mag Kekse nicht.	मुझे कुकीज़ पसंद नहीं है।
-I don't like cooking.	Ich koche nicht gerne.	मुझे खाना बनाना पसंद नहीं है।
-I don't like cooking.	Ich koche nicht gern.	मुझे खाना पकाना पसंद नहीं।
-I don't like doctors.	Ich mag keine Ärzte.	मुझे डॉक्टर पसंद नहीं हैं।
-I don't like doctors.	Ärzte sind mir nicht geheuer.	डॉक्टर मेरे लिए सहज नहीं हैं।
-I don't like her hat.	Ich mag ihren Hut nicht.	मुझे उसकी टोपी पसंद नहीं है।
-I don't like it here.	Ich mag es hier nicht.	मुझे यह पसंद नहीं है।
 I don't like running.	Ich laufe nicht gern.	मुझे दौड़ना पसंद नहीं।
 I don't like silence.	Stille behagt mir nicht.	मुझे चुप्पी पसंद नहीं है।
 I don't like spiders.	Ich mag keine Spinnen.	मुझे मकड़ियों पसंद नहीं हैं।
