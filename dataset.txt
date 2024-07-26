@@ -1,14 +1,4 @@
 
-Tom isn't a member.	Tom ist kein Mitglied.	टॉम सदस्य नहीं है।
-Tom isn't a priest.	Tom ist kein Priester.	टॉम पुजारी नहीं है।
-Tom isn't a smoker.	Tom ist kein Raucher.	टॉम धूम्रपान करने वाला नहीं है।
-Tom isn't an Aries.	Tom ist nicht Widder.	टॉम राम नहीं है।
-Tom isn't an actor.	Tom ist kein Schauspieler.	टॉम एक अभिनेता नहीं है।
-Tom isn't an angel.	Tom ist kein Engel.	टॉम एक परी नहीं है।
-Tom isn't back yet.	Tom ist noch nicht zurück.	टॉम अभी वापस नहीं है।
-Tom isn't busy now.	Tom ist gerade nicht beschäftigt.	टॉम अभी व्यस्त नहीं है।
-Tom isn't drinking.	Tom trinkt nicht.	टॉम नहीं पीता।
-Tom isn't friendly.	Tom ist nicht freundlich.	टॉम अनुकूल नहीं है।
 Tom isn't generous.	Tom ist nicht großzügig.	टॉम उदार नहीं है।
 Tom isn't handsome.	Tom sieht nicht gut aus.	टॉम अच्छा नहीं लगता।
 Tom isn't here now.	Tom ist gerade nicht hier.	टॉम अभी यहाँ नहीं है।

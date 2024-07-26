@@ -23766,3 +23766,13 @@ Tom isn't Canadian.	Tom ist nicht Kanadier.	टॉम कनाडियन न�
 Tom isn't a Muslim.	Tom ist kein Muslim.	टॉम मुस्लिम नहीं है।
 Tom isn't a doctor.	Tom ist kein Arzt.	टॉम डॉक्टर नहीं है।
 Tom isn't a lawyer.	Tom ist kein Anwalt.	टॉम वकील नहीं है।
+Tom isn't a member.	Tom ist kein Mitglied.	टॉम कोई सदस्य नहीं है।
+Tom isn't a priest.	Tom ist kein Priester.	टॉम कोई पुजारी नहीं है।
+Tom isn't a smoker.	Tom raucht nicht.	टॉम धूम्रपान नहीं करता।
+Tom isn't an Aries.	Tom ist kein Widder.	टॉम एक मेष नहीं है।
+Tom isn't an actor.	Tom ist kein Schauspieler.	टॉम एक अभिनेता नहीं है।
+Tom isn't an angel.	Tom ist kein Engel.	टॉम एक फरिश्ता नहीं है।
+Tom isn't back yet.	Tom ist noch nicht zurück.	टॉम अभी तक वापस नहीं आया है।
+Tom isn't busy now.	Tom ist jetzt nicht beschäftigt.	टॉम अब व्यस्त नहीं है।
+Tom isn't drinking.	Tom trinkt nicht.	टॉम पीने में नहीं है।
+Tom isn't friendly.	Tom ist nicht freundlich.	टॉम दोस्ताना नहीं है।
