@@ -1,14 +1,4 @@
 
-Tom looks really good.	Tom sieht wirklich gut aus.	टॉम वास्तव में अच्छा लग रहा है।
-Tom looks unconvinced.	Tom sieht nicht überzeugt aus.	टॉम आश्वस्त नहीं दिखता।
-Tom looks very afraid.	Tom sieht sehr ängstlich aus.	टॉम बहुत भयभीत लग रहा है।
-Tom looks very lonely.	Tom wirkt sehr einsam.	टॉम बहुत अकेला दिखता है।
-Tom looks very sleepy.	Tom sieht sehr müde aus.	टॉम बहुत थक गया लगता है।
-Tom looks worried now.	Tom sieht jetzt besorgt aus.	टॉम अब चिंतित दिखता है।
-Tom lost 30 kilograms.	Tom hat dreißig Kilo abgenommen.	टॉम ने तीस किलो की कमी की है।
-Tom lost 30 kilograms.	Tom hat 30 kg abgenommen.	टॉम ने 30 किलोग्राम की कमी की है।
-Tom lost 30 kilograms.	Tom hat dreißig Kilogramm abgenommen.	टॉम ने तीस किलोग्राम में कमी आई है।
-Tom lost his eyesight.	Tom hat sein Augenlicht verloren.	टॉम ने अपनी दृष्टि खो दी है।
 Tom lost his umbrella.	Tom verlor seinen Regenschirm.	टॉम ने अपनी छतरी खो दी।
 Tom loves mathematics.	Tom liebt Mathematik.	टॉम को गणित बहुत पसंद है।
 Tom loves you so much.	Tom hat dich superdoll lieb.	टॉम आपको सुपरडोल से प्यार करता है।

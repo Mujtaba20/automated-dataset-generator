@@ -40521,3 +40521,11 @@ Tom looked very young.	Tom sah sehr jung aus.	टॉम बहुत जवा�
 Tom looks a bit tired.	Tom wirkt ein bisschen müde.	टॉम थोड़ा थका हुआ दिख रहा है।
 Tom looks happy today.	Tom wirkt heute glücklich.	टॉम आज खुश लग रहे हैं।
 Tom looks like a girl.	Tom sieht aus wie ein Mädchen.	टॉम एक लड़की जैसा दिखता है।
+Tom looks really good.	Tom sieht wirklich gut aus.	टॉम वास्तव में अच्छा दिखता है।
+Tom looks unconvinced.	Tom sieht unüberzeugt aus.	टॉम अविश्वसनीय लग रहा है।
+Tom looks very afraid.	Tom sieht sehr ängstlich aus.	टॉम बहुत डरा हुआ लग रहा है।
+Tom looks very lonely.	Tom sieht sehr einsam aus.	टॉम बहुत अकेला लग रहा है।
+Tom looks very sleepy.	Tom sieht sehr schläfrig aus.	टॉम बहुत नींद में लग रहा है।
+Tom looks worried now.	Tom sieht jetzt besorgt aus.	टॉम अब चिंतित लग रहा है।
+Tom lost 30 kilograms.	Tom hat 30 Kilogramm verloren.	टॉम ने 30 किलोग्राम खो दिए।
+Tom lost his eyesight.	Tom hat sein Augenlicht verloren.	टॉम ने अपनी दृष्टि खो दी है।
