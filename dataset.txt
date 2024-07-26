@@ -1,14 +1,4 @@
 
-Where do they do that?	Wo machen sie das?	आप ऐसा कहां करते हैं?
-Where do you live now?	Wo wohnen Sie jetzt?	अब आप कहाँ रहते हैं?
-Where do you work now?	Wo arbeitest du derzeit?	वर्तमान में आप कहां काम कर रहे हैं?
-Where is Tom sleeping?	Wo schläft Tom?	टॉम कहाँ सोता है?
-Where is the bathroom?	Wo ist die Toilette?	टॉयलेट कहां है?
-Where is the bathroom?	Wo ist das Badezimmer?	बाथरूम कहां है?
-Where is the bathroom?	Wo ist das Klo?	बाथरूम कहां है?
-Where is the bus stop?	Wo steht die Bushaltestelle?	बस स्टॉप कहां खड़ा है?
-Where is the elevator?	Wo ist der Aufzug?	लिफ्ट कहाँ है?
-Where is the elevator?	Wo ist der Lift?	लिफ्ट कहाँ है?
 Where is the entrance?	Wo ist der Eingang?	प्रवेश द्वार कहाँ है?
 Where is the restroom?	Wo ist die Toilette?	टॉयलेट कहां है?
 Where is the restroom?	Wo ist das Badezimmer?	बाथरूम कहां है?

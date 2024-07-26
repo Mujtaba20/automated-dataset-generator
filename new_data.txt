@@ -41405,3 +41405,10 @@ Where did Tom see you?	Wo hat Tom dich gesehen?	क्या टॉम ने �
 Where did that happen?	Wo ist das passiert?	वह कहाँ हुआ था?
 Where did this happen?	Wo ist das passiert?	यह कहाँ हुआ?
 Where did you see Tom?	Wo hast du Tom gesehen?	तुम ने टॉम को कहाँ देखा था?
+Where do they do that?	Wo machen sie das?	वे वह कहां करते हैं?
+Where do you live now?	Wo wohnen Sie jetzt?	तुम अब कहाँ रहते हो?
+Where do you work now?	Wo arbeiten Sie jetzt?	तुम अब काम कहाँ करते हो?
+Where is Tom sleeping?	Wo schläft Tom?	टॉम कहाँ सो रहा है?
+Where is the bathroom?	Wo ist das WC?	शौचालय कहाँ है?
+Where is the bus stop?	Wo ist die Bushaltestelle?	बस स्थानक कहाँ है?
+Where is the elevator?	Wo ist der Aufzug?	लिफ्ट कहाँ है?
