@@ -37743,3 +37743,10 @@ I never liked biology.	Ich mochte nie Biologie.	मुझे जीवविज�
 I never saw Tom again.	Ich habe Tom nie wieder gesehen.	मैंने फिर से टॉम को कभी नहीं देखा।
 I never saw her again.	Ich habe sie nie wieder gesehen.	मैंने फिर से उसे कभी नहीं देखा।
 I never saw him again.	Ich habe ihn nie wieder gesehen.	मैंने फिर से उसे कभी नहीं देखा।
+I never talked to Tom.	Ich habe nie mit Tom gesprochen.	मैंने कभी भी टॉम से नहीं बात की।
+I never told Tom that.	Ich habe Tom das nie gesagt.	मैंने टॉम से कभी भी यह नहीं कहा।
+I no longer live here.	Ich lebe nicht mehr hier.	मैं यहाँ अब नहीं रहता।
+I no longer need them.	Ich brauche sie nicht mehr.	मुझे उन्हें अब नहीं चाहिए।
+I no longer want that.	Ich möchte das nicht mehr.	मुझे वह अब चाहिए नहीं।
+I no longer work here.	Ich arbeite hier nicht mehr.	मैं यहाँ काम नहीं करता।
+I offered Tom my help.	Ich habe Tom meine Hilfe angeboten.	मैंने टॉम को मेरी मदद दी।
