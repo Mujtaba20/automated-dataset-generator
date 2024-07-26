@@ -37017,3 +37017,12 @@ How could you do that?	Wie konntest du das tun?	तुम ऐसा कैसे
 How dare you say that!	Wie kannst du es wagen, das zu sagen!	तुम कैसे कह सकते हो!
 How deep are the cuts?	Wie tief sind die Schnitte?	कटौतियाँ कितनी गहरी हैं?
 How deep is that lake?	Wie tief ist dieser See?	वह झील कितनी गहरी है?
+How deep is this well?	Wie tief ist dieser Brunnen?	यह कुआँ कितना गहरा है?
+How did Tom know that?	Wie wusste Tom das?	टॉम को वो कैसे पता चला?
+How did Tom miss this?	Wie hat Tom das verpasst?	टॉम ने ये कैसे छूट दिया?
+How did she tell them?	Wie hat sie es ihnen gesagt?	उसने उन्हें ये कैसे बताया?
+How did they find out?	Wie haben sie das herausgefunden?	उन्होंने ये कैसे पता लगाया?
+How did you come here?	Wie bist du hierher gekommen?	तुम यहाँ कैसे आए?
+How did you get those?	Wie hast du die bekommen?	तुम वो कैसे मिले?
+How did you guys meet?	Wie habt ihr euch getroffen?	तुम लोग कैसे मिले थे?
+How do I get downtown?	Wie komme ich in die Innenstadt?	मैं शहर के बीच कैसे पहुंचूँ?
