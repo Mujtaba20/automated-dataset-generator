@@ -1,14 +1,4 @@
 
-I have to go shopping.	Ich muss einkaufen gehen.	मुझे खरीदने जाना है।
-I have to go tell Tom.	Ich muss es Tom sagen.	मुझे टॉम कहना है।
-I have to go tell Tom.	Ich muss es Tom erzählen.	मुझे टॉम बताना है।
-I have to go to sleep.	Ich muss schlafen gehen.	मुझे बिस्तर पर जाना है।
-I have to go to sleep.	Ich muss ins Bett gehen.	मुझे बिस्तर पर जाना है।
-I have to go to sleep.	Ich muss zu Bett gehen.	मुझे बिस्तर पर जाना है।
-I have to go with Tom.	Ich muss mit Tom gehen.	मुझे टॉम के साथ जाना है।
-I have to keep trying.	Ich darf nicht aufgeben.	मैं हार नहीं मान सकता।
-I have to leave early.	Ich muss früher gehen.	मुझे पहले जाना है।
-I have to lose weight.	Ich muss abnehmen.	मुझे अपना वजन कम करना है।
 I have to report this.	Das muss ich melden.	मुझे यह रिपोर्ट करना होगा।
 I have to say goodbye.	Ich muss auf Wiedersehen sagen.	मुझे अलविदा कहना होगा।
 I have to take a rest.	Ich muss eine Pause einlegen.	मुझे एक ब्रेक लेना है।

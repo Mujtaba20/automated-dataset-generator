@@ -37501,3 +37501,10 @@ I have to do it again.	Ich muss es wieder tun.	मुझे इसे फिर 
 I have to do that now.	Das muss ich jetzt machen.	मुझे अब वह करना है।
 I have to dry my hair.	Ich muss meine Haare trocknen.	मुझे अपने बाल सुखाने हैं।
 I have to feed my cat.	Ich muss meine Katze füttern.	मुझे अपनी बिल्ली को खिलाना है।
+I have to go shopping.	Ich muss einkaufen gehen.	मुझे खरीदारी करनी है।
+I have to go tell Tom.	Ich muss Tom sagen.	मुझे टॉम को बताना है।
+I have to go to sleep.	Ich muss schlafen gehen.	मुझे सोने जाना है।
+I have to go with Tom.	Ich muss mit Tom gehen.	मुझे टॉम के साथ जाना है।
+I have to keep trying.	Ich muss weiter probieren.	मुझे कोशिश करते रहना है।
+I have to leave early.	Ich muss früh gehen.	मुझे जल्दी जाना है।
+I have to lose weight.	Ich muss abnehmen.	मुझे वजन कम करना है।
