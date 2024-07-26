@@ -1,14 +1,4 @@
 
-Tom flirted with Mary.	Tom flirtete mit Mary.	टॉम ने मैरी के साथ फ़्लर्ट किया।
-Tom gave Mary a drink.	Tom gab Maria etwas zu trinken.	टॉम ने मारिया को पीने के लिए कुछ दिया।
-Tom gave Mary a watch.	Tom gab Maria eine Uhr.	टॉम ने मारिया को एक घड़ी दी।
-Tom gave Mary flowers.	Tom schenkte Maria Blumen.	टॉम ने मारिया ब्लुमेन को दिया।
-Tom gave Mary the key.	Tom gab Mary den Schlüssel.	टॉम ने मैरी को चाबी दी।
-Tom gave a brief talk.	Tom hat eine kurze Rede gehalten.	टॉम ने एक छोटा भाषण दिया।
-Tom gave me a bicycle.	Tom gab mir ein Fahrrad.	टॉम ने मुझे एक बाइक दी।
-Tom gave me a present.	Tom hat mir etwas geschenkt.	टॉम ने मुझे कुछ दिया।
-Tom gave me something.	Tom gab mir etwas.	टॉम ने मुझे कुछ दिया।
-Tom gave me that book.	Tom hat mir das Buch gegeben.	टॉम ने मुझे किताब दी।
 Tom gave us a present.	Tom hat uns ein Geschenk gegeben.	टॉम ने हमें एक उपहार दिया।
 Tom gave us some food.	Tom gab uns zu essen.	टॉम ने हमें खाने के लिए दिया।
 Tom gets bored easily.	Tom fängt schnell an, sich zu langweilen.	टॉम जल्दी से ऊबने लगता है।

@@ -40022,3 +40022,13 @@ Tom filed a complaint.	Tom reichte eine Beschwerde ein.	टॉम ने शि�
 Tom finally came home.	Tom kam endlich nach Hause.	टॉम आखिरकार घर आया।
 Tom finally got a job.	Tom hat endlich einen Job bekommen.	टॉम ने अंत में नौकरी पाई।
 Tom finished his beer.	Tom trank sein Bier aus.	टॉमने अपने बियर को खतम कर दिया।
+Tom flirted with Mary.	Tom flirtete mit Mary.	टॉम ने मेरी के साथ इश्क किया।
+Tom gave Mary a drink.	Tom gab Mary ein Getränk.	टॉम ने मेरी को एक पेय दिया।
+Tom gave Mary a watch.	Tom gab Mary eine Uhr.	टॉम ने मेरी को एक घड़ी दी।
+Tom gave Mary flowers.	Tom schenkte Mary Blumen.	टॉम ने मेरी को फूल दिए।
+Tom gave Mary the key.	Tom gab Mary den Schlüssel.	टॉम ने मेरी को चाबी दी।
+Tom gave a brief talk.	Tom hielt einen kurzen Vortrag.	टॉम ने एक संक्षेप में बातचीत की।
+Tom gave me a bicycle.	Tom schenkte mir ein Fahrrad.	टॉम ने मुझे एक साइकिल दी।
+Tom gave me a present.	Tom schenkte mir ein Geschenk.	टॉम ने मुझे एक उपहार दिया।
+Tom gave me something.	Tom gab mir etwas.	टॉम ने मुझे कुछ दिया।
+Tom gave me that book.	Tom gab mir dieses Buch.	टॉम ने मुझे वह किताब दी।
