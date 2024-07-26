@@ -36657,3 +36657,12 @@ Have you told anybody?	Hast du es jemandem gesagt?	क्या तुमने 
 Have you told him yet?	Hast du es ihm schon gesagt?	क्या तुमने उसे अभी तक बताया है?
 Have you tried it yet?	Hast du es schon probiert?	क्या तुमने इसे अभी तक प्रयास किया है?
 Haven't we met before?	Haben wir uns nicht schon mal getroffen?	क्या हम पहले मिल चुके हैं?
+Haven't you eaten yet?	Hast du noch nicht gegessen?	क्या तुमने अभी तक खाना नहीं खाया?
+He abandoned all hope.	Er gab alle Hoffnung auf.	उसने सभी आशा छोड़ दी।
+He abandoned the idea.	Er gab die Idee auf.	उसने विचार को छोड़ दिया।
+He abandoned the plan.	Er gab den Plan auf.	उसने योजना को छोड़ दिया।
+He accepted our offer.	Er akzeptierte unser Angebot.	उसने हमारा प्रस्ताव स्वीकार किया।
+He acted as our guide.	Er fungierte als unser Führer.	उसने हमारे मार्गदर्शक के रूप में काम किया।
+He acted like a saint.	Er benahm sich wie ein Heiliger.	उसने एक संत की तरह व्यवहार किया।
+He admired my new car.	Er bewunderte mein neues Auto.	उसने मेरी नई कार की प्रशंसा की।
+He admitted his guilt.	Er gab seine Schuld zu.	उसने अपनी गुनाह को स्वीकार किया।

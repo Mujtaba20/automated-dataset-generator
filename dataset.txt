@@ -1,15 +1,4 @@
 
-Haven't you eaten yet?	Hast du noch nichts gegessen?	क्या आपने अभी तक कुछ खाया है?
-He abandoned all hope.	Er gab alle Hoffnung auf.	उन्होंने पूरी उम्मीद छोड़ दी।
-He abandoned all hope.	Er ließ alle Hoffnung fahren.	उन्होंने सभी आशाओं को आशा दी।
-He abandoned the idea.	Er gab die Idee auf.	उसने विचार छोड़ दिया।
-He abandoned the plan.	Er gab den Plan auf.	उन्होंने योजना छोड़ दी।
-He accepted our offer.	Er nahm unser Angebot an.	उन्होंने हमारे प्रस्ताव को स्वीकार कर लिया।
-He acted as our guide.	Er spielte unseren Führer.	उन्होंने हमारी गाइड खेली।
-He acted like a saint.	Er handelte wie ein Heiliger.	उन्होंने एक संत की तरह काम किया।
-He admired my new car.	Er bewunderte mein neues Auto.	उन्होंने मेरी नई कार की प्रशंसा की।
-He admitted his guilt.	Er gestand seine Schuld.	उसने अपने अपराध को स्वीकार किया।
-He admitted his guilt.	Er bekannte sich schuldig.	उसने खुद को दोषी ठहराया।
 He adopted the orphan.	Er adoptierte das Waisenkind.	उन्होंने अनाथ को गोद लिया।
 He adopted the orphan.	Er hat das Waisenkind adoptiert.	उन्होंने अनाथ को गोद लिया।
 He also speaks French.	Er spricht auch Französisch.	वह फ्रेंच भी बोलता है।
