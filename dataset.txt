@@ -1,14 +1,4 @@
 
-The cloth's very faded.	Der Stoff ist stark verblasst.	कपड़े फीका है।
-The clouds hid the sun.	Die Wolken verdeckten die Sonne.	बादलों ने सूरज को कवर किया।
-The coffee has run out.	Es ist kein Kaffee mehr da.	अब कोई कॉफी नहीं है।
-The coffee is very hot.	Der Kaffee ist sehr heiß.	कॉफी बहुत गर्म है।
-The day is almost over.	Der Tag ist fast vorüber.	दिन लगभग खत्म हो गया है।
-The day is almost over.	Der Tag neigt sich seinem Ende zu.	दिन समाप्त हो रहा है।
-The day isn't over yet.	Der Tag ist noch nicht vorbei.	दिन अभी खत्म नहीं हुआ है।
-The dog must be hungry.	Der Hund muss Hunger haben.	कुत्ते को भूखा होना चाहिए।
-The dog must be hungry.	Der Hund hat bestimmt Hunger.	कुत्ता निश्चित रूप से भूखा है।
-The dog scared the cat.	Der Hund schreckte die Katze.	कुत्ते ने बिल्ली को गोली मार दी।
 The dogs were unharmed.	Die Hunde waren unverletzt.	कुत्ते अनहोनी कर रहे थे।
 The door closed slowly.	Die Tür ging langsam zu.	दरवाजा धीरे -धीरे आ रहा था।
 The door is now closed.	Die Tür ist jetzt zu.	दरवाजा अब बंद हो गया है।
