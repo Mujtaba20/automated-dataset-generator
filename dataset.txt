@@ -1,14 +1,4 @@
 
-Go put your pajamas on.	Geh dir deinen Pyjama anziehen!	अपने पजामा में जाओ!
-Go put your pajamas on.	Geh dir dein Pyjama anziehen!	अपने पजामा में जाओ!
-Go put your pajamas on.	Gehen Sie sich Ihren Pyjama anziehen!	अपने पजामा में जाओ!
-Go put your pajamas on.	Gehen Sie sich Ihr Pyjama anziehen!	अपने पजामा में जाओ!
-Go put your pajamas on.	Geht euch euren Pyjama anziehen!	अपने पजामा प्राप्त करें!
-Go put your pajamas on.	Geht euch euer Pyjama anziehen!	अपने पजामा को आप पर ले लो!
-God has a plan for you.	Gott hat etwas mit dir vor.	भगवान आपके साथ कुछ है।
-Good morning, everyone.	Guten Morgen, alle zusammen.	सुप्रभात, सभी एक साथ।
-Hand over your weapons.	Gib deine Waffen her!	अपने हथियार दें!
-Hand over your weapons.	Geben Sie Ihre Waffen her!	अपने हथियार दें!
 Hand that hammer to me.	Gib mir mal den Hammer!	मुझे हथौड़ा दो!
 Hang your clothes here.	Hänge deine Sachen hier auf!	अपनी चीजों को यहाँ लटकाओ!
 Hang your clothes here.	Hänge deine Kleidung hier auf!	अपने कपड़े यहाँ लटकाओ!
