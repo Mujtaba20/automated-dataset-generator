@@ -24830,3 +24830,8 @@ You can rely on me.	Du kannst dich auf mich verlassen.	तुम मुझपर
 You can smoke here.	Du kannst hier rauchen.	तुम यहाँ सिगरेट पी सकते हो।
 You can let Tom go. (different meaning)	Du kannst Tom freilassen.	तुम टॉम को छोड़ सकते हैं।
 You can smoke here. (different meaning)	Du darfst hier rauchen.	तुम यहाँ सिगरेट पे सकते हो।
+You can study here.	Du kannst hier studieren.	तुम यहाँ पढ़ाई कर सकते हो।
+You can trust them.	Du kannst ihnen vertrauen.	आप उन पर भरोसा कर सकते हैं।
+You can use my car.	Du kannst mein Auto benutzen.	तुम मेरी कार का इस्तेमाल कर सकते हो।
+You can't back out.	Du kannst nicht zurückziehen.	तुम पीछे हट नहीं सकते।
+You can't beat Tom.	Du kannst Tom nicht schlagen.	तुम टॉम को हरा नहीं सकते।

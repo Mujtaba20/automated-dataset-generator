@@ -1,14 +1,4 @@
 
-You can study here.	Du kannst hier lernen.	आप यहां सीख सकते हैं।
-You can study here.	Ihr könnt hier lernen.	आप यहां सीख सकते हैं।
-You can study here.	Ihr könnt hier studieren.	आप यहां अध्ययन कर सकते हैं।
-You can study here.	Du kannst hier studieren.	आप यहां अध्ययन कर सकते हैं।
-You can trust them.	Du kannst ihnen vertrauen.	आप उन पर भरोसा कर सकते हैं।
-You can use my car.	Du kannst meinen Wagen nehmen.	आप मेरी कार ले सकते हैं।
-You can use my car.	Sie können meinen Wagen nehmen.	आप मेरी कार ले सकते हैं।
-You can use my car.	Ihr könnt meinen Wagen nehmen.	आप मेरी कार ले सकते हैं।
-You can't back out.	Du kannst keinen Rückzieher machen.	आप एक बैकलॉग नहीं ले सकते।
-You can't beat Tom.	Tom ist unschlagbar.	टॉम अपराजेय है।
 You can't buy that.	Das kann man nicht kaufen.	आप इसे नहीं खरीद सकते।
 You can't buy that.	Das kannst du nicht kaufen.	आप इसे नहीं खरीद सकते।
 You can't buy that.	Das könnt ihr nicht kaufen.	आप इसे नहीं खरीद सकते।
