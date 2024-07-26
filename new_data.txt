@@ -21437,3 +21437,13 @@ I like mathematics.	Ich mag Mathematik.	मुझे गणित पसंद �
 I like my teachers.	Ich mag meine Lehrer.	मुझे मेरे शिक्षकों पसंद हैं।
 I like raspberries.	Ich mag Himbeeren.	मुझे रसभरी पसंद हैं।
 I like short poems.	Ich mag kurze Gedichte.	मुझे छोटे कविताएँ पसंद हैं।
+I like soccer best.	Ich mag Fußball am liebsten.	मुझे फुटबॉल सबसे अच्छा लगता है।
+I like that answer.	Ich mag diese Antwort.	मुझे वो उत्तर पसंद है।
+I like that person.	Ich mag diese Person.	मुझे वो व्यक्ति पसंद है।
+I like that statue.	Ich mag diese Statue.	मुझे वो मूर्ति पसंद है।
+I like their house.	Ich mag ihr Haus.	मैं उनके घर पसंद करता हूँ।
+I like this answer.	Ich mag diese Antwort.	मुझे यह उत्तर पसंद है।
+I like this camera.	Ich mag diese Kamera.	मुझे यह कैमरा पसंद है।
+I like this school.	Ich mag diese Schule.	मुझे यह स्कूल पसंद है।
+I like this statue.	Ich mag diese Statue.	मुझे यह मूर्ति पसंद है।
+I like those shoes.	Ich mag diese Schuhe.	मुझे वे जूते पसंद हैं।
