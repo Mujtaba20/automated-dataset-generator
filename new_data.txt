@@ -35346,3 +35346,10 @@ What about your wife?	Was ist mit Ihrer Frau?	आपकी पत्नी क�
 What am I doing here?	Was mache ich hier?	मैं यहाँ क्यों हूँ?
 What am I looking at?	Worauf schaue ich?	मैं किसे गौर से देख रहा हूँ?
 What are friends for?	Wofür sind Freunde da?	दोस्तों के लिए क्या है?
+What are the options?	Was sind die Optionen?	विकल्प क्या हैं?
+What are their names?	Wie heißen sie?	उनके नाम क्या हैं?
+What are they saying?	Was sagen sie?	वे क्या कह रहे हैं?
+What are we here for?	Warum sind wir hier?	हम यहाँ क्यों हैं?
+What are you cooking?	Was kochst du?	तुम क्या पका रहे हो?
+What are you drawing?	Was zeichnest du?	तुम क्या बना रहे हो?
+What are you getting?	Was bekommst du?	तुम क्या पा रहे हो?
