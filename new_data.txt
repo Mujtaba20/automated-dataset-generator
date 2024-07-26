@@ -26934,3 +26934,12 @@ I'll get the others.	Ich werde die anderen holen.	मैं बाकी लो�
 I'll give it to Tom.	Ich werde es Tom geben.	मैं इसे टॉम को दूँगा।
 I'll give it to you.	Ich werde es dir geben.	मैं इसे तुम्हें दूँगा।
 I'll give you money.	Ich werde dir Geld geben.	मैं तुम्हें पैसे दूँगा।
+I'll go and ask Tom.	Ich gehe und frage Tom.	मैं जाऊंगा और टॉम से पूछूंगा।
+I'll go and get Tom.	Ich gehe und hole Tom.	मैं जाऊंगा और टॉम को लेआऊँगा।
+I'll go and see Tom.	Ich gehe und sehe Tom.	मैं जाऊंगा और टॉम को देखूँगा।
+I'll go get changed.	Ich werde mich umziehen gehen.	मैं बदलकर आऊँगा।
+I'll go home at ten.	Ich werde um zehn Uhr nach Hause gehen.	मैं दस बजे घर जाऊँगा।
+I'll go in a minute.	Ich gehe in einer Minute.	मैं एक मिनट में जाऊँगा।
+I'll go take a look.	Ich werde mir das ansehen gehen.	मैं जा कर देख लूँगा।
+I'll go to the park.	Ich gehe in den Park.	मैं पार्क जाऊँगा।
+I'll have no choice.	Ich werde keine Wahl haben.	मेरे पास कोई विकल्प नहीं होगा।
