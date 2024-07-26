@@ -27852,3 +27852,11 @@ She blackmailed him.	Sie erpresste ihn.	उसने उसको ब्लै�
 She boiled the eggs.	Sie kochte die Eier.	उसने अंडे उबाले।
 She called for help.	Sie rief um Hilfe.	उसने मदद के लिए बुलाया।
 She came out on top.	Sie kam als Siegerin heraus.	उसको सबसे ऊपर आना था।
+She can drive a car.	Sie kann ein Auto fahren.	वह एक कार चला सकती है।
+She can't afford it.	Sie kann es sich nicht leisten.	उसके पास यह नहीं है।
+She can't cook well.	Sie kann nicht gut kochen.	वह अच्छे से नहीं पका सकती।
+She cannot stop him.	Sie kann ihn nicht aufhalten.	उसे रोक नहीं सकती।
+She cooks very well.	Sie kocht sehr gut.	वह बहुत अच्छा खाना पकाती है।
+She cried all night.	Sie hat die ganze Nacht geweint.	उसने पूरी रात रोते रहा।
+She danced with him.	Sie tanzte mit ihm.	उसने उसके साथ नृत्य किया।
+She danced with joy.	Sie tanzte vor Freude.	वह खुशी से नृत्य किया।
