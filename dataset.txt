@@ -1,14 +1,4 @@
 
-You've been suspended.	Sie sind suspendiert worden.	उन्हें निलंबित कर दिया गया है।
-You've been suspended.	Sie wurden suspendiert.	उन्हें निलंबित कर दिया गया।
-You've been suspended.	Du wurdest suspendiert.	आपको निलंबित कर दिया गया था।
-You've been suspended.	Du bist suspendiert worden.	आपको निलंबित कर दिया गया है।
-You've come too early.	Du bist zu früh gekommen.	आप बहुत जल्दी आ गए।
-You've come too early.	Ihr seid zu früh gekommen.	आप बहुत जल्दी आ गए।
-You've come too early.	Sie sind zu früh gekommen.	वे बहुत जल्दी आ गए।
-You've drunk too much.	Du hast zu viel getrunken.	आपने बहुत ज्यादा पिया।
-You've drunk too much.	Ihr habt zu viel getrunken.	आपने बहुत ज्यादा पिया।
-You've drunk too much.	Sie haben zu viel getrunken.	आपने बहुत ज्यादा पिया।
 You've frightened Tom.	Du hast Tom verängstigt.	आपने टॉम को भयभीत किया।
 You've got each other.	Ihr habt einander.	आपके पास एक -दूसरे हैं।
 You've got me curious.	Du hast mich neugierig gemacht.	आपने मुझे उत्सुक बनाया।
