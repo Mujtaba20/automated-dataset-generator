@@ -29187,3 +29187,11 @@ Tom opened his book.	Tom öffnete sein Buch.	टॉम ने अपनी क�
 Tom opened his eyes.	Tom öffnete seine Augen.	टॉम ने अपनी आँखें खोलीं।
 Tom opened the beer.	Tom öffnete das Bier.	टॉम ने बीयर खोली।
 Tom opened the book.	Tom öffnete das Buch.	टॉम ने किताब खोली।
+Tom opened the cage.	Tom öffnete den Käfig.	टॉम ने पिंजरा खोल दिया।
+Tom opened the door.	Tom öffnete die Tür.	टॉम ने दरवाजा खोल दिया।
+Tom opened the safe.	Tom öffnete den Tresor.	टॉम ने तिजोरी खोली।
+Tom ordered a drink.	Tom bestellte ein Getränk.	टॉम ने एक पेय मांगा।
+Tom owes Mary money.	Tom schuldet Maria Geld.	टॉम मैरी को पैसे देता है।
+Tom owes me a favor.	Tom schuldet mir einen Gefallen.	टॉम मुझसे एक योग्यता ऋणी है।
+Tom packed his bags.	Tom verpackte seine Koffer.	टॉम ने अपने बस्तों को पैक किया।
+Tom passed the exam.	Tom hat die Prüfung bestanden.	टॉम ने परीक्षा उत्तीर्ण की।

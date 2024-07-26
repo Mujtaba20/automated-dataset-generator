@@ -1,14 +1,4 @@
 
-Tom opened the cage.	Tom öffnete den Käfig.	टॉम ने पिंजरा खोला।
-Tom opened the door.	Tom öffnete die Tür.	टॉम ने दरवाजा खोला।
-Tom opened the safe.	Tom öffnete den Tresor.	टॉम ने सेफ खोली।
-Tom opened the safe.	Tom öffnete den Geldschrank.	टॉम ने थोक कैबिनेट खोला।
-Tom ordered a drink.	Tom bestellte ein Getränk.	टॉम ने एक पेय का आदेश दिया।
-Tom owes Mary money.	Tom schuldet Mary Geld.	टॉम ने मैरी मनी बकाया।
-Tom owes me a favor.	Tom ist mir einen Gefallen schuldig.	टॉम ने मुझ पर एहसान किया।
-Tom packed his bags.	Tom packte seine Siebensachen.	टॉम ने अपनी सात चीजों को पैक किया।
-Tom packed his bags.	Tom packte seine Koffer.	टॉम ने अपना सूटकेस पैक किया।
-Tom passed the exam.	Tom hat die Prüfung bestanden.	टॉम ने परीक्षा दी।
 Tom passed the test.	Tom hat die Prüfung bestanden.	टॉम ने परीक्षा दी।
 Tom passed the test.	Tom bestand die Prüfung.	टॉम ने परीक्षा दी।
 Tom peeled an apple.	Tom schälte einen Apfel.	टॉम ने एक सेब छील लिया।
