@@ -24525,3 +24525,10 @@ What happened next?	Was passierte als Nächstes?	आगे क्या हु�
 What happened then?	Was ist dann passiert?	तब क्या हुआ?
 What have I missed?	Was habe ich verpasst?	मुझसे क्या छूट गया है?
 What have you done?	Was hast du getan?	तुमने क्या किया है?
+What if he's wrong?	Was ist, wenn er falsch liegt?	अगर वह गलत है तो क्या होगा?
+What is Tom eating?	Was isst Tom?	टॉम क्या खा रहा है?
+What is Tom to you?	Was bedeutet Tom für dich?	टॉम तुम्हारे लिए क्या है?
+What is hemoglobin?	Was ist Hämoglobin?	हीमोग्लोबिन क्या है?
+What is in the box?	Was ist in der Box?	बक्से में क्या है?
+What is it made of?	Woraus ist es gemacht?	यह किससे बना है?
+What is over there?	Was ist da drüben?	वहाँ क्या है?
