@@ -22187,3 +22187,13 @@ Isn't that curious?	Ist das nicht seltsam?	क्या यह अजीब न�
 Isn't that illegal?	Ist das nicht illegal?	क्या वह अवैध नहीं है?
 Isn't that obvious?	Ist das nicht klar?	क्या वह स्पष्ट नहीं है?
 Isn't that our job?	Ist das nicht unsere Aufgabe?	क्या वह हमारा काम नहीं है?
+Isn't this amazing?	Ist das nicht erstaunlich?	यह क्या आश्चर्यजनक नहीं है?
+Isn't this illegal?	Ist das nicht illegal?	क्या यह गैरकानूनी नहीं है?
+It all makes sense.	Alles macht Sinn.	सब समझ में आता है।
+It all makes sense. - Different meaning	Es ergibt alles Sinn.	सब अर्थपूर्ण है।
+It almost happened.	Es passierte fast.	यह लगभग हो गया था।
+It came to nothing.	Es lief ins Leere.	इसका कुछ फल नहीं मिला।
+It can be repaired.	Es kann repariert werden.	इसे मरम्मत किया जा सकता है।
+It can't be helped.	Es ist nicht zu ändern.	इसमें मदद नहीं की जा सकती।
+It can't be helped. - Different meaning	Es kann nicht vermieden werden.	इसमें मदद नहीं की जा सकती।
+It can't get worse.	Es kann nicht schlimmer werden.	यह और बुरा नहीं हो सकता।
