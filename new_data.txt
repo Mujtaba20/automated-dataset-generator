@@ -31558,3 +31558,12 @@ I didn't want to die.	Ich wollte nicht sterben.	मैं मरना नही
 I dislike big cities.	Ich mag keine großen Städte.	मुझे बड़े शहरों से नफरत है।
 I do not feel guilty.	Ich fühle mich nicht schuldig.	मुझे अपराधी महसूस नहीं होता।
 I do not like spring.	Ich mag den Frühling nicht.	मुझे वसंत पसंद नहीं है।
+I do not mince words.	Ich mache keine Umstände.	मैं शब्दों को नहीं काटता।
+I do that every week.	Das mache ich jede Woche.	मैं हर हफ्ते वह करता हूं।
+I do want to see you.	Ich möchte dich sehen.	मुझे तुम्हें देखना है।
+I don't agree at all.	Ich stimme überhaupt nicht zu.	मैं किसी भी प्रकार से सहमत नहीं हूँ।
+I don't believe that.	Das glaube ich nicht.	मैं उस पर विश्वास नहीं करता।
+I don't believe this.	Das glaube ich nicht.	मुझे इस पर विश्वास नहीं है।
+I don't care for him.	Mir ist er egal.	मुझे उसकी परवाह नहीं है।
+I don't deserve this.	Das verdiene ich nicht.	मुझे ऐसा नहीं मिलना चाहिए।
+I don't discriminate.	Ich diskriminiere nicht.	मैं भेदभाव नहीं करता।
