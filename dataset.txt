@@ -1,14 +1,4 @@
 
-Tom's dog is very big.	Toms Hund ist sehr groß.	टॉम का कुत्ता बहुत बड़ा है।
-Tom's dog seems happy.	Toms Hund macht einen zufriedenen Eindruck.	टॉम का कुत्ता एक संतुष्ट छाप बनाता है।
-Tom's eyes are closed.	Toms Augen sind geschlossen.	टॉम की आँखें बंद हैं।
-Tom's eyes were moist.	Tom hatte feuchte Augen.	टॉम की आँखें नम थीं।
-Tom's family loved me.	Toms Familie hat mich geliebt.	टॉम का परिवार मुझे प्यार करता था।
-Tom's hair is growing.	Toms Haar wächst.	टॉम के बाल बढ़ते हैं।
-Tom's hands are dirty.	Toms Hände sind schmutzig.	टॉम के हाथ गंदे हैं।
-Tom's hands are dirty.	Tom hat schmutzige Hände.	टॉम के गंदे हाथ हैं।
-Tom's hands are small.	Tom hat kleine Hände.	टॉम के छोटे हाथ हैं।
-Tom's horse reared up.	Toms Pferd bäumte sich auf.	टॉम का घोड़ा ऊपर उठ गया।
 Tom's mother has died.	Toms Mutter ist gestorben.	टॉम की मां की मृत्यु हो गई।
 Tom's not a good liar.	Tom ist kein guter Lügner.	टॉम एक अच्छा झूठा नहीं है।
 Tom's plan won't work.	Toms Plan wird nicht aufgehen.	टॉम की योजना काम नहीं करेगी।

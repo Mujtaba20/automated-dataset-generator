@@ -40942,3 +40942,12 @@ Tom wrote this letter.	Tom hat diesen Brief geschrieben.	टॉम ने यह
 Tom wrote to a friend.	Tom schrieb an einen Freund.	टॉम ने एक दोस्त को लिखा।
 Tom's car won't start.	Toms Auto wird nicht starten.	टॉम की कार नहीं चलेगी।
 Tom's career was over.	Toms Karriere war vorbei.	टॉम का करियर खत्म हो गया था।
+Tom's dog is very big.	Toms Hund ist sehr groß.	टॉम का कुत्ता बहुत बड़ा है।
+Tom's dog seems happy.	Toms Hund scheint glücklich zu sein.	टॉम के कुत्ते को खुश लगता है।
+Tom's eyes are closed.	Toms Augen sind geschlossen.	टॉम की आंखें बंद हैं।
+Tom's eyes were moist.	Toms Augen waren feucht.	टॉम की आंखों में नमी थी।
+Tom's family loved me.	Toms Familie hat mich geliebt.	टॉम का परिवार मुझसे प्यार करता था।
+Tom's hair is growing.	Toms Haar wächst.	टॉम के बाल बढ़ रहे हैं।
+Tom's hands are dirty.	Toms Hände sind schmutzig.	टॉम के हाथ गंदे हैं।
+Tom's hands are small.	Toms Hände sind klein.	टॉम के हाथ छोटे हैं।
+Tom's horse reared up.	Toms Pferd bäumte sich auf.	टॉम का घोड़ा ऊपर उठ गया।
