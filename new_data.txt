@@ -25987,3 +25987,10 @@ I agree to his plan.	Ich stimme seinem Plan zu.	मैं उसकी योज
 I almost always win.	Ich gewinne fast immer.	मैं लगभग हमेशा जीतता हूँ।
 I almost cut myself.	Ich habe mich fast geschnitten.	मैंने अपने आपको लगभग काट लिया।
 I almost died today.	Ich wäre heute beinahe gestorben.	मैं आज लगभग मरने वाला था।
+I almost kissed Tom.	Ich habe Tom fast geküsst.	मैंने तोम को लगभग चूमा था।
+I almost kissed him.	Ich habe ihn fast geküsst.	मैंने उसे लगभग चूमा था।
+I already knew that.	Das wusste ich schon.	मैं पहले से ही जानता था।
+I already knew this.	Das wusste ich bereits.	मैंने यह पहले ही जान लिया था।
+I already know that.	Das weiß ich bereits.	मुझे यह पहले से पता है।
+I already know this.	Das weiß ich schon.	मैंने यह पहले ही जान लिया है।
+I already regret it.	Ich bereue es bereits.	मुझे इस पर पछतावा है।
