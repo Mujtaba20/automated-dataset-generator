@@ -24857,3 +24857,10 @@ You do a great job.	Du machst einen tollen Job.	तुम बड़ी अच्
 You don't scare me.	Du erschreckst mich nicht.	तुम मुझे कतई नहीं डरा सकते।
 You drink too much.	Du trinkst zu viel.	तुम बहुत पीते हो।
 You drive too fast.	Du fährst zu schnell.	तुम बहुत तेज़़ चलाते हो।
+You frightened Tom.	Du hast Tom erschreckt.	आपने टॉम को डराया।
+You go right ahead.	Du gehst sofort weiter.	तुम सीधे आगे जाओ।
+You guys are great.	Ihr seid großartig.	तुम बहुत अच्छे हो।
+You guys look lost.	Ihr seht verloren aus.	तुम खो गए लग रहे हो।
+You guys messed up.	Ihr habt Chaos gemacht.	तुम गड़बड़ कर दी है।
+You guys wait here.	Ihr bleibt hier.	तुम यहाँ इंतजार करो।
+You had a long day.	Sie hatten einen langen Tag.	आपके पास एक लंबा दिन था।

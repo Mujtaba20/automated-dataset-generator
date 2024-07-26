@@ -1,15 +1,4 @@
 
-You frightened Tom.	Du hast Tom einen Schreck eingejagt.	आपने टॉम का शिकार किया।
-You go right ahead.	Nur zu!	आगे बढ़ो!
-You go right ahead.	Starten Sie einfach drauf los.	अभी शुरू।
-You guys are great.	Ihr seid toll.	तुम लोग महान हो।
-You guys look lost.	Ihr habt euch wohl verirrt.	आप शायद खो गए।
-You guys messed up.	Ihr habt es verpatzt.	आप इसे याद करोगे।
-You guys messed up.	Ihr habt es vermasselt.	आपने इसे खराब कर दिया।
-You guys wait here.	Wartet bitte hier!	कृपया यहां प्रतीक्षा करें!
-You had a long day.	Du hattest einen langen Tag.	आपके पास एक लंबा दिन था।
-You had a long day.	Sie hatten einen langen Tag.	उनके पास एक लंबा दिन था।
-You had a long day.	Ihr hattet einen langen Tag.	आपके पास एक लंबा दिन था।
 You have a message.	Du hast eine Nachricht.	आपको एक संदेश मिला है.
 You have a problem.	Du hast ein Problem.	आपको एक समस्या है।
 You have a visitor.	Du hast Besuch.	आपकी एक यात्रा है।
