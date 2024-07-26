@@ -29322,3 +29322,12 @@ Tom talks very loud.	Tom spricht sehr laut.	टॉम बहुत जोर स
 Tom taught me a lot.	Tom hat mir viel beigebracht.	टॉम ने मुझे बहुत कुछ सिखाया।
 Tom taught us music.	Tom hat uns Musik beigebracht.	टॉम ने हमें संगीत सिखाया।
 Tom threatened Mary.	Tom hat Mary bedroht.	टॉम ने मेरी को धमकी दी।
+Tom threatened them.	Tom hat sie bedroht.	टॉम ने उन्हें धमकी दी।
+Tom told me nothing.	Tom hat mir nichts gesagt.	टॉम ने मुझे कुछ नहीं बताया।
+Tom took Friday off.	Tom hat sich den Freitag freigenommen.	टॉम ने शुक्रवार को छुट्टी ली।
+Tom took a big risk.	Tom hat ein großes Risiko auf sich genommen.	टॉम ने एक बड़ी जोखिम उठाया।
+Tom took a shortcut.	Tom hat eine Abkürzung genommen.	टॉम ने एक शॉर्टकट लिया।
+Tom took a week off.	Tom hat eine Woche freigenommen.	टॉम ने एक सप्ताह की छुट्टी ली।
+Tom took an aspirin.	Tom hat eine Aspirin genommen.	टॉम ने एक एस्पिरिन ली।
+Tom took my picture.	Tom hat mein Bild gemacht.	टॉम ने मेरी फोटो खींची।
+Tom took this photo.	Tom hat dieses Foto gemacht.	टॉम ने यह फोटो खींची।
