@@ -33664,3 +33664,11 @@ The light is perfect.	Das Licht ist perfekt.	रोशनी बिल्कु�
 The line is busy now.	Die Leitung ist gerade besetzt.	लाइन अभी व्यस्त है।
 The lobster was good.	Der Hummer war gut.	लोब्स्टर अच्छा था।
 The mail has arrived.	Die Post wurde zugestellt.	मेल पहुंच गई है।
+The man looked at me.	Der Mann sah mich an.	आदमी ने मुझे देखा।
+The match was Monday.	Das Spiel war am Montag.	मैच सोमवार को था।
+The milk boiled over.	Die Milch kochte über.	दूध उबल गया।
+The milk tasted sour.	Die Milch schmeckte sauer.	दूध का स्वाद खट्टा था।
+The milk tastes sour.	Die Milch schmeckt sauer.	दूध खट्टा है।
+The milk turned sour.	Die Milch wurde sauer.	दूध खट्टा हो गया।
+The mist is clearing.	Der Nebel lichtet sich.	धुंध उठ रही है।
+The monkey came down.	Der Affe kam herunter.	बंदर नीचे आया।
