@@ -24914,3 +24914,10 @@ You must be joking!	Du musst wohl scherzen!	तुमे मजाक कर र
 You must be polite.	Du musst höflich sein.	तुम्हें शिष्ट बनना चाहिए।
 You must leave now.	Du musst jetzt gehen.	तुम्हें अभी जाना होगा।
 You must not smoke.	Du darfst nicht rauchen.	तुम्हें सिगरेट नहीं पीनी चाहिए।
+You need a haircut.	Du brauchst einen Haarschnitt.	आपको बाल काटवाने की जरुरत है।
+You need a holiday.	Du brauchst eine Pause.	आपको एक छुट्टी की आवश्यकता है।
+You need a new hat.	Du brauchst eine neue Mütze.	आपको एक नयी टोपी की आवश्यकता है।
+You need some rest.	Du brauchst etwas Erholung.	आपको थोड़ी आराम की जरुरत है।
+You need to go now.	Du musst jetzt gehen.	आपको अभी जाना चाहिए।
+You need to let go.	Du musst loslassen.	आपको छोड़ देना चाहिए।
+You need to resign.	Du musst kündigen.	आपको इस्तीफा देने की आवश्यकता है।

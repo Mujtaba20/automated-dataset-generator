@@ -1,15 +1,4 @@
 
-You need a haircut.	Du musst zum Friseur gehen.	आपको हेयरड्रेसर के पास जाना होगा।
-You need a holiday.	Du brauchst Urlaub.	आपको छुट्टी चाहिए।
-You need a holiday.	Ihr braucht Urlaub.	आपको छुट्टी चाहिए।
-You need a new hat.	Du brauchst einen neuen Hut.	आपको एक नई टोपी चाहिए।
-You need a new hat.	Sie brauchen einen neuen Hut.	आपको एक नई टोपी चाहिए।
-You need some rest.	Du musst dich ausruhen.	तुम्हें आराम करना चाहिए।
-You need to go now.	Du musst jetzt gehen.	अब आपको जाना होगा।
-You need to let go.	Du musst loslassen.	आपको जाने देना होगा।
-You need to resign.	Du musst zurücktreten.	आपको वापस कदम रखना होगा।
-You need to resign.	Ihr müsst zurücktreten.	आपको वापस कदम रखना होगा।
-You need to resign.	Sie müssen zurücktreten.	आपको वापस कदम रखना होगा।
 You never asked me.	Du hast mich nie gefragt.	आपने मुझसे कभी नहीं पूछा।
 You never asked me.	Ihr habt mich nie gefragt.	आपने मुझसे कभी नहीं पूछा।
 You never asked me.	Sie haben mich nie gefragt.	आपने मुझसे कभी नहीं पूछा।
