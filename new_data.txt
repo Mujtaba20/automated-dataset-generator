@@ -40555,3 +40555,13 @@ Tom might be Canadian.	Tom könnte Kanadier sein.	टॉम कनाडिय�
 Tom might be innocent.	Tom könnte unschuldig sein.	टॉम निर्दोष हो सकता है।
 Tom might have cancer.	Tom könnte Krebs haben.	टॉम कैंसर की संभावना हो सकती है।
 Tom might have cancer. - Variation	Tom könnte an Krebs leiden.	टॉम को कैंसर हो सकता है।
+Tom missed his flight.	Tom hat seinen Flug verpasst.	टॉम ने अपनी फ्लाइट का छूट दिया।
+Tom missed the target.	Tom verfehlte das Ziel.	टॉम ने लक्ष्य को छोड़ दिया।
+Tom misses Mary a lot.	Tom vermisst Mary sehr.	टॉम को मेरी की बहुत याद आती है।
+Tom misses his family.	Tom vermisst seine Familie.	टॉम अपने परिवार की याद करता है।
+Tom moves really well.	Tom bewegt sich wirklich gut.	टॉम वास्तव में अच्छे से चलता है।
+Tom mowed Mary's lawn.	Tom hat Marys Rasen gemäht.	टॉम ने मेरी की घास काटी।
+Tom must be mad at me.	Tom muss auf mich sauer sein.	टॉम मुझसे नाराज हो सकता है।
+Tom must be so scared.	Tom muss so ängstlich sein.	टॉम इतना डरा हुआ होना चाहिए।
+Tom must be tired now.	Tom muss jetzt müde sein.	टॉम अब थक गया होना चाहिए।
+Tom must have seen me.	Tom muss mich gesehen haben.	टॉमने मुझे देखा होगा।
