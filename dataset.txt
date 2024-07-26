@@ -1,14 +1,4 @@
 
-Does Tom play baseball?	Spielt Tom Baseball?	क्या टॉम बेसबॉल खेलता है?
-Does Tom play football?	Spielt Tom Fußball?	क्या टॉम फुटबॉल खेलता है?
-Does Tom run every day?	Läuft Tom jeden Tag?	क्या टॉम हर दिन चल रहा है?
-Does Tom still hate me?	Hasst mich Tom noch immer?	अभी भी टॉम से नफरत है?
-Does Tom want to sleep?	Möchte Tom gerne schlafen?	क्या आप टॉम सोना चाहेंगे?
-Does anybody live here?	Lebt hier jemand?	क्या कोई यहाँ रहता है?
-Does everybody want it?	Wollen es alle?	क्या हर कोई यह चाहता है?
-Does he play the piano?	Spielt er Klavier?	क्या वह पियानो बजाता है?
-Does it have to be Tom?	Muss es Tom sein?	क्या यह टॉम होना है?
-Does it snow in Boston?	Schneit es in Boston?	क्या यह बोस्टन में बर्फ है?
 Does she speak English?	Spricht sie Englisch?	क्या वह अंग्रेज़ी बोलती है?
 Does that frighten you?	Beängstigt dich das?	क्या वह डरावना है?
 Does that frighten you?	Macht dir das Angst?	क्या वह निशान है?
