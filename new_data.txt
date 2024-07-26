@@ -23685,3 +23685,13 @@ Tom is not jealous.	Tom ist nicht eifersüchtig.	टॉम ज़्यादा
 Tom is not our man.	Tom ist nicht unser Mann.	टॉम हमारा आदमी नहीं है।
 Tom is not so sure.	Tom ist sich nicht so sicher.	टॉम इतना पक्का नहीं है।
 Tom is now in jail.	Tom ist jetzt im Gefängnis.	टॉम अब जेल में है।
+Tom is now married.	Tom ist jetzt verheiratet.	टॉम अब शादीशुदा है।
+Tom is now on duty.	Tom ist jetzt im Dienst.	टॉम अब ड्यूटी पर है।
+Tom is on duty now.	Tom hat jetzt Dienst.	टॉम अब कर्तव्य पर है।
+Tom is on our side.	Tom ist auf unserer Seite.	टॉम हमारी ओर है।
+Tom is on the roof.	Tom ist auf dem Dach.	टॉम छत पर है।
+Tom is on the team.	Tom ist im Team.	टॉम टीम में है।
+Tom is on vacation.	Tom ist im Urlaub.	टॉम अब अवकाश पर है।
+Tom is out hunting.	Tom ist draußen auf der Jagd.	टॉम बाहर शिकार पर है।
+Tom is out of work.	Tom ist arbeitslos.	टॉम जर्मन मुक्त है।
+Tom is in the meeting.	Tom ist im Meeting.	टॉम बैठक में है।
