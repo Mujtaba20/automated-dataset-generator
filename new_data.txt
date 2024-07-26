@@ -34718,3 +34718,13 @@ Tom must be well off.	Tom muss gut situiert sein.	टॉम का अच्छ�
 Tom muttered a curse.	Tom murmelte einen Fluch.	टॉम ने एक श्राप कहा।
 Tom needed attention.	Tom brauchte Aufmerksamkeit.	टॉम को ध्यान की आवश्यकता थी।
 Tom needed the money.	Tom brauchte das Geld.	टॉम को पैसे की आवश्यकता थी।
+Tom needs a vacation.	Tom braucht Urlaub.	टॉम को अवकाश की आवश्यकता है।
+Tom needs help badly.	Tom braucht dringend Hilfe.	टॉम को बहुत जरूरत है।
+Tom needs his family.	Tom braucht seine Familie.	टॉम को अपने परिवार की आवश्यकता है।
+Tom needs our advice.	Tom braucht unseren Rat.	टॉम को हमारी सलाह की आवश्यकता है।
+Tom needs protection.	Tom braucht Schutz.	टॉम को सुरक्षा की आवश्यकता है।
+Tom needs some sleep.	Tom braucht etwas Schlaf.	टॉम को थोड़ी नींद की आवश्यकता है।
+Tom needs that money.	Tom braucht das Geld.	टॉम को उस धन की आवश्यकता है।
+Tom needs the ladder.	Tom braucht die Leiter.	टॉम को सीढ़ी की आवश्यकता है।
+Tom never apologized.	Tom hat sich nie entschuldigt.	टॉम कभी माफी नहीं मांगा।
+Tom never drinks tea.	Tom trinkt nie Tee.	टॉम कभी चाय नहीं पीता।
