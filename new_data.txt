@@ -30607,3 +30607,13 @@ Didn't I tell you so?	Habe ich es dir nicht gesagt?	क्या मैंने
 Did you use my knife? (alternate meaning)	Hast du mein Messer verwendet?	क्या तुमने मेरा चाकू प्रयोग किया?
 Did you vote for Tom? (alternate meaning)	Hast du Tom gewählt?	क्या तुमने टॉम को वोट दिया?
 Did you wait for Tom? (alternate meaning)	Hast du auf Tom gewartet?	क्या तुमने टॉम का इंतजार किया?
+Didn't that seem odd?	Kam das nicht seltsam vor?	क्या वह अजीब नहीं लगा?
+Didn't you hear that?	Hast du das nicht gehört?	क्या तुमने वह सुना नहीं?
+Didn't you know that?	Wusstest du das nicht?	क्या तुम्हें वह पता नहीं था?
+Didn't you notice it?	Hast du das nicht bemerkt?	क्या तुमने उसे नहीं देखा?
+Didn't you notice it? (Different meaning)	Hast du das nicht bemerkt?	क्या तुमने उसे नहीं समझा?
+Didn't you notice it? (Different meaning 2)	Hast du das nicht bemerkt?	क्या तुमने उसे नहीं सुना?
+Didn't you notice it? (Different meaning 3)	Hast du das nicht bemerkt?	क्या तुमने उसे नहीं सोचा?
+Digging is hard work.	Grabarbeit ist harte Arbeit.	खोदना कठिन काम है।
+Dinner was delicious.	Das Abendessen war köstlich.	रात का खाना बहुत स्वादिष्ट था।
+Dinner was expensive.	Das Abendessen war teuer.	रात का खाना महंगा था।
