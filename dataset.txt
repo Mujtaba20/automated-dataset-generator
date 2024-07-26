@@ -1,14 +1,4 @@
 
-Tom is sitting outside.	Tom sitzt draußen.	टॉम बाहर बैठता है।
-Tom is skipping school.	Tom schwänzt die Schule.	टॉम ने स्कूल को स्किम किया।
-Tom is smart, isn't he?	Tom ist klug, nicht wahr?	टॉम चतुर है, है ना?
-Tom is standing nearby.	Tom steht in der Nähe.	टॉम पास में है।
-Tom is still breathing.	Tom atmet noch.	टॉम अभी भी सांस लेता है।
-Tom is still dangerous.	Tom ist immer noch gefährlich.	टॉम अभी भी खतरनाक है।
-Tom is still in Boston.	Tom ist noch in Boston.	टॉम अभी भी बोस्टन में है।
-Tom is still in a coma.	Tom liegt noch im Koma.	टॉम अभी भी कोमा में है।
-Tom is still the champ.	Tom ist noch immer die Nummer 1.	टॉम अभी भी नंबर 1 है।
-Tom is still under age.	Tom ist noch minderjährig.	टॉम अभी भी नाबालिग है।
 Tom is studying French.	Tom lernt Französisch.	टॉम फ्रेंच सीखता है।
 Tom is such a nice guy.	Tom ist so ein netter Kerl.	टॉम इतना अच्छा लड़का है।
 Tom is such a show off.	Tom ist so ein Angeber.	टॉम एक ऐसा टूटा हुआ है।
