@@ -1,14 +1,4 @@
 
-I know where Tom lives.	Ich weiß, wo Tom lebt.	मुझे पता है कि टॉम कहाँ रहता है।
-I know where Tom lives.	Ich weiß, wo Tom wohnt.	मुझे पता है कि टॉम कहाँ रहता है।
-I know where Tom works.	Ich weiß, wo Tom arbeitet.	मुझे पता है कि टॉम कहाँ काम करता है।
-I know where she lives.	Ich weiß, wo sie wohnt.	मुझे पता है कि वह कहाँ रहती है।
-I know where she lives.	Ich weiß, wo sie lebt.	मुझे पता है कि वह कहाँ रहती है।
-I know who my enemy is.	Ich kenne meinen Feind.	मैं अपने दुश्मन को जानता हूं।
-I know who that is now.	Ich weiß jetzt, wer das ist.	मुझे अब पता है कि वह कौन है।
-I know why Tom gave up.	Ich weiß, warum Tom aufgegeben hat.	मुझे पता है कि टॉम ने क्यों दिया।
-I know why Tom is here.	Ich weiß, warum Tom hier ist.	मुझे पता है कि टॉम यहाँ क्यों है।
-I know why Tom's happy.	Ich weiß, warum Tom glücklich ist.	मुझे पता है कि टॉम क्यों खुश है।
 I know why you want it.	Ich weiß, warum du es willst.	मुझे पता है कि आप इसे क्यों चाहते हैं।
 I know why you're here.	Ich weiß, warum du hier bist.	मुझे पता है कि आप यहां क्यों हैं।
 I know you can do this.	Ich weiß, dass du das kannst.	मुझे पता है तुम कर सकते हो।
