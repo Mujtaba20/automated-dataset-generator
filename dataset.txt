@@ -1,14 +1,4 @@
 
-Tom has an earache.	Tom hat Ohrenschmerzen.	टॉम को कान का दर्द है।
-Tom has been fired.	Tom wurde gefeuert.	टॉम को निकाल दिया गया।
-Tom has been found.	Tom ist gefunden worden.	टॉम मिला है।
-Tom has been lucky.	Tom hatte Glück.	टॉम भाग्यशाली था।
-Tom has been lucky.	Tom hat Glück gehabt.	टॉम भाग्यशाली था।
-Tom has black hair.	Tom hat schwarze Haare.	टॉम के काले बाल हैं।
-Tom has blond hair.	Tom hat blondes Haar.	टॉम के पास गोरा बाल हैं।
-Tom has brown eyes.	Tom hat braune Augen.	टॉम की भूरी आँखें हैं।
-Tom has brown hair.	Tom hat braunes Haar.	टॉम के भूरे बाल हैं।
-Tom has brown hair.	Tom hat braune Haare.	टॉम के भूरे बाल हैं।
 Tom has curly hair.	Tom hat lockiges Haar.	टॉम के घुंघराले बाल हैं।
 Tom has gone crazy.	Tom ist verrückt geworden.	टॉम पागल हो गया है।
 Tom has gone crazy.	Tom hat den Verstand verloren.	टॉम ने मन खो दिया।

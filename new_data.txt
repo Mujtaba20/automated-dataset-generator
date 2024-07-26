@@ -23501,3 +23501,11 @@ Tom has a question.	Tom hat eine Frage.	टॉम का सवाल है।
 Tom has a six-pack.	Tom hat ein Sixpack.	टॉम के पेट पर छह पैक है।
 Tom has a squirrel.	Tom hat ein Eichhörnchen.	टॉम के पास एक गिलहरी है।
 Tom has a tricycle.	Tom hat ein Dreirad.	टॉम के पास एक तीन पहिये वाली साइकिल है।
+Tom has an earache.	Tom hat Ohrenschmerzen.	टॉम को कान दर्द है।
+Tom has been fired.	Tom wurde gefeuert.	टॉम को नौकरी से निकाल दिया गया है।
+Tom has been found.	Tom wurde gefunden.	टॉम को मिल गया है।
+Tom has been lucky.	Tom hatte Glück.	टॉम को किस्मत में भाग्यशाली था।
+Tom has black hair.	Tom hat schwarze Haare.	टॉम के बाल काले हैं।
+Tom has blond hair.	Tom hat blonde Haare.	टॉम के बाल भूरे हैं।
+Tom has brown eyes.	Tom hat braune Augen.	टॉम की आंखें भूरी हैं।
+Tom has brown hair.	Tom hat braune Haare.	टॉम के बाल भूरे होते हैं।
