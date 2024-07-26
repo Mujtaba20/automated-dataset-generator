@@ -30838,3 +30838,13 @@ Everybody is excited.	Jeder ist aufgeregt.	सभी उत्साहित �
 Everybody knows that.	Das weiß jeder.	सभी जानते हैं।
 Everybody likes them.	Jeder mag sie.	सभी उन्हें पसंद करते हैं।
 Everybody trusts Tom.	Jeder vertraut Tom.	सभी टॉम पर भरोसा करते हैं।
+Everybody was crying.	Alle haben geweint.	सब रो रहे थे।
+Everyone fell asleep.	Alle sind eingeschlafen.	सभी सो गए।
+Everyone ignored Tom.	Alle haben Tom ignoriert.	सभी ने टॉम को नजरअंदाज किया।
+Everyone is confused.	Alle sind verwirrt.	सभी उलझन में हैं।
+Everyone is doing it.	Alle machen es.	सभी यह कर रहे हैं।
+Everyone likes pizza.	Jeder mag Pizza.	हर को थाली बहुत पसंद है।
+Everyone stayed calm.	Alle blieben ruhig.	सभी शांत रहे।
+Everyone wants money.	Jeder will Geld.	हर कोपैसे चाहिए।
+Everyone was shocked.	Alle waren schockiert.	सभी हैरान रह गए थे।
+Everyone was singing.	Alle haben gesungen.	सभी गा रहे थे।
