@@ -30893,3 +30893,5 @@ Give me back my ring.	Gib mir meinen Ring zurück.	मेरी अंगूठ�
 Give me the backpack.	Gib mir den Rucksack.	मुझे बैकपैक दो।
 Give me those gloves.	Gib mir die Handschuhe.	मुझे वो दस्ताने दो।
 Give me your address.	Gib mir deine Adresse.	मुझे अपना पता दो।
+Give that back to me.	Geben Sie mir das zurück.	मुझे वह वापस करें।
+Give the keys to Tom.	Gib die Schlüssel Tom.	चाबियाँ टॉम को दे दो।
