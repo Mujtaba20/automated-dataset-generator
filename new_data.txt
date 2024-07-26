@@ -41245,3 +41245,9 @@ What did Tom find out?	Was hat Tom herausgefunden?	टॉमने क्या 
 What did Tom major in?	Was hat Tom studiert?	टॉमने किसमें विशेषज्ञता प्राप्त की?
 What did he do to you?	Was hat er dir angetan?	उसने तुम्हारे साथ क्या किया?
 What did he look like?	Wie sah er aus?	वह कैसे दिखता था?
+What did his wife say?	Was hat seine Frau gesagt?	उसकी पत्नी ने क्या कहा था?
+What did the note say?	Was hat die Notiz gesagt?	नोट ने क्या कहा?
+What did this Tom say?	Was sagte dieser Tom?	यह टॉम ने क्या कहा?
+What did you bring me?	Was hast du mir mitgebracht?	तुमने मुझे क्या लाया?
+What did you do there?	Was hast du dort gemacht?	तुम वहाँ क्या कर रहे थे?
+What did you do to me?	Was hast du mir angetan?	तुमने मेरे साथ क्या किया?
