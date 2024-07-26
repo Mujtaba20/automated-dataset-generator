@@ -1,14 +1,4 @@
 
-Tom has to be stopped.	Tom muss aufgehalten werden.	टॉम को रोका जाना चाहिए।
-Tom has to go to work.	Tom muss arbeiten gehen.	टॉम को काम करना है।
-Tom has to go to work.	Tom muss zur Arbeit.	टॉम को काम पर जाना है।
-Tom has to study hard.	Tom muss fleißig studieren.	टॉम को लगन से अध्ययन करना है।
-Tom has turned thirty.	Tom ist dreißig geworden.	टॉम तीस बन गया है।
-Tom has very bad luck.	Tom hat sehr viel Pech.	टॉम बहुत अशुभ है।
-Tom has what he wants.	Tom hat, was er will.	टॉम के पास वही है जो वह चाहता है।
-Tom has what it takes.	Tom hat das Zeug dazu.	टॉम के पास क्या है।
-Tom has won the prize.	Tom gewann den Preis.	टॉम ने कीमत जीती।
-Tom has won the prize.	Tom hat den Preis gewonnen.	टॉम ने कीमत जीती।
 Tom has written to me.	Tom hat mir geschrieben.	टॉम ने मुझे लिखा।
 Tom hasn't been fired.	Tom ist nicht entlassen worden.	टॉम को जारी नहीं किया गया है।
 Tom hasn't been found.	Man hat Tom nicht gefunden.	टॉम नहीं मिला है।

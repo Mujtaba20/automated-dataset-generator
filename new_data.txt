@@ -40142,3 +40142,11 @@ Tom has strange ideas.	Tom hat seltsame Ideen.	टॉम के अजीब व
 Tom has three cameras.	Tom hat drei Kameras.	टॉम के तीन कैमरे हैं।
 Tom has three cousins.	Tom hat drei Cousinen.	टॉम के तीन चचेरे भाई हैं।
 Tom has three of them.	Tom hat drei von ihnen.	टॉम के तीन में से तीन हैं।
+Tom has to be stopped.	Tom muss gestoppt werden.	टॉम को रोका जाना चाहिए।
+Tom has to go to work.	Tom muss zur Arbeit gehen.	टॉम को काम पर जाना है।
+Tom has to study hard.	Tom muss hart studieren.	टॉम को मेहनती दिखाना है।
+Tom has turned thirty.	Tom ist dreißig geworden.	टॉम तीस साल का हो गया है।
+Tom has very bad luck.	Tom hat sehr viel Pech.	टॉम का बहुत बुरा भाग्य है।
+Tom has what he wants.	Tom hat, was er will.	टॉम के पास वह है जो उसे चाहिए।
+Tom has what it takes.	Tom hat, was es braucht.	टॉम के पास वह है जो ज़रूरी है।
+Tom has won the prize.	Tom hat den Preis gewonnen.	टॉम ने पुरस्कार जीत लिया है।
