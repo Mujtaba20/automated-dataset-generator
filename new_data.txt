@@ -32180,3 +32180,10 @@ I took that from Tom.	Ich habe das von Tom genommen.	मैंने वह ट�
 I took the wrong bus.	Ich bin in den falschen Bus gestiegen.	मैंने गलत बस में चढ़ लिया।
 I totally understand.	Ich verstehe vollkommen.	मैं पूरी तरह समझता हूँ।
 I traveled by myself.	Ich bin alleine gereist.	मैंने अकेले सफ़र किया।
+I tried not to laugh.	Ich versuchte nicht zu lachen.	मैंने हंसने की कोशिश नहीं की।
+I tried not to stare.	Ich versuchte nicht zu starren.	मैंने टाकने की कोशिश नहीं की।
+I tried on the shoes.	Ich probierte die Schuhe an.	मैंने जूते पहनकर देखा।
+I tried to catch Tom.	Ich versuchte, Tom zu fangen.	मैंने टॉम को पकड़ने की कोशिश की।
+I tried to phone you.	Ich habe versucht, dich anzurufen.	मैंने तुम्हें फोन करने की कोशिश की।
+I tried to shoot Tom.	Ich versuchte, Tom zu erschießen.	मैंने टॉम को गोली मारने की कोशिश की।
+I turned off the tap.	Ich habe den Wasserhahn zugedreht.	मैंने नल बंद कर दिया।
