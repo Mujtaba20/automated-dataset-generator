@@ -22734,3 +22734,11 @@ She leaped for joy.	Sie sprang vor Freude.	वह खुशी में कू�
 She left for Paris.	Sie ist nach Paris abgereist.	वह पेरिस के लिए चली गई।
 She left me a note.	Sie hat mir einen Zettel hinterlassen.	उसने मुझे एक नोट छोड़ दिया।
 She likes sleeping.	Sie mag es zu schlafen.	उसे सोना पसंद है।
+She listens to him.	Sie hört ihm zu.	वह उसकी सुन रही है।
+She lives in Kyoto.	Sie lebt in Kyoto.	वह क्योटो में रहती है।
+She lives with him.	Sie lebt mit ihm.	वह उसके संग रहती है।
+She looked excited.	Sie sah aufgeregt aus.	उसने उत्साहित लग रही थी।
+She looks confused.	Sie sieht verwirrt aus.	वह भ्रमित लग रही है।
+She looks lonesome.	Sie sieht einsam aus.	वह अकेली लग रही है।
+She loves antiques.	Sie liebt Antiquitäten.	वह प्राचीन वस्तुओं से प्रेम करती है।
+She loves children.	Sie liebt Kinder.	उसे बच्चों से प्यार है।

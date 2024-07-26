@@ -1,14 +1,4 @@
 
-She listens to him.	Sie hört ihm zu.	वह उसे सुनती है।
-She listens to him.	Sie hört auf ihn.	वह उसे सुनती है।
-She lives in Kyoto.	Sie wohnt in Kyoto.	वह क्योटो में रहती है।
-She lives with him.	Sie wohnt mit ihm zusammen.	वह उसके साथ रहती है।
-She lives with him.	Sie wohnt bei ihm.	वह उसके साथ रहती है।
-She looked excited.	Sie sah aufgeregt aus.	वह उत्साहित लग रही थी।
-She looks confused.	Sie sieht verwirrt aus.	वह उलझन में दिखती है।
-She looks lonesome.	Sie sieht einsam aus.	यह अकेला दिखता है।
-She loves antiques.	Sie mag Antiquitäten.	वह प्राचीन वस्तुओं को पसंद करती है।
-She loves children.	Sie liebt Kinder.	वह बच्चों से प्यार करती है।
 She loves shopping.	Sie kauft sehr gerne ein.	वह खरीदना पसंद करती है।
 She made him do it.	Sie zwang ihn, es zu tun.	उसने उसे ऐसा करने के लिए मजबूर किया।
 She made him happy.	Sie machte ihn glücklich.	उसने उसे खुश कर दिया।
