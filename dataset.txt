@@ -1,14 +1,4 @@
 
-Tom went back home.	Tom kehrte nach Hause zurück.	टॉम घर लौट आया।
-Tom went back home.	Tom fuhr zurück nach Hause.	टॉम ने घर वापस चला गया।
-Tom went back home.	Tom ging zurück nach Hause.	टॉम घर वापस चला गया।
-Tom went ballistic.	Tom rastete aus.	टॉम बाहर निकला।
-Tom went to Mary's.	Tom fuhr zu Maria nach Hause.	टॉम ने मारिया के लिए घर चलाया।
-Tom will be bummed.	Tom wird geknickt sein.	टॉम को किंक किया जाएगा।
-Tom will be bummed.	Tom wird entmutigt sein.	टॉम को हतोत्साहित किया जाएगा।
-Tom will be missed.	Man wird Tom vermissen.	आप टॉम को याद करेंगे।
-Tom will call back.	Tom wird zurückrufen.	टॉम को वापस बुलाया जाता है।
-Tom will come back.	Tom wird zurückkommen.	टॉम वापस आ जाएगा।
 Tom will come soon.	Tom wird bald kommen.	टॉम जल्द ही आ जाएगा।
 Tom will cooperate.	Tom wird kooperieren.	टॉम सहयोग करेंगे।
 Tom will find Mary.	Tom wird Mary finden.	टॉम को मैरी मिल जाएगी।

@@ -24139,3 +24139,10 @@ Tom wasted no time.	Tom verlor keine Zeit.	टॉमने कोई समय �
 Tom waved his hand.	Tom winkte mit der Hand.	टॉमने अपना हाथ हिलाया।
 Tom waved the flag.	Tom schwenkte die Flagge.	टॉमने झंडा हिलाया।
 Tom wears contacts.	Tom trägt Kontaktlinsen.	टॉम लेंस पहनता है।
+Tom went back home.	Tom ging nach Hause.	टॉम घर चला गया।
+Tom went ballistic.	Tom wurde rabiat.	टॉम गुस्से में चला गया।
+Tom went to Mary's.	Tom ging zu Mary.	टॉम मेरी के पास गया।
+Tom will be bummed.	Tom wird enttäuscht sein.	टॉम निराश होगा।
+Tom will be missed.	Tom wird vermisst werden.	टॉम की याद आएगी।
+Tom will call back.	Tom ruft zurück.	टॉम वापस कॉल करेगा।
+Tom will come back.	Tom wird zurückkommen.	टॉम वापस आएगा।
