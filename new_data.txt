@@ -26624,3 +26624,13 @@ I remember laughing.	Ich erinnere mich ans Lachen.	मैं हँसने क
 I resumed whistling.	Ich habe wieder angefangen zu pfeifen.	मैं फिर से सीटी बजाने लगा।
 I retired last year.	Ich bin letztes Jahr in Rente gegangen.	मैं पिछले साल सेवानिवृत्त हुआ।
 I revised my theory.	Ich habe meine Theorie neu überdacht.	मैंने अपना सिद्धांत पुनःसमीक्षा किया।
+I ruined everything.	Ich habe alles ruiniert.	मैंने सब कुछ बर्बाद कर दिया।
+I said I'd be there.	Ich sagte, ich würde da sein.	मैंने कहा कि मैं वहाँ होऊँगा।
+I said I'll be fine.	Ich habe gesagt, mir geht es gut.	मैंने कहा कि मैं ठीक हूँगा।
+I said good morning.	Ich sagte guten Morgen.	मैंने शुभ प्रभात कहा।
+I said we'd get one.	Ich sagte, wir würden eins bekommen.	मैंने कहा कि हम एक पा लेंगे।
+I saw Tom at church.	Ich sah Tom in der Kirche.	मैंने चर्च में टॉम को देखा।  
+I saw Tom go inside.	Ich sah Tom hineingehen.	मैंने देखा कि टॉम अंदर जा रहा है।
+I saw Tom in Boston.	Ich sah Tom in Boston.	मैंने बोस्टन में टॉम को देखा।
+I saw Tom kiss Mary.	Ich sah Tom Mary küssen.	मैंने देखा कि टॉम ने मैरी को चुम्मा छाटा।
+I saw Tom on Monday.	Ich sah Tom am Montag.	मैंने सोमवार को टॉम को देखा।
