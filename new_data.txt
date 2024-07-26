@@ -29161,3 +29161,11 @@ Tom needs something.	Tom braucht etwas.	टॉम को कुछ चाहि�
 Tom needs the money.	Tom braucht das Geld.	टॉम को पैसे चाहिए।
 Tom needs your help.	Tom braucht deine Hilfe.	टॉम को तुम्हारी मदद चाहिए।
 Tom needs your love.	Tom braucht deine Liebe.	टॉम को तुम्हारा प्यार चाहिए।
+Tom never asked why.	Tom hat nie gefragt, warum.	टॉम कभी नहीं पूछा कि क्यों।
+Tom never came back.	Tom ist nie zurückgekommen.	टॉम कभी वापस नहीं आया।
+Tom never came home.	Tom ist nie nach Hause gekommen.	टॉम कभी घर नहीं आया।
+Tom never complains.	Tom beschwert sich nie.	टॉम कभी शिकायत नहीं करता।
+Tom never confessed.	Tom hat nie gebeichtet.	टॉम कभी इतिराफ नहीं किया।
+Tom never does that.	Tom tut das nie.	टॉम ऐसा कभी नहीं करता।
+Tom never exercises.	Tom trainiert nie.	टॉम कभी अभ्यास नहीं करता।
+Tom never gets sick.	Tom wird nie krank.	टॉम कभी बीमार नहीं होता।
