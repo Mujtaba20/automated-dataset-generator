@@ -1,15 +1,4 @@
 
-Can you use a computer?	Kannst du mit einem Computer umgehen?	क्या आप एक कंप्यूटर को संभाल सकते हैं?
-Can you use a computer?	Könnt ihr mit einem Computer umgehen?	क्या आप एक कंप्यूटर को संभाल सकते हैं?
-Can you use a computer?	Können Sie mit einem Computer umgehen?	क्या आप एक कंप्यूटर को संभाल सकते हैं?
-Can you use a computer?	Kommst du mit einem Rechner zurecht?	क्या आपको कंप्यूटर के साथ मिलता है?
-Can you use a computer?	Können Sie mit einem Rechner umgehen?	क्या आप एक कंप्यूटर को संभाल सकते हैं?
-Can't anything be done?	Kann man da gar nichts machen?	क्या आप कुछ नहीं कर सकते?
-Can't you see I'm busy?	Siehst du nicht, dass ich beschäftigt bin?	क्या आप नहीं देखते हैं कि मैं व्यस्त हूं?
-Can't you speak French?	Kannst du kein Französisch?	क्या आप फ्रेंच नहीं कर सकते?
-Can't you vacuum later?	Kannst du nicht später staubsaugen?	क्या आप बाद में वैक्यूम नहीं कर सकते?
-Can't you vacuum later?	Können Sie nicht später staubsaugen?	क्या आप बाद में वैक्यूम नहीं कर सकते?
-Can't you vacuum later?	Könnt ihr nicht später staubsaugen?	क्या आप बाद में वैक्यूम नहीं कर सकते?
 Cats dislike being wet.	Katzen mögen es nicht, nass zu werden.	बिल्लियों को गीला होना पसंद नहीं है।
 Cats don't eat bananas.	Katzen fressen keine Bananen.	बिल्लियाँ केले नहीं खाते हैं।
 Cats usually hate dogs.	Gewöhnlich hassen Katzen Hunde.	बिल्लियाँ आमतौर पर कुत्तों से नफरत करती हैं।
