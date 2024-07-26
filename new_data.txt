@@ -23295,3 +23295,12 @@ Tom abandoned them.	Tom hat sie im Stich gelassen.	टॉम ने उन्ह
 Tom agreed with me.	Tom stimmte mir zu.	टॉम मेरे साथ सहमत था।
 Tom agrees with me.	Tom stimmt mir zu.	टॉम मेरे साथ सहमत है।
 Tom almost drowned.	Tom wäre beinahe ertrunken.	टॉम लगभग डूब गया था।
+Tom almost fainted.	Tom ist fast in Ohnmacht gefallen.	टॉम लगभग बेहोश हो गया।
+Tom almost laughed.	Tom hat fast gelacht.	टॉम ने लगभग हँसा दिया।
+Tom always says no.	Tom sagt immer nein.	टॉम हर बार कहता है नहीं।
+Tom and I are back.	Tom und ich sind zurück.	टॉम और मैं वापस आ गए हैं।
+Tom and I are fine.	Tom und ich sind in Ordnung.	टॉम और मैं ठीक हैं।
+Tom and I are well.	Tom und ich sind gut.	टॉम और मैं अच्छे हैं।
+Tom and I did that.	Tom und ich haben das gemacht.	टॉम और मैंने वह किया।
+Tom and I'll be OK.	Tom und ich werden in Ordnung sein.	टॉम और मैं ठीक हो जाएंगे।
+Tom and Mary agree.	Tom und Mary stimmen zu.	टॉम और मेरी सहमत हैं।
