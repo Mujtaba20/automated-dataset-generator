@@ -29484,3 +29484,9 @@ Tom's very effusive.	Tom ist sehr überschwänglich.	टॉम बहुत उ�
 Tom, do you like me?	Tom, magst du mich?	टॉम, क्या आप मुझसे पसंद करते हैं?
 Tom, how's it going?	Tom, wie läuft es?	टॉम, सब कुछ कैसे चल रहा है?
 Tonight sounds good.	Heute Abend klingt gut.	आज रात अच्छा लग रहा है।
+Trees provide shade.	Bäume spenden Schatten.	पेड़ छाया प्रदान करते हैं।
+Try harder tomorrow.	Versuche morgen härter.	कल ज्यादा प्रयास करें।
+Try it out yourself.	Probier es selbst aus.	खुद से आज़माएं।
+Try on this sweater.	Probier diesen Pullover an.	इस स्वेटर को पहनो।
+Turn down the radio.	Stell das Radio leiser.	रेडियो को नीचे करो।
+Turn it off, please.	Schalte es bitte aus.	कृपया इसे बंद करें।

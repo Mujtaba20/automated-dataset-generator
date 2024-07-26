@@ -1,14 +1,4 @@
 
-Trees provide shade.	Bäume spenden Schatten.	पेड़ छाया दान करते हैं।
-Try harder tomorrow.	Gib dir morgen mehr Mühe.	कल अपने आप को और अधिक प्रयास दें।
-Try harder tomorrow.	Gib dir morgen größere Mühe.	कल अपने आप को एक बड़ा प्रयास दें।
-Try it out yourself.	Versuch es selbst.	खुद कोशिश करना।
-Try it out yourself.	Versucht es selbst.	खुद कोशिश करना।
-Try it out yourself.	Versuchen Sie es selbst.	खुद कोशिश करना।
-Try on this sweater.	Probier diesen Pullover an.	इस स्वेटर की कोशिश करो।
-Try on this sweater.	Probieren Sie diesen Pullover an.	इस स्वेटर की कोशिश करो।
-Turn down the radio.	Stell das Radio leiser.	रेडियो को शांत रखें।
-Turn it off, please.	Bitte ausstellen!	कृपया जारी!
 Turn off the lights.	Schalte das Licht aus.	बत्ती बंद करें।
 Turn the car around.	Wende!	मोड़!
 Turn the car around.	Wenden Sie!	मुड़ो!
