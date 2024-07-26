@@ -1,14 +1,4 @@
 
-Tom drives a black car.	Tom fährt ein schwarzes Auto.	टॉम एक काली कार चलाता है।
-Tom drives a black car.	Tom fährt einen schwarzen Wagen.	टॉम एक काली कार चलाता है।
-Tom drives a tow truck.	Tom fährt einen Abschleppwagen.	टॉम एक टो ट्रक चलाता है।
-Tom drives a white car.	Tom fährt ein weißes Auto.	टॉम एक सफेद कार चलाता है।
-Tom drives a white car.	Tom fährt einen weißen Wagen.	टॉम एक सफेद कार चलाता है।
-Tom drives an old Ford.	Tom fährt einen alten Ford.	टॉम एक पुरानी फोर्ड ड्राइव करता है।
-Tom dyed his hair blue.	Tom hat sich die Haare blau gefärbt.	टॉम ने बालों को नीला रंग दिया है।
-Tom ended up in prison.	Tom ist im Gefängnis gelandet.	टॉम जेल में समाप्त हो गया।
-Tom escaped the danger.	Tom entkam der Gefahr.	टॉम खतरे से बच गया।
-Tom eventually gave up.	Tom gab schließlich auf.	टॉम ने आखिरकार हार मान ली।
 Tom explained it to me.	Tom hat es mir erklärt.	टॉम ने मुझे समझाया।
 Tom explained it to me.	Tom erklärte es mir.	टॉम ने मुझे समझाया।
 Tom feels the same way.	Tom empfindet auch so.	टॉम भी ऐसा ही महसूस करता है।
