@@ -32817,3 +32817,12 @@ It was all delicious!	Es war alles köstlich!	सब स्वादिष्ट
 It was an act of God.	Es war ein Akt Gottes.	यह भगवान का काम था।
 It was an awful week.	Es war eine schreckliche Woche.	यह एक भयानक हफ्ता था।
 It was hard at first.	Es war zuerst schwer.	शुरू में यह कठिन था।
+It was hot yesterday.	Es war gestern warm.	कल गर्म था।
+It was kind of funny.	Es war irgendwie lustig.	यह किस्म का मज़ाक था।
+It was my first kiss.	Es war mein erster Kuss.	यह मेरा पहला किस्सा था।
+It was time to leave.	Es war Zeit zu gehen.	जाने का समय था।
+It was too expensive.	Es war zu teuer.	यह बहुत महंगा था।
+It wasn't Tom's idea.	Es war nicht Toms Idee.	यह टॉम का विचार नहीं था।
+It wasn't a burglary.	Es war kein Einbruch.	यह एक घर में चोरी नहीं था।
+It wasn't about that.	Es ging nicht darum.	यह उसके बारे में नहीं था।
+It wasn't hard to do.	Es war nicht schwer zu tun.	इसे करना मुश्किल नहीं था।
