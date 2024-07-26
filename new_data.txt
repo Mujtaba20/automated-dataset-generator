@@ -37076,3 +37076,12 @@ I agree to your terms.	Ich stimme deinen Bedingungen zu.	मैं आपकी 
 I agree with his plan.	Ich stimme seinem Plan zu.	मैं उसकी योजना से सहमत हूँ।
 I already feel better.	Ich fühle mich schon besser.	मैं पहले से ही बेहतर महसूस कर रहा हूँ।
 I already have a plan.	Ich habe bereits einen Plan.	मेरे पास पहले से ही एक योजना है।
+I also have a brother.	Ich habe auch einen Bruder.	मेरे पास भी एक भाई है।
+I also wanted to know.	Ich wollte auch wissen.	मुझे भी जानना था।
+I always get up early.	Ich stehe immer früh auf.	मैं हमेशा जल्दी उठता हूँ।
+I always take the bus.	Ich nehme immer den Bus.	मैं हमेशा बस से जाता हूँ।
+I always wanted a dog.	Ich wollte immer einen Hund haben.	मैं हमेशा एक कुत्ता चाहता था।
+I am 30 years old now.	Ich bin jetzt 30 Jahre alt.	मैं अब 30 साल का हूँ।
+I am an honest person.	Ich bin eine ehrliche Person.	मैं एक ईमानदार इंसान हूँ।
+I am an office worker.	Ich bin ein Büroangestellter.	मैं एक कार्यालय कर्मचारी हूँ।
+I am blinking my eyes.	Ich blinke mit den Augen.	मैं अपनी आंखें झपका रहा हूँ।
