@@ -1,14 +1,4 @@
 
-Is Tom at home now?	Ist Tom gerade zu Hause?	क्या टॉम अभी घर पर है?
-Is Tom celebrating?	Feiert Tom?	क्या टॉम मनाता है?
-Is Tom coming here?	Kommt Tom hierher?	क्या टॉम यहाँ आता है?
-Is Tom complaining?	Beschwert sich Tom?	टॉम की शिकायत है?
-Is Tom from Boston?	Ist Tom aus Boston?	बोस्टन से टॉम है?
-Is Tom still alive?	Lebt Tom noch?	अभी भी टॉम रहता है?
-Is Tom still awake?	Ist Tom noch wach?	क्या टॉम अभी भी जाग रहा है?
-Is Tom there alone?	Ist Tom allein dort?	क्या टॉम अकेला है?
-Is Tom your nephew?	Ist Tom dein Neffe?	क्या टॉम आपका भतीजा है?
-Is breakfast ready?	Ist das Frühstück fertig?	क्या नाश्ता तैयार है?
 Is everybody happy?	Sind alle zufrieden?	क्या हर कोई संतुष्ट है?
 Is everybody ready?	Ist jeder fertig?	क्या हर कोई तैयार है?
 Is he back already?	Ist er schon zurück?	क्या वह पहले से ही वापस आ गया है?

@@ -22111,3 +22111,13 @@ Ignorance is bliss.	Unwissenheit ist Glückseligkeit.	अज्ञान आन�
 Is Boston far away?	Ist Boston weit entfernt?	क्या बोस्टन दूर है?
 Is Tom a Christian?	Ist Tom ein Christ?	क्या टॉम एक ईसाई है?
 Is Tom a good cook?	Ist Tom ein guter Koch?	क्या टॉम एक अच्छा रसोइया है?
+Is Tom at home now?	Ist Tom jetzt zu Hause?	क्या टॉम अब घर पर है?
+Is Tom celebrating?	Feiert Tom?	क्या टॉम जश्न मना रहा है?
+Is Tom coming here?	Kommt Tom hierher?	क्या टॉम यहाँ आ रहा है?
+Is Tom complaining?	Beschwert sich Tom?	क्या टॉम शिकायत कर रहा है?
+Is Tom from Boston?	Ist Tom aus Boston?	क्या टॉम बोस्टन से है?
+Is Tom still alive?	Ist Tom immer noch am Leben?	क्या टॉम अब भी जीवित है?
+Is Tom still awake?	Ist Tom noch wach?	क्या टॉम अब भी जागा है?
+Is Tom there alone?	Ist Tom alleine da?	क्या वहां सिर्फ टॉम है?
+Is Tom your nephew?	Ist Tom dein Neffe?	क्या टॉम आपका भतीजा है?
+Is breakfast ready?	Ist das Frühstück fertig?	क्या नाश्ता तैयार है?
