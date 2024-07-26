@@ -1,14 +1,4 @@
 
-I stared at the man.	Ich starrte den Mann an.	मैं आदमी को घूरता रहा।
-I still can't dance.	Ich kann noch immer nicht tanzen.	मैं अभी भी नृत्य नहीं कर सकता।
-I strongly disagree.	Ich bin da völlig anderer Meinung.	मैं पूरी तरह से अलग हूं।
-I studied in Boston.	Ich habe in Boston studiert.	मैंने बोस्टन में अध्ययन किया।
-I studied very hard.	Ich habe sehr fleißig studiert.	मैंने बहुत कठिन अध्ययन किया।
-I study French here.	Ich studiere Französisch hier.	मैं यहां फ्रेंच का अध्ययन करता हूं।
-I study French, too.	Ich lerne auch Französisch.	मैं भी फ्रेंच सीखता हूं।
-I study art history.	Ich studiere Kunstgeschichte.	मैं कला इतिहास का अध्ययन करता हूं।
-I study mathematics.	Ich studiere Mathematik.	मैं गणित का अध्ययन करता हूं।
-I suppressed a yawn.	Ich unterdrückte ein Gähnen.	मैंने एक जम्हाई दबा दी।
 I suspect he is ill.	Ich fürchte, er ist krank.	मुझे डर है कि वह बीमार है।
 I suspect he is ill.	Er ist krank, fürchte ich.	वह बीमार है, मुझे डर है।
 I talked to friends.	Ich habe mit Freunden gesprochen.	मैंने दोस्तों से बात की।

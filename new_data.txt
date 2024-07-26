@@ -26656,3 +26656,13 @@ I slept like a baby.	Ich habe geschlafen wie ein Baby.	मैं बच्चे
 I slept on the boat.	Ich habe auf dem Schiff geschlafen.	मैंने जहाज पर सोया।
 I solved the puzzle.	Ich habe das Rätsel gelöst.	मैंने पहेली का समाधान किया।
 I speak French, too.	Ich spreche auch Französisch.	मैं फ्रेंच भी बोलता हूँ।
+I stared at the man.	Ich starrte den Mann an.	मैंने उस आदमी को घुरा.
+I still can't dance.	Ich kann immer noch nicht tanzen.	मैं अभी भी नाच नहीं सकता।
+I strongly disagree.	Ich widerspreche entschieden.	मैं मजबूती से असहमत हूं।
+I studied in Boston.	Ich habe in Boston studiert.	मैंने बॉस्टन में पढ़ाई की।
+I studied very hard.	Ich habe sehr hart gelernt.	मैंने बहुत मेहनत की थी।
+I study French here.	Ich studiere hier Französisch.	मैं यहाँ फ्रेंच पढ़ता हूँ।
+I study French, too.	Ich studiere auch Französisch.	मैं भी फ्रेंच पढ़ता हूँ।
+I study art history.	Ich studiere Kunstgeschichte.	मैं कला इतिहास पढ़ता हूँ।
+I study mathematics.	Ich studiere Mathematik.	मैं गणित पढ़ता हूँ।
+I suppressed a yawn.	Ich unterdrückte ein Gähnen.	मैंने एक उंकाली रोकी।
