@@ -1,14 +1,4 @@
 
-The suit's custom-made.	Der Anzug ist maßgeschneidert.	सूट दर्जी है।
-The suit's custom-made.	Der Anzug ist eine Maßanfertigung.	सूट एक उपाय है।
-The suit's custom-made.	Der Anzug ist eine Spezialanfertigung.	सूट एक विशेष समझौता है।
-The sun has just risen.	Die Sonne ist gerade aufgegangen.	सूरज बस गुलाब है।
-The sun shone brightly.	Die Sonne strahlte.	सूरज मुस्करा रहा था।
-The table has been set.	Der Tisch ist gedeckt.	तालिका सेट है।
-The tea is boiling hot.	Der Tee ist kochend heiß.	चाय उबलती है।
-The teacher is Chinese.	Der Lehrer ist Chinese.	शिक्षक चीनी है।
-The teacher is Chinese.	Die Lehrerin ist eine Chinesin.	शिक्षक एक चीनी है।
-The teacher is Chinese.	Der Lehrer ist ein Chinese.	शिक्षक एक चीनी है।
 The test was very easy.	Die Prüfung war ganz leicht.	परीक्षा बहुत आसान थी।
 The toilet is upstairs.	Die Toilette ist oben.	शौचालय ऊपर है।
 The train came on time.	Der Zug kam pünktlich an.	ट्रेन समय पर आ गई।
