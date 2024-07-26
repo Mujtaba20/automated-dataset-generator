@@ -37830,3 +37830,11 @@ I slept on my stomach.	Ich habe auf meinem Bauch geschlafen.	मैंने अ
 I sneeze all the time.	Ich niese die ganze Zeit.	मैं हमेशा छींकता हूँ।
 I speak English a lot.	Ich spreche viel Englisch.	मैं बहुत अंग्रेज़ी बोलता हूँ।
 I spoke French to Tom.	Ich habe mit Tom Französisch gesprochen.	मैंने टॉम से फ्रेंच बोला।
+I spoke to Tom myself.	Ich habe mit Tom selbst gesprochen.	मैंने अपने आप टॉम से बात की।
+I spoke to my parents.	Ich habe mit meinen Eltern gesprochen.	मैंने अपने माता-पिता से बात की।
+I stayed home all day.	Ich habe den ganzen Tag zu Hause verbracht.	मैंने पूरे दिन घर में बिताया।
+I stayed up all night.	Ich blieb die ganze Nacht wach.	मैंने पूरी रात जागते रहा।
+I still have your key.	Ich besitze noch deinen Schlüssel.	मेरे पास तुम्हारी कुंजी अभी भी है।
+I stopped going there.	Ich hörte auf dorthin zu gehen.	मैं वहाँ जाना बंद कर दिया।
+I suppose that's true.	Ich nehme an, das ist wahr.	मुझे लगता है कि सच है।
+I swim in the morning.	Ich schwimme morgens.	मैं सुबह प्लंग करता हूँ।
