@@ -34268,3 +34268,10 @@ Tom has gone fishing.	Tom ist angeln gegangen.	टॉम मछली पकड�
 Tom has gone too far.	Tom ist zu weit gegangen.	टॉम ने ज्यादा दूर जा दिया है।
 Tom has good hearing.	Tom hat ein gutes Gehör.	टॉम की अच्छी सुनने की शक्ति है।
 Tom has helped a lot.	Tom hat viel geholfen.	टॉम ने बहुत मदद की है।
+Tom has his own room.	Tom hat sein eigenes Zimmer.	टॉम के पास अपना कमरा है।
+Tom has just arrived.	Tom ist gerade angekommen.	टॉम अभी आया है।
+Tom has located Mary.	Tom hat Mary gefunden.	टॉम ने मेरी को स्थान पर पहुंचाया है।
+Tom has lost control.	Tom hat die Kontrolle verloren.	टॉम ने नियंत्रण खो दिया है।
+Tom has lost his job.	Tom hat seinen Job verloren.	टॉम ने अपनी नौकरी गवा दी है।
+Tom has lots of time.	Tom hat viel Zeit.	टॉम के पास बहुत समय है।
+Tom has many enemies.	Tom hat viele Feinde.	टॉम के कई दुश्मन हैं।

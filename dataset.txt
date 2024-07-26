@@ -1,14 +1,4 @@
 
-Tom has his own room.	Tom hat sein eigenes Zimmer.	टॉम का अपना कमरा है।
-Tom has his own room.	Tom hat ein eigenes Zimmer.	टॉम का अपना कमरा है।
-Tom has just arrived.	Tom ist gerade angekommen.	टॉम अभी आ गया है।
-Tom has located Mary.	Tom hat Maria gefunden.	टॉम ने मारिया पाया।
-Tom has located Mary.	Tom hat Maria ausfindig gemacht.	टॉम ने मारिया को पाया है।
-Tom has lost control.	Tom hat die Kontrolle verloren.	टॉम ने नियंत्रण खो दिया है।
-Tom has lost his job.	Tom hat seine Arbeit verloren.	टॉम ने अपना काम खो दिया है।
-Tom has lost his job.	Tom hat seine Anstellung verloren.	टॉम ने अपनी नौकरी खो दी है।
-Tom has lots of time.	Tom hat viel Zeit.	टॉम के पास बहुत समय है।
-Tom has many enemies.	Tom hat viele Feinde.	टॉम के कई दुश्मन हैं।
 Tom has many friends.	Tom hat viele Freunde.	टॉम के कई दोस्त हैं।
 Tom has many talents.	Tom hat viele Talente.	टॉम के पास कई प्रतिभाएं हैं।
 Tom has no allergies.	Tom hat keine Allergien.	टॉम को कोई एलर्जी नहीं है।
