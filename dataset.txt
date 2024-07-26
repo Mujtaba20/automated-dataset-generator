@@ -1,14 +1,4 @@
 
-Our TV isn't working.	Unser Fernseher ist kaputt.	हमारा टीवी टूट गया है।
-Our cities are dirty.	Unsere Städte sind dreckig.	हमारे शहर गंदे हैं।
-Our dog has run away.	Unser Hund ist weggelaufen.	हमारा कुत्ता भाग गया।
-Our dog seldom bites.	Unser Hund beißt nur selten.	हमारा कुत्ता शायद ही कभी काटता है।
-Our fridge is broken.	Unser Kühlschrank ist kaputt.	हमारा रेफ्रिजरेटर टूट गया है।
-Our horses are tired.	Unsere Pferde sind müde.	हमारे घोड़े थक गए हैं।
-Our marriage is over.	Unsere Ehe endete.	हमारी शादी समाप्त हो गई।
-Our store isn't open.	Unser Geschäft ist nicht geöffnet.	हमारा व्यवसाय खुला नहीं है।
-Our train is delayed.	Unser Zug hat Verspätung.	हमारी ट्रेन में देरी हो रही है।
-Pack them in the box.	Pack sie in die Kiste.	उन्हें बॉक्स में रखो।
 People don't do that.	Man macht das nicht.	आप ऐसा नहीं करते।
 People don't do that.	Die Leute machen das nicht.	लोग नहीं।
 People here love you.	Die Leute hier lieben dich.	यहाँ के लोग आपसे प्यार करते हैं।
