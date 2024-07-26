@@ -21517,3 +21517,11 @@ I must do it again.	Ich muss es wieder tun.	मुझे इसे फिर स
 I must make a call.	Ich muss anrufen.	मुझे कॉल करना होगा।
 I need Tom's money.	Ich brauche Toms Geld.	मुझे टॉम के पैसे चाहिए।
 I need a chauffeur.	Ich brauche einen Chauffeur.	मुझे एक ड्राइवर चाहिए।
+I need a cigarette.	Ich brauche eine Zigarette.	मुझे एक सिगरेट की जरुरत है।
+I need a long rope.	Ich brauche ein langes Seil.	मुझे एक लंबी रस्सी की आवश्यकता है।
+I need a mouse pad.	Ich brauche ein Mauspad.	मुझे एक माउस पैड की जरुरत है।
+I need a new hobby.	Ich brauche ein neues Hobby.	मुझे एक नया शौक चाहिए।
+I need a new shirt.	Ich brauche ein neues Hemd.	मुझे एक नयी कमीज़ चाहिए।
+I need a nurse now.	Ich brauche jetzt eine Krankenschwester.	मुझे अभी एक नर्स की आवश्यकता है।
+I need a secretary.	Ich brauche eine Sekretärin.	मुझे एक सहायक की आवश्यकता है।
+I need a stopwatch.	Ich brauche eine Stoppuhr.	मुझे एक स्टॉपवॉच की आवश्यकता है।

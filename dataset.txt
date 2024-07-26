@@ -1,14 +1,4 @@
 
-I need a cigarette.	Ich brauche eine Zigarette.	मुझे एक सिगरेट की जरूरत है।
-I need a long rope.	Ich brauche ein langes Seil.	मुझे एक लंबी रस्सी की जरूरत है।
-I need a mouse pad.	Ich brauche ein Mauspad.	मुझे एक माउस पैड चाहिए।
-I need a mouse pad.	Ich brauche eine Mausunterlage.	मुझे एक माउस पैड चाहिए।
-I need a new hobby.	Ich brauche ein neues Hobby.	मुझे एक नया शौक चाहिए।
-I need a new shirt.	Ich brauche ein neues Hemd.	मुझे एक नई शर्ट चाहिए।
-I need a nurse now.	Ich brauche jetzt sofort eine Krankenschwester.	मुझे अब तुरंत एक नर्स की जरूरत है।
-I need a secretary.	Ich brauche eine Sekretärin.	मुझे एक सचिव चाहिए।
-I need a secretary.	Ich brauche einen Sekretär.	मुझे एक सचिव चाहिए।
-I need a stopwatch.	Ich brauche eine Stoppuhr.	मुझे एक स्टॉपवॉच चाहिए।
 I need a volunteer.	Ich brauche einen Freiwilligen.	मुझे एक स्वयंसेवक की जरूरत है।
 I need an envelope.	Ich brauche einen Briefumschlag.	मुझे एक लिफाफे की ज़रूरत है.
 I need an envelope.	Ich benötige einen Briefumschlag.	मुझे एक लिफाफे की ज़रूरत है.
