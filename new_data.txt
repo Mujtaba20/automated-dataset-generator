@@ -30114,3 +30114,13 @@ You broke the rules.	Du hast die Regeln gebrochen.	तुमने नियम 
 You can borrow mine.	Du kannst mir leihen.	तुम मेरा उधार ले सकते हो।
 You can call me Tom.	Du kannst mich Tom nennen.	तुम मुझे टॉम कह सकते हो।
 You can count on me.	Du kannst dich auf mich verlassen.	तुम मुझ पर भरोसा कर सकते हो।
+You can go home now.	Du kannst jetzt nach Hause gehen.	आप अब घर जा सकते हैं।
+You can rely on her.	Du kannst dich auf sie verlassen.	आप उस पर भरोसा कर सकते हैं।
+You can rely on him.	Du kannst dich auf ihn verlassen.	आप उस पर भरोसा कर सकते हैं।
+You can rely on him. - Different Meaning	Du kannst ihm vertrauen.	आप उस पर निर्भर कर सकते हैं।
+You can shower here.	Du kannst hier duschen.	आप यहाँ शावर कर सकते हैं।
+You can shut up now.	Du kannst jetzt schweigen.	आप अब चुप रह सकते हैं।
+You can sit with me.	Du kannst neben mir sitzen.	आप मेरे साथ बैठ सकते हैं।
+You can take a taxi.	Du kannst ein Taxi nehmen.	आप टैक्सी ले सकते हैं।
+You can take a taxi. - Different Meaning	Sie können ein Taxi rufen.	आप टैक्सी बुला सकते हैं।
+You can take a taxi. - Another Different Meaning	Du darfst ein Taxi nehmen.	आप एक टैक्सी ले सकते हैं।
