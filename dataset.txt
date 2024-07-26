@@ -1,14 +1,4 @@
 
-You're wasting ammo.	Du vergeudest Munition.	आपने गोला बारूद का नमूना लिया।
-You're wasting ammo.	Sie verschwenden Munition.	वे गोला बारूद बर्बाद करते हैं।
-You're wasting time.	Du verschwendest deine Zeit.	आप अपना समय बर्बाद करते हैं।
-You're wasting time.	Sie vergeuden Ihre Zeit.	उन्होंने अपना समय बर्बाद कर दिया।
-You're wasting time.	Ihr vertut eure Zeit.	आपका समय होगा।
-You're way too late.	Du bist viel zu spät.	तुम्हें बहुत देर हो गयी।
-You're way too late.	Sie sind viel zu spät.	उन्हें बहुत देर हो चुकी है।
-You're way too late.	Ihr seid viel zu spät.	आप बहुत देर हो चुके हैं।
-You're with friends.	Du bist unter Freunden.	आप दोस्तों में से हैं।
-You're with friends.	Sie befindet sich unter Freunden.	यह दोस्तों में से है।
 You're working hard.	Du arbeitest emsig.	आप व्यस्त काम करते हैं।
 You're working hard.	Sie arbeiten eifrig.	आप उत्सुकता से काम करते हैं।
 You're working hard.	Ihr arbeitet schwer.	आप कड़ी मेहनत करें।

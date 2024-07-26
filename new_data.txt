@@ -30326,3 +30326,7 @@ You're very helpful. (alternate meaning)	Du bist sehr unterstützend.	आप ब
 You're very patient.	Du bist sehr geduldig.	आप बहुत सब्रशील हैं।
 You're very selfish.	Du bist sehr egoistisch.	आप बहुत अकेलापन से भरा हुआ है।
 You're very unusual.	Du bist sehr ungewöhnlich.	आप बहुत असामान्य हैं।
+You're wasting ammo.	Du vergeudest Munition.	तुम गोली सर्वस्त्र को बर्बाद कर रहे हो।
+You're wasting time.	Du verschwendest Zeit.	आप समय व्यर्थ कर रहे हैं।
+You're way too late.	Du bist viel zu spät.	तुम इतनी देर से क्यों आए?
+You're with friends.	Du bist bei Freunden.	आप दोस्तों के साथ हैं।
