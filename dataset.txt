@@ -1,15 +1,4 @@
 
-The old man looks sad.	Der Alte sieht traurig aus.	बूढ़ा दुखी दिखता है।
-The other boys smiled.	Die anderen Jungen lächelten.	दूसरे लड़के मुस्कुराए।
-The other kids smiled.	Die anderen Kinder lächelten.	अन्य बच्चे मुस्कुराए।
-The pain is agonizing.	Der Schmerz ist unerträglich.	दर्द असहनीय है।
-The pain was terrible.	Der Schmerz war schrecklich.	दर्द भयानक था।
-The park was deserted.	Der Park war menschenleer.	पार्क सुनसान था।
-The patient got worse.	Der Zustand des Patienten verschlechterte sich.	रोगी की स्थिति बिगड़ गई।
-The pie was delicious.	Der Kuchen war köstlich.	केक स्वादिष्ट था।
-The pie was delicious.	Die Pastete war köstlich.	पेस्ट स्वादिष्ट था।
-The pizza tasted good.	Die Pizza schmeckte gut.	पिज्जा ने अच्छा स्वाद लिया।
-The pizza tasted good.	Die Pizza war gut.	पिज्जा अच्छा था।
 The plan was executed.	Der Plan wurde durchgeführt.	योजना बनाई गई थी।
 The pleasure was mine.	Die Freude war ganz meinerseits.	खुशी पूरी तरह से मेरे हिस्से पर थी।
 The police are coming.	Die Polizei kommt.	पुलिस आ गई।

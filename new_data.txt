@@ -39508,3 +39508,12 @@ The mountain is green.	Der Berg ist grün.	पहाड़ हरा है।
 The music is too loud.	Die Musik ist zu laut.	संगीत बहुत जोर से बज रहा है।
 The news made her sad.	Die Nachricht hat sie traurig gemacht.	समाचार ने उसे उदास कर दिया।
 The noise woke her up.	Der Lärm weckte sie auf.	शोर ने उसे जगाया।
+The old man looks sad.	Der alte Mann sieht traurig aus.	बूढ़ा आदमी उदास दिखता है।
+The other boys smiled.	Die anderen Jungen lächelten.	अन्य लड़के मुस्कुराए।
+The other kids smiled.	Die anderen Kinder lächelten.	अन्य बच्चे मुस्कुराए।
+The pain is agonizing.	Der Schmerz ist quälend.	दर्द जीना है।
+The pain was terrible.	Der Schmerz war schrecklich.	दर्द भयानक था।
+The park was deserted.	Der Park war verlassen.	पार्क अकेला था।
+The patient got worse.	Der Patient wurde schlechter.	रोगी बिगड़ गया।
+The pie was delicious.	Der Kuchen war köstlich.	पाई स्वादिष्ट था।
+The pizza tasted good.	Die Pizza schmeckte gut.	पिज्जा अच्छा था।
