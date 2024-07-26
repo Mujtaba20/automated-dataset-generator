@@ -38307,3 +38307,10 @@ I'm sure Tom is proud.	Ich bin sicher, dass Tom stolz ist.	मुझे यक�
 I'm sure Tom told you.	Ich bin sicher, dass Tom dir gesagt hat.	मुझे यकीन है कि टॉमने तुम्हें बताया है।
 I'm swamped with work.	Ich bin von der Arbeit überwältigt.	मैं काम से भरपूर हूँ।
 I'm taking it with me.	Ich nehme es mit.	मैं यह साथ ले रहा हूँ।
+I'm taking the stairs.	Ich nehme die Treppe.	मैं सीढ़ियां चढ़ रहा हूँ।
+I'm talking about you.	Ich spreche über dich.	मैं तुम्हारे बारे में बात कर रहा हूँ।
+I'm terrible at chess.	Ich bin furchtbar im Schach.	मैं शतरंज में भयानक हूँ।
+I'm the one they want.	Ich bin derjenige, den sie wollen.	मैं वह हूँ जिसे वे चाहते हैं।
+I'm thinking about it.	Ich denke darüber nach.	मैं उसके बारे में सोच रहा हूँ।
+I'm thinking of going.	Ich überlege zu gehen.	मैं जाने का विचार कर रहा हूँ।
+I'm to blame, not you.	Ich bin schuld, nicht du.	मेरी गलती है, नहीं तुम्हारी।

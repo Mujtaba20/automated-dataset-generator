@@ -1,15 +1,4 @@
 
-I'm taking the stairs.	Ich nehme die Treppe.	मैं सीढ़ियाँ लेता हूं।
-I'm talking about you.	Ich spreche über dich.	मैं आपके बारे में बात कर रहा हूं।
-I'm terrible at chess.	Ich bin ein entsetzlicher Schachspieler.	मैं एक भयावह शतरंज खिलाड़ी हूं।
-I'm the one they want.	Ich bin derjenige, den sie wollen.	मैं वह हूं जो आप चाहते हैं।
-I'm thinking about it.	Ich überleg mir das.	मैं बारे में सोचता हूं।
-I'm thinking about it.	Ich denke darüber nach.	मैं इसके बारे में सोच रहा हूँ।
-I'm thinking of going.	Ich denke daran zu gehen.	मैं जाने के बारे में सोचता हूं।
-I'm to blame, not you.	Ich bin schuld, nicht du.	मुझे दोष देना है, आप नहीं।
-I'm to blame, not you.	Ich bin schuld, nicht ihr.	मुझे दोष देना है, उसे नहीं।
-I'm to blame, not you.	Ich bin schuld, nicht Sie.	मुझे दोष देना है, आप नहीं।
-I'm to blame, not you.	Die Schuld trifft nicht dich, sondern mich.	गलती आपको प्रभावित नहीं करती है, लेकिन मुझे।
 I'm too tired to help.	Ich bin zu müde, um zu helfen.	मैं मदद करने के लिए बहुत थक गया हूं।
 I'm trying not to cry.	Ich versuche gerade, nicht zu weinen.	मैं रोने की कोशिश कर रहा हूं।
 I'm unable to do that.	Ich kann das nicht tun.	मैं ऐसा नहीं कर सकता।
