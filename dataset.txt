@@ -1,14 +1,4 @@
 
-He's looking at you.	Er sieht dich an.	वह आपको देखता है।
-He's my best friend.	Er ist mein bester Freund.	वह मेरा सबसे अच्छा मित्र है।
-He's on sentry duty.	Er hat Wachdienst.	उसके पास सुरक्षा गार्ड हैं।
-He's playing Tetris.	Er spielt Tetris.	वह टेट्रिस खेलता है।
-He's probably wrong.	Er hat wahrscheinlich unrecht.	वह शायद गलत है।
-He's really selfish.	Er ist sehr egoistisch.	वह बहुत स्वार्थी है।
-He's scared of dogs.	Er hat Angst vor Hunden.	वह कुत्तों से डरता है।
-He's taller than me.	Er ist größer als ich.	वह मुझसे बड़ा है।
-He's the oldest son.	Er ist der älteste Sohn.	वह सबसे बड़ा बेटा है।
-He's too old for me.	Er ist zu alt für mich.	वह मेरे लिए बहुत पुराना है।
 He's tough on crime.	Er greift hart gegen das Verbrechen durch.	वह अपराध के खिलाफ मुश्किल से रोता है।
 He's very skeptical.	Er ist sehr skeptisch.	यह बहुत संदेह है।
 Her bicycle is blue.	Ihr Fahrrad ist blau.	आपकी बाइक नीली है।

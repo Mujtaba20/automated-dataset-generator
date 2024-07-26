@@ -25849,3 +25849,13 @@ He's got a headache.	Er hat Kopfschmerzen.	उसे सिरदर्द ह�
 He's homeward bound.	Er ist auf dem Weg nach Hause.	वह घर की ओर चल रहा है।
 He's in big trouble.	Er steckt in großen Schwierigkeiten.	वह बड़ी मुश्किल में है।
 He's in the kitchen.	Er ist in der Küche.	वह रसोई में है।
+He's looking at you.	Er schaut dich an.	वह तुम्हें देख रहा है।
+He's my best friend.	Er ist mein bester Freund.	वह मेरा सबसे अच्छा दोस्त है।
+He's on sentry duty.	Er hat Wachdienst.	वह निगरानी ड्यूटी पर है।
+He's playing Tetris.	Er spielt Tetris.	वह टेट्रिस खेल रहा है।
+He's probably wrong.	Er hat wahrscheinlich Unrecht.	शायद वह गलत है।
+He's really selfish.	Er ist wirklich egoistisch.	वह सचमुच आत्मीय है।
+He's scared of dogs.	Er hat Angst vor Hunden.	उसे कुत्तों से डर लगता है।
+He's taller than me.	Er ist größer als ich.	वह मुझसे ऊँचा है।
+He's the oldest son.	Er ist der älteste Sohn.	वह सबसे बड़ा बेटा है।
+He's too old for me.	Er ist zu alt für mich.	वह मेरे लिए बहुत पुराना है।
