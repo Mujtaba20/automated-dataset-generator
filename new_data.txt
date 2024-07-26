@@ -27352,3 +27352,13 @@ It was an emergency.	Es war ein Notfall.	यह एक आपातकाली�
 It was child's play.	Es war kinderleicht.	यह बच्चों का खेल था।
 It was cold outside.	Es war kalt draußen.	बाहर सर्दी थी।
 It was dark by then.	Dann war es dunkel.	तब अंधेरा हो गया था।
+It was excruciating.	Es war unerträglich.	यह असहनीय था।
+It was fine all day.	Es war den ganzen Tag in Ordnung.	यह पूरे दिन अच्छा था।
+It was getting dark.	Es wurde dunkel.	यह अंधेरा हो रहा था।
+It was hard as rock.	Es war hart wie Stein.	यह पत्थर की तरह कठोर था।
+It was hard as rock. (Different meaning)	Es war schwer wie ein Fels.	यह एक चट्टान के रूप में कठिन था।
+It was his decision.	Es war seine Entscheidung.	यह उसका निर्णय था।
+It was his decision. (Different meaning)	Es war seine Wahl.	यह उसका निर्णय था।
+It was just a guess.	Es war nur eine Vermutung.	यह सिर्फ एक अनुमान था।
+It was my first job.	Es war mein erster Job.	यह मेरी पहली नौकरी थी।
+It was only a dream.	Es war nur ein Traum.	यह सिर्फ एक सपना था।
