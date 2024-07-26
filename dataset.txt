@@ -1,14 +1,4 @@
 
-We're on a schedule.	Wir haben einen Zeitplan einzuhalten.	हमें एक शेड्यूल रखना होगा।
-We're open tomorrow.	Wir haben morgen geöffnet.	हम कल खुले हैं।
-We're out of butter.	Wir haben keine Butter mehr.	हमारे पास अब मक्खन नहीं है।
-We're out of cheese.	Wir haben keinen Käse mehr.	हमारे पास अब पनीर नहीं है।
-We're out of coffee.	Wir haben keinen Kaffee mehr.	हमारे पास अब कॉफी नहीं है।
-We're out of danger.	Wir sind außer Gefahr.	हम खतरे से बाहर हैं।
-We're playing cards.	Wir spielen gerade Karten.	हम वर्तमान में ताश खेल रहे हैं।
-We're short on time.	Wir haben wenig Zeit.	हमारे पास बहुत कम समय है।
-We're still friends.	Wir sind noch Freunde.	हम अभी भी दोस्त हैं।
-We're still looking.	Wir suchen noch.	हम अभी भी देख रहे हैं।
 We're still talking.	Wir reden noch.	हम अभी भी बात कर रहे हैं।
 We're still working.	Wir arbeiten noch.	हम अभी भी काम कर रहे हैं।
 We're the same size.	Wir sind gleich groß.	हम एक ही आकार के हैं।

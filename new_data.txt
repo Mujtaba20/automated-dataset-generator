@@ -29715,3 +29715,13 @@ We're not safe here.	Wir sind hier nicht sicher.	यहाँ हम सुर�
 We're not strangers.	Wir sind keine Fremden.	हम परदेसी नहीं हैं।
 We're not surprised.	Wir sind nicht überrascht.	हमें अचानकी नहीं हो रहा है।
 We're not very good.	Wir sind nicht sehr gut.	हम बहुत अच्छे नहीं हैं।
+We're on a schedule.	Wir sind im Zeitplan.	हमारा एक समय सारिणी में है।
+We're open tomorrow.	Morgen sind wir geöffnet.	हम कल खुले होंगे।
+We're out of butter.	Wir sind aus Butter.	हम मक्खन समाप्त हो गए हैं।
+We're out of cheese.	Wir sind aus Käse.	हम पनीर के बिना हैं।
+We're out of coffee.	Wir haben keinen Kaffee mehr.	हमें कॉफ़ी खत्म हो गई है।
+We're out of danger.	Wir sind außer Gefahr.	हम खतरे से बाहर हैं।
+We're playing cards.	Wir spielen Karten.	हम कार्ड खेल रहे हैं।
+We're short on time.	Wir haben wenig Zeit.	हमारे पास कम समय है।
+We're still friends.	Wir sind immer noch Freunde.	हम अभी भी दोस्त हैं।
+We're still looking.	Wir suchen immer noch.	हम अभी भी खोज रहे हैं।
