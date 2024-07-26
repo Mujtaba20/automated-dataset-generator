@@ -30669,3 +30669,7 @@ Do you have any beer?	Hast du Bier?	क्या आपके पास को�
 Do you have any cash?	Haben Sie etwas Bargeld?	क्या आपके पास कुछ नकदी है?
 Do you have any food?	Hast du etwas zu essen?	क्या आपके पास कोई खाने का सामान है?
 Do you have any news?	Haben Sie irgendwelche Nachrichten?	क्या आपके पास कोई समाचार है?
+Do you have any pets?	Hast du Haustiere?	क्या तुम्हारे पास कुत्ते या बिल्लियाँ हैं?
+Do you have any tape?	Hast du Band?	क्या आपके पास कोई टेप है?
+Do you have blankets?	Habt ihr Bettdecken?	क्या तुम्हारे पास कंबल हैं?
+Do you have children?	Hast du Kinder?	क्या आपके यहाँ बच्चे हैं?

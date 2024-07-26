@@ -1,15 +1,4 @@
 
-Do you have any pets?	Hast du irgendwelche Haustiere?	क्या आपके पास कोई पालतु पशु है?
-Do you have any pets?	Hast du Haustiere?	क्या आपके पास पालतू जानवर है्?
-Do you have any pets?	Hältst du Haustiere?	क्या आप पालतू जानवरों को पकड़ते हैं?
-Do you have any tape?	Hast du Tesafilm?	क्या आपके पास एक tesafilm है?
-Do you have any tape?	Hast du Klebeband?	क्या आपके पास चिपकने वाला टेप है?
-Do you have blankets?	Hast du Decken?	क्या आपने कवर किया
-Do you have blankets?	Habt ihr Decken?	क्या आपके पास कंबल हैं?
-Do you have blankets?	Haben Sie Decken?	क्या आपके पास छत है?
-Do you have children?	Habt ihr Kinder?	आपके बच्चे है क्या?
-Do you have children?	Haben Sie Kinder?	आपके बच्चे है क्या?
-Do you have children?	Hast du Kinder?	आपके बच्चे है क्या?
 Do you have diabetes?	Hast du Diabetes?	क्या आपको मधुमेह है?
 Do you have diabetes?	Habt ihr Diabetes?	क्या आपको मधुमेह है?
 Do you have diabetes?	Haben Sie Diabetes?	क्या आपको मधुमेह है?
