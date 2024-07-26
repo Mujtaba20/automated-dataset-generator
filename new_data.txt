@@ -36529,3 +36529,9 @@ Don't keep me waiting.	Lass mich nicht warten.	मुझे इंतजार �
 Don't kill me, please.	Töte mich nicht, bitte.	कृपया मुझे मत मारो।
 Don't leave me behind!	Lass mich nicht zurück!	मुझे पीछे न छोड़ो!
 Don't leave the TV on.	Lass den Fernseher nicht an.	टीवी चालू मत छोड़ो।
+Don't let it stop you.	Lass es dich nicht stoppen.	इसे आपको रोकने नहीं देना बंद करें।
+Don't let me die here.	Lass mich hier nicht sterben.	मुझे यहाँ मरने नहीं देना।
+Don't let the dog out.	Lass den Hund nicht entkommen.	कुत्ता बाहर न बचने दें।
+Don't lie to me again.	Lüge mich nicht wieder an.	मुझसे फिर से झूठ नहीं बोलो।
+Don't lose heart, Tom.	Verliere nicht den Mut, Tom.	हौंसला न गँवा, टॉम।
+Don't lose your purse.	Verlier nicht deine Geldbörse.	अपना बटुआ न खो देना।
