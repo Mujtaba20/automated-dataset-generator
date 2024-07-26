@@ -1,14 +1,4 @@
 
-I'm still not hungry.	Ich habe immer noch keinen Hunger.	मुझे अभी भी कोई भूख नहीं है।
-I'm stuck in the mud.	Ich stecke im Schlamm fest.	मैं कीचड़ में फंस गया हूं।
-I'm studying English.	Ich studiere Englisch.	मैं अंग्रेजी की पढ़ाई करता हुँ।
-I'm sure I'll manage.	Ich komme bestimmt zurecht.	मैं निश्चित रूप से साथ मिलता हूं।
-I'm sure Tom is fine.	Es geht Tom bestimmt gut.	टॉम निश्चित रूप से अच्छा कर रहा है।
-I'm sure that's true.	Ich bin mir sicher, dass das stimmt.	मुझे यकीन है कि यह सही है।
-I'm sure they'll win.	Ich bin sicher, dass sie gewinnen.	मुझे यकीन है कि आप जीतेंगे।
-I'm sure they'll win.	Ich bin mir sicher, dass sie gewinnen werden.	मुझे यकीन है कि आप जीतेंगे।
-I'm sure they'll win.	Ich bin sicher, dass sie siegen werden.	मुझे यकीन है कि आप जीतेंगे।
-I'm surprised at you.	Ich bin von dir verblüfft.	मैं आपसे चकित हूं।
 I'm surprised myself.	Ich bin selbst überrascht.	मैं खुद हैरान हूं।
 I'm taking it to Tom.	Ich bringe es Tom.	मैं इसे टॉम लाता हूं।
 I'm the one you want.	Ich bin derjenige, den du willst.	मैं वह हूं जो आप चाहते हैं।

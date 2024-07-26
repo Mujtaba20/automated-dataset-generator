@@ -32592,3 +32592,11 @@ I'm sorry about that.	Es tut mir leid wegen dem.	उसके बारे म�
 I'm sorry about this.	Es tut mir leid wegen diesem.	इसके बारे में मुझे खेद है।
 I'm sorry to be late.	Entschuldigung für die Verspätung.	मुझे देरी के लिए खेद है।
 I'm still dating Tom.	Ich treffe immer noch Tom.	मैं अभी भी टॉम से मिल रहा हूँ।
+I'm still not hungry.	Ich bin immer noch nicht hungrig.	मुझे अभी भूख नहीं है।
+I'm stuck in the mud.	Ich stecke im Schlamm fest.	मैं कीचड़ में फंसा हुआ हूँ।
+I'm studying English.	Ich studiere Englisch.	मैं अंग्रेजी पढ़ रहा हूँ।
+I'm sure I'll manage.	Ich bin sicher, dass ich es schaffen werde.	मुझे यकीन है कि मैं सफल होऊंगा।
+I'm sure Tom is fine.	Ich bin sicher, dass es Tom gut geht.	मुझे विश्वास है कि टॉम ठीक है।
+I'm sure that's true.	Ich bin sicher, dass das wahr ist.	मुझे यकीन है कि यह सच है।
+I'm sure they'll win.	Ich bin sicher, dass sie gewinnen werden.	मुझे यकीन है कि वे जीतेंगे।
+I'm surprised at you.	Ich bin überrascht von dir.	मुझे तुम पर हैरानी हुई।
