@@ -1,14 +1,4 @@
 
-You can't have that.	Du kannst das nicht haben.	आपके पास ऐसा नहीं हो सकता।
-You can't have this.	Du kannst das hier nicht haben.	आप यहाँ नहीं हो सकते।
-You can't help them.	Du kannst ihnen nicht helfen.	आप उनकी मदद नहीं कर सकते।
-You can't just quit.	Du kannst nicht einfach aufhören.	आप बस रोक नहीं सकते।
-You can't just quit.	Sie können nicht einfach kündigen.	आप बस छोड़ नहीं सकते।
-You can't leave now.	Du kannst jetzt nicht gehen.	अब आप नहीं जा सकते।
-You can't leave now.	Sie können jetzt nicht gehen.	अब आप नहीं जा सकते।
-You can't leave yet.	Du kannst noch nicht gehen.	आप अभी तक नहीं जा सकते।
-You can't leave yet.	Sie können noch nicht gehen.	आप अभी तक नहीं जा सकते।
-You can't leave yet.	Ihr könnt noch nicht gehen.	आप अभी तक नहीं जा सकते।
 You can't marry Tom.	Du kannst Tom nicht heiraten.	आप टॉम से शादी नहीं कर सकते।
 You can't marry Tom.	Sie können Tom nicht heiraten.	आप टॉम से शादी नहीं कर सकते।
 You can't mean that.	Das kannst du nicht ernst meinen.	आप गंभीर नहीं हो सकते।

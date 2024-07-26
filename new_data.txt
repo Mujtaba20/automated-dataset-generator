@@ -30129,3 +30129,9 @@ You can't defeat me.	Du kannst mich nicht besiegen.	तुम मुझे ह�
 You can't deny that.	Du kannst das nicht leugnen.	तुम उसे नकार नहीं सकते।
 You can't handle it.	Du kannst damit nicht umgehen.	तुम इसका सामना नहीं कर सकते।
 You can't have both.	Du kannst beides nicht haben.	तुम दोनों को नहीं पा सकते।
+You can't have that.	Dafür kannst du nicht haben.	तुम उससे नहीं रख सकते।
+You can't have this.	Du kannst das nicht haben.	तुम यह नहीं रख सकते।
+You can't help them.	Du kannst ihnen nicht helfen.	तुम उनकी मदद नहीं कर सकते।
+You can't just quit.	Du kannst nicht einfach aufhören.	तुम बस छोड़ना नहीं चाहिए।
+You can't leave now.	Du kannst jetzt nicht gehen.	तुम अभी नहीं जा सकते।
+You can't leave yet.	Du kannst noch nicht gehen.	तुम अभी भी नहीं जा सकते।
