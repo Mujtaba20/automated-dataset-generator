@@ -1,14 +1,4 @@
 
-What are you learning?	Was lernst du?	आप क्या सीख रहे हैं?
-What are you studying?	Was studierst du?	आप क्या पढ़ रहे हैं?
-What are you thinking?	Was denkst du?	आप क्या सोचते हैं?
-What are you thinking?	Was denkt ihr?	आप क्या सोचते हैं?
-What are you thinking?	Was denken Sie?	आप क्या सोचते हैं?
-What are you watching?	Was siehst du dir an?	आप क्या देखते हैं?
-What are you watching?	Was guckst du?	आप कहाँ देख रहे हैं?
-What are your hobbies?	Was sind deine Hobbys?	आपके शौक क्या हैं?
-What book did you buy?	Was für ein Buch hast du gekauft?	आपने किस तरह की किताब खरीदी?
-What book did you buy?	Welches Buch hast du gekauft?	आपने कौन सी किताब खरीदी?
 What can I do for you?	Was kann ich für Sie tun?	मैं तुम्हारे लिए क्या कर सकता हूँ?
 What can I do for you?	Wie kann ich dir helfen?	मैं आपकी कैसे मदद कर सकता हूँ?
 What can I do to help?	Wie kann ich behilflich sein?	मैं कैसे सहायता कर सकता हूं?

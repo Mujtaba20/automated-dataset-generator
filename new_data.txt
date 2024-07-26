@@ -41229,3 +41229,11 @@ What are you drinking?	Was trinkst du?	तुम क्या पी रहे �
 What are you going as?	Wofür gehst du?	तुम किस रूप में जा रहे हो?
 What are you here for?	Wofür bist du hier?	तुम यहाँ क्यों हो?
 What are you implying?	Was willst du damit sagen?	तुम क्या सूचना दे रहे हो?
+What are you learning?	Was lernst du?	तुम क्या सीख रहे हो?
+What are you studying?	Was studierst du?	तुम क्या पढ़ रहे हो?
+What are you thinking?	Was denkst du?	तुम क्या सोच रहे हो?
+What are you thinking?_2	Was überlegst du?	तुम क्या विचार कर रहे हो?
+What are you watching?	Was schaust du?	तुम क्या देख रहे हो?
+What are your hobbies?	Was sind deine Hobbys?	तुम्हारे शौक क्या हैं?
+What book did you buy?	Welches Buch hast du gekauft?	तुमने कौनसी किताब खरीदी है?
+What book did you buy?_2	Welches Buch hast du erworben?	तुमने कौनसी पुस्तक खरीदी थी?
