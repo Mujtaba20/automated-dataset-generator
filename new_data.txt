@@ -29348,3 +29348,13 @@ Tom wants a new car.	Tom will ein neues Auto.	टॉम को एक नई ग
 Tom wants a new hat.	Tom will einen neuen Hut.	टॉम को एक नयी टोपी चाहिए।
 Tom wants to change.	Tom will sich ändern.	टॉम को परिवर्तन करना है।
 Tom wants to see it.	Tom will es sehen.	टॉम को यह देखना है।
+Tom wants to see me.	Tom möchte mich sehen.	टॉम मुझे देखना चाहता है।
+Tom wants to see us.	Tom möchte uns sehen.	टॉम हमें देखना चाहता है।
+Tom wants to try it.	Tom möchte es versuchen.	टॉम इसे करना चाहता है।
+Tom wants vengeance.	Tom will Rache.	टॉम को बदला चाहिए।
+Tom wants you fired.	Tom möchte, dass du gefeuert wirst.	टॉम चाहता है कि आप निकाल दिए जाएं।
+Tom wants you gone.	Tom möchte, dass du gehst.	टॉम चाहता है कि तुम चले जाओ।
+Tom was a brave man.	Tom war ein tapferer Mann.	टॉम एक बहादुर आदमी था।
+Tom was a class act.	Tom war ein Klasse-Act.	टॉम एक क्लास के काम करता था।
+Tom was a real hero.	Tom war ein echter Held.	टॉम एक वास्तविक नायक था।
+Tom was alone there.	Tom war dort alleine.	टॉम वहाँ अकेला था।
