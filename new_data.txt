@@ -37424,3 +37424,13 @@ I got up at about six.	Ich bin gegen sechs Uhr aufgestanden.	मैं लगभ
 I got wet to the skin.	Ich wurde bis auf die Haut nass.	मेरी त्वचा तक भीग गई।
 I grabbed Tom's wrist.	Ich packte Toms Handgelenk.	मैंने टॉम की कलाई पकड़ी।
 I guess I'd better go.	Ich denke, ich sollte besser gehen.	मुझे लगता है मुझे बेहतर है जाना।
+I guess Tom was right.	Ich glaube, Tom hatte recht.	मुझे लगता है की टॉम सही था।
+I guess Tom was right.1	Ich vermute, Tom hatte recht.	मुझे लगता है की टॉम सही था।
+I guess it was a joke.	Ich denke, es war ein Witz.	मुझे लगता है ये मजाक था।
+I guess it's not true.	Ich glaube, das ist nicht wahr.	मुझे लगता है ये सही नहीं है।
+I guess the dog bites.	Ich vermute, der Hund beißt.	मुझे लगता है की कुत्ता काटता है।
+I had a good vacation.	Ich hatte einen schönen Urlaub.	मेरा अच्छा छुट्टी था।
+I had a talk with Tom.	Ich habe mit Tom gesprochen.	मैंने टॉम के साथ बात की।
+I had a talk with Tom.1	Ich hatte ein Gespräch mit Tom.	मैंने टॉम के साथ चर्चा की।
+I had better ask them.	Ich sollte sie lieber fragen.	मुझे बेहतर है उसे पूछना चाहिए।
+I had dinner with Tom.	Ich hatte Abendessen mit Tom.	मैंने टॉम के साथ रात का खाना खाया।
