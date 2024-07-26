@@ -1,14 +1,4 @@
 
-Tom swims really well.	Tom schwimmt richtig gut.	टॉम वास्तव में अच्छी तरह से तैरता है।
-Tom talks to me a lot.	Tom redet viel mit mir.	टॉम मुझसे बहुत बात करता है।
-Tom taught me to read.	Tom brachte mir das Lesen bei.	टॉम ने मुझे पढ़ना सिखाया।
-Tom taught me to read.	Tom hat mir das Lesen beigebracht.	टॉम ने मुझे पढ़ना सिखाया।
-Tom teaches me French.	Tom bringt mir Französisch bei.	टॉम मुझे फ्रेंच सिखाता है।
-Tom teaches me French.	Tom gibt mir Französischunterricht.	टॉम मुझे फ्रेंच सबक देता है।
-Tom teaches me French.	Tom unterrichtet mich in Französisch.	टॉम मुझे फ्रेंच में सिखाता है।
-Tom teaches me French.	Tom unterweist mich im Französischen.	टॉम मुझे फ्रेंच में निर्देश देता है।
-Tom teaches us French.	Tom bringt uns Französisch bei.	टॉम हमें फ्रेंच सिखाता है।
-Tom teaches us French.	Tom lehrt uns Französisch.	टॉम हमें फ्रेंच सिखाता है।
 Tom tells a good joke.	Tom erzählt gute Witze.	टॉम अच्छे चुटकुले सुनाता है।
 Tom thanked all of us.	Tom dankte uns allen.	टॉम ने हम सभी को धन्यवाद दिया।
 Tom thinks I'm a wimp.	Tom hält mich für einen Waschlappen.	टॉम मुझे एक वॉशक्लॉथ के बारे में सोचता है।

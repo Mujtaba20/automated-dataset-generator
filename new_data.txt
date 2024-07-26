@@ -40744,3 +40744,9 @@ Tom suppressed a grin.	Tom unterdrückte ein Grinsen.	टॉम ने एक �
 Tom survived his wife.	Tom überlebte seine Frau.	टॉम ने अपनी पत्नी का सामना किया।
 Tom swam in the river.	Tom schwamm im Fluss.	टॉम नदी में तैरा।
 Tom swatted the flies.	Tom schlug die Fliegen.	टॉम ने मक्खियों को ठोका।
+Tom swims really well.	Tom schwimmt wirklich gut.	टॉम बहुत अच्छे तरीके से तैरता है।
+Tom talks to me a lot.	Tom spricht viel mit mir.	टॉम मुझसे बहुत बात करता है।
+Tom taught me to read.	Tom hat mir das Lesen beigebracht.	टॉम ने मुझे पढ़ना सिखाया।
+Tom taught me how to swim.	Tom hat mir das Schwimmen beigebracht.	टॉम ने मुझे तैरना सिखाया।
+Tom teaches me French.	Tom unterrichtet mich in Französisch.	टॉम मुझे फ्रेंच सिखाता है।
+Tom teaches us French.	Tom unterrichtet uns Französisch.	टॉम हमें फ्रेंच सिखाता है।
