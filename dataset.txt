@@ -1,14 +1,4 @@
 
-I stopped laughing.	Ich hörte auf zu lachen.	मैंने हंसना बंद कर दिया।
-I study psychology.	Ich studiere Psychologie.	मैं मनोविज्ञान का अध्ययन करता हूं।
-I swim once a week.	Ich schwimme einmal pro Woche.	मैं सप्ताह में एक बार तैरता हूं।
-I take care of Tom.	Ich kümmere mich um Tom.	मैं टॉम का ख्याल रखता हूं।
-I talk in my sleep.	Ich rede im Schlaf.	मैं अपनी नींद में बात कर रहा हूं।
-I think I know him.	Ich denke, ich kenne ihn.	मुझे लगता है कि मैं उसे जानता हूं।
-I think I know why.	Ich glaube, ich weiß, warum.	मुझे लगता है कि मुझे पता है कि क्यों।
-I think I know you.	Ich denke, ich kenne dich.	मुझे लगता है कि मैं तुम्हें जानता हूँ।
-I think I like you.	Ich glaub, ich mag dich.	मुझे लगता है कि मैं तुम्हे पसंद करता हूं।
-I think I love you.	Ich glaube, ich liebe dich.	मुझे लगता है मैं आपसे प्यार करता हूँ।
 I think Tom is old.	Ich denke, dass Tom alt ist.	मुझे लगता है कि टॉम बूढ़ा है।
 I think Tom is out.	Ich denke, Tom ist nicht da.	मुझे लगता है कि टॉम नहीं है।
 I think Tom is shy.	Ich denke, Tom ist schüchtern.	मुझे लगता है कि टॉम शर्मीला है।

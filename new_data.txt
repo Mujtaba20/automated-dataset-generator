@@ -21624,3 +21624,13 @@ I started to worry.	Ich begann mich zu sorgen.	मैं चिंतित ह�
 I still don't know.	Ich weiß immer noch nicht.	मुझे अभी भी नहीं पता।
 I still want to go.	Ich will immer noch gehen.	मुझे अभी भी जाना है।
 I stood up for Tom.	Ich habe mich für Tom eingesetzt.	मैंने टॉम के लिए खड़ा हो गया।
+I stopped laughing.	Ich hörte auf zu lachen.	मैं हंसना बंद कर दिया।
+I study psychology.	Ich studiere Psychologie.	मैं मानोविज्ञान पढ़ता हूं।
+I swim once a week.	Ich schwimme einmal pro Woche.	मैं हफ्ते में एक बार तैराकी करता हूं।
+I take care of Tom.	Ich kümmere mich um Tom.	मैं टॉम की देखभाल करता हूं।
+I talk in my sleep.	Ich rede im Schlaf.	मैं सोते समय बातें करता हूं।
+I think I know him.	Ich glaube, ich kenne ihn.	मुझे लगता है कि मैं उसे जानता हूं।
+I think I know why.	Ich glaube, ich weiß warum.	मुझे लगता है कि मुझे पता है क्यों।
+I think I know you.	Ich glaube, ich kenne dich.	मुझे लगता है कि मैं तुम्हें जानता हूं।
+I think I like you.	Ich glaube, ich mag dich.	मुझे लगता है कि मुझे तुम्हारी पसंद है।
+I think I love you.	Ich glaube, ich liebe dich.	मुझे लगता है कि मैं तुमसे प्यार करता हूं।
