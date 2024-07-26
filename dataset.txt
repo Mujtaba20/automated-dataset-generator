@@ -1,14 +1,4 @@
 
-Tom is the class clown.	Tom ist der Klassenclown.	टॉम क्लास क्लाउन है।
-Tom is the lead singer.	Tom ist der Frontsänger.	टॉम फ्रंट गायक हैं।
-Tom is the one we want.	Tom ist derjenige, den wir wollen.	टॉम वह है जिसे हम चाहते हैं।
-Tom is the one we want.	Tom ist der, den wir brauchen.	टॉम वह है जिसकी हमें आवश्यकता है।
-Tom is the perfect son.	Tom ist der perfekte Sohn.	टॉम परफेक्ट बेटा है।
-Tom is there, isn't he?	Tom ist da, oder?	टॉम वहाँ है, है ना?
-Tom is three years old.	Tom ist drei Jahre alt.	टॉम तीन साल का है।
-Tom is too old for you.	Tom ist zu alt für dich.	टॉम आपके लिए बहुत पुराना है।
-Tom is too old for you.	Tom ist zu alt für Sie.	टॉम उसके लिए बहुत पुराना है।
-Tom is trying on shoes.	Tom probiert Schuhe an.	टॉम ने जूते की कोशिश की।
 Tom is trying too hard.	Tom macht sich zu viel Mühe.	टॉम बहुत अधिक प्रयास करता है।
 Tom is unable to do it.	Tom bringt es nicht fertig.	टॉम इसे तैयार नहीं करता है।
 Tom is up to something.	Tom führt irgendwas im Schilde.	टॉम ढाल में है।
