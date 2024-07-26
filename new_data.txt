@@ -24807,3 +24807,8 @@ Would you like ice?	Möchten Sie Eis?	क्या आपको बर्फ प
 Would you like ice?1	Wünschen Sie Eis?	क्या आपको बर्फ पसंद है?
 Would you like ice?2	Möchtest du Eis?	क्या तुम्हें बर्फ चाहिए?
 Write it in pencil.	Schreiben Sie es mit einem Bleistift.	इसे पेंसिल में लिखें।
+Write me a message.	Schreib mir bitte eine Nachricht.	मुझे एक संदेश लिखें।
+You are impossible.	Du bist unmöglich.	तुम असंभाव्य हो।
+You are overworked.	Du bist überarbeitet.	आप परिश्रमित हैं।
+You are the doctor.	Sie sind Ärztin.	तुम डॉक्टर हो।
+You are under oath.	Du stehst unter Eid.	तुम शपथ के तहत हो।

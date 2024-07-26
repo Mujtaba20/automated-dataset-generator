@@ -1,14 +1,4 @@
 
-Write me a message.	Schreibe mir eine Nachricht!	मुझे एक संदेश लिखें!
-Write me a message.	Schreiben Sie mir eine Nachricht!	मुझे एक संदेश लिखें!
-Write me a message.	Schreibt mir eine Nachricht!	मुझे एक संदेश लिखें!
-You are impossible.	Du bist unmöglich!	आप नामुमकिन हो!
-You are overworked.	Du bist überarbeitet.	आप संशोधित हैं।
-You are the doctor.	Du bist der Arzt.	आप डॉक्टर हैं।
-You are the doctor.	Du bist die Ärztin.	आप डॉक्टर हैं।
-You are the doctor.	Sie sind der Arzt.	आप डॉक्टर हैं।
-You are the doctor.	Sie sind die Ärztin.	आप डॉक्टर हैं।
-You are under oath.	Sie stehen unter Eid.	वे शपथ के अधीन हैं।
 You are very brave.	Du bist sehr tapfer.	आप बहुत बहादुर हैं।
 You are very brave.	Ihr seid sehr mutig.	आप बहुत बहादुर हैं।
 You are very brave.	Sie sind sehr mutig.	वे बहुत बहादुर हैं।
