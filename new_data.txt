@@ -25551,3 +25551,8 @@ Give me my cap back.	Gib mir meine Mütze zurück.	मेरी टोपी म
 Give me some advice.	Gib mir einen Rat.	मुझे कुछ सलाह दो।
 Give me three hours.	Gib mir drei Stunden.	मुझे तीन घंटे दो।
 Give me three weeks.	Gib mir drei Wochen.	मुझे तीन हफ्ते दो।
+Give me two minutes.	Gib mir zwei Minuten.	मुझे दो मिनट दें।
+Give me what I want.	Gib mir, was ich will.	मुझे वह दो जो मैं चाहता हूँ।
+Give peace a chance.	Gib dem Frieden eine Chance.	शांति को एक मौका दो।
+Give that cat to us.	Gib uns die Katze.	उस बिल्ली को हमें दो।
+Go and look for Tom.	Geh und suche nach Tom.	जाओ और टॉम के लिए देखो।

@@ -1,15 +1,4 @@
 
-Give me two minutes.	Gib mir nur zwei Minuten!	केवल मुझे दो मिनट दें!
-Give me two minutes.	Geben Sie mir nur zwei Minuten!	मुझे केवल दो मिनट दें!
-Give me what I want.	Gib mir, was ich haben will!	मुझे वह दे दो जो मुझे चाहिए!
-Give peace a chance.	Gib dem Frieden eine Chance.	शांति को एक मौका दें।
-Give peace a chance.	Gebt dem Frieden eine Chance.	शांति को एक मौका दें।
-Give peace a chance.	Geben Sie dem Frieden eine Chance.	शांति को एक मौका दें।
-Give peace a chance.	Gebt dem Frieden eine Chance!	शांति को एक मौका दें!
-Give that cat to us.	Gib uns diese Katze!	हमें यह बिल्ली दे दो!
-Go and look for Tom.	Geh und such Tom!	जाओ और खोजें टॉम!
-Go and look for Tom.	Gehen Sie und suchen Sie Tom!	जाओ और खोजें टॉम!
-Go and look for Tom.	Geht und sucht Tom!	जाओ और टॉम की तलाश!
 Go and wake Mary up.	Geh und weck Mary.	जाओ और जागो मैरी।
 Go brush your teeth.	Geh dir die Zähne putzen!	अपने दांतों को ब्रश करने के लिए जाओ!
 Go do your homework.	Geh und mach deine Hausaufgaben!	जाओ और अपना होमवर्क करो!
