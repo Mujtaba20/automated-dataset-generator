@@ -32561,3 +32561,9 @@ I'm not ignoring you.	Ich verschließe die Augen nicht vor dir.	मैं तु
 I'm not in any hurry.	Ich habe es nicht eilig.	मुझे कोई जल्दी नहीं है।
 I'm not leaving here.	Ich verlasse diesen Ort nicht.	मैं यहाँ से नहीं जा रहा हूँ।
 I'm not making it up.	Ich erfinde das nicht.	मैं यह नकल नहीं कर रहा हूँ।
+I'm not sleeping now.	Ich schlafe jetzt nicht.	मैं अभी सो नहीं रहा हूँ।
+I'm not so convinced.	Ich bin nicht so überzeugt.	मैं इतना यकीन नहीं कर रहा हूँ।
+I'm not stopping you.	Ich höre dich nicht auf.	मैं तुम्हें नहीं रोक रहा हूँ।
+I'm not tired at all.	Ich bin überhaupt nicht erschöpft.	मैं बिल्कुल थका नहीं हूँ।
+I'm not used to this.	Ich bin daran nicht gewohnt.	मुझे यह आदत नहीं है।
+I'm not wearing that.	Ich trage das nicht.	मैं यह नहीं पहन रहा हूँ।
