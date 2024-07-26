@@ -24554,3 +24554,12 @@ What were you told? (different meaning)	Was hast du gehört?	तुम्हे�
 What will you have?	Was wirst du haben?	तुम्हारे पास क्या होगा?
 What will you make?	Was wirst du machen?	तुम क्या बनाओगे?
 What will you wear?	Was wirst du tragen?	तुम क्या पहनोगे?
+What'll Tom do now?	Was wird Tom jetzt tun?	टॉम अब क्या करेगा?
+What'll happen now?	Was wird jetzt passieren?	अब क्या होगा?
+What'll it be like?	Wie wird es sein?	यह कैसा होगा?
+What'll it be, Tom?	Was wird es sein, Tom?	यह क्या होगा, टॉम?
+What're they doing?	Was machen sie?	वे क्या कर रहे हैं?
+What're they up to?	Was haben sie vor?	वे क्या कर रहे हैं?
+What're you asking?	Was fragst du?	तुम क्या पूछ रहे हो?
+What're you baking?	Was backst du?	तुम क्या बना रहे हो?
+What're you eating?	Was isst du?	तुम क्या खा रहे हो?
