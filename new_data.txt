@@ -33552,3 +33552,13 @@ engSentence7	Das wäre absurd.	यह बेतुका होगा।
 engSentence8	Das wäre unfair.	यह अन्यायपूर्ण होगा।
 engSentence9	Das wäre unmöglich.	यह असंभव होगा।
 engSentence10	Das wird schwierig sein.	यह कठिन होगा।
+engSentence1	Das wird sich nie ändern.	ऐसा कभी नहीं होगा।
+engSentence2	Das ist der Bruder von Tom.	वह टॉम का भाई है।
+engSentence3	Das ist ein großer Fehler.	यह एक बड़ी गलती है।
+engSentence4	Das ist ein großes Problem.	यह एक बड़ी समस्या है।
+engSentence5	Das ist eine helle Idee.	यह एक उज्ज्वल विचार है।
+engSentence6	Das ist ein billiges Geschäft.	यह एक सस्ती दुकान है।
+engSentence7	Das ist ein preiswertes Geschäft.	यह एक सस्ती दुकान है।
+engSentence8	Das ist eine gute Schule.	वह एक अच्छे स्कूल है।
+engSentence9	Das ist eine großartige Geschichte.	यह एक बढ़िया कहानी है।
+engSentence10	Ist das ein Witz, oder?	क्या यह मजाक है, सही है ना?
