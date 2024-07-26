@@ -1,14 +1,4 @@
 
-Order was restored.	Die Ordnung war wieder hergestellt.	आदेश बहाल किया गया था।
-Our car broke down.	Unser Wagen ist liegengeblieben.	हमारी कार बनी हुई है।
-Our cat is missing.	Unsere Katze ist verschwunden.	हमारी बिल्ली गायब हो गई है।
-Our cat is missing.	Unsere Katze ist weg.	हमारी बिल्ली चली गई है।
-Our project failed.	Unser Projekt schlug fehl.	हमारी परियोजना विफल रही।
-Our project failed.	Unser Projekt misslang.	हमारी परियोजना विफल रही।
-Owls have big eyes.	Eulen haben große Augen.	उल्लू की आँखें बड़ी हैं।
-Owls hunt at night.	Eulen jagen bei Nacht.	उल्लू रात में पीछा कर रहा है।
-Pandas love bamboo.	Pandas lieben Bambus.	पांडा प्यार बांस।
-Paper burns easily.	Papier brennt leicht.	कागज थोड़ा जलता है।
 Peel the cucumbers.	Schäle die Gurken.	ककड़ी को छीलें।
 Peel the cucumbers.	Schäl die Gurken.	ककड़ी को schäl।
 Peel the cucumbers.	Schält die Gurken.	ककड़ी को छिलकाता है।
