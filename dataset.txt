@@ -1,14 +1,4 @@
 
-I have to cut the wood.	Ich muss das Holz hacken.	मुझे लकड़ी काटनी है।
-I have to do it myself.	Ich muss es selber machen.	मुझे इसे खुद करना है।
-I have to do it myself.	Ich muss es selbst machen.	मुझे इसे खुद करना है।
-I have to do something.	Ich muss etwas tun.	मुझे कुछ करना पड़ेगा।
-I have to do something.	Ich muss etwas machen.	मुझे कुछ करना पड़ेगा।
-I have to find Tom now.	Ich muss Tom jetzt finden.	मुझे अब टॉम ढूंढना है।
-I have to get Tom home.	Ich muss Tom nach Hause bringen.	मुझे टॉम को घर लाना है।
-I have to go to Boston.	Ich muss nach Boston.	मुझे बोस्टन जाना है।
-I have to go to Boston.	Ich muss nach Boston fahren.	मुझे बोस्टन जाना है।
-I have to go to school.	Ich muss in die Schule gehen.	मुझे पाठ्शाला जाना है।
 I have to head out now.	Ich muss nun aufbrechen.	मुझे अब तोड़ना है।
 I have to learn French.	Ich muss Französisch lernen.	मुझे फ्रेंच सीखना है।
 I have to leave school.	Ich muss von der Schule abgehen.	मुझे स्कूल छोड़ना है।
