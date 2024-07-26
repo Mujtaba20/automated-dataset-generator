@@ -34989,3 +34989,13 @@ Tom was really drunk.	Tom war wirklich betrunken.	टॉम वास्तव �
 Tom was really happy.	Tom war wirklich glücklich.	टॉम वास्तव में बहुत खुश था।
 Tom was really lucky.	Tom hatte wirklich Glück.	टॉम वास्तव में भाग्यशाली था।
 Tom was really tired.	Tom war wirklich müde.	टॉम वास्तव में थका हुआ था।
+Tom was really upset.	Tom war wirklich verärgert.	टॉम वास्तव में उदास था।
+Tom was shy at first.	Tom war anfangs schüchtern.	टॉम पहले ही झिझक था।
+Tom was sound asleep.	Tom schlief tief und fest.	टॉम गहरी नींद में था।
+Tom was still hungry.	Tom war immer noch hungrig.	टॉम अभी भी भूखा था।
+Tom was there for me.	Tom war für mich da.	टॉम मेरे लिए वहाँ था।
+Tom was unscrupulous.	Tom war skrupellos.	टॉम बेशर्म था।
+Tom was up all night.	Tom war die ganze Nacht wach.	टॉम पूरी रात जागा रहा।
+Tom was very annoyed.	Tom war sehr verärgert.	टॉम बहुत परेशान था।
+Tom was very careful.	Tom war sehr vorsichtig.	टॉम बहुत सावधान था।
+Tom was very excited.	Tom war sehr aufgeregt.	टॉम बहुत उत्साहित था।
