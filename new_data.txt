@@ -26422,3 +26422,13 @@ I know it's illegal.	Ich weiß, dass es illegal ist.	मुझे पता ह�
 I know none of them.	Ich kenne keinen von ihnen.	मुझे उनमें से किसी को नहीं पता।
 I know that I'm fat.	Ich weiß, dass ich dick bin.	मुझे पता है कि मैं मोटा हूँ।
 I know that already.	Das weiß ich schon.	मुझे यह पहले से पता है।
+I know the Jacksons.	Ich kenne die Jacksons.	मुझे जैक्सन्स पता है।
+I know the solution.	Ich kenne die Lösung.	मुझे समाधान पता है।
+I know this is hard.	Ich weiß, dass das schwer ist.	मुझे पता है कि यह मुश्किल है।
+I know what I think.	Ich weiß, was ich denke.	मुझे पता है कि मैं क्या सोचता हूँ।
+I know what I'd say.	Ich weiß, was ich sagen würde.	मुझे पता है कि मैं क्या कहूँगा।
+I know what I'll do.	Ich weiß, was ich tun werde.	मुझे पता है कि मैं क्या करूँगा।
+I know what Tom saw.	Ich weiß, was Tom sah.	मुझे पता है कि टॉम ने क्या देखा।
+I know what love is.	Ich weiß, was Liebe ist.	मुझे पता है कि प्यार क्या है।
+I know what that is.	Ich weiß, was das ist.	मुझे पता है कि वह क्या है।
+I know what this is.	Ich weiß, was das ist.	मुझे पता है कि यह क्या है।

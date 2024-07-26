@@ -1,14 +1,4 @@
 
-I know the Jacksons.	Ich kenne die Johannsens.	मैं जोहानेंस को जानता हूं।
-I know the solution.	Ich kenne die Lösung.	मुझे समाधान पता है।
-I know this is hard.	Ich weiß, dass das hier schwer ist.	मुझे पता है कि यह यहाँ मुश्किल है।
-I know what I think.	Ich weiß, was ich denke.	मुझे पता है कि मुझे क्या लगता है।
-I know what I'd say.	Ich weiß, was ich sagen würde.	मुझे पता है कि मैं क्या कहूंगा।
-I know what I'll do.	Ich weiß, was ich machen werde.	मुझे पता है कि मैं क्या करने जा रहा हूं।
-I know what Tom saw.	Ich weiß, was Tom gesehen hat.	मुझे पता है कि टॉम ने क्या देखा है।
-I know what love is.	Ich weiß, was Liebe ist.	मुझे पता है कि प्यार क्या है।
-I know what that is.	Ich weiß, was das ist.	मुझे पता है कि वह क्या है।
-I know what this is.	Ich weiß, was das ist.	मुझे पता है कि वह क्या है।
 I know what you did.	Ich weiß, was du getan hast.	मुझे पता है तुमने क्या किया।
 I know what's right.	Ich weiß, was richtig ist.	मुझे पता है कि क्या सही है।
 I know what's wrong.	Ich weiß, was falsch ist.	मुझे पता है कि क्या गलत है।
