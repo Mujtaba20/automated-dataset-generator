@@ -31073,3 +31073,13 @@ He is his usual self.	Er ist wie immer.	वह अपने आप में स
 He is in his library.	Er ist in seiner Bibliothek.	वह अपनी पुस्तकालय में है।
 He is in poor health.	Er ist gesundheitlich angeschlagen.	उसकी स्वास्थ्य स्थिति खराब है।
 He is in the kitchen.	Er ist in der Küche.	वह रसोई में है।
+He is in trouble now.	Er hat jetzt Ärger.	उसे अब मुसीबत है।
+He is likely to come.	Er wird wahrscheinlich kommen.	वह आने की सम्भावना है।
+He is likely to arrive.	Er wird wahrscheinlich ankommen.	उस आने की संभावना है।
+He is making cookies.	Er backt Kekse.	वह कूकीज बना रहा है।
+He is baking cookies.	Er backt Plätzchen.	वह कूकीज बना रहा है।
+He is preparing cookies.	Er bereitet Kekse vor.	वह कूकीज तैयार कर रहा है।
+He is my best friend.	Er ist mein bester Freund.	वह मेरा सबसे अच्छा दोस्त है।
+He is no longer here.	Er ist nicht mehr hier.	वह अब तक नहीं है।
+He is now on his own.	Er ist jetzt auf sich allein gestellt.	वह अब अपने आप पर है।
+He is reading a book.	Er liest ein Buch.	वह एक किताब पढ़ रहा है।
