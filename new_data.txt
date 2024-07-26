@@ -24067,3 +24067,13 @@ Tom wants to speak.	Tom möchte sprechen.	टॉम बोलना चाहत
 Tom wants to trade.	Tom möchte handeln.	टॉम व्यापार करना चाहता है।
 Tom wants to watch.	Tom möchte zuschauen.	टॉम देखना चाहता है।
 Tom wants you dead.	Tom will dich tot sehen.	टॉम तुम्हें मरते हुए देखना चाहता है।
+Tom was a diplomat.	Tom war ein Diplomat.	टॉम एक राजनयिक था।
+Tom was a good man.	Tom war ein guter Mann.	टॉम एक अच्छा आदमी था।
+Tom was a nice man.	Tom war ein netter Mann.	टॉम एक अच्छे आदमी था।
+Tom was also there.	Tom war auch dort.	टॉम भी वहां था।
+Tom was astonished.	Tom war erstaunt.	टॉम हैरान था।
+Tom was born blind.	Tom wurde blind geboren.	टॉम अंधा पैदा हुआ था।
+Tom was born there.	Tom wurde dort geboren.	टॉम वहाँ पैदा हुआ था।
+Tom was courageous.	Tom war mutig.	टॉम बहादुर था।
+Tom was dead wrong.	Tom lag völlig falsch.	टॉम पूरी तरह गलत था।
+Tom was dehydrated.	Tom war dehydriert.	टॉम पानी की कमी महसूस कर रहा था।
