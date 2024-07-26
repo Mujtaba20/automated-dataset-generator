@@ -38610,3 +38610,10 @@ It's a waste of money.	Das ist Geldverschwendung.	यह पैसे की ब
 It's a welcome change.	Es ist eine willkommene Veränderung.	यह स्वागत सुधार है।
 It's about to explode!	Es steht kurz vor der Explosion!	यह फटने वाला है!
 It's all quite simple.	Es ist alles ziemlich einfach.	यह सब काफी सरल है।
+It's all that matters.	Es ist alles, was zählt.	यही मायने रखता है।
+It's almost too quiet.	Es ist schon fast zu ruhig.	यह लगभग बहुत शांत है।
+It's already midnight.	Es ist schon Mitternacht.	यह पहले से ही आधी रात हो चुकी है।
+It's already too late.	Es ist schon zu spät.	यह पहले से ही बहुत देर हो चुकी है।
+It's always like that.	Es ist immer so.	हमेशा ऐसा ही होता है।
+It's amazingly simple.	Es ist erstaunlich einfach.	यह अद्भुत रूप से सरल है।
+It's bad for business.	Es ist schlecht für das Geschäft.	व्यापार के लिए यह बुरा है।
