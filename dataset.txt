@@ -1,15 +1,4 @@
 
-I don't have a fever.	Ich habe kein Fieber.	मुझे कोई बुखार नहीं है।
-I don't have a horse.	Ich habe kein Pferd.	मेरे पास घोड़ा नहीं है।
-I don't have a phone.	Ich habe kein Telefon.	मेरे पास फोन नहीं है।
-I don't have a radio.	Ich habe kein Radio.	मेरे पास रेडियो नहीं है।
-I don't have a sword.	Ich habe kein Schwert.	मेरे पास तलवार नहीं है।
-I don't have all day.	Ich habe nicht den ganzen Tag Zeit.	मेरे पास पूरा दिन नहीं है।
-I don't have enemies.	Ich habe keine Feinde.	मेरा कोई दुश्मन नहीं है।
-I don't hold grudges.	Ich bin nicht nachtragend.	मैं नाराज नहीं हूं।
-I don't know English.	Ich kann kein Englisch.	मुझे अंग्रेज़ी बोलना नहीं आता।
-I don't know exactly.	Ich bin mir nicht sicher.	मुझे यकीन नहीं है।
-I don't know exactly.	Ich weiß es nicht genau.	मुझे ठीक ठीक नहीं पता।
 I don't know the way.	Ich kenne den Weg nicht.	मैं रास्ता नहीं जानता।
 I don't like English.	Ich mag Englisch nicht.	मुझे अंग्रेजी पसंद नहीं है।
 I don't like arguing.	Ich streite nicht gern.	मुझे बहस करना पसंद नहीं है।

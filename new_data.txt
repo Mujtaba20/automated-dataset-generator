@@ -31574,3 +31574,13 @@ I don't feel so good.	Ich fühle mich nicht so gut.	मैं इतना अ�
 I don't get out much.	Ich gehe nicht viel raus.	मैं बहुत बाहर नहीं निकलता।
 I don't get the joke.	Ich verstehe den Witz nicht.	मुझे मजाक समझ नहीं आता।
 I don't go to school.	Ich gehe nicht zur Schule.	मैं स्कूल नहीं जाता।
+I don't have a fever.	Ich habe kein Fieber.	मेरे पास बुखार नहीं है।
+I don't have a horse.	Ich habe kein Pferd.	मेरे पास घोड़ा नहीं है।
+I don't have a phone.	Ich habe kein Telefon.	मेरे पास फ़ोन नहीं है।
+I don't have a radio.	Ich habe kein Radio.	मेरे पास रेडियो नहीं है।
+I don't have a sword.	Ich habe kein Schwert.	मेरे पास तलवार नहीं है।
+I don't have all day.	Ich habe nicht den ganzen Tag.	मेरे पास पूरे दिन का समय नहीं है।
+I don't have enemies.	Ich habe keine Feinde.	मेरे दुश्मन नहीं हैं।
+I don't hold grudges.	Ich hege keine Groll.	मैं कोई अपराध नहीं रखता।
+I don't know English.	Ich kenne kein Englisch.	मुझे अंग्रेजी नहीं आती।
+I don't know exactly.	Ich weiß nicht genau.	मुझे सटीक जानकारी नहीं है।
