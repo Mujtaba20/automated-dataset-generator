@@ -1,15 +1,4 @@
 
-Maybe Tom has problems.	Vielleicht hat Tom Probleme.	शायद टॉम को समस्याएं हैं।
-Maybe Tom will say yes.	Vielleicht sagt Tom ja.	शायद टॉम कहते हैं हाँ।
-Maybe you should leave.	Vielleicht solltest du dich davonbegeben.	शायद आपको खुद को दूर कर देना चाहिए।
-Mind your own business!	Kümmere dich um deine eigenen Angelegenheiten!	अपने काम से काम रखो!
-Mind your own business!	Kümmern Sie sich um Ihre eigenen Angelegenheiten!	अपने स्वयं के मामलों का ख्याल रखें!
-Mind your own business.	Kümmere dich um deine eigenen Angelegenheiten!	अपने काम से काम रखो!
-Mind your own business.	Stecke deine Nase nicht in fremde Angelegenheiten.	अपनी नाक विदेशी मामलों में न डालें।
-Mind your own business.	Stecke deine Nase nicht in anderer Leute Angelegenheiten.	अन्य लोगों में अपनी नाक न डालें।
-Mind your own business.	Kümmere dich um deinen Kram.	अपने सामान का ख्याल रखें।
-Miracles have happened.	Wunder sind schon vorgekommen.	चमत्कार पहले ही हो चुके हैं।
-Miracles have happened.	Wunder haben sich schon ereignet.	चमत्कार पहले ही हो चुके हैं।
 Mom did not mention it.	Mama hat es nicht erwähnt.	माँ ने इसका उल्लेख नहीं किया।
 Money isn't everything.	Geld ist nicht alles.	धन ही सब कुछ नहीं है।
 Money isn't everything.	Geld ist nicht die Welt.	पैसा दुनिया नहीं है।
