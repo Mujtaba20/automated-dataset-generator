@@ -28997,3 +28997,13 @@ Tom is watching you.	Tom beobachtet dich.	टॉम तुम्हें दे
 Tom is wearing blue.	Tom trägt Blau.	टॉम नीला पहन रहा है।
 Tom is welcome here.	Tom ist hier willkommen.	टॉम यहाँ स्वागत है।
 Tom is well off now.	Tom geht es jetzt gut.	टॉम अब बड़ा आराम से है।
+Tom is with the FBI.	Tom ist beim FBI.	टॉम एफबीआई के साथ है।
+Tom is working late.	Tom arbeitet spät.	टॉम देर तक काम कर रहा है।
+Tom is your brother.	Tom ist dein Bruder.	टॉम तुम्हारा भाई है।
+Tom is your teacher.	Tom ist dein Lehrer.	टॉम आपके शिक्षक हैं।
+Tom isn't a big man.	Tom ist kein großer Mann.	टॉम एक बड़ा आदमी नहीं है।
+Tom isn't a painter.	Tom ist kein Maler.	टॉम एक चित्रकार नहीं है।
+Tom isn't a student.	Tom ist kein Student.	टॉम एक छात्र नहीं है।
+Tom isn't a suspect.	Tom ist kein Verdächtiger.	टॉम एक संदिग्ध नहीं है।
+Tom isn't an artist.	Tom ist kein Künstler.	टॉम कलाकार नहीं है।
+Tom isn't an expert.	Tom ist kein Experte.	टॉम एक विशेषज्ञ नहीं है।

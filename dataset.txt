@@ -1,14 +1,4 @@
 
-Tom is with the FBI.	Tom ist beim FBI.	टॉम एफबीआई में है।
-Tom is working late.	Tom arbeitet bis spät nachts.	टॉम देर रात तक काम करता है।
-Tom is your brother.	Tom ist dein Bruder.	टॉम तुम्हारा भाई है।
-Tom is your teacher.	Tom ist dein Lehrer.	टॉम आपके शिक्षक हैं।
-Tom isn't a big man.	Tom ist kein großer Mann.	टॉम बड़ा आदमी नहीं है।
-Tom isn't a painter.	Tom ist kein Maler.	टॉम एक चित्रकार नहीं है।
-Tom isn't a student.	Tom ist kein Student.	टॉम एक छात्र नहीं है।
-Tom isn't a suspect.	Tom ist kein Tatverdächtiger.	टॉम संदिग्ध नहीं है।
-Tom isn't an artist.	Tom ist kein Künstler.	टॉम कलाकार नहीं है।
-Tom isn't an expert.	Tom ist nicht vom Fach.	टॉम विषय से नहीं है।
 Tom isn't answering.	Tom antwortet nicht.	टॉम जवाब नहीं देता।
 Tom isn't at school.	Tom ist nicht in der Schule.	टॉम स्कूल में नहीं है।
 Tom isn't breathing.	Tom atmet nicht mehr.	टॉम अब सांस नहीं लेता।
