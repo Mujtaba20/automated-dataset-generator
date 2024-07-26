@@ -1,14 +1,4 @@
 
-Tom liked working here.	Tom gefiel die Arbeit hier.	टॉम को यहां काम पसंद आया।
-Tom liked working here.	Tom arbeitete gerne hier.	टॉम को यहां काम करना पसंद था।
-Tom likes Italian food.	Tom mag italienische Speisen.	टॉम को इतालवी व्यंजन पसंद हैं।
-Tom likes Italian food.	Tom isst gerne italienisch.	टॉम को इतालवी खाना पसंद है।
-Tom likes Italian food.	Tom mag die italienische Küche.	टॉम को इतालवी भोजन पसंद है।
-Tom likes Mexican food.	Tom isst gerne mexikanisch.	टॉम को मैक्सिकन खाना पसंद है।
-Tom likes Swiss cheese.	Tom isst gern Schweizer Käse.	टॉम को स्विस पनीर खाना पसंद है।
-Tom likes classic cars.	Tom mag klassische Autos.	टॉम को क्लासिक कारें पसंद हैं।
-Tom likes ham and eggs.	Tom mag Schinken und Eier.	टॉम को हैम और अंडे पसंद हैं।
-Tom likes his teachers.	Tom mag seine Lehrer.	टॉम अपने शिक्षक पसंद करते हैं।
 Tom likes it in Boston.	Tom mag es in Boston.	टॉम इसे बोस्टन में पसंद करते हैं।
 Tom likes it in Boston.	Tom gefällt es in Boston.	टॉम इसे बोस्टन में पसंद करते हैं।
 Tom likes jelly donuts.	Tom isst gerne Berliner.	टॉम को बर्लिनर खाना पसंद है।
