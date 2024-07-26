@@ -1,14 +1,4 @@
 
-He stamped out a fire.	Er trat ein Feuer aus.	उसने आग छोड़ दी।
-He started a new life.	Er begann ein neues Leben.	उन्होंने एक नया जीवन शुरू किया।
-He swims in the river.	Er schwimmt im Fluss.	वह नदी में तैरता है।
-He talked about music.	Er redete über Musik.	उन्होंने संगीत के बारे में बात की।
-He teaches us English.	Er lehrt uns Englisch.	वह हमें अंग्रेजी सिखाता है।
-He teaches us English.	Er unterrichtet uns in Englisch.	वह हमें अंग्रेजी में सिखाता है।
-He teaches us history.	Er unterrichtet uns in Geschichte.	वह हमें इतिहास में सिखाता है।
-He teaches us history.	Er unterrichtet uns Geschichte.	वह हमें इतिहास सिखाता है।
-He tends to tell lies.	Er neigt dazu, zu lügen.	वह झूठ बोलता है।
-He tends to tell lies.	Er neigt dazu zu lügen.	वह झूठ बोलता है।
 He thinks I'm jealous.	Er denkt, ich wäre eifersüchtig.	वह सोचता है कि मुझे जलन होगी।
 He threw in the towel.	Er warf das Handtuch.	उसने तौलिया फेंक दिया।
 He threw me the apple.	Er warf mir den Apfel zu.	उसने सेब को मेरे पास फेंक दिया।

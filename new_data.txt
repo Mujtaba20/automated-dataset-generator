@@ -36875,3 +36875,10 @@ He speaks really well.	Er spricht wirklich gut.	वह वास्तव मे
 He speaks with a lisp.	Er spricht mit einem Lispeln.	वह लिस्प के साथ बोलता है।
 He sprained his ankle.	Er hat sich den Knöchel verstaucht.	उसने अपने पैर की टंगन खींच ली।
 He sprained his ankle. (a different meaning)	Er knickte mit dem Knöchel um.	उसने अपने पैर को झकझोर लिया।
+He stamped out a fire.	Er stampfte ein Feuer aus.	उसने एक आग बुझाई।
+He started a new life.	Er begann ein neues Leben.	उसने एक नया जीवन शुरू किया।
+He swims in the river.	Er schwimmt im Fluss.	वह नदी में तैरता है।
+He talked about music.	Er sprach über Musik.	उसने संगीत के बारे में बात की।
+He teaches us English.	Er unterrichtet uns Englisch.	वह हमें अंग्रेजी सिखाता है।
+He teaches us history.	Er unterrichtet uns Geschichte.	वह हमें इतिहास सिखाता है।
+He tends to tell lies.	Er hat die Neigung zu Lügen zu erzählen.	वह झूठ बोलने की प्रवृत्ति रखता है।
