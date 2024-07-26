@@ -32691,3 +32691,11 @@ Is Tom at your place?	Ist Tom bei dir?	क्या टॉम तुम्हा
 Is Tom available now?	Ist Tom jetzt verfügbar?	क्या टॉम अब उपलब्ध है?
 Is Tom going to jail?	Geht Tom ins Gefängnis?	क्या टॉम को जेल जाना है?
 Is Tom going to live?	Wird Tom leben?	क्या टॉम जीवित रहेगा?
+Is Tom in Boston now?	Ist Tom jetzt in Boston?	क्या टॉम अब बोस्टन में है?
+Is Tom in the garden?	Ist Tom im Garten?	क्या टॉम बगीचे में हैं?
+Is Tom in your class?	Ist Tom in deiner Klasse?	क्या टॉम तुम्हारी क्लास में है?
+Is Tom looking at me?	Schaut Tom mich an?	क्या टॉम मुझे देख रहा है?
+Is Tom on board, too?	Ist Tom auch an Bord?	क्या टॉम भी जहाज पर है?
+Is Tom right for you?	Ist Tom richtig für dich?	क्या टॉम तुम्हारे लिए सही है?
+Is Tom still playing?	Spielt Tom immer noch?	क्या टॉम अभी भी खेल रहा है?
+Is Tom still singing?	Singt Tom immer noch?	क्या टॉम अभी भी गा रहा है?

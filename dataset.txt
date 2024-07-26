@@ -1,14 +1,4 @@
 
-Is Tom in Boston now?	Ist Tom jetzt in Boston?	क्या टॉम अब बोस्टन में है?
-Is Tom in the garden?	Ist Tom im Garten?	बगीचे में टॉम है?
-Is Tom in your class?	Ist Tom in deinem Kurs?	क्या आपके पाठ्यक्रम में टॉम है?
-Is Tom looking at me?	Schaut Tom mich an?	टॉम मुझे देखता है?
-Is Tom looking at me?	Betrachtet Tom mich?	टॉम मुझे देखता है?
-Is Tom on board, too?	Ist Tom auch mit dabei?	क्या टॉम भी शामिल है?
-Is Tom right for you?	Ist Tom der Richtige für dich?	क्या टॉम आपके लिए सही है?
-Is Tom still playing?	Spielt Tom noch?	क्या टॉम अभी भी खेल रहा है?
-Is Tom still playing?	Ist Tom noch am Spielen?	क्या टॉम अभी भी खेल रहा है?
-Is Tom still singing?	Singt Tom immer noch?	टॉम अभी भी गाता है?
 Is anyone else going?	Geht da noch jemand fort?	क्या कोई चला जाता है?
 Is anyone else going?	Geht noch jemand?	क्या कोई और जाता है?
 Is flight 23 on time?	Ist Flug 23 pünktlich?	क्या समय पर उड़ान 23 है?
