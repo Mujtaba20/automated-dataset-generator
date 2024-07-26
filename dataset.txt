@@ -1,14 +1,4 @@
 
-Do you want to see it?	Willst du es sehen?	क्या आपकी इसे देखने की इच्छा है?
-Do you want to try it?	Willst du’s mal probieren?	क्या आप इसे करने की कोशिश करना चाहते हैं?
-Do you want to try it?	Willst du’s mal versuchen?	क्या आप इसे करने की कोशिश करना चाहते हैं?
-Do you work near here?	Arbeitest du hier in der Nähe?	क्या आप यहाँ काम करते हैं?
-Do you work near here?	Arbeitet ihr hier in der Nähe?	क्या आप यहाँ काम करते हैं?
-Do you work near here?	Arbeiten Sie hier in der Nähe?	क्या आप यहाँ काम करते हैं?
-Do your parents smoke?	Rauchen deine Eltern?	क्या आपके माता -पिता धूम्रपान करते हैं?
-Does Tom drink coffee?	Trinkt Tom Kaffee?	क्या टॉम कॉफी पीते हैं?
-Does Tom dye his hair?	Färbt sich Tom die Haare?	क्या टॉम अपने बालों को मोड़ देता है?
-Does Tom ever do that?	Macht Tom denn so was?	क्या टॉम ऐसा करता है?
 Does Tom go out a lot?	Geht Tom viel aus?	क्या टॉम बहुत बाहर जाता है?
 Does Tom go out a lot?	Geht Tom viel fort?	क्या टॉम बहुत जाता है?
 Does Tom go out a lot?	Geht Tom oft aus?	क्या टॉम अक्सर बाहर जाता है?

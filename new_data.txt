@@ -36434,3 +36434,12 @@ Do you want to change?_1	Möchtest du etwas verändern?	क्या आप क�
 Do you want to go out?	Möchtest du ausgehen?	क्या आप बाहर जाना चाहते हैं?
 Do you want to resign?	Möchtest du zurücktreten?	क्या आप इस्तीफा देना चाहते हैं?
 Do you want to resign?_1	Möchtest du kündigen?	क्या आप नौकरी छोड़ना चाहते हैं?
+Do you want to see it?	Möchten Sie es sehen?	क्या आप इसे देखना चाहेंगे?
+Do you want to try it?	Möchten Sie es ausprobieren?	क्या आप इसे आजमाना चाहेंगे?
+Do you want to try it? - Different Meaning	Möchten Sie versuchen, es zu lösen?	क्या आप इसे ट्राई करना चाहेंगे?
+Do you work near here?	Arbeiten Sie in der Nähe?	क्या आप यहाँ के पास काम करते हैं?
+Do you work near here? - Different Meaning	Arbeiten Sie nahe daran?	क्या आप यहाँ के नीचे काम करते हैं?
+Do your parents smoke?	Rauchen Ihre Eltern?	क्या आपके माता-पिता सिगरेट पीते हैं?
+Does Tom drink coffee?	Trinkt Tom Kaffee?	क्या टॉम कॉफ़ी पीता है?
+Does Tom dye his hair?	Färbt Tom sich die Haare?	क्या टॉम अपने बाल को द्वारा रंगता है?
+Does Tom ever do that?	Macht Tom das jemals?	क्या टॉम कभी ऐसा करता है?
