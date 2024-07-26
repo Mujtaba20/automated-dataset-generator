@@ -24261,3 +24261,12 @@ We don't have long.	Wir haben nicht lange.	हमारे पास लंब�
 We don't have that.	Das haben wir nicht.	हमारे पास वह नहीं है।
 We don't know that.	Das wissen wir nicht.	हम वह नहीं जानते।
 We don't live here.	Wir leben hier nicht.	हम यहाँ नहीं रहते।
+We don't need them.	Wir brauchen sie nicht.	हमें उन्हें चाहिए नहीं।
+We don't talk much.	Wir reden nicht viel.	हम ज्यादा नहीं बात करते।
+We don't trust Tom.	Wir vertrauen Tom nicht.	हम टॉम पर भरोसा नहीं करते।
+We don't want that.	Das wollen wir nicht.	हम वह नहीं चाहते।
+We drank all night.	Wir haben die ganze Nacht getrunken.	हमने पूरी रात पी है।
+We drank some wine.	Wir haben etwas Wein getrunken.	हमने कुछ शराब पी है।
+We drove for miles.	Wir sind Meilen gefahren.	हम मीलों तक चले गए।
+We found him alive.	Wir fanden ihn lebend.	हमने उसे जिंदा पाया।
+We found something.	Wir haben etwas gefunden.	हमें कुछ मिला।
