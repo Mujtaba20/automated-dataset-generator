@@ -1,14 +1,4 @@
 
-Do you want a lawyer?	Wollen Sie einen Anwalt?	क्या आप एक वकील चाहते हैं?
-Do you want a lawyer?	Willst du einen Anwalt?	क्या आप एक वकील चाहते हैं?
-Do you want a lawyer?	Wollt ihr einen Anwalt?	क्या आप एक वकील चाहते हैं?
-Do you want anything?	Willst du irgendetwas?	क्या आप को कुछ चाहिए?
-Do you want me to go?	Willst du, dass ich gehe?	क्या आप जाना चाहते हैं?
-Do you want me to go?	Wollt ihr, dass ich gehe?	क्या आप चाहते हैं कि मैं जाऊं?
-Do you want me to go?	Wollen Sie, dass ich gehe?	क्या आप जाना चाहते हैं?
-Do you want more ice?	Möchten Sie mehr Eis?	क्या आप अधिक आइसक्रीम पसंद करेंगे?
-Do you want more ice?	Willst du mehr Eis?	क्या आप अधिक आइसक्रीम चाहते हैं?
-Do you want more ice?	Wollt ihr mehr Eis?	क्या आप अधिक आइसक्रीम चाहते हैं?
 Do you want some tea?	Möchtest du Tee?	क्या आप चाय लेंगे?
 Do you want some tea?	Willst du Tee?	आप चाय चाहते हैं?
 Do you want some tea?	Möchtet ihr Tee?	आप चाय लेंगे?

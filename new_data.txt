@@ -30726,3 +30726,7 @@ Do you trust Tom yet?	Vertrauen Sie Tom schon?	क्या अभी भी आ
 Do you understand it?	Verstehst du es?	क्या आपको यह समझ में आ रहा है?
 Do you understand me?	Verstehen Sie mich?	क्या आप मुझे समझ रहे हैं?
 Do you want a cookie?	Möchtest du einen Keks?	क्या आप एक कुकी चाहते हैं?
+Do you want a lawyer?	Möchtest du einen Anwalt?	क्या आपको वकील चाहिए?
+Do you want anything?	Möchtest du etwas?	क्या आपको कुछ चाहिए?
+Do you want me to go?	Möchtest du, dass ich gehe?	क्या आप चाहते हैं कि मैं चलूं?
+Do you want more ice?	Möchtest du mehr Eis?	क्या आपको अधिक बर्फ चाहिए?
