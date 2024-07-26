@@ -1,14 +1,4 @@
 
-Tom knows Mary is rich.	Tom weiß, dass Maria reich ist.	टॉम जानता है कि मारिया अमीर है।
-Tom knows how to fight.	Tom weiß, wie man kämpft.	टॉम जानता है कि कैसे लड़ना है।
-Tom knows how you feel.	Tom weiß, wie dir zumute ist.	टॉम जानता है कि आप कैसा महसूस करते हैं।
-Tom knows me very well.	Tom kennt mich sehr gut.	टॉम मुझे बहुत अच्छी तरह से जानता है।
-Tom knows that we know.	Tom weiß, dass wir es wissen.	टॉम जानता है कि हम जानते हैं।
-Tom knows us very well.	Tom kennt uns sehr gut.	टॉम हमें बहुत अच्छी तरह से जानता है।
-Tom knows we can't win.	Tom weiß, dass wir nicht gewinnen können.	टॉम जानता है कि हम जीत नहीं सकते।
-Tom knows we're coming.	Tom weiß, dass wir kommen.	टॉम जानता है कि हम आ रहे हैं।
-Tom knows what that is.	Tom weiß, was das ist.	टॉम जानता है कि वह क्या है।
-Tom knows what this is.	Tom weiß, was das ist.	टॉम जानता है कि वह क्या है।
 Tom knows what we need.	Tom weiß, was wir brauchen.	टॉम जानता है कि हमें क्या चाहिए।
 Tom knows what you did.	Tom weiß, was du getan hast.	टॉम जानता है कि आपने क्या किया।
 Tom knows what you did.	Tom weiß, was ihr getan habt.	टॉम जानता है कि आपने क्या किया।
