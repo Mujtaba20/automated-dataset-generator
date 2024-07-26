@@ -1,14 +1,4 @@
 
-It's snowing there.	Es schneit dort.	वहां बर्फबारी हो रही है।
-It's snowing today.	Heute schneit es.	आज बर्फबारी हो रही है।
-It's snowing today.	Es schneit heute.	आज बर्फबारी हो रही है।
-It's so impersonal.	Es ist so unpersönlich.	यह बहुत अवैयक्तिक है।
-It's started again.	Es hat wieder angefangen.	यह फिर से शुरू हुआ।
-It's still crowded.	Es ist noch immer überfüllt.	यह अभी भी भीड़भाड़ है।
-It's still immoral.	Es ist immer noch unmoralisch.	यह अभी भी अनैतिक है।
-It's still raining.	Es regnet noch.	अभी भी बारिश हो रही हे।
-It's still raining.	Es regnet immer noch.	अभी भी बारिश हो रही है।
-It's still raining.	Es ist immer noch am Regnen.	अभी भी बारिश हो रही है।
 It's still snowing.	Es schneit noch immer.	अभी भी बर्फबारी है।
 It's time to leave.	Es ist Zeit zu gehen.	छोडने का वक्त हो गया।
 It's time to leave.	Es ist Zeit aufzubrechen.	यह खोलने का समय है।

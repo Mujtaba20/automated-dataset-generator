@@ -22373,3 +22373,10 @@ It's really simple.	Es ist wirklich einfach.	यह वास्तव में
 It's rude to stare.	Es ist unhöflich zu starren.	घूरना अकड़ना है।
 It's sad, but true.	Es ist traurig, aber wahr.	यह दुखद है, लेकिन सच है।
 It's snowing again.	Es schneit wieder.	फिरसे बर्फ गिर रही है।
+It's snowing there.	Es schneit dort.	वहाँ बर्फ़ गिर रही है।
+It's snowing today.	Es schneit heute.	आज बर्फ़ गिर रही है।
+It's so impersonal.	Es ist so unpersönlich.	यह बहुत असंवेदनशील है।
+It's started again.	Es hat wieder begonnen.	यह फिर से शुरू हो गया है।
+It's still crowded.	Es ist immer noch voll.	अभी भी भीड़ है।
+It's still immoral.	Es ist immer noch unmoralisch.	यह अभी भी अनैतिक है।
+It's still raining.	Es regnet immer noch.	अभी भी बारिश हो रही है।
