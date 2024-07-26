@@ -34436,3 +34436,13 @@ Tom is feeling dizzy.	Tom fühlt sich schwindelig.	टॉम को चक्क
 Tom is flabbergasted.	Tom ist fassungslos.	टॉम हैरान है।
 Tom is frying an egg.	Tom brät ein Ei.	टॉम अंडा तल रहा है।
 Tom is fun, isn't he?	Tom macht Spaß, oder?	टॉम मजेदार है, ना?
+Tom is gaining on us.	Tom holt uns ein.	टॉम हमें आ रहा है।
+Tom is getting bored.	Tom langweilt sich.	टॉम बोर हो रहा है।
+Tom is getting ready.	Tom macht sich bereit.	टॉम तैयार हो रहा है।
+Tom is going to cook.	Tom wird kochen.	टॉम पकाने जा रहा है।
+Tom is good at cards.	Tom ist gut in Karten.	टॉम कार्ड में अच्छा है।
+Tom is good at chess.	Tom ist gut im Schach.	टॉम शतरंज में अच्छा है।
+Tom is good at rugby.	Tom ist gut im Rugby.	टॉम रग्बी में अच्छा है।
+Tom is grilling meat.	Tom grillt Fleisch.	टॉम मांस पका रहा है।
+Tom is happy with it.	Tom ist damit zufrieden.	टॉम इसके साथ खुश है।
+Tom is having dinner.	Tom isst zu Abend.	टॉम रात का खाना खा रहा है।

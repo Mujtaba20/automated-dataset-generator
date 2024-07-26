@@ -1,14 +1,4 @@
 
-Tom is gaining on us.	Tom holt uns immer mehr ein.	टॉम हमारे साथ पकड़ता है।
-Tom is getting bored.	Tom fängt an, sich zu langweilen.	टॉम ऊबने लगता है।
-Tom is getting ready.	Tom macht sich fertig.	टॉम तैयार हो जाता है।
-Tom is going to cook.	Tom wird kochen.	टॉम पकाएगा।
-Tom is good at cards.	Tom ist gut beim Kartenspielen.	टॉम अच्छा खेल कार्ड है।
-Tom is good at chess.	Tom spielt gut Schach.	टॉम अच्छी तरह से शतरंज खेलता है।
-Tom is good at rugby.	Tom ist gut im Rugby.	टॉम रग्बी में अच्छा है।
-Tom is grilling meat.	Tom grillt Fleisch.	टॉम ने मांस को ग्रिल किया।
-Tom is happy with it.	Tom ist glücklich damit.	टॉम इससे खुश है।
-Tom is having dinner.	Tom isst gerade zu Abend.	टॉम अभी रात के खाने में खा रहा है।
 Tom is himself again.	Tom ist wieder er selbst.	टॉम फिर से है।
 Tom is in Boston now.	Tom ist jetzt in Boston.	टॉम अब बोस्टन में है।
 Tom is in a bad mood.	Tom hat schlechte Laune.	टॉम एक बुरे मूड में है।
