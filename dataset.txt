@@ -1,14 +1,4 @@
 
-I can't explain it.	Ich kann es nicht erklären.	मैं समझा नहीं सकता।
-I can't follow you.	Ich kann dir nicht folgen.	मैं आप का पालन नहीं कर सकता।
-I can't forget Tom.	Ich kann Tom nicht vergessen.	मैं टॉम को नहीं भूल सकता।
-I can't forget her.	Ich kann sie nicht vergessen.	मैं उसे नहीं भूल सकता।
-I can't imagine it.	Ich kann es mir nicht vorstellen.	मैं कल्पना नहीं कर सकता।
-I can't just leave.	Ich kann nicht einfach weggehen.	मैं बस दूर नहीं जा सकता।
-I can't let you in.	Ich kann dich nicht hereinlassen.	मैं तुम्हें अंदर नहीं जा सकता।
-I can't let you in.	Ich kann Sie nicht hereinlassen.	मैं उसे अंदर नहीं जा सकता।
-I can't lie to you.	Ich kann dich nicht anlügen.	मैं आपसे झूठ नहीं बोल सकता।
-I can't play chess.	Ich kann kein Schach spielen.	मैं शतरंज नहीं खेल सकता।
 I can't play piano.	Ich kann kein Klavier spielen.	मैं एक पियानो नहीं खेल सकता।
 I can't resign now.	Ich kann jetzt nicht zurücktreten.	मैं अब वापस नहीं जा सकता।
 I can't resist her.	Ich kann ihr nicht widerstehen.	मैं उसका विरोध नहीं कर सकता।

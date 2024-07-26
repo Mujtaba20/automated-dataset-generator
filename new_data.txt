@@ -21106,3 +21106,12 @@ I can't control it.	Ich kann es nicht kontrollieren.	मैं इसे नि�
 I can't discuss it.	Ich kann es nicht besprechen.	मैं इसका चर्चा नहीं कर सकता।
 I can't drink milk.	Ich kann keine Milch trinken.	मैं दूध नहीं पी सकता।
 I can't exclude it.	Ich kann es nicht ausschließen.	मैं इसे बाहर नहीं कर सकता।
+I can't explain it.	Ich kann es nicht erklären.	मैं इसे समझा नहीं सकता।
+I can't follow you.	Ich kann dir nicht folgen.	मैं तुम्हारा पीछा नहीं कर सकता।
+I can't forget Tom.	Ich kann Tom nicht vergessen.	मैं टॉम को भूल नहीं सकता।
+I can't forget her.	Ich kann sie nicht vergessen.	मैं उसे नहीं भूल सकता।
+I can't imagine it.	Ich kann es mir nicht vorstellen.	मैं इसे कल्पना नहीं कर सकता।
+I can't just leave.	Ich kann nicht einfach gehen.	मैं सिर्फ छोड़ नहीं सकता।
+I can't let you in.	Ich kann dich nicht reinlassen.	मैं तुम्हें अंदर नहीं आने देन सकता।
+I can't lie to you.	Ich kann dir nicht lügen.	मैं तुम्हें झूठ नहीं बोल सकता।
+I can't play chess.	Ich kann kein Schach spielen.	मैं शतरंज नहीं खेल सकता।
