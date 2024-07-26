@@ -23068,3 +23068,12 @@ There goes our bus.	Da geht unser Bus.	हमारी बस चली गई�
 There is no choice.	Es gibt keine Wahl.	कोई विकल्प नहीं है।
 There is one catch.	Es gibt einen Haken.	एक समस्या है।
 There is some wind.	Es gibt etwas Wind.	कुछ हवा है।
+There's a big hole.	Es gibt ein großes Loch.	एक बड़ा गड्ढा है।
+There's no mistake.	Es gibt keinen Fehler.	कोई ग़लती नहीं है।
+There's no urgency.	Es besteht keine Dringlichkeit.	कोई जल्दी नहीं है।
+There's no way out.	Es gibt keinen Ausweg.	कोई रास्ता नहीं है।
+There's still hope.	Es gibt immer noch Hoffnung.	फिर भी आशा है।
+There's still time.	Es ist noch Zeit.	अभी भी समय है।
+These are my books.	Dies sind meine Bücher.	ये मेरी किताबें हैं।
+These are our kids.	Das sind unsere Kinder.	ये हमारे बच्चे हैं।
+These aren't words.	Das sind keine Worte.	ये शब्द नहीं हैं।
