@@ -33812,3 +33812,13 @@ They lost everything.	Sie haben alles verloren.	उन्होंने सब 
 They lost the battle.	Sie haben die Schlacht verloren.	उन्होंने युद्ध हार दिया।
 They love each other.	Sie lieben sich gegenseitig.	वे एक-दूसरे से प्यार करते हैं।
 They made fun of him.	Sie haben sich über ihn lustig gemacht.	उन्होंने उसका मजाक उड़ाया।
+They made me captain.	Sie machten mich zum Kapitän.	उन्होंने मुझे कैप्टन बनाया।
+They may not be home.	Sie sind vielleicht nicht zu Hause.	वे शायद घर पर नहीं हों।
+They may not be home. 1	Sie könnten möglicherweise nicht zu Hause sein.	वे शायद घर पर नहीं हों। 1
+They must be removed.	Sie müssen entfernt werden.	उन्हें हटाया जाना चाहिए।
+They need daily care.	Sie brauchen tägliche Pflege.	उन्हें दैनिक देखभाल की आवश्यकता है।
+They needed a doctor.	Sie brauchten einen Arzt.	उन्हें डॉक्टर की आवश्यकता थी।
+They never came back.	Sie kamen nie zurück.	वे कभी वापस नहीं आए।
+They never showed up.	Sie sind nie aufgetaucht.	उन्होंने कभी प्रकट नहीं हुए।
+They paid separately.	Sie zahlten getrennt.	उन्होंने अलग-अलग भुगतान किया।
+They play basketball.	Sie spielen Basketball.	वे बास्केटबॉल खेलते हैं।
