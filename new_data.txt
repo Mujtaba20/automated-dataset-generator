@@ -26240,3 +26240,12 @@ I dreamed about you.	Ich habe von dir geträumt.	मैंने तुम्ह
 I drive a black car.	Ich fahre ein schwarzes Auto.	मैं एक काली गाड़ी चलाता हूँ।
 I drove to the mall.	Ich bin zum Einkaufszentrum gefahren.	मैं शॉपिंग मॉल गया था।
 I eat a lot of rice.	Ich esse viel Reis.	मैं बहुत सारी चावल खाता हूँ।
+I eat with my hands.	Ich esse mit meinen Händen.	मैं हाथों से खाता हूँ।
+I enjoyed the movie.	Ich habe den Film genossen.	मुझे फिल्म पसंद आई।
+I feel a lot better.	Mir geht es viel besser.	मैं बहुत अच्छा महसूस कर रहा हूँ।
+I feel better today.	Heute fühle ich mich besser.	आज मुझे बेहतर महसूस हो रहा है।
+I feel like a drink.	Ich hätte gerne etwas zu trinken.	मुझे पीने की इच्छा है।
+I feel like dancing.	Ich möchte tanzen.	मुझे नृत्य करने का मन है।
+I feel somewhat sad.	Ich fühle mich ein wenig traurig.	मुझे कुछ उदास महसूस हो रहा है।
+I feel the same way.	Ich fühle genauso.	मैं उसी तरीके से महसूस कर रहा हूँ।
+I felt out of place.	Ich habe mich unwohl gefühlt.	मैंने अजीब महसूस किया।
