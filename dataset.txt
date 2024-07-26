@@ -1,15 +1,4 @@
 
-What should I wear?	Was soll ich anziehen?	मुझे क्या पहनना चाहिए?
-What should Tom do?	Was sollte Tom tun?	टॉम को क्या करना चाहिए?
-What spices do use?	Was für Gewürze benutzt du?	आप किन मसालों का उपयोग करते हैं?
-What spices do use?	Was für Gewürze benutzt ihr?	आप किन मसालों का उपयोग करते हैं?
-What spices do use?	Was für Gewürze benutzen Sie?	आप किन मसालों का उपयोग करते हैं?
-What station is it?	Welche Station ist es?	यह कौन सा स्टेशन है?
-What vile behavior!	Was für ein widerliches Verhalten!	क्या घृणित व्यवहार!
-What vile behavior!	Was für ein ekelhaftes Verhalten!	क्या घृणित व्यवहार!
-What was Tom up to?	Was hatte Tom vor?	टॉम ने क्या योजना बनाई?
-What was discussed?	Was wurde besprochen?	क्या चर्चा की गई?
-What was discussed?	Was hat man besprochen?	आपने क्या चर्चा की?
 What was your name?	Wie war noch mal dein Name?	आपका नाम फिर से कैसा था?
 What were you told?	Was hat man dir gesagt?	आपने क्या बताया?
 What were you told?	Was hat man euch gesagt?	आपने क्या बताया?

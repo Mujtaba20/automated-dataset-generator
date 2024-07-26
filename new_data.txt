@@ -24541,3 +24541,10 @@ What month is this?	Welcher Monat ist das?	यह कौनसा महीन�
 What more can I do?	Was kann ich noch tun?	मैं क्या और कर सकता हूं?
 What more is there?	Was gibt es noch?	और क्या है?
 What motivated you?	Was hat dich motiviert?	तुम्हें क्या प्रेरित किया?
+What should I wear?	Was soll ich tragen?	मैं किसे पहनना चाहिए?
+What should Tom do?	Was soll Tom tun?	टॉम को क्या करना चाहिए?
+What spices do use?	Welche Gewürze benutzt du?	आप कौनसे मसाले इस्तेमाल करते हैं?
+What station is it?	Welcher Bahnhof ist das?	यह कौन सा स्थान है?
+What vile behavior!	Welches abscheuliche Verhalten!	कितना घिनौना व्यवहार!
+What was Tom up to?	Was hatte Tom vor?	टॉम क्या कर रहा था?
+What was discussed?	Worüber wurde gesprochen?	क्या चर्चा हुई थी?
