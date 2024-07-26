@@ -1,14 +1,4 @@
 
-Tom is filthy rich now.	Tom ist jetzt stinkreich.	टॉम अब बदबूदार है।
-Tom is getting dressed.	Tom zieht sich an.	टॉम लेता है।
-Tom is getting dressed.	Tom kleidet sich an.	टॉम कपड़े।
-Tom is getting jealous.	Tom wird eifersüchtig.	टॉम जलन हो जाता है।
-Tom is getting married.	Tom heiratet bald.	टॉम जल्द ही शादी कर रहे हैं।
-Tom is getting nervous.	Tom wird nervös.	टॉम घबरा जाता है।
-Tom is going on thirty.	Tom geht auf die Dreißig zu.	टॉम तीस के पास पहुंचता है।
-Tom is going out again.	Tom geht wieder raus.	टॉम फिर से बाहर जाता है।
-Tom is going out again.	Tom geht wieder aus.	टॉम फिर से बाहर जाता है।
-Tom is going to Boston.	Tom geht nach Boston.	टॉम बोस्टन जाता है।
 Tom is going to resign.	Tom wird zurücktreten.	टॉम नीचे कदम रखेगा।
 Tom is going to say no.	Tom wird nein sagen.	टॉम कहेंगे नहीं।
 Tom is good at cooking.	Tom ist ein guter Koch.	टॉम एक अच्छा रसोइया है।
