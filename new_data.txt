@@ -20707,3 +20707,11 @@ He asked my mother.	Er fragte meine Mutter.	उसने मेरी माँ 
 He banged his head.	Er schlug sich den Kopf.	उसने अपने सिर को टकराया।
 He banged his knee.	Er schlug sein Knie.	उसने अपने घुटने को मारा।
 He became a sailor.	Er wurde Seemann.	उसने एक नाविक बन गया।
+He bores everybody.	Er langweilt alle.	वह सब को ऊंघना देता है।
+He broke the rules.	Er verstieß gegen die Regeln.	उसने नियम तोड़े।
+He brushed his hat.	Er bürstete seinen Hut.	उसने अपनी टोपी साफ की।
+He called for beer.	Er rief nach Bier.	उसने बियर मांगी।
+He called for help.	Er rief um Hilfe.	उसने मदद मांगी।
+He called me a cab.	Er rief mir ein Taxi.	उसने मुझे एक टैक्सी बुलाया।
+He came here again.	Er kam wieder hierher.	वह यहाँ फिर से आया।
+He came out on top.	Er setzte sich durch.	उसने ऊपर आकर दिखाया।
