@@ -1,14 +1,4 @@
 
-Do you like pork loin?	Isst du gerne Schweinelende?	क्या आप पोर्क तत्व खाना पसंद करते हैं?
-Do you like root beer?	Trinkst du gerne Wurzelbier?	क्या आपको रूट बीयर पीना पसंद है?
-Do you like spaghetti?	Magst du Spaghetti?	क्या आपको स्पैगेटी पसन्द है?
-Do you like sweet tea?	Trinkst du gerne süßen Tee?	क्या आपको मीठी चाय पीना पसंद है?
-Do you like that song?	Gefällt dir das Lied?	क्या आपको गाना पसंद आया?
-Do you like that song?	Gefällt Ihnen das Lied?	क्या आपको गाना पसंद आया?
-Do you like the piano?	Gefällt dir das Piano?	क्या आपको पियानो पसंद है?
-Do you like the piano?	Gefällt Ihnen das Piano?	क्या आपको पियानो पसंद है?
-Do you like the piano?	Gefällt euch das Piano?	क्या आपको पियानो पसंद है?
-Do you like this book?	Magst du dieses Buch?	क्या यह पुस्तक आपको पसंद है?
 Do you like this city?	Magst du diese Stadt?	क्या आपको यह शहर पसंद है?
 Do you like to travel?	Reist du gern?	क्या आपको यात्रा का आनंद मिलता है?
 Do you like to travel?	Reist ihr gern?	क्या आप यात्रा करना पसंद करते हैं?

@@ -36385,3 +36385,10 @@ Do you like his songs?	Magst du seine Lieder?	क्या आपको उस�
 Do you like it or not?	Magst du es oder nicht?	क्या आपको यह पसंद है या नहीं?
 Do you like my friend?	Magst du meinen Freund?	क्या तुम्हें मेरा दोस्त पसंद है?
 Do you like my friend? (Different meaning)	Magst du meinen Freund?	तुम मेरे दोस्त को पसंद करते हो?
+Do you like pork loin?	Magst du Schweinelende?	क्या आप पॉर्क लॉइन पसंद करते हैं?
+Do you like root beer?	Magst du Wurzelbier?	क्या आप रूट बीयर पसंद करते हैं?
+Do you like spaghetti?	Magst du Spaghetti?	क्या आप स्पेगेटी पसंद करते हैं?
+Do you like sweet tea?	Magst du süßen Tee?	क्या आप मीठी चाय पसंद करते हैं?
+Do you like that song?	Magst du das Lied?	क्या आप उस गाना पसंद करते हैं?
+Do you like the piano?	Magst du das Klavier?	क्या आप पियानो पसंद करते हैं?
+Do you like this book?	Magst du dieses Buch?	क्या आप यह किताब पसंद करते हैं?
