@@ -1,14 +1,4 @@
 
-The food is delicious.	Das Essen ist köstlich.	खाना स्वादिष्ट है।
-The food is excellent.	Das Essen ist ausgezeichnet.	भोजन उत्कृष्ट है।
-The girl said nothing.	Das Mädchen sagte nichts.	लड़की ने कुछ नहीं कहा।
-The girl smiled at me.	Das Mädchen lächelte mich an.	लड़की मुझे देखकर मुस्कुराई।
-The girls are excited.	Die Mädchen sind aufgeregt.	लड़कियां उत्साहित हैं।
-The girls were crying.	Die Mädchen weinten.	लड़कियां रोईं।
-The goal was achieved.	Das Ziel wurde erreicht.	लक्ष्य हासिल किया गया था।
-The goldfish is alive.	Der Goldfisch lebt.	सुनहरी मछली रहती है।
-The guitar is in tune.	Diese Gitarre ist gestimmt.	यह गिटार सही है।
-The heart is a muscle.	Das Herz ist ein Muskel.	दिल एक मांसपेशी है।
 The honeymoon is over.	Die Flitterwochen sind vorüber.	हनीमून खत्म हो गया है।
 The hotel burned down.	Das Hotel brannte ab.	होटल जल गया।
 The house caught fire.	Das Haus ist in Brand geraten.	घर में आग लग गई है।

@@ -39470,3 +39470,13 @@ The feeling is mutual.	Das Gefühl ist gegenseitig.	भावना सामं
 The feeling is mutual. (different meaning)	Die Empfindung ist gegenseitig.	एहसास दोपहरी है।
 The files are missing.	Die Dateien fehlen.	फाइलें गायब हैं।
 The fog began to lift.	Der Nebel begann sich zu lichten.	कोहरा उठने लगा।
+The food is delicious.	Das Essen ist köstlich.	खाना स्वादिष्ट है।
+The food is excellent.	Das Essen ist ausgezeichnet.	भोजन उत्कृष्ट है।
+The girl said nothing.	Das Mädchen sagte nichts.	लड़की ने कुछ नहीं कहा।
+The girl smiled at me.	Das Mädchen lächelte mich an.	लड़की मुझसे मुस्कुराई।
+The girls are excited.	Die Mädchen sind aufgeregt.	लड़कियां उत्साहित हैं।
+The girls were crying.	Die Mädchen weinten.	लड़कियां रो रही थीं।
+The goal was achieved.	Das Ziel wurde erreicht.	लक्ष्य पाया गया था।
+The goldfish is alive.	Der Goldfisch lebt.	सोना मछली जीवित है।
+The guitar is in tune.	Die Gitarre ist gestimmt.	गिटार सुर में है।
+The heart is a muscle.	Das Herz ist ein Muskel.	दिल एक पेशी है।
