@@ -1,15 +1,4 @@
 
-I didn't know anything.	Ich habe nichts gewußt.	मुझे कुछ नहीं पता था।
-I didn't let them know.	Ich habe sie es nicht wissen lassen.	मैंने उसे नहीं बताया।
-I didn't let them know.	Ich gab ihnen nicht Bescheid.	मैंने उन्हें नहीं बताया।
-I didn't let them know.	Ich habe ihnen nicht Bescheid gegeben.	मैंने आपको नहीं बताया।
-I didn't mean to do it.	Ich wollte das nicht tun.	मैं ऐसा नहीं करना चाहता था।
-I didn't murder anyone.	Ich habe niemanden umgebracht!	मैंने किसी को नहीं मारा!
-I didn't notice anyone.	Ich habe niemanden bemerkt.	मैंने किसी को नोटिस नहीं किया।
-I didn't read the book.	Ich habe das Buch nicht gelesen.	मैंने किताब नहीं पढ़ी।
-I didn't recognize you.	Ich habe dich nicht erkannt.	मैंने आपको नहीं पहचाना।
-I didn't recognize you.	Ich habe Sie nicht erkannt.	मैंने उन्हें नहीं पहचाना।
-I didn't recognize you.	Ich habe euch nicht erkannt.	मैंने आपको नहीं पहचाना।
 I didn't see it coming.	Ich habe es nicht vorausgesehen.	मैंने इसकी भविष्यवाणी नहीं की।
 I didn't see it coming.	Ich habe es nicht kommen sehen.	मैंने इसे नहीं देखा।
 I didn't see you there.	Ich habe dich dort nicht gesehen.	मैंने आपको वहां नहीं देखा है।
