@@ -22689,3 +22689,11 @@ She came to my aid.	Sie kam mir zu Hilfe.	उसने मेरी मदद �
 She came to see me.	Sie kam mich besuchen.	वह मुझसे मिलने आई।
 She cannot stop it.	Sie kann es nicht stoppen.	वह इसे रोक नहीं सकती।
 She cannot stop me.	Sie kann mich nicht aufhalten.	वह मुझे नहीं रोक सकती।
+She cannot stop us.	Sie kann uns nicht stoppen.	वह हमें रोक नहीं सकती।
+She could not swim.	Sie konnte nicht schwimmen.	उसने तैरना नहीं सीखा था।
+She did a good job.	Sie hat gute Arbeit geleistet.	उसने अच्छा काम किया।
+She didn't show up.	Sie hat nicht erschienen.	उसने पेश नहीं हुआ।
+She does not smoke.	Sie raucht nicht.	वह सिगरेट नहीं पीती।
+She gave it to him.	Sie gab es ihm.	उसने उसे दिया।
+She gave me a doll.	Sie gab mir eine Puppe.	उसने मुझे एक गुड़िया दी।
+She goes to school.	Sie besucht die Schule.	वह पाठशाला जाती है।
