@@ -20751,3 +20751,13 @@ He got off the bus.	Er ist aus dem Bus ausgestiegen.	उसने बस से 
 He grabbed my hand.	Er packte meine Hand.	उसने मेरा हाथ पकड़ लिया।
 He gripped my hand.	Er umklammerte meine Hand.	उसने मेरा हाथ पकड़ लिया।
 He had an accident.	Er hatte einen Unfall.	उसे एक हादसा हो गया।
+He had fun with it.	Er hatte Spaß damit.	उसका मज़ा आया।
+He has Alzheimer's.	Er hat Alzheimer.	उसे अल्जाइमर है।
+He has a bad heart.	Er hat ein schlechtes Herz.	उनका दिल खराब है।
+He has a big mouth.	Er hat einen großen Mund.	उसका बड़ा मुँह है।
+He has a long neck.	Er hat einen langen Hals.	उसका लम्बा गरदन है।
+He has a long nose.	Er hat eine lange Nase.	उसकी लम्बी नाक है।
+He has a white cat.	Er hat eine weiße Katze.	उसके पास एक सफेद बिल्ली है।
+He has a white dog.	Er hat einen weißen Hund.	उसके पास एक सफेद कुत्ता है।
+He has another son.	Er hat einen anderen Sohn.	उसका और एक बेटा है।
+He has few friends.	Er hat wenige Freunde.	उनके कुछ दोस्त हैं।
