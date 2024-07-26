@@ -1,14 +1,4 @@
 
-This tastes like tea.	Dies schmeckt wie Tee.	यह चाय की तरह स्वाद।
-This tastes like tea.	Der hier schmeckt nach Tee.	चाय की तरह स्वाद।
-This tea is very hot.	Dieser Tee ist sehr heiß.	यह चाय बहुत गर्म है।
-This tea smells good.	Dieser Tee duftet gut.	यह चाय अच्छी खुशबू आ रही है।
-This tea tastes good.	Dieser Tee schmeckt gut.	इस चाय का स्वाद अच्छा है।
-This time I'm paying.	Diesmal zahle ich.	इस बार मैं भुगतान करता हूं।
-This vase is fragile.	Diese Vase ist zerbrechlich.	यह फूलदान नाजुक है।
-This video is boring.	Das Video ist langweilig.	वीडियो उबाऊ है।
-This wall feels cold.	Diese Wand fühlt sich kalt an.	यह दीवार ठंडी लगती है।
-This was a good book.	Das war ein gutes Buch.	वह एक अच्छी किताब थी।
 This was no accident.	Dies war kein Unfall.	यह कोई दुर्घटना नहीं थी।
 This was quite cheap.	Das war ziemlich billig.	यह बहुत सस्ता था।
 This watch is broken.	Diese Uhr ist kaputt.	यह घड़ी टूट गई है।

@@ -33986,3 +33986,12 @@ This rug is handmade.	Dieser Teppich ist handgefertigt.	यह गलीचा �
 This song sounds sad.	Dieses Lied klingt traurig.	यह गीत दुखी लगता है।
 This sounds familiar.	Das kommt mir bekannt vor.	यह परिचित लग रहा है।
 This sweater is warm.	Dieser Pullover ist warm.	यह स्वेटर गर्म है।
+This tastes like tea.	Dies schmeckt wie Tee.	यह चाय जैसा लगता है।
+This tea is very hot.	Dieser Tee ist sehr heiß.	यह चाय बहुत गरम है।
+This tea smells good.	Dieser Tee riecht gut.	यह चाय बहुत अच्छी सुगंध है।
+This tea tastes good.	Dieser Tee schmeckt gut.	यह चाय स्वादिष्ट है।
+This time I'm paying.	Dieses Mal zahle ich.	इस बार मैं चुकाने वाला हूँ।
+This vase is fragile.	Diese Vase ist zerbrechlich.	यह फूलदान नाज़ुक है।
+This video is boring.	Dieses Video ist langweilig.	यह वीडियो उबाऊ है।
+This wall feels cold.	Diese Wand fühlt sich kalt an.	यह दीवार सर्दी महसूस कराती है।
+This was a good book.	Das war ein gutes Buch.	यह एक अच्छी किताब थी।
