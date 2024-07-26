@@ -30730,3 +30730,8 @@ Do you want a lawyer?	Möchtest du einen Anwalt?	क्या आपको व�
 Do you want anything?	Möchtest du etwas?	क्या आपको कुछ चाहिए?
 Do you want me to go?	Möchtest du, dass ich gehe?	क्या आप चाहते हैं कि मैं चलूं?
 Do you want more ice?	Möchtest du mehr Eis?	क्या आपको अधिक बर्फ चाहिए?
+Do you want some tea?	Möchtest du etwas Tee?	क्या आप कुछ चाय पीना चाहेंगे?
+Do you want this job?	Möchtest du diesen Job?	क्या आप इस नौकरी को चाहते हैं?
+Do you want to dance?	Möchtest du tanzen?	क्या आप नृत्य करना चाहेंगे?
+Do you want to do it?	Möchtest du es tun?	क्या आप यह करना चाहेंगे?
+Would you like to dance?	Möchten Sie tanzen?	क्या आप नृत्य करना पसंद करेंगे?

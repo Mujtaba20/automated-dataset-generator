@@ -1,14 +1,4 @@
 
-Do you want some tea?	Möchtest du Tee?	क्या आप चाय लेंगे?
-Do you want some tea?	Willst du Tee?	आप चाय चाहते हैं?
-Do you want some tea?	Möchtet ihr Tee?	आप चाय लेंगे?
-Do you want some tea?	Möchten Sie Tee?	आप चाय लेंगे?
-Do you want this job?	Wollen Sie den Job?	क्या आप नौकरी चाहते हैं?
-Do you want this job?	Willst du die Stelle haben?	क्या आप नौकरी चाहते हैं?
-Do you want to dance?	Willst du tanzen?	क्या आप डांस करना चाहते हैं?
-Do you want to dance?	Wollt ihr tanzen?	क्या आप डांस करना चाहते हैं?
-Do you want to dance?	Wollen Sie tanzen?	क्या आप डांस करना चाहते हैं?
-Do you want to do it?	Möchtest du es tun?	क्या आप इसे करना चाहते हैं?
 Do you want to drink?	Möchtest du trinken?	क्या आप पीना चाहते हैं?
 Do you want to go in?	Willst du hineingehen?	क्या आप अंदर जाना चाहते हैं
 Do you want to leave?	Willst du gehen?	क्या आप जाना चाहते हैं?
