@@ -35150,3 +35150,9 @@ We canoed downstream.	Wir sind flussabwärts gepaddelt.	हमने नीच�
 We changed our minds.	Wir haben unsere Meinung geändert.	हमने अपनी राय बदल ली है।
 We clapped our hands.	Wir haben applaudiert.	हमने हाथों से तालियाँ बजाई।
 We could go together.	Wir könnten gemeinsam gehen.	हम साथ जा सकते हैं।
+We did nothing wrong.	Wir haben nichts falsch gemacht.	हमने कुछ गलत नहीं किया।
+We did that together.	Das haben wir zusammen gemacht.	हमने वह साथ में किया।
+We didn't do a thing.	Wir haben nichts getan.	हमने कुछ नहीं किया।
+We don't accept tips.	Wir nehmen kein Trinkgeld an.	हम सुझाव स्वीकार नहीं करते।
+We don't belong here.	Wir gehören hier nicht hin.	हम यहाँ के नहीं हैं।
+We don't do anything.	Wir tun nichts.	हम कुछ नहीं करते।
