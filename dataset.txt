@@ -1,14 +1,4 @@
 
-I don't like the heat.	Ich mag die Hitze nicht.	मुझे गर्मी पसंद नहीं है।
-I don't like this hat.	Ich mag diesen Hut nicht.	मुझे यह टोपी पसंद नहीं है।
-I don't like this one.	Den mag ich nicht.	मुझे यह पसंद नहीं है।
-I don't like this one.	Die mag ich nicht.	मुझे वे पसन्द नहीं।
-I don't like this one.	Das mag ich nicht.	मुझे ये अच्छा नहीं लगता।
-I don't like to clean.	Ich reinige nicht gerne.	मुझे साफ करना पसंद नहीं है।
-I don't like to drive.	Ich fahre nicht gern Auto.	मुझे कार चलाना पसंद नहीं है।
-I don't like to guess.	Ich rate nicht gerne.	मुझे सलाह देना पसंद नहीं है।
-I don't like to laugh.	Ich lache nicht gerne.	मुझे हंसना पसंद नहीं है।
-I don't like you, Tom.	Ich mag dich nicht, Tom.	मैं तुम्हें पसंद नहीं करता, टॉम।
 I don't like your dad.	Ich mag deinen Vater nicht.	मुझे आपके पिता पसंद नहीं हैं।
 I don't like your dog.	Ich mag deinen Hund nicht.	मुझे आपका कुत्ता पसंद नहीं है।
 I don't like your dog.	Ich mag euren Hund nicht.	मुझे आपका कुत्ता पसंद नहीं है।

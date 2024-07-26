@@ -37312,3 +37312,11 @@ I don't like studying.	Ich mag es nicht zu studieren.	मुझे पढ़ा�
 I don't like swimming.	Ich mag nicht schwimmen.	मुझे तैरना पसंद नहीं है।
 I don't like that one.	Ich mag das nicht.	मुझे वह एक नहीं पसंद।
 I don't like the dark.	Ich mag die Dunkelheit nicht.	मुझे अंधेरा पसंद नहीं है।
+I don't like the heat.	Ich mag die Hitze nicht.	मुझे गर्मी पसंद नहीं है।
+I don't like this hat.	Ich mag diesen Hut nicht.	मुझे यह टोपी पसंद नहीं है।
+I don't like this one.	Ich mag dieses nicht.	मुझे यह एक पसंद नहीं है।
+I don't like to clean.	Ich mag es nicht zu putzen.	मुझे सफाई करना पसंद नहीं है।
+I don't like to drive.	Ich mag es nicht zu fahren.	मुझे गाड़ी चलाना पसंद नहीं है।
+I don't like to guess.	Ich mag es nicht zu raten.	मुझे अनुमान लगाना पसंद नहीं है।
+I don't like to laugh.	Ich mag es nicht zu lachen.	मुझे हंसना पसंद नहीं है।
+I don't like you, Tom.	Ich mag dich nicht, Tom.	मुझे तुम्हें पसंद नहीं है, टॉम।
