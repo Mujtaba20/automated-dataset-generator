@@ -23959,3 +23959,13 @@ Tom said that, too.	Tom sagte das auch.	टॉम ने वह भी कहा
 Tom salted his egg.	Tom salzte sein Ei.	टॉम ने अपने अंडे पर नमक लगाया।
 Tom sang at church.	Tom sang in der Kirche.	टॉम ने स्थानीय चर्च में गाया।
 Tom sang with Mary.	Tom sang mit Mary.	टॉम ने मेरी के साथ गाया।
+Tom sat down again.	Tom setzte sich erneut.	टॉम पुनः बैठा।
+Tom sat next to me.	Tom saß neben mir.	टॉम मेरे पास बैठा।
+Tom sat on a chair.	Tom saß auf einem Stuhl.	टॉम कुर्सी पर बैठा।
+Tom sat on the bed.	Tom saß auf dem Bett.	टॉम बिसतरे पर बैठा।
+Tom saw Mary again.	Tom sah Mary wieder.	टॉम ने मेरी को फिरसे देखा।
+Tom saw Mary on TV.	Tom sah Mary im Fernsehen.	टॉम ने एम को टीवी पर देखा।
+Tom saw Mary today.	Tom sah Mary heute.	टॉम ने आज मेरी को देखा।
+Tom saw a squirrel.	Tom sah ein Eichhörnchen.	टॉम ने एक गिलहरी को देखा।
+Tom saw everything.	Tom sah alles.	टॉमने सब कुछ देखा।
+Tom saw me do that.	Tom sah mich das tun.	टॉमने मुझे ऐसा करते हुए देखा।

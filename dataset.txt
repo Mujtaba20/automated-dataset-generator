@@ -1,14 +1,4 @@
 
-Tom sat down again.	Tom setzte sich wieder hin.	टॉम फिर से बैठ गया।
-Tom sat next to me.	Tom saß neben mir.	टॉम मेरे बगल में बैठ गया।
-Tom sat on a chair.	Tom saß auf einem Stuhl.	टॉम एक कुर्सी पर बैठ गया।
-Tom sat on the bed.	Tom saß auf dem Bett.	टॉम बिस्तर पर बैठ गया।
-Tom saw Mary again.	Tom hat Maria wiedergesehen.	टॉम ने मारिया को फिर से देखा।
-Tom saw Mary on TV.	Tom hat Maria im Fernsehen gesehen.	टॉम ने मारिया को टीवी पर देखा।
-Tom saw Mary today.	Tom hat Mary heute gesehen.	टॉम ने आज मैरी को देखा।
-Tom saw a squirrel.	Tom sah ein Eichhörnchen.	टॉम ने एक गिलहरी देखी।
-Tom saw everything.	Tom hat alles gesehen.	टॉम ने सब कुछ देखा।
-Tom saw me do that.	Tom sah mich das tun.	टॉम ने मुझे देखा।
 Tom saw us do that.	Tom sah uns das machen.	टॉम ने हमें ऐसा करते देखा।
 Tom says he's busy.	Tom sagt, dass er beschäftigt ist.	टॉम का कहना है कि वह व्यस्त हैं।
 Tom says he's fine.	Tom sagt, es geht ihm gut.	टॉम का कहना है कि वह ठीक है।
