@@ -28789,3 +28789,12 @@ Tom honked the horn. - Different Meaning	Tom hupte auf die Hupe.	टॉम न�
 Tom humiliated Mary.	Tom erniedrigte Mary.	टॉम ने मेरी का अपमान किया।
 Tom hung up on Mary.	Tom legte bei Mary auf.	टॉम ने मेरी को काट दिया।
 Tom injured himself.	Tom verletzte sich.	टॉम ने अपने आप को चोट पहुँचाई।
+Tom is 30 years old.	Tom ist 30 Jahre alt.	टॉम 30 साल का है।
+Tom is Mary's uncle.	Tom ist der Onkel von Mary.	टॉम मेरी के चाचा है।
+Tom is OK, isn't he?	Tom ist in Ordnung, oder?	टॉम ठीक है, ना?
+Tom is a backpacker.	Tom ist ein Rucksacktourist.	टॉम एक बैकपैकर है।
+Tom is a bad driver.	Tom ist ein schlechter Fahrer.	टॉम एक बुरा चालक है।
+Tom is a bad person.	Tom ist eine schlechte Person.	टॉम एक बुरा आदमी है।
+Tom is a big coward.	Tom ist ein großer Feigling.	टॉम एक बड़ा कायर है।
+Tom is a big tipper.	Tom ist ein großzügiger Trinkgeldgeber.	टॉम एक बड़ा टिप देने वाला है।
+Tom is a biochemist.	Tom ist ein Biochemiker.	टॉम एक जैव रसायनज्ञ है।

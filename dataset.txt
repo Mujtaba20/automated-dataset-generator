@@ -1,14 +1,4 @@
 
-Tom is 30 years old.	Tom ist 30 Jahre alt.	टॉम 30 साल का है।
-Tom is Mary's uncle.	Tom ist der Onkel von Mary.	टॉम मैरी के चाचा हैं।
-Tom is OK, isn't he?	Tom ist in Ordnung, oder?	टॉम ठीक है, है ना?
-Tom is a backpacker.	Tom unternimmt Rucksackreisen.	टॉम ने बैकपैक यात्रा की।
-Tom is a bad driver.	Tom ist ein schlechter Fahrer.	टॉम एक बुरा ड्राइवर है।
-Tom is a bad driver.	Tom ist ein schlechter Autofahrer.	टॉम एक बुरा ड्राइवर है।
-Tom is a bad person.	Tom ist ein schlechter Mensch.	टॉम एक बुरा इंसान है।
-Tom is a big coward.	Tom ist ein großer Feigling.	टॉम एक बड़ा कायर है।
-Tom is a big tipper.	Tom gibt immer viel Trinkgeld.	टॉम हमेशा टिप्स।
-Tom is a biochemist.	Tom ist Biochemiker.	टॉम एक बायोकेमिस्ट है।
 Tom is a bus driver.	Tom ist Busfahrer.	टॉम एक बस चालक है।
 Tom is a chatterbox.	Tom ist eine Labertasche.	टॉम एक लॉबेट है।
 Tom is a clever boy.	Tom ist ein kluger Junge.	टॉम एक चतुर लड़का है।
