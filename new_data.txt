@@ -31156,3 +31156,12 @@ He ridiculed my idea.	Er verspottete meine Idee.	उसने मेरी व�
 He saw a pretty girl.	Er sah ein hübsches Mädchen.	उसने एक सुंदर लड़की को देखा।
 He says he will come.	Er sagt, er wird kommen.	वह कहता है कि वह आएगा।
 He screamed for help.	Er schrie um Hilfe.	उसने मदद के लिए चिल्लाया।
+He seems quite happy.	Er scheint ziemlich glücklich zu sein.	वह काफी खुश लग रहा है।
+He seems to be lying.	Er scheint zu lügen.	वह झूठ बोल रहा है।
+He seldom gets angry.	Er wird selten wütend.	वह बहुत कम गुस्सा करता है।
+He sent for a doctor.	Er schickte nach einem Arzt.	उसने एक डॉक्टर को भेजा।
+He sent me a present.	Er schickte mir ein Geschenk.	उसने मुझे एक उपहार भेजा।
+He showed me the way.	Er zeigte mir den Weg.	उसने मुझे रास्ता दिखाया।
+He sketched an apple.	Er skizzierte einen Apfel.	उसने एक सेब का ड्राइंग बनाया।
+He slipped me a note.	Er steckte mir einen Zettel zu.	उसने मुझे एक नोट दिया।
+He spoke very loudly.	Er sprach sehr laut.	वह बहुत जोर से बोला।
