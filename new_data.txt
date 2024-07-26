@@ -27377,3 +27377,11 @@ It was unbelievable.	Es war unglaublich.	यह अविश्वसनीय �
 It was unpardonable.	Es war unverzeihlich.	यह क्षमानीय नहीं था।
 It was very helpful.	Es war sehr hilfreich.	यह बहुत ही उपयोगी था।
 It was very strange.	Es war sehr seltsam.	यह बहुत ही अजीब था।
+It was worth a shot.	Es war ein Versuch wert.	यह एक कोशिश व्यर्थ थी।
+It wasn't a mistake.	Es war kein Fehler.	यह गलती नहीं थी।
+It wasn't expensive.	Es war nicht teuer.	यह महंगा नहीं था।
+It wasn't important.	Es war nicht wichtig.	यह महत्वपूर्ण नहीं था।
+It wasn't real love.	Es war keine echte Liebe.	यह असली प्यार नहीं था।
+It wasn't that hard.	Es war nicht so schwer.	यह इतना कठिन नहीं था।
+It wasn't very good.	Es war nicht sehr gut.	यह बहुत अच्छा नहीं था।
+It works every time.	Es funktioniert jedes Mal.	यह हर बार काम करता है।
