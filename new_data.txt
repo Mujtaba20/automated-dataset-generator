@@ -20724,3 +20724,13 @@ He can't handle it.	Er kann es nicht handhaben.	वह इसे संभाल
 He can't sing well.	Er kann nicht gut singen.	वह अच्छे से नहीं गा सकता।
 He can't stay long.	Er kann nicht lange bleiben.	वह लंबे समय तक रह नहीं सकता।
 He cannot be saved.	Er kann nicht gerettet werden.	उसे बचाया नहीं जा सकता।
+He cannot stop her.	Er kann sie nicht aufhalten.	वह उसे रोक नहीं सकता।
+He cannot stop him.	Er kann ihn nicht aufhalten.	वह उसे रोक नहीं सकता।
+He changed his job.	Er hat seinen Job gewechselt.	उसने अपना काम बदल लिया।
+He closed his eyes.	Er schloss die Augen.	उसने अपनी आंखें बंद की।
+He closed the door.	Er schloss die Tür.	उसने दरवाजा बंद किया।
+He cried and cried.	Er weinte und weinte.	वह रोता रहा।
+He decided on that.	Er hat sich dafür entschieden.	उसने इस पर निर्णय लिया।
+He did a cartwheel.	Er machte ein Rad.	उसने एक कार्टव्हील किया।
+He did a great job.	Er hat einen tollen Job gemacht.	उसने बहुत अच्छा काम किया।
+He does not listen.	Er hört nicht zu.	वह सुनता नहीं है।
