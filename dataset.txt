@@ -1,14 +1,4 @@
 
-Tom and I are friends.	Tom und ich sind Freunde.	टॉम और मैं दोस्त हैं।
-Tom and I got married.	Tom und ich haben geheiratet.	टॉम और मैंने शादी कर ली।
-Tom and Mary are gone.	Tom und Maria sind weg.	टॉम और मारिया चले गए हैं।
-Tom and Mary are here.	Tom und Maria sind hier.	टॉम और मारिया यहाँ हैं।
-Tom and Mary are late.	Tom und Maria verspäten sich.	टॉम और मारिया देर से हैं।
-Tom and Mary are rich.	Tom und Maria sind reich.	टॉम और मारिया अमीर हैं।
-Tom and Mary are safe.	Tom und Maria sind in Sicherheit.	टॉम और मारिया सुरक्षित हैं।
-Tom and Mary are sick.	Tom und Maria sind krank.	टॉम और मारिया बीमार हैं।
-Tom and Mary broke up.	Tom und Maria haben sich getrennt.	टॉम और मारिया टूट गए।
-Tom and Mary saw John.	Tom und Maria sahen John.	टॉम और मारिया ने जॉन को देखा।
 Tom appeared confused.	Tom schien verwirrt zu sein.	टॉम भ्रमित लग रहा था।
 Tom appeared suddenly.	Tom tauchte plötzlich auf.	टॉम अचानक दिखाई दिया।
 Tom appears convinced.	Tom scheint überzeugt zu sein.	टॉम को आश्वस्त लगता है।

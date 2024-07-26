@@ -39823,3 +39823,13 @@ Tom always helps Mary.	Tom hilft immer Maria.	टॉम हमेशा मे�
 Tom always talks fast.	Tom spricht immer schnell.	टॉम हमेशा जल्दी बोलता है।
 Tom always works hard.	Tom arbeitet immer hart.	टॉम हमेशा मेहनती है।
 Tom and I are cousins.	Tom und ich sind Cousins.	टॉम और मैं भाई बहन के बच्चे हैं।
+Tom and I are friends.	Tom und ich sind Freunde.	टॉम और मैं दोस्त हैं।
+Tom and I got married.	Tom und ich haben geheiratet.	टॉम और मैं शादी कर ली है।
+Tom and Mary are gone.	Tom und Mary sind weg.	टॉम और मेरी गए हुए हैं।
+Tom and Mary are here.	Tom und Mary sind hier.	टॉम और मेरी यहाँ हैं।
+Tom and Mary are late.	Tom und Mary sind spät dran.	टॉम और मेरी देर से आ रहे हैं।
+Tom and Mary are rich.	Tom und Mary sind reich.	टॉम और मेरी धनवान हैं।
+Tom and Mary are safe.	Tom und Mary sind sicher.	टॉम और मेरी सुरक्षित हैं।
+Tom and Mary are sick.	Tom und Mary sind krank.	टॉम और मेरी बीमार हैं।
+Tom and Mary broke up.	Tom und Mary haben sich getrennt.	टॉम और मेरी अलग हो गए।
+Tom and Mary saw John.	Tom und Mary haben John gesehen.	टॉम और मेरी ने जॉन को देखा।
