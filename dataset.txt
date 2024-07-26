@@ -1,16 +1,4 @@
 
-Did Tom arrive on time?	War Tom pünktlich da?	क्या टॉम वहाँ समय पर था?
-Did Tom ask us to wait?	Hat Tom uns gebeten zu warten?	क्या टॉम ने हमें इंतजार करने के लिए कहा?
-Did Tom buy your story?	Hat Tom Ihnen die Geschichte abgenommen?	क्या टॉम ने आपको कहानी से राहत दी है?
-Did Tom buy your story?	Hat Tom euch die Geschichte abgenommen?	क्या टॉम ने आपको कहानी से राहत दी है?
-Did Tom buy your story?	Hat Tom dir die Geschichte abgenommen?	क्या टॉम ने आपको कहानी से राहत दी है?
-Did Tom do this to you?	Hat Tom Ihnen das angetan?	क्या टॉम ने आपके साथ ऐसा किया?
-Did Tom do this to you?	Hat Tom euch das angetan?	क्या आप ऐसा करते थे?
-Did Tom do this to you?	Hat Tom dir das angetan?	क्या टॉम ने आपके साथ ऐसा किया?
-Did Tom get my message?	Hat Tom meine Nachricht bekommen?	क्या टॉम को मेरा संदेश मिला?
-Did Tom give it to you?	Hat Tom dir das gegeben?	क्या टॉम ने आपको वह दिया?
-Did Tom give it to you?	Hat Tom Ihnen das gegeben?	क्या टॉम ने आपको वह दिया?
-Did Tom give it to you?	Hat Tom euch das gegeben?	क्या टॉम ने आपको वह दिया?
 Did Tom move to Boston?	Ist Tom nach Boston gezogen?	क्या टॉम बोस्टन चले गए हैं?
 Did Tom really do that?	Hat Tom das wirklich getan?	क्या टॉम ने वास्तव में ऐसा किया?
 Did Tom say who did it?	Hat Tom gesagt, wer das getan hat?	क्या टॉम ने कहा कि किसने किया?
