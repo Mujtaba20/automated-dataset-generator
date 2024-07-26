@@ -1,15 +1,4 @@
 
-I received my bonus.	Ich bekam meinen Bonus.	मुझे मेरा बोनस मिला।
-I recommend caution.	Ich rate zur Vorsicht.	मैं सावधानी बरतने की सलाह देता हूं।
-I recovered quickly.	Ich habe mich schnell erholt.	मैं जल्दी से ठीक हो गया।
-I remember Tom well.	Ich erinnere mich gut an Tom.	मुझे टॉम अच्छी तरह से याद है।
-I remember laughing.	Ich erinnere mich daran, gelacht zu haben.	मुझे याद है कि मैं हँसा था।
-I resumed whistling.	Ich pfiff weiter.	मैंने सीटी बजाई।
-I retired last year.	Ich bin letztes Jahr in Rente gegangen.	मैं पिछले साल सेवानिवृत्त हुआ।
-I revised my theory.	Ich habe meine Theorie überarbeitet.	मैंने अपने सिद्धांत को संशोधित किया।
-I revised my theory.	Ich überarbeitete meine Theorie.	मैंने अपने सिद्धांत को संशोधित किया।
-I revised my theory.	Ich revidierte meine Theorie.	मैंने अपने सिद्धांत को संशोधित किया।
-I revised my theory.	Ich habe meine Theorie revidiert.	मैंने अपने सिद्धांत को संशोधित किया।
 I ruined everything.	Ich habe alles zunichte gemacht.	मैंने सब कुछ नष्ट कर दिया है।
 I said I'd be there.	Ich sagte, ich werde da sein.	मैंने कहा कि मैं वहां रहूंगा।
 I said I'll be fine.	Ich sagte, es wird mir gut gehen.	मैंने कहा कि मैं ठीक हो जाऊंगा।

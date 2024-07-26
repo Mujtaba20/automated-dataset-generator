@@ -26616,3 +26616,11 @@ I really missed you.	Ich habe dich wirklich vermisst.	मुझे तुम्�
 I really need a hug.	Ich brauche wirklich eine Umarmung.	मुझे वास्तव में एक गले की ज़ोर की ज़रूरत है।
 I really need a job.	Ich brauche wirklich einen Job.	मुझे वास्तव में नौकरी की आवश्यकता है।
 I really want to go.	Ich möchte wirklich gehen.	मैं सच में जाना चाहता हूँ।
+I received my bonus.	Ich habe meinen Bonus erhalten.	मुझे मेरा बोनस मिला।
+I recommend caution.	Ich empfehle Vorsicht.	मैं सावधानी सुझाव देता हूँ।
+I recovered quickly.	Ich habe mich schnell erholt.	मैं तेजी से स्वस्थ हो गया।
+I remember Tom well.	Ich erinnere mich gut an Tom.	मैं टॉम को अच्छे से याद करता हूँ।
+I remember laughing.	Ich erinnere mich ans Lachen.	मैं हँसने की याद करता हूँ।
+I resumed whistling.	Ich habe wieder angefangen zu pfeifen.	मैं फिर से सीटी बजाने लगा।
+I retired last year.	Ich bin letztes Jahr in Rente gegangen.	मैं पिछले साल सेवानिवृत्त हुआ।
+I revised my theory.	Ich habe meine Theorie neu überdacht.	मैंने अपना सिद्धांत पुनःसमीक्षा किया।
