@@ -23196,3 +23196,13 @@ This cake is sweet.	Dieser Kuchen ist süß.	यह केक मीठा ह�
 This can't be true.	Das kann nicht wahr sein.	यह सच नहीं हो सकता।
 This is not possible.	Das ist nicht möglich.	यह संभव नहीं है।
 This clock is mine.	Diese Uhr gehört mir.	यह घड़ी मेरी है।
+This coat fits you.	Dieser Mantel passt dir.	यह कोट तुम्हें फिट है।
+This costs nothing.	Das kostet nichts.	यह कुछ नहीं है।
+This dog is shaggy.	Dieser Hund ist struppig.	यह कुत्ता झटपटा है।
+This dog runs fast.	Dieser Hund rennt schnell.	यह कुत्ता तेज़ दौड़ता है।
+This fork is dirty.	Diese Gabel ist schmutzig.	यह काँटा गंदा है।
+This game is fixed.	Dieses Spiel ist manipuliert.	यह खेल फ़िक्स है।
+This house is mine.	Dieses Haus gehört mir.	यह घर मेरा है।
+This is Mary's dog.	Das ist Marias Hund.	यह मेरी कुत्ते की टिड्डी है।
+This is Tom's book.	Das ist Toms Buch.	यह टॉम की किताब है।
+This is Tom's room.	Das ist Toms Zimmer.	यह टॉम का कमरा है।
