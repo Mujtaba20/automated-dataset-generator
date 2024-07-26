@@ -1,14 +1,4 @@
 
-He is an active person.	Er ist eine lebhafte Person.	वह एक जीवंत व्यक्ति है।
-He is an active person.	Er ist ein aktiver Mensch.	वह एक सक्रिय व्यक्ति है।
-He is an office worker.	Er ist ein Büroangestellter.	वह एक कार्यालय कार्यकर्ता है।
-He is being kind today.	Er ist heute freundlich.	वह आज दोस्ताना है।
-He is blind in one eye.	Er ist auf einem Auge blind.	वह एक आंख में अंधा है।
-He is bound to succeed.	Er muss einfach erfolgreich sein.	उसे सिर्फ सफल होना है।
-He is crazy about jazz.	Er ist verrückt nach Jazz.	वह जैज़ के पागल है।
-He is far from perfect.	Er ist bei Weitem nicht perfekt.	यह एकदम सही है।
-He is far from perfect.	Er ist alles andere als perfekt.	यह कुछ भी है लेकिन एकदम सही है।
-He is fond of swimming.	Er schwimmt gerne.	उसे तैरना अच्छा लगता है।
 He is good at baseball.	Er spielt sehr gut Baseball.	वह बेसबॉल बहुत अच्छी तरह से खेलता है।
 He is good at baseball.	Er kann sehr gut Baseball spielen.	वह बेसबॉल बहुत अच्छी तरह से खेल सकता है।
 He is good at football.	Er spielt gut Fußball.	वह अच्छी तरह से फुटबॉल खेलता है।
