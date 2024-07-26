@@ -32617,3 +32617,12 @@ I'm trying very hard.	Ich gebe mein Bestes.	मैं बहुत मेहन�
 I'm under quarantine.	Ich bin in Quarantäne.	मैं क्वारंटीन में हूँ।
 I'm unnecessary here.	Ich bin hier überflüssig.	मुझे यहाँ अनावश्यक माना जा रहा है।
 I'm very embarrassed.	Ich bin sehr peinlich berührt.	मैं बहुत शर्मिंदा हूँ।
+I'm very fond of you.	Ich mag dich sehr gerne.	मुझे तुम्हारी बहुत पसंद है।
+I'm very proud of it.	Ich bin sehr stolz darauf.	मैं इस पर गर्व करता हूं।
+I'm very, very happy.	Ich bin sehr, sehr glücklich.	मैं बहुत, बहुत खुश हूं।
+I'm walking with her.	Ich gehe mit ihr.	मैं उसके साथ चल रहा हूँ।
+I'm writing a letter.	Ich schreibe einen Brief.	मैं एक पत्र लिख रहा हूँ।
+I'm writing about us.	Ich schreibe über uns.	मैं हमारे बारे में लिख रहा हूँ।
+I'm younger than Tom.	Ich bin jünger als Tom.	मैं टॉम से छोटा हूँ।
+I'm your best friend.	Ich bin dein bester Freund.	मैं तुम्हारा सबसे अच्छा दोस्त हूँ।
+I've already said no.	Ich habe schon nein gesagt.	मैंने पहले ही कह दिया है।
