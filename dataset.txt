@@ -1,14 +1,4 @@
 
-My dad's name is Tom.	Mein Vater heißt Tom.	मेरे पिता को टॉम कहा जाता है।
-My decision is final.	Meine Entscheidung ist endgültig.	मेरा निर्णय अंतिम है।
-My dog bit Tom's leg.	Mein Hund hat Tom ins Bein gebissen.	मेरे कुत्ते ने टॉम को पैर में काट लिया।
-My dog is not so big.	Mein Hund ist nicht so groß.	मेरा कुत्ता इतना बड़ा नहीं है।
-My elbow still hurts.	Mein Ellbogen tut immer noch weh.	मेरी कोहनी अभी भी दर्द करती है।
-My eyes are watering.	Mir tränen die Augen.	मेरी आँखें मुझे फाड़ देती हैं।
-My family is wealthy.	Meine Familie ist wohlhabend.	मेरा परिवार अमीर है।
-My family isn't rich.	Meine Familie ist nicht reich.	मेरा परिवार अमीर नहीं है।
-My family lives here.	Meine Familie lebt hier.	मेरा परिवार यहाँ रहता है।
-My family's not rich.	Meine Familie ist nicht reich.	मेरा परिवार अमीर नहीं है।
 My father became old.	Mein Vater wurde alt.	मेरे पिता बूढ़े हो गए।
 My father is at home.	Mein Vater ist zu Hause.	मेरे पिता घर पर हैं।
 My father isn't home.	Mein Vater ist nicht zu Hause.	मेरे पिता घर पर नहीं हैं।

@@ -33098,3 +33098,13 @@ My camera is a Nikon.	Meine Kamera ist eine Nikon.	मेरा कैमरा 
 My car is over there.	Mein Auto ist da drüben.	मेरी गाड़ी वहाँ है।
 My car's in the shop.	Mein Auto ist in der Werkstatt.	मेरी कार दुकान में है।
 My children are sick.	Meine Kinder sind krank.	मेरे बच्चे बीमार हैं।
+My dad's name is Tom.	Der Name meines Vaters ist Tom.	मेरे पिताजी का नाम टॉम है।
+My decision is final.	Meine Entscheidung ist endgültig.	मेरा निर्णय अंतिम है।
+My dog bit Tom's leg.	Mein Hund hat Toms Bein gebissen.	मेरा कुत्ता टॉम की टांग काट लिया।
+My dog is not so big.	Mein Hund ist nicht so groß.	मेरा कुत्ता इतना बड़ा नहीं है।
+My elbow still hurts.	Mein Ellenbogen tut immer noch weh.	मेरा कोहनी अब भी दर्द कर रहा है।
+My eyes are watering.	Meine Augen tränen.	मेरी आंखें पानी बहा रही हैं।
+My family is wealthy.	Meine Familie ist wohlhabend.	मेरा परिवार धनवान है।
+My family isn't rich.	Meine Familie ist nicht reich.	मेरा परिवार धनवान नहीं है।
+My family lives here.	Meine Familie lebt hier.	मेरा परिवार यहाँ रहता है।
+My family's not rich.	Meine Familie ist nicht reich.	मेरा परिवार धनवान नहीं है।
