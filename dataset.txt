@@ -1,14 +1,4 @@
 
-I think this is yours.	Ich denke, das gehört dir.	मुझे लगता है कि यह तुम्हारा है।
-I think we can manage.	Ich denke, wir kommen schon klar.	मुझे लगता है कि हम साथ मिलेंगे।
-I think we have to go.	Ich finde, wir müssen gehen.	मुझे लगता है कि हमें जाना है।
-I think we need those.	Ich glaube, wir brauchen die da.	मुझे लगता है कि हमें उनकी जरूरत है।
-I think we'll be fine.	Ich denke, es wird uns gut gehen.	मुझे लगता है कि हम ठीक हो जाएंगे।
-I think you know that.	Ich denke, das weißt du.	मुझे लगता है कि आप जानते हैं।
-I think you look fine.	Ich denke, du siehst gut aus.	मुझे लगता है कि आप अच्छे लग रहे हैं।
-I think you'd like it.	Ich denke, du würdest es mögen.	मुझे लगता है कि आप इसे पसंद करेंगे।
-I think you're a liar.	Ich glaube, du bist ein Lügner.	मुझे लगता है कि आप झूठे हैं।
-I think you're a liar.	Ich glaube, du bist eine Lügnerin.	मुझे लगता है कि आप झूठे हैं।
 I think you're boring.	Ich finde dich langweilig.	मैं तुम्हें उबाऊ लगता है।
 I think you're pretty.	Ich finde dich hübsch.	मुझे लगता है तुम सुंदर हो।
 I think you're stupid.	Ich denke, dass du dumm bist.	मुझे लगता है कि आप मूर्ख हैं।
