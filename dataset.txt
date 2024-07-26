@@ -1,14 +1,4 @@
 
-Tom is in need of help.	Tom braucht Hilfe.	टॉम को मदद की जरूरत है।
-Tom is in real trouble.	Tom steckt in der Patsche.	टॉम मुसीबत में है।
-Tom is in the bathroom.	Tom ist im Badezimmer.	टॉम बाथरूम में है।
-Tom is in the bathroom.	Tom ist im Bad.	टॉम बाथरूम में है।
-Tom is in the building.	Tom ist im Gebäude.	टॉम इमारत में है।
-Tom is in the building.	Tom ist in dem Gebäude.	टॉम इमारत में है।
-Tom is in the hospital.	Tom ist im Krankenhaus.	टॉम अस्पताल में है।
-Tom is incredibly good.	Tom ist unglaublich gut.	टॉम अविश्वसनीय रूप से अच्छा है।
-Tom is incredibly lazy.	Tom ist unglaublich faul.	टॉम अविश्वसनीय रूप से आलसी है।
-Tom is just an amateur.	Tom ist bloß ein Amateur.	टॉम सिर्फ एक शौकिया है।
 Tom is just plain lazy.	Tom ist einfach nur faul.	टॉम सिर्फ आलसी है।
 Tom is just pretending.	Tom tut nur so, als ob.	टॉम सिर्फ दिखावा करता है।
 Tom is kind of strange.	Tom ist ziemlich seltsam.	टॉम बहुत अजीब है।
