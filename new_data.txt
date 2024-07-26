@@ -38627,3 +38627,13 @@ It's expensive though.	Es ist jedoch teuer.	परंतु यह महंग�
 It's from your family.	Es ist von deiner Familie.	यह तुम्हारे परिवार से है।
 It's going to be fine.	Es wird in Ordnung sein.	सब ठीक होने वाला है।
 It's going to be good.	Es wird gut sein.	यह अच्छा होगा।
+It's great to be here.	Es ist großartig, hier zu sein.	यहाँ होना बहुत अच्छा है।
+It's great to see you.	Es ist toll, dich zu sehen.	तुम्हें देखकर ख़ुशी हुई।
+It's hard to describe.	Es ist schwer zu beschreiben.	इसे वर्णित करना मुश्किल है।
+It's hot in this room.	Es ist heiß in diesem Raum.	इस कमरे में गरमी है।
+It's important to Tom.	Es ist wichtig für Tom.	टॉम के लिए महत्वपूर्ण है।
+It's insanely complex.	Es ist wahnsinnig komplex.	यह बहुत जटिल है।
+It's just a formality.	Es ist nur eine Formalität.	यह सिर्फ़ एक रीति-रिवाज है।
+It's just so exciting.	Es ist einfach so aufregend.	यह बस इतना उत्तेजक है।
+It's just that simple.	Es ist einfach so einfach.	यह बस इतना ही सरल है।
+It's midnight already.	Es ist schon Mitternacht.	अब रात के 12 बज गए हैं।
