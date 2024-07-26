@@ -1,14 +1,4 @@
 
-That's my CD, isn't it?	Das ist meine CD, nicht wahr?	यह मेरी सीडी है, है ना?
-That's my CD, isn't it?	Das ist doch meine CD, oder?	यह मेरी सीडी है, है ना?
-That's my final answer.	Das ist mein letztes Wort.	यह मेरा आखिरी शब्द है।
-That's my sole concern.	Das ist meine einzige Sorge.	यह मेरी एकमात्र चिंता है।
-That's no exaggeration.	Das ist keine Übertreibung.	यह कोई बढ़ा - चढ़ा कर कही जा रही बात नहीं है।
-That's not Tom's fault.	Das ist nicht Toms Schuld.	यह टॉम की गलती नहीं है।
-That's not a bad thing.	Das ist nichts Schlechtes.	यह कोई बुरी बात नहीं है।
-That's not a good idea.	Das ist keine gute Idee.	यह एक अच्छा विचार नहीं है।
-That's not a good sign.	Das ist kein gutes Zeichen.	यह एक अच्छा संकेत नहीं है।
-That's not a real word.	Das Wort gibt es gar nicht.	शब्द मौजूद नहीं है।
 That's not good enough.	Das ist nicht gut genug.	यह बहुत अच्छा नहीं है।
 That's not interesting.	Das ist uninteressant.	यह दिलचस्प नहीं है।
 That's not interesting.	Das ist nicht interessant.	यह दिलचस्प नहीं है।
