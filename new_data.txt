@@ -32324,3 +32324,9 @@ I'd like some coffee.	Ich hätte gerne etwas Kaffee.	मुझे थोड़�
 I'd like to be alone.	Ich wäre gerne allein.	मैं अकेला होना चाहूंगा।
 I'd like to help you.	Ich würde gerne helfen.	मैं आपकी मदद करना चाहूंगा।
 I'd like to assist you.	Ich würde gerne unterstützen.	मैं आपकी सहायता करना चाहूंगा।
+I'd like to kiss you.	Ich würde gerne mit dir küssen.	मुझे आपको चुमना पसंद है।
+I'd like to know why.	Ich würde gerne wissen, warum.	मुझे यह जानना है कि क्यों।
+I'd like to lie down.	Ich würde gerne liegen.	मैं सोना चाहूंगा।
+I'd like to meet you.	Ich würde dich gerne treffen.	मझे आपसे मिलना है।
+I'd like to see that.	Ich würde das gerne sehen.	मुझे वह देखना है।
+I'd like to watch TV.	Ich würde gerne fernsehen.	मैं टीवी देखना पसंद करूंगा।

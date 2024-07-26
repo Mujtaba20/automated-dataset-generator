@@ -1,15 +1,4 @@
 
-I'd like to kiss you.	Ich würde dich gerne küssen.	मैं तुम्हें चूमने के लिए चाहते हैं।
-I'd like to kiss you.	Ich würde euch gerne küssen.	मैं तुम्हें चूमना चाहूंगा।
-I'd like to kiss you.	Ich würde Sie gerne küssen.	मैं उसे चूमना चाहूंगा।
-I'd like to know why.	Ich würde gerne wissen warum.	मुझे जानना है क्यों।
-I'd like to lie down.	Ich möchte mich gerne hinlegen.	मैं लेटना चाहूंगा।
-I'd like to meet you.	Ich möchte mich gerne mit dir treffen.	मैं तुम से मिलना चाहता था।
-I'd like to meet you.	Ich möchte mich gerne mit Ihnen treffen.	मैं तुम से मिलना चाहता था।
-I'd like to see that.	Das würde ich gerne sehen.	मैं यह देखना पसंद करूँगा।
-I'd like to watch TV.	Ich würde gerne fernsehen.	मैं टीवी देखना चाहूंगा।
-I'd like to watch TV.	Ich würde gern Fernsehen gucken.	मैं टीवी देखना चाहूंगा।
-I'd like to watch TV.	Ich würde gern Fernsehen schauen.	मैं टीवी देखना चाहूंगा।
 I'd like you to stop.	Ich möchte, dass du aufhörst.	मैं चाहता हूं कि आप रुकें।
 I'd like you to stop.	Ich möchte, dass ihr aufhört.	मैं चाहता हूं कि आप रुकें।
 I'd like you to stop.	Ich möchte, dass Sie aufhören.	मैं चाहता हूं कि आप रुकें।
