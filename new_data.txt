@@ -30072,3 +30072,12 @@ Why is Tom standing?	Warum steht Tom?	टॉम क्यों खड़ा ह
 Why is math so hard?	Warum ist Mathe so schwer?	गणित इतना कठिन क्यों है?
 Why is the dog here?	Warum ist der Hund hier?	कुत्ता यहां क्यों है?
 Why is the sky blue?	Warum ist der Himmel blau?	आकाश नीला क्यों है?
+Why is this allowed?	Warum wird dies erlaubt?	यह क्‍यों होता है?
+Why isn't Tom happy?	Warum ist Tom nicht glücklich?	टॉम खुश क्यों नहीं है?
+Why isn't that good?	Warum ist das nicht gut?	वह अच्छा क्यों नहीं है?
+Why not let Tom try?	Warum lassen wir Tom nicht versuchen?	क्यों न सजने दे टॉम को?
+Why should Tom sing?	Warum sollte Tom singen?	टॉम को गा नहीं देना चाहिए?
+Why won't Tom leave?	Warum wird Tom nicht gehen?	टॉम क्यों नहीं जा रहा है?
+Why would I do that?	Warum würde ich das tun?	मैं ऐसा क्यों करूँगा?
+Why would Tom leave?	Warum würde Tom gehen?	टॉम क्यों जाएगा?
+Why's Tom like that?	Warum ist Tom so?	टॉम ऐसा क्यों है?

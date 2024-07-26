@@ -1,14 +1,4 @@
 
-Why is this allowed?	Wieso ist das erlaubt?	इसकी अनुमति क्यों है?
-Why is this allowed?	Warum ist das erlaubt?	इसकी अनुमति क्यों है?
-Why isn't Tom happy?	Warum ist Tom nicht glücklich?	टॉम क्यों खुश नहीं है?
-Why isn't that good?	Warum ist das nicht gut?	यह अच्छा क्यों नहीं है?
-Why not let Tom try?	Warum lässt du es Tom nicht mal versuchen?	आप भी टॉम की कोशिश क्यों नहीं करते?
-Why should Tom sing?	Warum sollte Tom singen?	टॉम को क्यों गाना चाहिए?
-Why won't Tom leave?	Warum geht Tom nicht?	टॉम काम क्यों नहीं करता है?
-Why would I do that?	Warum sollte ich das tun?	मुझे ऐसा क्यों करना चाहिए?
-Why would Tom leave?	Warum sollte Tom gehen?	टॉम क्यों जाना चाहिए?
-Why's Tom like that?	Warum ist Tom so?	टॉम ऐसा क्यों है?
 Will Tom go with us?	Begleitet Tom uns?	टॉम हमारे साथ है?
 Will Tom go with us?	Wird Tom uns begleiten?	क्या टॉम हमारे साथ जाएगा?
 Will Tom leave soon?	Wird Tom bald gehen?	क्या टॉम जल्द ही जाएगा?
