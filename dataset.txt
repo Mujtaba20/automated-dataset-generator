@@ -1,15 +1,4 @@
 
-I know next to nothing.	Ich weiß fast nichts.	मैं लगभग कुछ भी नहीं जानता।
-I know she is sleeping.	Ich weiß, dass sie schläft.	मुझे पता है कि वह सोती है।
-I know that I did that.	Ich weiß, dass ich das getan habe.	मुझे पता है कि मैंने ऐसा किया।
-I know that I did that.	Ich weiß, dass ich das gemacht habe.	मुझे पता है कि मैंने ऐसा किया।
-I know that Tom is out.	Ich weiß, dass Tom nicht da ist.	मुझे पता है कि टॉम नहीं है।
-I know that it's there.	Ich weiß, dass es dort ist.	मुझे पता है कि यह वहाँ है।
-I know that it's there.	Ich weiß, dass es da ist.	मुझे पता है कि यह वहाँ है।
-I know that's not true.	Ich weiß, dass das nicht stimmt.	मुझे पता है कि यह सच नहीं है।
-I know the whole story.	Ich kenne die ganze Geschichte.	मैं पूरी कहानी जानता हूं।
-I know this isn't easy.	Ich weiß, dass das nicht leicht ist.	मुझे पता है कि यह आसान नहीं है।
-I know this isn't easy.	Ich weiß, dass das nicht einfach ist.	मुझे पता है कि यह आसान नहीं है।
 I know what I would do.	Ich weiß, was ich tun würde.	मुझे पता है कि मैं क्या करूंगा।
 I know what I'm saying.	Ich weiß, was ich sage.	मुझे पता है कि मैं क्या कह रहा हूं।
 I know what Tom can do.	Ich weiß, was Tom kann.	मुझे पता है कि टॉम क्या कर सकता है।
