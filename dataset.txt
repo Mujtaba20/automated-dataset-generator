@@ -1,14 +1,4 @@
 
-Tom is wearing makeup.	Tom trägt Make-up.	टॉम मेकअप पहनता है।
-Tom is wearing makeup.	Tom hat sich geschminkt.	टॉम ने बनाया।
-Tom is wise, isn't he?	Tom ist weise, nicht wahr?	टॉम बुद्धिमान है, है ना?
-Tom is writing a book.	Tom schreibt ein Buch.	टॉम एक किताब लिखते हैं।
-Tom is wrong as usual.	Tom liegt wie immer falsch.	हमेशा की तरह, टॉम गलत है।
-Tom is young at heart.	Tom ist im Herzen jung.	टॉम दिल में युवा है।
-Tom isn't John's twin.	Tom ist nicht Johannes’ Zwillingsbruder.	टॉम जोहान्स का जुड़वां भाई नहीं है।
-Tom isn't Mary's type.	Tom ist nicht Marias Typ.	टॉम मैरी नहीं है।
-Tom isn't a good cook.	Tom ist kein guter Koch.	टॉम एक अच्छा कुक नहीं है।
-Tom isn't a good cook.	Tom kocht nicht gut.	टॉम अच्छी तरह से खाना नहीं बनाता है।
 Tom isn't a good liar.	Tom ist kein guter Lügner.	टॉम एक अच्छा झूठा नहीं है।
 Tom isn't a happy man.	Tom ist kein glücklicher Mann.	टॉम एक खुश आदमी नहीं है।
 Tom isn't a physician.	Tom ist kein Arzt.	टॉम डॉक्टर नहीं है।

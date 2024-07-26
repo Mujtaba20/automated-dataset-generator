@@ -40418,3 +40418,11 @@ Tom is washing dishes.	Tom spült Geschirr.	टॉम बर्तन धो र
 Tom is wearing a mask.	Tom trägt eine Maske.	टॉम मास्क पहन रहे हैं।
 Tom is wearing gloves.	Tom trägt Handschuhe.	टॉम दस्ताने पहन रहे हैं।
 Tom is wearing a hat.	Tom trägt einen Hut.	टॉम एक टोपी पहन रहे हैं।
+Tom is wearing makeup.	Tom schminkt sich.	टॉम मेकअप कर रहा है।
+Tom is wise, isn't he?	Tom ist klug, oder?	टॉम बुद्धिमान है, ना?
+Tom is writing a book.	Tom schreibt ein Buch.	टॉम एक किताब लिख रहा है।
+Tom is wrong as usual.	Tom liegt wie immer falsch.	टॉम जैसा हर बार गलत है।
+Tom is young at heart.	Tom ist jung geblieben.	टॉम दिल से जवान है।
+Tom isn't John's twin.	Tom ist nicht der Zwilling von John.	टॉम जॉन का जुड़वा नहीं है।
+Tom isn't Mary's type.	Tom ist nicht Marys Typ.	टॉम मेयरी का प्रकार नहीं है।
+Tom isn't a good cook.	Tom ist kein guter Koch.	टॉम अच्छे पकाने वाला नहीं है।
