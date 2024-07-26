@@ -38003,3 +38003,13 @@ I was in the hospital.	Ich war im Krankenhaus.	मैं अस्पताल �
 I was just devastated.	Ich war einfach niedergeschlagen.	मैं बस तबाह हो गया था।
 I was looking for Tom.	Ich suchte nach Tom.	मैं टॉम की तलाश में था।
 I was looking for you.	Ich suchte nach dir.	मैं तुम्हें ढूंढ रहा था।
+I was not a bit tired.	Ich war kein bisschen müde.	मैं थोड़ी भी थका नहीं था।
+I was out celebrating.	Ich war draußen feiern.	मैं बाहर जश्न मना रहा था।
+I was proud of myself.	Ich war stolz auf mich.	मैं खुद पर गर्वित था।
+I was quite surprised.	Ich war ziemlich überrascht.	मैं काफी चौंका हुआ था।
+I was right about Tom.	Ich hatte Recht mit Tom.	मैं टॉम के बारे में सही था।
+I was so disappointed.	Ich war so enttäuscht.	मैं इतना निराश था।
+I was so unhappy then.	Ich war damals so unglücklich.	मैं तब इतना खुश नहीं था।
+I was there yesterday.	Ich war gestern dort.	मैं वहाँ कल था।
+I was totally shocked.	Ich war total schockiert.	मैं पूरी तरह से चौंका देने वाला था।
+I was truly perplexed.	Ich war wirklich verwirrt.	मैं सचमुच हैरान था।
