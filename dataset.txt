@@ -1,15 +1,4 @@
 
-I like to buy clothes.	Ich kaufe gerne Kleidung.	मुझे कपड़े खरीदना पसंद है।
-I like to catch flies.	Ich fange gerne Fliegen.	मुझे उड़ान शुरू करना पसंद है।
-I like to dye my hair.	Ich färbe mir gerne das Haar.	मुझे अपने बाल डाई करना पसंद है।
-I like to peel apples.	Ich schäle gerne Äpfel.	मुझे सेब छीलना पसंद है।
-I like to play soccer.	Ich spiele gern Fußball.	मैं फुटबॉल खेलना पसंद करता हुँ।
-I like to play soccer.	Ich spiele gerne Fußball.	मैं फुटबॉल खेलना पसंद करता हूं।
-I like to play tennis.	Ich spiele gerne Tennis.	मुझे टेनिस खेलना पसंद है।
-I like to watch anime.	Ich sehe mir gerne Animes an.	मुझे एनीमे को देखना पसंद है।
-I like to write poems.	Ich mag Gedichte schreiben.	मैं कविताएँ लिख सकता हूं।
-I like your frankness.	Mir gefällt deine Offenheit.	मुझे आपका खुलापन पसंद है।
-I like your frankness.	Mir gefällt dein Freimut.	मुझे आपकी स्वतंत्रता पसंद है।
 I live in Boston, too.	Ich lebe auch in Boston.	मैं भी बोस्टन में रहता हूं।
 I live in Boston, too.	Ich wohne auch in Boston.	मैं भी बोस्टन में रहता हूं।
 I live in the country.	Ich wohne auf dem Land.	मैं कॉन्ट्रायसाइड में रहता हूं।

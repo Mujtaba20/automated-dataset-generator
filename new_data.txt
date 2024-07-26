@@ -37655,3 +37655,12 @@ I like the theme song.	Ich mag das Titellied.	मुझे इस थीम ग�
 I like their pictures.	Mir gefallen ihre Bilder.	मुझे उनकी तस्वीरें पसंद हैं।
 I like this book best.	Ich mag dieses Buch am besten.	मुझे यह किताब सबसे अच्छी लगती है।
 I like this love song.	Ich mag dieses Liebeslied.	मुझे यह प्यार भरा गाना पसंद है।
+I like to buy clothes.	Ich kaufe gerne Kleidung.	मुझे कपड़े खरीदना पसंद है।
+I like to catch flies.	Ich fange gerne Fliegen.	मुझे मक्खियाँ पकड़ना पसंद है।
+I like to dye my hair.	Ich färbe gerne meine Haare.	मुझे अपने बालों को रंगना पसंद है।
+I like to peel apples.	Ich schäle gerne Äpfel.	मुझे सेब छीलना पसंद है।
+I like to play soccer.	Ich spiele gerne Fußball.	मुझे फुटबॉल खेलना पसंद है।
+I like to play tennis.	Ich spiele gerne Tennis.	मुझे टेनिस खेलना पसंद है।
+I like to watch anime.	Ich sehe gerne Anime.	मुझे ऐनिमे देखना पसंद है।
+I like to write poems.	Ich schreibe gerne Gedichte.	मुझे कविताएँ लिखना पसंद है।
+I like your frankness.	Ich mag deine Offenheit.	मुझे तुम्हारी सरलता पसंद है।
