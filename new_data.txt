@@ -28847,3 +28847,11 @@ Tom is afraid of me.	Tom hat Angst vor mir.	टॉम मुझसे डरत�
 Tom is almost blind.	Tom ist fast blind.	टॉम लगभग अंधा है।
 Tom is almost broke.	Tom ist fast pleite.	टॉम लगभग दरिद्र है।
 Tom is almost there.	Tom ist fast da.	टॉम लगभग वहाँ पहुँच गया है।
+Tom is already here.	Tom ist bereits hier.	टॉम पहले से यहाँ है।
+Tom is already home.	Tom ist bereits zu Hause.	टॉम पहले से घर पर है।
+Tom is always broke.	Tom ist immer pleite.	टॉम हमेशा दरिद्र है।
+Tom is always drunk.	Tom ist immer betrunken.	टॉम हमेशा नशे में है।
+Tom is always happy.	Tom ist immer glücklich.	टॉम हमेशा खुश है।
+Tom is ambidextrous.	Tom ist beidhändig.	टॉम उभयहाती है।
+Tom is an FBI agent.	Tom ist ein FBI-Agent.	टॉम एफबीआई एजेंट है।
+Tom is an adult now.	Tom ist jetzt erwachsen.	टॉम अब वयस्क है।

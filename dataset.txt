@@ -1,14 +1,4 @@
 
-Tom is already here.	Tom ist schon hier.	टॉम पहले से ही यहाँ है।
-Tom is already home.	Tom ist schon zu Hause.	टॉम पहले से ही घर पर है।
-Tom is already home.	Tom ist bereits zu Hause.	टॉम पहले से ही घर पर है।
-Tom is always broke.	Tom ist immer pleite.	टॉम हमेशा टूट जाता है।
-Tom is always drunk.	Tom ist immer betrunken.	टॉम हमेशा नशे में रहता है।
-Tom is always happy.	Tom ist immer glücklich.	टॉम हमेशा खुश रहता है।
-Tom is always lying.	Tom lügt immer.	टॉम हमेशा झूठ बोलता है।
-Tom is ambidextrous.	Tom ist Beidhänder.	टॉम एक शारीरिक है।
-Tom is an FBI agent.	Tom ist ein FBI-Agent.	टॉम एक एफबीआई एजेंट है।
-Tom is an adult now.	Tom ist jetzt erwachsen.	टॉम अब बड़ा हो गया है।
 Tom is an architect.	Tom ist Architekt.	टॉम एक वास्तुकार है।
 Tom is an extrovert.	Tom ist extrovertiert.	टॉम बहिर्मुखी है।
 Tom is an introvert.	Tom ist introvertiert.	टॉम अंतर्मुखी है।
