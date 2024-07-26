@@ -1,14 +1,4 @@
 
-Keep it simple, Tom.	Mach es nicht schwierig, Tom.	यह मुश्किल मत करो, टॉम।
-Keep me in the loop.	Halte mich auf dem Laufenden.	मुझे तैनात रखें।
-Keep your eyes open.	Halt deine Augen offen.	अपनी आँखें खोलो।
-Keep your eyes open.	Halte die Augen offen.	अपनी आँखें खुली रखो।
-Keep your head down.	Kopf runter.	सिर नीचे।
-Keep your head down.	Halt den Kopf unten.	नीचे सिर पकड़ो।
-Kids can be so mean.	Kinder können so gemein sein.	बच्चे इतने मतलबी हो सकते हैं।
-Kids like ice cream.	Kinder mögen Eis.	बच्चों को आइसक्रीम पसंद है।
-Large fries, please.	Eine große Portion Pommes frites bitte!	फ्रेंच फ्राइज़ का एक बड़ा हिस्सा कृपया!
-Large fries, please.	Eine große Portion Pommes bitte!	फ्राइज़ का एक बड़ा हिस्सा कृपया!
 Lay it on the table.	Stell das auf den Tisch.	मेज पर रखो।
 Lay it on the table.	Leg es auf den Tisch!	इसे मेज़ पर रखें!
 Lay it on the table.	Legen Sie es auf den Tisch!	इसे मेज पर रखें!
