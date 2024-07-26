@@ -1,14 +1,4 @@
 
-Tom isn't good-looking.	Tom sieht nicht gut aus.	टॉम अच्छा नहीं लगता।
-Tom isn't here anymore.	Tom ist nicht mehr hier.	टॉम अब यहां नहीं है।
-Tom isn't ignoring you.	Tom ignoriert dich nicht.	टॉम आपको अनदेखा नहीं करता है।
-Tom isn't ignoring you.	Tom ignoriert Sie nicht.	टॉम उसे अनदेखा नहीं करता है।
-Tom isn't ignoring you.	Tom ignoriert euch nicht.	टॉम आपको अनदेखा नहीं करता।
-Tom isn't in Australia.	Tom ist nicht in Australien.	टॉम ऑस्ट्रेलिया में नहीं है।
-Tom isn't in our group.	Tom ist nicht in unserer Gruppe.	टॉम हमारे समूह में नहीं है।
-Tom isn't in the house.	Tom ist nicht im Haus.	टॉम घर में नहीं है।
-Tom isn't my assistant.	Tom ist nicht mein Assistent.	टॉम मेरे सहायक नहीं हैं।
-Tom isn't my boyfriend.	Tom ist nicht mein Freund.	टॉम मेरा दोस्त नहीं है।
 Tom isn't sleeping now.	Tom schläft gerade nicht.	टॉम अभी सो नहीं रहा है।
 Tom isn't smart at all.	Tom ist kein bisschen smart.	टॉम थोड़ा स्मार्ट नहीं है।
 Tom isn't smart at all.	Tom ist überhaupt nicht schlau.	टॉम बिल्कुल स्मार्ट नहीं है।
