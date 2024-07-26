@@ -1,14 +1,4 @@
 
-How much do you weigh?	Wie viel wiegst du?	आपका वजन कितना है?
-How much do you weigh?	Wie viel wiegen Sie?	आपका वजन कितना है?
-How much do you weigh?	Wie viel wiegt ihr?	आपका वजन कितना है?
-How much does it cost?	Wie viel kostet es?	इसकी कीमत कितनी होती है?
-How much is this ball?	Wie viel kostet der Ball hier?	यहाँ गेंद की लागत कितनी है?
-How much is this ring?	Was kostet dieser Ring?	इस रिंग की लागत क्या है?
-How much is this sofa?	Wie viel kostet dieses Sofa?	इस सोफे की लागत कितनी है?
-How much is this sofa?	Was kostet dieses Sofa?	इस सोफे की लागत क्या है?
-How much should I tip?	Wie viel Trinkgeld sollte ich geben?	मुझे कितनी टिप देनी चाहिए?
-How much time is left?	Wie viel Zeit ist übrig?	कितना समय शेष है?
 How much will it cost?	Wie viel wird das kosten?	इसकी लागत क्या है?
 How old are your kids?	Wie alt sind Ihre Kinder?	आपके बच्चों की उम्र कितनी हैं?
 How old are your kids?	Wie alt sind deine Kinder?	आपके बच्चों की उम्र कितनी हैं?
