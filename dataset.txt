@@ -1,14 +1,4 @@
 
-I think Tom is devious.	Ich denke, Tom ist verschlagen.	मुझे लगता है कि टॉम खत्म हो गया है।
-I think Tom is in love.	Ich glaube, Tom ist verliebt.	मुझे लगता है कि टॉम प्यार में है।
-I think Tom is jealous.	Ich glaube, Tom ist eifersüchtig.	मुझे लगता है कि टॉम ईर्ष्यालु है।
-I think Tom is married.	Ich glaube, Tom ist verheiratet.	मुझे लगता है कि टॉम शादीशुदा है।
-I think Tom isn't home.	Ich denke, Tom ist nicht zu Hause.	मुझे लगता है कि टॉम घर पर नहीं है।
-I think Tom knows Mary.	Ich glaube, Tom kennt Maria.	मुझे लगता है कि टॉम मारिया को जानता है।
-I think Tom knows that.	Ich denke, Tom weiß das.	मुझे लगता है कि टॉम जानता है।
-I think Tom knows that.	Ich glaube, dass Tom das weiß.	मुझे लगता है कि टॉम जानता है कि।
-I think Tom lied to us.	Ich glaube, dass Tom uns belogen hat.	मुझे लगता है कि टॉम ने हमसे झूठ बोला।
-I think Tom likes Mary.	Ich denke, Tom mag Maria.	मुझे लगता है कि टॉम को मारिया पसंद है।
 I think Tom loves Mary.	Ich glaube, Tom liebt Maria.	मुझे लगता है कि टॉम मारिया से प्यार करता है।
 I think Tom made it up.	Ich denke, Tom hat das frei erfunden.	मुझे लगता है कि टॉम ने आविष्कार किया।
 I think Tom misses you.	Ich glaube, Tom vermisst dich.	मुझे लगता है कि टॉम आपको याद करता है।
