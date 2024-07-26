@@ -26120,3 +26120,12 @@ I can't imagine why.	Ich kann nicht erklären, warum.	मैं सोच नह
 I can't move my leg.	Ich kann mein Bein nicht bewegen.	मैं अपनी टांग नहीं हिला सकता।
 I can't play tennis.	Ich kann kein Tennis spielen.	मैं टेनिस नहीं खेल सकता।
 I can't protect you.	Ich kann dich nicht schützen.	मैं तुम्हें नहीं बचा सकता।
+I can't quite agree.	Ich kann nicht ganz zustimmen.	मुझसे सहमत होना मुश्किल है।
+I can't read French.	Ich kann kein Französisch lesen.	मैं फ्रेंच नहीं पढ़ सकता।
+I can't save anyone.	Ich kann niemanden retten.	मैं किसी को बचा नहीं सकता।
+I can't say exactly.	Ich kann nicht genau sagen.	मैं सटीक रूप से नहीं कह सकता।
+I can't see a thing.	Ich kann nichts sehen.	मैं कुछ भी नहीं देख पा रहा हूँ।
+I can't see anybody.	Ich sehe niemanden.	मैं किसी को भी नहीं देख सकता।
+I can't see you now.	Ich kann dich jetzt nicht sehen.	मैं अभी तुम्हें नहीं देख सकता।
+I can't stop crying.	Ich kann nicht aufhören zu weinen.	मैं रोना नहीं रुक सकता।
+I can't swim at all.	Ich kann überhaupt nicht schwimmen.	मैं बिल्कुल तैरने में सक्षम नहीं हूँ।
