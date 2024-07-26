@@ -33141,3 +33141,13 @@ My school has a band.	Meine Schule hat eine Band.	मेरे स्कूल �
 My sister is a moron.	Meine Schwester ist eine Idiotin.	मेरी बहन एक मूर्ख है।
 My sister is a nurse.	Meine Schwester ist eine Krankenschwester.	मेरी बहन एक नर्स है।
 My sister is married.	Meine Schwester ist verheiratet.	मेरी बहन शादीशुदा है।
+My skirt is too long.	Mein Rock ist zu lang.	मेरी स्कर्ट बहुत लंबी है।
+My socks aren't here.	Meine Socken sind nicht hier.	मेरे पैरों की मोजें यहां नहीं हैं।
+My son is not a snob.	Mein Sohn ist kein Angeber.	मेरा बेटा अकड़ी नहीं है।
+My son is too skinny.	Mein Sohn ist zu dünn.	मेरा बेटा बहुत पतला है।
+My son's name is Tom.	Mein Sohn heißt Tom.	मेरे बेटे का नाम टॉम है।
+My study is upstairs.	Mein Arbeitszimmer ist oben.	मेरा पढ़ाई का कमरा ऊपर है।
+My sweater is purple.	Mein Pullover ist lila.	मेरी स्वेटर बैंगनी है।
+My town has a castle.	Meine Stadt hat ein Schloss.	मेरे शहर में एक किला है।
+My watch has stopped.	Meine Uhr ist stehen geblieben.	मेरी घड़ी रुक गई है।
+My watch is accurate.	Meine Uhr geht genau.	मेरी घड़ी सही चल रही है।
