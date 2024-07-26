@@ -33393,3 +33393,13 @@ She sold him her car.	Sie hat ihm ihr Auto verkauft.	उसने उसको �
 She spoke impolitely.	Sie sprach unhöflich.	उसने अशिष्टता से बात की।
 She spoke up for him.	Sie hat sich für ihn eingesetzt.	उसने उसके लिए बोला।
 She stole my clothes!	Sie hat meine Kleidung gestohlen!	उसने मेरे कपड़े चुराए!
+She stopped to smoke.	Sie hörte auf zu rauchen.	उसने धूम्रपान रोक दिया।
+She told him her age.	Sie erzählte ihm ihr Alter.	उसने उसे अपनी उम्र बताई।
+She told him to stop.	Sie sagte ihm, er solle aufhören.	उसने उसे रोकने के लिए कहा।
+She told him to stop. 1	Sie forderte ihn auf, aufzuhören.	उसने उसे रोकने का कहा।
+She took pity on him.	Sie hatte Mitleid mit ihm.	उसने उस पर दया करने लगी।
+She tried it herself.	Sie versuchte es selbst.	उसने खुद ही कोशिश की।
+She tried not to cry.	Sie versuchte, nicht zu weinen.	उसने कोशिश की कि रोना ना पड़े।
+She used to hate him.	Früher hasste sie ihn.	पहले उसे नफरत थी।
+She used to love him.	Sie liebte ihn früher.	उसे पहले प्यार था।
+She wants to hug him.	Sie möchte ihn umarmen.	उसे उसे गले लगना है।
