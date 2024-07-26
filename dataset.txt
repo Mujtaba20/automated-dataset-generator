@@ -1,14 +1,4 @@
 
-Did you ever kiss Tom?	Hast du Tom schon einmal geküsst?	क्या तुमने कभी टॉम चूमा है?
-Did you find a doctor?	Hast du einen Arzt gefunden?	क्या आपको एक डॉक्टर मिला?
-Did you get a haircut?	Warst du beim Friseur?	क्या आप हेयरड्रेसर के पास गए हैं?
-Did you get a haircut?	Warst du beim Haareschneider?	क्या आप हेयर कटर में गए हैं?
-Did you get a haircut?	Warst du beim Haarschneider?	क्या आप हेयर क्लिपर में हैं?
-Did you get a massage?	Hast du dich massieren lassen?	क्या आपने खुद को मालिश किया?
-Did you get a massage?	Haben Sie sich massieren lassen?	क्या आपको मालिश हुई?
-Did you get a massage?	Hast du dir eine Massage verpassen lassen?	क्या आपको मालिश याद आई?
-Did you get the check?	Hast du den Scheck bekommen?	क्या आपको चेक मिला?
-Did you get your wish?	Wurde dein Wunsch erfüllt?	क्या आपकी इच्छा पूरी हुई थी?
 Did you go to Harvard?	Waren Sie in Harvard?	क्या आप हार्वर्ड में थे?
 Did you go to college?	Hast du studiert?	क्या आपने पढ़ाई की?
 Did you go to college?	Habt ihr studiert?	क्या आपने पढ़ाई की?

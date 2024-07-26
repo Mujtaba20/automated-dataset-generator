@@ -36284,3 +36284,12 @@ Did you cut the paper?	Hast du das Papier geschnitten?	क्या आपने
 Did you eat breakfast?	Hast du gefrühstückt?	क्या तुमने नाश्ता किया है?
 Did you ever call Tom?	Hast du jemals Tom angerufen?	क्या आपने कभी भी टॉम को कॉल किया है?
 Did you ever call Tom? - 2	Haben Sie jemals Tom angerufen?	क्या आपने कभी भी टॉम को कॉल किया है?
+Did you ever kiss Tom?	Hast du jemals Tom geküsst?	क्या तुमने कभी टॉम को चुंबन दिया है?
+Did you find a doctor?	Hast du einen Arzt gefunden?	क्या आपने कोई डॉक्टर ढूंढा है?
+Did you get a haircut?	Hast du dir die Haare schneiden lassen?	क्या आपने बाल कटवाए हैं?
+Did you get a massage?	Hast du eine Massage bekommen?	क्या आपने मालिश करवाई है?
+Did you get the check?	Hast du den Scheck bekommen?	क्या आपने चेक प्राप्त किया है?
+Did you get your wish?	Hast du deinen Wunsch erfüllt bekommen?	क्या आपने अपनी इच्छा पूरी की है?
+Did you get a haircut? (Different Meaning)	Hast du einen Haarschnitt bekommen?	क्या आपने बाल काटवाए हैं?
+Did you get a massage? (Different Meaning)	Hast du eine Rückenmassage erhalten?	क्या आपने पीठ की मालिश की है?
+Did you get a haircut? (Different Meaning 2)	Hast du eine neue Frisur bekommen?	क्या आपने नया हेयरकट करवाया है?
