@@ -1,15 +1,4 @@
 
-I should start packing.	Ich sollte anfangen zu packen.	मुझे पैकिंग शुरू करना चाहिए।
-I should've been ready.	Ich hätte fertig sein sollen.	मुझे किया जाना चाहिए था।
-I should've been there.	Ich hätte dort sein sollen.	मुझे वहाँ होना चाहिए था।
-I should've called Tom.	Ich hätte Tom anrufen sollen.	मुझे टॉम कहा जाना चाहिए था।
-I should've known this.	Das hätte ich mir denken können.	मैं कल्पना कर सकता था।
-I should've known this.	Ich hätte es wissen müssen.	मुझे पता होना चाहिए था।
-I should've warned you.	Ich hätte dich warnen sollen.	मुझे आपको चेतावनी देनी चाहिए थी।
-I should've warned you.	Ich hätte Sie warnen sollen.	मुझे उसे चेतावनी देनी चाहिए थी।
-I skipped my breakfast.	Ich habe das Frühstück ausgelassen.	मैंने नाश्ता छोड़ दिया।
-I slept for nine hours.	Ich schlief neun Stunden lang.	मैं नौ घंटे सोता रहा।
-I slept for nine hours.	Ich habe neun Stunden geschlafen.	मैं नौ घंटे सोया।
 I sometimes exaggerate.	Ich übertreibe manchmal.	मैं कभी -कभी अतिशयोक्ति करता हूं।
 I speak French at home.	Ich spreche zu Hause Französisch.	मैं घर पर फ्रेंच बोलता हूं।
 I spoke with Tom today.	Ich habe heute mit Tom gesprochen.	मैंने आज टॉम से बात की।
