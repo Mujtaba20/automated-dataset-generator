@@ -24222,3 +24222,8 @@ Was it interesting?	War es interessant?	क्या यह दिलचस्�
 Was that fun to do?	Hat es Spaß gemacht?	क्या यह करने में मजा आया?
 Was that your plan?	War das dein Plan?	क्या यह तुम्हारा योजना था?
 Was the movie good?	War der Film gut?	क्या फिल्म अच्छी थी?
+Was the soup tasty?	War die Suppe lecker?	क्या सूप स्वादिष्ट था?
+Wasn't that enough?	War das nicht genug?	क्या वह पर्याप्त नहीं था?
+Watch your fingers!	Pass auf deine Finger auf!	अपनी उंगलियों पर ध्यान दें!
+Watch your fingers.	Achte auf deine Finger.	अपनी उंगलियों पर ध्यान रखो।
+Watch your luggage.	Achten Sie auf Ihr Gepäck.	अपना सामान देखभाल करें।

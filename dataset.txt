@@ -1,16 +1,4 @@
 
-Was the soup tasty?	Hat die Suppe geschmeckt?	क्या सूप का स्वाद?
-Wasn't that enough?	War das nicht genug?	क्या यह पर्याप्त नहीं था?
-Wasn't that enough?	Hat das nicht gereicht?	क्या यह पर्याप्त नहीं था?
-Watch your fingers!	Achte auf deine Finger!	अपनी उंगलियों पर ध्यान दें!
-Watch your fingers!	Pass auf deine Finger auf!	अपनी उंगलियों का ख्याल रखना!
-Watch your fingers!	Achten Sie auf Ihre Finger!	अपनी उंगलियों पर ध्यान दें!
-Watch your fingers!	Passt auf eure Finger auf!	अपनी उंगलियों को देखो!
-Watch your fingers.	Pass auf deine Finger auf!	अपनी उंगलियों का ख्याल रखना!
-Watch your fingers.	Achtung auf die Finger!	अपनी उंगलियों पर ध्यान दें!
-Watch your luggage.	Pass auf dein Gepäck auf!	अपने सामान का ख्याल रखना!
-Watch your luggage.	Passt auf euer Gepäck auf!	अपने सामान का ख्याल रखना!
-Watch your luggage.	Passen Sie auf Ihr Gepäck auf!	अपने सामान का ख्याल रखना!
 Watching TV is fun.	Fernsehen macht Spass.	टेलीविजन मजेदार है।
 Water is important.	Wasser ist wichtig.	पानी महत्वपूर्ण है।
 We adopted a child.	Wir haben ein Kind adoptiert.	हमने एक बच्चे को गोद लिया।
