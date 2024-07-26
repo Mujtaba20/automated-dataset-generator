@@ -1,14 +1,4 @@
 
-Tom stole your car.	Tom hat euren Wagen gestohlen.	टॉम ने आपकी कार चुरा ली।
-Tom stole your car.	Tom hat Ihren Wagen gestohlen.	टॉम ने अपनी कार चुरा ली।
-Tom stole your car.	Tom hat deinen Wagen gestohlen.	टॉम ने आपकी कार चुरा ली।
-Tom stopped crying.	Tom hörte auf zu weinen.	टॉम ने रोना बंद कर दिया।
-Tom stopped eating.	Tom hörte auf zu essen.	टॉम ने खाना बंद कर दिया।
-Tom stopped rowing.	Tom hörte auf zu rudern.	टॉम ने रोइंग बंद कर दिया।
-Tom studied French.	Tom hat Französisch gelernt.	टॉम ने फ्रेंच सीखा।
-Tom studied French.	Tom lernte Französisch.	टॉम ने फ्रेंच सीखा।
-Tom studied abroad.	Tom studierte im Ausland.	टॉम ने विदेश में अध्ययन किया।
-Tom studies French.	Tom lernt Französisch.	टॉम फ्रेंच सीखता है।
 Tom suggested that.	Tom schlug das vor.	टॉम ने सुझाव दिया कि।
 Tom sure talks big.	Tom schwingt ganz schön große Reden.	टॉम वास्तव में बड़े भाषण झूलता है।
 Tom surprised Mary.	Tom überraschte Maria.	टॉम ने आश्चर्यचकित कर दिया।

@@ -24004,3 +24004,10 @@ Tom stole my heart.	Tom hat mir das Herz gestohlen.	टॉम ने मेर�
 Tom stole my money.	Tom hat mein Geld gestohlen.	टॉम ने मेरे पैसे चुराए।
 Tom stole my watch.	Tom hat meine Uhr gestohlen.	टॉम ने मेरी घड़ी चुराई।
 Tom stole the ring.	Tom hat den Ring gestohlen.	टॉम ने अंगूठी चुराई।
+Tom stole your car.	Tom hat dein Auto gestohlen.	टॉम ने तुम्हारे कार चुराई।
+Tom stopped crying.	Tom hörte auf zu weinen.	टॉम रोना बंद कर दिया।
+Tom stopped eating.	Tom hörte auf zu essen.	टॉम खाना खाना बंद कर दिया।
+Tom stopped rowing.	Tom hörte auf zu rudern.	टॉम डुबकी मारना बंद कर दिया।
+Tom studied French.	Tom lernte Französisch.	टॉम ने फ्रेंच सीखा।
+Tom studied abroad.	Tom studierte im Ausland.	टॉम विदेश में पढ़ाई की।
+Tom studies French.	Tom studiert Französisch.	टॉम फ्रेंच पढ़ रहा है।
