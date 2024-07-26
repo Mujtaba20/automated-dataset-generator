@@ -27781,3 +27781,12 @@ Please do something. 1	Bitte mach etwas.	कृपया कोई काम क
 Please do something. 2	Bitte tue etwas.	कृपया कोई कार्य करें।
 Please don't be mad.	Bitte sei nicht sauer.	कृपया गुस्सा मत होना।
 Please don't be sad.	Bitte sei nicht traurig.	कृपया उदास न हों।
+Please don't bother.	Bitte nicht stören.	कृपया परेशान न करें।
+Please don't bother. 1	Bitte nicht belästigen.	कृपया परेशान न करें।
+Please don't bother. 2	Bitte lass mich in Ruhe.	कृपया परेशान न करें।
+Please don't get up.	Bitte nicht aufstehen.	कृपया उठने की कोशिश न करें।
+Please don't get up. 1	Bitte bleib sitzen.	कृपया उठने की कोशिश न करें।
+Please don't get up. 2	Bitte setz dich nicht auf.	कृपया उठने की कोशिश न करें।
+Please don't mumble.	Bitte nuschle nicht.	कृपया कुद्दाद न करें।
+Please don't mumble. 1	Bitte murmel nicht.	कृपया कुद्दाद न करें।
+Please drive faster.	Bitte fahren Sie schneller.	कृपया जल्दी चलाएं।

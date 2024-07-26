@@ -1,15 +1,4 @@
 
-Please don't bother.	Bitte mach dir keine Mühe.	कृपया अपने आप को परेशान न करें।
-Please don't bother.	Bitte macht euch keine Mühe.	कृपया अपने आप को परेशान न करें।
-Please don't bother.	Bitte machen Sie sich keine Mühe.	कृपया अपने आप को परेशान न करें।
-Please don't get up.	Bitte steh nicht auf.	कृपया उठो मत।
-Please don't get up.	Bitte steht nicht auf.	कृपया उठो मत।
-Please don't get up.	Bitte stehen Sie nicht auf.	कृपया उठो मत।
-Please don't mumble.	Bitte nuschele nicht so!	कृपया क्रैक न करें!
-Please don't mumble.	Nuschele bitte nicht so!	कृपया इसे हाथापाई न करें!
-Please drive faster.	Fahr doch bitte schneller!	कृपया तेजी से ड्राइव करें!
-Please drive faster.	Fahren Sie doch bitte schneller!	कृपया तेजी से ड्राइव करें!
-Please drive faster.	Fahre doch bitte schneller!	कृपया तेजी से ड्राइव करें!
 Please feed the cat.	Füttere bitte die Katze!	कृपया बिल्ली को खिलाएं!
 Please feed the cat.	Gib bitte der Katze zu fressen.	कृपया बिल्ली को खाने के लिए दें।
 Please feed the dog.	Füttere bitte den Hund!	कृपया कुत्ते को खिलाएं!
