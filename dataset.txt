@@ -1,14 +1,4 @@
 
-Do you like surfing?	Surfst du gerne?	क्या आप सर्फ करना पसंद करते हैं?
-Do you like surfing?	Surfen Sie gerne?	क्या आप सर्फ करना पसंद करते हैं?
-Do you like surfing?	Surft ihr gerne?	क्या आप सर्फ करना पसंद करते हैं?
-Do you like to cook?	Kochst du gerne?	क्या आपको खाना पकाना अच्छा लगता है?
-Do you like to cook?	Kochen Sie gerne?	क्या आपको खाना पकाना अच्छा लगता है?
-Do you like to sing?	Singst du gerne?	तुम्हें गायन पसंद है?
-Do you like writing?	Schreibst du gern?	क्या आपको लिखना पसंद है?
-Do you like writing?	Schreiben Sie gern?	क्या आप लिखना पसंद करते हैं?
-Do you like writing?	Schreibt ihr gern?	क्या आप लिखना पसंद करते हैं?
-Do you love him too?	Liebst du ihn auch?	क्या आप उससे भी प्यार करते हैं?
 Do you love me, Tom?	Liebst du mich, Tom?	क्या तुम मुझसे प्यार करते हो, टॉम?
 Do you need a break?	Brauchst du eine Pause?	क्या आपको एक ब्रेक की आवश्यकता है?
 Do you need a break?	Braucht ihr eine Pause?	क्या आपको एक ब्रेक की आवश्यकता है?
