@@ -1,15 +1,4 @@
 
-Where are the eggs?	Wo sind die Eier?	अंडे कहाँ हैं?
-Where are the hats?	Wo sind die Hüte?	टोपी कहाँ हैं?
-Where are the keys?	Wo sind die Schlüssel?	चाबियां कहां हैं?
-Where are they now?	Wo sind sie jetzt?	अभी आप कहाँ हैं?
-Where are you from?	Woher kommst du?	आप कहां से आए हैं?
-Where are you from?	Woher kommen Sie?	आप कहाँ से हैं?
-Where are you from?	Wo bist du her?	आप कहाँ से हैं?
-Where are you from?	Wo seid ihr her?	आप कहाँ से हैं?
-Where are you from?	Wo sind Sie her?	आप कहाँ से हैं?
-Where are you from?	Wo kommt ihr her?	आप कहाँ से हैं?
-Where are you from?	Woher kommt ihr?	आप कहाँ से हैं?
 Where are you guys?	Wo seid ihr?	आप कहां हैं?
 Where are you hurt?	Wo sind Sie verletzt?	तुम कहाँ घायल हो?
 Where are you, Tom?	Tom, wo bist du?	टॉम, तुम कहाँ हो?

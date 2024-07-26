@@ -24619,3 +24619,9 @@ When's the wedding?	Wann ist die Hochzeit?	शादी कब है?
 Where are my books?	Wo sind meine Bücher?	मेरी किताबें कहाँ हैं?
 Where are my boots?	Wo sind meine Stiefel?	मेरी बूट्स कहाँ हैं?
 Where are the boys?	Wo sind die Jungen?	लड़के कहाँ हैं?
+Where are the eggs?	Wo sind die Eier?	अंडे कहाँ हैं?
+Where are the hats?	Wo sind die Hüte?	टोपी कहाँ है?
+Where are the keys?	Wo sind die Schlüssel?	चाबियाँ कहाँ हैं?
+Where are they now?	Wo sind sie jetzt?	वे अब कहाँ हैं?
+Where are you from?	Wo kommst du her?	तुम कहाँ से हो?
+Where are you from? (Different meaning)	Woher stammst du?	तुम कहाँ से आए हो?
