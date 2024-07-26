@@ -1,14 +1,4 @@
 
-Where's your phone?	Wo ist dein Telefon?	आपका फोन कहां है?
-Where's your truck?	Wo ist dein Lastwagen?	आपका ट्रक कहाँ है?
-Which bag is yours?	Welche Tüte ist deine?	आपका क्या बैग है?
-Which car is Tom's?	Welcher Wagen gehört Tom?	कौन सी कार टॉम की है?
-Which car is yours?	Welches Auto ist dir?	आप कौन सी कार हैं?
-Which cat is yours?	Welche Katze ist deine?	कौन सी बिल्ली तुम्हारी है?
-Which cat is yours?	Welche Katze ist Ihre?	कौन सी बिल्ली तुम्हारी है?
-Which cup is yours?	Welche Tasse ist deine?	कौन सा कप तुम्हारा है?
-Which cup is yours?	Welche Tasse gehört dir?	कौन सा कप तुम्हारा है?
-Which cup is yours?	Welche ist deine Tasse?	आपका कप कौन सा है?
 Which dog is Tom's?	Welcher Hund gehört Tom?	कौन सा कुत्ता टॉम का है?
 Which dog is yours?	Welcher ist Ihr Hund?	आपका कुत्ता कौन सा है?
 Which dog is yours?	Welcher ist dein Hund?	आपका कुत्ता कौन सा है?

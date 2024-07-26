@@ -24678,3 +24678,10 @@ Where's the toilet?	Wo ist die Toilette?	शौचालय कहाँ है?
 Where's your drink?	Wo ist dein Getränk?	तुम्हारा पेय कहाँ है?
 Where's your money?	Wo ist dein Geld?	तुम्हारे पैसे कहाँ हैं?
 Where's the book?	Wo ist das Buch?	किताब कहाँ है?
+Where's your phone?	Wo ist dein Telefon?	तुम्हारा फोन कहाँ है?
+Where's your truck?	Wo ist dein Lastwagen?	तुम्हारी ट्रक कहाँ है?
+Which bag is yours?	Welche Tasche gehört dir?	तुम्हारा कौन सा बैग है?
+Which car is Tom's?	Welches Auto gehört Tom?	टॉम की कौन सी कार है?
+Which car is yours?	Welches Auto gehört dir?	तुम्हारी कौन सी कार है?
+Which cat is yours?	Welche Katze gehört dir?	तुम्हारी कौन सी बिल्ली है?
+Which cup is yours?	Welcher Becher gehört dir?	तुम्हारा कौन सा कप है?
