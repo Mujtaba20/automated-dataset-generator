@@ -22525,3 +22525,10 @@ My friend was shot.	Mein Freund wurde getroffen.	मेरे दोस्त �
 My garden is small.	Mein Garten ist klein.	मेरा बगीचा छोटा है।
 My hair's too long.	Meine Haare sind zu lang.	मेरे बाल बहुत लम्बे हैं।
 My hands are dirty.	Meine Hände sind schmutzig.	मेरे हाथ गंदे हैं।
+My hands were full.	Meine Hände waren voll.	मेरे हाथ भरे हुए थे।
+My house is a mess.	Mein Haus ist ein Durcheinander.	मेरा घर एक गड़बड़ है।
+My husband is lazy.	Mein Mann ist faul.	मेरा पति आलसी है।
+My knife is broken.	Mein Messer ist kaputt.	मेरी चाकू टूट गयी है।
+My legs feel heavy.	Meine Beine fühlen sich schwer an.	मेरे पैर भारी महसूस हो रहे हैं।
+My legs still hurt.	Meine Beine tun nach wie vor weh.	मेरे पैर अब तक दर्द कर रहे हैं।
+My lips are sealed.	Meine Lippen sind versiegelt.	मेरे होंठ संधित हैं।
