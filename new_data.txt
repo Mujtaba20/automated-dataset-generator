@@ -39078,3 +39078,11 @@ She didn't say a word.	Sie sagte kein Wort.	उसने एक शब्द भ
 She felt like dancing.	Sie hatte Lust zu tanzen.	उसे नृत्य करने का मन था।
 She followed him home.	Sie ist ihm nach Hause gefolgt.	उसने इसलिए उसके पीछे घर चला गया।
 She gave me a present.	Sie schenkte mir ein Geschenk.	उसने मुझे एक उपहार दिया।
+She gave the go-ahead.	Sie gab grünes Licht.	उसने हर्जी मान दी।
+She gave us a present.	Sie hat uns ein Geschenk gegeben.	उसने हमें एक उपहार दिया।
+She got home at seven.	Sie kam um sieben nach Hause.	उसने सात बजे घर आया।
+She graduated in 1996.	Sie absolvierte 1996.	उसने 1996 में स्नातक किया।
+She handed him a book.	Sie übergab ihm ein Buch.	उसने उसे एक किताब दी।
+She hardly ever works.	Sie arbeitet kaum.	वह बहुत कम काम करती है।
+She has a double chin.	Sie hat ein Doppelkinn.	उसका गला दुहना है।
+She has a few friends.	Sie hat wenige Freunde.	उसके कुछ दोस्त हैं।
