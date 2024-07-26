@@ -1,14 +1,4 @@
 
-Tom is my colleague.	Tom ist mein Kollege.	टॉम मेरे सहयोगी हैं।
-Tom is narcissistic.	Tom ist selbstverliebt.	टॉम प्यार में है।
-Tom is nervous, too.	Tom ist auch nervös.	टॉम भी नर्वस है।
-Tom is no gentleman.	Tom ist kein Gentleman.	टॉम सज्जन नहीं हैं।
-Tom is not a member.	Tom ist kein Mitglied.	टॉम सदस्य नहीं है।
-Tom is not an idiot.	Tom ist kein Idiot.	टॉम एक बेवकूफ नहीं है।
-Tom is not to blame.	Tom kann nichts dafür.	टॉम इसकी मदद नहीं कर सकता।
-Tom is not to blame.	Dafür kann Tom nichts.	टॉम उसके लिए कुछ भी नहीं कर सकता।
-Tom is now a doctor.	Tom ist jetzt Arzt.	टॉम अब एक डॉक्टर है।
-Tom is now thirteen.	Tom ist jetzt 13 Jahre alt.	टॉम अब 13 साल का है।
 Tom is often absent.	Tom ist oft nicht da.	टॉम अक्सर नहीं होता है।
 Tom is old and deaf.	Tom ist alt und taub.	टॉम बूढ़ा और बहरा है।
 Tom is on the plane.	Tom ist im Flugzeug.	टॉम विमान पर है।

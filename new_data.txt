@@ -28921,3 +28921,12 @@ Tom is lying to you.	Tom belügt dich.	टॉम आपसे झूठ बो�
 Tom is making faces.	Tom schneidet Grimassen.	टॉम चेहरे बना रहा है।
 Tom is mentally ill.	Tom ist geistig krank.	टॉम मानसिक रूप से अस्वस्थ है।
 Tom is my classmate.	Tom ist mein Klassenkamerad.	टॉम मेरा सहपाठी है।
+Tom is my colleague.	Tom ist mein Kollege.	टॉम मेरा सहकर्मी है।
+Tom is narcissistic.	Tom ist narzisstisch.	टॉम अभिमानी है।
+Tom is nervous, too.	Tom ist auch nervös.	टॉम भी घबराया हुआ है।
+Tom is no gentleman.	Tom ist kein Gentleman.	टॉम एक जेंटलमैन नहीं है।
+Tom is not a member.	Tom ist kein Mitglied.	टॉम कोई सदस्य नहीं है।
+Tom is not an idiot.	Tom ist kein Idiot.	टॉम मूर्ख नहीं है।
+Tom is not to blame.	Tom ist nicht schuld.	टॉम दोषी नहीं है।
+Tom is now a doctor.	Tom ist jetzt Arzt.	टॉम अब डॉक्टर है।
+Tom is now thirteen.	Tom ist jetzt dreizehn.	टॉम अब तेरह साल का है।
