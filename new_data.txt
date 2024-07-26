@@ -22103,3 +22103,11 @@ I've never met her.	Ich habe sie nie getroffen.	मैंने कभी उस
 I've never met him.	Ich habe ihn nie getroffen.	मैंने कभी उससे मिला नहीं।
 I've never seen it.	Ich habe es nie gesehen.	मैंने कभी नहीं देखा है।
 I've paid the bill.	Ich habe die Rechnung bezahlt.	मैंने बिल भर दिया है।
+I've said too much.	Ich habe zu viel gesagt.	मैंने बहुत कुछ कह दिया है।
+I've seen Mt. Fuji.	Ich habe den Fuji Berg gesehen.	मैंने माउंट फुजी देखा है।
+I've seen them all.	Ich habe sie alle gesehen.	मैंने सभी को देखा है।
+I, too, like candy.	Ich mag auch Süßigkeiten.	मुझे भी कैंडी पसंद है।
+Ignorance is bliss.	Unwissenheit ist Glückseligkeit.	अज्ञान आनंद है।
+Is Boston far away?	Ist Boston weit entfernt?	क्या बोस्टन दूर है?
+Is Tom a Christian?	Ist Tom ein Christ?	क्या टॉम एक ईसाई है?
+Is Tom a good cook?	Ist Tom ein guter Koch?	क्या टॉम एक अच्छा रसोइया है?
