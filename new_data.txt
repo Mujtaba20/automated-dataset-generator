@@ -38418,3 +38418,11 @@ Is it really all over?	Ist es wirklich vorbei?	क्या यह सचमु�
 Is it really possible?	Ist es wirklich möglich?	क्या यह सचमुच संभव है?
 Is it really that bad?	Ist es wirklich so schlimm?	क्या यह सचमुच इतना बुरा है?
 Is it really worth it?	Ist es wirklich das wert?	क्या यह सचमुच योग्य है?
+Is it taking too long?	Dauert es zu lange?	क्या यह बहुत लंबा समय ले रहा है?
+Is it too complicated?	Ist es zu kompliziert?	क्या यह बहुत जटिल है?
+Is it too far to walk?	Ist es zu weit zu laufen?	क्या यह चलने के लिए बहुत दूर है?
+Is somebody out there?	Ist da draußen jemand?	क्या कोई वहाँ है?
+Is someone calling me?	Ruft mich jemand an?	क्या कोई मुझे बुला रहा है?
+Is that Tom's bedroom?	Ist das Toms Schlafzimmer?	क्या ये टॉम का बेडरूम है?
+Is that Tom's bicycle?	Ist das Toms Fahrrad?	क्या यह टॉम की साइकिल है?
+Is that a common name?	Ist das ein häufiger Name?	क्या यह एक सामान्य नाम है?

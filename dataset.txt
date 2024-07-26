@@ -1,14 +1,4 @@
 
-Is it taking too long?	Dauert es zu lange?	क्या इसमें बहुत लंबा समय लगता है?
-Is it too complicated?	Ist es zu kompliziert?	क्या यह बहुत जटिल है?
-Is it too far to walk?	Ist es zu weit, um zu laufen?	क्या यह चलाने के लिए बहुत दूर है?
-Is it too far to walk?	Ist es zu Fuß zu weit?	क्या यह बहुत दूर पैदल है?
-Is somebody out there?	Ist da draußen jemand?	क्या कोई बाहर है?
-Is someone calling me?	Ruft mich irgendwer?	क्या कोई मुझे फोन करता है?
-Is that Tom's bedroom?	Ist das Toms Schlafzimmer?	क्या टॉम का बेडरूम है?
-Is that Tom's bicycle?	Ist das Toms Fahrrad?	क्या टॉम की बाइक है?
-Is that a common name?	Ist das ein geläufiger Name?	क्या यह एक सामान्य नाम है?
-Is that a common name?	Ist das ein weitverbreiteter Name?	क्या यह एक व्यापक नाम है?
 Is that a new perfume?	Ist das ein neues Parfüm?	क्या यह एक नया इत्र है?
 Is that a yes or a no?	Ist das ein Ja oder ein Nein?	यह एक हां या नहीं है?
 Is that an invitation?	Ist das eine Einladung?	क्या यह एक निमंत्रण है?
