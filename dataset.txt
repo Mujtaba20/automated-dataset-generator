@@ -1,14 +1,4 @@
 
-I can't run very fast.	Ich kann nicht sehr schnell laufen.	मैं बहुत जल्दी नहीं दौड़ सकता।
-I can't say I'm sorry.	Ich kann nicht sagen, dass mir das leidtut.	मैं यह नहीं कह सकता कि मुझे खेद है।
-I can't see very well.	Ich sehe nicht sehr gut.	मैं बहुत अच्छा नहीं देखता।
-I can't see very well.	Ich kann nicht sehr gut sehen.	मैं बहुत अच्छी तरह से नहीं देख सकता।
-I can't see who it is.	Ich kann nicht sehen, wer es ist.	मैं यह नहीं देख सकता कि यह कौन है।
-I can't sell you that.	Ich kann dir das nicht verkaufen.	मैं आपको वह नहीं बेच सकता।
-I can't sell you that.	Ich kann Ihnen das nicht verkaufen.	मैं आपको वह नहीं बेच सकता।
-I can't show you this.	Ich kann dir das nicht zeigen.	मैं आपको वह नहीं दिखा सकता।
-I can't show you this.	Ich kann euch das nicht zeigen.	मैं आपको वह नहीं दिखा सकता।
-I can't show you this.	Ich kann Ihnen das nicht zeigen.	मैं आपको वह नहीं दिखा सकता।
 I can't stand cowards.	Ich kann Feiglinge nicht ausstehen.	मैं काउलिंग को खड़ा नहीं कर सकता।
 I can't stand fishing.	Ich kann Angeln nicht ausstehen.	मैं मछली पकड़ने के लिए खड़ा नहीं हो सकता।
 I can't stay for long.	Ich kann nicht lange bleiben.	मैं लंबे समय तक नहीं रह सकता।

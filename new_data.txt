@@ -37171,3 +37171,9 @@ I can't open the door.	Ich kann die Tür nicht öffnen.	मैं दरवा�
 I can't open this jar.	Ich kann dieses Glas nicht öffnen.	मैं यह जार नहीं खोल सकता।
 I can't pay Tom today.	Ich kann Tom heute nicht bezahlen.	मैं आज टॉम को नहीं दे सकता।
 I can't read the sign.	Ich kann das Schild nicht lesen.	मैं संकेत पढ़ नहीं सकता।
+I can't run very fast.	Ich kann nicht sehr schnell rennen.	मैं बहुत तेज़ी से नहीं दौड़ सकता।
+I can't say I'm sorry.	Ich kann nicht sagen, dass es mir leid tut.	मैं माफी मांगने का कह नहीं सकता।
+I can't see very well.	Ich kann nicht sehr gut sehen.	मैं बहुत अच्छे से नहीं देख सकता।
+I can't see who it is.	Ich kann nicht sehen, wer es ist.	मैं यह नहीं देख सकता कि यह कौन है।
+I can't sell you that.	Ich kann dir das nicht verkaufen.	मैं तुम्हें यह नहीं बेच सकता।
+I can't show you this.	Ich kann dir das nicht zeigen.	मैं तुम्हें यह नहीं दिखा सकता।
