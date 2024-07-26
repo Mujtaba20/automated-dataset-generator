@@ -1,14 +1,4 @@
 
-How much will it cost?	Wie viel wird das kosten?	इसकी लागत क्या है?
-How old are your kids?	Wie alt sind Ihre Kinder?	आपके बच्चों की उम्र कितनी हैं?
-How old are your kids?	Wie alt sind deine Kinder?	आपके बच्चों की उम्र कितनी हैं?
-How old is that house?	Wie alt ist dieses Haus?	यह घर कितना पुराना है?
-How old is this piano?	Wie alt ist dieses Klavier?	यह पियानो कितना पुराना है?
-How old is this stuff?	Wie alt ist dieses Zeug?	यह सामान कितना पुराना है?
-How old is your uncle?	Wie alt ist dein Onkel?	आपके चाचा कितने साल के हैं?
-How old were you then?	Wie alt warst du da?	आप कितने साल के थे?
-How old were you then?	Wie alt wart ihr da?	आप कितने साल के थे?
-How old were you then?	Wie alt waren Sie da?	आप कितने साल के थे?
 How was the math test?	Wie war der Mathetest?	गणित की परीक्षा कैसी थी?
 How was the math test?	Wie war die Mathearbeit?	गणित का काम कैसा था?
 How was the math test?	Wie war die Matheprüfung?	गणित की परीक्षा कैसी थी?
