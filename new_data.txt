@@ -20795,3 +20795,12 @@ He is sharp-witted.	Er ist scharfsinnig.	वह तेज-दिमाग़ ह
 He is so heartless.	Er ist so herzlos.	वह इतना कठोर है।
 He is still in bed.	Er liegt immer noch im Bett.	वह अभी भी बिस्तर में है।
 He is sure to come.	Er wird sicher kommen.	वह जरूर आएगा।
+He is very careful.	Er ist sehr vorsichtig.	वह बहुत सावधान है।
+He is well off now.	Er ist jetzt wohlhabend.	वह अब अच्छे स्थिति में है।
+He isn't my cousin.	Er ist nicht mein Cousin.	वह मेरा भाई नहीं है।
+He isn't our enemy.	Er ist nicht unser Feind.	वह हमारा दुश्मन नहीं है।
+He kept me waiting.	Er ließ mich warten.	उसने मुझे इंतजार कराया।
+He kept on singing.	Er sang weiter.	वह गाता रहा।
+He kept quite calm.	Er blieb ziemlich ruhig.	वह काफी शांत रहे।
+He kicked me twice.	Er hat mich zweimal getreten.	उसने मुझे दो बार धक्का मारा।
+He kicked the ball.	Er trat den Ball.	उसने गेंद को धक्का मारा।
