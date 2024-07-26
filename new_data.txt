@@ -33769,3 +33769,12 @@ These books are ours.	Diese Bücher sind unsere.	ये किताबें �
 These girls are wild.	Diese Mädchen sind wild.	ये लड़कियाँ जंगली हैं।
 These keys are Tom's.	Diese Schlüssel gehören Tom.	ये चाबियाँ टॉम की हैं।
 These shoes are hers.	Diese Schuhe sind ihre.	ये जूते उसके हैं।
+They always complain.	Sie beschweren sich immer.	वे हमेशा शिकायत करते हैं।
+They always say that.	Sie sagen immer das.	वे हमेशा यह कहते हैं।
+They are good people.	Sie sind gute Leute.	वे अच्छे लोग हैं।
+They are inseparable.	Sie sind unzertrennlich.	वे अलग नहीं किए जा सकते।
+They are my brothers.	Sie sind meine Brüder.	वे मेरे भाई हैं।
+They are not sisters.	Sie sind nicht Schwestern.	वे बहनें नहीं हैं।
+They are running now.	Sie rennen jetzt.	वे अब दौड़ रहे हैं।
+They are vegetarians.	Sie sind Vegetarier.	वे शाकाहारी हैं।
+They aren't here yet.	Sie sind noch nicht hier.	वे अभी तक यहाँ नहीं हैं।
