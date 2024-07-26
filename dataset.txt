@@ -1,14 +1,4 @@
 
-I expect Tom will win.	Ich gehe davon aus, dass Tom gewinnen wird.	मुझे लगता है कि टॉम जीत जाएगा।
-I explained it to him.	Ich erklärte es ihm.	मैंने उसे समझाया।
-I explained it to him.	Ich habe ihm das erklärt.	मैंने उसे समझाया।
-I extended my holiday.	Ich verlängerte meinen Urlaub.	मैंने अपनी छुट्टी बढ़ाई।
-I fear we're too late.	Ich fürchte, wir kommen zu spät.	मुझे डर है कि हम बहुत देर से आ रहे हैं।
-I feel a bit nauseous.	Mir ist leicht übel.	मैं थोड़ा बीमार महसूस करता हूं।
-I feel a bit nauseous.	Mir ist ein wenig übel.	मुझे थोड़ा बुरा लगता है।
-I feel like a new man.	Ich fühle mich wie neugeboren.	मैं एक नवजात शिशु की तरह महसूस करता हूं।
-I feel like an amoeba.	Ich komme mir wie eine Amöbe vor.	मैं एक अमीबा की तरह महसूस करता हूं।
-I feel perfectly fine.	Es geht mir wirklich gut!	मैं वास्तव में अच्छा हूँ!
 I feel so embarrassed.	Das ist mir so peinlich.	यह बहुत शर्मनाक है।
 I feel somewhat upset.	Ich fühle mich etwas traurig.	मैं थोड़ा दुखी महसूस करता हूं।
 I feel terrible today.	Ich fühle mich heute schrecklich.	मैं आज भयानक महसूस करता हूं।

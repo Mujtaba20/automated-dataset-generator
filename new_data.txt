@@ -37372,3 +37372,11 @@ I eat fish every week.	Ich esse jede Woche Fisch.	मैं हर हफ्त�
 I enjoy playing chess.	Ich spiele gerne Schach.	मुझे शतरंज खेलना अच्छा लगता है।
 I enjoy reading books.	Ich genieße es, Bücher zu lesen.	मुझे किताबें पढ़ना पसंद है।
 I even made Tom laugh.	Ich brachte sogar Tom zum Lachen.	मैंने टॉम को भी हंसाया।
+I expect Tom will win.	Ich erwarte, dass Tom gewinnen wird.	मुझे उम्मीद है कि टॉम जीतेगा।
+I explained it to him.	Ich habe es ihm erklärt.	मैंने उसे यह समझाया।
+I extended my holiday.	Ich habe meinen Urlaub verlängert.	मैंने अपनी छुट्टी बढ़ा दी।
+I fear we're too late.	Ich befürchte, wir sind zu spät.	मुझे डर है कि हम बहुत देर हो गए हैं।
+I feel a bit nauseous.	Mir ist ein wenig übel.	मुझे थोड़ा सा उलटी आ रहा है।
+I feel like a new man.	Ich fühle mich wie ein neuer Mensch.	मैं नए इंसान की तरह महसूस कर रहा हूं।
+I feel like an amoeba.	Ich fühle mich wie eine Amöbe.	मैं जैव कण की तरह महसूस कर रहा हूं।
+I feel perfectly fine.	Ich fühle mich absolut wohl.	मैं पूरी तरह से ठीक महसूस कर रहा हूं।
