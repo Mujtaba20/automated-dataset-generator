@@ -1,16 +1,4 @@
 
-Do you like dinosaurs?	Magst du Dinosaurier?	क्या आपको डायनासोर पसंद हैं?
-Do you like dinosaurs?	Mögt ihr Dinosaurier?	क्या आपको डायनासोर पसंद हैं?
-Do you like dinosaurs?	Mögen Sie Dinosaurier?	क्या आपको डायनासोर पसंद हैं?
-Do you like his songs?	Gefallen Ihnen seine Lieder?	क्या आपको उनके गाने पसंद हैं?
-Do you like his songs?	Gefallen dir seine Lieder?	क्या आपको उनके गाने पसंद हैं?
-Do you like it or not?	Du magst es, oder?	आप इसे पसंद करते हैं, है ना?
-Do you like my friend?	Magst du meinen Freund?	क्या आपको मेरे दोस्त पसंद हैं?
-Do you like my friend?	Mögt ihr meinen Freund?	क्या आपको मेरे दोस्त पसंद हैं?
-Do you like my friend?	Mögen Sie meinen Freund?	क्या आपको मेरे दोस्त पसंद हैं?
-Do you like my friend?	Magst du meine Freundin?	आपको मेरी प्रेमिका अच्छ
-Do you like my friend?	Mögt ihr meine Freundin?	आपको मेरी प्रेमिका अच्छ?
-Do you like my friend?	Mögen Sie meine Freundin?	आपको मेरी प्रेमिका अच्छ?
 Do you like pork loin?	Isst du gerne Schweinelende?	क्या आप पोर्क तत्व खाना पसंद करते हैं?
 Do you like root beer?	Trinkst du gerne Wurzelbier?	क्या आपको रूट बीयर पीना पसंद है?
 Do you like spaghetti?	Magst du Spaghetti?	क्या आपको स्पैगेटी पसन्द है?

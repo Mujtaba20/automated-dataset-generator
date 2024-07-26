@@ -36380,3 +36380,8 @@ Do you know this song?	Kennen Sie dieses Lied?	क्या आप इस गा
 Do you know who he is?	Wissen Sie, wer er ist?	क्या आप जानते हैं वह कौन है?
 Do you know your size?	Kennen Sie Ihre Größe?	क्या आप अपनी साइज जानते हैं?
 Do you like bean soup?	Mögen Sie Bohnensuppe?	क्या आप राजमा सूप पसंद करते हैं?
+Do you like dinosaurs?	Magst du Dinosaurier?	क्या आपको डायनासोर पसंद हैं?
+Do you like his songs?	Magst du seine Lieder?	क्या आपको उसके गाने पसंद हैं?
+Do you like it or not?	Magst du es oder nicht?	क्या आपको यह पसंद है या नहीं?
+Do you like my friend?	Magst du meinen Freund?	क्या तुम्हें मेरा दोस्त पसंद है?
+Do you like my friend? (Different meaning)	Magst du meinen Freund?	तुम मेरे दोस्त को पसंद करते हो?
