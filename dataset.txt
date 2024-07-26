@@ -1,14 +1,4 @@
 
-I've got big hands.	Ich habe große Hände.	मेरे बड़े हाथ हैं।
-I've got good news.	Ich habe eine gute Nachricht.	मेरे पास अच्छी खबर है।
-I've got long hair.	Ich habe lange Haare.	मेरे लंबे बाल हैं।
-I've got long hair.	Ich habe langes Haar.	मेरे लंबे बाल हैं।
-I've got no choice.	Ich habe keine Wahl.	मेरे पास कोई विकल्प नहीं।
-I've got something.	Ich hab was.	मेरे पास कुछ है।
-I've got the money.	Ich habe Geld.	मेरे पास पैसा है।
-I've got to go now.	Ich muss jetzt gehen.	अब मुझे जाना होगा।
-I've got to see it.	Ich muss das sehen.	मुझे वह देखना है।
-I've got to see it.	Das muss ich sehen.	मुझे वह देखना है।
 I've heard nothing.	Ich habe nichts gehört.	मैंने कुछ नहीं सुना है।
 I've just seen Tom.	Ich habe Tom gerade gesehen.	मैंने सिर्फ टॉम देखा है।
 I've learned a lot.	Ich habe viel gelernt.	मैंने बहुत कुछ सीखा।

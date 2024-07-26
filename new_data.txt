@@ -22087,3 +22087,11 @@ I've caught a cold.	Ich habe eine Erkältung bekommen.	मुझे सर्द
 I've cut my finger.	Ich habe mir in den Finger geschnitten.	मैंने अपनी उँगली काट ली है।
 I've gained weight.	Ich habe zugenommen.	मैंने वजन बढ़ा लिया है।
 I've got a problem.	Ich habe ein Problem.	मेरे पास समस्या है।
+I've got big hands.	Ich habe große Hände.	मेरे पास बड़े हाथ हैं।
+I've got good news.	Ich habe gute Nachrichten.	मेरे पास अच्छी खबर है।
+I've got long hair.	Ich habe lange Haare.	मेरे पास लंबे बाल हैं।
+I've got no choice.	Ich habe keine Wahl.	मेरे पास कोई विकल्प नहीं है।
+I've got something.	Ich habe etwas.	मेरे पास कुछ है।
+I've got the money.	Ich habe das Geld.	मेरे पास पैसे हैं।
+I've got to go now.	Ich muss jetzt gehen.	अब मुझे जाना है।
+I've got to see it.	Ich muss es sehen.	मुझे इसे देखना है।
