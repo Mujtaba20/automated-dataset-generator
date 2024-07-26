@@ -31550,3 +31550,11 @@ I didn't like Boston.	Ich mochte Boston nicht.	मुझे बॉस्टन �
 I didn't look at Tom.	Ich habe Tom nicht angesehen.	मैंने टॉम को नहीं देखा।
 I didn't mean to cry.	Ich wollte nicht weinen.	मेरा मतलब रोना नहीं था।
 I didn't meet anyone.	Ich habe niemanden getroffen.	मैंने किसी से मिला नहीं।
+I didn't read it all.	Ich habe nicht alles gelesen.	मैंने सभी कुछ नहीं पढ़ा।
+I didn't see a ghost.	Ich habe keinen Geist gesehen.	मैंने किसी भूत मक्खी को नहीं देखा।
+I didn't see anybody.	Ich habe niemanden gesehen.	मैंने किसी को नहीं देखा।
+I didn't tell anyone.	Ich habe niemandem gesagt.	मैंने किसी को नहीं बताया।
+I didn't want to die.	Ich wollte nicht sterben.	मैं मरना नहीं चाहता था।
+I dislike big cities.	Ich mag keine großen Städte.	मुझे बड़े शहरों से नफरत है।
+I do not feel guilty.	Ich fühle mich nicht schuldig.	मुझे अपराधी महसूस नहीं होता।
+I do not like spring.	Ich mag den Frühling nicht.	मुझे वसंत पसंद नहीं है।
