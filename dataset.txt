@@ -1,14 +1,4 @@
 
-Tom is very skeptical.	Tom ist sehr skeptisch.	टॉम बहुत उलझन में है।
-Tom is very talkative.	Tom ist sehr geschwätzig.	टॉम बहुत चटपटा है।
-Tom is very tired now.	Tom ist jetzt sehr müde.	टॉम अब बहुत थक गया है।
-Tom is waiting for me.	Tom wartet auf mich.	टॉम मेरा इंतजार कर रहा है।
-Tom is washing dishes.	Tom wäscht gerade ab.	टॉम धो रहा है।
-Tom is wearing a mask.	Tom hat eine Maske an.	टॉम पर एक मुखौटा है।
-Tom is wearing a mask.	Tom hat eine Maske auf.	टॉम पर एक मुखौटा है।
-Tom is wearing a mask.	Tom trägt eine Maske.	टॉम एक मुखौटा पहनता है।
-Tom is wearing gloves.	Tom trägt Handschuhe.	टॉम दस्ताने पहनता है।
-Tom is wearing gloves.	Tom hat Handschuhe an.	टॉम पर दस्ताने हैं।
 Tom is wearing makeup.	Tom trägt Make-up.	टॉम मेकअप पहनता है।
 Tom is wearing makeup.	Tom hat sich geschminkt.	टॉम ने बनाया।
 Tom is wise, isn't he?	Tom ist weise, nicht wahr?	टॉम बुद्धिमान है, है ना?

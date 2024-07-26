@@ -40410,3 +40410,11 @@ Tom is very organized.	Tom ist sehr organisiert.	टॉम बहुत व्�
 Tom is very religious.	Tom ist sehr religiös.	टॉम बहुत धार्मिक है।
 Tom is very sarcastic.	Tom ist sehr sarkastisch.	टॉम बहुत तानात्मक है।
 Tom is very sensitive.	Tom ist sehr sensibel.	टॉम बहुत संवेदनशील है।
+Tom is very skeptical.	Tom ist sehr skeptisch.	टॉम बहुत संदेही है।
+Tom is very talkative.	Tom ist sehr gesprächig.	टॉम बहुत बातचीत करने वाले हैं।
+Tom is very tired now.	Tom ist jetzt sehr müde.	टॉम अब बहुत थका हुआ है।
+Tom is waiting for me.	Tom wartet auf mich.	टॉम मेरे इंतजार में है।
+Tom is washing dishes.	Tom spült Geschirr.	टॉम बर्तन धो रहे हैं।
+Tom is wearing a mask.	Tom trägt eine Maske.	टॉम मास्क पहन रहे हैं।
+Tom is wearing gloves.	Tom trägt Handschuhe.	टॉम दस्ताने पहन रहे हैं।
+Tom is wearing a hat.	Tom trägt einen Hut.	टॉम एक टोपी पहन रहे हैं।
