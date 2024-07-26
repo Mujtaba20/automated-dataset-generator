@@ -33269,3 +33269,9 @@ Please lock the safe.	Bitte verschließen Sie den Safe.	कृपया सु�
 Please make your bed.	Bitte machen Sie Ihr Bett.	कृपया अपनी बिस्तर बनाएं।
 Please memorize this.	Bitte merken Sie sich das.	कृपया इसे याद करें।
 Please memorize this. (different meaning)	Bitte prägen Sie sich das ein.	कृपया इसे स्नेहित करें।
+Please open the door.	Bitte öffnen Sie die Tür.	कृपया दरवाजा खोलें।
+Please open this box.	Bitte öffnen Sie diese Schachtel.	कृपया इस डिब्बे को खोलें।
+Please open your bag.	Bitte öffnen Sie Ihre Tasche.	कृपया अपना बैग खोलें।
+Please remain seated.	Bitte bleiben Sie sitzen.	कृपया बैठे रहें।
+Please say something.	Bitte sagen Sie etwas.	कृपया कुछ कहें।
+Please wait outside.	Bitte warten Sie draußen.	कृपया बाहर इंतजार करें।

@@ -1,14 +1,4 @@
 
-Please open the door.	Öffnen Sie bitte die Tür.	कृपया दरवाज़ा खोलें।
-Please open the door.	Bitte mach die Tür auf.	कृपया दरवाज़ा खोलें।
-Please open this box.	Öffne diesen Karton, bitte!	कृपया इस बॉक्स को खोलें!
-Please open this box.	Bitte, öffnen Sie diese Schachtel!	कृपया इस बॉक्स को खोलें!
-Please open your bag.	Öffnen Sie bitte Ihre Tasche.	कृपया अपना बैग खोलें।
-Please remain seated.	Bitte bleiben Sie sitzen.	कृपया बैठे रहें।
-Please remain seated.	Bitte bleib sitzen.	कृपया रुकें।
-Please remain seated.	Bitte bleibt sitzen.	कृपया बैठे रहें।
-Please say something.	Sag bitte etwas.	कृपया कुछ कहें।
-Please say something.	Bitte sag etwas.	कृपया कुछ कहें।
 Please set the table.	Bitte decke den Tisch.	कृपया तालिका को कवर करें।
 Please shut the door.	Mach bitte die Tür zu.	कृपया दरवाज़ा बंद करें।
 Please shut the door.	Schließe bitte die Tür!	कृपया दरवाज़ा बंद करें!
