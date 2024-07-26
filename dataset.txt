@@ -1,14 +1,4 @@
 
-What happened to Tom?	Was ist Tom passiert?	टॉम को क्या हुआ?
-What happened to Tom?	Was ist mit Tom passiert?	टॉम को क्या हुआ?
-What happened to Tom?	Was ist Tom zugestoßen?	टॉम को क्या हुआ?
-What happened to Tom?	Was ist Tom widerfahren?	टॉम को क्या हुआ?
-What happened to him?	Was ist ihm passiert?	उसे क्या हुआ?
-What happened to him?	Was geschah ihm?	उसे क्या हुआ?
-What hat do you like?	Was für einen Hut magst du?	आपको किस तरह की टोपी पसंद है?
-What have I told you?	Was habe ich dir gesagt?	मैंने तुमसे क्या कहा था?
-What have I told you?	Was habe ich Ihnen gesagt?	मैंने तुमसे क्या कहा था?
-What have you chosen?	Was haben Sie ausgesucht?	आपने क्या चुना?
 What have you picked?	Was haben Sie ausgesucht?	आपने क्या चुना?
 What he says is true.	Was er sagt, ist wahr.	वह जो कहता है वह सच है।
 What if Tom is right?	Was ist, wenn Tom recht hat?	क्या होगा अगर टॉम सही है?

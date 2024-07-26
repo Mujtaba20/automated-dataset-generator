@@ -35398,3 +35398,8 @@ What else can you do?	Was kannst du sonst noch tun?	तुम और क्य�
 What else do we have?	Was haben wir sonst noch?	हमारे पास और क्या है?
 What floor are we on?	Auf welcher Etage sind wir?	हम किस मंजिल पर हैं?
 What goes on in here?	Was passiert hier?	यहाँ क्या होता है?
+What happened to Tom?	Was ist mit Tom passiert?	टॉम के साथ क्या हुआ?
+What happened to him?	Was ist mit ihm passiert?	उसके साथ क्या हुआ?
+What hat do you like?	Welchen Hut magst du?	तुम्हें कौनसी टोपी पसंद है?
+What have I told you?	Was habe ich dir gesagt?	मैंने तुम्हें क्या कहा था?
+What have you chosen?	Was hast du gewählt?	तुमने क्या चुना है?
