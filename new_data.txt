@@ -33863,3 +33863,4 @@ They're always wrong.	Sie liegen immer falsch.	वे हमेशा गलत 
 They're best friends.	Sie sind beste Freunde.	वे सबसे अच्छे दोस्त हैं।
 They're closed today.	Sie sind heute geschlossen.	आज वे बंद हैं।
 They're coming again.	Sie kommen erneut.	वे फिर से आ रहे हैं।
+engSentence		
