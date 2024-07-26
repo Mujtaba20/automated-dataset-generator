@@ -21298,3 +21298,10 @@ I have seen enough.	Ich habe genug gesehen.	मैंने काफी दे�
 I have small hands.	Ich habe kleine Hände.	मेरे हाथ छोटे हैं।
 I have the day off.	Ich habe den Tag frei.	मेरे पास आज दिन का छुट्टा है।
 I have three books.	Ich habe drei Bücher.	मेरे पास तीन किताबें हैं।
+I have to be there.	Ich muss dort sein.	मुझे वहाँ होना चाहिए।
+I have to call Tom.	Ich muss Tom anrufen.	मुझे टॉम को कॉल करना है।
+I have to dress up.	Ich muss mich schick machen.	मुझे सजना है।
+I have to find Tom.	Ich muss Tom finden.	मुझे टॉम को ढूंढना है।
+I have to get home.	Ich muss nach Hause kommen.	मुझे घर जाना है।
+I have to get that.	Ich muss das haben.	मुझे उसे पाना है।
+I have to go alone.	Ich muss alleine gehen.	मुझे अकेले जाना है।

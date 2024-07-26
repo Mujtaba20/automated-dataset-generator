@@ -1,14 +1,4 @@
 
-I have to be there.	Ich muss dort sein.	मुझे वहां रहना है।
-I have to call Tom.	Ich muss Tom anrufen.	मुझे टॉम को फोन करना है।
-I have to dress up.	Ich muss mich schick machen.	मुझे खुद को ठाठ बनाना है।
-I have to dress up.	Ich muss mich feinmachen.	मुझे खुद को ठीक करना है।
-I have to find Tom.	Ich muss Tom finden.	मुझे टॉम ढूंढना है।
-I have to get home.	Ich muss nach Hause.	मुझे घर जाना।
-I have to get that.	Ich muss das haben.	मेरे पास वह है।
-I have to get that.	Ich muss das kriegen.	मुझे वह प्राप्त करना है।
-I have to get that.	Ich muss das bekommen.	मुझे वह प्राप्त करना है।
-I have to go alone.	Ich muss allein gehen.	मुझे अकेले जाना है।
 I have to go there.	Ich muss da hingehen.	मुझे वहाँ जाना है।
 I have to know why.	Ich muss wissen, warum.	मुझे यह जानने की जरूरत है कि क्यों।
 I have to paint it.	Ich muss es malen.	मुझे इसे पेंट करना है।
