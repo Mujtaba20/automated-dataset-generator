@@ -1,14 +1,4 @@
 
-Tom is a great player.	Tom ist ein großartiger Spieler.	टॉम एक महान खिलाड़ी है।
-Tom is a handsome guy.	Tom ist ein gutaussehender Mann.	टॉम एक अच्छा आदमी है।
-Tom is a handsome man.	Tom ist ein gutaussehender Mann.	टॉम एक अच्छा आदमी है।
-Tom is a househusband.	Tom ist Hausmann.	टॉम एक घर का आदमी है।
-Tom is a kind old man.	Tom ist ein freundlicher alter Mann.	टॉम एक दोस्ताना बूढ़ा आदमी है।
-Tom is a kleptomaniac.	Tom ist ein Kleptomane.	टॉम एक क्लेप्टोमैनियाक है।
-Tom is a late bloomer.	Tom ist ein Spätzünder.	टॉम एक देर से ब्लोमर है।
-Tom is a lazy student.	Tom ist ein fauler Student.	टॉम एक आलसी छात्र है।
-Tom is a little crazy.	Tom ist etwas verrückt.	टॉम थोड़ा पागल है।
-Tom is a little crazy.	Tom ist ein bisschen verrückt.	टॉम थोड़ा पागल है।
 Tom is a little weird.	Tom ist ein bisschen merkwürdig.	टॉम थोड़ा अजीब है।
 Tom is a lousy kisser.	Tom hat vom Küssen keine Ahnung.	टॉम को चुंबन के बारे में कोई विचार नहीं है।
 Tom is a nature lover.	Tom ist ein Naturfreund.	टॉम एक प्राकृतिक दोस्त है।

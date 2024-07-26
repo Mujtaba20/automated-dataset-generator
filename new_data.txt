@@ -40195,3 +40195,12 @@ Tom is a good swimmer.	Tom ist ein guter Schwimmer.	टॉम एक अच्�
 Tom is a good teacher.	Tom ist ein guter Lehrer.	टॉम एक अच्छे शिक्षक है।
 Tom is a great father.	Tom ist ein toller Vater.	टॉम एक महान पिता है।
 Tom is a great person.	Tom ist eine großartige Person.	टॉम एक शानदार इंसान है।
+Tom is a great player.	Tom ist ein großartiger Spieler.	टॉम एक शानदार खिलाड़ी है।
+Tom is a handsome guy.	Tom ist ein gutaussehender Kerl.	टॉम एक सुंदर आदमी है।
+Tom is a handsome man.	Tom ist ein hübscher Mann.	टॉम एक हैंडसम मैन है।
+Tom is a househusband.	Tom ist ein Hausmann.	टॉम एक घरेलू पति है।
+Tom is a kind old man.	Tom ist ein freundlicher alter Mann.	टॉम एक दयालु बूढ़ा आदमी है।
+Tom is a kleptomaniac.	Tom ist ein Kleptomane.	टॉम एक चोर है।
+Tom is a late bloomer.	Tom ist ein Spätentwickler.	टॉम एक देर से बड़ा हुआ है।
+Tom is a lazy student.	Tom ist ein fauler Schüler.	टॉम एक सुस्त छात्र है।
+Tom is a little crazy.	Tom ist ein wenig verrückt.	टॉम थोड़ा पागल है।
