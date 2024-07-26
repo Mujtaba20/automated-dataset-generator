@@ -1,14 +1,4 @@
 
-Playing cards is fun.	Karten spielen macht Spaß.	ताश मजेदार है।
-Please beat the eggs.	Schlage bitte die Eier!	कृपया अंडे मारें!
-Please choose wisely.	Wähle bitte weise.	कृपया समझदार चुनें।
-Please choose wisely.	Wähle bitte klug.	कृपया चतुर चुनें।
-Please come this way.	Hier entlang, bitte.	यह दिशा, कृपया।
-Please do it quickly.	Bitte mache es schnell.	कृपया इसे जल्दी से करें।
-Please do not buy it.	Bitte kaufe es nicht.	कृपया इसे न खरीदें।
-Please do not forget.	Bitte, vergiss nicht.	कृपया भूलें नहीं।
-Please do not forget.	Bitte nicht vergessen!	कृपया भूलें नहीं!
-Please do that again.	Bitte mach das noch einmal.	कृपया फिर से करें।
 Please don't do that.	Tu das bitte nicht!	कृपया ऐसा न करें!
 Please don't do this.	Tu das bitte nicht!	कृपया ऐसा न करें!
 Please don't go away.	Bitte gehe nicht!	कृपया मत जाओ!

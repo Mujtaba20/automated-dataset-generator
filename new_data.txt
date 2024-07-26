@@ -33236,3 +33236,13 @@ People say I'm obese.	Leute sagen, ich bin fettleibig.	लोग कहते �
 People were watching.	Leute haben zugeschaut.	लोग देख रहे थे।
 Perhaps he will come.	Vielleicht kommt er.	शायद वह आएगा।
 Perhaps you're right.	Vielleicht hast du recht.	शायद तुम सही हो।
+Playing cards is fun.	Kartenspielen macht Spaß.	ताश खेलना मजेदार है।
+Please beat the eggs.	Bitte schlage die Eier.	कृपया अंडे मारो।
+Please choose wisely.	Bitte wähle weise.	कृपया समझदारी से चुनें।
+Please choose carefully.	Bitte wähle sorgfältig.	कृपया सावधानी से चुनें।
+Please come this way.	Bitte komm diese Richtung.	कृपया इस तरफ आइए।
+Please do it quickly.	Bitte mach es schnell.	कृपया इसे तेजी से करें।
+Please do not buy it.	Bitte kaufe es nicht.	कृपया इसे न खरीदें।
+Please do not forget.	Bitte vergiss nicht.	कृपया मत भूलिए।
+Please do not neglect.	Bitte vernachlässige nicht.	कृपया उपेक्षा न करें।
+Please do that again.	Bitte mach das nochmal.	कृपया वह फिरसे करें।
