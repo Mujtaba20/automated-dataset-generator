@@ -28507,3 +28507,12 @@ This seems unlikely.	Das scheint unwahrscheinlich.	यह असंभावि�
 This seems unlikely. (Different meaning)	Das erscheint unwahrscheinlich.	यह अप्रमाणिक लगता है।
 This song is catchy.	Dieser Song ist eingängig.	यह गाना मनमोहक है।
 This song is stupid.	Dieser Song ist dumm.	यह गाना बेवकूफ है।
+This table is clean.	Dieser Tisch ist sauber.	यह टेबल साफ है।
+This table is heavy.	Dieser Tisch ist schwer.	यह मेज़ भारी है।
+This tooth is loose.	Dieser Zahn ist locker.	यह दांत ढीला है।
+This was Tom's idea.	Das war Toms Idee.	यह टॉम की विचारधारा थी।
+This was my mistake.	Das war mein Fehler.	यह मेरी गलती थी।
+This wasn't my idea.	Das war nicht meine Idee.	यह मेरा विचार नहीं था।
+This way, gentlemen!	So, meine Herren!	इस तरह, सर्दार जी!
+This will do nicely.	Das wird gut sein.	यह अच्छा होगा।
+This will take time.	Es wird Zeit brauchen.	इसे समय लगेगा।

@@ -1,14 +1,4 @@
 
-This table is clean.	Dieser Tisch ist sauber.	यह तालिका साफ है।
-This table is heavy.	Dieser Tisch ist schwer.	यह तालिका मुश्किल है।
-This tooth is loose.	Dieser Zahn ist locker.	यह दांत ढीला है।
-This was Tom's idea.	Das war Toms Idee.	वह टॉम का विचार था।
-This was my mistake.	Das war mein Fehler.	यह मेरी गलती थी।
-This wasn't my idea.	Das war nicht meine Idee.	यह मेरा विचार नहीं था।
-This way, gentlemen!	Hier entlang, meine Herren!	यहाँ के साथ, सज्जनों!
-This will do nicely.	Damit wird es funktionieren.	यह काम करेगा।
-This will take time.	Das wird dauern.	उस समय लगने वाला है।
-This will take time.	Das wird Zeit brauchen.	इसमें समय लगेगा।
 This winter is warm.	Dieser Winter ist warm.	यह सर्दी गर्म है।
 This won't end well.	Das wird nicht gut ausgehen.	यह अच्छी तरह से बाहर नहीं जाएगा।
 Those are my orders.	So lauten meine Befehle.	तो मेरी आज्ञाएँ हैं।
