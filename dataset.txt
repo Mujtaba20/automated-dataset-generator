@@ -1,14 +1,4 @@
 
-Is that a new perfume?	Ist das ein neues Parfüm?	क्या यह एक नया इत्र है?
-Is that a yes or a no?	Ist das ein Ja oder ein Nein?	यह एक हां या नहीं है?
-Is that an invitation?	Ist das eine Einladung?	क्या यह एक निमंत्रण है?
-Is that clock working?	Geht diese Uhr?	क्या यह घड़ी जाती है?
-Is that how you do it?	Machst du das so?	क्या तुम वो करते हो?
-Is that my toothbrush?	Ist das meine Zahnbürste?	क्या यह मेरा टूथब्रश है?
-Is that peanut butter?	Ist das Erdnussbutter?	क्या वह मूंगफली का मक्खन है?
-Is that something new?	Ist das etwas Neues?	क्या यह कुछ नया है?
-Is that still my room?	Ist das immer noch mein Raum?	क्या यह अभी भी मेरा स्थान है?
-Is that still my room?	Ist das immer noch mein Zimmer?	क्या वह अभी भी मेरा कमरा है?
 Is that too difficult?	Ist das zu schwierig?	क्या यह बहुत मुश्किल है?
 Is that what Tom said?	Hat Tom das gesagt?	क्या टॉम ने ऐसा कहा?
 Is that what Tom said?	Ist es das, was Tom gesagt hat?	क्या यह टॉम ने कहा है?

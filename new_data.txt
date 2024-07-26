@@ -38426,3 +38426,12 @@ Is someone calling me?	Ruft mich jemand an?	क्या कोई मुझे 
 Is that Tom's bedroom?	Ist das Toms Schlafzimmer?	क्या ये टॉम का बेडरूम है?
 Is that Tom's bicycle?	Ist das Toms Fahrrad?	क्या यह टॉम की साइकिल है?
 Is that a common name?	Ist das ein häufiger Name?	क्या यह एक सामान्य नाम है?
+Is that a new perfume?	Ist das ein neues Parfum?	क्या यह एक नया इत्र है?
+Is that a yes or a no?	Ist das ein Ja oder ein Nein?	क्या यह हाँ है या नहीं?
+Is that an invitation?	Ist das eine Einladung?	क्या यह एक निमंत्रण है?
+Is that clock working?	Funktioniert diese Uhr?	क्या वह घड़ी काम कर रही है?
+Is that how you do it?	Ist das, wie du es machst?	क्या यह तुम इसे ऐसे ही करते हो?
+Is that my toothbrush?	Ist das meine Zahnbürste?	क्या यह मेरी टूथब्रश है?
+Is that peanut butter?	Ist das Erdnussbutter?	क्या वह मूँगफली की मक्खन है?
+Is that something new?	Ist das etwas Neues?	क्या यह कोई नया चीज़ है?
+Is that still my room?	Ist das immer noch mein Zimmer?	क्या यह अभी भी मेरा कमरा है?
