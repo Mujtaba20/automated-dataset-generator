@@ -26097,3 +26097,10 @@ I can't do anything.	Ich kann nichts tun.	मैं कुछ नहीं क�
 I can't do it alone.	Ich kann es nicht alleine machen.	मैं यह अकेले नहीं कर सकता।
 I can't do that now.	Das kann ich jetzt nicht machen.	मैं अब यह नहीं कर सकता।
 I can't do this now.	Das kann ich jetzt nicht machen.	मैं अब यह नहीं कर सकता।
+I can't drive a bus.	Ich kann keinen Bus fahren.	मैं बस नहीं चला सकता।
+I can't eat chicken.	Ich kann kein Hähnchen essen.	मैं मुर्गा नहीं खा सकता।
+I can't eat peanuts.	Ich kann keine Erdnüsse essen.	मैं मूंगफली नहीं खा सकता।
+I can't fall asleep.	Ich kann nicht einschlafen.	मैं सोने के लिए नहीं सकता।
+I can't find my bag.	Ich kann meine Tasche nicht finden.	मैं अपना बैग नहीं ढूंढ सकता।
+I can't find my key.	Ich kann meinen Schlüssel nicht finden.	मैं अपनी चाबी नहीं ढूंढ सकता।
+I can't forgive her.	Ich kann ihr nicht vergeben.	मैं उसे माफ़ नहीं कर सकता।

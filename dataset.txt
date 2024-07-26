@@ -1,14 +1,4 @@
 
-I can't drive a bus.	Ich kann keinen Bus fahren.	मैं एक बस नहीं चला सकता।
-I can't eat chicken.	Ich kann kein Hühnchen essen.	मैं चिकन नहीं खा सकता।
-I can't eat chicken.	Ich kann kein Huhn essen.	मैं चिकन नहीं खा सकता।
-I can't eat peanuts.	Ich kann keine Erdnüsse essen.	मैं मूंगफली नहीं खा सकता।
-I can't fall asleep.	Ich kann nicht einschlafen.	मुझे नींद नहीं।
-I can't find my bag.	Ich kann meine Tasche nicht finden.	मुझे अपना बैग नहीं मिल रहा है।
-I can't find my key.	Ich kann meinen Schlüssel nicht finden.	मुझे अपनी चाबी नहीं मिल रही है।
-I can't find my key.	Ich finde meinen Schlüssel nicht.	मुझे अपनी चाबी नहीं मिल रही है।
-I can't find my pen.	Ich kann meinen Kuli nicht finden.	मुझे अपना कुली नहीं मिल रहा है।
-I can't forgive her.	Ich kann ihr nicht verzeihen.	मैं उसे माफ नहीं कर सकता।
 I can't get over it.	Ich komme nicht darüber hinweg.	मैं इसे खत्म नहीं कर सकता।
 I can't go anywhere.	Ich kann nirgendwohin gehen.	मैं कहीं नहीं जा सकता।
 I can't go back now.	Ich kann jetzt nicht zurückkehren.	मैं अब नहीं लौट सकता।
