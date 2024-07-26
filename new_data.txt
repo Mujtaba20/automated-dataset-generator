@@ -25859,3 +25859,13 @@ He's scared of dogs.	Er hat Angst vor Hunden.	उसे कुत्तों �
 He's taller than me.	Er ist größer als ich.	वह मुझसे ऊँचा है।
 He's the oldest son.	Er ist der älteste Sohn.	वह सबसे बड़ा बेटा है।
 He's too old for me.	Er ist zu alt für mich.	वह मेरे लिए बहुत पुराना है।
+He's tough on crime.	Er ist hart gegen Kriminalität.	वह कठोर है अपराध पर।
+He's very skeptical.	Er ist sehr skeptisch.	वह बहुत संदेही है।
+Her bicycle is blue.	Ihr Fahrrad ist blau.	उसकी साईकिल नीली है।
+Her cheeks were red.	Ihre Wangen waren rot.	उसकी गालें लाल थीं।
+Her manner was cold.	Ihre Art war kalt.	उसका तरीका था सर्द।
+Her novel sold well.	Ihr Roman verkaufte sich gut.	उसकी काव्यरचना अच्छे से बिकी।
+Her parents hate me.	Ihre Eltern hassen mich.	उसके माता-पिता मुझसे नफरत करते हैं।
+Her speech bored me.	Ihre Rede langweilte mich.	उसके भाषण ने मुझे उबाया।
+Her whole body hurt.	Ihr ganzer Körper tat weh.	उसके पूरे शरीर में दर्द था।
+Here is your change.	Hier ist dein Wechselgeld.	यहाँ आपका बदला है।
