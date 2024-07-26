@@ -1,14 +1,4 @@
 
-Tom looked bewildered.	Tom sah verwirrt aus.	टॉम उलझन में लग रहा था।
-Tom looked good today.	Tom sah heute gut aus.	टॉम आज अच्छा लग रहा था।
-Tom looked thoughtful.	Tom sah nachdenklich aus.	टॉम विचारशील लग रहा था।
-Tom looked very happy.	Tom sah sehr glücklich aus.	टॉम बहुत खुश लग रहा था।
-Tom looked very tired.	Tom sah sehr müde aus.	टॉम बहुत थक गए।
-Tom looked very upset.	Tom sah sehr verärgert aus.	टॉम बहुत गुस्से में लग रहा था।
-Tom looked very young.	Tom sah sehr jung aus.	टॉम बहुत छोटा लग रहा था।
-Tom looks a bit tired.	Tom sieht ein bisschen müde aus.	टॉम थोड़ा थका हुआ दिखता है।
-Tom looks happy today.	Tom sieht heute glücklich aus.	टॉम आज खुश लग रहा है।
-Tom looks like a girl.	Tom sieht wie ein Mädchen aus.	टॉम एक लड़की की तरह दिखता है।
 Tom looks really good.	Tom sieht wirklich gut aus.	टॉम वास्तव में अच्छा लग रहा है।
 Tom looks unconvinced.	Tom sieht nicht überzeugt aus.	टॉम आश्वस्त नहीं दिखता।
 Tom looks very afraid.	Tom sieht sehr ängstlich aus.	टॉम बहुत भयभीत लग रहा है।

@@ -40511,3 +40511,13 @@ Tom lives like a king.	Tom lebt wie ein König.	टॉम एक राजा �
 Tom lives like a monk.	Tom lebt wie ein Mönch.	टॉम एक साधु की तरह जीता है।
 Tom looked a bit sick.	Tom sah ein bisschen krank aus.	टॉम कुछ बीमार लग रहा था।
 Tom looked at his dog.	Tom schaute seinen Hund an.	टॉम अपने कुत्ते की ओर देख रहा था।
+Tom looked bewildered.	Tom sah verwirrt aus.	टॉम चकित लग रहा था।
+Tom looked good today.	Tom sah heute gut aus.	टॉम आज अच्छे लग रहे थे।
+Tom looked thoughtful.	Tom wirkte nachdenklich.	टॉम सोचमें डूबे हुए लग रहे थे।
+Tom looked very happy.	Tom sah sehr glücklich aus.	टॉम बहुत खुश लग रहे थे।
+Tom looked very tired.	Tom sah sehr müde aus.	टॉम बहुत थके हुए लग रहे थे।
+Tom looked very upset.	Tom sah sehr verärgert aus.	टॉम बहुत परेशान लग रहे थे।
+Tom looked very young.	Tom sah sehr jung aus.	टॉम बहुत जवान लग रहे थे।
+Tom looks a bit tired.	Tom wirkt ein bisschen müde.	टॉम थोड़ा थका हुआ दिख रहा है।
+Tom looks happy today.	Tom wirkt heute glücklich.	टॉम आज खुश लग रहे हैं।
+Tom looks like a girl.	Tom sieht aus wie ein Mädchen.	टॉम एक लड़की जैसा दिखता है।
