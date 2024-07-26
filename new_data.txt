@@ -32330,3 +32330,9 @@ I'd like to lie down.	Ich würde gerne liegen.	मैं सोना चाह�
 I'd like to meet you.	Ich würde dich gerne treffen.	मझे आपसे मिलना है।
 I'd like to see that.	Ich würde das gerne sehen.	मुझे वह देखना है।
 I'd like to watch TV.	Ich würde gerne fernsehen.	मैं टीवी देखना पसंद करूंगा।
+I'd like you to stop.	Ich möchte, dass du aufhörst.	मैं चाहूं कि तुम रुको।
+I'd love to meet Tom.	Ich würde Tom gerne treffen.	मैं टॉम से मिलने के लिए बहुत उत्साही हूं।
+I'd love to meet him.	Ich würde ihn gerne treffen.	मैं उससे मिलने के लिए उत्साहित हूं।
+I'd love to meet you.	Ich würde dich gerne treffen.	मैं तुमसे मिलने के लिए बहुत उत्साही हूं।
+I'd love to see them.	Ich würde sie gerne sehen.	मैं उन्हें देखने के लिए बहुत उत्साही हूं।
+I'd never get caught.	Ich würde niemals erwischt werden.	मैं कभी पकड़ा नहीं जाऊंगा।
