@@ -21356,3 +21356,13 @@ I just got engaged.	Ich habe mich gerade verlobt.	मैं अभी सगा�
 I just want to die.	Ich will einfach sterben.	मैं बस मरना चाहता हूँ।
 I just want to win.	Ich will einfach siegen.	मैं बस जीतना चाहता हूँ।
 I kept Tom waiting.	Ich hielt Tom auf.	मैंने टॉम को इंतजार में रखा।
+I killed them both.	Ich habe sie beide getötet.	मैंने उन दोनों को मार दिया।
+I kind of miss Tom.	Ich vermisse Tom irgendwie.	मुझे थोड़ा-थोड़ा तोम की याद आ रही है।
+I knew Tom was shy.	Ich wusste, dass Tom schüchtern war.	मुझे पता था कि टॉम शर्मीला था।
+I knew where to go.	Ich wusste, wohin ich gehen sollte.	मुझे पता था कि कहाँ जाना है।
+I knew your father.	Ich kannte deinen Vater.	मैं तुम्हारे पिता को जानता था।
+I know Boston well.	Ich kenne Boston gut.	मुझे बॉस्टन अच्छे से पता है।
+I know Boston well. - Different meaning	Ich weiß, wo Boston gut ist.	मुझे पता है कि बॉस्टन कहाँ है।
+I know I'm adopted.	Ich weiß, dass ich adoptiert bin.	मुझे पता है कि मैं गोद लिया गया हूँ।
+I know Tom is deaf.	Ich weiß, dass Tom taub ist.	मुझे पता है कि टॉम बहरा है।
+I know Tom is fast.	Ich weiß, dass Tom schnell ist.	मुझे पता है कि टॉम तेज़ है।
