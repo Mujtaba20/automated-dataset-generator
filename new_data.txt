@@ -33527,3 +33527,11 @@ That sounds exciting.	Das klingt aufregend.	वह बहुत रोमां�
 That sounds horrible.	Das klingt furchtbar.	वह भयानक सुनाई दे रहा है।
 That sounds like Tom.	Das hört sich nach Tom an.	वह टॉम की तरह लग रहा है।
 That sounds like fun.	Das klingt nach Spaß.	वह मज़ेदार लग रहा है।
+That sounds sensible.	Das klingt vernünftig.	वह समझदार लगता है।
+That sounds terrible.	Das klingt schrecklich.	यह भयानक लग रहा है।
+That tastes terrible.	Das schmeckt furchtbar.	वह भरोसेमंद लगता है।
+That tree looks dead.	Dieser Baum sieht tot aus.	वह पेड़ मुर्दा लगता है।
+That was Tom's fault.	Das war Toms Schuld.	यह टॉम की गलती थी।
+That was a close one.	Das war knapp.	वह निकट था।
+That was a good sign.	Das war ein gutes Zeichen.	वह एक अच्छा संकेत था।
+That was a good time.	Das war eine gute Zeit.	वह अच्छा समय था।
