@@ -21853,3 +21853,13 @@ I'll miss Tom, too.	Ich werde Tom auch vermissen.	मैं टॉम को भ
 I'll miss you guys.	Ich werde euch vermissen.	मैं तुम लोगों को याद करूँगा।
 I'll miss you, Tom.	Ich werde dich vermissen, Tom.	मैं तुझे याद करूँगा, टॉम।
 I'll miss you, too.	Ich werde dich auch vermissen.	मैं तुम्हें भी याद करूँगा।
+I'll pay for lunch.	Ich werde für das Mittagessen bezahlen.	मैं लंच के लिए भुगतान करूँगा।
+I'll play with you.	Ich werde mit dir spielen.	मैं तुम्हारे साथ खेलूँगा।
+I'll remember that.	Das werde ich mir merken.	मैं उसे याद रखूँगा।
+I'll ring you back.	Ich rufe dich zurück.	मैं फिर से तुम्हें फोन करूँगा।
+I'll see Tom today.	Ich werde heute Tom sehen.	मैं आज टॉम से मिलूँगा।
+I'll see him again.	Ich werde ihn wiedersehen.	मैं उसे फिरसे देखूँगा।
+I'll see you again.	Ich werde dich wiedersehen.	मैं फिरसे तुम्हें देखूँगा।
+I'll see you later.	Bis später!	बाद में मिलेंगे!
+I'll see you there.	Ich werde dich dort sehen.	मैं तुम्हें वहाँ देखूँगा।
+I'll set the table.	Ich werde den Tisch decken.	मैं मेज सजाऊँगा।
