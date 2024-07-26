@@ -21074,3 +21074,11 @@ I bet you're right.	Ich wette, du hast recht.	मैं दावा करत�
 I bought a T-shirt.	Ich habe ein T-Shirt gekauft.	मैंने एक टी-शर्ट खरीदी।
 I bought a new car.	Ich habe ein neues Auto gekauft.	मैंने एक नई कार खरीदी।
 I bought a red tie.	Ich habe eine rote Krawatte gekauft.	मैंने एक लाल टाई खरीदी।
+I broke Tom's nose.	Ich habe Toms Nase gebrochen.	मैंने टॉम की नाक तोड़ दी।
+I burned my finger.	Ich habe mir den Finger verbrannt.	मैंने अपनी उंगली जला दी।
+I burned the paper.	Ich habe das Papier verbrannt.	मैंने कागज जला दिया।
+I called Tom today.	Ich habe heute Tom angerufen.	मैंने आज टॉम को फोन किया।
+I called my father.	Ich habe meinen Vater angerufen.	मैंने अपने पिता को फोन किया।
+I called my lawyer.	Ich habe meinen Anwalt angerufen.	मैंने अपने वकील को फोन किया।
+I came to warn you.	Ich bin hier, um dich zu warnen.	मैं तुम्हें चेतावनी देने आया हूँ।
+I can be courteous.	Ich kann höflich sein.	मैं विनम्र हो सकता हूँ।

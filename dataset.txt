@@ -1,14 +1,4 @@
 
-I broke Tom's nose.	Ich habe Tom die Nase gebrochen.	मैंने नाक तोड़ दी।
-I burned my finger.	Ich habe mir den Finger verbrannt.	मैंने अपनी उंगली जला दी।
-I burned the paper.	Ich habe das Papier verbrannt.	मैंने कागज जला दिया।
-I called Tom today.	Ich habe heute Tom angerufen.	मैंने आज टॉम को फोन किया।
-I called my father.	Ich rief meinen Vater an.	मैंने अपने पिता को फोन किया।
-I called my lawyer.	Ich rief meinen Anwalt an.	मैंने अपने वकील को फोन किया।
-I came to warn you.	Ich bin gekommen, um dich zu warnen.	मैं आपको चेतावनी देने आया था।
-I came to warn you.	Ich bin gekommen, um euch zu warnen.	मैं आपको चेतावनी देने आया था।
-I came to warn you.	Ich bin gekommen, um Sie zu warnen.	मैं उसे चेतावनी देने आया था।
-I can be courteous.	Ich kann höflich sein.	मैं विनम्र हो सकता हूं।
 I can confirm that.	Ich kann das bestätigen.	मैं इसकी पुष्टि कर सकता हूं।
 I can confirm this.	Ich kann das bestätigen.	मैं इसकी पुष्टि कर सकता हूं।
 I can do it myself.	Ich kann es selbst machen.	इसे स्वयं मेरे द्वारा किया जा सकता है।
