@@ -22197,3 +22197,10 @@ It can be repaired.	Es kann repariert werden.	इसे मरम्मत क�
 It can't be helped.	Es ist nicht zu ändern.	इसमें मदद नहीं की जा सकती।
 It can't be helped. - Different meaning	Es kann nicht vermieden werden.	इसमें मदद नहीं की जा सकती।
 It can't get worse.	Es kann nicht schlimmer werden.	यह और बुरा नहीं हो सकता।
+It changed my life.	Es hat mein Leben verändert.	यह मेरा जीवन बदल दिया।
+It could be a hoax.	Es könnte ein Schwindel sein.	यह एक छल हो सकता है।
+It could be a trap.	Es könnte eine Falle sein.	यह एक जाल हो सकता है।
+It could be anyone.	Es könnte jeder sein.	यह किसी भी हो सकता है।
+It couldn't be Tom.	Es könnte nicht Tom sein.	यह टॉम नहीं हो सकता।
+It didn't end well.	Es endete nicht gut.	यह अच्छे तरह समाप्त नहीं हुआ।
+It does get easier.	Es wird leichter.	यह आसान हो जाता है।
