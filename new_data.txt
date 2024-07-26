@@ -30141,3 +30141,11 @@ You can't sit there.	Du kannst nicht dort sitzen.	तुम वहाँ बै�
 You can't stay here.	Du kannst hier nicht bleiben.	तुम यहाँ ठहर नहीं सकते।
 You can't swim here.	Du kannst hier nicht schwimmen.	तुम यहाँ तैर नहीं सकते।
 You could do better.	Du könntest es besser machen.	तुम बेहतर कर सकते थे।
+You could let us go.	Du könntest uns gehen lassen.	तुम हमें जाने दे सकते थे।
+You deserve a prize.	Du verdienst einen Preis.	तुम्हें एक पुरस्कार का हकदार है।
+You did a great job.	Du hast einen tollen Job gemacht.	तुमने बहुत अच्छा काम किया।
+You did really well.	Du hast wirklich gut gemacht.	तुमने सचमुच अच्छा काम किया।
+You didn't even cry.	Du hast nicht einmal geweint.	तुमने नहीं रोया।
+You didn't even try.	Du hast es nicht einmal versucht.	तुमने नहीं कोशिश की।
+You disappointed me.	Du hast mich enttäuscht.	तुमने मुझे निराश किया।
+You do have a point.	Du hast recht.	तुम्हारा यह सिद्धांत सही है।

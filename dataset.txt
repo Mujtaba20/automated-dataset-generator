@@ -1,15 +1,4 @@
 
-You could let us go.	Du könntest uns gehen lassen.	आप हमें जाने दे सकते हैं।
-You deserve a prize.	Sie verdienen einen Preis.	आप एक कीमत कमाते हैं।
-You did a great job.	Du hast richtig gute Arbeit geleistet.	आपने वास्तव में अच्छा काम किया।
-You did really well.	Das hast du richtig gut gemacht.	आपने वास्तव में अच्छा किया।
-You didn't even cry.	Du hast nicht einmal geweint.	तुम भी रोया नहीं था।
-You didn't even try.	Du hast dir nicht die geringste Mühe gegeben.	आपने थोड़ा प्रयास नहीं किया।
-You disappointed me.	Du hast mich enttäuscht.	तुमने मुझे निराश किया है।
-You disappointed me.	Sie haben mich enttäuscht.	आपने मुझे निराश किया।
-You disappointed me.	Ihr habt mich enttäuscht.	आपने मुझे निराश किया।
-You do have a point.	Du hast nicht ganz unrecht.	आप पूरी तरह से गलत नहीं हैं।
-You do have a point.	Du hast in gewisser Weise recht.	आप एक तरह से सही हैं।
 You don't know that.	Das weißt du doch gar nicht.	आप यह भी नहीं जानते हैं।
 You don't know them.	Du kennst sie nicht.	तुम उसे नहीं जानते।
 You don't know them.	Ihr kennt sie nicht.	आप उन्हें नहीं जानते।
