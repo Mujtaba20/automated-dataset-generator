@@ -1,15 +1,4 @@
 
-You guys are amazing.	Ihr seid unglaublich.	आप अनोखे हो।
-You guys are awesome!	Ihr seid super!	आप कमाल हैं!
-You have a good plan.	Du hast einen guten Plan.	आपके पास एक अच्छी योजना है।
-You have been warned.	Du bist gewarnt worden.	आपको चेतावनी दी गई है।
-You have betrayed us.	Du hast uns verraten.	आपने हमें प्रकट किया।
-You have betrayed us.	Ihr habt uns verraten.	आपने हमें प्रकट किया।
-You have betrayed us.	Sie haben uns verraten.	आपने हमें प्रकट किया।
-You have my blessing.	Du hast meinen Segen.	आपको मेरा आशीर्वाद है।
-You have my blessing.	Sie haben meinen Segen.	आपको मेरा आशीर्वाद है।
-You have no evidence.	Du hast keine Beweise.	आपके पास कोई सबूत नहीं है।
-You have no evidence.	Sie haben keine Beweise.	आपके पास कोई सबूत नहीं है।
 You have no messages.	Du hast keine Nachrichten.	आपके पास कोई संदेश नहीं है।
 You have no messages.	Sie haben keine Nachrichten.	आपके पास कोई संदेश नहीं है।
 You have to call Tom.	Du musst Tom anrufen.	आपको टॉम को फोन करना होगा।

@@ -35796,3 +35796,10 @@ You don't talk a lot.	Du redest nicht viel.	तुम बहुत बात न
 You don't understand.	Du verstehst nicht.	तुम्हे समझ में नहीं आता।
 You don't waste time.	Du verlierst keine Zeit.	तुम समय नहीं गया करते।
 You got away with it.	Du bist damit davongekommen.	तुमने इसके साथ बच गए।
+You guys are amazing.	Ihr seid erstaunlich.	तुम लोग अद्भुत हो।
+You guys are awesome!	Ihr seid großartig!	तुम लोग शानदार हो!
+You have a good plan.	Du hast einen guten Plan.	तुम्हारे पास एक अच्छा योजना है।
+You have been warned.	Du wurdest gewarnt.	तुम्हें चेताया गया है।
+You have betrayed us.	Du hast uns verraten.	तुमने हमें धोखा दिया है।
+You have my blessing.	Du hast meinen Segen.	तुम्हारे पास मेरा आशीर्वाद है।
+You have no evidence.	Du hast keine Beweise.	तुम्हारे पास कोई सबूत नहीं है।
