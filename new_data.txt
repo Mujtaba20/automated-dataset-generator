@@ -36150,3 +36150,11 @@ Beware of pickpockets. (Different Meaning)	Hüten Sie sich vor Langfingern.	ज�
 Birds have sharp eyes.	Vögel haben scharfe Augen.	पंछी के तीखे आंखें होती हैं।
 Boil the milk bottles.	Kochen Sie die Milchflaschen.	दूध की बोतलें उबालें।
 Boston is a nice city.	Boston ist eine schöne Stadt.	बोस्टन एक अच्छा शहर है।
+Boston is my home now.	Boston ist jetzt mein Zuhause.	बोस्टन अब मेरा घर है।
+Boston is my hometown.	Boston ist meine Heimatstadt.	बोस्टन मेरे गाँव के समीप है।
+Both claims are false.	Beide Behauptungen sind falsch.	दोनों दावे गलत हैं।
+Both men were rescued.	Beide Männer wurden gerettet.	दोनों पुरुषों को बचाया गया था।
+Both of them are busy.	Beide von ihnen sind beschäftigt.	वे दोनों व्यस्त हैं।
+Both of you are right.	Ihr habt beide recht.	तुम दोनों सही हो।
+Both stories are true.	Beide Geschichten sind wahr.	दोनों कहानियाँ सच्ची हैं।
+Both were intoxicated.	Beide waren betrunken.	दोनों नशे में थे।
