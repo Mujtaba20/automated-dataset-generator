@@ -40472,3 +40472,12 @@ Tom knows how to cook.	Tom weiß, wie man kocht.	टॉम को खाना �
 Tom knows how to dive.	Tom weiß, wie man taucht.	टॉम को डाइव करने का तरीका पता है।
 Tom knows how to swim.	Tom weiß, wie man schwimmt.	टॉम को तैरने का तरीका पता है।
 Tom knows some French.	Tom kann etwas Französisch.	टॉम को कुछ फ्रेंच आता है।
+Tom knows what to say.	Tom weiß, was er sagen soll.	टॉम को पता है कि क्या कहना है।
+Tom knows what we did.	Tom weiß, was wir getan haben.	टॉम को पता है कि हमने क्या किया।
+Tom knows what's good.	Tom weiß, was gut ist.	टॉम को पता है कि क्या अच्छा है।
+Tom knows where it is.	Tom weiß, wo es ist.	टॉम को पता है कि यह कहाँ है।
+Tom knows who Mary is.	Tom weiß, wer Maria ist.	टॉम को पता है कि मैरी कौन है।
+Tom knows who you are.	Tom weiß, wer du bist.	टॉम को पता है कि तुम कौन हो।
+Tom knows you're here.	Tom weiß, dass du hier bist.	टॉम को पता है कि तुम यहाँ हो।
+Tom lacks flexibility.	Tom fehlt es an Flexibilität.	टॉम को लचीलापन की कमी है।
+Tom lacks imagination.	Tom fehlt es an Vorstellungskraft.	टॉम की कल्पनाशक्ति की कमी है।

@@ -1,14 +1,4 @@
 
-Tom knows what to say.	Tom weiß, was er zu sagen hat.	टॉम जानता है कि उसे क्या कहना है।
-Tom knows what we did.	Tom weiß, was wir getan haben.	टॉम जानता है कि हमने क्या किया।
-Tom knows what's good.	Tom weiß, was gut ist.	टॉम जानता है कि क्या अच्छा है।
-Tom knows where it is.	Tom weiß, wo es ist.	टॉम जानता है कि यह कहाँ है।
-Tom knows who Mary is.	Tom weiß, wer Maria ist.	टॉम जानता है कि मारिया कौन है।
-Tom knows who you are.	Tom weiß, wer du bist.	टॉम जानता है कि आप कौन हैं।
-Tom knows who you are.	Tom weiß, wer ihr seid.	टॉम जानता है कि आप कौन हैं।
-Tom knows you're here.	Tom weiß, dass du hier bist.	टॉम जानता है कि आप यहाँ हैं।
-Tom lacks flexibility.	Es fehlt Tom an Flexibilität.	टॉम में लचीलेपन की कमी है।
-Tom lacks imagination.	Tom hat keine Phantasie.	टॉम की कोई कल्पना नहीं है।
 Tom lacks persistence.	Es mangelt Tom an Durchhaltevermögen.	टॉम में दृढ़ता की कमी है।
 Tom laid down the gun.	Tom legte die Pistole nieder.	टॉम ने पिस्तौल को नीचे रखा।
 Tom laughed nervously.	Tom lachte nervös.	टॉम घबराकर हँसे।
