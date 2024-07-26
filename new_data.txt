@@ -20887,3 +20887,13 @@ He works at a bank.	Er arbeitet in einer Bank.	वह एक बैंक मे
 He works in a bank.	Er arbeitet bei einer Bank.	वह एक बैंक में काम करता है।
 He works very hard.	Er arbeitet sehr hart.	वह बहुत मेहनत करता है।
 He yelled for help.	Er rief nach Hilfe.	उसने मदद के लिए चिल्लाया।
+He'll be back soon.	Er wird bald zurück sein.	वह जल्द ही वापस आएगा।
+He'll be here soon.	Er wird bald hier sein.	वह जल्द ही यहाँ होगा।
+He'll win for sure.	Er wird sicherlich gewinnen.	वह निश्चित रूप से जीतेगा।
+He's a bit jealous.	Er ist ein wenig eifersüchtig.	वह थोड़ी सी ईर्ष्या करता है।
+He's a creationist.	Er ist Kreationist.	वह परम्परावादी है।
+He's a filthy liar.	Er ist ein schmutziger Lügner.	वह एक गंदा झूठा है।
+He's a ghostwriter.	Er ist ein Ghostwriter.	वह एक गोस्टराइटर है।
+He's a good person.	Er ist eine gute Person.	वह एक अच्छे इंसान है।
+He's a little nuts.	Er ist ein bisschen verrückt.	वह थोड़ा पागल है।
+He's a little pale.	Er ist etwas blass.	वह थोड़ा सा पीला है।
