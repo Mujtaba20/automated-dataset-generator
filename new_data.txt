@@ -26380,3 +26380,10 @@ I hope you can come.	Ich hoffe, du kannst kommen.	मुझे आशा है 
 I hope you have fun.	Ich hoffe, du hast Spaß.	मुझे उम्मीद है कि तुम मज़े करो।
 I hope Tom says yes. 2	Ich hoffe, Tom sagt ja.	मुझे कामना है कि टॉम हाँ कहे।
 I hope you can come. 2	Ich hoffe, du kommst.	मुझे आशा है कि तुम आ सको।
+I hope you're right.	Ich hoffe, du hast recht.	मुझे आशा है कि आप सही हो।
+I hung up the phone.	Ich habe aufgelegt.	मैंने फ़ोन को काट दिया।
+I just don't get it.	Ich verstehe es einfach nicht.	मुझे बस समझ में नहीं आता।
+I just got promoted.	Ich wurde gerade befördert.	मैं अभी हाल ही में पदोन्नति हुआ।
+I just had it fixed.	Ich habe es gerade repariert bekommen.	मैंने बस यह ठीक करवा लिया।
+I just had to do it.	Ich musste es einfach tun.	मुझे बस यह करना था।
+I just picked it up.	Ich habe es einfach abgeholt.	मैंने बस यह उठा लिया।
