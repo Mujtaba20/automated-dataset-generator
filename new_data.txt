@@ -27790,3 +27790,9 @@ Please don't get up. 2	Bitte setz dich nicht auf.	कृपया उठने �
 Please don't mumble.	Bitte nuschle nicht.	कृपया कुद्दाद न करें।
 Please don't mumble. 1	Bitte murmel nicht.	कृपया कुद्दाद न करें।
 Please drive faster.	Bitte fahren Sie schneller.	कृपया जल्दी चलाएं।
+Please feed the cat.	Bitte füttere die Katze.	क्रपया बिल्ली को खिलाएं।
+Please feed the dog.	Bitte füttere den Hund.	कृपया कुत्ता खिलाएं।
+Please go to school.	Bitte geh zur Schule.	कृपया स्कूल जाओ।
+Please have a drink.	Bitte trink etwas.	कृपया कुछ पिएं।
+Please help me cook.	Bitte hilf mir beim Kochen.	कृपया मुझे पकाने में मदद करें।
+Please let me do it.	Bitte lass mich das tun.	कृपया मुझे यह करने दें।

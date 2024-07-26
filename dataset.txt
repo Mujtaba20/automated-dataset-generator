@@ -1,15 +1,4 @@
 
-Please feed the cat.	Füttere bitte die Katze!	कृपया बिल्ली को खिलाएं!
-Please feed the cat.	Gib bitte der Katze zu fressen.	कृपया बिल्ली को खाने के लिए दें।
-Please feed the dog.	Füttere bitte den Hund!	कृपया कुत्ते को खिलाएं!
-Please feed the dog.	Bitte gib dem Hund zu fressen.	कृपया कुत्ते को खाने के लिए दें।
-Please go to school.	Bitte geh in die Schule.	कृपया स्कूल जाएं।
-Please go to school.	Bitte geht in die Schule.	कृपया स्कूल जाएं।
-Please have a drink.	Bitte, trink etwas!	कृपया कुछ पिएं!
-Please have a drink.	Bitte, trinken Sie etwas!	कृपया कुछ पिएं!
-Please help me cook.	Bitte helft mir beim Kochen.	कृपया मुझे खाना बनाने में मदद करें।
-Please let me do it.	Bitte lass mich das machen.	कृपया मुझे ऐसा करने दें।
-Please let me do it.	Überlass mir das bitte.	कृपया मुझे छोड़ दें।
 Please let me sleep.	Lass mich bitte schlafen!	कृपया मुझे सोने दें!
 Please listen to me.	Hör mich an, ich bitte dich.	मेरी बात सुनो, मैं तुमसे पूछता हूं।
 Please listen to me.	Bitte höre mir zu.	कृपया मेरी बात सुनें।
