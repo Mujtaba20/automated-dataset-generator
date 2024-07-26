@@ -32366,3 +32366,10 @@ I'll catch you later.	Ich erwische dich später.	मैं बाद में �
 I'll come back later.	Ich komme später zurück.	मैं बाद में वापस आऊंगा।
 I'll come by bicycle.	Ich komme mit dem Fahrrad.	मैं साइकिल से आऊंगा।
 I'll do that at 2:30.	Ich werde das um 2:30 Uhr machen.	मैं उसे 2:30 बजे करूंगा।
+I'll do that for Tom.	Ich werde das für Tom tun.	मैं उसके लिए ऐसा करूंगा।
+I'll do that for you.	Ich werde das für dich tun.	मैं तुम्हारे लिए ऐसा करूँगा।
+I'll do this for Tom.	Ich werde das für Tom machen.	मैं तोम के लिए यह करूँगा।
+I'll do what you ask.	Ich tue, was du verlangst.	मैं वह करूंगा जो तुम चाहो।
+I'll do what you say.	Ich mache, was du sagst.	मैं वह करूँगा जो तुम कहो।
+I'll dream about you.	Ich werde von dir träumen.	मैं तुम्हारे ख्यालों में खोया रहूंगा।
+I'll drive Tom there.	Ich werde Tom dorthin fahren.	मैं टॉम को वहां छोड़ दूंगा।

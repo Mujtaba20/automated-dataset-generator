@@ -1,15 +1,4 @@
 
-I'll do that for Tom.	Ich werde das für Tom tun.	मैं टॉम के लिए ऐसा करूंगा।
-I'll do that for you.	Ich werde das für dich tun.	मैं तुम्हारे लिए ऐसा करूँगा।
-I'll do this for Tom.	Ich werde das für Tom tun.	मैं टॉम के लिए ऐसा करूंगा।
-I'll do what you ask.	Ich werde tun, worum du mich bittest.	मैं वही करूंगा जो आप मुझसे पूछ रहे हैं।
-I'll do what you say.	Ich werde tun, was du sagst.	मैं वही करूंगा जो आप कहते हैं।
-I'll dream about you.	Ich werde von dir träumen.	मुझे तुम सपने में आओगे।
-I'll dream about you.	Ich werde von Ihnen träumen.	मैं उनका सपना देखूंगा।
-I'll dream about you.	Ich werde von euch träumen.	मुझे तुम सपने में आओगे।
-I'll drive Tom there.	Ich werde Tom dort hinfahren.	मैं वहाँ जाऊंगा टॉम।
-I'll drive Tom there.	Ich werde Tom hinfahren.	मैं टॉम जाऊंगा।
-I'll drive Tom there.	Ich fahre Tom hin.	मैं टॉम ड्राइव करता हूं।
 I'll drive you there.	Ich fahre dich dahin.	मैं तुम्हें वहाँ चलाता हूँ।
 I'll eat standing up.	Ich werde im Stehen essen.	मैं खड़े होकर खाऊंगा।
 I'll finish it later.	Ich werde es später beenden.	मैं इसे बाद में समाप्त करूँगा।
