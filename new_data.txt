@@ -29258,3 +29258,13 @@ engSentence7	Tom sagt, er wird kommen.	टॉम कहता है कि व�
 engSentence8	Tom sagt, er ist glücklich.	टॉम कहता है कि वह खुश है।
 engSentence9	Tom sagt, er ist müde.	टॉम कहता है कि वह थका हुआ है।
 engSentence10	Tom konnte den Fisch fangen.	टॉमने मछली को मापा।
+Tom seemed arrogant.	Tom schien arrogant.	टॉम अकड़ने लगा।
+Tom seemed relieved.	Tom schien erleichtert.	टॉम को राहत मिली दिख रहा था।
+Tom seemed very sad.	Tom schien sehr traurig.	टॉम बहुत उदास लग रहा था।
+Tom seems ambitious.	Tom scheint ehrgeizig zu sein.	टॉम महत्वाकांक्षी लगता है।
+Tom seems conceited.	Tom scheint überheblich zu sein.	टॉम कुदरती लगता है।
+Tom seems easygoing.	Tom scheint locker zu sein.	टॉम आराम से चला है।
+Tom seems impatient.	Tom scheint ungeduldig zu sein.	टॉम को बेसब्री महसूस हो रही है।
+Tom seems insincere.	Tom scheint unaufrichtig zu sein.	टॉम बेईमान लग रहा है।
+Tom seems very busy.	Tom scheint sehr beschäftigt zu sein.	टॉम बहुत व्यस्त लग रहा है।
+Tom seems very calm.	Tom scheint sehr ruhig zu sein.	टॉम बहुत शांत लग रहा है।
