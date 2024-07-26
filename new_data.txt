@@ -38314,3 +38314,12 @@ I'm the one they want.	Ich bin derjenige, den sie wollen.	मैं वह ह�
 I'm thinking about it.	Ich denke darüber nach.	मैं उसके बारे में सोच रहा हूँ।
 I'm thinking of going.	Ich überlege zu gehen.	मैं जाने का विचार कर रहा हूँ।
 I'm to blame, not you.	Ich bin schuld, nicht du.	मेरी गलती है, नहीं तुम्हारी।
+I'm too tired to help.	Ich bin zu müde, um zu helfen.	मैं बहुत थक गया हूँ मदद करने के लिए।
+I'm trying not to cry.	Ich versuche, nicht zu weinen.	मैं रोने की कोशिश नहीं कर रहा हूँ।
+I'm unable to do that.	Ich bin dazu nicht in der Lage.	मैं उसे करने में निष्क्रिय हूँ।
+I'm used to hard work.	Ich bin harte Arbeit gewohnt.	मैं कठिन मेहनत के आदि हूँ।
+I'm used to it by now.	Ich bin es inzwischen gewohnt.	अब तक मैं इसे आदि हूँ।
+I'm used to the noise.	Ich bin den Lärm gewohnt.	मैं शोर के आदि हूँ।
+I'm used to the smell.	Ich bin den Geruch gewohnt.	मैं खुशबू के आदि हूँ।
+I'm very broad-minded.	Ich bin sehr aufgeschlossen.	मैं बहुत खुले विचार-धारा वाला हूँ।
+I'm very conservative.	Ich bin sehr konservativ.	मैं बहुत पारंपरिक हूँ।
