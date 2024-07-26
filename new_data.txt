@@ -28345,3 +28345,12 @@ They made fun of me.	Sie haben sich über mich lustig gemacht.	उन्हो�
 They need investors.	Sie brauchen Investoren.	उन्हें निवेशकों की आवश्यकता है।
 They need new shoes.	Sie brauchen neue Schuhe.	उन्हें नए जूते चाहिए।
 They really did win.	Sie haben wirklich gewonnen.	उन्होंने सचमुच जीत ली।
+They recognized Tom.	Sie erkannten Tom.	उन्होंने टॉम को पहचाना।
+They rented a house.	Sie mieteten ein Haus.	उन्होंने एक घर किराए पर लिया।
+They ruined my life.	Sie ruinierten mein Leben.	उन्होंने मेरी जिंदगी बर्बाद कर दी।
+They sang in chorus.	Sie sangen im Chor.	उन्होंने साथ में गाया।
+They say she's sick.	Sie sagen, dass sie krank ist.	उन्होंने कहा कि वह बीमार है।
+They seem very busy.	Sie scheinen sehr beschäftigt zu sein.	लगता है कि वे बहुत व्यस्त हैं।
+They sell furniture.	Sie verkaufen Möbel.	वे फर्नीचर बेचते हैं।
+They should be fine.	Sie sollten in Ordnung sein.	उन्हें ठीक होना चाहिए।
+They should know it.	Sie sollten es wissen.	उन्हें यह जानना चाहिए।
