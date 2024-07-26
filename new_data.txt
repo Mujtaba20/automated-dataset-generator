@@ -32654,3 +32654,13 @@ I've got to find Tom.	Ich muss Tom finden.	मुझे टॉम को ढू�
 I've got to help Tom.	Ich muss Tom helfen.	मुझे टॉम की मदद करनी है।
 I've got to warn Tom.	Ich muss Tom warnen.	मुझे टॉम को चेतावनी देनी है।
 I've got what I need.	Ich habe, was ich brauche.	मेरे पास वह है जो मुझे चाहिए।
+I've had a busy week.	Ich hatte eine geschäftige Woche.	मेरे पास एक व्यस्त सप्ताह था।
+I've had a lousy day.	Ich hatte einen miesen Tag.	मेरे पास एक घटिया दिन था।
+I've had it with Tom.	Ich habe es mit Tom gehabt.	मैंने टॉम के साथ यह कर लिया है।
+I've learned so much.	Ich habe so viel gelernt.	मैंने इतना सीखा है।
+I've learned to cook.	Ich habe gelernt zu kochen.	मैंने पकाने का सीखा है।
+I've lived in Boston.	Ich habe in Boston gelebt.	मैंने बॉस्टन में रहा है।
+I've lost my car key.	Ich habe meinen Autoschlüssel verloren.	मैंने अपना कार कुंजी खो दी है।
+I've lost my dignity.	Ich habe meine Würde verloren.	मैंने अपना सम्मान खो दिया है।
+I've lost my filling.	Ich habe meine Füllung verloren.	मैंने अपनी फुलिंग खो दी है।
+I've lost my friends.	Ich habe meine Freunde verloren.	मैंने अपने दोस्तों को खो दिया है।
