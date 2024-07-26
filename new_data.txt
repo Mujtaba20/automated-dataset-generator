@@ -29403,3 +29403,13 @@ Tom was watching TV.	Tom schaute fern.	टॉम टीवी देख रह�
 Tom washed his face.	Tom wusch sein Gesicht.	टॉम अपना चेहरा धो रहा था।
 Tom washed his hair.	Tom wusch sich die Haare.	टॉम अपने बाल धो रहा था।
 Tom wasn't arrested.	Tom wurde nicht verhaftet.	टॉम को गिरफ्तार नहीं किया गया था।
+Tom wasn't cremated.	Tom wurde nicht eingeäschert.	टॉम क्रिमेट नहीं किया गया था।
+Tom wasn't grateful.	Tom war nicht dankbar.	टॉम आभारी नहीं था।
+Tom wasn't impolite.	Tom war nicht unhöflich.	टॉम अभद्र नहीं था।
+Tom wasn't laughing.	Tom hat nicht gelacht.	टॉम हँसा नहीं।
+Tom wasn't murdered.	Tom wurde nicht ermordet.	टॉम हत्या नहीं हुआ था।
+Tom wasn't offended.	Tom war nicht beleidigt.	टॉम को आपत्ति नहीं हुई।
+Tom wasn't promoted.	Tom wurde nicht befördert.	टॉम को पदोन्नति नहीं मिली।
+Tom wasn't reliable.	Tom war nicht zuverlässig.	टॉम विश्वसनीय नहीं था।
+Tom wasn't sweating.	Tom hat nicht geschwitzt.	टॉम पसी नहीं था।
+Tom wasn't that bad.	Tom war nicht so schlimm.	टॉम इतना बुरा नहीं था।
