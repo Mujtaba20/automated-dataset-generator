@@ -39032,3 +39032,11 @@ Put it in your pocket.	Steck es in deine Tasche.	इसे अपनी जे�
 Put it where you like.	Leg es hin, wo du willst.	इसे वहां रखो जहां तुम चाहो।
 Put the baby to sleep.	Bring das Baby zum Schlafen.	बच्चे को सुलाओ।
 Quit making fun of me.	Hör auf, mich auszulachen.	मुझे मजाक उड़ाना बंद करो।
+Rabbits breed quickly.	Kaninchen züchten schnell.	खरगोश तेजी से प्रजनन करते हैं।
+Raise your right hand.	Hebe deine rechte Hand.	अपना दाहिना हाथ उठाओ।
+Reading is my passion.	Lesen ist meine Leidenschaft.	पढ़ना मेरी प्रेरणा है।
+Red is out of fashion.	Rot ist out.	लाल फैशन से बाहर है।
+Remember Tom's advice.	Denke an Toms Ratschlag.	टॉम की सलाह को याद रखें।
+Remember your promise.	Erinnere dich an dein Versprechen.	अपना वादा याद रखें।
+Remove your blindfold.	Nimm deine Augenbinde ab.	अपनी आँखों की पट्टी हटा दो।
+Restart your computer.	Starten Sie Ihren Computer neu.	अपने कंप्यूटर को फिर से आरंभ करें।
