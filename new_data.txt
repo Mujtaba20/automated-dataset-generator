@@ -33691,3 +33691,12 @@ The proof is trivial.	Der Beweis ist trivial.	सबूत सामान्य
 The rain has stopped.	Der Regen hat aufgehört.	बारिश बंद हो गई है।
 The red house is new.	Das rote Haus ist neu.	लाल घर नया है।
 The red skirt is new.	Der rote Rock ist neu.	लाल स्कर्ट नया है।
+The river overflowed.	Der Fluss ist über die Ufer getreten.	नदी बह गई।
+The roof is very low.	Das Dach ist sehr niedrig.	छत बहुत नीची है।
+The roses smell good.	Die Rosen riechen gut.	गुलाब अच्छी खुशबू देते हैं।
+The roses smell nice.	Die Rosen duften angenehm.	गुलाब अच्छे खुशबू आते हैं।
+The rumor isn't true.	Das Gerücht stimmt nicht.	अफ़वाह सच नहीं है।
+The rumors were true.	Die Gerüchte waren wahr.	अफ़वाहें सच थीं।
+The sheets are clean.	Die Bettlaken sind sauber.	चादरें साफ हैं।
+The sheets are dirty.	Die Bettlaken sind schmutzig.	चादरें गंदी हैं।
+The ship headed east.	Das Schiff fuhr nach Osten.	जहाज पूर्व की ओर चला गया।

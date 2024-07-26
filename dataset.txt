@@ -1,14 +1,4 @@
 
-The river overflowed.	Der Fluss trat über die Ufer.	नदी ने बैंक पर कदम रखा।
-The roof is very low.	Das Dach ist sehr niedrig.	छत बहुत कम है।
-The roses smell good.	Die Rosen riechen gut.	गुलाब की गंध अच्छी है।
-The roses smell nice.	Die Rosen riechen gut.	गुलाब की गंध अच्छी है।
-The rumor isn't true.	Das Gerücht ist unwahr.	अफवाह असत्य है।
-The rumors were true.	Die Gerüchte stimmten.	अफवाहें सही थीं।
-The sheets are clean.	Die Bettlaken sind sauber.	चादरें साफ हैं।
-The sheets are clean.	Die Bettlaken sind rein.	चादरें शुद्ध हैं।
-The sheets are dirty.	Die Bettlaken sind schmutzig.	चादरें गंदी हैं।
-The ship headed east.	Das Schiff nahm Kurs nach Osten.	जहाज ने कोर्स को पूर्व की ओर ले लिया।
 The ship ran aground.	Das Schiff lief auf Grund.	जहाज घिनौना भाग गया।
 The shotgun went off.	Das Gewehr ging los.	राइफल शुरू हो गई।
 The shower is broken.	Die Dusche ist kaputt.	शॉवर टूट गया है।
