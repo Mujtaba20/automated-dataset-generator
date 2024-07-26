@@ -1,14 +1,4 @@
 
-I'm ironing my dress.	Ich bügele mein Kleid.	मैं अपनी पोशाक आयरन।
-I'm just cleaning up.	Ich bin gerade beim Reinemachen.	मैं बस चल रहा हूँ।
-I'm just making sure.	Ich vergewissere mich nur.	मैं बस सुनिश्चित करता हूं।
-I'm just watching TV.	Ich sehe gerade fern.	मैं अभी दूर देखता हूं।
-I'm learning English.	Ich lerne Englisch.	मैं अंग्रेजी सीखने की प्रक्रिया में हूं।
-I'm leaving the city.	Ich verlasse die Stadt.	मैं शहर छोड़ देता हूं।
-I'm listening to you.	Ich höre dir zu.	मैं आपको सुन रहा हूं।
-I'm looking for food.	Ich sehe mich nach etwas Essbarem um.	मैं कुछ खाद्य के लिए चारों ओर देखता हूं।
-I'm looking for work.	Ich suche Arbeit.	मुझे काम की तलाश है।
-I'm never going back.	Ich gehe nie mehr zurück.	मैं कभी वापस नहीं जाता।
 I'm new to this team.	Ich bin neu in diesem Team.	मैं इस टीम के लिए नया हूं।
 I'm no longer hungry.	Ich bin nicht mehr hungrig.	मैं अब भूखा नहीं हूं।
 I'm no longer sleepy.	Ich bin nicht mehr schläfrig.	मुझे अब नींद नहीं आ रही है।

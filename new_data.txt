@@ -32525,3 +32525,13 @@ I'm in love with her.	Ich liebe sie.	मैं उससे प्यार क�
 I'm in love with you.	Ich liebe dich.	मुझे तुमसे प्यार है।
 I'm in the same boat.	Wir sitzen im selben Boot.	हम सब एक ही कश्ती में हैं।
 I'm incredibly tired.	Ich bin unglaublich müde.	मैं अत्यधिक थका हुआ हूँ।
+I'm ironing my dress.	Ich bügle mein Kleid.	मैं अपनी ड्रेस इस्त्री कर रही हूँ।
+I'm just cleaning up.	Ich räume nur auf.	मैं सिर्फ साफ-सफाई कर रहा हूँ।
+I'm just making sure.	Ich vergewissere mich nur.	मैं सुनिश्चित कर रहा हूँ।
+I'm just watching TV.	Ich schaue nur fern.	मैं बस टीवी देख रहा हूँ।
+I'm learning English.	Ich lerne Englisch.	मैं अंग्रेज़ी सीख रहा हूँ।
+I'm leaving the city.	Ich verlasse die Stadt.	मैं शहर छोड़ रहा हूँ।
+I'm listening to you.	Ich höre dir zu.	मैं तुम्हें सुन रहा हूँ।
+I'm looking for food.	Ich suche nach Essen.	मैं खाने की तलाश कर रहा हूँ।
+I'm looking for work.	Ich suche Arbeit.	मैं काम खोज रहा हूँ।
+I'm never going back.	Ich gehe nie zurück.	मैं कभी वापस नहीं आ रहा हूँ।
