@@ -29662,3 +29662,11 @@ We were all worried.	Wir waren alle besorgt.	हम सभी चिंतित
 We were born to die.	Wir wurden geboren, um zu sterben.	हम मरने के लिए पैदा हुए थे।
 We were both hungry.	Wir waren beide hungrig.	हम दोनों भूखे थे।
 engSentence		
+We'll be seeing you.	Wir werden dich sehen.	हम तुम्हें देखने जा रहे हैं।
+We'll come together.	Wir werden zusammenkommen.	हम साथ आएंगे।
+We'll come with you.	Wir werden mit dir kommen.	हम तुम्हारे साथ आएंगे।
+We'll do all we can.	Wir werden alles tun, was wir können.	हम जो कुछ कर सकते हैं वह करेंगे।
+We'll keep in touch.	Wir werden in Kontakt bleiben.	हम संपर्क में रहेंगे।
+We'll leave at 2:30.	Wir werden um 2:30 Uhr gehen.	हम 2:30 बजे निकलेंगे।
+We'll miss you, Tom.	Wir werden dich vermissen, Tom.	हम तुम्हारी यादों में रहेंगे, टॉम।
+We'll miss you, too.	Auch wir werden dich vermissen.	हमें भी तुम्हें याद करेगा।
