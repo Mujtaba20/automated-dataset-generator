@@ -25464,3 +25464,10 @@ Don't waste my time.	Verschwende nicht meine Zeit.	मेरा समय बर
 Don't you feel cold?	Fühlst du dich nicht kalt?	क्या तुम्हें ठंड नहीं लग रही है?
 Don't you feel cold? (second meaning)	Frierst du nicht?	क्या तुम्हें सर्दी नहीं लगती?
 Don't you know that?	Weißt du das nicht?	क्या तुम्हें यह नहीं पता?
+Don't you like cats?	Magst du keine Katzen?	क्या आपको बिल्लियां पसंद नहीं हैं?
+Don't you like that?	Magst du das nicht?	क्या आपको वह पसंद नहीं है?
+Don't you like this?	Magst du das hier nicht?	क्या आपको यह पसंद नहीं है?
+Don't you like wine?	Magst du keinen Wein?	क्या आपको शराब पसंद नहीं है?
+Don't you miss that?	Vermisst du das nicht?	क्या आप उसे नहीं याद करते?
+Don't you trust Tom?	Vertraust du Tom nicht?	क्या आप टॉम पर भरोसा नहीं करते?
+Draw a small circle.	Zeichne einen kleinen Kreis.	एक छोटे से वृत्त का चित्रण करें।

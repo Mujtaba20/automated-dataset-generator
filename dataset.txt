@@ -1,14 +1,4 @@
 
-Don't you like cats?	Magst du Katzen nicht?	क्या आपको बिल्लियाँ पसंद नहीं हैं?
-Don't you like that?	Magst du das nicht?	क्या आपको ऐसा नहीं है?
-Don't you like that?	Passt dir das nicht?	क्या यह आपको फिट नहीं है?
-Don't you like this?	Magst du das nicht?	क्या आपको ऐसा नहीं है?
-Don't you like wine?	Magst du keinen Wein?	क्या आपको शराब पसंद नहीं है?
-Don't you like wine?	Mögt ihr keinen Wein?	क्या आपको शराब पसंद नहीं है?
-Don't you like wine?	Mögen Sie keinen Wein?	क्या आपको शराब पसंद नहीं है?
-Don't you miss that?	Vermisst du das nicht?	क्या आपको याद नहीं है?
-Don't you trust Tom?	Traust du Tom nicht über den Weg?	क्या आपको टॉम पर भरोसा नहीं है?
-Draw a small circle.	Zeichne einen kleinen Kreis.	एक छोटा वृत्त खींचें।
 Dry wood burns well.	Trockenes Holz brennt gut.	सूखी लकड़ी अच्छी तरह से जलती है।
 Eat more vegetables.	Esst mehr Gemüse.	अधिक सब्जियां खाएं।
 Eat more vegetables.	Essen Sie mehr Gemüse.	अधिक सब्जियां खाएं।
