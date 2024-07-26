@@ -23216,3 +23216,9 @@ This is all I know.	Das ist alles, was ich weiß.	यह मेरे पास 
 This is almost new.	Das ist fast neu.	यह लगभग नया है।
 This is disturbing.	Das ist beunruhigend.	यह चिंता का कारण है।
 This is how I feel.	So fühle ich mich.	यह मेरे भावनाओं का तरीका है।
+This is impossible.	Das ist unmöglich.	यह असंभव है।
+This is just water.	Das ist nur Wasser.	यह सिर्फ पानी है।
+This is most of it.	Das ist größerer Teil davon.	यह इसका अधिकांश है।
+This is my bicycle.	Das ist mein Fahrrad.	यह मेरी साइकिल है।
+This is my brother.	Das ist mein Bruder.	यह मेरा भाई है।
+This is my husband.	Das ist mein Mann.	यह मेरा पति है।

@@ -1,14 +1,4 @@
 
-This is impossible.	Das ist unmöglich.	यह असंभव है।
-This is impossible.	Es ist unmöglich.	यह असंभव है।
-This is impossible.	Das kann nicht sein!	यह नहीं हो सकता!
-This is just water.	Das ist nur Wasser.	यह केवल पानी है।
-This is most of it.	Das ist das meiste davon.	यह सबसे अधिक है।
-This is my bicycle.	Das ist mein Fahrrad.	यह मेरी बाइक है।
-This is my brother.	Das ist mein Bruder.	यह मेरा भाई है।
-This is my husband.	Das hier ist mein Gatte.	यह मेरा पति है।
-This is my husband.	Das hier ist mein Mann.	यह मेरा पति है।
-This is my husband.	Das hier ist mein Ehemann.	यह मेरा पति है।
 This is my kitchen.	Das ist meine Küche.	यह मेरा रसोईघर है।
 This is my new car.	Das ist mein neues Auto.	यह मेरी नई कार है।
 This is my problem.	Das ist mein Problem.	यह मेरी समस्या है।
