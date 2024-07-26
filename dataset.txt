@@ -1,14 +1,4 @@
 
-He wore a dark sweater.	Er trug einen dunklen Pullover.	उन्होंने एक डार्क स्वेटर पहना था।
-He works like a maniac.	Er arbeitet wie ein Besessener.	वह एक जुनूनी की तरह काम करता है।
-He works like a maniac.	Er arbeitet wie ein Verrückter.	वह एक पागल आदमी की तरह काम करता है।
-He wouldn't believe us.	Er würde uns nicht glauben.	वह हमें विश्वास नहीं करेगा।
-He wouldn't harm a fly.	Er würde keiner Fliege etwas zuleide tun.	वह किसी भी मक्खी को नहीं डाल पाएगा।
-He wouldn't hurt a fly.	Er würde keiner Fliege etwas zuleide tun.	वह किसी भी मक्खी को नहीं डाल पाएगा।
-He wrote me from Japan.	Er schrieb mir aus Japan.	उन्होंने मुझे जापान से लिखा।
-He'll never forgive me.	Er wird mir nie verzeihen.	वह मुझे कभी माफ नहीं करेगा।
-He'll never forgive me.	Er wird mir niemals vergeben.	उसे कभी माफ नहीं किया जाएगा।
-He'll never forgive me.	Er wird mir nie vergeben.	उसे कभी माफ नहीं किया जाएगा।
 He's a baseball player.	Er ist ein Baseballspieler.	वह एक बेसबॉल खिलाड़ी है।
 He's a baseball player.	Er ist Baseballspieler.	वह बेसबॉल खिलाड़ी है।
 He's a devout Catholic.	Er ist ein ergebener Katholik.	वह एक समर्पित कैथोलिक है।
