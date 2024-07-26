@@ -1,15 +1,4 @@
 
-I'm looking for my hat.	Ich suche meinen Hut.	मैं अपनी टोपी की तलाश में हूं।
-I'm looking for my key.	Ich suche meinen Schlüssel.	मैं अपनी चाबी की तलाश में हूं।
-I'm looking for my pen.	Ich suche meinen Kuli.	मैं अपने culmonated की तलाश कर रहा हूं।
-I'm mad at both of you.	Ich bin auf euch beide wütend.	मैं आप दोनों से नाराज हूं।
-I'm mad at both of you.	Ich bin auf Sie beide wütend.	मैं उन दोनों से नाराज हूं।
-I'm more than a friend.	Ich bin mehr als ein Freund.	मैं एक दोस्त से ज्यादा हूं।
-I'm more than a friend.	Ich bin mehr als eine Freundin.	मैं एक दोस्त से ज्यादा हूं।
-I'm moving in with Tom.	Ich ziehe mit Tom zusammen.	मैं टॉम के साथ आगे बढ़ता हूं।
-I'm nervous and scared.	Ich bin nervös und habe Angst.	मैं घबरा गया हूं और मुझे डर है।
-I'm no friend of yours.	Ich bin nicht Ihr Freund.	मैं उसका दोस्त नहीं हूं।
-I'm no friend of yours.	Ich bin nicht euer Freund.	मैं तुम्हारा दोस्त नहीं हूँ।
 I'm no longer homeless.	Ich bin nicht mehr obdachlos.	मैं अब बेघर नहीं हूं।
 I'm not a baby anymore.	Ich bin kein Kind mehr.	मैं अब बच्चा नहीं हूं।
 I'm not a great singer.	Ich bin kein toller Sänger.	मैं एक महान गायक नहीं हूं।
