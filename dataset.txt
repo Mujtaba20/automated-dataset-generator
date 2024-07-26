@@ -1,14 +1,4 @@
 
-I'm your conscience.	Ich bin dein Gewissen.	मैं तुम्हारा विवेक हूँ।
-I've become smarter.	Ich bin klüger geworden.	मैं होशियार हो गया।
-I've been acquitted.	Ich wurde freigesprochen.	मुझे बरी कर दिया गया था।
-I've been listening.	Ich habe zugehört.	मैंने सुना है।
-I've been to church.	Ich war in der Kirche.	मैं चर्च में था।
-I've been very busy.	Ich bin derzeit sehr beschäftigt.	मैं वर्तमान में बहुत व्यस्त हूं।
-I've changed my job.	Ich habe die Arbeitsstelle gewechselt.	मैंने नौकरी बदल दी।
-I've done it before.	Ich habe das schon einmal gemacht.	मैंने पहले भी किया है।
-I've got Tom's keys.	Ich habe Toms Schlüssel.	मेरे पास टॉम की कुंजी है।
-I've got a headache.	Ich habe Kopfweh.	मेरे सिर में दर्द है।
 I've got a question.	Ich habe eine Frage.	मेरा एक सवाल है।
 I've got no friends.	Ich habe keine Freunde.	मेरे दोस्त नहीं हैं।
 I've got no worries.	Ich bin ohne Sorgen.	मैं बिना किसी चिंता के हूं।

@@ -27177,3 +27177,13 @@ I'm waiting outside.	Ich warte draußen.	मैं बाहर इंतजा�
 I'm watching TV now.	Ich schaue jetzt fern.	मैं अभी टीवी देख रहा हूँ।
 I'm working on that.	Ich arbeite daran.	मैं उस पर काम कर रहा हूँ।
 I'm worried for you.	Ich mache mir Sorgen um dich.	मैं तुम्हें लेकर चिंतित हूँ।
+I'm your conscience.	Ich bin dein Gewissen.	मैं तुम्हारी अंतरात्मा हूँ।
+I've become smarter.	Ich bin schlauer geworden.	मैं अब बुद्धिमान हो गया हूँ।
+I've been acquitted.	Ich bin freigesprochen worden.	मुझपर दोषमुक्ति मिली है।
+I've been listening.	Ich habe zugehört.	मैं सुन रहा था।
+I've been to church.	Ich war in der Kirche.	मैं चर्च गया था।
+I've been very busy.	Ich war sehr beschäftigt.	मैं बहुत व्यस्त रहा।
+I've changed my job.	Ich habe meinen Job gewechselt.	मैंने अपना काम बदल लिया है।
+I've done it before.	Ich habe es schon zuvor gemacht.	मैंने यह पहले किया है।
+I've got Tom's keys.	Ich habe Toms Schlüssel.	मेरे पास टॉम की चाबियाँ हैं।
+I've got a headache.	Mir tut der Kopf weh.	मुझे सिरदर्द है।
