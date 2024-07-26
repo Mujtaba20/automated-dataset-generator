@@ -29413,3 +29413,13 @@ Tom wasn't promoted.	Tom wurde nicht befördert.	टॉम को पदोन�
 Tom wasn't reliable.	Tom war nicht zuverlässig.	टॉम विश्वसनीय नहीं था।
 Tom wasn't sweating.	Tom hat nicht geschwitzt.	टॉम पसी नहीं था।
 Tom wasn't that bad.	Tom war nicht so schlimm.	टॉम इतना बुरा नहीं था।
+Tom watched Mary go.	Tom beobachtete, wie Mary ging.	टॉम ने देखा कि मेरी चली गई।
+Tom went for a walk.	Tom ging spazieren.	टॉम चलने गया।
+Tom went home angry.	Tom ging wütend nach Hause.	टॉम गुस्से में घर गया।
+Tom went home early.	Tom ging früh nach Hause.	टॉम जल्दी घर गया।
+Tom went into rehab.	Tom ging in die Reha.	टॉम रिहैब में गया।
+Tom went on reading.	Tom las weiter.	टॉम पढ़ाई करते रहे।
+Tom went on singing.	Tom sang weiter.	टॉम गाते रहे।
+Tom went on working.	Tom arbeitete weiter.	टॉम काम करते रहे।
+Tom went out to eat.	Tom ging aus, um zu essen.	टॉम बाहर खाने जाए।
+Tom went to Harvard.	Tom ging nach Harvard.	टॉम हार्वर्ड गया।
