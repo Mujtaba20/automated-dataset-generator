@@ -29563,3 +29563,11 @@ We enjoyed swimming.	Wir haben das Schwimmen genossen.	हमने तैरा
 We grew up together.	Wir sind zusammen aufgewachsen.	हम साथ बड़े हुए।
 We had a rough time.	Wir hatten eine schwierige Zeit.	हमारे साथ कठिन समय था।
 We had an agreement.	Wir hatten eine Vereinbarung.	हमें एक समझौता था।
+We had an oral exam.	Wir hatten eine mündliche Prüfung.	हमारी मौखिक परीक्षा हुई।
+We had fun shopping.	Wir hatten Spaß beim Einkaufen.	हमें खरीदारी करते समय मज़ा आया।
+We had to walk home.	Wir mussten nach Hause laufen.	हमें घर चलकर जाना था।
+We have a job to do.	Wir haben eine Aufgabe zu erledigen.	हमें काम करना है।
+We have a lot to do.	Wir haben viel zu tun.	हमें बहुत कुछ करना है।
+We have a white cat.	Wir haben eine weiße Katze.	हमारे पास एक सफेद बिल्ली है।
+We have enough food.	Wir haben genug Essen.	हमारे पास पर्याप्त खाने का सामान है।
+We have enough time.	Wir haben genug Zeit.	हमारे पास पर्याप्त समय है।
