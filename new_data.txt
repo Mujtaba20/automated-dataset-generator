@@ -38040,3 +38040,11 @@ I wish I had your job.	Ich wünschte, ich hätte deinen Job.	मुझे चा
 I wish I hadn't cried.	Ich wünschte, ich hätte nicht geweint.	मैं चाहता कि मैंने रोना पाया था।
 I wish I was like him.	Ich wünschte, ich wäre wie er.	मुझे चाहिए कि मैं use जैसा होता।
 I wish I was with you.	Ich wünschte, ich wäre bei dir.	मुझे चाहिए कि मैं तुम्हारे साथ हो।
+I wish I were younger.	Ich wünschte, ich wäre jünger.	मुझे खेद है कि मैं छोटा नहीं हूँ।
+I wish I'd been there.	Ich wünschte, ich wäre dort gewesen.	मैं चाहता था कि मैं वहां होता।
+I wish I'd eaten more.	Ich wünschte, ich hätte mehr gegessen.	मैं चाहता था कि मैं और ज्यादा खा लेता।
+I wish Tom would stay.	Ich wünschte, Tom würde bleiben.	मैं चाहता हूँ कि टॉम रुक जाए।
+I wish that were true.	Ich wünschte, das wäre wahr.	मैं चाहता हूँ कि वह सच होता।
+I wish we'd done that.	Ich wünschte, wir hätten das gemacht.	मैं चाहता था कि हमने वह किया होता।
+I wish you could stay.	Ich wünschte, du könntest bleiben.	मैं चाहता हूँ कि तुम रुक सको।
+I wish you were wrong.	Ich wünschte, du hättest unrecht.	मैं चाहता हूँ कि तुम गलत हो।
