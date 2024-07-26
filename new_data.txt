@@ -32290,3 +32290,10 @@ I will give you this.	Ich werde dir das geben.	मैं तुम्हें �
 I will never see him.	Ich werde ihn nie sehen.	मैं उसे कभी नहीं देखूँगा।
 I will start tonight.	Ich werde heute Abend anfangen.	मैं आज रात से शुरू करूँगा।
 I will take you home.	Ich werde dich nach Hause bringen.	मैं तुम्हें घर ले जाऊंगा।
+I will vouch for him.	Ich werde für ihn bürgen.	मैं उसके लिए जमानत दूंगा।
+I wish I had dimples.	Ich wünschte, ich hätte Grübchen.	मुझे चेहरे पर गड्ढे होते।
+I wish I were a bird.	Ich wünschte, ich wäre ein Vogel.	मैं एक पंछी होता।
+I wish I were taller.	Ich wünschte, ich wäre größer.	मैं लंबा होता।
+I wish Tom were dead.	Ich wünschte, Tom wäre tot.	मैं चाहता था कि टॉम मर जाए।
+I wish this was over.	Ich wünschte, das wäre vorbei.	मैं चाहता था कि यह समाप्त हो।
+I wish you good luck.	Ich wünsche dir viel Glück.	मैं तुम्हें शुभकामनाएं देता हूँ।
