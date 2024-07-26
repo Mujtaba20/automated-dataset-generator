@@ -39395,3 +39395,13 @@ That's totally normal.	Das ist völlig normal.	यह पूरी तरह स
 That's understandable.	Das ist verständlich.	यह समझने में आता है।
 That's utter nonsense.	Das ist vollkommener Unsinn.	यह पूरी तरह से बकवास है।
 That's very dangerous.	Das ist sehr gefährlich.	यह बहुत खतरनाक है।
+That's very good news.	Das sind sehr gute Nachrichten.	यह बहुत अच्छी खबर है।
+That's very important.	Das ist sehr wichtig.	यह बहुत महत्वपूर्ण है।
+That's very, very sad.	Das ist sehr, sehr traurig.	यह बहुत ही दुखदायक है।
+That's what I thought.	Das habe ich mir gedacht.	वही मैं सोच रहा था।
+That's what I'm doing.	Das ist das, was ich mache.	वही मैं कर रहा हूँ।
+That's what Tom wants.	Das ist es, was Tom will.	वही तॉम चाहता है।
+That's what you think.	Das ist, was du denkst.	यह वह है जिसे आप सोचते हैं।
+That's where we'll go.	Dorthin werden wir gehen.	वही है जहाँ हम जाएँगे।
+That's why I like Tom.	Das ist der Grund, warum ich Tom mag.	यही कारण है कि मुझे टॉम पसंद है।
+That's why I like you.	Das ist der Grund, warum ich dich mag.	इसीलिए मुझे तुम्हें पसंद है।
