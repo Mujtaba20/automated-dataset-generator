@@ -1,14 +1,4 @@
 
-Tom is a big eater.	Tom ist ein guter Esser.	टॉम एक अच्छा खाने वाला है।
-Tom is a biologist.	Tom ist Biologe.	टॉम एक जीवविज्ञानी है।
-Tom is a bit dense.	Tom ist etwas schwer von Kapee.	टॉम कापी से थोड़ा मुश्किल है।
-Tom is a born poet.	Tom ist der geborene Dichter.	टॉम नी कवि हैं।
-Tom is a boy scout.	Tom ist Pfadfinder.	टॉम एक स्काउट है।
-Tom is a brave man.	Tom ist ein wackerer Mann.	टॉम एक बहादुर आदमी है।
-Tom is a carpenter.	Tom ist Zimmermann.	टॉम एक बढ़ई है।
-Tom is a carpenter.	Tom ist Tischler.	टॉम बढ़ई है।
-Tom is a cat lover.	Tom ist ein Katzenfreund.	टॉम एक बिल्ली दोस्त है।
-Tom is a chauffeur.	Tom ist Chauffeur.	टॉम एक चौका है।
 Tom is a communist.	Tom ist ein Kommunist.	टॉम एक कम्युनिस्ट है।
 Tom is a daredevil.	Tom ist ein Draufgänger.	टॉम एक साहसी है।
 Tom is a detective.	Tom ist Detektiv.	टॉम एक जासूस है।

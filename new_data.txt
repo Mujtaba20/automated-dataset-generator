@@ -23565,3 +23565,12 @@ Tom is a Capricorn.	Tom ist ein Steinbock.	टॉम मकर राशि क�
 Tom is a Christian.	Tom ist Christ.	टॉम एक ईसाई है।
 Tom is a bartender.	Tom ist Barkeeper.	टॉम एक बारटेंडर है।
 Tom is a beekeeper.	Tom ist Imker.	टॉम एक मधुमक्खी पालक है।
+Tom is a big eater.	Tom ist ein Vielfraß.	टॉम एक बड़ा भोजन करने वाला है।
+Tom is a biologist.	Tom ist Biologe.	टॉम एक जैवविज्ञानी है।
+Tom is a bit dense.	Tom ist ein bisschen dicht.	टॉम थोड़ा घना है।
+Tom is a born poet.	Tom ist ein geborener Dichter.	टॉम एक जन्मजात कवि है।
+Tom is a boy scout.	Tom ist ein Pfadfinder.	टॉम एक बॉय स्काउट है।
+Tom is a brave man.	Tom ist ein mutiger Mann.	टॉम एक बहादुर आदमी है।
+Tom is a carpenter.	Tom ist ein Tischler.	टॉम एक बढ़ई है।
+Tom is a cat lover.	Tom ist ein Katzenliebhaber.	टॉम बिल्ली के प्रेमी हैं।
+Tom is a chauffeur.	Tom ist Chauffeur.	टॉम एक ड्राइवर है।
