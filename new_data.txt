@@ -39813,3 +39813,13 @@ Today is not your day.	Heute ist nicht dein Tag.	आज तुम्हारा
 Today's not Christmas.	Heute ist nicht Weihnachten.	आज क्रिसमस नहीं है।
 Today's your birthday.	Heute ist dein Geburtstag.	आज तुम्हारा जन्मदिन है।
 Tom aced his midterms.	Tom hat seine Zwischenprüfungen bestanden.	टॉम ने अपनी मध्यअवधि परीक्षाएँ उत्तीर्ण की।
+Tom acted as my guide.	Tom fungierte als mein Guide.	टॉम मेरे मार्गदर्शन के तौर पर काम किया।
+Tom acted like a baby.	Tom verhielt sich wie ein Baby.	टॉम एक बच्चे की तरह व्यवहार करता था।
+Tom acts like a child.	Tom benimmt sich wie ein Kind.	टॉम एक बच्चे की तरह व्यवहार करता है।
+Tom agreed right away.	Tom stimmte sofort zu.	टॉम तुरंत सहमत हुआ।
+Tom agreed to help us.	Tom stimmte zu, uns zu helfen.	टॉम ने हमें मदद करने के लिए सहमति दी।
+Tom almost got caught.	Tom wurde fast erwischt.	टॉम लगभग पकड़ लिया गया।
+Tom always helps Mary.	Tom hilft immer Maria.	टॉम हमेशा मेरी की मदद करता है।
+Tom always talks fast.	Tom spricht immer schnell.	टॉम हमेशा जल्दी बोलता है।
+Tom always works hard.	Tom arbeitet immer hart.	टॉम हमेशा मेहनती है।
+Tom and I are cousins.	Tom und ich sind Cousins.	टॉम और मैं भाई बहन के बच्चे हैं।
