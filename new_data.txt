@@ -34613,3 +34613,12 @@ Tom knows he's right.	Tom weiß, dass er recht hat.	टॉम को पता �
 Tom knows his rights.	Tom kennt seine Rechte.	टॉम को अपना हक पता है।
 Tom knows the answer.	Tom kennt die Antwort.	टॉम को जवाब पता है।
 Tom knows the family.	Tom kennt die Familie.	टॉम को परिवार पता है।
+Tom knows the secret.	Tom kennt das Geheimnis.	टॉम को राजा पता है।
+Tom knows the system.	Tom kennt das System.	टॉम को प्रणाली पता है।
+Tom knows this place.	Tom kennt diesen Platz.	टॉम को इस स्थान का पता है।
+Tom knows we know it.	Tom weiß, dass wir es wissen.	टॉम को हमें पता है कि हम यह जानते हैं।
+Tom knows we're here.	Tom weiß, dass wir hier sind.	टॉम को पता है कि हम यहां हैं।
+Tom knows what it is.	Tom weiß, was es ist.	टॉम को पता है कि यह क्या है।
+Tom knows what to do.	Tom weiß, was zu tun ist.	टॉम को पता है कि क्या करना चाहिए।
+Tom knows where I am.	Tom weiß, wo ich bin.	टॉम को पता है कि मैं कहाँ हूँ।
+Tom knows who did it.	Tom weiß, wer es getan hat.	टॉम को पता है कि यह किसने किया है।

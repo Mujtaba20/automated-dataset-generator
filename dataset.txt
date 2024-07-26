@@ -1,14 +1,4 @@
 
-Tom knows the secret.	Tom weiß das Geheimnis.	टॉम गुप्त जानता है।
-Tom knows the system.	Tom kennt das System.	टॉम सिस्टम जानता है।
-Tom knows this place.	Tom kennt diesen Ort.	टॉम इस जगह को जानता है।
-Tom knows this place.	Tom kennt diesen Platz.	टॉम इस जगह को जानता है।
-Tom knows we know it.	Tom weiß, dass wir es wissen.	टॉम जानता है कि हम जानते हैं।
-Tom knows we're here.	Tom weiß, dass wir hier sind.	टॉम जानता है कि हम यहां हैं।
-Tom knows what it is.	Tom weiß, was es ist.	टॉम जानता है कि यह क्या है।
-Tom knows what to do.	Tom weiß, was zu tun ist.	टॉम जानता है कि क्या करना है।
-Tom knows where I am.	Tom weiß, wo ich bin.	टॉम जानता है कि मैं कहां हूं।
-Tom knows who did it.	Tom weiß, wer das getan hat.	टॉम जानता है कि ऐसा किसने किया।
 Tom knows who we are.	Tom weiß, wer wir sind.	टॉम जानता है कि हम कौन हैं।
 Tom lacks confidence.	Es mangelt Tom an Selbstvertrauen.	टॉम के पास आत्म -संप्रदाय की कमी है।
 Tom lacks discipline.	Tom gebricht es an Disziplin.	टॉम इसे अनुशासन तक देता है।
