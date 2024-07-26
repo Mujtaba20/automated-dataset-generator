@@ -1,14 +1,4 @@
 
-Do you love me, Tom?	Liebst du mich, Tom?	क्या तुम मुझसे प्यार करते हो, टॉम?
-Do you need a break?	Brauchst du eine Pause?	क्या आपको एक ब्रेक की आवश्यकता है?
-Do you need a break?	Braucht ihr eine Pause?	क्या आपको एक ब्रेक की आवश्यकता है?
-Do you need a break?	Brauchen Sie eine Pause?	क्या आपको एक ब्रेक की आवश्यकता है?
-Do you need me, Tom?	Brauchst du mich, Tom?	क्या आपको मेरी ज़रूरत है, टॉम?
-Do you not like Tom?	Magst du Tom nicht?	क्या आपको टॉम पसंद नहीं है?
-Do you recognize it?	Erkennen Sie es?	क्या आप इसे पहचानते हैं?
-Do you recognize it?	Erkennst du es wieder?	क्या आप इसे फिर से पहचानते हैं?
-Do you recognize it?	Erkennt ihr es?	क्या आप इसे पहचानते हैं?
-Do you see anything?	Siehst du etwas?	क्या आपको कुछ दिखाई देता है?
 Do you see my point?	Verstehst du, worauf ich hinaus will?	क्या आप समझते हैं कि मैं क्या जाना चाहता हूं?
 Do you smoke cigars?	Rauchst du Zigarren?	क्या आप सिगार धूम्रपान करते हैं?
 Do you smoke cigars?	Rauchen Sie Zigarren?	क्या आप सिगार धूम्रपान करते हैं?

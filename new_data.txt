@@ -25360,3 +25360,10 @@ Do you like to cook?	Kochst du gerne?	क्या आप पकाने का
 Do you like to sing?	Singst du gerne?	क्या आप गाने का शौक रखते हैं?
 Do you like writing?	Schreibst du gerne?	क्या आप लेखन की शौकीन हैं?
 Do you love him too?	Liebst du ihn auch?	क्या आप उसे भी पसंद करते हैं?
+Do you love me, Tom?	Liebst du mich, Tom?	तुम्हें मुझसे प्यार है, टॉम?
+Do you need a break?	Brauchst du eine Pause?	क्या आपको रुकने की जरूरत है?
+Do you need me, Tom?	Brauchst du mich, Tom?	क्या आपको मुझे चाहिए, टॉम?
+Do you not like Tom?	Magst du Tom nicht?	क्या आपको टॉम पसंद नहीं है?
+Do you recognize it?	Erkennst du es?	क्या तुम्हें इसे पहचानने में समय लगेगा?
+Do you see anything?	Siehst du etwas?	क्या आपको कुछ दिखाई दे रहा है?
+Do you feel good, Tom?	Fühlen Sie sich gut, Tom?	क्या टॉम, आप अच्छा महसूस कर रहे हैं?
