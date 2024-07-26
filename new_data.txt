@@ -33260,3 +33260,12 @@ Please eat some cake.	Bitte esse etwas Kuchen.	कृपया कुछ के�
 Please eat something.	Bitte esse etwas.	कृपया कुछ खाइए।
 Please give it a try.	Bitte versuchen Sie es.	कृपया इसे कोशिश करें।
 Please give me a hug.	Bitte umarme mich.	कृपया मुझे एक गले लगाने से ग्रहण करें।
+Please help yourself.	Bitte bedienen Sie sich.	कृपया खुद सहायता करें।
+Please insert a coin.	Bitte werfen Sie eine Münze ein.	कृपया एक सिक्का डालें।
+Please insert a coin. (different meaning)	Bitte setzen Sie eine Münze ein.	कृपया एक सिक्का डालें।
+Please keep in touch.	Bitte bleiben Sie in Kontakt.	कृपया संपर्क में रहें।
+Please keep in touch. (different meaning)	Bitte bleiben Sie in Reichweite.	कृपया संपर्क में रहें।
+Please lock the safe.	Bitte verschließen Sie den Safe.	कृपया सुरक्षित रखें।
+Please make your bed.	Bitte machen Sie Ihr Bett.	कृपया अपनी बिस्तर बनाएं।
+Please memorize this.	Bitte merken Sie sich das.	कृपया इसे याद करें।
+Please memorize this. (different meaning)	Bitte prägen Sie sich das ein.	कृपया इसे स्नेहित करें।

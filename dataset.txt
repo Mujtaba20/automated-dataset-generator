@@ -1,15 +1,4 @@
 
-Please help yourself.	Bitte bedienen Sie sich.	कृपया अपने आप की सेवा करें।
-Please insert a coin.	Bitte wirf eine Münze ein!	कृपया एक सिक्के में फेंक दें!
-Please insert a coin.	Bitte werfen Sie eine Münze ein!	कृपया एक सिक्के में फेंक दें!
-Please keep in touch.	Bitte bleib in Verbindung.	कृपया संपर्क में बने रहें।
-Please keep in touch.	Bitte bleibt in Verbindung.	कृपया संपर्क में बने रहें।
-Please keep in touch.	Bitte bleiben Sie in Verbindung.	कृपया संपर्क में बने रहें।
-Please lock the safe.	Bitte verschließe den Geldschrank.	कृपया बटुआ बंद करें।
-Please make your bed.	Bitte mach dein Bett.	कृपया अपना बिस्तर करें।
-Please memorize this.	Bitte merk dir das.	कृपया याद रखें।
-Please memorize this.	Bitte merkt euch das.	कृपया याद रखें।
-Please memorize this.	Bitte merken Sie sich das.	कृपया याद रखें।
 Please open the door.	Öffnen Sie bitte die Tür.	कृपया दरवाज़ा खोलें।
 Please open the door.	Bitte mach die Tür auf.	कृपया दरवाज़ा खोलें।
 Please open this box.	Öffne diesen Karton, bitte!	कृपया इस बॉक्स को खोलें!
