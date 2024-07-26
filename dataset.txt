@@ -1,15 +1,4 @@
 
-You've really changed.	Du hast dich wirklich verändert.	आप वास्तव में बदल गए।
-Your French isn't bad.	Dein Französisch ist nicht schlecht.	आपका फ्रेंच बुरा नहीं है।
-Your French isn't bad.	Euer Französisch ist nicht schlecht.	आपका फ्रेंच बुरा नहीं है।
-Your French isn't bad.	Ihr Französisch ist nicht schlecht.	आपका फ्रेंच बुरा नहीं है।
-Your Japanese is good.	Dein Japanisch ist gut.	आपका जापानी अच्छा है।
-Your account is empty.	Ihr Konto ist leer.	आपका खाता खाली है।
-Your account is empty.	Euer Konto ist leer.	आपका खाता खाली है।
-Your cat scratched me.	Deine Katze hat mich gekratzt.	आपकी बिल्ली ने मुझे खरोंच दिया।
-Your cough worries me.	Dein Husten macht mir Sorgen.	तुम्हारी खांसी मुझे चिंतित करती है।
-Your cough worries me.	Ihr Husten macht mir Sorgen.	तुम्हारी खांसी मुझे चिंतित करती है।
-Your cough worries me.	Euer Husten macht mir Sorgen.	तुम्हारी खांसी मुझे चिंतित करती है।
 Your family needs you.	Deine Familie braucht dich.	आपके परिवार को आपकी जरूरत है।
 Your family needs you.	Ihre Familie braucht Sie.	उसके परिवार को उनकी जरूरत है।
 Your family needs you.	Eure Familie braucht euch.	आपके परिवार को आपकी जरूरत है।
