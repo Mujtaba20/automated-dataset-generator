@@ -32400,3 +32400,8 @@ I'll leave you alone.	Ich werde dich in Ruhe lassen.	मैं तुम्ह�
 I'll live on welfare.	Ich werde von Sozialleistungen leben.	मैं कल्याण पर जीता रहूंगा।
 I'll love you always.	Ich werde immer für dich da sein.	मैं हमेशा तुम्हारे साथ रहूंगा।
 I'll make sure of it.	Ich werde dafür sorgen.	मैं इसे सुनिश्चित कर दूंगा।
+I'll never leave you.	Ich werde dich nicht verlassen.	मैं तुम्हें कभी नहीं छोड़ूँगा।
+I'll never lose hope.	Ich werde niemals die Hoffnung verlieren.	मैं कभी आशा नहीं हारूंगा।
+I'll phone you later.	Ich werde dich später telefonieren.	मैं तुम्हें बाद में फोन करूंगा।
+I'll prove it to you.	Ich werde es dir zeigen.	मैं तुम्हें यह दिखलाऊँगा।
+I'll see you at 2:30.	Ich werde dich um 2:30 sehen.	मैं तुम्हें 2:30 बजे मिलूंगा।
