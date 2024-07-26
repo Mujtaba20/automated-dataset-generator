@@ -28828,3 +28828,12 @@ Tom is a pawnbroker.	Tom ist ein Pfandleiher.	टॉम एक व्याज�
 Tom is a pharmacist.	Tom ist Apotheker.	टॉम एक फार्मेसिस्ट है।
 Tom is a polite boy.	Tom ist ein höflicher Junge.	टॉम एक शिष्ट लड़का है।
 Tom is a programmer.	Tom ist ein Programmierer.	टॉम एक प्रोग्रामर है।
+Tom is a psychopath.	Tom ist ein Psychopath.	टॉम एक मनोरोगी है।
+Tom is a risk taker.	Tom ist ein Risikosucher.	टॉम एक जोखिम लेने वाला है।
+Tom is a risk taker. (different meaning)	Tom ist ein Risikofreudige.	टॉम एक जोखिम पसंद करने वाला है।
+Tom is a simple man.	Tom ist ein einfacher Mann.	टॉम एक साधारण आदमी है।
+Tom is a slow eater.	Tom isst langsam.	टॉम धीरे भोजन करता है।
+Tom is a stonemason.	Tom ist ein Steinmetz.	टॉम एक पत्थर मिस्री है।
+Tom is a strong guy.	Tom ist ein starker Typ.	टॉम एक मजबूत आदमी है।
+Tom is a strong kid.	Tom ist ein starker Junge.	टॉम एक मजबूत बच्चा है।
+Tom is a strong man.	Tom ist ein starker Mann.	टॉम एक मजबूत आदमी है।

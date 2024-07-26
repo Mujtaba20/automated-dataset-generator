@@ -1,14 +1,4 @@
 
-Tom is a psychopath.	Tom ist ein Psychopath.	टॉम एक मनोरोगी है।
-Tom is a risk taker.	Tom ist ein Wagehals.	टॉम एक साहसी है।
-Tom is a risk taker.	Tom ist ein waghalsiger Mensch.	टॉम एक साहसी व्यक्ति है।
-Tom is a risk taker.	Tom ist ein wagemutiger Mensch.	टॉम एक साहसी व्यक्ति है।
-Tom is a simple man.	Tom ist ein einfacher Mann.	टॉम एक साधारण आदमी है।
-Tom is a slow eater.	Tom ist ein langsamer Esser.	टॉम एक धीमी गति से खाने वाला है।
-Tom is a stonemason.	Tom ist Steinmetz.	टॉम स्टोनमेसन है।
-Tom is a strong guy.	Tom ist ein starker Kerl.	टॉम एक मजबूत लड़का है।
-Tom is a strong kid.	Tom ist ein starkes Kind.	टॉम एक मजबूत बच्चा है।
-Tom is a strong man.	Tom ist ein starker Mann.	टॉम एक मजबूत आदमी है।
 Tom is a stupid boy.	Tom ist ein dummer Junge.	टॉम एक बेवकूफ लड़का है।
 Tom is a vegetarian.	Tom ist Vegetarier.	टॉम एक शाकाहारी है।
 Tom is a workaholic.	Tom ist arbeitswütig.	टॉम उत्साही है।
