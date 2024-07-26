@@ -32996,3 +32996,13 @@ Let's leave the room.	Lass uns den Raum verlassen.	कमरे छोड़ द
 Let's let Tom decide.	Lassen Sie Tom entscheiden.	टॉम को निर्णय करने दें।
 Let's make a snowman.	Lass uns einen Schneemann machen.	चलो हम एक बर्फ का पुरुष बनाते हैं।
 Let's make it simple.	Lass es uns einfach machen.	इसे सरल बनाएं।
+Let's make some more.	Lassen Sie uns etwas mehr machen.	हम और कुछ बनाते हैं।
+Let's meet on Monday.	Lass uns am Montag treffen.	हम सोमवार को मिलें।
+Let's meet on Sunday.	Lass uns am Sonntag treffen.	हम रविवार को मिलें।
+Let's not bother Tom.	Lassen Sie uns Tom nicht stören.	हमें टॉम को परेशान न करें।
+Let's play something.	Lass uns etwas spielen.	हम कुछ खेलते हैं।
+Let's play something,	Lass uns etwas spielen.	हम कुछ खेलते हैं।
+Let's relax a little.	Lassen Sie uns ein wenig entspannen.	हम थोड़ा आराम करें।
+Let's sing and dance.	Lasst uns singen und tanzen.	हम गाएं और नृत्य करें।
+Let's split the bill.	Lassen Sie uns die Rechnung aufteilen.	हम बिल भागते हैं।
+Let's talk seriously.	Lasst uns ernsthaft reden.	हम गंभीर बात करें।
