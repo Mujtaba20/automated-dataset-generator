@@ -21236,3 +21236,12 @@ I got carried away.	Ich ließ mich hinreißen.	मैं उत्तेजि�
 I got hit by a car.	Ich wurde von einem Auto angefahren.	मुझपे एक गाड़ी से टक्कर लगी।
 I got my shoes wet.	Ich habe meine Schuhe nass gemacht.	मैंने अपने जूते गीले कर दिए।
 I got off my horse.	Ich stieg von meinem Pferd ab.	मैंने अपने घोड़े से उतर गया।
+I got on the horse.	Ich stieg auf das Pferd.	मैं घोड़े पर चढ़ गया।
+I got stage fright.	Ich bekam Lampenfieber.	मुझे मंच डर हुआ।
+I got teased a lot.	Ich wurde viel geneckt.	मुझे बहुत उलझाया गया।
+I got up about six.	Ich bin gegen sechs Uhr aufgestanden.	मैं लगभग छह बजे उठ गया।
+I got your message.	Ich habe deine Nachricht erhalten.	मैंने आपका संदेश प्राप्त किया।
+I grew up with Tom.	Ich bin mit Tom aufgewachsen.	मैंने टॉम के साथ बड़ा है।
+I guess that'll do.	Ich denke, das wird schon reichen.	मुझे लगता है कि यह काफी होगा।
+I had a good sleep.	Ich habe gut geschlafen.	मुझे अच्छी नींद आई।
+I had loads of fun.	Ich hatte eine Menge Spaß.	मुझे बहुत मजा आया।
