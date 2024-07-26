@@ -28121,3 +28121,10 @@ That's more like it.	Das ist besser.	यह ज्यादा ठीक है�
 That's no good, Tom.	Das ist nicht gut, Tom.	वह ठीक नहीं है, टॉम।
 That's not a secret.	Das ist kein Geheimnis.	यह एक रहस्य नहीं है।
 That's not half bad.	Das ist gar nicht so schlecht.	यह पूरी तरह से बुरा नहीं है।
+That's not my fault.	Das liegt nicht an mir.	यह मेरी गलती नहीं है।
+That's not my style.	Das ist nicht mein Stil.	यह मेरी शैली नहीं है।
+That's not my thing.	Das ist nicht mein Ding.	वह मेरी चीज़ नहीं है।
+That's not possible.	Das geht nicht.	यह संभावना नहीं है।
+That's not the case.	Das trifft nicht zu.	यह गलत है।
+That's not your cup.	Das ist nicht dein Ding.	यह तुम्हारी चाय कप नहीं है।
+That's our new boss.	Das ist unser neuer Vorgesetzter.	यह हमारा नया मालिक है।
