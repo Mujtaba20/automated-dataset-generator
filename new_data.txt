@@ -22926,3 +22926,12 @@ That's not allowed.	Das ist nicht erlaubt.	यह अनुमति नही�
 That's not for Tom.	Das ist nicht für Tom.	यह टॉम के लिए नहीं है।
 That's not for you.	Das ist nicht für dich.	यह तुम्हारे लिए नहीं है।
 That's not healthy.	Das ist nicht gesund.	यह स्वस्थ नहीं है।
+That's not ketchup.	Das ist kein Ketchup.	वह केचप नहीं है।
+That's not my name.	Das ist nicht mein Name.	वह मेरा नाम नहीं है।
+That's nothing new.	Das ist nichts Neues.	वह कोई नया नहीं है।
+That's one of mine.	Das ist eines von mir.	वह मेरा एक है।
+That's one of ours.	Das ist einer von uns.	वह हमारे में से एक है।
+That's our problem.	Das ist unser Problem.	वह हमारी समस्या है।
+That's really cool.	Das ist wirklich cool.	यह वास्तव में कूल है।
+That's really cute.	Das ist wirklich süß.	यह वास्तव में प्यारा है।
+That's really good.	Das ist wirklich gut.	यह सच्चे में अच्छा है।
