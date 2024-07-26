@@ -41162,3 +41162,12 @@ We're looking for Tom.	Wir suchen Tom.	हम टॉम को ढूंढ़ �
 We're looking for oil.	Wir suchen nach Öl.	हम तेल की तलाश में हैं।
 We're nearly finished.	Wir sind fast fertig.	हम लगभग समाप्त हो गए हैं।
 We're not going there.	Wir gehen nicht dorthin.	हम वहाँ नहीं जा रहे हैं।
+We're not good enough.	Wir sind nicht gut genug.	हम अच्छे नहीं हैं।
+We're not that stupid.	Wir sind nicht so dumm.	हम उतने मूर्ख नहीं हैं।
+We're on our way home.	Wir sind auf dem Weg nach Hause.	हम घर की तरफ़ रास्ते पर हैं।
+We're on the way home.	Wir sind auf dem Heimweg.	हम घर के रास्ते पर हैं।
+We're still in Boston.	Wir sind immer noch in Boston.	हम अब भी बोस्टन में हैं।
+We're still very busy.	Wir sind immer noch sehr beschäftigt.	हम अब भी बहुत व्यस्त हैं।
+We're studying French.	Wir studieren Französisch.	हम फ्रेंच पढ़ रहे हैं।
+We're waiting for Tom.	Wir warten auf Tom.	हम टॉम का इंतजार कर रहे हैं।
+We're working for you.	Wir arbeiten für dich.	हम आपके लिए काम कर रहे हैं।
