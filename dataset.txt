@@ -1,14 +1,4 @@
 
-Is there an ATM nearby?	Gibt es hier in der Nähe einen Geldautomaten?	क्या पास में कोई एटीएम है?
-Is there any appetizer?	Gibt es eine Vorspeise?	क्या कोई स्टार्टर है?
-Is there any beer left?	Ist noch Bier da?	क्या अभी भी बीयर है?
-Is there any milk left?	Ist noch Milch da?	क्या अभी भी दूध है?
-Is there no bread left?	Gibt's kein Brot mehr?	क्या कोई और रोटी नहीं है?
-Is this Canadian money?	Ist das kanadisches Geld?	क्या कनाडाई पैसा है?
-Is this Tom's umbrella?	Ist das Toms Schirm?	क्या टॉम की छतरी है?
-Is this a real diamond?	Ist das ein echter Diamant?	क्या यह एक असली हीरा है?
-Is this a recent photo?	Ist das ein aktuelles Foto?	क्या यह एक वर्तमान फोटो है?
-Is this drinking water?	Ist das Trinkwasser?	क्या यह पानी पीने योग्य है?
 Is this really allowed?	Ist das wirklich erlaubt?	क्या यह वास्तव में अनुमति है?
 Is this really allowed?	Ist das tatsächlich erlaubt?	क्या यह वास्तव में अनुमति है?
 Is this the right road?	Ist das der richtige Weg?	क्या यह सही तरीका है?
