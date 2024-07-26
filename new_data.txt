@@ -33535,3 +33535,10 @@ That was Tom's fault.	Das war Toms Schuld.	यह टॉम की गलती 
 That was a close one.	Das war knapp.	वह निकट था।
 That was a good sign.	Das war ein gutes Zeichen.	वह एक अच्छा संकेत था।
 That was a good time.	Das war eine gute Zeit.	वह अच्छा समय था।
+That was interesting.	Das war interessant.	वह दिलचस्प था।
+That was just a joke.	Das war nur ein Witz.	यह सिर्फ मजाक था।
+That was predictable.	Das war vorhersehbar.	यह पूर्वानुमान था।
+That was really mean.	Das war wirklich gemein.	वास्तव में वह कठोर था।
+That was so much fun.	Das hat so viel Spaß gemacht.	वह बहुत मज़ेदार था।
+That was the trouble.	Das war das Problem.	वह मुसीबत थी।
+That was unnecessary.	Das war unnötig.	यह अनावश्यक था।
