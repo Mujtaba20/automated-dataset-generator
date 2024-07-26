@@ -27572,3 +27572,13 @@ Make an appointment.	Machen Sie einen Termin.	एक अपॉइंटमें
 Make sure Tom comes.	Stellen Sie sicher, dass Tom kommt.	यकीनी बनाएं कि टॉम आता है।
 Man, don't say that!	Mann, sag das nicht!	आदमी, ऐसा मत कहो!
 Many people do that.	Viele Leute tun das.	बहुत से लोग ऐसा करते हैं।
+Many people do this.	Viele Menschen tun dies.	बहुत से लोग ऐसा करते हैं।
+Mary can dance well.	Marie kann gut tanzen.	मेरी अच्छे से नृत्य कर सकती है।
+Mary can dance well. (Different meaning)	Mary kann gut tanzen.	मेरी अच्छे से नृत्य कर सकती है।
+Mary is a good girl.	Mary ist ein gutes Mädchen.	मेरी एक अच्छी लड़की है।
+Mary is a widow now.	Mary ist jetzt eine Witwe.	मेरी एक विधवा है अब।
+Mary is a widow now. (Different meaning)	Marie ist jetzt ohne Mann.	मेरी एक विधवा है अब।
+Mary is my daughter.	Mary ist meine Tochter.	मेरी बेटी है मेरी.
+Mary is my fiancée.	Mary ist meine Verlobte.	मेरी पत्नी है मेरी.
+Mary is not my type.	Mary ist nicht mein Typ.	मेरी मेरा प्रकार नहीं है।
+Mary is very pretty.	Marie ist sehr hübsch.	मेरी बहुत प्यारी है।
