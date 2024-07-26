@@ -1,14 +1,4 @@
 
-I think he has done it.	Ich glaube, dass er es getan hat.	मुझे लगता है कि उसने ऐसा किया।
-I think he has done it.	Ich glaube, dass er es gemacht hat.	मुझे लगता है कि उसने ऐसा किया।
-I think he is a doctor.	Ich denke, er ist Arzt.	मुझे लगता है कि वह एक डॉक्टर है।
-I think he's competent.	Ich denke, dass er kompetent ist.	मुझे लगता है कि वह सक्षम है।
-I think he's too young.	Ich denke, er ist noch zu jung.	मुझे लगता है कि वह अभी भी बहुत छोटा है।
-I think it looks great.	Ich denke, es sieht großartig aus.	मेरा मानना ​​है वह बेहतरीन दिख रहा है।
-I think it looks great.	Ich finde, er sieht großartig aus.	मेरा मानना ​​है वह बेहतरीन दिख रहा है।
-I think it looks great.	Ich finde, sie sieht großartig aus.	मुझे लगता है कि वह बहुत अच्छी दिखती है।
-I think it makes sense.	Ich denke, dass es Sinn macht.	मुझे लगता है कि यह समझ में आता है।
-I think it tastes good.	Ich finde, es schmeckt.	मुझे लगता है कि इसका स्वाद अच्छा है।
 I think it's very good.	Ich denke, es ist sehr gut.	मुझे लगता है कि यह बहुत अच्छा है।
 I think she'll help me.	Ich denke, dass sie mir helfen wird.	मुझे लगता है कि वह मेरी मदद करेगी।
 I think she's innocent.	Ich glaube, dass sie unschuldig ist.	मुझे लगता है कि वह निर्दोष है।
