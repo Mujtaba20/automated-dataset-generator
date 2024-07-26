@@ -38710,3 +38710,13 @@ Lay this aside for me.	Legen Sie das beiseite für mich.	इसे मेरे 
 Learn those sentences.	Lerne diese Sätze.	उन वाक्यों को सीखो।
 Leave it off the list.	Streiche es von der Liste.	सूची से निकाल दो।
 Leave my camera alone.	Lass meine Kamera in Ruhe.	मेरी कैमरा को छोड़ दो।
+Leave my family alone.	Lass meine Familie in Ruhe.	मेरे परिवार को अकेले छोड़ दो।
+Leave my things alone.	Lass meine Sachen in Ruhe.	मेरी चीजों को अकेले छोड़ो।
+Let Tom have his turn.	Lass Tom dran kommen.	टॉम को अपनी बार मिलने दो।
+Let Tom have his turn. - 2	Lass Tom seine Chance nutzen.	टॉम को अपनी बार मिलने दो।
+Let in some fresh air.	Lass etwas frische Luft herein.	कुछ ताज़ा हवा आने दो।
+Let me drive you home.	Lass mich dich nach Hause fahren.	मुझे तुम्हें घर छोड़ने दो।
+Let me drive you home. - 2	Lass mich dich nach Hause bringen.	मुझे तुम्हें घर ले जाने दो।
+Let me fix the switch.	Lass mich den Schalter reparieren.	मुझे स्विच ठीक करने दो।
+Let me give you a hug.	Lass mich dich umarmen.	मुझे तुम्हें गले लगाने दो।
+Let me give you a hug. - 2	Lass mich dich drücken.	मुझे तुम्हें गले लगाने दो।
