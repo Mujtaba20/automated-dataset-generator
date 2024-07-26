@@ -29886,3 +29886,9 @@ engSentence7	Wann brauchst du es?	तुम्हें यह कब चाह�
 engSentence8	Wann benötigst du es?	तुम्हें यह कब चाहिए?
 engSentence9	Wann brauchst du es?	तुम्हें यह कब जरूरत है?
 engSentence10	Wann möchtest du es?	तुम इसे कब चाहते हैं?
+When does Tom study?	Wann lernt Tom?	जब टॉम पढ़ाई करता है?
+When does it arrive?	Wann kommt es an?	जब यह आता है?
+When is school over?	Wann endet die Schule?	स्‍कूल कब समाप्त होती है?
+When is your flight?	Wann ist dein Flug?	तुम्हारी उड़ान कब है?
+When will we arrive?	Wann werden wir ankommen?	हम कब पहुंचेंगे?
+When will you leave?	Wann gehst du weg?	तुम कब जा रहे हो?

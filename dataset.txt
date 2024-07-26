@@ -1,16 +1,4 @@
 
-When does Tom study?	Wann studiert Tom eigentlich?	टॉम वास्तव में कब अध्ययन करता है?
-When does it arrive?	Wann kommt es an?	यह कब आता है?
-When is school over?	Wann ist der Unterricht vorbei?	सबक कब खत्म होता है?
-When is school over?	Wann ist die Schule aus?	स्कूल कब है?
-When is your flight?	Wann geht dein Flug?	आपकी उड़ान कब छोड़ती है?
-When is your flight?	Wann geht Ihr Flug?	आपकी उड़ान कब होगी?
-When is your flight?	Wann geht euer Flug?	आपकी उड़ान कब होगी?
-When will we arrive?	Wann kommen wir an?	हम कब पहुंचते हैं?
-When will you leave?	Wann gehst du los?	आप कहां निकल रहे हैं?
-When will you leave?	Wann brichst du auf?	आप कब खुले हैं?
-When will you leave?	Wann geht ihr los?	आप कहां निकल रहे हैं?
-When will you leave?	Wann gehen Sie los?	आप कब शुरु कर रहे हैं?
 When will you start?	Wann fängst du an?	आप कब शुरु कर रहे हैं?
 Where are my gloves?	Wo sind meine Handschuhe?	मेरे दस्ताने कहाँ हैं?
 Where are my things?	Wo sind meine Sachen?	मेरी बातें कहाँ हैं?
