@@ -40452,3 +40452,13 @@ Tom isn't very bright.	Tom ist nicht sehr klug.	टॉम बहुत होश
 Tom isn't very clever.	Tom ist nicht sehr schlau.	टॉम बहुत चालाक नहीं है।
 Tom isn't very polite.	Tom ist nicht sehr höflich.	टॉम बहुत शिष्ट नहीं है।
 Tom isn't very strong.	Tom ist nicht sehr stark.	टॉम बहुत मजबूत नहीं है।
+Tom isn't your friend.	Tom ist nicht dein Freund.	टॉम तुम्हारा दोस्त नहीं है।
+Tom jumped out of bed.	Tom sprang aus dem Bett.	टॉम बिस्तर से कूद गया।
+Tom just contacted us.	Tom hat uns gerade kontaktiert.	टॉम ने हमसे संपर्क किया है।
+Tom just got a tattoo.	Tom hat sich gerade ein Tattoo machen lassen.	टॉम ने हाल ही में एक टैटू कराया।
+Tom keeps bad company.	Tom hält schlechte Gesellschaft.	टॉम बुरे लोगों के साथ रहता है।
+Tom kept Mary waiting.	Tom ließ Mary warten.	टॉम ने मेरी को इंतेज़ार करवाया।
+Tom kept his distance.	Tom hielt Abstand.	टॉम ने अपनी दूरी बनाए रखी।
+Tom killed his mother.	Tom tötete seine Mutter.	टॉम ने अपनी मां को मार दिया।
+Tom killed the dragon.	Tom tötete den Drachen.	टॉम ने ड्रैगन को मार दिया।
+Tom kind of went nuts.	Tom ist irgendwie verrückt geworden.	टॉम थोड़ा पागल हो गया।
