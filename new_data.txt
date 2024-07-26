@@ -24908,3 +24908,9 @@ You may be correct.	Eventuell haben Sie recht.	शायद आप सही ह
 You may use my car.	Du darfst mein Auto benutzen.	तुम मेरी कार का उपयोग कर सकते हैं।
 You might be right.	Du könntest recht haben.	तुम सही हो सकते हो।
 You may be right.	Du könntest recht haben.	तुम सही हो सकते हो।
+You might meet Tom.	Du könntest Tom treffen.	तुम टॉम से मिल सकते हैं।
+You must be a fool.	Du musst ein Narr sein.	तुमें एक मूर्ख होना चाहिए।
+You must be joking!	Du musst wohl scherzen!	तुमे मजाक कर रहे हो!
+You must be polite.	Du musst höflich sein.	तुम्हें शिष्ट बनना चाहिए।
+You must leave now.	Du musst jetzt gehen.	तुम्हें अभी जाना होगा।
+You must not smoke.	Du darfst nicht rauchen.	तुम्हें सिगरेट नहीं पीनी चाहिए।

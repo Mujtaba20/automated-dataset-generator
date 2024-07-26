@@ -1,15 +1,4 @@
 
-You might meet Tom.	Vielleicht begegnest du Tom.	शायद आप टॉम से मिलेंगे।
-You must be a fool.	Du bist doch ein Trottel!	तुम बेवकूफ हो!
-You must be joking!	Du machst Witze!	आप मजाक कर रहे हैं!
-You must be joking!	Sie belieben wohl zu scherzen.	वे शायद चुटकुले के लिए खुश हैं।
-You must be joking!	Du beliebst wohl zu scherzen.	आप अधिक लोकप्रिय होंगे।
-You must be joking!	Ihr beliebt wohl zu scherzen.	आपका मजाक करने के लिए लोकप्रिय।
-You must be polite.	Du musst höflich sein.	आपको विनम्र होना होगा।
-You must leave now.	Du musst jetzt gehen.	अब आपको जाना होगा।
-You must not smoke.	Du darfst nicht rauchen.	आपको धूम्रपान करने की अनुमति नहीं है।
-You must not smoke.	Ihr dürft nicht rauchen.	आपको धूम्रपान नहीं करना चाहिए।
-You must not smoke.	Sie dürfen nicht rauchen.	आपको धूम्रपान करने की अनुमति नहीं है।
 You need a haircut.	Du musst zum Friseur gehen.	आपको हेयरड्रेसर के पास जाना होगा।
 You need a holiday.	Du brauchst Urlaub.	आपको छुट्टी चाहिए।
 You need a holiday.	Ihr braucht Urlaub.	आपको छुट्टी चाहिए।
