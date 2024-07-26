@@ -24926,3 +24926,9 @@ You only live once.	Du lebst nur einmal.	तुम सिर्फ एक बा
 You ought to study.	Du solltest studieren.	तुम्हें पढ़ाई करनी चाहिए।
 You ruined my life.	Du hast mein Leben ruiniert.	तुमने मेरी जिंदगी बर्बाद कर दी।
 You seem depressed.	Du scheinst deprimiert zu sein.	तुम उदास लगते हो।
+You seem very busy.	Du scheinst sehr beschäftigt zu sein.	तुम बहुत काम में लगे हुए लग रहे हो।
+You should do that.	Du solltest das tun.	तुम्हें वह करना चाहिए।
+You should eat now.	Du solltest jetzt essen.	तुम्हें अभी खाना चाहिए।
+You should go home.	Du solltest nach Hause gehen.	तुम्हें अपने घर चले जाना चाहिए।
+You should join us.	Du solltest uns beitreten.	तुम्हें हमारे साथ शामिल होना चाहिए।
+You should know it.	Du solltest es wissen.	तुम्हें यह जानना चाहिए।

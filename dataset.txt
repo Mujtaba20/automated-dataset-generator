@@ -1,17 +1,4 @@
 
-You seem very busy.	Du scheinst sehr beschäftigt zu sein.	आप बहुत व्यस्त लग रहे हैं।
-You seem very busy.	Sie scheinen sehr beschäftigt zu sein.	वे बहुत व्यस्त लग रहे हैं।
-You seem very busy.	Ihr scheint sehr beschäftigt zu sein.	आप बहुत व्यस्त लग रहे हैं।
-You should do that.	Du solltest das tun.	तुम्हें वह करना चाहिए।
-You should eat now.	Du solltest jetzt etwas essen.	अब आपको कुछ खाना चाहिए।
-You should go home.	Du solltest nach Hause gehen.	तुम्हें घर जाना चाहिये।
-You should go home.	Sie sollten nach Hause gehen.	तुम्हें घर जाना चाहिये।
-You should go home.	Ihr solltet nach Hause gehen.	तुम्हें घर जाना चाहिये।
-You should join us.	Du solltest bei uns mitmachen.	आपको हमारे साथ भाग लेना चाहिए।
-You should know it.	Du solltest es wissen.	आपको यह आना चाहिए।
-You should know it.	Ihr solltet es wissen.	आपको पता होना चाहिए।
-You should know it.	Sie sollten es wissen.	आपको पता होना चाहिए।
-You should know it.	Das solltest du wissen.	तुम्हें यह पता होना चाहिए।
 You should sue Tom.	Du solltest Tom verklagen.	आपको टॉम पर मुकदमा करना चाहिए।
 You should sue Tom.	Sie sollten Tom verklagen.	आपको टॉम पर मुकदमा करना चाहिए।
 You should sue Tom.	Ihr solltet Tom verklagen.	आपको टॉम पर मुकदमा करना चाहिए।
