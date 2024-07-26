@@ -1,16 +1,4 @@
 
-You're too aggressive.	Du bist zu aggressiv.	आप बहुत आक्रामक हैं।
-You're too aggressive.	Ihr seid zu aggressiv.	आप बहुत आक्रामक हैं।
-You're too aggressive.	Sie sind zu aggressiv.	वे बहुत आक्रामक हैं।
-You're too good to me.	Du bist zu gut zu mir.	तुम मेरे लिए बहुत अच्छे हो।
-You're too inflexible.	Du bist zu unflexibel.	आप बहुत अनम्य हैं।
-You're too inflexible.	Ihr seid zu unflexibel.	आप बहुत अनम्य हैं।
-You're too inflexible.	Sie sind zu unflexibel.	वे बहुत अनम्य हैं।
-You're tough but fair.	Du bist hart, aber gerecht.	आप कठिन हैं लेकिन निष्पक्ष हैं।
-You're tough but fair.	Sie sind hart, aber gerecht.	वे कठिन लेकिन निष्पक्ष हैं।
-You're very attentive.	Du bist sehr aufmerksam.	आप बहुत चौकस हैं।
-You're very attentive.	Ihr seid sehr aufmerksam.	आप बहुत चौकस हैं।
-You're very attentive.	Sie sind sehr aufmerksam.	वे बहुत चौकस हैं।
 You're very beautiful.	Du bist sehr schön.	आप बहुत खूबसूरत हो।
 You're very efficient.	Du bist sehr tüchtig.	आप बहुत कुशल हैं।
 You're very emotional.	Du bist sehr emotional.	तुम बहुत जज़्बाती हो।
