@@ -31426,3 +31426,11 @@ I baked some cookies.	Ich habe einige Kekse gebacken.	मैंने कुछ 
 I beg you to help me.	Ich bitte dich, mir zu helfen.	मैं आपसे याचना करता हूँ की मुझे मदद करें।
 I beg you to help us.	Ich bitte dich, uns zu helfen.	मैं आपसे याचना करता हूँ की हमें मदद करें।
 I begged Tom to stay.	Ich bat Tom zu bleiben.	मैंने टॉम से कहा की रुके रहें।
+I bet this will work.	Ich wette, das wird funktionieren.	मैं इसे काम करने पर बाहुत विश्वास करता हूँ।
+I borrowed Tom's car.	Ich habe Toms Auto ausgeliehen.	मैंने टॉम की कार उधार ली।
+I bought a newspaper.	Ich habe eine Zeitung gekauft.	मैंने एक अख़बार ख़रीदी।
+I bought a red diary.	Ich habe ein rotes Tagebuch gekauft.	मैंने एक लाल डायरी खरीदी।
+I bought a small car.	Ich habe ein kleines Auto gekauft.	मैंने एक छोटी सी गाड़ी खरीदी।
+I bought an old lamp.	Ich habe eine alte Lampe gekauft.	मैंने एक पुरानी बत्ती खरीदी।
+I bought an umbrella.	Ich habe einen Regenschirm gekauft.	मैंने एक छाता खरीदा।
+I bought fresh bread.	Ich habe frisches Brot gekauft.	मैंने ताजा रोटी खरीदी।
