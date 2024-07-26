@@ -27868,3 +27868,11 @@ She drives me crazy.	Sie macht mich verrückt.	वह मुझे पागल 
 She feels bad today.	Sie fühlt sich heute schlecht.	उसे आज बुरा लग रहा है।
 She gave him a book.	Sie gab ihm ein Buch.	उसने उसे एक किताब दी।
 She gave me a watch.	Sie gab mir eine Uhr.	उसने मुझे एक घड़ी दी।
+She gave up smoking.	Sie hört auf zu rauchen.	उसने सिगरेट पिना भारी कर दिया।
+She has 2,000 books.	Sie hat 2.000 Bücher.	उसके पास 2,000 किताबें हैं।
+She has a few books.	Sie hat ein paar Bücher.	उसके पास कुछ किताबें हैं।
+She has a long nose.	Sie hat eine lange Nase.	उसकी नाक लम्बी है।
+She has a white cat.	Sie hat eine weiße Katze.	उसके पास एक सफेद बिल्ली है।
+She has faults, too.	Sie hat auch Fehler.	उसमें भी कुछ गलतियाँ हैं।
+She has few friends.	Sie hat wenige Freunde.	उसके कुछ दोस्त हैं।
+She has gone abroad.	Sie ist ins Ausland gegangen.	वह विदेश गई है।
