@@ -1,16 +1,4 @@
 
-I slipped on the ice.	Ich bin auf dem Eis ausgerutscht.	मैं बर्फ पर फिसल गया।
-I sold Tom a T-shirt.	Ich habe Tom ein T-Shirt verkauft.	मैंने टॉम को एक टी-शर्ट बेच दिया।
-I solved the mystery.	Ich habe das Rätsel gelöst.	मैंने पहेली को हल किया।
-I solved the problem.	Ich habe das Problem gelöst.	मैंने समस्या हल कर दी।
-I sometimes watch TV.	Ich schaue manchmal fern.	मैं कभी -कभी दूर देखता हूं।
-I sort of understand.	Eigentlich verstehe ich.	मैं वास्तव में समझता हूं।
-I sort of understand.	In etwa verstehe ich es.	मुझे इसकी समझ है।
-I started this topic.	Ich habe dieses Thema angeschnitten.	मैंने इस विषय को काट दिया।
-I started this topic.	Ich habe dieses Thema eröffnet.	मैंने यह विषय खोला।
-I still don't see it.	Ich kann es immer noch nicht sehen.	मैं अभी भी इसे नहीं देख सकता।
-I still don't see it.	Ich kann ihn immer noch nicht sehen.	मैं अभी भी उसे नहीं देख सकता।
-I still don't see it.	Ich kann sie immer noch nicht sehen.	मैं अभी भी उसे नहीं देख सकता।
 I still teach French.	Ich unterrichte immer noch Französisch.	मैं अभी भी फ्रेंच सिखाता हूं।
 I still write poetry.	Ich schreibe noch immer Gedichte.	मैं अभी भी कविताएँ लिखता हूं।
 I studied last night.	Ich studierte letzte Nacht.	मैंने कल रात अध्ययन किया।

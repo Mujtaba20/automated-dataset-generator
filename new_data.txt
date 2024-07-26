@@ -32093,3 +32093,11 @@ I shuffled the cards.	Ich habe die Karten gemischt.	मैंने कार्
 I sleep in a big bed.	Ich schlafe in einem großen Bett.	मैं एक बड़े बिस्तर में सोता हूं।
 I slid down the rope.	Ich bin die Schnur hinuntergerutscht.	मैंने रस्सी से धक्का लगाकर चला गया।
 I slid the door open.	Ich habe die Tür aufgeschoben.	मैंने दरवाज़ा खोल दिया।
+I slipped on the ice.	Ich bin auf dem Eis ausgerutscht.	मैं बर्फ पर फिसल गया।
+I sold Tom a T-shirt.	Ich habe Tom ein T-Shirt verkauft.	मैंने टॉम को एक टी-शर्ट बेची।
+I solved the mystery.	Ich habe das Rätsel gelöst.	मैंने रहस्य को हल किया।
+I solved the problem.	Ich habe das Problem gelöst.	मैंने समस्या का समाधान किया।
+I sometimes watch TV.	Manchmal sehe ich fern.	कभी-कभी मैं टीवी देखता हूँ।
+I sort of understand.	Ich verstehe so einigermaßen.	मुझे समझ आया।
+I started this topic.	Ich habe dieses Thema begonnen.	मैंने यह विषय शुरू किया।
+I still don't see it.	Ich sehe es immer noch nicht.	मुझे अब भी नहीं दिखाई देता।
