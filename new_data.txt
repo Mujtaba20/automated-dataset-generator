@@ -29705,3 +29705,13 @@ We're in the forest.	Wir sind im Wald.	हम जंगल में हैं�
 We're in the garden.	Wir sind im Garten.	हम बगीचे में हैं।
 We're just relaxing.	Wir entspannen uns nur.	हम सिर्फ आराम कर रहे हैं।
 We're like brothers.	Wir sind wie Brüder.	हम भाई की तरह हैं।
+We're not giving up.	Wir geben nicht auf.	हम हार नहीं मान रहें हैं।
+We're not going out.	Wir gehen nicht raus.	हम बाहर नहीं जा रहे हैं।
+We're not in Boston.	Wir sind nicht in Boston.	हम बॉस्टन में नहीं हैं।
+We're not in danger.	Wir sind nicht in Gefahr.	हमें खतरा नहीं है।
+We're not like that.	Wir sind nicht so.	हम ऐसे नहीं हैं।
+We're not listening.	Wir hören nicht zu.	हम सुन रहे नहीं हैं।
+We're not safe here.	Wir sind hier nicht sicher.	यहाँ हम सुरक्षित नहीं हैं।
+We're not strangers.	Wir sind keine Fremden.	हम परदेसी नहीं हैं।
+We're not surprised.	Wir sind nicht überrascht.	हमें अचानकी नहीं हो रहा है।
+We're not very good.	Wir sind nicht sehr gut.	हम बहुत अच्छे नहीं हैं।
