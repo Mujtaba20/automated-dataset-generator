@@ -39953,3 +39953,13 @@ Tom did it, didn't he?	Tom hat es gemacht, oder?	टॉम ने यह कि�
 Tom did nothing wrong.	Tom hat nichts falsch gemacht.	टॉमने कुछ ग़लत नहीं किया।
 Tom did that for Mary.	Tom hat das für Mary getan.	टॉमने उसे मेरी के लिए किया।
 Tom didn't believe me.	Tom hat mir nicht geglaubt.	टॉम मुझ पर यकीन नहीं किया।
+Tom didn't cry at all.	Tom hat überhaupt nicht geweint.	टॉम ने बिल्कुल भी रोना नहीं किया।
+Tom didn't even smile.	Tom hat nicht einmal gelächelt.	टॉम ने मुस्कुराना भी नहीं।
+Tom didn't go fishing.	Tom ist nicht angeln gegangen.	टॉम नहीं गए मछली पकड़ने।
+Tom didn't have a car.	Tom hatte kein Auto.	टॉम के पास कोई कार नहीं थी।
+Tom didn't look happy.	Tom sah nicht glücklich aus.	टॉम खुश नहीं लग रहा था।
+Tom didn't marry Mary.	Tom hat Mary nicht geheiratet.	टॉमने मैरी से शादी नहीं की।
+Tom didn't name names.	Tom hat keine Namen genannt.	टॉमने किसी का नाम नहीं लिया।
+Tom didn't pick it up.	Tom hat es nicht aufgehoben.	टॉमने उसे नहीं उठाया।
+Tom didn't say a word.	Tom hat kein Wort gesagt.	टॉमने एक शब्द भी नहीं कहा।
+Tom didn't swim today.	Tom ist heute nicht geschwommen.	टॉमने आज तैराक नहीं किया।
