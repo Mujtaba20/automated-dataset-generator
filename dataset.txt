@@ -1,14 +1,4 @@
 
-Tom dried his hands.	Tom trocknete sich die Hände ab.	टॉम ने अपने हाथ सुखाए।
-Tom drinks red wine.	Tom trinkt Rotwein.	टॉम रेड वाइन पीता है।
-Tom drinks too much.	Tom trinkt zu viel.	टॉम बहुत ज्यादा पीता है।
-Tom drives a Datsun.	Tom fährt einen Datsun.	टॉम एक डैटसन ड्राइव करता है।
-Tom drives a Toyota.	Tom fährt einen Toyota.	टॉम एक टोयोटा ड्राइव करता है।
-Tom drives me crazy.	Tom macht mich verrückt.	टॉम मुझे पागल कर देता है।
-Tom drives me crazy.	Tom macht mich irre.	टॉम मुझे पागल कर देता है।
-Tom drives too fast.	Tom fährt zu schnell.	टॉम बहुत जल्दी ड्राइव करता है।
-Tom drove to school.	Tom fuhr zur Schule.	टॉम ने स्कूल चला गया।
-Tom drove very fast.	Tom fuhr sehr schnell.	टॉम बहुत जल्दी चला गया।
 Tom eats like a pig.	Tom frisst wie ein Schwein.	टॉम एक सुअर की तरह खाता है।
 Tom eats like a pig.	Tom isst wie ein Schwein.	टॉम एक सुअर की तरह खाता है।
 Tom encouraged Mary.	Tom ermunterte Maria.	टॉम ने मारिया को प्रोत्साहित किया।

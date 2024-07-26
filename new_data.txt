@@ -28659,3 +28659,12 @@ Tom doesn't want it.	Tom will es nicht.	टॉम चाहता नहीं �
 Tom doesn't want me.	Tom will mich nicht.	टॉम मुझे नहीं चाहता।
 Tom doesn't want us.	Tom will uns nicht.	टॉम हमें नहीं चाहता।
 Tom drank some milk.	Tom trank etwas Milch.	टॉमने कुछ दूध पिया।
+Tom dried his hands.	Tom trocknete seine Hände.	टॉम ने अपने हाथ सूखे किए।
+Tom drinks red wine.	Tom trinkt Rotwein.	टॉम लाल शराब पीता है।
+Tom drinks too much.	Tom trinkt zu viel.	टॉम बहुत ज्यादा पीता है।
+Tom drives a Datsun.	Tom fährt einen Datsun.	टॉम एक डैटसन ड्राइव करता है।
+Tom drives a Toyota.	Tom fährt einen Toyota.	टॉम एक टोयोटा चलाता है।
+Tom drives me crazy.	Tom macht mich verrückt.	टॉम मुझे पागल कर देता है।
+Tom drives too fast.	Tom fährt zu schnell.	टॉम बहुत तेज चलता है।
+Tom drove to school.	Tom fuhr zur Schule.	टॉम स्कूल जा रहा था।
+Tom drove very fast.	Tom fuhr sehr schnell.	टॉम बहुत तेज़ी से चलाया।
