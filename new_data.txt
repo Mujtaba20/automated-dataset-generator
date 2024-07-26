@@ -25163,3 +25163,10 @@ Baby ducks are cute.	Baby Enten sind niedlich.	छोटे बतख प्य�
 Baby lions are cute.	Baby Löwen sind süß.	छोटे शेर प्यारे होते हैं।
 Bad habits die hard.	Schlechte Gewohnheiten sterben schwer.	खराब आदतें मुश्किल से मरती हैं।
 Be careful in there.	Sei vorsichtig dort drinnen.	वहाँ सावधान रहिये।
+Be careful up there.	Sei vorsichtig dort oben.	वहाँ ऊपर सावधान रहें।
+Be gentle, but firm.	Sei sanft, aber bestimmt.	कोमल हो, पर दृढ़ रहो।
+Be nice to your mom.	Sei nett zu deiner Mutter.	अपनी माँ के प्रति अच्छा रहें।
+Be patient with Tom.	Sei geduldig mit Tom.	टॉम के साथ धीरज रखें।
+Be polite, but firm.	Sei höflich, aber bestimmt.	शिष्ट रहें, पर दृढ़ रहें।
+Be quiet and listen.	Sei ruhig und höre zu.	शांत रहो और सुनो।
+Be calm and composed.	Sei ruhig und gelassen.	शांत और संयमित रहो।
