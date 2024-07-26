@@ -39910,3 +39910,13 @@ Tom carved the turkey.	Tom schnitzte den Truthahn.	टॉम ने टर्क
 Tom caught a big fish.	Tom hat einen großen Fisch gefangen.	टॉमने एक बड़ी मछली पकड़ी।
 Tom caught three fish.	Tom fing drei Fische.	टॉमने तीन मछलियाँ पकड़ी।
 Tom chased after Mary.	Tom hat Mary gejagt.	टॉमने मैरी का पीछा किया।
+Tom chatted with Mary.	Tom unterhielt sich mit Mary.	टॉम ने मेरी के साथ चैट की।
+Tom checked his email.	Tom überprüfte seine E-Mails.	टॉम ने अपने ईमेल की जाँच की।
+Tom checked his notes.	Tom überprüfte seine Notizen.	टॉम ने अपने नोट्स की जाँच की।
+Tom checked his tires.	Tom überprüfte seine Reifen.	टॉम ने अपनी टायरों की जाँच की।
+Tom checked his watch.	Tom überprüfte seine Uhr.	टॉम ने अपनी घड़ी की जाँच की।
+Tom clapped his hands.	Tom klatschte in die Hände.	टॉम ने अपने हाथ बजाए।
+Tom cleared the table.	Tom räumte den Tisch ab.	टॉम ने मेज़ साफ की।
+Tom clenched his fist.	Tom ballte die Faust.	टॉम ने अपनी मुट्ठी कासी।
+Tom collects antiques.	Tom sammelt Antiquitäten.	टॉम प्राचीन वस्तुओं का संग्रह करता है।
+Tom comes from Boston.	Tom kommt aus Boston.	टॉम बॉस्टन से आता है।
