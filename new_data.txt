@@ -30303,3 +30303,9 @@ You're not thinking.	Du denkst nicht nach.	तुम सोचने में �
 You're not to blame.	Du bist nicht schuld.	तुम दोषी नहीं हो।
 You're not watching.	Du beobachtest nicht.	तुम देखने में नहीं हो।
 You're out of order.	Du bist außer Betrieb.	तुम क्रम से बाहर हो।
+You're overreacting.	Du übertreibst.	तुम अत्यधिक प्रतिक्रिया दे रहे हो।
+You're part of this.	Du bist ein Teil davon.	तुम इसका हिस्सा हो।
+You're quite a liar.	Du bist ein ziemlicher Lügner.	तुम काफी झूठे हो।
+You're really funny.	Du bist wirklich lustig.	तुम सचमुच मजेदार हो।
+You're really lucky.	Du hast wirklich Glück.	तुम सचमुच भाग्यशाली हो।
+You're really smart.	Du bist wirklich klug.	तुम सचमुच होशियार हो।
