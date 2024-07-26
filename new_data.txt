@@ -23377,3 +23377,10 @@ Tom cooks for Mary.	Tom kocht für Maria.	टॉम मेरी के लि�
 Tom cooks with gas.	Tom kocht mit Gas.	टॉम गैस के साथ पकाता है।
 Tom coughed loudly.	Tom hustete laut.	टॉम जोर से खांसा।
 Tom could be alone.	Tom könnte alleine sein.	टॉम अकेला हो सकता है।
+Tom could get sick.	Tom könnte krank werden.	टॉम बीमार हो सकता है।
+Tom could help you.	Tom könnte euch helfen.	टॉम तुम्हारी मदद कर सकता है।
+Tom could see Mary.	Tom könnte Mary sehen.	टॉम मेरी को देख सकता है।
+Tom couldn't do it.	Tom könnte es nicht tun.	टॉम यह करने में सक्षम नहीं था।
+Tom couldn't sleep.	Tom konnte nicht schlafen.	टॉम सो नहीं सका।
+Tom couldn't speak.	Tom konnte nicht sprechen.	टॉम बोल नहीं सका।
+Tom cracked a joke.	Tom hat einen Scherz gemacht.	टॉम ने एक जोक मारा।

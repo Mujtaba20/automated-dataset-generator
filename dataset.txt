@@ -1,14 +1,4 @@
 
-Tom could get sick.	Tom könnte krank werden.	टॉम बीमार हो सकता है।
-Tom could help you.	Tom könnte dir helfen.	टॉम आपकी मदद कर सकता था।
-Tom could help you.	Tom könnte euch helfen.	टॉम आपकी मदद कर सकता था।
-Tom could help you.	Tom könnte Ihnen helfen.	टॉम उनकी मदद कर सकता था।
-Tom could see Mary.	Tom konnte Maria sehen.	टॉम मारिया को देख सकता था।
-Tom couldn't do it.	Tom schaffte es nicht.	टॉम ने इसे नहीं बनाया।
-Tom couldn't sleep.	Tom konnte nicht schlafen.	टॉम सो नहीं सका।
-Tom couldn't speak.	Tom konnte nicht reden.	टॉम बात नहीं कर सका।
-Tom cracked a joke.	Tom riss einen Witz.	टॉम ने एक मजाक को टोर किया।
-Tom cracked a joke.	Tom ließ einen Witz vom Stapel.	टॉम ने स्टैक से एक मजाक छोड़ दिया।
 Tom cried for help.	Tom rief um Hilfe.	टॉम ने मदद के लिए बुलाया।
 Tom cycles to work.	Tom fährt mit dem Fahrrad zur Arbeit.	टॉम बाइक से काम करने जाता है।
 Tom danced with me.	Tom tanzte mit mir.	टॉम ने मेरे साथ नृत्य किया।
