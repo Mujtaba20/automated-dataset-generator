@@ -1,14 +1,4 @@
 
-The children are gone.	Die Kinder sind weg.	बच्चे चले गए हैं।
-The children are safe.	Die Kinder sind in Sicherheit.	बच्चे सुरक्षित हैं।
-The children loved it.	Die Kinder waren entzückt.	बच्चे खुश थे।
-The coffee was bitter.	Der Kaffee war bitter.	कॉफी कड़वी थी।
-The concert was awful.	Das Konzert war furchtbar.	कॉन्सर्ट भयानक था।
-The container is full.	Das Gefäß ist voll.	पोत भरा हुआ है।
-The crow cawed loudly.	Laut krächzte die Krähe.	कौवा के अनुसार, कौवा।
-The crowd calmed down.	Die Menge beruhigte sich.	भीड़ शांत हो गई।
-The danger is minimal.	Die Gefahr ist äußerst gering.	खतरा बेहद कम है।
-The data was accurate.	Die Daten waren korrekt.	डेटा सही था।
 The decision is final.	Die Entscheidung ist endgültig.	निर्णय अंतिम है।
 The decision is yours.	Die Entscheidung liegt bei dir.	इसका निर्णय आपको करना है।
 The decision is yours.	Die Entscheidung liegt bei euch.	निर्णय आपके साथ है।

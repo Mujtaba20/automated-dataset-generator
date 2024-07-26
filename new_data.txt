@@ -39441,3 +39441,13 @@ The cellar is flooded.	Der Keller ist überflutet.	गोदाम भरा ह
 The chairs stack well.	Die Stühle stapeln sich gut.	कुर्सियाँ अच्छे से स्टैक करती हैं।
 The child will be six.	Das Kind wird sechs sein.	बच्चा छह साल का होगा।
 The children are cold.	Die Kinder haben kalt.	बच्चे सर्दी में हैं।
+The children are gone.	Die Kinder sind weg.	बच्चे चले गए हैं।
+The children are safe.	Die Kinder sind sicher.	बच्चे सुरक्षित हैं।
+The children loved it.	Die Kinder liebten es.	बच्चों ने इसे पसंद किया।
+The coffee was bitter.	Der Kaffee war bitter.	कॉफ़ी कड़वी थी।
+The concert was awful.	Das Konzert war furchtbar.	संगीत संदर्भ भयानक था।
+The container is full.	Der Behälter ist voll.	कंटेनर भरा हुआ है।
+The crow cawed loudly.	Die Krähe krächzte laut.	कौआ जोर से काव कर रहा था।
+The crowd calmed down.	Die Menge beruhigte sich.	भीड़ शांत हो गई।
+The danger is minimal.	Die Gefahr ist minimal.	खतरा कम है।
+The data was accurate.	Die Daten waren genau.	डेटा सटीक था।
