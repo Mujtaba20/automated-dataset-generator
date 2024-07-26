@@ -1,14 +1,4 @@
 
-We have a contract.	Wir haben einen Vertrag.	हमारे पास एक अनुबंध है।
-We have a question.	Wir haben eine Frage.	हमारे पास एक सवाल है।
-We have ample food.	Wir haben jede Menge Nahrungsmittel.	हमारे पास बहुत सारा भोजन है।
-We have everything.	Wir haben alles.	हमारे पास सब कुछ है।
-We have lots to do.	Wir haben viel zu tun.	हमारे पास करने के लिए बहुत कुछ है।
-We have our orders.	Wir haben unsere Befehle.	हमारे पास हमारी आज्ञा है।
-We have three boys.	Wir haben drei Jungen.	हमारे तीन लड़के हैं।
-We have three dogs.	Wir haben drei Hunde.	हमारे पास तीन कुत्ते हैं।
-We have three kids.	Wir haben drei Kinder.	हमारे तीन बच्चे हैं।
-We have three sons.	Wir haben drei Söhne.	हमारे तीन बेटे हैं।
 We have to act now.	Wir müssen jetzt handeln.	हमें अब कार्य करना है।
 We have to do that.	Das müssen wir tun.	हमें ऐसा करना होगा।
 We have to do this.	Wir müssen das tun.	हमें ऐसा करना होगा।

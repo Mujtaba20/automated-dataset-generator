@@ -24280,3 +24280,13 @@ We had our reasons.	Wir hatten unsere Gründe.	हमारे पास अप�
 We hate each other.	Wir hassen uns.	हम एक-दूसरे से नफरत करते हैं।
 We have Monday off.	Wir haben Montag frei.	हमें सोमवार को अवकाश है।
 We have a big yard.	Wir haben einen großen Hof.	हमारे पास एक बड़ा आंगन है।
+We have a contract.	Wir haben einen Vertrag.	हमारे पास एक संविदा है।
+We have a question.	Wir haben eine Frage.	हमारे पास एक सवाल है।
+We have ample food.	Wir haben reichlich Essen.	हमारे पास पर्याप्त खाना है।
+We have everything.	Wir haben alles.	हमारे पास सब कुछ है।
+We have lots to do.	Wir haben viel zu tun.	हमारे पास काम करने के लिए बहुत कुछ है।
+We have our orders.	Wir haben unsere Befehle.	हम के पास हमारे आदेश हैं।
+We have three boys.	Wir haben drei Jungs.	हमें तीन लड़के हैं।
+We have three dogs.	Wir haben drei Hunde.	हमारे पास तीन कुत्ते हैं।
+We have three kids.	Wir haben drei Kinder.	हमारे पास तीन बच्चे हैं।
+We have three sons.	Wir haben drei Söhne.	हमारे पास तीन बेटे हैं।
