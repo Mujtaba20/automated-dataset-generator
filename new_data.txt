@@ -36200,3 +36200,11 @@ Can you come tomorrow?	Kannst du morgen kommen?	क्या तुम कल �
 Can you do handstands?	Kannst du Handstände machen?	क्या आप हैंडस्टैंड कर सकते हैं?
 Can you do me a favor?	Kannst du mir einen Gefallen tun?	क्या आप मेरे लिए एक इच्छापूर्ण कार्य कर सकते हैं?
 Can you do that again?	Kannst du das nochmal machen?	क्या तुम उसे फिर से कर सकते हो?
+Can you drive me home?	Kannst du mich nach Hause fahren?	क्या आप मुझे घर चलाएंगे?
+Can you fix my toilet?	Kannst du meine Toilette reparieren?	क्या आप मेरा शौचालय ठीक कर सकते हैं?
+Can you get a day off?	Kannst du dir einen freien Tag nehmen?	क्या आप एक दिन की छुट्टी ले सकते हैं?
+Can you get a day off? (different meaning)	Könntest du einen Tag frei bekommen?	क्या आप एक दिन के लिए छुट्टी पा सकते हैं?
+Can you guess her age?	Kannst du ihr Alter erraten?	क्या तुम उसकी उम्र का अनुमान लगा सकते हो?
+Can you help me study?	Kannst du mir beim Lernen helfen?	क्या आप मुझे पढ़ाई में मदद कर सकते हैं?
+Can you help me study? (different meaning)	Kannst du mir helfen zu studieren?	क्या आप मुझे पढ़ाई करने में मदद कर सकते हैं?
+Can you hold on a sec?	Kannst du mal kurz warten?	क्या आप एक सेकंड के लिए रुक सकते हैं?

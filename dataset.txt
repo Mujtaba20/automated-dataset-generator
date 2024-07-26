@@ -1,19 +1,4 @@
 
-Can you drive me home?	Kannst du mich nach Hause fahren?	क्या आप मुझे घर चला सकते हैं
-Can you fix my toilet?	Können Sie meine Toilette reparieren?	क्या आप मेरे शौचालय की मरम्मत कर सकते हैं?
-Can you get a day off?	Kannst du dir einen Tag freinehmen?	क्या आप एक दिन की छुट्टी ले सकते हैं?
-Can you get a day off?	Können Sie sich einen Tag freinehmen?	क्या आप एक दिन की छुट्टी ले सकते हैं?
-Can you get a day off?	Könnt ihr euch einen Tag freinehmen?	क्या आप एक दिन की छुट्टी ले सकते हैं?
-Can you guess her age?	Kannst du ihr Alter schätzen?	क्या आप अपनी उम्र की सराहना कर सकते हैं?
-Can you help me study?	Kannst du mir beim Lernen helfen?	क्या आप मुझे सीखने में मदद कर सकते हैं?
-Can you help me study?	Könnt ihr mir beim Lernen helfen?	क्या आप मुझे सीखने में मदद कर सकते हैं?
-Can you help me study?	Können Sie mir beim Lernen helfen?	क्या आप मुझे सीखने में मदद कर सकते हैं?
-Can you hold on a sec?	Kannst du mal kurz warten?	क्या आप संक्षेप में इंतजार कर सकते हैं?
-Can you hold on a sec?	Könnt ihr mal kurz warten?	क्या आप संक्षेप में इंतजार कर सकते हैं?
-Can you hold on a sec?	Können Sie mal kurz warten?	क्या आप संक्षेप में इंतजार कर सकते हैं?
-Can you hold on a sec?	Kannst du kurz warten?	क्या आप संक्षेप में इंतजार कर सकते हैं?
-Can you hold on a sec?	Könnt ihr kurz warten?	क्या आप संक्षेप में इंतजार कर सकते हैं?
-Can you hold on a sec?	Können Sie kurz warten?	क्या आप संक्षेप में इंतजार कर सकते हैं?
 Can you keep a secret?	Kannst du ein Geheimnis bewahren?	आप एक रहस्य को खुद तक रख सकते हैं?
 Can you keep a secret?	Könnt ihr ein Geheimnis bewahren?	आप एक रहस्य को खुद तक रख सकते हैं?
 Can you keep a secret?	Können Sie ein Geheimnis bewahren?	आप एक रहस्य को खुद तक रख सकते हैं?
