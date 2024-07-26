@@ -1,14 +1,4 @@
 
-Isn't it delicious?	Ist es nicht lecker?	क्या यह स्वादिष्ट नहीं है?
-Isn't it delicious?	Ist es nicht köstlich?	क्या यह स्वादिष्ट नहीं है?
-Isn't she a doctor?	Ist sie nicht Ärztin?	क्या वह डॉक्टर नहीं है?
-Isn't that amazing?	Ist das nicht erstaunlich?	क्या यह अद्भुत नहीं है?
-Isn't that curious?	Ist das nicht eigenartig?	क्या यह अजीब नहीं है?
-Isn't that curious?	Ist das nicht merkwürdig?	क्या यह अजीब नहीं है?
-Isn't that illegal?	Ist das nicht illegal?	क्या यह अवैध नहीं है?
-Isn't that obvious?	Ist das nicht selbstverständlich?	क्या यह निश्चित रूप से नहीं है?
-Isn't that obvious?	Ist das nicht offensichtlich?	क्या यह स्पष्ट नहीं है?
-Isn't that our job?	Ist das nicht unser Job?	क्या यह हमारा काम नहीं है?
 Isn't this amazing?	Ist das nicht phantastisch?	क्या यह शानदार नहीं है?
 Isn't this illegal?	Ist das nicht illegal?	क्या यह अवैध नहीं है?
 It all makes sense.	Es macht alles Sinn.	इस सब का एक अर्थ है।

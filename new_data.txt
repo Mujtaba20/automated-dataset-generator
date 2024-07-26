@@ -22180,3 +22180,10 @@ Is your room clean?	Ist dein Zimmer sauber?	क्या आपका कमर�
 Isn't Tom handsome?	Ist Tom nicht hübsch?	क्या टॉम हस्से नहीं है?
 Isn't Tom with you?	Ist Tom nicht bei dir?	क्या टॉम तुम्हारे साथ नहीं है?
 Isn't his name Tom?	Ist sein Name nicht Tom?	क्या उसका नाम टॉम नहीं है?
+Isn't it delicious?	Ist es nicht lecker?	क्या यह स्वादिष्ट नहीं है?
+Isn't she a doctor?	Ist sie keine Ärztin?	क्या वह डॉक्टर नहीं है?
+Isn't that amazing?	Ist das nicht erstaunlich?	क्या वह अद्भुत नहीं है?
+Isn't that curious?	Ist das nicht seltsam?	क्या यह अजीब नहीं है?
+Isn't that illegal?	Ist das nicht illegal?	क्या वह अवैध नहीं है?
+Isn't that obvious?	Ist das nicht klar?	क्या वह स्पष्ट नहीं है?
+Isn't that our job?	Ist das nicht unsere Aufgabe?	क्या वह हमारा काम नहीं है?
