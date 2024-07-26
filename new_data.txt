@@ -26824,3 +26824,13 @@ I was very confused.	Ich war sehr verwirrt.	मैं बहुत उलझन 
 I was your age once.	Ich war einmal in deinem Alter.	मैं एक बार तुम्हारी उम्र में था।
 I washed my T-shirt.	Ich habe mein T-Shirt gewaschen.	मैंने अपनी टी-शर्ट धोई।
 I wasn't alone then.	Ich war damals nicht allein.	तब मैं अकेला नहीं था।
+I wasn't badly hurt.	Ich war nicht schwer verletzt.	मुझे गंभीर चोट नहीं आई थी।
+I wasn't even there.	Ich war nicht einmal dort.	मैं वहाँ भी नहीं था।
+I wasn't in a hurry.	Ich hatte es nicht eilig.	मैं जल्दी में नहीं था।
+I wasn't mad at Tom.	Ich war nicht wütend auf Tom.	मैं टॉम पर नाराज नहीं था।
+I watched the movie.	Ich habe den Film gesehen.	मैंने फिल्म देखी।
+I watched the movie. (Different meaning)	Ich beobachtete den Film.	मैंने फिल्म को ध्यान से देखा।
+I went into details.	Ich ging ins Detail.	मैं विस्तार से गया।
+I went to Australia.	Ich ging nach Australien.	मैं ऑस्ट्रेलिया गया।
+I went to a concert.	Ich ging zu einem Konzert.	मैं कॉन्सर्ट पर गया।
+I went to bed early.	Ich ging früh ins Bett.	मैं जल्दी सोने गया।
