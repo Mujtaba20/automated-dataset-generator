@@ -1,14 +1,4 @@
 
-Tom is out to get me.	Tom will mich holen.	टॉम मुझे प्राप्त करना चाहता है।
-Tom is paying a fine.	Tom zahlt ein Bußgeld.	टॉम जुर्माना देता है।
-Tom is paying a fine.	Tom zahlt Strafe.	टॉम सजा देता है।
-Tom is playing piano.	Tom spielt Klavier.	टॉम पियानो बजाता है।
-Tom is probably cold.	Tom ist bestimmt kalt.	टॉम निश्चित रूप से ठंडा है।
-Tom is probably dead.	Tom ist wahrscheinlich tot.	टॉम शायद मर चुका है।
-Tom is probably lost.	Tom hat sich wahrscheinlich verirrt.	टॉम शायद खो गया।
-Tom is probably rich.	Tom ist bestimmt reich.	टॉम निश्चित रूप से समृद्ध है।
-Tom is quite likable.	Tom ist sehr sympathisch.	टॉम बहुत ही व्यक्तिगत है।
-Tom is quite likable.	Tom ist recht nett.	टॉम काफी अच्छा है।
 Tom is quite popular.	Tom ist ziemlich beliebt.	टॉम बहुत लोकप्रिय है।
 Tom is quite unhappy.	Tom ist ziemlich unglücklich.	टॉम बहुत दुखी है।
 Tom is really clever.	Tom ist echt schlau.	टॉम वास्तव में स्मार्ट है।

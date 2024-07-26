@@ -34489,3 +34489,11 @@ Tom is one smart guy.	Tom ist ein cleverer Kerl.	टॉम एक होशि�
 Tom is only thirteen.	Tom ist erst dreizehn.	टॉम बस तेरह साल का है।
 Tom is our only hope.	Tom ist unsere einzige Hoffnung.	टॉम हमारी एकमात्र उम्मीद है।
 Tom is out of danger.	Tom ist außer Gefahr.	टॉम खतरे से बाहर है।
+Tom is out to get me.	Tom ist draußen, um mich zu kriegen.	टॉम मुझे पाने के लिए बाहर है।
+Tom is paying a fine.	Tom zahlt eine Geldstrafe.	टॉम किसी जुर्म का भुगतान कर रहा है।
+Tom is playing piano.	Tom spielt Klavier.	टॉम पियानो बजा रहा है।
+Tom is probably cold.	Tom ist wahrscheinlich kalt.	टॉम को शायद ठंड लग रही है।
+Tom is probably dead.	Tom ist wahrscheinlich tot.	टॉम शायद मर गया है।
+Tom is probably lost.	Tom ist wahrscheinlich verloren.	टॉम शायद खो गया है।
+Tom is probably rich.	Tom ist wahrscheinlich reich.	टॉम शायद अमीर है।
+Tom is quite likable.	Tom ist ziemlich sympathisch.	टॉम काफी पसंदीदा है।
