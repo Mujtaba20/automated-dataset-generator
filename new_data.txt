@@ -23776,3 +23776,13 @@ Tom isn't back yet.	Tom ist noch nicht zurück.	टॉम अभी तक व�
 Tom isn't busy now.	Tom ist jetzt nicht beschäftigt.	टॉम अब व्यस्त नहीं है।
 Tom isn't drinking.	Tom trinkt nicht.	टॉम पीने में नहीं है।
 Tom isn't friendly.	Tom ist nicht freundlich.	टॉम दोस्ताना नहीं है।
+Tom isn't generous.	Tom ist nicht großzügig.	टॉम महान नहीं है।
+Tom isn't handsome.	Tom ist nicht hübsch.	टॉम सुंदर नहीं है।
+Tom isn't here now.	Tom ist jetzt nicht hier.	टॉम अभी यहाँ नहीं है।
+Tom isn't here yet.	Tom ist noch nicht hier.	टॉम अभी यहाँ नहीं है।
+Tom isn't home now.	Tom ist jetzt nicht zu Hause.	टॉम अभी घर पर नहीं है।
+Tom isn't home yet.	Tom ist nicht zu Hause.	टॉम अभी तक घर पर नहीं है।
+Tom isn't in there.	Tom ist nicht drin.	टॉम वहां में नहीं है।
+Tom isn't innocent.	Tom ist nicht unschuldig.	टॉम बेगुनाह नहीं है।
+Tom isn't like you.	Tom ist nicht wie du.	टॉम तुम जैसा नहीं है।
+Tom isn't my enemy.	Tom ist nicht mein Feind.	टॉम मेरा दुश्मन नहीं है।

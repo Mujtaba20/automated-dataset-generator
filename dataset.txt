@@ -1,14 +1,4 @@
 
-Tom isn't generous.	Tom ist nicht großzügig.	टॉम उदार नहीं है।
-Tom isn't handsome.	Tom sieht nicht gut aus.	टॉम अच्छा नहीं लगता।
-Tom isn't here now.	Tom ist gerade nicht hier.	टॉम अभी यहाँ नहीं है।
-Tom isn't here yet.	Tom ist noch nicht hier.	टॉम अभी तक यहां नहीं है।
-Tom isn't home now.	Tom ist gerade nicht zu Hause.	टॉम अभी घर पर नहीं है।
-Tom isn't home yet.	Tom ist noch nicht zu Hause.	टॉम अभी तक घर पर नहीं है।
-Tom isn't in there.	Tom ist nicht dort drin.	टॉम वहां नहीं है।
-Tom isn't innocent.	Tom ist nicht unschuldig.	टॉम निर्दोष नहीं है।
-Tom isn't like you.	Tom ist nicht so wie du.	टॉम आप की तरह नहीं है।
-Tom isn't my enemy.	Tom ist nicht mein Feind.	टॉम मेरा दुश्मन नहीं है।
 Tom isn't my uncle.	Tom ist nicht mein Onkel.	टॉम मेरे चाचा नहीं हैं।
 Tom isn't on drugs.	Tom steht nicht unter Drogen.	टॉम ड्रग्स के अधीन नहीं है।
 Tom isn't sleeping.	Tom schläft nicht.	टॉम सोता नहीं है।
