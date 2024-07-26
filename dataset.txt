@@ -1,14 +1,4 @@
 
-Tom looked discouraged.	Tom sah entmutigt aus.	टॉम हतोत्साहित दिखे।
-Tom looked embarrassed.	Tom sah beschämt aus.	टॉम शर्मिंदा लग रहा था।
-Tom looked for his pen.	Tom suchte seinen Füller.	टॉम अपने फाउंटेन पेन की तलाश में था।
-Tom looked for his pen.	Tom suchte seinen Stift.	टॉम अपनी कलम की तलाश में था।
-Tom looked for the key.	Tom suchte nach dem Schlüssel.	टॉम ने चाबी की खोज की।
-Tom looked for the key.	Tom suchte den Schlüssel.	टॉम चाबी की तलाश में था।
-Tom looked for the key.	Tom hat den Schlüssel gesucht.	टॉम चाबी की तलाश में था।
-Tom looked for the key.	Tom hat nach dem Schlüssel gesucht.	टॉम ने चाबी की खोज की।
-Tom looked pretty good.	Tom sah ziemlich gut aus.	टॉम बहुत अच्छा लग रहा था।
-Tom looked quite tired.	Tom sah recht müde aus.	टॉम काफी थके हुए लग रहे थे।
 Tom looked real scared.	Tom sah wirklich beängstigt aus.	टॉम वास्तव में डरावना लग रहा था।
 Tom looked really busy.	Tom sah sehr beschäftigt aus.	टॉम बहुत व्यस्त लग रहा था।
 Tom looked really busy.	Tom sah ziemlich beschäftigt aus.	टॉम बहुत व्यस्त लग रहा था।
