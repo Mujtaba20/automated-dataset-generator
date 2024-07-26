@@ -38551,3 +38551,13 @@ It was cold yesterday.	Es war gestern kalt.	कल ठंड थी।
 It was easy to answer.	Es war leicht zu beantworten.	इसका जवाब देना आसान था।
 It was expensive, too.	Es war auch teuer.	यह महंगा था।
 It was extremely cold.	Es war extrem kalt.	यह अत्यधिक ठंड था।
+It was hot last night.	Es war heiß letzte Nacht.	कल रात गर्म था।
+It was not unexpected.	Es war nicht unerwartet.	यह अप्रत्याशित नहीं था।
+It was pretty obvious.	Es war ziemlich offensichtlich.	यह काफी स्पष्ट था।
+It was quite pleasant.	Es war ziemlich angenehm.	यह काफी प्रिय था।
+It was real hard work.	Es war echte harte Arbeit.	यह वास्तविक कठोर काम था।
+It was the right call.	Es war der richtige Anruf.	यह सही कॉल था।
+It was three days ago.	Es war vor drei Tagen.	तीन दिन पहले यह था।
+It was to be expected.	Es war zu erwarten.	यह उम्मीद की जानी थी।
+It was totally secret.	Es war absolut geheim.	यह पूरी तरह से गुप्त रखा गया था।
+It was unbearably hot.	Es war unerträglich heiß.	यह बर्दाश्त से बाहर गर्म था।
