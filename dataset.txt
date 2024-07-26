@@ -1,14 +1,4 @@
 
-Is something happening?	Passiert etwas?	कुछ होता है?
-Is something happening?	Passiert was?	क्या होता है?
-Is that Tom's umbrella?	Ist das Toms Schirm?	क्या टॉम की छतरी है?
-Is that a bus or a car?	Ist das ein Bus oder ein PKW?	क्या वह बस या कार है?
-Is that a real diamond?	Ist das ein echter Diamant?	क्या यह एक असली हीरा है?
-Is that a recent photo?	Ist das ein aktuelles Foto?	क्या यह एक वर्तमान फोटो है?
-Is that coffee I smell?	Rieche ich da etwa Kaffee?	क्या मुझे कॉफी की गंध आती है?
-Is that going to be OK?	Wird das in Ordnung sein?	क्या यह ठीक होगा?
-Is that seat available?	Ist dieser Platz frei?	क्या यह सीट दे दी गई है?
-Is that so complicated?	Ist das so kompliziert?	क्या यह इतना जटिल है?
 Is that what Tom wants?	Will Tom das?	क्या टॉम ऐसा चाहेंगे?
 Is that what people do?	Ist es das, was die Leute machen?	क्या यह लोग क्या करते हैं?
 Is that what you think?	Ist es das, was du denkst?	क्या यह आप क्या सोचते हैं?
