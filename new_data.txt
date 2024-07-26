@@ -24789,3 +24789,11 @@ Why isn't Tom here?	Warum ist Tom nicht hier?	टॉम यहाँ क्य�
 Why was Tom chosen?	Warum wurde Tom ausgewählt?	टॉम क्यों चुना गया था?
 Why was Tom crying?	Warum hat Tom geweint?	टॉम क्यों रो रहा था?
 Why was that funny?	Warum war das lustig?	वह मजाक क्यों था?
+Why were you fired?	Warum wurdest du gefeuert?	तुम्हें क्यों निकाल दिया गया था?
+Why were you there?	Warum warst du dort?	तुम वहाँ क्यों थे?
+Will Tom kiss Mary?	Wird Tom Mary küssen?	क्या टॉम मैरी को चुमेगा?
+Will he ever do it?	Wird er es jemals tun?	क्या वह कभी यह करेगा?
+Will it hurt a lot?	Wird es sehr wehtun?	क्या यह बहुत तकलीफ देगा?
+Will it rain today?	Wird es heute regnen?	क्या आज बारिश होगी?
+Will you help them?	Wirst du ihnen helfen?	क्या तुम उनकी मदद करोगे?
+Wish you were here.	Wünschte du wärst hier.	काश तुम यहाँ होते।

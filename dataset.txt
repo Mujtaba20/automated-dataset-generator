@@ -1,14 +1,4 @@
 
-Why were you fired?	Warum wurdest du gefeuert?	आपको क्यों निकाल दिया गया?
-Why were you fired?	Warum wurden Sie gefeuert?	उन्हें क्यों निकाल दिया गया?
-Why were you fired?	Warum wurdet ihr gefeuert?	आपको क्यों निकाल दिया गया?
-Why were you there?	Warum warst du dort?	आप वहाँ क्यों थे?
-Will Tom kiss Mary?	Wird Tom Maria küssen?	टॉम मैरी किसन करेंगे?
-Will he ever do it?	Wird er es jemals machen?	क्या वह कभी ऐसा करेगा?
-Will it hurt a lot?	Wird es sehr weh tun?	क्या इससे बहुत दुख होगा?
-Will it rain today?	Wird es heute regnen?	क्या आज बारिश होगी?
-Will you help them?	Wirst du ihnen helfen?	क्या आप उनकी मदद करेंगे?
-Wish you were here.	Ich wünschte, du wärst hier.	काश आप यहां होते।
 Women like to talk.	Frauen reden gerne.	महिलाओं को बात करना पसंद है।
 Won't you sit down?	Willst du dich nicht setzen?	क्या आप बैठना नहीं चाहते
 Won't you sit down?	Wollt ihr euch nicht setzen?	क्या आप बैठना नहीं चाहते हैं?
