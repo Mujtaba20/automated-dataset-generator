@@ -28017,3 +28017,10 @@ Tell Tom I love him.	Sag Tom, dass ich ihn liebe.	तोम से कहो क
 Tell Tom I'm eating.	Sag Tom, ich esse gerade.	तोम से कहो, मैं खा रहा हूं।
 Tell Tom I'm joking.	Sag Tom, ich mache nur Spaß.	तोम से कहो, मैं मजाक कर रहा हूँ।
 Tell Tom what to do.	Sag Tom, was er tun soll.	तोमे से कहो कि क्या करना चाहिए।
+Tell her to call me.	Sagen Sie ihr, mich anzurufen.	उससे कहें कि मुझे कॉल करें।
+Tell him to call me.	Sagen Sie ihm, mich anzurufen.	उससे कहें कि मुझे कॉल करें।
+Tell me over dinner.	Sag mir beim Abendessen.	मुझे रात के खाने के दौरान बताओ।
+Tell me who you saw.	Sag mir, wen du gesehen hast.	मुझे बताओ कि तुमने किसे देखा।
+Tell me you love me.	Sag mir, dass du mich liebst.	मुझसे कहो कि तुम मुझसे प्यार करते हो।
+Tell them the truth.	Sagen Sie ihnen die Wahrheit.	उन्हें सच्चाई बताओ।
+Tell us who you are.	Sag uns, wer du bist.	हमें बताओ कि तum 'हो।
