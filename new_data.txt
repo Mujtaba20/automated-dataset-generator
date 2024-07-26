@@ -36833,3 +36833,10 @@ He lived to be ninety.	Er wurde neunzig Jahre alt.	उसने नब्बे 
 He lives in Tokyo now.	Er lebt jetzt in Tokio.	वह अब टोक्यो में रहता है।
 He lives off the grid.	Er lebt autark.	वह तार और रेखा के बिना जीता है।
 He lives with his mom.	Er wohnt bei seiner Mutti.	वह अपनी माँ के साथ रहता है।
+He looked for the key.	Er suchte nach dem Schlüssel.	उसने कुंजी खोजी।
+He looked quite tired.	Er sah ziemlich müde aus.	उसे काफी थकान महसूस हो रही थी।
+He looks like a horse.	Er sieht aus wie ein Pferd.	वह घोड़े जैसा दिखता है।
+He lost his new watch.	Er hat seine neue Uhr verloren.	उसने अपनी नई घड़ी खो दी।
+He loves taking trips.	Er liebt es, Ausflüge zu machen.	उसे सफर करने का बहुत शौक है।
+He made me a new suit.	Er hat mir einen neuen Anzug gemacht.	उसने मुझे एक नया सूट बनवाया।
+He made up that story.	Er hat diese Geschichte erfunden.	उसने उस कहानी को बनाया।
