@@ -30631,3 +30631,13 @@ Do we have insurance?	Haben wir eine Versicherung?	क्या हमारे 
 Do we have the money?	Haben wir das Geld?	क्या हमारे पास पैसे हैं?
 Do we have to go now?	Müssen wir jetzt gehen?	क्या हमें अब जाना चाहिए?
 Do we really need it?	Brauchen wir das wirklich?	क्या हमें वास्तव में इसकी जरूरत है?
+engSentence1	Mach, was auch immer nötig ist.	जो कुछ भी ज़रूरी है, करो।
+engSentence2	Mache, was du möchtest.	जो कुछ भी आपको चाहिए, वह कीजिए।
+engSentence3	Mache, was du magst.	जो कुछ भी आपको पसंद है, वह करें।
+engSentence4	Mache, was immer du magst.	जो कुछ भी तुम्हें अच्छा लगे, करो।
+engSentence5	Mache, was auch immer du möchtest.	जो कुछ भी आपको चाहिए, करें।
+engSentence6	Mache, was auch immer du magst.	जो कुछ भी तुम्हें पसंद है, वह करो।
+engSentence7	Führen Sie aus, was Sie möchten.	जो कुछ भी आप चाहते हैं, करें।
+engSentence8	Mach, was du willst.	जो कुछ भी आप चाहते हैं, करें।
+engSentence9	Tun Sie, was immer Sie wollen.	जो कुछ भी आप चाहते हैं, करें।
+engSentence10	Machst du das oft?	क्या आप यह आमतौर पर करते हैं?

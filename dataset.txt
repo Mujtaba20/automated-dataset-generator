@@ -1,19 +1,4 @@
 
-Do whatever it takes.	Tun Sie, was immer notwendig ist.	जो भी आवश्यक हो।
-Do whatever you like.	Mach, was auch immer du willst.	आप जो चाहे करें।
-Do whatever you like.	Macht, was auch immer ihr wollt.	आप जो चाहे करें।
-Do whatever you like.	Machen Sie, was auch immer Sie wollen.	आप जो चाहे करें।
-Do whatever you like.	Tu, was auch immer du willst.	आप जो चाहे करें।
-Do whatever you like.	Tut, was auch immer ihr wollt.	जो कुछ भी आप चाहते हैं।
-Do whatever you like.	Tun Sie, was auch immer Sie wollen.	आप जो चाहे करें।
-Do whatever you want.	Mache, was du willst.	तुम्हें जो करना है करो।
-Do whatever you want.	Tu was du willst.	तुम्हें जो करना है करो।
-Do you do that often?	Machst du das oft?	क्या आप अक्सर ऐसा करते हैं?
-Do you do that often?	Tust du das oft?	क्या आप अक्सर ऐसा करते हैं?
-Do you do that often?	Machen Sie das oft?	क्या आप अक्सर ऐसा करते हैं?
-Do you do that often?	Tun Sie das oft?	क्या आप अक्सर ऐसा करते हैं?
-Do you do that often?	Macht ihr das oft?	क्या आप अक्सर ऐसा करते हैं?
-Do you do that often?	Tut ihr das oft?	क्या आप अक्सर ऐसा करते हैं?
 Do you do this often?	Machst du das öfter?	क्या आप अक्सर ऐसा कर रहे हैं?
 Do you drink alcohol?	Trinkst du Alkohol?	आप शराब पीते हो?
 Do you drink alcohol?	Trinkt ihr Alkohol?	आप शराब पीते हो?
