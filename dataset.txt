@@ -1,15 +1,4 @@
 
-I thank you for coming.	Ich danke dir, dass du gekommen bist.	मैं आपको आने के लिए धन्यवाद देता हूं।
-I think I broke my leg.	Ich glaube, ich habe mir mein Bein gebrochen.	मुझे लगता है कि मैंने अपना पैर तोड़ दिया।
-I think I can fix this.	Das kann ich, denke ich, reparieren.	मुझे लगता है कि मैं इसकी मरम्मत कर सकता हूं।
-I think I can prove it.	Ich glaube, ich kann es beweisen.	मुझे लगता है कि मैं इसे साबित कर सकता हूं।
-I think I have a fever.	Ich glaube, ich habe Fieber.	लगता है मुझे बुखार है।
-I think I have an idea.	Ich glaube, ich habe eine Idee.	मुझे लगता है कि मेरे पास एक विचार है।
-I think I have an idea.	Ich glaube, mir ist was eingefallen.	मुझे लगता है कि मेरे साथ कुछ आया।
-I think I lost my keys.	Ich glaube, ich habe meine Schlüssel verloren.	मुझे लगता है कि मैंने अपनी चाबी खो दी है।
-I think I remember you.	Ich glaube, ich erinnere mich an Sie.	मुझे लगता है कि मैं उन्हें याद करता हूं।
-I think I remember you.	Ich glaube, ich erinnere mich an dich.	मुझे लगता है कि मैं आपको याद करता हूं।
-I think I remember you.	Ich glaube, ich erinnere mich an euch.	मुझे लगता है कि मैं आपको याद करता हूं।
 I think I should leave.	Ich denke, dass ich nun weggehen muss.	मुझे लगता है कि मुझे अब दूर जाना है।
 I think I'll go by bus.	Ich glaube, ich nehme den Bus.	मुझे लगता है कि मैं बस लेता हूं।
 I think I'll walk back.	Ich glaube, ich gehe zu Fuß zurück.	मुझे लगता है कि मैं वापस पैदल जा रहा हूं।
