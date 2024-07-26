@@ -37487,3 +37487,9 @@ I have no backup plan.	Ich habe keinen Notfallplan.	मेरे पास क�
 I have no explanation.	Ich habe keine Erklärung.	मेरे पास कोई स्पष्टीकरण नहीं है।
 I have no money on me.	Ich habe kein Geld bei mir.	मेरे पास कोई पैसा नहीं है।
 I have no money today.	Ich habe heute kein Geld.	मेरे पास आज कोई पैसा नहीं है।
+I have nothing to eat.	Ich habe nichts zu essen.	मेरे पास खाने के लिए कुछ नहीं है।
+I have nothing to say.	Ich habe nichts zu sagen.	मेरे पास कुछ नहीं है कहने के लिए।
+I have one in the car.	Ich habe einen im Auto.	मेरे पास गाड़ी में एक है।
+I have plenty of time.	Ich habe viel Zeit.	मेरे पास काफी समय है।
+I have studied French.	Ich habe Französisch studiert.	मैंने फ्रेंच पढ़ी है।
+I have terrible pains.	Ich habe schreckliche Schmerzen.	मेरे पास भयानक दर्द है।

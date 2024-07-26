@@ -1,14 +1,4 @@
 
-I have nothing to eat.	Ich habe nichts zu essen.	मेरे पास खाने के लिए कुछ नहीं है।
-I have nothing to say.	Ich habe nichts zu sagen.	कहने के लिये कुछ नहीं बचा।
-I have one in the car.	Ich habe eins im Auto.	मेरे पास कार में एक है।
-I have one in the car.	Ich habe eine im Auto.	मेरे पास कार में एक है।
-I have one in the car.	Ich habe einen im Auto.	मेरे पास कार में एक है।
-I have plenty of time.	Ich habe jede Menge Zeit.	मेरे पास बहुत समय है।
-I have studied French.	Ich habe Französisch studiert.	मैंने फ्रेंच का अध्ययन किया।
-I have terrible pains.	Ich habe schreckliche Schmerzen.	मुझे भयानक दर्द है।
-I have terrible pains.	Ich habe furchtbare Schmerzen.	मुझे भयानक दर्द है।
-I have terrible pains.	Ich habe fürchterliche Schmerzen.	मुझे भयानक दर्द है।
 I have the dictionary.	Ich habe das Wörterbuch.	मेरे पास शब्दकोश है।
 I have three children.	Ich habe drei Kinder.	मेरे तीन बच्चे हैं।
 I have three ex-wives.	Ich habe drei Ex-Frauen.	मेरे पास तीन पूर्व महिला है।
