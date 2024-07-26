@@ -20870,3 +20870,11 @@ He was alone there.	Er war allein dort.	वह वहां अकेला थ�
 He was fast asleep.	Er schlief tief.	वह गहरे नींद में था।
 He was getting old.	Er wurde alt.	वह बुढ़ा हो रहा था।
 He was heartbroken.	Er war untröstlich.	उसका दिल टूट गया था।
+He was left behind.	Er wurde zurückgelassen.	उसको पीछे छोड़ दिया गया था।
+He was not pleased.	Er war unzufrieden.	उसे खुश नहीं किया गया था।
+He was unimpressed.	Er war unbeeindruckt.	उस पर कोई असर नहीं हुआ।
+He weighs 70 kilos.	Er wiegt 70 Kilo.	उसका वजन 70 किलो है।
+He went by bicycle.	Er fuhr mit dem Fahrrad.	वह साइकिल से गया।
+He went for a walk.	Er ging spazieren.	उसने सैर के लिए जाना।
+He went on singing.	Er sang weiter.	वह गाते रहे।
+He went on working.	Er arbeitete weiter.	वह काम करते रहे।
