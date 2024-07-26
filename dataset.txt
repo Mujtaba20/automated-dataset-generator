@@ -1,15 +1,4 @@
 
-We must start at once.	Wir müssen sofort beginnen.	हमें तुरंत शुरू करना होगा।
-We must start at once.	Wir müssen sofort aufbrechen.	हमें तुरंत छोड़ना होगा।
-We must work together.	Wir müssen zusammenarbeiten.	हमें एक साथ काम करना होगा।
-We need a better plan.	Wir brauchen einen besseren Plan.	हमें एक बेहतर योजना की आवश्यकता है।
-We need their support.	Wir brauchen deren Unterstützung.	हमें उनके समर्थन की आवश्यकता है।
-We need their support.	Wir brauchen ihre Unterstützung.	हमें आपका समर्थन चाहिए।
-We need your help now.	Wir brauchen jetzt deine Hilfe.	हमें अब आपकी मदद चाहिए।
-We never said goodbye.	Wir haben uns überhaupt nicht verabschiedet.	हमने अलविदा बिल्कुल नहीं कहा।
-We no longer need you.	Wir brauchen dich nicht mehr.	हमें अब आपकी आवश्यकता नहीं है।
-We no longer need you.	Wir brauchen euch nicht mehr.	हमें अब आपकी आवश्यकता नहीं है।
-We no longer need you.	Wir brauchen Sie nicht mehr.	हमें अब उनकी आवश्यकता नहीं है।
 We now live in Boston.	Wir wohnen jetzt in Boston.	अब हम बोस्टन में रहते हैं।
 We often eat raw fish.	Wir essen oft rohen Fisch.	हम अक्सर कच्ची मछली खाते हैं।
 We often eat together.	Wir essen oft zusammen.	हम अक्सर एक साथ खाते हैं।

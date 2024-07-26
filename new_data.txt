@@ -41074,3 +41074,10 @@ We may need some help.	Wir brauchen vielleicht Hilfe.	हमें कुछ म
 We met at summer camp.	Wir trafen uns im Sommerlager.	हम सर्दी की छुट्टियों में मिले थे।
 We met them yesterday.	Wir haben sie gestern getroffen.	हमने उन्हें कल मिला।
 We miss you very much.	Wir vermissen Sie sehr.	हम आपको बहुत याद करते हैं।
+We must start at once.	Wir müssen sofort anfangen.	हमें तुरंत शुरू करना चाहिए।
+We must work together.	Wir müssen zusammenarbeiten.	हमें साथ मिलकर काम करना चाहिए।
+We need a better plan.	Wir brauchen einen besseren Plan.	हमें एक बेहतर प्लान की आवश्यकता है।
+We need their support.	Wir brauchen ihre Unterstützung.	हमें उनका समर्थन चाहिए।
+We need your help now.	Wir brauchen jetzt deine Hilfe.	हमें अब तुम्हारी मदद की जरूरत है।
+We never said goodbye.	Wir haben nie auf Wiedersehen gesagt.	हमने कभी अलविदा नहीं कहा।
+We no longer need you.	Wir brauchen dich nicht mehr.	हमें अब तुम्हें ज़रूरत नहीं है।
