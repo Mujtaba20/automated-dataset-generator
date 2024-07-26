@@ -22618,3 +22618,8 @@ Owls have big eyes.	Eulen haben große Augen.	उल्लू के बड़�
 Owls hunt at night.	Eulen jagen nachts.	उल्लू रात में शिकार करते होते हैं।
 Pandas love bamboo.	Pandas lieben Bambus.	पांडा बांस पसंद करता है।
 Paper burns easily.	Papier brennt leicht.	कागज आसानी से जलता है।
+Peel the cucumbers.	Schäle die Gurken.	खीरे को कत्ल करें।
+People are strange.	Menschen sind seltsam.	लोग विचित्र हैं।
+People are talking.	Die Leute reden.	लोग बात कर रहे हैं।
+People like my mom.	Leute mögen meine Mutter.	लोग मेरी माँ को पसंद करते हैं।
+Pick me up at 2:30.	Hole mich um 2:30 Uhr ab.	2:30 बजे मुझे पहुंचा दो।

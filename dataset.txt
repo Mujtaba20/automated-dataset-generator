@@ -1,16 +1,4 @@
 
-Peel the cucumbers.	Schäle die Gurken.	ककड़ी को छीलें।
-Peel the cucumbers.	Schäl die Gurken.	ककड़ी को schäl।
-Peel the cucumbers.	Schält die Gurken.	ककड़ी को छिलकाता है।
-People are strange.	Die Menschen sind eigenartig.	लोग अजीब हैं।
-People are talking.	Die Leute reden.	लोग बाते करते है।
-People like my mom.	Die Leute mögen meine Mutter.	लोग मेरी माँ को पसंद करते हैं।
-Pick me up at 2:30.	Hol mich um halb drei ab.	मुझे आधा अतीत दो पर ले आओ।
-Pick me up at 2:30.	Holt mich um halb drei ab.	मुझे आधा अतीत दो पर ले आओ।
-Pick me up at 2:30.	Holen Sie mich um halb drei ab.	मुझे अतीत के अतीत में ले आओ।
-Pick me up at 2:30.	Holen Sie mich um 2.30 Uhr ab.	मुझे 2.30 बजे से दूर ले जाओ।
-Pick me up at 2:30.	Hol mich um 2.30 Uhr ab.	मुझे 2.30 बजे प्राप्त करें।
-Pick me up at 2:30.	Holt mich um 2.30 Uhr ab.	मुझे 2.30 बजे उठाओ।
 Pick up your trash.	Hebe deinen Müll auf!	अपना कचरा उठाओ!
 Please call a taxi.	Rufen Sie bitte ein Taxi!	कृपया एक टैक्सी बुलाओ!
 Please call him up.	Bitte ruf ihn an.	कृपया उसे फोन करें।
