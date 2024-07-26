@@ -41474,3 +41474,12 @@ Who wants to go first?	Wer möchte als Erster gehen?	कौन पहले ज�
 Who wants to kill you?	Wer will dich töten?	कौन तुम्हें मारना चाहता है?
 Who will come with me?	Wer kommt mit mir?	कौन मेरे साथ आएगा?
 Who wrote that letter?	Wer hat diesen Brief geschrieben?	उस पत्र की रचना किसने की है?
+Who wrote these poems?	Wer hat diese Gedichte geschrieben?	इन कविताओं को किसने लिखा?
+Who wrote this letter?	Wer hat diesen Brief geschrieben?	इस पत्र को किसने लिखा?
+Who's Tom living with?	Mit wem lebt Tom?	टॉम किसके साथ रह रहा है?
+Who's Tom looking for?	Wen sucht Tom?	टॉम किसको ढूँढ रहा है?
+Who's calling, please?	Wer ruft an, bitte?	कौन कॉल कर रहा है, कृपया?
+Who's paying for this?	Wer zahlt das?	इसके लिए कौन भुगतान कर रहा है?
+Who's waiting for Tom?	Wer wartet auf Tom?	टॉम का इंतजार किसे है?
+Who's working tonight?	Wer arbeitet heute Abend?	आज रात कौन काम कर रहा है?
+Who's your girlfriend?	Wer ist deine Freundin?	तेरी गर्लफ्रेंड कौन है?
