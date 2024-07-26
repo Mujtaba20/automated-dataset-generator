@@ -1,15 +1,4 @@
 
-She likes the teacher.	Sie mag den Lehrer.	वह शिक्षक को पसंद करती है।
-She lives in New York.	Sie lebt in New York.	वह न्यूयॉर्क में रहती है।
-She lives in Yokohama.	Sie wohnt in Yokohama.	वह योकोहामा में रहती है।
-She loves Tom, not me.	Sie liebt Tom, nicht mich.	वह टॉम से प्यार करती है, मुझे नहीं।
-She lowered her voice.	Sie senkte ihre Stimme.	उसने अपनी आवाज कम कर दी।
-She managed to escape.	Sie konnte entkommen.	वह बच सकती थी।
-She misses her father.	Sie vermisst ihren Vater.	वह अपने पिता को याद करती है।
-She needs to help him.	Sie muss ihm helfen.	उसे उसकी मदद करनी है।
-She never wears green.	Sie trägt nie grün.	वह कभी हरा नहीं पहनती।
-She never wears pants.	Sie trägt nie Hosen.	वह कभी पैंट नहीं पहनती।
-She never wears pants.	Sie hat nie Hosen an.	उसके पास कभी पैंट नहीं है।
 She played basketball.	Sie spielte Basketball.	उसने बास्केटबॉल खेला।
 She played the violin.	Sie spielte Geige.	उसने वायलिन खेला।
 She poured tea for me.	Sie goss Tee für mich auf.	उसने मेरे लिए चाय डाली।
