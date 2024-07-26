@@ -34174,3 +34174,13 @@ Tom drank the potion.	Tom trank den Trank.	टॉम ने पोषण पी 
 Tom drives very fast.	Tom fährt sehr schnell.	टॉम बहुत तेज़ी से चलाता है।
 Tom eats like a bird.	Tom isst wie ein Vogel.	टॉम पंछी की तरह खाता है।
 Tom embraced his son.	Tom umarmte seinen Sohn.	टॉम ने अपने बेटे को गले लगाया।
+Tom ended up in jail.	Tom landete im Gefängnis.	टॉम जेल में खत्म हो गया।
+Tom endured the pain.	Tom ertrug den Schmerz.	टॉम ने दर्द सहा।
+Tom enjoyed his stay.	Tom genoss seinen Aufenthalt.	टॉम ने अपनी रहने को मजा किया।
+Tom enjoys traveling.	Tom genießt das Reisen.	टॉम को यात्रा का आनंद है।
+Tom entered the room.	Tom betrat den Raum.	टॉम कमरे में प्रवेश किया।
+Tom failed miserably.	Tom scheiterte kläglich.	टॉम का असफलता से बुरा हाल हुआ।
+Tom feared the worst.	Tom fürchtete das Schlimmste.	टॉम का सबसे बुरा डर था।
+Tom fed the chickens.	Tom fütterte die Hühner.	टॉम ने मुर्गियों को खिलाया।
+Tom felt a bit woozy.	Tom fühlte sich etwas benommen.	टॉम को थोड़ा सा चक्कर आया।
+Tom felt like a fool.	Tom fühlte sich wie ein Narr.	टॉम को पागल जैसा महसूस हुआ।
