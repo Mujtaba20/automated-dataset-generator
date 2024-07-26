@@ -32211,3 +32211,12 @@ I want to be careful.	Ich möchte vorsichtig sein.	मैं सावधान 
 I want to experiment.	Ich will experimentieren.	मुझे प्रयोग करना है।
 I want to forget her.	Ich will sie vergessen.	मैं उसे भूलना चाहता हूँ।
 I want to go sailing.	Ich möchte segeln gehen.	मैं जहाज पर जाना चाहता हूँ।
+I want to go to Mars.	Ich möchte zum Mars gehen.	मैं मंगल ग्रह जाना चाहता हूँ।
+I want to play cards.	Ich möchte Karten spielen.	मैं कार्ड्स खेलना चाहता हूँ।
+I want to see Boston.	Ich möchte Boston sehen.	मैं बोस्टन देखना चाहता हूँ।
+I want to study math.	Ich möchte Mathe studieren.	मैं गणित पढ़ना चाहता हूँ।
+I want to take a nap.	Ich möchte ein Nickerchen machen.	मैं एक नींद लेना चाहता हूँ।
+I want to watch this.	Ich möchte das anschauen.	मैं यह देखना चाहता हूँ।
+I want to work again.	Ich möchte wieder arbeiten.	मैं फिरसे काम करना चाहता हूँ।
+I want what you want.	Ich möchte, was du möchtest.	मैं चाहता हूँ जो तुम चाहते हो।
+I want you to behave.	Ich möchte, dass du dich benimmst.	मैं चाहता हूँ कि तुम व्यवहार करें।

@@ -1,14 +1,4 @@
 
-I want to go to Mars.	Ich möchte zum Mars fliegen.	मैं मंगल के लिए उड़ान भरना चाहता हूं।
-I want to play cards.	Ich möchte Karten spielen.	मैं ताश खेलना चाहता हूं।
-I want to see Boston.	Ich möchte Boston sehen.	मैं बोस्टन देखना चाहता हूं।
-I want to study math.	Ich möchte Mathematik studieren.	मैं गणित का अध्ययन करना चाहता हूं।
-I want to study math.	Ich will Mathematik studieren.	मैं गणित का अध्ययन करना चाहता हूं।
-I want to take a nap.	Ich möchte ein Nickerchen machen.	मैं एक झपकी बनाना चाहता हूं।
-I want to watch this.	Ich möchte das sehen.	मुझे यह देखना है।
-I want to work again.	Ich will wieder arbeiten.	मैं फिर से काम करना चाहता हूं।
-I want what you want.	Ich will, was du willst.	मुझे चाहिए जो आप चाहते हैं।
-I want you to behave.	Ich will, dass du dich benimmst.	मैं चाहता हूं कि आप व्यवहार करें।
 I want you to listen.	Ich möchte, dass du zuhörst.	मैं चाहता हूं कि आप सुनें।
 I want you to use it.	Ich möchte, dass du es benutzt.	मैं चाहता हूं कि आप इसका उपयोग करें।
 I wanted them to win.	Ich wünschte, dass sie gewinnen.	काश आप जीत गए।
