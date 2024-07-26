@@ -1,14 +1,4 @@
 
-How'd you get here?	Wie bist du hierher gekommen?	आप यहाँ कैसे आए?
-How's married life?	Wie ist das Eheleben?	यह विवाहित जीवन कैसा है?
-How's your brother?	Wie geht es deinem Bruder?	आपके भाई कैसे है?
-How's your brother?	Wie geht es Ihrem Bruder?	आपके भाई कैसे है?
-I accept the offer.	Ich nehme das Angebot an.	मैं प्रस्ताव स्वीकार करता हूं।
-I admire Tom a lot.	Ich bewundere Tom sehr.	मैं टॉम की बहुत प्रशंसा करता हूं।
-I admire them both.	Ich bewundere alle beide.	मैं दोनों की प्रशंसा करता हूं।
-I admit my mistake.	Ich gebe meinen Fehler zu.	मैं अपनी गलती स्वीकार करता हूं।
-I advise customers.	Ich berate Kunden.	मैं ग्राहकों को सलाह देता हूं।
-I agree completely.	Ich bin vollkommen einverstanden.	मैं सहमत हूं।
 I agreed to buy it.	Ich willigte ein, es zu kaufen.	मैं इसे खरीदने के लिए सहमत हो गया।
 I almost forgot it.	Ich hätte es fast vergessen.	मैं लगभग इसके बारे में भूल गया होता।
 I almost forgot it.	Ich hätte es beinahe vergessen.	मैं इसे लगभग भूल गया।

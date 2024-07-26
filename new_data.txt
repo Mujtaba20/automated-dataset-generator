@@ -21023,3 +21023,12 @@ engSentence7	Wie werde ich es finden?	मैं इसे कैसे खोज
 engSentence8	Wie werden sie zurechtkommen?	वे कैसे निपटेंगे?
 engSentence9	Wie würdest du dich fühlen?	तुम कैसा महसूस करेंगे?
 engSentence10	Wie würdest du dich fühlen?	तुम्हें कैसा लगेगा?
+How'd you get here?	Wie bist du hierher gekommen?	तुम यहाँ कैसे पहुंचे?
+How's married life?	Wie ist das verheiratete Leben?	शादीशुदा जीवन कैसा है?
+How's your brother?	Wie ist dein Bruder?	तेरे भाई कैसा है?
+I accept the offer.	Ich akzeptiere das Angebot.	मैं प्रस्ताव स्वीकार करता हूँ।
+I admire Tom a lot.	Ich bewundere Tom sehr.	मैं टॉम की बहुत सराहना करता हूँ।
+I admire them both.	Ich bewundere sie beide.	मैं उन्हें दोनों की सराहना करता हूँ।
+I admit my mistake.	Ich gebe meinen Fehler zu.	मैं अपनी गलती स्वीकार करता हूँ।
+I advise customers.	Ich berate Kunden.	मैं ग्राहकों को सलाह देता हूँ।
+I agree completely.	Ich stimme vollkommen zu.	मैं पूरी तरह सहमत हूँ।
