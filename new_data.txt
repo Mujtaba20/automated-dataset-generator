@@ -35803,3 +35803,9 @@ You have been warned.	Du wurdest gewarnt.	तुम्हें चेताय�
 You have betrayed us.	Du hast uns verraten.	तुमने हमें धोखा दिया है।
 You have my blessing.	Du hast meinen Segen.	तुम्हारे पास मेरा आशीर्वाद है।
 You have no evidence.	Du hast keine Beweise.	तुम्हारे पास कोई सबूत नहीं है।
+You have no messages.	Sie haben keine Nachrichten.	आपके पास कोई संदेश नहीं है।
+You have to call Tom.	Du musst Tom anrufen.	आपको टॉम को कॉल करना होगा।
+You have to come now.	Du musst jetzt kommen.	आपको अभी आना है।
+You have to find Tom.	Du musst Tom finden.	आपको टॉम को खोजना है।
+You have to hurry up.	Du musst dich beeilen.	आपको जल्दी करना होगा।
+You have to rush.	Du musst dich beeilen.	आपको जल्दी करना है।

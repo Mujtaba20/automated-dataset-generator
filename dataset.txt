@@ -1,15 +1,4 @@
 
-You have no messages.	Du hast keine Nachrichten.	आपके पास कोई संदेश नहीं है।
-You have no messages.	Sie haben keine Nachrichten.	आपके पास कोई संदेश नहीं है।
-You have to call Tom.	Du musst Tom anrufen.	आपको टॉम को फोन करना होगा।
-You have to call Tom.	Sie müssen Tom anrufen.	आपको टॉम को फोन करना होगा।
-You have to come now.	Du musst jetzt kommen.	अब आपको आना है।
-You have to find Tom.	Du musst Tom finden.	आपको टॉम को ढूंढना होगा।
-You have to find Tom.	Ihr müsst Tom finden.	आपको टॉम को ढूंढना होगा।
-You have to find Tom.	Sie müssen Tom finden.	आपको टॉम को ढूंढना होगा।
-You have to hurry up.	Du musst dich beeilen!	आपको जल्दी करना होगा!
-You have to hurry up.	Ihr müsst euch beeilen!	आपको जल्दी करना होगा!
-You have to hurry up.	Sie müssen sich beeilen!	आपको जल्दी करना होगा!
 You have to see this.	Das musst du sehen.	आपको वह देखना होगा।
 You have to sit down.	Du musst dich setzen.	आपको बैठना होगा।
 You have to stay fit.	Sie müssen in Form bleiben.	आपको अपना सही आकार बरकरार रखना चाहिए।
