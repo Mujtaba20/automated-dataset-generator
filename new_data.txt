@@ -37194,3 +37194,11 @@ I can't wait any more.	Ich kann nicht länger warten.	मैं और इंत
 I can't work tomorrow.	Ich kann morgen nicht arbeiten.	मैं कल काम नहीं कर सकता।
 I can't work with Tom.	Ich kann nicht mit Tom arbeiten.	मैं टॉम के साथ काम नहीं कर सकता।
 I cannot speak German.	Ich kann kein Deutsch sprechen.	मैं जर्मन नहीं बोल सकता।
+I caught the last bus.	Ich habe den letzten Bus erwischt.	मैंने आखिरी बस को पकड़ लिया।
+I caught them kissing.	Ich habe sie beim Küssen erwischt.	मैंने उन्हें चुंबन लेते हुए पकड़ लिया।
+I checked Tom's pulse.	Ich habe Toms Puls überprüft.	मैंने टॉम की नाड़ी की जांच की।
+I chopped a tree down.	Ich habe einen Baum umgehauen.	मैंने एक पेड़ को गिरा दिया।
+I come from Australia.	Ich komme aus Australien.	मैं ऑस्ट्रेलिया से हूँ।
+I come here every day.	Ich komme hier jeden Tag.	मैं यहाँ हर दिन आता हूँ।
+I contacted Tom again.	Ich habe erneut mit Tom Kontakt aufgenommen.	मैंने फिर से टॉम से संपर्क किया।
+I could give it a try.	Ich könnte es versuchen.	मैं एक प्रयास कर सकता हूँ।
