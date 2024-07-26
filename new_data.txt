@@ -28703,3 +28703,12 @@ Tom got ahead of me.	Tom kam vor mir an.	टॉम मेरे आगे पह
 Tom got discouraged.	Tom wurde entmutigt.	टॉम को असाहस आ गया।
 Tom got in the boat.	Tom stieg ins Boot.	टॉम ने नाव में प्रवेश किया।
 Tom got off the bus.	Tom stieg aus dem Bus aus.	टॉम ने बस से उतर लिया।
+Tom got out of jail.	Tom kam aus dem Gefängnis.	टॉम को जेल से बाहर आना था।
+Tom got really sick.	Tom wurde wirklich krank.	टॉम सच में बीमार हो गया।
+Tom got soaking wet.	Tom wurde klatschnass.	टॉम भीग गया।
+Tom grabbed a chair.	Tom griff nach einem Stuhl.	टॉम ने एक कुर्सी पकड़ी।
+Tom grabbed a plate.	Tom schnappte sich einen Teller.	टॉम ने एक प्लेट पकड़ लिया।
+Tom grabbed his bag.	Tom griff nach seiner Tasche.	टॉम ने अपनी बैग पकड़ी।
+Tom grabbed my hand.	Tom griff nach meiner Hand.	टॉम ने मेरा हाथ पकड़ा।
+Tom grew a mustache.	Tom ließ sich einen Schnurrbart wachsen.	टॉम के एक मुँछ उग गई।
+Tom had a bad dream.	Tom hatte einen bösen Traum.	टॉम को एक बुरा सपना आया।
