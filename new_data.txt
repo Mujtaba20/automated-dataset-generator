@@ -29516,3 +29516,13 @@ Watch it there, Tom.	Pass auf, Tom.	ध्यान दें, टॉम।
 Watch your language.	Pass auf deine Sprache auf.	अपनी भाषा पर ध्यान दें।
 We all have secrets.	Wir alle haben Geheimnisse.	हम सबके पास रहस्य होते हैं।
 We all like cycling.	Wir alle mögen Radfahren.	हम सभी को साइकल चलाना पसंद है।
+We all speak French.	Wir alle sprechen Französisch.	हम सभी फ्रांसीसी बोलते हैं।
+We are finally free.	Wir sind endlich frei.	हम आखिरकार मुक्त हैं।
+We are good friends.	Wir sind gute Freunde.	हम अच्छे दोस्त हैं।
+We are his children.	Wir sind seine Kinder.	हम उसके बच्चे हैं।
+We are not speaking.	Wir sprechen nicht.	हम बात नहीं कर रहे हैं।
+We are very similar.	Wir sind sehr ähnlich.	हम बहुत मिलते-जुलते हैं।
+We aren't Canadians.	Wir sind keine Kanadier.	हम कनाडियन नहीं हैं।
+We aren't like that.	Wir sind nicht so.	हम उस तरह नहीं हैं।
+We aren't that poor.	Wir sind nicht so arm.	हम इतने गरीब नहीं हैं।
+We beat three teams.	Wir haben drei Teams besiegt.	हमने तीन टीमों को हराया।
