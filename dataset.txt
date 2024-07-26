@@ -1,14 +1,4 @@
 
-Tom kept on singing.	Tom sang weiter.	टॉम जारी रहा।
-Tom kept on walking.	Tom ging weiter.	टॉम जारी रहा।
-Tom kept on working.	Tom arbeitete weiter.	टॉम ने काम करना जारी रखा।
-Tom kept quite calm.	Tom blieb ganz ruhig.	टॉम शांत रहे।
-Tom kicked the ball.	Tom trat gegen den Ball.	टॉम ने गेंद के खिलाफ कदम रखा।
-Tom kicked the door.	Tom hat gegen die Tür getreten.	टॉम ने दरवाजा लात मारी।
-Tom killed the wolf.	Tom hat den Wolf getötet.	टॉम ने भेड़िया को मार डाला।
-Tom killed the wolf.	Tom tötete den Wolf.	टॉम ने भेड़िया को मार डाला।
-Tom killed the wolf.	Tom hat den Wolf umgebracht.	टॉम ने भेड़िया को मार डाला।
-Tom knew about this.	Tom wusste davon.	टॉम इसके बारे में जानता था।
 Tom knew everything.	Tom wusste alles.	टॉम सब कुछ जानता था।
 Tom knew the reason.	Tom kannte den Grund.	टॉम को कारण पता था।
 Tom knew what to do.	Tom wusste, was zu tun war.	टॉम जानता था कि क्या करना है।

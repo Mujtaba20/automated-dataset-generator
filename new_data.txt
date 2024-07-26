@@ -29037,3 +29037,11 @@ Tom isn't with Mary.	Tom ist nicht mit Mary.	टॉम मेरी के स�
 Tom just got dumped.	Tom wurde gerade abgeladen.	टॉम अभी कुडी गई।
 Tom kept me waiting.	Tom ließ mich warten.	टॉम ने मुझे इंतेज़ार कराया।
 Tom kept my lighter.	Tom behielt mein Feuerzeug.	टॉम ने मेरा लाइटर रखा।
+Tom kept on singing.	Tom sang weiter.	टॉम गाता ही रहा।
+Tom kept on walking.	Tom lief weiter.	टॉम चलता रहा।
+Tom kept on working.	Tom arbeitete weiter.	टॉम काम करता रहा।
+Tom kept quite calm.	Tom blieb ganz ruhig.	टॉम बहुत शांत रहा।
+Tom kicked the ball.	Tom trat den Ball.	टॉम ने गेंद को लात मारी।
+Tom kicked the door.	Tom trat die Tür.	टॉम ने दरवाजा थोका।
+Tom killed the wolf.	Tom hat den Wolf getötet.	टॉम ने भेड़िया को मार दिया।
+Tom knew about this.	Tom wusste darüber Bescheid.	टॉम को इसके बारे में पता था।
