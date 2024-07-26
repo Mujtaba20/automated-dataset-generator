@@ -1,16 +1,4 @@
 
-Don't make fun of Tom.	Mach dich nicht über Tom lustig!	टॉम के बारे में अपने आप को मजाकिया मत बनाओ!
-Don't make me do that.	Zwing mich nicht, das zu tun!	मुझे ऐसा करने के लिए मजबूर न करें!
-Don't make me do this.	Zwinge mich nicht, das zu tun.	मुझे ऐसा करने के लिए मजबूर न करें।
-Don't make me do this.	Bring mich nicht dazu, das zu machen.	मुझे ऐसा करने के लिए मत जाओ।
-Don't make noise here.	Mach hier keinen Lärm.	यहाँ कोई शोर मत करो।
-Don't mention it, Tom.	Gern geschehen, Tom!	बेझिझक होने के लिए, टॉम!
-Don't mention it, Tom.	Keine Ursache, Tom!	कोई कारण नहीं, टॉम!
-Don't open the window.	Öffnet das Fenster nicht.	खिड़की मत खोलो।
-Don't open the window.	Öffnen Sie das Fenster nicht.	खिड़की मत खोलो।
-Don't pick up the cat.	Nimm die Katze nicht auf den Arm.	बिल्ली को अपनी बाहों पर न लें।
-Don't pick up the cat.	Nehmt die Katze nicht auf den Arm.	बिल्ली को अपनी बाहों पर मत रखो।
-Don't pick up the cat.	Nehmen Sie die Katze nicht auf den Arm.	बिल्ली को गले मत लगाओ।
 Don't put it that way.	Drücken Sie es nicht auf diese Weise aus!	इसे इस तरह से व्यक्त न करें!
 Don't put it that way.	Drück es nicht auf diese Weise aus!	इसे इस तरह से बाहर न दबें!
 Don't put it that way.	Sag das nicht so!	ऐसा मत कहो!

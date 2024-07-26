@@ -36535,3 +36535,10 @@ Don't let the dog out.	Lass den Hund nicht entkommen.	कुत्ता बा�
 Don't lie to me again.	Lüge mich nicht wieder an.	मुझसे फिर से झूठ नहीं बोलो।
 Don't lose heart, Tom.	Verliere nicht den Mut, Tom.	हौंसला न गँवा, टॉम।
 Don't lose your purse.	Verlier nicht deine Geldbörse.	अपना बटुआ न खो देना।
+Don't make fun of Tom.	Mach dich nicht über Tom lustig.	टॉम का मज़ाक मत बनाओ।
+Don't make me do that.	Zwing mich nicht dazu.	मुझसे ऐसा मत करवाओ।
+Don't make me do this.	Zwing mich nicht dazu.	मुझसे यह मत करवाओ।
+Don't make noise here.	Mach hier kein Lärm.	यहाँ शोर मत मचाओ।
+Don't mention it, Tom.	Erwähne es nicht, Tom.	मत उल्टा टॉम।
+Don't open the window.	Öffne das Fenster nicht.	खिड़की न मत खोलो।
+Don't pick up the cat.	Nimm die Katze nicht hoch.	बिल्ली को न उठाओ।
