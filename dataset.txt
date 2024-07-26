@@ -1,14 +1,4 @@
 
-I live in Boston, too.	Ich lebe auch in Boston.	मैं भी बोस्टन में रहता हूं।
-I live in Boston, too.	Ich wohne auch in Boston.	मैं भी बोस्टन में रहता हूं।
-I live in the country.	Ich wohne auf dem Land.	मैं कॉन्ट्रायसाइड में रहता हूं।
-I live in the country.	Ich lebe auf dem Land.	मैं ग्रामीण इलाकों में रहते हैं।
-I live with my father.	Ich wohne bei meinem Vater.	मैं अपने पिता के साथ रहता हूं।
-I look like my father.	Ich sehe aus wie mein Vater.	मैं अपने पिता की तरह दिखता।
-I looked right at Tom.	Ich sah Tom direkt an.	मैंने सीधे टॉम को देखा।
-I looked right at Tom.	Ich sah Tom geraden Blicks an.	मैंने टॉम स्ट्रेट टकटकी को देखा।
-I lost a lot of blood.	Ich habe viel Blut verloren.	मेरा बहुत सारा खून बह गया है.
-I lost a lot of blood.	Ich habe eine Menge Blut verloren.	मैंने बहुत खून खो दिया।
 I lost a lot of money.	Ich habe viel Geld verloren.	मैंने बहुत पैसा खो दिया।
 I lost my credit card.	Ich habe meine Kreditkarte verloren.	मैंने अपना क्रेडिट कार्ड खो दिया।
 I lost my inspiration.	Ich habe meine Inspiration verloren.	मैंने अपनी प्रेरणा खो दी।

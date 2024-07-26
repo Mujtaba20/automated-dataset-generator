@@ -37664,3 +37664,9 @@ I like to play tennis.	Ich spiele gerne Tennis.	मुझे टेनिस ख
 I like to watch anime.	Ich sehe gerne Anime.	मुझे ऐनिमे देखना पसंद है।
 I like to write poems.	Ich schreibe gerne Gedichte.	मुझे कविताएँ लिखना पसंद है।
 I like your frankness.	Ich mag deine Offenheit.	मुझे तुम्हारी सरलता पसंद है।
+I live in Boston, too.	Ich wohne auch in Boston.	मैं भी बॉस्टन में रहता हूं।
+I live in the country.	Ich lebe im ländlichen Raum.	मैं गाँव में रहता हूं।
+I live with my father.	Ich lebe mit meinem Vater.	मैं अपने पिताजी के साथ रहता हूं।
+I look like my father.	Ich sehe meinem Vater ähnlich.	मैं अपने पिताजी जैसा लगता हूं।
+I looked right at Tom.	Ich schaute direkt zu Tom.	मैंने सीधे तोम को देखा।
+I lost a lot of blood.	Ich habe eine Menge Blut verloren.	मुझसे बहुत खून बह गया।
