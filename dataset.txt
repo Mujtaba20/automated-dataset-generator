@@ -1,15 +1,4 @@
 
-I'm right beside you.	Ich bin direkt neben dir.	मैं आपके ठीक बगल में हूं।
-I'm smarter than you.	Ich bin schlauer als du.	मैं तुमसे ज्यादा तेज हूं।
-I'm sorry I can't go.	Es tut mir leid, ich kann nicht gehen.	मुझे क्षमा करें, मैं नहीं जा सकता।
-I'm sorry I woke you.	Entschuldige, dass ich dich geweckt habe!	क्षमा करें कि मैंने आपको जगाया!
-I'm sorry I woke you.	Entschuldigt, dass ich euch geweckt habe!	क्षमा करें कि मैंने आपको जगाया!
-I'm sorry I woke you.	Entschuldigen Sie, dass ich Sie geweckt habe!	मुझे माफ करना कि मैं जाग गया!
-I'm sorry about that.	Das tut mir leid.	उसके लिए क्षमा करें।
-I'm sorry about this.	Das tut mir leid.	उसके लिए क्षमा करें।
-I'm sorry to be late.	Es tut mir leid, dass ich zu spät komme.	मुझे खेद है कि मुझे देर हो चुकी है।
-I'm still dating Tom.	Ich bin noch immer mit Tom zusammen.	मैं अभी भी टॉम के साथ हूं।
-I'm still dating Tom.	Ich gehe noch immer mit Tom.	मैं अभी भी टॉम के साथ जा रहा हूं।
 I'm still not hungry.	Ich habe immer noch keinen Hunger.	मुझे अभी भी कोई भूख नहीं है।
 I'm stuck in the mud.	Ich stecke im Schlamm fest.	मैं कीचड़ में फंस गया हूं।
 I'm studying English.	Ich studiere Englisch.	मैं अंग्रेजी की पढ़ाई करता हुँ।

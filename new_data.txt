@@ -32584,3 +32584,11 @@ I'm rather impressed.	Ich bin eher beeindruckt.	मुझे बहुत प्
 I'm really very busy.	Ich bin wirklich sehr beschäftigt.	मैं सचमुच बहुत व्यस्त हूँ।
 I'm right behind Tom.	Ich bin direkt hinter Tom.	मैं सीधे टॉम के पीछे हूँ।
 I'm right behind you.	Ich bin direkt hinter dir.	मैं सीधे तुम्हारे पीछे हूँ।
+I'm right beside you.	Ich bin direkt neben dir.	मैं तुम्हारे साथ हूँ।
+I'm smarter than you.	Ich bin klüger als du.	मैं आपसे ज्यादा समझदार हूँ।
+I'm sorry I can't go.	Es tut mir leid, dass ich nicht gehen kann.	मुझे खेद है कि मैं जा नहीं सकता।
+I'm sorry I woke you.	Es tut mir leid, dass ich dich geweckt habe.	माफ़ कीजिए, मैंने तुम्हें जगाया।
+I'm sorry about that.	Es tut mir leid wegen dem.	उसके बारे में मुझे खेद है।
+I'm sorry about this.	Es tut mir leid wegen diesem.	इसके बारे में मुझे खेद है।
+I'm sorry to be late.	Entschuldigung für die Verspätung.	मुझे देरी के लिए खेद है।
+I'm still dating Tom.	Ich treffe immer noch Tom.	मैं अभी भी टॉम से मिल रहा हूँ।
