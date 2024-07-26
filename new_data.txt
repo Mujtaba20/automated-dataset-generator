@@ -36088,3 +36088,11 @@ Are you enjoying this? - 2	Machst du das gerne?	क्या आप इसे �
 Are you enjoying this? - 3	Fällt dir das schwer?	क्या आप इसे आनंद ले रहे हो?
 Are you enjoying this? - 4	Ist das angenehm für dich?	क्या आप इसे आनंद ले रहे हैं?
 Are you feeling tired?	Fühlst du dich müde?	क्या आप थक गए हैं?
+Are you finished here?	Bist du hier fertig?	क्या आप यहाँ समाप्त हो गए हैं?
+Are you fond of music?	Magst du Musik?	क्या आप संगीत के प्रेमी हैं?
+Are you free tomorrow?	Bist du morgen frei?	क्या आप कल फ्री हैं?
+Are you free tomorrow? (Different meaning)	Hast du morgen Zeit?	क्या आपके पास कल समय है?
+Are you free tomorrow? (Different meaning 2)	Stehst du morgen zur Verfügung?	क्या आप कल उपलब्ध हैं?
+Are you from the bank?	Bist du von der Bank?	क्या तुम बैंक से हो?
+Are you from the bank? (Different meaning)	Kommst du von der Bank?	क्या तुम बैंक से आए हो?
+Are you getting tired?	Wirst du müde?	क्या तुम थक रहे हो?

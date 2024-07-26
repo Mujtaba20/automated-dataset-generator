@@ -1,14 +1,4 @@
 
-Are you finished here?	Bist du hier fertig?	क्या आप यहाँ तैयार हैं?
-Are you fond of music?	Mögen Sie Musik?	क्या आपको संगीत पसंद है?
-Are you free tomorrow?	Hast du morgen Zeit?	क्या कल तुम्हारे पास समय है?
-Are you free tomorrow?	Habt ihr morgen Zeit?	क्या कल तुम्हारे पास समय है?
-Are you free tomorrow?	Haben Sie morgen Zeit?	क्या आपको कल फुर्सत मिलेगी?
-Are you from the bank?	Bist du von der Bank?	क्या आप बैंक से हैं
-Are you from the bank?	Seid ihr von der Bank?	क्या आप बैंक से हैं?
-Are you from the bank?	Sind Sie von der Bank?	क्या आप बैंक से हैं?
-Are you getting tired?	Wirst du müde?	क्या आप थके हैं?
-Are you getting tired?	Ermüdest du?	क्या आप टायर करते हैं
 Are you going to come?	Wirst du kommen?	क्या आप आएंगे?
 Are you going to sing?	Wirst du singen?	क्या आप गाएंगे?
 Are you going with me?	Gehst du mit mir?	क्या तुम मेरे साथ चल रहे हो?
