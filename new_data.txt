@@ -41153,3 +41153,12 @@ We're getting married.	Wir heiraten.	हम शादी कर रहे है
 We're going out again.	Wir gehen wieder raus.	हम फिर बाहर जा रहे हैं।
 We're going to Boston.	Wir fahren nach Boston.	हम बॉस्टन जा रहे हैं।
 We're going to go now.	Wir werden jetzt gehen.	हम अब जाने जा रहे हैं।
+We're here to see Tom.	Wir sind hier, um Tom zu sehen.	हम यहाँ टॉम से मिलने आए हैं।
+We're just pretending.	Wir tun nur so.	हम सिर्फ दिखावा कर रहे हैं।
+We're late for school.	Wir kommen zu spät zur Schule.	हम विद्यालय के लिए देर से आ रहे हैं।
+We're learning French.	Wir lernen Französisch.	हम फ्रेंच सीख रहे हैं।
+We're leaving tonight.	Wir verlassen heute Nacht.	हम आज रात को जा रहे हैं।
+We're looking for Tom.	Wir suchen Tom.	हम टॉम को ढूंढ़ रहे हैं।
+We're looking for oil.	Wir suchen nach Öl.	हम तेल की तलाश में हैं।
+We're nearly finished.	Wir sind fast fertig.	हम लगभग समाप्त हो गए हैं।
+We're not going there.	Wir gehen nicht dorthin.	हम वहाँ नहीं जा रहे हैं।
