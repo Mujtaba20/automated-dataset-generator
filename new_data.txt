@@ -24353,3 +24353,10 @@ We swam in the sea.	Wir schwammen im Meer.	हम समुंदर में �
 We swam in the sea. (Different meaning)	Wir sind im Meer geschwommen.	हमने समुंदर में तैराकी।
 We talked about it.	Wir haben darüber gesprochen.	हमने उसके बारे में बात की।
 We understand that.	Wir verstehen das.	हम उसे समझते हैं।
+We understand this.	Wir verstehen das.	हम इसे समझते हैं।
+We want more money.	Wir wollen mehr Geld.	हमें और पैसे चाहिए।
+We want to go home.	Wir wollen nach Hause gehen.	हम घर जाना चाहते हैं।
+We want to see Tom.	Wir wollen Tom sehen.	हम टॉम को देखना चाहते हैं।
+We want to see you.	Wir wollen dich sehen.	हम तुम्हें देखना चाहते हैं।
+We want to take it.	Wir wollen es nehmen.	हम इसे लेना चाहते हैं।
+We watched a movie.	Wir haben einen Film angeschaut.	हमने एक फिल्म देखी।

@@ -1,14 +1,4 @@
 
-We understand this.	Wir verstehen das.	हम समझते हैं।
-We want more money.	Wir wollen mehr Geld.	हम अधिक पैसा चाहते हैं।
-We want to go home.	Wir wollen nach Hause gehen.	हम घर जाना चाहते हैं।
-We want to see Tom.	Wir wollen Tom sehen.	हम टॉम को देखना चाहते हैं।
-We want to see you.	Wir wollen dich sehen.	हम आपसे मिलना चाहते हैं।
-We want to take it.	Wir wollen es nehmen.	हम इसे लेना चाहते हैं।
-We want to take it.	Wir möchten es nehmen.	हम इसे लेना चाहते हैं।
-We want to take it.	Wir möchten ihn nehmen.	हम इसे लेना चाहते हैं।
-We want to take it.	Wir möchten sie nehmen.	हम इसे लेना चाहते हैं।
-We watched a movie.	Wir haben uns einen Film angesehen.	हमने एक फिल्म देखी।
 We went for a walk.	Wir sind spazieren gegangen.	हम घूमने गए थे।
 We went to a movie.	Wir sind ins Kino gegangen.	हम सिनेमा गए।
 We went to the zoo.	Wir sind in den Zoo gegangen.	हम चिड़ियाघर गए।
