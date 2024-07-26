@@ -38157,3 +38157,9 @@ I'm Tom's grandfather.	Ich bin Toms Großvater.	मैं टॉम के द�
 I'm Tom's grandmother.	Ich bin Toms Großmutter.	मैं टॉम की दादी हूँ।
 I'm Tom's stepbrother.	Ich bin Toms Stiefbruder.	मैं टॉम का स्टेपब्रदर हूँ।
 I'm a big fan of golf.	Ich bin ein großer Fan von Golf.	मैं गोल्फ का बड़ा प्रशंसक हूँ।
+I'm a cab driver, too.	Ich bin auch ein Taxifahrer.	मैं भी एक कैब चालक हूँ।
+I'm a college student.	Ich bin Student an der Universität.	मैं कॉलेज का छात्र हूँ।
+I'm a country boy now.	Ich bin jetzt ein Landjunge.	मैं अब गांव का लड़का हूँ।
+I'm a little busy now.	Ich bin jetzt ein wenig beschäftigt.	मैं अभी थोड़ा व्यस्त हूँ।
+I'm a little confused.	Ich bin ein wenig verwirrt.	मैं थोड़ा उलझन में हूँ।
+I'm a lot happier now.	Ich bin jetzt viel glücklicher.	मैं अब बहुत खुश हूँ।

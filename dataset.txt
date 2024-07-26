@@ -1,14 +1,4 @@
 
-I'm a cab driver, too.	Ich bin auch Taxifahrer.	मैं एक टैक्सी ड्राइवर भी हूं।
-I'm a cab driver, too.	Ich bin auch Taxifahrerin.	मैं एक टैक्सी ड्राइवर भी हूं।
-I'm a college student.	Ich bin Student.	मैं छात्र हूँ।
-I'm a college student.	Ich bin Schüler an einem College.	मैं एक कॉलेज में एक छात्र हूं।
-I'm a college student.	Ich gehe zur Hochschule.	मैं विश्वविद्यालय जाता हूँ।
-I'm a country boy now.	Ich bin jetzt ein Landjunge.	मैं अब एक देश का लड़का हूँ।
-I'm a little busy now.	Ich bin gerade ein bisschen beschäftigt.	मैं अभी थोड़ा व्यस्त हूं।
-I'm a little confused.	Ich bin ein bisschen verwirrt.	मैं कुछ उलझन में हूं।
-I'm a little confused.	Ich bin ein bisschen durcheinander.	मैं थोड़ा उलझन में हूँ।
-I'm a lot happier now.	Ich bin jetzt viel glücklicher.	मैं अब बहुत खुश हूँ।
 I'm a married man now.	Ich bin jetzt ein verheirateter Mann.	मैं अब एक विवाहित आदमी हूं।
 I'm a race car driver.	Ich bin Rennwagenfahrer.	मैं एक रेसिंग कार ड्राइवर हूं।
 I'm a race car driver.	Ich bin Rennwagenfahrerin.	मैं एक रेसिंग कार ड्राइवर हूं।
