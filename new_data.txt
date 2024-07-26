@@ -26721,3 +26721,11 @@ I tore up the paper.	Ich habe das Papier zerrissen.	मैंने कागज
 I tried not to look.	Ich habe versucht, nicht hinzusehen.	मैंने कोशिश की नहीं देखने की।
 I tried really hard.	Ich habe mich wirklich angestrengt.	मैंने वास्तव में कठिन प्रयास किया।
 I tried to help her.	Ich habe versucht, ihr zu helfen.	मैंने उसकी मदद करने की कोशिश की।
+I tried to help him.	Ich habe versucht, ihm zu helfen.	मैंने कोशिश की कि मैं उसकी मदद कर सकूँ।
+I tried to save you.	Ich habe versucht, dich zu retten.	मैंने कोशिश की कि मैं तुम्हें बचा सकूँ।
+I tried to save you. (altered meaning)	Ich habe versucht, Sie zu schützen.	मैंने कोशिश की कि मैं तुम्हें बचाऊं।
+I tried to tell Tom.	Ich habe versucht, Tom zu sagen.	मैंने कोशिश की कि मैं टॉम को बता सकूँ।
+I tried to tell you.	Ich habe versucht, dir zu sagen.	मैंने कोशिश की कि मैं तुम्हें बता सकूँ।
+I tried to tell you. (altered meaning)	Ich habe versucht, es dir zu sagen.	मैंने कोशिश की कि मैं यह तुम्हें बता सकूँ।
+I trimmed the hedge.	Ich habe die Hecke geschnitten.	मैंने झाड़ी काटी।
+I trust your advice.	Ich vertraue deinem Rat.	मैं तुम्हारे सलाह पर भरोसा करता हूँ।
