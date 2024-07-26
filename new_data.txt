@@ -30955,3 +30955,10 @@ He attained his goal.	Er erreichte sein Ziel.	उसने अपना लक�
 He began to feel ill.	Er begann sich krank zu fühlen.	उसने बीमार महसूस करना शुरू किया।
 He blew soap bubbles.	Er blies Seifenblasen.	उसने साबुन की बुलबुलें उड़ाईं।
 He breathed his last.	Er hauchte sein Leben aus.	उसने आखिरी सांस ली।
+He broke his promise.	Er brach sein Versprechen.	उसने अपना वादा तोड़ दिया।
+He built a new house.	Er baute ein neues Haus.	उसने एक नया घर बनाया।
+He called her mobile.	Er rief ihr Handy an.	उसने उसके मोबाइल पर कॉल किया।
+He came into my room.	Er kam in mein Zimmer.	वह मेरे कमरे में आया।
+He came to my rescue.	Er kam zu meiner Rettung.	उसने मेरी मदद के लिए आया।
+He can be counted on.	Man kann sich auf ihn verlassen.	उस पर भरोसा किया जा सकता है।
+He can't take a joke.	Er versteht keinen Spaß.	वह मजाक नहीं समझता।
