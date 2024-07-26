@@ -1,14 +1,4 @@
 
-I hate to eat alone.	Ich hasse es, allein zu essen.	मुझे अकेले खाने से नफरत है।
-I have a beer belly.	Ich habe einen Bierbauch.	मेरे पास एक बीयर पेट है।
-I have a big family.	Ich habe eine große Familie.	मेरा एक बड़ा परिवार है।
-I have a boring job.	Ich habe eine langweilige Arbeit.	मेरे पास एक उबाऊ काम है।
-I have a dictionary.	Ich habe ein Wörterbuch.	मेरे पास एक शब्दकोश है।
-I have a dictionary.	Ich besitze ein Wörterbuch.	मेरे पास एक शब्दकोश है।
-I have a disability.	Ich habe eine Behinderung.	मेरे पास एक हैंडकैप है।
-I have a family now.	Ich habe jetzt eine Familie.	मेरा अब एक परिवार है।
-I have a girlfriend.	Ich habe eine Freundin.	मेरी एक माशूका है।
-I have a high fever.	Ich habe hohes Fieber.	मुझे तेज बुखार है।
 I have a lawyer now.	Ich habe jetzt einen Anwalt.	मेरे पास अब एक वकील है।
 I have a long beard.	Ich habe einen langen Bart.	मेरी लंबी दाढ़ी है।
 I have a runny nose.	Ich habe eine laufende Nase.	मेरी नाक बह रही है.

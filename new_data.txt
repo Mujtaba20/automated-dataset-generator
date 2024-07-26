@@ -26297,3 +26297,12 @@ I hate living alone.	Ich hasse es, alleine zu leben.	मैंने अके�
 I hate losing money.	Ich hasse es, Geld zu verlieren.	मुझे पैसे खोने से नफरत है।
 I hate that so much.	Das hasse ich so sehr.	मैं उससे इतनी नफरत करता हूँ।
 I hate this village.	Ich hasse dieses Dorf.	मुझे इस गाँव से नफरत है।
+I hate to eat alone.	Ich hasse es, alleine zu essen.	मुझे अकेले खाना पसंद नहीं है।
+I have a beer belly.	Ich habe einen Bierbauch.	मेरे पेट में बीयर की चर्बी है।
+I have a big family.	Ich habe eine große Familie.	मेरे पास एक बड़ा परिवार है।
+I have a boring job.	Ich habe einen langweiligen Job.	मेरा काम उबाऊ है।
+I have a dictionary.	Ich habe ein Wörterbuch.	मेरे पास एक शब्दकोश है।
+I have a disability.	Ich habe eine Behinderung.	मेरे पास एक विकलांगता है।
+I have a family now.	Ich habe jetzt eine Familie.	मेरे पास अब परिवार है।
+I have a girlfriend.	Ich habe eine Freundin.	मेरी कोई गर्लफ्रेंड है।
+I have a high fever.	Ich habe hohes Fieber.	मुझे उच्च बुखार है।
